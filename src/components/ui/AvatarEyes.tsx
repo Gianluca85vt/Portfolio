@@ -5,7 +5,8 @@ import type { MotionValue } from 'framer-motion';
 /**
  * The avatar with eyes that track the cursor.
  *
- * The render itself is used untouched. For each eye a copy of the whole eyeball
+ * The render itself is used untouched -- `avatar-3d.png` is the source render and
+ * is displayed as-is. For each eye a copy of the whole eyeball
  * — sclera, iris, the render's own shading — is cut out as `eye-layer-*.png` and
  * slides on top of it, clipped by `eye-mask-*.png` so it can never reach the
  * lashes. At rest the layer lands exactly on itself, so the avatar is identical
@@ -94,7 +95,7 @@ export default function AvatarEyes({ className = '', alt }: AvatarEyesProps) {
   return (
     <div ref={wrapRef} className="relative inline-block">
       <img
-        src="/img/me/avatar-base.png"
+        src="/img/me/avatar-3d.png"
         alt={alt}
         className={className}
         draggable={false}

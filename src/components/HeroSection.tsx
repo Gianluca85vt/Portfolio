@@ -15,13 +15,14 @@ export default function HeroSection() {
         as="nav"
         delay={0}
         y={-20}
-        className="relative z-20 flex justify-between px-6 md:px-10 pt-6 md:pt-8"
+        className="relative z-20 flex justify-between gap-x-2 px-6 md:px-10 pt-6 md:pt-8"
       >
         {nav.map((item) => (
           <a
             key={item.label}
             href={item.href}
-            className="text-[#D7E2EA] font-medium uppercase tracking-wider text-sm md:text-lg lg:text-[1.4rem] transition-opacity duration-200 hover:opacity-70"
+            /* six items have to clear 320px without touching */
+            className="text-[#D7E2EA] font-medium uppercase tracking-wider whitespace-nowrap text-[0.7rem] sm:text-sm md:text-lg lg:text-[1.4rem] transition-opacity duration-200 hover:opacity-70"
           >
             {item.label}
           </a>
