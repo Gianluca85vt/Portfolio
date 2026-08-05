@@ -3,6 +3,7 @@ import type { LucideIcon } from 'lucide-react';
 import FadeIn from './ui/FadeIn';
 import GlowText from './ui/GlowText';
 import ContactButton from './ui/ContactButton';
+import SocialLinks from './ui/SocialLinks';
 import { site, jian } from '../data/portfolio';
 
 type ContactLink = {
@@ -87,6 +88,13 @@ export default function ContactSection() {
               </span>
             </a>
           ))}
+        </FadeIn>
+
+        <FadeIn delay={0.3} y={20} className="flex flex-col items-center gap-5 sm:gap-6">
+          <h3 className="text-[#D7E2EA]/50 font-light uppercase tracking-widest text-[0.65rem] sm:text-xs">
+            Find me
+          </h3>
+          <SocialLinks />
         </FadeIn>
 
         <p className="text-[#D7E2EA]/35 font-light uppercase tracking-widest text-[0.65rem] sm:text-xs text-center pt-4">

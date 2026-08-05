@@ -7,7 +7,7 @@ import { about } from '../data/portfolio';
 /** Decorative artwork anchored in the four corners. */
 const corners = [
   {
-    src: '/img/concept/xiu.jpg',
+    src: '/img/concept/xiu-colore.jpg',
     alt: 'Xiu character concept',
     position: 'top-[4%] left-[1%] sm:left-[2%] md:left-[4%]',
     size: 'w-[120px] sm:w-[160px] md:w-[210px]',
@@ -23,7 +23,7 @@ const corners = [
     x: -80,
   },
   {
-    src: '/img/concept/overseer.png',
+    src: '/img/concept/overseerer-color-corpo-def-1.png',
     alt: 'Overseer character concept',
     position: 'top-[4%] right-[1%] sm:right-[2%] md:right-[4%]',
     size: 'w-[120px] sm:w-[160px] md:w-[210px]',
