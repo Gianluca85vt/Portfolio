@@ -36,6 +36,38 @@ Il build finisce in `dist/`, pronto per Netlify, Vercel, GitHub Pages o qualsias
 | Resume            | Link al CV in `ContactSection`                                     |
 | —                 | `AiSection` è nuova, non c'era sul sito Weebly                      |
 
+## Membership e blog
+
+Il sito ha tre rotte: `/` (home), `/members`, `/blog` e `/blog/:slug`.
+
+**Membership.** Pagamenti, account e consegna dei contenuti stanno su **Ko-fi**, non qui.
+Vendere abbonamenti digitali in proprio renderebbe Gianluca il venditore di record, con
+obblighi IVA/OSS in tutta l'UE: Ko-fi se li assume ed è la piattaforma con le commissioni
+più basse a questo prezzo. La pagina `/members` è una landing che vende il valore e porta
+lì. Prezzo e testi stanno in `members` dentro [`portfolio.ts`](src/data/portfolio.ts);
+l'URL Ko-fi va aggiornato lì quando l'account è attivo.
+
+**Blog.** Gli articoli sono file Markdown in `src/content/blog/`, con un blocco
+frontmatter in cima:
+
+```
+---
+title: Titolo dell'articolo
+date: 2026-08-06
+category: 3D
+excerpt: Una riga che compare nella card.
+cover: /img/video/U9QQZWzm9Ac.jpg
+---
+```
+
+`category` deve essere uno dei valori in `blogCategories` (3D, AI, Games, Manga,
+Film & TV, Collecting). `excerpt` e `cover` sono opzionali. Per pubblicare basta
+aggiungere il file e fare push: Vite li incorpora nel bundle, nessun CMS e nessuna
+chiamata a runtime.
+
+`vercel.json` contiene una rewrite verso `index.html`: senza, aprire `/blog/qualcosa`
+direttamente darebbe 404, perché il routing è lato client.
+
 ## Struttura
 
 ```

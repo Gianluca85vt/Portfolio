@@ -53,14 +53,66 @@ export const socials = [
   },
 ] as const;
 
+/** `to` means a router route; `href` means an anchor on the home page. */
 export const nav = [
   { label: 'About', href: '#about' },
   { label: 'Skills', href: '#skills' },
   { label: 'AI', href: '#ai' },
-  { label: 'Showreel', href: '#showreel' },
   { label: 'Work', href: '#work' },
+  { label: 'Members', to: '/members' },
+  { label: 'Blog', to: '/blog' },
   { label: 'Contact', href: '#contact' },
 ] as const;
+
+/**
+ * Membership. Payments, member accounts and gated delivery all live on Ko-fi:
+ * selling digital subscriptions directly would make Gianluca the seller of
+ * record and pull in EU VAT/OSS obligations. Ko-fi absorbs that, and its fees
+ * are the lowest of the platforms at this price point.
+ */
+export const members = {
+  price: '4.90',
+  currency: '€',
+  period: 'month',
+  kofi: 'https://ko-fi.com/gianlucascattarella',
+  heading: 'Members',
+  tagline: 'the full-length versions, and everything i use to make them',
+  intro:
+    "On YouTube i post timelapses — 3x, 4x, sometimes faster. They look good, but you can't learn from them. Here the same work runs at 1x: every decision, every mistake, every fix, in real time. And the files come with it.",
+  perks: [
+    {
+      icon: 'play',
+      title: 'Full videos at 1x',
+      body: 'The same builds you see sped up on YouTube, uncut and in real time. Modelling, lookdev, lighting and the technical passes, narrated as they happen.',
+    },
+    {
+      icon: 'folder',
+      title: 'The resources i actually use',
+      body: 'Scene files, HDRIs, textures, node groups and presets from the projects — the working versions, not a cleaned-up demo.',
+    },
+    {
+      icon: 'library',
+      title: 'The whole back catalogue',
+      body: 'Everything published so far, available the moment you join. It keeps growing and nothing gets taken down.',
+    },
+    {
+      icon: 'message',
+      title: 'Ask me things',
+      body: 'Questions on the work, on a technique, or on a problem you are stuck with. I read and answer them.',
+    },
+  ],
+} as const;
+
+export const blogCategories = [
+  '3D',
+  'AI',
+  'Games',
+  'Manga',
+  'Film & TV',
+  'Collecting',
+] as const;
+
+export type BlogCategory = (typeof blogCategories)[number];
 
 export const about = {
   heading: 'About me',

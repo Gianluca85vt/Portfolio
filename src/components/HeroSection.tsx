@@ -1,9 +1,13 @@
+import { Link } from 'react-router-dom';
 import FadeIn from './ui/FadeIn';
 import Magnet from './ui/Magnet';
 import AvatarEyes from './ui/AvatarEyes';
 import GlowText from './ui/GlowText';
 import ContactButton from './ui/ContactButton';
 import { nav, site } from '../data/portfolio';
+
+const LINK_CLASS =
+  'shrink-0 text-[#D7E2EA] font-medium uppercase tracking-wider whitespace-nowrap text-[0.7rem] sm:text-sm md:text-base lg:text-[1.25rem] transition-opacity duration-200 hover:opacity-70';
 
 export default function HeroSection() {
   return (
@@ -15,18 +19,24 @@ export default function HeroSection() {
         as="nav"
         delay={0}
         y={-20}
-        className="relative z-20 flex justify-between gap-x-2 px-6 md:px-10 pt-6 md:pt-8"
+        /* seven items: scroll sideways rather than crush them on narrow phones */
+        className="relative z-20 flex justify-between gap-x-3 sm:gap-x-2 px-6 md:px-10 pt-6 md:pt-8 overflow-x-auto no-scrollbar"
       >
-        {nav.map((item) => (
-          <a
-            key={item.label}
-            href={item.href}
-            /* six items have to clear 320px without touching */
-            className="text-[#D7E2EA] font-medium uppercase tracking-wider whitespace-nowrap text-[0.7rem] sm:text-sm md:text-lg lg:text-[1.4rem] transition-opacity duration-200 hover:opacity-70"
-          >
-            {item.label}
-          </a>
-        ))}
+        {nav.map((item) =>
+          'to' in item ? (
+            <Link
+              key={item.label}
+              to={item.to}
+              className={LINK_CLASS}
+            >
+              {item.label}
+            </Link>
+          ) : (
+            <a key={item.label} href={item.href} className={LINK_CLASS}>
+              {item.label}
+            </a>
+          )
+        )}
       </FadeIn>
 
       <div className="relative z-20 overflow-hidden px-6 md:px-10">
