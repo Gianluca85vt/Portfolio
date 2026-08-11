@@ -116,6 +116,26 @@ export const blogCategories = [
 
 export type BlogCategory = (typeof blogCategories)[number];
 
+/**
+ * Comments run on Giscus, which stores threads in this repo's GitHub
+ * Discussions: no backend, no database, no tracking, and moderation happens on
+ * GitHub. Commenting does require a GitHub account.
+ *
+ * To switch it on:
+ *   1. GitHub repo → Settings → General → Features → tick Discussions
+ *   2. Install the Giscus app: github.com/apps/giscus
+ *   3. Open giscus.app, enter the repo, pick a Discussions category
+ *      (Announcements is the usual choice), and copy the two ids it prints
+ *   4. Paste them below and set enabled to true
+ */
+export const comments = {
+  enabled: false,
+  repo: 'Gianluca85vt/Portfolio',
+  repoId: '',
+  category: 'Announcements',
+  categoryId: '',
+} as const;
+
 export const about = {
   heading: 'About me',
   body: "I'm a Senior 3D Environment and Technical Artist with an absolute dedication to creating high-impact digital worlds. Trained in illustration at the International School of Comics, i pair that artistic foundation with the technical craft of environment design, workflow optimisation and photorealistic rendering. Computer graphics isn't just about software — it's the ultimate medium for storytelling and for pushing the boundaries of reality. Let's build something incredible together!",

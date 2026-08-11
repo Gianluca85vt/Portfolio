@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.gianlucascattarella.it/sitemap-index.xml

@@ -6,11 +6,12 @@ import AiSection from './AiSection';
 import ShowreelSection from './ShowreelSection';
 import ProjectsSection from './ProjectsSection';
 import ContactSection from './ContactSection';
+import type { LatestPost } from './ui/AvatarBubble';
 
-export default function HomePage() {
+export default function HomePage({ latest = [] }: { latest?: LatestPost[] }) {
   return (
     <>
-      <HeroSection />
+      <HeroSection latest={latest} />
       <MarqueeSection />
       <AboutSection />
       <ServicesSection />

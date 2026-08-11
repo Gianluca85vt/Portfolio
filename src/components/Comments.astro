@@ -1,0 +1,42 @@
+---
+import { comments } from '../data/portfolio';
+---
+
+{
+  comments.enabled ? (
+    <section class="border-t border-[#D7E2EA]/15 pt-10 mt-14">
+      <h2 class="text-[#D7E2EA]/40 font-light uppercase tracking-widest text-[0.65rem] mb-7">
+        Comments
+      </h2>
+
+      {/*
+        Giscus stores threads in this repo's GitHub Discussions. No backend, no
+        database, no tracking, and moderation happens on GitHub. The trade-off is
+        that commenting needs a GitHub account.
+      */}
+      <script
+        is:inline
+        src="https://giscus.app/client.js"
+        data-repo={comments.repo}
+        data-repo-id={comments.repoId}
+        data-category={comments.category}
+        data-category-id={comments.categoryId}
+        data-mapping="pathname"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="transparent_dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async
+      />
+      <noscript>
+        <p class="text-[#D7E2EA]/40 font-light text-sm">
+          Comments need JavaScript enabled.
+        </p>
+      </noscript>
+    </section>
+  ) : null
+}

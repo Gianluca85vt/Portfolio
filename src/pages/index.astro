@@ -1,14 +1,46 @@
 ---
+import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import HomePage from '../components/HomePage';
+import { site, socials } from '../data/portfolio';
 
 const title = 'Gianluca Scattarella — 3D Environment & Technical Artist';
 const description =
   'Senior 3D Environment and Technical Artist. Concept art, 3D modelling, animation, Unreal Engine 5 real-time environments and architectural visualization. Creator of JIAN: Claws of Destiny.';
+
+// The three most recent posts, for the speech bubbles on the avatar.
+const latest = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 3)
+  .map((entry) => ({
+    slug: entry.id,
+    title: entry.data.title,
+    category: entry.data.category,
+    excerpt: entry.data.excerpt ?? '',
+  }));
+
+// sameAs is how Google links the site to the social profiles behind it
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: site.name,
+  jobTitle: site.role,
+  url: site.url,
+  email: `mailto:${site.email}`,
+  image: new URL('/img/me/avatar-3d.png', site.url).href,
+  sameAs: socials.map((s) => s.href),
+  knowsAbout: [
+    '3D environment art',
+    'Unreal Engine 5',
+    'Technical art',
+    'Concept art',
+    'Architectural visualization',
+  ],
+};
 ---
 
-<Base title={title} description={description}>
+<Base title={title} description={description} jsonLd={jsonLd}>
   <!-- The home page is one continuous animated composition, so it hydrates as a
        single island. Astro still renders it to static HTML at build time. -->
-  <HomePage client:load />
+  <HomePage latest={latest} client:load />
 </Base>

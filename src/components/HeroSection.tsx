@@ -1,6 +1,8 @@
 import FadeIn from './ui/FadeIn';
 import Magnet from './ui/Magnet';
 import AvatarEyes from './ui/AvatarEyes';
+import AvatarBubble from './ui/AvatarBubble';
+import type { LatestPost } from './ui/AvatarBubble';
 import GlowText from './ui/GlowText';
 import ContactButton from './ui/ContactButton';
 import { nav, site } from '../data/portfolio';
@@ -8,7 +10,7 @@ import { nav, site } from '../data/portfolio';
 const LINK_CLASS =
   'shrink-0 text-[#D7E2EA] font-medium uppercase tracking-wider whitespace-nowrap text-[0.7rem] sm:text-sm md:text-base lg:text-[1.25rem] transition-opacity duration-200 hover:opacity-70';
 
-export default function HeroSection() {
+export default function HeroSection({ latest = [] }: { latest?: LatestPost[] }) {
   return (
     <section
       className="relative h-screen flex flex-col"
@@ -63,6 +65,11 @@ export default function HeroSection() {
           an inline `transform` on the elements it animates, which would silently
           drop Tailwind's -translate-x-1/2 and leave the figure off-centre. */}
       <div className="absolute left-1/2 -translate-x-1/2 z-10 top-1/2 -translate-y-1/2 sm:top-auto sm:translate-y-0 sm:bottom-0 pointer-events-none">
+        {/* Anchored directly to this wrapper, which is already `absolute` and so
+            is the containing block. An intermediate div would have zero size and
+            left-1/2 would resolve against nothing. The wrapper stays
+            pointer-events-none; the bubble re-enables them on itself only. */}
+        <AvatarBubble posts={latest} />
         <FadeIn delay={0.6} y={30}>
           <Magnet
             padding={150}

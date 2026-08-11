@@ -2,6 +2,8 @@
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
+import Comments from '../../components/Comments.astro';
+import ShareBar from '../../components/ui/ShareBar';
 import { site } from '../../data/portfolio';
 
 export async function getStaticPaths() {
@@ -23,6 +25,38 @@ const published = entry.data.date.toLocaleDateString('en-GB', {
   month: 'long',
   year: 'numeric',
 });
+
+const url = new URL(`/blog/${entry.id}/`, Astro.site).href;
+
+// BlogPosting tells Google this is an article, who wrote it and when — the
+// difference between a page that can rank and one eligible for rich results.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: entry.data.title,
+  description: entry.data.excerpt ?? entry.data.title,
+  datePublished: entry.data.date.toISOString(),
+  dateModified: entry.data.date.toISOString(),
+  articleSection: entry.data.category,
+  wordCount: (entry.body ?? '').trim().split(/\s+/).length,
+  inLanguage: 'en',
+  mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+  url,
+  ...(entry.data.cover
+    ? { image: new URL(entry.data.cover, Astro.site).href }
+    : {}),
+  author: {
+    '@type': 'Person',
+    name: site.name,
+    url: site.url,
+    jobTitle: site.role,
+  },
+  publisher: {
+    '@type': 'Person',
+    name: site.name,
+    url: site.url,
+  },
+};
 ---
 
 <Base
@@ -31,6 +65,7 @@ const published = entry.data.date.toLocaleDateString('en-GB', {
   image={entry.data.cover}
   type="article"
   publishedAt={entry.data.date.toISOString()}
+  jsonLd={jsonLd}
 >
   <div class="min-h-screen flex flex-col" style="overflow-x:clip">
     <SiteHeader current="/blog" />
@@ -64,6 +99,17 @@ const published = entry.data.date.toLocaleDateString('en-GB', {
         <div class="post-body mt-10 sm:mt-12">
           <Content />
         </div>
+
+        <div class="mt-14 sm:mt-16">
+          <ShareBar
+            url={url}
+            title={entry.data.title}
+            excerpt={entry.data.excerpt ?? ''}
+            client:visible
+          />
+        </div>
+
+        <Comments />
 
         <a
           href="/blog/"
