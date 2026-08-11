@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import SiteHeader from '../../components/SiteHeader.astro';
+import BlogList from '../../components/BlogList';
+import { site } from '../../data/portfolio';
+
+const entries = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime()
+);
+
+// plain data for the React island: Date objects do not survive serialisation
+const posts = entries.map((entry) => ({
+  slug: entry.id,
+  title: entry.data.title,
+  date: entry.data.date.toISOString(),
+  category: entry.data.category,
+  excerpt: entry.data.excerpt ?? '',
+  cover: entry.data.cover,
+  readingMinutes: Math.max(1, Math.round((entry.body ?? '').trim().split(/\s+/).length / 200)),
+}));
+
+const title = `Blog — ${site.name}`;
+const description =
+  'Notes on 3D and AI, and on the things that feed the work — games, manga, film and collecting.';
+---
+
+<Base title={title} description={description}>
+  <div class="min-h-screen flex flex-col" style="overflow-x:clip">
+    <SiteHeader current="/blog" />
+    <BlogList posts={posts} client:load />
+  </div>
+</Base>

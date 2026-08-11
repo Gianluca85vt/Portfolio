@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import { ArrowRight } from 'lucide-react';
 import FadeIn from './ui/FadeIn';
 import GlowText from './ui/GlowText';
@@ -41,8 +40,8 @@ export default function MembersTeaser() {
         </FadeIn>
 
         <FadeIn delay={0.3} y={20} className="mt-9 sm:mt-11">
-          <Link
-            to="/members"
+          <a
+            href="/members"
             className="group inline-flex items-center gap-3 rounded-full text-white font-medium uppercase tracking-widest whitespace-nowrap px-8 py-3.5 sm:px-12 sm:py-4 text-xs sm:text-sm md:text-base transition-transform duration-300 hover:scale-[1.03]"
             style={{
               background:
@@ -59,7 +58,7 @@ export default function MembersTeaser() {
               className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1"
               strokeWidth={2}
             />
-          </Link>
+          </a>
         </FadeIn>
       </div>
     </section>

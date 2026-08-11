@@ -1,0 +1,16 @@
+---
+import Base from '../layouts/Base.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import MembersPage from '../components/MembersPage';
+import { members, site } from '../data/portfolio';
+
+const title = `Members — ${site.name}`;
+const description = `Full-length 1x videos and the scene files, HDRIs and presets behind them. One membership at ${members.currency}${members.price} a month, no tiers.`;
+---
+
+<Base title={title} description={description}>
+  <div class="min-h-screen flex flex-col" style="overflow-x:clip">
+    <SiteHeader current="/members" />
+    <MembersPage client:load />
+  </div>
+</Base>

@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import FadeIn from './ui/FadeIn';
 import Magnet from './ui/Magnet';
 import AvatarEyes from './ui/AvatarEyes';
@@ -22,21 +21,15 @@ export default function HeroSection() {
         /* seven items: scroll sideways rather than crush them on narrow phones */
         className="relative z-20 flex justify-between gap-x-3 sm:gap-x-2 px-6 md:px-10 pt-6 md:pt-8 overflow-x-auto no-scrollbar"
       >
-        {nav.map((item) =>
-          'to' in item ? (
-            <Link
-              key={item.label}
-              to={item.to}
-              className={LINK_CLASS}
-            >
-              {item.label}
-            </Link>
-          ) : (
-            <a key={item.label} href={item.href} className={LINK_CLASS}>
-              {item.label}
-            </a>
-          )
-        )}
+        {nav.map((item) => (
+          <a
+            key={item.label}
+            href={'to' in item ? item.to : item.href}
+            className={LINK_CLASS}
+          >
+            {item.label}
+          </a>
+        ))}
       </FadeIn>
 
       <div className="relative z-20 overflow-hidden px-6 md:px-10">

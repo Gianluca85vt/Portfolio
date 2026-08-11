@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import type { ReactNode } from 'react';
 import { createPortal } from 'react-dom';
 import { AnimatePresence, motion } from 'framer-motion';
@@ -21,6 +21,11 @@ export default function Modal({
   link,
   children,
 }: ModalProps) {
+  // There is no document while Astro pre-renders this to HTML, and createPortal
+  // needs one. Mount the portal only once we are in the browser.
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => setMounted(true), []);
+
   useEffect(() => {
     if (!open) return;
 
@@ -41,6 +46,8 @@ export default function Modal({
       document.body.style.paddingRight = paddingRight;
     };
   }, [open, onClose]);
+
+  if (!mounted) return null;
 
   // Rendered into <body>: the project cards carry a transform, and a transformed
   // ancestor would make `position: fixed` resolve against the card instead of

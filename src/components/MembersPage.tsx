@@ -1,8 +1,7 @@
 import { Check, FolderDown, Library, MessageCircle, Play } from 'lucide-react';
 import type { LucideIcon } from 'lucide-react';
-import SiteHeader from '../components/SiteHeader';
-import FadeIn from '../components/ui/FadeIn';
-import GlowText from '../components/ui/GlowText';
+import FadeIn from './ui/FadeIn';
+import GlowText from './ui/GlowText';
 import { members } from '../data/portfolio';
 
 const ICONS: Record<string, LucideIcon> = {
@@ -38,9 +37,7 @@ function JoinButton({ className = '' }: { className?: string }) {
 
 export default function MembersPage() {
   return (
-    <div className="min-h-screen flex flex-col" style={{ overflowX: 'clip' }}>
-      <SiteHeader current="/members" />
-
+    <>
       <section className="px-5 sm:px-8 md:px-10 pt-14 sm:pt-20 md:pt-24 pb-16">
         <FadeIn
           as="h1"
@@ -206,6 +203,6 @@ export default function MembersPage() {
           </div>
         </FadeIn>
       </section>
-    </div>
+    </>
   );
 }

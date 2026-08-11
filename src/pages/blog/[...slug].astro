@@ -1,0 +1,90 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import SiteHeader from '../../components/SiteHeader.astro';
+import { site } from '../../data/portfolio';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('blog', ({ data }) => !data.draft);
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+// Rendered by Astro at build time: the article ships as real HTML, readable by
+// crawlers and by anyone with JavaScript off.
+const { Content } = await render(entry);
+
+const readingMinutes = Math.max(
+  1,
+  Math.round((entry.body ?? '').trim().split(/\s+/).length / 200)
+);
+const published = entry.data.date.toLocaleDateString('en-GB', {
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+});
+---
+
+<Base
+  title={`${entry.data.title} — ${site.name}`}
+  description={entry.data.excerpt ?? entry.data.title}
+  image={entry.data.cover}
+  type="article"
+  publishedAt={entry.data.date.toISOString()}
+>
+  <div class="min-h-screen flex flex-col" style="overflow-x:clip">
+    <SiteHeader current="/blog" />
+
+    <article class="px-5 sm:px-8 md:px-10 pt-12 sm:pt-16 pb-20 sm:pb-24">
+      <div class="max-w-[720px] mx-auto">
+        <div class="flex items-center gap-3 text-[0.65rem] uppercase tracking-widest">
+          <span class="text-[#D7E2EA]">{entry.data.category}</span>
+          <span class="text-[#D7E2EA]/30">{published}</span>
+          <span class="text-[#D7E2EA]/30">{readingMinutes} min</span>
+        </div>
+
+        <h1
+          class="hero-heading font-black uppercase leading-[1.05] tracking-tight mt-5"
+          style="font-size:clamp(2rem, 6vw, 3.75rem)"
+        >
+          {entry.data.title}
+        </h1>
+
+        {
+          entry.data.cover && (
+            <img
+              src={entry.data.cover}
+              alt=""
+              aria-hidden="true"
+              class="w-full rounded-[24px] sm:rounded-[28px] object-cover mt-8 sm:mt-10"
+            />
+          )
+        }
+
+        <div class="post-body mt-10 sm:mt-12">
+          <Content />
+        </div>
+
+        <a
+          href="/blog/"
+          class="inline-flex items-center gap-2 rounded-full border-2 border-[#D7E2EA]/50 text-[#D7E2EA] font-medium uppercase tracking-widest px-7 py-3 text-xs sm:text-sm transition-colors duration-300 hover:bg-[#D7E2EA]/10 mt-14 sm:mt-16"
+        >
+          <svg
+            class="w-4 h-4"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+          >
+            <path d="M19 12H5" />
+            <path d="m12 19-7-7 7-7" />
+          </svg>
+          All articles
+        </a>
+      </div>
+    </article>
+  </div>
+</Base>

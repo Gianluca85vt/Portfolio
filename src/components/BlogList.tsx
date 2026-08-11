@@ -1,22 +1,38 @@
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
-import SiteHeader from '../components/SiteHeader';
-import FadeIn from '../components/ui/FadeIn';
-import GlowText from '../components/ui/GlowText';
+import FadeIn from './ui/FadeIn';
+import GlowText from './ui/GlowText';
 import { blogCategories } from '../data/portfolio';
-import { formatDate, posts } from '../lib/blog';
 
-export default function BlogPage() {
-  const [active, setActive] = useState<string>('All');
+export type PostCard = {
+  slug: string;
+  title: string;
+  date: string;
+  category: string;
+  excerpt: string;
+  cover?: string;
+  readingMinutes: number;
+};
 
+function formatDate(iso: string) {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return '';
+  return d.toLocaleDateString('en-GB', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+}
+
+export default function BlogList({ posts }: { posts: PostCard[] }) {
+  const [active, setActive] = useState('All');
+
+  // only offer categories that actually have something in them
   const used = blogCategories.filter((c) => posts.some((p) => p.category === c));
   const filters = ['All', ...used];
   const shown = active === 'All' ? posts : posts.filter((p) => p.category === active);
 
   return (
-    <div className="min-h-screen flex flex-col" style={{ overflowX: 'clip' }}>
-      <SiteHeader current="/blog" />
-
+    <>
       <section className="px-5 sm:px-8 md:px-10 pt-14 sm:pt-20 md:pt-24 pb-10">
         <FadeIn
           as="h1"
@@ -74,15 +90,13 @@ export default function BlogPage() {
 
       <section className="px-5 sm:px-8 md:px-10 pb-20 sm:pb-24">
         {shown.length === 0 ? (
-          <p className="text-[#D7E2EA]/40 font-light text-center">
-            Nothing here yet.
-          </p>
+          <p className="text-[#D7E2EA]/40 font-light text-center">Nothing here yet.</p>
         ) : (
           <div className="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-2 gap-5 sm:gap-6">
             {shown.map((post, index) => (
               <FadeIn key={post.slug} delay={(index % 2) * 0.08} y={30}>
-                <Link
-                  to={`/blog/${post.slug}`}
+                <a
+                  href={`/blog/${post.slug}/`}
                   className="group flex flex-col h-full rounded-[24px] sm:rounded-[28px] border border-[#D7E2EA]/20 overflow-hidden transition-colors duration-300 hover:border-[#D7E2EA]/45"
                 >
                   {post.cover ? (
@@ -100,9 +114,7 @@ export default function BlogPage() {
                   <div className="flex flex-col gap-3 p-6 sm:p-7 flex-1">
                     <div className="flex items-center gap-3 text-[0.65rem] uppercase tracking-widest">
                       <span className="text-[#D7E2EA]">{post.category}</span>
-                      <span className="text-[#D7E2EA]/30">
-                        {formatDate(post.date)}
-                      </span>
+                      <span className="text-[#D7E2EA]/30">{formatDate(post.date)}</span>
                       <span className="text-[#D7E2EA]/30 ml-auto">
                         {post.readingMinutes} min
                       </span>
@@ -119,12 +131,12 @@ export default function BlogPage() {
                       {post.excerpt}
                     </p>
                   </div>
-                </Link>
+                </a>
               </FadeIn>
             ))}
           </div>
         )}
       </section>
-    </div>
+    </>
   );
 }

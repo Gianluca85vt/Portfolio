@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import HomePage from '../components/HomePage';
+
+const title = 'Gianluca Scattarella — 3D Environment & Technical Artist';
+const description =
+  'Senior 3D Environment and Technical Artist. Concept art, 3D modelling, animation, Unreal Engine 5 real-time environments and architectural visualization. Creator of JIAN: Claws of Destiny.';
+---
+
+<Base title={title} description={description}>
+  <!-- The home page is one continuous animated composition, so it hydrates as a
+       single island. Astro still renders it to static HTML at build time. -->
+  <HomePage client:load />
+</Base>

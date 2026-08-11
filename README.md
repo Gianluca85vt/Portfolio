@@ -1,10 +1,14 @@
 # Gianluca Scattarella — Portfolio
 
-Rifacimento del portfolio [gianlucascattarella.weebly.com](https://gianlucascattarella.weebly.com/)
-come single-page React, mantenendo le stesse sezioni del sito precedente con lo stile
-dark / Kanit / gradient del brief.
+Rifacimento del portfolio [gianlucascattarella.weebly.com](https://gianlucascattarella.weebly.com/),
+mantenendo le stesse sezioni del sito precedente con lo stile dark / Kanit / gradient
+del brief, più una pagina membri e un blog.
 
-Stack: **React 18 + TypeScript + Vite + Tailwind CSS + Framer Motion + Lucide React**.
+Stack: **Astro + React 18 + TypeScript + Tailwind CSS + Framer Motion + Lucide React**.
+
+Astro genera **HTML statico per ogni rotta**: ogni pagina ha i suoi meta tag, e gli
+articoli del blog sono HTML reale nel sorgente, leggibili dai crawler senza eseguire
+JavaScript. I componenti React vengono idratati solo dove serve l'interattività.
 
 ## Comandi
 
@@ -20,7 +24,35 @@ npm run dev
 npm run build
 ```
 
-Il build finisce in `dist/`, pronto per Netlify, Vercel, GitHub Pages o qualsiasi hosting statico.
+Il build finisce in `dist/` come sito statico, pronto per Vercel o qualsiasi hosting.
+`npm run build` esegue anche `astro check`, che valida i tipi e il frontmatter dei post:
+un errore di battitura in una categoria fa fallire il build invece di finire online.
+
+## Rotte
+
+| URL | File |
+| --- | --- |
+| `/` | `src/pages/index.astro` |
+| `/members/` | `src/pages/members.astro` |
+| `/blog/` | `src/pages/blog/index.astro` |
+| `/blog/<slug>/` | `src/pages/blog/[...slug].astro` |
+
+## Scrivere un articolo
+
+Aggiungi un `.md` in `src/content/blog/`. Il nome del file diventa l'URL. Frontmatter:
+
+```yaml
+---
+title: Titolo dell'articolo
+date: 2026-08-11
+category: 3D        # 3D, AI, Games, Manga, Film o Collecting
+excerpt: Una riga che compare nella card.
+cover: /img/arch/soggiorno-1.jpg   # opzionale
+draft: true                        # opzionale, lo esclude dal build
+---
+```
+
+Lo schema è validato in `src/content.config.ts`.
 
 ## Mappa: sito vecchio → sito nuovo
 
