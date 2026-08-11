@@ -117,23 +117,24 @@ export const blogCategories = [
 export type BlogCategory = (typeof blogCategories)[number];
 
 /**
- * Comments run on Giscus, which stores threads in this repo's GitHub
- * Discussions: no backend, no database, no tracking, and moderation happens on
- * GitHub. Commenting does require a GitHub account.
+ * Comments run on Cusdis. Readers leave a name and a comment — no account, no
+ * login — which matters for an audience of artists and enthusiasts rather than
+ * developers. Nothing is stored on this site: Cusdis holds the threads and you
+ * approve each one by email or from their dashboard.
  *
  * To switch it on:
- *   1. GitHub repo → Settings → General → Features → tick Discussions
- *   2. Install the Giscus app: github.com/apps/giscus
- *   3. Open giscus.app, enter the repo, pick a Discussions category
- *      (Announcements is the usual choice), and copy the two ids it prints
- *   4. Paste them below and set enabled to true
+ *   1. Sign up at cusdis.com and add a site (the URL is
+ *      https://www.gianlucascattarella.it)
+ *   2. Copy the App ID it gives you
+ *   3. Paste it into appId below and set enabled to true
+ *
+ * The free plan covers 1 site and 100 approved comments a month; beyond that it
+ * is $12 a year. Self-hosting is also possible — point `host` at your instance.
  */
 export const comments = {
   enabled: false,
-  repo: 'Gianluca85vt/Portfolio',
-  repoId: '',
-  category: 'Announcements',
-  categoryId: '',
+  host: 'https://cusdis.com',
+  appId: '',
 } as const;
 
 export const about = {
