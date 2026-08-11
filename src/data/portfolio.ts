@@ -59,7 +59,8 @@ export const nav = [
   { label: 'Skills', href: '#skills' },
   { label: 'AI', href: '#ai' },
   { label: 'Work', href: '#work' },
-  { label: 'Members', to: '/members' },
+  // Members is parked: src/pages/_members.astro keeps the page but the leading
+  // underscore stops Astro routing it. Rename it back and restore this entry.
   { label: 'Blog', to: '/blog' },
   { label: 'Contact', href: '#contact' },
 ] as const;
@@ -105,6 +106,7 @@ export const members = {
 
 export const blogCategories = [
   '3D',
+  'Tech',
   'AI',
   'Games',
   'Manga',

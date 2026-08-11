@@ -5,7 +5,6 @@ import ServicesSection from './ServicesSection';
 import AiSection from './AiSection';
 import ShowreelSection from './ShowreelSection';
 import ProjectsSection from './ProjectsSection';
-import MembersTeaser from './MembersTeaser';
 import ContactSection from './ContactSection';
 
 export default function HomePage() {
@@ -18,7 +17,6 @@ export default function HomePage() {
       <AiSection />
       <ShowreelSection />
       <ProjectsSection />
-      <MembersTeaser />
       <ContactSection />
     </>
   );
