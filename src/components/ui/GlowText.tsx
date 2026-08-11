@@ -89,11 +89,15 @@ export default function GlowText({ text, charClassName = '' }: GlowTextProps) {
           if (el.style.transform) {
             el.style.transform = '';
             el.style.filter = '';
+            // dropping the hint releases the compositing layer again
+            el.style.willChange = '';
           }
           continue;
         }
 
         const eased = v * v * (3 - 2 * v);
+        // hinted only for the moment the letter is actually moving
+        if (!el.style.willChange) el.style.willChange = 'transform, filter';
         el.style.transform = `translateY(${-eased * MAX_LIFT}px) scale(${1 + eased * MAX_SCALE})`;
         el.style.filter =
           `drop-shadow(0 0 ${6 + 16 * eased}px rgba(214,0,175,${(0.7 * eased).toFixed(3)}))` +
@@ -154,8 +158,12 @@ export default function GlowText({ text, charClassName = '' }: GlowTextProps) {
                     className={charClassName}
                     style={{
                       display: 'inline-block',
-                      willChange: 'transform, filter',
                       transformOrigin: 'center bottom',
+                      // No permanent will-change here. It promotes every letter
+                      // to its own compositing layer, and iOS Safari fails to
+                      // paint background-clip:text on a promoted layer — the
+                      // heading stays invisible until a rotation forces a
+                      // repaint. It is set only while a letter is animating.
                     }}
                   >
                     {char}
