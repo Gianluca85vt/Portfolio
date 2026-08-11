@@ -1,48 +1,14 @@
 ---
+import CommentThread from './ui/CommentThread';
 import { comments } from '../data/portfolio';
 
 export interface Props {
-  /** stable identifier for the thread — the post slug, never the full URL */
-  pageId: string;
-  pageUrl: string;
-  pageTitle: string;
+  /** the post slug — the thread key, stable across domain or URL changes */
+  postSlug: string;
 }
 
-const { pageId, pageUrl, pageTitle } = Astro.props;
-const ready = comments.enabled && comments.appId !== '';
+const { postSlug } = Astro.props;
+const configured = Boolean(import.meta.env.PUBLIC_SUPABASE_URL);
 ---
 
-{
-  ready ? (
-    <section class="border-t border-[#D7E2EA]/15 pt-10 mt-14">
-      <h2 class="text-[#D7E2EA]/40 font-light uppercase tracking-widest text-[0.65rem] mb-7">
-        Comments
-      </h2>
-
-      {/*
-        Cusdis hosts the threads: no backend here, no database, no tracking, and
-        readers need no account. New comments stay hidden until approved, by
-        email or from the Cusdis dashboard.
-
-        pageId is the slug rather than the URL, so a thread survives the site
-        moving domain or the URL picking up a query string.
-      */}
-      <div
-        id="cusdis_thread"
-        data-host={comments.host}
-        data-app-id={comments.appId}
-        data-page-id={pageId}
-        data-page-url={pageUrl}
-        data-page-title={pageTitle}
-        data-theme="dark"
-      />
-      <script is:inline async defer src={`${comments.host}/js/cusdis.es.js`} />
-
-      <noscript>
-        <p class="text-[#D7E2EA]/40 font-light text-sm">
-          Comments need JavaScript enabled.
-        </p>
-      </noscript>
-    </section>
-  ) : null
-}
+{comments.enabled && configured ? <CommentThread postSlug={postSlug} client:visible /> : null}

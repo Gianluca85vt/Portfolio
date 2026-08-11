@@ -117,24 +117,26 @@ export const blogCategories = [
 export type BlogCategory = (typeof blogCategories)[number];
 
 /**
- * Comments run on Cusdis. Readers leave a name and a comment — no account, no
- * login — which matters for an audience of artists and enthusiasts rather than
- * developers. Nothing is stored on this site: Cusdis holds the threads and you
- * approve each one by email or from their dashboard.
+ * Comments live in your own Postgres on Supabase — no third-party widget, no
+ * external branding, and the data is yours in standard SQL you can export at
+ * any time. Readers leave a name and a comment; no account, no login.
  *
- * To switch it on:
- *   1. Sign up at cusdis.com and add a site (the URL is
- *      https://www.gianlucascattarella.it)
- *   2. Copy the App ID it gives you
- *   3. Paste it into appId below and set enabled to true
+ * How it holds together:
+ *   - reading  : the browser queries Supabase directly with the publishable
+ *                key. Row level security only ever returns approved rows, so
+ *                that key is safe in the page.
+ *   - writing  : goes through /api/comments, the one route on the site that
+ *                runs as a function. It applies the honeypot and the rate
+ *                limit, then inserts with the service key, which never leaves
+ *                the server. Anonymous inserts are blocked at the database, so
+ *                a bot cannot skip those checks by posting to Supabase itself.
+ *   - approving: nothing is visible until you flip `approved` to true in the
+ *                Supabase table editor.
  *
- * The free plan covers 1 site and 100 approved comments a month; beyond that it
- * is $12 a year. Self-hosting is also possible — point `host` at your instance.
+ * Needs four environment variables — see .env.example.
  */
 export const comments = {
-  enabled: false,
-  host: 'https://cusdis.com',
-  appId: '',
+  enabled: true,
 } as const;
 
 export const about = {
