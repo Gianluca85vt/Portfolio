@@ -1,5 +1,6 @@
 import FadeIn from './ui/FadeIn';
 import GlowText from './ui/GlowText';
+import DirectionBlock from './DirectionBlock';
 import { services } from '../data/portfolio';
 
 export default function ServicesSection() {
@@ -54,6 +55,8 @@ export default function ServicesSection() {
           </FadeIn>
         ))}
       </div>
+
+      <DirectionBlock />
     </section>
   );
 }

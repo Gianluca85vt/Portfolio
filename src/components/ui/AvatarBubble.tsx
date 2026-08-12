@@ -12,53 +12,56 @@ export type LatestPost = {
 /**
  * A speech bubble beside the avatar that occasionally surfaces a recent article.
  *
- * Deliberately restrained: it waits before the first appearance, shows one post
- * at a time, retires itself after a while, and stays dismissed for the rest of
- * the session once closed. It never covers the hero copy or blocks a click —
- * only the bubble itself is interactive.
+ * Cycle: three seconds after load the first one fades in over a second, holds
+ * for three, fades out over a second, and the next headline takes its place.
+ * It rotates through the posts until dismissed, and stays dismissed for the
+ * rest of the session. It never covers the hero copy or blocks a click — only
+ * the bubble itself is interactive.
  */
-const FIRST_DELAY = 6000;
-const VISIBLE_FOR = 11000;
-const GAP_BETWEEN = 9000;
+const FIRST_DELAY = 3000;
+const VISIBLE_FOR = 3000;
+const FADE_SECONDS = 1;
+// the three seconds are reading time, so the fade-in does not eat into them
+const HOLD_MS = FADE_SECONDS * 1000 + VISIBLE_FOR;
 
 export default function AvatarBubble({ posts }: { posts: LatestPost[] }) {
   const [index, setIndex] = useState(0);
   const [open, setOpen] = useState(false);
   const [dismissed, setDismissed] = useState(false);
-  const [shown, setShown] = useState(0);
 
+  // first appearance
   useEffect(() => {
     if (dismissed || posts.length === 0) return;
-    // a couple of nudges per visit, not a nag
-    if (shown >= Math.min(posts.length, 3)) return;
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
 
-    let hide = 0;
-    const show = window.setTimeout(() => {
-      // start on a random post so a repeat visit is not the same one
-      if (shown === 0) setIndex(Math.floor(Math.random() * posts.length));
+    const t = window.setTimeout(() => {
+      // start somewhere random so a repeat visit does not open on the same post
+      setIndex(Math.floor(Math.random() * posts.length));
       setOpen(true);
+    }, FIRST_DELAY);
+    return () => window.clearTimeout(t);
+  }, [dismissed, posts.length]);
 
-      hide = window.setTimeout(() => {
-        setOpen(false);
-        setShown((n) => n + 1);
-        setIndex((i) => (i + 1) % posts.length);
-      }, VISIBLE_FOR);
-    }, shown === 0 ? FIRST_DELAY : GAP_BETWEEN);
+  // hold, then start fading out
+  useEffect(() => {
+    if (!open || dismissed) return;
+    const t = window.setTimeout(() => setOpen(false), HOLD_MS);
+    return () => window.clearTimeout(t);
+  }, [open, dismissed]);
 
-    // both timers have to be cleared here: returning a cleanup from inside the
-    // setTimeout callback does nothing
-    return () => {
-      window.clearTimeout(show);
-      window.clearTimeout(hide);
-    };
-  }, [dismissed, posts.length, shown]);
+  // Advancing on exit complete rather than on a timer keeps the fades from
+  // overlapping: the next headline only starts once the previous has gone.
+  const nextPost = () => {
+    if (dismissed) return;
+    setIndex((i) => (i + 1) % posts.length);
+    setOpen(true);
+  };
 
   if (posts.length === 0) return null;
   const post = posts[index];
 
   return (
-    <AnimatePresence>
+    <AnimatePresence mode="wait" onExitComplete={nextPost}>
       {open && !dismissed ? (
         // Positioning lives on this plain div. Framer Motion writes an inline
         // `transform` on anything it animates, which would silently drop
@@ -74,10 +77,10 @@ export default function AvatarBubble({ posts }: { posts: LatestPost[] }) {
             sm:left-full sm:translate-x-0 sm:-ml-6 sm:top-[24%] sm:w-[248px]"
         >
           <motion.div
-            initial={{ opacity: 0, y: 14, scale: 0.94 }}
-            animate={{ opacity: 1, y: 0, scale: 1 }}
-            exit={{ opacity: 0, y: 8, scale: 0.97 }}
-            transition={{ duration: 0.45, ease: [0.25, 0.1, 0.25, 1] }}
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: 6 }}
+            transition={{ duration: FADE_SECONDS, ease: [0.25, 0.1, 0.25, 1] }}
           >
           <div className="relative rounded-2xl sm:rounded-bl-sm border border-[#D7E2EA]/25 bg-[#141018]/95 backdrop-blur-sm p-4 pr-9 shadow-[0_18px_40px_rgba(0,0,0,0.55)]">
             {/* tail pointing back at the avatar, only where it makes sense */}

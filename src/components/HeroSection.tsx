@@ -20,7 +20,7 @@ export default function HeroSection({ latest = [] }: { latest?: LatestPost[] }) 
         as="nav"
         delay={0}
         y={-20}
-        /* seven items: scroll sideways rather than crush them on narrow phones */
+        /* six items: scroll sideways rather than crush them on narrow phones */
         className="relative z-20 flex justify-between gap-x-3 sm:gap-x-2 px-6 md:px-10 pt-6 md:pt-8 overflow-x-auto no-scrollbar"
       >
         {nav.map((item) => (

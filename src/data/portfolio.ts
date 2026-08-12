@@ -160,9 +160,9 @@ export const services = [
   },
   {
     number: '03',
-    name: 'Animation',
+    name: 'Animation & Motion Design',
     description:
-      'Character animation, cycles and motion graphics — animated and rendered in Blender, from mecha walk cycles to short-form product spots.',
+      'Character animation and cycles, plus motion graphics for brands and products — titles, logo stings, animated UI and short-form spots, animated and rendered in Blender and After Effects.',
   },
   {
     number: '04',
@@ -176,7 +176,47 @@ export const services = [
     description:
       'Architectural visualization for residential and luxury projects — interiors and exteriors rendered in real time with UE5.',
   },
+  {
+    number: '06',
+    name: 'Graphic Design',
+    description:
+      'Layouts, brand systems and interface work in Figma — components, design tokens and dev-ready handoff, so what gets built matches what was drawn.',
+  },
 ] as const;
+
+export const direction = {
+  heading: 'Direction',
+  tagline: 'Holding the look, and the people making it',
+  intro:
+    "Past a certain size, a project stops being a craft problem and becomes a coordination one. Ten people can each do excellent work and still hand you something that does not look like one film. Art direction is the job of making sure it does — and of getting there without burning the team out.",
+  pillars: [
+    {
+      icon: 'compass',
+      name: 'Art Direction',
+      description:
+        'Setting the visual target and defending it: references, style guides, colour and lighting keys, and reviews that give artists something specific to act on rather than a vague "make it better".',
+    },
+    {
+      icon: 'users',
+      name: 'Team Coordination',
+      description:
+        'Briefs people can actually work from, milestones that mean something, and dependencies mapped before they become blockers. Most of the job is removing whatever is stopping someone from finishing.',
+    },
+    {
+      icon: 'workflow',
+      name: 'Pipeline & Handoff',
+      description:
+        'Naming conventions, review rounds and file structure agreed up front, so work moves between concept, 3D and engine without being rebuilt each time it changes hands.',
+    },
+  ],
+  tools: [
+    { name: 'ClickUp', role: 'Tasks & milestones' },
+    { name: 'Trello', role: 'Boards & review flow' },
+    { name: 'Slack', role: 'Day-to-day comms' },
+    { name: 'Figma', role: 'Design & handoff' },
+    { name: 'Miro', role: 'Moodboards & planning' },
+  ],
+} as const;
 
 export const ai = {
   heading: 'AI',
