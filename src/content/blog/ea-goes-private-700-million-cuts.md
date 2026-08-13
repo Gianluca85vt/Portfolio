@@ -4,7 +4,6 @@ date: 2026-08-13
 category: Games
 excerpt: The Saudi-led buyout of Electronic Arts closed on 4 August at $210 a share. Bloomberg then reported EA telling its new creditors it plans $700 million in annual cost cuts — and BioWare, already down to a skeleton crew, is the name everyone keeps saying out loud.
 cover: /img/blog/ea-goes-private/cover.svg
-draft: true
 ---
 
 Electronic Arts stopped being a public company on **4 August 2026**. A consortium led
