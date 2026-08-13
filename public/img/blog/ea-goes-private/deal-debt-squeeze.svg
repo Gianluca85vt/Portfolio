@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 810" width="1440" height="810" role="img" aria-label="Three-part breakdown of the EA buyout: the deal, the debt, and the cost cuts">
+  <defs>
+    <linearGradient id="bgDeal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#140019"/>
+      <stop offset="100%" stop-color="#20102E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="810" fill="url(#bgDeal)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#FFFFFF">
+    <text x="60" y="65" font-size="26" font-weight="bold" fill-opacity="0.85">HOW THE EA BUYOUT PAYS FOR ITSELF</text>
+    <text x="60" y="94" font-size="17" fill-opacity="0.5">figures as reported by EA, Bloomberg and multiple trade outlets, August 2026</text>
+  </g>
+
+  <!-- Band 1: The deal -->
+  <g>
+    <rect x="60" y="130" width="1320" height="180" rx="10" fill="#5B3FBF" fill-opacity="0.12" stroke="#5B3FBF" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="90" y="175" font-size="22" font-weight="bold" fill="#B79BFF">THE DEAL — $55 billion, closed 4 August</text>
+    <text x="90" y="208" font-size="16" fill="#FFFFFF" fill-opacity="0.7">$210 cash per share. EA delisted from Nasdaq after 36 years public.</text>
+    <text x="90" y="234" font-size="16" fill="#FFFFFF" fill-opacity="0.7">Ownership: PIF 93.4% · Silver Lake 5.5% · Affinity Partners 1.1%</text>
+    <g font-family="Arial, Helvetica, sans-serif" text-anchor="end">
+      <rect x="1020" y="255" width="80" height="34" rx="6" fill="#5B3FBF" fill-opacity="0.35"/>
+      <text x="1092" y="278" font-size="18" font-weight="bold" fill="#B79BFF">93.4%</text>
+      <rect x="1120" y="255" width="80" height="34" rx="6" fill="#5B3FBF" fill-opacity="0.22"/>
+      <text x="1192" y="278" font-size="18" font-weight="bold" fill="#B79BFF" fill-opacity="0.8">5.5%</text>
+      <rect x="1220" y="255" width="80" height="34" rx="6" fill="#5B3FBF" fill-opacity="0.14"/>
+      <text x="1292" y="278" font-size="18" font-weight="bold" fill="#B79BFF" fill-opacity="0.6">1.1%</text>
+    </g>
+  </g>
+
+  <!-- Band 2: The debt -->
+  <g>
+    <rect x="60" y="330" width="1320" height="180" rx="10" fill="#B600A8" fill-opacity="0.10" stroke="#B600A8" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="90" y="375" font-size="22" font-weight="bold" fill="#F0A6E8">THE DEBT — roughly $18-20 billion, via JPMorgan</text>
+    <text x="90" y="408" font-size="16" fill="#FFFFFF" fill-opacity="0.7">Reported interest of about $1.8B a year, against EA's own EBITDA of about $1.5B.</text>
+    <text x="90" y="434" font-size="16" fill="#FFFFFF" fill-opacity="0.7">The gap between those two numbers is the whole reason this piece exists.</text>
+  </g>
+
+  <!-- Band 3: The squeeze -->
+  <g>
+    <rect x="60" y="530" width="1320" height="180" rx="10" fill="#BE4C00" fill-opacity="0.12" stroke="#BE4C00" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="90" y="575" font-size="22" font-weight="bold" fill="#FFB27A">THE SQUEEZE — $700M a year in cost cuts, told to creditors</text>
+    <text x="90" y="608" font-size="16" fill="#FFFFFF" fill-opacity="0.7">$170M tagged "organizational efficiencies" — the line item that usually means headcount.</text>
+    <text x="90" y="634" font-size="16" fill="#FFFFFF" fill-opacity="0.7">The remaining ~$530M has not been broken down publicly. No studio list. No timeline.</text>
+  </g>
+
+  <text x="60" y="770" font-size="15" fill="#FFFFFF" fill-opacity="0.4">Reporting from Bloomberg (Jason Schreier), EA's own closing statement and trade coverage; diagram is original, built for this piece.</text>
+</svg>
