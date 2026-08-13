@@ -1,0 +1,59 @@
+name: Harvest source feeds
+
+# The scheduled writer cannot open Variety, Ars Technica, 80.lv or any other
+# trade site — its egress proxy answers 403 — so it has had nothing to read but
+# search-result snippets. This pulls the feeds here, where the network is open,
+# and commits them for the writer to read off disk.
+#
+# Runs at :45, so a fresh harvest is waiting when the writer fires on the hour.
+
+on:
+  schedule:
+    - cron: '45 4-20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest-sources
+  cancel-in-progress: true
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Fetch the feeds
+        run: node scripts/harvest-sources.mjs
+
+      - name: Commit the harvest
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add notes/feeds
+
+          if git diff --cached --quiet; then
+            echo "No change since the last harvest."
+            exit 0
+          fi
+
+          git commit -m "Harvest source feeds"
+
+          # Another run may have landed while this one was fetching.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "push rejected, rebasing (attempt $attempt)"
+            git pull --rebase origin main
+          done
+
+          echo "::warning::could not push the harvest after three attempts"

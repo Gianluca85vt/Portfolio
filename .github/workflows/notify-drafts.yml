@@ -1,39 +1,77 @@
-name: Notify new drafts
+name: Drafts — fetch images, then email for review
 
-# The scheduled writer cannot call the site itself: its sandbox blocks outbound
-# traffic to every host bar a handful, gianlucascattarella.it included, so the
-# curl it used to run came back 403 and the review email never went out.
+# Two jobs the scheduled writer cannot do itself, because its sandbox refuses
+# outbound traffic to nearly every host: downloading the images it asked for,
+# and calling the site to send the review email.
 #
-# GitHub has no such restriction, so the trigger moves here. A push carries the
-# list of what changed, which means no polling and no state to keep about which
-# drafts have already been announced.
+# They run in this order deliberately. The email should describe a draft that
+# already has its artwork, not one that gets pictures a minute later.
 
 on:
   push:
     branches: [main]
     paths:
       - 'src/content/blog/**.md'
+      - 'notes/image-requests/**'
+
+# Needed to push the fetched images back.
+permissions:
+  contents: write
 
 jobs:
-  notify:
+  drafts:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          # Need the previous commit to diff against.
           fetch-depth: 2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install sharp for resizing
+        run: npm install sharp --no-save
+
+      - name: Fetch requested images
+        run: node scripts/fulfil-image-requests.mjs
+
+      - name: Commit anything fetched
+        id: images
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add public/img/blog notes/image-requests src/content/blog 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "nothing fetched"
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Fetch requested images for the pending drafts"
+            git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Email a review link for every draft added or revised
         run: |
           set -euo pipefail
 
-          # A first commit has no parent to compare with.
           if ! git rev-parse HEAD^ >/dev/null 2>&1; then
             echo "No parent commit, nothing to compare."
             exit 0
           fi
 
-          changed=$(git diff --name-only --diff-filter=AM HEAD^ HEAD -- 'src/content/blog/*.md' || true)
+          # When this run committed images, the drafts to announce are the ones
+          # from the push that triggered it, not from the image commit.
+          if [ "${{ steps.images.outputs.pushed }}" = "true" ]; then
+            range="HEAD^^ HEAD^"
+          else
+            range="HEAD^ HEAD"
+          fi
+
+          changed=$(git diff --name-only --diff-filter=AM $range -- 'src/content/blog/*.md' || true)
 
           if [ -z "$changed" ]; then
             echo "No blog files added or modified."
@@ -41,8 +79,8 @@ jobs:
           fi
 
           for file in $changed; do
-            # Only unpublished drafts are announced. Publishing a piece removes
-            # this line, so approving one never triggers a fresh email.
+            # Only unpublished drafts are announced. Publishing removes this
+            # line, so approving a piece never mails about it again.
             if ! grep -q '^draft: true' "$file"; then
               echo "skip (not a draft): $file"
               continue
@@ -58,9 +96,9 @@ jobs:
 
             echo "  HTTP $code — $(cat /tmp/out)"
 
-            # A failed email must not fail the workflow: the draft is already
-            # safely in the repository, and a red cross here would say the push
-            # went wrong when it did not.
+            # A failed email must not fail the workflow: the draft is safely in
+            # the repository, and a red cross here would suggest the push went
+            # wrong when it did not.
             if [ "$code" != "200" ]; then
               echo "  ::warning::draft-notify returned $code for $slug"
             fi
