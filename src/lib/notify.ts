@@ -139,3 +139,72 @@ export async function notifyNewComment(comment: NewComment, siteUrl: string) {
     return { sent: false, reason: 'send failed' };
   }
 }
+
+/**
+ * Sent when the scheduled writer leaves a draft. Carries the three decisions as
+ * signed links, so the whole review can happen from a phone without opening
+ * GitHub. Subject is prefixed so a mail filter can catch these on its own.
+ */
+export async function notifyNewDraft(
+  draft: { slug: string; title: string; category: string; excerpt: string },
+  siteUrl: string
+) {
+  if (!notificationsConfigured()) return { sent: false, reason: 'not configured' };
+
+  try {
+    const port = Number(env('SMTP_PORT') ?? 465);
+    const transport = nodemailer.createTransport({
+      host: env('SMTP_HOST'),
+      port,
+      secure: port === 465,
+      auth: { user: env('SMTP_USER'), pass: env('SMTP_PASS') },
+    });
+
+    const link = async (action: string) =>
+      `${siteUrl}/api/draft-action?slug=${encodeURIComponent(draft.slug)}&action=${action}&token=${await signModeration(draft.slug, action)}`;
+
+    const [approve, reject, revise] = await Promise.all([
+      link('approve'),
+      link('reject'),
+      link('revise'),
+    ]);
+
+    const text = [
+      `New draft awaiting your decision: ${draft.title}`,
+      `Category: ${draft.category}`,
+      '',
+      draft.excerpt,
+      '',
+      `Approve: ${approve}`,
+      `Reject:  ${reject}`,
+      `Revise:  ${revise}`,
+      '',
+      'Nothing is live until you approve it.',
+    ].join('\n');
+
+    const html = `<div style="font-family:-apple-system,Segoe UI,Roboto,sans-serif;max-width:560px;color:#1a1a1a">
+  <p style="font-size:13px;color:#666;margin:0 0 6px">New draft awaiting your decision · ${esc(draft.category)}</p>
+  <h2 style="font-size:19px;line-height:1.3;margin:0 0 10px">${esc(draft.title)}</h2>
+  <p style="color:#444;line-height:1.6;margin:0 0 22px">${esc(draft.excerpt)}</p>
+  <p style="margin:0 0 18px">
+    <a href="${esc(approve)}" style="background:#0b804b;color:#fff;text-decoration:none;padding:11px 22px;border-radius:999px;display:inline-block;margin-right:6px">Approve</a>
+    <a href="${esc(revise)}" style="background:#7621B0;color:#fff;text-decoration:none;padding:11px 22px;border-radius:999px;display:inline-block;margin-right:6px">Revise</a>
+    <a href="${esc(reject)}" style="color:#666;text-decoration:underline;padding:11px 0;display:inline-block">Reject</a>
+  </p>
+  <p style="font-size:12px;color:#888;line-height:1.6">Each link opens a confirmation page first — nothing happens just by clicking. Revise lets you type what to change; the next scheduled run picks it up.</p>
+</div>`;
+
+    await transport.sendMail({
+      from: env('NOTIFY_FROM') ?? env('SMTP_USER'),
+      to: env('NOTIFY_TO'),
+      subject: headerSafe(`[Bozza] ${draft.category} — ${draft.title}`),
+      text,
+      html,
+    });
+
+    return { sent: true };
+  } catch (err) {
+    console.error('[drafts] notification failed:', err);
+    return { sent: false, reason: 'send failed' };
+  }
+}
