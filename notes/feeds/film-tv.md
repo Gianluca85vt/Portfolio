@@ -1,58 +1,68 @@
-# Film & TV — harvested 2026-08-13T19:48:52.486Z
+# Film & TV — harvested 2026-08-13T21:29:46.621Z
 
 ## Variety
+
+### Warner Bros. Discovery CEO David Zaslav Beneficiary of $21.7 Million Stock Sale as Paramount Merger Is Stuck on Hold
+Thu, 13 Aug 2026 21:21:07 +0000 — https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-21-7-million-stock-1236834226/
+
+David Zaslav, president and CEO of Warner Bros. Discovery, has now sold over $195 million worth of stock since the media company clinched a deal to be acquired by David Ellison s Paramount Skydance earlier this year. Zaslav s latest sale of 773,173 shares of WBD stock, for an aggregate market value of $21,655,292, was handled on [ ]
+
+### Matthew McConaughey Says Acting in The Wedding Planner With Jennifer Lopez Saved Him From Being Searched at U.S.-Mexico Border: They Let Me Go
+Thu, 13 Aug 2026 21:20:20 +0000 — https://variety.com/2026/film/news/matthew-mcconaughey-wedding-planner-mexico-border-jennifer-lopez-1236833933/
+
+Matthew McConaughey revealed on the Happy Sad Confused podcast that acting alongside Jennifer Lopez in 2001 s The Wedding Planner ended up getting him out of a major mess-up at the U.S.-Mexico border. I pull in one late night crossing the border going way down south, the actor recalled. I get pulled over, and it s one [ ]
+
+### Tramell Tillman Says I Had to Sign NDAs Before Even Meeting for Spider-Man: Brand New Day Role: A Little Frustrating Because Everything Was Shrouded in Secrecy
+Thu, 13 Aug 2026 20:32:05 +0000 — https://variety.com/2026/film/news/tramell-tillman-signed-ndas-spider-man-brand-new-day-role-meeting-1236834204/
+
+Tramell Tillman is going to play a big role in the Marvel Cinematic Universe’s future. And he can finally talk about it. Tillman, who won an Emmy last year for his supporting role in Apple TV’s “Severance,” had been hoping to appear in a Marvel movie for some time, and heard from his team that [ ]
+
+### Matthew McConaughey on Immortality, Shooting With Linklater and Nolan and Teaching His Film Students Not to Fear Doing Something Sh y
+Thu, 13 Aug 2026 20:30:00 +0000 — https://variety.com/2026/film/features/matthew-mcconaughey-rivals-of-amziah-king-brothers-1236833422/
+
+In all his homespun wisdom, Matthew McConaughey doesn’t think the world is a stage — he thinks it’s a story told by the fire. “Am I doing things that I want to last? Yeah. Am I trying to build bonfires instead of just campfires? Yeah,” the Oscar-winner says, reflecting on his legacy before he’s honored [ ]
+
+### NFL Preseason 2026 Livestream: Here s Where to Watch Pro Football Games Online
+Thu, 13 Aug 2026 20:24:12 +0000 — https://variety.com/2026/shopping/news/how-to-watch-nfl-preseason-games-online-livestream-free-1236480652/
+
+Although the first game of the preseason is the NFL Hall of Fame Game, the rest of the teams in the league begin play during Week 1 of preseason on Thursday, Aug. 13. The NFL 2025-27 season is just a few weeks away, while teams are getting ready to compete to win their division, make [ ]
+
+### Warner Bros. Discovery s Gerhard Zeiler to Recieve Directorate Award at This Year s International Emmys
+Thu, 13 Aug 2026 20:20:25 +0000 — https://variety.com/2026/tv/news/warner-bros-discovery-gerhard-zeiler-international-emmy-1236834184/
+
+Warner Bros. Discovery president of international Gerhard Zeiler has been tapped to receive the 2026 International Emmy Directorate Award. He joins Netflix chief content officer Bela Bajaria, who was previously announced as this year s honoree for the org s founders award. Zeiler and Bajaria will acceot their awards at the 54th International Emmy Awards Gala on [ ]
+
+### House of the Dragon Season 3 Finale Hits 21 Million Viewers in Three Days
+Thu, 13 Aug 2026 20:13:34 +0000 — https://variety.com/2026/tv/news/house-of-the-dragon-season-3-finale-ratings-1236834172/
+
+House of the Dragon concluded its third season on HBO on Sunday night, with the finale reaching 21 million viewers in its first three days of availability. More than 11 million of those viewers were in the U.S. That total comes from a combination of Nielsen s measurement of linear viewers on the HBO cable channel [ ]
+
+### WOW Women Of Wrestling Sets Major Season 5 Expansion, Jeanie Buss to Appear On-Camera (EXCLUSIVE)
+Thu, 13 Aug 2026 20:00:00 +0000 — https://variety.com/2026/tv/news/women-of-wrestling-season-5-jeanie-buss-1236831594/
+
+WOW Women Of Wrestling is going through a major growth spurt for its fifth season — which includes the league’s first live broadcast and expanded on-camera presence from Jeanie Buss. Season 5 will broadcast live from L.A. Live in downtown Los Angeles, anchoring WOW’s marquee events as part of a broader live strategy. Co-owner and promoter [ ]
+
+### Stretching Time: Nicolaas Schmidt on September Afternoon
+Thu, 13 Aug 2026 19:53:51 +0000 — https://variety.com/2026/film/global/locarno-film-festival-nicolaas-schmidt-september-afternoon-1236834121/
+
+On a windy afternoon, a family packs a beach bag, perhaps for the last time, and languidly walks towards the coast. A sense of gloom hangs in the air. While the child and her mother play in the sand, the father tackles the seemingly impossible task of setting up a tent to provide shelter. As [ ]
 
 ### This AI Startup Made a 24-Hour AI News Channel. Who Wants This?
 Thu, 13 Aug 2026 19:37:49 +0000 — https://variety.com/2026/digital/news/mirage-ai-generated-24-hour-news-channel-1236834107/
 
 Is there an audience for AI-delivered news? Public data says no, and previous attempts to deliver such ventures have yielded many human-written stories about projects that never materialized. And yet Mirage — the AI startup behind the video-editing app Captions that raised $75 million this year and was last valued at $500 million — thinks [ ]
 
-### Christy Knowings, Nickelodeon s All That Cast Member, Dies at 46
-Thu, 13 Aug 2026 19:14:56 +0000 — https://variety.com/2026/tv/obituaries-people-news/christy-knowings-dead-all-that-nickelodeon-1236834099/
-
-Christy Knowings, who was a cast member on Nickelodeon s children sketch comedy show All That, died Tuesday. She was 46. Knowings suffered an asthma attack that left her with brain damage, according to TMZ, and she was hospitalized on Friday. TMZ, which broke the news of Knowings death, reported that she was placed on life [ ]
-
-### Netflix Shuts Down Studio Behind Unhinged Game 6 Weeks After Release
-Thu, 13 Aug 2026 19:01:53 +0000 — https://variety.com/2026/gaming/news/netflix-closes-unhinged-video-game-studio-night-school-1236834103/
-
-Netflix is shutting down two studios, including the developer behind the David Fincher and Zach Cregger-backed horror game, “Unhinged,” which released less than two months ago. The streaming service is closing “Unhinged” maker Night School Studio, which it acquired in 2021, and Moonloot, a Helsinki-based studio founded in 2022. “We are incredibly grateful to the [ ]
-
-### Inside the Disney Machine: How the Iconic Brand Is Discovering the Next Generation of Stars
-Thu, 13 Aug 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/disney-next-generation-stars-1236832245/
-
-It s a tale as old as time — or at least the late 90s. Young actors cut their teeth on Disney youth programming and blossom into fully fledged pop stars or Academy Award-nominated actors. Some of today s biggest stars — Zendaya, Selena Gomez, Olivia Rodrigo, and Sabrina Carpenter, for example — got their start in the [ ]
-
-### Ted Lasso Season 4 Opens With 296.6 Million Minutes Watched in Two Days, Apple TV s Biggest Launch Ever
-Thu, 13 Aug 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/ted-lasso-season-4-ratings-apple-tv-1236834053/
-
-Ted Lasso made a strong return to Apple TV last week, with the Season 4 premiere pulling in 296.6 million minutes watched over the course of Aug. 4-5. That total, measured by Nielsen, makes the episode the biggest launch in the history of Apple TV, outpacing all previous seasons of Ted Lasso in addition to [ ]
-
-### KPop Demon Hunters Singer Ejae Made Mistakes During BAFTAs Performance After Seeing Leonardo DiCaprio: He Was Not Smiling and That s What Put Me Off
-Thu, 13 Aug 2026 18:54:53 +0000 — https://variety.com/2026/film/news/kpop-demon-hunters-ejae-leonardo-dicaprio-1236834101/
-
-Leonardo DiCaprio could throw any of us off of our game — as EJAE can testify. The “KPop Demon Hunters” vocalist spoke with the U.K. newspaper the Times and recounted her experience performing at this past year’s BAFTA Awards. “I made mistakes,” she said. “I cracked a little bit on the high notes. Leonardo DiCaprio [ ]
-
-### Will Smith s King Richard Co-Star Aunjanue Ellis-Taylor Defends the Oscars Slap: I Stand By That Because the First Amendment Should Not Protect A holes
-Thu, 13 Aug 2026 18:45:04 +0000 — https://variety.com/2026/film/news/aunjanue-ellis-taylor-will-smith-oscars-slap-1236834055/
-
-When it comes to Will Smith s shocking Oscars slap, Aunjanue Ellis-Taylor is sticking with her King Richard co-star. The Oscar nominee, who played Smith s on-screen wife as the mother of Venus and Serena Williams in the biopic, told The Daily Beast s Obsessed podcast that she understands why Smith stormed the stage in 2022 and smacked [ ]
-
-### La Gradiva, Cannes Critics Week Winner and French Oscar Hopeful, Sets U.S. Release Date and Reveals New Image (EXCLUSIVE)
-Thu, 13 Aug 2026 18:45:00 +0000 — https://variety.com/2026/film/awards/la-gradiva-us-release-date-oscars-1236833967/
-
-Marine Atlan s coming-of-age drama La Gradiva, a French hopeful eyeing to represent the country in the international feature Oscar race, has set its U.S. release date. The Cannes Critics Week Grand Prize winner will open at Film at Lincoln Center and IFC Center in New York on Dec. 18, followed by an expansion the next [ ]
-
-### Nara Smith Signs With CAA (EXCLUSIVE)
-Thu, 13 Aug 2026 18:30:00 +0000 — https://variety.com/2026/film/news/nara-smith-caa-1236833979/
-
-Nara Smith, a popular influencer on TikTok and other platforms, has signed with CAA for representation. Smith is a South African and German model, content creator and entrepreneur. She is best known for posting videos on TikTok in which she cooks elaborate meals or recreates common snack foods from scratch while dressed in designer clothing [ ]
-
-### How ‘All Her Fault’ Helped Put Peacock on the Map in Scripted Awards Conversations
-Thu, 13 Aug 2026 18:30:00 +0000 — https://variety.com/2026/tv/awards/all-her-fault-emmy-noms-peacock-scripted-awards-1236833995/
-
-Peacock finally landed a major scripted series program nomination at the Emmys this year, and it’s “All Her Fault.” The NBCUniversal streamer has already won two outstanding reality competition series Emmys for “The Traitors,” and plenty of noms in categories like outstanding TV movie (“Bridget Jones: Mad About the Boy” in 2025). But “All Her [ ]
-
 ## The Hollywood Reporter
+
+### When and Where to Watch Camp Rock 3
+Thu, 13 Aug 2026 20:35:39 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-camp-rock-3-release-date-cast-streaming-online-free-1236673128/
+
+After 16 long years, 'Camp Rock' (and the Jonas Brothers and Demi Lovato) return for a highly-anticipated third go-around.
+
+### Matthew McConaughey: How to Lose a Guy in 10 Days Pays by Far My Best Mailbox Money
+Thu, 13 Aug 2026 20:33:10 +0000 — https://www.hollywoodreporter.com/movies/movie-news/matthew-mcconaughey-how-to-lose-a-guy-in-10-days-money-1236673140/
+
+The actor on how his 2003 rom-com is "the gift that keeps on giving."
 
 ### Ted Lasso Season 4 Sets Premiere Day Viewing Record for Apple TV
 Thu, 13 Aug 2026 19:02:13 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-season-4-premiere-ratings-apple-tv-1236673077/
@@ -89,22 +99,57 @@ Thu, 13 Aug 2026 17:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-feat
 
 Break out the good stemware because there’s a label for series like 'All Her Fault,' 'The Perfect Couple' and 'Big Little Lies' — and every player in town is suddenly thirsty.
 
-### MobLand Season 2 Trailer: Tom Hardy Returns After Drama Over His Future on the Series as Pierce Brosnan s Conrad Goes Bonkers Berserk
+### MobLand Season 2 Trailer: Tom Hardy Returns After Drama Over His Future on the Series as Pierce Brosnan s Conrad Goes “Bonkers Berserk”
 Thu, 13 Aug 2026 17:28:10 +0000 — https://www.hollywoodreporter.com/tv/tv-news/mobland-season-2-trailer-tom-hardy-pierce-brosnan-1236672941/
 
 The Paramount+ series, which also stars Helen Mirren, returns on Sept. 18.
 
-### I Rarely Wake Up Dreaming Review: A Ukrainian Trans Man and His Wife Face Excruciating Choices in a Sensitive, Sensuous Drama
-Thu, 13 Aug 2026 17:23:17 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/i-rarely-wake-up-dreaming-review-1236672011/
-
-The film from German director Isabelle Stever and her Ukrainian screenwriter wife Anna Melikova will play in the New York Film Festival after its debut in Locarno.
-
-### Kelly Ripa Explains Reason for Dental Surgery That Resulted in Live! Absence
-Thu, 13 Aug 2026 17:13:52 +0000 — https://www.hollywoodreporter.com/tv/tv-news/kelly-ripa-explains-dental-surgery-live-morning-show-1236672994/
-
-The ‘Live! With Kelly and Mark’ co-host has been off the popular series since July 27 under doctor’s orders not to speak.
-
 ## Deadline
+
+### Drew Starkey Stays Mum On Potential American Psycho Casting, But Teases: The Script Is Amazing
+Thu, 13 Aug 2026 21:21:30 +0000 — https://deadline.com/2026/08/drew-starkey-potential-american-psycho-casting-script-amazing-1237033270/
+
+Following his breakout performance in Luca Guadagnino s Queer (2024), Drew Starkey is staying quiet about whether they re teaming up again. Amid speculation that Starkey is in the mix for the role of Patrick Bateman in the Oscar-nominated director s highly-anticipated adaptation of the 1991 Bret Easton Ellis book American Psycho, the actor offered a no comment [ ]
+
+### Anna Pigeon Debuts To 8-Year Ratings High For USA Scripted Originals
+Thu, 13 Aug 2026 21:18:25 +0000 — https://deadline.com/2026/08/anna-pigeon-premiere-ratings-record-usa-network-1237033283/
+
+Anna Pigeon is forging a solid path for itself since premiering last week. The series has debuted as the highest-rated USA original scripted series premiere in nearly eight years and a top new entry on ad-supported cable both in total viewers and in the 18-49 demo, per Nielsen Big Data + Panel. In the three [ ]
+
+### Chad Powers : Glen Powell s Russ Holliday Struggles To Keep Up The Ruse On His College Football Playoff Run In Season 2 Trailer
+Thu, 13 Aug 2026 21:00:46 +0000 — https://deadline.com/2026/08/chad-powers-season-2-trailer-hulu-glen-powell-1237033247/
+
+The South Georgia Catfish still have a playoff to make. That is, if their star player can keep up the ruse on his real identity for that long. The walls are closing in on Russ Holliday (Glen Powell) in Season 2 of Chad Powers, as evidenced by the trailer Hulu released Thursday. Now that Ricky [ ]
+
+### Leslie Bibb Went Off Book With Jean Smart In Hacks ; Joins Brett Goldstein s New Escorted Show With Lesley Manville: How Is This My Life?
+Thu, 13 Aug 2026 21:00:00 +0000 — https://deadline.com/2026/08/leslie-bibb-hacks-brett-goldstein-escorted-1237033068/
+
+Leslie Bibb hates to think of herself as having a moment. “I don t like to say moment, because it can be over like that,” she says. “It feels like I have been preparing for this my whole career, and the stars are aligning for the parts.” From her breakout role as Brooke McQueen on Popular, [ ]
+
+### Married At First Sight Audience Up 94% For Season 20 On Peacock
+Thu, 13 Aug 2026 20:30:00 +0000 — https://deadline.com/2026/08/married-at-first-sight-season-20-ratings-peacock-1237033123/
+
+EXCLUSIVE: Married at First Sight is courting quite a few new viewers this season. Since the July 12 premiere of Season 20, the series has tallied more than 1.2 billion viewing minutes on Peacock, according to the streamer s internal data. The latest installment ranks as the third highest-reaching original reality season ever on the streamer. [ ]
+
+### Big Brother UK Gets New Eye Logo Design Ahead Of Season 23 Launch This Fall On ITV2 ITVX
+Thu, 13 Aug 2026 20:25:51 +0000 — https://deadline.com/2026/08/big-brother-uk-new-eye-logo-design-season-23-itv2-itvx-1237033230/
+
+ITV has confirmed the return of Big Brother UK this fall, unveiling a new redesigned logo for the new season. The British broadcaster has done away with the graphic, colorful eye logo and replaced it with a more realistic eye as the new image for the reality TV competition. Set to premiere this fall on [ ]
+
+### Everything We Know About Aaron Sorkin’s ‘The Social Reckoning’ So Far
+Thu, 13 Aug 2026 20:09:36 +0000 — https://deadline.com/feature/the-social-reckoning-news-updates-everything-we-know-1237033205/
+
+Aaron Sorkin will return to the world of Facebook in The Social Reckoning, a companion film to The Social Network (2010). The follow-up film is not quite a sequel, and different actors will appear in the technological thriller versus the 2010 film. For everything we know about The Social Reckoning, read on. When does The [ ]
+
+### House Of The Dragon Season 3 Life, Larry The Pursuit Of Unhappiness Finish As Top Performers For HBO Max
+Thu, 13 Aug 2026 20:06:36 +0000 — https://deadline.com/2026/08/house-of-the-dragon-season-3-life-larry-unhappiness-ratings-hbo-1237033191/
+
+House of the Dragon soared to a smooth Season 3 finish. The final episode of the season tallied over 11 million U.S. viewers and 21 million global viewers within the first three days of its Sunday night debut, Warner Bros. Discovery said Thursday. WBD did not say how that stacks up against the Season 2 [ ]
+
+### Kenan Thompson Remembers All That Co-Star Christy Knowings: This One Hit Hard
+Thu, 13 Aug 2026 19:49:40 +0000 — https://deadline.com/2026/08/kenan-thompson-christy-knowings-1237033140/
+
+Saturday Night Live s Kenan Thompson is remembering his former All That co-star Christy Knowings, who died Tuesdat at 46 after being taken off life support following a devastating asthma attack. Man this one hit hard!!!, Thompson wrote on Facebook today after learning that his castmate from the 90s Nickelodeon series had passed. Rest well Christy!!! [ ]
 
 ### What To Expect For Heated Rivalry Season 2: Everything We Know So Far
 Thu, 13 Aug 2026 19:21:52 +0000 — https://deadline.com/feature/heated-rivalry-season-2-news-updates-everything-we-know-1236867258/
@@ -114,55 +159,10 @@ There is still a long wait to be had for the highly anticipated second season of
 ### Christy Knowings Dies: Former Nickelodeon Star Of All That Was 46
 Thu, 13 Aug 2026 19:01:45 +0000 — https://deadline.com/2026/08/christy-knowings-dead-1237033066/
 
-Christy Knowings, a cast member of Nickelodeon s 90s hit All That, died Tuesday, August 11, after being removed from life support at a Los Angeles-area hospital, TMZ reports. She was 46. Knowing s aunt, Tyleah Joseph, announced the death yesterday on Facebook, but a cause was not disclosed. According to TMZ, citing family sources, Knowing was [ ]
+Christy Knowings, a cast member of Nickelodeon s 90s hit All That, died Tuesday, August 11, after being removed from life support at a Los Angeles-area hospital, TMZ reports. She was 46. Knowing s aunt, Tyleah Joseph, announced the death Wednesday on Facebook, but a cause was not disclosed. According to TMZ, citing family sources, Knowings was [ ]
 
 ### Ted Lasso Season 4 Enters The Pitch With Apple TV s Biggest Premiere Ever
 Thu, 13 Aug 2026 19:00:00 +0000 — https://deadline.com/2026/08/ted-lasso-season-4-premiere-us-viewership-nielsen-apple-tv-1237033025/
 
 Ted Lasso received a warm welcome upon its return to Apple TV earlier this month. The Season 4 premiere drew 296.6 million viewing minutes in the U.S. across its August 4 and 5 launch window, per Nielsen data provided by Apple on Thursday. On August 5 alone, the season debut was the most-streamed program in [ ]
-
-### Kennedy Center Board Votes To Return Donald Trump s Name To Front Facade Of Complex, Again Approves Plan To Close For Two Years For Renovations
-Thu, 13 Aug 2026 18:19:00 +0000 — https://deadline.com/2026/08/trump-kennedy-center-board-votes-to-close-1237032921/
-
-The Kennedy Center board voted on Thursday to return Donald Trump s name to the front of the complex, amid a judge s order that only Congress could change the official designation of the arts institution. The Trump-controlled board voted to add a phrase below the center s official name, The John F. Kennedy Memorial Center for the [ ]
-
-### Neal McDonough Skeet Ulrich To Star In Psychological Horror Film ‘Deify’
-Thu, 13 Aug 2026 18:09:55 +0000 — https://deadline.com/2026/08/neal-mcdonough-skeet-ulrich-to-star-deify-horror-film-1237033040/
-
-EXCLUSIVE: Neal McDonough (Tulsa King) and Skeet Ulrich (Five Nights at Freddy s 2) have signed on to star in Deify, an indie psychological horror film from brother filmmakers Carmelo and Nicholas Chimera. In Deify — written by Nicholas Chimera and set to shoot in Chicago — a cult leader is put on trial after causing his devoted followers to [ ]
-
-### ‘Lanterns’ Release Schedule: When Do New Episodes Come Out?
-Thu, 13 Aug 2026 18:00:21 +0000 — https://deadline.com/2026/08/lanterns-release-schedule-new-episodes-streaming-1237033026/
-
-HBO’s next DC Original series is Lanterns, which centers on Aaron Pierre’s John Stewart and Kyle Chandler’s Hal Jordan. The show will be one of the final new entries of the summer, launching mid-August. From co-creators Chris Mundy, Damon Lindelof and Tom King, it watches recruit Stewart and Lantern legend Jordan get drawn into a [ ]
-
-### Gayle Rankin To Topline Indie Ashley Wright From Logan Noah Miller; Amy Madigan, Ed Harris Among Others Set
-Thu, 13 Aug 2026 17:38:00 +0000 — https://deadline.com/2026/08/gayle-rankin-amy-madigan-ed-harris-to-star-ashley-wright-1237032983/
-
-EXCLUSIVE: Gayle Rankin (House of the Dragon) has wrapped a lead role in Ashley Wright, an indie also starring Evelyn Grace Kite (Elijah Peel), Weapons Oscar winner Amy Madigan, Golden Globe winner Ed Harris (Westworld), Steven Ogg (The Walking Dead), Michole Brianna White (BMF), and Lily Harris. Directed by Logan Noah Miller (Touching Home), [ ]
-
-### Emilia Jones To Lead The Cast Of Netflix Series The Retrievals From Molly Smith Metzler
-Thu, 13 Aug 2026 17:00:21 +0000 — https://deadline.com/2026/08/emilia-jones-star-the-retrievals-molly-smith-metzler-1237032854/
-
-EXCLUSIVE: Emilia Jones (Bad Bridgets, Task) is set to headline The Retrievals, the latest series from Emmy-nominated Maid and Sirens creator/executive producer Molly Smith Metzler. Inspired by the Peabody-winning NYT podcast by Susan Burton, The Retrievals follows an unlikely community of IVF patients who come together to crusade against Yale University after they are operated [ ]
-
-### Matthew McConaughey Says How To Lose A Guy In 10 Days Is The Gift That Keeps On Giving : It Still Pays The Best Mailbox Money
-Thu, 13 Aug 2026 17:00:09 +0000 — https://deadline.com/2026/08/matthew-mcconaughey-how-to-lose-a-guy-in-10-days-residuals-1236784930/
-
-Matthew McConaughey has starred in multiple rom-coms, but there s one in particular that he says still makes him money even after 20 years. In a new interview, the actor said that How to Lose a Guy in 10 Days still brings him money in residuals after all these years. How to Lose a Guy in [ ]
-
-### Task Adds Stephanie Sigman, Alaíde, Rocío Guzmán Regina Nava To Season 2 Cast
-Thu, 13 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/task-season-2-cast-stephanie-sigman-hbo-1237032556/
-
-EXCLUSIVE: HBO s Task is rounding out its cast for Season 2, adding Stephanie Sigman (Nemesis), Alaíde (Rebelde), Rocío Guzmán (Down the Rabbit Hole) and Regina Nava (Blood Pact) in recurring roles. Based on an original idea by Brad Ingelsby, Task is set in the working-class suburbs outside of Philadelphia. An FBI agent heads a Task Force to [ ]
-
-### ‘Traces Of Home’ Trailer: Award-Winning Film From EPs Melissa Barrera And John Leguizamo Tells Story Of Love And Forced Displacement
-Thu, 13 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/traces-of-home-trailer-exclusive-1237032746/
-
-EXCLUSIVE: Traces of Home, the award-winning documentary debut of filmmaker Colette Ghunim, has set its U.S. theatrical release. The film from Watermelon Pictures, executive produced by Melissa Barrera and John Leguizamo, will open September 18 at Angelika Film Center in New York City (a special preview screening will take place there on Sept. 16, followed [ ]
-
-### John Carpenter, Colman Domingo Charlize Theron Named 2026 Academy Museum Gala Honorees
-Thu, 13 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/john-carpenter-colman-domingo-charlize-theron-academy-gala-1237032926/
-
-Filmmaker John Carpenter and actors Colman Domingo and Charlize Theron have been named as this year s honorees of the Academy Museum of Motion Pictures annual fundraising gala in October. The gala, co-chaired by Robert Rodriguez, Steven Spielberg and Kate Capshaw, is set for October 17. Theron will receive the Icon Award, celebrating an artist whose [ ]
 

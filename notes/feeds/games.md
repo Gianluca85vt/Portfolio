@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-13T19:48:52.486Z
+# Games — harvested 2026-08-13T21:29:46.621Z
 
 ## Eurogamer
 
@@ -125,6 +125,11 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Gritty Action RPGs Will Soon Have Big Budget Competition from One of the World s Most Popular Devs
+Thu, 13 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/gritty-action-rpgs-will-soon-have-big-budget-competition-from-one-of-the-worlds-most-popular-devs
+
+Another one. If you're a fan of Soulslikes or just fantasy-themed action RPGs in general, then you might want to keep an eye out for 'The Weavers' (as it's currently known). Based on numerous leaks up until this point — which have suddenly spiralled out of control — this is a gritty action RPG from HoYoverse, currently in development for consoles and PC. Read the full article on pushsquare.com
+
 ### Mafia Remake Joins The Old Country on PS5 in Full Series Collection with 60FPS, Visual Upgrades
 Thu, 13 Aug 2026 17:45:00 GMT — https://www.pushsquare.com/news/2026/08/mafia-remake-joins-the-old-country-on-ps5-in-full-series-collection-with-60fps-visual-upgrades
 
@@ -180,12 +185,17 @@ Wed, 12 Aug 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/08/final-
 
 Whatever. Square Enix has just dropped a 16-minute gameplay video for Final Fantasy Resonance — the upcoming turn-based RPG that's been built on the bones of the old mobile title, Final Fantasy Brave Exvius. But you're not getting a broader view of the overall adventure with this footage. Instead, it shows off a full, uncut boss battle with Shiva, as the party attempt to enlist her all-powerful services. Read the full article on pushsquare.com
 
-### 2 More Truly Fascinating Retro Games Are Coming to PS5 This Week
-Wed, 12 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/08/2-more-truly-fascinating-retro-games-are-coming-to-ps5-this-week
-
-Pick your poison. I’m loving writing about all these retro releases coming to the PS5, which are getting more and more interesting by the week. This time, on 13th August, we have a PS1 game from Console Archives I’ve personally wanted for an eternity: the all-girl fighter Touki Denshou Angel Eyes . Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Netflix closing Oxenfree developer Night School Studio and Moonloot Games
+Thu, 13 Aug 2026 19:54:15 GMT — https://www.gamedeveloper.com/business/netflix-closing-oxenfree-developer-night-school-studio-and-moonloot-games
+
+'We believe we can operate more strategically and efficiently within our Games business, and as a result are eliminating some additional Games roles'
+
+### 2K announces new Vancouver-based AAA studio led by EA veteran
+Thu, 13 Aug 2026 16:38:33 GMT — https://www.gamedeveloper.com/business/2k-announces-new-vancouver-based-studio-led-by-ea-veteran
+
+After almost two decades at EA, Aaron McHardy will act as vice president, executive producer, and head of Small Axe Studios.
 
 ### Xsolla rolls out publishing tools to keep players 'engaged' after the first purchase
 Thu, 13 Aug 2026 15:16:47 GMT — https://www.gamedeveloper.com/business/xsolla-rolls-out-publishing-tools-to-keep-players-engaged-after-the-first-purchase
@@ -236,14 +246,4 @@ The hide-and-seek sensation continues to surpass milestones.
 Wed, 12 Aug 2026 13:54:15 GMT — https://www.gamedeveloper.com/business/epics-sells-artstation-and-sketchfab-to-kitbash
 
 The Fortnite maker purchased both platforms in 2021.
-
-### 'One flag for each laid off dev:' Union workers stage unmissable protest for Xbox boss Asha Sharma
-Wed, 12 Aug 2026 08:45:10 GMT — https://www.gamedeveloper.com/business/-one-flag-for-each-laid-off-dev-union-members-stage-unmissable-protest-for-xbox-boss-asha-sharma
-
-It would be difficult to ignore the giant inflatable rat on the lawn.
-
-### Report: Crossfire dev That's No Moon lays off 14 staff
-Tue, 11 Aug 2026 20:30:00 GMT — https://www.gamedeveloper.com/business/report-crossfire-dev-that-s-no-moon-lays-off-14-staff
-
-Crossfire was revealed in June of this year with Smilegate and Tencent subsidiary Team K1 acting as publishers.
 

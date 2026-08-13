@@ -1,6 +1,16 @@
-# Manga — harvested 2026-08-13T19:48:52.486Z
+# Manga — harvested 2026-08-13T21:29:46.621Z
 
 ## Anime News Network
+
+### Skull Dragon's Precious Daughter Manga Goes on Hiatus for Half a Year
+Thu, 13 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/skull-dragon-precious-daughter-manga-goes-on-hiatus-for-half-a-year/.240534
+
+Manga returns in spring 2027
+
+### Battle in 5 Seconds Goes on Hiatus Due to Author's Poor Health
+Thu, 13 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/battle-in-5-seconds-goes-on-hiatus-due-to-author-poor-health/.240542
+
+Miyakokasiwa diagnosed with depression
 
 ### Young Ladies Don't Play Fighting Games ‒ Episode 6
 Thu, 13 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-6/.240556
@@ -51,16 +61,6 @@ Webtoon launched in English, other languages on July 31 across LINE Manga, ebook
 Thu, 13 Aug 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/manga-up-global-adds-transmigrated-to-the-northern-frontier-manga/.240549
 
 You Midorikawa's manga adaptation recently ended in April
-
-### One Piece novel Zoro Tops Oricon's Monthly Light Novel Ranking for July 2026
-Thu, 13 Aug 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/one-piece-novel-zoro-tops-oricon-monthly-light-novel-ranking-for-july-2026/.240437
-
-<cite>Heaven Official's Blessing</cite> novel's 6th volume ranked 2nd, 9th volume of <cite>Too Many Losing Heroines!</cite> ranks 3rd
-
-### OceanVeil Adds Yomu's Miru Tights Short Anime Series
-Thu, 13 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/oceanveil-adds-yomu-miru-tights-short-anime-series/.240546
-
-Series debuted streaming in May 2019
 
 ## Crunchyroll News
 
