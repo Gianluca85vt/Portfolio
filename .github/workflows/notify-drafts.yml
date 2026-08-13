@@ -1,0 +1,67 @@
+name: Notify new drafts
+
+# The scheduled writer cannot call the site itself: its sandbox blocks outbound
+# traffic to every host bar a handful, gianlucascattarella.it included, so the
+# curl it used to run came back 403 and the review email never went out.
+#
+# GitHub has no such restriction, so the trigger moves here. A push carries the
+# list of what changed, which means no polling and no state to keep about which
+# drafts have already been announced.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/blog/**.md'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Need the previous commit to diff against.
+          fetch-depth: 2
+
+      - name: Email a review link for every draft added or revised
+        run: |
+          set -euo pipefail
+
+          # A first commit has no parent to compare with.
+          if ! git rev-parse HEAD^ >/dev/null 2>&1; then
+            echo "No parent commit, nothing to compare."
+            exit 0
+          fi
+
+          changed=$(git diff --name-only --diff-filter=AM HEAD^ HEAD -- 'src/content/blog/*.md' || true)
+
+          if [ -z "$changed" ]; then
+            echo "No blog files added or modified."
+            exit 0
+          fi
+
+          for file in $changed; do
+            # Only unpublished drafts are announced. Publishing a piece removes
+            # this line, so approving one never triggers a fresh email.
+            if ! grep -q '^draft: true' "$file"; then
+              echo "skip (not a draft): $file"
+              continue
+            fi
+
+            slug=$(basename "$file" .md)
+            echo "notifying: $slug"
+
+            code=$(curl -s -o /tmp/out -w '%{http_code}' \
+              -X POST https://www.gianlucascattarella.it/api/draft-notify \
+              -H 'content-type: application/json' \
+              -d "{\"slug\":\"$slug\"}") || true
+
+            echo "  HTTP $code — $(cat /tmp/out)"
+
+            # A failed email must not fail the workflow: the draft is already
+            # safely in the repository, and a red cross here would say the push
+            # went wrong when it did not.
+            if [ "$code" != "200" ]; then
+              echo "  ::warning::draft-notify returned $code for $slug"
+            fi
+          done
