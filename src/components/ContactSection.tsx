@@ -4,7 +4,7 @@ import FadeIn from './ui/FadeIn';
 import GlowText from './ui/GlowText';
 import ContactButton from './ui/ContactButton';
 import SocialLinks from './ui/SocialLinks';
-import { site, jian } from '../data/portfolio';
+import { site, contact } from '../data/portfolio';
 
 type ContactLink = {
   icon: LucideIcon;
@@ -51,7 +51,7 @@ export default function ContactSection() {
           className="text-[#D7E2EA] font-light text-center leading-relaxed max-w-[620px]"
           style={{ fontSize: 'clamp(0.95rem, 1.8vw, 1.2rem)' }}
         >
-          {jian.body}
+          {contact.body}
         </FadeIn>
 
         <FadeIn delay={0.2} y={20}>

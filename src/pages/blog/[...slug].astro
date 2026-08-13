@@ -4,7 +4,7 @@ import Base from '../../layouts/Base.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
 import Comments from '../../components/Comments.astro';
 import ShareBar from '../../components/ui/ShareBar';
-import { site } from '../../data/portfolio';
+import { site, categoryColors } from '../../data/portfolio';
 
 export async function getStaticPaths() {
   const entries = await getCollection('blog', ({ data }) => !data.draft);
@@ -72,10 +72,16 @@ const jsonLd = {
 
     <article class="px-5 sm:px-8 md:px-10 pt-12 sm:pt-16 pb-20 sm:pb-24">
       <div class="max-w-[720px] mx-auto">
-        <div class="flex items-center gap-3 text-[0.65rem] uppercase tracking-widest">
-          <span class="text-[#D7E2EA]">{entry.data.category}</span>
-          <span class="text-[#D7E2EA]/30">{published}</span>
-          <span class="text-[#D7E2EA]/30">{readingMinutes} min</span>
+        <div class="flex items-center gap-3 flex-wrap">
+          <span
+            class="inline-block rounded-[4px] font-medium uppercase tracking-widest text-white text-[0.62rem] px-2.5 py-1"
+            style={`background-color:${categoryColors[entry.data.category] ?? '#7621B0'}`}
+          >
+            {entry.data.category}
+          </span>
+          <span class="text-[#D7E2EA]/35 font-light text-[0.72rem] tracking-wide">
+            {published} · {readingMinutes} min
+          </span>
         </div>
 
         <h1

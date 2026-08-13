@@ -117,6 +117,23 @@ export const blogCategories = [
 export type BlogCategory = (typeof blogCategories)[number];
 
 /**
+ * One colour per section, the way a news site codes its desks. Kept inside the
+ * site's magenta-purple-orange range so the blog still reads as part of the
+ * portfolio rather than a separate publication bolted on.
+ *
+ * Also used to build the placeholder artwork for articles with no cover image.
+ */
+export const categoryColors: Record<BlogCategory, string> = {
+  '3D': '#BE4C00',
+  Tech: '#7621B0',
+  AI: '#B600A8',
+  Games: '#D6294E',
+  Manga: '#C8891B',
+  'Film & TV': '#5B3FBF',
+  Collecting: '#9A5B2E',
+};
+
+/**
  * Comments live in your own Postgres on Supabase — no third-party widget, no
  * external branding, and the data is yours in standard SQL you can export at
  * any time. Readers leave a name and a comment; no account, no login.
@@ -504,6 +521,12 @@ export const projects: Project[] = [
   },
 ];
 
+export const contact = {
+  body: 'Freelance environment and technical art, a permanent seat in the right team, or just a question about how something here was made — all of it is welcome. I read everything that arrives, and I answer.',
+};
+
+// Copy for the Jian vertical slice. Currently not placed anywhere on the site:
+// it used to be printed in the contact footer, which was a mistake.
 export const jian = {
   title: 'Jian: Claws of Destiny',
   body: 'A high-fidelity Action-RPG that blends fluid, fast-paced combat with a deep, atmospheric narrative, powered by Unreal Engine 5. The vertical slice demonstrating the core gameplay mechanics and visual style is complete, and a Kickstarter campaign is in preparation to fund full development.',
