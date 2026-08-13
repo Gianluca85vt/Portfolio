@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import FadeIn from './ui/FadeIn';
 import GlowText from './ui/GlowText';
 import { blogCategories, categoryColors } from '../data/portfolio';
@@ -14,6 +14,9 @@ export type PostCard = {
   readingMinutes: number;
 };
 
+const SUPABASE_URL = import.meta.env.PUBLIC_SUPABASE_URL;
+const SUPABASE_KEY = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
+
 function formatDate(iso: string) {
   const d = new Date(iso);
   if (Number.isNaN(d.getTime())) return '';
@@ -24,29 +27,53 @@ function colorFor(category: string) {
   return categoryColors[category as BlogCategory] ?? '#7621B0';
 }
 
-/** Small coloured section label, the way a news site tags a desk. */
-function Badge({ category, size = 'sm' }: { category: string; size?: 'sm' | 'lg' }) {
+/**
+ * Approved comment counts for every post in one request, tallied here rather
+ * than asking the database for a grouped count per slug. Fails silently: a
+ * missing badge is a far smaller problem than a blog index that will not render
+ * because the database was unreachable.
+ */
+function useCommentCounts(enabled: boolean) {
+  const [counts, setCounts] = useState<Record<string, number>>({});
+
+  useEffect(() => {
+    if (!enabled || !SUPABASE_URL || !SUPABASE_KEY) return;
+    let cancelled = false;
+
+    fetch(`${SUPABASE_URL}/rest/v1/comments?select=post_slug&approved=eq.true`, {
+      headers: { apikey: SUPABASE_KEY },
+    })
+      .then((r) => (r.ok ? r.json() : []))
+      .then((rows: Array<{ post_slug: string }>) => {
+        if (cancelled) return;
+        const tally: Record<string, number> = {};
+        for (const row of rows) tally[row.post_slug] = (tally[row.post_slug] ?? 0) + 1;
+        setCounts(tally);
+      })
+      .catch(() => {});
+
+    return () => {
+      cancelled = true;
+    };
+  }, [enabled]);
+
+  return counts;
+}
+
+function CommentBadge({ count }: { count: number }) {
+  if (!count) return null;
   return (
-    <span
-      className={`inline-block rounded-[4px] font-medium uppercase tracking-widest text-white ${
-        size === 'lg' ? 'text-[0.68rem] px-2.5 py-1' : 'text-[0.58rem] px-2 py-[3px]'
-      }`}
-      style={{ backgroundColor: colorFor(category) }}
-    >
-      {category}
+    <span className="absolute top-0 right-0 z-20 flex items-center gap-1 bg-[#D6294E] text-white text-[0.62rem] font-medium px-1.5 py-[3px] rounded-bl-[6px]">
+      <svg viewBox="0 0 24 24" className="w-3 h-3" fill="currentColor" aria-hidden="true">
+        <path d="M20 2H4a2 2 0 0 0-2 2v18l4-4h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2z" />
+      </svg>
+      {count}
     </span>
   );
 }
 
-/**
- * Artwork for posts that have no cover. Four of the articles are text pieces
- * with no image worth using, and in a dense grid an empty card reads as broken
- * rather than deliberate — so they get a tinted panel in the section's colour
- * with its initial, which sits in the layout as if it were meant to be there.
- */
-function CoverArt({ post, className = '' }: { post: PostCard; className?: string }) {
-  const color = colorFor(post.category);
-
+/** Cover image, or a tinted panel in the section colour when there is none. */
+function Cover({ post }: { post: PostCard }) {
   if (post.cover) {
     return (
       <img
@@ -54,7 +81,7 @@ function CoverArt({ post, className = '' }: { post: PostCard; className?: string
         alt=""
         aria-hidden="true"
         loading="lazy"
-        className={`w-full h-full object-cover transition-transform duration-[600ms] group-hover:scale-[1.04] ${className}`}
+        className="absolute inset-0 w-full h-full object-cover transition-transform duration-[600ms] group-hover:scale-[1.05]"
       />
     );
   }
@@ -62,12 +89,12 @@ function CoverArt({ post, className = '' }: { post: PostCard; className?: string
   return (
     <div
       aria-hidden="true"
-      className={`w-full h-full flex items-center justify-center transition-transform duration-[600ms] group-hover:scale-[1.04] ${className}`}
-      style={{ background: `linear-gradient(140deg, #18011F 10%, ${color} 130%)` }}
+      className="absolute inset-0 flex items-center justify-center transition-transform duration-[600ms] group-hover:scale-[1.05]"
+      style={{ background: `linear-gradient(140deg, #18011F 10%, ${colorFor(post.category)} 130%)` }}
     >
       <span
-        className="font-black leading-none select-none uppercase tracking-tight text-center px-4"
-        style={{ fontSize: 'clamp(1.5rem, 3.4vw, 2.6rem)', color: 'rgba(255,255,255,0.14)' }}
+        className="font-black uppercase tracking-tight leading-none select-none px-3 text-center"
+        style={{ fontSize: 'clamp(1.1rem, 2.6vw, 2rem)', color: 'rgba(255,255,255,0.14)' }}
       >
         {post.category}
       </span>
@@ -75,76 +102,89 @@ function CoverArt({ post, className = '' }: { post: PostCard; className?: string
   );
 }
 
-function Meta({ post }: { post: PostCard }) {
-  return (
-    <span className="text-[#D7E2EA]/35 font-light text-[0.7rem] tracking-wide whitespace-nowrap">
-      {formatDate(post.date)} · {post.readingMinutes} min
-    </span>
-  );
-}
+/**
+ * The card shape the whole page is built from: full-bleed artwork with the
+ * headline sitting on top of it, over a scrim dark enough to keep white text
+ * legible against any image.
+ */
+function OverlayCard({
+  post,
+  count,
+  size,
+}: {
+  post: PostCard;
+  count: number;
+  size: 'lead' | 'small';
+}) {
+  const lead = size === 'lead';
 
-/** The opening story: one wide card so the page leads with an article. */
-function LeadStory({ post }: { post: PostCard }) {
   return (
     <a
       href={`/blog/${post.slug}/`}
-      className="group grid grid-cols-1 md:grid-cols-2 rounded-[20px] overflow-hidden border border-[#D7E2EA]/15 transition-colors duration-300 hover:border-[#D7E2EA]/40"
+      className="group relative block overflow-hidden rounded-[6px] bg-black h-full"
     >
-      <div className="aspect-video md:aspect-auto md:min-h-[300px] overflow-hidden bg-black/40">
-        <CoverArt post={post} />
+      <div className={lead ? 'relative aspect-[4/3]' : 'relative aspect-[4/3]'}>
+        <Cover post={post} />
+        {/* scrim: opaque at the foot, gone by halfway up */}
+        <div
+          className="absolute inset-0 z-10"
+          style={{
+            background:
+              'linear-gradient(to top, rgba(0,0,0,0.94) 0%, rgba(0,0,0,0.75) 22%, rgba(0,0,0,0.18) 50%, rgba(0,0,0,0) 72%)',
+          }}
+        />
       </div>
 
-      <div className="flex flex-col justify-center gap-4 p-6 sm:p-8 md:p-10">
-        <div className="flex items-center gap-3 flex-wrap">
-          <Badge category={post.category} size="lg" />
-          <Meta post={post} />
-        </div>
+      <CommentBadge count={count} />
+
+      <div className={`absolute inset-x-0 bottom-0 z-20 ${lead ? 'p-4 sm:p-5' : 'p-3.5'}`}>
+        <span
+          className="block font-medium uppercase tracking-[0.11em] mb-1.5"
+          style={{ color: colorFor(post.category), fontSize: lead ? '0.66rem' : '0.6rem' }}
+        >
+          {post.category}
+        </span>
 
         <h2
-          className="text-[#D7E2EA] font-medium leading-[1.15] transition-colors duration-300 group-hover:text-white"
-          style={{ fontSize: 'clamp(1.35rem, 3vw, 2.15rem)' }}
+          className="text-white font-medium leading-[1.2]"
+          style={{ fontSize: lead ? 'clamp(1.05rem, 1.9vw, 1.35rem)' : 'clamp(0.92rem, 1.4vw, 1.02rem)' }}
         >
           {post.title}
         </h2>
-
-        {post.excerpt ? (
-          <p className="text-[#D7E2EA]/55 font-light leading-relaxed text-[0.9rem] sm:text-[0.95rem] line-clamp-4">
-            {post.excerpt}
-          </p>
-        ) : null}
       </div>
     </a>
   );
 }
 
-function GridCard({ post }: { post: PostCard }) {
+/** Compact row for everything past the picture-led blocks. */
+function ListRow({ post, count }: { post: PostCard; count: number }) {
   return (
     <a
       href={`/blog/${post.slug}/`}
-      className="group flex flex-col h-full rounded-[16px] overflow-hidden border border-[#D7E2EA]/15 transition-colors duration-300 hover:border-[#D7E2EA]/40"
+      className="group flex gap-4 items-start py-4 border-b border-[#D7E2EA]/10"
     >
-      {/* the badge sits on the image, which is what makes the grid scannable */}
-      <div className="relative aspect-video overflow-hidden bg-black/40">
-        <CoverArt post={post} />
-        <span className="absolute left-3 bottom-3">
-          <Badge category={post.category} />
-        </span>
+      <div className="relative w-[112px] sm:w-[145px] shrink-0 aspect-[16/10] overflow-hidden rounded-[4px] bg-black">
+        <Cover post={post} />
+        <CommentBadge count={count} />
       </div>
 
-      <div className="flex flex-col gap-2 p-4 sm:p-5 flex-1">
-        <h2 className="text-[#D7E2EA] font-medium leading-snug text-[0.98rem] sm:text-[1.05rem] transition-colors duration-300 group-hover:text-white">
+      <div className="min-w-0 flex-1">
+        <div className="flex items-center gap-2 flex-wrap mb-1.5">
+          <span className="text-[#D7E2EA]/35 font-light text-[0.66rem] uppercase tracking-wider">
+            {formatDate(post.date)}
+          </span>
+          <span className="text-[#D7E2EA]/20 text-[0.66rem]">|</span>
+          <span
+            className="font-medium uppercase tracking-[0.09em] text-[0.66rem]"
+            style={{ color: colorFor(post.category) }}
+          >
+            {post.category}
+          </span>
+        </div>
+
+        <h2 className="text-[#D7E2EA] font-medium leading-snug text-[0.95rem] sm:text-[1.02rem] transition-colors duration-200 group-hover:text-white">
           {post.title}
         </h2>
-
-        {post.excerpt ? (
-          <p className="text-[#D7E2EA]/45 font-light text-[0.8rem] leading-relaxed line-clamp-2">
-            {post.excerpt}
-          </p>
-        ) : null}
-
-        <span className="mt-auto pt-2">
-          <Meta post={post} />
-        </span>
       </div>
     </a>
   );
@@ -152,51 +192,47 @@ function GridCard({ post }: { post: PostCard }) {
 
 export default function BlogList({ posts }: { posts: PostCard[] }) {
   const [active, setActive] = useState('All');
+  const counts = useCommentCounts(posts.length > 0);
 
   // only offer categories that actually have something in them
   const used = blogCategories.filter((c) => posts.some((p) => p.category === c));
   const filters = ['All', ...used];
   const shown = active === 'All' ? posts : posts.filter((p) => p.category === active);
 
-  // The lead only makes sense on the unfiltered view, where it is genuinely the
-  // latest thing published. Inside a filter it would just be an arbitrarily
-  // enlarged card.
-  const lead = active === 'All' ? shown[0] : undefined;
-  const rest = lead ? shown.slice(1) : shown;
+  // Three big, then four smaller, then a list — the same descending weight the
+  // reference uses. Inside a filter the split stops meaning anything, so
+  // everything becomes one uniform grid instead.
+  const filtered = active !== 'All';
+  const leadRow = filtered ? [] : shown.slice(0, 3);
+  const secondRow = filtered ? [] : shown.slice(3, 7);
+  const listRest = filtered ? [] : shown.slice(7);
 
   return (
     <>
-      {/* Compact masthead. A news page earns its space by leading with stories,
-          so the title takes a fraction of what a portfolio section heading does. */}
-      <section className="px-5 sm:px-8 md:px-10 pt-10 sm:pt-14">
-        <div className="max-w-6xl mx-auto">
+      <section className="px-4 sm:px-6 md:px-8 pt-9 sm:pt-12">
+        <div className="max-w-[1180px] mx-auto">
           <FadeIn
             as="h1"
             delay={0}
-            y={20}
+            y={18}
             className="font-black uppercase leading-none tracking-tight"
-            style={{ fontSize: 'clamp(2.25rem, 6vw, 4.5rem)' }}
+            style={{ fontSize: 'clamp(2rem, 5vw, 3.4rem)' }}
           >
             <GlowText text="Blog" charClassName="hero-heading" />
           </FadeIn>
 
           <FadeIn
             as="p"
-            delay={0.08}
-            y={16}
-            className="text-[#D7E2EA]/50 font-light leading-relaxed max-w-[560px] mt-3"
-            style={{ fontSize: 'clamp(0.88rem, 1.5vw, 1rem)' }}
+            delay={0.07}
+            y={14}
+            className="text-[#D7E2EA]/45 font-light leading-relaxed max-w-[560px] mt-2.5 text-[0.88rem]"
           >
             Notes on 3D and AI, and on the things that feed the work — games,
             manga, film and the shelves they end up on.
           </FadeIn>
 
           {filters.length > 1 ? (
-            <FadeIn
-              delay={0.14}
-              y={16}
-              className="flex flex-wrap gap-2 mt-7 sm:mt-8 pb-7 sm:pb-8 border-b border-[#D7E2EA]/12"
-            >
+            <FadeIn delay={0.12} y={14} className="flex flex-wrap gap-1.5 mt-6 sm:mt-7">
               {filters.map((c) => {
                 const on = active === c;
                 return (
@@ -205,10 +241,8 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
                     type="button"
                     onClick={() => setActive(c)}
                     aria-pressed={on}
-                    className={`rounded-[5px] px-3 py-1.5 font-medium uppercase tracking-widest text-[0.62rem] transition-colors duration-200 ${
-                      on
-                        ? 'text-white'
-                        : 'text-[#D7E2EA]/50 bg-[#D7E2EA]/[0.06] hover:bg-[#D7E2EA]/12'
+                    className={`rounded-[4px] px-3 py-1.5 font-medium uppercase tracking-[0.1em] text-[0.62rem] transition-colors duration-200 ${
+                      on ? 'text-white' : 'text-[#D7E2EA]/50 bg-[#D7E2EA]/[0.07] hover:bg-[#D7E2EA]/14'
                     }`}
                     style={on ? { backgroundColor: c === 'All' ? '#7621B0' : colorFor(c) } : undefined}
                   >
@@ -221,25 +255,50 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
         </div>
       </section>
 
-      <section className="px-5 sm:px-8 md:px-10 pt-8 sm:pt-10 pb-20 sm:pb-24">
-        <div className="max-w-6xl mx-auto">
+      <section className="px-4 sm:px-6 md:px-8 pt-6 sm:pt-8 pb-20 sm:pb-24">
+        <div className="max-w-[1180px] mx-auto">
           {shown.length === 0 ? (
             <p className="text-[#D7E2EA]/40 font-light">Nothing here yet.</p>
+          ) : filtered ? (
+            <div className="grid grid-cols-2 lg:grid-cols-4 gap-2.5 sm:gap-3">
+              {shown.map((post, i) => (
+                <FadeIn key={post.slug} delay={(i % 4) * 0.05} y={20}>
+                  <OverlayCard post={post} count={counts[post.slug] ?? 0} size="small" />
+                </FadeIn>
+              ))}
+            </div>
           ) : (
             <>
-              {lead ? (
-                <FadeIn delay={0} y={24} className="mb-6 sm:mb-8">
-                  <LeadStory post={lead} />
-                </FadeIn>
-              ) : null}
-
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5">
-                {rest.map((post, index) => (
-                  <FadeIn key={post.slug} delay={(index % 3) * 0.06} y={24}>
-                    <GridCard post={post} />
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-2.5 sm:gap-3">
+                {leadRow.map((post, i) => (
+                  <FadeIn key={post.slug} delay={i * 0.06} y={22}>
+                    <OverlayCard post={post} count={counts[post.slug] ?? 0} size="lead" />
                   </FadeIn>
                 ))}
               </div>
+
+              {secondRow.length ? (
+                <div className="grid grid-cols-2 lg:grid-cols-4 gap-2.5 sm:gap-3 mt-2.5 sm:mt-3">
+                  {secondRow.map((post, i) => (
+                    <FadeIn key={post.slug} delay={i * 0.05} y={22}>
+                      <OverlayCard post={post} count={counts[post.slug] ?? 0} size="small" />
+                    </FadeIn>
+                  ))}
+                </div>
+              ) : null}
+
+              {listRest.length ? (
+                <div className="mt-10 sm:mt-12 max-w-[760px]">
+                  <h2 className="text-[#D7E2EA]/40 font-medium uppercase tracking-[0.14em] text-[0.66rem] pb-3 border-b border-[#D7E2EA]/15">
+                    More from the blog
+                  </h2>
+                  {listRest.map((post, i) => (
+                    <FadeIn key={post.slug} delay={Math.min(i, 4) * 0.05} y={18}>
+                      <ListRow post={post} count={counts[post.slug] ?? 0} />
+                    </FadeIn>
+                  ))}
+                </div>
+              ) : null}
             </>
           )}
         </div>

@@ -2,6 +2,7 @@
 title: Meta just put a 30B model on a desktop GPU, and gave it away
 date: 2026-08-11
 category: Tech
+cover: /img/blog/covers/local-llm-30b.svg
 excerpt: Muse Glimmer runs offline on one consumer card, the weights are Apache 2.0, and nothing you type leaves your machine. That last part matters more than the benchmarks.
 ---
 

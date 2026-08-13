@@ -2,6 +2,7 @@
 title: August is a quiet month. Three games are worth your time anyway.
 date: 2026-08-06
 category: Games
+cover: /img/blog/games-august/beast-of-reincarnation.jpg
 excerpt: The autumn avalanche hasn't started yet, which makes this the one month you can actually finish something. Game Freak went weird, Metal Gear got a box set, and the goose people came back.
 ---
 
@@ -15,6 +16,11 @@ Three worth your attention.
 
 This is the interesting one. It is **Game Freak** — yes, the Pokémon studio — making
 something that looks nothing like Pokémon.
+
+<figure>
+  <img src="/img/blog/games-august/beast-02.jpg" loading="lazy" width="1440" height="810" alt="Emma and Koo in the overgrown ruins of post-apocalyptic Japan, from Beast of Reincarnation" />
+  <figcaption>Post-apocalyptic Japan, and not a Poké Ball in sight. Screenshot: Game Freak, via the official Steam page.</figcaption>
+</figure>
 
 A sci-fi fantasy action RPG set in a cursed post-apocalyptic Japan. You play Emma, a
 warrior, with a dog named Koo alongside you. Out on PC, PS5 and Xbox Series X.

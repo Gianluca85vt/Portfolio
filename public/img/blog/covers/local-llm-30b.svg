@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="A 30 billion parameter model running offline">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="60%" stop-color="#3A0A45"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7621B0"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg2)"/>
+
+  <!-- a small dense lattice: weights packed onto one card -->
+  <g fill="#FFFFFF" fill-opacity="0.07">
+    <g id="row">
+      <circle cx="120" cy="120" r="6"/><circle cx="220" cy="120" r="6"/><circle cx="320" cy="120" r="6"/>
+      <circle cx="420" cy="120" r="6"/><circle cx="520" cy="120" r="6"/><circle cx="620" cy="120" r="6"/>
+      <circle cx="720" cy="120" r="6"/><circle cx="820" cy="120" r="6"/><circle cx="920" cy="120" r="6"/>
+      <circle cx="1020" cy="120" r="6"/><circle cx="1120" cy="120" r="6"/>
+    </g>
+    <use href="#row" y="100"/><use href="#row" y="200"/><use href="#row" y="300"/>
+    <use href="#row" y="400"/><use href="#row" y="500"/><use href="#row" y="600"/>
+  </g>
+
+  <g text-anchor="middle">
+    <text x="600" y="180" font-size="34" letter-spacing="10" fill="#FFFFFF" fill-opacity="0.5"
+          font-family="Arial, Helvetica, sans-serif" font-weight="bold">MUSE GLIMMER</text>
+
+    <text x="600" y="410" font-size="230" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">30B</text>
+
+    <text x="600" y="480" font-size="34" letter-spacing="4" fill="#FFFFFF" fill-opacity="0.5"
+          font-family="Arial, Helvetica, sans-serif" font-weight="bold">ONE GPU · OFFLINE · APACHE 2.0</text>
+  </g>
+
+  <rect x="500" y="530" width="200" height="8" rx="4" fill="url(#accent2)"/>
+</svg>
