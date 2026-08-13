@@ -4,7 +4,6 @@ date: 2026-08-13
 category: 3D
 excerpt: Spline Architect's new update adds GPU instancing along splines at a scale that used to mean switching to Houdini. Here is why that number matters more than it sounds.
 cover: /img/blog/spline-architect/cover.svg
-draft: true
 ---
 
 Mike Danielsson's **Spline Architect**, a Unity Asset Store tool for shaping roads,
