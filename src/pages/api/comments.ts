@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
+import { notifyNewComment } from '../../lib/notify';
 
-// The only route on the site that runs as a function rather than a static file.
+// One of two routes on the site that run as functions rather than static files.
 export const prerender = false;
 
 const MAX_PER_WINDOW = 3;
@@ -90,14 +91,32 @@ export const POST: APIRoute = async ({ request, clientAddress }) => {
 
   // `approved` is deliberately not sent: the column defaults to false and
   // nothing here should be able to publish itself.
+  //
+  // The row comes back rather than being discarded, because the notification
+  // needs the generated id to build its approve and delete links.
   const insert = await fetch(rest, {
     method: 'POST',
-    headers: { ...headers, prefer: 'return=minimal' },
+    headers: { ...headers, prefer: 'return=representation' },
     body: JSON.stringify({ post_slug: postSlug, author_name: authorName, body, ip_hash: ipHash }),
   });
 
   if (!insert.ok) {
     return json({ error: 'Could not save the comment. Try again later.' }, 502);
+  }
+
+  // Everything past this point is best-effort. The comment is already saved, so
+  // a mail server that is down or misconfigured must not turn a successful
+  // submission into an error for the person who wrote it.
+  try {
+    const [row] = (await insert.json()) as Array<{ id: string }>;
+    if (row?.id) {
+      await notifyNewComment(
+        { id: row.id, postSlug, authorName, body },
+        new URL(request.url).origin
+      );
+    }
+  } catch (err) {
+    console.error('[comments] saved, but could not notify:', err);
   }
 
   return json({ ok: true, pending: true });
