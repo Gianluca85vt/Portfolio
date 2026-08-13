@@ -94,6 +94,35 @@ async function fixCover(slug, firstImage, keepCover) {
   return true;
 }
 
+/**
+ * Drops a second image into the body, after the first section heading.
+ *
+ * The writer never references these paths itself: it cannot know whether a
+ * download will succeed, and a hard-coded path to a file that never arrived is
+ * a broken image on a live page. Inserting here means a picture is only ever
+ * referenced once it exists on disk.
+ */
+async function insertBodyImage(slug, image, credit) {
+  const file = `src/content/blog/${slug}.md`;
+  if (!(await exists(file))) return false;
+
+  const text = await readFile(file, 'utf8');
+  if (text.includes('<figure')) return false; // it already illustrated itself
+
+  const heading = /^##\s+.+$/m.exec(text);
+  if (!heading) return false;
+
+  const at = heading.index + heading[0].length;
+  const figure =
+    `\n\n<figure>\n` +
+    `  <img src="${image}" loading="lazy" width="1440" height="810" alt="" />\n` +
+    `  <figcaption>${credit}</figcaption>\n` +
+    `</figure>`;
+
+  await writeFile(file, text.slice(0, at) + figure + text.slice(at), 'utf8');
+  return true;
+}
+
 if (!(await exists(REQUEST_DIR))) {
   console.log('No image requests.');
   process.exit(0);
@@ -163,8 +192,17 @@ for (const filename of requests) {
 
   if (written.length) {
     fetchedAny = true;
+    const credit = request.credit ?? 'Official press asset.';
     const changed = await fixCover(slug, written[0], request.keepCover === true);
-    console.log(`${slug}: ${written.length} image(s); cover ${changed ? 'updated' : 'left as-is'}`);
+
+    // Use a different shot in the body than on the cover, when there is one.
+    const bodyShot = written[1] ?? written[0];
+    const placed = await insertBodyImage(slug, bodyShot, credit);
+
+    console.log(
+      `${slug}: ${written.length} image(s); cover ${changed ? 'updated' : 'left as-is'}; ` +
+        `body image ${placed ? 'inserted' : 'not needed'}`
+    );
 
     // Leave a note the writer can read on its next run, listing what actually
     // arrived and under what credit, so it can place them in the body.
