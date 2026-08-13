@@ -139,6 +139,61 @@ body {
   height: auto;
 }
 
+.post-body figure {
+  margin: 2.4em 0;
+}
+
+.post-body figure img {
+  display: block;
+  width: 100%;
+}
+
+.post-body figcaption {
+  color: rgba(215, 226, 234, 0.45);
+  font-size: 0.8rem;
+  line-height: 1.5;
+  margin-top: 0.9em;
+}
+
+/* Markdown gives us a bare <table> with no wrapper to hang a scroller on, so
+   the table itself becomes the scroll container. Without this a score table is
+   wider than a phone and drags the whole page sideways. */
+.post-body table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.88rem;
+}
+
+.post-body table tbody,
+.post-body table thead {
+  min-width: 100%;
+}
+
+.post-body th,
+.post-body td {
+  text-align: left;
+  padding: 0.6em 0.9em 0.6em 0;
+  border-bottom: 1px solid rgba(215, 226, 234, 0.12);
+  vertical-align: top;
+}
+
+.post-body th {
+  color: rgba(215, 226, 234, 0.5);
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.66rem;
+  white-space: nowrap;
+}
+
+.post-body td:nth-child(2) {
+  color: #d7e2ea;
+  white-space: nowrap;
+}
+
 .post-body hr {
   border: 0;
   border-top: 1px solid rgba(215, 226, 234, 0.15);
