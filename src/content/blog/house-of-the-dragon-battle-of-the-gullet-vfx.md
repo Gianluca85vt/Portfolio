@@ -4,7 +4,6 @@ date: 2026-08-13
 category: Film & TV
 cover: /img/blog/house-of-the-dragon-gullet/cover.svg
 excerpt: Season 3 wrapped on 9 August, and the episode everyone is still talking about is a naval battle. I dug into how the VFX team actually built it, and the dragons were not the difficult bit — the water was.
-draft: true
 ---
 
 House of the Dragon's third season closed out its eight-episode run on **9
