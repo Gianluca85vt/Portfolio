@@ -4,7 +4,6 @@ date: 2026-08-13
 category: Tech
 excerpt: A throwaway draft used to prove the review email works end to end. Hit Reject and it deletes itself, which is the last part of the test.
 cover: /img/blog/covers/local-llm-30b.svg
-draft: true
 ---
 
 This is not an article. It exists to prove that the whole review chain works
