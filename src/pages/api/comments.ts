@@ -1,5 +1,6 @@
 import type { APIRoute } from 'astro';
 import { notifyNewComment } from '../../lib/notify';
+import { env, supabaseAdmin } from '../../lib/env';
 
 // One of two routes on the site that run as functions rather than static files.
 export const prerender = false;
@@ -29,11 +30,10 @@ async function hashIp(ip: string, salt: string) {
 }
 
 export const POST: APIRoute = async ({ request, clientAddress }) => {
-  const url = import.meta.env.PUBLIC_SUPABASE_URL;
-  const serviceKey = import.meta.env.SUPABASE_SERVICE_ROLE_KEY;
-  const salt = import.meta.env.COMMENT_IP_SALT ?? 'portfolio';
+  const db = supabaseAdmin();
+  const salt = env('COMMENT_IP_SALT') ?? 'portfolio';
 
-  if (!url || !serviceKey) {
+  if (!db) {
     return json({ error: 'Comments are not configured yet.' }, 503);
   }
 
@@ -63,18 +63,7 @@ export const POST: APIRoute = async ({ request, clientAddress }) => {
   }
 
   const ipHash = await hashIp(clientAddress ?? 'unknown', salt);
-  const rest = `${url}/rest/v1/comments`;
-
-  // Supabase issues two shapes of secret: the legacy service_role JWT and the
-  // newer sb_secret_... key. PostgREST wants a JWT in Authorization, so that
-  // header is only sent when the key actually is one. Either format works.
-  const headers: Record<string, string> = {
-    apikey: serviceKey,
-    'content-type': 'application/json',
-  };
-  if (serviceKey.startsWith('eyJ')) {
-    headers.authorization = `Bearer ${serviceKey}`;
-  }
+  const { rest, headers } = db;
 
   // Rate limit: a handful per window, per submitter.
   const since = new Date(Date.now() - WINDOW_MINUTES * 60_000).toISOString();

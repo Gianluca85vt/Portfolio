@@ -1,5 +1,6 @@
 import type { APIRoute } from 'astro';
 import { signModeration, safeEqual } from '../../lib/notify';
+import { supabaseAdmin } from '../../lib/env';
 
 export const prerender = false;
 
@@ -56,19 +57,6 @@ async function verify(id: string, action: string, token: string) {
   return safeEqual(expected, token);
 }
 
-function supabase() {
-  const url = import.meta.env.PUBLIC_SUPABASE_URL;
-  const serviceKey = import.meta.env.SUPABASE_SERVICE_ROLE_KEY;
-  if (!url || !serviceKey) return null;
-
-  const headers: Record<string, string> = {
-    apikey: serviceKey,
-    'content-type': 'application/json',
-  };
-  if (serviceKey.startsWith('eyJ')) headers.authorization = `Bearer ${serviceKey}`;
-  return { rest: `${url}/rest/v1/comments`, headers };
-}
-
 export const GET: APIRoute = async ({ url }) => {
   const id = url.searchParams.get('id') ?? '';
   const action = url.searchParams.get('action') ?? '';
@@ -97,7 +85,7 @@ export const POST: APIRoute = async ({ request }) => {
     return page('Link not valid', 'This moderation link is expired, altered or incomplete.');
   }
 
-  const db = supabase();
+  const db = supabaseAdmin();
   if (!db) return page('Not configured', 'The database credentials are missing on the server.');
 
   const target = `${db.rest}?id=eq.${encodeURIComponent(id)}`;

@@ -1,4 +1,5 @@
 import nodemailer from 'nodemailer';
+import { env } from './env';
 
 /**
  * Comment notifications, sent over your own SMTP.
@@ -16,11 +17,6 @@ type NewComment = {
   authorName: string;
   body: string;
 };
-
-function env(name: string) {
-  const v = import.meta.env[name];
-  return typeof v === 'string' && v.trim() !== '' ? v.trim() : undefined;
-}
 
 export function notificationsConfigured() {
   return Boolean(env('SMTP_HOST') && env('SMTP_USER') && env('SMTP_PASS') && env('NOTIFY_TO'));
