@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 810" width="1440" height="810" role="img" aria-label="Sketch of the Battle of the Gullet split into three storytelling theaters: aerial, sea and character">
+  <defs>
+    <linearGradient id="bgDiagram" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#140019"/>
+      <stop offset="100%" stop-color="#20102E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="810" fill="url(#bgDiagram)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#FFFFFF">
+    <text x="60" y="70" font-size="26" font-weight="bold" fill-opacity="0.85">BATTLE OF THE GULLET — three theaters, one sequence</text>
+    <text x="60" y="100" font-size="17" fill-opacity="0.5">a technical artist's read of the reported previz split, not official production art</text>
+  </g>
+
+  <!-- Theater 1: Aerial -->
+  <g>
+    <rect x="60" y="150" width="1320" height="180" rx="10" fill="#5B3FBF" fill-opacity="0.12" stroke="#5B3FBF" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="90" y="195" font-size="22" font-weight="bold" fill="#B79BFF">AERIAL — the dragon riders</text>
+    <text x="90" y="228" font-size="16" fill="#FFFFFF" fill-opacity="0.7">Jace, Baela and Rhaena in open airspace. Full CG dragons and riders, longest camera distances, most simulation-heavy.</text>
+    <g stroke="#B79BFF" stroke-opacity="0.6" stroke-width="3" fill="none">
+      <path d="M120 290 C 180 260, 230 260, 280 290" stroke-linecap="round"/>
+      <path d="M340 290 C 400 255, 460 255, 520 290" stroke-linecap="round"/>
+      <path d="M580 290 C 640 265, 690 265, 740 290" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- Theater 2: Sea -->
+  <g>
+    <rect x="60" y="350" width="1320" height="180" rx="10" fill="#B600A8" fill-opacity="0.10" stroke="#B600A8" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="90" y="395" font-size="22" font-weight="bold" fill="#F0A6E8">SEA — the fleets</text>
+    <text x="90" y="428" font-size="16" fill="#FFFFFF" fill-opacity="0.7">Corlys, Alyn and the Triarchy on the water. Ships built practically on set, extended and doubled digitally for the wide shots.</text>
+    <g stroke="#F0A6E8" stroke-opacity="0.6" stroke-width="3" fill="none">
+      <path d="M120 500H1360" stroke-dasharray="2 14" stroke-linecap="round"/>
+      <path d="M180 470 L210 440 L240 470 Z" fill="#F0A6E8" fill-opacity="0.3" stroke="none"/>
+      <path d="M480 470 L510 435 L540 470 Z" fill="#F0A6E8" fill-opacity="0.3" stroke="none"/>
+      <path d="M900 470 L930 440 L960 470 Z" fill="#F0A6E8" fill-opacity="0.3" stroke="none"/>
+    </g>
+  </g>
+
+  <!-- Theater 3: Character -->
+  <g>
+    <rect x="60" y="550" width="1320" height="180" rx="10" fill="#BE4C00" fill-opacity="0.12" stroke="#BE4C00" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="90" y="595" font-size="22" font-weight="bold" fill="#FFB27A">CHARACTER — where the losses land</text>
+    <text x="90" y="628" font-size="16" fill="#FFFFFF" fill-opacity="0.7">Close coverage on faces and reactions inside the spectacle, so the scale never buries who the battle is actually costing.</text>
+    <g stroke="#FFB27A" stroke-opacity="0.6" stroke-width="3" fill="none">
+      <circle cx="160" cy="690" r="20"/>
+      <circle cx="400" cy="690" r="20"/>
+      <circle cx="640" cy="690" r="20"/>
+    </g>
+  </g>
+
+  <text x="60" y="780" font-size="15" fill="#FFFFFF" fill-opacity="0.4">Structure as reported by the production; illustration is original, built for this piece.</text>
+</svg>
