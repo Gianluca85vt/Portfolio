@@ -4,7 +4,6 @@ date: 2026-08-14
 category: Film & TV
 excerpt: The Set Decorators Society of America gave Widow's Bay its top TV award this week. I went looking for how a fictional cursed island ended up looking more real than most real locations, and it's a masterclass in restraint.
 cover: /img/blog/widows-bay-set-decoration/shot-01.jpg
-draft: true
 ---
 
 Buried in this week's trade coverage, between a Netflix pickup and an Oscar
