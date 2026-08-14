@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="A 62-page Substrate breakdown of Half-Life 2's Headcrab">
+  <defs>
+    <linearGradient id="bgHc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#4A1300"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="accentHc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BE4C00"/>
+      <stop offset="100%" stop-color="#FFB07A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgHc)"/>
+
+  <!-- layered shading strata, the Substrate idea -->
+  <g stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="3" fill="none">
+    <path d="M-20 260 C 300 220, 900 300, 1220 250"/>
+    <path d="M-20 310 C 300 270, 900 350, 1220 300"/>
+    <path d="M-20 360 C 300 320, 900 400, 1220 350"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="140" font-size="30" letter-spacing="9" fill="#FFFFFF" fill-opacity="0.5">SUBSTRATE, LAYER BY LAYER</text>
+
+    <text x="600" y="290" font-size="150" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">62</text>
+    <text x="600" y="345" font-size="40" fill="#FFFFFF" fill-opacity="0.85"
+          letter-spacing="4">PAGE CASE STUDY</text>
+
+    <text x="600" y="430" font-size="44" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">HEADCRAB</text>
+    <text x="600" y="480" font-size="26" fill="#FFFFFF" fill-opacity="0.6">rebuilt in Unreal Engine 5</text>
+  </g>
+
+  <rect x="500" y="520" width="200" height="8" rx="4" fill="url(#accentHc)"/>
+</svg>
