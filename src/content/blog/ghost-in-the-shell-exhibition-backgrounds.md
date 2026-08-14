@@ -3,7 +3,7 @@ title: The Ghost in the Shell exhibition is really a background-painting masterc
 date: 2026-08-14
 category: Manga
 excerpt: A touring retrospective at the Hyogo Prefectural Museum of Art is billed as a Ghost in the Shell career survey. What it's actually showing off, if you look at what's on the walls, is thirty years of environment art solving problems real-time engines still haven't cracked.
-cover: /img/blog/ghost-in-the-shell-exhibition-backgrounds/cover.svg
+cover: /img/blog/ghost-in-the-shell-exhibition-backgrounds/shot-01.jpg
 draft: true
 ---
 
@@ -19,6 +19,11 @@ Then I remembered what "setting materials" means for this particular franchise, 
 why I'd actually get on a train for it.
 
 ## The part that isn't about the Major
+
+<figure>
+  <img src="/img/blog/ghost-in-the-shell-exhibition-backgrounds/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Hyogo Prefectural Museum of Art (Tadao Ando, architect), via Wikimedia Commons</figcaption>
+</figure>
 
 Ghost in the Shell's reputation rests on Motoko Kusanagi and the philosophy — ghosts,
 shells, what counts as a self when the body is swappable. Fair enough, that's the
