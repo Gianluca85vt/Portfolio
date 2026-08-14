@@ -3,7 +3,7 @@ title: Someone finally cracked procedural feathers in Blender, and it uses your 
 date: 2026-08-14
 category: 3D
 excerpt: A free Geometry Nodes tool by 3D artist Sherzod Kadirov turns ordinary hair groom curves into fully controllable feathers. No plugin, no custom particle hack.
-cover: /img/blog/procedural-feathers-blender-geometry-nodes/cover.svg
+cover: /img/blog/procedural-feathers-blender-geometry-nodes/shot-01.jpg
 draft: true
 ---
 
@@ -13,6 +13,11 @@ does not read like roof shingles. So when I saw **Sherzod Kadirov**'s new free t
 the rounds this week, I stopped what I was doing to look properly.
 
 ## What it actually does
+
+<figure>
+  <img src="/img/blog/procedural-feathers-blender-geometry-nodes/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Backlit swan feather macro photograph, via Wikimedia Commons</figcaption>
+</figure>
 
 The pitch is simple and, if you have ever groomed hair in Blender, immediately clicks: it
 takes the **hair curves you already groomed** — the same particle/curve system you would use
