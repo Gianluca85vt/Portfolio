@@ -4,7 +4,6 @@ date: 2026-08-14
 category: Games
 excerpt: A Bluesky post, a scorched-earth CEO quote, and a denial — that's the fight everyone's covering. The detail worth reading twice is buried in the denial, an "infinite passengers" mode that's really just procedural generation wearing a different hat.
 cover: /img/blog/saber-rideshare-ai-writer-controversy/shot-01.jpg
-draft: true
 ---
 
 I wasn't going to write about this one, because on the surface it's a Twitter — sorry,
