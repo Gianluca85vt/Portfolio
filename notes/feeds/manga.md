@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-14T09:44:33.925Z
+# Manga — harvested 2026-08-14T10:43:45.370Z
 
 ## Anime News Network
+
+### Link! Like! Love Live! Game Developer Odd Number Files for Bankruptcy
+Fri, 14 Aug 2026 05:07:21 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/link-like-love-live-game-developer-odd-number-files-for-bankruptcy/.240564
+
+Operating costs for game led to company being 10.32 billion yen in debt
 
 ### Live-Action Happy Kanako's Killer Life Season 2 Reveals September 17 Debut
 Fri, 14 Aug 2026 04:34:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/live-action-happy-kanako-killer-life-season-2-reveals-september-17-debut/.240567
@@ -56,11 +61,6 @@ Not since Naruto and Sasuke have I seen a more obvious rivals-to-lovers pairing 
 Thu, 13 Aug 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/duel-masters-gt-manga-3rd-part-launches/.240533
 
 5th part of <cite>Duel Masters LOST</cite> manga also reveals "Shitsuraku no Duel" title
-
-### This Week in Anime - Are These Yuri Anime Poisonous?
-Thu, 13 Aug 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-08-13/.240508
-
-Christopher and Sylvia go on a yuri deep dive to uncover that dangerous age that can make yuri romance so appealing. Starting with the toxic queens in <cite>Dear Brother</cite> to the new era in <cite>I Want To Love You Till Your Dying Day</cite>
 
 ## Crunchyroll News
 

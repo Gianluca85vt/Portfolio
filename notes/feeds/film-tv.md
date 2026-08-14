@@ -1,6 +1,11 @@
-# Film & TV — harvested 2026-08-14T09:44:33.925Z
+# Film & TV — harvested 2026-08-14T10:43:45.370Z
 
 ## Variety
+
+### The Devil Wears Prada 2 Is Drawing Tourists to Milan Prompting an 18% Increase in Visitors to the Film’s Locations in Italy’s Fashion Capital
+Fri, 14 Aug 2026 10:00:00 +0000 — https://variety.com/2026/film/global/the-devil-wears-prada-2-tourists-milan-italy-fashion-1236833591/
+
+“The Devil Wears Prada 2” is making a heavenly impact on Milan. Just a few months after the theatrical release in May of the long-awaited sequel to “The Devil Wears Prada” – that was partly shot in Italy’s fashion capital that serves as a glitzy backdrop for the film’s third act – pedestrian traffic from [ ]
 
 ### Nigel Farage Documentary Where Does the Money Come From? Set at U.K. Broadcaster 5 as Parliamentary Standards Watchdog Reopens Finance Probe
 Fri, 14 Aug 2026 09:21:47 +0000 — https://variety.com/2026/tv/news/nigel-farage-documentary-5-standards-probe-1236834471/
@@ -44,11 +49,6 @@ Phoebe Bridgers tends to stand out in a crowd, and not just because of her celeb
 
 ### Oscar Predictions: Supporting Actress — Is This the Year of Penélope Cruz?
 Fri, 14 Aug 2026 01:00:00 +0000 — https://variety.com/feature/2027-oscars-best-supporting-actress-predictions-1236834272/
-
-Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
-
-### Oscar Predictions: Supporting Actor — How Many Men Can be Nominated From The Odyssey ?
-Fri, 14 Aug 2026 00:30:00 +0000 — https://variety.com/feature/2027-oscars-best-supporting-actor-predictions-1236834271/
 
 Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
 
@@ -106,6 +106,11 @@ StubHub, the industry's largest ticket resale platform, spent $3.4 million this 
 
 ## Deadline
 
+### Jesse Eisenberg s The Debut Fred Cavayé s Les Misérables Among Six New Titles In San Sebastián Official Selection
+Fri, 14 Aug 2026 10:12:19 +0000 — https://deadline.com/2026/08/jesse-eisenberg-les-miserables-in-san-sebastian-selection-1237033612/
+
+New films by Jesse Eisenberg, Fred Cavayé, Amanda Kernell and Gabriel Martins, together with the feature film debuts from Ah Biao and Tony Vahl, will compete in the Official Selection of the San Sebastián Film Festival. Les Misérables,The Debut, Garrat du váimmu (Brace Your Heart), Vicentina pede desculpas (On Behalf of My Son), Bian Jing [ ]
+
 ### Black Mirror Director Ally Pankiw Roasts Harry Potter TV Series, Claiming She Turned Down Gig: Say No To Funding Transphobia
 Fri, 14 Aug 2026 09:02:21 +0000 — https://deadline.com/2026/08/ally-pankiw-claim-harry-potter-tv-series-transphobia-1237033605/
 
@@ -160,9 +165,4 @@ The DGA and IATSE may want to play footsie with Paramount over the state attorne
 Thu, 13 Aug 2026 22:41:17 +0000 — https://deadline.com/2026/08/john-cena-made-peace-coyote-vs-acme-never-coming-out-1237033383/
 
 As Coyote vs. Acme finally gets its day in court, John Cena has a pretty levelheaded reaction to the once-shelved movie premiering in theaters. The Emmy nominee explained how he can accept both the positive and the negative of the situation after Ketchup Entertainment saved the Dave Green-helmed Looney Tunes movie, which premieres Aug. 28 [ ]
-
-### Parties Lay Out Key Discovery And Other Dates For Pending Paramount-WBD Antitrust Trial
-Thu, 13 Aug 2026 22:33:25 +0000 — https://deadline.com/2026/08/paramount-warner-bros-trial-schedule-1237033223/
-
-This week has been dominated by headlines about Paramount s threat to leave California, by unions and other officials urging a settlement and by Capitol Hill Democrats warning of investigations. But on Thursday, attorneys completed the rather routine step of proposing key dates and deadlines in advance of an antitrust trial over the proposed merger of [ ]
 

@@ -1,6 +1,21 @@
-# Games — harvested 2026-08-14T09:44:33.925Z
+# Games — harvested 2026-08-14T10:43:45.370Z
 
 ## Eurogamer
+
+### Netflix's gaming "secret weapon" is no more - Oxenfree studio Night School is to close
+Fri, 14 Aug 2026 10:40:50 +0000 — https://www.eurogamer.net/netflix-games-oxenfree-unhinged-studio-night-school-closed
+
+The hope that Netflix might produce something more than snackable sports or party games has vanished with today's revelation that Oxenfree studio Night School is to close. Read more
+
+### Halo: Campaign Evolved studio outlines five key updates that'll drop with next week's big patch
+Fri, 14 Aug 2026 10:35:29 +0000 — https://www.eurogamer.net/halo-campaign-evolved-patch-jackal-johnson
+
+There's a new update coming to Halo: Campaign Evolved next week. The patch, which is targeting some of the biggest issues players have had with the game since its launch a few weeks ago, will arrive sometime between 17th August and 21st August (no fixed date has been announced yet). Read more
+
+### Fields of Mistria review
+Fri, 14 Aug 2026 10:31:22 +0000 — https://www.eurogamer.net/fields-of-mistria-review
+
+It's 1:50am, and a purple cat throws several logs of wood at my head as I run to bed, exhausted from a long day battling sentient lanterns in the mines. At 6am the grind begins again, but not before a morning chat with the amnesiac dragon statue who lives down the garden path. It's a hard life for adventurers in Fields of Mistria. It's even harder as an adventurer-turned-farmer, because alongside fighting monsters underground and learning the secrets of dragon magic, the local feudal lady has put in a request for relief crops. As your new homestead was granted in exchange for your help, it's time to hang up the greaves and get growing. Read more
 
 ### Marvel Tōkon: Fighting Souls looks to have sold almost half a million copies in a week
 Fri, 14 Aug 2026 09:07:36 +0000 — https://www.eurogamer.net/marvel-tokon-fighting-souls-half-a-million-sales-one-week
@@ -47,22 +62,12 @@ Thu, 13 Aug 2026 10:42:35 +0000 — https://www.eurogamer.net/saber-ceo-sacco-ch
 
 A public spat between Saber Interactive - creator of Warhammer 40,000: Space Marine 2 , the upcoming Suntman: Hollywood game and many others - and a former employee who claims she was "replaced" by ChatGPT has erupted over the past few days, and in the wake of new statements from either side has continued to intensify. Read more
 
-### "The most offensive thing we see every time we boot up the game" Halo co-creator takes shots at Campaign Evolved art direction
-Thu, 13 Aug 2026 09:06:21 +0000 — https://www.eurogamer.net/halo-campaign-evolved-marcus-lehto-art-style-criticism
-
-It's been an interesting launch period for Halo: Campaign Evolved. Despite reviewing well , the game has failed to sell particularly well on PS5 , where the low-effort Black Ops 1 and 2 ports seemingly outsold the Microsoft title 16-to-1. After the game shipped, multiple contract positions were terminated , and players have been taking umbrage with some of the mechanical and artistic changes to the game. Read more
-
-### Twitch is training AI on livestreams, says it's an opt out feature as "nobody would opt in"
-Thu, 13 Aug 2026 09:04:03 +0000 — https://www.eurogamer.net/twitch-tv-generative-ai-training-opt-out-nobody-would-opt-in
-
-Twitch - the popular gaming and IRL streaming platform - has announced it'll start training generative AI models on those livestreaming on the platform. Read more
-
-### Stop Killing Games backs Dutch consumer rights lawsuit against Sony's PlayStation digital store "monopoly"
-Thu, 13 Aug 2026 08:21:53 +0000 — https://www.eurogamer.net/stop-killing-games-consumer-rights-lawsuit-netherlands-sony-playstation-monopoly
-
-Stop Killing Games, the grassroots initiative fighting to prevent game publishers from shutting down servers without offering an alternative, has joined a lawsuit filed in the Netherlands against Sony for its alleged monopoly of selling digital games on the PlayStation Store (via GamesRadar ). Read more
-
 ## GamesIndustry.biz
+
+### Arc Raiders generates $114.9m during Nexon's Q2, sells an additional 800,000 units
+Fri, 14 Aug 2026 10:28:03 +0000 — https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-units
+
+Nexon's Q2 results exceeded expectations, driven by strong performances from its MapleStory franchise and the ongoing success of Embark Studios' Arc Raiders. Read more
 
 ### "I don't see why people are scared of it" – ShipShaper developer Tomas Sala on why indies shouldn't be stressing about GTA6
 Fri, 14 Aug 2026 08:58:19 +0000 — https://www.gamesindustry.biz/i-dont-see-why-people-are-scared-of-it-why-shipshaper-developer-tomas-sala-doesnt-think-indies-should-be-stressing-about-gta6
@@ -118,11 +123,6 @@ The story of Planet of Lana is the story of triumph over adversity. But it's als
 Wed, 12 Aug 2026 10:46:01 +0000 — https://www.gamesindustry.biz/bafta-games-awards-updates-voting-requirements-and-entry-fees-as-it-opens-entries-for-2027-ceremony
 
 Entries for the 2027 BAFTA Games Awards are now open, alongside updates to its entry requirements, fee structure, and AI policy. Read more
-
-### Pearl Abyss Q2 earnings decline as impact of Crimson Desert's launch period subsides
-Wed, 12 Aug 2026 09:51:42 +0000 — https://www.gamesindustry.biz/pearl-abyss-q2-earnings-decline-as-impact-of-crimson-deserts-launch-period-subsides
-
-Pearl Abyss reported a weaker second quarter as the initial impact of Crimson Desert's March launch tapered off. Read more
 
 ## VG247
 
