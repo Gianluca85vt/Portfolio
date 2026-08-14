@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-14T20:17:06.151Z
+# Tech — harvested 2026-08-14T21:03:35.274Z
 
 ## Ars Technica
 
@@ -178,6 +178,11 @@ Modern smartphones pack enough computing power to rival budget PCs. However, one
 
 ## Phoronix
 
+### D7VK 2.1 Brings Faster Load Times, More Performance Tweaks
+Fri, 14 Aug 2026 16:26:46 -0400 — https://www.phoronix.com/news/D7VK-2.1
+
+D7VK as the open-source implementation of the Direct3D 7 / 6 / 5/ 3 APIs atop the Vulkan API for Linux/Wine usage is out with another feature update. D7VK continues to mature quite well for further enhancing these older Direct3D API versions that cover the span prior to DXVK's focus of Direct3D 8 to Direct3D 11 or VKD3D-Proton's Direct3D 12...
+
 ### Lemonade 11.6 Integrates Muse-Glimmer 30B, Experimental TheNoise ROCm Image Generation
 Fri, 14 Aug 2026 16:00:22 -0400 — https://www.phoronix.com/news/Lemonade-SDK-11.6
 
@@ -232,9 +237,4 @@ With the Linux 7.2 kernel expected to be released on Sunday, 16 August, here is 
 Thu, 13 Aug 2026 15:08:39 -0400 — https://www.phoronix.com/news/New-Dasharo-2026-MSI-Intel-Z
 
 In addition to 3mdeb providing their Coreboot-based Dasharo built atop AMD openSIL on a Gigabyte EPYC server motherboard and recently making their first Dasharo release for an AMD Ryzen AM5 platform with the MSI PRO B850-P WIFI, the firmware consulting firm today released updated versions of their MSI PRO Z690-A and MSI PRO Z790-P Dasharo ports to those Intel Core motherboards...
-
-### The Beneficial Performance Gains Running The Framework Laptop Pro 13 / Core Ultra X9 388H With Linux 7.1+
-Thu, 13 Aug 2026 10:00:00 -0400 — https://www.phoronix.com/review/framework-13-pro-linux-71-72
-
-The recently launched Framework Laptop 13 Pro powered by Intel Core Ultra Series 3 "Panther Lake" runs well on Ubuntu 26.04 LTS and other modern Linux distributions. In the case of Ubuntu 26.04 with Linux 7.0, while everything works, if upgrading to Linux 7.1 or the upcoming Linux 7.2 kernel is even better performance. Here are benchmarks of the Framework Laptop 13 Pro with Core Ultra X9 388H across the Linux 7.0, 7.1, and 7.2 kernels.
 

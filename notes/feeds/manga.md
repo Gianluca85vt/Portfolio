@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-14T20:17:06.151Z
+# Manga — harvested 2026-08-14T21:03:35.274Z
 
 ## Anime News Network
+
+### Clevatess Season 2 ‒ Episode 6
+Fri, 14 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/clevatess-season-2/episode-6/.240319
+
+<i>Clevatess'</i> mix of raw <i>Heavy Metal</i> style and genuinely compelling worldbuilding has yet to get old. I'm not sure it ever will.
 
 ### Exclusive: Nakama Press to Release Ace of the Diamond Baseball Manga in Omnibus Volumes
 Fri, 14 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/exclusive-nakama-press-to-release-ace-of-the-diamond-baseball-manga-in-omnibus-volumes/.240587
@@ -56,11 +61,6 @@ Webtoon bridges 2 seasons, depicting events from 9-year period that led Baek tow
 Fri, 14 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-08-14/see-ghost-in-the-shell-reach-across-decades-at-official-exhibition/.236857
 
 Want to experience Ghost in the Shell: The Exhibition yourself? The exhibition is currently at the Hyogo Prefectural Museum of Art until August 30.
-
-### Pokémon Pokopia Game Crosses 5 Million Units Sold Worldwide
-Fri, 14 Aug 2026 08:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/pokemon-pokopia-game-crosses-5-million-units-sold-worldwide/.240580
-
-Part 1 of Expansion Pass DLC added underwater Bubbly Basin town on August 5 along with free update featuring new Pokémon
 
 ## Crunchyroll News
 

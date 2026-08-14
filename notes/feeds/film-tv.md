@@ -1,6 +1,41 @@
-# Film & TV — harvested 2026-08-14T20:17:06.151Z
+# Film & TV — harvested 2026-08-14T21:03:35.274Z
 
 ## Variety
+
+### Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold
+Fri, 14 Aug 2026 20:53:25 +0000 — https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-27-million-stock-1236834226/
+
+David Zaslav, president and CEO of Warner Bros. Discovery, has now sold roughly $200 million worth of stock since the media company clinched a deal to be acquired by David Ellison s Paramount Skydance earlier this year. Zaslav s latest sales were of 194,999 shares of WBD worth $5,464,567.73 on Aug. 14 and 773,173 shares with a [ ]
+
+### The Radio Doesn t Play Songs for Me Anymore : Tailgaters at the Foo Fighters’ Stadium Tour Mourn the Dimming Light of Rock Music
+Fri, 14 Aug 2026 20:51:42 +0000 — https://variety.com/2026/music/features/foo-fighters-tailgating-fans-debate-rock-music-concert-1236834649/
+
+“The radio doesn t play songs for me anymore,” says Bob, 54, who is situated in a lawn chair, deciding between a drag from the Marlboro Red in his left hand and the Budweiser can in his right. He chooses the Bud first, a sensible move given the sun bouncing off the concrete of the endless [ ]
+
+### Grammys May Reconsider New Asian Pop Award After BTS Withdrawal: ‘Some Artists Feel This Category Isn’t Representing the Music They Create’
+Fri, 14 Aug 2026 20:31:20 +0000 — https://variety.com/2026/global/news/grammys-may-reconsider-asian-pop-award-bts-withdrawal-1236834891/
+
+Just two months after the Grammy Awards announced a new category for Asian pop — and just weeks after BTS announced they would not submit their music for the 2027 awards, in part because of what they feel are the limitations of this awards — the Recording Academy has signaled that it is at least rethinking the [ ]
+
+### Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States Lawsuit as the Only Barrier Left
+Fri, 14 Aug 2026 20:30:12 +0000 — https://variety.com/2026/film/news/paramount-warner-bros-mexicos-settle-ellison-1236834861/
+
+Paramount announced Friday that it has won approval from Mexico s competition authority for its merger with Warner Bros., leaving only 12 state attorneys general standing in the way of closing the deal. In a statement, Paramount said it has now won approval from regulators representing 68 countries, including the European Union, China, Canada, Brazil and [ ]
+
+### Disney Dreamlight Valley Reveals Details on Next Expansion, Including Oogie Boogie, Lilo, Hannah Montana and More
+Fri, 14 Aug 2026 20:30:00 +0000 — https://variety.com/2026/gaming/news/disney-dreamlight-valley-oogie-boogie-hannah-montana-1236833796/
+
+Oogie Boogie, Lilo from Lilo Stitch , Hannah Montana and Lizzie Maguire are all headed to Disney Dreamlight Valley. The Hannah Montana and Lizzie McGuire collection arrives in the cozy life-sim game Aug. 19. A brand-new Premium Shop collection inspired by Hannah Montana and Lizzie McGuire launches next week, giving players the chance style their [ ]
+
+### Frankie Valli Denies News Reports He Has Retired, Disavowing Brother s Statement
+Fri, 14 Aug 2026 20:28:37 +0000 — https://variety.com/2026/music/news/frankie-valli-denies-retired-brother-claim-statement-1236834736/
+
+Frankie Valli is telling the world that he has not retired, contrary to reports over the last few days from multiple news outlet that took at face value a statement posted by his younger brother that his time in show business was indeed at a close. He is not retired. This is false, his longtime [ ]
+
+### Director Paul Wright Pushes George MacKay to the Edge in ‘Mission’: ‘How Do You Feel Something When You’ve Been Numbed to the Modern World?’
+Fri, 14 Aug 2026 20:17:28 +0000 — https://variety.com/2026/film/global/paul-wright-george-mackay-mission-1236834494/
+
+For Scottish director Paul Wright, “Mission” began with a feeling. “For the first time with a film I’ve made, it was kind of tapping into a feeling,” he tells Variety. “More so than plot or story, it was just that feeling that some of us get sometimes of feeling maybe disconnected from the world and [ ]
 
 ### Black Women Earned Record Emmy Directing Noms as Asian Auteurs Made Gains. Will Wins Follow?
 Fri, 14 Aug 2026 20:15:00 +0000 — https://variety.com/2026/tv/awards/black-women-asian-directors-emmy-nominations-2026-1236834758/
@@ -17,42 +52,12 @@ Fri, 14 Aug 2026 19:35:45 +0000 — https://variety.com/2026/tv/news/deli-boys-c
 
 The comedy series Deli Boys has been canceled at Hulu after two seasons, Variety has confirmed. The series, which aired under Hulu s Onyx Collective brand, starred Asif Ali, Saagar Shaikh, and Poorna Jagannathan. Fred Armisen joined the show in its second season along with Andrew Rannells, with Brian George once again appearing as Ahmad and [ ]
 
-### After the YA Drama Sterling Point Topped the Prime Video Charts, What s Next for LuckyChap TV?
-Fri, 14 Aug 2026 19:28:32 +0000 — https://variety.com/2026/tv/features/luckychap-tv-sterling-point-life-is-strange-sex-criminals-1236834040/
-
-If the YA drama “Sterling Point” has become your new hyper-fixation show, you’re not alone.Amazon reports that the coming-of-age series, from creator Megan Park, was the most-watched show on Prime Video worldwide since its Aug. 5 debut. “Sterling Point” centers on 17-year-old Annie Jacobson (Ella Rubin, best known for “The Idea of You”), who was [ ]
-
-### Locarno Takeaways: A Charming Olivia Wilde, Navigating an Industry Crunch and One Reason Why There Should Be More Women Filmmakers
-Fri, 14 Aug 2026 19:24:36 +0000 — https://variety.com/2026/film/global/locarno-takeaways-olivia-wilde-zoe-saldana-james-gray-1236834754/
-
-Unspooling over Aug. 5-15, this year’s Locarno Film Festival broke records for industry attendance and its temperatures, Switzerland enduring its hottest summer since records began in 1864. Led by an ebullient Olivia Wilde, charged by the breakout success of “The Invite,” Locarno Pro delivered a telling take on the world’s arthouse crunch with the sector [ ]
-
-### Squishmallows Movie in the Works at Amazon MGM (EXCLUSIVE)
-Fri, 14 Aug 2026 19:22:28 +0000 — https://variety.com/2026/film/news/squishmallows-movie-amazon-mgm-beau-flynn-1236834782/
-
-Your moviegoing experience is about to get a lot plusher. Squishmallows, the popular collectible toys known for softness and irreverent personalities, will come to life in a new feature film. Variety can report that Amazon MGM is developing a tentpole family film around the brand, licensing rights and co-producing with creator Jazwares. The studio is [ ]
-
-### Stuart Fails to Save the Universe Renewed for Season 2 at HBO Max
-Fri, 14 Aug 2026 19:03:30 +0000 — https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-renewed-season-2-hbo-max-1236834794/
-
-The Big Bang Theory spinoff Stuart Fails to Save the Universe has been renewed for Season 2 at HBO Max. The news comes after the series has aired just four episodes of its 10-episode first season. The series originally premiered at the streamer on July 23. “We’re delighted with how this hilarious, genre-bending show from [ ]
-
-### ‘Pretty Babies’ Director Tyler-Marie Evans on Sex Work, Female Friendship and Finding Humanity Beyond Stereotypes
-Fri, 14 Aug 2026 18:43:05 +0000 — https://variety.com/2026/film/global/pretty-babies-director-tyler-marie-evans-1236833628/
-
-We all have souls. That sentiment sits at the heart of Pretty Babies, Tyler-Marie Evans feature debut, which world premieres Friday in competition at the Edinburgh Intl. Film Festival. The project attracted Jordan Wagner from Wagner Entertainment and also independent film icon Christine Vachon s Killer Films, who alongside star Ashley Benson took on producer roles. [ ]
-
-### DIRECTV Drops Price of Sports Genre Pack to Under $50 for First Month Just in Time for Fall Football Season
-Fri, 14 Aug 2026 18:34:40 +0000 — https://variety.com/2026/shopping/news/directv-mysports-genre-pack-deal-pricing-channel-details-1236834741/
-
-Sports fans won’t have to rely on cable anymore to catch the big games and tournaments this fall, as streaming service DIRECTV launches a new promo for cord cutters looking to take in the action. DIRECTV has dropped the price of its MySports Genre Pack down to $49.99 for your first month of service (regularly [ ]
-
-### Kate O’Flynn on Her ‘Widow’s Bay’ Breakout, Mike Leigh’s Final Film and Her Emmy Nomination: ‘I Felt Like an Ostrich’
-Fri, 14 Aug 2026 18:25:22 +0000 — https://variety.com/2026/tv/awards/kate-oflynn-widows-bay-emmys-mike-leigh-1236828796/
-
-Kate O’Flynn found out she was an Emmy nominee and immediately went underground. “I felt like an ostrich,” she tells Variety over Zoom. “I got the news, and I was immediately overwhelmed and put my head in the sand, and then quaffed champagne. It was nuts in the best possible way.” The realization didn t land [ ]
-
 ## The Hollywood Reporter
+
+### Deli Boys Canceled After Two Seasons on Hulu
+Fri, 14 Aug 2026 20:28:24 +0000 — https://www.hollywoodreporter.com/tv/tv-news/deli-boys-canceled-hulu-2-seasons-1236673950/
+
+The series produced by Onyx Collective debuted its second season in late May.
 
 ### Paramount Says It Has Secured All Global Clearances to Close WBD Deal Except for That Pesky Lawsuit
 Fri, 14 Aug 2026 20:09:53 +0000 — https://www.hollywoodreporter.com/business/business-news/paramount-secures-global-clearances-wbd-deal-except-lawsuit-1236673941/
@@ -98,11 +103,6 @@ The actor’s exit marks a notable defection at Verve after the literary agency 
 Fri, 14 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/your-friends-neighbors-showrunner-jon-hamm-emmy-snub-1236670573/
 
 Jonathan Tropper also shares his thoughts on why season two received nominations while season one did not.
-
-### Mark Rydell, Oscar-Nominated Director of On Golden Pond, Dies at 97
-Fri, 14 Aug 2026 18:29:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mark-rydell-dead-golden-pond-cinderella-liberty-the-rose-1236673846/
-
-The onetime soap star on 'As the World Turns' also helmed 'Cinderella Liberty,' 'The Rose' and John Wayne's 'The Cowboys.'
 
 ## Deadline
 
