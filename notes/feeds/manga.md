@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-14T17:40:09.937Z
+# Manga — harvested 2026-08-14T18:34:44.181Z
 
 ## Anime News Network
+
+### Smoking Behind the Supermarket with You ‒ Episode 6
+Fri, 14 Aug 2026 13:35:54 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-6/.240586
+
+This episode goes even further, exploring the anxieties these people face at different stages of their lives and how the other helps them overcome those hardships.
 
 ### Sweet Hamster Days Game Review
 Fri, 14 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc/sweet-hamster-days/.240288
@@ -56,11 +61,6 @@ Kenshō Ono, Sumire Uesaka join cast
 Fri, 14 Aug 2026 07:14:51 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/yowaki-max-reijo-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta-anime-casts-shizuka-/.240578
 
 Ishigami voices Rufus Stan as a child; new voice drama streamed
-
-### My Sword Saint Master Is Too Cute to Live With! TV Anime Confirmed, Reveals Visual
-Fri, 14 Aug 2026 07:08:27 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/my-sword-saint-master-is-too-cute-to-live-with-tv-anime-confirmed-reveals-visual/.240579
-
-Deregula to produce anime
 
 ## Crunchyroll News
 

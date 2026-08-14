@@ -1,6 +1,36 @@
-# Film & TV — harvested 2026-08-14T17:40:09.937Z
+# Film & TV — harvested 2026-08-14T18:34:44.181Z
 
 ## Variety
+
+### Kate O’Flynn on Her ‘Widow’s Bay’ Breakout, Mike Leigh’s Final Film and Her Emmy Nomination: ‘I Felt Like an Ostrich’
+Fri, 14 Aug 2026 18:25:22 +0000 — https://variety.com/2026/tv/awards/kate-oflynn-widows-bay-emmys-mike-leigh-1236828796/
+
+Kate O’Flynn found out she was an Emmy nominee and immediately went underground. “I felt like an ostrich,” she tells Variety over Zoom. “I got the news, and I was immediately overwhelmed and put my head in the sand, and then quaffed champagne. It was nuts in the best possible way.” The realization didn t land [ ]
+
+### California Bill to Subsidize Post-Production Advances as Commercials Bill Dies
+Fri, 14 Aug 2026 18:23:47 +0000 — https://variety.com/2026/film/news/california-bill-post-production-commercials-1236834698/
+
+A bill to subsidize post-production in California cleared a hurdle in the state Senate on Thursday, while a separate measure to fund commercial production died. The post-production bill, AB 2319, would create a new 35%-50% refundable tax credit for film and TV editing and VFX work. The Motion Picture Editors Guild and the California Post [ ]
+
+### ‘Widow’s Bay’ Cinematographer Christian Sprenger on How Jaws and The Shining Influenced the Show s Visual Style
+Fri, 14 Aug 2026 18:15:00 +0000 — https://variety.com/2026/artisans/awards/widows-bay-jaws-the-shining-flashback-episode-1236834593/
+
+“Widow’s Bay” showrunner Katie Dippold knows how to toe the line between comedy and horror — her credits include “Haunted Mansion” and “Ghostbusters.” With her latest project, she proves this skill once again. In the series, Mayor Tom Loftis (Matthew Rhys) is desperate to revive his struggling community. There’s no Wi-Fi, cell reception is spotty [ ]
+
+### New ‘Project Hail Mary’ Lego Set Recreates Film’s Spaceship in 830-Piece Collectible (Alongside a Minifigure Ryland Grace)
+Fri, 14 Aug 2026 18:12:16 +0000 — https://variety.com/2026/shopping/news/project-hail-mary-lego-set-spaceship-buy-online-1236834728/
+
+Ryan Gosling s interstellar ride is getting a brick-by-brick makeover. Lego has released a new Project Hail Mary collectible building set, turning the Hail Mary spacecraft from the sci-fi blockbuster into an 830-piece display model. The Lego Icons set is available now for $99.99 and is designed for builders ages 18 and up. Based on the [ ]
+
+### Mark Rydell, On Golden Pond and The Rose Director, Dies at 97
+Fri, 14 Aug 2026 18:04:36 +0000 — https://variety.com/2026/film/news/mark-rydell-dead-golden-pond-1236834732/
+
+Mark Rydell, who received a best director nomination for the Oscar-winning “On Golden Pond and directed Bette Midler in The Rose and For the Boys, died Friday. He was 97. Midler posted about his death on her Instagram, writing, Mark Rydell, the director or my first film, The Rose, died this morning. He was an [ ]
+
+### Ken Burns on ‘Waking the Dead,’ Cutting Trump-Era Echoes and Why His Obama Film Can Wait
+Fri, 14 Aug 2026 18:00:19 +0000 — https://variety.com/2026/film/global/ken-burns-the-american-revolution-2-1236834641/
+
+“You wake the dead.” Ken Burns offered that succinct description of his filmmaking at the Edinburgh Intl. Film Festival on Friday, where the veteran documentarian dug into the craft behind bringing history to life and made a claim for the ensemble assembled for his latest epic, “The American Revolution.” “I think this film is the [ ]
 
 ### Practical Magic 2 Inspires Wave of Witchy Merch, Including Gemstone Jewelry, Retro Tees and Midnight Margaritas Club Aprons
 Fri, 14 Aug 2026 17:32:59 +0000 — https://variety.com/2026/shopping/news/practical-magic-first-merchandise-collection-sequel-1236828020/
@@ -22,37 +52,42 @@ Fri, 14 Aug 2026 17:06:18 +0000 — https://variety.com/2026/music/news/ayra-sta
 
 Nigerian Afrobeats superstar Ayra Starr is getting her hair blow-dried when she casually mentions that she has a plane to catch in an hour. It is less than 48 hours before release day, and our conversation has already been moved around to accommodate her recovery from surgery (the specific reason for which she has not [ ]
 
-### Frontières at TIFF The Market Unveils Lineup, Featuring a ‘Dim Sum Western,’ Newlywed Night of Terror and Wolf-Tracking Dark Comedy (EXCLUSIVE)
-Fri, 14 Aug 2026 17:01:24 +0000 — https://variety.com/2026/film/markets-festivals/frontieres-tiff-market-johnnie-to-genre-showcase-unveiled-1236834415/
-
-Hong Kong film luminary Johnnie To’s “Two Gun Cohen,” based on an extraordinary true story, is among seven titles bowing in Frontières at TIFF: The Market, a standalone showcase aimed at co-producers, sales agents and buyers prospecting genre projects in Toronto this September. Frontières, the international co-production market organized by Montreal’s Fantasia Film Festival, announced [ ]
-
-### Digital Brand Architects Acquires Creator Management Firm V1sion Ventures
-Fri, 14 Aug 2026 17:00:00 +0000 — https://variety.com/2026/digital/news/digital-brand-architects-v1sion-ventures-acquire-creators-1236834437/
-
-Digital Brand Architects has snapped up creator management firm V1sion Ventures, which represents a range of digital stars including Keith Lee, Leigh Soriano, Joy Burnett, Chelsea Jordan, Rachel Wilson, Beyonce Janvier, Micah Hescott ad Zack Baun. V1sion Ventures founder and CEO Alina Benun will join DBA and work alongside senior talent managers Veronica Avalos and [ ]
-
-### Spider-Man: Beyond the Spider-Verse Trailer Leaks Online, Prompting Co-Writer Chris Miller to Speak Out: Not a Fan of Leaks of Unfinished Footage
-Fri, 14 Aug 2026 16:12:46 +0000 — https://variety.com/2026/film/news/spider-man-beyond-spider-verse-trailer-leak-1236834648/
-
-Spider-Man: Beyond the Spider-Verse is the latest movie to get hit by an unauthorized leak. The trailer for the third Spider-Verse movie, which is scheduled to hit theaters on June 18, 2027, appeared to leak online on Twitter/X this week. Co-writer and producer Chris Miller disavowed the leak on Friday, writing Not a fan of [ ]
-
-### Oscar Predictions: Best Director — Could Christopher Nolan Triumph Again With The Odyssey ?
-Fri, 14 Aug 2026 16:05:00 +0000 — https://variety.com/feature/2027-oscars-best-director-predictions-1236834268/
-
-Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
-
-### Kyle Chandler and Aaron Pierre Are Great Lanterns , but HBO s DC Drama Is Overshadowed by Its Influences: TV Review
-Fri, 14 Aug 2026 16:00:00 +0000 — https://variety.com/2026/tv/reviews/lanterns-review-kyle-chandler-aaron-pierre-hbo-dc-1236833207/
-
-Of all the superheroes to give the gritty realism treatment, the Green Lantern is an odd choice. Tasked with enforcing intergalactic order with a magic ring bestowed by a group of blue aliens (before the Na’avi, there were the Guardians), the character occupies the opposite end of the tonal spectrum from Bruce Wayne stalking the [ ]
-
-### Neil deGrasse Tyson, Neal Stephenson, Mira Lane, Rod Roddenberry to Judge XPRIZE Sci-Fi Film Competition
-Fri, 14 Aug 2026 16:00:00 +0000 — https://variety.com/2026/tv/news/neil-degrasse-tyson-judges-xprize-scifi-film-competition-1236834144/
-
-XPRIZE announced the judges for its sci-fi film competition, which aims to inspire optimistic adaptations of a technology-enabled future. Neil deGrasse Tyson, Neal Stephenson, Mira Lane and Rod Roddenberry will preside over the competition. The panel will help select the grand prize winner, who will be named at Moonshots Live on Sept. 25 in Los [ ]
-
 ## The Hollywood Reporter
+
+### Your Friends and Neighbors Showrunner Is Surprised Jon Hamm Didn t Get an Emmy Nod: A Performance That Should ve Been Recognized
+Fri, 14 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/your-friends-neighbors-showrunner-jon-hamm-emmy-snub-1236670573/
+
+Jonathan Tropper also shares his thoughts on why season two received nominations while season one did not.
+
+### Mark Rydell, Oscar-Nominated Director of On Golden Pond, Dies at 97
+Fri, 14 Aug 2026 18:29:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mark-rydell-dead-golden-pond-cinderella-liberty-the-rose-1236673846/
+
+The onetime soap star on 'As the World Turns' also helmed 'Cinderella Liberty,' 'The Rose' and John Wayne's 'The Cowboys.'
+
+### The War on Literature Depicted in ’The Librarians’ Is Still Being Waged
+Fri, 14 Aug 2026 18:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-librarians-war-literature-1236670583/
+
+A year after the Kim Snyder-directed documentary premiered at Sundance, book-banning remains a resonant topic in the U.S. as related bills make their way through Congress.
+
+### Selena Gomez s Mental Health Startup Was a Sham, Investors Claim in Federal Lawsuit
+Fri, 14 Aug 2026 18:11:59 +0000 — https://www.hollywoodreporter.com/news/general-news/selena-gomez-daniella-pierson-mental-health-wondermind-sham-lawsuit-1236673764/
+
+The complaint accuses the star, her mother and Daniella Pierson of faking Wondermind's success — then hiding its collapse for three years.
+
+### Jerry Seinfeld Applauds Ted Sarandos Impact on Hollywood: The Most Loved Industry Executive I Have Ever Seen
+Fri, 14 Aug 2026 18:00:28 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jerry-seinfeld-ted-sarandos-tv-academy-hall-of-fame-1236673755/
+
+Sarandos was inducted into the TV Academy Hall of Fame on Thursday night, alongside Jean Smart, Ted Danson, Trey Parker and Matt Stone, Sheila Nevins and the late Ed Bradley.
+
+### Anne Hathaway Premieres The End of Oak Street, Lanterns Arrives and This Week s Best Events
+Fri, 14 Aug 2026 18:00:21 +0000 — https://www.hollywoodreporter.com/gallery/end-of-oak-street-lanterns-red-carpet-events-1236669916/
+
+Inside this week's biggest Hollywood premieres, parties and openings.
+
+### Ewan McGregor Would Like to Play Obi-Wan Kenobi Again — Even If His ‘Star Wars’ Prequels Were Dragged Through the Mud
+Fri, 14 Aug 2026 17:56:48 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ewan-mcgregor-play-star-wars-obi-wan-again-1236673685/
+
+The Scotsman delighted an Edinburgh Film Festival crowd on Friday during a warm and candid conversation about his career, his relationship with his children and whether he'd want to play James Bond.
 
 ### Spider-Man: Beyond the Spider-Verse Trailer Drops Online, Christopher Miller Slams Leak
 Fri, 14 Aug 2026 17:38:01 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-beyond-the-spider-verse-trailer-leak-1236673739/
@@ -69,42 +104,17 @@ Fri, 14 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-feat
 
 Five of the show’s Emmy nominees talk candidly about playing an addict while sober, who throws the best parties and their favorite line: “Sex is great."
 
-### Netflix Picks Up YA Series ‘Sunshine Girls,’ Adds Randall Park to ‘Minimum Wage’
-Fri, 14 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-sunshine-girls-minimum-wage-1236673710/
-
-Both shows come from producers with roots in YouTube and other digital platforms.
-
-### Gloria Carlin, ‘Hanoi Hilton’ Actress and Wife of Screenwriter Lionel Chetwynd, Dies at 84
-Fri, 14 Aug 2026 16:56:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gloria-carlin-dead-hanoi-hilton-lionel-chetwynd-1236673721/
-
-A Canadian, she also appeared in ‘Goldenrod,’ ‘Two Solitudes,’ the biblical miniseries ‘Joseph’ and ‘General Hospital.’
-
-### Avengers: Doomsday Tickets Put On Sale For All Theaters Nationwide
-Fri, 14 Aug 2026 16:44:41 +0000 — https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-tickets-theaters-1236673717/
-
-Disney has suddenly expanded 'Doomsday' tickets beyond just premium format theaters.
-
-### Nicole Kidman Grooves With Troye Sivan in Glam She’s the Best Music Video
-Fri, 14 Aug 2026 16:42:32 +0000 — https://www.hollywoodreporter.com/music/music-news/nicole-kidman-troye-sivan-music-video-1236673681/
-
-The ‘Babygirl’ star gets her dance moves on in a drag club as a muse for Sivan, a ‘Boy Erased’ co-star.
-
-### Camp Rock 3 Breakout Lumi Pollack on Learning to Play the Cello and the Advice She Got From Demi Lovato
-Fri, 14 Aug 2026 16:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/camp-rock-3-lumi-pollack-cello-demi-lovato-jonas-brothers-1236673108/
-
-The actress plays a musical prodigy in the Disney movie: "It kind of just felt like we were just making a movie with a bunch of our friends — like we were at summer camp."
-
-### Task Star Tom Pelphrey: The One Thing That Kept Me Up at Night
-Fri, 14 Aug 2026 16:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/tom-pelphrey-emmy-nod-task-1236671453/
-
-The actor is famous for playing intense and deeply conflicted people. But his grueling performance in HBO’s hit just might win him an Emmy.
-
-### Megan Thee Stallion Signs Distribution Partnership With Interscope, Will Remain Independent
-Fri, 14 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/megan-thee-stallion-signs-with-interscope-1236657579/
-
-“I’ve always wanted to create music on my terms while building a legacy that extends beyond the industry,” the "Savage" rapper said of her new partnership on Friday.
-
 ## Deadline
+
+### Wendi McLendon-Covey Rounds Out Cast Of 20th s Romy And Michele Sequel
+Fri, 14 Aug 2026 18:00:00 +0000 — https://deadline.com/2026/08/romy-and-michele-2-cast-wendi-mclendon-covey-1237040451/
+
+EXCLUSIVE: 20th has rounded out the cast of its sequel to cult classic comedy Romy and Michele s High School Reunion with the addition of St. Denis Medical s Wendi McLendon-Covey. Character details are being kept under wraps, as is the plot of the sequel, which began shooting in Los Angeles in June. Released in 1997 by Disney s Buena Vista, the original [ ]
+
+### Mark Rydell Dies: Oscar-Nominated On Golden Pond , The Rose Director Was 97
+Fri, 14 Aug 2026 17:50:43 +0000 — https://deadline.com/2026/08/mark-rydell-dead-1237040664/
+
+Mark Rydell, the Oscar-nominated director of 1981 s On Golden Pond and two of Bette Midler s signature films The Rose and For The Boys died today. He was 97. His death was announced by Midler on Instagram today. Mark Rydell, the director or my first film, The Rose, died this morning. He was an [ ]
 
 ### The Partnership: ‘The Pitt’s Taylor Dearden Tal Anderson Tackle Sisterhood With Precision
 Fri, 14 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/the-pitt-interview-tal-anderson-taylor-dearden-1237033591/
@@ -155,14 +165,4 @@ With three native Southern Californians at the helm, The Wrong Girls was always 
 Fri, 14 Aug 2026 15:47:00 +0000 — https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/
 
 FRIDAY AM: Warner Bros/Bad Robot s PG-13 The End of Oak Street came in at $2.5M for Thursday night U.S. previews. The running global tally is $6.5M with key openings in Italy and France. Global outlook is still $38M WW-$48M WW with the foreign haul likely outweighing domestic. Again, that U.S. preview take is around what [ ]
-
-### Streamer And Specialty Distributor Cineverse Reveals Layoffs
-Fri, 14 Aug 2026 15:37:06 +0000 — https://deadline.com/2026/08/cineverse-layoffs-streaming-specialty-film-distribution-1237039800/
-
-Streamer and specialty film distributor Cineverse has revealed that layoffs have hit its workforce of 300 employees. In its report of fiscal first-quarter earnings on Thursday, the company said it completed a reduction in force after the June 30 end of the quarter. The move will result in $1.8 million in annual cost savings, the [ ]
-
-### Austria Selects Sandra Hüller Drama Rose For International Oscar Category
-Fri, 14 Aug 2026 15:34:46 +0000 — https://deadline.com/2026/08/austria-chooses-sandra-huller-rose-international-oscar-1237040432/
-
-Austria has selected Berlin Film Festival winner Rose, which stars Sandra Hüller, as its International Oscar hopeful. Markus Schleinzer’s black-and-white period critical hit had its world premiere in competition at the Berlinale and won Hüller the festival’s Silver Bear for best leading performance. The film, which is a live contender in the category, was previously picked up by Mubi for all rights [ ]
 

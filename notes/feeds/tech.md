@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-14T17:40:09.937Z
+# Tech — harvested 2026-08-14T18:34:44.181Z
 
 ## Ars Technica
 
@@ -64,6 +64,21 @@ Ukrainian drone teams demolished a brigade of US Army tanks and armored vehicles
 
 ## The Verge
 
+### A RAMageddon guide to back-to-school laptop shopping
+2026-08-14T14:32:47-04:00 — https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school
+
+The MacBook Neo is an easy recommendation. | Photo by Amelia Holowaty Krales / The Verge If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch , making some a little pricier than they used to be and others wildly more expensive . The good news? Despite that, there are still many great options, including the selection we’ve tested and highlighted below. Before you go for the cheapest option you can still find, consider biting the bullet on a more powerful laptop, especially if you’re buying for a college student. Prices are likely to continue rising well into next year — especially since all the memory being made through 2027 is already allocated . You can get a mostly tolerable laptop for under $500 and a good one for around $700, but spending more to get something like a MacBook Air gets you better build quality and enough performance headroom to last through four years of college and well beyond. (Many Verge writers and editors are still using M1 MacBook Airs from 2020). But even the modest options below (new or refurbished) should easily be good for more than a few years. The key is to avoid something that feels slow or janky on day one, if you can. It’ll only get worse from there. If your school or curriculum recommends certain laptops or minimum specs, then you already know what to aim for. If not, our rule of thumb is to go with a Mac run
+
+### Lamborghini’s flagship Revuelto levels up with SV trim
+2026-08-14T14:00:00-04:00 — https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance
+
+A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with their vehicle. This helps explain the storied super car maker's tagline for the new Revuelto SV: the quantum of driving. "For us, quantum of driving is the moment when you get into the car, you start driving the car, and the car and you become one piece," said Alessandro Farmeschi, product line director for the Revuelto, the Italian brand's top V12 powered model. "And you start just thinking about your drive, … Read the full story at The Verge. ]]>
+
+### The X-Files creator Chris Carter wanted to make a more horrific movie
+2026-08-14T14:00:00-04:00 — https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu
+
+The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen with a grisly story about faith and the supernatural. But executives at 20th Century Fox felt that Carter's ideas were too dark, and he was pushed to turn the project into a PG-13 feature. Now, almost two decades after I Want to Believe 's theatrical debut, Carter is back with a new director's cut of the film for Hulu that's much closer to his original vision. "We got to tell a good X-Files story," Carter said of the original … Read the full story at The Verge. ]]>
+
 ### Google s best new camera feature is only for the Pixel 11 series
 2026-08-14T13:34:14-04:00 — https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones
 
@@ -98,21 +113,6 @@ The Claw EX. I rather like the purple. 3D-printed stand not included. As The Ver
 2026-08-14T07:00:00-04:00 — https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable
 
 Hoto is introducing its first soldering iron through its modular Snapbloq collection that lets you assemble your own custom toolbox by stacking magnetic cases and tools together. The new I-A06 Cordless Soldering Iron can heat to just over 200 degrees Celsius in about three seconds and offers an adjustable temperature range from 100 to up to 450 degrees with customizable presets you can quickly jump to. The full kit version of the soldering iron is available starting today for $99.99 and includes a C245 knife tip plus additional tips that can be used for other tasks such as wood burning. If you just want the tool you can buy it on its own fo … Read the full story at The Verge. ]]>
-
-### Apple trained its own AI model for China with help from Alibaba
-2026-08-14T05:21:17-04:00 — https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba
-
-Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports , citing three unnamed people familiar with the matter. Developing a custom model of its own marks a departure from Apple's previous strategy in the country and would give the company more control over its products in the competitive Chinese smartphone market. Historically, Apple has used domestic Chines … Read the full story at The Verge. ]]>
-
-### Help build a monument to that ‘sad little bitch’ Elon Musk
-2026-08-14T04:40:13-04:00 — https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument
-
-“Build the perfect monument to force a moment of introspection upon the world’s richest, ugliest little bitch.” | Image: Brendan SMIALOWSKI / AFP via Getty Images Cards Against Humanity is gearing up to build "something that will annoy Elon Musk," and it's crowdfunding the project with its usual flavor of vulgarity. The company behind the card game announced plans to build "a grand monument" to Musk on the parcel of land it owns near Starbase, Texas, with the aim to "make him wonder, for a brief moment, 'Wait, am I a sad little bitch with no friends?'" Cards Against Humanity is known for these kinds of stunts, having purchased the land in question back in 2017 specifically to disrupt President Donald Trump's plans to build a US/Mexico border wall. The card game company later sued SpaceX in 2024 for a … Read the full story at The Verge. ]]>
-
-### Trump declares 100 percent tariffs on many drones and all aircraft parts
-2026-08-13T21:06:15-04:00 — https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts
-
-The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers , robots , and Roombas . Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential action , he's declared a whopping 100 percent tariff on imports of drones with thermal cameras, drones weighing over 25kg (57 pounds), and any kind of part for any kind of unmanned aircraft weighing over 25kg - you can read the full list here. For all other drones, including tiny sub-250-gram "Mini" consumer drones, he's declared … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +178,11 @@ Modern smartphones pack enough computing power to rival budget PCs. However, one
 
 ## Phoronix
 
+### Omarchy 4.0 Linux Distro Released With Desktop Shell Now Implemented Via Quickshell
+Fri, 14 Aug 2026 14:10:15 -0400 — https://www.phoronix.com/news/Omarchy-4.0-Released
+
+Omarchy as the Arch Linux distribution developed by David Heinemeier Hansson "DHH" / Basecamp is out today with Omarchy 4.0 as the distro's biggest release to date...
+
 ### Linux 7.1, Linux 7.2 Performance On The Intel Xeon 600 Series
 Fri, 14 Aug 2026 11:18:11 -0400 — https://www.phoronix.com/review/intel-xeon-6-linux-72
 
@@ -232,9 +237,4 @@ The recently launched Framework Laptop 13 Pro powered by Intel Core Ultra Series
 Thu, 13 Aug 2026 09:21:08 -0400 — https://www.phoronix.com/news/GeForce-NOW-Linux-Exits-Beta
 
 At the beginning of the year NVIDIA released a native build of GeForce NOW for Linux using Flatpaks. Today their native Linux build has exited beta to reach official production status for this cloud gaming solution from NVIDIA...
-
-### MSI Claw Gamepad Driver Set To Be Merged For Linux 7.3
-Thu, 13 Aug 2026 09:11:15 -0400 — https://www.phoronix.com/news/MSI-Claw-Gamepad-Linux-7.3
-
-The MSI Claw Gamepad driver is set to be merged for the upcoming Linux 7.3 kernel for enabling RGB lighting and controller configuration support with the mainline kernel...
 
