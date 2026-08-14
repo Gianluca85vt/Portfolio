@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-08-14T08:03:02.784Z
+# Film & TV — harvested 2026-08-14T09:44:33.925Z
 
 ## Variety
+
+### Nigel Farage Documentary Where Does the Money Come From? Set at U.K. Broadcaster 5 as Parliamentary Standards Watchdog Reopens Finance Probe
+Fri, 14 Aug 2026 09:21:47 +0000 — https://variety.com/2026/tv/news/nigel-farage-documentary-5-standards-probe-1236834471/
+
+ITN Productions has set Nigel Farage: Where Does the Money Come From?, a one-hour documentary examining the Reform U.K. leader s finances, to air on 5, part of the Paramount Skydance Corporation, on Aug. 22. The documentary comes amid continuing scrutiny of Farage s finances, following the Parliamentary Standards Commissioner s investigation into gifts made to him and [ ]
+
+### TV Academy Hall of Fame: Sheila Nevins, Absent Due to COVID, Thanks Dr. Fauci for the Vaccine; Bill Hader Pays Tribute to the South Park Creators With a Fish Dick Story and More
+Fri, 14 Aug 2026 08:16:11 +0000 — https://variety.com/2026/tv/news/tv-academy-hall-of-fame-south-park-shiela-nevins-dr-fauci-1236834438/
+
+Documentary icon Sheila Nevins — who holds the all-time record for most Emmy wins by an individual (31), thanks to her long run as president of HBO Documentary Films — had to skip Thursday night’s Television Academy Hall of Fame event, after being diagnosed with COVID and pneumonia. Instead, Nevins sent her acceptance speech via [ ]
+
+### ‘You Don’t Belong Here’ Review: A Potentially Involving Story Is Weakened by Airless Dialogue and a Misguided Finale
+Fri, 14 Aug 2026 08:12:38 +0000 — https://variety.com/2026/film/reviews/you-dont-belong-here-review-1236834459/
+
+Florin Şerban’s “You Don’t Belong Here” opens with great promise and finishes with a stupefyingly misguided coda: The lengthy minutes in between are rigorously filmed and sharply observed, but would have benefited enormously if the director wasn’t also the producer, writer and editor. Airless pauses between nearly every line of dialogue and a mostly fixed [ ]
 
 ### Fukada Koji, Jakrawal Nilthamrong, Boo Junfeng Films Win Busan Co-Production Fund
 Fri, 14 Aug 2026 07:38:46 +0000 — https://variety.com/2026/film/markets-festivals/fukada-koji-jakrawal-nilthamrong-boo-junfeng-busan-fund-1236834448/
@@ -37,22 +52,12 @@ Fri, 14 Aug 2026 00:30:00 +0000 — https://variety.com/feature/2027-oscars-best
 
 Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
 
-### Oscar Predictions: Best Actress — How Obsessed Will the Academy Become With Inde Navarrette?
-Fri, 14 Aug 2026 00:00:00 +0000 — https://variety.com/feature/2027-oscars-best-actress-predictions-1236834270/
-
-Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
-
-### Oscar Predictions: Best Actor — The Most Competitive Category Awaits Leading Men Like Tom Cruise, Matt Damon and More
-Thu, 13 Aug 2026 23:31:40 +0000 — https://variety.com/feature/2027-oscars-best-actor-predictions-1236834269/
-
-Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
-
-### Tyler Duckworth, The Challenge Reality Show Winner, Dies at 44
-Thu, 13 Aug 2026 22:23:34 +0000 — https://variety.com/2026/tv/news/tyler-duckworth-dead-the-challenge-1236834280/
-
-Tyler Duckworth, who competed on six seasons of reality show The Challenge and also appeared on MTV s The Real World: Key West, has died in North Dakota. He was 44. His mother, Joni, announced his death on Facebook Thursday, writing, “My son, Tyler, passed away earlier this week. Cause of death has yet to be [ ]
-
 ## The Hollywood Reporter
+
+### Sarajevo Film Festival Boss Jovan Marjanović on Owning Its Powerful Origin Story: We Connect This Legacy of War and Build Bridges
+Fri, 14 Aug 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/sarajevo-film-festival-jovan-marjanovic-2026-interview-1236671995/
+
+Marjanović, in his fifth year as the sole director of the Bosnian film festival, teases what's to come from the 32nd installment and why particular screenings "will be very emotional."
 
 ### The Ones With the Tempered Flowers Will Document a Woman Studying Her Body s Relationship to Self and Society in Tanzania
 Fri, 14 Aug 2026 06:59:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-ones-with-the-tempered-flowers-film-locarno-open-doors-1236672849/
@@ -99,12 +104,12 @@ Thu, 13 Aug 2026 23:18:38 +0000 — https://www.hollywoodreporter.com/music/musi
 
 StubHub, the industry's largest ticket resale platform, spent $3.4 million this year lobbying against California's AB 1720.
 
-### Christy Knowings, All That Star, Dies at 46
-Thu, 13 Aug 2026 22:55:10 +0000 — https://www.hollywoodreporter.com/tv/tv-news/christy-knowings-dead-all-that-1236673215/
-
-Her former co-star, Kenan Thompson, wrote in a tribute, "She was a real one and one of the funniest people out here."
-
 ## Deadline
+
+### Black Mirror Director Ally Pankiw Roasts Harry Potter TV Series, Claiming She Turned Down Gig: Say No To Funding Transphobia
+Fri, 14 Aug 2026 09:02:21 +0000 — https://deadline.com/2026/08/ally-pankiw-claim-harry-potter-tv-series-transphobia-1237033605/
+
+Ally Pankiw certainly won t be working on HBO s upcoming Harry Potter series. The Black Mirror director shared an Instagram post that appears to show an SMS exchange with her agent in which she emphatically turns down an opportunity to board the series. I have an instinct on the answer but I feel compelled to ask, [ ]
 
 ### Power Rangers Live-Action Series Not Moving Forward At Disney+
 Fri, 14 Aug 2026 02:25:53 +0000 — https://deadline.com/2026/08/power-rangers-live-action-series-dead-disney-plus-1237033544/
@@ -160,9 +165,4 @@ As Coyote vs. Acme finally gets its day in court, John Cena has a pretty levelhe
 Thu, 13 Aug 2026 22:33:25 +0000 — https://deadline.com/2026/08/paramount-warner-bros-trial-schedule-1237033223/
 
 This week has been dominated by headlines about Paramount s threat to leave California, by unions and other officials urging a settlement and by Capitol Hill Democrats warning of investigations. But on Thursday, attorneys completed the rather routine step of proposing key dates and deadlines in advance of an antitrust trial over the proposed merger of [ ]
-
-### ABC And NBC Will Air 90 NBA Games Next Season, Up 14% From The Prior Year
-Thu, 13 Aug 2026 22:32:28 +0000 — https://deadline.com/2026/08/abc-nbc-nba-games-season-disney-1237033368/
-
-ABC and NBC will combine to air 90 NBA games during the 2026-27 season, a 14% increase over the broadcast networks total of 79 in the prior season. The uptick will continue the squeeze on general-entertainment programming, extending a long-term shift toward live sports, unscripted fare and news and away from traditional dramas and comedies. [ ]
 

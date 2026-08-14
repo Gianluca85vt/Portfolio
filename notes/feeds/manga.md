@@ -1,6 +1,21 @@
-# Manga — harvested 2026-08-14T08:03:02.784Z
+# Manga — harvested 2026-08-14T09:44:33.925Z
 
 ## Anime News Network
+
+### Live-Action Happy Kanako's Killer Life Season 2 Reveals September 17 Debut
+Fri, 14 Aug 2026 04:34:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/live-action-happy-kanako-killer-life-season-2-reveals-september-17-debut/.240567
+
+New visual also unveiled
+
+### Shigeru Mizuki's 'White Flag' WW2 Manga Gets Anime Special on Sunday
+Fri, 14 Aug 2026 04:20:44 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/shigeru-mizuki-white-flag-ww2-manga-gets-anime-special-on-sunday/.240574
+
+Anime airs as part of NHK Special documentary
+
+### The Villager of Level 999 Anime Casts Yōji Ueda, Tetsu Inada
+Fri, 14 Aug 2026 03:48:53 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/the-villager-of-level-999-anime-casts-yoji-ueda-tetsu-inada/.240568
+
+Ueda voices Militaria Remote, Inada voices Dark Dragon in show's 8th episode next week
 
 ### Live-Action Tengu no Daidokoro Season 3 Reveals More Cast, October 1 Debut
 Fri, 14 Aug 2026 00:08:15 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/live-action-tengu-no-daidokoro-season-3-reveals-more-cast-october-1-debut/.240562
@@ -46,21 +61,6 @@ Thu, 13 Aug 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 Thu, 13 Aug 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-08-13/.240508
 
 Christopher and Sylvia go on a yuri deep dive to uncover that dangerous age that can make yuri romance so appealing. Starting with the toxic queens in <cite>Dear Brother</cite> to the new era in <cite>I Want To Love You Till Your Dying Day</cite>
-
-### Kei Yose's The Villainess Speaks Not Light Novels Get Manga Adaptation
-Thu, 13 Aug 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/kei-yose-the-villainess-speaks-not-light-novels-get-manga-adaptation/.240547
-
-Manga by artist Ryū Miduki launched on Wednesday
-
-### Pokémon Bank App Ends Service in February 2027
-Thu, 13 Aug 2026 13:30:37 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/pokemon-bank-app-ends-service-in-february-2027/.240552
-
-Pokémon will no longer be transferable from <cite>Pokémon Bank</cite> to <cite>Pokémon Home</cite> after February 25
-
-### Dae-geon Jung's Novel Rapids Gets Webtoon Adaptation
-Thu, 13 Aug 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/dae-geon-jung-novel-rapids-gets-webtoon-adaptation/.240387
-
-Novel follows 17-year-old classmates Dodam, Haesol as their friendship develops into romance
 
 ## Crunchyroll News
 

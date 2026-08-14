@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-14T08:03:02.784Z
+# Games — harvested 2026-08-14T09:44:33.925Z
 
 ## Eurogamer
+
+### Marvel Tōkon: Fighting Souls looks to have sold almost half a million copies in a week
+Fri, 14 Aug 2026 09:07:36 +0000 — https://www.eurogamer.net/marvel-tokon-fighting-souls-half-a-million-sales-one-week
+
+New sales estimates show that Marvel T&omacr;kon: Fighting Souls may have sold almost 500,000 copies in around a week, a solid pace for a fighting game. Read more
 
 ### Marvel's Wolverine "fully playable" on disc when it releases, Insomniac clarifies, perhaps making it one of the last few PlayStation games that will be
 Thu, 13 Aug 2026 15:00:20 +0000 — https://www.eurogamer.net/marvels-wolverine-ps5-disc-insomniac-1
@@ -57,12 +62,17 @@ Thu, 13 Aug 2026 08:21:53 +0000 — https://www.eurogamer.net/stop-killing-games
 
 Stop Killing Games, the grassroots initiative fighting to prevent game publishers from shutting down servers without offering an alternative, has joined a lawsuit filed in the Netherlands against Sony for its alleged monopoly of selling digital games on the PlayStation Store (via GamesRadar ). Read more
 
-### Immortality creator Sam Barlow's new video-scouring game is sci-fi horror Precognition, a collab with filmmaker Brandon Cronenberg, in which you see and change the future
-Wed, 12 Aug 2026 19:30:00 +0000 — https://www.eurogamer.net/sam-barlow-immortality-precognition-brandon-cronenberg
-
-The new game from Her Story and Immortality maker Sam Barlow - and his studio Half Mermaid - has a name: it's called Precognition. It's a sci-fi horror and it's releasing in spring 2028, as one of the debut games from Phasmophobia company Kinetic's new publishing label. Read more
-
 ## GamesIndustry.biz
+
+### "I don't see why people are scared of it" – ShipShaper developer Tomas Sala on why indies shouldn't be stressing about GTA6
+Fri, 14 Aug 2026 08:58:19 +0000 — https://www.gamesindustry.biz/i-dont-see-why-people-are-scared-of-it-why-shipshaper-developer-tomas-sala-doesnt-think-indies-should-be-stressing-about-gta6
+
+GTA6 is messing with Tomas Sala's plans. He'd intended to launch ShipShaper earlier this year, but "life got in the way," he tells GamesIndustry.biz . "And then I saw all this stress about, 'Oh my God, GTA is coming, you have to pack it before September'." Read more
+
+### Netflix shutters Night School Studio and Moonloot Games
+Fri, 14 Aug 2026 08:11:46 +0000 — https://www.gamesindustry.biz/netflix-shutters-night-school-studio-and-moonloot-games
+
+Netflix has closed Night School Studio and Helsinki-based Moonloot Games. Read more
 
 ### Mattel launches new global studios business to develop games based on its IP
 Thu, 13 Aug 2026 16:55:14 +0000 — https://www.gamesindustry.biz/mattel-launches-new-global-studios-business-to-develop-games-based-on-its-ip
@@ -114,16 +124,26 @@ Wed, 12 Aug 2026 09:51:42 +0000 — https://www.gamesindustry.biz/pearl-abyss-q2
 
 Pearl Abyss reported a weaker second quarter as the initial impact of Crimson Desert's March launch tapered off. Read more
 
-### UKIE-backed Digital Schoolhouse partners with Roblox to provide suite of tools for students to develop Roblox games in-class
-Wed, 12 Aug 2026 08:59:53 +0000 — https://www.gamesindustry.biz/ukie-backed-digital-schoolhouse-partners-with-roblox-to-provide-suite-of-tools-for-students-to-develop-roblox-games-in-class
-
-UKIE-backed educational non-profit Digital Schoolhouse has partnered with Roblox to develop a suite of free tools designed to teach children how to create Roblox games as part of in-classroom education. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Netflix Shuts Down Oxenfree Dev Night School Studio as It Downscales In-House Game Teams
+Fri, 14 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/08/netflix-shuts-down-oxenfree-dev-night-school-studio-as-it-downscales-in-house-game-teams
+
+Moonloot Games also closed. Netflix has shuttered two development studios as it shrinks its internal video game operations. One of them is Night School Studio, best known for its Oxenfree series of narrative adventures with an innovative conversation system. Read the full article on pushsquare.com
+
+### On the Cusp of Kingdom Hearts 4 Blowout, Disney Says Series Is a Billion-Dollar Brand
+Fri, 14 Aug 2026 08:30:00 GMT — https://www.pushsquare.com/news/2026/08/on-the-cusp-of-kingdom-hearts-4-blowout-disney-says-series-is-a-billion-dollar-brand
+
+About to get even bigger. It’s pretty much expected that Kingdom Hearts 4 will feature heavily at this weekend’s bi-annual D23 convention . Disney will host a livestream of its scheduled Kingdom Hearts panel , which will take place on 15th August from 4:30PM PT. Read the full article on pushsquare.com
+
+### The Game Feels Super Smooth : Wolverine Will Run at 60fps with Ray Tracing on Base PS5
+Fri, 14 Aug 2026 08:00:00 GMT — https://www.pushsquare.com/news/2026/08/the-game-feels-super-smooth-wolverine-will-run-at-60fps-with-ray-tracing-on-base-ps5
+
+Insomniac wizardry. Insomniac is one of the best developers in the business, and certainly among the strongest studios under Sony’s umbrella. It’s not massively surprising to learn the studio is aiming to deliver an unprecedented experience with Marvel’s Wolverine , then: 60fps with ray tracing enabled – all on base PS5 at launch! Read the full article on pushsquare.com
 
 ### Modest Sales Predicted for Sony s Critically Acclaimed New Fighter
 Fri, 14 Aug 2026 07:30:00 GMT — https://www.pushsquare.com/news/2026/08/modest-sales-predicted-for-sonys-critically-acclaimed-new-fighter
@@ -169,21 +189,6 @@ Gonna take you for a ride. In what has been one of the craziest industry sagas I
 Thu, 13 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/08/theres-a-new-indie-publisher-and-its-bringing-all-its-games-to-ps5
 
 The folks behind Phamophobia expand. First and foremost, I must apologise to Kinetic Publishing: it gave me advanced access to all of its announcements earlier in the week, but life has been so hectic lately I wasn’t able to put together a story in time for its showcase. Some of you may have already seen the news, then: the new UK-based indie publisher – spun out of the team behind Phasmophobia – has signed five titles, and it’s bringing them all to the PS5. Read the full article on pushsquare.com
-
-### Mafia: Definitive Edition Is Potentially Set for a Native PS5 Version
-Thu, 13 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/mafia-definitive-edition-is-potentially-set-for-a-native-ps5-version
-
-Age rating on the ESRB website spotted. Six years after its PS4 release, the remade and enhanced Mafia: Definitive Edition might be on its way back thanks to a new native PS5 version. A new age rating on the ESRB website for a PS5 edition of the game — along with an Xbox Series X|S version — has now appeared, which usually suggests some kind of re-release is on the cards. The ESRB needs a product to rate in order for there to be an ESRB rating attached to it, after all. Read the full article on pushsquare.com
-
-### We All Knew It Was Happening, But Hogwarts Legacy 2 Is Now Officially in the Works
-Thu, 13 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/we-all-knew-it-was-happening-but-hogwarts-legacy-2-is-now-officially-in-the-works
-
-An inevitability. This is maybe the least surprising news of the week, but it's noteworthy all the same: Warner Bros. has officially acknowledged it's working on the next game in the Hogwarts Legacy series. This comes via an earnings report to shareholders, which directly mentions "the second installment of Hogwarts Legacy" when talking about ways in which WB Games will "meaningfully contribute to segment profitability" in future. Read the full article on pushsquare.com
-
-### Ghost of Yotei s PS5 Complete Edition Will Get a Physical Disc, But There Are Already Concerns
-Thu, 13 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/08/ghost-of-yoteis-ps5-complete-edition-will-get-a-physical-disc-but-there-are-already-concerns
-
-Amid disc-based games controversy. Sony may have made the controversial decision to kill physical games in January 2028 , but it remains committed to the medium in the interim. Fans pondered whether Ghost of Yotei’s Complete Edition – the newly announced expanded repackaging of Sucker Punch’s historical open world – would be getting a disc-based release. Read the full article on pushsquare.com
 
 ## Game Developer
 
