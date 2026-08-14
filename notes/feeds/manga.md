@@ -1,6 +1,26 @@
-# Manga — harvested 2026-08-14T11:32:59.061Z
+# Manga — harvested 2026-08-14T12:29:17.422Z
 
 ## Anime News Network
+
+### Deadline: Disney+ Cancels New Power Rangers Series
+Fri, 14 Aug 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/deadline-disney-cancels-new-power-rangers-series/.240577
+
+Live-action show will move past development stage according to report
+
+### From Old Country Bumpkin to Master Swordsman Season 2 Anime Reveals New Promo Video, More Cast
+Fri, 14 Aug 2026 08:02:11 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/from-old-country-bumpkin-to-master-swordsman-season-2-anime-reveals-new-promo-video-more-cast/.240581
+
+Kenshō Ono, Sumire Uesaka join cast
+
+### 'Yowaki MAX Reijō nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta' Anime Casts Shizuka Ishigami
+Fri, 14 Aug 2026 07:14:51 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/yowaki-max-reijo-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta-anime-casts-shizuka-/.240578
+
+Ishigami voices Rufus Stan as a child; new voice drama streamed
+
+### My Sword Saint Master Is Too Cute to Live With! TV Anime Confirmed, Reveals Visual
+Fri, 14 Aug 2026 07:08:27 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/my-sword-saint-master-is-too-cute-to-live-with-tv-anime-confirmed-reveals-visual/.240579
+
+Deregula to produce anime
 
 ### Link! Like! Love Live! Game Developer Odd Number Files for Bankruptcy
 Fri, 14 Aug 2026 05:07:21 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/link-like-love-live-game-developer-odd-number-files-for-bankruptcy/.240564
@@ -41,26 +61,6 @@ Monkey D. SquarePants is looking for the One Piece in a pineapple under the sea.
 Thu, 13 Aug 2026 23:30:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-13/demon-slayer-kimetsu-no-yaiba-cafe-opens-in-chicago/.240550
 
 Demon Slayer's entertainment district moves to the Windy City for a limited time
-
-### Skull Dragon's Precious Daughter Manga Goes on Hiatus for Half a Year
-Thu, 13 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/skull-dragon-precious-daughter-manga-goes-on-hiatus-for-half-a-year/.240534
-
-Manga returns in spring 2027
-
-### Battle in 5 Seconds Goes on Hiatus Due to Author's Poor Health
-Thu, 13 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/battle-in-5-seconds-goes-on-hiatus-due-to-author-poor-health/.240542
-
-Miyakokasiwa diagnosed with depression
-
-### Young Ladies Don't Play Fighting Games ‒ Episode 6
-Thu, 13 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-6/.240556
-
-Not since Naruto and Sasuke have I seen a more obvious rivals-to-lovers pairing as Aya and Mio.
-
-### Duel Masters GT Manga's 3rd Part Launches
-Thu, 13 Aug 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/duel-masters-gt-manga-3rd-part-launches/.240533
-
-5th part of <cite>Duel Masters LOST</cite> manga also reveals "Shitsuraku no Duel" title
 
 ## Crunchyroll News
 

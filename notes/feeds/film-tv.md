@@ -1,4 +1,4 @@
-# Film & TV — harvested 2026-08-14T11:32:59.061Z
+# Film & TV — harvested 2026-08-14T12:29:17.422Z
 
 ## Variety
 
@@ -54,6 +54,11 @@ Troye Sivan has kicked off a new era with the release of his new single She s th
 
 ## The Hollywood Reporter
 
+### Come With Me, Psychological Thriller Starring Theo Rossi and Ron Perlman, Sells to Vertical and Gets First Trailer (Exclusive)
+Fri, 14 Aug 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/come-with-me-film-theo-rossi-ron-perlman-sale-trailer-1236672880/
+
+The firm acquired the film, about a working-class man whose life unravels after traumatic experiences that lead him to fall under the influence of "a rhetoric-spewing radio host," for North America.
+
 ### Michael Sheen and Director Simon Ryninks Reveal Their Personal Connections to Welsh Sci-Fi Caper Out There : This Really Pushed Buttons for Me
 Fri, 14 Aug 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/michael-sheen-out-there-film-wales-ufo-edinburgh-festival-1236670866/
 
@@ -99,12 +104,32 @@ Thu, 13 Aug 2026 23:46:11 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 Duckworth joined the MTV family as a castmember on 'The Real World: Key West' in 2006.
 
-### NY Film Festival Sets Currents Lineup Led by Bardi World Premiere
-Thu, 13 Aug 2026 23:39:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ny-film-festival-2026-currents-lineup-1236673366/
-
-The section, which features films that expand the possibilities of the medium, includes 15 features and 28 shorts.
-
 ## Deadline
+
+### Paramount s 5 Asks Nigel Farage: Where Does The Money Come From? After Binface By-Election
+Fri, 14 Aug 2026 12:24:21 +0000 — https://deadline.com/2026/08/nigel-farage-where-does-money-come-from-paramount-5-binface-1237033649/
+
+Nigel Farage defeated an independent space warrior with a bin for a head in a bizarre British by-election this morning, and now Paramount s 5 is asking more questions about the under-fire Reform UK politician. Nigel Farage: Where Does the Money Come From? is a classic quick turnaround 5 doc, which will go out on Saturday, August [ ]
+
+### Mark McKenna Stephen Lang Enter Thriller Isolation Booth
+Fri, 14 Aug 2026 12:21:42 +0000 — https://deadline.com/2026/08/stephen-lang-mark-mckenna-isolation-booth-movie-minnesota-1237035219/
+
+EXCLUSIVE: Mark McKenna (Sing Street) and Stephen Lang (Avatar) are among cast to lead thriller Isolation Booth, which has recently wrapped filming in Minnesota. Heralding from producers Shifted Industry (Showtime’s Basketball County: In The Water) and Witchcraft Motion Picture Company (IFC Shudder’s Dolly), the psychological thriller from first-time feature director John Beckham follows a [ ]
+
+### International Insider: Canada s Streaming Stress; Love For Lucy Davis; Marc Turtletaub Interview
+Fri, 14 Aug 2026 12:00:00 +0000 — https://deadline.com/2026/08/international-insider-canada-streaming-obligations-1237032957/
+
+Welcome. It s another week, another Insider. Jesse Whittock at the wheel this week, speeding along the highway of international film and TV news. Let’s get going. Sign up to the newsletter here for the full Insider experience. Canada s Streaming Stress Preserve the principle : Canada s film and TV industry thought they had fought and won their [ ]
+
+### Zach Braff Tribeca Drama Clean Hands Launches For International Sales Ahead Of TIFF Market
+Fri, 14 Aug 2026 11:46:48 +0000 — https://deadline.com/2026/08/zach-braff-tribeca-drama-clean-hands-international-sales-1237034583/
+
+EXCLUSIVE: Following its Tribeca premiere and North American deal with Vertical, Myriad Pictures has acquired international rights to Clean Hands, the true-life drama starring Zach Braff and Esther McGregor. Holt McCallany, Abigail Spencer and Lucas Till round out the ensemble cast in the feature written and directed by Jake Allyn. Myriad will be selling at [ ]
+
+### International Disruptors: Megan Park Talks Debut Series Sterling Point , Importance Of Not Talking Down To Young Audiences Stepping Out Of YA Space With Next Feature Die Alive
+Fri, 14 Aug 2026 11:39:43 +0000 — https://deadline.com/2026/08/megan-park-sterling-point-my-old-ass-die-alive-zoe-kravitz-1237005589/
+
+Megan Park grew up without a television in her family home. It is an unlikely origin story for the actor-turned-filmmaker behind Sundance sensation My Old Ass and current YA Prime Video hit Sterling Point, but Park admits that while growing up in Lindsay, Ontario, the prospect of a career in Hollywood wasn’t on her bingo card. “I come [ ]
 
 ### Vancouver Queer Fest Lineup: Alan Cumming, Matthew Morrison, Michaela Jaé Rodriguez, Dylan Mulvaney EPs Odenkirk, Schoenbrun Wachowski
 Fri, 14 Aug 2026 10:45:22 +0000 — https://deadline.com/2026/08/vancouver-queer-festival-lineup-alan-cumming-matthew-morrison-1237033648/
@@ -140,29 +165,4 @@ SPOILER ALERT: This post contains details on Big Brother Season 28, Episode 19, 
 Fri, 14 Aug 2026 00:43:02 +0000 — https://deadline.com/2026/08/julianne-nicholson-concerned-reprising-mare-of-easttown-role-task-1237033475/
 
 As Julianne Nicholson prepares to reprise her Mare of Easttown role, she s had to get back in touch with the character. The 2x Emmy winner, who won her first in 2021 for playing Lori Ross on the HBO series, explained that she was concerned about expectations for bringing the character back in the upcoming second [ ]
-
-### The End Of Oak Street Stomping To $38M-$48M Global Opening; U.S. Previews At $2M+ Thursday PM Box Office
-Fri, 14 Aug 2026 00:00:46 +0000 — https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/
-
-This weekend will belong to Sony/Marvel Studios Spider-Man: Brand New Day, but the bright new shiny event title hopeful is Warner Bros/Bad Robot s The End of Oak Street, which in U.S. previews Thursday night is estimated to do around $2 million-plus after showtimes that began at 1 p.m. at 3,200 sites. Note that it s still [ ]
-
-### Just One Day YA Drama Starring Kathryn Newton Moves To Hulu For Development
-Thu, 13 Aug 2026 23:47:08 +0000 — https://deadline.com/2026/08/just-one-day-kathryn-newton-hulu-1237033213/
-
-EXCLUSIVE: Hulu is developing Just One Day, a series starring Kathryn Newton (The Devil s Mouth, Big Little Lies) based on the Gayle Forman YA romance novels. Patrick Moran executive produces the project, which was originally set up at Amazon under his company PKM Productions first-look deal there, with Beauty the Beast co-creators Sherri Cooper [ ]
-
-### Tyler Duckworth Dies: MTV s The Challenge Alum Was 44
-Thu, 13 Aug 2026 23:45:29 +0000 — https://deadline.com/2026/08/tyler-duckworth-dead-mtv-the-challenge-1237033450/
-
-Reality TV star Tyler Duckworth, who first appeared on MTV’s The Real World: Key West and went on to compete on six seasons of The Challenge, winning twice, has died. He was 44. His mother, Joni, announced her son’s death Thursday on Facebook. “My son, Tyler, passed away earlier this week,” she wrote. “Cause of death [ ]
-
-### DTF St. Louis Creator Steve Conrad On Tapping Into The Exotica Underbelly Of The Midwest Crew Call Podcast
-Thu, 13 Aug 2026 23:30:00 +0000 — https://deadline.com/2026/08/dtf-st-louis-steve-conrad-interview-1237033377/
-
-There s a 1970s movie sensibility in Steve Conrad s HBO limited series DTF St. Louis, which tells the story of a bromance between two co-workers, a River City TV weatherman played by Jason Bateman and his hearing-impaired interpreter played by David Harbour. The former gets the latter into a kinky dating app. In between them is [ ]
-
-### Teamsters Pound Paramount Over WBD Merger Promises Threats: Stop Playing Games
-Thu, 13 Aug 2026 22:50:28 +0000 — https://deadline.com/2026/08/paramount-merger-teamsters-protest-1237033400/
-
-The DGA and IATSE may want to play footsie with Paramount over the state attorneys general antitrust lawsuit and hopes for a settlement. However, as the WGA has joined the charge against David Ellison s currently stalled $111 billion purchase of Warner Bros Discovery, a very strong arm of Hollywood labor has declared it s time to [ ]
 

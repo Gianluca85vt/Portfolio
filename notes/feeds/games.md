@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-14T11:32:59.061Z
+# Games — harvested 2026-08-14T12:29:17.422Z
 
 ## Eurogamer
+
+### EA Sports FC might be getting a proper football game challenger, as 2K sets up new studio to make its "next blockbuster sports franchise"
+Fri, 14 Aug 2026 11:53:36 +0000 — https://www.eurogamer.net/2k-sports-new-studio-ea-sports-fc-football-challenger
+
+EA's relatively uncontested football crown may be seriously challenged again, as 2K Sports announces a brand new studio led by a former FIFA executive producer that's mandated to create the company's "next blockbuster sports franchise". Read more
 
 ### Marvel Tōkon: Fighting Souls review
 Fri, 14 Aug 2026 11:28:24 +0000 — https://www.eurogamer.net/marvel-tokon-fighting-souls-review
@@ -56,11 +61,6 @@ Following Xbox CEO Asha Sharma's recent redacted tease of a subtitle for the lon
 Thu, 13 Aug 2026 11:59:07 +0000 — https://www.eurogamer.net/ea-private-experts-financial-strain-cuts-politics
 
 Last week, the private acquisition of Electronic Arts finally happened . After months of governmental approval and debate, one of gaming's largest publishers has gone private, co-owned by a combination of private equity companies and the Kingdom of Saudi Arabia's Public Investment Fund. Read more
-
-### Bethesda finally "looking into" patching Oblivion Remastered on PC, PS5 and Xbox amid praise for Switch 2 release
-Thu, 13 Aug 2026 10:50:38 +0000 — https://www.eurogamer.net/the-elder-scrolls-4-oblivion-remastered-performance-patch-switch-2
-
-The Elder Scrolls 4: Oblivion Remastered arrived on Switch 2 earlier this week , immediately drawing praise for its well-optimised state. This is actually a bit of a problem - not because of how it runs on Switch 2 , but rather because of how it continues to run on PC, PS5 and Xbox Series X/S. Read more
 
 ## GamesIndustry.biz
 
@@ -125,6 +125,16 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### You ll Have to Wait Until 2028 to Play PS5 s Shiniest, Jankiest Sci-Fi Adventure
+Fri, 14 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/youll-have-to-wait-until-2028-to-play-ps5s-shiniest-jankiest-sci-fi-adventure
+
+New Neo Berlin 2087 trailer just dropped. You may remember Neo Berlin 2087 , a game that's been mystifying PS5 fans since its announcement back in 2023. Well, this cyberpunk detective thriller has just released a new trailer ahead of Gamescom, and unfortunately, there's still quite a wait before we get to experience it; the game's slated for launch in 2028. Read the full article on pushsquare.com
+
+### Sonic Frontiers Surpasses 5 Million Copies Sold as Fans Await What Comes Next
+Fri, 14 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/sonic-frontiers-surpasses-5-million-copies-sold-as-fans-await-what-comes-next
+
+Hedgehog fund. SEGA has announced that Sonic Frontiers has now officially sold over 5 million copies. The news came via social media yesterday: Read the full article on pushsquare.com
+
 ### System Shock, High on Life, More Are Breathing New Life into PSVR2
 Fri, 14 Aug 2026 10:45:00 GMT — https://www.pushsquare.com/news/2026/08/system-shock-high-on-life-more-are-breathing-new-life-into-psvr2
 
@@ -174,16 +184,6 @@ Night by night. The Blood of Dawnwalker is probably the most anticipated RPG com
 Thu, 13 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/darksiders-4-next-kingdom-come-game-both-planned-to-launch-before-march-2028
 
 Plenty of time to catch up. Two big games from publisher THQ Nordic are on the way within its financial year 2027/28, meaning they should arrive by March 2028 at the latest. The two titles in question are Darksiders 4 and the next Kingdom Come title, which is likely to be named Kingdom Come Salvation . Read the full article on pushsquare.com
-
-### This Ain t Yakuza! SEGA Showcases Stranger Than Heaven s Complex Combat with Live Gameplay Demo
-Thu, 13 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/this-aint-yakuza-sega-showcases-stranger-than-heavens-complex-combat-with-live-gameplay-demo
-
-The Stabbin' of Dojima. One of the most interesting things about Stranger Than Heaven is that developer RGG Studio isn't just repurposing the action combat of its previous games. Instead, the Japanese studio's crafted a new system that sees players control the individual limbs of protagonist Makoto Daito. It appears to be a much more technical take on street brawling. Read the full article on pushsquare.com
-
-### Promising PS5 Sim Rideshare Rocked by Crazy AI Controversy, as CEO Crashes Out in Public
-Thu, 13 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/08/promising-ps5-sim-rideshare-rocked-by-crazy-ai-controversy-as-ceo-crashes-out-in-public
-
-Gonna take you for a ride. In what has been one of the craziest industry sagas I've seen in a long time, PS5 driving simulator Rideshare "Stimulator" — which looked fun during its debut last month — is now being berated for its use of generative AI. It all started with former Saber Interactive writer Stella Sacco posting on social media just a couple of days ago. Read the full article on pushsquare.com
 
 ## Game Developer
 
