@@ -4,7 +4,6 @@ date: 2026-08-14
 category: AI
 cover: /img/blog/gemini-3-7-flash-half-price-vision/cover.svg
 excerpt: A 1M-token, image-and-video-reading model at half its old price, three weeks after the last one. The interesting part isn't the benchmark chart, it's what becomes worth automating once looking at something stops being expensive.
-draft: true
 ---
 
 Google DeepMind shipped **Gemini 3.7 Flash** on 13 August, three weeks after 3.6 Flash. The
