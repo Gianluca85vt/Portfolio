@@ -4,7 +4,6 @@ date: 2026-08-14
 category: Manga
 excerpt: A touring retrospective at the Hyogo Prefectural Museum of Art is billed as a Ghost in the Shell career survey. What it's actually showing off, if you look at what's on the walls, is thirty years of environment art solving problems real-time engines still haven't cracked.
 cover: /img/blog/ghost-in-the-shell-exhibition-backgrounds/shot-01.jpg
-draft: true
 ---
 
 I found this in the feeds as a straightforward museum listing: *Ghost in the Shell:
