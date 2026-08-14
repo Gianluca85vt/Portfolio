@@ -3,7 +3,7 @@ title: A fan remade Half-Life 2's Headcrab and documented every Substrate decisi
 date: 2026-08-14
 category: 3D
 excerpt: Emanuel Pessel used Unreal Engine 5's Substrate material system to rebuild Valve's Headcrab from scratch, then published the entire process because almost nobody writes Substrate guides for organic creatures.
-cover: /img/blog/half-life-2-headcrab-substrate-breakdown/cover.svg
+cover: /img/blog/half-life-2-headcrab-substrate-breakdown/shot-01.jpg
 draft: true
 ---
 
@@ -12,6 +12,11 @@ itself at this point. What stopped me was the word **Substrate**, buried in the 
 line of 80.lv's write-up. That is the part I actually care about.
 
 ## The subject is a pretext
+
+<figure>
+  <img src="/img/blog/half-life-2-headcrab-substrate-breakdown/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Half-Life Headcrab zombie cosplay, via Wikimedia Commons (CC BY 2.0)</figcaption>
+</figure>
 
 **Emanuel Pessel** picked Valve's Headcrab for a reason that has nothing to do with
 nostalgia: it is a small, ugly, biologically plausible creature, and that makes it a
