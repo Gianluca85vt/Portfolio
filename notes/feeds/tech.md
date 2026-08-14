@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-14T06:05:43.896Z
+# Tech — harvested 2026-08-14T08:03:02.784Z
 
 ## Ars Technica
 

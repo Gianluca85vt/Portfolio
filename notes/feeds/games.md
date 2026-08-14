@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-14T06:05:43.896Z
+# Games — harvested 2026-08-14T08:03:02.784Z
 
 ## Eurogamer
 
@@ -125,6 +125,11 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Modest Sales Predicted for Sony s Critically Acclaimed New Fighter
+Fri, 14 Aug 2026 07:30:00 GMT — https://www.pushsquare.com/news/2026/08/modest-sales-predicted-for-sonys-critically-acclaimed-new-fighter
+
+Room for improvement. Marvel Tokon: Fighting Souls isn’t setting cash registers alight if new predictions from Alinea Analytics are to be believed. The industry observer predicts the licensed superhero fighter sold 485k copies across the PS5 and PC in its first week, amounting for an estimated $33 million revenue. It reckons 74% of the copies were sold on Sony’s home console, with PC making up the remaining 26%. Read the full article on pushsquare.com
+
 ### Gritty Action RPGs Will Soon Have Big Budget Competition from One of the World s Most Popular Devs
 Thu, 13 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/gritty-action-rpgs-will-soon-have-big-budget-competition-from-one-of-the-worlds-most-popular-devs
 
@@ -179,11 +184,6 @@ An inevitability. This is maybe the least surprising news of the week, but it's 
 Thu, 13 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/08/ghost-of-yoteis-ps5-complete-edition-will-get-a-physical-disc-but-there-are-already-concerns
 
 Amid disc-based games controversy. Sony may have made the controversial decision to kill physical games in January 2028 , but it remains committed to the medium in the interim. Fans pondered whether Ghost of Yotei’s Complete Edition – the newly announced expanded repackaging of Sucker Punch’s historical open world – would be getting a disc-based release. Read the full article on pushsquare.com
-
-### Final Fantasy Resonance Shows Off 11-Minute Shiva Battle and Squall Summon on PS5
-Wed, 12 Aug 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/08/final-fantasy-resonance-shows-off-11-minute-shiva-battle-and-squall-summon-on-ps5
-
-Whatever. Square Enix has just dropped a 16-minute gameplay video for Final Fantasy Resonance — the upcoming turn-based RPG that's been built on the bones of the old mobile title, Final Fantasy Brave Exvius. But you're not getting a broader view of the overall adventure with this footage. Instead, it shows off a full, uncut boss battle with Shiva, as the party attempt to enlist her all-powerful services. Read the full article on pushsquare.com
 
 ## Game Developer
 

@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-08-14T06:05:43.896Z
+# Film & TV — harvested 2026-08-14T08:03:02.784Z
 
 ## Variety
+
+### Fukada Koji, Jakrawal Nilthamrong, Boo Junfeng Films Win Busan Co-Production Fund
+Fri, 14 Aug 2026 07:38:46 +0000 — https://variety.com/2026/film/markets-festivals/fukada-koji-jakrawal-nilthamrong-boo-junfeng-busan-fund-1236834448/
+
+The Busan International Film Festival s Asian Cinema Fund (ACF) has selected three international co-productions for its 2026 Co-Production Support Fund, backing films from directors Fukada Koji, Jakrawal Nilthamrong and Boo Junfeng with a combined KRW140 million ($100,000) in production funding. The three projects – Grateful, Rhizome and Trinity – were chosen from 15 submissions following [ ]
+
+### Rani Mukerji Receives La Trobe Honorary Doctorate, Wins IFFM Special Citation
+Fri, 14 Aug 2026 07:16:25 +0000 — https://variety.com/2026/film/news/rani-mukerji-la-trobe-honorary-doctorate-iffm-citation-1236834439/
+
+Bollywood star Rani Mukerji has been awarded an Honorary Doctor of Letters by Australia s La Trobe University for three decades of work in Indian cinema and her contributions off screen, the university said. She is the second Indian film figure to receive the distinction, after superstar Shah Rukh Khan s honor in 2019. Receiving this honorary [ ]
+
+### COL AI Studios Launches to Expand Group s Global Distribution Network (EXCLUSIVE)
+Fri, 14 Aug 2026 07:00:00 +0000 — https://variety.com/2026/film/news/col-ai-studios-launch-global-distribution-1236834136/
+
+COL Group has launched COL AI Studios, a new entertainment vertical designed to help platforms, studios and brands develop, test and scale content beyond traditional licensing deals. The studio builds on a distribution network that now counts over 5,000 live-action titles, up from a base of just over 1,000 when the network first launched, with [ ]
 
 ### Troye Sivan Brings Nicole Kidman to the Club for She s the Best Music Video
 Fri, 14 Aug 2026 04:48:07 +0000 — https://variety.com/2026/music/news/troye-sivan-nicole-kidman-shes-the-best-music-video-1236834397/
@@ -37,22 +52,12 @@ Thu, 13 Aug 2026 22:23:34 +0000 — https://variety.com/2026/tv/news/tyler-duckw
 
 Tyler Duckworth, who competed on six seasons of reality show The Challenge and also appeared on MTV s The Real World: Key West, has died in North Dakota. He was 44. His mother, Joni, announced his death on Facebook Thursday, writing, “My son, Tyler, passed away earlier this week. Cause of death has yet to be [ ]
 
-### Warner Bros. Discovery CEO David Zaslav Beneficiary of $21.7 Million Stock Sale as Paramount Merger Is Stuck on Hold
-Thu, 13 Aug 2026 21:21:07 +0000 — https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-21-7-million-stock-1236834226/
-
-David Zaslav, president and CEO of Warner Bros. Discovery, has now sold over $195 million worth of stock since the media company clinched a deal to be acquired by David Ellison s Paramount Skydance earlier this year. Zaslav s latest sale of 773,173 shares of WBD stock, for an aggregate market value of $21,655,292, was handled on [ ]
-
-### Matthew McConaughey Says Acting in The Wedding Planner With Jennifer Lopez Saved Him From Being Searched at U.S.-Mexico Border: They Let Me Go
-Thu, 13 Aug 2026 21:20:20 +0000 — https://variety.com/2026/film/news/matthew-mcconaughey-wedding-planner-mexico-border-jennifer-lopez-1236833933/
-
-Matthew McConaughey revealed on the Happy Sad Confused podcast that acting alongside Jennifer Lopez in 2001 s The Wedding Planner ended up getting him out of a major mess-up at the U.S.-Mexico border. I pull in one late night crossing the border going way down south, the actor recalled. I get pulled over, and it s one [ ]
-
-### Tramell Tillman Says I Had to Sign NDAs Before Even Meeting for Spider-Man: Brand New Day Role: A Little Frustrating Because Everything Was Shrouded in Secrecy
-Thu, 13 Aug 2026 20:32:05 +0000 — https://variety.com/2026/film/news/tramell-tillman-signed-ndas-spider-man-brand-new-day-role-meeting-1236834204/
-
-Tramell Tillman is going to play a big role in the Marvel Cinematic Universe’s future. And he can finally talk about it. Tillman, who won an Emmy last year for his supporting role in Apple TV’s “Severance,” had been hoping to appear in a Marvel movie for some time, and heard from his team that [ ]
-
 ## The Hollywood Reporter
+
+### The Ones With the Tempered Flowers Will Document a Woman Studying Her Body s Relationship to Self and Society in Tanzania
+Fri, 14 Aug 2026 06:59:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-ones-with-the-tempered-flowers-film-locarno-open-doors-1236672849/
+
+Neema Ngelime's inspiration to make an essayistic and participatory doc, showcased during Locarno Open Doors, was driven by anger "at how little interest there is in understanding women's bodies."
 
 ### Busan Film Festival to Honor Its Founder Kim Dong-ho with Korean Cinema Award
 Fri, 14 Aug 2026 05:30:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-founder-kim-dong-ho-korean-cinema-award-1236673433/
@@ -98,11 +103,6 @@ StubHub, the industry's largest ticket resale platform, spent $3.4 million this 
 Thu, 13 Aug 2026 22:55:10 +0000 — https://www.hollywoodreporter.com/tv/tv-news/christy-knowings-dead-all-that-1236673215/
 
 Her former co-star, Kenan Thompson, wrote in a tribute, "She was a real one and one of the funniest people out here."
-
-### Why Green Day Wanted to Be Background Characters in Their Own Movie
-Thu, 13 Aug 2026 22:49:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/green-day-background-characters-movie-nimrods-1236673233/
-
-'Nimrods' is a road trip comedy based on the band's music and personal stories, but sees Billie Joe Armstrong, Tré Cool and Mike Dirn taking a backseat.
 
 ## Deadline
 
