@@ -1,6 +1,16 @@
-# Film & TV — harvested 2026-08-14T10:43:45.370Z
+# Film & TV — harvested 2026-08-14T11:32:59.061Z
 
 ## Variety
+
+### San Sebastian Adds Jesse Eisenberg, Fred Cavayé, Amanda Kernell Films to Golden Shell Race
+Fri, 14 Aug 2026 11:14:29 +0000 — https://variety.com/2026/film/markets-festivals/san-sebastian-jesse-eisenberg-fred-cavaye-amanda-kernell-1236834484/
+
+The San Sebastián Film Festival has added six films to its 2026 Official Selection, including new works from Jesse Eisenberg, Fred Cavayé, Amanda Kernell and Gabriel Martins, alongside feature debuts from Ah Biao and Tony Vahl. The titles join 10 previously announced contenders and will compete for the Golden Shell at the festival’s 74th edition. [ ]
+
+### Golden Lion Winner Milcho Manchevski Talks Giving a Voice to Pulse Nightclub Survivors With ‘Good People’: Our Job Was to Stay Out of the Way
+Fri, 14 Aug 2026 11:01:19 +0000 — https://variety.com/2026/film/global/golden-lion-winner-milcho-manchevski-good-people-sarajevo-1236831946/
+
+It took over three decades for Macedonian filmmaker Milcho Manchevski — whose debut feature “Before the Rain” won the top award in Venice in 1994 and was Oscar nominated — to direct his first documentary. But when he first heard about the nightclub fire that took dozens of lives in North Macedonia in 2025, he [ ]
 
 ### The Devil Wears Prada 2 Is Drawing Tourists to Milan Prompting an 18% Increase in Visitors to the Film’s Locations in Italy’s Fashion Capital
 Fri, 14 Aug 2026 10:00:00 +0000 — https://variety.com/2026/film/global/the-devil-wears-prada-2-tourists-milan-italy-fashion-1236833591/
@@ -42,17 +52,12 @@ Fri, 14 Aug 2026 04:48:07 +0000 — https://variety.com/2026/music/news/troye-si
 
 Troye Sivan has kicked off a new era with the release of his new single She s the Best along with a music video co-starring Nicole Kidman. In the clip, directed by Gordon Von Steiner, Sivan holds the spotlight at a club filled with drag queens, including Sasha Colby. Kidman, a fellow Aussie, sips a drink [ ]
 
-### Phoebe Bridgers Leads Delighted Fans Around the Rink at a Rollerskating Listening Party for Lost Weekend
-Fri, 14 Aug 2026 04:28:05 +0000 — https://variety.com/2026/music/news/phoebe-bridgers-rollerskating-release-party-qa-lost-weekend-1236834356/
-
-Phoebe Bridgers tends to stand out in a crowd, and not just because of her celebrity or natural star quality, but because of the hair; other women around L.A. may go for the platinum blonde look, but not quite that platinum. So it was fairly easy to pick her out for the entirety of the [ ]
-
-### Oscar Predictions: Supporting Actress — Is This the Year of Penélope Cruz?
-Fri, 14 Aug 2026 01:00:00 +0000 — https://variety.com/feature/2027-oscars-best-supporting-actress-predictions-1236834272/
-
-Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
-
 ## The Hollywood Reporter
+
+### Michael Sheen and Director Simon Ryninks Reveal Their Personal Connections to Welsh Sci-Fi Caper Out There : This Really Pushed Buttons for Me
+Fri, 14 Aug 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/michael-sheen-out-there-film-wales-ufo-edinburgh-festival-1236670866/
+
+"I spent a year praying he would say yes, like a UFO believer," said Ryninks on tempting the Hollywood star aboard his Edinburgh-premiering feature. "I just had faith that he was out there, waiting for contact."
 
 ### Sarajevo Film Festival Boss Jovan Marjanović on Owning Its Powerful Origin Story: We Connect This Legacy of War and Build Bridges
 Fri, 14 Aug 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/sarajevo-film-festival-jovan-marjanovic-2026-interview-1236671995/
@@ -99,12 +104,12 @@ Thu, 13 Aug 2026 23:39:37 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 The section, which features films that expand the possibilities of the medium, includes 15 features and 28 shorts.
 
-### California Bill to Cap Concert Resale Ticket Prices Dies After Lobbying Frenzy
-Thu, 13 Aug 2026 23:18:38 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/california-bill-to-cap-concert-resale-ticket-prices-dies-1236673216/
-
-StubHub, the industry's largest ticket resale platform, spent $3.4 million this year lobbying against California's AB 1720.
-
 ## Deadline
+
+### Vancouver Queer Fest Lineup: Alan Cumming, Matthew Morrison, Michaela Jaé Rodriguez, Dylan Mulvaney EPs Odenkirk, Schoenbrun Wachowski
+Fri, 14 Aug 2026 10:45:22 +0000 — https://deadline.com/2026/08/vancouver-queer-festival-lineup-alan-cumming-matthew-morrison-1237033648/
+
+EXCLUSIVE: The 38th annual Vancouver Queer Film Festival (VQFF) will feature new films starring Alan Cumming, Matthew Morrison, Dylan Mulvaney and Michaela Jaé Rodriguez and exec-produced by Jane Schoenbrun, Lily Wachowski and Bob Odenkirk. Scroll down for the lineup in full. Running September 10–20, before streaming September 21–27, the event will comprise 87 feature-length and [ ]
 
 ### Jesse Eisenberg s The Debut Fred Cavayé s Les Misérables Among Six New Titles In San Sebastián Official Selection
 Fri, 14 Aug 2026 10:12:19 +0000 — https://deadline.com/2026/08/jesse-eisenberg-les-miserables-in-san-sebastian-selection-1237033612/
@@ -160,9 +165,4 @@ There s a 1970s movie sensibility in Steve Conrad s HBO limited series DTF St. L
 Thu, 13 Aug 2026 22:50:28 +0000 — https://deadline.com/2026/08/paramount-merger-teamsters-protest-1237033400/
 
 The DGA and IATSE may want to play footsie with Paramount over the state attorneys general antitrust lawsuit and hopes for a settlement. However, as the WGA has joined the charge against David Ellison s currently stalled $111 billion purchase of Warner Bros Discovery, a very strong arm of Hollywood labor has declared it s time to [ ]
-
-### John Cena Made Peace With Coyote vs. Acme Never Coming Out: I Don t Own My Performance
-Thu, 13 Aug 2026 22:41:17 +0000 — https://deadline.com/2026/08/john-cena-made-peace-coyote-vs-acme-never-coming-out-1237033383/
-
-As Coyote vs. Acme finally gets its day in court, John Cena has a pretty levelheaded reaction to the once-shelved movie premiering in theaters. The Emmy nominee explained how he can accept both the positive and the negative of the situation after Ketchup Entertainment saved the Dave Green-helmed Looney Tunes movie, which premieres Aug. 28 [ ]
 

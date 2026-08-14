@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-14T10:43:45.370Z
+# Games — harvested 2026-08-14T11:32:59.061Z
 
 ## Eurogamer
+
+### Marvel Tōkon: Fighting Souls review
+Fri, 14 Aug 2026 11:28:24 +0000 — https://www.eurogamer.net/marvel-tokon-fighting-souls-review
+
+Whenever I see the words "spiritual successor" attached to any new game, I immediately get concerned. You set a bar in the minds of old fans that can prove impossible to reach. This is not the next great Marvel vs Capcom game. It's not a Marvel vs Capcom game at all, in fact. It is, however, the best tag fighter I've played in years. Read more
 
 ### Netflix's gaming "secret weapon" is no more - Oxenfree studio Night School is to close
 Fri, 14 Aug 2026 10:40:50 +0000 — https://www.eurogamer.net/netflix-games-oxenfree-unhinged-studio-night-school-closed
@@ -57,12 +62,12 @@ Thu, 13 Aug 2026 10:50:38 +0000 — https://www.eurogamer.net/the-elder-scrolls-
 
 The Elder Scrolls 4: Oblivion Remastered arrived on Switch 2 earlier this week , immediately drawing praise for its well-optimised state. This is actually a bit of a problem - not because of how it runs on Switch 2 , but rather because of how it continues to run on PC, PS5 and Xbox Series X/S. Read more
 
-### 'I would frankly have been happy to replace her with AI' - extraordinary public spat between Saber CEO and writer "replaced with ChatGPT" intensifies
-Thu, 13 Aug 2026 10:42:35 +0000 — https://www.eurogamer.net/saber-ceo-sacco-chatgpt-ai-rideshare-stimulator-public-spat
-
-A public spat between Saber Interactive - creator of Warhammer 40,000: Space Marine 2 , the upcoming Suntman: Hollywood game and many others - and a former employee who claims she was "replaced" by ChatGPT has erupted over the past few days, and in the wake of new statements from either side has continued to intensify. Read more
-
 ## GamesIndustry.biz
+
+### 2K establishes AAA sports developer Small Axe Studios
+Fri, 14 Aug 2026 11:06:51 +0000 — https://www.gamesindustry.biz/2k-establishes-aaa-sports-developer-small-axe-studios
+
+2K has launched Small Axe Studios, an AAA development team based in Vancouver, Canada. Read more
 
 ### Arc Raiders generates $114.9m during Nexon's Q2, sells an additional 800,000 units
 Fri, 14 Aug 2026 10:28:03 +0000 — https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-units
@@ -114,21 +119,16 @@ Wed, 12 Aug 2026 13:07:48 +0000 — https://www.gamesindustry.biz/mmorpg-throne-
 
 Update, August 13, 2026: Amazon Game Studios has ended its publishing deal with Smilegate's MMO Lost Ark. Read more
 
-### How Planet of Lana became a hit through dogged determination after being rejected "hundreds" of times
-Wed, 12 Aug 2026 11:00:00 +0000 — https://www.gamesindustry.biz/how-planet-of-lana-became-a-hit-through-dogged-determination-after-being-rejected-hundreds-of-times
-
-The story of Planet of Lana is the story of triumph over adversity. But it's also one of naivety. The developers themselves admit they had no clue what they were doing at first. Read more
-
-### BAFTA Games Awards updates voting requirements and entry fees as it opens entries for 2027 ceremony
-Wed, 12 Aug 2026 10:46:01 +0000 — https://www.gamesindustry.biz/bafta-games-awards-updates-voting-requirements-and-entry-fees-as-it-opens-entries-for-2027-ceremony
-
-Entries for the 2027 BAFTA Games Awards are now open, alongside updates to its entry requirements, fee structure, and AI policy. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### System Shock, High on Life, More Are Breathing New Life into PSVR2
+Fri, 14 Aug 2026 10:45:00 GMT — https://www.pushsquare.com/news/2026/08/system-shock-high-on-life-more-are-breathing-new-life-into-psvr2
+
+Several PSVR2 games announced. PSVR2 is a fantastic bit of kit, and while there have been some great games that take advantage of the tech over the years, the release schedule has definitely felt a little lighter recently. It'll come as very welcome news to virtual reality fans, then, that the headset has just had multiple new games announced and/or release as part of the recent VR Games Showcase . Read the full article on pushsquare.com
 
 ### Netflix Shuts Down Oxenfree Dev Night School Studio as It Downscales In-House Game Teams
 Fri, 14 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/08/netflix-shuts-down-oxenfree-dev-night-school-studio-as-it-downscales-in-house-game-teams
@@ -185,12 +185,12 @@ Thu, 13 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/08/promis
 
 Gonna take you for a ride. In what has been one of the craziest industry sagas I've seen in a long time, PS5 driving simulator Rideshare "Stimulator" — which looked fun during its debut last month — is now being berated for its use of generative AI. It all started with former Saber Interactive writer Stella Sacco posting on social media just a couple of days ago. Read the full article on pushsquare.com
 
-### There s a New Indie Publisher, and It s Bringing All Its Games to PS5
-Thu, 13 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/08/theres-a-new-indie-publisher-and-its-bringing-all-its-games-to-ps5
-
-The folks behind Phamophobia expand. First and foremost, I must apologise to Kinetic Publishing: it gave me advanced access to all of its announcements earlier in the week, but life has been so hectic lately I wasn’t able to put together a story in time for its showcase. Some of you may have already seen the news, then: the new UK-based indie publisher – spun out of the team behind Phasmophobia – has signed five titles, and it’s bringing them all to the PS5. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Scabby versus Sharma, Twitch's GenAI admission, and Netflix shutters more studios - Patch Notes #65
+Fri, 14 Aug 2026 10:51:43 GMT — https://www.gamedeveloper.com/business/scabby-versus-sharma-twitch-s-genai-admission-and-netflix-shutters-more-studios-patch-notes-65
+
+Plus: Big sales for Big Walk and some welcome preservation news.
 
 ### Netflix closing Oxenfree developer Night School Studio and Moonloot Games
 Thu, 13 Aug 2026 19:54:15 GMT — https://www.gamedeveloper.com/business/netflix-closing-oxenfree-developer-night-school-studio-and-moonloot-games
@@ -246,9 +246,4 @@ A survey taken by 100 speakers at this year's Gamescom Dev Conference showcases 
 Wed, 12 Aug 2026 14:09:41 GMT — https://www.gamedeveloper.com/business/meccha-chameleon-tops-20m-sales-in-two-months
 
 The hide-and-seek sensation continues to surpass milestones.
-
-### Epic Games sells ArtStation and Sketchfab to KitBash
-Wed, 12 Aug 2026 13:54:15 GMT — https://www.gamedeveloper.com/business/epics-sells-artstation-and-sketchfab-to-kitbash
-
-The Fortnite maker purchased both platforms in 2021.
 
