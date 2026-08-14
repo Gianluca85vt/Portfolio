@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-14T16:34:59.253Z
+# Tech — harvested 2026-08-14T17:40:09.937Z
 
 ## Ars Technica
 
@@ -64,12 +64,27 @@ Ukrainian drone teams demolished a brigade of US Army tanks and armored vehicles
 
 ## The Verge
 
+### Google s best new camera feature is only for the Pixel 11 series
+2026-08-14T13:34:14-04:00 — https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones
+
+Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that "smartphone" look. The result is new styles like "Digi," which mimics the style of photos taken by older digital cameras. But to use Camera Looks, at least initially, you'll need to have one of Google's Pixel 11 phones. "Our latest camera updates are only available on our latest devices," Google spokesperson Alex Moriconi tells The Verge . "We're always looking to bring experiences to more users, but have nothing to share at this time." That last sentence … Read the full story at The Verge. ]]>
+
+### Mark Zuckerberg has an Instagzam
+2026-08-14T12:54:16-04:00 — https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast
+
+Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of The Vergecast , David and Nilay start by discussing the new logo, the executive urge to redesign everything all the time, and whether new is always better. After that, they get into the other big Meta release of the week: Mark Zuckerberg's many-thousand-word missive on the future of AI. There are a lot of ideas and proposals … Read the full story at The Verge. ]]>
+
+### You can now turn off Google Gemini s visible watermarks
+2026-08-14T12:39:32-04:00 — https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal
+
+Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update , you can toggle off a new "Media watermark" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the "sparkle" watermark that appears in the bottom-right corner of content generated with the company's Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible SynthID watermarks and C2PA metadata embedded in the background, according to Josh Woodward , the vice president of Google Labs, Gemini, and AI Studio. That means you … Read the full story at The Verge. ]]>
+
 ### 2025 GOTY Clair Obscur: Expedition 33 is down to $33
 2026-08-14T10:50:25-04:00 — https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale
 
 For RPG fans who dig Persona -style turn-based action and who are pursuing games with original stories and fantastic tunes, look no further than Clair Obscur: Expedition 33 . This praise might come off sounding weird, but I really like that Sandfall Interactive’s breakout hit isn’t overly long compared to RPGs it was inspired by. It’s worth buying while it’s $33.17 at Amazon (requires you to clip the coupon, originally $49.99). This is a rare opportunity to save quite a bit on one of 2025’s best games, though it’s on Xbox Game Pass if you subscribe to that. Unfortunately, the deal is only available for the Xbox Series X version and doesn’t extend to PlayStation 5. On PC, you can grab a Steam code from Fanatical for $35.49, which is also a nice deal. Read our review . Clair Obscur: Expedition 33 Where to Buy: $49.99 $33.17 at Amazon (Xbox Series X) Other great Verge-approved deals There are some great preorder incentives for Google’s Pixel 11 phones , especially if you also want its new Pixel Watch 5. The base Pixel 11 with 256GB of storage includes the watch at $130 off the usual combined amount. Normally $1,298, Amazon is offering the bundle for $1,168, which essentially reduces the price of the watch from $399 to $269. Buying the pricier Pixel 11 Pro that’s bundled with the watch will save you even more. Normally $1,499 together, the bundle is $1,248 — $250 off the watch and now just $100 more than the base Pixel 11 bundle. If you want more camera features, you should get t
 
-### CMF hit the balance between cheap and good clip earbuds
+### CMF s clip earbuds hit the balance between cheap and good
 2026-08-14T08:00:00-04:00 — https://www.theverge.com/tech/979928/cmf-clip-pro-review
 
 The Clip Pro are the first clip-style earbuds from CMF, Nothing’s budget sub-brand. Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambient awareness is great because you can easily hear the sound around you, which means to hear your own music the buds need to be turned up and potentially leak sound out to your neighbors. For what they offer, they can also get pricey, with popular pairs from Bose, Sony, and Shokz reaching $200. The CMF Clip Pro, though, are under $100, and while they still have those compromises, they handle them well. CMF Clip Pro Score: 7 Pro … Read the full story at The Verge. ]]>
@@ -98,21 +113,6 @@ Apple has reportedly trained a custom AI model for the China market alongside do
 2026-08-13T21:06:15-04:00 — https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts
 
 The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers , robots , and Roombas . Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential action , he's declared a whopping 100 percent tariff on imports of drones with thermal cameras, drones weighing over 25kg (57 pounds), and any kind of part for any kind of unmanned aircraft weighing over 25kg - you can read the full list here. For all other drones, including tiny sub-250-gram "Mini" consumer drones, he's declared … Read the full story at The Verge. ]]>
-
-### Apple and Epic argue over how much Apple should get from purchases made outside the App Store
-2026-08-13T19:13:24-04:00 — https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing
-
-In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is "far outside of the bounds" of the court's guidance. Right now, Apple cannot take a commission on external purchases after California district court judge Yvonne Gonzalez Rogers ruled in April 2025 that the company "willfully" didn't comply with her 2021 Epic Games v. Apple injunction . However, a Ninth Circuit Court of Appeals panel said that Apple should … Read the full story at The Verge. ]]>
-
-### ‘That is not acceptable’: Judge orders Google to make rival app store installs easier
-2026-08-13T17:53:04-04:00 — https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier
-
-One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously decided that Google had an illegal monopoly over Android apps, and almost two years since Judge Donato decided the best way of undoing that monopoly would be to crack open Android app distribution. Donato ordered Google to carry rival Android app stores inside its own Google Play Store , and to provide rivals with complete acce … Read the full story at The Verge. ]]>
-
-### The fight over Flock and other ALPRs
-2026-08-13T17:46:21-04:00 — https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy
-
-There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and people s movements throughout the day and across the country. Dozens of communities have canceled contracts for the cameras or turned them off, including Los Angeles , as officials have pushed for more limits on the data they collect, who has access to it, and how it can be used in the future. Earlier this year, Amazon-owned Ring canceled a partnership with Flock after online backlash. Flock CEO: ‘We got this one wrong’ Flock cameras? Target practice. Another grim portent for our AI policing future. The LAPD has suspended its use of Flock’s license plate readers, for now. No, Flock isn t threatening people for debating surveillance The all-too-predictable Flock stalking problem. Let s talk about Ring, lost dogs, and the surveillance state Ring’s Flock breakup doesn’t fix its real problem Flock is “pausing further exploration of a potential partnership with Ring.” Ring cancels its partnership with Flock Safety after surveillance backlash Dozens of Flock AI camera feeds were just out there AI annotators overseas may be reviewing Flock license plate camera footage from the US. Amazon’s Ring now works with video surveillance company Flock Unprotected license plate surveillance cameras le
 
 ## Tom's Hardware
 

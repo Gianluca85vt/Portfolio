@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-14T16:34:59.253Z
+# Games — harvested 2026-08-14T17:40:09.937Z
 
 ## Eurogamer
 
@@ -63,6 +63,11 @@ Thu, 13 Aug 2026 14:59:10 +0000 — https://www.eurogamer.net/you-have-fewer-tha
 Today, The Pok&eacute;mon Company announced that it's shutting down Pok&eacute;mon Bank, the Pok&eacute;mon storage app was that was originally released for the Nintendo 3DS back in 2013. The service goes offline on 26th February, 2027, so you've still got plenty of time to access your old pals and begin migrating them into your new games, if you've got the time and energy. Read more
 
 ## GamesIndustry.biz
+
+### Modern consumers crave "events", and the games industry needs to provide them | Opinion
+Fri, 14 Aug 2026 16:39:59 +0000 — https://www.gamesindustry.biz/modern-consumers-crave-events-and-the-games-industry-needs-to-provide-them-opinion
+
+For almost as long as the games industry has existed, the conventional wisdom around sequels has remained the same: strike while the iron is hot. If you have a hit game, ensure you get a sequel out the door before the public loses interest. If you have more than one hit in a row, that's a franchise, and those need a steady release cadence to ensure the brand's momentum doesn't falter. Read more
 
 ### Niko Partners: India games market exceeds $1bn, forecast to reach $1.2bn by end of 2026
 Fri, 14 Aug 2026 13:47:08 +0000 — https://www.gamesindustry.biz/niko-partners-india-games-market-exceeds-1bn-forecast-to-reach-12bn-by-end-of-2026
@@ -216,9 +221,4 @@ Nine people have been laid off across two locations, while another nine develope
 Thu, 13 Aug 2026 10:01:23 GMT — https://www.gamedeveloper.com/production/library-video-game-preservation-project-back-on-track-after-trump-funding-cuts
 
 'We can't trust Sony, we can't trust Microsoft to preserve things.'
-
-### Amazon to rescind its publisher role on Lost Ark and Throne and Liberty by early 2027
-Wed, 12 Aug 2026 16:38:37 GMT — https://www.gamedeveloper.com/business/amazon-to-rescind-its-publisher-role-on-lost-ark-and-throne-and-liberty-by-early-2027
-
-Amazon Games is returning the MMOs to their respective developers.
 
