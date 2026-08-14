@@ -1,6 +1,26 @@
-# Film & TV — harvested 2026-08-14T12:29:17.422Z
+# Film & TV — harvested 2026-08-14T14:03:26.345Z
 
 ## Variety
+
+### Cinema Guild Takes North American Rights on Éric Baudelaire s For the Moon Ahead of New York Film Festival Launch (EXCLUSIVE)
+Fri, 14 Aug 2026 14:00:00 +0000 — https://variety.com/2026/film/global/cinema-guild-eric-baudelaire-for-the-moon-new-york-festival-1236834421/
+
+Indie distributor Cinema Guild has acquired North American distribution rights for documentary For The Moon ( Car la Lune ), directed by Éric Baudelaire, that will premiere in the Currents section of the upcoming New York Film Festival. The film is a collaborative work created with five visually impaired students at the National Institute for the Young [ ]
+
+### Objet a Review: Ann Oren’s Wickedly Kinky Curiosity Eroticizes Everything From Mushrooms to Mushroom Cuts
+Fri, 14 Aug 2026 13:50:23 +0000 — https://variety.com/2026/film/reviews/objet-a-review-1236833854/
+
+“Objet a” was Lacan’s term for the lack, the absence, that sets our desires into motion; an object-cause rather than a physical object. If it were the latter, a more apt title for Ann Oren s delicious new film would be Object A to Z, given the impressively vast range of things — everyday and obscure, [ ]
+
+### Ana Vaz Discusses the Impact of the Fukushima Nuclear Disaster, the Work of Yoko Hayasuke and Preferring to Be a Mother Rather than a Zombie
+Fri, 14 Aug 2026 13:29:23 +0000 — https://variety.com/2026/film/global/ana-vaz-locarno-fukushima-nuclear-disaster-hanabi-1236834548/
+
+“When you begin again, you repeat everything,” reflects experimental filmmaker Ana Vaz, thinking of her home country Brazil and the setting of her new feature, Hanabi, in Japan. “There s a normalization of the state of catastrophe and disaster necessary for the system to perpetrate itself. It needs catastrophe in order to exist.” In the wake [ ]
+
+### Busan Film Festival to Honor Founder Director Kim Dong-ho With Korean Cinema Award
+Fri, 14 Aug 2026 13:03:33 +0000 — https://variety.com/2026/film/festivals/busan-film-festival-kim-dong-ho-korean-cinema-award-1236834556/
+
+Kim Dong-ho, founding festival director of the Busan International Film Festival, has been named the recipient of the 31st BIFF s Korean Cinema Award. The honor goes to figures whose work has shaped Korean cinema and helped raise its profile abroad. Kim began his career at the Ministry of Culture and Information, now the Ministry of [ ]
 
 ### San Sebastian Adds Jesse Eisenberg, Fred Cavayé, Amanda Kernell Films to Golden Shell Race
 Fri, 14 Aug 2026 11:14:29 +0000 — https://variety.com/2026/film/markets-festivals/san-sebastian-jesse-eisenberg-fred-cavaye-amanda-kernell-1236834484/
@@ -32,27 +52,32 @@ Fri, 14 Aug 2026 08:12:38 +0000 — https://variety.com/2026/film/reviews/you-do
 
 Florin Şerban’s “You Don’t Belong Here” opens with great promise and finishes with a stupefyingly misguided coda: The lengthy minutes in between are rigorously filmed and sharply observed, but would have benefited enormously if the director wasn’t also the producer, writer and editor. Airless pauses between nearly every line of dialogue and a mostly fixed [ ]
 
-### Fukada Koji, Jakrawal Nilthamrong, Boo Junfeng Films Win Busan Co-Production Fund
-Fri, 14 Aug 2026 07:38:46 +0000 — https://variety.com/2026/film/markets-festivals/fukada-koji-jakrawal-nilthamrong-boo-junfeng-busan-fund-1236834448/
-
-The Busan International Film Festival s Asian Cinema Fund (ACF) has selected three international co-productions for its 2026 Co-Production Support Fund, backing films from directors Fukada Koji, Jakrawal Nilthamrong and Boo Junfeng with a combined KRW140 million ($100,000) in production funding. The three projects – Grateful, Rhizome and Trinity – were chosen from 15 submissions following [ ]
-
-### Rani Mukerji Receives La Trobe Honorary Doctorate, Wins IFFM Special Citation
-Fri, 14 Aug 2026 07:16:25 +0000 — https://variety.com/2026/film/news/rani-mukerji-la-trobe-honorary-doctorate-iffm-citation-1236834439/
-
-Bollywood star Rani Mukerji has been awarded an Honorary Doctor of Letters by Australia s La Trobe University for three decades of work in Indian cinema and her contributions off screen, the university said. She is the second Indian film figure to receive the distinction, after superstar Shah Rukh Khan s honor in 2019. Receiving this honorary [ ]
-
-### COL AI Studios Launches to Expand Group s Global Distribution Network (EXCLUSIVE)
-Fri, 14 Aug 2026 07:00:00 +0000 — https://variety.com/2026/film/news/col-ai-studios-launch-global-distribution-1236834136/
-
-COL Group has launched COL AI Studios, a new entertainment vertical designed to help platforms, studios and brands develop, test and scale content beyond traditional licensing deals. The studio builds on a distribution network that now counts over 5,000 live-action titles, up from a base of just over 1,000 when the network first launched, with [ ]
-
-### Troye Sivan Brings Nicole Kidman to the Club for She s the Best Music Video
-Fri, 14 Aug 2026 04:48:07 +0000 — https://variety.com/2026/music/news/troye-sivan-nicole-kidman-shes-the-best-music-video-1236834397/
-
-Troye Sivan has kicked off a new era with the release of his new single She s the Best along with a music video co-starring Nicole Kidman. In the clip, directed by Gordon Von Steiner, Sivan holds the spotlight at a club filled with drag queens, including Sasha Colby. Kidman, a fellow Aussie, sips a drink [ ]
-
 ## The Hollywood Reporter
+
+### Critics Pick Summer TV s Beauties and Bores
+Fri, 14 Aug 2026 13:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/best-tv-of-the-summer-furious-sterling-point-critics-picks-1236671299/
+
+A globe-conquering sports event, a searing feminist thriller and a refreshing YA drama emerged among the season’s winners. Others missed the mark.
+
+### Christine Vachon Jokes She Likes Pedro Pascal Better Than Joaquin Phoenix in Todd Haynes De Noche
+Fri, 14 Aug 2026 13:16:51 +0000 — https://www.hollywoodreporter.com/movies/movie-news/christine-vachon-de-noche-pedro-pascal-film-edinburgh-1236673549/
+
+The prolific indie producer spoke at an Edinburgh Film Festival session, where she also touched on the queer film landscape: "We have 'Heated Rivalry' which couldn't be a bigger hit, and we still have politicians campaigning on who gets to use what bathroom."
+
+### ABC and NBC to Add 11 More NBA Games This Season, Further Squeezing Hollywood
+Fri, 14 Aug 2026 13:13:58 +0000 — https://www.hollywoodreporter.com/tv/tv-news/abc-nbc-more-nba-games-blow-hollywood-1236673576/
+
+Another 33 hours or so of broadcast TV airtime will be handed over to live games, with original network programming and reruns losing out.
+
+### Sentimental Value Screenwriter Gets Backing For Next Directorial Feature
+Fri, 14 Aug 2026 12:56:47 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sentimental-value-screenwriter-backed-to-direct-new-feature-1236673577/
+
+Eskil Vogt, a dual Oscar nominee for for Best Original Screenplay for 'Sentimental Value' and 'The Worst Person in the World,' is prepping his next film as a director, the psychological thriller 'Untitled.'
+
+### Accept My Plea for Burial Will Explore Moral Conflicts of Ordinary People Through a Somali Lens
+Fri, 14 Aug 2026 12:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/accept-my-plea-for-burial-somalia-film-locarno-open-doors-1236673517/
+
+Mohammed Sheikh, who brought the project to Locarno Open Doors, where it won one of the main awards, discusses his cinematic story about such universal themes as "loss, grief, love, family, justice."
 
 ### Come With Me, Psychological Thriller Starring Theo Rossi and Ron Perlman, Sells to Vertical and Gets First Trailer (Exclusive)
 Fri, 14 Aug 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/come-with-me-film-theo-rossi-ron-perlman-sale-trailer-1236672880/
@@ -79,32 +104,12 @@ Fri, 14 Aug 2026 05:30:07 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 The 88-year-old Korean industry luminary, who founded the festival in 1996 and made his own feature directorial debut last year, will accept the prize at the Oct. 6 opening ceremony.
 
-### Alexa Nikolas Wins Key Ruling In Defamation Case Against Bryan Freedman Over Smear Claims
-Fri, 14 Aug 2026 02:43:29 +0000 — https://www.hollywoodreporter.com/business/business-news/alexa-nikolas-defamation-case-bryan-freedman-1236673163/
-
-Justin Baldoni's lawyer and crisis publicist Melissa Nathan are implicated in the creation of smear websites, a court finds.
-
-### Jenna Ortega s Sister Reacts to Public Discourse Over Wednesday Star s Appearance
-Fri, 14 Aug 2026 02:23:08 +0000 — https://www.hollywoodreporter.com/news/general-news/jenna-ortega-sister-reacts-discourse-actress-appearance-1236673428/
-
-A recent video interview with 'Esquire' has led to a wave of online commentary about Ortega's health and body.
-
-### American Horror Story Season 13: Everything We Know
-Fri, 14 Aug 2026 01:49:51 +0000 — https://www.hollywoodreporter.com/lists/american-horror-story-season-13-everything-we-know-guide/
-
-The 13th installment of Ryan Murphy and Brad Falchuk's horror anthology series is returning — and in a big way.
-
-### The War Over Warner Bros. Is Splintering Hollywood s Labor World
-Fri, 14 Aug 2026 00:40:50 +0000 — https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-labor-world-1236673223/
-
-Rob Bonta and David Ellison are dividing the unions, whose members have diverging interests on the way the antitrust battle against a merged Paramount and Warner Bros. is waged.
-
-### Tyler Duckworth, The Challenge Winner, Dies at 44
-Thu, 13 Aug 2026 23:46:11 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tyler-duckworth-dead-the-challenge-winner-44-1236673350/
-
-Duckworth joined the MTV family as a castmember on 'The Real World: Key West' in 2006.
-
 ## Deadline
+
+### Lightdox Acquires ‘Auber 89’ Ahead Of Doc’s World Premiere at Venice Film Festival Sidebar Giornate Degli Autori
+Fri, 14 Aug 2026 12:43:47 +0000 — https://deadline.com/2026/08/auber-89-lightdox-acquisition-1237036626/
+
+EXCLUSIVE: International sales and distribution agency Lightdox has acquired Giuseppe Schillaci’s documentary Auber 89 ahead of its world premiere at the Giornate degli Autori s Notti Veneziane (Venetian Nights), a sidebar of the Venice Film Festival. The nonfiction feature examines the experience of Fatsah Bouyahmed, a French Algerian actor who suffered memory loss after an accident. [ ]
 
 ### Paramount s 5 Asks Nigel Farage: Where Does The Money Come From? After Binface By-Election
 Fri, 14 Aug 2026 12:24:21 +0000 — https://deadline.com/2026/08/nigel-farage-where-does-money-come-from-paramount-5-binface-1237033649/
@@ -160,9 +165,4 @@ He wasn t there in person this time, but he was there in spirit. And spirit is w
 Fri, 14 Aug 2026 00:50:32 +0000 — https://deadline.com/2026/08/big-brother-season-28-week-5-eviction-cbs-1237033488/
 
 SPOILER ALERT: This post contains details on Big Brother Season 28, Episode 19, which aired on Thursday, August 13. Julie Chen Moonves returned to host another live eviction of Big Brother Season 28 as the competition heats up in a divided house. La Trice Verrett was the Head of Household (HOH) in Week 5 of [ ]
-
-### Julianne Nicholson Was Concerned About Reprising Mare of Easttown Role In Task Season 2: Do I Know Who This Person Is?
-Fri, 14 Aug 2026 00:43:02 +0000 — https://deadline.com/2026/08/julianne-nicholson-concerned-reprising-mare-of-easttown-role-task-1237033475/
-
-As Julianne Nicholson prepares to reprise her Mare of Easttown role, she s had to get back in touch with the character. The 2x Emmy winner, who won her first in 2021 for playing Lori Ross on the HBO series, explained that she was concerned about expectations for bringing the character back in the upcoming second [ ]
 

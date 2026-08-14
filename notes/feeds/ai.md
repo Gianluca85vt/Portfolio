@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-14T12:29:17.422Z
+# AI — harvested 2026-08-14T14:03:26.345Z
 
 ## OpenAI
 
@@ -28,18 +28,10 @@ Thu, 13 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/icml-2026-open-rep
 ### Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis
 Wed, 12 Aug 2026 16:14:36 GMT — https://huggingface.co/blog/allenai/olmoearth-embeddings
 
-### LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge
-Wed, 12 Aug 2026 14:00:51 GMT — https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b
-
 ## Google DeepMind
 
 ### Introducing Gemini 3.7 Flash
 Thu, 13 Aug 2026 17:04:18 +0000 — https://deepmind.google/blog/introducing-gemini-3-7-flash/
-
-### Putting sign language AI into users’ hands
-Wed, 12 Aug 2026 14:01:59 +0000 — https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/
-
-Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.
 
 ## VentureBeat AI
 

@@ -1,6 +1,21 @@
-# Manga — harvested 2026-08-14T12:29:17.422Z
+# Manga — harvested 2026-08-14T14:03:26.345Z
 
 ## Anime News Network
+
+### Disney+ Releases Made in Korea Season 2 Live-Action Show's Prequel Webtoon
+Fri, 14 Aug 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-13/disney-releases-made-in-korea-season-2-live-action-show-prequel-webtoon/.240391
+
+Webtoon bridges 2 seasons, depicting events from 9-year period that led Baek toward center of power
+
+### See Ghost in the Shell's Reach Across Decades at Official Exhibition
+Fri, 14 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-08-14/see-ghost-in-the-shell-reach-across-decades-at-official-exhibition/.236857
+
+Want to experience Ghost in the Shell: The Exhibition yourself? The exhibition is currently at the Hyogo Prefectural Museum of Art until August 30.
+
+### Pokémon Pokopia Game Crosses 5 Million Units Sold Worldwide
+Fri, 14 Aug 2026 08:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/pokemon-pokopia-game-crosses-5-million-units-sold-worldwide/.240580
+
+Part 1 of Expansion Pass DLC added underwater Bubbly Basin town on August 5 along with free update featuring new Pokémon
 
 ### Deadline: Disney+ Cancels New Power Rangers Series
 Fri, 14 Aug 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/deadline-disney-cancels-new-power-rangers-series/.240577
@@ -46,21 +61,6 @@ Ueda voices Militaria Remote, Inada voices Dark Dragon in show's 8th episode nex
 Fri, 14 Aug 2026 00:08:15 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/live-action-tengu-no-daidokoro-season-3-reveals-more-cast-october-1-debut/.240562
 
 Hinata Hiiragi, Shūji Okui, Jōji Kunihiro, Yuno Nagao join returning cast members
-
-### Hell Mode Anime Season 2 Unveils More Cast
-Fri, 14 Aug 2026 00:07:36 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/hell-mode-anime-season-2-unveils-more-cast/.240566
-
-Yuuki Sanpei, Yasuyuki Kase, Kō Bonkobara, Satoshi Tsuruoka, Takaaki Torashima, Shinya Takahashi join cast
-
-### McDonald's Offers One Piece x SpongeBob SquarePants Happy Meals Around the World
-Thu, 13 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-13/mcdonald-offers-one-piece-x-spongebob-squarepants-happy-meals-around-the-world/.240565
-
-Monkey D. SquarePants is looking for the One Piece in a pineapple under the sea.
-
-### Demon Slayer: Kimetsu no Yaiba Café Opens in Chicago
-Thu, 13 Aug 2026 23:30:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-13/demon-slayer-kimetsu-no-yaiba-cafe-opens-in-chicago/.240550
-
-Demon Slayer's entertainment district moves to the Windy City for a limited time
 
 ## Crunchyroll News
 

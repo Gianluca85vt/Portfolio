@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-14T12:29:17.422Z
+# Games — harvested 2026-08-14T14:03:26.345Z
 
 ## Eurogamer
+
+### Nintendo announces Pokémon Pokopia has sold over 5m copies, meaning that roughly one in four Switch 2 users now owns the game
+Fri, 14 Aug 2026 13:19:08 +0000 — https://www.eurogamer.net/pokemon-pokopia-5m-sales
+
+It looks like we've got another massive Pok&eacute;mon-flavoured hit on our hands. Nintendo and The Pok&eacute;mon Company have confirmed that Pok&eacute;mon Pokopia has sold more than five million units globally - a pretty impressive number given the game has been out for "just over four months". These sales include both physical and digital editions of the game. Read more
 
 ### EA Sports FC might be getting a proper football game challenger, as 2K sets up new studio to make its "next blockbuster sports franchise"
 Fri, 14 Aug 2026 11:53:36 +0000 — https://www.eurogamer.net/2k-sports-new-studio-ea-sports-fc-football-challenger
@@ -57,12 +62,12 @@ Thu, 13 Aug 2026 12:57:59 +0000 — https://www.eurogamer.net/the-elder-scrolls-
 
 Following Xbox CEO Asha Sharma's recent redacted tease of a subtitle for the long-awaited Elder Scrolls 6, it's been discovered the game's full name might have been hiding in developer Bethesda's most recent release, Starfield , all along. Read more
 
-### Abandon single-player, move development to Saudi Arabia, "reduce labour"? Experts on what EA's huge buyout debt could really mean
-Thu, 13 Aug 2026 11:59:07 +0000 — https://www.eurogamer.net/ea-private-experts-financial-strain-cuts-politics
-
-Last week, the private acquisition of Electronic Arts finally happened . After months of governmental approval and debate, one of gaming's largest publishers has gone private, co-owned by a combination of private equity companies and the Kingdom of Saudi Arabia's Public Investment Fund. Read more
-
 ## GamesIndustry.biz
+
+### Niko Partners: India games market exceeds $1bn, forecast to reach $1.2bn by end of 2026
+Fri, 14 Aug 2026 13:47:08 +0000 — https://www.gamesindustry.biz/niko-partners-india-games-market-exceeds-1bn-forecast-to-reach-12bn-by-end-of-2026
+
+India's games market exceeded $1 billion in revenue for the first time in 2025, up 14.8% year over year to $1.04 billion. Read more
 
 ### 2K establishes AAA sports developer Small Axe Studios
 Fri, 14 Aug 2026 11:06:51 +0000 — https://www.gamesindustry.biz/2k-establishes-aaa-sports-developer-small-axe-studios
@@ -109,21 +114,21 @@ Wed, 12 Aug 2026 15:45:01 +0000 — https://www.gamesindustry.biz/saber-interact
 
 Update, August 13, 2026: Saber Interactive CEO Matt Karch has responded to accusations that former lead writer Stella Sacco was replaced with ChatGPT on Rideshare Simulator. Read more
 
-### CodeDev Group launches dev studio Full Spectrum Interactive
-Wed, 12 Aug 2026 13:58:09 +0000 — https://www.gamesindustry.biz/codedev-group-launches-dev-studio-full-spectrum-interactive
-
-CodeDev Group, also known as The Unreal Guys , has launched a new studio called Full Spectrum Interactive. Read more
-
-### Amazon steps back from MMOs, transfers operations of Throne and Liberty and Lost Art to NC and Smilegate
-Wed, 12 Aug 2026 13:07:48 +0000 — https://www.gamesindustry.biz/mmorpg-throne-and-liberty-transitions-from-amazon-game-studios-to-nc-formerly-ncsoft
-
-Update, August 13, 2026: Amazon Game Studios has ended its publishing deal with Smilegate's MMO Lost Ark. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Mafia Remake Joins The Old Country on PS5 in Full Series Collection with 60FPS, Visual Upgrades
+Fri, 14 Aug 2026 13:15:00 GMT — https://www.pushsquare.com/news/2026/08/mafia-remake-joins-the-old-country-on-ps5-in-full-series-collection-with-60fps-visual-upgrades
+
+Update: No free PS5 upgrade for PS Plus owners. A new bundle containing every Mafia game to date will launch tomorrow to coincide with the release of Mafia: The Old Country expansion Man of Honor . The Omertà Collection bundles together all three Definitive Editions of the original Mafia trilogy, The Old Country, and the Man of Honor DLC. Most importantly, however, the version of Mafia: Definitive Edition included is a new native PS5 edition sporting 60 frames-per-second support as well as "technical improvements". Read the full article on pushsquare.com
+
+### Halo: Campaign Evolved PS5 Update Lands Next Week with Tech Fixes
+Fri, 14 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/halo-campaign-evolved-ps5-update-lands-next-week-with-tech-fixes
+
+A better Sgt. Johnson and updates to Jackals. Halo Studios has announced a new PS5 update for Halo: Campaign Evolved will go live next week that includes a raft of fixes and technical improvements. There'll be more to the patch, but the developer has shared some of the biggest things it's fixing with the update: Read the full article on pushsquare.com
 
 ### You ll Have to Wait Until 2028 to Play PS5 s Shiniest, Jankiest Sci-Fi Adventure
 Fri, 14 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/youll-have-to-wait-until-2028-to-play-ps5s-shiniest-jankiest-sci-fi-adventure
@@ -165,11 +170,6 @@ Thu, 13 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/gritty
 
 Another one. If you're a fan of Soulslikes or just fantasy-themed action RPGs in general, then you might want to keep an eye out for 'The Weavers' (as it's currently known). Based on numerous leaks up until this point — which have suddenly spiralled out of control — this is a gritty action RPG from HoYoverse, currently in development for consoles and PC. Read the full article on pushsquare.com
 
-### Mafia Remake Joins The Old Country on PS5 in Full Series Collection with 60FPS, Visual Upgrades
-Thu, 13 Aug 2026 17:45:00 GMT — https://www.pushsquare.com/news/2026/08/mafia-remake-joins-the-old-country-on-ps5-in-full-series-collection-with-60fps-visual-upgrades
-
-Say hello to The Omerta Collection on PS5. A new bundle containing every Mafia game to date will launch tomorrow to coincide with the release of Mafia: The Old Country expansion Man of Honor . The Omertà Collection bundles together all three Definitive Editions of the original Mafia trilogy, The Old Country, and the Man of Honor DLC. Most importantly, however, the version of Mafia: Definitive Edition included is a new native PS5 edition sporting 60 frames-per-second support as well as "technical improvements". Read the full article on pushsquare.com
-
 ### Round Up: Marvel s Wolverine Sounds Like Another Great Superhero Blockbuster in PS5 Previews
 Thu, 13 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/features/round-up-marvels-wolverine-sounds-like-another-great-superhero-blockbuster-in-ps5-previews
 
@@ -179,11 +179,6 @@ The best there is? Hands-on previews have begun coming in for Marvel's Wolverine
 Thu, 13 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/still-not-sold-on-dawnwalker-dev-presents-everything-you-need-to-know-about-the-open-world-rpg
 
 Night by night. The Blood of Dawnwalker is probably the most anticipated RPG coming to PS5 right now, and with its 3rd September release date fast approaching, it's time for developer Rebel Wolves to orchestrate one last marketing push. To be fair, the studio's already marketed the hell out of Dawnwalker in partnership with publisher Bandai Namco up until this point — but if you're still not quite sold on the game, I'd recommend giving this overview video a watch. Read the full article on pushsquare.com
-
-### Darksiders 4, Next Kingdom Come Game Both Planned to Launch Before March 2028
-Thu, 13 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/darksiders-4-next-kingdom-come-game-both-planned-to-launch-before-march-2028
-
-Plenty of time to catch up. Two big games from publisher THQ Nordic are on the way within its financial year 2027/28, meaning they should arrive by March 2028 at the latest. The two titles in question are Darksiders 4 and the next Kingdom Come title, which is likely to be named Kingdom Come Salvation . Read the full article on pushsquare.com
 
 ## Game Developer
 
