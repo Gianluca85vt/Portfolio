@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-14T15:34:52.685Z
+# AI — harvested 2026-08-14T16:34:59.253Z
 
 ## OpenAI
 
@@ -27,9 +27,6 @@ Thu, 13 Aug 2026 17:16:04 GMT — https://huggingface.co/blog/amazon/strands-ler
 
 ### What We Learned by Reproducing 2,200 papers from ICML
 Thu, 13 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/icml-2026-open-reproductions
-
-### Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis
-Wed, 12 Aug 2026 16:14:36 GMT — https://huggingface.co/blog/allenai/olmoearth-embeddings
 
 ## Google DeepMind
 

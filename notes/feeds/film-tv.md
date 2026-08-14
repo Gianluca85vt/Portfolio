@@ -1,6 +1,41 @@
-# Film & TV — harvested 2026-08-14T15:34:52.685Z
+# Film & TV — harvested 2026-08-14T16:34:59.253Z
 
 ## Variety
+
+### Spider-Man: Beyond the Spider-Verse Trailer Leaks Online, Prompting Co-Writer Chris Miller to Speak Out: Not a Fan of Leaks of Unfinished Footage
+Fri, 14 Aug 2026 16:12:46 +0000 — https://variety.com/2026/film/news/spider-man-beyond-spider-verse-trailer-leak-1236834648/
+
+Spider-Man: Beyond the Spider-Verse is the latest movie to get hit by an unauthorized leak. The trailer for the third Spider-Verse movie, which is scheduled to hit theaters on June 18, 2027, appeared to leak online on Twitter/X this week. Co-writer and producer Chris Miller disavowed the leak on Friday, writing Not a fan of [ ]
+
+### Oscar Predictions: Best Director — Could Christopher Nolan Triumph Again With The Odyssey ?
+Fri, 14 Aug 2026 16:05:00 +0000 — https://variety.com/feature/2027-oscars-best-director-predictions-1236834268/
+
+Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
+
+### Kyle Chandler and Aaron Pierre Are Great Lanterns , but HBO s DC Drama Is Overshadowed by Its Influences: TV Review
+Fri, 14 Aug 2026 16:00:00 +0000 — https://variety.com/2026/tv/reviews/lanterns-review-kyle-chandler-aaron-pierre-hbo-dc-1236833207/
+
+Of all the superheroes to give the gritty realism treatment, the Green Lantern is an odd choice. Tasked with enforcing intergalactic order with a magic ring bestowed by a group of blue aliens (before the Na’avi, there were the Guardians), the character occupies the opposite end of the tonal spectrum from Bruce Wayne stalking the [ ]
+
+### Neil deGrasse Tyson, Neal Stephenson, Mira Lane, Rod Roddenberry to Judge XPRIZE Sci-Fi Film Competition
+Fri, 14 Aug 2026 16:00:00 +0000 — https://variety.com/2026/tv/news/neil-degrasse-tyson-judges-xprize-scifi-film-competition-1236834144/
+
+XPRIZE announced the judges for its sci-fi film competition, which aims to inspire optimistic adaptations of a technology-enabled future. Neil deGrasse Tyson, Neal Stephenson, Mira Lane and Rod Roddenberry will preside over the competition. The panel will help select the grand prize winner, who will be named at Moonshots Live on Sept. 25 in Los [ ]
+
+### Netflix Orders YA Gothic Romance Sid Zoey, Blumhouse Atomic Monster and Bad Robot to Produce
+Fri, 14 Aug 2026 15:57:34 +0000 — https://variety.com/2026/tv/news/netflix-ya-gothic-romance-sid-zoey-blumhouse-bad-robot-1236834636/
+
+In a competitive situation, Netflix has greenlit the YA romance series Sid Zoey. The show hails from creator Jon Kasdan and writer John Shiban. Both also serve as executive producers and co-showrunners. Blumhouse Atomic Monster and Bad Robot also executive produce. Netflix has given the show an eight-episode order. The logline for the show [ ]
+
+### J. Smith-Cameron and Jefferson White Cast in Jeff Rutherford’s Sophomore Feature In Our Own Sweet Way (EXCLUSIVE)
+Fri, 14 Aug 2026 15:45:00 +0000 — https://variety.com/2026/film/news/j-smith-cameron-jefferson-white-jeff-rutherford-in-our-own-sweet-way-1236834558/
+
+Succession star J. Smith-Cameron will star alongside Yellowstone actor Jefferson White in the upcoming independent feature film In Our Own Sweet Way from director, writer, and producer Jeff Rutherford. The film recently wrapped and is being produced under Rutherford s banner Fred Senior Films, in association with Stoner Ranch Productions, Echo Add, and Fair Oaks [ ]
+
+### Box Office: End of Oak Street Makes $2.5 Million in Previews
+Fri, 14 Aug 2026 15:42:21 +0000 — https://variety.com/2026/film/box-office/box-office-end-of-oak-street-previews-1236833323/
+
+Dinosaur fans are in luck because two prehistoric films, The End of Oak Street and Paw Patrol: The Dino Movie, are hitting theaters this weekend, but they ll be no match for reigning box office champion Spider-Man: Brand New Day. Warner Bros. The End of Oak Street, starring Anne Hathaway and Ewan McGregor as suburbanites magically [ ]
 
 ### The Mandalorian and Grogu Sets Disney+ Release Date in September
 Fri, 14 Aug 2026 15:08:11 +0000 — https://variety.com/2026/film/news/the-mandalorian-and-grogu-disney-plus-streaming-release-date-1236788894/
@@ -17,42 +52,47 @@ Fri, 14 Aug 2026 14:53:27 +0000 — https://variety.com/2026/shopping/news/watch
 
 Disney fans are in for a treat this Sunday as the Mouse House unites ten of its most memorable characters and voices for Disney Princess: The Ultimate Concert Celebration. The Wonderful World of Disney special airs Sunday, Aug. 16 at 8 p.m. on ABC and features highlights from the D23 Expo taking place this weekend [ ]
 
-### ‘Black Mirror’ and ‘Loki’ Directors Say They Rejected HBO’s ‘Harry Potter’ Due to J.K. Rowling’s Transphobia: ‘Absolutely F—-ing Not’
-Fri, 14 Aug 2026 14:31:59 +0000 — https://variety.com/2026/tv/global/black-mirror-loki-directors-hbo-harry-potter-jk-rowling-1236834589/
-
-Not everyone wants to climb aboard the Hogwarts Express, it transpires. Top TV director Ally Pankiw has posted on Instagram a screenshot from a text exchange with a rep in which she scoffed at the notion that she would consider enrolling with HBO s forthcoming series adaptation of J.K. Rowling s Harry Potter novels. The reason? Rowling s [ ]
-
-### LISTEN: Retired Athletes Blake Griffin and Ryan Kalil Return to Sports as Team Owners and TV Producers in YouTube Docuseries We Are Osos
-Fri, 14 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/blake-griffin-ryan-kalil-were-are-osos-youtube-docuseries-1236834402/
-
-Never tell Ryan Kalil or Blake Griffin to stay in their lanes. Since moving on from their playing days in the NFL and NBA to running the production company Mortal Media, they re about to add a few more jobs to their resumes: co-owners of a Mexican-league football team and co-stars of a new unscripted series [ ]
-
-### Cinema Guild Takes North American Rights on Éric Baudelaire s For the Moon Ahead of New York Film Festival Launch (EXCLUSIVE)
-Fri, 14 Aug 2026 14:00:00 +0000 — https://variety.com/2026/film/global/cinema-guild-eric-baudelaire-for-the-moon-new-york-festival-1236834421/
-
-Indie distributor Cinema Guild has acquired North American distribution rights for documentary For The Moon ( Car la Lune ), directed by Éric Baudelaire, that will premiere in the Currents section of the upcoming New York Film Festival. The film is a collaborative work created with five visually impaired students at the National Institute for the Young [ ]
-
-### Objet a Review: Ann Oren’s Wickedly Kinky Curiosity Eroticizes Everything From Mushrooms to Mushroom Cuts
-Fri, 14 Aug 2026 13:50:23 +0000 — https://variety.com/2026/film/reviews/objet-a-review-1236833854/
-
-“Objet a” was Lacan’s term for the lack, the absence, that sets our desires into motion; an object-cause rather than a physical object. If it were the latter, a more apt title for Ann Oren s delicious new film would be Object A to Z, given the impressively vast range of things — everyday and obscure, [ ]
-
-### Ana Vaz Discusses the Impact of the Fukushima Nuclear Disaster, the Work of Yoko Hayasuke and Preferring to Be a Mother Rather than a Zombie
-Fri, 14 Aug 2026 13:29:23 +0000 — https://variety.com/2026/film/global/ana-vaz-locarno-fukushima-nuclear-disaster-hanabi-1236834548/
-
-“When you begin again, you repeat everything,” reflects experimental filmmaker Ana Vaz, thinking of her home country Brazil and the setting of her new feature, Hanabi, in Japan. “There s a normalization of the state of catastrophe and disaster necessary for the system to perpetrate itself. It needs catastrophe in order to exist.” In the wake [ ]
-
-### Busan Film Festival to Honor Founder Director Kim Dong-ho With Korean Cinema Award
-Fri, 14 Aug 2026 13:03:33 +0000 — https://variety.com/2026/film/festivals/busan-film-festival-kim-dong-ho-korean-cinema-award-1236834556/
-
-Kim Dong-ho, founding festival director of the Busan International Film Festival, has been named the recipient of the 31st BIFF s Korean Cinema Award. The honor goes to figures whose work has shaped Korean cinema and helped raise its profile abroad. Kim began his career at the Ministry of Culture and Information, now the Ministry of [ ]
-
-### San Sebastian Adds Jesse Eisenberg, Fred Cavayé, Amanda Kernell Films to Golden Shell Race
-Fri, 14 Aug 2026 11:14:29 +0000 — https://variety.com/2026/film/markets-festivals/san-sebastian-jesse-eisenberg-fred-cavaye-amanda-kernell-1236834484/
-
-The San Sebastián Film Festival has added six films to its 2026 Official Selection, including new works from Jesse Eisenberg, Fred Cavayé, Amanda Kernell and Gabriel Martins, alongside feature debuts from Ah Biao and Tony Vahl. The titles join 10 previously announced contenders and will compete for the Golden Shell at the festival’s 74th edition. [ ]
-
 ## The Hollywood Reporter
+
+### Camp Rock 3 Breakout Lumi Pollack on Learning to Play the Cello and the Advice She Got From Demi Lovato
+Fri, 14 Aug 2026 16:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/camp-rock-3-lumi-pollack-cello-demi-lovato-jonas-brothers-1236673108/
+
+The actress plays a musical prodigy in the Disney movie: "It kind of just felt like we were just making a movie with a bunch of our friends — like we were at summer camp."
+
+### Task Star Tom Pelphrey: The One Thing That Kept Me Up at Night
+Fri, 14 Aug 2026 16:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/tom-pelphrey-emmy-nod-task-1236671453/
+
+The actor is famous for playing intense and deeply conflicted people. But his grueling performance in HBO’s hit just might win him an Emmy.
+
+### Megan Thee Stallion Signs Distribution Partnership With Interscope, Will Remain Independent
+Fri, 14 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/megan-thee-stallion-signs-with-interscope-1236657579/
+
+“I’ve always wanted to create music on my terms while building a legacy that extends beyond the industry,” the "Savage" rapper said of her new partnership on Friday.
+
+### Wilmer Valderrama to Be Honored at This Is About Humanity Annual Soirée
+Fri, 14 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/wilmer-valderrama-this-is-about-humanity-soiree-1236672825/
+
+The star will be recognized for his work in raising awareness of separated and re-unified immigrant families at the Aug. 29 event.
+
+### Lanterns Review: Kyle Chandler and Aaron Pierre s Chemistry Helps HBO s Clever Action-Comedy Transcend Lackluster Superhero Backdrop
+Fri, 14 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/lanterns-review-hbo-kyle-chandler-aaron-pierre-1236673305/
+
+Chris Mundy, Damon Lindelof and Tom King created the series, in which Hal Jordan and John Stewart bicker more than they kick intergalactic butt.
+
+### Chinese Drama Take Off Set for U.S. Release Via Orchid Tree Media
+Fri, 14 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/pengfei-take-off-american-release-orchid-tree-media-1236673465/
+
+Based on Shuang Xuetao's acclaimed novella, the film co-stars rising actor Jiang Qiming and tells the story of a man's multi-decade dream of taking flight with a homemade jetpack.
+
+### End of Oak Street Chomps $2.5M in Box Office Previews
+Fri, 14 Aug 2026 15:51:34 +0000 — https://www.hollywoodreporter.com/movies/movie-news/end-of-oak-street-box-office-previews-spider-man-paw-patrol-1236673423/
+
+'PAW Patrol: The Dino Movie' also charges into theaters to compete with the third weekend for behemoth 'Spider-Man: Brand New Day.'
+
+### Oscars: Austria Picks Sandra Hüller Drama Rose as Best International Feature Submission
+Fri, 14 Aug 2026 15:38:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/austria-sandra-huller-drama-rose-oscars-2027-1236673645/
+
+Hüller won best lead performance in Berlin for her turn as a 17th century woman passing as a man in Markus Schleinzer’s period drama.
 
 ### Ken Burns Says Election Rigging Fears Unearthed in American Revolution Doc Sounded So Trump-Esque He Had to Cut Them
 Fri, 14 Aug 2026 15:34:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ken-burns-trump-politics-american-revolution-obama-film-1236673604/
@@ -64,47 +104,42 @@ Fri, 14 Aug 2026 15:31:03 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 The show comes from creator Jon Kasdan and co-showrunner John Shiban, with J.J. Abrams' Bad Robot and Blumhouse Atomic Monster also involved.
 
-### Counsel of Champions: Hollywood’s Top Sports Lawyers
-Fri, 14 Aug 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/lists/top-sports-lawyers/
-
-Meet the attorneys who rep Patrick Mahomes, Caitlin Clark and Shohei Ohtani. They’re engineering the sports industry's biggest money moves, from a $10 billion Lakers sale to the legal groundwork for the 2028 Olympics.
-
-### How Walter Boys Star Noah LaLonde Went From Hockey Player to Heartthrob
-Fri, 14 Aug 2026 14:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/noah-lalonde-my-life-with-the-walter-boys-season-3-interview-1236672481/
-
-The 28-year-old might have grown up on the ice, but he later found his footing in front of the screen, notably with his breakout role in Netflix's 'My Life With the Walter Boys,' which just dropped its third season.
-
-### Black Mirror Director Says She Rejected HBO s Harry Potter : Absolutely F***ing Not
-Fri, 14 Aug 2026 14:32:04 +0000 — https://www.hollywoodreporter.com/tv/tv-news/harry-potter-hbo-directors-reject-jk-rowling-trans-views-1236673599/
-
-Directors Ally Pankiw and Kate Herron posted on social media that they turned down the series over J.K. Rowling's trans views: "Say 'no' to funding transphobia."
-
-### Critics Pick Summer TV s Beauties and Bores
-Fri, 14 Aug 2026 13:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/best-tv-of-the-summer-furious-sterling-point-critics-picks-1236671299/
-
-A globe-conquering sports event, a searing feminist thriller and a refreshing YA drama emerged among the season’s winners. Others missed the mark.
-
-### Christine Vachon Jokes She Likes Pedro Pascal Better Than Joaquin Phoenix in Todd Haynes De Noche
-Fri, 14 Aug 2026 13:16:51 +0000 — https://www.hollywoodreporter.com/movies/movie-news/christine-vachon-de-noche-pedro-pascal-film-edinburgh-1236673549/
-
-The prolific indie producer spoke at an Edinburgh Film Festival session, where she also touched on the queer film landscape: "We have 'Heated Rivalry' which couldn't be a bigger hit, and we still have politicians campaigning on who gets to use what bathroom."
-
-### ABC and NBC to Add 11 More NBA Games This Season, Further Squeezing Hollywood
-Fri, 14 Aug 2026 13:13:58 +0000 — https://www.hollywoodreporter.com/tv/tv-news/abc-nbc-more-nba-games-blow-hollywood-1236673576/
-
-Another 33 hours or so of broadcast TV airtime will be handed over to live games, with original network programming and reruns losing out.
-
-### Sentimental Value Screenwriter Gets Backing For Next Directorial Feature
-Fri, 14 Aug 2026 12:56:47 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sentimental-value-screenwriter-backed-to-direct-new-feature-1236673577/
-
-Eskil Vogt, a dual Oscar nominee for for Best Original Screenplay for 'Sentimental Value' and 'The Worst Person in the World,' is prepping his next film as a director, the psychological thriller 'Untitled.'
-
-### Accept My Plea for Burial Will Explore Moral Conflicts of Ordinary People Through a Somali Lens
-Fri, 14 Aug 2026 12:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/accept-my-plea-for-burial-somalia-film-locarno-open-doors-1236673517/
-
-Mohammed Sheikh, who brought the project to Locarno Open Doors, where it won one of the main awards, discusses his cinematic story about such universal themes as "loss, grief, love, family, justice."
-
 ## Deadline
+
+### Star Wars: Mandalorian Grogu To Stream On Disney+ End Of Summer
+Fri, 14 Aug 2026 16:32:23 +0000 — https://deadline.com/2026/08/star-wars-mandalorian-grogu-disney-release-date-1237040464/
+
+Disney has set a Sept. 2 global streaming date for Star Wars: The Mandalorian and Grogu on Disney+. The movie led the Memorial Day box office with a $167M global start, but wound up being the lowest grossing live-action Star Wars movie ever with a final worldwide tally of $345M off a production cost before [ ]
+
+### English Football Giants Liverpool Confirm Sale Of Stake To Jeff Bezos Facebook Co-Founder Eduardo Saverin
+Fri, 14 Aug 2026 16:16:00 +0000 — https://deadline.com/2026/08/liverpool-fc-deal-close-jeff-bezos-eduardo-saverin-1237030021/
+
+UPDATE, August 14, 9.17 a.m. PT: Liverpool have confirmed Jeff Bezos and Eduardo Saverin are among a group that has acquired a minority stake in the English football giants. The club s owner, Fenway Sports Group, said it has sold a shareholding to 1892 Holdings, a consortium led and managed by Amit Bhatia. This group include [ ]
+
+### Riley Keough To Star In Advantage Player Casino Drama In Works At HBO From Will Graham Media Res
+Fri, 14 Aug 2026 16:15:00 +0000 — https://deadline.com/2026/08/riley-keough-advantage-player-hbo-series-will-graham-1237033401/
+
+EXCLUSIVE: HBO is betting on Advantage Player, landing a gambling-themed drama starring and executive produced by Riley Keough in a competitive situation. The project, inspired by real-life advantage player Gina Fiore, comes from Michael Ellenberg s Media Res. It is written and executive produced by Will Graham. Advantage Player reunites Keough and Graham who worked together [ ]
+
+### Final Destination Star Kaitlyn Santa Juana, Maclean Fish Nikki Roumel Leading Road-Trip Dramedy The Jam Van
+Fri, 14 Aug 2026 16:10:20 +0000 — https://deadline.com/2026/08/kaitlyn-santa-juana-maclean-fish-nikki-roumel-jam-van-1237039742/
+
+EXCLUSIVE: Final Destination Bloodlines star Kaitlyn Santa Juana, Maclean Fish (Little House On The Prairie) and Nikki Roumel (Ginny Georgia) are leading road-trip dramedy, The Jam Van. Madison MacIsaac (My Secret Santa), Cassandra Potenza (Clown in a Cornfield) and Dom Bergeron (High School) round out the lead cast. Production begins in Winnipeg, Manitoba at the end of August. The Jam Van follows a dysfunctional pop punk [ ]
+
+### The Wrong Girls Writer/Director Cast On Stoner Comedy s L.A. Accent, Potential For Sequel: There s So Much Left There
+Fri, 14 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/the-wrong-girls-stoner-comedy-la-accent-potential-sequel-1237033542/
+
+With three native Southern Californians at the helm, The Wrong Girls was always meant to be set in the unique weed culture of Los Angeles. Ahead of the release of the stoner comedy, which premieres Friday in theaters, writer-director Dylan Meyer and stars Kristen Stewart and Alia Shawkat told Deadline it was a dream and [ ]
+
+### The End Of Oak Street Stomping To $38M-$48M Global Opening; U.S. Previews At $2.5M; Paw Patrol: Dino Movie $1.9M Box Office Update
+Fri, 14 Aug 2026 15:47:00 +0000 — https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/
+
+FRIDAY AM: Warner Bros/Bad Robot s PG-13 The End of Oak Street came in at $2.5M for Thursday night U.S. previews. The running global tally is $6.5M with key openings in Italy and France. Global outlook is still $38M WW-$48M WW with the foreign haul likely outweighing domestic. Again, that U.S. preview take is around what [ ]
+
+### Streamer And Specialty Distributor Cineverse Reveals Layoffs
+Fri, 14 Aug 2026 15:37:06 +0000 — https://deadline.com/2026/08/cineverse-layoffs-streaming-specialty-film-distribution-1237039800/
+
+Streamer and specialty film distributor Cineverse has revealed that layoffs have hit its workforce of 300 employees. In its report of fiscal first-quarter earnings on Thursday, the company said it completed a reduction in force after the June 30 end of the quarter. The move will result in $1.8 million in annual cost savings, the [ ]
 
 ### Austria Selects Sandra Hüller Drama Rose For International Oscar Category
 Fri, 14 Aug 2026 15:34:46 +0000 — https://deadline.com/2026/08/austria-chooses-sandra-huller-rose-international-oscar-1237040432/
@@ -130,39 +165,4 @@ The Eurovision Song Contest is planning to change the rules to stop tactical vot
 Fri, 14 Aug 2026 15:00:00 +0000 — https://deadline.com/2026/08/widows-bay-season-2-matthew-rhys-katie-dippold-interview-1237032275/
 
 “But I wanted to be the sea hag!” We’re at the Deadline shoot for Widow’s Bay in a New York studio. The cast are clustered around a table of props and despite her disappointment at the lack of hag wigs, Dale Dickey is flapping a fishing net like a seafaring matador. Then she finds a [ ]
-
-### Sebastian Gibbs Returns To Netflix As Director Original Series
-Fri, 14 Aug 2026 14:50:30 +0000 — https://deadline.com/2026/08/sebastian-gibbs-return-netflix-amazon-1237033532/
-
-EXCLUSIVE: Sebastian Gibbs is joining Netflix as Director, Original Series. He will be covering IP and tentpole franchises, reporting to VP, Scripted Series Teddy Biaselli. His start date is Aug. 17. Gibbs is moving to Netflix from Amazon MGM Studios where he was a Senior Television Development Executive for the past four years. This is [ ]
-
-### From Board Games To Boats — Find Out How ‘Widow’s Bay’ Was Built
-Fri, 14 Aug 2026 14:50:00 +0000 — https://deadline.com/2026/08/widows-bay-location-production-design-sets-interview-1237031436/
-
-On Widow’s Bay, a show currently decorated with 19 Emmy nominations, the line between cozy New England charm and creeping dread is often found in the details. Set against the remote, insular world of its titular island, production designer Steve Arnold and set decorator Jennifer Engel created a lived-in, slightly stuck in time and, when [ ]
-
-### Tom Prior Signs With Independent Creative Management
-Fri, 14 Aug 2026 14:27:35 +0000 — https://deadline.com/2026/08/tom-prior-independent-creative-management-1237039749/
-
-EXCLUSIVE: Firebird and Kingsman: The Secret Service actor Tom Prior has signed with Independent Creative Management (ICM) in the UK. Prior is best known for his lead role in romantic war feature Firebird about a forbidden love between a private and a fighter pilot in the Soviet Air Force during the Cold War. He was [ ]
-
-### Lightdox Acquires ‘Auber 89’ Ahead Of Doc’s World Premiere at Venice Film Festival Sidebar Giornate Degli Autori
-Fri, 14 Aug 2026 12:43:47 +0000 — https://deadline.com/2026/08/auber-89-lightdox-acquisition-1237036626/
-
-EXCLUSIVE: International sales and distribution agency Lightdox has acquired Giuseppe Schillaci’s documentary Auber 89 ahead of its world premiere at the Giornate degli Autori s Notti Veneziane (Venetian Nights), a sidebar of the Venice Film Festival. The nonfiction feature examines the experience of Fatsah Bouyahmed, a French Algerian actor who suffered memory loss after an accident. [ ]
-
-### Paramount s 5 Asks Nigel Farage: Where Does The Money Come From? After Binface By-Election
-Fri, 14 Aug 2026 12:24:21 +0000 — https://deadline.com/2026/08/nigel-farage-where-does-money-come-from-paramount-5-binface-1237033649/
-
-Nigel Farage defeated an independent space warrior with a bin for a head in a bizarre British by-election this morning, and now Paramount s 5 is asking more questions about the under-fire Reform UK politician. Nigel Farage: Where Does the Money Come From? is a classic quick turnaround 5 doc, which will go out on Saturday, August [ ]
-
-### Mark McKenna Stephen Lang Enter Thriller Isolation Booth
-Fri, 14 Aug 2026 12:21:42 +0000 — https://deadline.com/2026/08/stephen-lang-mark-mckenna-isolation-booth-movie-minnesota-1237035219/
-
-EXCLUSIVE: Mark McKenna (Sing Street) and Stephen Lang (Avatar) are among cast to lead thriller Isolation Booth, which has recently wrapped filming in Minnesota. Heralding from producers Shifted Industry (Showtime’s Basketball County: In The Water) and Witchcraft Motion Picture Company (IFC Shudder’s Dolly), the psychological thriller from first-time feature director John Beckham follows a [ ]
-
-### International Insider: Canada s Streaming Stress; Love For Lucy Davis; Marc Turtletaub Interview
-Fri, 14 Aug 2026 12:00:00 +0000 — https://deadline.com/2026/08/international-insider-canada-streaming-obligations-1237032957/
-
-Welcome. It s another week, another Insider. Jesse Whittock at the wheel this week, speeding along the highway of international film and TV news. Let’s get going. Sign up to the newsletter here for the full Insider experience. Canada s Streaming Stress Preserve the principle : Canada s film and TV industry thought they had fought and won their [ ]
 

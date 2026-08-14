@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-14T15:34:52.685Z
+# Games — harvested 2026-08-14T16:34:59.253Z
 
 ## Eurogamer
 
@@ -103,16 +103,6 @@ The digital intelligence firm Sensor Tower reports that 89% of preorders for GTA
 Thu, 13 Aug 2026 13:06:36 +0000 — https://www.gamesindustry.biz/testronic-appoints-sonia-kerr-as-ceo-sharon-baylay-bell-becomes-company-chair
 
 Testronic has appointed Sonia Kerr as CEO, succeeding Sharon Baylay-Bell, who moves into the role of company chair. Read more
-
-### Witcher multiplayer spin-off Project Sirius hit by fresh layoffs
-Wed, 12 Aug 2026 16:33:08 +0000 — https://www.gamesindustry.biz/witcher-multiplayer-spin-off-project-sirius-hit-by-fresh-layoffs
-
-Update: August 12, 7.15pm: CD Projekt has now confirmed that 18 developers previously working on Project Sirius have either been made redundant or "invited" to apply for redeployment oppportunities. Read more
-
-### Saber Interactive CEO responds to claims that a writer was replaced with AI
-Wed, 12 Aug 2026 15:45:01 +0000 — https://www.gamesindustry.biz/saber-interactive-denies-replacing-writer-with-ai
-
-Update, August 13, 2026: Saber Interactive CEO Matt Karch has responded to accusations that former lead writer Stella Sacco was replaced with ChatGPT on Rideshare Simulator. Read more
 
 ## VG247
 

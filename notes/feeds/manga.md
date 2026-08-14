@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-14T15:34:52.685Z
+# Manga — harvested 2026-08-14T16:34:59.253Z
 
 ## Anime News Network
+
+### Sweet Hamster Days Game Review
+Fri, 14 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc/sweet-hamster-days/.240288
+
+You've reincarnated into the body of your childhood friends' pet hamster. Does this live-action visual novel have more to offer than its unusual premise?
 
 ### Disney+ Announces Cast for Live-Action Webtoon-Based Series A Man's Man
 Fri, 14 Aug 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/disney-announces-cast-for-live-action-webtoon-based-series-a-man-man/.240388
@@ -56,11 +61,6 @@ Ishigami voices Rufus Stan as a child; new voice drama streamed
 Fri, 14 Aug 2026 07:08:27 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/my-sword-saint-master-is-too-cute-to-live-with-tv-anime-confirmed-reveals-visual/.240579
 
 Deregula to produce anime
-
-### Link! Like! Love Live! Game Developer Odd Number Files for Bankruptcy
-Fri, 14 Aug 2026 05:07:21 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/link-like-love-live-game-developer-odd-number-files-for-bankruptcy/.240564
-
-Operating costs for game led to company being 10.32 billion yen in debt
 
 ## Crunchyroll News
 
