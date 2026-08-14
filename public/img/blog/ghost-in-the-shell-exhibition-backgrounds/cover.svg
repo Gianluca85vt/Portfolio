@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Ghost in the Shell: The Exhibition, background art">
+  <defs>
+    <linearGradient id="bgGits" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#4A2A16"/>
+      <stop offset="100%" stop-color="#C8891B"/>
+    </linearGradient>
+    <linearGradient id="accentGits" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C8891B"/>
+      <stop offset="100%" stop-color="#FFD27A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgGits)"/>
+
+  <!-- distant skyline silhouette, low, dense signage rhythm -->
+  <g fill="#0B000F" fill-opacity="0.5">
+    <rect x="0" y="560" width="70" height="120"/>
+    <rect x="80" y="500" width="50" height="180"/>
+    <rect x="140" y="580" width="90" height="100"/>
+    <rect x="240" y="520" width="40" height="160"/>
+    <rect x="290" y="600" width="120" height="80"/>
+    <rect x="920" y="540" width="60" height="140"/>
+    <rect x="990" y="590" width="100" height="90"/>
+    <rect x="1100" y="510" width="45" height="170"/>
+    <rect x="1150" y="600" width="50" height="80"/>
+  </g>
+
+  <!-- faint vertical signage streaks -->
+  <g stroke="#FFD27A" stroke-opacity="0.12" stroke-width="3">
+    <path d="M60 560V440M110 500V400M260 520V420M950 540V430M1010 590V470M1120 510V410"/>
+  </g>
+
+  <!-- rain / scanline texture -->
+  <g stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2">
+    <path d="M0 200H1200M0 240H1200M0 280H1200"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="310" font-size="26" letter-spacing="8" fill="#FFFFFF" fill-opacity="0.55">GHOST IN THE SHELL — THE EXHIBITION</text>
+
+    <text x="600" y="430" font-size="100" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">1,600+</text>
+
+    <text x="600" y="500" font-size="30" fill="#FFFFFF" fill-opacity="0.6">
+      ORIGINAL BACKGROUNDS, LAYOUTS &amp; SETTING ART
+    </text>
+  </g>
+
+  <rect x="500" y="540" width="200" height="8" rx="4" fill="url(#accentGits)"/>
+</svg>
