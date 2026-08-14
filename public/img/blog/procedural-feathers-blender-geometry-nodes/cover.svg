@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Groom curves become feathers">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#5A2200"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- faint groom curves -->
+  <g stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="3" fill="none">
+    <path d="M120 260 C 160 180, 200 180, 220 100"/>
+    <path d="M220 300 C 260 220, 300 220, 330 140"/>
+    <path d="M320 330 C 360 250, 400 250, 440 170"/>
+    <path d="M420 350 C 460 270, 500 270, 545 190"/>
+  </g>
+
+  <!-- simple feather shapes on the right, echoing the curves -->
+  <g fill="#FFFFFF" fill-opacity="0.18">
+    <ellipse cx="760" cy="150" rx="20" ry="70" transform="rotate(-18 760 150)"/>
+    <ellipse cx="840" cy="130" rx="22" ry="78" transform="rotate(-8 840 130)"/>
+    <ellipse cx="925" cy="140" rx="22" ry="78" transform="rotate(6 925 140)"/>
+    <ellipse cx="1005" cy="165" rx="20" ry="70" transform="rotate(18 1005 165)"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="480" font-size="30" letter-spacing="8" fill="#FFFFFF" fill-opacity="0.55" font-weight="bold">GEOMETRY NODES</text>
+    <text x="600" y="590" font-size="92" font-weight="900" fill="#FFFFFF">GROOM &#8594; FEATHERS</text>
+    <text x="600" y="650" font-size="32" fill="#FFFFFF" fill-opacity="0.6" font-weight="bold">a free Blender tool, August 2026</text>
+  </g>
+
+  <rect x="500" y="700" width="200" height="8" rx="4" fill="#FFFFFF" fill-opacity="0.5"/>
+</svg>
