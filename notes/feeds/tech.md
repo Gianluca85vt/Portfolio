@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-14T19:38:38.268Z
+# Tech — harvested 2026-08-14T20:17:06.151Z
 
 ## Ars Technica
 
@@ -178,6 +178,11 @@ Modern smartphones pack enough computing power to rival budget PCs. However, one
 
 ## Phoronix
 
+### Lemonade 11.6 Integrates Muse-Glimmer 30B, Experimental TheNoise ROCm Image Generation
+Fri, 14 Aug 2026 16:00:22 -0400 — https://www.phoronix.com/news/Lemonade-SDK-11.6
+
+For those dabbling with generative AI on the weekends, the AMD-led Lemonade SDK 11.6 is out today with its newest feature release of this open-source software for running local AI apps with optimized LLMs across CPUs, GPUs, and NPUs...
+
 ### Omarchy 4.0 Linux Distro Released With Desktop Shell Now Implemented Via Quickshell
 Fri, 14 Aug 2026 14:10:15 -0400 — https://www.phoronix.com/news/Omarchy-4.0-Released
 
@@ -232,9 +237,4 @@ In addition to 3mdeb providing their Coreboot-based Dasharo built atop AMD openS
 Thu, 13 Aug 2026 10:00:00 -0400 — https://www.phoronix.com/review/framework-13-pro-linux-71-72
 
 The recently launched Framework Laptop 13 Pro powered by Intel Core Ultra Series 3 "Panther Lake" runs well on Ubuntu 26.04 LTS and other modern Linux distributions. In the case of Ubuntu 26.04 with Linux 7.0, while everything works, if upgrading to Linux 7.1 or the upcoming Linux 7.2 kernel is even better performance. Here are benchmarks of the Framework Laptop 13 Pro with Core Ultra X9 388H across the Linux 7.0, 7.1, and 7.2 kernels.
-
-### GeForce NOW On Linux Native App Exits Beta
-Thu, 13 Aug 2026 09:21:08 -0400 — https://www.phoronix.com/news/GeForce-NOW-Linux-Exits-Beta
-
-At the beginning of the year NVIDIA released a native build of GeForce NOW for Linux using Flatpaks. Today their native Linux build has exited beta to reach official production status for this cloud gaming solution from NVIDIA...
 

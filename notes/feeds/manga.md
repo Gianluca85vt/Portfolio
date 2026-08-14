@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-14T19:38:38.268Z
+# Manga — harvested 2026-08-14T20:17:06.151Z
 
 ## Anime News Network
+
+### Exclusive: Nakama Press to Release Ace of the Diamond Baseball Manga in Omnibus Volumes
+Fri, 14 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/exclusive-nakama-press-to-release-ace-of-the-diamond-baseball-manga-in-omnibus-volumes/.240587
+
+1st 3-in-1 omnibus volume launches in English on March 23, 2027
 
 ### Saga of Tanya the Evil II ‒ Episode 6
 Fri, 14 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/saga-of-tanya-the-evil-ii/episode-6/.240569
@@ -56,11 +61,6 @@ Want to experience Ghost in the Shell: The Exhibition yourself? The exhibition i
 Fri, 14 Aug 2026 08:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/pokemon-pokopia-game-crosses-5-million-units-sold-worldwide/.240580
 
 Part 1 of Expansion Pass DLC added underwater Bubbly Basin town on August 5 along with free update featuring new Pokémon
-
-### Deadline: Disney+ Cancels New Power Rangers Series
-Fri, 14 Aug 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/deadline-disney-cancels-new-power-rangers-series/.240577
-
-Live-action show will not move past development stage according to report
 
 ## Crunchyroll News
 

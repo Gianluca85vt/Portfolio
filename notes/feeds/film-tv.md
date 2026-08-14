@@ -1,11 +1,21 @@
-# Film & TV — harvested 2026-08-14T19:38:38.268Z
+# Film & TV — harvested 2026-08-14T20:17:06.151Z
 
 ## Variety
+
+### Black Women Earned Record Emmy Directing Noms as Asian Auteurs Made Gains. Will Wins Follow?
+Fri, 14 Aug 2026 20:15:00 +0000 — https://variety.com/2026/tv/awards/black-women-asian-directors-emmy-nominations-2026-1236834758/
+
+One of the most consequential storylines of this Emmy season involves the ones who say, Action! Black women hold five directing nominations across three categories this year, the most the Television Academy has ever recognized in a single cycle. Salli Richardson-Whitfield is nominated twice in drama directing, for HBO Max s The Gilded Age and Task, [ ]
+
+### If Paramount Leaves California, It Might Cut Costs but Wouldn t Save on State Taxes
+Fri, 14 Aug 2026 19:56:36 +0000 — https://variety.com/2026/film/news/paramount-state-taxes-leaving-california-1236833420/
+
+Paramount is threatening to leave California if it cannot reach a deal with Attorney General Rob Bonta to allow it to acquire Warner Bros. Discovery. Puck reported the threat on Tuesday, following a similar report in Semafor last month, and adding that Paramount CEO David Ellison believes the move would save the company $500 million [ ]
 
 ### Deli Boys Canceled After Two Seasons at Hulu, Onyx Collective
 Fri, 14 Aug 2026 19:35:45 +0000 — https://variety.com/2026/tv/news/deli-boys-canceled-hulu-1236834842/
 
-The comedy series Deli Boys has been canceled at Hulu after two seasons, Variety has confirmed. The series, which aired under Hulu s Onyx Collective brand, starred Asif Ali, Saagar Shaikh, and Poorna Jagannathan. Fred Armisen joined the show in its second season along with Andrew Rannells. Kumail Nanjiani, Lilly Singh, Robin Thede, and returning guest [ ]
+The comedy series Deli Boys has been canceled at Hulu after two seasons, Variety has confirmed. The series, which aired under Hulu s Onyx Collective brand, starred Asif Ali, Saagar Shaikh, and Poorna Jagannathan. Fred Armisen joined the show in its second season along with Andrew Rannells, with Brian George once again appearing as Ahmad and [ ]
 
 ### After the YA Drama Sterling Point Topped the Prime Video Charts, What s Next for LuckyChap TV?
 Fri, 14 Aug 2026 19:28:32 +0000 — https://variety.com/2026/tv/features/luckychap-tv-sterling-point-life-is-strange-sex-criminals-1236834040/
@@ -42,17 +52,12 @@ Fri, 14 Aug 2026 18:25:22 +0000 — https://variety.com/2026/tv/awards/kate-ofly
 
 Kate O’Flynn found out she was an Emmy nominee and immediately went underground. “I felt like an ostrich,” she tells Variety over Zoom. “I got the news, and I was immediately overwhelmed and put my head in the sand, and then quaffed champagne. It was nuts in the best possible way.” The realization didn t land [ ]
 
-### California Bill to Subsidize Post-Production Advances as Commercials Bill Dies
-Fri, 14 Aug 2026 18:23:47 +0000 — https://variety.com/2026/film/news/california-bill-post-production-commercials-1236834698/
-
-A bill to subsidize post-production in California cleared a hurdle in the state Senate on Thursday, while a separate measure to fund commercial production died. The post-production bill, AB 2319, would create a new 35%-50% refundable tax credit for film and TV editing and VFX work. The Motion Picture Editors Guild and the California Post [ ]
-
-### ‘Widow’s Bay’ Cinematographer Christian Sprenger on How Jaws and The Shining Influenced the Show s Visual Style
-Fri, 14 Aug 2026 18:15:00 +0000 — https://variety.com/2026/artisans/awards/widows-bay-jaws-the-shining-flashback-episode-1236834593/
-
-“Widow’s Bay” showrunner Katie Dippold knows how to toe the line between comedy and horror — her credits include “Haunted Mansion” and “Ghostbusters.” With her latest project, she proves this skill once again. In the series, Mayor Tom Loftis (Matthew Rhys) is desperate to revive his struggling community. There’s no Wi-Fi, cell reception is spotty [ ]
-
 ## The Hollywood Reporter
+
+### Paramount Says It Has Secured All Global Clearances to Close WBD Deal Except for That Pesky Lawsuit
+Fri, 14 Aug 2026 20:09:53 +0000 — https://www.hollywoodreporter.com/business/business-news/paramount-secures-global-clearances-wbd-deal-except-lawsuit-1236673941/
+
+In a statement Friday, David Ellison says that they are offering "commitments and concessions" to try and get the deal over the line.
 
 ### Stuart Fails to Save the Universe Renewed for Second Season at HBO Max
 Fri, 14 Aug 2026 19:30:44 +0000 — https://www.hollywoodreporter.com/tv/tv-news/stuart-fails-to-save-the-universe-renewed-season-2-hbo-max-1236673911/
@@ -99,17 +104,17 @@ Fri, 14 Aug 2026 18:29:00 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 The onetime soap star on 'As the World Turns' also helmed 'Cinderella Liberty,' 'The Rose' and John Wayne's 'The Cowboys.'
 
-### The War on Literature Depicted in ’The Librarians’ Is Still Being Waged
-Fri, 14 Aug 2026 18:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-librarians-war-literature-1236670583/
-
-A year after the Kim Snyder-directed documentary premiered at Sundance, book-banning remains a resonant topic in the U.S. as related bills make their way through Congress.
-
 ## Deadline
+
+### Scrubs Adds Keyla Monterroso Mejia As New Nurse In Season 2 Of ABC Reboot
+Fri, 14 Aug 2026 20:02:00 +0000 — https://deadline.com/2026/08/scrubs-keyla-monterroso-mejia-nurse-season-2-abc-reboot-1237040761/
+
+EXCLUSIVE: Scrubs is staffing up for Season 2. Keyla Monterroso Mejia (The Studio, Abbott Elementary) is joining the ABC comedy series as a recurring guest star. She will play Mimi, Turk’s (Donald Faison) new surgical nurse. A bit quirky with some sass, she is a high-energy and loyal assisting hand for the surgeons. Mimi is [ ]
 
 ### Deli Boys Canceled After Two Seasons At Hulu
 Fri, 14 Aug 2026 19:30:00 +0000 — https://deadline.com/2026/08/deli-boys-canceled-hulu-1237040657/
 
-EXCLUSIVE: After two seasons, the Onyx Collective series Deli Boys has been canceled at Hulu. The crime dramedy stars Asif Ali, Saagar Shaikh, and Poorna Jagannathan. The reason for the show s cancellation is due to ratings, sources say. The series was a priority for Onyx, which pushed for the addition of a new series regular [ ]
+EXCLUSIVE: After two seasons, the Onyx Collective series Deli Boys has been canceled at Hulu. The crime dramedy stars Asif Ali, Saagar Shaikh, and Poorna Jagannathan. The reason for the critically acclaimed show s cancellation is due to ratings, sources say. The series was a priority for Onyx, which pushed for the addition of a new [ ]
 
 ### Stuart Fails To Save The Universe Renewed For Season 2 By HBO Max
 Fri, 14 Aug 2026 19:07:53 +0000 — https://deadline.com/2026/08/stuart-fails-to-save-the-universe-renewed-season-2-hbo-max-1237040738/
@@ -160,9 +165,4 @@ Netflix revealed its latest YA acquisition, Sunshine Girls, a coming-of-age seri
 Fri, 14 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/barry-keoghan-signs-caa-1237040472/
 
 EXCLUSIVE: Barry Keoghan, the Oscar-nominated actor set to play Ringo Starr in Sam Mendes The Beatles – A Four-Film Cinematic Event, has signed with CAA. Keoghan is currently in production on the biopics, where he stars opposite Paul Mescal as Paul McCartney, Joseph Quinn as George Harrison and Harris Dickinson as John Lennon. Each film is told [ ]
-
-### Star Wars: Mandalorian Grogu To Stream On Disney+ At End Of Summer
-Fri, 14 Aug 2026 16:32:23 +0000 — https://deadline.com/2026/08/star-wars-mandalorian-grogu-disney-release-date-1237040464/
-
-Disney has set a September 2 global streaming date for Star Wars: The Mandalorian and Grogu on Disney+. That reps a long 103-day window between theatrical and streaming for the Jon Favreau-directed movie. The movie led the Memorial Day box office with a $167 million global start but wound up being the lowest-grossing live-action Star [ ]
 
