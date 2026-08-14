@@ -3,7 +3,7 @@ title: Why Halo's co-creator thinks the new ring looks "damn ugly" — and he's 
 date: 2026-08-14
 category: Games
 excerpt: Marcus Lehto's complaint about Campaign Evolved's Forerunner ring isn't nostalgia. It's a specific, nameable environment-art problem — ancient scale read through new-build surfacing.
-cover: /img/blog/halo-campaign-evolved-ring-ancient-vs-new/cover.svg
+cover: /img/blog/halo-campaign-evolved-ring-ancient-vs-new/shot-01.jpg
 draft: true
 ---
 
@@ -28,6 +28,11 @@ better." It is a complaint with a name, and it is one every environment artist
 who has ever built something meant to feel ancient has run into.
 
 ## "Out of scale" is a surfacing problem, not a size problem
+
+<figure>
+  <img src="/img/blog/halo-campaign-evolved-ring-ancient-vs-new/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>343 Industries / Halo Studios, via the official Steam store page</figcaption>
+</figure>
 
 The ring in Halo's fiction is hundreds of millennia old — a structure that has
 survived wars, atmospheric decay, orbital debris, entire civilizations. Lehto's
