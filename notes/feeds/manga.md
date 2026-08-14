@@ -1,6 +1,16 @@
-# Manga — harvested 2026-08-14T18:34:44.181Z
+# Manga — harvested 2026-08-14T19:38:38.268Z
 
 ## Anime News Network
+
+### Saga of Tanya the Evil II ‒ Episode 6
+Fri, 14 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/saga-of-tanya-the-evil-ii/episode-6/.240569
+
+This entire episode feels like Zettour’s swansong—like he’s destined to die before the credits roll.
+
+### Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 12
+Fri, 14 Aug 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-12/.240570
+
+Ever since losing his memories, Subaru’s suspicion and paranoia have been in the driver's seat. Now, he's letting compassion take the wheel.
 
 ### Smoking Behind the Supermarket with You ‒ Episode 6
 Fri, 14 Aug 2026 13:35:54 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-6/.240586
@@ -51,16 +61,6 @@ Part 1 of Expansion Pass DLC added underwater Bubbly Basin town on August 5 alon
 Fri, 14 Aug 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/deadline-disney-cancels-new-power-rangers-series/.240577
 
 Live-action show will not move past development stage according to report
-
-### From Old Country Bumpkin to Master Swordsman Season 2 Anime Reveals New Promo Video, More Cast
-Fri, 14 Aug 2026 08:02:11 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/from-old-country-bumpkin-to-master-swordsman-season-2-anime-reveals-new-promo-video-more-cast/.240581
-
-Kenshō Ono, Sumire Uesaka join cast
-
-### 'Yowaki MAX Reijō nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta' Anime Casts Shizuka Ishigami
-Fri, 14 Aug 2026 07:14:51 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/yowaki-max-reijo-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta-anime-casts-shizuka-/.240578
-
-Ishigami voices Rufus Stan as a child; new voice drama streamed
 
 ## Crunchyroll News
 

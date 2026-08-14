@@ -1,6 +1,41 @@
-# Film & TV — harvested 2026-08-14T18:34:44.181Z
+# Film & TV — harvested 2026-08-14T19:38:38.268Z
 
 ## Variety
+
+### Deli Boys Canceled After Two Seasons at Hulu, Onyx Collective
+Fri, 14 Aug 2026 19:35:45 +0000 — https://variety.com/2026/tv/news/deli-boys-canceled-hulu-1236834842/
+
+The comedy series Deli Boys has been canceled at Hulu after two seasons, Variety has confirmed. The series, which aired under Hulu s Onyx Collective brand, starred Asif Ali, Saagar Shaikh, and Poorna Jagannathan. Fred Armisen joined the show in its second season along with Andrew Rannells. Kumail Nanjiani, Lilly Singh, Robin Thede, and returning guest [ ]
+
+### After the YA Drama Sterling Point Topped the Prime Video Charts, What s Next for LuckyChap TV?
+Fri, 14 Aug 2026 19:28:32 +0000 — https://variety.com/2026/tv/features/luckychap-tv-sterling-point-life-is-strange-sex-criminals-1236834040/
+
+If the YA drama “Sterling Point” has become your new hyper-fixation show, you’re not alone.Amazon reports that the coming-of-age series, from creator Megan Park, was the most-watched show on Prime Video worldwide since its Aug. 5 debut. “Sterling Point” centers on 17-year-old Annie Jacobson (Ella Rubin, best known for “The Idea of You”), who was [ ]
+
+### Locarno Takeaways: A Charming Olivia Wilde, Navigating an Industry Crunch and One Reason Why There Should Be More Women Filmmakers
+Fri, 14 Aug 2026 19:24:36 +0000 — https://variety.com/2026/film/global/locarno-takeaways-olivia-wilde-zoe-saldana-james-gray-1236834754/
+
+Unspooling over Aug. 5-15, this year’s Locarno Film Festival broke records for industry attendance and its temperatures, Switzerland enduring its hottest summer since records began in 1864. Led by an ebullient Olivia Wilde, charged by the breakout success of “The Invite,” Locarno Pro delivered a telling take on the world’s arthouse crunch with the sector [ ]
+
+### Squishmallows Movie in the Works at Amazon MGM (EXCLUSIVE)
+Fri, 14 Aug 2026 19:22:28 +0000 — https://variety.com/2026/film/news/squishmallows-movie-amazon-mgm-beau-flynn-1236834782/
+
+Your moviegoing experience is about to get a lot plusher. Squishmallows, the popular collectible toys known for softness and irreverent personalities, will come to life in a new feature film. Variety can report that Amazon MGM is developing a tentpole family film around the brand, licensing rights and co-producing with creator Jazwares. The studio is [ ]
+
+### Stuart Fails to Save the Universe Renewed for Season 2 at HBO Max
+Fri, 14 Aug 2026 19:03:30 +0000 — https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-renewed-season-2-hbo-max-1236834794/
+
+The Big Bang Theory spinoff Stuart Fails to Save the Universe has been renewed for Season 2 at HBO Max. The news comes after the series has aired just four episodes of its 10-episode first season. The series originally premiered at the streamer on July 23. “We’re delighted with how this hilarious, genre-bending show from [ ]
+
+### ‘Pretty Babies’ Director Tyler-Marie Evans on Sex Work, Female Friendship and Finding Humanity Beyond Stereotypes
+Fri, 14 Aug 2026 18:43:05 +0000 — https://variety.com/2026/film/global/pretty-babies-director-tyler-marie-evans-1236833628/
+
+We all have souls. That sentiment sits at the heart of Pretty Babies, Tyler-Marie Evans feature debut, which world premieres Friday in competition at the Edinburgh Intl. Film Festival. The project attracted Jordan Wagner from Wagner Entertainment and also independent film icon Christine Vachon s Killer Films, who alongside star Ashley Benson took on producer roles. [ ]
+
+### DIRECTV Drops Price of Sports Genre Pack to Under $50 for First Month Just in Time for Fall Football Season
+Fri, 14 Aug 2026 18:34:40 +0000 — https://variety.com/2026/shopping/news/directv-mysports-genre-pack-deal-pricing-channel-details-1236834741/
+
+Sports fans won’t have to rely on cable anymore to catch the big games and tournaments this fall, as streaming service DIRECTV launches a new promo for cord cutters looking to take in the action. DIRECTV has dropped the price of its MySports Genre Pack down to $49.99 for your first month of service (regularly [ ]
 
 ### Kate O’Flynn on Her ‘Widow’s Bay’ Breakout, Mike Leigh’s Final Film and Her Emmy Nomination: ‘I Felt Like an Ostrich’
 Fri, 14 Aug 2026 18:25:22 +0000 — https://variety.com/2026/tv/awards/kate-oflynn-widows-bay-emmys-mike-leigh-1236828796/
@@ -17,42 +52,42 @@ Fri, 14 Aug 2026 18:15:00 +0000 — https://variety.com/2026/artisans/awards/wid
 
 “Widow’s Bay” showrunner Katie Dippold knows how to toe the line between comedy and horror — her credits include “Haunted Mansion” and “Ghostbusters.” With her latest project, she proves this skill once again. In the series, Mayor Tom Loftis (Matthew Rhys) is desperate to revive his struggling community. There’s no Wi-Fi, cell reception is spotty [ ]
 
-### New ‘Project Hail Mary’ Lego Set Recreates Film’s Spaceship in 830-Piece Collectible (Alongside a Minifigure Ryland Grace)
-Fri, 14 Aug 2026 18:12:16 +0000 — https://variety.com/2026/shopping/news/project-hail-mary-lego-set-spaceship-buy-online-1236834728/
-
-Ryan Gosling s interstellar ride is getting a brick-by-brick makeover. Lego has released a new Project Hail Mary collectible building set, turning the Hail Mary spacecraft from the sci-fi blockbuster into an 830-piece display model. The Lego Icons set is available now for $99.99 and is designed for builders ages 18 and up. Based on the [ ]
-
-### Mark Rydell, On Golden Pond and The Rose Director, Dies at 97
-Fri, 14 Aug 2026 18:04:36 +0000 — https://variety.com/2026/film/news/mark-rydell-dead-golden-pond-1236834732/
-
-Mark Rydell, who received a best director nomination for the Oscar-winning “On Golden Pond and directed Bette Midler in The Rose and For the Boys, died Friday. He was 97. Midler posted about his death on her Instagram, writing, Mark Rydell, the director or my first film, The Rose, died this morning. He was an [ ]
-
-### Ken Burns on ‘Waking the Dead,’ Cutting Trump-Era Echoes and Why His Obama Film Can Wait
-Fri, 14 Aug 2026 18:00:19 +0000 — https://variety.com/2026/film/global/ken-burns-the-american-revolution-2-1236834641/
-
-“You wake the dead.” Ken Burns offered that succinct description of his filmmaking at the Edinburgh Intl. Film Festival on Friday, where the veteran documentarian dug into the craft behind bringing history to life and made a claim for the ensemble assembled for his latest epic, “The American Revolution.” “I think this film is the [ ]
-
-### Practical Magic 2 Inspires Wave of Witchy Merch, Including Gemstone Jewelry, Retro Tees and Midnight Margaritas Club Aprons
-Fri, 14 Aug 2026 17:32:59 +0000 — https://variety.com/2026/shopping/news/practical-magic-first-merchandise-collection-sequel-1236828020/
-
-As Practical Magic fans gear up for the highly anticipated sequel reuniting Sandra Bullock and Nicole Kidman, Warner Bros. Discovery Global Consumer Products has unveiled the first official merchandise directly inspired by the films. Honoring both the 1998 classic and the upcoming sequel, the merchandise will include fashion, jewelry, home decor and more from partners [ ]
-
-### Jeff Bezos Buying Ownership Stake in English Premiere League s Liverpool Soccer Team
-Fri, 14 Aug 2026 17:26:47 +0000 — https://variety.com/2026/biz/news/jeff-bezos-acquires-ownership-stake-liverpool-football-club-1236834688/
-
-It s apparently a week for wealthy business moguls to buy sports clubs: Jeff Bezos, the Amazon founder who is among the richest people in the world, is acquiring a minority equity stake in Liverpool Football Club, a team in the English Premiere League. Fenway Sports Group, the majority owner of Liverpool FC, announced Friday that [ ]
-
-### Venice: M-Appeal Picks Up Chinese Director Jie Dong s ‘Zoom In, Zoom Out’ Ahead of Premiere (EXCLUSIVE)
-Fri, 14 Aug 2026 17:12:42 +0000 — https://variety.com/2026/film/global/m-appeal-jie-dongs-zoom-in-zoom-out-venice-1236834666/
-
-Berlin-based world sales company M-Appeal has boarded “Zoom In, Zoom Out,” the debut feature from Chinese director Jie Dong, set to premiere in Venice Critics Week. The film follows Shi as he searches the city for his missing roommate Gao, a search that leads him to Gao s girlfriend YY. Together, they begin piecing the fragments [ ]
-
-### Afrobeats Superstar Ayra Starr on the Freedom She Felt Making ‘Starrgirl’: ‘I Kept Telling People, “Let Me Cook!”’
-Fri, 14 Aug 2026 17:06:18 +0000 — https://variety.com/2026/music/news/ayra-starr-starrgirl-afrobeats-1236834684/
-
-Nigerian Afrobeats superstar Ayra Starr is getting her hair blow-dried when she casually mentions that she has a plane to catch in an hour. It is less than 48 hours before release day, and our conversation has already been moved around to accommodate her recovery from surgery (the specific reason for which she has not [ ]
-
 ## The Hollywood Reporter
+
+### Stuart Fails to Save the Universe Renewed for Second Season at HBO Max
+Fri, 14 Aug 2026 19:30:44 +0000 — https://www.hollywoodreporter.com/tv/tv-news/stuart-fails-to-save-the-universe-renewed-season-2-hbo-max-1236673911/
+
+The 'Big Bang Theory' spinoff follows Kevin Sussman's comic shop owner through a multiverse of problems.
+
+### How Oscar Isaac and Carey Mulligan Brought Their Own Backstories to the Lindsay-Josh Fight in ‘Beef’ Season 2
+Fri, 14 Aug 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lee-sung-jin-beef-season-two-emmys-1236672641/
+
+Creator Lee Sung Jin discusses how he dealt with the high expectations for the second season of the anthology series, now nominated for 16 Emmys.
+
+### Kathie Hoops, Longtime Financial Executive at Paramount, Dies at 66
+Fri, 14 Aug 2026 19:24:38 +0000 — https://www.hollywoodreporter.com/business/business-news/kathie-hoops-dead-paramount-executive-residuals-1236669143/
+
+She started out at Gulf + Western in New York in 1984 and served as vice president of residuals for 30 years.
+
+### Ian Crafford, Film Editor on ‘Hope and Glory’ and ‘Field of Dreams,’ Dies at 82
+Fri, 14 Aug 2026 19:18:47 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ian-crafford-field-of-dreams-hope-and-glory-monty-python-1236673908/
+
+The Englishman worked on Cheech Chong and Monty Python movies and with directors including Carol Reed, John Boorman and Irvin Kershner.
+
+### The Shards Star Igby Rigney on His Bret Easton Ellis Take, the Cast Going on a Real Bender to Shoot That Wild Party and Their Active Group Chat
+Fri, 14 Aug 2026 19:04:48 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-shards-igby-rigney-bret-easton-ellis-cast-secrets-1236673622/
+
+The actor who plays the high schooler at the center of Ryan Murphy's FX adaptation of Ellis' classic book speaks with The Hollywood Reporter about the show everyone is talking about.
+
+### ‘Margo’s Got Money Troubles’ HMU Team Used Over 100 Eyeshadow Containers to Paint Elle Fanning’s Body Green
+Fri, 14 Aug 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/margos-got-money-troubles-elle-fanning-green-1236672635/
+
+The hair and makeup heads of the Emmy-nominated show also discuss adorning Nick Offerman’s body with unique tattoos.
+
+### Josh Hartnett Jumps to CAA (Exclusive)
+Fri, 14 Aug 2026 18:42:43 +0000 — https://www.hollywoodreporter.com/business/business-news/josh-hartnett-jumps-to-caa-exclusive-1236673767/
+
+The actor’s exit marks a notable defection at Verve after the literary agency just lost Noah Wyle.
 
 ### Your Friends and Neighbors Showrunner Is Surprised Jon Hamm Didn t Get an Emmy Nod: A Performance That Should ve Been Recognized
 Fri, 14 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/your-friends-neighbors-showrunner-jon-hamm-emmy-snub-1236670573/
@@ -69,42 +104,32 @@ Fri, 14 Aug 2026 18:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-feat
 
 A year after the Kim Snyder-directed documentary premiered at Sundance, book-banning remains a resonant topic in the U.S. as related bills make their way through Congress.
 
-### Selena Gomez s Mental Health Startup Was a Sham, Investors Claim in Federal Lawsuit
-Fri, 14 Aug 2026 18:11:59 +0000 — https://www.hollywoodreporter.com/news/general-news/selena-gomez-daniella-pierson-mental-health-wondermind-sham-lawsuit-1236673764/
-
-The complaint accuses the star, her mother and Daniella Pierson of faking Wondermind's success — then hiding its collapse for three years.
-
-### Jerry Seinfeld Applauds Ted Sarandos Impact on Hollywood: The Most Loved Industry Executive I Have Ever Seen
-Fri, 14 Aug 2026 18:00:28 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jerry-seinfeld-ted-sarandos-tv-academy-hall-of-fame-1236673755/
-
-Sarandos was inducted into the TV Academy Hall of Fame on Thursday night, alongside Jean Smart, Ted Danson, Trey Parker and Matt Stone, Sheila Nevins and the late Ed Bradley.
-
-### Anne Hathaway Premieres The End of Oak Street, Lanterns Arrives and This Week s Best Events
-Fri, 14 Aug 2026 18:00:21 +0000 — https://www.hollywoodreporter.com/gallery/end-of-oak-street-lanterns-red-carpet-events-1236669916/
-
-Inside this week's biggest Hollywood premieres, parties and openings.
-
-### Ewan McGregor Would Like to Play Obi-Wan Kenobi Again — Even If His ‘Star Wars’ Prequels Were Dragged Through the Mud
-Fri, 14 Aug 2026 17:56:48 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ewan-mcgregor-play-star-wars-obi-wan-again-1236673685/
-
-The Scotsman delighted an Edinburgh Film Festival crowd on Friday during a warm and candid conversation about his career, his relationship with his children and whether he'd want to play James Bond.
-
-### Spider-Man: Beyond the Spider-Verse Trailer Drops Online, Christopher Miller Slams Leak
-Fri, 14 Aug 2026 17:38:01 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-beyond-the-spider-verse-trailer-leak-1236673739/
-
-Nearly five minutes of 'Beyond the Spider-Verse' footage circulating online has the writer-producer condemning leakers.
-
-### How Kyle Chandler s Hal Jordan in Lanterns Series Will Compare to Ryan Reynolds Take on Green Lantern
-Fri, 14 Aug 2026 17:22:40 +0000 — https://www.hollywoodreporter.com/tv/tv-news/lanterns-kyle-chandler-hal-jordan-ryan-reynolds-green-lantern-1236673492/
-
-Chandler and Aaron Pierre star in a 'True Detective'-esque version of the superhero story.
-
-### Bring Me The Pitt’ Stats — Stat!
-Fri, 14 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/vital-stats-from-the-stars-of-the-pitt-2-1236671488/
-
-Five of the show’s Emmy nominees talk candidly about playing an addict while sober, who throws the best parties and their favorite line: “Sex is great."
-
 ## Deadline
+
+### Deli Boys Canceled After Two Seasons At Hulu
+Fri, 14 Aug 2026 19:30:00 +0000 — https://deadline.com/2026/08/deli-boys-canceled-hulu-1237040657/
+
+EXCLUSIVE: After two seasons, the Onyx Collective series Deli Boys has been canceled at Hulu. The crime dramedy stars Asif Ali, Saagar Shaikh, and Poorna Jagannathan. The reason for the show s cancellation is due to ratings, sources say. The series was a priority for Onyx, which pushed for the addition of a new series regular [ ]
+
+### Stuart Fails To Save The Universe Renewed For Season 2 By HBO Max
+Fri, 14 Aug 2026 19:07:53 +0000 — https://deadline.com/2026/08/stuart-fails-to-save-the-universe-renewed-season-2-hbo-max-1237040738/
+
+Stuart will continue to fail in his efforts to save the universe as HBO Max has renewed The Big Bang Theory spinoff for a second season. From creators Chuck Lorre, Zak Penn, and Bill Prady and Warner Bros. TV, the first season of Stuart Fails To Save the Universe is HBO Max’s second-biggest comedy launch [ ]
+
+### Kristen Stewart Acknowledges Potential Connection Between The Wrong Girls American Ultra Roles: That s Deep As Hell
+Fri, 14 Aug 2026 19:00:00 +0000 — https://deadline.com/2026/08/kristen-stewart-potential-connection-wrong-girls-american-ultra-1237033563/
+
+More than a decade later, Kristen Stewart is treating fans to another stoner comedy with her role in The Wrong Girls, now in theaters. While discussing the Dylan Meyer-written/directed film, she acknowledged some similarities between one of the dual roles she plays in the movie and her character in the 2015 action comedy American Ultra, [ ]
+
+### Amplified Ups Kris Chesnokova Christina Wachter To Manager
+Fri, 14 Aug 2026 18:58:14 +0000 — https://deadline.com/2026/08/amplified-kris-chesnokova-christina-wachter-manager-1237040696/
+
+Amplified has promoted assistants Kris Chesnokova and Christina Wachter to manager. Born in Uzbekistan, Chesnokova immigrated to the United States at the age of four. She began her career at Riot Games before making the transition into talent management at Amplified. As a Talent Manager, Kristina works with both emerging and established talent, helping clients [ ]
+
+### Spider-Man: Beyond The Spider-Verse Trailer Leaks Online, Co-Writer Chris Miller Says He s Not A Fan Of Leaks Of Unfinished Footage
+Fri, 14 Aug 2026 18:48:30 +0000 — https://deadline.com/2026/08/spider-man-beyond-the-spider-verse-trailer-leaks-online-1237040700/
+
+Leaked footage of Spider-Man: Beyond the Spider-Verse has made its way online and co-writer Chris Miller is putting them on blast. A trailer for the third installment of the animated movie starring Miles Morales, which is set to hit theaters on June 18, 2027, was leaked on social media and Miller has already made his [ ]
 
 ### Wendi McLendon-Covey Rounds Out Cast Of 20th s Romy And Michele Sequel
 Fri, 14 Aug 2026 18:00:00 +0000 — https://deadline.com/2026/08/romy-and-michele-2-cast-wendi-mclendon-covey-1237040451/
@@ -114,7 +139,7 @@ EXCLUSIVE: 20th has rounded out the cast of its sequel to cult classic comedy Ro
 ### Mark Rydell Dies: Oscar-Nominated On Golden Pond , The Rose Director Was 97
 Fri, 14 Aug 2026 17:50:43 +0000 — https://deadline.com/2026/08/mark-rydell-dead-1237040664/
 
-Mark Rydell, the Oscar-nominated director of 1981 s On Golden Pond and two of Bette Midler s signature films The Rose and For The Boys died today. He was 97. His death was announced by Midler on Instagram today. Mark Rydell, the director or my first film, The Rose, died this morning. He was an [ ]
+Mark Rydell, the Oscar-nominated director of 1981 s On Golden Pond and two of Bette Midler s signature films The Rose and For The Boys died Thursday of natural causes in Los Angeles. He was 97. His death was announced by Midler on Instagram today. Mark Rydell, the director or my first film, The Rose, [ ]
 
 ### The Partnership: ‘The Pitt’s Taylor Dearden Tal Anderson Tackle Sisterhood With Precision
 Fri, 14 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/the-pitt-interview-tal-anderson-taylor-dearden-1237033591/
@@ -140,29 +165,4 @@ EXCLUSIVE: Barry Keoghan, the Oscar-nominated actor set to play Ringo Starr in S
 Fri, 14 Aug 2026 16:32:23 +0000 — https://deadline.com/2026/08/star-wars-mandalorian-grogu-disney-release-date-1237040464/
 
 Disney has set a September 2 global streaming date for Star Wars: The Mandalorian and Grogu on Disney+. That reps a long 103-day window between theatrical and streaming for the Jon Favreau-directed movie. The movie led the Memorial Day box office with a $167 million global start but wound up being the lowest-grossing live-action Star [ ]
-
-### English Football Giants Liverpool Confirm Sale Of Stake To Jeff Bezos Facebook Co-Founder Eduardo Saverin
-Fri, 14 Aug 2026 16:16:00 +0000 — https://deadline.com/2026/08/liverpool-fc-deal-close-jeff-bezos-eduardo-saverin-1237030021/
-
-UPDATE, August 14, 9.17 a.m. PT: Liverpool have confirmed Jeff Bezos and Eduardo Saverin are among a group that has acquired a minority stake in the English football giants. The club s owner, Fenway Sports Group, said it has sold a shareholding to 1892 Holdings, a consortium led and managed by Amit Bhatia. This group include [ ]
-
-### Riley Keough To Star In Advantage Player Casino Drama In Works At HBO From Will Graham Media Res
-Fri, 14 Aug 2026 16:15:00 +0000 — https://deadline.com/2026/08/riley-keough-advantage-player-hbo-series-will-graham-1237033401/
-
-EXCLUSIVE: HBO is betting on Advantage Player, landing a gambling-themed drama starring and executive produced by Riley Keough in a competitive situation, Deadline has learned. The project, inspired by real-life advantage player Gina Fiore, comes from Michael Ellenberg s Media Res. It is written and executive produced by Will Graham. Advantage Player reunites Keough and Graham [ ]
-
-### Final Destination Star Kaitlyn Santa Juana, Maclean Fish Nikki Roumel Leading Road-Trip Dramedy The Jam Van
-Fri, 14 Aug 2026 16:10:20 +0000 — https://deadline.com/2026/08/kaitlyn-santa-juana-maclean-fish-nikki-roumel-jam-van-1237039742/
-
-EXCLUSIVE: Final Destination Bloodlines star Kaitlyn Santa Juana, Maclean Fish (Little House On The Prairie) and Nikki Roumel (Ginny Georgia) are leading road-trip dramedy, The Jam Van. Madison MacIsaac (My Secret Santa), Cassandra Potenza (Clown in a Cornfield) and Dom Bergeron (High School) round out the lead cast. Production begins in Winnipeg, Manitoba at the end of August. The Jam Van follows a dysfunctional pop punk [ ]
-
-### The Wrong Girls Writer-Director Cast On Stoner Comedy s L.A. Accent , Potential For Sequel: There s So Much Left There
-Fri, 14 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/the-wrong-girls-stoner-comedy-la-accent-potential-sequel-1237033542/
-
-With three native Southern Californians at the helm, The Wrong Girls was always meant to be set in the unique weed culture of Los Angeles. Ahead of the release of the stoner comedy, which premieres Friday in theaters, writer-director Dylan Meyer and stars Kristen Stewart and Alia Shawkat told Deadline it was a dream and [ ]
-
-### The End Of Oak Street Stomping To $38M-$48M Global Opening; U.S. Previews At $2.5M; Paw Patrol: Dino Movie $1.9M Box Office Update
-Fri, 14 Aug 2026 15:47:00 +0000 — https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/
-
-FRIDAY AM: Warner Bros/Bad Robot s PG-13 The End of Oak Street came in at $2.5M for Thursday night U.S. previews. The running global tally is $6.5M with key openings in Italy and France. Global outlook is still $38M WW-$48M WW with the foreign haul likely outweighing domestic. Again, that U.S. preview take is around what [ ]
 
