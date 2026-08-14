@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-13T21:29:46.621Z
+# AI — harvested 2026-08-14T06:05:43.896Z
 
 ## OpenAI
 
@@ -16,16 +16,6 @@ Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14�
 Thu, 13 Aug 2026 09:00:00 GMT — https://openai.com/index/dali-rajic-chief-revenue-officer
 
 OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.
-
-### From assistance to execution: How enterprises put AI to work
-Wed, 12 Aug 2026 06:00:00 GMT — https://openai.com/index/how-enterprises-put-ai-to-work
-
-OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.
-
-### How RingCentral builds AI-native work from engineering to ops
-Wed, 12 Aug 2026 00:00:00 GMT — https://openai.com/index/ringcentral
-
-See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.
 
 ## Hugging Face
 

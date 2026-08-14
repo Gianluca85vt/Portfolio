@@ -1,16 +1,21 @@
-# Tech — harvested 2026-08-13T21:29:46.621Z
+# Tech — harvested 2026-08-14T06:05:43.896Z
 
 ## Ars Technica
+
+### US wait times for cancer surgeries are getting longer and longer
+Thu, 13 Aug 2026 22:17:29 +0000 — https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/
+
+As cancer treatments have advanced and outcomes have improved, one aspect of cancer care in the US has consistently worsened over the last decade: the wait time for surgery. According to a study in JAMA Surgery , patients with one of six types of cancer—breast, colon, lung, pancreatic, gastric, and esophageal—have faced longer wait times for surgery than in 2012. Timeliness is considered a core metric of healthcare quality, and delays in cancer surgery have been linked to poorer outcomes, including reduced survival rates and increased patient anxiety and distress. The findings of the new study are based on data from over 2.7 million patients who had been diagnosed with non-metastatic stage I–III cancers requiring surgery between 2012 and 2023. Researchers led by cancer expert Timothy Donahue at the University of California, Los Angeles, broke that time frame up into four groups: 2012–2015, 2016–2019, 2020–2021, and 2022–2023 to see how wait times have changed over the period. Read full article Comments ]]>
 
 ### Private security firms will soon be allowed to hack overseas cybercriminals
 Thu, 13 Aug 2026 19:38:58 +0000 — https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/
 
-The Trump administration is recruiting private security firms to conduct federal government-authorized operations, including cyber attacks, against overseas-based criminal organizations that commit hacks on US persons, organizations, or government entities. In a National Security Presidential Memorandum issued Thursday, US President Donald Trump directed the National Coordination Center (NCC), which operates under the Homeland Security Task Force, to develop a program for conducting specific cyber operations that combat foreign transnational criminal organizations (TCOs). The Departments of Justice and Homeland Security will provide oversight. The lynchpin of that program is bringing in private sector companies to participate. Devil will be in the still-undefined details A fact sheet that accompanied Thursday’s memo listed ransomware, sextortion schemes, phishing campaigns, financial fraud, and impersonation scams as activities eligible for private-sector security firms to target. The memo said such firms could “conduct Cyber Surveillance Operations and Cyber Effects Operations” against “cyber-enabled” TCOs. Such groups are defined as “any foreign group that conducts cyber-enabled crime against the United States Government, a United States person, or United States interests, and that is not an institutional part of a foreign government or wholly operated under a foreign government’s direction.” Read full article Comments ]]>
+The Trump administration is recruiting private security firms to conduct federal government-authorized operations, including cyberattacks, against overseas-based criminal organizations that commit hacks on US persons, organizations, or government entities. In a National Security Presidential Memorandum issued Thursday, US President Donald Trump directed the National Coordination Center (NCC), which operates under the Homeland Security Task Force, to develop a program for conducting specific cyber operations that combat foreign transnational criminal organizations (TCOs). The Departments of Justice and Homeland Security will provide oversight. The lynchpin of that program is bringing in private sector companies to participate. Devil will be in the still-undefined details A fact sheet that accompanied Thursday’s memo listed ransomware, sextortion schemes, phishing campaigns, financial fraud, and impersonation scams as activities eligible for private-sector security firms to target. The memo said such firms could “conduct Cyber Surveillance Operations and Cyber Effects Operations” against “cyber-enabled” TCOs. Such groups are defined as “any foreign group that conducts cyber-enabled crime against the United States Government, a United States person, or United States interests, and that is not an institutional part of a foreign government or wholly operated under a foreign government’s direction.” Read full article Comments ]]>
 
 ### Virgin Galactic wants your help naming its new Delta class spaceship
 Thu, 13 Aug 2026 19:12:15 +0000 — https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/
 
-As Virgin Galactic nears christening the first of its next-generation spaceship designed to launch customers on suborbital flights, it still is missing a key component—a name. The self-described "commercial spaceline," which was founded by British tycoon Richard Branson, has turned to the public to vote on what to call the new vehicle . The spaceplane will be a member of Virgin Galactic's Delta-class fleet, succeeding SpaceShipTwo, which carried Branson and 31 others on 12 short hops above the US-defined boundary between Earth and space. "You can vote for one of four finalist names for a spaceship that will join Virgin Galactic's growing fleet and the next chapter in our journey to expand access to space," the company announced on its website on Tuesday (Aug. 11). "Name a Virgin Galactic spaceship, shape a piece of spaceflight history." Read full article Comments ]]>
+As Virgin Galactic nears christening the first of its next-generation spaceship designed to launch customers on suborbital flights, it still is missing a key component—a name. The self-described "commercial spaceline," which was founded by British tycoon Richard Branson, has turned to the public to vote on what to call the new vehicle . The spaceplane will be a member of Virgin Galactic's Delta-class fleet, succeeding SpaceShipTwo, which carried Branson and 31 others on 12 short hops above the US-defined boundary between Earth and space. "You can vote for one of four finalist names for a spaceship that will join Virgin Galactic's growing fleet and the next chapter in our journey to expand access to space," the company announced on its website on August 11. "Name a Virgin Galactic spaceship, shape a piece of spaceflight history." Read full article Comments ]]>
 
 ### Ukrainian drones wipe out entire US tank brigade in live war game
 Thu, 13 Aug 2026 18:31:56 +0000 — https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/
@@ -57,12 +62,32 @@ Thu, 13 Aug 2026 11:10:18 +0000 — https://arstechnica.com/tech-policy/2026/08/
 
 Anthropic has revealed that it will soon watermark content that is processed ( not just generated! ) by any of its models. In a support article , Anthropic explained that it was rolling out machine-readable watermarks to comply with the European Union’s AI Act, which requires all AI system providers to watermark AI-generated or manipulated audio, image, text, and video outputs. The law applies to any AI model released after August 2 and provides a grace period until December 2026 for providers to update previously released models. Anthropic confirmed that moving forward, all new models offered globally—not just in the EU—will mark AI-generated content “from day one.” Text outputs will “carry embedded watermarks,” invisible to the user, and other “generated files will include digitally signed provenance metadata where supported,” Anthropic said. Notably, Anthropic is deploying a " nuke it from orbit " approach, applying the watermarks to all processed content where supported, even though the EU does not require it for cases where an AI system performs "an assistive function for standard editing" (the guidance's own example is grammar correction), or where it doesn't "substantially alter" the user's text or its meaning. Read full article Comments ]]>
 
-### Toddler's tragic death from brain-destroying amoeba offers lessons for doctors
-Wed, 12 Aug 2026 22:31:19 +0000 — https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/
-
-A healthy toddler in Washington state fell ill abruptly. It began with vomiting, lethargy, and weakness on his right side. Then it progressed to a headache, fever, and trouble swallowing. At one point, he briefly became unresponsive, and he had episodes where he stopped breathing. Doctors admitted him to the hospital, but his condition only deteriorated. The boy was infected with an ultra-rare amoeba known for ravaging the brain. The opportunistic pathogen was first identified in 1986 from the brain of a San Diego Zoo monkey, which died from the infection. Since then, only about 200 human cases have been recorded worldwide. About 90 percent of them have been fatal. The initial symptoms can be vague and, given its rarity, the infection is notorious for being undiagnosed or misdiagnosed. Still, the scant medical literature does provide some telltale signs, clues of what it can look like on tests and scans. But for the toddler, the infection looked different, sending doctors down the wrong path. Read full article Comments ]]>
-
 ## The Verge
+
+### Trump declares 100 percent tariffs on many drones and all aircraft parts
+2026-08-13T21:06:15-04:00 — https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts
+
+The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers , robots , and Roombas . Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential action , he's declared a whopping 100 percent tariff on imports of drones with thermal cameras, drones weighing over 25kg (57 pounds), and any kind of part for any kind of unmanned aircraft weighing over 25kg - you can read the full list here. For all other drones, including tiny sub-250-gram "Mini" consumer drones, he's declared … Read the full story at The Verge. ]]>
+
+### Apple and Epic argue over how much Apple should get from purchases made outside the App Store
+2026-08-13T19:13:24-04:00 — https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing
+
+In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is "far outside of the bounds" of the court's guidance. Right now, Apple cannot take a commission on external purchases after California district court judge Yvonne Gonzalez Rogers ruled in April 2025 that found the company "willfully" didn't comply with her 2021 Epic Games v. Apple injunction . However, a Ninth Circuit Court of Appeals panel said that Apple … Read the full story at The Verge. ]]>
+
+### ‘That is not acceptable’: Judge orders Google to make rival app store installs easier
+2026-08-13T17:53:04-04:00 — https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier
+
+One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously decided that Google had an illegal monopoly over Android apps, and almost two years since Judge Donato decided the best way of undoing that monopoly would be to crack open Android app distribution. Donato ordered Google to carry rival Android app stores inside its own Google Play Store , and to provide rivals with complecte acc … Read the full story at The Verge. ]]>
+
+### The fight over Flock and other ALPRs
+2026-08-13T17:46:21-04:00 — https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy
+
+There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and people s movements throughout the day and across the country. Dozens of communities have canceled contracts for the cameras or turned them off, including Los Angeles , as officials have pushed for more limits on the data they collect, who has access to it, and how it can be used in the future. Earlier this year, Amazon-owned Ring canceled a partnership with Flock after online backlash. Flock CEO: ‘We got this one wrong’ Flock cameras? Target practice. Another grim portent for our AI policing future. The LAPD has suspended its use of Flock’s license plate readers, for now. No, Flock isn t threatening people for debating surveillance The all-too-predictable Flock stalking problem. Let s talk about Ring, lost dogs, and the surveillance state Ring’s Flock breakup doesn’t fix its real problem Flock is “pausing further exploration of a potential partnership with Ring.” Ring cancels its partnership with Flock Safety after surveillance backlash Dozens of Flock AI camera feeds were just out there AI annotators overseas may be reviewing Flock license plate camera footage from the US. Amazon’s Ring now works with video surveillance company Flock Unprotected license plate surveillance cameras le
+
+### Microsoft’s Clippy-like Mico character is no longer the face of Copilot
+2026-08-13T17:42:38-04:00 — https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired
+
+Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page , Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have "more to react to," as reported earlier by GeekWire . Mico launched in Copilot's voice mode last October , with Microsoft AI CEO Mustafa Suleyman pitching the avatar as a way to give the chatbot an "identity." The blob would react to what you say in real-time, complete with facial expressions and animations. Mico joins the long list of virtual helpers that Microsoft has retired over the years, like Clippy, Cortana, and Rover … Read the full story at The Verge. ]]>
 
 ### Netflix is closing two game studios
 2026-08-13T16:52:58-04:00 — https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games
@@ -88,31 +113,6 @@ The Trump administration is launching a new program that will allow private firm
 2026-08-13T14:30:00-04:00 — https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame
 
 From left, Segway, Roborock, Dreame, Husqvarna, and Mammotion automowers lined up to do battle with my lawn. | Photo: Jennifer Pattison Tuohy / The Verge Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on them. But with some oversight, they can take a big chore off your hands. This summer I tested five bots on my flat, three-quarter-acre, coastal South Carolina property with sandy soil, centipede grass, and lots of trees. Things went much better than last year’s trials and tribulations , thanks to huge improvements in navigation and maneuverability. Basically, they stopped getting stuck. My lawn has never looked better, and my spouse — who had sworn off robot lawnmowers after a user-error injury — is now a convert. His riding lawnmower has been idle for over a month. The consistency of robot mowers is impressive. Running daily and shaving just millimeters at a time, these mowers have created a noticeably lusher lawn. I walked out on it barefoot this morning — something I’ve never done before. The best part is that they work quietly around the clock, without bothering my pets, the wildlife, or the neighbors. I also love the professional-looking lawn lines they make. What’s better The key upgrades this year are network RTK navigation
-
-### You can now just point at a mess and this robot vacuum will suck it up
-2026-08-13T14:00:00-04:00 — https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review
-
-The Matic robot vacuum now offers gesture controlled spot cleaning and a built-in voice assistant. | Photo by Jennifer Pattison Tuohy / The Verge Matic, my current favorite robot vacuum , just got a big upgrade. The company has launched Matic Cues , which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. The feature launches today, August 13 at 2 pm ET, and will show as an option in the Matic app under Settings > Matic Cues. The update arrives just ahead of a planned price hike on September 9, which will see the WALL-E-style robot's price go from $1,245 to $1,495. I've been playing with Matic Cues for a day or so, and so far it's working well. Gesture control is th … Read the full story at The Verge. ]]>
-
-### 2K launches new studio to build its next blockbuster sports franchise
-2026-08-13T12:38:15-04:00 — https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer
-
-2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's "next blockbuster sports franchise," according to a LinkedIn post . The post doesn't explicitly say what sport this new game will focus on. But an image included in the post features what appears to be a mockup soccer badge, indicating that Small Axe might be making a soccer game that goes head-to-head with EA Sports FC . The Small Axe website also lists senior staffers with experience working on EA's FIFA series ( the former name of EA Sports FC ), including studio head Aaron McHardy, who once led that franchise. Small Axe was … Read the full story at The Verge. ]]>
-
-### Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul
-2026-08-13T12:23:18-04:00 — https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant
-
-Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with Ford's team in Louisville already in the production-level pre-tooling phase at the recently converted facility. Factory workers are working alongside team's at Ford's New Model Product Development Center in Dearborn, Michigan, hand-building the Fathom prototypes - and the same operators who helped design the high-stakes EV will also be involved in its production. The factory is over 70 years old … Read the full story at The Verge. ]]>
-
-### Meta adds AI screening to detect WhatsApp scams
-2026-08-13T12:10:06-04:00 — https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection
-
-Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users a warning if a chat seems like a scam: If the model identifies a message as a likely scam attempt, the user sees a warning in the chat, which is not visible to the other person. From there, the user can decide what to do: block, report, or continue the conversation. If they decide that a warning is incorrectly flagged, the user can mark the cha … Read the full story at The Verge. ]]>
-
-### The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price
-2026-08-13T12:00:00-04:00 — https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price
-
-My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for the mountain-man roads of the Catskills, then on to Long Island and New England over three days. Fortunately, this Grand Sport, a name synonymous with value among Corvette fans, was the first of its kind: A 721-horsepower super-hybrid with a brainy, confidence-boosting AWD system. I popped the Corvette into Sport mode, Wet mode be damned. Finding tire grip galore on the Palisades Parkway, I realiz … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +178,11 @@ We've typed many words about how the industry-standard 90-day security bug discl
 
 ## Phoronix
 
+### AMD GAIA 0.23 Delivers Ability To Install/Run AI Agents From The Terminal
+Thu, 13 Aug 2026 20:33:01 -0400 — https://www.phoronix.com/news/AMD-GAIA-0.23
+
+AMD's GAIA open-source AI software built atop Lemonade for serving as an AI companion for emails, a Bash coding agent, and other AI agent skills is out with a new version today with more features while also improving security and making other improvements...
+
 ### KDE, Techpaladin & Kubuntu Focus Announce The Bullet-Proof KDE Software Initiative
 Thu, 13 Aug 2026 16:08:00 -0400 — https://www.phoronix.com/news/KDE-Bullet-Proof-Software
 
@@ -232,9 +237,4 @@ Rsync as the widely-used, open-source remote sync software for synchronizing fil
 Wed, 12 Aug 2026 20:35:57 -0400 — https://www.phoronix.com/news/Comma.ai-PCIe-Gen4-USB4-Dock
 
 George Hotz of Comma.ai and Tinygrad today announced the Tiny Chestnut eGPU Dock and the "Chestnut" Dock complete with an AMD Radeon RX 9060 8GB GPU too. Making this Chestnut / Tiny Chestnut Dock interesting is that it runs on open-source firmware...
-
-### Tenstrorrent Posts GCC Compiler Patches For Ascalon XG Core
-Wed, 12 Aug 2026 16:14:37 -0400 — https://www.phoronix.com/news/Tenstorrent-Ascalon-XG-GCC
-
-While the Tenstorrent Ascalon X is known as their high performance out-of-order RISC-V RVA23 CPU core for extreme performance over the H and S models, a new GNU Compiler Collection (GCC) patch today from Tenstorrent makes known a new Ascalon XG core...
 

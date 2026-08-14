@@ -1,6 +1,41 @@
-# Film & TV — harvested 2026-08-13T21:29:46.621Z
+# Film & TV — harvested 2026-08-14T06:05:43.896Z
 
 ## Variety
+
+### Troye Sivan Brings Nicole Kidman to the Club for She s the Best Music Video
+Fri, 14 Aug 2026 04:48:07 +0000 — https://variety.com/2026/music/news/troye-sivan-nicole-kidman-shes-the-best-music-video-1236834397/
+
+Troye Sivan has kicked off a new era with the release of his new single She s the Best along with a music video co-starring Nicole Kidman. In the clip, directed by Gordon Von Steiner, Sivan holds the spotlight at a club filled with drag queens, including Sasha Colby. Kidman, a fellow Aussie, sips a drink [ ]
+
+### Phoebe Bridgers Leads Delighted Fans Around the Rink at a Rollerskating Listening Party for Lost Weekend
+Fri, 14 Aug 2026 04:28:05 +0000 — https://variety.com/2026/music/news/phoebe-bridgers-rollerskating-release-party-qa-lost-weekend-1236834356/
+
+Phoebe Bridgers tends to stand out in a crowd, and not just because of her celebrity or natural star quality, but because of the hair; other women around L.A. may go for the platinum blonde look, but not quite that platinum. So it was fairly easy to pick her out for the entirety of the [ ]
+
+### Oscar Predictions: Supporting Actress — Is This the Year of Penélope Cruz?
+Fri, 14 Aug 2026 01:00:00 +0000 — https://variety.com/feature/2027-oscars-best-supporting-actress-predictions-1236834272/
+
+Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
+
+### Oscar Predictions: Supporting Actor — How Many Men Can be Nominated From The Odyssey ?
+Fri, 14 Aug 2026 00:30:00 +0000 — https://variety.com/feature/2027-oscars-best-supporting-actor-predictions-1236834271/
+
+Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
+
+### Oscar Predictions: Best Actress — How Obsessed Will the Academy Become With Inde Navarrette?
+Fri, 14 Aug 2026 00:00:00 +0000 — https://variety.com/feature/2027-oscars-best-actress-predictions-1236834270/
+
+Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
+
+### Oscar Predictions: Best Actor — The Most Competitive Category Awaits Leading Men Like Tom Cruise, Matt Damon and More
+Thu, 13 Aug 2026 23:31:40 +0000 — https://variety.com/feature/2027-oscars-best-actor-predictions-1236834269/
+
+Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
+
+### Tyler Duckworth, The Challenge Reality Show Winner, Dies at 44
+Thu, 13 Aug 2026 22:23:34 +0000 — https://variety.com/2026/tv/news/tyler-duckworth-dead-the-challenge-1236834280/
+
+Tyler Duckworth, who competed on six seasons of reality show The Challenge and also appeared on MTV s The Real World: Key West, has died in North Dakota. He was 44. His mother, Joni, announced his death on Facebook Thursday, writing, “My son, Tyler, passed away earlier this week. Cause of death has yet to be [ ]
 
 ### Warner Bros. Discovery CEO David Zaslav Beneficiary of $21.7 Million Stock Sale as Paramount Merger Is Stuck on Hold
 Thu, 13 Aug 2026 21:21:07 +0000 — https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-21-7-million-stock-1236834226/
@@ -17,152 +52,117 @@ Thu, 13 Aug 2026 20:32:05 +0000 — https://variety.com/2026/film/news/tramell-t
 
 Tramell Tillman is going to play a big role in the Marvel Cinematic Universe’s future. And he can finally talk about it. Tillman, who won an Emmy last year for his supporting role in Apple TV’s “Severance,” had been hoping to appear in a Marvel movie for some time, and heard from his team that [ ]
 
-### Matthew McConaughey on Immortality, Shooting With Linklater and Nolan and Teaching His Film Students Not to Fear Doing Something Sh y
-Thu, 13 Aug 2026 20:30:00 +0000 — https://variety.com/2026/film/features/matthew-mcconaughey-rivals-of-amziah-king-brothers-1236833422/
-
-In all his homespun wisdom, Matthew McConaughey doesn’t think the world is a stage — he thinks it’s a story told by the fire. “Am I doing things that I want to last? Yeah. Am I trying to build bonfires instead of just campfires? Yeah,” the Oscar-winner says, reflecting on his legacy before he’s honored [ ]
-
-### NFL Preseason 2026 Livestream: Here s Where to Watch Pro Football Games Online
-Thu, 13 Aug 2026 20:24:12 +0000 — https://variety.com/2026/shopping/news/how-to-watch-nfl-preseason-games-online-livestream-free-1236480652/
-
-Although the first game of the preseason is the NFL Hall of Fame Game, the rest of the teams in the league begin play during Week 1 of preseason on Thursday, Aug. 13. The NFL 2025-27 season is just a few weeks away, while teams are getting ready to compete to win their division, make [ ]
-
-### Warner Bros. Discovery s Gerhard Zeiler to Recieve Directorate Award at This Year s International Emmys
-Thu, 13 Aug 2026 20:20:25 +0000 — https://variety.com/2026/tv/news/warner-bros-discovery-gerhard-zeiler-international-emmy-1236834184/
-
-Warner Bros. Discovery president of international Gerhard Zeiler has been tapped to receive the 2026 International Emmy Directorate Award. He joins Netflix chief content officer Bela Bajaria, who was previously announced as this year s honoree for the org s founders award. Zeiler and Bajaria will acceot their awards at the 54th International Emmy Awards Gala on [ ]
-
-### House of the Dragon Season 3 Finale Hits 21 Million Viewers in Three Days
-Thu, 13 Aug 2026 20:13:34 +0000 — https://variety.com/2026/tv/news/house-of-the-dragon-season-3-finale-ratings-1236834172/
-
-House of the Dragon concluded its third season on HBO on Sunday night, with the finale reaching 21 million viewers in its first three days of availability. More than 11 million of those viewers were in the U.S. That total comes from a combination of Nielsen s measurement of linear viewers on the HBO cable channel [ ]
-
-### WOW Women Of Wrestling Sets Major Season 5 Expansion, Jeanie Buss to Appear On-Camera (EXCLUSIVE)
-Thu, 13 Aug 2026 20:00:00 +0000 — https://variety.com/2026/tv/news/women-of-wrestling-season-5-jeanie-buss-1236831594/
-
-WOW Women Of Wrestling is going through a major growth spurt for its fifth season — which includes the league’s first live broadcast and expanded on-camera presence from Jeanie Buss. Season 5 will broadcast live from L.A. Live in downtown Los Angeles, anchoring WOW’s marquee events as part of a broader live strategy. Co-owner and promoter [ ]
-
-### Stretching Time: Nicolaas Schmidt on September Afternoon
-Thu, 13 Aug 2026 19:53:51 +0000 — https://variety.com/2026/film/global/locarno-film-festival-nicolaas-schmidt-september-afternoon-1236834121/
-
-On a windy afternoon, a family packs a beach bag, perhaps for the last time, and languidly walks towards the coast. A sense of gloom hangs in the air. While the child and her mother play in the sand, the father tackles the seemingly impossible task of setting up a tent to provide shelter. As [ ]
-
-### This AI Startup Made a 24-Hour AI News Channel. Who Wants This?
-Thu, 13 Aug 2026 19:37:49 +0000 — https://variety.com/2026/digital/news/mirage-ai-generated-24-hour-news-channel-1236834107/
-
-Is there an audience for AI-delivered news? Public data says no, and previous attempts to deliver such ventures have yielded many human-written stories about projects that never materialized. And yet Mirage — the AI startup behind the video-editing app Captions that raised $75 million this year and was last valued at $500 million — thinks [ ]
-
 ## The Hollywood Reporter
 
-### When and Where to Watch Camp Rock 3
-Thu, 13 Aug 2026 20:35:39 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-camp-rock-3-release-date-cast-streaming-online-free-1236673128/
+### Busan Film Festival to Honor Its Founder Kim Dong-ho with Korean Cinema Award
+Fri, 14 Aug 2026 05:30:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-founder-kim-dong-ho-korean-cinema-award-1236673433/
 
-After 16 long years, 'Camp Rock' (and the Jonas Brothers and Demi Lovato) return for a highly-anticipated third go-around.
+The 88-year-old Korean industry luminary, who founded the festival in 1996 and made his own feature directorial debut last year, will accept the prize at the Oct. 6 opening ceremony.
 
-### Matthew McConaughey: How to Lose a Guy in 10 Days Pays by Far My Best Mailbox Money
-Thu, 13 Aug 2026 20:33:10 +0000 — https://www.hollywoodreporter.com/movies/movie-news/matthew-mcconaughey-how-to-lose-a-guy-in-10-days-money-1236673140/
+### Alexa Nikolas Wins Key Ruling In Defamation Case Against Bryan Freedman Over Smear Claims
+Fri, 14 Aug 2026 02:43:29 +0000 — https://www.hollywoodreporter.com/business/business-news/alexa-nikolas-defamation-case-bryan-freedman-1236673163/
 
-The actor on how his 2003 rom-com is "the gift that keeps on giving."
+Justin Baldoni's lawyer and crisis publicist Melissa Nathan are implicated in the creation of smear websites, a court finds.
 
-### Ted Lasso Season 4 Sets Premiere Day Viewing Record for Apple TV
-Thu, 13 Aug 2026 19:02:13 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-season-4-premiere-ratings-apple-tv-1236673077/
+### Jenna Ortega s Sister Reacts to Public Discourse Over Wednesday Star s Appearance
+Fri, 14 Aug 2026 02:23:08 +0000 — https://www.hollywoodreporter.com/news/general-news/jenna-ortega-sister-reacts-discourse-actress-appearance-1236673428/
 
-The show's return drew nearly 300 million minutes of viewing time on Aug. 4 and 5.
+A recent video interview with 'Esquire' has led to a wave of online commentary about Ortega's health and body.
 
-### CBS News Pushes Into Live Events as Sunday Morning Teams With 92nd Street Y (Exclusive)
-Thu, 13 Aug 2026 18:55:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/cbs-sunday-morning-teams-92y-live-interview-series-1236672349/
+### American Horror Story Season 13: Everything We Know
+Fri, 14 Aug 2026 01:49:51 +0000 — https://www.hollywoodreporter.com/lists/american-horror-story-season-13-everything-we-know-guide/
 
-The long-running morning show will collaborate with the Upper East Side cultural institution on live interviews and programming that will stream on both their platforms.
+The 13th installment of Ryan Murphy and Brad Falchuk's horror anthology series is returning — and in a big way.
 
-### We Don t See This as Entertainment : THR Presents Q A With Octavia Spencer on True Crime Docu-Series Lost Women of Alaska
-Thu, 13 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-videos/octavia-spencer-lost-women-of-alaska-emmy-nominee-narrator-1236668252/
+### The War Over Warner Bros. Is Splintering Hollywood s Labor World
+Fri, 14 Aug 2026 00:40:50 +0000 — https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-labor-world-1236673223/
 
-The narrator and executive producer of the ID series talks about the "duty" she feels to amplify the stories of missing and murdered native women and the current efforts toward seeking justice.
+Rob Bonta and David Ellison are dividing the unions, whose members have diverging interests on the way the antitrust battle against a merged Paramount and Warner Bros. is waged.
 
-### Sally Field Recalls the Roles She Fought for the Hardest
-Thu, 13 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/sally-field-career-remarkably-bright-creatures-1236672565/
+### Tyler Duckworth, The Challenge Winner, Dies at 44
+Thu, 13 Aug 2026 23:46:11 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tyler-duckworth-dead-the-challenge-winner-44-1236673350/
 
-The Emmy-nominated star of Netflix’s 'Remarkably Bright Creatures' adaptation discusses the "The whole time?" moment from 'Mrs. Doubtfire' and whether you can expect to see her reprising Mary Todd Lincoln on Broadway: "No, no, no."
+Duckworth joined the MTV family as a castmember on 'The Real World: Key West' in 2006.
 
-### House of the Dragon Star on Narrowly Cheating Death: They Can t Get Rid of Me That Easily
-Thu, 13 Aug 2026 18:03:19 +0000 — https://www.hollywoodreporter.com/tv/tv-features/house-of-the-dragon-season-3-finale-sea-snake-steve-toussaint-1236673062/
+### NY Film Festival Sets Currents Lineup Led by Bardi World Premiere
+Thu, 13 Aug 2026 23:39:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ny-film-festival-2026-currents-lineup-1236673366/
 
-The Sea Snake, played with royal gravitas by Steve Toussaint, survives the end of season three. "Who knows what tomorrow may bring. But for now, I'm still employed," says Toussaint.
+The section, which features films that expand the possibilities of the medium, includes 15 features and 28 shorts.
 
-### What Showrunner Will Smith’s Exit Means for ‘Slow Horses’ Season 6
-Thu, 13 Aug 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/slow-horses-showrunner-exit-season-six-1236670572/
+### California Bill to Cap Concert Resale Ticket Prices Dies After Lobbying Frenzy
+Thu, 13 Aug 2026 23:18:38 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/california-bill-to-cap-concert-resale-ticket-prices-dies-1236673216/
 
-As the acclaimed series returns Sept. 16, executive producer Doug Urbanski explains how Gaby Chiappe stepped in, why the new season combines two Mick Herron novels and what comes next.
+StubHub, the industry's largest ticket resale platform, spent $3.4 million this year lobbying against California's AB 1720.
 
-### Shooting Blancs: Why Hollywood Is Drunk on “White Wine Thrillers”
-Thu, 13 Aug 2026 17:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/hollywood-white-wine-thrillers-1236671091/
+### Christy Knowings, All That Star, Dies at 46
+Thu, 13 Aug 2026 22:55:10 +0000 — https://www.hollywoodreporter.com/tv/tv-news/christy-knowings-dead-all-that-1236673215/
 
-Break out the good stemware because there’s a label for series like 'All Her Fault,' 'The Perfect Couple' and 'Big Little Lies' — and every player in town is suddenly thirsty.
+Her former co-star, Kenan Thompson, wrote in a tribute, "She was a real one and one of the funniest people out here."
 
-### MobLand Season 2 Trailer: Tom Hardy Returns After Drama Over His Future on the Series as Pierce Brosnan s Conrad Goes “Bonkers Berserk”
-Thu, 13 Aug 2026 17:28:10 +0000 — https://www.hollywoodreporter.com/tv/tv-news/mobland-season-2-trailer-tom-hardy-pierce-brosnan-1236672941/
+### Why Green Day Wanted to Be Background Characters in Their Own Movie
+Thu, 13 Aug 2026 22:49:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/green-day-background-characters-movie-nimrods-1236673233/
 
-The Paramount+ series, which also stars Helen Mirren, returns on Sept. 18.
+'Nimrods' is a road trip comedy based on the band's music and personal stories, but sees Billie Joe Armstrong, Tré Cool and Mike Dirn taking a backseat.
 
 ## Deadline
 
-### Drew Starkey Stays Mum On Potential American Psycho Casting, But Teases: The Script Is Amazing
-Thu, 13 Aug 2026 21:21:30 +0000 — https://deadline.com/2026/08/drew-starkey-potential-american-psycho-casting-script-amazing-1237033270/
+### Power Rangers Live-Action Series Not Moving Forward At Disney+
+Fri, 14 Aug 2026 02:25:53 +0000 — https://deadline.com/2026/08/power-rangers-live-action-series-dead-disney-plus-1237033544/
 
-Following his breakout performance in Luca Guadagnino s Queer (2024), Drew Starkey is staying quiet about whether they re teaming up again. Amid speculation that Starkey is in the mix for the role of Patrick Bateman in the Oscar-nominated director s highly-anticipated adaptation of the 1991 Bret Easton Ellis book American Psycho, the actor offered a no comment [ ]
+EXCLUSIVE: Disney+ is not proceeding with its live-action Power Rangers series. The project, written and executive produced by Percy Jackson and the Olympians executive producers/showrunners Jonathan E. Steinberg and Dan Shotz, was set up for development at the Disney streamer about a year and a half ago with sibling 20th Television as the studio. It [ ]
 
-### Anna Pigeon Debuts To 8-Year Ratings High For USA Scripted Originals
-Thu, 13 Aug 2026 21:18:25 +0000 — https://deadline.com/2026/08/anna-pigeon-premiere-ratings-record-usa-network-1237033283/
+### Watch Kevin Costner s Field Of Dreams MLB Game Intro
+Fri, 14 Aug 2026 01:17:47 +0000 — https://deadline.com/2026/08/kevin-costner-field-of-dreams-game-video-1237033509/
 
-Anna Pigeon is forging a solid path for itself since premiering last week. The series has debuted as the highest-rated USA original scripted series premiere in nearly eight years and a top new entry on ad-supported cable both in total viewers and in the 18-49 demo, per Nielsen Big Data + Panel. In the three [ ]
+He wasn t there in person this time, but he was there in spirit. And spirit is what the night was all about. Kevin Costner provided the narration for an intro to tonight s Field of Dreams game on Netflix. It s the third edition of the Hollywood-MLB mashup played on a field near the Iowa farmhouse where [ ]
 
-### Chad Powers : Glen Powell s Russ Holliday Struggles To Keep Up The Ruse On His College Football Playoff Run In Season 2 Trailer
-Thu, 13 Aug 2026 21:00:46 +0000 — https://deadline.com/2026/08/chad-powers-season-2-trailer-hulu-glen-powell-1237033247/
+### Big Brother Season 28, Week 5 Eviction: Fifth Housemate Voted Out After Surprising BB Block Buster
+Fri, 14 Aug 2026 00:50:32 +0000 — https://deadline.com/2026/08/big-brother-season-28-week-5-eviction-cbs-1237033488/
 
-The South Georgia Catfish still have a playoff to make. That is, if their star player can keep up the ruse on his real identity for that long. The walls are closing in on Russ Holliday (Glen Powell) in Season 2 of Chad Powers, as evidenced by the trailer Hulu released Thursday. Now that Ricky [ ]
+SPOILER ALERT: This post contains details on Big Brother Season 28, Episode 19, which aired on Thursday, August 13. Julie Chen Moonves returned to host another live eviction of Big Brother Season 28 as the competition heats up in a divided house. La Trice Verrett was the Head of Household (HOH) in Week 5 of [ ]
 
-### Leslie Bibb Went Off Book With Jean Smart In Hacks ; Joins Brett Goldstein s New Escorted Show With Lesley Manville: How Is This My Life?
-Thu, 13 Aug 2026 21:00:00 +0000 — https://deadline.com/2026/08/leslie-bibb-hacks-brett-goldstein-escorted-1237033068/
+### Julianne Nicholson Was Concerned About Reprising Mare of Easttown Role In Task Season 2: Do I Know Who This Person Is?
+Fri, 14 Aug 2026 00:43:02 +0000 — https://deadline.com/2026/08/julianne-nicholson-concerned-reprising-mare-of-easttown-role-task-1237033475/
 
-Leslie Bibb hates to think of herself as having a moment. “I don t like to say moment, because it can be over like that,” she says. “It feels like I have been preparing for this my whole career, and the stars are aligning for the parts.” From her breakout role as Brooke McQueen on Popular, [ ]
+As Julianne Nicholson prepares to reprise her Mare of Easttown role, she s had to get back in touch with the character. The 2x Emmy winner, who won her first in 2021 for playing Lori Ross on the HBO series, explained that she was concerned about expectations for bringing the character back in the upcoming second [ ]
 
-### Married At First Sight Audience Up 94% For Season 20 On Peacock
-Thu, 13 Aug 2026 20:30:00 +0000 — https://deadline.com/2026/08/married-at-first-sight-season-20-ratings-peacock-1237033123/
+### The End Of Oak Street Stomping To $38M-$48M Global Opening; U.S. Previews At $2M+ Thursday PM Box Office
+Fri, 14 Aug 2026 00:00:46 +0000 — https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/
 
-EXCLUSIVE: Married at First Sight is courting quite a few new viewers this season. Since the July 12 premiere of Season 20, the series has tallied more than 1.2 billion viewing minutes on Peacock, according to the streamer s internal data. The latest installment ranks as the third highest-reaching original reality season ever on the streamer. [ ]
+This weekend will belong to Sony/Marvel Studios Spider-Man: Brand New Day, but the bright new shiny event title hopeful is Warner Bros/Bad Robot s The End of Oak Street, which in U.S. previews Thursday night is estimated to do around $2 million-plus after showtimes that began at 1 p.m. at 3,200 sites. Note that it s still [ ]
 
-### Big Brother UK Gets New Eye Logo Design Ahead Of Season 23 Launch This Fall On ITV2 ITVX
-Thu, 13 Aug 2026 20:25:51 +0000 — https://deadline.com/2026/08/big-brother-uk-new-eye-logo-design-season-23-itv2-itvx-1237033230/
+### Just One Day YA Drama Starring Kathryn Newton Moves To Hulu For Development
+Thu, 13 Aug 2026 23:47:08 +0000 — https://deadline.com/2026/08/just-one-day-kathryn-newton-hulu-1237033213/
 
-ITV has confirmed the return of Big Brother UK this fall, unveiling a new redesigned logo for the new season. The British broadcaster has done away with the graphic, colorful eye logo and replaced it with a more realistic eye as the new image for the reality TV competition. Set to premiere this fall on [ ]
+EXCLUSIVE: Hulu is developing Just One Day, a series starring Kathryn Newton (The Devil s Mouth, Big Little Lies) based on the Gayle Forman YA romance novels. Patrick Moran executive produces the project, which was originally set up at Amazon under his company PKM Productions first-look deal there, with Beauty the Beast co-creators Sherri Cooper [ ]
 
-### Everything We Know About Aaron Sorkin’s ‘The Social Reckoning’ So Far
-Thu, 13 Aug 2026 20:09:36 +0000 — https://deadline.com/feature/the-social-reckoning-news-updates-everything-we-know-1237033205/
+### Tyler Duckworth Dies: MTV s The Challenge Alum Was 44
+Thu, 13 Aug 2026 23:45:29 +0000 — https://deadline.com/2026/08/tyler-duckworth-dead-mtv-the-challenge-1237033450/
 
-Aaron Sorkin will return to the world of Facebook in The Social Reckoning, a companion film to The Social Network (2010). The follow-up film is not quite a sequel, and different actors will appear in the technological thriller versus the 2010 film. For everything we know about The Social Reckoning, read on. When does The [ ]
+Reality TV star Tyler Duckworth, who first appeared on MTV’s The Real World: Key West and went on to compete on six seasons of The Challenge, winning twice, has died. He was 44. His mother, Joni, announced her son’s death Thursday on Facebook. “My son, Tyler, passed away earlier this week,” she wrote. “Cause of death [ ]
 
-### House Of The Dragon Season 3 Life, Larry The Pursuit Of Unhappiness Finish As Top Performers For HBO Max
-Thu, 13 Aug 2026 20:06:36 +0000 — https://deadline.com/2026/08/house-of-the-dragon-season-3-life-larry-unhappiness-ratings-hbo-1237033191/
+### DTF St. Louis Creator Steve Conrad On Tapping Into The Exotica Underbelly Of The Midwest Crew Call Podcast
+Thu, 13 Aug 2026 23:30:00 +0000 — https://deadline.com/2026/08/dtf-st-louis-steve-conrad-interview-1237033377/
 
-House of the Dragon soared to a smooth Season 3 finish. The final episode of the season tallied over 11 million U.S. viewers and 21 million global viewers within the first three days of its Sunday night debut, Warner Bros. Discovery said Thursday. WBD did not say how that stacks up against the Season 2 [ ]
+There s a 1970s movie sensibility in Steve Conrad s HBO limited series DTF St. Louis, which tells the story of a bromance between two co-workers, a River City TV weatherman played by Jason Bateman and his hearing-impaired interpreter played by David Harbour. The former gets the latter into a kinky dating app. In between them is [ ]
 
-### Kenan Thompson Remembers All That Co-Star Christy Knowings: This One Hit Hard
-Thu, 13 Aug 2026 19:49:40 +0000 — https://deadline.com/2026/08/kenan-thompson-christy-knowings-1237033140/
+### Teamsters Pound Paramount Over WBD Merger Promises Threats: Stop Playing Games
+Thu, 13 Aug 2026 22:50:28 +0000 — https://deadline.com/2026/08/paramount-merger-teamsters-protest-1237033400/
 
-Saturday Night Live s Kenan Thompson is remembering his former All That co-star Christy Knowings, who died Tuesdat at 46 after being taken off life support following a devastating asthma attack. Man this one hit hard!!!, Thompson wrote on Facebook today after learning that his castmate from the 90s Nickelodeon series had passed. Rest well Christy!!! [ ]
+The DGA and IATSE may want to play footsie with Paramount over the state attorneys general antitrust lawsuit and hopes for a settlement. However, as the WGA has joined the charge against David Ellison s currently stalled $111 billion purchase of Warner Bros Discovery, a very strong arm of Hollywood labor has declared it s time to [ ]
 
-### What To Expect For Heated Rivalry Season 2: Everything We Know So Far
-Thu, 13 Aug 2026 19:21:52 +0000 — https://deadline.com/feature/heated-rivalry-season-2-news-updates-everything-we-know-1236867258/
+### John Cena Made Peace With Coyote vs. Acme Never Coming Out: I Don t Own My Performance
+Thu, 13 Aug 2026 22:41:17 +0000 — https://deadline.com/2026/08/john-cena-made-peace-coyote-vs-acme-never-coming-out-1237033383/
 
-There is still a long wait to be had for the highly anticipated second season of Heated Rivalry. When Season 1 of the Crave book adaptation of Rachel Reid’s Game Changers series skated quietly ontoHBO Max Nov. 28, 2025, it quickly built momentum and became a phenomenon. Season 2 is in the works while stars [ ]
+As Coyote vs. Acme finally gets its day in court, John Cena has a pretty levelheaded reaction to the once-shelved movie premiering in theaters. The Emmy nominee explained how he can accept both the positive and the negative of the situation after Ketchup Entertainment saved the Dave Green-helmed Looney Tunes movie, which premieres Aug. 28 [ ]
 
-### Christy Knowings Dies: Former Nickelodeon Star Of All That Was 46
-Thu, 13 Aug 2026 19:01:45 +0000 — https://deadline.com/2026/08/christy-knowings-dead-1237033066/
+### Parties Lay Out Key Discovery And Other Dates For Pending Paramount-WBD Antitrust Trial
+Thu, 13 Aug 2026 22:33:25 +0000 — https://deadline.com/2026/08/paramount-warner-bros-trial-schedule-1237033223/
 
-Christy Knowings, a cast member of Nickelodeon s 90s hit All That, died Tuesday, August 11, after being removed from life support at a Los Angeles-area hospital, TMZ reports. She was 46. Knowing s aunt, Tyleah Joseph, announced the death Wednesday on Facebook, but a cause was not disclosed. According to TMZ, citing family sources, Knowings was [ ]
+This week has been dominated by headlines about Paramount s threat to leave California, by unions and other officials urging a settlement and by Capitol Hill Democrats warning of investigations. But on Thursday, attorneys completed the rather routine step of proposing key dates and deadlines in advance of an antitrust trial over the proposed merger of [ ]
 
-### Ted Lasso Season 4 Enters The Pitch With Apple TV s Biggest Premiere Ever
-Thu, 13 Aug 2026 19:00:00 +0000 — https://deadline.com/2026/08/ted-lasso-season-4-premiere-us-viewership-nielsen-apple-tv-1237033025/
+### ABC And NBC Will Air 90 NBA Games Next Season, Up 14% From The Prior Year
+Thu, 13 Aug 2026 22:32:28 +0000 — https://deadline.com/2026/08/abc-nbc-nba-games-season-disney-1237033368/
 
-Ted Lasso received a warm welcome upon its return to Apple TV earlier this month. The Season 4 premiere drew 296.6 million viewing minutes in the U.S. across its August 4 and 5 launch window, per Nielsen data provided by Apple on Thursday. On August 5 alone, the season debut was the most-streamed program in [ ]
+ABC and NBC will combine to air 90 NBA games during the 2026-27 season, a 14% increase over the broadcast networks total of 79 in the prior season. The uptick will continue the squeeze on general-entertainment programming, extending a long-term shift toward live sports, unscripted fare and news and away from traditional dramas and comedies. [ ]
 
