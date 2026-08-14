@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-14T14:03:26.345Z
+# Games — harvested 2026-08-14T15:34:52.685Z
 
 ## Eurogamer
+
+### UK video game industry charity football match raises over £63,000 for physically disabled gamers
+Fri, 14 Aug 2026 14:21:11 +0000 — https://www.eurogamer.net/special-effect-big-football-match-charity-50000
+
+Video game charity SpecialEffect has once again hosted its One Big Game football event, bringing developers from all across the UK games industry together to raise money for a good cause. And with the event now over, more than &pound;63,000 has been raised to help support physically disabled gamers. Read more
+
+### Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete
+Fri, 14 Aug 2026 14:17:44 +0000 — https://www.eurogamer.net/compulsion-games-south-of-midnight-publisher-xbox-restructuring
+
+Developer Compulsion Games is now listed as the publisher of its beautiful, musical action adventure game South of Midnight on Steam, suggesting that its full detachment from the Xbox division is complete. Read more
 
 ### Nintendo announces Pokémon Pokopia has sold over 5m copies, meaning that roughly one in four Switch 2 users now owns the game
 Fri, 14 Aug 2026 13:19:08 +0000 — https://www.eurogamer.net/pokemon-pokopia-5m-sales
@@ -51,16 +61,6 @@ Thu, 13 Aug 2026 15:00:16 +0000 — https://www.eurogamer.net/insomniac-wolverin
 Thu, 13 Aug 2026 14:59:10 +0000 — https://www.eurogamer.net/you-have-fewer-than-200-days-to-migrate-all-your-old-pokemon-from-pokemon-bank-to-pokemon-home-or-theyre-gone-forever
 
 Today, The Pok&eacute;mon Company announced that it's shutting down Pok&eacute;mon Bank, the Pok&eacute;mon storage app was that was originally released for the Nintendo 3DS back in 2013. The service goes offline on 26th February, 2027, so you've still got plenty of time to access your old pals and begin migrating them into your new games, if you've got the time and energy. Read more
-
-### 20 hours in, I cannot believe the scale, complexity, and ambition of Fire Emblem: Fortune's Weave
-Thu, 13 Aug 2026 13:00:44 +0000 — https://www.eurogamer.net/fire-emblem-fortunes-weave-preview
-
-Fire Emblem: Fortune's Weave is massive. If you're coming to Intelligent Systems' Switch 2 RPG after playing even Three Houses or Engage, you're going to be shocked by the scale of it. Within the first 10 hours of the game, you are given choices that show you just how broad the scope of the game is. As you play, more avenues open up before you in concertina, a bafflingly complex bloom of consequence, intrigue, and narrative that blossoms and blossoms. Read more
-
-### After this week's Elder Scrolls 6 tease, fans think they've figured out its full name - and it was hidden in Starfield all along
-Thu, 13 Aug 2026 12:57:59 +0000 — https://www.eurogamer.net/the-elder-scrolls-6-subtitle-fan-theory-starfield
-
-Following Xbox CEO Asha Sharma's recent redacted tease of a subtitle for the long-awaited Elder Scrolls 6, it's been discovered the game's full name might have been hiding in developer Bethesda's most recent release, Starfield , all along. Read more
 
 ## GamesIndustry.biz
 
@@ -120,6 +120,11 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Call of Duty: Modern Warfare 4 s PS5 Beta Includes Campaign Mission for the First Time
+Fri, 14 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/call-of-duty-modern-warfare-4s-ps5-beta-includes-campaign-mission-for-the-first-time
+
+Try out Entrenched level in PS5 beta. Activision has revealed its upcoming PS5 beta for Call of Duty: Modern Warfare 4 will include a single player campaign mission to try for the first time in series history. Alongside a selection of multiplayer modes and maps, and the new Warzone Resurgence map (called Zodiac), the beta will let you sample Entrenched, a level from the campaign. You can catch a quick tease of it below: Read the full article on pushsquare.com
+
 ### Mafia Remake Joins The Old Country on PS5 in Full Series Collection with 60FPS, Visual Upgrades
 Fri, 14 Aug 2026 13:15:00 GMT — https://www.pushsquare.com/news/2026/08/mafia-remake-joins-the-old-country-on-ps5-in-full-series-collection-with-60fps-visual-upgrades
 
@@ -175,11 +180,6 @@ Thu, 13 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/features/round-up-m
 
 The best there is? Hands-on previews have begun coming in for Marvel's Wolverine , Sony's big PS5 exclusive launching in just over a month's time. The game has looked pretty promising in the few glimpses we've seen so far, and these write-ups are largely very positive, painting a picture of another superhero blockbuster action adventure from Insomniac Games. Read the full article on pushsquare.com
 
-### Still Not Sold on Dawnwalker? Dev Presents Everything You Need to Know About the Open World RPG
-Thu, 13 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/still-not-sold-on-dawnwalker-dev-presents-everything-you-need-to-know-about-the-open-world-rpg
-
-Night by night. The Blood of Dawnwalker is probably the most anticipated RPG coming to PS5 right now, and with its 3rd September release date fast approaching, it's time for developer Rebel Wolves to orchestrate one last marketing push. To be fair, the studio's already marketed the hell out of Dawnwalker in partnership with publisher Bandai Namco up until this point — but if you're still not quite sold on the game, I'd recommend giving this overview video a watch. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Scabby versus Sharma, Twitch's GenAI admission, and Netflix shutters more studios - Patch Notes #65
@@ -231,14 +231,4 @@ Thu, 13 Aug 2026 10:01:23 GMT — https://www.gamedeveloper.com/production/libra
 Wed, 12 Aug 2026 16:38:37 GMT — https://www.gamedeveloper.com/business/amazon-to-rescind-its-publisher-role-on-lost-ark-and-throne-and-liberty-by-early-2027
 
 Amazon Games is returning the MMOs to their respective developers.
-
-### Developers expect generative AI to impact roles and team sizes in the next three years
-Wed, 12 Aug 2026 14:42:54 GMT — https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years
-
-A survey taken by 100 speakers at this year's Gamescom Dev Conference showcases hesitation and mixed feelings on generative AI use.
-
-### Meccha Chameleon tops 20M sales in two months
-Wed, 12 Aug 2026 14:09:41 GMT — https://www.gamedeveloper.com/business/meccha-chameleon-tops-20m-sales-in-two-months
-
-The hide-and-seek sensation continues to surpass milestones.
 

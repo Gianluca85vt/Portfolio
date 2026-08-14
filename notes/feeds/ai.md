@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-14T14:03:26.345Z
+# AI — harvested 2026-08-14T15:34:52.685Z
 
 ## OpenAI
 
@@ -18,6 +18,9 @@ Thu, 13 Aug 2026 09:00:00 GMT — https://openai.com/index/dali-rajic-chief-reve
 OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.
 
 ## Hugging Face
+
+### State of Open Models: Summer 2026 Observations
+Fri, 14 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/state-of-open-models-summer-2026
 
 ### Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets
 Thu, 13 Aug 2026 17:16:04 GMT — https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
