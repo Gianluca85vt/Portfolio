@@ -1,30 +1,23 @@
-# Embargo watch — updated 2026-08-13
+# Embargo watch — updated 2026-08-14
 
 ## Lifting in the next 14 days
 | Title | Type | Embargo lifts | Release | Confirmed by |
 |---|---|---|---|---|
-| Star Wars Zero Company | Game | Preview embargo lifted 11 Aug; full review embargo not yet announced | 27 Aug 2026 | Forbes, Pure Xbox, G2A News |
-| The Immortal John Triptych | Game | Not announced | 27 Aug 2026 | Gematsu, Push Square |
-| Elden Ring Tarnished Edition (Switch 2) | Game | Not announced | 28 Aug 2026 | GameRant, Bandai Namco Europe |
-| The End of Oak Street | Film | Already lifted (see below) | 28 Aug 2026 | World of Reel |
+| Mortal Shell 2 | Game | Mon 17 Aug 2026 | Same day (early access, PC/PS5/XSX) | Insider Gaming |
+| Marvel's Wolverine | Game | Not yet announced — only a hands-on *preview* embargo has lifted (13 Aug) | 15 Sep 2026 | egw.news, KitGuru — no full review-embargo date confirmed |
+| The Blood of Dawnwalker | Game | Not yet set; speculated "final week before launch" — unconfirmed | 3 Sep 2026 | timesaver.gg (speculative, not an official date) |
 
 ## Lifted in the last 3 days
 | Title | Type | Lifted | How reviews are landing |
 |---|---|---|---|
-| The End of Oak Street (dir. David Robert Mitchell) | Film | 12 Aug 2026 | 67 on Metacritic, 85% on Rotten Tomatoes — solidly positive, not a knockout |
+| Reacher, Season 4 | TV | Tue 11 Aug 2026 | 88% RT (17 reviews) — a series low (S1 92%, S2/S3 98%); several critics note a dip vs. prior seasons. Source: Forbes, CBR, Collider |
+| The End of Oak Street | Film | ~Wed 12 Aug 2026 | 85% RT / 67 Metacritic — praised as a surprise Amblin-style hit. Source: Variety, RT Editorial |
+| Marvel's Wolverine (preview only, not a review embargo) | Game | Thu 13 Aug 2026 | Hands-on previews mostly positive ("ferocious, destructive and cinematic" per Eurogamer) but one leak report flagged more cautious early impressions — worth rechecking once the real review embargo lands |
 
 ## Unconfirmed, worth watching
 | Title | Type | Claimed date | Where the claim came from |
 |---|---|---|---|
+| The Blood of Dawnwalker review embargo | Game | "Final week before launch" | Speculative blog coverage (gg.deals), not an official date — hands-on preview embargo already lifted with positive early buzz |
+| Ghost of Yotei: Complete Edition — separate critic pass | Game | Unclear if it gets one at all | Announced 12 Aug with the "Echoes of Sekigahara" expansion, releases 1 Oct 2026 — outside this window regardless |
 
-No unconfirmed leads worth logging this pass. Two claims turned up in search
-results this run — an "Alien: Romulus" embargo and a "Pachinko" season 2
-embargo, both dated as if they were August 2026 news — but both titles
-actually released in 2024. Discarded as stale search results resurfacing
-under a new date, not real leads. Nothing from Reddit this pass looked like
-a genuine embargo tip rather than speculation.
-
-Games worth a second pass closer to their dates: Star Wars Zero Company and
-The Immortal John Triptych both land 27 August, with Elden Ring's Switch 2
-port the day after — a real cluster if all three ship reviews in the same
-window.
+No leak threads found this cycle on r/Games, r/GamingLeaksAndRumours, r/movies or r/television for any of the above — every line here traces to trade press or an official announcement, not a Reddit lead.
