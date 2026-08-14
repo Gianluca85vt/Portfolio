@@ -4,7 +4,6 @@ date: 2026-08-14
 category: Games
 excerpt: Marcus Lehto's complaint about Campaign Evolved's Forerunner ring isn't nostalgia. It's a specific, nameable environment-art problem — ancient scale read through new-build surfacing.
 cover: /img/blog/halo-campaign-evolved-ring-ancient-vs-new/shot-01.jpg
-draft: true
 ---
 
 Marcus Lehto co-created Halo. He art-directed the original ring, the Covenant, the
