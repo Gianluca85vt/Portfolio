@@ -3,7 +3,7 @@ title: The first arcade video game had no computer in it. A rare copy is up for 
 date: 2026-08-14
 category: Tech
 excerpt: A green-sparkle 1973 Computer Space cabinet is bidding at RR Auction right now. What stopped me scrolling wasn't the price — it's that the machine has no CPU, no ROM and no frame buffer. The rotating spaceship on screen is wired directly into transistor logic.
-cover: /img/blog/computer-space-first-video-game-had-no-cpu/cover.svg
+cover: /img/blog/computer-space-first-video-game-had-no-cpu/shot-01.jpg
 draft: true
 ---
 
@@ -25,6 +25,11 @@ RR Auction listing itself or in any other outlet's coverage I could find — eve
 source lands on $20,000+, so that is the number I'm going with here.
 
 ## The name is a lie, and that's the interesting part
+
+<figure>
+  <img src="/img/blog/computer-space-first-video-game-had-no-cpu/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Computer Space arcade cabinet, via Wikimedia Commons</figcaption>
+</figure>
 
 "Computer Space" does not contain a computer. No CPU. No ROM. No frame buffer. In 1971,
 none of those were affordable enough to put inside a coin-op cabinet that had to earn its
