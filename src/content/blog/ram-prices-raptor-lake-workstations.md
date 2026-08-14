@@ -3,7 +3,7 @@ title: RAM got so expensive Intel is un-retiring a five-year-old CPU platform
 date: 2026-08-14
 category: Tech
 excerpt: A 32GB DDR5 kit went from about 95 dollars to over 500 in a year, so builders are quietly going back to Raptor Lake and DDR4. If you're pricing a workstation right now, that's not a nostalgia trip, it's the sane option.
-cover: /img/blog/ram-prices-raptor-lake-workstations/cover.svg
+cover: /img/blog/ram-prices-raptor-lake-workstations/shot-01.jpg
 draft: true
 ---
 
@@ -12,6 +12,11 @@ squeeze is happening one slot over, on the system memory that has nothing to do 
 graphics card, and it's arguably a bigger problem for anyone running a real DCC toolchain.
 
 ## The number that made me stop scrolling
+
+<figure>
+  <img src="/img/blog/ram-prices-raptor-lake-workstations/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>DDR5 SDRAM module and Intel Core i9-13900K (Raptor Lake) die shot, via Wikimedia Commons</figcaption>
+</figure>
 
 A 32GB DDR5 kit was around **95 dollars in mid-2025**. Current market trackers put the same
 class of kit somewhere in the **550-600 dollar range** heading into the back half of 2026.
