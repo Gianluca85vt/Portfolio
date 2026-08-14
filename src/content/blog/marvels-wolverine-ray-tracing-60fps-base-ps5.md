@@ -4,7 +4,6 @@ date: 2026-08-14
 category: Games
 excerpt: Every Insomniac game before this one made you pick between ray tracing and 60fps. Wolverine's default mode is both, on base PS5 hardware, not the Pro. That's a bigger deal than the headline number sounds.
 cover: /img/blog/marvels-wolverine-ray-tracing-60fps-base-ps5/cover.svg
-draft: true
 ---
 
 Marvel's Wolverine is a month from launch — 15th September, PS5 exclusive — and this
