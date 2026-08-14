@@ -4,7 +4,6 @@ date: 2026-08-14
 category: AI
 cover: /img/blog/gpt-5-6-ultrafast-mode/cover.svg
 excerpt: Ultrafast mode runs GPT-5.6 Sol at up to 750 tokens a second on Cerebras silicon. A snappier chatbot is not the interesting part — a model that keeps up with you while you work is.
-draft: true
 ---
 
 On 13 August OpenAI previewed **Ultrafast mode**, a new service tier for **GPT-5.6 Sol**
