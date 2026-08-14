@@ -16,6 +16,17 @@ const blog = defineCollection({
     excerpt: z.string().optional(),
     cover: z.string().optional(),
     draft: z.boolean().optional(),
+
+    // Review pieces carry a score: the mean of the scores the article quotes,
+    // put on a 1-10 scale and rounded to the nearest half point. Anything with
+    // a score appears in the "Latest reviews" column on the blog index.
+    score: z.number().min(0).max(10).optional(),
+    // What was reviewed, for that column — the headline is usually too long.
+    reviewOf: z.string().optional(),
+    // The individual scores the mean came from, so the number is auditable.
+    scoreSources: z
+      .array(z.object({ outlet: z.string(), score: z.number().min(0).max(10) }))
+      .optional(),
   }),
 });
 

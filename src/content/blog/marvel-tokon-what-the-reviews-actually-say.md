@@ -3,6 +3,43 @@ title: Marvel Tokon got the best reviews of the year and the worst launch. Both 
 date: 2026-08-13
 category: Games
 cover: /img/blog/marvel-tokon/screen-04.jpg
+reviewOf: 'Marvel Tōkon: Fighting Souls'
+score: 8.5
+scoreSources:
+  - { outlet: IGN, score: 9 }
+  - { outlet: "Tom's Guide", score: 9 }
+  - { outlet: Push Square, score: 9 }
+  - { outlet: Destructoid, score: 9 }
+  - { outlet: DualShockers, score: 9 }
+  - { outlet: GameSpew, score: 9 }
+  - { outlet: PlayStation Universe, score: 9 }
+  - { outlet: COGconnected, score: 9 }
+  - { outlet: Insider Gaming, score: 9 }
+  - { outlet: DayOne, score: 9 }
+  - { outlet: Game8, score: 8.6 }
+  - { outlet: ScreenRant, score: 8 }
+  - { outlet: GameRant, score: 8 }
+  - { outlet: Hardcore Gamer, score: 8 }
+  - { outlet: Press Start, score: 8 }
+  - { outlet: GamingBolt, score: 8 }
+  - { outlet: Gfinity, score: 8 }
+  - { outlet: One More Game, score: 8.5 }
+  - { outlet: Gamekult, score: 7 }
+  - { outlet: 4News.it, score: 9.5 }
+  - { outlet: The Games Machine, score: 9 }
+  - { outlet: Digitale Anime, score: 9 }
+  - { outlet: ItaliaTopGames, score: 8.5 }
+  - { outlet: Everyeye, score: 8 }
+  - { outlet: Gamesurf, score: 8 }
+  - { outlet: Meristation, score: 9 }
+  - { outlet: Hobby Consolas, score: 9 }
+  - { outlet: IGN France, score: 9 }
+  - { outlet: Jeux.com, score: 8 }
+  - { outlet: IGN Adria, score: 9 }
+  - { outlet: Indigo GEEK, score: 9 }
+  - { outlet: EvelonGames, score: 8.5 }
+  - { outlet: Eternal Games, score: 8 }
+  - { outlet: Gamer Social Club, score: 8 }
 excerpt: An 87 on OpenCritic, a Mixed on Steam, and a forty-point gap between the two. I read through forty-odd reviews in five languages to work out what critics saw that players did not — and why the one complaint everybody shares is an art direction problem, not a bug.
 ---
 

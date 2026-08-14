@@ -12,6 +12,10 @@ export type PostCard = {
   excerpt: string;
   cover?: string;
   readingMinutes: number;
+  /** Present only on reviews: the mean of the scores the piece quotes, out of 10. */
+  score?: number;
+  /** What was reviewed. The headline is usually too long for the column. */
+  reviewOf?: string;
 };
 
 const SUPABASE_URL = import.meta.env.PUBLIC_SUPABASE_URL;
@@ -190,6 +194,45 @@ function ListRow({ post, count }: { post: PostCard; count: number }) {
   );
 }
 
+/**
+ * The scoreboard down the side, the way a games site runs one: what was
+ * reviewed, and the number, nothing else. Only articles carrying a score
+ * appear, so it stays empty until there is something to put in it.
+ */
+function LatestReviews({ posts }: { posts: PostCard[] }) {
+  const reviews = posts.filter((p) => typeof p.score === 'number').slice(0, 8);
+  if (reviews.length === 0) return null;
+
+  return (
+    <aside className="rounded-[8px] border border-[#D7E2EA]/15 overflow-hidden">
+      <h2 className="text-[#D6294E] font-medium uppercase tracking-[0.12em] text-[0.68rem] px-4 py-3.5 border-b border-[#D7E2EA]/12">
+        Latest reviews
+      </h2>
+
+      <ul>
+        {reviews.map((post) => (
+          <li key={post.slug} className="border-b border-[#D7E2EA]/10 last:border-b-0">
+            <a
+              href={`/blog/${post.slug}/`}
+              className="group flex items-center gap-3 px-4 py-3.5 transition-colors duration-200 hover:bg-[#D7E2EA]/[0.04]"
+            >
+              <span className="flex-1 min-w-0 text-[#D7E2EA]/80 font-medium uppercase tracking-wide text-[0.72rem] leading-snug transition-colors duration-200 group-hover:text-white">
+                {post.reviewOf ?? post.title}
+              </span>
+              <span
+                className="shrink-0 font-black leading-none tabular-nums"
+                style={{ fontSize: '1.45rem', color: colorFor(post.category) }}
+              >
+                {post.score!.toFixed(1)}
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </aside>
+  );
+}
+
 export default function BlogList({ posts }: { posts: PostCard[] }) {
   const [active, setActive] = useState('All');
   const counts = useCommentCounts(posts.length > 0);
@@ -287,18 +330,28 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
                 </div>
               ) : null}
 
-              {listRest.length ? (
-                <div className="mt-10 sm:mt-12 max-w-[760px]">
-                  <h2 className="text-[#D7E2EA]/40 font-medium uppercase tracking-[0.14em] text-[0.66rem] pb-3 border-b border-[#D7E2EA]/15">
-                    More from the blog
-                  </h2>
-                  {listRest.map((post, i) => (
-                    <FadeIn key={post.slug} delay={Math.min(i, 4) * 0.05} y={18}>
-                      <ListRow post={post} count={counts[post.slug] ?? 0} />
-                    </FadeIn>
-                  ))}
+              {/* the list and the scoreboard sit side by side from lg up, the
+                  way a news page runs a rail down its right-hand edge */}
+              <div className="mt-10 sm:mt-12 grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_300px] gap-8 lg:gap-10 items-start">
+                <div>
+                  {listRest.length ? (
+                    <>
+                      <h2 className="text-[#D7E2EA]/40 font-medium uppercase tracking-[0.14em] text-[0.66rem] pb-3 border-b border-[#D7E2EA]/15">
+                        More from the blog
+                      </h2>
+                      {listRest.map((post, i) => (
+                        <FadeIn key={post.slug} delay={Math.min(i, 4) * 0.05} y={18}>
+                          <ListRow post={post} count={counts[post.slug] ?? 0} />
+                        </FadeIn>
+                      ))}
+                    </>
+                  ) : null}
                 </div>
-              ) : null}
+
+                <FadeIn delay={0.1} y={18}>
+                  <LatestReviews posts={posts} />
+                </FadeIn>
+              </div>
             </>
           )}
         </div>

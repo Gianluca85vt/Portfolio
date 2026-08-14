@@ -18,6 +18,9 @@ const posts = entries.map((entry) => ({
   excerpt: entry.data.excerpt ?? '',
   cover: entry.data.cover,
   readingMinutes: Math.max(1, Math.round((entry.body ?? '').trim().split(/\s+/).length / 200)),
+  // Half points only, so a stray decimal can never reach the page.
+  score: entry.data.score !== undefined ? Math.round(entry.data.score * 2) / 2 : undefined,
+  reviewOf: entry.data.reviewOf,
 }));
 
 const title = `Blog — ${site.name}`;

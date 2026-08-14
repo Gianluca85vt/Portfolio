@@ -4,6 +4,7 @@ import Base from '../../layouts/Base.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
 import Comments from '../../components/Comments.astro';
 import ShareBar from '../../components/ui/ShareBar';
+import ScoreBox from '../../components/ScoreBox.astro';
 import { site, categoryColors } from '../../data/portfolio';
 
 export async function getStaticPaths() {
@@ -30,9 +31,26 @@ const url = new URL(`/blog/${entry.id}/`, Astro.site).href;
 
 // BlogPosting tells Google this is an article, who wrote it and when — the
 // difference between a page that can rank and one eligible for rich results.
+// A scored piece is also a Review in schema.org terms, and saying so is what
+// makes the number eligible to show in a search result rather than being
+// invisible markup.
+const scored = entry.data.score !== undefined;
+const rounded = scored ? Math.round(entry.data.score! * 2) / 2 : undefined;
+
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'BlogPosting',
+  '@type': scored ? ['BlogPosting', 'Review'] : 'BlogPosting',
+  ...(scored
+    ? {
+        itemReviewed: { '@type': 'Thing', name: entry.data.reviewOf ?? entry.data.title },
+        reviewRating: {
+          '@type': 'Rating',
+          ratingValue: rounded,
+          bestRating: 10,
+          worstRating: 1,
+        },
+      }
+    : {}),
   headline: entry.data.title,
   description: entry.data.excerpt ?? entry.data.title,
   datePublished: entry.data.date.toISOString(),
@@ -105,6 +123,17 @@ const jsonLd = {
         <div class="post-body mt-10 sm:mt-12">
           <Content />
         </div>
+
+        {
+          entry.data.score !== undefined && (
+            <ScoreBox
+              score={entry.data.score}
+              category={entry.data.category}
+              reviewOf={entry.data.reviewOf}
+              sources={entry.data.scoreSources}
+            />
+          )
+        }
 
         <div class="mt-14 sm:mt-16">
           <ShareBar

@@ -1,0 +1,76 @@
+---
+import { categoryColors } from '../data/portfolio';
+import type { BlogCategory } from '../data/portfolio';
+
+export interface Props {
+  score: number;
+  category: string;
+  reviewOf?: string;
+  sources?: { outlet: string; score: number }[];
+}
+
+const { score, category, reviewOf, sources = [] } = Astro.props;
+
+// Half points only. The writer is asked to round, but rounding here as well
+// means a stray 8.37 can never reach the page.
+const rounded = Math.round(score * 2) / 2;
+const accent = categoryColors[category as BlogCategory] ?? '#7621B0';
+
+// Scores out of 100 are divided by ten before they get here, so everything on
+// this page is on the same 1-10 scale.
+const shown = rounded.toFixed(1);
+---
+
+<aside
+  class="mt-14 sm:mt-16 rounded-[18px] border border-[#D7E2EA]/15 overflow-hidden"
+  aria-label="Average score"
+>
+  <div class="flex items-center gap-5 p-6 sm:p-7">
+    <div
+      class="flex flex-col items-center justify-center shrink-0 rounded-[14px] w-[92px] h-[92px]"
+      style={`background:linear-gradient(140deg, #18011F 10%, ${accent} 140%)`}
+    >
+      <span class="text-white font-black leading-none" style="font-size:2.1rem">{shown}</span>
+      <span
+        class="text-white/50 font-medium uppercase tracking-widest mt-1"
+        style="font-size:0.52rem">out of 10</span
+      >
+    </div>
+
+    <div class="min-w-0">
+      <p
+        class="font-medium uppercase tracking-[0.12em] text-[0.62rem]"
+        style={`color:${accent}`}
+      >
+        Average score
+      </p>
+      <p class="text-[#D7E2EA] font-medium leading-snug mt-1.5 text-[0.98rem]">
+        {reviewOf ?? 'The reviews, averaged'}
+      </p>
+      <p class="text-[#D7E2EA]/45 font-light text-[0.78rem] leading-relaxed mt-1.5">
+        {
+          sources.length > 0
+            ? `The mean of ${sources.length} published scores, on a 1-10 scale, rounded to the nearest half point.`
+            : 'The mean of the published scores quoted above, on a 1-10 scale, rounded to the nearest half point.'
+        }
+      </p>
+    </div>
+  </div>
+
+  {
+    sources.length > 0 && (
+      <details class="border-t border-[#D7E2EA]/12">
+        <summary class="cursor-pointer select-none px-6 sm:px-7 py-3.5 text-[#D7E2EA]/50 font-light text-[0.78rem] hover:text-[#D7E2EA]/80 transition-colors">
+          Where the number comes from
+        </summary>
+        <ul class="px-6 sm:px-7 pb-5 flex flex-wrap gap-x-5 gap-y-1.5">
+          {sources.map((s) => (
+            <li class="text-[0.76rem] font-light text-[#D7E2EA]/45 whitespace-nowrap">
+              {s.outlet} <span class="text-[#D7E2EA]/80">{s.score.toFixed(1)}</span>
+            </li>
+          ))}
+        </ul>
+      </details>
+    )
+  }
+</aside>
