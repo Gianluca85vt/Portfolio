@@ -1,6 +1,26 @@
-# Film & TV — harvested 2026-08-15T19:58:26.315Z
+# Film & TV — harvested 2026-08-15T21:00:55.347Z
 
 ## Variety
+
+### Here s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online
+Sat, 15 Aug 2026 21:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-claressa-shields-vs-kaye-scott-boxing-live-online-1236833217/
+
+After defending her undisputed women s heavyweight title against Franchon Crews-Dezurn back in February, American boxer Claressa Shields drops in weight class to middleweight to challenge WBA and WBC champion Australian Kaye Scott. The bout is scheduled for 10 rounds. On Saturday, Aug. 15, Shields (18-0-0) vs. Scott (5-1-1) takes place at State Farm Arena in [ ]
+
+### Director Frieda Luk on Olivia Luccardi’s ‘Sacred Creatures’ Role and the Fine Line Between ‘Crazy’ and ‘Enlightened’
+Sat, 15 Aug 2026 20:46:03 +0000 — https://variety.com/2026/film/festivals/director-frieda-luk-olivia-luccardi-sacred-creatures-1236835353/
+
+For “Sacred Creatures” director Frieda Luk, belief can be comforting, ridiculous, exhilarating and hard to explain. “I’m really fascinated by when people believe in something,” she tells Variety. “One person believes in something, and then a group of people, and then it slowly becomes this massive phenomenon. It goes viral.” That fascination drives Luk’s debut [ ]
+
+### Lanterns Bosses and Stars on How the Show s Grounded Approach Ushers in an Entirely Different Kind of Superhero
+Sat, 15 Aug 2026 20:30:06 +0000 — https://variety.com/2026/tv/news/lanterns-creators-grounded-show-future-dcu-1236835494/
+
+As part of James Gunn and Peter Safran s newly expanded DCU, a more grounded take on the Green Lantern comics may surprise audiences who associate the character with the Ryan Reynolds film that received poor reviews back in 2011. But for co-creators Chris Mundy, Damon Lindelof and Tom King, Lanterns is all about going back [ ]
+
+### ‘How the F Would You Get This Movie Made in America?’ Christine Vachon, Film4, BBC Film Put ‘Trainspotting,’ ‘Ratcatcher’ and ‘The Wicker Man’ Through the 2026 Greenlight Test
+Sat, 15 Aug 2026 19:59:11 +0000 — https://variety.com/2026/film/festivals/how-would-you-get-this-movie-made-vachon-film4-bbc-1236835455/
+
+Would “Trainspotting” get financed today? Could Lynne Ramsay survive the jump from shorts to a first feature? And might “The Wicker Man,” once treated as a problem child, now look like exactly the kind of genre package buyers chase? That was the conceit of a lively session hosted by Wendy Mitchell, with Picturehouse’s creative director [ ]
 
 ### Selena Gomez Slams Completely Meritless Wondermind Lawsuit, Will File to Dismiss Baseless Claims
 Sat, 15 Aug 2026 18:55:37 +0000 — https://variety.com/2026/tv/news/selena-gomez-slams-wondermind-lawsuit-file-to-dismiss-1236835495/
@@ -32,27 +52,12 @@ Sat, 15 Aug 2026 16:24:57 +0000 — https://variety.com/2026/film/festivals/loca
 
 Mutrion, a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival s Pardi di Domani (Leopards of Tomorrow) section. Mutrion, which is the only Italian entry in the section, stars Manfredi Marini, who previously starred in Giovanni Tortorici s Nineteen, and Giulio Maroncelli and is produced [ ]
 
-### Nate Bargatze Sets Guinness World Record for Most Tickets Sold for a Stand-Up Comedy Tour (EXCLUSIVE)
-Sat, 15 Aug 2026 16:00:00 +0000 — https://variety.com/2026/tv/news/nate-bargatze-guinness-world-record-comedy-tour-tickets-sold-1236835016/
-
-Nate Bargatze and his Big Dumb Eyes just set a Guinness World Record. The Tennessee-born comedian has officially sold the most tickets for a stand-up comedy tour, surpassing the previously record held by Jeff Dunham. Bargatze will be presented with the Guinness World Record onstage at the Scotiabank Arena in Toronto on Saturday. Ahead of [ ]
-
-### Box Office: The End of Oak Street Chomps on $8.1 Million, But Spider-Man: Brand New Day Is Still No. 1 With $19 Million
-Sat, 15 Aug 2026 15:59:20 +0000 — https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/
-
-“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will earn about $18.7 [ ]
-
-### Darren Walker Opens His Home to Friends and Anonymous Content Emmy Nominees in Celebration of Joy, Reflection, Delight and Awe
-Sat, 15 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/darren-walker-anonymous-content-emmy-paul-revenue-williams-1236835193/
-
-Darren Walker may be new to Los Angeles as he takes the helm of Anonymous Content as president and CEO, but he s had long relationships with key players in town for years, given his distinguished career in philanthropy and nonprofits. Sally Field is one of those people. So Walker was excited to learn when he [ ]
-
-### Florin Şerban s You Don t Belong Here Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards
-Sat, 15 Aug 2026 13:45:10 +0000 — https://variety.com/2026/film/news/locarno-award-winners-monica-bellucci-kim-minhee-1236835378/
-
-Romanian director Florin Şerban s You Don t Belong Here, a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineup of 17 features [ ]
-
 ## The Hollywood Reporter
+
+### ‘The Beast in Me’ Showrunner Knows That the Violent Murder Scene Was a “Potential Tune-Out Point” For Some Viewers
+Sat, 15 Aug 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/howard-gordon-the-beast-in-me-1236672642/
+
+“Maybe some people tuned in extra because of it. It’s hard to tell,” says Howard Gordon.
 
 ### The TikTok Comment That Let Megan Gallagher Know She Nailed the Representation of Motherhood in ‘All Her Fault’
 Sat, 15 Aug 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/tiktok-comment-all-her-fault-motherhood-tv-1236672638/
@@ -99,12 +104,22 @@ Sat, 15 Aug 2026 13:59:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 Saturday's premiere chronicles that semi-infamous Scotland golf trip for the 2016 NBA champion Cleveland Cavaliers (minus Kyrie Irving).
 
-### Locarno Film Festival Awards Go to You Don t Belong Here, Hong Sangsoo, Monica Bellucci
-Sat, 15 Aug 2026 13:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-awards-winners-monica-bellucci-hong-sang-soo-1236673771/
-
-In the Filmmakers of the Present Competition, 'The Illusion of an Everlasting Summer' by Alessandra Sanguinetti won the Golden Leopard, with the film also receiving the first feature award.
-
 ## Deadline
+
+### Slipknot Announces Sid Wilson s Exit: We Wish Him The Best
+Sat, 15 Aug 2026 20:52:52 +0000 — https://deadline.com/2026/08/slipknot-announces-sid-wilson-exit-1237041712/
+
+After reports of Sid Wilson s departure from Slipknot, the band has confirmed he is no longer part of the lineup. In a statement that briefly appeared on the band s website, they announced they would no longer be associated with the DJ and keyboardist, who joined the metal group in 1998 before they released their self-titled [ ]
+
+### Survivor Cast Creatives Look Back On Epic Season 50 How It s A Leaping-Off Point For S51 Beyond Contenders TV Nominees Studio
+Sat, 15 Aug 2026 20:45:00 +0000 — https://deadline.com/2026/08/survivor-cast-creatives-emmy-interview-season-50-future-1237040981/
+
+Survivor executive producer Matt Van Wagenen, casting director Jesse Tannenbaum, editor Brian Barefoot and returning cast member Tiffany Nicole Ervin dished on the CBS reality series incredible Season 50 and looked ahead at the upcoming Season 51 during an appearance at Deadline s Contenders Television: The Nominees Studio. Well, I think for us, Season 50, when [ ]
+
+### Lucasfilm Co-Boss Dave Filoni On Hunt For Ben Solo Pic Future: The Force Is Not With Us D23
+Sat, 15 Aug 2026 20:13:26 +0000 — https://deadline.com/2026/08/kylo-ren-hunt-for-ben-solo-dave-filoni-adam-driver-d23-1237041672/
+
+There s always the theme of hope in the Star Wars franchise, and with the brand landing its lowest grossing live-action feature in the franchise with The Mandalorian and Grogu ($345M WW), fans still wanna know: is there any shot in the galaxy that Disney/Luscasfilm would re-consider an Adam Driver-led The Hunt for Ben Solo project? [ ]
 
 ### Smiling Friends Creators Painted The Office Alum Green, Then Sent Him Directly To A24’s ‘Primetime’ Contenders TV Nominees Studio
 Sat, 15 Aug 2026 19:45:00 +0000 — https://deadline.com/2026/08/smiling-friends-creators-interview-1237032365/
@@ -150,19 +165,4 @@ For a movie about a superhero who can literally climb walls, Spider-Man: Brand N
 Sat, 15 Aug 2026 14:04:23 +0000 — https://deadline.com/2026/08/frankie-valli-retirement-1237041511/
 
 Frankie Valli has a message for anyone predicting his imminent retirement: Not so fast. After Bobby Valli, the Four Season singer s brother, recently posted a Facebook message announcing the ailing Frankie s retirement, the 92-year-old pop icon slapped back. Yesterday, Frankie posted a short and sweet Instagram message: “In spite of what you might have heard, [ ]
-
-### Locarno Film Festival Winners: Florin Șerban, Monica Bellucci Hong Sangsoo Among Victors
-Sat, 15 Aug 2026 13:45:00 +0000 — https://deadline.com/2026/08/locarno-film-festival-winners-florin-serban-monica-bellucci-1237040623/
-
-The Pardo d’Oro at the 79th Locarno Film Festival has gone to Florin Șerban s drama You Don t Belong Here (Nu E Locul Tau Aici). Scroll down for full list of winners. The film marks the acclaimed Romanian director’s return to feature filmmaking after eight years. A father-and-son drama, the film was awarded the Pardo d Oro [ ]
-
-### BFI CEO Ben Roberts Gives Keynote Address At Inaugural UK Film Conference: “The Missing Piece, For Me, Is Having Film Firmly In The Classroom” – Edinburgh Film Festival
-Sat, 15 Aug 2026 13:21:26 +0000 — https://deadline.com/2026/08/bfi-ceo-ben-roberts-keynote-address-uk-film-conference-eiff-1237041496/
-
-In conversation with Clare Binns, managing director of Picturehouse Cinemas, at the Edinburgh Film Festival’s inaugural UK Film Conference BFI CEO Ben Roberts was candid from the outset about the problems of working for a major public-funding body. Having previously worked for numerous UK distribution and sales outfits, Roberts admitted that he had been warned [ ]
-
-### BBC Seeks To Subpoena Ivanka Trump, Jared Kushner Don Jr. In Defamation Lawsuit
-Sat, 15 Aug 2026 13:19:25 +0000 — https://deadline.com/2026/08/bbc-subpoena-defamation-lawsuit-1237041495/
-
-The BBC is seeking to subpoena Donald Trump Jr, Ivanka Trump and Jared Kushner in its defense against a $10 billion defamation suit brought against the broadcaster by President Donald Trump. In court filings yesterday, the BBC alleges that Trump s son Donald Jr., daughter Ivanka and son-in-law Kushner have personal knowledge of the president s intentions [ ]
 

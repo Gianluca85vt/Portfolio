@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-15T19:58:26.315Z
+# Tech — harvested 2026-08-15T21:00:55.347Z
 
 ## Ars Technica
 
@@ -64,6 +64,11 @@ As Americans cook their vegetables to at least 158°F to kill a diarrheal parasi
 
 ## The Verge
 
+### Have a laugh at AI’s expense by roleplaying as a chatbot
+2026-08-15T16:45:00-04:00 — https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot
+
+If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond. Just like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump onto the AI side and answer some of your own. You can also just wait as you get one free request every two minutes. But, as fun as it is to drop … Read the full story at The Verge. ]]>
+
 ### Don t overlook Elektron s budget electronic music instruments
 2026-08-15T13:00:00-04:00 — https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review
 
@@ -109,12 +114,12 @@ Maximum camera. | Photo: Antonio G. Di Benedetto / The Verge It wasn't long ago 
 
 Hi, friends! Welcome to Installer No. 140, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old editions at the Installer homepage .) This week, I've been reading about Will Ferrell and Fabrizio Romano and Heather Cox Richardson , scrolling and scrolling through Ordinary Abundance , watching Avatar Aang (which is as good as you said it was), finally getting proficient in CapCut , obsessing over the latest scandal unearthed by PTFO , rewatching Tires now that the third season is out, trying Spark's AI tools for solving my inbox (so far… meh), revisiting … Read the full story at The Verge. ]]>
 
-### When housing is unaffordable, this artist’s device makes pedaling harder
-2026-08-15T07:00:00-04:00 — https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal
-
-Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technologist had no idea what the future would hold. He started working for the food delivery apps, and as he was riding his bike across the city, he began noticing the stark differences between neighborhoods. "I really started to kind of become a bit more aware of how different neighborhoods, often right next to each other, could feel very economically and psychologically very far apart, even though it's just really within close proximity," he said. "And … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Grab this RTX 5070 gaming PC for just $1,499, saving $600 off list price — Acer Nitro 85 prebuilt comes with 16GB of RAM, Core Ultra 7 265F, and a 1TB PCIe 4.0 SSD
+Sat, 15 Aug 2026 20:53:34 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/grab-this-rtx-5070-gaming-pc-for-just-usd1-499-saving-usd600-off-list-price-acer-nitro-85-prebuilt-comes-with-16gb-of-ram-core-ultra-7-265f-and-a-1tb-pcie-4-0-ssd
+
+Prebuilt PCs usually get a bad rep but during these difficult times, they're actually a beacon of light as we navigate the component crisis. We've found a great deal on one such system — the Acer Nitro 85. It comes with an RTX 5070 graphics card and a 20-core Core Ultra 7 265F processor for just $1,499 on Walmart right now. That's $600 less than it usually retails for, and you get 16GB of DDR5 RAM along with a 1TB Gen4 SSD on top. Check out this deal on Walmart With an RTX 5070 and 20-core Intel Core Ultra 7 processor at its heart, the Nitro 85 is a great midrange system that will handle any workload, while looking good doing so. View Deal The Acer Nitro 85 is perfect for 1440p gaming at the highest settings, and even a bit of 4K gaming with upscaling tricks thanks to Nvidia's rich software suite. You get features like DLSS, multi-frame gen and RTX HDR which all contribute to a better gaming experience. The RTX 5070 is third on our list of the very best gaming GPUs you can buy because of its exceptional value proposition, and this deal only enhances that. The 12GB of VRAM, while not a lot, is enough for demanding titles today. Tom's Hardware Tom's Hardware Tom's Hardware Alongside the 5070, you also get an Intel Core Ultra 7 265F with 8 P-cores and 12 E-cores and a max clock speed of 5.3 GHz. This is a high-end chip capable of driving even faster GPUs, so you're set for both gaming and professional workloads. It's cooled by a 240mm AIO liquid cooler. Talking to the CPU is 16G
 
 ### Peer-reviewed study of 443,000 Backblaze hard drives ranks HGST most reliable and Toshiba the least — Analysis of 1.66 million drive-years finds Seagate and Toshiba HDDs fail at roughly twice the rate of WD and HGST
 Sat, 15 Aug 2026 15:30:10 +0000 — https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least
@@ -170,11 +175,6 @@ The latest cooler on our test bench is the Sigma L36 Pro, a high-end AIO with a 
 Sat, 15 Aug 2026 11:50:00 +0000 — https://www.tomshardware.com/pc-components/ssds/sk-hynix-is-allegedly-out-of-replacement-ssds-for-warranty-returns-chipmakers-original-price-refund-leaves-buyers-stranded-in-the-storage-shortage
 
 Although SK hynix is primarily known as a memory maker, the South Korean company also produces high-quality consumer SSDs, many of which previously earned spots on our list of the best SSDs . Recently, a Reddit user said they reached out to SK hynix for a warranty replacement on a malfunctioning SSD, but the chipmaker reportedly told the owner no replacement units were available and instead offered a refund at the original purchase price. However, with SSD prices soaring due to a global storage shortage, a refund like this would be insufficient to buy a comparable drive in today’s market. Comment from r/pcmasterrace When you send in an SSD for warranty work, there are generally two possible outcomes. Either the company repairs it or replaces it with a similar or equivalent drive, or, in some cases, provides a refund. The former is often straightforward; the latter, however, tends to be more complex. The manufacturer's warranty strictly defines the refund amount. If you examine SK hynix’s warranty policy on SSDs , the documentation explicitly states: “In lieu of a Product repair or replacement, the original purchaser may receive a refund of either the original purchase price or the fair market value, whichever is lower.” In other words, SK hynix will determine the refund amount by comparing what the Redditor paid for the SSD at the time of purchase with its current fair market value, then issuing the lower figure. Under normal market conditions, it would be a fair and reasonab
-
-### Intel says PC market is ‘a tale of two kingdoms’ with mainstream ‘taking a beating’ — VP suggests a split between mainstream and enthusiast sockets across the industry
-Sat, 15 Aug 2026 11:30:00 +0000 — https://www.tomshardware.com/pc-components/cpus/intel-says-pc-market-is-a-tale-of-two-kingdoms-with-mainstream-taking-a-beating-vp-suggests-a-split-between-mainstream-and-enthusiast-sockets-across-the-industry
-
-Intel’s Robert Hallock, vice president and general manager of the enthusiast channel business, believes that the consumer market will see a split in sockets for mainstream and enthusiast platforms to address the rising costs of PCs for cash-strapped buyers. Tom’s Hardware Premium recently spoke with the technical marketing leader about the state of the PC market, which Hallock described as a “tale of two kingdoms.” Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) CPU scaling with DLSS Ryzen to the top: How AMD innovated in the gaming CPU market How ARM is working its way into PCs AMD CES 2026 gaming trends press Q&A roundtable transcript “I think the market's experiencing a tale of two kingdoms. For the folks who have a significant amount of discretionary budget, they can absorb the cost impacts of what's going on in the industry, and most other people cannot,” Hallock said. “And that's having a very different impact, as you can imagine, on different parts of the market. Low-end, mainstream is really taking a beating. Enthusiast and premium, not so bad. You could, depending on the device class, maybe even [say] growing positive. So it's a very starkly divided market at the moment.” Hallock’s take on the market is interesting. The doom and gloom of the RAM and NAND shortages is omnipresent, but we’ve also seen very expensive launches despite that. Gigabyte launched the $5,300 RTX 5090 Infinity OC in June. Asus demoed its 20th anniversary ROG lineup at the same tim
 
 ## Phoronix
 
