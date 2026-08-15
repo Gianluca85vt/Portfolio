@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-15T10:00:32.691Z
+# Games — harvested 2026-08-15T11:00:12.891Z
 
 ## Eurogamer
+
+### Kingdom Hearts 4 finally has a release window, if not quite a firm release date
+Sat, 15 Aug 2026 10:42:49 +0000 — https://www.eurogamer.net/kingdom-hearts-release-window-2027
+
+Kingdom Hearts 4 finally has a release window &ndash; late 2027. Read more
 
 ### Rusty Lake is back with another belter, so I get to shout about the overlooked puzzle series all over again
 Sat, 15 Aug 2026 09:00:00 +0000 — https://www.eurogamer.net/rusty-lake-servant-of-the-lake-now-playing
@@ -56,11 +61,6 @@ It's 1:50am, and a purple cat throws several logs of wood at my head as I run to
 Fri, 14 Aug 2026 09:07:36 +0000 — https://www.eurogamer.net/marvel-tokon-fighting-souls-half-a-million-sales-one-week
 
 New sales estimates show that Marvel T&omacr;kon: Fighting Souls may have sold almost 500,000 copies in around a week, a solid pace for a fighting game. Read more
-
-### Marvel's Wolverine "fully playable" on disc when it releases, Insomniac clarifies, perhaps making it one of the last few PlayStation games that will be
-Thu, 13 Aug 2026 15:00:20 +0000 — https://www.eurogamer.net/marvels-wolverine-ps5-disc-insomniac-1
-
-Marvel's Wolverine developer Insomniac has clarified the game will be "fully playable" on disc when it releases for PlayStation 5 on 15th September. It won't, in other words, be a disc-in-a-box that still requires you to download the game in order to play. This may make it one of PlayStation's last fully disc-based games. Read more
 
 ## GamesIndustry.biz
 
@@ -211,14 +211,4 @@ As smaller teams see bigger success, how will the game industry protect professi
 Thu, 13 Aug 2026 13:19:47 GMT — https://www.gamedeveloper.com/marketing/twitch-will-sacrifice-you-to-its-ai-overlord-whether-you-like-it-or-not
 
 The streaming platform has informed users their content will be used to train Amazon's generative AI models by default—and opting-out doesn't solve the problem entirely.
-
-### CD Projekt Red has laid off nine Project Sirius developers
-Thu, 13 Aug 2026 10:48:43 GMT — https://www.gamedeveloper.com/business/report-cd-projekt-red-has-laid-off-some-project-sirius-developers
-
-Nine people have been laid off across two locations, while another nine developers could be moved onto other projects.
-
-### UNC Greensboro game preservation project back on track after Trump funding cuts
-Thu, 13 Aug 2026 10:01:23 GMT — https://www.gamedeveloper.com/production/library-video-game-preservation-project-back-on-track-after-trump-funding-cuts
-
-'We can't trust Sony, we can't trust Microsoft to preserve things.'
 

@@ -1,11 +1,8 @@
-# AI — harvested 2026-08-15T10:00:32.691Z
+# AI — harvested 2026-08-15T11:00:12.891Z
 
 ## OpenAI
 
-### The builder’s guide to GPT‑5.6
-Thu, 13 Aug 2026 11:00:00 GMT — https://openai.com/index/builders-guide-to-gpt-5-6
-
-Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.
+_Nothing in the last 48 hours._
 
 ## Hugging Face
 

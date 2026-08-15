@@ -1,6 +1,11 @@
-# Film & TV — harvested 2026-08-15T10:00:32.691Z
+# Film & TV — harvested 2026-08-15T11:00:12.891Z
 
 ## Variety
+
+### ‘A Chocolate Christmas,’ a Brazilian Holiday Romantic Drama, Set to Shoot in Gramado and New York From December
+Sat, 15 Aug 2026 10:52:36 +0000 — https://variety.com/2026/film/global/paulo-nascimento-a-chocolate-christmas-gramado-new-york-1236835366/
+
+GRAMADO, Brazil Vet Brazilian helmer-producer Paulo Nascimento will lense “A Chocolate Christmas,” a Portuguese-language holiday-themed feature film in the mountain resort of Gramado, in southern Brazil, and New York City, he told Variety. The film will shoot over December and January. Nascimento is set announce the film project t his panel on Sunday at [ ]
 
 ### Urša Menart Recalls Finding Inspiration on Influencers’ Fake Tragic Life Stories for Intimate Dramedy ‘Everything That’s Wrong With You’
 Sat, 15 Aug 2026 08:53:04 +0000 — https://variety.com/2026/film/global/ursa-menart-everything-thats-wrong-with-you-influencers-1236833609/
@@ -46,11 +51,6 @@ Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date 
 Sat, 15 Aug 2026 04:16:48 +0000 — https://variety.com/2026/film/news/x-men-cast-inde-navarrette-rogue-christopher-abbott-prof-x-adam-driver-mr-sinister-1236817698/
 
 The MCU s X-Men team is taking shape. Marvel Studios exec Kevin Feige announced the inaugural members of the mutant team at D23 on Friday. The cast includes Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Christopher Abbott as Prof. X and Maya Boyd as Storm. [ ]
-
-### Avengers: Doomsday Trailer: Robert Downey Jr. s Doctor Doom Faces Off Against Mister Fantastic, X-Men and Avengers With Army of Sentinels
-Sat, 15 Aug 2026 04:12:38 +0000 — https://variety.com/2026/film/news/avengers-doomsday-trailer-d23-1236817670/
-
-Marvel Studios unveiled the second Avengers: Doomsday trailer on Friday during Disney s D23 fan convention, further teasing the massive MCU team-up movie arriving in theaters Dec. 18. The two-minute clip — introduced by “Doomsday” leads Robert Downey Jr. (Doctor Doom), Chris Evans (Steve Rogers/Captain America) and Hayley Atwell (Peggy Carter) — sees Vanessa Kirby s Sue Storm/Invisible Woman [ ]
 
 ## The Hollywood Reporter
 

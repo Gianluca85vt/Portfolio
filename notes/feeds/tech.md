@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-15T10:00:32.691Z
+# Tech — harvested 2026-08-15T11:00:12.891Z
 
 ## Ars Technica
 
@@ -116,6 +116,11 @@ The Claw EX. I rather like the purple. 3D-printed stand not included. As The Ver
 
 ## Tom's Hardware
 
+### Anti-drone chain gun with 50mm precision-guided ammunition unveiled — Northrop Grumman's Raid Hunter is designed to wipe out drone swarms and cruise missiles
+Sat, 15 Aug 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/drones/anti-drone-chain-gun-with-50mm-precision-guided-ammunition-unveiled-northrop-grummans-raid-hunter-is-designed-to-wipe-out-drone-swarms-and-cruise-missiles
+
+U.S. aerospace, defense and security giant Northrop Grumman thinks it has a solution that will provide short-range, layered air defense against the increasingly complex aerial threats we see in modern war. The new Raid Hunter uses the firm’s Chain Gun technology to defend targets from cruise missiles, drone swarms and other evolving threats. It thus addresses an area identified as a “critical short-range air defense gap.” Furthermore, the modular Raid Hunter can be rapidly deployed on the C-130 and other vehicles, with networking enabling sensor fusion and coordinated engagements. The skies are changing. Defending against one threat isn’t enough anymore. Our Raid Hunter™ is built to meet the challenge with precision-guided gunfire and the speed needed to help protect what’s critical. pic.twitter.com/Meuqyg04oY August 11, 2026 We have seen in Ukraine, and more recently in the Middle East, that modern air defense systems are struggling with high-volume drone swarms and low-flying cruise missiles. The sheer amount of aerial threats is overwhelming defense systems that have traditionally been designed to knock out warplanes and cruise missiles. Moreover, expensive anti-air missiles such as the Patriot system seem inappropriate and imbalanced for stopping far cheaper and more numerous drones. “War has evolved. Air Defenders need the ability to defend against large, complex raids designed to overwhelm traditional defense solutions,” said Kenn Todorov, VP and GM, command and control
+
 ### Catastrophic optical disc shattering blamed on cleaning chemicals and packing foam — another data preservation concern to add to bit rot and laser rot
 Sat, 15 Aug 2026 09:30:00 +0000 — https://www.tomshardware.com/pc-components/storage/catastrophic-optical-disc-shattering-blamed-on-cleaning-chemicals-and-packing-foam-another-data-preservation-concern-to-add-to-bit-rot-and-laser-rot
 
@@ -171,12 +176,12 @@ Fri, 14 Aug 2026 10:43:57 +0000 — https://www.tomshardware.com/desktops/gaming
 
 For a budget-priced 1080p gaming rig with decent enough specs, you're going to need over $1,000 in the current market. Right now, one of the best specs at this price point is this ABS Cyclone Aqua gaming PC for $1,099.99 at Newegg . You're saving $300 on its usual price, and you're getting a machine that will deliver enough juice for solid 1080p gameplay. ● Check out this deal at Newegg This system features an Intel Core i5-14400F processor, along with a current-gen Nvidia GeForce RTX 5060 GPU, 32GB of DDR4-3200 memory, and a 1TB SSD. Right now, you'll struggle to find a competitor that offers similar performance for this machine at a lower price. The current state of the market has pushed 1080p budget machines like this above $1,000, with AI forcing RAM, SSDs, and GPUs to rapidly increase in price. ABS, a brand that Newegg owns and operates itself, is delivering good specs here for a price that still remains affordable. The ABS Cyclone Aqua gaming PC comes with a 10-core Intel Core i5-14400F CPU, an Nvidia GeForce GeForce RTX 5060 graphics card, a 1TB NVMe SSD with Gen 4 speeds, and 32GB of DDR4-3200 RAM. This mid-range gaming desktop rig is ready for 1080p gaming. View Deal This is inescapably a machine for 1080p gaming. First, the GPU, with the Nvidia GeForce RTX 5060 shipping with 3,840 CUDA cores, along with 8GB of GDDR7 VRAM. This is an entry-level GPU that sits above the RTX 5050, with Nvidia DLSS 4 support giving it the latest Nvidia software enhancements in-game. Mul
 
-### Nvidia Jetson chip found in Russian cruise missile, Ukraine claims — presence in S-71 'Monochrome' weapon may indicate use of AI tech
-Fri, 14 Aug 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-jetson-chip-found-in-russian-cruise-missile-ukraine-claims-presence-in-s-71-monochrome-weapon-may-indicate-use-of-ai-tech
-
-Russia's latest S-71 'Monochrome' cruise missiles use Nvidia's Jetson Orin modules with artificial intelligence capabilities, the Main Directorate of Intelligence of the Ministry of Defense of Ukraine claimed on Wednesday. The S-71 'Monochrome' is distinguished by reduced observability and autonomous targeting capability, reports Militarnyi . Nvidia says the Jetson Orin is a consumer-grade device that is not export-controlled and is not officially available in Russia. According to the claims, the module in question carries an Nvidia chip marked as SNVUP6.MOP TE980M-A1 and resembles the Jetson Orin NX 8GB/16GB system-on-module . The Orin NX is an automotive-grade SoM based on a system-on-chip featuring up to eight Arm Cortex-A78AE cores, a GPU featuring Ampere architecture with 1024 CUDA cores and 32 Tensor cores that provide up to 157 sparse INT8 TOPS performance for AI, dedicated NVDLA engines, and a vision accelerator. The unit has been shipping since 2023, though based on the markings on the chip purportedly found in the missile, it was packaged in March, 2025. "Our Jetson Orin modules are consumer-grade products sold to students, developers, and startups for a wide range of beneficial applications," an Nvidia spokesperson told Tom's Hardware . "They are not available in Russia and are not designed for military purposes. Pre-owned Jetsons are available through many reseller channels. Although we cannot track products after they are sold, if we determine that any customer i
-
 ## Phoronix
+
+### Debian Developers Begin Voting Over LLM Usage Within The Project
+Sat, 15 Aug 2026 06:40:04 -0400 — https://www.phoronix.com/news/Debian-Votes-On-LLM-Usage
+
+Debian developers have been considering a general resolution over LLM usage within the project. After collecting a variety of proposals, voting has now commenced for Debian developers to decide how comfortable they are with AI / Large Language Model contributions in the project or not...
 
 ### AMD Posts Massive 109 Patch Series For GFX 12.1 RAS Support On Friday Evening
 Fri, 14 Aug 2026 21:01:22 -0400 — https://www.phoronix.com/news/AMD-GFX12.1-RAS-Patch-Series
@@ -232,9 +237,4 @@ AMD's GAIA open-source AI software built atop Lemonade for serving as an AI comp
 Thu, 13 Aug 2026 16:08:00 -0400 — https://www.phoronix.com/news/KDE-Bullet-Proof-Software
 
 KDE e.V. along with Linux PC vendor Kubuntu Focus and KDE-aligned consulting firm Techpaladin Software have announced a collaboration of the "bullet-proof KDE Software initiative" for providing at least three years of bug fixes and security updates to KDE Plasma 6.6 LTS and related software...
-
-### The Best Linux 7.2 Features: Cache Aware Scheduling, AMD Zen 6, AMDGPU HDMI 2.1 FRL
-Thu, 13 Aug 2026 15:57:51 -0400 — https://www.phoronix.com/news/Linux-7.2-Best-Features
-
-With the Linux 7.2 kernel expected to be released on Sunday, 16 August, here is a look at some of the most interesting new features and changes to find with this next kernel version to be used by Ubuntu 26.10 and other upcoming Linux distribution releases...
 
