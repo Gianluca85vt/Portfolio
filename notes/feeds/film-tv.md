@@ -1,4 +1,4 @@
-# Film & TV — harvested 2026-08-15T11:57:55.929Z
+# Film & TV — harvested 2026-08-15T13:18:19.632Z
 
 ## Variety
 
@@ -54,6 +54,11 @@ Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date 
 
 ## The Hollywood Reporter
 
+### Heated Rivalry, Hacks Top GALECA Dorian TV Awards Winners List
+Sat, 15 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-galeca-dorian-tv-awards-winners-1236673379/
+
+Additional special career honors were bestowed to Hannah Einbinder, with GALECA’s Wilde Wit Award, and Lisa Kudrow, who was named a GALECA TV Icon for her performance in 'The Comeback.'
+
 ### BFI Boss Ben Roberts, Picturehouse s Clare Binns on Gen Z s Cinema Renaissance, AI Slop and British Indie Film: We re Not Great at Comedy
 Sat, 15 Aug 2026 11:36:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bfi-ben-roberts-clare-binns-edinburgh-film-obession-odyssey-1236674318/
 
@@ -99,12 +104,17 @@ Sat, 15 Aug 2026 04:14:28 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Broadway star Maya Boyd will play Storm in the feature, which has a May 2028 release date.
 
-### Marvel Unveils Trippy First VisionQuest Trailer
-Sat, 15 Aug 2026 04:05:35 +0000 — https://www.hollywoodreporter.com/tv/tv-features/visionquest-first-trailer-paul-bettany-1236671624/
-
-Paul Bettany and James Spader star in the Disney+ series for Marvel Studios.
-
 ## Deadline
+
+### Dorian TV Awards 2026 Winners Include Heated Rivalry , Hacks Final Season More — Full List
+Sat, 15 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/2026-dorian-tv-awards-winners-list-heated-rivalry-hacks-1237033386/
+
+The Gay and Lesbian Entertainment Critics Association (GALECA) has voted on another year of the best in LGBTQ television. On Saturday, GALECA announced the winners of the LGBTQ journalist organization s 18th Dorian TV Awards, with shows like Heated Rivalry, Hacks, Pluribus and more taking some of the top honors. Rhea Seehorn, Jean Smart, François Arnaud [ ]
+
+### Disney s The Greatest Showman Musical Sets Spring 2027 West End Opening, Principal Cast
+Sat, 15 Aug 2026 12:51:10 +0000 — https://deadline.com/2026/08/greatest-showman-musical-west-end-opening-date-1237041487/
+
+The Greatest Showman, the Disney Theatrical Group musical stage adaptation of the 2017 film, will premiere in London s West End at Theatre Royal Drury Lane in Spring 2027, Disney announced at the D23 event in Anaheim last night. Also revealed was the cast: The Greatest Showman will star Oliver Tompsett as P.T. Barnum, Samantha Barks [ ]
 
 ### Spider-Man: Brand New Day Has Super $65M Third Weekend; The Odyssey Sailing Past Half Billion Saturday AM Box Office Update
 Sat, 15 Aug 2026 07:30:00 +0000 — https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/
@@ -155,14 +165,4 @@ Although the Reagans might not be in the same city anymore, Blue Bloods showrunn
 Sat, 15 Aug 2026 04:12:59 +0000 — https://deadline.com/2026/08/visionquest-trailer-paul-bettany-marvel-1237041020/
 
 It s the beginning of the end for the WandaVision trilogy. Nearly two years after the series finale of Agatha All Along and 5½ years after WandaVision ended the Disney and Marvel released the first trailer for VisionQuest on Friday at D23 in Anaheim. Have a look above. Paul Bettany stars as Vision, a [ ]
-
-### Tangled Live-Action Pic From Disney Sets 2028 Theatrical Release D23
-Sat, 15 Aug 2026 03:50:06 +0000 — https://deadline.com/2026/08/tangled-release-date-d23-1237040918/
-
-The live-action adaptation of Disney animated classic Tangled will be opening in theaters on March 31, 2028. A very small piece of footage, literally a shot of Rapunzel s long blonde hair sprawled down long medieval stairs was shown. The camera lifts to show the face of actress Teagan Croft. We then see Kathryn Hahn stepping [ ]
-
-### The Bluey Movie Trailer: Beloved Kids Show Character Dogpaddles To Big Screen For First Time D23
-Sat, 15 Aug 2026 03:42:35 +0000 — https://deadline.com/2026/08/bluey-movie-trailer-d23-1237040950/
-
-Good news and bad news, kids. The good news is that we have the first trailer for The Bluey Movie. The bad news is the pic doesn t hits theaters for another year oh, biscuits! OK, so the release date isn t exactly news we ve known that for nearly a year already but the [ ]
 

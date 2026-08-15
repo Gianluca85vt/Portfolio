@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-15T11:57:55.929Z
+# Games — harvested 2026-08-15T13:18:19.632Z
 
 ## Eurogamer
 
@@ -104,16 +104,21 @@ Thu, 13 Aug 2026 14:00:44 +0000 — https://www.gamesindustry.biz/sensor-tower-8
 
 The digital intelligence firm Sensor Tower reports that 89% of preorders for GTA6 are for the $100 ultimate edition rather than the $80 standard edition. Read more
 
-### Testronic appoints Sonia Kerr as CEO, Sharon Baylay-Bell becomes company chair
-Thu, 13 Aug 2026 13:06:36 +0000 — https://www.gamesindustry.biz/testronic-appoints-sonia-kerr-as-ceo-sharon-baylay-bell-becomes-company-chair
-
-Testronic has appointed Sonia Kerr as CEO, succeeding Sharon Baylay-Bell, who moves into the role of company chair. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### It s a Relentless Onslaught : Wolverine PS5 Dev Responds to Unprecedented Criticism
+Sat, 15 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/its-a-relentless-onslaught-wolverine-ps5-dev-responds-to-unprecedented-criticism
+
+"I cannot believe this is good for anyone's mental health". I’m not exactly sure how and why it’s happened, but Marvel’s Wolverine has become the butt of all social media jokes. Its crime? I’m honestly not entirely sure – it looks pretty good and the first round of previews have largely matched that sentiment . Read the full article on pushsquare.com
+
+### A Kingdom Hearts Animated Series Is Coming Soon to Disney Channel, Disney Plus
+Sat, 15 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/a-kingdom-hearts-animated-series-is-coming-soon-to-disney-channel-disney-plus
+
+Gawrsh. Disney has announced an animated TV series based on Kingdom Hearts . The news comes via the company's D23 expo, which is currently underway in California. Read the full article on pushsquare.com
 
 ### Matt Groening Himself Says The Simpsons: Hit & Run Is Coming Back in Some Form
 Sat, 15 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/matt-groening-himself-says-the-simpsons-hit-and-run-is-coming-back-in-some-form
@@ -164,16 +169,6 @@ New Neo Berlin 2087 trailer just dropped. You may remember Neo Berlin 2087 , a g
 Fri, 14 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/sonic-frontiers-surpasses-5-million-copies-sold-as-fans-await-what-comes-next
 
 Hedgehog fund. SEGA has announced that Sonic Frontiers has now officially sold over 5 million copies. The news came via social media yesterday: Read the full article on pushsquare.com
-
-### System Shock, High on Life, More Are Breathing New Life into PSVR2
-Fri, 14 Aug 2026 10:45:00 GMT — https://www.pushsquare.com/news/2026/08/system-shock-high-on-life-more-are-breathing-new-life-into-psvr2
-
-Several PSVR2 games announced. PSVR2 is a fantastic bit of kit, and while there have been some great games that take advantage of the tech over the years, the release schedule has definitely felt a little lighter recently. It'll come as very welcome news to virtual reality fans, then, that the headset has just had multiple new games announced and/or release as part of the recent VR Games Showcase . Read the full article on pushsquare.com
-
-### Netflix Shuts Down Oxenfree Dev Night School Studio as It Downscales In-House Game Teams
-Fri, 14 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/08/netflix-shuts-down-oxenfree-dev-night-school-studio-as-it-downscales-in-house-game-teams
-
-Moonloot Games also closed. Netflix has shuttered two development studios as it shrinks its internal video game operations. One of them is Night School Studio, best known for its Oxenfree series of narrative adventures with an innovative conversation system. Read the full article on pushsquare.com
 
 ## Game Developer
 
