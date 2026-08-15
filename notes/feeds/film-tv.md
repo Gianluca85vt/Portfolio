@@ -1,4 +1,4 @@
-# Film & TV — harvested 2026-08-15T06:01:33.892Z
+# Film & TV — harvested 2026-08-15T07:17:52.302Z
 
 ## Variety
 
@@ -116,7 +116,7 @@ Sat, 15 Aug 2026 05:00:06 +0000 — https://deadline.com/2026/08/frozen-3-footag
 
 The filled Honda Center got a look at Frozen 3 and let s just say, there is quite a lot in store. First of all, are those wedding bells, we hear? Indeed, they are! Kristen Bell confirmed at Disney s D23 entertainment showcase on Friday night that Anna will be marrying her mountain man Kristoff (Jonathan [ ]
 
-### Kieran Culkin To Lead Voice Cast Of New Walt Disney Animated Movie Clay D23
+### Kieran Culkin To Lead Voice Cast Of New Disney Animated Movie Clay D23
 Sat, 15 Aug 2026 04:58:42 +0000 — https://deadline.com/2026/08/kieran-culkin-cast-clay-walt-disney-animated-movie-1237041021/
 
 Walt Disney Animation Studios has a new original film in the works, Clay, which will head to theaters in 2028 with Kieran Culkin leading the voice cast. The project was announced at Disney s Entertainment Showcase at D23 on Friday night. Oscar and Emmy winner Culkin will voice the protagonist, Flip, who might be a little [ ]

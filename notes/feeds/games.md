@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-15T06:01:33.892Z
+# Games — harvested 2026-08-15T07:17:52.302Z
 
 ## Eurogamer
+
+### What we've been playing - "My Switch 2 sits watching me from my desk like the Green Goblin mask"
+Sat, 15 Aug 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-switch-2-green-goblin-mask
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, we all melt into puddles by our computers, but Dom also devotes themself to the new Fire Emblem; Connor gets enthusiastic about new fighting game on the block, Marvel T&omacr;kon; Chris can't stop thinking about the Star Wars XCOM-like game he played; and Bertie organises a Eurogamer community hike. Read more
 
 ### UK video game industry charity football match raises over £63,000 for physically disabled gamers
 Fri, 14 Aug 2026 14:21:11 +0000 — https://www.eurogamer.net/special-effect-big-football-match-charity-50000
@@ -56,11 +61,6 @@ Marvel's Wolverine developer Insomniac has clarified the game will be "fully pla
 Thu, 13 Aug 2026 15:00:16 +0000 — https://www.eurogamer.net/insomniac-wolverine-preview-ferocious-destructive-cinematic-little-predictable
 
 "One thing we always think about a lot is how does our game open ," says Mike Fitzgerald, Head of Technology at Insomniac Games . "When you start our first Spider-Man game... you jump out the window and you're swinging down the street. So what's the version of that for Wolverine?" Read more
-
-### You have fewer than 200 days to migrate all your old Pokémon from Pokémon Bank to Pokémon Home, or they're gone forever
-Thu, 13 Aug 2026 14:59:10 +0000 — https://www.eurogamer.net/you-have-fewer-than-200-days-to-migrate-all-your-old-pokemon-from-pokemon-bank-to-pokemon-home-or-theyre-gone-forever
-
-Today, The Pok&eacute;mon Company announced that it's shutting down Pok&eacute;mon Bank, the Pok&eacute;mon storage app was that was originally released for the Nintendo 3DS back in 2013. The service goes offline on 26th February, 2027, so you've still got plenty of time to access your old pals and begin migrating them into your new games, if you've got the time and energy. Read more
 
 ## GamesIndustry.biz
 
