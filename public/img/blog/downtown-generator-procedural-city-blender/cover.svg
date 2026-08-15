@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Procedural downtown generation in Blender">
+  <defs>
+    <linearGradient id="bgDT" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#3A1A10"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="accentDT" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BE4C00"/>
+      <stop offset="100%" stop-color="#FFB37A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgDT)"/>
+
+  <!-- procedural city block grid, faint -->
+  <g stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="3" fill="none">
+    <rect x="80" y="470" width="130" height="220"/>
+    <rect x="230" y="510" width="110" height="180"/>
+    <rect x="360" y="440" width="150" height="250"/>
+    <rect x="900" y="500" width="120" height="190"/>
+    <rect x="1030" y="450" width="140" height="240"/>
+  </g>
+  <g stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="2">
+    <line x1="0" y1="690" x2="1200" y2="690"/>
+    <line x1="150" y1="690" x2="150" y2="900"/>
+    <line x1="420" y1="690" x2="420" y2="900"/>
+    <line x1="700" y1="690" x2="700" y2="900"/>
+    <line x1="960" y1="690" x2="960" y2="900"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="150" font-size="30" letter-spacing="9" fill="#FFFFFF" fill-opacity="0.45">GEOMETRY NODES</text>
+
+    <text x="600" y="290" font-size="80" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">A WHOLE</text>
+    <text x="600" y="390" font-size="80" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">DOWNTOWN</text>
+
+    <text x="600" y="470" font-size="42" fill="#FFFFFF" fill-opacity="0.6">FROM A FEW SLIDERS</text>
+  </g>
+
+  <rect x="500" y="520" width="200" height="8" rx="4" fill="url(#accentDT)"/>
+</svg>
