@@ -1,6 +1,11 @@
-# Film & TV — harvested 2026-08-15T11:00:12.891Z
+# Film & TV — harvested 2026-08-15T11:57:55.929Z
 
 ## Variety
+
+### Nowhere to Lay My Eyes Review: Kim Minhee Once More Gives a Melancholy Masterclass in a Hong Sangsoo Miniature
+Sat, 15 Aug 2026 11:49:32 +0000 — https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/
+
+The death-and-taxes certainty of Hong Sangsoo s filmography — comparable to Woody Allen s prime career run in its regularity, consistency and recurrence of ideas and actors across a gently varying tonal spectrum — has lately been infused with some mild unpredictability. Earlier this year, his Berlinale premiere The Day She Returns continued an occasional experimental jag [ ]
 
 ### ‘A Chocolate Christmas,’ a Brazilian Holiday Romantic Drama, Set to Shoot in Gramado and New York From December
 Sat, 15 Aug 2026 10:52:36 +0000 — https://variety.com/2026/film/global/paulo-nascimento-a-chocolate-christmas-gramado-new-york-1236835366/
@@ -47,12 +52,12 @@ Sat, 15 Aug 2026 04:25:07 +0000 — https://variety.com/2026/tv/news/ahsoka-seas
 
 Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for Ahsoka will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the popular animated character in live-action [ ]
 
-### X-Men Movie Casts Inde Navarrette as Rogue, Christopher Abbott as Prof. X, Adam Driver as Mr. Sinister and Maya Boyd as Storm
-Sat, 15 Aug 2026 04:16:48 +0000 — https://variety.com/2026/film/news/x-men-cast-inde-navarrette-rogue-christopher-abbott-prof-x-adam-driver-mr-sinister-1236817698/
-
-The MCU s X-Men team is taking shape. Marvel Studios exec Kevin Feige announced the inaugural members of the mutant team at D23 on Friday. The cast includes Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Christopher Abbott as Prof. X and Maya Boyd as Storm. [ ]
-
 ## The Hollywood Reporter
+
+### BFI Boss Ben Roberts, Picturehouse s Clare Binns on Gen Z s Cinema Renaissance, AI Slop and British Indie Film: We re Not Great at Comedy
+Sat, 15 Aug 2026 11:36:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bfi-ben-roberts-clare-binns-edinburgh-film-obession-odyssey-1236674318/
+
+The pair spoke at Edinburgh Film Festival's keynote industry session on Saturday, lauding the work of 'Obsession,' 'The Odyssey,' and pondering the challenges that lie ahead for the U.K.'s independent film sector.
 
 ### I Live in V.I., a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification
 Sat, 15 Aug 2026 07:20:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/i-live-in-v-i-social-satire-film-nigeria-locarno-open-doors-1236673552/
@@ -98,11 +103,6 @@ Broadway star Maya Boyd will play Storm in the feature, which has a May 2028 rel
 Sat, 15 Aug 2026 04:05:35 +0000 — https://www.hollywoodreporter.com/tv/tv-features/visionquest-first-trailer-paul-bettany-1236671624/
 
 Paul Bettany and James Spader star in the Disney+ series for Marvel Studios.
-
-### Tangled Live-Action Movie Unveils First-Look, March 2028 Release Date
-Sat, 15 Aug 2026 03:51:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tangled-live-action-movie-first-look-1236672365/
-
-Teagan Croft, Milo Manheim and Kathryn Hahn star in the new film, which is currently filming.
 
 ## Deadline
 

@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-15T11:00:12.891Z
+# Games — harvested 2026-08-15T11:57:55.929Z
 
 ## Eurogamer
+
+### Kingdom Hearts 4's first new world is inspired by Pixar's Coco
+Sat, 15 Aug 2026 11:29:23 +0000 — https://www.eurogamer.net/kingdom-hearts-4-coco-world
+
+Alongside its Kingdom Hearts 4 release window and its Kingdom Hearts anime series announcement, Disney used Friday's D23 Entertainment Showcase to confirm the first new world for Kingdom Hearts 4 : one inspired by Pixar's Coco. Read more
+
+### Kingdom Hearts is getting its own anime series on Disney+ and Disney Channel
+Sat, 15 Aug 2026 11:05:39 +0000 — https://www.eurogamer.net/kingdom-hearts-animated-series
+
+A Kingdom Hearts animated show is on the way. Read more
 
 ### Kingdom Hearts 4 finally has a release window, if not quite a firm release date
 Sat, 15 Aug 2026 10:42:49 +0000 — https://www.eurogamer.net/kingdom-hearts-release-window-2027
@@ -51,16 +61,6 @@ The hope that Netflix might produce something more than snackable sports or part
 Fri, 14 Aug 2026 10:35:29 +0000 — https://www.eurogamer.net/halo-campaign-evolved-patch-jackal-johnson
 
 There's a new update coming to Halo: Campaign Evolved next week. The patch, which is targeting some of the biggest issues players have had with the game since its launch a few weeks ago, will arrive sometime between 17th August and 21st August (no fixed date has been announced yet). Read more
-
-### Fields of Mistria review
-Fri, 14 Aug 2026 10:31:22 +0000 — https://www.eurogamer.net/fields-of-mistria-review
-
-It's 1:50am, and a purple cat throws several logs of wood at my head as I run to bed, exhausted from a long day battling sentient lanterns in the mines. At 6am the grind begins again, but not before a morning chat with the amnesiac dragon statue who lives down the garden path. It's a hard life for adventurers in Fields of Mistria. It's even harder as an adventurer-turned-farmer, because alongside fighting monsters underground and learning the secrets of dragon magic, the local feudal lady has put in a request for relief crops. As your new homestead was granted in exchange for your help, it's time to hang up the greaves and get growing. Read more
-
-### Marvel Tōkon: Fighting Souls looks to have sold almost half a million copies in a week
-Fri, 14 Aug 2026 09:07:36 +0000 — https://www.eurogamer.net/marvel-tokon-fighting-souls-half-a-million-sales-one-week
-
-New sales estimates show that Marvel T&omacr;kon: Fighting Souls may have sold almost 500,000 copies in around a week, a solid pace for a fighting game. Read more
 
 ## GamesIndustry.biz
 
@@ -115,6 +115,16 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Matt Groening Himself Says The Simpsons: Hit & Run Is Coming Back in Some Form
+Sat, 15 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/matt-groening-himself-says-the-simpsons-hit-and-run-is-coming-back-in-some-form
+
+And who are we to question him. There has been an awful lot of rumour and speculation about the potential return of The Simpsons: Hit & Run , a firm fan favourite game from 2003. Well, it seems like we might have finally gotten some sort of confirmation, and it comes straight from the creator of The Simpsons , Matt Groening . Read the full article on pushsquare.com
+
+### Guide: These 25+ PS5 and PS Plus Games Are Coming to PS5 Next Week (17th-23rd August)
+Sat, 15 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-25plus-ps5-and-ps-plus-games-are-coming-to-ps5-next-week-17th-23rd-august
+
+The Sinking City 2! Starsand Island! Mortal Shell 2! Much more! I'm afraid to say we're now deep into the heavy release season, folks. That means there are loads of new PS5 games coming out this time, including The Sinking City 2 , Mortal Shell 2 , Starsand Island , and one I'm personally looking forward to: No Case Should Remain Unsolved . Read the full article on pushsquare.com
+
 ### Pixar s Coco Confirmed for Kingdom Hearts 4, Launching on PS5 in Late 2027
 Sat, 15 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/pixars-coco-confirmed-for-kingdom-hearts-4-launching-on-ps5-in-late-2027
 
@@ -124,6 +134,11 @@ Brand new trailer revealed. Expectant Kingdom Hearts 4 fans have been rewarded a
 Sat, 15 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-646
 
 Weekend warriors. Another week is all done and dusted, which means we can look forward to another weekend of gaming. Here's what we're playing. Jamie O'Neill I noticed on Time Extension that there's a sale of Arcade Archives' Namco titles, so since I've mainly spent time with the PC Engine port, I figured I'd treat myself to 30% off Namco's obscure 1988 cute-'em-up, Arcade Archives Ordyne . Read the full article on pushsquare.com
+
+### Guide: When Is the Phantom Blade Zero State of Play?
+Sat, 15 Aug 2026 08:00:00 GMT — https://www.pushsquare.com/guides/when-is-the-phantom-blade-zero-state-of-play
+
+Dates, times, and what to expect. Sony's latest State of Play is very nearly here, and this time, it's focusing wholly on a single game: Phantom Blade Zero . The Chinese action game has looked extremely promising for a long time now, and as it approaches its October launch date, developer S-GAME has prepared a new showing of its stylish action title. Read the full article on pushsquare.com
 
 ### Call of Duty: Modern Warfare 4 s PS5 Beta Includes Campaign Mission for the First Time
 Fri, 14 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/call-of-duty-modern-warfare-4s-ps5-beta-includes-campaign-mission-for-the-first-time
@@ -159,21 +174,6 @@ Several PSVR2 games announced. PSVR2 is a fantastic bit of kit, and while there 
 Fri, 14 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/08/netflix-shuts-down-oxenfree-dev-night-school-studio-as-it-downscales-in-house-game-teams
 
 Moonloot Games also closed. Netflix has shuttered two development studios as it shrinks its internal video game operations. One of them is Night School Studio, best known for its Oxenfree series of narrative adventures with an innovative conversation system. Read the full article on pushsquare.com
-
-### On the Cusp of Kingdom Hearts 4 Blowout, Disney Says Series Is a Billion-Dollar Brand
-Fri, 14 Aug 2026 08:30:00 GMT — https://www.pushsquare.com/news/2026/08/on-the-cusp-of-kingdom-hearts-4-blowout-disney-says-series-is-a-billion-dollar-brand
-
-About to get even bigger. It’s pretty much expected that Kingdom Hearts 4 will feature heavily at this weekend’s bi-annual D23 convention . Disney will host a livestream of its scheduled Kingdom Hearts panel , which will take place on 15th August from 4:30PM PT. Read the full article on pushsquare.com
-
-### The Game Feels Super Smooth : Wolverine Will Run at 60fps with Ray Tracing on Base PS5
-Fri, 14 Aug 2026 08:00:00 GMT — https://www.pushsquare.com/news/2026/08/the-game-feels-super-smooth-wolverine-will-run-at-60fps-with-ray-tracing-on-base-ps5
-
-Insomniac wizardry. Insomniac is one of the best developers in the business, and certainly among the strongest studios under Sony’s umbrella. It’s not massively surprising to learn the studio is aiming to deliver an unprecedented experience with Marvel’s Wolverine , then: 60fps with ray tracing enabled – all on base PS5 at launch! Read the full article on pushsquare.com
-
-### Modest Sales Predicted for Sony s Critically Acclaimed New Fighter
-Fri, 14 Aug 2026 07:30:00 GMT — https://www.pushsquare.com/news/2026/08/modest-sales-predicted-for-sonys-critically-acclaimed-new-fighter
-
-Room for improvement. Marvel Tokon: Fighting Souls isn’t setting cash registers alight if new predictions from Alinea Analytics are to be believed. The industry observer predicts the licensed superhero fighter sold 485k copies across the PS5 and PC in its first week, amounting for an estimated $33 million revenue. It reckons 74% of the copies were sold on Sony’s home console, with PC making up the remaining 26%. Read the full article on pushsquare.com
 
 ## Game Developer
 
