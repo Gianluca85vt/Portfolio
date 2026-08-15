@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-15T13:18:19.632Z
+# Games — harvested 2026-08-15T14:00:35.106Z
 
 ## Eurogamer
 
@@ -196,14 +196,4 @@ The commerce company wants to give studios more ways to drive repeat purchases.
 Thu, 13 Aug 2026 14:31:00 GMT — https://www.gamedeveloper.com/business/saber-interactive-denies-replacing-writers-with-ai-on-rideshare-stimulator-
 
 'Neither Saber nor Unigine have replaced any writers with AI for Rideshare or any other game.'
-
-### Opinion: Deprofessionalization could foster toxic work environments on small teams
-Thu, 13 Aug 2026 13:36:46 GMT — https://www.gamedeveloper.com/production/opinion-deprofessionalization-could-foster-toxic-work-environments-on-small-teams
-
-As smaller teams see bigger success, how will the game industry protect professional standards of conduct?
-
-### Twitch will sacrifice you to its AI overlord whether you like it or not
-Thu, 13 Aug 2026 13:19:47 GMT — https://www.gamedeveloper.com/marketing/twitch-will-sacrifice-you-to-its-ai-overlord-whether-you-like-it-or-not
-
-The streaming platform has informed users their content will be used to train Amazon's generative AI models by default—and opting-out doesn't solve the problem entirely.
 

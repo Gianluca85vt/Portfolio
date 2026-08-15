@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-08-15T13:18:19.632Z
+# Film & TV — harvested 2026-08-15T14:00:35.106Z
 
 ## Variety
+
+### Darren Walker Opens His Home to Friends and Anonymous Content Emmy Nominees in Celebration of Joy, Reflection, Delight and Awe
+Sat, 15 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/darren-walker-anonymous-content-emmy-paul-revenue-williams-1236835193/
+
+Darren Walker may be new to Los Angeles as he takes the helm of Anonymous Content as president and CEO, but he s had long relationships with key players in town for years, given his distinguished career in philanthropy and nonprofits. Sally Field is one of those people. So Walker was excited to learn when he [ ]
+
+### Florin Şerban s You Don t Belong Here Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards
+Sat, 15 Aug 2026 13:45:10 +0000 — https://variety.com/2026/film/news/locarno-award-winners-monica-bellucci-kim-minhee-1236835378/
+
+Romanian director Florin Şerban s You Don t Belong Here, a study of anti-Roma racism, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. Veteran Korean auteur Hong Sangsoo, a recurring winner at the Swiss festival, was named [ ]
+
+### Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico s Morelia Film Festival
+Sat, 15 Aug 2026 13:37:49 +0000 — https://variety.com/2026/film/global/diego-luna-nicolas-pereda-rodrigo-pla-morelia-film-festival-1236835320/
+
+A-list festival acclaimed pics from some of Mexico’s most celebrated talent, many of them female and first-timers, make up this year’s line-up at the Morelia Film Festival (FICM). Running October 16-25, the 24th FICM edition features such luminaries as actor-producer Diego Luna (“Andor”) in his fifth outing as a director in “Ashes,” which world premiered [ ]
 
 ### Nowhere to Lay My Eyes Review: Kim Minhee Once More Gives a Melancholy Masterclass in a Hong Sangsoo Miniature
 Sat, 15 Aug 2026 11:49:32 +0000 — https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/
@@ -37,22 +52,22 @@ Sat, 15 Aug 2026 04:43:14 +0000 — https://variety.com/2026/film/news/star-wars
 
 Ryan Gosling already survived going to space in Project Hail Mary, but now he s ready to blast off to a galaxy far, far away in Star Wars: Starfighter. The upcoming Star Wars movie previewed footage at D23 and is set to release in theaters on May 28, 2027. Disney and Lucasfilm have kept plot details [ ]
 
-### Disney s Hexed Adds Walton Goggins and Jodie Foster to Cast
-Sat, 15 Aug 2026 04:40:54 +0000 — https://variety.com/2026/film/news/hexed-cast-walton-goggins-jodie-foster-1236834882/
-
-Jodie Foster and Walton Goggins are joining the cast of Disney s next animated movie, Hexed. The casting news was announced during the Disney Entertainment Showcase presentation at Disney s D23 fan event in Anaheim, California on Friday. Oscar-winner Foster will play a devious witch queen, while Goggins will play a three-eyed cat named Beef Roger Crummchuk. [ ]
-
-### Zootopia 3 in the Works at Disney
-Sat, 15 Aug 2026 04:31:12 +0000 — https://variety.com/2026/film/news/zootopia-3-disney-1236835053/
-
-Get ready to head back to Zootopia. Disney has announced that Zootopia 3 is in the works following the massive success of last year s Zootopia 2, which became the company s highest grossing animated movie of all time with $1.8 billion at the global box office. The franchise started with the original 2016 movie, which introduced [ ]
-
-### Ahsoka Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels
-Sat, 15 Aug 2026 04:25:07 +0000 — https://variety.com/2026/tv/news/ahsoka-season-2-trailer-release-date-star-wars-1236826698/
-
-Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for Ahsoka will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the popular animated character in live-action [ ]
-
 ## The Hollywood Reporter
+
+### LeBron James Launches YouTube Golf Channel — Watch the First Episode s Trailer (Exclusive)
+Sat, 15 Aug 2026 13:59:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/lebron-james-starts-youtube-golf-channel-exclusive-trailer-1236673598/
+
+Saturday's premiere chronicles that semi-infamous Scotland golf trip for the 2016 NBA champion Cleveland Cavaliers (minus Kyrie Irving).
+
+### Locarno Film Festival Awards Go to You Don t Belong Here, Hong Sangsoo, Monica Bellucci
+Sat, 15 Aug 2026 13:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-awards-winners-monica-bellucci-hong-sang-soo-1236673771/
+
+In the Filmmakers of the Present Competition, 'The Illusion of an Everlasting Summer' by Alessandra Sanguinetti won the Golden Leopard, with the film also receiving the first feature award.
+
+### “I’ve Disobeyed the Film God Laws”: Lindsey Ryan on Shooting Her Debut Feature at Sea, With Kids, a Boat and a Hamster
+Sat, 15 Aug 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/lindsey-ryan-capsized-edinburgh-rhys-ifans-lily-rabe-film-1236670841/
+
+THR can unveil exclusive stills from the Rhys Ifans and Lily Rabe-starrer, set to make waves in competition at Edinburgh Film Festival.
 
 ### Heated Rivalry, Hacks Top GALECA Dorian TV Awards Winners List
 Sat, 15 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-galeca-dorian-tv-awards-winners-1236673379/
@@ -89,22 +104,22 @@ Sat, 15 Aug 2026 04:41:28 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 The news was revealed at D23 on Friday, with a release date set for November 2028.
 
-### Zootopia 3 In the Works at Disney
-Sat, 15 Aug 2026 04:34:15 +0000 — https://www.hollywoodreporter.com/movies/movie-news/zootopia-3-in-the-works-disney-1236671631/
-
-Ginnifer Goodwin's Judy Hopps and Jason Bateman's Nick Wilde are coming back for another adventure.
-
-### Ryan Gosling Shows Off First Footage From Star Wars: Starfighter, About A Guy From the Wrong Side of the Galaxy
-Sat, 15 Aug 2026 04:32:25 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ryan-gosling-first-footage-star-wars-starfighter-d23-1236671420/
-
-The Shawn Levy-directed project is set to fly into theaters May 28, 2027.
-
-### X-Men Finally Unveils Its Cast, Including Adam Driver, Inde Navarrette, Christopher Abbott
-Sat, 15 Aug 2026 04:14:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/x-men-cast-marvel-reboot-1236671602/
-
-Broadway star Maya Boyd will play Storm in the feature, which has a May 2028 release date.
-
 ## Deadline
+
+### Locarno Film Festival Winners: Florin Șerban, Monica Bellucci Hong Sangsoo Among Victors
+Sat, 15 Aug 2026 13:45:00 +0000 — https://deadline.com/2026/08/locarno-film-festival-winners-florin-serban-monica-bellucci-1237040623/
+
+The Pardo d’Oro at the 79th Locarno Film Festival has gone to Florin Șerban s drama You Don t Belong Here (Nu E Locul Tau Aici). Scroll down for full list of winners. The film marks the acclaimed Romanian director’s return to feature filmmaking after eight years. A father-and-son drama, the film was awarded the Pardo d Oro [ ]
+
+### BFI CEO Ben Roberts Gives Keynote Address At Inaugural UK Film Conference: “The Missing Piece, For Me, Is Having Film Firmly In The Classroom” – Edinburgh Film Festival
+Sat, 15 Aug 2026 13:21:26 +0000 — https://deadline.com/2026/08/bfi-ceo-ben-roberts-keynote-address-uk-film-conference-eiff-1237041496/
+
+In conversation with Clare Binns, managing director of Picturehouse Cinemas, at the Edinburgh Film Festival’s inaugural UK Film Conference BFI CEO Ben Roberts was candid from the outset about the problems of working for a major public-funding body. Having previously worked for numerous UK distribution and sales outfits, Roberts admitted that he had been warned [ ]
+
+### BBC Seeks To Subpoena Ivanka Trump, Jared Kushner Don Jr. In Defamation Lawsuit
+Sat, 15 Aug 2026 13:19:25 +0000 — https://deadline.com/2026/08/bbc-subpoena-defamation-lawsuit-1237041495/
+
+The BBC is seeking to subpoena Donald Trump Jr, Ivanka Trump and Jared Kushner in its defense against a $10 billion defamation suit brought against the broadcaster by President Donald Trump. In court filings yesterday, the BBC alleges that Trump s son Donald Jr., daughter Ivanka and son-in-law Kushner have personal knowledge of the president s intentions [ ]
 
 ### Dorian TV Awards 2026 Winners Include Heated Rivalry , Hacks Final Season More — Full List
 Sat, 15 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/2026-dorian-tv-awards-winners-list-heated-rivalry-hacks-1237033386/
@@ -150,19 +165,4 @@ It’s been quite a while since viewers were immersed in the Disney+ Star Wars s
 Sat, 15 Aug 2026 04:33:11 +0000 — https://deadline.com/2026/08/star-wars-starfighter-ryan-gosling-first-look-d23-1237040930/
 
 We finally have some more details about the Shawn Levy directed, Ryan Gosling starring Star Wars: Starfighter movie after a first look was unveiled tonight at Disney s D23 fan confab. Previous details revealed that the movie was set a brand new galaxy in the Star Wars canon, free of Skywalker family plot-lines. The Jonathan Tropper [ ]
-
-### X-Men Adds Christopher Abbott, Adam Driver, Inde Navarette Maya Boyd; Marvel Studios Pic Set for May 2028 D23
-Sat, 15 Aug 2026 04:17:00 +0000 — https://deadline.com/2026/08/x-men-christopher-abbott-adam-driver-1237012957/
-
-Christopher Abbott has been tapped to play Charles Xavier aka Professor X in Marvel Studios X-Men movie. Also joining the film s are Adam Driver, Obsession breakout Inde Navarette and Maya Boyd. The castings and a release date of May 5, 2028, were unveiled Friday at Disney s D23 event in Anaheim. Driver beamed in to announce [ ]
-
-### Blue Bloods Showrunner Rejects Bill O Reilly Labeling Boston Blue A Woke Version : I Root For It
-Sat, 15 Aug 2026 04:16:27 +0000 — https://deadline.com/2026/08/blue-bloods-showrunner-rejects-bill-oreilly-boston-blue-woke-1237041154/
-
-Although the Reagans might not be in the same city anymore, Blue Bloods showrunner Kevin Wade supports the direction of the CBS spin-off. In a recent conversation with Bill O Reilly, the Golden Globe nominee rejected the No Spin News host s take that the offshoot is a woke version of the original, noting that he s happy [ ]
-
-### VisionQuest Trailer: First Look At Disney+ WandaVision Spinoff Starring Paul Bettany D23
-Sat, 15 Aug 2026 04:12:59 +0000 — https://deadline.com/2026/08/visionquest-trailer-paul-bettany-marvel-1237041020/
-
-It s the beginning of the end for the WandaVision trilogy. Nearly two years after the series finale of Agatha All Along and 5½ years after WandaVision ended the Disney and Marvel released the first trailer for VisionQuest on Friday at D23 in Anaheim. Have a look above. Paul Bettany stars as Vision, a [ ]
 
