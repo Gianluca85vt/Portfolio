@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-15T17:01:31.162Z
+# Tech — harvested 2026-08-15T17:58:19.967Z
 
 ## Ars Technica
 
@@ -178,6 +178,11 @@ Intel’s Robert Hallock, vice president and general manager of the enthusiast c
 
 ## Phoronix
 
+### GNOME 51 Beta Released With Many Minor Improvements
+Sat, 15 Aug 2026 13:12:27 -0400 — https://www.phoronix.com/news/GNOME-51-Beta
+
+The beta release of GNOME 51 is now available for testing. This cycle for the beta milestone is mostly a wide collection of minor improvements throughout the vast package set...
+
 ### Intel s Jay Graphics Shader Compiler Now Passing Vulkan CTS With Xe2/Xe3 Hardware
 Sat, 15 Aug 2026 10:23:19 -0400 — https://www.phoronix.com/news/Intel-Jay-Compiler-Xe2-Xe3-CTS
 
@@ -232,9 +237,4 @@ With Linux 7.2 expected for its stable release this weekend, today s testing has
 Fri, 14 Aug 2026 07:00:45 -0400 — https://www.phoronix.com/news/Linux-7.3-Features-Preview
 
 With Linux 7.2 expected to see its stable debut Sunday, here is a look at what I have been monitoring as changes expected to be submitted during the Linux 7.3 merge window that will open on Monday...
-
-### Patches Posted For Fixing The Linux DRM Scheduler s Fair Policy
-Fri, 14 Aug 2026 06:04:16 -0400 — https://www.phoronix.com/news/Linux-Patches-Fix-DRM-Fair
-
-Ahead of the Linux 7.2 kernel release expected out on Sunday, the Direct Rendering Manager (DRM) subsystem was forced to revert their "fair" scheduler policy default new for this kernel. Due to a last minute user-reported regression, FIFO returns as the default DRM scheduler policy for Linux 7.2. But patches are now available for addressing that regression and thus hopefully for Linux 7.3 there will be the fair scheduler becoming the default...
 

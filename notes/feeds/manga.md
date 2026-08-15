@@ -1,4 +1,4 @@
-# Manga — harvested 2026-08-15T17:01:31.162Z
+# Manga — harvested 2026-08-15T17:58:19.967Z
 
 ## Anime News Network
 

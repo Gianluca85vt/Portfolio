@@ -1,6 +1,11 @@
-# Film & TV — harvested 2026-08-15T17:01:31.162Z
+# Film & TV — harvested 2026-08-15T17:58:19.967Z
 
 ## Variety
+
+### Adam Scott Says His Daughter s Acting Class Was Forced to Watch His Failed Office Audition as an Example of What Not to Do
+Sat, 15 Aug 2026 17:40:41 +0000 — https://variety.com/2026/tv/news/adam-scott-daughter-failed-office-audition-john-krasinski-1236835469/
+
+Once upon a time, Severance star Adam Scott auditioned for the beloved sitcom The Office. Years later, he s reliving the memories of that failed audition after his daughter s acting teacher had the class compare Scott s audition tape to John Krasinski’s successful tape. “He put it to the class like, ‘Okay. Let’s discuss why he got the job, [ ]
 
 ### Locarno: Marco Cavazzin s Mutrion, Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award
 Sat, 15 Aug 2026 16:24:57 +0000 — https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/
@@ -47,12 +52,12 @@ Sat, 15 Aug 2026 08:53:04 +0000 — https://variety.com/2026/film/global/ursa-me
 
 Right before the COVID-19 pandemic shut down the world, Slovenian director Urša Menart came across a curious phenomenon on the internet: young people, mostly women, making up tragic life stories to gather the increasingly sparse attention span of their followers. Even more curiously, the director realized people would often drop everything to visit these micro-influencers. [ ]
 
-### Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator s Market Ban
-Sat, 15 Aug 2026 08:09:22 +0000 — https://variety.com/2026/tv/news/zee-shareholders-approve-fund-raise-sebi-market-ban-1236826217/
-
-India s Securities Appellate Tribunal has granted media giant Zee Entertainment Enterprises Ltd. interim relief in its dispute with the country s securities regulator, allowing the company to proceed with the promoter fund infusion at the center of last month s shareholder vote despite an ongoing market ban — on the condition that Zee first deposits the penalty [ ]
-
 ## The Hollywood Reporter
+
+### Courtney Love Reveals Doctors Told Her She Was Going to Die in 2019: My Body Just Exploded
+Sat, 15 Aug 2026 17:45:40 +0000 — https://www.hollywoodreporter.com/news/general-news/courtney-love-doctors-told-her-she-was-going-to-die-1236674348/
+
+The 62-year-old also shared that she's getting ready to release new music.
 
 ### Spider-Man: Brand New Day Still Soaring to Top Its Third Weekend With $67M
 Sat, 15 Aug 2026 16:02:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/
@@ -99,12 +104,12 @@ Sat, 15 Aug 2026 04:58:56 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.
 
-### Avengers: Doomsday Footage Shows Off a Broken Doctor Doom
-Sat, 15 Aug 2026 04:48:45 +0000 — https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-doctor-doom-1236673352/
-
-The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.
-
 ## Deadline
+
+### Anne Hathaway Knows You re Worried About The Fate Of Starbuck The Dog In The End Of Oak Street
+Sat, 15 Aug 2026 17:49:25 +0000 — https://deadline.com/2026/08/anne-hathaway-starbuck-end-of-oak-street-1237041593/
+
+Worried about the dog in the sci-fi apocalypse thriller The End of Oak Street? Star Anne Hathaway has just the spoiler for you. In a new interview with Complex watch a clip below Hathaway talks about the online chatter she s been reading expressing concern for Starbuck, the camera-ready canine belonging to the film s [ ]
 
 ### Bill Maher Has A Word For Luigi Mangione Groupies
 Sat, 15 Aug 2026 15:56:26 +0000 — https://deadline.com/2026/08/bill-maher-luigi-mangione-1237041560/
@@ -160,9 +165,4 @@ Following the massive success of the sequel, Disney is moving forward with Zooto
 Sat, 15 Aug 2026 05:00:06 +0000 — https://deadline.com/2026/08/frozen-3-footage-d23-anna-wedding-new-villain-1237041024/
 
 The filled Honda Center got a look at Frozen 3 and let s just say, there is quite a lot in store. First of all, are those wedding bells, we hear? Indeed, they are! Kristen Bell confirmed at Disney s D23 entertainment showcase on Friday night that Anna will be marrying her mountain man Kristoff (Jonathan [ ]
-
-### Kieran Culkin To Lead Voice Cast Of New Disney Animated Movie Clay D23
-Sat, 15 Aug 2026 04:58:42 +0000 — https://deadline.com/2026/08/kieran-culkin-cast-clay-walt-disney-animated-movie-1237041021/
-
-Walt Disney Animation Studios has a new original film in the works, Clay, which will head to theaters in 2028 with Kieran Culkin leading the voice cast. The project was announced at Disney s Entertainment Showcase at D23 on Friday night. Oscar and Emmy winner Culkin will voice the protagonist, Flip, who might be a little [ ]
 
