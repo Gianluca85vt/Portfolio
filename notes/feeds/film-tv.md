@@ -1,4 +1,4 @@
-# Film & TV — harvested 2026-08-15T07:17:52.302Z
+# Film & TV — harvested 2026-08-15T08:00:42.445Z
 
 ## Variety
 
@@ -54,6 +54,11 @@ Oswald the Lucky Rabbit, one of Disney s earliest characters who predated Mickey
 
 ## The Hollywood Reporter
 
+### I Live in V.I., a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification
+Sat, 15 Aug 2026 07:20:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/i-live-in-v-i-social-satire-film-nigeria-locarno-open-doors-1236673552/
+
+Director Ugochukwu Azuya's project, inspired by his experience living in Lagos and its "materialistically driven, very classist society," was one of the films in development showcased at Locarno Open Doors.
+
 ### Frozen 3 Royal Wedding Between Anna and Kristoff Is Crashed by New Villain in First-Look
 Sat, 15 Aug 2026 04:58:56 +0000 — https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/
 
@@ -99,12 +104,12 @@ Sat, 15 Aug 2026 03:51:27 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Teagan Croft, Milo Manheim and Kathryn Hahn star in the new film, which is currently filming.
 
-### Lisa Kudrow and Mira Sorvino Bring Romy and Michele 2 to D23: We re Officially Disney Princesses
-Sat, 15 Aug 2026 03:19:56 +0000 — https://www.hollywoodreporter.com/movies/movie-news/lisa-kudrow-mira-sorvino-romy-and-michele-2-d23-1236673702/
-
-The duo appeared in character to tease the follow-up to their 1997 cult classic.
-
 ## Deadline
+
+### Spider-Man: Brand New Day Has Super $65M Third Weekend; The Odyssey Sailing Past Half Billion Saturday AM Box Office Update
+Sat, 15 Aug 2026 07:30:00 +0000 — https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/
+
+SATURDAY VERY EARLY AM: Spider-Man: Brand New Day has banked a near $19M Friday for what s shaping up to be a third weekend around $65M, -55%, which takes its running cume to $780.8M. The Destin Daniel Cretton directed movie is booked at 4,539 theaters. Among the best third weekends ever at the domestic B.O, Brand [ ]
 
 ### Zootopia 3 In Works At Disney; Ke Huy Quan Ginnifer Goodwin Reprising Roles D23
 Sat, 15 Aug 2026 05:03:23 +0000 — https://deadline.com/2026/08/zootopia-3-d23-1237041333/
@@ -160,9 +165,4 @@ The live-action adaptation of Disney animated classic Tangled will be opening in
 Sat, 15 Aug 2026 03:42:35 +0000 — https://deadline.com/2026/08/bluey-movie-trailer-d23-1237040950/
 
 Good news and bad news, kids. The good news is that we have the first trailer for The Bluey Movie. The bad news is the pic doesn t hits theaters for another year oh, biscuits! OK, so the release date isn t exactly news we ve known that for nearly a year already but the [ ]
-
-### Coco 2 : Benjamin Bratt Returning As Ernesto de la Cruz; Release Date Set D23
-Sat, 15 Aug 2026 03:24:54 +0000 — https://deadline.com/2026/08/coco-2-benjamin-bratt-1237041010/
-
-Benjamin Bratt took the stage at D23 tonight to tell the crowd that he s coming back to play the spiritual legendary singer Ernesto de la Cruz in Coco 2. The film is set to bow in November 2029. The big deal in part 2 is that young Miguel is no longer a boy but a [ ]
 
