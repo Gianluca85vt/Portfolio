@@ -1,11 +1,11 @@
-# Games — harvested 2026-08-15T09:03:51.985Z
+# Games — harvested 2026-08-15T10:00:32.691Z
 
 ## Eurogamer
 
 ### Rusty Lake is back with another belter, so I get to shout about the overlooked puzzle series all over again
 Sat, 15 Aug 2026 09:00:00 +0000 — https://www.eurogamer.net/rusty-lake-servant-of-the-lake-now-playing
 
-I wiggle a cloud and the lake goes dark, revealing patterns among the stars. I poke a cat and pick up its sick so I can glue back together a chair. I place fly eggs on grilled fish to sate my master's guests, and I snip open a sutured wound to release the writhing thing inside. I hunt sport with my shotgun from the brow of a hill, some of them on their morning stroll. I neatly pack away severed fingers, then pluck shadow men from gnashing maws. And at one point I've got a screaming baby in my inventory too. Read more
+I wiggle a cloud and the lake goes dark, revealing patterns among the stars. I poke a cat and pick up its sick so I can glue back together a chair. I place fly eggs on grilled fish to sate my master's guests, and I snip open a sutured wound to release the writhing thing inside. I hunt sport with my shotgun from the brow of a hill, some of them on their morning stroll. I neatly pack away severed fingers, then pluck shadow men from gnashing maws. And at one point I've even got a screaming baby in my inventory too. Read more
 
 ### What we've been playing - "My Switch 2 sits watching me from my desk like the Green Goblin mask"
 Sat, 15 Aug 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-switch-2-green-goblin-mask
@@ -115,6 +115,16 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Pixar s Coco Confirmed for Kingdom Hearts 4, Launching on PS5 in Late 2027
+Sat, 15 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/pixars-coco-confirmed-for-kingdom-hearts-4-launching-on-ps5-in-late-2027
+
+Brand new trailer revealed. Expectant Kingdom Hearts 4 fans have been rewarded at this year's D23 expo, as Disney and Square Enix have released a new trailer for the highly anticipated action RPG. The trailer, which you can watch below, confirms a couple of things. Firstly, Sora will be travelling to the world of Pixar's Coco , and you can see him bouncing around the land of the dead with Miguel and co. Read the full article on pushsquare.com
+
+### Talking Point: What Are You Playing This Weekend? - Issue 646
+Sat, 15 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-646
+
+Weekend warriors. Another week is all done and dusted, which means we can look forward to another weekend of gaming. Here's what we're playing. Jamie O'Neill I noticed on Time Extension that there's a sale of Arcade Archives' Namco titles, so since I've mainly spent time with the PC Engine port, I figured I'd treat myself to 30% off Namco's obscure 1988 cute-'em-up, Arcade Archives Ordyne . Read the full article on pushsquare.com
+
 ### Call of Duty: Modern Warfare 4 s PS5 Beta Includes Campaign Mission for the First Time
 Fri, 14 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/call-of-duty-modern-warfare-4s-ps5-beta-includes-campaign-mission-for-the-first-time
 
@@ -164,16 +174,6 @@ Insomniac wizardry. Insomniac is one of the best developers in the business, and
 Fri, 14 Aug 2026 07:30:00 GMT — https://www.pushsquare.com/news/2026/08/modest-sales-predicted-for-sonys-critically-acclaimed-new-fighter
 
 Room for improvement. Marvel Tokon: Fighting Souls isn’t setting cash registers alight if new predictions from Alinea Analytics are to be believed. The industry observer predicts the licensed superhero fighter sold 485k copies across the PS5 and PC in its first week, amounting for an estimated $33 million revenue. It reckons 74% of the copies were sold on Sony’s home console, with PC making up the remaining 26%. Read the full article on pushsquare.com
-
-### Gritty Action RPGs Will Soon Have Big Budget Competition from One of the World s Most Popular Devs
-Thu, 13 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/gritty-action-rpgs-will-soon-have-big-budget-competition-from-one-of-the-worlds-most-popular-devs
-
-Another one. If you're a fan of Soulslikes or just fantasy-themed action RPGs in general, then you might want to keep an eye out for 'The Weavers' (as it's currently known). Based on numerous leaks up until this point — which have suddenly spiralled out of control — this is a gritty action RPG from HoYoverse, currently in development for consoles and PC. Read the full article on pushsquare.com
-
-### Round Up: Marvel s Wolverine Sounds Like Another Great Superhero Blockbuster in PS5 Previews
-Thu, 13 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/features/round-up-marvels-wolverine-sounds-like-another-great-superhero-blockbuster-in-ps5-previews
-
-The best there is? Hands-on previews have begun coming in for Marvel's Wolverine , Sony's big PS5 exclusive launching in just over a month's time. The game has looked pretty promising in the few glimpses we've seen so far, and these write-ups are largely very positive, painting a picture of another superhero blockbuster action adventure from Insomniac Games. Read the full article on pushsquare.com
 
 ## Game Developer
 

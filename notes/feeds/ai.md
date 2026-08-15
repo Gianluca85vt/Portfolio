@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-15T09:03:51.985Z
+# AI — harvested 2026-08-15T10:00:32.691Z
 
 ## OpenAI
 
@@ -6,11 +6,6 @@
 Thu, 13 Aug 2026 11:00:00 GMT — https://openai.com/index/builders-guide-to-gpt-5-6
 
 Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.
-
-### Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
-Thu, 13 Aug 2026 10:00:00 GMT — https://openai.com/index/previewing-ultrafast
-
-Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.
 
 ## Hugging Face
 
