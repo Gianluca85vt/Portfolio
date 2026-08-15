@@ -1,6 +1,11 @@
-# Tech — harvested 2026-08-15T15:58:14.728Z
+# Tech — harvested 2026-08-15T17:01:31.162Z
 
 ## Ars Technica
+
+### Ukraine strikes major Russian rocket factory with cruise missiles
+Sat, 15 Aug 2026 15:46:05 +0000 — https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/
+
+Ukrainian President Volodymyr Zelenskyy confirmed on Saturday that his country struck the Progress Rocket Space Center deep within Russia using ground-launched cruise missiles. "In Russia’s Samara region, one of the key enterprises within Roscosmos—the Progress Center, which was involved, among other things, in electronics production–was hit," Zelenskyy said on the social media site X. "Flamingo missiles were used. A good achievement." The largest city in the Samara Oblast, about 900 km from the Ukrainian border, Samara is home to Russia's most important manufacturer of rockets. The Progress center assembles the workhorse vehicle for Russia, the Soyuz-2 vehicle, as well as the newer Soyuz-5 rocket. The facility also builds military satellites. Read full article Comments ]]>
 
 ### So much solar: Digging into the list of every US power plant that went online this year
 Sat, 15 Aug 2026 11:09:57 +0000 — https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/
@@ -57,12 +62,12 @@ Fri, 14 Aug 2026 15:03:16 +0000 — https://arstechnica.com/health/2026/08/taylo
 
 As Americans cook their vegetables to at least 158°F to kill a diarrheal parasite that has sickened over 24,000 people and killed two this summer, one US Senator is turning up the heat on Health Secretary Robert F. Kenney Jr. over the government's "calamitous response" to the record outbreak. In a letter sent Thursday , Elizabeth Warren (D-Mass.) called the federal response to the Cyclospora outbreak "botched" and "marred by missteps." She pointedly questioned whether corruption and incompetence within the Trump administration and its clear ties to Taylor Farms—the mammoth produce distributer that sold Mexican-grown iceberg lettuce linked to the outbreak—played a role in the federal government's failures. "[P]olitical contributions and direct White House lobbying from Taylor Farms... raise urgent questions about the role this influence-peddling may have played in loosening federal food safety oversight and hampering the federal government’s response to the outbreak," Warren wrote in the letter. Read full article Comments ]]>
 
-### OpenAI and Anthropic in price war as Chinese AI rivals gain ground
-Fri, 14 Aug 2026 14:27:14 +0000 — https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/
-
-Leading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switching to cut-price alternatives from Chinese rivals. The price war comes as rising AI bills push companies to curb usage and seek cheaper models, helping Chinese developers including Moonshot and DeepSeek make inroads with users from Silicon Valley to Europe. OpenAI recently said that it was slashing prices for GPT-5.6 Luna, its “fastest and most affordable model”, by 80 percent. Anthropic has launched Claude Opus 5, touting the system’s “frontier intelligence... at half the price” of Fable 5, the company’s most capable model. Read full article Comments ]]>
-
 ## The Verge
+
+### Don t overlook Elektron s budget electronic music instruments
+2026-08-15T13:00:00-04:00 — https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review
+
+They’re far more powerful and fun than their bargain price suggests. | Photo: Terrence O’Brien / The Verge When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more niche musical offerings like the Digitakt , Octatrack , or Tonverk , they're often overlooked. But as my collection has grown to include fancier and far more expensive instruments, I still find myself coming back to the Model series. Those looking to get their first groovebox are often drawn to more familiar brand names like Korg … Read the full story at The Verge. ]]>
 
 ### Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals
 2026-08-15T11:00:00-04:00 — https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview
@@ -109,14 +114,9 @@ Hi, friends! Welcome to Installer No. 140, your guide to the best and Verge -ies
 
 Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technologist had no idea what the future would hold. He started working for the food delivery apps, and as he was riding his bike across the city, he began noticing the stark differences between neighborhoods. "I really started to kind of become a bit more aware of how different neighborhoods, often right next to each other, could feel very economically and psychologically very far apart, even though it's just really within close proximity," he said. "And … Read the full story at The Verge. ]]>
 
-### Samsung has new Galaxy headphones in the works
-2026-08-14T15:18:45-04:00 — https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones
-
-Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the "Galaxy H1," and SamMobile says they could launch sometime in 2027. That would make these the company's first pair of over-ear headphones since the Level On in 2015, which was released well before Samsung acquired Harman and a number of other audio brands . Connection status icons in the app standard show the design of over-ear, wireless Bluetooth headphones, but not necessarily exactly what these will look like in the end. Samsung … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
 
-### Peer-reviewed study of 443,000 Backblaze hard drives ranks HGST most reliable and Toshiba the least — Seagate a close second on most unreliable list
+### Peer-reviewed study of 443,000 Backblaze hard drives ranks HGST most reliable and Toshiba the least — Analysis of 1.66 million drive-years finds Seagate and Toshiba HDDs fail at roughly twice the rate of WD and HGST
 Sat, 15 Aug 2026 15:30:10 +0000 — https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least
 
 Economists Christoph Siemroth of the University of Essex and Yeomyung Park of Sungkyunkwan University have published a peer-reviewed IEEE study that re-crunches 12 years of Backblaze's public drive data, covering 443,156 hard drives and more than 1.66 million drive-years from 2013 through Q2 2025, and finds that HGST drives fail at roughly 41% of Seagate's rate when drives of matched age, capacity, form factor, and operating temperature are compared. WD comes in at about 52% of Seagate's failure rate, while Toshiba sits in last at 107%. As for the most reliable brand in the ranking? HGST, one you can't buy new after WD acquired it in 2012 and wound it down. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) Photonics and high-speed data movement is the next big AI bottleneck The data center cooling state of play Massive AI data center buildouts are squeezing energy supplies Ultra Ethernet: The data center interconnection of tomorrow Backblaze's quarterly reports compare whichever drives are available at the time, and the authors argue that approach stacks old drives against young ones because each manufacturer's fleet skews to a different era. HGST led new installations in 2014, Seagate dominated from 2015 to 2020, Toshiba topped 2023, and WD topped 2024, so raw annualized figures pit aging Seagate and HGST stock against much fresher Toshiba and WD units. A further 146,943 drives, about 31% of the sample, exited the dataset without ever failing, mostly p

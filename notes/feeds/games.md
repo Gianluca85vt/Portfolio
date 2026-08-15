@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-15T15:58:14.728Z
+# Games — harvested 2026-08-15T17:01:31.162Z
 
 ## Eurogamer
+
+### Simpsons creator Matt Groening seemingly lets slip that Hit & Run is coming back
+Sat, 15 Aug 2026 16:56:47 +0000 — https://www.eurogamer.net/simpsons-hit-and-run-groening-d23-tease
+
+Simpsons creator Matt Groening may have just let slip that a Hit & Run comeback is on the way. Read more
+
+### Killing PlayStation discs could make PS Store games cheaper, according to a former Square Enix exec
+Sat, 15 Aug 2026 16:21:22 +0000 — https://www.eurogamer.net/ps-store-prices-cheaper-disc-production-end
+
+A former Square Enix exec believes that PS Store prices could actually come down as a result of Sony's decision to end all physical media on PlayStation. Read more
 
 ### Kingdom Hearts 4's first new world is inspired by Pixar's Coco
 Sat, 15 Aug 2026 11:29:23 +0000 — https://www.eurogamer.net/kingdom-hearts-4-coco-world
@@ -52,16 +62,6 @@ Fri, 14 Aug 2026 11:28:24 +0000 — https://www.eurogamer.net/marvel-tokon-fight
 
 Whenever I see the words "spiritual successor" attached to any new game, I immediately get concerned. You set a bar in the minds of old fans that can prove impossible to reach. This is not the next great Marvel vs Capcom game. It's not a Marvel vs Capcom game at all, in fact. It is, however, the best tag fighter I've played in years. Read more
 
-### Netflix's gaming "secret weapon" is no more - Oxenfree studio Night School is to close
-Fri, 14 Aug 2026 10:40:50 +0000 — https://www.eurogamer.net/netflix-games-oxenfree-unhinged-studio-night-school-closed
-
-The hope that Netflix might produce something more than snackable sports or party games has vanished with today's revelation that Oxenfree studio Night School is to close. Read more
-
-### Halo: Campaign Evolved studio outlines five key updates that'll drop with next week's big patch
-Fri, 14 Aug 2026 10:35:29 +0000 — https://www.eurogamer.net/halo-campaign-evolved-patch-jackal-johnson
-
-There's a new update coming to Halo: Campaign Evolved next week. The patch, which is targeting some of the biggest issues players have had with the game since its launch a few weeks ago, will arrive sometime between 17th August and 21st August (no fixed date has been announced yet). Read more
-
 ## GamesIndustry.biz
 
 ### Modern consumers crave "events", and the games industry needs to provide them | Opinion
@@ -94,16 +94,16 @@ Fri, 14 Aug 2026 08:11:46 +0000 — https://www.gamesindustry.biz/netflix-shutte
 
 Netflix has closed Night School Studio and Helsinki-based Moonloot Games. Read more
 
-### Mattel launches new global studios business to develop games based on its IP
-Thu, 13 Aug 2026 16:55:14 +0000 — https://www.gamesindustry.biz/mattel-launches-new-global-studios-business-to-develop-games-based-on-its-ip
-
-Mattel has announced the formation of Mattel Game Studios, a global development organisation that will create games based on the company's IP. It follows the company's February acquisition of 100% of Mattel163 , a joint venture that was previously 50% owned by partner firm NetEase. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Poll: Are You Hyped for These 10 New PS Plus Games?
+Sat, 15 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games
+
+Plus or minus? Split between PS Plus Extra and PS Plus Premium , 10 new games are being added to Sony's subscription service next week — but are you happy with what's being offered? I think August's lineup is fairly strong, and there's a good amount of variety on display. Read the full article on pushsquare.com
 
 ### It s a Relentless Onslaught : Wolverine PS5 Dev Responds to Unprecedented Criticism
 Sat, 15 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/its-a-relentless-onslaught-wolverine-ps5-dev-responds-to-unprecedented-criticism
@@ -160,11 +160,6 @@ Fri, 14 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/youll-
 
 New Neo Berlin 2087 trailer just dropped. You may remember Neo Berlin 2087 , a game that's been mystifying PS5 fans since its announcement back in 2023. Well, this cyberpunk detective thriller has just released a new trailer ahead of Gamescom, and unfortunately, there's still quite a wait before we get to experience it; the game's slated for launch in 2028. Read the full article on pushsquare.com
 
-### Sonic Frontiers Surpasses 5 Million Copies Sold as Fans Await What Comes Next
-Fri, 14 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/sonic-frontiers-surpasses-5-million-copies-sold-as-fans-await-what-comes-next
-
-Hedgehog fund. SEGA has announced that Sonic Frontiers has now officially sold over 5 million copies. The news came via social media yesterday: Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Scabby versus Sharma, Twitch's GenAI admission, and Netflix shutters more studios - Patch Notes #65
@@ -176,9 +171,4 @@ Plus: Big sales for Big Walk and some welcome preservation news.
 Thu, 13 Aug 2026 19:54:15 GMT — https://www.gamedeveloper.com/business/netflix-closing-oxenfree-developer-night-school-studio-and-moonloot-games
 
 'We believe we can operate more strategically and efficiently within our Games business, and as a result are eliminating some additional Games roles'
-
-### 2K announces new Vancouver-based AAA studio led by EA veteran
-Thu, 13 Aug 2026 16:38:33 GMT — https://www.gamedeveloper.com/business/2k-announces-new-vancouver-based-studio-led-by-ea-veteran
-
-After almost two decades at EA, Aaron McHardy will act as vice president, executive producer, and head of Small Axe Studios.
 

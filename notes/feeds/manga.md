@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-15T15:58:14.728Z
+# Manga — harvested 2026-08-15T17:01:31.162Z
 
 ## Anime News Network
+
+### Most Heretical Last Boss Queen: From Villainess to Savior Season 2 Anime Series Review
+Sat, 15 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/most-heretical-last-boss-queen/from-villainess-to-savior-season-2/anme-series/.240324
+
+With a lack of stakes and conflict, the villainess charm in this anime doesn’t quite work the second time around.
 
 ### The Apothecary Diaries Season 3's Trailer Unveils October 2 Debut, More Cast, Opening Song
 Sat, 15 Aug 2026 11:04:26 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/the-apothecary-diaries-season-3-trailer-unveils-october-2-debut-more-cast-opening-song/.240600
@@ -56,11 +61,6 @@ Ever since losing his memories, Subaru’s suspicion and paranoia have been in t
 Fri, 14 Aug 2026 13:35:54 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-6/.240586
 
 This episode goes even further, exploring the anxieties these people face at different stages of their lives and how the other helps them overcome those hardships.
-
-### Sweet Hamster Days Game Review
-Fri, 14 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc/sweet-hamster-days/.240288
-
-You've reincarnated into the body of your childhood friends' pet hamster. Does this live-action visual novel have more to offer than its unusual premise?
 
 ## Crunchyroll News
 

@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-08-15T15:58:14.728Z
+# Film & TV — harvested 2026-08-15T17:01:31.162Z
 
 ## Variety
+
+### Locarno: Marco Cavazzin s Mutrion, Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award
+Sat, 15 Aug 2026 16:24:57 +0000 — https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/
+
+Mutrion, a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival s Pardi di Domani (Leopards of Tomorrow) section. Mutrion, which is the only Italian entry in the section, stars Manfredi Marini, who previously starred in Giovanni Tortorici s Nineteen, and Giulio Maroncelli and is produced [ ]
+
+### Nate Bargatze Sets Guinness World Record for Most Tickets Sold for a Stand-Up Comedy Tour (EXCLUSIVE)
+Sat, 15 Aug 2026 16:00:00 +0000 — https://variety.com/2026/tv/news/nate-bargatze-guinness-world-record-comedy-tour-tickets-sold-1236835016/
+
+Nate Bargatze and his Big Dumb Eyes just set a Guinness World Record. The Tennessee-born comedian has officially sold the most tickets for a stand-up comedy tour, surpassing the previously record held by Jeff Dunham. Bargatze will be presented with the Guinness World Record onstage at the Scotiabank Arena in Toronto on Saturday. Ahead of [ ]
+
+### Box Office: The End of Oak Street Chomps on $8.1 Million, But Spider-Man: Brand New Day Is Still No. 1 With $19 Million
+Sat, 15 Aug 2026 15:59:20 +0000 — https://variety.com/2026/film/box-office/box-office-end-of-oak-street-spider-man-brand-new-day-1236835436/
+
+“Spider-Man: Brand New Day” led the box office again on Friday despite competition from Anne Hathaway and a horde of hungry dinosaurs. The Warner Bros. sci-fi thriller “The End of Oak Street” landed in second place on opening day with $8.1 million from 3,446 North American theaters. Rivals estimate the film will earn about $18.7 [ ]
 
 ### Darren Walker Opens His Home to Friends and Anonymous Content Emmy Nominees in Celebration of Joy, Reflection, Delight and Awe
 Sat, 15 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/darren-walker-anonymous-content-emmy-paul-revenue-williams-1236835193/
@@ -37,22 +52,12 @@ Sat, 15 Aug 2026 08:09:22 +0000 — https://variety.com/2026/tv/news/zee-shareho
 
 India s Securities Appellate Tribunal has granted media giant Zee Entertainment Enterprises Ltd. interim relief in its dispute with the country s securities regulator, allowing the company to proceed with the promoter fund infusion at the center of last month s shareholder vote despite an ongoing market ban — on the condition that Zee first deposits the penalty [ ]
 
-### Frozen 3 First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges
-Sat, 15 Aug 2026 05:01:19 +0000 — https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/
-
-Thanksgiving 2027 is about to get a lot colder. Disney has revealed the first details about “Frozen 3,” which will release in theaters Nov. 24, 2027, following the previous two films tradition of Thanksgiving-centered premiere dates. Set in the fictional land of Arendelle, the cast of voice actors includes Kristen Bell as Anna, Idina Menzel [ ]
-
-### Marvel s X-Men Reboot Sets May 2028 Release Date
-Sat, 15 Aug 2026 04:50:40 +0000 — https://variety.com/2026/film/news/x-men-release-date-marvel-reboot-1236816959/
-
-The long-awaited X-Men movie is finally coming to the MCU. Marvel Studios exec Kevin Feige made the official announcement that the X-Men movie will release on May 5, 2028. The cast will include Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Maya Boyd as Storm [ ]
-
-### Star Wars: Starfighter Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick
-Sat, 15 Aug 2026 04:43:14 +0000 — https://variety.com/2026/film/news/star-wars-starfighter-trailer-ryan-gosling-1236712809/
-
-Ryan Gosling already survived going to space in Project Hail Mary, but now he s ready to blast off to a galaxy far, far away in Star Wars: Starfighter. The upcoming Star Wars movie previewed footage at D23 and is set to release in theaters on May 28, 2027. Disney and Lucasfilm have kept plot details [ ]
-
 ## The Hollywood Reporter
+
+### Spider-Man: Brand New Day Still Soaring to Top Its Third Weekend With $67M
+Sat, 15 Aug 2026 16:02:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/
+
+Tom Holland's superhero juggernaut maintains a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'
 
 ### Mission Stars George MacKay and Rosy McEwen on Capitalism, Creative Freedom and the Eternal Allure of British Independent Film
 Sat, 15 Aug 2026 15:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/george-mackay-rosy-mcewen-mission-paul-wright-edinburgh-1236670925/
@@ -98,11 +103,6 @@ Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry
 Sat, 15 Aug 2026 04:48:45 +0000 — https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-doctor-doom-1236673352/
 
 The feature stars Robert Downey Jr. as the villain who faces off against an entire cinematic uinverse.
-
-### Ahsoka Season 2 Brings the Force — and More Anakin Skywalker — with First Trailer
-Sat, 15 Aug 2026 04:44:53 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ahsoka-season-2-brings-the-force-first-trailer-1236672980/
-
-Rosario Dawson and Hayden Christensen return for the new season of the Star Wars show.
 
 ## Deadline
 
