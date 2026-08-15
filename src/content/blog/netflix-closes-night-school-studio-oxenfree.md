@@ -3,7 +3,7 @@ title: Netflix just closed the studio that made Oxenfree. Its backgrounds are wo
 date: 2026-08-15
 category: Games
 excerpt: Night School Studio, best known for Oxenfree's painted-parallax world, is shutting down six weeks after its last release. The business story is a familiar one. The art direction it leaves behind is not.
-cover: /img/blog/night-school-closes/cover.svg
+cover: /img/blog/netflix-closes-night-school-studio-oxenfree/shot-01.jpg
 draft: true
 ---
 
@@ -32,6 +32,11 @@ environment art, and it's worth saying why while the reason people cared is
 still fresh.
 
 ## The trick was never having real depth
+
+<figure>
+  <img src="/img/blog/netflix-closes-night-school-studio-oxenfree/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Oxenfree screenshot, Night School Studio, via the game's official Steam page</figcaption>
+</figure>
 
 *Oxenfree* looks like it has a painted 3D world. It doesn't. Art lead **Heather
 Gross** built it as layered 2D parallax — flat painted planes stacked and moved
