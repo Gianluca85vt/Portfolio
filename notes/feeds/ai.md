@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-15T08:00:42.445Z
+# AI — harvested 2026-08-15T09:03:51.985Z
 
 ## OpenAI
 
@@ -11,11 +11,6 @@ Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents wi
 Thu, 13 Aug 2026 10:00:00 GMT — https://openai.com/index/previewing-ultrafast
 
 Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.
-
-### OpenAI appoints Dali Rajic as Chief Revenue Officer
-Thu, 13 Aug 2026 09:00:00 GMT — https://openai.com/index/dali-rajic-chief-revenue-officer
-
-OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.
 
 ## Hugging Face
 

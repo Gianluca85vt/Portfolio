@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-15T08:00:42.445Z
+# Games — harvested 2026-08-15T09:03:51.985Z
 
 ## Eurogamer
+
+### Rusty Lake is back with another belter, so I get to shout about the overlooked puzzle series all over again
+Sat, 15 Aug 2026 09:00:00 +0000 — https://www.eurogamer.net/rusty-lake-servant-of-the-lake-now-playing
+
+I wiggle a cloud and the lake goes dark, revealing patterns among the stars. I poke a cat and pick up its sick so I can glue back together a chair. I place fly eggs on grilled fish to sate my master's guests, and I snip open a sutured wound to release the writhing thing inside. I hunt sport with my shotgun from the brow of a hill, some of them on their morning stroll. I neatly pack away severed fingers, then pluck shadow men from gnashing maws. And at one point I've got a screaming baby in my inventory too. Read more
 
 ### What we've been playing - "My Switch 2 sits watching me from my desk like the Green Goblin mask"
 Sat, 15 Aug 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-switch-2-green-goblin-mask
@@ -56,11 +61,6 @@ New sales estimates show that Marvel T&omacr;kon: Fighting Souls may have sold a
 Thu, 13 Aug 2026 15:00:20 +0000 — https://www.eurogamer.net/marvels-wolverine-ps5-disc-insomniac-1
 
 Marvel's Wolverine developer Insomniac has clarified the game will be "fully playable" on disc when it releases for PlayStation 5 on 15th September. It won't, in other words, be a disc-in-a-box that still requires you to download the game in order to play. This may make it one of PlayStation's last fully disc-based games. Read more
-
-### Insomniac's take on Wolverine is ferocious, destructive and cinematic - but a little predictable
-Thu, 13 Aug 2026 15:00:16 +0000 — https://www.eurogamer.net/insomniac-wolverine-preview-ferocious-destructive-cinematic-little-predictable
-
-"One thing we always think about a lot is how does our game open ," says Mike Fitzgerald, Head of Technology at Insomniac Games . "When you start our first Spider-Man game... you jump out the window and you're swinging down the street. So what's the version of that for Wolverine?" Read more
 
 ## GamesIndustry.biz
 

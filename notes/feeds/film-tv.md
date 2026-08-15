@@ -1,6 +1,16 @@
-# Film & TV — harvested 2026-08-15T08:00:42.445Z
+# Film & TV — harvested 2026-08-15T09:03:51.985Z
 
 ## Variety
+
+### Urša Menart Recalls Finding Inspiration on Influencers’ Fake Tragic Life Stories for Intimate Dramedy ‘Everything That’s Wrong With You’
+Sat, 15 Aug 2026 08:53:04 +0000 — https://variety.com/2026/film/global/ursa-menart-everything-thats-wrong-with-you-influencers-1236833609/
+
+Right before the COVID-19 pandemic shut down the world, Slovenian director Urša Menart came across a curious phenomenon on the internet: young people, mostly women, making up tragic life stories to gather the increasingly sparse attention span of their followers. Even more curiously, the director realized people would often drop everything to visit these micro-influencers. [ ]
+
+### Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator s Market Ban
+Sat, 15 Aug 2026 08:09:22 +0000 — https://variety.com/2026/tv/news/zee-shareholders-approve-fund-raise-sebi-market-ban-1236826217/
+
+India s Securities Appellate Tribunal has granted media giant Zee Entertainment Enterprises Ltd. interim relief in its dispute with the country s securities regulator, allowing the company to proceed with the promoter fund infusion at the center of last month s shareholder vote despite an ongoing market ban — on the condition that Zee first deposits the penalty [ ]
 
 ### Frozen 3 First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges
 Sat, 15 Aug 2026 05:01:19 +0000 — https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/
@@ -41,16 +51,6 @@ The MCU s X-Men team is taking shape. Marvel Studios exec Kevin Feige announced 
 Sat, 15 Aug 2026 04:12:38 +0000 — https://variety.com/2026/film/news/avengers-doomsday-trailer-d23-1236817670/
 
 Marvel Studios unveiled the second Avengers: Doomsday trailer on Friday during Disney s D23 fan convention, further teasing the massive MCU team-up movie arriving in theaters Dec. 18. The two-minute clip — introduced by “Doomsday” leads Robert Downey Jr. (Doctor Doom), Chris Evans (Steve Rogers/Captain America) and Hayley Atwell (Peggy Carter) — sees Vanessa Kirby s Sue Storm/Invisible Woman [ ]
-
-### VisionQuest Trailer: Paul Bettany and James Spader Return as Vision and Ultron in WandaVision Trilogy Finale
-Sat, 15 Aug 2026 04:10:48 +0000 — https://variety.com/2026/tv/news/visionquest-trailer-vision-marvel-1236827773/
-
-Paul Bettany is back as Marvel s most popular android Vision in the upcoming Disney+ series, VisionQuest. The eight-episode series release date is set for Oct. 14. The trailer opens with Vision in his human form working at a pub and closing up shop for the night. Before you started working here, I remember when you [ ]
-
-### Jon Favreau s Oswald the Lucky Rabbit Miniseries Sets February Release Date on Disney+
-Sat, 15 Aug 2026 04:07:57 +0000 — https://variety.com/2026/tv/news/jon-favreau-oswald-the-lucky-rabbit-release-date-1236834697/
-
-Oswald the Lucky Rabbit, one of Disney s earliest characters who predated Mickey Mouse, is back for the 21st century. At the D23 fan event in Anaheim on Friday, Disney revealed the first look at its live action combined with hand-drawn 2D animation series Oswald the Lucky Rabbit that s being written, directed and executive produced by [ ]
 
 ## The Hollywood Reporter
 

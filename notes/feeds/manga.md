@@ -1,9 +1,9 @@
-# Manga — harvested 2026-08-15T08:00:42.445Z
+# Manga — harvested 2026-08-15T09:03:51.985Z
 
 ## Anime News Network
 
-### Kingdom Hearts The Series 'Anime' Announced for Disney+, Kingdom Hearts IV Game Launches in Late 2027 Including Coco World
-Fri, 14 Aug 2026 23:32:02 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/kingdom-hearts-the-series-anime-announced-for-disney-kingdom-hearts-iv-game-launches-in-late-2027-/.240595
+### Kingdom Hearts 'Anime' Announced for Disney+, Kingdom Hearts IV Game Launches in Late 2027 Including Coco World
+Fri, 14 Aug 2026 23:32:02 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/kingdom-hearts-anime-announced-for-disney-kingdom-hearts-iv-game-launches-in-late-2027-including-/.240595
 
 New trailer streamed for <cite>Kingdom Hearts IV</cite> featuring <cite>Coco</cite> world
 
