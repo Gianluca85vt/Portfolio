@@ -1,6 +1,16 @@
-# Manga — harvested 2026-08-15T15:00:37.117Z
+# Manga — harvested 2026-08-15T15:58:14.728Z
 
 ## Anime News Network
+
+### The Apothecary Diaries Season 3's Trailer Unveils October 2 Debut, More Cast, Opening Song
+Sat, 15 Aug 2026 11:04:26 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/the-apothecary-diaries-season-3-trailer-unveils-october-2-debut-more-cast-opening-song/.240600
+
+Yorushika performs "Kumo o Nukekazashimo e Watashidake"
+
+### Ace of Diamond Act II Second Season's 2nd Part Previewed in Teaser
+Sat, 15 Aug 2026 10:40:20 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/ace-of-diamond-act-ii-second-season-2nd-part-previewed-in-teaser/.240598
+
+2nd part of season will premiere in October
 
 ### Kingdom Hearts 'Anime' Announced for Disney+, Kingdom Hearts IV Game Launches in Late 2027 Including Coco World
 Fri, 14 Aug 2026 23:32:02 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/kingdom-hearts-anime-announced-for-disney-kingdom-hearts-iv-game-launches-in-late-2027-including-/.240595
@@ -51,16 +61,6 @@ This episode goes even further, exploring the anxieties these people face at dif
 Fri, 14 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc/sweet-hamster-days/.240288
 
 You've reincarnated into the body of your childhood friends' pet hamster. Does this live-action visual novel have more to offer than its unusual premise?
-
-### Disney+ Announces Cast for Live-Action Webtoon-Based Series A Man's Man
-Fri, 14 Aug 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/disney-announces-cast-for-live-action-webtoon-based-series-a-man-man/.240388
-
-Jeong-min Park will star as Yoo-hyun Han; other cast members include Sung-woo Bae, Ji-hyun Kim, Moon-sung Jung, Sang-hoon Moon, Min Kim
-
-### The Prince of Tennis II: U-17 World Cup Kesshō Member Ketteisen Anime Reveals Promo Video, More Cast, September 30 Premiere
-Fri, 14 Aug 2026 11:10:29 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/the-prince-of-tennis-ii-u-17-world-cup-kessho-member-ketteisen-anime-reveals-promo-video-more-cast-/.240582
-
-Series casts Tasuku Hatanaka, Reiji Kawashima, Ryūho Nagaoka, Megumi Han for Spain's team
 
 ## Crunchyroll News
 

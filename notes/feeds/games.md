@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-15T15:00:37.117Z
+# Games — harvested 2026-08-15T15:58:14.728Z
 
 ## Eurogamer
 
@@ -181,9 +181,4 @@ Thu, 13 Aug 2026 19:54:15 GMT — https://www.gamedeveloper.com/business/netflix
 Thu, 13 Aug 2026 16:38:33 GMT — https://www.gamedeveloper.com/business/2k-announces-new-vancouver-based-studio-led-by-ea-veteran
 
 After almost two decades at EA, Aaron McHardy will act as vice president, executive producer, and head of Small Axe Studios.
-
-### Xsolla rolls out publishing tools to keep players 'engaged' after the first purchase
-Thu, 13 Aug 2026 15:16:47 GMT — https://www.gamedeveloper.com/business/xsolla-rolls-out-publishing-tools-to-keep-players-engaged-after-the-first-purchase
-
-The commerce company wants to give studios more ways to drive repeat purchases.
 

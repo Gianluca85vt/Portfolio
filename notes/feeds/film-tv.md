@@ -1,4 +1,4 @@
-# Film & TV — harvested 2026-08-15T15:00:37.117Z
+# Film & TV — harvested 2026-08-15T15:58:14.728Z
 
 ## Variety
 
@@ -54,6 +54,11 @@ Ryan Gosling already survived going to space in Project Hail Mary, but now he s 
 
 ## The Hollywood Reporter
 
+### Mission Stars George MacKay and Rosy McEwen on Capitalism, Creative Freedom and the Eternal Allure of British Independent Film
+Sat, 15 Aug 2026 15:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/george-mackay-rosy-mcewen-mission-paul-wright-edinburgh-1236670925/
+
+The English actors have big-budget studio projects on their slate — including 'Sense and Sensibility,' 'Scarpetta' and the 'Ocean's Eleven' prequel — so what tempted them onto Paul Wright's Edinburgh-premiering indie?
+
 ### LeBron James Launches YouTube Golf Channel — Watch the First Episode s Trailer (Exclusive)
 Sat, 15 Aug 2026 13:59:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/lebron-james-starts-youtube-golf-channel-exclusive-trailer-1236673598/
 
@@ -99,12 +104,17 @@ Sat, 15 Aug 2026 04:44:53 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 Rosario Dawson and Hayden Christensen return for the new season of the Star Wars show.
 
-### Kieran Culkin to Star in Animated Movie Clay for Disney
-Sat, 15 Aug 2026 04:41:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/kieran-culkin-to-star-in-animated-movie-clay-1236673989/
-
-The news was revealed at D23 on Friday, with a release date set for November 2028.
-
 ## Deadline
+
+### Bill Maher Has A Word For Luigi Mangione Groupies
+Sat, 15 Aug 2026 15:56:26 +0000 — https://deadline.com/2026/08/bill-maher-luigi-mangione-1237041560/
+
+Friday s big story on the cable news networks was the guilty plea of Luigi Mangione, the man who shot and killed UnitedHealthcare CEO Brian Thompson in 2024. And last night Bill Maher had some thoughts. “Luigi Mangione, Maher said in the opening monologue of HBO s Real Time with Bill Maher, the guy who was getting [ ]
+
+### Spider-Man: Brand New Day Super $67M Third Weekend; Odyssey Sailing Past Half Billion, Dinos Fight For Third Box Office Update
+Sat, 15 Aug 2026 15:11:00 +0000 — https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/
+
+SATURDAY AM WRITETHRU after 12:30am post: Spider-Man: Brand New Day has banked a $19M Friday for what s shaping up to be a third weekend around $67M, -54%, which takes its running cume to $782.8M. By end of tomorrow, Brand New Day will rank as the fifth highest grossing domestic movie of all-time behind Force Awakens [ ]
 
 ### Spider-Man: Brand New Day Production Designer On Yelena s Bathhouse, Peter Parker s Sad Pad The Challenge Of Building New York In The U.K.
 Sat, 15 Aug 2026 15:00:00 +0000 — https://deadline.com/2026/08/spider-man-brand-new-day-production-designer-interview-1237040773/
@@ -141,11 +151,6 @@ Sat, 15 Aug 2026 12:51:10 +0000 — https://deadline.com/2026/08/greatest-showma
 
 The Greatest Showman, the Disney Theatrical Group musical stage adaptation of the 2017 film, will premiere in London s West End at Theatre Royal Drury Lane in Spring 2027, Disney announced at the D23 event in Anaheim last night. Also revealed was the cast: The Greatest Showman will star Oliver Tompsett as P.T. Barnum, Samantha Barks [ ]
 
-### Spider-Man: Brand New Day Has Super $65M Third Weekend; The Odyssey Sailing Past Half Billion Saturday AM Box Office Update
-Sat, 15 Aug 2026 07:30:00 +0000 — https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/
-
-SATURDAY VERY EARLY AM: Spider-Man: Brand New Day has banked a near $19M Friday for what s shaping up to be a third weekend around $65M, -55%, which takes its running cume to $780.8M. The Destin Daniel Cretton directed movie is booked at 4,539 theaters. Among the best third weekends ever at the domestic B.O, Brand [ ]
-
 ### Zootopia 3 In Works At Disney; Ke Huy Quan Ginnifer Goodwin Reprising Roles D23
 Sat, 15 Aug 2026 05:03:23 +0000 — https://deadline.com/2026/08/zootopia-3-d23-1237041333/
 
@@ -160,9 +165,4 @@ The filled Honda Center got a look at Frozen 3 and let s just say, there is quit
 Sat, 15 Aug 2026 04:58:42 +0000 — https://deadline.com/2026/08/kieran-culkin-cast-clay-walt-disney-animated-movie-1237041021/
 
 Walt Disney Animation Studios has a new original film in the works, Clay, which will head to theaters in 2028 with Kieran Culkin leading the voice cast. The project was announced at Disney s Entertainment Showcase at D23 on Friday night. Oscar and Emmy winner Culkin will voice the protagonist, Flip, who might be a little [ ]
-
-### Hexed : Disney Thanksgiving Animated Pic Adds Jodie Foster Walton Goggins D23
-Sat, 15 Aug 2026 04:41:03 +0000 — https://deadline.com/2026/08/hexed-jodie-foster-walton-goggins-1237040951/
-
-It was announced at D23 tonight that Jodie Foster and Walton Goggins are joining the voice cast of Walt Disney Animation s Hexed. The Oscar winner, who began her career at Disney in Candleshoe and Freaky Friday, said I have never voiced a character in a Disney film until now. She is playing Queen Celeste, the [ ]
 
