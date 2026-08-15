@@ -1,4 +1,4 @@
-# Film & TV — harvested 2026-08-15T14:00:35.106Z
+# Film & TV — harvested 2026-08-15T15:00:37.117Z
 
 ## Variety
 
@@ -10,7 +10,7 @@ Darren Walker may be new to Los Angeles as he takes the helm of Anonymous Conten
 ### Florin Şerban s You Don t Belong Here Wins Golden Leopard at Locarno, as Monica Bellucci and Kim Minhee Take Acting Awards
 Sat, 15 Aug 2026 13:45:10 +0000 — https://variety.com/2026/film/news/locarno-award-winners-monica-bellucci-kim-minhee-1236835378/
 
-Romanian director Florin Şerban s You Don t Belong Here, a study of anti-Roma racism, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. Veteran Korean auteur Hong Sangsoo, a recurring winner at the Swiss festival, was named [ ]
+Romanian director Florin Şerban s You Don t Belong Here, a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineup of 17 features [ ]
 
 ### Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico s Morelia Film Festival
 Sat, 15 Aug 2026 13:37:49 +0000 — https://variety.com/2026/film/global/diego-luna-nicolas-pereda-rodrigo-pla-morelia-film-festival-1236835320/
@@ -106,6 +106,16 @@ The news was revealed at D23 on Friday, with a release date set for November 202
 
 ## Deadline
 
+### Spider-Man: Brand New Day Production Designer On Yelena s Bathhouse, Peter Parker s Sad Pad The Challenge Of Building New York In The U.K.
+Sat, 15 Aug 2026 15:00:00 +0000 — https://deadline.com/2026/08/spider-man-brand-new-day-production-designer-interview-1237040773/
+
+For a movie about a superhero who can literally climb walls, Spider-Man: Brand New Day is seemingly interested in what happens when Peter Parker (Tom Holland) puts them up himself. Still reeling from the loss of the people closest to him, Peter has convinced himself that being alone is the price of being Spider-Man, and [ ]
+
+### Frankie Valli Denies The Rumors: I Am Not Retired
+Sat, 15 Aug 2026 14:04:23 +0000 — https://deadline.com/2026/08/frankie-valli-retirement-1237041511/
+
+Frankie Valli has a message for anyone predicting his imminent retirement: Not so fast. After Bobby Valli, the Four Season singer s brother, recently posted a Facebook message announcing the ailing Frankie s retirement, the 92-year-old pop icon slapped back. Yesterday, Frankie posted a short and sweet Instagram message: “In spite of what you might have heard, [ ]
+
 ### Locarno Film Festival Winners: Florin Șerban, Monica Bellucci Hong Sangsoo Among Victors
 Sat, 15 Aug 2026 13:45:00 +0000 — https://deadline.com/2026/08/locarno-film-festival-winners-florin-serban-monica-bellucci-1237040623/
 
@@ -155,14 +165,4 @@ Walt Disney Animation Studios has a new original film in the works, Clay, which 
 Sat, 15 Aug 2026 04:41:03 +0000 — https://deadline.com/2026/08/hexed-jodie-foster-walton-goggins-1237040951/
 
 It was announced at D23 tonight that Jodie Foster and Walton Goggins are joining the voice cast of Walt Disney Animation s Hexed. The Oscar winner, who began her career at Disney in Candleshoe and Freaky Friday, said I have never voiced a character in a Disney film until now. She is playing Queen Celeste, the [ ]
-
-### Ahsoka Season 2 Trailer: Star Wars Series From Lucasfilm Disney+ Returns After Nearly Three Years D23
-Sat, 15 Aug 2026 04:36:20 +0000 — https://deadline.com/2026/08/ahsoka-season-2-trailer-star-wars-d23-1237040986/
-
-It’s been quite a while since viewers were immersed in the Disney+ Star Wars series Ahsoka, going on three years, actually. New episodes won t arrive until 2027, but the first trailer premiered Friday at D23 in Anaheim. Check out the clip and new poster below, along with a first-look photo above. Season 2 continues the [ ]
-
-### Star Wars: Starfighter : First Look Details Unveiled About New Universe Pic At D23
-Sat, 15 Aug 2026 04:33:11 +0000 — https://deadline.com/2026/08/star-wars-starfighter-ryan-gosling-first-look-d23-1237040930/
-
-We finally have some more details about the Shawn Levy directed, Ryan Gosling starring Star Wars: Starfighter movie after a first look was unveiled tonight at Disney s D23 fan confab. Previous details revealed that the movie was set a brand new galaxy in the Star Wars canon, free of Skywalker family plot-lines. The Jonathan Tropper [ ]
 

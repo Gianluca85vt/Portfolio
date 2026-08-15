@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-15T14:00:35.106Z
+# Tech — harvested 2026-08-15T15:00:37.117Z
 
 ## Ars Technica
 
@@ -64,6 +64,21 @@ Leading US AI labs such as OpenAI and Anthropic are releasing cheaper models as 
 
 ## The Verge
 
+### I finally found a magnetic phone grip I never want to remove
+2026-08-15T10:10:16-04:00 — https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review
+
+The OhSnap Snap Grip Stand, in black and silver. | Photo by Sean Hollister / The Verge I told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound up sticking with my $25 Syncwire instead. But OhSnap's $50 Snap Grip Stand finally got me. To have a truly useful vertical stand and grip always attached to my phone, ready at a moment's notice? Heck yes. @verge My favorite phone grip is the one I never want to take off - because it's a great stand. The $50 OhSnap Snap Grip Stand is the company's best yet, effortlessly propping up phones vertically. It's still got double-sided magnet action and … Read the full story at The Verge. ]]>
+
+### Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver
+2026-08-15T10:03:14-04:00 — https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast
+
+The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then. In addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. … Read the full story at The Verge. ]]>
+
+### Xteink’s tiny e-readers are getting access to free books through Libby
+2026-08-15T09:00:00-04:00 — https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader
+
+New plugin support for CrossPoint Reader lets Xteink’s devices access DRM-protected ebooks. One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, but with Xteink's devices you have to source DRM-free ebooks on your own. That's about to change, as the developers of CrossPoint Reader , a free alternative firmware for the X3 , X4 , and X4 Pro , are introducing support for third-party plug-ins that will expand the e-readers' capabilities. One of the first from the community will give the devices access to DRM-protected ebooks borrowed through OverDrive's Libby library app , or pu … Read the full story at The Verge. ]]>
+
 ### We’re reaching peak camera with the Sony A7R VI
 2026-08-15T08:00:00-04:00 — https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review
 
@@ -99,22 +114,17 @@ A lot of automakers talk about wanting to minimize or eliminate driver distracti
 
 The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen with a grisly story about faith and the supernatural. But executives at 20th Century Fox felt that Carter's ideas were too dark, and he was pushed to turn the project into a PG-13 feature. Now, almost two decades after I Want to Believe 's theatrical debut, Carter is back with a new director's cut of the film for Hulu that's much closer to his original vision. "We got to tell a good X-Files story," Carter said of the original … Read the full story at The Verge. ]]>
 
-### Google s best new camera feature is only for the Pixel 11 series
-2026-08-14T13:34:14-04:00 — https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones
-
-Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that "smartphone" look. The result is new styles like "Digi," which mimics the style of photos taken by older digital cameras. But to use Camera Looks, at least initially, you'll need to have one of Google's Pixel 11 phones. "Our latest camera updates are only available on our latest devices," Google spokesperson Alex Moriconi tells The Verge . "We're always looking to bring experiences to more users, but have nothing to share at this time." That last sentence … Read the full story at The Verge. ]]>
-
-### Mark Zuckerberg has an Instagzam
-2026-08-14T12:54:16-04:00 — https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast
-
-Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of The Vergecast , David and Nilay start by discussing the new logo, the executive urge to redesign everything all the time, and whether new is always better. After that, they get into the other big Meta release of the week: Mark Zuckerberg's many-thousand-word missive on the future of AI. There are a lot of ideas and proposals … Read the full story at The Verge. ]]>
-
-### You can now turn off Google Gemini s visible watermarks
-2026-08-14T12:39:32-04:00 — https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal
-
-Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update , you can toggle off a new "Media watermark" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the "sparkle" watermark that appears in the bottom-right corner of content generated with the company's Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible SynthID watermarks and C2PA metadata embedded in the background, according to Josh Woodward , the vice president of Google Labs, Gemini, and AI Studio. That means you … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Grab this Nvidia RTX 5070 Ti gaming PC for $2,099 before it sells out —prebuilt powerhouse includes a Core Ultra 7 265KF, 32GB RAM, 1TB SSD
+Sat, 15 Aug 2026 14:23:36 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/grab-this-nvidia-rtx-5070-ti-gaming-pc-for-usd2-099-before-it-sells-out-prebuilt-powerhouse-includes-a-core-ultra-7-265kf-32gb-ram-1tb-ssd
+
+If you need a top-tier gaming system that delivers on performance and aesthetics, the Predator Orion 6000 (PO6-605-UR15W) should do the trick. While Acer's prebuilt gaming beast usually retails for $2,799.99 at U.S. retailers, Walmart is currently offering a massive 25% discount, bringing the price down to $2,099 for a limited time. That is savings of up to $700 that you can put toward a new gaming monitor or other gaming accessories. Check out the Acer Predator Orion 6000 deal on Walmart The Predator Orion 6000 is an exceptional choice of gaming system for demanding gamers. It features a powerful Core Ultra 7 265KF processor, liquid-cooled by a 240mm AIO cooler. The chip has 20 cores and a boost clock speed of up to 5.5 GHz. Paired with 32GB (2x16GB) of DDR5 memory, the Orion 6000 easily exceeds the requirements of today’s AAA games and is fully prepared for future releases. The system doesn’t cheap out on storage, either. It comes equipped with a 1TB PCIe 4.0 SSD that delivers lightning-fast load times and ample space to build your gaming library. In today’s market, with memory and SSD prices continuing to surge, a gaming system with 32GB of memory and a 1TB SSD is a rare sight. The Predator Orion 6000 is a high-end gaming system with a Core Ultra 7 265KF, Nvidia GeForce RTX 5070 Ti, 32GB of DDR5 memory, and a 1TB PCIe 4.0 SSD. View Deal While the Predator Orion 6000 is clearly a powerful gaming system, the GeForce RTX 5070 Ti , one of the best graphics cards , is undoubted
+
+### Nvidia turns $5B Intel stock bet into $30B windfall — filing reveals new $21B SpaceX stake and complete exit from Arm stock
+Sat, 15 Aug 2026 14:16:35 +0000 — https://www.tomshardware.com/tech-industry/nvidia-turns-usd5b-intel-stock-bet-into-usd30b-windfall-filing-reveals-new-usd21b-spacex-stake-and-complete-exit-from-arm-stock
+
+Nvidia’s $5 billion purchase of Intel stock last year, made as part of the companies’ strategic AI infrastructure partnership announced in September, has become a highly lucrative investment, generating nearly $25 billion, the company revealed in an SEC filing this week . In addition, Nvidia owns nearly $21 billion worth of SpaceX stock and holds stakes valued at more than $10 billion in various customers, partners, and suppliers. With quarterly revenue exceeding $80 billion and net income approaching $60 billion, Nvidia has plenty of unspent cash to invest. Traditionally, the company tends to invest in stocks poised to grow, as well as make strategic investments. Without a doubt, Nvidia's investment in Intel was both strategic and financial, as it helped Intel survive hard times and has generated $24.989 billion for the company. Interestingly, after investing in Intel, Nvidia has sold its 1.1 million Arm shares (worth $178.1 million last August). Without any doubts, Nvidia will continue developing Arm-based CPUs, though for now it does not own any Arm stock. The SpaceX investment — valued at $20.975 billion — seems entirely strategic at present, since SpaceX's xAI has committed to exclusively using Nvidia hardware in its AI data centers both on Earth and in orbit. Once SpaceX's stock regains its lost value, Nvidia may well earn on it, though it remains to be seen when this happens. Other notable investments that Nvidia has made over the past year include Coherent, a major ma
 
 ### Devs blame Windows for VLC media player bug that causes 33-second delay when playing MP3 files — creators allege Microsoft Defender blocking plugin cache is to blame
 Sat, 15 Aug 2026 13:30:00 +0000 — https://www.tomshardware.com/software/windows/vlc-media-player-bug-reportedly-causes-33-second-delay-when-playing-mp3-files-on-windows-developers-say-microsoft-defender-is-to-blame
@@ -166,17 +176,12 @@ Sat, 15 Aug 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/d
 
 U.S. aerospace, defense and security giant Northrop Grumman thinks it has a solution that will provide short-range, layered air defense against the increasingly complex aerial threats we see in modern war. The new Raid Hunter uses the firm’s Chain Gun technology to defend targets from cruise missiles, drone swarms and other evolving threats. It thus addresses an area identified as a “critical short-range air defense gap.” Furthermore, the modular Raid Hunter can be rapidly deployed on the C-130 and other vehicles, with networking enabling sensor fusion and coordinated engagements. The skies are changing. Defending against one threat isn’t enough anymore. Our Raid Hunter™ is built to meet the challenge with precision-guided gunfire and the speed needed to help protect what’s critical. pic.twitter.com/Meuqyg04oY August 11, 2026 We have seen in Ukraine, and more recently in the Middle East, that modern air defense systems are struggling with high-volume drone swarms and low-flying cruise missiles. The sheer amount of aerial threats is overwhelming defense systems that have traditionally been designed to knock out warplanes and cruise missiles. Moreover, expensive anti-air missiles such as the Patriot system seem inappropriate and imbalanced for stopping far cheaper and more numerous drones. “War has evolved. Air Defenders need the ability to defend against large, complex raids designed to overwhelm traditional defense solutions,” said Kenn Todorov, VP and GM, command and control
 
-### Catastrophic optical disc shattering blamed on cleaning chemicals and packing foam — another data preservation concern to add to bit rot and laser rot
-Sat, 15 Aug 2026 09:30:00 +0000 — https://www.tomshardware.com/pc-components/storage/catastrophic-optical-disc-shattering-blamed-on-cleaning-chemicals-and-packing-foam-another-data-preservation-concern-to-add-to-bit-rot-and-laser-rot
-
-Discussions about the thorny topic of computer data preservation are swirling again. This time, optical disc collectors are highlighting the danger of catastrophic failures of compact disc (CD) formats. Specifically, a handful of Twitter/X users have seen their treasured CDs split or shatter without any glaringly obvious cause. The root cause seems to be the degradation of the polycarbonate substrates of the CDs from either cleaning substances or some types of foam padding in storage cases off-gassing. CDの劣化が話題ですが、密閉度の高い精密機器収納用のトランクとか開けた時に、緩衝用のスポンジから臭い匂いがする事がありますよね？あれ大体がでアンモニアなので、専用ソフトインストール用のCD-ROMとか入れてそのまま蓋をしておくと、ポリカーボネート部が侵されてこうなります。 https://t.co/5eTX6wGWll pic.twitter.com/ibAgBcEOPx August 6, 2026 The two examples of shattered CDs embedded above might look pretty similar, but the failures may have been precipitated through different vectors. @japanretrogame’s split-down-the-middle CD was perhaps doomed due to too much care and maintenance. Reader notes suggest the user cleaned and polished this CD to keep it clean and shiny. This eventually caused chemical cracking of the polycarbonate substrate, it is thought [machine translations used]. Moving along to consider @CZ662C’s even worse-looking CD fragments, and the tech detectives on X reckon this dramatic damage was caused by storage in a foam-padded case. Some foam padding materials, the story goes, will off-gas ammonia compounds. Apparently sealed protective cases with (particularly polyurethane type) foam padding will o
-
-### G.Skill Trident Z5 NeoX RGB DDR5-6000 C30 2x16GB Review — EXPO ULL memory kit to max out your Ryzen
-Fri, 14 Aug 2026 15:30:00 +0000 — https://www.tomshardware.com/pc-components/ram/g-skill-trident-z5-neox-rgb-ddr5-6000-c30-2x16gb-review
-
-Unfazed by the ongoing memory shortage, G.Skill has launched the Trident Z5 NeoX RGB DDR5-6000 C30 memory kit, equipped with AMD's EXPO Ultra Low Latency (ULL) feature, to position it as a serious contender among the best RAM options. EXPO 1.2 may seem like a minor specification update, but ULL is nothing to sneeze at. Among all the features, it brings a new level of optimization of memory sub-timings that were previously neglected. These memory sub-timings are key to increasing the performance on Ryzen processors. Standard AMD EXPO memory kits typically leave these memory sub-timings alone for the sake of broader compatibility. However, new EXPO ULL-certified memory kits, like the Trident Z5 NeoX RGB DDR5-6000 C30, leverage these secondary and tertiary memory sub-timings to unlock additional performance from AMD's Ryzen chips. Tom's Hardware Tom's Hardware Tom's Hardware If you have seen one Trident Z5 memory module, you have seen them all because every new Trident series that comes out follows a similar design recipe as the very first Trident DDR5 memory modules. This is not necessarily a bad thing, though. The design has been a winning formula for G.Skill's Trident Z5 memory modules, and it has resonated well among enthusiasts. In the case of the Trident Z5 NeoX, G.Skill went with a single-color exterior. Depending on the SKU, the memory modules are available in matte black, matte white, or a sleek glossy black finish. Regardless of which colorway you choose, the overall d
-
 ## Phoronix
+
+### Intel s Jay Graphics Shader Compiler Now Passing Vulkan CTS With Xe2/Xe3 Hardware
+Sat, 15 Aug 2026 10:23:19 -0400 — https://www.phoronix.com/news/Intel-Jay-Compiler-Xe2-Xe3-CTS
+
+Last year Alyssa Rosenzweig joined Intel to work on their Linux graphics drivers after previously serving as a contractor for Valve on their graphics stack and also previously leading the Mesa driver work for the Asahi Linux Apple Silicon graphics support. Since joining Intel, she has been leading the development of Jay as a new SSA-based shader compiler for Intel graphics hardware to be used by the Mesa Iris Gallium3D and ANV Vulkan drivers...
 
 ### RustConn 0.20 Continues Further Polishing This GTK4/libadwaita-Based Connection Manager
 Sat, 15 Aug 2026 07:55:04 -0400 — https://www.phoronix.com/news/RustConn-0.20-Released
@@ -191,7 +196,7 @@ Ahead of the presumed Linux 7.2 stable kernel release tomorrow, some last minute
 ### KDE Plasma 6.8 To Allow Fine-Tuning Mouse/Touchpad Speeds
 Sat, 15 Aug 2026 06:51:30 -0400 — https://www.phoronix.com/news/Plasma-6.8-Tune-Mouse-Speeds
 
-KDE developers continue to be quite busy this summer baking improvements for the upcoming Plasma 6.8 desktop release. This Week in Plasna is out with its newest issue to outline all of these interesting enhancements...
+KDE developers continue to be quite busy this summer baking improvements for the upcoming Plasma 6.8 desktop release. This Week in Plasma is out with its newest issue to outline all of these interesting enhancements...
 
 ### Debian Developers Begin Voting Over LLM Usage Within The Project
 Sat, 15 Aug 2026 06:40:04 -0400 — https://www.phoronix.com/news/Debian-Votes-On-LLM-Usage
@@ -232,9 +237,4 @@ With Linux 7.2 expected to see its stable debut Sunday, here is a look at what I
 Fri, 14 Aug 2026 06:04:16 -0400 — https://www.phoronix.com/news/Linux-Patches-Fix-DRM-Fair
 
 Ahead of the Linux 7.2 kernel release expected out on Sunday, the Direct Rendering Manager (DRM) subsystem was forced to revert their "fair" scheduler policy default new for this kernel. Due to a last minute user-reported regression, FIFO returns as the default DRM scheduler policy for Linux 7.2. But patches are now available for addressing that regression and thus hopefully for Linux 7.3 there will be the fair scheduler becoming the default...
-
-### Open-Source exFAT Programs 1.4.3 Improves Fsck & Mkfs
-Fri, 14 Aug 2026 05:44:14 -0400 — https://www.phoronix.com/news/exfatprogs-1.4.3
-
-Ahead of the Linux 7.2 kernel release expected on Sunday, a new release of the exFAT file-system user-space programs was released overnight...
 

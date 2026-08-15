@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-15T14:00:35.106Z
+# Games — harvested 2026-08-15T15:00:37.117Z
 
 ## Eurogamer
 
@@ -99,11 +99,6 @@ Thu, 13 Aug 2026 16:55:14 +0000 — https://www.gamesindustry.biz/mattel-launche
 
 Mattel has announced the formation of Mattel Game Studios, a global development organisation that will create games based on the company's IP. It follows the company's February acquisition of 100% of Mattel163 , a joint venture that was previously 50% owned by partner firm NetEase. Read more
 
-### Sensor Tower: 89% of GTA6 preorders are for the $100 ultimate edition
-Thu, 13 Aug 2026 14:00:44 +0000 — https://www.gamesindustry.biz/sensor-tower-89-of-gta6-preorders-are-for-the-100-ultimate-edition
-
-The digital intelligence firm Sensor Tower reports that 89% of preorders for GTA6 are for the $100 ultimate edition rather than the $80 standard edition. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
@@ -191,9 +186,4 @@ After almost two decades at EA, Aaron McHardy will act as vice president, execut
 Thu, 13 Aug 2026 15:16:47 GMT — https://www.gamedeveloper.com/business/xsolla-rolls-out-publishing-tools-to-keep-players-engaged-after-the-first-purchase
 
 The commerce company wants to give studios more ways to drive repeat purchases.
-
-### Saber Interactive to add Rideshare 'Stimulator' AI disclosure after public controversy
-Thu, 13 Aug 2026 14:31:00 GMT — https://www.gamedeveloper.com/business/saber-interactive-denies-replacing-writers-with-ai-on-rideshare-stimulator-
-
-'Neither Saber nor Unigine have replaced any writers with AI for Rideshare or any other game.'
 
