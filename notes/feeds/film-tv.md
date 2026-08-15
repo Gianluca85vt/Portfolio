@@ -1,11 +1,11 @@
-# Film & TV — harvested 2026-08-15T05:04:00.559Z
+# Film & TV — harvested 2026-08-15T06:01:33.892Z
 
 ## Variety
 
 ### Frozen 3 First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges
 Sat, 15 Aug 2026 05:01:19 +0000 — https://variety.com/2026/film/news/frozen-3-first-details-anna-kristoff-married-olaf-love-1236822955/
 
-Thanksgiving 2027 is about to get a lot colder. Disney has released the first look at Frozen 3, which will release in theaters Nov. 24, 2027, following the previous two films tradition of Thanksgiving-centered premiere dates. Set in the fictional land of Arendelle, the cast of voice actors includes Kristen Bell as Anna, Idina Menzel [ ]
+Thanksgiving 2027 is about to get a lot colder. Disney has revealed the first details about “Frozen 3,” which will release in theaters Nov. 24, 2027, following the previous two films tradition of Thanksgiving-centered premiere dates. Set in the fictional land of Arendelle, the cast of voice actors includes Kristen Bell as Anna, Idina Menzel [ ]
 
 ### Marvel s X-Men Reboot Sets May 2028 Release Date
 Sat, 15 Aug 2026 04:50:40 +0000 — https://variety.com/2026/film/news/x-men-release-date-marvel-reboot-1236816959/
@@ -106,22 +106,22 @@ The duo appeared in character to tease the follow-up to their 1997 cult classic.
 
 ## Deadline
 
-### Zootopia 3 In Works With Ke Huy Quan Reprising Role In Next Film
+### Zootopia 3 In Works At Disney; Ke Huy Quan Ginnifer Goodwin Reprising Roles D23
 Sat, 15 Aug 2026 05:03:23 +0000 — https://deadline.com/2026/08/zootopia-3-d23-1237041333/
 
-Following the massive success of the sequel, Disney is moving forward with Zootopia 3. The news of the next film was announced at Disney s D23 event in Anaheim with Ke Huy Quan joining Ginnifer Goodwin on stage to announce new film. This news comes after last year’s Zootopia 2, which became Disney Animations highest grossing [ ]
+Following the massive success of the sequel, Disney is moving forward with Zootopia 3. The news of the next film was revealed at Disney s D23 event in Anaheim, with Ke Huy Quan joining Ginnifer Goodwin onstage to announce the new installment, which will focus on birds. Last year’s Zootopia 2 became the highest-grossing Hollywood animated [ ]
 
-### Frozen 3 First Look Teases Wedding Bells An Icy Villain From A Land More Wild And Dangerous Than Ever Before
+### Frozen 3 First Look Teases Wedding Bells An Icy Villain From A Land More Wild And Dangerous Than Ever Before D23
 Sat, 15 Aug 2026 05:00:06 +0000 — https://deadline.com/2026/08/frozen-3-footage-d23-anna-wedding-new-villain-1237041024/
 
-The filled Honda Center tonight got a look at Frozen 3 and let s just say, there is quite a lot in store. First of all, are those wedding bells, we hear? Indeed, they are! Kristen Bell confirmed at Disney s Entertainment Showcase Friday night that Anna will be marrying her mountain man Kristoff (Jonathan Groff) in [ ]
+The filled Honda Center got a look at Frozen 3 and let s just say, there is quite a lot in store. First of all, are those wedding bells, we hear? Indeed, they are! Kristen Bell confirmed at Disney s D23 entertainment showcase on Friday night that Anna will be marrying her mountain man Kristoff (Jonathan [ ]
 
 ### Kieran Culkin To Lead Voice Cast Of New Walt Disney Animated Movie Clay D23
 Sat, 15 Aug 2026 04:58:42 +0000 — https://deadline.com/2026/08/kieran-culkin-cast-clay-walt-disney-animated-movie-1237041021/
 
 Walt Disney Animation Studios has a new original film in the works, Clay, which will head to theaters in 2028 with Kieran Culkin leading the voice cast. The project was announced at Disney s Entertainment Showcase at D23 on Friday night. Oscar and Emmy winner Culkin will voice the protagonist, Flip, who might be a little [ ]
 
-### Hexed : Disney Thanksgiving Animated Pic Adds Jodie Foster Walton Goggins-D23
+### Hexed : Disney Thanksgiving Animated Pic Adds Jodie Foster Walton Goggins D23
 Sat, 15 Aug 2026 04:41:03 +0000 — https://deadline.com/2026/08/hexed-jodie-foster-walton-goggins-1237040951/
 
 It was announced at D23 tonight that Jodie Foster and Walton Goggins are joining the voice cast of Walt Disney Animation s Hexed. The Oscar winner, who began her career at Disney in Candleshoe and Freaky Friday, said I have never voiced a character in a Disney film until now. She is playing Queen Celeste, the [ ]
@@ -146,7 +146,7 @@ Sat, 15 Aug 2026 04:16:27 +0000 — https://deadline.com/2026/08/blue-bloods-sho
 
 Although the Reagans might not be in the same city anymore, Blue Bloods showrunner Kevin Wade supports the direction of the CBS spin-off. In a recent conversation with Bill O Reilly, the Golden Globe nominee rejected the No Spin News host s take that the offshoot is a woke version of the original, noting that he s happy [ ]
 
-### VisionQuest Trailer: First Look At Disney+ WandaVision Spinoff Starring Paul Bettany
+### VisionQuest Trailer: First Look At Disney+ WandaVision Spinoff Starring Paul Bettany D23
 Sat, 15 Aug 2026 04:12:59 +0000 — https://deadline.com/2026/08/visionquest-trailer-paul-bettany-marvel-1237041020/
 
 It s the beginning of the end for the WandaVision trilogy. Nearly two years after the series finale of Agatha All Along and 5½ years after WandaVision ended the Disney and Marvel released the first trailer for VisionQuest on Friday at D23 in Anaheim. Have a look above. Paul Bettany stars as Vision, a [ ]
