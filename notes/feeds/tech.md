@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-15T17:58:19.967Z
+# Tech — harvested 2026-08-15T19:04:40.819Z
 
 ## Ars Technica
 
@@ -82,7 +82,7 @@ Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took t
 ### Disney D23 2026: Everything announced for Star Wars, Marvel, and more
 2026-08-15T10:20:33-04:00 — https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23
 
-Shawn Levy, Ryan Gosling | Image: The Walt Disney Company/Image Group LA The annual Disney fan event showed off the cast of Marvel s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two of Ahsoka , plus a special look at Star Wars: Starfighter with an appearance from Ryan Gosling. Other new announcements included a few updates about Pixar, The Simpsons, Bluey, and others you can find below. Disney is making a Kingdom Hearts anime. The Bluey Movie teaser shows Keepy Uppy in Disneyfied CG. Star Wars: Ahsoka season 2 and Starfighter get teased at D23 A new Avengers: Doomsday trailer focuses on Robert Downey Jr.’s Doom. The first trailer for VisionQuest reunites Paul Bettany and James Spader. Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver Kingdom Hearts will be featured at Disney’s big D23 expo in August. Square Enix teases Kingdom Hearts 4 at Nintendo Direct ]]>
+Shawn Levy, Ryan Gosling | Image: The Walt Disney Company/Image Group LA The annual Disney fan event showed off the cast of Marvel s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two of Ahsoka , plus a special look at Star Wars: Starfighter with an appearance from Ryan Gosling. Other new announcements included a few updates about Pixar, The Simpsons, Bluey, and others you can find below. Pixar is getting spooky in Ghost Market. Disney is making a Kingdom Hearts anime. The Bluey Movie teaser shows Keepy Uppy in Disneyfied CG. Star Wars: Ahsoka season 2 and Starfighter get teased at D23 A new Avengers: Doomsday trailer focuses on Robert Downey Jr.’s Doom. The first trailer for VisionQuest reunites Paul Bettany and James Spader. Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver Kingdom Hearts will be featured at Disney’s big D23 expo in August. Square Enix teases Kingdom Hearts 4 at Nintendo Direct ]]>
 
 ### I finally found a magnetic phone grip I never want to remove
 2026-08-15T10:10:16-04:00 — https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review

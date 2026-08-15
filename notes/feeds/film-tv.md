@@ -1,6 +1,26 @@
-# Film & TV — harvested 2026-08-15T17:58:19.967Z
+# Film & TV — harvested 2026-08-15T19:04:40.819Z
 
 ## Variety
+
+### Selena Gomez Slams Completely Meritless Wondermind Lawsuit, Will File to Dismiss Baseless Claims
+Sat, 15 Aug 2026 18:55:37 +0000 — https://variety.com/2026/tv/news/selena-gomez-slams-wondermind-lawsuit-file-to-dismiss-1236835495/
+
+Selena Gomez and her legal team have released a fiery statement after the “Only Murders in the Building” star was accused of defrauding investors in her mental health startup, Wondermind, in a federal lawsuit filed Thursday. “The allegations that Selena Gomez engaged in any way whatsoever in any purported ‘fraud’ or other wrongdoing are completely [ ]
+
+### The State of Us Review: A Pair of Spirited Performances Lift a Familiar Yorkshire Tearjerker
+Sat, 15 Aug 2026 18:41:41 +0000 — https://variety.com/2026/film/reviews/the-state-of-us-review-1236835434/
+
+The weather being what it is in Yorkshire, a sunroof is not a top priority for most car buyers in that English county — but the tired hatchback driven by young slacker Frankie (Samuel Bottomley) has one. That s the first of a few improbabilities in The State of Us, an occasionally hokey but winningly sweet-natured [ ]
+
+### UFC 330 Livestream: Here s Where to Watch the Makhachev vs. Machado Garry Online for Free
+Sat, 15 Aug 2026 18:30:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-ufc-330-makhachev-vs-machado-garry-live-online-free-1236833641/
+
+After Max Holloway defeated Conor McGregor in a TKO in less than 70 second during UFC 329 in July, the Ultimate Fighting Championship travels from Las Vegas to Philadelphia for UFC 330. For the main event, Russian Islam Makhachev (28-1-0) defends his welterweight title belt against Irish fighter Ian Machado Garry (17-1-0) in a marquee [ ]
+
+### Dave Marsh, Bruce Springsteen Biographer and Rock Critic, Dies at 76
+Sat, 15 Aug 2026 18:02:21 +0000 — https://variety.com/2026/music/news/dave-marsh-dead-bruce-springsteen-born-to-run-1236835488/
+
+Dave Marsh, the music critic and biographer who documented the early days of Bruce Springsteen in his influential 1979 book “Born to Run,” died Friday in his Connecticut home. He was 76. Jim Rotolo, who hosts the Springsteen-fan cast “The Wild The Innocent” on SiriusXM, confirmed Marsh’s death in a Facebook post on Saturday [ ]
 
 ### Adam Scott Says His Daughter s Acting Class Was Forced to Watch His Failed Office Audition as an Example of What Not to Do
 Sat, 15 Aug 2026 17:40:41 +0000 — https://variety.com/2026/tv/news/adam-scott-daughter-failed-office-audition-john-krasinski-1236835469/
@@ -32,27 +52,27 @@ Sat, 15 Aug 2026 13:45:10 +0000 — https://variety.com/2026/film/news/locarno-a
 
 Romanian director Florin Şerban s You Don t Belong Here, a somber study of anti-Roma racism in the country, has taken the Golden Lion for best film in the International Competition at the Locarno Film Festival, along with a special mention for its young star Teodor Butănescu. The film emerged victorious in a lineup of 17 features [ ]
 
-### Diego Luna, Nicolas Pereda and Rodrigo Plá Set for Competition at Mexico s Morelia Film Festival
-Sat, 15 Aug 2026 13:37:49 +0000 — https://variety.com/2026/film/global/diego-luna-nicolas-pereda-rodrigo-pla-morelia-film-festival-1236835320/
-
-A-list festival acclaimed pics from some of Mexico’s most celebrated talent, many of them female and first-timers, make up this year’s line-up at the Morelia Film Festival (FICM). Running October 16-25, the 24th FICM edition features such luminaries as actor-producer Diego Luna (“Andor”) in his fifth outing as a director in “Ashes,” which world premiered [ ]
-
-### Nowhere to Lay My Eyes Review: Kim Minhee Once More Gives a Melancholy Masterclass in a Hong Sangsoo Miniature
-Sat, 15 Aug 2026 11:49:32 +0000 — https://variety.com/2026/film/reviews/nowhere-to-lay-my-eyes-review-1236835338/
-
-The death-and-taxes certainty of Hong Sangsoo s filmography — comparable to Woody Allen s prime career run in its regularity, consistency and recurrence of ideas and actors across a gently varying tonal spectrum — has lately been infused with some mild unpredictability. Earlier this year, his Berlinale premiere The Day She Returns continued an occasional experimental jag [ ]
-
-### ‘A Chocolate Christmas,’ a Brazilian Holiday Romantic Drama, Set to Shoot in Gramado and New York From December
-Sat, 15 Aug 2026 10:52:36 +0000 — https://variety.com/2026/film/global/paulo-nascimento-a-chocolate-christmas-gramado-new-york-1236835366/
-
-GRAMADO, Brazil Vet Brazilian helmer-producer Paulo Nascimento will lense “A Chocolate Christmas,” a Portuguese-language holiday-themed feature film in the mountain resort of Gramado, in southern Brazil, and New York City, he told Variety. The film will shoot over December and January. Nascimento is set announce the film project t his panel on Sunday at [ ]
-
-### Urša Menart Recalls Finding Inspiration on Influencers’ Fake Tragic Life Stories for Intimate Dramedy ‘Everything That’s Wrong With You’
-Sat, 15 Aug 2026 08:53:04 +0000 — https://variety.com/2026/film/global/ursa-menart-everything-thats-wrong-with-you-influencers-1236833609/
-
-Right before the COVID-19 pandemic shut down the world, Slovenian director Urša Menart came across a curious phenomenon on the internet: young people, mostly women, making up tragic life stories to gather the increasingly sparse attention span of their followers. Even more curiously, the director realized people would often drop everything to visit these micro-influencers. [ ]
-
 ## The Hollywood Reporter
+
+### Hollywood Flashback: When Dudley Moore Intoxicated Audiences in ‘Arthur’
+Sat, 15 Aug 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/dudley-moore-author-1236671092/
+
+The modestly budgeted 1981 comedy about an alcoholic playboy who falls for a Liza Minnelli’s working-class gal became a surprise summer hit with the fourth largest box office haul of the year.
+
+### Where to Stream UFC 330: Makhachev vs. Machado Garry
+Sat, 15 Aug 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-ufc-330-livestream-paramount-plus-free-trial-1236674118/
+
+The event takes place on Saturday, Aug. 15, at the Xfinity Mobile Arena in Philadelphia. Here's how to watch online, including for free.
+
+### ‘Paradise’ Executive Producer Explains Why Julianne Nicholson’s Character Had to Go Down with the Bunker in Season 2
+Sat, 15 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/paradise-producer-sinatra-sacrifice-season-two-finale-1236670575/
+
+“Her arc is one of my favorites of the whole show,” says John Hoberg of Sinatra.
+
+### The Playlist: Seventeen’s Vernon on His Hyperpop Roots, K-pop’s Evolution and What Inspired ‘V8’
+Sat, 15 Aug 2026 18:08:04 +0000 — https://www.hollywoodreporter.com/music/music-news/the-playlist-seventeen-vernon-hyperpop-k-pop-v8-interivew-1236674275/
+
+The 28-year-old rapper and member of the K-pop boy group Seventeen digs into the inspirations behind his new album ‘V8’ with fellow group member The 8 in this episode of The Playlist.
 
 ### Courtney Love Reveals Doctors Told Her She Was Going to Die in 2019: My Body Just Exploded
 Sat, 15 Aug 2026 17:45:40 +0000 — https://www.hollywoodreporter.com/news/general-news/courtney-love-doctors-told-her-she-was-going-to-die-1236674348/
@@ -84,27 +104,17 @@ Sat, 15 Aug 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 THR can unveil exclusive stills from the Rhys Ifans and Lily Rabe-starrer, set to make waves in competition at Edinburgh Film Festival.
 
-### Heated Rivalry, Hacks Top GALECA Dorian TV Awards Winners List
-Sat, 15 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-galeca-dorian-tv-awards-winners-1236673379/
-
-Additional special career honors were bestowed to Hannah Einbinder, with GALECA’s Wilde Wit Award, and Lisa Kudrow, who was named a GALECA TV Icon for her performance in 'The Comeback.'
-
-### BFI Boss Ben Roberts, Picturehouse s Clare Binns on Gen Z s Cinema Renaissance, AI Slop and British Indie Film: We re Not Great at Comedy
-Sat, 15 Aug 2026 11:36:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bfi-ben-roberts-clare-binns-edinburgh-film-obession-odyssey-1236674318/
-
-The pair spoke at Edinburgh Film Festival's keynote industry session on Saturday, lauding the work of 'Obsession,' 'The Odyssey,' and pondering the challenges that lie ahead for the U.K.'s independent film sector.
-
-### I Live in V.I., a Social Class Satire From Nigeria, Will Dive Into Urban Alienation and Gentrification
-Sat, 15 Aug 2026 07:20:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/i-live-in-v-i-social-satire-film-nigeria-locarno-open-doors-1236673552/
-
-Director Ugochukwu Azuya's project, inspired by his experience living in Lagos and its "materialistically driven, very classist society," was one of the films in development showcased at Locarno Open Doors.
-
-### Frozen 3 Royal Wedding Between Anna and Kristoff Is Crashed by New Villain in First-Look
-Sat, 15 Aug 2026 04:58:56 +0000 — https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/
-
-Idina Menzel, Kristen Bell, Josh Gad and Jonathan Groff are back for a new entry in the hit franchise, releasing Thanksgiving 2027.
-
 ## Deadline
+
+### Emmy Nominee Kristen Kish Wants ‘Top Chef’ To Cook Up More Prize Money Contenders TV Nominees Studio
+Sat, 15 Aug 2026 18:38:19 +0000 — https://deadline.com/2026/08/kristen-kish-top-chef-prize-money-emmy-interview-1237040796/
+
+As the cost of groceries continues to rise, cooking in restaurants and at home has become more expensive. Kristen Kish, host of Top Chef, is well aware of this squeeze and wants the winners of the Bravo reality cooking show to be awarded more prize money for triumphing in the kitchen. “I was just talking [ ]
+
+### Ewan McGregor: The Actor Opens Up About His Career, His Return To Scotland Taking A Chance With Obi-Wan: “Deciding To Do ‘Star Wars’ Was Hard” – Edinburgh Film Festival
+Sat, 15 Aug 2026 18:00:00 +0000 — https://deadline.com/2026/08/ewan-mcgregor-obi-wan-kenobi-edinburgh-film-festival-1237041597/
+
+Ewan McGregor brought the house down at Edinburgh’s Central Hall las night with a once-in-a-lifetime re-enactment of his 1992 performance in Joe Orton’s play What the Butler Saw at Salisbury Playhouse. Fully clothed, the actor gave an athletic display of what occurred that fateful night, when, naked but for a policeman’s helmet over his groin, [ ]
 
 ### Anne Hathaway Knows You re Worried About The Fate Of Starbuck The Dog In The End Of Oak Street
 Sat, 15 Aug 2026 17:49:25 +0000 — https://deadline.com/2026/08/anne-hathaway-starbuck-end-of-oak-street-1237041593/
@@ -155,14 +165,4 @@ The Gay and Lesbian Entertainment Critics Association (GALECA) has voted on anot
 Sat, 15 Aug 2026 12:51:10 +0000 — https://deadline.com/2026/08/greatest-showman-musical-west-end-opening-date-1237041487/
 
 The Greatest Showman, the Disney Theatrical Group musical stage adaptation of the 2017 film, will premiere in London s West End at Theatre Royal Drury Lane in Spring 2027, Disney announced at the D23 event in Anaheim last night. Also revealed was the cast: The Greatest Showman will star Oliver Tompsett as P.T. Barnum, Samantha Barks [ ]
-
-### Zootopia 3 In Works At Disney; Ke Huy Quan Ginnifer Goodwin Reprising Roles D23
-Sat, 15 Aug 2026 05:03:23 +0000 — https://deadline.com/2026/08/zootopia-3-d23-1237041333/
-
-Following the massive success of the sequel, Disney is moving forward with Zootopia 3. The news of the next film was revealed at Disney s D23 event in Anaheim, with Ke Huy Quan joining Ginnifer Goodwin onstage to announce the new installment, which will focus on birds. Last year’s Zootopia 2 became the highest-grossing Hollywood animated [ ]
-
-### Frozen 3 First Look Teases Wedding Bells An Icy Villain From A Land More Wild And Dangerous Than Ever Before D23
-Sat, 15 Aug 2026 05:00:06 +0000 — https://deadline.com/2026/08/frozen-3-footage-d23-anna-wedding-new-villain-1237041024/
-
-The filled Honda Center got a look at Frozen 3 and let s just say, there is quite a lot in store. First of all, are those wedding bells, we hear? Indeed, they are! Kristen Bell confirmed at Disney s D23 entertainment showcase on Friday night that Anna will be marrying her mountain man Kristoff (Jonathan [ ]
 

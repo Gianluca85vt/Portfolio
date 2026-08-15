@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-15T17:58:19.967Z
+# Games — harvested 2026-08-15T19:04:40.819Z
 
 ## Eurogamer
 
@@ -100,6 +100,11 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### After Several PS Store Knock-Offs, the Real TCG Card Shop Simulator Hits PS5 Next Month
+Sat, 15 Aug 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/08/after-several-ps-store-knock-offs-the-real-tcg-card-shop-simulator-hits-ps5-next-month
+
+Hit PC game coming soon. It's a pattern we've seen a few times now: A game arrives on PC, makes a splash, and the PS Store is flooded with cheap copycat clones trying to cash in on the hype. This is eventually followed by an official console port, and all becomes right with the world. Well, that's exactly the scenario we find ourselves in with TCG Card Shop Simulator . A viral PC hit that's been in early access for nearly two years, there are a handful of knock-offs available on PS5, but the real deal is finally coming to Sony's console. Read the full article on pushsquare.com
+
 ### Poll: Are You Hyped for These 10 New PS Plus Games?
 Sat, 15 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games
 
@@ -154,11 +159,6 @@ Update: No free PS5 upgrade for PS Plus owners. A new bundle containing every Ma
 Fri, 14 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/halo-campaign-evolved-ps5-update-lands-next-week-with-tech-fixes
 
 A better Sgt. Johnson and updates to Jackals. Halo Studios has announced a new PS5 update for Halo: Campaign Evolved will go live next week that includes a raft of fixes and technical improvements. There'll be more to the patch, but the developer has shared some of the biggest things it's fixing with the update: Read the full article on pushsquare.com
-
-### You ll Have to Wait Until 2028 to Play PS5 s Shiniest, Jankiest Sci-Fi Adventure
-Fri, 14 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/youll-have-to-wait-until-2028-to-play-ps5s-shiniest-jankiest-sci-fi-adventure
-
-New Neo Berlin 2087 trailer just dropped. You may remember Neo Berlin 2087 , a game that's been mystifying PS5 fans since its announcement back in 2023. Well, this cyberpunk detective thriller has just released a new trailer ahead of Gamescom, and unfortunately, there's still quite a wait before we get to experience it; the game's slated for launch in 2028. Read the full article on pushsquare.com
 
 ## Game Developer
 
