@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-15T19:04:40.819Z
+# Games — harvested 2026-08-15T19:58:26.315Z
 
 ## Eurogamer
 
@@ -166,9 +166,4 @@ A better Sgt. Johnson and updates to Jackals. Halo Studios has announced a new P
 Fri, 14 Aug 2026 10:51:43 GMT — https://www.gamedeveloper.com/business/scabby-versus-sharma-twitch-s-genai-admission-and-netflix-shutters-more-studios-patch-notes-65
 
 Plus: Big sales for Big Walk and some welcome preservation news.
-
-### Netflix closing Oxenfree developer Night School Studio and Moonloot Games
-Thu, 13 Aug 2026 19:54:15 GMT — https://www.gamedeveloper.com/business/netflix-closing-oxenfree-developer-night-school-studio-and-moonloot-games
-
-'We believe we can operate more strategically and efficiently within our Games business, and as a result are eliminating some additional Games roles'
 

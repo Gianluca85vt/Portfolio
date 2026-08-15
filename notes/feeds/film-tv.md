@@ -1,4 +1,4 @@
-# Film & TV — harvested 2026-08-15T19:04:40.819Z
+# Film & TV — harvested 2026-08-15T19:58:26.315Z
 
 ## Variety
 
@@ -54,6 +54,11 @@ Romanian director Florin Şerban s You Don t Belong Here, a somber study of anti
 
 ## The Hollywood Reporter
 
+### The TikTok Comment That Let Megan Gallagher Know She Nailed the Representation of Motherhood in ‘All Her Fault’
+Sat, 15 Aug 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/tiktok-comment-all-her-fault-motherhood-tv-1236672638/
+
+“Every little, tiny breadcrumb-y feminist thing that I put in there…everyone picked up on it,” says the writer and creator of the Peacock series.
+
 ### Hollywood Flashback: When Dudley Moore Intoxicated Audiences in ‘Arthur’
 Sat, 15 Aug 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/dudley-moore-author-1236671092/
 
@@ -99,12 +104,17 @@ Sat, 15 Aug 2026 13:45:00 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 In the Filmmakers of the Present Competition, 'The Illusion of an Everlasting Summer' by Alessandra Sanguinetti won the Golden Leopard, with the film also receiving the first feature award.
 
-### “I’ve Disobeyed the Film God Laws”: Lindsey Ryan on Shooting Her Debut Feature at Sea, With Kids, a Boat and a Hamster
-Sat, 15 Aug 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/lindsey-ryan-capsized-edinburgh-rhys-ifans-lily-rabe-film-1236670841/
-
-THR can unveil exclusive stills from the Rhys Ifans and Lily Rabe-starrer, set to make waves in competition at Edinburgh Film Festival.
-
 ## Deadline
+
+### Smiling Friends Creators Painted The Office Alum Green, Then Sent Him Directly To A24’s ‘Primetime’ Contenders TV Nominees Studio
+Sat, 15 Aug 2026 19:45:00 +0000 — https://deadline.com/2026/08/smiling-friends-creators-interview-1237032365/
+
+Creed Bratton s commitment to his art was on full display on the set of Smiling Friends. Painting himself fully green for Le Voyage Incroyable de Monsieur Grenouille, an episode in the adult animated sitcom s third and final season that brought the show its first Emmy nomination, The Office alum must have hoped to get the [ ]
+
+### Dave Marsh Dies: Pioneering Rock Critic, Bruce Springsteen Biographer Was 76
+Sat, 15 Aug 2026 19:21:47 +0000 — https://deadline.com/2026/08/dave-marsh-dead-1237041638/
+
+Dave Marsh, the influential and widely read rock critic for Creem, The Village Voice and Rolling Stone and the author of the foundational Bruce Springsteen 1979 biography Born to Run, died Friday, August 14, at his home in Connecticut. He was 76. His death, reported by Deadline sister publication Billboard and confirmed on Facebook by [ ]
 
 ### Emmy Nominee Kristen Kish Wants ‘Top Chef’ To Cook Up More Prize Money Contenders TV Nominees Studio
 Sat, 15 Aug 2026 18:38:19 +0000 — https://deadline.com/2026/08/kristen-kish-top-chef-prize-money-emmy-interview-1237040796/
@@ -155,14 +165,4 @@ In conversation with Clare Binns, managing director of Picturehouse Cinemas, at 
 Sat, 15 Aug 2026 13:19:25 +0000 — https://deadline.com/2026/08/bbc-subpoena-defamation-lawsuit-1237041495/
 
 The BBC is seeking to subpoena Donald Trump Jr, Ivanka Trump and Jared Kushner in its defense against a $10 billion defamation suit brought against the broadcaster by President Donald Trump. In court filings yesterday, the BBC alleges that Trump s son Donald Jr., daughter Ivanka and son-in-law Kushner have personal knowledge of the president s intentions [ ]
-
-### Dorian TV Awards 2026 Winners Include Heated Rivalry , Hacks Final Season More — Full List
-Sat, 15 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/2026-dorian-tv-awards-winners-list-heated-rivalry-hacks-1237033386/
-
-The Gay and Lesbian Entertainment Critics Association (GALECA) has voted on another year of the best in LGBTQ television. On Saturday, GALECA announced the winners of the LGBTQ journalist organization s 18th Dorian TV Awards, with shows like Heated Rivalry, Hacks, Pluribus and more taking some of the top honors. Rhea Seehorn, Jean Smart, François Arnaud [ ]
-
-### Disney s The Greatest Showman Musical Sets Spring 2027 West End Opening, Principal Cast
-Sat, 15 Aug 2026 12:51:10 +0000 — https://deadline.com/2026/08/greatest-showman-musical-west-end-opening-date-1237041487/
-
-The Greatest Showman, the Disney Theatrical Group musical stage adaptation of the 2017 film, will premiere in London s West End at Theatre Royal Drury Lane in Spring 2027, Disney announced at the D23 event in Anaheim last night. Also revealed was the cast: The Greatest Showman will star Oliver Tompsett as P.T. Barnum, Samantha Barks [ ]
 

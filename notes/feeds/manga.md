@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-15T19:04:40.819Z
+# Manga — harvested 2026-08-15T19:58:26.315Z
 
 ## Anime News Network
+
+### Plott' Announces Rakuraku Hanten Short Anime for September
+Sat, 15 Aug 2026 14:06:56 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/plott-announces-rakuraku-hanten-short-anime-for-september/.240605
+
+Mafia battle series to stream on YouTube
 
 ### Most Heretical Last Boss Queen: From Villainess to Savior Season 2 Anime Series Review
 Sat, 15 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/most-heretical-last-boss-queen/from-villainess-to-savior-season-2/anme-series/.240324
@@ -56,11 +61,6 @@ This entire episode feels like Zettour’s swansong—like he’s destined to di
 Fri, 14 Aug 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-12/.240570
 
 Ever since losing his memories, Subaru’s suspicion and paranoia have been in the driver's seat. Now, he's letting compassion take the wheel.
-
-### Smoking Behind the Supermarket with You ‒ Episode 6
-Fri, 14 Aug 2026 13:35:54 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-6/.240586
-
-This episode goes even further, exploring the anxieties these people face at different stages of their lives and how the other helps them overcome those hardships.
 
 ## Crunchyroll News
 
