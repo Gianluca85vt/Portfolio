@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-14T21:03:35.274Z
+# Tech — harvested 2026-08-15T05:04:00.559Z
 
 ## Ars Technica
 
@@ -178,6 +178,11 @@ Modern smartphones pack enough computing power to rival budget PCs. However, one
 
 ## Phoronix
 
+### AMD Posts Massive 109 Patch Series For GFX 12.1 RAS Support On Friday Evening
+Fri, 14 Aug 2026 21:01:22 -0400 — https://www.phoronix.com/news/AMD-GFX12.1-RAS-Patch-Series
+
+AMD has a tendency to send out large feature patch series for their open-source Linux drivers on Friday afternoons/evenings. Today we were greeted by a set of 109 patches working on RAS support for the upcoming AMD GFX12.1 target...
+
 ### D7VK 2.1 Brings Faster Load Times, More Performance Tweaks
 Fri, 14 Aug 2026 16:26:46 -0400 — https://www.phoronix.com/news/D7VK-2.1
 
@@ -232,9 +237,4 @@ KDE e.V. along with Linux PC vendor Kubuntu Focus and KDE-aligned consulting fir
 Thu, 13 Aug 2026 15:57:51 -0400 — https://www.phoronix.com/news/Linux-7.2-Best-Features
 
 With the Linux 7.2 kernel expected to be released on Sunday, 16 August, here is a look at some of the most interesting new features and changes to find with this next kernel version to be used by Ubuntu 26.10 and other upcoming Linux distribution releases...
-
-### Updated Coreboot/Dasharo For MSI PRO Z690-A / Z790-P Motherboards, Adds Overclocking
-Thu, 13 Aug 2026 15:08:39 -0400 — https://www.phoronix.com/news/New-Dasharo-2026-MSI-Intel-Z
-
-In addition to 3mdeb providing their Coreboot-based Dasharo built atop AMD openSIL on a Gigabyte EPYC server motherboard and recently making their first Dasharo release for an AMD Ryzen AM5 platform with the MSI PRO B850-P WIFI, the firmware consulting firm today released updated versions of their MSI PRO Z690-A and MSI PRO Z790-P Dasharo ports to those Intel Core motherboards...
 

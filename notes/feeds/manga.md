@@ -1,6 +1,26 @@
-# Manga — harvested 2026-08-14T21:03:35.274Z
+# Manga — harvested 2026-08-15T05:04:00.559Z
 
 ## Anime News Network
+
+### Kingdom Hearts The Series 'Anime' Announced for Disney+, Kingdom Hearts IV Game Launches in Late 2027 Including Coco World
+Fri, 14 Aug 2026 23:32:02 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/kingdom-hearts-the-series-anime-announced-for-disney-kingdom-hearts-iv-game-launches-in-late-2027-/.240595
+
+New trailer streamed for <cite>Kingdom Hearts IV</cite> featuring <cite>Coco</cite> world
+
+### Your Anime Rankings - Best of Summer 2026, Aug 5-11
+Fri, 14 Aug 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.240592
+
+<cite>Though I Am an Inept Villainess</cite> takes the top spot this week, with <cite>Goodbye, Lara</cite> a close second. Find out how your favorite shows fared in our weekly user rankings.
+
+### I Want to Love You Till Your Dying Day ‒ Episode 6
+Fri, 14 Aug 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-6/.240575
+
+Sometimes when you’re confronted with overwhelming amounts of trauma, you just need to cry.
+
+### North American Anime, Manga Releases, August 9-15
+Fri, 14 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/north-american-anime-manga-releases-august-9-15/.240460
+
+<cite>Dragon Ball Daima, Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved</cite> anime; <cite>Draw This, Then Die!, Hotel Inhumans</cite> manga ship
 
 ### Clevatess Season 2 ‒ Episode 6
 Fri, 14 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/clevatess-season-2/episode-6/.240319
@@ -41,26 +61,6 @@ Jeong-min Park will star as Yoo-hyun Han; other cast members include Sung-woo Ba
 Fri, 14 Aug 2026 11:10:29 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/the-prince-of-tennis-ii-u-17-world-cup-kessho-member-ketteisen-anime-reveals-promo-video-more-cast-/.240582
 
 Series casts Tasuku Hatanaka, Reiji Kawashima, Ryūho Nagaoka, Megumi Han for Spain's team
-
-### Naver WEBTOON Cooperates With Korea's MCST, Interpol to Take Down 3 English Webtoon, Manga Piracy Sites
-Fri, 14 Aug 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/naver-webtoon-cooperates-with-korea-mcst-interpol-to-take-down-3-english-webtoon-manga-piracy-sites/.240540
-
-3 sites collectively received more than 130 million visits annually
-
-### This Week in Games - Lots of Leftover Battle Bikinis
-Fri, 14 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-08-14/lots-of-leftover-battle-bikinis/.240468
-
-Jean-Karlo remembers the classic aesthetic of <cite>Valis</cite> and <cite>Battle Skin Panic</cite>.
-
-### Disney+ Releases Made in Korea Season 2 Live-Action Show's Prequel Webtoon
-Fri, 14 Aug 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/disney-releases-made-in-korea-season-2-live-action-show-prequel-webtoon/.240391
-
-Webtoon bridges 2 seasons, depicting events from 9-year period that led Baek toward center of power
-
-### See Ghost in the Shell's Reach Across Decades at Official Exhibition
-Fri, 14 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-08-14/see-ghost-in-the-shell-reach-across-decades-at-official-exhibition/.236857
-
-Want to experience Ghost in the Shell: The Exhibition yourself? The exhibition is currently at the Hyogo Prefectural Museum of Art until August 30.
 
 ## Crunchyroll News
 

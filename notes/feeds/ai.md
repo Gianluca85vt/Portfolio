@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-14T21:03:35.274Z
+# AI — harvested 2026-08-15T05:04:00.559Z
 
 ## OpenAI
 
@@ -24,9 +24,6 @@ Fri, 14 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/state-of-open-mode
 
 ### Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets
 Thu, 13 Aug 2026 17:16:04 GMT — https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
-
-### What We Learned by Reproducing 2,200 papers from ICML
-Thu, 13 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/icml-2026-open-reproductions
 
 ## Google DeepMind
 
