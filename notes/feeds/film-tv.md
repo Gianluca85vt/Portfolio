@@ -1,6 +1,11 @@
-# Film & TV — harvested 2026-08-16T05:12:29.913Z
+# Film & TV — harvested 2026-08-16T06:02:29.186Z
 
 ## Variety
+
+### Ranveer Singh, Kalyani Priyadarshan s Pralay, Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming
+Sun, 16 Aug 2026 05:41:00 +0000 — https://variety.com/2026/film/news/ranveer-singh-kalyani-priyadarshan-pralay-mumbai-filming-1236835508/
+
+Ranveer Singh s Pralay, an end-of-the-world action thriller, has begun filming in Mumbai. The film is produced by Ananya Birla s Birla Studios, Hansal Mehta and Sahil Saigal s True Story Films and Singh s Maa Kasam Films. Singh, who headlines the project, also serves as a producer on the film, which is directed by Jai Mehta. One of [ ]
 
 ### The Pitt, Hacks and Beef Among Astra TV Awards Winners
 Sun, 16 Aug 2026 05:00:00 +0000 — https://variety.com/2026/awards/news/the-pitt-hacks-beef-astra-tv-awards-winners-1236835570/
@@ -46,11 +51,6 @@ As part of James Gunn and Peter Safran s newly expanded DCU, a more grounded tak
 Sat, 15 Aug 2026 19:59:11 +0000 — https://variety.com/2026/film/festivals/how-would-you-get-this-movie-made-vachon-film4-bbc-1236835455/
 
 Would “Trainspotting” get financed today? Could Lynne Ramsay survive the jump from shorts to a first feature? And might “The Wicker Man,” once treated as a problem child, now look like exactly the kind of genre package buyers chase? That was the conceit of a lively session hosted by Wendy Mitchell, with Picturehouse’s creative director [ ]
-
-### Selena Gomez Slams Completely Meritless Wondermind Lawsuit, Will File to Dismiss Baseless Claims
-Sat, 15 Aug 2026 18:55:37 +0000 — https://variety.com/2026/tv/news/selena-gomez-slams-wondermind-lawsuit-file-to-dismiss-1236835495/
-
-Selena Gomez and her legal team have released a fiery statement after the “Only Murders in the Building” star was accused of defrauding investors in her mental health startup, Wondermind, in a federal lawsuit filed Thursday. “The allegations that Selena Gomez engaged in any way whatsoever in any purported ‘fraud’ or other wrongdoing are completely [ ]
 
 ## The Hollywood Reporter
 
@@ -106,6 +106,11 @@ The event takes place on Saturday, Aug. 15, at the Xfinity Mobile Arena in Phila
 
 ## Deadline
 
+### Disney Unveils Avengers Infinity Defense Lead By Ms. Marvel, Return Of Avengers Cast, Harrison Ford Models New Indiana Jones Attraction, Villains Land More At D23
+Sun, 16 Aug 2026 05:21:48 +0000 — https://deadline.com/2026/08/disneyland-new-attractions-avengers-1237041853/
+
+The happiest place on earth just got more global. At the D23’s Saturday Parks Panel, host Neil Patrick Harris gave way to several Walt Disney Imagineers who shared the next steps in the mouse house’s billion-dollar expansion.​In the U.S., executives and creative designers showed off a sneak peek of upcoming West Coast attractions at Disney [ ]
+
 ### Astra TV Awards 2026 Winners Include Hacks , The Pitt Shrinking — Full List
 Sun, 16 Aug 2026 05:00:00 +0000 — https://deadline.com/2026/08/astra-tv-awards-2026-winners-full-list-1237041860/
 
@@ -160,9 +165,4 @@ Everyone grab your webshooters because it s undoubtedly Spidey season. During a 
 Sat, 15 Aug 2026 20:52:52 +0000 — https://deadline.com/2026/08/slipknot-announces-sid-wilson-exit-1237041712/
 
 After reports of Sid Wilson s departure from Slipknot, the band has confirmed he is no longer part of the lineup. In a statement that briefly appeared on the band s website, they announced they would no longer be associated with the DJ and keyboardist, who joined the metal group in 1998 before they released their self-titled [ ]
-
-### Survivor Cast Creatives Look Back On Epic Season 50 How It s A Leaping-Off Point For S51 Beyond Contenders TV Nominees Studio
-Sat, 15 Aug 2026 20:45:00 +0000 — https://deadline.com/2026/08/survivor-cast-creatives-emmy-interview-season-50-future-1237040981/
-
-Survivor executive producer Matt Van Wagenen, casting director Jesse Tannenbaum, editor Brian Barefoot and returning cast member Tiffany Nicole Ervin dished on the CBS reality series incredible Season 50 and looked ahead at the upcoming Season 51 during an appearance at Deadline s Contenders Television: The Nominees Studio. Well, I think for us, Season 50, when [ ]
 
