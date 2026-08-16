@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-16T10:00:57.000Z
+# Games — harvested 2026-08-16T11:00:52.022Z
 
 ## Eurogamer
 
@@ -79,11 +79,6 @@ Fri, 14 Aug 2026 11:06:51 +0000 — https://www.gamesindustry.biz/2k-establishes
 
 2K has launched Small Axe Studios, an AAA development team based in Vancouver, Canada. Read more
 
-### Arc Raiders generates $114.9m during Nexon's Q2, sells an additional 800,000 units
-Fri, 14 Aug 2026 10:28:03 +0000 — https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-units
-
-Nexon's Q2 results exceeded expectations, driven by strong performances from its MapleStory franchise and the ongoing success of Embark Studios' Arc Raiders. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
@@ -152,8 +147,5 @@ Update: No free PS5 upgrade for PS Plus owners. A new bundle containing every Ma
 
 ## Game Developer
 
-### Scabby versus Sharma, Twitch's GenAI admission, and Netflix shutters more studios - Patch Notes #65
-Fri, 14 Aug 2026 10:51:43 GMT — https://www.gamedeveloper.com/business/scabby-versus-sharma-twitch-s-genai-admission-and-netflix-shutters-more-studios-patch-notes-65
-
-Plus: Big sales for Big Walk and some welcome preservation news.
+_Nothing in the last 48 hours._
 
