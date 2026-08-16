@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-16T08:02:20.508Z
+# Games — harvested 2026-08-16T09:04:48.149Z
 
 ## Eurogamer
 
@@ -83,16 +83,6 @@ Fri, 14 Aug 2026 11:06:51 +0000 — https://www.gamesindustry.biz/2k-establishes
 Fri, 14 Aug 2026 10:28:03 +0000 — https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-units
 
 Nexon's Q2 results exceeded expectations, driven by strong performances from its MapleStory franchise and the ongoing success of Embark Studios' Arc Raiders. Read more
-
-### "I don't see why people are scared of it" – ShipShaper developer Tomas Sala on why indies shouldn't be stressing about GTA6
-Fri, 14 Aug 2026 08:58:19 +0000 — https://www.gamesindustry.biz/i-dont-see-why-people-are-scared-of-it-why-shipshaper-developer-tomas-sala-doesnt-think-indies-should-be-stressing-about-gta6
-
-GTA6 is messing with Tomas Sala's plans. He'd intended to launch ShipShaper earlier this year, but "life got in the way," he tells GamesIndustry.biz . "And then I saw all this stress about, 'Oh my God, GTA is coming, you have to pack it before September'." Read more
-
-### Netflix shutters Night School Studio and Moonloot Games
-Fri, 14 Aug 2026 08:11:46 +0000 — https://www.gamesindustry.biz/netflix-shutters-night-school-studio-and-moonloot-games
-
-Netflix has closed Night School Studio and Helsinki-based Moonloot Games. Read more
 
 ## VG247
 

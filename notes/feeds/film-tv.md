@@ -1,6 +1,11 @@
-# Film & TV — harvested 2026-08-16T08:02:20.508Z
+# Film & TV — harvested 2026-08-16T09:04:48.149Z
 
 ## Variety
+
+### Shame and Money Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: It s a Look Into the Past and a Warning to the Future
+Sun, 16 Aug 2026 08:33:36 +0000 — https://variety.com/2026/film/global/shame-and-money-sundance-social-drama-kosovo-1236834517/
+
+Sundance Grand Jury Prize winner Visar Morina returns to the Sarajevo Film Festival — the scene of a previous triumph — with the biting social drama “Shame and Money,” which won the top prize in Park City earlier this year and is playing in the festival’s main competition. The director’s third feature wowed audiences at Sundance, [ ]
 
 ### Ranveer Singh, Kalyani Priyadarshan s Pralay, Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming
 Sun, 16 Aug 2026 05:41:00 +0000 — https://variety.com/2026/film/news/ranveer-singh-kalyani-priyadarshan-pralay-mumbai-filming-1236835508/
@@ -46,11 +51,6 @@ For “Sacred Creatures” director Frieda Luk, belief can be comforting, ridicu
 Sat, 15 Aug 2026 20:30:06 +0000 — https://variety.com/2026/tv/news/lanterns-creators-grounded-show-future-dcu-1236835494/
 
 As part of James Gunn and Peter Safran s newly expanded DCU, a more grounded take on the Green Lantern comics may surprise audiences who associate the character with the Ryan Reynolds film that received poor reviews back in 2011. But for co-creators Chris Mundy, Damon Lindelof and Tom King, Lanterns is all about going back [ ]
-
-### ‘How the F Would You Get This Movie Made in America?’ Christine Vachon, Film4, BBC Film Put ‘Trainspotting,’ ‘Ratcatcher’ and ‘The Wicker Man’ Through the 2026 Greenlight Test
-Sat, 15 Aug 2026 19:59:11 +0000 — https://variety.com/2026/film/festivals/how-would-you-get-this-movie-made-vachon-film4-bbc-1236835455/
-
-Would “Trainspotting” get financed today? Could Lynne Ramsay survive the jump from shorts to a first feature? And might “The Wicker Man,” once treated as a problem child, now look like exactly the kind of genre package buyers chase? That was the conceit of a lively session hosted by Wendy Mitchell, with Picturehouse’s creative director [ ]
 
 ## The Hollywood Reporter
 
