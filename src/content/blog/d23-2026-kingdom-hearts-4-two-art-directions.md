@@ -4,7 +4,6 @@ date: 2026-08-16
 category: Games
 cover: /img/blog/d23-2026-kingdom-hearts-4-two-art-directions/cover.svg
 excerpt: Four minutes of Coco, Donald and Goofy playable for the first time, and a release window Square Enix put a number on. The interesting part is what running the Land of the Dead and near-photoreal Quadratum in the same engine actually asks of the team.
-draft: true
 ---
 
 D23 is on in Anaheim as I write this — it runs **14 to 16 August** — and the
