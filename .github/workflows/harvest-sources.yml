@@ -6,10 +6,12 @@ name: Harvest source feeds
 # and commits them for the writer to read off disk.
 #
 # Runs at :45, so a fresh harvest is waiting when the writer fires on the hour.
+# One per writer slot and no more: harvesting hourly meant seventeen commits a
+# day of feed data for five runs that could read it.
 
 on:
   schedule:
-    - cron: '45 4-20 * * *'
+    - cron: '45 4,7,10,13,16 * * *'
   workflow_dispatch:
 
 permissions:
