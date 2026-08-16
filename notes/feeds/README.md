@@ -1,14 +1,14 @@
-# Source feeds — harvested 2026-08-16T11:00:52.022Z
+# Source feeds — harvested 2026-08-16T11:58:54.051Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
 own feed: headline, link, date, and their summary.
 
-- [Games](games.md) — 27 items
+- [Games](games.md) — 24 items
 - [Tech](tech.md) — 46 items
 - [3D](3d.md) — 11 items
 - [AI](ai.md) — 0 items
 - [Manga](manga.md) — 12 items
 - [Film & TV](film-tv.md) — 32 items
 
-Total: 128 items.
+Total: 125 items.

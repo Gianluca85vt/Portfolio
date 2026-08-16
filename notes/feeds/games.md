@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-16T11:00:52.022Z
+# Games — harvested 2026-08-16T11:58:54.051Z
 
 ## Eurogamer
 
@@ -52,16 +52,6 @@ Fri, 14 Aug 2026 13:19:08 +0000 — https://www.eurogamer.net/pokemon-pokopia-5m
 
 It looks like we've got another massive Pok&eacute;mon-flavoured hit on our hands. Nintendo and The Pok&eacute;mon Company have confirmed that Pok&eacute;mon Pokopia has sold more than five million units globally - a pretty impressive number given the game has been out for "just over four months". These sales include both physical and digital editions of the game. Read more
 
-### EA Sports FC might be getting a proper football game challenger, as 2K sets up new studio to make its "next blockbuster sports franchise"
-Fri, 14 Aug 2026 11:53:36 +0000 — https://www.eurogamer.net/2k-sports-new-studio-ea-sports-fc-football-challenger
-
-EA's relatively uncontested football crown may be seriously challenged again, as 2K Sports announces a brand new studio led by a former FIFA executive producer that's mandated to create the company's "next blockbuster sports franchise". Read more
-
-### Marvel Tōkon: Fighting Souls review
-Fri, 14 Aug 2026 11:28:24 +0000 — https://www.eurogamer.net/marvel-tokon-fighting-souls-review
-
-Whenever I see the words "spiritual successor" attached to any new game, I immediately get concerned. You set a bar in the minds of old fans that can prove impossible to reach. This is not the next great Marvel vs Capcom game. It's not a Marvel vs Capcom game at all, in fact. It is, however, the best tag fighter I've played in years. Read more
-
 ## GamesIndustry.biz
 
 ### Modern consumers crave "events", and the games industry needs to provide them | Opinion
@@ -73,11 +63,6 @@ For almost as long as the games industry has existed, the conventional wisdom ar
 Fri, 14 Aug 2026 13:47:08 +0000 — https://www.gamesindustry.biz/niko-partners-india-games-market-exceeds-1bn-forecast-to-reach-12bn-by-end-of-2026
 
 India's games market exceeded $1 billion in revenue for the first time in 2025, up 14.8% year over year to $1.04 billion. Read more
-
-### 2K establishes AAA sports developer Small Axe Studios
-Fri, 14 Aug 2026 11:06:51 +0000 — https://www.gamesindustry.biz/2k-establishes-aaa-sports-developer-small-axe-studios
-
-2K has launched Small Axe Studios, an AAA development team based in Vancouver, Canada. Read more
 
 ## VG247
 

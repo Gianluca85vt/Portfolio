@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-16T11:00:52.022Z
+# Manga — harvested 2026-08-16T11:58:54.051Z
 
 ## Anime News Network
+
+### Reincarnated as a Sword Season 2 Reveals September 30 Early Streaming Debut, Theme Songs in Trailer
+Sun, 16 Aug 2026 06:40:44 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/reincarnated-as-a-sword-season-2-reveals-september-30-early-streaming-debut-theme-songs-in-trailer/.240622
+
+Itsuki Fujioka to launch manga spinoff <cite>Tensei Shitara Ken Deshita My Dish</cite> on September 30
 
 ### Skip & Loafer Anime's 2nd Season Reveals April 2027 Debut in Teaser Video
 Sun, 16 Aug 2026 04:40:36 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/skip-and-loafer-anime-2nd-season-reveals-april-2027-debut-in-teaser-video/.240621
@@ -56,11 +61,6 @@ New trailer streamed for <cite>Kingdom Hearts IV</cite> featuring <cite>Coco</ci
 Fri, 14 Aug 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.240592
 
 <cite>Though I Am an Inept Villainess</cite> takes the top spot this week, with <cite>Goodbye, Lara</cite> a close second. Find out how your favorite shows fared in our weekly user rankings.
-
-### I Want to Love You Till Your Dying Day ‒ Episode 6
-Fri, 14 Aug 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-6/.240575
-
-Sometimes when you’re confronted with overwhelming amounts of trauma, you just need to cry.
 
 ## Crunchyroll News
 

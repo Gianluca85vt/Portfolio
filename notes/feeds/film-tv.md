@@ -1,6 +1,11 @@
-# Film & TV — harvested 2026-08-16T11:00:52.022Z
+# Film & TV — harvested 2026-08-16T11:58:54.051Z
 
 ## Variety
+
+### Locarno Winner Forgotten Spaceman Adds Khan Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)
+Sun, 16 Aug 2026 11:05:14 +0000 — https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/
+
+Forgotten Spaceman, the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno s Junior Jury Awards, has added Khan Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month. The new executive producers are Sharib Khan and Vikas Kumar [ ]
 
 ### Shame and Money Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: It s a Look Into the Past and a Warning to the Future
 Sun, 16 Aug 2026 08:33:36 +0000 — https://variety.com/2026/film/global/shame-and-money-sundance-social-drama-kosovo-1236834517/
@@ -46,11 +51,6 @@ After defending her undisputed women s heavyweight title against Franchon Crews-
 Sat, 15 Aug 2026 20:46:03 +0000 — https://variety.com/2026/film/festivals/director-frieda-luk-olivia-luccardi-sacred-creatures-1236835353/
 
 For “Sacred Creatures” director Frieda Luk, belief can be comforting, ridiculous, exhilarating and hard to explain. “I’m really fascinated by when people believe in something,” she tells Variety. “One person believes in something, and then a group of people, and then it slowly becomes this massive phenomenon. It goes viral.” That fascination drives Luk’s debut [ ]
-
-### Lanterns Bosses and Stars on How the Show s Grounded Approach Ushers in an Entirely Different Kind of Superhero
-Sat, 15 Aug 2026 20:30:06 +0000 — https://variety.com/2026/tv/news/lanterns-creators-grounded-show-future-dcu-1236835494/
-
-As part of James Gunn and Peter Safran s newly expanded DCU, a more grounded take on the Green Lantern comics may surprise audiences who associate the character with the Ryan Reynolds film that received poor reviews back in 2011. But for co-creators Chris Mundy, Damon Lindelof and Tom King, Lanterns is all about going back [ ]
 
 ## The Hollywood Reporter
 
