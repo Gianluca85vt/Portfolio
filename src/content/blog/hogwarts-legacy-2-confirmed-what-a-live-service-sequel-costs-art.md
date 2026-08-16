@@ -2,7 +2,7 @@
 title: Hogwarts Legacy 2 is officially real. The job listings are the more interesting news.
 date: 2026-08-16
 category: Games
-cover: /img/blog/hogwarts-legacy-2-confirmed-what-a-live-service-sequel-costs-art/cover.svg
+cover: /img/blog/hogwarts-legacy-2-confirmed-what-a-live-service-sequel-costs-art/shot-01.jpg
 excerpt: Warner Bros. confirmed the sequel in a shareholder letter, without a trailer or a date. What has me paying attention is a stack of Avalanche Software job postings pointing at multiplayer and live-service — because that changes what the environment art team has to build, not just what the story is about.
 ---
 
@@ -18,6 +18,11 @@ board for months now, largely unconnected to this letter until this week
 put a studio name and a project on it for certain.
 
 ## What is actually confirmed, and what is not
+
+<figure>
+  <img src="/img/blog/hogwarts-legacy-2-confirmed-what-a-live-service-sequel-costs-art/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Avalanche Software / Warner Bros. Games, via the official Steam page for Hogwarts Legacy</figcaption>
+</figure>
 
 **Confirmed:** the sequel is in development, and Warner Bros. considers it
 important enough to name specifically to shareholders — a step it did not
