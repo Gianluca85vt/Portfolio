@@ -1,4 +1,4 @@
-# Film & TV — harvested 2026-08-16T06:02:29.186Z
+# Film & TV — harvested 2026-08-16T07:19:22.065Z
 
 ## Variety
 
@@ -54,6 +54,11 @@ Would “Trainspotting” get financed today? Could Lynne Ramsay survive the jum
 
 ## The Hollywood Reporter
 
+### Too Much Music Is a Doc Project About Ghanaian Keyboardist Kiki Gyan – and About Who Controls Artists Narratives
+Sun, 16 Aug 2026 06:59:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/too-much-music-doc-film-ghana-kiki-gyan-locarno-open-doors-1236673554/
+
+Director Aseye Fiagbe grew up with his music, thanks to the band Osibis, but about his story, she basically only knew how he died. "That bothered me," she recalls about the inspiration for the doc.
+
 ### Disney s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News
 Sun, 16 Aug 2026 04:57:22 +0000 — https://www.hollywoodreporter.com/business/business-news/disneys-experiences-tomorrowland-figment-refresh-d23-1236673154/
 
@@ -98,11 +103,6 @@ Sat, 15 Aug 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-feat
 Sat, 15 Aug 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/dudley-moore-author-1236671092/
 
 The modestly budgeted 1981 comedy about an alcoholic playboy who falls for a Liza Minnelli’s working-class gal became a surprise summer hit with the fourth largest box office haul of the year.
-
-### Where to Stream UFC 330: Makhachev vs. Machado Garry
-Sat, 15 Aug 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-ufc-330-livestream-paramount-plus-free-trial-1236674118/
-
-The event takes place on Saturday, Aug. 15, at the Xfinity Mobile Arena in Philadelphia. Here's how to watch online, including for free.
 
 ## Deadline
 
