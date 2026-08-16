@@ -1,4 +1,4 @@
-# Film & TV — harvested 2026-08-16T11:58:54.051Z
+# Film & TV — harvested 2026-08-16T13:58:15.694Z
 
 ## Variety
 
@@ -25,7 +25,7 @@ Hacks, The Pitt and Beef were the big winners of the 2026 Astra TV Awards. The P
 ### Monsters, Inc. Themed Land Will Open at Disney World in 2027
 Sun, 16 Aug 2026 04:11:12 +0000 — https://variety.com/2026/film/news/monsters-inc-themed-land-will-disney-world-2027-1236834775/
 
-THe Monsters, Inc. themed land, Monstropolis is set to open at Disney s Hollywood Studios at Disney World in 2027. The news was announced Saturday at D23. Vice President Creative, Walt Disney World Portfolio at Walt Disney Imagineering, Michael Hundgen told Variety, “We’re so excited to bring Monstropolis to life for fans.” Currently under construction, Monstropolis will [ ]
+The Monsters, Inc. themed land, Monstropolis is set to open at Disney s Hollywood Studios at Disney World in 2027. The news was announced Saturday at D23. Vice President Creative, Walt Disney World Portfolio at Walt Disney Imagineering, Michael Hundgen told Variety, “We’re so excited to bring Monstropolis to life for fans.” Currently under construction, Monstropolis [ ]
 
 ### RuPaul s Drag Race, All Stars and Untucked Renewed for New Seasons at MTV and Paramount+
 Sun, 16 Aug 2026 00:00:00 +0000 — https://variety.com/2026/tv/news/rupaul-drag-race-all-stars-untucked-renewed-mtv-paramount-1236834928/
@@ -106,6 +106,11 @@ The modestly budgeted 1981 comedy about an alcoholic playboy who falls for a Liz
 
 ## Deadline
 
+### ‘Borges And Me’ Review: Marc Turtletaub’s Hallucinatory ’70s Road Trip Is Smart, Literary And Playful – Edinburgh Film Festival
+Sun, 16 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/borges-and-me-review-marc-turtletaub-fionn-whitehead-alan-cumming-1237042032/
+
+Sometimes it feels like the growing subset of films set in the stuffy British academic world of the early ’70s deserve a genre all to themselves. It’s a very interesting visual paradox; young people going out into the world to discover and further themselves in an environment that s been stained nicotine-brown by the chain-smokers of [ ]
+
 ### Disney Unveils Avengers Infinity Defense Lead By Ms. Marvel, Return Of Avengers Cast, Harrison Ford Models New Indiana Jones Attraction, Villains Land More At D23
 Sun, 16 Aug 2026 05:21:48 +0000 — https://deadline.com/2026/08/disneyland-new-attractions-avengers-1237041853/
 
@@ -160,9 +165,4 @@ Lindsay Hubbard, one of the stars of Bravo’s Summer House, was doing an on-cam
 Sat, 15 Aug 2026 21:26:43 +0000 — https://deadline.com/2026/08/all-things-spidey-d23-friendly-neighborhood-amazing-friends-1237040751/
 
 Everyone grab your webshooters because it s undoubtedly Spidey season. During a Saturday panel at D23 expo, a group of presenters that include Marvel studio s president Kevin Feige, Spider-Man: Brand New Day actor Jacob Batalon and Disney+ s Your Friendly Neighborhood Spider-Man showrunner Jeff Trammell hit the stage to celebrate 65 years of Spider-Man. Though Peter doesn t [ ]
-
-### Slipknot Announces Sid Wilson s Exit: We Wish Him The Best
-Sat, 15 Aug 2026 20:52:52 +0000 — https://deadline.com/2026/08/slipknot-announces-sid-wilson-exit-1237041712/
-
-After reports of Sid Wilson s departure from Slipknot, the band has confirmed he is no longer part of the lineup. In a statement that briefly appeared on the band s website, they announced they would no longer be associated with the DJ and keyboardist, who joined the metal group in 1998 before they released their self-titled [ ]
 

@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-16T11:58:54.051Z
+# Games — harvested 2026-08-16T13:58:15.694Z
 
 ## Eurogamer
 
@@ -47,22 +47,12 @@ Fri, 14 Aug 2026 14:17:44 +0000 — https://www.eurogamer.net/compulsion-games-s
 
 Developer Compulsion Games is now listed as the publisher of its beautiful, musical action adventure game South of Midnight on Steam, suggesting that its full detachment from the Xbox division is complete. Read more
 
-### Nintendo announces Pokémon Pokopia has sold over 5m copies, meaning that roughly one in four Switch 2 users now owns the game
-Fri, 14 Aug 2026 13:19:08 +0000 — https://www.eurogamer.net/pokemon-pokopia-5m-sales
-
-It looks like we've got another massive Pok&eacute;mon-flavoured hit on our hands. Nintendo and The Pok&eacute;mon Company have confirmed that Pok&eacute;mon Pokopia has sold more than five million units globally - a pretty impressive number given the game has been out for "just over four months". These sales include both physical and digital editions of the game. Read more
-
 ## GamesIndustry.biz
 
 ### Modern consumers crave "events", and the games industry needs to provide them | Opinion
 Fri, 14 Aug 2026 16:39:59 +0000 — https://www.gamesindustry.biz/modern-consumers-crave-events-and-the-games-industry-needs-to-provide-them-opinion
 
 For almost as long as the games industry has existed, the conventional wisdom around sequels has remained the same: strike while the iron is hot. If you have a hit game, ensure you get a sequel out the door before the public loses interest. If you have more than one hit in a row, that's a franchise, and those need a steady release cadence to ensure the brand's momentum doesn't falter. Read more
-
-### Niko Partners: India games market exceeds $1bn, forecast to reach $1.2bn by end of 2026
-Fri, 14 Aug 2026 13:47:08 +0000 — https://www.gamesindustry.biz/niko-partners-india-games-market-exceeds-1bn-forecast-to-reach-12bn-by-end-of-2026
-
-India's games market exceeded $1 billion in revenue for the first time in 2025, up 14.8% year over year to $1.04 billion. Read more
 
 ## VG247
 
@@ -124,11 +114,6 @@ Dates, times, and what to expect. Sony's latest State of Play is very nearly her
 Fri, 14 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/call-of-duty-modern-warfare-4s-ps5-beta-includes-campaign-mission-for-the-first-time
 
 Try out Entrenched level in PS5 beta. Activision has revealed its upcoming PS5 beta for Call of Duty: Modern Warfare 4 will include a single player campaign mission to try for the first time in series history. Alongside a selection of multiplayer modes and maps, and the new Warzone Resurgence map (called Zodiac), the beta will let you sample Entrenched, a level from the campaign. You can catch a quick tease of it below: Read the full article on pushsquare.com
-
-### Mafia Remake Joins The Old Country on PS5 in Full Series Collection with 60FPS, Visual Upgrades
-Fri, 14 Aug 2026 13:15:00 GMT — https://www.pushsquare.com/news/2026/08/mafia-remake-joins-the-old-country-on-ps5-in-full-series-collection-with-60fps-visual-upgrades
-
-Update: No free PS5 upgrade for PS Plus owners. A new bundle containing every Mafia game to date will launch tomorrow to coincide with the release of Mafia: The Old Country expansion Man of Honor . The Omertà Collection bundles together all three Definitive Editions of the original Mafia trilogy, The Old Country, and the Man of Honor DLC. Most importantly, however, the version of Mafia: Definitive Edition included is a new native PS5 edition sporting 60 frames-per-second support as well as "technical improvements". Read the full article on pushsquare.com
 
 ## Game Developer
 

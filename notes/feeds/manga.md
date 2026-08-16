@@ -1,6 +1,16 @@
-# Manga — harvested 2026-08-16T11:58:54.051Z
+# Manga — harvested 2026-08-16T13:58:15.694Z
 
 ## Anime News Network
+
+### Beauty and Monsters: A Chat with Anime Producer Ena Hamabe
+Sun, 16 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/beauty-and-monsters-a-chat-with-anime-producer-ena-hamabe/.240243
+
+Ena Hamabe helped bring to life stories like This Monster Wants to Eat Me and, most recently, I Want to Love You Till Your Dying Day. We were able to dive deeper into Hamabe's process for considering projects, as well as her thoughts on the stories that move people.
+
+### Sendai Books Licenses Amazoness Kiss, Never Mind Come Together Manga in English
+Sun, 16 Aug 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/sendai-books-licenses-amazoness-kiss-never-mind-come-together-manga-in-english/.240609
+
+Ishitsuyo launched <cite>Amazon Kiss</cite> in 2017
 
 ### Reincarnated as a Sword Season 2 Reveals September 30 Early Streaming Debut, Theme Songs in Trailer
 Sun, 16 Aug 2026 06:40:44 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/reincarnated-as-a-sword-season-2-reveals-september-30-early-streaming-debut-theme-songs-in-trailer/.240622
@@ -51,16 +61,6 @@ Yorushika performs "Kumo o Nukekazashimo e Watashidake"
 Sat, 15 Aug 2026 10:40:20 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/ace-of-diamond-act-ii-second-season-2nd-part-previewed-in-teaser/.240598
 
 2nd part of season will premiere in October
-
-### Kingdom Hearts 'Anime' Announced for Disney+, Kingdom Hearts IV Game Launches in Late 2027 Including Coco World
-Fri, 14 Aug 2026 23:32:02 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/kingdom-hearts-anime-announced-for-disney-kingdom-hearts-iv-game-launches-in-late-2027-including-/.240595
-
-New trailer streamed for <cite>Kingdom Hearts IV</cite> featuring <cite>Coco</cite> world
-
-### Your Anime Rankings - Best of Summer 2026, Aug 5-11
-Fri, 14 Aug 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.240592
-
-<cite>Though I Am an Inept Villainess</cite> takes the top spot this week, with <cite>Goodbye, Lara</cite> a close second. Find out how your favorite shows fared in our weekly user rankings.
 
 ## Crunchyroll News
 
