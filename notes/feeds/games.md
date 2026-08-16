@@ -1,6 +1,26 @@
-# Games — harvested 2026-08-16T13:58:15.694Z
+# Games — harvested 2026-08-16T16:59:07.720Z
 
 ## Eurogamer
+
+### Matthew McConaughey explains why he turned down the role of Joel in The Last of Us
+Sun, 16 Aug 2026 16:52:07 +0000 — https://www.eurogamer.net/matthew-mcconaughey-last-of-us-joel-turned-down
+
+Matthew McConaughey has explained why he ultimately passed on playing Joel in HBO's The Last of Us &ndash; a role that, of course, went to Pedro Pascal instead. Read more
+
+### Kingdom Hearts creator Tetsuya Nomura teases his role in the new anime series, tells fans to "let your imagination run wild"
+Sun, 16 Aug 2026 16:22:47 +0000 — https://www.eurogamer.net/kingdom-hearts-nomura-anime-series-tease-d23
+
+Kingdom Hearts creator Tetsuya Nomura has addressed the newly announced Kingdom Hearts anime series directly for the first time, though he's giving away very little. Read more
+
+### Halloween: The Game will get a digital release in New Zealand after all
+Sun, 16 Aug 2026 15:36:15 +0000 — https://www.eurogamer.net/halloween-the-game-new-zealand-digital-release-update
+
+Halloween: The Game will get a digital release in New Zealand after all, despite initially being lumped in with Australia's classification refusal. Read more
+
+### Saber CEO Matthew Karch apologises to writer he said he'd have "been happy to replace" with AI
+Sun, 16 Aug 2026 15:04:33 +0000 — https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco
+
+Saber Interactive CEO Matthew Karch has apologised to Stella Sacco, the writer at the centre of the Rideshare Stimulator AI controversy , after publicly saying he'd have been "happy to replace her with AI". Read more
 
 ### Simpsons creator Matt Groening seemingly lets slip that Hit & Run is coming back
 Sat, 15 Aug 2026 16:56:47 +0000 — https://www.eurogamer.net/simpsons-hit-and-run-groening-d23-tease
@@ -37,22 +57,9 @@ Sat, 15 Aug 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-pla
 
 Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, we all melt into puddles by our computers, but Dom also devotes themself to the new Fire Emblem; Connor gets enthusiastic about new fighting game on the block, Marvel T&omacr;kon; Chris can't stop thinking about the Star Wars XCOM-like game he played; and Bertie organises a Eurogamer community hike. Read more
 
-### UK video game industry charity football match raises over £63,000 for physically disabled gamers
-Fri, 14 Aug 2026 14:21:11 +0000 — https://www.eurogamer.net/special-effect-big-football-match-charity-50000
-
-Video game charity SpecialEffect has once again hosted its One Big Game football event, bringing developers from all across the UK games industry together to raise money for a good cause. And with the event now over, more than &pound;63,000 has been raised to help support physically disabled gamers. Read more
-
-### Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete
-Fri, 14 Aug 2026 14:17:44 +0000 — https://www.eurogamer.net/compulsion-games-south-of-midnight-publisher-xbox-restructuring
-
-Developer Compulsion Games is now listed as the publisher of its beautiful, musical action adventure game South of Midnight on Steam, suggesting that its full detachment from the Xbox division is complete. Read more
-
 ## GamesIndustry.biz
 
-### Modern consumers crave "events", and the games industry needs to provide them | Opinion
-Fri, 14 Aug 2026 16:39:59 +0000 — https://www.gamesindustry.biz/modern-consumers-crave-events-and-the-games-industry-needs-to-provide-them-opinion
-
-For almost as long as the games industry has existed, the conventional wisdom around sequels has remained the same: strike while the iron is hot. If you have a hit game, ensure you get a sequel out the door before the public loses interest. If you have more than one hit in a row, that's a franchise, and those need a steady release cadence to ensure the brand's momentum doesn't falter. Read more
+_Nothing in the last 48 hours._
 
 ## VG247
 
@@ -110,12 +117,7 @@ Sat, 15 Aug 2026 08:00:00 GMT — https://www.pushsquare.com/guides/when-is-the-
 
 Dates, times, and what to expect. Sony's latest State of Play is very nearly here, and this time, it's focusing wholly on a single game: Phantom Blade Zero . The Chinese action game has looked extremely promising for a long time now, and as it approaches its October launch date, developer S-GAME has prepared a new showing of its stylish action title. Read the full article on pushsquare.com
 
-### Call of Duty: Modern Warfare 4 s PS5 Beta Includes Campaign Mission for the First Time
-Fri, 14 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/call-of-duty-modern-warfare-4s-ps5-beta-includes-campaign-mission-for-the-first-time
-
-Try out Entrenched level in PS5 beta. Activision has revealed its upcoming PS5 beta for Call of Duty: Modern Warfare 4 will include a single player campaign mission to try for the first time in series history. Alongside a selection of multiplayer modes and maps, and the new Warzone Resurgence map (called Zodiac), the beta will let you sample Entrenched, a level from the campaign. You can catch a quick tease of it below: Read the full article on pushsquare.com
-
 ## Game Developer
 
-_Nothing in the last 48 hours._
+_Feed unavailable: HTTP 404_
 

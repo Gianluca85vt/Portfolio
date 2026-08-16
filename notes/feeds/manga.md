@@ -1,6 +1,21 @@
-# Manga — harvested 2026-08-16T13:58:15.694Z
+# Manga — harvested 2026-08-16T16:59:07.720Z
 
 ## Anime News Network
+
+### Shogakukan Announces Findings from 3rd-Party Investigation, Measures Company Will Take to Prevent Recurrence
+Sun, 16 Aug 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/shogakukan-announces-findings-from-3rd-party-investigation-measures-company-will-take-to-prevent-/.240287
+
+3rd-party panel finds Shogakukan "encouraged and supported" violation of victim's human rights
+
+### Farming Life in Another World 2 Anime Series Review
+Sun, 16 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/farming-life-in-another-world-2/anime-series/.240323
+
+What was mindless fun before is made even more mindless with this new season.
+
+### Witch Hat Atelier Wins Astra Award for Best Anime
+Sun, 16 Aug 2026 11:18:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/witch-hat-atelier-wins-astra-award-for-best-anime/.240625
+
+Ceremony held on Saturday in Los Angeles
 
 ### Beauty and Monsters: A Chat with Anime Producer Ena Hamabe
 Sun, 16 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/beauty-and-monsters-a-chat-with-anime-producer-ena-hamabe/.240243
@@ -46,21 +61,6 @@ Sat, 15 Aug 2026 20:26:18 -0400 — https://www.animenewsnetwork.com/news/2026-0
 Sat, 15 Aug 2026 14:06:56 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/plott-announces-rakuraku-hanten-short-anime-for-september/.240605
 
 Mafia battle series to stream on YouTube
-
-### Most Heretical Last Boss Queen: From Villainess to Savior Season 2 Anime Series Review
-Sat, 15 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/most-heretical-last-boss-queen/from-villainess-to-savior-season-2/anme-series/.240324
-
-With a lack of stakes and conflict, the villainess charm in this anime doesn’t quite work the second time around.
-
-### The Apothecary Diaries Season 3's Trailer Unveils October 2 Debut, More Cast, Opening Song
-Sat, 15 Aug 2026 11:04:26 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/the-apothecary-diaries-season-3-trailer-unveils-october-2-debut-more-cast-opening-song/.240600
-
-Yorushika performs "Kumo o Nukekazashimo e Watashidake"
-
-### Ace of Diamond Act II Second Season's 2nd Part Previewed in Teaser
-Sat, 15 Aug 2026 10:40:20 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/ace-of-diamond-act-ii-second-season-2nd-part-previewed-in-teaser/.240598
-
-2nd part of season will premiere in October
 
 ## Crunchyroll News
 

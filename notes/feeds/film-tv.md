@@ -1,6 +1,26 @@
-# Film & TV — harvested 2026-08-16T13:58:15.694Z
+# Film & TV — harvested 2026-08-16T16:59:07.720Z
 
 ## Variety
+
+### Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Spotted Filming Beatles Biopic at Iconic Abbey Road Crosswalk
+Sun, 16 Aug 2026 16:37:47 +0000 — https://variety.com/2026/film/news/paul-mescal-barry-keoghan-filming-beatles-biopic-abbey-road-1236835628/
+
+It wouldn’t be a Beatles movie without Abbey Road. In a video shared on social media, Harris Dickinson, Paul Mescal, Joseph Quinn and Barry Keoghan were shown recreating the iconic album cover for Sam Mendes’ multi-part Beatles biopic, titled “The Beatles – A Four-Film Cinematic Event.” Each film in the series will be from the [ ]
+
+### Box Office: Spider-Man: Brand New Day Remains No. 1 With $70 Million, End of Oak Street Debuts to $21 Million
+Sun, 16 Aug 2026 16:08:27 +0000 — https://variety.com/2026/film/box-office/spiderman-box-office-brand-new-day-dominates-end-of-oak-street-debut-1236834084/
+
+Dog days of summer? This year s August at the box office didn t get the memo. This popcorn season is ending with a bang rather than the usual whimper as Spider-Man: Brand New Day and The Odyssey continue to pack in crowds. Meanwhile, two new movies, Warner Bros. prehistoric sci-fi mystery “The End of Oak Street” [ ]
+
+### Spider-Man: Brand New Day Hits $2 Billion Worldwide in Three Weeks
+Sun, 16 Aug 2026 15:15:31 +0000 — https://variety.com/2026/film/box-office/spider-man-brand-new-day-2-billion-worldwide-box-office-second-fastest-milestone-1236834058/
+
+New day, new box office milestone for Sony s latest Spidey adventure. Spider-Man: Brand New Day has surpassed $2 billion in global ticket sales, eclipsing the rare benchmark after just three weekends of release. The comic book adventure, starring Tom Holland as Marvel s neighborhood web-slinger, has grossed $785 million in North America and $1.23 billion overseas [ ]
+
+### Mission Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait
+Sun, 16 Aug 2026 14:14:50 +0000 — https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/
+
+Back in 2013, actor George MacKay and director Paul Wright paired up for For Those in Peril, an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men s place on the U.K. industry ones to watch list. Since then, MacKay s career has gone from strength to strength, while Wright [ ]
 
 ### Locarno Winner Forgotten Spaceman Adds Khan Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)
 Sun, 16 Aug 2026 11:05:14 +0000 — https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/
@@ -25,34 +45,29 @@ Hacks, The Pitt and Beef were the big winners of the 2026 Astra TV Awards. The P
 ### Monsters, Inc. Themed Land Will Open at Disney World in 2027
 Sun, 16 Aug 2026 04:11:12 +0000 — https://variety.com/2026/film/news/monsters-inc-themed-land-will-disney-world-2027-1236834775/
 
-The Monsters, Inc. themed land, Monstropolis is set to open at Disney s Hollywood Studios at Disney World in 2027. The news was announced Saturday at D23. Vice President Creative, Walt Disney World Portfolio at Walt Disney Imagineering, Michael Hundgen told Variety, “We’re so excited to bring Monstropolis to life for fans.” Currently under construction, Monstropolis [ ]
+The Monsters, Inc. themed land, Monstropolis, is set to open at Disney s Hollywood Studios at Disney World in 2027. The news was announced Saturday at D23. Vice President Creative, Walt Disney World Portfolio at Walt Disney Imagineering, Michael Hundgen told Variety, “We’re so excited to bring Monstropolis to life for fans.” Currently under construction, Monstropolis [ ]
 
 ### RuPaul s Drag Race, All Stars and Untucked Renewed for New Seasons at MTV and Paramount+
 Sun, 16 Aug 2026 00:00:00 +0000 — https://variety.com/2026/tv/news/rupaul-drag-race-all-stars-untucked-renewed-mtv-paramount-1236834928/
 
 Shantay you stay! RuPaul s Drag Race, All Stars and Untucked have all been renewed for new seasons at MTV and Paramount+. The franchise s main show, RuPaul’s Drag Race will return to MTV for its 19th season. This follows a successful season 18 which delivered double-digit growth over the previous season and set a new franchise [ ]
 
-### Disney Leaders Talk Streaming Strategy and Growth Drivers: Sports, Local Language, Vertical Media and Emerging Formats
-Sat, 15 Aug 2026 23:30:24 +0000 — https://variety.com/2026/tv/news/d23-espn-disney-international-eric-schrier-carol-choi-1236835550/
-
-Amid a torrent of fan-friendly news about Disney projects across the media spectrum, Disney leadership took time on the first day of the three-day D23 fan fest weekend in Anaheim for panels that offered a behind the scenes look at the Mouse House s business strategies and vision for driving growth in the streaming era. One [ ]
-
-### Slipknot Confirms Sid Wilson’s Sudden Exit: We Wish Him the Best
-Sat, 15 Aug 2026 21:41:30 +0000 — https://variety.com/2026/music/news/slipknot-confirms-sid-wilson-sudden-exit-1236835546/
-
-Slipknot is officially parting ways with Sid Wilson, who had been part of the group for nearly 30 years. Effective immediately, Slipknot will no longer be associated with Sid Wilson, the band posted on its Instagram account in a post that has since been taken down. We wish him the best in his future endeavors. [ ]
-
-### Here s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online
-Sat, 15 Aug 2026 21:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-claressa-shields-vs-kaye-scott-boxing-live-online-1236833217/
-
-After defending her undisputed women s heavyweight title against Franchon Crews-Dezurn back in February, American boxer Claressa Shields drops in weight class to middleweight to challenge WBA and WBC champion Australian Kaye Scott. The bout is scheduled for 10 rounds. On Saturday, Aug. 15, Shields (18-0-0) vs. Scott (5-1-1) takes place at State Farm Arena in [ ]
-
-### Director Frieda Luk on Olivia Luccardi’s ‘Sacred Creatures’ Role and the Fine Line Between ‘Crazy’ and ‘Enlightened’
-Sat, 15 Aug 2026 20:46:03 +0000 — https://variety.com/2026/film/festivals/director-frieda-luk-olivia-luccardi-sacred-creatures-1236835353/
-
-For “Sacred Creatures” director Frieda Luk, belief can be comforting, ridiculous, exhilarating and hard to explain. “I’m really fascinated by when people believe in something,” she tells Variety. “One person believes in something, and then a group of people, and then it slowly becomes this massive phenomenon. It goes viral.” That fascination drives Luk’s debut [ ]
-
 ## The Hollywood Reporter
+
+### Nick Reiner Blocked From Trust Fund Due to Slayer Statute Amid Charges For Parents Murder
+Sun, 16 Aug 2026 15:42:52 +0000 — https://www.hollywoodreporter.com/news/general-news/nick-reiner-blocked-trust-fund-charges-parents-murder-1236674564/
+
+Trustees opposed Reiner's petition to access the $1.5 million trust fund because he is accused of killing his parents.
+
+### Spider-Man: Brand New Day Hits $2B Globally to Top No Way Home as Sony s Biggest Release
+Sun, 16 Aug 2026 15:37:59 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/
+
+Tom Holland's superhero juggernaut collected $70 million domestically in its third weekend, alongside the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'
+
+### It Was a Bumpy Ride! : Jack Rowan and Director Kieron J. Walsh on the Many Lives of Head-Bopping, Troubles-Set Skintown
+Sun, 16 Aug 2026 15:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/jack-rowan-kieron-j-walsh-interview-skintown-film-edinburgh-1236670964/
+
+The English actor and Irish filmmaker arrive at Edinburgh Film Festival with one of the most raucous indies of the year, backdropped by '90s rave culture and war-weary Northern Ireland: "It's not really been recorded — what it was like for young people to grow up there."
 
 ### Too Much Music Is a Doc Project About Ghanaian Keyboardist Kiki Gyan – and About Who Controls Artists Narratives
 Sun, 16 Aug 2026 06:59:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/too-much-music-doc-film-ghana-kiki-gyan-locarno-open-doors-1236673554/
@@ -89,22 +104,27 @@ Sat, 15 Aug 2026 21:46:49 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 The female ex-ABC News staffer also alleges the network denied her medical accommodations.
 
-### ‘The Beast in Me’ Showrunner Knows That the Violent Murder Scene Was a “Potential Tune-Out Point” For Some Viewers
-Sat, 15 Aug 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/howard-gordon-the-beast-in-me-1236672642/
-
-“Maybe some people tuned in extra because of it. It’s hard to tell,” says Howard Gordon.
-
-### The TikTok Comment That Let Megan Gallagher Know She Nailed the Representation of Motherhood in ‘All Her Fault’
-Sat, 15 Aug 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/tiktok-comment-all-her-fault-motherhood-tv-1236672638/
-
-“Every little, tiny breadcrumb-y feminist thing that I put in there…everyone picked up on it,” says the writer and creator of the Peacock series.
-
-### Hollywood Flashback: When Dudley Moore Intoxicated Audiences in ‘Arthur’
-Sat, 15 Aug 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/dudley-moore-author-1236671092/
-
-The modestly budgeted 1981 comedy about an alcoholic playboy who falls for a Liza Minnelli’s working-class gal became a surprise summer hit with the fourth largest box office haul of the year.
-
 ## Deadline
+
+### Dolly Parton Misses Dollywood Ride Opening Amid Ongoing Health Issues : See You Down The Road
+Sun, 16 Aug 2026 16:22:09 +0000 — https://deadline.com/2026/08/dolly-parton-misses-dollywood-ride-opening-health-issues-1237042074/
+
+As Dollywood opens its latest attraction, NightFlight Expedition, Dolly Parton is contending with ongoing health issues. On Friday, the 11x Grammy winner virtually greeted guests of her Nashville park to let them know that her doctor clipped my wings and advised her against attending the opening of the new coaster in the Tennessee theme park. [ ]
+
+### Spider-Man: Brand New Day $70M Is Second-Best 3rd Weekend Ever; Odyssey Sails Past Half Billion, Dino Pics $20M+ Apiece Box Office Update
+Sun, 16 Aug 2026 15:50:00 +0000 — https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/
+
+SUNDAY AM WRITETHRU after Saturday posts: Spider-Man: Brand New Day posted the second-best third weekend ever at the domestic box office with $70M -51%, which takes its running cume to $785.8M. By end of today, Brand New Day will rank as the fourth highest grossing domestic movie of all-time behind Force Awakens ($936.6M), Avengers: Endgame [ ]
+
+### Spider-Man: Brand New Day Becomes Second-Fastest To Cross $2B At Global Box Office
+Sun, 16 Aug 2026 15:15:51 +0000 — https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-2-1237042050/
+
+Holy cow! Or whatever kind of Holy is yelled out in a comic book, but Sony/Marvel Studio s Spider-Man: Brand New Day crossed the $2 billion global mark, becoming the second fastest movie to do so and the eighth movie to ever cross that benchmark. Brand New Day pulls off this feat in 17 days while [ ]
+
+### Mira Sorvino Calls Romy Michele 2 Co-Star Lisa Kudrow A Great Acting Partner Reveals Why Film Has Withstood The Test Of Time
+Sun, 16 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/mira-sorvino-romy-and-michele-lisa-kudrow-d23-1237042021/
+
+Mira Sorvino and Lisa Kudrow are reprising their roles from Romy and Michele s High School Reunion for the sequel. The duo was at D23: The Ultimate Disney Fan Event in Anaheim, California, to preview Romy and Michele 2, which they both executive produce. With the sequel premiering 30 years after the original was released, Sorvino [ ]
 
 ### ‘Borges And Me’ Review: Marc Turtletaub’s Hallucinatory ’70s Road Trip Is Smart, Literary And Playful – Edinburgh Film Festival
 Sun, 16 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/borges-and-me-review-marc-turtletaub-fionn-whitehead-alan-cumming-1237042032/
@@ -145,24 +165,4 @@ EXCLUSIVE: Former Saturday Night Live writer/performer John Higgins, member of t
 Sat, 15 Aug 2026 23:03:01 +0000 — https://deadline.com/2026/08/mason-thames-mckenna-grace-filmed-nimrods-regretting-you-1237041798/
 
 Nearly a year after they first appeared onscreen together in Regretting You, Mason Thames and McKenna Grace are playing romantic opposites again. Following Colleen Hoover romance s premiere last October, Thames recently revealed he had already worked with Grace on the Green Day-inspired movie Nimrods, which is now playing in theaters. So we did Green Day [ ]
-
-### Rob Rausch Played It Cool On ‘The Traitors’ But His Co-Stars Think “Mr. America” Was A “Bad Boy” Contenders TV Nominees Studio
-Sat, 15 Aug 2026 22:15:00 +0000 — https://deadline.com/2026/08/the-traitors-season-4-contestants-emmy-interview-1237041716/
-
-Rob Rausch, a handsome snake-wrangler from Alabama, was standing a few feet away from Maura Higgins, the former Love Islander, next to the Traitors’ roundtable. Showing little emotion, he finally revealed that he had double-crossed her to win more than $220,000. “I was so fooled by you, you absolute *sshole, you pinky promised,” Higgins says [ ]
-
-### Scott Foley Returning To Scrubs As Sean Kelly In Season 2 Of ABC Revival To Revisit Classic Storyline
-Sat, 15 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/scott-foley-returning-scrubs-sean-kelly-season-2-revival-1237041064/
-
-EXCLUSIVE: Cue the Nobody cares, Sean memes Scott Foley is coming back to Scrubs. He will reprise his fan-favorite character Sean Kelly on the upcoming second season of the ABC revival. Foley s return is being announced today at D23 s Scrubs: Scrubbing Back panel moderated by Foley and featuring series stars/executive producers Zach Braff (John [ ]
-
-### ‘Summer House’ Enters A “New Chapter” After Landing Its First Emmy Recognition Contenders TV Nominees Studio
-Sat, 15 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/summer-house-season-10-emmy-interview-1237041687/
-
-Lindsay Hubbard, one of the stars of Bravo’s Summer House, was doing an on-camera interview for a different reality show when shocking news broke that two of her Summer House castmates had gotten together. At the end of March, Amanda Batula, who was still married to Kyle Cooke, and West Wilson, who had previously dated [ ]
-
-### All Things Spidey At D23: Tom Holland, Anniversary Comic Book, Friendly Neighborhood Sneak-Peak, Amazing Friends Renewal Upcoming Special Spidey and the Avengers: Halloween Team-Up!
-Sat, 15 Aug 2026 21:26:43 +0000 — https://deadline.com/2026/08/all-things-spidey-d23-friendly-neighborhood-amazing-friends-1237040751/
-
-Everyone grab your webshooters because it s undoubtedly Spidey season. During a Saturday panel at D23 expo, a group of presenters that include Marvel studio s president Kevin Feige, Spider-Man: Brand New Day actor Jacob Batalon and Disney+ s Your Friendly Neighborhood Spider-Man showrunner Jeff Trammell hit the stage to celebrate 65 years of Spider-Man. Though Peter doesn t [ ]
 
