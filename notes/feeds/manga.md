@@ -1,8 +1,28 @@
-# Manga — harvested 2026-08-15T21:00:55.347Z
+# Manga — harvested 2026-08-16T05:12:29.913Z
 
 ## Anime News Network
 
-### Plott' Announces Rakuraku Hanten Short Anime for September
+### Toryumon Takeda's Doga Manga Ends in 7th Volume
+Sat, 15 Aug 2026 23:53:41 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/toryumon-takeda-doga-manga-ends-in-7th-volume/.240608
+
+Series about noble who dies, gets put in cyborg body debuted in October 2023
+
+### Patlabor the Case Files Game Debuts on September 17
+Sat, 15 Aug 2026 23:43:53 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/patlabor-the-case-files-game-debuts-on-september-17/.240599
+
+Game to launch for PS5, PC in Japanese, English, Simplified Chinese, Traditional Chinese, Korean
+
+### Boruto Manga Takes 1-Month Break
+Sat, 15 Aug 2026 23:09:24 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/boruto-manga-takes-1-month-break/.240585
+
+Manga returns in November issue that will ship on September 18
+
+### Kingdom Hearts IV Game Presents 4-Minute Trailer
+Sat, 15 Aug 2026 20:26:18 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/kingdom-hearts-iv-game-presents-4-minute-trailer/.240610
+
+<cite>Coco</cite> world, paper-thin version of Mickey teased with '100%' promise of 2027 release
+
+### Plott Announces Rakuraku Hanten Short Anime for September
 Sat, 15 Aug 2026 14:06:56 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/plott-announces-rakuraku-hanten-short-anime-for-september/.240605
 
 Mafia battle series to stream on YouTube
@@ -41,26 +61,6 @@ Sometimes when you’re confronted with overwhelming amounts of trauma, you just
 Fri, 14 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/north-american-anime-manga-releases-august-9-15/.240460
 
 <cite>Dragon Ball Daima, Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved</cite> anime; <cite>Draw This, Then Die!, Hotel Inhumans</cite> manga ship
-
-### Clevatess Season 2 ‒ Episode 6
-Fri, 14 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/clevatess-season-2/episode-6/.240319
-
-<i>Clevatess'</i> mix of raw <i>Heavy Metal</i> style and genuinely compelling worldbuilding has yet to get old. I'm not sure it ever will.
-
-### Exclusive: Nakama Press to Release Ace of the Diamond Baseball Manga in Omnibus Volumes
-Fri, 14 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/exclusive-nakama-press-to-release-ace-of-the-diamond-baseball-manga-in-omnibus-volumes/.240587
-
-1st 3-in-1 omnibus volume launches in English on March 23, 2027
-
-### Saga of Tanya the Evil II ‒ Episode 6
-Fri, 14 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/saga-of-tanya-the-evil-ii/episode-6/.240569
-
-This entire episode feels like Zettour’s swansong—like he’s destined to die before the credits roll.
-
-### Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 12
-Fri, 14 Aug 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-12/.240570
-
-Ever since losing his memories, Subaru’s suspicion and paranoia have been in the driver's seat. Now, he's letting compassion take the wheel.
 
 ## Crunchyroll News
 

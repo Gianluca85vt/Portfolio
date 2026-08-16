@@ -1,6 +1,31 @@
-# Film & TV — harvested 2026-08-15T21:00:55.347Z
+# Film & TV — harvested 2026-08-16T05:12:29.913Z
 
 ## Variety
+
+### The Pitt, Hacks and Beef Among Astra TV Awards Winners
+Sun, 16 Aug 2026 05:00:00 +0000 — https://variety.com/2026/awards/news/the-pitt-hacks-beef-astra-tv-awards-winners-1236835570/
+
+Hacks, The Pitt and Beef were the big winners of the 2026 Astra TV Awards. The Pitt took home the most trophies of the night with six. Those include for best drama series, streaming drama ensemble, actor in a drama series for Noah Wyle, supporting actor in a drama series for Patrick Ball, supporting actress [ ]
+
+### Monsters, Inc. Themed Land Will Open at Disney World in 2027
+Sun, 16 Aug 2026 04:11:12 +0000 — https://variety.com/2026/film/news/monsters-inc-themed-land-will-disney-world-2027-1236834775/
+
+THe Monsters, Inc. themed land, Monstropolis is set to open at Disney s Hollywood Studios at Disney World in 2027. The news was announced Saturday at D23. Vice President Creative, Walt Disney World Portfolio at Walt Disney Imagineering, Michael Hundgen told Variety, “We’re so excited to bring Monstropolis to life for fans.” Currently under construction, Monstropolis will [ ]
+
+### RuPaul s Drag Race, All Stars and Untucked Renewed for New Seasons at MTV and Paramount+
+Sun, 16 Aug 2026 00:00:00 +0000 — https://variety.com/2026/tv/news/rupaul-drag-race-all-stars-untucked-renewed-mtv-paramount-1236834928/
+
+Shantay you stay! RuPaul s Drag Race, All Stars and Untucked have all been renewed for new seasons at MTV and Paramount+. The franchise s main show, RuPaul’s Drag Race will return to MTV for its 19th season. This follows a successful season 18 which delivered double-digit growth over the previous season and set a new franchise [ ]
+
+### Disney Leaders Talk Streaming Strategy and Growth Drivers: Sports, Local Language, Vertical Media and Emerging Formats
+Sat, 15 Aug 2026 23:30:24 +0000 — https://variety.com/2026/tv/news/d23-espn-disney-international-eric-schrier-carol-choi-1236835550/
+
+Amid a torrent of fan-friendly news about Disney projects across the media spectrum, Disney leadership took time on the first day of the three-day D23 fan fest weekend in Anaheim for panels that offered a behind the scenes look at the Mouse House s business strategies and vision for driving growth in the streaming era. One [ ]
+
+### Slipknot Confirms Sid Wilson’s Sudden Exit: We Wish Him the Best
+Sat, 15 Aug 2026 21:41:30 +0000 — https://variety.com/2026/music/news/slipknot-confirms-sid-wilson-sudden-exit-1236835546/
+
+Slipknot is officially parting ways with Sid Wilson, who had been part of the group for nearly 30 years. Effective immediately, Slipknot will no longer be associated with Sid Wilson, the band posted on its Instagram account in a post that has since been taken down. We wish him the best in his future endeavors. [ ]
 
 ### Here s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online
 Sat, 15 Aug 2026 21:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-claressa-shields-vs-kaye-scott-boxing-live-online-1236833217/
@@ -27,32 +52,37 @@ Sat, 15 Aug 2026 18:55:37 +0000 — https://variety.com/2026/tv/news/selena-gome
 
 Selena Gomez and her legal team have released a fiery statement after the “Only Murders in the Building” star was accused of defrauding investors in her mental health startup, Wondermind, in a federal lawsuit filed Thursday. “The allegations that Selena Gomez engaged in any way whatsoever in any purported ‘fraud’ or other wrongdoing are completely [ ]
 
-### The State of Us Review: A Pair of Spirited Performances Lift a Familiar Yorkshire Tearjerker
-Sat, 15 Aug 2026 18:41:41 +0000 — https://variety.com/2026/film/reviews/the-state-of-us-review-1236835434/
-
-The weather being what it is in Yorkshire, a sunroof is not a top priority for most car buyers in that English county — but the tired hatchback driven by young slacker Frankie (Samuel Bottomley) has one. That s the first of a few improbabilities in The State of Us, an occasionally hokey but winningly sweet-natured [ ]
-
-### UFC 330 Livestream: Here s Where to Watch the Makhachev vs. Machado Garry Online for Free
-Sat, 15 Aug 2026 18:30:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-ufc-330-makhachev-vs-machado-garry-live-online-free-1236833641/
-
-After Max Holloway defeated Conor McGregor in a TKO in less than 70 second during UFC 329 in July, the Ultimate Fighting Championship travels from Las Vegas to Philadelphia for UFC 330. For the main event, Russian Islam Makhachev (28-1-0) defends his welterweight title belt against Irish fighter Ian Machado Garry (17-1-0) in a marquee [ ]
-
-### Dave Marsh, Bruce Springsteen Biographer and Rock Critic, Dies at 76
-Sat, 15 Aug 2026 18:02:21 +0000 — https://variety.com/2026/music/news/dave-marsh-dead-bruce-springsteen-born-to-run-1236835488/
-
-Dave Marsh, the music critic and biographer who documented the early days of Bruce Springsteen in his influential 1979 book “Born to Run,” died Friday in his Connecticut home. He was 76. Jim Rotolo, who hosts the Springsteen-fan cast “The Wild The Innocent” on SiriusXM, confirmed Marsh’s death in a Facebook post on Saturday [ ]
-
-### Adam Scott Says His Daughter s Acting Class Was Forced to Watch His Failed Office Audition as an Example of What Not to Do
-Sat, 15 Aug 2026 17:40:41 +0000 — https://variety.com/2026/tv/news/adam-scott-daughter-failed-office-audition-john-krasinski-1236835469/
-
-Once upon a time, Severance star Adam Scott auditioned for the beloved sitcom The Office. Years later, he s reliving the memories of that failed audition after his daughter s acting teacher had the class compare Scott s audition tape to John Krasinski’s successful tape. “He put it to the class like, ‘Okay. Let’s discuss why he got the job, [ ]
-
-### Locarno: Marco Cavazzin s Mutrion, Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award
-Sat, 15 Aug 2026 16:24:57 +0000 — https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/
-
-Mutrion, a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival s Pardi di Domani (Leopards of Tomorrow) section. Mutrion, which is the only Italian entry in the section, stars Manfredi Marini, who previously starred in Giovanni Tortorici s Nineteen, and Giulio Maroncelli and is produced [ ]
-
 ## The Hollywood Reporter
+
+### Disney s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News
+Sun, 16 Aug 2026 04:57:22 +0000 — https://www.hollywoodreporter.com/business/business-news/disneys-experiences-tomorrowland-figment-refresh-d23-1236673154/
+
+Thomas Mazloum spoke to THR in connection with the D23 fan event in Anaheim this weekend.
+
+### Netflix Fires Back Against Tyra Banks America s Next Top Model Docuseries Defamation Lawsuit
+Sun, 16 Aug 2026 03:03:56 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-tyra-banks-antm-defamation-lawsuit-dismiss-1236674506/
+
+"Banks understands editorial discretion. She created, hosted, and executive produced 24 seasons of ANTM, making the same kinds of editorial decisions she now attacks — what footage to include, what to omit, and how to present competing narratives," the motion reads.
+
+### RuPaul s Drag Race Renewed for Season 19 at MTV
+Sun, 16 Aug 2026 00:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/rupauls-drag-race-renewal-season-19-mtv-1236674246/
+
+The franchise's 'All Stars' spinoff was also renewed by Paramount+.
+
+### Disney and Epic Games Launch Game That Connects Star Wars Theme Park Ride to New Fortnite Adventure
+Sat, 15 Aug 2026 23:30:00 +0000 — https://www.hollywoodreporter.com/business/digital/disney-epic-games-star-wars-theme-park-ride-fortnite-1236674132/
+
+Visitors to the 'Millennium Falcon: Smuggler's Run' attraction in Orlando or Anaheim can accept a mission that will earn rewards in the 'Fortnite' extension of the ride.
+
+### Selena Gomez s Attorney Fires Back at Wondermind Lawsuit: Completely Meritless
+Sat, 15 Aug 2026 22:49:08 +0000 — https://www.hollywoodreporter.com/news/general-news/selena-gomez-responds-wondermind-lawsuit-completely-meritless-1236674411/
+
+"We will vigorously defend these false allegations and indeed are filing a motion to dismiss the baseless claims against her," the singer-actress' attorney said in a statement to People.
+
+### CBS News Chief Correspondent Matt Gutman Accused of Harassment in Wrongful-Termination Suit by Former ABC News Producer
+Sat, 15 Aug 2026 21:46:49 +0000 — https://www.hollywoodreporter.com/tv/tv-news/cbs-news-matt-gutman-accused-harassment-abc-news-1236674408/
+
+The female ex-ABC News staffer also alleges the network denied her medical accommodations.
 
 ### ‘The Beast in Me’ Showrunner Knows That the Violent Murder Scene Was a “Potential Tune-Out Point” For Some Viewers
 Sat, 15 Aug 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/howard-gordon-the-beast-in-me-1236672642/
@@ -74,37 +104,57 @@ Sat, 15 Aug 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 The event takes place on Saturday, Aug. 15, at the Xfinity Mobile Arena in Philadelphia. Here's how to watch online, including for free.
 
-### ‘Paradise’ Executive Producer Explains Why Julianne Nicholson’s Character Had to Go Down with the Bunker in Season 2
-Sat, 15 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/paradise-producer-sinatra-sacrifice-season-two-finale-1236670575/
-
-“Her arc is one of my favorites of the whole show,” says John Hoberg of Sinatra.
-
-### The Playlist: Seventeen’s Vernon on His Hyperpop Roots, K-pop’s Evolution and What Inspired ‘V8’
-Sat, 15 Aug 2026 18:08:04 +0000 — https://www.hollywoodreporter.com/music/music-news/the-playlist-seventeen-vernon-hyperpop-k-pop-v8-interivew-1236674275/
-
-The 28-year-old rapper and member of the K-pop boy group Seventeen digs into the inspirations behind his new album ‘V8’ with fellow group member The 8 in this episode of The Playlist.
-
-### Courtney Love Reveals Doctors Told Her She Was Going to Die in 2019: My Body Just Exploded
-Sat, 15 Aug 2026 17:45:40 +0000 — https://www.hollywoodreporter.com/news/general-news/courtney-love-doctors-told-her-she-was-going-to-die-1236674348/
-
-The 62-year-old also shared that she's getting ready to release new music.
-
-### Spider-Man: Brand New Day Still Soaring to Top Its Third Weekend With $67M
-Sat, 15 Aug 2026 16:02:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/
-
-Tom Holland's superhero juggernaut maintains a torrid pace as the frame sees the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'
-
-### Mission Stars George MacKay and Rosy McEwen on Capitalism, Creative Freedom and the Eternal Allure of British Independent Film
-Sat, 15 Aug 2026 15:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/george-mackay-rosy-mcewen-mission-paul-wright-edinburgh-1236670925/
-
-The English actors have big-budget studio projects on their slate — including 'Sense and Sensibility,' 'Scarpetta' and the 'Ocean's Eleven' prequel — so what tempted them onto Paul Wright's Edinburgh-premiering indie?
-
-### LeBron James Launches YouTube Golf Channel — Watch the First Episode s Trailer (Exclusive)
-Sat, 15 Aug 2026 13:59:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/lebron-james-starts-youtube-golf-channel-exclusive-trailer-1236673598/
-
-Saturday's premiere chronicles that semi-infamous Scotland golf trip for the 2016 NBA champion Cleveland Cavaliers (minus Kyrie Irving).
-
 ## Deadline
+
+### Astra TV Awards 2026 Winners Include Hacks , The Pitt Shrinking — Full List
+Sun, 16 Aug 2026 05:00:00 +0000 — https://deadline.com/2026/08/astra-tv-awards-2026-winners-full-list-1237041860/
+
+The Hollywood Creative Alliance has named this year s best in television with the 6th Astra TV Awards. On Saturday, host Lisa Ann Walter presided over the awards show at the InterContinental in Los Angeles, where HBO s The Pitt was the big winner of the evening with seven trophies, followed by Netflix s Beef with five, and [ ]
+
+### Outlander s Caitríona Balfe Joins Live-Action Tangled As Queen Arianna
+Sun, 16 Aug 2026 03:39:15 +0000 — https://deadline.com/2026/08/caitriona-balfe-joins-live-action-tangled-queen-arianna-1237041900/
+
+From 18th century Scotland to the fictional Kingdom of Corona, Disney s live-action Tangled has found its Queen Arianna. While Outlander star Caitríona Balfe was not featured in the footage teased Friday at D23, Disney has announced the 5x Golden Globe nominee will play Rapunzel s long-lost mother in the adaptation of the 2010 animated fantasy musical. [ ]
+
+### Disney D23 Takeaway: With X-Men , Tangled , Incredibles 3 More, Movie Studio Poised To Slay In 2028
+Sun, 16 Aug 2026 01:18:59 +0000 — https://deadline.com/2026/08/disney-2028-box-office-x-men-tangled-ghost-rider-d23-1237041743/
+
+The morning after an intoxicating D23 Friday night, which included a dancing spirit squad, Adam Driver and Inde Navarrette X-Men surprises, Josh Gad crooning, Ryan Gosling, Anne Hathaway and confetti raining, it became really clear — Disney is going to have a killer 2028 at the box office. And they haven t even filled out the [ ]
+
+### RuPaul s Drag Race Renewed For Season 19 At MTV Paramount+ Picks Up RuPaul s Drag Race All-Stars For Season 12
+Sun, 16 Aug 2026 00:00:00 +0000 — https://deadline.com/2026/08/rupauls-drag-race-renewed-season-19-mtv-1237040720/
+
+Condragulations are in order for RuPaul s Drag Race and RuPaul s Drag Race All Stars as MTV and Paramount+ have renewed the shows for additional seasons. MTV has picked up RuPaul s Drag Race for Season 19 alongside its companion series RuPaul s Drag Race: Untucked, while Paramount+ has ordered RuPaul s Drag Race All Stars for Season 12 [ ]
+
+### SNL Alum John Higgins Joins Scrubs For Major Role In Season 2 Of ABC Revival
+Sat, 15 Aug 2026 23:41:29 +0000 — https://deadline.com/2026/08/john-higgins-scrubs-season-2-grant-abc-snl-1237041813/
+
+EXCLUSIVE: Former Saturday Night Live writer/performer John Higgins, member of the Please Don t Destroy comedy group, has joined the cast of ABC s Scrubs for a major recurring role in the upcoming second season of the revival, Deadline has learned. He will play Grant, the new Chief Resident, who is envisioned as a thorn in J.D. s [ ]
+
+### Mason Thames Reveals He McKenna Grace Filmed Nimrods Before Regretting You , Talks Possibility Of Doing Another Job Together
+Sat, 15 Aug 2026 23:03:01 +0000 — https://deadline.com/2026/08/mason-thames-mckenna-grace-filmed-nimrods-regretting-you-1237041798/
+
+Nearly a year after they first appeared onscreen together in Regretting You, Mason Thames and McKenna Grace are playing romantic opposites again. Following Colleen Hoover romance s premiere last October, Thames recently revealed he had already worked with Grace on the Green Day-inspired movie Nimrods, which is now playing in theaters. So we did Green Day [ ]
+
+### Rob Rausch Played It Cool On ‘The Traitors’ But His Co-Stars Think “Mr. America” Was A “Bad Boy” Contenders TV Nominees Studio
+Sat, 15 Aug 2026 22:15:00 +0000 — https://deadline.com/2026/08/the-traitors-season-4-contestants-emmy-interview-1237041716/
+
+Rob Rausch, a handsome snake-wrangler from Alabama, was standing a few feet away from Maura Higgins, the former Love Islander, next to the Traitors’ roundtable. Showing little emotion, he finally revealed that he had double-crossed her to win more than $220,000. “I was so fooled by you, you absolute *sshole, you pinky promised,” Higgins says [ ]
+
+### Scott Foley Returning To Scrubs As Sean Kelly In Season 2 Of ABC Revival To Revisit Classic Storyline
+Sat, 15 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/scott-foley-returning-scrubs-sean-kelly-season-2-revival-1237041064/
+
+EXCLUSIVE: Cue the Nobody cares, Sean memes Scott Foley is coming back to Scrubs. He will reprise his fan-favorite character Sean Kelly on the upcoming second season of the ABC revival. Foley s return is being announced today at D23 s Scrubs: Scrubbing Back panel moderated by Foley and featuring series stars/executive producers Zach Braff (John [ ]
+
+### ‘Summer House’ Enters A “New Chapter” After Landing Its First Emmy Recognition Contenders TV Nominees Studio
+Sat, 15 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/summer-house-season-10-emmy-interview-1237041687/
+
+Lindsay Hubbard, one of the stars of Bravo’s Summer House, was doing an on-camera interview for a different reality show when shocking news broke that two of her Summer House castmates had gotten together. At the end of March, Amanda Batula, who was still married to Kyle Cooke, and West Wilson, who had previously dated [ ]
+
+### All Things Spidey At D23: Tom Holland, Anniversary Comic Book, Friendly Neighborhood Sneak-Peak, Amazing Friends Renewal Upcoming Special Spidey and the Avengers: Halloween Team-Up!
+Sat, 15 Aug 2026 21:26:43 +0000 — https://deadline.com/2026/08/all-things-spidey-d23-friendly-neighborhood-amazing-friends-1237040751/
+
+Everyone grab your webshooters because it s undoubtedly Spidey season. During a Saturday panel at D23 expo, a group of presenters that include Marvel studio s president Kevin Feige, Spider-Man: Brand New Day actor Jacob Batalon and Disney+ s Your Friendly Neighborhood Spider-Man showrunner Jeff Trammell hit the stage to celebrate 65 years of Spider-Man. Though Peter doesn t [ ]
 
 ### Slipknot Announces Sid Wilson s Exit: We Wish Him The Best
 Sat, 15 Aug 2026 20:52:52 +0000 — https://deadline.com/2026/08/slipknot-announces-sid-wilson-exit-1237041712/
@@ -115,54 +165,4 @@ After reports of Sid Wilson s departure from Slipknot, the band has confirmed he
 Sat, 15 Aug 2026 20:45:00 +0000 — https://deadline.com/2026/08/survivor-cast-creatives-emmy-interview-season-50-future-1237040981/
 
 Survivor executive producer Matt Van Wagenen, casting director Jesse Tannenbaum, editor Brian Barefoot and returning cast member Tiffany Nicole Ervin dished on the CBS reality series incredible Season 50 and looked ahead at the upcoming Season 51 during an appearance at Deadline s Contenders Television: The Nominees Studio. Well, I think for us, Season 50, when [ ]
-
-### Lucasfilm Co-Boss Dave Filoni On Hunt For Ben Solo Pic Future: The Force Is Not With Us D23
-Sat, 15 Aug 2026 20:13:26 +0000 — https://deadline.com/2026/08/kylo-ren-hunt-for-ben-solo-dave-filoni-adam-driver-d23-1237041672/
-
-There s always the theme of hope in the Star Wars franchise, and with the brand landing its lowest grossing live-action feature in the franchise with The Mandalorian and Grogu ($345M WW), fans still wanna know: is there any shot in the galaxy that Disney/Luscasfilm would re-consider an Adam Driver-led The Hunt for Ben Solo project? [ ]
-
-### Smiling Friends Creators Painted The Office Alum Green, Then Sent Him Directly To A24’s ‘Primetime’ Contenders TV Nominees Studio
-Sat, 15 Aug 2026 19:45:00 +0000 — https://deadline.com/2026/08/smiling-friends-creators-interview-1237032365/
-
-Creed Bratton s commitment to his art was on full display on the set of Smiling Friends. Painting himself fully green for Le Voyage Incroyable de Monsieur Grenouille, an episode in the adult animated sitcom s third and final season that brought the show its first Emmy nomination, The Office alum must have hoped to get the [ ]
-
-### Dave Marsh Dies: Pioneering Rock Critic, Bruce Springsteen Biographer Was 76
-Sat, 15 Aug 2026 19:21:47 +0000 — https://deadline.com/2026/08/dave-marsh-dead-1237041638/
-
-Dave Marsh, the influential and widely read rock critic for Creem, The Village Voice and Rolling Stone and the author of the foundational Bruce Springsteen 1979 biography Born to Run, died Friday, August 14, at his home in Connecticut. He was 76. His death, reported by Deadline sister publication Billboard and confirmed on Facebook by [ ]
-
-### Emmy Nominee Kristen Kish Wants ‘Top Chef’ To Cook Up More Prize Money Contenders TV Nominees Studio
-Sat, 15 Aug 2026 18:38:19 +0000 — https://deadline.com/2026/08/kristen-kish-top-chef-prize-money-emmy-interview-1237040796/
-
-As the cost of groceries continues to rise, cooking in restaurants and at home has become more expensive. Kristen Kish, host of Top Chef, is well aware of this squeeze and wants the winners of the Bravo reality cooking show to be awarded more prize money for triumphing in the kitchen. “I was just talking [ ]
-
-### Ewan McGregor: The Actor Opens Up About His Career, His Return To Scotland Taking A Chance With Obi-Wan: “Deciding To Do ‘Star Wars’ Was Hard” – Edinburgh Film Festival
-Sat, 15 Aug 2026 18:00:00 +0000 — https://deadline.com/2026/08/ewan-mcgregor-obi-wan-kenobi-edinburgh-film-festival-1237041597/
-
-Ewan McGregor brought the house down at Edinburgh’s Central Hall las night with a once-in-a-lifetime re-enactment of his 1992 performance in Joe Orton’s play What the Butler Saw at Salisbury Playhouse. Fully clothed, the actor gave an athletic display of what occurred that fateful night, when, naked but for a policeman’s helmet over his groin, [ ]
-
-### Anne Hathaway Knows You re Worried About The Fate Of Starbuck The Dog In The End Of Oak Street
-Sat, 15 Aug 2026 17:49:25 +0000 — https://deadline.com/2026/08/anne-hathaway-starbuck-end-of-oak-street-1237041593/
-
-Worried about the dog in the sci-fi apocalypse thriller The End of Oak Street? Star Anne Hathaway has just the spoiler for you. In a new interview with Complex watch a clip below Hathaway talks about the online chatter she s been reading expressing concern for Starbuck, the camera-ready canine belonging to the film s [ ]
-
-### Bill Maher Has A Word For Luigi Mangione Groupies
-Sat, 15 Aug 2026 15:56:26 +0000 — https://deadline.com/2026/08/bill-maher-luigi-mangione-1237041560/
-
-Friday s big story on the cable news networks was the guilty plea of Luigi Mangione, the man who shot and killed UnitedHealthcare CEO Brian Thompson in 2024. And last night Bill Maher had some thoughts. “Luigi Mangione, Maher said in the opening monologue of HBO s Real Time with Bill Maher, the guy who was getting [ ]
-
-### Spider-Man: Brand New Day Super $67M Third Weekend; Odyssey Sailing Past Half Billion, Dinos Fight For Third Box Office Update
-Sat, 15 Aug 2026 15:11:00 +0000 — https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/
-
-SATURDAY AM WRITETHRU after 12:30am post: Spider-Man: Brand New Day has banked a $19M Friday for what s shaping up to be a third weekend around $67M, -54%, which takes its running cume to $782.8M. By end of tomorrow, Brand New Day will rank as the fifth highest grossing domestic movie of all-time behind Force Awakens [ ]
-
-### Spider-Man: Brand New Day Production Designer On Yelena s Bathhouse, Peter Parker s Sad Pad The Challenge Of Building New York In The U.K.
-Sat, 15 Aug 2026 15:00:00 +0000 — https://deadline.com/2026/08/spider-man-brand-new-day-production-designer-interview-1237040773/
-
-For a movie about a superhero who can literally climb walls, Spider-Man: Brand New Day is seemingly interested in what happens when Peter Parker (Tom Holland) puts them up himself. Still reeling from the loss of the people closest to him, Peter has convinced himself that being alone is the price of being Spider-Man, and [ ]
-
-### Frankie Valli Denies The Rumors: I Am Not Retired
-Sat, 15 Aug 2026 14:04:23 +0000 — https://deadline.com/2026/08/frankie-valli-retirement-1237041511/
-
-Frankie Valli has a message for anyone predicting his imminent retirement: Not so fast. After Bobby Valli, the Four Season singer s brother, recently posted a Facebook message announcing the ailing Frankie s retirement, the 92-year-old pop icon slapped back. Yesterday, Frankie posted a short and sweet Instagram message: “In spite of what you might have heard, [ ]
 

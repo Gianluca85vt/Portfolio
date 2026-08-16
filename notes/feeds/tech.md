@@ -1,6 +1,11 @@
-# Tech — harvested 2026-08-15T21:00:55.347Z
+# Tech — harvested 2026-08-16T05:12:29.913Z
 
 ## Ars Technica
+
+### VisionQuest trailer kicks off Disney's D23 fan event
+Sat, 15 Aug 2026 21:21:27 +0000 — https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/
+
+It was a busy first day at D23: The Ultimate Disney Fan Event, in Anaheim, California, with Marvel Studios releasing the first trailer for VisionQuest . We also got the first teaser for Ahsoka S2; the public release of the Avengers: Doomsday special footage featured last month for attendees only at San Diego Comic-Con; a special sneak peek (for attendees only) for Star Wars: Starfighter ; casting news for the MCU's X-Men movie; and a trailer for an animated special, LEGO Star Wars: The Mandalorian , coming to Disney+ next month. (Some spoilers below. One MAJOR spoiler for Spider-Man: Brand New Day ; we'll give you a heads-up when we get there.) VisionQuest Marvel's streaming TV portfolio has kind of been all over the place: a handful of hits, a few misses, and a bunch of middling offerings. One of the standout hits was WandaVision , followed by an excellent sequel (of sorts), Agatha All Along . VisionQuest will complete the trilogy. Yes, Vision (Paul Bettany) died in Infinity War , but WandaVision resurrected an all-white version whose memories were restored in the finale. We finally get to learn what happened afterward. Read full article Comments ]]>
 
 ### Ukraine strikes major Russian rocket factory with cruise missiles
 Sat, 15 Aug 2026 15:46:05 +0000 — https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/
@@ -57,12 +62,17 @@ Fri, 14 Aug 2026 15:18:22 +0000 — https://arstechnica.com/culture/2026/08/r-ra
 
 There is a lot of excitement and some trepidation among The X-Files fans about Ryan Coogler's reboot for Hulu, currently in production. While we're waiting, Hulu just released Chris Carter's revamped (and R-rated) director's cut of the 2008 standalone spinoff film The X-Files: I Want to Believe , distinguishable from its predecessor with a slightly different title: The X-Files: I Want to Believe–Vrach Frankenshteyn . (Minor spoilers below but no major reveals.) I Want to Believe received mixed reviews at its release and didn’t exactly light up the box office, but it still grossed $68 million against its $30 million budget. By 2015, the project led to the return of The X-Files as a limited-run TV series, with the six-episode season 10 debuting in 2016. Mulder and Scully were reunited 14 years after the events of season 9 as the FBI reopened the X-Files under Assistant Director Walter Skinner (Mitch Pileggi). The response was strong enough to warrant a follow-up ten-episode season in 2018, focusing on Mulder and Scully’s search for their missing son, William. Read full article Comments ]]>
 
-### Taylor Farms' connections to Trump admin spurs probe into Cyclospora response
-Fri, 14 Aug 2026 15:03:16 +0000 — https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/
-
-As Americans cook their vegetables to at least 158°F to kill a diarrheal parasite that has sickened over 24,000 people and killed two this summer, one US Senator is turning up the heat on Health Secretary Robert F. Kenney Jr. over the government's "calamitous response" to the record outbreak. In a letter sent Thursday , Elizabeth Warren (D-Mass.) called the federal response to the Cyclospora outbreak "botched" and "marred by missteps." She pointedly questioned whether corruption and incompetence within the Trump administration and its clear ties to Taylor Farms—the mammoth produce distributer that sold Mexican-grown iceberg lettuce linked to the outbreak—played a role in the federal government's failures. "[P]olitical contributions and direct White House lobbying from Taylor Farms... raise urgent questions about the role this influence-peddling may have played in loosening federal food safety oversight and hampering the federal government’s response to the outbreak," Warren wrote in the letter. Read full article Comments ]]>
-
 ## The Verge
+
+### Polaroid’s tiny instant camera is $72 and includes a free pack of film
+2026-08-15T23:00:00-04:00 — https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale
+
+The compact Polaroid Go is great for road trips and adventures. | Image: Polaroid Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99 (usually $109.99). That’s the lowest price we’ve seen for the bundle, with a pack of film usually costing $21.99 on its own. Plus, it’s four dollars cheaper to buy the bundle than to buy just the camera on its own. Polaroid Go Instant Camera Generation 2 Where to Buy: $109.99 $71.99 at Amazon (with film pack) With its more compact footprint, the Polaroid Go 2 shoots on smaller film to match. Where classic Polaroid photos are 88mm x 107mm, the Go film is 53.9mm x 66.6mm, a great size for sticking to your bulletin board or stashing in your wallet. The camera has a USB-C port for charging the battery, which can run for up to 15 packs of film on a single charge. ]]>
+
+### Matt Groening lets slip that Simpsons: Hit Run might be making a comeback
+2026-08-15T17:56:13-04:00 — https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23
+
+Doh! | Image: Activision / 20th Century Fox At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, "I think the original game is coming back in some form," before current showrunner Matt Selman added, "or not." The tone in both of their voices and the body language suggests that Groening may have just revealed something he wasn't supposed to. The original title came out way back in 2003 for PlayStation 2, Xbox, GameCube, and Windows. While it's possible to get the game up and running on modern computers, it's not available on modern consoles . It's currently not in the PlayStation Plus Classics Catalog or on the Xbo … Read the full story at The Verge. ]]>
 
 ### Have a laugh at AI’s expense by roleplaying as a chatbot
 2026-08-15T16:45:00-04:00 — https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot
@@ -87,7 +97,7 @@ Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took t
 ### Disney D23 2026: Everything announced for Star Wars, Marvel, and more
 2026-08-15T10:20:33-04:00 — https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23
 
-Shawn Levy, Ryan Gosling | Image: The Walt Disney Company/Image Group LA The annual Disney fan event showed off the cast of Marvel s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two of Ahsoka , plus a special look at Star Wars: Starfighter with an appearance from Ryan Gosling. Other new announcements included a few updates about Pixar, The Simpsons, Bluey, and others you can find below. Pixar is getting spooky in Ghost Market. Disney is making a Kingdom Hearts anime. The Bluey Movie teaser shows Keepy Uppy in Disneyfied CG. Star Wars: Ahsoka season 2 and Starfighter get teased at D23 A new Avengers: Doomsday trailer focuses on Robert Downey Jr.’s Doom. The first trailer for VisionQuest reunites Paul Bettany and James Spader. Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver Kingdom Hearts will be featured at Disney’s big D23 expo in August. Square Enix teases Kingdom Hearts 4 at Nintendo Direct ]]>
+Shawn Levy, Ryan Gosling | Image: The Walt Disney Company/Image Group LA The annual Disney fan event showed off the cast of Marvel s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two of Ahsoka , plus a special look at Star Wars: Starfighter with an appearance from Ryan Gosling. Other new announcements included a few updates about Pixar, The Simpsons, Bluey, and others you can find below. Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback Pixar is getting spooky in Ghost Market. Disney is making a Kingdom Hearts anime. The Bluey Movie teaser shows Keepy Uppy in Disneyfied CG. Star Wars: Ahsoka season 2 and Starfighter get teased at D23 A new Avengers: Doomsday trailer focuses on Robert Downey Jr.’s Doom. The first trailer for VisionQuest reunites Paul Bettany and James Spader. Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver Kingdom Hearts will be featured at Disney’s big D23 expo in August. Square Enix teases Kingdom Hearts 4 at Nintendo Direct ]]>
 
 ### I finally found a magnetic phone grip I never want to remove
 2026-08-15T10:10:16-04:00 — https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review
@@ -103,16 +113,6 @@ The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spid
 2026-08-15T09:00:00-04:00 — https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader
 
 New plugin support for CrossPoint Reader lets Xteink’s devices access DRM-protected ebooks. One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, but with Xteink's devices you have to source DRM-free ebooks on your own. That's about to change, as the developers of CrossPoint Reader , a free alternative firmware for the X3 , X4 , and X4 Pro , are introducing support for third-party plug-ins that will expand the e-readers' capabilities. One of the first from the community will give the devices access to DRM-protected ebooks borrowed through OverDrive's Libby library app , or pu … Read the full story at The Verge. ]]>
-
-### We’re reaching peak camera with the Sony A7R VI
-2026-08-15T08:00:00-04:00 — https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review
-
-Maximum camera. | Photo: Antonio G. Di Benedetto / The Verge It wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI . Sony's latest flagship high-res camera is a 66.8-megapixel spec monster. In addition to its modest bump in resolution from the last-gen A7R V , it uses a new sensor and processor that unlock nearly any kind of shooting - from sports and action to usable 8K video. It's a huge departure from years ago, when high-resolution cameras were slower, noisier, and more specialized as a result of all those megapixels. The A7R VI's fully stacked sensor and new Bionz XR2 processor allow it to shoot … Read the full story at The Verge. ]]>
-
-### The surprise must-see movie of the summer
-2026-08-15T08:00:00-04:00 — https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer
-
-Hi, friends! Welcome to Installer No. 140, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old editions at the Installer homepage .) This week, I've been reading about Will Ferrell and Fabrizio Romano and Heather Cox Richardson , scrolling and scrolling through Ordinary Abundance , watching Avatar Aang (which is as good as you said it was), finally getting proficient in CapCut , obsessing over the latest scandal unearthed by PTFO , rewatching Tires now that the third season is out, trying Spark's AI tools for solving my inbox (so far… meh), revisiting … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +178,11 @@ Although SK hynix is primarily known as a memory maker, the South Korean company
 
 ## Phoronix
 
+### Marek Olšák s 19 Latest Patches Further Optimizing RADV & ACO
+Sat, 15 Aug 2026 20:17:05 -0400 — https://www.phoronix.com/news/RADV-ACO-19-More-Patches-Valve
+
+Legendary Mesa Radeon Gallium3D driver developer Marek Olšák who was a longtime AMD employee and then joined Valve's Linux graphics driver team earlier this year has continued his focus now on perfecting his art around the RADV Vulkan driver and ACO shader compiler...
+
 ### GNOME 51 Beta Released With Many Minor Improvements
 Sat, 15 Aug 2026 13:12:27 -0400 — https://www.phoronix.com/news/GNOME-51-Beta
 
@@ -232,9 +237,4 @@ Omarchy as the Arch Linux distribution developed by David Heinemeier Hansson "DH
 Fri, 14 Aug 2026 11:18:11 -0400 — https://www.phoronix.com/review/intel-xeon-6-linux-72
 
 With Linux 7.2 expected for its stable release this weekend, today s testing has some additional testing of the Linux 7.2 Git kernel as well as Linux 7.1 stable compared to Linux 7.0 as used by default on Ubuntu 26.04 LTS. Phoronix testing previously conducted of Linux 7.2 have shown benefits for Intel Arc B390 Xe3 in some configurations, faster poll performance on AMD Ryzen Threadripper and other hardware, and some nice I/O performance gains on AMD EPYC Turin. Today s kernel benchmarks are with the Intel Xeon 678X Granite Rapids WS currently in the lab as part of the HP Z4 G6i workstation testing.
-
-### Features Coming For Linux 7.3 From Optimizing Intel Hybrid CPUs To Old AMD Athlon XPs
-Fri, 14 Aug 2026 07:00:45 -0400 — https://www.phoronix.com/news/Linux-7.3-Features-Preview
-
-With Linux 7.2 expected to see its stable debut Sunday, here is a look at what I have been monitoring as changes expected to be submitted during the Linux 7.3 merge window that will open on Monday...
 

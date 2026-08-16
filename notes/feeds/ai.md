@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-15T21:00:55.347Z
+# AI — harvested 2026-08-16T05:12:29.913Z
 
 ## OpenAI
 
@@ -6,8 +6,7 @@ _Nothing in the last 48 hours._
 
 ## Hugging Face
 
-### State of Open Models: Summer 2026 Observations
-Fri, 14 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/state-of-open-models-summer-2026
+_Nothing in the last 48 hours._
 
 ## Google DeepMind
 

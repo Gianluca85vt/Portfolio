@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-15T21:00:55.347Z
+# Games — harvested 2026-08-16T05:12:29.913Z
 
 ## Eurogamer
 
@@ -100,6 +100,11 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### You d Have to Be Heartless to Hate on This Extended Kingdom Hearts 4 Trailer
+Sun, 16 Aug 2026 03:30:00 GMT — https://www.pushsquare.com/news/2026/08/youd-have-to-be-heartless-to-hate-on-this-extended-kingdom-hearts-4-trailer
+
+Nomura says 2027 release is "100% certain". Following its confirmation for a late 2027 release yesterday , Square Enix has now deployed a full-length Kingdom Hearts 4 trailer. While the footage primarily focuses on the new Coco-inspired world, we also get a glimpse of the real-world Shibuya location that’s made up a chunk of the title’s marketing up to this point. Read the full article on pushsquare.com
+
 ### After Several PS Store Knock-Offs, the Real TCG Card Shop Simulator Hits PS5 Next Month
 Sat, 15 Aug 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/08/after-several-ps-store-knock-offs-the-real-tcg-card-shop-simulator-hits-ps5-next-month
 
@@ -154,11 +159,6 @@ Try out Entrenched level in PS5 beta. Activision has revealed its upcoming PS5 b
 Fri, 14 Aug 2026 13:15:00 GMT — https://www.pushsquare.com/news/2026/08/mafia-remake-joins-the-old-country-on-ps5-in-full-series-collection-with-60fps-visual-upgrades
 
 Update: No free PS5 upgrade for PS Plus owners. A new bundle containing every Mafia game to date will launch tomorrow to coincide with the release of Mafia: The Old Country expansion Man of Honor . The Omertà Collection bundles together all three Definitive Editions of the original Mafia trilogy, The Old Country, and the Man of Honor DLC. Most importantly, however, the version of Mafia: Definitive Edition included is a new native PS5 edition sporting 60 frames-per-second support as well as "technical improvements". Read the full article on pushsquare.com
-
-### Halo: Campaign Evolved PS5 Update Lands Next Week with Tech Fixes
-Fri, 14 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/halo-campaign-evolved-ps5-update-lands-next-week-with-tech-fixes
-
-A better Sgt. Johnson and updates to Jackals. Halo Studios has announced a new PS5 update for Halo: Campaign Evolved will go live next week that includes a raft of fixes and technical improvements. There'll be more to the patch, but the developer has shared some of the biggest things it's fixing with the update: Read the full article on pushsquare.com
 
 ## Game Developer
 
