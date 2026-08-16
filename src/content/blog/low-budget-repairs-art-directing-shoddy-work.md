@@ -3,7 +3,7 @@ title: Low-Budget Repairs makes you the worst handyman in 1990s Poland, and the 
 date: 2026-08-16
 category: 3D
 excerpt: Low-Budget Repairs left early access on Steam this week — a House Flipper parody where your job is to do the renovation as badly as possible and still get paid. Building convincing bad craftsmanship is a stranger art problem than building good craftsmanship.
-cover: /img/blog/low-budget-repairs-art-directing-shoddy-work/cover.svg
+cover: /img/blog/low-budget-repairs-art-directing-shoddy-work/shot-01.jpg
 draft: true
 ---
 
@@ -24,6 +24,11 @@ team had to *build* convincing bad craftsmanship, and that is a genuinely strang
 problem than building good craftsmanship.
 
 ## Environment art almost never gets asked to look bad on purpose
+
+<figure>
+  <img src="/img/blog/low-budget-repairs-art-directing-shoddy-work/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Gray2RGB / Simplicity Games, via the official Steam page for Low-Budget Repairs</figcaption>
+</figure>
 
 Nearly every renovation, building or interior-design game — House Flipper included — is
 solving the opposite problem: how do you make a "before" state read as neglected, then make
