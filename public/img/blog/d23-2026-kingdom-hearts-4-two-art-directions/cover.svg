@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Two art directions meeting in one engine: photoreal Quadratum and the stylised Land of the Dead">
+  <defs>
+    <linearGradient id="khBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#4A1030"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+    <linearGradient id="cold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5B8FD6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#5B8FD6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="warm" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFA224" stop-opacity="0.62"/>
+      <stop offset="100%" stop-color="#FFA224" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#khBg)"/>
+
+  <!-- left: the cold, near-photoreal city. right: the warm, stylised world.
+       they meet on a hard seam down the middle, which is the whole point. -->
+  <rect x="0" y="0" width="600" height="620" fill="url(#cold)"/>
+  <rect x="600" y="0" width="600" height="620" fill="url(#warm)"/>
+
+  <g stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="3" fill="none">
+    <path d="M70 520V300h90v220M200 520V250h80v270M320 520V330h70v190M430 520V270h90v250"/>
+  </g>
+
+  <g fill="#FFFFFF" fill-opacity="0.16">
+    <circle cx="700" cy="330" r="9"/><circle cx="770" cy="270" r="7"/><circle cx="840" cy="345" r="10"/>
+    <circle cx="910" cy="280" r="7"/><circle cx="980" cy="350" r="9"/><circle cx="1060" cy="295" r="8"/>
+    <circle cx="735" cy="420" r="7"/><circle cx="875" cy="430" r="8"/><circle cx="1015" cy="425" r="7"/>
+  </g>
+
+  <path d="M600 0V620" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="4"/>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="120" font-size="30" letter-spacing="10" fill="#FFFFFF" fill-opacity="0.5">D23 · KINGDOM HEARTS IV</text>
+    <text x="300" y="580" font-size="26" letter-spacing="5" fill="#FFFFFF" fill-opacity="0.55">QUADRATUM</text>
+    <text x="900" y="580" font-size="26" letter-spacing="5" fill="#FFFFFF" fill-opacity="0.55">LAND OF THE DEAD</text>
+
+    <text x="600" y="745" font-size="112" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">ONE ENGINE</text>
+    <text x="600" y="805" font-size="34" fill="#FFFFFF" fill-opacity="0.6">two art directions</text>
+  </g>
+</svg>
