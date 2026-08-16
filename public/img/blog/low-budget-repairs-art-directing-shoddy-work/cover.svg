@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Bad craftsmanship as art direction">
+  <defs>
+    <linearGradient id="bgLBR" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#3A1A10"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="accentLBR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BE4C00"/>
+      <stop offset="100%" stop-color="#FFB37A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgLBR)"/>
+
+  <!-- crooked tile grid, faint, deliberately misaligned -->
+  <g stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="3" fill="none">
+    <rect x="70" y="520" width="120" height="120" transform="rotate(-2 130 580)"/>
+    <rect x="196" y="516" width="120" height="120" transform="rotate(3 256 576)"/>
+    <rect x="318" y="524" width="120" height="120" transform="rotate(-1.5 378 584)"/>
+    <rect x="770" y="518" width="120" height="120" transform="rotate(2.5 830 578)"/>
+    <rect x="894" y="524" width="120" height="120" transform="rotate(-2 954 584)"/>
+    <rect x="1018" y="516" width="120" height="120" transform="rotate(1.5 1078 576)"/>
+  </g>
+
+  <!-- paint drip trails -->
+  <g stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="4" stroke-linecap="round">
+    <path d="M 150 660 Q 148 700 152 740" fill="none"/>
+    <path d="M 300 655 Q 303 695 298 730" fill="none"/>
+    <path d="M 900 660 Q 897 705 903 745" fill="none"/>
+    <path d="M 1050 655 Q 1053 690 1049 725" fill="none"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="150" font-size="28" letter-spacing="8" fill="#FFFFFF" fill-opacity="0.45">GOOD ENOUGH TO GET PAID</text>
+
+    <text x="600" y="285" font-size="72" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">BAD ON</text>
+    <text x="600" y="385" font-size="72" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">PURPOSE</text>
+
+    <text x="600" y="460" font-size="36" fill="#FFFFFF" fill-opacity="0.6">ART-DIRECTING SHODDY WORK</text>
+  </g>
+
+  <rect x="500" y="500" width="200" height="8" rx="4" fill="url(#accentLBR)"/>
+</svg>
