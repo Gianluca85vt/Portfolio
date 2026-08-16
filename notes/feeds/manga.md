@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-16T09:04:48.149Z
+# Manga — harvested 2026-08-16T10:00:57.000Z
 
 ## Anime News Network
+
+### Skip & Loafer Anime's 2nd Season Reveals April 2027 Debut in Teaser Video
+Sun, 16 Aug 2026 04:40:36 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/skip-and-loafer-anime-2nd-season-reveals-april-2027-debut-in-teaser-video/.240621
+
+Takatsugu Wakabayashi returns to compose music with new composer Michiru
 
 ### Toryumon Takeda's Doga Manga Ends in 7th Volume
 Sat, 15 Aug 2026 23:53:41 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/toryumon-takeda-doga-manga-ends-in-7th-volume/.240608
@@ -56,11 +61,6 @@ Fri, 14 Aug 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/weekly-rank
 Fri, 14 Aug 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-6/.240575
 
 Sometimes when you’re confronted with overwhelming amounts of trauma, you just need to cry.
-
-### North American Anime, Manga Releases, August 9-15
-Fri, 14 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-14/north-american-anime-manga-releases-august-9-15/.240460
-
-<cite>Dragon Ball Daima, Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved</cite> anime; <cite>Draw This, Then Die!, Hotel Inhumans</cite> manga ship
 
 ## Crunchyroll News
 

@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-08-16T09:04:48.149Z
+# Source feeds — harvested 2026-08-16T10:00:57.000Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
