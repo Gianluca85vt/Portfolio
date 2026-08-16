@@ -4,7 +4,6 @@ date: 2026-08-16
 category: 3D
 excerpt: Low-Budget Repairs left early access on Steam this week — a House Flipper parody where your job is to do the renovation as badly as possible and still get paid. Building convincing bad craftsmanship is a stranger art problem than building good craftsmanship.
 cover: /img/blog/low-budget-repairs-art-directing-shoddy-work/shot-01.jpg
-draft: true
 ---
 
 **Low-Budget Repairs**, by Polish studio **Gray2RGB**, left early access and hit full
