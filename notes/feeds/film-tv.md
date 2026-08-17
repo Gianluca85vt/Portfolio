@@ -1,6 +1,46 @@
-# Film & TV — harvested 2026-08-17T05:20:29.732Z
+# Film & TV — harvested 2026-08-17T08:23:34.082Z
 
 ## Variety
+
+### Deluxe Media and Tohokushinsha Film Corporation Set Strategic Asia-Pacific Localization Partnership (EXCLUSIVE)
+Mon, 17 Aug 2026 08:00:53 +0000 — https://variety.com/2026/film/news/deluxe-tohokushinsha-apac-localization-partnership-1236836079/
+
+Deluxe Media Inc. and Tokyo-based Tohokushinsha Film Corporation have formed a strategic partnership to expand localization services across the Asia-Pacific region. The non-exclusive deal pairs Deluxe s ties to top studios and streamers, its scale and its tech-driven localization workflows with Tohokushinsha s creative and in-market strengths built up over decades in Japan. Both companies said the [ ]
+
+### Heartstopper Star Rhea Norwood, Enola Holmes Actor Susan Wokoma, Dear England Writer James Graham Join U.K. National Youth Theatre s 70th Anniversary Show (EXCLUSIVE)
+Mon, 17 Aug 2026 08:00:00 +0000 — https://variety.com/2026/theater/news/rhea-norwood-susan-wokoma-james-graham-national-youth-theatre-1236835453/
+
+The U.K. s National Youth Theatre has announced a further wave of star names for Letters to My Younger Future Self, the one-night performance marking the organization s 70th anniversary. The show, supported by Netflix, is set for Sept. 20 at the Southbank Centre s Royal Festival Hall in London. The new names joining the lineup include chart-topper [ ]
+
+### Snapshot Review: A Nifty Calling-Card Debut Refashions the Jack the Ripper Story as Found-Footage Horror
+Mon, 17 Aug 2026 07:59:23 +0000 — https://variety.com/2026/film/news/snapshot-review-1236835669/
+
+Found footage may be a fairly stale gimmick in horror these days, but the low-budget British indie Snapshot finds a way to freshen up the idea — and if that largely amounts to layering another technical gimmick over it, the results are nonetheless striking. Emulating the look of 19th-century pinhole photography, with the entire film [ ]
+
+### Mexico’s Madrefoca Boards ‘Isabel Hernández’ as Zoe Films Builds Festival Momentum (EXCLUSIVE)
+Mon, 17 Aug 2026 07:15:13 +0000 — https://variety.com/2026/film/markets-festivals/madrefoca-isabel-hernandez-zoe-films-san-sebastian-1236833977/
+
+Mexico’s Madrefoca Cine has boarded “Isabel Hernández,” Italian filmmaker Giorgio Giampà’s feature debut, joining Zoe Films, LaDoc and Fiasco on the Italy-Mexico co-production. The project is among the 15 titles selected for the 2026 Europe-Latin America Co-Production Forum at the San Sebastián Film Festival. Its San Sebastián berth comes as Zoe Films builds a growing [ ]
+
+### Korea Box Office: Christopher Nolan s The Odyssey Outpaces Spider-Man: Brand New Day Again in Strong Second Weekend
+Mon, 17 Aug 2026 06:54:42 +0000 — https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-outpaces-spider-man-brand-new-day-1236836058/
+
+The Odyssey ruled the South Korean box office during the weekend of Aug. 14–16. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed tentpole generated $13.2 million from 1,691,744 admissions over the three-day frame across 2,114 screens, capturing 59.07% of the total weekend market. The film grew [ ]
+
+### Former Costa Rican Film Commissioner Marysela Zamora: ‘I Believe That the Next Great Chapter in Audiovisual Media Will Be Written in Spanish’ (EXCLUSIVE)
+Mon, 17 Aug 2026 06:52:31 +0000 — https://variety.com/2026/film/global/former-costa-rican-film-commissioner-marysela-zamora-1236835874/
+
+Former Costa Rican Film Commissioner Marysela Zamora, who was instrumental in reviving the Costa Rica Media Market (CRMM) these past two years, will continue to serve on the Board of Directors of the Ibero-American Network of Film Commissions (Iberofic), where she will spearhead a regional agenda aimed at bolstering women’s leadership in the audiovisual sector [ ]
+
+### China Box Office: Once Upon a Time in the Middle East Dominates With $70 Million Weekend as Christopher Nolan s The Odyssey Debuts Second
+Mon, 17 Aug 2026 06:27:19 +0000 — https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-the-odyssey-1236836046/
+
+Dirty Monkeys’ war comedy-drama Once Upon a Time in the Middle East took command of the mainland China box office during the Aug. 14–16 weekend, grossing RMB477.9 million ($70.3 million) over the three-day frame, according to data from Artisan Gateway. Following its Tuesday, Aug. 11 rollout and earlier previews, the production has amassed a cumulative [ ]
+
+### Hollywood Failed Hayden Panettiere
+Mon, 17 Aug 2026 06:03:33 +0000 — https://variety.com/2026/film/news/hayden-panettiere-death-hollywood-sexual-predators-1236836037/
+
+Hayden Panettiere, the former child actress who grew up onscreen before our very eyes, passed away Sunday at the age of 36. She died five days before her 37th birthday. “It is with profound sadness that we share the tragic passing of our beloved Hayden,” her father Alan said in a statement. “She was an [ ]
 
 ### John Oliver Brutally Mocks Trump for Sacrificing Staff in Airplane-Swap Incident
 Mon, 17 Aug 2026 03:47:18 +0000 — https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificing-staff-airplane-swap-incident-iran-1236836013/
@@ -12,47 +52,12 @@ Mon, 17 Aug 2026 03:12:22 +0000 — https://variety.com/2026/film/news/hayden-pa
 
 Hayden Panettiere, known for her roles on Heroes, Nashville and in Scream 4 and Scream VI, died on Sunday. Her rep confirmed her death to ABC News. A cause of death was not immediately known. It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light [ ]
 
-### Lanterns Premiere Shocker: Stars Kyle Chandler, Aaron Pierre and Show Creators Break Down That Time Jump and Cliffhanger
-Mon, 17 Aug 2026 02:00:00 +0000 — https://variety.com/2026/tv/news/lanterns-premiere-how-does-hal-die-1236835653/
-
-SPOILER ALERT: This article contains spoilers for the Season 1 premiere of “Lanterns,” now streaming on HBO Max. What kind of superhero show has the guts to kill off its lead character in the first episode? Of course, just because Hal Jordan (Kyle Chandler) is found dead in the bleachers by John Stewart (Aaron Pierre) and [ ]
-
-### Noah Kahan Turns His Miserable Material Into Manic Elation at Triumphant Rose Bowl Stadium Show: Concert Review
-Mon, 17 Aug 2026 01:41:58 +0000 — https://variety.com/2026/music/concert-reviews/noah-kahan-concert-review-tour-rose-bowl-stadium-1236835970/
-
-“My name is Noah Kahan and I am here to make you fucking miserable!” the biggest male rock star on the charts right now announced almost at the outset of his sold-out show Saturday night at Pasadena s Rose Bowl Stadium. In this, he was unsuccessful, but to Kahan s credit, he did not really try very [ ]
-
-### The End of Tom Six Review: The Director of the Human Centipede Films Has Multiple Sclerosis and Is Sharing the Horror. This Confessional Doc Is His Witty Self-Defense
-Mon, 17 Aug 2026 00:04:48 +0000 — https://variety.com/2026/film/reviews/the-end-of-tom-six-review-the-human-centipede-1236835608/
-
-"The End of Tom Six" is a self-styled confessional memoir in which Six fuses his life and career and illness into a parable. He’s asking: Is there room anymore for movies, like his, that stray over the line? And if not, what does that mean?
-
-### Noah Wyle Hopes David Ellison s Threat to Move Paramount Out of California is Saber Rattling : You re Going to Take Hollywood Out of Hollywood
-Sun, 16 Aug 2026 23:55:13 +0000 — https://variety.com/2026/tv/columns/noah-wyle-david-ellison-move-paramount-out-of-california-1236835892/
-
-Noah Wyle is hoping David Ellison isn’t serious about moving Paramount out of California. “I hope this is saber rattling because I can t think of anything that would less engender you to the population of this industry than to say you re going to take Hollywood out of Hollywood,” the “Pitt” star told me Sunday at [ ]
-
-### Dwayne Johnson Leads Crowd in Happy Birthday Song for Daughter Simone After Receiving Disney Legends Award at D23
-Sun, 16 Aug 2026 23:34:24 +0000 — https://variety.com/2026/film/news/dwayne-johnson-disney-legend-d23-emily-blunt-1236833908/
-
-Dwayne Johnson has been officially crowned a legend — a Disney Legend that is. On Sunday at D23, Johnson was honored with the hall-of-fame-style award from the Walt Disney Company. From Jungle Cruise to the Moana franchise and Race to Witch Mountain, Johnson is no stranger to the world of Disney. But as he took the stage to [ ]
-
-### Bob Iger Gets All-Star Send-Off From Robert Downey Jr., Harrison Ford and New CEO Josh D Amaro at D23 Disney Legends Ceremony
-Sun, 16 Aug 2026 23:20:17 +0000 — https://variety.com/2026/film/news/bob-iger-robert-downey-jr-harrison-ford-d23-disney-legends-1236835731/
-
-Bob Iger is officially a legend within the Disney kingdom. We can’t call it surprising that the media giant named its former CEO (twice over) to its hall of fame, but it’s certainly fitting. Iger, 75, has guided the company to delirious heights of success – and through some of its darkest ever hours. Disney [ ]
-
-### Anne Hathaway Tears Up as She s Named a Disney Legend (and Her 2026 Box Office Crosses $2 Billion): I m One of the Most Insanely Lucky People in the World
-Sun, 16 Aug 2026 22:44:23 +0000 — https://variety.com/2026/film/news/anne-hathaway-disney-legend-d23-princess-diaries-devil-wears-prada-1236835727/
-
-Shut up! Oscar winner Anne Hathaway is officially a Disney Legend. Hathaway was officially inducted into Disney s hall of fame on Sunday afternoon during D23, the company s weekend-long ultimate fan event. I am here today because I m one of the most insanely lucky people in the world, Hathaway said after her Devil Wears Prada director [ ]
-
-### Ariana Grande Brings Out Wicked Co-Star Cynthia Erivo for Happy Days and For Good at Eternal Sunshine London Show
-Sun, 16 Aug 2026 21:27:31 +0000 — https://variety.com/2026/music/news/ariana-grande-cynthia-erivo-eternal-sunshine-london-wicked-1236835738/
-
-Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine stop at London s O2. The “Wicked” stars sang “For Good” and “Happy Days” on the second night in the U.K. for Grande’s tour. Grande is currently on her Eternal Sunshine Tour, which shares a title with her seventh studio album. The [ ]
-
 ## The Hollywood Reporter
+
+### In Oasis, a School Spirals Into Violence – and Three Outcasts Take Refuge in a Forest (Exclusive Trailer)
+Mon, 17 Aug 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oasis-film-trailer-venice-school-outcasts-violence-forest-1236674663/
+
+Also check out the poster for Jannis Lenz’s feature debut, which premieres at Venice and reveals the "quiet brutality of human relationships, while echoing the violence that shapes our contemporary world.”
 
 ### Bob Iger Takes Victory Lap As He s Named a Disney Legend, Applauds New CEO Josh D Amaro: You re Wearing That Title Really Well
 Mon, 17 Aug 2026 03:55:04 +0000 — https://www.hollywoodreporter.com/business/business-news/bob-iger-disney-legend-josh-damaro-d23-1236674802/
@@ -99,12 +104,22 @@ Sun, 16 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-feat
 
 Gemmill also teases season three, er, a tiny bit.
 
-### The French Designer Behind the Sexiest Moments of Hollywood’s Golden Age (Including That Marilyn Dress)
-Sun, 16 Aug 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/style/designer-marilyn-monroe-dress-hollywood-glamour-1236671256/
-
-A new book tells the story — and revels in the lavish work — of couturier Jean Louis, the Da Vinci of Va Va Voom, who shaped some of the most memorable silhouettes in cinema
-
 ## Deadline
+
+### Kenneth Branagh On Moving From Shakespeare To Action-Comedy In ‘Mayday’: “I Thought Zach Galifianakis Should Play The Part, But I Was Very Pleased They Asked Me” – Edinburgh Film Festival
+Mon, 17 Aug 2026 07:12:39 +0000 — https://deadline.com/2026/08/kenneth-branagh-mayday-ryan-reynolds-edinburgh-1237042763/
+
+Actor-director Kenneth Branagh arrived in Edinburgh to accept the festival’s inaugural Outstanding Contribution to Cinema award from festival director Paul Ridd and immediately joked that he would break it up into little pieces. “Actually, I wouldn’t,” he told the audience, “but if I did, I would give to you, and I’m not just being sappy. [ ]
+
+### Prime Video Sets Global Launch Date For Indian Investigative Drama Babita Singh Reporting
+Mon, 17 Aug 2026 06:25:00 +0000 — https://deadline.com/2026/08/babita-singh-reporting-prime-video-global-launch-date-1237040426/
+
+EXCLUSIVE: Babita Singh Reporting, Prime Video s next pic out of India, will launch globally on August 28. Directed by Ambiecka Pandit and written by Amita Vyas, the investigative drama features stars Nimisha Sajayan, Barun Sobti, and Anshumaan Pushkar. Saurabh Malhotra, Manuj Mittra, and Tina Tharwani are producing through Film Squad Productions in association with Act [ ]
+
+### ‘Douglas Gordon By Douglas Gordon’ Director Finlay Pretsell On His Portrait Of An Eccentric Genius: “This Is The Mind Of A Conceptual Artist” – Edinburgh Film Festival
+Mon, 17 Aug 2026 06:20:19 +0000 — https://deadline.com/2026/08/douglas-gordon-by-douglas-gordon-director-finlay-pretsell-1237042674/
+
+On the face of it, Finlay Pretsell’s first feature, Time Trial (2017), seemed like any other underdog sports movie, chronicling the last hurrah of disgraced Scottish cyclist David Millar in his last year as a professional rider at the Tour De France. Others might have taken the easy option and milked this against-all-odds story for [ ]
 
 ### Hayden Panettiere Dies: Heroes, Nashville Scream Star Was 36
 Mon, 17 Aug 2026 03:27:00 +0000 — https://deadline.com/2026/08/hayden-panettiere-dead-1237042575/
@@ -150,19 +165,4 @@ Indie films helped drive a terrific box office weekend with Jane Schoenbrun’s 
 Sun, 16 Aug 2026 20:40:00 +0000 — https://deadline.com/2026/08/octavia-spencer-lost-women-of-alaska-emmy-interview-1237041780/
 
 Octavia Spencer has been following true crime stories since she was just 11 years old. Speaking at Deadline’s Contenders: The Nominees Studio, Spencer said, “I think there are a lot of people who are very new to the true crime genre. I m not, I ve been studying it. I read a horrible story, a true crime [ ]
-
-### Dwayne Johnson Describes Lizard Music As Willy Wonka From The Mind Of Benny Safdie, Details 5-Hour Makeup Process To Play 70-Year-Old — D23
-Sun, 16 Aug 2026 20:13:08 +0000 — https://deadline.com/2026/08/dwayne-johnson-describes-lizard-music-willy-wonka-d23-1237042262/
-
-Following his transformation for The Smashing Machine, Dwayne Johnson is back together with Benny Safdie for their next project. While speaking to Deadline on Sunday at D23, the Golden Globe nominee revealed that he s begun production on the Safdie-helmed Lizard Music, for which he undergoes five hours of makeup every day to play a man [ ]
-
-### Former ABC News Field Producer s Wrongful Termination Lawsuit Accuses Matt Gutman Of Making Inappropriate Sexualized Comments
-Sun, 16 Aug 2026 19:56:26 +0000 — https://deadline.com/2026/08/matt-gutman-lawsuit-abc-field-producer-1237042227/
-
-A former ABC News field producer filed a wrongful termination lawsuit against the network, including allegations that her former colleague Matt Gutman, now chief correspondent with CBS News, made inappropriate sexualized remarks when they worked together. Samira Said filed the lawsuit in Los Angeles Superior Court on Friday. The lawsuit names as defendants ABC, The [ ]
-
-### Hercules Voice Actress Susan Egan Nominates Zendaya Tom Holland For Live-Action Remake: The World Needs It — D23
-Sun, 16 Aug 2026 19:50:10 +0000 — https://deadline.com/2026/08/hercules-susan-egan-nominates-zendaya-tom-holland-remake-1237042242/
-
-With Spider-Man: Brand New Day a super box office success, Tom Holland and Zendaya might just have their next classic hero adaptation. Speaking with Deadline on the red carpet Sunday at D23, Hercules (1997) voice actress Susan Egan nominated Zendaya to take over her role as Meg in a live-action remake of the Disney animated [ ]
 

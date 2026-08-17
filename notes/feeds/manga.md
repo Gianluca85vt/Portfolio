@@ -1,6 +1,31 @@
-# Manga — harvested 2026-08-17T05:20:29.732Z
+# Manga — harvested 2026-08-17T08:23:34.082Z
 
 ## Anime News Network
+
+### There's No Freaking Way I'll be Your Lover! Unless... Manga's 1st Part Ends, 2nd Part Debuts in Early 2027
+Mon, 17 Aug 2026 01:52:30 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/there-no-freaking-way-ill-be-your-lover-unless-manga-1st-part-ends-2nd-part-debuts-in-early-2027/.240631
+
+Manga adaptation debuted in May 2020
+
+### Fatal Fury City of the Wolves Game's Trailer Previews DLC Character Duck King
+Mon, 17 Aug 2026 01:28:06 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/fatal-fury-city-of-the-wolves-game-trailer-previews-dlc-character-duck-king/.240632
+
+Duck King launches in Season 3 on August 27
+
+### To Love-Ru Manga Gets New Volume With Previously Uncollected Side Stories
+Mon, 17 Aug 2026 01:17:28 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/to-love-ru-manga-gets-new-volume-with-previously-uncollected-side-stories/.240635
+
+New volume ships on October 2
+
+### Umiko Seto's Osake ni Yowai Andō-san BL Manga Gets AnimeFesta Anime
+Mon, 17 Aug 2026 00:57:38 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/umiko-seto-osake-ni-yowai-ando-san-bl-manga-gets-animefesta-anime/.240633
+
+Romantic comedy centers on no-nonsense systems engineer who turns into cheerful drunk
+
+### Bleach: Thousand-Year Blood War - The Calamity Anime Casts Yūki Kaji
+Mon, 17 Aug 2026 00:32:12 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/bleach-thousand-year-blood-war-the-calamity-anime-casts-yuki-kaji/.240628
+
+Kaji plays Toshihiro Hitsugaya's Complete Bankai version
 
 ### Comic Market 108 Draws 260,000 Attendees Across 2 Days
 Sun, 16 Aug 2026 20:59:40 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/comic-market-108-draws-260000-attendees-across-2-days/.240624
@@ -36,31 +61,6 @@ Ishitsuyo launched <cite>Amazon Kiss</cite> in 2017
 Sun, 16 Aug 2026 06:40:44 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/reincarnated-as-a-sword-season-2-reveals-september-30-early-streaming-debut-theme-songs-in-trailer/.240622
 
 Itsuki Fujioka to launch manga spinoff <cite>Tensei Shitara Ken Deshita My Dish</cite> on September 30
-
-### Skip & Loafer Anime's 2nd Season Reveals April 2027 Debut in Teaser Video
-Sun, 16 Aug 2026 04:40:36 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/skip-and-loafer-anime-2nd-season-reveals-april-2027-debut-in-teaser-video/.240621
-
-Takatsugu Wakabayashi returns to compose music with new composer Michiru
-
-### Toryumon Takeda's Doga Manga Ends in 7th Volume
-Sat, 15 Aug 2026 23:53:41 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/toryumon-takeda-doga-manga-ends-in-7th-volume/.240608
-
-Series about noble who dies, gets put in cyborg body debuted in October 2023
-
-### Patlabor the Case Files Game Debuts on September 17
-Sat, 15 Aug 2026 23:43:53 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/patlabor-the-case-files-game-debuts-on-september-17/.240599
-
-Game to launch for PS5, PC in Japanese, English, Simplified Chinese, Traditional Chinese, Korean
-
-### Boruto Manga Takes 1-Month Break
-Sat, 15 Aug 2026 23:09:24 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/boruto-manga-takes-1-month-break/.240585
-
-Manga returns in November issue that will ship on September 18
-
-### Kingdom Hearts IV Game Presents 4-Minute Trailer
-Sat, 15 Aug 2026 20:26:18 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/kingdom-hearts-iv-game-presents-4-minute-trailer/.240610
-
-<cite>Coco</cite> world, paper-thin version of Mickey teased with '100%' promise of 2027 release
 
 ## Crunchyroll News
 

@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-17T05:20:29.732Z
+# Games — harvested 2026-08-17T08:23:34.082Z
 
 ## Eurogamer
 
@@ -57,20 +57,23 @@ Sat, 15 Aug 2026 09:00:00 +0000 — https://www.eurogamer.net/rusty-lake-servant
 
 I wiggle a cloud and the lake goes dark, revealing patterns among the stars. I poke a cat and pick up its sick so I can glue back together a chair. I place fly eggs on grilled fish to sate my master's guests, and I snip open a sutured wound to release the writhing thing inside. I hunt sport with my shotgun from the brow of a hill, some of them on their morning stroll. I neatly pack away severed fingers, then pluck shadow men from gnashing maws. And at one point I've even got a screaming baby in my inventory too. Read more
 
-### What we've been playing - "My Switch 2 sits watching me from my desk like the Green Goblin mask"
-Sat, 15 Aug 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-switch-2-green-goblin-mask
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, we all melt into puddles by our computers, but Dom also devotes themself to the new Fire Emblem; Connor gets enthusiastic about new fighting game on the block, Marvel T&omacr;kon; Chris can't stop thinking about the Star Wars XCOM-like game he played; and Bertie organises a Eurogamer community hike. Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Matchmaking platform Sail.game launches free tier for devs ahead of Gamescom
+Mon, 17 Aug 2026 07:33:37 +0000 — https://www.gamesindustry.biz/matchmaking-platform-sailgame-launches-free-tier-for-devs-ahead-of-gamescom
+
+Matchmaking platform Sail.game is introducing a free tier for PC and console game developers ahead of Gamescom. Read more
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### No Sony Characters in Fortnite s Big Gaming Celebration Season
+Mon, 17 Aug 2026 06:00:00 GMT — https://www.pushsquare.com/news/2026/08/no-sony-characters-in-fortnites-big-gaming-celebration-season
+
+Arriving on 20th August. Fortnite’s big gaming celebration season arrives this week, on 20th August – but there’ll be no Sony characters involved. While the platform holder has shared Kratos and Aloy with the title in the past, neither feature at all in this trailer for Override. Read the full article on pushsquare.com
 
 ### Until Dawn s Hayden Panettiere Tragically Passes Away Aged Just 36
 Mon, 17 Aug 2026 05:30:00 GMT — https://www.pushsquare.com/news/2026/08/until-dawns-hayden-panettiere-tragically-passes-away-aged-just-36
@@ -126,11 +129,6 @@ Brand new trailer revealed. Expectant Kingdom Hearts 4 fans have been rewarded a
 Sat, 15 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-646
 
 Weekend warriors. Another week is all done and dusted, which means we can look forward to another weekend of gaming. Here's what we're playing. Jamie O'Neill I noticed on Time Extension that there's a sale of Arcade Archives' Namco titles, so since I've mainly spent time with the PC Engine port, I figured I'd treat myself to 30% off Namco's obscure 1988 cute-'em-up, Arcade Archives Ordyne . Read the full article on pushsquare.com
-
-### Guide: When Is the Phantom Blade Zero State of Play?
-Sat, 15 Aug 2026 08:00:00 GMT — https://www.pushsquare.com/guides/when-is-the-phantom-blade-zero-state-of-play
-
-Dates, times, and what to expect. Sony's latest State of Play is very nearly here, and this time, it's focusing wholly on a single game: Phantom Blade Zero . The Chinese action game has looked extremely promising for a long time now, and as it approaches its October launch date, developer S-GAME has prepared a new showing of its stylish action title. Read the full article on pushsquare.com
 
 ## Game Developer
 

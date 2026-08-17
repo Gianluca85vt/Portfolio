@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-17T05:20:29.732Z
+# Tech — harvested 2026-08-17T08:23:34.082Z
 
 ## Ars Technica
 
@@ -23,6 +23,11 @@ Sat, 15 Aug 2026 11:09:57 +0000 — https://arstechnica.com/science/2026/08/so-m
 It’s been a wild first half of the year in the US power sector, with announcements of gigantic natural gas power plants and some long-awaited renewable energy projects coming online. At times of rapid change, forecasting is difficult. So I feel a measure of comfort focusing on something concrete like the list of 368 utility-scale plants that began operation from January to June, according to data from the US Energy Information Administration . The group is dominated by utility-scale solar. This is a top-heavy list, led by SunZia Wind South and SunZia Wind North in New Mexico , which went online this spring and are the largest wind farms in the country, with a combined generating capacity of 3,650 megawatts. SunZia has been in the works for about a decade and arrives at a time when US onshore wind power development has dwindled for a host of reasons related to regulations and public opinion. Read full article Comments ]]>
 
 ## The Verge
+
+### I’m hooked on Peak Design’s new City bags
+2026-08-17T03:00:00-04:00 — https://www.theverge.com/tech/980137/peak-design-city-line-review
+
+Integrated BagLev hooks keep Peak Design’s City Line crossbody bag and backpack off the dirty ground. | Photo by Thomas Ricker / The Verge It's just a hook, sewn into a bag, but I really, really like it. Peak Design is so proud of its clever integration that the San Francisco-based maker of camera gear gave it a name: BagLev, for its ability to keep its new City Line of bags levitated above the dirty ground. How many of us are guilty of coming home and tossing a bag onto the kitchen table or counter to unload it? We pretend it's not a thing, despite the carryall having come into contact with unknown filth picked up from the floors of subways and dive bars, sidewalks, and parks. BagLev lets you hang your bag off a chair, ledge, tabletop, or counter as you go about your day, kee … Read the full story at The Verge. ]]>
 
 ### OpenAI reportedly disbanded its preparedness team
 2026-08-16T17:32:56-04:00 — https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team
@@ -68,11 +73,6 @@ If you squint you can just about make out the hat. | Screenshot: Terrence O’Br
 2026-08-15T13:00:00-04:00 — https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review
 
 They’re far more powerful and fun than their bargain price suggests. | Photo: Terrence O’Brien / The Verge When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more niche musical offerings like the Digitakt , Octatrack , or Tonverk , they're often overlooked. But as my collection has grown to include fancier and far more expensive instruments, I still find myself coming back to the Model series. Those looking to get their first groovebox are often drawn to more familiar brand names like Korg … Read the full story at The Verge. ]]>
-
-### Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals
-2026-08-15T11:00:00-04:00 — https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview
-
-They’re the Lennon–McCartney of overanalyzing pop music. | Image: Daniel Randall As if you needed more reason to love Carly Rae Jepsen's " Call Me Maybe " beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop , one of the best music podcasts out there. Cohosts Nate Sloan and Charlie Harding obsessively dissect pop songs, from the theory behind their musical choices to their production techniques. If you're a student of pop music, then this is a must-listen podcast. Sloan is a composer and professor of musicology at USC Thornton School of Music, where he researches pop, but also jazz and even Tin Pan Alley. Harding is a songwriter, music journalist, and a professor as well. Their combined … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
