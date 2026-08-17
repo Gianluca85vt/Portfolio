@@ -22,7 +22,6 @@ scoreSources:
   - { outlet: GameSpot, score: 8 }
   - { outlet: Console Creatures, score: 7 }
 excerpt: The reviews landed with premium early access, and they are a full grade above the original. Around thirty people made this. The thing reviewers keep calling opaque is the same thing that makes it look like it cost ten times what it did.
-draft: true
 ---
 
 Reviews for **Mortal Shell II** went up on **17 August**, timed to the premium
