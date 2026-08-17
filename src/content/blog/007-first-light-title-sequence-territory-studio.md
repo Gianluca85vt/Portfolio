@@ -3,7 +3,7 @@ title: 007 First Light's opening titles are built from the game's own mocap, not
 date: 2026-08-17
 category: 3D
 excerpt: Territory Studio built the Bond title sequence for IO Interactive's 007 First Light out of performance data pulled straight from the game's own animation assets. The interesting part isn't the glass and gold — it's what reusing in-engine mocap for a broadcast-grade sequence actually forces you to do.
-cover: /img/blog/007-first-light-title-sequence-territory-studio/cover.svg
+cover: /img/blog/007-first-light-title-sequence-territory-studio/shot-01.jpg
 draft: true
 ---
 
@@ -13,6 +13,11 @@ excuse to talk about something that has quietly become normal in game
 cinematics: title sequences that no longer shoot anything new.
 
 ## What they made
+
+<figure>
+  <img src="/img/blog/007-first-light-title-sequence-territory-studio/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>IO Interactive / Amazon MGM Studios, via the official 007 First Light Steam page</figcaption>
+</figure>
 
 The sequence was revealed back at the **BAFTA Games Awards in April 2026**,
 scored by **"First Light"**, performed by Lana Del Rey and co-written with
