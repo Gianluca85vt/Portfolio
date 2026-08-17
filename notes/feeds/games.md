@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-16T16:59:07.720Z
+# Games — harvested 2026-08-17T05:20:29.732Z
 
 ## Eurogamer
+
+### Saber Interactive finally adds an AI disclaimer to Rideshare Stimulator's Steam page
+Sun, 16 Aug 2026 17:34:21 +0000 — https://www.eurogamer.net/saber-rideshare-stimulator-steam-ai-disclaimer
+
+Amid the row between Saber Interactive CEO Matthew Karch and former writer Stella Sacco after he said he'd have "been happy to replace" her with AI, the studio has finally added the AI disclaimer to Rideshare Stimulator's Steam page that had been conspicuously missing since the game first went live for wishlisting on 30th July. Read more
 
 ### Matthew McConaughey explains why he turned down the role of Joel in The Last of Us
 Sun, 16 Aug 2026 16:52:07 +0000 — https://www.eurogamer.net/matthew-mcconaughey-last-of-us-joel-turned-down
@@ -67,6 +72,21 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Until Dawn s Hayden Panettiere Tragically Passes Away Aged Just 36
+Mon, 17 Aug 2026 05:30:00 GMT — https://www.pushsquare.com/news/2026/08/until-dawns-hayden-panettiere-tragically-passes-away-aged-just-36
+
+"She was an incredible light". Hayden Panettiere, best known for shows like Heroes and Nashville , has tragically passed away aged just 36-years-old. The US actress will be remembered among PlayStation fans for her role in PS4 horror game Until Dawn , alongside other high-profile stars like Rami Malek. Read the full article on pushsquare.com
+
+### Sony s Purge on PS5 Shovelware May Now Have Hit a Legit Indie Dev
+Mon, 17 Aug 2026 05:15:00 GMT — https://www.pushsquare.com/news/2026/08/sonys-purge-on-ps5-shovelware-may-now-have-hit-a-legit-indie-dev
+
+Stonks-9800 stomped. Sony has been ridding the PS Store of shovelware, erasing entire publisher catalogues from its virtual plaza. While I think this news has been broadly well received , I’ve always cautioned that legit devs may one day get caught up in the crossfire. Read the full article on pushsquare.com
+
+### Guide: These 25+ PS5 and PS Plus Games Are Coming to PS5 This Week (17th-23rd August)
+Mon, 17 Aug 2026 05:00:00 GMT — https://www.pushsquare.com/guides/these-25plus-ps5-and-ps-plus-games-are-coming-to-ps5-this-week-17th-23rd-august
+
+The Sinking City 2! Starsand Island! Mortal Shell 2! Much more! I'm afraid to say we're now deep into the heavy release season, folks. That means there are loads of new PS5 games coming out this time, including The Sinking City 2 , Mortal Shell 2 , Starsand Island , and one I'm personally looking forward to: No Case Should Remain Unsolved . Read the full article on pushsquare.com
+
 ### You d Have to Be Heartless to Hate on This Extended Kingdom Hearts 4 Trailer
 Sun, 16 Aug 2026 03:30:00 GMT — https://www.pushsquare.com/news/2026/08/youd-have-to-be-heartless-to-hate-on-this-extended-kingdom-hearts-4-trailer
 
@@ -97,11 +117,6 @@ Sat, 15 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/matt-g
 
 And who are we to question him. There has been an awful lot of rumour and speculation about the potential return of The Simpsons: Hit & Run , a firm fan favourite game from 2003. Well, it seems like we might have finally gotten some sort of confirmation, and it comes straight from the creator of The Simpsons , Matt Groening . Read the full article on pushsquare.com
 
-### Guide: These 25+ PS5 and PS Plus Games Are Coming to PS5 Next Week (17th-23rd August)
-Sat, 15 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-25plus-ps5-and-ps-plus-games-are-coming-to-ps5-next-week-17th-23rd-august
-
-The Sinking City 2! Starsand Island! Mortal Shell 2! Much more! I'm afraid to say we're now deep into the heavy release season, folks. That means there are loads of new PS5 games coming out this time, including The Sinking City 2 , Mortal Shell 2 , Starsand Island , and one I'm personally looking forward to: No Case Should Remain Unsolved . Read the full article on pushsquare.com
-
 ### Pixar s Coco Confirmed for Kingdom Hearts 4, Launching on PS5 in Late 2027
 Sat, 15 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/pixars-coco-confirmed-for-kingdom-hearts-4-launching-on-ps5-in-late-2027
 
@@ -119,5 +134,5 @@ Dates, times, and what to expect. Sony's latest State of Play is very nearly her
 
 ## Game Developer
 
-_Feed unavailable: HTTP 404_
+_Nothing in the last 48 hours._
 

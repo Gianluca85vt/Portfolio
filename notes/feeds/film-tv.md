@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-16T16:59:07.720Z
+# Film & TV — harvested 2026-08-17T05:20:29.732Z
 
 ## Variety
 
-### Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Spotted Filming Beatles Biopic at Iconic Abbey Road Crosswalk
-Sun, 16 Aug 2026 16:37:47 +0000 — https://variety.com/2026/film/news/paul-mescal-barry-keoghan-filming-beatles-biopic-abbey-road-1236835628/
+### John Oliver Brutally Mocks Trump for Sacrificing Staff in Airplane-Swap Incident
+Mon, 17 Aug 2026 03:47:18 +0000 — https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificing-staff-airplane-swap-incident-iran-1236836013/
 
-It wouldn’t be a Beatles movie without Abbey Road. In a video shared on social media, Harris Dickinson, Paul Mescal, Joseph Quinn and Barry Keoghan were shown recreating the iconic album cover for Sam Mendes’ multi-part Beatles biopic, titled “The Beatles – A Four-Film Cinematic Event.” Each film in the series will be from the [ ]
+On Sunday night, the summer’s hottest soap opera star, John Oliver, opened the latest edition of his Emmy-winning HBO series “Last Week Tonight” by addressing Trump’s controversial airplane switcheroo incident whilst leaving a NATO summit in Turkey. “The Iran War dragged on with a series of humiliating news headlines including this revelation about Trump’s trip [ ]
 
-### Box Office: Spider-Man: Brand New Day Remains No. 1 With $70 Million, End of Oak Street Debuts to $21 Million
-Sun, 16 Aug 2026 16:08:27 +0000 — https://variety.com/2026/film/box-office/spiderman-box-office-brand-new-day-dominates-end-of-oak-street-debut-1236834084/
+### Hayden Panettiere, Heroes and Scream Star, Dies at 36
+Mon, 17 Aug 2026 03:12:22 +0000 — https://variety.com/2026/film/news/hayden-panettiere-dead-heroes-scream-1236835999/
 
-Dog days of summer? This year s August at the box office didn t get the memo. This popcorn season is ending with a bang rather than the usual whimper as Spider-Man: Brand New Day and The Odyssey continue to pack in crowds. Meanwhile, two new movies, Warner Bros. prehistoric sci-fi mystery “The End of Oak Street” [ ]
+Hayden Panettiere, known for her roles on Heroes, Nashville and in Scream 4 and Scream VI, died on Sunday. Her rep confirmed her death to ABC News. A cause of death was not immediately known. It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light [ ]
 
-### Spider-Man: Brand New Day Hits $2 Billion Worldwide in Three Weeks
-Sun, 16 Aug 2026 15:15:31 +0000 — https://variety.com/2026/film/box-office/spider-man-brand-new-day-2-billion-worldwide-box-office-second-fastest-milestone-1236834058/
+### Lanterns Premiere Shocker: Stars Kyle Chandler, Aaron Pierre and Show Creators Break Down That Time Jump and Cliffhanger
+Mon, 17 Aug 2026 02:00:00 +0000 — https://variety.com/2026/tv/news/lanterns-premiere-how-does-hal-die-1236835653/
 
-New day, new box office milestone for Sony s latest Spidey adventure. Spider-Man: Brand New Day has surpassed $2 billion in global ticket sales, eclipsing the rare benchmark after just three weekends of release. The comic book adventure, starring Tom Holland as Marvel s neighborhood web-slinger, has grossed $785 million in North America and $1.23 billion overseas [ ]
+SPOILER ALERT: This article contains spoilers for the Season 1 premiere of “Lanterns,” now streaming on HBO Max. What kind of superhero show has the guts to kill off its lead character in the first episode? Of course, just because Hal Jordan (Kyle Chandler) is found dead in the bleachers by John Stewart (Aaron Pierre) and [ ]
 
-### Mission Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait
-Sun, 16 Aug 2026 14:14:50 +0000 — https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/
+### Noah Kahan Turns His Miserable Material Into Manic Elation at Triumphant Rose Bowl Stadium Show: Concert Review
+Mon, 17 Aug 2026 01:41:58 +0000 — https://variety.com/2026/music/concert-reviews/noah-kahan-concert-review-tour-rose-bowl-stadium-1236835970/
 
-Back in 2013, actor George MacKay and director Paul Wright paired up for For Those in Peril, an atmospheric study of youthful alienation, trauma and psychological collapse in small-town Scotland that sealed both men s place on the U.K. industry ones to watch list. Since then, MacKay s career has gone from strength to strength, while Wright [ ]
+“My name is Noah Kahan and I am here to make you fucking miserable!” the biggest male rock star on the charts right now announced almost at the outset of his sold-out show Saturday night at Pasadena s Rose Bowl Stadium. In this, he was unsuccessful, but to Kahan s credit, he did not really try very [ ]
 
-### Locarno Winner Forgotten Spaceman Adds Khan Kumar Media, Prism Entertainment as Executive Producers Ahead of Toronto Bow (EXCLUSIVE)
-Sun, 16 Aug 2026 11:05:14 +0000 — https://variety.com/2026/film/festivals/forgotten-spaceman-locarno-leopard-tomorrow-khan-kumar-prism-eps-1236835604/
+### The End of Tom Six Review: The Director of the Human Centipede Films Has Multiple Sclerosis and Is Sharing the Horror. This Confessional Doc Is His Witty Self-Defense
+Mon, 17 Aug 2026 00:04:48 +0000 — https://variety.com/2026/film/reviews/the-end-of-tom-six-review-the-human-centipede-1236835608/
 
-Forgotten Spaceman, the documentary short by BAFTA-nominated filmmaker Elham Ehsas that won the Leopard of Tomorrow (International Competition) award at Locarno s Junior Jury Awards, has added Khan Kumar Media and Prism Entertainment as executive producers ahead of its Toronto Film Festival premiere next month. The new executive producers are Sharib Khan and Vikas Kumar [ ]
+"The End of Tom Six" is a self-styled confessional memoir in which Six fuses his life and career and illness into a parable. He’s asking: Is there room anymore for movies, like his, that stray over the line? And if not, what does that mean?
 
-### Shame and Money Director on Sundance-Winning Drama About a Kosovo Family in Free Fall: It s a Look Into the Past and a Warning to the Future
-Sun, 16 Aug 2026 08:33:36 +0000 — https://variety.com/2026/film/global/shame-and-money-sundance-social-drama-kosovo-1236834517/
+### Noah Wyle Hopes David Ellison s Threat to Move Paramount Out of California is Saber Rattling : You re Going to Take Hollywood Out of Hollywood
+Sun, 16 Aug 2026 23:55:13 +0000 — https://variety.com/2026/tv/columns/noah-wyle-david-ellison-move-paramount-out-of-california-1236835892/
 
-Sundance Grand Jury Prize winner Visar Morina returns to the Sarajevo Film Festival — the scene of a previous triumph — with the biting social drama “Shame and Money,” which won the top prize in Park City earlier this year and is playing in the festival’s main competition. The director’s third feature wowed audiences at Sundance, [ ]
+Noah Wyle is hoping David Ellison isn’t serious about moving Paramount out of California. “I hope this is saber rattling because I can t think of anything that would less engender you to the population of this industry than to say you re going to take Hollywood out of Hollywood,” the “Pitt” star told me Sunday at [ ]
 
-### Ranveer Singh, Kalyani Priyadarshan s Pralay, Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming
-Sun, 16 Aug 2026 05:41:00 +0000 — https://variety.com/2026/film/news/ranveer-singh-kalyani-priyadarshan-pralay-mumbai-filming-1236835508/
+### Dwayne Johnson Leads Crowd in Happy Birthday Song for Daughter Simone After Receiving Disney Legends Award at D23
+Sun, 16 Aug 2026 23:34:24 +0000 — https://variety.com/2026/film/news/dwayne-johnson-disney-legend-d23-emily-blunt-1236833908/
 
-Ranveer Singh s Pralay, an end-of-the-world action thriller, has begun filming in Mumbai. The film is produced by Ananya Birla s Birla Studios, Hansal Mehta and Sahil Saigal s True Story Films and Singh s Maa Kasam Films. Singh, who headlines the project, also serves as a producer on the film, which is directed by Jai Mehta. One of [ ]
+Dwayne Johnson has been officially crowned a legend — a Disney Legend that is. On Sunday at D23, Johnson was honored with the hall-of-fame-style award from the Walt Disney Company. From Jungle Cruise to the Moana franchise and Race to Witch Mountain, Johnson is no stranger to the world of Disney. But as he took the stage to [ ]
 
-### The Pitt, Hacks and Beef Among Astra TV Awards Winners
-Sun, 16 Aug 2026 05:00:00 +0000 — https://variety.com/2026/awards/news/the-pitt-hacks-beef-astra-tv-awards-winners-1236835570/
+### Bob Iger Gets All-Star Send-Off From Robert Downey Jr., Harrison Ford and New CEO Josh D Amaro at D23 Disney Legends Ceremony
+Sun, 16 Aug 2026 23:20:17 +0000 — https://variety.com/2026/film/news/bob-iger-robert-downey-jr-harrison-ford-d23-disney-legends-1236835731/
 
-Hacks, The Pitt and Beef were the big winners of the 2026 Astra TV Awards. The Pitt took home the most trophies of the night with six. Those include for best drama series, streaming drama ensemble, actor in a drama series for Noah Wyle, supporting actor in a drama series for Patrick Ball, supporting actress [ ]
+Bob Iger is officially a legend within the Disney kingdom. We can’t call it surprising that the media giant named its former CEO (twice over) to its hall of fame, but it’s certainly fitting. Iger, 75, has guided the company to delirious heights of success – and through some of its darkest ever hours. Disney [ ]
 
-### Monsters, Inc. Themed Land Will Open at Disney World in 2027
-Sun, 16 Aug 2026 04:11:12 +0000 — https://variety.com/2026/film/news/monsters-inc-themed-land-will-disney-world-2027-1236834775/
+### Anne Hathaway Tears Up as She s Named a Disney Legend (and Her 2026 Box Office Crosses $2 Billion): I m One of the Most Insanely Lucky People in the World
+Sun, 16 Aug 2026 22:44:23 +0000 — https://variety.com/2026/film/news/anne-hathaway-disney-legend-d23-princess-diaries-devil-wears-prada-1236835727/
 
-The Monsters, Inc. themed land, Monstropolis, is set to open at Disney s Hollywood Studios at Disney World in 2027. The news was announced Saturday at D23. Vice President Creative, Walt Disney World Portfolio at Walt Disney Imagineering, Michael Hundgen told Variety, “We’re so excited to bring Monstropolis to life for fans.” Currently under construction, Monstropolis [ ]
+Shut up! Oscar winner Anne Hathaway is officially a Disney Legend. Hathaway was officially inducted into Disney s hall of fame on Sunday afternoon during D23, the company s weekend-long ultimate fan event. I am here today because I m one of the most insanely lucky people in the world, Hathaway said after her Devil Wears Prada director [ ]
 
-### RuPaul s Drag Race, All Stars and Untucked Renewed for New Seasons at MTV and Paramount+
-Sun, 16 Aug 2026 00:00:00 +0000 — https://variety.com/2026/tv/news/rupaul-drag-race-all-stars-untucked-renewed-mtv-paramount-1236834928/
+### Ariana Grande Brings Out Wicked Co-Star Cynthia Erivo for Happy Days and For Good at Eternal Sunshine London Show
+Sun, 16 Aug 2026 21:27:31 +0000 — https://variety.com/2026/music/news/ariana-grande-cynthia-erivo-eternal-sunshine-london-wicked-1236835738/
 
-Shantay you stay! RuPaul s Drag Race, All Stars and Untucked have all been renewed for new seasons at MTV and Paramount+. The franchise s main show, RuPaul’s Drag Race will return to MTV for its 19th season. This follows a successful season 18 which delivered double-digit growth over the previous season and set a new franchise [ ]
+Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine stop at London s O2. The “Wicked” stars sang “For Good” and “Happy Days” on the second night in the U.K. for Grande’s tour. Grande is currently on her Eternal Sunshine Tour, which shares a title with her seventh studio album. The [ ]
 
 ## The Hollywood Reporter
 
-### Nick Reiner Blocked From Trust Fund Due to Slayer Statute Amid Charges For Parents Murder
-Sun, 16 Aug 2026 15:42:52 +0000 — https://www.hollywoodreporter.com/news/general-news/nick-reiner-blocked-trust-fund-charges-parents-murder-1236674564/
+### Bob Iger Takes Victory Lap As He s Named a Disney Legend, Applauds New CEO Josh D Amaro: You re Wearing That Title Really Well
+Mon, 17 Aug 2026 03:55:04 +0000 — https://www.hollywoodreporter.com/business/business-news/bob-iger-disney-legend-josh-damaro-d23-1236674802/
 
-Trustees opposed Reiner's petition to access the $1.5 million trust fund because he is accused of killing his parents.
+The former Disney boss was honored alongside Anne Hathaway, Dwayne Johnson, Lin-Manuel Miranda and Jerry Bruckheimer at the D23 event.
 
-### Spider-Man: Brand New Day Hits $2B Globally to Top No Way Home as Sony s Biggest Release
-Sun, 16 Aug 2026 15:37:59 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/
+### Hayden Panettiere, Actress on Heroes and Nashville, Dies at 36
+Mon, 17 Aug 2026 03:06:51 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hayden-panettiere-dead-actress-heroes-nashville-scream-1236674794/
 
-Tom Holland's superhero juggernaut collected $70 million domestically in its third weekend, alongside the debuts of 'The End of Oak Street' and 'PAW Patrol: The Dino Movie.'
+"It is with profound sadness that we share the tragic passing of our beloved Hayden," her father said in a statement.
 
-### It Was a Bumpy Ride! : Jack Rowan and Director Kieron J. Walsh on the Many Lives of Head-Bopping, Troubles-Set Skintown
-Sun, 16 Aug 2026 15:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/jack-rowan-kieron-j-walsh-interview-skintown-film-edinburgh-1236670964/
+### Alex Cooper Departing Talent Agency UTA
+Sun, 16 Aug 2026 21:27:58 +0000 — https://www.hollywoodreporter.com/business/digital/alex-cooper-departing-talent-agency-uta-1236674749/
 
-The English actor and Irish filmmaker arrive at Edinburgh Film Festival with one of the most raucous indies of the year, backdropped by '90s rave culture and war-weary Northern Ireland: "It's not really been recorded — what it was like for young people to grow up there."
+The departure comes amid a period of big change, as well as scrutiny about her media company Unwell.
 
-### Too Much Music Is a Doc Project About Ghanaian Keyboardist Kiki Gyan – and About Who Controls Artists Narratives
-Sun, 16 Aug 2026 06:59:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/too-much-music-doc-film-ghana-kiki-gyan-locarno-open-doors-1236673554/
+### Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Seen Recreating Abbey Road Album Cover
+Sun, 16 Aug 2026 19:48:45 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sam-mendes-beatles-biopic-recreates-abbey-road-album-cover-1236674685/
 
-Director Aseye Fiagbe grew up with his music, thanks to the band Osibis, but about his story, she basically only knew how he died. "That bothered me," she recalls about the inspiration for the doc.
+The four actors are portraying Paul McCartney, George Harrison, Ringo Starr and John Lennon, respectively, for Sam Mendes's four-part Beatles biopic.
 
-### Disney s Experiences Chief Talks Figment, the Tomorrowland Refresh and All That D23 News
-Sun, 16 Aug 2026 04:57:22 +0000 — https://www.hollywoodreporter.com/business/business-news/disneys-experiences-tomorrowland-figment-refresh-d23-1236673154/
+### ‘Love Story’ Producers Didn’t Expect Carolyn Bessette’s TikTok Fan Army to Come for Them
+Sun, 16 Aug 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/love-story-producers-react-carolyn-bessette-tiktok-1236672651/
 
-Thomas Mazloum spoke to THR in connection with the D23 fan event in Anaheim this weekend.
+Nina Jacobson and Brad Simpson reveal how leaked photos sparked a social media firestorm — and how the FX limited series ultimately won over skeptics with seven Emmy nominations.
 
-### Netflix Fires Back Against Tyra Banks America s Next Top Model Docuseries Defamation Lawsuit
-Sun, 16 Aug 2026 03:03:56 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-tyra-banks-antm-defamation-lawsuit-dismiss-1236674506/
+### Karol G Brings Vibrant Vibes to Los Angeles With Her Viajando Por El Mundo Tropitour
+Sun, 16 Aug 2026 19:24:57 +0000 — https://www.hollywoodreporter.com/music/music-features/karol-g-viajando-por-el-mundo-tropitour-la-night-1-highlights-1236674607/
 
-"Banks understands editorial discretion. She created, hosted, and executive produced 24 seasons of ANTM, making the same kinds of editorial decisions she now attacks — what footage to include, what to omit, and how to present competing narratives," the motion reads.
+The Colombian singer-songwriter performed her hit album 'Tropicoqueta' as well as several songs from her just-released album 'No Me Arrepiento de Sentir Tanto' to a sold-out crowd for her first of three nights at Inglewood’s SoFi Stadium.
 
-### RuPaul s Drag Race Renewed for Season 19 at MTV
-Sun, 16 Aug 2026 00:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/rupauls-drag-race-renewal-season-19-mtv-1236674246/
+### ‘DTF St. Louis’ Creator Steven Conrad Has No Plans to Make More Movies
+Sun, 16 Aug 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/dtf-st-louis-creator-plans-movies-1236672644/
 
-The franchise's 'All Stars' spinoff was also renewed by Paramount+.
+“My appetite to continue to make television is really it now because of the length of the engagement,” Conrad tells THR.
 
-### Disney and Epic Games Launch Game That Connects Star Wars Theme Park Ride to New Fortnite Adventure
-Sat, 15 Aug 2026 23:30:00 +0000 — https://www.hollywoodreporter.com/business/digital/disney-epic-games-star-wars-theme-park-ride-fortnite-1236674132/
+### In A Vineyard for A Lobster, Snowfall in a Ugandan Village Becomes a Political and Colonial Allegory
+Sun, 16 Aug 2026 18:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/a-vineyard-for-a-lobster-uganda-film-locarno-open-doors-1236673553/
 
-Visitors to the 'Millennium Falcon: Smuggler's Run' attraction in Orlando or Anaheim can accept a mission that will earn rewards in the 'Fortnite' extension of the ride.
+Director Talemwa Pius, who pitched his project at Locarno Open Doors, where it won one of the main awards, asks: "What really changed after colonialism, and what didn’t."
 
-### Selena Gomez s Attorney Fires Back at Wondermind Lawsuit: Completely Meritless
-Sat, 15 Aug 2026 22:49:08 +0000 — https://www.hollywoodreporter.com/news/general-news/selena-gomez-responds-wondermind-lawsuit-completely-meritless-1236674411/
+### ‘The Pitt’ Showrunner Admits Season One’s Notoriety Amped Up Pressure For Season Two: “We Had to Prove That It Wasn’t Just a Fluke”
+Sun, 16 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-pitt-showrunner-pressure-season-two-1236670578/
 
-"We will vigorously defend these false allegations and indeed are filing a motion to dismiss the baseless claims against her," the singer-actress' attorney said in a statement to People.
+Gemmill also teases season three, er, a tiny bit.
 
-### CBS News Chief Correspondent Matt Gutman Accused of Harassment in Wrongful-Termination Suit by Former ABC News Producer
-Sat, 15 Aug 2026 21:46:49 +0000 — https://www.hollywoodreporter.com/tv/tv-news/cbs-news-matt-gutman-accused-harassment-abc-news-1236674408/
+### The French Designer Behind the Sexiest Moments of Hollywood’s Golden Age (Including That Marilyn Dress)
+Sun, 16 Aug 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/style/designer-marilyn-monroe-dress-hollywood-glamour-1236671256/
 
-The female ex-ABC News staffer also alleges the network denied her medical accommodations.
+A new book tells the story — and revels in the lavish work — of couturier Jean Louis, the Da Vinci of Va Va Voom, who shaped some of the most memorable silhouettes in cinema
 
 ## Deadline
 
-### Dolly Parton Misses Dollywood Ride Opening Amid Ongoing Health Issues : See You Down The Road
-Sun, 16 Aug 2026 16:22:09 +0000 — https://deadline.com/2026/08/dolly-parton-misses-dollywood-ride-opening-health-issues-1237042074/
+### Hayden Panettiere Dies: Heroes, Nashville Scream Star Was 36
+Mon, 17 Aug 2026 03:27:00 +0000 — https://deadline.com/2026/08/hayden-panettiere-dead-1237042575/
 
-As Dollywood opens its latest attraction, NightFlight Expedition, Dolly Parton is contending with ongoing health issues. On Friday, the 11x Grammy winner virtually greeted guests of her Nashville park to let them know that her doctor clipped my wings and advised her against attending the opening of the new coaster in the Tennessee theme park. [ ]
+Hayden Panettiere, who is best known for playing the superpowered cheerleader on NBC s Heroes, has died at the age of 36. Her rep confirmed the news to Deadline. It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought [ ]
 
-### Spider-Man: Brand New Day $70M Is Second-Best 3rd Weekend Ever; Odyssey Sails Past Half Billion, Dino Pics $20M+ Apiece Box Office Update
-Sun, 16 Aug 2026 15:50:00 +0000 — https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/
+### Lanterns Star Kyle Chandler Weighs In On Premiere Twist That Sets In Motion The Whole Mystery Of HBO Series
+Mon, 17 Aug 2026 02:15:00 +0000 — https://deadline.com/2026/08/lanterns-premiere-twist-hal-jordan-kyle-chandler-interview-1237042293/
 
-SUNDAY AM WRITETHRU after Saturday posts: Spider-Man: Brand New Day posted the second-best third weekend ever at the domestic box office with $70M -51%, which takes its running cume to $785.8M. By end of today, Brand New Day will rank as the fourth highest grossing domestic movie of all-time behind Force Awakens ($936.6M), Avengers: Endgame [ ]
+SPOILER ALERT! This post contains details from the premiere of HBO s Lanterns. All is not what it seems in HBO s Lanterns. The series premiered Sunday night, introducing audiences to Kyle Chandler as the legendary Lantern Hal Jordan and his trainee John Stewart (played by Aaron Pierre). Whatever plans Hal has for John s training regimen are [ ]
 
-### Spider-Man: Brand New Day Becomes Second-Fastest To Cross $2B At Global Box Office
-Sun, 16 Aug 2026 15:15:51 +0000 — https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-2-1237042050/
+### Lanterns Creators On That OMG First Episode Ending Crew Call Podcast
+Mon, 17 Aug 2026 02:00:00 +0000 — https://deadline.com/2026/08/lanterns-first-episode-hal-jordan-podcast-damon-lindelof-1237042209/
 
-Holy cow! Or whatever kind of Holy is yelled out in a comic book, but Sony/Marvel Studio s Spider-Man: Brand New Day crossed the $2 billion global mark, becoming the second fastest movie to do so and the eighth movie to ever cross that benchmark. Brand New Day pulls off this feat in 17 days while [ ]
+Warning: This podcast and write-up has spoilers about the ending of tonight s first episode of HBO/DC s Lanterns We can t even say it in a blunt, straight sentence. But, first episode in, something crazy happened to Kyle Chandler s O.G. Green Lantern, Hal Jordan, in a time jump. It s an outcome that sets up for an interesting [ ]
 
-### Mira Sorvino Calls Romy Michele 2 Co-Star Lisa Kudrow A Great Acting Partner Reveals Why Film Has Withstood The Test Of Time
-Sun, 16 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/mira-sorvino-romy-and-michele-lisa-kudrow-d23-1237042021/
+### Harrison Ford, Robert Downey Jr. Ellen Pompeo Pay Tribute To Bob Iger As He Becomes A Disney Legend
+Mon, 17 Aug 2026 00:50:46 +0000 — https://deadline.com/2026/08/bob-iger-disney-legend-1237042336/
 
-Mira Sorvino and Lisa Kudrow are reprising their roles from Romy and Michele s High School Reunion for the sequel. The duo was at D23: The Ultimate Disney Fan Event in Anaheim, California, to preview Romy and Michele 2, which they both executive produce. With the sequel premiering 30 years after the original was released, Sorvino [ ]
+It s been quite a week for Bob Iger. First, the former Disney CEO managed to buy one of America s most-coveted sports franchises which wasn t even officially for sale and today he became a Disney Legend. For those unfamiliar with the honor, it is given to those who have made a significant impact on [ ]
 
-### ‘Borges And Me’ Review: Marc Turtletaub’s Hallucinatory ’70s Road Trip Is Smart, Literary And Playful – Edinburgh Film Festival
-Sun, 16 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/borges-and-me-review-marc-turtletaub-fionn-whitehead-alan-cumming-1237042032/
+### Call Her Moving: Alex Cooper In Talks With CAA After UTA Exit Under Cloud
+Sun, 16 Aug 2026 22:51:58 +0000 — https://deadline.com/2026/08/alex-cooper-caa-talkls-uta-exit-1237042312/
 
-Sometimes it feels like the growing subset of films set in the stuffy British academic world of the early ’70s deserve a genre all to themselves. It’s a very interesting visual paradox; young people going out into the world to discover and further themselves in an environment that s been stained nicotine-brown by the chain-smokers of [ ]
+Following several turbulent months and the forthcoming end of her beverage brand, Alex Cooper is embracing change at least when it comes to her representation. The Call Her Daddy host is in serious talks with CAA, Deadline can confirm. Nothing is signed, sealed and delivered yet, but the expectation is Cooper will make the [ ]
 
-### Disney Unveils Avengers Infinity Defense Lead By Ms. Marvel, Return Of Avengers Cast, Harrison Ford Models New Indiana Jones Attraction, Villains Land More At D23
-Sun, 16 Aug 2026 05:21:48 +0000 — https://deadline.com/2026/08/disneyland-new-attractions-avengers-1237041853/
+### Myki Meeks On Life-Changing Experience Winning RuPaul s Drag Race How The Team Raises The Bar Every Year Contenders TV Nominees Studio
+Sun, 16 Aug 2026 22:40:00 +0000 — https://deadline.com/2026/08/myki-meeks-rupauls-drag-race-winner-video-interview-1237042115/
 
-The happiest place on earth just got more global. At the D23’s Saturday Parks Panel, host Neil Patrick Harris gave way to several Walt Disney Imagineers who shared the next steps in the mouse house’s billion-dollar expansion.​In the U.S., executives and creative designers showed off a sneak peek of upcoming West Coast attractions at Disney [ ]
+After 18 seasons on the air, RuPaul s Drag Race has received a total of 88 Emmy nominations with 29 wins. To celebrate its most recent slew of Emmy nominations, executive producer Natalia James, co-executive producer John Polly, production designer Jen Chu, choreographer Jamal Sims and Season 18 winner Myki Meeks joined Deadline’s Contenders Television: The Nominees Studio [ ]
 
-### Astra TV Awards 2026 Winners Include Hacks , The Pitt Shrinking — Full List
-Sun, 16 Aug 2026 05:00:00 +0000 — https://deadline.com/2026/08/astra-tv-awards-2026-winners-full-list-1237041860/
+### Jason Segel Says ‘Shrinking’ Season 4 Will Move Past Acute Grief: “Like A Rom-Com To Me To Try Again At 45 Years Old” Contenders TV Nominees Studio
+Sun, 16 Aug 2026 21:45:00 +0000 — https://deadline.com/2026/08/jason-segel-shrinking-video-interview-season-4-emmys-1237041926/
 
-The Hollywood Creative Alliance has named this year s best in television with the 6th Astra TV Awards. On Saturday, host Lisa Ann Walter presided over the awards show at the InterContinental in Los Angeles, where HBO s The Pitt was the big winner of the evening with seven trophies, followed by Netflix s Beef with five, and [ ]
+They’re already shooting Season 4, but the Shrinking cast — co-creator/co-writer Jason Segel, Harrison Ford, Jessica Williams and Michael Urie — took a break to chat about their Emmy-nominated third season at Deadline’s Contenders Television: The Nominees Studio. Segel, who stars as Jimmy and serves as executive producer and writer alongside Bill Lawrence and Brett Goldstein, teased [ ]
 
-### Outlander s Caitríona Balfe Joins Live-Action Tangled As Queen Arianna
-Sun, 16 Aug 2026 03:39:15 +0000 — https://deadline.com/2026/08/caitriona-balfe-joins-live-action-tangled-queen-arianna-1237041900/
+### ‘Teenage Sex And Death At Camp Miasma’s Bloody Good Expansion As Indies Flex – Specialty Box Office
+Sun, 16 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/indie-film-box-office-teenage-sex-and-death-at-camp-miasma-1237042281/
 
-From 18th century Scotland to the fictional Kingdom of Corona, Disney s live-action Tangled has found its Queen Arianna. While Outlander star Caitríona Balfe was not featured in the footage teased Friday at D23, Disney has announced the 5x Golden Globe nominee will play Rapunzel s long-lost mother in the adaptation of the 2010 animated fantasy musical. [ ]
+Indie films helped drive a terrific box office weekend with Jane Schoenbrun’s Teenage Sex And Death At Camp Miasma from Mubi a standout. The edgy director with a dedicated fan base of her own tapped the youthful audience that flocked to Obsession and Backrooms as well as fans of the The X-Files (Gillian Anderson stars), [ ]
 
-### Disney D23 Takeaway: With X-Men , Tangled , Incredibles 3 More, Movie Studio Poised To Slay In 2028
-Sun, 16 Aug 2026 01:18:59 +0000 — https://deadline.com/2026/08/disney-2028-box-office-x-men-tangled-ghost-rider-d23-1237041743/
+### Octavia Spencer “Felt It Was Incumbent On Me As A Citizen Of The World” To Make ‘Lost Women Of Alaska’ Contenders TV Nominees Studio
+Sun, 16 Aug 2026 20:40:00 +0000 — https://deadline.com/2026/08/octavia-spencer-lost-women-of-alaska-emmy-interview-1237041780/
 
-The morning after an intoxicating D23 Friday night, which included a dancing spirit squad, Adam Driver and Inde Navarrette X-Men surprises, Josh Gad crooning, Ryan Gosling, Anne Hathaway and confetti raining, it became really clear — Disney is going to have a killer 2028 at the box office. And they haven t even filled out the [ ]
+Octavia Spencer has been following true crime stories since she was just 11 years old. Speaking at Deadline’s Contenders: The Nominees Studio, Spencer said, “I think there are a lot of people who are very new to the true crime genre. I m not, I ve been studying it. I read a horrible story, a true crime [ ]
 
-### RuPaul s Drag Race Renewed For Season 19 At MTV Paramount+ Picks Up RuPaul s Drag Race All-Stars For Season 12
-Sun, 16 Aug 2026 00:00:00 +0000 — https://deadline.com/2026/08/rupauls-drag-race-renewed-season-19-mtv-1237040720/
+### Dwayne Johnson Describes Lizard Music As Willy Wonka From The Mind Of Benny Safdie, Details 5-Hour Makeup Process To Play 70-Year-Old — D23
+Sun, 16 Aug 2026 20:13:08 +0000 — https://deadline.com/2026/08/dwayne-johnson-describes-lizard-music-willy-wonka-d23-1237042262/
 
-Condragulations are in order for RuPaul s Drag Race and RuPaul s Drag Race All Stars as MTV and Paramount+ have renewed the shows for additional seasons. MTV has picked up RuPaul s Drag Race for Season 19 alongside its companion series RuPaul s Drag Race: Untucked, while Paramount+ has ordered RuPaul s Drag Race All Stars for Season 12 [ ]
+Following his transformation for The Smashing Machine, Dwayne Johnson is back together with Benny Safdie for their next project. While speaking to Deadline on Sunday at D23, the Golden Globe nominee revealed that he s begun production on the Safdie-helmed Lizard Music, for which he undergoes five hours of makeup every day to play a man [ ]
 
-### SNL Alum John Higgins Joins Scrubs For Major Role In Season 2 Of ABC Revival
-Sat, 15 Aug 2026 23:41:29 +0000 — https://deadline.com/2026/08/john-higgins-scrubs-season-2-grant-abc-snl-1237041813/
+### Former ABC News Field Producer s Wrongful Termination Lawsuit Accuses Matt Gutman Of Making Inappropriate Sexualized Comments
+Sun, 16 Aug 2026 19:56:26 +0000 — https://deadline.com/2026/08/matt-gutman-lawsuit-abc-field-producer-1237042227/
 
-EXCLUSIVE: Former Saturday Night Live writer/performer John Higgins, member of the Please Don t Destroy comedy group, has joined the cast of ABC s Scrubs for a major recurring role in the upcoming second season of the revival, Deadline has learned. He will play Grant, the new Chief Resident, who is envisioned as a thorn in J.D. s [ ]
+A former ABC News field producer filed a wrongful termination lawsuit against the network, including allegations that her former colleague Matt Gutman, now chief correspondent with CBS News, made inappropriate sexualized remarks when they worked together. Samira Said filed the lawsuit in Los Angeles Superior Court on Friday. The lawsuit names as defendants ABC, The [ ]
 
-### Mason Thames Reveals He McKenna Grace Filmed Nimrods Before Regretting You , Talks Possibility Of Doing Another Job Together
-Sat, 15 Aug 2026 23:03:01 +0000 — https://deadline.com/2026/08/mason-thames-mckenna-grace-filmed-nimrods-regretting-you-1237041798/
+### Hercules Voice Actress Susan Egan Nominates Zendaya Tom Holland For Live-Action Remake: The World Needs It — D23
+Sun, 16 Aug 2026 19:50:10 +0000 — https://deadline.com/2026/08/hercules-susan-egan-nominates-zendaya-tom-holland-remake-1237042242/
 
-Nearly a year after they first appeared onscreen together in Regretting You, Mason Thames and McKenna Grace are playing romantic opposites again. Following Colleen Hoover romance s premiere last October, Thames recently revealed he had already worked with Grace on the Green Day-inspired movie Nimrods, which is now playing in theaters. So we did Green Day [ ]
+With Spider-Man: Brand New Day a super box office success, Tom Holland and Zendaya might just have their next classic hero adaptation. Speaking with Deadline on the red carpet Sunday at D23, Hercules (1997) voice actress Susan Egan nominated Zendaya to take over her role as Meg in a live-action remake of the Disney animated [ ]
 

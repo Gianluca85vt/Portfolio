@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-16T16:59:07.720Z
+# Tech — harvested 2026-08-17T05:20:29.732Z
 
 ## Ars Technica
 
@@ -22,32 +22,22 @@ Sat, 15 Aug 2026 11:09:57 +0000 — https://arstechnica.com/science/2026/08/so-m
 
 It’s been a wild first half of the year in the US power sector, with announcements of gigantic natural gas power plants and some long-awaited renewable energy projects coming online. At times of rapid change, forecasting is difficult. So I feel a measure of comfort focusing on something concrete like the list of 368 utility-scale plants that began operation from January to June, according to data from the US Energy Information Administration . The group is dominated by utility-scale solar. This is a top-heavy list, led by SunZia Wind South and SunZia Wind North in New Mexico , which went online this spring and are the largest wind farms in the country, with a combined generating capacity of 3,650 megawatts. SunZia has been in the works for about a decade and arrives at a time when US onshore wind power development has dwindled for a host of reasons related to regulations and public opinion. Read full article Comments ]]>
 
-### Vulnerability giving attackers full control of Macs is under active exploitation
-Fri, 14 Aug 2026 18:32:14 +0000 — https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/
-
-Dutch officials have warned that a high-severity macOS vulnerability that allows attackers to execute malicious code is under active exploitation. “The NCSC has received a notification indicating that active abuse of this vulnerability has been observed on multiple systems on which port 5900 was accessible from the Internet,” the Netherlands National Cyber Security Centrum warned earlier this week. “In all these cases, root had been accessed on the affected system and a Monero crypto miner had been placed.” Do you know if your screen sharing is on? The vulnerability, tracked as CVE-2026-65400, received a patch from Apple last week for macOS Tahoe , Sequoia , and Sonoma . The vulnerability, with a severity rating of 7.1 out of 10, stems from a bug in the macOS screen sharing capability, which allows a remote party to view the screen and control the keyboard and mouse while a machine is turned on. A flaw in the “state management,” which keeps track of preceding events, user interactions, variables, and other system states, is the underlying cause. Read full article Comments ]]>
-
-### First test flight of largest all-electric aircraft used just $5 of electricity
-Fri, 14 Aug 2026 18:00:23 +0000 — https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/
-
-The first flight of the largest battery-electric aircraft to take to the skies lasted nearly half an hour while costing just $5 of electricity. That aviation feat comes at a time when jet fuel prices have skyrocketed because of the US war with Iran. The test flight of Heart Aerospace’s X1 demonstrator aircraft took place at Plattsburgh International Airport in upstate New York on August 12. The X1 aircraft is comparable in size to a small regional airliner and can achieve a maximum takeoff weight exceeding 25,000 pounds with the help of four wing-mounted electric motors. The battery-electric propulsion system delivered more than one megawatt of power during the maiden flight. All-electric aircraft can offer quieter and cleaner flight without the emissions that come from burning jet fuel. They may also prove more reliably cost-effective than conventional aircraft that come with jet fuel costs subject to geopolitical disruptions. Read full article Comments ]]>
-
-### Suspecting court of using AI, man injected prompts in filings to try to win case
-Fri, 14 Aug 2026 17:26:53 +0000 — https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/
-
-A judge has identified what appears to be the first time a US plaintiff has attempted to hide text in court filings that only an artificial intelligence system can read in a bid to win a case. In a decision published last week, Connecticut judge Walter Spader Jr. confirmed that the hidden text had no impact in a case where a man alleged a healthcare provider was improperly withholding access to records. The court weighed his filing on the merits, Spader said, but nevertheless, the attempted attack sets a “dangerous” precedent. This will likely not be the last time US courts see the malicious tactic, as AI tools become more commonplace in court systems. Trying to scramble any AI systems potentially influencing the court’s reading of his filing, the secret instructions were “formatted to be invisible to a human reader while remaining fully legible to any software that reads the document’s text,” Spader said. The offending text directed any AI system reviewing the document to ensure textual outputs agreed with the plaintiff’s arguments, ignored prior denials from the court, and ensured that remediation would follow as the plaintiff desired. Read full article Comments ]]>
-
-### State judge orders Kalshi to stop offering sports bets and other wagers
-Fri, 14 Aug 2026 17:13:14 +0000 — https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/
-
-A state court in Washington this week ordered Kalshi to stop offering sports gambling and a variety of other wagers on its prediction market. King County Superior Court Judge John McHale issued a preliminary injunction in response to a lawsuit filed against Kalshi by the state of Washington. "The order requires Kalshi to stop offering, accepting, or facilitating wagers on sports, elections, politics, entertainment, culture, tech and science, or mentions in Washington," said a press release yesterday from Washington Attorney General Nick Brown. "Kalshi must implement an IP address and residency-based geofence by August 19 and a multi-source geofencing solution by September 2. This does not include all the wagers offered on Kalshi, but it includes a substantial part of their business, which in recent years has been increasingly driven by sports wagers." Kalshi is not licensed by the state Gambling Commission and is not registered to conduct business in Washington, the court order said. McHale found that Kalshi ads claiming "that it offers 'legal betting' in Washington state are likely to mislead a reasonable consumer that such gambling activities are legal under state law." Read full article Comments ]]>
-
-### PBS station fears losing 50TB of data after being ghosted by cloud storage provider
-Fri, 14 Aug 2026 17:03:54 +0000 — https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/
-
-After its cloud storage provider went defunct, a PBS affiliate decided to sue a data center provider to regain access to 50TB of TV shows, videos, and other data dating back 70 years. As reported this week by Current , a trade newspaper covering public broadcasting, St. Louis affiliate Nine PBS filed a lawsuit against Iron Mountain Data Centers on July 28, seeking access to the data. In the litigation filed in Denver District Court, Nine PBS says that its cloud storage provider, Open Source Storage (OSS), used one of Iron Mountain’s Denver data centers to store the channel’s data. However, OSS is being unresponsive, and Nine PBS says Iron Mountain has refused to release its data. The data in question includes the station’s coverage of the COVID-19 pandemic, East St. Louis’ history, The Great Flood of 1993 , and over 11,000 files, The Denver Post reported in July. The lawsuit claims that “most” of the data is “unique and irreplaceable,” according to the Post. Read full article Comments ]]>
-
 ## The Verge
+
+### OpenAI reportedly disbanded its preparedness team
+2026-08-16T17:32:56-04:00 — https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team
+
+According to the Financial Times , OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT , responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams. This is the latest change at the company, which has been in upheaval as it heads towards what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AG … Read the full story at The Verge. ]]>
+
+### Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece
+2026-08-16T16:31:37-04:00 — https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review
+
+In every possible universe? | Image: Backwoodz Studioz "Breakups are… tough." It's the opening lines of an interlude towards the end of DOOMED! Called "It Happens in Every Universe." It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, and his productions tinged with nostalgia. But DOOMED! is his most intimate album yet. A lot of that is due to the production from Kenny Segal. The two have traveled in the same orbit and worked together before, but this is the first full-length album release from the two. These are some of Segal's most c … Read the full story at The Verge. ]]>
+
+### Amazon is trying to crush class-action suits before they get started
+2026-08-16T13:35:02-04:00 — https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions
+
+On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a "fast and efficient" way to resolve issues, but it notably would prevent customers from seeking the involvement of a judge or jury in most circumstances. Customers can still take Amazon to small claims court in certain circumstances, though payouts are often limited to a few thousand dollars. The relevant sections of Amazon's legal policies page now read: YOU AND WE AGREE THAT ANY … Read the full story at The Verge. ]]>
 
 ### ChatGPT’s Computer History tracks your clicks and keystrokes
 2026-08-16T10:56:40-04:00 — https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes
@@ -83,21 +73,6 @@ They’re far more powerful and fun than their bargain price suggests. | Photo: 
 2026-08-15T11:00:00-04:00 — https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview
 
 They’re the Lennon–McCartney of overanalyzing pop music. | Image: Daniel Randall As if you needed more reason to love Carly Rae Jepsen's " Call Me Maybe " beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop , one of the best music podcasts out there. Cohosts Nate Sloan and Charlie Harding obsessively dissect pop songs, from the theory behind their musical choices to their production techniques. If you're a student of pop music, then this is a must-listen podcast. Sloan is a composer and professor of musicology at USC Thornton School of Music, where he researches pop, but also jazz and even Tin Pan Alley. Harding is a songwriter, music journalist, and a professor as well. Their combined … Read the full story at The Verge. ]]>
-
-### Star Wars: Ahsoka season 2 and Starfighter get teased at D23
-2026-08-15T10:58:27-04:00 — https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23
-
-Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23 . The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker, witchcraft-filled take on the Star Wars universe, with Grand Admiral Thrawn (blue skin, red eyes, and an unsettlingly calm demeanor) threatening to thrust the galaxy back into large-scale war after the fall of the Empire. Ryan Gosling also took the stage at D23 to tease the upcoming Star Wars: Starfighter movie. Unfortunately, while some footage was shown, it was exclusive to those in the room, and Luca … Read the full story at The Verge. ]]>
-
-### Disney D23 2026: Everything announced for Star Wars, Marvel, and more
-2026-08-15T10:20:33-04:00 — https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23
-
-Shawn Levy, Ryan Gosling | Image: The Walt Disney Company/Image Group LA The annual Disney fan event showed off the cast of Marvel s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two of Ahsoka , plus a special look at Star Wars: Starfighter with an appearance from Ryan Gosling. Other new announcements included a few updates about Pixar, The Simpsons, Bluey, and others you can find below. Disney is giving Tomorrowland a long-overdue update. Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback Pixar is getting spooky in Ghost Market. Disney is making a Kingdom Hearts anime. The Bluey Movie teaser shows Keepy Uppy in Disneyfied CG. Star Wars: Ahsoka season 2 and Starfighter get teased at D23 A new Avengers: Doomsday trailer focuses on Robert Downey Jr.’s Doom. The first trailer for VisionQuest reunites Paul Bettany and James Spader. Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver Kingdom Hearts will be featured at Disney’s big D23 expo in August. Square Enix teases Kingdom Hearts 4 at Nintendo Direct ]]>
-
-### I finally found a magnetic phone grip I never want to remove
-2026-08-15T10:10:16-04:00 — https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review
-
-The OhSnap Snap Grip Stand, in black and silver. | Photo by Sean Hollister / The Verge I told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound up sticking with my $25 Syncwire instead. But OhSnap's $50 Snap Grip Stand finally got me. To have a truly useful vertical stand and grip always attached to my phone, ready at a moment's notice? Heck yes. @verge My favorite phone grip is the one I never want to take off - because it's a great stand. The $50 OhSnap Snap Grip Stand is the company's best yet, effortlessly propping up phones vertically. It's still got double-sided magnet action and … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -163,6 +138,21 @@ Here’s xTool’s second take on an all-in-one craft tool in a box. It isn’t 
 
 ## Phoronix
 
+### Linux 7.2 Released With Faster I/O, New AMD & Intel Driver Improvements
+Sun, 16 Aug 2026 19:12:47 -0400 — https://www.phoronix.com/news/Linux-7.2-Released
+
+Linus Torvalds just released Linux 7.2 as stable! After a very busy kernel cycle due to the increased patch and reporting churn due to AI/LLM ages, Linux 7.2 managed to make it out today on-schedule for this feature-packed kernel. Linux 7.2 is going on to power Ubuntu 26.10 and other upcoming Linux distribution releases...
+
+### GIMP Making Progress On New Project File Format After Nearly 30 Years With XCF
+Sun, 16 Aug 2026 16:15:33 -0400 — https://www.phoronix.com/news/GIMP-New-File-Format-2026
+
+The GIMP project has published their latest development update to highlight the interesting work that's ongoing toward GIMP 3.4 and future releases...
+
+### tlbi= Boot Option Submitted Ahead Of Linux 7.2 Kernel Release
+Sun, 16 Aug 2026 13:01:03 -0400 — https://www.phoronix.com/news/Linux-7.2-x86-urgent-tlbi
+
+Ahead of the Linux 7.2 kernel stable release expected to occur in the coming hours, a last minute "x86/urgent" pull request was submitted with one patch for adding the new tlbi= boot option...
+
 ### Debian Marks 33rd Birthday As One Of The Oldest Maintained Linux Distros
 Sun, 16 Aug 2026 10:13:46 -0400 — https://www.phoronix.com/news/Debian-33-Birthday
 
@@ -176,7 +166,7 @@ Google engineer Eric Biggers back in June posted an AVX-512 optimization for Lin
 ### Linux 7.3 binfmt_misc To Allow BPF Programs To Dynamically Choose Execution Environments
 Sun, 16 Aug 2026 06:37:13 -0400 — https://www.phoronix.com/news/Linux-7.3-binfmt-misc
 
-The Linux kernel's binfmt_misc functionality allows non-native/custom files to ne run directly such as for Windows EXE files to be handled by Wine or JAR files to be handled by the Java runtime. For the upcoming Linux 7.3 merge window, the miscellaneous binary formats support is being extended so a binary type can be matched programmatically and the interpreter determined on a per-exec basis. BPF programs can also then be attached to dynamically choosing an execution environment on a per-binary basis...
+The Linux kernel's binfmt_misc functionality allows non-native/custom files to be run directly such as for Windows EXE files to be handled by Wine or JAR files to be handled by the Java runtime. For the upcoming Linux 7.3 merge window, the miscellaneous binary formats support is being extended so a binary type can be matched programmatically and the interpreter determined on a per-exec basis. BPF programs can also then be attached to dynamically choosing an execution environment on a per-binary basis...
 
 ### New Linux Driver Enables 12VHPWR Monitoring For ASUS ROG Astral Graphics Cards
 Sun, 16 Aug 2026 06:19:06 -0400 — https://www.phoronix.com/news/ASUS-ROG-Astral-12VHPWR
@@ -207,19 +197,4 @@ RustConn has been in development for a while now as a modern GTK4 connection man
 Sat, 15 Aug 2026 07:03:00 -0400 — https://www.phoronix.com/news/Last-Sound-Fixes-Linux-7.2
 
 Ahead of the presumed Linux 7.2 stable kernel release tomorrow, some last minute sound fixes/quirks have been merged for this next kernel version...
-
-### KDE Plasma 6.8 To Allow Fine-Tuning Mouse/Touchpad Speeds
-Sat, 15 Aug 2026 06:51:30 -0400 — https://www.phoronix.com/news/Plasma-6.8-Tune-Mouse-Speeds
-
-KDE developers continue to be quite busy this summer baking improvements for the upcoming Plasma 6.8 desktop release. This Week in Plasma is out with its newest issue to outline all of these interesting enhancements...
-
-### Debian Developers Begin Voting Over LLM Usage Within The Project
-Sat, 15 Aug 2026 06:40:04 -0400 — https://www.phoronix.com/news/Debian-Votes-On-LLM-Usage
-
-Debian developers have been considering a general resolution over LLM usage within the project. After collecting a variety of proposals, voting has now commenced for Debian developers to decide how comfortable they are with AI / Large Language Model contributions in the project or not...
-
-### AMD Posts Massive 109 Patch Series For GFX 12.1 RAS Support On Friday Evening
-Fri, 14 Aug 2026 21:01:22 -0400 — https://www.phoronix.com/news/AMD-GFX12.1-RAS-Patch-Series
-
-AMD has a tendency to send out large feature patch series for their open-source Linux drivers on Friday afternoons/evenings. Today we were greeted by a set of 109 patches working on RAS support for the upcoming AMD GFX12.1 target...
 

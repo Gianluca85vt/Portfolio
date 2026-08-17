@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-16T16:59:07.720Z
+# Manga — harvested 2026-08-17T05:20:29.732Z
 
 ## Anime News Network
+
+### Comic Market 108 Draws 260,000 Attendees Across 2 Days
+Sun, 16 Aug 2026 20:59:40 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/comic-market-108-draws-260000-attendees-across-2-days/.240624
+
+Event saw decrease of about 40,000 attendees from Comiket 107
 
 ### Shogakukan Announces Findings from 3rd-Party Investigation, Measures Company Will Take to Prevent Recurrence
 Sun, 16 Aug 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/shogakukan-announces-findings-from-3rd-party-investigation-measures-company-will-take-to-prevent-/.240287
@@ -56,11 +61,6 @@ Manga returns in November issue that will ship on September 18
 Sat, 15 Aug 2026 20:26:18 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/kingdom-hearts-iv-game-presents-4-minute-trailer/.240610
 
 <cite>Coco</cite> world, paper-thin version of Mickey teased with '100%' promise of 2027 release
-
-### Plott Announces Rakuraku Hanten Short Anime for September
-Sat, 15 Aug 2026 14:06:56 -0400 — https://www.animenewsnetwork.com/news/2026-08-15/plott-announces-rakuraku-hanten-short-anime-for-september/.240605
-
-Mafia battle series to stream on YouTube
 
 ## Crunchyroll News
 
