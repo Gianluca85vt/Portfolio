@@ -1,6 +1,26 @@
-# Games — harvested 2026-08-17T11:01:42.011Z
+# Games — harvested 2026-08-17T14:04:44.537Z
 
 ## Eurogamer
+
+### Spider-Man is looking exceptionally strong in Marvel Tōkon: Fighting Souls
+Mon, 17 Aug 2026 13:59:42 +0000 — https://www.eurogamer.net/marvel-tokon-fighting-souls-spider-man-ceo
+
+Since its release, people have been throwing themselves at Marvel T&omacr;kon: Fighting Souls. Much debate has been had around who are the strongest characters in the base roster, but now that the game's first big tournament has concluded, we may have an early answer. Read more
+
+### Filling Big Walk with people who had no one to play with demonstrated how deceptively profound it can be
+Mon, 17 Aug 2026 13:38:16 +0000 — https://www.eurogamer.net/big-walk-with-strangers-profound-optimism-week
+
+Suddenly, I'm alone. Where there was once cacophonous sound all around me, now there is none. Where there were once blobby people with sausage noses waggling their Playdough arms all around me, now there are none. All I see is a forest rapidly darkening, and all I hear is the sound of nothing, beating like the sound of my heartbeat in my ears. The contrast is unnerving. Where has my pack of people gone? I don't want to be on my own. Read more
+
+### Welcome to Optimism Week!
+Mon, 17 Aug 2026 13:35:30 +0000 — https://www.eurogamer.net/welcome-to-optimism-week
+
+Hello! And welcome to Optimism Week here on Eurogamer, a week of features dedicated to the brighter side of video games. Read more
+
+### Call of Duty now has a guide on how to enable its convoluted security features so you can play the Modern Warfare 4 beta on PC
+Mon, 17 Aug 2026 12:12:23 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-anti-cheat-tpm-2-0-secure-boot
+
+As we approach the first weekend of the Call of Duty: Modern Warfare 4 beta , Activision's Ricochet anti-cheat team has published a detailed guide to help PC players turn on certain security features that are necessary to play online. Read more
 
 ### Call of Duty studio Sledgehammer reportedly worked on a Halo multiplayer prototype before it got canned
 Mon, 17 Aug 2026 10:11:42 +0000 — https://www.eurogamer.net/halo-multiplayer-activision--sledgehammer-games
@@ -42,27 +62,12 @@ Sun, 16 Aug 2026 16:52:07 +0000 — https://www.eurogamer.net/matthew-mcconaughe
 
 Matthew McConaughey has explained why he ultimately passed on playing Joel in HBO's The Last of Us &ndash; a role that, of course, went to Pedro Pascal instead. Read more
 
-### Kingdom Hearts creator Tetsuya Nomura teases his role in the new anime series, tells fans to "let your imagination run wild"
-Sun, 16 Aug 2026 16:22:47 +0000 — https://www.eurogamer.net/kingdom-hearts-nomura-anime-series-tease-d23
-
-Kingdom Hearts creator Tetsuya Nomura has addressed the newly announced Kingdom Hearts anime series directly for the first time, though he's giving away very little. Read more
-
-### Halloween: The Game will get a digital release in New Zealand after all
-Sun, 16 Aug 2026 15:36:15 +0000 — https://www.eurogamer.net/halloween-the-game-new-zealand-digital-release-update
-
-Halloween: The Game will get a digital release in New Zealand after all, despite initially being lumped in with Australia's classification refusal. Read more
-
-### Saber CEO Matthew Karch apologises to writer he said he'd have "been happy to replace" with AI
-Sun, 16 Aug 2026 15:04:33 +0000 — https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco
-
-Saber Interactive CEO Matthew Karch has apologised to Stella Sacco, the writer at the centre of the Rideshare Stimulator AI controversy , after publicly saying he'd have been "happy to replace her with AI". Read more
-
-### Simpsons creator Matt Groening seemingly lets slip that Hit & Run is coming back
-Sat, 15 Aug 2026 16:56:47 +0000 — https://www.eurogamer.net/simpsons-hit-and-run-groening-d23-tease
-
-Simpsons creator Matt Groening may have just let slip that a Hit & Run comeback is on the way. Read more
-
 ## GamesIndustry.biz
+
+### US Senate to investigate Roblox following claims it "prioritises revenue and engagement" over child safety
+Mon, 17 Aug 2026 12:47:28 +0000 — https://www.gamesindustry.biz/us-senate-to-investigate-roblox-following-claims-it-prioritises-revenue-and-engagement-over-child-safety
+
+The US Senate Judiciary Subcommittee on Crime and Counterterrorism has launched an investigation into Roblox, saying the platform "appears to prioritise revenue and engagement metrics" over child safety. Read more
 
 ### Saber Interactive adds AI disclaimer to Rideshare on Steam; CEO Matt Karch apologises to former lead writer
 Mon, 17 Aug 2026 10:24:45 +0000 — https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer
@@ -79,6 +84,16 @@ Matchmaking platform Sail.game is introducing a free tier for PC and console gam
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Sony Still Hasn t Decided When to Launch PS6, Says CEO
+Mon, 17 Aug 2026 12:45:00 GMT — https://www.pushsquare.com/news/2026/08/sony-still-hasnt-decided-when-to-launch-ps6-says-ceo
+
+When will PS6 come out? Many PlayStation players will tell you that the PS5 generation feels like it's barely gotten started, but we're nearly six years in; traditionally, the next console should be on the horizon. Apparently, though, it might not be as close as you'd expect. Read the full article on pushsquare.com
+
+### Guide: When Is Gamescom Opening Night Live 2026?
+Mon, 17 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/guides/when-is-gamescom-opening-night-live-2026
+
+Dates, times, and what to expect. When is Gamescom Opening Night Live 2026? It's that time once again, when Geoff Keighley awakens for his second annual show of the year: Gamescom Opening Night Live, getting the massive German expo started with a bang. What are all the details, then? When exactly can you tune in to watch the show, and what's gonna be there? In this guide, we're providing you with all the details you need before the showcase begins. Read the full article on pushsquare.com
 
 ### No Sony Characters in Fortnite s Big Gaming Celebration Season
 Mon, 17 Aug 2026 06:00:00 GMT — https://www.pushsquare.com/news/2026/08/no-sony-characters-in-fortnites-big-gaming-celebration-season
@@ -115,22 +130,15 @@ Sat, 15 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-y
 
 Plus or minus? Split between PS Plus Extra and PS Plus Premium , 10 new games are being added to Sony's subscription service next week — but are you happy with what's being offered? I think August's lineup is fairly strong, and there's a good amount of variety on display. Read the full article on pushsquare.com
 
-### It s a Relentless Onslaught : Wolverine PS5 Dev Responds to Unprecedented Criticism
-Sat, 15 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/its-a-relentless-onslaught-wolverine-ps5-dev-responds-to-unprecedented-criticism
-
-"I cannot believe this is good for anyone's mental health". I’m not exactly sure how and why it’s happened, but Marvel’s Wolverine has become the butt of all social media jokes. Its crime? I’m honestly not entirely sure – it looks pretty good and the first round of previews have largely matched that sentiment . Read the full article on pushsquare.com
-
-### A Kingdom Hearts Animated Series Is Coming Soon to Disney Channel, Disney Plus
-Sat, 15 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/a-kingdom-hearts-animated-series-is-coming-soon-to-disney-channel-disney-plus
-
-Gawrsh. Disney has announced an animated TV series based on Kingdom Hearts . The news comes via the company's D23 expo, which is currently underway in California. Read the full article on pushsquare.com
-
-### Matt Groening Himself Says The Simpsons: Hit & Run Is Coming Back in Some Form
-Sat, 15 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/matt-groening-himself-says-the-simpsons-hit-and-run-is-coming-back-in-some-form
-
-And who are we to question him. There has been an awful lot of rumour and speculation about the potential return of The Simpsons: Hit & Run , a firm fan favourite game from 2003. Well, it seems like we might have finally gotten some sort of confirmation, and it comes straight from the creator of The Simpsons , Matt Groening . Read the full article on pushsquare.com
-
 ## Game Developer
 
-_Feed unavailable: HTTP 404_
+### Pokemon Pokopia has topped 5 million sales worldwide
+Mon, 17 Aug 2026 13:14:14 GMT — https://www.gamedeveloper.com/business/pokemon-pokopia-has-topped-5-million-sales-worldwide
+
+I choose you.
+
+### Barbie and Hot Wheels owner Mattel launches Mattel Game Studios
+Mon, 17 Aug 2026 11:15:50 GMT — https://www.gamedeveloper.com/business/barbie-and-hot-wheels-owner-mattel-launches-mattel-game-studios
+
+The toy company wants to develop, publish, and operate video games based on its sprawling brand portfolio.
 

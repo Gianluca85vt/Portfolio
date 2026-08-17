@@ -1,6 +1,46 @@
-# Film & TV — harvested 2026-08-17T11:01:42.011Z
+# Film & TV — harvested 2026-08-17T14:04:44.537Z
 
 ## Variety
+
+### Rosie O’Donnell Was ‘Surprised’ by Jimmy Kimmel’s Guest-Hosting Offer and Believes a David Ellison-Run CNN Would Be ‘Tragic’
+Mon, 17 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/rosie-o-donnell-jimmy-kimmel-host-surprise-david-ellison-bari-weiss-cbs-news-cnn-1236835778/
+
+Rosie O’Donnell is finally back behind the talk-show desk. Yes, the former host of “The Rosie O’Donnell Show” and “The View” will be serving as guest host of “Jimmy Kimmel Live the week of Aug. 17 while Kimmel is on vacation (as part of his summer rotation). He said he’d tapped O’Donnell for the stint [ ]
+
+### PGA Tour Takes Swing at Comedy in New Alter Ego Unscripted Series
+Mon, 17 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/pga-tour-comedy-alter-ego-unscripted-series-1236835914/
+
+Arnold Palmer once said that golf was “deceptively simple and endlessly complicated.” Now the PGA Tour hopes to give fans of the links something a little less intense: a good laugh. “PGA Tour Alter Ego” a new unscripted sports comedy series co-produced with Peyton Manning’s Omaha Productions, launches Tuesday ahead of the organization’s BMW Championship. [ ]
+
+### Ellie Goulding Sues Former Managers Over Live Nation Deal
+Mon, 17 Aug 2026 13:55:19 +0000 — https://variety.com/2026/music/news/ellie-goulding-sues-former-managers-live-nation-1236826769/
+
+British singer Ellie Goulding has taken legal action against her former managers, Ben Mawson and Ed Millet of TaP Management, claiming that the two failed to disclose to her that TaP’s parent company, HNOE, was partially and then fully owned by Live Nation, creating a conflict of interest that benefited them and the company to [ ]
+
+### Motion Picture Association Strikes Deal with ByteDance for IP Protections in AI Video, Image Models
+Mon, 17 Aug 2026 13:38:44 +0000 — https://variety.com/2026/biz/news/motion-picture-association-deal-bytedance-ip-ai-seedance-1236836240/
+
+The Motion Picture Association and ByteDance on Monday said the two had developed a framework to protect the film and TV industries intellectual property across ByteDance’s suite of AI generative products, including the AI video and image generators Seedance and Seedream. The memorandum of understanding (MOU) comes months after the MPA in February sent ByteDance [ ]
+
+### Netflix Unveils ‘The Diplomat’ Season 4 First Look, Sets October Release Date
+Mon, 17 Aug 2026 13:30:00 +0000 — https://variety.com/2026/tv/news/netflix-the-diplomat-season-4-teaser-trailer-first-look-1236835680/
+
+“The Diplomat” is back for Season 4. The political drama will return for its fourth season on Oct. 15. Netflix has also dropped a new teaser trailer and first look images. Season 4 sees the return of Keri Russell as Kate Wyler and Rufus Sewell as Hal Wyler. Other cast members include Ato Essandoh, Ali [ ]
+
+### Lena Dunham, Carly Rae Jepsen 10 Things I Hate About You Musical Sets 2027 Broadway Debut
+Mon, 17 Aug 2026 13:22:16 +0000 — https://variety.com/2026/legit/news/10-things-i-hate-about-you-musical-broadway-date-lena-dunham-1236836227/
+
+Lena Dunham and Carly Rae Jepsen s 10 Things I Hate About You musical is coming to Broadway next year. The show, based on the 1999 rom-com starring Julia Stiles and Heath Ledger, will begin preview performances exactly one year from now, on Aug. 17, 2027. Opening night, as well as casting and theater information haven t [ ]
+
+### Johnnie To s English-Language Debut Two Gun Cohen Launches Former XYZ Films Exec Todd Brown s Rawk Moving Pictures Corp (EXCLUSIVE)
+Mon, 17 Aug 2026 13:00:00 +0000 — https://variety.com/2026/film/news/johnnie-to-english-debut-two-gun-cohen-todd-brown-rawk-1236836089/
+
+Film executive Todd Brown has launched Rawk Moving Pictures Corp, a new Canadian production house. One of the company s first titles is Two Gun Cohen, the English-language debut of Hong Kong director Johnnie To. Brown, also a film critic and festival programmer, spent 17 years as head of international acquisitions at XYZ Films, where his [ ]
+
+### Hayden Panettiere s Death: No Signs of ‘Foul Play or Suspicious Circumstances,’ Police Say
+Mon, 17 Aug 2026 12:45:05 +0000 — https://variety.com/2026/film/news/hayden-panettiere-death-no-foul-play-police-investigation-1236836204/
+
+Hayden Panettiere s death is under investigation, but there were not any signs of foul play or suspicious circumstances, according to police. The Scream and Heroes star died on Sunday in Greenville, South Carolina, at the age of 36. The Greenville Police Department confirmed to Variety on Monday that police and EMS responded at 1:51 p.m. [ ]
 
 ### Iranian Director Ali Asgari Unveils First Clip From Venice-Bound A Bit of Light : This Trump Guy Is Threatening to Bomb Here Every Day (EXCLUSIVE)
 Mon, 17 Aug 2026 11:00:25 +0000 — https://variety.com/2026/film/global/iranian-director-ali-asgari-a-bit-of-light-first-clip-1236836044/
@@ -12,57 +52,42 @@ Mon, 17 Aug 2026 11:00:00 +0000 — https://variety.com/2026/film/global/london-
 
 The 70th edition of the BFI London Film Festival has revealed its official competition, with 10 titles set to compete for the best film award. The films selected represent 10 countries, including the U.K., Ireland, Brazil, Denmark, France, Germany, Hungary, Italy, Japan, and Poland. The winner will be chosen by the LFF awards jury. Among [ ]
 
-### ‘Supporting Role’ Review: Dato Bakhtadze Captivates in a Nocturnal Odyssey Through Tbilisi
-Mon, 17 Aug 2026 10:42:44 +0000 — https://variety.com/2026/film/reviews/supporting-role-review-1236836132/
-
-A nocturnal odyssey through the spectral streets of Tbilisi is conjured with mesmerizing effect in Georgian writer-director Ana Urushadze’s “Supporting Role.” On the heavy heels of Niaz (Dato Bakhtadze), a lumbering Georgian movie star whose glory days are behind him, Urushadze’s second feature plays like an old-school Jim Jarmusch joint — all existential wandering and weird, [ ]
-
-### Hayden Panettiere Remembered by Viola Davis, Bethany Joy Lenz, Melissa Barrera and More: I Wish the World Had More Time With You
-Mon, 17 Aug 2026 09:49:28 +0000 — https://variety.com/2026/film/news/hayden-panettiere-remembered-viola-davis-bethany-joy-lenz-1236836020/
-
-Celebrities are paying tribute to Nashville and Heroes actress Hayden Panettiere, who died Sunday at 36. Though a cause of death has not been released, her father told ABC News on Sunday: “It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force [ ]
-
-### Deluxe Media and Tohokushinsha Film Corporation Set Strategic Asia-Pacific Localization Partnership (EXCLUSIVE)
-Mon, 17 Aug 2026 08:00:53 +0000 — https://variety.com/2026/film/news/deluxe-tohokushinsha-apac-localization-partnership-1236836079/
-
-Deluxe Media Inc. and Tokyo-based Tohokushinsha Film Corporation have formed a strategic partnership to expand localization services across the Asia-Pacific region. The non-exclusive deal pairs Deluxe s ties to top studios and streamers, its scale and its tech-driven localization workflows with Tohokushinsha s creative and in-market strengths built up over decades in Japan. Both companies said the [ ]
-
-### Heartstopper Star Rhea Norwood, Enola Holmes Actor Susan Wokoma, Dear England Writer James Graham Join U.K. National Youth Theatre s 70th Anniversary Show (EXCLUSIVE)
-Mon, 17 Aug 2026 08:00:00 +0000 — https://variety.com/2026/theater/news/rhea-norwood-susan-wokoma-james-graham-national-youth-theatre-1236835453/
-
-The U.K. s National Youth Theatre has announced a further wave of star names for Letters to My Younger Future Self, the one-night performance marking the organization s 70th anniversary. The show, supported by Netflix, is set for Sept. 20 at the Southbank Centre s Royal Festival Hall in London. The new names joining the lineup include chart-topper [ ]
-
-### Snapshot Review: A Nifty Calling-Card Debut Refashions the Jack the Ripper Story as Found-Footage Horror
-Mon, 17 Aug 2026 07:59:23 +0000 — https://variety.com/2026/film/news/snapshot-review-1236835669/
-
-Found footage may be a fairly stale gimmick in horror these days, but the low-budget British indie Snapshot finds a way to freshen up the idea — and if that largely amounts to layering another technical gimmick over it, the results are nonetheless striking. Emulating the look of 19th-century pinhole photography, with the entire film [ ]
-
-### Mexico’s Madrefoca Boards ‘Isabel Hernández’ as Zoe Films Builds Festival Momentum (EXCLUSIVE)
-Mon, 17 Aug 2026 07:15:13 +0000 — https://variety.com/2026/film/markets-festivals/madrefoca-isabel-hernandez-zoe-films-san-sebastian-1236833977/
-
-Mexico’s Madrefoca Cine has boarded “Isabel Hernández,” Italian filmmaker Giorgio Giampà’s feature debut, joining Zoe Films, LaDoc and Fiasco on the Italy-Mexico co-production. The project is among the 15 titles selected for the 2026 Europe-Latin America Co-Production Forum at the San Sebastián Film Festival. Its San Sebastián berth comes as Zoe Films builds a growing [ ]
-
-### Korea Box Office: Christopher Nolan s The Odyssey Outpaces Spider-Man: Brand New Day Again in Strong Second Weekend
-Mon, 17 Aug 2026 06:54:42 +0000 — https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-outpaces-spider-man-brand-new-day-1236836058/
-
-The Odyssey ruled the South Korean box office during the weekend of Aug. 14–16. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed tentpole generated $13.2 million from 1,691,744 admissions over the three-day frame across 2,114 screens, capturing 59.07% of the total weekend market. The film grew [ ]
-
-### Former Costa Rican Film Commissioner Marysela Zamora: ‘I Believe That the Next Great Chapter in Audiovisual Media Will Be Written in Spanish’ (EXCLUSIVE)
-Mon, 17 Aug 2026 06:52:31 +0000 — https://variety.com/2026/film/global/former-costa-rican-film-commissioner-marysela-zamora-1236835874/
-
-Former Costa Rican Film Commissioner Marysela Zamora, who was instrumental in reviving the Costa Rica Media Market (CRMM) these past two years, will continue to serve on the Board of Directors of the Ibero-American Network of Film Commissions (Iberofic), where she will spearhead a regional agenda aimed at bolstering women’s leadership in the audiovisual sector [ ]
-
 ## The Hollywood Reporter
+
+### Motion Picture Association Inks AI IP Protection Deal With ByteDance
+Mon, 17 Aug 2026 13:32:43 +0000 — https://www.hollywoodreporter.com/business/digital/mpa-inks-ai-video-ip-protection-bytedance-1236675016/
+
+The agreement covers the Chinese tech giant's Seedance video models, as well as TikTok and other products.
+
+### The Diplomat Sets Season 4 Premiere Date as Keri Russell Tries to Get Back In to Marriage
+Mon, 17 Aug 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-diplomat-season-4-premiere-date-teaser-trailer-1236674848/
+
+The upcoming set of episodes for the political thriller will explore tensions in a number of domestic and international relationships.
+
+### Witney Carson Is Pregnant and Returning for Dancing With the Stars Season 35
+Mon, 17 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/witney-carson-pregnant-dancing-with-the-stars-season-35-1236674102/
+
+The professional dancer reflects on her first-of-its-kind casting in conversation with THR, and the announcement that Guillermo Rodriguez will be her celebrity partner for the upcoming season: "If I can do both and the baby is healthy, then I am gonna try and do it all, because women are amazing."
+
+### Carly Rae Jepsen and Lena Dunham s 10 Things I Hate About You Sets Broadway Start Date
+Mon, 17 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/carly-rae-jepsen-lena-dunham-10-things-i-hate-about-you-date-1236674978/
+
+The production features music and lyrics by Jepsen and Ethan Gruska and a book by Dunham and playwright Jessica Huang, with Christopher Wheeldon directing and choreographing.
+
+### Hayden Panettiere, Actress on Heroes and Nashville, Dies at 36
+Mon, 17 Aug 2026 12:38:10 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hayden-panettiere-dead-actress-heroes-nashville-scream-1236674794/
+
+"It is with profound sadness that we share the tragic passing of our beloved Hayden," her father said in a statement; an investigation into her death is ongoing.
 
 ### BFI London Film Fest Sets 10 Competition Titles, Including Hirokazu Kore-eda, Carol Morley Films
 Mon, 17 Aug 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bfi-london-film-festival-2026-competition-program-kore-eda-1236674931/
 
 "Our 2026 competition selection brings an astounding array of filmmaking styles to the screen," says LFF director Kristy Matheson.
 
-### Rosie O Donnell, Viola Davis Pay Tribute to Hayden Panettiere: Heartbroken
+### Heartbroken : Hayden Panettiere s Former Co-Stars, Hollywood Friends and Collaborators Respond to Her Death
 Mon, 17 Aug 2026 10:53:58 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hayden-panettiere-dead-tributes-reactions-1236674809/
 
-The actress's rep wrote in a statement, "It is with profound sadness that we share the tragic passing of our beloved Hayden."
+The actress' rep wrote in a statement announcing her death at age 36 on Sunday: "It is with profound sadness that we share the tragic passing of our beloved Hayden."
 
 ### Diane Kruger, Tim Roth, Danny Boon Join Netflix Nazi Hunter Drama Project K
 Mon, 17 Aug 2026 10:15:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/kruger-roth-boon-in-netflix-nazi-hunter-film-project-k-1236674920/
@@ -79,32 +104,52 @@ Mon, 17 Aug 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Also check out the poster for Jannis Lenz’s feature debut, which premieres at Venice and reveals the "quiet brutality of human relationships, while echoing the violence that shapes our contemporary world.”
 
-### Bob Iger Takes Victory Lap As He s Named a Disney Legend, Applauds New CEO Josh D Amaro: You re Wearing That Title Really Well
-Mon, 17 Aug 2026 03:55:04 +0000 — https://www.hollywoodreporter.com/business/business-news/bob-iger-disney-legend-josh-damaro-d23-1236674802/
-
-The former Disney boss was honored alongside Anne Hathaway, Dwayne Johnson, Lin-Manuel Miranda and Jerry Bruckheimer at the D23 event.
-
-### Hayden Panettiere, Actress on Heroes and Nashville, Dies at 36
-Mon, 17 Aug 2026 03:06:51 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hayden-panettiere-dead-actress-heroes-nashville-scream-1236674794/
-
-"It is with profound sadness that we share the tragic passing of our beloved Hayden," her father said in a statement.
-
-### Alex Cooper Departing Talent Agency UTA
-Sun, 16 Aug 2026 21:27:58 +0000 — https://www.hollywoodreporter.com/business/digital/alex-cooper-departing-talent-agency-uta-1236674749/
-
-The departure comes amid a period of big change, as well as scrutiny about her media company Unwell.
-
-### Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Seen Recreating Abbey Road Album Cover
-Sun, 16 Aug 2026 19:48:45 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sam-mendes-beatles-biopic-recreates-abbey-road-album-cover-1236674685/
-
-The four actors are portraying Paul McCartney, George Harrison, Ringo Starr and John Lennon, respectively, for Sam Mendes's four-part Beatles biopic.
-
-### ‘Love Story’ Producers Didn’t Expect Carolyn Bessette’s TikTok Fan Army to Come for Them
-Sun, 16 Aug 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/love-story-producers-react-carolyn-bessette-tiktok-1236672651/
-
-Nina Jacobson and Brad Simpson reveal how leaked photos sparked a social media firestorm — and how the FX limited series ultimately won over skeptics with seven Emmy nominations.
-
 ## Deadline
+
+### Prime Video Is Building A Marília-Verse Around Brazil s Late Icon Marília Mendonça With A Movie, Documentary More
+Mon, 17 Aug 2026 13:56:43 +0000 — https://deadline.com/2026/08/prime-video-marilia-mendonca-marilia-verse-biopic-1237042823/
+
+Having secured rights to Marília Mendonça s music and life story, Prime Video is preparing its own Marília-verse of projects about the late Brazilian superstar singer, who tragically died in a 2021 plane crash at 26. The streamer has found its leading lady for the biopic, plucking an unknown first-timer to play the sertanejo icon. Amazon [ ]
+
+### MPA And TikTok Owner ByteDance Reach Agreement On Restricting IP Use In Deepfakes
+Mon, 17 Aug 2026 13:45:01 +0000 — https://deadline.com/2026/08/mpa-tiktok-bytedance-deepfakes-1237042847/
+
+The Motion Picture Association said that it had reached an agreement with TikTok owner ByteDance on a restriction framework over the use of studio intellectual property in AI video and images. The agreement follows a cease and desist letter that the trade association fired off in February to ByteDance over its use of IP in [ ]
+
+### Nick Reiner Wants His Trust Fund For Top Notch Defense Lawyers; Britney Spears Ex-Trustee Says No As Major Hearing Is Set For Monday
+Mon, 17 Aug 2026 13:35:00 +0000 — https://deadline.com/2026/08/nick-reiner-trust-fund-murder-britney-spears-1237042202/
+
+Nick Reiner s battle to avoid life in prison without parole or even the death penalty if found guilty of the bloody 2025 killing of his parents may hinge on a decision the accused murderer allegedly made or didn t make nearly three years ago. Later this morning in downtown L.A., lawyers for the youngest son of [ ]
+
+### The Terminal List Reveals Season 2 Premiere Date First-Look Photos
+Mon, 17 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/the-terminal-list-season-2-premiere-date-photos-1237042586/
+
+Prime Video s The Terminal List is kick-starting promotions for Season 2 with a set of first-look photos featuring Chris Pratt as James Reece (above and below). All eight episodes will premiere on Wednesday, October 21. From the best-selling novels by Jack Carr of the same name, The Terminal List centers on Navy SEAL Commander James Reece as [ ]
+
+### Hayden Panettiere Dies: Heroes, Nashville Scream Star Was 36
+Mon, 17 Aug 2026 12:46:00 +0000 — https://deadline.com/2026/08/hayden-panettiere-dead-1237042575/
+
+UPDATED with police statement: Hayden Panettiere, who is best known for playing the superpowered cheerleader on NBC s Heroes, has died at the age of 36. Her rep confirmed the news to Deadline. It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force [ ]
+
+### DramaBox Sets Brazilian Vertical Series From Cimarron Trio Of Colombian Originals In Latin American Push
+Mon, 17 Aug 2026 12:45:00 +0000 — https://deadline.com/2026/08/dramabox-cimarron-brazil-series-colombia-rollout-1237040433/
+
+EXCLUSIVE: DramaBox is going deeper into the Latin American verticals world. We can reveal the microdrama platform has put into production a Brazilian series starring telenovela actor Duda Reis with regional production powerhouse Cimarrón and is rolling out a trio of productions from Colombia: Mi Barco del Amor Zarpó Sin Ti, Besando al Hermano Equivocado [ ]
+
+### The New Interest In Barack Obama s Tan Suit: Chicago Sun-Times Veteran Launches Search For What Happened To The Outfit
+Mon, 17 Aug 2026 12:02:12 +0000 — https://deadline.com/2026/08/barack-obama-tan-suit-chicago-sun-times-1237042309/
+
+There s a special anniversary coming up on August 28: It ll be 12 years since Barack Obama wore a tan suit to a press conference at the White House, creating a sartorial stir that has since become an ongoing joke about what generated controversy back then vs. the chaos of today. What s a mystery is just [ ]
+
+### Hayden Panettiere: Melissa Barrera, David Arquette, Viola Davis More Pay Tribute To Amazing Talent
+Mon, 17 Aug 2026 11:23:38 +0000 — https://deadline.com/2026/08/hayden-panettiere-tributes-scream-actors-1237042809/
+
+Tributes are flooding in for Hayden Panettiere, the Scream and Heroes star who has died aged 36. David Arquette and Melissa Barrera, who appeared on screen with Panettiere in the Scream franchise, all took to social media to post messages. Arquette, who plays the loveable Dewey in Scream, posted simply: I love you Hayden, while [ ]
+
+### People Of The Book : Historical Drama From Good Films Studios Spain Launches For TIFF Market With Bleiberg, First Look Images Cast Revealed
+Mon, 17 Aug 2026 11:03:55 +0000 — https://deadline.com/2026/08/people-of-the-book-ziad-bakri-tiff-market-spain-alicante-1237042807/
+
+Bleiberg Entertainment will be selling worldwide rights at the TIFF market to historical drama People of The Book, we can reveal. Directed by Michael Haussman (Edge of the World), and based on the book of the same name written by Pulitzer prize-winning author Geraldine Brooks, filming has recently wrapped in the Valencia region of Spain, [ ]
 
 ### Hirokazu Kore-eda, Carol Morley Lili Horvát In Competition At London Film Festival
 Mon, 17 Aug 2026 11:00:00 +0000 — https://deadline.com/2026/08/london-film-festival-official-competition-films-1237042779/
@@ -120,49 +165,4 @@ EXCLUSIVE: It might not be the most conventional business plan, but disposing of
 Mon, 17 Aug 2026 09:29:20 +0000 — https://deadline.com/2026/08/vigil-season-3-teaser-trailer-bbc-1237042789/
 
 Here s your first look at Suranne Jones and Rose Leslie in Season 3 of BBC police drama Vigil. A teaser shows the pair trekking across a frozen tundra, long-range rifle strapped to their backs, as their latest high-stakes investigation takes them to a remote Arctic research station. In the Arctic, you don t understand what s coming, [ ]
-
-### Diane Kruger Dany Boon Are Nazi Hunters On The Trail Of Tim Roth s Klaus Barbie In Netflix s Projet K
-Mon, 17 Aug 2026 09:25:29 +0000 — https://deadline.com/2026/08/diane-kruger-dany-boon-nazi-hunt-tim-roth-projet-k-netflix-1237042784/
-
-Diane Kruger and Dany Boon will play Nazi hunters on the trail of Tim Roth’s Klaus Barbie, in Projet K for Netflix. Kruger and Boon will portray Beate and Serge Klarsfeld, the real-life husband-and-wife Nazi hunters in the Netflix France film. The couple spent years tracking down Nazis after the end of World War II. [ ]
-
-### Kenneth Branagh On Moving From Shakespeare To Action-Comedy In ‘Mayday’: “I Thought Zach Galifianakis Should Play The Part, But I Was Very Pleased They Asked Me” – Edinburgh Film Festival
-Mon, 17 Aug 2026 07:12:39 +0000 — https://deadline.com/2026/08/kenneth-branagh-mayday-ryan-reynolds-edinburgh-1237042763/
-
-Actor-director Kenneth Branagh arrived in Edinburgh to accept the festival’s inaugural Outstanding Contribution to Cinema award from festival director Paul Ridd and immediately joked that he would break it up into little pieces. “Actually, I wouldn’t,” he told the audience, “but if I did, I would give to you, and I’m not just being sappy. [ ]
-
-### Prime Video Sets Global Launch Date For Indian Investigative Drama Babita Singh Reporting
-Mon, 17 Aug 2026 06:25:00 +0000 — https://deadline.com/2026/08/babita-singh-reporting-prime-video-global-launch-date-1237040426/
-
-EXCLUSIVE: Babita Singh Reporting, Prime Video s next pic out of India, will launch globally on August 28. Directed by Ambiecka Pandit and written by Amita Vyas, the investigative drama features stars Nimisha Sajayan, Barun Sobti, and Anshumaan Pushkar. Saurabh Malhotra, Manuj Mittra, and Tina Tharwani are producing through Film Squad Productions in association with Act [ ]
-
-### ‘Douglas Gordon By Douglas Gordon’ Director Finlay Pretsell On His Portrait Of An Eccentric Genius: “This Is The Mind Of A Conceptual Artist” – Edinburgh Film Festival
-Mon, 17 Aug 2026 06:20:19 +0000 — https://deadline.com/2026/08/douglas-gordon-by-douglas-gordon-director-finlay-pretsell-1237042674/
-
-On the face of it, Finlay Pretsell’s first feature, Time Trial (2017), seemed like any other underdog sports movie, chronicling the last hurrah of disgraced Scottish cyclist David Millar in his last year as a professional rider at the Tour De France. Others might have taken the easy option and milked this against-all-odds story for [ ]
-
-### Hayden Panettiere Dies: Heroes, Nashville Scream Star Was 36
-Mon, 17 Aug 2026 03:27:00 +0000 — https://deadline.com/2026/08/hayden-panettiere-dead-1237042575/
-
-Hayden Panettiere, who is best known for playing the superpowered cheerleader on NBC s Heroes, has died at the age of 36. Her rep confirmed the news to Deadline. It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought [ ]
-
-### Lanterns Star Kyle Chandler Weighs In On Premiere Twist That Sets In Motion The Whole Mystery Of HBO Series
-Mon, 17 Aug 2026 02:15:00 +0000 — https://deadline.com/2026/08/lanterns-premiere-twist-hal-jordan-kyle-chandler-interview-1237042293/
-
-SPOILER ALERT! This post contains details from the premiere of HBO s Lanterns. All is not what it seems in HBO s Lanterns. The series premiered Sunday night, introducing audiences to Kyle Chandler as the legendary Lantern Hal Jordan and his trainee John Stewart (played by Aaron Pierre). Whatever plans Hal has for John s training regimen are [ ]
-
-### Lanterns Creators On That OMG First Episode Ending Crew Call Podcast
-Mon, 17 Aug 2026 02:00:00 +0000 — https://deadline.com/2026/08/lanterns-first-episode-hal-jordan-podcast-damon-lindelof-1237042209/
-
-Warning: This podcast and write-up has spoilers about the ending of tonight s first episode of HBO/DC s Lanterns We can t even say it in a blunt, straight sentence. But, first episode in, something crazy happened to Kyle Chandler s O.G. Green Lantern, Hal Jordan, in a time jump. It s an outcome that sets up for an interesting [ ]
-
-### Harrison Ford, Robert Downey Jr. Ellen Pompeo Pay Tribute To Bob Iger As He Becomes A Disney Legend
-Mon, 17 Aug 2026 00:50:46 +0000 — https://deadline.com/2026/08/bob-iger-disney-legend-1237042336/
-
-It s been quite a week for Bob Iger. First, the former Disney CEO managed to buy one of America s most-coveted sports franchises which wasn t even officially for sale and today he became a Disney Legend. For those unfamiliar with the honor, it is given to those who have made a significant impact on [ ]
-
-### Call Her Moving: Alex Cooper In Talks With CAA After UTA Exit Under Cloud
-Sun, 16 Aug 2026 22:51:58 +0000 — https://deadline.com/2026/08/alex-cooper-caa-talkls-uta-exit-1237042312/
-
-Following several turbulent months and the forthcoming end of her beverage brand, Alex Cooper is embracing change at least when it comes to her representation. The Call Her Daddy host is in serious talks with CAA, Deadline can confirm. Nothing is signed, sealed and delivered yet, but the expectation is Cooper will make the [ ]
 
