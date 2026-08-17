@@ -4,7 +4,6 @@ date: 2026-08-17
 category: Tech
 excerpt: A zipped-XML format that only rewrites what changed, autosave finally within reach, and a PSD importer that stopped choking on adjustment layers. The boring parts are the ones that matter for a real pipeline.
 cover: /img/blog/gimp-retiring-xcf-new-project-file-format/cover.svg
-draft: true
 ---
 
 GIMP posted its August development update this weekend, and the headline is one of
