@@ -4,7 +4,6 @@ date: 2026-08-17
 category: 3D
 excerpt: True Depth V3 adds proper camera-projection scenes and one-click HDRI studios on top of its depth-map displacement, all running locally off a single 2D image. It's a previz tool, not a modelling shortcut, and that distinction is exactly why it's useful.
 cover: /img/blog/true-depth-v3-blender-photo-to-3d/cover.svg
-draft: true
 ---
 
 Saw this cross BlenderNation this week: **True Depth**, the Blender add-on that turns a flat
