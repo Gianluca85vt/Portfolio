@@ -2,7 +2,7 @@
 title: Sony's shovelware purge just deleted a real developer's whole catalogue, and the detection problem is the actual story
 date: 2026-08-17
 category: Games
-cover: /img/blog/sony-shovelware-purge-catches-legit-indie-dev/cover.svg
+cover: /img/blog/sony-shovelware-purge-catches-legit-indie-dev/shot-01.jpg
 excerpt: Ternox Games got its PlayStation publishing agreement terminated with no explanation, cancelling STONKS-9800 on PS5 and pulling thirteen older titles. Sony's year-long shovelware purge was solving a real problem — the question is what it's actually measuring.
 draft: true
 ---
@@ -26,6 +26,11 @@ delisting. It's what happens when a detection problem gets solved with a policy
 instead of a person.
 
 ## What the purge is actually supposed to catch
+
+<figure>
+  <img src="/img/blog/sony-shovelware-purge-catches-legit-indie-dev/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Ternox Games, via the official STONKS-9800 Steam page</figcaption>
+</figure>
 
 "Shovelware" isn't one thing. It covers asset-flip garbage stitched together from
 marketplace packs and shipped under a dozen shell publishers to farm trophy
