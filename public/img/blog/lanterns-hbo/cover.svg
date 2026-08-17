@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Lanterns, HBO — practical suit vs CG constructs">
+  <defs>
+    <linearGradient id="bgLanterns" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#2A1140"/>
+      <stop offset="100%" stop-color="#5B3FBF"/>
+    </linearGradient>
+    <radialGradient id="ringGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7A5CFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7A5CFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgLanterns)"/>
+
+  <!-- faint dust texture lines, grounded/noir feel -->
+  <g stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2">
+    <path d="M0 640H1200M0 680H1200M0 720H1200"/>
+  </g>
+
+  <!-- ring glow, upper right -->
+  <circle cx="960" cy="230" r="260" fill="url(#ringGlow)"/>
+  <circle cx="960" cy="230" r="70" fill="none" stroke="#B9A6FF" stroke-width="6" stroke-opacity="0.8"/>
+  <circle cx="960" cy="230" r="92" fill="none" stroke="#B9A6FF" stroke-width="2" stroke-opacity="0.4"/>
+
+  <!-- ground silhouette, low horizon -->
+  <g fill="#0B000F" fill-opacity="0.6">
+    <path d="M0 760 L180 730 L340 762 L520 720 L700 758 L900 726 L1200 760 L1200 900 L0 900 Z"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="330" font-size="30" letter-spacing="9" fill="#FFFFFF" fill-opacity="0.5">HBO — LANTERNS</text>
+
+    <text x="600" y="470" font-size="104" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">GROUNDED</text>
+
+    <text x="600" y="545" font-size="30" fill="#FFFFFF" fill-opacity="0.6">
+      A REAL SUIT, A RESTRAINED RING
+    </text>
+
+    <text x="600" y="640" font-size="46" font-weight="900" fill="#B9A6FF">SCORE: 8 / 10</text>
+  </g>
+
+  <rect x="500" y="670" width="200" height="8" rx="4" fill="#7A5CFF"/>
+</svg>
