@@ -1,6 +1,46 @@
-# Manga — harvested 2026-08-17T14:04:44.537Z
+# Manga — harvested 2026-08-17T17:01:37.480Z
 
 ## Anime News Network
+
+### KAIJU GIRL CARAMELISE ‒ Episode 7
+Mon, 17 Aug 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/kaiju-girl-caramelise/episode-7/.240627
+
+Being a kaiju girl cannot be all bad if it gives you and your date a front-row seat to the fireworks show.
+
+### 86 Anime Returns to Crunchyroll After Being Delisted
+Mon, 17 Aug 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/86-anime-returns-to-crunchyroll-after-being-delisted/.240639
+
+Anime was delisted sometime in between April, May earlier this year
+
+### Pokémon Horizons: Season 3 - Rising Hope Anime Series Review
+Mon, 17 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/pokemon-horizons/season-3-rising-hope/anime-series/.240457
+
+If you were a fan of the Blueberry Academy DLC in <cite>Pokémon Scarlet and Violet</cite>, then half of this season was made for you.
+
+### Mushoku Tensei: Jobless Reincarnation III ‒ Episode 8
+Mon, 17 Aug 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-8/.240637
+
+Welp, that's a call to adventure if I've ever seen one.
+
+### HarperCollins to Launch Kazé Manga Imprint for U.S. Market
+Mon, 17 Aug 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/harpercollins-to-launch-kaze-manga-imprint-for-u.s-market/.240651
+
+New imprint to host industry panel at Anime NYC on Saturday
+
+### Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 18
+Mon, 17 Aug 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-18/.240607
+
+It's floated that Ferdinand could just wait and marry Rosemyne once she comes of age—and that's something I've been side-eyeing this series about since the beginning.
+
+### Disney Announces 'Cursed Love' Romantasy Webtoon Initiative
+Mon, 17 Aug 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/disney-announces-cursed-love-romantasy-webtoon-initiative/.240640
+
+1st webtoon in initiative follows Belle, the Beast after they are transported to a cursed kingdom
+
+### Haruhi Suzumiya from Haruhi Suzumiya clad in Megumin's outfit from KONOSUBA -God's blessing on this wonderful world! has been turned into a 1/7 scale figure!
+Mon, 17 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/press-release/2026-08-17/haruhi-suzumiya-from-haruhi-suzumiya-clad-in-megumin-outfit-from-konosuba-god-blessing-on-this-/.240371
+
+Haruhi Suzumiya is a light novel series published by Kadokawa Sneaker Bunko written by Nagaru Tanigawa and illustrated by Noizi Itō. To celebrate the 20th anniversary of the TV anime series,a recreation of the illustration of Haruhi Suzumiya clad in Megumin's outfit from Konosuba - God's Blessing on This Wonderful World! drawn by Noizi Itō is now available as a figurine.
 
 ### The Elusive Samurai Season 2 ‒ Episode 5
 Mon, 17 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-5/.240601
@@ -21,46 +61,6 @@ There’s a great sense of motion; the undead and mummies have a solid assortmen
 Mon, 17 Aug 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/japanese-animation-tv-ranking-august-3-9/.240636
 
 <cite>That Time I Got Reincarnated as a Slime</cite> earns 2.8% rating
-
-### Chainsmoker Cat ‒ Episode 7
-Mon, 17 Aug 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/chainsmoker-cat/episode-7/.240593
-
-Sometimes, "fine art" really means "watch a degenerate furry accidentally summon a Nicotine Demon and then send him crying back to the dark pits of hell with the power of her disgusting lifestyle and rancid farts."
-
-### Star Detective Precure! Anime Unveils New Ending Theme, Character Visuals (Contains Spoilers)
-Mon, 17 Aug 2026 06:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/star-detective-precure-anime-unveils-new-ending-theme-character-visuals/.240626
-
-New visual also revealed for <cite>Eiga Meitantei Precure!</cite>
-
-### There's No Freaking Way I'll be Your Lover! Unless... Manga's 1st Part Ends, 2nd Part Debuts in Early 2027
-Mon, 17 Aug 2026 01:52:30 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/there-no-freaking-way-ill-be-your-lover-unless-manga-1st-part-ends-2nd-part-debuts-in-early-2027/.240631
-
-Manga adaptation debuted in May 2020
-
-### Fatal Fury City of the Wolves Game's Trailer Previews DLC Character Duck King
-Mon, 17 Aug 2026 01:28:06 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/fatal-fury-city-of-the-wolves-game-trailer-previews-dlc-character-duck-king/.240632
-
-Duck King launches in Season 3 on August 27
-
-### To Love-Ru Manga Gets New Volume With Previously Uncollected Side Stories
-Mon, 17 Aug 2026 01:17:28 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/to-love-ru-manga-gets-new-volume-with-previously-uncollected-side-stories/.240635
-
-New volume ships on October 2
-
-### Umiko Seto's Osake ni Yowai Andō-san BL Manga Gets AnimeFesta Anime
-Mon, 17 Aug 2026 00:57:38 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/umiko-seto-osake-ni-yowai-ando-san-bl-manga-gets-animefesta-anime/.240633
-
-Romantic comedy centers on no-nonsense systems engineer who turns into cheerful drunk
-
-### Bleach: Thousand-Year Blood War - The Calamity Anime Casts Yūki Kaji
-Mon, 17 Aug 2026 00:32:12 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/bleach-thousand-year-blood-war-the-calamity-anime-casts-yuki-kaji/.240628
-
-Kaji plays Tōshirō Hitsugaya's Complete Bankai version
-
-### Comic Market 108 Draws 260,000 Attendees Across 2 Days
-Sun, 16 Aug 2026 20:59:40 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/comic-market-108-draws-260000-attendees-across-2-days/.240624
-
-Event saw decrease of about 40,000 attendees from Comiket 107
 
 ## Crunchyroll News
 

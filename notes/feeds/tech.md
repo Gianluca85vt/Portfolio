@@ -1,6 +1,21 @@
-# Tech — harvested 2026-08-17T14:04:44.537Z
+# Tech — harvested 2026-08-17T17:01:37.480Z
 
 ## Ars Technica
+
+### This sub-$7,000 sportscar might be just what the future needs
+Mon, 17 Aug 2026 15:01:25 +0000 — https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/
+
+This past weekend saw Monterey Car Week at perhaps its most excessive ever. The auctions set records, including $42.9 million for one of six Shelby Daytona Coupes, and $40 million for Ferrari's first Luce electric vehicle to reach private hands. Hypercars and restomods with seven-figure price tags filled the Californian peninsula, and yet I know I'm not alone in mustering little enthusiasm for this kind of thing. Which is why today I'm writing about the antithesis of all that: a hand-built, low-cost, efficient, and remarkably cheap car that suggests one possible future for driving enthusiasts, should we choose to take it. This is because the answer cannot just be "add more power and go even faster." Forget hypercars; even regular sports cars like a Porsche 718 Boxster or Toyota Supra have more performance than you can comfortably use on the road, and each version gets more power and costs more than the last. Add the cost of tires, consumables, a thirsty engine, and the fact that cars are all so ludicrously expensive to begin with these days, and soon the whole thing starts to look unsustainable. You can see the Gasolini's mechanicals in this superimposed photograph. Credit: Gasolini Robert Ely's Gasolini AR1, as featured on Jonny Smith's " The Late Brake Show" yesterday, is none of those things. The UK has a long history of being more permissive than most when it comes to allowing cars hand-built in sheds to be registered for road use, and the AR1 is true to tradition and mak
+
+### Nvidia discloses $21B stake in SpaceX
+Mon, 17 Aug 2026 14:22:54 +0000 — https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/
+
+Nvidia has disclosed that it owns nearly 123 million shares in SpaceX, further highlighting the chipmaker’s entangled financial relationships with some of its biggest customers. The $5.5 trillion company owned SpaceX stock worth nearly $21 billion at the end of June, according to an SEC filing on Friday. Elon Musk’s rocket conglomerate’s shares have fallen sharply since its June initial public offering, meaning Nvidia’s stake would now be worth $17 billion. The disclosure marks a huge pay-off on Nvidia’s investment in xAI, completed in January, shortly before Musk combined the AI lab with SpaceX. Read full article Comments ]]>
+
+### Meet the only known trebuchet casualty in history
+Mon, 17 Aug 2026 13:41:35 +0000 — https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/
+
+During a medieval siege, a trebuchet scored a chance hit one unlucky defender. A small boulder slammed into his upper back at close to 300 kilometers an hour, smashing bones and crushing him beneath its weight. The man’s skeleton lay beneath the chapel of Scotland’s Stirling Castle, along with the remains of several other people who had clearly died violent deaths. But this one, known to us only as Skeleton 150 (or as “trebuchet guy” in your faithful correspondent’s notes), stood out even among that battle-damaged crowd because most of his upper body had been shattered. According to University of Bradford paleopathologist Jo Buckberry, who presented her research at the 25 th European Meeting of the Paleopathology Association last week, skeleton 150 is the only known trebuchet casualty in history. A shattered skeleton Skeleton 150 was in terrible shape, even for a dead guy. The man’s skull had broken in 61 separate places, and another 60 jagged bits of bone were distributed across his ribs. His right shoulder was broken, and his right leg above the knee was basically shattered. Read full article Comments ]]>
 
 ### Satellite operators are in panic mode due to a worsening launch crisis
 Mon, 17 Aug 2026 11:00:26 +0000 — https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/
@@ -17,12 +32,37 @@ Sat, 15 Aug 2026 21:21:27 +0000 — https://arstechnica.com/culture/2026/08/visi
 
 It was a busy first day at D23: The Ultimate Disney Fan Event, in Anaheim, California, with Marvel Studios releasing the first trailer for VisionQuest . We also got the first teaser for Ahsoka S2; the public release of the Avengers: Doomsday special footage featured last month for attendees only at San Diego Comic-Con; a special sneak peek (for attendees only) for Star Wars: Starfighter ; casting news for the MCU's X-Men movie; and a trailer for an animated special, LEGO Star Wars: The Mandalorian , coming to Disney+ next month. (Some spoilers below. One MAJOR spoiler for Spider-Man: Brand New Day ; we'll give you a heads-up when we get there.) VisionQuest Marvel's streaming TV portfolio has kind of been all over the place: a handful of hits, a few misses, and a bunch of middling offerings. One of the standout hits was WandaVision , followed by an excellent sequel (of sorts), Agatha All Along . VisionQuest will complete the trilogy. Yes, Vision (Paul Bettany) died in Infinity War , but WandaVision resurrected an all-white version whose memories were restored in the finale. We finally get to learn what happened afterward. Read full article Comments ]]>
 
-### Ukraine strikes major Russian rocket factory with cruise missiles
-Sat, 15 Aug 2026 15:46:05 +0000 — https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/
-
-Ukrainian President Volodymyr Zelenskyy confirmed on Saturday that his country struck the Progress Rocket Space Center deep within Russia using ground-launched cruise missiles. "In Russia’s Samara region, one of the key enterprises within Roscosmos—the Progress Center, which was involved, among other things, in electronics production–was hit," Zelenskyy said on the social media site X. "Flamingo missiles were used. A good achievement." The largest city in the Samara Oblast, about 900 km from the Ukrainian border, Samara is home to Russia's most important manufacturer of rockets. The Progress Center assembles the workhorse vehicle for Russia, the Soyuz-2 vehicle, as well as the newer Soyuz-5 rocket. The facility also builds military satellites. Read full article Comments ]]>
-
 ## The Verge
+
+### The Analogue Pocket gets a Supreme makeover in red or gold
+2026-08-17T12:40:32-04:00 — https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection
+
+Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection. Here's how they're described on Supreme's website : Metallic portable handheld multi-video-game-system. Unibody aluminum with 24K Gold-plated and custom red glossy finishes. They also have a Supreme logo on the front and the back. I dig the colors, but not the logos. (But I'm not really a Supreme guy.) No price is currently listed on the website for the handhelds. We've asked Analogue and Supreme how much they'll cost. A standard Pocket costs $239.99. Supreme's fall / winte … Read the full story at The Verge. ]]>
+
+### Sonos finally added Live Activities controls for your iPhone lockscreen
+2026-08-17T12:38:35-04:00 — https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities
+
+Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lock screen. The added functionality is a "much requested, anticipated, and needed feature," according to a post Sonos shared to Reddit today that was spotted by 9to5Mac . While some features like displaying album art are not available, the Sonos Live Activity provides basic details and controls when listening to music or podcasts through a Sonos system without having to fully unlock your iPhone and open the app. Support for Live Activities and lock screen controls similar to w … Read the full story at The Verge. ]]>
+
+### Trump’s dumb border wall
+2026-08-17T12:30:00-04:00 — https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit
+
+A bulldozer plows through land during construction for a section of border wall near Santa Elena Canyon on August 14, 2026 in Big Bend National Park, Texas. | Brandon Bell/Getty Images About 22 miles south of the former mining town of Patagonia, Arizona, down a winding, unpaved mountain road that passes cows grazing on open range, stands a cottonwood tree believed to be at least 200 years old. The "grandmother" tree, as some locals call it, is imperiled and already showing signs of stress, almost as if it knows its fate. The leaves are yellowing prematurely, falling to the ground at the height of summer. On July 27th, a construction crew felled three neighboring trees to build an extension of President Donald Trump's wall along the US-Mexico border. An activist climbed up the last tree standing two days later and ever sin … Read the full story at The Verge. ]]>
+
+### Apple ordered to stop scaring iPhone and iPad users away from third-party apps
+2026-08-17T11:10:25-04:00 — https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany
+
+Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5 , making cross-app tracking of users largely opt in. But as a designated "gatekeeper" under the EU's DMA rules , it is facing additional scrutiny over whether the program provides a level playing field. The regulator says the prompts steer users away from agreeing to let third-party apps use their data, while encouraging them to give consent for … Read the full story at The Verge. ]]>
+
+### WiiM’s capable HomePod-esque smart speaker is almost $50 off
+2026-08-17T10:35:25-04:00 — https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale
+
+The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not locked down to play nicely with select music services. It supports over 20 services, and it sports Wi-Fi 6E, Bluetooth 5.3 and ethernet, giving you multiple ways to connect. Additionally, it taps into standards used by other speakers, including Chromecast, Spotify Connect, DLNA, Alexa Cast, and more (AirPlay 2 is off the table, though its Pro Music Streamer supports it). In other words, it can be added to multi-room setups you may already have in the Google Home or Amazon Echo ecosystem. The black and white versions are rarely discounted, but they’re each 15 percent off at Amazon and directly through WiiM . Normally $299.99, they’re $254.15. WiiM Sound Smart Speaker Where to Buy: $299 $254.15 at Amazon $299 $254.15 at WiiM WiiM also makes the Sound Lite , which is also discounted by 15 percent. Originally $229, it’s $194.65 at Amazon and WiiM . It has the same dimensions, connectivity and performance output as the Sound (plus, the ability to use AI to adapt its sound quality to your room), but it lacks the 1.8-inch touch display that can show off album art, and there’s no voice remote included — those are around $33 . That said, you can wirelessly pair these speakers and other recent WiiM products to each other to build a surround sound setup. Read more in our coverage . Other g
+
+### Uber partners with Zipline on Eats drone deliveries
+2026-08-17T10:24:35-04:00 — https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment
+
+Uber is teaming up with drone company Zipline to start airborne takeout deliveries later this year , with the goal of reaching one million daily drone deliveries by 2029. Uber also said it was making a strategic investment in Zipline, a California-based company that has been orchestrating drone deliveries in Texas since 2025. The news comes as Uber's delivery rivals begin to step up their own drone deliveries, thanks to easing government regulations that allow companies to fly farther and cheaper. The Uber Eats deliveries will start in Zipline's existing market of Dallas-Fort Worth, before eventually expanding to dozens of additional citie … Read the full story at The Verge. ]]>
 
 ### It’s about ethics in journalism, with Ben Smith
 2026-08-17T10:00:00-04:00 — https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news
@@ -44,37 +84,17 @@ The greatest invention in pet tech in recent years is the litter robot. A machin
 
 Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is "a version of the SynthID-Text approach" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This watermarking feature, alongside C2PA support for Claude-processed images, is being introduced to meet Anthropic's obligations under the European Union's AI Act , which requires synthetic audio, image, video, and text to include machine-readable marks … Read the full story at The Verge. ]]>
 
-### I’m hooked on Peak Design’s new City bags
-2026-08-17T03:00:00-04:00 — https://www.theverge.com/tech/980137/peak-design-city-line-review
-
-Integrated BagLev hooks keep Peak Design’s City Line crossbody bag and backpack off the dirty ground. | Photo by Thomas Ricker / The Verge It's just a hook, sewn into a bag, but I really, really like it. Peak Design is so proud of its clever integration that the San Francisco-based maker of camera gear gave it a name: BagLev, for its ability to keep its new City Line of bags levitated above the dirty ground. How many of us are guilty of coming home and tossing a bag onto the kitchen table or counter to unload it? We pretend it's not a thing, despite the carryall having come into contact with unknown filth picked up from the floors of subways and dive bars, sidewalks, and parks. BagLev lets you hang your bag off a chair, ledge, tabletop, or counter as you go about your day, kee … Read the full story at The Verge. ]]>
-
-### OpenAI reportedly disbanded its preparedness team
-2026-08-16T17:32:56-04:00 — https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team
-
-According to the Financial Times , OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT , responsibility has instead been divided up for specific areas like bio and cyber, then moved into existing teams. This is the latest change at the company, which has been in upheaval as it heads toward what is expected to be a massive IPO. Over the last few years, it's slowly torn down its more reach-led model, dissolving its AGI … Read the full story at The Verge. ]]>
-
-### Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece
-2026-08-16T16:31:37-04:00 — https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review
-
-In every possible universe? | Image: Backwoodz Studioz "Breakups are… tough." It's the opening lines of an interlude toward the end of DOOMED! Called "It Happens in Every Universe." It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, and his productions tinged with nostalgia. But DOOMED! is his most intimate album yet. A lot of that is due to the production from Kenny Segal. The two have traveled in the same orbit and worked together before, but this is the first full-length album release from the two. These are some of Segal's most co … Read the full story at The Verge. ]]>
-
-### Amazon is trying to crush class action suits before they get started
-2026-08-16T13:35:02-04:00 — https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions
-
-On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a "fast and efficient" way to resolve issues, but it notably would prevent customers from seeking the involvement of a judge or jury in most circumstances. Customers can still take Amazon to small claims court in certain circumstances, though payouts are often limited to a few thousand dollars. The relevant sections of Amazon's legal policies page now read: YOU AND WE AGREE THAT ANY … Read the full story at The Verge. ]]>
-
-### ChatGPT’s Computer History tracks your clicks and keystrokes
-2026-08-16T10:56:40-04:00 — https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes
-
-ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature is opt in, rather than opt out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically ignore content in incognito or private browser tab … Read the full story at The Verge. ]]>
-
-### Rogue AI aren’t science fiction anymore
-2026-08-16T08:00:00-04:00 — https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai
-
-This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart . The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here . How it started It all started in July, when one of OpenAI's autonomous AI agents went rogue during a cybersecurity test. The agent escaped its isolated testing environment, accessed the internet, and hacked another company, Hugging Face. A few years ago, that might have sounded like science fiction. But, broadly speaking, that's exactly what happened, and the incident kicked off a wave of concern over what increa … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Alibaba is selling its gaming studio for at least $1.5 billion to help fund AI buildout, mirroring Micron's exit from consumer business — dumps entire stake in Lingxi Games, which made 'Three Kingdoms: Strategy Edition'
+Mon, 17 Aug 2026 15:39:28 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-sells-its-gaming-studio-for-at-least-1-5-billion-to-help-fund-ai-buildout
+
+Alibaba has agreed to sell its game development unit, Lingxi Games, to Asian private equity firm Trustar Capital, according to an internal staff memo sent Monday by Lingxi CEO Zhou Bingshu, per Reuters . A person familiar with the matter told Reuters that Alibaba stands to collect more than $2 billion from the transaction, while Bloomberg , which first reported the memo, valued the studio at no less than $1.5 billion. The sale transfers Alibaba's entire stake in the studio and takes the Chinese tech giant out of in-house game development entirely, freeing up cash for an AI infrastructure program the company has already said will blow past its original $53 billion budget. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) Photonics and high-speed data movement is the next big AI bottleneck The data center cooling state of play Massive AI data center buildouts are squeezing energy supplies Ultra Ethernet: The data center interconnection of tomorrow "Alibaba is handing Lingxi to Trustar due to better focus on its strategic priorities," Zhou wrote in the memo, as quoted by Bloomberg . Zhou and his management team will stay on to run the studio under its new owner. The memo didn't disclose a price, an expected closing date, or any regulatory conditions attached to the deal, and none of the three companies responded to requests for comment. Alibaba committed at least 380 billion yuan (around $53 billion at the time) to cloud and AI infrastructure over three ye
+
+### Judge clears Nine PBS to retrieve 70 years of archival TV data — court rules station owns 50TB of data in Iron Mountain servers after host went under
+Mon, 17 Aug 2026 14:31:31 +0000 — https://www.tomshardware.com/software/cloud-storage/judge-clears-nine-pbs-to-retrieve-70-years-of-archival-tv-data-court-rules-station-owns-50tb-of-data-in-iron-mountain-servers-after-host-went-under
+
+There’s light at the end of the tunnel for Nine PBS. We reported last week that the station lost access to 50TB of data representing 70 years of TV history. The issue was that its cloud storage provider went out of business and access to this important set of backups was abruptly cut off. In the meantime, a judge has cleared the way for Nine PBS to retrieve its archival data and programming from Iron Mountain Data Centers. Let us refresh your memories of this case by sketching out a timeline of how we got here, before discussing the latest ruling. 2019: Nine PBS began using Open Source Storage (OSS) as its cloud storage provider. 2019-2025: Annual cloud storage contract renewals occur without incident. February 2026: Nine PBS wanted to meet with OSS about contract renewal but couldn’t get in touch. March 6, 2026: Without any new agreement inked, the existing contract expired on March 6, with the terms allowing 30 days for the customer to retrieve their data. However, OSS seemed to cut off access to Nine PBS cloud data without any warning or any grace period. March 13, 2026: Nine PBS learned that OSS saved its cloud data at physical servers housed in Iron Mountain, Colorado. So it wrote to request that Iron Mountain preserve and return the data. However, Iron Mountain doesn’t confirm or deny that it holds this data. April 16, 2026: Nine PBS filed suit against OSS, and new OSS owner James Tramel confirms the data is secured at Iron Mountain. May 2026: Tramel stops responding, l
 
 ### Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399
 Mon, 17 Aug 2026 13:52:30 +0000 — https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399
@@ -126,17 +146,22 @@ Mon, 17 Aug 2026 10:55:01 +0000 — https://www.tomshardware.com/desktops/gaming
 
 The cheapest Nvidia RTX 5090 in stock and available to buy right now costs at least $4,799, and even then, you won't be buying one from a reputable vendor. That makes this Dell Alienware desktop discount all the more enticing. Right now you can save $1,550 off the potent Alienware Area-51 Gaming Desktop, and score one for $4,779, cheaper than the standalone cost of the GPU . ● Check out this deal at Dell With graphics card prices continuing to rise, the bar for selling a 5090 PC for less than the cost of the card is admittedly a little lower than it used to be, but this is still a crazy deal. For less than the cost of a 5090, you get the card, plus a 20-core Intel Ultra 7 265K processor, 32GB of DDR5 7200 RAM, 1TB M.2 Gen 5 SSD, and a 1500W power supply, all housed inside a sleek Alienware case. Other bonuses include a copy of Windows 11 and a 240mm AIO CPU cooler. Area-51 Gaming PC with RTX 5090: was $6329.99 now $4779.99 Get an RTX 5090 with an entire gaming PC thrown in, all for less than the cost of the card by itself. Features 20-core Intel Ultra 7 265K processor, 32GB of DDR5 7200 RAM, 1TB M.2 Gen 5 SSD, and a 1500W power supply View Deal The standout of this build, as you've probably guessed, is the absolutely monstrous RTX 5090. The best graphics card on the market by some distance, its massive 32GB GDDR7 VRAM pool and 21,760 CUDA cores mean it will chew through any title at 4K, or a local AI workload without breaking a sweat. Tom's Hardware Tom's Hardware Tom's Hardw
 
-### Save $60 on Corsair's impressive 96% gaming keyboard with Elgato Stream Deck integration — the Vanguard 96 RGB features pre-lubed mechanical switches, sound dampening, a color LCD screen, and a full-size number pad
-Mon, 17 Aug 2026 10:50:50 +0000 — https://www.tomshardware.com/peripherals/gaming-keyboards/save-usd60-on-corsairs-impressive-96-percent-gaming-keyboard-with-elgato-stream-deck-integration-the-vanguard-96-rgb-features-pre-lubed-mechanical-switches-sound-dampening-a-color-lcd-screen-and-a-full-size-number-pad
-
-Desk space is an important commodity, and for some, it's an ongoing battle to keep as much free space as possible. Apart from regularly removing clutter, one thing that has popped up over the years is the minimization of keyboard sizes. Gamers have gotten used to sporting tiny 60% keyboards in an effort to free up more space for unhindered mouse movement, but what if you still want a useful keyboard for your day job that has a number pad and some function keys? Well, that's where this keyboard sits: the Corsair Vanguard 96 RGB has a discounted sale price of just $119.99 at Best Buy , a hefty $60 knocked off the $179.99 list price. ● Check out this deal at Best Buy The Corsair Vanguard 96 RGB mechanical gaming keyboard is a 96% keyboard that compacts the layout so it can fit a number pad, arrow keys, function keys, six G-keys (macro/elgato), an LCD screen, and even a rotary dial, all while keeping the overall dimensions of the keyboard around the standard size of a TKL (TenKeyLess) keyboard. To achieve this compact form factor, some of the traditional key dimensions have changed, such as the zero key on the number pad and the removal of the right CTRL button. So a little muscle memory reprogramming may be needed to fully acclimatize to this keyboard. Other features of the Corsair Vanguard 96 RGB include an 8000 Hz polling rate for super low-latency gameplay, pre-lubed Corsair MLX switches, a hot-swappable PCB (supports 3 & 5-pin switches), RGB lighting, four-layer sound-dampen
-
-### Japanese repair shop sells GPU VRAM upgrades for $25 per GB during memory crisis — RTX 2080 Ti modded to 22GB of GDDR6 for just $282, double the VRAM creates a budget AI powerhouse
-Mon, 17 Aug 2026 10:30:00 +0000 — https://www.tomshardware.com/pc-components/gpus/japanese-repair-shop-sells-gddr6-vram-upgrades-for-usd25-per-gb-during-memory-crisis-rtx-2080-ti-modded-to-22gb-for-just-usd282-double-the-vram-creates-a-budget-ai-powerhouse
-
-The GeForce RTX 2080 Ti is somewhat of a legend in the modding community when it comes to VRAM upgrades. The card's strange 11GB memory config lends itself very well to repair jobs that double its memory pool to 22GB. We've seen it happen in China and the UAE before, and now, a Japanese vendor offering the same services has been spotted. The shop charges 45,000 Yen, or $282, for adding 11GB of memory to your existing RTX 2080 Ti, which comes out to about $25 per gigabyte. Samsung製 GDDR6 2GBメモリ、200個到着しました！🔥引き続きRTX 2080 Tiの22GB化を進めていきます！💪まだまだ改造していきます！#RTX2080Ti #VRAM #メモリ増設 #GDDR6 #GPU改造 pic.twitter.com/y4XoMXwcaH August 15, 2026 The shop has a very uninspired name that roughly translates to "AI to GPU Expert," since they take regular gaming cards and transform them into AI workhorses with a lot of VRAM. They operate out of Saitama Prefecture and have a store on Mercari where you can find a bunch of different modded GPUs listed for rather reasonable prices. The cheapest pre-modded RTX 2080 Ti we could find was an MSI Venus 2X model for $428 . Just a few days ago, we saw blower-style 22GB RTX 2080 Ti SKUs listed for $500 on eBay from a Hong Kong seller. It's hard to get your hands on memory for a fair price these days, but it seems like this vendor has a very generous plug based on their prices. They even posted about recently receiving a large shipment of 2GB GDDR6 modules made by Samsung, all intended for upgrading RTX 2080 Ti cards. The batch included 200 modules, so 400GB 
-
 ## Phoronix
+
+### ARCTIC Fan Controller: The Best Fan Controller For Linux Desktops, Less Than $10 USD
+Mon, 17 Aug 2026 12:50:00 -0400 — https://www.phoronix.com/review/arctic-fan-controller
+
+Back in March were patches posted by ARCTIC Cooling for an ARCTIC fan controller driver for Linux. Typically we aren t used to seeing desktop/enthusiast focused vendors providing such Linux drivers for peripherals directly but the sad fact is most often it s left up to the open-source community to reverse engineer and create such drivers for Linux. Making it all the more surprising besides it coming from ARCTIC Cooling directly was that at the time they didn t even have a fan controller product with USB interface. Well, now it s launched and in turn is a great USB fan controller for Linux systems and retails for just $9 USD.
+
+### AMD Working On A New Backend For Improving ROCm Compute In QEMU/VMs
+Mon, 17 Aug 2026 11:05:00 -0400 — https://www.phoronix.com/news/AMD-ROCm-Better-QEMU-VM
+
+AMD engineers are working on enhancing the open-source ROCm compute stack for better handling GPU virtualized compute under QEMU...
+
+### Linux 7.3 SMP Improvement To Help Reduce Latency, Improve Real-Time Performance
+Mon, 17 Aug 2026 10:09:01 -0400 — https://www.phoronix.com/news/Linux-7.3-SMP
+
+Among the pull requests sent out today now that the Linux 7.3 merge window is open are the SMP improvements for this next kernel version. Standing out among the SMP code are some enhancements for helping reduce latency and ultimately enhancing real-time Linux performance...
 
 ### Firefox 154 Now Available With "Manage AI" Quick Action
 Mon, 17 Aug 2026 09:01:22 -0400 — https://www.phoronix.com/news/Firefox-154-Released
@@ -182,19 +207,4 @@ Linus Torvalds just released Linux 7.2 as stable! After a very busy kernel cycle
 Sun, 16 Aug 2026 16:15:33 -0400 — https://www.phoronix.com/news/GIMP-New-File-Format-2026
 
 The GIMP project has published their latest development update to highlight the interesting work that's ongoing toward GIMP 3.4 and future releases...
-
-### tlbi= Boot Option Submitted Ahead Of Linux 7.2 Kernel Release
-Sun, 16 Aug 2026 13:01:03 -0400 — https://www.phoronix.com/news/Linux-7.2-x86-urgent-tlbi
-
-Ahead of the Linux 7.2 kernel stable release expected to occur in the coming hours, a last minute "x86/urgent" pull request was submitted with one patch for adding the new tlbi= boot option...
-
-### Debian Marks 33rd Birthday As One Of The Oldest Maintained Linux Distros
-Sun, 16 Aug 2026 10:13:46 -0400 — https://www.phoronix.com/news/Debian-33-Birthday
-
-Today marks thirty three years since the Debian Linux distribution was started by the late Ian Murdock...
-
-### AVX-512 xor_gen Continues To Look Exciting For Helping Linux RAID With Modern CPUs
-Sun, 16 Aug 2026 06:54:19 -0400 — https://www.phoronix.com/news/AVX-512-xor-gen-v4
-
-Google engineer Eric Biggers back in June posted an AVX-512 optimization for Linux RAID yielding up to a 41% improvement on a modern AMD Ryzen 9 9950X (Zen 5) processor. A revised patch then put it as much as a 43% improvement for this AVX-512 optimized xor_gen() function. The code hasn't yet been merged to mainline but an updated version of it is now available...
 
