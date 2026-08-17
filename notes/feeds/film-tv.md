@@ -1,6 +1,26 @@
-# Film & TV — harvested 2026-08-17T08:23:34.082Z
+# Film & TV — harvested 2026-08-17T11:01:42.011Z
 
 ## Variety
+
+### Iranian Director Ali Asgari Unveils First Clip From Venice-Bound A Bit of Light : This Trump Guy Is Threatening to Bomb Here Every Day (EXCLUSIVE)
+Mon, 17 Aug 2026 11:00:25 +0000 — https://variety.com/2026/film/global/iranian-director-ali-asgari-a-bit-of-light-first-clip-1236836044/
+
+Iranian director Ali Asgari, who was in Venice Horizons last year with dark satire “Divine Comedy,” will soon be back — in competition this time — with his new feature “A Bit of Light.” Variety is unveiling a first clip of the timely film, which is being sold internationally by France s Salaud Morisset and released [ ]
+
+### London Film Festival Competition Lineup: Aimee Lou Wood’s ‘The Idiot(s),’ Mackenzie Davis’ Sci-Fi Romance ‘My Notes on Mars,’ Hirokazu Kore-eda’s ‘Look Back’ and More
+Mon, 17 Aug 2026 11:00:00 +0000 — https://variety.com/2026/film/global/london-film-festival-2026-competition-lineup-1236836085/
+
+The 70th edition of the BFI London Film Festival has revealed its official competition, with 10 titles set to compete for the best film award. The films selected represent 10 countries, including the U.K., Ireland, Brazil, Denmark, France, Germany, Hungary, Italy, Japan, and Poland. The winner will be chosen by the LFF awards jury. Among [ ]
+
+### ‘Supporting Role’ Review: Dato Bakhtadze Captivates in a Nocturnal Odyssey Through Tbilisi
+Mon, 17 Aug 2026 10:42:44 +0000 — https://variety.com/2026/film/reviews/supporting-role-review-1236836132/
+
+A nocturnal odyssey through the spectral streets of Tbilisi is conjured with mesmerizing effect in Georgian writer-director Ana Urushadze’s “Supporting Role.” On the heavy heels of Niaz (Dato Bakhtadze), a lumbering Georgian movie star whose glory days are behind him, Urushadze’s second feature plays like an old-school Jim Jarmusch joint — all existential wandering and weird, [ ]
+
+### Hayden Panettiere Remembered by Viola Davis, Bethany Joy Lenz, Melissa Barrera and More: I Wish the World Had More Time With You
+Mon, 17 Aug 2026 09:49:28 +0000 — https://variety.com/2026/film/news/hayden-panettiere-remembered-viola-davis-bethany-joy-lenz-1236836020/
+
+Celebrities are paying tribute to Nashville and Heroes actress Hayden Panettiere, who died Sunday at 36. Though a cause of death has not been released, her father told ABC News on Sunday: “It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force [ ]
 
 ### Deluxe Media and Tohokushinsha Film Corporation Set Strategic Asia-Pacific Localization Partnership (EXCLUSIVE)
 Mon, 17 Aug 2026 08:00:53 +0000 — https://variety.com/2026/film/news/deluxe-tohokushinsha-apac-localization-partnership-1236836079/
@@ -32,27 +52,27 @@ Mon, 17 Aug 2026 06:52:31 +0000 — https://variety.com/2026/film/global/former-
 
 Former Costa Rican Film Commissioner Marysela Zamora, who was instrumental in reviving the Costa Rica Media Market (CRMM) these past two years, will continue to serve on the Board of Directors of the Ibero-American Network of Film Commissions (Iberofic), where she will spearhead a regional agenda aimed at bolstering women’s leadership in the audiovisual sector [ ]
 
-### China Box Office: Once Upon a Time in the Middle East Dominates With $70 Million Weekend as Christopher Nolan s The Odyssey Debuts Second
-Mon, 17 Aug 2026 06:27:19 +0000 — https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-the-odyssey-1236836046/
-
-Dirty Monkeys’ war comedy-drama Once Upon a Time in the Middle East took command of the mainland China box office during the Aug. 14–16 weekend, grossing RMB477.9 million ($70.3 million) over the three-day frame, according to data from Artisan Gateway. Following its Tuesday, Aug. 11 rollout and earlier previews, the production has amassed a cumulative [ ]
-
-### Hollywood Failed Hayden Panettiere
-Mon, 17 Aug 2026 06:03:33 +0000 — https://variety.com/2026/film/news/hayden-panettiere-death-hollywood-sexual-predators-1236836037/
-
-Hayden Panettiere, the former child actress who grew up onscreen before our very eyes, passed away Sunday at the age of 36. She died five days before her 37th birthday. “It is with profound sadness that we share the tragic passing of our beloved Hayden,” her father Alan said in a statement. “She was an [ ]
-
-### John Oliver Brutally Mocks Trump for Sacrificing Staff in Airplane-Swap Incident
-Mon, 17 Aug 2026 03:47:18 +0000 — https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificing-staff-airplane-swap-incident-iran-1236836013/
-
-On Sunday night, the summer’s hottest soap opera star, John Oliver, opened the latest edition of his Emmy-winning HBO series “Last Week Tonight” by addressing Trump’s controversial airplane switcheroo incident whilst leaving a NATO summit in Turkey. “The Iran War dragged on with a series of humiliating news headlines including this revelation about Trump’s trip [ ]
-
-### Hayden Panettiere, Heroes and Scream Star, Dies at 36
-Mon, 17 Aug 2026 03:12:22 +0000 — https://variety.com/2026/film/news/hayden-panettiere-dead-heroes-scream-1236835999/
-
-Hayden Panettiere, known for her roles on Heroes, Nashville and in Scream 4 and Scream VI, died on Sunday. Her rep confirmed her death to ABC News. A cause of death was not immediately known. It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light [ ]
-
 ## The Hollywood Reporter
+
+### BFI London Film Fest Sets 10 Competition Titles, Including Hirokazu Kore-eda, Carol Morley Films
+Mon, 17 Aug 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bfi-london-film-festival-2026-competition-program-kore-eda-1236674931/
+
+"Our 2026 competition selection brings an astounding array of filmmaking styles to the screen," says LFF director Kristy Matheson.
+
+### Rosie O Donnell, Viola Davis Pay Tribute to Hayden Panettiere: Heartbroken
+Mon, 17 Aug 2026 10:53:58 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hayden-panettiere-dead-tributes-reactions-1236674809/
+
+The actress's rep wrote in a statement, "It is with profound sadness that we share the tragic passing of our beloved Hayden."
+
+### Diane Kruger, Tim Roth, Danny Boon Join Netflix Nazi Hunter Drama Project K
+Mon, 17 Aug 2026 10:15:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/kruger-roth-boon-in-netflix-nazi-hunter-film-project-k-1236674920/
+
+Yvan Attal is directing the real-life drama about Beate and Serge Klarsfeld, the German-Jewish couple that tracked down Gestapo officer Klaus Barbie.
+
+### Vigil Season 3 Trailer: Suranne Jones and Rose Leslie Investigate a Murder at an Arctic Research Station – and They Can t Trust Anybody
+Mon, 17 Aug 2026 09:10:14 +0000 — https://www.hollywoodreporter.com/news/general-news/vigil-season-3-trailer-premiere-suranne-jones-rose-leslie-1236674918/
+
+The six-episode new season of the BBC hit drama, produced by World Productions, was filmed in Svalbard, Norway and Scotland, with the BBC also revealing its launch date.
 
 ### In Oasis, a School Spirals Into Violence – and Three Outcasts Take Refuge in a Forest (Exclusive Trailer)
 Mon, 17 Aug 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oasis-film-trailer-venice-school-outcasts-violence-forest-1236674663/
@@ -84,27 +104,27 @@ Sun, 16 Aug 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-feat
 
 Nina Jacobson and Brad Simpson reveal how leaked photos sparked a social media firestorm — and how the FX limited series ultimately won over skeptics with seven Emmy nominations.
 
-### Karol G Brings Vibrant Vibes to Los Angeles With Her Viajando Por El Mundo Tropitour
-Sun, 16 Aug 2026 19:24:57 +0000 — https://www.hollywoodreporter.com/music/music-features/karol-g-viajando-por-el-mundo-tropitour-la-night-1-highlights-1236674607/
-
-The Colombian singer-songwriter performed her hit album 'Tropicoqueta' as well as several songs from her just-released album 'No Me Arrepiento de Sentir Tanto' to a sold-out crowd for her first of three nights at Inglewood’s SoFi Stadium.
-
-### ‘DTF St. Louis’ Creator Steven Conrad Has No Plans to Make More Movies
-Sun, 16 Aug 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/dtf-st-louis-creator-plans-movies-1236672644/
-
-“My appetite to continue to make television is really it now because of the length of the engagement,” Conrad tells THR.
-
-### In A Vineyard for A Lobster, Snowfall in a Ugandan Village Becomes a Political and Colonial Allegory
-Sun, 16 Aug 2026 18:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/a-vineyard-for-a-lobster-uganda-film-locarno-open-doors-1236673553/
-
-Director Talemwa Pius, who pitched his project at Locarno Open Doors, where it won one of the main awards, asks: "What really changed after colonialism, and what didn’t."
-
-### ‘The Pitt’ Showrunner Admits Season One’s Notoriety Amped Up Pressure For Season Two: “We Had to Prove That It Wasn’t Just a Fluke”
-Sun, 16 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-pitt-showrunner-pressure-season-two-1236670578/
-
-Gemmill also teases season three, er, a tiny bit.
-
 ## Deadline
+
+### Hirokazu Kore-eda, Carol Morley Lili Horvát In Competition At London Film Festival
+Mon, 17 Aug 2026 11:00:00 +0000 — https://deadline.com/2026/08/london-film-festival-official-competition-films-1237042779/
+
+Hirokazu Kore-eda, Carol Morley and Lili Horvát are among the directors in official competition at the London Film Festival (LFF). Ten titles will compete, with the winner unveiled at the LFF Awards on Sunday October 18. Countries represented include the UK, Ireland, Brazil, Denmark, France, Germany, Hungary, Italy, Japan and Poland. Kore-eda s film Look Back, [ ]
+
+### Bodies Pile Up Pressure Rises In Trailer For Prime Video India Series Clean Up Company
+Mon, 17 Aug 2026 10:25:00 +0000 — https://deadline.com/2026/08/prime-video-india-clean-up-company-trailer-1237042803/
+
+EXCLUSIVE: It might not be the most conventional business plan, but disposing of a body might be the kickstart that Prime Video s Clean Up Company needs. In a Hindi-language trailer for the MX Player/Prime Video comedy-drama, we see friends Raju (Vishal Jethwa), Swapan (Amey Wagh), and Goldie (Atijesh Gupta) stumble across the unusual business opportunity [ ]
+
+### BBC s Vigil Season 3 Teaser Sees Suranne Jones Rose Leslie s Detective Pair On An Artic Trek In Search Of Answers
+Mon, 17 Aug 2026 09:29:20 +0000 — https://deadline.com/2026/08/vigil-season-3-teaser-trailer-bbc-1237042789/
+
+Here s your first look at Suranne Jones and Rose Leslie in Season 3 of BBC police drama Vigil. A teaser shows the pair trekking across a frozen tundra, long-range rifle strapped to their backs, as their latest high-stakes investigation takes them to a remote Arctic research station. In the Arctic, you don t understand what s coming, [ ]
+
+### Diane Kruger Dany Boon Are Nazi Hunters On The Trail Of Tim Roth s Klaus Barbie In Netflix s Projet K
+Mon, 17 Aug 2026 09:25:29 +0000 — https://deadline.com/2026/08/diane-kruger-dany-boon-nazi-hunt-tim-roth-projet-k-netflix-1237042784/
+
+Diane Kruger and Dany Boon will play Nazi hunters on the trail of Tim Roth’s Klaus Barbie, in Projet K for Netflix. Kruger and Boon will portray Beate and Serge Klarsfeld, the real-life husband-and-wife Nazi hunters in the Netflix France film. The couple spent years tracking down Nazis after the end of World War II. [ ]
 
 ### Kenneth Branagh On Moving From Shakespeare To Action-Comedy In ‘Mayday’: “I Thought Zach Galifianakis Should Play The Part, But I Was Very Pleased They Asked Me” – Edinburgh Film Festival
 Mon, 17 Aug 2026 07:12:39 +0000 — https://deadline.com/2026/08/kenneth-branagh-mayday-ryan-reynolds-edinburgh-1237042763/
@@ -145,24 +165,4 @@ It s been quite a week for Bob Iger. First, the former Disney CEO managed to buy
 Sun, 16 Aug 2026 22:51:58 +0000 — https://deadline.com/2026/08/alex-cooper-caa-talkls-uta-exit-1237042312/
 
 Following several turbulent months and the forthcoming end of her beverage brand, Alex Cooper is embracing change at least when it comes to her representation. The Call Her Daddy host is in serious talks with CAA, Deadline can confirm. Nothing is signed, sealed and delivered yet, but the expectation is Cooper will make the [ ]
-
-### Myki Meeks On Life-Changing Experience Winning RuPaul s Drag Race How The Team Raises The Bar Every Year Contenders TV Nominees Studio
-Sun, 16 Aug 2026 22:40:00 +0000 — https://deadline.com/2026/08/myki-meeks-rupauls-drag-race-winner-video-interview-1237042115/
-
-After 18 seasons on the air, RuPaul s Drag Race has received a total of 88 Emmy nominations with 29 wins. To celebrate its most recent slew of Emmy nominations, executive producer Natalia James, co-executive producer John Polly, production designer Jen Chu, choreographer Jamal Sims and Season 18 winner Myki Meeks joined Deadline’s Contenders Television: The Nominees Studio [ ]
-
-### Jason Segel Says ‘Shrinking’ Season 4 Will Move Past Acute Grief: “Like A Rom-Com To Me To Try Again At 45 Years Old” Contenders TV Nominees Studio
-Sun, 16 Aug 2026 21:45:00 +0000 — https://deadline.com/2026/08/jason-segel-shrinking-video-interview-season-4-emmys-1237041926/
-
-They’re already shooting Season 4, but the Shrinking cast — co-creator/co-writer Jason Segel, Harrison Ford, Jessica Williams and Michael Urie — took a break to chat about their Emmy-nominated third season at Deadline’s Contenders Television: The Nominees Studio. Segel, who stars as Jimmy and serves as executive producer and writer alongside Bill Lawrence and Brett Goldstein, teased [ ]
-
-### ‘Teenage Sex And Death At Camp Miasma’s Bloody Good Expansion As Indies Flex – Specialty Box Office
-Sun, 16 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/indie-film-box-office-teenage-sex-and-death-at-camp-miasma-1237042281/
-
-Indie films helped drive a terrific box office weekend with Jane Schoenbrun’s Teenage Sex And Death At Camp Miasma from Mubi a standout. The edgy director with a dedicated fan base of her own tapped the youthful audience that flocked to Obsession and Backrooms as well as fans of the The X-Files (Gillian Anderson stars), [ ]
-
-### Octavia Spencer “Felt It Was Incumbent On Me As A Citizen Of The World” To Make ‘Lost Women Of Alaska’ Contenders TV Nominees Studio
-Sun, 16 Aug 2026 20:40:00 +0000 — https://deadline.com/2026/08/octavia-spencer-lost-women-of-alaska-emmy-interview-1237041780/
-
-Octavia Spencer has been following true crime stories since she was just 11 years old. Speaking at Deadline’s Contenders: The Nominees Studio, Spencer said, “I think there are a lot of people who are very new to the true crime genre. I m not, I ve been studying it. I read a horrible story, a true crime [ ]
 

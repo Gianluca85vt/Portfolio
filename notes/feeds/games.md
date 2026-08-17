@@ -1,6 +1,36 @@
-# Games — harvested 2026-08-17T08:23:34.082Z
+# Games — harvested 2026-08-17T11:01:42.011Z
 
 ## Eurogamer
+
+### Call of Duty studio Sledgehammer reportedly worked on a Halo multiplayer prototype before it got canned
+Mon, 17 Aug 2026 10:11:42 +0000 — https://www.eurogamer.net/halo-multiplayer-activision--sledgehammer-games
+
+A Halo game made by an Activision studio doesn't sound like a far-fetched idea, and is actually something Xbox considered per a new report. Sledgehammer Games, the studio behind several Call of Duty games like WW2, Vanguard, and Modern Warfare 3, is said to have been sought out to develop a Halo multiplayer game. Read more
+
+### Gameplay footage for the cancelled Star Wars: Magellan has appeared online
+Mon, 17 Aug 2026 09:26:35 +0000 — https://www.eurogamer.net/star-wars-magellan-footage-cancelled-action-rpg
+
+Years after its cancellation, gameplay footage for Star Wars: Magellan, the action RPG developed by the now-shuttered Echtra Games, has appeared online. Read more
+
+### Heroes and Until Dawn star Hayden Panettiere dies aged 36
+Mon, 17 Aug 2026 09:26:17 +0000 — https://www.eurogamer.net/hayden-panettiere-heroes-until-dawn-dies
+
+Hayden Panettiere - the actor who shot to fame as the cheerleader in TV superhero show Heroes - has died aged 36. Read more
+
+### It looks like Fortnite is getting a Roblox collaboration, months after Epic boss Tim Sweeney referred to the rival game as a force that could "grow and eat gaming"
+Mon, 17 Aug 2026 09:15:01 +0000 — https://www.eurogamer.net/fortnite-chapter-7-season-4-roblox-gaming-legends
+
+It looks like Fortnite is getting a Roblox crossover. In the latest upcoming season of the game - named Fortnite Chapter 7 Season 4: Override - the world's biggest battle royale introduces a wealth of gaming properties to its world. Developer Epic's first trailer for the new season (below) shows off a slew of gaming characters from all eras: you've got Crash Bandicoot, Sonic the Hedgehog and his pal Tails, Joker from Persona 5, Mega Man, Kitana and Scorpion from Mortal Kombat, and more. Read more
+
+### Don't sleep on Fire Emblem: Fortune's Weave mouse controls - believe it or not, it's become my favourite way to play
+Mon, 17 Aug 2026 09:00:00 +0000 — https://www.eurogamer.net/fire-emblem-fortunes-weave-switch-2-mouse
+
+Earlier this year, Pokopia convinced me that the Switch 2's gimmicky mouse controls were a worthwhile addition to the console, after all. Since then, I've been trying out other games with the mouse as my primary method of control. My favourites, before I picked up Fire Emblem: Fortune's Weave, were Nobunaga's Ambition: Awakening and Balatro. There's just something more satisfying about clicking to select units, or dragging and dropping cards, than there is using the D-pad. Read more
+
+### For the first time ever in a Call of Duty beta, the Modern Warfare 4 beta includes a campaign mission
+Mon, 17 Aug 2026 08:27:59 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-maps-modes-campaign
+
+Activision has announced several new details about the Call of Duty: Modern Warfare 4 beta, whose first leg is set to kick off Friday. The official Call of Duty X account posted a dense image showing all content players have access to, and it's certainly more than many expected. Read more
 
 ### Saber Interactive finally adds an AI disclaimer to Rideshare Stimulator's Steam page
 Sun, 16 Aug 2026 17:34:21 +0000 — https://www.eurogamer.net/saber-rideshare-stimulator-steam-ai-disclaimer
@@ -32,32 +62,12 @@ Sat, 15 Aug 2026 16:56:47 +0000 — https://www.eurogamer.net/simpsons-hit-and-r
 
 Simpsons creator Matt Groening may have just let slip that a Hit & Run comeback is on the way. Read more
 
-### Killing PlayStation discs could make PS Store games cheaper, according to a former Square Enix exec
-Sat, 15 Aug 2026 16:21:22 +0000 — https://www.eurogamer.net/ps-store-prices-cheaper-disc-production-end
-
-A former Square Enix exec believes that PS Store prices could actually come down as a result of Sony's decision to end all physical media on PlayStation. Read more
-
-### Kingdom Hearts 4's first new world is inspired by Pixar's Coco
-Sat, 15 Aug 2026 11:29:23 +0000 — https://www.eurogamer.net/kingdom-hearts-4-coco-world
-
-Alongside its Kingdom Hearts 4 release window and its Kingdom Hearts anime series announcement, Disney used Friday's D23 Entertainment Showcase to confirm the first new world for Kingdom Hearts 4 : one inspired by Pixar's Coco. Read more
-
-### Kingdom Hearts is getting its own anime series on Disney+ and Disney Channel
-Sat, 15 Aug 2026 11:05:39 +0000 — https://www.eurogamer.net/kingdom-hearts-animated-series
-
-A Kingdom Hearts animated show is on the way. Read more
-
-### Kingdom Hearts 4 finally has a release window, if not quite a firm release date
-Sat, 15 Aug 2026 10:42:49 +0000 — https://www.eurogamer.net/kingdom-hearts-release-window-2027
-
-Kingdom Hearts 4 finally has a release window &ndash; late 2027. Read more
-
-### Rusty Lake is back with another belter, so I get to shout about the overlooked puzzle series all over again
-Sat, 15 Aug 2026 09:00:00 +0000 — https://www.eurogamer.net/rusty-lake-servant-of-the-lake-now-playing
-
-I wiggle a cloud and the lake goes dark, revealing patterns among the stars. I poke a cat and pick up its sick so I can glue back together a chair. I place fly eggs on grilled fish to sate my master's guests, and I snip open a sutured wound to release the writhing thing inside. I hunt sport with my shotgun from the brow of a hill, some of them on their morning stroll. I neatly pack away severed fingers, then pluck shadow men from gnashing maws. And at one point I've even got a screaming baby in my inventory too. Read more
-
 ## GamesIndustry.biz
+
+### Saber Interactive adds AI disclaimer to Rideshare on Steam; CEO Matt Karch apologises to former lead writer
+Mon, 17 Aug 2026 10:24:45 +0000 — https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer
+
+Saber Interactive has added an AI disclaimer to Rideshare Simulator's Steam page following controversy over allegations the firm had dismissed a writer working on the game in favour of using AI-written copy. Read more
 
 ### Matchmaking platform Sail.game launches free tier for devs ahead of Gamescom
 Mon, 17 Aug 2026 07:33:37 +0000 — https://www.gamesindustry.biz/matchmaking-platform-sailgame-launches-free-tier-for-devs-ahead-of-gamescom
@@ -120,17 +130,7 @@ Sat, 15 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/matt-g
 
 And who are we to question him. There has been an awful lot of rumour and speculation about the potential return of The Simpsons: Hit & Run , a firm fan favourite game from 2003. Well, it seems like we might have finally gotten some sort of confirmation, and it comes straight from the creator of The Simpsons , Matt Groening . Read the full article on pushsquare.com
 
-### Pixar s Coco Confirmed for Kingdom Hearts 4, Launching on PS5 in Late 2027
-Sat, 15 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/pixars-coco-confirmed-for-kingdom-hearts-4-launching-on-ps5-in-late-2027
-
-Brand new trailer revealed. Expectant Kingdom Hearts 4 fans have been rewarded at this year's D23 expo, as Disney and Square Enix have released a new trailer for the highly anticipated action RPG. The trailer, which you can watch below, confirms a couple of things. Firstly, Sora will be travelling to the world of Pixar's Coco , and you can see him bouncing around the land of the dead with Miguel and co. Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 646
-Sat, 15 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-646
-
-Weekend warriors. Another week is all done and dusted, which means we can look forward to another weekend of gaming. Here's what we're playing. Jamie O'Neill I noticed on Time Extension that there's a sale of Arcade Archives' Namco titles, so since I've mainly spent time with the PC Engine port, I figured I'd treat myself to 30% off Namco's obscure 1988 cute-'em-up, Arcade Archives Ordyne . Read the full article on pushsquare.com
-
 ## Game Developer
 
-_Nothing in the last 48 hours._
+_Feed unavailable: HTTP 404_
 

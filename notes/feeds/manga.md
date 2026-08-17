@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-17T08:23:34.082Z
+# Manga — harvested 2026-08-17T11:01:42.011Z
 
 ## Anime News Network
+
+### Star Detective Precure! Anime Unveils New Ending Theme, Character Visuals (Contains Spoilers)
+Mon, 17 Aug 2026 06:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/star-detective-precure-anime-unveils-new-ending-theme-character-visuals/.240626
+
+New visual also revealed for <cite>Eiga Meitantei Precure!</cite>
 
 ### There's No Freaking Way I'll be Your Lover! Unless... Manga's 1st Part Ends, 2nd Part Debuts in Early 2027
 Mon, 17 Aug 2026 01:52:30 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/there-no-freaking-way-ill-be-your-lover-unless-manga-1st-part-ends-2nd-part-debuts-in-early-2027/.240631
@@ -25,7 +30,7 @@ Romantic comedy centers on no-nonsense systems engineer who turns into cheerful 
 ### Bleach: Thousand-Year Blood War - The Calamity Anime Casts Yūki Kaji
 Mon, 17 Aug 2026 00:32:12 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/bleach-thousand-year-blood-war-the-calamity-anime-casts-yuki-kaji/.240628
 
-Kaji plays Toshihiro Hitsugaya's Complete Bankai version
+Kaji plays Tōshirō Hitsugaya's Complete Bankai version
 
 ### Comic Market 108 Draws 260,000 Attendees Across 2 Days
 Sun, 16 Aug 2026 20:59:40 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/comic-market-108-draws-260000-attendees-across-2-days/.240624
@@ -56,11 +61,6 @@ Ena Hamabe helped bring to life stories like This Monster Wants to Eat Me and, m
 Sun, 16 Aug 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/sendai-books-licenses-amazoness-kiss-never-mind-come-together-manga-in-english/.240609
 
 Ishitsuyo launched <cite>Amazon Kiss</cite> in 2017
-
-### Reincarnated as a Sword Season 2 Reveals September 30 Early Streaming Debut, Theme Songs in Trailer
-Sun, 16 Aug 2026 06:40:44 -0400 — https://www.animenewsnetwork.com/news/2026-08-16/reincarnated-as-a-sword-season-2-reveals-september-30-early-streaming-debut-theme-songs-in-trailer/.240622
-
-Itsuki Fujioka to launch manga spinoff <cite>Tensei Shitara Ken Deshita My Dish</cite> on September 30
 
 ## Crunchyroll News
 
