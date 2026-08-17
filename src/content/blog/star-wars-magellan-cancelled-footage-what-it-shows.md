@@ -4,7 +4,6 @@ date: 2026-08-17
 category: Games
 excerpt: An ex-Echtra developer posted gameplay from the shuttered Star Wars action-RPG a year after cancellation. The footage is a good look at Unreal Engine 5 production values nobody outside the studio was ever meant to see — and a reminder of how much of this work simply evaporates.
 cover: /img/blog/star-wars-magellan-cancelled-footage-what-it-shows/shot-01.jpg
-draft: true
 ---
 
 Gameplay footage from **Star Wars: Magellan**, the third-person action-RPG that
