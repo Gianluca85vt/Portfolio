@@ -13,7 +13,6 @@ scoreSources:
   - { outlet: AV Club, score: 8 }
   - { outlet: Slant Magazine, score: 6.25 }
 excerpt: HBO's Green Lantern show premiered this weekend to a strong critical consensus, but the reviews keep circling one production choice — a practical, physically built ring costume instead of the CG suit every prior adaptation used. As a technical artist, that trade-off is the interesting part.
-draft: true
 ---
 
 Damon Lindelof and Chris Mundy's **Lanterns** premiered on HBO Sunday night,
