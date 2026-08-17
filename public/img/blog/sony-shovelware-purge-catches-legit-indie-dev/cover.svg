@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Sony's shovelware purge caught a legitimate solo developer alongside the asset-flip mills it was built to remove">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#5A0F22"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- a grid of small tiles being sifted: most flagged (dim, crossed), one real one caught in the same pass -->
+  <g>
+    <g fill="#FFFFFF" fill-opacity="0.10">
+      <rect x="120" y="150" width="70" height="70" rx="6"/>
+      <rect x="210" y="150" width="70" height="70" rx="6"/>
+      <rect x="300" y="150" width="70" height="70" rx="6"/>
+      <rect x="390" y="150" width="70" height="70" rx="6"/>
+      <rect x="120" y="240" width="70" height="70" rx="6"/>
+      <rect x="300" y="240" width="70" height="70" rx="6"/>
+      <rect x="390" y="240" width="70" height="70" rx="6"/>
+      <rect x="120" y="330" width="70" height="70" rx="6"/>
+      <rect x="210" y="330" width="70" height="70" rx="6"/>
+      <rect x="390" y="330" width="70" height="70" rx="6"/>
+    </g>
+    <g stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="4">
+      <path d="M126 156L184 214M184 156L126 214"/>
+      <path d="M216 156L274 214M274 156L216 214"/>
+      <path d="M306 156L364 214M364 156L306 214"/>
+      <path d="M396 156L454 214M454 156L396 214"/>
+      <path d="M126 246L184 304M184 246L126 304"/>
+      <path d="M306 246L364 304M364 246L306 304"/>
+      <path d="M396 246L454 304M454 246L396 304"/>
+      <path d="M126 336L184 394M184 336L126 394"/>
+      <path d="M216 336L274 394M274 336L216 394"/>
+      <path d="M396 336L454 394M454 336L396 394"/>
+    </g>
+    <!-- the one real tile, not crossed out, outlined instead -->
+    <rect x="210" y="240" width="70" height="70" rx="6" fill="#FFFFFF" fill-opacity="0.22" stroke="#FFFFFF" stroke-width="4"/>
+  </g>
+
+  <g text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="120" y="480" font-size="26" letter-spacing="6" fill="#FFFFFF" fill-opacity="0.55">PS STORE SHOVELWARE PURGE</text>
+    <text x="120" y="610" font-size="96" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">ONE OF THESE</text>
+    <text x="120" y="700" font-size="96" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">IS NOT LIKE</text>
+    <text x="120" y="790" font-size="96" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">THE OTHERS</text>
+  </g>
+</svg>
