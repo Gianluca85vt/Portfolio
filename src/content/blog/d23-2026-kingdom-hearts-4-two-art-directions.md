@@ -2,7 +2,7 @@
 title: Kingdom Hearts 4 showed its first Disney world at D23, and set itself a hard problem
 date: 2026-08-16
 category: Games
-cover: /img/blog/d23-2026-kingdom-hearts-4-two-art-directions/cover.svg
+cover: /img/blog/d23-2026-kingdom-hearts-4-two-art-directions/shot-03.jpg
 excerpt: Four minutes of Coco, Donald and Goofy playable for the first time, and a release window Square Enix put a number on. The interesting part is what running the Land of the Dead and near-photoreal Quadratum in the same engine actually asks of the team.
 ---
 
@@ -49,7 +49,13 @@ final scene of Kingdom Hearts II.
 
 Kingdom Hearts IV runs on **Unreal Engine 5**, with Nanite and Lumen, and
 Quadratum — the Shibuya-like city Sora wakes up in — has been shown as something
-close to photoreal. Wet asphalt, real signage, believable ambient light.
+close to photoreal. Real signage, real traffic, hard midday sun doing what
+midday sun does.
+
+<figure>
+  <img src="/img/blog/d23-2026-kingdom-hearts-4-two-art-directions/shot-01.jpg" loading="lazy" width="1440" height="810" alt="Strelitzia in Quadratum, softly lit with shallow depth of field and blurred neon signage behind her" />
+  <figcaption>Skin shading with real subsurface response, shallow depth of field, signage bokeh. This is the baseline the Disney worlds now have to sit next to. Screenshot: Square Enix / Disney, from the official Kingdom Hearts IV Steam page.</figcaption>
+</figure>
 
 Now put the Land of the Dead next to it.
 
@@ -62,8 +68,8 @@ Those two have to be the same game. Same renderer, same lighting model, same
 character shader stack, with Sora unchanged as he walks between them.
 
 <figure>
-  <img src="/img/blog/d23-2026-kingdom-hearts-4-two-art-directions/shot-02.jpg" loading="lazy" width="1440" height="810" alt="Sora dancing with Rapunzel in the Kingdom of Corona, from Kingdom Hearts III — flat warm lighting and simplified storybook architecture" />
-  <figcaption>Kingdom Hearts III, for comparison — this is the look KH4 is moving away from. Screenshot: Square Enix / Disney, via the official Steam page.</figcaption>
+  <img src="/img/blog/d23-2026-kingdom-hearts-4-two-art-directions/kh3-comparison.jpg" loading="lazy" width="1440" height="810" alt="A Disney world in Kingdom Hearts III — flat warm lighting, simplified storybook architecture, characters and set built to the same stylised rules" />
+  <figcaption>Kingdom Hearts III, for comparison: everything stylised to the same degree, so nothing clashes. Screenshot: Square Enix / Disney, from the official Kingdom Hearts III Steam page.</figcaption>
 </figure>
 
 Kingdom Hearts III solved this by not really having the problem. Everything was
