@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-18T14:16:21.251Z
+# Film & TV — harvested 2026-08-18T17:02:57.267Z
 
 ## Variety
 
-### Nonprofit Production Waterwell Doubles Funding for Unseen Iran Grants to Artists Representing the Diaspora in Film, TV, Theater and More
-Tue, 18 Aug 2026 14:05:00 +0000 — https://variety.com/2026/biz/news/arian-moayed-unseen-iran-grants-waterwell-nimruz-1236836821/
+### The Sims 4 Sets In-Game Crossover With ‘Clueless’ and ‘Mean Girls’ (Gaming News Roundup)
+Tue, 18 Aug 2026 17:00:00 +0000 — https://variety.com/2026/gaming/news/sims-mean-girls-clueless-gaming-news-roundup-week-august-17-1236836647/
 
-Nonprofit production venture Waterwell, co-founded by Succession player Arian Moayed, and nonprofit Nimruz has doubled the funding for their program of Unseen Iran Grants now in its second cycle. Funding for the grant program has grown to $100,000 to supporting 10 artists representing the Iranian diaspora with TV, film, theater and creative projects in other [ ]
+Get in, losers! It’s time to take your Sim shopping. The Sims 4 is getting two new for-purchase fashion kits for “Mean Girls” and “Clueless,” upgrading players’ online closets with ‘90s and early 2000s looks. Starting Aug. 27, the Mean Girls Capsule will bring a fetch array of miniskirts and matching sweaters and velour track [ ]
 
-### Madonna Leads VMAs Nominations With 11, Followed by Taylor Swift, Sabrina Carpenter, Ariana Grande
-Tue, 18 Aug 2026 14:01:44 +0000 — https://variety.com/2026/music/news/madonna-leads-vmas-nominations-taylor-swift-1236837092/
+### Hidden Heroes: A Descendants Story Adds 6 to Cast, Including Darren Criss as Jiminy Cricket and Sherry Cola as Yzma From Emperor s New Groove
+Tue, 18 Aug 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/hidden-heroes-a-descendants-story-cast-darren-criss-1236837236/
 
-It s no time warp — Madonna leads all other divas in nominations for the 2026 MTV Video Music Awards, with 11 nods, it was announced Tuesday morning. She s followed by Taylor Swift, with nine nominations, and Ariana Grande and Sabrina Carpenter, with seven each. Others with multiple shots at a Moon Person (as the awards [ ]
+The Disney Channel and Disney+ movie Hidden Heroes: A Descendants Story is rounding out its cast with six new additions. The new cast members are: Darren Criss (“The Assassination of Gianni Versace: American Crime Story,” “Maybe Happy Ending”) as Jiminy Cricket from “Pinocchio; Sherry Cola (“Joy Ride,” “Camp Rock 3”) as Yzma from “The Emperor s [ ]
 
-### Digital Media Veteran Adam Boorstin Joins MrBeast s WatchTime Studios as General Manager
-Tue, 18 Aug 2026 14:01:00 +0000 — https://variety.com/2026/digital/news/adam-boorstin-mrbeast-watchtime-studios-studio71-1236836946/
+### What Will I Become? Review: Transmasculine Lives Take Center Stage in a Poignant Portrait of Loss
+Tue, 18 Aug 2026 16:58:36 +0000 — https://variety.com/2026/film/reviews/what-will-i-become-review-1236832853/
 
-Digital media veteran Adam Boorstin has joined Beast Industries WatchTime Studios as general manager overseeing the production of original content in a range of genres for various platforms. Boorstin joined the company earlier this month after a 10-year run with Studio71, a cutting-edge digital services provider that helps creators scale their content across disparate platforms. [ ]
+At an early point in “What Will I Become?,” co-director Logan Rozos explains to the camera, “We are not taken seriously, so we have to take ourselves very seriously.” The film he has made, with Lexie Bean, tackles the crisis of transmasculine suicide head-on, while adding specificity and poignant remembrance. Though it mostly avoids being a PSA, [ ]
 
-### Bluey Leads as Australia s Screen and Games Sector Hits $7.9 Billion, Study Finds
-Tue, 18 Aug 2026 14:01:00 +0000 — https://variety.com/2026/film/news/bluey-screen-australia-study-1236836967/
+### Olivia Colman Joins Only Murders in the Building Season 6
+Tue, 18 Aug 2026 16:57:32 +0000 — https://variety.com/2026/tv/global/olivia-colman-only-murders-in-the-building-season-6-1236837324/
 
-Australia s screen and games sector contributed AUD11.1 billion ($7.9 billion) to the economy in gross value added in fiscal year 2023/24 and directly employed 68,844 people in FY 2024/25, according to Screen Currency 2026, a landmark Screen Australia study. The report singles out Bluey as the country s most effective cultural export, citing the children s series [ ]
+Olivia Colman has joined the London-set sixth season of Only Murders in the Building. The Oscar winner was revealed as the show s latest guest star in a video posted on its Instagram account on Tuesday featuring cast members Selena Gomez, Meryl Streep and Martin Short. We have had so many amazing guest stars for Only [ ]
 
-### Nicolas Altmayer, Beloved French Producer Behind ‘OSS 117,’ and Dior Executive Mathilde Favier Die in Car Crash
-Tue, 18 Aug 2026 13:59:21 +0000 — https://variety.com/2026/film/global/nicolas-altmayer-dead-car-crash-mathilde-favier-1236837104/
+### Netflix s Next Dating Show Explores Love After Extreme Weight Loss
+Tue, 18 Aug 2026 16:54:54 +0000 — https://variety.com/2026/tv/news/netflix-weight-loss-dating-show-1236837308/
 
-Nicolas Altmayer, the prolific French producer behind the “OSS 117” franchise and films by François Ozon, Bertrand Bonello and Julia Ducournau, and his partner Mathilde Favier, a prominent Dior public relations executive, died Monday in a car accident in western France. Altmayer was 61 and Favier was 57. The couple were killed at around 4 [ ]
+Love is blind, love is on the spectrum, love is suddenly skinny? Netflix s next dating show will follow singles during extreme weight loss journeys, exploring how they navigate dating, identity and the search for lasting love. The series, which has the working title Weight to Date, is casting contestants over 18 years old now. The [ ]
 
-### War Child U.K. Kicks Off Secret 7 Record Auction, Featuring Tracks From John Lennon, the Last Dinner Party, Glass Animals and More
-Tue, 18 Aug 2026 13:43:05 +0000 — https://variety.com/2026/music/global/war-child-uk-secret-7-record-auction-1236837039/
+### Woody Harrelson Calls Jesse Eisenberg’s ‘The Debut’ ‘Phenomenal,’ Talks ‘Brothers’ With Matthew McConaughey: ‘If You’re Looking for ‘True Detective,’ It’s Not This’
+Tue, 18 Aug 2026 16:54:33 +0000 — https://variety.com/2026/film/global/woody-harrelson-jesse-eisenberg-brothers-matthew-mcconaughey-1236836973/
 
-War Child U.K. has officially kicked off the 10th edition of its Secret 7 record auction, featuring 700 sleeves designed by world-renowned artists and tracks from John Lennon, the Last Dinner Party, Glass Animals and more. Each record contains a mystery song printed onto 7 vinyl, packaged inside a sleeve designed using the music as [ ]
+The applause thundering within the Sarajevo National Theater could be heard from a mile away on Tuesday afternoon. The reason? Woody Harrelson. The actor, who is at the festival as the recipient of an honorary Heart of Sarajevo Award, delighted passionate fans in a 90-minute career talk bookended by two comedy shows: his breakout, “Cheers,” [ ]
 
-### Oasis Documentary Trailer Takes Fans Behind the Scenes of Band’s Dramatic Reunion: ‘Will It Fall Apart Again?’
-Tue, 18 Aug 2026 13:33:17 +0000 — https://variety.com/2026/film/global/oasis-documentary-trailer-dont-look-back-in-anger-1236837083/
+### Bill Rasmussen, ESPN s Founder, Dies at 93
+Tue, 18 Aug 2026 16:26:13 +0000 — https://variety.com/2026/tv/news/bill-rasmussen-espn-founder-dead-1236837219/
 
-The Gallagher brothers get reflective, philosophical and, less unexpectedly, foul-mouthed in the first trailer for Oasis documentary Oasis: Don t Look Back in Anger. The way it finished unacceptable it didn t sit right with me, says Liam Gallagher in the opening moments. I just don t see myself on stage with Liam, adds Noel Gallagher. [ ]
+Bill Rasmussen, a former local-news sports director who parlayed an interest in the nascent business of satellite television into the launch of the sports-media giant known as ESPN, has died after a battle with Parkinson s disease. The entrepreneur and founder was 93 years old. Rasmussen in 1978 was idling in traffic on Connecticut s Interstate 84 [ ]
 
-### Toxic Season 2, Hosted by Elizabeth Chambers, Sets Investigation Discovery Premiere Date, Unveils First Trailer (EXCLUSIVE)
-Tue, 18 Aug 2026 13:30:00 +0000 — https://variety.com/2026/tv/news/toxic-season-2-trailer-elizabeth-chambers-id-series-premiere-date-1236834163/
+### Fulvio Lucisano, Italian Producer of Planet of the Vampires and What Have You Done to Solange?, Dies at 98
+Tue, 18 Aug 2026 16:12:00 +0000 — https://variety.com/2026/film/global/fulvio-lucisano-dead-italian-producer-planet-of-the-vampires-1236837169/
 
-Season 2 of Toxic, the Elizabeth Chambers-hosted true crime series that explores poisonous romantic relationships and the trauma they cause, will premiere on Investigation Discovery on Sept. 15. According to ID s announcement, the series will continue doing what it does best, following Chambers as she speaks with survivors of toxic relationships, domestic abuse, and intimate [ ]
+Italian producer Fulvio Lucisano, who shepherded a slew of cult B-movies such as “Planet of the Vampires” and “What Have You Done to Solange?” and had a close rapport with Roger Corman, has died. He was 98. His daughter Paola confirmed Lucisano s death on Tuesday in a statement sent to Italian news agency ANSA, writing: [ ]
 
-### Craig Carton to Launch New Show on Fox s Outkick
-Tue, 18 Aug 2026 13:30:00 +0000 — https://variety.com/2026/tv/news/craig-carton-launch-show-outkick-fox-1236836871/
+### New Marilyn Monroe Barbie Doll Inspired by Diamonds Are a Girl s Best Friend Ensemble
+Tue, 18 Aug 2026 16:00:00 +0000 — https://variety.com/2026/shopping/news/marilyn-monroe-barbie-diamonds-are-a-girls-best-friend-buy-1236836651/
 
-Craig Carton, the longtime sportscaster best known, perhaps, for his stints on New Yorks WFAN, will join Fox s Outkick sports-media outlet, hosting a new three-days-a-week program for a national audience. The Craig Carton Show will launch on September 8, with new episodes debuting Mondays, Wenesdays and Fridays. The new program will feature Carton’s unique take on [ ]
+Marilyn Monroe s birthday celebrations haven t concluded quite yet. Mattel is honoring the Hollywood icon with a new Barbie Signature doll inspired by her performance of Diamonds Are a Girl s Best Friend in the 1953 musical Gentlemen Prefer Blondes. The collectible arrives Aug. 18, a little more than two months after what would have been Monroe s [ ]
 
-### Edinburgh Film Festival Competition Directors on the Craziest, Most Challenging Moments Making Their First Features and Why They Can’t Wait to Do It Again: ‘It’s an Addiction’
-Tue, 18 Aug 2026 13:00:23 +0000 — https://variety.com/2026/film/global/edinburgh-film-festival-competition-director-variety-lounge-1236836981/
+### American Black Film Festival 2027 Heads to Los Angeles After 24 Years in Miami (EXCLUSIVE)
+Tue, 18 Aug 2026 16:00:00 +0000 — https://variety.com/2026/film/news/american-black-film-festival-2027-los-angeles-1236836839/
 
-The chaos, hard graft and — ultimately — privileged thrill of feature filmmaking were the central themes of conversation at the Variety Lounge at Edinburgh International Film Festival as the rising directors in official competition sat down to discuss their craft. Supported by VisitScotland and held in Edinburgh’s historic Caledonian Hotel, the Variety Lounge welcomed the 11 [ ]
+After calling Miami home for the past 24 years, the American Black Film Festival is heading to Los Angeles for its 31st edition, which takes place May 20-23, 2027. ABFF 2027 will set up shop across the greater Los Angeles area, making stops at AMC’s Grove location for film screenings and the Academy Museum of [ ]
 
 ## The Hollywood Reporter
 
-### Madonna, Taylor Swift Lead 2026 VMA Nominations
-Tue, 18 Aug 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/music/music-news/2026-vmas-nominations-madonna-taylor-swift-lead-1236675785/
+### Laurie May Stepping Down From Elevation Pictures
+Tue, 18 Aug 2026 17:02:20 +0000 — https://www.hollywoodreporter.com/business/business-news/laurie-may-elevation-pictures-1236676141/
 
-Madonna earned 11 nominations, while Swift got nine, and Sabrina Carpenter and Ariana Grande are tied for third with seven each.
+She leaves the indie film distribution giant she founded 13 years ago, with Noah Segal remaining at the helm as president.
 
-### Culinary Talent Eitan Bernath Signs With CAA (Exclusive)
-Tue, 18 Aug 2026 13:51:51 +0000 — https://www.hollywoodreporter.com/business/business-news/eitan-bernath-signs-caa-1236675999/
+### Darren Criss, Sherry Cola Join Disney s Hidden Heroes: A Descendants Story
+Tue, 18 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hidden-heroes-descendants-cast-darren-criss-sherry-cola-1236675667/
 
-He has around 10 million social media followers and regularly appears on ‘The Drew Barrymore Show.’
+The movie will center on iconic Disney sidekicks.
 
-### Hayden Panettiere Was Really Lonely While Filming Final Movie, Co-Star Says
-Tue, 18 Aug 2026 13:45:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-final-movie-1236675982/
+### Rosie O Donnell Crushed Her Kimmel Monologue by Doing What Jimmy Kimmel Doesn t
+Tue, 18 Aug 2026 16:38:11 +0000 — https://www.hollywoodreporter.com/tv/tv-news/rosie-odonnell-jimmy-kimmel-live-monologue-1236676023/
 
-Justin Chatwin says the late actress was "struggling" on the set of her last film.
+Now living in Ireland, O'Donnell returned to late night and focused on telling stories about living a normal life instead of obsessing over Trump.
 
-### A Ghost From the Past Returns in New ‘Slow Horses’ Season 6 Trailer
-Tue, 18 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/slow-horses-apple-drops-season-6-trailer-1236675838/
+### Phyllida Law, Actress and Mother of Sophie and Emma Thompson, Dies at 94
+Tue, 18 Aug 2026 16:38:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/phyllida-law-dead-emma-thompson-sofie-1236676119/
 
-As anyone associated with Slough House is seemingly marked for death, a character who was believed to be dead appears in the flesh.
+She appeared onstage in ‘A Day in the Death of Joe Egg’ and ‘La Cage Aux Folles’ and in films including ‘Much Ado About Nothing,’ ‘The Winter Guest’ and ‘Emma.’
 
-### ABC Sues FCC Over Threats to Broadcast Licenses In First Amendment Case
-Tue, 18 Aug 2026 12:59:14 +0000 — https://www.hollywoodreporter.com/tv/tv-news/abc-sues-fcc-free-speech-broadcast-licenses-1236675974/
+### Story Syndicate Promotes Jon Bardin to President of Documentary and Unscripted (Exclusive)
+Tue, 18 Aug 2026 16:18:36 +0000 — https://www.hollywoodreporter.com/business/business-news/story-syndicate-promotes-jon-bardin-1236675464/
 
-The FCC called the Disney-owned network's eight broadcast licenses in for an early renewal earlier this year and has challenged 'The View.'
+The ‘Maternal Instinct’ and ‘Last Take’ producer has been supervising the company’s expansion into more recurring series like ‘Solo Traveling with Tracee Ellis Ross.’
 
-### Peacock Reveals Another Price Hike After NBCU Streamer s First Profitable Quarter
-Tue, 18 Aug 2026 12:27:46 +0000 — https://www.hollywoodreporter.com/business/business-news/peacock-price-hike-nbcuniversal-2-1236675963/
+### The Estate of Marilyn Monroe Helped Mattel Design Barbie Doll for the Legend s 100th Birthday
+Tue, 18 Aug 2026 16:10:44 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/marilyn-monroe-barbie-doll-100th-birthday-release-price-buy-1236675613/
 
-Subscription rates for new and returning customers are on the way up, again, after the studio's marquee streaming platform recently posted its first quarterly profit.
+The toy company has designed seven dolls in the Hollywood icon's image.
 
-### How to Change the World, Exec Produced by Mark Cuban, Puts Spotlight on Social Entrepreneurs (Exclusive)
-Tue, 18 Aug 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/how-to-change-the-world-youtube-series-mark-cuban-1236675908/
+### Bill Rasmussen, Co-Founder of ESPN, Dies at 93
+Tue, 18 Aug 2026 15:58:55 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bill-rasmussen-espn-co-founder-1236676072/
 
-The 10-episode series from World Within Studios, in partnership with Religion of Sports, will premiere on YouTube in September and feature such expert voices as former Starbucks CEO Howard Schultz.
+The former New England Whalers exec and his son came up with the idea for an all-sports network in 1978 while stuck in traffic.
 
-### Ice Princess Director Pays Tribute to Hayden Panettiere, Michelle Trachtenberg: Two Shining Talents, Gone Far Too Soon
-Tue, 18 Aug 2026 11:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-michelle-trachtenberg-ice-princess-homage-1236675943/
+### Woody Harrelson Pays Tribute to Brilliant Rob Reiner at Lively Sarajevo Masterclass
+Tue, 18 Aug 2026 15:50:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/woody-harrelson-rob-reiner-sarajevo-film-festival-1236676042/
 
-Tim Fywell ('Happy Valley', 'The No. 1 Ladies' Detective Agency') remembers the "amazing pair."
+The three-time Oscar nominee delighted the crowd by reflecting on his colorful career, including the moment he "fucked up" by turning down Tom Cruise's role in 'Jerry Maguire.'
 
-### I Don t Believe Cinema Is Dying : Asghar Farhadi on War, Hope and Receiving Sarajevo s Most Prestigious Honor
-Tue, 18 Aug 2026 11:05:10 +0000 — https://www.hollywoodreporter.com/movies/movie-features/asghar-farhadi-director-film-war-iran-sarajevo-interview-1236675940/
+### Jay Shetty Remembers Hayden Panettiere, Reflects on Their Emotional Interview: You Were the Brave One
+Tue, 18 Aug 2026 15:16:59 +0000 — https://www.hollywoodreporter.com/news/general-news/jay-shetty-remembers-hayden-panettiere-1236676031/
 
-The Oscar winner talks to The Hollywood Reporter at the Sarajevo Film Festival about his next film – and why the people of his native Iran deserve more than conflict: "I love them, I love that culture."
+"You were courageous, resilient and so incredibly strong through so many difficult moments in your life,” the ‘On Purpose’ podcast host wrote to the late actress.
 
-### BBC, A24 s The Ministry of Time Series Casts Aoife Hinds, Billy Howle as Leads
-Tue, 18 Aug 2026 10:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bbc-a24-the-ministry-of-time-series-aoife-hinds-billy-howle-1236675923/
+### Oldenburg Names First Titles for 2026 Selection
+Tue, 18 Aug 2026 15:07:47 +0000 — https://www.hollywoodreporter.com/movies/movie-news/2026-oldenburg-film-festival-first-selections-1236676019/
 
-The 'Dune: Prophecy' and 'The Perfect Couple' actors will star in the six-part show based on Kaliane Bradley’s bestselling novel, which has been adapted by Alice Birch ('Normal People').
+New films from regulars Edgar Pêra, Michael Polish and Bertrand Mandico are among the highlights at the German indie film fest this year.
 
 ## Deadline
 
-### Elle Star Jacob Moskovitz To Play Marlon Brando In Chicago Presentation Of Kowalski
-Tue, 18 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/elle-jacob-moskovitz-marlon-brando-kowalski-1237043872/
+### ESPN Founder Bill Rasmussen Dies At 93
+Tue, 18 Aug 2026 17:01:22 +0000 — https://deadline.com/2026/08/espn-founder-bill-rasmussen-dies-at-93-1237044298/
 
-EXCLUSIVE: Jacob Moskovitz, star of Prime Video s Elle, is joining the cast of Kowalski as Marlon Brando. Moskovitz will join Johnny Galecki as Tennessee Williams in the Gregg Ostrin play directed by Colin Hanlon. The play will run from September 15 through October 25 at Chicago s Lookingglass Theatre Company at the historic Water Tower Water [ ]
+Bill Rasmussen, a sports visionary who founded ESPN in 1979 with his son Scott as the world s first 24-hour sports television network, died Tuesday at 93 of Parkinson’s disease at his home in Florida. Shrugging off skeptics, the pioneering Rasmussen – after being fired as communications director of the New England Whalers acquired space [ ]
 
-### Jackson Lamb s Team Hunted Like Prey In Slow Horses Season 6 Trailer; Olivia Cooke Returns
-Tue, 18 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/slow-horses-season-6-trailer-olivia-cooke-returns-1237043997/
+### Macaulay Culkin Signs With CAA
+Tue, 18 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/macaulay-culkin-signs-caa-1237044228/
 
-The Slough House gang are on the run in the trailer for Slow Horses Season 6. A new trailer for darkly comic Apple TV spy thriller shows Jack Lamb s (Gary Oldman) team embroiled in Diana Taverner s (Kristin Scott Thomas) fatal high-stakes game of retaliation and revenge. I cannot emphasize this enough: Stay dark, yeah? No [ ]
+EXCLUSIVE: Actor Macaulay Culkin has signed with CAA. One of those actors who will be forever linked to an iconic film, Culkin is known for his role as Kevin McCallister in John Hughes holiday classic Home Alone, one of only a handful of films in the last 50 years to have remained at #1 at the box [ ]
 
-### 22nd Camden Film Festival To Showcase New Work By Documentary’s Leading Lights: Gibney, Kopple, Oppenheimer, Chin, Vasarhelyi, Poitras More
-Tue, 18 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/camden-film-festival-2026-lineup-announcement-1237044032/
+### Hidden Heroes: A Descendants Story Adds Darren Criss, Sherry Cola, James Monroe Iglehart More As Iconic Disney Characters
+Tue, 18 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/hidden-heroes-descendants-movie-cast-darren-criss-1237044232/
 
-EXCLUSIVE: The 22nd edition of the Camden International Film Festival will feature some of the biggest names in documentary film and some of the most hotly anticipated titles. The prestigious cinematic event in mid-coast Maine, running September 17-20, revealed its lineup Tuesday. The slate boasts Oscar winner Alex Gibney with his documentary Musk, about the [ ]
+After revealing the start of production on a new Descendants film featuring the children of some of Disney s most beloved sidekicks, Disney Channel has added some additional cast members to the upcoming project. Hidden Heroes: A Descendants Story has added Darren Criss as Jiminy Cricket from Pinocchio, Sherry Cola as Yzma from The Emperor’s New Groove, James Monroe [ ]
 
-### ABC Files First Amendment Lawsuit Against FCC, Claiming Trump Administration Retaliatory Campaign Against Its Free Speech
-Tue, 18 Aug 2026 12:13:50 +0000 — https://deadline.com/2026/08/abc-sues-fcc-first-amendment-lawsuit-1237044059/
+### Laurie May Departing As Co-President Of Elevation Pictures
+Tue, 18 Aug 2026 16:54:29 +0000 — https://deadline.com/2026/08/elevation-pictures-laurie-may-1237044305/
 
-UPDATED: ABC filed an unprecedented First Amendment lawsuit against the FCC on Tuesday, claiming that its investigations and regulatory actions are part of a Trump administration retaliatory campaign to curb the network s free speech. The lawsuit, filed in federal court in Washington, D.C., also seeks to halt a proceeding in which the agency and its [ ]
+Laurie May is stepping down as co-President of Canadian indie distribution company, Elevation Pictures. Founded in 2013 during the Toronto International Film Festival by Black Bear s Teddy Schwarzman, Elevation Pictures has handled the Canadian release of such movies as Oscar winning The Imitation Game, Room, Moonlight, Everything Everywhere All at Once and the recent A24 [ ]
 
-### One Hundred Years Of Solitude Stars On Adapting García Márquez s Impossible Novel; Watch The Finale Trailer
-Tue, 18 Aug 2026 12:05:00 +0000 — https://deadline.com/2026/08/100-years-of-solitude-finale-cast-trailer-netflix-1237044029/
+### Ken Kao s Waypoint Strikes First-Look With Splitsville ‘80 For Brady Outfit Watch This Ready, First Project Revealed
+Tue, 18 Aug 2026 16:46:08 +0000 — https://deadline.com/2026/08/waypoint-first-look-splitsville-80-brady-watch-this-ready-1237044260/
 
-EXCLUSIVE: Cast members including iconic Colombian star Margarita Rosa de Francisco came on board Part Two of Netflix’s 100 Years Of Solitude, and with the finale of the epic adaptation about to launch, several of the stars who appear in the series-closing episode spoke exclusively to Deadline. We are also first with the trailer for [ ]
+EXCLUSIVE: Ken Kao s prolific financier-producer Waypoint Entertainment has struck a first-look partnership with Watch This Ready, the indie production company co-founded by filmmakers Kyle Marvin and Michael Angelo Covino, alongside producer Emily Korteweg. The two companies previously collaborated on Dakota Johnson starrer Splitsville, which premiered at the Cannes Film festival last year and was picked [ ]
 
-### Christopher Nolan s The Odyssey Becomes Biggest Film Ever At BFI IMAX
-Tue, 18 Aug 2026 10:00:44 +0000 — https://deadline.com/2026/08/the-odyssey-becomes-biggest-film-ever-at-bfi-imax-avatar-1237044031/
+### Verve Signs Filmmaker Anna Mastro
+Tue, 18 Aug 2026 16:45:00 +0000 — https://deadline.com/2026/08/anna-mastro-signs-verve-1237044200/
 
-Christopher Nolan’s acclaimed epic The Odyssey is now the biggest film of all time at the UK s largest cinema, the BFI IMAX. To date, BFI IMAX has sold more than 101,000 admissions for the movie, generating £2,683,987 gross in ticket sales from a single screen and achieving a 95% occupancy rate across all showtimes currently [ ]
+EXCLUSIVE: Verve has signed Anna Mastro for representation. A filmmaker active across both film and television, Mastro is helming the feature adaptation of action-adventure game Gravity Rush for PlayStation Productions and Scott Free. Also attached to direct the romantic comedy Katfished for Rebelle Media, her earlier feature directing credits include Disney+ s Secret Society of Second Born Royals and the indie dramedy Walter. In [ ]
 
-### Aoife Hinds Billy Howle To Lead BBC And A24 Series The Ministry Of Time
-Tue, 18 Aug 2026 10:00:00 +0000 — https://deadline.com/2026/08/ministry-of-time-casts-aoife-hinds-billy-howle-bbc-a24-1237044013/
+### Olivia Colman Joins Only Murders In The Building Season 6
+Tue, 18 Aug 2026 16:42:27 +0000 — https://deadline.com/2026/08/olivia-colman-murders-in-the-building-season-6-guest-star-1237044293/
 
-Aoife Hinds (Dune: Prophecy, Normal People) and Billy Howle (The Perfect Couple, Under the Banner of Heaven) will star in BBC and A24 drama series The Ministry of Time. Hinds will play Sophy and Howle will be Commander Graham Gore, with filming beginning in and around London, as we reported earlier this year. Further casting [ ]
+The guest star list for Season 6 of Only Murders in the Building just keeps growing. Olivia Colman has boarded the sixth season of Hulu s cozy murder mystery show, set to take place across the pond. The news was unveiled on social media in a video by Selena Gomez, Meryl Streep and Martin Short via [ ]
 
-### ‘Club Kid’ ‘The Man I Love’ Among Titles Added To San Sebastian Lineup
-Tue, 18 Aug 2026 09:47:21 +0000 — https://deadline.com/2026/08/club-kid-the-man-i-love-san-sebastian-2026-1237044028/
+### CAA Hires Sophie Crowther To Expand UK-Based Creators Team
+Tue, 18 Aug 2026 16:18:35 +0000 — https://deadline.com/2026/08/caa-hires-sophie-crowther-uk-creators-team-1237044270/
 
-Jordan Firstman’s Club Kid and The Man I Love by Ira Sachs are among the titles that will screen as part of the Perlak competition sidebar for fall fest favorites this year at San Sebastian. San Sebastian announced its Perlak titles this morning. The festival will run from September 18 to 26. Scroll down for [ ]
+EXCLUSIVE: Creative Artists Agency (CAA) has hired Sophie Crowther to join the agency s creators team in London. She from Billion Dollar Boy, where she built the company’s talent partnerships team and helped found and launch FiveTwoNine, a creator-focused brand and platform. In total, she has 12 years experience in the field. Prior to Billion Dollar [ ]
 
-### She Left This World Far Too Soon : Wladimir Klitschko Issues Statement On Ex Hayden Panettiere s Death Promises To Keep Her Memory Alive For Their Daughter Kaya
-Tue, 18 Aug 2026 08:57:15 +0000 — https://deadline.com/2026/08/klitschko-on-hayden-panettieres-death-daughter-1237043999/
+### Amanda Warren Evan Jonigkeit To Topline Indie Sci-Fi Horror Door
+Tue, 18 Aug 2026 16:12:51 +0000 — https://deadline.com/2026/08/amanda-warren-evan-jonigkeit-to-star-door-sci-fi-horror-1237044266/
 
-Hayden Panettiere and Wladimir Klitschko split in 2018, but it was always clear that there remained love and respect between the two. Such was the case tonight when former heavyweight champion Klitschko spoke out for the first time about the untimely death of the 36-year-old Heroes actress, with whom he shared daughter Kaya. Hayden’s tragic [ ]
+EXCLUSIVE: Amanda Warren (The Leftovers) and Evan Jonigkeit (The Hunting Wives) are currently shooting lead roles in Door, an indie sci-fi horror film also starring Akira Jackson (It Ends), River Blossom (Abbott Elementary), Johnny Sibilly (Hacks), and Henry Ian Cusick (Lost). Marking the feature directorial debut of Sara Magness and Wil Magness, who also wrote the screenplay, [ ]
 
-### Jon Ronson Culture Wars Series Things Fell Apart Returns For Third Season On BBC – This Time Exploring David Vs. Goliath Stories
-Tue, 18 Aug 2026 08:00:00 +0000 — https://deadline.com/2026/08/jon-ronson-things-fell-apart-returns-season-3-bbc-1237042799/
+### Hollywood Climate Summit, Jackson Wild Unveil Finalists For Expanded Nature Climate Storytelling Awards
+Tue, 18 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/hollywood-climate-summit-jackson-wild-climate-storytelling-awards-1237043028/
 
-EXCLUSIVE: Jon Ronson s audio series Things Fell Apart is returning for a third season next year. The new season, the show s first in three years, will follow the British-American gonzo journalist as he explores eight stories of outsiders fighting powerful institutions. Per the synopsis, it will include all too human stories about the moment one person decides [ ]
+Hollywood Climate Summit and Jackson Wild have set finalists for their first joint awards ceremony Nov. 10 in Los Angeles spanning narrative film TV from Train Dreams and Hacks, to unscripted and documentary This is a Gardening Show and Nuisance Bear. Selected from over 500 global submissions, finalists represent the most impactful, innovative, and [ ]
 
-### Charles Esten Recounts Sweet First Encounter With Hayden Panettiere During Nashville Audition: What A Great Gift It Was To Act With You
-Tue, 18 Aug 2026 03:28:51 +0000 — https://deadline.com/2026/08/charles-esten-tribute-hayden-panettiere-nashville-dead-1237043868/
+### ‘Weight To Date’ Series Set At Netflix; Marks IPC’s First Sale Since Founders Left Sony Pictures TV
+Tue, 18 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/weight-to-date-reality-series-netflix-ipc-1237043520/
 
-Following Connie Britton s heartfelt tribute to Hayden Panettiere, who died Sunday at the age of 36, fellow Nashville alum Charles Esten also remembered his former co-star. Esten was a late cast addition to the Nashville pilot and the last series regular to be announced in March 2012 on the country music drama about fading Nashville [ ]
+EXCLUSIVE: Netflix is exploring the world of dating following extreme weight loss in its latest non-scripted order. Deadline understands the streamer has greenlit Weight To Date from The Intellectual Property Corporation (IPC). The deal came only a few weeks after Eli Holzman and Aaron Saidman, who are now co-CEOs of the company, exited Sony Pictures [ ]
 
-### Technical Foul: Buss Family Dispute Now Leaves Lakers Stake Sale To Bob Iger Josh Kushner In Purgatory
-Tue, 18 Aug 2026 01:15:00 +0000 — https://deadline.com/2026/08/lakers-iger-buss-family-stak-1237043368/
+### Rosie O Donnell Takes Aim At Donald Trump In Fiery Jimmy Kimmel Live! Monologue: Hi, I Know You re Watching!
+Tue, 18 Aug 2026 15:58:04 +0000 — https://deadline.com/2026/08/rosie-odonnell-donald-trump-jimmy-kimmel-live-monologue-1237044192/
 
-UPDATE: So, maybe Bob Iger and Josh Kushner don t own 83% of the Los Angeles Lakers after all, or do they? It s crickets from the Thrive camp today as reps for Jeanie Buss contradicted a earlier assertion from the remaining offspring of Dr. Jerry Buss that it is time to use this opportunity to move [ ]
+Buckle up, people! Rosie O Donnell immediately set the tone for her first monologue as guest host on Jimmy Kimmel Live! Monday. The comedian, who is filling in for vacationing host Jimmy Kimmel, reflected back on her stint from 1996-2002 on her own talk show, The Rosie O Donnell Show, in her first monologue of the week. [ ]
 

@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-18T14:16:21.251Z
+# AI — harvested 2026-08-18T17:02:57.267Z
 
 ## OpenAI
 
@@ -11,6 +11,11 @@ OpenAI and CodeAI are partnering to help students build AI literacy, think criti
 Tue, 18 Aug 2026 11:00:00 GMT — https://openai.com/index/chatgpt-for-teens
 
 ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
+
+### Asana cleared 5 years of engineering work in 2 weeks with Codex
+Tue, 18 Aug 2026 07:00:00 GMT — https://openai.com/index/asana
+
+Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.
 
 ### The Defender’s Window
 Mon, 17 Aug 2026 05:30:00 GMT — https://openai.com/index/the-defenders-window

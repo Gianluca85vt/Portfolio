@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-18T14:16:21.251Z
+# Games — harvested 2026-08-18T17:02:57.267Z
 
 ## Eurogamer
+
+### The Sinking City 2 ditches the thinky stuff for classic survival horror, but I'm yet to decide if it's truly better for it
+Tue, 18 Aug 2026 15:08:13 +0000 — https://www.eurogamer.net/the-sinking-city-2-now-playing
+
+There's a bit, early on in The Sinking City 2 , where you enter the waterlogged Miskatonic University. As you teeter around toppled shelves and slalom through sodden tomes, a siren begins to blare. It's the last call for survivors hoping to flee the doomed city of Arkham, after which only a few determined souls remain. It feels like a world in the process of transition as we join it, and that's reflective of the series too. Read more
+
+### Here's your next batch of Xbox and PC Game Pass games for August
+Tue, 18 Aug 2026 14:39:08 +0000 — https://www.eurogamer.net/xbox-pc-game-pass-august-lineup
+
+The next batch of Xbox and PC Game Pass games has been announced, detailing what's arriving in the latter part of August. Read more
 
 ### Don't boycott Grand Theft Auto 6, say workers fired by Rockstar - buy a T-shirt to help fund the legal battle instead
 Tue, 18 Aug 2026 13:27:24 +0000 — https://www.eurogamer.net/rockstar-workers-dont-boycott-grand-theft-auto-6-support-union-costs
@@ -51,16 +61,6 @@ One of the reasons Clair Obscur: Expedition 33 stood out so much in early footag
 Mon, 17 Aug 2026 16:00:08 +0000 — https://www.eurogamer.net/diablo-4-switch-2-release-date-rumour-expansions
 
 The much-rumoured Switch 2 version of Diablo 4 apparently includes both expansions of the action role-playing game - Vessel of Hatred and Lord of Hatred - all in one Age of Hatred Collection. And it's reportedly being released 15th September. Read more
-
-### Battlefield 6's Top Gun collaboration is more involved than I expected, and it convinced me that Carrier Strike should be a permanent mode
-Mon, 17 Aug 2026 15:52:08 +0000 — https://www.eurogamer.net/battlefield-6-top-gun-carrier-strike-wake-island
-
-Battlefield 6 's fourth season has been a highlight. From introducing naval combat to the game to adding its largest map yet - there's a lot for older Battlefield fans to enjoy. That same cohort, I wager - counting myself among them - will naturally be very excited for Top Gun to cross over with Battlefield 6. Read more
-
-### Sony still hasn't chosen a PlayStation 6 release date, says CEO, as RAM crisis continues
-Mon, 17 Aug 2026 14:58:18 +0000 — https://www.eurogamer.net/sony-ps6-internal-release-date-component-shortage
-
-We already know that console manufacturing is being heavily impacted by the on-going component shortage , driven by the proliferation of AI datacenters, the war in Iran, and accusations of price fixing . It turns out that these factors are putting so much pressure on console manufacturers that Sony hasn't even got a release date for the PlayStation 6 internally. Read more
 
 ## GamesIndustry.biz
 
@@ -120,6 +120,31 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Preview: After Online Storm, Here s the Truth About Wolverine PS5
+Tue, 18 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/previews/after-online-storm-heres-the-truth-about-wolverine-ps5
+
+Sharing a clear view of the next PS5 exclusive. Playing video games is a hobby designed to be enjoyable, so why has a wave of new Marvel's Wolverine previews been met with ridicule and slander? Despite the fact such pre-release verdicts were generally very positive, inaccurate videos have spread claims about the next PS5 exclusive that simply aren't true. The misinformed hate has been so bad that it's gotten back to Insomniac itself , and that's not okay. Read the full article on pushsquare.com
+
+### PlayStation s Official Desktop Speakers Arrive in November for $220
+Tue, 18 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/playstations-official-desktop-speakers-arrive-in-november-for-usd220
+
+Pulse Elevate speakers coming soon. Sony has announced the price and release date for its first-ever line of official PlayStation desktop speakers. Pulse Elevate, as they're known, will come in your choice of black or white, and will set you back $219.99 / €219.99 / £199.99, per an updated PS Blog post . Read the full article on pushsquare.com
+
+### Crazy Taxi s Gena Now Looks Like a Life Is Strange NPC on PS5
+Tue, 18 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/crazy-taxis-gena-now-looks-like-a-life-is-strange-npc-on-ps5
+
+What a downgrade. I’m really excited for Crazy Taxi: World Tour – I genuinely am! It’s been one of my most wanted games for years, after I scratched up the surface of my original Dreamcast disc from playing it so damn much. Read the full article on pushsquare.com
+
+### The Big Marketing Push for PS5 Exclusive Marvel s Wolverine Has Begun in Style
+Tue, 18 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/the-big-marketing-push-for-ps5-exclusive-marvels-wolverine-has-begun-in-style
+
+Advert-mantium. We're less than a month away from the launch of Marvel's Wolverine , the next major superhero action title from Insomniac Games, and it's going to be tough to avoid it during this period. Not only have there been a handful of previews lately, but it seems Sony and Marvel are firing up the marketing machine in a pretty major way. Read the full article on pushsquare.com
+
+### Brilliant PS5 Beat- Em-Up All-In on Avengers: Doomsday Hype in New DLC
+Tue, 18 Aug 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/08/brilliant-ps5-beat-em-up-all-in-on-avengers-doomsday-hype-in-new-dlc
+
+"An all-new game mode". I really enjoyed Marvel Cosmic Invasion last year, and I’ve been looking for an excuse to replay it . (I didn’t end up going back for Cyclops and The Thing, released as DLC earlier this year .) But it looks like there’ll be ample incentive to return this fall in the form of a new major expansion: The Siege of Castle Doom. Read the full article on pushsquare.com
+
 ### Tekken 8 s Former Director Rejoins Harada at His New SNK Fighting Game Studio
 Tue, 18 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/tekken-8s-former-director-rejoins-harada-at-his-new-snk-fighting-game-studio
 
@@ -154,31 +179,6 @@ A soulslike with shotguns. Mortal Shell 2 is an expanded soulslike sequel that p
 Tue, 18 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-ready-set-play-sale-north-americaeurope
 
 Recommended games going cheap. PS Store's latest sale has begun, and this time it's called Ready, Set, Play. The offer runs from now through to 26th August, 2026, and as always, it includes thousands of PS5 and PS4 games with reduced prices. Read the full article on pushsquare.com
-
-### 4 New PS Plus Extra, Premium Games Available to Download Now
-Tue, 18 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/08/4-new-ps-plus-extra-premium-games-available-to-download-now
-
-Full lineup outside of UK, USA, and Japan. A wave of new PS Plus Extra and PS Plus Premium titles is now live for subscribers, as detailed in last week's monthly update. The full lineup for August 2026 is available for most members now, but those in the UK, USA, and Japan only get access to four of the 10 today. Sony is continuing to split the lineup across multiple weeks in these three territories, so here's what's on offer today: Read the full article on pushsquare.com
-
-### Rumoured Phantom Blade Zero PS5 Demo Nowhere to Be Seen After State of Play Deep Dive
-Tue, 18 Aug 2026 03:00:00 GMT — https://www.pushsquare.com/news/2026/08/rumoured-phantom-blade-zero-ps5-demo-nowhere-to-be-seen-after-state-of-play-deep-dive
-
-Zero'd. The dedicated Phantom Blade Zero State of Play broadcast has come and gone, and there was no mention whatsoever of a playable demo hitting PS5. This is despite reports of the demo popping up on the PS Store last week. Many assumed that an official demo reveal and release was all but guaranteed for this showcase. Read the full article on pushsquare.com
-
-### Live: Watch the Phantom Blade Zero PS5 State of Play Right Here
-Tue, 18 Aug 2026 01:30:00 GMT — https://www.pushsquare.com/features/live-watch-the-phantom-blade-zero-ps5-state-of-play-right-here
-
-Fun time blades hero. It's time for a fresh look at the very promising action game Phantom Blade Zero in Sony's latest State of Play. Taking a deep dive into the gameplay of this stylish wuxia action title, we're in for about 20 minutes of brand new footage, and there could be some other news (like a demo ?) thrown in for good measure. The State of Play begins at 7 pm PDT / 10pm EDT / 3am BST / 4am CEST , and you can watch it below alongside our live chat. Read the full article on pushsquare.com
-
-### Guide: What Time Is the Phantom Blade Zero State of Play?
-Mon, 17 Aug 2026 21:30:00 GMT — https://www.pushsquare.com/guides/what-time-is-the-phantom-blade-zero-state-of-play
-
-Dates, times, and what to expect. Sony's latest State of Play is very nearly here, and this time, it's focusing wholly on a single game: Phantom Blade Zero . The Chinese action game has looked extremely promising for a long time now, and as it approaches its October launch date, developer S-GAME has prepared a new showing of its stylish action title. Read the full article on pushsquare.com
-
-### Sony s New It Happens on PS5 Ad Has Gone Down Exactly as You d Expect
-Mon, 17 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/sonys-new-it-happens-on-ps5-ad-has-gone-down-exactly-as-youd-expect
-
-"Discs used to happen on PS5". It's now been well over a month since Sony's shock announcement , in which it confirmed that it would no longer be manufacturing discs for PlayStation platforms starting from January 2028. The immediate backlash was strong to say the least, and although the outrage has certainly started to dissipate across the last few weeks, Sony's numerous social media accounts are still being bombarded with criticism, regardless of what the company's posting about. Read the full article on pushsquare.com
 
 ## Game Developer
 

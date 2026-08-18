@@ -1,11 +1,31 @@
-# Manga — harvested 2026-08-18T14:16:21.251Z
+# Manga — harvested 2026-08-18T17:02:57.267Z
 
 ## Anime News Network
+
+### Welcome to Demon School! Iruma-kun: IruMafia Edition Volumes 2-4 Manga Review
+Tue, 18 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun/irumafia-edition/volumes-2-4/.240402
+
+Original Azz would be horrified by his <i>Irumafia</i> character
+
+### Cells at Work! Gets Kabuki Stage Play in April 2027
+Tue, 18 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/cells-at-work-gets-kabuki-stage-play-in-april-2027/.240683
+
+Ainosuke Kataoka stars in "scramble kabuki" play in Tokyo
+
+### Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 4
+Tue, 18 Aug 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-4/.240677
+
+This feels like the kind of episode that would’ve altered a generation’s brain chemistry if it had come out 20 years sooner.
+
+### You and I Are Polar Opposites Season 2 ‒ Episode 7
+Tue, 18 Aug 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-7/.240672
+
+Watching Azuma spend half her screentime fretting over Taira being as aloof as always without fully comprehending why is some of the funniest material she's ever gotten.
 
 ### This Week in Anime - K-Drama Llama
 Tue, 18 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-08-18/.240676
 
-Are K-Dramas are just a bunch of attractive people putting themselves in situations?
+Are K-Dramas just a bunch of attractive people putting themselves in situations?
 
 ### Though I Am an Inept Villainess ‒ Episode 6
 Tue, 18 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-6/.240657
@@ -41,26 +61,6 @@ Gosho Aoyama jokingly asks interviewers if they would like to see it
 Mon, 17 Aug 2026 22:44:59 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/liar-game-anime-adds-4-cast-members/.240668
 
 Daisuke Namikawa, Yūya Uchida, Hiroko Ushida, Minoru Shiraishi join cast
-
-### Actress Hayden Panettiere Dies at 36
-Mon, 17 Aug 2026 16:00:36 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/actress-hayden-panettiere-dies-at-36/.240660
-
-<i>Heroes, Scream</i> cast member voiced Kairi, Xion in <cite>Kingdom Hearts</cite> games
-
-### Sparks of Tomorrow ‒ Episode 7
-Mon, 17 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-7/.240653
-
-<i>Sparks of Tomorrow</i> cannot make me care about its characters and their underexplored and less-than-enhanced struggles.
-
-### Daemons of the Shadow Realm ‒ Episode 19
-Mon, 17 Aug 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-19/.240638
-
-Despite their lives of being lied to, hunted, and coveted by those who want to use them for selfish ends, the sibling pair still retain a strict moral compass.
-
-### Kakao Entertainment to Merge 3 Story Content Subsidiaries
-Mon, 17 Aug 2026 14:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/kakao-entertainment-to-merge-3-story-content-subsidiaries/.240641
-
-All 3 companies are content providers specializing in webtoons, web novels
 
 ## Crunchyroll News
 
