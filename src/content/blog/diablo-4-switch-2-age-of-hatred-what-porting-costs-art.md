@@ -4,7 +4,6 @@ date: 2026-08-18
 category: Games
 excerpt: A leaked Age of Hatred Collection would put Diablo 4 and both its expansions on Switch 2 next month. Nobody has said how — and for a game built on dense particle storms and hundreds of monsters on screen, "how" is the whole job.
 cover: /img/blog/diablo-4-switch-2-age-of-hatred-what-porting-costs-art/shot-01.jpg
-draft: true
 ---
 
 [Eurogamer reported this week](https://www.eurogamer.net/diablo-4-switch-2-release-date-rumour-expansions)
