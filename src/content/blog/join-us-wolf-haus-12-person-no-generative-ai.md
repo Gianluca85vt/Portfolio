@@ -3,7 +3,7 @@ title: A 12-person studio is building a large-scale open world, and refusing gen
 date: 2026-08-18
 category: Games
 excerpt: Wolf Haus Games is shipping the open-world co-op cult sim Join Us with about a dozen people and no generative content tools. That's not a marketing line — it's a scoping constraint, and it says something about where the rest of the industry is quietly not going.
-cover: /img/blog/join-us-wolf-haus-12-person-no-generative-ai/cover.svg
+cover: /img/blog/join-us-wolf-haus-12-person-no-generative-ai/shot-01.jpg
 draft: true
 ---
 
@@ -20,6 +20,11 @@ an open-world game with systems ambitious enough that the press is calling it
 "large-scale," and they've committed to doing it without generative AI.
 
 ## Twelve people is not enough headcount for "large-scale," normally
+
+<figure>
+  <img src="/img/blog/join-us-wolf-haus-12-person-no-generative-ai/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Wolf Haus Games, via the official Steam page for Join Us</figcaption>
+</figure>
 
 I mean that literally, not as a knock on the team. A modern open-world
 project usually gets its scale from one of three places: a large in-house
