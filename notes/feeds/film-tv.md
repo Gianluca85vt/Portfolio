@@ -1,6 +1,11 @@
-# Film & TV — harvested 2026-08-18T05:07:16.852Z
+# Film & TV — harvested 2026-08-18T08:06:21.767Z
 
 ## Variety
+
+### Spider-Man: Brand New Day, The Odyssey Continue Tussle Atop U.K., Ireland Box Office
+Tue, 18 Aug 2026 06:54:02 +0000 — https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/
+
+Sony s superhero tentpole Spider-Man: Brand New Day dominated the U.K. and Ireland box office for a third consecutive weekend, adding £6.1 million ($8.3 million), elevating its running total to $106.5 million after 20 days of release. Universal s epic The Odyssey held onto second place in its fifth frame. Directed by Christopher Nolan, the wide release [ ]
 
 ### Rosie O’Donnell Shines in ‘Jimmy Kimmel Live’ Hosting Debut, Attacks ‘Mango Mussolini’ Trump and Gives Moving Hayden Panettiere Tribute
 Tue, 18 Aug 2026 04:25:27 +0000 — https://variety.com/2026/tv/news/rosie-o-donnell-hosts-jimmy-kimmel-live-slams-trump-1236836907/
@@ -47,17 +52,12 @@ Mon, 17 Aug 2026 22:07:49 +0000 — https://variety.com/2026/film/news/alexa-veg
 
 Alexa PenaVega s heart is heavy after the death of Hayden Panettiere, most notably because it marks the third passing of a fellow child star in 2026. The Spy Kids actor noted in a statement on social media that she rose to fame with and grew up alongside the likes of Panettiere, Michelle Trachtenberg and Daveigh [ ]
 
-### Donald Trump Attacks CNN s Kristen Holmes for Asking if He Spoke to North Korean Dictator: You re a Loud, Boisterous Person. Be Quiet!
-Mon, 17 Aug 2026 21:19:34 +0000 — https://variety.com/2026/tv/news/trump-attacks-cnn-kristen-holmes-north-korea-dictator-1236836707/
-
-President Donald Trump grew angry at CNN s Kristen Holmes during a press briefing at the White House Monday, after she asked whether he had spoken with North Korean dictator Kim Jong-un. “Quiet, Trump told Holmes, CNN s senior White House correspondent, after she queried the president about if Jong-un had asked Trump to curtail U.S. military [ ]
-
 ## The Hollywood Reporter
 
 ### Scream 4 Casting Director Recalls Hayden Panettiere s Fierce Warrior Nature Helping Her Land Role
 Tue, 18 Aug 2026 02:04:11 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-scream-4-casting-director-tribute-death-1236675810/
 
-"The world is losing a very talented actress and beautiful soul," Nancy Naylor tells The Hollywood Reporter of the actress who died Sunday at age 36.
+"The world is losing a very talented actress and beautiful soul," Nancy Nayor tells The Hollywood Reporter of the actress who died Sunday at age 36.
 
 ### Tupac Murder Trial Begins as Prosecution Calls Rapper s Death An Act of Revenge
 Tue, 18 Aug 2026 01:24:20 +0000 — https://www.hollywoodreporter.com/music/music-news/tupac-murder-trial-begins-opening-statements-1236675547/
@@ -106,15 +106,20 @@ Both actresses starred in the empowering 2005 Disney movie about figure skating.
 
 ## Deadline
 
+### Jon Ronson Culture Wars Series Things Fell Apart Returns For Third Season On BBC – This Time Exploring David Vs. Goliath Stories
+Tue, 18 Aug 2026 08:00:00 +0000 — https://deadline.com/2026/08/jon-ronson-things-fell-apart-returns-season-3-bbc-1237042799/
+
+EXCLUSIVE: Jon Ronson s audio series Things Fell Apart is returning for a third season next year. The new season, the show s first in three years, will follow the British-American gonzo journalist as he explores eight stories of outsiders fighting powerful institutions. Per the synopsis, it will include all too human stories about the moment one person decides [ ]
+
 ### Charles Esten Recounts Sweet First Encounter With Hayden Panettiere During Nashville Audition: What A Great Gift It Was To Act With You
 Tue, 18 Aug 2026 03:28:51 +0000 — https://deadline.com/2026/08/charles-esten-tribute-hayden-panettiere-nashville-dead-1237043868/
 
 Following Connie Britton s heartfelt tribute to Hayden Panettiere, who died Sunday at the age of 36, fellow Nashville alum Charles Esten also remembered his former co-star. Esten was a late cast addition to the Nashville pilot and the last series regular to be announced in March 2012 on the country music drama about fading Nashville [ ]
 
-### Shooting Foul? Buss Family Dispute Now Leaves Lakers Stake Sale To Bob Iger Josh Kushner In Purgatory, Maybe
+### Technical Foul: Buss Family Dispute Now Leaves Lakers Stake Sale To Bob Iger Josh Kushner In Purgatory
 Tue, 18 Aug 2026 01:15:00 +0000 — https://deadline.com/2026/08/lakers-iger-buss-family-stak-1237043368/
 
-UPDATE: So, maybe Bob Iger and Josh Kushner don t own 83% of the Los Angeles Lakers after all, or do they? It s crickets from the Thrive camp today as reps for Jeanie Buss contradict a earlier assertion from the offspring of Dr. Jerry Buss that it is time to use this opportunity to move on [ ]
+UPDATE: So, maybe Bob Iger and Josh Kushner don t own 83% of the Los Angeles Lakers after all, or do they? It s crickets from the Thrive camp today as reps for Jeanie Buss contradicted a earlier assertion from the remaining offspring of Dr. Jerry Buss that it is time to use this opportunity to move [ ]
 
 ### Spider-Man: Brand New Day Becomes Second-Fastest To Cross $2B WW Global Top 10 Box Office Update
 Tue, 18 Aug 2026 01:05:00 +0000 — https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-2-1237042050/
@@ -160,9 +165,4 @@ Disney sent out a list of 2028 theatrical release dates and then some, most of w
 Mon, 17 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/dan-harmon-rick-and-morty-emmy-interview-1237043095/
 
 There was “a great deal of turbulence,” Dan Harmon acknowledged, following co-creator and star Justin Roiland’s 2023 ouster from Adult Swim s Rick and Morty ahead of Season 7, amid domestic violence charges (which were ultimately dropped) and other allegations of misconduct. But it feels now, that the ship has been righted and the page has [ ]
-
-### New Yorker s Ariel Levy To Join ‘60 Minutes As A Contributor
-Mon, 17 Aug 2026 21:17:03 +0000 — https://deadline.com/2026/08/ariel-levy-60-minutes-contributor-1237043444/
-
-Ariel Levy, a staff writer at The New Yorker, is joining CBS News 60 Minutes as a contributor. Executive Producer Nick Bilton wrote: Ariel is an astonishingly original writer and reporter, fearlessly going to far-flung places and exploring sensitive topics that have driven consequential debates. For nearly three decades, first at New York magazine and then at The [ ]
 

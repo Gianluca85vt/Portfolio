@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-18T05:07:16.852Z
+# Games — harvested 2026-08-18T08:06:21.767Z
 
 ## Eurogamer
 
@@ -63,6 +63,11 @@ Mon, 17 Aug 2026 09:00:00 +0000 — https://www.eurogamer.net/fire-emblem-fortun
 Earlier this year, Pokopia convinced me that the Switch 2's gimmicky mouse controls were a worthwhile addition to the console, after all. Since then, I've been trying out other games with the mouse as my primary method of control. My favourites, before I picked up Fire Emblem: Fortune's Weave, were Nobunaga's Ambition: Awakening and Balatro. There's just something more satisfying about clicking to select units, or dragging and dropping cards, than there is using the D-pad. Read more
 
 ## GamesIndustry.biz
+
+### GYLD closes oversubscribed $1m seed round to fund proprietary games research system
+Tue, 18 Aug 2026 07:00:00 +0000 — https://www.gamesindustry.biz/gyld-closes-oversubscribed-1m-seed-round-to-fund-proprietary-games-research-system
+
+Games publishing and investment agency GYLD has closed an oversubscribed $1 million seed round to support its proprietary games research system, Critical Compass. Read more
 
 ### The Hollywood disruptors making a large-scale game with a 12-person team – and no generative AI
 Mon, 17 Aug 2026 17:43:23 +0000 — https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai
@@ -151,6 +156,11 @@ Mon, 17 Aug 2026 05:00:00 GMT — https://www.pushsquare.com/guides/these-25plus
 The Sinking City 2! Starsand Island! Mortal Shell 2! Much more! I'm afraid to say we're now deep into the heavy release season, folks. That means there are loads of new PS5 games coming out this time, including The Sinking City 2 , Mortal Shell 2 , Starsand Island , and one I'm personally looking forward to: No Case Should Remain Unsolved . Read the full article on pushsquare.com
 
 ## Game Developer
+
+### WINGS really, really wants to fund your neat indie video game
+Tue, 18 Aug 2026 08:00:49 GMT — https://www.gamedeveloper.com/business/wings-really-really-wants-to-fund-your-neat-indie-video-game
+
+The indie investor, which is committed to empowering women and gender-marginalized devs, is introducing new funding pathways for PC projects of all shapes and sizes.
 
 ### How Forbidden Solitaire brought solitaire games to the forefront
 Mon, 17 Aug 2026 14:51:26 GMT — https://www.gamedeveloper.com/design/how-forbidden-solitaire-brought-solitaire-games-to-the-forefront
