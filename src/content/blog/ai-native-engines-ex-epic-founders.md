@@ -4,7 +4,6 @@ date: 2026-08-18
 category: Games
 excerpt: Three separate teams of ex-Epic people are independently building AI-first alternatives to Unreal, all pitching the same promise — small teams doing the output of ten or fifteen. As a technical artist, that promise is exactly the part I'd want to interrogate first.
 cover: /img/blog/ai-native-engines-ex-epic-founders/cover.svg
-draft: true
 ---
 
 GamesIndustry.biz reported this week that **three more Epic veterans are building
