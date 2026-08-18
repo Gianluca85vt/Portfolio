@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-17T17:01:37.480Z
+# Film & TV — harvested 2026-08-18T05:07:16.852Z
 
 ## Variety
 
-### The Best Home Theater Furniture and Seating to Shop in 2026
-Mon, 17 Aug 2026 17:00:52 +0000 — https://variety.com/2026/shopping/news/home-theater-furniture-seating-buy-shop-online-1236833951/
+### Rosie O’Donnell Shines in ‘Jimmy Kimmel Live’ Hosting Debut, Attacks ‘Mango Mussolini’ Trump and Gives Moving Hayden Panettiere Tribute
+Tue, 18 Aug 2026 04:25:27 +0000 — https://variety.com/2026/tv/news/rosie-o-donnell-hosts-jimmy-kimmel-live-slams-trump-1236836907/
 
-When you think of setting up a home theater, certain pieces come to mind: The 4K TV, your speakers, a high-end 4K Blu-ray player and a turntable for when you want to give your eyes a break and listen to music. But about your couch? Or the media console your TV, game consoles and other [ ]
+When Jimmy Kimmel announced that Rosie O’Donnell would be filling in as a week-long guest host of “Jimmy Kimmel Live” during his summer vacation, he teased it would be “a special treat” for Donald Trump, who’s harbored a 20-year-long vendetta against the comic for her mocking his bankruptcies on “The View” back in 2006. O’Donnell [ ]
 
-### ABC Unveils New Twist for Live-Streamed News: Shows That Respond to Viewer Queries, Needs
-Mon, 17 Aug 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/abc-news-twist-live-stream-tv-news-gio-benitez-1236836209/
+### Vin Diesel Says Fast Forever Starts Shooting in December
+Tue, 18 Aug 2026 04:20:59 +0000 — https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/
 
-On a new show from ABC News, anchors Gio Benitez and Ashan Singh help viewers fill rabbit holes before getting stuck in them. During a recent live-stream of “Searched, “a relatively new entry to the schedule of ABC News Live, Benitez, clad in bright white sneakers and a short sleeve shirt, offered followers different angles [ ]
+Vin Diesel says filming for “Fast Forever” has a start date. “We start shooting in December, if I can make good on the request from the studio,” Diesel told Variety Monday night at the 25th anniversary screening of “The Fast and the Furious.” “I’m in a good place, though. I had to go through four [ ]
 
-### SNL Star James Austin Johnson Sets Debut Stand-Up Comedy Special (EXCLUSIVE)
-Mon, 17 Aug 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/james-austin-johnson-stand-up-comedy-special-1236836374/
+### Michelle Rodriguez Remembers Hayden Panettiere After Co-Hosting World Music Awards: Can t Stand How Many Young People Are Leaving Us Lately
+Tue, 18 Aug 2026 03:35:12 +0000 — https://variety.com/2026/film/news/michelle-rodriguez-hayden-panettiere-world-music-awards-1236836885/
 
-James Austin Johnson is going from Studio 8H to the stand-up stage. The Saturday Night Live star, who is best known for portraying Donald Trump on the sketch comedy series, will release his debut comedy special He ll Yeah on Aug. 31. The hour will debut exclusively on Gorilla Comedy+, the recently launched streamer from 800 [ ]
+Michelle Rodriguez is sharing her memories of Hayden Panettiere after the “Scream 4” star died at age 36 on Sunday. Rodriguez and Panettiere co-hosted the World Music Awards back in 2010. When asked what she remembers about Panettiere while walking the carpet at the 25th anniversary screening of “The Fast and the Furious,” Rodriguez told [ ]
 
-### Disneyland Paris to Welcome The Lion King Animatronics, Re-Themed Space Mountain and New Parade
-Mon, 17 Aug 2026 16:04:26 +0000 — https://variety.com/2026/biz/global/disneyland-paris-lion-king-space-mountain-1236836311/
+### Jeanie Buss Seeks to Contest Sale of Los Angeles Lakers to Bob Iger and Josh Kushner: Report
+Tue, 18 Aug 2026 03:22:15 +0000 — https://variety.com/2026/tv/news/jeanie-buss-lakers-sale-bob-iger-josh-kushner-1236836879/
 
-Disneyland Paris may have just launched a new World of Frozen land earlier this year but it’s already looking towards its next land, which is set to be inspired by “The Lion King.” Imagineers offered fans a sneak peek of the attraction at the D23 expo in Anaheim over the weekend, including a look at [ ]
+Jeanie Buss, the Los Angeles Lakers owner who has been the face of the team since the death of her father Jerry Buss in 2013, is reportedly contesting the plan approved by her siblings to sell the family s remaining 18% stake in the storied NBA franchise to investors Bob Iger and Josh Kushner. ESPN and [ ]
 
-### Final Emmy Voting Opens: 25 Records That Could Be Broken, From Jean Smart and Allison Janney s All-Time Tie to Harrison Ford s First Trophy at 84
-Mon, 17 Aug 2026 16:00:00 +0000 — https://variety.com/lists/emmys-voting-records-zendaya-allison-janney-harrison-ford/
+### David F. Sandberg to Direct Horror Movie Mommy s Home For Lionsgate
+Tue, 18 Aug 2026 00:54:54 +0000 — https://variety.com/2026/film/news/david-f-sandberg-direct-mommys-home-lionsgate-1236836858/
 
-Final Emmy voting is now open. More than 20,000 Television Academy members have the final ballots in hand for the 78th Emmy Awards, with voting remaining open through Wednesday, Aug. 26, at 10 p.m. PT. When the envelopes begin opening — first during the two-night artisans ceremony, formerly known as the Creative Arts Emmys, on [ ]
+David F. Sandberg has been tapped to direct a new psychological horror movie, Mommy s Home, for Lionsgate. From screenwriter James Morosini, Mommy s Home follows a young dad whose family life becomes terrifyingly unhinged when his cryogenically preserved mom is unfrozen and sent to live with him, according to an official logline. Sandberg is probably best [ ]
 
-### It: Welcome to Derry Renewed for Season 2 at HBO
-Mon, 17 Aug 2026 16:00:00 +0000 — https://variety.com/2026/tv/news/it-welcome-to-derry-renewed-season-2-hbo-1236836194/
+### LISTEN: How Chris Carter Got a Second Shot at The X-Files: I Want to Believe Film
+Tue, 18 Aug 2026 00:39:32 +0000 — https://variety.com/2026/tv/news/chris-carter-x-files-i-want-to-believe-directors-cut-1236836849/
 
-It: Welcome to Derry has been renewed for Season 2 at HBO. The show originally premiered on HBO Max on Oct. 26, 2025. It is based on Stephen King s It novel and builds on the two-part It film reboot from 2017 and 2019. The show serves as a prequel to the films. The first season [ ]
+On today s episode of Daily Variety podcast, The X-Files creator Chris Carter explains to Variety’s Michael Schneider how he got the chance to do a director’s cut of his 2008 “The X-Files: I Want to Believe” feature film. The new cut dubbed The X-Files: I Want to Believe: Vrach Frankenshteyn debuted Aug. 14 on Hulu [ ]
 
-### Webtoon Entertainment Dives into Vertical Shorts, Setting Love Bites and Maybe Meant to Be as Microdramas
-Mon, 17 Aug 2026 16:00:00 +0000 — https://variety.com/2026/tv/news/webtoon-entertainment-microdramas-love-bites-short-dramas-1236836293/
+### Furious Star Steve Way on the Beauty of Disabled Love and the Difficulty of Navigating Hollywood Without a Team: I Want an Agency to Whore Me Out
+Tue, 18 Aug 2026 00:09:52 +0000 — https://variety.com/2026/tv/news/furious-steve-way-disability-hollywood-serial-killer-romance-1236836217/
 
-Webtoon Entertainment is embracing the vertical media boom with its initiative to craft microdramas out of some of its most popular properties including romantic dramas Love Bites and Maybe Meant to Be. The move demonstrates the fast-growing appeal of short-form vertical video, even for a company that is also on the cutting edge of the [ ]
+It’s uncommon to meet an actor bold enough to call Ari Emanuel, the executive chairman of WME Group and one of the most powerful people in Hollywood, a “prick” on the record. But it’s also uncommon to interview an actor as unfiltered as Steve Way. “I want an agency to whore me out,” he says. [ ]
 
-### American Independent Film Production Is Dying. Jeff Nichols Wants to Save It.
-Mon, 17 Aug 2026 15:00:00 +0000 — https://variety.com/2026/film/features/jeff-nichols-indie-film-margaret-qualley-drew-starkey-rumors-1236835974/
+### Friday the 13th Prequel Series Crystal Lake Is Gory and Gross With Blood Everywhere, Says Star Linda Cardellini
+Mon, 17 Aug 2026 23:13:25 +0000 — https://variety.com/2026/tv/columns/crystal-lake-linda-cardellini-friday-the-13th-prequel-series-gory-gross-blood-1236836771/
 
-Jeff Nichols is not only one of cinema’s foremost chroniclers of the American South, but is doing his damnedest to revitalize the film scene in his hometown of Little Rock, Arkansas. When he brought his acclaimed film “Loving” — about the landmark Loving v. Virginia case that legalized interracial marriage nationwide — to Little Rock [ ]
+“Crystal Lake” star Linda Cardellini is teasing the upcoming “Friday the 13th” prequel television series. Cardellini stars in the Peacock series as the franchise antagonist Pamela Voorhees. The show, premiering Oct. 15 on the streamer, follows Voorhees’ life prior to the events of the first “Friday the 13th” film. It also stars William Catlett as [ ]
 
-### Jonas Brothers Announce 45-City ‘Burning Up’ North American Tour Dates
-Mon, 17 Aug 2026 14:52:04 +0000 — https://variety.com/2026/music/news/jonas-brothers-2026-burning-up-north-american-tour-dates-1236836312/
+### Spy Kids Actor Alexa PenaVega Shares Heartbreak After Deaths of Fellow Child Stars Hayden Panettiere, Michelle Trachtenberg and Daveigh Chase: Hug Your People Close Today
+Mon, 17 Aug 2026 22:07:49 +0000 — https://variety.com/2026/film/news/alexa-vega-child-actor-deaths-hayden-panettiere-trachtenberg-1236836669/
 
-The Jonas Brothers, who have been road warriors in recent years, have announced a massive 45-city North American tour that continues their “Burning Up Tour All Over Again.” Magnus Ferrell, Franklin Jonas, and All Time Low will be special guests on select dates. Promoted by Live Nation, the tour kicks off on Friday, September 25 [ ]
+Alexa PenaVega s heart is heavy after the death of Hayden Panettiere, most notably because it marks the third passing of a fellow child star in 2026. The Spy Kids actor noted in a statement on social media that she rose to fame with and grew up alongside the likes of Panettiere, Michelle Trachtenberg and Daveigh [ ]
 
-### Amy Schumer to Star in and Produce Break-Up Comedy Best Divorce Ever (EXCLUSIVE)
-Mon, 17 Aug 2026 14:30:00 +0000 — https://variety.com/2026/film/global/amy-schumer-star-in-produce-comedy-best-divorce-ever-1236836178/
+### Donald Trump Attacks CNN s Kristen Holmes for Asking if He Spoke to North Korean Dictator: You re a Loud, Boisterous Person. Be Quiet!
+Mon, 17 Aug 2026 21:19:34 +0000 — https://variety.com/2026/tv/news/trump-attacks-cnn-kristen-holmes-north-korea-dictator-1236836707/
 
-Amy Schumer is getting her teeth into another comedy, with the Emmy winner set to star in and produce Best Divorce Ever. The film comes from writer-director Sean Mullin ( Bob Trevino Likes It, Amira Sam ), with Concourse Media launching worldwide sales in Toronto next month. Schumer will produce alongside Matthew Lee Miller and Natalie [ ]
+President Donald Trump grew angry at CNN s Kristen Holmes during a press briefing at the White House Monday, after she asked whether he had spoken with North Korean dictator Kim Jong-un. “Quiet, Trump told Holmes, CNN s senior White House correspondent, after she queried the president about if Jong-un had asked Trump to curtail U.S. military [ ]
 
 ## The Hollywood Reporter
 
-### Katie Martin Kelley Moving From Warner Bros. to Netflix as VP Communications, Film
-Mon, 17 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/katie-martin-kelley-moves-from-warner-bros-to-netflix-1236675138/
+### Scream 4 Casting Director Recalls Hayden Panettiere s Fierce Warrior Nature Helping Her Land Role
+Tue, 18 Aug 2026 02:04:11 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-scream-4-casting-director-tribute-death-1236675810/
 
-She will oversee comms for Netflix film boss Dan Lin.
+"The world is losing a very talented actress and beautiful soul," Nancy Naylor tells The Hollywood Reporter of the actress who died Sunday at age 36.
 
-### Miami Vice 85 : Whitney Peak Joins Michael B. Jordan in Joseph Kosinski s Crime Thriller
-Mon, 17 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/miami-vice-85-whitney-peak-joins-michael-b-jordan-1236675149/
+### Tupac Murder Trial Begins as Prosecution Calls Rapper s Death An Act of Revenge
+Tue, 18 Aug 2026 01:24:20 +0000 — https://www.hollywoodreporter.com/music/music-news/tupac-murder-trial-begins-opening-statements-1236675547/
 
-Austin Butler is also starring in the adaptation of the stylish 1980s TV series.
+Thirty years after Shakur's death, Duane "Keffe D" Davis is on trial in Las Vegas on claims he orchestrated his murder.
 
-### Hayden Panettiere Recently Spoke About Child-Star Pressure, Struggles With Postpartum Depression and Addiction
-Mon, 17 Aug 2026 16:58:09 +0000 — https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-death-book-interviews-traumatic-past-1236675101/
+### Hayden Panettiere s Talent Never Got the Next Chapter It Deserved
+Tue, 18 Aug 2026 01:20:09 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/hayden-panettiere-critic-appreciation-heroes-nashville-1236675569/
 
-The 'Heroes' and 'Nashville' star, who died unexpectedly Sunday at the age of 36, had previously also opened up about the death of her brother in 2023 and her heartbreak over losing custody of her daughter, Kaya, who is being raised in the Ukraine.
+'Heroes' and 'Nashville' let the actress evolve from precocity to maturity, but her personal struggles left that journey incomplete.
 
-### Workplace Comedies Are Having a Major Emmy Moment
-Mon, 17 Aug 2026 16:50:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/emmys-2026-workplace-comedies-1236675057/
+### Lisa Kudrow on Watching Friends After Matthew Perry s Death, Romy Michele Sequel and Why The Comeback May Be Highlight of Her Career
+Tue, 18 Aug 2026 01:10:11 +0000 — https://www.hollywoodreporter.com/tv/tv-news/lisa-kudrow-friends-romy-michele-sequel-the-comeback-interview-1236675072/
 
-As ‘Abbott Elementary,’ ‘The Comeback’ and ‘Jury Duty Presents: Company Retreat’ land among this year’s comedy writing nominees, their creators explain how they make office stories feel fresh, funny and painfully real.
+Twenty-eight years after becoming the first 'Friends' star to win an Emmy, the beloved actress/writer is poised to take home another one — or two — having been nominated for acting and writing on the third and final season of her HBO comedy series.
 
-### Heated Rivalry Producers Drop Hints on Season 2: This Show Is Not Built on Secrets”
-Mon, 17 Aug 2026 16:29:57 +0000 — https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-producers-season-2-1236675040/
+### Witney Carson Answers Burning DWTS Questions After Pregnancy Announcement, Chats Next Pro
+Tue, 18 Aug 2026 01:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/witney-carson-dwts-pregnancy-next-pro-interview-1236674489/
 
-Jacob Tierney and Brendan Brady say the queer hockey drama's second season will prioritize feeling over plot twists — and that fans already have most of the answers.
+The pro dancer revealed on Monday morning that she is pregnant and returning for season 35. In conversation with THR, she details her plans for navigating her pregnancy while competing and why she surprisingly loved guest judging on the dancing spinoff.
 
-### Lisa Barlow Reveals New Song “Echoes of You, Follow-Up to First Single “Baby Gorgeous”: “I m in My Pop Star Era, and I Love It” (Exclusive)
-Mon, 17 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/music/music-features/lisa-barlow-new-song-echoes-of-you-rhoslc-season-7-music-1236673995/
+### Details of Amazon’s ‘Melania’ Followup Begin to Emerge
+Tue, 18 Aug 2026 00:55:01 +0000 — https://www.hollywoodreporter.com/tv/tv-news/amazon-melania-followup-1236675598/
 
-‘The Real Housewives of Salt Lake City’ star tells THR she’s dropping her next single in September, and teases what’s to come from season seven of the Bravo hit: “It's one of our best seasons ever.”
+The director of the original film, Brett Ratner, said that two new docuseries “chapters” are forthcoming to the platform.
 
-### IT: Welcome to Derry Finally Renewed for Season 2, and It s Going Back to 1935
-Mon, 17 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/it-welcome-to-derry-season-2-1236675073/
+### The Drop Trailer Sees Snowfall Characters Go After New Gold Rush of West Coast Rap
+Tue, 18 Aug 2026 00:14:54 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-drop-snowfall-spinoff-trailer-wanda-leon-west-coast-rap-1236675808/
 
-HBO's horror anthology series inspired by Stephen King's iconic novel also has a bit of a showrunner shakeup behind the scenes.
+'Snowfall' alums Wanda (Gail Bean) and Leon (Isaiah John) try to reinvent themselves in '90s Los Angeles in the new FX series, set to premiere on Sept. 8 on FX and Hulu.
 
-### Eugene Levy on Becoming a Slightly Less ‘Reluctant Traveler’ in the Third Season of His Emmy-Nominated Show
-Mon, 17 Aug 2026 15:03:48 +0000 — https://www.hollywoodreporter.com/tv/tv-features/eugene-levy-season-three-reluctant-traveler-1236675056/
+### Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic
+Mon, 17 Aug 2026 23:46:30 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/round-hill-files-lawsuits-against-suno-anthropic-1236675713/
 
-The actor and director David Brindley are pushing the comedian’s comfort zone on their Apple TV series.
+"There is simply nothing fair about a company using theft to build for purely commercial purposes a multi-billion dollar business while those from which they steal receive nothing," Round Hill said.
 
-### Disney Fans Can Now Shop D23 Event Collection Online in Limited Quantities
-Mon, 17 Aug 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/d23-event-2026-product-collection-disney-store-release-date-1236674174/
+### Inside Netflix s Field of Dreams Face-Off in Iowa: A Magical Moment
+Mon, 17 Aug 2026 23:40:39 +0000 — https://www.hollywoodreporter.com/tv/tv-features/field-of-dreams-game-2026-iowa-score-netflix-where-to-watch-1236674694/
 
-The online marketplace features standout collectibles from the D23 2026 show floor, including milestone anniversary launches, signed books and notable brand collabs that were otherwise only available at this year's fan event.
+Movie nostalgia mixed with Major League Baseball in a major way last Thursday night in an Iowa cornfield: "It was really cool to be able to come back here and live out my dream."
 
-### Sean Penn to Exec Produce James Marcus Haney s Black Sunflowers Ukraine War Doc (Exclusive First Look)
-Mon, 17 Aug 2026 14:41:39 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toronto-black-sunflowers-first-look-1236674987/
+### Hayden Panettiere and Michelle Trachtenberg s Deaths Have Fans Reminiscing About Ice Princess
+Mon, 17 Aug 2026 22:58:43 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-death-fans-reminiscing-ice-princess-1236675628/
 
-The ‘No Cameras Allowed’ filmmaker in his latest documentary captures a generation caught between youth and duty, life and death, during their country's unending war with Russia.
+Both actresses starred in the empowering 2005 Disney movie about figure skating.
 
 ## Deadline
 
-### Warner Bros EVP Communications Katie Martin Kelley Jumps To Netflix
-Mon, 17 Aug 2026 17:00:09 +0000 — https://deadline.com/2026/08/katie-martin-kelley-exits-warner-bros-netflix-1237043012/
+### Charles Esten Recounts Sweet First Encounter With Hayden Panettiere During Nashville Audition: What A Great Gift It Was To Act With You
+Tue, 18 Aug 2026 03:28:51 +0000 — https://deadline.com/2026/08/charles-esten-tribute-hayden-panettiere-nashville-dead-1237043868/
 
-There s a big rumble in the film comms sphere and that s Warner Bros EVP of Communications Katie Martin Kelley, who was Motion Picture Chairs Michael De Luca and Pam Abdy s right hand, is heading to Netflix as VP Communications where she ll oversee Dan Lin s feature film portfolio. Martin Kelley starts on Sept. 8 and will [ ]
+Following Connie Britton s heartfelt tribute to Hayden Panettiere, who died Sunday at the age of 36, fellow Nashville alum Charles Esten also remembered his former co-star. Esten was a late cast addition to the Nashville pilot and the last series regular to be announced in March 2012 on the country music drama about fading Nashville [ ]
 
-### Dan Ahdoot Releasing New Stand-Up Special Yes, I Am Falafel Phil With Comedy Dynamics
-Mon, 17 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/dan-ahdoot-special-release-date-yes-i-am-falafel-phil-1237040831/
+### Shooting Foul? Buss Family Dispute Now Leaves Lakers Stake Sale To Bob Iger Josh Kushner In Purgatory, Maybe
+Tue, 18 Aug 2026 01:15:00 +0000 — https://deadline.com/2026/08/lakers-iger-buss-family-stak-1237043368/
 
-Comedy Dynamics is set to release Yes, I Am Falafel Phil, a new comedy special from Dan Ahdoot, across Prime Video, Apple TV and other platforms on Tuesday, Aug. 18. In the special, Ahdoot takes on post-breakup fitness, foodie culture, dating, family and the absurdity of becoming a minor celebrity to children. As he chases adulthood [ ]
+UPDATE: So, maybe Bob Iger and Josh Kushner don t own 83% of the Los Angeles Lakers after all, or do they? It s crickets from the Thrive camp today as reps for Jeanie Buss contradict a earlier assertion from the offspring of Dr. Jerry Buss that it is time to use this opportunity to move on [ ]
 
-### Miami Vice 85 : Whitney Peak Joins Michael B. Jordan And Austin Butler In Universal s Latest Take On Classic Series
-Mon, 17 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/miami-vice-85-whitney-peak-michael-b-jordan-austin-butler-1237042344/
+### Spider-Man: Brand New Day Becomes Second-Fastest To Cross $2B WW Global Top 10 Box Office Update
+Tue, 18 Aug 2026 01:05:00 +0000 — https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-2-1237042050/
 
-Joseph Kosinski s new take on the classic 80s TV series Miami Vice is adding on to its already stacked cast as sources tell Deadline Whitney Peak is set to join Universal s Miami Vice 85. Alden Ehrenreich recently was added to the cast. Kosinski will direct with a script by Dan Gilroy. The film explores the [ ]
+Monday Update: Holy cow! Or whatever kind of Holy is yelled out in a comic book, but Sony/Marvel Studio s Spider-Man: Brand New Day crossed the $2 billion global mark, becoming the second-fastest movie to do so and the eighth movie to ever cross that benchmark. Brand New Day pulls off this feat in 17 days [ ]
 
-### Creator Management Firm CMG Talent Unveils Raft Of Hires
-Mon, 17 Aug 2026 16:47:24 +0000 — https://deadline.com/2026/08/cmg-talent-hires-1237042930/
+### Before She Hosts Primetime Emmy Awards, Mariska Hargitay Goes For Gold With Triple Nominee ‘My Mom Jayne’
+Tue, 18 Aug 2026 00:05:40 +0000 — https://deadline.com/2026/08/mariska-hargitay-interview-my-mom-jayne-1237043627/
 
-EXCLUSIVE: Creator management biz CMG Talent has unveiled ten hires, including new talent managers. Kelsey Brown and Paige Biundo been named Senior Talent Manager, with Sandra Ortiz, Ryan Rodriguez and Katie McElveen coming onboard as Talent Managers, and Gabriela Kukura, Reese Amador, Ally Philips, and Juanita Cortés hired at coordinator level. Taylor Kiesel has also joined [ ]
+As Mariska Hargitay reflects on the past year in her life – a momentous one for the actress and filmmaker – a word comes to her mind to describe it: “cathartic.” She completed her 27th season starring as Capt. Olivia Benson on Law Order: SVU and in May made her Broadway debut in the [ ]
 
-### The Drop: A Snowfall Saga Trailer Reveals Wanda Leon Taking On The Music Industry
-Mon, 17 Aug 2026 16:36:29 +0000 — https://deadline.com/2026/08/fx-the-drop-a-snowfall-saga-trailer-1237043010/
+### Kevin Macdonald On Capturing Pep Guardiola For Prime Video s A Beautiful Obsession : Like Having Robert De Niro Play A Football Coach
+Mon, 17 Aug 2026 23:01:00 +0000 — https://deadline.com/2026/08/kevin-macdonald-pep-guardiola-man-city-beautiful-obsession-1237014372/
 
-Wanda (Gail Bean) and Leon (Isaiah John) are back to the hustle in the first trailer (above) for FX s The Drop: A Snowfall Saga, and they have their sights on the music industry this time around. The series follows the duo as they fight to reinvent themselves in ’90s Los Angeles, where the fallout from the [ ]
+Pep playing himself is a bit like having Robert De Niro play a football coach. Those are the musings of Oscar-winning director Kevin Macdonald, who has just spent two years charting the exploits of Pep Guardiola and Manchester City for A Beautiful Obsession and yet had barely heard of Guardiola before he was brought on [ ]
 
-### ‘Private Eyes West Coast’ ‘Law Order Toronto: Criminal Intent’ Premiere Dates Set At The CW
-Mon, 17 Aug 2026 16:14:09 +0000 — https://deadline.com/2026/08/private-eyes-west-coast-law-order-toronto-premiere-dates-1237042990/
+### Everything We Know About The Morning Show Season 5 So Far
+Mon, 17 Aug 2026 22:22:28 +0000 — https://deadline.com/feature/the-morning-show-season-5-news-updates-what-to-expect-1236760731/
 
-The CW has padded out its fall schedule with premiere dates for a pair of spinoff series. The series bow of crime-solving dramedy Private Eyes West Coast is set for 8 p.m. Monday, October 5, followed by the Season 2 debut of Canadian procedural Law Order Toronto: Criminal Intent at 9. Jason Priestley and [ ]
+Season 5 of Apple TV’s The Morning Show has begun adding new faces to its already stacked cast. Season 4 left off with a major character and actress making their departures about midway through. Already, three names have been added to the mix of the news network world and beyond. For everything we know about [ ]
 
-### Ariana Madix Makes Broadway Return With Just In Time Musical As Connie Francis
-Mon, 17 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/ariana-madix-broadway-just-in-time-musical-connie-francis-1237042767/
+### Everything We Know About The Gilded Age Season 4 So Far
+Mon, 17 Aug 2026 22:19:33 +0000 — https://deadline.com/feature/the-gilded-age-season-4-news-updates-everything-we-know-1236748421/
 
-Ariana Madix is returning to Broadway for a limited engagement in the musical Just In Time, producers Tom Kirdahy, Robert Ahrens and John Frost confirmed. The Emmy-nominated Love Island USA host will star as Connie Francis beginning Saturday, September 12, and play her final performance on Sunday, November 22. It s a pinch-me moment to be [ ]
+The culture clash will continue in Season 4 of Julian Fellowes HBO period drama The Gilded Age, based on the turn-of-the-century time period in America that lasted between 1870 and 1900. Some familiar faces have been promoted to series regulars since Season 3, and some new faces are joining the cast to play big-name historical [ ]
 
-### It: Welcome To Derry Renewed For Season 2 By HBO; Brad Caleb Kane Now Sole Showrunner
-Mon, 17 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/it-welcome-to-derry-renewed-season-2-hbo-1237042942/
+### All Her Fault Creator On Challenging How Society Views Women Mothers In Thriller Series
+Mon, 17 Aug 2026 22:15:00 +0000 — https://deadline.com/2026/08/all-her-fault-creator-megan-gallagher-interview-1237043228/
 
-The dancing clown is back: HBO on Monday announced a Season 2 renewal for It: Welcome to Derry, its Stephen King prequel series from Warner Bros. Television and EPs Andy and Barbara Muschietti. We re told the move had been expected for some time; HBO was simply waiting on the creative take for the new season. While [ ]
+Of all the feedback she s received on All Her Fault, there is one comment that sticks with creator and showrunner Megan Gallagher: Those are two of the worst husbands I ve ever seen on television, and neither one of them were having an affair. It certainly would ve been easy (and predictable) to fuel audiences distaste for [ ]
 
-### Kōji Fukada s Cannes Competition Title Nagi Notes Scores North American Deal With Greenwich Entertainment
-Mon, 17 Aug 2026 15:40:00 +0000 — https://deadline.com/2026/08/koji-fukada-cannes-film-nagi-notes-us-deal-greenwich-1237042920/
+### Abby Phillip Signs New Deal To Remain At CNN
+Mon, 17 Aug 2026 22:05:22 +0000 — https://deadline.com/2026/08/abby-phillip-cnn-contract-1237043487/
 
-EXCLUSIVE: Greenwich Entertainment has acquired the North American distribution rights to the Japanese drama Nagi Notes, written and directed by Kōji Fukada (Harmonium). The film had its world premiere in Competition at the 2026 Cannes Film Festival, Fukado’s first time in Competition. Greenwich will release in the U.S. and Canada in early 2027. The deal [ ]
+Abby Phillip has signed a new deal at CNN, where she has hosted the nightly show CNN Newsnight. A network spokesperson declined to comment on talent contracts. According to a source, Phillip recently renewed her deal to remain at the network, which she joined in 2017. CNN NewsNight s roundtables frequently land clips on social media, [ ]
 
-### Lena Dunham Carly Rae Jepsen s ‘10 Things I Hate About You Heading To Broadway In 2027
-Mon, 17 Aug 2026 14:54:10 +0000 — https://deadline.com/2026/08/10-things-i-hate-about-you-broadway-lena-dunham-musical-1237042879/
+### Disney Sets Ryan Gosling Ghost Rider For Summer 2028, Other Tentpole Release Dates Out Of D23
+Mon, 17 Aug 2026 21:32:56 +0000 — https://deadline.com/2026/08/ghost-rider-2028-disney-release-dates-1237043467/
 
-A musical adaptation of 10 Things I Hate About You, based on the 1999 Touchstone Pictures film written by Karen McCullah and Kirsten Kiwi Smith, is heading to Broadway next year. The production features a book by Lena Dunham and playwright Jessica Huang, with music and lyrics by Carly Rae Jepsen and Ethan Gruska. Christopher Wheeldon (An American [ ]
+Disney sent out a list of 2028 theatrical release dates and then some, most of which we told you about both separately on D23 s big Friday night and in our outlook from the studio s big film lineup. Prominently, while we knew Ghost Rider was opening in 2028, Disney has officially made it known that the [ ]
 
-### Supreme Court Declines Donald Trump s Request For Rehearing Of E. Jean Carroll Defamation Case
-Mon, 17 Aug 2026 14:29:58 +0000 — https://deadline.com/2026/08/trump-e-jean-carroll-supreme-court-1237042886/
+### Dan Harmon Talks Overhauling ‘Rick And Morty’ Workplace, Fears Hopes For Future Of Adult Animation Contenders TV Nominees Studio
+Mon, 17 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/dan-harmon-rick-and-morty-emmy-interview-1237043095/
 
-Donald Trump appears to have reached the end of the line when it comes to challenging a $5 million jury verdict in favor of writer E. Jean Carroll. Carroll claimed that Trump sexually abused her at a Manhattan department store in 1996, and later defamed her. Trump has denied the allegations. The Supreme Court on [ ]
+There was “a great deal of turbulence,” Dan Harmon acknowledged, following co-creator and star Justin Roiland’s 2023 ouster from Adult Swim s Rick and Morty ahead of Season 7, amid domestic violence charges (which were ultimately dropped) and other allegations of misconduct. But it feels now, that the ship has been righted and the page has [ ]
 
-### Frances Fisher, Ava Phillippe, Jessica Belkin Katie Cassidy Cast In Addiction Drama The Call ; Nancy Davis EPs
-Mon, 17 Aug 2026 14:24:53 +0000 — https://deadline.com/2026/08/ava-phillippe-jessica-belkin-katie-cassidy-the-call-film-1237042836/
+### New Yorker s Ariel Levy To Join ‘60 Minutes As A Contributor
+Mon, 17 Aug 2026 21:17:03 +0000 — https://deadline.com/2026/08/ariel-levy-60-minutes-contributor-1237043444/
 
-EXCLUSIVE: Frances Fisher (Titanic), Ava Phillippe (Ransom Canyon), Jessica Belkin (Elle), Kai Caster (Yellowstone), Jasper Polish (Animal Kingdom), and Cara Santana (The Neighborhood) have been cast to star in short film The Call, which is slated to start shooting today in Los Angeles. Supporting cast includes Lisa Vidal, Crayton Carozza, Kevin Kreider, and Arrow star Katie Cassidy (Arrow). Directing is Paris Dylan (Bling Empire) with co-director Skye Peters (Three Deaths). Producing are Wild7Films (The Apprentice) led by Kyle Stefanski and Tony Lugo, in collaboration with philanthropist Nancy [ ]
+Ariel Levy, a staff writer at The New Yorker, is joining CBS News 60 Minutes as a contributor. Executive Producer Nick Bilton wrote: Ariel is an astonishingly original writer and reporter, fearlessly going to far-flung places and exploring sensitive topics that have driven consequential debates. For nearly three decades, first at New York magazine and then at The [ ]
 

@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-17T17:01:37.480Z
+# AI — harvested 2026-08-18T05:07:16.852Z
 
 ## OpenAI
 
@@ -19,7 +19,8 @@ OpenAI funds 14 independent projects exploring new AI policy ideas to expand eco
 
 ## Hugging Face
 
-_Nothing in the last 48 hours._
+### Same Cluster, 33 Points More Utilization: What Changed Was the Order
+Mon, 17 Aug 2026 19:46:21 GMT — https://huggingface.co/blog/Dharma-AI/gpu-management-pt2
 
 ## Google DeepMind
 

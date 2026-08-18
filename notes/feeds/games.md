@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-17T17:01:37.480Z
+# Games — harvested 2026-08-18T05:07:16.852Z
 
 ## Eurogamer
 
@@ -64,6 +64,11 @@ Earlier this year, Pokopia convinced me that the Switch 2's gimmicky mouse contr
 
 ## GamesIndustry.biz
 
+### The Hollywood disruptors making a large-scale game with a 12-person team – and no generative AI
+Mon, 17 Aug 2026 17:43:23 +0000 — https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai
+
+You might recall the trailer for Join Us being featured in the Xbox Showcase back in June. It depicts a darkly comic co-op cult simulator, with robed cult members riding around on pigs and loosing off machine guns, before ending on an image of Cthulu-like giant tentacles. Not shown was the snake gun, says Joe Dietsch, CEO and creative director of Join Us developer Wolf Haus Games. Read more
+
 ### US Senate to investigate Roblox following claims it "prioritises revenue and engagement" over child safety
 Mon, 17 Aug 2026 12:47:28 +0000 — https://www.gamesindustry.biz/us-senate-to-investigate-roblox-following-claims-it-prioritises-revenue-and-engagement-over-child-safety
 
@@ -84,6 +89,21 @@ Matchmaking platform Sail.game is introducing a free tier for PC and console gam
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Rumoured Phantom Blade Zero PS5 Demo Nowhere to Be Seen After State of Play Deep Dive
+Tue, 18 Aug 2026 03:00:00 GMT — https://www.pushsquare.com/news/2026/08/rumoured-phantom-blade-zero-ps5-demo-nowhere-to-be-seen-after-state-of-play-deep-dive
+
+Zero'd. The dedicated Phantom Blade Zero State of Play broadcast has come and gone, and there was no mention whatsoever of a playable demo hitting PS5. This is despite reports of the demo popping up on the PS Store last week. Many assumed that an official demo reveal and release was all but guaranteed for this showcase. Read the full article on pushsquare.com
+
+### Live: Watch the Phantom Blade Zero PS5 State of Play Right Here
+Tue, 18 Aug 2026 01:30:00 GMT — https://www.pushsquare.com/features/live-watch-the-phantom-blade-zero-ps5-state-of-play-right-here
+
+Fun time blades hero. It's time for a fresh look at the very promising action game Phantom Blade Zero in Sony's latest State of Play. Taking a deep dive into the gameplay of this stylish wuxia action title, we're in for about 20 minutes of brand new footage, and there could be some other news (like a demo ?) thrown in for good measure. The State of Play begins at 7 pm PDT / 10pm EDT / 3am BST / 4am CEST , and you can watch it below alongside our live chat. Read the full article on pushsquare.com
+
+### Guide: What Time Is the Phantom Blade Zero State of Play?
+Mon, 17 Aug 2026 21:30:00 GMT — https://www.pushsquare.com/guides/what-time-is-the-phantom-blade-zero-state-of-play
+
+Dates, times, and what to expect. Sony's latest State of Play is very nearly here, and this time, it's focusing wholly on a single game: Phantom Blade Zero . The Chinese action game has looked extremely promising for a long time now, and as it approaches its October launch date, developer S-GAME has prepared a new showing of its stylish action title. Read the full article on pushsquare.com
 
 ### Sony s New It Happens on PS5 Ad Has Gone Down Exactly as You d Expect
 Mon, 17 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/sonys-new-it-happens-on-ps5-ad-has-gone-down-exactly-as-youd-expect
@@ -129,16 +149,6 @@ Stonks-9800 stomped. Sony has been ridding the PS Store of shovelware, erasing e
 Mon, 17 Aug 2026 05:00:00 GMT — https://www.pushsquare.com/guides/these-25plus-ps5-and-ps-plus-games-are-coming-to-ps5-this-week-17th-23rd-august
 
 The Sinking City 2! Starsand Island! Mortal Shell 2! Much more! I'm afraid to say we're now deep into the heavy release season, folks. That means there are loads of new PS5 games coming out this time, including The Sinking City 2 , Mortal Shell 2 , Starsand Island , and one I'm personally looking forward to: No Case Should Remain Unsolved . Read the full article on pushsquare.com
-
-### You d Have to Be Heartless to Hate on This Extended Kingdom Hearts 4 Trailer
-Sun, 16 Aug 2026 03:30:00 GMT — https://www.pushsquare.com/news/2026/08/youd-have-to-be-heartless-to-hate-on-this-extended-kingdom-hearts-4-trailer
-
-Nomura says 2027 release is "100% certain". Following its confirmation for a late 2027 release yesterday , Square Enix has now deployed a full-length Kingdom Hearts 4 trailer. While the footage primarily focuses on the new Coco-inspired world, we also get a glimpse of the real-world Shibuya location that’s made up a chunk of the title’s marketing up to this point. Read the full article on pushsquare.com
-
-### After Several PS Store Knock-Offs, the Real TCG Card Shop Simulator Hits PS5 Next Month
-Sat, 15 Aug 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/08/after-several-ps-store-knock-offs-the-real-tcg-card-shop-simulator-hits-ps5-next-month
-
-Hit PC game coming soon. It's a pattern we've seen a few times now: A game arrives on PC, makes a splash, and the PS Store is flooded with cheap copycat clones trying to cash in on the hype. This is eventually followed by an official console port, and all becomes right with the world. Well, that's exactly the scenario we find ourselves in with TCG Card Shop Simulator . A viral PC hit that's been in early access for nearly two years, there are a handful of knock-offs available on PS5, but the real deal is finally coming to Sony's console. Read the full article on pushsquare.com
 
 ## Game Developer
 
