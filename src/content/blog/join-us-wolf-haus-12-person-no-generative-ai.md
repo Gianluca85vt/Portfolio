@@ -4,7 +4,6 @@ date: 2026-08-18
 category: Games
 excerpt: Wolf Haus Games is shipping the open-world co-op cult sim Join Us with about a dozen people and no generative content tools. That's not a marketing line — it's a scoping constraint, and it says something about where the rest of the industry is quietly not going.
 cover: /img/blog/join-us-wolf-haus-12-person-no-generative-ai/shot-01.jpg
-draft: true
 ---
 
 **Join Us** is a co-op survival game where you run a doomsday cult — recruit
