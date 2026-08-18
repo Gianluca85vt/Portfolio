@@ -4,7 +4,6 @@ date: 2026-08-18
 category: 3D
 excerpt: Dragoslav Vugdelija's Tears in Rain project is a small sci-fi prop with metal, glass and plastic sculpted into believable wear. The number worth stealing isn't the sculpt — it's how many texture sets he spent on something you'd hold in one hand.
 cover: /img/blog/tears-in-rain-sci-fi-prop-texture-sets/shot-01.jpg
-draft: true
 ---
 
 80.lv ran a short piece today on a personal project called **Tears in Rain** —
