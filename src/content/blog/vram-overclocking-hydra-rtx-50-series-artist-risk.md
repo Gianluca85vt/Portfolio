@@ -4,7 +4,6 @@ date: 2026-08-18
 category: Tech
 excerpt: Overclocker 1usmus updated Hydra with direct VRAM and power-limit control for RTX 50-series cards, territory Nvidia normally locks down. For anyone whose GPU renders paying work instead of frames per second, that convenience is also the risk.
 cover: /img/blog/vram-overclocking-hydra-rtx-50-series-artist-risk/shot-01.jpg
-draft: true
 ---
 
 Tom's Hardware and a handful of other outlets covered a Hydra update this week
