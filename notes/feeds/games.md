@@ -1,6 +1,41 @@
-# Games — harvested 2026-08-18T08:06:21.767Z
+# Games — harvested 2026-08-18T11:01:07.764Z
 
 ## Eurogamer
+
+### Resident Evil Requiem's Grace Ashcroft actor reportedly replacing Jennifer English as lead of lavish Chinese action game Tides of Annihilation
+Tue, 18 Aug 2026 10:16:27 +0000 — https://www.eurogamer.net/grace-ashcroft-actor-replacing-jennifer-english-tides-of-annihlation
+
+Lavish Chinese action game Tides of Annihilation seems to have found a replacement for Jennifer English, the award-winning actor who withdrew from voicing the game's main character Gwendolyn last month. And the replacement appears to be Angela Sant'Albano, who performed Grace Ashcroft in Resident Evil Requiem. Read more
+
+### It turns out touching grass is the answer: Gaming is great when you leave the house
+Tue, 18 Aug 2026 10:16:16 +0000 — https://www.eurogamer.net/touching-grass-gaming-going-outside-optimism-week
+
+Hello! This piece is a part of Optimism Week on Eurogamer - a week of features either about optimism itself or those which hope to inspire it. For more articles like this, you can visit our Optimism Week hub . Thank you as ever for reading! Read more
+
+### Be warned: Fallout 4's next update may break your mods - and there's a similar one for Skyrim in the works, too
+Tue, 18 Aug 2026 10:12:06 +0000 — https://www.eurogamer.net/fallout-4-creations-update-mods-breaking
+
+For most games, the news of a new patch is usually received with excitement. This is true for games made by Bethesda too, of course, but not when they're as old as Fallout 4 and Skyrim are. The reason? Mods. Read more
+
+### 20-year-old Gunz the Duel gets Steam re-release, receives harsh criticism over network issues and suspected use of generative AI
+Tue, 18 Aug 2026 09:29:49 +0000 — https://www.eurogamer.net/gunz-the-duel-steam-problems-network-ai
+
+Gunz the Duel, the cult classic 3rd-person action game first released back in 2006, is back on Steam. But the long-awaited return of the genre-defining game has been tarred somewhat by technical issues, and allegations of AI usage. Read more
+
+### Tomb Raider: Legacy of Atlantis, a remake of the first game, is getting RPG skill trees, crafting mechanics and a 'focus meter'
+Tue, 18 Aug 2026 09:25:57 +0000 — https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-remake-rpg-focus-crafting
+
+Amazon Game Studios and Crystal Dynamics have released a new trailer for Tomb Raider: Legacy of Atlantis . It's the sixth instalment in a series of 'behind-the-scenes' videos chronicling the making of the upcoming remake, which is being developed by Flying Wild Hog. This latest video shows us some previously unknown elements of the game, and they mark a pretty big departure from the original 1996 title. Read more
+
+### "I'm pretty sure I mean it" - Legendary game developer Warren Spector announces retirement
+Tue, 18 Aug 2026 08:58:05 +0000 — https://www.eurogamer.net/warren-spector-announces-retirement
+
+Warren Spector, the legendary game developer known for being a key part in the development of the Deus Ex series as well as his role in Epic Mickey, Ultima, and System Shock , has announced his retirement. Read more
+
+### Shuhei Yoshida told Expedition 33 studio to avoid terms like 'turn-based RPG' because it may cause people to "overlook" the game
+Tue, 18 Aug 2026 08:29:46 +0000 — https://www.eurogamer.net/expedition-33-shuehi-yoshida-warning-turn-based-rpg
+
+One of the reasons Clair Obscur: Expedition 33 stood out so much in early footage was how action-packed its combat looked, despite being a turn-based RPG. But while developer Sandfall Interactive has described the game as a turn-based RPG - and reinvigorated the genre, to some degree - not everyone was happy with that approach. Read more
 
 ### Long-awaited Switch 2 version of Diablo 4 reportedly releases days after BlizzCon, and includes both game expansions
 Mon, 17 Aug 2026 16:00:08 +0000 — https://www.eurogamer.net/diablo-4-switch-2-release-date-rumour-expansions
@@ -27,42 +62,12 @@ Mon, 17 Aug 2026 13:38:16 +0000 — https://www.eurogamer.net/big-walk-with-stra
 
 Suddenly, I'm alone. Where there was once cacophonous sound all around me, now there is none. Where there were once blobby people with sausage noses waggling their Playdough arms all around me, now there are none. All I see is a forest rapidly darkening, and all I hear is the sound of nothing, beating like the sound of my heartbeat in my ears. The contrast is unnerving. Where has my pack of people gone? I don't want to be on my own. Read more
 
-### Welcome to Optimism Week!
-Mon, 17 Aug 2026 13:35:30 +0000 — https://www.eurogamer.net/welcome-to-optimism-week
-
-Hello! And welcome to Optimism Week here on Eurogamer, a week of features dedicated to the brighter side of video games. Read more
-
-### Call of Duty now has a guide on how to enable its convoluted security features so you can play the Modern Warfare 4 beta on PC
-Mon, 17 Aug 2026 12:12:23 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-anti-cheat-tpm-2-0-secure-boot
-
-As we approach the first weekend of the Call of Duty: Modern Warfare 4 beta , Activision's Ricochet anti-cheat team has published a detailed guide to help PC players turn on certain security features that are necessary to play online. Read more
-
-### Call of Duty studio Sledgehammer reportedly worked on a Halo multiplayer prototype before it got canned
-Mon, 17 Aug 2026 10:11:42 +0000 — https://www.eurogamer.net/halo-multiplayer-activision--sledgehammer-games
-
-A Halo game made by an Activision studio doesn't sound like a far-fetched idea, and is actually something Xbox considered per a new report. Sledgehammer Games, the studio behind several Call of Duty games like WW2, Vanguard, and Modern Warfare 3, is said to have been sought out to develop a Halo multiplayer game. Read more
-
-### Gameplay footage for the cancelled Star Wars: Magellan has appeared online
-Mon, 17 Aug 2026 09:26:35 +0000 — https://www.eurogamer.net/star-wars-magellan-footage-cancelled-action-rpg
-
-Years after its cancellation, gameplay footage for Star Wars: Magellan, the action RPG developed by the now-shuttered Echtra Games, has appeared online. Read more
-
-### Heroes and Until Dawn star Hayden Panettiere dies aged 36
-Mon, 17 Aug 2026 09:26:17 +0000 — https://www.eurogamer.net/hayden-panettiere-heroes-until-dawn-dies
-
-Hayden Panettiere - the actor who shot to fame as the cheerleader in TV superhero show Heroes - has died aged 36. Read more
-
-### Fortnite is getting a collaboration with a game made in Roblox, months after Epic boss Tim Sweeney referred to the rival platform as a force that could "grow and eat gaming"
-Mon, 17 Aug 2026 09:15:01 +0000 — https://www.eurogamer.net/fortnite-chapter-7-season-4-roblox-gaming-legends
-
-It looks like Fortnite is getting a crossover with a game made in Roblox . In the latest upcoming season of the game - named Fortnite Chapter 7 Season 4: Override - the world's biggest battle royale introduces a wealth of gaming properties to its world. Developer Epic's first trailer for the new season (below) shows off a slew of gaming characters from all eras: you've got Crash Bandicoot, Sonic the Hedgehog and his pal Tails, Joker from Persona 5, Mega Man, Kitana and Scorpion from Mortal Kombat, and more. Read more
-
-### Don't sleep on Fire Emblem: Fortune's Weave mouse controls - believe it or not, it's become my favourite way to play
-Mon, 17 Aug 2026 09:00:00 +0000 — https://www.eurogamer.net/fire-emblem-fortunes-weave-switch-2-mouse
-
-Earlier this year, Pokopia convinced me that the Switch 2's gimmicky mouse controls were a worthwhile addition to the console, after all. Since then, I've been trying out other games with the mouse as my primary method of control. My favourites, before I picked up Fire Emblem: Fortune's Weave, were Nobunaga's Ambition: Awakening and Balatro. There's just something more satisfying about clicking to select units, or dragging and dropping cards, than there is using the D-pad. Read more
-
 ## GamesIndustry.biz
+
+### Save the Children announces its first game and streaming fundraising event called Save Point
+Tue, 18 Aug 2026 08:53:12 +0000 — https://www.gamesindustry.biz/save-the-children-announces-its-first-game-and-streaming-fundraising-event-called-save-point
+
+This Christmas, Save the Children will launch is first game and streaming fundraiser called Save Point. Read more
 
 ### GYLD closes oversubscribed $1m seed round to fund proprietary games research system
 Tue, 18 Aug 2026 07:00:00 +0000 — https://www.gamesindustry.biz/gyld-closes-oversubscribed-1m-seed-round-to-fund-proprietary-games-research-system
@@ -94,6 +99,16 @@ Matchmaking platform Sail.game is introducing a free tier for PC and console gam
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Feature: 50+ PS5, PS4 Games to Buy in PS Store s Ready, Set, Play Sale (North America/Europe)
+Tue, 18 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-ready-set-play-sale-north-americaeurope
+
+Recommended games going cheap. PS Store's latest sale has begun, and this time it's called Ready, Set, Play. The offer runs from now through to 26th August, 2026, and as always, it includes thousands of PS5 and PS4 games with reduced prices. Read the full article on pushsquare.com
+
+### 4 New PS Plus Extra, Premium Games Available to Download Now
+Tue, 18 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/08/4-new-ps-plus-extra-premium-games-available-to-download-now
+
+Full lineup outside of UK, USA, and Japan. A wave of new PS Plus Extra and PS Plus Premium titles is now live for subscribers, as detailed in last week's monthly update. The full lineup for August 2026 is available for most members now, but those in the UK, USA, and Japan only get access to four of the 10 today. Sony is continuing to split the lineup across multiple weeks in these three territories, so here's what's on offer today: Read the full article on pushsquare.com
 
 ### Rumoured Phantom Blade Zero PS5 Demo Nowhere to Be Seen After State of Play Deep Dive
 Tue, 18 Aug 2026 03:00:00 GMT — https://www.pushsquare.com/news/2026/08/rumoured-phantom-blade-zero-ps5-demo-nowhere-to-be-seen-after-state-of-play-deep-dive
@@ -145,17 +160,17 @@ Mon, 17 Aug 2026 05:30:00 GMT — https://www.pushsquare.com/news/2026/08/until-
 
 "She was an incredible light". Hayden Panettiere, best known for shows like Heroes and Nashville , has tragically passed away aged just 36-years-old. The US actress will be remembered among PlayStation fans for her role in PS4 horror game Until Dawn , alongside other high-profile stars like Rami Malek. Read the full article on pushsquare.com
 
-### Sony s Purge on PS5 Shovelware May Now Have Hit a Legit Indie Dev
-Mon, 17 Aug 2026 05:15:00 GMT — https://www.pushsquare.com/news/2026/08/sonys-purge-on-ps5-shovelware-may-now-have-hit-a-legit-indie-dev
-
-Stonks-9800 stomped. Sony has been ridding the PS Store of shovelware, erasing entire publisher catalogues from its virtual plaza. While I think this news has been broadly well received , I’ve always cautioned that legit devs may one day get caught up in the crossfire. Read the full article on pushsquare.com
-
-### Guide: These 25+ PS5 and PS Plus Games Are Coming to PS5 This Week (17th-23rd August)
-Mon, 17 Aug 2026 05:00:00 GMT — https://www.pushsquare.com/guides/these-25plus-ps5-and-ps-plus-games-are-coming-to-ps5-this-week-17th-23rd-august
-
-The Sinking City 2! Starsand Island! Mortal Shell 2! Much more! I'm afraid to say we're now deep into the heavy release season, folks. That means there are loads of new PS5 games coming out this time, including The Sinking City 2 , Mortal Shell 2 , Starsand Island , and one I'm personally looking forward to: No Case Should Remain Unsolved . Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Roblox being investigated by U.S. Senate after reporting 65,381 instances of suspected child abuse in 2025
+Tue, 18 Aug 2026 10:22:11 GMT — https://www.gamedeveloper.com/business/roblox-being-investigated-by-u-s-senate-after-reporting-65-381-instances-of-suspected-child-abuse-in-2025
+
+'Let us be clear: children on your platform are hurting. Congress will not look the other way.'
+
+### Arco breaks even after topping 100,000 sales in two years
+Tue, 18 Aug 2026 09:28:08 GMT — https://www.gamedeveloper.com/business/arco-breaks-even-after-topping-100-000-sales
+
+One member of the development team described the achievement as 'incredible.'
 
 ### WINGS really, really wants to fund your neat indie video game
 Tue, 18 Aug 2026 08:00:49 GMT — https://www.gamedeveloper.com/business/wings-really-really-wants-to-fund-your-neat-indie-video-game

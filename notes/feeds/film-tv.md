@@ -1,6 +1,31 @@
-# Film & TV — harvested 2026-08-18T08:06:21.767Z
+# Film & TV — harvested 2026-08-18T11:01:07.764Z
 
 ## Variety
+
+### Oscars: Taiwan Selects A Foggy Tale for International Feature Race
+Tue, 18 Aug 2026 10:54:33 +0000 — https://variety.com/2026/film/awards/oscars-taiwan-a-foggy-tale-international-feature-1236837005/
+
+A Foggy Tale, directed by Chen Yu-hsun, has been selected to represent Taiwan in the best international feature film category at the 99th Academy Awards, Taiwan s Ministry of Culture has revealed. The film was chosen from seven domestic submissions by majority vote. The selection committee praised the film for its vivid characters, smooth narrative and [ ]
+
+### Diego Luna on Challenging How Migrants Are Viewed With Ashes : We’re Not Thinking About What They Left Behind
+Tue, 18 Aug 2026 10:45:58 +0000 — https://variety.com/2026/film/global/diego-luna-ashes-sarajevo-1236836130/
+
+Between conducting a masterclass and attending an open-air screening of his fourth directorial feature, “Ashes,” Diego Luna dropped by the Variety Lounge presented by the Sarajevo Film Festival and BH Telecom to chat about his first time in the Bosnian capital. The Mexican actor-director-producer, who broke out in Alfonso Cuaron’s “Y Tu Mama Tambien” and [ ]
+
+### Hayden Panettiere s Ex Wladimir Klitschko Remembers Her Immense Talent While Also Facing the Darker Sides of the Industry: She Left This World Far Too Soon
+Tue, 18 Aug 2026 09:36:40 +0000 — https://variety.com/2026/film/news/hayden-panettiere-ex-wladimir-klitschko-mourns-immense-talent-1236836976/
+
+Hayden Panettiere s ex Wladimir Klitschko, who is the father of her 11-year-old daughter Kaya, is mourning the actress following her death on Sunday at the age of 36. In an Instagram post late Monday night, the heavyweight boxing champion wrote that his family is going through a time of profound shock and grief. He continued: [ ]
+
+### Croatian Crime Drama Red Water, Directed by Cannes Prizewinner Antoneta Alamat Kusijanovic, to Be Co-Produced by ZDF/Arte, Beta Film (EXCLUSIVE)
+Tue, 18 Aug 2026 09:31:39 +0000 — https://variety.com/2026/tv/global/red-water-antoneta-alamat-kusijanovic-zdf-arte-beta-film-1236836971/
+
+Beta Film has teamed up with ZDF/Arte and Antitalent to co-produce the Croatian crime drama “Red Water,” winner of the 2025 Council of Europe Series Co-Production Development Award at the Sarajevo Film Festival’s CineLink Industry Days. “Red Water,” a six-hour series, is based on Jurica Pavičić’s bestselling novel of the same name, which ranked among [ ]
+
+### Sundance Breakout Thelma Set for Mandarin Remake by Stars Collective, Titled Grandma, Please (EXCLUSIVE)
+Tue, 18 Aug 2026 08:11:15 +0000 — https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/
+
+Stars Collective has acquired the Mandarin-language remake rights to Thelma, the 2024 Sundance Film Festival breakout that became Magnolia Pictures highest-grossing narrative feature, and is developing an adaptation titled Grandma, Please. In Grandma, Please, an 80-year-old grandmother is swindled out of her life savings by a scammer who uses AI to clone her late husband s [ ]
 
 ### Spider-Man: Brand New Day, The Odyssey Continue Tussle Atop U.K., Ireland Box Office
 Tue, 18 Aug 2026 06:54:02 +0000 — https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/
@@ -27,32 +52,17 @@ Tue, 18 Aug 2026 03:22:15 +0000 — https://variety.com/2026/tv/news/jeanie-buss
 
 Jeanie Buss, the Los Angeles Lakers owner who has been the face of the team since the death of her father Jerry Buss in 2013, is reportedly contesting the plan approved by her siblings to sell the family s remaining 18% stake in the storied NBA franchise to investors Bob Iger and Josh Kushner. ESPN and [ ]
 
-### David F. Sandberg to Direct Horror Movie Mommy s Home For Lionsgate
-Tue, 18 Aug 2026 00:54:54 +0000 — https://variety.com/2026/film/news/david-f-sandberg-direct-mommys-home-lionsgate-1236836858/
-
-David F. Sandberg has been tapped to direct a new psychological horror movie, Mommy s Home, for Lionsgate. From screenwriter James Morosini, Mommy s Home follows a young dad whose family life becomes terrifyingly unhinged when his cryogenically preserved mom is unfrozen and sent to live with him, according to an official logline. Sandberg is probably best [ ]
-
-### LISTEN: How Chris Carter Got a Second Shot at The X-Files: I Want to Believe Film
-Tue, 18 Aug 2026 00:39:32 +0000 — https://variety.com/2026/tv/news/chris-carter-x-files-i-want-to-believe-directors-cut-1236836849/
-
-On today s episode of Daily Variety podcast, The X-Files creator Chris Carter explains to Variety’s Michael Schneider how he got the chance to do a director’s cut of his 2008 “The X-Files: I Want to Believe” feature film. The new cut dubbed The X-Files: I Want to Believe: Vrach Frankenshteyn debuted Aug. 14 on Hulu [ ]
-
-### Furious Star Steve Way on the Beauty of Disabled Love and the Difficulty of Navigating Hollywood Without a Team: I Want an Agency to Whore Me Out
-Tue, 18 Aug 2026 00:09:52 +0000 — https://variety.com/2026/tv/news/furious-steve-way-disability-hollywood-serial-killer-romance-1236836217/
-
-It’s uncommon to meet an actor bold enough to call Ari Emanuel, the executive chairman of WME Group and one of the most powerful people in Hollywood, a “prick” on the record. But it’s also uncommon to interview an actor as unfiltered as Steve Way. “I want an agency to whore me out,” he says. [ ]
-
-### Friday the 13th Prequel Series Crystal Lake Is Gory and Gross With Blood Everywhere, Says Star Linda Cardellini
-Mon, 17 Aug 2026 23:13:25 +0000 — https://variety.com/2026/tv/columns/crystal-lake-linda-cardellini-friday-the-13th-prequel-series-gory-gross-blood-1236836771/
-
-“Crystal Lake” star Linda Cardellini is teasing the upcoming “Friday the 13th” prequel television series. Cardellini stars in the Peacock series as the franchise antagonist Pamela Voorhees. The show, premiering Oct. 15 on the streamer, follows Voorhees’ life prior to the events of the first “Friday the 13th” film. It also stars William Catlett as [ ]
-
-### Spy Kids Actor Alexa PenaVega Shares Heartbreak After Deaths of Fellow Child Stars Hayden Panettiere, Michelle Trachtenberg and Daveigh Chase: Hug Your People Close Today
-Mon, 17 Aug 2026 22:07:49 +0000 — https://variety.com/2026/film/news/alexa-vega-child-actor-deaths-hayden-panettiere-trachtenberg-1236836669/
-
-Alexa PenaVega s heart is heavy after the death of Hayden Panettiere, most notably because it marks the third passing of a fellow child star in 2026. The Spy Kids actor noted in a statement on social media that she rose to fame with and grew up alongside the likes of Panettiere, Michelle Trachtenberg and Daveigh [ ]
-
 ## The Hollywood Reporter
+
+### BBC, A24 s The Ministry of Time Series Casts Aoife Hinds, Billy Howle as Leads
+Tue, 18 Aug 2026 10:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bbc-a24-the-ministry-of-time-series-aoife-hinds-billy-howle-1236675923/
+
+The 'Dune: Prophecy' and 'The Perfect Couple' actors will star in the six-part show based on Kaliane Bradley’s bestselling novel, which has been adapted by Alice Birch ('Normal People').
+
+### Hayden Panettiere s Ex Wladimir Klitschko Speaks Out: She Left This World Far Too Soon
+Tue, 18 Aug 2026 09:36:49 +0000 — https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-dead-wladimir-klitschko-tribute-1236675913/
+
+The boxer and the late actress were a couple from 2009 to 2018 and had a child together.
 
 ### Scream 4 Casting Director Recalls Hayden Panettiere s Fierce Warrior Nature Helping Her Land Role
 Tue, 18 Aug 2026 02:04:11 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-scream-4-casting-director-tribute-death-1236675810/
@@ -94,17 +104,27 @@ Mon, 17 Aug 2026 23:46:30 +0000 — https://www.hollywoodreporter.com/music/musi
 
 "There is simply nothing fair about a company using theft to build for purely commercial purposes a multi-billion dollar business while those from which they steal receive nothing," Round Hill said.
 
-### Inside Netflix s Field of Dreams Face-Off in Iowa: A Magical Moment
-Mon, 17 Aug 2026 23:40:39 +0000 — https://www.hollywoodreporter.com/tv/tv-features/field-of-dreams-game-2026-iowa-score-netflix-where-to-watch-1236674694/
-
-Movie nostalgia mixed with Major League Baseball in a major way last Thursday night in an Iowa cornfield: "It was really cool to be able to come back here and live out my dream."
-
-### Hayden Panettiere and Michelle Trachtenberg s Deaths Have Fans Reminiscing About Ice Princess
-Mon, 17 Aug 2026 22:58:43 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-death-fans-reminiscing-ice-princess-1236675628/
-
-Both actresses starred in the empowering 2005 Disney movie about figure skating.
-
 ## Deadline
+
+### Christopher Nolan s The Odyssey Becomes Biggest Film Ever At BFI IMAX
+Tue, 18 Aug 2026 10:00:44 +0000 — https://deadline.com/2026/08/the-odyssey-becomes-biggest-film-ever-at-bfi-imax-avatar-1237044031/
+
+Christopher Nolan’s acclaimed epic The Odyssey is now the biggest film of all time at the UK s largest cinema, the BFI IMAX. To date, BFI IMAX has sold more than 101,000 admissions for the movie, generating £2,683,987 gross in ticket sales from a single screen and achieving a 95% occupancy rate across all showtimes currently [ ]
+
+### Aoife Hinds Billy Howle To Lead BBC And A24 Series The Ministry Of Time
+Tue, 18 Aug 2026 10:00:00 +0000 — https://deadline.com/2026/08/ministry-of-time-casts-aoife-hinds-billy-howle-bbc-a24-1237044013/
+
+Aoife Hinds (Dune: Prophecy, Normal People) and Billy Howle (The Perfect Couple, Under the Banner of Heaven) will star in BBC and A24 fantasy series The Ministry of Time. Hinds will play Sophy and Howle will be Commander Graham Gore, with filming beginning in and around London, as we reported earlier this year. Further casting [ ]
+
+### ‘Club Kid’ ‘The Man I Love’ Among Titles Added To San Sebastian Lineup
+Tue, 18 Aug 2026 09:47:21 +0000 — https://deadline.com/2026/08/club-kid-the-man-i-love-san-sebastian-2026-1237044028/
+
+Jordan Firstman’s Club Kid and The Man I Love by Ira Sachs are among the titles that will screen as part of the Perlak competition sidebar for fall fest favorites this year at San Sebastian. San Sebastian announced its Perlak titles this morning. The festival will run from September 18 to 26. Scroll down for [ ]
+
+### She Left This World Far Too Soon : Wladimir Klitschko Issues Statement On Ex Hayden Panettiere s Death Promises To Keep Her Memory Alive For Their Daughter Kaya
+Tue, 18 Aug 2026 08:57:15 +0000 — https://deadline.com/2026/08/klitschko-on-hayden-panettieres-death-daughter-1237043999/
+
+Hayden Panettiere and Wladimir Klitschko split in 2018, but it was always clear that there remained love and respect between the two. Such was the case tonight when former heavyweight champion Klitschko spoke out for the first time about the untimely death of the 36-year-old Heroes actress, with whom he shared daughter Kaya. Hayden’s tragic [ ]
 
 ### Jon Ronson Culture Wars Series Things Fell Apart Returns For Third Season On BBC – This Time Exploring David Vs. Goliath Stories
 Tue, 18 Aug 2026 08:00:00 +0000 — https://deadline.com/2026/08/jon-ronson-things-fell-apart-returns-season-3-bbc-1237042799/
@@ -145,24 +165,4 @@ Season 5 of Apple TV’s The Morning Show has begun adding new faces to its alre
 Mon, 17 Aug 2026 22:19:33 +0000 — https://deadline.com/feature/the-gilded-age-season-4-news-updates-everything-we-know-1236748421/
 
 The culture clash will continue in Season 4 of Julian Fellowes HBO period drama The Gilded Age, based on the turn-of-the-century time period in America that lasted between 1870 and 1900. Some familiar faces have been promoted to series regulars since Season 3, and some new faces are joining the cast to play big-name historical [ ]
-
-### All Her Fault Creator On Challenging How Society Views Women Mothers In Thriller Series
-Mon, 17 Aug 2026 22:15:00 +0000 — https://deadline.com/2026/08/all-her-fault-creator-megan-gallagher-interview-1237043228/
-
-Of all the feedback she s received on All Her Fault, there is one comment that sticks with creator and showrunner Megan Gallagher: Those are two of the worst husbands I ve ever seen on television, and neither one of them were having an affair. It certainly would ve been easy (and predictable) to fuel audiences distaste for [ ]
-
-### Abby Phillip Signs New Deal To Remain At CNN
-Mon, 17 Aug 2026 22:05:22 +0000 — https://deadline.com/2026/08/abby-phillip-cnn-contract-1237043487/
-
-Abby Phillip has signed a new deal at CNN, where she has hosted the nightly show CNN Newsnight. A network spokesperson declined to comment on talent contracts. According to a source, Phillip recently renewed her deal to remain at the network, which she joined in 2017. CNN NewsNight s roundtables frequently land clips on social media, [ ]
-
-### Disney Sets Ryan Gosling Ghost Rider For Summer 2028, Other Tentpole Release Dates Out Of D23
-Mon, 17 Aug 2026 21:32:56 +0000 — https://deadline.com/2026/08/ghost-rider-2028-disney-release-dates-1237043467/
-
-Disney sent out a list of 2028 theatrical release dates and then some, most of which we told you about both separately on D23 s big Friday night and in our outlook from the studio s big film lineup. Prominently, while we knew Ghost Rider was opening in 2028, Disney has officially made it known that the [ ]
-
-### Dan Harmon Talks Overhauling ‘Rick And Morty’ Workplace, Fears Hopes For Future Of Adult Animation Contenders TV Nominees Studio
-Mon, 17 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/dan-harmon-rick-and-morty-emmy-interview-1237043095/
-
-There was “a great deal of turbulence,” Dan Harmon acknowledged, following co-creator and star Justin Roiland’s 2023 ouster from Adult Swim s Rick and Morty ahead of Season 7, amid domestic violence charges (which were ultimately dropped) and other allegations of misconduct. But it feels now, that the ship has been righted and the page has [ ]
 
