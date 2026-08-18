@@ -3,7 +3,7 @@ title: One hand-prop, four texture sets — the interesting number in a Blade Ru
 date: 2026-08-18
 category: 3D
 excerpt: Dragoslav Vugdelija's Tears in Rain project is a small sci-fi prop with metal, glass and plastic sculpted into believable wear. The number worth stealing isn't the sculpt — it's how many texture sets he spent on something you'd hold in one hand.
-cover: /img/blog/tears-in-rain-sci-fi-prop-texture-sets/cover.svg
+cover: /img/blog/tears-in-rain-sci-fi-prop-texture-sets/shot-01.jpg
 draft: true
 ---
 
@@ -16,6 +16,11 @@ a paragraph, no walkthrough — so treat everything below as commentary on the
 premise, not a review of the execution I haven't seen in full.
 
 ## The number that stopped me
+
+<figure>
+  <img src="/img/blog/tears-in-rain-sci-fi-prop-texture-sets/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Original Blade Runner stunt blaster prop, via Wikimedia Commons (CC BY 2.0)</figcaption>
+</figure>
 
 **Four texture sets, for one prop.** Not a vehicle, not a weapon rig with
 attachments — something sized to fit in a character's hand. That ratio is the
