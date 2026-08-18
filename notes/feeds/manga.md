@@ -1,6 +1,26 @@
-# Manga — harvested 2026-08-18T11:01:07.764Z
+# Manga — harvested 2026-08-18T14:16:21.251Z
 
 ## Anime News Network
+
+### This Week in Anime - K-Drama Llama
+Tue, 18 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-08-18/.240676
+
+Are K-Dramas are just a bunch of attractive people putting themselves in situations?
+
+### Though I Am an Inept Villainess ‒ Episode 6
+Tue, 18 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-6/.240657
+
+I really want to see Reirin and Keigetsu realize that they’re on the same side.
+
+### Iron Wok Jan! ‒ Episode 7
+Tue, 18 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-7/.240670
+
+Kawahara has advanced techniques and knowledge that allow him to approach cooking from a more clinical perspective.
+
+### Goodbye, Lara ‒ Episode 7
+Tue, 18 Aug 2026 07:39:50 -0400 — https://www.animenewsnetwork.com/review/goodbye-lara/episode-7/.240655
+
+It looks like Luca is being punished for his past rejection of Lara.
 
 ### New Fortnite Battle Royale Season Trailer Features Icons of Video Games
 Mon, 17 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-17/new-fortnite-battle-royale-season-trailer-features-icons-of-video-games/.240644
@@ -41,26 +61,6 @@ Despite their lives of being lied to, hunted, and coveted by those who want to u
 Mon, 17 Aug 2026 14:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/kakao-entertainment-to-merge-3-story-content-subsidiaries/.240641
 
 All 3 companies are content providers specializing in webtoons, web novels
-
-### The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3 ‒ Episode 31
-Mon, 17 Aug 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3/episode-31/.240643
-
-Of course they have to keep Kusuri's drugs around, how else could they fuel absurd one-off plots that rope in the age-regression or size-difference fetishists?
-
-### Jujutsu Kaisen Ranks #2 on Bookscan's July Adult Graphic Novel List in U.S.
-Mon, 17 Aug 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/jujutsu-kaisen-ranks-no.2-on-bookscan-july-adult-graphic-novel-list-in-u.s/.240650
-
-18 manga volumes including <cite>One Piece, The Summer Hikaru Died, Gachiakuta, Chainsaw Man, Witch Hat Atelier, Phantom Busters, The Guy She Was Interested In Wasn't a Guy at All, Steel Ball Run, Demon Slayer, Blue Lock</cite> make list
-
-### KAIJU GIRL CARAMELISE ‒ Episode 7
-Mon, 17 Aug 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/kaiju-girl-caramelise/episode-7/.240627
-
-Being a kaiju girl cannot be all bad if it gives you and your date a front-row seat to the fireworks show.
-
-### 86 Anime Returns to Crunchyroll After Being Delisted
-Mon, 17 Aug 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/86-anime-returns-to-crunchyroll-after-being-delisted/.240639
-
-Anime was delisted sometime in between April, May earlier this year
 
 ## Crunchyroll News
 

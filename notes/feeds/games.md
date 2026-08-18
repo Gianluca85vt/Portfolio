@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-18T11:01:07.764Z
+# Games — harvested 2026-08-18T14:16:21.251Z
 
 ## Eurogamer
+
+### Don't boycott Grand Theft Auto 6, say workers fired by Rockstar - buy a T-shirt to help fund the legal battle instead
+Tue, 18 Aug 2026 13:27:24 +0000 — https://www.eurogamer.net/rockstar-workers-dont-boycott-grand-theft-auto-6-support-union-costs
+
+The workers fired by Rockstar Games in an alleged 'union-busting' move last autumn have asked people concerned not to boycott the upcoming release of Grand Theft Auto 6 . Read more
+
+### Battlefield 6 is hosting a free trial, just in time for Call of Duty: Modern Warfare 4's beta
+Tue, 18 Aug 2026 11:54:47 +0000 — https://www.eurogamer.net/battlefield-6-free-trial-call-of-duty-modern-warfare-4-beta
+
+Battlefield 6 's latest free trial kicks off today alongside Season 4's mid-season update, and while that mightn't be especially notable in itself, the timing is moreso: it coincides with Call of Duty: Modern Warfare 4's highly anticipated, and stuffed, beta . Read more
 
 ### Resident Evil Requiem's Grace Ashcroft actor reportedly replacing Jennifer English as lead of lavish Chinese action game Tides of Annihilation
 Tue, 18 Aug 2026 10:16:27 +0000 — https://www.eurogamer.net/grace-ashcroft-actor-replacing-jennifer-english-tides-of-annihlation
@@ -52,27 +62,37 @@ Mon, 17 Aug 2026 14:58:18 +0000 — https://www.eurogamer.net/sony-ps6-internal-
 
 We already know that console manufacturing is being heavily impacted by the on-going component shortage , driven by the proliferation of AI datacenters, the war in Iran, and accusations of price fixing . It turns out that these factors are putting so much pressure on console manufacturers that Sony hasn't even got a release date for the PlayStation 6 internally. Read more
 
-### Spider-Man is looking exceptionally strong in Marvel Tōkon: Fighting Souls
-Mon, 17 Aug 2026 13:59:42 +0000 — https://www.eurogamer.net/marvel-tokon-fighting-souls-spider-man-ceo
-
-Since its release, people have been throwing themselves at Marvel T&omacr;kon: Fighting Souls. Much debate has been had around who are the strongest characters in the base roster, but now that the game's first big tournament has concluded, we may have an early answer. Read more
-
-### Filling Big Walk with people who had no one to play with demonstrated how deceptively profound it can be
-Mon, 17 Aug 2026 13:38:16 +0000 — https://www.eurogamer.net/big-walk-with-strangers-profound-optimism-week
-
-Suddenly, I'm alone. Where there was once cacophonous sound all around me, now there is none. Where there were once blobby people with sausage noses waggling their Playdough arms all around me, now there are none. All I see is a forest rapidly darkening, and all I hear is the sound of nothing, beating like the sound of my heartbeat in my ears. The contrast is unnerving. Where has my pack of people gone? I don't want to be on my own. Read more
-
 ## GamesIndustry.biz
+
+### Gamescom 2026 sets new record as number of country pavilions increases by 25%
+Tue, 18 Aug 2026 14:15:40 +0000 — https://www.gamesindustry.biz/gamescom-2026-sets-new-record-as-number-of-country-pavilions-increases-by-25
+
+With Gamescom 2026 less than a week away, the event will host nearly 50 pavilions from 40 countries, up 25% and 14% over 2025, respectively. Read more
+
+### Three Epic veterans are building an AI-powered game engine to break the industry's doom cycle
+Tue, 18 Aug 2026 13:32:01 +0000 — https://www.gamesindustry.biz/three-epic-veterans-are-building-an-ai-powered-game-engine-to-break-the-industrys-doom-cycle
+
+Unity and Unreal have dominated the development scene for a long time now, and were used to make roughly 70% of the games released on Steam in 2025 . Godot has seen some significant growth in the past few years , and many big companies still favour proprietary engines &ndash; like Capcom with its RE Engine &ndash; but otherwise, Unity and Unreal have got the game engine market sewn up. Read more
+
+### Bain & Co: Research shows only one in five players seek out new titles
+Tue, 18 Aug 2026 13:00:00 +0000 — https://www.gamesindustry.biz/bain-co-research-shows-only-one-in-five-players-seek-out-new-titles
+
+Global gaming software revenue has grown at a compound annual rate of 3% over the past four years and is expected to continue at this pace for the next four years. But two-thirds of players prefer familiar games or sequels, and only one in five seek new titles. Read more
+
+### Deus Ex creator Warren Spector announces retirement – "it's time to ride off into the sunset"
+Tue, 18 Aug 2026 12:08:03 +0000 — https://www.gamesindustry.biz/deus-ex-creator-warren-spector-announces-retirement-its-time-to-ride-off-into-the-sunset
+
+Deus Ex creator Warren Spector has announced his retirement after over forty years in game development. Read more
 
 ### Save the Children announces its first game and streaming fundraising event called Save Point
 Tue, 18 Aug 2026 08:53:12 +0000 — https://www.gamesindustry.biz/save-the-children-announces-its-first-game-and-streaming-fundraising-event-called-save-point
 
 This Christmas, Save the Children will launch is first game and streaming fundraiser called Save Point. Read more
 
-### GYLD closes oversubscribed $1m seed round to fund proprietary games research system
-Tue, 18 Aug 2026 07:00:00 +0000 — https://www.gamesindustry.biz/gyld-closes-oversubscribed-1m-seed-round-to-fund-proprietary-games-research-system
+### GYLD raises $1m to fund proprietary games research system that marked Clair Obscur as a potential hit
+Tue, 18 Aug 2026 07:00:00 +0000 — https://www.gamesindustry.biz/gyld-raises-1m-to-fund-proprietary-games-research-system-that-marked-clair-obscur-as-a-potential-hit
 
-Games publishing and investment agency GYLD has closed an oversubscribed $1 million seed round to support its proprietary games research system, Critical Compass. Read more
+Games publishing and investment agency GYLD has raised $1 million in funding to support its proprietary games research system Critical Compass. Read more
 
 ### The Hollywood disruptors making a large-scale game with a 12-person team – and no generative AI
 Mon, 17 Aug 2026 17:43:23 +0000 — https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai
@@ -99,6 +119,36 @@ Matchmaking platform Sail.game is introducing a free tier for PC and console gam
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Tekken 8 s Former Director Rejoins Harada at His New SNK Fighting Game Studio
+Tue, 18 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/tekken-8s-former-director-rejoins-harada-at-his-new-snk-fighting-game-studio
+
+Getting the band back together. You may recall that the Tekken 8 development team has lost a couple of heavyweights in recent times, following on from ongoing struggles to manage the fighting game in the months after its launch. The most notable departure was that of Katsuhiro Harada , a producer and director that's been involved with the legendary series since its inception. Read the full article on pushsquare.com
+
+### PS5 s Most Promising Anime Open World Will Re-Emerge Next Week
+Tue, 18 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps5s-most-promising-anime-open-world-will-re-emerge-next-week
+
+Another reason to tune in to Gamescom Opening Night Live. It still boggles my mind that I’ve gone hands-on with Ananta , NetEase’s wildly ambitious anime open world. The free-to-play effort – planned for PS5 – is one of the most extraordinary productions I’ve played in recent memory , blending a dizzying array of different gameplay elements. (A recent closed beta even confirmed a soccer minigame.) Read the full article on pushsquare.com
+
+### Braid, The Witness Dev s Massive New Puzzle Game Comes to PS5 in October
+Tue, 18 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/08/braid-the-witness-devs-massive-new-puzzle-game-comes-to-ps5-in-october
+
+Order of the Sinking Star dated. If you've been wondering what comes next from the team behind Braid and The Witness , the answer is a vast puzzle game named Order of the Sinking Star , which has been in the works for 10 years. It was announced for PS5 just a few weeks ago, but publisher Arc Games and developer Thekla have now revealed the game's release date: 8th October, 2026. Read the full article on pushsquare.com
+
+### 7 PS Plus Extra, Premium Game Removals for September 2026 Confirmed
+Tue, 18 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/7-ps-plus-extra-premium-game-removals-for-september-2026-confirmed
+
+Say goodbye to Toy Story and Shadowrun. Your latest lineup of PS Plus Extra and PS Plus Premium games is available now (or just some of them if you live in the UK, USA, or Japan), which is also the signal for next month's selection of PS Plus game removals to be confirmed. There are seven titles due for removal on 15th September 2026, and the list also happens to include some games on PS Plus Premium, which is rare for these removal lists. Here's what's leaving: Read the full article on pushsquare.com
+
+### Trails in the Sky 1st Chapter Gets Surprise PS5 Patch, Hardcore Fans Celebrate Changes
+Tue, 18 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/trails-in-the-sky-1st-chapter-gets-surprise-ps5-patch-hardcore-fans-celebrate-changes
+
+Coming to terms. You'll never hear me say a bad word about Trails in the Sky 1st Chapter — it's a truly excellent remake and RPG in general — but it did ship with one undeniable issue. Indeed, the game's English localisation was just a little bit off. Certain terms that were established in other Trails games were essentially reworked with more literal translations, leading to discrepancies in the script. Read the full article on pushsquare.com
+
+### Review: Mortal Shell 2 (PS5) - An Ingeniously Playful Take on the Dark Souls Formula
+Tue, 18 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/reviews/ps5/mortal-shell-2
+
+A soulslike with shotguns. Mortal Shell 2 is an expanded soulslike sequel that packs a lot into a focused experience. It took me just 30 hours to roll credits, but across that time I explored multiple biomes, fought dozens of bosses, and delved into an abundance of dungeons. From the outset, I think there's so much about Mortal Shell 2 that feels like your standard soulslike fare. You have tough combat, an interconnected maze of a setting, and a hands-off approach. But the game has some sparks of ingenuity sprinkled across it all that really elevate the experience. Read the full article on pushsquare.com
 
 ### Feature: 50+ PS5, PS4 Games to Buy in PS Store s Ready, Set, Play Sale (North America/Europe)
 Tue, 18 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-ready-set-play-sale-north-americaeurope
@@ -130,36 +180,6 @@ Mon, 17 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/sonys-
 
 "Discs used to happen on PS5". It's now been well over a month since Sony's shock announcement , in which it confirmed that it would no longer be manufacturing discs for PlayStation platforms starting from January 2028. The immediate backlash was strong to say the least, and although the outrage has certainly started to dissipate across the last few weeks, Sony's numerous social media accounts are still being bombarded with criticism, regardless of what the company's posting about. Read the full article on pushsquare.com
 
-### Review: The Sinking City 2 (PS5) - An Admirable Resident Evil-Lite Experience
-Mon, 17 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/reviews/ps5/the-sinking-city-2
-
-Bring Her Back. For over a decade now, the Ukrainian developer Frogwares has been expanding and improving its Mind Palace mechanic. A feature that connects clues and forms conclusions, it’s spearheaded all the recent Sherlock Holmes games and The Sinking City — a solid set of investigative titles. It’s probably what the studio is best known for, so to throw most of that work out and go in a new direction for The Sinking City 2 represents a bold move. Read the full article on pushsquare.com
-
-### You ll Never Play This Cancelled Star Wars Action RPG, Appearing Online Following Studio Closure
-Mon, 17 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/youll-never-play-this-cancelled-star-wars-action-rpg-appearing-online-following-studio-closure
-
-Codename Magellan. It's a bit scary to think about, but there must be dozens of dream game projects that get shut down each year that we'll simply never know about. In a rare example of an unannounced, cancelled game becoming public knowledge, it's emerged that Echtra Games, closed in 2025, was working on a big Star Wars action RPG, alongside the developer of Star Wars: Hunters . Read the full article on pushsquare.com
-
-### Sony Still Hasn t Decided When to Launch PS6, Says CEO
-Mon, 17 Aug 2026 12:45:00 GMT — https://www.pushsquare.com/news/2026/08/sony-still-hasnt-decided-when-to-launch-ps6-says-ceo
-
-When will PS6 come out? Many PlayStation players will tell you that the PS5 generation feels like it's barely gotten started, but we're nearly six years in; traditionally, the next console should be on the horizon. Apparently, though, it might not be as close as you'd expect. Read the full article on pushsquare.com
-
-### Guide: When Is Gamescom Opening Night Live 2026?
-Mon, 17 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/guides/when-is-gamescom-opening-night-live-2026
-
-Dates, times, and what to expect. When is Gamescom Opening Night Live 2026? It's that time once again, when Geoff Keighley awakens for his second annual show of the year: Gamescom Opening Night Live, getting the massive German expo started with a bang. What are all the details, then? When exactly can you tune in to watch the show, and what's gonna be there? In this guide, we're providing you with all the details you need before the showcase begins. Read the full article on pushsquare.com
-
-### No Sony Characters in Fortnite s Big Gaming Celebration Season
-Mon, 17 Aug 2026 06:00:00 GMT — https://www.pushsquare.com/news/2026/08/no-sony-characters-in-fortnites-big-gaming-celebration-season
-
-Arriving on 20th August. Fortnite’s big gaming celebration season arrives this week, on 20th August – but there’ll be no Sony characters involved. While the platform holder has shared Kratos and Aloy with the title in the past, neither feature at all in this trailer for Override. Read the full article on pushsquare.com
-
-### Until Dawn s Hayden Panettiere Tragically Passes Away Aged Just 36
-Mon, 17 Aug 2026 05:30:00 GMT — https://www.pushsquare.com/news/2026/08/until-dawns-hayden-panettiere-tragically-passes-away-aged-just-36
-
-"She was an incredible light". Hayden Panettiere, best known for shows like Heroes and Nashville , has tragically passed away aged just 36-years-old. The US actress will be remembered among PlayStation fans for her role in PS4 horror game Until Dawn , alongside other high-profile stars like Rami Malek. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Roblox being investigated by U.S. Senate after reporting 65,381 instances of suspected child abuse in 2025
@@ -167,7 +187,7 @@ Tue, 18 Aug 2026 10:22:11 GMT — https://www.gamedeveloper.com/business/roblox-
 
 'Let us be clear: children on your platform are hurting. Congress will not look the other way.'
 
-### Arco breaks even after topping 100,000 sales in two years
+### Arco tops 100,000 sales in two years and breaks even
 Tue, 18 Aug 2026 09:28:08 GMT — https://www.gamedeveloper.com/business/arco-breaks-even-after-topping-100-000-sales
 
 One member of the development team described the achievement as 'incredible.'

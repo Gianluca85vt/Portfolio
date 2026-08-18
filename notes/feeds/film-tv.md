@@ -1,110 +1,135 @@
-# Film & TV — harvested 2026-08-18T11:01:07.764Z
+# Film & TV — harvested 2026-08-18T14:16:21.251Z
 
 ## Variety
 
-### Oscars: Taiwan Selects A Foggy Tale for International Feature Race
-Tue, 18 Aug 2026 10:54:33 +0000 — https://variety.com/2026/film/awards/oscars-taiwan-a-foggy-tale-international-feature-1236837005/
+### Nonprofit Production Waterwell Doubles Funding for Unseen Iran Grants to Artists Representing the Diaspora in Film, TV, Theater and More
+Tue, 18 Aug 2026 14:05:00 +0000 — https://variety.com/2026/biz/news/arian-moayed-unseen-iran-grants-waterwell-nimruz-1236836821/
 
-A Foggy Tale, directed by Chen Yu-hsun, has been selected to represent Taiwan in the best international feature film category at the 99th Academy Awards, Taiwan s Ministry of Culture has revealed. The film was chosen from seven domestic submissions by majority vote. The selection committee praised the film for its vivid characters, smooth narrative and [ ]
+Nonprofit production venture Waterwell, co-founded by Succession player Arian Moayed, and nonprofit Nimruz has doubled the funding for their program of Unseen Iran Grants now in its second cycle. Funding for the grant program has grown to $100,000 to supporting 10 artists representing the Iranian diaspora with TV, film, theater and creative projects in other [ ]
 
-### Diego Luna on Challenging How Migrants Are Viewed With Ashes : We’re Not Thinking About What They Left Behind
-Tue, 18 Aug 2026 10:45:58 +0000 — https://variety.com/2026/film/global/diego-luna-ashes-sarajevo-1236836130/
+### Madonna Leads VMAs Nominations With 11, Followed by Taylor Swift, Sabrina Carpenter, Ariana Grande
+Tue, 18 Aug 2026 14:01:44 +0000 — https://variety.com/2026/music/news/madonna-leads-vmas-nominations-taylor-swift-1236837092/
 
-Between conducting a masterclass and attending an open-air screening of his fourth directorial feature, “Ashes,” Diego Luna dropped by the Variety Lounge presented by the Sarajevo Film Festival and BH Telecom to chat about his first time in the Bosnian capital. The Mexican actor-director-producer, who broke out in Alfonso Cuaron’s “Y Tu Mama Tambien” and [ ]
+It s no time warp — Madonna leads all other divas in nominations for the 2026 MTV Video Music Awards, with 11 nods, it was announced Tuesday morning. She s followed by Taylor Swift, with nine nominations, and Ariana Grande and Sabrina Carpenter, with seven each. Others with multiple shots at a Moon Person (as the awards [ ]
 
-### Hayden Panettiere s Ex Wladimir Klitschko Remembers Her Immense Talent While Also Facing the Darker Sides of the Industry: She Left This World Far Too Soon
-Tue, 18 Aug 2026 09:36:40 +0000 — https://variety.com/2026/film/news/hayden-panettiere-ex-wladimir-klitschko-mourns-immense-talent-1236836976/
+### Digital Media Veteran Adam Boorstin Joins MrBeast s WatchTime Studios as General Manager
+Tue, 18 Aug 2026 14:01:00 +0000 — https://variety.com/2026/digital/news/adam-boorstin-mrbeast-watchtime-studios-studio71-1236836946/
 
-Hayden Panettiere s ex Wladimir Klitschko, who is the father of her 11-year-old daughter Kaya, is mourning the actress following her death on Sunday at the age of 36. In an Instagram post late Monday night, the heavyweight boxing champion wrote that his family is going through a time of profound shock and grief. He continued: [ ]
+Digital media veteran Adam Boorstin has joined Beast Industries WatchTime Studios as general manager overseeing the production of original content in a range of genres for various platforms. Boorstin joined the company earlier this month after a 10-year run with Studio71, a cutting-edge digital services provider that helps creators scale their content across disparate platforms. [ ]
 
-### Croatian Crime Drama Red Water, Directed by Cannes Prizewinner Antoneta Alamat Kusijanovic, to Be Co-Produced by ZDF/Arte, Beta Film (EXCLUSIVE)
-Tue, 18 Aug 2026 09:31:39 +0000 — https://variety.com/2026/tv/global/red-water-antoneta-alamat-kusijanovic-zdf-arte-beta-film-1236836971/
+### Bluey Leads as Australia s Screen and Games Sector Hits $7.9 Billion, Study Finds
+Tue, 18 Aug 2026 14:01:00 +0000 — https://variety.com/2026/film/news/bluey-screen-australia-study-1236836967/
 
-Beta Film has teamed up with ZDF/Arte and Antitalent to co-produce the Croatian crime drama “Red Water,” winner of the 2025 Council of Europe Series Co-Production Development Award at the Sarajevo Film Festival’s CineLink Industry Days. “Red Water,” a six-hour series, is based on Jurica Pavičić’s bestselling novel of the same name, which ranked among [ ]
+Australia s screen and games sector contributed AUD11.1 billion ($7.9 billion) to the economy in gross value added in fiscal year 2023/24 and directly employed 68,844 people in FY 2024/25, according to Screen Currency 2026, a landmark Screen Australia study. The report singles out Bluey as the country s most effective cultural export, citing the children s series [ ]
 
-### Sundance Breakout Thelma Set for Mandarin Remake by Stars Collective, Titled Grandma, Please (EXCLUSIVE)
-Tue, 18 Aug 2026 08:11:15 +0000 — https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/
+### Nicolas Altmayer, Beloved French Producer Behind ‘OSS 117,’ and Dior Executive Mathilde Favier Die in Car Crash
+Tue, 18 Aug 2026 13:59:21 +0000 — https://variety.com/2026/film/global/nicolas-altmayer-dead-car-crash-mathilde-favier-1236837104/
 
-Stars Collective has acquired the Mandarin-language remake rights to Thelma, the 2024 Sundance Film Festival breakout that became Magnolia Pictures highest-grossing narrative feature, and is developing an adaptation titled Grandma, Please. In Grandma, Please, an 80-year-old grandmother is swindled out of her life savings by a scammer who uses AI to clone her late husband s [ ]
+Nicolas Altmayer, the prolific French producer behind the “OSS 117” franchise and films by François Ozon, Bertrand Bonello and Julia Ducournau, and his partner Mathilde Favier, a prominent Dior public relations executive, died Monday in a car accident in western France. Altmayer was 61 and Favier was 57. The couple were killed at around 4 [ ]
 
-### Spider-Man: Brand New Day, The Odyssey Continue Tussle Atop U.K., Ireland Box Office
-Tue, 18 Aug 2026 06:54:02 +0000 — https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/
+### War Child U.K. Kicks Off Secret 7 Record Auction, Featuring Tracks From John Lennon, the Last Dinner Party, Glass Animals and More
+Tue, 18 Aug 2026 13:43:05 +0000 — https://variety.com/2026/music/global/war-child-uk-secret-7-record-auction-1236837039/
 
-Sony s superhero tentpole Spider-Man: Brand New Day dominated the U.K. and Ireland box office for a third consecutive weekend, adding £6.1 million ($8.3 million), elevating its running total to $106.5 million after 20 days of release. Universal s epic The Odyssey held onto second place in its fifth frame. Directed by Christopher Nolan, the wide release [ ]
+War Child U.K. has officially kicked off the 10th edition of its Secret 7 record auction, featuring 700 sleeves designed by world-renowned artists and tracks from John Lennon, the Last Dinner Party, Glass Animals and more. Each record contains a mystery song printed onto 7 vinyl, packaged inside a sleeve designed using the music as [ ]
 
-### Rosie O’Donnell Shines in ‘Jimmy Kimmel Live’ Hosting Debut, Attacks ‘Mango Mussolini’ Trump and Gives Moving Hayden Panettiere Tribute
-Tue, 18 Aug 2026 04:25:27 +0000 — https://variety.com/2026/tv/news/rosie-o-donnell-hosts-jimmy-kimmel-live-slams-trump-1236836907/
+### Oasis Documentary Trailer Takes Fans Behind the Scenes of Band’s Dramatic Reunion: ‘Will It Fall Apart Again?’
+Tue, 18 Aug 2026 13:33:17 +0000 — https://variety.com/2026/film/global/oasis-documentary-trailer-dont-look-back-in-anger-1236837083/
 
-When Jimmy Kimmel announced that Rosie O’Donnell would be filling in as a week-long guest host of “Jimmy Kimmel Live” during his summer vacation, he teased it would be “a special treat” for Donald Trump, who’s harbored a 20-year-long vendetta against the comic for her mocking his bankruptcies on “The View” back in 2006. O’Donnell [ ]
+The Gallagher brothers get reflective, philosophical and, less unexpectedly, foul-mouthed in the first trailer for Oasis documentary Oasis: Don t Look Back in Anger. The way it finished unacceptable it didn t sit right with me, says Liam Gallagher in the opening moments. I just don t see myself on stage with Liam, adds Noel Gallagher. [ ]
 
-### Vin Diesel Says Fast Forever Starts Shooting in December
-Tue, 18 Aug 2026 04:20:59 +0000 — https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/
+### Toxic Season 2, Hosted by Elizabeth Chambers, Sets Investigation Discovery Premiere Date, Unveils First Trailer (EXCLUSIVE)
+Tue, 18 Aug 2026 13:30:00 +0000 — https://variety.com/2026/tv/news/toxic-season-2-trailer-elizabeth-chambers-id-series-premiere-date-1236834163/
 
-Vin Diesel says filming for “Fast Forever” has a start date. “We start shooting in December, if I can make good on the request from the studio,” Diesel told Variety Monday night at the 25th anniversary screening of “The Fast and the Furious.” “I’m in a good place, though. I had to go through four [ ]
+Season 2 of Toxic, the Elizabeth Chambers-hosted true crime series that explores poisonous romantic relationships and the trauma they cause, will premiere on Investigation Discovery on Sept. 15. According to ID s announcement, the series will continue doing what it does best, following Chambers as she speaks with survivors of toxic relationships, domestic abuse, and intimate [ ]
 
-### Michelle Rodriguez Remembers Hayden Panettiere After Co-Hosting World Music Awards: Can t Stand How Many Young People Are Leaving Us Lately
-Tue, 18 Aug 2026 03:35:12 +0000 — https://variety.com/2026/film/news/michelle-rodriguez-hayden-panettiere-world-music-awards-1236836885/
+### Craig Carton to Launch New Show on Fox s Outkick
+Tue, 18 Aug 2026 13:30:00 +0000 — https://variety.com/2026/tv/news/craig-carton-launch-show-outkick-fox-1236836871/
 
-Michelle Rodriguez is sharing her memories of Hayden Panettiere after the “Scream 4” star died at age 36 on Sunday. Rodriguez and Panettiere co-hosted the World Music Awards back in 2010. When asked what she remembers about Panettiere while walking the carpet at the 25th anniversary screening of “The Fast and the Furious,” Rodriguez told [ ]
+Craig Carton, the longtime sportscaster best known, perhaps, for his stints on New Yorks WFAN, will join Fox s Outkick sports-media outlet, hosting a new three-days-a-week program for a national audience. The Craig Carton Show will launch on September 8, with new episodes debuting Mondays, Wenesdays and Fridays. The new program will feature Carton’s unique take on [ ]
 
-### Jeanie Buss Seeks to Contest Sale of Los Angeles Lakers to Bob Iger and Josh Kushner: Report
-Tue, 18 Aug 2026 03:22:15 +0000 — https://variety.com/2026/tv/news/jeanie-buss-lakers-sale-bob-iger-josh-kushner-1236836879/
+### Edinburgh Film Festival Competition Directors on the Craziest, Most Challenging Moments Making Their First Features and Why They Can’t Wait to Do It Again: ‘It’s an Addiction’
+Tue, 18 Aug 2026 13:00:23 +0000 — https://variety.com/2026/film/global/edinburgh-film-festival-competition-director-variety-lounge-1236836981/
 
-Jeanie Buss, the Los Angeles Lakers owner who has been the face of the team since the death of her father Jerry Buss in 2013, is reportedly contesting the plan approved by her siblings to sell the family s remaining 18% stake in the storied NBA franchise to investors Bob Iger and Josh Kushner. ESPN and [ ]
+The chaos, hard graft and — ultimately — privileged thrill of feature filmmaking were the central themes of conversation at the Variety Lounge at Edinburgh International Film Festival as the rising directors in official competition sat down to discuss their craft. Supported by VisitScotland and held in Edinburgh’s historic Caledonian Hotel, the Variety Lounge welcomed the 11 [ ]
 
 ## The Hollywood Reporter
+
+### Madonna, Taylor Swift Lead 2026 VMA Nominations
+Tue, 18 Aug 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/music/music-news/2026-vmas-nominations-madonna-taylor-swift-lead-1236675785/
+
+Madonna earned 11 nominations, while Swift got nine, and Sabrina Carpenter and Ariana Grande are tied for third with seven each.
+
+### Culinary Talent Eitan Bernath Signs With CAA (Exclusive)
+Tue, 18 Aug 2026 13:51:51 +0000 — https://www.hollywoodreporter.com/business/business-news/eitan-bernath-signs-caa-1236675999/
+
+He has around 10 million social media followers and regularly appears on ‘The Drew Barrymore Show.’
+
+### Hayden Panettiere Was Really Lonely While Filming Final Movie, Co-Star Says
+Tue, 18 Aug 2026 13:45:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-final-movie-1236675982/
+
+Justin Chatwin says the late actress was "struggling" on the set of her last film.
+
+### A Ghost From the Past Returns in New ‘Slow Horses’ Season 6 Trailer
+Tue, 18 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/slow-horses-apple-drops-season-6-trailer-1236675838/
+
+As anyone associated with Slough House is seemingly marked for death, a character who was believed to be dead appears in the flesh.
+
+### ABC Sues FCC Over Threats to Broadcast Licenses In First Amendment Case
+Tue, 18 Aug 2026 12:59:14 +0000 — https://www.hollywoodreporter.com/tv/tv-news/abc-sues-fcc-free-speech-broadcast-licenses-1236675974/
+
+The FCC called the Disney-owned network's eight broadcast licenses in for an early renewal earlier this year and has challenged 'The View.'
+
+### Peacock Reveals Another Price Hike After NBCU Streamer s First Profitable Quarter
+Tue, 18 Aug 2026 12:27:46 +0000 — https://www.hollywoodreporter.com/business/business-news/peacock-price-hike-nbcuniversal-2-1236675963/
+
+Subscription rates for new and returning customers are on the way up, again, after the studio's marquee streaming platform recently posted its first quarterly profit.
+
+### How to Change the World, Exec Produced by Mark Cuban, Puts Spotlight on Social Entrepreneurs (Exclusive)
+Tue, 18 Aug 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/how-to-change-the-world-youtube-series-mark-cuban-1236675908/
+
+The 10-episode series from World Within Studios, in partnership with Religion of Sports, will premiere on YouTube in September and feature such expert voices as former Starbucks CEO Howard Schultz.
+
+### Ice Princess Director Pays Tribute to Hayden Panettiere, Michelle Trachtenberg: Two Shining Talents, Gone Far Too Soon
+Tue, 18 Aug 2026 11:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-michelle-trachtenberg-ice-princess-homage-1236675943/
+
+Tim Fywell ('Happy Valley', 'The No. 1 Ladies' Detective Agency') remembers the "amazing pair."
+
+### I Don t Believe Cinema Is Dying : Asghar Farhadi on War, Hope and Receiving Sarajevo s Most Prestigious Honor
+Tue, 18 Aug 2026 11:05:10 +0000 — https://www.hollywoodreporter.com/movies/movie-features/asghar-farhadi-director-film-war-iran-sarajevo-interview-1236675940/
+
+The Oscar winner talks to The Hollywood Reporter at the Sarajevo Film Festival about his next film – and why the people of his native Iran deserve more than conflict: "I love them, I love that culture."
 
 ### BBC, A24 s The Ministry of Time Series Casts Aoife Hinds, Billy Howle as Leads
 Tue, 18 Aug 2026 10:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bbc-a24-the-ministry-of-time-series-aoife-hinds-billy-howle-1236675923/
 
 The 'Dune: Prophecy' and 'The Perfect Couple' actors will star in the six-part show based on Kaliane Bradley’s bestselling novel, which has been adapted by Alice Birch ('Normal People').
 
-### Hayden Panettiere s Ex Wladimir Klitschko Speaks Out: She Left This World Far Too Soon
-Tue, 18 Aug 2026 09:36:49 +0000 — https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-dead-wladimir-klitschko-tribute-1236675913/
-
-The boxer and the late actress were a couple from 2009 to 2018 and had a child together.
-
-### Scream 4 Casting Director Recalls Hayden Panettiere s Fierce Warrior Nature Helping Her Land Role
-Tue, 18 Aug 2026 02:04:11 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-scream-4-casting-director-tribute-death-1236675810/
-
-"The world is losing a very talented actress and beautiful soul," Nancy Nayor tells The Hollywood Reporter of the actress who died Sunday at age 36.
-
-### Tupac Murder Trial Begins as Prosecution Calls Rapper s Death An Act of Revenge
-Tue, 18 Aug 2026 01:24:20 +0000 — https://www.hollywoodreporter.com/music/music-news/tupac-murder-trial-begins-opening-statements-1236675547/
-
-Thirty years after Shakur's death, Duane "Keffe D" Davis is on trial in Las Vegas on claims he orchestrated his murder.
-
-### Hayden Panettiere s Talent Never Got the Next Chapter It Deserved
-Tue, 18 Aug 2026 01:20:09 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/hayden-panettiere-critic-appreciation-heroes-nashville-1236675569/
-
-'Heroes' and 'Nashville' let the actress evolve from precocity to maturity, but her personal struggles left that journey incomplete.
-
-### Lisa Kudrow on Watching Friends After Matthew Perry s Death, Romy Michele Sequel and Why The Comeback May Be Highlight of Her Career
-Tue, 18 Aug 2026 01:10:11 +0000 — https://www.hollywoodreporter.com/tv/tv-news/lisa-kudrow-friends-romy-michele-sequel-the-comeback-interview-1236675072/
-
-Twenty-eight years after becoming the first 'Friends' star to win an Emmy, the beloved actress/writer is poised to take home another one — or two — having been nominated for acting and writing on the third and final season of her HBO comedy series.
-
-### Witney Carson Answers Burning DWTS Questions After Pregnancy Announcement, Chats Next Pro
-Tue, 18 Aug 2026 01:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/witney-carson-dwts-pregnancy-next-pro-interview-1236674489/
-
-The pro dancer revealed on Monday morning that she is pregnant and returning for season 35. In conversation with THR, she details her plans for navigating her pregnancy while competing and why she surprisingly loved guest judging on the dancing spinoff.
-
-### Details of Amazon’s ‘Melania’ Followup Begin to Emerge
-Tue, 18 Aug 2026 00:55:01 +0000 — https://www.hollywoodreporter.com/tv/tv-news/amazon-melania-followup-1236675598/
-
-The director of the original film, Brett Ratner, said that two new docuseries “chapters” are forthcoming to the platform.
-
-### The Drop Trailer Sees Snowfall Characters Go After New Gold Rush of West Coast Rap
-Tue, 18 Aug 2026 00:14:54 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-drop-snowfall-spinoff-trailer-wanda-leon-west-coast-rap-1236675808/
-
-'Snowfall' alums Wanda (Gail Bean) and Leon (Isaiah John) try to reinvent themselves in '90s Los Angeles in the new FX series, set to premiere on Sept. 8 on FX and Hulu.
-
-### Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic
-Mon, 17 Aug 2026 23:46:30 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/round-hill-files-lawsuits-against-suno-anthropic-1236675713/
-
-"There is simply nothing fair about a company using theft to build for purely commercial purposes a multi-billion dollar business while those from which they steal receive nothing," Round Hill said.
-
 ## Deadline
+
+### Elle Star Jacob Moskovitz To Play Marlon Brando In Chicago Presentation Of Kowalski
+Tue, 18 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/elle-jacob-moskovitz-marlon-brando-kowalski-1237043872/
+
+EXCLUSIVE: Jacob Moskovitz, star of Prime Video s Elle, is joining the cast of Kowalski as Marlon Brando. Moskovitz will join Johnny Galecki as Tennessee Williams in the Gregg Ostrin play directed by Colin Hanlon. The play will run from September 15 through October 25 at Chicago s Lookingglass Theatre Company at the historic Water Tower Water [ ]
+
+### Jackson Lamb s Team Hunted Like Prey In Slow Horses Season 6 Trailer; Olivia Cooke Returns
+Tue, 18 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/slow-horses-season-6-trailer-olivia-cooke-returns-1237043997/
+
+The Slough House gang are on the run in the trailer for Slow Horses Season 6. A new trailer for darkly comic Apple TV spy thriller shows Jack Lamb s (Gary Oldman) team embroiled in Diana Taverner s (Kristin Scott Thomas) fatal high-stakes game of retaliation and revenge. I cannot emphasize this enough: Stay dark, yeah? No [ ]
+
+### 22nd Camden Film Festival To Showcase New Work By Documentary’s Leading Lights: Gibney, Kopple, Oppenheimer, Chin, Vasarhelyi, Poitras More
+Tue, 18 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/camden-film-festival-2026-lineup-announcement-1237044032/
+
+EXCLUSIVE: The 22nd edition of the Camden International Film Festival will feature some of the biggest names in documentary film and some of the most hotly anticipated titles. The prestigious cinematic event in mid-coast Maine, running September 17-20, revealed its lineup Tuesday. The slate boasts Oscar winner Alex Gibney with his documentary Musk, about the [ ]
+
+### ABC Files First Amendment Lawsuit Against FCC, Claiming Trump Administration Retaliatory Campaign Against Its Free Speech
+Tue, 18 Aug 2026 12:13:50 +0000 — https://deadline.com/2026/08/abc-sues-fcc-first-amendment-lawsuit-1237044059/
+
+UPDATED: ABC filed an unprecedented First Amendment lawsuit against the FCC on Tuesday, claiming that its investigations and regulatory actions are part of a Trump administration retaliatory campaign to curb the network s free speech. The lawsuit, filed in federal court in Washington, D.C., also seeks to halt a proceeding in which the agency and its [ ]
+
+### One Hundred Years Of Solitude Stars On Adapting García Márquez s Impossible Novel; Watch The Finale Trailer
+Tue, 18 Aug 2026 12:05:00 +0000 — https://deadline.com/2026/08/100-years-of-solitude-finale-cast-trailer-netflix-1237044029/
+
+EXCLUSIVE: Cast members including iconic Colombian star Margarita Rosa de Francisco came on board Part Two of Netflix’s 100 Years Of Solitude, and with the finale of the epic adaptation about to launch, several of the stars who appear in the series-closing episode spoke exclusively to Deadline. We are also first with the trailer for [ ]
 
 ### Christopher Nolan s The Odyssey Becomes Biggest Film Ever At BFI IMAX
 Tue, 18 Aug 2026 10:00:44 +0000 — https://deadline.com/2026/08/the-odyssey-becomes-biggest-film-ever-at-bfi-imax-avatar-1237044031/
@@ -114,7 +139,7 @@ Christopher Nolan’s acclaimed epic The Odyssey is now the biggest film of all 
 ### Aoife Hinds Billy Howle To Lead BBC And A24 Series The Ministry Of Time
 Tue, 18 Aug 2026 10:00:00 +0000 — https://deadline.com/2026/08/ministry-of-time-casts-aoife-hinds-billy-howle-bbc-a24-1237044013/
 
-Aoife Hinds (Dune: Prophecy, Normal People) and Billy Howle (The Perfect Couple, Under the Banner of Heaven) will star in BBC and A24 fantasy series The Ministry of Time. Hinds will play Sophy and Howle will be Commander Graham Gore, with filming beginning in and around London, as we reported earlier this year. Further casting [ ]
+Aoife Hinds (Dune: Prophecy, Normal People) and Billy Howle (The Perfect Couple, Under the Banner of Heaven) will star in BBC and A24 drama series The Ministry of Time. Hinds will play Sophy and Howle will be Commander Graham Gore, with filming beginning in and around London, as we reported earlier this year. Further casting [ ]
 
 ### ‘Club Kid’ ‘The Man I Love’ Among Titles Added To San Sebastian Lineup
 Tue, 18 Aug 2026 09:47:21 +0000 — https://deadline.com/2026/08/club-kid-the-man-i-love-san-sebastian-2026-1237044028/
@@ -140,29 +165,4 @@ Following Connie Britton s heartfelt tribute to Hayden Panettiere, who died Sund
 Tue, 18 Aug 2026 01:15:00 +0000 — https://deadline.com/2026/08/lakers-iger-buss-family-stak-1237043368/
 
 UPDATE: So, maybe Bob Iger and Josh Kushner don t own 83% of the Los Angeles Lakers after all, or do they? It s crickets from the Thrive camp today as reps for Jeanie Buss contradicted a earlier assertion from the remaining offspring of Dr. Jerry Buss that it is time to use this opportunity to move [ ]
-
-### Spider-Man: Brand New Day Becomes Second-Fastest To Cross $2B WW Global Top 10 Box Office Update
-Tue, 18 Aug 2026 01:05:00 +0000 — https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-2-1237042050/
-
-Monday Update: Holy cow! Or whatever kind of Holy is yelled out in a comic book, but Sony/Marvel Studio s Spider-Man: Brand New Day crossed the $2 billion global mark, becoming the second-fastest movie to do so and the eighth movie to ever cross that benchmark. Brand New Day pulls off this feat in 17 days [ ]
-
-### Before She Hosts Primetime Emmy Awards, Mariska Hargitay Goes For Gold With Triple Nominee ‘My Mom Jayne’
-Tue, 18 Aug 2026 00:05:40 +0000 — https://deadline.com/2026/08/mariska-hargitay-interview-my-mom-jayne-1237043627/
-
-As Mariska Hargitay reflects on the past year in her life – a momentous one for the actress and filmmaker – a word comes to her mind to describe it: “cathartic.” She completed her 27th season starring as Capt. Olivia Benson on Law Order: SVU and in May made her Broadway debut in the [ ]
-
-### Kevin Macdonald On Capturing Pep Guardiola For Prime Video s A Beautiful Obsession : Like Having Robert De Niro Play A Football Coach
-Mon, 17 Aug 2026 23:01:00 +0000 — https://deadline.com/2026/08/kevin-macdonald-pep-guardiola-man-city-beautiful-obsession-1237014372/
-
-Pep playing himself is a bit like having Robert De Niro play a football coach. Those are the musings of Oscar-winning director Kevin Macdonald, who has just spent two years charting the exploits of Pep Guardiola and Manchester City for A Beautiful Obsession and yet had barely heard of Guardiola before he was brought on [ ]
-
-### Everything We Know About The Morning Show Season 5 So Far
-Mon, 17 Aug 2026 22:22:28 +0000 — https://deadline.com/feature/the-morning-show-season-5-news-updates-what-to-expect-1236760731/
-
-Season 5 of Apple TV’s The Morning Show has begun adding new faces to its already stacked cast. Season 4 left off with a major character and actress making their departures about midway through. Already, three names have been added to the mix of the news network world and beyond. For everything we know about [ ]
-
-### Everything We Know About The Gilded Age Season 4 So Far
-Mon, 17 Aug 2026 22:19:33 +0000 — https://deadline.com/feature/the-gilded-age-season-4-news-updates-everything-we-know-1236748421/
-
-The culture clash will continue in Season 4 of Julian Fellowes HBO period drama The Gilded Age, based on the turn-of-the-century time period in America that lasted between 1870 and 1900. Some familiar faces have been promoted to series regulars since Season 3, and some new faces are joining the cast to play big-name historical [ ]
 
