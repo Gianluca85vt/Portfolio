@@ -4,7 +4,6 @@ date: 2026-08-18
 category: Tech
 excerpt: A half-decade reverse-engineering project just hit 100 percent on GoldenEye 007's source code. Beyond the mod and port potential, it's a rare look at how Rare fit a whole level into memory nobody today would call generous.
 cover: /img/blog/goldeneye-007-decompiled-what-it-reveals/cover.svg
-draft: true
 ---
 
 A community reverse-engineering effort led by a contributor going by **KholdFuzion** hit
