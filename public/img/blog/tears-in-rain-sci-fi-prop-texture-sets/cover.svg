@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Four texture sets for one sci-fi hand-prop">
+  <defs>
+    <linearGradient id="bgTr" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#5A2200"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="accentTr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BE4C00"/>
+      <stop offset="100%" stop-color="#FFB07A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgTr)"/>
+
+  <!-- four stacked panels, one per texture set -->
+  <g fill="none" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="3">
+    <rect x="220" y="150" width="180" height="180"/>
+    <rect x="420" y="150" width="180" height="180"/>
+    <rect x="620" y="150" width="180" height="180"/>
+    <rect x="820" y="150" width="180" height="180"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="110" font-size="26" letter-spacing="8" fill="#FFFFFF" fill-opacity="0.5">METAL · GLASS · PLASTIC · WEAR</text>
+
+    <text x="600" y="470" font-size="160" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">4</text>
+    <text x="600" y="525" font-size="40" fill="#FFFFFF" fill-opacity="0.85"
+          letter-spacing="4">TEXTURE SETS</text>
+
+    <text x="600" y="600" font-size="44" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">ONE HAND-PROP</text>
+    <text x="600" y="645" font-size="24" fill="#FFFFFF" fill-opacity="0.6">Tears in Rain, sci-fi prop breakdown</text>
+  </g>
+
+  <rect x="500" y="690" width="200" height="8" rx="4" fill="url(#accentTr)"/>
+</svg>
