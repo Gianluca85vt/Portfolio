@@ -14,7 +14,6 @@ scoreSources:
   - { outlet: GamesRadar+, score: 8 }
   - { outlet: Cubed3, score: 7 }
   - { outlet: PC Gamer, score: 7 }
-draft: true
 ---
 
 **The Sinking City 2** launched on **18 August** for PC, PS5 and Xbox Series
