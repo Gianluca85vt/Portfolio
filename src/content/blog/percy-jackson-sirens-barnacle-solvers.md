@@ -4,7 +4,6 @@ date: 2026-08-19
 category: Film & TV
 excerpt: Storm Studios just walked FMX through how they built the Sirens for Percy Jackson and the Olympians season 2. The monster design is the easy part to talk about. The actual problem was keeping barnacles glued to a performing creature.
 cover: /img/blog/percy-jackson-sirens-barnacle-solvers/cover.svg
-draft: true
 ---
 
 Storm Studios, the Oslo VFX house behind effects work on *The Last of Us*,
