@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="A drawing made in 3D, ZBrush projection and PolyPaint">
+  <defs>
+    <linearGradient id="bgPk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#7A2A00"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="accentPk" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BE4C00"/>
+      <stop offset="100%" stop-color="#FFB07A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgPk)"/>
+
+  <!-- a sculpted head silhouette on the left, a flat inked panel on the right -->
+  <g fill="none" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="4">
+    <path d="M300 260 C 260 260 235 300 235 350 C 235 420 275 470 300 500 C 325 470 365 420 365 350 C 365 300 340 260 300 260 Z"/>
+  </g>
+  <g fill="#FFFFFF" fill-opacity="0.14">
+    <path d="M300 260 C 260 260 235 300 235 350 C 235 420 275 470 300 500 C 325 470 365 420 365 350 C 365 300 340 260 300 260 Z"/>
+  </g>
+
+  <g fill="none" stroke="#FFFFFF" stroke-opacity="0.85" stroke-width="6" stroke-linejoin="round">
+    <path d="M900 260 C 860 260 835 300 835 350 C 835 420 875 470 900 500 C 925 470 965 420 965 350 C 965 300 940 260 900 260 Z"/>
+  </g>
+  <path d="M900 260 C 940 260 965 300 965 350 C 965 400 940 445 915 480 L 900 500 L 900 260 Z" fill="#FFFFFF" fill-opacity="0.85"/>
+
+  <g stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="3">
+    <line x1="420" y1="380" x2="780" y2="380"/>
+    <path d="M770 365 L 790 380 L 770 395" fill="none"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="150" font-size="24" letter-spacing="6" fill="#FFFFFF" fill-opacity="0.5">SCULPT · PROJECT · POLYPAINT</text>
+
+    <text x="600" y="660" font-size="56" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">A DRAWING,</text>
+    <text x="600" y="725" font-size="56" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">MADE IN 3D</text>
+    <text x="600" y="775" font-size="26" fill="#FFFFFF" fill-opacity="0.65">Punk Knight, one artist, one app: ZBrush</text>
+  </g>
+
+  <rect x="500" y="815" width="200" height="8" rx="4" fill="url(#accentPk)"/>
+</svg>
