@@ -3,7 +3,7 @@ title: Sony still can't give PS6 a launch date, and the reason is a budget I rec
 date: 2026-08-19
 category: Tech
 excerpt: Sony's CEO says PS6 pricing and timing are still undecided because DRAM stays expensive through FY2027. For anyone who plans texture streaming pools for a living, that's not investor-call noise, it's the exact budget problem I run into on every environment.
-cover: /img/blog/ps6-memory-crisis-next-gen-art-budgets/cover.svg
+cover: /img/blog/ps6-memory-crisis-next-gen-art-budgets/shot-01.jpg
 draft: true
 ---
 
@@ -19,6 +19,11 @@ That is an unusually blunt thing for a console maker to say out loud, and I want
 it matters to me specifically, not just to anyone waiting on a preorder.
 
 ## The numbers behind the statement
+
+<figure>
+  <img src="/img/blog/ps6-memory-crisis-next-gen-art-budgets/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Wikimedia Commons, CC BY-SA</figcaption>
+</figure>
 
 Sony has said it has enough RAM secured to keep building PS5 units through **March 2027**. Next
 year's RAM production, separately, is already **entirely sold out**. That is the same DRAM
