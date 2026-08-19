@@ -4,7 +4,6 @@ date: 2026-08-19
 category: 3D
 excerpt: Scantic trains Gaussian splats on-device, no account, no upload, no wifi. It's not the first app to do this, and that's the actual story — offline capture just became the baseline, not the pitch.
 cover: /img/blog/phone-gaussian-splat-scanning-offline/cover.svg
-draft: true
 ---
 
 Saw this cross CGChannel this week: **Scantic**, a small Vienna-made iPhone app, scans a room or
