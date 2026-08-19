@@ -1,6 +1,41 @@
-# Film & TV — harvested 2026-08-19T08:07:18.716Z
+# Film & TV — harvested 2026-08-19T11:00:43.099Z
 
 ## Variety
+
+### Catherine Zeta-Jones Thriller Series Kill Jackie Sets October Release Date on Prime Video
+Wed, 19 Aug 2026 10:19:57 +0000 — https://variety.com/2026/tv/global/catherine-zeta-jones-kill-jackie-release-date-prime-video-1236838064/
+
+Catherine Zeta-Jones highly anticipated thriller series, Kill Jackie, has set a premiere date on Prime Video. The Fremantle and Steel Springs Pictures production will release all eight episodes Oct. 2 on the streamer in the U.K., Ireland, Netherlands, Turkey, Germany, Austria, Switzerland, Liechtenstein, Luxembourg and Canada. The series will air on AMC+ in the U.S. this [ ]
+
+### Hamaguchi Ryusuke, Pawel Pawlikowski Cannes Winners Among El Gouna s First 10 Titles for Ninth Edition
+Wed, 19 Aug 2026 10:03:47 +0000 — https://variety.com/2026/film/festivals/hamaguchi-pawlikowski-el-gouna-first-10-titles-2026-1236838061/
+
+El Gouna Film Festival has revealed the first 10 titles for its ninth edition, set to run Oct. 15-23, in the Red Sea resort town of El Gouna, Egypt. The lineup spans work from established auteurs and first-time feature directors, drawing from festivals including Cannes, Berlin, Sundance and Karlovy Vary. Among the titles is Hamaguchi [ ]
+
+### The Beatles Ink Licensing and Merch Deal With Universal Music Ahead of Biopics
+Wed, 19 Aug 2026 09:35:02 +0000 — https://variety.com/2026/film/global/the-beatles-licensing-merch-deal-universal-music-1236838031/
+
+The Beatles rights-holding company Apple Corps has come together with Universal Music Group to ink a wide-ranging licensing and merch deal for all things related to the fab four. It will include physical and digital merchandise, licensing, and e-commerce. “The Beatles embody music’s power to change the world, and that influence makes them one of [ ]
+
+### Yami Gautam Dhar s Nayyi Navelli Sets October Release From Amazon MGM Studios, Colour Yellow (EXCLUSIVE)
+Wed, 19 Aug 2026 09:25:00 +0000 — https://variety.com/2026/film/news/yami-gautam-dhar-nayyi-navelli-october-release-1236837564/
+
+Amazon MGM Studios and Colour Yellow have set Nayyi Navelli, an Indian fantasy family entertainer starring Yami Gautam Dhar, for release in cinemas this October, timed to the Dussehra festival period. Balaji Mohan directs from a script by Himanshu Sharma and Divy Nidhi Sharma. Aanand L Rai and Sharma produce through Colour Yellow, marking the [ ]
+
+### San Sebastián Sets Fatih Akin’s ‘Ghost Song’ as Opening Night Film
+Wed, 19 Aug 2026 09:04:19 +0000 — https://variety.com/2026/film/global/san-sebastian-fatih-akin-ghost-song-opening-film-1236838036/
+
+“Ghost Song” (“Geister”), from multi-prized German auteur Fatih Akin (“In the Fade”), has been set as the opening night film at this year’s San Sebastián Film Festival. A world premiere, “Ghost Song” is hailed by the San Sebastián Festival as “a poetic drama about loss and longing.” It will bow at San Sebastián on Sept. [ ]
+
+### House of the Dragon Directing Mentorship Alum Marcus Anthony Thomas Sets Cast for British Psychological Thriller Cast Me! (EXCLUSIVE)
+Wed, 19 Aug 2026 08:39:51 +0000 — https://variety.com/2026/film/global/marcus-anthony-thomas-psychological-thriller-cast-me-1236837237/
+
+Marcus Anthony Thomas, who completed a directing mentorship on House of the Dragon, has started production on his directorial feature debut. Now shooting in London, psychological thriller Cast Me! will be led by rising star Iniki Mariano in her debut feature role, with Samuel Adewunmi ( The Last Tree ), Stella Gonet ( Spencer ), Dean-Charles Chapman ( 1917, Game [ ]
+
+### Sci-Fi Horror Comedy Flapjax Boards Blue Finch Films for Sales Ahead of Fantastic Fest Bow (EXCLUSIVE)
+Wed, 19 Aug 2026 08:30:00 +0000 — https://variety.com/2026/film/news/sci-fi-horror-comedy-flapjax-blue-finch-fantastic-fest-1236837017/
+
+Flapjax, Rocko Zevenbergen s sci-fi horror comedy, has landed a worldwide sales deal with Blue Finch Films ahead of its world premiere at Fantastic Fest next month. The U.K. sales and distribution company will launch sales on the title at the newly formed industry market at the Toronto Film Festival. Blue Finch Films picked up the [ ]
 
 ### Hybrid-AI Mandopop Musical Alishan Escape Set at Red Empire, OMG (EXCLUSIVE)
 Wed, 19 Aug 2026 07:02:37 +0000 — https://variety.com/2026/film/news/hybrid-ai-mandopop-musical-alishan-escape-red-empire-omg-1236838002/
@@ -17,42 +52,22 @@ Wed, 19 Aug 2026 01:43:48 +0000 — https://variety.com/2026/film/news/david-kru
 
 David Krumholtz, who played Kor-El in this year s Supergirl and appeared in Oppenheimer and The Studio, said on Threads Monday that he s done with acting and ready to start a new life. However, he later deleted the posts that spoke of his frustration with getting jobs in Hollywood, leading fans to speculate whether he is [ ]
 
-### John Irvin, Director of Hamburger Hill, Tinker Tailor Soldier Spy, Dies at 86
-Wed, 19 Aug 2026 00:28:51 +0000 — https://variety.com/2026/film/news/john-irvin-dead-hamburger-hill-1236837824/
-
-John Irvin, the British director of “Hamburger Hill,” the “Tinker Tailor Soldier Spy” miniseries and 1981’s “Ghost Story,” died Aug. 11. He was 86. His producers confirmed he died at the home of his sister-in-law in the U.K. The award-winning director’s career spanned several decades, each punctuated by a different focus. By the end of [ ]
-
-### Heroes Creator Tim Kring Pays Tribute to Hayden Panettiere as a Singularly Talented Actor With a Deep Understanding of Human Nature
-Tue, 18 Aug 2026 22:47:02 +0000 — https://variety.com/2026/tv/news/heroes-tim-kring-tribute-hayden-panettiere-1236837796/
-
-Hayden Panettiere was a seasoned professional by the time she auditioned for “Heroes” at the age of 16. But unlike many actors who start working as kids, Hayden had no sense of jaded child actor quality to her. Although confident in her abilities, she was still guileless, sweet and always open to suggestions. It was [ ]
-
-### Felicia Day, Wil Wheaton on New Tabletop Gaming Show Conludo, How The Guild Reunion Movie Will Be Impacted by a Denied California Tax Credit
-Tue, 18 Aug 2026 22:32:16 +0000 — https://variety.com/2026/tv/news/felicia-day-wil-wheaton-the-guild-movie-show-conludo-1236837516/
-
-Reunions all around for Felicia Day these days: Amid a massive fundraiser for a movie reunion of her series “The Guild,” Day is reteaming with longtime friend and collaborator Wil Wheaton for a new kind of board game TV series. Launching as fan-unlocked content tied to “The Guild: Ren Faire d” movie s ongoing Kickstarter campaign (which [ ]
-
-### Walmart Touts Free Peacock Access for Walmart+ Members on Heels of Streamer s Latest Price Hike
-Tue, 18 Aug 2026 22:11:00 +0000 — https://variety.com/2026/shopping/news/best-walmart-plus-deals-streaming-offers-1236040212/
-
-Walmart is offering up some new deals, discounts and special offers right now, including a way to get a Peacock streaming subscription for free. While Walmart is touting its back to school deals right now, the retailer is also offering access to its Walmart+ membership program for just $1 for your first month. Regularly $12.95/month, [ ]
-
-### Clive Barker Announces Kickstarter-Exclusive Anthology Book Series ‘Library of the Dead’ (EXCLUSIVE)
-Tue, 18 Aug 2026 22:10:15 +0000 — https://variety.com/2026/digital/news/clive-barker-kickstarter-series-library-of-the-dead-1236837367/
-
-Horror master Clive Barker is set to release the new “Library of the Dead” anthology project Aug. 18 exclusively on Kickstarter. The three-book horror anthology consists of three books: “Fear Eternal,” “Pyres of Bedlam” and “Dark Descents.” The project is collectively a spiritual successor to Barker’s “Books of Blood.” “Library of the Dead” brings together [ ]
-
-### ‘Days of Our Lives’ EP on Bringing John Oliver s Dream Soap Opera Role to Life: He Wanted to Be Slapped
-Tue, 18 Aug 2026 22:09:35 +0000 — https://variety.com/2026/tv/news/john-oliver-wanted-to-be-slapped-days-of-our-lives-1236837667/
-
-Ken Corday, the executive producer of “Days of Our Lives,” knew John Oliver needed to make an appearance on his series. The host of the Emmy-winning HBO series Last Week Tonight publicly declared his desire to star in a soap opera during a March episode of his talk show, and Corday immediately got to work. [ ]
-
-### Hayden Panettiere Stuck Up for Background Actors When They Were Mistreated on Heroes Set and Knew Every Crew Members Name
-Tue, 18 Aug 2026 22:05:11 +0000 — https://variety.com/2026/tv/news/hayden-panettiere-defended-mistreated-background-actors-heroes-set-1236837264/
-
-Hayden Panettiere stuck up for background actors when they were mistreated on the Heroes set and knew every crew member s name, her co-star Sendhil Ramamurthy lovingly remembered in a social media tribute to the late actor. Panettiere died on Aug. 16 at the age of 36. Heroes marked one of her most prolific TV series. She starred [ ]
-
 ## The Hollywood Reporter
+
+### Why Emily Watson Will Never Quit Sarajevo Film Festival
+Wed, 19 Aug 2026 09:55:13 +0000 — https://www.hollywoodreporter.com/movies/movie-features/emily-watson-sarajevo-film-festival-jury-president-award-1236676828/
+
+This year's jury president and Honorary Heart recipient opens up about her decades-long devotion to the Bosnian festival: "It's [about] resistance, survival... Rather than a whole load of cynical sales agents."
+
+### San Sebastian Film Festival to Open With Fatih Akin s Ghost Song
+Wed, 19 Aug 2026 09:25:15 +0000 — https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-2026-fatih-akin-ghost-song-opening-film-1236676846/
+
+The movie will be part of the Spanish festival's competition lineup.
+
+### Sandra Wollner and Everytime Hit Sarajevo on the Festival Circuit: You Can Feel the History Here
+Wed, 19 Aug 2026 08:20:11 +0000 — https://www.hollywoodreporter.com/movies/movie-features/sandra-wollner-everytime-sarajevo-film-festival-competition-1236676154/
+
+The Austrian filmmaker also touches on possibly casting a Hollywood name and why she is pragmatic about the future of European cinema: "I don’t think culture is an 'added value,' a kind of luxury item. It’s part of how a society understands itself."
 
 ### Brad Pitt Joins Wim Wenders Peter Zumthor Doc as Executive Producer (Exclusive)
 Wed, 19 Aug 2026 08:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-exec-producer-on-wim-wenders-peter-zumthor-doc-1236676826/
@@ -72,7 +87,7 @@ The partnership news comes ahead of the release of 'The Beatles – A Four Film 
 ### California AG Rob Bonta Says David Ellison Is “Desperate” and “Grasping at Straws
 Wed, 19 Aug 2026 07:08:59 +0000 — https://www.hollywoodreporter.com/news/politics-news/rob-bonta-david-ellison-lawsuit-merger-interview-1236676788/
 
-In an interview with The Hollywood Reporter, Bonta took aim at the Paramount mogul: “He cannot flee accountability."
+In an interview with The Hollywood Reporter, Bonta took aim at the Paramount chief and emerging legal rival: “He cannot flee accountability."
 
 ### Anne Hathaway Pushed Really Hard Trying to Get Julie Andrews to Return for Princess Diaries 3
 Wed, 19 Aug 2026 02:11:41 +0000 — https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-pushed-julie-andrews-return-princess-diaries-3-1236676722/
@@ -89,22 +104,47 @@ Wed, 19 Aug 2026 00:36:15 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 The veteran and in-demand star, who recently starred in 'Supergirl,' is "fed up" with Hollywood: "There was a time when being competitive and self-involved really served my pursuit. That time has passed."
 
-### For Jacob Whiteduck-Lavoie, Everyday on ‘Sterling Point‘ Was the Best Day Ever
-Tue, 18 Aug 2026 23:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/jacob-whiteduck-lavoie-sterling-point-interview-1236676550/
-
-The 23-year-old Canadian actor digs into booking the Prime Video YA series and how he made the jump to English-speaking roles.
-
-### Inside the Fake Celebrity Podcast Scam Fooling Hollywood
-Tue, 18 Aug 2026 23:18:28 +0000 — https://www.hollywoodreporter.com/news/general-news/celebrity-podcast-scam-bruce-vilanch-seth-rudetsky-1236676601/
-
-Seth Rudetsky thought Nikki Glaser wanted him on her podcast. Bruce Vilanch thought Terry Gross wanted him on hers. Both were targets of a hoax.
-
-### Down the Arm of God Review: Caleb Landry Jones in a Sincere, if Heavy-Handed, Drama About a Texas Pastor Tackling Homelessness, and His Own Congregation
-Tue, 18 Aug 2026 23:10:20 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/down-the-arm-of-god-review-caleb-landry-jones-1236675972/
-
-Nick Stahl and Mena Suvari costar in the Locarno-premiering film, produced by Luc Besson and directed by Peter Brunner.
-
 ## Deadline
+
+### Chulpan Khamatova To Lead Alexander Molochnikov s The Extremists From AR Content Forma Pro Films
+Wed, 19 Aug 2026 10:59:15 +0000 — https://deadline.com/2026/08/chulpan-khamatova-star-in-alexander-molochnikov-extremists-1237045109/
+
+EXCLUSIVE: Chulpan Khamatova (Good Bye Lenin) has been set to star in Alexander Molochnikov’s The Extremists, a feature length version of the director’s Oscar-shortlisted short film Extremist. The original short centered on a young Russian artist who secretly replaced food labels in a Moscow supermarket with pacifist messages, an act that ultimately led to her [ ]
+
+### Minotaur Is A Live Oscar Contender For The Best International Film Category But For Which Country How Does It Stack Up?
+Wed, 19 Aug 2026 10:17:40 +0000 — https://deadline.com/2026/08/minotaur-oscar-contender-best-international-fim-category-1237043298/
+
+Andrey Zvyagintsev s Cannes Competition drama Minotaur is widely considered one of the live contenders to make the Academy s Best International Film category. Earlier this week, the Russian-language drama, which won the Grand Prix on the Croisette, was among eleven movies to make Germany s longlist for the prize. However, it was the only film on the [ ]
+
+### All Quiet On The Western Front Exec Sasha Bühler Exits International Film Role At Netflix
+Wed, 19 Aug 2026 09:48:27 +0000 — https://deadline.com/2026/08/sasha-buhler-netflix-director-international-film-exiting-1237045014/
+
+EXCLUSIVE: Sasha Bühler, one of Netflix’s top international film execs and whose credits include All Quiet on the Western Front, has left the streamer. Bühler, who is Director of Film for German-speaking Europe, has been with Netflix since 2019. She originally joined as Director of Film for Germany, Austria, Switzerland, France, the Nordics and CEE, [ ]
+
+### Fatih Akin’s ‘Ghost Song’ To Open San Sebastián Film Festival
+Wed, 19 Aug 2026 09:25:56 +0000 — https://deadline.com/2026/08/fatih-akin-ghost-song-san-sebastian-film-festival-1237045062/
+
+Ghost Song, the latest feature from German filmmaker Fatih Akin, will open this year’s San Sebastián Film Festival. The title was confirmed this morning by the Spanish festival. Ghost Song will screen on September 18 at the Kursaal following the opening ceremony. Akin will compete for the Golden Shell for the first time in his decades-long [ ]
+
+### The Beatles’ Apple Corps Universal Music Group Set Merchandise Partnership
+Wed, 19 Aug 2026 09:16:23 +0000 — https://deadline.com/2026/08/the-beatles-apple-corps-universal-music-group-partnership-1237045043/
+
+Universal Music Group (UMG) will handle all worldwide physical and digital merchandise, licensing, and e-commerce related to The Beatles as part of a new long-term partnership with Apple Corps. The deal between the two entities was confirmed this morning. UMG already handles The Beatles music catalog and notably brought the band s recordings to streaming sites [ ]
+
+### Mark Gatiss Drama Bookish Returning For Third Chapter Festive Special
+Wed, 19 Aug 2026 09:09:33 +0000 — https://deadline.com/2026/08/bookish-season-3-festive-special-mark-gatiss-drama-1237045024/
+
+There s a third chapter coming for Gabriel Book. Mark Gatiss s cozy crime drama, Bookish, has landed a Season 3 order at UKTV s U Alibi channel, and a two-part Christmas special for this year. The third season will run to six episodes and is set to launch in 2027. Bookish: The Crown of Destiny, the festive special, [ ]
+
+### The Sidemen NFTS Team To Train Next Generation Of Unscripted Producers In UK
+Wed, 19 Aug 2026 08:30:00 +0000 — https://deadline.com/2026/08/sidemen-nfts-training-unscripted-producers-uk-1237044990/
+
+EXCLUSIVE: They might be one man down, but The Sidemen are looking to the future of production. The British YouTuber group s Sidemen Entertainment has teamed with the National Film and Television School (NFTS) to find the next generation of unscripted producers. The move is part of The Sidemen s belief that the TV, streaming and creator [ ]
+
+### Paloma Cinco Breaks Down Surprise Ted Lasso Appearance
+Wed, 19 Aug 2026 08:00:00 +0000 — https://deadline.com/2026/08/paloma-cinco-ted-lasso-interview-cristo-fernandez-sister-1237044979/
+
+SPOILER ALERT: The following reveals major plot points from the latest episode of Apple TV s Ted Lasso, Richmond s Got Talent. On tonight s episode of Apple TV s Ted Lasso, all hell breaks loose during a press conference where a secret report created by Leslie Higgins (Jeremy Swift), a risk management assessment of the Lady Greyhounds, was leaked to [ ]
 
 ### Hulu Buys The Promise: Finding My Mother s Killer Australia Drama Invisible Boys
 Wed, 19 Aug 2026 07:45:00 +0000 — https://deadline.com/2026/08/hulu-buys-promise-finding-my-mothers-killer-invisible-boys-1237044117/
@@ -125,44 +165,4 @@ Ariana Madix is teasing the upcoming Love Island USA Season 8 reunion and reveal
 Wed, 19 Aug 2026 02:30:08 +0000 — https://deadline.com/2026/08/supergirl-oppenheimer-actor-david-krumholtz-break-acting-1237044926/
 
 David Krumholtz will be taking a step back from Hollywood after the actor from Supergirl and Oppenheimer got real in a series of social media posts. The actor made the decision to take an indefinite break after expressing being frustrated, fed up, fried with the business, as the profession has lost its gleam. I kinda [ ]
-
-### Robin Williams Kids Fight Against AI Slop By Reactivating His Instagram: As Technology Evolves, We Want This To Be A Safe, Trusted Place
-Wed, 19 Aug 2026 01:32:37 +0000 — https://deadline.com/2026/08/robin-williams-kids-fight-ai-slop-reactivating-instagram-1237044919/
-
-Robin Williams three children have taken a step in the fight against AI slop using their father s likeness by reactivating his Instagram account. The social media platform had been dormant since 2014, when the actor died. As we recognize what would be our Dad s 75th year, we re grateful to see new generations discovering his work [ ]
-
-### Five Standout Claims In ABC s First Amendment Lawsuit Against The FCC
-Wed, 19 Aug 2026 01:19:04 +0000 — https://deadline.com/2026/08/abc-trump-fcc-lawsuit-five-claims-1237044686/
-
-ABC has been pushing back on the FCC for several months now, but on Tuesday, it filed a First Amendment lawsuit, claiming that the agency s regulatory actions and investigations were part of a Trump administration effort to punish it for its speech. The lawsuit goes through a narrative of Donald Trump s attacks on the network, [ ]
-
-### Everything We Know About Marvel’s Upcoming ‘X-Men’ Movie So Far
-Wed, 19 Aug 2026 00:17:54 +0000 — https://deadline.com/feature/x-men-movie-marvel-news-updates-everything-we-know-1237031344/
-
-Since Disney’s acquisition of 20th Century Fox in 2019, the clamor for a new X-Men movie has been loud, and Marvel inches closer every day to delivery on their latest installment in a growing universe. With several actors and actresses reprising their X-Men roles in Avengers: Doomsday out in December, ties to their characters in [ ]
-
-### John Irvin Dies: Director Of Hamburger Hill TV Drama Tinker Tailor Soldier Spy Was 86
-Tue, 18 Aug 2026 22:03:43 +0000 — https://deadline.com/2026/08/john-irvin-dead-hamburger-hill-raw-deal-director-1237044695/
-
-British filmmaker John Irvin, known for action movies including Hamburger Hill and Raw Deal and the BAFTA-winning TV series Tinker Tailor Soldier Spy, has died. He was 86. According to Irvin s producers, the filmmaker died peacefully at the UK home of his sister-in-law on August 11, surrounded by his family. Irvin made more than 30 [ ]
-
-### Leslie Grossman Joins Power: Origins , Returning As Raising Kanan Character Flossie
-Tue, 18 Aug 2026 21:52:17 +0000 — https://deadline.com/2026/08/leslie-grossman-cast-power-origins-flossie-1237043664/
-
-EXCLUSIVE: If Queen Flossie left you wanting more on Power Book III: Raising Kanan, Leslie Grossman will be back to reprise the role in the new prequel Power: Origins. Grossman will recur in the new prequel series, which picks up after the events of the Raising Kanan series finale. When we last saw Florence Flossie [ ]
-
-### How A Tray Of Bloody Oysters Helped ‘The Diplomat’ Find “A Real Spine” For Season 4 – The Backstory
-Tue, 18 Aug 2026 21:23:00 +0000 — https://deadline.com/2026/08/the-diplomat-netflix-creative-team-interview-1237044316/
-
-A tray of bloody oysters, served during the middle of an international crisis, was the key to unlocking relationships that changed the dynamic of The Diplomat. In the scene, two couples are ruminating on the events of the day, including the President of the United States debating whether to tell the British Prime Minister that [ ]
-
-### ‘The Pitt’ Production Designer Nina Ruscio Talks Expanding The ER For Season 2 World-Building Through Furniture
-Tue, 18 Aug 2026 21:15:00 +0000 — https://deadline.com/2026/08/the-pitt-production-designer-interview-season-2-1237044580/
-
-From creator R. Scott Gemmill, The Pitt highlights the challenges U.S. frontline healthcare professionals face through the lens of the fictional Pittsburgh Trauma Medical Center’s emergency department. In a real-time, hour-by-hour format, audiences see the medical cases and the personal turmoil (and occasional life-saving joys) that physicians and nurses must navigate as they reckon with [ ]
-
-### Remarkably Bright Creatures Star Sally Field Has An Appreciation For Octopuses Anger
-Tue, 18 Aug 2026 21:00:00 +0000 — https://deadline.com/2026/08/sally-field-remarkably-bright-creatures-interview-1237044576/
-
-Until recently, an octopus was not the most obvious choice to co-star with Sally Field. Looking at her career thus far, one might immediately think of her alongside Julia Roberts and Shirley MacLaine in Steel Magnolias, or those Oscar-winning turns opposite Beau Bridges in Norma Rae and with John Malkovich, Danny Glover and Ed Harris [ ]
 

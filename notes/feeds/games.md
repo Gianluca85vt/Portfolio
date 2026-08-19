@@ -1,6 +1,31 @@
-# Games — harvested 2026-08-19T08:07:18.716Z
+# Games — harvested 2026-08-19T11:00:43.099Z
 
 ## Eurogamer
+
+### GTA 6 gameplay footage and map appear to leak online, as group seemingly responsible makes demands of Rockstar
+Wed, 19 Aug 2026 10:49:16 +0000 — https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek
+
+What appears to be legitimate gameplay footage of Grand Theft Auto 6 has leaked onto the internet, alongside an alleged image of the game's entire map. Read more
+
+### An updated PS5 DualSense Edge controller is apparently coming next year, but you probably shouldn't get get too excited
+Wed, 19 Aug 2026 10:45:59 +0000 — https://www.eurogamer.net/new-dualsense-edge-controller-model-2027-leak
+
+The DualSense Edge, Sony's &pound;200 / $200 pro-style controller for PlayStation 5 and PC, looks to be getting a revised model. That's according to filings on the website of US government agency the Federal Communications Commission (FCC). Read more
+
+### Games are the most optimistic way I have found of looking at the world
+Wed, 19 Aug 2026 10:28:14 +0000 — https://www.eurogamer.net/optimism-week-games-most-optimistic-way-of-looking-at-the-world
+
+I was not a natural parent. The love was there instantly, but with it came all this anxiety I had not expected. Having a baby was like opening the door to a hilariously overstacked closet, and all of a sudden my simple life was buried under endless new things, new worries and new sources of nightmares. Cutlery was suddenly a class of sharp objects. Plug sockets were suddenly electrocution hazards. A mid-day walk through the nearby woods was suddenly filled with uneven flooring, with deadly mushrooms one might accidentally eat. Read more
+
+### Tekken 8 director jumps ship to join Harada's new Vs Studio team
+Wed, 19 Aug 2026 09:06:29 +0000 — https://www.eurogamer.net/tekken-8-director-joins-harada-vs-studio
+
+Kohei Ikeda, the game director of Tekken 8 , has joined Katsuhiro Harada at recently formed and rival SNK developer Vs Studio. Read more
+
+### Pokémon Center in the UK and Germany hit with the same data breach suffered by Valve's Steam hardware
+Wed, 19 Aug 2026 08:35:30 +0000 — https://www.eurogamer.net/pokemon-center-ceva-data-breach-europe-steam-hardware
+
+It appears the consequences of the recent CEVA Logistics data breach are wider than initially anticipated. Days after the company alerted Valve of the hack that affected Steam hardware customers in Europe , the shipping company has notified Pok&eacute;mon Center that some of its customers are also affected. Pok&eacute;mon Center is Pokemon's official merchandise and collectibles store. Read more
 
 ### The Sinking City 2 ditches the thinky stuff for classic survival horror, but I'm yet to decide if it's truly better for it
 Tue, 18 Aug 2026 15:08:13 +0000 — https://www.eurogamer.net/the-sinking-city-2-now-playing
@@ -37,32 +62,12 @@ Tue, 18 Aug 2026 10:12:06 +0000 — https://www.eurogamer.net/fallout-4-creation
 
 For most games, the news of a new patch is usually received with excitement. This is true for games made by Bethesda too, of course, but not when they're as old as Fallout 4 and Skyrim are. The reason? Mods. Read more
 
-### 20-year-old Gunz the Duel gets Steam re-release, receives harsh criticism over network issues and suspected use of generative AI
-Tue, 18 Aug 2026 09:29:49 +0000 — https://www.eurogamer.net/gunz-the-duel-steam-problems-network-ai
-
-Gunz the Duel, the cult classic 3rd-person action game first released back in 2006, is back on Steam. But the long-awaited return of the genre-defining game has been tarred somewhat by technical issues, and allegations of AI usage. Read more
-
-### Tomb Raider: Legacy of Atlantis, a remake of the first game, is getting RPG skill trees, crafting mechanics and a 'focus meter'
-Tue, 18 Aug 2026 09:25:57 +0000 — https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-remake-rpg-focus-crafting
-
-Amazon Game Studios and Crystal Dynamics have released a new trailer for Tomb Raider: Legacy of Atlantis . It's the sixth instalment in a series of 'behind-the-scenes' videos chronicling the making of the upcoming remake, which is being developed by Flying Wild Hog. This latest video shows us some previously unknown elements of the game, and they mark a pretty big departure from the original 1996 title. Read more
-
-### "I'm pretty sure I mean it" - Legendary game developer Warren Spector announces retirement
-Tue, 18 Aug 2026 08:58:05 +0000 — https://www.eurogamer.net/warren-spector-announces-retirement
-
-Warren Spector, the legendary game developer known for being a key part in the development of the Deus Ex series as well as his role in Epic Mickey, Ultima, and System Shock , has announced his retirement. Read more
-
-### Shuhei Yoshida told Expedition 33 studio to avoid terms like 'turn-based RPG' because it may cause people to "overlook" the game
-Tue, 18 Aug 2026 08:29:46 +0000 — https://www.eurogamer.net/expedition-33-shuehi-yoshida-warning-turn-based-rpg
-
-One of the reasons Clair Obscur: Expedition 33 stood out so much in early footage was how action-packed its combat looked, despite being a turn-based RPG. But while developer Sandfall Interactive has described the game as a turn-based RPG - and reinvigorated the genre, to some degree - not everyone was happy with that approach. Read more
-
-### Long-awaited Switch 2 version of Diablo 4 reportedly releases days after BlizzCon, and includes both game expansions
-Mon, 17 Aug 2026 16:00:08 +0000 — https://www.eurogamer.net/diablo-4-switch-2-release-date-rumour-expansions
-
-The much-rumoured Switch 2 version of Diablo 4 apparently includes both expansions of the action role-playing game - Vessel of Hatred and Lord of Hatred - all in one Age of Hatred Collection. And it's reportedly being released 15th September. Read more
-
 ## GamesIndustry.biz
+
+### Human: Fall Flat veterans launch new UK studio Pretty Cool Games with funding from Arknights developer Hypergraph
+Wed, 19 Aug 2026 10:00:00 +0000 — https://www.gamesindustry.biz/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games-with-funding-from-arknights-developer-hypergraph
+
+Pretty Cool Games has been co-founded by Human: Fall Flat veterans Sitara Shefta (CEO) and Will Dudley (CCO) with the aim of building a sustainable studio that's fair to its employees and rewards them for their success. Read more
 
 ### Konami's Castlevania: Grimoire of Souls to be taken offline next month
 Wed, 19 Aug 2026 07:50:27 +0000 — https://www.gamesindustry.biz/konamis-castlevania-grimoire-of-souls-to-be-taken-offline-next-month
@@ -113,11 +118,6 @@ You might recall the trailer for Join Us being featured in the Xbox Showcase bac
 Mon, 17 Aug 2026 12:47:28 +0000 — https://www.gamesindustry.biz/us-senate-to-investigate-roblox-following-claims-it-prioritises-revenue-and-engagement-over-child-safety
 
 The US Senate Judiciary Subcommittee on Crime and Counterterrorism has launched an investigation into Roblox, saying the platform "appears to prioritise revenue and engagement metrics" over child safety. Read more
-
-### Saber Interactive adds AI disclaimer to Rideshare on Steam; CEO Matt Karch apologises to former lead writer
-Mon, 17 Aug 2026 10:24:45 +0000 — https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer
-
-Saber Interactive has added an AI disclaimer to Rideshare Simulator's Steam page following controversy over allegations the firm had dismissed a writer working on the game in favour of using AI-written copy. Read more
 
 ## VG247
 
@@ -186,6 +186,16 @@ Tue, 18 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/tekken
 Getting the band back together. You may recall that the Tekken 8 development team has lost a couple of heavyweights in recent times, following on from ongoing struggles to manage the fighting game in the months after its launch. The most notable departure was that of Katsuhiro Harada , a producer and director that's been involved with the legendary series since its inception. Read the full article on pushsquare.com
 
 ## Game Developer
+
+### Human: Fall Flat veterans launch new UK studio Pretty Cool Games
+Wed, 19 Aug 2026 10:34:39 GMT — https://www.gamedeveloper.com/business/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games
+
+The studio is hiring after securing financing for its debut project.
+
+### 'I feel dirty:' EA workers trapped in a maelstrom of cynicism and doubt after Saudi buyout
+Wed, 19 Aug 2026 08:13:19 GMT — https://www.gamedeveloper.com/business/-i-feel-dirty-ea-workers-trapped-in-a-maelstrom-of-after-following-saudi-buyout
+
+Multiple current EA employees share their views on how the publisher's seismic $55 billion take-private will impact the people behind its popular franchises.
 
 ### Memory crisis is driving uncertainty over PlayStation 6's launch date
 Tue, 18 Aug 2026 17:16:55 GMT — https://www.gamedeveloper.com/business/memory-crisis-is-causing-uncertainty-over-playstation-6
