@@ -1,6 +1,11 @@
-# AI — harvested 2026-08-19T05:07:33.695Z
+# AI — harvested 2026-08-19T08:07:18.716Z
 
 ## OpenAI
+
+### ChatGPT Ads expands across Europe
+Tue, 18 Aug 2026 22:00:00 GMT — https://openai.com/index/chatgpt-ads-expands-across-europe
+
+ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.
 
 ### Strengthening democratic oversight in national security
 Tue, 18 Aug 2026 19:00:00 GMT — https://openai.com/index/strengthening-democratic-oversight-in-national-security
@@ -31,11 +36,6 @@ NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signal
 Tue, 18 Aug 2026 07:00:00 GMT — https://openai.com/index/asana
 
 Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.
-
-### The Defender’s Window
-Mon, 17 Aug 2026 05:30:00 GMT — https://openai.com/index/the-defenders-window
-
-AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.
 
 ## Hugging Face
 

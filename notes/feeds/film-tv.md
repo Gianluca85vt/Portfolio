@@ -1,6 +1,16 @@
-# Film & TV — harvested 2026-08-19T05:07:33.695Z
+# Film & TV — harvested 2026-08-19T08:07:18.716Z
 
 ## Variety
+
+### Hybrid-AI Mandopop Musical Alishan Escape Set at Red Empire, OMG (EXCLUSIVE)
+Wed, 19 Aug 2026 07:02:37 +0000 — https://variety.com/2026/film/news/hybrid-ai-mandopop-musical-alishan-escape-red-empire-omg-1236838002/
+
+Australian hybrid-AI studio Red Empire Productions and international production and distribution company Organic Media Group are developing Alishan Escape: A Mandopop Ghost Adventure, an original animated musical inspired by Taiwan s Ghost Month traditions, Buddhist philosophy, local Indigenous tribal cultures and the global reach of Asian pop music. The project marks a creative collaboration between Red [ ]
+
+### Kim Jong-kwan s The Table: Day and Night to Open Busan
+Wed, 19 Aug 2026 06:26:07 +0000 — https://variety.com/2026/film/festivals/kim-jong-kwan-table-day-and-night-busan-opening-film-1236837993/
+
+The 31st Busan International Film Festival (BIFF) has selected The Table: Day and Night, directed by Kim Jong-kwan, as its opening film for the 2026 edition, marking the feature s world premiere. The film tracks four couples moving through different stages of love inside the same cafe over the course of a summer and autumn, told [ ]
 
 ### Supergirl Star David Krumholtz Posts and Deletes Plans to Retire From Acting: And Now, New Life
 Wed, 19 Aug 2026 01:43:48 +0000 — https://variety.com/2026/film/news/david-krumholtz-posts-deletes-retire-from-acting-1236837871/
@@ -42,17 +52,27 @@ Tue, 18 Aug 2026 22:05:11 +0000 — https://variety.com/2026/tv/news/hayden-pane
 
 Hayden Panettiere stuck up for background actors when they were mistreated on the Heroes set and knew every crew member s name, her co-star Sendhil Ramamurthy lovingly remembered in a social media tribute to the late actor. Panettiere died on Aug. 16 at the age of 36. Heroes marked one of her most prolific TV series. She starred [ ]
 
-### How A Knight of the Seven Kingdoms, Fallout and Spider-Noir Production Designers Built Out Their Worlds While Honoring the Source Material
-Tue, 18 Aug 2026 21:57:36 +0000 — https://variety.com/2026/artisans/features/knight-seven-kingdoms-fallout-spider-noir-production-designers-1236837481/
-
-This year, an unprecedented number of genre and fantasy shows broke into the Emmys race, including “Widow’s Bay,” “A Knight of the Seven Kingdoms,” “It: Welcome to Derry,” “Fallout,” “Spider-Noir” and “Alien: Earth,” which were all recognized across multiple below-the-line categories. Shows like “AKOTSK,” “Alien: Earth,” “It: Welcome to Derry” and “Fallout” already have an [ ]
-
-### California Lawmakers Near Deal to Address Impact of Tax Cap on Film Credits
-Tue, 18 Aug 2026 21:39:31 +0000 — https://variety.com/2026/film/news/california-tax-cap-deal-film-credits-1236836863/
-
-California lawmakers are closing in on a deal to help film producers who are facing new limits on their ability to monetize production tax credits. The agreement falls short of the entertainment industry s goal of a full exemption from a $5 million annual cap on corporate tax credits, according to multiple sources. The state budget, [ ]
-
 ## The Hollywood Reporter
+
+### Brad Pitt Joins Wim Wenders Peter Zumthor Doc as Executive Producer (Exclusive)
+Wed, 19 Aug 2026 08:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-exec-producer-on-wim-wenders-peter-zumthor-doc-1236676826/
+
+Pitt threw support behind the Swiss architect, a key figure in his bid to design the new Los Angeles County Museum of Art.
+
+### Oscars: Czech Republic Picks Doc If Pigeons Turned to Gold as Best Int l Feature Submission
+Wed, 19 Aug 2026 07:53:45 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-czech-republic-doc-if-pigeons-turned-to-gold-1236676815/
+
+Pepa Ljubojacki's Berlin award winner, which uses DIY aesthetics, follows the fortunes of her brother and two cousins, whose addictions were slowly destroying their relationships, homes and feeling of safety.
+
+### The Beatles Apple Corps, Universal Music Strike Global e-Commerce, Merchandise Partnership for the Fab Four
+Wed, 19 Aug 2026 07:13:07 +0000 — https://www.hollywoodreporter.com/music/music-news/the-beatles-partnership-apple-corps-universal-music-group-1236676794/
+
+The partnership news comes ahead of the release of 'The Beatles – A Four Film Cinematic Event' in 2028.
+
+### California AG Rob Bonta Says David Ellison Is “Desperate” and “Grasping at Straws
+Wed, 19 Aug 2026 07:08:59 +0000 — https://www.hollywoodreporter.com/news/politics-news/rob-bonta-david-ellison-lawsuit-merger-interview-1236676788/
+
+In an interview with The Hollywood Reporter, Bonta took aim at the Paramount mogul: “He cannot flee accountability."
 
 ### Anne Hathaway Pushed Really Hard Trying to Get Julie Andrews to Return for Princess Diaries 3
 Wed, 19 Aug 2026 02:11:41 +0000 — https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-pushed-julie-andrews-return-princess-diaries-3-1236676722/
@@ -84,27 +104,12 @@ Tue, 18 Aug 2026 23:10:20 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Nick Stahl and Mena Suvari costar in the Locarno-premiering film, produced by Luc Besson and directed by Peter Brunner.
 
-### Marilyn Monroe s 100th Birthday Brings Official Coffee Table Book, Barbie, Brut and More
-Tue, 18 Aug 2026 23:09:00 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/marilyn-monroe-100th-birthday-book-collectibles-memorabilia-1236526925/
-
-The Estate of Marilyn Monroe continues to unveil authorized merchandise and brand collaborations for her centennial celebration.
-
-### Neve Campbell and Scream Stars Pay Tribute to Hayden Panettiere After Her Death: She Brought a Magnetic Energy to Set
-Tue, 18 Aug 2026 23:06:09 +0000 — https://www.hollywoodreporter.com/movies/movie-news/neve-campbell-scream-stars-hayden-panettiere-tributes-1236676443/
-
-The actress, who died at age 36, originated the role of Kirby Reed in 2011's 'Scream 4' and reprised the fan-favorite character in 2023’s 'Scream VI.'
-
-### Shawn Hatosy on The Pitt, Calls for a Night Shift Spinoff and Projects That Got Away — Including Breaking Bad !
-Tue, 18 Aug 2026 22:28:20 +0000 — https://www.hollywoodreporter.com/tv/tv-news/shawn-hatosy-the-pitt-night-shift-spinoff-breaking-bad-1236676193/
-
-The longtime actor, who starred on 'Southland' and 'Animal Kingdom' before winning a guest acting Emmy for the first season — and landing a best supporting actor Emmy nom for the second season — of 'The Pitt,' also confirms that he is directing another episode of the show for its third season.
-
-### Beth Behrs Joins ABC s Shifting Gears for a 2 Broke Girls Reunion
-Tue, 18 Aug 2026 21:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/shifting-gears-beth-behrs-2-broke-girls-kat-dennings-1236676386/
-
-She'll guest star alongside Kat Dennings in a season three episode.
-
 ## Deadline
+
+### Hulu Buys The Promise: Finding My Mother s Killer Australia Drama Invisible Boys
+Wed, 19 Aug 2026 07:45:00 +0000 — https://deadline.com/2026/08/hulu-buys-promise-finding-my-mothers-killer-invisible-boys-1237044117/
+
+EXCLUSIVE: Hulu is on the hunt for a killer in its latest true-crime series. The Disney streamer has become the first buyer to board true-crime doc The Promise: Finding My Mother s Killer from Banijay Rights and also acquired Australian LQBT drama series Invisible Boys from the London-based distributor. The Promise comes from Workerbee, which is [ ]
 
 ### Yellowstone s Taylor Sheridan Shuts Door On Previously Announced 6666 Spinoff: I Would Never Do That
 Wed, 19 Aug 2026 03:55:19 +0000 — https://deadline.com/2026/08/yellowstone-taylor-sheridan-6666-spinoff-update-1237044957/
@@ -129,7 +134,7 @@ Robin Williams three children have taken a step in the fight against AI slop usi
 ### Five Standout Claims In ABC s First Amendment Lawsuit Against The FCC
 Wed, 19 Aug 2026 01:19:04 +0000 — https://deadline.com/2026/08/abc-trump-fcc-lawsuit-five-claims-1237044686/
 
-ABC has been pushing back on FCC for several months now, but on Tuesday, it filed a First Amendment lawsuit, claiming that the agency s regulatory actions and investigations were part of a Trump administration effort to punish it for its speech. The lawsuit goes through a narrative of Donald Trump s attacks on the network, including [ ]
+ABC has been pushing back on the FCC for several months now, but on Tuesday, it filed a First Amendment lawsuit, claiming that the agency s regulatory actions and investigations were part of a Trump administration effort to punish it for its speech. The lawsuit goes through a narrative of Donald Trump s attacks on the network, [ ]
 
 ### Everything We Know About Marvel’s Upcoming ‘X-Men’ Movie So Far
 Wed, 19 Aug 2026 00:17:54 +0000 — https://deadline.com/feature/x-men-movie-marvel-news-updates-everything-we-know-1237031344/
@@ -160,9 +165,4 @@ From creator R. Scott Gemmill, The Pitt highlights the challenges U.S. frontline
 Tue, 18 Aug 2026 21:00:00 +0000 — https://deadline.com/2026/08/sally-field-remarkably-bright-creatures-interview-1237044576/
 
 Until recently, an octopus was not the most obvious choice to co-star with Sally Field. Looking at her career thus far, one might immediately think of her alongside Julia Roberts and Shirley MacLaine in Steel Magnolias, or those Oscar-winning turns opposite Beau Bridges in Norma Rae and with John Malkovich, Danny Glover and Ed Harris [ ]
-
-### Beth Behrs Joins ABC s Shifting Gears For Season 3
-Tue, 18 Aug 2026 21:00:00 +0000 — https://deadline.com/2026/08/beth-behrs-cast-abc-shifting-gears-season-3-1237044658/
-
-Beth Behrs (The Neighborhood, 2 Broke Girls) has joined the cast of ABC s Shifting Gears for the upcoming third season. She will guest star as Dr. Johnson, a beautiful emergency room doctor who treats Riley (Kat Dennings) for a back injury. Behrs will reunite with Dennings on Shifting Gears, her 2 Broke Girls co-star, and [ ]
 

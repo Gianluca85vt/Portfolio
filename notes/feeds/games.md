@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-19T05:07:33.695Z
+# Games — harvested 2026-08-19T08:07:18.716Z
 
 ## Eurogamer
 
@@ -64,6 +64,16 @@ The much-rumoured Switch 2 version of Diablo 4 apparently includes both expansio
 
 ## GamesIndustry.biz
 
+### Konami's Castlevania: Grimoire of Souls to be taken offline next month
+Wed, 19 Aug 2026 07:50:27 +0000 — https://www.gamesindustry.biz/konamis-castlevania-grimoire-of-souls-to-be-taken-offline-next-month
+
+Konami has announced the shut down Castlevania: Grimoire of Souls next month. Read more
+
+### VS Studio adds another Tekken veteran as Kohei Ikeda joins as game designer
+Wed, 19 Aug 2026 06:49:31 +0000 — https://www.gamesindustry.biz/vs-studio-adds-another-tekken-veteran-as-kohei-ikeda-joins-as-game-designer
+
+Tekken 8 director Kohei Ikeda has joined Katsuhiro Harada's VS Studio. Read more
+
 ### Gamescom 2026 sets new record as number of country pavilions increases by 25%
 Tue, 18 Aug 2026 14:15:40 +0000 — https://www.gamesindustry.biz/gamescom-2026-sets-new-record-as-number-of-country-pavilions-increases-by-25
 
@@ -108,11 +118,6 @@ The US Senate Judiciary Subcommittee on Crime and Counterterrorism has launched 
 Mon, 17 Aug 2026 10:24:45 +0000 — https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer
 
 Saber Interactive has added an AI disclaimer to Rideshare Simulator's Steam page following controversy over allegations the firm had dismissed a writer working on the game in favour of using AI-written copy. Read more
-
-### Matchmaking platform Sail.game launches free tier for devs ahead of Gamescom
-Mon, 17 Aug 2026 07:33:37 +0000 — https://www.gamesindustry.biz/matchmaking-platform-sailgame-launches-free-tier-for-devs-ahead-of-gamescom
-
-Matchmaking platform Sail.game is introducing a free tier for PC and console game developers ahead of Gamescom. Read more
 
 ## VG247
 
