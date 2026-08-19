@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-18T17:02:57.267Z
+# Games — harvested 2026-08-19T05:07:33.695Z
 
 ## Eurogamer
 
@@ -120,6 +120,36 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### These 2 PS5 Classics Look Like They Could Be Delisted Soon
+Wed, 19 Aug 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/08/these-2-ps5-classics-look-like-they-could-be-delisted-soon
+
+A familiar story. Earlier today, Sony confirmed the seven games that’ll be leaving the PS Plus Extra catalogue in September. However, I was surprised to see this selection expand to two PS Plus Premium games as well: the PS1’s Toy Story 2: Buzz Lightyear to the Rescue and the PSP’s Toy Story 3 . Read the full article on pushsquare.com
+
+### Physical Disc Fans Must Wait to Play Control Resonant on PS5
+Tue, 18 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/physical-disc-fans-must-wait-to-play-control-resonant-on-ps5
+
+Boxed release delayed to 15th October. Anyone who wants to own Control Resonant on a physical PS5 disc will have to wait a couple of weeks after the game's main launch, as boxed copies have been delayed into mid-October 2026. The digital version on PS Store remains locked in for a 24th September release, and Remedy today revealed the follow-up has gone gold, meaning work on the 1.0 version of the game is complete. However, physical copies have now been pushed back to 15th October. Read the full article on pushsquare.com
+
+### Review: Starsand Island (PS5) - This Anime Life Sim Should Be Your Next Cosy Game
+Tue, 18 Aug 2026 19:00:00 GMT — https://www.pushsquare.com/reviews/ps5/starsand-island
+
+My neighbour Totoro. After a long wait since our preview last year, Starsand Island is finally here. This cosy life simulator with its gorgeous anime-style art direction sends you to a magical island where you are free to explore, build, craft and farm to your heart's content. Read the full article on pushsquare.com
+
+### GTA 6 Gameplay Leak Appears Online Ahead of Official Reveal
+Tue, 18 Aug 2026 18:15:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leak-appears-online-ahead-of-official-reveal
+
+Clips of basketball practise and driving doing the rounds. Multiple videos of what appear to be legitimate GTA 6 gameplay are currently being posted to the Internet by a leaker. I've seen two clips so far: the first depicts Jason at his house from the trailer playing some basketball, and the second features some driving and crimes that attract the attention of the cops. I will not be linking to either video, but they are easily found through social media searches at the time of writing. Read the full article on pushsquare.com
+
+### Irate Physical Game Fans Prepare for Their Big PS5 Blackout
+Tue, 18 Aug 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/08/irate-physical-game-fans-prepare-for-their-big-ps5-blackout
+
+It all starts this weekend. Angry physical game fans are preparing to unplug their PS5s this week as the widely reported “blackout” is set to get underway. Protesters frustrated at Sony’s decision to stop manufacturing discs in 2028 have been encouraged to turn off their consoles and not play from 23rd August through 30th August. Read the full article on pushsquare.com
+
+### You ll Want the Japanese Version of a New PS Plus Classic Out Today
+Tue, 18 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/08/youll-want-the-japanese-version-of-a-new-ps-plus-classic-out-today
+
+For a better difficulty experience. Onimusha: Dawn of Dreams , a PS2 action classic, is out today on the PS Store for normal purchase (£7.99/$9.99) and on PS Plus Premium for subscribers. It means that the Onimusha series is almost entirely available on PS5 and PS4, but fans are raising an interesting quirk about this release: you should get the Japanese version for the best experience. Read the full article on pushsquare.com
+
 ### Preview: After Online Storm, Here s the Truth About Wolverine PS5
 Tue, 18 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/previews/after-online-storm-heres-the-truth-about-wolverine-ps5
 
@@ -150,37 +180,17 @@ Tue, 18 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/tekken
 
 Getting the band back together. You may recall that the Tekken 8 development team has lost a couple of heavyweights in recent times, following on from ongoing struggles to manage the fighting game in the months after its launch. The most notable departure was that of Katsuhiro Harada , a producer and director that's been involved with the legendary series since its inception. Read the full article on pushsquare.com
 
-### PS5 s Most Promising Anime Open World Will Re-Emerge Next Week
-Tue, 18 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps5s-most-promising-anime-open-world-will-re-emerge-next-week
-
-Another reason to tune in to Gamescom Opening Night Live. It still boggles my mind that I’ve gone hands-on with Ananta , NetEase’s wildly ambitious anime open world. The free-to-play effort – planned for PS5 – is one of the most extraordinary productions I’ve played in recent memory , blending a dizzying array of different gameplay elements. (A recent closed beta even confirmed a soccer minigame.) Read the full article on pushsquare.com
-
-### Braid, The Witness Dev s Massive New Puzzle Game Comes to PS5 in October
-Tue, 18 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/08/braid-the-witness-devs-massive-new-puzzle-game-comes-to-ps5-in-october
-
-Order of the Sinking Star dated. If you've been wondering what comes next from the team behind Braid and The Witness , the answer is a vast puzzle game named Order of the Sinking Star , which has been in the works for 10 years. It was announced for PS5 just a few weeks ago, but publisher Arc Games and developer Thekla have now revealed the game's release date: 8th October, 2026. Read the full article on pushsquare.com
-
-### 7 PS Plus Extra, Premium Game Removals for September 2026 Confirmed
-Tue, 18 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/7-ps-plus-extra-premium-game-removals-for-september-2026-confirmed
-
-Say goodbye to Toy Story and Shadowrun. Your latest lineup of PS Plus Extra and PS Plus Premium games is available now (or just some of them if you live in the UK, USA, or Japan), which is also the signal for next month's selection of PS Plus game removals to be confirmed. There are seven titles due for removal on 15th September 2026, and the list also happens to include some games on PS Plus Premium, which is rare for these removal lists. Here's what's leaving: Read the full article on pushsquare.com
-
-### Trails in the Sky 1st Chapter Gets Surprise PS5 Patch, Hardcore Fans Celebrate Changes
-Tue, 18 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/trails-in-the-sky-1st-chapter-gets-surprise-ps5-patch-hardcore-fans-celebrate-changes
-
-Coming to terms. You'll never hear me say a bad word about Trails in the Sky 1st Chapter — it's a truly excellent remake and RPG in general — but it did ship with one undeniable issue. Indeed, the game's English localisation was just a little bit off. Certain terms that were established in other Trails games were essentially reworked with more literal translations, leading to discrepancies in the script. Read the full article on pushsquare.com
-
-### Review: Mortal Shell 2 (PS5) - An Ingeniously Playful Take on the Dark Souls Formula
-Tue, 18 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/reviews/ps5/mortal-shell-2
-
-A soulslike with shotguns. Mortal Shell 2 is an expanded soulslike sequel that packs a lot into a focused experience. It took me just 30 hours to roll credits, but across that time I explored multiple biomes, fought dozens of bosses, and delved into an abundance of dungeons. From the outset, I think there's so much about Mortal Shell 2 that feels like your standard soulslike fare. You have tough combat, an interconnected maze of a setting, and a hands-off approach. But the game has some sparks of ingenuity sprinkled across it all that really elevate the experience. Read the full article on pushsquare.com
-
-### Feature: 50+ PS5, PS4 Games to Buy in PS Store s Ready, Set, Play Sale (North America/Europe)
-Tue, 18 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-ready-set-play-sale-north-americaeurope
-
-Recommended games going cheap. PS Store's latest sale has begun, and this time it's called Ready, Set, Play. The offer runs from now through to 26th August, 2026, and as always, it includes thousands of PS5 and PS4 games with reduced prices. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Memory crisis is driving uncertainty over PlayStation 6's launch date
+Tue, 18 Aug 2026 17:16:55 GMT — https://www.gamedeveloper.com/business/memory-crisis-is-causing-uncertainty-over-playstation-6
+
+Sony CEO Hiroki Totoki says the company is yet to fix a date for the PlayStation 6 launch.
+
+### Deus Ex director Warren Spector is retiring after nearly 45 years in game dev
+Tue, 18 Aug 2026 17:14:19 GMT — https://www.gamedeveloper.com/business/deus-ex-director-warren-spector-is-retiring-after-43-years
+
+Spector 'thinks' he's retiring for good, despite having ideas for three games he'd love to make.
 
 ### Roblox being investigated by U.S. Senate after reporting 65,381 instances of suspected child abuse in 2025
 Tue, 18 Aug 2026 10:22:11 GMT — https://www.gamedeveloper.com/business/roblox-being-investigated-by-u-s-senate-after-reporting-65-381-instances-of-suspected-child-abuse-in-2025

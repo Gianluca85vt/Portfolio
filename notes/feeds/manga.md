@@ -1,66 +1,66 @@
-# Manga — harvested 2026-08-18T17:02:57.267Z
+# Manga — harvested 2026-08-19T05:07:33.695Z
 
 ## Anime News Network
 
-### Welcome to Demon School! Iruma-kun: IruMafia Edition Volumes 2-4 Manga Review
-Tue, 18 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun/irumafia-edition/volumes-2-4/.240402
+### New Madoka Magica Film's Staff Asks Fans Not to Post Spoilers
+Tue, 18 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-18/new-madoka-magica-film-staff-asks-fans-not-to-post-spoilers/.240584
 
-Original Azz would be horrified by his <i>Irumafia</i> character
+At least for 2 weeks
 
-### Cells at Work! Gets Kabuki Stage Play in April 2027
-Tue, 18 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/cells-at-work-gets-kabuki-stage-play-in-april-2027/.240683
+### Dark Machine The Animation Series' New Video Reveals More Cast, Opening Song, October TV Debut
+Tue, 18 Aug 2026 23:48:14 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/dark-machine-the-animation-series-new-video-reveals-more-cast-opening-song-october-tv-debut/.240710
 
-Ainosuke Kataoka stars in "scramble kabuki" play in Tokyo
+Ryūnosuke Watanuki, Jun Kousaka, Minori Suzuki, Rikuya Yasuda join cast
 
-### Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 4
-Tue, 18 Aug 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-4/.240677
+### Netflix to Stream 3rd Mononoke Film Globally on September 29
+Tue, 18 Aug 2026 23:26:27 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/netflix-to-stream-3rd-mononoke-film-globally-on-september-29/.240709
 
-This feels like the kind of episode that would’ve altered a generation’s brain chemistry if it had come out 20 years sooner.
+<cite>Mononoke The Movie: Chapter III – The Curse of the Serpent</cite> opened in Japan on May 29
 
-### You and I Are Polar Opposites Season 2 ‒ Episode 7
-Tue, 18 Aug 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-7/.240672
+### I Became a Legend After My 10 Year-Long Last Stand Anime Casts Rina Honnizumi
+Tue, 18 Aug 2026 23:20:41 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-rina-honnizumi/.240706
 
-Watching Azuma spend half her screentime fretting over Taira being as aloof as always without fully comprehending why is some of the funniest material she's ever gotten.
+Honnizumi plays Philly who debuted in episode 7 on Monday
 
-### This Week in Anime - K-Drama Llama
-Tue, 18 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-08-18/.240676
+### Krispy Kreme Announces Pokémon-Inspired Doughnuts
+Tue, 18 Aug 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-18/krispy-kreme-announces-pokemon-inspired-doughnuts/.240583
 
-Are K-Dramas just a bunch of attractive people putting themselves in situations?
+Which starter Pokémon doughnut will you choose?
 
-### Though I Am an Inept Villainess ‒ Episode 6
-Tue, 18 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-6/.240657
+### Shiro Kuroi's Leviathan Manga Gets Live-Action Film
+Tue, 18 Aug 2026 20:26:29 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/shiro-kuroi-leviathan-manga-gets-live-action-film/.240701
 
-I really want to see Reirin and Keigetsu realize that they’re on the same side.
+Shunsuke Michieda, Natsuki Deguchi star in February 11 sci-fi survival horror film
 
-### Iron Wok Jan! ‒ Episode 7
-Tue, 18 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-7/.240670
+### The Irregular at Magic High School 'Invasion Arc' Manga Ends, 'Future Arc' Manga Begins
+Tue, 18 Aug 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/the-irregular-at-magic-high-school-invasion-arc-manga-ends-future-arc-manga-begins/.240666
 
-Kawahara has advanced techniques and knowledge that allow him to approach cooking from a more clinical perspective.
+Hazumi Takeda launched "Invasion Arc" manga in May 2025, will begin "Future Arc" manga next month
 
-### Goodbye, Lara ‒ Episode 7
-Tue, 18 Aug 2026 07:39:50 -0400 — https://www.animenewsnetwork.com/review/goodbye-lara/episode-7/.240655
+### Jujutsu Kaisen, The Summer Hikaru Died Rank on NYT August Bestseller List
+Tue, 18 Aug 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-18/jujutsu-kaisen-the-summer-hikaru-died-rank-on-nyt-august-bestseller-list/.240654
 
-It looks like Luca is being punished for his past rejection of Lara.
+The first volume of Gege Akutami's Jujutsu Kaisen manga ranked at #7 on The New York Times' monthly Graphic Books and Manga bestseller list released in...
 
-### New Fortnite Battle Royale Season Trailer Features Icons of Video Games
-Mon, 17 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-17/new-fortnite-battle-royale-season-trailer-features-icons-of-video-games/.240644
+### Comico Manga Service in Japan Shuts Down in January 2027 After 13 Years
+Tue, 18 Aug 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/comico-manga-service-in-japan-shuts-down-in-january-2027-after-13-years/.240662
 
-<i>Sonic the Hedgehog</i>, <i>Persona</i>, <i>Crash Bandicoot</i>, <i>Pac-Man</i>, <i>Mega Man</i>, & more
+Service launched in 2013
 
-### Takopi's Original Sin Compilation Film's Video Unveils November 27 Debut
-Mon, 17 Aug 2026 23:38:57 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/takopi-original-sin-compilation-film-video-unveils-november-27-debut/.240669
+### MediaOCD Adds Kyo Kara Maoh!, Magical Girl Lyrical Nanoha, Kashimashi Anime, More Titles to Discotek Deep Dives Project
+Tue, 18 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/mediaocd-adds-kyo-kara-maoh-magical-girl-lyrical-nanoha-kashimashi-anime-more-titles-to-discotek-/.240664
 
-Film compiles 6-episode series that premiered in June 2025
+Also: <cite>Ninja Scroll: The Series</cite>, <cite>Reborn!: Special Fan Disc</cite>, <cite>City Hunter 3</cite>, more
 
-### Detective Conan Creator Already Drafted Final Manga Chapter
-Mon, 17 Aug 2026 23:30:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-17/detective-conan-creator-already-drafted-final-manga-chapter/.240656
+### Ayumu Murase Steps Down From Kanon Himeno Role in The Idolmaster SideM
+Tue, 18 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/ayumu-murase-steps-down-from-kanon-himeno-role-in-the-idolmaster-sidem/.240699
 
-Gosho Aoyama jokingly asks interviewers if they would like to see it
+New cast member for Mofumofuen unit to be announced at later date
 
-### Liar Game Anime Adds 4 Cast Members
-Mon, 17 Aug 2026 22:44:59 -0400 — https://www.animenewsnetwork.com/news/2026-08-17/liar-game-anime-adds-4-cast-members/.240668
+### Manga Mavericks Books Appoints Erica Friedman as Managing Editor
+Tue, 18 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/manga-mavericks-books-appoints-erica-friedman-as-managing-editor/.240685
 
-Daisuke Namikawa, Yūya Uchida, Hiroko Ushida, Minoru Shiraishi join cast
+Friedman has written <i>yuri</i> content for numerous publications
 
 ## Crunchyroll News
 

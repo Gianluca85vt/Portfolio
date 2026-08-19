@@ -1,16 +1,31 @@
-# AI — harvested 2026-08-18T17:02:57.267Z
+# AI — harvested 2026-08-19T05:07:33.695Z
 
 ## OpenAI
+
+### Strengthening democratic oversight in national security
+Tue, 18 Aug 2026 19:00:00 GMT — https://openai.com/index/strengthening-democratic-oversight-in-national-security
+
+OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.
 
 ### Partnering with CodeAI to prepare the first AI generation
 Tue, 18 Aug 2026 11:00:00 GMT — https://openai.com/index/partnering-with-codeai
 
 OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.
 
+### Pacing model development in an era of cyber-critical capabilities
+Tue, 18 Aug 2026 11:00:00 GMT — https://openai.com/index/pacing-model-development-cyber-capabilities
+
+OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.
+
 ### Introducing ChatGPT for Teens: Built for learning, backed by protections
 Tue, 18 Aug 2026 11:00:00 GMT — https://openai.com/index/chatgpt-for-teens
 
 ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
+
+### How NVIDIA scales expertise with ChatGPT Work
+Tue, 18 Aug 2026 00:00:00 GMT — https://openai.com/index/nvidia/chatgpt-work
+
+NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.
 
 ### Asana cleared 5 years of engineering work in 2 weeks with Codex
 Tue, 18 Aug 2026 07:00:00 GMT — https://openai.com/index/asana
@@ -22,17 +37,10 @@ Mon, 17 Aug 2026 05:30:00 GMT — https://openai.com/index/the-defenders-window
 
 AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.
 
-### OpenAI joins PORTS-Pike project
-Mon, 17 Aug 2026 05:00:00 GMT — https://openai.com/index/openai-joins-ports-pike-project
-
-OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs
-
-### New policy ideas for the Intelligence Age
-Mon, 17 Aug 2026 03:15:00 GMT — https://openai.com/index/new-policy-ideas-for-the-intelligence-age
-
-OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.
-
 ## Hugging Face
+
+### How Much Memory Does Your Agent Actually Need?
+Tue, 18 Aug 2026 18:09:38 GMT — https://huggingface.co/blog/ibm-research/altk-evolve-hmm
 
 ### Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers
 Tue, 18 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/multi-vector-encoder

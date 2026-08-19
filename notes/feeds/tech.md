@@ -1,6 +1,46 @@
-# Tech — harvested 2026-08-18T17:02:57.267Z
+# Tech — harvested 2026-08-19T05:07:33.695Z
 
 ## Ars Technica
+
+### "Sabotage": Experts, lawmakers blast RFK Jr. for destroying healthcare research
+Tue, 18 Aug 2026 22:32:46 +0000 — https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/
+
+The federal agency tasked with studying ways to improve America's outstandingly poor healthcare system is "on the brink," experts warn. The Trump administration has cut its staff by 75 percent, canceled its grants en masse, and is refusing to spend tens of millions of dollars appropriated by Congress. Whether the agency "will survive the second Trump administration is an open question," health policy experts Aaron Carroll and David Atkins wrote in an opinion piece published today in the Annals of Internal Medicine . The agency in question is the Agency for Healthcare Research and Quality (AHRQ), which has focused on ways to improve patient safety, healthcare quality, care delivery, and new technologies and practices since the 1990s. In the past, "Republican leaders recognized that health care disparities were fundamental quality problems," Carroll and Atkins wrote. But recently, disparities in care have become partisan issues. Read full article Comments ]]>
+
+### Ukrainian drones overwhelm Russian tanks’ new active protection system—for now
+Tue, 18 Aug 2026 22:18:13 +0000 — https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/
+
+Russian tanks have entered battle for the first time with a new active protection system designed to shoot down incoming drones. But the technology’s recent combat debut in Ukraine met with only limited success—Ukrainian drones still destroyed the Russian armored vehicles by attacking in overwhelming numbers. The first documented battlefield appearance of the Arena-M active protection system took place when Russian forces launched a company-size assault with tanks and other armored vehicles in the Donetsk Oblast of eastern Ukraine on July 22. The Ukrainian defenders repelled the attack and posted video footage of their kamikaze drone strikes destroying at least seven T-72B3A tanks, including some that carried the Arena-M system, according to Euromaidan Press . However, Ukrainian soldiers also described the Russian Arena-M system successfully shooting down some incoming drones, according to the journalists Dmytro Putiata and Rob Lee . The Ukrainians reported requiring between 15 and 20 drones to finish off each tank. Read full article Comments ]]>
+
+### Against all odds, SpaceX finally tugs Starship into port after 24 days at sea
+Tue, 18 Aug 2026 19:01:09 +0000 — https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/
+
+SpaceX's most recent Starship test flight may have ended July 24, but its mission isn't over yet. The spacecraft splashed down in the Indian Ocean intact after flying halfway around the world from SpaceX's launch base in South Texas. Engineers expected the ship's life to end with a fiery disintegration after toppling over, just as past Starships have done following splashdown. Numerous onboard sensors and cameras, along with buoys and drones in position at the splashdown zone, have provided important data for SpaceX to assess the performance of the ship's heat shield after each test flight, so officials accepted the post-flight conflagrations. That day, Starship tipped over and remained intact, surprising just about everyone. Read full article Comments ]]>
+
+### Disney sues FCC and its chair, escalating fight against Trump's chief censor
+Tue, 18 Aug 2026 18:11:26 +0000 — https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/
+
+Disney today sued the Federal Communications Commission and FCC Chairman Brendan Carr in a lawsuit that aims to stop what it called a "campaign of censorship" waged by the Trump administration against ABC. Disney, ABC, and the eight broadcast stations they own filed a complaint in US District Court for the District of Columbia. They also submitted a motion for a temporary restraining order and preliminary injunction that would halt the FCC proceeding in which Carr is threatening to deny renewals of broadcast licenses held by ABC stations. The lawsuit accused the FCC of violating the First Amendment by retaliating against the company's protected expression. "Again and again, the Administration has attacked ABC’s speech—the stories its journalists report and the viewpoints its network programs air," the lawsuit said. "Over time, those attacks have escalated into express demands that ABC be stripped of its broadcast licenses because of its speech ." Read full article Comments ]]>
+
+### Peacock raises prices by 18 percent after becoming profitable
+Tue, 18 Aug 2026 16:42:30 +0000 — https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/
+
+For the fourth time in four years, Peacock has raised its prices. The Select plan, which has ads and doesn’t include sports, movies, or Peacock originals, went from $8/month to $9/month. The monthly fee for the standard ad plan (Premium) went from $11/month to $13/month, and the ad-free plan (Premium Plus) went from $17/month to $20/month. Annual pricing, as previously, offers 12 months for the price of 10 months. Peacock’s previous price hike was in July 2025, when the middle tier (with ads) went from $8/month to $11/month, and the ad-free plan increased from $14 to $17. Peacock also raised prices in July 2024 and August 2023. NBCUniversal launched the service in 2020. Read full article Comments ]]>
+
+### The United States is about to wake up to the threat from China's space program
+Tue, 18 Aug 2026 16:30:07 +0000 — https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/
+
+There are generally two schools of thought in the Western space community when it comes to the prospect of China landing humans on the Moon in the next few years and very possibly beating NASA and the United States in its efforts to return astronauts there. Many people will ask what the big deal is. After all, NASA won the space race to the Moon nearly six decades ago, when Apollo 11 landed there. That it took so long for anyone else to follow speaks to the magnitude of the US achievement, they might say. But others have a starkly different opinion. A dominant storyline of the 21st century has been the economic and geopolitical rise of China, and what was once a unipolar world now has two large nations vying for supremacy across a number of fronts. One is space. If China can land humans on the Moon before the United States returns, it will represent a huge geopolitical win. From a propaganda standpoint, it will allow China to declare that it has not just caught up to the United States but surpassed it as this century's superpower. Read full article Comments ]]>
+
+### Fairphone's latest repairable phone is finally available in the US for $650
+Tue, 18 Aug 2026 16:05:00 +0000 — https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/
+
+As smartphone designs have become more refined, they've also become less repairable. Fairphone bucks that trend, offering devices that can be fully disassembled and serviced using a single screwdriver. But its devices were a pain to get in the US until now. The Dutch company has launched the Fairphone Gen 6+ in the US , offering not only the phone but a full line of accessories and replacement parts so you can keep your phone running for years. And yes, the battery is removable. Don't expect the Fairphone Gen 6+ to blow you away in the spec department—it focuses on being repairable and paying workers a fair wage. Half of the phone is made from recycled materials, and it has a microSD card slot. How retro. Read full article Comments ]]>
+
+### Ford hopes this Hypercar will be its next Le Mans winner
+Tue, 18 Aug 2026 15:52:50 +0000 — https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/
+
+The car that Ford hopes will return it to overall victory at the 24 Hours of Le Mans made its unofficial debut this week. Ford sent us some pictures of the still-unnamed car conducting its first track test at the colorful Paul Ricard circuit in Provence, France, where drivers Matt Campbell and Logan Sargeant started the hard work of making the car both fast and reliable. Ford already has four overall wins at Le Mans, owning the top spot four years in a row. But the last of these wins came in 1969, when a privately entered—and at that point outdated—GT40 managed to beat Porsche's still-untamed 917 on the German car's debut. The company returned to top-level endurance racing in 1982 with the C100 during the early days of the Group C regulations, but the car was uncompetitive and unreliable, and the program soon ended. In 2016, 50 years on from its first win, a class win in the GTE-Pro category added some more silverware to the corporate display cabinet. Now, the soaring popularity of the Hypercar category in the World Endurance Championship and at Le Mans has tempted it back to the fastest class. Read full article Comments ]]>
 
 ### Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream
 Tue, 18 Aug 2026 15:36:47 +0000 — https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/
@@ -15,54 +55,39 @@ CT scan of a narwhal tusk. Credit: Adrian Rodriguez Palomo/CC BY-NC CT scan of a
 ### Microsoft Copilot reveals secret input that allowed it to be hacked
 Tue, 18 Aug 2026 13:00:04 +0000 — https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/
 
-It’s not every day that attackers can force a frontier AI model to cough up user passwords and other sensitive data without user confirmation. That’s exactly what researchers recently did to Microsoft 365 Copilot Enterprise. Even more unusual is the source they tapped to discover the critical vulnerability that made their exploit possible. Rather than employing reverse engineering or other traditional vulnerability-hunting methods, they asked Copilot. The LLM assistant readily complied. Researchers at security firm Varonis knew they wanted to create an exploit that would exfiltrate user data when a user did nothing more than click on a link. Like most AI assistants today, Copilot steadfastly refused and made clear that sensitive prompts like that require explicit user consent in the form of a gesture, such as pressing a return key or other key. In response, the researchers peppered Copilot with questions about the guardrails that required user confirmation before the assistant can execute powerful commands. Loose lips sink ships The dialog was like a game of 20 questions. Each answer provided a new clue that divulged information about the complex safety mechanism. Why was auto-execution impossible, they asked. What URL structures and deep links were involved? What happens when a page is loaded with input already in the prompt field? Each answer provided a deeper view into the guardrail and its limits. Eventually, Copilot provided a stunning Microsoft trade secret—an undocumen
+It’s not every day that attackers can force a frontier AI model to cough up user passwords and other sensitive data without user confirmation. That’s exactly what researchers recently did to Microsoft 365 Copilot for enterprise. Even more unusual is the source they tapped to discover the critical vulnerability that made their exploit possible. Rather than employing reverse engineering or other traditional vulnerability-hunting methods, they asked Copilot. The LLM assistant readily complied. Researchers at security firm Varonis knew they wanted to create an exploit that would exfiltrate user data when a user did nothing more than click on a link. Like most AI assistants today, Copilot steadfastly refused and made clear that sensitive prompts like that require explicit user consent in the form of a gesture, such as pressing a return key or other key. In response, the researchers peppered Copilot with questions about the guardrails that required user confirmation before the assistant could execute powerful commands. Loose lips sink ships The dialog was like a game of 20 questions. Each answer provided a new clue that divulged information about the complex safety mechanism. Why was auto-execution impossible, they asked. What URL structures and deep links were involved? What happens when a page is loaded with input already in the prompt field? Each answer provided a deeper view into the guardrail and its limits. Eventually, Copilot provided a stunning Microsoft trade secret—an und
 
 ### As temperatures get hotter, pesticides are more dangerous to farmworkers
 Tue, 18 Aug 2026 11:07:49 +0000 — https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/
 
 For the nation’s 2.4 million farmworkers, climate change is poised to exacerbate the harms of pesticides, a growing body of research shows. Heat stresses the body , making it more vulnerable to pesticides and other toxicants, and protective clothing worn in the heat only adds to this stress. Hotter temperatures can also lead to higher evaporation rates, increasing farmworkers’ exposure as more pesticides are applied to crops. And heat can boost rates of chemical transformation of pesticides into more toxic compounds. “When it’s in the air, you are inhaling it through your nose. You are exposed to it through your other organs like skin. Your skin can absorb some of the pesticides [that are] in the air, and also when you’re sweating as part of doing your work you are increasing the pore size of your skin,” said Omanjana Goswami, a scientist in the food and environmental program at the Union for Concerned Scientists, an advocacy group. “It is awful. There is no other word for it.” Read full article Comments ]]>
 
-### Theban tomb reveals how Egyptian burial trends evolved in time
-Tue, 18 Aug 2026 04:00:40 +0000 — https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/
-
-Egypt's Theban necropolis holds over 400 tombs, a rich resource for archaeologists eager to learn more about that region's ancient history. A new paper published in the journal Frontiers in Environmental Archaeology outlines how Egyptian burial trends likely changed over the course of centuries, shifting from individual burials in elaborate coffins to reusing earlier burial sites for later interments, resulting in greater density and the occasional superposition of bodies. There has been prior research on the reuse of tombs in Thebes. This latest paper focused on a Theban tomb known as 209 in the western necropolis, dating back to the early 25th Dynasty (754–656 BCE) and ultimately abandoned in the Ptolemaic period (305–30 BCE). The original owner was likely a high official of Nubian origin named Nisemro. Over the centuries, the tomb was prone to repeated flash flooding due to its location within an active drainage channel of the Wadi Hatasun, so it's a complex site, archaeologically speaking. That made it ideal for what the authors term an "integrated archaeothanatological approach," incorporating collected data on body position, coffin use, superpositions of remains, and stratigraphic relationships with osteological analysis in order to reconstruct the chronological sequence of the burials. They focused on a site known as Side Chamber 3, one of the main secondary areas of the tomb that was largely undisrupted. Read full article Comments ]]>
-
-### US vaccination rates fall again as exemptions continue to rise, CDC data shows
-Mon, 17 Aug 2026 22:08:47 +0000 — https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/
-
-The Centers for Disease Control and Prevention on Monday released data on the vaccination rates of US kindergarteners in the 2025–2026 school year, revealing that rates have once again decreased from the previous school year. Vaccination rates have been slipping since the 2019–2020 school year, when the US had obtained rates of around 95 percent, the threshold needed to keep outbreaks of vaccine-preventable diseases from spreading in communities. The latest data shows the US is moving further away from that target. Nationally, only 92.4 percent of kindergartners were vaccinated with the measles, mumps, and rubella (MMR) vaccine in the 2025–2026 school year, down from 92.5 percent last year. Coverage with the DTaP vaccine, which covers diphtheria, tetanus, and acellular pertussis (whooping cough), similarly fell from 92.1 percent to 92.0 percent. Read full article Comments ]]>
-
-### Former SpaceX engineers are building a robotic factory for making steel parts
-Mon, 17 Aug 2026 21:18:49 +0000 — https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/
-
-Three former SpaceX engineers have switched their attention from making rocket engines to manufacturing steel parts by using AI-driven software and robots. Their immediate goal involves establishing a prototype factory that can automate most of the steel fabrication process for crucial infrastructure components by 2027. The startup, called 1872 , officially launched on July 22 with a ribbon-cutting ceremony at its Factory One facility in Cincinnati, Ohio. The company is initially focused on automating the manufacturing of steel skids—rectangular steel frames that can provide a moveable foundation for modular buildings—with the goal of supplying customers who are developing AI data centers or small modular nuclear reactors. “We're building towards autonomy, but we're not necessarily building in a dogmatic fashion towards full autonomy,” Dan Summers, CEO of 1872, told Ars. “We may achieve 80 percent autonomous operations, and we may decide that it makes sense to stop there because there's just diminishing returns to go to full 100 percent.” Read full article Comments ]]>
-
-### The Moon's shadow raced across the heart of Spain, and I was there to see it
-Mon, 17 Aug 2026 20:23:09 +0000 — https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/
-
-DURATÓN, Spain—I'll say it: I'm hooked. Standing in the shadow of the Moon is one of the rarest opportunities to directly sense the mechanics of our Solar System, when the dance between three celestial bodies slides into perfect alignment. It's a mathematical miracle whose rarity and grandeur are made possible by the relative sizes and distances of the Moon and the Sun from Earth. Not every planet is so lucky. The Moon's shadow crisscrossed the American heartland twice in less than seven years, first in 2017 and again in 2024 . I was fortunate to witness both. The experiences left me too impatient to wait for the next total solar eclipse in the continental United States in far-off 2044. That's what pulled me to the plains of north-central Spain last week. This land of wide open spaces, ancient churches and castles, and vast sunflower fields, all baking under the blinding August Sun, seemed like the perfect location to enter the path of totality. The ongoing drought in Spain has turned the country's fields and forests into a tinderbox , but those conditions made for ideal eclipse viewing. Read full article Comments ]]>
-
-### As Wisconsin cities flee Flock, its shared camera network loses value
-Mon, 17 Aug 2026 20:14:23 +0000 — https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/
-
-Perhaps it's the local summer diet of deep-fried cheese curds , corn on the cob, and Spotted Cow , but Wisconsin residents have been feeling pretty dyspeptic about Flock's automated license plate cameras. Over the past few months, a spate of Wisconsin towns and cities have withdrawn from Flock deals over privacy and trust concerns. As they did so, another issue revealed itself: With each city that leaves, the Flock network becomes less useful to the cities that remain. And cities are starting to notice. Consider Dane County, which includes the city of Madison. It's one of the most populous counties in Wisconsin. It was also a significant Flock user, with a contract for 24 license plate cameras. But after complaints from citizens and privacy experts, the Dane County Board of Supervisors on April 16 voted to cut the $80,000 in county funding for Flock cameras and banned "further expenditures on the system." Read full article Comments ]]>
-
-### Supreme Court rejects Verizon bid for $47 million refund of FCC fine
-Mon, 17 Aug 2026 20:00:20 +0000 — https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/
-
-The Supreme Court today rejected Verizon's attempt to get a $47 million refund from the Federal Communications Commission. In a list of orders issued by the court, Verizon's petition was denied without explanation. The denial apparently ends any possibility of Verizon asking a lower court to review the fine and order the FCC to issue a refund. However, AT&T and T-Mobile are continuing to challenge similar fines on grounds that selling device-location data did not violate US telecom law. AT&T, T-Mobile, and Verizon were fined a total of $196 million in 2024 for selling mobile users’ real-time location data without their customers' consent. The carriers sold device-location information to data aggregators, who resold it to other firms. Read full article Comments ]]>
-
-### Petlibro accused of “gaslighting” users over smart pet feeder outage
-Mon, 17 Aug 2026 18:43:51 +0000 — https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/
-
-Petlibro founder and CEO York Wu provided more information about an outage that left users unable to control their smart pet feeders through the companion app and, in some reported cases, left them with hungry pets. Petlibro, a company owned by Shenzhen, China-headquartered firm Shenzhen Libro Technology Co., first acknowledged the outage on Tuesday at 5 am PT. At 7 pm PT on Wednesday, Petlibro said the outage was resolved. Notably, some people online reported different information at the time, and some claimed to still have problems as of August 13 . In a blog post on Saturday that included an apology and acknowledgement of the “frustration and concern” the outage caused, Wu confirmed that problems with Petlibro’s cloud server caused the outage: Read full article Comments ]]>
-
-### Hidden Airtag reveals Amazon is trashing rare books to train AI
-Mon, 17 Aug 2026 18:13:47 +0000 — https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/
-
-For the past year or so, booksellers have suspected that AI firms are buying up huge lots of rare books, then destroying them after scanning them to train AI. But this was hard to prove until now, as 404 Media reports that an Airtag hidden in a rare book shows that at least one tech giant, in the race to advance its frontier models, is behind some of the bulk orders: Amazon. On Monday, 404 Media revealed that it had connected with a bookseller who agreed to plant an Airtag in a rare book that was part of a bulk order. That Airtag was then tracked to an Amazon AI training facility in Las Vegas that housed a team focused on tearing books from their spines and scanning pages, 404 Media reported. Apparently tone-deaf to the escalating backlash over destructive book scanning, a logo on the door of that team’s warehouse, VGT3, showed a Tyrannosaurus rex preparing to devour a book, 404 Media documented. Amazon deflects Amazon declined to comment on 404 Media’s findings, only providing Ars with the same statement it gave to 404 Media, which does not mention AI training specifically. Read full article Comments ]]>
-
 ## The Verge
+
+### SteelSeries’ comfy wireless gaming headset is nearly half off
+2026-08-18T16:01:01-04:00 — https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale
+
+The Nova 3P in eye-catching cyan. | Image: SteelSeries While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot . The SteelSeries Arctis Nova 3P in cyan is on sale for $59.99, a 45 percent discount from their usual $109.99 price. SteelSeries Arctis Nova 3P Where to Buy: $109.99 $59.99 at Woot This headset, like most of SteelSeries’ models, feature a stretchy strap on the headband to offset its weight, plus a removable boom mic so you can take them on the go. While they sound good right out of the box, the SteelSeries app offers over 200 game-specific equalizer profiles that can enhance the sound experience, emphasizing the sound of footsteps in shooters, for example, or adding a richness to the music in cinematic games. This version of the headset is compatible with Windows and macOS computers, PlayStation consoles, Nintendo Switch and Switch 2, and Android and iOS mobile devices. They include both a Bluetooth connection for calls and mobile use, and a compact low latency USB-C dongle for listening over a 2.4GHz wireless connection. They’re advertised to last up to 40 hours on a single charge, and can fast charge for up to nine hours of gaming in just 15 minutes via USB-C. ]]>
+
+### Robin Williams’ Instagram account brought back to fight ‘AI abuse’
+2026-08-18T15:48:26-04:00 — https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai
+
+Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap . In a post on Tuesday , Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a "safe, trusted place where the stories, photos, videos, and memories shared reflect his legacy with authenticity, warmth, and care." A story posted to Zelda Williams' own Instagram account expands on the decision to bring back her father's profile, saying that it's meant to help combat "rampant AI abuse," according to The Wrap : I'm sorry if anyone found Da … Read the full story at The Verge. ]]>
+
+### OpenAI lays out new security changes after its AI hacked Hugging Face
+2026-08-18T15:28:30-04:00 — https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack
+
+OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face , including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra , that it thinks could have "critical" cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its "latest models intended for deployment" while it tightened up security. The company's "largest planned frontier RL run remains on hold." For its frontier model research, OpenAI now r … Read the full story at The Verge. ]]>
+
+### Samsung’s Galaxy Buds 3 Pro are almost half off today
+2026-08-18T13:47:04-04:00 — https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale
+
+The Samsung Galaxy Buds 3 Pro. If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature excellent sound quality, crisp transparency mode, and a clear microphone for taking calls on the go. Samsung Galaxy Buds 3 Pro The Galaxy Buds 3 Pro are Samsung’s best-sounding wireless earbuds yet. They have a stemmed design similar to the AirPods Pro, but even if their design is a little bland, the Buds 3 Pro make up for it with great call quality, useful voice commands, and more. Where to Buy: $249.99 at Amazon $249.99 $169.88 at Walmart $249.99 $149.99 at Best Buy When we reviewed the Buds 3 Pro, Chris Welch was particularly impressed by the audio quality, which he described as “full and detailed” with strong bass and treble. One standout feature are voice commands, which let you quickly adjust the volume or control media playback by simply speaking the command, no wake phrase required. They have excellent battery life for the category, and IP57 water and dust resistance. Read our Samsung Galaxy Buds 3 Pro review . window.HYPE_DESK_CONFIG = { productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/04_foldable_phone_16x9.png", productImageAlt: "Samsung Galaxy Z Fold7 Unlocked", productTitle: "Samsung Galaxy Z Fold7 Unlocked"
+
+### PlayStation s wireless gaming speakers launch in November
+2026-08-18T13:18:57-04:00 — https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder
+
+Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday . Announced nearly a year ago , the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include "studio-inspired planar magnetic drivers" that offer "lifelike sound across the entire audible spectrum," Sony says. They also include a built-in mic for voice chat, Sony's PlayStation Link low-latency tech, and charging docks for topping up the batteries. The Pulse Elevate speakers come in two colors, black and white, and preorders begin on September 1st at 10AM ET in the US or 10AM local t … Read the full story at The Verge. ]]>
 
 ### Apple squashes EU beef with new App Store rules
 2026-08-18T12:48:26-04:00 — https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission
@@ -88,31 +113,6 @@ There's an argument to be made that people wouldn't be all that interested in Co
 2026-08-18T09:30:00-04:00 — https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing
 
 Xfinity gateways XB7 and newer can now act as motion sensors in your home. | Image: Comcast Comcast is bringing Wi-Fi motion sensing to millions of routers that are already in customers' homes, turning the devices into activity monitors. A new update to the Xfinity Internet app, arriving today, August 18th, enables the feature on compatible Xfinity routers at no extra cost. Announced as part of its new Xfinity Shield service, WiFi Motion can monitor activity in your home and send you notifications, similar to a standalone motion sensor. It works by detecting disruptions in the Wi-Fi signal between the Xfinity gateway and any Wi-Fi-connected device, giving you some insight into what's happening in your home without buying addition … Read the full story at The Verge. ]]>
-
-### ABC sues the FCC over Trump and Carr s campaign of threats
-2026-08-18T09:27:43-04:00 — https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit
-
-ABC is suing the Federal Communications Commission over claims the agency "waged a retaliatory campaign" against its networks over the content they broadcast. In a lawsuit filed in federal court on Tuesday, ABC and its parent company Disney accuse the FCC of "punishing ABC for its speech" by threatening its broadcast licenses. It's the latest escalation in the dispute between ABC and the Trump administration, which has been critical of the network's political coverage - especially by late-night host Jimmy Kimmel and The View . The FCC opened an investigation into The View 's airtime of political candidates in February and ordered ABC stations … Read the full story at The Verge. ]]>
-
-### Polaroid’s new Pokémon collection captures memories, not Pikachus
-2026-08-18T09:00:00-04:00 — https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film
-
-Polaroid announced a new collection of cameras, instant film, and accessories all featuring limited-edition designs to help celebrate the 30th anniversary of Pok&eacute;mon . The new collection goes a little harder than Fujifilm's Pok&eacute;mon collaboration from five years ago with the introduction of Polaroid film printed with various characters around the frames, including Pikachu and Snorlax. The entire collection will be available for preorder starting on August 25th in the US, Canada, and the UK through the Polaroid and Pok&eacute;mon Center websites . A global release is expected to follow on October 5th. The three cameras are existing models with new des … Read the full story at The Verge. ]]>
-
-### Firefox s Smart Window promises a better AI browser
-2026-08-18T09:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features
-
-Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa . Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural language. I saw a live demo that showed how the Smart Window AI could sort through selected links in your browsing history to pull up "running shoes I looked at last week," and pop up images pulled from the sites browsed previously. The suggested groups of tabs can also find and close duplicates, making it … Read the full story at The Verge. ]]>
-
-### Google s Pet Memory forgot who my cats are
-2026-08-18T08:01:29-04:00 — https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review
-
-One of the best things my smart home does is help me care for my pets , and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home , I thought this could be the perfect solution. Pet Memory promises to teach your Google Home smart home who your pets are, allowing connected Nest cameras to go beyond simply telling you they saw an animal to which animal they saw. It can then use that knowledge to adapt your smart home to your pet. My plan was to use it to keep a digital … Read the full story at The Verge. ]]>
-
-### The Verge Guide to Pets
-2026-08-18T08:01:28-04:00 — https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale
-
-Ah, the relationship between animals and the technology they can’t quite understand. Today, it seems like there’s a high-tech solution to every element of pet ownership, with devices on the market designed to keep pets fed, cleaned, watched over, and entertained. And if you have a pet you know: nothing is too good — or too cutting-edge — for your (furry, slimy, feathery) best friend. But while some tech can help care for your pet, it can be complicated when dogs and cats meet wires and waves. You might feel complicated about offloading elements of kitten parenthood to a robot. Some pet tech innovations over-promise or are over-hyped. And of course, your puppy (or parrot) might well mistake your gadgets for a snack. To that end, we’ve put together a week of stories that explore the intersection of technology and pet ownership. Read on for how to take a decent photograph of your cat, pet scales and the chunky companions who need them, and takes on our favorite tools, both simple and complex. Whisker’s AI-powered litter robot thinks my cats swapped bodies How to take better photos of your pets How I turned my fish tank high tech My parrot ate my keyboard Oops! My cat is an iPad kid Google s Pet Memory forgot who my cats are ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +178,26 @@ It is not a secret that American judges have very broad judicial immunity. Appar
 
 ## Phoronix
 
+### Modular s Mojo Language Now Open-Source Following Qualcomm Acquisition
+Tue, 18 Aug 2026 20:33:22 -0400 — https://www.phoronix.com/news/Modular-Mojo-Open-Source
+
+Modular, the AI startup founded by Chris Lattner of LLVM and Swift fame, has open-sourced their Mojo systems programming language! This comes following the recent acquisition of Modular by Qualcomm...
+
+### COSMIC Epoch 1.6 Released With Per-App Volume Control, Remote Desktop Preparations
+Tue, 18 Aug 2026 20:20:01 -0400 — https://www.phoronix.com/news/COSMIC-Epoch-1.6
+
+COSMIC Epoch 1.6 was released this evening as the latest milestone for this open-source, Rust-based desktop environment led by System76 as part of the work on their Pop!_OS Linux distribution...
+
+### Linux 7.3 Adds New "bpf_sock_read_xattr" Feature For systemd, BPF Programs
+Tue, 18 Aug 2026 15:38:32 -0400 — https://www.phoronix.com/news/Linux-7.3-bpf_sock_read_xattr
+
+Merged earlier this year for Linux 7.1 was extended attributes on sockets support as a feature sought after by the likes of GNOME and systemd for helping with Varlink IPC usage and other purposes. A limitation though of the functionality has been no efficient means for a BPF program to read those user extended attribute labels back. But with Linux 7.3 that's being addressed with the new bpf_sock_read_xattr() kernel function...
+
+### IOmap Improvement For Linux 7.3 Takes EXT4 & XFS Performance Further
+Tue, 18 Aug 2026 13:25:00 -0400 — https://www.phoronix.com/news/IOmap-Linux-7.3-Faster
+
+As part of the VFS pull requests now merged to the Linux 7.3 development kernel was an improvement to the IOmap framework used by various file-systems for mapping logical file byte offsets in memory to their physical locations on storage. With the now-merged code, this modern block mapping framework is allowing better performance at least for the EXT4 file-system...
+
 ### Framework Laptop 12 Updated For Intel Wildcat Lake, Shipping Starts In October
 Tue, 18 Aug 2026 12:14:17 -0400 — https://www.phoronix.com/news/Framework-Laptop-12-WCL
 
@@ -217,24 +237,4 @@ Merged today to Mesa 26.3-devel is a nice performance boost for Intel graphics w
 Tue, 18 Aug 2026 05:35:33 -0400 — https://www.phoronix.com/news/XFS-FALLOC-FL-WRITE-ZEROES
 
 The XFS file-system improvements have been merged for Linux 7.3. For end-users the only notable change for this file-system on the new kernel is adding support for FALLOC_FL_WRITE_ZEROES...
-
-### EFS & FreeVxFS File-Systems Get Booted While FailFS Merged For Linux 7.3
-Mon, 17 Aug 2026 20:29:44 -0400 — https://www.phoronix.com/news/Linux-File-System-Changes-7.3
-
-Among the early pull requests merged today by Linus Torvalds for the Linux 7.3 kernel cycle were removal of some ancient file-systems while adding in a new pseudo file-system...
-
-### Linux 7.3 To Land Initial Code Improving vRAM Management, More Improvements Coming
-Mon, 17 Aug 2026 17:15:57 -0400 — https://www.phoronix.com/news/Linux-7.3-Improving-vRAM-Mgmt
-
-Earlier this year Natalie Vock of Valve's Linux graphics team laid out some patches for improving the Linux gaming experience for systems with limited vRAM. The kernel work for improving that video memory management is set to be introduced in the Linux 7.3 kernel. While that's a celebration on its own, Vock is pursuing more improvements still for bettering the Linux GPU driver video memory management behavior...
-
-### FFmpeg Lands H.265 Vulkan Encode Performance Optimizations
-Mon, 17 Aug 2026 16:14:03 -0400 — https://www.phoronix.com/news/FFmpeg-Faster-HEVC-Encode
-
-The FFmpeg multimedia library can now enjoy faster H.265/HEVC video encoding with the Vulkan-powered encode path. With the optimizations merged today, the H.265 encode performance should be roughly at parity to the H.264 encode speed...
-
-### Offloading Rust To GPUs Proves Capable Of High Performance With Memory Safety
-Mon, 17 Aug 2026 15:30:16 -0400 — https://www.phoronix.com/news/LLVM-Offload-Rust-Performance
-
-A new research paper published on LLVM offloading to GPU accelerators using the Rust programming language is talking up the prospects of making use of safe Rust code for GPU kernels while retaining Rust's memory safety and other advantages over C++ / CUDA / HIP...
 

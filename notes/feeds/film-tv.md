@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-18T17:02:57.267Z
+# Film & TV — harvested 2026-08-19T05:07:33.695Z
 
 ## Variety
 
-### The Sims 4 Sets In-Game Crossover With ‘Clueless’ and ‘Mean Girls’ (Gaming News Roundup)
-Tue, 18 Aug 2026 17:00:00 +0000 — https://variety.com/2026/gaming/news/sims-mean-girls-clueless-gaming-news-roundup-week-august-17-1236836647/
+### Supergirl Star David Krumholtz Posts and Deletes Plans to Retire From Acting: And Now, New Life
+Wed, 19 Aug 2026 01:43:48 +0000 — https://variety.com/2026/film/news/david-krumholtz-posts-deletes-retire-from-acting-1236837871/
 
-Get in, losers! It’s time to take your Sim shopping. The Sims 4 is getting two new for-purchase fashion kits for “Mean Girls” and “Clueless,” upgrading players’ online closets with ‘90s and early 2000s looks. Starting Aug. 27, the Mean Girls Capsule will bring a fetch array of miniskirts and matching sweaters and velour track [ ]
+David Krumholtz, who played Kor-El in this year s Supergirl and appeared in Oppenheimer and The Studio, said on Threads Monday that he s done with acting and ready to start a new life. However, he later deleted the posts that spoke of his frustration with getting jobs in Hollywood, leading fans to speculate whether he is [ ]
 
-### Hidden Heroes: A Descendants Story Adds 6 to Cast, Including Darren Criss as Jiminy Cricket and Sherry Cola as Yzma From Emperor s New Groove
-Tue, 18 Aug 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/hidden-heroes-a-descendants-story-cast-darren-criss-1236837236/
+### John Irvin, Director of Hamburger Hill, Tinker Tailor Soldier Spy, Dies at 86
+Wed, 19 Aug 2026 00:28:51 +0000 — https://variety.com/2026/film/news/john-irvin-dead-hamburger-hill-1236837824/
 
-The Disney Channel and Disney+ movie Hidden Heroes: A Descendants Story is rounding out its cast with six new additions. The new cast members are: Darren Criss (“The Assassination of Gianni Versace: American Crime Story,” “Maybe Happy Ending”) as Jiminy Cricket from “Pinocchio; Sherry Cola (“Joy Ride,” “Camp Rock 3”) as Yzma from “The Emperor s [ ]
+John Irvin, the British director of “Hamburger Hill,” the “Tinker Tailor Soldier Spy” miniseries and 1981’s “Ghost Story,” died Aug. 11. He was 86. His producers confirmed he died at the home of his sister-in-law in the U.K. The award-winning director’s career spanned several decades, each punctuated by a different focus. By the end of [ ]
 
-### What Will I Become? Review: Transmasculine Lives Take Center Stage in a Poignant Portrait of Loss
-Tue, 18 Aug 2026 16:58:36 +0000 — https://variety.com/2026/film/reviews/what-will-i-become-review-1236832853/
+### Heroes Creator Tim Kring Pays Tribute to Hayden Panettiere as a Singularly Talented Actor With a Deep Understanding of Human Nature
+Tue, 18 Aug 2026 22:47:02 +0000 — https://variety.com/2026/tv/news/heroes-tim-kring-tribute-hayden-panettiere-1236837796/
 
-At an early point in “What Will I Become?,” co-director Logan Rozos explains to the camera, “We are not taken seriously, so we have to take ourselves very seriously.” The film he has made, with Lexie Bean, tackles the crisis of transmasculine suicide head-on, while adding specificity and poignant remembrance. Though it mostly avoids being a PSA, [ ]
+Hayden Panettiere was a seasoned professional by the time she auditioned for “Heroes” at the age of 16. But unlike many actors who start working as kids, Hayden had no sense of jaded child actor quality to her. Although confident in her abilities, she was still guileless, sweet and always open to suggestions. It was [ ]
 
-### Olivia Colman Joins Only Murders in the Building Season 6
-Tue, 18 Aug 2026 16:57:32 +0000 — https://variety.com/2026/tv/global/olivia-colman-only-murders-in-the-building-season-6-1236837324/
+### Felicia Day, Wil Wheaton on New Tabletop Gaming Show Conludo, How The Guild Reunion Movie Will Be Impacted by a Denied California Tax Credit
+Tue, 18 Aug 2026 22:32:16 +0000 — https://variety.com/2026/tv/news/felicia-day-wil-wheaton-the-guild-movie-show-conludo-1236837516/
 
-Olivia Colman has joined the London-set sixth season of Only Murders in the Building. The Oscar winner was revealed as the show s latest guest star in a video posted on its Instagram account on Tuesday featuring cast members Selena Gomez, Meryl Streep and Martin Short. We have had so many amazing guest stars for Only [ ]
+Reunions all around for Felicia Day these days: Amid a massive fundraiser for a movie reunion of her series “The Guild,” Day is reteaming with longtime friend and collaborator Wil Wheaton for a new kind of board game TV series. Launching as fan-unlocked content tied to “The Guild: Ren Faire d” movie s ongoing Kickstarter campaign (which [ ]
 
-### Netflix s Next Dating Show Explores Love After Extreme Weight Loss
-Tue, 18 Aug 2026 16:54:54 +0000 — https://variety.com/2026/tv/news/netflix-weight-loss-dating-show-1236837308/
+### Walmart Touts Free Peacock Access for Walmart+ Members on Heels of Streamer s Latest Price Hike
+Tue, 18 Aug 2026 22:11:00 +0000 — https://variety.com/2026/shopping/news/best-walmart-plus-deals-streaming-offers-1236040212/
 
-Love is blind, love is on the spectrum, love is suddenly skinny? Netflix s next dating show will follow singles during extreme weight loss journeys, exploring how they navigate dating, identity and the search for lasting love. The series, which has the working title Weight to Date, is casting contestants over 18 years old now. The [ ]
+Walmart is offering up some new deals, discounts and special offers right now, including a way to get a Peacock streaming subscription for free. While Walmart is touting its back to school deals right now, the retailer is also offering access to its Walmart+ membership program for just $1 for your first month. Regularly $12.95/month, [ ]
 
-### Woody Harrelson Calls Jesse Eisenberg’s ‘The Debut’ ‘Phenomenal,’ Talks ‘Brothers’ With Matthew McConaughey: ‘If You’re Looking for ‘True Detective,’ It’s Not This’
-Tue, 18 Aug 2026 16:54:33 +0000 — https://variety.com/2026/film/global/woody-harrelson-jesse-eisenberg-brothers-matthew-mcconaughey-1236836973/
+### Clive Barker Announces Kickstarter-Exclusive Anthology Book Series ‘Library of the Dead’ (EXCLUSIVE)
+Tue, 18 Aug 2026 22:10:15 +0000 — https://variety.com/2026/digital/news/clive-barker-kickstarter-series-library-of-the-dead-1236837367/
 
-The applause thundering within the Sarajevo National Theater could be heard from a mile away on Tuesday afternoon. The reason? Woody Harrelson. The actor, who is at the festival as the recipient of an honorary Heart of Sarajevo Award, delighted passionate fans in a 90-minute career talk bookended by two comedy shows: his breakout, “Cheers,” [ ]
+Horror master Clive Barker is set to release the new “Library of the Dead” anthology project Aug. 18 exclusively on Kickstarter. The three-book horror anthology consists of three books: “Fear Eternal,” “Pyres of Bedlam” and “Dark Descents.” The project is collectively a spiritual successor to Barker’s “Books of Blood.” “Library of the Dead” brings together [ ]
 
-### Bill Rasmussen, ESPN s Founder, Dies at 93
-Tue, 18 Aug 2026 16:26:13 +0000 — https://variety.com/2026/tv/news/bill-rasmussen-espn-founder-dead-1236837219/
+### ‘Days of Our Lives’ EP on Bringing John Oliver s Dream Soap Opera Role to Life: He Wanted to Be Slapped
+Tue, 18 Aug 2026 22:09:35 +0000 — https://variety.com/2026/tv/news/john-oliver-wanted-to-be-slapped-days-of-our-lives-1236837667/
 
-Bill Rasmussen, a former local-news sports director who parlayed an interest in the nascent business of satellite television into the launch of the sports-media giant known as ESPN, has died after a battle with Parkinson s disease. The entrepreneur and founder was 93 years old. Rasmussen in 1978 was idling in traffic on Connecticut s Interstate 84 [ ]
+Ken Corday, the executive producer of “Days of Our Lives,” knew John Oliver needed to make an appearance on his series. The host of the Emmy-winning HBO series Last Week Tonight publicly declared his desire to star in a soap opera during a March episode of his talk show, and Corday immediately got to work. [ ]
 
-### Fulvio Lucisano, Italian Producer of Planet of the Vampires and What Have You Done to Solange?, Dies at 98
-Tue, 18 Aug 2026 16:12:00 +0000 — https://variety.com/2026/film/global/fulvio-lucisano-dead-italian-producer-planet-of-the-vampires-1236837169/
+### Hayden Panettiere Stuck Up for Background Actors When They Were Mistreated on Heroes Set and Knew Every Crew Members Name
+Tue, 18 Aug 2026 22:05:11 +0000 — https://variety.com/2026/tv/news/hayden-panettiere-defended-mistreated-background-actors-heroes-set-1236837264/
 
-Italian producer Fulvio Lucisano, who shepherded a slew of cult B-movies such as “Planet of the Vampires” and “What Have You Done to Solange?” and had a close rapport with Roger Corman, has died. He was 98. His daughter Paola confirmed Lucisano s death on Tuesday in a statement sent to Italian news agency ANSA, writing: [ ]
+Hayden Panettiere stuck up for background actors when they were mistreated on the Heroes set and knew every crew member s name, her co-star Sendhil Ramamurthy lovingly remembered in a social media tribute to the late actor. Panettiere died on Aug. 16 at the age of 36. Heroes marked one of her most prolific TV series. She starred [ ]
 
-### New Marilyn Monroe Barbie Doll Inspired by Diamonds Are a Girl s Best Friend Ensemble
-Tue, 18 Aug 2026 16:00:00 +0000 — https://variety.com/2026/shopping/news/marilyn-monroe-barbie-diamonds-are-a-girls-best-friend-buy-1236836651/
+### How A Knight of the Seven Kingdoms, Fallout and Spider-Noir Production Designers Built Out Their Worlds While Honoring the Source Material
+Tue, 18 Aug 2026 21:57:36 +0000 — https://variety.com/2026/artisans/features/knight-seven-kingdoms-fallout-spider-noir-production-designers-1236837481/
 
-Marilyn Monroe s birthday celebrations haven t concluded quite yet. Mattel is honoring the Hollywood icon with a new Barbie Signature doll inspired by her performance of Diamonds Are a Girl s Best Friend in the 1953 musical Gentlemen Prefer Blondes. The collectible arrives Aug. 18, a little more than two months after what would have been Monroe s [ ]
+This year, an unprecedented number of genre and fantasy shows broke into the Emmys race, including “Widow’s Bay,” “A Knight of the Seven Kingdoms,” “It: Welcome to Derry,” “Fallout,” “Spider-Noir” and “Alien: Earth,” which were all recognized across multiple below-the-line categories. Shows like “AKOTSK,” “Alien: Earth,” “It: Welcome to Derry” and “Fallout” already have an [ ]
 
-### American Black Film Festival 2027 Heads to Los Angeles After 24 Years in Miami (EXCLUSIVE)
-Tue, 18 Aug 2026 16:00:00 +0000 — https://variety.com/2026/film/news/american-black-film-festival-2027-los-angeles-1236836839/
+### California Lawmakers Near Deal to Address Impact of Tax Cap on Film Credits
+Tue, 18 Aug 2026 21:39:31 +0000 — https://variety.com/2026/film/news/california-tax-cap-deal-film-credits-1236836863/
 
-After calling Miami home for the past 24 years, the American Black Film Festival is heading to Los Angeles for its 31st edition, which takes place May 20-23, 2027. ABFF 2027 will set up shop across the greater Los Angeles area, making stops at AMC’s Grove location for film screenings and the Academy Museum of [ ]
+California lawmakers are closing in on a deal to help film producers who are facing new limits on their ability to monetize production tax credits. The agreement falls short of the entertainment industry s goal of a full exemption from a $5 million annual cap on corporate tax credits, according to multiple sources. The state budget, [ ]
 
 ## The Hollywood Reporter
 
-### Laurie May Stepping Down From Elevation Pictures
-Tue, 18 Aug 2026 17:02:20 +0000 — https://www.hollywoodreporter.com/business/business-news/laurie-may-elevation-pictures-1236676141/
+### Anne Hathaway Pushed Really Hard Trying to Get Julie Andrews to Return for Princess Diaries 3
+Wed, 19 Aug 2026 02:11:41 +0000 — https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-pushed-julie-andrews-return-princess-diaries-3-1236676722/
 
-She leaves the indie film distribution giant she founded 13 years ago, with Noah Segal remaining at the helm as president.
+'The Sound of Music' star recently told The Hollywood Reporter that she doesn't "think I should be a part of" the upcoming film.
 
-### Darren Criss, Sherry Cola Join Disney s Hidden Heroes: A Descendants Story
-Tue, 18 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hidden-heroes-descendants-cast-darren-criss-sherry-cola-1236675667/
+### A Breed Apart Director Recalls Hayden Panettiere’s Dark Energy on Set: She Was Not OK
+Wed, 19 Aug 2026 01:30:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/director-hayden-panettiere-dark-energy-brian-hickerson-1236676682/
 
-The movie will center on iconic Disney sidekicks.
+Griff Furst also mentioned the actress's on-again, off-again boyfriend Brian Hickerson’s presence when he would visit the filming set.
 
-### Rosie O Donnell Crushed Her Kimmel Monologue by Doing What Jimmy Kimmel Doesn t
-Tue, 18 Aug 2026 16:38:11 +0000 — https://www.hollywoodreporter.com/tv/tv-news/rosie-odonnell-jimmy-kimmel-live-monologue-1236676023/
+### David Krumholtz Says He s Retiring from Acting in Shock Social Post: Profession Has Lost Its Gleam
+Wed, 19 Aug 2026 00:36:15 +0000 — https://www.hollywoodreporter.com/movies/movie-news/david-krumholtz-retiring-acting-threads-post-hollywood-over-1236676672/
 
-Now living in Ireland, O'Donnell returned to late night and focused on telling stories about living a normal life instead of obsessing over Trump.
+The veteran and in-demand star, who recently starred in 'Supergirl,' is "fed up" with Hollywood: "There was a time when being competitive and self-involved really served my pursuit. That time has passed."
 
-### Phyllida Law, Actress and Mother of Sophie and Emma Thompson, Dies at 94
-Tue, 18 Aug 2026 16:38:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/phyllida-law-dead-emma-thompson-sofie-1236676119/
+### For Jacob Whiteduck-Lavoie, Everyday on ‘Sterling Point‘ Was the Best Day Ever
+Tue, 18 Aug 2026 23:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/jacob-whiteduck-lavoie-sterling-point-interview-1236676550/
 
-She appeared onstage in ‘A Day in the Death of Joe Egg’ and ‘La Cage Aux Folles’ and in films including ‘Much Ado About Nothing,’ ‘The Winter Guest’ and ‘Emma.’
+The 23-year-old Canadian actor digs into booking the Prime Video YA series and how he made the jump to English-speaking roles.
 
-### Story Syndicate Promotes Jon Bardin to President of Documentary and Unscripted (Exclusive)
-Tue, 18 Aug 2026 16:18:36 +0000 — https://www.hollywoodreporter.com/business/business-news/story-syndicate-promotes-jon-bardin-1236675464/
+### Inside the Fake Celebrity Podcast Scam Fooling Hollywood
+Tue, 18 Aug 2026 23:18:28 +0000 — https://www.hollywoodreporter.com/news/general-news/celebrity-podcast-scam-bruce-vilanch-seth-rudetsky-1236676601/
 
-The ‘Maternal Instinct’ and ‘Last Take’ producer has been supervising the company’s expansion into more recurring series like ‘Solo Traveling with Tracee Ellis Ross.’
+Seth Rudetsky thought Nikki Glaser wanted him on her podcast. Bruce Vilanch thought Terry Gross wanted him on hers. Both were targets of a hoax.
 
-### The Estate of Marilyn Monroe Helped Mattel Design Barbie Doll for the Legend s 100th Birthday
-Tue, 18 Aug 2026 16:10:44 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/marilyn-monroe-barbie-doll-100th-birthday-release-price-buy-1236675613/
+### Down the Arm of God Review: Caleb Landry Jones in a Sincere, if Heavy-Handed, Drama About a Texas Pastor Tackling Homelessness, and His Own Congregation
+Tue, 18 Aug 2026 23:10:20 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/down-the-arm-of-god-review-caleb-landry-jones-1236675972/
 
-The toy company has designed seven dolls in the Hollywood icon's image.
+Nick Stahl and Mena Suvari costar in the Locarno-premiering film, produced by Luc Besson and directed by Peter Brunner.
 
-### Bill Rasmussen, Co-Founder of ESPN, Dies at 93
-Tue, 18 Aug 2026 15:58:55 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bill-rasmussen-espn-co-founder-1236676072/
+### Marilyn Monroe s 100th Birthday Brings Official Coffee Table Book, Barbie, Brut and More
+Tue, 18 Aug 2026 23:09:00 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/marilyn-monroe-100th-birthday-book-collectibles-memorabilia-1236526925/
 
-The former New England Whalers exec and his son came up with the idea for an all-sports network in 1978 while stuck in traffic.
+The Estate of Marilyn Monroe continues to unveil authorized merchandise and brand collaborations for her centennial celebration.
 
-### Woody Harrelson Pays Tribute to Brilliant Rob Reiner at Lively Sarajevo Masterclass
-Tue, 18 Aug 2026 15:50:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/woody-harrelson-rob-reiner-sarajevo-film-festival-1236676042/
+### Neve Campbell and Scream Stars Pay Tribute to Hayden Panettiere After Her Death: She Brought a Magnetic Energy to Set
+Tue, 18 Aug 2026 23:06:09 +0000 — https://www.hollywoodreporter.com/movies/movie-news/neve-campbell-scream-stars-hayden-panettiere-tributes-1236676443/
 
-The three-time Oscar nominee delighted the crowd by reflecting on his colorful career, including the moment he "fucked up" by turning down Tom Cruise's role in 'Jerry Maguire.'
+The actress, who died at age 36, originated the role of Kirby Reed in 2011's 'Scream 4' and reprised the fan-favorite character in 2023’s 'Scream VI.'
 
-### Jay Shetty Remembers Hayden Panettiere, Reflects on Their Emotional Interview: You Were the Brave One
-Tue, 18 Aug 2026 15:16:59 +0000 — https://www.hollywoodreporter.com/news/general-news/jay-shetty-remembers-hayden-panettiere-1236676031/
+### Shawn Hatosy on The Pitt, Calls for a Night Shift Spinoff and Projects That Got Away — Including Breaking Bad !
+Tue, 18 Aug 2026 22:28:20 +0000 — https://www.hollywoodreporter.com/tv/tv-news/shawn-hatosy-the-pitt-night-shift-spinoff-breaking-bad-1236676193/
 
-"You were courageous, resilient and so incredibly strong through so many difficult moments in your life,” the ‘On Purpose’ podcast host wrote to the late actress.
+The longtime actor, who starred on 'Southland' and 'Animal Kingdom' before winning a guest acting Emmy for the first season — and landing a best supporting actor Emmy nom for the second season — of 'The Pitt,' also confirms that he is directing another episode of the show for its third season.
 
-### Oldenburg Names First Titles for 2026 Selection
-Tue, 18 Aug 2026 15:07:47 +0000 — https://www.hollywoodreporter.com/movies/movie-news/2026-oldenburg-film-festival-first-selections-1236676019/
+### Beth Behrs Joins ABC s Shifting Gears for a 2 Broke Girls Reunion
+Tue, 18 Aug 2026 21:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/shifting-gears-beth-behrs-2-broke-girls-kat-dennings-1236676386/
 
-New films from regulars Edgar Pêra, Michael Polish and Bertrand Mandico are among the highlights at the German indie film fest this year.
+She'll guest star alongside Kat Dennings in a season three episode.
 
 ## Deadline
 
-### ESPN Founder Bill Rasmussen Dies At 93
-Tue, 18 Aug 2026 17:01:22 +0000 — https://deadline.com/2026/08/espn-founder-bill-rasmussen-dies-at-93-1237044298/
+### Yellowstone s Taylor Sheridan Shuts Door On Previously Announced 6666 Spinoff: I Would Never Do That
+Wed, 19 Aug 2026 03:55:19 +0000 — https://deadline.com/2026/08/yellowstone-taylor-sheridan-6666-spinoff-update-1237044957/
 
-Bill Rasmussen, a sports visionary who founded ESPN in 1979 with his son Scott as the world s first 24-hour sports television network, died Tuesday at 93 of Parkinson’s disease at his home in Florida. Shrugging off skeptics, the pioneering Rasmussen – after being fired as communications director of the New England Whalers acquired space [ ]
+Yellowstone co-creator Taylor Sheridan has limits on what spinoffs he will do and has shut the door on a fictionalized version based on the Four Sixes Ranch in Texas. In a new interview, Sheridan said that the previously announced 6666 spinoff was not happening. There s never going to be one, he said on the Rodeo [ ]
 
-### Macaulay Culkin Signs With CAA
-Tue, 18 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/macaulay-culkin-signs-caa-1237044228/
+### Ariana Madix Teases Unseen Footage At Love Island USA Season 8 Reunion That Cleared A Lot Of Things
+Wed, 19 Aug 2026 03:30:00 +0000 — https://deadline.com/2026/08/ariana-madix-unseen-footage-love-island-usa-season-8-reunion-1237044945/
 
-EXCLUSIVE: Actor Macaulay Culkin has signed with CAA. One of those actors who will be forever linked to an iconic film, Culkin is known for his role as Kevin McCallister in John Hughes holiday classic Home Alone, one of only a handful of films in the last 50 years to have remained at #1 at the box [ ]
+Ariana Madix is teasing the upcoming Love Island USA Season 8 reunion and revealing that there will be an unseen footage show. The special was filmed on August 10 and is set to stream on Peacock on Monday, August 31 at 9 p.m. ET / 6 p.m. PT, but the dating series host gave insight into what [ ]
 
-### Hidden Heroes: A Descendants Story Adds Darren Criss, Sherry Cola, James Monroe Iglehart More As Iconic Disney Characters
-Tue, 18 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/hidden-heroes-descendants-movie-cast-darren-criss-1237044232/
+### Supergirl Oppenheimer Actor David Krumholtz Taking An Indefinite Break From Acting: Frustrated, Fed Up, Fried
+Wed, 19 Aug 2026 02:30:08 +0000 — https://deadline.com/2026/08/supergirl-oppenheimer-actor-david-krumholtz-break-acting-1237044926/
 
-After revealing the start of production on a new Descendants film featuring the children of some of Disney s most beloved sidekicks, Disney Channel has added some additional cast members to the upcoming project. Hidden Heroes: A Descendants Story has added Darren Criss as Jiminy Cricket from Pinocchio, Sherry Cola as Yzma from The Emperor’s New Groove, James Monroe [ ]
+David Krumholtz will be taking a step back from Hollywood after the actor from Supergirl and Oppenheimer got real in a series of social media posts. The actor made the decision to take an indefinite break after expressing being frustrated, fed up, fried with the business, as the profession has lost its gleam. I kinda [ ]
 
-### Laurie May Departing As Co-President Of Elevation Pictures
-Tue, 18 Aug 2026 16:54:29 +0000 — https://deadline.com/2026/08/elevation-pictures-laurie-may-1237044305/
+### Robin Williams Kids Fight Against AI Slop By Reactivating His Instagram: As Technology Evolves, We Want This To Be A Safe, Trusted Place
+Wed, 19 Aug 2026 01:32:37 +0000 — https://deadline.com/2026/08/robin-williams-kids-fight-ai-slop-reactivating-instagram-1237044919/
 
-Laurie May is stepping down as co-President of Canadian indie distribution company, Elevation Pictures. Founded in 2013 during the Toronto International Film Festival by Black Bear s Teddy Schwarzman, Elevation Pictures has handled the Canadian release of such movies as Oscar winning The Imitation Game, Room, Moonlight, Everything Everywhere All at Once and the recent A24 [ ]
+Robin Williams three children have taken a step in the fight against AI slop using their father s likeness by reactivating his Instagram account. The social media platform had been dormant since 2014, when the actor died. As we recognize what would be our Dad s 75th year, we re grateful to see new generations discovering his work [ ]
 
-### Ken Kao s Waypoint Strikes First-Look With Splitsville ‘80 For Brady Outfit Watch This Ready, First Project Revealed
-Tue, 18 Aug 2026 16:46:08 +0000 — https://deadline.com/2026/08/waypoint-first-look-splitsville-80-brady-watch-this-ready-1237044260/
+### Five Standout Claims In ABC s First Amendment Lawsuit Against The FCC
+Wed, 19 Aug 2026 01:19:04 +0000 — https://deadline.com/2026/08/abc-trump-fcc-lawsuit-five-claims-1237044686/
 
-EXCLUSIVE: Ken Kao s prolific financier-producer Waypoint Entertainment has struck a first-look partnership with Watch This Ready, the indie production company co-founded by filmmakers Kyle Marvin and Michael Angelo Covino, alongside producer Emily Korteweg. The two companies previously collaborated on Dakota Johnson starrer Splitsville, which premiered at the Cannes Film festival last year and was picked [ ]
+ABC has been pushing back on FCC for several months now, but on Tuesday, it filed a First Amendment lawsuit, claiming that the agency s regulatory actions and investigations were part of a Trump administration effort to punish it for its speech. The lawsuit goes through a narrative of Donald Trump s attacks on the network, including [ ]
 
-### Verve Signs Filmmaker Anna Mastro
-Tue, 18 Aug 2026 16:45:00 +0000 — https://deadline.com/2026/08/anna-mastro-signs-verve-1237044200/
+### Everything We Know About Marvel’s Upcoming ‘X-Men’ Movie So Far
+Wed, 19 Aug 2026 00:17:54 +0000 — https://deadline.com/feature/x-men-movie-marvel-news-updates-everything-we-know-1237031344/
 
-EXCLUSIVE: Verve has signed Anna Mastro for representation. A filmmaker active across both film and television, Mastro is helming the feature adaptation of action-adventure game Gravity Rush for PlayStation Productions and Scott Free. Also attached to direct the romantic comedy Katfished for Rebelle Media, her earlier feature directing credits include Disney+ s Secret Society of Second Born Royals and the indie dramedy Walter. In [ ]
+Since Disney’s acquisition of 20th Century Fox in 2019, the clamor for a new X-Men movie has been loud, and Marvel inches closer every day to delivery on their latest installment in a growing universe. With several actors and actresses reprising their X-Men roles in Avengers: Doomsday out in December, ties to their characters in [ ]
 
-### Olivia Colman Joins Only Murders In The Building Season 6
-Tue, 18 Aug 2026 16:42:27 +0000 — https://deadline.com/2026/08/olivia-colman-murders-in-the-building-season-6-guest-star-1237044293/
+### John Irvin Dies: Director Of Hamburger Hill TV Drama Tinker Tailor Soldier Spy Was 86
+Tue, 18 Aug 2026 22:03:43 +0000 — https://deadline.com/2026/08/john-irvin-dead-hamburger-hill-raw-deal-director-1237044695/
 
-The guest star list for Season 6 of Only Murders in the Building just keeps growing. Olivia Colman has boarded the sixth season of Hulu s cozy murder mystery show, set to take place across the pond. The news was unveiled on social media in a video by Selena Gomez, Meryl Streep and Martin Short via [ ]
+British filmmaker John Irvin, known for action movies including Hamburger Hill and Raw Deal and the BAFTA-winning TV series Tinker Tailor Soldier Spy, has died. He was 86. According to Irvin s producers, the filmmaker died peacefully at the UK home of his sister-in-law on August 11, surrounded by his family. Irvin made more than 30 [ ]
 
-### CAA Hires Sophie Crowther To Expand UK-Based Creators Team
-Tue, 18 Aug 2026 16:18:35 +0000 — https://deadline.com/2026/08/caa-hires-sophie-crowther-uk-creators-team-1237044270/
+### Leslie Grossman Joins Power: Origins , Returning As Raising Kanan Character Flossie
+Tue, 18 Aug 2026 21:52:17 +0000 — https://deadline.com/2026/08/leslie-grossman-cast-power-origins-flossie-1237043664/
 
-EXCLUSIVE: Creative Artists Agency (CAA) has hired Sophie Crowther to join the agency s creators team in London. She from Billion Dollar Boy, where she built the company’s talent partnerships team and helped found and launch FiveTwoNine, a creator-focused brand and platform. In total, she has 12 years experience in the field. Prior to Billion Dollar [ ]
+EXCLUSIVE: If Queen Flossie left you wanting more on Power Book III: Raising Kanan, Leslie Grossman will be back to reprise the role in the new prequel Power: Origins. Grossman will recur in the new prequel series, which picks up after the events of the Raising Kanan series finale. When we last saw Florence Flossie [ ]
 
-### Amanda Warren Evan Jonigkeit To Topline Indie Sci-Fi Horror Door
-Tue, 18 Aug 2026 16:12:51 +0000 — https://deadline.com/2026/08/amanda-warren-evan-jonigkeit-to-star-door-sci-fi-horror-1237044266/
+### How A Tray Of Bloody Oysters Helped ‘The Diplomat’ Find “A Real Spine” For Season 4 – The Backstory
+Tue, 18 Aug 2026 21:23:00 +0000 — https://deadline.com/2026/08/the-diplomat-netflix-creative-team-interview-1237044316/
 
-EXCLUSIVE: Amanda Warren (The Leftovers) and Evan Jonigkeit (The Hunting Wives) are currently shooting lead roles in Door, an indie sci-fi horror film also starring Akira Jackson (It Ends), River Blossom (Abbott Elementary), Johnny Sibilly (Hacks), and Henry Ian Cusick (Lost). Marking the feature directorial debut of Sara Magness and Wil Magness, who also wrote the screenplay, [ ]
+A tray of bloody oysters, served during the middle of an international crisis, was the key to unlocking relationships that changed the dynamic of The Diplomat. In the scene, two couples are ruminating on the events of the day, including the President of the United States debating whether to tell the British Prime Minister that [ ]
 
-### Hollywood Climate Summit, Jackson Wild Unveil Finalists For Expanded Nature Climate Storytelling Awards
-Tue, 18 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/hollywood-climate-summit-jackson-wild-climate-storytelling-awards-1237043028/
+### ‘The Pitt’ Production Designer Nina Ruscio Talks Expanding The ER For Season 2 World-Building Through Furniture
+Tue, 18 Aug 2026 21:15:00 +0000 — https://deadline.com/2026/08/the-pitt-production-designer-interview-season-2-1237044580/
 
-Hollywood Climate Summit and Jackson Wild have set finalists for their first joint awards ceremony Nov. 10 in Los Angeles spanning narrative film TV from Train Dreams and Hacks, to unscripted and documentary This is a Gardening Show and Nuisance Bear. Selected from over 500 global submissions, finalists represent the most impactful, innovative, and [ ]
+From creator R. Scott Gemmill, The Pitt highlights the challenges U.S. frontline healthcare professionals face through the lens of the fictional Pittsburgh Trauma Medical Center’s emergency department. In a real-time, hour-by-hour format, audiences see the medical cases and the personal turmoil (and occasional life-saving joys) that physicians and nurses must navigate as they reckon with [ ]
 
-### ‘Weight To Date’ Series Set At Netflix; Marks IPC’s First Sale Since Founders Left Sony Pictures TV
-Tue, 18 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/weight-to-date-reality-series-netflix-ipc-1237043520/
+### Remarkably Bright Creatures Star Sally Field Has An Appreciation For Octopuses Anger
+Tue, 18 Aug 2026 21:00:00 +0000 — https://deadline.com/2026/08/sally-field-remarkably-bright-creatures-interview-1237044576/
 
-EXCLUSIVE: Netflix is exploring the world of dating following extreme weight loss in its latest non-scripted order. Deadline understands the streamer has greenlit Weight To Date from The Intellectual Property Corporation (IPC). The deal came only a few weeks after Eli Holzman and Aaron Saidman, who are now co-CEOs of the company, exited Sony Pictures [ ]
+Until recently, an octopus was not the most obvious choice to co-star with Sally Field. Looking at her career thus far, one might immediately think of her alongside Julia Roberts and Shirley MacLaine in Steel Magnolias, or those Oscar-winning turns opposite Beau Bridges in Norma Rae and with John Malkovich, Danny Glover and Ed Harris [ ]
 
-### Rosie O Donnell Takes Aim At Donald Trump In Fiery Jimmy Kimmel Live! Monologue: Hi, I Know You re Watching!
-Tue, 18 Aug 2026 15:58:04 +0000 — https://deadline.com/2026/08/rosie-odonnell-donald-trump-jimmy-kimmel-live-monologue-1237044192/
+### Beth Behrs Joins ABC s Shifting Gears For Season 3
+Tue, 18 Aug 2026 21:00:00 +0000 — https://deadline.com/2026/08/beth-behrs-cast-abc-shifting-gears-season-3-1237044658/
 
-Buckle up, people! Rosie O Donnell immediately set the tone for her first monologue as guest host on Jimmy Kimmel Live! Monday. The comedian, who is filling in for vacationing host Jimmy Kimmel, reflected back on her stint from 1996-2002 on her own talk show, The Rosie O Donnell Show, in her first monologue of the week. [ ]
+Beth Behrs (The Neighborhood, 2 Broke Girls) has joined the cast of ABC s Shifting Gears for the upcoming third season. She will guest star as Dr. Johnson, a beautiful emergency room doctor who treats Riley (Kat Dennings) for a back injury. Behrs will reunite with Dennings on Shifting Gears, her 2 Broke Girls co-star, and [ ]
 
