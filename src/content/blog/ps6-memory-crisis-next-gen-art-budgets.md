@@ -4,7 +4,6 @@ date: 2026-08-19
 category: Tech
 excerpt: Sony's CEO says PS6 pricing and timing are still undecided because DRAM stays expensive through FY2027. For anyone who plans texture streaming pools for a living, that's not investor-call noise, it's the exact budget problem I run into on every environment.
 cover: /img/blog/ps6-memory-crisis-next-gen-art-budgets/shot-01.jpg
-draft: true
 ---
 
 Sony CEO Hiroki Totoki said this week that the company still hasn't fixed a launch date for
