@@ -1,6 +1,11 @@
-# AI — harvested 2026-08-19T14:17:09.039Z
+# AI — harvested 2026-08-19T17:01:23.832Z
 
 ## OpenAI
+
+### Replit expands access to software creation with GPT-5.6 Luna
+Wed, 19 Aug 2026 07:00:00 GMT — https://openai.com/index/replit
+
+Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.
 
 ### ChatGPT Ads expands across Europe
 Tue, 18 Aug 2026 22:00:00 GMT — https://openai.com/index/chatgpt-ads-expands-across-europe
@@ -57,5 +62,8 @@ _Nothing in the last 48 hours._
 
 ## VentureBeat AI
 
-_Nothing in the last 48 hours._
+### VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+Wed, 19 Aug 2026 14:18:12 GMT — https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push
+
+Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technical rigor and operating experience needed to dissect the architecture behind the next phase of enterprise AI deployment. The questions enterprise technology leaders are asking have changed. As organizations move past experimentation with generative AI toward production deployment, they want to know how to orchestrate multi-vendor environments, where the security gaps in their agentic pipelines sit, and how to fix the utilization problems draining their infrastructure budgets. Answering those questions requires more depth than news coverage alone provides, and that is the gap this research offering is built to fill. An analyst who has sat on every side of the table Strechay brings nearly three decades of experience as a practitioner, product executive, and industry analyst. Before becoming an analyst, he was an executive at numerous startups, including Zerto; he joined Amazon Web Services t
 

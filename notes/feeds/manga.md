@@ -1,6 +1,21 @@
-# Manga — harvested 2026-08-19T14:17:09.039Z
+# Manga — harvested 2026-08-19T17:01:23.832Z
 
 ## Anime News Network
+
+### Reborn as a Vending Machine, I Now Wander the Dungeon Season 3 Anime Series Review
+Wed, 19 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/reborn-as-a-vending-machine-i-now-wander-the-dungeon-season-3/anime-series/.240475
+
+What a wacky, random, and fun ride this third season is!
+
+### Ghost in the Shell ‒ Episode 7
+Wed, 19 Aug 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/ghost-in-the-shell/episode-7/.240716
+
+As Motoko Kusanagi desperately dives into her damaged, deteriorating mind, she experiences something that can only be described as transcendental.
+
+### One Piece (2026-) ‒ Episode 1174
+Wed, 19 Aug 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/one-piece/episode-1174/.240708
+
+It’s hard not to cheer alongside the warriors of Elbaph as our two favorite giants deliver a double home run swing laser beam from the deck of their longship.
 
 ### Red River ‒ Episode 7
 Wed, 19 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-7/.240697
@@ -46,21 +61,6 @@ Which starter Pokémon doughnut will you choose?
 Tue, 18 Aug 2026 20:26:29 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/shiro-kuroi-leviathan-manga-gets-live-action-film/.240701
 
 Shunsuke Michieda, Natsuki Deguchi star in February 11 sci-fi survival horror film
-
-### The Irregular at Magic High School 'Invasion Arc' Manga Ends, 'Future Arc' Manga Begins
-Tue, 18 Aug 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/the-irregular-at-magic-high-school-invasion-arc-manga-ends-future-arc-manga-begins/.240666
-
-Hazumi Takeda launched "Invasion Arc" manga in May 2025, will begin "Future Arc" manga next month
-
-### Jujutsu Kaisen, The Summer Hikaru Died Rank on NYT August Bestseller List
-Tue, 18 Aug 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-18/jujutsu-kaisen-the-summer-hikaru-died-rank-on-nyt-august-bestseller-list/.240654
-
-The first volume of Gege Akutami's Jujutsu Kaisen manga ranked at #7 on The New York Times' monthly Graphic Books and Manga bestseller list released in...
-
-### Comico Manga Service in Japan Shuts Down in January 2027 After 13 Years
-Tue, 18 Aug 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/comico-manga-service-in-japan-shuts-down-in-january-2027-after-13-years/.240662
-
-Service launched in 2013
 
 ## Crunchyroll News
 

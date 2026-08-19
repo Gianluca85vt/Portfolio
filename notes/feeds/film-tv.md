@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-19T14:17:09.039Z
+# Film & TV — harvested 2026-08-19T17:01:23.832Z
 
 ## Variety
 
-### Aliens vs. Devil Horror Story Haunting Skies Sets Film Adaptation; Author Christian Kang Bachini to Direct, Natasha Halevi and Emily Ashby to Star (EXCLUSIVE)
-Wed, 19 Aug 2026 14:16:46 +0000 — https://variety.com/2026/film/news/haunting-skies-aliens-devil-horror-novel-film-adaptation-1236837878/
+### It Finally Feels Like We re Back in 2019 : Movie Theater Owners Rejoice Over $4 Billion Summer. Can the Fall Keep the Momentum?
+Wed, 19 Aug 2026 17:00:00 +0000 — https://variety.com/2026/film/box-office/movie-theater-owners-summer-box-office-fall-films-1236836744/
 
-Indie horror novel “Haunting Skies” is primed for an on-screen adaptation. Christian Kang Bachini, a filmmaker who wrote the novel, is set to helm the film version of “Haunting Skies” via Via Mantra Productions, Variety can report. Per the logline, “Haunting Skies” “imagines an Earth already conquered by alien invaders, who abduct the remaining survivors [ ]
+B B Theatres CEO Bob Bagby apologized to his staffers in advance. He was bracing for the opening weekend of “Spider-Man: Brand New Day” and knew everyone would need to work around the clock. That’s no exaggeration: Screenings were scheduled at such odd hours as 8 a.m. and 2:30 a.m. to meet demand. “We were calling [ ]
 
-### MS NOW to Launch Subscription Membership Service in September for $7.99 Per Month
-Wed, 19 Aug 2026 14:13:41 +0000 — https://variety.com/2026/tv/news/ms-now-subscription-membership-launch-7-99-per-month-1236838166/
+### Larry David Ended Friendship With Trump Lawyer Alan Dershowitz Because He Made a Deal With the Devil. Literally. He Only Has Himself to Blame
+Wed, 19 Aug 2026 16:47:38 +0000 — https://variety.com/2026/tv/news/larry-david-fought-alan-dershowitz-trump-lawyer-deal-with-devil-1236838193/
 
-MS NOW is betting its followers need more than news and opinion in the moment. The Versant-backed news outlet unveiled its most detailed plans yet around the launch of a new subscription based Membership service that is expected to debut in September for $7.99 per month or $79.99 annually. The network sees Membership as an [ ]
+Larry David told The Atlantic that ex-friend Alan Dershowitz made a deal with the devil when he became a lawyer on Donald Trump s defense team during the president s first impeachment trial in 2020, hence the two gentleman are no longer friends. Dershowitz and David got into an infamous altercation on Martha s Vineyard in 2021 that [ ]
 
-### Allison Janney Was Told by an Agent She Could Only Play Aliens and Lesbians Because I m So Tall
-Wed, 19 Aug 2026 14:05:56 +0000 — https://variety.com/2026/tv/news/allison-janney-agent-aliens-lesbians-1236838136/
+### Hollywood‘s Push for Federal Film Tax Credit Could Help Boost Production in All States
+Wed, 19 Aug 2026 16:45:00 +0000 — https://variety.com/2026/film/focus/federal-film-tax-credit-production-1236837623/
 
-Allison Janney was the first guest on CNN s new interview series Coming Up, hosted by former Variety chief correspondent Elizabeth Wagmeister, and the Emmy winner revealed the dispiriting advice she heard from a Hollywood agent when she was first starting out in the industry. I remember when I was very young trying to find an [ ]
+In the David Mamet satire “State and Main,” a film crew creates havoc when it descends on a small town in Vermont. In real life, Hollywood almost never comes to Vermont, one of 11 states without a production tax incentive. In fact, “State and Main” was filmed in Massachusetts. Vermont has no film office either. [ ]
 
-### Les Mis Star Bradley Jaden to Make Broadway Debut in Wanted Musical (EXCLUSIVE)
-Wed, 19 Aug 2026 14:00:00 +0000 — https://variety.com/2026/legit/news/les-mis-bradley-jaden-broadway-debut-wanted-1236837187/
+### Crunchyroll Thinks Small When It Comes to Building Out Its Global Anime Empire
+Wed, 19 Aug 2026 16:45:00 +0000 — https://variety.com/2026/film/focus/crunchyroll-anime-global-1236837643/
 
-Bradley Jaden, who just wrapped an acclaimed run as Javert in Les Misérables: The Arena Concert Spectacular, is making his Broadway debut in the fall. The actor is joining the company of Wanted alongside the previously announced cast of Solea Pfeiffer, Liisi LaFontaine, Luke James and Ledisi. Described as a soulful and dangerous and mostly-true [ ]
+For two decades, Crunchyroll built its business on anime, growing the U.S. audience for the animated content from a niche genre to a mainstream giant. But its growth has been built on thinking small. “We like to say that we don’t want to be something for everyone. We want to be everything to someone, and [ ]
 
-### ‘Freefall’: A Kennedy Scion Probes the Mysterious Death of a Boeing Whistleblower
-Wed, 19 Aug 2026 14:00:00 +0000 — https://variety.com/2026/film/features/freefall-reckoning-for-boeing-netflix-whistleblower-john-barnett-1236837828/
+### Good American Family Renewed for Season 2 at Hulu, to Focus on Lorena Bobbitt Case
+Wed, 19 Aug 2026 16:35:36 +0000 — https://variety.com/2026/tv/news/good-american-family-renewed-season-2-hulu-lorena-bobbitt-1236838345/
 
-Rory Kennedy thought she was through with Boeing. The Oscar-nominated filmmaker behind “Last Days in Vietnam” and “Ghosts of Abu Ghraib” — and youngest child of late Sen. Robert F. Kennedy and Ethel Kennedy — had spent years making “Downfall: The Case Against Boeing,” a 2022 documentary exploring the “profits over people” approach at the [ ]
+Hulu is bringing back Good American Family for a second season, with the show taking on an anthology format. The second season will focus on the case of Lorena Bobbitt and her husband John Bobbitt. Series creator and executive producer Katie Robbins will return for Season 2, as will Season 1 star and executive producer [ ]
 
-### Steven Soderbergh Teams With British Arthouse Chain Everyman, Singani 63 on A Man Under the Influence London Screening Series (EXCLUSIVE)
-Wed, 19 Aug 2026 13:34:50 +0000 — https://variety.com/2026/film/global/steven-soderbergh-a-man-under-the-influence-london-1236838097/
+### Corey Hawkins Signs With Range Media Partners (EXCLUSIVE)
+Wed, 19 Aug 2026 16:30:00 +0000 — https://variety.com/2026/film/news/corey-hawkins-signs-range-media-partners-1236837854/
 
-Steven Soderbergh is creating what he hopes will be a heady cocktail by mixing two of his greatest passions: mind-altering movies and Bolivian brandy brand Singani 63. Over the course of 63 days, from Sept. 3 through Oct. 30, Singani 63 and British arthouse movie theater chain Everyman will present “A Man Under the Influence: [ ]
+Range Media Partners has signed Corey Hawkins for representation, Variety can exclusively reveal. Hawkins continues to be represented by WME, JTWAMM and Shelter PR. Hawkins, a graduate of the Juilliard School’s drama program, got his break starring as Dr. Dre in F. Gary Gray’s 2015 NWA biopic “Straight Outta Compton.” Some of Hawkins other early [ ]
 
-### Here s How to Watch the 2026 Little League World Series Live Online
-Wed, 19 Aug 2026 13:30:08 +0000 — https://variety.com/2026/shopping/news/how-to-watch-little-league-world-series-online-livestream-free-1236487338/
+### Venice Chief Alberto Barbera Defends Selection of Russian Director Ilya Khrzhanovsky s DAU After Backlash: It s Not Pro-Putin Propaganda
+Wed, 19 Aug 2026 16:22:46 +0000 — https://variety.com/2026/film/festivals/venice-chief-defends-dau-selection-ukraine-backlash-1236838254/
 
-The 2026 Little League World Series features 20 of the best youth baseball teams from around the world, including United States, Canada, Japan, South Korea, Mexico, Australia and others. The tournament starts with Leon NCA vs. Santiago DOM on Wednesday, Aug. 19 at 1 p.m. ET/10 a.m. PT on ESPN. Games take place at Lamade [ ]
+Venice Film Festival artistic director Alberto Barbera took to social media on Wednesday to fight back against criticism of the inclusion of Russian filmmaker Ilya Khrzhanovsky’s DAU in this year’s edition. Acknowledging the “bloody and cruel war” in Ukraine, Barbera wrote in an Instagram post that “to build a web of accusations based on false [ ]
 
-### Hook, AI-Powered Music Remixing App, Strikes UMG Deal as It Takes Social-Forward Approach to Fan-Created Remixes (EXCLUSIVE)
-Wed, 19 Aug 2026 13:10:18 +0000 — https://variety.com/2026/digital/news/hook-ai-powered-music-remixing-app-strikes-umg-deal-1236838121/
+### Insidious: Out of the Further’ Review: Latest Entry in the Franchise Serves Up Genuinely Terrifying Setpieces Despite a Convoluted Final Act
+Wed, 19 Aug 2026 16:04:02 +0000 — https://variety.com/2026/film/reviews/insidious-out-of-the-further-review-1236837868/
 
-In an era where AI music generation has ruptured the music industry, a social-forward music remixing app is aiming to stand out among the rest — with the help of one of the major labels. Hook, an AI-powered app where fans can create minute-long clips that remixes or mashes up a licensed artist’s track to share [ ]
+If you’ve always been terrified of dental work and the idea of someone poking around your pearly whites with sharp tools, you’re not alone. With “Insidious: Out of the Further,” the sixth entry in the infinitely inventive horror franchise, writer-director Jacob Chase is unashamed to declare that he shares your fears, while having some gross-out [ ]
 
-### Mutiny Review: Jason Statham Dies Hard on a Cargo Ship in a Thriller of Impeccable Bring-the-Pain Timing
-Wed, 19 Aug 2026 13:00:29 +0000 — https://variety.com/2026/film/reviews/mutiny-review-jason-statham-1236837057/
+### Building the Band Group Soulidified Signs to Atlantic Records (EXCLUSIVE)
+Wed, 19 Aug 2026 16:00:00 +0000 — https://variety.com/2026/music/news/soulidified-signs-to-atlantic-records-building-the-band-1236837558/
 
-"Mutiny," a revenge thriller set aboard a giant cargo ship, shows that there’s life in the "Die Hard on a Boat" concept. The film makes you think of Bruce Willis in other ways too, since its star, Jason Statham, boasts a macho chrome dome and offs his enemies with a blithe viciousness that evokes Willis at his ruthless best.
+Soulidified has signed to Atlantic Records, just a year after they were introduced to the world on Netflix s Building the Band, Variety can exclusively announce. The group, consisting of Shade Jenifer, Malik Heard, Bradley Rittmann and Landon Boyce, was initially formed on Building the Band, which aired in July 2025. They joined together as a [ ]
 
-### Bloomberg Media Sets Interview Series Post Credits Hosted by Ian Schafer (EXCLUSIVE)
-Wed, 19 Aug 2026 13:00:00 +0000 — https://variety.com/2026/tv/news/bloomberg-media-post-credits-ian-schafer-1236837684/
+### Netflix Buys Wu-Tang Clan Doc The Disciple Directed by Joanna Natasegara (EXCLUSIVE)
+Wed, 19 Aug 2026 16:00:00 +0000 — https://variety.com/2026/film/global/netflix-buys-wu-tang-clan-doc-the-disciple-1236838138/
 
-Variety has learned exclusively that Bloomberg Media is launching a new conversational series titled Post Credits with host Ian Schafer. The series hails from Ensemble, a Hoorae Media Company, of which Schafer is the co-founder and president. The show will feature conversations with creators, executives, entrepreneurs and cultural leaders about the intersection of the creator [ ]
+The Disciple: A Wu-Tang Fable the Sundance-bowing doc that unravelled the story of Dutch-Moroccan rapper and producer Cilvaringz and the making of the controversial Wu-Tang Clan record Once Upon a Time in Shaolin, is heading to Netflix. The streamer has acquired rights to the feature, directed and produced by Oscar-winning British filmmaker Joanna Natasegara ( The [ ]
 
 ## The Hollywood Reporter
 
-### David E. Kelley Gets Into Live Streaming — Salmon Included
-Wed, 19 Aug 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/david-e-kelley-nature-series-live-migrations-1236676915/
+### Michael Sheen, Wanda Sykes, Tramell Tillman Among Host of Murderbot Season 2 Guest Stars
+Wed, 19 Aug 2026 16:45:46 +0000 — https://www.hollywoodreporter.com/tv/tv-news/murderbot-season-2-guest-stars-1236677049/
 
-The prolific showrunner is executive producing 'Live Migrations,' a series that follows wildlife migrations in real time.
+The Apple TV series will also feature Blair Underwood, Steve Buscemi, Martha Plimpton and several others.
 
-### Jordan Firstman Plays Unexpected Dad in ‘Club Kid’ Trailer
-Wed, 19 Aug 2026 13:50:34 +0000 — https://www.hollywoodreporter.com/movies/movie-news/club-kid-trailer-jordan-firstman-unexpected-dad-1236676942/
+### Nielsen Rolls Out Suite of TV Ratings Updates for 2026-27 Season
+Wed, 19 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/nielsen-tv-ratings-changes-2026-27-season-1236676535/
 
-His directorial debut, which premiered in Cannes, sees a washed-up club promoter suddenly landed with the son he never knew he had.
+The ratings provider says the changes in co-viewing measurement, TV universe estimates and other areas will bring more accurate data to clients.
 
-### Dina Duma s Skateboarding Is Not for Girls Is About Much More Than Just Skateboarding
-Wed, 19 Aug 2026 13:35:38 +0000 — https://www.hollywoodreporter.com/movies/movie-features/dina-duma-skateboarding-is-not-for-girls-film-sarajevo-fest-1236676894/
+### Wild Horse Nine to Open Mill Valley Film Festival With Star Sam Rockwell Set for Tribute (Exclusive)
+Wed, 19 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/wild-horse-nine-sam-rockwell-mill-valley-film-festival-1236676808/
 
-The Sarajevo Film Festival competition title follows fatherless 11-year-old Adela, whose life is turned upside down when her sister is forced to have an arranged marriage: "Even when you don't see the man, you can feel the patriarchy."
+John Malkovich also stars in Martin McDonagh's movie that hits theaters later this year from Searchlight.
 
-### Wild! Mattel Sets UNO Card-Game Competition Series to Stream on Twitch
-Wed, 19 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/mattel-uno-card-game-competition-twitch-stream-1236676401/
+### A Con Artist With a Conscience: Apple TV’s Lucky‘ Preserves the Novel’s Central Identity Crisis
+Wed, 19 Aug 2026 15:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lucky-author-finale-book-season-two-1236647049/
 
-The series will culminate with the UNO Championship Series Tournament on Nov. 11 in Los Angeles.
+Author Marissa Stapley talks about creating the morally gray heroine and her fight for a free life: “We're all such a product of where we came from, and part of Lucky is me saying you can fight against that, and you should."
 
-### Lucky Bosses Break Down That Killer Finale, Necessary Book Changes — and If There Could Be a Season 2
-Wed, 19 Aug 2026 12:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lucky-finale-explained-no-season-2-showrunners-interview-1236676734/
+### Lanterns Showrunner Chris Mundy Talks James Gunn’s Hands-Off Approach: We Weren t Shoehorned Into Anything
+Wed, 19 Aug 2026 15:36:37 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lanterns-season-2-james-gunn-1236676414/
 
-Showrunners Jonathan Tropper and Cassie Pappas peel back the curtain on the entirety of the Apple TV limited series starring Anya Taylor-Joy, explaining why Lucky's ending is the end.
+Mundy, who's six weeks into outlining his potential season-two story, is about to go pitch it: "We'll talk to folks about it really soon."
 
-### Busan Film Festival Sets Kim Jong-kwan s The Table: Day and Night as Opening Film
-Wed, 19 Aug 2026 12:14:01 +0000 — https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-kim-jong-kwans-the-table-day-and-night-opening-film-1236676903/
+### Solange Knowles Pays Tribute to ‘Bring It On: All or Nothing‘ Co-Star Hayden Panettiere: The Light Surrounds You Now“
+Wed, 19 Aug 2026 15:14:09 +0000 — https://www.hollywoodreporter.com/news/general-news/solange-knowles-tribute-hayden-panettiere-bring-it-on-1236677008/
 
-Described as a delicate romance that follows four couples' encounters within the same Seoul café, the film will world premiere in Busan on Oct. 6 — with star Kim Minha also hosting the opening ceremony.
+“I honor the work we created together that became something that really means something to people,“ Knowles said of the late actress.
 
-### RFK Jr. s Son Conor Kennedy Put on Russia s Most Wanted List
-Wed, 19 Aug 2026 11:31:51 +0000 — https://www.hollywoodreporter.com/news/politics-news/rfk-jr-son-conor-kennedy-put-on-russian-most-wanted-list-1236676897/
+### California Schemin Trailer: Two Scottish Rappers Con Their Way to a Record Deal in James McAvoy s Directorial Debut (Exclusive)
+Wed, 19 Aug 2026 15:00:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/california-schemin-trailer-james-mcavoy-directorial-debut-1236676347/
 
-A Moscow court charged Kennedy with acting as a "mercenary" for the brief period he volunteered to serve with Ukraine forces.
+The film, based on a true story, is set to hit theaters Oct. 9.
 
-### Why Emily Watson Will Never Quit Sarajevo Film Festival
-Wed, 19 Aug 2026 09:55:13 +0000 — https://www.hollywoodreporter.com/movies/movie-features/emily-watson-sarajevo-film-festival-jury-president-award-1236676828/
+### Spider-Man: Brand New Day Becomes Fastest Movie to Hit $800M at Domestic Box Office
+Wed, 19 Aug 2026 14:59:16 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-800-million-1236676998/
 
-This year's jury president and Honorary Heart recipient opens up about her decades-long devotion to the Bosnian festival: "It's [about] resistance, survival... Rather than a whole load of cynical sales agents."
+Tom Holland stars in the superhero behemoth that recently reached $2 billion globally to surpass Sony's all-time mark.
 
-### San Sebastian Film Festival to Open With Fatih Akin s Ghost Song
-Wed, 19 Aug 2026 09:25:15 +0000 — https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-2026-fatih-akin-ghost-song-opening-film-1236676846/
+### MS NOW Reveals New Member Tier Prices In Bet On Loyalty
+Wed, 19 Aug 2026 14:33:34 +0000 — https://www.hollywoodreporter.com/business/business-news/ms-now-member-tier-prices-1236676973/
 
-The movie will be part of the Spanish festival's competition lineup.
+The channel's leadership takes "the first step" toward building meaningful direct-to-consumer revenue with an $80 annual offering.
 
-### Sandra Wollner and Everytime Hit Sarajevo on the Festival Circuit: You Can Feel the History Here
-Wed, 19 Aug 2026 08:20:11 +0000 — https://www.hollywoodreporter.com/movies/movie-features/sandra-wollner-everytime-sarajevo-film-festival-competition-1236676154/
+### Abdul El-Sayed s Watch Collection Has Drawn Scrutiny — Is It Luxury or Simply Geek Chic?
+Wed, 19 Aug 2026 14:32:47 +0000 — https://www.hollywoodreporter.com/lifestyle/style/abdul-el-sayed-watch-collection-1236676544/
 
-The Austrian filmmaker also touches on possibly casting a Hollywood name and why she is pragmatic about the future of European cinema: "I don’t think culture is an 'added value,' a kind of luxury item. It’s part of how a society understands itself."
+While the progressive candidate campaigned to win this month’s Michigan Democratic Senate primary, conservatives bellowed that his wrist boasted pricey timepieces. But what's the real story? Watch experts weigh in.
 
 ## Deadline
 
-### Catherine Zeta-Jones-Led Kill Jackie Sets AMC+ Release Date
-Wed, 19 Aug 2026 14:03:29 +0000 — https://deadline.com/2026/08/catherine-zeta-jones-kill-jackie-release-date-amc-1237045160/
+### Vertical Video Economy Worth $150B, Even Without China – Owl Co Report
+Wed, 19 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/vertical-video-economy-value-owl-and-co-report-1237044181/
 
-AMC+ has slotted Friday, October 2 for the premiere of Kill Jackie, its upcoming revenge thriller series starring and executive produced by Catherine Zeta-Jones. The streamer also released new key art, which you can see below. Kill Jackie is based on Sunday Times bestselling author Nick Harkaway s (writing as Aidan Truhen) novel The Price You [ ]
+Vertical video will generate $150B this year – and that s excluding China, the country where it originated. Owl Co s inaugural Vertical Economy Report revealed the stat, which is up 42% on the figure the previous year and highlights how quickly microdrama has taken hold as a major content vertical. So much so, in fact, Hernan [ ]
 
-### New York Comedy Festival Adds More Than 100 Shows To 2026 Lineup
-Wed, 19 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/new-york-comedy-festival-lineup-100-shows-added-1237044396/
+### Marissa Jo Cerar Developing Drowning In Paper Flowers Novel For TV With Jenna Bush Hager Universal
+Wed, 19 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/marissa-jo-cerar-drowning-in-paper-flowers-novel-universal-1237044907/
 
-The New York Comedy Festival has added more than 100 shows to the lineup for its 2026 edition, taking place across NYC s five boroughs from Nov. 6-15. Select highlights include Tokyo Kanpai Boys at New York Comedy Club Upper West Side on the 6th, an Anxiety Club Screening and Conversation at The Venue on Music Row at Hard Rock [ ]
+EXCLUSIVE: Marissa Jo Cerar (Black Cake) is developing the E.L. Westbury novel Drowning in Paper Flowers for TV, with Jenna Bush Hager and Ben Spector of Thousand Voices, as well as Universal Global Television. The recently re-released novel follows Ruby Powell, a middle-aged housewife living in Dallas, who outwardly appears perfect—wealthy, beautiful, and respected in her community. However, [ ]
 
-### David E. Kelley Norcross Productions Launch Live Migrations Nature Series, The Great Sockeye Migration
-Wed, 19 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/david-e-kelley-live-migrations-nature-series-1237044845/
+### Kevin Bacon Kyra Sedgwick s SXSW Horror Pic Family Movie Sets Spring 2027 Release With Variance
+Wed, 19 Aug 2026 16:48:18 +0000 — https://deadline.com/2026/08/kevin-bacon-kyra-sedgwick-family-movie-release-date-1237045344/
 
-David E. Kelley is heading into nature, teaming with Norcross Productions to launch Live Migrations, a global live nature series that connects audiences with the world’s great animal migrations. The series kicks off today, Wednesday, August 18, with its inaugural production, The Great Sockeye Migration, a live, multi-camera journey into the heart of the world’s greatest [ ]
+EXCLUSIVE: The Bacon family s slasher movie, Family Movie, will be hitting theaters in North America on April 23, 2027 via Variance. Directed, produced by and starring Kevin Bacon and Kyra Sedgwick, Family Movie also headlines the duo s children, Travis and Sosie Bacon, who also produced. The pic, which world premiered at SXSW to 93% fresh [ ]
 
-### Apple TV Sets Return Of ‘Bad Monkey’ With Season 2 Premiere Date First-Look Photos
-Wed, 19 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/bad-monkey-season-2-release-date-first-look-photos-1237044890/
+### Scary Movie Sets Paramount+ Release Date
+Wed, 19 Aug 2026 16:46:26 +0000 — https://deadline.com/2026/08/scary-movie-streaming-release-date-paramount-plus-1237045298/
 
-Vince Vaughn’s Andrew Yancy will return in Bad Monkey Season 2, which debuts December 2 on Apple TV. Based on Carl Hiaasen’s New York Times bestselling novel and enduring cult favorite, the 10-episode sophomore season will revolve around an all-new original story, making its global debut on Apple TV Dec. 2 with its first episode followed [ ]
+Scary Movie (aka Scary Movie 6) will begin streaming September 3 on Paramount+. That marks a 91-day window between theatrical and streaming for the Paramount/Miramax pic. The latest reboot, which brought the Wayans Brothers back together, brought in over $230 million at the worldwide box office following its release. The pic before P A spend, cost [ ]
 
-### Wildwood Trailer: Laika Returns To Its Nature With Latest Stop-Motion Fantasy Adventure
-Wed, 19 Aug 2026 13:49:49 +0000 — https://deadline.com/2026/08/wildwood-trailer-laika-movie-1236900381/
+### Reagan Soul Surfer Filmmaker Sean McNamara To Direct Faith-Based Drama Blank Canvas
+Wed, 19 Aug 2026 16:41:52 +0000 — https://deadline.com/2026/08/sean-mcnamara-to-direct-faith-based-drama-blank-canvas-1237045193/
 
-UPDATED, 6:48 AM: Laika has now dropped the full trailer for Wildwood, the first stop-motion animated movie from the studio since 2019 s The Missing Link. Check it out above. PREVIOUSLY: Laika on Wednesday released the first teaser trailer for Wildwood, the first stop-motion animated movie from the studio since 2019 s The Missing Link, the most [ ]
+EXCLUSIVE: Reagan and Soul Surfer filmmaker Sean McNamara is aboard to write and direct faith-based drama Blank Canvas. The film is based on the 2022 memoir of the same name by author, speaker, and artist Marcy Gregg. The project is currently in development under Brookwell McNamara Entertainment. The synopsis reads: At the age of 30, Marcy Gregg [ ]
 
-### Jo Koy Sets Sixth Netflix Comedy Special Blue In The Face
-Wed, 19 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/jo-koy-new-netflix-special-premiere-date-blue-in-the-face-1237044411/
+### Good American Family To Take On Lorena Bobbitt As Hulu Orders Second Installment Of Anthology Series From Katie Robbins Ellen Pompeo
+Wed, 19 Aug 2026 16:30:00 +0000 — https://deadline.com/2026/08/good-american-family-lorena-bobbitt-anthology-ellen-pompeo-1237044871/
 
-EXCLUSIVE: Comedian Jo Koy has announced his sixth Netflix special, Blue in the Face, which will premiere globally on September 15. Filmed before a sold-out crowd at Stockton Arena, Koy s new hour sees him relive a wild dental disaster, recount getting fired from McDonald s, and celebrate his veteran stepdad. Check out a clip above. With Blue in the [ ]
+EXCLUSIVE: Good American Family is becoming an anthology. Hulu has greenlighted a limited series about Lorena Bobbitt as its second installment. It comes from the same team, led by creator, writer and executive producer Katie Robbins and executive producer Ellen Pompeo. Shortly after the Good American Family finale aired on April 30, 2025, Pompeo and [ ]
 
-### Zero Gravity Management Signs Horror Director Alex Kahuam
-Wed, 19 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/zero-gravity-management-signs-alex-kahuam-1237045046/
+### Mark Webber Jennifer DeLia Launch Production Company Beyond Culture, Unveil Initial Slate
+Wed, 19 Aug 2026 16:28:51 +0000 — https://deadline.com/2026/08/jennifer-delia-mark-webber-launch-beyond-culture-banner-1237045325/
 
-EXCLUSIVE: Alex Kahuam, director of Failure! and The Remedy, has signed with Zero Gravity Management. The Mexican filmmaker, who is best known for his work in the indie horror features space, will be represented by Zero Gravity s David Romero. Kahuam was the writer and director of Tallinn Black Nights pic Failure! and Forgiveness, which screened [ ]
+EXCLUSIVE: Mark Webber and Jennifer DeLia have partnered to launch Beyond Culture, an artist-led production banner, unveiling their initial slate. Beyond Culture is billed as a company integrating film, art, music, technology and experience, which will champion uncompromising voices and stories that expand consciousness, provoke convention and transcend mediums. Built around a model that prioritizes creative [ ]
 
-### ‘Club Kid’ Trailer: Jordan Firstman Is A Messy Father In His Buzzy Directorial Debut
-Wed, 19 Aug 2026 12:14:26 +0000 — https://deadline.com/2026/08/club-kid-trailer-jordan-firstman-a24-1237045141/
+### Ms. Pat Show Director Mary Lou Belli Knows Comedy Is More Than Getting A Laugh
+Wed, 19 Aug 2026 16:15:00 +0000 — https://deadline.com/2026/08/ms-pat-show-interview-season-5-1237044854/
 
-Here’s the first trailer for Jordan Firstman’s buzzy feature debut, Club Kid. A24, which acquired the film out of Cannes, will place the title in a limited theatrical release from Nov. 6. The movie follows Firstman as a hard-partying New York City club promoter whose life is upended by the arrival of the 10-year-old son [ ]
+Veteran director and EP Mary Lou Belli wasn’t looking to return to the world of multi-camera sitcoms when The Ms. Pat Show came along until she saw something diverse and unique enough to bring to life on TV. ​Based on the life experiences of comedian Patricia “Ms. Pat” Williams, the Paramount+ series follows a former [ ]
 
-### Former NBCU Marketing Whizz Kevin Harrington Launches New Entertainment Agency Patrick Patrick
-Wed, 19 Aug 2026 12:03:19 +0000 — https://deadline.com/2026/08/nbcu-marketing-whizz-kevin-harrington-lpatrick-patrick-1237045133/
+### Insidious: Out Of The Further Review: Horror Franchise Returns With A New Family PG-13 Zombie Twist That Feels A Bit Stale
+Wed, 19 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/insidious-out-of-the-further-review-hit-franchise-returns-1237045194/
 
-EXCLUSIVE: Former NBCUniversal marketing guru Kevin Harrington has launched a new entertainment marketing agency dubbed Patrick Patrick. The company, which quietly launched earlier this year, is already working with major clients such as Netflix, Universal Pictures and AMC on strategic and 360-degree campaigns. Harrington, who was previously Senior Director, Planning at NBC for Scripted and [ ]
+The ads for the sixth installment of Sony s cash-cow horror franchise Insidious: Out of the Further try to compare it to the enormous success earlier this year of innovative genre entries Obsession and Backrooms by noting it comes from the same producers (these include Blumhouse, James Wanm etc.). So feel free to think this is [ ]
 
-### Oscars: Czech Republic Selects Documentary Feature ‘If Pigeons Turned To Gold’ For Best International Feature Film Race
-Wed, 19 Aug 2026 11:25:45 +0000 — https://deadline.com/2026/08/oscars-czech-republic-if-pigeons-turned-to-gold-1237045128/
+### Nicolas Cage To Play Nuclear Apocalypse Survivor Battling Vicious Cannibals In Action-Thriller Parish TIFF Market
+Wed, 19 Aug 2026 15:46:29 +0000 — https://deadline.com/2026/08/nicolas-cage-to-battle-cannibals-in-action-movie-parish-1237045210/
 
-The Czech Republic has planted its flag early this year, selecting Pepa Ljubojacki’s documentary feature If Pigeons Turned to Gold as the country’s entry for the Best International Feature Film category at the 99th Academy Awards. Shot over a period of five years, the film follows Ljubojacki’s brother and two cousins whose addictions are slowly [ ]
+EXCLUSIVE: Here s a fun one. Nicolas Cage is set to play one of the last known survivors of a nuclear apocalypse who must do battle with a horde of vicious cannibals in new action-thriller Parish. Concourse Media is launching world pre-sales on the project ahead of the TIFF market. Set 30 years after a nuclear [ ]
 
-### Chulpan Khamatova To Lead Alexander Molochnikov s The Extremists From AR Content Forma Pro Films
-Wed, 19 Aug 2026 10:59:15 +0000 — https://deadline.com/2026/08/chulpan-khamatova-star-in-alexander-molochnikov-extremists-1237045109/
+### Dutch Kids TV Classic De Fabeltjeskrant Getting International Revival
+Wed, 19 Aug 2026 15:40:30 +0000 — https://deadline.com/2026/08/de-fabeltjeskrant-international-revival-cgi-series-1237045198/
 
-EXCLUSIVE: Chulpan Khamatova (Good Bye Lenin) has been set to star in Alexander Molochnikov’s The Extremists, a feature length version of the director’s Oscar-shortlisted short film Extremist. The original short centered on a young Russian artist who secretly replaced food labels in a Moscow supermarket with pacifist messages, an act that ultimately led to her [ ]
+EXCLUSIVE: De Fabeltjeskrant, the classic Dutch kids TV program set in the Great Animal Forest, is being given a new lease of life and a fresh international rollout. Some 1,600 episodes of the puppet show will be restored, as a CGI incarnation of the property enters development and will be shopped to buyers at MIPCOM [ ]
 
-### Minotaur Is A Live Oscar Contender For The Best International Film Category But For Which Country How Does It Stack Up?
-Wed, 19 Aug 2026 10:17:40 +0000 — https://deadline.com/2026/08/minotaur-oscar-contender-best-international-fim-category-1237043298/
+### Alex Ullom Unveils Cast For Neon Horror Film 4 X 4: The Event
+Wed, 19 Aug 2026 15:30:00 +0000 — https://deadline.com/2026/08/4x4-the-event-alex-ullom-neon-horror-film-sets-cast-1237044935/
 
-Andrey Zvyagintsev s Cannes Competition drama Minotaur is widely considered one of the live contenders to make the Academy s Best International Film category. Earlier this week, the Russian-language drama, which won the Grand Prix on the Croisette, was among eleven movies to make Germany s longlist for the prize. However, it was the only film on the [ ]
+EXCLUSIVE: Ahead of this weekend s release of his debut feature, the Neon horror thriller It Ends, Alex Ullom has set the lead cast for 4 X 4: The Event, his second feature for the studio. The group of eight includes Sophia Lillis (It), Dylan Minnette (13 Reasons Why), Marcel Ruiz (One Day at a Time), Quintessa Swindell (Teenage [ ]
 

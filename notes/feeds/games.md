@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-19T14:17:09.039Z
+# Games — harvested 2026-08-19T17:01:23.832Z
 
 ## Eurogamer
+
+### Third seemingly real GTA 6 video leaks as Rockstar scrambles to remove footage from the internet
+Wed, 19 Aug 2026 15:26:15 +0000 — https://www.eurogamer.net/third-leaked-gta-6-footage-rockstar-cyberleek
+
+Another video of what appears to be legitimate Grand Theft Auto 6 gameplay has leaked online, and again it bears the watermark of the group allegedly connected with today's earlier leaks, CyberLeek. Read more
+
+### Video game music, orchestral performances, and the sheer joy of a communal experience: how live concerts are helping us reconnect with gaming's good side
+Wed, 19 Aug 2026 14:11:10 +0000 — https://www.eurogamer.net/video-game-music-orchestras-live-optimism-week
+
+Hello! This piece is a part of Optimism Week on Eurogamer - a week of features either about optimism itself or those which hope to inspire it. For more articles like this, you can visit our Optimism Week hub . Thank you as ever for reading! Read more
 
 ### Horizon Hunters Gathering is reportedly no longer a live service game following negative feedback
 Wed, 19 Aug 2026 13:43:57 +0000 — https://www.eurogamer.net/horizon-hunters-gathering-reboot-away-live-service
@@ -52,17 +62,12 @@ Tue, 18 Aug 2026 14:39:08 +0000 — https://www.eurogamer.net/xbox-pc-game-pass-
 
 The next batch of Xbox and PC Game Pass games has been announced, detailing what's arriving in the latter part of August. Read more
 
-### Don't boycott Grand Theft Auto 6, say workers fired by Rockstar - buy a T-shirt to help fund the legal battle instead
-Tue, 18 Aug 2026 13:27:24 +0000 — https://www.eurogamer.net/rockstar-workers-dont-boycott-grand-theft-auto-6-support-union-costs
-
-The workers fired by Rockstar Games in an alleged 'union-busting' move last autumn have asked people concerned not to boycott the upcoming release of Grand Theft Auto 6 . Read more
-
-### Battlefield 6 is hosting a free trial, just in time for Call of Duty: Modern Warfare 4's beta
-Tue, 18 Aug 2026 11:54:47 +0000 — https://www.eurogamer.net/battlefield-6-free-trial-call-of-duty-modern-warfare-4-beta
-
-Battlefield 6 's latest free trial kicks off today alongside Season 4's mid-season update, and while that mightn't be especially notable in itself, the timing is moreso: it coincides with Call of Duty: Modern Warfare 4's highly anticipated, and stuffed, beta . Read more
-
 ## GamesIndustry.biz
+
+### "As more people play games, even the tiniest niches find a bigger audience" – Why Matt Webster is convinced people want Star Wars: Galactic Racer
+Wed, 19 Aug 2026 14:57:11 +0000 — https://www.gamesindustry.biz/as-more-people-play-games-even-the-tiniest-niches-find-a-bigger-audience-why-matt-webster-is-convinced-people-want-star-wars-galactic-racer
+
+Matt Webster looked set to be a lifer at Electronic Arts. He joined the firm way back in 1990, and spent nearly two decades working at Burnout and Need for Speed maker Criterion, which EA bought in 2004. Read more
 
 ### Report: Live-service removed from Horizon Hunters Gathering following negative player feedback
 Wed, 19 Aug 2026 13:55:38 +0000 — https://www.gamesindustry.biz/report-live-service-removed-from-horizon-hunters-gathering-following-negative-player-feedback
@@ -119,16 +124,26 @@ Tue, 18 Aug 2026 07:00:00 +0000 — https://www.gamesindustry.biz/gyld-raises-1m
 
 Games publishing and investment agency GYLD has raised $1 million in funding to support its proprietary games research system Critical Compass. Read more
 
-### The Hollywood disruptors making a large-scale game with a 12-person team – and no generative AI
-Mon, 17 Aug 2026 17:43:23 +0000 — https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai
-
-You might recall the trailer for Join Us being featured in the Xbox Showcase back in June. It depicts a darkly comic co-op cult simulator, with robed cult members riding around on pigs and loosing off machine guns, before ending on an image of Cthulu-like giant tentacles. Not shown was the snake gun, says Joe Dietsch, CEO and creative director of Join Us developer Wolf Haus Games. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Gran Turismo 7 Bolstered by Another 4 Cars in PS5 Update 1.71
+Wed, 19 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/gran-turismo-7-bolstered-by-another-4-cars-in-ps5-update-1-71
+
+In addition to 3 new World Circuits. The next monthly PS5, PS4 update for Gran Turismo 7 is rolling out worldwide within the next 24 hours, handing players a further four cars to race and three more World Circuits to drive them on. Having downloaded patch 1.71, the following four cars will be added to the game: Read the full article on pushsquare.com
+
+### I m Hyped This Unknown Irem Beat- em-Up Is Making a PS5 Comeback
+Wed, 19 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/im-hyped-this-unknown-irem-beat-em-up-is-making-a-ps5-comeback
+
+Home run. I’ve personally never played Ninja Baseball Bat Man , but I’m vaguely familiar with the 1993 Irem beat-’em-up. I’m pretty over-the-moon with this upcoming revival, then, which is coming to the PS5 on 10th December. Read the full article on pushsquare.com
+
+### GTA 6 Gameplay Leaks Continue as Group Makes Demands of Rockstar
+Wed, 19 Aug 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaks-continue-as-group-makes-demands-of-rockstar
+
+Update #2: Fourth gameplay clip posted online. Multiple videos of what appear to be legitimate GTA 6 gameplay are currently being posted to the Internet by a leaker. I've seen two clips so far: the first depicts Jason at his house from the trailer playing some basketball, and the second features some driving and crimes that attract the attention of the cops. I will not be linking to either video, but they are easily found through social media searches at the time of writing. Read the full article on pushsquare.com
 
 ### The Binding of Isaac: Repentance+ Online Is the Only Game Brave Enough to Launch the Same Day as GTA 6
 Wed, 19 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/the-binding-of-isaac-repentanceplus-online-is-the-only-game-brave-enough-to-launch-the-same-day-as-gta-6
@@ -149,11 +164,6 @@ Guerrilla has until December to impress Sony execs. A new Bloomberg report claim
 Wed, 19 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/a-cult-16-bit-rpg-may-finally-get-an-official-us-release-on-ps5
 
 It's been 30 years. Super Nintendo’s Terranigma has never officially released in the United States, due to various issues involving its licensing rights. The 16-bit real-time RPG first released in Japan back in 1995, and was published by Nintendo in Europe a year later. Read the full article on pushsquare.com
-
-### GTA 6 Gameplay Leaks Continue as Group Makes Demands of Rockstar
-Wed, 19 Aug 2026 12:15:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaks-continue-as-group-makes-demands-of-rockstar
-
-Update: Strip club scene now doing the rounds. Multiple videos of what appear to be legitimate GTA 6 gameplay are currently being posted to the Internet by a leaker. I've seen two clips so far: the first depicts Jason at his house from the trailer playing some basketball, and the second features some driving and crimes that attract the attention of the cops. I will not be linking to either video, but they are easily found through social media searches at the time of writing. Read the full article on pushsquare.com
 
 ### I Don t Understand If It s Such a Big Issue : Shuhei Yoshida Isn t Too Bothered About No More Discs
 Wed, 19 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/i-dont-understand-if-its-such-a-big-issue-shuhei-yoshida-isnt-too-bothered-about-no-more-discs
@@ -180,17 +190,22 @@ Tue, 18 Aug 2026 19:00:00 GMT — https://www.pushsquare.com/reviews/ps5/starsan
 
 My neighbour Totoro. After a long wait since our preview last year, Starsand Island is finally here. This cosy life simulator with its gorgeous anime-style art direction sends you to a magical island where you are free to explore, build, craft and farm to your heart's content. Read the full article on pushsquare.com
 
-### Irate Physical Game Fans Prepare for Their Big PS5 Blackout
-Tue, 18 Aug 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/08/irate-physical-game-fans-prepare-for-their-big-ps5-blackout
-
-It all starts this weekend. Angry physical game fans are preparing to unplug their PS5s this week as the widely reported “blackout” is set to get underway. Protesters frustrated at Sony’s decision to stop manufacturing discs in 2028 have been encouraged to turn off their consoles and not play from 23rd August through 30th August. Read the full article on pushsquare.com
-
-### You ll Want the Japanese Version of a New PS Plus Classic Out Today
-Tue, 18 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/08/youll-want-the-japanese-version-of-a-new-ps-plus-classic-out-today
-
-For a better difficulty experience. Onimusha: Dawn of Dreams , a PS2 action classic, is out today on the PS Store for normal purchase (£7.99/$9.99) and on PS Plus Premium for subscribers. It means that the Onimusha series is almost entirely available on PS5 and PS4, but fans are raising an interesting quirk about this release: you should get the Japanese version for the best experience. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Harvey Smith and fellow Arkane Austin veterans announce a new studio, Black Pony Immersive
+Wed, 19 Aug 2026 16:35:10 GMT — https://www.gamedeveloper.com/business/harvey-smith-and-fellow-arkane-austin-veterans-launch-a-new-studio
+
+Black Pony Immersive will design and develop first-person action RPGs.
+
+### Triple-A vets and accessibility experts launch new game dev co-op: Raze and Rebuild Studio
+Wed, 19 Aug 2026 15:09:17 GMT — https://www.gamedeveloper.com/business/triple-a-vets-and-accessibility-experts-launch-new-game-dev-co-op-raze-and-rebuild-studio
+
+Raze and Rebuild Studio hopes to make the most of its co-op structure.
+
+### Report: PlayStation scales back live service ambitions for Horizon Hunters Gathering, reassigns devs
+Wed, 19 Aug 2026 13:43:14 GMT — https://www.gamedeveloper.com/business/report-playstation-reworks-horizon-live-service-game-after-negative-feedback
+
+PlayStation-owned Guerrilla Games is reportedly stripping out the live service component of Horizon Hunters Gathering following poor feedback.
 
 ### Human: Fall Flat veterans launch new UK studio Pretty Cool Games
 Wed, 19 Aug 2026 10:34:39 GMT — https://www.gamedeveloper.com/business/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games
@@ -226,9 +241,4 @@ One member of the development team described the achievement as 'incredible.'
 Tue, 18 Aug 2026 08:00:49 GMT — https://www.gamedeveloper.com/business/wings-really-really-wants-to-fund-your-neat-indie-video-game
 
 The indie investor, which is committed to empowering women and gender-marginalized devs, is introducing new funding pathways for PC projects of all shapes and sizes.
-
-### How Forbidden Solitaire brought solitaire games to the forefront
-Mon, 17 Aug 2026 14:51:26 GMT — https://www.gamedeveloper.com/design/how-forbidden-solitaire-brought-solitaire-games-to-the-forefront
-
-Its success has allowed Grey Alien Games to reach out to more Steam players than ever.
 
