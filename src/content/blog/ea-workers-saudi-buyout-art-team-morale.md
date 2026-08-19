@@ -2,7 +2,7 @@
 title: "'I feel dirty': EA's own workers are talking about the Saudi buyout now, and art teams have the most to lose"
 date: 2026-08-19
 category: Games
-cover: /img/blog/ea-workers-saudi-buyout-art-team-morale/cover.svg
+cover: /img/blog/ea-workers-saudi-buyout-art-team-morale/shot-01.jpg
 excerpt: Game Developer got current EA employees on the record about the $55 billion take-private, including staff at stable studios like Maxis. Nobody's confirming layoffs yet — but "restructuring" and "ROI focus" translate to something specific once you know which team is usually the biggest line item on the budget.
 draft: true
 ---
@@ -19,6 +19,11 @@ already bracing for cuts. It's the kind of thing coming out of people at places 
 speculation two weeks ago.
 
 ## What's actually being said
+
+<figure>
+  <img src="/img/blog/ea-workers-saudi-buyout-art-team-morale/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Maxis / Electronic Arts, via the official Steam page for The Sims 4</figcaption>
+</figure>
 
 A few things are surfacing consistently, and it's worth separating what's reported
 sentiment from what's confirmed fact.
