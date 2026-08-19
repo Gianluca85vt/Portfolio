@@ -54,6 +54,25 @@ async function steamScreenshots(appId) {
   return shots.map((s) => s.path_full).filter(Boolean);
 }
 
+/**
+ * The still for a video facade. maxres does not exist for every upload, so it
+ * falls back to hq, which always does. Self-hosting it means an article that
+ * embeds a video still makes no request to Google until the reader clicks.
+ */
+async function youtubeThumbnail(id) {
+  for (const name of ['maxresdefault', 'hqdefault']) {
+    try {
+      const buf = await download(`https://i.ytimg.com/vi/${id}/${name}.jpg`);
+      // hqdefault is served as a 120x90 placeholder when a video is gone, so a
+      // tiny file means the id is wrong rather than the image being small.
+      if (buf.length > 6000) return buf;
+    } catch {
+      /* try the next size */
+    }
+  }
+  throw new Error('no usable thumbnail');
+}
+
 async function download(url) {
   const res = await fetch(url, {
     headers: { 'user-agent': 'gianlucascattarella.it' },
@@ -166,6 +185,22 @@ for (const filename of requests) {
   }
   if (Array.isArray(request.urls)) urls.push(...request.urls.map(String));
 
+  // A video facade needs its still, and it is not one of the numbered shots.
+  if (request.youtubeId && /^[\w-]{6,20}$/.test(String(request.youtubeId))) {
+    try {
+      const buf = await youtubeThumbnail(String(request.youtubeId));
+      await mkdir(path.join('public/img/blog', slug), { recursive: true });
+      await sharp(buf)
+        .resize({ width: MAX_WIDTH, withoutEnlargement: true })
+        .jpeg({ quality: 82 })
+        .toFile(path.join('public/img/blog', slug, 'video-thumb.jpg'));
+      console.log(`${slug}: saved video-thumb.jpg`);
+      fetchedAny = true;
+    } catch (err) {
+      console.log(`::warning::${slug}: no thumbnail for video ${request.youtubeId} — ${err.message}`);
+    }
+  }
+
   const outDir = path.join('public/img/blog', slug);
   await mkdir(outDir, { recursive: true });
 
@@ -212,8 +247,10 @@ for (const filename of requests) {
         written.map((w) => `- ${w}`).join('\n') + '\n',
       'utf8'
     );
-  } else {
-    console.log(`::warning::${slug}: no images could be fetched`);
+  } else if (urls.length) {
+    // Only a real failure if there was something to fetch. A request that only
+    // asked for a video still has nothing to report here.
+    console.log(`::warning::${slug}: none of the ${urls.length} requested images could be fetched`);
   }
 
   await rm(requestPath, { force: true });

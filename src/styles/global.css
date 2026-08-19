@@ -204,3 +204,78 @@ body {
     scroll-behavior: auto;
   }
 }
+
+/* A click-to-play facade for YouTube. Dropping a real iframe into an article
+   pulls in roughly a megabyte of Google's JavaScript on page load, for a video
+   most readers never press play on. This shows a self-hosted still, and only
+   swaps in the player once someone actually asks for it — which also means no
+   third-party request, and no cookies, until they do. */
+.post-body .video-embed {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  border-radius: 16px;
+  overflow: hidden;
+  background: #000;
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  width: 100%;
+  display: block;
+}
+
+.post-body .video-embed img,
+.post-body .video-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 0;
+}
+
+.post-body .video-embed img {
+  object-fit: cover;
+  transition: transform 0.5s ease, opacity 0.3s ease;
+}
+
+.post-body .video-embed:hover img {
+  transform: scale(1.03);
+  opacity: 0.82;
+}
+
+.post-body .video-embed .play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 74px;
+  height: 74px;
+  border-radius: 50%;
+  background: linear-gradient(123deg, #18011F 7%, #B600A8 37%, #7621B0 72%, #BE4C00 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.55);
+  transition: transform 0.3s ease;
+  pointer-events: none;
+}
+
+.post-body .video-embed:hover .play {
+  transform: translate(-50%, -50%) scale(1.08);
+}
+
+.post-body .video-embed .play::after {
+  content: '';
+  border-style: solid;
+  border-width: 11px 0 11px 18px;
+  border-color: transparent transparent transparent #fff;
+  margin-left: 4px;
+}
+
+.post-body .video-embed figcaption,
+.post-body .video-caption {
+  color: rgba(215, 226, 234, 0.45);
+  font-size: 0.8rem;
+  line-height: 1.5;
+  margin-top: 0.9em;
+}

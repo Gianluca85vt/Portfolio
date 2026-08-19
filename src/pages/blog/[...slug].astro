@@ -146,6 +146,30 @@ const jsonLd = {
 
         <Comments postSlug={entry.id} />
 
+        <script is:inline>
+          // Swap the still for the real player on click. Nothing is requested
+          // from Google until someone asks for the video, so an article that is
+          // read and never watched costs its readers nothing.
+          document.querySelectorAll('.video-embed').forEach((el) => {
+            el.addEventListener('click', () => {
+              const id = el.dataset.video;
+              if (!id || el.dataset.loaded) return;
+              el.dataset.loaded = '1';
+
+              const frame = document.createElement('iframe');
+              // nocookie is the privacy-preserving host; autoplay because the
+              // click was the request to watch.
+              frame.src =
+                'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0';
+              frame.title = el.dataset.title || 'Video';
+              frame.allow =
+                'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+              frame.allowFullscreen = true;
+              el.replaceChildren(frame);
+            });
+          });
+        </script>
+
         <a
           href="/blog/"
           class="inline-flex items-center gap-2 rounded-full border-2 border-[#D7E2EA]/50 text-[#D7E2EA] font-medium uppercase tracking-widest px-7 py-3 text-xs sm:text-sm transition-colors duration-300 hover:bg-[#D7E2EA]/10 mt-14 sm:mt-16"

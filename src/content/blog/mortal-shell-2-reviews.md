@@ -58,6 +58,14 @@ to work things out.
 
 Hold that word. I want to come back to it.
 
+<figure>
+  <button class="video-embed" data-video="O9bOlQRjd6M" data-title="Mortal Shell II - Official Launch Trailer" type="button">
+    <img src="/img/blog/mortal-shell-2-reviews/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Still from the Mortal Shell II launch trailer" />
+    <span class="play" aria-hidden="true"></span>
+  </button>
+  <figcaption>The launch trailer, from Playstack's own channel. Nothing loads from YouTube until you press play.</figcaption>
+</figure>
+
 ## Around thirty people made this
 
 Cold Symmetry started in 2017 as four people. The original Mortal Shell was made
