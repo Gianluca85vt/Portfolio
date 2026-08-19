@@ -1,6 +1,21 @@
-# Games — harvested 2026-08-19T11:00:43.099Z
+# Games — harvested 2026-08-19T14:17:09.039Z
 
 ## Eurogamer
+
+### Horizon Hunters Gathering is reportedly no longer a live service game following negative feedback
+Wed, 19 Aug 2026 13:43:57 +0000 — https://www.eurogamer.net/horizon-hunters-gathering-reboot-away-live-service
+
+Horizon Hunters Gathering has reportedly been rebooted in order to ditch its live service elements, following negative feedback during early private playtests. Read more
+
+### The next Binding of Isaac game is going up against Grand Theft Auto 6
+Wed, 19 Aug 2026 11:59:42 +0000 — https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date
+
+The Binding of Isaac : Repentance + Online has revealed a release date and it's one you probably have marked on your calendar. The package, a collection of The Binding of Isaac: Rebirth and all previously released add-ons, arrives 19th November on consoles -exactly the same day as Grand Theft Auto 6 . Read more
+
+### Stop Killing Games urges people not to support GTA 6 leakers, who declared "gamers' rights" their motive for action
+Wed, 19 Aug 2026 11:25:41 +0000 — https://www.eurogamer.net/stop-killing-games-gta-6-leak
+
+Consumer rights movement Stop Killing Games has released a public statement admonishing the actions of the group which took responsibility for leaking Grand Theft Auto 6 gameplay footage overnight. Read more
 
 ### GTA 6 gameplay footage and map appear to leak online, as group seemingly responsible makes demands of Rockstar
 Wed, 19 Aug 2026 10:49:16 +0000 — https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek
@@ -47,22 +62,17 @@ Tue, 18 Aug 2026 11:54:47 +0000 — https://www.eurogamer.net/battlefield-6-free
 
 Battlefield 6 's latest free trial kicks off today alongside Season 4's mid-season update, and while that mightn't be especially notable in itself, the timing is moreso: it coincides with Call of Duty: Modern Warfare 4's highly anticipated, and stuffed, beta . Read more
 
-### Resident Evil Requiem's Grace Ashcroft actor reportedly replacing Jennifer English as lead of lavish Chinese action game Tides of Annihilation
-Tue, 18 Aug 2026 10:16:27 +0000 — https://www.eurogamer.net/grace-ashcroft-actor-replacing-jennifer-english-tides-of-annihlation
-
-Lavish Chinese action game Tides of Annihilation seems to have found a replacement for Jennifer English, the award-winning actor who withdrew from voicing the game's main character Gwendolyn last month. And the replacement appears to be Angela Sant'Albano, who performed Grace Ashcroft in Resident Evil Requiem. Read more
-
-### It turns out touching grass is the answer: Gaming is great when you leave the house
-Tue, 18 Aug 2026 10:16:16 +0000 — https://www.eurogamer.net/touching-grass-gaming-going-outside-optimism-week
-
-Hello! This piece is a part of Optimism Week on Eurogamer - a week of features either about optimism itself or those which hope to inspire it. For more articles like this, you can visit our Optimism Week hub . Thank you as ever for reading! Read more
-
-### Be warned: Fallout 4's next update may break your mods - and there's a similar one for Skyrim in the works, too
-Tue, 18 Aug 2026 10:12:06 +0000 — https://www.eurogamer.net/fallout-4-creations-update-mods-breaking
-
-For most games, the news of a new patch is usually received with excitement. This is true for games made by Bethesda too, of course, but not when they're as old as Fallout 4 and Skyrim are. The reason? Mods. Read more
-
 ## GamesIndustry.biz
+
+### Report: Live-service removed from Horizon Hunters Gathering following negative player feedback
+Wed, 19 Aug 2026 13:55:38 +0000 — https://www.gamesindustry.biz/report-live-service-removed-from-horizon-hunters-gathering-following-negative-player-feedback
+
+Guerrilla Games is overhauling Horizon Hunters Gathering by removing its live-service features in response to negative player feedback, according to Bloomberg 's Jason Schreier. Read more
+
+### "We chose the worst time in history" – Harvey Smith on starting his own studio after Arkane
+Wed, 19 Aug 2026 13:00:00 +0000 — https://www.gamesindustry.biz/we-chose-the-worst-time-in-history-harvey-smith-on-starting-his-own-studio-after-arkane
+
+Microsoft's closure of Arkane Austin in May 2024 left 96 developers out of work &ndash; among them studio head Harvey Smith, whose storied career spans Deus Ex, Dishonored, and Prey. Now, after a two-year quiet period, Smith is ready to reveal his next venture: Black Pony Immersive, a new studio co-founded with former Arkane colleague Ben Horne. Read more
 
 ### Human: Fall Flat veterans launch new UK studio Pretty Cool Games with funding from Arknights developer Hypergraph
 Wed, 19 Aug 2026 10:00:00 +0000 — https://www.gamesindustry.biz/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games-with-funding-from-arknights-developer-hypergraph
@@ -114,16 +124,46 @@ Mon, 17 Aug 2026 17:43:23 +0000 — https://www.gamesindustry.biz/the-hollywood-
 
 You might recall the trailer for Join Us being featured in the Xbox Showcase back in June. It depicts a darkly comic co-op cult simulator, with robed cult members riding around on pigs and loosing off machine guns, before ending on an image of Cthulu-like giant tentacles. Not shown was the snake gun, says Joe Dietsch, CEO and creative director of Join Us developer Wolf Haus Games. Read more
 
-### US Senate to investigate Roblox following claims it "prioritises revenue and engagement" over child safety
-Mon, 17 Aug 2026 12:47:28 +0000 — https://www.gamesindustry.biz/us-senate-to-investigate-roblox-following-claims-it-prioritises-revenue-and-engagement-over-child-safety
-
-The US Senate Judiciary Subcommittee on Crime and Counterterrorism has launched an investigation into Roblox, saying the platform "appears to prioritise revenue and engagement metrics" over child safety. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### The Binding of Isaac: Repentance+ Online Is the Only Game Brave Enough to Launch the Same Day as GTA 6
+Wed, 19 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/the-binding-of-isaac-repentanceplus-online-is-the-only-game-brave-enough-to-launch-the-same-day-as-gta-6
+
+Online co-op making its debut on consoles. There has been a lot of noise made about the state of the release schedule for games over the next few months, with many titles big and small doing their utmost to avoid GTA 6 . In case you hadn't noticed, there's a pretty wide radius around 19th November, 2026 — the day Rockstar is set to launch its massive crime sandbox. Very few other games are launching in the same month, let alone the same week. Read the full article on pushsquare.com
+
+### Preview: 6 Ways PS5 s Tides of Annihilation Blew Me Away After 2 Hours of Play
+Wed, 19 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/previews/6-ways-ps5s-tides-of-annihilation-blew-me-away-after-2-hours-of-play
+
+The tide is high-ly impressive. Eclipse Glow Games didn’t need to build a giant cathedral in the centre of Chengdu, China to convince of me of Tides of Annihilation’s ambition – but it certainly didn’t hurt. Ever since I got word of the dev’s decision to show off its hotly anticipated action game, the irony of travelling approximately 5,160 miles to play a game inspired by my home country has been on my mind. Read the full article on pushsquare.com
+
+### PlayStation Scaling Back Horizon Live Service PS5 Game as Sony Failures Continue
+Wed, 19 Aug 2026 12:55:00 GMT — https://www.pushsquare.com/news/2026/08/playstation-scaling-back-horizon-live-service-ps5-game-as-sony-failures-continue
+
+Guerrilla has until December to impress Sony execs. A new Bloomberg report claims that Sony has decided to scale back the new Horizon live service title, Horizon Hunters Gathering , by removing the live service elements. Following poor feedback from players during private tests, it's reported developer Guerrilla Games has been rebooting the project since June. It plans to take out the live service features and turn the game into a far more traditional co-op multiplayer experience with a story mode. The scope of the game has shrunk considerably as a result, it's claimed. Read the full article on pushsquare.com
+
+### A Cult 16-Bit RPG May Finally Get an Official US Release on PS5
+Wed, 19 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/a-cult-16-bit-rpg-may-finally-get-an-official-us-release-on-ps5
+
+It's been 30 years. Super Nintendo’s Terranigma has never officially released in the United States, due to various issues involving its licensing rights. The 16-bit real-time RPG first released in Japan back in 1995, and was published by Nintendo in Europe a year later. Read the full article on pushsquare.com
+
+### GTA 6 Gameplay Leaks Continue as Group Makes Demands of Rockstar
+Wed, 19 Aug 2026 12:15:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaks-continue-as-group-makes-demands-of-rockstar
+
+Update: Strip club scene now doing the rounds. Multiple videos of what appear to be legitimate GTA 6 gameplay are currently being posted to the Internet by a leaker. I've seen two clips so far: the first depicts Jason at his house from the trailer playing some basketball, and the second features some driving and crimes that attract the attention of the cops. I will not be linking to either video, but they are easily found through social media searches at the time of writing. Read the full article on pushsquare.com
+
+### I Don t Understand If It s Such a Big Issue : Shuhei Yoshida Isn t Too Bothered About No More Discs
+Wed, 19 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/i-dont-understand-if-its-such-a-big-issue-shuhei-yoshida-isnt-too-bothered-about-no-more-discs
+
+Ex-PlayStation boss is all-digital these days. In case you've somehow missed the news, Sony announced its intention to cease producing game discs for PlayStation consoles starting in 2028, meaning the platform will be digital-only going forward. It's a decision that has caused a lot of upset and raised many questions among consumers, and of course, everyone has their own view on whether it's ultimately a good or bad move for PlayStation and the industry as a whole. Read the full article on pushsquare.com
+
+### Wolverine PS5 Consoles, Accessories Available to Pre-Order Now
+Wed, 19 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/wolverine-ps5-consoles-accessories-available-to-pre-order-now
+
+Console Covers for PS5 Pro already sold out. The range of limited edition PS5 consoles and accessories you can customise your gaming setup with, to suit Marvel's Wolverine , is available to pre-order now. They all come out on the same day as the game, 15th September 2026, but if you're interested in a particular item, you might want to get your pre-order in sooner rather than later — some things are already listed as unavailable. The yellow and silver Console Covers for PS5 Pro already look to have sold out. Read the full article on pushsquare.com
 
 ### These 2 PS5 Classics Look Like They Could Be Delisted Soon
 Wed, 19 Aug 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/08/these-2-ps5-classics-look-like-they-could-be-delisted-soon
@@ -140,11 +180,6 @@ Tue, 18 Aug 2026 19:00:00 GMT — https://www.pushsquare.com/reviews/ps5/starsan
 
 My neighbour Totoro. After a long wait since our preview last year, Starsand Island is finally here. This cosy life simulator with its gorgeous anime-style art direction sends you to a magical island where you are free to explore, build, craft and farm to your heart's content. Read the full article on pushsquare.com
 
-### GTA 6 Gameplay Leak Appears Online Ahead of Official Reveal
-Tue, 18 Aug 2026 18:15:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leak-appears-online-ahead-of-official-reveal
-
-Clips of basketball practise and driving doing the rounds. Multiple videos of what appear to be legitimate GTA 6 gameplay are currently being posted to the Internet by a leaker. I've seen two clips so far: the first depicts Jason at his house from the trailer playing some basketball, and the second features some driving and crimes that attract the attention of the cops. I will not be linking to either video, but they are easily found through social media searches at the time of writing. Read the full article on pushsquare.com
-
 ### Irate Physical Game Fans Prepare for Their Big PS5 Blackout
 Tue, 18 Aug 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/08/irate-physical-game-fans-prepare-for-their-big-ps5-blackout
 
@@ -154,36 +189,6 @@ It all starts this weekend. Angry physical game fans are preparing to unplug the
 Tue, 18 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/08/youll-want-the-japanese-version-of-a-new-ps-plus-classic-out-today
 
 For a better difficulty experience. Onimusha: Dawn of Dreams , a PS2 action classic, is out today on the PS Store for normal purchase (£7.99/$9.99) and on PS Plus Premium for subscribers. It means that the Onimusha series is almost entirely available on PS5 and PS4, but fans are raising an interesting quirk about this release: you should get the Japanese version for the best experience. Read the full article on pushsquare.com
-
-### Preview: After Online Storm, Here s the Truth About Wolverine PS5
-Tue, 18 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/previews/after-online-storm-heres-the-truth-about-wolverine-ps5
-
-Sharing a clear view of the next PS5 exclusive. Playing video games is a hobby designed to be enjoyable, so why has a wave of new Marvel's Wolverine previews been met with ridicule and slander? Despite the fact such pre-release verdicts were generally very positive, inaccurate videos have spread claims about the next PS5 exclusive that simply aren't true. The misinformed hate has been so bad that it's gotten back to Insomniac itself , and that's not okay. Read the full article on pushsquare.com
-
-### PlayStation s Official Desktop Speakers Arrive in November for $220
-Tue, 18 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/playstations-official-desktop-speakers-arrive-in-november-for-usd220
-
-Pulse Elevate speakers coming soon. Sony has announced the price and release date for its first-ever line of official PlayStation desktop speakers. Pulse Elevate, as they're known, will come in your choice of black or white, and will set you back $219.99 / €219.99 / £199.99, per an updated PS Blog post . Read the full article on pushsquare.com
-
-### Crazy Taxi s Gena Now Looks Like a Life Is Strange NPC on PS5
-Tue, 18 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/crazy-taxis-gena-now-looks-like-a-life-is-strange-npc-on-ps5
-
-What a downgrade. I’m really excited for Crazy Taxi: World Tour – I genuinely am! It’s been one of my most wanted games for years, after I scratched up the surface of my original Dreamcast disc from playing it so damn much. Read the full article on pushsquare.com
-
-### The Big Marketing Push for PS5 Exclusive Marvel s Wolverine Has Begun in Style
-Tue, 18 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/the-big-marketing-push-for-ps5-exclusive-marvels-wolverine-has-begun-in-style
-
-Advert-mantium. We're less than a month away from the launch of Marvel's Wolverine , the next major superhero action title from Insomniac Games, and it's going to be tough to avoid it during this period. Not only have there been a handful of previews lately, but it seems Sony and Marvel are firing up the marketing machine in a pretty major way. Read the full article on pushsquare.com
-
-### Brilliant PS5 Beat- Em-Up All-In on Avengers: Doomsday Hype in New DLC
-Tue, 18 Aug 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/08/brilliant-ps5-beat-em-up-all-in-on-avengers-doomsday-hype-in-new-dlc
-
-"An all-new game mode". I really enjoyed Marvel Cosmic Invasion last year, and I’ve been looking for an excuse to replay it . (I didn’t end up going back for Cyclops and The Thing, released as DLC earlier this year .) But it looks like there’ll be ample incentive to return this fall in the form of a new major expansion: The Siege of Castle Doom. Read the full article on pushsquare.com
-
-### Tekken 8 s Former Director Rejoins Harada at His New SNK Fighting Game Studio
-Tue, 18 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/tekken-8s-former-director-rejoins-harada-at-his-new-snk-fighting-game-studio
-
-Getting the band back together. You may recall that the Tekken 8 development team has lost a couple of heavyweights in recent times, following on from ongoing struggles to manage the fighting game in the months after its launch. The most notable departure was that of Katsuhiro Harada , a producer and director that's been involved with the legendary series since its inception. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -226,19 +231,4 @@ The indie investor, which is committed to empowering women and gender-marginaliz
 Mon, 17 Aug 2026 14:51:26 GMT — https://www.gamedeveloper.com/design/how-forbidden-solitaire-brought-solitaire-games-to-the-forefront
 
 Its success has allowed Grey Alien Games to reach out to more Steam players than ever.
-
-### Inner Pocket is a new indie publisher looking to champion 'curiosity games'
-Mon, 17 Aug 2026 14:15:46 GMT — https://www.gamedeveloper.com/business/inner-pocket-is-a-new-indie-publishing-label-that-wants-to-champion-intimate-experiences
-
-The indie publisher has been established by a group of Critical Reflex, Gaijin Entertainment, and Nozomu Games veterans.
-
-### Pokemon Pokopia has topped 5 million sales worldwide
-Mon, 17 Aug 2026 13:14:14 GMT — https://www.gamedeveloper.com/business/pokemon-pokopia-has-topped-5-million-sales-worldwide
-
-I choose you.
-
-### Barbie and Hot Wheels owner Mattel launches Mattel Game Studios
-Mon, 17 Aug 2026 11:15:50 GMT — https://www.gamedeveloper.com/business/barbie-and-hot-wheels-owner-mattel-launches-mattel-game-studios
-
-The toy company wants to develop, publish, and operate video games based on its sprawling brand portfolio.
 

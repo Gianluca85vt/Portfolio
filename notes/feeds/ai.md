@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-19T11:00:43.099Z
+# AI — harvested 2026-08-19T14:17:09.039Z
 
 ## OpenAI
 
@@ -38,6 +38,9 @@ Tue, 18 Aug 2026 07:00:00 GMT — https://openai.com/index/asana
 Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.
 
 ## Hugging Face
+
+### LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation
+Wed, 19 Aug 2026 13:48:49 GMT — https://huggingface.co/blog/LiquidAI/qad
 
 ### How Much Memory Does Your Agent Actually Need?
 Tue, 18 Aug 2026 18:09:38 GMT — https://huggingface.co/blog/ibm-research/altk-evolve-hmm

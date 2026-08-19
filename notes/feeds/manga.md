@@ -1,6 +1,21 @@
-# Manga — harvested 2026-08-19T11:00:43.099Z
+# Manga — harvested 2026-08-19T14:17:09.039Z
 
 ## Anime News Network
+
+### Red River ‒ Episode 7
+Wed, 19 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-7/.240697
+
+This really is the first time Yuri has truly come into her own.
+
+### An Interview With Rensuke Oshikiri, Creator of Geniearth, Sayuri, and Hi Score Girl
+Wed, 19 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-08-19/an-with-rensuke-oshikiri-creator-of-geniearth-sayuri-and-hi-score-girl/.240557
+
+Kevin Cormack goes over Oshikiri's decades-long career, from horror and action manga titles to video game nostalgia.
+
+### The World Is Dancing ‒ Episode 8
+Wed, 19 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/the-world-is-dancing/episode-8/.240667
+
+Imagine witnessing a rival put on a show so incredible that it causes the doomed future of an entire artform to flash before your eyes.
 
 ### New Madoka Magica Film's Staff Asks Fans Not to Post Spoilers
 Tue, 18 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-18/new-madoka-magica-film-staff-asks-fans-not-to-post-spoilers/.240584
@@ -46,21 +61,6 @@ The first volume of Gege Akutami's Jujutsu Kaisen manga ranked at #7 on The New 
 Tue, 18 Aug 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/comico-manga-service-in-japan-shuts-down-in-january-2027-after-13-years/.240662
 
 Service launched in 2013
-
-### MediaOCD Adds Kyo Kara Maoh!, Magical Girl Lyrical Nanoha, Kashimashi Anime, More Titles to Discotek Deep Dives Project
-Tue, 18 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/mediaocd-adds-kyo-kara-maoh-magical-girl-lyrical-nanoha-kashimashi-anime-more-titles-to-discotek-/.240664
-
-Also: <cite>Ninja Scroll: The Series</cite>, <cite>Reborn!: Special Fan Disc</cite>, <cite>City Hunter 3</cite>, more
-
-### Ayumu Murase Steps Down From Kanon Himeno Role in The Idolmaster SideM
-Tue, 18 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/ayumu-murase-steps-down-from-kanon-himeno-role-in-the-idolmaster-sidem/.240699
-
-New cast member for Mofumofuen unit to be announced at later date
-
-### Manga Mavericks Books Appoints Erica Friedman as Managing Editor
-Tue, 18 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/manga-mavericks-books-appoints-erica-friedman-as-managing-editor/.240685
-
-Friedman has written <i>yuri</i> content for numerous publications
 
 ## Crunchyroll News
 
