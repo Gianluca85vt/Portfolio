@@ -233,8 +233,30 @@ function LatestReviews({ posts }: { posts: PostCard[] }) {
   );
 }
 
+/** How many more rows or cards each press of Show more reveals. */
+const PAGE = 8;
+
+function ShowMore({ remaining, onClick }: { remaining: number; onClick: () => void }) {
+  if (remaining <= 0) return null;
+
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      className="w-full mt-8 rounded-[6px] py-4 font-medium uppercase tracking-[0.14em] text-[0.72rem] text-white transition-opacity duration-200 hover:opacity-90"
+      style={{
+        background: 'linear-gradient(123deg, #18011F 7%, #B600A8 37%, #7621B0 72%, #BE4C00 100%)',
+      }}
+    >
+      Show more · {remaining} left
+    </button>
+  );
+}
+
 export default function BlogList({ posts }: { posts: PostCard[] }) {
   const [active, setActive] = useState('All');
+  // Articles arrive daily, so the index would otherwise grow without end.
+  const [limit, setLimit] = useState(PAGE);
   const counts = useCommentCounts(posts.length > 0);
 
   // only offer categories that actually have something in them
@@ -248,7 +270,12 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
   const filtered = active !== 'All';
   const leadRow = filtered ? [] : shown.slice(0, 3);
   const secondRow = filtered ? [] : shown.slice(3, 7);
-  const listRest = filtered ? [] : shown.slice(7);
+
+  // Only the tail is paged. The picture-led blocks at the top are a fixed
+  // shape, so cutting into them would just leave a ragged grid.
+  const tail = filtered ? shown : shown.slice(7);
+  const tailShown = tail.slice(0, limit);
+  const tailRemaining = tail.length - tailShown.length;
 
   return (
     <>
@@ -282,7 +309,10 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
                   <button
                     key={c}
                     type="button"
-                    onClick={() => setActive(c)}
+                    onClick={() => {
+                      setActive(c);
+                      setLimit(PAGE);
+                    }}
                     aria-pressed={on}
                     className={`rounded-[4px] px-3 py-1.5 font-medium uppercase tracking-[0.1em] text-[0.62rem] transition-colors duration-200 ${
                       on ? 'text-white' : 'text-[#D7E2EA]/50 bg-[#D7E2EA]/[0.07] hover:bg-[#D7E2EA]/14'
@@ -303,13 +333,16 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
           {shown.length === 0 ? (
             <p className="text-[#D7E2EA]/40 font-light">Nothing here yet.</p>
           ) : filtered ? (
-            <div className="grid grid-cols-2 lg:grid-cols-4 gap-2.5 sm:gap-3">
-              {shown.map((post, i) => (
-                <FadeIn key={post.slug} delay={(i % 4) * 0.05} y={20}>
-                  <OverlayCard post={post} count={counts[post.slug] ?? 0} size="small" />
-                </FadeIn>
-              ))}
-            </div>
+            <>
+              <div className="grid grid-cols-2 lg:grid-cols-4 gap-2.5 sm:gap-3">
+                {tailShown.map((post, i) => (
+                  <FadeIn key={post.slug} delay={(i % 4) * 0.05} y={20}>
+                    <OverlayCard post={post} count={counts[post.slug] ?? 0} size="small" />
+                  </FadeIn>
+                ))}
+              </div>
+              <ShowMore remaining={tailRemaining} onClick={() => setLimit((n) => n + PAGE)} />
+            </>
           ) : (
             <>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-2.5 sm:gap-3">
@@ -334,16 +367,17 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
                   way a news page runs a rail down its right-hand edge */}
               <div className="mt-10 sm:mt-12 grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_300px] gap-8 lg:gap-10 items-start">
                 <div>
-                  {listRest.length ? (
+                  {tailShown.length ? (
                     <>
                       <h2 className="text-[#D7E2EA]/40 font-medium uppercase tracking-[0.14em] text-[0.66rem] pb-3 border-b border-[#D7E2EA]/15">
                         More from the blog
                       </h2>
-                      {listRest.map((post, i) => (
-                        <FadeIn key={post.slug} delay={Math.min(i, 4) * 0.05} y={18}>
+                      {tailShown.map((post, i) => (
+                        <FadeIn key={post.slug} delay={Math.min(i % PAGE, 4) * 0.05} y={18}>
                           <ListRow post={post} count={counts[post.slug] ?? 0} />
                         </FadeIn>
                       ))}
+                      <ShowMore remaining={tailRemaining} onClick={() => setLimit((n) => n + PAGE)} />
                     </>
                   ) : null}
                 </div>
