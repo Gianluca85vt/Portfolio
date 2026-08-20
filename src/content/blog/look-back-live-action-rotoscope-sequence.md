@@ -4,7 +4,6 @@ date: 2026-08-20
 category: Manga
 excerpt: The live-action Look Back quietly added Yōko Kuno to direct a rotoscoped sequence inside it. That one credit tells you how Kore-eda intends to solve the problem the 2024 anime never had to face.
 cover: /img/blog/look-back-live-action-rotoscope-sequence/shot-01.jpg
-draft: true
 ---
 
 Small staff announcement in the feeds today, easy to scroll past. The official site for the
