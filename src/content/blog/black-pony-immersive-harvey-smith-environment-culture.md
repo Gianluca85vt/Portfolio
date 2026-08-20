@@ -4,7 +4,6 @@ date: 2026-08-20
 category: Games
 excerpt: Black Pony Immersive went public this week, two years after Microsoft closed Arkane Austin and let 96 people go. The headlines are about the founders. The harder question is whether you can rebuild an environment-art culture from scratch at 26 people.
 cover: /img/blog/black-pony-immersive-harvey-smith-environment-culture/shot-01.jpg
-draft: true
 ---
 
 **Black Pony Immersive went public on 19 August**, in an exclusive interview with
