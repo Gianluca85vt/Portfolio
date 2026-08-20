@@ -1,6 +1,21 @@
-# Games — harvested 2026-08-20T08:17:36.990Z
+# Games — harvested 2026-08-20T11:03:06.126Z
 
 ## Eurogamer
+
+### The Duskbloods gameplay leaks ahead of tomorrow's closed beta, showing tense PvP battles with guns, wolves, and velociraptors
+Thu, 20 Aug 2026 09:16:31 +0000 — https://www.eurogamer.net/duskbloods-gameplay-leak-gameplay-pvp-battle-wolves-velociraptors
+
+A snippet of gameplay from The Duskbloods - FromSoftware's Switch 2 PvPvE action game - has leaked online ahead of an upcoming closed beta test. Read more
+
+### Games Done Quick is a beacon of hope for the gaming community
+Thu, 20 Aug 2026 09:00:00 +0000 — https://www.eurogamer.net/games-done-quick-optimism-week-hope
+
+If you read a lot of gaming news - or work with it, like I do - you cannot help but become a little cynical sometimes. 2026 has been a brutal year for the industry, following an equally galling 2025. Beset by layoffs, harried by studio closures, and somehow staring down the barrel of the console wars again, it's easy to feel the jaded fingers of cynicism creeping in. But, twice a year, I can feel my cup fill up in realtime, my belief in the games industry - and humanity at large, honestly - buoyed by seven days of the most wholesome, hopeful people in the world coming together to prop each other up, and raise millions for charity while they're at it. Read more
+
+### "I don't know if they will keep funding that one" - Former EA manager doesn't believe the next Mass Effect will survive Saudi takeover
+Thu, 20 Aug 2026 08:30:56 +0000 — https://www.eurogamer.net/next-mass-effect-ea-bioware-saudi-ownership
+
+Inside and outside Electronic Arts, everyone is bracing for what's sure to be a very different company now that it's fully owned by Saudi Arabia's Public Investment Fund . But the fate of one game in particular may be more perilous than any other: the next Mass Effect . Read more
 
 ### Third seemingly real GTA 6 video leaks as Rockstar scrambles to remove footage from the internet
 Wed, 19 Aug 2026 15:26:15 +0000 — https://www.eurogamer.net/third-leaked-gta-6-footage-rockstar-cyberleek
@@ -10,7 +25,7 @@ Another video of what appears to be legitimate Grand Theft Auto 6 gameplay has l
 ### Video game music, orchestral performances, and the sheer joy of a communal experience: how live concerts are helping us reconnect with gaming's good side
 Wed, 19 Aug 2026 14:11:10 +0000 — https://www.eurogamer.net/video-game-music-orchestras-live-optimism-week
 
-Hello! This piece is a part of Optimism Week on Eurogamer - a week of features either about optimism itself or those which hope to inspire it. For more articles like this, you can visit our Optimism Week hub . Thank you as ever for reading! Read more
+Orchestral performances of video game music are no longer the novelty they once were - and that's a good thing. Organisations such as the Game Music Festival have had such success with them they're doing multiple performances for multiple game franchises each year, selling out locations like the prestigious Royal Festival Hall on London's South Bank - sometimes in hours. That's where I watched a packed auditorium literally scream in excitement as Baldur's Gate 3 composer Borislav Slavov joined actor Andrew Wincott and singer Mariya Anastasova to perform Raphael's Final Act as an encore. These audiences: they aren't what the Royal Festival Hall is used to, they're probably not what orchestras are used to, and I love that. Read more
 
 ### Horizon Hunters Gathering is reportedly no longer a live service game following negative feedback
 Wed, 19 Aug 2026 13:43:57 +0000 — https://www.eurogamer.net/horizon-hunters-gathering-reboot-away-live-service
@@ -47,22 +62,17 @@ Wed, 19 Aug 2026 09:06:29 +0000 — https://www.eurogamer.net/tekken-8-director-
 
 Kohei Ikeda, the game director of Tekken 8 , has joined Katsuhiro Harada at recently formed and rival SNK developer Vs Studio. Read more
 
-### Pokémon Center in the UK and Germany hit with the same data breach suffered by Valve's Steam hardware
-Wed, 19 Aug 2026 08:35:30 +0000 — https://www.eurogamer.net/pokemon-center-ceva-data-breach-europe-steam-hardware
-
-It appears the consequences of the recent CEVA Logistics data breach are wider than initially anticipated. Days after the company alerted Valve of the hack that affected Steam hardware customers in Europe , the shipping company has notified Pok&eacute;mon Center that some of its customers are also affected. Pok&eacute;mon Center is Pokemon's official merchandise and collectibles store. Read more
-
-### The Sinking City 2 ditches the thinky stuff for classic survival horror, but I'm yet to decide if it's truly better for it
-Tue, 18 Aug 2026 15:08:13 +0000 — https://www.eurogamer.net/the-sinking-city-2-now-playing
-
-There's a bit, early on in The Sinking City 2 , where you enter the waterlogged Miskatonic University. As you teeter around toppled shelves and slalom through sodden tomes, a siren begins to blare. It's the last call for survivors hoping to flee the doomed city of Arkham, after which only a few determined souls remain. It feels like a world in the process of transition as we join it, and that's reflective of the series too. Read more
-
-### Here's your next batch of Xbox and PC Game Pass games for August
-Tue, 18 Aug 2026 14:39:08 +0000 — https://www.eurogamer.net/xbox-pc-game-pass-august-lineup
-
-The next batch of Xbox and PC Game Pass games has been announced, detailing what's arriving in the latter part of August. Read more
-
 ## GamesIndustry.biz
+
+### Why a publisher you've probably not heard of is spending millions of dollars on its Gamescom presence
+Thu, 20 Aug 2026 11:02:20 +0000 — https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence
+
+Walking the halls of Gamescom, the biggest, most elaborate booths you'll see will generally have an equally big, familiar name attached. Here's Capcom, Xbox, Sega, EA, Ubisoft, and so on. But at this year's event, a significant chunk of Halls 6 and 7 will be taken up by a name you probably won't be so familiar with: 4Divinity. Read more
+
+### Inner Pocket Publishing is "building a quiet corner for people who love thoughtful single-player games"
+Thu, 20 Aug 2026 10:21:28 +0000 — https://www.gamesindustry.biz/inner-pocket-publishing-is-building-a-quiet-corner-for-people-who-love-thoughtful-single-player-games
+
+A team of industry veterans from Critical Reflex, Gaijin Entertainment, and Nozomu Games has established the indie label Inner Pocket Publishing. Read more
 
 ### "As more people play games, even the tiniest niches find a bigger audience" – Why Matt Webster is convinced people want Star Wars: Galactic Racer
 Wed, 19 Aug 2026 14:57:11 +0000 — https://www.gamesindustry.biz/as-more-people-play-games-even-the-tiniest-niches-find-a-bigger-audience-why-matt-webster-is-convinced-people-want-star-wars-galactic-racer
@@ -114,16 +124,16 @@ Tue, 18 Aug 2026 12:08:03 +0000 — https://www.gamesindustry.biz/deus-ex-creato
 
 Deus Ex creator Warren Spector has announced his retirement after over forty years in game development. Read more
 
-### Save the Children announces its first game and streaming fundraising event called Save Point
-Tue, 18 Aug 2026 08:53:12 +0000 — https://www.gamesindustry.biz/save-the-children-announces-its-first-game-and-streaming-fundraising-event-called-save-point
-
-This Christmas, Save the Children will launch is first game and streaming fundraiser called Save Point. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Black Myth: Wukong s Follow-Up, Zhong Kui, Looks Absolutely Stunning in New Gameplay
+Thu, 20 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/08/black-myth-wukongs-follow-up-zhong-kui-looks-absolutely-stunning-in-new-gameplay
+
+Game Science is cooking. I remember all the videos of Black Myth: Wukong before the game eventually launched; all of them were spectacular. It seems developer Game Science has lost none of its ability to create compelling videos, as it's just released a brilliant 15-minute gameplay trailer for Black Myth: Zhong Kui , the second game in its series of Chinese mythology action RPGs. Read the full article on pushsquare.com
 
 ### Start Your Trails in the Sky 2nd Chapter Adventure Early with PS5 Demo, Out Now
 Thu, 20 Aug 2026 02:00:00 GMT — https://www.pushsquare.com/news/2026/08/start-your-trails-in-the-sky-2nd-chapter-adventure-early-with-ps5-demo-out-now
@@ -180,12 +190,12 @@ Wed, 19 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/the-bi
 
 Online co-op making its debut on consoles. There has been a lot of noise made about the state of the release schedule for games over the next few months, with many titles big and small doing their utmost to avoid GTA 6 . In case you hadn't noticed, there's a pretty wide radius around 19th November, 2026 — the day Rockstar is set to launch its massive crime sandbox. Very few other games are launching in the same month, let alone the same week. Read the full article on pushsquare.com
 
-### Preview: 6 Ways PS5 s Tides of Annihilation Blew Me Away After 2 Hours of Play
-Wed, 19 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/previews/6-ways-ps5s-tides-of-annihilation-blew-me-away-after-2-hours-of-play
-
-The tide is high-ly impressive. Eclipse Glow Games didn’t need to build a giant cathedral in the centre of Chengdu, China to convince of me of Tides of Annihilation’s ambition – but it certainly didn’t hurt. Ever since I got word of the dev’s decision to show off its hotly anticipated action game, the irony of travelling approximately 5,160 miles to play a game inspired by my home country has been on my mind. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Hundreds of union workers rally across North America to protest Xbox layoffs
+Thu, 20 Aug 2026 08:57:26 GMT — https://www.gamedeveloper.com/business/hundreds-of-union-workers-rally-across-north-america-to-protest-xbox-layoffs
+
+CWA members and supporters are keeping pressure on Microsoft after the company announced plans to eliminate 3,200 roles across Xbox during the current fiscal year.
 
 ### Harvey Smith and fellow Arkane Austin veterans announce a new studio, Black Pony Immersive
 Wed, 19 Aug 2026 16:35:10 GMT — https://www.gamedeveloper.com/business/harvey-smith-and-fellow-arkane-austin-veterans-launch-a-new-studio
@@ -221,14 +231,4 @@ Sony CEO Hiroki Totoki says the company is yet to fix a date for the PlayStation
 Tue, 18 Aug 2026 17:14:19 GMT — https://www.gamedeveloper.com/business/deus-ex-director-warren-spector-is-retiring-after-43-years
 
 Spector 'thinks' he's retiring for good, despite having ideas for three games he'd love to make.
-
-### Roblox being investigated by U.S. Senate after reporting 65,381 instances of suspected child abuse in 2025
-Tue, 18 Aug 2026 10:22:11 GMT — https://www.gamedeveloper.com/business/roblox-being-investigated-by-u-s-senate-after-reporting-65-381-instances-of-suspected-child-abuse-in-2025
-
-'Let us be clear: children on your platform are hurting. Congress will not look the other way.'
-
-### Arco tops 100,000 sales in two years and breaks even
-Tue, 18 Aug 2026 09:28:08 GMT — https://www.gamedeveloper.com/business/arco-breaks-even-after-topping-100-000-sales
-
-One member of the development team described the achievement as 'incredible.'
 

@@ -1,6 +1,41 @@
-# Film & TV — harvested 2026-08-20T08:17:36.990Z
+# Film & TV — harvested 2026-08-20T11:03:06.126Z
 
 ## Variety
+
+### Gramado Targets Next-Gen Talent as Permanent Growth Engine (EXCLUSIVE)
+Thu, 20 Aug 2026 10:56:48 +0000 — https://variety.com/2026/film/global/gramado-residency-young-filmmakers-1236838819/
+
+GRAMADO, Brazil As the first edition of the Residency for Young Filmmakers wrapped on Aug. 19, the Gramado Film Festival has decided to continue the program with a second edition set to take place at its 2027 edition and that the Residency would become a permanent initiative at Gramado, Rosa Helena Volk, president of [ ]
+
+### Podcast Giant Goalhanger Hires Tom Miceli to Lead TV and Film Expansion (EXCLUSIVE)
+Thu, 20 Aug 2026 10:15:15 +0000 — https://variety.com/2026/digital/global/goalhanger-hires-tom-miceli-tv-and-film-expansion-1236838833/
+
+Goalhanger, the British podcasting giant behind series such as as The Rest is Football, which recently launched as a Netflix show covering the World Cup, is looking to accelerate its growth on screen with the hire of Tom Miceli. Miceli joins from WME in the newly created role of head of IP development and will [ ]
+
+### China s Pingyao Film Festival Sets 10th Edition Dates – Global Bulletin
+Thu, 20 Aug 2026 09:50:29 +0000 — https://variety.com/2026/film/festivals/pingyao-film-festival-10th-edition-dates-1236838876/
+
+PINGYAO PREMIERE The Pingyao International Film Festival will mark its 10th edition with a run set for Sept. 24–30, at the Pingyao Festival Palace in Shanxi Province. Founded in 2017 by director Jia Zhangke, the festival spans four programs: Screening, Market, Cultivation and Academics. The Screening slate will include Crouching Tigers, dedicated to emerging directors [ ]
+
+### San Sebastián Sets Michaël R. Roskam’s ‘Le Faux Soir’ as Closing Night Film
+Thu, 20 Aug 2026 09:16:21 +0000 — https://variety.com/2026/film/global/san-sebastian-michael-roskam-le-faux-soir-closing-film-1236838841/
+
+“Le Faux Soir,” a Belgian-French WWII resistance drama from “Bullhead” director Michaël R. Roskam, has been set as the closing night film of this year’s San Sebastián Film Festival. Playing in the festival s Official Selection out of competition, the film will have its European premiere at San Sebastián after world premiering at Toronto, where it [ ]
+
+### ‘Game of Thrones’ Play ‘The Mad King’ Reveals Behind-The-Scenes Secrets in Stage Transformation Video (EXCLUSIVE)
+Thu, 20 Aug 2026 09:00:00 +0000 — https://variety.com/2026/theater/global/game-of-thrones-the-mad-king-behind-the-scenes-video-1236838551/
+
+“Game of Thrones: The Mad King” is sharing some of the magic behind the scenes in a new video that shows how the stage at the Royal Shakespeare Theatre in Stratford-Upon-Avon has been transformed for the show, which launched earlier this month. The show’s production design, overseen by set designer Chloe Lamford, is unlike anything [ ]
+
+### Toei, Shochiku, Kadokawa Among IP Holders Set for TIFFCOM s Tokyo Adaptation and Remake Market
+Thu, 20 Aug 2026 08:48:12 +0000 — https://variety.com/2026/film/markets-festivals/toei-shochiku-kadokawa-ip-holders-tokyo-remake-market-1236838854/
+
+Eight major Japanese publishers, studios and production companies will pitch intellectual property to international buyers at the second edition of Tokyo IP Market: Adaptation Remake, running Oct. 28-30 at TIFFCOM 2026 in Tokyo. The platform, known as TIPM, will host one-on-one business meetings and open pitching sessions at the Tokyo Metropolitan Industrial Trade Center [ ]
+
+### ‘You Don’t Belong Here’ Director Florin Şerban Sets Next Feature After Winning Locarno s Golden Leopard (EXCLUSIVE)
+Thu, 20 Aug 2026 08:38:50 +0000 — https://variety.com/2026/film/global/you-dont-belong-here-florin-serban-follow-up-locarno-1236838137/
+
+Romanian filmmaker Florin Şerban, whose bleak study of systemic racism and toxic masculinity “You Don’t Belong Here” won the Golden Leopard at the recently wrapped Locarno Film Festival, is prepping his next feature film. Speaking to Variety at the Sarajevo Film Festival, where “You Don’t Belong Here” is playing in the main competition, the director shared details [ ]
 
 ### India s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)
 Thu, 20 Aug 2026 06:30:00 +0000 — https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805/
@@ -17,42 +52,17 @@ Thu, 20 Aug 2026 05:30:00 +0000 — https://variety.com/2026/film/news/manoj-baj
 
 Indian thespian Manoj Bajpayee s first screen portrayal of Mahatma Gandhi will focus on a previously undisclosed chapter of India s independence history, according to new details released on the Sudhir Mishra-directed film. Saurabh Shukla has joined the cast, and Narendra Hirawat and NH Studioz have come aboard as producer and presenter, respectively, alongside Anubhav Sinha s Benaras [ ]
 
-### Josh Radnor Is Not Even a Little Bit Close to His How I Met Your Mother Co-Stars: You Just Go Out and Live Your Life
-Thu, 20 Aug 2026 04:37:05 +0000 — https://variety.com/2026/tv/news/josh-radnor-not-close-how-i-met-your-mother-co-stars-1236838802/
-
-Josh Radnor recently told the “Half the Picture” podcast that he is “not even a little bit” close to his “How I Met Your Mother” co-stars, despite filming together for 208 episodes across 9 seasons. When asked if he’s still tight with his “How I Met Your Mother” family, Radnor said, “No. Not even a [ ]
-
-### Naomi Watts to Receive Zurich Film Festival’s Golden Eye Award for The Housewife
-Thu, 20 Aug 2026 04:00:00 +0000 — https://variety.com/2026/film/global/naomi-watts-zurich-the-housewife-1236838419/
-
-Zurich Film Festival is to honor actress Naomi Watts with the Golden Eye Award for her performance in Ben Shirinian’s “The Housewife.” In Zurich, she will present the film, in which she portrays the enigmatic wife of a suspected Nazi. The actress will personally accept the award on Sept. 26 and offer insights into her [ ]
-
-### Hayden Panettiere’s Death: DEA Joins Investigation
-Thu, 20 Aug 2026 00:33:42 +0000 — https://variety.com/2026/film/news/hayden-panettiere-death-dea-joins-investigation-1236838724/
-
-The Drug Enforcement Administration has joined the investigation into Hayden Panettiere’s death, according to ABC News. The DEA is entering a joint effort with South Carolina s Greenville Police Department and the local coroner’s office, according to TMZ. Panettiere died Sunday night at age 36. The official cause of death has not yet been determined. In [ ]
-
-### French Soccer Star Kylian Mbappé Debuts Gold Nike Cleats on Heels of World Cup Golden Boot Award Win
-Wed, 19 Aug 2026 23:52:03 +0000 — https://variety.com/2026/shopping/athletes/kylian-mbappe-nike-mercurial-gold-soccer-cleats-buy-online-1236838580/
-
-The World Cup may be over but the merch and apparel rollout continues this month with the launch of a limited-edition pair of soccer cleats from French star and 2026 Golden Boot Award winner, Kylian Mbappé. The Nike Mercurial Superfly 11 reimagines the brand s bestselling soccer cleats in a gold, white and mint colorway (matching the French [ ]
-
-### Dane Cook s Brother Stole $12 Million From Comedian, Hid Bricks of Cash in Pasta Sauce
-Wed, 19 Aug 2026 23:17:47 +0000 — https://variety.com/2026/tv/news/dane-cook-brother-stole-12-million-cash-pasta-sauce-1236838675/
-
-Uh oh, Spaghetti O s! Dane Cook s brother stole $12 million from the comedian and hid bricks of cash inside pasta sauce, a new documentary reveals. Premiering on Sept. 29, Funny Money: The Dane Cook Story delves into the financial drama that absorbed the blockbuster comedian in 2008, when his half-brother and business manager, Darryl McCauley, [ ]
-
-### Hayden Panettiere s Heroes Dad Calls Out Predatory Paparazzi Who Hunted Her and the Press Who Asked Misogynistic Questions When She Was a Teen
-Wed, 19 Aug 2026 23:10:31 +0000 — https://variety.com/2026/tv/news/hayden-panettiere-heroes-dad-slams-paparazzi-media-hunting-her-1236838679/
-
-Jack Coleman, the Heroes actor who played the father of Hayden Panettiere s Claire Bennet, posted an emotional tribute to his late co-star following her death this week at 36 years old. I’m heartbroken. I couldn’t begin to put my thoughts into words until now, and they will be inadequate, Coleman wrote on Instagram alongside a [ ]
-
-### Lucky Creators on Deciding Who Dies in the Finale, Why the Show Really Is Over and Not Knowing About Drew Starkey s Avid Fandom Until We Killed Him
-Wed, 19 Aug 2026 23:00:00 +0000 — https://variety.com/2026/tv/news/lucky-creators-finale-deaths-killing-drew-starkey-anya-taylor-joy-1236838325/
-
-SPOILER ALERT: This interview contains major spoilers from “All Good Things,” the finale of Apple TV’s “Lucky.” Luciana “Lucky” Armstrong (Anya Taylor-Joy) has just pulled off one last con on the most important person left in her life: her formerly incarcerated father, John (Timothy Olyphant). In the series finale of “Lucky,” the titular con artist [ ]
-
 ## The Hollywood Reporter
+
+### HBO Max Picks 12 European Writers for Script Engine Program
+Thu, 20 Aug 2026 09:50:53 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hbo-max-names-european-writers-for-script-engine-program-1236677587/
+
+Veteran showrunner Frank Spotnitz ('The X-Files,''The Man in the High Castle') will mentor the program, aimed at helping European writers develop locally-rooted original series to pitch to HBO Max in November.
+
+### San Sebastian to Close With ‘Le Faux Soir,’ About Media Hack in Nazi-Occupied Belgium
+Thu, 20 Aug 2026 09:41:32 +0000 — https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-closing-film-le-faux-soir-media-nazi-belgium-1236677581/
+
+Michaël R. Roskam returns to the Spanish festival in an out-of-competition slot.
 
 ### Jonathan Jackson Shares Touching Tribute to Hayden Panettiere: She Had Such a Bright Light Within Her
 Thu, 20 Aug 2026 06:35:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jonathan-jackson-hayden-panettiere-nashville-1236677557/
@@ -72,7 +82,7 @@ Thu, 20 Aug 2026 03:12:52 +0000 — https://www.hollywoodreporter.com/movies/mov
 ### Did Alex Vindman Just Get Burned by the Larry David Curse?
 Thu, 20 Aug 2026 02:02:24 +0000 — https://www.hollywoodreporter.com/news/politics-news/alex-vindman-larry-david-curse-angie-nixon-florida-primary-1236677481/
 
-There’s really no other explanation for why the whistleblowing military hero got pummeled in his Florida primary. (OK, there is, but this is more fun.)
+There’s really no other explanation for why the whistleblowing military hero got pummeled in his Florida primary. (OK, there is, but this one's more fun.)
 
 ### Hayden Panettiere s Neighbor Says She Called 911 Multiple Times to Report Disturbances With Star s Boyfriend
 Thu, 20 Aug 2026 01:02:28 +0000 — https://www.hollywoodreporter.com/news/general-news/hayden-panettieres-neighbor-called-911-report-disturbances-1236677449/
@@ -94,17 +104,37 @@ Wed, 19 Aug 2026 23:09:18 +0000 — https://www.hollywoodreporter.com/news/gener
 
 “I love you, Hayden. I’ll miss you. I’m so sorry you suffered,“ the actor, who played the actress‘ TV dad on the NBC series.
 
-### Ariana Grande Granted Expedited Subpoena in Lawsuit Over Leaked Music
-Wed, 19 Aug 2026 23:05:07 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/ariana-grande-granted-expedited-subpoena-in-hacker-lawsuit-1236677401/
-
-Grande first filed her suit in July, claiming hackers stole unreleased content of hers and sold it online on the dark web.
-
-### ‘Earle Meets World’ Trailer Goes Inside Alix Earle’s Dramatic, Rumor-Filled Year: Nothing Is Off Limits
-Wed, 19 Aug 2026 22:46:24 +0000 — https://www.hollywoodreporter.com/tv/tv-news/earle-meets-world-trailer-alix-earle-tom-brady-1236677198/
-
-The Netflix reality series will release its eight episodes on the streamer on Sept. 4.
-
 ## Deadline
+
+### Venice Head Alberto Barbera Defends Selection Of Russian Director Ilya Khrzhanovsky’s ‘DAU’: “It Is Not Pro-Putin Propaganda”
+Thu, 20 Aug 2026 10:59:24 +0000 — https://deadline.com/2026/08/alberto-barbera-ilya-khrzhanovskys-dau-russia-putin-1237046112/
+
+Following weeks of criticism from activists and Ukrainian officials, Venice Film Festival director Alberto Barbera defended his selection of Russian filmmaker Ilya Khrzhanovsky’s feature DAU in a lengthy Instagram message posted on Wednesday. Beginning by describing Russia’s invasion of Ukraine as “bloody and cruel”, Barbera said that critics of Venice and its inclusion of DAU [ ]
+
+### Prime Video To Tell Gary Lineker s Life Story In Docu-Series
+Thu, 20 Aug 2026 10:00:27 +0000 — https://deadline.com/2026/08/prime-video-gary-lineker-documentary-series-1237046098/
+
+Prime Video is to tell the story of footballer-turned-broadcaster Gary Lineker. A four-part miniseries, Lineker, will look at his 50-year career, which has mostly recently seen him become a media and entertainment business owner through his successful podcasting operation Goalhanger. It will also explore how he went from his Mr Nice Guy reputation on the [ ]
+
+### FlareFlow Europe s Shorts Strike Four-Title Microdrama Pact
+Thu, 20 Aug 2026 10:00:00 +0000 — https://deadline.com/2026/08/flareflow-shorts-microdrama-deal-1237044053/
+
+EXCLUSIVE: Microdrama platforms FlareFlow and Shorts are sharing the vertical love. The Singapore-based, COL Group-owned FlareFlow and Europe s Shorts will team on a four-strong slate that they say will broaden the landscape of microdrama by dipping into fantasy-led, action, supernatural and revenge-themed storytelling. They say the deal reflects a shared ambition to move vertical entertainment [ ]
+
+### Lav Diaz s Venice Title Let Us Through, Dear Ancestors Boarded By Heretic For Sales
+Thu, 20 Aug 2026 09:38:01 +0000 — https://deadline.com/2026/08/lav-diaz-venice-let-us-through-dear-ancestors-sales-heretic-1237046091/
+
+EXCLUSIVE: Lav Diaz s Venice Film Festival title Let Us Through, Dear Ancestors (Makikiraan Po) has been boarded by Greek international sales firm Heretic. The film, about Spain s colonial subjugation of the Philippines, is one of the Filipino auteur s shorter features running only 2 hours 31 minutes. The film, which is playing Out of Competition on [ ]
+
+### Seriesly Berlin Selects 18 International Projects For New-Look Pitching Competition
+Thu, 20 Aug 2026 09:18:05 +0000 — https://deadline.com/2026/08/seriesly-berlin-international-projects-pitch-initiative-1237046079/
+
+The Seriesly Berlin Project Pitches has selected 18 international projects from the likes of Star Trek: Discovery writer Ted Sullivan and British author Robert Wilson. Participants will take to the stage at the Seriesly Berlin Conference on September 15-16 at the Fotografiska Berlin in a new-look format that divides the projects in three – with [ ]
+
+### BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK
+Thu, 20 Aug 2026 09:00:00 +0000 — https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305/
+
+EXCLUSIVE: The BFI Film Academy, the UK film body s flagship skills incubator for young people aged 16-25, is expanding with the launch of 12 new BFI Film Academy Hubs across the UK. The BFI has said the scheme will focus on “local provision and devolving funding across the UK.” The 12 hubs will be led [ ]
 
 ### Naomi Watts Set For Zurich’s Golden Eye Award
 Thu, 20 Aug 2026 05:53:05 +0000 — https://deadline.com/2026/08/naomi-watts-zurich-film-festival-golden-eye-award-1237046058/
@@ -135,34 +165,4 @@ Million Dollar Listing Los Angeles star Tracy Tutor is joining the cast of The R
 Wed, 19 Aug 2026 23:00:00 +0000 — https://deadline.com/2026/08/star-wars-starfighter-lucky-finale-jonathan-tropper-1237045610/
 
 Spoiler warning: This podcast and write-up contains details about the final episode of Apple TV s Lucky. Apple TV s limited series Lucky just dropped its final episode, and the series creator Jonathan Tropper is here with us today to explain just why the nefarious queen-pin Priscilla (Annette Bening) let Lucky (Anya Taylor-Joy) and her father (Timothy [ ]
-
-### IATSE Local 479 Leadership Suspended Amid Corruption Concerns
-Wed, 19 Aug 2026 22:45:00 +0000 — https://deadline.com/2026/08/iatse-local-479-leadership-suspended-corruption-concerns-1237045565/
-
-IATSE has suspended leadership at a prominent U.S. local amid allegations of corruption. Local 479, which represents more than 7,000 film and television technicians across Georgia and Alabama, has been temporarily placed under the stewardship of several special representatives after President Matthew Loeb declared an emergency at the division last month, according to a letter [ ]
-
-### Widow s Bay Ups Jeff Hiller To Series Regular For Season 2
-Wed, 19 Aug 2026 22:31:02 +0000 — https://deadline.com/2026/08/widows-bay-season-2-jeff-hiller-1237045620/
-
-EXCLUSIVE: Widow s Bay fans can look forward to a lot more laughs (and possibly screams) with Jeff Hiller in future, Deadline has learned. Come Season 2, Hiller will make the jump from guest star to series regular on the mega-hit much Emmy-nominated show about a haunted Massachusetts island. Hiller, who is repped by Innovative Artists [ ]
-
-### Prince Harry Meghan Markle Leaving L.A. Heading Back To The UK
-Wed, 19 Aug 2026 22:29:19 +0000 — https://deadline.com/2026/08/prince-harry-meghan-markle-moving-to-uk-1237045751/
-
-Prince Harry and Meghan Markle may still have a first look deal at Netflix, but the duo has decided to decamp from Hollywood. The Duke and Duchess of Sussex will be taking their children back to the UK for an extended period of time. The duo made headlines in 2020 when they stepped away from [ ]
-
-### Furious Actor Steve Way Praises Creator Liz Meriwether For Depicting Disabled Romance In Beautiful, Healthy Way
-Wed, 19 Aug 2026 22:28:11 +0000 — https://deadline.com/2026/08/furious-steve-way-praises-liz-meriwether-disabled-romance-1237045759/
-
-As the mystery unfolds on Hulu s Furious, viewers have also been treated to an unexpected romance. Disabled actor Steve Way, who plays Alden on the Liz Meriwether thriller, praised the series creator for allowing him to play a different side of myself as the character sparks an unconventional romance with the mysterious femme fatale Catherine [ ]
-
-### Adèle Exarchopoulos Joins Zoë Kravitz In Apple Film From My Old Ass Director Megan Park
-Wed, 19 Aug 2026 22:15:00 +0000 — https://deadline.com/2026/08/adele-exarchopoulos-joins-megan-park-apple-movie-1237045734/
-
-EXCLUSIVE: Adèle Exarchopoulos (Blue Is the Warmest Color) has landed a lead role opposite Zoë Kravitz in Apple s mystery movie from My Old Ass helmer Megan Park, sources tell Deadline. No word yet on Exarchopoulos part. Reps for Apple declined to comment. This will mark the decorated French actress s first American studio lead role. Park s new film is [ ]
-
-### ‘Degree of Certainty’ Filmmaker Simon Schneider Tackles The Ironic Origins Of Climate Change Data — HollyShorts Film Festival
-Wed, 19 Aug 2026 22:00:00 +0000 — https://deadline.com/2026/08/degree-of-uncertainty-interview-simon-schneider-1237044928/
-
-In Simon Schneider’s Degree of Certainty, knowing the truth and acting on it are two very different things. Set in 1982, the 16-minute short follows Jackson Miller (Trace Guzmán), a young risk analyst at a major U.S. oil company facing mounting pressure as plunging oil prices cost the corporation millions. Looking for a way to [ ]
 

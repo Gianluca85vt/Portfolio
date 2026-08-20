@@ -1,6 +1,16 @@
-# Manga — harvested 2026-08-20T08:17:36.990Z
+# Manga — harvested 2026-08-20T11:03:06.126Z
 
 ## Anime News Network
+
+### Kenshi Yonezu, Tōko Miura, Yōko Kuno Join Live-Action Look Back Film as Special Guest Staff
+Thu, 20 Aug 2026 04:58:30 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/kenshi-yonezu-toko-miura-yoko-kuno-join-live-action-look-back-film-as-special-guest-staff/.240748
+
+Yonezu to perform guitar, Miura sings, Kuno produces rotoscoped animation based on their performance
+
+### Necromancer Isekai Anime Reveals Key Visual, 2027 Debut
+Thu, 20 Aug 2026 04:46:30 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/necromancer-isekai-anime-reveals-key-visual-2027-debut/.240749
+
+Yoshihiro Akase also joins staff as sound director
 
 ### Metallica Praises Ado's Summer Sonic Performance of 'Enter Sandman'
 Wed, 19 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-19/metallica-praises-ado-summer-sonic-performance-of-enter-sandman/.240713
@@ -51,16 +61,6 @@ Titles based on <cite>Atomcat</cite>/<cite>AstroCat</cite>, <cite>Princess Knigh
 Wed, 19 Aug 2026 15:54:26 -0400 — https://www.animenewsnetwork.com/news/2026-08-19/overgeared-anime-new-video-unveils-more-cast-theme-songs-october-2-debut/.240727
 
 Riho Sugiyama, Masaaki Mizunaka, Kō Bonkobara, Masaya Fukunishi, Kōhei Amasaki, Shunichi Toki join cast
-
-### Reborn as a Vending Machine, I Now Wander the Dungeon Season 3 Anime Series Review
-Wed, 19 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/reborn-as-a-vending-machine-i-now-wander-the-dungeon-season-3/anime-series/.240475
-
-What a wacky, random, and fun ride this third season is!
-
-### Ghost in the Shell ‒ Episode 7
-Wed, 19 Aug 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/ghost-in-the-shell/episode-7/.240716
-
-As Motoko Kusanagi desperately dives into her damaged, deteriorating mind, she experiences something that can only be described as transcendental.
 
 ## Crunchyroll News
 
