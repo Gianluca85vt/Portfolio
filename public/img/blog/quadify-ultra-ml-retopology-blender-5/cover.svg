@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Quadify Ultra ML-routed retopology for Blender 5.0">
+  <defs>
+    <linearGradient id="bgQ" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#3A1A10"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="accentQ" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BE4C00"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgQ)"/>
+
+  <!-- quad mesh, retopologized -->
+  <g stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="2" fill="none">
+    <path d="M60 620 L220 600 L400 630 L580 600 L760 625 L940 595 L1140 615"/>
+    <path d="M60 700 L220 680 L400 710 L580 685 L760 705 L940 680 L1140 700"/>
+    <path d="M60 780 L220 760 L400 790 L580 765 L760 785 L940 760 L1140 780"/>
+    <path d="M60 620 L60 780 M220 600 L220 760 M400 630 L400 790 M580 600 L580 685 M760 625 L760 785 M940 595 L940 760 M1140 615 L1140 780"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="140" font-size="30" letter-spacing="8" fill="#FFFFFF" fill-opacity="0.5">QUADIFY ULTRA — BLENDER 5.0</text>
+
+    <text x="600" y="330" font-size="190" font-weight="900" fill="#FFFFFF" font-family="Arial Black, Arial, Helvetica, sans-serif">5</text>
+    <text x="600" y="410" font-size="42" letter-spacing="6" fill="#FFFFFF" fill-opacity="0.85">ALGORITHMS, ONE ML ROUTER</text>
+
+    <text x="600" y="470" font-size="30" fill="#FFFFFF" fill-opacity="0.5">18 mesh features read before the click</text>
+  </g>
+
+  <rect x="480" y="520" width="240" height="8" rx="4" fill="url(#accentQ)"/>
+</svg>
