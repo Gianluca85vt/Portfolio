@@ -3,7 +3,7 @@ title: Enola Holmes 3's best VFX shot is a fingerprint smudge you're meant to re
 date: 2026-08-20
 category: Film & TV
 excerpt: Vine FX published its breakdown reel for Enola Holmes 3 this week. The mind-palace sequences get the headline, but the shot that actually stuck with me is a mirror covered in fingerprints that double as a coded message.
-cover: /img/blog/enola-holmes-3-invisible-vfx/cover.svg
+cover: /img/blog/enola-holmes-3-invisible-vfx/shot-01.jpg
 draft: true
 ---
 
@@ -23,6 +23,11 @@ normal viewing distance. That's a much harder authoring problem than it
 sounds, and it's one I've run into from a completely different direction.
 
 ## Two things at once is the whole job
+
+<figure>
+  <img src="/img/blog/enola-holmes-3-invisible-vfx/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Millie Bobby Brown, star of Enola Holmes 3, photographed by Gage Skidmore, via Wikimedia Commons (CC BY-SA 2.0) — a cast portrait, not a still from the film or the VFX sequences discussed.</figcaption>
+</figure>
 
 Any texture or prop detail on a production has to survive two different
 readings at once: the glance and the close-up. A dirty window, a scuffed
