@@ -4,7 +4,6 @@ date: 2026-08-20
 category: Film & TV
 excerpt: Vine FX published its breakdown reel for Enola Holmes 3 this week. The mind-palace sequences get the headline, but the shot that actually stuck with me is a mirror covered in fingerprints that double as a coded message.
 cover: /img/blog/enola-holmes-3-invisible-vfx/shot-01.jpg
-draft: true
 ---
 
 Vine FX put out its VFX breakdown reel for *Enola Holmes 3* this week,
