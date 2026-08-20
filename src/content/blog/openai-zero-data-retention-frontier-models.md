@@ -4,7 +4,6 @@ date: 2026-08-20
 category: AI
 excerpt: OpenAI says its no-retention promise will survive the next generation of frontier models, via a new architecture it calls Private Safety Processing. The benchmark crowd will skim past this one. If you've ever wanted to point an AI at a folder of unannounced concept art, it's the announcement that decides whether legal lets you.
 cover: /img/blog/openai-zero-data-retention-frontier-models/cover.svg
-draft: true
 ---
 
 OpenAI put out a post on **20 August** with a title that sounds like housekeeping: *Offering
