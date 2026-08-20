@@ -1,6 +1,56 @@
-# Manga — harvested 2026-08-19T17:01:23.832Z
+# Manga — harvested 2026-08-20T05:14:25.158Z
 
 ## Anime News Network
+
+### Metallica Praises Ado's Summer Sonic Performance of 'Enter Sandman'
+Wed, 19 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-19/metallica-praises-ado-summer-sonic-performance-of-enter-sandman/.240713
+
+Metallica: “Watching younger generations find their way to our music never gets old... it's one of the best parts of doing this”
+
+### Love Is Like a Cocktail's Crystal na Yōsuke Launches Romantic Comedy Manga
+Wed, 19 Aug 2026 23:35:07 -0400 — https://www.animenewsnetwork.com/news/2026-08-19/love-is-like-a-cocktail-crystal-na-yosuke-launches-romantic-comedy-manga/.240702
+
+<cite>Tokoro de Machi Chūka wa Date ni Irimasu ka?</cite> launches on September 18
+
+### Ghibli's Frequent Composer Joe Hisaishi Receives 3 Guinness World Records
+Wed, 19 Aug 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-19/ghibli-frequent-composer-joe-hisaishi-receives-3-guinness-world-records/.240717
+
+Hisaishi honored for record-breaking runs at Tokyo Dome, Hollywood Bowl, Radio City Music Hall
+
+### We Are Aliens Film Unveils More Cast
+Wed, 19 Aug 2026 21:57:18 -0400 — https://www.animenewsnetwork.com/news/2026-08-19/we-are-aliens-film-unveils-more-cast/.240734
+
+Gaku Sano, Reika Ōzeki, Arisa Sasaki, Edo Harumi join cast
+
+### Live-Action S and X: Confession of Therapist Series Streams 1st 2 Minutes
+Wed, 19 Aug 2026 21:36:11 -0400 — https://www.animenewsnetwork.com/news/2026-08-19/live-action-s-and-x-confession-of-therapist-series-streams-1st-2-minutes/.240733
+
+Series debuts on Netflix worldwide on Thursday
+
+### Ayano Yamane's The Husky and His White Cat Shizun Manga Adaptation Suspended
+Wed, 19 Aug 2026 21:07:22 -0400 — https://www.animenewsnetwork.com/news/2026-08-19/ayano-yamane-the-husky-and-his-white-cat-shizun-manga-adaptation-suspended/.240730
+
+Artist apologizes for "discomfort," "concern" caused by social media posts
+
+### Star Detective Precure! Film Casts Comedy Duo Cotton
+Wed, 19 Aug 2026 20:54:20 -0400 — https://www.animenewsnetwork.com/news/2026-08-19/star-detective-precure-film-casts-comedy-duo-cotton/.240732
+
+Cotton's Jinji Nishimura, Kyon play Dame Dame creatures in September 18 film
+
+### Disney Twisted-Wonderland Anime's New Teaser Announces Fairouz Ai as Yuuka
+Wed, 19 Aug 2026 19:54:25 -0400 — https://www.animenewsnetwork.com/news/2026-08-19/disney-twisted-wonderland-anime-new-teaser-announces-fairouz-ai-as-yuuka/.240731
+
+Yuuka Hirasaka is protagonist of anime's 2nd season, <i>Episode of Savanaclaw</i>
+
+### Scholastic's Graphix Imprint to Offer 5 New Titles Based on Osamu Tezuka's Manga
+Wed, 19 Aug 2026 16:33:27 -0400 — https://www.animenewsnetwork.com/news/2026-08-19/scholastic-graphix-imprint-to-offer-5-new-titles-based-on-osamu-tezuka-manga/.240728
+
+Titles based on <cite>Atomcat</cite>/<cite>AstroCat</cite>, <cite>Princess Knight</cite>, <cite>The Three-Eyed One</cite>, <cite>Triton of the Sea</cite>, <cite>Zero Man</cite>
+
+### Overgeared Anime's New Video Unveils More Cast, Theme Songs, October 2 Debut
+Wed, 19 Aug 2026 15:54:26 -0400 — https://www.animenewsnetwork.com/news/2026-08-19/overgeared-anime-new-video-unveils-more-cast-theme-songs-october-2-debut/.240727
+
+Riho Sugiyama, Masaaki Mizunaka, Kō Bonkobara, Masaya Fukunishi, Kōhei Amasaki, Shunichi Toki join cast
 
 ### Reborn as a Vending Machine, I Now Wander the Dungeon Season 3 Anime Series Review
 Wed, 19 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/reborn-as-a-vending-machine-i-now-wander-the-dungeon-season-3/anime-series/.240475
@@ -11,56 +61,6 @@ What a wacky, random, and fun ride this third season is!
 Wed, 19 Aug 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/ghost-in-the-shell/episode-7/.240716
 
 As Motoko Kusanagi desperately dives into her damaged, deteriorating mind, she experiences something that can only be described as transcendental.
-
-### One Piece (2026-) ‒ Episode 1174
-Wed, 19 Aug 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/one-piece/episode-1174/.240708
-
-It’s hard not to cheer alongside the warriors of Elbaph as our two favorite giants deliver a double home run swing laser beam from the deck of their longship.
-
-### Red River ‒ Episode 7
-Wed, 19 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-7/.240697
-
-This really is the first time Yuri has truly come into her own.
-
-### An Interview With Rensuke Oshikiri, Creator of Geniearth, Sayuri, and Hi Score Girl
-Wed, 19 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-08-19/an-with-rensuke-oshikiri-creator-of-geniearth-sayuri-and-hi-score-girl/.240557
-
-Kevin Cormack goes over Oshikiri's decades-long career, from horror and action manga titles to video game nostalgia.
-
-### The World Is Dancing ‒ Episode 8
-Wed, 19 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/the-world-is-dancing/episode-8/.240667
-
-Imagine witnessing a rival put on a show so incredible that it causes the doomed future of an entire artform to flash before your eyes.
-
-### New Madoka Magica Film's Staff Asks Fans Not to Post Spoilers
-Tue, 18 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-18/new-madoka-magica-film-staff-asks-fans-not-to-post-spoilers/.240584
-
-At least for 2 weeks
-
-### Dark Machine The Animation Series' New Video Reveals More Cast, Opening Song, October TV Debut
-Tue, 18 Aug 2026 23:48:14 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/dark-machine-the-animation-series-new-video-reveals-more-cast-opening-song-october-tv-debut/.240710
-
-Ryūnosuke Watanuki, Jun Kousaka, Minori Suzuki, Rikuya Yasuda join cast
-
-### Netflix to Stream 3rd Mononoke Film Globally on September 29
-Tue, 18 Aug 2026 23:26:27 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/netflix-to-stream-3rd-mononoke-film-globally-on-september-29/.240709
-
-<cite>Mononoke The Movie: Chapter III – The Curse of the Serpent</cite> opened in Japan on May 29
-
-### I Became a Legend After My 10 Year-Long Last Stand Anime Casts Rina Honnizumi
-Tue, 18 Aug 2026 23:20:41 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-rina-honnizumi/.240706
-
-Honnizumi plays Philly who debuted in episode 7 on Monday
-
-### Krispy Kreme Announces Pokémon-Inspired Doughnuts
-Tue, 18 Aug 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-18/krispy-kreme-announces-pokemon-inspired-doughnuts/.240583
-
-Which starter Pokémon doughnut will you choose?
-
-### Shiro Kuroi's Leviathan Manga Gets Live-Action Film
-Tue, 18 Aug 2026 20:26:29 -0400 — https://www.animenewsnetwork.com/news/2026-08-18/shiro-kuroi-leviathan-manga-gets-live-action-film/.240701
-
-Shunsuke Michieda, Natsuki Deguchi star in February 11 sci-fi survival horror film
 
 ## Crunchyroll News
 

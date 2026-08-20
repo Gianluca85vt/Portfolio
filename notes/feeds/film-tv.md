@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-19T17:01:23.832Z
+# Film & TV — harvested 2026-08-20T05:14:25.158Z
 
 ## Variety
 
-### It Finally Feels Like We re Back in 2019 : Movie Theater Owners Rejoice Over $4 Billion Summer. Can the Fall Keep the Momentum?
-Wed, 19 Aug 2026 17:00:00 +0000 — https://variety.com/2026/film/box-office/movie-theater-owners-summer-box-office-fall-films-1236836744/
+### Josh Radnor Is Not Even a Little Bit Close to His How I Met Your Mother Co-Stars: You Just Go Out and Live Your Life
+Thu, 20 Aug 2026 04:37:05 +0000 — https://variety.com/2026/tv/news/josh-radnor-not-close-how-i-met-your-mother-co-stars-1236838802/
 
-B B Theatres CEO Bob Bagby apologized to his staffers in advance. He was bracing for the opening weekend of “Spider-Man: Brand New Day” and knew everyone would need to work around the clock. That’s no exaggeration: Screenings were scheduled at such odd hours as 8 a.m. and 2:30 a.m. to meet demand. “We were calling [ ]
+Josh Radnor recently told the “Half the Picture” podcast that he is “not even a little bit” close to his “How I Met Your Mother” co-stars, despite filming together for 208 episodes across 9 seasons. When asked if he’s still tight with his “How I Met Your Mother” family, Radnor said, “No. Not even a [ ]
 
-### Larry David Ended Friendship With Trump Lawyer Alan Dershowitz Because He Made a Deal With the Devil. Literally. He Only Has Himself to Blame
-Wed, 19 Aug 2026 16:47:38 +0000 — https://variety.com/2026/tv/news/larry-david-fought-alan-dershowitz-trump-lawyer-deal-with-devil-1236838193/
+### Naomi Watts to Receive Zurich Film Festival’s Golden Eye Award for The Housewife
+Thu, 20 Aug 2026 04:00:00 +0000 — https://variety.com/2026/film/global/naomi-watts-zurich-the-housewife-1236838419/
 
-Larry David told The Atlantic that ex-friend Alan Dershowitz made a deal with the devil when he became a lawyer on Donald Trump s defense team during the president s first impeachment trial in 2020, hence the two gentleman are no longer friends. Dershowitz and David got into an infamous altercation on Martha s Vineyard in 2021 that [ ]
+Zurich Film Festival is to honor actress Naomi Watts with the Golden Eye Award for her performance in Ben Shirinian’s “The Housewife.” In Zurich, she will present the film, in which she portrays the enigmatic wife of a suspected Nazi. The actress will personally accept the award on Sept. 26 and offer insights into her [ ]
 
-### Hollywood‘s Push for Federal Film Tax Credit Could Help Boost Production in All States
-Wed, 19 Aug 2026 16:45:00 +0000 — https://variety.com/2026/film/focus/federal-film-tax-credit-production-1236837623/
+### Hayden Panettiere’s Death: DEA Joins Investigation
+Thu, 20 Aug 2026 00:33:42 +0000 — https://variety.com/2026/film/news/hayden-panettiere-death-dea-joins-investigation-1236838724/
 
-In the David Mamet satire “State and Main,” a film crew creates havoc when it descends on a small town in Vermont. In real life, Hollywood almost never comes to Vermont, one of 11 states without a production tax incentive. In fact, “State and Main” was filmed in Massachusetts. Vermont has no film office either. [ ]
+The Drug Enforcement Administration has joined the investigation into Hayden Panettiere’s death, according to ABC News. The DEA is entering a joint effort with South Carolina s Greenville Police Department and the local coroner’s office, according to TMZ. Panettiere died Sunday night at age 36. The official cause of death has not yet been determined. In [ ]
 
-### Crunchyroll Thinks Small When It Comes to Building Out Its Global Anime Empire
-Wed, 19 Aug 2026 16:45:00 +0000 — https://variety.com/2026/film/focus/crunchyroll-anime-global-1236837643/
+### French Soccer Star Kylian Mbappé Debuts Gold Nike Cleats on Heels of World Cup Golden Boot Award Win
+Wed, 19 Aug 2026 23:52:03 +0000 — https://variety.com/2026/shopping/athletes/kylian-mbappe-nike-mercurial-gold-soccer-cleats-buy-online-1236838580/
 
-For two decades, Crunchyroll built its business on anime, growing the U.S. audience for the animated content from a niche genre to a mainstream giant. But its growth has been built on thinking small. “We like to say that we don’t want to be something for everyone. We want to be everything to someone, and [ ]
+The World Cup may be over but the merch and apparel rollout continues this month with the launch of a limited-edition pair of soccer cleats from French star and 2026 Golden Boot Award winner, Kylian Mbappé. The Nike Mercurial Superfly 11 reimagines the brand s bestselling soccer cleats in a gold, white and mint colorway (matching the French [ ]
 
-### Good American Family Renewed for Season 2 at Hulu, to Focus on Lorena Bobbitt Case
-Wed, 19 Aug 2026 16:35:36 +0000 — https://variety.com/2026/tv/news/good-american-family-renewed-season-2-hulu-lorena-bobbitt-1236838345/
+### Dane Cook s Brother Stole $12 Million From Comedian, Hid Bricks of Cash in Pasta Sauce
+Wed, 19 Aug 2026 23:17:47 +0000 — https://variety.com/2026/tv/news/dane-cook-brother-stole-12-million-cash-pasta-sauce-1236838675/
 
-Hulu is bringing back Good American Family for a second season, with the show taking on an anthology format. The second season will focus on the case of Lorena Bobbitt and her husband John Bobbitt. Series creator and executive producer Katie Robbins will return for Season 2, as will Season 1 star and executive producer [ ]
+Uh oh, Spaghetti O s! Dane Cook s brother stole $12 million from the comedian and hid bricks of cash inside pasta sauce, a new documentary reveals. Premiering on Sept. 29, Funny Money: The Dane Cook Story delves into the financial drama that absorbed the blockbuster comedian in 2008, when his half-brother and business manager, Darryl McCauley, [ ]
 
-### Corey Hawkins Signs With Range Media Partners (EXCLUSIVE)
-Wed, 19 Aug 2026 16:30:00 +0000 — https://variety.com/2026/film/news/corey-hawkins-signs-range-media-partners-1236837854/
+### Hayden Panettiere s Heroes Dad Calls Out Predatory Paparazzi Who Hunted Her and the Press Who Asked Misogynistic Questions When She Was a Teen
+Wed, 19 Aug 2026 23:10:31 +0000 — https://variety.com/2026/tv/news/hayden-panettiere-heroes-dad-slams-paparazzi-media-hunting-her-1236838679/
 
-Range Media Partners has signed Corey Hawkins for representation, Variety can exclusively reveal. Hawkins continues to be represented by WME, JTWAMM and Shelter PR. Hawkins, a graduate of the Juilliard School’s drama program, got his break starring as Dr. Dre in F. Gary Gray’s 2015 NWA biopic “Straight Outta Compton.” Some of Hawkins other early [ ]
+Jack Coleman, the Heroes actor who played the father of Hayden Panettiere s Claire Bennet, posted an emotional tribute to his late co-star following her death this week at 36 years old. I’m heartbroken. I couldn’t begin to put my thoughts into words until now, and they will be inadequate, Coleman wrote on Instagram alongside a [ ]
 
-### Venice Chief Alberto Barbera Defends Selection of Russian Director Ilya Khrzhanovsky s DAU After Backlash: It s Not Pro-Putin Propaganda
-Wed, 19 Aug 2026 16:22:46 +0000 — https://variety.com/2026/film/festivals/venice-chief-defends-dau-selection-ukraine-backlash-1236838254/
+### Lucky Creators on Deciding Who Dies in the Finale, Why the Show Really Is Over and Not Knowing About Drew Starkey s Avid Fandom Until We Killed Him
+Wed, 19 Aug 2026 23:00:00 +0000 — https://variety.com/2026/tv/news/lucky-creators-finale-deaths-killing-drew-starkey-anya-taylor-joy-1236838325/
 
-Venice Film Festival artistic director Alberto Barbera took to social media on Wednesday to fight back against criticism of the inclusion of Russian filmmaker Ilya Khrzhanovsky’s DAU in this year’s edition. Acknowledging the “bloody and cruel war” in Ukraine, Barbera wrote in an Instagram post that “to build a web of accusations based on false [ ]
+SPOILER ALERT: This interview contains major spoilers from “All Good Things,” the finale of Apple TV’s “Lucky.” Luciana “Lucky” Armstrong (Anya Taylor-Joy) has just pulled off one last con on the most important person left in her life: her formerly incarcerated father, John (Timothy Olyphant). In the series finale of “Lucky,” the titular con artist [ ]
 
-### Insidious: Out of the Further’ Review: Latest Entry in the Franchise Serves Up Genuinely Terrifying Setpieces Despite a Convoluted Final Act
-Wed, 19 Aug 2026 16:04:02 +0000 — https://variety.com/2026/film/reviews/insidious-out-of-the-further-review-1236837868/
+### Ariana Grande Granted Permission to Issue Expedited Subpoenas to Reveal Hacker Identities
+Wed, 19 Aug 2026 21:56:47 +0000 — https://variety.com/2026/music/news/ariana-grande-permitted-subpoena-reveal-hacker-identities-1236838661/
 
-If you’ve always been terrified of dental work and the idea of someone poking around your pearly whites with sharp tools, you’re not alone. With “Insidious: Out of the Further,” the sixth entry in the infinitely inventive horror franchise, writer-director Jacob Chase is unashamed to declare that he shares your fears, while having some gross-out [ ]
+Ariana Grande has been granted permission to subpoena information that will help reveal the identities of anonymous hackers who allegedly leaked unreleased songs and footage from recording sessions and music videos. A Los Angeles judge approved Grande s proposed order for expedited discovery on Tuesday, explaining that because she is unable to identify the hackers, a [ ]
 
-### Building the Band Group Soulidified Signs to Atlantic Records (EXCLUSIVE)
-Wed, 19 Aug 2026 16:00:00 +0000 — https://variety.com/2026/music/news/soulidified-signs-to-atlantic-records-building-the-band-1236837558/
+### Prince Harry and Meghan Markle Moving Back to U.K. in Shock Decision
+Wed, 19 Aug 2026 21:50:40 +0000 — https://variety.com/2026/film/news/prince-harry-meghan-markle-moving-back-to-uk-1236838650/
 
-Soulidified has signed to Atlantic Records, just a year after they were introduced to the world on Netflix s Building the Band, Variety can exclusively announce. The group, consisting of Shade Jenifer, Malik Heard, Bradley Rittmann and Landon Boyce, was initially formed on Building the Band, which aired in July 2025. They joined together as a [ ]
+Prince Harry and Meghan Markle are moving back to the U.K. with their children after living in California for the past six years, according to People. The transition back to Britain, which the outlet says will last for an extended period, is set to begin in the coming weeks. The Duke and Duchess of Sussex [ ]
 
-### Netflix Buys Wu-Tang Clan Doc The Disciple Directed by Joanna Natasegara (EXCLUSIVE)
-Wed, 19 Aug 2026 16:00:00 +0000 — https://variety.com/2026/film/global/netflix-buys-wu-tang-clan-doc-the-disciple-1236838138/
+### Sandra Bullock Opens Up for the First Time on ALS Death of Partner Bryan Randall: My Person Left A Lot Earlier Than the Body Left’
+Wed, 19 Aug 2026 21:33:41 +0000 — https://variety.com/2026/film/health/sandra-bullock-als-death-partner-bryan-randall-1236838639/
 
-The Disciple: A Wu-Tang Fable the Sundance-bowing doc that unravelled the story of Dutch-Moroccan rapper and producer Cilvaringz and the making of the controversial Wu-Tang Clan record Once Upon a Time in Shaolin, is heading to Netflix. The streamer has acquired rights to the feature, directed and produced by Oscar-winning British filmmaker Joanna Natasegara ( The [ ]
+Sandra Bullock is opening up about the death of her late partner Bryan Randall. The “Practical Magic 2” star made the rare remarks about her private life during an appearance on the Smartless podcast hosted by Jason Bateman, Sean Hayes and Will Arnett. Randall, a photographer, battled ALS before dying on Aug. 5, 2023 at [ ]
 
 ## The Hollywood Reporter
 
-### Michael Sheen, Wanda Sykes, Tramell Tillman Among Host of Murderbot Season 2 Guest Stars
-Wed, 19 Aug 2026 16:45:46 +0000 — https://www.hollywoodreporter.com/tv/tv-news/murderbot-season-2-guest-stars-1236677049/
+### Naomi Watts to Receive Zurich Fest Golden Eye Award
+Thu, 20 Aug 2026 04:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/naomi-watts-zurich-fest-golden-eye-award-the-housewife-1236676940/
 
-The Apple TV series will also feature Blair Underwood, Steve Buscemi, Martha Plimpton and several others.
+The two-time Oscar nominee will be honored for her performance in Ben Shirinian’s 'The Housewife,' where she plays the wife of a suspected Nazi.
 
-### Nielsen Rolls Out Suite of TV Ratings Updates for 2026-27 Season
-Wed, 19 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/nielsen-tv-ratings-changes-2026-27-season-1236676535/
+### Spider-Man: Brand New Day Aims to Swing Past Insidious Sequel for Fourth Box Office Win
+Thu, 20 Aug 2026 03:12:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-1236677495/
 
-The ratings provider says the changes in co-viewing measurement, TV universe estimates and other areas will bring more accurate data to clients.
+'Insidious: Out of the Further' and Jason Statham's 'Mutiny' are among the newcomers set to compete with Sony's Tom Holland-led blockbuster as the summer winds down.
 
-### Wild Horse Nine to Open Mill Valley Film Festival With Star Sam Rockwell Set for Tribute (Exclusive)
-Wed, 19 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/wild-horse-nine-sam-rockwell-mill-valley-film-festival-1236676808/
+### Did Alex Vindman Just Get Burned by the Larry David Curse?
+Thu, 20 Aug 2026 02:02:24 +0000 — https://www.hollywoodreporter.com/news/politics-news/alex-vindman-larry-david-curse-angie-nixon-florida-primary-1236677481/
 
-John Malkovich also stars in Martin McDonagh's movie that hits theaters later this year from Searchlight.
+There’s really no other explanation for why the whistleblowing military hero got pummeled in his Florida primary. (OK, there is, but this is more fun.)
 
-### A Con Artist With a Conscience: Apple TV’s Lucky‘ Preserves the Novel’s Central Identity Crisis
-Wed, 19 Aug 2026 15:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lucky-author-finale-book-season-two-1236647049/
+### Hayden Panettiere s Neighbor Says She Called 911 Multiple Times to Report Disturbances With Star s Boyfriend
+Thu, 20 Aug 2026 01:02:28 +0000 — https://www.hollywoodreporter.com/news/general-news/hayden-panettieres-neighbor-called-911-report-disturbances-1236677449/
 
-Author Marissa Stapley talks about creating the morally gray heroine and her fight for a free life: “We're all such a product of where we came from, and part of Lucky is me saying you can fight against that, and you should."
+Panettiere died on Sunday at age 36 in Greenville, South Carolina.
 
-### Lanterns Showrunner Chris Mundy Talks James Gunn’s Hands-Off Approach: We Weren t Shoehorned Into Anything
-Wed, 19 Aug 2026 15:36:37 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lanterns-season-2-james-gunn-1236676414/
+### DEA Joins Investigation Into Hayden Panettiere s Death, Sources Say
+Wed, 19 Aug 2026 23:43:50 +0000 — https://www.hollywoodreporter.com/news/general-news/dea-joins-investigation-hayden-panettiere-death-1236677456/
 
-Mundy, who's six weeks into outlining his potential season-two story, is about to go pitch it: "We'll talk to folks about it really soon."
+The 'Heroes' and 'Nashville' actress died at age 36 in Greenville, South Carolina.
 
-### Solange Knowles Pays Tribute to ‘Bring It On: All or Nothing‘ Co-Star Hayden Panettiere: The Light Surrounds You Now“
-Wed, 19 Aug 2026 15:14:09 +0000 — https://www.hollywoodreporter.com/news/general-news/solange-knowles-tribute-hayden-panettiere-bring-it-on-1236677008/
+### How to Watch 2026 Little League World Series Live Online
+Wed, 19 Aug 2026 23:19:45 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-little-league-world-series-2026-baseball-stream-free-1236677338/
 
-“I honor the work we created together that became something that really means something to people,“ Knowles said of the late actress.
+The top 20 teams — 10 from the U.S. and 10 international — take on Williamsport, Pennsylvania for the annual 12-day tournament.
 
-### California Schemin Trailer: Two Scottish Rappers Con Their Way to a Record Deal in James McAvoy s Directorial Debut (Exclusive)
-Wed, 19 Aug 2026 15:00:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/california-schemin-trailer-james-mcavoy-directorial-debut-1236676347/
+### Jack Coleman Remembers Heroes Co-Star Hayden Panettiere, Says He‘s Filled With Sorrow, Regret and Anger Over Death
+Wed, 19 Aug 2026 23:09:18 +0000 — https://www.hollywoodreporter.com/news/general-news/jack-coleman-heroes-hayden-panettiere-tribute-1236677430/
 
-The film, based on a true story, is set to hit theaters Oct. 9.
+“I love you, Hayden. I’ll miss you. I’m so sorry you suffered,“ the actor, who played the actress‘ TV dad on the NBC series.
 
-### Spider-Man: Brand New Day Becomes Fastest Movie to Hit $800M at Domestic Box Office
-Wed, 19 Aug 2026 14:59:16 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-800-million-1236676998/
+### Ariana Grande Granted Expedited Subpoena in Lawsuit Over Leaked Music
+Wed, 19 Aug 2026 23:05:07 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/ariana-grande-granted-expedited-subpoena-in-hacker-lawsuit-1236677401/
 
-Tom Holland stars in the superhero behemoth that recently reached $2 billion globally to surpass Sony's all-time mark.
+Grande first filed her suit in July, claiming hackers stole unreleased content of hers and sold it online on the dark web.
 
-### MS NOW Reveals New Member Tier Prices In Bet On Loyalty
-Wed, 19 Aug 2026 14:33:34 +0000 — https://www.hollywoodreporter.com/business/business-news/ms-now-member-tier-prices-1236676973/
+### ‘Earle Meets World’ Trailer Goes Inside Alix Earle’s Dramatic, Rumor-Filled Year: Nothing Is Off Limits
+Wed, 19 Aug 2026 22:46:24 +0000 — https://www.hollywoodreporter.com/tv/tv-news/earle-meets-world-trailer-alix-earle-tom-brady-1236677198/
 
-The channel's leadership takes "the first step" toward building meaningful direct-to-consumer revenue with an $80 annual offering.
+The Netflix reality series will release its eight episodes on the streamer on Sept. 4.
 
-### Abdul El-Sayed s Watch Collection Has Drawn Scrutiny — Is It Luxury or Simply Geek Chic?
-Wed, 19 Aug 2026 14:32:47 +0000 — https://www.hollywoodreporter.com/lifestyle/style/abdul-el-sayed-watch-collection-1236676544/
+### Prince Harry, Meghan Markle to Move Back to the U.K.
+Wed, 19 Aug 2026 21:52:29 +0000 — https://www.hollywoodreporter.com/news/general-news/prince-harry-meghan-markle-moving-back-uk-1236677373/
 
-While the progressive candidate campaigned to win this month’s Michigan Democratic Senate primary, conservatives bellowed that his wrist boasted pricey timepieces. But what's the real story? Watch experts weigh in.
+The Duke and Duchess of Sussex are set to leave California and take up a private residence outside London after leaving for the U.S. in 2020.
 
 ## Deadline
 
-### Vertical Video Economy Worth $150B, Even Without China – Owl Co Report
-Wed, 19 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/vertical-video-economy-value-owl-and-co-report-1237044181/
+### Hayden Panettiere s Heroes Dad Jack Coleman Pays Tribute To Extraordinary Young Woman
+Thu, 20 Aug 2026 03:12:01 +0000 — https://deadline.com/2026/08/hayden-panettieres-heroes-dad-jack-coleman-pays-tribute-1237046037/
 
-Vertical video will generate $150B this year – and that s excluding China, the country where it originated. Owl Co s inaugural Vertical Economy Report revealed the stat, which is up 42% on the figure the previous year and highlights how quickly microdrama has taken hold as a major content vertical. So much so, in fact, Hernan [ ]
+As Hollywood and fans mourn the death of Hayden Panettiere, her Heroes onscreen dad is recalling the late actress talent and heart. Jack Coleman, who starred as Claire s (Panettiere) father Noah Bennett on the NBC superhero drama, remembered Panettiere as a prodigious talent and extraordinary young woman in a heartfelt statement after her death at [ ]
 
-### Marissa Jo Cerar Developing Drowning In Paper Flowers Novel For TV With Jenna Bush Hager Universal
-Wed, 19 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/marissa-jo-cerar-drowning-in-paper-flowers-novel-universal-1237044907/
+### Saturday Night Live Wraps 2026 Showcases For New Cast: Who Were The Standouts? — The Dish
+Wed, 19 Aug 2026 23:55:00 +0000 — https://deadline.com/2026/08/snl-showcases-2026-new-talent-standout-auditions-1237045776/
 
-EXCLUSIVE: Marissa Jo Cerar (Black Cake) is developing the E.L. Westbury novel Drowning in Paper Flowers for TV, with Jenna Bush Hager and Ben Spector of Thousand Voices, as well as Universal Global Television. The recently re-released novel follows Ruby Powell, a middle-aged housewife living in Dallas, who outwardly appears perfect—wealthy, beautiful, and respected in her community. However, [ ]
+EXCLUSIVE: It s that time in the comedy calendar when Saturday Night Live begins taking major focus, with casting for the next season shaping up. Up to this point, all that s been announced for Season 52 is Chloe Fineman s exit after seven seasons as she shifts focus toward acting and other opportunities. But Tuesday, the SNL team wrapped their fifth and [ ]
 
-### Kevin Bacon Kyra Sedgwick s SXSW Horror Pic Family Movie Sets Spring 2027 Release With Variance
-Wed, 19 Aug 2026 16:48:18 +0000 — https://deadline.com/2026/08/kevin-bacon-kyra-sedgwick-family-movie-release-date-1237045344/
+### Tracy Tutor Joins The Real Housewives Of Beverly Hills Season 16 Cast
+Wed, 19 Aug 2026 23:24:34 +0000 — https://deadline.com/2026/08/tracy-tutor-real-housewives-of-beverly-hills-season-16-cast-1237045906/
 
-EXCLUSIVE: The Bacon family s slasher movie, Family Movie, will be hitting theaters in North America on April 23, 2027 via Variance. Directed, produced by and starring Kevin Bacon and Kyra Sedgwick, Family Movie also headlines the duo s children, Travis and Sosie Bacon, who also produced. The pic, which world premiered at SXSW to 93% fresh [ ]
+Million Dollar Listing Los Angeles star Tracy Tutor is joining the cast of The Real Housewives of Beverly Hills. Season 16 of the Bravo reality series is already in production, and a familiar Bravolebrity will be joining the cast. Well… the secret’s officially out, Tutor wrote on Instagram. I’m joining the cast of The Real [ ]
 
-### Scary Movie Sets Paramount+ Release Date
-Wed, 19 Aug 2026 16:46:26 +0000 — https://deadline.com/2026/08/scary-movie-streaming-release-date-paramount-plus-1237045298/
+### Jonathan Tropper On Lucky Finale Twist How Ryan Gosling s Voice Got In His Head For Star Wars: Starfighter Crew Call Podcast
+Wed, 19 Aug 2026 23:00:00 +0000 — https://deadline.com/2026/08/star-wars-starfighter-lucky-finale-jonathan-tropper-1237045610/
 
-Scary Movie (aka Scary Movie 6) will begin streaming September 3 on Paramount+. That marks a 91-day window between theatrical and streaming for the Paramount/Miramax pic. The latest reboot, which brought the Wayans Brothers back together, brought in over $230 million at the worldwide box office following its release. The pic before P A spend, cost [ ]
+Spoiler warning: This podcast and write-up contains details about the final episode of Apple TV s Lucky. Apple TV s limited series Lucky just dropped its final episode, and the series creator Jonathan Tropper is here with us today to explain just why the nefarious queen-pin Priscilla (Annette Bening) let Lucky (Anya Taylor-Joy) and her father (Timothy [ ]
 
-### Reagan Soul Surfer Filmmaker Sean McNamara To Direct Faith-Based Drama Blank Canvas
-Wed, 19 Aug 2026 16:41:52 +0000 — https://deadline.com/2026/08/sean-mcnamara-to-direct-faith-based-drama-blank-canvas-1237045193/
+### IATSE Local 479 Leadership Suspended Amid Corruption Concerns
+Wed, 19 Aug 2026 22:45:00 +0000 — https://deadline.com/2026/08/iatse-local-479-leadership-suspended-corruption-concerns-1237045565/
 
-EXCLUSIVE: Reagan and Soul Surfer filmmaker Sean McNamara is aboard to write and direct faith-based drama Blank Canvas. The film is based on the 2022 memoir of the same name by author, speaker, and artist Marcy Gregg. The project is currently in development under Brookwell McNamara Entertainment. The synopsis reads: At the age of 30, Marcy Gregg [ ]
+IATSE has suspended leadership at a prominent U.S. local amid allegations of corruption. Local 479, which represents more than 7,000 film and television technicians across Georgia and Alabama, has been temporarily placed under the stewardship of several special representatives after President Matthew Loeb declared an emergency at the division last month, according to a letter [ ]
 
-### Good American Family To Take On Lorena Bobbitt As Hulu Orders Second Installment Of Anthology Series From Katie Robbins Ellen Pompeo
-Wed, 19 Aug 2026 16:30:00 +0000 — https://deadline.com/2026/08/good-american-family-lorena-bobbitt-anthology-ellen-pompeo-1237044871/
+### Widow s Bay Ups Jeff Hiller To Series Regular For Season 2
+Wed, 19 Aug 2026 22:31:02 +0000 — https://deadline.com/2026/08/widows-bay-season-2-jeff-hiller-1237045620/
 
-EXCLUSIVE: Good American Family is becoming an anthology. Hulu has greenlighted a limited series about Lorena Bobbitt as its second installment. It comes from the same team, led by creator, writer and executive producer Katie Robbins and executive producer Ellen Pompeo. Shortly after the Good American Family finale aired on April 30, 2025, Pompeo and [ ]
+EXCLUSIVE: Widow s Bay fans can look forward to a lot more laughs (and possibly screams) with Jeff Hiller in future, Deadline has learned. Come Season 2, Hiller will make the jump from guest star to series regular on the mega-hit much Emmy-nominated show about a haunted Massachusetts island. Hiller, who is repped by Innovative Artists [ ]
 
-### Mark Webber Jennifer DeLia Launch Production Company Beyond Culture, Unveil Initial Slate
-Wed, 19 Aug 2026 16:28:51 +0000 — https://deadline.com/2026/08/jennifer-delia-mark-webber-launch-beyond-culture-banner-1237045325/
+### Prince Harry Meghan Markle Leaving L.A. Heading Back To The UK
+Wed, 19 Aug 2026 22:29:19 +0000 — https://deadline.com/2026/08/prince-harry-meghan-markle-moving-to-uk-1237045751/
 
-EXCLUSIVE: Mark Webber and Jennifer DeLia have partnered to launch Beyond Culture, an artist-led production banner, unveiling their initial slate. Beyond Culture is billed as a company integrating film, art, music, technology and experience, which will champion uncompromising voices and stories that expand consciousness, provoke convention and transcend mediums. Built around a model that prioritizes creative [ ]
+Prince Harry and Meghan Markle may still have a first look deal at Netflix, but the duo has decided to decamp from Hollywood. The Duke and Duchess of Sussex will be taking their children back to the UK for an extended period of time. The duo made headlines in 2020 when they stepped away from [ ]
 
-### Ms. Pat Show Director Mary Lou Belli Knows Comedy Is More Than Getting A Laugh
-Wed, 19 Aug 2026 16:15:00 +0000 — https://deadline.com/2026/08/ms-pat-show-interview-season-5-1237044854/
+### Furious Actor Steve Way Praises Creator Liz Meriwether For Depicting Disabled Romance In Beautiful, Healthy Way
+Wed, 19 Aug 2026 22:28:11 +0000 — https://deadline.com/2026/08/furious-steve-way-praises-liz-meriwether-disabled-romance-1237045759/
 
-Veteran director and EP Mary Lou Belli wasn’t looking to return to the world of multi-camera sitcoms when The Ms. Pat Show came along until she saw something diverse and unique enough to bring to life on TV. ​Based on the life experiences of comedian Patricia “Ms. Pat” Williams, the Paramount+ series follows a former [ ]
+As the mystery unfolds on Hulu s Furious, viewers have also been treated to an unexpected romance. Disabled actor Steve Way, who plays Alden on the Liz Meriwether thriller, praised the series creator for allowing him to play a different side of myself as the character sparks an unconventional romance with the mysterious femme fatale Catherine [ ]
 
-### Insidious: Out Of The Further Review: Horror Franchise Returns With A New Family PG-13 Zombie Twist That Feels A Bit Stale
-Wed, 19 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/insidious-out-of-the-further-review-hit-franchise-returns-1237045194/
+### Adèle Exarchopoulos Joins Zoë Kravitz In Apple Film From My Old Ass Director Megan Park
+Wed, 19 Aug 2026 22:15:00 +0000 — https://deadline.com/2026/08/adele-exarchopoulos-joins-megan-park-apple-movie-1237045734/
 
-The ads for the sixth installment of Sony s cash-cow horror franchise Insidious: Out of the Further try to compare it to the enormous success earlier this year of innovative genre entries Obsession and Backrooms by noting it comes from the same producers (these include Blumhouse, James Wanm etc.). So feel free to think this is [ ]
+EXCLUSIVE: Adèle Exarchopoulos (Blue Is the Warmest Color) has landed a lead role opposite Zoë Kravitz in Apple s mystery movie from My Old Ass helmer Megan Park, sources tell Deadline. No word yet on Exarchopoulos part. Reps for Apple declined to comment. This will mark the decorated French actress s first American studio lead role. Park s new film is [ ]
 
-### Nicolas Cage To Play Nuclear Apocalypse Survivor Battling Vicious Cannibals In Action-Thriller Parish TIFF Market
-Wed, 19 Aug 2026 15:46:29 +0000 — https://deadline.com/2026/08/nicolas-cage-to-battle-cannibals-in-action-movie-parish-1237045210/
+### ‘Degree of Certainty’ Filmmaker Simon Schneider Tackles The Ironic Origins Of Climate Change Data — HollyShorts Film Festival
+Wed, 19 Aug 2026 22:00:00 +0000 — https://deadline.com/2026/08/degree-of-uncertainty-interview-simon-schneider-1237044928/
 
-EXCLUSIVE: Here s a fun one. Nicolas Cage is set to play one of the last known survivors of a nuclear apocalypse who must do battle with a horde of vicious cannibals in new action-thriller Parish. Concourse Media is launching world pre-sales on the project ahead of the TIFF market. Set 30 years after a nuclear [ ]
+In Simon Schneider’s Degree of Certainty, knowing the truth and acting on it are two very different things. Set in 1982, the 16-minute short follows Jackson Miller (Trace Guzmán), a young risk analyst at a major U.S. oil company facing mounting pressure as plunging oil prices cost the corporation millions. Looking for a way to [ ]
 
-### Dutch Kids TV Classic De Fabeltjeskrant Getting International Revival
-Wed, 19 Aug 2026 15:40:30 +0000 — https://deadline.com/2026/08/de-fabeltjeskrant-international-revival-cgi-series-1237045198/
+### Josh Radnor Says He s Not Close To His How I Met Your Mother Co-Stars Not Even A Little Bit : I Have Love For All These People
+Wed, 19 Aug 2026 21:52:08 +0000 — https://deadline.com/2026/08/josh-radnor-not-close-how-i-met-your-mother-co-stars-1237045701/
 
-EXCLUSIVE: De Fabeltjeskrant, the classic Dutch kids TV program set in the Great Animal Forest, is being given a new lease of life and a fresh international rollout. Some 1,600 episodes of the puppet show will be restored, as a CGI incarnation of the property enters development and will be shopped to buyers at MIPCOM [ ]
+Josh Radnor is opening up about where he stands with the rest of the cast of How I Met Your Mother, 12 years after the series completed a nine-season run. The CBS sitcom followed Radnor s Ted Mosby and his group of friends in New York City as he recounts to his children the events that [ ]
 
-### Alex Ullom Unveils Cast For Neon Horror Film 4 X 4: The Event
-Wed, 19 Aug 2026 15:30:00 +0000 — https://deadline.com/2026/08/4x4-the-event-alex-ullom-neon-horror-film-sets-cast-1237044935/
+### Everything We Know About ‘Outer Banks’ Season 5 So Far
+Wed, 19 Aug 2026 21:23:52 +0000 — https://deadline.com/feature/outer-banks-season-5-news-updates-everything-we-know-1237012550/
 
-EXCLUSIVE: Ahead of this weekend s release of his debut feature, the Neon horror thriller It Ends, Alex Ullom has set the lead cast for 4 X 4: The Event, his second feature for the studio. The group of eight includes Sophia Lillis (It), Dylan Minnette (13 Reasons Why), Marcel Ruiz (One Day at a Time), Quintessa Swindell (Teenage [ ]
+Outer Banks will soon come to a close. The Netflix action adventure series, which debuted with its first season during peak COVID pandemic in 2020, has its fifth and final season on the way. For everything we know about Outer Banks Season 5, read below: When does Outer Banks Season 5 come out? The fifth [ ]
 

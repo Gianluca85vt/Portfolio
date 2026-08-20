@@ -1,6 +1,11 @@
-# AI — harvested 2026-08-19T17:01:23.832Z
+# AI — harvested 2026-08-20T05:14:25.158Z
 
 ## OpenAI
+
+### Offering Zero Data Retention for frontier models
+Wed, 19 Aug 2026 19:00:00 GMT — https://openai.com/index/offering-zero-data-retention-for-frontier-models
+
+OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.
 
 ### Replit expands access to software creation with GPT-5.6 Luna
 Wed, 19 Aug 2026 07:00:00 GMT — https://openai.com/index/replit
@@ -32,11 +37,6 @@ Tue, 18 Aug 2026 11:00:00 GMT — https://openai.com/index/chatgpt-for-teens
 
 ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
 
-### How NVIDIA scales expertise with ChatGPT Work
-Tue, 18 Aug 2026 00:00:00 GMT — https://openai.com/index/nvidia/chatgpt-work
-
-NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.
-
 ### Asana cleared 5 years of engineering work in 2 weeks with Codex
 Tue, 18 Aug 2026 07:00:00 GMT — https://openai.com/index/asana
 
@@ -49,12 +49,6 @@ Wed, 19 Aug 2026 13:48:49 GMT — https://huggingface.co/blog/LiquidAI/qad
 
 ### How Much Memory Does Your Agent Actually Need?
 Tue, 18 Aug 2026 18:09:38 GMT — https://huggingface.co/blog/ibm-research/altk-evolve-hmm
-
-### Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers
-Tue, 18 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/multi-vector-encoder
-
-### Same Cluster, 33 Points More Utilization: What Changed Was the Order
-Mon, 17 Aug 2026 19:46:21 GMT — https://huggingface.co/blog/Dharma-AI/gpu-management-pt2
 
 ## Google DeepMind
 

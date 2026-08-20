@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-19T17:01:23.832Z
+# Games — harvested 2026-08-20T05:14:25.158Z
 
 ## Eurogamer
 
@@ -130,6 +130,41 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Start Your Trails in the Sky 2nd Chapter Adventure Early with PS5 Demo, Out Now
+Thu, 20 Aug 2026 02:00:00 GMT — https://www.pushsquare.com/news/2026/08/start-your-trails-in-the-sky-2nd-chapter-adventure-early-with-ps5-demo-out-now
+
+The search begins. As has become tradition for Falcom games, a lengthy playable demo for Trails in the Sky 2nd Chapter is available to download right now on PS5. Naturally, if you're yet to play Trails in the Sky 1st Chapter , you should probably avoid jumping straight into this direct sequel. But for those who have been eagerly awaiting the story's continuation, you can kick things off early. Read the full article on pushsquare.com
+
+### Embrace Your Inner Akira with Namco s 1995 Cyber Cycles, Coming to PS5
+Thu, 20 Aug 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/08/embrace-your-inner-akira-with-namcos-1995-cyber-cycles-coming-to-ps5
+
+I wheelie like it. Ready to do the Akira slide in Neo Yokohama like it’s 1995? Namco’s early arcade racer Cyber Cycles is launching on the PS5 on 20th August, courtesy of Hamster’s Arcade Archives line. Read the full article on pushsquare.com
+
+### Don t Sleep on This Striking Korean Murder Mystery, Out on PS5 Now and Discounted with PS Plus
+Wed, 19 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/dont-sleep-on-this-striking-korean-murder-mystery-out-on-ps5-now-and-discounted-with-ps-plus
+
+This case shall be solved. Acclaimed text-based Korean indie game No Case Should Remain Unsolved is out now on PS5, with a temporary 20% discount for all PS Plus members until 1st September. The game – which has an ‘Overwhelmingly Positive’ rating on Steam – deals with the disappearance of a little girl that’s never been resolved. Read the full article on pushsquare.com
+
+### I Think We ll See That in the Next Year or Two : Days Gone Dev Could Reveal New Project Soon
+Wed, 19 Aug 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/08/i-think-well-see-that-in-the-next-year-or-two-days-gone-dev-could-reveal-new-project-soon
+
+"They're surviving". Like so many other Sony first-party studios, it’s been a bad few years for Days Gone dev Bend. While the Oregon-based outfit keeps on trucking, its live service project was cancelled in 2025 , alongside Bluepoint’s God of War game. Read the full article on pushsquare.com
+
+### Majority of Naughty Dog Was Working on The Last of Us Online Before It Was Cancelled
+Wed, 19 Aug 2026 19:15:00 GMT — https://www.pushsquare.com/news/2026/08/majority-of-naughty-dog-was-working-on-the-last-of-us-online-before-it-was-cancelled
+
+This wasn't a side project. Naughty Dog’s standalone online multiplayer game, which was cancelled in late 2023 , was the focus of the “majority of the studio” before it was axed. In a new video, Bloomberg journalist Jason Schreier reveals the anticipated Factions sequel was not a side hustle, and had the attention of the vast majority of the California team. Read the full article on pushsquare.com
+
+### Tiny Team Working on Next Horizon Single Player Game, Years Away from Release
+Wed, 19 Aug 2026 17:45:00 GMT — https://www.pushsquare.com/news/2026/08/tiny-team-working-on-next-horizon-single-player-game-years-away-from-release
+
+See you in the 2030s. If you were looking forward to the next full-length single player Horizon game from Dutch developer Guerrilla, sit tight. As previously reported and reiterated in a Bloomberg article today, a “tiny team” within the Amsterdam studio is working on Aloy’s next adventure. Read the full article on pushsquare.com
+
+### Opinion: Hermen Hulst Has Failed and PS Studios Needs a Change
+Wed, 19 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/features/opinion-hermen-hulst-has-failed-and-ps-studios-needs-a-change
+
+Dutch courage. Trust me, I don’t take any pleasure writing an article like this, but I think Hermen Hulst may need to be ejected from the top job at PS Studios pronto. I’ve been circling this opinion for quite some time, but today’s bad news about Horizon Hunters Gathering is the final nail in the coffin for me. Read the full article on pushsquare.com
+
 ### Gran Turismo 7 Bolstered by Another 4 Cars in PS5 Update 1.71
 Wed, 19 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/gran-turismo-7-bolstered-by-another-4-cars-in-ps5-update-1-71
 
@@ -154,41 +189,6 @@ Online co-op making its debut on consoles. There has been a lot of noise made ab
 Wed, 19 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/previews/6-ways-ps5s-tides-of-annihilation-blew-me-away-after-2-hours-of-play
 
 The tide is high-ly impressive. Eclipse Glow Games didn’t need to build a giant cathedral in the centre of Chengdu, China to convince of me of Tides of Annihilation’s ambition – but it certainly didn’t hurt. Ever since I got word of the dev’s decision to show off its hotly anticipated action game, the irony of travelling approximately 5,160 miles to play a game inspired by my home country has been on my mind. Read the full article on pushsquare.com
-
-### PlayStation Scaling Back Horizon Live Service PS5 Game as Sony Failures Continue
-Wed, 19 Aug 2026 12:55:00 GMT — https://www.pushsquare.com/news/2026/08/playstation-scaling-back-horizon-live-service-ps5-game-as-sony-failures-continue
-
-Guerrilla has until December to impress Sony execs. A new Bloomberg report claims that Sony has decided to scale back the new Horizon live service title, Horizon Hunters Gathering , by removing the live service elements. Following poor feedback from players during private tests, it's reported developer Guerrilla Games has been rebooting the project since June. It plans to take out the live service features and turn the game into a far more traditional co-op multiplayer experience with a story mode. The scope of the game has shrunk considerably as a result, it's claimed. Read the full article on pushsquare.com
-
-### A Cult 16-Bit RPG May Finally Get an Official US Release on PS5
-Wed, 19 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/a-cult-16-bit-rpg-may-finally-get-an-official-us-release-on-ps5
-
-It's been 30 years. Super Nintendo’s Terranigma has never officially released in the United States, due to various issues involving its licensing rights. The 16-bit real-time RPG first released in Japan back in 1995, and was published by Nintendo in Europe a year later. Read the full article on pushsquare.com
-
-### I Don t Understand If It s Such a Big Issue : Shuhei Yoshida Isn t Too Bothered About No More Discs
-Wed, 19 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/i-dont-understand-if-its-such-a-big-issue-shuhei-yoshida-isnt-too-bothered-about-no-more-discs
-
-Ex-PlayStation boss is all-digital these days. In case you've somehow missed the news, Sony announced its intention to cease producing game discs for PlayStation consoles starting in 2028, meaning the platform will be digital-only going forward. It's a decision that has caused a lot of upset and raised many questions among consumers, and of course, everyone has their own view on whether it's ultimately a good or bad move for PlayStation and the industry as a whole. Read the full article on pushsquare.com
-
-### Wolverine PS5 Consoles, Accessories Available to Pre-Order Now
-Wed, 19 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/wolverine-ps5-consoles-accessories-available-to-pre-order-now
-
-Console Covers for PS5 Pro already sold out. The range of limited edition PS5 consoles and accessories you can customise your gaming setup with, to suit Marvel's Wolverine , is available to pre-order now. They all come out on the same day as the game, 15th September 2026, but if you're interested in a particular item, you might want to get your pre-order in sooner rather than later — some things are already listed as unavailable. The yellow and silver Console Covers for PS5 Pro already look to have sold out. Read the full article on pushsquare.com
-
-### These 2 PS5 Classics Look Like They Could Be Delisted Soon
-Wed, 19 Aug 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/08/these-2-ps5-classics-look-like-they-could-be-delisted-soon
-
-A familiar story. Earlier today, Sony confirmed the seven games that’ll be leaving the PS Plus Extra catalogue in September. However, I was surprised to see this selection expand to two PS Plus Premium games as well: the PS1’s Toy Story 2: Buzz Lightyear to the Rescue and the PSP’s Toy Story 3 . Read the full article on pushsquare.com
-
-### Physical Disc Fans Must Wait to Play Control Resonant on PS5
-Tue, 18 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/physical-disc-fans-must-wait-to-play-control-resonant-on-ps5
-
-Boxed release delayed to 15th October. Anyone who wants to own Control Resonant on a physical PS5 disc will have to wait a couple of weeks after the game's main launch, as boxed copies have been delayed into mid-October 2026. The digital version on PS Store remains locked in for a 24th September release, and Remedy today revealed the follow-up has gone gold, meaning work on the 1.0 version of the game is complete. However, physical copies have now been pushed back to 15th October. Read the full article on pushsquare.com
-
-### Review: Starsand Island (PS5) - This Anime Life Sim Should Be Your Next Cosy Game
-Tue, 18 Aug 2026 19:00:00 GMT — https://www.pushsquare.com/reviews/ps5/starsand-island
-
-My neighbour Totoro. After a long wait since our preview last year, Starsand Island is finally here. This cosy life simulator with its gorgeous anime-style art direction sends you to a magical island where you are free to explore, build, craft and farm to your heart's content. Read the full article on pushsquare.com
 
 ## Game Developer
 
