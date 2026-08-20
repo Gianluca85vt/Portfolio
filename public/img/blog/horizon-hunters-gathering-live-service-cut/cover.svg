@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Horizon Hunters Gathering loses its live-service layer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#5A0F22"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D6294E"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="3" fill="none">
+    <rect x="80" y="540" width="140" height="140"/>
+    <rect x="150" y="600" width="140" height="140"/>
+    <rect x="900" y="540" width="140" height="140"/>
+    <rect x="970" y="600" width="140" height="140"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="150" font-size="30" letter-spacing="8" fill="#FFFFFF" fill-opacity="0.5">GUERRILLA GAMES</text>
+
+    <text x="600" y="280" font-size="70" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">HORIZON HUNTERS</text>
+    <text x="600" y="360" font-size="70" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">GATHERING</text>
+
+    <text x="600" y="450" font-size="42" fill="#FFFFFF" fill-opacity="0.6">LIVE-SERVICE, CUT</text>
+  </g>
+
+  <rect x="500" y="490" width="200" height="8" rx="4" fill="url(#accent)"/>
+
+  <text x="600" y="620" text-anchor="middle" font-size="26" fill="#FFFFFF" fill-opacity="0.4"
+        font-family="Arial, Helvetica, sans-serif">561 peak playtest players &#8594; full reboot</text>
+</svg>
