@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-20T14:19:23.385Z
+# Film & TV — harvested 2026-08-20T17:05:21.870Z
 
 ## Variety
 
-### Ava DuVernay s 14th Documentary Sets Netflix Release Date (EXCLUSIVE)
-Thu, 20 Aug 2026 14:00:00 +0000 — https://variety.com/2026/film/news/ava-duvernay-14th-documentary-netflix-release-date-1236838623/
+### Christian Metal Band Demon Hunter Sues Netflix Over KPop Demon Hunters, Citing Trademark Infringement
+Thu, 20 Aug 2026 17:01:30 +0000 — https://variety.com/2026/music/global/christian-metal-band-netflix-kpop-demon-hunters-1236839131/
 
-Ava DuVernay s new documentary “14th” is set to premiere globally on Netflix on Dec. 4, following a theatrical release in select U.S. and U.K. theaters beginning Nov. 27. As previously announced, “14th” will host its world premiere at the New York Film Festival. It will be the festival’s closing night film on Oct. 9 at [ ]
+Christian metal band Demon Hunters have filed a lawsuit against Netflix and AEG Presents over the streamer’s mega-hit animated film “KPop Demon Hunters.” The band, which filed the lawsuit under its corporate entity Hyde Lane, has registered the “Demon Hunter” trademark in a number of categories and is suing for trademark infringement and unfair competition, [ ]
 
-### Never After Dark Trailer: Stephen King Raves This Psychic Medium Thriller Is Amazing and Haunting (EXCLUSIVE)
-Thu, 20 Aug 2026 14:00:00 +0000 — https://variety.com/2026/film/news/never-after-dark-trailer-stephen-king-psychic-thriller-1236838731/
+### CNN to Air Farm Aid 2026 Live Featuring Performances by Willie Nelson, John Mellencamp, Dave Matthews, Neil Young and More
+Thu, 20 Aug 2026 17:00:29 +0000 — https://variety.com/2026/music/news/cnn-farm-aid-2026-live-willie-nelson-neil-young-dave-matthews-1236839175/
 
-The first trailer for dark festival hit “Never After Dark” has been released, and it has some big-time fans. Horror icon Stephen King has called the film, about a psychic trying to unravel the mystery behind an evil house, “amazing and haunting.” Director Scott Derrickson, whose films include “The Black Phone” and “Sinister,” called it [ ]
+CNN is returning for a second year in its partnership with Farm Aid, bringing the music festival to audiences nationwide. Farm Aid 2026: Music Festival Live will air live on Saturday, Sept. 26 from 7 p.m. to 11 p.m. ET on CNN and also will stream live on cnn.com/watch and the CNN app. CNN’s airing [ ]
 
-### AI Music Companies Udio and GRAI License Swath of Patents From UMG-Backed Music IP Holdings (EXCLUSIVE)
-Thu, 20 Aug 2026 14:00:00 +0000 — https://variety.com/2026/biz/news/ai-music-udio-grai-patents-umg-backed-music-ip-holdings-1236838763/
+### Sterling Point Renewed for Season 2 at Amazon
+Thu, 20 Aug 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/sterling-point-renewed-season-2-amazon-1236839112/
 
-Patents are often the bedrock of new innovation, and a suite of patents defining how AI-generated music can be created, licensed and monetized has hit the market — with multiple AI companies lined up to license them. Music IP Holdings, a company formed last year out of a strategic partnership with Universal Music Group and the [ ]
+Sterling Point has been renewed for Season 2 at Amazon Prime Video, Variety has learned. The news comes just over two weeks after the YA series premiered on Aug. 5. It has been well received by critics, with the first season holding a 90% critical approval rating on Rotten Tomatoes. “It’s been an absolute joy [ ]
 
-### Hayden Panettiere’s Team Discussed an Intervention Before Her Death, Says Director of One of Her Final Movies: I Got Asked to Participate
-Thu, 20 Aug 2026 13:58:24 +0000 — https://variety.com/2026/film/news/hayden-panettiere-intervention-death-director-1236838972/
+### The Odyssey Beats Deadpool Wolverine as Biggest R-Rated Movie of All Time With $1.35 Billion
+Thu, 20 Aug 2026 16:51:48 +0000 — https://variety.com/2026/film/box-office/the-odyssey-biggest-r-rated-movie-all-time-deadpool-wolverine-1236838976/
 
-Griff Furst, who directed one of Hayden Panettiere’s final films before her shocking death Sunday at 36, said that her team had asked him to participate in an intervention after they filmed his 2025 movie, A Breed Apart. When I think about this, it s not just a Hayden story. I grew up on movie sets [ ]
+The Odyssey has notched another record on its epic box office voyage. Christopher Nolan s blockbuster The Odyssey is officially the highest-grossing R-rated movie of all time with $1.352 billion worldwide, overtaking the benchmark set by 2024 s Deadpool Wolverine with $1.338 billion. The Odyssey landed in theaters on July 17, collecting a mighty $123 million [ ]
 
-### Netflix’s Engaging Crime Drama ‘Blood Sacrifice Spotlights Inept Policing: TV Review
-Thu, 20 Aug 2026 13:15:00 +0000 — https://variety.com/2026/tv/reviews/blood-sacrifice-review-netflix-1236838260/
+### Steven Yeun to Lead Netflix Series Pagans From Say Nothing Creator Joshua Zetumer
+Thu, 20 Aug 2026 16:37:31 +0000 — https://variety.com/2026/tv/news/steven-yeun-netflix-series-pagans-1236839158/
 
-“Hijack” and “Lupin” creator George Kay is no stranger to engrossing dramas, and in his newest Netflix series, “Blood Sacrifice,” a grisly Swedish crime thriller, Kay unpacks the unending mental toll of police work. It’s a psychological load that extends beyond law enforcers and spills onto their closest friends and family members. Intense, bloody and [ ]
+Steven Yeun is set for the lead role in the upcoming Netflix supernatural drama Pagans, Variety has confirmed. The show was originally announced with a straight-to-series order last year in a competitive situation. The logline states that it follows a man (Yeun) who becomes the sole caretaker of his two children after the tragic loss [ ]
 
-### Brand Marketing Veteran Justin Breton Joins Gap Inc. to Drive Original Content
-Thu, 20 Aug 2026 13:15:00 +0000 — https://variety.com/2026/biz/news/justin-breton-gap-brand-marketing-walmart-fashiontainment-1236838762/
+### Golden Axe Trailer: Matthew Rhys and Lisa Gilroy Star in Animated Series Based on Sega s Classic Video Game
+Thu, 20 Aug 2026 16:30:00 +0000 — https://variety.com/2026/tv/news/golden-axe-trailer-matthew-rhys-sega-paramount-1236838764/
 
-Walmart marketing alum Justin Breton has joined Gap Inc. to drive original content across a range of genres and platforms to support the apparel giant s Fashiontainment business initiative. Starting Aug. 31, Breton will serve as Gap s VP of development, reporting to Pam Kaufman, the Nickelodeon and Viacom alum who joined the company in February as [ ]
+Paramount+ has unveiled the trailer for “Golden Axe,” a new adult animated comedy series based on Sega’s classic 1989 beat-em-up video game. According to the official logline, “Golden Axe” follows “warriors Ax Battler, Tyris Flare and Gilius Thunderhead as they reunite to save Yuria from the evil giant Death Adder, who just won’t seem to [ ]
 
-### Most Americans Have Not Seen Stories of People Living With HIV in Media in the Last Year: GLAAD Report
-Thu, 20 Aug 2026 13:00:00 +0000 — https://variety.com/2026/film/columns/stories-of-people-living-with-hiv-in-media-glaad-report-1236838733/
+### Practical Magic Gets Witchy Jewelry Collection Ahead of Sequel
+Thu, 20 Aug 2026 16:15:39 +0000 — https://variety.com/2026/shopping/news/practical-magic-jewelry-collection-awe-inspired-shop-online-1236831506/
 
-GLAAD reported on Thursday that most Americans say they have not seen stories about people living with HIV in the media. In its sixth annual State of HIV Stigma report, GLAAD says, “72% of Americans report they have not seen stories featuring real people living with HIV in the media over the past 12 months, [ ]
+Nearly three decades after Sandra Bullock and Nicole Kidman first cast their spell as the Owens sisters, Practical Magic is getting a little extra sparkle. The Los Angeles-based jewelry brand Awe Inspired has teamed with Warner Bros. Pictures on a new fine jewelry collection inspired by Practical Magic 2, the upcoming sequel to the 1998 [ ]
 
-### ESPN Will Test Alumni Cast for MLB Little League Classic
-Thu, 20 Aug 2026 13:00:00 +0000 — https://variety.com/2026/tv/news/espn-mlb-little-league-classic-alumni-alt-cast-1236838737/
+### BlizzCon 2026 Sets T-Pain, Simu Liu, deadmau5, YOASOBI and More Celeb Guests
+Thu, 20 Aug 2026 16:00:00 +0000 — https://variety.com/2026/gaming/news/blizzcon-celeb-guests-tpain-simu-liu-deadmau5-1236838550/
 
-ESPN has tapped Pixar and Marvel characters in sundry bids to create new ways for viewers to watch their favorite games. Now the sports-media giant will investigate the use of a different kind of character. While the ninth annual MLB Little League Classic airs August 23 on ESPN, ESPN2 will feature an alumni alt-cast of [ ]
+T-Pain, Simu Liu, deadmau5, YOASOBI and more celebrities will be making special appearances for the return of Blizzard s BlizzCon fan event this September in Anaheim, California. Presented by Blizzard Entertainment, the video game studio behind franchises including “World of Warcraft,” “Diablo IV,” “Overwatch 2,” “StarCraft” and “Hearthstone,” BlizzCon brings players together from around the world [ ]
 
-### Widow s Bay, Heated Rivalry and The Pitt Among Winners at 42nd Annual Television Critics Association Awards
-Thu, 20 Aug 2026 13:00:00 +0000 — https://variety.com/2026/tv/news/widows-bay-heated-rivalry-television-critics-awards-1236838797/
+### Hunting Wives Sets Season 2 Release Date, Drops First-Look Photos
+Thu, 20 Aug 2026 15:07:32 +0000 — https://variety.com/2026/tv/news/hunting-wives-season-2-release-date-first-look-1236839062/
 
-The Television Critics Association has unveiled the winners for the 42nd Annual TCA Awards, which honor exemplary series and stars from the 2025-2026 TV season. HBO’s “Heated Rivalry” took home the top prize, Program of the Year, while “Widow’s Bay” had the most wins of the night with three. The Apple TV horror-comedy won for [ ]
+Netflix has set the premiere date for The Hunting Wives Season 2. The second season of the soapy drama will debut on Thanksgiving Day, Nov. 26. It will consist of eight episodes. Netflix has also released first-look photos from Season 2, which can be seen below. The series stars Brittany Snow, Malin Åkerman, Dermot Mulroney, [ ]
 
-### Soccer Drama Forza Sets Indonesia Release, Global Rollout (EXCLUSIVE)
-Thu, 20 Aug 2026 12:59:54 +0000 — https://variety.com/2026/film/news/soccer-drama-forza-indonesia-release-global-rollout-1236838816/
+### Yellowjackets Sets Fourth and Final Season Release Date
+Thu, 20 Aug 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/yellowjackets-final-season-4-release-date-1236839026/
 
-Forza, a family sports drama from Riva Studios, will open theatrically in Indonesia in late 2026, with an international rollout to follow in early 2027. The studio also released the film s teaser. Forza marks Riva Studios first live-action feature. The independent production company was co-founded by Balsamo and Tara Sibel Demren and has bases in [ ]
+Yellowjackets Season 4 has set its premiere date at Paramount+. The fourth and final season of the critically-acclaimed series will debut on Nov. 20 on Paramount+ with the premium plan. The official description for the fourth season states, As the survivors race to bury their sins before rescue arrives and an old flame roars back [ ]
 
 ## The Hollywood Reporter
 
-### Chris Pratt Returns to Battle for Redemption in ‘Terminal List’ Season 2 Trailer
-Thu, 20 Aug 2026 14:08:31 +0000 — https://www.hollywoodreporter.com/tv/tv-news/chris-pratt-terminal-list-season-2-trailer-1236677647/
+### Sterling Point Renewed for Season 2 at Prime Video
+Thu, 20 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/sterling-point-renewed-season-2-prime-video-1236677755/
 
-His now-fugitive character James Reece is offered newfound purpose helping the U.S. government pursue a shadowy former Iraqi commando to unravel a geopolitical conspiracy.
+The Megan Park-created coming-of-age series stars Ella Rubin,Amélie Hoeferle, Jacob Whiteduck-Lavoie, Daniel Quinn-Toye, Bo Bragason and Keen Ruffalo.
 
-### Anya Taylor-Joy on the Bittersweet Lucky Finale and Why Dune 3 Exceeded Expectations
-Thu, 20 Aug 2026 13:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/anya-taylor-joy-lucky-finale-dune-3-interview-1236674433/
+### Melissa McCarthy s Animated Margie Claus Sets 2027 Release as Jim Gaffigan, Andrew Scott Join Cast
+Thu, 20 Aug 2026 16:54:05 +0000 — https://www.hollywoodreporter.com/movies/movie-news/margie-claus-melissa-mccarthy-animated-release-cast-1236677747/
 
-Taylor-Joy also discusses key changes made to Jonathan Tropper's adaptation of Marissa Stapley’s novel, before revealing what made her first day on set acutely emotional.
+Meghan Trainor will write and produce original songs for the film that sees Santa's wife set out to rescue him.
 
-### Chelsea Freeman Signs With The Team (Exclusive)
-Thu, 20 Aug 2026 13:05:00 +0000 — https://www.hollywoodreporter.com/business/business-news/chelsea-freeman-the-team-1236677166/
+### DAU Director Defends Film After Ukraine Backlash
+Thu, 20 Aug 2026 15:49:30 +0000 — https://www.hollywoodreporter.com/movies/movie-news/dau-director-defends-film-ukraine-backlash-1236677667/
 
-The influencer and wife of Dodgers star Freddie Freeman is looking beyond the ballpark to expand her presence in the sports, fashion, lifestyle and family content spaces.
+Ilya Khrzhanovsky says attacks on his film, including from the Ukraine Ministry of Culture, are factually wrong and misrepresent the movie. “DAU is not an instrument of Russian state cultural policy. It is an artistic statement about the nature of totalitarian evil.”
 
-### Netflix s Monster: The Lizzie Borden Story Trailer Teases Ella Beatty, Charlie Hunnam, Rebecca Hall in Bloody Tale of Infamous Axe Murders
-Thu, 20 Aug 2026 13:00:57 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-monster-lizzie-borden-story-trailer-charlie-hunnam-1236677512/
+### The Cloning Company Trying to Bring Back the Woolly Mammoth Enlists Paw Patrol in Its Efforts (Exclusive)
+Thu, 20 Aug 2026 15:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/paw-patrol-genetic-engineering-bioscience-film-1236677672/
 
-The fourth installment of the anthology series stars Beatty as the first female "Monster," while Hunnam and Hall play her father and stepmother, respectively. The Ryan Murphy and Ian Brennan series will launch on the streamer Sept. 17.
+Some real 'Jurassic Park' stuff from the 'Dino Movie' gang.
 
-### Widow s Bay, Heated Rivalry Take Top Honors at 2026 TCA Awards
-Thu, 20 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-widows-bay-2026-tca-awards-winners-1236677344/
+### Outer Banks Star Madelyn Cline Is Entering Uncharted Waters
+Thu, 20 Aug 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/madelyn-cline-outer-banks-end-day-drinker-film-1236676362/
 
-The Apple TV horror comedy earns three awards, and 'Heated Rivalry' takes home program of the year.
+Netflix has turned plenty of young actors into overnight sensations. Turning them into movie stars has proved trickier. But with a Johnny Depp thriller and a Judd Apatow comedy on deck, this one is heading straight for that perilous crossing.
 
-### Jonah Hauer-King Joins Season 2 of Rose Ayling-Ellis Drama Code of Silence for ITV, BritBox
-Thu, 20 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jonah-hauer-king-joins-rose-ayling-ellis-code-of-silence-1236677602/
+### Rosie O Donnell Joke About Trump and Natalie Harp Draws Gasps From Kimmel Crowd
+Thu, 20 Aug 2026 15:23:32 +0000 — https://www.hollywoodreporter.com/tv/tv-news/rosie-odonnell-trump-natalie-harp-1236677673/
 
-New cast members of the Mammoth Screen series, created by Catherine Moulton, also include Jo Joyner ('Little Disasters'), Sophie McShera ('Downton Abbey') and John Hollingworth ('The Crown').
+The guest host mocked the president's close relationship with the White House staffer.
 
-### New Cable Giant Emerges: Charter Closes $34.5 Billion Deal For Cox and Liberty
-Thu, 20 Aug 2026 11:18:31 +0000 — https://www.hollywoodreporter.com/business/business-news/charter-communications-completes-cox-liberty-broadband-deal-1236677613/
+### Director on One of Hayden Panettiere’s Last Films Says Her Team Wanted Him to Participate in an “Intervention”
+Thu, 20 Aug 2026 15:12:03 +0000 — https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-team-intervention-before-death-1236677658/
 
-"When Liberty first invested in Charter more than a decade ago, we saw an opportunity to build scale behind a great management team and operating model," said John Malone.
+Griff Furst directed the actress in 'A Breed Apart,' which released in May 2025.
 
-### HBO Max Picks 12 European Writers for Script Engine Program
-Thu, 20 Aug 2026 09:50:53 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hbo-max-names-european-writers-for-script-engine-program-1236677587/
+### Yellowjackets Announces Final Season Premiere Date With Help From Kurt Loder
+Thu, 20 Aug 2026 15:00:03 +0000 — https://www.hollywoodreporter.com/tv/tv-news/yellowjackets-final-season-premiere-date-1236677674/
 
-Veteran showrunner Frank Spotnitz ('The X-Files,''The Man in the High Castle') will mentor the program, aimed at helping European writers develop locally-rooted original series to pitch to HBO Max in November.
+The former MTV News anchor is featured in a teaser video for the coming season.
 
-### San Sebastian to Close With ‘Le Faux Soir,’ About Media Hack in Nazi-Occupied Belgium
-Thu, 20 Aug 2026 09:41:32 +0000 — https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-closing-film-le-faux-soir-media-nazi-belgium-1236677581/
+### Tribeca 25 Doc Trailer Highlights Post-9/11 Origins of Festival: Devastation Downtown (Exclusive)
+Thu, 20 Aug 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tribeca-25-doc-trailer-post-911-festival-origins-1236677676/
 
-Michaël R. Roskam returns to the Spanish festival in an out-of-competition slot.
+The Matt Tyrnauer film will debut on Netflix on the 25th anniversary of the terrorist attacks.
 
-### Jonathan Jackson Shares Touching Tribute to Hayden Panettiere: She Had Such a Bright Light Within Her
-Thu, 20 Aug 2026 06:35:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jonathan-jackson-hayden-panettiere-nashville-1236677557/
+### Sons of Anarchy Creator Kurt Sutter Reacts to Spinoff: I m Not Involved, Nor Should I Be
+Thu, 20 Aug 2026 14:24:59 +0000 — https://www.hollywoodreporter.com/tv/tv-news/sons-of-anarchy-kurt-sutter-legends-spinoff-1236677650/
 
-Jackson co-starred with the late actress on ABC's 'Nashville' for six seasons.
+Sutter gives FX's 'Legends' his full endorsement: "Watch this motherf***er, it's so well done."
 
 ## Deadline
 
-### Martin Scorsese Joins Paul Schrader s Venice Drama The Basics Of Philosophy ; Noora Films Boards Sales
-Thu, 20 Aug 2026 14:15:00 +0000 — https://deadline.com/2026/08/martin-scorsese-joins-paul-schrader-film-basics-philosophy-1237046163/
+### Power Star Marcus Callender Sets Spades: The Play National Tour Dates
+Thu, 20 Aug 2026 17:00:03 +0000 — https://deadline.com/2026/08/power-star-marcus-callender-spades-the-play-national-tour-1237046474/
 
-EXCLUSIVE: Ahead of its launch at the Venice Film Festival, Paul Schrader s drama The Basics Of Philosophy has got some key support. Noora Films has joined the film to represent international sales and Schrader s old collaborator Martin Scorsese is aboard as an executive producer. Scorsese and Schrader formed one of the most potent writing-directing partnerships [ ]
+EXCLUSIVE: Marcus Callender, best known for starring in Power and Wu-Tang: An American Saga, is taking his Spades: The Play on a national tour. The stage play is set to run 76 performances across Washington, D.C., Los Angeles, Atlanta, New Orleans and Miami this fall, following a four-week debut run in Harlem last November. I [ ]
 
-### Josiah Green-Mhlanga, Karla Crome Tom Stourton Join BBC Starz Love Story You Are Here
-Thu, 20 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/bbc-starz-drama-you-are-here-more-cast-1237046105/
+### The Audacity Season 2 Adds Usman Ally As Series Regular
+Thu, 20 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/usman-ally-the-audacity-season-2-cast-1237045607/
 
-Josiah Green-Mhlanga (Andy and the Band), Karla Crome (Possession) and Tom Stourton (Barbie) have joined Claire Foy and Matthew Macfadyen to star in BBC and Starz drama You Are Here. Based on David Nicholls bestselling book, the series stars Marnie (Foy) and Michael (Macfadyen), who unexpectedly fall in love when their mutual friend Cleo (Crome) [ ]
+EXCLUSIVE: Usman Ally has joined the upcoming second season of AMC s The Audacity as a series regular. He will portray Byron Zandani, a senior Silicon Valley lawyer, who is constantly trying to put out proverbial fires and to navigate ethically ambiguous decisions. Composed and thoughtful, he’s worn down by the relentless drive of tech CEOs. [ ]
 
-### Charter Closes Acquisition Of Rival Cox, Expanding Spectrum Pay-TV And Broadband To 45 States
-Thu, 20 Aug 2026 13:33:14 +0000 — https://deadline.com/2026/08/charter-cox-merger-spectrum-pay-tv-broadband-1237046154/
+### Manager Alyssa Manning Joins Untitled
+Thu, 20 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/alyssa-manning-joins-untitled-1237046166/
 
-Charter Communications said Thursday it has closed its $34.5 billion acquisition of rival Cox Enterprises, creating a new cable and broadband giant. The combined company will have 38 million subscribers to video, internet and wireless services, with the Spectrum brand to be available in 45 states in the U.S. starting in September. Charter had been [ ]
+EXCLUSIVE: Alyssa Manning has joined Untitled as a manager based in the company s New York office. Most recently at Mgmt Entertainment, Manning reps digital creator and crossover talent whose careers span traditional entertainment, digital platforms and new media. In joining Untitled, she brings along Samantha Coulter, who has been part of her team and will serve [ ]
 
-### Monster: The Lizzie Borden Story Trailer: First Look At Sarah Paulson, Charlie Hunnam, Rebecca Hall In Bloody Ax Murder Tale
-Thu, 20 Aug 2026 13:20:00 +0000 — https://deadline.com/2026/08/monster-the-lizzie-borden-story-trailer-ryan-murphy-netflix-1237030567/
+### The Pitt Adds 7 To Season 3 Recurring Cast
+Thu, 20 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/the-pitt-recurring-guest-cast-season-3-1237046447/
 
-UPDATED: There s nothing wrong with blood. Blood is power. Blood is freedom. So begins the dark and disturbing full trailer for Monster: The LIzzie Borden Story, the fourth season of Ryan Murphy and Ian Brennan s anthology series. In it, we get the first reveals of Charlie Hunnam and Rebecca Hall, Lizzie s (Ella Beatty) father and [ ]
+EXCLUSIVE: A slew of new patients, a doctor, and a hospital executive will be welcomed to the Pittsburgh Trauma Medical Center on HBO Max s medical drama The Pitt, as 7 new actors have been cast in Season 3. Stephen Chang (Bosch: Legacy, The Last of Us: Part II), Barry Clifton (The Madison, The Thing About Pam), Chris Diamantopoulos (Dark Matter, The Lincoln [ ]
 
-### Creator Talent Agency Ponte Firm Expands Teams On Both Coasts
-Thu, 20 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/creator-talent-agency-ponte-firm-expands-1237045155/
+### ‘Sterling Point’ Renewed For Season 2 By Prime Video
+Thu, 20 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/sterling-point-renewed-season-2-prime-video-1237046454/
 
-EXCLUSIVE: Another creator-focused management business is building out on both coasts. Shana Davis-Ross s Ponte Firm, which represents lifestyle creators such as Kit Keenan and Audrey Peters, has hired hired four leadership-level execs – two in New York and two in L.A. – and promoted another to a senior role in Texas. Jenna Bissonnette has hired [ ]
+Prime Video has ordered a second season of drama series, Sterling Point. The eight-episode series debuted on August 5 and quickly became a top series on Prime Video. The YA series renewal marks three for three in Prime Video’s recent tidal wave of projects in the genre after Off Campus received a Season 2 renewal months [ ]
 
-### Heated Rivalry, Widow s Bay The Pitt Lead 2026 TCA Awards: Full Winners List
-Thu, 20 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/2026-tca-awards-winners-heated-rivalry-1237045534/
+### The Odyssey Slays Deadpool Wolverine To Become Highest Grossing R-Rated Movie Ever At Global Box Office
+Thu, 20 Aug 2026 16:51:46 +0000 — https://deadline.com/2026/08/the-odyssey-box-office-record-r-rated-1237046481/
 
-Hockey, horror comedy and hospital drama lead the way at the 2026 TCA Awards. Heated Rivalry skated off with the marquee Program of the Year prize Thursday as the Television Critics Association revealed the winners of its 42nd annual awards. Widow s Bay topped all programs with three trophies including Outstanding Comedy, and HBO Max s The [ ]
+It s official, Universal s The Odyssey has become the highest grossing R-rated movie ever at the global box office with $1.352 billion, unseating Deadpool Wolverine which ended its worldwide run at $1.33B. Deadpool Wolverine star Ryan Reynolds spilled the beans on social media prior to Uni making the record official. The pic has already [ ]
 
-### Chris Pratt s James Reece Is On A Road To Redemption In The Terminal List Season 2 Trailer
-Thu, 20 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/chris-pratt-james-reece-the-terminal-list-season-2-trailer-1237045899/
+### ABC And FCC Duel Over Court Jurisdiction And Timing In Latest Filing In Network s First Amendment Case
+Thu, 20 Aug 2026 16:39:46 +0000 — https://deadline.com/2026/08/abc-trump-fcc-lawsuit-hearing-1237046311/
 
-Prime Video has dropped the first trailer for Season 2 of The Terminal List, which finds Chris Pratt s Jame Reece seeking redemption and a new purpose. Before he was a fugitive, James Reece made a career out of putting terrorists in the dirt, a voiceover is heard in the trailer. He may be exactly what [ ]
+ABC is proposing a hearing as soon as Friday on its request for a temporary restraining order in its First Amendment lawsuit against the FCC, while the agency signaled that it plans to challenge the litigation as premature. The plans were laid out on Thursday on in a joint status report from the parties, as [ ]
 
-### Kate Beckinsale Action-Thriller Drifter Boarded By The Syndicate For Sales At TIFF AFM
-Thu, 20 Aug 2026 12:50:03 +0000 — https://deadline.com/2026/08/kate-beckinsale-movie-drifter-boarded-by-the-syndicate-tiff-1237046149/
+### Independent Artist Group Signs Love Hurts Director Jonathan Eusebio
+Thu, 20 Aug 2026 16:30:00 +0000 — https://deadline.com/2026/08/jonathan-eusebio-signs-iag-1237046183/
 
-EXCLUSIVE: Shaun Sanghani s The Syndicate has boarded sales rights to Kate Beckinsale action-thriller Drifter, which it will be shopping at the upcoming TIFF and AFM markets. Beckinsale (Underworld) stars with Dermot Mulroney (Chicago Fire), Robert Knepper (Prison Break) and rapper Sticky Fingaz in the project which is filming on location this month throughout Cleveland and Northeast [ ]
+EXCLUSIVE: Jonathan Eusebio, the stunt coordinator and second unit director who made his feature directorial debut with the recent Universal action comedy Love Hurts, has signed with Independent Artist Group. Starring Academy Award winners Ke Huy Quan and Ariana DeBose, Love Hurts follows Marvin Gable (Quan), a mild-mannered Milwaukee realtor whose former life as an assassin resurfaces when his [ ]
 
-### Snowglobe Co-Founder Eva Jakobsen Joins Nordisk Film
-Thu, 20 Aug 2026 12:18:25 +0000 — https://deadline.com/2026/08/eva-jakobsen-nordisk-film-snowglobe-1237046142/
+### Golden Axe Animated Series Starring Matthew Rhys, Danny Pudi, Gets Release Date At Paramount+
+Thu, 20 Aug 2026 16:30:00 +0000 — https://deadline.com/2026/08/golden-axe-animated-series-release-date-matthew-rhys-1237046241/
 
-The veteran producer and co-founder of the Copenhagen-based indie outfit Snowglobe, Eva Jakobsen, has joined Nordisk Film. Jakobsen co-founded Snowglobe in 2015 and most recently worked through her own production company, Mater Pictures. Jakobsen’s credits include Joachim Trier s The Worst Person In The World, Ralitza Petrova’s Godless, and Lust (2026). Jakobsen’s most recent credit is [ ]
+Golden Axe is set to make the official leap from classic arcade game to animated series next month. Paramount+ will drop all 10 episodes of the new animated series starring Matthew Rhys, Danny Pudi, Liam McIntyre and more, on Wednesday, September 16. The adaptation of SEGA s iconic video game follows legendary warriors Ax Battler, Tyris [ ]
 
-### Semafor Taps Ashley Gold For Key Role Covering Technology
-Thu, 20 Aug 2026 12:00:00 +0000 — https://deadline.com/2026/08/semafor-ashley-gold-technology-1237045829/
+### Melissa McCarthy Margie Claus Sets Fall 2027 Release, Rounds Out Cast With Songs By Meghan Trainor
+Thu, 20 Aug 2026 16:30:00 +0000 — https://deadline.com/2026/08/margie-claus-cast-melissa-mccarthy-meghan-trainor-1237046389/
 
-Ashley Gold is joining Semafor as senior technology correspondent, taking on a key role in coverage including AI and global politics. Gold joins from Axios, where she was senior tech policy reporter and co-authored the AI+ Government newsletter. She will start on Sept. 8 and report to Semafor s senior Washington editor, Elana Schor. Before Axios, [ ]
+Warner Bros. Pictures Animation s Margie Claus starring Melissa McCarthy will fly into theaters on Nov. 12, 2027. The pic has also set its additional voiceover cast with Jim Gaffigan as Santa, Andrew Scott as Jack Frost along with Annie Mumolo, Georgette Falcone, Octavia Spencer, Gary Farmer, Luis Gerardo Méndez, Cedric Yarbrough, and Maria Bakalova. Cole Escola was [ ]
 
-### ‘The Aggressives’ Director Daniel Peddle To Adapt Southern Crime Thriller ‘Cold Moon Rising’
-Thu, 20 Aug 2026 11:55:07 +0000 — https://deadline.com/2026/08/daniel-peddle-cold-moon-rising-michael-sledge-1237046137/
+### Seth Meyers Launches ‘A Closer Look’ Podcast During Long Hiatus
+Thu, 20 Aug 2026 16:29:55 +0000 — https://deadline.com/2026/08/seth-meyers-a-closer-look-podcast-1237046452/
 
-EXCLUSIVE: Daniel Peddle, the director behind The Aggressives and Beyond the Aggressives: 25 Years Later, has signed on to adapt the Southern crime thriller Cold Moon Rising by North Carolina author Michael Sledge. Cold Moon Rising is Sledge’s debut novel. The book tells the story of a violent home invasion that spirals into a web [ ]
+Late Night with Seth Meyers has been on a rather long summer hiatus but its host didn’t want to miss out on the news. Meyers and Sal Gentile, who writes the popular A Closer Look segment, have teamed up during the hiatus to launch a video podcast – A Closer Look Out of Office – [ ]
 
-### Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival
-Thu, 20 Aug 2026 11:43:05 +0000 — https://deadline.com/2026/08/michael-r-roskam-le-faux-soir-san-sebastian-film-festival-1237046132/
+### Steven Yeun To Headline Netflix Series Pagans From Joshua Zetumer
+Thu, 20 Aug 2026 16:29:00 +0000 — https://deadline.com/2026/08/steven-yeun-star-pagans-netflix-series-joshua-zetumer-1237046050/
 
-San Sebastián has set Le Faux Soir, a WWII feature directed by Belgian filmmaker Michaël R. Roskam, as the closing film of this year’s festival, which is set to run from September 18 to 26. Le Faux Soir will arrive at San Sebastian following its screening at TIFF. The film is based on the book [ ]
+EXCLUSIVE: Steven Yeun, Emmy winner for Netflix s Beef, is returning to the streamer as the lead of Pagans, one of the buzziest new series of the past year. Yeun will star in and executive produce the supernatural drama from Say Nothing creator Joshua Zetumer. Equal parts emotional, horrifying and humorous, Pagans unearths all our darkest [ ]
 

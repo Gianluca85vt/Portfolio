@@ -1,6 +1,36 @@
-# Games — harvested 2026-08-20T14:19:23.385Z
+# Games — harvested 2026-08-20T17:05:21.870Z
 
 ## Eurogamer
+
+### Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign
+Thu, 20 Aug 2026 16:44:12 +0000 — https://www.eurogamer.net/hidetaka-miyazaki-fromsoftware-single-player-games
+
+Hidetaka Miyazaki , the president of FromSoftware and director of so many revered Soulsian games, has suggested the studio is keen to return to making single-player games after The Duskbloods. Read more
+
+### IO Interactive announces new sales milestone for James Bond game 007 First Light
+Thu, 20 Aug 2026 15:32:26 +0000 — https://www.eurogamer.net/james-bond-007-first-light-sales
+
+The acclaimed James Bond game 007 First Light continues to find success, with developer IO Interactive announcing today it's passed 4 million sales since launch, just under three months ago. Read more
+
+### No, The Duskbloods isn't releasing on 24th September, according to Nintendo
+Thu, 20 Aug 2026 15:30:08 +0000 — https://www.eurogamer.net/the-duskbloods-release-date-nintendo-denied
+
+Nintendo has denied that The Duskbloods will be releasing on the 24th September, after the date was included in an early preview of the game. Read more
+
+### Final Fantasy: Crystal Chronicles composer speaks out about AI-generated Spotify album falsely using her name
+Thu, 20 Aug 2026 14:48:07 +0000 — https://www.eurogamer.net/final-fantasy-crystal-chronicles-composer-kumi-tanioka-ai-spotify
+
+Final Fantasy: Crystal Chronicles composer Kumi Tanioka has spoken out about an album attributed to her on Spotify. The problem? She had nothing to do with it. Read more
+
+### A cracked version of Marvel Tōkon is reigniting questions around DRM and its impact on PC games
+Thu, 20 Aug 2026 14:29:40 +0000 — https://www.eurogamer.net/marvel-tokon-fighting-souls-crack-drm-performance
+
+Marvel T&omacr;kon: Fighting Soul is reigniting the debate around DRM, amid reports a new DRM-free cracked version is performing better than Sony's widely lambasted official PC version. Read more
+
+### Call of Duty: Modern Warfare 4 beta may have eradicated the annoying 'Compiling Shaders' wait PC players loathe
+Thu, 20 Aug 2026 14:20:46 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-compiling-shaders-fix
+
+While sharing the remaining details about the upcoming Call of Duty: Modern Warfare 4 beta scheduled for this weekend - such as pre-load information and PC specs - Infinity Ward and co-developer Beenox have revealed an unexpected PC gaming breakthrough. It's to do with eliminating elongated wait times associated with compiling a game's shaders. Read more
 
 ### Hardware spending in the US was so low in July that it nearly matched the 2020 pandemic days when everything was out of stock
 Thu, 20 Aug 2026 13:05:12 +0000 — https://www.eurogamer.net/circana-july-2026-hardware-software-sales
@@ -32,37 +62,17 @@ Thu, 20 Aug 2026 08:30:56 +0000 — https://www.eurogamer.net/next-mass-effect-e
 
 Inside and outside Electronic Arts, everyone is bracing for what's sure to be a very different company now that it's fully owned by Saudi Arabia's Public Investment Fund . But the fate of one game in particular may be more perilous than any other: the next Mass Effect . Read more
 
-### Third seemingly real GTA 6 video leaks as Rockstar scrambles to remove footage from the internet
-Wed, 19 Aug 2026 15:26:15 +0000 — https://www.eurogamer.net/third-leaked-gta-6-footage-rockstar-cyberleek
-
-Another video of what appears to be legitimate Grand Theft Auto 6 gameplay has leaked online, and again it bears the watermark of the group allegedly connected with today's earlier leaks, CyberLeek. Read more
-
-### Video game music, orchestral performances, and the sheer joy of a communal experience: how live concerts are helping us reconnect with gaming's good side
-Wed, 19 Aug 2026 14:11:10 +0000 — https://www.eurogamer.net/video-game-music-orchestras-live-optimism-week
-
-Orchestral performances of video game music are no longer the novelty they once were - and that's a good thing. Organisations such as the Game Music Festival have had such success with them they're doing multiple performances for multiple game franchises each year, selling out locations like the prestigious Royal Festival Hall on London's South Bank - sometimes in hours. That's where I watched a packed auditorium literally scream in excitement as Baldur's Gate 3 composer Borislav Slavov joined actor Andrew Wincott and singer Mariya Anastasova to perform Raphael's Final Act as an encore. These audiences: they aren't what the Royal Festival Hall is used to, they're probably not what orchestras are used to, and I love that. Read more
-
-### Horizon Hunters Gathering is reportedly no longer a live service game following negative feedback
-Wed, 19 Aug 2026 13:43:57 +0000 — https://www.eurogamer.net/horizon-hunters-gathering-reboot-away-live-service
-
-Horizon Hunters Gathering has reportedly been rebooted in order to ditch its live service elements, following negative feedback during early private playtests. Read more
-
-### The next Binding of Isaac game is going up against Grand Theft Auto 6
-Wed, 19 Aug 2026 11:59:42 +0000 — https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date
-
-The Binding of Isaac : Repentance + Online has revealed a release date and it's one you probably have marked on your calendar. The package, a collection of The Binding of Isaac: Rebirth and all previously released add-ons, arrives 19th November on consoles -exactly the same day as Grand Theft Auto 6 . Read more
-
-### Stop Killing Games urges people not to support GTA 6 leakers, who declared "gamers' rights" their motive for action
-Wed, 19 Aug 2026 11:25:41 +0000 — https://www.eurogamer.net/stop-killing-games-gta-6-leak
-
-Consumer rights movement Stop Killing Games has released a public statement admonishing the actions of the group which took responsibility for leaking Grand Theft Auto 6 gameplay footage overnight. Read more
-
-### GTA 6 gameplay footage and map appear to leak online, as group seemingly responsible makes demands of Rockstar
-Wed, 19 Aug 2026 10:49:16 +0000 — https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek
-
-What appears to be legitimate gameplay footage of Grand Theft Auto 6 has leaked onto the internet, alongside an alleged image of the game's entire map. Read more
-
 ## GamesIndustry.biz
+
+### US physical game sales drop to lowest monthly total since 1995 | US Monthly Charts
+Thu, 20 Aug 2026 15:20:49 +0000 — https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts
+
+US physical software sales fell to $85 million in July, the lowest monthly total since Circana began tracking in 1995. Read more
+
+### GamesIndustry.biz HR Summit reveals new People and Workplace focus, dedicated to shaping the future of games workplaces
+Thu, 20 Aug 2026 14:33:37 +0000 — https://www.gamesindustry.biz/gamesindustrybiz-hr-summit-reveals-new-people-and-workplace-focus-dedicated-to-shaping-the-future-of-games-workplaces
+
+This year's GamesIndustry.biz HR Summit, returning to the Royal Institution on October 1 , will have a new focus on People and Workplaces, with a series of sessions featuring, and speaking to, both HR professionals and business leaders on what the modern games workplace needs to be in a time of ongoing turmoil in the industry. Read more
 
 ### Makers Fund raises $250m in fourth round to support interactive entertainment startups
 Thu, 20 Aug 2026 13:00:00 +0000 — https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-support-interactive-entertainment-startups
@@ -120,6 +130,46 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Several Big PS5 Games Have Gone Gold, Some Nearly Two Months Ahead of Launch
+Thu, 20 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/08/several-big-ps5-games-have-gone-gold-some-nearly-two-months-ahead-of-launch
+
+Ready when you are. The phrase "gone gold" doesn't mean all that much in the year 2026, but it still represents a significant milestone in a game's development — and three big PS5 titles have recently announced they've hit it. First up, Remedy Entertainment announced it reached gold status with Control Resonant a couple of days ago: Read the full article on pushsquare.com
+
+### 92% of PS5 Enthusiasts Believe PS Studios Needs New Management
+Thu, 20 Aug 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/08/92percent-of-ps5-enthusiasts-believe-ps-studios-needs-new-management
+
+That's unanimous. Of over 2,500 enthusiast PlayStation gamers surveyed in a recent Push Square poll, an eye-watering 92% believe PS Studios needs new management. This follows a slew of own goals from the current hierarchy, which has seen games cancelled, studios closed, and a lot of time lost. Read the full article on pushsquare.com
+
+### This FMV Mystery Set in Akihabara Now Has a Demo, PS5 Pre-Orders Come with PS Plus Discount
+Thu, 20 Aug 2026 16:15:00 GMT — https://www.pushsquare.com/news/2026/08/this-fmv-mystery-set-in-akihabara-now-has-a-demo-ps5-pre-orders-come-with-ps-plus-discount
+
+Electric town. I don’t know if you’ve noticed, but the PS5 is flooded with FMV games these days – many from China and Korea. But the Japanese studio behind Death Come True also has a new mystery on the way: Akiba Lost . Read the full article on pushsquare.com
+
+### Denshattack s Free Update Challenges You to Earn Even Harder Platinum Medals on PS5
+Thu, 20 Aug 2026 15:45:00 GMT — https://www.pushsquare.com/news/2026/08/denshattacks-free-update-challenges-you-to-earn-even-harder-platinum-medals-on-ps5
+
+Return ticket. One of this year's big indie breakouts is Denshattack , an arcadey action game in which you blast through stages in a train that can pull off tricks like a skateboard. It takes a little bit of time to acclimatise to its controls, but once you're there, it's a super fun game that moves really fast and constantly introduces new layers to its gameplay. Read the full article on pushsquare.com
+
+### I ll Believe It When I See It : Things Look Bleak for New Mass Effect, Says Former EA Manager
+Thu, 20 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/ill-believe-it-when-i-see-it-things-look-bleak-for-new-mass-effect-says-former-ea-manager
+
+"They can pull the plug very, very easily". Over the last few years, the conversation surrounding the new Mass Effect game has shifted. It's gone from people wondering whether modern BioWare has the chops to follow up on the original Mass Effect trilogy, to questioning whether BioWare will actually be around long enough to finish the project. Read the full article on pushsquare.com
+
+### James Bond Is Officially Back as 007 First Light Crosses 4 Million Copies Sold
+Thu, 20 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/james-bond-is-officially-back-as-007-first-light-crosses-4-million-copies-sold
+
+Mission accomplished. Publisher and developer IO Interactive has confirmed it's sold over 4 million copies of 007 First Light . It's crossed this impressive milestone in just under three months, having reached 3 million back in June . Read the full article on pushsquare.com
+
+### I Didn t Have a Golden Axe Cartoon on My 2026 Bingo Card
+Thu, 20 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/i-didnt-have-a-golden-axe-cartoon-on-my-2026-bingo-card
+
+Airing next month. Well, this came out of nowhere, didn’t it? A new Golden Axe cartoon, inspired by the arcade and SEGA Genesis brawler, will start streaming on Paramount+ from 16th September. Read the full article on pushsquare.com
+
+### Pretty Pokémon-Like LumenTale Sheds Switch Console Exclusivity, Coming Soon to PS5
+Thu, 20 Aug 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/08/pretty-pokemon-like-lumentale-sheds-switch-console-exclusivity-coming-soon-to-ps5
+
+A LumenTale as old as time. LumenTale: Memories of Trey will soon make the jump to PS5 after a fairly brief stint of Nintendo Switch exclusivity. This is a turn-based, Pokémon-inspired RPG where you gather a team of cutesy creatures. It released on Switch and PC, via Steam, back in May — and it seems to have done pretty well for itself. Read the full article on pushsquare.com
+
 ### PS5 Beats Switch 2 s US Dollar Sales in Aftermath of Physical Disc Backlash
 Thu, 20 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-beats-switch-2s-us-dollar-sales-in-aftermath-of-physical-disc-backlash
 
@@ -140,47 +190,12 @@ Thu, 20 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-
 
 Update #3: Leaker proves they have the game in some form. Multiple videos of what appear to be legitimate GTA 6 gameplay are currently being posted to the Internet by a leaker. I've seen two clips so far: the first depicts Jason at his house from the trailer playing some basketball, and the second features some driving and crimes that attract the attention of the cops. I will not be linking to either video, but they are easily found through social media searches at the time of writing. Read the full article on pushsquare.com
 
-### This Is Your Best, Most In-Depth Look at Silent Hill: Townfall Yet
-Thu, 20 Aug 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/08/this-is-your-best-most-in-depth-look-at-silent-hill-townfall-yet
-
-A full 19-minute gameplay deep dive. Konami has published a comprehensive deep dive into the gameplay of upcoming PS5 survival horror game, Silent Hill: Townfall . Across 19 minutes of footage, the opening sequence is revealed alongside protagonist Simon's first steps into the fog-covered Scottish town of St. Amelia. It then introduces the new CRTV device, gets into a bit of exploration, and then the video concludes with some combat. There's even a tease of the Otherworld at the end, as St. Amelia transforms into something entirely different. Read the full article on pushsquare.com
-
-### Black Myth: Wukong s Follow-Up, Zhong Kui, Looks Absolutely Stunning in New Gameplay
-Thu, 20 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/08/black-myth-wukongs-follow-up-zhong-kui-looks-absolutely-stunning-in-new-gameplay
-
-Game Science is cooking. I remember all the videos of Black Myth: Wukong before the game eventually launched; all of them were spectacular. It seems developer Game Science has lost none of its ability to create compelling videos, as it's just released a brilliant 15-minute gameplay trailer for Black Myth: Zhong Kui , the second game in its series of Chinese mythology action RPGs. Read the full article on pushsquare.com
-
-### Start Your Trails in the Sky 2nd Chapter Adventure Early with PS5 Demo, Out Now
-Thu, 20 Aug 2026 02:00:00 GMT — https://www.pushsquare.com/news/2026/08/start-your-trails-in-the-sky-2nd-chapter-adventure-early-with-ps5-demo-out-now
-
-The search begins. As has become tradition for Falcom games, a lengthy playable demo for Trails in the Sky 2nd Chapter is available to download right now on PS5. Naturally, if you're yet to play Trails in the Sky 1st Chapter , you should probably avoid jumping straight into this direct sequel. But for those who have been eagerly awaiting the story's continuation, you can kick things off early. Read the full article on pushsquare.com
-
-### Embrace Your Inner Akira with Namco s 1995 Cyber Cycles, Coming to PS5
-Thu, 20 Aug 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/08/embrace-your-inner-akira-with-namcos-1995-cyber-cycles-coming-to-ps5
-
-I wheelie like it. Ready to do the Akira slide in Neo Yokohama like it’s 1995? Namco’s early arcade racer Cyber Cycles is launching on the PS5 on 20th August, courtesy of Hamster’s Arcade Archives line. Read the full article on pushsquare.com
-
-### Don t Sleep on This Striking Korean Murder Mystery, Out on PS5 Now and Discounted with PS Plus
-Wed, 19 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/dont-sleep-on-this-striking-korean-murder-mystery-out-on-ps5-now-and-discounted-with-ps-plus
-
-This case shall be solved. Acclaimed text-based Korean indie game No Case Should Remain Unsolved is out now on PS5, with a temporary 20% discount for all PS Plus members until 1st September. The game – which has an ‘Overwhelmingly Positive’ rating on Steam – deals with the disappearance of a little girl that’s never been resolved. Read the full article on pushsquare.com
-
-### I Think We ll See That in the Next Year or Two : Days Gone Dev Could Reveal New Project Soon
-Wed, 19 Aug 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/08/i-think-well-see-that-in-the-next-year-or-two-days-gone-dev-could-reveal-new-project-soon
-
-"They're surviving". Like so many other Sony first-party studios, it’s been a bad few years for Days Gone dev Bend. While the Oregon-based outfit keeps on trucking, its live service project was cancelled in 2025 , alongside Bluepoint’s God of War game. Read the full article on pushsquare.com
-
-### Majority of Naughty Dog Was Working on The Last of Us Online Before It Was Cancelled
-Wed, 19 Aug 2026 19:15:00 GMT — https://www.pushsquare.com/news/2026/08/majority-of-naughty-dog-was-working-on-the-last-of-us-online-before-it-was-cancelled
-
-This wasn't a side project. Naughty Dog’s standalone online multiplayer game, which was cancelled in late 2023 , was the focus of the “majority of the studio” before it was axed. In a new video, Bloomberg journalist Jason Schreier reveals the anticipated Factions sequel was not a side hustle, and had the attention of the vast majority of the California team. Read the full article on pushsquare.com
-
-### Tiny Team Working on Next Horizon Single Player Game, Years Away from Release
-Wed, 19 Aug 2026 17:45:00 GMT — https://www.pushsquare.com/news/2026/08/tiny-team-working-on-next-horizon-single-player-game-years-away-from-release
-
-See you in the 2030s. If you were looking forward to the next full-length single player Horizon game from Dutch developer Guerrilla, sit tight. As previously reported and reiterated in a Bloomberg article today, a “tiny team” within the Amsterdam studio is working on Aloy’s next adventure. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Makers Fund expands game industry footprint through $250 million investment round
+Thu, 20 Aug 2026 15:39:24 GMT — https://www.gamedeveloper.com/business/makers-fund-expands-game-industry-footprint-after-closing-250-million-investment-round
+
+Makers general partner Jay Chi said the VC firm was 'founded on the belief that creators are the constant.'
 
 ### Hundreds of union workers rally across North America to protest Xbox layoffs
 Thu, 20 Aug 2026 08:57:26 GMT — https://www.gamedeveloper.com/business/hundreds-of-union-workers-rally-across-north-america-to-protest-xbox-layoffs

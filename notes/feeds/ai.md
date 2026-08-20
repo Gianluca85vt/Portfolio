@@ -1,6 +1,11 @@
-# AI — harvested 2026-08-20T14:19:23.385Z
+# AI — harvested 2026-08-20T17:05:21.870Z
 
 ## OpenAI
+
+### How ChatGPT Work helps Stampli move ideas to market
+Thu, 20 Aug 2026 00:00:00 GMT — https://openai.com/index/stampli
+
+With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.
 
 ### Offering Zero Data Retention for frontier models
 Wed, 19 Aug 2026 19:00:00 GMT — https://openai.com/index/offering-zero-data-retention-for-frontier-models
@@ -24,8 +29,8 @@ OpenAI launches an initiative to strengthen democratic oversight of AI in nation
 
 ## Hugging Face
 
-### LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation
-Wed, 19 Aug 2026 13:48:49 GMT — https://huggingface.co/blog/LiquidAI/qad
+### Up to 3.2x Faster Inference with LFM2.5-DSpark
+Thu, 20 Aug 2026 16:52:57 GMT — https://huggingface.co/blog/LiquidAI/lfm25-dspark
 
 ### How Much Memory Does Your Agent Actually Need?
 Tue, 18 Aug 2026 18:09:38 GMT — https://huggingface.co/blog/ibm-research/altk-evolve-hmm

@@ -1,9 +1,24 @@
-# Manga — harvested 2026-08-20T14:19:23.385Z
+# Manga — harvested 2026-08-20T17:05:21.870Z
 
 ## Anime News Network
 
+### Pop Pap Polters Stop-Motion Shorts' Trailer Unveils Cast, More Staff, October 4 Debut
+Thu, 20 Aug 2026 12:02:10 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/pop-pap-polters-stop-motion-shorts-trailer-unveils-cast-more-staff-october-4-debut/.240757
+
+Atsumi Tanezaki stars as 3 mini ghosts in room of homeowner voiced by Junya Enoki
+
+### Psyren Volume 1-8 Manga Review
+Thu, 20 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/psyren-volumes-1-8/manga/.240530
+
+The pages of JUMP run red with the blood of hundreds of canceled manga, so why has <cite>Psyren</cite> stayed in the public consciousness?
+
+### Uta no Princess-sama 3rd Anniversary Concert Canceled
+Thu, 20 Aug 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/uta-no-princess-sama-3rd-anniversary-concert-canceled/.240704
+
+Concert for female idol counterpart to <cite>Uta no Prince-sama</cite> franchise launched in 2023
+
 ### This Week in Anime - Return to the Accursed Island
-Thu, 20 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-08-19/.240715
+Thu, 20 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-08-20/.240715
 
 Grab your dice and join Chris and Lucas for a journey through old-school fantasy anime!
 
@@ -46,21 +61,6 @@ Yonezu to perform guitar, Miura sings, Kuno produces rotoscoped animation based 
 Thu, 20 Aug 2026 04:46:30 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/necromancer-isekai-anime-reveals-key-visual-2027-debut/.240749
 
 Yoshihiro Akase also joins staff as sound director
-
-### Metallica Praises Ado's Summer Sonic Performance of 'Enter Sandman'
-Wed, 19 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-19/metallica-praises-ado-summer-sonic-performance-of-enter-sandman/.240713
-
-Metallica: “Watching younger generations find their way to our music never gets old... it's one of the best parts of doing this”
-
-### Love Is Like a Cocktail's Crystal na Yōsuke Launches Romantic Comedy Manga
-Wed, 19 Aug 2026 23:35:07 -0400 — https://www.animenewsnetwork.com/news/2026-08-19/love-is-like-a-cocktail-crystal-na-yosuke-launches-romantic-comedy-manga/.240702
-
-<cite>Tokoro de Machi Chūka wa Date ni Irimasu ka?</cite> launches on September 18
-
-### Ghibli's Frequent Composer Joe Hisaishi Receives 3 Guinness World Records
-Wed, 19 Aug 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-19/ghibli-frequent-composer-joe-hisaishi-receives-3-guinness-world-records/.240717
-
-Hisaishi honored for record-breaking runs at Tokyo Dome, Hollywood Bowl, Radio City Music Hall
 
 ## Crunchyroll News
 
