@@ -3,7 +3,7 @@ title: Tides of Annihilation built a real cathedral for a two-hour demo, and the
 date: 2026-08-20
 category: Games
 excerpt: Eclipse Glow Games built a full-scale cathedral in Chengdu just to run its first public hands-on. Impressive, but the number worth reading is the one about how they're forcing Nanite to handle giant animated bosses, a job it wasn't built for.
-cover: /img/blog/tides-of-annihilation-cathedral-nanite-knights/cover.svg
+cover: /img/blog/tides-of-annihilation-cathedral-nanite-knights/shot-01.jpg
 draft: true
 ---
 
@@ -24,6 +24,11 @@ public demo. That's two purpose-built venues before most players have seen
 a second of uncut gameplay.
 
 ## What it actually is
+
+<figure>
+  <img src="/img/blog/tides-of-annihilation-cathedral-nanite-knights/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Eclipse Glow Games, via the official Tides of Annihilation Steam page</figcaption>
+</figure>
 
 Tides of Annihilation is an Arthurian-flavoured action-adventure: London
 in ruins after a cataclysm the game calls the Outworld invasion, a
