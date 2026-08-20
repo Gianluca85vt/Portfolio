@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Black Pony Immersive, 26 people">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#3A1024"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2">
+    <path d="M0 150H1200M0 300H1200M0 450H1200M0 600H1200"/>
+    <path d="M150 0V900M300 0V900M450 0V900M600 0V900M750 0V900M900 0V900M1050 0V900"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="150" font-size="30" letter-spacing="6" fill="#FFFFFF" fill-opacity="0.55" font-weight="bold">
+      NEW STUDIO
+    </text>
+
+    <text x="600" y="330" font-size="118" font-weight="900" fill="#FFFFFF">BLACK PONY</text>
+    <text x="600" y="440" font-size="66" font-weight="900" fill="#FFFFFF" fill-opacity="0.85">IMMERSIVE</text>
+
+    <rect x="470" y="490" width="260" height="8" rx="4" fill="url(#accent)"/>
+
+    <text x="600" y="580" font-size="30" fill="#FFFFFF" fill-opacity="0.65" font-weight="bold">
+      26 PEOPLE. TWO YEARS AFTER
+    </text>
+    <text x="600" y="622" font-size="30" fill="#FFFFFF" fill-opacity="0.65" font-weight="bold">
+      ARKANE AUSTIN CLOSED.
+    </text>
+  </g>
+</svg>
