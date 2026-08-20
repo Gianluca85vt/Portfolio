@@ -3,7 +3,7 @@ title: Kore-eda is filming a manga about drawing, and he's handing the drawing t
 date: 2026-08-20
 category: Manga
 excerpt: The live-action Look Back quietly added Yōko Kuno to direct a rotoscoped sequence inside it. That one credit tells you how Kore-eda intends to solve the problem the 2024 anime never had to face.
-cover: /img/blog/look-back-live-action-rotoscope-sequence/cover.svg
+cover: /img/blog/look-back-live-action-rotoscope-sequence/shot-01.jpg
 draft: true
 ---
 
@@ -20,6 +20,11 @@ want to talk about, because it's Kore-eda telling you in advance how he plans to
 unshootable part of this story.
 
 ## The thing a camera can't point at
+
+<figure>
+  <img src="/img/blog/look-back-live-action-rotoscope-sequence/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Hirokazu Kore-eda, director of the live-action Look Back, at Cannes 2015 — via Wikimedia Commons. A festival portrait, not a still from the film.</figcaption>
+</figure>
 
 Look Back is about drawing. Not about two girls who happen to draw — about the physical,
 compulsive act of putting line on paper, and what it costs and what it gives back. Fujimoto's
