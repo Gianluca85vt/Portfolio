@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-08-20T05:14:25.158Z
+# Film & TV — harvested 2026-08-20T08:17:36.990Z
 
 ## Variety
+
+### India s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)
+Thu, 20 Aug 2026 06:30:00 +0000 — https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805/
+
+India s Epic Studios has partnered with Rusk Media Private Limited (RMPL) to produce 50 original vertical drama series, aiming to build the country s largest library of owned vertical-drama intellectual property. The slate will span genres including mythology, drama, mystery, thriller and romance. The series will premiere on Alright! TV, Rusk Media s platform for original vertical-drama [ ]
+
+### Busan Festival Honors Ahn Sung-ki, Market Names Thailand Country of Honor
+Thu, 20 Aug 2026 05:32:22 +0000 — https://variety.com/2026/film/markets-festivals/busan-festival-honor-ahn-sung-ki-market-thailand-country-of-honor-1236838811/
+
+The 31st Busan International Film Festival (BIFF) has unveiled a Special Program in Focus honoring the late Korean screen legend Ahn Sung-ki, while the festival s market arm has named Thailand the first-ever recipient of a new top-tier country partnership. Those Beautiful Years, Ahn Sung-ki serves as the grand finale to the nationwide tributes paid to [ ]
+
+### Manoj Bajpayee, Sudhir Mishra, Anubhav Sinha s Gandhi Film Unveils Plot, Adds Saurabh Shukla, Narendra Hirawat (EXCLUSIVE)
+Thu, 20 Aug 2026 05:30:00 +0000 — https://variety.com/2026/film/news/manoj-bajpayee-gandhi-film-plot-cast-producer-1236838081/
+
+Indian thespian Manoj Bajpayee s first screen portrayal of Mahatma Gandhi will focus on a previously undisclosed chapter of India s independence history, according to new details released on the Sudhir Mishra-directed film. Saurabh Shukla has joined the cast, and Narendra Hirawat and NH Studioz have come aboard as producer and presenter, respectively, alongside Anubhav Sinha s Benaras [ ]
 
 ### Josh Radnor Is Not Even a Little Bit Close to His How I Met Your Mother Co-Stars: You Just Go Out and Live Your Life
 Thu, 20 Aug 2026 04:37:05 +0000 — https://variety.com/2026/tv/news/josh-radnor-not-close-how-i-met-your-mother-co-stars-1236838802/
@@ -37,22 +52,12 @@ Wed, 19 Aug 2026 23:00:00 +0000 — https://variety.com/2026/tv/news/lucky-creat
 
 SPOILER ALERT: This interview contains major spoilers from “All Good Things,” the finale of Apple TV’s “Lucky.” Luciana “Lucky” Armstrong (Anya Taylor-Joy) has just pulled off one last con on the most important person left in her life: her formerly incarcerated father, John (Timothy Olyphant). In the series finale of “Lucky,” the titular con artist [ ]
 
-### Ariana Grande Granted Permission to Issue Expedited Subpoenas to Reveal Hacker Identities
-Wed, 19 Aug 2026 21:56:47 +0000 — https://variety.com/2026/music/news/ariana-grande-permitted-subpoena-reveal-hacker-identities-1236838661/
-
-Ariana Grande has been granted permission to subpoena information that will help reveal the identities of anonymous hackers who allegedly leaked unreleased songs and footage from recording sessions and music videos. A Los Angeles judge approved Grande s proposed order for expedited discovery on Tuesday, explaining that because she is unable to identify the hackers, a [ ]
-
-### Prince Harry and Meghan Markle Moving Back to U.K. in Shock Decision
-Wed, 19 Aug 2026 21:50:40 +0000 — https://variety.com/2026/film/news/prince-harry-meghan-markle-moving-back-to-uk-1236838650/
-
-Prince Harry and Meghan Markle are moving back to the U.K. with their children after living in California for the past six years, according to People. The transition back to Britain, which the outlet says will last for an extended period, is set to begin in the coming weeks. The Duke and Duchess of Sussex [ ]
-
-### Sandra Bullock Opens Up for the First Time on ALS Death of Partner Bryan Randall: My Person Left A Lot Earlier Than the Body Left’
-Wed, 19 Aug 2026 21:33:41 +0000 — https://variety.com/2026/film/health/sandra-bullock-als-death-partner-bryan-randall-1236838639/
-
-Sandra Bullock is opening up about the death of her late partner Bryan Randall. The “Practical Magic 2” star made the rare remarks about her private life during an appearance on the Smartless podcast hosted by Jason Bateman, Sean Hayes and Will Arnett. Randall, a photographer, battled ALS before dying on Aug. 5, 2023 at [ ]
-
 ## The Hollywood Reporter
+
+### Jonathan Jackson Shares Touching Tribute to Hayden Panettiere: She Had Such a Bright Light Within Her
+Thu, 20 Aug 2026 06:35:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jonathan-jackson-hayden-panettiere-nashville-1236677557/
+
+Jackson co-starred with the late actress on ABC's 'Nashville' for six seasons.
 
 ### Naomi Watts to Receive Zurich Fest Golden Eye Award
 Thu, 20 Aug 2026 04:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/naomi-watts-zurich-fest-golden-eye-award-the-housewife-1236676940/
@@ -99,12 +104,17 @@ Wed, 19 Aug 2026 22:46:24 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 The Netflix reality series will release its eight episodes on the streamer on Sept. 4.
 
-### Prince Harry, Meghan Markle to Move Back to the U.K.
-Wed, 19 Aug 2026 21:52:29 +0000 — https://www.hollywoodreporter.com/news/general-news/prince-harry-meghan-markle-moving-back-uk-1236677373/
-
-The Duke and Duchess of Sussex are set to leave California and take up a private residence outside London after leaving for the U.S. in 2020.
-
 ## Deadline
+
+### Naomi Watts Set For Zurich’s Golden Eye Award
+Thu, 20 Aug 2026 05:53:05 +0000 — https://deadline.com/2026/08/naomi-watts-zurich-film-festival-golden-eye-award-1237046058/
+
+Naomi Watts will be honored at the Zurich Film Festival with the Golden Eye Award. The festival said Watts is being honored for her “outstanding performance in Ben Shirinian’s The Housewife.” Watts will present the film in Zurich. She stars as the enigmatic wife of a suspected Nazi in the feature. Watts will pick up [ ]
+
+### Sons Of Anarchy Creator Kurt Sutter Endorses Charlie Hunnam s FX Series Legends That Reunites Cast Of Biker Drama: I Think You ll Dig It
+Thu, 20 Aug 2026 05:34:03 +0000 — https://deadline.com/2026/08/kurt-sutter-reaction-charlie-hunnam-legends-fx-series-1237046044/
+
+Sons of Anarchy creator/executive producer Kurt Sutter took to Instagram to assure his followers that he is OK with series star Charlie Hunnam and FX doing a meta take on his motorcycle gang drama with new limited series Legends. I m not involved with Legends at all, nor should I be, Sutter, wearing a yellow beanie, [ ]
 
 ### Hayden Panettiere s Heroes Dad Jack Coleman Pays Tribute To Extraordinary Young Woman
 Thu, 20 Aug 2026 03:12:01 +0000 — https://deadline.com/2026/08/hayden-panettieres-heroes-dad-jack-coleman-pays-tribute-1237046037/
@@ -155,14 +165,4 @@ EXCLUSIVE: Adèle Exarchopoulos (Blue Is the Warmest Color) has landed a lead ro
 Wed, 19 Aug 2026 22:00:00 +0000 — https://deadline.com/2026/08/degree-of-uncertainty-interview-simon-schneider-1237044928/
 
 In Simon Schneider’s Degree of Certainty, knowing the truth and acting on it are two very different things. Set in 1982, the 16-minute short follows Jackson Miller (Trace Guzmán), a young risk analyst at a major U.S. oil company facing mounting pressure as plunging oil prices cost the corporation millions. Looking for a way to [ ]
-
-### Josh Radnor Says He s Not Close To His How I Met Your Mother Co-Stars Not Even A Little Bit : I Have Love For All These People
-Wed, 19 Aug 2026 21:52:08 +0000 — https://deadline.com/2026/08/josh-radnor-not-close-how-i-met-your-mother-co-stars-1237045701/
-
-Josh Radnor is opening up about where he stands with the rest of the cast of How I Met Your Mother, 12 years after the series completed a nine-season run. The CBS sitcom followed Radnor s Ted Mosby and his group of friends in New York City as he recounts to his children the events that [ ]
-
-### Everything We Know About ‘Outer Banks’ Season 5 So Far
-Wed, 19 Aug 2026 21:23:52 +0000 — https://deadline.com/feature/outer-banks-season-5-news-updates-everything-we-know-1237012550/
-
-Outer Banks will soon come to a close. The Netflix action adventure series, which debuted with its first season during peak COVID pandemic in 2020, has its fifth and final season on the way. For everything we know about Outer Banks Season 5, read below: When does Outer Banks Season 5 come out? The fifth [ ]
 

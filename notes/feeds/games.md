@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-20T05:14:25.158Z
+# Games — harvested 2026-08-20T08:17:36.990Z
 
 ## Eurogamer
 
@@ -119,11 +119,6 @@ Tue, 18 Aug 2026 08:53:12 +0000 — https://www.gamesindustry.biz/save-the-child
 
 This Christmas, Save the Children will launch is first game and streaming fundraiser called Save Point. Read more
 
-### GYLD raises $1m to fund proprietary games research system that marked Clair Obscur as a potential hit
-Tue, 18 Aug 2026 07:00:00 +0000 — https://www.gamesindustry.biz/gyld-raises-1m-to-fund-proprietary-games-research-system-that-marked-clair-obscur-as-a-potential-hit
-
-Games publishing and investment agency GYLD has raised $1 million in funding to support its proprietary games research system Critical Compass. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
@@ -236,9 +231,4 @@ Tue, 18 Aug 2026 10:22:11 GMT — https://www.gamedeveloper.com/business/roblox-
 Tue, 18 Aug 2026 09:28:08 GMT — https://www.gamedeveloper.com/business/arco-breaks-even-after-topping-100-000-sales
 
 One member of the development team described the achievement as 'incredible.'
-
-### WINGS really, really wants to fund your neat indie video game
-Tue, 18 Aug 2026 08:00:49 GMT — https://www.gamedeveloper.com/business/wings-really-really-wants-to-fund-your-neat-indie-video-game
-
-The indie investor, which is committed to empowering women and gender-marginalized devs, is introducing new funding pathways for PC projects of all shapes and sizes.
 
