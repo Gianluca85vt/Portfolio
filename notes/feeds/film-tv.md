@@ -1,58 +1,93 @@
-# Film & TV — harvested 2026-08-20T11:03:06.126Z
+# Film & TV — harvested 2026-08-20T14:19:23.385Z
 
 ## Variety
 
-### Gramado Targets Next-Gen Talent as Permanent Growth Engine (EXCLUSIVE)
-Thu, 20 Aug 2026 10:56:48 +0000 — https://variety.com/2026/film/global/gramado-residency-young-filmmakers-1236838819/
+### Ava DuVernay s 14th Documentary Sets Netflix Release Date (EXCLUSIVE)
+Thu, 20 Aug 2026 14:00:00 +0000 — https://variety.com/2026/film/news/ava-duvernay-14th-documentary-netflix-release-date-1236838623/
 
-GRAMADO, Brazil As the first edition of the Residency for Young Filmmakers wrapped on Aug. 19, the Gramado Film Festival has decided to continue the program with a second edition set to take place at its 2027 edition and that the Residency would become a permanent initiative at Gramado, Rosa Helena Volk, president of [ ]
+Ava DuVernay s new documentary “14th” is set to premiere globally on Netflix on Dec. 4, following a theatrical release in select U.S. and U.K. theaters beginning Nov. 27. As previously announced, “14th” will host its world premiere at the New York Film Festival. It will be the festival’s closing night film on Oct. 9 at [ ]
 
-### Podcast Giant Goalhanger Hires Tom Miceli to Lead TV and Film Expansion (EXCLUSIVE)
-Thu, 20 Aug 2026 10:15:15 +0000 — https://variety.com/2026/digital/global/goalhanger-hires-tom-miceli-tv-and-film-expansion-1236838833/
+### Never After Dark Trailer: Stephen King Raves This Psychic Medium Thriller Is Amazing and Haunting (EXCLUSIVE)
+Thu, 20 Aug 2026 14:00:00 +0000 — https://variety.com/2026/film/news/never-after-dark-trailer-stephen-king-psychic-thriller-1236838731/
 
-Goalhanger, the British podcasting giant behind series such as as The Rest is Football, which recently launched as a Netflix show covering the World Cup, is looking to accelerate its growth on screen with the hire of Tom Miceli. Miceli joins from WME in the newly created role of head of IP development and will [ ]
+The first trailer for dark festival hit “Never After Dark” has been released, and it has some big-time fans. Horror icon Stephen King has called the film, about a psychic trying to unravel the mystery behind an evil house, “amazing and haunting.” Director Scott Derrickson, whose films include “The Black Phone” and “Sinister,” called it [ ]
 
-### China s Pingyao Film Festival Sets 10th Edition Dates – Global Bulletin
-Thu, 20 Aug 2026 09:50:29 +0000 — https://variety.com/2026/film/festivals/pingyao-film-festival-10th-edition-dates-1236838876/
+### AI Music Companies Udio and GRAI License Swath of Patents From UMG-Backed Music IP Holdings (EXCLUSIVE)
+Thu, 20 Aug 2026 14:00:00 +0000 — https://variety.com/2026/biz/news/ai-music-udio-grai-patents-umg-backed-music-ip-holdings-1236838763/
 
-PINGYAO PREMIERE The Pingyao International Film Festival will mark its 10th edition with a run set for Sept. 24–30, at the Pingyao Festival Palace in Shanxi Province. Founded in 2017 by director Jia Zhangke, the festival spans four programs: Screening, Market, Cultivation and Academics. The Screening slate will include Crouching Tigers, dedicated to emerging directors [ ]
+Patents are often the bedrock of new innovation, and a suite of patents defining how AI-generated music can be created, licensed and monetized has hit the market — with multiple AI companies lined up to license them. Music IP Holdings, a company formed last year out of a strategic partnership with Universal Music Group and the [ ]
 
-### San Sebastián Sets Michaël R. Roskam’s ‘Le Faux Soir’ as Closing Night Film
-Thu, 20 Aug 2026 09:16:21 +0000 — https://variety.com/2026/film/global/san-sebastian-michael-roskam-le-faux-soir-closing-film-1236838841/
+### Hayden Panettiere’s Team Discussed an Intervention Before Her Death, Says Director of One of Her Final Movies: I Got Asked to Participate
+Thu, 20 Aug 2026 13:58:24 +0000 — https://variety.com/2026/film/news/hayden-panettiere-intervention-death-director-1236838972/
 
-“Le Faux Soir,” a Belgian-French WWII resistance drama from “Bullhead” director Michaël R. Roskam, has been set as the closing night film of this year’s San Sebastián Film Festival. Playing in the festival s Official Selection out of competition, the film will have its European premiere at San Sebastián after world premiering at Toronto, where it [ ]
+Griff Furst, who directed one of Hayden Panettiere’s final films before her shocking death Sunday at 36, said that her team had asked him to participate in an intervention after they filmed his 2025 movie, A Breed Apart. When I think about this, it s not just a Hayden story. I grew up on movie sets [ ]
 
-### ‘Game of Thrones’ Play ‘The Mad King’ Reveals Behind-The-Scenes Secrets in Stage Transformation Video (EXCLUSIVE)
-Thu, 20 Aug 2026 09:00:00 +0000 — https://variety.com/2026/theater/global/game-of-thrones-the-mad-king-behind-the-scenes-video-1236838551/
+### Netflix’s Engaging Crime Drama ‘Blood Sacrifice Spotlights Inept Policing: TV Review
+Thu, 20 Aug 2026 13:15:00 +0000 — https://variety.com/2026/tv/reviews/blood-sacrifice-review-netflix-1236838260/
 
-“Game of Thrones: The Mad King” is sharing some of the magic behind the scenes in a new video that shows how the stage at the Royal Shakespeare Theatre in Stratford-Upon-Avon has been transformed for the show, which launched earlier this month. The show’s production design, overseen by set designer Chloe Lamford, is unlike anything [ ]
+“Hijack” and “Lupin” creator George Kay is no stranger to engrossing dramas, and in his newest Netflix series, “Blood Sacrifice,” a grisly Swedish crime thriller, Kay unpacks the unending mental toll of police work. It’s a psychological load that extends beyond law enforcers and spills onto their closest friends and family members. Intense, bloody and [ ]
 
-### Toei, Shochiku, Kadokawa Among IP Holders Set for TIFFCOM s Tokyo Adaptation and Remake Market
-Thu, 20 Aug 2026 08:48:12 +0000 — https://variety.com/2026/film/markets-festivals/toei-shochiku-kadokawa-ip-holders-tokyo-remake-market-1236838854/
+### Brand Marketing Veteran Justin Breton Joins Gap Inc. to Drive Original Content
+Thu, 20 Aug 2026 13:15:00 +0000 — https://variety.com/2026/biz/news/justin-breton-gap-brand-marketing-walmart-fashiontainment-1236838762/
 
-Eight major Japanese publishers, studios and production companies will pitch intellectual property to international buyers at the second edition of Tokyo IP Market: Adaptation Remake, running Oct. 28-30 at TIFFCOM 2026 in Tokyo. The platform, known as TIPM, will host one-on-one business meetings and open pitching sessions at the Tokyo Metropolitan Industrial Trade Center [ ]
+Walmart marketing alum Justin Breton has joined Gap Inc. to drive original content across a range of genres and platforms to support the apparel giant s Fashiontainment business initiative. Starting Aug. 31, Breton will serve as Gap s VP of development, reporting to Pam Kaufman, the Nickelodeon and Viacom alum who joined the company in February as [ ]
 
-### ‘You Don’t Belong Here’ Director Florin Şerban Sets Next Feature After Winning Locarno s Golden Leopard (EXCLUSIVE)
-Thu, 20 Aug 2026 08:38:50 +0000 — https://variety.com/2026/film/global/you-dont-belong-here-florin-serban-follow-up-locarno-1236838137/
+### Most Americans Have Not Seen Stories of People Living With HIV in Media in the Last Year: GLAAD Report
+Thu, 20 Aug 2026 13:00:00 +0000 — https://variety.com/2026/film/columns/stories-of-people-living-with-hiv-in-media-glaad-report-1236838733/
 
-Romanian filmmaker Florin Şerban, whose bleak study of systemic racism and toxic masculinity “You Don’t Belong Here” won the Golden Leopard at the recently wrapped Locarno Film Festival, is prepping his next feature film. Speaking to Variety at the Sarajevo Film Festival, where “You Don’t Belong Here” is playing in the main competition, the director shared details [ ]
+GLAAD reported on Thursday that most Americans say they have not seen stories about people living with HIV in the media. In its sixth annual State of HIV Stigma report, GLAAD says, “72% of Americans report they have not seen stories featuring real people living with HIV in the media over the past 12 months, [ ]
 
-### India s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)
-Thu, 20 Aug 2026 06:30:00 +0000 — https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805/
+### ESPN Will Test Alumni Cast for MLB Little League Classic
+Thu, 20 Aug 2026 13:00:00 +0000 — https://variety.com/2026/tv/news/espn-mlb-little-league-classic-alumni-alt-cast-1236838737/
 
-India s Epic Studios has partnered with Rusk Media Private Limited (RMPL) to produce 50 original vertical drama series, aiming to build the country s largest library of owned vertical-drama intellectual property. The slate will span genres including mythology, drama, mystery, thriller and romance. The series will premiere on Alright! TV, Rusk Media s platform for original vertical-drama [ ]
+ESPN has tapped Pixar and Marvel characters in sundry bids to create new ways for viewers to watch their favorite games. Now the sports-media giant will investigate the use of a different kind of character. While the ninth annual MLB Little League Classic airs August 23 on ESPN, ESPN2 will feature an alumni alt-cast of [ ]
 
-### Busan Festival Honors Ahn Sung-ki, Market Names Thailand Country of Honor
-Thu, 20 Aug 2026 05:32:22 +0000 — https://variety.com/2026/film/markets-festivals/busan-festival-honor-ahn-sung-ki-market-thailand-country-of-honor-1236838811/
+### Widow s Bay, Heated Rivalry and The Pitt Among Winners at 42nd Annual Television Critics Association Awards
+Thu, 20 Aug 2026 13:00:00 +0000 — https://variety.com/2026/tv/news/widows-bay-heated-rivalry-television-critics-awards-1236838797/
 
-The 31st Busan International Film Festival (BIFF) has unveiled a Special Program in Focus honoring the late Korean screen legend Ahn Sung-ki, while the festival s market arm has named Thailand the first-ever recipient of a new top-tier country partnership. Those Beautiful Years, Ahn Sung-ki serves as the grand finale to the nationwide tributes paid to [ ]
+The Television Critics Association has unveiled the winners for the 42nd Annual TCA Awards, which honor exemplary series and stars from the 2025-2026 TV season. HBO’s “Heated Rivalry” took home the top prize, Program of the Year, while “Widow’s Bay” had the most wins of the night with three. The Apple TV horror-comedy won for [ ]
 
-### Manoj Bajpayee, Sudhir Mishra, Anubhav Sinha s Gandhi Film Unveils Plot, Adds Saurabh Shukla, Narendra Hirawat (EXCLUSIVE)
-Thu, 20 Aug 2026 05:30:00 +0000 — https://variety.com/2026/film/news/manoj-bajpayee-gandhi-film-plot-cast-producer-1236838081/
+### Soccer Drama Forza Sets Indonesia Release, Global Rollout (EXCLUSIVE)
+Thu, 20 Aug 2026 12:59:54 +0000 — https://variety.com/2026/film/news/soccer-drama-forza-indonesia-release-global-rollout-1236838816/
 
-Indian thespian Manoj Bajpayee s first screen portrayal of Mahatma Gandhi will focus on a previously undisclosed chapter of India s independence history, according to new details released on the Sudhir Mishra-directed film. Saurabh Shukla has joined the cast, and Narendra Hirawat and NH Studioz have come aboard as producer and presenter, respectively, alongside Anubhav Sinha s Benaras [ ]
+Forza, a family sports drama from Riva Studios, will open theatrically in Indonesia in late 2026, with an international rollout to follow in early 2027. The studio also released the film s teaser. Forza marks Riva Studios first live-action feature. The independent production company was co-founded by Balsamo and Tara Sibel Demren and has bases in [ ]
 
 ## The Hollywood Reporter
+
+### Chris Pratt Returns to Battle for Redemption in ‘Terminal List’ Season 2 Trailer
+Thu, 20 Aug 2026 14:08:31 +0000 — https://www.hollywoodreporter.com/tv/tv-news/chris-pratt-terminal-list-season-2-trailer-1236677647/
+
+His now-fugitive character James Reece is offered newfound purpose helping the U.S. government pursue a shadowy former Iraqi commando to unravel a geopolitical conspiracy.
+
+### Anya Taylor-Joy on the Bittersweet Lucky Finale and Why Dune 3 Exceeded Expectations
+Thu, 20 Aug 2026 13:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/anya-taylor-joy-lucky-finale-dune-3-interview-1236674433/
+
+Taylor-Joy also discusses key changes made to Jonathan Tropper's adaptation of Marissa Stapley’s novel, before revealing what made her first day on set acutely emotional.
+
+### Chelsea Freeman Signs With The Team (Exclusive)
+Thu, 20 Aug 2026 13:05:00 +0000 — https://www.hollywoodreporter.com/business/business-news/chelsea-freeman-the-team-1236677166/
+
+The influencer and wife of Dodgers star Freddie Freeman is looking beyond the ballpark to expand her presence in the sports, fashion, lifestyle and family content spaces.
+
+### Netflix s Monster: The Lizzie Borden Story Trailer Teases Ella Beatty, Charlie Hunnam, Rebecca Hall in Bloody Tale of Infamous Axe Murders
+Thu, 20 Aug 2026 13:00:57 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-monster-lizzie-borden-story-trailer-charlie-hunnam-1236677512/
+
+The fourth installment of the anthology series stars Beatty as the first female "Monster," while Hunnam and Hall play her father and stepmother, respectively. The Ryan Murphy and Ian Brennan series will launch on the streamer Sept. 17.
+
+### Widow s Bay, Heated Rivalry Take Top Honors at 2026 TCA Awards
+Thu, 20 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-widows-bay-2026-tca-awards-winners-1236677344/
+
+The Apple TV horror comedy earns three awards, and 'Heated Rivalry' takes home program of the year.
+
+### Jonah Hauer-King Joins Season 2 of Rose Ayling-Ellis Drama Code of Silence for ITV, BritBox
+Thu, 20 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jonah-hauer-king-joins-rose-ayling-ellis-code-of-silence-1236677602/
+
+New cast members of the Mammoth Screen series, created by Catherine Moulton, also include Jo Joyner ('Little Disasters'), Sophie McShera ('Downton Abbey') and John Hollingworth ('The Crown').
+
+### New Cable Giant Emerges: Charter Closes $34.5 Billion Deal For Cox and Liberty
+Thu, 20 Aug 2026 11:18:31 +0000 — https://www.hollywoodreporter.com/business/business-news/charter-communications-completes-cox-liberty-broadband-deal-1236677613/
+
+"When Liberty first invested in Charter more than a decade ago, we saw an opportunity to build scale behind a great management team and operating model," said John Malone.
 
 ### HBO Max Picks 12 European Writers for Script Engine Program
 Thu, 20 Aug 2026 09:50:53 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hbo-max-names-european-writers-for-script-engine-program-1236677587/
@@ -69,100 +104,65 @@ Thu, 20 Aug 2026 06:35:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 Jackson co-starred with the late actress on ABC's 'Nashville' for six seasons.
 
-### Naomi Watts to Receive Zurich Fest Golden Eye Award
-Thu, 20 Aug 2026 04:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/naomi-watts-zurich-fest-golden-eye-award-the-housewife-1236676940/
-
-The two-time Oscar nominee will be honored for her performance in Ben Shirinian’s 'The Housewife,' where she plays the wife of a suspected Nazi.
-
-### Spider-Man: Brand New Day Aims to Swing Past Insidious Sequel for Fourth Box Office Win
-Thu, 20 Aug 2026 03:12:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-1236677495/
-
-'Insidious: Out of the Further' and Jason Statham's 'Mutiny' are among the newcomers set to compete with Sony's Tom Holland-led blockbuster as the summer winds down.
-
-### Did Alex Vindman Just Get Burned by the Larry David Curse?
-Thu, 20 Aug 2026 02:02:24 +0000 — https://www.hollywoodreporter.com/news/politics-news/alex-vindman-larry-david-curse-angie-nixon-florida-primary-1236677481/
-
-There’s really no other explanation for why the whistleblowing military hero got pummeled in his Florida primary. (OK, there is, but this one's more fun.)
-
-### Hayden Panettiere s Neighbor Says She Called 911 Multiple Times to Report Disturbances With Star s Boyfriend
-Thu, 20 Aug 2026 01:02:28 +0000 — https://www.hollywoodreporter.com/news/general-news/hayden-panettieres-neighbor-called-911-report-disturbances-1236677449/
-
-Panettiere died on Sunday at age 36 in Greenville, South Carolina.
-
-### DEA Joins Investigation Into Hayden Panettiere s Death, Sources Say
-Wed, 19 Aug 2026 23:43:50 +0000 — https://www.hollywoodreporter.com/news/general-news/dea-joins-investigation-hayden-panettiere-death-1236677456/
-
-The 'Heroes' and 'Nashville' actress died at age 36 in Greenville, South Carolina.
-
-### How to Watch 2026 Little League World Series Live Online
-Wed, 19 Aug 2026 23:19:45 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-little-league-world-series-2026-baseball-stream-free-1236677338/
-
-The top 20 teams — 10 from the U.S. and 10 international — take on Williamsport, Pennsylvania for the annual 12-day tournament.
-
-### Jack Coleman Remembers Heroes Co-Star Hayden Panettiere, Says He‘s Filled With Sorrow, Regret and Anger Over Death
-Wed, 19 Aug 2026 23:09:18 +0000 — https://www.hollywoodreporter.com/news/general-news/jack-coleman-heroes-hayden-panettiere-tribute-1236677430/
-
-“I love you, Hayden. I’ll miss you. I’m so sorry you suffered,“ the actor, who played the actress‘ TV dad on the NBC series.
-
 ## Deadline
 
-### Venice Head Alberto Barbera Defends Selection Of Russian Director Ilya Khrzhanovsky’s ‘DAU’: “It Is Not Pro-Putin Propaganda”
-Thu, 20 Aug 2026 10:59:24 +0000 — https://deadline.com/2026/08/alberto-barbera-ilya-khrzhanovskys-dau-russia-putin-1237046112/
+### Martin Scorsese Joins Paul Schrader s Venice Drama The Basics Of Philosophy ; Noora Films Boards Sales
+Thu, 20 Aug 2026 14:15:00 +0000 — https://deadline.com/2026/08/martin-scorsese-joins-paul-schrader-film-basics-philosophy-1237046163/
 
-Following weeks of criticism from activists and Ukrainian officials, Venice Film Festival director Alberto Barbera defended his selection of Russian filmmaker Ilya Khrzhanovsky’s feature DAU in a lengthy Instagram message posted on Wednesday. Beginning by describing Russia’s invasion of Ukraine as “bloody and cruel”, Barbera said that critics of Venice and its inclusion of DAU [ ]
+EXCLUSIVE: Ahead of its launch at the Venice Film Festival, Paul Schrader s drama The Basics Of Philosophy has got some key support. Noora Films has joined the film to represent international sales and Schrader s old collaborator Martin Scorsese is aboard as an executive producer. Scorsese and Schrader formed one of the most potent writing-directing partnerships [ ]
 
-### Prime Video To Tell Gary Lineker s Life Story In Docu-Series
-Thu, 20 Aug 2026 10:00:27 +0000 — https://deadline.com/2026/08/prime-video-gary-lineker-documentary-series-1237046098/
+### Josiah Green-Mhlanga, Karla Crome Tom Stourton Join BBC Starz Love Story You Are Here
+Thu, 20 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/bbc-starz-drama-you-are-here-more-cast-1237046105/
 
-Prime Video is to tell the story of footballer-turned-broadcaster Gary Lineker. A four-part miniseries, Lineker, will look at his 50-year career, which has mostly recently seen him become a media and entertainment business owner through his successful podcasting operation Goalhanger. It will also explore how he went from his Mr Nice Guy reputation on the [ ]
+Josiah Green-Mhlanga (Andy and the Band), Karla Crome (Possession) and Tom Stourton (Barbie) have joined Claire Foy and Matthew Macfadyen to star in BBC and Starz drama You Are Here. Based on David Nicholls bestselling book, the series stars Marnie (Foy) and Michael (Macfadyen), who unexpectedly fall in love when their mutual friend Cleo (Crome) [ ]
 
-### FlareFlow Europe s Shorts Strike Four-Title Microdrama Pact
-Thu, 20 Aug 2026 10:00:00 +0000 — https://deadline.com/2026/08/flareflow-shorts-microdrama-deal-1237044053/
+### Charter Closes Acquisition Of Rival Cox, Expanding Spectrum Pay-TV And Broadband To 45 States
+Thu, 20 Aug 2026 13:33:14 +0000 — https://deadline.com/2026/08/charter-cox-merger-spectrum-pay-tv-broadband-1237046154/
 
-EXCLUSIVE: Microdrama platforms FlareFlow and Shorts are sharing the vertical love. The Singapore-based, COL Group-owned FlareFlow and Europe s Shorts will team on a four-strong slate that they say will broaden the landscape of microdrama by dipping into fantasy-led, action, supernatural and revenge-themed storytelling. They say the deal reflects a shared ambition to move vertical entertainment [ ]
+Charter Communications said Thursday it has closed its $34.5 billion acquisition of rival Cox Enterprises, creating a new cable and broadband giant. The combined company will have 38 million subscribers to video, internet and wireless services, with the Spectrum brand to be available in 45 states in the U.S. starting in September. Charter had been [ ]
 
-### Lav Diaz s Venice Title Let Us Through, Dear Ancestors Boarded By Heretic For Sales
-Thu, 20 Aug 2026 09:38:01 +0000 — https://deadline.com/2026/08/lav-diaz-venice-let-us-through-dear-ancestors-sales-heretic-1237046091/
+### Monster: The Lizzie Borden Story Trailer: First Look At Sarah Paulson, Charlie Hunnam, Rebecca Hall In Bloody Ax Murder Tale
+Thu, 20 Aug 2026 13:20:00 +0000 — https://deadline.com/2026/08/monster-the-lizzie-borden-story-trailer-ryan-murphy-netflix-1237030567/
 
-EXCLUSIVE: Lav Diaz s Venice Film Festival title Let Us Through, Dear Ancestors (Makikiraan Po) has been boarded by Greek international sales firm Heretic. The film, about Spain s colonial subjugation of the Philippines, is one of the Filipino auteur s shorter features running only 2 hours 31 minutes. The film, which is playing Out of Competition on [ ]
+UPDATED: There s nothing wrong with blood. Blood is power. Blood is freedom. So begins the dark and disturbing full trailer for Monster: The LIzzie Borden Story, the fourth season of Ryan Murphy and Ian Brennan s anthology series. In it, we get the first reveals of Charlie Hunnam and Rebecca Hall, Lizzie s (Ella Beatty) father and [ ]
 
-### Seriesly Berlin Selects 18 International Projects For New-Look Pitching Competition
-Thu, 20 Aug 2026 09:18:05 +0000 — https://deadline.com/2026/08/seriesly-berlin-international-projects-pitch-initiative-1237046079/
+### Creator Talent Agency Ponte Firm Expands Teams On Both Coasts
+Thu, 20 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/creator-talent-agency-ponte-firm-expands-1237045155/
 
-The Seriesly Berlin Project Pitches has selected 18 international projects from the likes of Star Trek: Discovery writer Ted Sullivan and British author Robert Wilson. Participants will take to the stage at the Seriesly Berlin Conference on September 15-16 at the Fotografiska Berlin in a new-look format that divides the projects in three – with [ ]
+EXCLUSIVE: Another creator-focused management business is building out on both coasts. Shana Davis-Ross s Ponte Firm, which represents lifestyle creators such as Kit Keenan and Audrey Peters, has hired hired four leadership-level execs – two in New York and two in L.A. – and promoted another to a senior role in Texas. Jenna Bissonnette has hired [ ]
 
-### BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK
-Thu, 20 Aug 2026 09:00:00 +0000 — https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305/
+### Heated Rivalry, Widow s Bay The Pitt Lead 2026 TCA Awards: Full Winners List
+Thu, 20 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/2026-tca-awards-winners-heated-rivalry-1237045534/
 
-EXCLUSIVE: The BFI Film Academy, the UK film body s flagship skills incubator for young people aged 16-25, is expanding with the launch of 12 new BFI Film Academy Hubs across the UK. The BFI has said the scheme will focus on “local provision and devolving funding across the UK.” The 12 hubs will be led [ ]
+Hockey, horror comedy and hospital drama lead the way at the 2026 TCA Awards. Heated Rivalry skated off with the marquee Program of the Year prize Thursday as the Television Critics Association revealed the winners of its 42nd annual awards. Widow s Bay topped all programs with three trophies including Outstanding Comedy, and HBO Max s The [ ]
 
-### Naomi Watts Set For Zurich’s Golden Eye Award
-Thu, 20 Aug 2026 05:53:05 +0000 — https://deadline.com/2026/08/naomi-watts-zurich-film-festival-golden-eye-award-1237046058/
+### Chris Pratt s James Reece Is On A Road To Redemption In The Terminal List Season 2 Trailer
+Thu, 20 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/chris-pratt-james-reece-the-terminal-list-season-2-trailer-1237045899/
 
-Naomi Watts will be honored at the Zurich Film Festival with the Golden Eye Award. The festival said Watts is being honored for her “outstanding performance in Ben Shirinian’s The Housewife.” Watts will present the film in Zurich. She stars as the enigmatic wife of a suspected Nazi in the feature. Watts will pick up [ ]
+Prime Video has dropped the first trailer for Season 2 of The Terminal List, which finds Chris Pratt s Jame Reece seeking redemption and a new purpose. Before he was a fugitive, James Reece made a career out of putting terrorists in the dirt, a voiceover is heard in the trailer. He may be exactly what [ ]
 
-### Sons Of Anarchy Creator Kurt Sutter Endorses Charlie Hunnam s FX Series Legends That Reunites Cast Of Biker Drama: I Think You ll Dig It
-Thu, 20 Aug 2026 05:34:03 +0000 — https://deadline.com/2026/08/kurt-sutter-reaction-charlie-hunnam-legends-fx-series-1237046044/
+### Kate Beckinsale Action-Thriller Drifter Boarded By The Syndicate For Sales At TIFF AFM
+Thu, 20 Aug 2026 12:50:03 +0000 — https://deadline.com/2026/08/kate-beckinsale-movie-drifter-boarded-by-the-syndicate-tiff-1237046149/
 
-Sons of Anarchy creator/executive producer Kurt Sutter took to Instagram to assure his followers that he is OK with series star Charlie Hunnam and FX doing a meta take on his motorcycle gang drama with new limited series Legends. I m not involved with Legends at all, nor should I be, Sutter, wearing a yellow beanie, [ ]
+EXCLUSIVE: Shaun Sanghani s The Syndicate has boarded sales rights to Kate Beckinsale action-thriller Drifter, which it will be shopping at the upcoming TIFF and AFM markets. Beckinsale (Underworld) stars with Dermot Mulroney (Chicago Fire), Robert Knepper (Prison Break) and rapper Sticky Fingaz in the project which is filming on location this month throughout Cleveland and Northeast [ ]
 
-### Hayden Panettiere s Heroes Dad Jack Coleman Pays Tribute To Extraordinary Young Woman
-Thu, 20 Aug 2026 03:12:01 +0000 — https://deadline.com/2026/08/hayden-panettieres-heroes-dad-jack-coleman-pays-tribute-1237046037/
+### Snowglobe Co-Founder Eva Jakobsen Joins Nordisk Film
+Thu, 20 Aug 2026 12:18:25 +0000 — https://deadline.com/2026/08/eva-jakobsen-nordisk-film-snowglobe-1237046142/
 
-As Hollywood and fans mourn the death of Hayden Panettiere, her Heroes onscreen dad is recalling the late actress talent and heart. Jack Coleman, who starred as Claire s (Panettiere) father Noah Bennett on the NBC superhero drama, remembered Panettiere as a prodigious talent and extraordinary young woman in a heartfelt statement after her death at [ ]
+The veteran producer and co-founder of the Copenhagen-based indie outfit Snowglobe, Eva Jakobsen, has joined Nordisk Film. Jakobsen co-founded Snowglobe in 2015 and most recently worked through her own production company, Mater Pictures. Jakobsen’s credits include Joachim Trier s The Worst Person In The World, Ralitza Petrova’s Godless, and Lust (2026). Jakobsen’s most recent credit is [ ]
 
-### Saturday Night Live Wraps 2026 Showcases For New Cast: Who Were The Standouts? — The Dish
-Wed, 19 Aug 2026 23:55:00 +0000 — https://deadline.com/2026/08/snl-showcases-2026-new-talent-standout-auditions-1237045776/
+### Semafor Taps Ashley Gold For Key Role Covering Technology
+Thu, 20 Aug 2026 12:00:00 +0000 — https://deadline.com/2026/08/semafor-ashley-gold-technology-1237045829/
 
-EXCLUSIVE: It s that time in the comedy calendar when Saturday Night Live begins taking major focus, with casting for the next season shaping up. Up to this point, all that s been announced for Season 52 is Chloe Fineman s exit after seven seasons as she shifts focus toward acting and other opportunities. But Tuesday, the SNL team wrapped their fifth and [ ]
+Ashley Gold is joining Semafor as senior technology correspondent, taking on a key role in coverage including AI and global politics. Gold joins from Axios, where she was senior tech policy reporter and co-authored the AI+ Government newsletter. She will start on Sept. 8 and report to Semafor s senior Washington editor, Elana Schor. Before Axios, [ ]
 
-### Tracy Tutor Joins The Real Housewives Of Beverly Hills Season 16 Cast
-Wed, 19 Aug 2026 23:24:34 +0000 — https://deadline.com/2026/08/tracy-tutor-real-housewives-of-beverly-hills-season-16-cast-1237045906/
+### ‘The Aggressives’ Director Daniel Peddle To Adapt Southern Crime Thriller ‘Cold Moon Rising’
+Thu, 20 Aug 2026 11:55:07 +0000 — https://deadline.com/2026/08/daniel-peddle-cold-moon-rising-michael-sledge-1237046137/
 
-Million Dollar Listing Los Angeles star Tracy Tutor is joining the cast of The Real Housewives of Beverly Hills. Season 16 of the Bravo reality series is already in production, and a familiar Bravolebrity will be joining the cast. Well… the secret’s officially out, Tutor wrote on Instagram. I’m joining the cast of The Real [ ]
+EXCLUSIVE: Daniel Peddle, the director behind The Aggressives and Beyond the Aggressives: 25 Years Later, has signed on to adapt the Southern crime thriller Cold Moon Rising by North Carolina author Michael Sledge. Cold Moon Rising is Sledge’s debut novel. The book tells the story of a violent home invasion that spirals into a web [ ]
 
-### Jonathan Tropper On Lucky Finale Twist How Ryan Gosling s Voice Got In His Head For Star Wars: Starfighter Crew Call Podcast
-Wed, 19 Aug 2026 23:00:00 +0000 — https://deadline.com/2026/08/star-wars-starfighter-lucky-finale-jonathan-tropper-1237045610/
+### Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival
+Thu, 20 Aug 2026 11:43:05 +0000 — https://deadline.com/2026/08/michael-r-roskam-le-faux-soir-san-sebastian-film-festival-1237046132/
 
-Spoiler warning: This podcast and write-up contains details about the final episode of Apple TV s Lucky. Apple TV s limited series Lucky just dropped its final episode, and the series creator Jonathan Tropper is here with us today to explain just why the nefarious queen-pin Priscilla (Annette Bening) let Lucky (Anya Taylor-Joy) and her father (Timothy [ ]
+San Sebastián has set Le Faux Soir, a WWII feature directed by Belgian filmmaker Michaël R. Roskam, as the closing film of this year’s festival, which is set to run from September 18 to 26. Le Faux Soir will arrive at San Sebastian following its screening at TIFF. The film is based on the book [ ]
 

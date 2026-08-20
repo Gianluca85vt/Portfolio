@@ -1,6 +1,21 @@
-# Games — harvested 2026-08-20T11:03:06.126Z
+# Games — harvested 2026-08-20T14:19:23.385Z
 
 ## Eurogamer
+
+### Hardware spending in the US was so low in July that it nearly matched the 2020 pandemic days when everything was out of stock
+Thu, 20 Aug 2026 13:05:12 +0000 — https://www.eurogamer.net/circana-july-2026-hardware-software-sales
+
+New data from the industry analysts at Circana has revealed that consumers are spending a lot less than usual on gaming hardware or the games themselves. Circana's latest report covers the US market in July, and it includes a lot of concerning data. Read more
+
+### 15 minutes of Black Myth: Zhong Kui gameplay footage provide our first proper look at Wukong's successor yet
+Thu, 20 Aug 2026 12:07:19 +0000 — https://www.eurogamer.net/black-myth-zhong-kui-15-minutes-gameplay
+
+Game Science has delivered a gift for anyone eager to see and hear more from Black Myth: Zhong Kui, the sequel to the incredibly successful Black Myth: Wukong . The developer released 15 chunky minutes of gameplay, giving us a first look at combat and a clearer picture of the protagonist, the Chinese mythological deity Zhong Kui. Read more
+
+### GTA 6 leaker shares footage suggesting link or access to playable build of the game, as Rockstar struggles to contain even more gameplay videos
+Thu, 20 Aug 2026 11:27:51 +0000 — https://www.eurogamer.net/rockstar-gta-6-leaker-full-access-gameplay-leaks-continue
+
+UPDATE 1PM BST: A previous version of this article erroneously suggested the leaker had "full access" to the GTA 6 game, based on the declaration of what appears to be an impersonating social media account. Read more
 
 ### The Duskbloods gameplay leaks ahead of tomorrow's closed beta, showing tense PvP battles with guns, wolves, and velociraptors
 Thu, 20 Aug 2026 09:16:31 +0000 — https://www.eurogamer.net/duskbloods-gameplay-leak-gameplay-pvp-battle-wolves-velociraptors
@@ -47,22 +62,17 @@ Wed, 19 Aug 2026 10:49:16 +0000 — https://www.eurogamer.net/gta-6-leaked-gamep
 
 What appears to be legitimate gameplay footage of Grand Theft Auto 6 has leaked onto the internet, alongside an alleged image of the game's entire map. Read more
 
-### An updated PS5 DualSense Edge controller is apparently coming next year, but you probably shouldn't get get too excited
-Wed, 19 Aug 2026 10:45:59 +0000 — https://www.eurogamer.net/new-dualsense-edge-controller-model-2027-leak
-
-The DualSense Edge, Sony's &pound;200 / $200 pro-style controller for PlayStation 5 and PC, looks to be getting a revised model. That's according to filings on the website of US government agency the Federal Communications Commission (FCC). Read more
-
-### Games are the most optimistic way I have found of looking at the world
-Wed, 19 Aug 2026 10:28:14 +0000 — https://www.eurogamer.net/optimism-week-games-most-optimistic-way-of-looking-at-the-world
-
-I was not a natural parent. The love was there instantly, but with it came all this anxiety I had not expected. Having a baby was like opening the door to a hilariously overstacked closet, and all of a sudden my simple life was buried under endless new things, new worries and new sources of nightmares. Cutlery was suddenly a class of sharp objects. Plug sockets were suddenly electrocution hazards. A mid-day walk through the nearby woods was suddenly filled with uneven flooring, with deadly mushrooms one might accidentally eat. Read more
-
-### Tekken 8 director jumps ship to join Harada's new Vs Studio team
-Wed, 19 Aug 2026 09:06:29 +0000 — https://www.eurogamer.net/tekken-8-director-joins-harada-vs-studio
-
-Kohei Ikeda, the game director of Tekken 8 , has joined Katsuhiro Harada at recently formed and rival SNK developer Vs Studio. Read more
-
 ## GamesIndustry.biz
+
+### Makers Fund raises $250m in fourth round to support interactive entertainment startups
+Thu, 20 Aug 2026 13:00:00 +0000 — https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-support-interactive-entertainment-startups
+
+Venture capital firm Makers Fund has secured $250 million to invest in startups advancing games and interactive entertainment. This brings its total assets under management to $1.5 billion. Read more
+
+### Rockstar hit with more leaks as GTA 6 gameplay and assets appear to circulate on social media
+Thu, 20 Aug 2026 11:09:56 +0000 — https://www.gamesindustry.biz/rockstar-hit-with-more-leaks-as-gta-6-gameplay-and-assets-appear-to-circulate-on-social-media
+
+A hacker group is is posting daily leaks of what appears to be details and footage from a build of GTA 6. Material posted so far includes various gameplay mechanics and assets, as well as a full game map. Read more
 
 ### Why a publisher you've probably not heard of is spending millions of dollars on its Gamescom presence
 Thu, 20 Aug 2026 11:02:20 +0000 — https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence
@@ -104,31 +114,36 @@ Wed, 19 Aug 2026 06:49:31 +0000 — https://www.gamesindustry.biz/vs-studio-adds
 
 Tekken 8 director Kohei Ikeda has joined Katsuhiro Harada's VS Studio. Read more
 
-### Gamescom 2026 sets new record as number of country pavilions increases by 25%
-Tue, 18 Aug 2026 14:15:40 +0000 — https://www.gamesindustry.biz/gamescom-2026-sets-new-record-as-number-of-country-pavilions-increases-by-25
-
-With Gamescom 2026 less than a week away, the event will host nearly 50 pavilions from 40 countries, up 25% and 14% over 2025, respectively. Read more
-
-### Three Epic veterans are building an AI-powered game engine to break the industry's doom cycle
-Tue, 18 Aug 2026 13:32:01 +0000 — https://www.gamesindustry.biz/three-epic-veterans-are-building-an-ai-powered-game-engine-to-break-the-industrys-doom-cycle
-
-Unity and Unreal have dominated the development scene for a long time now, and were used to make roughly 70% of the games released on Steam in 2025 . Godot has seen some significant growth in the past few years , and many big companies still favour proprietary engines &ndash; like Capcom with its RE Engine &ndash; but otherwise, Unity and Unreal have got the game engine market sewn up. Read more
-
-### Bain & Co: Research shows only one in five players seek out new titles
-Tue, 18 Aug 2026 13:00:00 +0000 — https://www.gamesindustry.biz/bain-co-research-shows-only-one-in-five-players-seek-out-new-titles
-
-Global gaming software revenue has grown at a compound annual rate of 3% over the past four years and is expected to continue at this pace for the next four years. But two-thirds of players prefer familiar games or sequels, and only one in five seek new titles. Read more
-
-### Deus Ex creator Warren Spector announces retirement – "it's time to ride off into the sunset"
-Tue, 18 Aug 2026 12:08:03 +0000 — https://www.gamesindustry.biz/deus-ex-creator-warren-spector-announces-retirement-its-time-to-ride-off-into-the-sunset
-
-Deus Ex creator Warren Spector has announced his retirement after over forty years in game development. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### PS5 Beats Switch 2 s US Dollar Sales in Aftermath of Physical Disc Backlash
+Thu, 20 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-beats-switch-2s-us-dollar-sales-in-aftermath-of-physical-disc-backlash
+
+Black Ops 2's crummy port already fifth best-selling game of the year. Consumers rewarded Sony’s decision to stop manufacturing physical games with enough sales for the PS5 to overcome this Switch 2 in the US. This is the first time the console has been above Nintendo’s new hybrid hardware in a while, although there’s an important caveat to keep in mind: the PS5 beat the Switch 2 on dollar sales, but not units. Read the full article on pushsquare.com
+
+### PS6 s Purported $1,000 Price Point Could Lead to a 40% Slump in Sales
+Thu, 20 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps6s-purported-usd1000-price-point-could-lead-to-a-40percent-slump-in-sales
+
+No surprise. It doesn’t really take an in-depth report to determine a $1,000 price point for the PS6 will lead to a slump in sales, but that’s the conclusion Ampere Analysis has come to. In a new document, the industry observers conclude that a “conventionally designed, incrementally improved next-generation console” released in 2028 for $1,000 could lead to a 40% decline in sales compared to the PS5. Read the full article on pushsquare.com
+
+### Review: Brigandine Abyss (PS5) - A Tactical RPG That s No Fire Emblem, But Still Mildly Entertaining
+Thu, 20 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/reviews/ps5/brigandine-abyss
+
+Conqueror's Bad Fur Day. Brigandine Abyss is a tactical role-playing game that requires little tactical nous, and in its early hours bombards you with menus and systems, many of which feel superfluous and fiddly. It doesn't make a great first impression. It begins with you choosing which campaign you want to play. There are six, and each puts you in control of a different faction, with a different lead character. Read the full article on pushsquare.com
+
+### GTA 6 Gameplay Leaker Has an Actual Build of the Game, Still Posting Leaks
+Thu, 20 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaker-has-an-actual-build-of-the-game-still-posting-leaks
+
+Update #3: Leaker proves they have the game in some form. Multiple videos of what appear to be legitimate GTA 6 gameplay are currently being posted to the Internet by a leaker. I've seen two clips so far: the first depicts Jason at his house from the trailer playing some basketball, and the second features some driving and crimes that attract the attention of the cops. I will not be linking to either video, but they are easily found through social media searches at the time of writing. Read the full article on pushsquare.com
+
+### This Is Your Best, Most In-Depth Look at Silent Hill: Townfall Yet
+Thu, 20 Aug 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/08/this-is-your-best-most-in-depth-look-at-silent-hill-townfall-yet
+
+A full 19-minute gameplay deep dive. Konami has published a comprehensive deep dive into the gameplay of upcoming PS5 survival horror game, Silent Hill: Townfall . Across 19 minutes of footage, the opening sequence is revealed alongside protagonist Simon's first steps into the fog-covered Scottish town of St. Amelia. It then introduces the new CRTV device, gets into a bit of exploration, and then the video concludes with some combat. There's even a tease of the Otherworld at the end, as St. Amelia transforms into something entirely different. Read the full article on pushsquare.com
 
 ### Black Myth: Wukong s Follow-Up, Zhong Kui, Looks Absolutely Stunning in New Gameplay
 Thu, 20 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/08/black-myth-wukongs-follow-up-zhong-kui-looks-absolutely-stunning-in-new-gameplay
@@ -164,31 +179,6 @@ This wasn't a side project. Naughty Dog’s standalone online multiplayer game, 
 Wed, 19 Aug 2026 17:45:00 GMT — https://www.pushsquare.com/news/2026/08/tiny-team-working-on-next-horizon-single-player-game-years-away-from-release
 
 See you in the 2030s. If you were looking forward to the next full-length single player Horizon game from Dutch developer Guerrilla, sit tight. As previously reported and reiterated in a Bloomberg article today, a “tiny team” within the Amsterdam studio is working on Aloy’s next adventure. Read the full article on pushsquare.com
-
-### Opinion: Hermen Hulst Has Failed and PS Studios Needs a Change
-Wed, 19 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/features/opinion-hermen-hulst-has-failed-and-ps-studios-needs-a-change
-
-Dutch courage. Trust me, I don’t take any pleasure writing an article like this, but I think Hermen Hulst may need to be ejected from the top job at PS Studios pronto. I’ve been circling this opinion for quite some time, but today’s bad news about Horizon Hunters Gathering is the final nail in the coffin for me. Read the full article on pushsquare.com
-
-### Gran Turismo 7 Bolstered by Another 4 Cars in PS5 Update 1.71
-Wed, 19 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/gran-turismo-7-bolstered-by-another-4-cars-in-ps5-update-1-71
-
-In addition to 3 new World Circuits. The next monthly PS5, PS4 update for Gran Turismo 7 is rolling out worldwide within the next 24 hours, handing players a further four cars to race and three more World Circuits to drive them on. Having downloaded patch 1.71, the following four cars will be added to the game: Read the full article on pushsquare.com
-
-### I m Hyped This Unknown Irem Beat- em-Up Is Making a PS5 Comeback
-Wed, 19 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/im-hyped-this-unknown-irem-beat-em-up-is-making-a-ps5-comeback
-
-Home run. I’ve personally never played Ninja Baseball Bat Man , but I’m vaguely familiar with the 1993 Irem beat-’em-up. I’m pretty over-the-moon with this upcoming revival, then, which is coming to the PS5 on 10th December. Read the full article on pushsquare.com
-
-### GTA 6 Gameplay Leaks Continue as Group Makes Demands of Rockstar
-Wed, 19 Aug 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaks-continue-as-group-makes-demands-of-rockstar
-
-Update #2: Fourth gameplay clip posted online. Multiple videos of what appear to be legitimate GTA 6 gameplay are currently being posted to the Internet by a leaker. I've seen two clips so far: the first depicts Jason at his house from the trailer playing some basketball, and the second features some driving and crimes that attract the attention of the cops. I will not be linking to either video, but they are easily found through social media searches at the time of writing. Read the full article on pushsquare.com
-
-### The Binding of Isaac: Repentance+ Online Is the Only Game Brave Enough to Launch the Same Day as GTA 6
-Wed, 19 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/the-binding-of-isaac-repentanceplus-online-is-the-only-game-brave-enough-to-launch-the-same-day-as-gta-6
-
-Online co-op making its debut on consoles. There has been a lot of noise made about the state of the release schedule for games over the next few months, with many titles big and small doing their utmost to avoid GTA 6 . In case you hadn't noticed, there's a pretty wide radius around 19th November, 2026 — the day Rockstar is set to launch its massive crime sandbox. Very few other games are launching in the same month, let alone the same week. Read the full article on pushsquare.com
 
 ## Game Developer
 
