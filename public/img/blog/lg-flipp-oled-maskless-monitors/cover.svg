@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="LG Display unveils FLiPP, a maskless OLED patterning process">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#33124A"/>
+      <stop offset="100%" stop-color="#7621B0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/>
+      <stop offset="100%" stop-color="#7621B0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- faint subpixel grid, evoking the stencil the process removes -->
+  <g stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2">
+    <path d="M0 120H1200M0 220H1200M0 320H1200"/>
+    <path d="M100 0V420M220 0V420M340 0V420M460 0V420M580 0V420M700 0V420M820 0V420M940 0V420M1060 0V420"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="150" font-size="26" letter-spacing="5" fill="#FFFFFF" fill-opacity="0.5"
+          font-weight="bold">LG DISPLAY · IMID 2026</text>
+
+    <text x="600" y="330" font-size="128" font-weight="900" fill="#FFFFFF">NO MORE MASK</text>
+
+    <text x="600" y="400" font-size="30" fill="#FFFFFF" fill-opacity="0.55" font-weight="bold">
+      FLiPP: OLED PATTERNING WITHOUT THE FMM
+    </text>
+  </g>
+
+  <rect x="500" y="440" width="200" height="8" rx="4" fill="url(#accent)"/>
+
+  <text x="600" y="520" font-size="24" fill="#FFFFFF" fill-opacity="0.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    1.6x brighter, 2.4x longer-lived, claimed. mass production not before late 2027.
+  </text>
+</svg>
