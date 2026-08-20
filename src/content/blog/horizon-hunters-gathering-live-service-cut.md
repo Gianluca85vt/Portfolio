@@ -3,7 +3,7 @@ title: Horizon Hunters Gathering is getting descoped, and it's the Hogwarts Lega
 date: 2026-08-20
 category: Games
 excerpt: Bloomberg reports Guerrilla is stripping the live-service layer out of its Horizon spin-off after bad playtests. That's not just a design retreat — it's an art pipeline built for seasonal cosmetics suddenly needing to be something else entirely.
-cover: /img/blog/horizon-hunters-gathering-live-service-cut/cover.svg
+cover: /img/blog/horizon-hunters-gathering-live-service-cut/shot-01.jpg
 draft: true
 ---
 
@@ -27,6 +27,11 @@ that is not a soft launch number. That is a "turn it off before launch"
 number.
 
 ## What it was pitched as, in February
+
+<figure>
+  <img src="/img/blog/horizon-hunters-gathering-live-service-cut/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Guerrilla Games / Sony Interactive Entertainment, via the official Steam page for Horizon Hunters Gathering</figcaption>
+</figure>
 
 Guerrilla announced Hunters Gathering on 5 February, and the reveal was
 deliberately not another photoreal Aloy adventure. It's a stylised,
