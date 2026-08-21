@@ -1,4 +1,4 @@
-# Embargo watch — updated 2026-08-20
+# Embargo watch — updated 2026-08-21
 
 ## Lifting in the next 14 days
 
@@ -22,7 +22,8 @@ title below is close enough to keep tracking:
 | Title | Type | Claimed date | Where the claim came from |
 |---|---|---|---|
 | Marvel's Wolverine | Game | Full-review embargo still not announced; only the preview/impressions embargo (13 Aug 2026) is confirmed, ahead of the 15 Sept 2026 release | Multiple outlets (PC Gamer, Push Square, TechTimes, egw.news) confirm the 13 Aug preview embargo; checked again today, still nothing official on the full-review date. |
-| Grand Theft Auto VI | Game | No official embargo date. Release confirmed for 19 Nov 2026 (Rockstar's own newswire). Third-party estimates (based on the GTA 5 precedent of a ~2-week pre-launch embargo) guess late Oct/early Nov, but that is a guess, not a Rockstar statement. | Rockstar's newswire confirms the release date directly; the review-embargo date itself remains unannounced everywhere checked. A third leaked gameplay video (watermarked "CyberLeek") surfaced 19 Aug, alongside a Stop Killing Games statement condemning the leaks — leak activity, not an embargo signal. |
+| Grand Theft Auto VI | Game | No official embargo date. Release confirmed for 19 Nov 2026 (Rockstar's own newswire). Third-party estimates (based on the GTA 5 precedent of a ~2-week pre-launch embargo) guess late Oct/early Nov, but that is a guess, not a Rockstar statement. | Rockstar's newswire confirms the release date directly; the review-embargo date itself remains unannounced everywhere checked. Leaker "CyberLeek" escalated again on 20 Aug, posting clips claiming a full working build (Eurogamer, Tom's Hardware, GamesIndustry.biz, Push Square) — still leak activity, not an embargo signal, and Rockstar is pursuing DMCA takedowns. |
+| Call of Duty: Modern Warfare 4 | Game | No review-embargo date found. PC beta running now (weekend one live, weekend two adds Steam shader preloading); full release confirmed for 23 Oct 2026. | Activision's own blog and beta coverage (TweakTown, Neowin, Beebom, TechSpot) confirm beta and release timing; nothing on a review-embargo date yet. Adding to this list to track as release approaches. |
 
 Nothing new found for film or TV review embargoes this update. Checked again for
 major autumn 2026 releases — release-date and casting coverage exists but no
