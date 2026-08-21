@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Nuke 17.1 adds basic relighting for Gaussian splats via placed lights, without needing surface normals">
+  <defs>
+    <linearGradient id="bgNK" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#401A10"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="accentNK" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BE4C00"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+    <radialGradient id="lightConeNK" cx="50%" cy="0%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="splatNK" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgNK)"/>
+
+  <!-- light cones from placed lights, hitting the splat cloud below -->
+  <polygon points="330,0 60,560 600,560" fill="url(#lightConeNK)"/>
+  <polygon points="870,0 1140,560 600,560" fill="url(#lightConeNK)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="150" font-size="26" letter-spacing="6" fill="#FFFFFF" fill-opacity="0.5" font-weight="bold">NUKE 17.1, OPEN BETA</text>
+
+    <text x="600" y="290" font-size="104" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">RELIGHTING</text>
+    <text x="600" y="380" font-size="104" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">SPLATS</text>
+
+    <text x="600" y="432" font-size="26" fill="#FFFFFF" fill-opacity="0.6" font-weight="bold">
+      NO NORMALS, NO SURFACE, NO PROBLEM
+    </text>
+  </g>
+
+  <rect x="500" y="465" width="200" height="8" rx="4" fill="url(#accentNK)"/>
+
+  <!-- a soft cloud of Gaussian-splat-like blobs, lower half, being lit from above -->
+  <g>
+    <circle cx="600" cy="700" r="230" fill="url(#splatNK)" opacity="0.16"/>
+    <circle cx="470" cy="760" r="18" fill="#FFFFFF" opacity="0.5"/>
+    <circle cx="520" cy="700" r="26" fill="#FFFFFF" opacity="0.6"/>
+    <circle cx="590" cy="650" r="30" fill="#FFFFFF" opacity="0.75"/>
+    <circle cx="660" cy="690" r="22" fill="#FFFFFF" opacity="0.55"/>
+    <circle cx="720" cy="750" r="16" fill="#FFFFFF" opacity="0.4"/>
+    <circle cx="560" cy="780" r="14" fill="#FFFFFF" opacity="0.35"/>
+    <circle cx="440" cy="690" r="10" fill="#FFFFFF" opacity="0.3"/>
+    <circle cx="640" cy="620" r="12" fill="#FFFFFF" opacity="0.45"/>
+    <circle cx="380" cy="730" r="9" fill="#FFFFFF" opacity="0.25"/>
+    <circle cx="760" cy="700" r="9" fill="#FFFFFF" opacity="0.25"/>
+    <circle cx="510" cy="620" r="8" fill="#FFFFFF" opacity="0.3"/>
+    <circle cx="690" cy="760" r="11" fill="#FFFFFF" opacity="0.3"/>
+  </g>
+</svg>
