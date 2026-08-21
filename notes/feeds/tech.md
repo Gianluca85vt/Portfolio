@@ -1,6 +1,26 @@
-# Tech — harvested 2026-08-20T17:05:21.870Z
+# Tech — harvested 2026-08-21T05:15:48.868Z
 
 ## Ars Technica
+
+### US distributor of China’s most popular humanoid robots pivots after US ban
+Thu, 20 Aug 2026 22:00:11 +0000 — https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/
+
+A leading US distributor of China’s most popular humanoid robots and robot dogs now plans to produce its own robots at a facility on Long Island, New York. The business pivot comes amid the US government’s growing crackdown on foreign-made robots. The company RoboStore had previously become the main North American distributor for humanoid robots and quadruped robots from Unitree Robotics, a Chinese robotics company that produces some of the most affordable and popular humanoid robot models. Universities such as Harvard and MIT, along with tech companies like Amazon and Nvidia, purchased such robots made in China through RoboStore for their own research and development purposes. “We’ve sold over 1,500 robots and deployed them and worked with customers like Cisco, OpenAI, Nvidia, and over 150 universities,” Teddy Haggerty , founder and CEO of RoboStore, told Ars. Read full article Comments ]]>
+
+### Europe cancels planned upgrades for Ariane 6 rocket
+Thu, 20 Aug 2026 21:40:52 +0000 — https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/
+
+In the two years since it made a largely successful debut, Europe's Ariane 6 rocket has launched eight missions, all of which reached orbit safely. The large, expendable rocket has a capacity of more than 20 metric tons to low-Earth orbit. And to the credit of European rocket scientists and planners, the Ariane 6 has had a substantially smoother rollout than comparable vehicles in the United States—Blue Origin's New Glenn and United Launch Alliance's Vulcan rockets—both of which have had significant growing pains. However, even though the Ariane 6 rocket has had a successful debut, its future is clouded by high costs. Read full article Comments ]]>
+
+### They survived 9/11; 25 years later, their bonds remain unbroken
+Thu, 20 Aug 2026 21:25:25 +0000 — https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/
+
+September 11, 2001, will be remembered as one of the darkest days in American history. As the 25th anniversary approaches, National Geographic, in collaboration with the 9/11 Memorial and Museum, is marking the occasion with a new documentary miniseries: 9/11: Reunited . The three-episode series revisits the personal stories of several survivors of the terrorist attacks, with a twist: It reunites people whose paths crossed at that time to celebrate the bonds they formed 25 years ago. Director Julian Jones was a producer on NatGeo's Emmy-winning 2021 documentary miniseries 9/11: One Day in America . The experience inspired him to return to direct 9/11: Reunited . "What emerged for me [while making the 2021 documentary] was a sense of people showing up for each other, a selflessness and everyday heroism," Jones told Ars. As the 25th anniversary of the attacks approached, he and National Geographic decided to commemorate the milestone with a documentary series focused on that aspect. "We wanted to bring people together to offer gratitude to each other, to answer unanswered questions, to talk about things that maybe they weren't ready to talk about until now, and also to remember their fallen comrades or friends," said Jones. "After 25 years, who do they want to meet? What questions have they got? I think we also wanted to tell the story of what many in the 9/11 community call 9/12, that's the rest of your lives—the journey, and in many cases, the psychological and physical strug
+
+### Roblox must make changes after failing to block adults creeping on kids
+Thu, 20 Aug 2026 17:14:08 +0000 — https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/
+
+Despite making changes last fall to help block adults from messaging unknown children , Roblox is still failing to stop adults from creeping on kids in other ways, Australia’s eSafety commissioner, Julie Inman Grant, said on Thursday. Suspecting that Roblox may not be doing enough to stop child exploitation, eSafety conducted testing earlier this year that flagged alarming gaps in Roblox safeguards. The agency found that adult strangers could still send connection requests to kids, whose “profiles and biographies, including account names, number and names of connections, avatar images, and non-sensitive biographical information such as their interests were visible to anyone on the Roblox platform, with no option to restrict the visibility of this information.” Such requests did not trigger parental alerts, eSafety found, and bad actors could also search kids’ visible-to-anyone contact lists for more targets. Read full article Comments ]]>
 
 ### Genesis joins the giant electric SUV club with new GV90
 Thu, 20 Aug 2026 14:35:58 +0000 — https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/
@@ -42,77 +62,57 @@ Wed, 19 Aug 2026 20:04:41 +0000 — https://arstechnica.com/tech-policy/2026/08/
 
 Last Friday, Google won an auction to acquire a huge amount of Spirit Airlines data. The data doesn’t include personal information or customer data, but instead nearly covers the airline's entire employment and workplace record. To ensure that no individual can be identified in the dataset, Google agreed to use a court-appointed ombudsman to oversee a process to strip any personally identifying information (PII) from the data before it’s transferred to Google. Under the deal, Google agreed to maintain the data in this de-identified form and to never intentionally re-identify the data. And if Google sells access to the data, third parties would supposedly be bound by the same terms. Read full article Comments ]]>
 
-### FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies
-Wed, 19 Aug 2026 19:45:19 +0000 — https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/
-
-The Federal Communications Commission last week eliminated the gigabit speed goal established during the Biden administration and declared that current levels of broadband deployment in the US are acceptable. Though fiber networks have routinely offered such speeds for years, the FCC said the gigabit speed goal is not "technologically neutral," suggesting that it isn't fair to other, slower technologies. In 2024, the FCC raised its broadband benchmark to 100Mbps downstream and 20Mbps upstream, setting the new standard by which to judge whether deployment is reasonable and timely. The FCC at the time also set a long-term speed goal of 1Gbps download speeds paired with 500Mbps upload speeds, saying it would use the goal “as a guidepost for evaluating our efforts to encourage deployment.” Republican Brendan Carr, who is now the FCC chairman, never liked that long-term goal. He proposed abolishing it last year, and the change was finalized on August 14 in the FCC's latest broadband deployment report . The reports are mandated by Section 706 of the Telecommunications Act. Read full article Comments ]]>
-
-### The floodgates are open after another Chinese company lands a reusable rocket
-Wed, 19 Aug 2026 18:41:02 +0000 — https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/
-
-It has been a little more than a month since China recovered an orbital-class rocket booster for the first time. A second launch operator accomplished a similar feat Tuesday in another sign of China's growing launch capability. It took 10 years for a second US launch company, Blue Origin, to propulsively land an orbital-class booster after SpaceX did it with the Falcon 9 rocket in 2015. SpaceX has since added a second reusable rocket to its fleet with Starship and its Super Heavy booster. Perhaps a third American company will join SpaceX and Blue Origin's club in 2027. Rocket Lab, Stoke Space, Relativity Space, and Firefly Aerospace—working in partnership with Northrop Grumman—are working on reusable rockets that could make their first flights in the next couple of years. A similar number of launch companies are working on reusable rockets in China. Some of them operate under the auspices of the sprawling state-owned China Aerospace Science and Technology Corporation (CASC). Others are more commercial in nature, driven by capital investment from private industry. Read full article Comments ]]>
-
-### A fantastical journey unfolds in gorgeous Wildwood trailer
-Wed, 19 Aug 2026 17:06:06 +0000 — https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/
-
-In June, we highlighted a behind-the-scenes featurette on the making of Wildwood , director Travis Knight’s forthcoming stop-motion animated fantasy film. Laika Studios released an extended teaser in May, which racked up over 90 million views. And now we've got the gorgeous full trailer, set to a haunting cover of Avicii's " Wake Me Up ." The film is an adaptation of the 2011 novel by Colin Meloy—frontman of indie folk-rock band The Decemberists—and his wife, illustrator Carson Ellis. Meloy and Ellis live in Portland, Oregon, near Forest Park, where they often hike the trails. In Wildwood , they transformed that local landmark into a magical hidden world filled with talking animals and lurking threats, only accessible to people of The Wood—and select Outsider “half-breeds.” Twelve-year-old Prue McKee discovers the forest while out walking with her baby brother, Mac. A murder of crows swoops down and carries him away, and Prue discovers the Wilderness while hunting for him. Her schoolmate, Curtis Mehlberg, follows her, and both are able to enter that magical world. Fantastical adventures ensue as the pair encounter a mysterious woman, Alexandra, who has lost her son, along with coyotes, bandits, and some pretty big secrets. Read full article Comments ]]>
-
-### mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say
-Wed, 19 Aug 2026 16:53:56 +0000 — https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/
-
-Pharmaceutical partners Moderna and Merck announced on Wednesday that their novel mRNA-based vaccine—individually tailored to target a patient's unique cancer mutations—was effective in a late-stage clinical trial of patients with melanoma, one of the deadliest forms of skin cancer. The announcement was scant on details, but if the success holds, it stands to realize the high aspirations for both mRNA vaccines and individualized cancer-targeting medicines in cancer therapy, providing a first success for both treatment types. The Phase 3 trial included 1,137 patients who had stage IIB–IV melanoma that had been surgically removed prior to their treatment in the trial. Patients were randomized 2-1 to receive either a combination treatment of the tailored mRNA vaccine (intismeran or mRNA-4157) with Merck's established monoclonal antibody cancer treatment Keytruda, or they received treatment with Keytruda alone. Both patient groups were treated for about a year. The trial was placebo-controlled and double-blind, meaning neither the doctors nor the patients knew which treatment patients were randomly assigned to receive. Read full article Comments ]]>
-
 ## The Verge
+
+### Genki’s new customizable controller has a big screen and adjustable buttons
+2026-08-20T22:00:00-04:00 — https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen
+
+After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a large 2.9-inch LCD screen, the Manta looks a lot chunkier than competing controllers. But what really sets it apart is a deeper focus on customizability with numerous settings that can be adjusted using the controller's screen plus buttons and thumbsticks that can be tailored to each player's preferences. The Genki Manta is launching today through a Kickstarter crowdfunding campaign . The earliest backers can preorder the con … Read the full story at The Verge. ]]>
+
+### Google Discover is getting an AI chatbot-tuned feed
+2026-08-20T17:50:22-04:00 — https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed
+
+Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature , rolling out to the Google app in the "coming days," will use AI to automatically tweak your feed and "remember" your preferences for future visits. You'll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you'll be able to describe your preferences. The chatbot will confirm your choices and lay out the types of content it will prioritize, but you'll also have the option to add more information if it doesn't get it qu … Read the full story at The Verge. ]]>
+
+### Riot is ending development on its League of Legends fighting game
+2026-08-20T15:59:09-04:00 — https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development
+
+Riot Games is already winding down work on 2XKO , the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says "active development" will conclude at the end of 2026 because the company hasn't "seen enough players stick with the game to get to a path toward sustainability." Servers will stay online "beyond 2026," and Riot is unlocking all playable characters and refunding money spent on the game. 2XKO launched in an early access beta on PC in October 2025 and hit PS5 and Xbox Series X / S in January . But shortly after, Riot announced it would be cutting staff working on the game , saying at the time t … Read the full story at The Verge. ]]>
+
+### The Genesis GV90 blows the bloody doors off what’s possible in EV design
+2026-08-20T15:52:57-04:00 — https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor
+
+Genesis, Hyundai's luxury brand, just revealed its first full-size, three-row electric SUV for the US market, the GV90 . And arguably it has some of the wildest designs and features in the auto market today. Right off the bat, the coach-style doors signal that things aren't what they seem with the GV90. When the front and rear doors open outward, the B-pillar disappears, creating an extra-large opening into the vehicle - because you're the kind of person who can afford it. Genesis is calling it the Neolun Arch Gate, "the world's first independently opening and closing hidden B-pillar coach door." But it's more than just that. To be sur … Read the full story at The Verge. ]]>
+
+### Mark Zuckerberg bought an Irish castle
+2026-08-20T14:50:14-04:00 — https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland
+
+Mark Zuckerberg. | Image: Cath Virginia / The Verge; Getty Images Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland "several weeks ago," according to The Irish Times . While the exact price of the purchase is unclear, the family could have paid "anywhere between &euro;20 million and &euro;30 million" for the 16,000-square-foot castle, which was restored by its previous owners. "Mark and his family look forward to caring for this historic home and visiting when traveling to Ireland, where Meta maintains its international headquarters," Brian Baker, a spokesperson for Zuckerberg, says in a statement to The Verge . The I … Read the full story at The Verge. ]]>
+
+### Australia says Roblox hasn t fixed its child predator problem
+2026-08-20T13:42:34-04:00 — https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety
+
+Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online Safety Act, including "allegedly failing to have sufficient measures in place to prevent contact between adults and children under 16." While Roblox has put some new safety measures in place, eSafety's testing this year found that the platform "continued to put children at risk, including allowing contact between children and adult strangers." eSafety's testing found that: adults could send connection req … Read the full story at The Verge. ]]>
+
+### FCC officially decides gigabit speeds are too good for you
+2026-08-20T13:38:30-04:00 — https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal
+
+Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting us to gigabit download and half-gigabit upload speeds. How dare we dream of spreading great download and upload speeds across the country! It's wild that 13 years after Comcast said Americans don't need gigabit internet we're somehow back in this conversation. Especially since the private sector has delivered, albeit unevenly, on super high speeds in certain areas; … Read the full story at The Verge. ]]>
+
+### Framework says it s addressing a BIOS update that bricked some of its older laptops
+2026-08-20T13:16:02-04:00 — https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty
+
+The 2023 Framework Laptop 13 with AMD Ryzen 7040-series chips. | Photo by Amelia Holowaty Krales / The Verge Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on Framework's site at the time of this writing. Upon running the update, some users reported their laptops getting stuck on the update screen . While some users on Framework's community forums reported that the company was sending them replacement mainboards under the one-year warranty, several with out-of-warranty boards said they were told they'd have to buy new ones. … Read the full story at The Verge. ]]>
 
 ### It’s Greg Brockman’s OpenAI now
 2026-08-20T11:45:55-04:00 — https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion
 
-OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names. Throughout it all, one person has quietly amassed power: Greg Brockman. Brockman is currently OpenAI's president and co-founder. He's helped lead OpenAI since its inception, described as an "engineering workhorse that pushed to build scaled-up systems that w … Read the full story at The Verge. ]]>
+OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names. Throughout it all, one person has quietly amassed power: Greg Brockman. Brockman is currently OpenAI's president and cofounder. He's helped lead OpenAI since its inception, described as an "engineering workhorse that pushed to build scaled-up systems that wou … Read the full story at The Verge. ]]>
 
 ### This app makes the Pixel 11 s HiLight feature actually useful
 2026-08-20T11:30:34-04:00 — https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful
 
 Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact. And even then, it can only glow one of five colors! This is a massive wasted opportunity for a feature that used to be so beloved on older Android phones, so developers have wasted no time doing what Google won't. X user Dhananjay_Tech developed a new app called HiLight Studio , which lets you do practically anything you want with the HiLight LED array. Did you receive a new Slack notification that m … Read the full story at The Verge. ]]>
-
-### LG’s 65-inch B6 OLED is $300 lower than its previous best price
-2026-08-20T11:08:38-04:00 — https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale
-
-Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities , including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best Buy , it’s $1,399.99 (originally $1,999.99) for the rest of the Thursday, August 20th, which is currently $300 lower than Amazon ’s price. LG B6 OLED TV Where to Buy: $1999.99 $1699.99 at Amazon (65-inch) $1999.99 $1399.99 at Best Buy (65-inch) As someone who typically buys midrange tech, I appreciate that LG’s B-series OLEDs are relatively inexpensive compared to the flagship model, yet it doesn’t skimp on many features. The B6 is actually at the bottom of LG’s OLED tiers, but even the lowest-end LG OLED is going to be very good compared to most other non-OLED TVs. It’s less bright than the C6, but it’ll be plenty bright for most people. Plus, it has contrast-rich 4K picture quality, a capable processor to keep apps running smoothly, and 120Hz refresh rate with variable refresh rate support (Nvidia G-Sync and AMD’s FreeSync Premium). All four of its HDMI ports are version 2.1, supporting the full refresh rate and VRR, along with auto low latency mode. One of the ports has eARC for connecting to a soundbar. window.HYPE_DESK_CONFIG = { productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/03_ninja_creami_16x9.png", productImageAlt: "Ninja NC301 CREAMi Ice Cream Maker", productTitle: "Ninja NC301 CREAMi Ic
-
-### Amazon s drone deliveries are landing in pools and ponds
-2026-08-20T10:59:21-04:00 — https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds
-
-Amazon's speedy drone delivery service will soon reach 500 cities across the US - but that might just mean there are more pools to drop packages into. On Wednesday, ABC7 News Bay Area shared a video showing an Amazon delivery drone hovering over a customer's pool in Texas, before opening its hatch and plopping the package directly into the water. This isn't the first time Amazon's drones have delivered soggy packages. A video shared last July shows a Prime Air drone dropping a package right next to a customer's pool in Arizona, but air sent downward by the drone's propellers blew it straight into the water. In an interview with local news o … Read the full story at The Verge. ]]>
-
-### Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch
-2026-08-20T10:09:31-04:00 — https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker
-
-Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all 170 Tesla Robotaxi rides in Austin monitored by the crowdsourced Robotaxi Tracker were unsupervised, the site's creator, Ethan McKanna, told The Verge . Those rides involved 54 different cars. McKanna has also seen a sharp increase in unsupervised Robotaxis elsewhere, particularly Dallas and Houston, where roughly 30 driverless Teslas have been operating over the past week. That's a substantial change from earlier this summe … Read the full story at The Verge. ]]>
-
-### Here’s what data Comcast says its motion-detecting routers collect
-2026-08-20T10:00:22-04:00 — https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response
-
-Wi-Fi Motion is an opt-in service from Xfinity that turns your Gateway into a motion-sensing device. | Image: Comcast Comcast announced a new platform this week called Xfinity Shield that includes the option to let customers turn their routers into motion sensors . Many people reacted with fear and anger. "I am not enabling this. I am also seriously considering replacing my leased gateway with my own equipment, because a device I do not control sitting in my living room measuring the motion of my family is not a feature I asked for," wrote one customer on the r/Comcast subreddit Some concerns stem from a clause on the support page for the feature, called WiFi Motion , which says Comcast might share motion-sensing data without notifying you if compelled by … Read the full story at The Verge. ]]>
-
-### FromSoftware can do anything
-2026-08-20T10:00:00-04:00 — https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki
-
-There's something just a little bit different about FromSoftware's office in Tokyo. Like with any other successful video game studio, there's extensive security to get in the door, a minimalist lobby with framed posters from the studio's most recent releases, and a large glass display case filled with statues from ceremonies ranging from the BAFTAs to The Game Awards. But the hallways are painted black, a fitting theme for a developer known for crafting dark, gothic worlds and a hint at what new creations are lurking inside. While it has largely become known for a singular style of action game - dubbed "Soulslike," after the massively influ … Read the full story at The Verge. ]]>
-
-### We played The Duskbloods, the Switch 2 s wildest new exclusive
-2026-08-20T10:00:00-04:00 — https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware
-
-The Duskbloods is a world away from the approachable games Nintendo is known for. But for its next Switch 2 exclusive, the company has partnered with Elden Ring developer FromSoftware on a hardcore multiplayer game about vampires. And after spending a few hours playing through its gothic world at FromSoft's offices in Tokyo, I'm convinced that The Duskbloods could end up being one of the most important exclusives for Nintendo's latest console. It's a notable change for the company. People buy Nintendo consoles for Nintendo games. That's a generally accepted truth, and also one that's backed up by data - a quick glance at the bestselling gam … Read the full story at The Verge. ]]>
-
-### Welcome to the AI crisis in math
-2026-08-20T10:00:00-04:00 — https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis
-
-Today on Decoder , I’m talking with Robert Hart, The Verge ’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. It caused a huge debate in the math community, and Rob spent some time talking to some of the most accomplished mathematicians of our time about it. It’s funny that AI systems are all still pretty bad at elementary school arithmetic, but getting increasingly good at very high-end abstract math. That raises some big questions for the field of advanced math. If AI can do math of this caliber, does that mean AI labs can transfer those skills to other domains? What good are academic grants and university programs training new generations of human mathematicians to identify new problems as they try to solve existing ones, if frontier models simply answer all the outstanding questions? What if all this attention around math is just a big marketing exercise for frontier AI labs, which couldn t care less what happens to one of the oldest and most fundamental academic disciplines there is? There’s a lot here, and Robert has talked to a lot of people with a lot of views on all of it. Okay: Verge AI reporter Robert Hart on what AI is doing to math. Here we go. This interview has been lightly edited for length and clarity. Robert Hart, you re our London-based AI 
-
-### This tiny guitar amp is the most unhinged distortion pedal I’ve ever used
-2026-08-20T10:00:00-04:00 — https://www.theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review
-
-It’s loud, brash, and unlike anything else. | Photo: Terrence O’Brien / The Verge Is Amp Crash a guitar amp or a guitar pedal? Yes. Death By Audio's latest is, in fact, both. While it's in a guitar pedal enclosure, Amp Crash is actually a tiny 3-watt amp hooked up to a 2-inch speaker. You can even connect an external speaker if you want. This isn't a digital re-creation of a classic Fender or Marshall like you might get from a Universal Audio amp sim pedal or a Neural DSP Cortex . This is an actual amp with an original design that moves air. The tone you get out of this tiny thing is, unsurprisingly, harsh and boxy. But that's not a criticism. Guitarists like Josh Homme (Queens of the Stone Age), Jack White, and Dan Aue … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -124,7 +124,7 @@ Cooler Master occupies an unusual position in the power supply market. Founded i
 ### Grab Keychron's compact K8 wireless mechanical keyboard for an all-time low of $34 — 87-keys, Gateron Red switches, and white backlight keeb is 56% off
 Thu, 20 Aug 2026 15:40:54 +0000 — https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-keychrons-compact-k8-wireless-mechanical-keyboard-for-an-all-time-low-of-usd34-87-keys-gateron-red-switches-and-white-backlight-keeb-is-56-percent-off
 
-There are loads of budget mechanical keyboard options, but few companies do affordable clackers better than Keychron. And the company's 87-key mainstay, the Keychron K8, is on sale at Woot for the lowest-ever price of just $34.99 when you add the code KEYCRON. In fact, if you're a new Woot customer, the price drops $5 more to just $29! Check out this deal at Woot For this surprisingly low sale price, you get a compact TKL layout, Gateron Red linear switches, and a white backlight – sorry, RGB fans. Note this is the Mac-specific model, but it of course supports both Windows and macOS, and Keychron includes extra keycaps for both operating systems. This model is also wireless, but solely via Bluetooth, so serious gamers will want to connect via the USB-C port for faster response times. K8 Tenkeyless Wireless Mechanical for Ma: was $79.99 now $34.99 All-time low price with code KEYCHRON This 87-key keyboard is nicely compact, sports Gateron Red linear switches, keycaps for both Mac and Windows, and a white backlight. It is wireless, but is Bluetooth-only, without an RF USB dongle. So you may want to plug the keyboard in while gaming. View Deal This model sports a plastic chassis, rather than the metal of some pricier models. But it doesn't look or feel cheap. I used a similar (slightly more compact) Keychron K2 for years as my main keyboard for work and gaming, and it served me well until I upgraded to the prettier, more premium K8 HE last year. I've used three or four Keychron 
+There are loads of budget mechanical keyboard options, but few companies do affordable clackers better than Keychron. And the company's 87-key mainstay, the Keychron K8, is on sale at Woot for the lowest-ever price of just $34.99 when you add the code KEYCRON. In fact, if you're a new Woot customer, the price drops $5 more to just $29! Check out this deal at Woot For this surprisingly low sale price, you get a compact TKL layout, Gateron Red linear switches, and a white backlight – sorry, RGB fans. Note this is the Mac-specific model, but it of course supports both Windows and macOS, and Keychron includes extra keycaps for both operating systems. This model is also wireless, but solely via Bluetooth, so serious gamers will want to connect via the USB-C port for faster response times. K8 Tenkeyless Wireless Mechanical for Mac: was $79.99 now $34.99 All-time low price with code KEYCHRON This 87-key keyboard is nicely compact, sports Gateron Red linear switches, keycaps for both Mac and Windows, and a white backlight. It is wireless, but is Bluetooth-only, without an RF USB dongle. So you may want to plug the keyboard in while gaming. View Deal This model sports a plastic chassis, rather than the metal of some pricier models. But it doesn't look or feel cheap. I used a similar (slightly more compact) Keychron K2 for years as my main keyboard for work and gaming, and it served me well until I upgraded to the prettier, more premium K8 HE last year. I've used three or four Keychron
 
 ### Michigan township combats nuclear weapons data center by passing ban on new electrical infrastructure — 220,000-square-foot hyperscale project is backed by University of Michigan and the Los Alamos National Laboratory
 Thu, 20 Aug 2026 15:37:29 +0000 — https://www.tomshardware.com/tech-industry/data-centers/michigan-township-combats-nuclear-weapons-data-center-by-passing-ban-on-new-electrical-infrastructure-220-000-square-foot-hyperscale-project-is-backed-by-university-of-michigan-and-the-los-alamos-national-laboratory
@@ -178,6 +178,26 @@ China's LineShine is the world's fastest supercomputer – though having said th
 
 ## Phoronix
 
+### Intel Mesa Linux Drivers Now Treating Nova Lake S / U / H / HX As Stable
+Thu, 20 Aug 2026 20:44:45 -0400 — https://www.phoronix.com/news/Intel-Mesa-Nova-Lake-Stable
+
+Intel's open-source Mesa drivers for Iris Gallium3D (OpenGL) and ANV (Vulkan) on Linux are no longer treating next-gen Nova Lake processors with integrated graphics as experimental and off-by-default. With today's Mesa 26.3-devel code, the Intel driver code across Nova Lake's S, U, H, and HX product families are considered stable and enabled by default...
+
+### Linux 7.3 Network Changes Merged But Developers "Completely Overwhelmed" Due To AI/LLMs
+Thu, 20 Aug 2026 16:05:28 -0400 — https://www.phoronix.com/news/Linux-7.3-Networking
+
+All of the networking subsystem feature updates were merged today for the Linux 7.3 kernel's merge window. There are a lot of wired and wireless networking improvements this cycle but also a ton of bug fixes -- including many not so important fixes spun up by AI/LLM agents. The networking subsystem maintainers admit now they are "completely overwhelmed" due to this code churn from the output of AI large language models...
+
+### Rust 1.98 Adds Algebraic Floating-Point Methods Akin To "-ffast-math"
+Thu, 20 Aug 2026 13:29:25 -0400 — https://www.phoronix.com/news/Rust-1.98-Released
+
+Rust 1.98 released today and is headlined the debut of new algebraic floating-point methods...
+
+### KMSCON 10.0.2 Brings asciicast Playback Support, Bug Fixes
+Thu, 20 Aug 2026 13:19:37 -0400 — https://www.phoronix.com/news/KMSCON-10.0.2-Released
+
+KMSCON 10.0.2 debuted today as the latest update to this leading user-space terminal emulator for Linux systems. KMSCON is built around Linux's KMS/DRM interfaces and the most viable alternative to date for in-kernel VTs...
+
 ### KDE Software Now Has Stable Btrfs Snapshot Integration With KIO-Snapshot 1.0
 Thu, 20 Aug 2026 12:21:31 -0400 — https://www.phoronix.com/news/KDE-Btrfs-Snapshots
 
@@ -217,24 +237,4 @@ The Linux kernel has supported the CONFIG_COMPAT_32BIT_TIME Kconfig build time o
 Thu, 20 Aug 2026 05:58:23 -0400 — https://www.phoronix.com/news/KDE-Gear-26.08
 
 KDE Gear 26.08 was released today to deliver the latest collection of KDE application updates...
-
-### X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years
-Wed, 19 Aug 2026 22:18:15 -0400 — https://www.phoronix.com/news/X.Org-Server-26.1-RC1
-
-Following today's release of XWayland 26.1 RC1, X.Org Server 26.1 RC1 was tagged. This xorg-server 26.1 release is aiming to become the first major feature release in five years, succeeding the xorg-server 21.1 series...
-
-### EXT4 Preps More Performance Improvements For Linux 7.3
-Wed, 19 Aug 2026 20:55:19 -0400 — https://www.phoronix.com/news/EXT4-Linux-7.3
-
-In addition to the IOmap improvements helping EXT4 performance in Linux 7.3, the main EXT4 feature pull request has now been submitted for this next kernel version. That pull is set to land yet more performance optimizations for EXT4...
-
-### Two Very Exciting Memory Management Optimizations Going Into Linux 7.3
-Wed, 19 Aug 2026 16:31:26 -0400 — https://www.phoronix.com/news/Linux-7.3-MM
-
-Andrew Morton on Tuesday sent out all of the memory management "MM" updates for the Linux 7.3 merge window. The MM pull was particularly heavy as he noted 1,250 "added-to-MM" emails were sent out this cycle compared to 920 the prior cycle. With a lot of patch churn, he also turned to Google's Gemini AI for writing his patch summaries. In going through the very verbose AI-generated summary, there are two patch series that get me excited on the performance front with Linux 7.3...
-
-### Go Language 1.27 Adds Generic Methods, Struct Improvement & More SIMD
-Wed, 19 Aug 2026 14:23:05 -0400 — https://www.phoronix.com/news/Go-1.27
-
-Go 1.27 was released today as the newest version of this programming language from Google's Go team...
 

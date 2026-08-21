@@ -1,66 +1,66 @@
-# Manga — harvested 2026-08-20T17:05:21.870Z
+# Manga — harvested 2026-08-21T05:15:48.868Z
 
 ## Anime News Network
 
-### Pop Pap Polters Stop-Motion Shorts' Trailer Unveils Cast, More Staff, October 4 Debut
-Thu, 20 Aug 2026 12:02:10 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/pop-pap-polters-stop-motion-shorts-trailer-unveils-cast-more-staff-october-4-debut/.240757
+### New Panty & Stocking with Garterbelt Collaborates with Sexual Wellness Brand TENGA
+Fri, 21 Aug 2026 01:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-20/new-panty-and-stocking-with-garterbelt-collaborates-with-sexual-wellness-brand-tenga/.240751
 
-Atsumi Tanezaki stars as 3 mini ghosts in room of homeowner voiced by Junya Enoki
+A match made in Heaven … well, Panty & Stocking's version of Heaven
 
-### Psyren Volume 1-8 Manga Review
-Thu, 20 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/psyren-volumes-1-8/manga/.240530
+### New Fairy Princess Minky Momo OVA Casts Tomohito Takatsuka, Yōko Hikasa
+Fri, 21 Aug 2026 00:01:35 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/new-fairy-princess-minky-momo-ova-casts-tomohito-takatsuka-yoko-hikasa/.240774
 
-The pages of JUMP run red with the blood of hundreds of canceled manga, so why has <cite>Psyren</cite> stayed in the public consciousness?
+Takatsuka, Hikasa voice key characters Rupert, Peter
 
-### Uta no Princess-sama 3rd Anniversary Concert Canceled
-Thu, 20 Aug 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/uta-no-princess-sama-3rd-anniversary-concert-canceled/.240704
+### Madoka Magica, Monogatari Series Collaborate on New Crossover Shorts
+Thu, 20 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-20/madoka-magica-monogatari-series-collaborate-on-new-crossover-shorts/.240771
 
-Concert for female idol counterpart to <cite>Uta no Prince-sama</cite> franchise launched in 2023
+12 shorts to stream between now & Sunday
 
-### This Week in Anime - Return to the Accursed Island
-Thu, 20 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-08-20/.240715
+### Ani-One Asia Also Removes Chainsmoker Cat Anime From Streaming Lineup
+Thu, 20 Aug 2026 23:27:04 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/ani-one-asia-also-removes-chainsmoker-cat-anime-from-streaming-lineup/.240773
 
-Grab your dice and join Chris and Lucas for a journey through old-school fantasy anime!
+Episode 9 delayed by 1 week to September 2 in Japan
 
-### A Bona Fide Killer Webtoon Views Rise 10-Fold Following Live-Action Series Premiere
-Thu, 20 Aug 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/a-bona-fide-killer-webtoon-views-rise-10-fold-following-live-action-series-premiere/.240741
+### Lego One Piece Animated Special's Trailer Highlights Usopp's Tall Tales
+Thu, 20 Aug 2026 22:41:33 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/lego-one-piece-animated-special-trailer-highlights-usopp-tall-tales/.240772
 
-Views on KakaoPage, Kakao Webtoon rose 10 times compared to week before live-action show's debut
+2-part special debuts on Netflix on September 29
 
-### Brigandine Abyss Game Review
-Thu, 20 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/review/game/ps5-xbox-series-x-s-nintendo-switch-2-pc/brigandine-abyss/.240630
+### New Votoms Anime Films' Trailer Unveils Cast, More Staff
+Thu, 20 Aug 2026 21:33:43 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/new-votoms-anime-films-trailer-unveils-cast-more-staff/.240769
 
-<i>Brigandine Abyss</i> has the makings of a sequel that improves on its predecessor's biggest flaws. In practice, though, the results aren't so straightforward.
+Miyuki Sawashiro, Mabuki Andou play leads in 2 anime films
 
-### The Iceblade Sorcerer Shall Rule the World TV Anime's 2nd Season Reveals October 8 Debut, Theme Song Artists
-Thu, 20 Aug 2026 08:32:50 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/the-iceblade-sorcerer-shall-rule-the-world-tv-anime-2nd-season-reveals-october-8-debut-theme-song-/.240752
+### Cyberpunk Edgerunners 2 Anime's New Teaser Reveals October 20 Netflix Debut
+Thu, 20 Aug 2026 20:29:48 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/cyberpunk-edgerunners-2-anime-new-teaser-reveals-october-20-netflix-debut/.240770
 
-Key visual also revealed
+Episode 1 premiered at Anime Expo last month
 
-### How Do We Relationship? Live-Action Series Reveals Opening Theme in Promo Video
-Thu, 20 Aug 2026 08:23:39 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/how-do-we-relationship-live-action-series-reveals-opening-theme-in-promo-video/.240754
+### The One Piece Anime Remake's Key Art Pays Homage to 1st Manga Chapter
+Thu, 20 Aug 2026 19:58:10 -0400 — https://www.animenewsnetwork.com/interest/2026-08-20/the-one-piece-anime-remake-key-art-pays-homage-to-1st-manga-chapter/.240768
 
-Pilaf Alien performs opening theme song for series debuting on September 10
+Art lovingly recreates 2-page color splash spread that opened original manga
 
-### Chiikawa Anime Film Stays at #1, 5th Live-Action Kingdom Rises to #5 in Japan
-Thu, 20 Aug 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/chiikawa-anime-film-stays-at-no.1-5th-live-action-kingdom-rises-to-no.5-in-japan/.240679
+### Fool Night Anime's Teaser Reveals More Cast, November 26 Worldwide Netflix Debut
+Thu, 20 Aug 2026 19:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/fool-night-anime-teaser-reveals-more-cast-november-26-worldwide-netflix-debut/.240745
 
-2026 <cite>Crayon Shin-chan</cite> film stays at #6, live-action <cite>Blue Lock</cite> film drops to #10
+Junya Enoki, Aya Endō, Kiyomitsu Mizuuchi join cast
 
-### CloverWorks' Omnibus Anime Film Grotesqqque Reveals Trailer for 'A(E)liens' Segment
-Thu, 20 Aug 2026 08:09:04 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/cloverworks-omnibus-anime-film-grotesqqque-reveals-trailer-for-aliens-segment/.240753
+### Please Save My Earth Manga Gets Live-Action Amazon Prime Show Starring Alice Hirose
+Thu, 20 Aug 2026 19:25:09 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/please-save-my-earth-manga-gets-live-action-amazon-prime-show-starring-alice-hirose/.240766
 
-Film opens on November 6 in Japan
+<i>Solanin's</i> Takahiro Miki helms fall 2027 shōjo sci-fi romance
 
-### Kenshi Yonezu, Tōko Miura, Yōko Kuno Join Live-Action Look Back Film as Special Guest Staff
-Thu, 20 Aug 2026 04:58:30 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/kenshi-yonezu-toko-miura-yoko-kuno-join-live-action-look-back-film-as-special-guest-staff/.240748
+### Samurai Harem: Asu no Yoichi Manga Gets New 1-Shot
+Thu, 20 Aug 2026 17:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/samurai-harem-asu-no-yoichi-manga-gets-new-1-shot/.240674
 
-Yonezu to perform guitar, Miura sings, Kuno produces rotoscoped animation based on their performance
+New 1-shot story celebrates 20 years since manga launched
 
-### Necromancer Isekai Anime Reveals Key Visual, 2027 Debut
-Thu, 20 Aug 2026 04:46:30 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/necromancer-isekai-anime-reveals-key-visual-2027-debut/.240749
+### Hollywood Reporter: Live-Action Naruto Film in Talks to Cast Charles Melton as Kakashi
+Thu, 20 Aug 2026 15:33:33 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/hollywood-reporter-live-action-naruto-film-in-talks-to-cast-charles-melton-as-kakashi/.240764
 
-Yoshihiro Akase also joins staff as sound director
+Emmy-nominated actor starred in <i>Riverdale, Beef</i>
 
 ## Crunchyroll News
 

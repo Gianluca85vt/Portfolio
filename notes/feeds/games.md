@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-20T17:05:21.870Z
+# Games — harvested 2026-08-21T05:15:48.868Z
 
 ## Eurogamer
 
@@ -64,6 +64,11 @@ Inside and outside Electronic Arts, everyone is bracing for what's sure to be a 
 
 ## GamesIndustry.biz
 
+### Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live
+Thu, 20 Aug 2026 19:19:08 +0000 — https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live
+
+In a press pre-briefing ahead of next week's Gamescom conference, Geoff Keighley has shed some light on the process of how trailers are selected for the Opening Night Live digital showcase, which will take place on Tuesday. Read more
+
 ### US physical game sales drop to lowest monthly total since 1995 | US Monthly Charts
 Thu, 20 Aug 2026 15:20:49 +0000 — https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts
 
@@ -119,16 +124,41 @@ Wed, 19 Aug 2026 07:50:27 +0000 — https://www.gamesindustry.biz/konamis-castle
 
 Konami has announced the shut down Castlevania: Grimoire of Souls next month. Read more
 
-### VS Studio adds another Tekken veteran as Kohei Ikeda joins as game designer
-Wed, 19 Aug 2026 06:49:31 +0000 — https://www.gamesindustry.biz/vs-studio-adds-another-tekken-veteran-as-kohei-ikeda-joins-as-game-designer
-
-Tekken 8 director Kohei Ikeda has joined Katsuhiro Harada's VS Studio. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Ex-Wrestler Dave Bautista Officially Replaces Ryan Hurst as Kratos in God of War TV Show
+Thu, 20 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/08/ex-wrestler-dave-bautista-officially-replaces-ryan-hurst-as-kratos-in-god-of-war-tv-show
+
+Thoughts? Ex-WWE wrestler and Guardians of the Galaxy star Dave Bautista is reportedly in talks to play Kratos in Amazon’s upcoming God of War live action TV show. Variety reports that the 57-year-old is in discussions to replace Ryan Hurst, who is being recast after tearing his bicep last month . Read the full article on pushsquare.com
+
+### Sony Accused of Blocking Marvel s Wolverine Discounts in Brazil
+Thu, 20 Aug 2026 23:15:00 GMT — https://www.pushsquare.com/news/2026/08/sony-accused-of-blocking-marvels-wolverine-discounts-in-brazil
+
+No savings for you, bub. Sony has been accused of blocking sales of Marvel’s Wolverine via a Brazilian website which allows the use of discount codes. Local store The Gamer Hut , which operates within Shopee, claims that an “external” request required it to prevent the use of vouchers or cease selling the upcoming game. Read the full article on pushsquare.com
+
+### We Don t Need to Aggressively Sell the Console : Sony CEO Says Timing of Memory Crisis Is Lucky for PS5
+Thu, 20 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/we-dont-need-to-aggressively-sell-the-console-sony-ceo-says-timing-of-memory-crisis-is-lucky-for-ps5
+
+"Monetising users is quite important for us". Sony CEO Hiroki Totoki has implied the ongoing memory crisis affecting the entire hardware industry has come at a fortuitous time for the PS5. Interviewed by the Wall Street Journal about the Japanese giant’s transition from electronics to entertainment, he was asked whether spiralling component prices had come at the right time for the PS5 considering it’s already sold over 95 million units . Read the full article on pushsquare.com
+
+### PS5 Fighting Game 2XKO Throws in the Towel, Just Can t Get Enough Players
+Thu, 20 Aug 2026 20:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-fighting-game-2xko-throws-in-the-towel-just-cant-get-enough-players
+
+Less than a year after PS5 launch. The live service space is brutal — and I imagine that cracking it is even harder when you're a fighting game. Fairly high expectations were placed upon 2XKO when it was first announced and eventually released into early access on PC. A free-to-play fighting game felt like a bold step forward for the genre — and being based on League of Legends, it had serious weight behind it in terms of brand recognition. Read the full article on pushsquare.com
+
+### Microsoft Stops Sharing Digital Sales Data with Circana
+Thu, 20 Aug 2026 18:45:00 GMT — https://www.pushsquare.com/news/2026/08/microsoft-stops-sharing-digital-sales-data-with-circana
+
+More projected numbers moving forwards. Microsoft no longer shares digital sales data with US analytics firm Circana , meaning the company will now be forced to project numbers for games under the Xbox, Activision, and Bethesda umbrellas. Circana, formerly NPD, has been a trusted source of sales information in the US for many years, providing monthly breakdowns of hardware and software sales. Read the full article on pushsquare.com
+
+### Wolverine s Incredible Suit Looks So Dang Goofy on PS5
+Thu, 20 Aug 2026 17:15:00 GMT — https://www.pushsquare.com/news/2026/08/wolverines-incredible-suit-looks-so-dang-goofy-on-ps5
+
+You look ridiculous, bub. The Digital Deluxe Edition for Marvel’s Wolverine comes with five exclusive suits, and I’m taken aback by how silly the Incredible Suit looks in Insomniac’s engine. I assume this design is inspired by Logan’s first appearance in 1962’s Incredible Hulk comic book, and I can’t believe how dumb that classic mask looks. Read the full article on pushsquare.com
 
 ### Several Big PS5 Games Have Gone Gold, Some Nearly Two Months Ahead of Launch
 Thu, 20 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/08/several-big-ps5-games-have-gone-gold-some-nearly-two-months-ahead-of-launch
@@ -159,36 +189,6 @@ Thu, 20 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/ill-be
 Thu, 20 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/james-bond-is-officially-back-as-007-first-light-crosses-4-million-copies-sold
 
 Mission accomplished. Publisher and developer IO Interactive has confirmed it's sold over 4 million copies of 007 First Light . It's crossed this impressive milestone in just under three months, having reached 3 million back in June . Read the full article on pushsquare.com
-
-### I Didn t Have a Golden Axe Cartoon on My 2026 Bingo Card
-Thu, 20 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/i-didnt-have-a-golden-axe-cartoon-on-my-2026-bingo-card
-
-Airing next month. Well, this came out of nowhere, didn’t it? A new Golden Axe cartoon, inspired by the arcade and SEGA Genesis brawler, will start streaming on Paramount+ from 16th September. Read the full article on pushsquare.com
-
-### Pretty Pokémon-Like LumenTale Sheds Switch Console Exclusivity, Coming Soon to PS5
-Thu, 20 Aug 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/08/pretty-pokemon-like-lumentale-sheds-switch-console-exclusivity-coming-soon-to-ps5
-
-A LumenTale as old as time. LumenTale: Memories of Trey will soon make the jump to PS5 after a fairly brief stint of Nintendo Switch exclusivity. This is a turn-based, Pokémon-inspired RPG where you gather a team of cutesy creatures. It released on Switch and PC, via Steam, back in May — and it seems to have done pretty well for itself. Read the full article on pushsquare.com
-
-### PS5 Beats Switch 2 s US Dollar Sales in Aftermath of Physical Disc Backlash
-Thu, 20 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-beats-switch-2s-us-dollar-sales-in-aftermath-of-physical-disc-backlash
-
-Black Ops 2's crummy port already fifth best-selling game of the year. Consumers rewarded Sony’s decision to stop manufacturing physical games with enough sales for the PS5 to overcome this Switch 2 in the US. This is the first time the console has been above Nintendo’s new hybrid hardware in a while, although there’s an important caveat to keep in mind: the PS5 beat the Switch 2 on dollar sales, but not units. Read the full article on pushsquare.com
-
-### PS6 s Purported $1,000 Price Point Could Lead to a 40% Slump in Sales
-Thu, 20 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps6s-purported-usd1000-price-point-could-lead-to-a-40percent-slump-in-sales
-
-No surprise. It doesn’t really take an in-depth report to determine a $1,000 price point for the PS6 will lead to a slump in sales, but that’s the conclusion Ampere Analysis has come to. In a new document, the industry observers conclude that a “conventionally designed, incrementally improved next-generation console” released in 2028 for $1,000 could lead to a 40% decline in sales compared to the PS5. Read the full article on pushsquare.com
-
-### Review: Brigandine Abyss (PS5) - A Tactical RPG That s No Fire Emblem, But Still Mildly Entertaining
-Thu, 20 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/reviews/ps5/brigandine-abyss
-
-Conqueror's Bad Fur Day. Brigandine Abyss is a tactical role-playing game that requires little tactical nous, and in its early hours bombards you with menus and systems, many of which feel superfluous and fiddly. It doesn't make a great first impression. It begins with you choosing which campaign you want to play. There are six, and each puts you in control of a different faction, with a different lead character. Read the full article on pushsquare.com
-
-### GTA 6 Gameplay Leaker Has an Actual Build of the Game, Still Posting Leaks
-Thu, 20 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaker-has-an-actual-build-of-the-game-still-posting-leaks
-
-Update #3: Leaker proves they have the game in some form. Multiple videos of what appear to be legitimate GTA 6 gameplay are currently being posted to the Internet by a leaker. I've seen two clips so far: the first depicts Jason at his house from the trailer playing some basketball, and the second features some driving and crimes that attract the attention of the cops. I will not be linking to either video, but they are easily found through social media searches at the time of writing. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -221,19 +221,4 @@ PlayStation-owned Guerrilla Games is reportedly stripping out the live service c
 Wed, 19 Aug 2026 10:34:39 GMT — https://www.gamedeveloper.com/business/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games
 
 The studio is hiring after securing financing for its debut project.
-
-### 'I feel dirty:' EA workers trapped in a maelstrom of cynicism and doubt after Saudi buyout
-Wed, 19 Aug 2026 08:13:19 GMT — https://www.gamedeveloper.com/business/-i-feel-dirty-ea-workers-trapped-in-a-maelstrom-of-after-following-saudi-buyout
-
-Multiple current EA employees share their views on how the publisher's seismic $55 billion take-private will impact the people behind its popular franchises.
-
-### Memory crisis is driving uncertainty over PlayStation 6's launch date
-Tue, 18 Aug 2026 17:16:55 GMT — https://www.gamedeveloper.com/business/memory-crisis-is-causing-uncertainty-over-playstation-6
-
-Sony CEO Hiroki Totoki says the company is yet to fix a date for the PlayStation 6 launch.
-
-### Deus Ex director Warren Spector is retiring after nearly 45 years in game dev
-Tue, 18 Aug 2026 17:14:19 GMT — https://www.gamedeveloper.com/business/deus-ex-director-warren-spector-is-retiring-after-43-years
-
-Spector 'thinks' he's retiring for good, despite having ideas for three games he'd love to make.
 

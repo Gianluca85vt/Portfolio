@@ -1,8 +1,13 @@
-# AI — harvested 2026-08-20T17:05:21.870Z
+# AI — harvested 2026-08-21T05:15:48.868Z
 
 ## OpenAI
 
-### How ChatGPT Work helps Stampli move ideas to market
+### Introducing AI Futures
+Thu, 20 Aug 2026 07:00:00 GMT — https://openai.com/index/introducing-ai-futures
+
+Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
+
+### Stampli cuts launch hours by 68% using ChatGPT Work
 Thu, 20 Aug 2026 00:00:00 GMT — https://openai.com/index/stampli
 
 With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.
@@ -17,23 +22,10 @@ Wed, 19 Aug 2026 07:00:00 GMT — https://openai.com/index/replit
 
 Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.
 
-### ChatGPT Ads expands across Europe
-Tue, 18 Aug 2026 22:00:00 GMT — https://openai.com/index/chatgpt-ads-expands-across-europe
-
-ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.
-
-### Strengthening democratic oversight in national security
-Tue, 18 Aug 2026 19:00:00 GMT — https://openai.com/index/strengthening-democratic-oversight-in-national-security
-
-OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.
-
 ## Hugging Face
 
 ### Up to 3.2x Faster Inference with LFM2.5-DSpark
 Thu, 20 Aug 2026 16:52:57 GMT — https://huggingface.co/blog/LiquidAI/lfm25-dspark
-
-### How Much Memory Does Your Agent Actually Need?
-Tue, 18 Aug 2026 18:09:38 GMT — https://huggingface.co/blog/ibm-research/altk-evolve-hmm
 
 ## Google DeepMind
 

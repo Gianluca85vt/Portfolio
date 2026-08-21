@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-20T17:05:21.870Z
+# Film & TV — harvested 2026-08-21T05:15:48.868Z
 
 ## Variety
 
-### Christian Metal Band Demon Hunter Sues Netflix Over KPop Demon Hunters, Citing Trademark Infringement
-Thu, 20 Aug 2026 17:01:30 +0000 — https://variety.com/2026/music/global/christian-metal-band-netflix-kpop-demon-hunters-1236839131/
+### Chris Hansen Says He Refused to Sign His Rights Away in Order to Screen Robert Pattinson s Primetime
+Fri, 21 Aug 2026 01:43:38 +0000 — https://variety.com/2026/film/awards/chris-hansen-a24-primetime-screening-refused-1236839630/
 
-Christian metal band Demon Hunters have filed a lawsuit against Netflix and AEG Presents over the streamer’s mega-hit animated film “KPop Demon Hunters.” The band, which filed the lawsuit under its corporate entity Hyde Lane, has registered the “Demon Hunter” trademark in a number of categories and is suing for trademark infringement and unfair competition, [ ]
+Chris Hansen didn t get to take a seat for the new A24 movie Primetime. The 66-year-old veteran journalist went to the offices of indie distributor A24 to watch the Lance Oppenheim film, in which he is played by Robert Pattinson, before it bows at the Venice Film Festival. But he left without seeing it. The [ ]
 
-### CNN to Air Farm Aid 2026 Live Featuring Performances by Willie Nelson, John Mellencamp, Dave Matthews, Neil Young and More
-Thu, 20 Aug 2026 17:00:29 +0000 — https://variety.com/2026/music/news/cnn-farm-aid-2026-live-willie-nelson-neil-young-dave-matthews-1236839175/
+### Jaafar Jackson: ‘Michael’ Sequel Will Give More Insight Into Child Abuse Allegations and Let His Voice Be Heard
+Thu, 20 Aug 2026 23:55:49 +0000 — https://variety.com/2026/film/news/jaafar-jackson-michael-sequel-insight-child-abuse-allegations-1236839600/
 
-CNN is returning for a second year in its partnership with Farm Aid, bringing the music festival to audiences nationwide. Farm Aid 2026: Music Festival Live will air live on Saturday, Sept. 26 from 7 p.m. to 11 p.m. ET on CNN and also will stream live on cnn.com/watch and the CNN app. CNN’s airing [ ]
+Now that the second “Michael” movie is closer to starting production, star Jaafar Jackson says it will indeed address the criticisms and child abuse allegations Michael Jackson faced in the 90s. Michael Jackson s nephew Jaafar Jackson says that while he doesn t have much say in how the screenplay is written, he tells GQ Middle East [ ]
 
-### Sterling Point Renewed for Season 2 at Amazon
-Thu, 20 Aug 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/sterling-point-renewed-season-2-amazon-1236839112/
+### Ariana Grande Blasts Trump Administration for Using We Can t Be Friends in Social Post: Your Truth Is False
+Thu, 20 Aug 2026 23:43:10 +0000 — https://variety.com/2026/music/news/ariana-grande-slams-trump-we-cant-be-friends-tiktok-post-1236839607/
 
-Sterling Point has been renewed for Season 2 at Amazon Prime Video, Variety has learned. The news comes just over two weeks after the YA series premiered on Aug. 5. It has been well received by critics, with the first season holding a 90% critical approval rating on Rotten Tomatoes. “It’s been an absolute joy [ ]
+Ariana Grande has once again spoken out against the Trump administration for using one of her songs in a post on social media, this time for setting We Can t Be Friends (Wait For Your Love) as the soundtrack for a post on the Team Trump TikTok account. Team Trump posted a video earlier on Thursday [ ]
 
-### The Odyssey Beats Deadpool Wolverine as Biggest R-Rated Movie of All Time With $1.35 Billion
-Thu, 20 Aug 2026 16:51:48 +0000 — https://variety.com/2026/film/box-office/the-odyssey-biggest-r-rated-movie-all-time-deadpool-wolverine-1236838976/
+### How Star Trek: Strange New Worlds Pulled Off That Madcap Puppet Episode
+Thu, 20 Aug 2026 22:30:00 +0000 — https://variety.com/2026/tv/news/star-trek-strange-new-worlds-puppet-episode-1236833011/
 
-The Odyssey has notched another record on its epic box office voyage. Christopher Nolan s blockbuster The Odyssey is officially the highest-grossing R-rated movie of all time with $1.352 billion worldwide, overtaking the benchmark set by 2024 s Deadpool Wolverine with $1.338 billion. The Odyssey landed in theaters on July 17, collecting a mighty $123 million [ ]
+SPOILER ALERT: This article contains spoilers for “Star Trek: Strange New Worlds” Season 4 Episode 5, titled “Level Five Transporter Accident, now streaming on Paramount+. At long last, the most anticipated event in recent “Star Trek” memory is here. No, not another movie or another series focused on a legacy character. We are of course [ ]
 
-### Steven Yeun to Lead Netflix Series Pagans From Say Nothing Creator Joshua Zetumer
-Thu, 20 Aug 2026 16:37:31 +0000 — https://variety.com/2026/tv/news/steven-yeun-netflix-series-pagans-1236839158/
+### Prime Video Unveils Landmark $2 Billion-Plus Investment in Latin American Entertainment
+Thu, 20 Aug 2026 22:19:29 +0000 — https://variety.com/2026/film/global/prime-video-2-billion-investment-latin-america-1236839446/
 
-Steven Yeun is set for the lead role in the upcoming Netflix supernatural drama Pagans, Variety has confirmed. The show was originally announced with a straight-to-series order last year in a competitive situation. The logline states that it follows a man (Yeun) who becomes the sole caretaker of his two children after the tragic loss [ ]
+Prime Video has unveiled a landmark $2 billion-plus investment plan in Latin American entertainment spanning 2027 to 2030 in a concerted bid to increase viewership and engagement. The move comes in what is considered the second fastest growing region for streaming in the world, with Netflix the clear frontrunner. At an inaugural showcase event in [ ]
 
-### Golden Axe Trailer: Matthew Rhys and Lisa Gilroy Star in Animated Series Based on Sega s Classic Video Game
-Thu, 20 Aug 2026 16:30:00 +0000 — https://variety.com/2026/tv/news/golden-axe-trailer-matthew-rhys-sega-paramount-1236838764/
+### Dave Bautista Officially Set as Kratos in God of War TV Series
+Thu, 20 Aug 2026 22:00:00 +0000 — https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394/
 
-Paramount+ has unveiled the trailer for “Golden Axe,” a new adult animated comedy series based on Sega’s classic 1989 beat-em-up video game. According to the official logline, “Golden Axe” follows “warriors Ax Battler, Tyris Flare and Gilius Thunderhead as they reunite to save Yuria from the evil giant Death Adder, who just won’t seem to [ ]
+Dave Bautista is officially taking up the mantle of the God of War. Variety has learned that the actor is now set to lead the Amazon Prime Video TV series based on the video game franchise in the role of Kratos. It was originally reported earlier this month that Bautista was in talks to play [ ]
 
-### Practical Magic Gets Witchy Jewelry Collection Ahead of Sequel
-Thu, 20 Aug 2026 16:15:39 +0000 — https://variety.com/2026/shopping/news/practical-magic-jewelry-collection-awe-inspired-shop-online-1236831506/
+### The Hollies Officially Call It Quits, as Last Two Members of Classic 1960s Lineup Retire After Being in Band for 63 Years
+Thu, 20 Aug 2026 21:53:02 +0000 — https://variety.com/2026/music/news/hollies-retire-original-members-tony-hicks-bobby-elliott-1236839526/
 
-Nearly three decades after Sandra Bullock and Nicole Kidman first cast their spell as the Owens sisters, Practical Magic is getting a little extra sparkle. The Los Angeles-based jewelry brand Awe Inspired has teamed with Warner Bros. Pictures on a new fine jewelry collection inspired by Practical Magic 2, the upcoming sequel to the 1998 [ ]
+The Hollies have officially called it a day. And perhaps, like many, you didn t even realize a version of that classic rock band was still performing. Yet the Rock and Roll Hall of Fame-inducted group had endured in some form and continued to tour since 1962 — including two members who go back virtually to [ ]
 
-### BlizzCon 2026 Sets T-Pain, Simu Liu, deadmau5, YOASOBI and More Celeb Guests
-Thu, 20 Aug 2026 16:00:00 +0000 — https://variety.com/2026/gaming/news/blizzcon-celeb-guests-tpain-simu-liu-deadmau5-1236838550/
+### Lawmakers Offer Film Industry a Fix on California Tax Credit Cap
+Thu, 20 Aug 2026 21:41:23 +0000 — https://variety.com/2026/film/news/lawmakers-film-industry-tax-fix-1236839543/
 
-T-Pain, Simu Liu, deadmau5, YOASOBI and more celebrities will be making special appearances for the return of Blizzard s BlizzCon fan event this September in Anaheim, California. Presented by Blizzard Entertainment, the video game studio behind franchises including “World of Warcraft,” “Diablo IV,” “Overwatch 2,” “StarCraft” and “Hearthstone,” BlizzCon brings players together from around the world [ ]
+Lawmakers in Sacramento introduced a budget fix on Thursday that helps film producers by adjusting a state cap on tax credits. The agreement, first reported by Variety on Tuesday, falls short of a full carveout for film and TV tax credits from a blanket $5 million annual cap, which industry leaders have been seeking since [ ]
 
-### Hunting Wives Sets Season 2 Release Date, Drops First-Look Photos
-Thu, 20 Aug 2026 15:07:32 +0000 — https://variety.com/2026/tv/news/hunting-wives-season-2-release-date-first-look-1236839062/
+### Netflix Exec Andy Weil Jumping to Amazon as Head of Comedy
+Thu, 20 Aug 2026 21:33:09 +0000 — https://variety.com/2026/tv/news/netflix-exec-andy-weil-amazon-head-of-comedy-1236839544/
 
-Netflix has set the premiere date for The Hunting Wives Season 2. The second season of the soapy drama will debut on Thanksgiving Day, Nov. 26. It will consist of eight episodes. Netflix has also released first-look photos from Season 2, which can be seen below. The series stars Brittany Snow, Malin Åkerman, Dermot Mulroney, [ ]
+Comedy development exec Andy Weil is exiting Netflix after 11 years to join Amazon as its new head of comedy. The exec rejoins his former Netflix boss Peter Friedlander, now head of global TV at Amazon MGM Studios. Weil is a well-known comedy buff who has championed some of Netflix s biggest laffers, including Master of [ ]
 
-### Yellowjackets Sets Fourth and Final Season Release Date
-Thu, 20 Aug 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/yellowjackets-final-season-4-release-date-1236839026/
+### Diane Warren Adopts West Hollywood s Runaway Pig: Welcome Wilbur!
+Thu, 20 Aug 2026 21:18:14 +0000 — https://variety.com/2026/music/news/diane-warren-adopts-runaway-pig-wilbur-1236839382/
 
-Yellowjackets Season 4 has set its premiere date at Paramount+. The fourth and final season of the critically-acclaimed series will debut on Nov. 20 on Paramount+ with the premium plan. The official description for the fourth season states, As the survivors race to bury their sins before rescue arrives and an old flame roars back [ ]
+The viral story of a runaway pig in West Hollywood turned out to have a Hollywood ending. This past weekend, a video showed a piglet running through the streets of West Hollywood. Jamaal Harrison, who filmed the video, is seen chasing the pig as he yells, There s a pig in West Hollywood! He later says, [ ]
 
 ## The Hollywood Reporter
 
-### Sterling Point Renewed for Season 2 at Prime Video
-Thu, 20 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/sterling-point-renewed-season-2-prime-video-1236677755/
+### Billy Bob Thornton Says Holly­wood Wasn’t Nice to Taylor Sheridan, But That Texas Accepted Him
+Fri, 21 Aug 2026 04:32:07 +0000 — https://www.hollywoodreporter.com/tv/tv-news/billy-bob-thornton-hollywood-wasnt-nice-taylor-sheridan-1236678230/
 
-The Megan Park-created coming-of-age series stars Ella Rubin,Amélie Hoeferle, Jacob Whiteduck-Lavoie, Daniel Quinn-Toye, Bo Bragason and Keen Ruffalo.
+After leaving Los Angeles, the prolific TV creator went on to build a ranching empire in Texas.
 
-### Melissa McCarthy s Animated Margie Claus Sets 2027 Release as Jim Gaffigan, Andrew Scott Join Cast
-Thu, 20 Aug 2026 16:54:05 +0000 — https://www.hollywoodreporter.com/movies/movie-news/margie-claus-melissa-mccarthy-animated-release-cast-1236677747/
+### Chris Hansen Didn t Watch Primetime Screening Because A24 Wanted Me to Sign Away My Rights
+Fri, 21 Aug 2026 03:36:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-didnt-watch-primetime-a24-sign-his-rights-away-1236678240/
 
-Meghan Trainor will write and produce original songs for the film that sees Santa's wife set out to rescue him.
+The former 'To Catch a Predator' host said he went to the studio's offices for a private screening of the Robert Pattinson-led film but left without seeing it.
 
-### DAU Director Defends Film After Ukraine Backlash
-Thu, 20 Aug 2026 15:49:30 +0000 — https://www.hollywoodreporter.com/movies/movie-news/dau-director-defends-film-ukraine-backlash-1236677667/
+### Neon Sets Early Premium-Format Release for Na Hong-jin s Hope (Exclusive)
+Fri, 21 Aug 2026 03:24:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/neon-premium-format-release-na-hong-jin-hope-1236678228/
 
-Ilya Khrzhanovsky says attacks on his film, including from the Ukraine Ministry of Culture, are factually wrong and misrepresent the movie. “DAU is not an instrument of Russian state cultural policy. It is an artistic statement about the nature of totalitarian evil.”
+The Korean action spectacle, now opening on Sept. 7 at 175 large-format locations, was one of the buzziest films to emerge from this year's Cannes Film Festival, where THR's critic hailed it an “instant cult classic.”
 
-### The Cloning Company Trying to Bring Back the Woolly Mammoth Enlists Paw Patrol in Its Efforts (Exclusive)
-Thu, 20 Aug 2026 15:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/paw-patrol-genetic-engineering-bioscience-film-1236677672/
+### Gwyneth Paltrow Pokes Fun at That Viral Dinner Party Invite for OpenAI s Sam Altman
+Fri, 21 Aug 2026 02:47:50 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gwyneth-paltrow-sam-altman-dinner-invite-openai-1236678196/
 
-Some real 'Jurassic Park' stuff from the 'Dino Movie' gang.
+She's going to need more chairs: The Goop founder posts a tongue-in-cheek series of dinner party invites in honor of 'Sex and the City' siren Samantha Jones, Shrek, Jessica Rabbit and Chanty Beluga.
 
-### Outer Banks Star Madelyn Cline Is Entering Uncharted Waters
-Thu, 20 Aug 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/madelyn-cline-outer-banks-end-day-drinker-film-1236676362/
+### The Magic Faraway Tree Review: Claire Foy and Andrew Garfield in an Exhaustingly Cutesy Kid Flick
+Thu, 20 Aug 2026 23:32:18 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-magic-faraway-tree-review-claire-foy-andrew-garfield-1236666316/
 
-Netflix has turned plenty of young actors into overnight sensations. Turning them into movie stars has proved trickier. But with a Johnny Depp thriller and a Judd Apatow comedy on deck, this one is heading straight for that perilous crossing.
+The visually colorful adaptation of Enid Blyton's beloved children's book also features Rebecca Ferguson, Nicola Coughlan and Jessica Gunning.
 
-### Rosie O Donnell Joke About Trump and Natalie Harp Draws Gasps From Kimmel Crowd
-Thu, 20 Aug 2026 15:23:32 +0000 — https://www.hollywoodreporter.com/tv/tv-news/rosie-odonnell-trump-natalie-harp-1236677673/
+### Cameron Diaz s Netflix Action-Comedy Bad Day Gets December Release and First Look
+Thu, 20 Aug 2026 23:16:08 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165/
 
-The guest host mocked the president's close relationship with the White House staffer.
+Ed O'Neill and Danielle Brooks also star in director Jake Szymanski's action-comedy.
 
-### Director on One of Hayden Panettiere’s Last Films Says Her Team Wanted Him to Participate in an “Intervention”
-Thu, 20 Aug 2026 15:12:03 +0000 — https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-team-intervention-before-death-1236677658/
+### Lanterns EP Damon Lindelof Weighs In on 2026’s Adaptation Wars: Shouldn t We Be Beyond This by Now?
+Thu, 20 Aug 2026 22:59:58 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lanterns-damon-lindelof-adaptations-1236677970/
 
-Griff Furst directed the actress in 'A Breed Apart,' which released in May 2025.
+From 'The Odyssey' to 'Resident Evil' and 'Lanterns,' creative license has fans up in arms. Lindelof isn't surprised.
 
-### Yellowjackets Announces Final Season Premiere Date With Help From Kurt Loder
-Thu, 20 Aug 2026 15:00:03 +0000 — https://www.hollywoodreporter.com/tv/tv-news/yellowjackets-final-season-premiere-date-1236677674/
+### L.A. Mayoral Candidate Nithya Raman Says Legality of Paramount-Warner Bros. Merger “Should Be Decided in Court”
+Thu, 20 Aug 2026 22:40:26 +0000 — https://www.hollywoodreporter.com/business/business-news/nithya-raman-paramount-warner-bros-court-1236678117/
 
-The former MTV News anchor is featured in a teaser video for the coming season.
+As Mayor Karen Bass called for a quick resolution to the standoff, her rival in the 2026 elections, Nithya Raman, said the legal process should take its course.
 
-### Tribeca 25 Doc Trailer Highlights Post-9/11 Origins of Festival: Devastation Downtown (Exclusive)
-Thu, 20 Aug 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tribeca-25-doc-trailer-post-911-festival-origins-1236677676/
+### Dave Bautista Officially Cast as Kratos in God of War Series
+Thu, 20 Aug 2026 22:19:43 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dave-bautista-god-of-war-kratos-1236663324/
 
-The Matt Tyrnauer film will debut on Netflix on the 25th anniversary of the terrorist attacks.
+The 'Guardians of the Galaxy' actor will replace Ryan Hurst in the Prime Video show after Hurst was injured on set.
 
-### Sons of Anarchy Creator Kurt Sutter Reacts to Spinoff: I m Not Involved, Nor Should I Be
-Thu, 20 Aug 2026 14:24:59 +0000 — https://www.hollywoodreporter.com/tv/tv-news/sons-of-anarchy-kurt-sutter-legends-spinoff-1236677650/
+### Streaming Ratings: Masters of the Universe Powers to No. 1 Debut
+Thu, 20 Aug 2026 21:35:42 +0000 — https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-20-26-2026-1236678107/
 
-Sutter gives FX's 'Legends' his full endorsement: "Watch this motherf***er, it's so well done."
+'The Hawk' and 'Ride or Die' are the two biggest original series for the week of July 20.
 
 ## Deadline
 
-### Power Star Marcus Callender Sets Spades: The Play National Tour Dates
-Thu, 20 Aug 2026 17:00:03 +0000 — https://deadline.com/2026/08/power-star-marcus-callender-spades-the-play-national-tour-1237046474/
+### Chris Hansen Was Turned Away From Primetime Screening After Refusing To Sign Standard NDA, Not Sign Away His Rights
+Fri, 21 Aug 2026 03:02:34 +0000 — https://deadline.com/2026/08/chris-hansen-turned-away-primetime-refusing-sign-nda-1237047193/
 
-EXCLUSIVE: Marcus Callender, best known for starring in Power and Wu-Tang: An American Saga, is taking his Spades: The Play on a national tour. The stage play is set to run 76 performances across Washington, D.C., Los Angeles, Atlanta, New Orleans and Miami this fall, following a four-week debut run in Harlem last November. I [ ]
+After Chris Hansen claimed he was turned away from a screening A24 s Primetime, it would appear he refused to sign a standard NDA. On Thursday, a source told Deadline that the former To Catch a Predator host was not asked to sign away my rights in order to see the Lance Oppenheim-helmed thriller about him, [ ]
 
-### The Audacity Season 2 Adds Usman Ally As Series Regular
-Thu, 20 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/usman-ally-the-audacity-season-2-cast-1237045607/
+### Outer Banks Star Madison Bailey On Show s Lack Of Queer Representation, Desire To Play LGBTQ Role: I ve Been Manifesting It
+Fri, 21 Aug 2026 02:07:14 +0000 — https://deadline.com/2026/08/outer-banks-madison-bailey-lack-queer-representation-1237047181/
 
-EXCLUSIVE: Usman Ally has joined the upcoming second season of AMC s The Audacity as a series regular. He will portray Byron Zandani, a senior Silicon Valley lawyer, who is constantly trying to put out proverbial fires and to navigate ethically ambiguous decisions. Composed and thoughtful, he’s worn down by the relentless drive of tech CEOs. [ ]
+With Outer Banks coming to an end, Madison Bailey wants to spread her wings as she contemplates the future of her career. The openly pansexual actress recently discussed the lack of queer representation on the Netflix show, which released its fifth and final season on Thursday, revealing that she wishes her character Kiara came out [ ]
 
-### Manager Alyssa Manning Joins Untitled
-Thu, 20 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/alyssa-manning-joins-untitled-1237046166/
+### Blue Eye Samurai Renewed For Third Final Season At Netflix; Season 2 Gets Premiere Window — Watch The Teaser
+Fri, 21 Aug 2026 01:56:05 +0000 — https://deadline.com/2026/08/blue-eye-samurai-renewed-third-final-season-netflix-1237047184/
 
-EXCLUSIVE: Alyssa Manning has joined Untitled as a manager based in the company s New York office. Most recently at Mgmt Entertainment, Manning reps digital creator and crossover talent whose careers span traditional entertainment, digital platforms and new media. In joining Untitled, she brings along Samantha Coulter, who has been part of her team and will serve [ ]
+Mizu s journey for justice is coming to an end as Blue Eye Samurai is renewed for a third and final season. On Thursday, Netflix announced the animated action series is ending after three seasons, while sharing the teaser and an January 2027 launch date for Season 2, which has recently finished production. Meanwhile, Season 3 [ ]
 
-### The Pitt Adds 7 To Season 3 Recurring Cast
-Thu, 20 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/the-pitt-recurring-guest-cast-season-3-1237046447/
+### Trouble In Paradise: John Ross Bowie Brian Posehn On Who Ruined Utopia In Stuart Fails E5
+Fri, 21 Aug 2026 01:30:00 +0000 — https://deadline.com/2026/08/stuart-fails-john-ross-bowie-brian-posehn-episode-5-1237047095/
 
-EXCLUSIVE: A slew of new patients, a doctor, and a hospital executive will be welcomed to the Pittsburgh Trauma Medical Center on HBO Max s medical drama The Pitt, as 7 new actors have been cast in Season 3. Stephen Chang (Bosch: Legacy, The Last of Us: Part II), Barry Clifton (The Madison, The Thing About Pam), Chris Diamantopoulos (Dark Matter, The Lincoln [ ]
+SPOILER ALERT: The story includes details about Episode 5 of HBO Max s Stuart Fails To Save the Universe. In Episode 5 of Big Bang Theory spinoff Stuart Fails To Save the Universe, our quartet of inter-dimensional travelers Stuart Bloom (Kevin Sussman), Denise (Lauren Lapkus), Bert (Brian Posehn) and Barry Kripke (John Ross Bowie), land in [ ]
 
-### ‘Sterling Point’ Renewed For Season 2 By Prime Video
-Thu, 20 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/sterling-point-renewed-season-2-prime-video-1237046454/
+### Ariana Grande Slams Trump For Using Her Song In Anti-Trans TikTok: Your Truth Is False
+Thu, 20 Aug 2026 23:08:13 +0000 — https://deadline.com/2026/08/ariana-grande-slams-trump-using-song-anti-trans-tiktok-1237047037/
 
-Prime Video has ordered a second season of drama series, Sterling Point. The eight-episode series debuted on August 5 and quickly became a top series on Prime Video. The YA series renewal marks three for three in Prime Video’s recent tidal wave of projects in the genre after Off Campus received a Season 2 renewal months [ ]
+As Ariana Grande winds down her Eternal Sunshine Tour, she s the latest pop icon to call out Donald Trump for using her music. On Thursday, the three-time Grammy winner commented on a TikTok video posted by the Trump campaign, which used Grande s 2024 single We Can t Be Friends (Wait for Your Love) to promote anti-trans [ ]
 
-### The Odyssey Slays Deadpool Wolverine To Become Highest Grossing R-Rated Movie Ever At Global Box Office
-Thu, 20 Aug 2026 16:51:46 +0000 — https://deadline.com/2026/08/the-odyssey-box-office-record-r-rated-1237046481/
+### ‘Outer Banks’ Creators Break Down Season 5’s “Earned” Ending, JJ’s Presence That Supernatural Twist
+Thu, 20 Aug 2026 22:35:56 +0000 — https://deadline.com/2026/08/outer-banks-season-5-ending-explained-by-creators-interview-1237044830/
 
-It s official, Universal s The Odyssey has become the highest grossing R-rated movie ever at the global box office with $1.352 billion, unseating Deadpool Wolverine which ended its worldwide run at $1.33B. Deadpool Wolverine star Ryan Reynolds spilled the beans on social media prior to Uni making the record official. The pic has already [ ]
+SPOILER ALERT: The story includes details about Season 5 of Netflix s Outer Banks. There were a lot of full-circle elements in the fifth and final season of Outer Banks. The series ended the way it started, with a hurricane. Sarah (Madelyn Cline) wore a version of her iconic Midsummers white dress from Season 1 to [ ]
 
-### ABC And FCC Duel Over Court Jurisdiction And Timing In Latest Filing In Network s First Amendment Case
-Thu, 20 Aug 2026 16:39:46 +0000 — https://deadline.com/2026/08/abc-trump-fcc-lawsuit-hearing-1237046311/
+### Jaafar Jackson Says Michael Sequel Will Give Even More Insight Into Child Abuse Allegations From His Point Of View
+Thu, 20 Aug 2026 22:30:00 +0000 — https://deadline.com/2026/08/jaafar-jackson-michael-sequel-child-abuse-allegations-1237046974/
 
-ABC is proposing a hearing as soon as Friday on its request for a temporary restraining order in its First Amendment lawsuit against the FCC, while the agency signaled that it plans to challenge the litigation as premature. The plans were laid out on Thursday on in a joint status report from the parties, as [ ]
+Jaafar Jackson will reprise his role as Michael Jackson in the Michael biopic sequel in the works at Lionsgate and the late singer s estate. In a new interview, Jaafar Jackson said he would want his uncle s point of view on all the child abuse allegations. I think the second film will give even more insight [ ]
 
-### Independent Artist Group Signs Love Hurts Director Jonathan Eusebio
-Thu, 20 Aug 2026 16:30:00 +0000 — https://deadline.com/2026/08/jonathan-eusebio-signs-iag-1237046183/
+### Insidious: Out Of The Further To Scare Up $50M+ WW; Spider-Man: Brand New Day To Prevail With $85M+ WW In Fourth Frame Box Office Preview
+Thu, 20 Aug 2026 22:15:00 +0000 — https://deadline.com/2026/08/spider-man-insidious-out-of-the-further-global-box-office-1237046811/
 
-EXCLUSIVE: Jonathan Eusebio, the stunt coordinator and second unit director who made his feature directorial debut with the recent Universal action comedy Love Hurts, has signed with Independent Artist Group. Starring Academy Award winners Ke Huy Quan and Ariana DeBose, Love Hurts follows Marvin Gable (Quan), a mild-mannered Milwaukee realtor whose former life as an assassin resurfaces when his [ ]
+Dog days of August? What dog days of August do you speak of? Absolutely none here as Spider-Man: Brand New Day heads for a healthy fourth weekend of $35 million at this weekend s domestic box office, and $85M worldwide. That 50% fourth-weekend decline is on par with Disney/Marvel s Avengers: Endgame. As we told you, Spider-Man s [ ]
 
-### Golden Axe Animated Series Starring Matthew Rhys, Danny Pudi, Gets Release Date At Paramount+
-Thu, 20 Aug 2026 16:30:00 +0000 — https://deadline.com/2026/08/golden-axe-animated-series-release-date-matthew-rhys-1237046241/
+### Dave Bautista Set To Play Kratos In ‘God Of War’ As Amazon Series Recasts Lead
+Thu, 20 Aug 2026 22:00:00 +0000 — https://deadline.com/2026/08/dave-bautista-cast-kratos-god-of-war-amazon-series-recast-1237046959/
 
-Golden Axe is set to make the official leap from classic arcade game to animated series next month. Paramount+ will drop all 10 episodes of the new animated series starring Matthew Rhys, Danny Pudi, Liam McIntyre and more, on Wednesday, September 16. The adaptation of SEGA s iconic video game follows legendary warriors Ax Battler, Tyris [ ]
+Dave Bautista has closed his deal to play Kratos in Prime Video s God of War fantasy drama series. Series co-studios Amazon MGM Studios and Sony Pictures Television reached out to Bautista and initiated talks shortly after they made the decision to recast the role following original lead Ryan Hurst s serious on-set injury. As Deadline reported, [ ]
 
-### Melissa McCarthy Margie Claus Sets Fall 2027 Release, Rounds Out Cast With Songs By Meghan Trainor
-Thu, 20 Aug 2026 16:30:00 +0000 — https://deadline.com/2026/08/margie-claus-cast-melissa-mccarthy-meghan-trainor-1237046389/
+### Sacramento s Mad Legislative Dash To Fix Tax Credits SNAFU, Get Post-Production Incentive Passed, Or Not
+Thu, 20 Aug 2026 21:43:57 +0000 — https://deadline.com/2026/08/california-film-tax-credits-latest-1237045968/
 
-Warner Bros. Pictures Animation s Margie Claus starring Melissa McCarthy will fly into theaters on Nov. 12, 2027. The pic has also set its additional voiceover cast with Jim Gaffigan as Santa, Andrew Scott as Jack Frost along with Annie Mumolo, Georgette Falcone, Octavia Spencer, Gary Farmer, Luis Gerardo Méndez, Cedric Yarbrough, and Maria Bakalova. Cole Escola was [ ]
+EXCLUSIVE: With a very hard out of less than two weeks, state legislators in Sacramento are either going to be Scrooge or Santa with California’s film and TV tax incentives for the near-moribund L.A. industry. It’s a mixed result right now with a lot of good intentions, a lot of cooks in the kitchen [ ]
 
-### Seth Meyers Launches ‘A Closer Look’ Podcast During Long Hiatus
-Thu, 20 Aug 2026 16:29:55 +0000 — https://deadline.com/2026/08/seth-meyers-a-closer-look-podcast-1237046452/
+### Film Buyers Fume As Amazon Accidentally Leaks Jason Statham s Big-Budget Mutiny Ahead Of Cinema Release: A Multimillion-Dollar Problem
+Thu, 20 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/amazon-leaks-jason-statham-movie-mutiny-1237046734/
 
-Late Night with Seth Meyers has been on a rather long summer hiatus but its host didn’t want to miss out on the news. Meyers and Sal Gentile, who writes the popular A Closer Look segment, have teamed up during the hiatus to launch a video podcast – A Closer Look Out of Office – [ ]
+Amazon is in choppy waters after accidentally leaking Jason Statham s latest big-budget action pic Mutiny on its Prime Video service days before the movie is released in theaters. Deadline understands that the movie was up for a matter of hours earlier this week after a mistake led to it being posted on Prime s product detail [ ]
 
-### Steven Yeun To Headline Netflix Series Pagans From Joshua Zetumer
-Thu, 20 Aug 2026 16:29:00 +0000 — https://deadline.com/2026/08/steven-yeun-star-pagans-netflix-series-joshua-zetumer-1237046050/
+### From Vintage Levi’s To Playing Cards: ‘Hacks’ Costume Designer Kathleen Felix-Hager On Dressing Season 5
+Thu, 20 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/hacks-costume-designer-interview-season-5-1237046866/
 
-EXCLUSIVE: Steven Yeun, Emmy winner for Netflix s Beef, is returning to the streamer as the lead of Pagans, one of the buzziest new series of the past year. Yeun will star in and executive produce the supernatural drama from Say Nothing creator Joshua Zetumer. Equal parts emotional, horrifying and humorous, Pagans unearths all our darkest [ ]
+By the time Hacks reached its fifth and final season, Deborah Vance (Jean Smart) was still Deborah Vance — big earrings, bold looks and all. But for costume designer Kathleen Felix-Hager, it was Ava Daniels (Hannah Einbinder) whose wardrobe told the story of just how much the young writer had changed since Season 1. As [ ]
 
