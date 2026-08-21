@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Tiny Flock and VR diorama-scale environment art">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#5C2000"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BE4C00"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- tiny diorama table, seen from above -->
+  <g opacity="0.5">
+    <ellipse cx="600" cy="620" rx="360" ry="70" fill="none" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="3"/>
+    <ellipse cx="600" cy="620" rx="260" ry="48" fill="none" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="2"/>
+    <circle cx="470" cy="640" r="10" fill="#FFFFFF" fill-opacity="0.55"/>
+    <circle cx="520" cy="660" r="10" fill="#FFFFFF" fill-opacity="0.55"/>
+    <circle cx="700" cy="630" r="10" fill="#FFFFFF" fill-opacity="0.55"/>
+    <circle cx="760" cy="655" r="10" fill="#FFFFFF" fill-opacity="0.55"/>
+    <circle cx="600" cy="670" r="10" fill="#FFFFFF" fill-opacity="0.55"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="170" font-size="26" letter-spacing="7" fill="#FFFFFF" fill-opacity="0.55"
+          font-weight="bold">VR &#183; NO BRAKES GAMES</text>
+
+    <text x="600" y="300" font-size="92" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">DOLL&#8217;S-HOUSE</text>
+
+    <text x="600" y="390" font-size="92" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">SCALE</text>
+
+    <text x="600" y="460" font-size="32" fill="#FFFFFF" fill-opacity="0.55" font-weight="bold">
+      21 DIORAMAS &#183; FULLY DESTRUCTIBLE
+    </text>
+  </g>
+
+  <rect x="500" y="500" width="200" height="8" rx="4" fill="url(#accent)"/>
+</svg>
