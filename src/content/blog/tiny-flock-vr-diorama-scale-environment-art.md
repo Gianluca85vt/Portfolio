@@ -3,7 +3,7 @@ title: Tiny Flock is a VR game about being a giant, and that's an environment ar
 date: 2026-08-21
 category: 3D
 excerpt: No Brakes Games' new sheep-herding puzzler puts the player at doll's-house scale over 21 fully interactive dioramas. Building a world that has to survive being smashed and stacked by the player is a different job than dressing a set that only has to look right from one camera path.
-cover: /img/blog/tiny-flock-vr-diorama-scale-environment-art/cover.svg
+cover: /img/blog/tiny-flock-vr-diorama-scale-environment-art/shot-01.jpg
 draft: true
 ---
 
@@ -18,6 +18,11 @@ front since there's no independent verification of how the final thing actually 
 What made me stop scrolling wasn't the sheep. It's the scale.
 
 ## Doll's-house scale is a genuinely different design problem
+
+<figure>
+  <img src="/img/blog/tiny-flock-vr-diorama-scale-environment-art/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>No Brakes Games, via the official Tiny Flock Steam page</figcaption>
+</figure>
 
 Most environment art, VR or not, is built to be walked through at human scale. You block out
 rooms and streets and corridors the way a person moving through them would experience them, and
