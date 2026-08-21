@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-21T11:02:28.974Z
+# AI — harvested 2026-08-21T14:18:04.154Z
 
 ## OpenAI
 
@@ -19,12 +19,18 @@ OpenAI reaffirms Zero Data Retention for eligible API customers and previews Pri
 
 ## Hugging Face
 
+### Measuring benchmark optimization in speech recognition
+Fri, 21 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/asr-benchmark-optimization
+
 ### Up to 3.2x Faster Inference with LFM2.5-DSpark
 Thu, 20 Aug 2026 16:52:57 GMT — https://huggingface.co/blog/LiquidAI/lfm25-dspark
 
 ## Google DeepMind
 
-_Nothing in the last 48 hours._
+### From Atari to EVE Online: Building on 15 Years of AI Research in Games
+Fri, 21 Aug 2026 11:59:48 +0000 — https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/
+
+Google DeepMind partners with game studios to prototype breakthrough AI gameplay.
 
 ## VentureBeat AI
 

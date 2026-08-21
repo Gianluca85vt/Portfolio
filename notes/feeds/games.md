@@ -1,6 +1,26 @@
-# Games — harvested 2026-08-21T11:02:28.974Z
+# Games — harvested 2026-08-21T14:18:04.154Z
 
 ## Eurogamer
+
+### That limited edition green see-through Xbox Series X reportedly costs as much as a PS5 Pro, and releases on Black Friday
+Fri, 21 Aug 2026 13:22:13 +0000 — https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price
+
+That fancy green see-through Xbox Series X - a limited edition creation for Xbox's 25th anniversary - reportedly releases on Black Friday and costs as much as a PS5 Pro . Read more
+
+### Careful, the new Plague Tale game appears to have leaked a week ahead of launch
+Fri, 21 Aug 2026 13:01:53 +0000 — https://www.eurogamer.net/plague-tale-resonance-leaked-pc
+
+Plague Tale fans beware: the new game, Resonance: A Plague Tale Legacy, appears to have been cracked and shared online a week before release. It means spoilers may start appearing online, so be careful what you watch and read. Read more
+
+### The No Man's Sky players building utopia at the end of the universe
+Fri, 21 Aug 2026 12:15:54 +0000 — https://www.eurogamer.net/no-mans-sky-players-building-utopia-optimism-week
+
+In the distant reaches of a doomed universe, perpetually 16 minutes from total destruction, something wonderful is happening. Across three galaxies and thousands star systems, a thriving community has formed. This is No Man's Sky 's Galactic Hub Project - part scientific endeavour, part social gathering - and in the 10 years since its foundation, it's continued to grow. It's a story of collaboration and kindness, beginning at a time when positivity was low. Read more
+
+### Connectivity issues force FromSoftware to close The Duskbloods network test early
+Fri, 21 Aug 2026 11:03:41 +0000 — https://www.eurogamer.net/the-duskbloods-network-test-connection-problems-fromsoftware
+
+UPDATE 2PM BST: FormSoftware has closed today's The Duskbloods network test early due to connectivity issues. Read more
 
 ### Following rumoured talks, Guardians of the Galaxy's Dave Bautista has reportedly now signed as Kratos in Amazon's God of War
 Fri, 21 Aug 2026 10:33:02 +0000 — https://www.eurogamer.net/dave-bautista-kratos-god-of-war-amazon-live-action-series
@@ -42,27 +62,27 @@ Thu, 20 Aug 2026 14:29:40 +0000 — https://www.eurogamer.net/marvel-tokon-fight
 
 Marvel T&omacr;kon: Fighting Soul is reigniting the debate around DRM, amid reports a new DRM-free cracked version is performing better than Sony's widely lambasted official PC version. Read more
 
-### Call of Duty: Modern Warfare 4 beta may have eradicated the annoying 'Compiling Shaders' wait PC players loathe
-Thu, 20 Aug 2026 14:20:46 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-compiling-shaders-fix
-
-While sharing the remaining details about the upcoming Call of Duty: Modern Warfare 4 beta scheduled for this weekend - such as pre-load information and PC specs - Infinity Ward and co-developer Beenox have revealed an unexpected PC gaming breakthrough. It's to do with eliminating elongated wait times associated with compiling a game's shaders. Read more
-
-### Hardware spending in the US was so low in July that it nearly matched the 2020 pandemic days when everything was out of stock
-Thu, 20 Aug 2026 13:05:12 +0000 — https://www.eurogamer.net/circana-july-2026-hardware-software-sales
-
-New data from the industry analysts at Circana has revealed that consumers are spending a lot less than usual on gaming hardware or the games themselves. Circana's latest report covers the US market in July, and it includes a lot of concerning data. Read more
-
-### 15 minutes of Black Myth: Zhong Kui gameplay footage provide our first proper look at Wukong's successor yet
-Thu, 20 Aug 2026 12:07:19 +0000 — https://www.eurogamer.net/black-myth-zhong-kui-15-minutes-gameplay
-
-Game Science has delivered a gift for anyone eager to see and hear more from Black Myth: Zhong Kui, the sequel to the incredibly successful Black Myth: Wukong . The developer released 15 chunky minutes of gameplay, giving us a first look at combat and a clearer picture of the protagonist, the Chinese mythological deity Zhong Kui. Read more
-
-### GTA 6 leaker shares footage suggesting link or access to playable build of the game, as Rockstar struggles to contain even more gameplay videos
-Thu, 20 Aug 2026 11:27:51 +0000 — https://www.eurogamer.net/rockstar-gta-6-leaker-full-access-gameplay-leaks-continue
-
-UPDATE 1PM BST: A previous version of this article erroneously suggested the leaker had "full access" to the GTA 6 game, based on the declaration of what appears to be an impersonating social media account. Read more
-
 ## GamesIndustry.biz
+
+### The opportunity cost of Sony's live service pivot is enormous | Opinion
+Fri, 21 Aug 2026 14:15:36 +0000 — https://www.gamesindustry.biz/the-opportunity-cost-of-sonys-live-service-pivot-is-enormous-opinion
+
+The folly of the live service mania that consumed the games business for much of the past decade is pretty well documented by this point . The idea that every game should be a live service game &ndash; the absolute madness of thinking that every game could be a live service game &ndash; consumed countless millions of dollars and incalculable hours of labour, not to mention burning vast amounts of consumer goodwill and IP value on a bonfire of executive failure. Read more
+
+### IGN Entertainment brings Women In Gaming networking event to Gamescom
+Fri, 21 Aug 2026 14:00:36 +0000 — https://www.gamesindustry.biz/ign-entertainment-brings-women-in-gaming-networking-event-to-gamescom
+
+IGN Entertainment is hosting a Women in Gaming networking breakfast at Gamescom, on the morning of Wednesday 26th August. The event is supported by GamesIndustry.biz , and will take place in the Dorint Hotel am Heumarkt K&ouml;ln from 8.30-10.30. Read more
+
+### Compulsion Games officially separates from Xbox – "The team told me we would rather eat rocks and drink gasoline than be split up"
+Fri, 21 Aug 2026 13:52:33 +0000 — https://www.gamesindustry.biz/compulsion-games-officially-separates-from-xbox-the-team-told-me-we-would-rather-eat-rocks-and-drink-gasoline-than-be-split-up
+
+Compulsion Games is now independent from Xbox, with management acquiring both the studio and its staff. Read more
+
+### Rover's Tale developer Observer Interactive parts ways with Team17 as it moves to self-publishing
+Fri, 21 Aug 2026 13:26:55 +0000 — https://www.gamesindustry.biz/rovers-tale-developer-observer-interactive-parts-ways-with-team17-as-it-moves-to-self-publishing
+
+Team17 is no longer publishing Observer Interactive's debut title Rover's Tale . Read more
 
 ### Why Xbox's console ads could be a good thing for gaming | Opinion
 Fri, 21 Aug 2026 11:00:00 +0000 — https://www.gamesindustry.biz/why-xboxs-console-ads-could-be-a-good-thing-for-gaming-opinion
@@ -104,31 +124,36 @@ Thu, 20 Aug 2026 11:09:56 +0000 — https://www.gamesindustry.biz/rockstar-hit-w
 
 A hacker group is is posting daily leaks of what appears to be details and footage from a build of GTA 6. Material posted so far includes various gameplay mechanics and assets, as well as a full game map. Read more
 
-### Why a publisher you've probably not heard of is spending millions of dollars on its Gamescom presence
-Thu, 20 Aug 2026 11:02:20 +0000 — https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence
-
-Walking the halls of Gamescom, the biggest, most elaborate booths you'll see will generally have an equally big, familiar name attached. Here's Capcom, Xbox, Sega, EA, Ubisoft, and so on. But at this year's event, a significant chunk of Halls 6 and 7 will be taken up by a name you probably won't be so familiar with: 4Divinity. Read more
-
-### Inner Pocket Publishing is "building a quiet corner for people who love thoughtful single-player games"
-Thu, 20 Aug 2026 10:21:28 +0000 — https://www.gamesindustry.biz/inner-pocket-publishing-is-building-a-quiet-corner-for-people-who-love-thoughtful-single-player-games
-
-A team of industry veterans from Critical Reflex, Gaijin Entertainment, and Nozomu Games has established the indie label Inner Pocket Publishing. Read more
-
-### "As more people play games, even the tiniest niches find a bigger audience" – Why Matt Webster is convinced people want Star Wars: Galactic Racer
-Wed, 19 Aug 2026 14:57:11 +0000 — https://www.gamesindustry.biz/as-more-people-play-games-even-the-tiniest-niches-find-a-bigger-audience-why-matt-webster-is-convinced-people-want-star-wars-galactic-racer
-
-Matt Webster looked set to be a lifer at Electronic Arts. He joined the firm way back in 1990, and spent nearly two decades working at Burnout and Need for Speed maker Criterion, which EA bought in 2004. Read more
-
-### Report: Live-service removed from Horizon Hunters Gathering following negative player feedback
-Wed, 19 Aug 2026 13:55:38 +0000 — https://www.gamesindustry.biz/report-live-service-removed-from-horizon-hunters-gathering-following-negative-player-feedback
-
-Guerrilla Games is overhauling Horizon Hunters Gathering by removing its live-service features in response to negative player feedback, according to Bloomberg 's Jason Schreier. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Psychonauts Dev Double Fine Reveals Its Future Plans Today
+Fri, 21 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/psychonauts-dev-double-fine-reveals-its-future-plans-today
+
+Having gone back to being an independent team. Psychonauts team Double Fine is going to share "what's next for the studio" today as part of a livestream on the Kinda Funny Games YouTube channel . Having just returned to independence after years of ownership under Microsoft, the developer plans to talk about its future on the live show scheduled to start in the coming hours. I doubt you're going to get actual game announcements out of the livestream, but I presume Tim Schafer will be there to talk about how Double Fine will approach its future. Read the full article on pushsquare.com
+
+### Guide: Call of Duty: Modern Warfare 4 Beta: Start Times, How to Get Early Access, and What s Included
+Fri, 21 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included
+
+All you need to know about the Modern Warfare 4 beta. Activision and Infinity Ward are giving fans a chance to play upcoming shooter Call of Duty: Modern Warfare 4 early via a big open beta test. With more content than any previous Call of Duty beta before it, you'll be able to sample various aspects of the FPS, including its multiplayer as well as a mission from the single player campaign. In this Call of Duty: Modern Warfare 4 beta guide, we're going to outline all the details you need to know, including start times, how to get Early Access, and what's included . Read the full article on pushsquare.com
+
+### PS5 Console Exclusive Phantom Blade Zero Poised for Gargantuan Launch
+Fri, 21 Aug 2026 12:15:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-console-exclusive-phantom-blade-zero-poised-for-gargantuan-launch
+
+Sharpen your swords. There’s a reason Sony is backing Phantom Blade Zero , a console exclusive, hard . The game is shaping up to be the biggest Chinese release since Black Myth Wukong , and while that was likely a once-in-a-generation phenomenon, estimates from Alinea Analytics predict it may have already sold 300k copies via pre-orders on Steam alone. Read the full article on pushsquare.com
+
+### Great Games Belong in Your Collection, Not Just Your Library : Retailer Promotes Physical Revival with Reprinted PS4 Lineup
+Fri, 21 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/great-games-belong-in-your-collection-not-just-your-library-retailer-promotes-physical-revival-with-reprinted-ps4-lineup
+
+No disc, no buy. Import retailer Play Asia hopes you’ll keep the “no disc, no buy” energy with its Physical Revival campaign, underway now. The site has assembled a curated collection of physical PS4 games , reprinted and back in stock “for collectors, fans, and anyone who believes great games belong on the shelf”. Read the full article on pushsquare.com
+
+### Onimusha: Way of the Sword May Be Another PS5 Capcom Hit as It Crosses 2 Million Wishlists
+Fri, 21 Aug 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/08/onimusha-way-of-the-sword-may-be-another-ps5-capcom-hit-as-it-crosses-2-million-wishlists
+
+Samurai games fest. Between Resident Evil Requiem , Pragmata , and Monster Hunter Stories 3 , Japanese publisher Capcom has had a super strong 2026, and it looks like its final big game launch of the year could round things out very nicely indeed. Onimusha: Way of the Sword is set to arrive on 4th September, 2026, and while there have been remasters and other offshoots over the years, it will be the first major game in the series since 2006's Onimusha: Dawn of Dreams . Read the full article on pushsquare.com
 
 ### Sony Admits Mistake After Erroneously Purging Legit Indie Dev without Explanation
 Fri, 21 Aug 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/08/sony-admits-mistake-after-erroneously-purging-legit-indie-dev-without-explanation
@@ -165,32 +190,12 @@ Thu, 20 Aug 2026 20:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-fi
 
 Less than a year after PS5 launch. The live service space is brutal — and I imagine that cracking it is even harder when you're a fighting game. Fairly high expectations were placed upon 2XKO when it was first announced and eventually released into early access on PC. A free-to-play fighting game felt like a bold step forward for the genre — and being based on League of Legends, it had serious weight behind it in terms of brand recognition. Read the full article on pushsquare.com
 
-### Microsoft Stops Sharing Digital Sales Data with Circana
-Thu, 20 Aug 2026 18:45:00 GMT — https://www.pushsquare.com/news/2026/08/microsoft-stops-sharing-digital-sales-data-with-circana
-
-More projected numbers moving forwards. Microsoft no longer shares digital sales data with US analytics firm Circana , meaning the company will now be forced to project numbers for games under the Xbox, Activision, and Bethesda umbrellas. Circana, formerly NPD, has been a trusted source of sales information in the US for many years, providing monthly breakdowns of hardware and software sales. Read the full article on pushsquare.com
-
-### Wolverine s Incredible Suit Looks So Dang Goofy on PS5
-Thu, 20 Aug 2026 17:15:00 GMT — https://www.pushsquare.com/news/2026/08/wolverines-incredible-suit-looks-so-dang-goofy-on-ps5
-
-You look ridiculous, bub. The Digital Deluxe Edition for Marvel’s Wolverine comes with five exclusive suits, and I’m taken aback by how silly the Incredible Suit looks in Insomniac’s engine. I assume this design is inspired by Logan’s first appearance in 1962’s Incredible Hulk comic book, and I can’t believe how dumb that classic mask looks. Read the full article on pushsquare.com
-
-### Several Big PS5 Games Have Gone Gold, Some Nearly Two Months Ahead of Launch
-Thu, 20 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/08/several-big-ps5-games-have-gone-gold-some-nearly-two-months-ahead-of-launch
-
-Ready when you are. The phrase "gone gold" doesn't mean all that much in the year 2026, but it still represents a significant milestone in a game's development — and three big PS5 titles have recently announced they've hit it. First up, Remedy Entertainment announced it reached gold status with Control Resonant a couple of days ago: Read the full article on pushsquare.com
-
-### 92% of PS5 Enthusiasts Believe PS Studios Needs New Management
-Thu, 20 Aug 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/08/92percent-of-ps5-enthusiasts-believe-ps-studios-needs-new-management
-
-That's unanimous. Of over 2,500 enthusiast PlayStation gamers surveyed in a recent Push Square poll, an eye-watering 92% believe PS Studios needs new management. This follows a slew of own goals from the current hierarchy, which has seen games cancelled, studios closed, and a lot of time lost. Read the full article on pushsquare.com
-
-### This FMV Mystery Set in Akihabara Now Has a Demo, PS5 Pre-Orders Come with PS Plus Discount
-Thu, 20 Aug 2026 16:15:00 GMT — https://www.pushsquare.com/news/2026/08/this-fmv-mystery-set-in-akihabara-now-has-a-demo-ps5-pre-orders-come-with-ps-plus-discount
-
-Electric town. I don’t know if you’ve noticed, but the PS5 is flooded with FMV games these days – many from China and Korea. But the Japanese studio behind Death Come True also has a new mystery on the way: Akiba Lost . Read the full article on pushsquare.com
-
 ## Game Developer
+
+### EA staff worries over Saudi buyout, Grand Theft Auto 6 leaks, and Peak's last major update - Patch Notes #66
+Fri, 21 Aug 2026 12:32:53 GMT — https://www.gamedeveloper.com/business/ea-staff-worries-over-saudi-buyout-grand-theft-auto-6-leaks-and-peak-s-last-major-update-patch-notes-66
+
+Plus: The Duskbloods sounds like a design shakeup for FromSoftware.
 
 ### Makers Fund expands game industry footprint through $250 million investment round
 Thu, 20 Aug 2026 15:39:24 GMT — https://www.gamedeveloper.com/business/makers-fund-expands-game-industry-footprint-after-closing-250-million-investment-round
@@ -211,9 +216,4 @@ Black Pony Immersive will design and develop first-person action RPGs.
 Wed, 19 Aug 2026 15:09:17 GMT — https://www.gamedeveloper.com/business/triple-a-vets-and-accessibility-experts-launch-new-game-dev-co-op-raze-and-rebuild-studio
 
 Raze and Rebuild Studio hopes to make the most of its co-op structure.
-
-### Report: PlayStation scales back live service ambitions for Horizon Hunters Gathering, reassigns devs
-Wed, 19 Aug 2026 13:43:14 GMT — https://www.gamedeveloper.com/business/report-playstation-reworks-horizon-live-service-game-after-negative-feedback
-
-PlayStation-owned Guerrilla Games is reportedly stripping out the live service component of Horizon Hunters Gathering following poor feedback.
 

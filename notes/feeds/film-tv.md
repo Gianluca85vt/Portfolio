@@ -1,6 +1,46 @@
-# Film & TV — harvested 2026-08-21T11:02:28.974Z
+# Film & TV — harvested 2026-08-21T14:18:04.154Z
 
 ## Variety
+
+### Natalie Portman at the Center of Literary Furor as Rachel Cusk s Life of M Nears Release
+Fri, 21 Aug 2026 14:00:00 +0000 — https://variety.com/2026/film/features/natalie-portman-rachel-cusk-life-of-m-1236839311/
+
+For decades, Natalie Portman has been one of our most cerebral stars. A 1999 Vanity Fair cover, promoting “The Phantom Menace,” asked whether the then-17-year-old might “choose Harvard over Hollywood.” She managed to do both, earning an Ivy League degree and an Oscar. Her characters in movies from “Jackie” to “May December” are often overthinkers, [ ]
+
+### The Cramps’ ‘Gravest Gravy’ Unearths Long-Lost Sessions From One of Rock’s Most Brilliantly Deranged Bands: Album Review
+Fri, 21 Aug 2026 14:00:00 +0000 — https://variety.com/2026/music/reviews/cramps-gravest-gravy-album-review-1236839743/
+
+The Cramps were one of the greatest and strangest bands to emerge from the punk-rock generation — which is truly saying something. By fusing rockabilly with humor and imagery inspired by vintage horror movies, they helped to pioneer the sound sometimes called psychobilly — a gloriously twisted take on rockabilly’s trademark twang and groove with deranged [ ]
+
+### ‘Our Loves’: Director Avi Nesher on His October 7 Film, Netanyahu and Boycotts Over Israeli Art
+Fri, 21 Aug 2026 14:00:00 +0000 — https://variety.com/2026/film/features/our-loves-avi-nesher-october-7-movie-1236839745/
+
+The terror attacks of Oct. 7, 2023, wherein Hamas and other Palestinian militants poured across the Gaza-Israel barrier into southern Israel, attacking 21 communities and killing 1,195 Israelis and foreign nationals (and abducting an additional 251 people), have been revisited a number of times via documentaries (“We Will Dance Again”) and miniseries (“One Day in [ ]
+
+### Prince Harry, Elton John and More Ordered to Pay Initial $13 Million to Daily Mail Publisher After Losing Privacy Case
+Fri, 21 Aug 2026 13:31:34 +0000 — https://variety.com/2026/global/news/prince-harry-ordered-to-pay-13-million-daily-mail-1236839928/
+
+Prince Harry looks like he might be returning to the U.K. with a sizeable bill to pay. The prince is among a group of seven high-profile figures — including Elton John and Liz Hurley — who have been ordered to pay an initial £9.54 million ($13 million) in legal costs to the publisher of the Daily [ ]
+
+### RFK Jr. Blasts CNN s Erin Burnett as Having Trump Derangement Syndrome Over Report Finding His Affordable Family Meal Costs 3.6 Times What Health Secretary Claimed
+Fri, 21 Aug 2026 12:36:51 +0000 — https://variety.com/2026/tv/news/rfk-jr-cnn-erin-burnett-trump-derangement-syndrome-affordable-meal-cost-1236839881/
+
+Robert F. Kennedy Jr. lashed out at CNN anchor Erin Burnett, claiming she is afflicted with Trump Derangement Syndrome that has left her without common sense or basic arithmetic. RFK Jr., Trump s Secretary of Health and Human Services, was complaining about a report on Erin Burnett OutFront that found one of his affordable meal plans [ ]
+
+### Kenneth Branagh on Doing His Own Stunts as a KGB Operative in ‘Mayday,’ Bonding With Ryan Reynolds Over Soccer: ‘We Can Be Pretty Nerdish’
+Fri, 21 Aug 2026 12:00:00 +0000 — https://variety.com/2026/film/global/kenneth-branagh-stunts-mayday-ryan-reynolds-soccer-1236839872/
+
+While he may not be known as an action star, Kenneth Branagh absolutely wanted to give it a go for Mayday, his upcoming Apple TV Cold War action-comedy in which he co-stars with Ryan Reynolds. He just needed to find out how best to get involved. I asked the directors, What s the way to do [ ]
+
+### Canada s H264 Nabs Colombia s Where the River Begins Ahead of Toronto Fest World Premiere
+Fri, 21 Aug 2026 11:38:58 +0000 — https://variety.com/2026/film/global/canada-h264-where-the-river-begins-toronto-fest-premiere-1236838810/
+
+Canadian distributor h264 has pounced on worldwide sales rights to “Where the River Begins” (“Donde comienza el rio”) by Colombian-Canadian filmmaker Juan Andrés Arango (“La Playa DC”), ahead of its world premiere at the Toronto Film Festival (TIFF). Starring Girleza Duave Cerezo, Juan David Junca Linares and Ana Michell Nama Dumaza, “Where the River Begins [ ]
+
+### Supporting Role Director Ana Urushadze Preps Fear of Butterflies, a Detective Story With Mysticism and a Touch of Body Horror (EXCLUSIVE)
+Fri, 21 Aug 2026 11:03:18 +0000 — https://variety.com/2026/film/global/supporting-role-ana-urushadze-fear-of-butterflies-1236839801/
+
+Georgian director Ana Urushadze (“Scary Mother”), whose Rotterdam prizewinner “Supporting Role” plays in competition this week at the Sarajevo Film Festival, is prepping her third feature film. “Fear of Butterflies” follows a young woman on the cusp of 30 who is “going through some bizarre things, mentally and physically,” Urushadze told Variety. The director described the [ ]
 
 ### Meghan Markle Eyes Acting Return After Move Back to the U.K.
 Fri, 21 Aug 2026 10:26:55 +0000 — https://variety.com/2026/tv/global/meghan-markle-acting-return-move-back-uk-1236839863/
@@ -12,47 +52,22 @@ Fri, 21 Aug 2026 09:40:42 +0000 — https://variety.com/2026/film/global/voice-h
 
 Kaouther Ben Hania, the director of last year s Oscar-nominated docudrama The Voice of Hind Rajab — about the killing of a 5-year-old Palestinian girl in Gaza by Israeli forces — has rejected the news that Israel is launching an investigation into Rajab s death, describing it as a smokescreen. On Wednesday, the Israeli military admitted that [ ]
 
-### Woody Harrelson Ready to Direct Another Live Film, Compares Jason Bateman’s ‘The Cackling of the Dodos’ to Martin McDonagh and the Coen Brothers
-Fri, 21 Aug 2026 09:22:29 +0000 — https://variety.com/2026/film/global/woody-harrelson-jason-bateman-martin-mcdonagh-coen-brothers-1236838548/
-
-Almost a decade after taking on an unusually challenging directorial debut with the world s first live-streamed feature film in “Lost in London,” Woody Harrelson is finally ready to direct again. The actor revealed his desire to be back behind a camera, as well as his latest creative venture as a budding stand-up comic, while at [ ]
-
-### Sriram Raghavan Developing New Thriller in the Johnny Gaddaar Zone for India s Matchbox Shots as Operation Safed Sagar Soars on Netflix Charts (EXCLUSIVE)
-Fri, 21 Aug 2026 09:15:50 +0000 — https://variety.com/2026/film/news/sriram-raghavan-johnny-gaddaar-thriller-matchbox-shots-1236839812/
-
-Indian auteur Sriram Raghavan is developing a new thriller for Matchbox Shots set in the tonal zone of his 2007 film Johnny Gaddaar, as the Mumbai production house grows its slate on the strength of the global Netflix success of war series Operation Safed Sagar. Johnny Gaddaar was a twist-laden neo-noir heist thriller that marked [ ]
-
-### Folk Horror ‘Wolf Days,’ Family Drama ‘The First Week of August Win at Sarajevo Industry Awards
-Fri, 21 Aug 2026 09:00:07 +0000 — https://variety.com/2026/film/global/wolf-days-the-first-week-of-august-sarajevo-industry-awards-1236839656/
-
-Emilija Gašić’s folk horror “Wolf Days and Filip Mojzeš’ family drama “The First Week of August” won the top prizes in the Sarajevo Film Festival’s CineLink Industry Days, the industry section focused on projects in different stages of development from Southeast Europe, the Middle East and North Africa. Gašić’s sophomore feature, which is produced by Serbia’s [ ]
-
-### Jacob Elordi Ducks James Bond Question at London World Premiere of Ridley Scott s The Dog Stars When Asked if He s Been Auditioning: I m Here on Holiday
-Fri, 21 Aug 2026 08:45:26 +0000 — https://variety.com/2026/film/global/jacob-elordi-james-bond-ridley-scott-the-dog-stars-premiere-1236839014/
-
-Jacob Elordi was the star guest in London on Thursday night as he touched down for the world premiere of Ridley Scott s latest feature The Dog Stars. The actor s arrival in Leicester Square was immediately soundtracked by the noise of screams from fans, including from a group of girls leaning out of nearby window, who [ ]
-
-### The Marching Band Review: Brothers From Opposite Worlds Are United by Music in a Finely Tuned French Crowdpleaser
-Fri, 21 Aug 2026 07:55:15 +0000 — https://variety.com/2026/film/reviews/the-marching-band-review-1236839792/
-
-The Marching Band blasts through more story in its first 12 minutes than many films now manage in two hours. In those first 720 seconds we meet Thibaut (Benjamin Lavernhe), a well-heeled classical music conductor in Paris, who discovers that he will need to find a blood marrow transplant as he has leukemia; he learns [ ]
-
-### ‘Good People’ Review: Milcho Manchevski’s Haunting Documentary Revisits the Kočani Nightclub Fire Through Survivors’ Eyes
-Fri, 21 Aug 2026 07:07:04 +0000 — https://variety.com/2026/film/reviews/good-people-review-1236839789/
-
-On March 16, 2025, a fire broke out at the Pulse nightclub in the small North Macedonian town of Kočani, injuring hundreds and killing 63 people due to burn damage, smoke inhalation and other physical traumas sustained while attendees scrambled to flee through the venue’s sole exit. The club had only one fire extinguisher and [ ]
-
-### Icelandic Producer Hlín Jóhannsdóttir Sets ‘Just a Kid’ With Alief Ahead of Haugesund and Reunites With ‘Driving Mum’ Team (EXCLUSIVE)
-Fri, 21 Aug 2026 07:00:00 +0000 — https://variety.com/2026/film/global/driving-mum-iceland-alief-just-a-kid-1236839417/
-
-Veteran Icelandic producer Hlín Jóhannsdóttir of Ursus Parvus, behind titles from some Iceland’s most renowned filmmakers including Fridrik Thor Fridriksson, Dagur Kári and Rúnar Rúnarsson, has signed with French-U.K. sales outfit Alief on the coming-of-age “Just a Kid” (“Bara barn”) by up-and-coming writer-director Vala Ómarsdóttir. To be pitched at New Nordic Films’ Works in Progress [ ]
-
-### Amazon MGM Studios Unveils Teaser for Kunal Kemmu s Vibe (EXCLUSIVE)
-Fri, 21 Aug 2026 06:32:07 +0000 — https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782/
-
-Amazon MGM Studios has released the teaser for Vibe, an action comedy written and directed by Kunal Kemmu that follows two ordinary friends who unexpectedly become the country s last line of defense. The teaser introduces Hardik (Kemmu) and Bugs (Sparsh Shrivastava), a pair of accidental heroes who are neither trained nor willing for the job [ ]
-
 ## The Hollywood Reporter
+
+### Chase Stokes Bids Farewell to Outer Banks
+Fri, 21 Aug 2026 13:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/chase-stokes-outer-banks-finale-goodbye-interview-1236677412/
+
+As the 33-year-old actor moves on from his breakout role in the hit Netflix series, he's opening up about what comes next and the struggles he's overcome since wrapping the show: "I had so much shit wrong."
+
+### Meghan Markle Eyeing Acting Return as She and Prince Harry Move Back to the United Kingdom
+Fri, 21 Aug 2026 13:30:48 +0000 — https://www.hollywoodreporter.com/tv/tv-news/meghan-markle-return-prince-harry-move-united-kingdom-1236678362/
+
+The former 'Suits' co-star stepped away from acting in 2017 amid her engagement with Harry.
+
+### Movie Theater Owner: What Worries Me About the War on Paramount and Warner Bros.
+Fri, 21 Aug 2026 13:15:00 +0000 — https://www.hollywoodreporter.com/business/business-news/movie-theater-owner-paramount-warner-bros-1236678084/
+
+"Industries rarely suffer because too many people are willing to make sensible long-term investments. The greater danger comes when investment stops," writes the owner of Phoenix Theatres.
 
 ### Billy Bob Thornton Says Holly­wood Wasn’t Nice to Taylor Sheridan, But That Texas Accepted Him
 Fri, 21 Aug 2026 04:32:07 +0000 — https://www.hollywoodreporter.com/tv/tv-news/billy-bob-thornton-hollywood-wasnt-nice-taylor-sheridan-1236678230/
@@ -89,22 +104,52 @@ Thu, 20 Aug 2026 22:59:58 +0000 — https://www.hollywoodreporter.com/tv/tv-feat
 
 From 'The Odyssey' to 'Resident Evil' and 'Lanterns,' creative license has fans up in arms. Lindelof isn't surprised.
 
-### L.A. Mayoral Candidate Nithya Raman Says Legality of Paramount-Warner Bros. Merger “Should Be Decided in Court”
-Thu, 20 Aug 2026 22:40:26 +0000 — https://www.hollywoodreporter.com/business/business-news/nithya-raman-paramount-warner-bros-court-1236678117/
-
-As Mayor Karen Bass called for a quick resolution to the standoff, her rival in the 2026 elections, Nithya Raman, said the legal process should take its course.
-
-### Dave Bautista Officially Cast as Kratos in God of War Series
-Thu, 20 Aug 2026 22:19:43 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dave-bautista-god-of-war-kratos-1236663324/
-
-The 'Guardians of the Galaxy' actor will replace Ryan Hurst in the Prime Video show after Hurst was injured on set.
-
-### Streaming Ratings: Masters of the Universe Powers to No. 1 Debut
-Thu, 20 Aug 2026 21:35:42 +0000 — https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-20-26-2026-1236678107/
-
-'The Hawk' and 'Ride or Die' are the two biggest original series for the week of July 20.
-
 ## Deadline
+
+### Terrence Terrell, Jayne Taini, Sachin Bhatt, Mario Cantone William Sadler Lead Dramedy The Summer They Came
+Fri, 21 Aug 2026 14:14:47 +0000 — https://deadline.com/2026/08/terrence-terrell-sachin-bhatt-the-summer-they-came-film-1237047319/
+
+EXCLUSIVE: Terrence Terrell (Giants), Jayne Taini (Station 19), Sachin Bhatt (The Company You Keep), Mario Cantone (Sex And The City) and William Sadler (The Shawshank Redemption) are starring in dramedy The Summer They Came, which is in post-production. America Young directs the seaside movie from writer and executive producer Nick Wauters. Principal photography took place this [ ]
+
+### Prince Harry, Elton John Other Privacy Case Claimants Ordered To Pay Daily Mail Publisher $13 Million
+Fri, 21 Aug 2026 14:03:11 +0000 — https://deadline.com/2026/08/prince-harry-elton-john-daily-mail-13-million-1237047367/
+
+Prince Harry, Elton John, and several other high-profile figures who lost a privacy lawsuit against the publisher of the Daily Mail have been ordered to pay $13 million (£9.5m) to cover the Mail’s legal costs. The seven claimants, also including Liz Hurley and Baroness Doreen Lawrence, must make the payment by August 28. The fee [ ]
+
+### How Monsters Of God Director Eric Goode s Personal Avocation Led Him To The World s Most Notorious Reptile Traffickers For HBO Docuseries
+Fri, 21 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/monsters-of-god-eric-goode-interview-reptile-trafficking-1237045213/
+
+SPOILER ALERT! This post contains details from HBO s docuseries Monsters of God. Eric Goode is no stranger to eclectic interview subjects. The director behind Chimp Crazy and Tiger King is even quite familiar with interviewees who are willing to look past the law. And yet, his latest docuseries Monsters of God might just have brought [ ]
+
+### What s Next For ABC Vs. FCC: Lawsuit Looks To Put Trump Attacks On Trial, But The First Battle May Be About Timing
+Fri, 21 Aug 2026 13:30:00 +0000 — https://deadline.com/2026/08/abc-fcc-lawsuit-explained-whats-next-1237044502/
+
+ABC took the extraordinary step of suing the FCC on Tuesday, challenging its investigations and regulatory crackdowns as not merely bureaucratic overreach but part of a Trump administration retaliatory campaign in violation of the First Amendment. The case has the potential to be a major legal showdown over the FCC s authority and free speech [ ]
+
+### SXSW True Crime Doc I Got Bombed At Harvey s Scores North American Deal
+Fri, 21 Aug 2026 13:15:00 +0000 — https://deadline.com/2026/08/sxsw-true-crime-i-got-bombed-at-harveys-us-deal-release-1237047256/
+
+EXCLUSIVE: Jolt.film has acquired all North American rights to the true-crime documentary I Got Bombed at Harvey s, an account of the 1980 Harvey s Resort Hotel bombing in Lake Tahoe, which included a high-profile extortion case and a major FBI manhunt. Directed by Amy Bandlien Storkel and Bryan Storkel, I Got Bombed at Harvey s revisits the case in which an intricately engineered, booby-trapped time [ ]
+
+### New PE Firm BlackSun Raises $1 Billion For Sports, Media Fund
+Fri, 21 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/private-equity-firm-blacksun-sports-media-fund-1237047176/
+
+Recently launched BlackSun Private Equity, with principals from the world of politics, sports and entertainment, is launching its first fund with $1 billion raised so far. The goal is to invest in professional sports and franchise ownerships, which many PE firms are eyeing, but with a focus on community and stakeholder participation. One of its [ ]
+
+### Meghan Markle Could Resume Acting Career After Return To UK – Report
+Fri, 21 Aug 2026 12:17:36 +0000 — https://deadline.com/2026/08/meghan-markle-acting-role-uk-1237047334/
+
+Meghan Markle s move to the UK might not be the only return she s planning to make. The Duchess of Sussex could be eyeing a new acting role, too. She has been offered a role in an upcoming project based in the UK, according to news.com.au. We ve reached to the Sussexes and their Archewell Productions imprint [ ]
+
+### International Insider: Australia s Attention Battle; Vertical Video Rises; Kevin Macdonald On Pep Guardiola
+Fri, 21 Aug 2026 12:00:00 +0000 — https://deadline.com/2026/08/international-insider-australia-attention-battle-1237046111/
+
+Be still, my beating heart, this week s Insider is here. Jesse Whittock back with you on the international film and TV news train, as the industry exits its quiet summer period and heads for festival season. Sign up for the full Insider newsletter experience here. Strewth!: So it turns out Australians love watching Australian TV [ ]
+
+### Prime Video Sets Plan To Invest $2 Billion In Latin America
+Fri, 21 Aug 2026 11:04:07 +0000 — https://deadline.com/2026/08/prime-video-2-billion-latin-america-1237047327/
+
+Prime Video has announced plans to invest more than $2 billion in Latin America between 2027 and 2030. Details of the plan were announced last night at a Prime Video showcase event in Mexico City. The investment will span original programming, locally produced and acquired content, and live sports rights across Mexico, Brazil, Argentina, Colombia, [ ]
 
 ### Swedish Dramedy Adult Supervision Sells To WB Discovery, Fandango, Palace, Vertigo More Ahead Of Fantastic Fest Launch; Watch Trailer
 Fri, 21 Aug 2026 09:00:54 +0000 — https://deadline.com/2026/08/adult-supervision-sells-wb-discovery-more-fantastic-fest-1237047254/
@@ -120,49 +165,4 @@ EXCLUSIVE: Fresh off producing Channel 4 s Free Nelson Mandela, Rogan Production
 Fri, 21 Aug 2026 03:02:34 +0000 — https://deadline.com/2026/08/chris-hansen-turned-away-primetime-refusing-sign-nda-1237047193/
 
 After Chris Hansen claimed he was turned away from a screening A24 s Primetime, it would appear he refused to sign a standard NDA. On Thursday, a source told Deadline that the former To Catch a Predator host was not asked to sign away my rights in order to see the Lance Oppenheim-helmed thriller about him, [ ]
-
-### Outer Banks Star Madison Bailey On Show s Lack Of Queer Representation, Desire To Play LGBTQ Role: I ve Been Manifesting It
-Fri, 21 Aug 2026 02:07:14 +0000 — https://deadline.com/2026/08/outer-banks-madison-bailey-lack-queer-representation-1237047181/
-
-With Outer Banks coming to an end, Madison Bailey wants to spread her wings as she contemplates the future of her career. The openly pansexual actress recently discussed the lack of queer representation on the Netflix show, which released its fifth and final season on Thursday, revealing that she wishes her character Kiara came out [ ]
-
-### Blue Eye Samurai Renewed For Third Final Season At Netflix; Season 2 Gets Premiere Window — Watch The Teaser
-Fri, 21 Aug 2026 01:56:05 +0000 — https://deadline.com/2026/08/blue-eye-samurai-renewed-third-final-season-netflix-1237047184/
-
-Mizu s journey for justice is coming to an end as Blue Eye Samurai is renewed for a third and final season. On Thursday, Netflix announced the animated action series is ending after three seasons, while sharing the teaser and an January 2027 launch date for Season 2, which has recently finished production. Meanwhile, Season 3 [ ]
-
-### Trouble In Paradise: John Ross Bowie Brian Posehn On Who Ruined Utopia In Stuart Fails E5
-Fri, 21 Aug 2026 01:30:00 +0000 — https://deadline.com/2026/08/stuart-fails-john-ross-bowie-brian-posehn-episode-5-1237047095/
-
-SPOILER ALERT: The story includes details about Episode 5 of HBO Max s Stuart Fails To Save the Universe. In Episode 5 of Big Bang Theory spinoff Stuart Fails To Save the Universe, our quartet of inter-dimensional travelers Stuart Bloom (Kevin Sussman), Denise (Lauren Lapkus), Bert (Brian Posehn) and Barry Kripke (John Ross Bowie), land in [ ]
-
-### Ariana Grande Slams Trump For Using Her Song In Anti-Trans TikTok: Your Truth Is False
-Thu, 20 Aug 2026 23:08:13 +0000 — https://deadline.com/2026/08/ariana-grande-slams-trump-using-song-anti-trans-tiktok-1237047037/
-
-As Ariana Grande winds down her Eternal Sunshine Tour, she s the latest pop icon to call out Donald Trump for using her music. On Thursday, the three-time Grammy winner commented on a TikTok video posted by the Trump campaign, which used Grande s 2024 single We Can t Be Friends (Wait for Your Love) to promote anti-trans [ ]
-
-### ‘Outer Banks’ Creators Break Down Season 5’s “Earned” Ending, Supernatural Lean JJ’s Presence
-Thu, 20 Aug 2026 22:35:56 +0000 — https://deadline.com/2026/08/outer-banks-season-5-ending-explained-by-creators-interview-1237044830/
-
-SPOILER ALERT: The story includes details about Season 5 of Netflix s Outer Banks. There were a lot of full-circle elements in the fifth and final season of Outer Banks. The series ended the way it started, with a hurricane. Sarah (Madelyn Cline) wore a version of her iconic Midsummers white dress from Season 1 to [ ]
-
-### Jaafar Jackson Says Michael Sequel Will Give Even More Insight Into Child Abuse Allegations From His Point Of View
-Thu, 20 Aug 2026 22:30:00 +0000 — https://deadline.com/2026/08/jaafar-jackson-michael-sequel-child-abuse-allegations-1237046974/
-
-Jaafar Jackson will reprise his role as Michael Jackson in the Michael biopic sequel in the works at Lionsgate and the late singer s estate. In a new interview, Jaafar Jackson said he would want his uncle s point of view on all the child abuse allegations. I think the second film will give even more insight [ ]
-
-### Insidious: Out Of The Further To Scare Up $50M+ WW; Spider-Man: Brand New Day To Prevail With $85M+ WW In Fourth Frame Box Office Preview
-Thu, 20 Aug 2026 22:15:00 +0000 — https://deadline.com/2026/08/spider-man-insidious-out-of-the-further-global-box-office-1237046811/
-
-Dog days of August? What dog days of August do you speak of? Absolutely none here as Spider-Man: Brand New Day heads for a healthy fourth weekend of $35 million at this weekend s domestic box office, and $85M worldwide. That 50% fourth-weekend decline is on par with Disney/Marvel s Avengers: Endgame. As we told you, Spider-Man s [ ]
-
-### Dave Bautista Set To Play Kratos In ‘God Of War’ As Amazon Series Recasts Lead
-Thu, 20 Aug 2026 22:00:00 +0000 — https://deadline.com/2026/08/dave-bautista-cast-kratos-god-of-war-amazon-series-recast-1237046959/
-
-Dave Bautista has closed his deal to play Kratos in Prime Video s God of War fantasy drama series. Series co-studios Amazon MGM Studios and Sony Pictures Television reached out to Bautista and initiated talks shortly after they made the decision to recast the role following original lead Ryan Hurst s serious on-set injury. As Deadline reported, [ ]
-
-### Sacramento s Mad Legislative Dash To Fix Tax Credits SNAFU, Get Post-Production Incentive Passed, Or Not
-Thu, 20 Aug 2026 21:43:57 +0000 — https://deadline.com/2026/08/california-film-tax-credits-latest-1237045968/
-
-EXCLUSIVE: With a very hard out of less than two weeks, state legislators in Sacramento are either going to be Scrooge or Santa with California’s film and TV tax incentives for the near-moribund L.A. industry. It’s a mixed result right now with a lot of good intentions, a lot of cooks in the kitchen [ ]
 

@@ -1,66 +1,66 @@
-# Manga — harvested 2026-08-21T11:02:28.974Z
+# Manga — harvested 2026-08-21T14:18:04.154Z
 
 ## Anime News Network
 
-### Matsurika Kanriden TV Anime Reveals Kana-Boon's Theme Song in Promo Video
-Fri, 21 Aug 2026 05:04:18 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/matsurika-kanriden-tv-anime-reveals-kana-boon-theme-song-in-promo-video/.240797
+### This Week in Games - Sony State of Play: Phantom Blade Zero, Also, The Return of Kingdom Hearts and Princess Maker
+Fri, 21 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-08-20/sony-state-of-play-phantom-blade-zero-also-the-return-of-kingdom-hearts-and-princess-maker/.240671
 
-Takeo Ōtsuka, Kōtarō Nishiyama, Shō Komura join cast for anime debuting in January 2027
+<i>Kingdom Hearts</i> dominates the discussion this time, but don't let that distract you from the return of <i>Princess Maker</i>!
 
-### Live-Action Happy Kanako's Killer Life Season 2 Reveals 3 New Cast Members
-Fri, 21 Aug 2026 03:40:17 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/live-action-happy-kanako-killer-life-season-2-reveals-3-new-cast-members/.240775
+### A Returner's Magic Should Be Special 2nd Season Anime's 1st Promo Video Streamed
+Fri, 21 Aug 2026 09:31:39 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/a-returner-magic-should-be-special-2nd-season-anime-1st-promo-video-streamed/.240802
 
-Hikaru Takahashi, Aoi Morikawa, Sayu Suzukawa join cast as Kanako's assassin colleagues
+Anime gets advance screening in Tokyo on October 3
 
-### Billy Bat, The Summer Hikaru Died, More Win 3rd American Manga Awards
-Fri, 21 Aug 2026 03:04:34 -0400 — https://www.animenewsnetwork.com/interest/2026-08-21/billy-bat-the-summer-hikaru-died-more-win-3rd-american-manga-awards/.240791
+### Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 13
+Fri, 21 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-13/.240782
 
-<cite>cocoon, Mushishi</cite>, Madeleine Jose, Jan Mitsuko Cash, Wendy Chan also honored
+Who else is down for a good ol' existential crisis?
 
-### New Panty & Stocking with Garterbelt Collaborates with Sexual Wellness Brand TENGA
-Fri, 21 Aug 2026 01:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-21/new-panty-and-stocking-with-garterbelt-collaborates-with-sexual-wellness-brand-tenga/.240751
+### 5 Light Novels That Break The Mold
+Fri, 21 Aug 2026 09:21:31 -0400 — https://www.animenewsnetwork.com/feature/2026-08-21/5-light-novels-that-break-the-mold/.240528
 
-A match made in Heaven … well, Panty & Stocking's version of Heaven
+You may think you know everything light novels have to offer, but these five series might change your mind.
 
-### New Fairy Princess Minky Momo OVA Casts Tomohito Takatsuka, Yōko Hikasa
-Fri, 21 Aug 2026 00:01:35 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/new-fairy-princess-minky-momo-ova-casts-tomohito-takatsuka-yoko-hikasa/.240774
+### Kakao Games Announces The World of Dokkaebi MMORPG Based on Web Novel With October Launch
+Fri, 21 Aug 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/kakao-games-announces-the-world-of-dokkaebi-mmorpg-based-on-web-novel-with-october-launch/.240744
 
-Takatsuka, Hikasa voice key characters Rupert, Peter
+Game is set about 300 years before events of original web novel, expands world with new stories, characters
 
-### Madoka Magica, Monogatari Series Collaborate on New Crossover Shorts
-Thu, 20 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-20/madoka-magica-monogatari-series-collaborate-on-new-crossover-shorts/.240771
+### Seiji Kishi Directs Maiden Blood Original TV Anime at Polygon Pictures
+Fri, 21 Aug 2026 08:47:28 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/seiji-kishi-directs-maiden-blood-original-tv-anime-at-polygon-pictures/.240806
 
-12 shorts to stream between now & Sunday
+Dark fantasy action anime starring Iori Saeki, Yukari Anzai debuts in 2027
 
-### Ani-One Asia Also Removes Chainsmoker Cat Anime From Streaming Lineup
-Thu, 20 Aug 2026 23:27:04 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/ani-one-asia-also-removes-chainsmoker-cat-anime-from-streaming-lineup/.240773
+### Saga of Tanya the Evil II ‒ Episode 7
+Fri, 21 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/saga-of-tanya-the-evil-ii/episode-7/.240776
 
-Episode 9 delayed by 1 week to September 2 in Japan
+Saying that Tanya lacks empathy is missing the forest for the trees. The real issue is that she doesn’t feel emotions as other people do.
 
-### Lego One Piece Animated Special's Trailer Highlights Usopp's Tall Tales
-Thu, 20 Aug 2026 22:41:33 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/lego-one-piece-animated-special-trailer-highlights-usopp-tall-tales/.240772
+### Tanuki to Kitsune TV Anime Reveals Visual, October 4 Debut
+Fri, 21 Aug 2026 08:23:32 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/tanuki-to-kitsune-tv-anime-reveals-visual-october-4-debut/.240805
 
-2-part special debuts on Netflix on September 29
+Main staff also revealed
 
-### New Votoms Anime Films' Trailer Unveils Cast, More Staff
-Thu, 20 Aug 2026 21:33:43 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/new-votoms-anime-films-trailer-unveils-cast-more-staff/.240769
+### Magical Girl Raising Project restart Anime Debuts on October 5
+Fri, 21 Aug 2026 08:05:40 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-21/magical-girl-raising-project-restart-anime-debuts-on-october-5/.240804
 
-Miyuki Sawashiro, Mabuki Andou play leads in 2 anime films
+The official website for the television anime of Asari Endō's Magical Girl Raising Project Restart light novel series revealed on Friday the anime will...
 
-### Cyberpunk Edgerunners 2 Anime's New Teaser Reveals October 20 Netflix Debut
-Thu, 20 Aug 2026 20:29:48 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/cyberpunk-edgerunners-2-anime-new-teaser-reveals-october-20-netflix-debut/.240770
+### Ore to Yu Nii! TV Anime Debuts in January 2027, Reveals Teaser Promo Video
+Fri, 21 Aug 2026 07:50:16 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/ore-to-yu-nii-tv-anime-debuts-in-january-2027-reveals-teaser-promo-video/.240803
 
-Episode 1 premiered at Anime Expo last month
+More staff revealed
 
-### The One Piece Anime Remake's Key Art Pays Homage to 1st Manga Chapter
-Thu, 20 Aug 2026 19:58:10 -0400 — https://www.animenewsnetwork.com/interest/2026-08-20/the-one-piece-anime-remake-key-art-pays-homage-to-1st-manga-chapter/.240768
+### Sekiro: No Defeat Anime Film's Battle Scene Clip Streamed
+Fri, 21 Aug 2026 07:37:44 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/sekiro-no-defeat-anime-film-battle-scene-clip-streamed/.240800
 
-Art lovingly recreates 2-page color splash spread that opened original manga
+Anime debuts in Japanese theaters on September 4
 
-### Fool Night Anime's Teaser Reveals More Cast, November 26 Worldwide Netflix Debut
-Thu, 20 Aug 2026 19:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/fool-night-anime-teaser-reveals-more-cast-november-26-worldwide-netflix-debut/.240745
+### 'A Pen, Handcuffs, and a Common-Law Marriage' TV Anime Reveals Cast, Staff, January 2027 Debut in Video
+Fri, 21 Aug 2026 07:29:10 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/a-pen-handcuffs-and-a-common-law-marriage-tv-anime-reveals-cast-staff-january-2027-debut-in-video/.240801
 
-Junya Enoki, Aya Endō, Kiyomitsu Mizuuchi join cast
+Tomoaki Maeno, Inori Minase star in series
 
 ## Crunchyroll News
 
