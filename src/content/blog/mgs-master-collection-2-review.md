@@ -12,7 +12,6 @@ scoreSources:
   - { outlet: DualShockers, score: 9 }
   - { outlet: COGconnected, score: 8.5 }
   - { outlet: Push Square, score: 8 }
-draft: true
 ---
 
 Reviews for **Metal Gear Solid: Master Collection Vol. 2** went live on **21 August**, six days ahead of the 27 August release on PS5, Xbox Series X|S, Switch 2, Switch and PC. Metacritic has it sitting at **85**, OpenCritic at **84** — both well clear of Vol. 1's 74/73 two years ago.
