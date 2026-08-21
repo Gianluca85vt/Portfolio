@@ -1,6 +1,21 @@
-# Games — harvested 2026-08-21T08:19:18.669Z
+# Games — harvested 2026-08-21T11:02:28.974Z
 
 ## Eurogamer
+
+### Following rumoured talks, Guardians of the Galaxy's Dave Bautista has reportedly now signed as Kratos in Amazon's God of War
+Fri, 21 Aug 2026 10:33:02 +0000 — https://www.eurogamer.net/dave-bautista-kratos-god-of-war-amazon-live-action-series
+
+The rumours appear to be true. Actor Dave Bautista - best known for his role as Drax the Destroyer in Marvel's Guardians of the Galaxy series, and the Avengers films - has reportedly taken over as Kratos in Amazon's live-action God of War series. Read more
+
+### Mortal Shell 2 review
+Fri, 21 Aug 2026 09:23:13 +0000 — https://www.eurogamer.net/mortal-shell-2-review
+
+In the increasingly crowded Soulslike genre, a game's opening minutes need to do a lot of work. The good news for Mortal Shell 2 is its opening is superb, starting as well as it continues, and condensing the magic of its next 30-odd hours into a few minutes with aplomb. Read more
+
+### Riot Games to end LoL fighting game 2XK0's development and issue refunds, less than a year since launch
+Fri, 21 Aug 2026 09:01:37 +0000 — https://www.eurogamer.net/2xko-development-ending-december-riot-games-issuing-refunds
+
+Active development on 2XKO - the free-to-play fighting game from Riot Games - will end in December. This comes not even a year after the game's full release in January, as the company doesn't see "a path toward sustainability". Read more
 
 ### Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign
 Thu, 20 Aug 2026 16:44:12 +0000 — https://www.eurogamer.net/hidetaka-miyazaki-fromsoftware-single-player-games
@@ -47,22 +62,17 @@ Thu, 20 Aug 2026 11:27:51 +0000 — https://www.eurogamer.net/rockstar-gta-6-lea
 
 UPDATE 1PM BST: A previous version of this article erroneously suggested the leaker had "full access" to the GTA 6 game, based on the declaration of what appears to be an impersonating social media account. Read more
 
-### The Duskbloods gameplay leaks ahead of tomorrow's closed beta, showing tense PvP battles with guns, wolves, and velociraptors
-Thu, 20 Aug 2026 09:16:31 +0000 — https://www.eurogamer.net/duskbloods-gameplay-leak-gameplay-pvp-battle-wolves-velociraptors
-
-A snippet of gameplay from The Duskbloods - FromSoftware's Switch 2 PvPvE action game - has leaked online ahead of an upcoming closed beta test. Read more
-
-### Games Done Quick is a beacon of hope for the gaming community
-Thu, 20 Aug 2026 09:00:00 +0000 — https://www.eurogamer.net/games-done-quick-optimism-week-hope
-
-If you read a lot of gaming news - or work with it, like I do - you cannot help but become a little cynical sometimes. 2026 has been a brutal year for the industry, following an equally galling 2025. Beset by layoffs, harried by studio closures, and somehow staring down the barrel of the console wars again, it's easy to feel the jaded fingers of cynicism creeping in. But, twice a year, I can feel my cup fill up in realtime, my belief in the games industry - and humanity at large, honestly - buoyed by seven days of the most wholesome, hopeful people in the world coming together to prop each other up, and raise millions for charity while they're at it. Read more
-
-### "I don't know if they will keep funding that one" - Former EA manager doesn't believe the next Mass Effect will survive Saudi takeover
-Thu, 20 Aug 2026 08:30:56 +0000 — https://www.eurogamer.net/next-mass-effect-ea-bioware-saudi-ownership
-
-Inside and outside Electronic Arts, everyone is bracing for what's sure to be a very different company now that it's fully owned by Saudi Arabia's Public Investment Fund . But the fate of one game in particular may be more perilous than any other: the next Mass Effect . Read more
-
 ## GamesIndustry.biz
+
+### Why Xbox's console ads could be a good thing for gaming | Opinion
+Fri, 21 Aug 2026 11:00:00 +0000 — https://www.gamesindustry.biz/why-xboxs-console-ads-could-be-a-good-thing-for-gaming-opinion
+
+Virginie Chesnais is CMO at the ad tech analytics platform Happydemics . Read more
+
+### Roblox makes three of its AI safety tools open source
+Fri, 21 Aug 2026 10:35:36 +0000 — https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source
+
+Roblox is open-sourcing three of its AI safety models via the Robust Open Online Safety Tools Model Community (ROOST). Read more
 
 ### Riot Games sunsets active development on 2XKO as it costs "substantially more to operate than it brings in"
 Fri, 21 Aug 2026 08:06:41 +0000 — https://www.gamesindustry.biz/riot-games-sunsets-active-development-on-2xko-as-it-costs-substantially-more-to-operate-than-it-brings-in
@@ -114,21 +124,21 @@ Wed, 19 Aug 2026 13:55:38 +0000 — https://www.gamesindustry.biz/report-live-se
 
 Guerrilla Games is overhauling Horizon Hunters Gathering by removing its live-service features in response to negative player feedback, according to Bloomberg 's Jason Schreier. Read more
 
-### "We chose the worst time in history" – Harvey Smith on starting his own studio after Arkane
-Wed, 19 Aug 2026 13:00:00 +0000 — https://www.gamesindustry.biz/we-chose-the-worst-time-in-history-harvey-smith-on-starting-his-own-studio-after-arkane
-
-Microsoft's closure of Arkane Austin in May 2024 left 96 developers out of work &ndash; among them studio head Harvey Smith, whose storied career spans Deus Ex, Dishonored, and Prey. Now, after a two-year quiet period, Smith is ready to reveal his next venture: Black Pony Immersive, a new studio co-founded with former Arkane colleague Ben Horne. Read more
-
-### Human: Fall Flat veterans launch new UK studio Pretty Cool Games with funding from Arknights developer Hypergraph
-Wed, 19 Aug 2026 10:00:00 +0000 — https://www.gamesindustry.biz/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games-with-funding-from-arknights-developer-hypergraph
-
-Pretty Cool Games has been co-founded by Human: Fall Flat veterans Sitara Shefta (CEO) and Will Dudley (CCO) with the aim of building a sustainable studio that's fair to its employees and rewards them for their success. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Sony Admits Mistake After Erroneously Purging Legit Indie Dev without Explanation
+Fri, 21 Aug 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/08/sony-admits-mistake-after-erroneously-purging-legit-indie-dev-without-explanation
+
+Highly rated Stonks-9800 coming to PS5 again. Sony has been ridding the PS Store of shovelware, erasing entire publisher catalogues from its virtual plaza. While I think this news has been broadly well received , I’ve always cautioned that legit devs may one day get caught up in the crossfire. Read the full article on pushsquare.com
+
+### Marvel Tokon s Latest PS5, PC Update Is Available Now, Here Are the Patch Notes
+Fri, 21 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/marvel-tokons-latest-ps5-pc-update-is-available-now-here-are-the-patch-notes
+
+Fighting fit. Developer Arc System Works has pushed a big new patch for Marvel Tokon: Fighting Souls , making a whole load of fixes and improvements across both PS5 and PC. Perhaps most notable for those playing on computers is that this version of the game sees further improvements to performance with this update. Read the full article on pushsquare.com
 
 ### Review: Metal Gear Solid: Master Collection Vol. 2 (PS5) - MGS 4 Is Finally Free from PS3, and It s the Best It s Ever Been
 Fri, 21 Aug 2026 07:00:00 GMT — https://www.pushsquare.com/reviews/ps5/metal-gear-solid-master-collection-vol-2
@@ -180,16 +190,6 @@ Thu, 20 Aug 2026 16:15:00 GMT — https://www.pushsquare.com/news/2026/08/this-f
 
 Electric town. I don’t know if you’ve noticed, but the PS5 is flooded with FMV games these days – many from China and Korea. But the Japanese studio behind Death Come True also has a new mystery on the way: Akiba Lost . Read the full article on pushsquare.com
 
-### Denshattack s Free Update Challenges You to Earn Even Harder Platinum Medals on PS5
-Thu, 20 Aug 2026 15:45:00 GMT — https://www.pushsquare.com/news/2026/08/denshattacks-free-update-challenges-you-to-earn-even-harder-platinum-medals-on-ps5
-
-Return ticket. One of this year's big indie breakouts is Denshattack , an arcadey action game in which you blast through stages in a train that can pull off tricks like a skateboard. It takes a little bit of time to acclimatise to its controls, but once you're there, it's a super fun game that moves really fast and constantly introduces new layers to its gameplay. Read the full article on pushsquare.com
-
-### I ll Believe It When I See It : Things Look Bleak for New Mass Effect, Says Former EA Manager
-Thu, 20 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/ill-believe-it-when-i-see-it-things-look-bleak-for-new-mass-effect-says-former-ea-manager
-
-"They can pull the plug very, very easily". Over the last few years, the conversation surrounding the new Mass Effect game has shifted. It's gone from people wondering whether modern BioWare has the chops to follow up on the original Mass Effect trilogy, to questioning whether BioWare will actually be around long enough to finish the project. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Makers Fund expands game industry footprint through $250 million investment round
@@ -216,9 +216,4 @@ Raze and Rebuild Studio hopes to make the most of its co-op structure.
 Wed, 19 Aug 2026 13:43:14 GMT — https://www.gamedeveloper.com/business/report-playstation-reworks-horizon-live-service-game-after-negative-feedback
 
 PlayStation-owned Guerrilla Games is reportedly stripping out the live service component of Horizon Hunters Gathering following poor feedback.
-
-### Human: Fall Flat veterans launch new UK studio Pretty Cool Games
-Wed, 19 Aug 2026 10:34:39 GMT — https://www.gamedeveloper.com/business/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games
-
-The studio is hiring after securing financing for its debut project.
 

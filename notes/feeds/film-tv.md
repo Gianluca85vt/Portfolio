@@ -1,6 +1,36 @@
-# Film & TV — harvested 2026-08-21T08:19:18.669Z
+# Film & TV — harvested 2026-08-21T11:02:28.974Z
 
 ## Variety
+
+### Meghan Markle Eyes Acting Return After Move Back to the U.K.
+Fri, 21 Aug 2026 10:26:55 +0000 — https://variety.com/2026/tv/global/meghan-markle-acting-return-move-back-uk-1236839863/
+
+Meghan Markle is eyeing a return to the screen as she and Prince Harry move back to the U.K., Variety has confirmed. Following the shock announcement on Wednesday that the Duke and Duchess of Sussex are returning to England after six years in California, Australian outlet News.com.au reported on Friday morning that Meghan has been [ ]
+
+### The Voice of Hind Rajab Director Calls Israeli Investigation Into Killing of Palestinian Girl a Smokescreen : What Is Needed Is Justice
+Fri, 21 Aug 2026 09:40:42 +0000 — https://variety.com/2026/film/global/voice-hind-rajab-director-israeli-investigation-smokescreen-1236839828/
+
+Kaouther Ben Hania, the director of last year s Oscar-nominated docudrama The Voice of Hind Rajab — about the killing of a 5-year-old Palestinian girl in Gaza by Israeli forces — has rejected the news that Israel is launching an investigation into Rajab s death, describing it as a smokescreen. On Wednesday, the Israeli military admitted that [ ]
+
+### Woody Harrelson Ready to Direct Another Live Film, Compares Jason Bateman’s ‘The Cackling of the Dodos’ to Martin McDonagh and the Coen Brothers
+Fri, 21 Aug 2026 09:22:29 +0000 — https://variety.com/2026/film/global/woody-harrelson-jason-bateman-martin-mcdonagh-coen-brothers-1236838548/
+
+Almost a decade after taking on an unusually challenging directorial debut with the world s first live-streamed feature film in “Lost in London,” Woody Harrelson is finally ready to direct again. The actor revealed his desire to be back behind a camera, as well as his latest creative venture as a budding stand-up comic, while at [ ]
+
+### Sriram Raghavan Developing New Thriller in the Johnny Gaddaar Zone for India s Matchbox Shots as Operation Safed Sagar Soars on Netflix Charts (EXCLUSIVE)
+Fri, 21 Aug 2026 09:15:50 +0000 — https://variety.com/2026/film/news/sriram-raghavan-johnny-gaddaar-thriller-matchbox-shots-1236839812/
+
+Indian auteur Sriram Raghavan is developing a new thriller for Matchbox Shots set in the tonal zone of his 2007 film Johnny Gaddaar, as the Mumbai production house grows its slate on the strength of the global Netflix success of war series Operation Safed Sagar. Johnny Gaddaar was a twist-laden neo-noir heist thriller that marked [ ]
+
+### Folk Horror ‘Wolf Days,’ Family Drama ‘The First Week of August Win at Sarajevo Industry Awards
+Fri, 21 Aug 2026 09:00:07 +0000 — https://variety.com/2026/film/global/wolf-days-the-first-week-of-august-sarajevo-industry-awards-1236839656/
+
+Emilija Gašić’s folk horror “Wolf Days and Filip Mojzeš’ family drama “The First Week of August” won the top prizes in the Sarajevo Film Festival’s CineLink Industry Days, the industry section focused on projects in different stages of development from Southeast Europe, the Middle East and North Africa. Gašić’s sophomore feature, which is produced by Serbia’s [ ]
+
+### Jacob Elordi Ducks James Bond Question at London World Premiere of Ridley Scott s The Dog Stars When Asked if He s Been Auditioning: I m Here on Holiday
+Fri, 21 Aug 2026 08:45:26 +0000 — https://variety.com/2026/film/global/jacob-elordi-james-bond-ridley-scott-the-dog-stars-premiere-1236839014/
+
+Jacob Elordi was the star guest in London on Thursday night as he touched down for the world premiere of Ridley Scott s latest feature The Dog Stars. The actor s arrival in Leicester Square was immediately soundtracked by the noise of screams from fans, including from a group of girls leaning out of nearby window, who [ ]
 
 ### The Marching Band Review: Brothers From Opposite Worlds Are United by Music in a Finely Tuned French Crowdpleaser
 Fri, 21 Aug 2026 07:55:15 +0000 — https://variety.com/2026/film/reviews/the-marching-band-review-1236839792/
@@ -12,7 +42,7 @@ Fri, 21 Aug 2026 07:07:04 +0000 — https://variety.com/2026/film/reviews/good-p
 
 On March 16, 2025, a fire broke out at the Pulse nightclub in the small North Macedonian town of Kočani, injuring hundreds and killing 63 people due to burn damage, smoke inhalation and other physical traumas sustained while attendees scrambled to flee through the venue’s sole exit. The club had only one fire extinguisher and [ ]
 
-### Icelandic Producer Hlín Jóhannsdóttir Sets ‘Just a Kid’ With Alief Ahead of Haugesund and Reunites with ‘Driving Mum’ Team (EXCLUSIVE)
+### Icelandic Producer Hlín Jóhannsdóttir Sets ‘Just a Kid’ With Alief Ahead of Haugesund and Reunites With ‘Driving Mum’ Team (EXCLUSIVE)
 Fri, 21 Aug 2026 07:00:00 +0000 — https://variety.com/2026/film/global/driving-mum-iceland-alief-just-a-kid-1236839417/
 
 Veteran Icelandic producer Hlín Jóhannsdóttir of Ursus Parvus, behind titles from some Iceland’s most renowned filmmakers including Fridrik Thor Fridriksson, Dagur Kári and Rúnar Rúnarsson, has signed with French-U.K. sales outfit Alief on the coming-of-age “Just a Kid” (“Bara barn”) by up-and-coming writer-director Vala Ómarsdóttir. To be pitched at New Nordic Films’ Works in Progress [ ]
@@ -21,36 +51,6 @@ Veteran Icelandic producer Hlín Jóhannsdóttir of Ursus Parvus, behind titles 
 Fri, 21 Aug 2026 06:32:07 +0000 — https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782/
 
 Amazon MGM Studios has released the teaser for Vibe, an action comedy written and directed by Kunal Kemmu that follows two ordinary friends who unexpectedly become the country s last line of defense. The teaser introduces Hardik (Kemmu) and Bugs (Sparsh Shrivastava), a pair of accidental heroes who are neither trained nor willing for the job [ ]
-
-### Chris Hansen Says He Refused to Sign His Rights Away in Order to Screen Robert Pattinson s Primetime
-Fri, 21 Aug 2026 01:43:38 +0000 — https://variety.com/2026/film/awards/chris-hansen-a24-primetime-screening-refused-1236839630/
-
-Chris Hansen didn t get to take a seat for the new A24 movie Primetime. The 66-year-old veteran journalist went to the offices of indie distributor A24 to watch the Lance Oppenheim film, in which he is played by Robert Pattinson, before it bows at the Venice Film Festival. But he left without seeing it. The [ ]
-
-### Jaafar Jackson: ‘Michael’ Sequel Will Give More Insight Into Child Abuse Allegations and Let His Voice Be Heard
-Thu, 20 Aug 2026 23:55:49 +0000 — https://variety.com/2026/film/news/jaafar-jackson-michael-sequel-insight-child-abuse-allegations-1236839600/
-
-Now that the second “Michael” movie is closer to starting production, star Jaafar Jackson says it will indeed address the criticisms and child abuse allegations Michael Jackson faced in the 90s. Michael Jackson s nephew Jaafar Jackson says that while he doesn t have much say in how the screenplay is written, he tells GQ Middle East [ ]
-
-### Ariana Grande Blasts Trump Administration for Using We Can t Be Friends in Social Post: Your Truth Is False
-Thu, 20 Aug 2026 23:43:10 +0000 — https://variety.com/2026/music/news/ariana-grande-slams-trump-we-cant-be-friends-tiktok-post-1236839607/
-
-Ariana Grande has once again spoken out against the Trump administration for using one of her songs in a post on social media, this time for setting We Can t Be Friends (Wait For Your Love) as the soundtrack for a post on the Team Trump TikTok account. Team Trump posted a video earlier on Thursday [ ]
-
-### How Star Trek: Strange New Worlds Pulled Off That Madcap Puppet Episode
-Thu, 20 Aug 2026 22:30:00 +0000 — https://variety.com/2026/tv/news/star-trek-strange-new-worlds-puppet-episode-1236833011/
-
-SPOILER ALERT: This article contains spoilers for “Star Trek: Strange New Worlds” Season 4 Episode 5, titled “Level Five Transporter Accident, now streaming on Paramount+. At long last, the most anticipated event in recent “Star Trek” memory is here. No, not another movie or another series focused on a legacy character. We are of course [ ]
-
-### Prime Video Unveils Landmark $2 Billion-Plus Investment in Latin American Entertainment
-Thu, 20 Aug 2026 22:19:29 +0000 — https://variety.com/2026/film/global/prime-video-2-billion-investment-latin-america-1236839446/
-
-Prime Video has unveiled a landmark $2 billion-plus investment plan in Latin American entertainment spanning 2027 to 2030 in a concerted bid to increase viewership and engagement. The move comes in what is considered the second fastest growing region for streaming in the world, with Netflix the clear frontrunner. At an inaugural showcase event in [ ]
-
-### Dave Bautista Officially Set as Kratos in God of War TV Series
-Thu, 20 Aug 2026 22:00:00 +0000 — https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394/
-
-Dave Bautista is officially taking up the mantle of the God of War. Variety has learned that the actor is now set to lead the Amazon Prime Video TV series based on the video game franchise in the role of Kratos. It was originally reported earlier this month that Bautista was in talks to play [ ]
 
 ## The Hollywood Reporter
 
@@ -106,6 +106,16 @@ Thu, 20 Aug 2026 21:35:42 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 ## Deadline
 
+### Swedish Dramedy Adult Supervision Sells To WB Discovery, Fandango, Palace, Vertigo More Ahead Of Fantastic Fest Launch; Watch Trailer
+Fri, 21 Aug 2026 09:00:54 +0000 — https://deadline.com/2026/08/adult-supervision-sells-wb-discovery-more-fantastic-fest-1237047254/
+
+EXCLUSIVE: Heretic has closed multiple international sales on Alex Schulman’s Adult Supervision ahead of its world premiere at Fantastic Fest in Austin, where it will screen in the Next Wave Competition. The film has sold to Fandango for Italy, Palace Films for Australia and New Zealand, Vertigo Releasing for Hungary, CinemArt for the Czech Republic [ ]
+
+### Free Nelson Mandela Maker Rogan Productions Opens South Africa Office Tweaks Management Set Up
+Fri, 21 Aug 2026 08:35:00 +0000 — https://deadline.com/2026/08/rogan-productions-opens-south-africa-office-1237047249/
+
+EXCLUSIVE: Fresh off producing Channel 4 s Free Nelson Mandela, Rogan Productions has opened an office in South Africa. The new unit, Rogan South Africa, will be a production base in Johannesburg with close links to Cape Town. This marks the first permanent international expansion for the 13-year-old London-based company. At the same time, Rogan is [ ]
+
 ### Chris Hansen Was Turned Away From Primetime Screening After Refusing To Sign Standard NDA, Not Sign Away His Rights
 Fri, 21 Aug 2026 03:02:34 +0000 — https://deadline.com/2026/08/chris-hansen-turned-away-primetime-refusing-sign-nda-1237047193/
 
@@ -155,14 +165,4 @@ Dave Bautista has closed his deal to play Kratos in Prime Video s God of War fan
 Thu, 20 Aug 2026 21:43:57 +0000 — https://deadline.com/2026/08/california-film-tax-credits-latest-1237045968/
 
 EXCLUSIVE: With a very hard out of less than two weeks, state legislators in Sacramento are either going to be Scrooge or Santa with California’s film and TV tax incentives for the near-moribund L.A. industry. It’s a mixed result right now with a lot of good intentions, a lot of cooks in the kitchen [ ]
-
-### Film Buyers Fume As Amazon Accidentally Leaks Jason Statham s Big-Budget Mutiny Ahead Of Cinema Release: A Multimillion-Dollar Problem
-Thu, 20 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/amazon-leaks-jason-statham-movie-mutiny-1237046734/
-
-Amazon is in choppy waters after accidentally leaking Jason Statham s latest big-budget action pic Mutiny on its Prime Video service days before the movie is released in theaters. Deadline understands that the movie was up for a matter of hours earlier this week after a mistake led to it being posted on Prime s product detail [ ]
-
-### From Vintage Levi’s To Playing Cards: ‘Hacks’ Costume Designer Kathleen Felix-Hager On Dressing Season 5
-Thu, 20 Aug 2026 21:30:00 +0000 — https://deadline.com/2026/08/hacks-costume-designer-interview-season-5-1237046866/
-
-By the time Hacks reached its fifth and final season, Deborah Vance (Jean Smart) was still Deborah Vance — big earrings, bold looks and all. But for costume designer Kathleen Felix-Hager, it was Ava Daniels (Hannah Einbinder) whose wardrobe told the story of just how much the young writer had changed since Season 1. As [ ]
 

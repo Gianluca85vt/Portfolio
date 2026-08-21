@@ -1,6 +1,16 @@
-# Manga — harvested 2026-08-21T08:19:18.669Z
+# Manga — harvested 2026-08-21T11:02:28.974Z
 
 ## Anime News Network
+
+### Matsurika Kanriden TV Anime Reveals Kana-Boon's Theme Song in Promo Video
+Fri, 21 Aug 2026 05:04:18 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/matsurika-kanriden-tv-anime-reveals-kana-boon-theme-song-in-promo-video/.240797
+
+Takeo Ōtsuka, Kōtarō Nishiyama, Shō Komura join cast for anime debuting in January 2027
+
+### Live-Action Happy Kanako's Killer Life Season 2 Reveals 3 New Cast Members
+Fri, 21 Aug 2026 03:40:17 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/live-action-happy-kanako-killer-life-season-2-reveals-3-new-cast-members/.240775
+
+Hikaru Takahashi, Aoi Morikawa, Sayu Suzukawa join cast as Kanako's assassin colleagues
 
 ### Billy Bat, The Summer Hikaru Died, More Win 3rd American Manga Awards
 Fri, 21 Aug 2026 03:04:34 -0400 — https://www.animenewsnetwork.com/interest/2026-08-21/billy-bat-the-summer-hikaru-died-more-win-3rd-american-manga-awards/.240791
@@ -51,16 +61,6 @@ Art lovingly recreates 2-page color splash spread that opened original manga
 Thu, 20 Aug 2026 19:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/fool-night-anime-teaser-reveals-more-cast-november-26-worldwide-netflix-debut/.240745
 
 Junya Enoki, Aya Endō, Kiyomitsu Mizuuchi join cast
-
-### Please Save My Earth Manga Gets Live-Action Amazon Prime Show Starring Alice Hirose
-Thu, 20 Aug 2026 19:25:09 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/please-save-my-earth-manga-gets-live-action-amazon-prime-show-starring-alice-hirose/.240766
-
-<i>Solanin's</i> Takahiro Miki helms fall 2027 shōjo sci-fi romance
-
-### Samurai Harem: Asu no Yoichi Manga Gets New 1-Shot
-Thu, 20 Aug 2026 17:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/samurai-harem-asu-no-yoichi-manga-gets-new-1-shot/.240674
-
-New 1-shot story celebrates 20 years since manga launched
 
 ## Crunchyroll News
 
