@@ -4,7 +4,6 @@ date: 2026-08-21
 category: Games
 excerpt: Game Science's 15-minute reveal trades the staff-and-transformation combat of Wukong for a grounded sword that blocks and parries. That sounds like a smaller change than it is — for the animation team, it's a completely different problem.
 cover: /img/blog/black-myth-zhong-kui-gameplay-reveal-combat-shift/shot-01.jpg
-draft: true
 ---
 
 Game Science has a habit now: every 20 August, the anniversary of Black Myth:
