@@ -3,7 +3,7 @@ title: "Metal Gear Solid 4 finally left PS3, and the reviews tell you what that 
 date: 2026-08-21
 category: Games
 excerpt: Master Collection Vol. 2 reviewed to a 9.0 average this week, and the headline is simple — MGS4 is off PS3 for the first time ever. The harder story is what remastering three games from three completely different eras, with no shared source, actually involves.
-cover: /img/blog/mgs-master-collection-2-review/cover.svg
+cover: /img/blog/mgs-master-collection-2-review/shot-01.jpg
 reviewOf: "Metal Gear Solid: Master Collection Vol. 2"
 score: 9
 scoreSources:
@@ -24,6 +24,11 @@ The headline everyone is running with is correct: **Metal Gear Solid 4: Guns of 
 But "we ported an old game" undersells what's actually in this box, because the three games in it are not from the same era of hardware, or the same era of *me* — the pipeline I'd have used to build them.
 
 ## Three games, three completely different starting points
+
+<figure>
+  <img src="/img/blog/mgs-master-collection-2-review/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Konami, via the official Steam page</figcaption>
+</figure>
 
 **Ghost Babel** is Game Boy Color, from 2000. Sprite-based, tile-constrained, built for a screen the size of a matchbook.
 
