@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-21T14:18:04.154Z
+# Games — harvested 2026-08-21T17:05:32.824Z
 
 ## Eurogamer
+
+### Take-Two's legal action to find GTA 6 leaker begins, as it subpoenas Microsoft and Discord for any data "sufficient to identify the users person"
+Fri, 21 Aug 2026 15:55:19 +0000 — https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek
+
+The hunt for the GTA 6 leaker is on. Take-Two has reportedly filed multiple subpoenas in a federal district court to force information out of Microsoft and Discord related to anything - OneDrive data, Xbox accounts, or Discord users - that might reveal who leaked GTA 6 gameplay videos online. Read more
+
+### The second season of Netflix's Cyberpunk Edgerunners anime releases this year
+Fri, 21 Aug 2026 14:29:56 +0000 — https://www.eurogamer.net/cyberpunk-edgerunners-release-date-october-teaser-trailer
+
+The second season of Netflix anime Cyberpunk Edgerunners has a release date, and it's being released this year. We also have a new trailer giving us a peek at the 10-episode run. Read more
 
 ### That limited edition green see-through Xbox Series X reportedly costs as much as a PS5 Pro, and releases on Black Friday
 Fri, 21 Aug 2026 13:22:13 +0000 — https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price
@@ -51,16 +61,6 @@ The acclaimed James Bond game 007 First Light continues to find success, with de
 Thu, 20 Aug 2026 15:30:08 +0000 — https://www.eurogamer.net/the-duskbloods-release-date-nintendo-denied
 
 Nintendo has denied that The Duskbloods will be releasing on the 24th September, after the date was included in an early preview of the game. Read more
-
-### Final Fantasy: Crystal Chronicles composer speaks out about AI-generated Spotify album falsely using her name
-Thu, 20 Aug 2026 14:48:07 +0000 — https://www.eurogamer.net/final-fantasy-crystal-chronicles-composer-kumi-tanioka-ai-spotify
-
-Final Fantasy: Crystal Chronicles composer Kumi Tanioka has spoken out about an album attributed to her on Spotify. The problem? She had nothing to do with it. Read more
-
-### A cracked version of Marvel Tōkon is reigniting questions around DRM and its impact on PC games
-Thu, 20 Aug 2026 14:29:40 +0000 — https://www.eurogamer.net/marvel-tokon-fighting-souls-crack-drm-performance
-
-Marvel T&omacr;kon: Fighting Soul is reigniting the debate around DRM, amid reports a new DRM-free cracked version is performing better than Sony's widely lambasted official PC version. Read more
 
 ## GamesIndustry.biz
 
@@ -130,6 +130,21 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Next Major PS5 Exclusive Is Ready to Release, Wolverine Goes Gold
+Fri, 21 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/08/next-major-ps5-exclusive-is-ready-to-release-wolverine-goes-gold
+
+Get your gold claws out. Insomniac has announced its fourth PS5 game, Marvel's Wolverine , has gone gold ahead of release on 15th September 2026. It shared the news with a quick social media video featuring Logan with gold claws, and it's confirmed you can unlock them in the game. The phrase "going gold" means work on the 1.0 version of the game is now complete and can be pressed to PS5 discs. It's been confirmed the full 1.0 version of Marvel's Wolverine will be on the disc itself, but there shall be a day one patch via digital download on top. Read the full article on pushsquare.com
+
+### Take-Two Aims to Bring the Hammer Down on GTA 6 Leaker, Requests Help from Microsoft, Discord
+Fri, 21 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/take-two-aims-to-bring-the-hammer-down-on-gta-6-leaker-requests-help-from-microsoft-discord
+
+The hunt for Cyberleek. As you would expect, publisher Take-Two is clearly not best pleased about the recent leaks of GTA 6 . In its quest to bring the offending party to justice, the company has subpoenaed both Microsoft and Discord, requesting their participation in a legal crackdown on the person (or people) behind the Cyberleek moniker. Read the full article on pushsquare.com
+
+### The Blood of Dawnwalker Won t Have 60FPS Mode on PS5 or Even PS5 Pro
+Fri, 21 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro
+
+Console footage shared online. Rebel Wolves has announced the graphical modes you can pick between in The Blood of Dawnwalker , and the standout news is that neither of the two settings provided offers 60 frames-per-second support on base PS5 or PS5 Pro. On both base PS5 and PS5 Pro, there are the same two modes to choose from: Read the full article on pushsquare.com
+
 ### Psychonauts Dev Double Fine Reveals Its Future Plans Today
 Fri, 21 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/psychonauts-dev-double-fine-reveals-its-future-plans-today
 
@@ -175,22 +190,12 @@ Thu, 20 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/08/ex-wre
 
 Thoughts? Ex-WWE wrestler and Guardians of the Galaxy star Dave Bautista is reportedly in talks to play Kratos in Amazon’s upcoming God of War live action TV show. Variety reports that the 57-year-old is in discussions to replace Ryan Hurst, who is being recast after tearing his bicep last month . Read the full article on pushsquare.com
 
-### Sony Accused of Blocking Marvel s Wolverine Discounts in Brazil
-Thu, 20 Aug 2026 23:15:00 GMT — https://www.pushsquare.com/news/2026/08/sony-accused-of-blocking-marvels-wolverine-discounts-in-brazil
-
-No savings for you, bub. Sony has been accused of blocking sales of Marvel’s Wolverine via a Brazilian website which allows the use of discount codes. Local store The Gamer Hut , which operates within Shopee, claims that an “external” request required it to prevent the use of vouchers or cease selling the upcoming game. Read the full article on pushsquare.com
-
-### We Don t Need to Aggressively Sell the Console : Sony CEO Says Timing of Memory Crisis Is Lucky for PS5
-Thu, 20 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/we-dont-need-to-aggressively-sell-the-console-sony-ceo-says-timing-of-memory-crisis-is-lucky-for-ps5
-
-"Monetising users is quite important for us". Sony CEO Hiroki Totoki has implied the ongoing memory crisis affecting the entire hardware industry has come at a fortuitous time for the PS5. Interviewed by the Wall Street Journal about the Japanese giant’s transition from electronics to entertainment, he was asked whether spiralling component prices had come at the right time for the PS5 considering it’s already sold over 95 million units . Read the full article on pushsquare.com
-
-### PS5 Fighting Game 2XKO Throws in the Towel, Just Can t Get Enough Players
-Thu, 20 Aug 2026 20:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-fighting-game-2xko-throws-in-the-towel-just-cant-get-enough-players
-
-Less than a year after PS5 launch. The live service space is brutal — and I imagine that cracking it is even harder when you're a fighting game. Fairly high expectations were placed upon 2XKO when it was first announced and eventually released into early access on PC. A free-to-play fighting game felt like a bold step forward for the genre — and being based on League of Legends, it had serious weight behind it in terms of brand recognition. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### We're finally talking about AI, ft. David 'Rez' Graham and Luke Dicken
+Fri, 21 Aug 2026 14:45:37 GMT — https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken
+
+We're chatting about AI and AI techniques, but it’s also a conversation about the nature of work and the inherent value of AI in game development.
 
 ### EA staff worries over Saudi buyout, Grand Theft Auto 6 leaks, and Peak's last major update - Patch Notes #66
 Fri, 21 Aug 2026 12:32:53 GMT — https://www.gamedeveloper.com/business/ea-staff-worries-over-saudi-buyout-grand-theft-auto-6-leaks-and-peak-s-last-major-update-patch-notes-66
@@ -206,14 +211,4 @@ Makers general partner Jay Chi said the VC firm was 'founded on the belief that 
 Thu, 20 Aug 2026 08:57:26 GMT — https://www.gamedeveloper.com/business/hundreds-of-union-workers-rally-across-north-america-to-protest-xbox-layoffs
 
 CWA members and supporters are keeping pressure on Microsoft after the company announced plans to eliminate 3,200 roles across Xbox during the current fiscal year.
-
-### Harvey Smith and fellow Arkane Austin veterans announce a new studio, Black Pony Immersive
-Wed, 19 Aug 2026 16:35:10 GMT — https://www.gamedeveloper.com/business/harvey-smith-and-fellow-arkane-austin-veterans-launch-a-new-studio
-
-Black Pony Immersive will design and develop first-person action RPGs.
-
-### Triple-A vets and accessibility experts launch new game dev co-op: Raze and Rebuild Studio
-Wed, 19 Aug 2026 15:09:17 GMT — https://www.gamedeveloper.com/business/triple-a-vets-and-accessibility-experts-launch-new-game-dev-co-op-raze-and-rebuild-studio
-
-Raze and Rebuild Studio hopes to make the most of its co-op structure.
 

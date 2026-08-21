@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-21T14:18:04.154Z
+# Film & TV — harvested 2026-08-21T17:05:32.824Z
 
 ## Variety
 
-### Natalie Portman at the Center of Literary Furor as Rachel Cusk s Life of M Nears Release
-Fri, 21 Aug 2026 14:00:00 +0000 — https://variety.com/2026/film/features/natalie-portman-rachel-cusk-life-of-m-1236839311/
+### GTA 6 Developer Rockstar Games Subpoenas Microsoft, Discord Amid Leaks
+Fri, 21 Aug 2026 17:01:47 +0000 — https://variety.com/2026/gaming/news/gta-6-leaks-rockstar-subpoenas-microsoft-discord-1236840176/
 
-For decades, Natalie Portman has been one of our most cerebral stars. A 1999 Vanity Fair cover, promoting “The Phantom Menace,” asked whether the then-17-year-old might “choose Harvard over Hollywood.” She managed to do both, earning an Ivy League degree and an Oscar. Her characters in movies from “Jackie” to “May December” are often overthinkers, [ ]
+Rockstar Games has filed subpoenas with a district court requesting information from Microsoft and Discord regarding gameplay leaks for its eagerly anticipated, unreleased game, Grand Theft Auto 6. Per the documents, filed with the United States District Court for the Southern District of New York on Thursday, the copyrighted material includes but is not limited [ ]
 
-### The Cramps’ ‘Gravest Gravy’ Unearths Long-Lost Sessions From One of Rock’s Most Brilliantly Deranged Bands: Album Review
-Fri, 21 Aug 2026 14:00:00 +0000 — https://variety.com/2026/music/reviews/cramps-gravest-gravy-album-review-1236839743/
+### Insidious: Out of the Further Writer-Director Jacob Chase Knows the Audience Is Asking, Why Are We Still Making These Movies? So He Was Determined to Make a Fresh Start
+Fri, 21 Aug 2026 17:00:00 +0000 — https://variety.com/2026/film/features/insidious-out-of-the-further-jump-scares-1236838758/
 
-The Cramps were one of the greatest and strangest bands to emerge from the punk-rock generation — which is truly saying something. By fusing rockabilly with humor and imagery inspired by vintage horror movies, they helped to pioneer the sound sometimes called psychobilly — a gloriously twisted take on rockabilly’s trademark twang and groove with deranged [ ]
+“Insidious: Out of the Further,” in theaters Friday via Sony Pictures Entertainment, is a soft reboot of the popular horror franchise. Writer-director Jacob Chase is uniquely qualified to distill what really scares audiences. In this chapter, the sixth movie in the franchise, a woman named Gemma (Amelia Eve) is able to astral project like others [ ]
 
-### ‘Our Loves’: Director Avi Nesher on His October 7 Film, Netanyahu and Boycotts Over Israeli Art
-Fri, 21 Aug 2026 14:00:00 +0000 — https://variety.com/2026/film/features/our-loves-avi-nesher-october-7-movie-1236839745/
+### Bonnaroo to Take Off 2027 to Recover From Extreme Weather
+Fri, 21 Aug 2026 16:12:01 +0000 — https://variety.com/2026/music/news/bonnaroo-take-off-2027-recover-from-extreme-weather-1236840135/
 
-The terror attacks of Oct. 7, 2023, wherein Hamas and other Palestinian militants poured across the Gaza-Israel barrier into southern Israel, attacking 21 communities and killing 1,195 Israelis and foreign nationals (and abducting an additional 251 people), have been revisited a number of times via documentaries (“We Will Dance Again”) and miniseries (“One Day in [ ]
+Organizers for Bonnaroo Music and Arts Festival have announced that the festival will be taking a much-needed year off in 2027. The annual festival, which takes place in Manchester, TN, has been plagued by severe weather over the past couple of years, leading to its cancelation in 2025 just a day after it started. In [ ]
 
-### Prince Harry, Elton John and More Ordered to Pay Initial $13 Million to Daily Mail Publisher After Losing Privacy Case
-Fri, 21 Aug 2026 13:31:34 +0000 — https://variety.com/2026/global/news/prince-harry-ordered-to-pay-13-million-daily-mail-1236839928/
+### How Disneyland’s Cast Members Work Behind the Scenes to Create Magic for the Holidays: ‘Storytelling Is a Centerpiece to Everything We Do at the Company
+Fri, 21 Aug 2026 16:05:00 +0000 — https://variety.com/2026/artisans/news/disneyland-behind-scenes-holidays-1236837553/
 
-Prince Harry looks like he might be returning to the U.K. with a sizeable bill to pay. The prince is among a group of seven high-profile figures — including Elton John and Liz Hurley — who have been ordered to pay an initial £9.54 million ($13 million) in legal costs to the publisher of the Daily [ ]
+In a 400,000 square-foot warehouse in Cerritos, Disney cast members create magic. It’s the facility where cast members create decor for the park — right now they are putting the finishing touches on Halloween and have already started winter holiday-scapes — fix everything from restaurant appliances to the iconic spinning teacups; it’s where signs get [ ]
 
-### RFK Jr. Blasts CNN s Erin Burnett as Having Trump Derangement Syndrome Over Report Finding His Affordable Family Meal Costs 3.6 Times What Health Secretary Claimed
-Fri, 21 Aug 2026 12:36:51 +0000 — https://variety.com/2026/tv/news/rfk-jr-cnn-erin-burnett-trump-derangement-syndrome-affordable-meal-cost-1236839881/
+### Disney Partners With Dhar Mann Studios, Which Has Been Given a 20-Episode Series Order
+Fri, 21 Aug 2026 15:51:11 +0000 — https://variety.com/2026/tv/news/disney-dhar-mann-studios-20-episode-series-order-1236840119/
 
-Robert F. Kennedy Jr. lashed out at CNN anchor Erin Burnett, claiming she is afflicted with Trump Derangement Syndrome that has left her without common sense or basic arithmetic. RFK Jr., Trump s Secretary of Health and Human Services, was complaining about a report on Erin Burnett OutFront that found one of his affordable meal plans [ ]
+Disney has sealed a pact with Burbank-based content creator Dhar Mann Studios to create new youth- and family-oriented programming for its platforms, the companies announced Friday. The deal kicks off with a 20-episode order on series produced by Dhar Mann Studios for Disney; further details were not revealed. “Dhar has built a distinctive voice and [ ]
 
-### Kenneth Branagh on Doing His Own Stunts as a KGB Operative in ‘Mayday,’ Bonding With Ryan Reynolds Over Soccer: ‘We Can Be Pretty Nerdish’
-Fri, 21 Aug 2026 12:00:00 +0000 — https://variety.com/2026/film/global/kenneth-branagh-stunts-mayday-ryan-reynolds-soccer-1236839872/
+### Saw V Director David Hackl Boards Action-Thriller Solar Storm as Jack Hudson and Lorena Andrea Cast in Lead Roles (EXCLUSIVE)
+Fri, 21 Aug 2026 15:34:48 +0000 — https://variety.com/2026/film/global/david-hackl-solar-storm-jack-hudson-lorena-andrea-1236840095/
 
-While he may not be known as an action star, Kenneth Branagh absolutely wanted to give it a go for Mayday, his upcoming Apple TV Cold War action-comedy in which he co-stars with Ryan Reynolds. He just needed to find out how best to get involved. I asked the directors, What s the way to do [ ]
+David Hackl ( Saw V, Dangerous ) is set to direct the neo-noir action thriller Solar Storm for Pelican Pictures, from a script by Joe Rabl. Jack Hudson ( The Devil s Train ) stars and produces opposite Lorena Andrea ( Warrior Nun ). Unfolding over a single catastrophic day, Solar Storm follows Joe (Hudson), an ex-convict fighting to leave his past [ ]
 
-### Canada s H264 Nabs Colombia s Where the River Begins Ahead of Toronto Fest World Premiere
-Fri, 21 Aug 2026 11:38:58 +0000 — https://variety.com/2026/film/global/canada-h264-where-the-river-begins-toronto-fest-premiere-1236838810/
+### Here s How to Watch English Premier League Online: Livestream the 2026-2027 Season for Free
+Fri, 21 Aug 2026 15:30:54 +0000 — https://variety.com/2026/shopping/news/how-to-watch-premier-league-soccer-online-free-streaming-1235695678/
 
-Canadian distributor h264 has pounced on worldwide sales rights to “Where the River Begins” (“Donde comienza el rio”) by Colombian-Canadian filmmaker Juan Andrés Arango (“La Playa DC”), ahead of its world premiere at the Toronto Film Festival (TIFF). Starring Girleza Duave Cerezo, Juan David Junca Linares and Ana Michell Nama Dumaza, “Where the River Begins [ ]
+With the wild success of FIFA World Cup in the United States, American fans are flocking to Major League Soccer and English Premier League to keep that winning and exciting feeling going from the beautiful game. The 2026-2027 season begins on Friday, Aug. 21, as teams throughout the United Kingdom compete to hoist the Premier [ ]
 
-### Supporting Role Director Ana Urushadze Preps Fear of Butterflies, a Detective Story With Mysticism and a Touch of Body Horror (EXCLUSIVE)
-Fri, 21 Aug 2026 11:03:18 +0000 — https://variety.com/2026/film/global/supporting-role-ana-urushadze-fear-of-butterflies-1236839801/
+### Amid Spider-Man and The Odyssey Leaks, Hollywood s Battle Against Piracy Enters a Whole New Era
+Fri, 21 Aug 2026 15:30:00 +0000 — https://variety.com/2026/film/features/movie-piracy-spider-man-odyssy-leak-online-1236837027/
 
-Georgian director Ana Urushadze (“Scary Mother”), whose Rotterdam prizewinner “Supporting Role” plays in competition this week at the Sarajevo Film Festival, is prepping her third feature film. “Fear of Butterflies” follows a young woman on the cusp of 30 who is “going through some bizarre things, mentally and physically,” Urushadze told Variety. The director described the [ ]
+What a slap in the face for Christopher Nolan. The Oscar winner and generation-defining talent spent three years writing, directing, producing and editing “The Odyssey,” making his movie into its own kind of myth: a hand-crafted spectacle shot across six continents on the most rarefied cameras in the world, powered by the biggest stars and [ ]
 
-### Meghan Markle Eyes Acting Return After Move Back to the U.K.
-Fri, 21 Aug 2026 10:26:55 +0000 — https://variety.com/2026/tv/global/meghan-markle-acting-return-move-back-uk-1236839863/
+### Netflix Sets Theatrical and Streaming Dates for Peter Berg s World War II Drama The Mosquito Bowl (EXCLUSIVE)
+Fri, 21 Aug 2026 15:30:00 +0000 — https://variety.com/2026/film/awards/mosquito-bowl-release-date-netflix-peter-berg-1236839647/
 
-Meghan Markle is eyeing a return to the screen as she and Prince Harry move back to the U.K., Variety has confirmed. Following the shock announcement on Wednesday that the Duke and Duchess of Sussex are returning to England after six years in California, Australian outlet News.com.au reported on Friday morning that Meghan has been [ ]
+Peter Berg is bringing one of World War II’s most improbable true stories to the big screen, and now it has a date. “The Mosquito Bowl,” directed by Berg (“Lone Survivor,” “Deepwater Horizon”), will open in U.S. theaters Oct. 30 before making its Netflix premiere Nov. 25, Variety can exclusively reveal, along with a first [ ]
 
-### The Voice of Hind Rajab Director Calls Israeli Investigation Into Killing of Palestinian Girl a Smokescreen : What Is Needed Is Justice
-Fri, 21 Aug 2026 09:40:42 +0000 — https://variety.com/2026/film/global/voice-hind-rajab-director-israeli-investigation-smokescreen-1236839828/
+### Prehistoric Planet: Ice Age Soundtrack Features New Music by Composers Hans Zimmer, Kara Talve and Anže Rozman
+Fri, 21 Aug 2026 15:30:00 +0000 — https://variety.com/2026/artisans/awards/prehistoric-planet-ice-age-soundtrack-hans-zimmer-1236839961/
 
-Kaouther Ben Hania, the director of last year s Oscar-nominated docudrama The Voice of Hind Rajab — about the killing of a 5-year-old Palestinian girl in Gaza by Israeli forces — has rejected the news that Israel is launching an investigation into Rajab s death, describing it as a smokescreen. On Wednesday, the Israeli military admitted that [ ]
+The soundtrack for Apple TV s Prehistoric Planet: Ice Age has been released, featuring music by Hans Zimmer and fellow composers Kara Talve and Anže Rozman. The score was written by Zimmer, Talve and Rozman of Bleeding Fingers Music and performed by the BBC National Orchestra of Wales. The trio are nominated in the Outstanding Music [ ]
 
 ## The Hollywood Reporter
 
-### Chase Stokes Bids Farewell to Outer Banks
-Fri, 21 Aug 2026 13:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/chase-stokes-outer-banks-finale-goodbye-interview-1236677412/
+### Hayden Panettiere’s Ex-Fiancé Wladimir Klitschko Shares Heartfelt Message on Late Star’s 37th Birthday: You Are Loved
+Fri, 21 Aug 2026 16:55:53 +0000 — https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-wladimir-klitschko-message-birthday-1236678444/
 
-As the 33-year-old actor moves on from his breakout role in the hit Netflix series, he's opening up about what comes next and the struggles he's overcome since wrapping the show: "I had so much shit wrong."
+“Today we celebrate her life, her spirit, and the love she brought into this world,” Klitschko wrote about ‘Heroes’ star.
 
-### Meghan Markle Eyeing Acting Return as She and Prince Harry Move Back to the United Kingdom
-Fri, 21 Aug 2026 13:30:48 +0000 — https://www.hollywoodreporter.com/tv/tv-news/meghan-markle-return-prince-harry-move-united-kingdom-1236678362/
+### Bonnaroo Will Not Take Place in 2027, Festival Says
+Fri, 21 Aug 2026 16:31:14 +0000 — https://www.hollywoodreporter.com/music/music-news/bonnaroo-2027-not-happening-1236678422/
+
+Organizers said the event will take a “much-needed year off” following multiple years of challenges due to severe weather.
+
+### How ‘The Magic Faraway Tree’ Embraced Its Dated Source Material to Deliver a Humble Yet Epic Adaptation
+Fri, 21 Aug 2026 16:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/magic-faraway-tree-movie-potential-sequel-andrew-garfield-1236677441/
+
+Director Ben Gregor and writer Simon Barnaby talk navigating cultural nostalgia while modernizing Enid Blyton’s beloved British children's books, building their “Blytopia,” and the potential for sequels with Andrew Garfield and Claire Foy.
+
+### Robby s Back: The Pitt Offers Up First Look at Season 3
+Fri, 21 Aug 2026 15:45:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-pitt-season-3-first-teaser-photos-1236678398/
+
+Even though the show won't debut until January 2027.
+
+### Producer Lauren Neustadter Is Redefining What a Hello Sunshine Show Can Be
+Fri, 21 Aug 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lauren-neustadter-lucky-morning-show-big-little-lies-1236677679/
+
+After a summer going YA with 'Elle' and action on 'Lucky,' the executive talks about wrapping up 'The Morning Show' and brings an update on the return of 'Big Little Lies.'
+
+### Meghan Markle in Advanced Talks to Join Guy Ritchie s The Gentlemen After She and Prince Harry Move Back to the U.K.
+Fri, 21 Aug 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/meghan-markle-return-prince-harry-move-united-kingdom-1236678362/
 
 The former 'Suits' co-star stepped away from acting in 2017 amid her engagement with Harry.
 
-### Movie Theater Owner: What Worries Me About the War on Paramount and Warner Bros.
-Fri, 21 Aug 2026 13:15:00 +0000 — https://www.hollywoodreporter.com/business/business-news/movie-theater-owner-paramount-warner-bros-1236678084/
+### Insidious: Out of the Further Hunts Down $3M in Box Office Previews
+Fri, 21 Aug 2026 15:16:58 +0000 — https://www.hollywoodreporter.com/movies/movie-news/insidious-out-of-the-further-box-office-previews-spider-man-1236678303/
 
-"Industries rarely suffer because too many people are willing to make sensible long-term investments. The greater danger comes when investment stops," writes the owner of Phoenix Theatres.
+Jason Statham's 'Mutiny' also storms theaters to face off against the fourth weekend for 'Spider-Man: Brand New Day.'
 
-### Billy Bob Thornton Says Holly­wood Wasn’t Nice to Taylor Sheridan, But That Texas Accepted Him
-Fri, 21 Aug 2026 04:32:07 +0000 — https://www.hollywoodreporter.com/tv/tv-news/billy-bob-thornton-hollywood-wasnt-nice-taylor-sheridan-1236678230/
+### Disney Strikes Content Deal With Dhar Mann Studios
+Fri, 21 Aug 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/business/digital/disney-dhar-mann-studios-1236678227/
 
-After leaving Los Angeles, the prolific TV creator went on to build a ranching empire in Texas.
+The studio, known for popular, short-form moral dramas, will produce 20 episodes of original content for Disney.
 
-### Chris Hansen Didn t Watch Primetime Screening Because A24 Wanted Me to Sign Away My Rights
-Fri, 21 Aug 2026 03:36:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-didnt-watch-primetime-a24-sign-his-rights-away-1236678240/
+### Edward Bluemel Is Agatha Christie s Hercule Poirot in BBC, BritBox First-Look Image for Hercule
+Fri, 21 Aug 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bbc-britxbox-hercule-poirot-show-edward-bluemel-first-look-1236678348/
 
-The former 'To Catch a Predator' host said he went to the studio's offices for a private screening of the Robert Pattinson-led film but left without seeing it.
+The six-part series, set to debut in 2027 and produced by ITV Studios' Mammoth Screen, will tell stories from the early years of the famous fictional Belgian detective.
 
-### Neon Sets Early Premium-Format Release for Na Hong-jin s Hope (Exclusive)
-Fri, 21 Aug 2026 03:24:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/neon-premium-format-release-na-hong-jin-hope-1236678228/
+### Yahya Abdul-Mateen II Opens Up About Wonder Man Un-Renewal: It s a Lesson in Life
+Fri, 21 Aug 2026 14:47:34 +0000 — https://www.hollywoodreporter.com/tv/tv-news/yahya-abdul-mateen-ii-wonder-man-cancellation-1236678382/
 
-The Korean action spectacle, now opening on Sept. 7 at 175 large-format locations, was one of the buzziest films to emerge from this year's Cannes Film Festival, where THR's critic hailed it an “instant cult classic.”
-
-### Gwyneth Paltrow Pokes Fun at That Viral Dinner Party Invite for OpenAI s Sam Altman
-Fri, 21 Aug 2026 02:47:50 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gwyneth-paltrow-sam-altman-dinner-invite-openai-1236678196/
-
-She's going to need more chairs: The Goop founder posts a tongue-in-cheek series of dinner party invites in honor of 'Sex and the City' siren Samantha Jones, Shrek, Jessica Rabbit and Chanty Beluga.
-
-### The Magic Faraway Tree Review: Claire Foy and Andrew Garfield in an Exhaustingly Cutesy Kid Flick
-Thu, 20 Aug 2026 23:32:18 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-magic-faraway-tree-review-claire-foy-andrew-garfield-1236666316/
-
-The visually colorful adaptation of Enid Blyton's beloved children's book also features Rebecca Ferguson, Nicola Coughlan and Jessica Gunning.
-
-### Cameron Diaz s Netflix Action-Comedy Bad Day Gets December Release and First Look
-Thu, 20 Aug 2026 23:16:08 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165/
-
-Ed O'Neill and Danielle Brooks also star in director Jake Szymanski's action-comedy.
-
-### Lanterns EP Damon Lindelof Weighs In on 2026’s Adaptation Wars: Shouldn t We Be Beyond This by Now?
-Thu, 20 Aug 2026 22:59:58 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lanterns-damon-lindelof-adaptations-1236677970/
-
-From 'The Odyssey' to 'Resident Evil' and 'Lanterns,' creative license has fans up in arms. Lindelof isn't surprised.
+The Marvel series was renewed for a second season in March, but Disney+ reversed course last month: "I was told that it had something to do with the viewership numbers. I wasn’t told what those numbers were, but ultimately ... I think they decided that it didn’t make sense for business."
 
 ## Deadline
+
+### Ruby Karp Sets Veeps Launch For Comedy Special I Don t Trust Adults
+Fri, 21 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/ruby-karp-special-streaming-premiere-date-i-dont-trust-adults-1237017386/
+
+EXCLUSIVE: Comedian Ruby Karp has announced that her new special, I Don t Trust Adults, will begin streaming on Veeps at 5 p.m. PT/8 p.m. ET on Thursday, September 10. Performed Off-Broadway at SoHo Playhouse over the course of six weeks, Karp s I Don t Trust Adults tells the story of six different adults who caused the self-described failed child star [ ]
+
+### White House Derides Rosie O Donnell As A Nasty Woman After She Skewers Trump During Jimmy Kimmel Guest Host Gig
+Fri, 21 Aug 2026 16:55:55 +0000 — https://deadline.com/2026/08/trump-rosie-odonnell-jimmy-kimmel-1237047508/
+
+Rosie O Donnell s stint filling in for ABC late-night host Jimmy Kimmel has not gone unnoticed by the Trump White House. On Friday, they issues a statement about the president s longtime nemesis. Rosie O’Donnell is a nasty woman and a total slob whose brain has been completely destroyed by Trump Derangement Syndrome, said White House spokesman [ ]
+
+### Sorry ‘Jury Duty’ Fans, Season 3 Is Unlikely To Set Sail On The Open Waters
+Fri, 21 Aug 2026 16:44:45 +0000 — https://deadline.com/2026/08/jury-duty-season-3-cruise-ship-1237047523/
+
+Jury Duty has managed to deceive two unsuspecting do-gooders with civic duty and a company retreat. Amazon renewed the series for a third season shortly after it revealed to temp worker Anthony Norman that Rockin Grandma s Hot Sauce was not a real company in Jury Duty Presents: Company Retreat. This has led to fans of [ ]
+
+### Mireille Enos, Ella Bright Jake Picking Join Indie Gable On Olympic Gold Medalist Wrestler Dan Gable
+Fri, 21 Aug 2026 16:30:38 +0000 — https://deadline.com/2026/08/ella-bright-mireille-enos-jake-picking-join-gable-1237047503/
+
+EXCLUSIVE: Gable, the indie telling the true story of Olympic gold medalist wrestler Dan Gable, has added three to its cast: Mireille Enos (The Killing), Ella Bright (Off Campus) and Jake Picking (Running Point). Enos replaces Leslie Bibb, who sources said exited to take on a role in a major series. (Bibb most recently signed on [ ]
+
+### Comedian Jack Assadourian Jr. Sets Premiere Date For Debut Special Mexican Armenian Directed By Jeremiah Watkins Watch The Trailer
+Fri, 21 Aug 2026 16:11:09 +0000 — https://deadline.com/2026/08/jack-assadourian-jr-special-premiere-date-mexican-armenian-1237047483/
+
+EXCLUSIVE: Comedian Jack Assadourian Jr. has announced that his debut special, Mexican Armenian, will premiere on YouTube at 12 p.m. PT on Thursday, September 17. In the special, Assadourian Jr. explores the unexpected similarities between his Mexican and Armenian cultures. Through stories about his multicultural upbringing, family and raising Mexican-Armenian children of his own, he affectionately — [ ]
+
+### Meghan Markle Eyed For Role In Guy Ritchie s The Gentlemen Netflix Series The Dish
+Fri, 21 Aug 2026 16:09:40 +0000 — https://deadline.com/2026/08/meghan-markle-the-gentlemen-netflix-series-guy-ritchie-1237047424/
+
+EXCLUSIVE: Meghan Markle may be teaming up with Guy Ritchie for her return to acting. As a report started circulating Friday morning that she has been “offered a role in an upcoming project based in the UK,” I hear that the former Suits star has had preliminary conversations to join Guy Ritchie s Netflix series The [ ]
+
+### Insidious: Out Of The Further Has $3M Thursday Night, Spider-Man: Brand New Day Clears $100M+ In 3rd Week Box Office
+Fri, 21 Aug 2026 15:39:30 +0000 — https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/
+
+Sony/Blumhouse Atomic Monster/Stage 6 Films Insidious: Out of the Further made $3 million in previews Thursday, a figure that s under the $5M previews of the franchise s previous chapter, Insidious: Red Door, which did $5M and posted a $33M opening weekend in July 2023. Previews began at 2 p.m. The outlook for the weekend, as we [ ]
+
+### Pamela Anderson To Be Honored At AmfAR During Venice Film Festival
+Fri, 21 Aug 2026 15:38:56 +0000 — https://deadline.com/2026/08/pamela-anderson-honored-amfar-venice-film-festival-1237047426/
+
+EXCLUSIVE: Pamela Anderson has been set to receive amfAR’s Award of Courage at this year’s amfAR Venezia, taking place on Sunday, September 6, 2026, at the Molino Stucky Venice during the 83rd Venice International Film Festival. Pamela Anderson is not only an outstanding and iconic actress, but she has always used her platform to raise awareness and champion a diverse [ ]
+
+### Nexstar And State AGs Outline Plans For $1,500-Per-Hour Special Master To Oversee Compliance In Antitrust Case, Disagree On Some Key Details
+Fri, 21 Aug 2026 15:34:11 +0000 — https://deadline.com/2026/08/nexstar-tegna-merger-antitrust-special-master-1237047361/
+
+As part of the antitrust lawsuit to block Nexstar s merger with Tegna, a federal judge earlier this year ordered that the two companies remain separate. It s a very unusual situation, given that Nexstar already had closed its transaction, hoping to create a broadcast station giant with almost 260 stations. Earlier this month, the judge also [ ]
+
+### Hercule : BritBox Unveils First Look At Edward Bluemel As Title Character In Poirot Origin Series
+Fri, 21 Aug 2026 15:08:10 +0000 — https://deadline.com/2026/08/hercule-edward-bluemel-first-look-polrot-origin-photo-1237047399/
+
+We re getting the first look at Edward Bluemel as Hercule Poirot in BritBox s upcoming six-part drama series Hercule. You can see a cropped image above and full image below. The origin series, which is currently shooting in Liverpool, is an intimate study of legendary Belgian detective Hercule Poirot, played by Bluemel, the man and an [ ]
+
+### Disney Inks Creator Content Deal With Dhar Mann Studios
+Fri, 21 Aug 2026 15:00:00 +0000 — https://deadline.com/2026/08/disney-dhar-mann-studios-deal-1237047179/
+
+The Walt Disney Company today announced a new original content deal with popular scripted creator Dhar Mann. The agreement calls for an initial 20-episode order to be produced by Dhar Mann Studios for Disney. The content will be crafted for kids, tweens, teens and families. Dhar Mann Studios has built one of the world’s largest digital [ ]
 
 ### Terrence Terrell, Jayne Taini, Sachin Bhatt, Mario Cantone William Sadler Lead Dramedy The Summer They Came
 Fri, 21 Aug 2026 14:14:47 +0000 — https://deadline.com/2026/08/terrence-terrell-sachin-bhatt-the-summer-they-came-film-1237047319/
 
 EXCLUSIVE: Terrence Terrell (Giants), Jayne Taini (Station 19), Sachin Bhatt (The Company You Keep), Mario Cantone (Sex And The City) and William Sadler (The Shawshank Redemption) are starring in dramedy The Summer They Came, which is in post-production. America Young directs the seaside movie from writer and executive producer Nick Wauters. Principal photography took place this [ ]
-
-### Prince Harry, Elton John Other Privacy Case Claimants Ordered To Pay Daily Mail Publisher $13 Million
-Fri, 21 Aug 2026 14:03:11 +0000 — https://deadline.com/2026/08/prince-harry-elton-john-daily-mail-13-million-1237047367/
-
-Prince Harry, Elton John, and several other high-profile figures who lost a privacy lawsuit against the publisher of the Daily Mail have been ordered to pay $13 million (£9.5m) to cover the Mail’s legal costs. The seven claimants, also including Liz Hurley and Baroness Doreen Lawrence, must make the payment by August 28. The fee [ ]
-
-### How Monsters Of God Director Eric Goode s Personal Avocation Led Him To The World s Most Notorious Reptile Traffickers For HBO Docuseries
-Fri, 21 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/monsters-of-god-eric-goode-interview-reptile-trafficking-1237045213/
-
-SPOILER ALERT! This post contains details from HBO s docuseries Monsters of God. Eric Goode is no stranger to eclectic interview subjects. The director behind Chimp Crazy and Tiger King is even quite familiar with interviewees who are willing to look past the law. And yet, his latest docuseries Monsters of God might just have brought [ ]
-
-### What s Next For ABC Vs. FCC: Lawsuit Looks To Put Trump Attacks On Trial, But The First Battle May Be About Timing
-Fri, 21 Aug 2026 13:30:00 +0000 — https://deadline.com/2026/08/abc-fcc-lawsuit-explained-whats-next-1237044502/
-
-ABC took the extraordinary step of suing the FCC on Tuesday, challenging its investigations and regulatory crackdowns as not merely bureaucratic overreach but part of a Trump administration retaliatory campaign in violation of the First Amendment. The case has the potential to be a major legal showdown over the FCC s authority and free speech [ ]
-
-### SXSW True Crime Doc I Got Bombed At Harvey s Scores North American Deal
-Fri, 21 Aug 2026 13:15:00 +0000 — https://deadline.com/2026/08/sxsw-true-crime-i-got-bombed-at-harveys-us-deal-release-1237047256/
-
-EXCLUSIVE: Jolt.film has acquired all North American rights to the true-crime documentary I Got Bombed at Harvey s, an account of the 1980 Harvey s Resort Hotel bombing in Lake Tahoe, which included a high-profile extortion case and a major FBI manhunt. Directed by Amy Bandlien Storkel and Bryan Storkel, I Got Bombed at Harvey s revisits the case in which an intricately engineered, booby-trapped time [ ]
-
-### New PE Firm BlackSun Raises $1 Billion For Sports, Media Fund
-Fri, 21 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/private-equity-firm-blacksun-sports-media-fund-1237047176/
-
-Recently launched BlackSun Private Equity, with principals from the world of politics, sports and entertainment, is launching its first fund with $1 billion raised so far. The goal is to invest in professional sports and franchise ownerships, which many PE firms are eyeing, but with a focus on community and stakeholder participation. One of its [ ]
-
-### Meghan Markle Could Resume Acting Career After Return To UK – Report
-Fri, 21 Aug 2026 12:17:36 +0000 — https://deadline.com/2026/08/meghan-markle-acting-role-uk-1237047334/
-
-Meghan Markle s move to the UK might not be the only return she s planning to make. The Duchess of Sussex could be eyeing a new acting role, too. She has been offered a role in an upcoming project based in the UK, according to news.com.au. We ve reached to the Sussexes and their Archewell Productions imprint [ ]
-
-### International Insider: Australia s Attention Battle; Vertical Video Rises; Kevin Macdonald On Pep Guardiola
-Fri, 21 Aug 2026 12:00:00 +0000 — https://deadline.com/2026/08/international-insider-australia-attention-battle-1237046111/
-
-Be still, my beating heart, this week s Insider is here. Jesse Whittock back with you on the international film and TV news train, as the industry exits its quiet summer period and heads for festival season. Sign up for the full Insider newsletter experience here. Strewth!: So it turns out Australians love watching Australian TV [ ]
-
-### Prime Video Sets Plan To Invest $2 Billion In Latin America
-Fri, 21 Aug 2026 11:04:07 +0000 — https://deadline.com/2026/08/prime-video-2-billion-latin-america-1237047327/
-
-Prime Video has announced plans to invest more than $2 billion in Latin America between 2027 and 2030. Details of the plan were announced last night at a Prime Video showcase event in Mexico City. The investment will span original programming, locally produced and acquired content, and live sports rights across Mexico, Brazil, Argentina, Colombia, [ ]
-
-### Swedish Dramedy Adult Supervision Sells To WB Discovery, Fandango, Palace, Vertigo More Ahead Of Fantastic Fest Launch; Watch Trailer
-Fri, 21 Aug 2026 09:00:54 +0000 — https://deadline.com/2026/08/adult-supervision-sells-wb-discovery-more-fantastic-fest-1237047254/
-
-EXCLUSIVE: Heretic has closed multiple international sales on Alex Schulman’s Adult Supervision ahead of its world premiere at Fantastic Fest in Austin, where it will screen in the Next Wave Competition. The film has sold to Fandango for Italy, Palace Films for Australia and New Zealand, Vertigo Releasing for Hungary, CinemArt for the Czech Republic [ ]
-
-### Free Nelson Mandela Maker Rogan Productions Opens South Africa Office Tweaks Management Set Up
-Fri, 21 Aug 2026 08:35:00 +0000 — https://deadline.com/2026/08/rogan-productions-opens-south-africa-office-1237047249/
-
-EXCLUSIVE: Fresh off producing Channel 4 s Free Nelson Mandela, Rogan Productions has opened an office in South Africa. The new unit, Rogan South Africa, will be a production base in Johannesburg with close links to Cape Town. This marks the first permanent international expansion for the 13-year-old London-based company. At the same time, Rogan is [ ]
-
-### Chris Hansen Was Turned Away From Primetime Screening After Refusing To Sign Standard NDA, Not Sign Away His Rights
-Fri, 21 Aug 2026 03:02:34 +0000 — https://deadline.com/2026/08/chris-hansen-turned-away-primetime-refusing-sign-nda-1237047193/
-
-After Chris Hansen claimed he was turned away from a screening A24 s Primetime, it would appear he refused to sign a standard NDA. On Thursday, a source told Deadline that the former To Catch a Predator host was not asked to sign away my rights in order to see the Lance Oppenheim-helmed thriller about him, [ ]
 

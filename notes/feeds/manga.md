@@ -1,9 +1,29 @@
-# Manga — harvested 2026-08-21T14:18:04.154Z
+# Manga — harvested 2026-08-21T17:05:32.824Z
 
 ## Anime News Network
 
+### Yen Press Licenses The Goblin Samurai, My Crush's Crush Manga
+Fri, 21 Aug 2026 12:24:07 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/yen-press-licenses-the-goblin-samurai-my-crush-crush-manga/.240793
+
+<cite>The Boy and the Beast</cite>, <cite>Rise of the Lowborn</cite> light novels also get audiobooks
+
+### Death Note: The Musical Stage Show Review
+Fri, 21 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/death-note/the-musical-stage-show/.240525
+
+<cite>Death Note: The Musical</cite> is very good fun, and that's both its main virtue and its biggest failing.
+
+### Kana Licenses Children of the Afterlife, Happy at Home, 4 More Manga
+Fri, 21 Aug 2026 11:28:27 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/kana-licenses-children-of-the-afterlife-happy-at-home-4-more-manga/.240785
+
+Company to also release <cite>Good Morning Leon, Why We Fall in Love, Pumpkin Night, Soon the Fog Clears</cite> in English in 2027
+
+### Your Anime Rankings - Best of Summer 2026, Aug 12-18
+Fri, 21 Aug 2026 10:25:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.240807
+
+<cite>Saga of Tanya the Evil</cite> hits #1 in both the weekly and cumulative rankings, dethroning <cite>Jaadugar</cite>. But <cite>The Ghost in the Shell</cite> is right on its heels. Check out our weekly user rankings!
+
 ### This Week in Games - Sony State of Play: Phantom Blade Zero, Also, The Return of Kingdom Hearts and Princess Maker
-Fri, 21 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-08-20/sony-state-of-play-phantom-blade-zero-also-the-return-of-kingdom-hearts-and-princess-maker/.240671
+Fri, 21 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-08-21/sony-state-of-play-phantom-blade-zero-also-the-return-of-kingdom-hearts-and-princess-maker/.240671
 
 <i>Kingdom Hearts</i> dominates the discussion this time, but don't let that distract you from the return of <i>Princess Maker</i>!
 
@@ -41,26 +61,6 @@ Saying that Tanya lacks empathy is missing the forest for the trees. The real is
 Fri, 21 Aug 2026 08:23:32 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/tanuki-to-kitsune-tv-anime-reveals-visual-october-4-debut/.240805
 
 Main staff also revealed
-
-### Magical Girl Raising Project restart Anime Debuts on October 5
-Fri, 21 Aug 2026 08:05:40 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-21/magical-girl-raising-project-restart-anime-debuts-on-october-5/.240804
-
-The official website for the television anime of Asari Endō's Magical Girl Raising Project Restart light novel series revealed on Friday the anime will...
-
-### Ore to Yu Nii! TV Anime Debuts in January 2027, Reveals Teaser Promo Video
-Fri, 21 Aug 2026 07:50:16 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/ore-to-yu-nii-tv-anime-debuts-in-january-2027-reveals-teaser-promo-video/.240803
-
-More staff revealed
-
-### Sekiro: No Defeat Anime Film's Battle Scene Clip Streamed
-Fri, 21 Aug 2026 07:37:44 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/sekiro-no-defeat-anime-film-battle-scene-clip-streamed/.240800
-
-Anime debuts in Japanese theaters on September 4
-
-### 'A Pen, Handcuffs, and a Common-Law Marriage' TV Anime Reveals Cast, Staff, January 2027 Debut in Video
-Fri, 21 Aug 2026 07:29:10 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/a-pen-handcuffs-and-a-common-law-marriage-tv-anime-reveals-cast-staff-january-2027-debut-in-video/.240801
-
-Tomoaki Maeno, Inori Minase star in series
 
 ## Crunchyroll News
 
