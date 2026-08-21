@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-21T05:15:48.868Z
+# Games — harvested 2026-08-21T08:19:18.669Z
 
 ## Eurogamer
 
@@ -64,6 +64,11 @@ Inside and outside Electronic Arts, everyone is bracing for what's sure to be a 
 
 ## GamesIndustry.biz
 
+### Riot Games sunsets active development on 2XKO as it costs "substantially more to operate than it brings in"
+Fri, 21 Aug 2026 08:06:41 +0000 — https://www.gamesindustry.biz/riot-games-sunsets-active-development-on-2xko-as-it-costs-substantially-more-to-operate-than-it-brings-in
+
+Riot Games will end active development of its free-to-play fighting game 2XKO in December. Read more
+
 ### Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live
 Thu, 20 Aug 2026 19:19:08 +0000 — https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live
 
@@ -119,16 +124,16 @@ Wed, 19 Aug 2026 10:00:00 +0000 — https://www.gamesindustry.biz/human-fall-fla
 
 Pretty Cool Games has been co-founded by Human: Fall Flat veterans Sitara Shefta (CEO) and Will Dudley (CCO) with the aim of building a sustainable studio that's fair to its employees and rewards them for their success. Read more
 
-### Konami's Castlevania: Grimoire of Souls to be taken offline next month
-Wed, 19 Aug 2026 07:50:27 +0000 — https://www.gamesindustry.biz/konamis-castlevania-grimoire-of-souls-to-be-taken-offline-next-month
-
-Konami has announced the shut down Castlevania: Grimoire of Souls next month. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Review: Metal Gear Solid: Master Collection Vol. 2 (PS5) - MGS 4 Is Finally Free from PS3, and It s the Best It s Ever Been
+Fri, 21 Aug 2026 07:00:00 GMT — https://www.pushsquare.com/reviews/ps5/metal-gear-solid-master-collection-vol-2
+
+La-Li-Lu-Le-Love it. When compared to the first Master Collection , it's easy to see why you might draw the conclusion that Metal Gear Solid: Master Collection Vol. 2 feels a little undercooked. The first volume consists of the first three MGS games — all games you would reasonably expect to see on any list of the greatest ever PlayStation games — as well as the original Metal Gear and Metal Gear 2 . Vol. 2 has got the one with the really long cut-scenes, a portable non-numbered title, and a non-canon spin-off a lot of people probably haven't even heard of. Read the full article on pushsquare.com
 
 ### Ex-Wrestler Dave Bautista Officially Replaces Ryan Hurst as Kratos in God of War TV Show
 Thu, 20 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/08/ex-wrestler-dave-bautista-officially-replaces-ryan-hurst-as-kratos-in-god-of-war-tv-show
@@ -184,11 +189,6 @@ Return ticket. One of this year's big indie breakouts is Denshattack , an arcade
 Thu, 20 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/ill-believe-it-when-i-see-it-things-look-bleak-for-new-mass-effect-says-former-ea-manager
 
 "They can pull the plug very, very easily". Over the last few years, the conversation surrounding the new Mass Effect game has shifted. It's gone from people wondering whether modern BioWare has the chops to follow up on the original Mass Effect trilogy, to questioning whether BioWare will actually be around long enough to finish the project. Read the full article on pushsquare.com
-
-### James Bond Is Officially Back as 007 First Light Crosses 4 Million Copies Sold
-Thu, 20 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/james-bond-is-officially-back-as-007-first-light-crosses-4-million-copies-sold
-
-Mission accomplished. Publisher and developer IO Interactive has confirmed it's sold over 4 million copies of 007 First Light . It's crossed this impressive milestone in just under three months, having reached 3 million back in June . Read the full article on pushsquare.com
 
 ## Game Developer
 

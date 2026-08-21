@@ -1,9 +1,14 @@
-# Manga — harvested 2026-08-21T05:15:48.868Z
+# Manga — harvested 2026-08-21T08:19:18.669Z
 
 ## Anime News Network
 
+### Billy Bat, The Summer Hikaru Died, More Win 3rd American Manga Awards
+Fri, 21 Aug 2026 03:04:34 -0400 — https://www.animenewsnetwork.com/interest/2026-08-21/billy-bat-the-summer-hikaru-died-more-win-3rd-american-manga-awards/.240791
+
+<cite>cocoon, Mushishi</cite>, Madeleine Jose, Jan Mitsuko Cash, Wendy Chan also honored
+
 ### New Panty & Stocking with Garterbelt Collaborates with Sexual Wellness Brand TENGA
-Fri, 21 Aug 2026 01:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-20/new-panty-and-stocking-with-garterbelt-collaborates-with-sexual-wellness-brand-tenga/.240751
+Fri, 21 Aug 2026 01:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-21/new-panty-and-stocking-with-garterbelt-collaborates-with-sexual-wellness-brand-tenga/.240751
 
 A match made in Heaven … well, Panty & Stocking's version of Heaven
 
@@ -56,11 +61,6 @@ Thu, 20 Aug 2026 19:25:09 -0400 — https://www.animenewsnetwork.com/news/2026-0
 Thu, 20 Aug 2026 17:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/samurai-harem-asu-no-yoichi-manga-gets-new-1-shot/.240674
 
 New 1-shot story celebrates 20 years since manga launched
-
-### Hollywood Reporter: Live-Action Naruto Film in Talks to Cast Charles Melton as Kakashi
-Thu, 20 Aug 2026 15:33:33 -0400 — https://www.animenewsnetwork.com/news/2026-08-20/hollywood-reporter-live-action-naruto-film-in-talks-to-cast-charles-melton-as-kakashi/.240764
-
-Emmy-nominated actor starred in <i>Riverdale, Beef</i>
 
 ## Crunchyroll News
 

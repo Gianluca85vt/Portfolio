@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-21T05:15:48.868Z
+# AI — harvested 2026-08-21T08:19:18.669Z
 
 ## OpenAI
 
@@ -16,11 +16,6 @@ With a fixed deadline and design resources committed elsewhere, Stampli used Cod
 Wed, 19 Aug 2026 19:00:00 GMT — https://openai.com/index/offering-zero-data-retention-for-frontier-models
 
 OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.
-
-### Replit expands access to software creation with GPT-5.6 Luna
-Wed, 19 Aug 2026 07:00:00 GMT — https://openai.com/index/replit
-
-Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.
 
 ## Hugging Face
 

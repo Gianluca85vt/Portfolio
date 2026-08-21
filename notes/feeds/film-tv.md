@@ -1,6 +1,26 @@
-# Film & TV — harvested 2026-08-21T05:15:48.868Z
+# Film & TV — harvested 2026-08-21T08:19:18.669Z
 
 ## Variety
+
+### The Marching Band Review: Brothers From Opposite Worlds Are United by Music in a Finely Tuned French Crowdpleaser
+Fri, 21 Aug 2026 07:55:15 +0000 — https://variety.com/2026/film/reviews/the-marching-band-review-1236839792/
+
+The Marching Band blasts through more story in its first 12 minutes than many films now manage in two hours. In those first 720 seconds we meet Thibaut (Benjamin Lavernhe), a well-heeled classical music conductor in Paris, who discovers that he will need to find a blood marrow transplant as he has leukemia; he learns [ ]
+
+### ‘Good People’ Review: Milcho Manchevski’s Haunting Documentary Revisits the Kočani Nightclub Fire Through Survivors’ Eyes
+Fri, 21 Aug 2026 07:07:04 +0000 — https://variety.com/2026/film/reviews/good-people-review-1236839789/
+
+On March 16, 2025, a fire broke out at the Pulse nightclub in the small North Macedonian town of Kočani, injuring hundreds and killing 63 people due to burn damage, smoke inhalation and other physical traumas sustained while attendees scrambled to flee through the venue’s sole exit. The club had only one fire extinguisher and [ ]
+
+### Icelandic Producer Hlín Jóhannsdóttir Sets ‘Just a Kid’ With Alief Ahead of Haugesund and Reunites with ‘Driving Mum’ Team (EXCLUSIVE)
+Fri, 21 Aug 2026 07:00:00 +0000 — https://variety.com/2026/film/global/driving-mum-iceland-alief-just-a-kid-1236839417/
+
+Veteran Icelandic producer Hlín Jóhannsdóttir of Ursus Parvus, behind titles from some Iceland’s most renowned filmmakers including Fridrik Thor Fridriksson, Dagur Kári and Rúnar Rúnarsson, has signed with French-U.K. sales outfit Alief on the coming-of-age “Just a Kid” (“Bara barn”) by up-and-coming writer-director Vala Ómarsdóttir. To be pitched at New Nordic Films’ Works in Progress [ ]
+
+### Amazon MGM Studios Unveils Teaser for Kunal Kemmu s Vibe (EXCLUSIVE)
+Fri, 21 Aug 2026 06:32:07 +0000 — https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782/
+
+Amazon MGM Studios has released the teaser for Vibe, an action comedy written and directed by Kunal Kemmu that follows two ordinary friends who unexpectedly become the country s last line of defense. The teaser introduces Hardik (Kemmu) and Bugs (Sparsh Shrivastava), a pair of accidental heroes who are neither trained nor willing for the job [ ]
 
 ### Chris Hansen Says He Refused to Sign His Rights Away in Order to Screen Robert Pattinson s Primetime
 Fri, 21 Aug 2026 01:43:38 +0000 — https://variety.com/2026/film/awards/chris-hansen-a24-primetime-screening-refused-1236839630/
@@ -31,26 +51,6 @@ Prime Video has unveiled a landmark $2 billion-plus investment plan in Latin Ame
 Thu, 20 Aug 2026 22:00:00 +0000 — https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394/
 
 Dave Bautista is officially taking up the mantle of the God of War. Variety has learned that the actor is now set to lead the Amazon Prime Video TV series based on the video game franchise in the role of Kratos. It was originally reported earlier this month that Bautista was in talks to play [ ]
-
-### The Hollies Officially Call It Quits, as Last Two Members of Classic 1960s Lineup Retire After Being in Band for 63 Years
-Thu, 20 Aug 2026 21:53:02 +0000 — https://variety.com/2026/music/news/hollies-retire-original-members-tony-hicks-bobby-elliott-1236839526/
-
-The Hollies have officially called it a day. And perhaps, like many, you didn t even realize a version of that classic rock band was still performing. Yet the Rock and Roll Hall of Fame-inducted group had endured in some form and continued to tour since 1962 — including two members who go back virtually to [ ]
-
-### Lawmakers Offer Film Industry a Fix on California Tax Credit Cap
-Thu, 20 Aug 2026 21:41:23 +0000 — https://variety.com/2026/film/news/lawmakers-film-industry-tax-fix-1236839543/
-
-Lawmakers in Sacramento introduced a budget fix on Thursday that helps film producers by adjusting a state cap on tax credits. The agreement, first reported by Variety on Tuesday, falls short of a full carveout for film and TV tax credits from a blanket $5 million annual cap, which industry leaders have been seeking since [ ]
-
-### Netflix Exec Andy Weil Jumping to Amazon as Head of Comedy
-Thu, 20 Aug 2026 21:33:09 +0000 — https://variety.com/2026/tv/news/netflix-exec-andy-weil-amazon-head-of-comedy-1236839544/
-
-Comedy development exec Andy Weil is exiting Netflix after 11 years to join Amazon as its new head of comedy. The exec rejoins his former Netflix boss Peter Friedlander, now head of global TV at Amazon MGM Studios. Weil is a well-known comedy buff who has championed some of Netflix s biggest laffers, including Master of [ ]
-
-### Diane Warren Adopts West Hollywood s Runaway Pig: Welcome Wilbur!
-Thu, 20 Aug 2026 21:18:14 +0000 — https://variety.com/2026/music/news/diane-warren-adopts-runaway-pig-wilbur-1236839382/
-
-The viral story of a runaway pig in West Hollywood turned out to have a Hollywood ending. This past weekend, a video showed a piglet running through the streets of West Hollywood. Jamaal Harrison, who filmed the video, is seen chasing the pig as he yells, There s a pig in West Hollywood! He later says, [ ]
 
 ## The Hollywood Reporter
 
@@ -131,7 +131,7 @@ Thu, 20 Aug 2026 23:08:13 +0000 — https://deadline.com/2026/08/ariana-grande-s
 
 As Ariana Grande winds down her Eternal Sunshine Tour, she s the latest pop icon to call out Donald Trump for using her music. On Thursday, the three-time Grammy winner commented on a TikTok video posted by the Trump campaign, which used Grande s 2024 single We Can t Be Friends (Wait for Your Love) to promote anti-trans [ ]
 
-### ‘Outer Banks’ Creators Break Down Season 5’s “Earned” Ending, JJ’s Presence That Supernatural Twist
+### ‘Outer Banks’ Creators Break Down Season 5’s “Earned” Ending, Supernatural Lean JJ’s Presence
 Thu, 20 Aug 2026 22:35:56 +0000 — https://deadline.com/2026/08/outer-banks-season-5-ending-explained-by-creators-interview-1237044830/
 
 SPOILER ALERT: The story includes details about Season 5 of Netflix s Outer Banks. There were a lot of full-circle elements in the fifth and final season of Outer Banks. The series ended the way it started, with a hurricane. Sarah (Madelyn Cline) wore a version of her iconic Midsummers white dress from Season 1 to [ ]
