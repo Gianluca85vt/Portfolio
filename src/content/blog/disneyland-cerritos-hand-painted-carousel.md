@@ -4,7 +4,6 @@ date: 2026-08-21
 category: Film & TV
 excerpt: A Variety look inside Disneyland's off-site fabrication warehouse turned up one detail worth sitting with — a sign painter who repaints the King Arthur Carrousel horses with no computer terminal in sight, at around 40 hours a horse.
 cover: /img/blog/disneyland-cerritos-hand-painted-carousel/shot-01.jpg
-draft: true
 ---
 
 Variety got a rare look this week inside the building where Disneyland's
