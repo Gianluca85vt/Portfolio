@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="40 hours per horse">
+  <defs>
+    <linearGradient id="bgCarrousel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#2E1F5E"/>
+      <stop offset="100%" stop-color="#5B3FBF"/>
+    </linearGradient>
+    <linearGradient id="accentCarrousel" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5B3FBF"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgCarrousel)"/>
+
+  <!-- carrousel canopy arcs, background -->
+  <g stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="4" fill="none">
+    <path d="M100 520 Q600 380 1100 520"/>
+    <path d="M140 560 Q600 430 1060 560"/>
+  </g>
+
+  <!-- simple pole + horse silhouette, left -->
+  <g fill="#0B000F" fill-opacity="0.5">
+    <rect x="150" y="360" width="10" height="260"/>
+    <path d="M110 470 Q100 430 140 420 Q175 415 190 440 Q205 450 200 470 Q210 500 190 520 L190 560 L170 560 L165 520 L140 520 L135 560 L115 560 L118 500 Q100 495 110 470 Z"/>
+  </g>
+
+  <!-- simple pole + horse silhouette, right -->
+  <g fill="#0B000F" fill-opacity="0.35">
+    <rect x="1020" y="380" width="9" height="240"/>
+    <path d="M985 480 Q976 445 1010 436 Q1040 431 1054 452 Q1067 461 1062 480 Q1071 505 1054 522 L1054 558 L1037 558 L1032 522 L1010 522 L1006 558 L989 558 L991 505 Q976 500 985 480 Z"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="270" font-size="24" letter-spacing="7" fill="#FFFFFF" fill-opacity="0.5">KING ARTHUR CARROUSEL, CERRITOS PAINT SHOP</text>
+
+    <text x="600" y="420" font-size="120" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">40 HOURS</text>
+
+    <text x="600" y="470" font-size="34" fill="#FFFFFF" fill-opacity="0.6">PER HORSE. BY HAND. NO SCREENS.</text>
+  </g>
+
+  <rect x="500" y="510" width="200" height="8" rx="4" fill="url(#accentCarrousel)"/>
+</svg>
