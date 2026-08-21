@@ -4,7 +4,6 @@ date: 2026-08-21
 category: Games
 excerpt: Modern Warfare 4's PC beta moves shader compilation out of your first match and into a background process before you even hit play. It is a small settings toggle standing in for a decade of a studio not owning a rendering problem it created.
 cover: /img/blog/modern-warfare-4-shader-preloading-stutter/shot-01.jpg
-draft: true
 ---
 
 Infinity Ward and Beenox have put a fix into the **Modern Warfare 4** PC beta for something Call
