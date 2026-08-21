@@ -3,7 +3,7 @@ title: Black Myth Zhong Kui's first gameplay swaps Wukong's acrobatics for somet
 date: 2026-08-21
 category: Games
 excerpt: Game Science's 15-minute reveal trades the staff-and-transformation combat of Wukong for a grounded sword that blocks and parries. That sounds like a smaller change than it is — for the animation team, it's a completely different problem.
-cover: /img/blog/black-myth-zhong-kui-gameplay-reveal-combat-shift/cover.svg
+cover: /img/blog/black-myth-zhong-kui-gameplay-reveal-combat-shift/shot-01.jpg
 draft: true
 ---
 
@@ -17,6 +17,11 @@ goodwill one 2024 game bought an entire follow-up nobody has a release date
 for.
 
 ## What was actually shown
+
+<figure>
+  <img src="/img/blog/black-myth-zhong-kui-gameplay-reveal-combat-shift/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Game Science, via the official Black Myth: Wukong Steam page (comparison shot — Zhong Kui has no store page or official screenshots yet)</figcaption>
+</figure>
 
 The build is early — Game Science says so upfront, and it's captured in a
 cinematic 21:9 crop rather than a native gameplay aspect ratio, which is
