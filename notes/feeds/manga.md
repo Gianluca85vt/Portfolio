@@ -1,6 +1,41 @@
-# Manga — harvested 2026-08-21T17:05:32.824Z
+# Manga — harvested 2026-08-22T05:04:10.406Z
 
 ## Anime News Network
+
+### Kodansha USA Licenses Trapped on Tape!, Announces Print Release for Hajime no Ippo: Fighting Spirit! Manga
+Fri, 21 Aug 2026 19:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/kodansha-usa-licenses-trapped-on-tape-announces-print-release-for-hajime-no-ippo-fighting-spirit-/.240808
+
+Also: Kodansha Print Club releases for <cite>How to Grill Our Love</cite>, <cite>Abe-kun's Got Me Now</cite>
+
+### Omoi Licenses Love Is the Sweetest Journey Manga, Adds Titan Manga Titles
+Fri, 21 Aug 2026 18:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/omoi-licenses-love-is-the-sweetest-journey-manga-adds-titan-manga-titles/.240796
+
+Also: Scholastic's Graphix to release <cite>A Snow Fox at the Northern Fort</cite> manga in print
+
+### Manga Mavericks Books Licenses Midnight Robot, 'Arai-kun & Haruma-senpai' Manga
+Fri, 21 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/manga-mavericks-books-licenses-midnight-robot-arai-kun-and-haruma-senpai-manga/.240788
+
+<cite>Midnight Robot</cite> launches in May 2027, <cite>Arai-kun & Haruma-senpai</cite> in December 2026
+
+### Mahjong Pros Licenses Snap Call Kirinji, Riichi Mahjong 101 Manga
+Fri, 21 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/mahjong-pros-licenses-snap-call-kirinji-riichi-mahjong-101-manga/.240814
+
+Both launch digitally/physically in January 2027
+
+### Seven Seas Licenses My Lips are Being Targeted, Scarlet Thirst, Synchronicity Obsession, More Manga/Novels
+Fri, 21 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/seven-seas-licenses-my-lips-are-being-targeted-scarlet-thirst-synchronicity-obsession-more-manga-/.240813
+
+Also: <cite>I Wish it Had Just Been Love</cite>, <cite>The Duke's Daughter Must Seduce the Demon King... But the Demon King's a Girl?!</cite>, more
+
+### Expelled from Paradise Visual Novel's Teaser Trailer Reveals November 26 Release
+Fri, 21 Aug 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/expelled-from-paradise-visual-novel-teaser-trailer-reveals-november-26-release/.240811
+
+<cite>Expelled from Paradise -The Stellar Angel-</cite> launches for Switch, Steam
+
+### Dark Horse to Release Vampire Hunter D: Rose Princess Manga, Vampire Hunter D: Fortress of Blood Comic, The Case of Charles Dexter Ward Manga (Updated)
+Fri, 21 Aug 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/dark-horse-to-release-vampire-hunter-d-rose-princess-manga-vampire-hunter-d-fortress-of-blood-comic-/.240794
+
+<cite>Vampire Hunter D: Fortress of Blood</cite> comic debuts on December 16; Saiko Takaki's <cite>Vampire Hunter D: Rose Princess</cite> manga's English translation launches in March 2027
 
 ### Yen Press Licenses The Goblin Samurai, My Crush's Crush Manga
 Fri, 21 Aug 2026 12:24:07 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/yen-press-licenses-the-goblin-samurai-my-crush-crush-manga/.240793
@@ -26,41 +61,6 @@ Fri, 21 Aug 2026 10:25:00 -0400 — https://www.animenewsnetwork.com/weekly-rank
 Fri, 21 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-08-21/sony-state-of-play-phantom-blade-zero-also-the-return-of-kingdom-hearts-and-princess-maker/.240671
 
 <i>Kingdom Hearts</i> dominates the discussion this time, but don't let that distract you from the return of <i>Princess Maker</i>!
-
-### A Returner's Magic Should Be Special 2nd Season Anime's 1st Promo Video Streamed
-Fri, 21 Aug 2026 09:31:39 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/a-returner-magic-should-be-special-2nd-season-anime-1st-promo-video-streamed/.240802
-
-Anime gets advance screening in Tokyo on October 3
-
-### Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 13
-Fri, 21 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-13/.240782
-
-Who else is down for a good ol' existential crisis?
-
-### 5 Light Novels That Break The Mold
-Fri, 21 Aug 2026 09:21:31 -0400 — https://www.animenewsnetwork.com/feature/2026-08-21/5-light-novels-that-break-the-mold/.240528
-
-You may think you know everything light novels have to offer, but these five series might change your mind.
-
-### Kakao Games Announces The World of Dokkaebi MMORPG Based on Web Novel With October Launch
-Fri, 21 Aug 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/kakao-games-announces-the-world-of-dokkaebi-mmorpg-based-on-web-novel-with-october-launch/.240744
-
-Game is set about 300 years before events of original web novel, expands world with new stories, characters
-
-### Seiji Kishi Directs Maiden Blood Original TV Anime at Polygon Pictures
-Fri, 21 Aug 2026 08:47:28 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/seiji-kishi-directs-maiden-blood-original-tv-anime-at-polygon-pictures/.240806
-
-Dark fantasy action anime starring Iori Saeki, Yukari Anzai debuts in 2027
-
-### Saga of Tanya the Evil II ‒ Episode 7
-Fri, 21 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/saga-of-tanya-the-evil-ii/episode-7/.240776
-
-Saying that Tanya lacks empathy is missing the forest for the trees. The real issue is that she doesn’t feel emotions as other people do.
-
-### Tanuki to Kitsune TV Anime Reveals Visual, October 4 Debut
-Fri, 21 Aug 2026 08:23:32 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/tanuki-to-kitsune-tv-anime-reveals-visual-october-4-debut/.240805
-
-Main staff also revealed
 
 ## Crunchyroll News
 

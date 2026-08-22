@@ -1,6 +1,46 @@
-# Tech — harvested 2026-08-21T17:05:32.824Z
+# Tech — harvested 2026-08-22T05:04:10.406Z
 
 ## Ars Technica
+
+### Trump's space transportation policy calls for new spaceport on federal land
+Fri, 21 Aug 2026 23:32:17 +0000 — https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/
+
+A new national space transportation policy signed by President Donald Trump on Thursday calls for the development of more spaceports to support more than 1,000 launches and reentries per year by 2030. The presidential memorandum replaces a 2013 policy signed by former President Barack Obama. Both policies share an emphasis on supporting the commercial space industry and underscore the importance of assured access to space. But the launch sector has changed immensely since then. There were 176 orbital launch attempts from US soil last year, nearly 10 times the number in 2013. SpaceX led the pack last year with 165 orbital launches of its Falcon 9 rocket, plus five suborbital test flights of the much larger Starship. "By 2030, our space transportation ranges must grow to support more than 1,000 launches and reentries every year," the policy says. "The policies set forth in this memorandum will secure America's continued superiority in space." Read full article Comments ]]>
+
+### Thunder + fiber-optic cabling used for seismic imaging
+Fri, 21 Aug 2026 20:26:46 +0000 — https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/
+
+Most of what we know about the Earth's interior comes from observing seismic waves. These travel at somewhat different speeds depending on the details of the rock they're moving through—whether it's solid or semi-molten, how much water is present, whether it's fractured or solid material, and so on. Get enough data from enough seismic events, and you can start piecing together a picture of what's present at different depths below the surface. In many cases, we can get this data from naturally occurring events like earthquakes. In others, we intentionally create waves using things like explosives, providing the opportunity to do imaging in specific areas without needing to wait for an earthquake. Now, a team of scientists at Penn State suggests there's a potential option that sits between waiting for an earthquake and triggering your own seismic event: thunderstorms. Some of the energy carried by thunder enters the Earth's upper crust, triggering what are termed "thunderquakes." But, for various physical reasons, the seismic signals are extremely complex, making it difficult to extract clear signals from them. The Penn State team says it has finally constructed a model that can help make sense of this complexity and used it to reconstruct the terrain under the local campus. Read full article Comments ]]>
+
+### Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says
+Fri, 21 Aug 2026 20:10:50 +0000 — https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/
+
+This week, two New York City renters filed a class action complaint alleging that a brokerage business called Compass—which has been boycotting posting listings on free digital platforms like Zillow —has now delisted so many rental units that it has created a fake supply shock that is artificially raising rents. According to plaintiffs, Peter Castaneda and Haley Gelfand, Compass has bought so many brokerage firms over the past decade-plus that it maintains a monopoly, controlling “over 80 percent of the rental unit listings available for renters in Manhattan based on 2025 data.” With that monopoly, Compass can “literally dictate pricing for as much as 80 percent of Manhattan’s rental units,” renters argued. And now, Compass is allegedly trying to manipulate prices on other platforms, as well. Read full article Comments ]]>
+
+### Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels
+Fri, 21 Aug 2026 19:32:29 +0000 — https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/
+
+Several months ago, Motorola and the makers of GrapheneOS announced a team-up that would expand support for the privacy-centric OS to beyond Google's Pixel phones. The announcement, however, was bereft of details. Now, the creators of the OS have taken to Mastodon (naturally) to provide an update . Moto's GrapheneOS phones are on track to launch in 2027, but they'll cost a pretty penny. The upcoming Moto devices won't ship with GrapheneOS, but they will be fully supported by the project with help from Moto itself. So far, only Pixel phones have met GrapheneOS's strict hardware requirements to ensure the highest level of security and privacy. The software, which is based on Android, includes features like enhanced memory protection, granular network permissions, customizable app sandboxing, and a duress code that can be used to wipe your phone. (That last one got an activist charged with a felony earlier this year after he used it to delete his data during a customs interrogation.) According to the GrapheneOS team, the upcoming Moto phones will be premium flagship devices. The team expects pricing to be even higher than Pixel phones, which is saying something. The current Pixel lineup starts at $900 for the base model Pixel 11, a $100 increase from last year. The Pixel 11 Pro XL price has gone up to a whopping $1,300 this year. Read full article Comments ]]>
+
+### Lawsuit demands Logitech hand tariff refunds over to customers
+Fri, 21 Aug 2026 19:04:41 +0000 — https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/
+
+Logitech is facing a proposed class action lawsuit for not giving customers tariff refunds. In April 2025, Logitech raised the prices on 51 percent of its portfolio, with some prices increasing by as much as 25 percent. The complaint seeks to “recover monies that Logitech extracted from American consumers as offset for import tariffs that the United States Supreme Court has since declared unlawful, tariffs for which Logitech now stands to be reimbursed by the federal government. This is all while Logitech retained every dollar of the corresponding price increases it charged its customers due to the illegal tariffs.” Read full article Comments ]]>
+
+### Chinese regulators tell Tesla to fix nearly 3 million cars
+Fri, 21 Aug 2026 18:07:15 +0000 — https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/
+
+Tesla is facing a massive recall in China today. Chinese regulators are taking a stricter approach to safety, and the automaker now has to add warning labels to 2.98 million Model 3 and Model Y electric vehicles in China that make it clearer how to open the rear doors in the case of an emergency that causes the car to lose power. As we learned earlier this year , Chinese regulators are getting more serious about the recent trend of electronically controlled car doors; a growing number of crashes have had fatal consequences when the occupants have been trapped in burning cars. Starting next year, new rules give specific dimensions for handles that must be followed by all newly approved vehicles. But cars that have already been on sale for some time, like the Models 3 and Y, are grandfathered in, at least until the end of 2028. But China wants Tesla to do something about the nearly 3 million cars already on its roads. It is requiring the automaker to add warning labels to the car interiors—something that will require physical access to the car. Additionally, Tesla will push out a software update that automatically lowers all the cars' windows in the event of a collision. Read full article Comments ]]>
+
+### Fighter jets help destroy Russian drone boat near European offshore gas platform
+Fri, 21 Aug 2026 16:48:59 +0000 — https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/
+
+This week, Romania accused Russia of sending a drone boat loaded with explosives to a vital European natural gas platform in the Black Sea. A Romanian F-16 fighter jet used its cannons to disable the surface drone so that explosive ordnance experts could blow it up safely. On August 20, the Romanian Coast Guard first spotted the maritime drone a few hundred meters away from the Neptun Deep project’s main drilling platform, where several hundred workers were busy with the platform’s ongoing installation, Defense Minister Radu Miruță said in a Facebook post . The offshore gas project would make Romania the largest gas producer in the European Union once it starts full production in 2027. To protect the lives of the workers and the offshore gas infrastructure, the Romanian military scrambled two F-16 fighter jets to stop the drone with cannon fire, Miruță said. Army specialists later carried out a controlled detonation, as seen in a Facebook video shared by the defense minister. Read full article Comments ]]>
+
+### Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say
+Fri, 21 Aug 2026 16:38:25 +0000 — https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/
+
+Some Americans worry that the Federal Trade Commission's rush to limit personalized pricing in the name of consumer protection could end up killing discounts they depend on or, counterintuitively, raising prices. The FTC has no power to ban personalized pricing, in which a business uses a customer’s personal data to determine the highest price that person might be willing to pay for a product or service. But the agency believes it could set limits on the practice, including potential penalties for businesses that fail to disclose when customers may be paying more because data suggests they won't balk at the price. In a request for public comment on a proposed policy statement, the FTC acknowledged that personalized pricing is common in some industries. But FTC Chair Andrew Ferguson said new industries are increasingly tracking customers to set individualized prices, blindsiding consumers who expect a listed price in markets like retail “to be the same price that everyone else sees,” Ferguson said. Read full article Comments ]]>
 
 ### Waymo doubles spending on lobbying in robotaxi battle with Uber
 Fri, 21 Aug 2026 13:11:35 +0000 — https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/
@@ -20,49 +60,34 @@ Welcome to Edition 9.07 of the Rocket Report! China's workhorse Long March rocke
 ### US distributor of China’s most popular humanoid robots pivots after US ban
 Thu, 20 Aug 2026 22:00:11 +0000 — https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/
 
-A leading US distributor of China’s most popular humanoid robots and robot dogs now plans to produce its own robots at a facility on Long Island, New York. The business pivot comes amid the US government’s growing crackdown on foreign-made robots. The company RoboStore had previously become the main North American distributor for humanoid robots and quadruped robots from Unitree Robotics, a Chinese robotics company that produces some of the most affordable and popular humanoid robot models. Universities such as Harvard and MIT, along with tech companies like Amazon and Nvidia, purchased such robots made in China through RoboStore for their own research and development purposes. “We’ve sold over 1,500 robots and deployed them and worked with customers like Cisco, OpenAI, Nvidia, and over 150 universities,” Teddy Haggerty , founder and CEO of RoboStore, told Ars. Read full article Comments ]]>
-
-### Europe cancels planned upgrades for Ariane 6 rocket
-Thu, 20 Aug 2026 21:40:52 +0000 — https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/
-
-In the two years since it made a largely successful debut, Europe's Ariane 6 rocket has launched eight missions, all of which reached orbit safely. The large, expendable rocket has a capacity of more than 20 metric tons to low-Earth orbit. And to the credit of European rocket scientists and planners, the Ariane 6 has had a substantially smoother rollout than comparable vehicles in the United States—Blue Origin's New Glenn and United Launch Alliance's Vulcan rockets—both of which have had significant growing pains. However, even though the Ariane 6 rocket has had a successful debut, its future is clouded by high costs. Read full article Comments ]]>
-
-### They survived 9/11; 25 years later, their bonds remain unbroken
-Thu, 20 Aug 2026 21:25:25 +0000 — https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/
-
-September 11, 2001, will be remembered as one of the darkest days in American history. As the 25th anniversary approaches, National Geographic, in collaboration with the 9/11 Memorial and Museum, is marking the occasion with a new documentary miniseries: 9/11: Reunited . The three-episode series revisits the personal stories of several survivors of the terrorist attacks, with a twist: It reunites people whose paths crossed at that time to celebrate the bonds they formed 25 years ago. Director Julian Jones was a producer on NatGeo's Emmy-winning 2021 documentary miniseries 9/11: One Day in America . The experience inspired him to return to direct 9/11: Reunited . "What emerged for me [while making the 2021 documentary] was a sense of people showing up for each other, a selflessness and everyday heroism," Jones told Ars. As the 25th anniversary of the attacks approached, he and National Geographic decided to commemorate the milestone with a documentary series focused on that aspect. "We wanted to bring people together to offer gratitude to each other, to answer unanswered questions, to talk about things that maybe they weren't ready to talk about until now, and also to remember their fallen comrades or friends," said Jones. "After 25 years, who do they want to meet? What questions have they got? I think we also wanted to tell the story of what many in the 9/11 community call 9/12, that's the rest of your lives—the journey, and in many cases, the psychological and physical strug
-
-### Roblox must make changes after failing to block adults creeping on kids
-Thu, 20 Aug 2026 17:14:08 +0000 — https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/
-
-Despite making changes last fall to help block adults from messaging unknown children , Roblox is still failing to stop adults from creeping on kids in other ways, Australia’s eSafety commissioner, Julie Inman Grant, said on Thursday. Suspecting that Roblox may not be doing enough to stop child exploitation, eSafety conducted testing earlier this year that flagged alarming gaps in Roblox safeguards. The agency found that adult strangers could still send connection requests to kids, whose “profiles and biographies, including account names, number and names of connections, avatar images, and non-sensitive biographical information such as their interests were visible to anyone on the Roblox platform, with no option to restrict the visibility of this information.” Such requests did not trigger parental alerts, eSafety found, and bad actors could also search kids’ visible-to-anyone contact lists for more targets. Read full article Comments ]]>
-
-### Genesis joins the giant electric SUV club with new GV90
-Thu, 20 Aug 2026 14:35:58 +0000 — https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/
-
-A couple of years ago, Genesis showed us its unique take on the luxury electric SUV with the Neolum concept. The brand's designers know how to draw a handsome shape, particularly using an SUV's proportions, and the clean-lined concept featured a four-seat interior with no B pillar, swiveling front seats, and a thoughtful mix of leather, wool, and even wood. Now Genesis has debuted the production version as its new electric flagship, the GV90. And based on the photos, at least, the process of turning that concept into reality has been a success. The GV90 uses the same 800 V E-GMP platform as other Korean electric three-row SUVs, the Hyundai Ioniq 9 and Kia EV9. A three-row, seven-seat GV90 will be part of the range, and I would assume the most common variant we'll encounter on the roads. But for the launch, Genesis is just focusing on the four-seat GV90 and the high-end GV90 Neolum; the latter faithfully translates most of the concept, including the pillarless coach doors (which Genesis is calling the Neolum Arch Gate). The GV90 Neolum is a variant with no B pillar and coach doors. Credit: Genesis Here's one GV90 Neolum interior. The wood floor from the concept made it, too. Credit: Genesis This is one of the First Edition GV90 Neolum interiors. Credit: Genesis Pillarless coach doors certainly add drama to a vehicle, and Genesis has previously told Ars it learned enough to engineer them with all the safety requirements volume production would require. Speaking of safety, all G
-
-### SpaceX’s orbital data centers would create a new category of e-waste
-Thu, 20 Aug 2026 13:59:50 +0000 — https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/
-
-Elon Musk’s talk about maintaining a million-strong AI data center satellite megaconstellation may not exactly be practical or economical , but it might be unique. It’s about the closest we’ve come to confronting a scheme that would export a considerable amount of valuable materials into space. Humans aren’t doing a great job of material sustainability, but normally we’re talking about stuff escaping a recycling pipeline rather than escaping Earth’s gravitational pull . The commercial space sector likes talking about the allure of mining asteroids for precious metals to bring back to Earth. Under what circumstances are we going to be willing to do that in reverse? Starlink alone has doubled the mass of objects in low-Earth orbit, and this orbital data center constellation would dwarf that—and dispose of at least some satellites by pushing them away from Earth. Given the roughly five-year expected lifetime for data center GPUs, about 200,000 of the 1 million proposed SpaceX AI1 satellites would be decommissioned each year. Based on their May 29 FCC filing , about 40,000 would definitely deorbit and burn up in the atmosphere. (Those materials would largely be dispersed throughout the atmosphere, turning a resource into a diffuse contaminant that slowly settles over the globe. One related issue: the aluminum would cause an unknown amount of ozone depletion over a period of decades.) Some or all of the remaining 160,000 satellites would be moved outward into a distant “disposal” 
-
-### Reverse-lookup service exposed millions of photos of people’s faces
-Thu, 20 Aug 2026 13:29:54 +0000 — https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/
-
-When someone uploads a photo to the people-search tool ClarityCheck, the website has a clear message: “Your reverse image search is private and secure.” New research , though, shows that the website left more than 9 million image files, including photographs of people’s faces, publicly exposed . And a second misconfiguration publicly exposed people’s email addresses and phone numbers. Overall, according to findings from independent security researcher Jeremiah Fowler, the exposed ClarityCheck database contained roughly 450 GB of images, including what appeared to be profile images, screenshots, and other photographs of adults, teenagers, and children. All of the images were stored in an unsecured Amazon S3 bucket, with files in folders named “faces” and “profiles,” which could be accessed by anyone online through a URL included in the company’s publicly available website code. ClarityCheck is one of a number of so-called people-finder tools that have appeared online in recent years. These websites broadly claim to be able to search the web, public records, and other databases to identify individuals. ClarityCheck’s website says it can run searches on phone numbers, email addresses, vehicle identification numbers, and names. Its photo-search page says it can help “identify anyone in a photo” and find social media profiles “in seconds.” Read full article Comments ]]>
-
-### Grok exfiltrates user data when malicious instructions are encrypted
-Thu, 20 Aug 2026 13:00:35 +0000 — https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/
-
-Earlier this week, researchers outlined an attack that used a secret input provided by Microsoft 365 Copilot for enterprise to cause the AI assistant to exfiltrate a password present in the user’s inbox. Now, a separate team has devised a similar attack against Grok. The new data theft hack employs a deceptively simple trick to force the Elon Musk-owned large language model to steal user chats and other personal information. At the time this post went live, the assistant continued to cough up the data, despite xAI being informed of it in June. The lesson from both this week’s episodes—and the countless other ones that have come before it—is that LLMs are incapable of solving the root causes for prompt injections, the most severe vulnerability classes they’re most prone to. That leaves AI developers with no other option but to build a guardrail that steers the model away from the harmful actions. As I noted in Tuesday’s story , the approach is tantamount to a road traffic safety engineer erecting a protective rail around a dangerous bend rather than banking the curve. Cryptographic Context Injection in the house Prompt injections exploit LLMs' training to comply with user requests whenever possible. Attackers can capitalize on the predilection by smuggling harmful instructions into emails or webpages the assistant is instructed to summarize. Because LLMs can’t reliably distinguish between content in an email sent by an untrusted party and user instructions entered directly int
-
-### NASA calls off mission to rescue Swift gamma-ray observatory
-Thu, 20 Aug 2026 00:18:48 +0000 — https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/
-
-NASA and Katalyst Space Technologies announced Wednesday they are giving up on a robotic mission to rescue the Swift gamma-ray telescope before it falls out of orbit. The rescue satellite, named Link, launched July 3 on a journey to fly up to NASA's Neil Gehrels Swift Observatory, capture it with three robotic arms, and boost its orbit high enough to escape a looming reentry. Link is about the size of a refrigerator, with two power-generating solar arrays and three xenon-fueled electric thrusters to send Swift into a safer, higher orbit. Katalyst, the startup leading the Swift rescue effort, said Wednesday that "ongoing attitude control issues" will prevent the Link satellite from completing its rescue mission. The spacecraft is still alive, and Katalyst said it will make the most of Link's remaining capacity, which may still allow it to get near enough to Swift for a demonstration of the satellite's close-in navigation system. Read full article Comments ]]>
+A leading US distributor of China’s most popular humanoid robots and robot dogs now plans to produce its own robots at a facility on Long Island, New York. The business pivot comes amid the US government’s growing crackdown on foreign-made robots. The company, RoboStore, had previously become the main North American distributor for humanoid robots and quadruped robots from Unitree Robotics, a Chinese robotics company that produces some of the most affordable and popular humanoid robot models. Universities like Harvard and MIT, along with tech companies like Amazon and Nvidia, purchased such robots made in China through RoboStore for their own research and development purposes. “We’ve sold over 1,500 robots and deployed them and worked with customers like Cisco, OpenAI, Nvidia, and over 150 universities,” Teddy Haggerty , founder and CEO of RoboStore, told Ars. Read full article Comments ]]>
 
 ## The Verge
+
+### HoverAir’s transforming modular drone has already been halted in the US
+2026-08-21T18:14:11-04:00 — https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo
+
+The HoverAir Versa. | Image: HoverAir I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut , and may be forced to abandon shipping plans in the US. HoverAir is now telling backers it's only shipping its camera to the US, not the piece that turns it into a drone, "due to a few remaining logistics updates with the Flight Kit." But those "logistics" may actually be a euphemism for "we've been banned by the federal government." The FCC's database no longer has an entry for … Read the full story at The Verge. ]]>
+
+### TikTok will pay $400 million to settle DOJ child privacy lawsuit
+2026-08-21T18:13:34-04:00 — https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa
+
+The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or obtaining consent and did not delete the accounts when parents requested. TikTok is set to pay $300 million right away and will pay a further $100 million "upon entry of an order vacating a prior consent decree entered against TikTok's predecessor, Musical.ly," the DOJ says in a press release . The settlement is "one of the largest recoveries ever o … Read the full story at The Verge. ]]>
+
+### Over 1 million people have clicked LinkedIn’s AI slop button
+2026-08-21T17:25:50-04:00 — https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message
+
+LinkedIn actually announced a "Seems like AI slop" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan , "over a million people" have clicked on the button, which is accessible from the three dots menu on a post. LinkedIn announced the button a few weeks after AI detector Pangram determined that 41 percent of LinkedIn's longform posts were flagged as fully AI generated, which 404 Media reported on . Alongside the AI slop button, LinkedIn introduced "new and improved" classifiers to identify posts as AI and removed a feature that would "en … Read the full story at The Verge. ]]>
+
+### Apple is laying off staffers working on the Vision Pro and Siri
+2026-08-21T15:44:55-04:00 — https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri
+
+Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg . The cuts include "largely shutting down" a Vision Pro gaming team and "reducing the size" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut. Apple said in a statement to Bloomberg it was making the changes to "to evolve our business to deliver the best experiences for our users," though it will be making new roles. The company didn't immediately reply to a request for comment from The Verge . The Vision Pro launched in early 2024 as Apple's big bet on "spatial computing," but the $3,499 headset doesn't … Read the full story at The Verge. ]]>
+
+### $100 Best Buy gift cards will be $60 at stores Saturday
+2026-08-21T14:00:00-04:00 — https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal
+
+The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $60. The deal is only good for as long as supplies last at your local store, so you might want to plan on getting there no later than opening time to boost your chance of getting one. There are some limitations on how you can use the gift card. You can’t use them to buy other gift cards, like iTunes or Google Play credit, and they also can’t be used to buy prepaid or open-loop debit cards. However, they can be used in combination with other discounts or promotions on products from Best Buy, and any returns or cancellations you make will credit back to the gift card. We’ve found a number of deals during Best Buy’s 60th anniversary sale that you can apply that gift card to. The iPad Air M4 dropped to $649 , the lowest we’ve seen since the prices went up this summer, and the AirPods Max 2 are only $429 , $120 lower than their usual price. There are a variety of discounts on Windows and macOS laptops too, like this HP OmniBook X Flip 2-in-1 for $749.99 , a $450 discount from the typical price. ]]>
 
 ### Walmart is finally adding Apple Pay and Google Pay
 2026-08-21T13:01:59-04:00 — https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch
@@ -88,31 +113,6 @@ Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a mass
 2026-08-21T10:35:22-04:00 — https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale
 
 The Pixel 10A in its lavender color scheme. It’s also available at a discount in berry, fog, and obsidian colors. | Image: The Verge This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11 , the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but with better cameras), and the $1,899 Pixel 11 Pro Fold . They’re good phones, but if you don’t mind missing out on their new, exclusive camera and AI features, you can get a great Google-made phone that’s hundreds less. Google’s Pixel 10A has been sitting at an attractive $424 (originally $499) at Amazon , Best Buy , and at the Google Store since early August, and we’re just highlighting it again here today in case you’re shopping for a phone. Google Pixel 10A Google’s new Pixel 10A introduces faster wired charging, Satellite SOS, and new AI tools like Camera Coach and Auto Best Take. Otherwise, it’s basically the Pixel 9A, with the same Tensor G4 chip and a dual-camera system. Read our hands-on impressions. Where to Buy: $499 $424 at Amazon (128GB) $499 $424 at Google (128GB) $499 $424 at Best Buy (128GB) An IP68 rating, 90Hz refresh rate screen, wireless charging, and great design aren’t something you have to pay close to $1,000 to get. Similar to Apple’s iPhone 17E (but with slightly older parts by direct comparison), the Pixel 10A offers many of the same hardware and software features as previous Pixels. Its camera specs and Tensor G4 processor — debuted within th
-
-### Major YouTube creators are facing backlash for accepting AI money
-2026-08-21T09:37:52-04:00 — https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash
-
-Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam "Kold" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield . The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, other creators started sharing what appear to be screenshots of partnership offers they'd received from PR firms working on Higgsfield's behalf. All of this led fans to the conclusion that Higgsfield has been trying to use creators to boost its profile and garner goo … Read the full story at The Verge. ]]>
-
-### Blue Eye Samurai’s second season will hit Netflix in January
-2026-08-21T09:20:29-04:00 — https://www.theverge.com/streaming/983203/blue-eye-samurai-season-2-release-date-renewal
-
-“I choose revenge.” | Image: Netflix Good news for Blue Eye Samurai fans: Netflix has shared the first trailer and release timeline for the second season of the animated series, and confirmed the series' return for a third and final season. The second season's new teaser ends with the announcement that it'll be available to stream on Netflix in January 2027, though the exact date was not specified. Co-created by Amber Noizumi and Michael Green, Blue Eye Samurai follows the story of Mizu, a samurai who conceals her gender and mixed-race heritage after facing a life of discrimination, on a personal quest for revenge. The first season concludes with the revelation that Mizu's amb … Read the full story at The Verge. ]]>
-
-### Tesla sunsets its Solar Roof tiles
-2026-08-21T08:01:07-04:00 — https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued
-
-Here’s Elon Musk showing off the Solar Roof plans back in 2016. | Image: Dieter Bohn / The Verge Tesla has discontinued Solar Roof, its solar panels designed to look like regular roofing tiles, Electrek reports. Sources "close to the program" told the publication that Tesla has informed its third-party installer network that Solar Roof is no longer available to order, and that only conventional solar panels will be supplied going forward. While Tesla hasn't officially announced that it's sunsetting the product, it's made several website changes that corroborate the reported discontinuation. The dedicated Solar Roof page ( tesla.com/solarroof ) that launched almost a decade ago now automatically redirects to Tesla's solar panel page inste … Read the full story at The Verge. ]]>
-
-### My cats hate each other, but this automatic feeder is helping
-2026-08-21T07:30:00-04:00 — https://www.theverge.com/gadgets/982897/automatic-feeder-cat-enemies
-
-Over the course of nearly a decade, my husband and I have dutifully carried out a four-times-daily ritual of feeding a pair of lovely cat siblings who hate each other. This was mostly manageable for years, but in 2024, disaster struck for my small dependents: We had a child. Suddenly, the cats were no longer our first priority. Despite our best efforts, their dry-food snack times began slipping or getting missed altogether. It was time, we decided, to turn to the pet-tech industry and hope automated feeders could deliver the attention we couldn't. Four machines and a few hundred dollars later, our hope has proven mostly well founded- though … Read the full story at The Verge. ]]>
-
-### Patreon is changing its algorithm to help smaller creators get discovered
-2026-08-21T07:08:09-04:00 — https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes
-
-Patreon is developing over 30 new and updated tools, but some of them might never fully roll out to users. | Image: Patreon Patreon has announced a number of new and overhauled features that are designed to "build a better network - and a better internet," according to CEO Jack Conte. The Patreon roadmap includes discovery algorithm updates, platform and security improvements, and new features for both creators and fans. In a lengthy blog post , Conte outlines each of the changes and says they aim to address how the last generation of tech companies "have enshittified" by positioning Patreon as a better example of online creative and community platforms: "The current version of the web is a failed promise for creators and fandoms. As creators, we can't even rea … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +178,36 @@ CPU-Z has rolled into its version 3 release, representing one of, if not the lar
 
 ## Phoronix
 
+### KDE Plasma 6.8 Lands Some Enticing Performance Optimizations This Week
+Fri, 21 Aug 2026 21:01:36 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.8-More-Performance
+
+This Week in Plasma is out with its latest issue to highlight interesting developments in the trek towards Plasma 6.8...
+
+### OpenZFS 2.4.4 Released With Linux 7.2 Support, Dozens Of Fixes
+Fri, 21 Aug 2026 20:40:33 -0400 — https://www.phoronix.com/news/OpenZFS-2.4.4-Released
+
+OpenZFS 2.4.4 is out today as the newest stable point release for this ZFS file-system implementation for Linux and FreeBSD systems...
+
+### Wine 11.16 Released With VA-API Hardware Decoding, Better ARM64 Support
+Fri, 21 Aug 2026 18:12:01 -0400 — https://www.phoronix.com/news/Wine-11.16-Released
+
+Wine 11.16 is out today as the newest bi-weekly development release for this software enabling Windows games and applications to run on Linux and other platforms...
+
+### Proton 11.0-2 Enables More Titles With Steam Play / Linux Gaming
+Fri, 21 Aug 2026 17:14:07 -0400 — https://www.phoronix.com/news/Proton-11.0-2
+
+Just in time for those that enjoy their Linux / Steam Play gaming on weekends, Valve and CodeWeavers today released Proton 11.0-2 as the newest stable release of this Wine 11.0 downstream that powers Steam Play for running Windows games gracefully on Linux...
+
+### AMD Posts Massive Patch Series For Enabling UALink In The Linux Kernel
+Fri, 21 Aug 2026 16:07:08 -0400 — https://www.phoronix.com/news/UALink-Series-2-Linux
+
+Whether coincidental or intentional, AMD engineers tend to drop interesting, feature patches for the open-source/Linux space on Friday afternoons. Hitting the kernel mailing list minutes ago were two patch series sent out by AMDGPU maintainer Alex Deucher for introducing UALink infrastructure...
+
+### Linux 7.3 Lands Improvements For Voodoo 3 / 4 / 5 & Vintage Atari Computers In 2026
+Fri, 21 Aug 2026 13:53:28 -0400 — https://www.phoronix.com/news/Linux-7.3-FBDEV
+
+At a time when Linux continues dropping older hardware drivers due to the influx of AI/LLM-generated bug reports and patches for hardware extremely unlikely to be used with modern versions of the mainline Linux kernel, Voodoo graphics cards and vintage Atari computers are seeing some reprieve with the upcoming Linux 7.3 kernel release...
+
 ### Framework Laptop 16 With GeForce RTX 5070 12GB, One-Piece Keyboard & Haptic Touchpad
 Fri, 21 Aug 2026 11:54:05 -0400 — https://www.phoronix.com/review/framework-laptop-16-2026
 
@@ -207,34 +237,4 @@ Intel today released the Compute Runtime 26.31.39395.13 open-source GPU compute 
 Fri, 21 Aug 2026 06:33:07 -0400 — https://www.phoronix.com/news/AMD-Solarflare-NIC-CXL-Type-2
 
 With the mainline Linux 7.2 kernel there is now the basic support in place for CXL Type-2 accelerator drivers within the CXL core subsystem code. The first in-tree Type-2 driver with the Linux kernel is for the new AMD Solarflare NIC hardware...
-
-### Linus Torvalds Endures A Debug Session From Hell, "Enormously Helped" By AI
-Fri, 21 Aug 2026 06:19:44 -0400 — https://www.phoronix.com/news/Linus-Torvalds-Debug-AI
-
-It's pretty rare to see Linus Torvalds author patches himself pertaining to the open-source Linux graphics drivers, but waking up this morning I was surprised to see he authored and committed an Intel Xe kernel graphics driver change himself. It ended up being after he encountered a "debug session from hell" but was ultimately helped by AI in fixing a bug that had been irking him...
-
-### Intel Mesa Linux Drivers Now Treating Nova Lake S / U / H / HX As Stable
-Thu, 20 Aug 2026 20:44:45 -0400 — https://www.phoronix.com/news/Intel-Mesa-Nova-Lake-Stable
-
-Intel's open-source Mesa drivers for Iris Gallium3D (OpenGL) and ANV (Vulkan) on Linux are no longer treating next-gen Nova Lake processors with integrated graphics as experimental and off-by-default. With today's Mesa 26.3-devel code, the Intel driver code across Nova Lake's S, U, H, and HX product families are considered stable and enabled by default...
-
-### Linux 7.3 Network Changes Merged But Developers "Completely Overwhelmed" Due To AI/LLMs
-Thu, 20 Aug 2026 16:05:28 -0400 — https://www.phoronix.com/news/Linux-7.3-Networking
-
-All of the networking subsystem feature updates were merged today for the Linux 7.3 kernel's merge window. There are a lot of wired and wireless networking improvements this cycle but also a ton of bug fixes -- including many not so important fixes spun up by AI/LLM agents. The networking subsystem maintainers admit now they are "completely overwhelmed" due to this code churn from the output of AI large language models...
-
-### Rust 1.98 Adds Algebraic Floating-Point Methods Akin To "-ffast-math"
-Thu, 20 Aug 2026 13:29:25 -0400 — https://www.phoronix.com/news/Rust-1.98-Released
-
-Rust 1.98 released today and is headlined the debut of new algebraic floating-point methods...
-
-### KMSCON 10.0.2 Brings asciicast Playback Support, Bug Fixes
-Thu, 20 Aug 2026 13:19:37 -0400 — https://www.phoronix.com/news/KMSCON-10.0.2-Released
-
-KMSCON 10.0.2 debuted today as the latest update to this leading user-space terminal emulator for Linux systems. KMSCON is built around Linux's KMS/DRM interfaces and the most viable alternative to date for in-kernel VTs...
-
-### KDE Software Now Has Stable Btrfs Snapshot Integration With KIO-Snapshot 1.0
-Thu, 20 Aug 2026 12:21:31 -0400 — https://www.phoronix.com/news/KDE-Btrfs-Snapshots
-
-With today's release of KIO-Snapshot, KDE software now has stable integration of Btrfs file-system snapshots...
 

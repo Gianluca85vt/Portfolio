@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-21T17:05:32.824Z
+# AI — harvested 2026-08-22T05:04:10.406Z
 
 ## OpenAI
 
@@ -6,16 +6,6 @@
 Thu, 20 Aug 2026 07:00:00 GMT — https://openai.com/index/introducing-ai-futures
 
 Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
-
-### Stampli cuts launch hours by 68% using ChatGPT Work
-Thu, 20 Aug 2026 00:00:00 GMT — https://openai.com/index/stampli
-
-With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.
-
-### Offering Zero Data Retention for frontier models
-Wed, 19 Aug 2026 19:00:00 GMT — https://openai.com/index/offering-zero-data-retention-for-frontier-models
-
-OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.
 
 ## Hugging Face
 

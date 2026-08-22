@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-21T17:05:32.824Z
+# Games — harvested 2026-08-22T05:04:10.406Z
 
 ## Eurogamer
 
@@ -130,6 +130,16 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Tides of Annihilation Dev Insists It Didn t Change Its Heroine s Face
+Fri, 21 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/tides-of-annihilation-dev-insists-it-didnt-change-its-heroines-face
+
+Another day, another drama. I played upcoming PS5 action game Tides of Annihilation last week, and I thought it was great . When footage leaked prior to the embargo lifting, I wasn’t expecting the focus to be on Gwendolyn’s face. But I’ve been doing this job for a long time now, so I suppose I should know better by this stage! Read the full article on pushsquare.com
+
+### Psychonauts Dev Double Fine Will Let You Decide What Game It Makes Next
+Fri, 21 Aug 2026 19:45:00 GMT — https://www.pushsquare.com/news/2026/08/psychonauts-dev-double-fine-will-let-you-decide-what-game-it-makes-next
+
+Having gone back to being an independent team. Psychonauts team Double Fine is going to share "what's next for the studio" today as part of a livestream on the Kinda Funny Games YouTube channel . Having just returned to independence after years of ownership under Microsoft, the developer plans to talk about its future on the live show scheduled to start in the coming hours. I doubt you're going to get actual game announcements out of the livestream, but I presume Tim Schafer will be there to talk about how Double Fine will approach its future. Read the full article on pushsquare.com
+
 ### Next Major PS5 Exclusive Is Ready to Release, Wolverine Goes Gold
 Fri, 21 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/08/next-major-ps5-exclusive-is-ready-to-release-wolverine-goes-gold
 
@@ -144,11 +154,6 @@ The hunt for Cyberleek. As you would expect, publisher Take-Two is clearly not b
 Fri, 21 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro
 
 Console footage shared online. Rebel Wolves has announced the graphical modes you can pick between in The Blood of Dawnwalker , and the standout news is that neither of the two settings provided offers 60 frames-per-second support on base PS5 or PS5 Pro. On both base PS5 and PS5 Pro, there are the same two modes to choose from: Read the full article on pushsquare.com
-
-### Psychonauts Dev Double Fine Reveals Its Future Plans Today
-Fri, 21 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/08/psychonauts-dev-double-fine-reveals-its-future-plans-today
-
-Having gone back to being an independent team. Psychonauts team Double Fine is going to share "what's next for the studio" today as part of a livestream on the Kinda Funny Games YouTube channel . Having just returned to independence after years of ownership under Microsoft, the developer plans to talk about its future on the live show scheduled to start in the coming hours. I doubt you're going to get actual game announcements out of the livestream, but I presume Tim Schafer will be there to talk about how Double Fine will approach its future. Read the full article on pushsquare.com
 
 ### Guide: Call of Duty: Modern Warfare 4 Beta: Start Times, How to Get Early Access, and What s Included
 Fri, 21 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included
@@ -185,17 +190,17 @@ Fri, 21 Aug 2026 07:00:00 GMT — https://www.pushsquare.com/reviews/ps5/metal-g
 
 La-Li-Lu-Le-Love it. When compared to the first Master Collection , it's easy to see why you might draw the conclusion that Metal Gear Solid: Master Collection Vol. 2 feels a little undercooked. The first volume consists of the first three MGS games — all games you would reasonably expect to see on any list of the greatest ever PlayStation games — as well as the original Metal Gear and Metal Gear 2 . Vol. 2 has got the one with the really long cut-scenes, a portable non-numbered title, and a non-canon spin-off a lot of people probably haven't even heard of. Read the full article on pushsquare.com
 
-### Ex-Wrestler Dave Bautista Officially Replaces Ryan Hurst as Kratos in God of War TV Show
-Thu, 20 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/08/ex-wrestler-dave-bautista-officially-replaces-ryan-hurst-as-kratos-in-god-of-war-tv-show
-
-Thoughts? Ex-WWE wrestler and Guardians of the Galaxy star Dave Bautista is reportedly in talks to play Kratos in Amazon’s upcoming God of War live action TV show. Variety reports that the 57-year-old is in discussions to replace Ryan Hurst, who is being recast after tearing his bicep last month . Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak
+Fri, 21 Aug 2026 20:03:39 GMT — https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-discord-in-bid-to-halt-extensive-grand-theft-auto-vi-leak
+
+Take-Two is racing to halt a series of GTA VI leaks from an entity known as "Cyberleek" that may have access to a playable build of the game.
 
 ### We're finally talking about AI, ft. David 'Rez' Graham and Luke Dicken
 Fri, 21 Aug 2026 14:45:37 GMT — https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken
 
-We're chatting about AI and AI techniques, but it’s also a conversation about the nature of work and the inherent value of AI in game development.
+We're chatting about AI and AI techniques, but it's also a conversation about the nature of work and the inherent value of AI in game development.
 
 ### EA staff worries over Saudi buyout, Grand Theft Auto 6 leaks, and Peak's last major update - Patch Notes #66
 Fri, 21 Aug 2026 12:32:53 GMT — https://www.gamedeveloper.com/business/ea-staff-worries-over-saudi-buyout-grand-theft-auto-6-leaks-and-peak-s-last-major-update-patch-notes-66
