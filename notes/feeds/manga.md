@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-22T07:59:39.260Z
+# Manga — harvested 2026-08-22T10:58:12.161Z
 
 ## Anime News Network
+
+### Even the Student Council Has its Holes! TV Anime Reveals October 3 Debut in Main Promo Video
+Sat, 22 Aug 2026 05:57:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/even-the-student-council-has-its-holes-tv-anime-reveals-october-3-debut-in-main-promo-video/.240834
+
+More staff, opening theme artist also announced
 
 ### All the News and Reviews from Anime NYC 2026
 Sat, 22 Aug 2026 02:39:38 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/.240809
@@ -56,11 +61,6 @@ Fri, 21 Aug 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 Fri, 21 Aug 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/dark-horse-to-release-vampire-hunter-d-rose-princess-manga-vampire-hunter-d-fortress-of-blood-comic-/.240794
 
 <cite>Vampire Hunter D: Fortress of Blood</cite> comic debuts on December 16; Saiko Takaki's <cite>Vampire Hunter D: Rose Princess</cite> manga's English translation launches in March 2027
-
-### Yen Press Licenses The Goblin Samurai, My Crush's Crush Manga
-Fri, 21 Aug 2026 12:24:07 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/yen-press-licenses-the-goblin-samurai-my-crush-crush-manga/.240793
-
-<cite>The Boy and the Beast</cite>, <cite>Rise of the Lowborn</cite> light novels also get audiobooks
 
 ## Crunchyroll News
 

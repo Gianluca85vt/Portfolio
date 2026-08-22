@@ -1,6 +1,16 @@
-# Film & TV — harvested 2026-08-22T07:59:39.260Z
+# Film & TV — harvested 2026-08-22T10:58:12.161Z
 
 ## Variety
+
+### Here s How to Watch 2026 Indycar Series Freedom 250 Grand Prix of Washington, D.C. Live Online
+Sat, 22 Aug 2026 10:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-indycar-freedom-250-grand-prix-live-online-free-1236838320/
+
+After the Grand Prix of Ontario in Canada in mid-August, Indycar Series travels to the United States capital city for the 2026 Freedom 250 Grand Prix of Washington, D.C. It starts on Saturday, Aug. 22 with practice and qualifying rounds. Race day is the following day on Sunday, Aug. 23 at 1 p.m. ET/10 a.m. [ ]
+
+### Everything That’s Wrong With You Review: A Luminous Two-Hander from Slovenia About Online Pals Navigating the Waters of IRL Friendship
+Sat, 22 Aug 2026 09:41:13 +0000 — https://variety.com/2026/film/reviews/everything-thats-wrong-with-you-review-1236840724/
+
+Anyone with a scrolling habit will know that social media can be a soothing place for the downbeat and lonely. Yet the intimacy you can strike up with strangers rubs up against the uncomfortable fact that our online personae are always manipulated to an extent. Writer-director Urša Menart’s luminous Sarajevo competition title “Everything That’s Wrong [ ]
 
 ### Olivia Rodrigo Releases Handmaid s Tale -Inspired Song, Serena Joy, in a Tiny Run of CDs, With Digital Drop to Follow
 Sat, 22 Aug 2026 06:18:34 +0000 — https://variety.com/2026/music/news/olivia-rodrigo-serena-joy-cd-single-handmaids-tale-1236840709/
@@ -42,17 +52,12 @@ Fri, 21 Aug 2026 23:12:39 +0000 — https://variety.com/2026/biz/news/secret-hol
 
 A group of Hollywood filmmakers, executives and actors has spent the last three years secretly meeting with Silicon Valley executives to try to address a simmering issue in the industry: how to define where AI is useful in the context of a human-controlled creative process. The meetings were first convened in November 2023 by LucasFilm [ ]
 
-### Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs
-Fri, 21 Aug 2026 23:00:42 +0000 — https://variety.com/2026/digital/news/vertical-media-150-billion-tiktok-microdramas-owl-co-1236840519/
-
-There’s no doubt that 2026 will go down as a milestone year for the growth in popularity of vertical media content in the U.S. The sector is booming but still incredibly diffuse. That will change as microdramas and other formats proliferate and generate more advertising, subscription and in-app purchase revenue. Those are among the conclusions [ ]
-
-### Harry Potter Star Jessie Cave Says It Was Embarrassing to Join OnlyFans to Pay the Bills but It Has Saved Me : Lavender Brown Was a Small Part 20 Years Ago
-Fri, 21 Aug 2026 21:38:20 +0000 — https://variety.com/2026/film/news/harry-potter-jessie-cave-onlyfans-embarrassing-saved-me-1236840193/
-
-Jessie Cave, the actor who portrayed Lavender Brown in three “Harry Potter” movies, appeared in a recent interview on the U.K. talk show This Morning and spoke openly about her decision to launch an OnlyFans last year to help get her out of debt. Her decision resulted in a Potter fan convention barring her from [ ]
-
 ## The Hollywood Reporter
+
+### Sandra Wollner s Everytime Wins Best Film in Sarajevo, Ana Urushadze Crowned Best Director
+Sat, 22 Aug 2026 09:07:26 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sandra-wollner-everytime-honorary-heart-sarajevo-urushadze-1236678968/
+
+The jury at this year's Sarajevo Film Festival included British actress Emily Watson, European Film Academy director Matthijs Wouter Knol and Yorgos Lanthimos’ producer Athina Rachel Tsangari.
 
 ### Former Child Actress Raquel Lee Alleges Disney Negligent in On-Set Sexual Abuse
 Sat, 22 Aug 2026 03:43:35 +0000 — https://www.hollywoodreporter.com/business/business-news/raquel-lee-alleges-disney-negligent-sexual-abuse-1236678925/
@@ -99,11 +104,6 @@ Fri, 21 Aug 2026 22:22:25 +0000 — https://www.hollywoodreporter.com/business/b
 
 The theatrical executive had inked a new deal with the studio last year only to be terminated and replaced months later.
 
-### The Best Sunscreens for Your Face (and Body), as Recommended by Beauty Insiders
-Fri, 21 Aug 2026 21:51:16 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-sunscreens-for-face-body-experts-recommended-1235195076/
-
-Hollywood makeup artists and aestheticians share their go-to face and body sunscreens for protecting your visage all summer.
-
 ## Deadline
 
 ### Imagen Awards: Acapulco Leads As Brownsville Bred, Will Trent Scrubs Take Top Prizes Full List
@@ -124,7 +124,7 @@ With both sides of the aisle keeping an eye toward the 2028 presidential electio
 ### Paramount State AGs Settlement Talks Set For Next Week; Gavin Newsom Says He Takes Paramount CEO s Threat To Leave California Seriously
 Sat, 22 Aug 2026 00:59:47 +0000 — https://deadline.com/2026/08/gavin-newsom-paramount-merger-settlement-talks-1237048002/
 
-After weeks of speculation about Gavin Newsom s true position on Paramount s $111 billion acquisition of Warner Bros Discovery and the antitrust suit filed a coalition of state attorneys general, the outgoing governor of California finally weighed in publicly today. His comments come as it appears that Paramount representatives and state attorneys general offices are said [ ]
+(Updated with California Attorney General statement) After weeks of speculation about Gavin Newsom s true position on Paramount s $111 billion acquisition of Warner Bros Discovery and the antitrust suit filed a coalition of state attorneys general, the outgoing governor of California finally weighed in publicly today. His comments come as it appears that Paramount representatives and [ ]
 
 ### Bruce Campbell Clarifies He s Tapped Out Of The Evil Dead Franchise, Didn t Want Ash To Be Borderline Geezer
 Fri, 21 Aug 2026 23:39:28 +0000 — https://deadline.com/2026/08/bruce-campbell-clarifies-tapped-evil-dead-franchise-1237047967/

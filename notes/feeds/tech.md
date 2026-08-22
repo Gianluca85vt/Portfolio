@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-22T07:59:39.260Z
+# Tech — harvested 2026-08-22T10:58:12.161Z
 
 ## Ars Technica
 
@@ -116,6 +116,16 @@ The Pixel 10A in its lavender color scheme. It’s also available at a discount 
 
 ## Tom's Hardware
 
+### Spending on physical games falls to lowest on record since 1995 — US console sales plunge 39% in July as memory costs push average price to $542
+Sat, 22 Aug 2026 10:30:00 +0000 — https://www.tomshardware.com/video-games/console-gaming/us-console-sales-fall-39-percent-in-july-as-memory-costs-push-average-price-to-542
+
+Spending on physical game disks has fallen to the lowest recorded level since tracking began in 1995, according to a new report documenting a drastic slump in the console market. U.S. console hardware sales fell 39% by unit volume in July against a year earlier, while the average price paid for a new system rose 16% to $542, according to Circana data posted by analyst Mat Piscatella on August 20 . Dollar sales came in at $282 million, down 29% and the lowest July total since 2020, with Piscatella tying the drop to console price increases caused by the RAM and component crisis, a link Circana hadn't made in its monthly reporting before. PlayStation 5 units fell 6%, Xbox Series units fell 18%, and Switch 2 units fell 51%, with Nintendo's own $50 price increase still to come on September 1. PS5 dollar sales rose 29% in July even as unit sales fell 6%, a gap driven by Sony's $100 increase across the PS5 range in April , which took the standard console to $599 and the PS5 Pro to $899. Sony still led the month in dollar sales, while the Switch 2 led in unit volume. Switch 2 dollar sales fell 52% alongside the 51% unit decline, and the original Switch dropped 62% in units and 61% in dollars. Nintendo's Switch 2 is the only one of the three current platforms that hasn't raised its U.S. price yet, but that’ll change when the console goes to $499 on September 1 . The company's RAM costs for the console rose 41% late last year, and Nintendo reportedly cut planned Switch 2 output by 2 mi
+
+### Back-to-back Amazon CPU scam delivers empty Ryzen 5 9600X boxes in 72 hours — $ 10,000-a-month business customer captures fraud on camera
+Sat, 22 Aug 2026 10:00:00 +0000 — https://www.tomshardware.com/desktops/pc-building/alleged-amazon-cpu-scam-hits-pc-shop-twice-in-three-days-ryzen-5-9600x-orders-arrive-with-empty-retail-boxes
+
+A New York-based computer repair and custom gaming PC retail store is the latest victim of an alleged Amazon delivery scam. Sharing their experience in a Reddit post , one of the co-owners of PC Plug wrote that they ordered an AMD Ryzen 5 9600X a few days ago but received only the box, with the CPU missing. After immediately requesting a refund, they went on to purchase another CPU with next-day delivery. However, they once again received only the retail box, with no CPU inside. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent The post also mentions that they record every product unboxing and maintain proper documentation specifically for such cases. Instead of ordering directly from Amazon or the manufacturer, one of the inventory managers accidentally purchased the CPU from “The Tech Group,” a third-party seller with decent ratings whose orders were fulfilled by Amazon. However, they claim those ratings could be fake. The co-owner told Tom's Hardware that they order 90% of their hardware inventory through Amazon, which amounts to roughly $10,000 a month. “This is the first time we’ve received a product wit
+
 ### Get a full-size Keychron mechanical keyboard for just $29 — 50% off this 104-key wired keeb with your choice of Keychron Super Brown or Red switches
 Fri, 21 Aug 2026 16:45:23 +0000 — https://www.tomshardware.com/pc-components/get-a-full-size-keychron-mechanical-keyboard-for-just-usd29-50-percent-off-this-104-key-wired-keeb-with-your-choice-of-keychron-super-brown-or-red-switches
 
@@ -166,17 +176,32 @@ Fri, 21 Aug 2026 12:40:00 +0000 — https://www.tomshardware.com/monitors/lg-dis
 
 LG Display has just unveiled perhaps the biggest innovation in OLED manufacturing in a while, aptly called "FLiPP" or FMM-less Innovative Pixel Patterning. FMM stands for Fine Metal Masks, and they're required as a stencil to deposit organic LEDs onto a glass substrate. FLiPP gets rid of these and instead relies on photolithography to vaporize unneeded areas from an RGB subpixel to produce a brighter panel that takes less power to drive and is ultimately cheaper to produce. The main benefit of FLiPP is how it increases the subpixel surface area in an OLED stack. Instead of the metal mask taking up space, the subpixels are spread out much closer to each other, which improves their "aperture ratio" by up to 55%. In reality, that translates to 1.6x brighter panels with 2.4x longer lifespans . Since the panel doesn't have to work as hard to drive the pixels, its power consumption drops by 13% as well. A metal mask is also heavy and can thus sag in the middle, leading to panel uniformity or color blending issues. It's expensive to make, too, because it features tiny holes that scale up in precision depending on resolution and size. FLiPP eliminates those constraints entirely, as it can, in theory, produce panels ranging from 1-100 inches for a broad range of devices and applications with any resolution in mind. (Image credit: Samsung Display) For instance, whenever new panel tech emerges , a new metal mask needs to be created to specifically accommodate its subpixel layout. A majo
 
-### Supermicro fires several employees following investigation into $2.5 billion China AI chip smuggling — claims that senior management had no knowledge of illicit transactions
-Fri, 21 Aug 2026 12:20:54 +0000 — https://www.tomshardware.com/tech-industry/big-tech/supermicro-fires-several-employees-following-investigation-into-usd2-5-billion-china-ai-chip-smuggling-claims-that-senior-management-had-no-knowledge-of-illicit-transactions
-
-Five months after the arrest of Supermicro co-founder Yih-Shyan “Wally” Liaw and two other co-conspirators for the alleged smuggling of Nvidia hardware into China, the company announced that it has completed its independent investigation and released its findings to the public, resulting in the termination of several employees. Supermicro said that the investigation, which was handled by an external law firm and conducted by an “independent forensic accounting consultant,” finds that neither the company nor its current senior executives were part of the alleged AI chip smuggling. It also said that it’s adopting all the recommendations to enhance its export compliance programs, although it did not directly admit that it was lacking in that department. Go deeper with TH Premium: Taiwan, trade, and tariffs (Image credit: tsmc) While the U.S. flip-flops on chip sanctions, China is building its own chip supply market The state of China's decade-long semiconductor push Huawei Ascend NPU roadmap examined China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab China's latest round of rare-earth export controls explained “The investigation team reviewed the customer transactions that were the subject of the federal indictment, as well as transactions with a selection of other customers who bought restricted products, and did not find any evidence that any current member of senior management had knowledge of the alleged diversion scheme or of any actual diversion 
-
-### CPU-Z gets biggest update since 2001 with V3 — 100+ health checks, built-in stress testing, and XOC effective clock tracking
-Fri, 21 Aug 2026 12:20:00 +0000 — https://www.tomshardware.com/software/applications/cpu-z-gets-biggest-update-since-2001-with-v3-100-health-checks-built-in-stress-testing-and-xoc-effective-clock-tracking
-
-CPU-Z has rolled into its version 3 release, representing one of, if not the largest, updates the app has seen since its release in 2001. V3 introduces a host of updates , focusing primarily on an overhauled validation system with a new advanced mode. CPU-Z's validation system now consists of three modes: standard, advanced, and XOC. The standard validation system can now display the current health of a PC in less than 10 seconds, and will check over 100 detection points including drivers, CPU temperature, bloatware, and more. The team behind CPU-Z also worked with major support services to add "meaningful" labels detailing how healthy parts of the system are. These labels include "Critical," "Warning," and "Informational". Standard Validation is available now. In less than 10 sec., get a snapshot of your PC’s health with 100+ detection points covering drivers, temperatures, bloatware, hardware issues, misconfiguratoins and more, ordered with clear ❌Critical, ⚠️ Warning and ℹ️ Info messages. pic.twitter.com/YzCnLPn8ek August 20, 2026 The advanced validation portion is entirely new for CPU-Z and features a far more in-depth validation process, including checking for potential hardware issues under heavy load. Using the advanced validation tool can take anywhere between several minutes and several hours to complete due to the stress testing and error detection functionality targeted at the CPU, RAM, and GPU. Additionally, the advanced validator also features a "significantly ex
-
 ## Phoronix
+
+### NVK Vulkan Video Merged For Mesa 26.3
+Sat, 22 Aug 2026 06:55:00 -0400 — https://www.phoronix.com/news/NVK-Vulkan-Video-Mesa-26.3
+
+The newest major feature to land in Mesa's open-source NVIDIA "NVK" Vulkan driver is support for Vulkan Video!..
+
+### Sched_ext s Sub-Scheduler Support Now "Feature Complete" With Linux 7.3
+Sat, 22 Aug 2026 06:43:51 -0400 — https://www.phoronix.com/news/Linux-7.3-sched-ext
+
+The extensible scheduler framework "sched_ext" that allows for custom schedulers as BPF programs has been working on sub-scheduler support in recent kernel cycles. With Linux 7.3, sub-scheduler support is now deemed feature complete...
+
+### Red Hat s Tuned 2.28 To Improve Out-Of-The-Box WiFi Power Savings On Fedora
+Sat, 22 Aug 2026 06:18:39 -0400 — https://www.phoronix.com/news/Red-Hat-Tuned-2.28
+
+Tuned 2.28 released this Saturday as the newest version of Red Hat's tuning profile delivery mechanism for Linux. Tuned is used notably out-of-the-box on Fedora Linux for monitoring and adaptively tuning systems...
+
+### Open-Source Etnaviv Driver Now Able To Run YOLOX
+Sat, 22 Aug 2026 06:06:04 -0400 — https://www.phoronix.com/news/Etnaviv-YOLOX
+
+The open-source, reverse-engineered Etnaviv driver stack that began for providing accelerated graphics support on Vivante GPU IP and since expanded to handle Vivante NPUs as well is now able to handle YOLOX object detection...
+
+### Linux 7.3 x86/mm Lands Patches To Greatly Improve Latency-Sensitive Workloads
+Sat, 22 Aug 2026 05:57:36 -0400 — https://www.phoronix.com/news/Linux-7.3-x86-mm-Latency
+
+The highlight of this week's x86/mm pull request of changes for the Linux 7.3 kernel are fixes that reduce the time that the TLB flushing code has interrupts disabled. This helps significantly with latency-sensitive workloads but Intel engineer Dave Hansen noted in the pull request that "it's certainly something to keep an eye on" in looking out for any regressions...
 
 ### KDE Plasma 6.8 Lands Some Enticing Performance Optimizations This Week
 Fri, 21 Aug 2026 21:01:36 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.8-More-Performance
@@ -212,29 +237,4 @@ At a time when Linux continues dropping older hardware drivers due to the influx
 Fri, 21 Aug 2026 11:54:05 -0400 — https://www.phoronix.com/review/framework-laptop-16-2026
 
 While the past few weeks have been quite busy with the new Framework Laptop 13 Pro testing with that all-new laptop model and paired with Intel s Core Ultra Series 3 "Panther Lake", at the same time Framework Computer has begun shipping some updated components for the Framework Laptop 16 laptop. If looking for a bit more GPU compute power hor larger form factor than the 13-inch model, the Framework Laptop 16 can now be equipped with the NVIDIA GeForce RTX 5070 GPU as well as a haptic touchpad and one-piece keyboard for improving the input experience.
-
-### Nginx Dark Mode Support For Error Pages Remains Elusive
-Fri, 21 Aug 2026 11:25:41 -0400 — https://www.phoronix.com/news/Nginx-Dark-Mode-Mystery
-
-In early 2025 I wrote about the upstream Nginx web server rejecting dark mode support for its error pages on the basis of wanting to keep the default error pages simple and developers arguing the extra HTML tag for the dark mode styling as superfluous. Following a lot of public backlash for being against offering native dark mode handling by default, Nginx stakeholders were polled and largely came out in favor of supporting the functionality but more than one year later it remains elusive from upstream Nginx...
-
-### Intel Computer Vision Sensing Driver Now Ready For Nova Lake
-Fri, 21 Aug 2026 09:13:26 -0400 — https://www.phoronix.com/news/Linux-7.3-Media
-
-The main set of media subsystem updates have been merged for the ongoing Linux 7.3 merge window. Notable this round is the Intel Computer Vision Sensing "CVS" driver merged the previous cycle now supporting next-gen Nova Lake platforms...
-
-### Linux 7.3 Cleans Up Stack Randomization, Ensures It Happen As Early As Possible
-Fri, 21 Aug 2026 08:29:09 -0400 — https://www.phoronix.com/news/Linux-7.3-Stack-Randomization
-
-Merged this week for the Linux 7.3 kernel was a big clean-up to the stack randomization code for better security on Linux systems and helping unify some of the architecture-specific code...
-
-### Intel Compute Runtime 26.31.39395.13 Continues Prepping For Crescent Island, OpenCL LEO
-Fri, 21 Aug 2026 08:03:07 -0400 — https://www.phoronix.com/news/Intel-CR-26.31.39395.13
-
-Intel today released the Compute Runtime 26.31.39395.13 open-source GPU compute stack update for Windows and Linux systems. Big ongoing trends for the Intel Compute Runtime continue to be preparing for upcoming Crescent Island and Nova Lake Xe3P graphics hardware as well as building out their new OpenCL LEO driver...
-
-### Linux 7.3 Ready With CXL Type-2 Driver Support For AMD Solarflare NICs
-Fri, 21 Aug 2026 06:33:07 -0400 — https://www.phoronix.com/news/AMD-Solarflare-NIC-CXL-Type-2
-
-With the mainline Linux 7.2 kernel there is now the basic support in place for CXL Type-2 accelerator drivers within the CXL core subsystem code. The first in-tree Type-2 driver with the Linux kernel is for the new AMD Solarflare NIC hardware...
 

@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-22T07:59:39.260Z
+# Games — harvested 2026-08-22T10:58:12.161Z
 
 ## Eurogamer
+
+### Double Fine confirms it owns all its games' IP and publishing rights after Xbox split
+Sat, 22 Aug 2026 10:33:31 +0000 — https://www.eurogamer.net/double-fine-ip-publishing-rights-xbox-split
+
+Double Fine has confirmed it owns &ndash; or will shortly own &ndash; the intellectual property and publishing rights to every game it made during its seven years under Xbox following the studio's split from Microsoft earlier this year. Read more
+
+### 61 video game things that spark joy
+Sat, 22 Aug 2026 09:10:15 +0000 — https://www.eurogamer.net/47-video-game-things-that-spark-joy
+
+Video games are great, that's why we're here! But some things about video games are greater than others. And so in the spirit of Eurogamer's Optimism Week - a chance to reflect on just how special the medium can be, at a time it isn't always easy to remember - we thought we'd switch tack; moving away from the big things, to the little things. Not the series we love, or the games we can't get enough of, but those strange, weird, little video gaming moments that, for us at least, spark joy. And, of course, we'd love to hear yours too in the comments below! Read more
 
 ### What we've been playing - "We're in danger of making this a regular thing"
 Sat, 22 Aug 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-were-in-danger-of-making-this-a-regular-thing
@@ -51,16 +61,6 @@ In the increasingly crowded Soulslike genre, a game's opening minutes need to do
 Fri, 21 Aug 2026 09:01:37 +0000 — https://www.eurogamer.net/2xko-development-ending-december-riot-games-issuing-refunds
 
 Active development on 2XKO - the free-to-play fighting game from Riot Games - will end in December. This comes not even a year after the game's full release in January, as the company doesn't see "a path toward sustainability". Read more
-
-### Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign
-Thu, 20 Aug 2026 16:44:12 +0000 — https://www.eurogamer.net/hidetaka-miyazaki-fromsoftware-single-player-games
-
-Hidetaka Miyazaki , the president of FromSoftware and director of so many revered Soulsian games, has suggested the studio is keen to return to making single-player games after The Duskbloods. Read more
-
-### IO Interactive announces new sales milestone for James Bond game 007 First Light
-Thu, 20 Aug 2026 15:32:26 +0000 — https://www.eurogamer.net/james-bond-007-first-light-sales
-
-The acclaimed James Bond game 007 First Light continues to find success, with developer IO Interactive announcing today it's passed 4 million sales since launch, just under three months ago. Read more
 
 ## GamesIndustry.biz
 
@@ -130,6 +130,11 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Talking Point: What Are You Playing This Weekend? - Issue 647
+Sat, 22 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-647
+
+That sinking feeling. Gee-whiz, these weekends come around quick. Not that I'm complaining — more time to eat pizza and play PS5 is a positive as far as I'm concerned. Aaron Bayne I've got a couple of embargoed games on the go, but I think I'd quite like to chip away at The Sinking City 2 . I really liked what I played of it so far while recording footage for our video review. Read the full article on pushsquare.com
+
 ### Tides of Annihilation Dev Insists It Didn t Change Its Heroine s Face
 Fri, 21 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/tides-of-annihilation-dev-insists-it-didnt-change-its-heroines-face
 
@@ -185,11 +190,6 @@ Fri, 21 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/marvel
 
 Fighting fit. Developer Arc System Works has pushed a big new patch for Marvel Tokon: Fighting Souls , making a whole load of fixes and improvements across both PS5 and PC. Perhaps most notable for those playing on computers is that this version of the game sees further improvements to performance with this update. Read the full article on pushsquare.com
 
-### Review: Metal Gear Solid: Master Collection Vol. 2 (PS5) - MGS 4 Is Finally Free from PS3, and It s the Best It s Ever Been
-Fri, 21 Aug 2026 07:00:00 GMT — https://www.pushsquare.com/reviews/ps5/metal-gear-solid-master-collection-vol-2
-
-La-Li-Lu-Le-Love it. When compared to the first Master Collection , it's easy to see why you might draw the conclusion that Metal Gear Solid: Master Collection Vol. 2 feels a little undercooked. The first volume consists of the first three MGS games — all games you would reasonably expect to see on any list of the greatest ever PlayStation games — as well as the original Metal Gear and Metal Gear 2 . Vol. 2 has got the one with the really long cut-scenes, a portable non-numbered title, and a non-canon spin-off a lot of people probably haven't even heard of. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak
@@ -211,9 +211,4 @@ Plus: The Duskbloods sounds like a design shakeup for FromSoftware.
 Thu, 20 Aug 2026 15:39:24 GMT — https://www.gamedeveloper.com/business/makers-fund-expands-game-industry-footprint-after-closing-250-million-investment-round
 
 Makers general partner Jay Chi said the VC firm was 'founded on the belief that creators are the constant.'
-
-### Hundreds of union workers rally across North America to protest Xbox layoffs
-Thu, 20 Aug 2026 08:57:26 GMT — https://www.gamedeveloper.com/business/hundreds-of-union-workers-rally-across-north-america-to-protest-xbox-layoffs
-
-CWA members and supporters are keeping pressure on Microsoft after the company announced plans to eliminate 3,200 roles across Xbox during the current fiscal year.
 
