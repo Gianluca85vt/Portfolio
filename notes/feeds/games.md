@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-22T13:57:35.081Z
+# Games — harvested 2026-08-22T16:58:56.245Z
 
 ## Eurogamer
+
+### Modern Warfare 4 beta's first update is live, adding a new map, mode, and toned-down footsteps
+Sat, 22 Aug 2026 16:11:35 +0000 — https://www.eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance
+
+Infinity Ward has deployed the first proper update to the Modern Warfare 4 beta , addressing a chunk of the feedback from the beta's opening day, including footstep audio, weapon lethality, and map voting. Read more
+
+### The Blood of Dawnwalker's console modes top out at 40fps, with no 60fps option at launch
+Sat, 22 Aug 2026 15:06:33 +0000 — https://www.eurogamer.net/blood-of-dawnwalker-no-60fps-console-launch
+
+New console gameplay from developer Rebel Wolves and publisher Bandai Namco has confirmed The Blood of Dawnwalker won't offer a 60fps mode on PS5 or Xbox Series X/S when it launches next month Read more
 
 ### Silent Hill: Townfall's new gameplay trailer quietly confirms how long its PS5 exclusivity will last
 Sat, 22 Aug 2026 11:52:17 +0000 — https://www.eurogamer.net/silent-hill-townfall-gameplay-trailer-ps5-exclusivity-window
@@ -10,7 +20,7 @@ A new Silent Hill: Townfall gameplay trailer has offered up over 18 minutes of f
 ### Is this the end of the GTA 6 leaks? Take-Two's legal crusade appears to shut down the hubs behind them
 Sat, 22 Aug 2026 11:16:33 +0000 — https://www.eurogamer.net/gta-6-cyberleek-website-down
 
-Take-Two's legal offensive against the source of the ongoing GTA 6 leaks appears to have claimed its first scalp: the CyberLeek website, one of the group's main hubs, has gone offline. Read more
+UPDATE 3.30pm: Despite the CyberLeek website going dark, nope, the GTA 6 leaks haven't stopped. Read more
 
 ### Double Fine confirms it owns all its games' IP and publishing rights after Xbox split
 Sat, 22 Aug 2026 10:33:31 +0000 — https://www.eurogamer.net/double-fine-ip-publishing-rights-xbox-split
@@ -51,16 +61,6 @@ Plague Tale fans beware: the new game, Resonance: A Plague Tale Legacy, appears 
 Fri, 21 Aug 2026 12:15:54 +0000 — https://www.eurogamer.net/no-mans-sky-players-building-utopia-optimism-week
 
 In the distant reaches of a doomed universe, perpetually 16 minutes from total destruction, something wonderful is happening. Across three galaxies and thousands star systems, a thriving community has formed. This is No Man's Sky 's Galactic Hub Project - part scientific endeavour, part social gathering - and in the 10 years since its foundation, it's continued to grow. It's a story of collaboration and kindness, beginning at a time when positivity was low. Read more
-
-### Connectivity issues force FromSoftware to close The Duskbloods network test early
-Fri, 21 Aug 2026 11:03:41 +0000 — https://www.eurogamer.net/the-duskbloods-network-test-connection-problems-fromsoftware
-
-UPDATE 2PM BST: FormSoftware has closed today's The Duskbloods network test early due to connectivity issues. Read more
-
-### Following rumoured talks, Guardians of the Galaxy's Dave Bautista has reportedly now signed as Kratos in Amazon's God of War
-Fri, 21 Aug 2026 10:33:02 +0000 — https://www.eurogamer.net/dave-bautista-kratos-god-of-war-amazon-live-action-series
-
-The rumours appear to be true. Actor Dave Bautista - best known for his role as Drax the Destroyer in Marvel's Guardians of the Galaxy series, and the Avengers films - has reportedly taken over as Kratos in Amazon's live-action God of War series. Read more
 
 ## GamesIndustry.biz
 
@@ -104,21 +104,16 @@ Thu, 20 Aug 2026 19:19:08 +0000 — https://www.gamesindustry.biz/geoff-keighley
 
 In a press pre-briefing ahead of next week's Gamescom conference, Geoff Keighley has shed some light on the process of how trailers are selected for the Opening Night Live digital showcase, which will take place on Tuesday. Read more
 
-### US physical game sales drop to lowest monthly total since 1995 | US Monthly Charts
-Thu, 20 Aug 2026 15:20:49 +0000 — https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts
-
-US physical software sales fell to $85 million in July, the lowest monthly total since Circana began tracking in 1995. Read more
-
-### GamesIndustry.biz HR Summit reveals new People and Workplace focus, dedicated to shaping the future of games workplaces
-Thu, 20 Aug 2026 14:33:37 +0000 — https://www.gamesindustry.biz/gamesindustrybiz-hr-summit-reveals-new-people-and-workplace-focus-dedicated-to-shaping-the-future-of-games-workplaces
-
-This year's GamesIndustry.biz HR Summit, returning to the Royal Institution on October 1 , will have a new focus on People and Workplaces, with a series of sessions featuring, and speaking to, both HR professionals and business leaders on what the modern games workplace needs to be in a time of ongoing turmoil in the industry. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Feature: I Travelled 8,000km, from the UK to China, to Play a PS5 Game Set in London
+Sat, 22 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/features/i-travelled-8000km-from-the-uk-to-china-to-play-a-ps5-game-set-in-london
+
+Featuring pandas, hot pot, and Sichuan opera. When I first heard word that Chinese studio Eclipse Glow Games was preparing to show the world its highly anticipated PS5 action game Tides of Annihilation in China, I couldn’t help but laugh at the irony considering the game is based on my home in the UK. Plans were promptly made to ship me over 8,000km to the studio’s office in Chengdu to get two hours of hands-on time with the title. Read the full article on pushsquare.com
 
 ### Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (24th-30th August)
 Sat, 22 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-24th-30th-august
@@ -175,11 +170,6 @@ Fri, 21 Aug 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/08/onimus
 
 Samurai games fest. Between Resident Evil Requiem , Pragmata , and Monster Hunter Stories 3 , Japanese publisher Capcom has had a super strong 2026, and it looks like its final big game launch of the year could round things out very nicely indeed. Onimusha: Way of the Sword is set to arrive on 4th September, 2026, and while there have been remasters and other offshoots over the years, it will be the first major game in the series since 2006's Onimusha: Dawn of Dreams . Read the full article on pushsquare.com
 
-### Sony Admits Mistake After Erroneously Purging Legit Indie Dev without Explanation
-Fri, 21 Aug 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/08/sony-admits-mistake-after-erroneously-purging-legit-indie-dev-without-explanation
-
-Highly rated Stonks-9800 coming to PS5 again. Sony has been ridding the PS Store of shovelware, erasing entire publisher catalogues from its virtual plaza. While I think this news has been broadly well received , I’ve always cautioned that legit devs may one day get caught up in the crossfire. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak
@@ -196,9 +186,4 @@ We're chatting about AI and AI techniques, but it's also a conversation about th
 Fri, 21 Aug 2026 12:32:53 GMT — https://www.gamedeveloper.com/business/ea-staff-worries-over-saudi-buyout-grand-theft-auto-6-leaks-and-peak-s-last-major-update-patch-notes-66
 
 Plus: The Duskbloods sounds like a design shakeup for FromSoftware.
-
-### Makers Fund expands game industry footprint through $250 million investment round
-Thu, 20 Aug 2026 15:39:24 GMT — https://www.gamedeveloper.com/business/makers-fund-expands-game-industry-footprint-after-closing-250-million-investment-round
-
-Makers general partner Jay Chi said the VC firm was 'founded on the belief that creators are the constant.'
 

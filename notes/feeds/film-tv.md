@@ -1,11 +1,26 @@
-# Film & TV — harvested 2026-08-22T13:57:35.081Z
+# Film & TV — harvested 2026-08-22T16:58:56.245Z
 
 ## Variety
+
+### The Magic Faraway Tree Review: Wholesome, Harmless Family Movie Aims to Give Enid Blyton the Paddington Treatment
+Sat, 22 Aug 2026 16:19:38 +0000 — https://variety.com/2026/film/news/the-magic-faraway-tree-review-1236840728/
+
+If the children s books of Enid Blyton have fallen out of fashion in classrooms and libraries — largely due to the racism and regressive gender politics throughout the British author s oeuvre — they remain ripe for rehabilitation through adaptation. The BBC has churned out seven series of Malory Towers since 2020; in 2023, The Famous [ ]
+
+### Box Office: Insidious: Out of the Further Takes First Place on Friday With $10.6 Million, But Spider-Man: Brand New Day Will Win the Weekend
+Sat, 22 Aug 2026 16:06:44 +0000 — https://variety.com/2026/film/box-office/box-office-insidious-out-of-the-further-spider-man-1236840803/
+
+“Insidious: Out of the Further” leapfrogged “Spider-Man: Brand New Day” and took the No. 1 spot at the domestic box office on Friday, but Marvel’s webslinger is still poised to win the weekend. “Out of the Further,” the sixth installment in the “Insidious” franchise, grossed $10.6 million on Friday from 3,303 North American theaters. By [ ]
+
+### Andrew Garfield on His Secret Instagram, Thoughts of Leaving Hollywood and Playing Roy in the ‘Stranger Than Fiction’ Siegfried Roy Television Series
+Sat, 22 Aug 2026 15:00:00 +0000 — https://variety.com/2026/film/columns/andrew-garfield-secret-instagram-siegfried-roy-television-series-1236840510/
+
+Andrew Garfield admits he has a secret Instagram account. “I’m as addicted as anybody. My screen time notifications are horrific to me. It’s like, I’ve given all of those hours to nothing,” he says. “It’s genuinely enraging because we don’t have as much control over these impulses as we should, and it’s been by design. [ ]
 
 ### Actor Michael Wright, Star of The Five Heartbeats and V, Dies at 70
 Sat, 22 Aug 2026 12:38:46 +0000 — https://variety.com/2026/film/news/michael-wright-dead-five-heartbeats-the-principal-1236840765/
 
-Michael Wright, an actor known for his roles in The Five Heartbeats, The Principal and V, has died, according to a statement from his family. He was 70. His wife, Susan Wright, announced his death in a post shared Friday evening on Instagram. It is with profound sadness and an unimaginable heaviness in my heart [ ]
+Michael Wright, an actor known for his roles in The Five Heartbeats, “Streamers,” The Principal and V, has died, according to a statement from his family. He was 70. His wife, Susan Wright, announced his death in a post shared Friday evening on Instagram. It is with profound sadness and an unimaginable heaviness in my [ ]
 
 ### Emily Watson Says ‘Dune: Prophecy’ Season 2 Will Have ‘Lots of New Elements,’ Led Her on ‘A Quest in a Way Actors Always Get to Do and Actresses Don’t’
 Sat, 22 Aug 2026 11:11:58 +0000 — https://variety.com/2026/film/global/emily-watson-dune-prophecy-season-2-1236840725/
@@ -37,22 +52,17 @@ Sat, 22 Aug 2026 02:54:16 +0000 — https://variety.com/2026/tv/news/bill-maher-
 
 After enduring years of character assassinations by the right, Hunter Biden is in the throes of a chaotic media blitz that’s included Twitter-trolling, posting on Substack and appearances on a number of far-right podcasts, from Hitler worshipper Nick Fuentes and Russia stooge Tucker Carlson to conspiracy theorist Candace Owens. Is Joe Biden’s wayward son trying [ ]
 
-### Spa Weekend Review: Leslie Mann and Isla Fisher in a High-Concept Comedy Without the Comic Highs
-Sat, 22 Aug 2026 01:54:10 +0000 — https://variety.com/2026/film/reviews/spa-weekend-review-leslie-mann-anna-faris-1236840170/
-
-I watched "Spa Weekend" and realized that the genre it’s in — the high-concept movie with the concept in the title, the comedy that puts out a vibe of "Look, I’m crass and dumb and obvious! And that’s why you like me!" — may be entering its twilight zone.
-
-### Paramount and State A.G. to Meet Monday to Discuss Settlement of Antitrust Case
-Sat, 22 Aug 2026 00:19:11 +0000 — https://variety.com/2026/film/news/paramount-merger-warner-settlement-talks-bonta-california-1236840532/
-
-Paramount Skydance representatives are expected to meet on Monday with the California Attorney General s office to discuss a potential settlement of the states antitrust case, according to two sources familiar with the situation. Paramount has been pushing hard for a deal to allow its $111 billion merger with Warner Bros. Discovery to close. The deal [ ]
-
-### Paramount Slams Mark Ruffalo Merger Attack as Antisemitic, Says Company Does Not Tolerate Prejudice of Any Kind
-Sat, 22 Aug 2026 00:01:32 +0000 — https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/
-
-Paramount has come out swinging against a Friday screed from Mark Ruffalo, in which the award-winning actor accused moguls David and Larry Ellison of “powering some of the most destructive and inhuman forces in the world.” A spokesperson for the David Ellison-run enterprise said the company is “troubled when antisemitic tropes are invoked in purported [ ]
-
 ## The Hollywood Reporter
+
+### Spider-Man: Brand New Day Swinging to Fourth Box Office Victory as It Tops Insidious Sequel
+Sat, 22 Aug 2026 15:55:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-2-1236678980/
+
+Tom Holland's superhero blockbuster continues its dominance against the launches of 'Insidious: Out of the Further' and Jason Statham's 'Mutiny.'
+
+### Michael Wright, Star of ‘The Five Heartbeats’ and ‘Sugar Hill,’ Dies at 70
+Sat, 22 Aug 2026 15:18:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/michael-wright-dead-five-heartbeats-sugar-hill-1236678985/
+
+The New York native also was memorable as a Resistance fighter on ‘V’ and as the doomed inmate Omar White on ‘Oz.’
 
 ### Sandra Wollner s Everytime Wins Best Film in Sarajevo, Ana Urushadze Crowned Best Director
 Sat, 22 Aug 2026 09:07:26 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sandra-wollner-everytime-honorary-heart-sarajevo-urushadze-1236678968/
@@ -94,17 +104,27 @@ Fri, 21 Aug 2026 23:13:18 +0000 — https://www.hollywoodreporter.com/news/gener
 
 Zach Hickerson tells TMZ he and Brian Hickerson performed CPR on the actor after finding her unconscious in a Greenville, South Carolina, Airbnb.
 
-### The Girls : Khloé Kardashian Wanted Her Friends to Have Their Own Show. Then Things Got Complicated
-Fri, 21 Aug 2026 22:59:33 +0000 — https://www.hollywoodreporter.com/tv/tv-features/khloe-kardashian-the-girls-hulu-reality-show-1236677849/
-
-The reality TV veteran and businesswoman speaks about executive producing her inner circle, the moments when she "regretted doing any of this," what's next for 'Khloé in Wonder Land' and the October premiere of 'The Kardashians' season eight, exclusively confirmed to The Hollywood Reporter.
-
-### Paramount Sued by Ex-Distribution Chief Chris Aronson Over Millions of Dollars in Pay
-Fri, 21 Aug 2026 22:22:25 +0000 — https://www.hollywoodreporter.com/business/business-news/paramount-sued-by-ex-distribution-chief-chris-aronson-1236678740/
-
-The theatrical executive had inked a new deal with the studio last year only to be terminated and replaced months later.
-
 ## Deadline
+
+### Rosie O Donnell Ends Jimmy Kimmel Live Guest Run With Trump-Roasting Song: Use That Stable Genius Brain
+Sat, 22 Aug 2026 16:44:29 +0000 — https://deadline.com/2026/08/rosie-odonnell-ends-jimmy-kimmel-live-trump-roasting-song-1237048098/
+
+Although Rosie O Donnell s late-night hosting run has come to an end, she graced her biggest fan with a song in his honor. On Friday s Jimmy Kimmel Live, the 12x Emmy-winning guest host let longtime foe Donald Trump have it in the opening monologue, which she ended with a song roasting the twice-impeached POTUS, who previously [ ]
+
+### Sarajevo Film Festival 2026 Awards Austria s Everytime Best Film — See All Winners
+Sat, 22 Aug 2026 16:03:52 +0000 — https://deadline.com/2026/08/sarajevo-film-festival-2026-awards-winners-1237048083/
+
+The 32nd Sarajevo Film Festival wrapped up on Friday, with Austria taking home the top prize. During the awards ceremony at National Theatre Sarajevo, the jury awarded Austrian director Sandra Wollner s Everytime with the Heart of Sarajevo for Best Narrative Feature Film, which comes with a prize of 16,000 euros. Moments of cinematic grace float [ ]
+
+### Sony Double Feature At The B.O.: Spider-Man: Brand New Day $36M+, Insidious 6 $23M+ Opening Saturday AM Update
+Sat, 22 Aug 2026 15:14:00 +0000 — https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/
+
+SATURDAY AM WRITETHRU after Friday afternoon update: Refresh for more and chart This weekend belongs to Sony, or at least the top two spots at the box office do, with Marvel Studios Spider-Man: Brand New Day s fourth frame of $36.5 million at 4,006 sites and Blumhouse/Atomic Monster/Stage 6 s Insidious: Out of the Further opening to $23.7M [ ]
+
+### Michael Wright Dies: The Five Heartbeats Star Was 70
+Sat, 22 Aug 2026 14:02:34 +0000 — https://deadline.com/2026/08/michael-wright-dead-the-five-heartbeats-1237048072/
+
+Actor Michael Wright, known for his roles in The Five Heartbeats, Sugar Hill, V and Oz, died Aug. 19 in Los Angeles. He was 70. It is with profound sadness and an unimaginable heaviness in my heart that I share the passing of my beloved husband, Michael Wright, his wife Susan Wright wrote on Instagram. [ ]
 
 ### Imagen Awards: Acapulco Leads As Brownsville Bred, Will Trent Scrubs Take Top Prizes Full List
 Sat, 22 Aug 2026 06:00:00 +0000 — https://deadline.com/2026/08/2026-imagen-awards-winners-acapulco-will-trent-scrubs-1237047159/
@@ -136,11 +156,6 @@ Fri, 21 Aug 2026 23:33:14 +0000 — https://deadline.com/2026/08/chicago-fire-ma
 
 A new face is coming to Chicago Fire for Season 15. Matthew Daddario is set to join the upcoming season as a firefighter candidate, Deadline has confirmed. New series regular Da’Vinchi, whose character is the same rank, shared a photo from set on Thursday, August 20, teasing the casting. Alongside three fire emojis, he shared a [ ]
 
-### Sony Double Feature At The B.O.: Spider-Man: Brand New Day $35M, Insidious 6 $23M Opening Box Office Update
-Fri, 21 Aug 2026 23:30:00 +0000 — https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/
-
-FRIDAY AFTERNOON UPDATE: This weekend belongs to Sony, or at least the top two spots at the box office do, with Marvel Studios Spider-Man: Brand New Day s fourth frame of $35 million at 4,006 sites and Blumhouse/Atomic Monster/Stage 6 s Insidious: Out of the Further opening to $23M at 3,303 theaters. Both are coming in at [ ]
-
 ### TikTok To Pay $400M In Justice Department Settlement Over Children s Privacy
 Fri, 21 Aug 2026 23:28:37 +0000 — https://deadline.com/2026/08/tiktok-400m-justice-department-settlement-childrens-privacy-1237047976/
 
@@ -150,19 +165,4 @@ The Department of Justice said Friday it has secured a $400 million settlement i
 Fri, 21 Aug 2026 22:41:41 +0000 — https://deadline.com/2026/08/miss-usa-miss-teen-usa-pageants-dropped-by-the-cw-1237047893/
 
 No stranger to controversy over the past several years, the Miss USA and Miss Teen USA pageants have just landed in another. Less than a week before the competitions were set to air on The CW, the network has pulled both from the schedule. It s not clear why, but in a brief statement to Deadline, [ ]
-
-### Paramount Accuses Mark Ruffalo Of Being Antisemitic After He Slams Ellisons Ties To Oracle, Calling Them Really Profoundly Scary People
-Fri, 21 Aug 2026 22:41:13 +0000 — https://deadline.com/2026/08/mark-ruffalo-slams-ellisons-ties-oracle-paramount-wbd-1237047889/
-
-UPDATED with Paramount s response: As Mayor Karen Bass shows her support for the Paramount-Warner Bros merger, Mark Ruffalo is continuing to fight the acquisition. On Friday, the 4x Oscar nominee called out the Ellisons ties to Oracle, sharing a video of the tech company s executive vice chair Safra Catz discussing how they made some really [ ]
-
-### Taylor Swift Goes Inside Capturing The Eras Tour: The Final Show With Director Glenn Weiss On Emmy Campaign Trail
-Fri, 21 Aug 2026 21:58:01 +0000 — https://deadline.com/2026/08/taylor-swift-eras-tour-final-show-emmy-nominations-1237047840/
-
-EXCLUSIVE: Taylor Swift went behind the scenes on working with The Eras Tour: The Final Show director Glenn Weiss to preserve the essence of the last stop on her recent historic, career-defining tour during an intimate event with Emmy voters recently. The music mogul made an appearance at the Ross House in Los Angeles on Wednesday, [ ]
-
-### Michelle Pfeiffer Clarifies She Never Said She s Retiring: The Most Ridiculous Thing
-Fri, 21 Aug 2026 21:48:50 +0000 — https://deadline.com/2026/08/michelle-pfeiffer-clarifies-never-said-retiring-1237047868/
-
-With new seasons of The Madison and Margo s Got Money Troubles just around the corner, Michelle Pfeiffer isn t slowing down anytime soon. After a passing comment that she never wants to star in another movie, the 3x Oscar nominee clarified that she s not retiring, but was talking about her preference for being part of an [ ]
 

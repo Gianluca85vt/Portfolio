@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-22T13:57:35.081Z
+# AI — harvested 2026-08-22T16:58:56.245Z
 
 ## OpenAI
 
@@ -8,9 +8,6 @@ _Nothing in the last 48 hours._
 
 ### Measuring benchmark optimization in speech recognition
 Fri, 21 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/asr-benchmark-optimization
-
-### Up to 3.2x Faster Inference with LFM2.5-DSpark
-Thu, 20 Aug 2026 16:52:57 GMT — https://huggingface.co/blog/LiquidAI/lfm25-dspark
 
 ## Google DeepMind
 
