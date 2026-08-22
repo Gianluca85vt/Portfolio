@@ -1,6 +1,16 @@
-# Film & TV — harvested 2026-08-22T10:58:12.161Z
+# Film & TV — harvested 2026-08-22T13:57:35.081Z
 
 ## Variety
+
+### Actor Michael Wright, Star of The Five Heartbeats and V, Dies at 70
+Sat, 22 Aug 2026 12:38:46 +0000 — https://variety.com/2026/film/news/michael-wright-dead-five-heartbeats-the-principal-1236840765/
+
+Michael Wright, an actor known for his roles in The Five Heartbeats, The Principal and V, has died, according to a statement from his family. He was 70. His wife, Susan Wright, announced his death in a post shared Friday evening on Instagram. It is with profound sadness and an unimaginable heaviness in my heart [ ]
+
+### Emily Watson Says ‘Dune: Prophecy’ Season 2 Will Have ‘Lots of New Elements,’ Led Her on ‘A Quest in a Way Actors Always Get to Do and Actresses Don’t’
+Sat, 22 Aug 2026 11:11:58 +0000 — https://variety.com/2026/film/global/emily-watson-dune-prophecy-season-2-1236840725/
+
+Starring in HBO Max’s “Dune: Prophecy” has been a major “departure” for Emily Watson, whose lauded career was built upon major independent and arthouse successes such as Lars von Trier’s “Breaking the Waves” and Robert Altman’s “Gosford Park.” As she embarks on a second season of the hit show, the actress feels more settled in [ ]
 
 ### Here s How to Watch 2026 Indycar Series Freedom 250 Grand Prix of Washington, D.C. Live Online
 Sat, 22 Aug 2026 10:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-indycar-freedom-250-grand-prix-live-online-free-1236838320/
@@ -41,16 +51,6 @@ Paramount Skydance representatives are expected to meet on Monday with the Calif
 Sat, 22 Aug 2026 00:01:32 +0000 — https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/
 
 Paramount has come out swinging against a Friday screed from Mark Ruffalo, in which the award-winning actor accused moguls David and Larry Ellison of “powering some of the most destructive and inhuman forces in the world.” A spokesperson for the David Ellison-run enterprise said the company is “troubled when antisemitic tropes are invoked in purported [ ]
-
-### Emmy Overachiever Jason Bateman on Whether He Considers Himself an Actor or Director First
-Fri, 21 Aug 2026 23:45:10 +0000 — https://variety.com/2026/tv/awards/jason-bateman-emmys-black-rabbit-dtf-st-louis-podcast-1236840514/
-
-Jason Bateman is this year’s Emmy overachiever, nominated for lead limited series actor and limited series directing on Netflix’s “Black Rabbit,” and as both supporting actor and executive producer on another limited series, HBO Max’s “DTF St. Louis.” So where does the multi-hyphenate’s brain reside more in these days, as an actor or director? “They [ ]
-
-### Secret Hollywood Group’s AI Plan Focuses on Defining How AI Is Used — While Keeping Humans in Control
-Fri, 21 Aug 2026 23:12:39 +0000 — https://variety.com/2026/biz/news/secret-hollywood-groups-ai-plan-protecting-copyrighted-work-1236840245/
-
-A group of Hollywood filmmakers, executives and actors has spent the last three years secretly meeting with Silicon Valley executives to try to address a simmering issue in the industry: how to define where AI is useful in the context of a human-controlled creative process. The meetings were first convened in November 2023 by LucasFilm [ ]
 
 ## The Hollywood Reporter
 

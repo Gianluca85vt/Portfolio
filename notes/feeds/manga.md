@@ -1,6 +1,21 @@
-# Manga — harvested 2026-08-22T10:58:12.161Z
+# Manga — harvested 2026-08-22T13:57:35.081Z
 
 ## Anime News Network
+
+### I Want to Love You Till Your Dying Day ‒ Episode 7
+Sat, 22 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-7/.240765
+
+This episode really went out of its way to make me feel emotional about its climax and dammit…it worked.
+
+### Clevatess Season 2 ‒ Episode 7
+Sat, 22 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/clevatess-season-2/episode-7/.240563
+
+More anime should have the guts to say, “We're sorry, but the princess is in another castle…because she is reigning over the most wicked fiends of Hell with a ruthless iron fist.”
+
+### Duel Masters Lost: Danzai no Shōnen Anime Reveals October 9 Debut
+Sat, 22 Aug 2026 06:25:37 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/duel-masters-lost-danzai-no-shonen-anime-reveals-october-9-debut/.240836
+
+Visual, returning staff revealed
 
 ### Even the Student Council Has its Holes! TV Anime Reveals October 3 Debut in Main Promo Video
 Sat, 22 Aug 2026 05:57:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/even-the-student-council-has-its-holes-tv-anime-reveals-october-3-debut-in-main-promo-video/.240834
@@ -46,21 +61,6 @@ Fri, 21 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 Fri, 21 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/mahjong-pros-licenses-snap-call-kirinji-riichi-mahjong-101-manga/.240814
 
 Both launch digitally/physically in January 2027
-
-### Seven Seas Licenses My Lips are Being Targeted, Scarlet Thirst, Synchronicity Obsession, More Manga/Novels
-Fri, 21 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/seven-seas-licenses-my-lips-are-being-targeted-scarlet-thirst-synchronicity-obsession-more-manga-/.240813
-
-Also: <cite>I Wish it Had Just Been Love</cite>, <cite>The Duke's Daughter Must Seduce the Demon King... But the Demon King's a Girl?!</cite>, more
-
-### Expelled from Paradise Visual Novel's Teaser Trailer Reveals November 26 Release
-Fri, 21 Aug 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/expelled-from-paradise-visual-novel-teaser-trailer-reveals-november-26-release/.240811
-
-<cite>Expelled from Paradise -The Stellar Angel-</cite> launches for Switch, Steam
-
-### Dark Horse to Release Vampire Hunter D: Rose Princess Manga, Vampire Hunter D: Fortress of Blood Comic, The Case of Charles Dexter Ward Manga (Updated)
-Fri, 21 Aug 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/dark-horse-to-release-vampire-hunter-d-rose-princess-manga-vampire-hunter-d-fortress-of-blood-comic-/.240794
-
-<cite>Vampire Hunter D: Fortress of Blood</cite> comic debuts on December 16; Saiko Takaki's <cite>Vampire Hunter D: Rose Princess</cite> manga's English translation launches in March 2027
 
 ## Crunchyroll News
 

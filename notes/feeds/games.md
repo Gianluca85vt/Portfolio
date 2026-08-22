@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-22T10:58:12.161Z
+# Games — harvested 2026-08-22T13:57:35.081Z
 
 ## Eurogamer
+
+### Silent Hill: Townfall's new gameplay trailer quietly confirms how long its PS5 exclusivity will last
+Sat, 22 Aug 2026 11:52:17 +0000 — https://www.eurogamer.net/silent-hill-townfall-gameplay-trailer-ps5-exclusivity-window
+
+A new Silent Hill: Townfall gameplay trailer has offered up over 18 minutes of first-look footage while also quietly confirming exactly how long the game's PlayStation 5 exclusivity will last. Read more
+
+### Is this the end of the GTA 6 leaks? Take-Two's legal crusade appears to shut down the hubs behind them
+Sat, 22 Aug 2026 11:16:33 +0000 — https://www.eurogamer.net/gta-6-cyberleek-website-down
+
+Take-Two's legal offensive against the source of the ongoing GTA 6 leaks appears to have claimed its first scalp: the CyberLeek website, one of the group's main hubs, has gone offline. Read more
 
 ### Double Fine confirms it owns all its games' IP and publishing rights after Xbox split
 Sat, 22 Aug 2026 10:33:31 +0000 — https://www.eurogamer.net/double-fine-ip-publishing-rights-xbox-split
@@ -51,16 +61,6 @@ UPDATE 2PM BST: FormSoftware has closed today's The Duskbloods network test earl
 Fri, 21 Aug 2026 10:33:02 +0000 — https://www.eurogamer.net/dave-bautista-kratos-god-of-war-amazon-live-action-series
 
 The rumours appear to be true. Actor Dave Bautista - best known for his role as Drax the Destroyer in Marvel's Guardians of the Galaxy series, and the Avengers films - has reportedly taken over as Kratos in Amazon's live-action God of War series. Read more
-
-### Mortal Shell 2 review
-Fri, 21 Aug 2026 09:23:13 +0000 — https://www.eurogamer.net/mortal-shell-2-review
-
-In the increasingly crowded Soulslike genre, a game's opening minutes need to do a lot of work. The good news for Mortal Shell 2 is its opening is superb, starting as well as it continues, and condensing the magic of its next 30-odd hours into a few minutes with aplomb. Read more
-
-### Riot Games to end LoL fighting game 2XK0's development and issue refunds, less than a year since launch
-Fri, 21 Aug 2026 09:01:37 +0000 — https://www.eurogamer.net/2xko-development-ending-december-riot-games-issuing-refunds
-
-Active development on 2XKO - the free-to-play fighting game from Riot Games - will end in December. This comes not even a year after the game's full release in January, as the company doesn't see "a path toward sustainability". Read more
 
 ## GamesIndustry.biz
 
@@ -114,21 +114,16 @@ Thu, 20 Aug 2026 14:33:37 +0000 — https://www.gamesindustry.biz/gamesindustryb
 
 This year's GamesIndustry.biz HR Summit, returning to the Royal Institution on October 1 , will have a new focus on People and Workplaces, with a series of sessions featuring, and speaking to, both HR professionals and business leaders on what the modern games workplace needs to be in a time of ongoing turmoil in the industry. Read more
 
-### Makers Fund raises $250m in fourth round to support interactive entertainment startups
-Thu, 20 Aug 2026 13:00:00 +0000 — https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-support-interactive-entertainment-startups
-
-Venture capital firm Makers Fund has secured $250 million to invest in startups advancing games and interactive entertainment. This brings its total assets under management to $1.5 billion. Read more
-
-### Rockstar hit with more leaks as GTA 6 gameplay and assets appear to circulate on social media
-Thu, 20 Aug 2026 11:09:56 +0000 — https://www.gamesindustry.biz/rockstar-hit-with-more-leaks-as-gta-6-gameplay-and-assets-appear-to-circulate-on-social-media
-
-A hacker group is is posting daily leaks of what appears to be details and footage from a build of GTA 6. Material posted so far includes various gameplay mechanics and assets, as well as a full game map. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (24th-30th August)
+Sat, 22 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-24th-30th-august
+
+Metal Gear Solid! Aliens! Star Wars! A Plague Tale! An absolutely gigantic week awaits on the PS5 this time, with major titles like Resonance: A Plague Tale Legacy and Star Wars Zero Company vying for your attention. Other noteworthy games next week include Aliens: Fireteam Elite 2 and Metal Gear Solid Master Collection Vol 2 . Read the full article on pushsquare.com
 
 ### Talking Point: What Are You Playing This Weekend? - Issue 647
 Sat, 22 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-647
@@ -184,11 +179,6 @@ Samurai games fest. Between Resident Evil Requiem , Pragmata , and Monster Hunte
 Fri, 21 Aug 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/08/sony-admits-mistake-after-erroneously-purging-legit-indie-dev-without-explanation
 
 Highly rated Stonks-9800 coming to PS5 again. Sony has been ridding the PS Store of shovelware, erasing entire publisher catalogues from its virtual plaza. While I think this news has been broadly well received , I’ve always cautioned that legit devs may one day get caught up in the crossfire. Read the full article on pushsquare.com
-
-### Marvel Tokon s Latest PS5, PC Update Is Available Now, Here Are the Patch Notes
-Fri, 21 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/marvel-tokons-latest-ps5-pc-update-is-available-now-here-are-the-patch-notes
-
-Fighting fit. Developer Arc System Works has pushed a big new patch for Marvel Tokon: Fighting Souls , making a whole load of fixes and improvements across both PS5 and PC. Perhaps most notable for those playing on computers is that this version of the game sees further improvements to performance with this update. Read the full article on pushsquare.com
 
 ## Game Developer
 
