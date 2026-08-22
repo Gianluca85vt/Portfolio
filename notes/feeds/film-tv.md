@@ -1,6 +1,16 @@
-# Film & TV — harvested 2026-08-22T05:04:10.406Z
+# Film & TV — harvested 2026-08-22T07:59:39.260Z
 
 ## Variety
+
+### Olivia Rodrigo Releases Handmaid s Tale -Inspired Song, Serena Joy, in a Tiny Run of CDs, With Digital Drop to Follow
+Sat, 22 Aug 2026 06:18:34 +0000 — https://variety.com/2026/music/news/olivia-rodrigo-serena-joy-cd-single-handmaids-tale-1236840709/
+
+It was already clear Olivia Rodrigo is in full feminist mode these days, with her all-female music festival, Daisy Chain Fields, set to take place in California s Orange County next Saturday. But it s perhaps even clearer now that Rodrigo is releasing a non-album track, Serena Joy, named after a prominent character in The Handmaid s Tale [ ]
+
+### Austrian Director Sandra Wollner’s ‘Everytime’ Wins Best Film at Sarajevo Film Festival
+Sat, 22 Aug 2026 05:06:17 +0000 — https://variety.com/2026/film/global/sandra-wollner-everytime-wins-sarajevo-film-festival-1236840695/
+
+Sandra Wollner’s “Everytime” continued its winning streak at the Sarajevo Film Festival, where the Cannes Un Certain Regard winner took home the Heart of Sarajevo for best narrative feature film. The Austrian director’s third feature was the unanimous choice of a jury headed by two-time Academy Award nominee Emily Watson, which said in its citation: [ ]
 
 ### Bill Maher Puts Hunter Biden in the Hot Seat: ‘I’ve Seen You With Your Dick Out’
 Sat, 22 Aug 2026 02:54:16 +0000 — https://variety.com/2026/tv/news/bill-maher-hunter-biden-dick-real-time-hbo-joe-biden-trump-sons-1236840676/
@@ -41,16 +51,6 @@ There’s no doubt that 2026 will go down as a milestone year for the growth in 
 Fri, 21 Aug 2026 21:38:20 +0000 — https://variety.com/2026/film/news/harry-potter-jessie-cave-onlyfans-embarrassing-saved-me-1236840193/
 
 Jessie Cave, the actor who portrayed Lavender Brown in three “Harry Potter” movies, appeared in a recent interview on the U.K. talk show This Morning and spoke openly about her decision to launch an OnlyFans last year to help get her out of debt. Her decision resulted in a Potter fan convention barring her from [ ]
-
-### Sonic the Hedgehog to Headline Fortnite’s ‘Override’ Season (Gaming News Roundup)
-Fri, 21 Aug 2026 21:33:00 +0000 — https://variety.com/2026/gaming/news/sonic-hedhehog-fornite-gaming-news-roundup-week-august-17-1236836647/
-
-Sonic the Hedgehog will headline Fortnite’s new “Override” season. Players will be able to play as Sonic and unlock the Tails Sidekick with the purchase of the Battle Pass for the hedgehog’s 35th anniversary. The collaboration will also feature the Tails Sprite, Rings and Sonic Power Sneakers, which allow players to Spin Dash in their [ ]
-
-### Chris Aronson Files $4 Million Age Discrimination Suit Over Ouster at Paramount
-Fri, 21 Aug 2026 21:19:47 +0000 — https://variety.com/2026/film/news/chris-aronson-paramount-lawsuit-1236840408/
-
-Chris Aronson, who was let go as Paramount s head of domestic distribution last year, has filed a lawsuit accusing the company of reneging on an agreement to pay him $1.3 million. Aronson was fired as part of the executive shakeup that followed the Skydance merger. Shortly before the deal closed, he signed an extension that [ ]
 
 ## The Hollywood Reporter
 
@@ -106,6 +106,11 @@ Hollywood makeup artists and aestheticians share their go-to face and body sunsc
 
 ## Deadline
 
+### Imagen Awards: Acapulco Leads As Brownsville Bred, Will Trent Scrubs Take Top Prizes Full List
+Sat, 22 Aug 2026 06:00:00 +0000 — https://deadline.com/2026/08/2026-imagen-awards-winners-acapulco-will-trent-scrubs-1237047159/
+
+The now-wrapped Apple TV comedy Acapulco was the big winner at the 41st annual Imagen Awards, taking home a half-dozen prizes during Friday night s ceremony at The Beverly Hilton. Elsewhere, the Viva Pictures drama Brownsville Bred was named Best Feature Film and ABC s Will Trent and Scrubs won for the respective top drama and comedy [ ]
+
 ### Rose McGowan, Anna Paquin Call Out Profoundly Sad Mistreatment Of Child Stars While Paying Tribute To Hayden Panettiere
 Sat, 22 Aug 2026 03:31:31 +0000 — https://deadline.com/2026/08/rose-mcgowan-anna-paquin-child-stars-hayden-panettiere-1237048049/
 
@@ -160,9 +165,4 @@ EXCLUSIVE: Taylor Swift went behind the scenes on working with The Eras Tour: Th
 Fri, 21 Aug 2026 21:48:50 +0000 — https://deadline.com/2026/08/michelle-pfeiffer-clarifies-never-said-retiring-1237047868/
 
 With new seasons of The Madison and Margo s Got Money Troubles just around the corner, Michelle Pfeiffer isn t slowing down anytime soon. After a passing comment that she never wants to star in another movie, the 3x Oscar nominee clarified that she s not retiring, but was talking about her preference for being part of an [ ]
-
-### For Comedy Writers, Saying Goodbye Can Be Tough
-Fri, 21 Aug 2026 21:32:25 +0000 — https://deadline.com/2026/08/hacks-the-comeback-creators-ending-1237047693/
-
-Saying goodbye is never easy, particularly if you’ve played a character for over 20 years, however intermittently. Lisa Kudrow knows this well, after her and Michael Patrick King, the co-creators of HBO’s The Comeback, said farewell to Valerie Cherish, a character that started at The Groundlings and was first turned into a comedy series in [ ]
 

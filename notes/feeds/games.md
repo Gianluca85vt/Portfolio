@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-22T05:04:10.406Z
+# Games — harvested 2026-08-22T07:59:39.260Z
 
 ## Eurogamer
+
+### What we've been playing - "We're in danger of making this a regular thing"
+Sat, 22 Aug 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-were-in-danger-of-making-this-a-regular-thing
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Mat J gets philosophical on us; Connor plays Minesweeper for some reason; and Bertie rallies the wonderful Eurogamer readers for a second week of Big Walk wholesome hilarity. Read more
 
 ### Take-Two's legal action to find GTA 6 leaker begins, as it subpoenas Microsoft and Discord for any data "sufficient to identify the users person"
 Fri, 21 Aug 2026 15:55:19 +0000 — https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek
@@ -56,11 +61,6 @@ Hidetaka Miyazaki , the president of FromSoftware and director of so many revere
 Thu, 20 Aug 2026 15:32:26 +0000 — https://www.eurogamer.net/james-bond-007-first-light-sales
 
 The acclaimed James Bond game 007 First Light continues to find success, with developer IO Interactive announcing today it's passed 4 million sales since launch, just under three months ago. Read more
-
-### No, The Duskbloods isn't releasing on 24th September, according to Nintendo
-Thu, 20 Aug 2026 15:30:08 +0000 — https://www.eurogamer.net/the-duskbloods-release-date-nintendo-denied
-
-Nintendo has denied that The Duskbloods will be releasing on the 24th September, after the date was included in an early preview of the game. Read more
 
 ## GamesIndustry.biz
 

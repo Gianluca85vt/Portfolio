@@ -1,11 +1,8 @@
-# AI — harvested 2026-08-22T05:04:10.406Z
+# AI — harvested 2026-08-22T07:59:39.260Z
 
 ## OpenAI
 
-### Introducing AI Futures
-Thu, 20 Aug 2026 07:00:00 GMT — https://openai.com/index/introducing-ai-futures
-
-Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
+_Nothing in the last 48 hours._
 
 ## Hugging Face
 

@@ -1,6 +1,26 @@
-# Manga — harvested 2026-08-22T05:04:10.406Z
+# Manga — harvested 2026-08-22T07:59:39.260Z
 
 ## Anime News Network
+
+### All the News and Reviews from Anime NYC 2026
+Sat, 22 Aug 2026 02:39:38 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/.240809
+
+Thursday, August 20 News and Interest Fool Night Anime's Teaser Reveals More Cast, November 26 Worldwide Netflix Debut Cyberpunk Edgerunners 2 Anime's...
+
+### Tokyopop Licenses 2 New Manhwa for 2027 Release
+Sat, 22 Aug 2026 02:13:07 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/tokyopop-licenses-2-new-manhwa-for-2027-release/.240831
+
+Additional details on 2 manhwa, including exact release dates, will be announced later
+
+### Tokyopop Announces 7 New Manga Licenses Including Garagarapon
+Sat, 22 Aug 2026 02:12:02 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/tokyopop-announces-7-new-manga-licenses-including-garagarapon/.240828
+
+<cite>And Then, She Became Mina; SIX: Paths of Horror</cite>; more manga also licensed
+
+### Fate/strange Fake TV Anime Confirms New Season
+Sat, 22 Aug 2026 00:45:16 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/fate-strange-fake-tv-anime-confirms-new-season/.240827
+
+Visual revealed for new season
 
 ### Kodansha USA Licenses Trapped on Tape!, Announces Print Release for Hajime no Ippo: Fighting Spirit! Manga
 Fri, 21 Aug 2026 19:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/kodansha-usa-licenses-trapped-on-tape-announces-print-release-for-hajime-no-ippo-fighting-spirit-/.240808
@@ -41,26 +61,6 @@ Fri, 21 Aug 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 Fri, 21 Aug 2026 12:24:07 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/yen-press-licenses-the-goblin-samurai-my-crush-crush-manga/.240793
 
 <cite>The Boy and the Beast</cite>, <cite>Rise of the Lowborn</cite> light novels also get audiobooks
-
-### Death Note: The Musical Stage Show Review
-Fri, 21 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/death-note/the-musical-stage-show/.240525
-
-<cite>Death Note: The Musical</cite> is very good fun, and that's both its main virtue and its biggest failing.
-
-### Kana Licenses Children of the Afterlife, Happy at Home, 4 More Manga
-Fri, 21 Aug 2026 11:28:27 -0400 — https://www.animenewsnetwork.com/news/2026-08-21/kana-licenses-children-of-the-afterlife-happy-at-home-4-more-manga/.240785
-
-Company to also release <cite>Good Morning Leon, Why We Fall in Love, Pumpkin Night, Soon the Fog Clears</cite> in English in 2027
-
-### Your Anime Rankings - Best of Summer 2026, Aug 12-18
-Fri, 21 Aug 2026 10:25:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.240807
-
-<cite>Saga of Tanya the Evil</cite> hits #1 in both the weekly and cumulative rankings, dethroning <cite>Jaadugar</cite>. But <cite>The Ghost in the Shell</cite> is right on its heels. Check out our weekly user rankings!
-
-### This Week in Games - Sony State of Play: Phantom Blade Zero, Also, The Return of Kingdom Hearts and Princess Maker
-Fri, 21 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-08-21/sony-state-of-play-phantom-blade-zero-also-the-return-of-kingdom-hearts-and-princess-maker/.240671
-
-<i>Kingdom Hearts</i> dominates the discussion this time, but don't let that distract you from the return of <i>Princess Maker</i>!
 
 ## Crunchyroll News
 
