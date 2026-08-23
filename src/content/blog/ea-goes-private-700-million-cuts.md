@@ -2,6 +2,7 @@
 title: EA went private for $55 billion. Nine days later, the $700 million bill showed up.
 date: 2026-08-13
 category: Games
+author: ruben-castellani
 excerpt: The Saudi-led buyout of Electronic Arts closed on 4 August at $210 a share. Bloomberg then reported EA telling its new creditors it plans $700 million in annual cost cuts — and BioWare, already down to a skeleton crew, is the name everyone keeps saying out loud.
 cover: /img/blog/ea-goes-private/cover.svg
 ---

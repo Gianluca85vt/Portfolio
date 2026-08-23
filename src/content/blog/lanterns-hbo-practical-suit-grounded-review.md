@@ -2,6 +2,7 @@
 title: HBO's Lanterns built a real ring costume instead of a CG one, and critics can't agree what that cost
 date: 2026-08-17
 category: Film & TV
+author: selma-aydin
 cover: /img/blog/lanterns-hbo/cover.svg
 reviewOf: 'Lanterns (HBO, Season 1)'
 score: 8

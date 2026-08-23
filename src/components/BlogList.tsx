@@ -253,6 +253,58 @@ function ShowMore({ remaining, onClick }: { remaining: number; onClick: () => vo
   );
 }
 
+/**
+ * The busiest threads.
+ *
+ * The reference site runs a "most read" rail, which needs view counts this site
+ * does not collect. Rather than rank by something invented, this ranks by the
+ * one engagement signal that is real here: approved comments. It is labelled
+ * for what it actually measures.
+ */
+function MostDiscussed({
+  posts,
+  counts,
+}: {
+  posts: PostCard[];
+  counts: Record<string, number>;
+}) {
+  const ranked = posts
+    .filter((p) => (counts[p.slug] ?? 0) > 0)
+    .sort((a, b) => (counts[b.slug] ?? 0) - (counts[a.slug] ?? 0))
+    .slice(0, 5);
+
+  if (ranked.length === 0) return null;
+
+  return (
+    <aside className="rounded-[8px] border border-[#D7E2EA]/15 overflow-hidden mt-5">
+      <h2 className="text-[#D6294E] font-medium uppercase tracking-[0.12em] text-[0.68rem] px-4 py-3.5 border-b border-[#D7E2EA]/12">
+        Most discussed
+      </h2>
+
+      <ul>
+        {ranked.map((post) => (
+          <li key={post.slug} className="border-b border-[#D7E2EA]/10 last:border-b-0">
+            <a
+              href={`/blog/${post.slug}/`}
+              className="group flex gap-3 px-4 py-3.5 transition-colors duration-200 hover:bg-[#D7E2EA]/[0.04]"
+            >
+              <div className="relative w-[58px] shrink-0 aspect-[16/11] overflow-hidden rounded-[3px] bg-black">
+                <Cover post={post} />
+              </div>
+              <span className="flex-1 min-w-0 text-[#D7E2EA]/75 font-light text-[0.78rem] leading-snug transition-colors duration-200 group-hover:text-white">
+                {post.title}
+              </span>
+              <span className="shrink-0 self-start text-[#D6294E] font-medium text-[0.72rem] tabular-nums">
+                {counts[post.slug]}
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </aside>
+  );
+}
+
 export default function BlogList({ posts }: { posts: PostCard[] }) {
   const [active, setActive] = useState('All');
   // Articles arrive daily, so the index would otherwise grow without end.
@@ -384,6 +436,7 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
 
                 <FadeIn delay={0.1} y={18}>
                   <LatestReviews posts={posts} />
+                  <MostDiscussed posts={posts} counts={counts} />
                 </FadeIn>
               </div>
             </>

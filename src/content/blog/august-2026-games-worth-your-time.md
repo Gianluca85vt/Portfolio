@@ -2,6 +2,7 @@
 title: August is a quiet month. Three games are worth your time anyway.
 date: 2026-08-06
 category: Games
+author: ruben-castellani
 cover: /img/blog/games-august/beast-of-reincarnation.jpg
 excerpt: The autumn avalanche hasn't started yet, which makes this the one month you can actually finish something. Game Freak went weird, Metal Gear got a box set, and the goose people came back.
 ---

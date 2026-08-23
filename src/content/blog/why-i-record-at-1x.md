@@ -2,6 +2,7 @@
 title: Why I record everything at 1x
 date: 2026-08-06
 category: 3D
+author: elia-marcheselli
 excerpt: Timelapses look impressive and teach almost nothing. Here is why the slow version is the one worth keeping.
 cover: /img/video/U9QQZWzm9Ac.jpg
 ---

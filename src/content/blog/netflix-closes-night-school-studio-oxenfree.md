@@ -2,6 +2,7 @@
 title: Netflix just closed the studio that made Oxenfree. Its backgrounds are worth remembering why.
 date: 2026-08-15
 category: Games
+author: nadia-ferro
 excerpt: Night School Studio, best known for Oxenfree's painted-parallax world, is shutting down six weeks after its last release. The business story is a familiar one. The art direction it leaves behind is not.
 cover: /img/blog/netflix-closes-night-school-studio-oxenfree/shot-01.jpg
 ---

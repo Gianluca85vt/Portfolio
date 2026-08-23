@@ -1,0 +1,64 @@
+---
+import { site } from '../data/portfolio';
+
+/**
+ * The rights and AI notice that closes the site.
+ *
+ * Worded carefully rather than boilerplate-ly, because the easy version would
+ * be wrong. Copyright needs human authorship: text a model produced on its own
+ * is not protected however firmly a footer asserts it. What Gianluca does own
+ * is unambiguous — the artwork, the renders, the site itself, and the editorial
+ * judgement of what gets published and how it is arranged — so the notice
+ * claims that, separates it from the AI-assisted writing, and leaves other
+ * people's press material to them.
+ */
+const year = new Date().getFullYear();
+---
+
+<section class="px-5 sm:px-8 md:px-10 pb-14">
+  <div class="max-w-[880px] mx-auto rounded-[18px] border border-[#D7E2EA]/12 p-6 sm:p-8">
+    <h2 class="text-[#D7E2EA]/45 font-medium uppercase tracking-[0.14em] text-[0.64rem]">
+      Rights, and how this site is made
+    </h2>
+
+    <div class="mt-5 space-y-4">
+      <p class="text-[#D7E2EA]/65 font-light text-[0.86rem] leading-relaxed">
+        <strong class="text-[#D7E2EA] font-medium">The artwork is mine.</strong> Every
+        render, concept, environment and animation shown in the portfolio is my own
+        work, © {year} {site.name}, all rights reserved. Nothing on these pages may be
+        reproduced, used for training, or passed off as another studio's work without
+        my written permission. The design and build of the site are mine too.
+      </p>
+
+      <p class="text-[#D7E2EA]/65 font-light text-[0.86rem] leading-relaxed">
+        <strong class="text-[#D7E2EA] font-medium">The blog is AI-assisted, and
+        edited by me.</strong> Articles are researched and drafted with AI under
+        invented editorial personas, then read and approved by me before anything is
+        published — nothing goes live automatically. I claim authorship of the
+        editorial work: what gets covered, what gets rejected, the angle, the
+        corrections and the arrangement. I do not claim authorship of raw
+        machine-generated text, because that is not how authorship works.
+      </p>
+
+      <p class="text-[#D7E2EA]/65 font-light text-[0.86rem] leading-relaxed">
+        <strong class="text-[#D7E2EA] font-medium">It can still be wrong.</strong>
+        AI-assisted writing carries a real risk of small inaccuracies — a date, a
+        figure, a name. I check what I can and articles link their sources. If
+        something here matters to a decision you are making, verify it at the source.
+        Spotted a mistake? <a href={`mailto:${site.email}`} class="underline decoration-[#B600A8]/70 underline-offset-2 hover:text-[#D7E2EA] transition-colors">Tell me</a> and I will fix it.
+      </p>
+
+      <p class="text-[#D7E2EA]/65 font-light text-[0.86rem] leading-relaxed">
+        <strong class="text-[#D7E2EA] font-medium">Other people's material.</strong>
+        Screenshots, trailers and press images belong to their respective publishers
+        and studios, and are used here for commentary and criticism, credited where
+        they appear.
+      </p>
+    </div>
+
+    <p class="text-[#D7E2EA]/30 font-light text-[0.74rem] leading-relaxed mt-6 pt-5 border-t border-[#D7E2EA]/10">
+      More on the bylines and how the blog is written:
+      <a href="/authors/" class="underline decoration-[#B600A8]/70 underline-offset-2 hover:text-[#D7E2EA]/60 transition-colors">who writes here</a>.
+    </p>
+  </div>
+</section>

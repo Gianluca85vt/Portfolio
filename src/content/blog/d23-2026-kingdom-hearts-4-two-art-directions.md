@@ -2,6 +2,7 @@
 title: Kingdom Hearts 4 showed its first Disney world at D23, and set itself a hard problem
 date: 2026-08-16
 category: Games
+author: ruben-castellani
 cover: /img/blog/d23-2026-kingdom-hearts-4-two-art-directions/shot-03.jpg
 excerpt: Four minutes of Coco, Donald and Goofy playable for the first time, and a release window Square Enix put a number on. The interesting part is what running the Land of the Dead and near-photoreal Quadratum in the same engine actually asks of the team.
 ---

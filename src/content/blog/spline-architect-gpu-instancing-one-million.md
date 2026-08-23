@@ -2,6 +2,7 @@
 title: A Unity spline tool just went from 100,000 objects to a million
 date: 2026-08-13
 category: 3D
+author: elia-marcheselli
 excerpt: Spline Architect's new update adds GPU instancing along splines at a scale that used to mean switching to Houdini. Here is why that number matters more than it sounds.
 cover: /img/blog/spline-architect/cover.svg
 ---

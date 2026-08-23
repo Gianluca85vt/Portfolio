@@ -2,6 +2,7 @@
 title: Marvel Tokon got the best reviews of the year and the worst launch. Both are true.
 date: 2026-08-13
 category: Games
+author: nadia-ferro
 cover: /img/blog/marvel-tokon/screen-04.jpg
 reviewOf: 'Marvel Tōkon: Fighting Souls'
 score: 8.5

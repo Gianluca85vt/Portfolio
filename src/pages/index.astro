@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import HomePage from '../components/HomePage';
+import SiteDisclaimer from '../components/SiteDisclaimer.astro';
 import { site, socials } from '../data/portfolio';
 
 const title = 'Gianluca Scattarella — 3D Environment & Technical Artist';
@@ -43,4 +44,7 @@ const jsonLd = {
   <!-- The home page is one continuous animated composition, so it hydrates as a
        single island. Astro still renders it to static HTML at build time. -->
   <HomePage latest={latest} client:load />
+
+  <!-- Rights and AI notice, after the contact footer so it closes the page. -->
+  <SiteDisclaimer />
 </Base>

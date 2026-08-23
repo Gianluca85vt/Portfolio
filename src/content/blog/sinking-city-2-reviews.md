@@ -2,6 +2,7 @@
 title: The Sinking City 2 reviews are in, and the story is what Frogwares stopped modelling
 date: 2026-08-19
 category: Games
+author: nadia-ferro
 excerpt: Frogwares ditched the open-world detective formula for tight survival horror, and critics gave it a full aggregate jump for the change. As an environment artist, the interesting bit isn't the combat — it's what a studio saves by drowning half its city.
 cover: /img/blog/sinking-city-2-reviews/shot-01.jpg
 reviewOf: The Sinking City 2

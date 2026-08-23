@@ -2,6 +2,7 @@
 title: A Blender add-on now turns a single photo into a walkable 3D scene
 date: 2026-08-17
 category: 3D
+author: elia-marcheselli
 excerpt: True Depth V3 adds proper camera-projection scenes and one-click HDRI studios on top of its depth-map displacement, all running locally off a single 2D image. It's a previz tool, not a modelling shortcut, and that distinction is exactly why it's useful.
 cover: /img/blog/true-depth-v3-blender-photo-to-3d/cover.svg
 ---

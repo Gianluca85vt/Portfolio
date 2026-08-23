@@ -2,6 +2,7 @@
 title: Your next GPU costs as much as a used car, and here is why
 date: 2026-08-09
 category: Tech
+author: marta-bevilaqua
 cover: /img/blog/covers/gpu-prices.svg
 excerpt: An RTX 5090 launched at 1,999 dollars. Nvidia's own store is asking 4,929 for it today. The reason has almost nothing to do with gaming.
 ---

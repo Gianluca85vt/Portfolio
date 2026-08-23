@@ -2,6 +2,7 @@
 title: Mortal Shell II is the rare sequel that got the reviews the first one deserved
 date: 2026-08-17
 category: Games
+author: nadia-ferro
 cover: /img/blog/mortal-shell-2-reviews/shot-03.jpg
 reviewOf: Mortal Shell II
 score: 8.5
