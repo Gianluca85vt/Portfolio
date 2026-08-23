@@ -3,7 +3,7 @@ title: "Silent Hill Townfall's fog used to hide what the hardware couldn't draw.
 date: 2026-08-23
 category: Games
 excerpt: Screen Burn's 18-minute reveal confirmed a first-person Silent Hill, a six-month PS5 timed exclusive and a lot of the series' trademark fog. The interesting part is why a studio running Unreal Engine 5, with no draw-distance problem to hide, still needs it.
-cover: /img/blog/silent-hill-townfall-fog-first-person-shift/cover.svg
+cover: /img/blog/silent-hill-townfall-fog-first-person-shift/shot-01.jpg
 draft: true
 ---
 
@@ -19,6 +19,11 @@ Both of those are business news. What I actually sat up for is further
 down the same footage.
 
 ## What the reveal showed
+
+<figure>
+  <img src="/img/blog/silent-hill-townfall-fog-first-person-shift/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Konami / Screen Burn, via the official Silent Hill: Townfall Steam page</figcaption>
+</figure>
 
 Townfall drops the series' fixed US town setting for **St. Amelia**, a
 fictional town on the Scottish coast — the team apparently did location
