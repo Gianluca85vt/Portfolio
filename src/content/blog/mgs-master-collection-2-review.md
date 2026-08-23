@@ -2,6 +2,7 @@
 title: "Metal Gear Solid 4 finally left PS3, and the reviews tell you what that actually took"
 date: 2026-08-21
 category: Games
+author: nadia-ferro
 excerpt: Master Collection Vol. 2 reviewed to a 9.0 average this week, and the headline is simple — MGS4 is off PS3 for the first time ever. The harder story is what remastering three games from three completely different eras, with no shared source, actually involves.
 cover: /img/blog/mgs-master-collection-2-review/shot-01.jpg
 reviewOf: "Metal Gear Solid: Master Collection Vol. 2"

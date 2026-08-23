@@ -2,8 +2,9 @@
 title: Black Myth Zhong Kui's first gameplay swaps Wukong's acrobatics for something much harder to fake
 date: 2026-08-21
 category: Games
+author: nadia-ferro
 excerpt: Game Science's 15-minute reveal trades the staff-and-transformation combat of Wukong for a grounded sword that blocks and parries. That sounds like a smaller change than it is — for the animation team, it's a completely different problem.
-cover: /img/blog/black-myth-zhong-kui-gameplay-reveal-combat-shift/shot-01.jpg
+cover: /img/blog/black-myth-zhong-kui-gameplay-reveal-combat-shift/video-thumb.jpg
 ---
 
 Game Science has a habit now: every 20 August, the anniversary of Black Myth:
@@ -18,8 +19,16 @@ for.
 ## What was actually shown
 
 <figure>
-  <img src="/img/blog/black-myth-zhong-kui-gameplay-reveal-combat-shift/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
-  <figcaption>Game Science, via the official Black Myth: Wukong Steam page (comparison shot — Zhong Kui has no store page or official screenshots yet)</figcaption>
+  <button class="video-embed" data-video="rhSXyW7P4KM" data-title="Black Myth: Zhong Kui - 15 Minutes Gameplay Trailer" type="button">
+    <img src="/img/blog/black-myth-zhong-kui-gameplay-reveal-combat-shift/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Zhong Kui mid-combat in the fifteen-minute gameplay reveal" />
+    <span class="play" aria-hidden="true"></span>
+  </button>
+  <figcaption>The full fifteen minutes, from PlayStation's channel. Everything described below is in here — the parries are around the middle.</figcaption>
+</figure>
+
+<figure>
+  <img src="/img/blog/black-myth-zhong-kui-gameplay-reveal-combat-shift/shot-02.jpg" loading="lazy" width="1440" height="810" alt="A screenshot from Black Myth: Wukong, shown here only as the point of comparison" />
+  <figcaption><strong>This is Wukong, not Zhong Kui.</strong> Zhong Kui has no store page or official stills yet, so the previous game stands in as the comparison — the acrobatic staff work described above. Screenshot: Game Science, via the official Black Myth: Wukong Steam page.</figcaption>
 </figure>
 
 The build is early — Game Science says so upfront, and it's captured in a

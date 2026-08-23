@@ -2,6 +2,7 @@
 title: An addon now picks your retopology algorithm for you, and that's a stranger idea than it sounds
 date: 2026-08-20
 category: 3D
+author: elia-marcheselli
 excerpt: Quadify Ultra ships an ML router for Blender 5.0 that reads a mesh's geometry and decides which of five retopology algorithms to run on it. It's not doing the retopology — it's doing the judgment call that used to be yours.
 cover: /img/blog/quadify-ultra-ml-retopology-blender-5/cover.svg
 ---

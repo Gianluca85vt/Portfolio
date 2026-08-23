@@ -2,6 +2,7 @@
 title: Phone-based 3D scanning just dropped the cloud entirely
 date: 2026-08-19
 category: 3D
+author: elia-marcheselli
 excerpt: Scantic trains Gaussian splats on-device, no account, no upload, no wifi. It's not the first app to do this, and that's the actual story — offline capture just became the baseline, not the pitch.
 cover: /img/blog/phone-gaussian-splat-scanning-offline/cover.svg
 ---
