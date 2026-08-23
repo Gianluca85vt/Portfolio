@@ -1,6 +1,26 @@
-# Film & TV — harvested 2026-08-23T13:58:14.879Z
+# Film & TV — harvested 2026-08-23T17:00:06.785Z
 
 ## Variety
+
+### Grace Passô’s ‘Our Secret’ Nabs the Best Film Kikito at the 54th Gramado Film Festival
+Sun, 23 Aug 2026 16:46:29 +0000 — https://variety.com/2026/film/global/passo-nosso-segredo-won-gramado-best-film-kikito-1236841004/
+
+GRAMADO, Brazil “Our Secret ( Nosso segredo ), the first feature from Grace Passô, nabbed the best feature film Kikito award at the Aug. 22 closing ceremony of the 54th Gramado Film Festival. The feature also scooped cinematography (Wilssa Esser) and art direction (Lucas Osório) plaudits. Passô, an established playwright and also actress, directed and wrote [ ]
+
+### Martin Short Gets Honest: What It’s Like to Be All Over the Emmy Race, Thanks to Three Very Different Projects
+Sun, 23 Aug 2026 16:30:00 +0000 — https://variety.com/2026/tv/awards/martin-short-busy-emmy-race-three-very-different-projects-1236839629/
+
+Martin Short is having quite a unique Emmy season, and he knows it. His name is all over this year’s nominations, via three very distinct projects: As an actor, he’s nominated for outstanding comedy lead via Hulu’s “Only Murders in the Building.” (He also has a comedy series nom for the show as an executive [ ]
+
+### ‘Sentimental Value’ Star Anders Danielsen Lie and Anne Marie Ottersen Inducted Into the Haugesund Walk of Fame: ‘It Feels Full Circle’
+Sun, 23 Aug 2026 16:00:55 +0000 — https://variety.com/2026/awards/awards/sentimental-value-anders-danielsen-lie-anne-marie-ottersen-1236840981/
+
+Norwegian actors Anders Danielsen Lie and Anne Marie Ottersen were inducted into the Haugesund Walk of Fame.. The unveiling taking place during the first weekend of this year s Norwegian Intl. Film Festival Haugesund, Danielsen Lie and Ottersen were recognized for contributing to “building the professionalism and high standards of Norway’s acting community, both on the [ ]
+
+### Box Office: Spider-Man: Brand New Day Triumphs Again in Fourth Weekend With $39 Million, Insidious 6 Launches to $25 Million
+Sun, 23 Aug 2026 15:41:54 +0000 — https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-insidious-6-opens-1236838324/
+
+Long may Peter Parker reign! Sony s Marvel adventure Spider-Man: Brand New Day continues to dominate at the box office, collecting $39 million in its fourth weekend of release. Despite a smattering of newcomers, Spidey remained at No. 1 ahead of another Sony release, Insidious: Out of the Further. Much lower down on box office charts [ ]
 
 ### ‘Seduction,’ Helmed by Zelito Viana and Marcos Palmeira, to Premiere at the Inffinito Fest in Miami (EXCLUSIVE)
 Sun, 23 Aug 2026 13:39:10 +0000 — https://variety.com/2026/film/global/seduction-zelito-viana-marcos-palmeira-premiere-miami-h2o-1236840944/
@@ -32,27 +52,32 @@ Sun, 23 Aug 2026 08:08:40 +0000 — https://variety.com/2026/film/news/upendra-t
 
 Kannada cinema superstar Upendra has joined the cast of Zombie Reddy Nxt Lvl, the sequel to the hit Zombie Reddy, in a powerhouse role, India s People Media Factory has confirmed. The announcement, made on star Teja Sajja s birthday, also confirms the film s cast and creative team. The adventure zombie action-comedy marks the South Indian cinema [ ]
 
-### One Battle After Another and Marty Supreme Take Top Honors at Location Managers Guild International Awards
-Sun, 23 Aug 2026 03:22:37 +0000 — https://variety.com/2026/artisans/news/location-managers-guild-international-awards-2026-winners-1236840833/
-
-“One Battle After Another” and “Marty Supreme” took top honors at the Location Managers Guild International (LMGI) LMGI Awarda. The LGMI Awards were handed out on Saturday night and honor the use of filming locations across motion pictures, television, commercials, film commissions, and special achievement categories. Paul Thomas Anderson’s “One Battle After Another” won outstanding [ ]
-
-### HBO Max Is Free Right Now For 7 Days With This Prime Video Promo
-Sat, 22 Aug 2026 22:23:00 +0000 — https://variety.com/2026/shopping/news/best-hbo-max-deal-offer-1235439129/
-
-Despite HBO Max hiking prices again last fall, the streamer is hoping to win over some new customers, with a 7-day free trial through Prime Video, just in time for the buzzy premiere of Lanterns and awards season pushes for critically-acclaimed shows like Hacks and The Pitt. While Amazon usually saves its streaming deals for [ ]
-
-### Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89
-Sat, 22 Aug 2026 21:00:11 +0000 — https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/
-
-Dale Morris, one of the leading names in the ranks of Nashville music managers, who helped build up superstar careers for the group Alabama and then Kenny Chesney nearly from scratch, died Friday at 89. A representative said Morris died in his sleep. “He lived a big, bold, beautiful, blessed life, and I’m holding onto [ ]
-
-### Rolly Romero vs. Teofimo Lopez Livestream: Where to Watch the Welterweight Pay-Per-View Match Online
-Sat, 22 Aug 2026 21:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-rolly-romero-vs-teofimo-lopez-ppv-boxing-live-online-1236838232/
-
-In an epic bout, Premier Boxing Champions travels to Nevada this weekend, as Las Vegas-native Rolando Rolly Romero (17-2-0) defends his WBA welterweight title against Brooklyn-born boxer Teofimo Lopez (22-2-0) in a high-profile match. Romero vs. Lopez takes place on Saturday, Aug. 22 at T-Mobile Arena in Las Vegas, Nevada with a start time of [ ]
-
 ## The Hollywood Reporter
+
+### Simon Wiesenthal Center CEO Calls Out Mark Ruffalo s Paramount Remarks: Obsession and Demonization
+Sun, 23 Aug 2026 16:44:34 +0000 — https://www.hollywoodreporter.com/business/business-news/simon-wiesenthal-center-slams-mark-ruffalo-paramount-comments-1236679297/
+
+Paramount has already clapped back at the Marvel actor, calling his anti-merger comments "antisemitic."
+
+### Spider-Man: Brand New Day Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory
+Sun, 23 Aug 2026 16:03:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-2-1236678980/
+
+Tom Holland's superhero blockbuster topped the worldwide sum for 'Force Awakens' while up against the launches of 'Insidious: Out of the Further' and Jason Statham's 'Mutiny.'
+
+### Nick Glennie-Smith, Composer on ‘The Rock,’ ‘The Man in the Iron Mask’ and ‘Secretariat,’ Dies at 74
+Sun, 23 Aug 2026 15:42:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/nick-glennie-smith-man-in-iron-mask-secretariat-composer-1236679301/
+
+The British conductor and keyboardist collaborated often with Oscar winner Hans Zimmer.
+
+### Charlize Theron Reflects on Mad Max: Fury Road a Decade Later: There s a Deep Connection to This Film
+Sun, 23 Aug 2026 15:37:53 +0000 — https://www.hollywoodreporter.com/movies/movie-news/charlize-theron-mad-max-fury-road-decade-later-1236679218/
+
+At a special 'Fury Road' screening, the star acknowledged how iconic her character has become, so much so that she now meets young children named Furiosa: "The weirdest thing ever."
+
+### Leslie Parrish, Actress in Li l Abner and The Manchurian Candidate, Dies at 90
+Sun, 23 Aug 2026 14:55:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/leslie-parrish-dead-lil-abner-manchurian-candidate-1236677928/
+
+She also appeared in 'Three on a Couch,' 'For Love or Money' and 'Batman' before becoming a passionate antiwar activist and conservationist.
 
 ### Taylor Sheridan Accused of Stealing Yellowstone Idea From TV Writer s Pitch
 Sun, 23 Aug 2026 03:30:19 +0000 — https://www.hollywoodreporter.com/business/business-news/taylor-sheridan-sued-yellowstone-copyright-infringement-1236679202/
@@ -79,34 +104,19 @@ Sat, 22 Aug 2026 23:40:35 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 She built an extensive résumé of television appearances, including roles on 'Law Order,' 'Everybody Loves Raymond,' 'Southland,' 'New Girl' and 'Shameless.'
 
-### Meghan Markle Reportedly Dropped From Consideration to Join Guy Ritchie s The Gentlemen
-Sat, 22 Aug 2026 19:12:05 +0000 — https://www.hollywoodreporter.com/tv/tv-news/meghan-markle-dropped-guy-ritchie-the-gentlemen-1236679049/
-
-Former editor-in-chief of Vanity Fair and The New Yorker, Tina Brown, reported Saturday that the decision came after intense backlash in the U.K.
-
-### Before ‘The Pitt,’ There Was ‘St. Elsewhere’
-Sat, 22 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-pitt-st-elsewhere-legacy-1236676638/
-
-The Emmy-winning NBC medical drama that launched the careers of Denzel Washington and Mark Harmon ended by suggesting its entire six-season run existed inside the imagination of an autistic child — a twist that remains one of television’s most debated endings.
-
-### Janie Bradford, “Money (That’s What I Want)” Songwriter, Dies at 87
-Sat, 22 Aug 2026 17:02:14 +0000 — https://www.hollywoodreporter.com/music/music-news/janie-bradford-dead-money-thats-what-i-want-songwriter-1236679050/
-
-After starting out as a receptionist for Berry Gordy, she also co-wrote Motown tunes recorded by Marvin Gaye, Stevie Wonder and Mary Wells.
-
-### Spider-Man: Brand New Day Swinging to Fourth Box Office Victory as It Tops Insidious Sequel
-Sat, 22 Aug 2026 15:55:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-2-1236678980/
-
-Tom Holland's superhero blockbuster continues its dominance against the launches of 'Insidious: Out of the Further' and Jason Statham's 'Mutiny.'
-
-### Michael Wright, Star of ‘The Five Heartbeats’ and ‘Sugar Hill,’ Dies at 70
-Sat, 22 Aug 2026 15:18:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/michael-wright-dead-five-heartbeats-sugar-hill-1236678985/
-
-The New York native also was memorable as a Resistance fighter on ‘V’ and as the doomed inmate Omar White on ‘Oz.’
-
 ## Deadline
 
-### One Piece: The Battle Of Alabasta Adds Four To Season 3 Cast
+### Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere s Death: Something Has Got To Be Done
+Sun, 23 Aug 2026 16:25:34 +0000 — https://deadline.com/2026/08/melissa-gilbert-protect-child-actors-hayden-panettiere-death-1237048294/
+
+Following the death of Hayden Panettiere, Melissa Gilbert is the latest to call for better protections for child actors. On Saturday, the Little House on the Prairie alum admitted she did not know Hayden personally, but explained that her death feels so personal to me as a former child actor, demanding unions enact real change [ ]
+
+### Sony Double Feature At The B.O.: Spider-Man: Brand New Day $39M, Insidious 6 $25M+ Opening Sunday AM Update
+Sun, 23 Aug 2026 15:24:00 +0000 — https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/
+
+SUNDAY AM WRITETHRU after Friday and Saturday updates: This weekend belongs to Sony, or at least the top two spots at the box office do, with Marvel Studios Spider-Man: Brand New Day s fourth frame of $39 million at 4,006 sites and Screen Gems/Blumhouse/Atomic Monster/Stage 6 s Insidious: Out of the Further opening to $25.3M at 3,303 [ ]
+
+### One Piece: The Battle Of Alabasta Adds Four To Season 3 Cast In Roles Of Koza, Toto, Pell Chaka
 Sun, 23 Aug 2026 10:00:00 +0000 — https://deadline.com/2026/08/one-piece-the-battle-of-alabasta-season-3-four-cast-1237047796/
 
 Emilio Sakraya (Rheingold, Those About to Die, Fortitude), Omid Abtahi (The Mandalorian, American Gods), Jamie Ward (The Gentlemen, His Dark Materials) and Nabeel Khan (Mandela: Long Walk to Freedom, Strike Back) have been tapped for recurring roles in One Piece: The Battle of Alibasta, the third season of the Netflix series. The castings were announced [ ]
@@ -155,14 +165,4 @@ As things continue to get ugly around the proposed merger, Mark Ruffalo has call
 Sat, 22 Aug 2026 17:43:34 +0000 — https://deadline.com/2026/08/national-treasure-3-in-works-1237048107/
 
 More than 20 years after stealing the Declaration of Independence, National Treasure 3 is in the works. On Friday, National Treasure (2004) director Jon Turteltaub revealed that a third installment in the Nicolas Cage adventure franchise is in the works with a script that Disney has approved. I was thinking about mentioning this tonight, I ll [ ]
-
-### Rosie O Donnell Ends Jimmy Kimmel Live Guest Run With Trump-Roasting Song: Use That Stable Genius Brain
-Sat, 22 Aug 2026 16:44:29 +0000 — https://deadline.com/2026/08/rosie-odonnell-ends-jimmy-kimmel-live-trump-roasting-song-1237048098/
-
-Although Rosie O Donnell s late-night hosting run has come to an end, she graced her biggest fan with a song in his honor. On Friday s Jimmy Kimmel Live, the 12x Emmy-winning guest host let longtime foe Donald Trump have it in the opening monologue, which she ended with a song roasting the twice-impeached POTUS, who previously [ ]
-
-### Sarajevo Film Festival 2026 Awards Austria s Everytime Best Film — See All Winners
-Sat, 22 Aug 2026 16:03:52 +0000 — https://deadline.com/2026/08/sarajevo-film-festival-2026-awards-winners-1237048083/
-
-The 32nd Sarajevo Film Festival wrapped up on Friday, with Austria taking home the top prize. During the awards ceremony at National Theatre Sarajevo, the jury awarded Austrian director Sandra Wollner s Everytime with the Heart of Sarajevo for Best Narrative Feature Film, which comes with a prize of 16,000 euros. Moments of cinematic grace float [ ]
 

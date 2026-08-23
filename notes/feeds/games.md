@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-23T13:58:14.879Z
+# Games — harvested 2026-08-23T17:00:06.785Z
 
 ## Eurogamer
+
+### Twitch faces a class action lawsuit over using streamers' content to train Amazon's AI
+Sun, 23 Aug 2026 16:55:20 +0000 — https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers
+
+A Twitch streamer has filed a proposed class action against the platform and its parent company Amazon, claiming his broadcasts, and those of countless other creators, were fed into generative AI training with neither consent nor payment. Read more
+
+### Epic Games Store overhaul might be "too little, too late", says Newzoo analyst
+Sun, 23 Aug 2026 16:19:53 +0000 — https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite
+
+While Epic has spent much of this year promising a launcher overhaul, including a faster, redesigned storefront with tailored recommendations and quicker ways to browse, one industry analyst has revealed that it might not be enough. Read more
 
 ### Miyazaki explains how The Duskbloods plans to protect newcomers from its best players
 Sun, 23 Aug 2026 11:43:40 +0000 — https://www.eurogamer.net/the-duskbloods-skill-based-matchmaking-hidetaka-miyazaki
@@ -52,27 +62,9 @@ Sat, 22 Aug 2026 09:10:15 +0000 — https://www.eurogamer.net/47-video-game-thin
 
 Video games are great, that's why we're here! But some things about video games are greater than others. And so in the spirit of Eurogamer's Optimism Week - a chance to reflect on just how special the medium can be, at a time it isn't always easy to remember - we thought we'd switch tack; moving away from the big things, to the little things. Not the series we love, or the games we can't get enough of, but those strange, weird, little video gaming moments that, for us at least, spark joy. And, of course, we'd love to hear yours too in the comments below! Read more
 
-### What we've been playing - "We're in danger of making this a regular thing"
-Sat, 22 Aug 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-were-in-danger-of-making-this-a-regular-thing
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Mat J gets philosophical on us; Connor plays Minesweeper for some reason; and Bertie rallies the wonderful Eurogamer readers for a second week of Big Walk wholesome hilarity. Read more
-
-### Take-Two's legal action to find GTA 6 leaker begins, as it subpoenas Microsoft and Discord for any data "sufficient to identify the users person"
-Fri, 21 Aug 2026 15:55:19 +0000 — https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek
-
-The hunt for the GTA 6 leaker is on. Take-Two has reportedly filed multiple subpoenas in a federal district court to force information out of Microsoft and Discord related to anything - OneDrive data, Xbox accounts, or Discord users - that might reveal who leaked GTA 6 gameplay videos online. Read more
-
 ## GamesIndustry.biz
 
-### The opportunity cost of Sony's live service pivot is enormous | Opinion
-Fri, 21 Aug 2026 14:15:36 +0000 — https://www.gamesindustry.biz/the-opportunity-cost-of-sonys-live-service-pivot-is-enormous-opinion
-
-The folly of the live service mania that consumed the games business for much of the past decade is pretty well documented by this point . The idea that every game should be a live service game &ndash; the absolute madness of thinking that every game could be a live service game &ndash; consumed countless millions of dollars and incalculable hours of labour, not to mention burning vast amounts of consumer goodwill and IP value on a bonfire of executive failure. Read more
-
-### IGN Entertainment brings Women In Gaming networking event to Gamescom
-Fri, 21 Aug 2026 14:00:36 +0000 — https://www.gamesindustry.biz/ign-entertainment-brings-women-in-gaming-networking-event-to-gamescom
-
-IGN Entertainment is hosting a Women in Gaming networking breakfast at Gamescom, on the morning of Wednesday 26th August. The event is supported by GamesIndustry.biz , and will take place in the Dorint Hotel am Heumarkt K&ouml;ln from 8.30-10.30. Read more
+_Nothing in the last 48 hours._
 
 ## VG247
 
@@ -135,20 +127,10 @@ Fri, 21 Aug 2026 19:45:00 GMT — https://www.pushsquare.com/news/2026/08/psycho
 
 Having gone back to being an independent team. Psychonauts team Double Fine is going to share "what's next for the studio" today as part of a livestream on the Kinda Funny Games YouTube channel . Having just returned to independence after years of ownership under Microsoft, the developer plans to talk about its future on the live show scheduled to start in the coming hours. I doubt you're going to get actual game announcements out of the livestream, but I presume Tim Schafer will be there to talk about how Double Fine will approach its future. Read the full article on pushsquare.com
 
-### Next Major PS5 Exclusive Is Ready to Release, Wolverine Goes Gold
-Fri, 21 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/08/next-major-ps5-exclusive-is-ready-to-release-wolverine-goes-gold
-
-Get your gold claws out. Insomniac has announced its fourth PS5 game, Marvel's Wolverine , has gone gold ahead of release on 15th September 2026. It shared the news with a quick social media video featuring Logan with gold claws, and it's confirmed you can unlock them in the game. The phrase "going gold" means work on the 1.0 version of the game is now complete and can be pressed to PS5 discs. It's been confirmed the full 1.0 version of Marvel's Wolverine will be on the disc itself, but there shall be a day one patch via digital download on top. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak
 Fri, 21 Aug 2026 20:03:39 GMT — https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-discord-in-bid-to-halt-extensive-grand-theft-auto-vi-leak
 
 Take-Two is racing to halt a series of GTA VI leaks from an entity known as "Cyberleek" that may have access to a playable build of the game.
-
-### We're finally talking about AI, ft. David 'Rez' Graham and Luke Dicken
-Fri, 21 Aug 2026 14:45:37 GMT — https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken
-
-We're chatting about AI and AI techniques, but it's also a conversation about the nature of work and the inherent value of AI in game development.
 
