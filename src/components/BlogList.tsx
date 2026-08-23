@@ -326,8 +326,13 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
   // Only the tail is paged. The picture-led blocks at the top are a fixed
   // shape, so cutting into them would just leave a ragged grid.
   const tail = filtered ? shown : shown.slice(7);
-  const tailShown = tail.slice(0, limit);
-  const tailRemaining = tail.length - tailShown.length;
+  const tailRemaining = Math.max(0, tail.length - limit);
+
+  // Everything is rendered into the HTML and the overflow is hidden with CSS
+  // rather than sliced out of the array. A crawler cannot press Show more, and
+  // slicing left most of the archive with no link pointing at it from any page
+  // a crawler actually walks.
+  const hiddenPast = (i: number) => (i < limit ? undefined : { display: 'none' });
 
   return (
     <>
@@ -387,10 +392,12 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
           ) : filtered ? (
             <>
               <div className="grid grid-cols-2 lg:grid-cols-4 gap-2.5 sm:gap-3">
-                {tailShown.map((post, i) => (
-                  <FadeIn key={post.slug} delay={(i % 4) * 0.05} y={20}>
-                    <OverlayCard post={post} count={counts[post.slug] ?? 0} size="small" />
-                  </FadeIn>
+                {tail.map((post, i) => (
+                  <div key={post.slug} style={hiddenPast(i)}>
+                    <FadeIn delay={(i % 4) * 0.05} y={20}>
+                      <OverlayCard post={post} count={counts[post.slug] ?? 0} size="small" />
+                    </FadeIn>
+                  </div>
                 ))}
               </div>
               <ShowMore remaining={tailRemaining} onClick={() => setLimit((n) => n + PAGE)} />
@@ -419,15 +426,17 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
                   way a news page runs a rail down its right-hand edge */}
               <div className="mt-10 sm:mt-12 grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_300px] gap-8 lg:gap-10 items-start">
                 <div>
-                  {tailShown.length ? (
+                  {tail.length ? (
                     <>
                       <h2 className="text-[#D7E2EA]/40 font-medium uppercase tracking-[0.14em] text-[0.66rem] pb-3 border-b border-[#D7E2EA]/15">
                         More from the blog
                       </h2>
-                      {tailShown.map((post, i) => (
-                        <FadeIn key={post.slug} delay={Math.min(i % PAGE, 4) * 0.05} y={18}>
-                          <ListRow post={post} count={counts[post.slug] ?? 0} />
-                        </FadeIn>
+                      {tail.map((post, i) => (
+                        <div key={post.slug} style={hiddenPast(i)}>
+                          <FadeIn delay={Math.min(i % PAGE, 4) * 0.05} y={18}>
+                            <ListRow post={post} count={counts[post.slug] ?? 0} />
+                          </FadeIn>
+                        </div>
                       ))}
                       <ShowMore remaining={tailRemaining} onClick={() => setLimit((n) => n + PAGE)} />
                     </>

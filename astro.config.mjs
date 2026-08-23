@@ -39,6 +39,26 @@ export default defineConfig({
   site: 'https://www.gianlucascattarella.it',
   output: 'static',
   adapter: vercel(),
-  integrations: [react(), sitemap()],
+  integrations: [
+    react(),
+    // lastmod tells a crawler which pages are worth re-reading. Without it the
+    // whole sitemap looks equally stale, and a site publishing several times a
+    // day gets crawled as if it never changes.
+    sitemap({
+      serialize(item) {
+        item.lastmod = new Date().toISOString();
+        // The article pages are the point of the site; the utility routes are
+        // not, and should not compete with them for crawl budget. changefreq is
+        // left off deliberately — crawlers have ignored it for years, and a
+        // wrong value is worse than none.
+        if (item.url.endsWith('/blog/')) {
+          item.priority = 0.9;
+        } else if (item.url.includes('/blog/')) {
+          item.priority = 0.8;
+        }
+        return item;
+      },
+    }),
+  ],
   build: { format: 'directory' },
 });
