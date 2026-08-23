@@ -1,10 +1,10 @@
-# Embargo watch — updated 2026-08-22
+# Embargo watch — updated 2026-08-23
 
 ## Lifting in the next 14 days
 
 | Title | Type | Embargo lifts | Release | Confirmed by |
 |---|---|---|---|---|
-| Ghost of Yotei (PC / expanded release) | Game | Thu 25 Sept 2026, 9am ET / 6am PT | TBC | Now firmly confirmed (not just reported) by ResetEra, NeoGAF, Insider Gaming and KitGuru threads dated this week. Closing in — about 5 weeks out. |
+| Ghost of Yotei (PC / expanded release) | Game | Thu 25 Sept 2026, 9am ET / 6am PT | 2 Oct 2026 | Firmly confirmed by ResetEra, NeoGAF, IconEra, Insider Gaming and MP1st threads, all dated this week — embargo lifts more than a week ahead of release, read as a confidence signal. About 4.5 weeks out. |
 
 ## Lifted in the last 3 days
 

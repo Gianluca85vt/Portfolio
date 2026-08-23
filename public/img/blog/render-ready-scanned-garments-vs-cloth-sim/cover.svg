@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Scanned garment versus simulated cloth">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#5A1D08"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="accent3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BE4C00"/>
+      <stop offset="100%" stop-color="#FFB27A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg3)"/>
+
+  <!-- draped cloth folds, scan side -->
+  <g fill="none" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="5">
+    <path d="M60 620 C 140 680, 120 760, 200 800 C 280 840, 260 900, 340 900"/>
+    <path d="M40 680 C 130 740, 110 820, 190 860 C 270 900, 250 900, 330 900"/>
+    <path d="M80 560 C 170 620, 150 700, 230 740 C 310 780, 290 860, 370 880"/>
+  </g>
+
+  <!-- wireframe cloth grid, sim side -->
+  <g stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2">
+    <path d="M840 620 L1140 620 M840 670 L1140 670 M840 720 L1140 720 M840 770 L1140 770 M840 820 L1140 820"/>
+    <path d="M860 600 L840 850 M910 600 L895 850 M960 600 L955 850 M1010 600 L1015 850 M1060 600 L1075 850 M1110 600 L1130 850"/>
+  </g>
+
+  <g text-anchor="middle">
+    <text x="600" y="170" font-size="30" letter-spacing="8" fill="#FFFFFF" fill-opacity="0.55"
+          font-family="Arial, Helvetica, sans-serif" font-weight="bold">SCAN THE FABRIC</text>
+
+    <text x="600" y="290" font-size="104" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">GROUND TRUTH</text>
+
+    <text x="600" y="350" font-size="30" letter-spacing="4" fill="#FFFFFF" fill-opacity="0.55"
+          font-family="Arial, Helvetica, sans-serif" font-weight="bold">VS THE SOLVER'S BEST GUESS</text>
+  </g>
+
+  <rect x="500" y="390" width="200" height="8" rx="4" fill="url(#accent3)"/>
+</svg>
