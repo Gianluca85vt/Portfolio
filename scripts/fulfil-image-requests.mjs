@@ -13,7 +13,8 @@
  *     "slug": "the-article-slug",
  *     "steamAppId": 2001760,
  *     "urls": ["https://upload.wikimedia.org/...jpg"],
- *     "credit": "Arc System Works, via the official Steam page"
+ *     "credit": "Arc System Works, via the official Steam page",
+ *     "comparison": true   // these are a stand-in from another game: body only
  *   }
  *
  * steamAppId pulls official store screenshots, which publishers put there for
@@ -228,7 +229,19 @@ for (const filename of requests) {
   if (written.length) {
     fetchedAny = true;
     const credit = request.credit ?? 'Official press asset.';
-    const changed = await fixCover(slug, written[0], request.keepCover === true);
+
+    // A screenshot borrowed from an earlier game in a series is fine inside the
+    // body, where the text says what it is. It must never become the cover: the
+    // cover carries no caption, and it is what shows on the index card and in a
+    // social preview, so a stand-in there tells the reader something false
+    // before they have read a word.
+    const comparisonOnly = request.comparison === true;
+    const changed = comparisonOnly
+      ? false
+      : await fixCover(slug, written[0], request.keepCover === true);
+    if (comparisonOnly) {
+      console.log(`${slug}: comparison images, cover left alone`);
+    }
 
     // Use a different shot in the body than on the cover, when there is one.
     const bodyShot = written[1] ?? written[0];
