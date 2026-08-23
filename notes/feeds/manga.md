@@ -1,66 +1,66 @@
-# Manga — harvested 2026-08-22T16:58:56.245Z
+# Manga — harvested 2026-08-23T05:06:13.610Z
 
 ## Anime News Network
 
-### Draw This, Then Die! ‒ Episode 7
-Sat, 22 Aug 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/draw-this-then-die/episode-7/.240792
+### The Moon on the Rainy Night Anime Listed for 2027
+Sun, 23 Aug 2026 00:54:47 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-23/the-moon-on-the-rainy-night-anime-listed-for-2027/.240854
 
-Even when the show tries to frame things in a cheerful way, it never shies away from being uncomfortably real about how daunting being a creator actually is.
+REMOW reported at its Anime NYC panel on Saturday that the television anime of Kuzushiro's The Moon on a Rainy Night (Amayo no Tsuki) manga is "coming...
 
-### The World Is Dancing Volumes 1-6 Manga Review
-Sat, 22 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-world-is-dancing/volumes-1-6/.240558
+### Kazé US Manga Imprint Plans to Launch With 5-8 Titles in 2027, to Grow to 25-30 Titles Per Year by 2029
+Sun, 23 Aug 2026 00:23:37 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/kaze-us-manga-imprint-plans-to-launch-with-5-8-titles-in-2027-to-grow-to-25-30-titles-per-year-by-/.240866
 
-This stunning spin on the origins of Noh’s greatest talent is not only visually spectacular but also speaks deeply to the plight of artists in every era.
+KAZÉ imprint to also launch in Brazil, Spain in 2027
 
-### Yen Press Reveals 9 New Licenses Including Übel Blatt II, The Gray Exorcist, Seal My Lips With a Kiss Manga
-Sat, 22 Aug 2026 11:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/yen-press-reveals-9-new-licenses-including-ubel-blatt-ii-the-gray-exorcist-seal-my-lips-with-a-kiss-/.240829
+### Publang Announces 5 New BL Manhwa, Web Novel Titles at Anime NYC
+Sat, 22 Aug 2026 23:21:12 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/publang-announces-5-new-bl-manhwa-web-novel-titles-at-anime-nyc/.240857
 
-New light novel licenses include: <cite>The Witch's Conviction, The Beast's Redemption; 'Cause I'm Freedom!</cite>
+New lineup includes <i>Define the Relationship</i>, <i>The Hunter's Gonna Lay Low</i>, <i>PASSION</i> manhwa; <i>Healer</i> and <i>The Hunter's Gonna Lay Low</i> web novels
 
-### Ize Press Announces Whale Star, Solo Leveling Releases at Anime NYC
-Sat, 22 Aug 2026 11:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/ize-press-announces-whale-star-solo-leveling-releases-at-anime-nyc/.240830
+### GKIDS Licenses Vampire Hunter D: Bloodlust Anime, Live-Action 5 Centimeters Per Second Film
+Sat, 22 Aug 2026 22:37:39 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/gkids-licenses-vampire-hunter-d-bloodlust-anime-live-action-5-centimeters-per-second-film/.240863
 
-Company to release <cite>Solo Leveling Ragnarok</cite> novel in English; <i>Solo Leveling</i> comic, novel, audiobook in Spanish
+GKIDS to screen <cite>Vampire Hunter D: Bloodlust</cite> film in N. America in 2027 after select screenings with Japanese audio this fall
 
-### Tomb Raider King ‒ Episode 7
-Sat, 22 Aug 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/tomb-raider-king/episode-7/.240816
+### Manga Mirai Service Shuts Down
+Sat, 22 Aug 2026 19:24:17 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/manga-mirai-service-shuts-down/.240835
 
-In Jaeha we get a novel and practical character concept that fits within the setting’s power system, but the show finds a way to immediately squander that potential.
+Users can transfer purchased titles to NTT Solmare's MangaPlaza or request refunds
 
-### Chainsmoker Cat ‒ Episode 8
-Sat, 22 Aug 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/chainsmoker-cat/episode-8/.240815
+### Code Vein II Game's 'Mask of Idris' DLC Debuts on September 9
+Sat, 22 Aug 2026 19:02:41 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/code-vein-ii-game-mask-of-idris-dlc-debuts-on-september-9/.240841
 
-This is not a drill. <i>Chainsmoker Cat</i> has given us a mischievous little beatboxing catboy with sharp teeth and a messy bowl cut, and he positively radiates incestual subtext.
+DLC previewed in teaser
 
-### I Want to Love You Till Your Dying Day ‒ Episode 7
-Sat, 22 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-7/.240765
+### Haikyū!! Anime's 'Bakemono-tachi' Special Unveils Teaser, Key Visual
+Sat, 22 Aug 2026 18:58:11 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/haikyu-anime-bakemono-tachi-special-unveils-teaser-key-visual/.240850
 
-This episode really went out of its way to make me feel emotional about its climax and dammit…it worked.
+2nd <i>Haikyū!!</i> anime film also reveals key visual
 
-### Clevatess Season 2 ‒ Episode 7
-Sat, 22 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/clevatess-season-2/episode-7/.240563
+### The Elusive Samurai Season 2 ‒ Episode 6
+Sat, 22 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-6/.240847
 
-More anime should have the guts to say, “We're sorry, but the princess is in another castle…because she is reigning over the most wicked fiends of Hell with a ruthless iron fist.”
+This diminutive agent of lies and chaos is <i>The Elusive Samurai</i>'s very own Baby Herman.
 
-### Duel Masters Lost: Danzai no Shōnen Anime Reveals October 9 Debut
-Sat, 22 Aug 2026 06:25:37 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/duel-masters-lost-danzai-no-shonen-anime-reveals-october-9-debut/.240836
+### Thunder 3 ‒ Episode 7
+Sat, 22 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-7/.240842
 
-Visual, returning staff revealed
+<i>Thunder 3</i> is easily the worst CG anime since <i>EX-ARM</i>, and the worst manga adaptation since the travesty that befell <i>Übel Blatt</i>.
 
-### Even the Student Council Has its Holes! TV Anime Reveals October 3 Debut in Main Promo Video
-Sat, 22 Aug 2026 05:57:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/even-the-student-council-has-its-holes-tv-anime-reveals-october-3-debut-in-main-promo-video/.240834
+### J-Novel Club Licenses 10 Light Novels, 1 Manga
+Sat, 22 Aug 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/j-novel-club-licenses-10-light-novels-1-manga/.240812
 
-More staff, opening theme artist also announced
+Company also reveals 5 print releases
 
-### All the News and Reviews from Anime NYC 2026
-Sat, 22 Aug 2026 02:39:38 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/.240809
+### Smoking Behind the Supermarket with You ‒ Episode 7
+Sat, 22 Aug 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-7/.240840
 
-Thursday, August 20 News and Interest Fool Night Anime's Teaser Reveals More Cast, November 26 Worldwide Netflix Debut Cyberpunk Edgerunners 2 Anime's...
+While this episode isn’t expanding the scope of the show by any means, it is making me consider my own life and looks better than I’ve come to expect while doing so!
 
-### Tokyopop Licenses 2 New Manhwa for 2027 Release
-Sat, 22 Aug 2026 02:13:07 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/tokyopop-licenses-2-new-manhwa-for-2027-release/.240831
+### Young Ladies Don't Play Fighting Games ‒ Episode 7
+Sat, 22 Aug 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-7/.240839
 
-Additional details on 2 manhwa, including exact release dates, will be announced later
+At this point, we got a small handful of rivalries building up, and I’m 100% here for it.
 
 ## Crunchyroll News
 

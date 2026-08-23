@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-22T16:58:56.245Z
+# AI — harvested 2026-08-23T05:06:13.610Z
 
 ## OpenAI
 
@@ -6,8 +6,7 @@ _Nothing in the last 48 hours._
 
 ## Hugging Face
 
-### Measuring benchmark optimization in speech recognition
-Fri, 21 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/asr-benchmark-optimization
+_Nothing in the last 48 hours._
 
 ## Google DeepMind
 

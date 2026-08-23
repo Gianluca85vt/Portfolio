@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-22T16:58:56.245Z
+# Tech — harvested 2026-08-23T05:06:13.610Z
 
 ## Ars Technica
 
@@ -64,6 +64,11 @@ Can you tell when someone nearby is wearing Meta AI glasses? As millions of peop
 
 ## The Verge
 
+### Doodle generative compositions in your browser with Musical Spirograph
+2026-08-22T13:00:00-04:00 — https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition
+
+So pretty. | Screenshot: Terrence O’Brien / The Verge I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to mathematical equations, generating hypotrochoids and epitrochoids. Those points pass through a series of concentric rings which trigger specific notes. Honestly, that alone is fun enough, but you can customize it quite a bit. There are six different virtual rotors to pick from, you can have up to three arms drawing … Read the full story at The Verge. ]]>
+
 ### W. Kamau Bell has the most practical ‘most indispensable tool’
 2026-08-22T11:00:00-04:00 — https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview
 
@@ -72,7 +77,7 @@ I’m just as confused as you. | Image: Aundre Larrow W. Kamau Bell is one of th
 ### Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent
 2026-08-22T09:41:01-04:00 — https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv
 
-The Echo Dot Max went from $99.99 to $119.99 overnight, while its sibling the Echo Dot jumped to $79.99 from $49.99. | Photo by Jennifer Pattison Tuohy / The Verge Citing "significant increases in memory and storage component costs," in a statement given to Fortune , Amazon has raised prices on Echos, Kindles, Fire TVs , and Eeros by up to 60 percent. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K Max also rose by over 40 percent to $84.99, and the base level Kindle now costs $149.99, a nearly 37 percent increase. Amazon's flagship Echo Dot Max smart speaker , which launched last year, now costs $119.99, up from $99.99. Apple increased the price of its comparable HomePod Mini this summer to $129 from $99.99, … Read the full story at The Verge. ]]>
+The Echo Dot Max went from $99.99 to $119.99 overnight, while its sibling the Echo Dot jumped to $79.99 from $49.99. | Photo by Jennifer Pattison Tuohy / The Verge Citing "significant increases in memory and storage component costs," Amazon has raised prices on Echos, Kindles, Fire TVs , and Eeros by up to 60 percent, as first reported by Fortune . The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K Max also rose by over 40 percent to $84.99, and the base level Kindle now costs $149.99, a nearly 37 percent increase. In a statement to The Verge , Kristy Schmidt, senior communications manager of Amazon's Devices & Services divison, said, "The consumer electronics industry is facing significant increases in memory an … Read the full story at The Verge. ]]>
 
 ### An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it
 2026-08-22T09:00:00-04:00 — https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review
@@ -108,11 +113,6 @@ Apple is laying off staff on the Siri and the Vision Pro teams, according to Blo
 2026-08-21T14:00:00-04:00 — https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal
 
 The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $60. The deal is only good for as long as supplies last at your local store, so you might want to plan on getting there no later than opening time to boost your chance of getting one. There are some limitations on how you can use the gift card. You can’t use them to buy other gift cards, like iTunes or Google Play credit, and they also can’t be used to buy prepaid or open-loop debit cards. However, they can be used in combination with other discounts or promotions on products from Best Buy, and any returns or cancellations you make will credit back to the gift card. We’ve found a number of deals during Best Buy’s 60th anniversary sale that you can apply that gift card to. The iPad Air M4 dropped to $649 , the lowest we’ve seen since the prices went up this summer, and the AirPods Max 2 are only $429 , $120 lower than their usual price. There are a variety of discounts on Windows and macOS laptops too, like this HP OmniBook X Flip 2-in-1 for $749.99 , a $450 discount from the typical price. ]]>
-
-### Walmart is finally adding Apple Pay and Google Pay
-2026-08-21T13:01:59-04:00 — https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch
-
-Walmart will soon allow you to pay for your items with Google Pay or Apple Pay. In an announcement on Friday , Walmart says it's going to bring tap-to-pay capabilities to "select" Walmart and Sam's Club locations starting August 24th, before rolling out support to all US stores by the end of 2026 and gas stations by mid-2027. This launch has been a long time coming, as Walmart was one of the last major retailers not to support Apple Pay or Google Pay. The retail giant even backed the launch of the short-lived CurrentC mobile payment service before rolling out Walmart Pay in 2016 , which lets you quickly check out with a QR code at its stores. … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,10 +178,25 @@ In a bizarre quality control issue, a gamer discovered protective film on the VR
 
 ## Phoronix
 
-### Longtime Linux CIFS/SMB3 Maintainer Steps Down
-Sat, 22 Aug 2026 11:14:41 -0400 — https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change
+### Longtime Linux CIFS/SMB3 Maintainer Passes Away
+Sat, 22 Aug 2026 20:31:41 -0400 — https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change
 
 There is a changing of the guard with Linux 7.3 as the maintainer of the Common Internet File System (CIFS) / SMB3 code within the Linux kernel. Longtime maintainer, principal Linux CIFS author, and current Microsoft employee Steve French has stepped down due to health reasons...
+
+### eCryptfs Sees Fixes For Potential Malicious Intent, Some Dating Back To Its 2006 Debut
+Sat, 22 Aug 2026 20:24:17 -0400 — https://www.phoronix.com/news/Linux-7.3-eCryptfs
+
+The eCryptfs stacked cryptographic filesystem implementation for the Linux kernel to transparently encrypt files saw a number of bug fixes for the Linux 7.3 kernel. A number of these bug fixes deal with potential maliciously-crafted data and vulnerable going back to the 2006 introduction of eCryptfs as this option known for its use on Ubuntu home directory encryption and Chrome OS...
+
+### Redox OS Switches To EEVDF-Based Scheduler For 2.6x Throughput
+Sat, 22 Aug 2026 15:42:00 -0400 — https://www.phoronix.com/news/Redox-OS-Goes-EEVDF
+
+The Rust-written, from-scratch Redox OS operating system has switched to using an EEVDF based scheduler design. In doing so they are promoting a 2.6x increase in throughput and a 782x improvement in fairness...
+
+### Apple HFS / HFS+ File-System Support Continues Seeing Fixes With Linux 7.3
+Sat, 22 Aug 2026 15:01:47 -0400 — https://www.phoronix.com/news/Apple-HFS-Linux-7.3
+
+In early 2025 it was being discussed to potentially drop the HFS and HFS+ file-system support with the code having been orphaned over a decade and becoming a maintenance burden. But that dismal outlook quickly turned around with some developers stepping up to maintain the old Apple file-system support. Over a year later, fortunately, it's turned out to be a success story with more HFS/HFS+ file-system fixes continuing to work their way into the mainline Linux kernel...
 
 ### Specially Crafted NTFS File-System Image Allows Root Access On Linux With NTFS3 Driver
 Sat, 22 Aug 2026 08:42:26 -0400 — https://www.phoronix.com/news/NTFS3-Vulnerability-For-Root
@@ -222,19 +237,4 @@ The highlight of this week's x86/mm pull request of changes for the Linux 7.3 ke
 Fri, 21 Aug 2026 21:01:36 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.8-More-Performance
 
 This Week in Plasma is out with its latest issue to highlight interesting developments in the trek towards Plasma 6.8...
-
-### OpenZFS 2.4.4 Released With Linux 7.2 Support, Dozens Of Fixes
-Fri, 21 Aug 2026 20:40:33 -0400 — https://www.phoronix.com/news/OpenZFS-2.4.4-Released
-
-OpenZFS 2.4.4 is out today as the newest stable point release for this ZFS file-system implementation for Linux and FreeBSD systems...
-
-### Wine 11.16 Released With VA-API Hardware Decoding, Better ARM64 Support
-Fri, 21 Aug 2026 18:12:01 -0400 — https://www.phoronix.com/news/Wine-11.16-Released
-
-Wine 11.16 is out today as the newest bi-weekly development release for this software enabling Windows games and applications to run on Linux and other platforms...
-
-### Proton 11.0-2 Enables More Titles With Steam Play / Linux Gaming
-Fri, 21 Aug 2026 17:14:07 -0400 — https://www.phoronix.com/news/Proton-11.0-2
-
-Just in time for those that enjoy their Linux / Steam Play gaming on weekends, Valve and CodeWeavers today released Proton 11.0-2 as the newest stable release of this Wine 11.0 downstream that powers Steam Play for running Windows games gracefully on Linux...
 

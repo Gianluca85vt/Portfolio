@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-22T16:58:56.245Z
+# Games — harvested 2026-08-23T05:06:13.610Z
 
 ## Eurogamer
 
@@ -99,16 +99,26 @@ Fri, 21 Aug 2026 08:06:41 +0000 — https://www.gamesindustry.biz/riot-games-sun
 
 Riot Games will end active development of its free-to-play fighting game 2XKO in December. Read more
 
-### Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live
-Thu, 20 Aug 2026 19:19:08 +0000 — https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live
-
-In a press pre-briefing ahead of next week's Gamescom conference, Geoff Keighley has shed some light on the process of how trailers are selected for the Opening Night Live digital showcase, which will take place on Tuesday. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### GTA 6 Leaks Prompt Fans to Bring Out the Memes as Netflix Puts a Brave Face on Things
+Sat, 22 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-leaks-prompt-fans-to-bring-out-the-memes-as-netflix-puts-a-brave-face-on-things
+
+"How many days?". Rockstar is feverishly hunting for a leaker who appears to have a playable build of GTA 6 . As we’ve reported in a repeatedly updated article , new gameplay footage is appearing daily from what appears to be a recent and fully working version of the eagerly anticipated PS5 game. Read the full article on pushsquare.com
+
+### Furious PS5 Players Unplug Their Consoles in Protest as Blackout Gets Underway
+Sat, 22 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/furious-ps5-players-unplug-their-consoles-in-protest-as-blackout-gets-underway
+
+Hello darkness my old friend. Irate PS5 players have started unplugging their consoles all around the world, as a protest against Sony gets underway. The blackout – technically scheduled to start at 7pm local time, but already being observed by many participants – is designed to reduce the Japanese giant’s active users, a key performance metric for the company. Read the full article on pushsquare.com
+
+### Sony s Live Service Strategy May Have Failed, But Helldivers 2 Has Been a Monstrous Hit
+Sat, 22 Aug 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/08/sonys-live-service-strategy-may-have-failed-but-helldivers-2-has-been-a-monstrous-hit
+
+One of PlayStation's biggest games ever. Helldivers 2 is one of the most played PlayStation games ever made. Sony’s confirmed in a corporate blog post that the Arrowhead outing has now attracted over 22.9 million players since launching in 2024 – and that number’s accurate prior to its recent addition to PS Plus Extra . Read the full article on pushsquare.com
 
 ### Feature: I Travelled 8,000km, from the UK to China, to Play a PS5 Game Set in London
 Sat, 22 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/features/i-travelled-8000km-from-the-uk-to-china-to-play-a-ps5-game-set-in-london
@@ -119,6 +129,11 @@ Featuring pandas, hot pot, and Sichuan opera. When I first heard word that Chine
 Sat, 22 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-24th-30th-august
 
 Metal Gear Solid! Aliens! Star Wars! A Plague Tale! An absolutely gigantic week awaits on the PS5 this time, with major titles like Resonance: A Plague Tale Legacy and Star Wars Zero Company vying for your attention. Other noteworthy games next week include Aliens: Fireteam Elite 2 and Metal Gear Solid Master Collection Vol 2 . Read the full article on pushsquare.com
+
+### Guide: All PS Plus Games Available Now
+Sat, 22 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/guides/all-ps-plus-games-available-now
+
+Every PS Plus game, updated in one place. We’re tracking every PS Plus game available now, so you always know exactly what’s included in your tier of Sony’s subscription service. This page lists all current PS Plus Essential , PS Plus Extra , and PS Plus Premium games across PS5 and PS4 , alongside upcoming additions and confirmed expiry dates – so you never miss out. Read the full article on pushsquare.com
 
 ### Talking Point: What Are You Playing This Weekend? - Issue 647
 Sat, 22 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-647
@@ -149,26 +164,6 @@ The hunt for Cyberleek. As you would expect, publisher Take-Two is clearly not b
 Fri, 21 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro
 
 Console footage shared online. Rebel Wolves has announced the graphical modes you can pick between in The Blood of Dawnwalker , and the standout news is that neither of the two settings provided offers 60 frames-per-second support on base PS5 or PS5 Pro. On both base PS5 and PS5 Pro, there are the same two modes to choose from: Read the full article on pushsquare.com
-
-### Guide: Call of Duty: Modern Warfare 4 Beta: Start Times, How to Get Early Access, and What s Included
-Fri, 21 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included
-
-All you need to know about the Modern Warfare 4 beta. Activision and Infinity Ward are giving fans a chance to play upcoming shooter Call of Duty: Modern Warfare 4 early via a big open beta test. With more content than any previous Call of Duty beta before it, you'll be able to sample various aspects of the FPS, including its multiplayer as well as a mission from the single player campaign. In this Call of Duty: Modern Warfare 4 beta guide, we're going to outline all the details you need to know, including start times, how to get Early Access, and what's included . Read the full article on pushsquare.com
-
-### PS5 Console Exclusive Phantom Blade Zero Poised for Gargantuan Launch
-Fri, 21 Aug 2026 12:15:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-console-exclusive-phantom-blade-zero-poised-for-gargantuan-launch
-
-Sharpen your swords. There’s a reason Sony is backing Phantom Blade Zero , a console exclusive, hard . The game is shaping up to be the biggest Chinese release since Black Myth Wukong , and while that was likely a once-in-a-generation phenomenon, estimates from Alinea Analytics predict it may have already sold 300k copies via pre-orders on Steam alone. Read the full article on pushsquare.com
-
-### Great Games Belong in Your Collection, Not Just Your Library : Retailer Promotes Physical Revival with Reprinted PS4 Lineup
-Fri, 21 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/great-games-belong-in-your-collection-not-just-your-library-retailer-promotes-physical-revival-with-reprinted-ps4-lineup
-
-No disc, no buy. Import retailer Play Asia hopes you’ll keep the “no disc, no buy” energy with its Physical Revival campaign, underway now. The site has assembled a curated collection of physical PS4 games , reprinted and back in stock “for collectors, fans, and anyone who believes great games belong on the shelf”. Read the full article on pushsquare.com
-
-### Onimusha: Way of the Sword May Be Another PS5 Capcom Hit as It Crosses 2 Million Wishlists
-Fri, 21 Aug 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/08/onimusha-way-of-the-sword-may-be-another-ps5-capcom-hit-as-it-crosses-2-million-wishlists
-
-Samurai games fest. Between Resident Evil Requiem , Pragmata , and Monster Hunter Stories 3 , Japanese publisher Capcom has had a super strong 2026, and it looks like its final big game launch of the year could round things out very nicely indeed. Onimusha: Way of the Sword is set to arrive on 4th September, 2026, and while there have been remasters and other offshoots over the years, it will be the first major game in the series since 2006's Onimusha: Dawn of Dreams . Read the full article on pushsquare.com
 
 ## Game Developer
 
