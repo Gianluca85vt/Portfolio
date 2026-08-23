@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="PS5 discs end in 2028, licensed not sold">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#5A0F22"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- a disc, half dissolved into a lock -->
+  <g transform="translate(940,190)" opacity="0.16">
+    <circle r="150" fill="none" stroke="#FFFFFF" stroke-width="10"/>
+    <circle r="42" fill="none" stroke="#FFFFFF" stroke-width="10"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="90" y="160" font-size="26" letter-spacing="6" fill="#FFFFFF" fill-opacity="0.55">PLAYSTATION · DISCS END 2028</text>
+    <text x="90" y="290" font-size="92" font-weight="900" fill="#FFFFFF" font-family="Arial Black, Arial, Helvetica, sans-serif">LICENSED,</text>
+    <text x="90" y="390" font-size="92" font-weight="900" fill="#FFFFFF" font-family="Arial Black, Arial, Helvetica, sans-serif">NOT SOLD</text>
+    <text x="90" y="450" font-size="32" fill="#FFFFFF" fill-opacity="0.5">85% digital · 15% physical, FY2025</text>
+  </g>
+</svg>
