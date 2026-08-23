@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-23T08:00:19.600Z
+# Games — harvested 2026-08-23T10:58:11.332Z
 
 ## Eurogamer
+
+### Arc Raiders' fifth Expedition will be its last until early 2027
+Sun, 23 Aug 2026 10:43:11 +0000 — https://www.eurogamer.net/arc-raiders-expedition-5-pause-2027-changes
+
+Embark Studios has confirmed that Arc Raiders ' fifth Expedition, opening next month, will be the last one players see until early 2027. Read more
+
+### What's your video game happy place?
+Sun, 23 Aug 2026 09:04:41 +0000 — https://www.eurogamer.net/optimism-week-big-question-video-game-happy-places
+
+We all have our happy places: somewhere - real or otherwise - to escape, relax, and replenish away from the stresses of the modern world. Perhaps yours is in nature, lost in the reverie of a spirited hike up a windy hill, or sweatily squatting your cares away amid the pounding Daruda Sandstorms of your local gym. Perhaps your demands are simpler: the call of a good book and an escape into the realm of imagination, or the familiar celluloid embrace of a favourite film, or - as I finally drag this intro into relevance - the soothing rhythms of a beloved video game. And hopefully it's the last one, because that's what we're talking about today. Read more
 
 ### Modern Warfare 4 beta's first update is live, adding a new map, mode, and toned-down footsteps
 Sat, 22 Aug 2026 16:11:35 +0000 — https://www.eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance
@@ -52,16 +62,6 @@ Fri, 21 Aug 2026 13:22:13 +0000 — https://www.eurogamer.net/limited-edition-re
 
 That fancy green see-through Xbox Series X - a limited edition creation for Xbox's 25th anniversary - reportedly releases on Black Friday and costs as much as a PS5 Pro . Read more
 
-### Careful, the new Plague Tale game appears to have leaked a week ahead of launch
-Fri, 21 Aug 2026 13:01:53 +0000 — https://www.eurogamer.net/plague-tale-resonance-leaked-pc
-
-Plague Tale fans beware: the new game, Resonance: A Plague Tale Legacy, appears to have been cracked and shared online a week before release. It means spoilers may start appearing online, so be careful what you watch and read. Read more
-
-### The No Man's Sky players building utopia at the end of the universe
-Fri, 21 Aug 2026 12:15:54 +0000 — https://www.eurogamer.net/no-mans-sky-players-building-utopia-optimism-week
-
-In the distant reaches of a doomed universe, perpetually 16 minutes from total destruction, something wonderful is happening. Across three galaxies and thousands star systems, a thriving community has formed. This is No Man's Sky 's Galactic Hub Project - part scientific endeavour, part social gathering - and in the 10 years since its foundation, it's continued to grow. It's a story of collaboration and kindness, beginning at a time when positivity was low. Read more
-
 ## GamesIndustry.biz
 
 ### The opportunity cost of Sony's live service pivot is enormous | Opinion
@@ -88,16 +88,6 @@ Team17 is no longer publishing Observer Interactive's debut title Rover's Tale .
 Fri, 21 Aug 2026 11:00:00 +0000 — https://www.gamesindustry.biz/why-xboxs-console-ads-could-be-a-good-thing-for-gaming-opinion
 
 Virginie Chesnais is CMO at the ad tech analytics platform Happydemics . Read more
-
-### Roblox makes three of its AI safety tools open source
-Fri, 21 Aug 2026 10:35:36 +0000 — https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source
-
-Roblox is open-sourcing three of its AI safety models via the Robust Open Online Safety Tools Model Community (ROOST). Read more
-
-### Riot Games sunsets active development on 2XKO as it costs "substantially more to operate than it brings in"
-Fri, 21 Aug 2026 08:06:41 +0000 — https://www.gamesindustry.biz/riot-games-sunsets-active-development-on-2xko-as-it-costs-substantially-more-to-operate-than-it-brings-in
-
-Riot Games will end active development of its free-to-play fighting game 2XKO in December. Read more
 
 ## VG247
 

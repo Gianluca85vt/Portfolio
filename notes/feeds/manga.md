@@ -1,6 +1,11 @@
-# Manga — harvested 2026-08-23T08:00:19.600Z
+# Manga — harvested 2026-08-23T10:58:11.332Z
 
 ## Anime News Network
+
+### Murciélago TV Anime Debuts in January 2027
+Sun, 23 Aug 2026 04:20:04 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/murcielago-tv-anime-debuts-in-january-2027/.240872
+
+HIDIVE to exclusively stream anime in U.S., Canada, U.K., Australia, New Zealand
 
 ### The Moon on the Rainy Night Anime Listed for 2027
 Sun, 23 Aug 2026 00:54:47 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-23/the-moon-on-the-rainy-night-anime-listed-for-2027/.240854
@@ -56,11 +61,6 @@ Company also reveals 5 print releases
 Sat, 22 Aug 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-7/.240840
 
 While this episode isn’t expanding the scope of the show by any means, it is making me consider my own life and looks better than I’ve come to expect while doing so!
-
-### Young Ladies Don't Play Fighting Games ‒ Episode 7
-Sat, 22 Aug 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-7/.240839
-
-At this point, we got a small handful of rivalries building up, and I’m 100% here for it.
 
 ## Crunchyroll News
 

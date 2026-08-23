@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-08-23T08:00:19.600Z
+# Film & TV — harvested 2026-08-23T10:58:11.332Z
 
 ## Variety
+
+### One Piece Season 3 Casts Its Koza, Toto, Pell and Chaka
+Sun, 23 Aug 2026 10:00:00 +0000 — https://variety.com/2026/tv/news/one-piece-season-3-cast-koza-toto-pell-chaka-1236840397/
+
+Netflix has added four to the cast of “One Piece Season 3, casting the roles of Koza, Toto, Pell and Chaka. Emilio Sakraya (“Rheingold”) will play Koza, Omid Abtahi (The Mandalorian”) will play Toto, Jamie Ward (“The Gentlemen”) will play Pell and Nabeel Khan (“Mandela: Long Walk to Freedom”) plays Chaka. Returning for the third [ ]
+
+### Venice-Bound Meteorite, Debut Feature From Colombia s Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)
+Sun, 23 Aug 2026 08:35:00 +0000 — https://variety.com/2026/film/global/venice-meteorite-sebastian-munera-morethan-films-1236840956/
+
+MoreThan Films has acquired Colombian filmmaker Sebastián Múnera s film Meteorite, which will have its world premiere in Venice Critics Week (Sept. 2-12). The film follows Tefa and Nia, who live in a small town near the Magdalena River, where they raise Nia’s young nephew. Nia persuades Tefa to join her in smuggling cellphones into the [ ]
+
+### Upendra Joins Cast as Teja Sajja, Shanaya Kapoor, Suparn S. Varma s Sequel Titled Zombie Reddy Nxt Lvl (EXCLUSIVE)
+Sun, 23 Aug 2026 08:08:40 +0000 — https://variety.com/2026/film/news/upendra-teja-sajja-shanaya-kapoor-zombie-reddy-nxt-lvl-1236840852/
+
+Kannada cinema superstar Upendra has joined the cast of Zombie Reddy Nxt Lvl, the sequel to the hit Zombie Reddy, in a powerhouse role, India s People Media Factory has confirmed. The announcement, made on star Teja Sajja s birthday, also confirms the film s cast and creative team. The adventure zombie action-comedy marks the South Indian cinema [ ]
 
 ### One Battle After Another and Marty Supreme Take Top Honors at Location Managers Guild International Awards
 Sun, 23 Aug 2026 03:22:37 +0000 — https://variety.com/2026/artisans/news/location-managers-guild-international-awards-2026-winners-1236840833/
@@ -36,21 +51,6 @@ Joachim Trier’s Oscar winner “Sentimental Value” became this year’s bigg
 Sat, 22 Aug 2026 19:22:33 +0000 — https://variety.com/2026/film/news/mark-ruffalo-response-paramount-merger-antisemitic-1236840844/
 
 Mark Ruffalo has fired back at Paramount after the company slammed the actor as “antisemitic” for accusing David and Larry Ellison of “powering some of the most destructive and inhuman forces in the world.” “The accusation that I am antisemitic is appalling and fundamentally dishonest, Ruffalo wrote on X Saturday morning. “Criticizing the actions of [ ]
-
-### Why Do We Love Spider-Man So Much?
-Sat, 22 Aug 2026 18:02:17 +0000 — https://variety.com/2026/film/columns/why-do-we-love-spider-man-so-much-tom-holland-1236840784/
-
-Why does everyone love Spider-Man so much? When “Spider-Man: No Way Home” came out at the end of 2021, it made an insane amount of money ($814 million in the U.S. alone), blasting away any vestige of that era’s comic-book-movie fatigue. I thought the reason for the film’s mind-boggling success was obvious: It had three [ ]
-
-### National Treasure 3 Is Happening, Says Franchise Director Jon Turteltaub
-Sat, 22 Aug 2026 17:53:31 +0000 — https://variety.com/2026/film/news/national-treasure-3-nicolas-cage-jon-turteltaub-1236840826/
-
-“National Treasure” director Jon Turteltaub says a third film is happening. “I have not said anything before this, but you deserve to have the scoop,” Turteltaub said at a live taping of the “National Treasure Hunt” podcast (via The Philadelphia Inquirer). He added that the audience was “the first people I have said this out [ ]
-
-### How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode
-Sat, 22 Aug 2026 17:05:00 +0000 — https://variety.com/2026/artisans/focus/abbott-elementary-phillies-game-episode-1236840283/
-
-They say that every trip to watch a ballgame is a different experience: a chance to see stolen bases and home runs; antics from the bleachers that end up on kiss cams and dance cams; fly balls soaring into the stands; or your daily caloric intake from hot dogs and popcorn. This unpredictability can be [ ]
 
 ## The Hollywood Reporter
 
@@ -106,6 +106,11 @@ The New York native also was memorable as a Resistance fighter on ‘V’ and as
 
 ## Deadline
 
+### One Piece: The Battle Of Alabasta Adds Four To Season 3 Cast
+Sun, 23 Aug 2026 10:00:00 +0000 — https://deadline.com/2026/08/one-piece-the-battle-of-alabasta-season-3-four-cast-1237047796/
+
+Emilio Sakraya (Rheingold, Those About to Die, Fortitude), Omid Abtahi (The Mandalorian, American Gods), Jamie Ward (The Gentlemen, His Dark Materials) and Nabeel Khan (Mandela: Long Walk to Freedom, Strike Back) have been tapped for recurring roles in One Piece: The Battle of Alibasta, the third season of the Netflix series. The castings were announced [ ]
+
 ### Karoline Leavitt Announces Post-White House Job
 Sun, 23 Aug 2026 04:06:16 +0000 — https://deadline.com/2026/08/karoline-leavitt-post-white-house-job-1237048199/
 
@@ -160,9 +165,4 @@ Although Rosie O Donnell s late-night hosting run has come to an end, she graced
 Sat, 22 Aug 2026 16:03:52 +0000 — https://deadline.com/2026/08/sarajevo-film-festival-2026-awards-winners-1237048083/
 
 The 32nd Sarajevo Film Festival wrapped up on Friday, with Austria taking home the top prize. During the awards ceremony at National Theatre Sarajevo, the jury awarded Austrian director Sandra Wollner s Everytime with the Heart of Sarajevo for Best Narrative Feature Film, which comes with a prize of 16,000 euros. Moments of cinematic grace float [ ]
-
-### Sony Double Feature At The B.O.: Spider-Man: Brand New Day $36M+, Insidious 6 $23M+ Opening Saturday AM Update
-Sat, 22 Aug 2026 15:14:00 +0000 — https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/
-
-SATURDAY AM WRITETHRU after Friday afternoon update: Refresh for more and chart This weekend belongs to Sony, or at least the top two spots at the box office do, with Marvel Studios Spider-Man: Brand New Day s fourth frame of $36.5 million at 4,006 sites and Blumhouse/Atomic Monster/Stage 6 s Insidious: Out of the Further opening to $23.7M [ ]
 
