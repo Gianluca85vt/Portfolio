@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-08-23T10:58:11.332Z
+# Film & TV — harvested 2026-08-23T13:58:14.879Z
 
 ## Variety
+
+### ‘Seduction,’ Helmed by Zelito Viana and Marcos Palmeira, to Premiere at the Inffinito Fest in Miami (EXCLUSIVE)
+Sun, 23 Aug 2026 13:39:10 +0000 — https://variety.com/2026/film/global/seduction-zelito-viana-marcos-palmeira-premiere-miami-h2o-1236840944/
+
+GRAMADO, Brazil “Seduction” ( Sedução ), a feature set in the Amazon Rainforest region and helmed by Zelito Viana and Marcos Palmeira, will have its world premiere on Sept. 11 at the 30th edition of the Inffinito Brazilian Film Festival in Miami. H2O is also releasing in local theaters Miguel Faria Jr.’s doc, “Tom Jobim [ ]
+
+### Dr. Dre Says the Only People Who See AI as a Threat Are Those Who Have Trouble Creating
+Sun, 23 Aug 2026 13:20:01 +0000 — https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/
+
+Dr. Dre, the legendary hip-hop producer and performer, sees AI as another tool in the music-tech toolbox akin to synthesizers and asserted that only people who have trouble creating are afraid of AI. Dre, founder of the Aftermath record label and co-founder and CEO of Apple s Beats, said that he doesn t see AI as [ ]
+
+### Skintown Review: A Breezy, Loved-Up, Drugged-Up Guide to Getting Into Trouble in The Troubles
+Sun, 23 Aug 2026 11:17:05 +0000 — https://variety.com/2026/film/reviews/skintown-review-1236839532/
+
+Nostalgia, like ecstasy, is a hell of a drug and Kieron J. Walsh s warm-hearted, hot-headed Skintown is buzzing on both. A more polite brother to the Kneecap boys and a more cautious cousin to those Derry Girls still, the Fermanagh-set friendship comedy sends fizzy, sweetly chemical energy coursing through a rave-romanticizing riff on the coming-of-age [ ]
 
 ### One Piece Season 3 Casts Its Koza, Toto, Pell and Chaka
 Sun, 23 Aug 2026 10:00:00 +0000 — https://variety.com/2026/tv/news/one-piece-season-3-cast-koza-toto-pell-chaka-1236840397/
@@ -36,21 +51,6 @@ Dale Morris, one of the leading names in the ranks of Nashville music managers, 
 Sat, 22 Aug 2026 21:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-rolly-romero-vs-teofimo-lopez-ppv-boxing-live-online-1236838232/
 
 In an epic bout, Premier Boxing Champions travels to Nevada this weekend, as Las Vegas-native Rolando Rolly Romero (17-2-0) defends his WBA welterweight title against Brooklyn-born boxer Teofimo Lopez (22-2-0) in a high-profile match. Romero vs. Lopez takes place on Saturday, Aug. 22 at T-Mobile Arena in Las Vegas, Nevada with a start time of [ ]
-
-### Taylor Sheridan Accused of Stealing Yellowstone From 2016 Pitch in Copyright Lawsuit
-Sat, 22 Aug 2026 19:56:21 +0000 — https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/
-
-Writer Lauren J. Salkin has accused Taylor Sheridan of stealing his marquee series “Yellowstone” from her 2016 pitch in a lawsuit filed on Friday. 101 Studios, Paramount and Elevate Entertainment are also listed as defendants. Reps for Sheridan, 101 Studios, Paramount and Elevate Entertainment did not immediately respond to Variety’s request for comment. In the [ ]
-
-### ‘Sentimental Value’ Sweeps Amanda Awards
-Sat, 22 Aug 2026 19:45:29 +0000 — https://variety.com/2026/awards/awards/sentimental-value-amanda-awards-one-battle-after-another-1236840778/
-
-Joachim Trier’s Oscar winner “Sentimental Value” became this year’s biggest Amanda Awards winner, taking home eight statuettes, including the top prize for best Norwegian film. Trier was also awarded for directing, as well as his screenplay written with longtime collaborator Eskil Vogt. “There’s a lot of stuff going on when you make and release films, [ ]
-
-### Mark Ruffalo Fires Back After Paramount Slammed His Merger Attack as Antisemitic : Appalling and Fundamentally Dishonest
-Sat, 22 Aug 2026 19:22:33 +0000 — https://variety.com/2026/film/news/mark-ruffalo-response-paramount-merger-antisemitic-1236840844/
-
-Mark Ruffalo has fired back at Paramount after the company slammed the actor as “antisemitic” for accusing David and Larry Ellison of “powering some of the most destructive and inhuman forces in the world.” “The accusation that I am antisemitic is appalling and fundamentally dishonest, Ruffalo wrote on X Saturday morning. “Criticizing the actions of [ ]
 
 ## The Hollywood Reporter
 

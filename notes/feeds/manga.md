@@ -1,6 +1,26 @@
-# Manga — harvested 2026-08-23T10:58:11.332Z
+# Manga — harvested 2026-08-23T13:58:14.879Z
 
 ## Anime News Network
+
+### From Visual Novels to RPGs: An Adult Game for Every Gamer
+Sun, 23 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-08-21/from-visual-novels-to-rpgs-an-adult-game-for-every-gamer/.240527
+
+Looking for something a little more <i>adult</i> in your games? Lucas has a list with something for everyone.
+
+### Berserk of Gluttony 2nd Season Anime Debuts in 2027
+Sun, 23 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/berserk-of-gluttony-2nd-season-anime-debuts-in-2027/.240874
+
+Fate Graphite's voice actor Ryōta Ōsaka also posts video message to fans
+
+### Live-Action One Piece Season 3 Reveals 4 New Cast Members
+Sun, 23 Aug 2026 06:56:32 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/live-action-one-piece-season-3-reveals-4-new-cast-members/.240883
+
+Emilio Sakraya, Omid Abtahi, Nabeel Khan, Jamie Ward join cast of <cite>One Piece: The Battle of Alabasta</cite>
+
+### One Piece Announces 2 New Anime Films
+Sun, 23 Aug 2026 06:39:58 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/one-piece-announces-2-new-anime-films/.240878
+
+<cite>ONE PIECE FILM GOD VALLEY</cite> opens in summer 2027, <cite>ONE PIECE FILM BAAD</cite> opens in 2029
 
 ### Murciélago TV Anime Debuts in January 2027
 Sun, 23 Aug 2026 04:20:04 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/murcielago-tv-anime-debuts-in-january-2027/.240872
@@ -41,26 +61,6 @@ DLC previewed in teaser
 Sat, 22 Aug 2026 18:58:11 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/haikyu-anime-bakemono-tachi-special-unveils-teaser-key-visual/.240850
 
 2nd <i>Haikyū!!</i> anime film also reveals key visual
-
-### The Elusive Samurai Season 2 ‒ Episode 6
-Sat, 22 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-6/.240847
-
-This diminutive agent of lies and chaos is <i>The Elusive Samurai</i>'s very own Baby Herman.
-
-### Thunder 3 ‒ Episode 7
-Sat, 22 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-7/.240842
-
-<i>Thunder 3</i> is easily the worst CG anime since <i>EX-ARM</i>, and the worst manga adaptation since the travesty that befell <i>Übel Blatt</i>.
-
-### J-Novel Club Licenses 10 Light Novels, 1 Manga
-Sat, 22 Aug 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-22/j-novel-club-licenses-10-light-novels-1-manga/.240812
-
-Company also reveals 5 print releases
-
-### Smoking Behind the Supermarket with You ‒ Episode 7
-Sat, 22 Aug 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-7/.240840
-
-While this episode isn’t expanding the scope of the show by any means, it is making me consider my own life and looks better than I’ve come to expect while doing so!
 
 ## Crunchyroll News
 

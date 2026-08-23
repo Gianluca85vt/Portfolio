@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-23T10:58:11.332Z
+# Games — harvested 2026-08-23T13:58:14.879Z
 
 ## Eurogamer
+
+### Miyazaki explains how The Duskbloods plans to protect newcomers from its best players
+Sun, 23 Aug 2026 11:43:40 +0000 — https://www.eurogamer.net/the-duskbloods-skill-based-matchmaking-hidetaka-miyazaki
+
+FromSoftware is stepping into one of multiplayer gaming's most divisive arguments with The Duskbloods, confirming the upcoming Switch 2 exclusive will lean on skill-based matchmaking to keep newcomers safe from its most battle-hardened players. Read more
+
+### Sony sends PlayStation users a reminder they don't own their digital games just as a fan boycott over ending discs kicks off
+Sun, 23 Aug 2026 11:14:16 +0000 — https://www.eurogamer.net/playstation-terms-of-service-reminder-psblackout-protest
+
+PlayStation users have received an unprompted reminder of exactly what they do and don't own on the platform, days before a planned boycott over Sony's decision to end new PlayStation discs from 2028. Read more
 
 ### Arc Raiders' fifth Expedition will be its last until early 2027
 Sun, 23 Aug 2026 10:43:11 +0000 — https://www.eurogamer.net/arc-raiders-expedition-5-pause-2027-changes
@@ -52,16 +62,6 @@ Fri, 21 Aug 2026 15:55:19 +0000 — https://www.eurogamer.net/take-two-legal-act
 
 The hunt for the GTA 6 leaker is on. Take-Two has reportedly filed multiple subpoenas in a federal district court to force information out of Microsoft and Discord related to anything - OneDrive data, Xbox accounts, or Discord users - that might reveal who leaked GTA 6 gameplay videos online. Read more
 
-### The second season of Netflix's Cyberpunk Edgerunners anime releases this year
-Fri, 21 Aug 2026 14:29:56 +0000 — https://www.eurogamer.net/cyberpunk-edgerunners-release-date-october-teaser-trailer
-
-The second season of Netflix anime Cyberpunk Edgerunners has a release date, and it's being released this year. We also have a new trailer giving us a peek at the 10-episode run. Read more
-
-### That limited edition green see-through Xbox Series X reportedly costs as much as a PS5 Pro, and releases on Black Friday
-Fri, 21 Aug 2026 13:22:13 +0000 — https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price
-
-That fancy green see-through Xbox Series X - a limited edition creation for Xbox's 25th anniversary - reportedly releases on Black Friday and costs as much as a PS5 Pro . Read more
-
 ## GamesIndustry.biz
 
 ### The opportunity cost of Sony's live service pivot is enormous | Opinion
@@ -74,26 +74,21 @@ Fri, 21 Aug 2026 14:00:36 +0000 — https://www.gamesindustry.biz/ign-entertainm
 
 IGN Entertainment is hosting a Women in Gaming networking breakfast at Gamescom, on the morning of Wednesday 26th August. The event is supported by GamesIndustry.biz , and will take place in the Dorint Hotel am Heumarkt K&ouml;ln from 8.30-10.30. Read more
 
-### Compulsion Games officially separates from Xbox – "The team told me we would rather eat rocks and drink gasoline than be split up"
-Fri, 21 Aug 2026 13:52:33 +0000 — https://www.gamesindustry.biz/compulsion-games-officially-separates-from-xbox-the-team-told-me-we-would-rather-eat-rocks-and-drink-gasoline-than-be-split-up
-
-Compulsion Games is now independent from Xbox, with management acquiring both the studio and its staff. Read more
-
-### Rover's Tale developer Observer Interactive parts ways with Team17 as it moves to self-publishing
-Fri, 21 Aug 2026 13:26:55 +0000 — https://www.gamesindustry.biz/rovers-tale-developer-observer-interactive-parts-ways-with-team17-as-it-moves-to-self-publishing
-
-Team17 is no longer publishing Observer Interactive's debut title Rover's Tale . Read more
-
-### Why Xbox's console ads could be a good thing for gaming | Opinion
-Fri, 21 Aug 2026 11:00:00 +0000 — https://www.gamesindustry.biz/why-xboxs-console-ads-could-be-a-good-thing-for-gaming-opinion
-
-Virginie Chesnais is CMO at the ad tech analytics platform Happydemics . Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Sony Reminds PS5 Owners Their Digital Games Are Licensed, Not Sold
+Sun, 23 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/sony-reminds-ps5-owners-their-digital-games-are-licensed-not-sold
+
+But Steam, Xbox, and Nintendo all say the same. What’s the old adage about once you dislike someone you pretty much despise everything they do? I think, for a vocal contingent on social media, Sony has found itself in that kind of trap lately. Read the full article on pushsquare.com
+
+### Feature: Going Platinum: I Only Played Sound Shapes Because I Wanted at Least One PS Vita Plat
+Sun, 23 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/features/going-platinum-i-only-played-sound-shapes-because-i-wanted-at-least-one-ps-vita-plat
+
+What have I become. Platinum Trophy #34: Sound Shapes Date Earned: 31st October 2021 Read the full article on pushsquare.com
 
 ### GTA 6 Leaks Prompt Fans to Bring Out the Memes as Netflix Puts a Brave Face on Things
 Sat, 22 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-leaks-prompt-fans-to-bring-out-the-memes-as-netflix-puts-a-brave-face-on-things
@@ -145,16 +140,6 @@ Fri, 21 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/08/next-m
 
 Get your gold claws out. Insomniac has announced its fourth PS5 game, Marvel's Wolverine , has gone gold ahead of release on 15th September 2026. It shared the news with a quick social media video featuring Logan with gold claws, and it's confirmed you can unlock them in the game. The phrase "going gold" means work on the 1.0 version of the game is now complete and can be pressed to PS5 discs. It's been confirmed the full 1.0 version of Marvel's Wolverine will be on the disc itself, but there shall be a day one patch via digital download on top. Read the full article on pushsquare.com
 
-### Take-Two Aims to Bring the Hammer Down on GTA 6 Leaker, Requests Help from Microsoft, Discord
-Fri, 21 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/take-two-aims-to-bring-the-hammer-down-on-gta-6-leaker-requests-help-from-microsoft-discord
-
-The hunt for Cyberleek. As you would expect, publisher Take-Two is clearly not best pleased about the recent leaks of GTA 6 . In its quest to bring the offending party to justice, the company has subpoenaed both Microsoft and Discord, requesting their participation in a legal crackdown on the person (or people) behind the Cyberleek moniker. Read the full article on pushsquare.com
-
-### The Blood of Dawnwalker Won t Have 60FPS Mode on PS5 or Even PS5 Pro
-Fri, 21 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro
-
-Console footage shared online. Rebel Wolves has announced the graphical modes you can pick between in The Blood of Dawnwalker , and the standout news is that neither of the two settings provided offers 60 frames-per-second support on base PS5 or PS5 Pro. On both base PS5 and PS5 Pro, there are the same two modes to choose from: Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak
@@ -166,9 +151,4 @@ Take-Two is racing to halt a series of GTA VI leaks from an entity known as "Cyb
 Fri, 21 Aug 2026 14:45:37 GMT — https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken
 
 We're chatting about AI and AI techniques, but it's also a conversation about the nature of work and the inherent value of AI in game development.
-
-### EA staff worries over Saudi buyout, Grand Theft Auto 6 leaks, and Peak's last major update - Patch Notes #66
-Fri, 21 Aug 2026 12:32:53 GMT — https://www.gamedeveloper.com/business/ea-staff-worries-over-saudi-buyout-grand-theft-auto-6-leaks-and-peak-s-last-major-update-patch-notes-66
-
-Plus: The Duskbloods sounds like a design shakeup for FromSoftware.
 
