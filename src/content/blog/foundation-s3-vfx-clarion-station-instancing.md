@@ -5,7 +5,6 @@ category: Film & TV
 author: teo-buffagni
 excerpt: Framestore and Rodeo FX have published their breakdown reels for Foundation season 3, between them covering nearly a thousand shots. The plot is the Mule's rise. The production story is a 5km space station rigged to actually rotate, and a pipeline built to survive it.
 cover: /img/blog/foundation-s3-vfx-clarion-station-instancing/shot-01.jpg
-draft: true
 ---
 
 **CGChannel** rounded up the breakdown reels for Foundation season 3 this
