@@ -4,7 +4,6 @@ date: 2026-08-23
 category: Games
 excerpt: Screen Burn's 18-minute reveal confirmed a first-person Silent Hill, a six-month PS5 timed exclusive and a lot of the series' trademark fog. The interesting part is why a studio running Unreal Engine 5, with no draw-distance problem to hide, still needs it.
 cover: /img/blog/silent-hill-townfall-fog-first-person-shift/shot-01.jpg
-draft: true
 ---
 
 Konami and developer Screen Burn (the studio formerly known as No Code, of
