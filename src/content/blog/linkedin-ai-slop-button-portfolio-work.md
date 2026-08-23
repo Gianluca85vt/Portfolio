@@ -4,7 +4,6 @@ date: 2026-08-23
 category: AI
 excerpt: A "Seems like AI slop" button has been clicked over a million times since July, and LinkedIn says it's already suppressing reach by 40%. Good news for a feed full of synthetic thought-leadership. Less good if what you post is a real render that happens to look too clean.
 cover: /img/blog/linkedin-ai-slop-button-portfolio-work/cover.svg
-draft: true
 ---
 
 LinkedIn shipped a "Seems like AI slop" button on 30 July, tucked into the three-dot menu
