@@ -60,11 +60,11 @@ to work things out.
 Hold that word. I want to come back to it.
 
 <figure>
-  <button class="video-embed" data-video="O9bOlQRjd6M" data-title="Mortal Shell II - Official Launch Trailer" type="button">
-    <img src="/img/blog/mortal-shell-2-reviews/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Still from the Mortal Shell II launch trailer" />
+  <button class="video-embed" data-video="zFBxlvKuHMg" data-title="Mortal Shell 2 Is A Fresh And Exciting Shake Up Of The Souls-like Formula - Review" type="button">
+    <img src="/img/blog/mortal-shell-2-reviews/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Still from GameSpot's Mortal Shell II video review" />
     <span class="play" aria-hidden="true"></span>
   </button>
-  <figcaption>The launch trailer, from Playstack's own channel. Nothing loads from YouTube until you press play.</figcaption>
+  <figcaption>GameSpot's video review — their 8 is one of the fifteen scores in the average below. Nothing loads from YouTube until you press play.</figcaption>
 </figure>
 
 ## Around thirty people made this
