@@ -1,10 +1,10 @@
-# Embargo watch — updated 2026-08-23
+# Embargo watch — updated 2026-08-24
 
 ## Lifting in the next 14 days
 
 | Title | Type | Embargo lifts | Release | Confirmed by |
 |---|---|---|---|---|
-| Ghost of Yotei (PC / expanded release) | Game | Thu 25 Sept 2026, 9am ET / 6am PT | 2 Oct 2026 | Firmly confirmed by ResetEra, NeoGAF, IconEra, Insider Gaming and MP1st threads, all dated this week — embargo lifts more than a week ahead of release, read as a confidence signal. About 4.5 weeks out. |
+| Ghost of Yotei (PC / expanded release) | Game | Thu 25 Sept 2026, 9am ET / 6am PT | 2 Oct 2026 | Firmly confirmed by ResetEra, NeoGAF, IconEra, Insider Gaming and MP1st threads, all dated the prior week — embargo lifts more than a week ahead of release, read as a confidence signal. About 4.5 weeks out. |
 
 ## Lifted in the last 3 days
 
@@ -18,10 +18,10 @@
 
 | Title | Type | Claimed date | Where the claim came from |
 |---|---|---|---|
-| The Blood of Dawnwalker | Game | Mon 31 Aug 2026, 5pm CEST / 11am ET / 8am PT — 3 days ahead of the 3 Sept release | Only one source found, the fan site dawnwalker.wiki. No major outlet (PC Gamer, IGN, Eurogamer, Push Square) has independently published this date yet despite otherwise heavy coverage of the game this week (console graphics-mode reveal, covered in our own [piece](/blog/blood-of-dawnwalker-no-60fps-two-worlds/)). Specific enough to be plausible, not sourced enough to call confirmed — recheck before the 31st. |
-| Marvel's Wolverine | Game | Full-review embargo still not announced; only the preview/impressions embargo (13 Aug 2026) is confirmed, ahead of the 15 Sept 2026 release | Multiple outlets (PC Gamer, Push Square, TechTimes, egw.news) confirm the 13 Aug preview embargo; checked again today, still nothing official on the full-review date. |
-| Grand Theft Auto VI | Game | No official embargo date. Release confirmed for 19 Nov 2026 (Rockstar's own newswire). Third-party estimates (based on the GTA 5 precedent of a ~2-week pre-launch embargo) guess late Oct/early Nov, but that is a guess, not a Rockstar statement. | Rockstar's newswire confirms the release date directly; the review-embargo date itself remains unannounced everywhere checked. Leaker "CyberLeek" escalated again on 20 Aug, posting clips claiming a full working build (Eurogamer, Tom's Hardware, GamesIndustry.biz, Push Square) — still leak activity, not an embargo signal, and Rockstar is pursuing DMCA takedowns. |
-| Call of Duty: Modern Warfare 4 | Game | No review-embargo date found. PC beta running now (weekend one live, weekend two adds Steam shader preloading); full release confirmed for 23 Oct 2026. | Activision's own blog and beta coverage (TweakTown, Neowin, Beebom, TechSpot) confirm beta and release timing; nothing on a review-embargo date yet. Adding to this list to track as release approaches. |
+| The Blood of Dawnwalker | Game | Mon 31 Aug 2026, 5pm CEST / 11am ET / 8am PT — 3 days ahead of the 3 Sept release | Still only sourced to the fan site dawnwalker.wiki as of today's recheck. No major outlet (PC Gamer, IGN, Eurogamer, Push Square) has independently published this date despite heavy ongoing coverage of the game (console 40fps-cap reveal, covered in our own [piece](/blog/blood-of-dawnwalker-no-60fps-two-worlds/)). Specific enough to be plausible, not sourced enough to call confirmed — recheck before the 31st. |
+| Marvel's Wolverine | Game | Full-review embargo still not announced; only the preview/impressions embargo (13 Aug 2026) is confirmed, ahead of the 15 Sept 2026 release | Multiple outlets (PC Gamer, Push Square, egw.news, GamesRadar+) confirm the 13 Aug preview embargo; Insomniac has since confirmed the game has gone gold, but nothing official yet on the full-review date. Checked again today, no change. |
+| Grand Theft Auto VI | Game | No official embargo date. Release confirmed for 19 Nov 2026 (Rockstar's own newswire). Third-party estimates (based on the GTA 5 precedent of a ~2-week pre-launch embargo) guess late Oct/early Nov, but that is a guess, not a Rockstar statement. | Rockstar's newswire confirms the release date directly; the review-embargo date itself remains unannounced everywhere checked, including today's recheck. Take-Two has escalated its legal response to the "CyberLeek" leaks — subpoenas against Microsoft and Discord reported this week — still a leak/legal story, not an embargo signal. |
+| Call of Duty: Modern Warfare 4 | Game | No review-embargo date found. PC beta running now (a day-one update already shipped, adjusting footstep audio and weapon balance); full release confirmed for 23 Oct 2026. | Activision's own blog and beta coverage confirm beta and release timing; nothing on a review-embargo date yet. Keeping on the list to track as release approaches. |
 
 Nothing new found for film or TV review embargoes this update. Checked again for
 major autumn 2026 releases — release-date and casting coverage exists but no
