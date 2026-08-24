@@ -15,7 +15,6 @@ scoreSources:
   - { outlet: GameSpot, score: 6 }
   - { outlet: Eurogamer, score: 6 }
   - { outlet: GameRant, score: 5 }
-draft: true
 excerpt: Game Freak spent thirty years making one thing. Beast of Reincarnation is the studio's first real-time action RPG, and the eight scores I could verify average out to a firm 7 — split almost exactly down the middle between critics who found something new and critics who found something unfinished.
 ---
 
