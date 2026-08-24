@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="A stained-glass window, painted rather than lit, in a hand-painted dormitory scene">
+  <defs>
+    <linearGradient id="bgSd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#7A2A00"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="glassSd" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD79A" stop-opacity="0.9"/>
+      <stop offset="55%" stop-color="#FFB07A" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#BE4C00" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="accentSd" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BE4C00"/>
+      <stop offset="100%" stop-color="#FFB07A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgSd)"/>
+
+  <!-- a pointed-arch window made of painted panes, no real light behind it -->
+  <g transform="translate(600,340)">
+    <path d="M-190 260 L-190 -60 C -190 -170 -105 -260 0 -260 C 105 -260 190 -170 190 -60 L190 260 Z"
+          fill="url(#glassSd)" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="6"/>
+    <g stroke="#18011F" stroke-opacity="0.55" stroke-width="5">
+      <line x1="-190" y1="10" x2="190" y2="10"/>
+      <line x1="-190" y1="120" x2="190" y2="120"/>
+      <line x1="0" y1="-260" x2="0" y2="260"/>
+      <line x1="-95" y1="-190" x2="-95" y2="260"/>
+      <line x1="95" y1="-190" x2="95" y2="260"/>
+    </g>
+    <circle cx="0" cy="-70" r="46" fill="#FFF3D6" fill-opacity="0.55"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="120" font-size="24" letter-spacing="6" fill="#FFFFFF" fill-opacity="0.5">HAND-PAINTED · NO SHADER</text>
+
+    <text x="600" y="700" font-size="52" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">PAINTING LIGHT,</text>
+    <text x="600" y="763" font-size="52" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">NOT SIMULATING IT</text>
+    <text x="600" y="812" font-size="24" fill="#FFFFFF" fill-opacity="0.65">Spellbound Dormitory, Morgane Muller</text>
+  </g>
+
+  <rect x="500" y="850" width="200" height="8" rx="4" fill="url(#accentSd)"/>
+</svg>
