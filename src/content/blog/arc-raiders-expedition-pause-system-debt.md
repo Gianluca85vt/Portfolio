@@ -4,7 +4,7 @@ date: 2026-08-24
 category: Games
 author: ruben-castellani
 excerpt: Embark Studios says the next Arc Raiders Expedition, opening in September, will be the last until early 2027. The reason is worth more attention than the pause itself — the studio has said outright that the system launched as a placeholder for something it never had time to build.
-cover: /img/blog/arc-raiders-expedition-pause-system-debt/cover.svg
+cover: /img/blog/arc-raiders-expedition-pause-system-debt/shot-01.jpg
 draft: true
 ---
 
@@ -18,6 +18,11 @@ That much was reported everywhere. The part worth sitting with is what
 Embark's design director said about *why*.
 
 ## What Expeditions are, briefly
+
+<figure>
+  <img src="/img/blog/arc-raiders-expedition-pause-system-debt/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Embark Studios, via the official Arc Raiders Steam page</figcaption>
+</figure>
 
 An Expedition is Arc Raiders' opt-in prestige system: players who join one
 reset their Raider's level and clear their stash, in exchange for permanent
