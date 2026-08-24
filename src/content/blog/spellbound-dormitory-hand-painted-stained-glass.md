@@ -5,7 +5,6 @@ category: 3D
 author: elia-marcheselli
 excerpt: Morgane Muller's Spellbound Dormitory, covered by 80.lv this week, gets its stained-glass windows to glow without a single translucent shader. The trick is painting the effect a renderer would otherwise have to simulate.
 cover: /img/blog/spellbound-dormitory-hand-painted-stained-glass/cover.svg
-draft: true
 ---
 
 **Morgane Muller**'s **Spellbound Dormitory**, covered by 80.lv this week, is a four-month
