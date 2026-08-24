@@ -4,7 +4,7 @@ date: 2026-08-24
 category: 3D
 author: elia-marcheselli
 excerpt: CLO Virtual Fashion's cloth sim tool picks up a Seamline Ripping Tool and two new pinching modes today. The interesting part isn't the headline demo, it's where "damage" moves in the pipeline.
-cover: /img/blog/marvelous-designer-2026-1-seamline-ripping-tool/cover.svg
+cover: /img/blog/marvelous-designer-2026-1-seamline-ripping-tool/shot-01.jpg
 draft: true
 ---
 
@@ -15,6 +15,11 @@ release is smaller, but it's aimed squarely at people who costume characters for
 Override** for shaping garments while the cloth sim is running rather than before it.
 
 ## What the two tools do
+
+<figure>
+  <img src="/img/blog/marvelous-designer-2026-1-seamline-ripping-tool/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>CLO Virtual Fashion, via the Marvelous Designer Steam page</figcaption>
+</figure>
 
 The Seamline Ripping Tool does what it says — you select a seam on a simulated garment and
 tear it, and the cloth reacts the way real fabric does when a seam gives out: the panels pull
