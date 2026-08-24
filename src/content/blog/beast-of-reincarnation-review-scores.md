@@ -3,7 +3,7 @@ title: Game Freak's first non-Pokémon game in decades landed at a 7, and the re
 date: 2026-08-24
 category: Games
 author: nadia-ferro
-cover: /img/blog/beast-of-reincarnation-review-scores/cover.svg
+cover: /img/blog/beast-of-reincarnation-review-scores/shot-01.jpg
 reviewOf: Beast of Reincarnation
 score: 7
 scoreSources:
@@ -32,6 +32,11 @@ game everyone shrugged at. It's a game a third of critics loved and a third
 found actively disappointing, with not much in between.
 
 ## A studio that has never had to do this before
+
+<figure>
+  <img src="/img/blog/beast-of-reincarnation-review-scores/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>GAME FREAK inc. / Fictions, Inc., via the official Steam page</figcaption>
+</figure>
 
 Set the score aside for a second, because the more interesting fact is what
 Game Freak was attempting. Every mainline Pokémon game, for its entire
