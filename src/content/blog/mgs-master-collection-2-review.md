@@ -26,6 +26,14 @@ But "we ported an old game" undersells what's actually in this box, because the 
 ## Three games, three completely different starting points
 
 <figure>
+  <button class="video-embed" data-video="wOh09rFO3wg" data-title="Metal Gear Solid Master Collection Vol 2 - Before You Buy" type="button">
+    <img src="/img/blog/mgs-master-collection-2-review/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Still from gameranx's video review" />
+    <span class="play" aria-hidden="true"></span>
+  </button>
+  <figcaption>gameranx walking through what is actually in the collection. Not one of the scores counted below. Nothing loads from YouTube until you press play.</figcaption>
+</figure>
+
+<figure>
   <img src="/img/blog/mgs-master-collection-2-review/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
   <figcaption>Konami, via the official Steam page</figcaption>
 </figure>

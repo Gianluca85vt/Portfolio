@@ -32,6 +32,14 @@ physically built suit, not a digital effect.
 
 ## The scoreboard
 
+<figure>
+  <button class="video-embed" data-video="ZHNIjUksfjw" data-title="Lanterns Review: DC Finally Gets Green Lantern Right" type="button">
+    <img src="/img/blog/lanterns-hbo-practical-suit-grounded-review/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Still from ScreenRant's video review" />
+    <span class="play" aria-hidden="true"></span>
+  </button>
+  <figcaption>ScreenRant's video review — their score is one of those in the average below. Nothing loads from YouTube until you press play.</figcaption>
+</figure>
+
 Scores below are converted to a 1-10 scale following the usual rule — out of
 5, multiply by two; out of 100, divide by ten; letter grades follow the
 standard A-to-F conversion. Slant Magazine scores on a 4-star scale, so I

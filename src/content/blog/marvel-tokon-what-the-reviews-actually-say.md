@@ -68,6 +68,14 @@ interesting as an artist.
 
 ## The scores, since that is why you are here
 
+<figure>
+  <button class="video-embed" data-video="Yelv7ExxnDg" data-title="Marvel Tokon: Fighting Souls Review" type="button">
+    <img src="/img/blog/marvel-tokon-what-the-reviews-actually-say/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Still from IGN's video review" />
+    <span class="play" aria-hidden="true"></span>
+  </button>
+  <figcaption>IGN's video review — their 9 is one of the thirty-four scores in the average below. Nothing loads from YouTube until you press play.</figcaption>
+</figure>
+
 Numbers below are where they stood on **13 August 2026**. Aggregates move — a
 couple of the early write-ups were published when OpenCritic had eight reviews
 in and the average was sitting at 89, which is exactly the kind of number that

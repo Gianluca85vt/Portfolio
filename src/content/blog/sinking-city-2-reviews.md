@@ -32,6 +32,14 @@ didn't get.
 
 ## What actually changed
 
+<figure>
+  <button class="video-embed" data-video="uF4vB4XSFC4" data-title="The Sinking City 2 Review - A Bigger, Better Sequel" type="button">
+    <img src="/img/blog/sinking-city-2-reviews/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Still from GamingBolt's video review" />
+    <span class="play" aria-hidden="true"></span>
+  </button>
+  <figcaption>GamingBolt's video review. Not one of the scores counted below, but a fuller look at what the written verdicts are describing. Nothing loads from YouTube until you press play.</figcaption>
+</figure>
+
 The pitch for the original Sinking City was investigation: an open,
 half-flooded version of a fictional New England city, Sherlock Holmes-style
 deduction mechanics, combat as an occasional interruption. It was ambitious
