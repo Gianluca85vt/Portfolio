@@ -1,58 +1,73 @@
-# Film & TV — harvested 2026-08-24T11:06:14.951Z
+# Film & TV — harvested 2026-08-24T14:24:43.862Z
 
 ## Variety
+
+### Orlando Bloom to Be Honored During Venice Film Festival With Filming Italy Award
+Mon, 24 Aug 2026 14:14:05 +0000 — https://variety.com/2026/film/global/orlando-bloom-honored-venice-film-festival-1236841484/
+
+Orlando Bloom, who will be attending the Venice Film Festival as part of the cast of Warner Herzog s competition title Bucking Fastard, is set to be feted on the Lido with the Filming Italy International Award from Filming Italy — Los Angeles, the event that bridges Italy and Hollywood. Bloom will receive the award, which [ ]
+
+### ‘The Gentlemen’ Officially Renewed for Season 3 as First Season 2 Trailer Drops: ‘I’m Looking Forward to Pushing the Boundaries Further,’ Guy Ritchie Says (EXCLUSIVE)
+Mon, 24 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/global/the-gentlemen-season-3-greenlight-1236841374/
+
+“The Gentlemen” has officially been greenlit for Season 3, Variety can confirm. Guy Ritchie’s high-society, high-octane caper starring Theo James and Kaya Scodelario is set to return for a third outing, comprised of eight episodes. Variety understands that while the new season is in pre-production no scripts have yet been finalized, let alone new casting, [ ]
+
+### Black Mirror Season 8 Starts Production as Netflix Renews Being Gordon Ramsay and Legends (EXCLUSIVE)
+Mon, 24 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/global/netflix-black-mirror-season-8-legends-gordon-ramsay-1236841382/
+
+An eighth season of “Black Mirror” is officially in production, Variety can confirm. The show started shooting this summer, although no launch date for the new season has been set yet. Earlier this year creator Charlie Brooker vowed the dystopian anthology series “will return, and hopefully it’ll be more ‘Black Mirror’ than ever.” He is [ ]
+
+### Reggie Watts’ Theme Song Axed From ‘Comedy Bang Bang’ Podcast After Report Alleging ‘Reckless’ Drug Use in Relationships
+Mon, 24 Aug 2026 13:31:59 +0000 — https://variety.com/2026/digital/news/reggie-watts-theme-song-axed-comedy-bang-bang-podcast-1236841362/
+
+Reggie Watts’ “Comedy Bang Bang” theme song was cut from Monday’s episode of the popular podcast following a Rolling Stone report that alleged the comedian and musician has exhibited “reckless and selfish” behavior regarding drugs in his past relationships. The story, which was published on Thursday, alleges that Watts late ex-girlfriend, Katherine McCollough, developed a [ ]
+
+### Small Things Review: Zvonimir Jurić’s Island-Set Chamber Drama Unfolds a Quietly Devastating Family Reunion
+Mon, 24 Aug 2026 13:09:46 +0000 — https://variety.com/2026/film/reviews/small-things-review-1236841495/
+
+In the opening of “Small Things,” Zvonimir Jurić’s elegant and understated chamber drama, the giggling grandchildren of an elder patriarch (Bosnian film and theater veteran Izudin Bajrović) show their charmingly clueless pops how to operate a smartphone. Later that night, along with the kids’ mother Irena (Ivana Roščić) and aunt Anica (Marija Skaričić), the crew [ ]
+
+### Guillermo del Toro, James Gunn, Beyond the Spider-Verse Directors Set for Crunchyroll s Inaugural Anime Future Forum
+Mon, 24 Aug 2026 13:01:00 +0000 — https://variety.com/2026/tv/news/crunchyroll-anime-future-forum-sony-guillermo-del-toro-gunn-1236841275/
+
+Anime giant Crunchyroll plans to dissect the growing business of anime with its first-ever thought leadership summit to be held as a precursor to New York Comic Con in October. The Crunchyroll Anime Future Forum will be held Oct. 7 at New York s Javits Convention Center, with conference tracks focusing on four key themes: fandom, [ ]
+
+### Roku Names Gianluca Pucacco VP, Revenue Operations, International Growth
+Mon, 24 Aug 2026 13:00:00 +0000 — https://variety.com/2026/tv/news/roku-gianluca-pucacco-vp-revenue-operations-1236841290/
+
+Gianluca GL Pucacco has been named vice president of revenue operations and international growth at Roku, just as the streaming company is working toward its sale to Fox Corporation. Pucacco s role is effective Monday, August 24. He reports to Patrick Harris, who was named senior vice president of global media revenue at Roku in February. [ ]
+
+### ‘EastEnders’ Puts Out Casting Call for Character Named Meghan After Duchess’ U.K. Return: ‘Confident, Gorgeous and Ready to Cause Chaos’
+Mon, 24 Aug 2026 12:20:52 +0000 — https://variety.com/2026/tv/global/eastenders-casting-call-meghan-duchess-1236841460/
+
+Reports of Meghan Markle’s return to acting in the U.K. prompted numerous quips and memes over the weekend that the Duchess of Sussex was planning to make an appearance on long-running BBC soap “EastEnders.” Coincidentally, EastEnders is in fact set to introduce a new series regular called “Meghan” who producers describe as “confident, gorgeous and [ ]
+
+### Toronto Midnight Madness Title Vintage Violence, Starring Cole Sprouse and Kiko Mizuhara, Boarded by Best Friend Forever (EXCLUSIVE)
+Mon, 24 Aug 2026 11:21:55 +0000 — https://variety.com/2026/film/global/toronto-midnight-madness-vintage-violence-best-friend-forever-1236841445/
+
+Best Friend Forever has boarded international sales on Eugene Kotlyarenko’s Vintage Violence, starring Cole Sprouse ( Riverdale ) and Kiko Mizuhara, ahead of the film’s world premiere at Toronto s Midnight Madness section. WME is handling domestic rights on the thriller, which marks Kotlyarenko’s eighth feature. The filmmaker is known for weaving internet and online-video culture into contemporary [ ]
 
 ### Vietnamese Found-Footage Horror Hit Lau Chu Hoa: The Deadliest Mansion Heads to North American Theaters (EXCLUSIVE)
 Mon, 24 Aug 2026 10:23:20 +0000 — https://variety.com/2026/film/news/lau-chu-hoa-deadliest-mansion-north-america-release-1236841428/
 
 Vietnamese found-footage horror film Lầu Chú Hoả: The Deadliest Mansion is opening in North American theaters on Sept. 4, with Mockingbird Pictures placing the title across AMC, Regal and Cinemark circuits. Directed by Hùng Trần, the film became Vietnam s first theatrical found-footage horror release and turned into a breakout hit after its June debut. It [ ]
 
-### Brad Pitt s ‘Heart of the Beast’ Added to San Sebastián Lineup
-Mon, 24 Aug 2026 10:06:53 +0000 — https://variety.com/2026/film/global/brad-pitt-heart-of-the-beast-paramount-san-sebastian-1236841422/
-
-Paramount Pictures’ “The Heart of the Beast,” starring Brad Pitt and directed by David Ayer, has been added to San Sebastián Film Festival’s lineup, screening out of competition in its Official Selection. Both Pitt and Ayer will attend San Sebastián to present the film, the Spanish film festival announced Monday. The survival thriller sees Pitt, [ ]
-
-### Joachim Trier’s ‘Sentimental Value,’ Hlynur Pálmason’s ‘The Love That Remains’ Among the Nominees for the Nordic Council Film Prize
-Mon, 24 Aug 2026 10:00:00 +0000 — https://variety.com/2026/awards/awards/sentimental-value-nominees-nordic-council-film-prize-1236841360/
-
-Five features and one documentary have been nominated for the 2026 Nordic Council Film Prize. It’s awarded to a feature film or documentary produced in the Nordic countries that has been distributed in cinemas. Some picks – announced at the Norwegian International Film Festival Haugesund – come as no surprise, as Joachim Trier’s Oscar-winning “Sentimental [ ]
-
-### California Attorney General Cancels Paramount Settlement Talks Over $111 Billion Warner Bros. Discovery Deal, Says He ll Meet When They Stop Playing Games
-Mon, 24 Aug 2026 09:32:30 +0000 — https://variety.com/2026/film/global/california-ag-bonta-cancels-paramount-settlement-talks-1236841379/
-
-California Attorney General Rob Bonta has canceled planned settlement talks with Paramount over the state s lawsuit seeking to block David Ellison s proposed $111 billion acquisition of Warner Bros. Discovery, accusing Paramount of acting in bad faith, according to The New York Times. Bonta is leading a coalition of 12 states in challenging the proposed merger and asking [ ]
-
-### Venice Adds Naza, Documentary From No Other Land Directors Yuval Abraham and Rachel Szor, to Competition
-Mon, 24 Aug 2026 09:20:09 +0000 — https://variety.com/2026/film/festivals/venice-naza-doc-no-other-land-directors-competition-1236841390/
-
-The Venice Film Festival has made a last-minute addition to its competition lineup: Naza, a new documentary from No Other Land directors Yuval Abraham and Rachel Szor. The doc, which was shot at night on the rooftops of Tel Aviv, shows in detail the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza, [ ]
-
-### Alia Bhatt s Young-Adult Rom-Com Don t Be Shy Sets September Prime Video Premiere (EXCLUSIVE)
-Mon, 24 Aug 2026 08:54:17 +0000 — https://variety.com/2026/tv/news/alia-bhatt-dont-be-shy-prime-video-premiere-date-1236841347/
-
-Prime Video has set a September premiere date for Don t Be Shy, a young-adult romantic comedy from Alia Bhatt and Shaheen Bhatt s Eternal Sunshine Productions. Sreeti Mukerji wrote and directed the coming-of-age film, which is produced by Bhatt and Shaheen Bhatt under the Eternal Sunshine Productions banner, with Grishma Shah and Vikesh Bhutani serving as [ ]
-
-### An Oak Tree Casts Sacha Dhawan, Gemma Whelan for London Run (EXCLUSIVE)
-Mon, 24 Aug 2026 08:30:21 +0000 — https://variety.com/2026/theater/news/an-oak-tree-cast-sacha-dhawan-gemma-whelan-other-palace-1236841365/
-
-Francesca Moody Productions has unveiled the first wave of guest performers joining Tim Crouch s An Oak Tree for its run at The Other Palace in London, with Sacha Dhawan, Gemma Whelan, Bessie Carter, Rosalie Craig, Hammed Animashaun, George Fouracres, Clare Perkins and Tom Mothersdale each taking on a single performance. Crouch performs alongside a different [ ]
-
-### Emomee, Indian Kids Life-Skills Series, Lands on Netflix (EXCLUSIVE)
-Mon, 24 Aug 2026 07:30:00 +0000 — https://variety.com/2026/tv/news/emomee-indian-kids-life-skills-series-netflix-1236841075/
-
-An Indian children s entertainment company has brought its debut original animated series to Netflix. Emomee: Big Skills for Little Ones, Minis, from the Mumbai-based brand Emomee, features 20 episodes of some 11 minutes each, centered on characters E, Mo and Mee as they navigate everyday adventures designed to build confidence, curiosity, kindness, emotional intelligence and [ ]
-
-### Deauville American Film Festival Reveals Industry Lineup
-Mon, 24 Aug 2026 06:51:05 +0000 — https://variety.com/2026/film/global/deauville-american-film-festival-industry-section-1236841342/
-
-The Deauville American Film Festival has revealed the lineup for the industry section of its 2026 edition. The Deauville Industry Days sidebar, taking place over two days at the festival being held at the French seaside town, will incorporate various talks, panels and sessions. Among them are The Art and Craft of Foodstyling, about cinematic [ ]
-
-### Game of Thrones Star Kristofer Hivju Turns to Rom-Com With ‘True Love’ by ‘Little Did I Know s Martina Haag (EXCLUSIVE)
-Mon, 24 Aug 2026 06:30:00 +0000 — https://variety.com/2026/film/global/kristofer-hivju-frida-hallgren-true-love-sf-studios-1236840991/
-
-Norwegian star actor Kristofer Hivju (“Game of Thrones,” “Red One”, “Beck”) will play opposite Frida Hallgren (from Oscar-nominated “As It Is in Heaven”) in the upcoming Swedish-Croatian rom-com “True Love” (working title). Helmed by actor-turned writer, director and best-selling author Martina Haag, the SF Studios project, now in pre-production, will be pitched Aug. 26. at [ ]
-
 ## The Hollywood Reporter
+
+### Mike Schur: The Paramount-Warner Bros. Merger Is Existential for Writers
+Mon, 24 Aug 2026 13:50:00 +0000 — https://www.hollywoodreporter.com/business/business-news/mike-schur-paramount-warner-bros-1236679611/
+
+"A market ceases to function when competition disappears. And it’s disappearing," argues the comedy writer whose credits include 'Saturday Night Live,' 'The Office,' 'Parks and Recreation', 'Brooklyn Nine-Nine' and many more.
+
+### California AG Calls Off Paramount-Warner Bros. Meeting, Accusing Company of Playing Games
+Mon, 24 Aug 2026 13:18:08 +0000 — https://www.hollywoodreporter.com/business/business-news/california-bonta-cancels-paramount-wbd-deal-meeting-games-1236679548/
+
+"Not only did Paramount leak the alleged substance of settlement discussions, but they misrepresented these discussions, demonstrating a lack of good faith," says Rob Bonta.
+
+### AEG, Archer Aviation Unveil Plans for Air Taxis at L.A. Live
+Mon, 24 Aug 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/aeg-air-taxis-downtown-los-angeles-archer-aviation-1236678603/
+
+Downtown’s first “vertiport” is expected to join a local network of hubs that includes LAX, SoFi Stadium and USC.
 
 ### Brad Pitt to Return to San Sebastian Film Festival With David Ayer s Heart of the Beast
 Mon, 24 Aug 2026 10:59:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-san-sebastian-film-david-ayer-heart-of-the-beast-1236679572/
@@ -89,80 +104,65 @@ Sun, 23 Aug 2026 21:31:53 +0000 — https://www.hollywoodreporter.com/news/gener
 
 Lesley Vogel slammed their respective remarks, saying she's "very, very hurt and deeply disappointed."
 
-### Shelley Fabares, Star of The Donna Reed Show and Coach, Dies at 82
-Sun, 23 Aug 2026 20:27:05 +0000 — https://www.hollywoodreporter.com/tv/tv-news/shelley-fabares-dead-donna-reed-show-coach-1236679384/
-
-The baby-boomer icon had a No. 1 hit with "Johnny Angel," co-starred in three Elvis movies and was married to 'M*A*S*H' actor Mike Farrell.
-
-### Anna Paquin and Melissa Gilbert Call for Protection of Child Actors After Hayden Panettiere’s Death: Where Is the Collective Outrage?
-Sun, 23 Aug 2026 19:55:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/anna-paquin-melissa-gilbert-protection-child-actors-hayden-panettiere-1236679362/
-
-Panettiere, who started working in Hollywood at a young age with roles in 'One Life to Live' and 'Remember the Titans,' among others, died last Sunday at age 36.
-
-### There Are Scores of Great New Animated Shows. The Emmys Won’t Nominate Them.
-Sun, 23 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/why-emmys-overlook-animated-shows-legacy-1236675055/
-
-Fresh creations like 'Among Us' and 'Haha, You Clowns' are getting snubbed for old snoozes. But there’s a way out — if the TV Academy will listen.
-
 ## Deadline
 
-### Woody Allen To Start Shooting Next Project In Spain In October
-Mon, 24 Aug 2026 10:50:30 +0000 — https://deadline.com/2026/08/woody-allen-spain-film-october-2026-1237048732/
+### Dianne Wiest Ciarán Hinds To Star In Comedy-Drama This Old Love Of Mine , WestEnd Launches Sales Ahead Of TIFF Market
+Mon, 24 Aug 2026 14:15:00 +0000 — https://deadline.com/2026/08/dianne-wiest-and-ciaran-hinds-cast-in-this-old-love-of-mine-1237048771/
 
-Woody Allen will begin production on his next feature project in Spain in October. We’re told the project, which is estimated to have a budget of around $14M, will be largely English-language and feature a high-profile cast that is still coming together. Madrid-based Wanda Vision and Allen’s banner, Gravier Production, are producing the title alongside [ ]
+EXCLUSIVE: Two-time Oscar winner Dianne Wiest (Hannah and Her Sisters) and Oscar nominee Ciarán Hinds (Belfast) are set to star in comedy-drama This Old Love Of Mine. WestEnd Films has boarded world sales on the project ahead of the TIFF market. The project reunites WestEnd with director Terry Loane and the producing team behind his [ ]
 
-### San Sebastián Adds David Ayer s ‘Heart Of The Beast’ Starring Brad Pitt To Lineup
-Mon, 24 Aug 2026 10:21:55 +0000 — https://deadline.com/2026/08/san-sebastian-david-ayer-heart-of-the-beast-brad-pitt-1237048724/
+### Craig T. Nelson Remembers Coach Co-Star Shelley Fabares: An Extraordinary Woman
+Mon, 24 Aug 2026 13:59:40 +0000 — https://deadline.com/2026/08/craig-t-nelson-tribute-coach-costar-shelley-fabares-death-1237048790/
 
-David Ayer s latest, Heart of the Beast, starring Brad Pitt, has been added to the official lineup at this year’s San Sebastián Film Festival. Heart of the Beast will screen out of competition, with both Ayer and Pitt in attendance. The film, from Paramount, follows Pitt as a Special Forces officer who, accompanied by his [ ]
+Craig T. Nelson has penned a moving tribute to his Coach co-star Shelley Fabares. Calling Fabares, just an extraordinary woman, the actress always had a smile, Nelson said via a representative to Entertainment Weekly. She was welcoming in the midst of chaos and always someone I could go to for advice and counsel, not only [ ]
 
-### Netflix, Disney+ Amazon Rein In Price Rises As Customers Near Financial Limits – Ampere
-Mon, 24 Aug 2026 09:47:47 +0000 — https://deadline.com/2026/08/netflix-disney-amazon-price-rises-fall-ampere-1237048581/
+### Arbitrator Orders Washington Post To Reinstate Columnist Karen Attiah
+Mon, 24 Aug 2026 13:19:58 +0000 — https://deadline.com/2026/08/karen-attiah-washington-post-reinstatement-1237048775/
 
-Streamer price hikes are taking consumers nearer to the limit of what they re willing to spend, according to Ampere Analysis. As such, Netflix, Disney+ and Prime Video owner Amazon have been reducing the size of average price increases from 24% per subscription in 2023/24 to 14% in 2025/26. In dollar terms, the average has increased, [ ]
+An independent arbitrator has ruled that The Washington Post must reinstate columnist Karen Attiah with backpay and benefits, concluding that her firing violated a collective bargaining agreement, the union and legal team representing her said on Monday. In September, Attiah said that she was terminated over social media posts in the aftermath of the assassination [ ]
 
-### Gaumont Unveils First Deals On Stéphane Brizé’s Venice TIFF-Bound ‘A Good Little Soldier’
-Mon, 24 Aug 2026 09:29:38 +0000 — https://deadline.com/2026/08/gaumont-stephane-brize-good-little-soldier-deals-1237048571/
+### Rodrigo Sorogoyen s The Beloved Gets North American Deal With Kino Lorber; Javier Bardem To Be Campaigned For Best Actor
+Mon, 24 Aug 2026 13:19:52 +0000 — https://deadline.com/2026/08/javier-bardem-film-beloved-gets-us-release-awards-campaign-1237048767/
 
-EXCLUSIVE: Stéphane Brizé’s A Good Little Soldier, starring Alba Rohrwacher as a high-powered exec confronted with a case of toxic management, has sold to a number of key territories ahead of its world premiere in competition in Venice and North American debut in Toronto. Gaumont has sealed deals for Australia (Palace Films), Switzerland (Xenix), Spain [ ]
+EXCLUSIVE: Rodrigo Sorogoyen s Cannes Competition drama The Beloved has secured a North American release with Kino Lorber. The Spanish-language film stars Oscar winner Javier Bardem opposite recent Pedro Almodóvar collaborator Victoria Luengo in performances that drew widespread acclaim in Cannes. The father-daughter drama, which will get its North American premiere at Toronto, sees an acclaimed [ ]
 
-### Venice Adds Competition Film From No Other Land Directors, Jim Wilson Jonathan Glazer About Systems Behind Israel’s Calculated Killing Of Palestinian Civilians
-Mon, 24 Aug 2026 09:15:34 +0000 — https://deadline.com/2026/08/venice-adds-competition-film-naza-no-other-land-directors-1237048583/
+### Catriona Chandler Lands Title Role In HBO s The Trial Of Louise Woodward ; Joanne Froggatt Also Set
+Mon, 24 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/trial-of-louise-woodward-series-catriona-chandler-1237047748/
 
-The Venice Film Festival has added a hot-button documentary to its Competition lineup. The synopsis for new film NAZA (we re told this is an acronym relating to the Israeli military) reads: “Shot at night on the rooftops of Tel Aviv, the film reveals in detail the systems behind Israel’s calculated mass killing of Palestinian civilians [ ]
+EXCLUSIVE: Catriona Chandler (Disney+ s Rivals) has landed the title role in HBO s true-crime limited series, The Trial of Louise Woodward, Deadline has learned. Also newly set for a role is Downton Abbey s Joanne Froggatt, who will play Louise s mother, Susan. Created by Matthew Barry, who serves as showrunner, writer and exec producer, The Trial of Louise Woodward tells the shocking [ ]
 
-### Jeevan Bheema Yojana Release Postponed For A Week
-Mon, 24 Aug 2026 08:32:08 +0000 — https://deadline.com/2026/08/jeevan-bheema-yojana-release-date-moves-1237048539/
+### Gamescom Leaders On Record Exhibitor Growth, Germany’s Gaming Ambitions And Expanding Their Pop Culture Footprint
+Mon, 24 Aug 2026 12:30:00 +0000 — https://deadline.com/2026/08/gamescom-2026-interview-felix-falk-tim-endres-1237048282/
 
-EXCLUSIVE: Hindi crime comedy Jeevan Bheema Yojana has moved its worldwide theatrical release date to September 4. The Arshad Warsi starrer was previously set for this Friday (August 28), but has now pushed back and locked the early September date. This is due to a final leg of the film s marketing campaign running in coming [ ]
+Gamescom 2026 is set to be the biggest edition of the event yet, with more than 1,600 exhibitors expected to take part in the Germany-based gaming showcase. Since launching in Cologne in 2009, gamescom has grown into one of the world’s largest gaming events, drawing hundreds of thousands of attendees and exhibitors from around the [ ]
 
-### Bonta Cancels Paramount Settlement Meeting; CA AG Accuses Ellison Of Playing Games In WBD Merger Talks
-Mon, 24 Aug 2026 08:11:50 +0000 — https://deadline.com/2026/08/bonta-cancels-paramount-settlement-meeting-1237048537/
+### Ricky Martin Revealed As Cast Member Of Gael García Bernal’s ‘Hombre Al Agua’ In First Trailer Image – Venice/TIFF
+Mon, 24 Aug 2026 12:06:57 +0000 — https://deadline.com/2026/08/ricky-martin-cast-gael-garcia-bernal-hombre-al-agua-1237048729/
 
-There will be no settlement talks meeting Monday between Paramount and a coalition of state Attorneys General after all. California AG Rob Bonta cancelled the scheduled sit-down late Sunday after reports of an August 21 meeting with the David Ellison-led company oozed out. More galling to Bonta is that what was discussed at that meeting [ ]
+EXCLUSIVE: Ricky Martin has been revealed as cast member and executive producer for Gael García Bernal’s new film Hombre al Agua ahead of its world premiere and North American debut at the Venice and Toronto film festivals next month. ‘Livin la Vida Loca’ music artist Martin boarded the project on the eve of the film’s [ ]
 
-### Hayley Atwell Says Peggy Carter Getting Frisbeed To Death In Doctor Strange Was A Complete Disservice To The Character
-Mon, 24 Aug 2026 07:57:12 +0000 — https://deadline.com/2026/08/hayley-atwell-agent-carter-death-disservice-to-character-1237048526/
+### Antonio Banderas To Be Honored As Agent Of Change At TelevisaUnivision s Premios Juventud
+Mon, 24 Aug 2026 12:00:00 +0000 — https://deadline.com/2026/08/antonio-banderas-televisaunivision-premios-juventud-1237048538/
 
-Hayley Atwell was disappointed about the demise of Peggy Carter. In an interview at the For the Love of Fantasy Sci-Fi convention in London, Atwell told attendees that she was frustrated by Captain Carter s storyline in 2022’s Doctor Strange in the Multiverse of Madness. Cameoing in the film as an alternate to Captain America, [ ]
+Antonio Banderas will be honored at the 2026 Premios Juventud as the Agent of Change. TelevisaUnivision s award show is heading to Marbella and recognizing the Spanish actor for his impact on education, social action, and community development. The Agent of Change award is bestowed on artists who leverage their platform to transform communities and inspire [ ]
 
-### Netflix Posts $2.8B Revenues In UK To Overtake ITV For First Time
-Mon, 24 Aug 2026 07:43:52 +0000 — https://deadline.com/2026/08/netflix-uk-revenues-overtake-itv-1237048522/
+### ‘Call My Agent! The Movie’ Trailer: Netflix Unveils Camille Cottin, Laure Calamy Laurent Lafitte But No Sign Of George Clooney Yet
+Mon, 24 Aug 2026 11:54:53 +0000 — https://deadline.com/2026/08/call-my-agent-the-movie-trailer-netflix-1237048746/
 
-Netflix just hit a major milestone in the UK. The global streamer has posted £2.06B ($2.81B) revenues for full-year 2025, meaning it generated more cash than the country s leading commercial broadcaster, ITV, and is well ahead of smaller PSB rivals Channel 4 (£1B) and Paramount-owned 5 (£318M). The BBC s is funded by the licence fee [ ]
+Netflix has unveiled the first official trailer for Call My Agent! The Movie ahead of its launch on September 10 in France. Directed by Emilie Noblet from a screenplay by Fanny Herrero and Lison Daniel, the long-awaited move adaptation of the hit show sees Camille Cottin return as former talent agent Andréa who is now on [ ]
 
-### Prime Video To Adapt CJ ENM Reality Format ‘EXchange’ In Brazil As ‘Love Transit’
-Mon, 24 Aug 2026 07:28:12 +0000 — https://deadline.com/2026/08/prime-video-cj-enm-exchange-love-transit-brazil-1237048524/
+### Sky Arts Slates The Handel Scandal Dangerous Debussy Docs
+Mon, 24 Aug 2026 11:53:02 +0000 — https://deadline.com/2026/08/sky-arts-handel-scandal-dangerous-debussy-docs-1237048743/
 
-Korean studio CJ ENM has struck a deal for its hit dating reality format EXchange, which will be adapted in Brazil as a Prime Video Original, titled Love Transit. Directed by Brazilian television producer Boninho, and produced by Amazon MGM Studios and Formata, the show will begin filming in São Paulo and Campos do Jordão in September. [ ]
+EXCLUSIVE: Sky Arts has begun what will be a big week for British TV by unveiling a pair of docs about two titans of classical music. The Handel Scandal and Dangerous Debussy will both launch on the Sky channel and streamer Now this fall, free to households in the UK. The former comes from Factory [ ]
 
-### Paramount AGs Settlement Meeting Monday More Show Than Substance As Cable Channel Sell-Offs Curbing Ellison s Power Put On The Table
-Mon, 24 Aug 2026 06:16:55 +0000 — https://deadline.com/2026/08/paramount-lawsuit-settlement-meeting-details-1237048499/
+### Billie Piper Says Doctor Who Fans Need To Chill Out After Sci-Fi Show s Rough Time
+Mon, 24 Aug 2026 11:34:04 +0000 — https://deadline.com/2026/08/billie-piper-doctor-who-chill-out-rough-time-1237048745/
 
-EXCLUSIVE: A meeting Monday between Paramount brass and state Attorneys General over sussing out settlement talks between the parties in David Ellison s contested $111 billion acquisition of Warner Bros Discovery has turned into a game of PR chicken, an industry insider says. Ellison and Makan Delrahim think they can force Rob Bonta into backing off [ ]
+Billie Piper is feeling relaxed about the future of Doctor Who, even if fans are concerned that the sci-fi series is in something of a spin at the BBC. The British actress urged people to chill out about the Time Lord after the BBC ditched a Christmas special episode and announced a creative rethink on [ ]
 
-### Days of Our Lives EP Ken Corday Plans Concert To Benefit SAG/AFTRA Foundation’s Emergency Assistance Program
-Mon, 24 Aug 2026 03:30:00 +0000 — https://deadline.com/2026/08/days-of-our-lives-ken-corday-plans-benefit-concert-burbank-1237048486/
+### Jo Gardiner Dies: Race Across The World Star Passes A Year After Son s Death
+Mon, 24 Aug 2026 11:14:49 +0000 — https://deadline.com/2026/08/jo-gardiner-dead-race-across-the-world-1237048737/
 
-Days of Our Lives executive producer-cum-composer Ken Corday is planning another concert to benefit SAG/AFTRA Foundation’s Emergency Assistance Program. Following his two sold out concerts in 2023 and 2024, Corday will return to the stage for a third time in November. “Songs Without Words” will feature a new collection of original works over three nights [ ]
+Jo Gardiner, star of the second season of Race Across the World, has died. She was 61. Gardiner s family said she died after a long and courageous battle with cancer. Her passing comes a year after her son, Sam, lost his life in a car crash in 2025. Jo and Sam competed together in Race [ ]
 

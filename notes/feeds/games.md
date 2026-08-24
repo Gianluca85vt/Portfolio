@@ -1,6 +1,21 @@
-# Games — harvested 2026-08-24T11:06:14.951Z
+# Games — harvested 2026-08-24T14:24:43.862Z
 
 ## Eurogamer
+
+### "I want to keep pouring my energy into game creation going forward" - Hideo Kojima still wants to make games even at 63
+Mon, 24 Aug 2026 13:57:16 +0000 — https://www.eurogamer.net/hideo-kojima-63-years-old-still-wants-to-make-games
+
+Hideo Kojima - known as the director of the Death Stranding and Metal Gear Solid series - celebrated his 63rd birthday recently. Don't worry though, he's not interested in retiring just yet. Read more
+
+### The Blood of Dawnwalker is getting a 60fps mode on PS5 and Xbox Series X, after all
+Mon, 24 Aug 2026 13:11:40 +0000 — https://www.eurogamer.net/the-blood-of-dawnwalker-60fps-performance-mode-ps5-xbox-series-x
+
+The Blood of Dawnwalker developer Rebel Wolves recently offered a detailed look at the game's console version , specifically showing footage running at two different resolution and framerate targets. Read more
+
+### Call of Duty: Modern Warfare 4 Switch 2 physical version is seemingly a code-in-box
+Mon, 24 Aug 2026 11:41:32 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-switch-2-code-in-box
+
+Call of Duty: Modern Warfare 4 is the first game in the series to arrive on a Nintendo console since Ghosts on the Wii U in 2013, 13 years ago. The upcoming shooter lands on Switch 2 day-and-date with PC, PlayStation and Xbox . Though there's plenty of excitement to go around, a detail has emerged that may put a damper on that. Read more
 
 ### How to Fish is the latest Steam indie sensation, selling 1 million copies in just two days
 Mon, 24 Aug 2026 09:33:52 +0000 — https://www.eurogamer.net/how-to-fish-one-million-sales-steam
@@ -47,27 +62,22 @@ Sun, 23 Aug 2026 10:43:11 +0000 — https://www.eurogamer.net/arc-raiders-expedi
 
 Embark Studios has confirmed that Arc Raiders ' fifth Expedition, opening next month, will be the last one players see until early 2027. Read more
 
-### What's your video game happy place?
-Sun, 23 Aug 2026 09:04:41 +0000 — https://www.eurogamer.net/optimism-week-big-question-video-game-happy-places
-
-We all have our happy places: somewhere - real or otherwise - to escape, relax, and replenish away from the stresses of the modern world. Perhaps yours is in nature, lost in the reverie of a spirited hike up a windy hill, or sweatily squatting your cares away amid the pounding Daruda Sandstorms of your local gym. Perhaps your demands are simpler: the call of a good book and an escape into the realm of imagination, or the familiar celluloid embrace of a favourite film, or - as I finally drag this intro into relevance - the soothing rhythms of a beloved video game. And hopefully it's the last one, because that's what we're talking about today. Read more
-
-### Modern Warfare 4 beta's first update is live, adding a new map, mode, and toned-down footsteps
-Sat, 22 Aug 2026 16:11:35 +0000 — https://www.eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance
-
-Infinity Ward has deployed the first proper update to the Modern Warfare 4 beta , addressing a chunk of the feedback from the beta's opening day, including footstep audio, weapon lethality, and map voting. Read more
-
-### The Blood of Dawnwalker's console modes top out at 40fps, with no 60fps option at launch
-Sat, 22 Aug 2026 15:06:33 +0000 — https://www.eurogamer.net/blood-of-dawnwalker-no-60fps-console-launch
-
-New console gameplay from developer Rebel Wolves and publisher Bandai Namco has confirmed The Blood of Dawnwalker won't offer a 60fps mode on PS5 or Xbox Series X/S when it launches next month Read more
-
 ## GamesIndustry.biz
+
+### Maria Redin of mobile giant MTG on rebranding, buying Raid: Shadow Legends, and plans to double the company's size
+Mon, 24 Aug 2026 14:23:55 +0000 — https://www.gamesindustry.biz/maria-redin-of-mobile-giant-mtg-on-rebranding-buying-raid-shadow-legends-and-plans-to-double-the-companys-size
+
+In February last year, the Swedish mobile giant MTG (Modern Times Group) acquired Plarium, maker of the hugely successful hero collecting game Raid: Shadow Legends, for a cool $620 million . But that's just the start, it seems. Read more
+
+### Data: 96% of studios now run a direct-to-consumer web store or plan to
+Mon, 24 Aug 2026 14:01:44 +0000 — https://www.gamesindustry.biz/data-96-of-studios-now-run-a-direct-to-consumer-web-store-or-plan-to
+
+Almost all games studios run a direct-to-consumer (D2C) web store or plan to, according to a new survey. Read more
 
 ### Double Fine Productions regains ownership of IP and publishing rights following independence from Xbox
 Mon, 24 Aug 2026 11:05:37 +0000 — https://www.gamesindustry.biz/double-fine-productions-regains-ownership-of-ip-and-publishing-rights-following-independence-from-xbox
 
-Double Fine Productions has regained ownership of its intellectual property and publishing rights after leaving Xbox Read more
+Double Fine Productions has regained ownership of its intellectual property and publishing rights after leaving Xbox. Read more
 
 ### Take-Two Interactive files subpoenas against Microsoft, Discord, and X amid ongoing GTA 6 leaks
 Mon, 24 Aug 2026 09:53:53 +0000 — https://www.gamesindustry.biz/take-two-interactive-files-subpoenas-against-microsoft-discord-and-x-amid-ongoing-gta-6-leaks
@@ -79,6 +89,21 @@ Take-Two Interactive has subpoenaed Microsoft, Discord, and X regarding the ongo
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Protesting PS5 Players Now Plan Permanent Blackout, Meaning No GTA 6 or Wolverine
+Mon, 24 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/08/protesting-ps5-players-now-plan-permanent-blackout-meaning-no-gta-6-or-wolverine
+
+Consoles must remain unplugged indefinitely. Irate PS5 players have started unplugging their consoles all around the world, as a protest against Sony gets underway. The blackout – technically scheduled to start at 7pm local time, but already being observed by many participants – is designed to reduce the Japanese giant’s active users, a key performance metric for the company. Read the full article on pushsquare.com
+
+### PS5 s Best-Selling Games List Fixed After Ordering Issue Over Weekend
+Mon, 24 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/ps5s-best-selling-games-list-fixed-after-ordering-issue-over-weekend
+
+Not a big deal for Sony's engineers. Good news for the makers of 007 First Light and 1000xRESIST – both games are currently appearing on the PS Store homepage due to a glitch. Sony usually shows the most popular games in each country across a variety of categories, ranging from pre-orders to downloads. Read the full article on pushsquare.com
+
+### Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (24th-30th August)
+Mon, 24 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-24th-30th-august
+
+Metal Gear Solid! Aliens! Star Wars! A Plague Tale! An absolutely gigantic week awaits on the PS5 this time, with major titles like Resonance: A Plague Tale Legacy and Star Wars Zero Company vying for your attention. Other noteworthy games this week include Aliens: Fireteam Elite 2 and Metal Gear Solid Master Collection Vol 2 . Read the full article on pushsquare.com
 
 ### PS5 RPG Dawnwalker Actually Will Have 60FPS Mode, Part of Day One Patch
 Mon, 24 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-rpg-dawnwalker-actually-will-have-60fps-mode-part-of-day-one-patch
@@ -100,11 +125,6 @@ Sun, 23 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/features/i-searched
 
 And a brief glimpse inside China's underground gaming markets. The main tourist attractions in Chengdu may involve historical temples and a giant stone Buddha statue a few hours outside the city, but I can’t really create Push Square content about that. The multi-storey anime mall next to Tianfu Square, though? Well, that seemed like a good use of my time in China once I was done with all my Tides of Annihilation activities. Read the full article on pushsquare.com
 
-### PS5 s Best-Selling Games List Is Broken on the PS Store
-Sun, 23 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/ps5s-best-selling-games-list-is-broken-on-the-ps-store
-
-But should be a simple fix. Good news for the makers of 007 First Light and 1000xRESIST – both games are currently appearing on the PS Store homepage due to a glitch. Sony usually shows the most popular games in each country across a variety of categories, ranging from pre-orders to downloads. Read the full article on pushsquare.com
-
 ### Sony Reminds PS5 Owners Their Digital Games Are Licensed, Not Sold
 Sun, 23 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/sony-reminds-ps5-owners-their-digital-games-are-licensed-not-sold
 
@@ -119,11 +139,6 @@ What have I become. Platinum Trophy #34: Sound Shapes Date Earned: 31st October 
 Sat, 22 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-leaks-prompt-fans-to-bring-out-the-memes-as-netflix-puts-a-brave-face-on-things
 
 "How many days?". Rockstar is feverishly hunting for a leaker who appears to have a playable build of GTA 6 . As we’ve reported in a repeatedly updated article , new gameplay footage is appearing daily from what appears to be a recent and fully working version of the eagerly anticipated PS5 game. Read the full article on pushsquare.com
-
-### Furious PS5 Players Unplug Their Consoles in Protest as Blackout Gets Underway
-Sat, 22 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/furious-ps5-players-unplug-their-consoles-in-protest-as-blackout-gets-underway
-
-Hello darkness my old friend. Irate PS5 players have started unplugging their consoles all around the world, as a protest against Sony gets underway. The blackout – technically scheduled to start at 7pm local time, but already being observed by many participants – is designed to reduce the Japanese giant’s active users, a key performance metric for the company. Read the full article on pushsquare.com
 
 ### Sony s Live Service Strategy May Have Failed, But Helldivers 2 Has Been a Monstrous Hit
 Sat, 22 Aug 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/08/sonys-live-service-strategy-may-have-failed-but-helldivers-2-has-been-a-monstrous-hit

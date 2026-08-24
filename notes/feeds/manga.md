@@ -1,6 +1,41 @@
-# Manga — harvested 2026-08-24T11:06:14.951Z
+# Manga — harvested 2026-08-24T14:24:43.862Z
 
 ## Anime News Network
+
+### All 4 Persona 3 Anime Films Stream on Aniplex USA YouTube Channel for Limited Time
+Mon, 24 Aug 2026 10:05:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/all-4-persona-3-anime-films-stream-on-aniplex-usa-youtube-channel-for-limited-time/.240881
+
+Aniplex of America previously released all 4 films on home video
+
+### Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 19
+Mon, 24 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-19/.240859
+
+Rosemyne turns When-in-Rome-style custom-respecting into mandatory fun. And it is indeed fun to see Brigitte cut loose a bit and knock back some big beers at a barbecue.
+
+### Webtoon-Based Live-Action Inside Men Prequel Film Confirms Main Cast
+Mon, 24 Aug 2026 09:05:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/webtoon-based-live-action-inside-men-prequel-film-confirms-main-cast/.240787
+
+Film set in late 1980s will explore origins of power cartel portrayed in original 2015 movie
+
+### 10 Years in the Making: Returning to Magical Girl Raising Project with Director Hiroyuki Hashimoto
+Mon, 24 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-08-24/10-years-in-the-making-returning-to-magical-girl-raising-project-with-director-hiroyuki-hashimoto/.240244
+
+Ten years ago, director Hiroyuki Hashimoto brought novelist Asari Endō 's terrifying vision of a magical girl battle royale to television screens. Following the season's conclusion, there was no news of a sequel: until now.
+
+### This Week in Mobile Games - What HoloDreams May Come
+Mon, 24 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-08-24/.240480
+
+Josh checks out the first official HoloLive game, plus a port that may be the first game to look worse on purpose.
+
+### Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 19
+Mon, 24 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-19/.240848
+
+Iruma is learning that no good deed goes unpunished.
+
+### Scandal Rock Band to End Activities in August 2027
+Mon, 24 Aug 2026 08:13:06 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/scandal-rock-band-to-end-activities-in-august-2027/.240921
+
+Band to tour all over Japan starting in October, to hold final concert at Yokohama Arena on August 21, 2027
 
 ### My Stepmother and Stepsisters Aren't Wicked TV Anime Reveals 2 More Cast Members
 Mon, 24 Aug 2026 06:28:39 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/my-stepmother-and-stepsisters-arent-wicked-tv-anime-reveals-2-more-cast-members/.240917
@@ -26,41 +61,6 @@ Comic from <cite>Lookism, Viral Hit</cite> creator launched on August 16
 Mon, 24 Aug 2026 02:05:12 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/red-river-anime-casts-soma-saito-shun-horie/.240893
 
 Saitō plays Egyptian general User Ramses, Horie plays young Hittite prince Juda
-
-### '100 Girlfriends Who Really, Really, Really, Really, Really Love You' Season 3 Casts Rie Kugimiya
-Sun, 23 Aug 2026 23:18:53 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/100-girlfriends-who-really-really-really-really-really-love-you-season-3-casts-rie-kugimiya/.240890
-
-Kugimiya starts voicing Yaku Yakuzen, Kusuri's grandmother & Rentarō's newest girlfriend; in episode 8
-
-### Crossed Hearts Launches Studio Hearts Imprint, New Licenses
-Sun, 23 Aug 2026 17:32:33 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/crossed-hearts-launches-studio-hearts-imprint-new-licenses/.240886
-
-Titles include <cite>The Two of Them Can't Be Mobs</cite>, <cite>Love Beyond the Final Boss: The Hero's Party's Quest for Love</cite>, more
-
-### Yūki Kodama's Agent Jupiter Manga Ends
-Sun, 23 Aug 2026 17:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/yuki-kodama-agent-jupiter-manga-ends/.240855
-
-Series debuted in February 2025
-
-### Manga Up! Global Adds Unwinding with the Aloof Girl at the Standing Bar Manga
-Sun, 23 Aug 2026 16:51:27 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/manga-up-global-adds-unwinding-with-the-aloof-girl-at-the-standing-bar-manga/.240877
-
-Sorinokoshi, Taichi Okubo's romantic comedy launched on Manga Up! in Japan last August
-
-### Ignatz Awards Nominate Box Garden Beetle Manga for Outstanding Collection
-Sun, 23 Aug 2026 16:18:31 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/ignatz-awards-nominate-box-garden-beetle-manga-for-outstanding-collection/.240875
-
-Seirinkogeisha published Akino Kondoh's manga short story collection in Japan in 2004, Glacier Bay Books released it in English in May
-
-### RIDI to Shut Down Japanese Short-Form Live-Action Platform Kanta
-Sun, 23 Aug 2026 16:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/ridi-to-shut-down-japanese-short-form-live-action-platform-kanta/.240786
-
-Company to discontinue service to focus its resources on fan community platform business built around comics, webtoons, web novels
-
-### Kakao Games Partners With The Grimm Entertainment to Develop Games Based on Webtoons
-Sun, 23 Aug 2026 15:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/kakao-games-partners-with-the-grimm-entertainment-to-develop-games-based-on-webtoons/.240784
-
-Founded by webtoon artist Taejun Pak, The Grimm Entertainment owns several popular IPs, including <i>Manager Kim</i>, <i>Lookism</i>
 
 ## Crunchyroll News
 
