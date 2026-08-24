@@ -4,7 +4,7 @@ date: 2026-08-24
 category: Games
 author: ruben-castellani
 excerpt: Fans compared new Tides of Annihilation footage to old trailers and called it a beauty nerf. Eclipse Glow Games says the mesh didn't move — skin shading, cloth materials and the lighting rig did. That distinction is worth actually explaining.
-cover: /img/blog/tides-of-annihilation-gwendolyn-face-controversy/cover.svg
+cover: /img/blog/tides-of-annihilation-gwendolyn-face-controversy/shot-01.jpg
 draft: true
 ---
 
@@ -23,6 +23,11 @@ at once, and the gap between them is exactly the part of the job that
 doesn't show up in a press release.
 
 ## What actually moves a face without touching the mesh
+
+<figure>
+  <img src="/img/blog/tides-of-annihilation-gwendolyn-face-controversy/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Eclipse Glow Games, via the official Tides of Annihilation Steam page</figcaption>
+</figure>
 
 A character head in a modern engine is not one asset — it's a mesh
 underneath a stack of things that can each shift the read of a face on
