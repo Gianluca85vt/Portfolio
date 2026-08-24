@@ -1,0 +1,119 @@
+---
+import Base from '../layouts/Base.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import { site } from '../data/portfolio';
+
+// Not in the sitemap, not linked from the site, noindex. It is a switch for the
+// person who owns the site, not a page for readers.
+---
+
+<Base
+  title={`Analytics on this device — ${site.name}`}
+  description="Turn analytics off on this device."
+  noindex={true}
+>
+  <div class="min-h-screen flex flex-col" style="overflow-x:clip">
+    <SiteHeader current="/blog" />
+
+    <section class="px-5 sm:px-8 md:px-10 pt-14 sm:pt-20 pb-24">
+      <div class="max-w-[520px] mx-auto text-center">
+        <h1
+          class="hero-heading font-black uppercase leading-none tracking-tight"
+          style="font-size:clamp(1.8rem, 5vw, 2.8rem)"
+        >
+          This device
+        </h1>
+
+        <p class="text-[#D7E2EA]/55 font-light leading-relaxed mt-5 text-[0.92rem]">
+          Turn analytics off here so your own visits stop counting. The setting
+          lives in this browser on this device, so it survives a new IP address
+          and keeps working on mobile — but it has to be set once on every
+          browser you use, and it goes away if you clear site data.
+        </p>
+
+        <div
+          id="state"
+          class="mt-10 rounded-[16px] border p-7"
+          style="border-color:rgba(215,226,234,0.15)"
+        >
+          <p id="label" class="text-[#D7E2EA] font-medium text-[1.05rem]">Checking…</p>
+          <p id="detail" class="text-[#D7E2EA]/45 font-light text-[0.84rem] leading-relaxed mt-2"></p>
+
+          <button
+            id="toggle"
+            type="button"
+            class="mt-6 rounded-full px-8 py-3.5 font-medium uppercase tracking-widest text-[0.72rem] text-white transition-opacity duration-200 hover:opacity-90"
+            style="background:linear-gradient(123deg,#18011F 7%,#B600A8 37%,#7621B0 72%,#BE4C00 100%)"
+          >
+            …
+          </button>
+        </div>
+
+        <p class="text-[#D7E2EA]/30 font-light text-[0.78rem] leading-relaxed mt-8">
+          Excluding a device does not delete visits already recorded. It only
+          stops new ones from this browser.
+        </p>
+
+        <a
+          href="/"
+          class="inline-flex items-center gap-2 rounded-full border-2 border-[#D7E2EA]/40 text-[#D7E2EA] font-medium uppercase tracking-widest px-7 py-3 text-xs mt-10 transition-colors duration-300 hover:bg-[#D7E2EA]/10"
+        >
+          Back to the site
+        </a>
+      </div>
+    </section>
+  </div>
+
+  <script is:inline>
+    (function () {
+      var KEY = 'gs-no-track';
+      var label = document.getElementById('label');
+      var detail = document.getElementById('detail');
+      var button = document.getElementById('toggle');
+      var box = document.getElementById('state');
+
+      function read() {
+        try {
+          return localStorage.getItem(KEY) === '1';
+        } catch (e) {
+          return null; // storage blocked
+        }
+      }
+
+      function paint() {
+        var off = read();
+
+        if (off === null) {
+          label.textContent = 'Cannot set it in this browser';
+          detail.textContent =
+            'Storage is blocked here — private browsing, or a strict privacy setting. Analytics is probably blocked too, so this device may already not be counted.';
+          button.style.display = 'none';
+          box.style.borderColor = 'rgba(214,41,78,0.5)';
+          return;
+        }
+
+        label.textContent = off ? 'Analytics is OFF on this device' : 'Analytics is ON on this device';
+        detail.textContent = off
+          ? 'Your visits from this browser are not being recorded.'
+          : 'Your visits from this browser are being counted like anyone else’s.';
+        button.textContent = off ? 'Turn it back on' : 'Turn it off here';
+        box.style.borderColor = off ? 'rgba(11,128,75,0.55)' : 'rgba(215,226,234,0.15)';
+      }
+
+      button.addEventListener('click', function () {
+        try {
+          if (read()) localStorage.removeItem(KEY);
+          else localStorage.setItem(KEY, '1');
+        } catch (e) {}
+        paint();
+        // The tag is decided at page load, so the change takes hold on the next
+        // page. Reloading makes that immediate and visible.
+        setTimeout(function () {
+          location.reload();
+        }, 900);
+      });
+
+      paint();
+    })();
+  </script>
+</Base>

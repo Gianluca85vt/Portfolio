@@ -45,6 +45,9 @@ export default defineConfig({
     // whole sitemap looks equally stale, and a site publishing several times a
     // day gets crawled as if it never changes.
     sitemap({
+      // The analytics opt-out switch is for the site owner, not for readers or
+      // for search engines.
+      filter: (page) => !page.includes('/no-track'),
       serialize(item) {
         item.lastmod = new Date().toISOString();
         // The article pages are the point of the site; the utility routes are
