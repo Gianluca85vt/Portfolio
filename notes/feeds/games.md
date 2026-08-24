@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-24T05:24:10.791Z
+# Games — harvested 2026-08-24T08:25:20.187Z
 
 ## Eurogamer
+
+### Call of Duty: Modern Warfare 4 beta's first weekend numbers are in, and they're good - just not as high as Modern Warfare 2
+Mon, 24 Aug 2026 08:24:01 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-weekend-one-steam-numbers
+
+We're one day away from the end of the first session of the Call of Duty: Modern Warfare 4 beta , which kicked off Friday. Although Activision has yet to publish any numbers, we can look at its performance on Steam and compare it with other recent Call of Duty betas, as well as those from rival franchises. Read more
 
 ### Twitch faces a class action lawsuit over using streamers' content to train Amazon's AI
 Sun, 23 Aug 2026 16:55:20 +0000 — https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers
@@ -56,11 +61,6 @@ UPDATE 3.30pm: Despite the CyberLeek website going dark, nope, the GTA 6 leaks h
 Sat, 22 Aug 2026 10:33:31 +0000 — https://www.eurogamer.net/double-fine-ip-publishing-rights-xbox-split
 
 Double Fine has confirmed it owns &ndash; or will shortly own &ndash; the intellectual property and publishing rights to every game it made during its seven years under Xbox following the studio's split from Microsoft earlier this year. Read more
-
-### 61 video game things that spark joy
-Sat, 22 Aug 2026 09:10:15 +0000 — https://www.eurogamer.net/47-video-game-things-that-spark-joy
-
-Video games are great, that's why we're here! But some things about video games are greater than others. And so in the spirit of Eurogamer's Optimism Week - a chance to reflect on just how special the medium can be, at a time it isn't always easy to remember - we thought we'd switch tack; moving away from the big things, to the little things. Not the series we love, or the games we can't get enough of, but those strange, weird, little video gaming moments that, for us at least, spark joy. And, of course, we'd love to hear yours too in the comments below! Read more
 
 ## GamesIndustry.biz
 

@@ -1,6 +1,16 @@
-# Manga — harvested 2026-08-24T05:24:10.791Z
+# Manga — harvested 2026-08-24T08:25:20.187Z
 
 ## Anime News Network
+
+### Taejun Pak Launches New Inked Comic
+Mon, 24 Aug 2026 02:32:03 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/taejun-pak-launches-new-inked-comic/.240889
+
+Comic from <cite>Lookism, Viral Hit</cite> creator launched on August 16
+
+### Red River Anime Casts Sōma Saitō, Shun Horie
+Mon, 24 Aug 2026 02:05:12 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/red-river-anime-casts-soma-saito-shun-horie/.240893
+
+Saitō plays Egyptian general User Ramses, Horie plays young Hittite prince Juda
 
 ### '100 Girlfriends Who Really, Really, Really, Really, Really Love You' Season 3 Casts Rie Kugimiya
 Sun, 23 Aug 2026 23:18:53 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/100-girlfriends-who-really-really-really-really-really-love-you-season-3-casts-rie-kugimiya/.240890
@@ -51,16 +61,6 @@ Company to release <cite>Living the Slow Life as a Demon Lord, Shimotsuki-san Ha
 Sun, 23 Aug 2026 12:47:21 -0400 — https://www.animenewsnetwork.com/interest/2026-08-23/2nd-global-one-piece-character-poll-results-are-in/.240871
 
 Luffy has done it. He's the King of the … "One Piece World Top 100 2nd" poll
-
-### Amasian TV Streams Chiikawa Anime for Free in U.S.
-Sun, 23 Aug 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/amasian-tv-streams-chiikawa-anime-for-free-in-u.s/.240856
-
-Platform streams series with Japanese audio, subtitles in English
-
-### Uma Musume Franchise Announces New Umayuru Full Gate! Short Anime
-Sun, 23 Aug 2026 12:12:47 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/uma-musume-franchise-announces-new-umayuru-full-gate-short-anime/.240876
-
-New short anime streams in September
 
 ## Crunchyroll News
 

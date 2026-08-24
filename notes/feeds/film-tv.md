@@ -1,6 +1,36 @@
-# Film & TV — harvested 2026-08-24T05:24:10.791Z
+# Film & TV — harvested 2026-08-24T08:25:20.187Z
 
 ## Variety
+
+### Emomee, Indian Kids Life-Skills Series, Lands on Netflix (EXCLUSIVE)
+Mon, 24 Aug 2026 07:30:00 +0000 — https://variety.com/2026/tv/news/emomee-indian-kids-life-skills-series-netflix-1236841075/
+
+An Indian children s entertainment company has brought its debut original animated series to Netflix. Emomee: Big Skills for Little Ones, Minis, from the Mumbai-based brand Emomee, features 20 episodes of some 11 minutes each, centered on characters E, Mo and Mee as they navigate everyday adventures designed to build confidence, curiosity, kindness, emotional intelligence and [ ]
+
+### Deauville American Film Festival Reveals Industry Lineup
+Mon, 24 Aug 2026 06:51:05 +0000 — https://variety.com/2026/film/global/deauville-american-film-festival-industry-section-1236841342/
+
+The Deauville American Film Festival has revealed the lineup for the industry section of its 2026 edition. The Deauville Industry Days sidebar, taking place over two days at the festival being held at the French seaside town, will incorporate various talks, panels and sessions. Among them are The Art and Craft of Foodstyling, about cinematic [ ]
+
+### Game of Thrones Star Kristofer Hivju Turns to Rom-Com With ‘True Love’ by ‘Little Did I Know s Martina Haag (EXCLUSIVE)
+Mon, 24 Aug 2026 06:30:00 +0000 — https://variety.com/2026/film/global/kristofer-hivju-frida-hallgren-true-love-sf-studios-1236840991/
+
+Norwegian star actor Kristofer Hivju (“Game of Thrones,” “Red One”, “Beck”) will play opposite Frida Hallgren (from Oscar-nominated “As It Is in Heaven”) in the upcoming Swedish-Croatian rom-com “True Love” (working title). Helmed by actor-turned writer, director and best-selling author Martina Haag, the SF Studios project, now in pre-production, will be pitched Aug. 26. at [ ]
+
+### Erik Poppe Talks Haugesund Opener ‘Beloved,’ Written by Nobel Prize Winner Jon Fosse: ‘People Long for Something Honest and Truthful’
+Mon, 24 Aug 2026 06:15:00 +0000 — https://variety.com/2026/film/global/erik-poppe-haugesund-opener-beloved-nobel-prize-jon-fosse-1236841030/
+
+In “Beloved,” opening the Norwegian International Film Festival Haugesund, Erik Poppe takes on a script by Nobel Prize winner Jon Fosse. “It’s a project that has been on my desk for many, many years. Jon Fosse wrote it almost 20 years ago. After he received the Nobel Prize in Literature [in 2023], it felt like [ ]
+
+### Korea Box Office: The Odyssey Outmuscles Spider-Man: Brand New Day to Hold Top Spot
+Mon, 24 Aug 2026 06:01:39 +0000 — https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-insidious-1236841339/
+
+The Odyssey maintained its commanding position atop the South Korea box office during the weekend of Aug. 21–23. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed tentpole generated $10.6 million from 1,321,204 admissions over the three-day frame across 2,182 screens, capturing 66.3% of total weekend business. [ ]
+
+### China Box Office: Once Upon a Time in the Middle East Stays on Top as V Debuts in Second
+Mon, 24 Aug 2026 05:25:03 +0000 — https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327/
+
+Dirty Monkeys’ war comedy-drama Once Upon a Time in the Middle East held onto the No. 1 position at the mainland China box office during the Aug. 21–23 weekend, taking in RMB298.8 million ($43.9 million) in its second weekend of release, according to data from Artisan Gateway. Directed by Wen Muye ( Dying to Survive ) and [ ]
 
 ### Busan Unveils 23-Film Vision Section Lineup
 Mon, 24 Aug 2026 05:08:16 +0000 — https://variety.com/2026/film/festivals/busan-vision-section-lineup-2026-1236841324/
@@ -22,37 +52,17 @@ Sun, 23 Aug 2026 22:29:04 +0000 — https://variety.com/2026/film/reviews/boorma
 
 You might call Boorman’s fortitude admirable, but you could also call it delusional. And it lends "Boorman and the Devil" the quality of a true-life Christopher Guest movie. For this is the unintentionally funny story of what happens when utterly unhinged and high-minded hubris becomes your guiding light. Boorman, and others associated with "Exorcist II," know that they made an infamous disaster, yet the reason the film was a disaster still eludes them.
 
-### Shelley Fabares, Coach and The Donna Reed Show Star, Dies at 82
-Sun, 23 Aug 2026 21:40:25 +0000 — https://variety.com/2026/tv/news/shelley-fabares-dead-coach-the-donna-reed-show-1236841162/
-
-Shelley Fabares, the star of the classic sitcoms “The Donna Reed Show” and “Coach,” died on Saturday in Los Angeles. She was 82. Fabares’ family said in a statement, “We will miss her deeply — not only as a celebrated performer, but as the loving and extraordinary person she was in our everyday lives. We [ ]
-
-### Mark Ruffalo Called Out Over Extremist and Antisemitic Messaging by Simon Wiesenthal Center, Creative Communities For Peace
-Sun, 23 Aug 2026 20:24:28 +0000 — https://variety.com/2026/film/global/mark-ruffalo-paramount-antisemitic-tropes-1236841081/
-
-Two prominent Jewish advocacy groups have called out Mark Ruffalo for spreading “antisemitic tropes.” Words matter, and so does the willingness to draw a line when legitimate debate gives way to antisemitic tropes, said Jim Berk, CEO of the Simon Wiesenthal Center. We commend Paramount for speaking clearly and refusing to allow prejudice to masquerade [ ]
-
-### Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2
-Sun, 23 Aug 2026 19:44:06 +0000 — https://variety.com/2026/music/news/katseye-wild-first-no-1-phoebe-bridgers-no-2-albums-chart-1236841114/
-
-Katseye has scored their first No. 1 on the Billboard 200 as their latest project Wild debuts atop the list. Wild, the five-track offering led by the singles Pinky Up and Hootie Frutti, bows at the chart s summit with 170,000 equivalent album units, marking their biggest week by that metric and by pure album sales [ ]
-
-### Ridley Scott Says I m Not a Filmmaker, I m an Influencer
-Sun, 23 Aug 2026 18:20:17 +0000 — https://variety.com/2026/film/news/ridley-scott-not-a-filmmaker-im-an-influencer-the-dog-stars-1236841083/
-
-Ridley Scott recently told The Times of London that he sees himself not as a “filmmaker,” but as an “influencer.” “Every time, you are vulnerable,” Scott said when asked to identify a through line in his work. “Also, I never want to repeat myself and all my films have been on the money. I’ve been [ ]
-
-### Grace Passô’s ‘Our Secret’ Nabs the Best Film Kikito at the 54th Gramado Film Festival
-Sun, 23 Aug 2026 16:46:29 +0000 — https://variety.com/2026/film/global/passo-nosso-segredo-won-gramado-best-film-kikito-1236841004/
-
-GRAMADO, Brazil “Our Secret ( Nosso segredo ), the first feature from Grace Passô, nabbed the best feature film Kikito award at the Aug. 22 closing ceremony of the 54th Gramado Film Festival. The feature also scooped cinematography (Wilssa Esser) and art direction (Lucas Osório) plaudits. Passô, an established playwright and also actress, directed and wrote [ ]
-
-### Martin Short Gets Honest: What It’s Like to Be All Over the Emmy Race, Thanks to Three Very Different Projects
-Sun, 23 Aug 2026 16:30:00 +0000 — https://variety.com/2026/tv/awards/martin-short-busy-emmy-race-three-very-different-projects-1236839629/
-
-Martin Short is having quite a unique Emmy season, and he knows it. His name is all over this year’s nominations, via three very distinct projects: As an actor, he’s nominated for outstanding comedy lead via Hulu’s “Only Murders in the Building.” (He also has a comedy series nom for the show as an executive [ ]
-
 ## The Hollywood Reporter
+
+### I Plant My Hand in the Garden Blurs the Line Between Autobiography and Fiction to Explore Identity and Family (Exclusive Venice Trailer)
+Mon, 24 Aug 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/i-plant-my-hand-in-the-garden-film-trailer-2026-venice-days-1236676841/
+
+Hoda Taheri and Boris Hadžija's feature debut, premiering in the Venice Days competition, asks "how institutions, such as marriage, nationality and gender, assign roles that feel both real and constructed."
+
+### Busan Film Festival Sets 23 Titles for Vision Korea, Vision Asia Sections
+Mon, 24 Aug 2026 06:53:39 +0000 — https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-2026-vision-korea-vision-asia-sections-1236679526/
+
+Busan has selected 12 Korean indies and 11 films from emerging directors from across Asia for its 2026 edition, with the main competition lineup still to come.
 
 ### John Oliver Takes a Close Look at Sean Duffy s God-Awful New Reality Show: We ve All Been Taken for a F***ing Ride
 Mon, 24 Aug 2026 04:47:57 +0000 — https://www.hollywoodreporter.com/tv/tv-news/last-week-tonight-john-oliver-sean-duffy-reality-show-1236679486/
@@ -94,17 +104,32 @@ Sun, 23 Aug 2026 16:03:27 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Tom Holland's superhero blockbuster topped the worldwide sum for 'Force Awakens' while up against the launches of 'Insidious: Out of the Further' and Jason Statham's 'Mutiny.'
 
-### Nick Glennie-Smith, Composer on ‘The Rock,’ ‘The Man in the Iron Mask’ and ‘Secretariat,’ Dies at 74
-Sun, 23 Aug 2026 15:42:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/nick-glennie-smith-man-in-iron-mask-secretariat-composer-1236679301/
-
-The British conductor and keyboardist collaborated often with Oscar winner Hans Zimmer.
-
-### Charlize Theron Reflects on Mad Max: Fury Road a Decade Later: There s a Deep Connection to This Film
-Sun, 23 Aug 2026 15:37:53 +0000 — https://www.hollywoodreporter.com/movies/movie-news/charlize-theron-mad-max-fury-road-decade-later-1236679218/
-
-At a special 'Fury Road' screening, the star acknowledged how iconic her character has become, so much so that she now meets young children named Furiosa: "The weirdest thing ever."
-
 ## Deadline
+
+### Bonta Cancels Paramount Settlement Meeting; CA AG Accuses Ellison Of Playing Games In WBD Merger Talks
+Mon, 24 Aug 2026 08:11:50 +0000 — https://deadline.com/2026/08/bonta-cancels-paramount-settlement-meeting-1237048537/
+
+There will be no settlement talks meeting Monday between Paramount and a coalition of state Attorneys General after all. California AG Rob Bonta cancelled the scheduled sit-down late Sunday after reports of an August 21 meeting with the David Ellison-led company oozed out. Not only did Paramount leak the alleged substance of settlement discussions, but [ ]
+
+### Hayley Atwell Says Peggy Carter Getting Frisbeed To Death In Doctor Strange Was A Complete Disservice To The Character
+Mon, 24 Aug 2026 07:57:12 +0000 — https://deadline.com/2026/08/hayley-atwell-agent-carter-death-disservice-to-character-1237048526/
+
+Hayley Atwell was disappointed about the demise of Peggy Carter. In an interview at the For the Love of Fantasy Sci-Fi convention in London, Atwell told attendees that she was frustrated by Captain Carter s storyline in 2022’s Doctor Strange in the Multiverse of Madness. Cameoing in the film as an alternate to Captain America, [ ]
+
+### Netflix Posts $2.8B Revenues In UK To Overtake ITV For First Time
+Mon, 24 Aug 2026 07:43:52 +0000 — https://deadline.com/2026/08/netflix-uk-revenues-overtake-itv-1237048522/
+
+Netflix just hit a major milestone in the UK. The global streamer has posted £2.06B ($2.81B) revenues for full-year 2025, meaning it generated more cash than the country s leading commercial broadcaster, ITV, and is well ahead of smaller PSB rivals Channel 4 (£1B) and Paramount-owned 5 (£318M). The BBC s is funded by the licence fee [ ]
+
+### Prime Video To Adapt CJ ENM Reality Format ‘EXchange’ In Brazil As ‘Love Transit’
+Mon, 24 Aug 2026 07:28:12 +0000 — https://deadline.com/2026/08/prime-video-cj-enm-exchange-love-transit-brazil-1237048524/
+
+Korean studio CJ ENM has struck a deal for its hit dating reality format EXchange, which will be adapted in Brazil as a Prime Video Original, titled Love Transit. Directed by Brazilian television producer Boninho, and produced by Amazon MGM Studios and Formata, the show will begin filming in São Paulo and Campos do Jordão in September. [ ]
+
+### Paramount AGs Settlement Meeting Monday More Show Than Substance As Cable Channel Sell-Offs Curbing Ellison s Power Put On The Table
+Mon, 24 Aug 2026 06:16:55 +0000 — https://deadline.com/2026/08/paramount-lawsuit-settlement-meeting-details-1237048499/
+
+EXCLUSIVE: A meeting Monday between Paramount brass and state Attorneys General over sussing out settlement talks between the parties in David Ellison s contested $111 billion acquisition of Warner Bros Discovery has turned into a game of PR chicken, an industry insider says. Ellison and Makan Delrahim think they can force Rob Bonta into backing off [ ]
 
 ### Days of Our Lives EP Ken Corday Plans Concert To Benefit SAG/AFTRA Foundation’s Emergency Assistance Program
 Mon, 24 Aug 2026 03:30:00 +0000 — https://deadline.com/2026/08/days-of-our-lives-ken-corday-plans-benefit-concert-burbank-1237048486/
@@ -140,29 +165,4 @@ Shelley Fabares, the actress known for her roles in The Donna Reed Show and seve
 Sun, 23 Aug 2026 19:45:00 +0000 — https://deadline.com/2026/08/indie-film-box-office-tony-anthony-bourdain-biopic-sizzling-1237048340/
 
 A24’s Tony landed at no. 7 in a big expansion to 1,642 runs (from just under 40). It’s cooking with a $5 million weekend and $6.6 million cume in week 3 for the Matt Johnson film starring Dominic Sessa as a young Anthony Bourdain and Antonio Banderas as an early mentor. The coming-of-age story imagines [ ]
-
-### Will Forte, Lana Condor Had Hope For Coyote vs. Acme Release After Freakin Awesome Funeral Screening
-Sun, 23 Aug 2026 19:36:49 +0000 — https://deadline.com/2026/08/will-forte-lana-condor-had-hope-coyote-vs-acme-release-1237048343/
-
-After nearly three years in Hollywood distro purgatory, the stars of Coyote vs. Acme always had faith the movie would see the light of day. While discussing the Dave Green-helmed Looney Tunes movie, which premieres Aug. 28 in theaters via Ketchup Entertainment, Will Forte and Lana Condor recalled that the first screening was so good, [ ]
-
-### 2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025
-Sun, 23 Aug 2026 19:04:04 +0000 — https://deadline.com/2026/08/box-office-domestic-7-billion-1237048328/
-
-This summer, and this year, further shows the importance of protecting the theatrical window as the domestic annual box office has crossed the $7 billion mark according to Rentrak. Those are the best numbers we ve seen post Covid, +20% above the same period a year ago (Jan. 1-Aug. 23 which was at $5.86B with the [ ]
-
-### Dr. Dre Admits He Uses AI To Produce, Doesn t See It As A Threat : I m Embracing It
-Sun, 23 Aug 2026 18:52:20 +0000 — https://deadline.com/2026/08/dr-dre-uses-ai-doesnt-see-threat-1237048327/
-
-As creative industries remain divided on AI, Dr. Dre is full steam ahead on implementing the technology in his own work. The 8x Grammy winner recently admitted to using artificial intelligence in his music producing, explaining the he doesn t see the technology as a threat, but as a new tool for creativity. I don t see [ ]
-
-### Spider-Man: Brand New Day No. 1 $109M WW, Insidious Franchise Rises To $800M WW Global Box Office
-Sun, 23 Aug 2026 17:50:11 +0000 — https://deadline.com/2026/08/global-box-office-spider-man-brand-new-day-insidious-6-1237048315/
-
-The spoils in the U.S. are also the spoils abroad with the global box office in overdrive, much like the United States. Sony/Marvel Studio s Spider-Man: Brand New Day continues to hulk out with a fourth global weekend of $109M (-43% from last weekend, ahead of the $85M that was forecasted; $39M stateside and $70M offshore) [ ]
-
-### Bret Michaels Cancels 2026 Tour Dates As Doctors Pull Him Off The Road Following Recent Surgery
-Sun, 23 Aug 2026 17:29:28 +0000 — https://deadline.com/2026/08/bret-michaels-cancels-2026-tour-dates-surgery-1237048319/
-
-A month after undergoing kidney stone surgery, Bret Michaels is taking some time off from the road to recover. On Saturday, the Poison frontman canceled the remainder of the 2026 stops on his Live Amplified Tour, following his doctors orders to take a much-needed period of rest and slow recovery after the procedure. Following [ ]
 
