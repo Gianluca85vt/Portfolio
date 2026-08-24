@@ -1,6 +1,21 @@
-# Games — harvested 2026-08-24T08:25:20.187Z
+# Games — harvested 2026-08-24T11:06:14.951Z
 
 ## Eurogamer
+
+### How to Fish is the latest Steam indie sensation, selling 1 million copies in just two days
+Mon, 24 Aug 2026 09:33:52 +0000 — https://www.eurogamer.net/how-to-fish-one-million-sales-steam
+
+If you've browsed the frontpage of Steam in the last few days, you'll no doubt have come across How to Fish, the debut project from developer Dazed Games. The co-op fishing game released on 20th August, and just three days later, its developer announced it had sold 1 million copies. Read more
+
+### Rumours of a third Ori game are "nonsense", confirms series creator
+Mon, 24 Aug 2026 09:11:26 +0000 — https://www.eurogamer.net/ori-3-rumours-nonsense-series-creator-confirms
+
+Rumours of a new Ori game are "nonsense", confirms series creator Thomas Maher. Read more
+
+### Final Fantasy Resonance is getting a 120-song original soundtrack
+Mon, 24 Aug 2026 09:03:40 +0000 — https://www.eurogamer.net/final-fantasy-resonance-120-song-ost
+
+Earlier this year, Square Enix announced that we'll be getting our first HD-2D Final Fantasy game in October this year , and it's based on the now-shuttered mobile title Brave Exvius. Read more
 
 ### Call of Duty: Modern Warfare 4 beta's first weekend numbers are in, and they're good - just not as high as Modern Warfare 2
 Mon, 24 Aug 2026 08:24:01 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-weekend-one-steam-numbers
@@ -47,30 +62,38 @@ Sat, 22 Aug 2026 15:06:33 +0000 — https://www.eurogamer.net/blood-of-dawnwalke
 
 New console gameplay from developer Rebel Wolves and publisher Bandai Namco has confirmed The Blood of Dawnwalker won't offer a 60fps mode on PS5 or Xbox Series X/S when it launches next month Read more
 
-### Silent Hill: Townfall's new gameplay trailer quietly confirms how long its PS5 exclusivity will last
-Sat, 22 Aug 2026 11:52:17 +0000 — https://www.eurogamer.net/silent-hill-townfall-gameplay-trailer-ps5-exclusivity-window
-
-A new Silent Hill: Townfall gameplay trailer has offered up over 18 minutes of first-look footage while also quietly confirming exactly how long the game's PlayStation 5 exclusivity will last. Read more
-
-### Is this the end of the GTA 6 leaks? Take-Two's legal crusade appears to shut down the hubs behind them
-Sat, 22 Aug 2026 11:16:33 +0000 — https://www.eurogamer.net/gta-6-cyberleek-website-down
-
-UPDATE 3.30pm: Despite the CyberLeek website going dark, nope, the GTA 6 leaks haven't stopped. Read more
-
-### Double Fine confirms it owns all its games' IP and publishing rights after Xbox split
-Sat, 22 Aug 2026 10:33:31 +0000 — https://www.eurogamer.net/double-fine-ip-publishing-rights-xbox-split
-
-Double Fine has confirmed it owns &ndash; or will shortly own &ndash; the intellectual property and publishing rights to every game it made during its seven years under Xbox following the studio's split from Microsoft earlier this year. Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Double Fine Productions regains ownership of IP and publishing rights following independence from Xbox
+Mon, 24 Aug 2026 11:05:37 +0000 — https://www.gamesindustry.biz/double-fine-productions-regains-ownership-of-ip-and-publishing-rights-following-independence-from-xbox
+
+Double Fine Productions has regained ownership of its intellectual property and publishing rights after leaving Xbox Read more
+
+### Take-Two Interactive files subpoenas against Microsoft, Discord, and X amid ongoing GTA 6 leaks
+Mon, 24 Aug 2026 09:53:53 +0000 — https://www.gamesindustry.biz/take-two-interactive-files-subpoenas-against-microsoft-discord-and-x-amid-ongoing-gta-6-leaks
+
+Take-Two Interactive has subpoenaed Microsoft, Discord, and X regarding the ongoing Grand Theft Auto 6 leaks. Read more
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### PS5 RPG Dawnwalker Actually Will Have 60FPS Mode, Part of Day One Patch
+Mon, 24 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-rpg-dawnwalker-actually-will-have-60fps-mode-part-of-day-one-patch
+
+Rebel Wolves had it in testing. After revealing The Blood of Dawnwalker will only have a 30FPS Quality Mode and a 40FPS Balanced Mode at launch, developer Rebel Wolves has this morning rushed to confirm there actually will be a Performance Mode offering 60FPS. In a social media post, the team shared a Performance Mode that targets 60 frames-per-second will be available on day one, 3rd September 2026, via a day one update. It said it had been testing a Performance Mode, but it was not ready to promise it would be available at release, so the option wasn't mentioned. Read the full article on pushsquare.com
+
+### Guide: GTA 6 Netflix Extended Look: When and How to Watch
+Mon, 24 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch
+
+Dates, times, and all you need to know. GTA 6 is on the horizon, but before it makes its long-awaited debut on 19th November 2026, Rockstar Games is treating us to what it calls an Extended Look — and it's available first on Netflix. Though we don't know exactly what it'll entail, it's expected this will be our biggest and best way to see the highly anticipated game in action before it launches. Read the full article on pushsquare.com
+
+### Guide: When Is Gamescom Opening Night Live 2026?
+Mon, 24 Aug 2026 08:00:00 GMT — https://www.pushsquare.com/guides/when-is-gamescom-opening-night-live-2026
+
+Dates, times, and what to expect. When is Gamescom Opening Night Live 2026? It's that time once again, when Geoff Keighley awakens for his second annual show of the year: Gamescom Opening Night Live, getting the massive German expo started with a bang. What are all the details, then? When exactly can you tune in to watch the show, and what's gonna be there? In this guide, we're providing you with all the details you need before the showcase begins. Read the full article on pushsquare.com
 
 ### Feature: I Searched for Merch from My Fave PS5 Games in Chengdu s Enormous Anime Mall
 Sun, 23 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/features/i-searched-for-merch-from-my-fave-ps5-games-in-chengdus-enormous-anime-mall
@@ -112,22 +135,10 @@ Sat, 22 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/features/i-travelle
 
 Featuring pandas, hot pot, and Sichuan opera. When I first heard word that Chinese studio Eclipse Glow Games was preparing to show the world its highly anticipated PS5 action game Tides of Annihilation in China, I couldn’t help but laugh at the irony considering the game is based on my home in the UK. Plans were promptly made to ship me over 8,000km to the studio’s office in Chengdu to get two hours of hands-on time with the title. Read the full article on pushsquare.com
 
-### Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (24th-30th August)
-Sat, 22 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-24th-30th-august
-
-Metal Gear Solid! Aliens! Star Wars! A Plague Tale! An absolutely gigantic week awaits on the PS5 this time, with major titles like Resonance: A Plague Tale Legacy and Star Wars Zero Company vying for your attention. Other noteworthy games next week include Aliens: Fireteam Elite 2 and Metal Gear Solid Master Collection Vol 2 . Read the full article on pushsquare.com
-
-### Guide: All PS Plus Games Available Now
-Sat, 22 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/guides/all-ps-plus-games-available-now
-
-Every PS Plus game, updated in one place. We’re tracking every PS Plus game available now, so you always know exactly what’s included in your tier of Sony’s subscription service. This page lists all current PS Plus Essential , PS Plus Extra , and PS Plus Premium games across PS5 and PS4 , alongside upcoming additions and confirmed expiry dates – so you never miss out. Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 647
-Sat, 22 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-647
-
-That sinking feeling. Gee-whiz, these weekends come around quick. Not that I'm complaining — more time to eat pizza and play PS5 is a positive as far as I'm concerned. Aaron Bayne I've got a couple of embargoed games on the go, but I think I'd quite like to chip away at The Sinking City 2 . I really liked what I played of it so far while recording footage for our video review. Read the full article on pushsquare.com
-
 ## Game Developer
 
-_Nothing in the last 48 hours._
+### 'Each event has to feel local and relevant to its market:' Gamescom wants responsible expansion after record-breaking year
+Mon, 24 Aug 2026 09:23:12 GMT — https://www.gamedeveloper.com/business/-each-event-has-to-feel-local-and-relevant-to-its-market-gamescom-boss-wants-responsible-expansion-after-record-breaking-year
+
+Gamescom 2026 is about to deliver its biggest show in history, so where does the industry expo head next?
 

@@ -1,6 +1,21 @@
-# Manga — harvested 2026-08-24T08:25:20.187Z
+# Manga — harvested 2026-08-24T11:06:14.951Z
 
 ## Anime News Network
+
+### My Stepmother and Stepsisters Aren't Wicked TV Anime Reveals 2 More Cast Members
+Mon, 24 Aug 2026 06:28:39 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/my-stepmother-and-stepsisters-arent-wicked-tv-anime-reveals-2-more-cast-members/.240917
+
+Hiroki Nanami plays Sadame Mikuriya, Nao Tōyama plays Hachi Ura in anime based on Otsuji's manga
+
+### Tokyo Revengers: War of the Three Titans Arc Reveals 4th Trailer, Key Visual, NYCC Appearance with Mariya Ise
+Mon, 24 Aug 2026 06:09:27 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/tokyo-revengers-war-of-the-three-titans-arc-reveals-4th-trailer-key-visual-nycc-appearance-with-/.240920
+
+go!go!vanillas perform ending theme titled "TRICK STAR"
+
+### New Rokudenashi Blues Manga Delayed to Winter, Gets New Artist
+Mon, 24 Aug 2026 05:00:49 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/new-rokudenashi-blues-manga-delayed-to-winter-gets-new-artist/.240888
+
+Yuki Yoshimoto takes over as artist from Boichi
 
 ### Taejun Pak Launches New Inked Comic
 Mon, 24 Aug 2026 02:32:03 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/taejun-pak-launches-new-inked-comic/.240889
@@ -46,21 +61,6 @@ Company to discontinue service to focus its resources on fan community platform 
 Sun, 23 Aug 2026 15:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/kakao-games-partners-with-the-grimm-entertainment-to-develop-games-based-on-webtoons/.240784
 
 Founded by webtoon artist Taejun Pak, The Grimm Entertainment owns several popular IPs, including <i>Manager Kim</i>, <i>Lookism</i>
-
-### WEBTOON Acquires 60% Stake in Game Company RI Games Holdings to Expand Webtoons Into Games
-Sun, 23 Aug 2026 14:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/webtoon-acquires-60-percent-stake-in-game-company-ri-games-holdings-to-expand-webtoons-into-games/.240541
-
-Developer's lineup includes games based on popular webtoon titles <i>Overgeared</i>, <i>Doom Breaker</i>, <i>Omniscient Reader's Viewpoint</i>
-
-### Hanashi Media Licenses The Hated Prince's Do-Over, The Sage of the Forbidden Library, 6 More Light Novels
-Sun, 23 Aug 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-23/hanashi-media-licenses-the-hated-prince-do-over-the-sage-of-the-forbidden-library-6-more-light-/.240838
-
-Company to release <cite>Living the Slow Life as a Demon Lord, Shimotsuki-san Has a Thing for a Background Character</cite>, more light novels in English
-
-### 2nd Global One Piece Character Poll Results Are In
-Sun, 23 Aug 2026 12:47:21 -0400 — https://www.animenewsnetwork.com/interest/2026-08-23/2nd-global-one-piece-character-poll-results-are-in/.240871
-
-Luffy has done it. He's the King of the … "One Piece World Top 100 2nd" poll
 
 ## Crunchyroll News
 

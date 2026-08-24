@@ -1,6 +1,41 @@
-# Film & TV — harvested 2026-08-24T08:25:20.187Z
+# Film & TV — harvested 2026-08-24T11:06:14.951Z
 
 ## Variety
+
+### Vietnamese Found-Footage Horror Hit Lau Chu Hoa: The Deadliest Mansion Heads to North American Theaters (EXCLUSIVE)
+Mon, 24 Aug 2026 10:23:20 +0000 — https://variety.com/2026/film/news/lau-chu-hoa-deadliest-mansion-north-america-release-1236841428/
+
+Vietnamese found-footage horror film Lầu Chú Hoả: The Deadliest Mansion is opening in North American theaters on Sept. 4, with Mockingbird Pictures placing the title across AMC, Regal and Cinemark circuits. Directed by Hùng Trần, the film became Vietnam s first theatrical found-footage horror release and turned into a breakout hit after its June debut. It [ ]
+
+### Brad Pitt s ‘Heart of the Beast’ Added to San Sebastián Lineup
+Mon, 24 Aug 2026 10:06:53 +0000 — https://variety.com/2026/film/global/brad-pitt-heart-of-the-beast-paramount-san-sebastian-1236841422/
+
+Paramount Pictures’ “The Heart of the Beast,” starring Brad Pitt and directed by David Ayer, has been added to San Sebastián Film Festival’s lineup, screening out of competition in its Official Selection. Both Pitt and Ayer will attend San Sebastián to present the film, the Spanish film festival announced Monday. The survival thriller sees Pitt, [ ]
+
+### Joachim Trier’s ‘Sentimental Value,’ Hlynur Pálmason’s ‘The Love That Remains’ Among the Nominees for the Nordic Council Film Prize
+Mon, 24 Aug 2026 10:00:00 +0000 — https://variety.com/2026/awards/awards/sentimental-value-nominees-nordic-council-film-prize-1236841360/
+
+Five features and one documentary have been nominated for the 2026 Nordic Council Film Prize. It’s awarded to a feature film or documentary produced in the Nordic countries that has been distributed in cinemas. Some picks – announced at the Norwegian International Film Festival Haugesund – come as no surprise, as Joachim Trier’s Oscar-winning “Sentimental [ ]
+
+### California Attorney General Cancels Paramount Settlement Talks Over $111 Billion Warner Bros. Discovery Deal, Says He ll Meet When They Stop Playing Games
+Mon, 24 Aug 2026 09:32:30 +0000 — https://variety.com/2026/film/global/california-ag-bonta-cancels-paramount-settlement-talks-1236841379/
+
+California Attorney General Rob Bonta has canceled planned settlement talks with Paramount over the state s lawsuit seeking to block David Ellison s proposed $111 billion acquisition of Warner Bros. Discovery, accusing Paramount of acting in bad faith, according to The New York Times. Bonta is leading a coalition of 12 states in challenging the proposed merger and asking [ ]
+
+### Venice Adds Naza, Documentary From No Other Land Directors Yuval Abraham and Rachel Szor, to Competition
+Mon, 24 Aug 2026 09:20:09 +0000 — https://variety.com/2026/film/festivals/venice-naza-doc-no-other-land-directors-competition-1236841390/
+
+The Venice Film Festival has made a last-minute addition to its competition lineup: Naza, a new documentary from No Other Land directors Yuval Abraham and Rachel Szor. The doc, which was shot at night on the rooftops of Tel Aviv, shows in detail the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza, [ ]
+
+### Alia Bhatt s Young-Adult Rom-Com Don t Be Shy Sets September Prime Video Premiere (EXCLUSIVE)
+Mon, 24 Aug 2026 08:54:17 +0000 — https://variety.com/2026/tv/news/alia-bhatt-dont-be-shy-prime-video-premiere-date-1236841347/
+
+Prime Video has set a September premiere date for Don t Be Shy, a young-adult romantic comedy from Alia Bhatt and Shaheen Bhatt s Eternal Sunshine Productions. Sreeti Mukerji wrote and directed the coming-of-age film, which is produced by Bhatt and Shaheen Bhatt under the Eternal Sunshine Productions banner, with Grishma Shah and Vikesh Bhutani serving as [ ]
+
+### An Oak Tree Casts Sacha Dhawan, Gemma Whelan for London Run (EXCLUSIVE)
+Mon, 24 Aug 2026 08:30:21 +0000 — https://variety.com/2026/theater/news/an-oak-tree-cast-sacha-dhawan-gemma-whelan-other-palace-1236841365/
+
+Francesca Moody Productions has unveiled the first wave of guest performers joining Tim Crouch s An Oak Tree for its run at The Other Palace in London, with Sacha Dhawan, Gemma Whelan, Bessie Carter, Rosalie Craig, Hammed Animashaun, George Fouracres, Clare Perkins and Tom Mothersdale each taking on a single performance. Crouch performs alongside a different [ ]
 
 ### Emomee, Indian Kids Life-Skills Series, Lands on Netflix (EXCLUSIVE)
 Mon, 24 Aug 2026 07:30:00 +0000 — https://variety.com/2026/tv/news/emomee-indian-kids-life-skills-series-netflix-1236841075/
@@ -17,42 +52,22 @@ Mon, 24 Aug 2026 06:30:00 +0000 — https://variety.com/2026/film/global/kristof
 
 Norwegian star actor Kristofer Hivju (“Game of Thrones,” “Red One”, “Beck”) will play opposite Frida Hallgren (from Oscar-nominated “As It Is in Heaven”) in the upcoming Swedish-Croatian rom-com “True Love” (working title). Helmed by actor-turned writer, director and best-selling author Martina Haag, the SF Studios project, now in pre-production, will be pitched Aug. 26. at [ ]
 
-### Erik Poppe Talks Haugesund Opener ‘Beloved,’ Written by Nobel Prize Winner Jon Fosse: ‘People Long for Something Honest and Truthful’
-Mon, 24 Aug 2026 06:15:00 +0000 — https://variety.com/2026/film/global/erik-poppe-haugesund-opener-beloved-nobel-prize-jon-fosse-1236841030/
-
-In “Beloved,” opening the Norwegian International Film Festival Haugesund, Erik Poppe takes on a script by Nobel Prize winner Jon Fosse. “It’s a project that has been on my desk for many, many years. Jon Fosse wrote it almost 20 years ago. After he received the Nobel Prize in Literature [in 2023], it felt like [ ]
-
-### Korea Box Office: The Odyssey Outmuscles Spider-Man: Brand New Day to Hold Top Spot
-Mon, 24 Aug 2026 06:01:39 +0000 — https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-insidious-1236841339/
-
-The Odyssey maintained its commanding position atop the South Korea box office during the weekend of Aug. 21–23. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed tentpole generated $10.6 million from 1,321,204 admissions over the three-day frame across 2,182 screens, capturing 66.3% of total weekend business. [ ]
-
-### China Box Office: Once Upon a Time in the Middle East Stays on Top as V Debuts in Second
-Mon, 24 Aug 2026 05:25:03 +0000 — https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327/
-
-Dirty Monkeys’ war comedy-drama Once Upon a Time in the Middle East held onto the No. 1 position at the mainland China box office during the Aug. 21–23 weekend, taking in RMB298.8 million ($43.9 million) in its second weekend of release, according to data from Artisan Gateway. Directed by Wen Muye ( Dying to Survive ) and [ ]
-
-### Busan Unveils 23-Film Vision Section Lineup
-Mon, 24 Aug 2026 05:08:16 +0000 — https://variety.com/2026/film/festivals/busan-vision-section-lineup-2026-1236841324/
-
-The 31st Busan International Film Festival (BIFF) has unveiled 23 Korean and Asian independent films for its Vision section, split into 12 titles under Vision-Korea and 11 under Vision-Asia. The Vision section grew out of Korean Cinema Today – Vision, expanding last year into a standalone program covering filmmakers across the continent. This year s lineup [ ]
-
-### John Oliver Embarrasses Trump Transportation Secretary Sean Duffy Over ‘Godawful’ YouTube Reality Show and ‘Real World’ Past
-Mon, 24 Aug 2026 04:01:31 +0000 — https://variety.com/2026/tv/news/john-oliver-sean-duffy-trump-real-world-road-trip-youtube-1236841318/
-
-John Oliver is an outspoken fan of reality TV — but not this former “Real World” star. On Sunday’s “Last Week Tonight,” the political pundit took aim squarely at Sean Duffy, President Trump’s Secretary of Transportation and former congressman and “The Real World: Boston” cast member. You see, on Wednesday, Duffy dropped all six episodes [ ]
-
-### Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review
-Mon, 24 Aug 2026 01:02:08 +0000 — https://variety.com/2026/music/concert-reviews/foo-fighters-hollywood-bowl-gustavo-dudamel-concert-review-1236841090/
-
-The LA Phil has played with plenty of pop and rock acts before, but it may have taken Foo Fighters to really put the dude in Dudamel. And not a moment too soon, with this being famed conductor Gustavo Dudamel s final weekend at the helm of Los Angeles primary house symphony. The Phil s hookup with [ ]
-
-### Boorman and the Devil Review: The Making of John Boorman s 1977 Disaster Exorcist II: The Heretic Becomes a Documentary So Unbelievable It s Funny
-Sun, 23 Aug 2026 22:29:04 +0000 — https://variety.com/2026/film/reviews/boorman-and-the-devil-review-exorcist-ii-the-heretic-1236841140/
-
-You might call Boorman’s fortitude admirable, but you could also call it delusional. And it lends "Boorman and the Devil" the quality of a true-life Christopher Guest movie. For this is the unintentionally funny story of what happens when utterly unhinged and high-minded hubris becomes your guiding light. Boorman, and others associated with "Exorcist II," know that they made an infamous disaster, yet the reason the film was a disaster still eludes them.
-
 ## The Hollywood Reporter
+
+### Brad Pitt to Return to San Sebastian Film Festival With David Ayer s Heart of the Beast
+Mon, 24 Aug 2026 10:59:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-san-sebastian-film-david-ayer-heart-of-the-beast-1236679572/
+
+It marks Pitt's first visit to the Spanish film festival since he and Quentin Tarantino presented 'Inglourious Basterds' in 2009.
+
+### Venice Adds Gaza Doc Naza to Competition
+Mon, 24 Aug 2026 10:52:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/venice-adds-gaza-doc-naza-to-competition-line-up-1236679565/
+
+Directed by 'No Other Land' filmmakers Yuval Abraham and Rachel Szor, the doc explores Israeli military killings of Palestinian civilians in Gaza.
+
+### Meet Tuide, Your New Favorite Girl Group (Exclusive)
+Mon, 24 Aug 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/music/music-features/tuide-hybe-kpop-new-girl-group-interview-1236679453/
+
+The seven-member K-pop group's debut has been highly anticipated. For the young women of Tuide, it's been years in the making: "It's a really dream come true."
 
 ### I Plant My Hand in the Garden Blurs the Line Between Autobiography and Fiction to Explore Identity and Family (Exclusive Venice Trailer)
 Mon, 24 Aug 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/i-plant-my-hand-in-the-garden-film-trailer-2026-venice-days-1236676841/
@@ -89,27 +104,42 @@ Sun, 23 Aug 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Fresh creations like 'Among Us' and 'Haha, You Clowns' are getting snubbed for old snoozes. But there’s a way out — if the TV Academy will listen.
 
-### ‘Tucci in Italy’ Cinematographer Matt Ball on Making Italy Look Delicious
-Sun, 23 Aug 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/tucci-in-italy-cinematographer-italy-1236671527/
-
-The three-time Emmy-nominated craftsman talks filming seaside meals, Renaissance palaces and hidden culinary gems while resisting the urge to make every frame too polished.
-
-### Simon Wiesenthal Center CEO Calls Out Mark Ruffalo s Paramount Remarks: Obsession and Demonization
-Sun, 23 Aug 2026 16:44:34 +0000 — https://www.hollywoodreporter.com/business/business-news/simon-wiesenthal-center-slams-mark-ruffalo-paramount-comments-1236679297/
-
-Paramount has already clapped back at the Marvel actor, calling his anti-merger comments "antisemitic."
-
-### Spider-Man: Brand New Day Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory
-Sun, 23 Aug 2026 16:03:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-2-1236678980/
-
-Tom Holland's superhero blockbuster topped the worldwide sum for 'Force Awakens' while up against the launches of 'Insidious: Out of the Further' and Jason Statham's 'Mutiny.'
-
 ## Deadline
+
+### Woody Allen To Start Shooting Next Project In Spain In October
+Mon, 24 Aug 2026 10:50:30 +0000 — https://deadline.com/2026/08/woody-allen-spain-film-october-2026-1237048732/
+
+Woody Allen will begin production on his next feature project in Spain in October. We’re told the project, which is estimated to have a budget of around $14M, will be largely English-language and feature a high-profile cast that is still coming together. Madrid-based Wanda Vision and Allen’s banner, Gravier Production, are producing the title alongside [ ]
+
+### San Sebastián Adds David Ayer s ‘Heart Of The Beast’ Starring Brad Pitt To Lineup
+Mon, 24 Aug 2026 10:21:55 +0000 — https://deadline.com/2026/08/san-sebastian-david-ayer-heart-of-the-beast-brad-pitt-1237048724/
+
+David Ayer s latest, Heart of the Beast, starring Brad Pitt, has been added to the official lineup at this year’s San Sebastián Film Festival. Heart of the Beast will screen out of competition, with both Ayer and Pitt in attendance. The film, from Paramount, follows Pitt as a Special Forces officer who, accompanied by his [ ]
+
+### Netflix, Disney+ Amazon Rein In Price Rises As Customers Near Financial Limits – Ampere
+Mon, 24 Aug 2026 09:47:47 +0000 — https://deadline.com/2026/08/netflix-disney-amazon-price-rises-fall-ampere-1237048581/
+
+Streamer price hikes are taking consumers nearer to the limit of what they re willing to spend, according to Ampere Analysis. As such, Netflix, Disney+ and Prime Video owner Amazon have been reducing the size of average price increases from 24% per subscription in 2023/24 to 14% in 2025/26. In dollar terms, the average has increased, [ ]
+
+### Gaumont Unveils First Deals On Stéphane Brizé’s Venice TIFF-Bound ‘A Good Little Soldier’
+Mon, 24 Aug 2026 09:29:38 +0000 — https://deadline.com/2026/08/gaumont-stephane-brize-good-little-soldier-deals-1237048571/
+
+EXCLUSIVE: Stéphane Brizé’s A Good Little Soldier, starring Alba Rohrwacher as a high-powered exec confronted with a case of toxic management, has sold to a number of key territories ahead of its world premiere in competition in Venice and North American debut in Toronto. Gaumont has sealed deals for Australia (Palace Films), Switzerland (Xenix), Spain [ ]
+
+### Venice Adds Competition Film From No Other Land Directors, Jim Wilson Jonathan Glazer About Systems Behind Israel’s Calculated Killing Of Palestinian Civilians
+Mon, 24 Aug 2026 09:15:34 +0000 — https://deadline.com/2026/08/venice-adds-competition-film-naza-no-other-land-directors-1237048583/
+
+The Venice Film Festival has added a hot-button documentary to its Competition lineup. The synopsis for new film NAZA (we re told this is an acronym relating to the Israeli military) reads: “Shot at night on the rooftops of Tel Aviv, the film reveals in detail the systems behind Israel’s calculated mass killing of Palestinian civilians [ ]
+
+### Jeevan Bheema Yojana Release Postponed For A Week
+Mon, 24 Aug 2026 08:32:08 +0000 — https://deadline.com/2026/08/jeevan-bheema-yojana-release-date-moves-1237048539/
+
+EXCLUSIVE: Hindi crime comedy Jeevan Bheema Yojana has moved its worldwide theatrical release date to September 4. The Arshad Warsi starrer was previously set for this Friday (August 28), but has now pushed back and locked the early September date. This is due to a final leg of the film s marketing campaign running in coming [ ]
 
 ### Bonta Cancels Paramount Settlement Meeting; CA AG Accuses Ellison Of Playing Games In WBD Merger Talks
 Mon, 24 Aug 2026 08:11:50 +0000 — https://deadline.com/2026/08/bonta-cancels-paramount-settlement-meeting-1237048537/
 
-There will be no settlement talks meeting Monday between Paramount and a coalition of state Attorneys General after all. California AG Rob Bonta cancelled the scheduled sit-down late Sunday after reports of an August 21 meeting with the David Ellison-led company oozed out. Not only did Paramount leak the alleged substance of settlement discussions, but [ ]
+There will be no settlement talks meeting Monday between Paramount and a coalition of state Attorneys General after all. California AG Rob Bonta cancelled the scheduled sit-down late Sunday after reports of an August 21 meeting with the David Ellison-led company oozed out. More galling to Bonta is that what was discussed at that meeting [ ]
 
 ### Hayley Atwell Says Peggy Carter Getting Frisbeed To Death In Doctor Strange Was A Complete Disservice To The Character
 Mon, 24 Aug 2026 07:57:12 +0000 — https://deadline.com/2026/08/hayley-atwell-agent-carter-death-disservice-to-character-1237048526/
@@ -135,34 +165,4 @@ EXCLUSIVE: A meeting Monday between Paramount brass and state Attorneys General 
 Mon, 24 Aug 2026 03:30:00 +0000 — https://deadline.com/2026/08/days-of-our-lives-ken-corday-plans-benefit-concert-burbank-1237048486/
 
 Days of Our Lives executive producer-cum-composer Ken Corday is planning another concert to benefit SAG/AFTRA Foundation’s Emergency Assistance Program. Following his two sold out concerts in 2023 and 2024, Corday will return to the stage for a third time in November. “Songs Without Words” will feature a new collection of original works over three nights [ ]
-
-### Disney Knew About On-Set Rapes Did Nothing, Poof Point Actress Negligence Suit Asserts: Not Safe For Children
-Mon, 24 Aug 2026 03:04:28 +0000 — https://deadline.com/2026/08/disney-rape-lawsuit-raquel-lee-boileau-poof-point-1237048123/
-
-The Proof Point s Raquel Lee claims in a extremely graphic negligence suit against the Walt Disney Company she was repeatedly raped, sexually assaulted, sexually abused and sexually harassed on the Utah set of the 2001 movie. The House of Mouse knew about it and did nothing to stop the violence, the Quiet on Set: The [ ]
-
-### ‘Vultures’ Swoops To Top Award At Oscar-Qualifying HollyShorts Film Festival (Full Winners List)
-Mon, 24 Aug 2026 01:32:29 +0000 — https://deadline.com/2026/08/2026-hollyshorts-awards-winners-1237048472/
-
-Dian Weys’ drama Vultures clutched top honors at HollyShorts Sunday evening, winning the prestigious festival’s Grand Jury Prize for Best Short Film. The award qualifies the film for Oscar consideration and comes with a prize of a $60,000 Panavision camera package. Edwin van der Walt, Jill Levenberg, and Albert Pretorius star in the 15-minute-long short [ ]
-
-### Hayden Panettiere Suffered From Physical Pain Barred Ex From Attending Book Signing, Says NYT
-Mon, 24 Aug 2026 00:54:34 +0000 — https://deadline.com/2026/08/hayden-panettiere-suffered-from-physical-pain-new-report-1237048471/
-
-A new report says that Hayden Panettiere suffered from mysterious pain that felt like pins and needles in her legs and that she gave specific instructions during a Manhattan book tour in May that ex-boyfriend Brian Hickerson could not attend. The New York Times on Sunday said Panettiere was accompanied by private security during the [ ]
-
-### Justin Timberlake Makes Surprise Appearance At Don Toliver s Show in Miami
-Mon, 24 Aug 2026 00:16:55 +0000 — https://deadline.com/2026/08/justin-timberlake-surprise-appearance-don-toliver-1237048468/
-
-This is the kind of concert experience everyone hopes for: Don Toliver s show in Miami Aug. 22 featured a very special appearance by Justin Timberlake. The Grammy winner, who hasn t performed on stage for several months, joined rapper Toliver to perform his 2002 hit Rock Your Body. Timberlake posted highlights from his cameo on Instagram. [ ]
-
-### Shelley Fabares Dead: The Donna Reed Show Star Elvis Leading Lady Was 82
-Sun, 23 Aug 2026 21:47:49 +0000 — https://deadline.com/2026/08/shelley-fabares-dead-1237048354/
-
-Shelley Fabares, the actress known for her roles in The Donna Reed Show and several Elvis Presley movies, has died. She was 82. Fabares family, including M*A*S*H star husband Mike Farrell, announced that the 2x Emmy-nominated Coach actress died surrounded by those who loved her on Saturday in Los Angeles. To her family and friends, [ ]
-
-### Anthony Bourdain Biopic ‘Tony’ Sizzling At $5M Weekend, No. 7 Spot – Specialty Box Office
-Sun, 23 Aug 2026 19:45:00 +0000 — https://deadline.com/2026/08/indie-film-box-office-tony-anthony-bourdain-biopic-sizzling-1237048340/
-
-A24’s Tony landed at no. 7 in a big expansion to 1,642 runs (from just under 40). It’s cooking with a $5 million weekend and $6.6 million cume in week 3 for the Matt Johnson film starring Dominic Sessa as a young Anthony Bourdain and Antonio Banderas as an early mentor. The coming-of-age story imagines [ ]
 
