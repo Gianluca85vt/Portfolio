@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-23T17:00:06.785Z
+# Games — harvested 2026-08-24T05:24:10.791Z
 
 ## Eurogamer
 
@@ -72,6 +72,16 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Feature: I Searched for Merch from My Fave PS5 Games in Chengdu s Enormous Anime Mall
+Sun, 23 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/features/i-searched-for-merch-from-my-fave-ps5-games-in-chengdus-enormous-anime-mall
+
+And a brief glimpse inside China's underground gaming markets. The main tourist attractions in Chengdu may involve historical temples and a giant stone Buddha statue a few hours outside the city, but I can’t really create Push Square content about that. The multi-storey anime mall next to Tianfu Square, though? Well, that seemed like a good use of my time in China once I was done with all my Tides of Annihilation activities. Read the full article on pushsquare.com
+
+### PS5 s Best-Selling Games List Is Broken on the PS Store
+Sun, 23 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/ps5s-best-selling-games-list-is-broken-on-the-ps-store
+
+But should be a simple fix. Good news for the makers of 007 First Light and 1000xRESIST – both games are currently appearing on the PS Store homepage due to a glitch. Sony usually shows the most popular games in each country across a variety of categories, ranging from pre-orders to downloads. Read the full article on pushsquare.com
+
 ### Sony Reminds PS5 Owners Their Digital Games Are Licensed, Not Sold
 Sun, 23 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/sony-reminds-ps5-owners-their-digital-games-are-licensed-not-sold
 
@@ -117,20 +127,7 @@ Sat, 22 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/features/talking-po
 
 That sinking feeling. Gee-whiz, these weekends come around quick. Not that I'm complaining — more time to eat pizza and play PS5 is a positive as far as I'm concerned. Aaron Bayne I've got a couple of embargoed games on the go, but I think I'd quite like to chip away at The Sinking City 2 . I really liked what I played of it so far while recording footage for our video review. Read the full article on pushsquare.com
 
-### Tides of Annihilation Dev Insists It Didn t Change Its Heroine s Face
-Fri, 21 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/tides-of-annihilation-dev-insists-it-didnt-change-its-heroines-face
-
-Another day, another drama. I played upcoming PS5 action game Tides of Annihilation last week, and I thought it was great . When footage leaked prior to the embargo lifting, I wasn’t expecting the focus to be on Gwendolyn’s face. But I’ve been doing this job for a long time now, so I suppose I should know better by this stage! Read the full article on pushsquare.com
-
-### Psychonauts Dev Double Fine Will Let You Decide What Game It Makes Next
-Fri, 21 Aug 2026 19:45:00 GMT — https://www.pushsquare.com/news/2026/08/psychonauts-dev-double-fine-will-let-you-decide-what-game-it-makes-next
-
-Having gone back to being an independent team. Psychonauts team Double Fine is going to share "what's next for the studio" today as part of a livestream on the Kinda Funny Games YouTube channel . Having just returned to independence after years of ownership under Microsoft, the developer plans to talk about its future on the live show scheduled to start in the coming hours. I doubt you're going to get actual game announcements out of the livestream, but I presume Tim Schafer will be there to talk about how Double Fine will approach its future. Read the full article on pushsquare.com
-
 ## Game Developer
 
-### Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak
-Fri, 21 Aug 2026 20:03:39 GMT — https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-discord-in-bid-to-halt-extensive-grand-theft-auto-vi-leak
-
-Take-Two is racing to halt a series of GTA VI leaks from an entity known as "Cyberleek" that may have access to a playable build of the game.
+_Nothing in the last 48 hours._
 

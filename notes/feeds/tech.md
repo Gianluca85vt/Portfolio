@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-23T17:00:06.785Z
+# Tech — harvested 2026-08-24T05:24:10.791Z
 
 ## Ars Technica
 
@@ -22,37 +22,12 @@ Sat, 22 Aug 2026 11:08:53 +0000 — https://arstechnica.com/science/2026/08/dism
 
 Pause for a moment and listen. What do you hear? Chances are, somewhere in the background, is the ever-present hum of a road. More than 4.2 million miles of public roads crisscross the lower 48 states—enough to reach the Moon and back almost nine times. This vast network of roads spiderwebs its way across the contiguous US, leaving only about 5 percent as an inventoried roadless area or wilderness . Now, some of those last remaining lands free of roads are under threat from the Trump administration’s proposed rollback of the 2001 Roadless Rule . That includes southeast Alaska’s Tongass National Forest , where eagles, bears, salmon, and many other species thrive in old-growth coastal forest along the Inside Passage. Read full article Comments ]]>
 
-### Trump's space transportation policy calls for new spaceport on federal land
-Fri, 21 Aug 2026 23:32:17 +0000 — https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/
-
-A new national space transportation policy signed by President Donald Trump on Thursday calls for the development of more spaceports to support more than 1,000 launches and reentries per year by 2030. The presidential memorandum replaces a 2013 policy signed by former President Barack Obama. Both policies share an emphasis on supporting the commercial space industry and underscore the importance of assured access to space. But the launch sector has changed immensely since then. There were 176 orbital launch attempts from US soil last year, nearly 10 times the number in 2013. SpaceX led the pack last year with 165 orbital launches of its Falcon 9 rocket, plus five suborbital test flights of the much larger Starship. "By 2030, our space transportation ranges must grow to support more than 1,000 launches and reentries every year," the policy says. "The policies set forth in this memorandum will secure America's continued superiority in space." Read full article Comments ]]>
-
-### Thunder + fiber-optic cabling used for seismic imaging
-Fri, 21 Aug 2026 20:26:46 +0000 — https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/
-
-Most of what we know about the Earth's interior comes from observing seismic waves. These travel at somewhat different speeds depending on the details of the rock they're moving through—whether it's solid or semi-molten, how much water is present, whether it's fractured or solid material, and so on. Get enough data from enough seismic events, and you can start piecing together a picture of what's present at different depths below the surface. In many cases, we can get this data from naturally occurring events like earthquakes. In others, we intentionally create waves using things like explosives, providing the opportunity to do imaging in specific areas without needing to wait for an earthquake. Now, a team of scientists at Penn State suggests there's a potential option that sits between waiting for an earthquake and triggering your own seismic event: thunderstorms. Some of the energy carried by thunder enters the Earth's upper crust, triggering what are termed "thunderquakes." But, for various physical reasons, the seismic signals are extremely complex, making it difficult to extract clear signals from them. The Penn State team says it has finally constructed a model that can help make sense of this complexity and used it to reconstruct the terrain under the local campus. Read full article Comments ]]>
-
-### Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says
-Fri, 21 Aug 2026 20:10:50 +0000 — https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/
-
-This week, two New York City renters filed a class action complaint alleging that a brokerage business called Compass—which has been boycotting posting listings on free digital platforms like Zillow —has now delisted so many rental units that it has created a fake supply shock that is artificially raising rents. According to plaintiffs, Peter Castaneda and Haley Gelfand, Compass has bought so many brokerage firms over the past decade-plus that it maintains a monopoly, controlling “over 80 percent of the rental unit listings available for renters in Manhattan based on 2025 data.” With that monopoly, Compass can “literally dictate pricing for as much as 80 percent of Manhattan’s rental units,” renters argued. And now, Compass is allegedly trying to manipulate prices on other platforms, as well. Read full article Comments ]]>
-
-### Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels
-Fri, 21 Aug 2026 19:32:29 +0000 — https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/
-
-Several months ago, Motorola and the makers of GrapheneOS announced a team-up that would expand support for the privacy-centric OS to beyond Google's Pixel phones. The announcement, however, was bereft of details. Now, the creators of the OS have taken to Mastodon (naturally) to provide an update . Moto's GrapheneOS phones are on track to launch in 2027, but they'll cost a pretty penny. The upcoming Moto devices won't ship with GrapheneOS, but they will be fully supported by the project with help from Moto itself. So far, only Pixel phones have met GrapheneOS's strict hardware requirements to ensure the highest level of security and privacy. The software, which is based on Android, includes features like enhanced memory protection, granular network permissions, customizable app sandboxing, and a duress code that can be used to wipe your phone. (That last one got an activist charged with a felony earlier this year after he used it to delete his data during a customs interrogation.) According to the GrapheneOS team, the upcoming Moto phones will be premium flagship devices. The team expects pricing to be even higher than Pixel phones, which is saying something. The current Pixel lineup starts at $900 for the base model Pixel 11, a $100 increase from last year. The Pixel 11 Pro XL price has gone up to a whopping $1,300 this year. Read full article Comments ]]>
-
-### Lawsuit demands Logitech hand tariff refunds over to customers
-Fri, 21 Aug 2026 19:04:41 +0000 — https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/
-
-Logitech is facing a proposed class action lawsuit for not giving customers tariff refunds. In April 2025, Logitech raised the prices on 51 percent of its portfolio, with some prices increasing by as much as 25 percent. The complaint seeks to “recover monies that Logitech extracted from American consumers as offset for import tariffs that the United States Supreme Court has since declared unlawful, tariffs for which Logitech now stands to be reimbursed by the federal government. This is all while Logitech retained every dollar of the corresponding price increases it charged its customers due to the illegal tariffs.” Read full article Comments ]]>
-
-### Chinese regulators tell Tesla to fix nearly 3 million cars
-Fri, 21 Aug 2026 18:07:15 +0000 — https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/
-
-Tesla is facing a massive recall in China today. Chinese regulators are taking a stricter approach to safety, and the automaker now has to add warning labels to 2.98 million Model 3 and Model Y electric vehicles in China that make it clearer how to open the rear doors in the case of an emergency that causes the car to lose power. As we learned earlier this year , Chinese regulators are getting more serious about the recent trend of electronically controlled car doors; a growing number of crashes have had fatal consequences when the occupants have been trapped in burning cars. Starting next year, new rules give specific dimensions for handles that must be followed by all newly approved vehicles. But cars that have already been on sale for some time, like the Models 3 and Y, are grandfathered in, at least until the end of 2028. But China wants Tesla to do something about the nearly 3 million cars already on its roads. It is requiring the automaker to add warning labels to the car interiors—something that will require physical access to the car. Additionally, Tesla will push out a software update that automatically lowers all the cars' windows in the event of a collision. Read full article Comments ]]>
-
 ## The Verge
+
+### GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series
+2026-08-23T15:14:37-04:00 — https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games
+
+It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026 , a full year after its originally planned release window of fall 2025, and facing accusations of union busting after firing more than 30 employees. Now, preorders have opened for the digital code-only game, offering the $79.99 standard edition and $99.99 Ultimate Edition on both PS5 and Xbox Series X / S . Early official glimpses offered a look at the game’s protagonists , Jason and Lucia, as the game will follow the pair around Vice City as they attempt to navigate a criminal conspiracy after a job goes south. After leaks of early builds a few years ago , a new “CyberL eek” series of posts have popped up, showing sequences of the game just days ahead of Rockstar’s planned Netflix-exclusive (for six hours) event on August 27th. Read on below for all of the news and updates about Grand Theft Auto VI . Grand Theft Auto VI exists in its own universe Microsoft and Discord subpoenaed over GTA VI gameplay leaks A GTA VI leaker seemingly has a playable build. GTA VI keeps leaking ahead of its gameplay premiere GTA VI preorders have gotten off to an “exceptional start.” GTA VI is getting an ‘extended look’ at the end of August Where to preorder Grand Theft Auto VI Rockstar workers push to unionize ah
 
 ### We’re All Going to the World’s Fair is an intimate coming-of-age horror film
 2026-08-23T11:00:00-04:00 — https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review
@@ -88,21 +63,6 @@ The OmniBook 3 isn’t a sweet treat, but it gets things done on the cheap. | Ph
 2026-08-22T08:00:00-04:00 — https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2
 
 Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage .) This week, I've been getting back into the Installer groove, trying out some ergonomic Switch 2 grips I bought on Etsy , researching bike stuff because I'm about to get a Velotric e-bike, inching my way through the fourth book in The Dark Tower series, trying to figure out what feels off about Sonic in the new Fortnite season , wondering why Mark Zuckerberg needs a castle , and swatting at a few too many flies that have snu … Read the full story at The Verge. ]]>
-
-### HoverAir’s transforming modular drone has already been halted in the US
-2026-08-21T18:14:11-04:00 — https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo
-
-The HoverAir Versa. | Image: HoverAir I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut , and may be forced to abandon shipping plans in the US. HoverAir is now telling backers it's only shipping its camera to the US, not the piece that turns it into a drone, "due to a few remaining logistics updates with the Flight Kit." But those "logistics" may actually be a euphemism for "we've been banned by the federal government." The FCC's database no longer has an entry for … Read the full story at The Verge. ]]>
-
-### TikTok will pay $400 million to settle DOJ child privacy lawsuit
-2026-08-21T18:13:34-04:00 — https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa
-
-The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or obtaining consent and did not delete the accounts when parents requested. TikTok is set to pay $300 million right away and will pay a further $100 million "upon entry of an order vacating a prior consent decree entered against TikTok's predecessor, Musical.ly," the DOJ says in a press release . The settlement is "one of the largest recoveries ever o … Read the full story at The Verge. ]]>
-
-### Over 1 million people have clicked LinkedIn’s AI slop button
-2026-08-21T17:25:50-04:00 — https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message
-
-LinkedIn actually announced a "Seems like AI slop" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan , "over a million people" have clicked on the button, which is accessible from the three dots menu on a post. LinkedIn announced the button a few weeks after AI detector Pangram determined that 41 percent of LinkedIn's longform posts were flagged as fully AI generated, which 404 Media reported on . Alongside the AI slop button, LinkedIn introduced "new and improved" classifiers to identify posts as AI and removed a feature that would "en … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -168,6 +128,21 @@ Shopping for PC parts continues to be a nightmare, with skyrocketing RAM, SSD, a
 
 ## Phoronix
 
+### Linux 7.3 Improving RAID 5/6 Benchmark-Based Algorithm Selection
+Sun, 23 Aug 2026 20:38:25 -0400 — https://www.phoronix.com/news/Linux-7.3-XOR-RAID6-Benchmark
+
+Following the main set of memory management "MM" changes submitted for Linux 7.3, Andrew Morton sent in his "non-MM" pull request of the other patches he's been collecting from various developers for this next Linux kernel release. Standing out there were some improvements to the RAID 5/6 benchmark-based algorithm selection...
+
+### Linux 7.3 Better Protects Against Buggy EFI Firmware Taking Down The Rest Of User-Space
+Sun, 23 Aug 2026 15:05:02 -0400 — https://www.phoronix.com/news/Linux-7.3-EFI
+
+The EFI updates were merged today for the in-development Linux 7.3 kernel. Most notable with the EFI updates is now enforcing a timeout foe EFI runtime service completions rather than potentially hanging indefinitely...
+
+### Linux 7.3 Delivers Graphics Driver Improvements From Old GPUs To Next-Gen Hardware
+Sun, 23 Aug 2026 14:10:13 -0400 — https://www.phoronix.com/news/Linux-7.3-DRM
+
+The Direct Rendering Manager (DRM) subsystem updates have been merged for the ongoing Linux 7.3 merge window. There is a lot of exciting GPU kernel driver improvements this cycle ranging from some notable enhancements to old AMD Radeon graphics hardware up through enabling support for some next-generation AMD graphics IP blocks to over on the Intel side where Nova Lake S graphics are being enabled by default...
+
 ### ReactOS Merges Support For Job Objects As Step To Running Modern Windows Apps
 Sun, 23 Aug 2026 07:41:04 -0400 — https://www.phoronix.com/news/ReactOS-Job-Objects
 
@@ -212,19 +187,4 @@ The Rust-written, from-scratch Redox OS operating system has switched to using a
 Sat, 22 Aug 2026 15:01:47 -0400 — https://www.phoronix.com/news/Apple-HFS-Linux-7.3
 
 In early 2025 it was being discussed to potentially drop the HFS and HFS+ file-system support with the code having been orphaned over a decade and becoming a maintenance burden. But that dismal outlook quickly turned around with some developers stepping up to maintain the old Apple file-system support. Over a year later, fortunately, it's turned out to be a success story with more HFS/HFS+ file-system fixes continuing to work their way into the mainline Linux kernel...
-
-### Specially Crafted NTFS File-System Image Allows Root Access On Linux With NTFS3 Driver
-Sat, 22 Aug 2026 08:42:26 -0400 — https://www.phoronix.com/news/NTFS3-Vulnerability-For-Root
-
-A reported security vulnerability for the NTFS3 driver has gone unaddressed since being reported earlier this summer. The vulnerability allows a pre-crafted NTFS image on a USB flash drive or similar to allow the user to gain root access to the running Linux system...
-
-### AMD RDNA 4m Firmware Published For Linux Ahead Of Launch
-Sat, 22 Aug 2026 07:08:14 -0400 — https://www.phoronix.com/news/AMD-RDNA-4m-Firmware-Published
-
-In addition to AMD's Friday afternoon big code drop of all the UALink enablement patches for the Linux kernel and the AMDGPU driver, there was another big drop from AMD to end out the week... Upstreamed to the linux-firmware.git repository is all the firmware binaries needed by the open-source driver stack for initializing their forthcoming RDNA 4m "GFX 11.7" graphics...
-
-### NVK Vulkan Video Merged For Mesa 26.3
-Sat, 22 Aug 2026 06:55:00 -0400 — https://www.phoronix.com/news/NVK-Vulkan-Video-Mesa-26.3
-
-The newest major feature to land in Mesa's open-source NVIDIA "NVK" Vulkan driver is support for Vulkan Video!..
 
