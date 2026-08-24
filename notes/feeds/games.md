@@ -1,6 +1,16 @@
-# Games — harvested 2026-08-24T14:24:43.862Z
+# Games — harvested 2026-08-24T17:14:29.235Z
 
 ## Eurogamer
+
+### CD Projekt Red is "targeting" a 2028 release date for The Witcher 4, per a new update from the developer
+Mon, 24 Aug 2026 16:05:45 +0000 — https://www.eurogamer.net/the-witcher-4-release-date-2028
+
+CD Projekt Red has posted a quick update about The Witcher 4 , narrowing down the release date for its upcoming RPG sequel. "This is our biggest, boldest, and most ambitious game to date," says CD Projekt Red joint-CEO Michal Nowakowski, shortly before confirming the studio is "targeting" a release date in 2028. Bear in mind, then, that this could always slip. Read more
+
+### The people of video games on what gives them cause for hope
+Mon, 24 Aug 2026 15:11:04 +0000 — https://www.eurogamer.net/people-of-video-games-what-gives-hope-optimism-week
+
+Hello and welcome to one of our final pieces for Optimism Week here on Eurogamer. This time, we've turned to the industry itself for some answers, and as such I'm going to do my best to get out of the way as quickly as possible. Read more
 
 ### "I want to keep pouring my energy into game creation going forward" - Hideo Kojima still wants to make games even at 63
 Mon, 24 Aug 2026 13:57:16 +0000 — https://www.eurogamer.net/hideo-kojima-63-years-old-still-wants-to-make-games
@@ -52,16 +62,6 @@ Sun, 23 Aug 2026 11:43:40 +0000 — https://www.eurogamer.net/the-duskbloods-ski
 
 FromSoftware is stepping into one of multiplayer gaming's most divisive arguments with The Duskbloods, confirming the upcoming Switch 2 exclusive will lean on skill-based matchmaking to keep newcomers safe from its most battle-hardened players. Read more
 
-### Sony sends PlayStation users a reminder they don't own their digital games just as a fan boycott over ending discs kicks off
-Sun, 23 Aug 2026 11:14:16 +0000 — https://www.eurogamer.net/playstation-terms-of-service-reminder-psblackout-protest
-
-PlayStation users have received an unprompted reminder of exactly what they do and don't own on the platform, days before a planned boycott over Sony's decision to end new PlayStation discs from 2028. Read more
-
-### Arc Raiders' fifth Expedition will be its last until early 2027
-Sun, 23 Aug 2026 10:43:11 +0000 — https://www.eurogamer.net/arc-raiders-expedition-5-pause-2027-changes
-
-Embark Studios has confirmed that Arc Raiders ' fifth Expedition, opening next month, will be the last one players see until early 2027. Read more
-
 ## GamesIndustry.biz
 
 ### Maria Redin of mobile giant MTG on rebranding, buying Raid: Shadow Legends, and plans to double the company's size
@@ -89,6 +89,36 @@ Take-Two Interactive has subpoenaed Microsoft, Discord, and X regarding the ongo
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Ex-Forza Horizon Devs Finally Find a Publisher for Clutch, PS5 s Promising Open World Racer
+Mon, 24 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/08/ex-forza-horizon-devs-finally-find-a-publisher-for-clutch-ps5s-promising-open-world-racer
+
+A clutch move you might say. If you're into racing games, one that should be on your radar is Clutch , a brand new IP from a studio with former Forza Horizon developers in its ranks. Officially announced earlier this year, developer Maverick Games was at one point partnered up with Amazon, who would serve as the game's publisher, but that fell through. Read the full article on pushsquare.com
+
+### Xbox Heard You , Purges PS5 Logos from Multiformat Game Trailers
+Mon, 24 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/08/xbox-heard-you-purges-ps5-logos-from-multiformat-game-trailers
+
+And that's the end of that. It looks like Xbox will no longer promote the PS5 versions of multiplatform games. Earlier in the year , at Summer Game Fest , there was a big hullabaloo as Microsoft’s upper-brass appeared to contradict each other. Read the full article on pushsquare.com
+
+### The Witcher 4 Set for a 2028 Release, CD Projekt Red Confirms
+Mon, 24 Aug 2026 15:45:00 GMT — https://www.pushsquare.com/news/2026/08/the-witcher-4-set-for-a-2028-release-cd-projekt-red-confirms
+
+Developer reveals release window for RPG. CD Projekt Red has today announced it plans to launch The Witcher 4 at some point in 2028. In a video posted on social media, joint-CEO Michał Nowakowski speaks of the series' plans for Gamescom, where The Witcher 3: Songs of the Past will be fully unveiled. He teases a few more surprises for this week, and then touches on The Witcher 4. Read the full article on pushsquare.com
+
+### This Is Illegal : Stop Killing Games Movement Distances Itself from GTA 6 Leaks
+Mon, 24 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/this-is-illegal-stop-killing-games-movement-distances-itself-from-gta-6-leaks
+
+"Do not send these people your money". This week will see the debut of an extended look at GTA 6 , our first official glimpse of the game itself ahead of launch later in the year. Unfortunately, a spate of leaked videos of the game have emerged online over the last week or so, thanks to a person (or group) calling themselves Cyberleek. Read the full article on pushsquare.com
+
+### These Moments Don t Happen Anywhere Else : Sony Touts PS5 Exclusives After Abandoning PC
+Mon, 24 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/these-moments-dont-happen-anywhere-else-sony-touts-ps5-exclusives-after-abandoning-pc
+
+"Only on PS5". Sony’s released a new ad reminding you that some games can only be played on the PS5. The new commercial – part of the ‘It Happens on PS5’ campaign – focuses on several titles which are only available on PlayStation hardware. Read the full article on pushsquare.com
+
+### The Next Game from the PixelJunk Devs Leaks Online as Gamescom Looms
+Mon, 24 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/the-next-game-from-the-pixeljunk-devs-leaks-online-as-gamescom-looms
+
+What's Q-Games up to? This week should be a big one for video game news, as Gamescom Opening Night Live kicks off the German expo with a big show very soon. It looks as though one of the presentation's surprises may have been spoiled a little early, however, as a playtest version has popped up on SteamDB that pretty much confirms its existence. Read the full article on pushsquare.com
 
 ### Protesting PS5 Players Now Plan Permanent Blackout, Meaning No GTA 6 or Wolverine
 Mon, 24 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/08/protesting-ps5-players-now-plan-permanent-blackout-meaning-no-gta-6-or-wolverine
@@ -120,37 +150,12 @@ Mon, 24 Aug 2026 08:00:00 GMT — https://www.pushsquare.com/guides/when-is-game
 
 Dates, times, and what to expect. When is Gamescom Opening Night Live 2026? It's that time once again, when Geoff Keighley awakens for his second annual show of the year: Gamescom Opening Night Live, getting the massive German expo started with a bang. What are all the details, then? When exactly can you tune in to watch the show, and what's gonna be there? In this guide, we're providing you with all the details you need before the showcase begins. Read the full article on pushsquare.com
 
-### Feature: I Searched for Merch from My Fave PS5 Games in Chengdu s Enormous Anime Mall
-Sun, 23 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/features/i-searched-for-merch-from-my-fave-ps5-games-in-chengdus-enormous-anime-mall
-
-And a brief glimpse inside China's underground gaming markets. The main tourist attractions in Chengdu may involve historical temples and a giant stone Buddha statue a few hours outside the city, but I can’t really create Push Square content about that. The multi-storey anime mall next to Tianfu Square, though? Well, that seemed like a good use of my time in China once I was done with all my Tides of Annihilation activities. Read the full article on pushsquare.com
-
-### Sony Reminds PS5 Owners Their Digital Games Are Licensed, Not Sold
-Sun, 23 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/sony-reminds-ps5-owners-their-digital-games-are-licensed-not-sold
-
-But Steam, Xbox, and Nintendo all say the same. What’s the old adage about once you dislike someone you pretty much despise everything they do? I think, for a vocal contingent on social media, Sony has found itself in that kind of trap lately. Read the full article on pushsquare.com
-
-### Feature: Going Platinum: I Only Played Sound Shapes Because I Wanted at Least One PS Vita Plat
-Sun, 23 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/features/going-platinum-i-only-played-sound-shapes-because-i-wanted-at-least-one-ps-vita-plat
-
-What have I become. Platinum Trophy #34: Sound Shapes Date Earned: 31st October 2021 Read the full article on pushsquare.com
-
-### GTA 6 Leaks Prompt Fans to Bring Out the Memes as Netflix Puts a Brave Face on Things
-Sat, 22 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-leaks-prompt-fans-to-bring-out-the-memes-as-netflix-puts-a-brave-face-on-things
-
-"How many days?". Rockstar is feverishly hunting for a leaker who appears to have a playable build of GTA 6 . As we’ve reported in a repeatedly updated article , new gameplay footage is appearing daily from what appears to be a recent and fully working version of the eagerly anticipated PS5 game. Read the full article on pushsquare.com
-
-### Sony s Live Service Strategy May Have Failed, But Helldivers 2 Has Been a Monstrous Hit
-Sat, 22 Aug 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/08/sonys-live-service-strategy-may-have-failed-but-helldivers-2-has-been-a-monstrous-hit
-
-One of PlayStation's biggest games ever. Helldivers 2 is one of the most played PlayStation games ever made. Sony’s confirmed in a corporate blog post that the Arrowhead outing has now attracted over 22.9 million players since launching in 2024 – and that number’s accurate prior to its recent addition to PS Plus Extra . Read the full article on pushsquare.com
-
-### Feature: I Travelled 8,000km, from the UK to China, to Play a PS5 Game Set in London
-Sat, 22 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/features/i-travelled-8000km-from-the-uk-to-china-to-play-a-ps5-game-set-in-london
-
-Featuring pandas, hot pot, and Sichuan opera. When I first heard word that Chinese studio Eclipse Glow Games was preparing to show the world its highly anticipated PS5 action game Tides of Annihilation in China, I couldn’t help but laugh at the irony considering the game is based on my home in the UK. Plans were promptly made to ship me over 8,000km to the studio’s office in Chengdu to get two hours of hands-on time with the title. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Mutter and Blue Prince among winners at Gamescom Dev Awards 2026
+Mon, 24 Aug 2026 16:30:00 GMT — https://www.gamedeveloper.com/business/mutter-and-blue-prince-among-winners-at-gamescom-dev-awards-2026
+
+Six winners were crowned in Cologne.
 
 ### 'Each event has to feel local and relevant to its market:' Gamescom wants responsible expansion after record-breaking year
 Mon, 24 Aug 2026 09:23:12 GMT — https://www.gamedeveloper.com/business/-each-event-has-to-feel-local-and-relevant-to-its-market-gamescom-boss-wants-responsible-expansion-after-record-breaking-year

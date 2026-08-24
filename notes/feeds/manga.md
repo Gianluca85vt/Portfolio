@@ -1,6 +1,46 @@
-# Manga — harvested 2026-08-24T14:24:43.862Z
+# Manga — harvested 2026-08-24T17:14:29.235Z
 
 ## Anime News Network
+
+### Mushoku Tensei: Jobless Reincarnation III ‒ Episode 9
+Mon, 24 Aug 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-9/.240894
+
+The true point of the first half of this cour? Teaching Rudeus empathy.
+
+### Japan's Video Game Rankings, August 10-16
+Mon, 24 Aug 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/japan-video-game-rankings-august-10-16/.240916
+
+<cite>Rhythm Heaven Groove</cite> stays at #1, <cite>The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition</cite> debuts at #15
+
+### Mistress Kanan is Devilishly Easy Season 1 Anime Series Review
+Mon, 24 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/mistress-kanan-is-devilishly-easy-season-1-anime-series/.240634
+
+The show is bogged down by its desire to maintain a repetitive status quo.
+
+### Nekopara Sekai Connect Game Launches for PC on September 28
+Mon, 24 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-24/nekopara-sekai-connect-game-launches-for-pc-on-september-28/.240926
+
+Neko Works and Good Smile Company announced on Monday that their Nekopara Sekai Connect game will launch on PC via Steam on September 28. Save data from...
+
+### The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3 ‒ Episode 32
+Mon, 24 Aug 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3/episode-32/.240887
+
+It doesn't get much wilder than Rentaro falling in love at first sight with Yaku, his 89-year-old grandmother-in-law.
+
+### Japan's Video Game Rankings, August 3-9
+Mon, 24 Aug 2026 11:05:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/japan-video-game-rankings-august-3-9/.240910
+
+<cite>Rhythm Heaven Groove</cite> returns to #1, <cite>Beast of Reincarnation</cite> debuts at #2
+
+### 'Tetsuryō! meet with Tetsudō Musume' Anime Premieres on October 8
+Mon, 24 Aug 2026 10:45:30 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-24/tetsuryo-meet-with-tetsudo-musume-anime-premieres-on-october-8/.240925
+
+The official X/Twitter account for Tetsuryō! meet with Tetsudō Musume, the original television anime based on the Tetsudō Musume (Railway Girls) characters,...
+
+### You and I Are Polar Opposites Season 2 ‒ Episode 8
+Mon, 24 Aug 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-8/.240891
+
+As simultaneously funny and cursed as it is to have Azuma start seeing Taira in bishie vision, it is a little frustrating that her crush hasn't developed too far past where it was last episode.
 
 ### All 4 Persona 3 Anime Films Stream on Aniplex USA YouTube Channel for Limited Time
 Mon, 24 Aug 2026 10:05:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/all-4-persona-3-anime-films-stream-on-aniplex-usa-youtube-channel-for-limited-time/.240881
@@ -21,46 +61,6 @@ Film set in late 1980s will explore origins of power cartel portrayed in origina
 Mon, 24 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-08-24/10-years-in-the-making-returning-to-magical-girl-raising-project-with-director-hiroyuki-hashimoto/.240244
 
 Ten years ago, director Hiroyuki Hashimoto brought novelist Asari Endō 's terrifying vision of a magical girl battle royale to television screens. Following the season's conclusion, there was no news of a sequel: until now.
-
-### This Week in Mobile Games - What HoloDreams May Come
-Mon, 24 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-08-24/.240480
-
-Josh checks out the first official HoloLive game, plus a port that may be the first game to look worse on purpose.
-
-### Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 19
-Mon, 24 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-19/.240848
-
-Iruma is learning that no good deed goes unpunished.
-
-### Scandal Rock Band to End Activities in August 2027
-Mon, 24 Aug 2026 08:13:06 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/scandal-rock-band-to-end-activities-in-august-2027/.240921
-
-Band to tour all over Japan starting in October, to hold final concert at Yokohama Arena on August 21, 2027
-
-### My Stepmother and Stepsisters Aren't Wicked TV Anime Reveals 2 More Cast Members
-Mon, 24 Aug 2026 06:28:39 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/my-stepmother-and-stepsisters-arent-wicked-tv-anime-reveals-2-more-cast-members/.240917
-
-Hiroki Nanami plays Sadame Mikuriya, Nao Tōyama plays Hachi Ura in anime based on Otsuji's manga
-
-### Tokyo Revengers: War of the Three Titans Arc Reveals 4th Trailer, Key Visual, NYCC Appearance with Mariya Ise
-Mon, 24 Aug 2026 06:09:27 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/tokyo-revengers-war-of-the-three-titans-arc-reveals-4th-trailer-key-visual-nycc-appearance-with-/.240920
-
-go!go!vanillas perform ending theme titled "TRICK STAR"
-
-### New Rokudenashi Blues Manga Delayed to Winter, Gets New Artist
-Mon, 24 Aug 2026 05:00:49 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/new-rokudenashi-blues-manga-delayed-to-winter-gets-new-artist/.240888
-
-Yuki Yoshimoto takes over as artist from Boichi
-
-### Taejun Pak Launches New Inked Comic
-Mon, 24 Aug 2026 02:32:03 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/taejun-pak-launches-new-inked-comic/.240889
-
-Comic from <cite>Lookism, Viral Hit</cite> creator launched on August 16
-
-### Red River Anime Casts Sōma Saitō, Shun Horie
-Mon, 24 Aug 2026 02:05:12 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/red-river-anime-casts-soma-saito-shun-horie/.240893
-
-Saitō plays Egyptian general User Ramses, Horie plays young Hittite prince Juda
 
 ## Crunchyroll News
 
