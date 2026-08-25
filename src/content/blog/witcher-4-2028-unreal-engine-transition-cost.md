@@ -5,7 +5,6 @@ category: Games
 author: ruben-castellani
 excerpt: CD Projekt Red confirmed The Witcher 4 is targeting a 2028 release, its first game built on Unreal Engine 5 instead of the studio's own tech. The headcount attached to that update is the more useful number.
 cover: /img/blog/witcher-4-2028-unreal-engine-transition-cost/cover.svg
-draft: true
 ---
 
 Joint-CEO Michał Nowakowski posted a short update on 24 August: The Witcher 4
