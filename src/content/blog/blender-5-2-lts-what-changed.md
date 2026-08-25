@@ -2,7 +2,6 @@
 title: Blender 5.2 LTS is out. Here is what actually changed.
 date: 2026-08-07
 category: 3D
-author: elia-marcheselli
 cover: /img/3d/render-01.png
 excerpt: Two years of support, ACES colour management built in, and a compositor that finally got rebuilt. If you have been sitting on 4.x waiting for a reason, this is it.
 ---

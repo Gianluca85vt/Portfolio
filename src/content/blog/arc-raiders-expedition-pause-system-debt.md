@@ -2,7 +2,6 @@
 title: Arc Raiders is pausing its wipe system until 2027, and admitting it shipped unfinished
 date: 2026-08-24
 category: Games
-author: ruben-castellani
 excerpt: Embark Studios says the next Arc Raiders Expedition, opening in September, will be the last until early 2027. The reason is worth more attention than the pause itself — the studio has said outright that the system launched as a placeholder for something it never had time to build.
 cover: /img/blog/arc-raiders-expedition-pause-system-debt/shot-01.jpg
 ---

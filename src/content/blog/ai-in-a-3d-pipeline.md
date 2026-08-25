@@ -2,7 +2,6 @@
 title: Where AI actually fits in a 3D pipeline
 date: 2026-07-28
 category: AI
-author: davide-ronchetti
 excerpt: Not concept-to-final-render. The useful places are smaller, less glamorous, and they compound.
 cover: /img/concept/xiu-colore.jpg
 ---

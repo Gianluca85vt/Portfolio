@@ -17,11 +17,6 @@ const blog = defineCollection({
     cover: z.string().optional(),
     draft: z.boolean().optional(),
 
-    // The invented persona a piece is published under. See
-    // src/data/personas.ts — they are bylines, not real people, and the
-    // page says so beside every one of them.
-    author: z.string().optional(),
-
     // Review pieces carry a score: the mean of the scores the article quotes,
     // put on a 1-10 scale and rounded to the nearest half point. Anything with
     // a score appears in the "Latest reviews" column on the blog index.

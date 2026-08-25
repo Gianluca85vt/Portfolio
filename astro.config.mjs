@@ -39,6 +39,11 @@ export default defineConfig({
   site: 'https://www.gianlucascattarella.it',
   output: 'static',
   adapter: vercel(),
+  // /authors/ listed the invented bylines the blog used to publish under. The
+  // blog is signed by one named person now, so the page is gone — but it was in
+  // the sitemap, so send anything that still points at it to the replacement
+  // rather than to a 404.
+  redirects: { '/authors': '/about' },
   integrations: [
     react(),
     // lastmod tells a crawler which pages are worth re-reading. Without it the

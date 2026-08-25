@@ -2,7 +2,6 @@
 title: Gemini 3.7 Flash halves the price of looking at everything
 date: 2026-08-14
 category: AI
-author: davide-ronchetti
 cover: /img/blog/gemini-3-7-flash-half-price-vision/cover.svg
 excerpt: A 1M-token, image-and-video-reading model at half its old price, three weeks after the last one. The interesting part isn't the benchmark chart, it's what becomes worth automating once looking at something stops being expensive.
 ---

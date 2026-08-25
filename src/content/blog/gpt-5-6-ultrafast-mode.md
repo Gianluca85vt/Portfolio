@@ -2,7 +2,6 @@
 title: OpenAI's GPT-5.6 just got 14x faster, and that's not really about chat
 date: 2026-08-14
 category: AI
-author: davide-ronchetti
 cover: /img/blog/gpt-5-6-ultrafast-mode/cover.svg
 excerpt: Ultrafast mode runs GPT-5.6 Sol at up to 750 tokens a second on Cerebras silicon. A snappier chatbot is not the interesting part — a model that keeps up with you while you work is.
 ---

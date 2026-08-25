@@ -2,7 +2,6 @@
 title: Saber's CEO said he'd have replaced his writer with AI. The actual AI in the game is a much smaller story.
 date: 2026-08-14
 category: Games
-author: nadia-ferro
 excerpt: A Bluesky post, a scorched-earth CEO quote, and a denial — that's the fight everyone's covering. The detail worth reading twice is buried in the denial, an "infinite passengers" mode that's really just procedural generation wearing a different hat.
 cover: /img/blog/saber-rideshare-ai-writer-controversy/shot-01.jpg
 ---

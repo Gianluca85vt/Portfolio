@@ -2,7 +2,6 @@
 title: Horizon Hunters Gathering is getting descoped, and it's the Hogwarts Legacy 2 problem in reverse
 date: 2026-08-20
 category: Games
-author: ruben-castellani
 excerpt: Bloomberg reports Guerrilla is stripping the live-service layer out of its Horizon spin-off after bad playtests. That's not just a design retreat — it's an art pipeline built for seasonal cosmetics suddenly needing to be something else entirely.
 cover: /img/blog/horizon-hunters-gathering-live-service-cut/shot-01.jpg
 ---

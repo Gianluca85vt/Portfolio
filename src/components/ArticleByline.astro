@@ -1,21 +1,26 @@
 ---
-import { personaById, aiDisclosure } from '../data/personas';
-import { categoryColors } from '../data/portfolio';
+import { categoryColors, site } from '../data/portfolio';
 import type { BlogCategory } from '../data/portfolio';
 
 export interface Props {
   category: string;
-  authorId?: string;
   published: string;
   readingMinutes: number;
   isReview?: boolean;
 }
 
-const { category, authorId, published, readingMinutes, isReview = false } = Astro.props;
+const { category, published, readingMinutes, isReview = false } = Astro.props;
 
-const persona = authorId ? personaById[authorId] : undefined;
 const accent = categoryColors[category as BlogCategory] ?? '#7621B0';
 const kind = isReview ? 'Review' : 'Article';
+
+// The avatar is drawn from initials rather than a photograph. public/img/me/ is
+// deliberately not committed, so anything pointing at it would render as a
+// broken image everywhere except this machine.
+const initials = site.name
+  .split(' ')
+  .map((part) => part[0])
+  .join('');
 ---
 
 <div class="flex flex-wrap items-center gap-x-3 gap-y-2">
@@ -30,38 +35,26 @@ const kind = isReview ? 'Review' : 'Article';
   </span>
 </div>
 
-{
-  persona && (
-    <div class="flex items-center gap-3 mt-6 pt-5 border-t border-[#D7E2EA]/12">
-      <span
-        class="flex items-center justify-center shrink-0 w-10 h-10 rounded-full text-white font-medium text-[0.72rem] tracking-wide"
-        style={`background:linear-gradient(140deg, #18011F 10%, ${persona.color} 150%)`}
-        aria-hidden="true"
-      >
-        {persona.initials}
-      </span>
+<div class="flex items-center gap-3 mt-6 pt-5 border-t border-[#D7E2EA]/12">
+  <span
+    class="flex items-center justify-center shrink-0 w-10 h-10 rounded-full text-white font-medium text-[0.72rem] tracking-wide"
+    style="background:linear-gradient(140deg,#18011F 10%,#B600A8 90%,#7621B0 150%)"
+    aria-hidden="true"
+  >
+    {initials}
+  </span>
 
-      <div class="min-w-0">
-        <p class="text-[0.8rem] leading-tight">
-          <span class="text-[#D7E2EA]/40 font-light uppercase tracking-widest text-[0.62rem]">
-            {kind} by
-          </span>{' '}
-          <a
-            href={`/authors/#${persona.id}`}
-            class="text-[#D7E2EA] font-medium hover:text-white transition-colors"
-          >
-            {persona.name}
-          </a>
-        </p>
-        {/* The disclosure sits with the byline on purpose. A pen name on an
-            AI-assisted piece is fine; a pen name the reader mistakes for a
-            person is not, and a notice buried in the footer does not fix that. */}
-        <p class="text-[#D7E2EA]/35 font-light text-[0.68rem] leading-tight mt-1">
-          <a href="/authors/" class="underline decoration-[#B600A8]/60 underline-offset-2 hover:text-[#D7E2EA]/60 transition-colors">
-            {aiDisclosure.byline}
-          </a>
-        </p>
-      </div>
-    </div>
-  )
-}
+  <div class="min-w-0">
+    <p class="text-[0.8rem] leading-tight">
+      <span class="text-[#D7E2EA]/40 font-light uppercase tracking-widest text-[0.62rem]">
+        {kind} by
+      </span>{' '}
+      <a href="/about/" class="text-[#D7E2EA] font-medium hover:text-white transition-colors">
+        {site.name}
+      </a>
+    </p>
+    <p class="text-[#D7E2EA]/35 font-light text-[0.68rem] leading-tight mt-1">
+      {site.role}
+    </p>
+  </div>
+</div>

@@ -2,7 +2,6 @@
 title: Nuke can now relight Gaussian splats — just not the way you'd think
 date: 2026-08-21
 category: 3D
-author: elia-marcheselli
 excerpt: Foundry's Nuke 17.1 open beta lets you drop lights onto a Gaussian splat in comp. The catch is what it deliberately doesn't need to do that — and why that's the honest amount of magic to expect.
 cover: /img/blog/nuke-17-1-gaussian-splat-relighting/cover.svg
 ---

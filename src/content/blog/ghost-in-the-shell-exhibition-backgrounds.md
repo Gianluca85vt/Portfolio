@@ -2,7 +2,6 @@
 title: The Ghost in the Shell exhibition is really a background-painting masterclass wearing an anniversary tour
 date: 2026-08-14
 category: Manga
-author: rei-okabayashi
 excerpt: A touring retrospective at the Hyogo Prefectural Museum of Art is billed as a Ghost in the Shell career survey. What it's actually showing off, if you look at what's on the walls, is thirty years of environment art solving problems real-time engines still haven't cracked.
 cover: /img/blog/ghost-in-the-shell-exhibition-backgrounds/shot-01.jpg
 ---

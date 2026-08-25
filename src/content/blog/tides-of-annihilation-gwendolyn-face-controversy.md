@@ -2,7 +2,6 @@
 title: Tides of Annihilation's "face change" is a lighting and shader story, not a redesign
 date: 2026-08-24
 category: Games
-author: ruben-castellani
 excerpt: Fans compared new Tides of Annihilation footage to old trailers and called it a beauty nerf. Eclipse Glow Games says the mesh didn't move — skin shading, cloth materials and the lighting rig did. That distinction is worth actually explaining.
 cover: /img/blog/tides-of-annihilation-gwendolyn-face-controversy/shot-01.jpg
 ---

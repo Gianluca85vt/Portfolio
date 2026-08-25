@@ -1,0 +1,157 @@
+---
+import Base from '../layouts/Base.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import { getCollection } from 'astro:content';
+import { site, categoryColors } from '../data/portfolio';
+import type { BlogCategory } from '../data/portfolio';
+
+const entries = await getCollection('blog', ({ data }) => !data.draft);
+
+const counts: Record<string, number> = {};
+for (const e of entries) {
+  counts[e.data.category] = (counts[e.data.category] ?? 0) + 1;
+}
+const sections = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+const reviews = entries.filter((e) => typeof e.data.score === 'number').length;
+
+const title = `About — ${site.name}`;
+const description = `${site.role}. I write about games, hardware, real-time graphics and production craft, from the point of view of the person who has to build the thing.`;
+
+// Naming the author on a page of their own, with credentials and a body of
+// work attached, is what lets a search engine treat the byline as a person
+// rather than a string.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ProfilePage',
+  mainEntity: {
+    '@type': 'Person',
+    name: site.name,
+    url: site.url,
+    jobTitle: site.role,
+    email: `mailto:${site.email}`,
+    description,
+    knowsAbout: [
+      '3D environment art',
+      'Technical art',
+      'Real-time rendering',
+      'Game production',
+      'Virtual production',
+      'Shader and lighting workflows',
+    ],
+  },
+};
+---
+
+<Base title={title} description={description} jsonLd={jsonLd}>
+  <div class="min-h-screen flex flex-col" style="overflow-x:clip">
+    <SiteHeader current="/blog" />
+
+    <section class="px-5 sm:px-8 md:px-10 pt-12 sm:pt-16 pb-20 sm:pb-24">
+      <div class="max-w-[760px] mx-auto">
+        <h1
+          class="hero-heading font-black uppercase leading-none tracking-tight"
+          style="font-size:clamp(2rem, 6vw, 3.5rem)"
+        >
+          About
+        </h1>
+
+        <p class="text-[#D7E2EA]/70 font-light leading-relaxed mt-8 text-[1.05rem]">
+          I'm Gianluca Scattarella, a 3D environment and technical artist. I
+          build environments and the tooling that makes them shippable — lighting,
+          shaders, scene optimisation, the unglamorous part where a scene that
+          looks right also has to open, move and render.
+        </p>
+
+        <p class="text-[#D7E2EA]/55 font-light leading-relaxed mt-5 text-[0.95rem]">
+          This blog is where I write about the industry I work in. Not news for
+          its own sake — I'm interested in what a decision cost, how a thing got
+          built, and what a release tells you about the pipeline behind it. That
+          angle is the whole reason the site exists: there is no
+          shortage of people reporting what shipped, and rather fewer asking what
+          it took.
+        </p>
+
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 mt-10">
+          <div class="rounded-[14px] border border-[#D7E2EA]/12 p-5">
+            <p class="text-[#D7E2EA] font-black text-[1.6rem] leading-none">{entries.length}</p>
+            <p class="text-[#D7E2EA]/40 font-light uppercase tracking-widest text-[0.6rem] mt-2">
+              Articles
+            </p>
+          </div>
+          <div class="rounded-[14px] border border-[#D7E2EA]/12 p-5">
+            <p class="text-[#D7E2EA] font-black text-[1.6rem] leading-none">{reviews}</p>
+            <p class="text-[#D7E2EA]/40 font-light uppercase tracking-widest text-[0.6rem] mt-2">
+              Reviews
+            </p>
+          </div>
+          <div class="rounded-[14px] border border-[#D7E2EA]/12 p-5 col-span-2">
+            <p class="text-[#D7E2EA]/40 font-light uppercase tracking-widest text-[0.6rem]">
+              Sections
+            </p>
+            <div class="flex flex-wrap gap-1.5 mt-2.5">
+              {
+                sections.map(([name, n]) => (
+                  <span
+                    class="inline-block rounded-[4px] font-medium uppercase tracking-widest text-white text-[0.55rem] px-2 py-1"
+                    style={`background-color:${categoryColors[name as BlogCategory] ?? '#7621B0'}`}
+                  >
+                    {name} {n}
+                  </span>
+                ))
+              }
+            </div>
+          </div>
+        </div>
+
+        <h2 class="hero-heading font-black uppercase tracking-tight mt-14 text-[1.35rem]">
+          How the blog is made
+        </h2>
+        <p class="text-[#D7E2EA]/55 font-light leading-relaxed mt-4 text-[0.95rem]">
+          I run a research pipeline that watches the trade press and flags what's
+          worth covering, and I use AI tooling in drafting the way I'd use any
+          other tool in a pipeline. Nothing goes live until I've read it and
+          approved it. The scores in reviews are arithmetic means of published
+          verdicts, and every source is listed under the number so you can check
+          it. Where a piece leans on someone else's reporting, it links to them.
+        </p>
+        <p class="text-[#D7E2EA]/55 font-light leading-relaxed mt-4 text-[0.95rem]">
+          The editorial responsibility is mine. If something here is wrong,
+          that's on me — <a
+            href={`mailto:${site.email}`}
+            class="underline decoration-[#B600A8]/60 underline-offset-2 hover:text-[#D7E2EA] transition-colors"
+            >tell me</a
+          > and I'll correct it.
+        </p>
+
+        <h2 class="hero-heading font-black uppercase tracking-tight mt-14 text-[1.35rem]">
+          Working together
+        </h2>
+        <p class="text-[#D7E2EA]/55 font-light leading-relaxed mt-4 text-[0.95rem]">
+          I take on environment and technical art work, and I'm open to
+          partnerships on the editorial side — review units, tool coverage,
+          sponsorship. Details are on the <a
+            href="/blog/#partnerships"
+            class="underline decoration-[#B600A8]/60 underline-offset-2 hover:text-[#D7E2EA] transition-colors"
+            >partnerships</a
+          > section, or just email me.
+        </p>
+
+        <div class="flex flex-wrap gap-3 mt-10">
+          <a
+            href="/"
+            class="inline-flex items-center rounded-full px-7 py-3 font-medium uppercase tracking-widest text-[0.7rem] text-white transition-opacity hover:opacity-90"
+            style="background:linear-gradient(123deg,#18011F 7%,#B600A8 37%,#7621B0 72%,#BE4C00 100%)"
+          >
+            See the portfolio
+          </a>
+          <a
+            href="/blog/"
+            class="inline-flex items-center rounded-full border-2 border-[#D7E2EA]/40 text-[#D7E2EA] font-medium uppercase tracking-widest px-7 py-3 text-[0.7rem] transition-colors hover:bg-[#D7E2EA]/10"
+          >
+            Read the blog
+          </a>
+        </div>
+      </div>
+    </section>
+  </div>
+</Base>

@@ -6,7 +6,6 @@ import Comments from '../../components/Comments.astro';
 import ShareBar from '../../components/ui/ShareBar';
 import ScoreBox from '../../components/ScoreBox.astro';
 import ArticleByline from '../../components/ArticleByline.astro';
-import { personaById, aiDisclosure } from '../../data/personas';
 import { site, categoryColors } from '../../data/portfolio';
 
 export async function getStaticPaths() {
@@ -65,23 +64,16 @@ const jsonLd = {
   ...(entry.data.cover
     ? { image: new URL(entry.data.cover, Astro.site).href }
     : {}),
-  // The byline is a pen name, so the credited author is the persona, with the
-  // site owner named as publisher. creativeWorkStatus records the AI assistance
-  // rather than leaving a machine to infer a human wrote it unaided.
-  author: entry.data.author && personaById[entry.data.author]
-    ? {
-        '@type': 'Person',
-        name: personaById[entry.data.author].name,
-        description: 'Invented editorial persona. AI-assisted writing, reviewed before publication.',
-      }
-    : {
-        '@type': 'Person',
-        name: site.name,
-        url: site.url,
-        jobTitle: site.role,
-      },
+  // One named author across the whole blog, with the credentials attached and
+  // pointing at a real about page. Search engines weigh author identity, and a
+  // named specialist with a body of work behind them is the thing to weigh.
+  author: {
+    '@type': 'Person',
+    name: site.name,
+    url: site.url,
+    jobTitle: site.role,
+  },
   creativeWorkStatus: 'Published',
-  disambiguatingDescription: aiDisclosure.short,
   publisher: {
     '@type': 'Person',
     name: site.name,
@@ -112,7 +104,6 @@ const jsonLd = {
 
         <ArticleByline
           category={entry.data.category}
-          authorId={entry.data.author}
           published={published}
           readingMinutes={readingMinutes}
           isReview={scored}

@@ -2,7 +2,6 @@
 title: Ikkis spent eight months building tanks that actually drive, and VFX still had a job
 date: 2026-08-18
 category: 3D
-author: elia-marcheselli
 excerpt: CGChannel ran ReDefine's breakdown for the tank battle in Ikkis, a film about the 1971 Battle of Basantar. The production built functional Centurion and Patton replicas from scratch — the more interesting decision is what they left for the VFX team to do.
 cover: /img/blog/ikkis-tanks-practical-build-vfx-breakdown/shot-01.jpg
 ---

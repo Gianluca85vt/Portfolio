@@ -2,7 +2,6 @@
 title: Low-Budget Repairs makes you the worst handyman in 1990s Poland, and the art team had the harder job in the studio
 date: 2026-08-16
 category: 3D
-author: elia-marcheselli
 excerpt: Low-Budget Repairs left early access on Steam this week — a House Flipper parody where your job is to do the renovation as badly as possible and still get paid. Building convincing bad craftsmanship is a stranger art problem than building good craftsmanship.
 cover: /img/blog/low-budget-repairs-art-directing-shoddy-work/shot-01.jpg
 ---

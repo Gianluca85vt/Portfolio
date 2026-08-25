@@ -2,7 +2,6 @@
 title: Why scan a shirt when you can simulate one? Because the sim is lying to you
 date: 2026-08-23
 category: 3D
-author: elia-marcheselli
 excerpt: Render Ready builds hero garments from physical scans on custom poseable mannequins instead of cloth sim, and it's now feeding the same data to AI motion models. The pitch is ground truth, not convenience.
 cover: /img/blog/render-ready-scanned-garments-vs-cloth-sim/cover.svg
 ---

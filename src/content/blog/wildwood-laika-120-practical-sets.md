@@ -2,7 +2,6 @@
 title: Wildwood's new trailer dropped today, and the numbers behind it are the real story
 date: 2026-08-19
 category: Film & TV
-author: teo-buffagni
 excerpt: Laika's first stop-motion feature since Missing Link got a new trailer today, 120 practical sets, 231 puppets, and it's a genuinely useful contrast to how a game environment actually gets built.
 cover: /img/blog/wildwood-laika-120-practical-sets/cover.svg
 ---

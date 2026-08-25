@@ -2,7 +2,6 @@
 title: KitBash just bought ArtStation and Sketchfab. Here is what I'd watch.
 date: 2026-08-12
 category: 3D
-author: sasha-videnovic
 cover: /img/blog/covers/kitbash-acquisition.svg
 excerpt: Epic sold both platforms to the KitBash3D people. Nothing changes today, and the promises are the reassuring kind. The interesting part is who now owns the place where artists protested against AI.
 ---
