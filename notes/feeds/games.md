@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-24T17:14:29.235Z
+# Games — harvested 2026-08-25T05:16:56.398Z
 
 ## Eurogamer
 
@@ -90,6 +90,46 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### We re Hoping to Continue the Remakes for a While : Falcom Doubles Down on Remaking Classic Trails Games
+Mon, 24 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/were-hoping-to-continue-the-remakes-for-a-while-falcom-doubles-down-on-remaking-classic-trails-games
+
+Before the Horizon. Falcom's set to continue its remake era beyond the upcoming Trails in the Sky 2nd Chapter . We knew this would probably be the case anyway, especially since Trails in the Sky 1st Chapter has been such a huge success for the storied Japanese developer, but it's still interesting to hear president Toshihiro Kondo come out and basically confirm it. Read the full article on pushsquare.com
+
+### These 10+ Commodore 64 Games Are Coming to PS5 Soon
+Mon, 24 Aug 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/08/these-10plus-commodore-64-games-are-coming-to-ps5-soon
+
+Acceptable in the 80s. There is no shortage of retro compilations on the PS5, but very few of them feature Commodore 64 games. That all changes with the upcoming Cosmi: Forbidden Forest & Beyond , a ten game bundle featuring Paul Norman’s 1983 home computer classic among others. Read the full article on pushsquare.com
+
+### Alien Breed Returns Next Month with Massive PS5 Compilation, Complete with Horde Mode
+Mon, 24 Aug 2026 19:40:00 GMT — https://www.pushsquare.com/news/2026/08/alien-breed-returns-next-month-with-massive-ps5-compilation-complete-with-horde-mode
+
+Gallery content like interviews and artwork, too. Team 17’s sci-fi shooter Alien Breed , celebrating its 35th anniversary this year, will return in September with an epic compilation akin to the gold standard Digital Eclipse bundles. This will feature every game from the first era of the franchise, including the Alien Breed 3D titles. Read the full article on pushsquare.com
+
+### He-Man s Bad Ass PS5 Brawler Now Launching in 2027
+Mon, 24 Aug 2026 19:25:00 GMT — https://www.pushsquare.com/news/2026/08/he-mans-bad-ass-ps5-brawler-now-launching-in-2027
+
+Everyone blame Skeletor. Oh no ! Bitmap Bureau’s beautiful retro beat-’em-up He-Man and the Masters of the Universe: Dragon Pearl of Destruction was due out in just two weeks, on 28th April. But now it’s been delayed until a nebulous date in the summer! Read the full article on pushsquare.com
+
+### I m Hyped This Unknown Irem Beat- em-Up Is Adding a Bases Loaded Stage
+Mon, 24 Aug 2026 19:20:00 GMT — https://www.pushsquare.com/news/2026/08/im-hyped-this-unknown-irem-beat-em-up-is-adding-a-bases-loaded-stage
+
+Home run. I’ve personally never played Ninja Baseball Bat Man , but I’m vaguely familiar with the 1993 Irem beat-’em-up. I’m pretty over-the-moon with this upcoming revival, then, which is coming to the PS5 on 10th December. Read the full article on pushsquare.com
+
+### Cult 16-Bit RPG Terranigma Lands First-Ever US Release in 2027, Will Get Physical PS5 Version
+Mon, 24 Aug 2026 19:15:00 GMT — https://www.pushsquare.com/news/2026/08/cult-16-bit-rpg-terranigma-lands-first-ever-us-release-in-2027-will-get-physical-ps5-version
+
+It's been 30 years. Super Nintendo’s Terranigma has never officially released in the United States, due to various issues involving its licensing rights. The 16-bit real-time RPG first released in Japan back in 1995, and was published by Nintendo in Europe a year later. Read the full article on pushsquare.com
+
+### This Promising PS5 Indie Doesn t Deserve Being Buried in Next Month s Crowded Release Calendar
+Mon, 24 Aug 2026 18:30:00 GMT — https://www.pushsquare.com/news/2026/08/this-promising-ps5-indie-doesnt-deserve-being-buried-in-next-months-crowded-release-calendar
+
+Well Dweller out on 22nd September for PS5. Well Dweller , the next game from the single developer behind Crypt Custodian , will launch for PS5 on 22nd September 2026. That'll be one week after Marvel's Wolverine , five days after Fire Emblem: Fortune's Weave , and two days before Control Resonant and Silent Hill: Townfall . I wish Kyle Thompson, the single developer, the very best of luck. Read the full article on pushsquare.com
+
+### Live: Watch the Pixel Arcadia Retro Game Livestream Here, Featuring Terranigma
+Mon, 24 Aug 2026 17:30:00 GMT — https://www.pushsquare.com/features/live-watch-the-pixel-arcadia-retro-game-livestream-here-featuring-terranigma
+
+Exclusive reveals expected. There have been an explosion of video game livestreams in the absence of E3 , but I’m personally pretty excited for this particular one. Pixel Arcadia The Future of Retro will represent the onslaught of retro releases now available on consoles, with a port of Terranigma expected to be among the reveals. Read the full article on pushsquare.com
+
 ### Ex-Forza Horizon Devs Finally Find a Publisher for Clutch, PS5 s Promising Open World Racer
 Mon, 24 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/08/ex-forza-horizon-devs-finally-find-a-publisher-for-clutch-ps5s-promising-open-world-racer
 
@@ -110,47 +150,12 @@ Mon, 24 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/this-i
 
 "Do not send these people your money". This week will see the debut of an extended look at GTA 6 , our first official glimpse of the game itself ahead of launch later in the year. Unfortunately, a spate of leaked videos of the game have emerged online over the last week or so, thanks to a person (or group) calling themselves Cyberleek. Read the full article on pushsquare.com
 
-### These Moments Don t Happen Anywhere Else : Sony Touts PS5 Exclusives After Abandoning PC
-Mon, 24 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/these-moments-dont-happen-anywhere-else-sony-touts-ps5-exclusives-after-abandoning-pc
-
-"Only on PS5". Sony’s released a new ad reminding you that some games can only be played on the PS5. The new commercial – part of the ‘It Happens on PS5’ campaign – focuses on several titles which are only available on PlayStation hardware. Read the full article on pushsquare.com
-
-### The Next Game from the PixelJunk Devs Leaks Online as Gamescom Looms
-Mon, 24 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/the-next-game-from-the-pixeljunk-devs-leaks-online-as-gamescom-looms
-
-What's Q-Games up to? This week should be a big one for video game news, as Gamescom Opening Night Live kicks off the German expo with a big show very soon. It looks as though one of the presentation's surprises may have been spoiled a little early, however, as a playtest version has popped up on SteamDB that pretty much confirms its existence. Read the full article on pushsquare.com
-
-### Protesting PS5 Players Now Plan Permanent Blackout, Meaning No GTA 6 or Wolverine
-Mon, 24 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/08/protesting-ps5-players-now-plan-permanent-blackout-meaning-no-gta-6-or-wolverine
-
-Consoles must remain unplugged indefinitely. Irate PS5 players have started unplugging their consoles all around the world, as a protest against Sony gets underway. The blackout – technically scheduled to start at 7pm local time, but already being observed by many participants – is designed to reduce the Japanese giant’s active users, a key performance metric for the company. Read the full article on pushsquare.com
-
-### PS5 s Best-Selling Games List Fixed After Ordering Issue Over Weekend
-Mon, 24 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/ps5s-best-selling-games-list-fixed-after-ordering-issue-over-weekend
-
-Not a big deal for Sony's engineers. Good news for the makers of 007 First Light and 1000xRESIST – both games are currently appearing on the PS Store homepage due to a glitch. Sony usually shows the most popular games in each country across a variety of categories, ranging from pre-orders to downloads. Read the full article on pushsquare.com
-
-### Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (24th-30th August)
-Mon, 24 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-24th-30th-august
-
-Metal Gear Solid! Aliens! Star Wars! A Plague Tale! An absolutely gigantic week awaits on the PS5 this time, with major titles like Resonance: A Plague Tale Legacy and Star Wars Zero Company vying for your attention. Other noteworthy games this week include Aliens: Fireteam Elite 2 and Metal Gear Solid Master Collection Vol 2 . Read the full article on pushsquare.com
-
-### PS5 RPG Dawnwalker Actually Will Have 60FPS Mode, Part of Day One Patch
-Mon, 24 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-rpg-dawnwalker-actually-will-have-60fps-mode-part-of-day-one-patch
-
-Rebel Wolves had it in testing. After revealing The Blood of Dawnwalker will only have a 30FPS Quality Mode and a 40FPS Balanced Mode at launch, developer Rebel Wolves has this morning rushed to confirm there actually will be a Performance Mode offering 60FPS. In a social media post, the team shared a Performance Mode that targets 60 frames-per-second will be available on day one, 3rd September 2026, via a day one update. It said it had been testing a Performance Mode, but it was not ready to promise it would be available at release, so the option wasn't mentioned. Read the full article on pushsquare.com
-
-### Guide: GTA 6 Netflix Extended Look: When and How to Watch
-Mon, 24 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch
-
-Dates, times, and all you need to know. GTA 6 is on the horizon, but before it makes its long-awaited debut on 19th November 2026, Rockstar Games is treating us to what it calls an Extended Look — and it's available first on Netflix. Though we don't know exactly what it'll entail, it's expected this will be our biggest and best way to see the highly anticipated game in action before it launches. Read the full article on pushsquare.com
-
-### Guide: When Is Gamescom Opening Night Live 2026?
-Mon, 24 Aug 2026 08:00:00 GMT — https://www.pushsquare.com/guides/when-is-gamescom-opening-night-live-2026
-
-Dates, times, and what to expect. When is Gamescom Opening Night Live 2026? It's that time once again, when Geoff Keighley awakens for his second annual show of the year: Gamescom Opening Night Live, getting the massive German expo started with a bang. What are all the details, then? When exactly can you tune in to watch the show, and what's gonna be there? In this guide, we're providing you with all the details you need before the showcase begins. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Creative Artists Agency spins up indie funding venture Frame1Games
+Mon, 24 Aug 2026 20:43:51 GMT — https://www.gamedeveloper.com/business/creative-artists-agency-spins-up-indie-funding-venture-frame1games
+
+'We want to support emerging, often under-resourced teams that don't necessarily have the financing, relationships or marketing resources that other titles do.'
 
 ### Mutter and Blue Prince among winners at Gamescom Dev Awards 2026
 Mon, 24 Aug 2026 16:30:00 GMT — https://www.gamedeveloper.com/business/mutter-and-blue-prince-among-winners-at-gamescom-dev-awards-2026

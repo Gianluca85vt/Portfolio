@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-24T17:14:29.235Z
+# Film & TV — harvested 2026-08-25T05:16:56.398Z
 
 ## Variety
 
-### Pixar s Cars Returns to Theaters for 20th Anniversary
-Mon, 24 Aug 2026 17:03:46 +0000 — https://variety.com/2026/film/news/cars-returns-theaters-20th-anniversary-1236841637/
+### Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios Multilingual 2026-27 Slate (EXCLUSIVE)
+Tue, 25 Aug 2026 03:30:00 +0000 — https://variety.com/2026/film/news/nandamuri-balakrishna-sunny-deol-nayanthara-zee-studios-slate-1236841553/
 
-Rev your engines because “Cars” is back in theaters to celebrate its 20th anniversary, starting Sept. 4 The race back to theaters coincides with Lightning McQueen Day on Sept. 5, honoring Owen Wilson s lead character s number, #95. The anniversary will be commemorated throughout the year with a number of themed collaborations and activations, including special [ ]
+India s Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories. On the Hindi-language side, the slate includes Baap, starring Sunny Deol, Sanjay Dutt, Jackie Shroff and Mithun [ ]
 
-### CNN Blames Technical Issue Across Warner Bros. Discovery for Channel Going Dark
-Mon, 24 Aug 2026 17:03:39 +0000 — https://variety.com/2026/tv/news/cnn-streaming-technical-issues-channel-loss-1236841649/
+### Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos
+Tue, 25 Aug 2026 02:14:02 +0000 — https://variety.com/gallery/41st-imagen-awards-red-carpet-photos/
 
-CNN s channels went dark on Monday across multiple distribution points, a problem the news network attributed to a technical issue at parent company Warner Bros. Discovery. We are aware of a technical issue across Warner Bros. Discovery that resulted in losing CNN channels for a period of time today, the news outlet s PR team said [ ]
+Andy Garcia, Karla Souza and Wilmer Valderrama were among those on the red carpet Friday night for the 41st annual Imagen Awards at The Beverly Hilton in Beverly Hills. Celebrating Latino talent and creatives across entertainment, the gala honored Andy Garcia with the Lifetime Achievement Award for his four-decade career. In his acceptance speech, the [ ]
 
-### Emily Compagno Joins Fox News The Five as Co-Host
-Mon, 24 Aug 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/emily-compagno-fox-news-the-five-co-host-1236841577/
+### Hulu Cancels Mindy Kaling-Created Comedy Not Suitable for Work After One Season (EXCLUSIVE)
+Tue, 25 Aug 2026 01:48:31 +0000 — https://variety.com/2026/tv/news/not-suitable-for-work-hulu-canceled-mindy-kaling-one-season-1236842124/
 
-Fox News is making a slight change to a program that carries a lot of weight. Emily Compagno, a co-host of the early-afternoon program Outnumbered on the cable outlet, will join its most-watched program, The Five, as a co-host, Fox News CEO Suzanne Scott said Monday. Compagno will fill in a fourth seat that has [ ]
+Hulu will not be moving forward on a second season of its recent comedy “Not Suitable for Work, from creator Mindy Kaling. The series, which Kaling executive produced with showrunner Charlie Grandy and 3 Arts Entertainment s Howard Klein, launched in June and ran for nine episodes. Warner Bros. TV, which produces the series, plans to [ ]
 
-### Kit Harington Joins Harry Potter Season 2 as Gilderoy Lockhart, Replacing Nicholas Hoult
-Mon, 24 Aug 2026 16:42:33 +0000 — https://variety.com/2026/tv/global/kit-harington-harry-potter-gilderoy-lockhart-nicholas-hoult-exit-1236841629/
+### Taylor Swift Sings Mashup of All Too Well, I Knew It, I Knew You and August in Grammy Museum Video
+Tue, 25 Aug 2026 01:15:30 +0000 — https://variety.com/2026/music/news/taylor-swift-sings-mashup-all-too-well-grammy-museum-video-1236842092/
 
-Kit Harington will now play Gilderoy Lockhart in Season 2 of HBO s Harry Potter series, replacing Nicholas Hoult, who exited the production due to scheduling conflicts. The Game of Thrones star recently voiced Lockhart, who is central to the plot of second book Harry Potter and the Chamber of Secrets, in Audible s Harry Potter audiobooks [ ]
+Most Taylor Swift fans probably do not think of the sad events of All Too Well and the ultimately happy Toy Story 5 as occurring in the same cinematic or musical universe. But, to the contrary, Swift sees a clear thematic connection between her epic romantic tragedy of 14 years ago and the happily-ever-after saga [ ]
 
-### CAA Launches Indie Game Acceleration Fund Frame1Games (EXCLUSIVE)
-Mon, 24 Aug 2026 16:32:31 +0000 — https://variety.com/2026/gaming/news/caa-indie-game-fund-frame1games-1236841590/
+### Taylor Swift Recalls How I Knew You Were Trouble Was Written As a Really Sad Ballad in Grammy Museum Conversation Video
+Mon, 24 Aug 2026 22:03:39 +0000 — https://variety.com/2026/music/news/taylor-swift-i-knew-you-were-trouble-grammy-museum-clip-1236841957/
 
-CAA has launched Frame1Games, a new venture to fund, accelerate and market independent video games. Per the agency, Frame1Games “pairs multi-million-dollar capital investment with a yearlong accelerator, giving developers mentorship from industry veterans and CAA executives and direct access to the partners and vendors needed to bring a game to market.” CAA s Frame1Games intends to back several [ ]
+Taylor Swift opened up about the process of writing and recording her 2012 hit I Knew You Were Trouble, revealing that it was initially penned as a really sad ballad before she was encouraged to incorporate dubstep. Swift reflected on the song s creation during a Q A at the Grammy Museum in Los Angeles last week, [ ]
 
-### WildBrain Acquires ‘Kid Safe’ Generative-AI Platform Personality AI in Deal Worth up to $69 Million
-Mon, 24 Aug 2026 16:08:24 +0000 — https://variety.com/2026/biz/news/wildbrain-acquires-kid-safe-ai-platform-personality-ai-1236841595/
+### Wendy Williams Documentary Series Clap If You Care, From the Host’s Longtime TV Producer, Picked Up at Peacock
+Mon, 24 Aug 2026 22:00:00 +0000 — https://variety.com/2026/tv/news/wendy-williams-documentary-clap-if-you-care-peacock-1236841933/
 
-WildBrain, the Canadian children’s media company with the rights to titles such as “Yo Gabba Gabba!” and the “Teletubbies,” has purchased the child-focused generative AI startup Personality AI in a cash-and-stock deal worth up to $69 million in a bid to marry the company’s intellectual property with the startup’s conversational products. Personality AI touts its conversational character [ ]
+Peacock is digging into the well-mined world of former radio host and TV talk show star Wendy Williams, greenlighting the three-part documentary “Clap If You Care: The Wendy Williams Show” (which is a working title) to air in 2027. Williams is not involved in the new docuseries, but her former producer is spearheading the project. [ ]
 
-### John Leguizamo, Inde Navarrette and James Ortiz Among Latino and Hispanic Stars Set for Honors at Critics Choice Celebración Ceremony
-Mon, 24 Aug 2026 16:00:00 +0000 — https://variety.com/2026/film/awards/john-leguizamo-inde-navarrette-critics-choice-latino-celebration-1236840299/
+### Azerbaijan s Lawyer Defends Defamation Suit Against CNN: These Untrue Statements Actually Put Lives at Risk
+Mon, 24 Aug 2026 21:45:02 +0000 — https://variety.com/2026/tv/news/azerbaijan-lawyer-cnn-defamation-suit-1236841531/
 
-Veteran actor John Leguizamo, breakouts James Ortiz and Inde Navarrette and more Latino Hollywood talents are among the Critics Choice Association s slate of honorees for the newly titled Celebración of Cinema Television (formerly called Celebration of Latino Cinema and Television), now in its sixth year, that recognizes and spotlights Latino and Hispanic artistry both [ ]
+Azerbaijan is very upset about a June 5 report on CNN that Israeli troops had used the country as a staging area for attacks on Iran. The country s government says that the report, based on anonymous sources, is both completely wrong and dangerous, as it risks drawing Azerbaijan into the conflict. In this situation, most [ ]
 
-### ESPN to Hike Prices of Streaming Plans Next Month
-Mon, 24 Aug 2026 15:46:27 +0000 — https://variety.com/2026/tv/news/espn-streaming-price-increase-espn-unlimited-1236841594/
+### How to Watch the Dunkman World Championship Final Online for Free
+Mon, 24 Aug 2026 21:31:00 +0000 — https://variety.com/2026/shopping/athletes/watch-dunkman-world-championship-final-live-online-free-1236838721/
 
-ESPN is ratcheting up the price of its streaming services just in time for the busy fall sports season. Effective Sept. 17, the Disney-owned sports giant is increasing the monthly and annual pricing for both ESPN Unlimited and the scaled-down ESPN Select tier. The price of ESPN Unlimited is increasing from $29.99 to $31.99/month. [ ]
+The eight best basketball dunkers in the world are coming to primetime television this week as the Dunkman World Championship final airs on TNT. The final eight take center court August 25 at 8 p.m. ET, live on TNT and TruTV as part of Dunkman, the first-ever professional league dedicated to dunking. Launched this summer [ ]
 
-### Rosie O’Donnell Should Host Her Own Show on Late-Night TV — and Shatter Comedy’s Greatest Glass Ceiling
-Mon, 24 Aug 2026 15:00:00 +0000 — https://variety.com/2026/tv/columns/rosie-odonnell-late-night-show-trump-rival-1236841131/
+### Insidious: Out of the Further Director Jacob Chase to Helm Horror Movie Sleepover for Blumhouse Atomic Monster and Universal
+Mon, 24 Aug 2026 21:00:00 +0000 — https://variety.com/2026/film/news/jacob-chase-sleepover-blumhouse-atomic-monster-1236841899/
 
-Late night is in the doldrums. It’s not just that the remaining hosts are taking much of the summer off. But, post-Stephen Colbert on CBS, ABC’s Jimmy Kimmel and NBC’s Jimmy Fallon both feel closer to the end of their respective tenures than the beginning. The whole genre feels ripe for a shake-up — lest [ ]
+Insidious: Out of the Further director Jacob Chase is set to direct the horror project Sleepover for Blumhouse Atomic Monster and Universal Pictures. Described as the quintessential sleepover nightmare, it s set for an Oct. 8, 2027 theatrical release. Chase directs from a screenplay co-written with Night Swim screenwriter Bryce McGuire, adapted from McGuire s original short [ ]
 
-### Orlando Bloom to Be Honored During Venice Film Festival With Filming Italy Award
-Mon, 24 Aug 2026 14:14:05 +0000 — https://variety.com/2026/film/global/orlando-bloom-honored-venice-film-festival-1236841484/
+### ‘Survivor’ vs. ‘The Traitors’: Will Emmy Voters Finally Give the Original Reality Juggernaut Its Due?
+Mon, 24 Aug 2026 19:45:00 +0000 — https://variety.com/2026/tv/awards/survivor-emmys-season-50-the-traitors-reality-competition-1236841801/
 
-Orlando Bloom, who will be attending the Venice Film Festival as part of the cast of Warner Herzog s competition title Bucking Fastard, is set to be feted on the Lido with the Filming Italy International Award from Filming Italy — Los Angeles, the event that bridges Italy and Hollywood. Bloom will receive the award, which [ ]
+“The Traitors” has won more Emmys in three years than “Survivor” has won in 25. It’s not close, either. Since arriving on Peacock, Alan Cumming’s Scottish castle whodunit has banked eight total Emmys — a casting win before it ever cracked the marquee race, back-to-back reality competition trophies in 2024 and 2025, two hosting wins [ ]
 
 ## The Hollywood Reporter
 
-### Fox News Names Emily Compagno As New Co-Host of The Five
-Mon, 24 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/fox-news-emily-compagno-1236679727/
+### Foo Fighters Rock Hollywood Bowl Debut as Gustavo Dudamel Says Goodbye to L.A. Philharmonic
+Tue, 25 Aug 2026 04:42:40 +0000 — https://www.hollywoodreporter.com/music/music-news/foo-fighters-rock-hollywood-bowl-debut-gustavo-dudamel-1236680241/
 
-Compagno had been a host on 'Outnumbered' and will join 'The Five' in September.
+"What an honor to be invited to this hallowed ground," Dave Grohl gushed during the performance that featured accompaniment from the full orchestra.
 
-### Kit Harington Cast In ‘Harry Potter’ Season 2 as Gilderoy Lockhart, Replacing Nicholas Hoult
-Mon, 24 Aug 2026 16:51:03 +0000 — https://www.hollywoodreporter.com/tv/tv-news/kit-harington-harry-potter-season-2-gilderoy-lockhart-1236679807/
+### Hulu Cancels Not Suitable for Work After One Season
+Tue, 25 Aug 2026 02:20:58 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hulu-cancels-not-suitable-for-work-mindy-kaling-1236680364/
 
-The 'Game of Thrones' star will play the fan-favorite character in Harry Potter season two.
+Mindy Kaling created the comedy series, which premiered in June.
 
-### Hayden Panettiere s Mom Denies You Owe Me Claim, Says She Went Downhill After Heroes
-Mon, 24 Aug 2026 16:23:03 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hayden-panettiere-mom-1236679710/
+### Taylor Swift on Dealing With Public Perception and Deciding Not to Opt Out Before Her Career Got Unmanageably Big
+Tue, 25 Aug 2026 00:30:24 +0000 — https://www.hollywoodreporter.com/music/music-news/taylor-swift-public-perception-career-unmanageably-big-1236680277/
 
-Lesley Vogel disputed a claim in her late daughter's memoir and fired back at critics Monday.
+The star joined Recording Academy CEO Harvey Mason Jr. for a 20-year retrospective chat at the Grammy Museum.
 
-### Rene Malo, ‘Decline of the American Empire’ Producer, Dies at 84
-Mon, 24 Aug 2026 16:21:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/rene-malo-dead-decline-of-american-empire-quebec-1236679703/
+### Guillermo del Toro, James Gunn Join Crunchyroll’s Inaugural Anime Future Forum
+Tue, 25 Aug 2026 00:15:10 +0000 — https://www.hollywoodreporter.com/business/business-news/guillermo-del-toro-james-gunn-crunchyroll-anime-future-forum-1236680301/
 
-The Oscar nominee and Quebec film pioneer also guided Micheline Lanctôt’s ‘Sonatine,' a winner at the Venice International Film Festival.
+The Oct. 7 industry summit in New York will also feature some of Japan's most powerful anime executives, including leaders from MAPPA, Toho, Shueisha and Aniplex.
 
-### Katt Williams Expands PGA Tour Role for Championship — But It s Not His Ultimate Golf Goal (Exclusive)
-Mon, 24 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/katt-williams-pga-tour-championship-gig-aims-to-play-pro-golf-1236677733/
+### Brenda Song Loves the Los Angeles Rams So Much She Ended Up in a Broadcast Booth at SoFi Stadium
+Mon, 24 Aug 2026 22:49:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/brenda-song-los-angeles-rams-sofi-stadium-macaulay-culkin-1236679472/
 
-The stand-up-comedy giant has huge dreams for his own game, Williams tells The Hollywood Reporter.
+The 'Running Point' star sat with THR in a golf cart after her broadcast debut to explain her obsession with defense and how a love for sports brought her closer to partner Macaulay Culkin.
 
-### Ben Affleck and Matt Damon s Artists Equity Launches Fourth Writers Room Program (Exclusive)
-Mon, 24 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-matt-damon-artists-equity-fourth-writers-room-1236679473/
+### Disney and NFL Fandoms Collide in Character-Inspired Collection of Team Gear
+Mon, 24 Aug 2026 22:43:00 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/buy-disney-nfl-champion-clothing-collab-2026-release-online-1236680074/
 
-The frequent creative partners will lead the 12-week program alongside Oscar-winning screenwriter Eric Roth.
+Created in partnership with Champion and Fanatics, the first-of-its-kind clothing collaboration pairs each NFL team with a beloved Disney, Pixar, Marvel or 'Star Wars' character.
 
-### Regal Launches Rewards+ Loyalty Program Amid Company s Record-Setting Summer (Exclusive)
-Mon, 24 Aug 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/regal-rewards-plus-loyalty-program-record-summer-1236679692/
+### Peacock Greenlights Three-Part Wendy Williams Show Documentary
+Mon, 24 Aug 2026 22:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/wendy-williams-show-documentary-peacock-1236680082/
 
-"This was an amazing summer," the theater chain's head of marketing Vikki Neil tells The Hollywood Reporter as it adds a new membership tier.
+‘Clap If You Care: The Wendy Williams Show’ is positioned as both a celebratory look at the syndicated talk show, which ended in 2022, and a cautionary tale about celebrity.
 
-### Mutiny Review: Jason Statham Anchors a Serviceable Maritime Action Flick That Just About Stays Afloat
-Mon, 24 Aug 2026 15:43:08 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/mutiny-review-jason-statham-1236679651/
+### Trump Trade War With Canada Puts Film, TV Spending Rules in Crosshairs
+Mon, 24 Aug 2026 21:05:56 +0000 — https://www.hollywoodreporter.com/business/business-news/trump-trade-war-canada-1236679850/
 
-Jean-François Richet ('Blood Father,' 'Plane') directed the latest bone-crunching entry in the Statham canon, set aboard a cargo ship heading out of Bangkok towards the high seas.
+Canadian producers are urging the government to bring back plans to force American companies to help subsidize domestic film and TV production as part of the larger fight with the U.S.
 
-### Catching Up With Liz Meriwether on Serial Killers, That New Girl Reunion Joke and Britney Biopic
-Mon, 24 Aug 2026 15:35:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/furious-finale-new-girl-reunion-liz-meriwether-interview-1236677882/
+### Jacob Chase to Direct Sleepover for Blumhouse Atomic Monster; Universal Sets 2027 Release
+Mon, 24 Aug 2026 21:01:51 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jacob-chase-direct-sleepover-for-blumhouse-atomic-monster-1236680073/
 
-The screenwriter's summer has been defined by dark Hulu hit 'Furious' and a running reunion gag that even has some executives fooled: "I don't know how this happened or how it got so out of control."
+The filmmaker is now in theaters with 'Insidious: Out of the Further.'
 
-### R.J. Kizer, Sound Editor and ADR Expert, Dies at 73
-Mon, 24 Aug 2026 15:06:12 +0000 — https://www.hollywoodreporter.com/movies/movie-news/rj-kizer-dead-master-commander-sound-editor-adr-expert-1236679674/
+### ESPN App Is Raising Prices
+Mon, 24 Aug 2026 20:48:11 +0000 — https://www.hollywoodreporter.com/tv/tv-news/espn-app-raising-prices-1236680058/
 
-His credits included ‘Master and Commander: The Far Side of the World,’ ‘Inception,’ ‘War for the Planet of the Apes’ and ‘Deadpool.’
+As is the former ESPN+.
 
 ## Deadline
 
-### Disney Offering Voluntary Early Retirement Packages To Executives (Exclusive)
-Mon, 24 Aug 2026 17:15:00 +0000 — https://deadline.com/2026/08/disney-voluntary-early-retirement-packages-layoffs-1237048503/
+### Taylor Swift On Writing I Knew You Were Trouble As A Really Sad Ballad Why She Wants To Honor Her Country Roots The Further Along This Path I Get
+Tue, 25 Aug 2026 03:40:05 +0000 — https://deadline.com/2026/08/taylor-swift-i-knew-you-were-trouble-country-roots-1237049519/
 
-EXCLUSIVE: As part of Disney s cost-reduction efforts, the company is offering longtime executives early retirement. As laid out in an internal memo sent by Disney EVP and Chief People Officer Sonia Coleman this morning to employees ranked Director and above, the company is introducing Voluntary Early Retirement Offer (VERO), a time-limited, company-sponsored program that will [ ]
+Taylor Swift has revealed more about the origin of her hit song I Knew You Were Trouble and why she wants to honor her country roots as her career continues. In a new interview with Recording Academy CEO Harvey Mason Jr. as part of the Icon Sessions, Swift opened up that she originally wrote I [ ]
 
-### CNN Says Outage Due To Technical Issue Across Warner Bros. Discovery
-Mon, 24 Aug 2026 17:13:07 +0000 — https://deadline.com/2026/08/cnn-outage-dana-bash-warner-bros-discovery-1237049000/
+### Saoirse Ronan Is Dead Serious About Playing A Bond Villain: I Want To Go Dark
+Tue, 25 Aug 2026 02:45:06 +0000 — https://deadline.com/2026/08/saoirse-ronan-bond-villain-1237049486/
 
-CNN experienced an outage on Monday in what the network said was a technical issue across Warner Bros. Discovery. Inside Politics host Dana Bash returned to the air at about 12:51 p.m. ET and told viewers, Welcome back, and we are back. There was a technical issue across Warner Bros. Discovery that resulted in losing [ ]
+Saoirse Ronan is ready to step into the dark side and is doubling down on wanting to play a villain in the James Bond universe. The next 007 actor has not been revealed yet, and in a new interview, Ronan said she would like to play a villain if given the opportunity. I want to [ ]
 
-### Fox News Names Emily Compagno Co-Host Of The Five
-Mon, 24 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/emily-compagno-the-five-fox-news-1237048839/
+### Not Suitable For Work Canceled By Hulu After One Season
+Tue, 25 Aug 2026 02:21:07 +0000 — https://deadline.com/2026/08/not-suitable-for-work-canceled-hulu-mindy-kaling-1237049484/
 
-Emily Compagno will join Fox News The Five as a full-time co-host, taking a permanent slot on the top rated cable news show. As part of the new role, effective Sept. 8, Compagno will depart the noon ET show Outnumbered. A Fox news personality will fill that seat until a permanent co-host is named. She [ ]
+Hulu has opted not to renew Mindy Kaling s Not Suitable For Work for a second season. The news comes two months after the 20somethings romantic comedy ended its Season 1 run on the Disney streamer. It is the latest casualty in the YA arena at Hulu, which also recently passed on its pilots Buffy: New [ ]
 
-### Mike Birbiglia Sets Focus Comedy Old Friends New Friends ; Lucas Hedges, Patrick Schwarzenegger, Geraldine Viswanathan Dylan Gelula To Star
-Mon, 24 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/mike-birbiglia-old-friends-new-friends-focus-features-1237048939/
+### Hangover Architects Jon Lucas Scott Moore On Keeping Comedy In Theaters With Spa Weekend Crew Call Podcast
+Tue, 25 Aug 2026 01:45:00 +0000 — https://deadline.com/2026/08/spa-weekend-jon-lucas-scott-moore-interview-1237049456/
 
-EXCLUSIVE: Earlier this month, Mike Birbiglia announced that he d be canceling a select set of stand-up dates alongside John Mulaney, with a dream project coming to fruition. And now, we can tell you what that project is. Focus Features has greenlighted Old Friends New Friends, a comedy marking Birbiglia s first feature effort in a decade. He s eyeing [ ]
+On today s Crew Call, we talk to Spa Weekend directors, writers and producers Jon Lucas and Scott Moore, not just about how their new movie came together with Anna Faris, Isla Fisher, Leslie Mann and Michelle Buteau, but the current state of big screen comedy and why major studios became so stubborn to make them. [ ]
 
-### Michael Ian Black Releasing First Annual Retirement Special With Comedy Dynamics
-Mon, 24 Aug 2026 16:55:51 +0000 — https://deadline.com/2026/08/new-michael-ian-black-special-premiere-date-1237048979/
+### Everything We Know About Amazon MGM Sony Pictures TV s ‘God Of War’ Adaptation So Far
+Mon, 24 Aug 2026 23:39:50 +0000 — https://deadline.com/feature/god-of-war-tv-show-adaptation-news-updates-amazon-sony-tv-1237049420/
 
-EXCLUSIVE: For the first time in a decade, Michael Ian Black is back with a new comedy special. Titled First Annual Retirement Special, it ll be released across platforms by Comedy Dynamics on Tuesday, August 25th. In his First Annual Retirement Special, Black reflects on his 27 years of experience as a married man and the difficult choices that [ ]
+Prime Video’s God of War video game adaptation has not gone on without some bumps in the road, but development on the show continues. First eyed for a TV series adaptation by the producing studios in March 2022, the casting for the show gained momentum at the beginning of January 2026 after some creative shuffling. [ ]
 
-### Kit Harington Joins Harry Potter Season 2 As Gilderoy Lockhart In Recasting, Reprising Voice Role
-Mon, 24 Aug 2026 16:30:00 +0000 — https://deadline.com/2026/08/kit-harington-harry-potter-gilderoy-lockhart-nicholas-hoult-1237048935/
+### Field Of Vision Debuts Ukraine War-Themed ‘When It Started To Burn’ On Ukrainian Independence Day
+Mon, 24 Aug 2026 23:29:40 +0000 — https://deadline.com/2026/08/when-it-started-to-burn-field-of-vision-premiere-1237049415/
 
-EXCLUSIVE: Game of Thrones star Kit Harington is joining another tentpole fantasy series for HBO. He will play Gilderoy Lockhart in Season 2 of Harry Potter. Harington replaces Nicholas Hoult who was originally cast in the role but left over scheduling issues. HBO had to work around two pre-existing Hoult projects; when filming of the [ ]
+EXCLUSIVE: On the 35th anniversary of Ukrainian Independence Day, Field of Vision is launching a new documentary on Ukraine’s valiant fight to maintain its freedom. When It Started to Burn debuted on the Field of Vision platform Monday, the third in a trilogy of short films from director Anders Hammer that examine “conflicts and civilian [ ]
 
-### Lux Angeles Studios Assembles Exec Team To Lead On Indie Pics Up To $20M
-Mon, 24 Aug 2026 16:20:13 +0000 — https://deadline.com/2026/08/lux-angeles-studios-exec-team-hire-bigger-productions-1237047357/
+### Wendy Williams Docuseries Set At Peacock
+Mon, 24 Aug 2026 22:00:00 +0000 — https://deadline.com/2026/08/wendy-williams-docuseries-peacock-1237049234/
 
-EXCLUSIVE: Lux Angeles Studios has hired Binh Dang as the final piece of an executive puzzle assembled as the company eyes production on indie pics in the $10M-$20M range. Dang will be Head of Production at Lux Angeles, working alongside a new look executive team comprising co-CEOs Matt Macur and Rebecca O Hara, chair Steve Fabos, [ ]
+Peacock has greenlit a documentary celebrating Wendy Williams and her daytime talk show. The three-part docuseries, tentatively titled Clap If You Care: The Wendy Williams Show, is set to air in 2027. Suzzanne Bass, an executive producer on The Wendy Williams talk show who often appeared on camera reacting to Williams hot takes, will be [ ]
 
-### Fremantle Global Formats Boss Vasha Wallace Exiting Got Talent Firm After Two Decades
-Mon, 24 Aug 2026 16:02:17 +0000 — https://deadline.com/2026/08/fremantle-vasha-wallace-exiting-1237048854/
+### WildBrain Buys Personality AI In Deal Worth Up To $70 Million
+Mon, 24 Aug 2026 21:47:25 +0000 — https://deadline.com/2026/08/wildbrain-acquires-personality-ai-1237049261/
 
-Fremantle s long-serving global formats chief Vasha Wallace is laving the Got Talent firm. In a note sent to external colleagues seen by Deadline, she wrote that she was preparing to hand over to colleagues in September. At that point she would exit to become an international consultant, leaving behind her role as Fremantle s Executive VP [ ]
+WildBrain, the Canadian animation studio that owns and manages a huge library of family entertainment including Teletubbies, Strawberry Shortcake, Yo Gabba Gabba! and Inspector Gadget, has acquired 100% of Personality AI, a generative AI startup focused on bringing character experiences to life. The immediate purchase price was USD $11 million in cash plus 1 million [ ]
 
-### ‘The Madison’s Elle Chapman Signs With UTA
-Mon, 24 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/the-madison-elle-chapman-uta-1237047042/
+### Insidious 6 Director Jacob Chase Reteaming With Blumhouse Atomic Monster For Sleepover ; Fall 2027 Release Set
+Mon, 24 Aug 2026 21:00:00 +0000 — https://deadline.com/2026/08/sleepover-jacob-chase-insidious-out-of-the-further-1237049257/
 
-Elle Chapman, who stars in Paramount+’s family drama The Madison, has new representation. The actor has signed with UTA in all areas. It comes five months after the launch of the Taylor Sheridan series, which became the Yellowstone co-creator’s biggest series launch ever. Chapman stars as Paige McIntosh, daughter of Stacy and Preston Clyburn, played [ ]
+Blumhouse Atomic Monster will continue to be in business with their Insidious: Out of the Further filmmaker Jacob Chase on the upcoming Universal large scale horror pic, Sleepover. The pic will hit theaters on Oct. 8, 2027; Uni already having that date on reserve for an untitled Blumhouse Atomic Monster pic. The news comes in [ ]
 
-### Obsession Star Inde Navarrette, Odyssey s John Leguizamo, Cannes Hit La Bola Negra Among Critics Choice Celebración Of Cinema TV Honorees
-Mon, 24 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/inde-navarrette-john-leguizamo-critics-choice-celebracion-1237048356/
+### BBC Files New Motion To Dismiss Donald Trump s $10 Billion Lawsuit, Challenges Claims Of U.S. Viewership Via VPN
+Mon, 24 Aug 2026 20:46:59 +0000 — https://deadline.com/2026/08/bbc-trump-documentary-lawsuit-1237049211/
 
-Stars of breakout hit movies Obsession and The Odyssey, as well as the actor and puppeteer behind Rocky from the blockbuster Project Hail Mary, are among the honorees as the Critics Choice Association on Monday revealed the full slate for its sixth annual Celebración of Cinema Television, taking place October 2 in Beverly Hills. [ ]
+The BBC is again seeking to dismiss Donald Trump s $10 billion lawsuit against the network, including a challenge to the president s claim that a documentary at issue aired in the United States. Trump sued the BBC in December over edits that were made in a documentary about the January 6th attack on the Capitol. The network has been seeking [ ]
 
-### Tyriq Withers Signs With Untitled
-Mon, 24 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/tyriq-withers-signs-untitled-1237048883/
+### New York City s AMC Kips Bay 15 To Close At Year s End
+Mon, 24 Aug 2026 20:44:24 +0000 — https://deadline.com/2026/08/amc-kips-bay-15-closing-new-york-1237049212/
 
-EXCLUSIVE: Actor Tyriq Withers has inked with Untitled for representation in all areas. Currently, Withers is in production on Love Love, the tennis-themed rom-com from director Joey Power and Amazon MGM Studios, where he stars opposite Isabel May. Earlier this year, he was seen starring opposite Maika Monroe in Reminders of Him, Universal s adaptation of the 2022 novel [ ]
+AMC Theaters on Monday said it expects that AMC Kips Bay 15, the second biggest multiplex in the exhibitor s New York City footprint, to close its doors at year s end. We expect that AMC Kips Bay 15 will continue operating until the end of 2026, at which time the theatre will close following the property [ ]
 
-### Nicholas Alexander Chavez Three Others Join Action Thriller Supermax From Amazon MGM Miramax As Production Begins
-Mon, 24 Aug 2026 15:55:00 +0000 — https://deadline.com/2026/08/supermax-movie-cast-adds-nicholas-alexander-chavez-1237048918/
+### Jimmy Kimmel Fears Late-Night Retirement
+Mon, 24 Aug 2026 20:03:53 +0000 — https://deadline.com/2026/08/jimmy-kimmel-fears-retirement-1237049210/
 
-EXCLUSIVE: David Gordon Green has added four more to the cast of Supermax, his new action thriller for Amazon MGM Studios and Miramax: Nicholas Alexander Chavez (Monster: The Lyle and Erik Menendez Story), Andrés Almeida (Bardo: False Chronicle of a Handful of Truths), Martin Bats Bradford (Hit Man) and Erika Ringor (King Richard). Character details for the [ ]
+Jimmy Kimmel has opened up about potentially moving on from his ABC late-night show, again. Kimmel and his wife Molly McNearney, who is also an exec producer of Jimmy Kimmel Live!, appeared on Dax Shepard’s Armchair Expert podcast and the pair were asked about retirement, particularly whether he would regret it once he leaves. “I [ ]
 

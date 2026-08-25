@@ -1,12 +1,16 @@
-# AI — harvested 2026-08-24T17:14:29.235Z
+# AI — harvested 2026-08-25T05:16:56.398Z
 
 ## OpenAI
 
-_Nothing in the last 48 hours._
+### Advancing price-performance for developers with GPT‑5.6 in Kiro
+Mon, 24 Aug 2026 12:00:00 GMT — https://openai.com/index/gpt-5-6-in-kiro
+
+GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.
 
 ## Hugging Face
 
-_Nothing in the last 48 hours._
+### Wire It, Run It, Deploy It: AI Workflows in Gradio
+Tue, 25 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/gradio-workflow-guide
 
 ## Google DeepMind
 

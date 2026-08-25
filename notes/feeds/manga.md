@@ -1,66 +1,66 @@
-# Manga — harvested 2026-08-24T17:14:29.235Z
+# Manga — harvested 2026-08-25T05:16:56.398Z
 
 ## Anime News Network
 
-### Mushoku Tensei: Jobless Reincarnation III ‒ Episode 9
-Mon, 24 Aug 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-9/.240894
+### Masako Nozawa Celebrates 90th Birthday With New Apparel
+Mon, 24 Aug 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-24/masako-nozawa-celebrates-90th-birthday-with-new-apparel/.240906
 
-The true point of the first half of this cour? Teaching Rudeus empathy.
+New apparel depicts voice acting legend, <cite>Dragon Ball's</cite> Goku, when she was younger.
 
-### Japan's Video Game Rankings, August 10-16
-Mon, 24 Aug 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/japan-video-game-rankings-august-10-16/.240916
+### KAIJU GIRL CARAMELISE ‒ Episode 8
+Mon, 24 Aug 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/kaiju-girl-caramelise/episode-8/.240932
 
-<cite>Rhythm Heaven Groove</cite> stays at #1, <cite>The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition</cite> debuts at #15
+I've joked about Manatsu being a kaiju chaser before, and her island excursion provides a perfect opportunity for me to explain and explore that concept in earnest.
 
-### Mistress Kanan is Devilishly Easy Season 1 Anime Series Review
-Mon, 24 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/mistress-kanan-is-devilishly-easy-season-1-anime-series/.240634
+### Castlevania: Belmont's Curse Game's Trailer Announces English Voice Cast
+Mon, 24 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/castlevania-belmont-curse-game-trailer-announces-english-voice-cast/.240935
 
-The show is bogged down by its desire to maintain a repetitive status quo.
+Abby Trott, JB Blanc, Alejandra Reynoso, Graham McTavish, Liam O'Brien. more star in October 15 game
 
-### Nekopara Sekai Connect Game Launches for PC on September 28
-Mon, 24 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-24/nekopara-sekai-connect-game-launches-for-pc-on-september-28/.240926
+### Though I Am an Inept Villainess ‒ Episode 7
+Mon, 24 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-7/.240931
 
-Neko Works and Good Smile Company announced on Monday that their Nekopara Sekai Connect game will launch on PC via Steam on September 28. Save data from...
+The butterfly and rat are out of the bag now.
 
-### The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3 ‒ Episode 32
-Mon, 24 Aug 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3/episode-32/.240887
+### Marvelous Teases New Story of Seasons, Rune Factory 6 Games
+Mon, 24 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/marvelous-teases-new-story-of-seasons-rune-factory-6-games/.240934
 
-It doesn't get much wilder than Rentaro falling in love at first sight with Yaku, his 89-year-old grandmother-in-law.
+Footage revealed during <cite>Story of Seasons</cite> 30th Anniversary, <cite>Rune Factory</cite> 20th Anniversary livestream
 
-### Japan's Video Game Rankings, August 3-9
-Mon, 24 Aug 2026 11:05:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/japan-video-game-rankings-august-3-9/.240910
+### Goodbye, Lara ‒ Episode 8
+Mon, 24 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/goodbye-lara/episode-8/.240927
 
-<cite>Rhythm Heaven Groove</cite> returns to #1, <cite>Beast of Reincarnation</cite> debuts at #2
+All magic has a time limit.
 
-### 'Tetsuryō! meet with Tetsudō Musume' Anime Premieres on October 8
-Mon, 24 Aug 2026 10:45:30 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-24/tetsuryo-meet-with-tetsudo-musume-anime-premieres-on-october-8/.240925
+### RetroCrush Adds Guyver OVA, Live-Action Dororo Film
+Mon, 24 Aug 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/retrocrush-adds-guyver-ova-live-action-dororo-film/.240885
 
-The official X/Twitter account for Tetsuryō! meet with Tetsudō Musume, the original television anime based on the Tetsudō Musume (Railway Girls) characters,...
+Both works available on platform with subscription in N. America
 
-### You and I Are Polar Opposites Season 2 ‒ Episode 8
-Mon, 24 Aug 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-8/.240891
+### Daemons of the Shadow Realm ‒ Episode 20
+Mon, 24 Aug 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-20/.240896
 
-As simultaneously funny and cursed as it is to have Azuma start seeing Taira in bishie vision, it is a little frustrating that her crush hasn't developed too far past where it was last episode.
+Now, 20 episodes in, we finally have a name for the group trying to kill Yuru.
 
-### All 4 Persona 3 Anime Films Stream on Aniplex USA YouTube Channel for Limited Time
-Mon, 24 Aug 2026 10:05:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/all-4-persona-3-anime-films-stream-on-aniplex-usa-youtube-channel-for-limited-time/.240881
+### K Manga Adds Daiki Yamazaki's Golden Phantom Manga
+Mon, 24 Aug 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/k-manga-adds-daiki-yamazaki-golden-phantom-manga/.240929
 
-Aniplex of America previously released all 4 films on home video
+Yamazaki debuted series on February 25
 
-### Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 19
-Mon, 24 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-19/.240859
+### Sparks of Tomorrow ‒ Episode 8
+Mon, 24 Aug 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-8/.240892
 
-Rosemyne turns When-in-Rome-style custom-respecting into mandatory fun. And it is indeed fun to see Brigitte cut loose a bit and knock back some big beers at a barbecue.
+This episode has once again reminded me of the incongruity that defines <i>Sparks of Tomorrow</i>, and its amateurish character and narrative writing.
 
-### Webtoon-Based Live-Action Inside Men Prequel Film Confirms Main Cast
-Mon, 24 Aug 2026 09:05:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/webtoon-based-live-action-inside-men-prequel-film-confirms-main-cast/.240787
+### Japanese Animation TV Ranking, August 10-16
+Mon, 24 Aug 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/japanese-animation-tv-ranking-august-10-16/.240918
 
-Film set in late 1980s will explore origins of power cartel portrayed in original 2015 movie
+<cite>That Time I Got Reincarnated as a Slime</cite> increases rating to 3.6% from previous 2.8%
 
-### 10 Years in the Making: Returning to Magical Girl Raising Project with Director Hiroyuki Hashimoto
-Mon, 24 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-08-24/10-years-in-the-making-returning-to-magical-girl-raising-project-with-director-hiroyuki-hashimoto/.240244
+### Crunchyroll Adds English Dubs for One Piece TV Anime's Elbaph Arc on October 20, One Piece: Heroines on October 13
+Mon, 24 Aug 2026 13:00:21 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-24/crunchyroll-adds-english-dubs-for-one-piece-tv-anime-elbaph-arc-on-october-20-one-piece-heroines-on-/.240930
 
-Ten years ago, director Hiroyuki Hashimoto brought novelist Asari Endō 's terrifying vision of a magical girl battle royale to television screens. Following the season's conclusion, there was no news of a sequel: until now.
+Crunchyroll announced on Monday that it will begin streaming the English dub for the One Piece anime's Elbaph arc on October 20 at 12:00 p.m. EDT in the...
 
 ## Crunchyroll News
 
