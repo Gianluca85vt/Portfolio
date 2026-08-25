@@ -202,6 +202,41 @@ for (const filename of requests) {
     }
   }
 
+  // The agent writes the <figure> markup by hand, pointing at video-thumb.jpg,
+  // and its sandbox cannot reach the YouTube oembed endpoint reliably — so it
+  // cannot confirm the id resolves. If the markup references a still that never
+  // arrived, the live page ships a broken image. Catch that here, where the
+  // network works, and say whose channel the video is on while we are at it.
+  const articlePath = path.join('src/content/blog', `${slug}.md`);
+  const body = await readFile(articlePath, 'utf8').catch(() => '');
+
+  if (body.includes('video-thumb.jpg')) {
+    const thumb = path.join('public/img/blog', slug, 'video-thumb.jpg');
+    const haveThumb = await stat(thumb).then(() => true).catch(() => false);
+
+    if (!haveThumb) {
+      console.log(
+        `::error::${slug}: the article embeds video-thumb.jpg but no thumbnail was fetched. ` +
+          `The video id is wrong, or the request JSON is missing youtubeId. Fix before this is approved.`,
+      );
+    } else if (request.youtubeId) {
+      try {
+        const res = await fetch(
+          `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${request.youtubeId}&format=json`,
+          { signal: AbortSignal.timeout(15_000) },
+        );
+        if (res.ok) {
+          const meta = await res.json();
+          console.log(`${slug}: video is "${meta.title}" by ${meta.author_name}`);
+        } else {
+          console.log(`::warning::${slug}: oembed says ${res.status} for ${request.youtubeId} — check the id resolves.`);
+        }
+      } catch (err) {
+        console.log(`::warning::${slug}: could not reach oembed to confirm ${request.youtubeId} — ${err.message}`);
+      }
+    }
+  }
+
   const outDir = path.join('public/img/blog', slug);
   await mkdir(outDir, { recursive: true });
 
