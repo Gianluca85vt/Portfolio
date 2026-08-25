@@ -5,7 +5,6 @@ category: 3D
 author: elia-marcheselli
 excerpt: A breakdown of Ezequiel Grand's commercial VFX career, published on 80.lv, traces how a Paul McCartney tour deadline pushed him into procedural Houdini work. The underlying lesson holds for anyone stuck modeling the fortieth near-identical building by hand.
 cover: /img/blog/houdini-procedural-house-generator/cover.svg
-draft: true
 ---
 
 80.lv published a breakdown of Ezequiel Grand's career this week — an Argentinian 3D
