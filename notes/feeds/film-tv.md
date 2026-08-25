@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-08-25T05:16:56.398Z
+# Film & TV — harvested 2026-08-25T08:22:00.106Z
 
 ## Variety
+
+### ‘Cairo Conspiracy s Tawfeek Barhom to Star in Les Valseurs’ ‘Borderline’ by Oscar-Nominated Yves Piat (EXCLUSIVE)
+Tue, 25 Aug 2026 07:38:00 +0000 — https://variety.com/2026/film/global/tawfeek-barhom-les-valseurs-borderline-1236841611/
+
+Palestinian actor Tawfeek Barhom, best known for Tarik Saleh’s Cannes winner “Cairo Conspiracy” in 2022 and Palme d’Or winner 2025 for his short film “I’m Glad You’re Dead Now,” is set to headline the French pic “Borderline” by first-timer Yves Piat. A very loose feature-length version of Piat’s Oscar-nominated live action short “Nefta Football Club,” [ ]
+
+### Na Hong-Jin s Hope, Netflix s Dead-End Job and Blue Road, Disney+ s The Remarried Empress Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups
+Tue, 25 Aug 2026 07:25:37 +0000 — https://variety.com/2026/film/festivals/na-hong-jin-hope-netflix-disney-busan-korean-cinema-today-1236842197/
+
+The 31st Busan International Film Festival (BIFF) has unveiled its Korean Cinema Today and On Screen selections, with Na Hong-Jin s Hope among a nine-film lineup spanning Panorama and Special Premiere. Hope, Na s latest feature, drew global attention ahead of release on the strength of its large-scale production and a cast including Hwang Jung-min, Zo In-sung, [ ]
+
+### Spider-Man: Brand New Day, The Odyssey Extend Battle Atop U.K. and Ireland Box Office as Insidious Makes Strong Debut
+Tue, 25 Aug 2026 07:00:05 +0000 — https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-insidious-uk-ireland-box-office-1236842186/
+
+Sony s Spider-Man: Brand New Day retained the No. 1 spot at the U.K. and Ireland box office for a fourth consecutive week, collecting £3.6 million ($4.8 million), according to Rentrak. The superhero blockbuster pushed its running cumulative gross to $117.9 million. Universal s The Odyssey, directed by Christopher Nolan, held firmly in second place during its [ ]
 
 ### Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios Multilingual 2026-27 Slate (EXCLUSIVE)
 Tue, 25 Aug 2026 03:30:00 +0000 — https://variety.com/2026/film/news/nandamuri-balakrishna-sunny-deol-nayanthara-zee-studios-slate-1236841553/
@@ -27,7 +42,7 @@ Mon, 24 Aug 2026 22:03:39 +0000 — https://variety.com/2026/music/news/taylor-s
 
 Taylor Swift opened up about the process of writing and recording her 2012 hit I Knew You Were Trouble, revealing that it was initially penned as a really sad ballad before she was encouraged to incorporate dubstep. Swift reflected on the song s creation during a Q A at the Grammy Museum in Los Angeles last week, [ ]
 
-### Wendy Williams Documentary Series Clap If You Care, From the Host’s Longtime TV Producer, Picked Up at Peacock
+### Wendy Williams Documentary Series Clap if You Care, From the Host’s Longtime TV Producer, Picked Up at Peacock
 Mon, 24 Aug 2026 22:00:00 +0000 — https://variety.com/2026/tv/news/wendy-williams-documentary-clap-if-you-care-peacock-1236841933/
 
 Peacock is digging into the well-mined world of former radio host and TV talk show star Wendy Williams, greenlighting the three-part documentary “Clap If You Care: The Wendy Williams Show” (which is a working title) to air in 2027. Williams is not involved in the new docuseries, but her former producer is spearheading the project. [ ]
@@ -37,22 +52,22 @@ Mon, 24 Aug 2026 21:45:02 +0000 — https://variety.com/2026/tv/news/azerbaijan-
 
 Azerbaijan is very upset about a June 5 report on CNN that Israeli troops had used the country as a staging area for attacks on Iran. The country s government says that the report, based on anonymous sources, is both completely wrong and dangerous, as it risks drawing Azerbaijan into the conflict. In this situation, most [ ]
 
-### How to Watch the Dunkman World Championship Final Online for Free
-Mon, 24 Aug 2026 21:31:00 +0000 — https://variety.com/2026/shopping/athletes/watch-dunkman-world-championship-final-live-online-free-1236838721/
-
-The eight best basketball dunkers in the world are coming to primetime television this week as the Dunkman World Championship final airs on TNT. The final eight take center court August 25 at 8 p.m. ET, live on TNT and TruTV as part of Dunkman, the first-ever professional league dedicated to dunking. Launched this summer [ ]
-
-### Insidious: Out of the Further Director Jacob Chase to Helm Horror Movie Sleepover for Blumhouse Atomic Monster and Universal
-Mon, 24 Aug 2026 21:00:00 +0000 — https://variety.com/2026/film/news/jacob-chase-sleepover-blumhouse-atomic-monster-1236841899/
-
-Insidious: Out of the Further director Jacob Chase is set to direct the horror project Sleepover for Blumhouse Atomic Monster and Universal Pictures. Described as the quintessential sleepover nightmare, it s set for an Oct. 8, 2027 theatrical release. Chase directs from a screenplay co-written with Night Swim screenwriter Bryce McGuire, adapted from McGuire s original short [ ]
-
-### ‘Survivor’ vs. ‘The Traitors’: Will Emmy Voters Finally Give the Original Reality Juggernaut Its Due?
-Mon, 24 Aug 2026 19:45:00 +0000 — https://variety.com/2026/tv/awards/survivor-emmys-season-50-the-traitors-reality-competition-1236841801/
-
-“The Traitors” has won more Emmys in three years than “Survivor” has won in 25. It’s not close, either. Since arriving on Peacock, Alan Cumming’s Scottish castle whodunit has banked eight total Emmys — a casting win before it ever cracked the marquee race, back-to-back reality competition trophies in 2024 and 2025, two hosting wins [ ]
-
 ## The Hollywood Reporter
+
+### Hilary Strong Steps Down as CEO of John Gore Studios
+Tue, 25 Aug 2026 08:17:25 +0000 — https://www.hollywoodreporter.com/business/business-news/john-gore-studios-ceo-hilary-strong-exit-1236680466/
+
+The company will be "joining forces with its U.S.-based sister company, The John Gore Organization," in a rejig, with both under the executive leadership of owner and founder Gore.
+
+### Meet Mestiza, the Female Duo From Spain Mixing Flamenco and Electronic Music
+Tue, 25 Aug 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/mestiza-female-music-duo-spain-mixing-flamenco-electronic-1236678370/
+
+Belah and Pitty discuss their music and aesthetics, upcoming shows in London and New York, leaning into the "almost ritualistic" nature of electronic music, and the visual, cinematic side of their creativity.
+
+### Dominic Monaghan to Join Lord of the Rings 25th Anniversary Reunion With Elijah Wood, More at CCXP
+Tue, 25 Aug 2026 06:23:08 +0000 — https://www.hollywoodreporter.com/movies/movie-news/lord-of-the-rings-dominic-monaghan-elijah-wood-ccxp-1236680442/
+
+The annual fan event takes place Dec. 3-6 in Brazil.
 
 ### Foo Fighters Rock Hollywood Bowl Debut as Gustavo Dudamel Says Goodbye to L.A. Philharmonic
 Tue, 25 Aug 2026 04:42:40 +0000 — https://www.hollywoodreporter.com/music/music-news/foo-fighters-rock-hollywood-bowl-debut-gustavo-dudamel-1236680241/
@@ -89,22 +104,22 @@ Mon, 24 Aug 2026 22:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 ‘Clap If You Care: The Wendy Williams Show’ is positioned as both a celebratory look at the syndicated talk show, which ended in 2022, and a cautionary tale about celebrity.
 
-### Trump Trade War With Canada Puts Film, TV Spending Rules in Crosshairs
-Mon, 24 Aug 2026 21:05:56 +0000 — https://www.hollywoodreporter.com/business/business-news/trump-trade-war-canada-1236679850/
-
-Canadian producers are urging the government to bring back plans to force American companies to help subsidize domestic film and TV production as part of the larger fight with the U.S.
-
-### Jacob Chase to Direct Sleepover for Blumhouse Atomic Monster; Universal Sets 2027 Release
-Mon, 24 Aug 2026 21:01:51 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jacob-chase-direct-sleepover-for-blumhouse-atomic-monster-1236680073/
-
-The filmmaker is now in theaters with 'Insidious: Out of the Further.'
-
-### ESPN App Is Raising Prices
-Mon, 24 Aug 2026 20:48:11 +0000 — https://www.hollywoodreporter.com/tv/tv-news/espn-app-raising-prices-1236680058/
-
-As is the former ESPN+.
-
 ## Deadline
+
+### Hannah Einbinder Supports Mark Ruffalo Describes The Ellison Family’s Antisemitism Accusations As Ludicrous
+Tue, 25 Aug 2026 08:17:41 +0000 — https://deadline.com/2026/08/hannah-einbinder-mark-ruffalo-ellison-antisemitism-israel-1237049598/
+
+Hannah Einbinder shared a lengthy Instagram story post on Monday evening supporting Mark Ruffalo after he was accused of being antisemitic by the Ellison family for highlighting their connection to the Israeli state and its military apparatus. “I’m so grateful that Mark Ruffalo drew a connection between the Ellisons providing military technology to Israel during [ ]
+
+### Strictly Come Dancing Star Giovanni Pernice Felt Suicidal After Being Dropped By BBC Over Amanda Abbington Complaint: They Hung Me Out To Dry
+Tue, 25 Aug 2026 07:57:52 +0000 — https://deadline.com/2026/08/strictly-come-dancing-giovanni-pernice-suicidal-bbc-1237049570/
+
+Professional dancer Giovanni Pernice has vented his fury at the BBC over its handling of his Strictly Come Dancing exit following a clash with Sherlock star Amanda Abbington. In an interview with The Daily Telegraph, Pernice said he was left feeling suicidal after being hung out to dry by the BBC, arguing that the broadcaster s [ ]
+
+### Bitters End International Chief Sayaka Ito Talks Japan’s New Generation, Indie Spirit Expanding Into Sales
+Tue, 25 Aug 2026 07:05:00 +0000 — https://deadline.com/2026/08/bitters-end-hamaguchi-japan-maha-harada-san-sebastian-1237032934/
+
+Amid the resurgence of Japanese cinema on the international festival circuit over the past few years, one resolutely indie banner, Bitters End, has been quietly growing its profile across production, distribution and international sales. Founded three decades ago by producer-distributor Yuji Sadai, the company is more of a highly-regarded veteran than a snappy startup, but [ ]
 
 ### Taylor Swift On Writing I Knew You Were Trouble As A Really Sad Ballad Why She Wants To Honor Her Country Roots The Further Along This Path I Get
 Tue, 25 Aug 2026 03:40:05 +0000 — https://deadline.com/2026/08/taylor-swift-i-knew-you-were-trouble-country-roots-1237049519/
@@ -150,19 +165,4 @@ WildBrain, the Canadian animation studio that owns and manages a huge library of
 Mon, 24 Aug 2026 21:00:00 +0000 — https://deadline.com/2026/08/sleepover-jacob-chase-insidious-out-of-the-further-1237049257/
 
 Blumhouse Atomic Monster will continue to be in business with their Insidious: Out of the Further filmmaker Jacob Chase on the upcoming Universal large scale horror pic, Sleepover. The pic will hit theaters on Oct. 8, 2027; Uni already having that date on reserve for an untitled Blumhouse Atomic Monster pic. The news comes in [ ]
-
-### BBC Files New Motion To Dismiss Donald Trump s $10 Billion Lawsuit, Challenges Claims Of U.S. Viewership Via VPN
-Mon, 24 Aug 2026 20:46:59 +0000 — https://deadline.com/2026/08/bbc-trump-documentary-lawsuit-1237049211/
-
-The BBC is again seeking to dismiss Donald Trump s $10 billion lawsuit against the network, including a challenge to the president s claim that a documentary at issue aired in the United States. Trump sued the BBC in December over edits that were made in a documentary about the January 6th attack on the Capitol. The network has been seeking [ ]
-
-### New York City s AMC Kips Bay 15 To Close At Year s End
-Mon, 24 Aug 2026 20:44:24 +0000 — https://deadline.com/2026/08/amc-kips-bay-15-closing-new-york-1237049212/
-
-AMC Theaters on Monday said it expects that AMC Kips Bay 15, the second biggest multiplex in the exhibitor s New York City footprint, to close its doors at year s end. We expect that AMC Kips Bay 15 will continue operating until the end of 2026, at which time the theatre will close following the property [ ]
-
-### Jimmy Kimmel Fears Late-Night Retirement
-Mon, 24 Aug 2026 20:03:53 +0000 — https://deadline.com/2026/08/jimmy-kimmel-fears-retirement-1237049210/
-
-Jimmy Kimmel has opened up about potentially moving on from his ABC late-night show, again. Kimmel and his wife Molly McNearney, who is also an exec producer of Jimmy Kimmel Live!, appeared on Dax Shepard’s Armchair Expert podcast and the pair were asked about retirement, particularly whether he would regret it once he leaves. “I [ ]
 

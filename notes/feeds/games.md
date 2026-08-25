@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-25T05:16:56.398Z
+# Games — harvested 2026-08-25T08:22:00.106Z
 
 ## Eurogamer
 
@@ -63,6 +63,16 @@ Sun, 23 Aug 2026 11:43:40 +0000 — https://www.eurogamer.net/the-duskbloods-ski
 FromSoftware is stepping into one of multiplayer gaming's most divisive arguments with The Duskbloods, confirming the upcoming Switch 2 exclusive will lean on skill-based matchmaking to keep newcomers safe from its most battle-hardened players. Read more
 
 ## GamesIndustry.biz
+
+### Godot Engine partner firm W4 Games secures $18m Series B funding, signs deal with Tencent to bolster Asia ecosystem
+Tue, 25 Aug 2026 08:00:00 +0000 — https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem
+
+W4 Games has raised $18 million in a Series B funding round led by Tencent and has signed an agreement with the Chinese giant to scale and bolster the Godot ecosystem in Asia. Read more
+
+### GDC Festival of Gaming announces changes to 2027 event, including new Business Hall at Moscone West
+Tue, 25 Aug 2026 07:04:11 +0000 — https://www.gamesindustry.biz/gdc-festival-of-gaming-announces-changes-to-2027-event-including-new-business-hall-at-moscone-west
+
+GDC Festival of Gaming has announced changes to its 2027 event , including a new Business Hall at Moscone West. Read more
 
 ### Maria Redin of mobile giant MTG on rebranding, buying Raid: Shadow Legends, and plans to double the company's size
 Mon, 24 Aug 2026 14:23:55 +0000 — https://www.gamesindustry.biz/maria-redin-of-mobile-giant-mtg-on-rebranding-buying-raid-shadow-legends-and-plans-to-double-the-companys-size

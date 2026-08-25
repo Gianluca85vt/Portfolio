@@ -1,6 +1,21 @@
-# Manga — harvested 2026-08-25T05:16:56.398Z
+# Manga — harvested 2026-08-25T08:22:00.106Z
 
 ## Anime News Network
+
+### Earth Defense Force 6.2 Invaders From Another World Game Announced for PS5
+Tue, 25 Aug 2026 03:55:13 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/earth-defense-force-6.2-invaders-from-another-world-game-announced-for-ps5/.240954
+
+D3Publisher launches updated version of <cite>Earth Defense Force 6</cite> in 2027 with demo at Tokyo Game Show in September
+
+### 'Fall in Love, You False Angels' Manga Goes on Hiatus
+Tue, 25 Aug 2026 02:30:47 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/fall-in-love-you-false-angels-manga-goes-on-hiatus/.240940
+
+Creator Coco Uzuki's health, workload cited for hiatus, with series returning in November
+
+### Übel Blatt II Manga Ends on October 23
+Tue, 25 Aug 2026 01:35:49 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/ubel-blatt-ii-manga-ends-on-october-23/.240944
+
+Sequel manga launched in February 2024
 
 ### Masako Nozawa Celebrates 90th Birthday With New Apparel
 Mon, 24 Aug 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-24/masako-nozawa-celebrates-90th-birthday-with-new-apparel/.240906
@@ -46,21 +61,6 @@ Now, 20 episodes in, we finally have a name for the group trying to kill Yuru.
 Mon, 24 Aug 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/k-manga-adds-daiki-yamazaki-golden-phantom-manga/.240929
 
 Yamazaki debuted series on February 25
-
-### Sparks of Tomorrow ‒ Episode 8
-Mon, 24 Aug 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-8/.240892
-
-This episode has once again reminded me of the incongruity that defines <i>Sparks of Tomorrow</i>, and its amateurish character and narrative writing.
-
-### Japanese Animation TV Ranking, August 10-16
-Mon, 24 Aug 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/japanese-animation-tv-ranking-august-10-16/.240918
-
-<cite>That Time I Got Reincarnated as a Slime</cite> increases rating to 3.6% from previous 2.8%
-
-### Crunchyroll Adds English Dubs for One Piece TV Anime's Elbaph Arc on October 20, One Piece: Heroines on October 13
-Mon, 24 Aug 2026 13:00:21 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-24/crunchyroll-adds-english-dubs-for-one-piece-tv-anime-elbaph-arc-on-october-20-one-piece-heroines-on-/.240930
-
-Crunchyroll announced on Monday that it will begin streaming the English dub for the One Piece anime's Elbaph arc on October 20 at 12:00 p.m. EDT in the...
 
 ## Crunchyroll News
 
