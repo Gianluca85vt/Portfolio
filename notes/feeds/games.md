@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-25T14:27:10.069Z
+# Games — harvested 2026-08-25T17:17:15.944Z
 
 ## Eurogamer
+
+### Gamescom Opening Night Live 2026 report - all the news and announcements as Witcher 3 expansion Songs of the Past shown for first time
+Tue, 25 Aug 2026 14:33:38 +0000 — https://www.eurogamer.net/gamescom-opening-night-live-2026-report
+
+German mega-show Gamescom officially gets under way this evening with the Opening Night Live showcase hosted by Geoff "bright trainers" Keighley. And we'll be covering all of the news and announcements live, right here, in this article. Read more
 
 ### "People wanted faster movement, but not this fast" - Call of Duty: Modern Warfare 4 beta players aren't happy with slide spammers and the increased pace of the game
 Tue, 25 Aug 2026 14:25:02 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-player-reaction
@@ -57,12 +62,17 @@ Mon, 24 Aug 2026 11:41:32 +0000 — https://www.eurogamer.net/call-of-duty-moder
 
 Call of Duty: Modern Warfare 4 is the first game in the series to arrive on a Nintendo console since Ghosts on the Wii U in 2013, 13 years ago. The upcoming shooter lands on Switch 2 day-and-date with PC, PlayStation and Xbox . Though there's plenty of excitement to go around, a detail has emerged that may put a damper on that. Read more
 
-### How to Fish is the latest Steam indie sensation, selling 1 million copies in just two days
-Mon, 24 Aug 2026 09:33:52 +0000 — https://www.eurogamer.net/how-to-fish-one-million-sales-steam
-
-If you've browsed the frontpage of Steam in the last few days, you'll no doubt have come across How to Fish, the debut project from developer Dazed Games. The co-op fishing game released on 20th August, and just three days later, its developer announced it had sold 1 million copies. Read more
-
 ## GamesIndustry.biz
+
+### Entity raises $5.8 million to build browser-based "console-quality" gaming platform
+Tue, 25 Aug 2026 16:56:48 +0000 — https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform
+
+Irish startup Entity has raised $5.8 million (&euro;5 million) in seed funding to build a browser-based gaming platform it says will deliver console-quality games without downloads or installs. Read more
+
+### Game Developer Association of India picks 15 studios for first Supernova cohort
+Tue, 25 Aug 2026 15:42:22 +0000 — https://www.gamesindustry.biz/game-developer-association-of-india-picks-15-studios-for-first-supernova-cohort
+
+The Game Developer Association of India (GDAI) has announced the first cohort of its Supernova incubation program, selecting 15 studios from more than 260 applicants. Read more
 
 ### Maverick Games partners with Focus Entertainment to publish debut racing title Clutch
 Tue, 25 Aug 2026 13:41:50 +0000 — https://www.gamesindustry.biz/maverick-games-partners-with-focus-entertainment-to-publish-debut-racing-title-clutch
@@ -114,16 +124,31 @@ Mon, 24 Aug 2026 11:05:37 +0000 — https://www.gamesindustry.biz/double-fine-pr
 
 Double Fine Productions has regained ownership of its intellectual property and publishing rights after leaving Xbox. Read more
 
-### Take-Two Interactive files subpoenas against Microsoft, Discord, and X amid ongoing GTA 6 leaks
-Mon, 24 Aug 2026 09:53:53 +0000 — https://www.gamesindustry.biz/take-two-interactive-files-subpoenas-against-microsoft-discord-and-x-amid-ongoing-gta-6-leaks
-
-Take-Two Interactive has subpoenaed Microsoft, Discord, and X regarding the ongoing Grand Theft Auto 6 leaks. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Live: Watch Gamescom Opening Night Live 2026 Here, Featuring FF7 Revelation and The Witcher 3 DLC
+Tue, 25 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/features/live-watch-gamescom-opening-night-live-2026-here-featuring-ff7-revelation-and-the-witcher-3-dlc
+
+Metro 2039! Ananta! Tides of Annihilation! It’s time for the middle act in Geoff Keighley’s annual trilogy of video game livestreams, with Gamescom Opening Night Live. This year’s event is threatening some big titles, including Final Fantasy 7 Revelation , The Witcher 3: Songs of the Past , and Ananta . Read the full article on pushsquare.com
+
+### Anime Open World Ananta Could Release Just 8 Weeks After GTA 6 on PS5
+Tue, 25 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/anime-open-world-ananta-could-release-just-8-weeks-after-gta-6-on-ps5
+
+Clash of the titans. Ananta , the anime-inspired open world not to be confused with the already-available NTE , could release just eight weeks after GTA 6 . Promotional materials for the long-anticipated PS5 console exclusive – which is poised to make an appearance at Gamescom Opening Night Live later today – appear to have confirmed a 15th January release date for the title. Read the full article on pushsquare.com
+
+### PS Plus Essential Games for September 2026 Leaked Early
+Tue, 25 Aug 2026 15:05:00 GMT — https://www.pushsquare.com/news/2026/08/ps-plus-essential-games-for-september-2026-leaked-early
+
+A rare PS Plus leak appears. The well-known leaker BillBil-Kun has made a rare return to leaking the next set of PS Plus Essential games. According to them, the following PS5, PS4 games are joining the base tier of the service next month: Sniper Elite Resistance (PS5, PS4) | Review Chained Echoes (PS4) Wobbly Life (PS5, PS4) Sony is scheduled to confirm the lineup of PS Plus Essential games for September 2026 tomorrow, and they'll be live for active members from Tuesday, 1st September 2026. Read the full article on pushsquare.com
+
+### It Will Not Be Easy : Marvel Tokon Producer Talks Winning Back Burned PC Players
+Tue, 25 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/it-will-not-be-easy-marvel-tokon-producer-talks-winning-back-burned-pc-players
+
+"However, this is an issue that we’re facing head-on". Marvel Tokon: Fighting Souls is a very well-regarded fighting game, but it's not without its problems — and, so far, most of them have been on the PC version. While the PS5 rendition has been largely spotless, those playing on PC have had to put up with inconsistent performance and online play. Read the full article on pushsquare.com
 
 ### Feature: Last Chance to Buy These 50+ PS5, PS4 Games in PS Store s Ready, Set, Play Sale
 Tue, 25 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/features/last-chance-to-buy-these-50plus-ps5-ps4-games-in-ps-stores-ready-set-play-sale
@@ -165,32 +190,22 @@ Mon, 24 Aug 2026 19:40:00 GMT — https://www.pushsquare.com/news/2026/08/alien-
 
 Gallery content like interviews and artwork, too. Team 17’s sci-fi shooter Alien Breed , celebrating its 35th anniversary this year, will return in September with an epic compilation akin to the gold standard Digital Eclipse bundles. This will feature every game from the first era of the franchise, including the Alien Breed 3D titles. Read the full article on pushsquare.com
 
-### He-Man s Bad Ass PS5 Brawler Now Launching in 2027
-Mon, 24 Aug 2026 19:25:00 GMT — https://www.pushsquare.com/news/2026/08/he-mans-bad-ass-ps5-brawler-now-launching-in-2027
-
-Everyone blame Skeletor. Oh no ! Bitmap Bureau’s beautiful retro beat-’em-up He-Man and the Masters of the Universe: Dragon Pearl of Destruction was due out in just two weeks, on 28th April. But now it’s been delayed until a nebulous date in the summer! Read the full article on pushsquare.com
-
-### I m Hyped This Unknown Irem Beat- em-Up Is Adding a Bases Loaded Stage
-Mon, 24 Aug 2026 19:20:00 GMT — https://www.pushsquare.com/news/2026/08/im-hyped-this-unknown-irem-beat-em-up-is-adding-a-bases-loaded-stage
-
-Home run. I’ve personally never played Ninja Baseball Bat Man , but I’m vaguely familiar with the 1993 Irem beat-’em-up. I’m pretty over-the-moon with this upcoming revival, then, which is coming to the PS5 on 10th December. Read the full article on pushsquare.com
-
-### Cult 16-Bit RPG Terranigma Lands First-Ever US Release in 2027, Will Get Physical PS5 Version
-Mon, 24 Aug 2026 19:15:00 GMT — https://www.pushsquare.com/news/2026/08/cult-16-bit-rpg-terranigma-lands-first-ever-us-release-in-2027-will-get-physical-ps5-version
-
-It's been 30 years. Super Nintendo’s Terranigma has never officially released in the United States, due to various issues involving its licensing rights. The 16-bit real-time RPG first released in Japan back in 1995, and was published by Nintendo in Europe a year later. Read the full article on pushsquare.com
-
-### This Promising PS5 Indie Doesn t Deserve Being Buried in Next Month s Crowded Release Calendar
-Mon, 24 Aug 2026 18:30:00 GMT — https://www.pushsquare.com/news/2026/08/this-promising-ps5-indie-doesnt-deserve-being-buried-in-next-months-crowded-release-calendar
-
-Well Dweller out on 22nd September for PS5. Well Dweller , the next game from the single developer behind Crypt Custodian , will launch for PS5 on 22nd September 2026. That'll be one week after Marvel's Wolverine , five days after Fire Emblem: Fortune's Weave , and two days before Control Resonant and Silent Hill: Townfall . I wish Kyle Thompson, the single developer, the very best of luck. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Irish browser games start-up Entity raises $5M in funding for 'console-quality games for the 'new web' era'
+Tue, 25 Aug 2026 14:46:56 GMT — https://www.gamedeveloper.com/business/irish-browser-games-start-up-entity-raises-5m-in-funding-for-console-quality-games-for-the-new-web-era-
+
+The 'next-generation gaming platform' will launch in 2027.
 
 ### Journey maker thatgamecompany announces thatgamepublisher
 Tue, 25 Aug 2026 14:10:19 GMT — https://www.gamedeveloper.com/business/journey-maker-thatgamecompany-announces-thatgamepublisher
 
 Profit from Sky: Children of the Light will support the initiative.
+
+### W4 Games raises $18M to expand its international team
+Tue, 25 Aug 2026 14:06:03 GMT — https://www.gamedeveloper.com/business/w4-games-raises-18m-to-expand-its-international-team
+
+W4 Games has also signed a multi-year strategic partnership with Tencent to scale its business and the Godot ecosystem in Asia.
 
 ### Creative Artists Agency spins up indie funding venture Frame1Games
 Mon, 24 Aug 2026 20:43:51 GMT — https://www.gamedeveloper.com/business/creative-artists-agency-spins-up-indie-funding-venture-frame1games
