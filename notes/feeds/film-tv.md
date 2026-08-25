@@ -1,58 +1,88 @@
-# Film & TV — harvested 2026-08-25T08:22:00.106Z
+# Film & TV — harvested 2026-08-25T11:03:56.882Z
 
 ## Variety
 
-### ‘Cairo Conspiracy s Tawfeek Barhom to Star in Les Valseurs’ ‘Borderline’ by Oscar-Nominated Yves Piat (EXCLUSIVE)
-Tue, 25 Aug 2026 07:38:00 +0000 — https://variety.com/2026/film/global/tawfeek-barhom-les-valseurs-borderline-1236841611/
+### Crooked Media Is Bringing Back Nate Silver s FiveThirtyEight Politics Podcast, Which Will Relaunch Next Month as Still Counting (EXCLUSIVE)
+Tue, 25 Aug 2026 11:00:00 +0000 — https://variety.com/2026/digital/news/crooked-media-acquires-nate-silver-fivethirtyeight-politics-podcast-still-counting-1236840487/
 
-Palestinian actor Tawfeek Barhom, best known for Tarik Saleh’s Cannes winner “Cairo Conspiracy” in 2022 and Palme d’Or winner 2025 for his short film “I’m Glad You’re Dead Now,” is set to headline the French pic “Borderline” by first-timer Yves Piat. A very loose feature-length version of Piat’s Oscar-nominated live action short “Nefta Football Club,” [ ]
+FiveThirtyEight is coming back from the dead — sort of. Just ahead of the 2026 midterm elections, Crooked Media inked a deal to acquire and revive the FiveThirtyEight Politics podcast hosted by Nate Silver, Clare Malone and Galen Druke. And under Crooked Media s wing, the show is getting a new name: Still Counting, a weekly [ ]
 
-### Na Hong-Jin s Hope, Netflix s Dead-End Job and Blue Road, Disney+ s The Remarried Empress Among Selections as Busan Unveils Korean Cinema Today, On Screen Lineups
-Tue, 25 Aug 2026 07:25:37 +0000 — https://variety.com/2026/film/festivals/na-hong-jin-hope-netflix-disney-busan-korean-cinema-today-1236842197/
+### Patricio Valladares Descends Into Hell With Horror Adaptation of Dante s Inferno (EXCLUSIVE)
+Tue, 25 Aug 2026 10:34:36 +0000 — https://variety.com/2026/film/global/frightfest-patricio-valladares-dante-the-divine-comedy-1236842260/
 
-The 31st Busan International Film Festival (BIFF) has unveiled its Korean Cinema Today and On Screen selections, with Na Hong-Jin s Hope among a nine-film lineup spanning Panorama and Special Premiere. Hope, Na s latest feature, drew global attention ahead of release on the strength of its large-scale production and a cast including Hwang Jung-min, Zo In-sung, [ ]
+Chilean filmmaker Patricio Valladares, behind the 2023 found-footage horror pic “Invoking Yell,” is set to direct a fantasy-horror reimagining of Dante s “Inferno.” “The Divine Comedy,” slated to begin filming in Rome in September, is produced by Italian film company Anxur Films, in collaboration with Ireland s Skincrawl Studios, which is also handling international sales. “You ve likely [ ]
 
-### Spider-Man: Brand New Day, The Odyssey Extend Battle Atop U.K. and Ireland Box Office as Insidious Makes Strong Debut
-Tue, 25 Aug 2026 07:00:05 +0000 — https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-insidious-uk-ireland-box-office-1236842186/
+### Anthony Boyle to Lead Sky Drama Charmer From Working Title, Story Films
+Tue, 25 Aug 2026 10:04:58 +0000 — https://variety.com/2026/tv/global/anthony-boyle-charmer-sky-drama-working-title-story-films-1236842240/
 
-Sony s Spider-Man: Brand New Day retained the No. 1 spot at the U.K. and Ireland box office for a fourth consecutive week, collecting £3.6 million ($4.8 million), according to Rentrak. The superhero blockbuster pushed its running cumulative gross to $117.9 million. Universal s The Odyssey, directed by Christopher Nolan, held firmly in second place during its [ ]
+Anthony Boyle, the House of Guinness star soon to be seen playing Sam Bankman-Fried in Netflix s The Altruists, is set to lead upcoming Sky Original drama Charmer. The eight-part series, now in production, comes from Working Title Television and Story Films, with Siena Kelly ( Black Mirror, Adult Material ), Connor Swindells ( The Entertainment System Is Down, [ ]
 
-### Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios Multilingual 2026-27 Slate (EXCLUSIVE)
-Tue, 25 Aug 2026 03:30:00 +0000 — https://variety.com/2026/film/news/nandamuri-balakrishna-sunny-deol-nayanthara-zee-studios-slate-1236841553/
+### NAZA Documentary From No Other Land Directors Acquired by MK2 Films Ahead of Venice Film Festival Premiere
+Tue, 25 Aug 2026 10:00:00 +0000 — https://variety.com/2026/film/festivals/naza-documentary-no-other-land-mk2-films-1236842222/
 
-India s Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories. On the Hindi-language side, the slate includes Baap, starring Sunny Deol, Sanjay Dutt, Jackie Shroff and Mithun [ ]
+French sales company MK2 Films has boarded “NAZA,” the new hot-button documentary from “No Other Land” directors Yuval Abraham and Rachel Szor that was added on Monday to the Venice Film Festival competition lineup. The doc, which was shot at night on the rooftops of Tel Aviv, shows “in detail the systems behind Israel’s calculated [ ]
 
-### Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos
-Tue, 25 Aug 2026 02:14:02 +0000 — https://variety.com/gallery/41st-imagen-awards-red-carpet-photos/
+### Pimmada Chaisakcharoen s Thai Horror Tame Launches EST N8, BrandThink s B-EST Pictures (EXCLUSIVE)
+Tue, 25 Aug 2026 09:59:28 +0000 — https://variety.com/2026/film/markets-festivals/pimmada-chaisakcharoen-thai-horror-tame-b-est-pictures-1236842271/
 
-Andy Garcia, Karla Souza and Wilmer Valderrama were among those on the red carpet Friday night for the 41st annual Imagen Awards at The Beverly Hilton in Beverly Hills. Celebrating Latino talent and creatives across entertainment, the gala honored Andy Garcia with the Lifetime Achievement Award for his four-decade career. In his acceptance speech, the [ ]
+EST N8 and BrandThink have launched B-EST Pictures, a joint venture for feature films and live experiences. The venture s first title, Tame, a horror-suspense feature rooted in Thai folklore, will launch international sales at the Toronto Film Festival s market ahead of its Thailand theatrical release on Oct. 29. Set in a rural bullfighting village where [ ]
 
-### Hulu Cancels Mindy Kaling-Created Comedy Not Suitable for Work After One Season (EXCLUSIVE)
-Tue, 25 Aug 2026 01:48:31 +0000 — https://variety.com/2026/tv/news/not-suitable-for-work-hulu-canceled-mindy-kaling-one-season-1236842124/
+### George Clooney, Ellen Burstyn, Luca Guadagnino and More Set for Venice Masterclasses
+Tue, 25 Aug 2026 09:30:25 +0000 — https://variety.com/2026/film/festivals/george-clooney-ellen-burstyn-luca-guadagnino-venice-masterclasses-1236842247/
 
-Hulu will not be moving forward on a second season of its recent comedy “Not Suitable for Work, from creator Mindy Kaling. The series, which Kaling executive produced with showrunner Charlie Grandy and 3 Arts Entertainment s Howard Klein, launched in June and ran for nine episodes. Warner Bros. TV, which produces the series, plans to [ ]
+Venice Film Festival has revealed the lineup for this year s masterclasses, featuring George Clooney, Ellen Burstyn, Luca Guadagnino and more. The masterclasses will once again take place at the Lido s Match Point Arena, which can seat 250 accredited guests, and will also be livestreamed on the festival s website. In addition to Clooney and Burstyn, who [ ]
 
-### Taylor Swift Sings Mashup of All Too Well, I Knew It, I Knew You and August in Grammy Museum Video
-Tue, 25 Aug 2026 01:15:30 +0000 — https://variety.com/2026/music/news/taylor-swift-sings-mashup-all-too-well-grammy-museum-video-1236842092/
+### Oscars: South Korea Selects Lee Chang-dong s Possible Love for International Feature Race
+Tue, 25 Aug 2026 09:13:29 +0000 — https://variety.com/2026/film/awards/oscars-south-korea-selects-lee-chang-dong-possible-love-1236842244/
 
-Most Taylor Swift fans probably do not think of the sad events of All Too Well and the ultimately happy Toy Story 5 as occurring in the same cinematic or musical universe. But, to the contrary, Swift sees a clear thematic connection between her epic romantic tragedy of 14 years ago and the happily-ever-after saga [ ]
+The Korean Film Council (KOFIC) has selected Possible Love, directed by Lee Chang-dong, as South Korea s official entry for the international feature film category at the 2027 Academy Awards. “Possible Love” marks Lee’s first feature in eight years, following “Burning,” “Poetry” and “Secret Sunshine.” The film centers on two married couples whose lives intersect after [ ]
 
-### Taylor Swift Recalls How I Knew You Were Trouble Was Written As a Really Sad Ballad in Grammy Museum Conversation Video
-Mon, 24 Aug 2026 22:03:39 +0000 — https://variety.com/2026/music/news/taylor-swift-i-knew-you-were-trouble-grammy-museum-clip-1236841957/
+### Pride Musical to Transfer to Bridge Theatre From November; Director Says Bigger Venue Means the Comedy Will Really Benefit From More People Watching
+Tue, 25 Aug 2026 09:00:00 +0000 — https://variety.com/2026/theater/news/pride-musical-bridge-theatre-transfer-november-1236841452/
 
-Taylor Swift opened up about the process of writing and recording her 2012 hit I Knew You Were Trouble, revealing that it was initially penned as a really sad ballad before she was encouraged to incorporate dubstep. Swift reflected on the song s creation during a Q A at the Grammy Museum in Los Angeles last week, [ ]
+Pride, the joy-filled British musical based on the true story of Lesbians and Gays Support the Miners (LGSM), will transfer to London s Bridge Theatre from Nov. 12, following sold-out seasons at Cardiff s Sherman Theatre and the National Theatre s Dorfman space. The production will mark the inaugural show at the Bridge Theatre, a 900-seat venue on [ ]
 
-### Wendy Williams Documentary Series Clap if You Care, From the Host’s Longtime TV Producer, Picked Up at Peacock
-Mon, 24 Aug 2026 22:00:00 +0000 — https://variety.com/2026/tv/news/wendy-williams-documentary-clap-if-you-care-peacock-1236841933/
+### CGI Animated Movie ‘Juul,’ Featuring Lenny Henry, Joins Studio 100 Film’s Toronto Sales Slate (EXCLUSIVE)
+Tue, 25 Aug 2026 08:57:19 +0000 — https://variety.com/2026/film/global/juul-lenny-henry-studio-100-films-toronto-1236842219/
 
-Peacock is digging into the well-mined world of former radio host and TV talk show star Wendy Williams, greenlighting the three-part documentary “Clap If You Care: The Wendy Williams Show” (which is a working title) to air in 2027. Williams is not involved in the new docuseries, but her former producer is spearheading the project. [ ]
+Studio 100 Film has added CGI animated feature “Juul” to its international sales slate and will introduce the project to buyers at the Toronto Film Festival. The English-language voice cast features Lenny Henry, while five-time Grammy Award-winners Michael League and Bob Lanzetti of Snarky Puppy contribute to the original score. The film is directed by [ ]
 
-### Azerbaijan s Lawyer Defends Defamation Suit Against CNN: These Untrue Statements Actually Put Lives at Risk
-Mon, 24 Aug 2026 21:45:02 +0000 — https://variety.com/2026/tv/news/azerbaijan-lawyer-cnn-defamation-suit-1236841531/
+### Liza Soberano Joins Jury for Golden Globes Impact Prize for Documentary, Presented During Venice Film Festival (EXCLUSIVE)
+Tue, 25 Aug 2026 08:54:22 +0000 — https://variety.com/2026/film/global/liza-soberano-jury-golden-globes-documentary-prize-1236842187/
 
-Azerbaijan is very upset about a June 5 report on CNN that Israeli troops had used the country as a staging area for attacks on Iran. The country s government says that the report, based on anonymous sources, is both completely wrong and dangerous, as it risks drawing Azerbaijan into the conflict. In this situation, most [ ]
+Filipino-American star Liza Soberano has joined the jury for the Golden Globes Impact Prize for Documentary, which will be presented by Artemis Rising Foundation during the upcoming Venice Film Festival. The prize, founded by the Golden Globes and Artemis Rising Foundation with support from Think-Film Impact Production, honors a documentary feature film in the festival s [ ]
 
 ## The Hollywood Reporter
+
+### Disney s Lavish K-Drama The Remarried Empress Sets Busan Premiere Ahead of Streaming Launch
+Tue, 25 Aug 2026 10:31:33 +0000 — https://www.hollywoodreporter.com/tv/tv-news/disney-k-drama-the-remarried-empress-busan-premiere-november-streaming-launch-1236680520/
+
+The lavish fantasy-romance, Disney's most expensive Korean drama to date, stars Shin Min-a, Ju Ji-hoon, Lee Jong-suk and Lee Se-young.
+
+### Hannah Einbinder Defends Mark Ruffalo From Paramount Antisemitism Claim: All of Us Artists Could Stand to Be More Like Mark
+Tue, 25 Aug 2026 10:21:02 +0000 — https://www.hollywoodreporter.com/news/politics-news/hannah-einbinder-mark-ruffalo-paramount-david-ellison-gaza-1236680505/
+
+The Emmy-winning 'Hacks' actress added that Ruffalo was "fighting for the working class of Hollywood" in his opposition to the Paramount-Warner Bros. Discovery merger deal.
+
+### Anthony Boyle, Connor Swindells to Star in Seducer-for-Hire Sky Drama Series Charmer
+Tue, 25 Aug 2026 10:12:05 +0000 — https://www.hollywoodreporter.com/tv/tv-news/sky-anthony-boyle-connor-swindells-show-charmer-anti-romcom-1236679704/
+
+Siena Kelly and Sophie Wilde also feature in the eight-part show from Working Title Television and Story Films on a seducer-for-hire employed to test the fidelity of wealthy London clients’ partners.
+
+### mk2 Films Launches Sales on Venice Gaza Documentary NAZA
+Tue, 25 Aug 2026 10:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mk2-launches-sales-on-venice-gaza-documentary-naza-1236680446/
+
+The new doc from 'No Other Land' directors Yuval Abraham and Rachel Szor was a late edition to the Venice competition line-up.
+
+### Oscars: South Korea Picks Lee Chang-dong s Possible Love as Best Int l Feature Submission
+Tue, 25 Aug 2026 09:52:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-south-korea-lee-chang-dong-possible-love-1236680508/
+
+In an additional vote of confidence for the unreleased feature, Korea's Oscar committee said that Netflix also plans to campaign for it in the best picture category following its world premiere at Venice.
+
+### Ridley Scott s The Dog Stars : First Reactions
+Tue, 25 Aug 2026 08:48:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ridley-scott-the-dog-stars-first-reactions-jacob-elordi-1236680464/
+
+The post-apocalyptic sci-fi film starring Jacob Elordi, Josh Brolin, Margaret Qualley, Alison Janney, Benedict Wong and Guy Pearce hits theaters on Aug. 28.
 
 ### Hilary Strong Steps Down as CEO of John Gore Studios
 Tue, 25 Aug 2026 08:17:25 +0000 — https://www.hollywoodreporter.com/business/business-news/john-gore-studios-ceo-hilary-strong-exit-1236680466/
@@ -74,42 +104,37 @@ Tue, 25 Aug 2026 04:42:40 +0000 — https://www.hollywoodreporter.com/music/musi
 
 "What an honor to be invited to this hallowed ground," Dave Grohl gushed during the performance that featured accompaniment from the full orchestra.
 
-### Hulu Cancels Not Suitable for Work After One Season
-Tue, 25 Aug 2026 02:20:58 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hulu-cancels-not-suitable-for-work-mindy-kaling-1236680364/
-
-Mindy Kaling created the comedy series, which premiered in June.
-
-### Taylor Swift on Dealing With Public Perception and Deciding Not to Opt Out Before Her Career Got Unmanageably Big
-Tue, 25 Aug 2026 00:30:24 +0000 — https://www.hollywoodreporter.com/music/music-news/taylor-swift-public-perception-career-unmanageably-big-1236680277/
-
-The star joined Recording Academy CEO Harvey Mason Jr. for a 20-year retrospective chat at the Grammy Museum.
-
-### Guillermo del Toro, James Gunn Join Crunchyroll’s Inaugural Anime Future Forum
-Tue, 25 Aug 2026 00:15:10 +0000 — https://www.hollywoodreporter.com/business/business-news/guillermo-del-toro-james-gunn-crunchyroll-anime-future-forum-1236680301/
-
-The Oct. 7 industry summit in New York will also feature some of Japan's most powerful anime executives, including leaders from MAPPA, Toho, Shueisha and Aniplex.
-
-### Brenda Song Loves the Los Angeles Rams So Much She Ended Up in a Broadcast Booth at SoFi Stadium
-Mon, 24 Aug 2026 22:49:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/brenda-song-los-angeles-rams-sofi-stadium-macaulay-culkin-1236679472/
-
-The 'Running Point' star sat with THR in a golf cart after her broadcast debut to explain her obsession with defense and how a love for sports brought her closer to partner Macaulay Culkin.
-
-### Disney and NFL Fandoms Collide in Character-Inspired Collection of Team Gear
-Mon, 24 Aug 2026 22:43:00 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/buy-disney-nfl-champion-clothing-collab-2026-release-online-1236680074/
-
-Created in partnership with Champion and Fanatics, the first-of-its-kind clothing collaboration pairs each NFL team with a beloved Disney, Pixar, Marvel or 'Star Wars' character.
-
-### Peacock Greenlights Three-Part Wendy Williams Show Documentary
-Mon, 24 Aug 2026 22:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/wendy-williams-show-documentary-peacock-1236680082/
-
-‘Clap If You Care: The Wendy Williams Show’ is positioned as both a celebratory look at the syndicated talk show, which ended in 2022, and a cautionary tale about celebrity.
-
 ## Deadline
 
-### Hannah Einbinder Supports Mark Ruffalo Describes The Ellison Family’s Antisemitism Accusations As Ludicrous
+### Anthony Boyle To Play Seducer-For-Hire In Sky Drama Charmer
+Tue, 25 Aug 2026 10:30:00 +0000 — https://deadline.com/2026/08/sky-drama-charmer-anthony-boyle-connor-swindells-1237049629/
+
+Anthony Boyle (House of Guinness) will play a seducer hired to test the fidelity of his wealthy clients partners in Charmer, the latest drama series from Sky. He will star in the steamy eight-partner alongside Siena Kelly (Black Mirror), Connor Swindells (The Entertainment System is Down) and Sophie Wilde (Digger). Also in the cast are Sam Delich, Vivian Oparah, Neil Maskell, Karan [ ]
+
+### MK2 Films Boards Yuval Abraham Rachel Szor’s Venice Doc ‘NAZA’
+Tue, 25 Aug 2026 10:00:00 +0000 — https://deadline.com/2026/08/mk2-yuval-abraham-rachel-szor-naza-venice-1237049606/
+
+MK2 has boarded NAZA, the latest feature from Yuval Abraham and Rachel Szor, the two Israeli directors of the four co-directors of the 2024 Oscar-winning documentary No Other Land. The film has been produced by the news outlet The Guardian alongside James Wilson (JW Films) and executive-produced by Jonathan Glazer. Wilson and Glazer are the [ ]
+
+### HBO Max Gets International Rights To Diabolical: The Epstein Files
+Tue, 25 Aug 2026 09:30:51 +0000 — https://deadline.com/2026/08/hbo-max-diabolical-epstein-files-1237049645/
+
+HBO Max is to search through Diabolical: The Epstein Files. The streamer s parent, Warner Bros. Discovery, has acquired international rights to the 90-minute doc, which comes from Australia s ABC. HBO Max will begin rolling out the true crime program from September 3 across its international footprint, marking its debut in the UK, Italy (excl Italian-speaking [ ]
+
+### Korea Selects Lee Chang-dong’s ‘Possible Love’ As Oscars Best International Feature Contender
+Tue, 25 Aug 2026 09:12:05 +0000 — https://deadline.com/2026/08/netflix-korea-lee-chang-dong-possible-love-1237049630/
+
+The Korean Film Council (KOFIC) has selected Lee Chang-dong’s Possible Love as Korea’s official entry for the Best International Feature category of the Academy Awards. Netflix, which financed and has international rights to the film, recently confirmed it will receive an Oscar-qualifying theatrical release in Korea, U.S. and other select territories following its premiere at [ ]
+
+### John Gore Studios CEO Hilary Strong Steps Down
+Tue, 25 Aug 2026 08:42:23 +0000 — https://deadline.com/2026/08/john-gore-studios-hilary-strong-exits-1237049610/
+
+Hilary Strong is stepping down from her CEO post at John Gore Studios. This comes as theater and screen producer John Gore moves to bring the UK company and its U.S. sister, The John Gore Organization, together under a single holding company. Gore himself will now lead both operations. Gore, who has won more 25 [ ]
+
+### Hannah Einbinder Supports Mark Ruffalo Describes Antisemitism Accusations As Ludicrous
 Tue, 25 Aug 2026 08:17:41 +0000 — https://deadline.com/2026/08/hannah-einbinder-mark-ruffalo-ellison-antisemitism-israel-1237049598/
 
-Hannah Einbinder shared a lengthy Instagram story post on Monday evening supporting Mark Ruffalo after he was accused of being antisemitic by the Ellison family for highlighting their connection to the Israeli state and its military apparatus. “I’m so grateful that Mark Ruffalo drew a connection between the Ellisons providing military technology to Israel during [ ]
+Hannah Einbinder shared a lengthy Instagram story post on Monday evening supporting Mark Ruffalo after he was accused of being antisemitic by a Paramount spokesperson for highlighting the Ellison family s connection to the Israeli state and its military apparatus. “I’m so grateful that Mark Ruffalo drew a connection between the Ellisons providing military technology to [ ]
 
 ### Strictly Come Dancing Star Giovanni Pernice Felt Suicidal After Being Dropped By BBC Over Amanda Abbington Complaint: They Hung Me Out To Dry
 Tue, 25 Aug 2026 07:57:52 +0000 — https://deadline.com/2026/08/strictly-come-dancing-giovanni-pernice-suicidal-bbc-1237049570/
@@ -119,7 +144,7 @@ Professional dancer Giovanni Pernice has vented his fury at the BBC over its han
 ### Bitters End International Chief Sayaka Ito Talks Japan’s New Generation, Indie Spirit Expanding Into Sales
 Tue, 25 Aug 2026 07:05:00 +0000 — https://deadline.com/2026/08/bitters-end-hamaguchi-japan-maha-harada-san-sebastian-1237032934/
 
-Amid the resurgence of Japanese cinema on the international festival circuit over the past few years, one resolutely indie banner, Bitters End, has been quietly growing its profile across production, distribution and international sales. Founded three decades ago by producer-distributor Yuji Sadai, the company is more of a highly-regarded veteran than a snappy startup, but [ ]
+EXCLUSIVE: Amid the resurgence of Japanese cinema on the international festival circuit over the past few years, one resolutely indie banner, Bitters End, has been quietly growing its profile across production, distribution and international sales. Founded three decades ago by producer-distributor Yuji Sadai, the company is more of a highly-regarded veteran than a snappy startup, [ ]
 
 ### Taylor Swift On Writing I Knew You Were Trouble As A Really Sad Ballad Why She Wants To Honor Her Country Roots The Further Along This Path I Get
 Tue, 25 Aug 2026 03:40:05 +0000 — https://deadline.com/2026/08/taylor-swift-i-knew-you-were-trouble-country-roots-1237049519/
@@ -140,29 +165,4 @@ Hulu has opted not to renew Mindy Kaling s Not Suitable For Work for a second se
 Tue, 25 Aug 2026 01:45:00 +0000 — https://deadline.com/2026/08/spa-weekend-jon-lucas-scott-moore-interview-1237049456/
 
 On today s Crew Call, we talk to Spa Weekend directors, writers and producers Jon Lucas and Scott Moore, not just about how their new movie came together with Anna Faris, Isla Fisher, Leslie Mann and Michelle Buteau, but the current state of big screen comedy and why major studios became so stubborn to make them. [ ]
-
-### Everything We Know About Amazon MGM Sony Pictures TV s ‘God Of War’ Adaptation So Far
-Mon, 24 Aug 2026 23:39:50 +0000 — https://deadline.com/feature/god-of-war-tv-show-adaptation-news-updates-amazon-sony-tv-1237049420/
-
-Prime Video’s God of War video game adaptation has not gone on without some bumps in the road, but development on the show continues. First eyed for a TV series adaptation by the producing studios in March 2022, the casting for the show gained momentum at the beginning of January 2026 after some creative shuffling. [ ]
-
-### Field Of Vision Debuts Ukraine War-Themed ‘When It Started To Burn’ On Ukrainian Independence Day
-Mon, 24 Aug 2026 23:29:40 +0000 — https://deadline.com/2026/08/when-it-started-to-burn-field-of-vision-premiere-1237049415/
-
-EXCLUSIVE: On the 35th anniversary of Ukrainian Independence Day, Field of Vision is launching a new documentary on Ukraine’s valiant fight to maintain its freedom. When It Started to Burn debuted on the Field of Vision platform Monday, the third in a trilogy of short films from director Anders Hammer that examine “conflicts and civilian [ ]
-
-### Wendy Williams Docuseries Set At Peacock
-Mon, 24 Aug 2026 22:00:00 +0000 — https://deadline.com/2026/08/wendy-williams-docuseries-peacock-1237049234/
-
-Peacock has greenlit a documentary celebrating Wendy Williams and her daytime talk show. The three-part docuseries, tentatively titled Clap If You Care: The Wendy Williams Show, is set to air in 2027. Suzzanne Bass, an executive producer on The Wendy Williams talk show who often appeared on camera reacting to Williams hot takes, will be [ ]
-
-### WildBrain Buys Personality AI In Deal Worth Up To $70 Million
-Mon, 24 Aug 2026 21:47:25 +0000 — https://deadline.com/2026/08/wildbrain-acquires-personality-ai-1237049261/
-
-WildBrain, the Canadian animation studio that owns and manages a huge library of family entertainment including Teletubbies, Strawberry Shortcake, Yo Gabba Gabba! and Inspector Gadget, has acquired 100% of Personality AI, a generative AI startup focused on bringing character experiences to life. The immediate purchase price was USD $11 million in cash plus 1 million [ ]
-
-### Insidious 6 Director Jacob Chase Reteaming With Blumhouse Atomic Monster For Sleepover ; Fall 2027 Release Set
-Mon, 24 Aug 2026 21:00:00 +0000 — https://deadline.com/2026/08/sleepover-jacob-chase-insidious-out-of-the-further-1237049257/
-
-Blumhouse Atomic Monster will continue to be in business with their Insidious: Out of the Further filmmaker Jacob Chase on the upcoming Universal large scale horror pic, Sleepover. The pic will hit theaters on Oct. 8, 2027; Uni already having that date on reserve for an untitled Blumhouse Atomic Monster pic. The news comes in [ ]
 

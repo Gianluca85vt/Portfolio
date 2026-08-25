@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-25T08:22:00.106Z
+# Games — harvested 2026-08-25T11:03:56.882Z
 
 ## Eurogamer
+
+### Discord is yet to be served Take-Two's GTA 6 leak subpoena, which is set to demand broad access to user data
+Tue, 25 Aug 2026 08:39:48 +0000 — https://www.eurogamer.net/take-two-rockstar-gta-6-leaks-subpoena-discord-response
+
+Discord has said that it has not yet been served a subpoena from Take-Two regarding Grand Theft Auto 6 leaks. On Friday, it was reported that the Rockstar parent company filed multiple subpoenas in a federal district court in order to obtain a wide range of user data from Discord and Microsoft relating to the leaks. Read more
 
 ### CD Projekt Red is "targeting" a 2028 release date for The Witcher 4, per a new update from the developer
 Mon, 24 Aug 2026 16:05:45 +0000 — https://www.eurogamer.net/the-witcher-4-release-date-2028
@@ -57,12 +62,17 @@ Sun, 23 Aug 2026 16:19:53 +0000 — https://www.eurogamer.net/epic-games-store-r
 
 While Epic has spent much of this year promising a launcher overhaul, including a faster, redesigned storefront with tailored recommendations and quicker ways to browse, one industry analyst has revealed that it might not be enough. Read more
 
-### Miyazaki explains how The Duskbloods plans to protect newcomers from its best players
-Sun, 23 Aug 2026 11:43:40 +0000 — https://www.eurogamer.net/the-duskbloods-skill-based-matchmaking-hidetaka-miyazaki
-
-FromSoftware is stepping into one of multiplayer gaming's most divisive arguments with The Duskbloods, confirming the upcoming Switch 2 exclusive will lean on skill-based matchmaking to keep newcomers safe from its most battle-hardened players. Read more
-
 ## GamesIndustry.biz
+
+### Gamescom Dev head says smaller studios represent the biggest opportunity in the games market
+Tue, 25 Aug 2026 11:00:00 +0000 — https://www.gamesindustry.biz/gamescom-dev-head-says-smaller-studios-represent-the-biggest-opportunity-in-the-games-market
+
+Frederik Hammes, who took over from Stephan Reichart as managing director of Gamescom Dev this year, says the results of the Gamescom Dev speaker survey show that smaller studios represent the biggest opportunity in the games market right now. Read more
+
+### Newzoo: Global games market to generate $213.9bn in 2026, up 6.1% YoY
+Tue, 25 Aug 2026 09:14:43 +0000 — https://www.gamesindustry.biz/newzoo-global-games-market-to-generate-2139bn-in-2026-up-61-yoy
+
+Newzoo projects the global games market will grow 6.1% to $213.9 billion, with over half of consumer spending originating from China and the US. Read more
 
 ### Godot Engine partner firm W4 Games secures $18m Series B funding, signs deal with Tencent to bolster Asia ecosystem
 Tue, 25 Aug 2026 08:00:00 +0000 — https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem
@@ -100,6 +110,31 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Feature: Last Chance to Buy These 50+ PS5, PS4 Games in PS Store s Ready, Set, Play Sale
+Tue, 25 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/features/last-chance-to-buy-these-50plus-ps5-ps4-games-in-ps-stores-ready-set-play-sale
+
+Recommended games going cheap. PS Store's current sale, Ready, Set, Play, is almost over. The offer runs through 26th August, 2026, so you don't have long to take advantage. Browsing through the thousands of PS5 and PS4 games can take a while, so we've put together a list of games we recommend you check out. Everything listed here comes with at least a 7/10 score from Push Square , and every game is at its lowest price point, with some setting new lows in this sale. Read the full article on pushsquare.com
+
+### Castlevania Fans Will Recognise Many of the Voices in Belmont s Curse on PS5
+Tue, 25 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/castlevania-fans-will-recognise-many-of-the-voices-in-belmonts-curse-on-ps5
+
+Sounds good to me. Castlevania wouldn't be what it is without some melodramatic voice acting to heighten the action, and it seems Konami and Evil Empire have gathered some top talent for the upcoming Castlevania: Belmont's Curse . The voice cast for the brand new entry has been announced, and it features some veteran talent that fans of the franchise will recognise, as well as some new blood of course. Read the full article on pushsquare.com
+
+### PixelJunk Devs Next Game Leaked Early as It Confirms Imminent Announcement
+Tue, 25 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/08/pixeljunk-devs-next-game-leaked-early-as-it-confirms-imminent-announcement
+
+What's Q-Games up to? This week should be a big one for video game news, as Gamescom Opening Night Live kicks off the German expo with a big show very soon. It looks as though one of the presentation's surprises may have been spoiled a little early, however, as a playtest version has popped up on SteamDB that pretty much confirms its existence. Read the full article on pushsquare.com
+
+### 5 More August 2026 PS Plus Extra Games Available to Download Now
+Tue, 25 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/08/5-more-august-2026-ps-plus-extra-games-available-to-download-now
+
+The last PS Plus drop of the month. Anyone in the UK, USA, or Japan can turn their PS5 consoles on today to find the final batch of PS Plus Extra games for August 2026 available to play now. All these PS5, PS4 titles were set live for active members everywhere else in the world last week, but Sony's experiment in the three listed territories continues. The following is available now on PS Plus Extra in the UK, USA, and Japan: Read the full article on pushsquare.com
+
+### Guide: What Time Is Gamescom Opening Night Live 2026?
+Tue, 25 Aug 2026 08:45:00 GMT — https://www.pushsquare.com/guides/what-time-is-gamescom-opening-night-live-2026
+
+Dates, times, and what to expect. When is Gamescom Opening Night Live 2026? It's that time once again, when Geoff Keighley awakens for his second annual show of the year: Gamescom Opening Night Live, getting the massive German expo started with a bang. What are all the details, then? When exactly can you tune in to watch the show, and what's gonna be there? In this guide, we're providing you with all the details you need before the showcase begins. Read the full article on pushsquare.com
+
 ### We re Hoping to Continue the Remakes for a While : Falcom Doubles Down on Remaking Classic Trails Games
 Mon, 24 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/were-hoping-to-continue-the-remakes-for-a-while-falcom-doubles-down-on-remaking-classic-trails-games
 
@@ -134,31 +169,6 @@ It's been 30 years. Super Nintendo’s Terranigma has never officially released 
 Mon, 24 Aug 2026 18:30:00 GMT — https://www.pushsquare.com/news/2026/08/this-promising-ps5-indie-doesnt-deserve-being-buried-in-next-months-crowded-release-calendar
 
 Well Dweller out on 22nd September for PS5. Well Dweller , the next game from the single developer behind Crypt Custodian , will launch for PS5 on 22nd September 2026. That'll be one week after Marvel's Wolverine , five days after Fire Emblem: Fortune's Weave , and two days before Control Resonant and Silent Hill: Townfall . I wish Kyle Thompson, the single developer, the very best of luck. Read the full article on pushsquare.com
-
-### Live: Watch the Pixel Arcadia Retro Game Livestream Here, Featuring Terranigma
-Mon, 24 Aug 2026 17:30:00 GMT — https://www.pushsquare.com/features/live-watch-the-pixel-arcadia-retro-game-livestream-here-featuring-terranigma
-
-Exclusive reveals expected. There have been an explosion of video game livestreams in the absence of E3 , but I’m personally pretty excited for this particular one. Pixel Arcadia The Future of Retro will represent the onslaught of retro releases now available on consoles, with a port of Terranigma expected to be among the reveals. Read the full article on pushsquare.com
-
-### Ex-Forza Horizon Devs Finally Find a Publisher for Clutch, PS5 s Promising Open World Racer
-Mon, 24 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/08/ex-forza-horizon-devs-finally-find-a-publisher-for-clutch-ps5s-promising-open-world-racer
-
-A clutch move you might say. If you're into racing games, one that should be on your radar is Clutch , a brand new IP from a studio with former Forza Horizon developers in its ranks. Officially announced earlier this year, developer Maverick Games was at one point partnered up with Amazon, who would serve as the game's publisher, but that fell through. Read the full article on pushsquare.com
-
-### Xbox Heard You , Purges PS5 Logos from Multiformat Game Trailers
-Mon, 24 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/08/xbox-heard-you-purges-ps5-logos-from-multiformat-game-trailers
-
-And that's the end of that. It looks like Xbox will no longer promote the PS5 versions of multiplatform games. Earlier in the year , at Summer Game Fest , there was a big hullabaloo as Microsoft’s upper-brass appeared to contradict each other. Read the full article on pushsquare.com
-
-### The Witcher 4 Set for a 2028 Release, CD Projekt Red Confirms
-Mon, 24 Aug 2026 15:45:00 GMT — https://www.pushsquare.com/news/2026/08/the-witcher-4-set-for-a-2028-release-cd-projekt-red-confirms
-
-Developer reveals release window for RPG. CD Projekt Red has today announced it plans to launch The Witcher 4 at some point in 2028. In a video posted on social media, joint-CEO Michał Nowakowski speaks of the series' plans for Gamescom, where The Witcher 3: Songs of the Past will be fully unveiled. He teases a few more surprises for this week, and then touches on The Witcher 4. Read the full article on pushsquare.com
-
-### This Is Illegal : Stop Killing Games Movement Distances Itself from GTA 6 Leaks
-Mon, 24 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/this-is-illegal-stop-killing-games-movement-distances-itself-from-gta-6-leaks
-
-"Do not send these people your money". This week will see the debut of an extended look at GTA 6 , our first official glimpse of the game itself ahead of launch later in the year. Unfortunately, a spate of leaked videos of the game have emerged online over the last week or so, thanks to a person (or group) calling themselves Cyberleek. Read the full article on pushsquare.com
 
 ## Game Developer
 

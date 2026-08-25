@@ -1,6 +1,21 @@
-# Manga — harvested 2026-08-25T08:22:00.106Z
+# Manga — harvested 2026-08-25T11:03:56.882Z
 
 ## Anime News Network
+
+### I Became a Legend After My 10 Year-Long Last Stand Anime Casts Ami Koshimizu
+Tue, 25 Aug 2026 04:23:59 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-ami-koshimizu/.240961
+
+Koshimizu debuted as Lefy in episode 8 on Monday
+
+### Live-Action Ao no Hana Utsuwa no Mori Series Casts Hayate Ichinose
+Tue, 25 Aug 2026 04:19:28 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/live-action-ao-no-hana-utsuwa-no-mori-series-casts-hayate-ichinose/.240946
+
+<i>Kishiryū Sentai Ryusoulger</i> star plays Tatsuki Manabe in fall series
+
+### Quintet's Terranigma RPG Gets Release in 2027
+Tue, 25 Aug 2026 04:12:37 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/quintet-terranigma-rpg-gets-release-in-2027/.240943
+
+Game slated for release on Switch, Switch 2, PS4, PS5, Xbox Series X|S, PC
 
 ### Earth Defense Force 6.2 Invaders From Another World Game Announced for PS5
 Tue, 25 Aug 2026 03:55:13 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/earth-defense-force-6.2-invaders-from-another-world-game-announced-for-ps5/.240954
@@ -46,21 +61,6 @@ Footage revealed during <cite>Story of Seasons</cite> 30th Anniversary, <cite>Ru
 Mon, 24 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/goodbye-lara/episode-8/.240927
 
 All magic has a time limit.
-
-### RetroCrush Adds Guyver OVA, Live-Action Dororo Film
-Mon, 24 Aug 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/retrocrush-adds-guyver-ova-live-action-dororo-film/.240885
-
-Both works available on platform with subscription in N. America
-
-### Daemons of the Shadow Realm ‒ Episode 20
-Mon, 24 Aug 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-20/.240896
-
-Now, 20 episodes in, we finally have a name for the group trying to kill Yuru.
-
-### K Manga Adds Daiki Yamazaki's Golden Phantom Manga
-Mon, 24 Aug 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-24/k-manga-adds-daiki-yamazaki-golden-phantom-manga/.240929
-
-Yamazaki debuted series on February 25
 
 ## Crunchyroll News
 
