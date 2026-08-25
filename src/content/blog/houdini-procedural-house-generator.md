@@ -18,6 +18,11 @@ generates them.
 
 ## The problem that actually forces the switch
 
+<figure>
+  <img src="/img/blog/houdini-procedural-house-generator/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>SideFX, Houdini wordmark, via Wikimedia Commons (public domain text logo)</figcaption>
+</figure>
+
 Around 2018, Grand worked on visuals for Paul McCartney's Freshen Up Tour, a job that
 needed several distinct environments — desert, underwater, more — built fast enough
 to hit a touring production's schedule. Underwater meant FLIP simulations for the
