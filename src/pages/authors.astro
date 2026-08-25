@@ -1,0 +1,18 @@
+---
+// /authors/ used to list the invented bylines the blog published under. The
+// blog is signed by one named person now, so the page is gone — but it was in
+// the sitemap and may be indexed, so this hands anything still pointing here
+// over to the replacement instead of returning a 404.
+//
+// It is a page rather than a `redirects:` entry in astro.config because Astro
+// strips the trailing slash from redirect keys, and this site builds
+// directory-style URLs — so the emitted rule never matched /authors/.
+const target = '/about/';
+---
+
+<!-- prettier-ignore -->
+<meta http-equiv="refresh" content={`0; url=${target}`} />
+<link rel="canonical" href={`https://www.gianlucascattarella.it${target}`} />
+<title>Moved to /about/</title>
+<p>This page has moved to <a href={target}>/about/</a>.</p>
+<script is:inline>window.location.replace('/about/');</script>

@@ -39,11 +39,6 @@ export default defineConfig({
   site: 'https://www.gianlucascattarella.it',
   output: 'static',
   adapter: vercel(),
-  // /authors/ listed the invented bylines the blog used to publish under. The
-  // blog is signed by one named person now, so the page is gone — but it was in
-  // the sitemap, so send anything that still points at it to the replacement
-  // rather than to a 404.
-  redirects: { '/authors': '/about' },
   integrations: [
     react(),
     // lastmod tells a crawler which pages are worth re-reading. Without it the
@@ -51,8 +46,10 @@ export default defineConfig({
     // day gets crawled as if it never changes.
     sitemap({
       // The analytics opt-out switch is for the site owner, not for readers or
-      // for search engines.
-      filter: (page) => !page.includes('/no-track'),
+      // for search engines. /authors/ is now only a redirect stub pointing at
+      // /about/, so listing it would invite crawls of a page whose whole job is
+      // to send the crawler somewhere else.
+      filter: (page) => !page.includes('/no-track') && !page.includes('/authors'),
       serialize(item) {
         item.lastmod = new Date().toISOString();
         // The article pages are the point of the site; the utility routes are
