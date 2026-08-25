@@ -4,7 +4,6 @@ date: 2026-08-25
 category: Film & TV
 excerpt: Important Looking Pirates has posted its VFX breakdown for the film, covering the environment work and the return of Zeb Orrelios as a CG character. The more interesting story sits one level down, in how the production used its LED volume.
 cover: /img/blog/mandalorian-grogu-ilp-vfx-breakdown/cover.svg
-draft: true
 ---
 
 An 8-foot-by-8-foot LED cube, built to wrap a small object in accurate,
