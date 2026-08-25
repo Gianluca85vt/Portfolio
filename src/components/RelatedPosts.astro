@@ -1,0 +1,77 @@
+---
+import { getCollection } from 'astro:content';
+import { categoryColors } from '../data/portfolio';
+import type { BlogCategory } from '../data/portfolio';
+
+export interface Props {
+  slug: string;
+  category: string;
+}
+
+const { slug, category } = Astro.props;
+
+const all = (await getCollection('blog', ({ data }) => !data.draft))
+  .filter((e) => e.id !== slug)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+// Two from the same section, newest first, because that is what a reader who
+// reached the end of this piece is most likely to want next.
+const sameSection = all.filter((e) => e.data.category === category);
+const near = sameSection.slice(0, 2);
+
+// The other two are the reason this block exists. Filling them with whatever is
+// newest would point every article at the same handful of recent pieces and
+// leave the rest of the archive with no inbound links at all — which is the
+// state this was built to fix. So they are drawn from the whole archive at an
+// offset derived from this article's own slug: deterministic, so the links are
+// stable across builds and a crawler sees the same graph twice, but different
+// for every article, so coverage spreads instead of piling up.
+const pool = all.filter((e) => !near.includes(e));
+const seed = [...slug].reduce((acc, ch) => (acc * 31 + ch.charCodeAt(0)) >>> 0, 7);
+const far = pool.length
+  ? [0, 1].map((i) => pool[(seed + i * Math.max(1, Math.floor(pool.length / 2))) % pool.length])
+  : [];
+
+const related = [...near, ...far.filter((e, i) => far.indexOf(e) === i)].slice(0, 4);
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+---
+
+{
+  related.length > 0 && (
+    <section class="mt-16 sm:mt-20 pt-10 border-t border-[#D7E2EA]/12">
+      <h2 class="hero-heading font-black uppercase tracking-tight text-[1.15rem]">Keep reading</h2>
+
+      <div class="grid gap-3 sm:grid-cols-2 mt-6">
+        {related.map((post) => (
+          <a
+            href={`/blog/${post.id}/`}
+            class="group block rounded-[14px] border border-[#D7E2EA]/12 p-5 transition-colors hover:border-[#D7E2EA]/30 hover:bg-[#D7E2EA]/[0.03]"
+          >
+            <div class="flex items-center gap-2.5">
+              <span
+                class="inline-block rounded-[3px] font-medium uppercase tracking-widest text-white text-[0.55rem] px-2 py-0.5"
+                style={`background-color:${categoryColors[post.data.category as BlogCategory] ?? '#7621B0'}`}
+              >
+                {post.data.category}
+              </span>
+              <span class="text-[#D7E2EA]/30 font-light text-[0.66rem]">
+                {fmt(post.data.date)}
+              </span>
+              {post.data.score !== undefined && (
+                <span class="text-[#D7E2EA]/45 font-medium text-[0.66rem]">
+                  {Math.round(post.data.score * 2) / 2}/10
+                </span>
+              )}
+            </div>
+
+            <p class="text-[#D7E2EA]/85 font-medium text-[0.9rem] leading-snug mt-2.5 group-hover:text-white transition-colors">
+              {post.data.title}
+            </p>
+          </a>
+        ))}
+      </div>
+    </section>
+  )
+}
