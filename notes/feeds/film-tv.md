@@ -1,58 +1,93 @@
-# Film & TV — harvested 2026-08-25T11:03:56.882Z
+# Film & TV — harvested 2026-08-25T14:27:10.069Z
 
 ## Variety
 
-### Crooked Media Is Bringing Back Nate Silver s FiveThirtyEight Politics Podcast, Which Will Relaunch Next Month as Still Counting (EXCLUSIVE)
-Tue, 25 Aug 2026 11:00:00 +0000 — https://variety.com/2026/digital/news/crooked-media-acquires-nate-silver-fivethirtyeight-politics-podcast-still-counting-1236840487/
+### Music Industry Moves: Meghan Trainor Signs With UTA; Guitar Center Foundation Names Valeisha Butterfield CEO Executive Director
+Tue, 25 Aug 2026 14:26:14 +0000 — https://variety.com/2026/music/news/meghan-trainor-signs-with-uta-1236842423/
 
-FiveThirtyEight is coming back from the dead — sort of. Just ahead of the 2026 midterm elections, Crooked Media inked a deal to acquire and revive the FiveThirtyEight Politics podcast hosted by Nate Silver, Clare Malone and Galen Druke. And under Crooked Media s wing, the show is getting a new name: Still Counting, a weekly [ ]
+Grammy-winning singer-songwriter Meghan Trainor has signed with United Talent Agency for global representation across live touring, filmed entertainment, digital media, theatre, brand partnerships, and more. The signing follows Trainor’s on-screen acting debut in Ryan Murphy’s FX series “The Beauty,” and the April release of her seventh studio album “Toy With Me,” although she canceled a [ ]
 
-### Patricio Valladares Descends Into Hell With Horror Adaptation of Dante s Inferno (EXCLUSIVE)
-Tue, 25 Aug 2026 10:34:36 +0000 — https://variety.com/2026/film/global/frightfest-patricio-valladares-dante-the-divine-comedy-1236842260/
+### 30 Rock 20th Anniversary Show Set at Radio City Music Hall
+Tue, 25 Aug 2026 14:25:49 +0000 — https://variety.com/2026/tv/news/30-rock-20th-anniversary-show-radio-city-music-hall-1236842412/
 
-Chilean filmmaker Patricio Valladares, behind the 2023 found-footage horror pic “Invoking Yell,” is set to direct a fantasy-horror reimagining of Dante s “Inferno.” “The Divine Comedy,” slated to begin filming in Rome in September, is produced by Italian film company Anxur Films, in collaboration with Ireland s Skincrawl Studios, which is also handling international sales. “You ve likely [ ]
+30 Rock is back for one night only. In celebration of the critically-acclaimed NBC comedy s 20th anniversary, cast members and special guests will unite at Radio City Music Hall in New York on Oct 11. The show will benefit The Boys and Girls Club of Harlem and will feature appearances by Tina Fey, Alec [ ]
 
-### Anthony Boyle to Lead Sky Drama Charmer From Working Title, Story Films
-Tue, 25 Aug 2026 10:04:58 +0000 — https://variety.com/2026/tv/global/anthony-boyle-charmer-sky-drama-working-title-story-films-1236842240/
+### Tom Hiddleston and Willem Dafoe’s Mount Everest Drama ‘Tenzing’ to Open Zurich Film Festival
+Tue, 25 Aug 2026 14:03:20 +0000 — https://variety.com/2026/film/global/tom-hiddleston-willem-dafoes-everest-tenzing-zurich-1236842366/
 
-Anthony Boyle, the House of Guinness star soon to be seen playing Sam Bankman-Fried in Netflix s The Altruists, is set to lead upcoming Sky Original drama Charmer. The eight-part series, now in production, comes from Working Title Television and Story Films, with Siena Kelly ( Black Mirror, Adult Material ), Connor Swindells ( The Entertainment System Is Down, [ ]
+Jennifer Peedom’s Everest drama “Tenzing,” starring Tom Hiddleston and Willem Dafoe, will open the 22nd Zurich Film Festival on Sept. 24. Hiddleston, Dafoe and Peedom will be on the green carpet in Zurich for the European premiere of the Apple Original Films production, which follows the first ascent of Mount Everest. Zurich Film Festival CEO Christian Jungen said, “This [ ]
 
-### NAZA Documentary From No Other Land Directors Acquired by MK2 Films Ahead of Venice Film Festival Premiere
-Tue, 25 Aug 2026 10:00:00 +0000 — https://variety.com/2026/film/festivals/naza-documentary-no-other-land-mk2-films-1236842222/
+### Shark Tank Investor Daniel Lubetzky Sets Launch of Interview Podcast Build or Break With Guests Including Matthew McConaughey, Mark Cuban, Jason Alexander and More
+Tue, 25 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/shark-tank-daniel-lubetzky-podcast-interview-matthew-mcconaughey-mark-cuban-jason-alexander-1236841545/
 
-French sales company MK2 Films has boarded “NAZA,” the new hot-button documentary from “No Other Land” directors Yuval Abraham and Rachel Szor that was added on Monday to the Venice Film Festival competition lineup. The doc, which was shot at night on the rooftops of Tel Aviv, shows “in detail the systems behind Israel’s calculated [ ]
+Daniel Lubetzky, founder of Kind Snacks and a Shark on ABC s Shark Tank, is launching a new podcast in which he engages in candid discussions with successful people not just about their accomplishments but also about their defining failures. Lubetzky s Build or Break is a new weekly video podcast premiering Sept. 3 on YouTube, [ ]
 
-### Pimmada Chaisakcharoen s Thai Horror Tame Launches EST N8, BrandThink s B-EST Pictures (EXCLUSIVE)
-Tue, 25 Aug 2026 09:59:28 +0000 — https://variety.com/2026/film/markets-festivals/pimmada-chaisakcharoen-thai-horror-tame-b-est-pictures-1236842271/
+### Are Matthew McConaughey and Woody Harrelson Related? Apple TV s Brothers Trailer Explores Their Rumored, Real-Life Sibling Relationship
+Tue, 25 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/brothers-trailer-woody-harrelson-matthew-mcconaughey-apple-1236841928/
 
-EST N8 and BrandThink have launched B-EST Pictures, a joint venture for feature films and live experiences. The venture s first title, Tame, a horror-suspense feature rooted in Thai folklore, will launch international sales at the Toronto Film Festival s market ahead of its Thailand theatrical release on Oct. 29. Set in a rural bullfighting village where [ ]
+The official trailer for Apple TV’s “Brothers” just might confirm that lifelong pals Matthew McConaughey and Woody Harrelson are actually related. The “True Detective” co-stars rejoin forces as fictionalized versions of themselves who uncover this decades-old secret. After Harrelson’s daughter s wedding ends in disaster, he goes to stay at McConaughey’s, and they soon find out [ ]
 
-### George Clooney, Ellen Burstyn, Luca Guadagnino and More Set for Venice Masterclasses
-Tue, 25 Aug 2026 09:30:25 +0000 — https://variety.com/2026/film/festivals/george-clooney-ellen-burstyn-luca-guadagnino-venice-masterclasses-1236842247/
+### Heated Rivalry Season 2 Casts Daniel Diemer and Shaheen Jafargholi as Ryan and Fabian
+Tue, 25 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/heated-rivalry-ryan-fabian-daniel-diemer-shaheen-jafargholi-1236842371/
 
-Venice Film Festival has revealed the lineup for this year s masterclasses, featuring George Clooney, Ellen Burstyn, Luca Guadagnino and more. The masterclasses will once again take place at the Lido s Match Point Arena, which can seat 250 accredited guests, and will also be livestreamed on the festival s website. In addition to Clooney and Burstyn, who [ ]
+Daniel Diemer and Shaheen Jafargholi have joined the cast of Heated Rivalry Season 2. They will play Ryan Price and Fabian Salah, respectively. Though Crave and HBO Max did not provide official character descriptions, Ryan and Fabian are the main couple followed in the third book of Rachel Reid s Game Changers series, titled Tough Guy. [ ]
 
-### Oscars: South Korea Selects Lee Chang-dong s Possible Love for International Feature Race
-Tue, 25 Aug 2026 09:13:29 +0000 — https://variety.com/2026/film/awards/oscars-south-korea-selects-lee-chang-dong-possible-love-1236842244/
+### Sanfic Industria and Guadalajara Film Fest Forge Joint Queer Incubator Initiative (EXCLUSIVE)
+Tue, 25 Aug 2026 13:52:37 +0000 — https://variety.com/2026/film/global/sanfic-industria-guadalajara-queer-incubator-initiative-1236841946/
 
-The Korean Film Council (KOFIC) has selected Possible Love, directed by Lee Chang-dong, as South Korea s official entry for the international feature film category at the 2027 Academy Awards. “Possible Love” marks Lee’s first feature in eight years, following “Burning,” “Poetry” and “Secret Sunshine.” The film centers on two married couples whose lives intersect after [ ]
+With Mexico’s “On the Road” (“En el camino”) by David Pablos snagging both the Venice Film Festival’s Queer Lion and Horizons awards last year, Latin American queer cinema has never shown more promise. The Berlinale’s Teddy Award has also gone to Latino LGBTQ+ films in the past, the most notable being “Retablo” from Peru and [ ]
 
-### Pride Musical to Transfer to Bridge Theatre From November; Director Says Bigger Venue Means the Comedy Will Really Benefit From More People Watching
-Tue, 25 Aug 2026 09:00:00 +0000 — https://variety.com/2026/theater/news/pride-musical-bridge-theatre-transfer-november-1236841452/
+### Oscars: Cambodia Selects Becoming Human for International Feature Race (EXCLUSIVE)
+Tue, 25 Aug 2026 13:47:38 +0000 — https://variety.com/2026/film/awards/cambodia-oscar-submission-becoming-human-polen-ly-1236842378/
 
-Pride, the joy-filled British musical based on the true story of Lesbians and Gays Support the Miners (LGSM), will transfer to London s Bridge Theatre from Nov. 12, following sold-out seasons at Cardiff s Sherman Theatre and the National Theatre s Dorfman space. The production will mark the inaugural show at the Bridge Theatre, a 900-seat venue on [ ]
+The Cambodia Oscar Selection Committee (COSC) has selected Becoming Human, directed by Polen Ly, as the country s official submission for the international feature film category at the 99th Academy Awards. The film follows Thida, the spirit guardian of an aging cinema slated for demolition, as she weighs the choice of rebirth against her existence as [ ]
 
-### CGI Animated Movie ‘Juul,’ Featuring Lenny Henry, Joins Studio 100 Film’s Toronto Sales Slate (EXCLUSIVE)
-Tue, 25 Aug 2026 08:57:19 +0000 — https://variety.com/2026/film/global/juul-lenny-henry-studio-100-films-toronto-1236842219/
+### Ali G: Who Iz I? Trailer: Sacha Baron Cohen Returns as the London Bad Boy in New Amazon MGM Mockumentary
+Tue, 25 Aug 2026 13:05:56 +0000 — https://variety.com/2026/film/global/ali-g-who-iz-i-trailer-sacha-baron-cohen-1236842137/
 
-Studio 100 Film has added CGI animated feature “Juul” to its international sales slate and will introduce the project to buyers at the Toronto Film Festival. The English-language voice cast features Lenny Henry, while five-time Grammy Award-winners Michael League and Bob Lanzetti of Snarky Puppy contribute to the original score. The film is directed by [ ]
+Amazon MGM has released the official trailer for “Ali G: Who Iz I?,” a new mockumentary following Sacha Baron Cohen’s swaggering London bad boy. After 20 years spent chillin’, tokin’ and bonin , Ali G is shocked to discover that his long-term girlfriend, Julie (Morgana Robinson), is eight months pregnant, its official synopsis reads. Faced with [ ]
 
-### Liza Soberano Joins Jury for Golden Globes Impact Prize for Documentary, Presented During Venice Film Festival (EXCLUSIVE)
-Tue, 25 Aug 2026 08:54:22 +0000 — https://variety.com/2026/film/global/liza-soberano-jury-golden-globes-documentary-prize-1236842187/
+### Thai Pop Star Ten Unveils First Solo U.S. Tour and Says New Album Is Underway: I Enjoy Showing Different Sides of Myself (EXCLUSIVE)
+Tue, 25 Aug 2026 13:00:00 +0000 — https://variety.com/2026/music/news/ten-solo-us-tour-new-album-1236841396/
 
-Filipino-American star Liza Soberano has joined the jury for the Golden Globes Impact Prize for Documentary, which will be presented by Artemis Rising Foundation during the upcoming Venice Film Festival. The prize, founded by the Golden Globes and Artemis Rising Foundation with support from Think-Film Impact Production, honors a documentary feature film in the festival s [ ]
+Thai pop star Ten has unveiled his first solo U.S. Showcase Tour, a 14-city run kicking off Oct. 17 in Seattle and closing Nov. 10 in New York, ahead of his new single Outwest, due Sept. 4. The tour announcement follows Ten s sold-out, three-night residency Ten:Core0110 in Thailand, which marked 10 years since his debut. [ ]
 
 ## The Hollywood Reporter
+
+### Everest Drama Tenzing With Tom Hiddleston, Willem Dafoe to Open Zurich Festival
+Tue, 25 Aug 2026 14:00:20 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tom-hiddleston-everest-film-tenzing-to-open-zurich-festival-1236679627/
+
+Jennifer Peedom's film tells the true story of Himalayan Sherpa Tenzing Norgay, who together with Edmund Hillary (Hiddleston), became the first person to reach the summit of Mount Everest.
+
+### Helen Mirren, Seth Rogen, Fan Bingbing to Receive Toronto Fest Tribute Awards
+Tue, 25 Aug 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/helen-mirren-seth-rogen-tiff-2026-tribute-1236680558/
+
+Cinematographer Adam Pietkiewicz and filmmaker Bassam Tariq will also be among the final honorees to be unveiled for the Sept. 13 gala fundraiser.
+
+### Heated Rivalry Season 2 Adds Daniel Diemer and Shaheen Jafargholi as Ryan and Fabian
+Tue, 25 Aug 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/daniel-diemer-shaheen-jafargholi-heated-rivalry-season-2-1236680561/
+
+The characters lead Rachel Reid's novel 'Tough Guy,' the third book in the 'Game Changers' series that 'Heated Rivalry' is based on.
+
+### Parke s Viral Sweatshirt Gets a Dose of School Spirit in Brand s Debut Collegiate Collection
+Tue, 25 Aug 2026 13:55:00 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/parke-college-drop-buy-school-sweatshirt-mockneck-47-collab-1236680316/
+
+The Aug. 25 drop marks Parke's first licensed college apparel launch, created in partnership with 10 schools and '47 sportswear.
+
+### Ali G: Who Iz I? Trailer: Sacha Baron Cohen s Prankster Returns in Stunt Documentary
+Tue, 25 Aug 2026 13:04:48 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ali-g-who-iz-i-trailer-sacha-baron-cohen-1236680135/
+
+The first footage from the secretive Amazon-MGM Studios project brings back the fan-favorite character after 20 years.
+
+### I Love Lucy Set for TV Academy s Inaugural Legacy Award
+Tue, 25 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/i-love-lucy-tv-academy-inaugural-legacy-award-1236680322/
+
+The landmark sitcom premiered 75 years ago and won four Emmys during its original run.
+
+### Oscars: Belgium Picks Lukas Dhont s Coward as Best Int l Feature Submission
+Tue, 25 Aug 2026 12:13:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-belgium-picks-lukas-dhont-coward-1236680548/
+
+The queer WWI drama won best acting honors in Cannes for leads Emmanuel Macchia and Valentin Campagne.
 
 ### Disney s Lavish K-Drama The Remarried Empress Sets Busan Premiere Ahead of Streaming Launch
 Tue, 25 Aug 2026 10:31:33 +0000 — https://www.hollywoodreporter.com/tv/tv-news/disney-k-drama-the-remarried-empress-busan-premiere-november-streaming-launch-1236680520/
@@ -69,100 +104,65 @@ Tue, 25 Aug 2026 10:12:05 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 Siena Kelly and Sophie Wilde also feature in the eight-part show from Working Title Television and Story Films on a seducer-for-hire employed to test the fidelity of wealthy London clients’ partners.
 
-### mk2 Films Launches Sales on Venice Gaza Documentary NAZA
-Tue, 25 Aug 2026 10:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mk2-launches-sales-on-venice-gaza-documentary-naza-1236680446/
-
-The new doc from 'No Other Land' directors Yuval Abraham and Rachel Szor was a late edition to the Venice competition line-up.
-
-### Oscars: South Korea Picks Lee Chang-dong s Possible Love as Best Int l Feature Submission
-Tue, 25 Aug 2026 09:52:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-south-korea-lee-chang-dong-possible-love-1236680508/
-
-In an additional vote of confidence for the unreleased feature, Korea's Oscar committee said that Netflix also plans to campaign for it in the best picture category following its world premiere at Venice.
-
-### Ridley Scott s The Dog Stars : First Reactions
-Tue, 25 Aug 2026 08:48:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ridley-scott-the-dog-stars-first-reactions-jacob-elordi-1236680464/
-
-The post-apocalyptic sci-fi film starring Jacob Elordi, Josh Brolin, Margaret Qualley, Alison Janney, Benedict Wong and Guy Pearce hits theaters on Aug. 28.
-
-### Hilary Strong Steps Down as CEO of John Gore Studios
-Tue, 25 Aug 2026 08:17:25 +0000 — https://www.hollywoodreporter.com/business/business-news/john-gore-studios-ceo-hilary-strong-exit-1236680466/
-
-The company will be "joining forces with its U.S.-based sister company, The John Gore Organization," in a rejig, with both under the executive leadership of owner and founder Gore.
-
-### Meet Mestiza, the Female Duo From Spain Mixing Flamenco and Electronic Music
-Tue, 25 Aug 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/mestiza-female-music-duo-spain-mixing-flamenco-electronic-1236678370/
-
-Belah and Pitty discuss their music and aesthetics, upcoming shows in London and New York, leaning into the "almost ritualistic" nature of electronic music, and the visual, cinematic side of their creativity.
-
-### Dominic Monaghan to Join Lord of the Rings 25th Anniversary Reunion With Elijah Wood, More at CCXP
-Tue, 25 Aug 2026 06:23:08 +0000 — https://www.hollywoodreporter.com/movies/movie-news/lord-of-the-rings-dominic-monaghan-elijah-wood-ccxp-1236680442/
-
-The annual fan event takes place Dec. 3-6 in Brazil.
-
-### Foo Fighters Rock Hollywood Bowl Debut as Gustavo Dudamel Says Goodbye to L.A. Philharmonic
-Tue, 25 Aug 2026 04:42:40 +0000 — https://www.hollywoodreporter.com/music/music-news/foo-fighters-rock-hollywood-bowl-debut-gustavo-dudamel-1236680241/
-
-"What an honor to be invited to this hallowed ground," Dave Grohl gushed during the performance that featured accompaniment from the full orchestra.
-
 ## Deadline
 
-### Anthony Boyle To Play Seducer-For-Hire In Sky Drama Charmer
-Tue, 25 Aug 2026 10:30:00 +0000 — https://deadline.com/2026/08/sky-drama-charmer-anthony-boyle-connor-swindells-1237049629/
+### Chicken Shop Date Star Amelia Dimoldenberg Developing Skins -Style Drama For The BBC
+Tue, 25 Aug 2026 14:20:40 +0000 — https://deadline.com/2026/08/chicken-shop-date-amelia-dimoldenberg-skins-drama-bbc-1237049719/
 
-Anthony Boyle (House of Guinness) will play a seducer hired to test the fidelity of his wealthy clients partners in Charmer, the latest drama series from Sky. He will star in the steamy eight-partner alongside Siena Kelly (Black Mirror), Connor Swindells (The Entertainment System is Down) and Sophie Wilde (Digger). Also in the cast are Sam Delich, Vivian Oparah, Neil Maskell, Karan [ ]
+Amelia Dimoldenberg wants to reinvent Skins for Gen Z. The online creator, who has turned Chicken Shop Date into a YouTube sensation, has revealed that she is developing a young adult drama series for the BBC. In an interview at the Edinburgh TV Festival, Dimoldenberg said the drama was my version of Skins, the defining [ ]
 
-### MK2 Films Boards Yuval Abraham Rachel Szor’s Venice Doc ‘NAZA’
-Tue, 25 Aug 2026 10:00:00 +0000 — https://deadline.com/2026/08/mk2-yuval-abraham-rachel-szor-naza-venice-1237049606/
+### West End Play McQueen Getting Film Adaptation With Ted Field s Radar Pictures
+Tue, 25 Aug 2026 14:15:00 +0000 — https://deadline.com/2026/08/james-phillips-west-end-play-mcqueen-gets-film-adaptation-1237049692/
 
-MK2 has boarded NAZA, the latest feature from Yuval Abraham and Rachel Szor, the two Israeli directors of the four co-directors of the 2024 Oscar-winning documentary No Other Land. The film has been produced by the news outlet The Guardian alongside James Wilson (JW Films) and executive-produced by Jonathan Glazer. Wilson and Glazer are the [ ]
+EXCLUSIVE: Ted Field s Radar Pictures is in development on McQueen, a feature about the late fashion icon Alexander McQueen. The project will be an adaptation of James Phillips’ play McQueen: or Lee and Beauty, which opened in the West End in 2015, five years after the designer’s passing. Screenwriter Zach Helm, whose credits include Stranger [ ]
 
-### HBO Max Gets International Rights To Diabolical: The Epstein Files
-Tue, 25 Aug 2026 09:30:51 +0000 — https://deadline.com/2026/08/hbo-max-diabolical-epstein-files-1237049645/
+### Tom Hiddleston Thriller Tenzing To Open Zurich Film Festival
+Tue, 25 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/tom-hiddleston-tenzing-zurich-film-festival-1237049582/
 
-HBO Max is to search through Diabolical: The Epstein Files. The streamer s parent, Warner Bros. Discovery, has acquired international rights to the 90-minute doc, which comes from Australia s ABC. HBO Max will begin rolling out the true crime program from September 3 across its international footprint, marking its debut in the UK, Italy (excl Italian-speaking [ ]
+Mount Everest thriller Tenzing, starring Tom Hiddleston and Willem Dafoe, is set to open the 22nd edition of the Zurich Film Festival on September 24. The Apple Original Films project, which is directed by Jennifer Peedom (Sherpa, Mountain), is based on a true story of Tenzing Norgay, played by Genden Phuntsok, a gifted mountaineer from the Himalayas who, [ ]
 
-### Korea Selects Lee Chang-dong’s ‘Possible Love’ As Oscars Best International Feature Contender
-Tue, 25 Aug 2026 09:12:05 +0000 — https://deadline.com/2026/08/netflix-korea-lee-chang-dong-possible-love-1237049630/
+### Sweetpea : Ella Purnell Is Back In Killer Role In Trailer For Season 2 Of Sky And Starz Comedy-Drama
+Tue, 25 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/sweetpea-season-2-trailer-ella-purnell-1237049663/
 
-The Korean Film Council (KOFIC) has selected Lee Chang-dong’s Possible Love as Korea’s official entry for the Best International Feature category of the Academy Awards. Netflix, which financed and has international rights to the film, recently confirmed it will receive an Oscar-qualifying theatrical release in Korea, U.S. and other select territories following its premiere at [ ]
+Do you know what? I m gonna live my truth! exclaims Ella Purnell s Rhiannon Lewis The only issue there is her truth often involves murder. A trailer for Sweetpea Season 2 just dropped, with wallflower-turned-killer Rhiannon returning in Sky and Starz s darkly comic thriller series. The action picks up after the deadly events of the Season [ ]
 
-### John Gore Studios CEO Hilary Strong Steps Down
-Tue, 25 Aug 2026 08:42:23 +0000 — https://deadline.com/2026/08/john-gore-studios-hilary-strong-exits-1237049610/
+### Heated Rivalry : Daniel Diemer Shaheen Jafargholi Join Ice Hockey Drama s Second Season
+Tue, 25 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/heated-rivalry-season-2-daniel-diemer-shaheen-jafargholi-1237049710/
 
-Hilary Strong is stepping down from her CEO post at John Gore Studios. This comes as theater and screen producer John Gore moves to bring the UK company and its U.S. sister, The John Gore Organization, together under a single holding company. Gore himself will now lead both operations. Gore, who has won more 25 [ ]
+Daniel Diemer and Shaheen Jafargholi are the latest pair to join Heated Rivalry Season 2. Diemer (Percy Jackson and the Olympians) will star as Ryan Price and Jafargholi (War) as Fabian Salah. They join Hudson Williams, Connor Storrie, Justice Smith and Charlie Gillespie in leading roles for the new season, which launches in spring 2027. [ ]
 
-### Hannah Einbinder Supports Mark Ruffalo Describes Antisemitism Accusations As Ludicrous
-Tue, 25 Aug 2026 08:17:41 +0000 — https://deadline.com/2026/08/hannah-einbinder-mark-ruffalo-ellison-antisemitism-israel-1237049598/
+### Global Breakouts: Four Of 2026 s Hottest New Titles So Far, From Norway To Ukraine
+Tue, 25 Aug 2026 13:14:01 +0000 — https://deadline.com/2026/08/global-breakouts-hottest-new-titles-1237049690/
 
-Hannah Einbinder shared a lengthy Instagram story post on Monday evening supporting Mark Ruffalo after he was accused of being antisemitic by a Paramount spokesperson for highlighting the Ellison family s connection to the Israeli state and its military apparatus. “I’m so grateful that Mark Ruffalo drew a connection between the Ellisons providing military technology to [ ]
+Welcome to Global Breakouts, Deadline’s strand in which, each fortnight, we shine a spotlight on the TV shows and films landing success in their local territories. The industry is as globalized as it’s ever been, but breakout hits are appearing in pockets of the world all the time and it can be hard to keep track… [ ]
 
-### Strictly Come Dancing Star Giovanni Pernice Felt Suicidal After Being Dropped By BBC Over Amanda Abbington Complaint: They Hung Me Out To Dry
-Tue, 25 Aug 2026 07:57:52 +0000 — https://deadline.com/2026/08/strictly-come-dancing-giovanni-pernice-suicidal-bbc-1237049570/
+### Ali G: Who Iz I? Trailer: Sacha Baron Cohen Reprises A Modern Classic Character In New Film From Amazon MGM Studios
+Tue, 25 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/new-ali-g-movie-who-iz-i-trailer-1237049426/
 
-Professional dancer Giovanni Pernice has vented his fury at the BBC over its handling of his Strictly Come Dancing exit following a clash with Sherlock star Amanda Abbington. In an interview with The Daily Telegraph, Pernice said he was left feeling suicidal after being hung out to dry by the BBC, arguing that the broadcaster s [ ]
+Amazon MGM Studios has unveiled the first trailer for Ali G: Who Iz I?, its new comedy in which Sacha Baron Cohen reprises his classic character of Ali G. Releasing globally in theaters on Oct. 23, Who Iz I? s plot has been kept under wraps until now. News of the film, marking Cohen s feature directorial debut, only [ ]
 
-### Bitters End International Chief Sayaka Ito Talks Japan’s New Generation, Indie Spirit Expanding Into Sales
-Tue, 25 Aug 2026 07:05:00 +0000 — https://deadline.com/2026/08/bitters-end-hamaguchi-japan-maha-harada-san-sebastian-1237032934/
+### I Love Lucy Set For TV Academy s Inaugural Legacy Award
+Tue, 25 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/i-love-lucy-legacy-award-television-academy-emmys-1237049450/
 
-EXCLUSIVE: Amid the resurgence of Japanese cinema on the international festival circuit over the past few years, one resolutely indie banner, Bitters End, has been quietly growing its profile across production, distribution and international sales. Founded three decades ago by producer-distributor Yuji Sadai, the company is more of a highly-regarded veteran than a snappy startup, [ ]
+If you re going to create a TV honor called the Legacy Award, this is a perfect way to start. The Academy of Television Arts Sciences said Tuesday that the seminal sitcom I Love Lucy with receive its inaugural honor celebrating a television program that’s made a profound and generational impact on audiences and remains [ ]
 
-### Taylor Swift On Writing I Knew You Were Trouble As A Really Sad Ballad Why She Wants To Honor Her Country Roots The Further Along This Path I Get
-Tue, 25 Aug 2026 03:40:05 +0000 — https://deadline.com/2026/08/taylor-swift-i-knew-you-were-trouble-country-roots-1237049519/
+### Meghan Trainor Signs With United Talent Agency
+Tue, 25 Aug 2026 12:30:00 +0000 — https://deadline.com/2026/08/meghan-trainor-united-talent-agency-1237049524/
 
-Taylor Swift has revealed more about the origin of her hit song I Knew You Were Trouble and why she wants to honor her country roots as her career continues. In a new interview with Recording Academy CEO Harvey Mason Jr. as part of the Icon Sessions, Swift opened up that she originally wrote I [ ]
+EXCLUSIVE: Grammy Award-winning artist Meghan Trainor has signed with United Talent Agency for representation in all areas. The agency will work to secure opportunities across live touring, filmed entertainment, digital media, theatre, brand partnerships, and more. Trainor s signing with UTA follows a particularly busy year, which kicked off with the release of Ryan Murphy s FX [ ]
 
-### Saoirse Ronan Is Dead Serious About Playing A Bond Villain: I Want To Go Dark
-Tue, 25 Aug 2026 02:45:06 +0000 — https://deadline.com/2026/08/saoirse-ronan-bond-villain-1237049486/
+### Paramount s UK Network 5 Sued By The Ex-Wife Producer Over Collapse Of Crime Drama
+Tue, 25 Aug 2026 12:20:17 +0000 — https://deadline.com/2026/08/paramount-5-sued-blackbox-crime-1237049628/
 
-Saoirse Ronan is ready to step into the dark side and is doubling down on wanting to play a villain in the James Bond universe. The next 007 actor has not been revealed yet, and in a new interview, Ronan said she would like to play a villain if given the opportunity. I want to [ ]
+EXCLUSIVE: 5, the UK public broadcasting network owned by Paramount, is being taken to court by an established supplier over the demise of a crime drama series. Blackbox Multimedia, which has produced series for 5 including The Ex-Wife and Benidorm is Murder, alleges that the network wrongfully terminated its production deal and it is owed [ ]
 
-### Not Suitable For Work Canceled By Hulu After One Season
-Tue, 25 Aug 2026 02:21:07 +0000 — https://deadline.com/2026/08/not-suitable-for-work-canceled-hulu-mindy-kaling-1237049484/
+### George Clooney, Alberto Barbera Maggie Gyllenhaal Among Speakers At CAA-Finch Partners Venice Forum
+Tue, 25 Aug 2026 12:00:00 +0000 — https://deadline.com/2026/08/george-clooney-maggie-gyllenhaal-speakers-caa-venice-forum-1237046102/
 
-Hulu has opted not to renew Mindy Kaling s Not Suitable For Work for a second season. The news comes two months after the 20somethings romantic comedy ended its Season 1 run on the Disney streamer. It is the latest casualty in the YA arena at Hulu, which also recently passed on its pilots Buffy: New [ ]
+George Clooney, Venice chief Alberto Barbera and Venice jury president Maggie Gyllenhaal are among speakers set to take part in the second CAA and Finch Partners The Future of Creativity forum, which will take place during the festival. Barbera will host the invite-only gathering, which will also feature director and screenwriter Giuseppe Tornatore, composer [ ]
 
-### Hangover Architects Jon Lucas Scott Moore On Keeping Comedy In Theaters With Spa Weekend Crew Call Podcast
-Tue, 25 Aug 2026 01:45:00 +0000 — https://deadline.com/2026/08/spa-weekend-jon-lucas-scott-moore-interview-1237049456/
+### Oscars: Belgium Selects Lukas Dhont’s ‘Coward’ For International Feature Film Race
+Tue, 25 Aug 2026 11:43:26 +0000 — https://deadline.com/2026/08/oscars-belgium-lukas-dhont-coward-international-1237049673/
 
-On today s Crew Call, we talk to Spa Weekend directors, writers and producers Jon Lucas and Scott Moore, not just about how their new movie came together with Anna Faris, Isla Fisher, Leslie Mann and Michelle Buteau, but the current state of big screen comedy and why major studios became so stubborn to make them. [ ]
+Lukas Dhont’s latest feature, Coward, has been selected as Belgium’s entry for the Best International Feature Film category at the 99th Academy Awards. Directed by Dhont from a screenplay he wrote with Angelo Tijssens, Coward is set at the height of the First World War and follows Pierre, a soldier newly arrived at the front, [ ]
 

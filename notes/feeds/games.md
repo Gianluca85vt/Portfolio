@@ -1,6 +1,31 @@
-# Games — harvested 2026-08-25T11:03:56.882Z
+# Games — harvested 2026-08-25T14:27:10.069Z
 
 ## Eurogamer
+
+### "People wanted faster movement, but not this fast" - Call of Duty: Modern Warfare 4 beta players aren't happy with slide spammers and the increased pace of the game
+Tue, 25 Aug 2026 14:25:02 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-player-reaction
+
+The first session of the Call of Duty: Modern Warfare 4 beta is nearly over after five days of multiplayer action . The beta saw high player numbers on Steam and elsewhere, despite mainly being available to players who pre-ordered the game. Those eager players have had a lot of thoughts to share about their time with Modern Warfare 4 since. And, as you might have expected given all the pre-beta discourse , gameplay movement has been the main topic discussed, as the faster pace has divided players. Read more
+
+### The Witcher 4's 2028 release date sparks PS5 physical release concerns, but is there anything CD Projekt Red can do to avoid Sony's decision?
+Tue, 25 Aug 2026 12:44:03 +0000 — https://www.eurogamer.net/the-witcher-4-release-date-sony-disc-controversy
+
+The Witcher 4 's newly communicated 2028 release date is causing concern among its community about whether the game releases physically on a disc or not. Read more
+
+### Open-world Iron Man game footage leaks, showing an hour of Just Cause dev Avalanche's cancelled Marvel game
+Tue, 25 Aug 2026 12:42:35 +0000 — https://www.eurogamer.net/iron-man-avalanche-studios-gameplay-leak
+
+It's been a while since we've seen a game based on Marvel's Iron Man, and it's not for lack of trying. Marvel owner Disney had at one point tapped Just Cause series developer Avalanche Studios to create an original game based on the armoured superhero. That project was cancelled before it was even announced. Read more
+
+### Synths, impossible physics, and an "erotic experience with a PS5 controller" - the side projects of game devs are a reminder creativity is undimmable
+Tue, 25 Aug 2026 12:01:41 +0000 — https://www.eurogamer.net/optimism-week-games-industry-side-projects-creativity
+
+If there's been one theme I'd pick out from the many of these past few years of gaming discontent, it's the sense of all-out assault on creativity. This is the thing that makes games what they are, that makes them successful, that earns people money and gives people a reason to do the job in the first place, but it's also the thing that seems to be valued least at so many of those making the decisions. To those people creativity is something to be funneled, moulded, directed or strictly defined. Often, I suspect, it's just not really something directly thought about at all. At best it's a nice buzzword to roll out as needed, but rare one that's even remotely understood. Read more
+
+### Despite being a Switch 2 exclusive, The Duskbloods closed network test had more applications than Elden Ring Nightreign
+Tue, 25 Aug 2026 11:31:43 +0000 — https://www.eurogamer.net/the-duskbloods-closed-network-test-more-applications-nightreign
+
+The Duskbloods is already looking like it's going to be a very popular game. Developer FromSoftware revealed the game's network test, which finished yesterday , attracted more player applications than those for Elden Ring Nightreign , despite it only being available for one platform: Switch 2 . Read more
 
 ### Discord is yet to be served Take-Two's GTA 6 leak subpoena, which is set to demand broad access to user data
 Tue, 25 Aug 2026 08:39:48 +0000 — https://www.eurogamer.net/take-two-rockstar-gta-6-leaks-subpoena-discord-response
@@ -37,32 +62,22 @@ Mon, 24 Aug 2026 09:33:52 +0000 — https://www.eurogamer.net/how-to-fish-one-mi
 
 If you've browsed the frontpage of Steam in the last few days, you'll no doubt have come across How to Fish, the debut project from developer Dazed Games. The co-op fishing game released on 20th August, and just three days later, its developer announced it had sold 1 million copies. Read more
 
-### Rumours of a third Ori game are "nonsense", confirms series creator
-Mon, 24 Aug 2026 09:11:26 +0000 — https://www.eurogamer.net/ori-3-rumours-nonsense-series-creator-confirms
-
-Rumours of a new Ori game are "nonsense", confirms series creator Thomas Maher. Read more
-
-### Final Fantasy Resonance is getting a 120-song original soundtrack
-Mon, 24 Aug 2026 09:03:40 +0000 — https://www.eurogamer.net/final-fantasy-resonance-120-song-ost
-
-Earlier this year, Square Enix announced that we'll be getting our first HD-2D Final Fantasy game in October this year , and it's based on the now-shuttered mobile title Brave Exvius. Read more
-
-### Call of Duty: Modern Warfare 4 beta's first weekend numbers are in, and they're good - just not as high as Modern Warfare 2
-Mon, 24 Aug 2026 08:24:01 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-weekend-one-steam-numbers
-
-We're one day away from the end of the first session of the Call of Duty: Modern Warfare 4 beta , which kicked off Friday. Although Activision has yet to publish any numbers, we can look at its performance on Steam and compare it with other recent Call of Duty betas, as well as those from rival franchises. Read more
-
-### Twitch faces a class action lawsuit over using streamers' content to train Amazon's AI
-Sun, 23 Aug 2026 16:55:20 +0000 — https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers
-
-A Twitch streamer has filed a proposed class action against the platform and its parent company Amazon, claiming his broadcasts, and those of countless other creators, were fed into generative AI training with neither consent nor payment. Read more
-
-### Epic Games Store overhaul might be "too little, too late", says Newzoo analyst
-Sun, 23 Aug 2026 16:19:53 +0000 — https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite
-
-While Epic has spent much of this year promising a launcher overhaul, including a faster, redesigned storefront with tailored recommendations and quicker ways to browse, one industry analyst has revealed that it might not be enough. Read more
-
 ## GamesIndustry.biz
+
+### Maverick Games partners with Focus Entertainment to publish debut racing title Clutch
+Tue, 25 Aug 2026 13:41:50 +0000 — https://www.gamesindustry.biz/maverick-games-partners-with-focus-entertainment-to-publish-debut-racing-title-clutch
+
+French publisher Focus Entertainment has partnered with Maverick Games to launch its debut racing title, Clutch. Read more
+
+### Journey studio Thatgamecompany launches Thatgamepublisher to champion games that "move people through play"
+Tue, 25 Aug 2026 13:00:00 +0000 — https://www.gamesindustry.biz/journey-studio-thatgamecompany-launches-thatgamepublisher-to-champion-games-that-move-people-through-play
+
+Thatgamecompany, the studio behind Flow, Flower, Journey, and Sky: Children of the Light, has launched a publishing arm. Read more
+
+### EU games industry generated €24bn in 2024, studios reached 6,600 and workforce exceeded 95,000
+Tue, 25 Aug 2026 11:31:09 +0000 — https://www.gamesindustry.biz/eu-games-industry-generated-24bn-in-2024-studios-reached-6600-and-workforce-exceeded-95000
+
+The European games industry generated a combined turnover of &euro;24 billion in 2024, with over 6,600 studios employing more than 95,000 people. Read more
 
 ### Gamescom Dev head says smaller studios represent the biggest opportunity in the games market
 Tue, 25 Aug 2026 11:00:00 +0000 — https://www.gamesindustry.biz/gamescom-dev-head-says-smaller-studios-represent-the-biggest-opportunity-in-the-games-market
@@ -171,6 +186,11 @@ Mon, 24 Aug 2026 18:30:00 GMT — https://www.pushsquare.com/news/2026/08/this-p
 Well Dweller out on 22nd September for PS5. Well Dweller , the next game from the single developer behind Crypt Custodian , will launch for PS5 on 22nd September 2026. That'll be one week after Marvel's Wolverine , five days after Fire Emblem: Fortune's Weave , and two days before Control Resonant and Silent Hill: Townfall . I wish Kyle Thompson, the single developer, the very best of luck. Read the full article on pushsquare.com
 
 ## Game Developer
+
+### Journey maker thatgamecompany announces thatgamepublisher
+Tue, 25 Aug 2026 14:10:19 GMT — https://www.gamedeveloper.com/business/journey-maker-thatgamecompany-announces-thatgamepublisher
+
+Profit from Sky: Children of the Light will support the initiative.
 
 ### Creative Artists Agency spins up indie funding venture Frame1Games
 Mon, 24 Aug 2026 20:43:51 GMT — https://www.gamedeveloper.com/business/creative-artists-agency-spins-up-indie-funding-venture-frame1games

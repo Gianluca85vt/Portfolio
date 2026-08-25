@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-25T11:03:56.882Z
+# AI — harvested 2026-08-25T14:27:10.069Z
 
 ## OpenAI
 
@@ -13,6 +13,9 @@ Mon, 24 Aug 2026 12:00:00 GMT — https://openai.com/index/gpt-5-6-in-kiro
 GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.
 
 ## Hugging Face
+
+### Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original
+Tue, 25 Aug 2026 11:39:24 GMT — https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
 
 ### Wire It, Run It, Deploy It: AI Workflows in Gradio
 Tue, 25 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/gradio-workflow-guide
