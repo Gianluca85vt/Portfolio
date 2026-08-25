@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="The Witcher 4 is targeting a 2028 release on Unreal Engine 5">
+  <defs>
+    <linearGradient id="bgW4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="50%" stop-color="#5A1030"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+    <linearGradient id="accentW4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D6294E"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgW4)"/>
+
+  <!-- a wolf-medallion suggestion, abstracted to a ring -->
+  <circle cx="600" cy="230" r="90" fill="none" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="10"/>
+  <circle cx="600" cy="230" r="55" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="6"/>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="130" font-size="28" letter-spacing="8" fill="#FFFFFF" fill-opacity="0.5">THE WITCHER 4</text>
+
+    <text x="600" y="420" font-size="150" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">2028</text>
+
+    <text x="600" y="490" font-size="42" font-weight="900" fill="#FFFFFF" fill-opacity="0.92"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">TARGETING, NOT A DATE</text>
+
+    <text x="600" y="545" font-size="26" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.6">500+ DEVS · FIRST UNREAL ENGINE 5 BUILD</text>
+  </g>
+
+  <rect x="500" y="580" width="200" height="8" rx="4" fill="url(#accentW4)"/>
+</svg>
