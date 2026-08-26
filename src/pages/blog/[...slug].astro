@@ -96,6 +96,17 @@ const jsonLd = {
 
     <article class="px-5 sm:px-8 md:px-10 pt-12 sm:pt-16 pb-20 sm:pb-24">
       <div class="max-w-[720px] mx-auto">
+        {
+          entry.data.column && (
+            <p
+              class="font-medium uppercase tracking-[0.2em] text-[0.68rem] mt-1"
+              style="color:#B600A8"
+            >
+              {entry.data.column}
+            </p>
+          )
+        }
+
         <h1
           class="hero-heading font-black uppercase leading-[1.05] tracking-tight mt-5"
           style="font-size:clamp(2rem, 6vw, 3.75rem)"

@@ -17,6 +17,11 @@ const blog = defineCollection({
     cover: z.string().optional(),
     draft: z.boolean().optional(),
 
+    // A recurring column the piece belongs to, shown as an eyebrow above the
+    // headline. The column name stays the same every week; the headline does
+    // not. "Architectures of the Void" is the Monday editorial.
+    column: z.string().optional(),
+
     // Review pieces carry a score: the mean of the scores the article quotes,
     // put on a 1-10 scale and rounded to the nearest half point. Anything with
     // a score appears in the "Latest reviews" column on the blog index.

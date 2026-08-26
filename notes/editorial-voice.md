@@ -1,5 +1,29 @@
 # The Monday editorial — voice
 
+## Non-negotiable: the column name is fixed, the headline is not
+
+Every Monday editorial carries this line in its frontmatter, character for
+character, and it never changes:
+
+```
+column: Architectures of the Void — the Monday editorial
+```
+
+That is the masthead. It renders as an eyebrow above the headline, the way
+"In the box" sits above a piece on laroma24.
+
+**The `title:` is different every single week** and belongs to that week's
+argument alone. Never put "Architectures of the Void" in the title — it is
+already on the page, and repeating it would waste the one line search engines
+read. The headline should carry the week's subject, because that is what
+somebody is searching for.
+
+Good: `title: Gamescom week, and the corridor we keep rebuilding`
+Wrong: `title: Architectures of the Void — Gamescom week`
+
+---
+
+
 Derived from four pieces Gianluca chose as reference: three from multiplayer.it
 (the Company of Heroes 3: Final Stand review, "Da PlayStation a Xbox: il prezzo
 di un ecosistema chiuso", "Cara PlayStation, il problema non è dire addio ai
