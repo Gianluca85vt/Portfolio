@@ -7,7 +7,7 @@ import ShareBar from '../../components/ui/ShareBar';
 import ScoreBox from '../../components/ScoreBox.astro';
 import ArticleByline from '../../components/ArticleByline.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
-import { site, categoryColors, coverFor } from '../../data/portfolio';
+import { site, blog, categoryColors, coverFor } from '../../data/portfolio';
 
 export async function getStaticPaths() {
   const entries = await getCollection('blog', ({ data }) => !data.draft);
@@ -74,16 +74,18 @@ const jsonLd = {
     jobTitle: site.role,
   },
   creativeWorkStatus: 'Published',
+  // The masthead publishes; the person writes. Keeping these separate is what
+  // lets the blog carry its own name without detaching the articles from him.
   publisher: {
-    '@type': 'Person',
-    name: site.name,
-    url: site.url,
+    '@type': 'Organization',
+    name: blog.name,
+    url: new URL('/blog/', site.url).href,
   },
 };
 ---
 
 <Base
-  title={`${entry.data.title} — ${site.name}`}
+  title={`${entry.data.title} — ${blog.name}`}
   description={entry.data.excerpt ?? entry.data.title}
   image={cover}
   type="article"

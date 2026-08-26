@@ -104,6 +104,22 @@ export const members = {
   ],
 } as const;
 
+/**
+ * The blog has its own name. It lives at /blog on this domain and is reached
+ * from the portfolio, but it reads as a publication rather than as a section:
+ * a backdrop is painted in anime, built in film and modelled in games, which
+ * is the one word that covers everything written here.
+ *
+ * The URLs are unchanged, so nothing that search engines already know about
+ * this archive is affected — a masthead is a sign on the same door.
+ */
+export const blog = {
+  name: 'Backdrop',
+  tagline: 'What made things cost to make',
+  description:
+    'Games, film, anime, 3D and the hardware underneath — read from the production side. What a decision cost, how a thing got built, and what a release tells you about the pipeline behind it.',
+} as const;
+
 export const blogCategories = [
   // The Monday column sits first: it is the one piece of the week that argues
   // rather than reports, and it carries its own fixed cover.

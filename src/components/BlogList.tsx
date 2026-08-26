@@ -345,7 +345,7 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
             className="font-black uppercase leading-none tracking-tight"
             style={{ fontSize: 'clamp(2rem, 5vw, 3.4rem)' }}
           >
-            <GlowText text="Blog" charClassName="hero-heading" />
+            <GlowText text="Backdrop" charClassName="hero-heading" />
           </FadeIn>
 
           <FadeIn
@@ -354,8 +354,8 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
             y={14}
             className="text-[#D7E2EA]/45 font-light leading-relaxed max-w-[560px] mt-2.5 text-[0.88rem]"
           >
-            Notes on 3D and AI, and on the things that feed the work — games,
-            manga, film and the shelves they end up on.
+            Games, film, anime, 3D and the hardware underneath, read from the
+            production side. What a decision cost, and who paid for it.
           </FadeIn>
 
           {filters.length > 1 ? (

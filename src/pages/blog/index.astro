@@ -4,7 +4,7 @@ import Base from '../../layouts/Base.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
 import BlogList from '../../components/BlogList';
 import Partnerships from '../../components/Partnerships.astro';
-import { site, coverFor } from '../../data/portfolio';
+import { site, blog, coverFor } from '../../data/portfolio';
 
 const entries = (await getCollection('blog', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.date.getTime() - a.data.date.getTime()
@@ -24,9 +24,8 @@ const posts = entries.map((entry) => ({
   reviewOf: entry.data.reviewOf,
 }));
 
-const title = `Blog — ${site.name}`;
-const description =
-  'Notes on 3D and AI, and on the things that feed the work — games, manga, film and collecting.';
+const title = `${blog.name} — ${site.name}`;
+const description = blog.description;
 ---
 
 <Base title={title} description={description}>
