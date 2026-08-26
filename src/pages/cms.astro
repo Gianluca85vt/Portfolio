@@ -365,16 +365,56 @@ export const prerender = false;
           // the browser is refusing the cookie — which used to show up as an
           // empty application and no explanation at all.
           const check = await fetch('/api/cms/articles', { credentials: 'same-origin' });
-          if (check.status === 401) {
-            return say('gate-msg',
-              'Your password is right, but this browser is not keeping the sign-in cookie. ' +
-              'Check whether cookies are blocked for this site, or whether an extension is stripping them, ' +
-              'and try a private window to confirm.', 'bad');
-          }
+          if (check.status === 401) return diagnose();
           enter();
         };
         $('gate-go').onclick = go;
         $('gate-fields').onkeydown = (e) => { if (e.key === 'Enter') go(); };
+      }
+
+      /**
+       * Works out where the cookie is being lost. The server sees the same
+       * nothing in every case, so the browser has to be asked directly: can it
+       * store a cookie it sets itself, and does one sent by the server survive?
+       */
+      async function diagnose() {
+        const lines = [];
+        lines.push('Your password is right — the sign-in worked. The session cookie is being lost.');
+
+        lines.push(`Cookies enabled: ${navigator.cookieEnabled ? 'yes' : 'NO'}`);
+
+        document.cookie = 'cms_jstest=1; Path=/; SameSite=Lax; Max-Age=120';
+        const jsWorks = document.cookie.includes('cms_jstest');
+        lines.push(`Cookie set by the page survives: ${jsWorks ? 'yes' : 'NO'}`);
+
+        let server = null;
+        try {
+          await fetch('/api/cms/cookiecheck', { credentials: 'same-origin' });
+          const second = await (await fetch('/api/cms/cookiecheck', { credentials: 'same-origin' })).json();
+          server = second;
+        } catch {}
+
+        if (server) {
+          lines.push(`Cookie set by the server comes back: ${server.sawServerTest ? 'yes' : 'NO'}`);
+          lines.push(`Host answering: ${server.host}`);
+          lines.push(`Cookies the server can see: ${server.cookieNamesReceived.join(', ') || 'none'}`);
+        } else {
+          lines.push('The cookie test request itself failed.');
+        }
+
+        lines.push(
+          !navigator.cookieEnabled
+            ? 'Cookies are switched off in this browser. Turn them on for this site.'
+            : !jsWorks
+              ? 'This browser is blocking cookies for this site — check the padlock in the address bar.'
+              : server && !server.sawServerTest
+                ? 'The page can store cookies but the ones from the server are stripped. That is usually an extension: try a private window with extensions off.'
+                : 'Everything above looks right, which is unexpected. Send me this list.',
+        );
+
+        const el = $('gate-msg');
+        el.className = 'msg bad';
+        el.innerHTML = lines.map((l, i) => (i === 0 || i === lines.length - 1 ? `<p style="margin:0 0 8px">${l}</p>` : `<div style="font-family:ui-monospace,monospace;font-size:.78rem;opacity:.85">${l}</div>`)).join('');
       }
 
       function say(id, text, kind = '') {
