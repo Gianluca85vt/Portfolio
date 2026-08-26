@@ -71,3 +71,54 @@ export async function hasValidSession(request: Request) {
   const expected = await sign(expires);
   return Boolean(expected && safeEqual(expected, sig));
 }
+
+/* ------------------------------------------------------------------------- */
+/* Backend accounts                                                          */
+/*                                                                           */
+/* The moderation sign-in above is one shared password and no identity. The   */
+/* CMS needs to know who is writing and what they may do, so its cookie       */
+/* carries the account id and role.                                          */
+/*                                                                           */
+/* Same signing secret, but every CMS payload is prefixed with "cms|" before  */
+/* signing. Without that separation a moderation cookie and a CMS cookie      */
+/* would be interchangeable, and a moderator would silently become an admin.  */
+/* ------------------------------------------------------------------------- */
+
+const CMS_COOKIE = 'cms_session';
+const CMS_LIFETIME_HOURS = 12;
+
+export interface CmsSession {
+  id: string;
+  role: 'admin' | 'editor';
+}
+
+export async function createCmsCookie(session: CmsSession, secure: boolean) {
+  const expires = Date.now() + CMS_LIFETIME_HOURS * 3_600_000;
+  const payload = `${session.id}.${session.role}.${expires}`;
+  const sig = await sign(`cms|${payload}`);
+  if (!sig) return null;
+
+  return `${CMS_COOKIE}=${payload}.${sig}; Path=/; HttpOnly;${secure ? ' Secure;' : ''} SameSite=Lax; Max-Age=${CMS_LIFETIME_HOURS * 3600}`;
+}
+
+export function clearedCmsCookie(secure: boolean) {
+  return `${CMS_COOKIE}=; Path=/; HttpOnly;${secure ? ' Secure;' : ''} SameSite=Lax; Max-Age=0`;
+}
+
+export async function readCmsSession(request: Request): Promise<CmsSession | null> {
+  const raw = request.headers.get('cookie') ?? '';
+  const match = new RegExp(`(?:^|;\s*)${CMS_COOKIE}=([^;]+)`).exec(raw);
+  if (!match) return null;
+
+  const parts = match[1].split('.');
+  if (parts.length !== 4) return null;
+
+  const [id, role, expires, sig] = parts;
+  if (role !== 'admin' && role !== 'editor') return null;
+  if (!Number(expires) || Number(expires) < Date.now()) return null;
+
+  const expected = await sign(`cms|${id}.${role}.${expires}`);
+  if (!expected || !safeEqual(expected, sig)) return null;
+
+  return { id, role };
+}
