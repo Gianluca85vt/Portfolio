@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="M5 Ultra memory bandwidth, 1.2 terabytes per second">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#33124C"/>
+      <stop offset="100%" stop-color="#7621B0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7621B0"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- memory channels running across the die -->
+  <g stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="3">
+    <path d="M0 120H1200M0 200H1200M0 280H1200M0 520H1200M0 600H1200M0 680H1200"/>
+  </g>
+  <g stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="2">
+    <path d="M200 0V900M400 0V900M600 0V900M800 0V900M1000 0V900"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="600" y="128" font-size="32" letter-spacing="9" fill="#FFFFFF" fill-opacity="0.5"
+          font-weight="bold">APPLE M5 ULTRA</text>
+
+    <text x="600" y="330" font-size="184" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">1.2TB/s</text>
+
+    <text x="600" y="392" font-size="34" fill="#FFFFFF" fill-opacity="0.5" font-weight="bold">
+      UP FROM 819GB/s ON M3 ULTRA
+    </text>
+
+    <text x="600" y="440" font-size="30" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.36"
+          font-weight="bold">MEMORY CEILING UNCHANGED AT 512GB</text>
+  </g>
+
+  <rect x="500" y="482" width="200" height="8" rx="4" fill="url(#accent)"/>
+</svg>
