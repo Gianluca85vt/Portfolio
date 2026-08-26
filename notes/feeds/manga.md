@@ -1,6 +1,46 @@
-# Manga — harvested 2026-08-26T14:25:41.225Z
+# Manga — harvested 2026-08-26T18:24:11.576Z
 
 ## Anime News Network
+
+### Microsoft to Allow Customers to Claim Digital Entitlements Through Physical Xbox One, Xbox Series X|S Discs
+Wed, 26 Aug 2026 13:10:10 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/microsoft-to-allow-customers-to-claim-digital-entitlements-through-physical-xbox-one-xbox-series-x-/.241013
+
+Xbox Insiders can begin using feature on August 31
+
+### Actor Tim Curry Dies at 80
+Wed, 26 Aug 2026 12:33:30 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/actor-tim-curry-dies-at-80/.241014
+
+Curry played Dr. Frank-n-Furter in <cite>The Rocky Horror Picture Show</cite>, Cat King in <cite>The Cat Returns</cite>
+
+### Persona 4 Revival Preview: More of What You Love
+Wed, 26 Aug 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/feature/2026-08-26/persona-4-revival-preview-more-of-what-you-love/.240988
+
+Did <i>Persona 4</i> need a remake? George gets into it.
+
+### New Ghost in the Shell Anime Casts Chikahiro Kobayashi
+Wed, 26 Aug 2026 12:05:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/new-ghost-in-the-shell-anime-casts-chikahiro-kobayashi/.241011
+
+Kobayashi plays Lee in anime's eighth episode
+
+### Fairy Princess Minky Momo 2nd Episodes 1-13 Anime Review
+Wed, 26 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/fairy-princess-minky-momo-2nd/episodes-1-13/.240852
+
+This is classic 1990s children’s programming – sometimes preachy, sometimes zany, and always completely insane.
+
+### Capcom Continues to Make The Old Feel New Again
+Wed, 26 Aug 2026 11:29:01 -0400 — https://www.animenewsnetwork.com/feature/2026-08-26/capcom-continues-to-make-the-old-feel-new-again/.240997
+
+Capcom's recent trend of reviving and revitalizing older franchises is on a roll.
+
+### Nia Liston: The Merciless Maiden Anime Adds 3 New Cast Members
+Wed, 26 Aug 2026 10:00:46 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/nia-liston-the-merciless-maiden-anime-adds-3-new-cast-members/.241006
+
+Taku Yashiro, Yōko Hikasa, Satoshi Hino join cast of October 6 anime
+
+### Crunchyroll Offers a Sneak Peek of Upcoming Series
+Wed, 26 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/crunchyroll-offers-a-sneak-peek-of-upcoming-series/.240919
+
+Crunchyroll debuted three new series and then inexplicably rehashed an old one.
 
 ### Ghost in the Shell ‒ Episode 8
 Wed, 26 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/ghost-in-the-shell/episode-8/.240992
@@ -21,46 +61,6 @@ Mika Pikazo discusses her illustration process, her inspirations, and her vision
 Wed, 26 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-8/.240989
 
 Akiyama Jan does not simply settle for making a good dish that will win, but specifically aims to make sure that Omae Kota loses.
-
-### The Greatest Magicmaster's Retirement Plan TV Anime Casts Yui Ogura
-Wed, 26 Aug 2026 02:50:55 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/the-greatest-magicmaster-retirement-plan-tv-anime-casts-yui-ogura/.241001
-
-Ogura plays Loki Leevahl in 2027 anime
-
-### Inherit the Winds TV Anime Casts Yasuyuki Kase
-Wed, 26 Aug 2026 01:46:09 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/inherit-the-winds-tv-anime-casts-yasuyuki-kase/.241000
-
-Kase to voice Serizawa Kamo in January 2027 anime
-
-### Blue Box Anime's Season 2 Trailer Unveils Theme Songs
-Wed, 26 Aug 2026 01:08:29 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/blue-box-anime-season-2-trailer-unveils-theme-songs/.240991
-
-aiko performs opening song "Anata no Hana no Iro"; elsewhere kikou performs ending song "blue in"
-
-### French President Announces Manga Theme Park
-Tue, 25 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-25/french-president-announces-manga-theme-park/.240971
-
-Park to be built with Saudi funds just outside Paris, "expected to be themed on" Dragon Ball
-
-### Red River's Chie Shinohara Launches New Historical Manga on September 24
-Tue, 25 Aug 2026 23:56:35 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/red-river-chie-shinohara-launches-new-historical-manga-on-september-24/.240986
-
-<cite>Itsukinomiya Genshitan</cite> "historical mystery" follows princess at Ise Shrine during Japan's Asuka period
-
-### Yurie Sekiya's Pero Pero★Sparkles Characters Get TV Anime
-Tue, 25 Aug 2026 23:31:49 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/yurie-sekiya-pero-pero-sparkles-characters-get-tv-anime/.240990
-
-TV Tokyo produces anime
-
-### A Returner's Magic Should Be Special Season 2's New Video Previews Ending Song
-Tue, 25 Aug 2026 23:05:02 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/a-returner-magic-should-be-special-season-2-new-video-previews-ending-song/.240987
-
-krage performs ending song "Everlasting" for 2nd season
-
-### Shiro Yoshida Launches New Kemonogari Manga
-Tue, 25 Aug 2026 20:34:46 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/shiro-yoshida-launches-new-kemonogari-manga/.240960
-
-Horror manga set in village with strange tradition
 
 ## Crunchyroll News
 

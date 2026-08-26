@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-26T14:25:41.225Z
+# Games — harvested 2026-08-26T18:24:11.576Z
 
 ## Eurogamer
+
+### Resonance: A Plague Tale Legacy review
+Wed, 26 Aug 2026 16:00:00 +0000 — https://www.eurogamer.net/resonance-a-plague-tale-legacy-review
+
+Putting 'legacy' in the title of your game naturally encourages considerations about what that legacy might be &ndash; and that, in turn, invites thoughts about its identity. (And perhaps 'supremacy' and 'ultimatum' if you're a big Jason Bourne fan.) It might sound silly to say of a game with some of the most impressive faces and places you'll see this &ndash; or any &ndash; year. But to me, A Plague Tale is spiritually double-A, and I absolutely mean that as a compliment. I find myself instinctively rooting for this series: there is still something of a scrappy outsider quality to it, even as the credits list appears to lengthen with each release. Maybe it's partly because Asobo doesn't have the budget or personnel of games from Sony or Microsoft's first-party stables &ndash; or any of the other megapublishers, for that matter. But it's mostly because it features the kind of design and narrative choices I sense would be sanded down or cut entirely from the bigger-budget crowd it clearly wants to hang out with. Read more
 
 ### Elden Ring plays much better than I'd expected on Switch 2, but it isn't without its flaws
 Wed, 26 Aug 2026 14:00:00 +0000 — https://www.eurogamer.net/elden-ring-tarnished-edition-switch-2-impressions-performance
@@ -57,12 +62,17 @@ Wed, 26 Aug 2026 09:47:11 +0000 — https://www.eurogamer.net/heroes-of-might-an
 
 Heroes of Might and Magic 3, the iconic and arguably never-bettered strategic fantasy role-playing game, is being remade by Ubisoft for release on PC, PlayStation 5 and Xbox Series S/X at some point next year. Related: the Complete Edition of Heroes of Might and Magic 3 is now available on Steam for the first time. Read more
 
-### No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look
-Wed, 26 Aug 2026 08:51:30 +0000 — https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response
-
-One of the bigger Gamescom Opening Night Live pre-show reveals was Humankind 2, the sequel to Amplitude's Civilization-like 4X game from 2021 . The trailer didn't feature much gameplay, rather a swiftly moving cinematic montage of Earth through humanity's ages, and it immediately sparked suspicions of gen-AI use because of the way it looks. Read more
-
 ## GamesIndustry.biz
+
+### IGDA Incubation SIG to unveil first global census of game incubators and accelerators at Gamescom
+Wed, 26 Aug 2026 18:11:00 +0000 — https://www.gamesindustry.biz/igda-incubation-sig-to-unveil-first-global-census-of-game-incubators-and-accelerators-at-gamescom
+
+The IGDA Incubation SIG will present the first international census of game incubation and accelerator programs at Gamescom 2026 this week, aiming to give the industry its first broad picture of the organizations that support emerging studios. Read more
+
+### Xbox to let Insiders convert physical game discs into digital entitlements later this month
+Wed, 26 Aug 2026 16:17:59 +0000 — https://www.gamesindustry.biz/xbox-to-let-insiders-convert-physical-game-discs-into-digital-entitlements-later-this-month
+
+Xbox will let Xbox Insiders begin testing a disc-to-digital feature from August 31, letting owners of supported physical games unlock a digital entitlement for the same title. Read more
 
 ### Ubisoft announces playstest platform The Player Council
 Wed, 26 Aug 2026 13:30:00 +0000 — https://www.gamesindustry.biz/ubisoft-announces-playstest-platform-the-player-council
@@ -114,21 +124,41 @@ Tue, 25 Aug 2026 15:42:22 +0000 — https://www.gamesindustry.biz/game-developer
 
 The Game Developer Association of India (GDAI) has announced the first cohort of its Supernova incubation program, selecting 15 studios from more than 260 applicants. Read more
 
-### Maverick Games partners with Focus Entertainment to publish debut racing title Clutch
-Tue, 25 Aug 2026 13:41:50 +0000 — https://www.gamesindustry.biz/maverick-games-partners-with-focus-entertainment-to-publish-debut-racing-title-clutch
-
-French publisher Focus Entertainment has partnered with Maverick Games to launch its debut racing title, Clutch. Read more
-
-### Journey studio Thatgamecompany launches Thatgamepublisher to champion games that "move people through play"
-Tue, 25 Aug 2026 13:00:00 +0000 — https://www.gamesindustry.biz/journey-studio-thatgamecompany-launches-thatgamepublisher-to-champion-games-that-move-people-through-play
-
-Thatgamecompany, the studio behind Flow, Flower, Journey, and Sky: Children of the Light, has launched a publishing arm. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### So, Erm, Where s Forza Horizon 6 on PS5?
+Wed, 26 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/08/so-erm-wheres-forza-horizon-6-on-ps5
+
+Late drive. In January of this year, it was confirmed that Forza Horizon 6 would indeed be coming to PS5, albeit at a later date than the Xbox and PC release. We've been waiting ever since to learn exactly when the port would arrive; currently, the only official information is that the PS5 version is scheduled to arrive in 2026. Read the full article on pushsquare.com
+
+### The Wolf Among Us Remastered Brings Back a Telltale Classic This October on PS5
+Wed, 26 Aug 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/08/the-wolf-among-us-remastered-brings-back-a-telltale-classic-this-october-on-ps5
+
+And you can play it in black and white. While we all wait for the enigmatic sequel to show itself, a release date has been announced for The Wolf Among Us Remastered . Announced back in June, the remaster comes to PS5 right before Halloween on 29th October 2026. Read the full article on pushsquare.com
+
+### Persona 4 Revival s Story Trailer Is Packing Loads of New Footage
+Wed, 26 Aug 2026 16:15:00 GMT — https://www.pushsquare.com/news/2026/08/persona-4-revivals-story-trailer-is-packing-loads-of-new-footage
+
+Don't change the channel. Does it feel like Atlus and SEGA started the marketing for Persona 4 Revival way too early to anyone else? The remake's still six months away and we've been battered with every kind of trailer you can imagine. And today, it's time for a fresh look at the story. Those who have played Persona 4 Golden will already know the ins and outs as Revival doesn't make any adjustments to the narrative, but if you're a newcomer, this trailer sets the tone quite well. Read the full article on pushsquare.com
+
+### Review: Resonance: A Plague Tale Legacy (PS5) - Solid Story Game without the Rats
+Wed, 26 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/reviews/ps5/resonance-a-plague-tale-legacy
+
+Uncharted on Crete. After two fantastic A Plague Tale games, it feels like Asobo Studio has turned the third into its biggest uphill battle on purpose. Resonance: A Plague Tale Legacy is a prequel — which are just inherently less interesting than sequels — there are no rats, it’s all about combat instead of stealth, and series protagonists Amicia and Hugo are missing in action. Read the full article on pushsquare.com
+
+### PS Plus Essential Games for September 2026 Announced
+Wed, 26 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps-plus-essential-games-for-september-2026-announced
+
+Something for everyone. PlayStation has officially announced the games that are coming to PS Plus Essential next month. There'll be four titles up for grabs across PS5 and PS4 in September. Three of them leaked earlier this week. Read the full article on pushsquare.com
+
+### Microsoft Confirms Xbox Disc-to-Digital Program in the Wake of Sony Decision to End PlayStation Discs
+Wed, 26 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/microsoft-confirms-xbox-disc-to-digital-program-in-the-wake-of-sony-decision-to-end-playstation-discs
+
+Revocable digital license tied to Xbox disc. Microsoft has today announced its plans to introduce a disc-to-digital program on Xbox consoles that will allow console owners to turn their physical discs into a digital version. This follows in the wake of news Sony plans to end PlayStation disc manufacturing for all games released after January 2028 — a decision it has no interest in backing down from, as per Sony executives. Read the full article on pushsquare.com
 
 ### PS5 Action RPG Tarae: The Unbound Puts an Eastern Folklore Spin on Diablo
 Wed, 26 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-action-rpg-tarae-the-unbound-puts-an-eastern-folklore-spin-on-diablo
@@ -160,37 +190,27 @@ Wed, 26 Aug 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/08/italia
 
 An art-driven exploration puzzler. Lofsong , one of the few brand new game announcements at Gamescom Opening Night Live yesterday, was a standout thanks to its unique art-driven trailer, which you can watch above. It comes from Unrelated Studio, based in Turin, Italy, and Lofsong is its debut project. Here's the pitch from the team: Read the full article on pushsquare.com
 
-### Silent Hill: Townfall Has Some Familiar Faces, Cast Revealed in New Trailer
-Wed, 26 Aug 2026 10:45:00 GMT — https://www.pushsquare.com/news/2026/08/silent-hill-townfall-has-some-familiar-faces-cast-revealed-in-new-trailer
-
-Locke them up. Publisher Konami has released a new trailer for its upcoming survival horror game, Silent Hill: Townfall , and it reveals a handful of cast members. Check it out below: Read the full article on pushsquare.com
-
-### Pragmata Fully Leans into Mega Man Conspiracy with a Ridiculous In-Game Outfit
-Wed, 26 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/pragmata-fully-leans-into-mega-man-conspiracy-with-a-ridiculous-in-game-outfit
-
-Coming soon. If you recall, prior to the release of Pragmata , some fans convinced themselves that the new Capcom action was secretly a Mega Man game. That didn't turn out to be true, but the theory did spread surprisingly far — enough that the publisher purposefully poked fun at it in an April Fools joke . Read the full article on pushsquare.com
-
-### PS5 Action RPG Warlock: Dungeons & Dragons Is All Swords and Sorcery in Debut Gameplay
-Wed, 26 Aug 2026 09:45:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-action-rpg-warlock-dungeons-and-dragons-is-all-swords-and-sorcery-in-debut-gameplay
-
-It's a kind of magic. Publisher Wizards of the Coast and developer Invoke Studios have debuted about eight minutes of gameplay from Warlock: Dungeons & Dragons , the upcoming action RPG set within the ever-popular fantasy world. As the name suggests, you play as a warlock named Kaatri, who's on a quest to find someone with the aid of powerful witch Tasha. Read the full article on pushsquare.com
-
-### Round Up: What Was Announced at Gamescom Opening Night Live 2026?
-Wed, 26 Aug 2026 01:30:00 GMT — https://www.pushsquare.com/features/round-up-what-was-announced-at-gamescom-opening-night-live-2026
-
-All the PS5 reveals from Gamescom. Of the three annual showcases Geoff Keighley hosts, Gamescom Opening Night Live is the safest one to skip watching in the moment. There's normally a lot of news, but most of it isn't groundbreaking. Nevertheless, there are still a lot of reveals to go through from the 2026 livestream, and below you shall find all the PS5 news. For any Nintendo or Xbox-related announcements, please refer to our sister sites Nintendo Life and Pure Xbox . Read the full article on pushsquare.com
-
-### Poll: How Would You Rate Gamescom Opening Night Live 2026?
-Wed, 26 Aug 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/08/poll-how-would-you-rate-gamescom-opening-night-live-2026
-
-Rate this year's Keighley surprises. We've reached the time of year when Geoff Keighley hosts his most low-key showcase of the year. Gamescom Opening Night Live usually has one or two big pieces of news, but this is nothing like Summer Game Fest or The Game Awards . That was again reflected in the announcements for 2026's stage show, with the biggest reveals being a new look at The Witcher 3: Songs of the Past , a release date for Exodus , and another look at Final Fantasy 7 Revelation . Read the full article on pushsquare.com
-
-### In PS5 Arabian Fantasy 1001 Threads of Mizan , You Ride Magic Carpet Hoverboards
-Tue, 25 Aug 2026 23:45:00 GMT — https://www.pushsquare.com/news/2026/08/in-ps5-arabian-fantasy-1001-threads-of-mizan-you-ride-magic-carpet-hoverboards
-
-So that's cool. Personally I’m not a huge fan of co-op action games, even though I appreciate they’re enormously popular. I mean, just look at Helldivers 2 , it’s one of Sony’s biggest games ever – and I think a big part of that is because it’s co-op. (It’s also damn fun, of course, which matters too.) Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Playdate maker Panic is refunding tariff fees to customers
+Wed, 26 Aug 2026 18:21:55 GMT — https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers
+
+'It's just not our money to keep, and it felt really good to give it back.'
+
+### CD Projekt Red to distribute The Witcher 3: The Wild Hunt on Blizzard's Battle.net
+Wed, 26 Aug 2026 17:30:18 GMT — https://www.gamedeveloper.com/business/cd-projekt-red-and-blizzard-enter-a-partnership
+
+The remastered rendition of The Witcher 3: Wild Hunt is coming to Battle.net, along with the new upcoming expansion and a Diablo IV collab.
+
+### Creative UK launches Barclays-sponsored growth program for screen businesses
+Wed, 26 Aug 2026 16:11:16 GMT — https://www.gamedeveloper.com/business/creative-uk-launches-barclays-sponsored-growth-program-for-screen-businesses
+
+The program led by Creative Enterprise, which is part of Creative UK, is funded by the BFI National Lottery.
+
+### Ubisoft debuts Player Council platform to expand early game development feedback
+Wed, 26 Aug 2026 15:50:50 GMT — https://www.gamedeveloper.com/business/ubisoft-debuts-player-council-platform-to-expand-early-game-development-feedback
+
+Player Council members will be invited to test 'early concepts, prototypes, and live experiences.'
 
 ### Riot Games is winding down 2XKO active development in December
 Tue, 25 Aug 2026 17:01:51 GMT — https://www.gamedeveloper.com/business/riot-games-is-winding-down-fighter-2xko-in-december-2026
@@ -221,9 +241,4 @@ W4 Games has also signed a multi-year strategic partnership with Tencent to scal
 Mon, 24 Aug 2026 20:43:51 GMT — https://www.gamedeveloper.com/business/creative-artists-agency-spins-up-indie-funding-venture-frame1games
 
 'We want to support emerging, often under-resourced teams that don't necessarily have the financing, relationships or marketing resources that other titles do.'
-
-### Mutter and Blue Prince among winners at Gamescom Dev Awards 2026
-Mon, 24 Aug 2026 16:30:00 GMT — https://www.gamedeveloper.com/business/mutter-and-blue-prince-among-winners-at-gamescom-dev-awards-2026
-
-Six winners were crowned in Cologne.
 

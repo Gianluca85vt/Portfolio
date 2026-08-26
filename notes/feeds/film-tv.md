@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-26T14:25:41.225Z
+# Film & TV — harvested 2026-08-26T18:24:11.576Z
 
 ## Variety
 
-### Rupert Grint to Reprise Ron Weasley Role in Harry Potter and the Cursed Child on Broadway
-Wed, 26 Aug 2026 14:19:21 +0000 — https://variety.com/2026/legit/global/rupert-grint-ron-weasley-harry-potter-and-the-cursed-child-1236843779/
+### Survivor 51 : Meet the 21 New Castaways, Including a Grey s Anatomy Actor, the Voice of Strawberry Shortcake, a Pro Wrestler and a Yankees Exec
+Wed, 26 Aug 2026 18:22:50 +0000 — https://variety.com/lists/survivor-51-cast-greys-anatomy-strawberry-shortcake/
 
-Rupert Grint is reprising his iconic role as Ron Weasley after 15 years. The actor is set to join the cast of Harry Potter and the Cursed Child on Broadway from Feb. 2 to May 30, 2027. He will play an adult version of Ron in the play, which centers on the next generation of [ ]
+After its landmark 50th season, explored at length in a Variety cover story, Survivor is back for another round. CBS kicked off a new phase of the popular competition series, titled The Open Era, with a livestream on Wednesday announcing 21 all-new castaways. They range in age from 24 to 49 and come from all [ ]
 
-### Oasis Documentary Captures Gallagher Brothers Moment of Reconciliation on Camera, Teases Disney+ EMEA Boss
-Wed, 26 Aug 2026 14:16:25 +0000 — https://variety.com/2026/tv/news/oasis-doc-gallagher-reconciliation-disney-1236843745/
+### YouTube’s Pedro Pina Says Platform Can Fuel Britain’s Next TV Golden Age, Unveils $4 Million Pledge: We re Not the Villain
+Wed, 26 Aug 2026 18:15:00 +0000 — https://variety.com/2026/tv/global/youtube-pedro-pina-help-uk-tv-4-million-pledge-1236843798/
 
-The camera was rolling when the Gallaghers made up. An upcoming Disney+ documentary on Oasis has captured the moment Liam and Noel Gallagher reconciled after 15 years without contact, Angela Jain, head of content for Disney+ EMEA, revealed Wednesday at the Edinburgh TV Festival s Spotlight on Disney+ session. This is the story of two brothers [ ]
+Pedro Pina, YouTube’s vice president for Europe, Middle East and Africa, used this year’s James MacTaggart Memorial Lecture at the Edinburgh TV Festival to challenge the narrative that the platform is a villain in British television’s decline. Instead, he argued that it is increasingly feeding the sector with talent, audiences and revenue — and backed [ ]
 
-### Nile Rodgers Chic to Headline DKMS Cancer Benefit Gala in New York
-Wed, 26 Aug 2026 14:05:47 +0000 — https://variety.com/2026/music/news/nile-rodgers-chic-dkms-cancer-benefit-1236843765/
+### Busy Philipps Reveals She Had Brain Tumor Removed: Grateful That I m Alive
+Wed, 26 Aug 2026 17:22:38 +0000 — https://variety.com/2026/tv/news/busy-philipps-brain-tumor-removed-1236844098/
 
-Nile Rodgers Chic will headline the 20th annual gala for DKMS, a top non-profit organization fighting blood cancer and blood disorders. The black-tie event at will take place at Cipriani Wall Street in New York on Thursday, October 15th. The evening’s programming includes a live concert from Rodgers — a cancer survivor as well [ ]
+Busy Philipps revealed she had a malignant brain tumor removed weeks before she was set to start filming her new CBS show “Cupertino.” “I’m grateful that I’m alive,” Philipps told People. What started as an unnecessary, but precautionary full-body MRI that checks for more than 500 conditions ended up saving Philipps life. The “Freaks and [ ]
 
-### Love Island and The Traitors Star Maura Higgins to Host Blind Date on Disney+
-Wed, 26 Aug 2026 14:04:00 +0000 — https://variety.com/2026/tv/global/maura-higgins-host-blind-date-disney-1236843740/
+### Wim-Wenders Produced I ll Be Gone in June Bought for North America After Cannes Premiere (EXCLUSIVE)
+Wed, 26 Aug 2026 17:16:43 +0000 — https://variety.com/2026/film/global/wim-wenders-ill-be-gone-in-june-north-america-cannes-kimstim-1236844095/
 
-Love Island and The Traitors star Maura Higgins has a new gig: hosting Disney+ s upcoming reality series Blind Date. The iconic British dating show, which ran from 1985 to 2003, is being revamped by the streamer for modern audiences and promises to be bigger, better and bolder than ever, according to a press release. As [ ]
+KimStim has acquired all North American rights to Katharina Rivilis’ debut feature I’ll Be Gone in June, following its world premiere at Cannes Un Certain Regard. Set in Las Cruces, New Mexico, in the months surrounding the Sept. 11 attacks, the coming-of-age drama follows Franny, a 16-year-old German exchange student whose vision of an American [ ]
 
-### Tommy Tuppence Trailer: Antonia Thomas and Josh Dylan Solve Mysteries and Fall in Love in Modern Agatha Christie Series (EXCLUSIVE)
-Wed, 26 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/global/tommy-tuppence-trailer-antonia-thomas-modern-agatha-christie-1236842268/
+### Todd Black to Receive Inaugural Career Producer Honor at the 39th Annual Virginia Film Festival (EXCLUSIVE)
+Wed, 26 Aug 2026 17:15:00 +0000 — https://variety.com/2026/film/news/todd-black-career-producer-honor-virginia-film-festival-2-1236843545/
 
-BritBox has unveiled the official trailer for Agatha Christie s Tommy Tuppence, a modern take on the beloved detective duo starring Antonia Thomas and Josh Dylan. The six-part series is the first contemporary English-language TV adaptation of Christie s Tommy Tuppence stories, set in present-day London and starring Dylan ( Buccaneers, Mamma Mia 2 ) as Tommy [ ]
+Producer Todd Black will receive the inaugural Career Producer Honor at the 39th annual Virginia Film Festival, which takes place Oct. 21-25 in Charlottesville. The Virginia Film Festival Career Producer Honor celebrates the artistic impact of a standout producer and is supported by a new endowment established by Virginia Film Festival Advisory Board member and [ ]
 
-### Emily in Paris Season 6 First Look Shows a Glamorous Greek Adventure as Netflix Sets Christmas Release
-Wed, 26 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/emily-in-paris-season-6-release-date-first-look-greece-1236843268/
+### Tyler Perry Studios Launches New Specialty Label Maxscene, Named After His Mother Maxine
+Wed, 26 Aug 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/tyler-perry-studios-specialty-label-maxscene-1236843169/
 
-Emily in Paris will take its final bow on Christmas Eve. Netflix set a Dec. 24 premiere date for the series sixth and final season and released new photos, including a look at the show s latest adventure in Greece. As reported by Variety in April, Emily s (Lily Collins) life and work will take her from [ ]
+Tyler Perry launched a new specialty division of his production company Tyler Perry Studios called Maxscene. According to the company, the label is dedicated to expanding theatrical opportunities for filmmakers with distinctive voices. Named after Perry’s mother Maxine, the filmmaker said his new label aims to reflect her belief in her son and the studio he [ ]
 
-### Meta to Pay up to $18 Billion in Settlement With States Over Social-Media Addiction Claims
-Wed, 26 Aug 2026 13:40:29 +0000 — https://variety.com/2026/digital/news/meta-18-billion-settlement-state-ags-lawsuit-social-media-addiction-1236843725/
+### Pedro Almodóvar’s Bitter Christmas and Diego Luna s Ashes Lead AFI Latin American Film Festival Lineup
+Wed, 26 Aug 2026 17:00:00 +0000 — https://variety.com/2026/film/festivals/pedro-almodovar-bitter-christmas-latin-american-film-festival-1236843282/
 
-Meta will pay up to $18 billion over 10 years and implement broad child-safety reforms on Instagram and Facebook under a nationwide settlement with 52 state attorneys general, including California s Rob Bonta. The agreement, subject to court approval, resolves claims by the state AGs that Meta designed Instagram with addictive features, knowingly exposed [ ]
+Pedro Almodóvar’s Bitter Christmas and Diego Luna s Ashes are among the AFI Latin American Film Festival lineup. The AFI Latin American Film Festival will take place Sept. 16 through Oct. 7 at the AFI Silver Theatre and Cultural Center in Silver Spring, Maryland. The festival will kick off with “The Match,” a documentary depicting the [ ]
 
-### Gary Oldman on the Pleasure of Playing Slow Horses Spy Jackson Lamb: A Man Who Has Single-Handedly Lowered the Public s Expectation of Personal Hygiene
-Wed, 26 Aug 2026 13:26:12 +0000 — https://variety.com/2026/tv/global/gary-oldman-slow-horses-edinburgh-tv-festival-1236843642/
+### Final Fantasy VII Revelation Gameplay Trailer Shows Weapons Destroying Planet in the Series’ Finale (Gaming News Roundup)
+Wed, 26 Aug 2026 16:53:37 +0000 — https://variety.com/2026/gaming/news/final-fantasy-vii-gaming-news-roundup-week-august-25-1236843218/
 
-Gary Oldman received the Edinburgh TV Festival s Global Icon Award on Wednesday and, unsurprisingly, spent much of the time in an on-stage conversation discussing his most famous — and current — TV character. For the last six years, I ve had the pleasure of inhabiting Jackson Lamb, a man who has single-handedly lowered the public s expectation of personal [ ]
+“Final Fantasy VII” received a new gameplay trailer during gamescom Opening Night Live. The third and final entry in the “Final Fantasy VII” remake series sees hostile giants called Weapons arriving to save a world undergoing a crisis. But, unable to determine who’s a true threat, the Weapons ultimately cause mass destruction on anyone or [ ]
 
-### Finding Emily Review: The Working Title Romantic Comedy Gets a Fresh, Funny GenZ Makeover
-Wed, 26 Aug 2026 13:16:20 +0000 — https://variety.com/2026/film/reviews/finding-emily-review-1236842405/
+### Tim Curry Remembered by Carol Burnett, Michael McKean, Luke Evans and More: Thank You for Inspiring Generations of Actors to Be a Little Braver
+Wed, 26 Aug 2026 16:51:13 +0000 — https://variety.com/2026/film/news/tim-curry-remembered-michael-mckean-muppets-luke-evans-1236844041/
 
-The big-screen romantic comedy is unfashionable enough these days that it tends to come dressed up in at least one of two ways: with a quasi-absurd high concept (see this summer’s “One Night Only”) or draped in enough ironic quote marks to make clear that the filmmakers are rolling their eyes right along with you. [ ]
+There has been an outpouring of love for Tim Curry — the English actor best known for playing villains in The Rocky Horror Picture Show, Annie, Clue and more — since news broke of his death at age 80 on Wednesday. Carol Burnett shared a clip from Annie, in which she starred as Miss Hannigan [ ]
 
-### Women s Basketball League Unrivaled Raises More Than $100 Million From Carmelo Anthony, Ashton Kutcher, Alex Morgan, University of California Fund and More
-Wed, 26 Aug 2026 12:59:02 +0000 — https://variety.com/2026/tv/news/unrivaled-raises-more-than-100-million-carmelo-anthony-ashton-kutcher-alex-morgan-uc-investments-1236843699/
+### Blake Lively Awarded $400,000 in Attorneys Fees in Justin Baldoni Case
+Wed, 26 Aug 2026 16:48:27 +0000 — https://variety.com/2026/film/news/blake-lively-400000-attorneys-fees-justin-baldoni-1236844059/
 
-Unrivaled, the women s three-on-three basketball league, announced that its Series C fundraise has surpassed an initial $100 million target and is now oversubscribed valuing the league at $650 million. The funding round was led by Ten Pillars Sports Fund, backed by UC Investments, which manages the University of California system s investment funds. Other participants [ ]
+A judge on Wednesday awarded Blake Lively about $400,000 in attorneys fees in her dispute with It Ends With Us co-star Justin Baldoni, well short of the $8 million she had sought. Lively and Baldoni settled their 18-month legal war in May, avoiding a federal trial that was scheduled for later that month. At the [ ]
 
 ## The Hollywood Reporter
 
-### Rupert Grint to Join Broadway Cast of Harry Potter and the Cursed Child
-Wed, 26 Aug 2026 14:07:47 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/rupert-grint-harry-potter-and-the-cursed-child-1236681941/
+### Chris Hansen Buys Ads Before Every Screening of A24 s Primetime (Exclusive)
+Wed, 26 Aug 2026 18:02:32 +0000 — https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-buys-ads-before-every-screening-a24-primetime-1236682255/
 
-Grint will play the adult version of Ron Weasley, a role which he originated in the film franchise.
+Robert Pattinson plays the former 'Dateline NBC' correspondent in the Sept. 25 release.
 
-### The Love Hypothesis Trailer: Lili Reinhart and Tom Bateman Embark on Fake Dating Scheme in STEM Romance
-Wed, 26 Aug 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-love-hypothesis-official-trailer-watch-1236680661/
+### Tim Curry s Most Memorable Roles
+Wed, 26 Aug 2026 17:58:16 +0000 — https://www.hollywoodreporter.com/lists/tim-curry-best-roles/
 
-Adapted from Ali Hazelwood’s bestselling novel, Reinhart and Bateman star as a Ph.D. candidate and the school’s intimidating professor pretending to be in a relationship.
+From 'The Rocky Horror Picture Show' to 'Clue' to 'Annie,' a list of great performances by the actor, who died Wednesday at age 80.
 
-### Barry Keoghan to Lead and Produce Top Boy Prequel Series Jonny Boy at Netflix (Exclusive)
-Wed, 26 Aug 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/barry-keoghan-top-boy-prequel-jonny-netflix-tv-show-drake-1236681783/
+### Survivor 51 : Meet the 21 Castaways on Game-Changing New Season
+Wed, 26 Aug 2026 17:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/survivor-51-new-season-cast-1236681438/
 
-Creator-writer of the original show Ronan Bennett is returning for 'Jonny Boy,' as is Canadian rapper Drake, who executive produced the British BAFTA-winning crime drama.
+The Sept. 23 premiere kicks off 'Survivor's' "Open Era" — where no twist, advantage or game mechanic is off limits for the hit CBS reality franchise.
 
-### DAZN Buys EverPass Media in Commercial Sports Rights Push
-Wed, 26 Aug 2026 13:13:41 +0000 — https://www.hollywoodreporter.com/business/business-news/dazn-buys-everpass-media-sports-rights-1236681851/
+### Anna Wintour Wanted the Bezos Back. But She Might Settle for the Clooneys
+Wed, 26 Aug 2026 17:40:22 +0000 — https://www.hollywoodreporter.com/lifestyle/style/anna-wintour-2027-met-gala-jeff-bezos-1236681510/
 
-EverPass investors the NFL, TKO and RedBird will become minority shareholders in DAZN, which is making a major move into the commercial side of sports media.
+Despite the controversy swirling around the 2026 Met Gala, the Conde Nast bigwig is said to have wanted Jeff and Lauren back for a return engagement. But next year's party — with the always-scandalous John Galliano center stage — will likely slum it with other sponsors.
 
-### Jaye P. Morgan, Singer and Bawdy Gong Show Panelist, Dies at 94
-Wed, 26 Aug 2026 13:03:36 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jaye-p-morgan-dead-gong-show-singer-1236681831/
+### Snoop Dogg Biopic Finds Its Warren G in Algee Smith (Exclusive)
+Wed, 26 Aug 2026 17:34:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/snoop-dogg-biopic-finds-its-warren-g-in-algee-smith-1236682181/
 
-A lover of double entendres, she got fired from the Chuck Barris game show after showing her breasts during a Mean Gene Dancing Machine routine.
+The Universal feature already has Jonathan Daviss portraying Snoop Dogg and Myles Bullock Be as Dr. Dre.
 
-### Disney+ Greenlights Wedding Planner Rom-Com Drama From Playwright Kate Cortesi
-Wed, 26 Aug 2026 12:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/disney-wedding-planner-kate-cortesi-mad-love-show-series-1236681762/
+### Luke Evans, Who Played Dr. Frank-N-Furter on Broadway, Wrote Letter to Tim Curry Weeks Before His Passing
+Wed, 26 Aug 2026 17:34:14 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/luke-evans-letter-to-tim-curry-weeks-before-his-passing-1236682241/
 
-The six-part series will follow Maddy Caruso, a British wedding planner for an eclectic list of clients in the Italian countryside, whose chaotic love life comes back to bite her.
+“Being compared to you has been one of the greatest compliments I’ve ever received, even though it’s a comparison no one could ever hope to live up to," Evans shared, as part of a letter he sent to Curry three weeks ago.
 
-### Andrew Garfield s The Uprising Confuses Fans After Reveal as Robin Hood Origin Story
-Wed, 26 Aug 2026 12:20:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/andrew-garfield-the-uprising-film-robin-hood-new-title-1236681825/
+### How Hannah Montana Introduced a New Generation to Dolly Parton
+Wed, 26 Aug 2026 17:03:06 +0000 — https://www.hollywoodreporter.com/music/film-tv-music-news/hannah-montana-introduced-new-generation-dolly-parton-1236681646/
 
-Just two weeks before its release, Focus Features is now marketing Paul Greengrass' film — set during the 1381 English Peasants' Revolt — as 'The Uprising: The Rise of Robin Hood.'
+Aunt Dolly made three iconic appearances on the beloved Disney Channel series starring Parton's real-life goddaughter, Miley Cyrus.
 
-### Roku Lands NWSL Matches in Latest Sports Rights Deal (Exclusive)
-Wed, 26 Aug 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nwsl-games-roku-streaming-1236681419/
+### Blake Griffin to Host His Own Late Night TV Show (Exclusive)
+Wed, 26 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/blake-griffin-new-late-night-show-stepback-release-date-1236681099/
 
-The deal covers more than 30 games in the remainder of this season and in 2027.
+The former NBA All-Star and burgeoning screen presence is partnering with Prime Video, Wondery and YouTube for 'The Stepback With Blake Griffin.'
 
-### Iranian Drama A Bit of Light Sells Wide Ahead of Venice Premiere (Exclusive)
-Wed, 26 Aug 2026 11:48:14 +0000 — https://www.hollywoodreporter.com/movies/movie-news/iran-drama-a-bit-of-light-sells-ahead-of-venice-premiere-1236681827/
+### How Tim Curry Walked Into an Audition — and Became Frank-N-Furter
+Wed, 26 Aug 2026 16:58:24 +0000 — https://www.hollywoodreporter.com/movies/movie-features/tim-curry-dead-rocky-horror-clue-classics-1236682092/
 
-In Ali Asgari's drama, 'The Seed of the Sacred Fig' star Misagh Zareh plays a doctor who loses faith in the future after being arrested by the Iranian regime and having his medical practice shut down.
+'Rocky Horror' creator Richard O’Brien and 'Clue' writer-director Jonathan Lynn remember the extraordinary actor who turned two box office disappointments into immortal cult classics.
 
-### Alice and Steve Renewed for Season 2 at Disney+
-Wed, 26 Aug 2026 10:51:43 +0000 — https://www.hollywoodreporter.com/tv/tv-news/alice-and-steve-season-2-disney-nicola-walker-jemaine-show-1236681819/
+### Brad Pitt s Cliff Booth Movie Finally Gets Official Title From Netflix
+Wed, 26 Aug 2026 16:55:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-cliff-booth-further-misadventures-title-netflix-1236682186/
 
-Nicola Walker and Jemaine Clement star in the Disney-Hulu project, which produced heated online discourse over its central age-gap relationship upon the release of its first season.
+David Fincher directs the feature follow-up to 'Once Upon a Time in Hollywood' from Quentin Tarantino's script.
 
 ## Deadline
 
-### Alice And Steve Renewed For Season 2 At Disney+
-Wed, 26 Aug 2026 14:19:56 +0000 — https://deadline.com/2026/08/alice-and-steve-renewed-season-2-disney-plus-hulu-1237050880/
+### ‘Ted Lasso’ Stars Unpack “Turning Point” For Lady Greyhounds In Season 4’s Pub Quiz Episode
+Wed, 26 Aug 2026 18:16:43 +0000 — https://deadline.com/2026/08/ted-lasso-season-4-pub-quiz-team-bonding-interview-1237051342/
 
-Alice and Steve will be back for another go-round. Disney+ has renewed the British comedy series, starring Jemaine Clement and Nicola Walker, for a second season. It will be available on Disney+ in the UK and Ireland and on Disney+ and Hulu in the U.S. Created and written by Sophie Goodhart, Season 1 revolves around [ ]
+SPOILER ALERT: This post spoils Ted Lasso Season 4 Episode 4, titled Greyhounds Day Off. What starts out as a day off for the Lady Greyhounds in the fourth episode of Ted Lasso Season 4 quickly turns into an important team-bonding exercise, purposeful or not, when they attend Mae’s (Annette Badland) reinstated pub quiz night [ ]
 
-### Rupert Grint To Join Broadway s Harry Potter And the Cursed Child In Ron Weasley Reprise
-Wed, 26 Aug 2026 14:18:02 +0000 — https://deadline.com/2026/08/rupert-grint-harry-potter-and-the-cursed-child-broadway-1237050854/
+### YouTube Uses Set-Piece Speech To Protest That It s Not A Villain Intent On Toppling TV
+Wed, 26 Aug 2026 18:15:00 +0000 — https://deadline.com/2026/08/youtube-not-a-villain-edinburgh-speech-pedro-pina-1237048999/
 
-Rupert Grint, who played Ron Weasley in all eight of the Harry Potter films, will reprise the role on Broadway this winter, following in the footsteps of the movies Draco Malfoy and current Harry Potter and the Cursed Child star Tom Felton. Like Felton, Grint will portray the grown-up version of the role he originated [ ]
+YouTube has a message for the television industry: We are a friend, not a foe. In a set-piece speech at the Edinburgh TV Festival on Wednesday, Pedro Pina, YouTube s vice president in EMEA, said the video-sharing platform is not a villain for the traditional broadcasting business. Pina also took aim at the UK government s plan [ ]
 
-### Stephen Colbert Endorses Jimmy Kimmel For Emmy
-Wed, 26 Aug 2026 14:08:56 +0000 — https://deadline.com/2026/08/stephen-colbert-endorses-jimmy-kimmel-emmy-1237050856/
+### Evie Templeton Caylee Cowan Board Period Road Trip Drama I ll Go If You Go From Abby Tozer
+Wed, 26 Aug 2026 18:07:25 +0000 — https://deadline.com/2026/08/evie-templeton-caylee-cowan-to-star-ill-go-if-you-go-1237051382/
 
-Last year, Jimmy Kimmel threw his Emmy support behind Stephen Colbert after CBS axed The Late Show. The ABC host put up a billboard in LA, saying, “I’m voting for Stephen.” It clearly helped as Colbert picked up his first Emmy for Outstanding Talk Series last September as host of the storied CBS franchise. Now, [ ]
+EXCLUSIVE: Evie Templeton (Wednesday) is set to lead the 60s-set road-trip drama I ll Go If You Go alongside Caylee Cowan (Casey Affleck s upcoming Company) and Larsen Thompson (Tarot). The film, marking the feature debut of writer-director Abby Tozer, begins production in Shreveport, Louisiana this fall. Set in 1967 West Texas, I ll Go If You Go follows Ellie Mansfield (Templeton), a young [ ]
 
-### Netflix Sets Roald Dahl Series With Cast Including Nicola Coughlan, Imelda Staunton Dominic West
-Wed, 26 Aug 2026 14:05:00 +0000 — https://deadline.com/2026/08/netflix-roald-dahl-series-nicola-coughlan-dominic-west-1237050741/
+### Superman Sequel Man Of Tomorrow Wraps Filming: Truly A Joyful Experience
+Wed, 26 Aug 2026 18:03:53 +0000 — https://deadline.com/2026/08/superman-man-of-tomorrow-wraps-filming-1237051326/
 
-EXCLUSIVE: Netflix will delve deeper into the world of Roald Dahl with a new series based on the author s short stories for adults. The streaming giant has enlisted Danny Brocklehurst, the man behind hit series Fool Me Once, to write a six-part drama that will chart a course through some of Dahl s vignettes. It is [ ]
+James Gunn is sharing an update on the Superman sequel, Man of Tomorrow, as he marks the final day of principal photography. The DC Studios film, which is set for release on July 9, 2027, will have David Corenswet reprise his role as Clark Kent after this summer s Supergirl. That s a wrap on principal photography for Man of Tomorrow, [ ]
 
-### Meta Settles Landmark Social Media Addiction Case For $17 Billion, Enhanced Protections For Teens
-Wed, 26 Aug 2026 14:02:00 +0000 — https://deadline.com/2026/08/meta-agrees-to-settle-landmark-teen-social-media-addiction-case-1237050852/
+### The Pitt Star Noah Wyle Signs With WME
+Wed, 26 Aug 2026 17:49:10 +0000 — https://deadline.com/2026/08/the-pitt-noah-wyle-signs-wme-1237050577/
 
-California Attorney General Rob Bonta and coalition of 51 attorneys unveiled a proposed settlement with social media giant Meta parent of Facebook and Instagram for up to $17 billion along with remedies designed to help protect teens from alleged mental health harms associated with social media use, the crux of a landmark lawsuit, including [ ]
+EXCLUSIVE: Emmy winner Noah Wyle, star, executive producer, writer and director on the HBO Max hit medical drama The Pitt, has signed with WME for representation. He is moving to WME from Verve where he had been for a little over two years. The agency change comes as Wyle is ramping up his company Last [ ]
 
-### ‘The Love Hypothesis’ Trailer: Lili Reinhart’s Olive Tom Bateman’s Adam Carlsen Risk Fake Dating And “False Positive” Feelings
-Wed, 26 Aug 2026 14:00:42 +0000 — https://deadline.com/2026/08/the-love-hypothesis-trailer-lili-reinhart-tom-bateman-1236968946/
+### Brad Pitt s Tarantino Character Follow-Up Film Gets Title: The Further Mis-Adventures Of Cliff Booth
+Wed, 26 Aug 2026 17:47:33 +0000 — https://deadline.com/2026/08/brad-pitt-the-further-mis-adventures-of-cliff-booth-netflix-1237051300/
 
-Updated, August 26, 7 a.m.: A new trailer for Prime Video’s The Love Hypothesis film adaptation has arrived, set to Reneé Rapp’s “Messy.” Olive Smith (Lili Reinhart) will do anything for her best friend Ahn (Rachel Marsh), including surprise kiss the notorious Dr. Adam Carlsen — who is known to be very hard on his [ ]
+Brad Pitt is returning as Cliff Booth, his character from Once Upon a Time in Hollywood, and Netflix just revealed the title: The Further Mis-Adventures of Cliff Booth. Directed by David Fincher and written by Quentin Tarantino, the film will premiere in IMAX on November 25 for a two-week engagement, followed by its release on [ ]
 
-### Deadline Launches L.A. Law Legal Summit To Tackle Key Hollywood Issues, Honor Patricia Glaser Nina Shaw
-Wed, 26 Aug 2026 13:45:00 +0000 — https://deadline.com/2026/08/legal-summit-la-law-september-1237050560/
+### DAZN Acquiring EverPass Media In U.S. Expansion
+Wed, 26 Aug 2026 17:42:38 +0000 — https://deadline.com/2026/08/dazn-acquiring-everpass-media-nfl-sunday-ticket-commercial-rights-1237051214/
 
-The first thing we do, let s kill all the lawyers, Shakespeare famously wrote 500 years ago. All respect to the Bard, but we disagree. Which is why on September 17, 2026, Deadline wants to celebrate the lawyers — especially the ones holding down the Hollywood fort. Joined by heavy hitters and game changers from the [ ]
+Global sports platform DAZN is acquiring EverPass, the three-year-old media tech company founded by RedBird Capital and NFL strategic investment arm 32 Equity that helps bring live sports and events to bars, restaurants, hotels and other commercial venues. Financial details weren’t disclosed. Gerry Cardinale’s RedBird, 32 Equity, and early EverPass investor TKO Group will become [ ]
 
-### New York City Landmarks Dazzle For Dolly Parton
-Wed, 26 Aug 2026 13:29:08 +0000 — https://deadline.com/2026/08/new-york-dolly-parton-empire-state-building-1237050826/
+### Big Brother: The Group Chat Sets Kate Lawler GK Barry As Hosts Of ITV2 s BBUK Companion Show
+Wed, 26 Aug 2026 17:17:34 +0000 — https://deadline.com/2026/08/big-brother-the-group-chat-kate-lawler-gk-barry-hosts-itv2-1237051280/
 
-Two New York City icons shone a dazzling pink last night in honor of another icon, the great Dolly Parton, who died yesterday following a brief battle with cancer. Both the Empire State Building and the One Times Square New Year s Eve dropping ball were lit with pink lights in Parton s memory. Fittingly, both sites [ ]
+ITV2 has confirmed that Big Brother UK legend Kate Lawler and podcast GK Barry will co-host Big Brother: The Group Chat. The new BBUK companion series will take over Big Brother: Late Live, which had been hosted by AJ Odudu and Will Best since the reality competition landed on ITV2 in 2023. Big Brother: [ ]
 
-### Paramount UK Chief Ben Frow On Legal Battle Over 5 Crime Drama: We Take Welfare Very Seriously
-Wed, 26 Aug 2026 13:23:42 +0000 — https://deadline.com/2026/08/paramount-ben-frow-legal-fight-blackbox-1237050825/
+### Rob Bonta Says It s Telling Meta Settled With State AGs In The Midst Of Instagram Head Adam Mosseri s Testimony Before Mark Zuckerberg Took The Stand
+Wed, 26 Aug 2026 17:10:19 +0000 — https://deadline.com/2026/08/meta-settlement-rob-bonta-instagram-facebook-1237051205/
 
-Paramount UK content chief Ben Frow has said he has no qualms about scrapping shows to protect contributor welfare amid a legal battle over a collapsed 5 drama series. In an interview at the Edinburgh TV Festival, Frow was asked about Deadline s story on Tuesday, which revealed that Paramount s British network 5 is fighting a [ ]
+California Attorney General Rob Bonta took a victory lap following a proposed settlement of up to $17 billion for claims brought by 51 attorneys general against Meta, suggesting that the parent of Instagram and Facebook realized that a trial was not going well for their side. As Bonta went through details of the settlement, including [ ]
 
-### Wild Horse Nine First Clip: John Malkovich Sam Rockwell Get Themselves Into Trouble In Martin McDonagh s Dark Comedy
-Wed, 26 Aug 2026 13:01:00 +0000 — https://deadline.com/2026/08/wild-horse-nine-first-clip-john-malkovich-sam-rockwell-1237050770/
+### MGM Alternative’s Kitty Gambel Joins Skydance Sports
+Wed, 26 Aug 2026 17:07:48 +0000 — https://deadline.com/2026/08/mgm-alternative-kitty-gambel-skydance-sports-1237048977/
 
-EXCLUSIVE: Here s a fun first clip from Martin McDonagh s anticipated crime-dramedy Wild Horse Nine, which launches next week at the Venice Film Festival. Set just before the 1973 Chilean coup, pic stars John Malkovich and Sam Rockwell as CIA agents Chris and Lee, who are dispatched from Santiago to Easter Island by their bureau chief, MJ (Steve Buscemi). As the longtime [ ]
+EXCLUSIVE: Skydance Sports has a new SVP of Alternative Unscripted. The Paramount-owned company has hired Kitty Gambel, who was SVP, Unscripted and Alternative TV at Amazon’s MGM Alternative. Gambel joins the company on September 8 and will report to Skydance Sports’ Head of Unscripted Jon Weinbach. At MGM Alternative, Gambel was the creative lead, where [ ]
 
-### British Drama Series ‘Secret Service’ Starring Gemma Arterton Lands At MGM+
-Wed, 26 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/secret-service-gemma-arterton-mgm-1237050419/
+### James Gunn Gives DCU Update Amid Paramount-Warner Bros. Merger Debunks Batman s The Brave The Bold Report
+Wed, 26 Aug 2026 17:00:16 +0000 — https://deadline.com/2026/08/james-gunn-dcu-update-paramount-warner-bros-merger-batman-1237051222/
 
-Gemma Arterton-led drama Secret Service has landed a U.S. home. The spy thriller will stream on MGM+ after the streamer picked up rights for North America, Latin America and Italy. The five-part series, which is based on a book by Tom Bradby, a news anchor who hosts the British broadcaster’s News At Ten, stars Arterton [ ]
+James Gunn is clearing up several reports about DC Studios projects amid the Paramount-Warner Bros. merger. The merger of the two media companies is at a standstill, but that doesn t mean that development of superhero franchises at DC is on hold. Answering a fan query on Threads about the current status of DCU development projects, [ ]
 
-### Hulu To Explore Murder Of Dan Markel In Docuseries
-Wed, 26 Aug 2026 12:45:00 +0000 — https://deadline.com/2026/08/hulu-murder-of-dan-markel-docuseries-1237049909/
+### Sarah Pidgeon Joins Netflix s Enigma Variations Post- Love Story ; Peter Hermann, Juliana Canfield Francesca Cavallin Also Cast
+Wed, 26 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/sarah-pidgeon-netflix-enigma-variations-love-story-1237050650/
 
-EXCLUSIVE: Hulu is continuing to ramp up its true-crime docuseries lineup. The streamer is exploring the murder of Florida attorney and law professor Dan Markel in a four-part series. Welcome To The Family: The Murder of Dan Markel reveals the “dark secrets of a wealthy family centered around the brutal murder”. Markel was killed in Tallahassee, Florida [ ]
+EXCLUSIVE: In her followup to her Emmy-nominated role as Carolyn Bessette in FX s Love Story, Sarah Pidgeon has been tapped for the last remaining female lead opposite Aaron Taylor-Johnson in Netflix s limited series Enigma Variations. Also joining the adaptation of the bestselling novel by André Aciman are Younger star Peter Hermann, Pidgeon s fellow Tony-nominated Stereophonic [ ]
 
