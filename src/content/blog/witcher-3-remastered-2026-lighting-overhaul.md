@@ -4,7 +4,6 @@ date: 2026-08-26
 category: Games
 excerpt: CD Projekt Red announced a second free overhaul of an eleven-year-old game at Gamescom, and buried in the "30-plus upgrades" list is a genuine global illumination rework. That is the part worth caring about.
 cover: /img/blog/witcher-3-remastered-2026-lighting-overhaul/shot-01.jpg
-draft: true
 ---
 
 September 29. That's the date CD Projekt Red gave the Gamescom Opening Night Live crowd for The Witcher 3: Wild Hunt — Remastered, and the number that actually matters isn't the date. It's the count of how many times this specific game has now been rebuilt for current hardware: this is the second free overhaul since the PS5/Series X next-gen update shipped in December 2022. Same base game, same eleven years since launch, and CD Projekt Red is going back in.
