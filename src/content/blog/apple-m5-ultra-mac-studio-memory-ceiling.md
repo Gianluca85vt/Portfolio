@@ -4,7 +4,6 @@ date: 2026-08-26
 category: Tech
 excerpt: The new Mac Studio keeps the half-terabyte unified memory ceiling Apple set in March 2025 and raises the bandwidth behind it by half. For anyone who has watched a GPU render fall off the VRAM cliff, bandwidth is the number worth reading.
 cover: /img/blog/apple-m5-ultra-mac-studio-memory-ceiling/cover.svg
-draft: true
 ---
 
 There's a moment in a GPU render that anyone who does this for a living
