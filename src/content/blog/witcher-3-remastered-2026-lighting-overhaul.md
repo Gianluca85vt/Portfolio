@@ -3,7 +3,7 @@ title: The Witcher 3 got a next-gen patch in 2022. This one is going after the l
 date: 2026-08-26
 category: Games
 excerpt: CD Projekt Red announced a second free overhaul of an eleven-year-old game at Gamescom, and buried in the "30-plus upgrades" list is a genuine global illumination rework. That's the part worth caring about.
-cover: /img/blog/witcher-3-remastered-2026-lighting-overhaul/cover.svg
+cover: /img/blog/witcher-3-remastered-2026-lighting-overhaul/shot-01.jpg
 draft: true
 ---
 
@@ -12,6 +12,11 @@ September 29. That's the date CD Projekt Red gave the Gamescom Opening Night Liv
 Free for existing owners on PC, PS5 and Xbox Series X/S. A native Switch 2 version, also free to anyone upgrading. And, in a move nobody had on their bingo card, a native release on Battle.net — the first Witcher game to sit next to Blizzard's library. Hearts of Stone and Blood and Wine become free additions for everyone who owns the base game, which is either generosity or a way of making sure nobody reviews Songs of the Past, the new 2027 expansion, without the full trilogy of tone sitting behind it.
 
 ## The list is long. Most of a remaster list always is
+
+<figure>
+  <img src="/img/blog/witcher-3-remastered-2026-lighting-overhaul/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>CD Projekt Red, via the official Witcher 3 Steam page</figcaption>
+</figure>
 
 The press materials count more than thirty upgrades: reworked combat, revised movement, a skill tree pass, transmogrification, an expanded photo mode, new Witcher Sign effects, revamped Roach handling. That is a real list and none of it is nothing, but a bullet-point count is a marketing unit, not an engineering one. Swapping an icon and re-authoring a lighting rig both get one line each.
 
