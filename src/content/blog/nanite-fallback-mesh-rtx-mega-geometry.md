@@ -4,7 +4,6 @@ date: 2026-08-26
 category: 3D
 excerpt: RTX Mega Geometry lets Unreal Engine 5 ray-trace Nanite's actual cluster geometry instead of a decimated fallback mesh, and Gears of War E-Day is the first shipping game built on it.
 cover: /img/blog/nanite-fallback-mesh-rtx-mega-geometry/shot-01.jpg
-draft: true
 ---
 
 Look closely at a thin railing under a hard directional light in almost any
