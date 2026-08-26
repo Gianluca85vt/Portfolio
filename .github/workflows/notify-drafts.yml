@@ -8,6 +8,11 @@ name: Drafts — fetch images, then email for review
 # already has its artwork, not one that gets pictures a minute later.
 
 on:
+  # A manual trigger, because Actions occasionally drops a run at startup and
+  # the images and the review email are then simply never produced. Re-running
+  # from the Actions tab is the fix, and it needs this line to be offered.
+  workflow_dispatch:
+
   push:
     branches: [main]
     paths:

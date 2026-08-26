@@ -1,0 +1,3 @@
+The scheduled writer drops <slug>.json files here; the Drafts workflow reads
+them, fetches the images and deletes them again. This file just keeps the
+directory in git while it is empty.
