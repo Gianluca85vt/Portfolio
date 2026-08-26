@@ -4,7 +4,6 @@ date: 2026-08-26
 category: Manga
 excerpt: France and Saudi Arabia announced about €6 billion for three theme parks outside Paris this week, one of them Dragon Ball. Qiddiya has been building the first one since 2024, and its centrepiece is a character that only ever existed as a silhouette.
 cover: /img/blog/dragon-ball-theme-park-shenron-anatomy/cover.svg
-draft: true
 ---
 
 Seventy metres of Shenron, with a rollercoaster running through him.
