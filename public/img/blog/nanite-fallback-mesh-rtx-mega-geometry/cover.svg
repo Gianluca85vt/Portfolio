@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="RTX Mega Geometry lets Unreal Engine 5 ray-trace Nanite's real geometry instead of a decimated fallback mesh">
+  <defs>
+    <linearGradient id="bgMG" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#4A1508"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="accentMG" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BE4C00"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgMG)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="120" font-size="24" letter-spacing="5" fill="#FFFFFF" fill-opacity="0.5" font-weight="bold">GAMESCOM 2026 &#183; UNREAL ENGINE 5</text>
+
+    <text x="600" y="255" font-size="98" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">MEGA</text>
+    <text x="600" y="350" font-size="98" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">GEOMETRY</text>
+
+    <text x="600" y="400" font-size="24" fill="#FFFFFF" fill-opacity="0.65" font-weight="bold">
+      NANITE STOPS RAY-TRACING A STAND-IN
+    </text>
+  </g>
+
+  <rect x="490" y="432" width="220" height="8" rx="4" fill="url(#accentMG)"/>
+
+  <!-- a railing: the true silhouette in solid white, its old fallback shadow as a dashed offset ghost -->
+  <g stroke-linecap="round">
+    <line x1="260" y1="760" x2="940" y2="760" stroke="#FFFFFF" stroke-opacity="0.8" stroke-width="10"/>
+    <g stroke="#FFFFFF" stroke-opacity="0.8" stroke-width="10">
+      <line x1="300" y1="760" x2="300" y2="640"/>
+      <line x1="380" y1="760" x2="380" y2="640"/>
+      <line x1="460" y1="760" x2="460" y2="640"/>
+      <line x1="540" y1="760" x2="540" y2="640"/>
+      <line x1="620" y1="760" x2="620" y2="640"/>
+      <line x1="700" y1="760" x2="700" y2="640"/>
+      <line x1="780" y1="760" x2="780" y2="640"/>
+      <line x1="860" y1="760" x2="860" y2="640"/>
+    </g>
+
+    <!-- the mismatched fallback-mesh shadow: thicker, coarser, offset -->
+    <g stroke="#000000" stroke-opacity="0.45" stroke-width="20" stroke-dasharray="4 26">
+      <line x1="312" y1="778" x2="312" y2="648"/>
+      <line x1="472" y1="778" x2="472" y2="648"/>
+      <line x1="632" y1="778" x2="632" y2="648"/>
+      <line x1="792" y1="778" x2="792" y2="648"/>
+    </g>
+  </g>
+
+  <text x="600" y="835" font-size="20" fill="#FFFFFF" fill-opacity="0.55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    THE GHOST BARS ARE WHAT THE OLD FALLBACK MESH TRACED INSTEAD
+  </text>
+</svg>
