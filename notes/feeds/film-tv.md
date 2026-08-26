@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-25T17:17:15.944Z
+# Film & TV — harvested 2026-08-26T05:15:58.288Z
 
 ## Variety
 
-### ‘Only Murders in the Building’ Reveals Season 6 Release Date, First Look at New London Setting (TV News Roundup)
-Tue, 25 Aug 2026 17:14:33 +0000 — https://variety.com/2026/tv/news/tv-news-roundup-week-of-august-24-1236842676/
+### Heroes Stars Throw Reunion to Celebrate the Life of Hayden Panettiere: So Much Love, Gratitude and Warmth
+Wed, 26 Aug 2026 04:01:01 +0000 — https://variety.com/2026/tv/news/heroes-cast-reunion-celebrate-life-of-hayden-panettiere-1236843535/
 
-“Only Murders in the Building” has set a release date for Season 6 on Hulu, but the crime-solving trio will not be in the building. Season 6 of the show takes a trip over the pond as “Only Murders in London.” The season premieres Dec. 8 on Hulu with new episodes on Tuesdays. Charles (Steve [ ]
+The cast of “Heroes” got together to celebrate the life of their co-star Hayden Panettiere, who died on Aug. 16 at 36 years old. A ‘HEROES’ reunion to celebrate the life of HAYDEN was deeply emotional,” series star Jimmy Jean-Louis wrote on X, sharing photos of himself with his former castmates. “There was sadness in [ ]
 
-### Variety Confidential Podcast Releases Special Episode Diving Into the Business of True Crime Storytelling
-Tue, 25 Aug 2026 17:00:00 +0000 — https://variety.com/2026/digital/news/variety-confidential-episode-true-crime-storytelling-1236834875/
+### Taylor Swift Pays Tribute to Dolly Parton: She Was True Grace and True Grit, All in One Dazzling Person
+Wed, 26 Aug 2026 03:00:43 +0000 — https://variety.com/2026/music/news/taylor-swift-dolly-parton-tribute-dead-1236842794/
 
-As the true crime content space continues to grow, both in documentary and audio formats, top producers, filmmakers and network executives behind shows like Quiet on Set, The Fall of Diddy and House of Hammer joined Variety s Kate Aurthur, Emily Longeretta and Ethan Shanfeld for a special episode of Variety s Variety Confidential podcast. The voices [ ]
+Taylor Swift shared a touching tribute to the late Dolly Parton after the iconic singer-songwriter’s death on Tuesday. “A world without Dolly doesn’t feel possible, real, or right, it reads. But because of the eternally generous way she spent her time on this earth and the countless lives she changed for the better, her legacy [ ]
 
-### USA Network Orders Rome-Set Medical Drama Diplomatic Immunity, From Matt Corman and Chris Ord
-Tue, 25 Aug 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/usa-network-medical-drama-diplomatic-immunity-1236842096/
+### Jane Fonda Slams Paramount For Calling Mark Ruffalo s Comments ‘Antisemitic : A Smear to Delegitimize Criticism of the Merger
+Wed, 26 Aug 2026 02:42:02 +0000 — https://variety.com/2026/film/news/jane-fonda-paramount-mark-ruffalo-smear-merger-warner-bros-1236843419/
 
-USA Network has added a third original drama series to its lineup: The cabler has given a straight-to-series order for Diplomatic Immunity,” an hour-long medical drama written by Matt Corman and Chris Ord. The series joins The Rainmaker” and the recently launched Anna Pigeon” as original scripted series on USA Network, which has been aiming [ ]
+Jane Fonda has released a statement in support of Mark Ruffalo after Paramount slammed the four-time Oscar nominee as “antisemitic” for a recent post denouncing Larry Ellison’s ties to Israel and David Ellison’s planned merger with Warner Bros. “Especially as a Jewish American, I find it deeply troubling to see false accusations of antisemitism used [ ]
 
-### Can Rob Bonta Make His Case Against Paramount Without the Three Largest Theater Chains?
-Tue, 25 Aug 2026 16:50:39 +0000 — https://variety.com/2026/film/news/rob-bonta-paramount-theater-chains-1236842584/
+### Iowa Attorney General Says She s Taking California to the Supreme Court Over Paramount-Warner Bros. Lawsuit
+Wed, 26 Aug 2026 01:34:48 +0000 — https://variety.com/2026/film/news/iowa-attorney-general-sue-california-paramount-warner-bros-1236843385/
 
-California Attorney General Rob Bonta has been on a roll. Arguing that the Paramount-Warner Bros. merger will harm theaters and cable providers, he brought an antitrust suit in July and managed to stall the deal until next spring. But his winning streak couldn’t last forever. Last week, Cinemark joined AMC and Regal in backing the [ ]
+Iowa Attorney General Brenna Bird wrote in an op-ed for The Daily Wire that she is suing California for leading the charge in the lawsuit against the Paramount-Warner Bros. merger. “California is once again trying to be the country’s regulator. And once again California is defying common sense to raise costs around the country,” Bird [ ]
 
-### From Donnie Darko to Kenan Kel Meet Zombies, How Range Literary Publishing Is Facilitating the Relationship Between Hollywood and the Book Biz
-Tue, 25 Aug 2026 16:45:00 +0000 — https://variety.com/2026/biz/news/range-literary-publishing-hollywood-book-partnership-1236841848/
+### ‘Love Island USA’ Host Ariana Madix on Bringing Sexiness and Danger to Her Hosting Gig: I Initially Scare the Crap Out of Islanders
+Wed, 26 Aug 2026 01:32:17 +0000 — https://variety.com/2026/awards/features/ariana-madix-love-island-usa-host-sexiness-island-1236840928/
 
-Over its first year in business, Range Media Partners boutique publishing firm Range Literary Publishing has been quietly working with talent to build out its debut slate. On Tuesday, RLP celebrated with a very big announcement: the release of a book sequel to “Donnie Darko” from filmmaker Richard Kelly. It s a bold first novel project [ ]
+Ariana Madix has had a meteoric rise as a host — one that landed her an Emmy nomination this year. After a guest-hosting gig during the fifth season of the summertime dating show “Love Island USA,” she officially took over the reins for the sixth season in 2024. Two years later, she has wrapped Season [ ]
 
-### Woody Allen s New Madrid-Set Movie Comes With Millions in Public Funding — and a Few Strings Attached
-Tue, 25 Aug 2026 16:35:10 +0000 — https://variety.com/2026/film/global/woody-allen-madrid-movie-public-funding-city-title-1236842447/
+### Paranormal Activity Review: Spooky Franchise Gets a Hair-Raising Stage Experience
+Wed, 26 Aug 2026 01:00:00 +0000 — https://variety.com/2026/legit/reviews/paranormal-activity-review-broadway-stage-experience-1236841925/
 
-Over the past two decades, Woody Allen has delivered a string of cinematic love letters to Europe — from Barcelona to Rome to Paris — some of them carrying the glossy allure of tourist postcards. His late-career focus on Europe intensified after his already divisive profile in Hollywood took a hit when longstanding sexual abuse [ ]
+Taking the spirit of the “Paranormal Activity” films and turning it into a scare-‘em stage experience could have been a terrifying trip for its creators, too. After all, horror isn’t exactly a Broadway staple and producers have mostly given up that particular ghost. But the franchise — Oren Peli’s indie film was originally shot in [ ]
 
-### Donnie Darko Sequel Book to Release This Year From Filmmaker Richard Kelly; Cover and Teaser Revealed (EXCLUSIVE)
-Tue, 25 Aug 2026 16:30:00 +0000 — https://variety.com/2026/film/news/donnie-darko-sequel-book-release-cover-teaser-1236841844/
+### Can Guy Fieri Unite America? Inside His Lifelong Advocacy of Global Cuisine: When You Talk About Food, You Talk About Culture
+Wed, 26 Aug 2026 00:46:20 +0000 — https://variety.com/2026/awards/features/guy-fieri-diners-drive-ins-and-dives-host-unite-america-1236840922/
 
-It s a very, very mad world: A book sequel to the 2001 cult classic film “Donnie Darko” will be releasing later this year from filmmaker Richard Kelly and Range Literary Publishing. Titled, “The Philosophy of Time Travel,” the approximately 800-page book will take place in 1988, in the immediate aftermath of the original film, which [ ]
+“I called Taylor Sheridan to ask him just for some meat for the event. Taylor said, ‘I’ll only give you the meat if I can come cook it.’ And Taylor Sheridan shows up to cook.” Guy Fieri is reminiscing about a 2023 fundraiser he held for Maui fire relief that made $1.7 million for restaurants, [ ]
 
-### Robocop TV Series Casts Dan Stevens in Lead Role
-Tue, 25 Aug 2026 16:10:34 +0000 — https://variety.com/2026/tv/news/robocop-tv-series-cast-dan-stevens-1236842597/
+### Luis Castro, Trish Reilly and Barry Wilkinson Named 2026 MacGuffin Award Honorees
+Wed, 26 Aug 2026 00:15:00 +0000 — https://variety.com/2026/artisans/news/property-masters-guild-macguffin-award-honorees-1236841984/
 
-Dan Stevens is set for the title role in the Robocop TV series at Amazon Prime Video, Variety has confirmed. The show was originally announced in July at the streamer. Prime Video has given the show an eight-episode order. The project has been in development since Amazon acquired MGM in 2022, with Amazon looking to [ ]
+Luis Castro, Trish Reilly and Barry Wilkinson will be honored at the third annual MacGuffin Awards. The Property Masters Guild aims to highlight and elevate the craft of the Property Master by raising awareness, fostering collaboration among craft artisans, educating its members and inspiring future generations of Property Masters. The honorees, recognized for their craftsmanship, [ ]
 
-### Andrew Garfield Opens Up About Playing Sam Altman in ‘Artificial,’ Says OpenAI Is Doing Damage to the Soul of Humanity’
-Tue, 25 Aug 2026 16:01:38 +0000 — https://variety.com/2026/film/news/andrew-garfield-talks-playing-sam-altman-artificial-open-ai-1236842579/
+### The Dog Stars Review: Jacob Elordi s Sensitive Survivalist Can t Sustain a Dreary Dystopian Adventure
+Wed, 26 Aug 2026 00:00:00 +0000 — https://variety.com/2026/film/reviews/the-dog-stars-review-jacob-elordi-1236839483/
 
-Andrew Garfield is opening up about stepping into the shoes of OpenAI CEO Sam Altman in Luca Guadagnino s upcoming film “Artificial. Garfield portrays the tech executive in the drama, which takes place during the five-day corporate saga in November 2023 that saw Altman abruptly fired as OpenAI CEO before ultimately returning to the company. In [ ]
+It s the end of the world as we know it in The Dog Stars, and everyone feels — well, not fine exactly, but, you know, fine? Alive, hanging in there, taking it one day at a time. Things could be better, which goes without saying in the aftermath of a flu pandemic that has wiped [ ]
 
-### ‘Dunkman’: How Shaquille O’Neal Made Dunk Contests Great Again
-Tue, 25 Aug 2026 16:01:14 +0000 — https://variety.com/2026/tv/news/shaquille-o-neal-dunkman-lakers-sale-kobe-bryant-1236842517/
+### Lee Jung-eun, Kim Moo-yul Board Netflix s Action-Noir Series The Shooter
+Wed, 26 Aug 2026 00:00:00 +0000 — https://variety.com/2026/tv/news/lee-jung-eun-kim-moo-yul-netflix-the-shooter-1236842363/
 
-Shaquille O’Neal loves solving problems. The basketball icon and four-time NBA champion, 54, has two master’s degrees, a doctorate, served as a sheriff’s deputy and honorary U.S. Marshal, and once played for Doc Rivers. Back in 2016, the basketball icon needed to install a home security system only to have a company quote him $60,000 [ ]
+Netflix has confirmed production on The Shooter (working title), an action-noir series that pairs Lee Jung-eun with Kim Moo-yul, marking Lee s first outing in an action role. Lee s turn comes on the heels of My Daughter Is a Zombie, one of South Korea s top-grossing films of 2025. Kim joins her fresh off Teach You a [ ]
 
 ## The Hollywood Reporter
 
-### Jim Green, Former ABC Executive and Producer of ‘Stephen King’s It,’ Dies at 83
-Tue, 25 Aug 2026 17:04:16 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jim-green-dead-abc-stephen-king-it-fallen-angel-1236680809/
+### Haim Saban, Lawrence Bender and Teddy Schwarzman Among Industry Group Accusing Mark Ruffalo of Antisemitism in Attack on Paramount Leadership
+Wed, 26 Aug 2026 04:31:36 +0000 — https://www.hollywoodreporter.com/business/business-news/haim-saban-lawrence-bender-teddy-schwarzman-slam-mark-ruffalo-1236681689/
 
-He also helped develop ‘Duel’ and ‘Brian’s Song,’ shepherded ‘Fallen Angel’ and the miniseries ‘And the Sea Will Tell’ and worked with Mary-Kate and Ashley Olsen.
+The group, calling itself The Brigade, also includes Ram Bergman, Matti Leshem, Anthony Bregman, Micah Green and Lynn Harris.
 
-### Medical Drama Diplomatic Immunity Scores USA Series Order
-Tue, 25 Aug 2026 17:03:55 +0000 — https://www.hollywoodreporter.com/tv/tv-news/usa-network-medical-drama-diplomatic-immunity-1236680746/
+### Dolly Parton, a Hollywood Treasure Who Lit Up the Screen With Her Authentic Self
+Wed, 26 Aug 2026 02:58:25 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/dolly-parton-film-critic-tribute-9-to-5-steel-magnolias-1236681618/
 
-The show comes from 'Covert Affairs' creators Matt Corman and Chris Ord and Fox Entertainment Studios.
+The country superstar was a luminous natural in a small but indelible body of much-loved feature films, chief among them '9 to 5,' 'The Best Little Whorehouse in Texas' and 'Steel Magnolias.'
 
-### How ‘The Five Star Weekend’ Could Expand the Book Into a Multi-Season Series
-Tue, 25 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/five-star-weekend-season-two-showrunner-interview-1236678167/
+### Taylor Swift Remembers Dolly Parton s True Grace and Grit : Her Legacy Will Be Everlasting
+Wed, 26 Aug 2026 02:56:56 +0000 — https://www.hollywoodreporter.com/music/music-news/taylor-swift-dolly-parton-dead-tribute-1236681122/
 
-Writer and executive producer Bekah Brunstetter explains key changes and how she tried to visualize the perfect image vs. messier emotional reality theme from the Elin Hilderbrand book in the Jennifer Garner-starring Peacock series, which was recently renewed for a second season.
+The 14-time Grammy Award winner previously told The Hollywood Reporter that Parton was "a force of evolution and transformation in our industry."
 
-### Oscars: Germany Picks Cannes Winner Everytime as Best International Feature Selection
-Tue, 25 Aug 2026 16:48:01 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-everytime-is-germany-international-feature-pick-1236680770/
+### The Best Tinted Sunscreens to Achieve Off-Duty (UV-Protected) Beauty
+Wed, 26 Aug 2026 02:45:26 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-tinted-sunscreens-for-face-tinted-moisturizer-with-spf-1236680284/
 
-Sandra Wollner’s drama about grief and loss won the Un Certain Regard section in Cannes.
+These Hollywood-coveted, editor-tested formulas blend makeup, skin care and, of course, sun care.
 
-### Neil LaBute to Receive Career Honor at Oldenburg Film Festival
-Tue, 25 Aug 2026 16:37:39 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oldenburg-career-honor-for-director-neil-labute-1236680567/
+### Jelly Roll Takes Jabs at Donald Trump While Guest Hosting Jimmy Kimmel Live!
+Wed, 26 Aug 2026 02:42:44 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jelly-roll-jokes-donald-trump-guest-host-jimmy-kimmel-live-1236681630/
 
-'Murderous,' the new film from the director of 'In the Company of Men,' 'Your Friends Neighbors' and 'Nurse Betty,' will have its world premiere at the German indie festival.
+"In the last few years, I’ve lost 300 pounds. That means I’ve lost an entire Donald Trump," the country star quipped during the opening monologue.
 
-### Daniel Dae Kim and His Production Company 3AD Jump to CAA (Exclusive)
-Tue, 25 Aug 2026 16:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/daniel-dae-kim-production-company-3ad-caa-representation-1236680418/
+### Beyoncé Remembers Dolly Parton as Bold and Brilliant in Touching Tribute
+Wed, 26 Aug 2026 00:36:03 +0000 — https://www.hollywoodreporter.com/music/music-news/beyonce-remembers-dolly-parton-dead-tribute-1236681538/
 
-The veteran star, previously with UTA, has had a busy few years in front of and behind the screen.
+The queen of country died at 80 years old on Tuesday after a “brief battle with cancer,” her reps announced.
 
-### Leonard Morpurgo, Veteran Hollywood Publicist, Dies at 93
-Tue, 25 Aug 2026 16:29:35 +0000 — https://www.hollywoodreporter.com/business/business-news/leonard-morpurgo-dead-rogers-cowan-universal-columbia-1236680751/
+### ‘20/20’ Sets Dolly Parton Special Tribute: Where to Watch Online
+Wed, 26 Aug 2026 00:01:58 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-dolly-parton-20-20-special-aug-25-2026-streaming-free-1236681447/
 
-The London native worked at Rogers Cowan, Universal Studios, Columbia Pictures, CBS Theatrical Films and Lorimar Pictures.
+Airing Aug. 25, the episode joins a growing list of dedicated primetime coverage from networks like CBS and CMT.
 
-### The Gilded Age Drops Season 4 Teaser Ahead of November Return
-Tue, 25 Aug 2026 16:28:19 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-gilded-age-season-4-teaser-november-premiere-1236680733/
+### ‘The Dog Stars’ Review: Jacob Elordi and Margaret Qualley in Ridley Scott’s Subdued but Pleasingly Soulful Dystopian Western
+Wed, 26 Aug 2026 00:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-dog-stars-review-jacob-elordi-ridley-scott-1236680319/
 
-The HBO series promises a continuation of its late 19th century intrigue in the 90-second clip.
+Josh Brolin, Guy Pearce, Allison Janney and Benedict Wong also star in this adaptation of Peter Heller’s novel about survivors trying to stay alive in a post-apocalyptic future.
 
-### Dan Stevens Cast as RoboCop in Prime Video s Reboot
-Tue, 25 Aug 2026 16:22:15 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dan-stevens-robocop-prime-video-1236680755/
+### Netflix Sets Lee Jung-eun, Kim Moo-yul for Korean Action-Noir Series The Shooter
+Wed, 26 Aug 2026 00:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/netflix-lee-jung-eun-kim-moo-yul-korean-series-the-shooter-1236680472/
 
-The actor has will take the lead in Amazon's update of the sci-fi series.
+From the director of ‘A Shop for Killers,’ the new series casts Lee Jung-eun, of 'Parasite' fame, as a woman in her 70s who is driven to pick up a gun after her grandson is attacked.
 
-### Awards Categories Set for Cannes-Winning All of a Sudden Actresses Virginie Efira and Tao Okamoto (Exclusive)
-Tue, 25 Aug 2026 16:11:01 +0000 — https://www.hollywoodreporter.com/movies/movie-news/virginie-efira-tao-okamoto-awards-campaign-all-of-a-sudden-1236680696/
+### Dolly Parton s Cause of Death Revealed
+Wed, 26 Aug 2026 00:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/dolly-parton-cause-of-death-cancer-1236681221/
 
-Neon, which will release Ryusuke Hamaguchi's French-language film in the U.S., will push Efira, who plays the director of a Paris nursing home in the film, for best actress, and Okamoto, who plays a terminally-ill Japanese playwright, for best supporting actress.
+The country music icon, who was hospitalized Friday and died Tuesday, recently acknowledged that she had neglected her health as she looked after her husband, who died in 2025.
 
 ## Deadline
 
-### Noah Wyle Builds Production Company With Jeremy Gold Hire Under Warner Bros. TV Overall Deal
-Tue, 25 Aug 2026 17:09:34 +0000 — https://deadline.com/2026/08/noah-wyle-last-call-productions-jeremy-gold-warner-bros-tv-1237047675/
+### Iowa MAGA AG Wants To Take California Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe
+Wed, 26 Aug 2026 05:09:42 +0000 — https://deadline.com/2026/08/paramount-merger-supreme-court-threat-iowa-1237050615/
 
-EXCLUSIVE: Noah Wyle is scaling up his company Last Call Productions as part of The Pitt star and executive producer s overall deal with Warner Bros. Television, which is behind the Emmy-winning medical drama. In his first major move six months into the multi-year pact, Wyle has brought in veteran TV executive Jeremy Gold as Head [ ]
+With friends like Iowa Attorney General Brenna Bird, does Paramount and David Ellison really need enemies? In an op-ed penned for the conservative Daily Wire Tuesday, the Hawkeye State ally of Donald Trump is threatening to take California to the Supreme Court. Declaring that California is once again trying to be the country’s regulator, Bird [ ]
 
-### The Pitt Composers Andrew Bird Gavin Brivik To Perform Emmy-Nommed Song At MPTF Benefit
-Tue, 25 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/the-pitt-composers-perform-need-someone-mptf-benefit-1237047667/
+### Heroes Cast Reunites To Celebrate The Life Of Hayden Panettiere: Was Deeply Emotional
+Wed, 26 Aug 2026 03:30:15 +0000 — https://deadline.com/2026/08/heroes-cast-reunion-celebrate-life-hayden-panettiere-1237050622/
 
-EXCLUSIVE: The MPTF needed someone to perform at its pre-Emmys fundraising event but not anymore. The Pitt composers Andrew Bird and Gavin Brivik will play their Emmy-nominated song Need Someone at the Motion Picture Television Fund s 20th annual Evening Before benefit on September 13, the night before the 78th annual Emmy Awards. The duo [ ]
+Hayden Panettiere died on August 16, and her former Heroes co-stars reunited to celebrate her life. Jimmy Jean-Louis, who played The Haitian in the superhero series, shared photos of the reunion to remember the late actress. A Heroes reunion to celebrate the life of HAYDEN was deeply emotional, Jean-Louis captioned the post on X, the microblogging platform [ ]
 
-### Property Masters Guild Sets 2026 MacGuffin Awards Career Honorees
-Tue, 25 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/2026-macguffin-awards-career-honorees-property-masters-guild-1237049403/
+### Taylor Swift Praises The Late Great Dolly Parton s Life Legacy: She Was Truly The Gift That Kept On Giving
+Wed, 26 Aug 2026 03:14:00 +0000 — https://deadline.com/2026/08/dolly-parton-taylor-swift-death-reaction-1237050617/
 
-The Property Masters Guild has set a trio of honorees to be feted for their career achievements. Luis Castro, Trish Reilly and Barry Wilkinson will pick up their accolades during the third annual MacGuffin Awards on September 12 at the Paramount Theatre in Hollywood. Castro (Barbie, 9-1-1) will receive the Humanitarian Award for his commitment [ ]
+A world without Dolly doesn’t feel possible, real, or right, Taylor Swift said tonight of her friend Dolly Parton. The beloved country music legend died Tuesday at the age of 80, following a brief battle with cancer, according to her reps. But because of the eternally generous way she spent her time on this earth [ ]
 
-### ‘Diplomatic Immunity’ Lands Greenlight At USA Network; Medical Drama Comes From Matt Corman, Chris Ord Fox Entertainment Studios
-Tue, 25 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/medical-drama-diplomatic-immunity-usa-network-fox-studios-1237049406/
+### America s Got Talent Pays Tribute To Dolly Parton
+Wed, 26 Aug 2026 02:43:36 +0000 — https://deadline.com/2026/08/americas-got-talent-dolly-parton-tribute-1237050602/
 
-USA Network is clearly feeling good about its scripted ambitions. The cabler has handed a series order to medical drama Diplomatic Immunity, which comes from Matt Corman and Chris Ord, who know the network well, having created spy drama Covert Affairs, which ran for five seasons. Diplomatic Immunity follows a young American doctor who is suddenly [ ]
+Airing just hours after the death of Dolly Parton at the age of 80, the Tuesday live quarterfinal episode of NBC s America s Got Talent honored the music icon. Before we move on, we want to take a moment to remember the Queen of Country, Dolly Parton, who passed away today, host Terry Crews said during [ ]
 
-### The Fantasticks Broadway Cast Announced: Maxim Chlumecky, Nathan Levy, Ruthie Ann Miles, Zane Phillips Others To Star
-Tue, 25 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/fantasticks-broadway-cast-1237049773/
+### 9 To 5: The Musical Cast Pays Tribute To Dolly Parton: Our Deepest Thanks For The Music, Laughter Joy She Gave Us
+Wed, 26 Aug 2026 02:19:05 +0000 — https://deadline.com/2026/08/9-to-5-the-musical-cast-tribute-dolly-parton-1237050598/
 
-The upcoming (and updated) Broadway premiere of The Fantasticks has announced its cast, with Maxim Chlumecky (Harry Potter and the Cursed Child), Leslie Rodriguez Kritzer (Beetlejuice), Ruthie Ann Miles (Sweeney Todd) and Zane Phillips (Fire Island) among the stars. Directed and choreographed by Christopher Gattelli, the Second Stage Theater production will begin previews October 22 [ ]
+The cast of the UK production of 9 to 5: The Musical paid tribute to Dolly Parton during their show on Tuesday, August 25. Before the musical began, star Karla Tracey took a moment to honor Parton and announce to the audience that the country icon had died. Before we begin tonight s performance of 9 [ ]
 
-### Germany Selects Sandra Wollner’s Everytime For Best International Film Oscar; Three Films From Country In Running Due To New Rules
-Tue, 25 Aug 2026 16:33:32 +0000 — https://deadline.com/2026/08/germany-selects-everytime-best-international-film-oscar-1237049855/
+### Tuc Watkins Joins Prime Video Rom-Com Series Escorted
+Wed, 26 Aug 2026 00:25:27 +0000 — https://deadline.com/2026/08/tuc-watkins-cast-prime-video-series-escorted-1237050426/
 
-The jury appointed by German Films has selected Sandra Wollner’s feature Everytime as Germany s official submission for the 99th Oscars in the International Feature Film category. The German productions Yellow Letters and Shame and Money have also qualified following new Academy rules to include movies that win top prizes at major festivals. The Germany Films [ ]
+EXCLUSIVE: Tuc Watkins (Paradise, SWAT: Exiles) has joined the cast of Brett Goldstein s new Prime Video series Escorted in a heavily recurring role, sources close to production tell Deadline. He will play Neil, who looks like a cowboy. He is a trainer at a high-end gym and a male escort to wealthy women on the [ ]
 
-### Blumhouse Atomic Monster Crosses $1B WW YTD At Box Office Boosted By Obsession , Backrooms , More
-Tue, 25 Aug 2026 16:31:00 +0000 — https://deadline.com/2026/08/box-office-blumhouse-atomic-monster-billion-1237049105/
+### Dolly Parton Died After A Brief Battle With Cancer , Her Reps Confirm
+Wed, 26 Aug 2026 00:12:33 +0000 — https://deadline.com/2026/08/dolly-parton-cause-of-death-cancer-1237050517/
 
-EXCLUSIVE: Blumhouse Atomic Monster horror films have grossed north of $1 billion at the global box office year-to-date. Note, it s the second time that the combined labels have yielded $1 billion since their 2024 merger after last year. However, if you were to count the labels grosses combined prior to the merger, this would be [ ]
+We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a “brief battle with cancer, her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the age [ ]
 
-### Mindy Kaling Not Suitable For Work Cast React To Hulu Cancellation: I Loved Making This Show, I Love These People
-Tue, 25 Aug 2026 16:20:14 +0000 — https://deadline.com/2026/08/not-suitable-for-work-cast-reactions-cancellation-1237049513/
+### The Dog Stars Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott s Sharp Postapocalyptic Thriller
+Wed, 26 Aug 2026 00:00:00 +0000 — https://deadline.com/2026/08/the-dog-stars-review-jacob-elordi-ridley-scott-1237049569/
 
-Not Suitable For Work has been canceled by Hulu after one season, and the cast is sharing their reactions to the news. The Mindy Kaling-created comedy starred Ella Hunt, Avantika Vandanapu, Will Angus, Jack Martin, and Nicholas Duvernay. I love this show, I loved making this show, I love these people, and I love all [ ]
+The lovable dog in Ridley Scott s The Dog Stars isn t actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again [ ]
 
-### Independent Artist Group Hires Sandy Lam Sara Gonzalez As Agents
-Tue, 25 Aug 2026 16:10:00 +0000 — https://deadline.com/2026/08/independent-artist-group-sandy-lam-sara-gonzalez-agents-1237049560/
+### Disney+ Sets Premiere For Korean Drama Series ‘The Remarried Empress’
+Wed, 26 Aug 2026 00:00:00 +0000 — https://deadline.com/2026/08/disney-plus-shin-mina-ju-jihoon-remarried-empress-busan-1237050148/
 
-EXCLUSIVE: Independent Artist Group has hired Sandy Lam and Sara Gonzalez as agents in its Creators Group, working out of the agency s Los Angeles headquarters. Lam and Gonzalez will report to Nir Caspi, IAG s Head of Non-Scripted and New Media. IAG s Creators Group represents digital creators and influencers, develops brand partnerships, IP, and new opportunities [ ]
+Disney+ has set a November 4 launch date for its lavish historical K-drama The Remarried Empress, starring Shin Mina and Ju Jihoon, which will receive a world premiere in the On Screen section of the upcoming Busan Film Festival. Based on a Naver Webtoon of the same name that has amassed almost 3 billion views, [ ]
 
-### Brian Robbins Big Shot Pictures Unveils Founding Executive Leadership Team; Co-Founder Sherry Liu Named President
-Tue, 25 Aug 2026 16:09:39 +0000 — https://deadline.com/2026/08/big-shot-pictures-leadership-team-sherry-liu-president-1237049841/
+### Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival
+Tue, 25 Aug 2026 23:18:29 +0000 — https://deadline.com/2026/08/doc-talk-podcast-tiff-docs-programmer-previews-festival-1237050027/
 
-EXCLUSIVE: Brian Robbins has confirmed the executive leadership team installed at his next-generation family entertainment company Big Shot Pictures, including the appointment of Sherry Liu as President. As President, Liu will oversee the company s overall strategy, operations, and revenue. Others on the team include Forrest Prull (Head of Business Legal Affairs), Bill Buckley (SVP, Animation [ ]
+Some of the top documentary filmmakers in the world soon will be packing their bags for Toronto, preparing for a curtain call at one of the world’s most important cinematic events. The 51st edition of the Toronto Film Festival again features a dynamic roster of documentaries, ranging from Oscar winner Alex Gibney’s anticipated film on Elon [ ]
 
-### HBO Sets ‘The Gilded Age’ Season 4 Premiere Date; Unveils Teaser
-Tue, 25 Aug 2026 16:00:57 +0000 — https://deadline.com/2026/08/the-gilded-age-season-4-release-date-teaser-1237049825/
+### ABC, CBS And NBC To Air Specials Commemorating The Life Of Dolly Parton
+Tue, 25 Aug 2026 23:15:00 +0000 — https://deadline.com/2026/08/cbs-news-dolly-parton-special-abc-news-1237050369/
 
-The Gilded Age Season 4 will grace viewers with its presence ahead of the Thanksgiving holiday. The eight-episode fourth installment of the Julian Fellowes-created period drama will debut Sunday, November 1 on HBO and stream on HBO Max at 9 p.m. ET and PT. Season 4’s logline teases new developments for the women of the [ ]
+UPDATED: CBS News and ABC News will air specials on Tuesday paying tribute to Dolly Parton, who died today at the age of 80. NBC plans a news special on Wednesday. A CBS News Special: Dolly Parton An American Icon will air at 10 p.m. ET, with Gayle King and Tony Dokoupil along with [ ]
 
-### Martin Spinoff The Varnell Hill Show Trailer Sets Up Frantic TV Host Retooling Series For TikTok Era
-Tue, 25 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/the-varnell-hill-show-trailer-season-1-1237049185/
+### Sam Register Leaving As Warner Bros. Animation President
+Tue, 25 Aug 2026 23:03:30 +0000 — https://deadline.com/2026/08/sam-register-leaving-warner-bros-animation-president-1237050433/
 
-Wassup, wassup, WASSUP! Martin spinoff series The Varnell Hill Show has dropped its first trailer, setting up the Paramount+ comedy s first season, which premieres on Tuesday, September 1. The Varnell Hill Show is based on the titular character that originated in Martin Lawrence s hit eponymous series Martin, played by Tommy Davidson. The 8-episode series blends [ ]
+Sam Register, President of Warner Bros. Animation, Cartoon Network Studios and Hanna-Barbera Studios Europe, is departing after three decades at the company. The news was announced internally Tuesday by Channing Dungey, Chairman and CEO of Warner Bros. Television Group and U.S. Networks, to whom he reported. It’s with mixed emotions that I announce the studio [ ]
 

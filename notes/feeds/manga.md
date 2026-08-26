@@ -1,66 +1,66 @@
-# Manga — harvested 2026-08-25T17:17:15.944Z
+# Manga — harvested 2026-08-26T05:15:58.288Z
 
 ## Anime News Network
 
-### Overgeared Isn't Afraid to Have Fun With Its Concept
-Tue, 25 Aug 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/overgeared-isnt-afraid-to-have-fun-with-its-concept/.240897
+### French President Announces Manga Theme Park
+Tue, 25 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-25/french-president-announces-manga-theme-park/.240971
 
-Not just another SAO knockoff, <i>Overgeared</i> is surprisingly funny.
+Park to be built with Saudi funds just outside Paris, "expected to be themed on" Dragon Ball
 
-### Sōhei Niikawa's Demons' Night Fever Game Reveals Opening Movie Performed by syudou
-Tue, 25 Aug 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/sohei-niikawa-demons-night-fever-game-reveals-opening-movie-performed-by-syudou/.240972
+### Red River's Chie Shinohara Launches New Historical Manga on September 24
+Tue, 25 Aug 2026 23:56:35 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/red-river-chie-shinohara-launches-new-historical-manga-on-september-24/.240986
 
-Game debuts on October 22 for Switch, PS5, PC
+<cite>Itsukinomiya Genshitan</cite> "historical mystery" follows princess at Ise Shrine during Japan's Asuka period
 
-### New Battle Spirits TV Anime Reveals Main Trailer, Additional Cast, Theme Song Artists, October 6 Premiere
-Tue, 25 Aug 2026 12:18:20 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/new-battle-spirits-tv-anime-reveals-main-trailer-additional-cast-theme-song-artists-october-6-/.240969
+### Yurie Sekiya's Pero Pero★Sparkles Characters Get TV Anime
+Tue, 25 Aug 2026 23:31:49 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/yurie-sekiya-pero-pero-sparkles-characters-get-tv-anime/.240990
 
-Video previews opening theme song by JAM Project
+TV Tokyo produces anime
 
-### Patlabor EZY: File 2 Anime Film Review
-Tue, 25 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/patlabor-ezy/file-2-anime-film/.240705
+### A Returner's Magic Should Be Special Season 2's New Video Previews Ending Song
+Tue, 25 Aug 2026 23:05:02 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/a-returner-magic-should-be-special-season-2-new-video-previews-ending-song/.240987
 
-I continue to be impressed by the variety of stories <cite>Patlabor</cite> is able to tell.
+krage performs ending song "Everlasting" for 2nd season
 
-### Here U are Brings Danmei to Life
-Tue, 25 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/here-u-are-brings-danmei-to-life/.240895
+### Shiro Yoshida Launches New Kemonogari Manga
+Tue, 25 Aug 2026 20:34:46 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/shiro-yoshida-launches-new-kemonogari-manga/.240960
 
-While it could stand to be more sensual, <i>Here U Are</i> has potential.
+Horror manga set in village with strange tradition
 
-### One Piece x Jurassic Park, Detective Conan x Back to the Future Crossover Goods Offered
-Tue, 25 Aug 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-25/one-piece-x-jurassic-park-detective-conan-x-back-to-the-future-crossover-goods-offered/.240956
+### Ruby on the Cake: Feast of the Man-Eating Witches Manga Ends
+Tue, 25 Aug 2026 20:20:53 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/ruby-on-the-cake-feast-of-the-man-eating-witches-manga-ends/.240941
 
-Great Scott!
+Series debuted in April 2024
 
-### Reincarnated as a Sword's Second Season is Starting As Plain Old Fun
-Tue, 25 Aug 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/reincarnated-as-a-sword-second-season-is-starting-as-plain-old-fun/.240901
+### Kento Amemiya's Kinato's Magic Manga Ends
+Tue, 25 Aug 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/kento-amemiya-kinato-magic-manga-ends/.240965
 
-Cat girls, undead baddies, and swords that are also flying surfboards? What's not to like?
+Manga about young boy with minor healing abilities launched on February 2
 
-### Manga Up! Global Adds 'If Witch, Then Which?' Manga
-Tue, 25 Aug 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/manga-up-global-adds-if-witch-then-which-manga/.240968
+### Detective Conan: The Private Eyes' Requiem Manga Ends in September
+Tue, 25 Aug 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/detective-conan-the-private-eyes-requiem-manga-ends-in-september/.240959
 
-Yen Press published Ato Sakurai's manga in English
+Manga adaptation of franchise's 10th film launched on February 24
 
-### Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 5
-Tue, 25 Aug 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-5/.240966
+### What Does This Dub Mean For Detective Conan?
+Tue, 25 Aug 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/what-does-this-dub-mean-for-detective-conan/.240882
 
-AAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!
+Could TMS be winning the Battle of the Dubs?
 
-### Matsuken Anime Reveals Ken Matsudaira, Sumire Uesaka as Main Cast Members, August 29 Debut
-Tue, 25 Aug 2026 10:00:41 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/matsuken-anime-reveals-ken-matsudaira-sumire-uesaka-as-main-cast-members-august-29-debut/.240962
+### Maria Holic Gets Sequel Series After 12 Years
+Tue, 25 Aug 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/maria-holic-gets-sequel-series-after-12-years/.240975
 
-Daisuke Namikawa to also voice various characters in anime
+Story set 12 months after ending of original story
 
-### After 15 Years, Psyren is Here
-Tue, 25 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/after-15-years-psyren-is-here/.240867
+### Go Forward Stars a Very Good Boy
+Tue, 25 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/go-forward-stars-a-very-good-boy/.240899
 
-If there are any concerns with the adaptation so far, it's with the production.
+Talk about a doggone good time!
 
-### This Week in Anime - The Wild Wild World of Sports
-Tue, 25 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-08-25/.240914
+### Monster Hunter Outlanders Game's Trailer Reveals Ruger Aidal
+Tue, 25 Aug 2026 16:27:05 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/monster-hunter-outlanders-game-trailer-reveals-ruger-aidal/.240980
 
-Chris and Lucas sort through the many sports anime to find you series that are the <i>only</i> examples of their sport in the game.
+Pre-registration has begun for iOS/Android game
 
 ## Crunchyroll News
 

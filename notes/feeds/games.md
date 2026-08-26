@@ -1,6 +1,46 @@
-# Games — harvested 2026-08-25T17:17:15.944Z
+# Games — harvested 2026-08-26T05:15:58.288Z
 
 ## Eurogamer
+
+### Paradox's latest grand strategy Afterworld wants you to survive and thrive in the post-apocalypse
+Tue, 25 Aug 2026 20:11:49 +0000 — https://www.eurogamer.net/paradox-grand-strategy-afterworld-announcement
+
+After a succession of grand strategy sequels - including Crusader Kings 3 , Victoria 4, and Europa Universalis 5 - Paradox has unveiled Afterworld, its first grand strategy game to feature an original setting in over a decade. Read more
+
+### The Witcher 3 Remastered announced, an overhaul free for existing owners, while expansion Songs of the Past finally shown
+Tue, 25 Aug 2026 20:02:35 +0000 — https://www.eurogamer.net/witcher-3-expansion-songs-of-the-past-trailer
+
+The Witcher 3 expansion Songs of the Past - which is due to arrive 12 years after the base game was released - has finally been detailed in a debut trailer, but the surprise news is there's also a The Witcher 3 - Remastered edition coming that considerably overhauls the game, and it'll be a free upgrade for all existing owners of the game. Remastered comes on 29th September, and it's coming to Switch 2 and Battle.net for the first time. Read more
+
+### Gears of War: E-Day somehow feels exactly like a direct continuation of the original Xbox 360 trilogy, for better and for worse
+Tue, 25 Aug 2026 20:00:00 +0000 — https://www.eurogamer.net/gears-of-war-eday-preview
+
+Marcus Fenix says something gruffly, his squad laughs, then a horde of Locust enemies rushes the team. The hulking figure of Marcus roadie-runs towards the nearest hip-high bit of cover, slams his muscly shoulder into the concrete, and starts laying down suppressing fire with his Lancer machine gun. Enemy bodies fall apart in meaty chunks, blood spatters on the stone floor. A grey-skinned drone breaks through the defensive line and levels his Gnasher at you, finger on the trigger. Fenix revs the chainsaw on his Lancer, and cleaves through the warm flesh of this vagrant body in a sluice of wet viscera. I cannot tell if it is 2026, or 2008. Read more
+
+### Yes, the leaks were true - a Lego version of Cities Skylines is on its way to PC and consoles
+Tue, 25 Aug 2026 19:44:53 +0000 — https://www.eurogamer.net/lego-cities-skylines-announced-pc-xbox-ps5-switch-2
+
+Well there go, the leaks were true! Paradox has announced a brand-new entry in its Cities Skylines series, and this time it's getting a Lego makeover for what it's calling a "playful take" on city building that's heading to Xbox Series X/S, PlayStation 5, PC, and Switch 2 . Read more
+
+### Game of Thrones RTS War for Westeros just got a first gameplay trailer confirming some familiar faces
+Tue, 25 Aug 2026 19:05:29 +0000 — https://www.eurogamer.net/game-of-thrones-war-for-westeros-gameplay-trailer
+
+If you've been eager for an update on that Game of Thrones RTS announced during last year's Summer Game Fest showcase , tonight's your night: War for Westeros just got its first gameplay trailer for you to peruse. Read more
+
+### Dungeons & Dragons game Warlock gets a first proper trailer, showing single-player action gameplay
+Tue, 25 Aug 2026 19:00:54 +0000 — https://www.eurogamer.net/dungeons-dragons-game-warlock-gets-a-first-proper-trailer-showing-single-player-action-gameplay
+
+Dungeons & Dragons game Warlock has had a first proper trailer featured at Gamescom Opening Night Live this evening. Read more
+
+### Mass Effect-like Exodus gets a release date, while showcasing an octopus companion in a mech suit
+Tue, 25 Aug 2026 18:45:40 +0000 — https://www.eurogamer.net/exodus-release-date-mass-effect
+
+The excitingly Mass Effect -like sci-fi role-playing game Exodus has a proper release date: 7th April 2027. It's coming to PC (Steam and Epic), PlayStation 5, and Xbox Series X/S. Read more
+
+### Humankind 2 announced, coming 2027, and promises climate change and "a new take on historical strategy"
+Tue, 25 Aug 2026 18:15:20 +0000 — https://www.eurogamer.net/humankind-2-announced-coming-2027-and-promises-climate-change-and-a-new-take-on-historical-strategy
+
+Amplitude has announced Humankind 2, a sequel to the quietly popular Civ-like 4X game Humankind, during the Gamescom Opening Night Live pre show this evening. Read more
 
 ### Gamescom Opening Night Live 2026 report - all the news and announcements as Witcher 3 expansion Songs of the Past shown for first time
 Tue, 25 Aug 2026 14:33:38 +0000 — https://www.eurogamer.net/gamescom-opening-night-live-2026-report
@@ -22,47 +62,22 @@ Tue, 25 Aug 2026 12:42:35 +0000 — https://www.eurogamer.net/iron-man-avalanche
 
 It's been a while since we've seen a game based on Marvel's Iron Man, and it's not for lack of trying. Marvel owner Disney had at one point tapped Just Cause series developer Avalanche Studios to create an original game based on the armoured superhero. That project was cancelled before it was even announced. Read more
 
-### Synths, impossible physics, and an "erotic experience with a PS5 controller" - the side projects of game devs are a reminder creativity is undimmable
-Tue, 25 Aug 2026 12:01:41 +0000 — https://www.eurogamer.net/optimism-week-games-industry-side-projects-creativity
-
-If there's been one theme I'd pick out from the many of these past few years of gaming discontent, it's the sense of all-out assault on creativity. This is the thing that makes games what they are, that makes them successful, that earns people money and gives people a reason to do the job in the first place, but it's also the thing that seems to be valued least at so many of those making the decisions. To those people creativity is something to be funneled, moulded, directed or strictly defined. Often, I suspect, it's just not really something directly thought about at all. At best it's a nice buzzword to roll out as needed, but rare one that's even remotely understood. Read more
-
-### Despite being a Switch 2 exclusive, The Duskbloods closed network test had more applications than Elden Ring Nightreign
-Tue, 25 Aug 2026 11:31:43 +0000 — https://www.eurogamer.net/the-duskbloods-closed-network-test-more-applications-nightreign
-
-The Duskbloods is already looking like it's going to be a very popular game. Developer FromSoftware revealed the game's network test, which finished yesterday , attracted more player applications than those for Elden Ring Nightreign , despite it only being available for one platform: Switch 2 . Read more
-
-### Discord is yet to be served Take-Two's GTA 6 leak subpoena, which is set to demand broad access to user data
-Tue, 25 Aug 2026 08:39:48 +0000 — https://www.eurogamer.net/take-two-rockstar-gta-6-leaks-subpoena-discord-response
-
-Discord has said that it has not yet been served a subpoena from Take-Two regarding Grand Theft Auto 6 leaks. On Friday, it was reported that the Rockstar parent company filed multiple subpoenas in a federal district court in order to obtain a wide range of user data from Discord and Microsoft relating to the leaks. Read more
-
-### CD Projekt Red is "targeting" a 2028 release date for The Witcher 4, per a new update from the developer
-Mon, 24 Aug 2026 16:05:45 +0000 — https://www.eurogamer.net/the-witcher-4-release-date-2028
-
-CD Projekt Red has posted a quick update about The Witcher 4 , narrowing down the release date for its upcoming RPG sequel. "This is our biggest, boldest, and most ambitious game to date," says CD Projekt Red joint-CEO Michal Nowakowski, shortly before confirming the studio is "targeting" a release date in 2028. Bear in mind, then, that this could always slip. Read more
-
-### The people of video games on what gives them cause for hope
-Mon, 24 Aug 2026 15:11:04 +0000 — https://www.eurogamer.net/people-of-video-games-what-gives-hope-optimism-week
-
-Hello and welcome to one of our final pieces for Optimism Week here on Eurogamer. This time, we've turned to the industry itself for some answers, and as such I'm going to do my best to get out of the way as quickly as possible. Read more
-
-### "I want to keep pouring my energy into game creation going forward" - Hideo Kojima still wants to make games even at 63
-Mon, 24 Aug 2026 13:57:16 +0000 — https://www.eurogamer.net/hideo-kojima-63-years-old-still-wants-to-make-games
-
-Hideo Kojima - known as the director of the Death Stranding and Metal Gear Solid series - celebrated his 63rd birthday recently. Don't worry though, he's not interested in retiring just yet. Read more
-
-### The Blood of Dawnwalker is getting a 60fps mode on PS5 and Xbox Series X, after all
-Mon, 24 Aug 2026 13:11:40 +0000 — https://www.eurogamer.net/the-blood-of-dawnwalker-60fps-performance-mode-ps5-xbox-series-x
-
-The Blood of Dawnwalker developer Rebel Wolves recently offered a detailed look at the game's console version , specifically showing footage running at two different resolution and framerate targets. Read more
-
-### Call of Duty: Modern Warfare 4 Switch 2 physical version is seemingly a code-in-box
-Mon, 24 Aug 2026 11:41:32 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-switch-2-code-in-box
-
-Call of Duty: Modern Warfare 4 is the first game in the series to arrive on a Nintendo console since Ghosts on the Wii U in 2013, 13 years ago. The upcoming shooter lands on Switch 2 day-and-date with PC, PlayStation and Xbox . Though there's plenty of excitement to go around, a detail has emerged that may put a damper on that. Read more
-
 ## GamesIndustry.biz
+
+### The highlights of Gamescom Opening Night Live 2026
+Tue, 25 Aug 2026 23:23:11 +0000 — https://www.gamesindustry.biz/the-highlights-of-gamescom-opening-night-live-2026
+
+GamesIndustry.biz was at Gamescom Opening Night Live on Tuesday night, the eighth instalment of the digital showcase. The hall was packed, without an empty seat in sight, and there were plenty of gaming celebrities in attendance: Xbox head Asha Sharma could be seen near the front, gamely forming an 'X' with her arms as the camera panned over her. Read more
+
+### Schell Games reportedly lays off staff
+Tue, 25 Aug 2026 19:45:19 +0000 — https://www.gamesindustry.biz/schell-games-reportedly-lays-off-staff
+
+Schell Games, co-developer of Among Us 3D and studio behind the I Expect You to Die series, has reportedly laid off staff. Read more
+
+### Nvidia announces ray-traced Nanite, native anti-cheat, and DLSS 4.5 at Gamescom 2026
+Tue, 25 Aug 2026 18:44:44 +0000 — https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup
+
+Nvidia used Gamescom to detail a wave of developer-facing updates across DLSS, RTX, and its GeForce Now cloud platform. Read more
 
 ### Entity raises $5.8 million to build browser-based "console-quality" gaming platform
 Tue, 25 Aug 2026 16:56:48 +0000 — https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform
@@ -109,88 +124,83 @@ Tue, 25 Aug 2026 07:04:11 +0000 — https://www.gamesindustry.biz/gdc-festival-o
 
 GDC Festival of Gaming has announced changes to its 2027 event , including a new Business Hall at Moscone West. Read more
 
-### Maria Redin of mobile giant MTG on rebranding, buying Raid: Shadow Legends, and plans to double the company's size
-Mon, 24 Aug 2026 14:23:55 +0000 — https://www.gamesindustry.biz/maria-redin-of-mobile-giant-mtg-on-rebranding-buying-raid-shadow-legends-and-plans-to-double-the-companys-size
-
-In February last year, the Swedish mobile giant MTG (Modern Times Group) acquired Plarium, maker of the hugely successful hero collecting game Raid: Shadow Legends, for a cool $620 million . But that's just the start, it seems. Read more
-
-### Data: 96% of studios now run a direct-to-consumer web store or plan to
-Mon, 24 Aug 2026 14:01:44 +0000 — https://www.gamesindustry.biz/data-96-of-studios-now-run-a-direct-to-consumer-web-store-or-plan-to
-
-Almost all games studios run a direct-to-consumer (D2C) web store or plan to, according to a new survey. Read more
-
-### Double Fine Productions regains ownership of IP and publishing rights following independence from Xbox
-Mon, 24 Aug 2026 11:05:37 +0000 — https://www.gamesindustry.biz/double-fine-productions-regains-ownership-of-ip-and-publishing-rights-following-independence-from-xbox
-
-Double Fine Productions has regained ownership of its intellectual property and publishing rights after leaving Xbox. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
 
-### Live: Watch Gamescom Opening Night Live 2026 Here, Featuring FF7 Revelation and The Witcher 3 DLC
-Tue, 25 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/features/live-watch-gamescom-opening-night-live-2026-here-featuring-ff7-revelation-and-the-witcher-3-dlc
+### Round Up: What Was Announced at Gamescom Opening Night Live 2026?
+Wed, 26 Aug 2026 01:30:00 GMT — https://www.pushsquare.com/features/round-up-what-was-announced-at-gamescom-opening-night-live-2026
 
-Metro 2039! Ananta! Tides of Annihilation! It’s time for the middle act in Geoff Keighley’s annual trilogy of video game livestreams, with Gamescom Opening Night Live. This year’s event is threatening some big titles, including Final Fantasy 7 Revelation , The Witcher 3: Songs of the Past , and Ananta . Read the full article on pushsquare.com
+All the PS5 reveals from Gamescom. Of the three annual showcases Geoff Keighley hosts, Gamescom Opening Night Live is the safest one to skip watching in the moment. There's normally a lot of news, but most of it isn't groundbreaking. Nevertheless, there are still a lot of reveals to go through from the 2026 livestream, and below you shall find all the PS5 news. For any Nintendo or Xbox-related announcements, please refer to our sister sites Nintendo Life and Pure Xbox . Read the full article on pushsquare.com
 
-### Anime Open World Ananta Could Release Just 8 Weeks After GTA 6 on PS5
-Tue, 25 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/anime-open-world-ananta-could-release-just-8-weeks-after-gta-6-on-ps5
+### Poll: How Would You Rate Gamescom Opening Night Live 2026?
+Wed, 26 Aug 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/08/poll-how-would-you-rate-gamescom-opening-night-live-2026
 
-Clash of the titans. Ananta , the anime-inspired open world not to be confused with the already-available NTE , could release just eight weeks after GTA 6 . Promotional materials for the long-anticipated PS5 console exclusive – which is poised to make an appearance at Gamescom Opening Night Live later today – appear to have confirmed a 15th January release date for the title. Read the full article on pushsquare.com
+Rate this year's Keighley surprises. We've reached the time of year when Geoff Keighley hosts his most low-key showcase of the year. Gamescom Opening Night Live usually has one or two big pieces of news, but this is nothing like Summer Game Fest or The Game Awards . That was again reflected in the announcements for 2026's stage show, with the biggest reveals being a new look at The Witcher 3: Songs of the Past , a release date for Exodus , and another look at Final Fantasy 7 Revelation . Read the full article on pushsquare.com
 
-### PS Plus Essential Games for September 2026 Leaked Early
-Tue, 25 Aug 2026 15:05:00 GMT — https://www.pushsquare.com/news/2026/08/ps-plus-essential-games-for-september-2026-leaked-early
+### In PS5 Arabian Fantasy 1001 Threads of Mizan , You Ride Magic Carpet Hoverboards
+Tue, 25 Aug 2026 23:45:00 GMT — https://www.pushsquare.com/news/2026/08/in-ps5-arabian-fantasy-1001-threads-of-mizan-you-ride-magic-carpet-hoverboards
 
-A rare PS Plus leak appears. The well-known leaker BillBil-Kun has made a rare return to leaking the next set of PS Plus Essential games. According to them, the following PS5, PS4 games are joining the base tier of the service next month: Sniper Elite Resistance (PS5, PS4) | Review Chained Echoes (PS4) Wobbly Life (PS5, PS4) Sony is scheduled to confirm the lineup of PS Plus Essential games for September 2026 tomorrow, and they'll be live for active members from Tuesday, 1st September 2026. Read the full article on pushsquare.com
+So that's cool. Personally I’m not a huge fan of co-op action games, even though I appreciate they’re enormously popular. I mean, just look at Helldivers 2 , it’s one of Sony’s biggest games ever – and I think a big part of that is because it’s co-op. (It’s also damn fun, of course, which matters too.) Read the full article on pushsquare.com
 
-### It Will Not Be Easy : Marvel Tokon Producer Talks Winning Back Burned PC Players
-Tue, 25 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/it-will-not-be-easy-marvel-tokon-producer-talks-winning-back-burned-pc-players
+### Silver Palace Is a Gothic Victorian Dream, And It s Coming to PS5
+Tue, 25 Aug 2026 23:15:00 GMT — https://www.pushsquare.com/news/2026/08/silver-palace-is-a-gothic-victorian-dream-and-its-coming-to-ps5
 
-"However, this is an issue that we’re facing head-on". Marvel Tokon: Fighting Souls is a very well-regarded fighting game, but it's not without its problems — and, so far, most of them have been on the PC version. While the PS5 rendition has been largely spotless, those playing on PC have had to put up with inconsistent performance and online play. Read the full article on pushsquare.com
+I'm game. There are some games I follow which I have to find excuses to write about. Silver Palace is one such title. While the gothic detective game did list “consoles” in its initial unveiling , it’s only today during Gamescom we’ve officially got confirmation of a PS5 release. That’s good because I gambled on an appointment in Cologne this week, and now my hands-on will make a lot more sense. Read the full article on pushsquare.com
 
-### Feature: Last Chance to Buy These 50+ PS5, PS4 Games in PS Store s Ready, Set, Play Sale
-Tue, 25 Aug 2026 11:00:00 GMT — https://www.pushsquare.com/features/last-chance-to-buy-these-50plus-ps5-ps4-games-in-ps-stores-ready-set-play-sale
+### Showa American Story Stood Out in a Gamescom Filled with Samey PS5 Trailers
+Tue, 25 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/showa-american-story-stood-out-in-a-gamescom-filled-with-samey-ps5-trailers
 
-Recommended games going cheap. PS Store's current sale, Ready, Set, Play, is almost over. The offer runs through 26th August, 2026, so you don't have long to take advantage. Browsing through the thousands of PS5 and PS4 games can take a while, so we've put together a list of games we recommend you check out. Everything listed here comes with at least a 7/10 score from Push Square , and every game is at its lowest price point, with some setting new lows in this sale. Read the full article on pushsquare.com
+I am intrigued. I mean no disrespect to any individual game when I say livestreams like Gamescom Opening Night Live don’t really present titles at their best. The problem is, when you’re looking at a montage of trailers, the themes and mechanics all start to blend together. Isolated on its own, the latest dark fantasy Soulslike may look amazing – but back-to-back-to-back, they all blur together. Read the full article on pushsquare.com
 
-### Castlevania Fans Will Recognise Many of the Voices in Belmont s Curse on PS5
-Tue, 25 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/castlevania-fans-will-recognise-many-of-the-voices-in-belmonts-curse-on-ps5
+### I Can t Believe Train Sim World 7 Will Come to PS5 Before the Japanese Route I ve Spent Years Writing About
+Tue, 25 Aug 2026 22:45:00 GMT — https://www.pushsquare.com/news/2026/08/i-cant-believe-train-sim-world-7-will-come-to-ps5-before-the-japanese-route-ive-spent-years-writing-about
 
-Sounds good to me. Castlevania wouldn't be what it is without some melodramatic voice acting to heighten the action, and it seems Konami and Evil Empire have gathered some top talent for the upcoming Castlevania: Belmont's Curse . The voice cast for the brand new entry has been announced, and it features some veteran talent that fans of the franchise will recognise, as well as some new blood of course. Read the full article on pushsquare.com
+One day. There was an air of inevitability to all this really, I suppose. It’s almost September, which means a new Train Sim World game is right around the corner, this time Train Sim World 7 . (At some point we might have to start writing the number in words like when a football team suffers a particularly heavy loss.) Read the full article on pushsquare.com
 
-### PixelJunk Devs Next Game Leaked Early as It Confirms Imminent Announcement
-Tue, 25 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/08/pixeljunk-devs-next-game-leaked-early-as-it-confirms-imminent-announcement
+### Expanded Onimusha Demo Out Now on PS5, Boasting Another Awesome Boss and More
+Tue, 25 Aug 2026 22:30:00 GMT — https://www.pushsquare.com/news/2026/08/expanded-onimusha-demo-out-now-on-ps5-boasting-another-awesome-boss-and-more
 
-What's Q-Games up to? This week should be a big one for video game news, as Gamescom Opening Night Live kicks off the German expo with a big show very soon. It looks as though one of the presentation's surprises may have been spoiled a little early, however, as a playtest version has popped up on SteamDB that pretty much confirms its existence. Read the full article on pushsquare.com
+Director's cut. The PS5 demo for Onimusha: Way of the Sword , which released almost three months back, has just received a significant update. Those who already have said demo downloaded just need to pull a patch — a hefty 9.6GB patch, mind — while newcomers can simply grab the full thing from the PS Store. Read the full article on pushsquare.com
 
-### 5 More August 2026 PS Plus Extra Games Available to Download Now
-Tue, 25 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/08/5-more-august-2026-ps-plus-extra-games-available-to-download-now
+### Genshin Impact Dev Swaps Anime Waifus for Dark Fantasy in Nodusfall
+Tue, 25 Aug 2026 21:00:00 GMT — https://www.pushsquare.com/news/2026/08/genshin-impact-dev-swaps-anime-waifus-for-dark-fantasy-in-nodusfall
 
-The last PS Plus drop of the month. Anyone in the UK, USA, or Japan can turn their PS5 consoles on today to find the final batch of PS Plus Extra games for August 2026 available to play now. All these PS5, PS4 titles were set live for active members everywhere else in the world last week, but Sony's experiment in the three listed territories continues. The following is available now on PS Plus Extra in the UK, USA, and Japan: Read the full article on pushsquare.com
+Time for something totally different. HoYoverse, the maker of vibrant anime gacha games like Genshin Impact and Zenless Zone Zero , has announced a “realistic fantasy action” experience powered by Unreal Engine 5. The press release says the title’s been inspired by “diverse mythologies” and will emphasise “co-op multiplayer gameplay”. It looks a lot like Monster Hunter to me. Read the full article on pushsquare.com
 
-### Guide: What Time Is Gamescom Opening Night Live 2026?
-Tue, 25 Aug 2026 08:45:00 GMT — https://www.pushsquare.com/guides/what-time-is-gamescom-opening-night-live-2026
+### Guitar Hero s Spiritual Successor, Stage Tour, Comes to PS5 Just in Time for Christmas
+Tue, 25 Aug 2026 19:50:00 GMT — https://www.pushsquare.com/news/2026/08/guitar-heros-spiritual-successor-stage-tour-comes-to-ps5-just-in-time-for-christmas
 
-Dates, times, and what to expect. When is Gamescom Opening Night Live 2026? It's that time once again, when Geoff Keighley awakens for his second annual show of the year: Gamescom Opening Night Live, getting the massive German expo started with a bang. What are all the details, then? When exactly can you tune in to watch the show, and what's gonna be there? In this guide, we're providing you with all the details you need before the showcase begins. Read the full article on pushsquare.com
+Happy holidays. Publisher and developer RedOctane has announced a release date for Stage Tour , its spiritual successor to Guitar Hero . The plastic instrument rhythm title hits PS5 on 10th December, 2026, squeaking in just before Christmas. Read the full article on pushsquare.com
 
-### We re Hoping to Continue the Remakes for a While : Falcom Doubles Down on Remaking Classic Trails Games
-Mon, 24 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/were-hoping-to-continue-the-remakes-for-a-while-falcom-doubles-down-on-remaking-classic-trails-games
+### Mega Man: Dual Override Reveals Proto Man in Brand New PS5 Gameplay Trailer
+Tue, 25 Aug 2026 19:45:00 GMT — https://www.pushsquare.com/news/2026/08/mega-man-dual-override-reveals-proto-man-in-brand-new-ps5-gameplay-trailer
 
-Before the Horizon. Falcom's set to continue its remake era beyond the upcoming Trails in the Sky 2nd Chapter . We knew this would probably be the case anyway, especially since Trails in the Sky 1st Chapter has been such a huge success for the storied Japanese developer, but it's still interesting to hear president Toshihiro Kondo come out and basically confirm it. Read the full article on pushsquare.com
+Mega Men. Publisher Capcom has unveiled a new look at Mega Man: Dual Override , the next entry in the long-running action platformer series. Coming to both PS5 and PS4 in 2027, the game is looking promising in this first proper look at the action: Read the full article on pushsquare.com
 
-### These 10+ Commodore 64 Games Are Coming to PS5 Soon
-Mon, 24 Aug 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/08/these-10plus-commodore-64-games-are-coming-to-ps5-soon
+### Rainbow Six Tactics Puts an XCOM Spin on Ubisoft s Series in 2027
+Tue, 25 Aug 2026 19:40:00 GMT — https://www.pushsquare.com/news/2026/08/rainbow-six-tactics-puts-an-xcom-spin-on-ubisofts-series-in-2027
 
-Acceptable in the 80s. There is no shortage of retro compilations on the PS5, but very few of them feature Commodore 64 games. That all changes with the upcoming Cosmi: Forbidden Forest & Beyond , a ten game bundle featuring Paul Norman’s 1983 home computer classic among others. Read the full article on pushsquare.com
+Rainbow Six-COM, is that anything? Publisher Ubisoft has announced Rainbow Six Tactics , putting its long-running series into a brand new genre. As the name suggests, the game is a turn-based strategy game, cut from the same cloth as the likes of XCOM . Read the full article on pushsquare.com
 
-### Alien Breed Returns Next Month with Massive PS5 Compilation, Complete with Horde Mode
-Mon, 24 Aug 2026 19:40:00 GMT — https://www.pushsquare.com/news/2026/08/alien-breed-returns-next-month-with-massive-ps5-compilation-complete-with-horde-mode
+### Crimson Desert Enhanced Edition Out Now on PS5, Featuring Story Improvements
+Tue, 25 Aug 2026 19:35:00 GMT — https://www.pushsquare.com/news/2026/08/crimson-desert-enhanced-edition-out-now-on-ps5-featuring-story-improvements
 
-Gallery content like interviews and artwork, too. Team 17’s sci-fi shooter Alien Breed , celebrating its 35th anniversary this year, will return in September with an epic compilation akin to the gold standard Digital Eclipse bundles. This will feature every game from the first era of the franchise, including the Alien Breed 3D titles. Read the full article on pushsquare.com
+A free update for existing owners. Crimson Desert's only been out for five months, but it's already been handed an 'Enhanced' edition that's now available on PS5. To be clear, this is basically a rebranding of the existing game. If you buy Crimson Desert from this point on, you get the Enhanced edition by default. Read the full article on pushsquare.com
 
 ## Game Developer
+
+### Riot Games is winding down 2XKO active development in December
+Tue, 25 Aug 2026 17:01:51 GMT — https://www.gamedeveloper.com/business/riot-games-is-winding-down-fighter-2xko-in-december-2026
+
+Riot says it hasn't seen 'enough players stick with the game to get to a path toward sustainability.'
+
+### Report: Among Us 3D co-dev Schell Games lays off staff
+Tue, 25 Aug 2026 15:28:59 GMT — https://www.gamedeveloper.com/business/report-among-us-3d-dev-schell-games-lays-off-staff
+
+Schell Games has provided multiple interviews over the years on avoiding layoffs.
 
 ### Irish browser games start-up Entity raises $5M in funding for 'console-quality games for the 'new web' era'
 Tue, 25 Aug 2026 14:46:56 GMT — https://www.gamedeveloper.com/business/irish-browser-games-start-up-entity-raises-5m-in-funding-for-console-quality-games-for-the-new-web-era-
