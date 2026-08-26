@@ -3,7 +3,7 @@ title: Nanite's shadows have been cast by a stand-in for three years. Nvidia jus
 date: 2026-08-26
 category: 3D
 excerpt: RTX Mega Geometry lets Unreal Engine 5 ray-trace Nanite's actual cluster geometry instead of a decimated fallback mesh, and Gears of War E-Day is the first shipping game built on it.
-cover: /img/blog/nanite-fallback-mesh-rtx-mega-geometry/cover.svg
+cover: /img/blog/nanite-fallback-mesh-rtx-mega-geometry/shot-01.jpg
 draft: true
 ---
 
@@ -15,6 +15,11 @@ if you've spent time in a shadow map debug view, you already know why, and
 it isn't the light.
 
 ## The mesh doing the shadow isn't the mesh you're looking at
+
+<figure>
+  <img src="/img/blog/nanite-fallback-mesh-rtx-mega-geometry/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>The Coalition / Xbox Game Studios, via the official Steam page</figcaption>
+</figure>
 
 Nanite's whole pitch was that you stop worrying about triangle budgets —
 drop in the dense ZBrush or photogrammetry export and let the engine's
