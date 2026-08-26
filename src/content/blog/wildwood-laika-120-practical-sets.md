@@ -1,5 +1,5 @@
 ---
-title: Wildwood's new trailer dropped today, and the numbers behind it are the real story
+title: Wildwood built 120 practical sets for a stop-motion feature
 date: 2026-08-19
 category: Film & TV
 excerpt: Laika's first stop-motion feature since Missing Link got a new trailer today, 120 practical sets, 231 puppets, and it's a genuinely useful contrast to how a game environment actually gets built.
@@ -33,8 +33,7 @@ You make one great tree, a couple of variants, scatter them procedurally
 with some rotation and scale noise, and spend your hand-crafting budget on
 the two or three hero trees the camera actually lingers on. Laika's version
 of that same decision, on this film, was apparently to hand-build the
-whole forest anyway. That's not a workflow difference, it's a completely
-different economics of production art: when your unit of geometry is a
+whole forest anyway. That is a completely different economics of production art: when your unit of geometry is a
 physical object, your reuse tools are limited, so the entire studio budget
 is effectively "who has time to make one more tree."
 

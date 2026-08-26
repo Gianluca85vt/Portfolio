@@ -1,5 +1,5 @@
 ---
-title: Tides of Annihilation built a real cathedral for a two-hour demo, and the actual flex is buried further down the press release
+title: Tides of Annihilation built a real cathedral for a two-hour demo
 date: 2026-08-20
 category: Games
 excerpt: Eclipse Glow Games built a full-scale cathedral in Chengdu just to run its first public hands-on. Impressive, but the number worth reading is the one about how they're forcing Nanite to handle giant animated bosses, a job it wasn't built for.
@@ -37,7 +37,7 @@ mythical realm of Avalon. It's coming to PC (Steam and Epic Games Store),
 Xbox Series X|S and PS5, with no date attached yet beyond "currently in
 development."
 
-None of that is unusual for the genre. What's unusual is how much
+That is standard for the genre. What's unusual is how much
 engineering detail the studio has already put into public statements about
 it, months before release.
 

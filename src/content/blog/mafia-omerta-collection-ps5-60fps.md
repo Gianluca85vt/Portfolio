@@ -44,8 +44,8 @@ twice as fast to stay ahead of the camera before pop-in becomes visible. Shadow
 cascades and LOD transition distances, both tuned against how much frame time is
 available to spend on them, need re-balancing. Dynamic resolution scaling — the
 system that trades pixel count for frame time when a scene gets heavy — needs a
-wider range to lean on, because there's a lot less time to fall back into. None
-of that is exotic technical-art work, but it's also not a checkbox. It's the
+wider range to lean on, because there's a lot less time to fall back into. That
+is ordinary technical-art work that still eats real weeks. It is the
 unglamorous half of what "next-gen patch" means whenever a studio actually does
 it properly instead of just relaxing the frame cap and hoping.
 
@@ -78,7 +78,7 @@ was.
 
 ## The part worth remembering
 
-None of this is visible in the marketing copy, which just says "60FPS, Visual
+The marketing copy skips all of it and says "60FPS, Visual
 Upgrades" and moves on. But it's a decent, concrete example of something I keep
 running into from the technical-art side: a frame-rate number in a patch note is
 never really about the frame rate. It's a proxy for how much of a game's

@@ -1,5 +1,5 @@
 ---
-title: Nuke can now relight Gaussian splats — just not the way you'd think
+title: Nuke can now relight Gaussian splats
 date: 2026-08-21
 category: 3D
 excerpt: Foundry's Nuke 17.1 open beta lets you drop lights onto a Gaussian splat in comp. The catch is what it deliberately doesn't need to do that — and why that's the honest amount of magic to expect.
@@ -18,8 +18,7 @@ actually do with one once it's sitting in a compositing tree.
 ## The detail that matters more than the feature name
 
 Foundry's own release notes make a point of saying normals and position data are
-**not required** for the relighting to work. That's not a footnote, that's the whole
-story. A Gaussian splat isn't geometry — I went through this when [Scantic's
+**not required** for the relighting to work. That is the whole story. A Gaussian splat isn't geometry — I went through this when [Scantic's
 phone-only splat scanner](/blog/phone-gaussian-splat-scanning-offline/) came up a
 couple of days ago, but it's worth repeating here because it's the exact thing that
 makes "relighting a splat" sound bigger than it is. A splat is a cloud of soft,

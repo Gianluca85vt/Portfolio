@@ -1,5 +1,5 @@
 ---
-title: Tiny Flock is a VR game about being a giant, and that's an environment art problem
+title: How Tiny Flock handles scale when the player is a giant
 date: 2026-08-21
 category: 3D
 excerpt: No Brakes Games' new sheep-herding puzzler puts the player at doll's-house scale over 21 fully interactive dioramas. Building a world that has to survive being smashed and stacked by the player is a different job than dressing a set that only has to look right from one camera path.

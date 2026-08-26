@@ -58,7 +58,7 @@ touring visual package:
   rent afterward — the same network, or pieces of it, showing up in the next
   environment brief that needs plausible-but-varied buildings fast.
 
-None of that is exotic to anyone who already works procedurally. What the breakdown
+Anyone who already works procedurally will find that familiar. What the breakdown
 is actually useful for is the reminder of where the decision gets made: not at the
 concept stage, and not after the schedule has already slipped, but at the moment
 you notice you are about to model the same kind of thing more than a handful of

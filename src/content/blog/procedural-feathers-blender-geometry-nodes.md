@@ -1,5 +1,5 @@
 ---
-title: Someone finally cracked procedural feathers in Blender, and it uses your groom
+title: Procedural feathers in Blender, driven by the groom you already have
 date: 2026-08-14
 category: 3D
 excerpt: A free Geometry Nodes tool by 3D artist Sherzod Kadirov turns ordinary hair groom curves into fully controllable feathers. No plugin, no custom particle hack.

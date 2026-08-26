@@ -12,7 +12,7 @@ machine gun. It's dark comedy from **Wolf Haus Games**, a Montreal studio
 funded by Krafton (the PUBG people) and founded by a pair of horror
 filmmakers. It's out on Xbox and Game Pass, day one, in **March 2027**.
 
-None of that is what stopped me scrolling. This did, from
+What stopped me scrolling was something else. This did, from
 [GamesIndustry.biz's profile of the studio](https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai):
 Wolf Haus is about a dozen people — ten full-time, two part-time — building
 an open-world game with systems ambitious enough that the press is calling it
@@ -65,7 +65,7 @@ this size before, and the levers are the same short list every time:
   it's the same procedural placement environment artists have used for a
   decade, just under more pressure to carry more of the map.
 
-None of this is exotic. It's the standard small-team playbook for punching
+It is ordinary work. It's the standard small-team playbook for punching
 above your headcount. What's notable is that Wolf Haus is publicly
 committing to run that playbook *instead of* the generative shortcut, at a
 moment when plenty of studios are reaching for the shortcut quietly and

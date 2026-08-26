@@ -55,7 +55,7 @@ What it isn't is a replacement for actual environment modelling. Monocular depth
 hard ceiling: it infers depth from a single vantage point, so anything the camera didn't see —
 the back of that building, what's actually behind the foreground tree — doesn't exist. Push the
 camera more than a little off the original angle and you'll see the stretching and the holes
-where occluded geometry should be. That's not a bug to fix, it's the physics of working from one
+where occluded geometry should be. That is the physics of working from one
 image instead of a scanned or modelled scene. Anyone who's tried to fake depth with a single
 parallax-mapped card in a game engine will recognise the limit immediately.
 

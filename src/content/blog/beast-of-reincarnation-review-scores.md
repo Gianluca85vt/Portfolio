@@ -1,5 +1,5 @@
 ---
-title: Game Freak's first non-Pokémon game in decades landed at a 7, and the reviews agree on why
+title: Why Game Freak's first non-Pokémon game in decades only landed at a 7
 date: 2026-08-24
 category: Games
 cover: /img/blog/beast-of-reincarnation-review-scores/shot-01.jpg

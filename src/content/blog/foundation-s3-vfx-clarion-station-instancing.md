@@ -1,5 +1,5 @@
 ---
-title: Foundation's season 3 VFX breakdowns are out, and the real flex is a station built as a working vehicle
+title: Foundation built Clarion Station as a working vehicle
 date: 2026-08-22
 category: Film & TV
 excerpt: Framestore and Rodeo FX have published their breakdown reels for Foundation season 3, between them covering nearly a thousand shots. The plot is the Mule's rise. The production story is a 5km space station rigged to actually rotate, and a pipeline built to survive it.
@@ -40,7 +40,7 @@ built from nothing. They also handled the season's opening traveling shot —
 mountains, waterfalls, buildings, one continuous move — and the fleet and
 armada simulation work for the Mule's telepathic battle sequence.
 
-None of that is unusual for a show this size. What's worth stopping on is
+That is ordinary for a show this size. What's worth stopping on is
 how they kept it buildable.
 
 ## The part that's actually hard: a station big enough to break your tools

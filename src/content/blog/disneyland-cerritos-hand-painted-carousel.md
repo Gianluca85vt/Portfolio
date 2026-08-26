@@ -1,5 +1,5 @@
 ---
-title: Disneyland repaints its carousel horses entirely by hand, and that's the whole trick
+title: Disneyland repaints its carousel horses entirely by hand
 date: 2026-08-21
 category: Film & TV
 excerpt: A Variety look inside Disneyland's off-site fabrication warehouse turned up one detail worth sitting with — a sign painter who repaints the King Arthur Carrousel horses with no computer terminal in sight, at around 40 hours a horse.
@@ -70,7 +70,7 @@ passing, is that Halloween and Christmas dressing at Cerritos overlap by
 design — themes and colors are worked out with Walt Disney Imagineering's
 enhancement team well before any of it reaches the paint shop, so one
 season's fabrication is already running while the previous one is still on
-the park floor. That's not a scheduling curiosity, it's the same lesson
+the park floor. That is the same lesson
 every studio relearns the hard way: the thing guests or players experience
 as "seasonal magic showing up on time" is actually a fixed pipeline
 cadence, decided months out, that has to survive contact with whatever else
@@ -81,7 +81,7 @@ are also still maintaining everything from last season.
 
 ## Why this is worth noticing at all
 
-None of this is flashy. There's no new tech in it, no acquisition, no
+It is quiet work. There's no new tech in it, no acquisition, no
 tool announcement — just one warehouse, one sign painter, and a fleet of
 horses that get repainted the same way they did in 1955. But that's
 precisely why it's a useful thing to sit with if you make environments for

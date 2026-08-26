@@ -1,5 +1,5 @@
 ---
-title: House of the Dragon's finale battle proved the ships were the hard part, not the dragons
+title: The ships were the hard part in House of the Dragon's finale battle
 date: 2026-08-13
 category: Film & TV
 cover: /img/blog/house-of-the-dragon-gullet/cover.svg

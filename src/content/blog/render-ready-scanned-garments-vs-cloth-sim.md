@@ -21,7 +21,7 @@ reads as denim, or silk, or a stiff canvas jacket. It usually does, close up, in
 Where it falls apart is exactly the stuff a hero asset gets scrutinised for: how a collar sits
 against a collarbone at a specific neck angle, how a jacket hem catches on a hip during a run
 cycle, the way real fabric holds a crease from being folded in a drawer instead of settling into
-the mathematically relaxed pose a solver defaults to. None of that is wrong, exactly. It's just
+the mathematically relaxed pose a solver defaults to. That is broadly right. It's just
 invented — a plausible answer standing in for a measurement, tuned by an artist's eye rather than
 checked against the actual object.
 
@@ -62,7 +62,7 @@ scanning is worth more right now than it was two years ago, beyond any single he
 
 ## What I'd actually watch for
 
-Not whether scanned garments replace cloth sim — they won't, for the reasons above. What's worth
+Scanned garments will not replace cloth sim, for the reasons above. What's worth
 watching is whether "scan it once, license the data forever" becomes a normal line item next to
 "simulate it per-shot," the same way photogrammetry libraries sit next to procedural texturing
 tools today rather than replacing them. And separately, whether the AI-training side of this

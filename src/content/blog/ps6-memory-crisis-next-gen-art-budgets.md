@@ -1,5 +1,5 @@
 ---
-title: Sony still can't give PS6 a launch date, and the reason is a budget I recognise
+title: Memory prices are why Sony still can't date the PS6
 date: 2026-08-19
 category: Tech
 excerpt: Sony's CEO says PS6 pricing and timing are still undecided because DRAM stays expensive through FY2027. For anyone who plans texture streaming pools for a living, that's not investor-call noise, it's the exact budget problem I run into on every environment.
@@ -59,7 +59,7 @@ market that is not behaving like previous cycles.
 
 ## What I'm actually watching for
 
-Not the launch date itself, that's Sony's problem to solve. What I want to see once real specs
+The launch date is Sony's problem to solve. What I want to see once real specs
 leak is the **memory bandwidth and total pool figures relative to PS5**, not just the number on a
 spec sheet. A modest bump there is the tell that virtualized texturing, aggressive streaming, and
 instance-heavy techniques stop being "nice to have" tools for saving memory and become the

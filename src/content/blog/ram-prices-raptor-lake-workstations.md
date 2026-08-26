@@ -19,7 +19,7 @@ graphics card, and it's arguably a bigger problem for anyone running a real DCC 
 
 A 32GB DDR5 kit was around **95 dollars in mid-2025**. Current market trackers put the same
 class of kit somewhere in the **550-600 dollar range** heading into the back half of 2026.
-That's not a bad week for pricing, that's close to a **480% increase** in about a year.
+That is close to a **480% increase** in about a year.
 Lead times on DDR4 and DDR5 modules have stretched past **20 to 30 weeks**, and a chunk of
 what is available is going out under allocation, meaning the person quoting your build
 literally cannot promise you the kit they quoted last month.

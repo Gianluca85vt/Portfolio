@@ -59,7 +59,7 @@ needed.
 Learn UE5. Properly. All of it.
 
 Every hour you put into lighting, Nanite, Lumen, material work, world building, and
-optimisation transfers directly. None of that is Verse-shaped. The renderer is not being
+optimisation transfers directly. Verse fits none of it. The renderer is not being
 rewritten out from under you — it is the foundation UE6 is being built on top of.
 
 The only thing I would change: if you have been meaning to poke at UEFN and kept putting it

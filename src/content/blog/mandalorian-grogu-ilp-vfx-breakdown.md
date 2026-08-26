@@ -1,5 +1,5 @@
 ---
-title: The LED volume in The Mandalorian and Grogu isn't lighting an actor. It's lighting a 48-inch model spaceship.
+title: The LED volume in The Mandalorian and Grogu is lighting a 48-inch model spaceship
 date: 2026-08-25
 category: Film & TV
 excerpt: Important Looking Pirates has posted its VFX breakdown for the film, covering the environment work and the return of Zeb Orrelios as a CG character. The more interesting story sits one level down, in how the production used its LED volume.
@@ -51,7 +51,7 @@ where a puppet could carry the beat, stop-motion where stop-motion was the
 faster and more honest answer, physical miniatures lit correctly in-camera
 rather than lit later at a workstation.
 
-None of that is nostalgia for its own sake. A model lit correctly on set gives
+It earns its place beyond the nostalgia. A model lit correctly on set gives
 every downstream artist a ground truth to match instead of a guess, and
 composite, lighting and CG all get cheaper and more convincing when they're
 matching something real rather than inventing everything from a grey card.

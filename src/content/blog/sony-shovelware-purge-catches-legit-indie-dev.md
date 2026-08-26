@@ -1,5 +1,5 @@
 ---
-title: Sony's shovelware purge just deleted a real developer's whole catalogue, and the detection problem is the actual story
+title: Sony's shovelware purge deleted a real developer's entire catalogue
 date: 2026-08-17
 category: Games
 cover: /img/blog/sony-shovelware-purge-catches-legit-indie-dev/shot-01.jpg

@@ -1,5 +1,5 @@
 ---
-title: Widow's Bay just won Best Set Decoration, and the trick is that nothing on screen looks designed
+title: Widow's Bay won Best Set Decoration for a set that looks undesigned
 date: 2026-08-14
 category: Film & TV
 excerpt: The Set Decorators Society of America gave Widow's Bay its top TV award this week. I went looking for how a fictional cursed island ended up looking more real than most real locations, and it's a masterclass in restraint.
@@ -45,8 +45,7 @@ invisible work that takes.
 
 The line from Arnold that stuck with me: *"I've been in a lot of places
 caught in time, where you go into houses and old businesses and they just
-haven't changed."* That's not a mood board note, that's a production
-methodology — go find the real thing, study exactly how disuse and decades
+haven't changed."* That is a production methodology — go find the real thing, study exactly how disuse and decades
 of small repairs actually look, then reproduce that specific kind of wear
 rather than an artist's idea of "old." The reporting describes the target
 as a faded, washed-out, weathered coastal feeling, which is a look you only

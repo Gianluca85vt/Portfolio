@@ -75,7 +75,7 @@ closed with offline re-rendering versus how much gets hidden behind
 refractive glass and low-key lighting — because darkness and distortion are
 also just very good at not showing you a real-time shader doing its best.
 
-None of this is a knock on the sequence. It's a sign of where the budget
+The sequence is excellent, for the record. It's a sign of where the budget
 actually goes on a licensed AAA game now: reuse the expensive asset (the
 actor's captured performance) across as many deliverables as possible,
 including the ones that used to be an entirely separate production. The

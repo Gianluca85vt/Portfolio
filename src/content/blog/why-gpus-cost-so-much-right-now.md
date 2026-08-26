@@ -1,5 +1,5 @@
 ---
-title: Your next GPU costs as much as a used car, and here is why
+title: Why your next GPU costs as much as a used car
 date: 2026-08-09
 category: Tech
 cover: /img/blog/covers/gpu-prices.svg
@@ -31,12 +31,12 @@ On some high-end cards, VRAM is now more than **80% of the entire bill of materi
 are not really buying a graphics processor any more. You are buying memory, with a
 processor attached.
 
-## This is not a spike, it is a plateau
+## This is a plateau, not a spike
 
 I know the instinct. Wait a few months, let it cool off, buy at a sane price. That is what
 usually happens.
 
-Not this time. MSI has told investors to expect gaming hardware prices to climb **15 to 30%
+That correction is not coming. MSI has told investors to expect gaming hardware prices to climb **15 to 30%
 across 2026**, pointing at a roughly 20% GPU supply shortfall from Nvidia on top of the
 memory shortage. Analysts at TrendForce, IDC and Intel are all landing on **2027 or 2028**
 before memory supply meaningfully normalises.

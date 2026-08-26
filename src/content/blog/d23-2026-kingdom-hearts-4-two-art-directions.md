@@ -100,8 +100,8 @@ be copied for a decade.
 
 ## What I would watch for
 
-Not the trailer. Trailers are graded shot by shot and tell you nothing about
-what holds up in motion under player-controlled cameras.
+Trailers are graded shot by shot and tell you nothing about what holds up in
+motion under player-controlled cameras.
 
 Watch instead for the first **uncut gameplay** in Coco, and specifically the
 transitions — the moment Sora arrives, the moment a cutscene hands back control.

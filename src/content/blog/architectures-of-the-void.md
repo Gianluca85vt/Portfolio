@@ -1,5 +1,5 @@
 ---
-title: Gamescom week, and the corridor we keep rebuilding
+title: We can build anything. Gamescom week chose the back catalogue.
 date: 2026-08-26
 category: Games
 column: Architectures of the Void — the Monday editorial
@@ -7,14 +7,13 @@ cover: /img/blog/built-to-be-looked-at/cover.jpg
 excerpt: We have the tools to build entire universes. We use them to rebuild the same corridor from fifteen years ago, in 8K. Gamescom week made the case better than I could, and then a game from 2015 quietly demolished it.
 ---
 
-Everything I watched on Monday night was built to be looked at.
-
-Not played. Looked at. Two hours of footage cut to survive a stage, an audience,
-and a clip on someone's timeline — and I say that as someone who has built
+Everything I watched on Monday night was built to be looked at rather than
+played. Two hours of footage cut to survive a stage, an audience, and a clip on
+someone's timeline — and I say that as someone who has built
 exactly that kind of thing, and who will explain further down what it cost.
 
-Opening Night Live is not the problem. It is a symptom, and this year it was
-unusually honest about what it is.
+Opening Night Live is a symptom rather than a cause, and this year it was
+unusually honest about it.
 
 ## Gilded cages
 
@@ -50,8 +49,7 @@ does not exist yet.
 You take the two minutes somebody is going to see. You light it for one camera
 angle. You put the good asset where the eye lands and a box with a texture on it
 where it does not. You do not build the systems, you build the appearance of the
-systems working. Everyone does this. It is not fraud, it is how you get money to
-make the rest.
+systems working. Everyone does this. It is how you get money to make the rest.
 
 The trouble starts when the slice is the only thing that ever exists.
 
@@ -99,7 +97,7 @@ It is eleven years old now. Everything technical about it has been surpassed,
 some of it twice over. The lighting is baked. The foliage is cards. The LODs pop
 if you look sideways while riding.
 
-And it still stops me. Not out of nostalgia — I go back and there are vistas
+And it still stops me. I go back and there are vistas
 that make me stop the horse, and an action-RPG rhythm that holds up against
 things built a decade later with an order of magnitude more compute.
 
@@ -147,9 +145,8 @@ And the industry keeps being surprised when the pre-approved thing feels hollow,
 as though fidelity were the missing ingredient.
 
 An eleven-year-old game with baked lighting and cardboard trees is still out
-there stopping people mid-ride. Not because of what it was built with. Because
-of how many times somebody decided to do the harder thing in a place where it
-would never be seen.
+there stopping people mid-ride, because of how many times somebody decided to do
+the harder thing in a place where it would never be seen.
 
 We do not have a technology problem. We have a nerve problem.
 

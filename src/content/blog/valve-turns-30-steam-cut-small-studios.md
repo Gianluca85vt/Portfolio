@@ -68,7 +68,7 @@ budget already is.
 
 ## Why this is worth flagging today specifically
 
-None of this is news, exactly — the tier structure has been public since
+This is hardly news — the tier structure has been public since
 2018 and itch.io's model has been public since it launched. What the
 anniversary is a good excuse for is saying it plainly, because "Valve
 lowered its fees" is the kind of headline that circulates every few years

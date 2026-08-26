@@ -1,5 +1,5 @@
 ---
-title: Warren Spector is retiring, and it's worth talking about what his levels actually did
+title: What Warren Spector's levels did with space
 date: 2026-08-19
 category: Games
 excerpt: The Deus Ex and System Shock designer announced his retirement after 44 years. The tribute pieces are covering the CV — I want to talk about why immersive sim spaces are still the hardest thing an environment artist can be asked to build.
@@ -72,7 +72,7 @@ scripted path covers it.
 
 ## What I'd actually take from this
 
-Not nostalgia. The lesson for anyone doing environment work today is that
+The lesson for anyone doing environment work today is that
 "immersive" was never about density of detail — it was about a space that
 stays true under player behavior nobody explicitly designed for. That's a
 cheaper trick than full multi-route level design: reactive lighting states,

@@ -65,7 +65,7 @@ scene, just with different tools:
   what a lighting artist reaches for a colour-graded LUT to do now — except here it's
   baked into the paint, scene by scene, by hand.
 
-None of that is nostalgia talking. Those are still the load-bearing decisions in any
+That holds up under a second look. Those are still the load-bearing decisions in any
 "future megacity" environment I've seen shipped in Unreal or Unity in the last few
 years. The tools changed. The problems Ogura's team was solving with an airbrush in
 1995 didn't.

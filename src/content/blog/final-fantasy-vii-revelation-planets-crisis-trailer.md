@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VII Revelation just added a parachute, and that's a bigger problem than it sounds
+title: Final Fantasy VII Revelation added a parachute. Now the rooftops have to exist.
 date: 2026-08-26
 category: Games
 cover: /img/blog/final-fantasy-vii-revelation-planets-crisis-trailer/cover.jpg
@@ -37,15 +37,14 @@ Rebirth already had Chocobos, so that one is an extension. The other two are
 new, and they change the shape of the world in a way that lands almost entirely
 on the environment team.
 
-Here is the thing about a parachute. The moment you give a player one, they are
-above the level. Not on a scripted flight path with the camera pointed where you
-want it — above, drifting, looking down and sideways at their own pace.
+A parachute puts the player above the level. Not on a flight path with the
+camera aimed where you want it — drifting, looking down and sideways at their
+own pace.
 
 ## What players see from up there
 
-An open world built for a person on the ground is, structurally, a set. Not
-dishonestly — it's just that budget goes where eyes go, and eyes go forward and
-slightly down.
+An open world built for a person on the ground is, structurally, a set. Budget
+goes where eyes go, and eyes go forward and slightly down.
 
 So rooftops get simplified, because you're never on one. The far side of a ridge
 carries lower-resolution terrain. Buildings that are only ever seen from the
@@ -64,8 +63,8 @@ A grappling hook does the same thing at a smaller scale and higher frequency. It
 puts players on ledges, on walls, on the tops of things, in places a designer
 did not choose for them.
 
-None of this is a criticism. It's the cost of the feature, and it's a cost
-Square Enix has clearly decided to pay, which is itself the interesting signal:
+It is the cost of the feature, and Square Enix has clearly decided to pay it.
+Which is the interesting signal:
 you don't add aerial traversal late. That decision was made early enough for the
 world to be built around it.
 

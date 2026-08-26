@@ -226,8 +226,8 @@ seen from the good side and the bad side.
 The tools to fix it are the boring ones, which is usually a good sign: pull the
 saturation and the value range down on assists so the point characters stay
 dominant, put a stronger rim or a subtle desaturation on the non-active fighter,
-darken the stage behind a super instead of adding light on top of it. None of
-that requires new tech. All of it requires someone with authority to say the
+darken the stage behind a super instead of adding light on top of it. All of
+that needs is someone with the authority to say the
 effect is too loud and mean it. That is an art direction call, and it is
 patchable.
 
@@ -254,14 +254,13 @@ The stages carry the same care, and this is the bit I keep going back to:
 
 <figure>
   <img src="/img/blog/marvel-tokon/screen-05.jpg" loading="lazy" width="1440" height="810" alt="Ghost Rider fighting outside Fogwell's Gym on a street cordoned off by Damage Control, with armed agents watching from behind the tape" />
-  <figcaption>Damage Control have taped off the street and their agents are watching the fight. The gym is Fogwell's. None of it is mechanical, all of it is doing a job.</figcaption>
+  <figcaption>Damage Control have taped off the street and their agents are watching the fight. The gym is Fogwell's. Every piece of it is doing a job.</figcaption>
 </figure>
 
 Look at what is in that frame. Damage Control have cordoned off the street.
 Their agents are standing behind the tape watching the fight. It is set outside
-Fogwell's Gym, which is where Daredevil's father boxed. None of that is
-mechanical — you could strip every bit of it out and the fight would play the
-same. It is there because environment work at this level is world-building, and
+Fogwell's Gym, which is where Daredevil's father boxed. You could strip every
+bit of it out and the fight would play the same. It is there because environment work at this level is world-building, and
 somebody understood that a background is a chance to tell you where you are and
 who is watching.
 

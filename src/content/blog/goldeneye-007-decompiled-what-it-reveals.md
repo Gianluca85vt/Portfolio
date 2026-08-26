@@ -1,5 +1,5 @@
 ---
-title: GoldenEye 007 has been fully decompiled, and the source tells you exactly how N64 games were built
+title: What GoldenEye 007's decompiled source shows about building for the N64
 date: 2026-08-18
 category: Tech
 excerpt: A half-decade reverse-engineering project just hit 100 percent on GoldenEye 007's source code. Beyond the mod and port potential, it's a rare look at how Rare fit a whole level into memory nobody today would call generous.

@@ -53,7 +53,7 @@ workers weren't represented in the negotiations that decided their employer's
 ownership structure. Whether that scrutiny materializes is a separate question from
 whether the discomfort is genuine — it clearly is.
 
-None of this is a studio list. It's the temperature of the building, and the
+I am describing the atmosphere in a building. It's the temperature of the building, and the
 temperature is cold.
 
 ## Why this is the art department's problem specifically

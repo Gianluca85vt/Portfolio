@@ -1,5 +1,5 @@
 ---
-title: Harvey Smith's new studio isn't the story. Rebuilding what Arkane Austin knew how to build is.
+title: Harvey Smith's new studio is rebuilding what Arkane Austin knew
 date: 2026-08-20
 category: Games
 excerpt: Black Pony Immersive went public this week, two years after Microsoft closed Arkane Austin and let 96 people go. The headlines are about the founders. The harder question is whether you can rebuild an environment-art culture from scratch at 26 people.
@@ -34,8 +34,8 @@ modular kit-bashing systems tuned for reuse across multiple traversal routes,
 lighting workflows built around player-triggered state changes rather than
 fixed camera beats, and a level-design-to-environment-art handoff where the
 blockout and the final dressing pass were expected to survive several rounds
-of systemic redesign without a full rebuild. None of that is a document you
-can hand to a new hire. It's tribal knowledge that lives in a team, and when
+of systemic redesign without a full rebuild. Try handing that to a new hire as a document. It is tribal knowledge that lives
+in a team, and when
 the team is laid off, the knowledge scatters with it.
 
 <figure>

@@ -1,5 +1,5 @@
 ---
-title: Diablo 4 is reportedly coming to Switch 2, and the interesting part isn't the release date
+title: What porting Diablo 4 to Switch 2 costs the art team
 date: 2026-08-18
 category: Games
 excerpt: A leaked Age of Hatred Collection would put Diablo 4 and both its expansions on Switch 2 next month. Nobody has said how — and for a game built on dense particle storms and hundreds of monsters on screen, "how" is the whole job.

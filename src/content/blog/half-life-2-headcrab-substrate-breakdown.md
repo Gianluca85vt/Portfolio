@@ -27,7 +27,7 @@ texture on one UV set, and a triangle budget that drops from 16K at LOD0 down to
 the write-up, which matters for how much you can trust the numbers below as actually
 representing manual technique rather than a generated shortcut.
 
-None of that is the headline, though. The headline is that he wrote up all of it — a
+The headline is elsewhere, though. The headline is that he wrote up all of it — a
 **62-page case study**, freely published, of every decision that went into the model,
 the rig and, above all, the shader.
 

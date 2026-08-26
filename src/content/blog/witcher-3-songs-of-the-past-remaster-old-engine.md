@@ -79,7 +79,7 @@ higher-resolution textures, and a photo mode. So a 2026 remaster is a third pass
 over the same geometry, and the obvious question is what's actually left to
 improve.
 
-Not much, if you think a remaster means resolution. Quite a lot, if you know
+Very little, if a remaster means resolution to you. Quite a lot, once you know
 what a 2015 open world is made of underneath.
 
 The original was built for a memory budget that assumed a PS4. That shows up in
