@@ -1,6 +1,31 @@
-# Games — harvested 2026-08-26T08:22:58.221Z
+# Games — harvested 2026-08-26T11:05:56.490Z
 
 ## Eurogamer
+
+### Path of Exile 2 finally has its 1.0 release date and it's coming this year
+Wed, 26 Aug 2026 11:03:14 +0000 — https://www.eurogamer.net/path-of-exile-2-version-1-0-free-to-play-date
+
+Grinding Gear Games made a surprise Path of Exile 2 announcement at Gamescom Opening Night Live yesterday. The developer confirmed when the game's long-awaited 1.0 release will be. Read more
+
+### It sure seems like The Witcher 3: Songs of the Past is introducing at least one new romanceable character for Geralt to woo
+Wed, 26 Aug 2026 10:38:38 +0000 — https://www.eurogamer.net/witcher-3-songs-of-the-past-romance-geralt
+
+Who was your first choice for romance in The Witcher 3 ? Sure, everyone knows about Triss and Yen, but there's also Keira, Sasha, Jutta an Dimun, Shani, Sylvia&hellip; the list goes on. And it sure looks like, in the upcoming expansion Songs of the Past, Geralt is going to be able to add at least one more name to that list. Read more
+
+### The story for Witcher 3: Songs of the Past was actually written "years ago", according to Fool's Theory CEO
+Wed, 26 Aug 2026 10:27:37 +0000 — https://www.eurogamer.net/witcher-3-songs-of-the-past-story-written-years-ago-interview
+
+Last night, CD Projekt Red showed off the first footage we've seen for The Witcher 3 expansion, Songs of the Past - new content for the game launching some 11 years after the base game was released. The expansion takes us to a new location, Letten, a bucolic country very far from the conflicts and politics that dominate the rest of the continent Geralt calls home. But all is not as it seems in Letten - shortly after Geralt's arrival, his friend Dandelion goes missing, and what starts as a simple search for a missing bard quickly becomes a job worthy of a Witcher. Read more
+
+### The legendary Heroes of Might and Magic 3 is being remade by Ubisoft, and while it's visually redone, it's reportedly like-for-like in terms of gameplay
+Wed, 26 Aug 2026 09:47:11 +0000 — https://www.eurogamer.net/heroes-of-might-and-magic-3-remade-ubisoft
+
+Heroes of Might and Magic 3, the iconic and arguably never-bettered strategic fantasy role-playing game, is being remade by Ubisoft for release on PC, PlayStation 5 and Xbox Series S/X at some point next year. Related: the Complete Edition of Heroes of Might and Magic 3 is now available on Steam for the first time. Read more
+
+### No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look
+Wed, 26 Aug 2026 08:51:30 +0000 — https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response
+
+One of the bigger Gamescom Opening Night Live pre-show reveals was Humankind 2, the sequel to Amplitude's Civilization-like 4X game from 2021 . The trailer didn't feature much gameplay, rather a swiftly moving cinematic montage of Earth through humanity's ages, and it immediately sparked suspicions of gen-AI use because of the way it looks. Read more
 
 ### Metro 2039 is a game about war that actually has something to say
 Wed, 26 Aug 2026 07:01:00 +0000 — https://www.eurogamer.net/metro-2039-preview-interview-war-ukraine-bloch-ulmer
@@ -37,32 +62,12 @@ Tue, 25 Aug 2026 19:00:54 +0000 — https://www.eurogamer.net/dungeons-dragons-g
 
 Dungeons & Dragons game Warlock has had a first proper trailer featured at Gamescom Opening Night Live this evening. Read more
 
-### Mass Effect-like Exodus gets a release date, while showcasing an octopus companion in a mech suit
-Tue, 25 Aug 2026 18:45:40 +0000 — https://www.eurogamer.net/exodus-release-date-mass-effect
-
-The excitingly Mass Effect -like sci-fi role-playing game Exodus has a proper release date: 7th April 2027. It's coming to PC (Steam and Epic), PlayStation 5, and Xbox Series X/S. Read more
-
-### Humankind 2 announced, coming 2027, and promises climate change and "a new take on historical strategy"
-Tue, 25 Aug 2026 18:15:20 +0000 — https://www.eurogamer.net/humankind-2-announced-coming-2027-and-promises-climate-change-and-a-new-take-on-historical-strategy
-
-Amplitude has announced Humankind 2, a sequel to the quietly popular Civ-like 4X game Humankind, during the Gamescom Opening Night Live pre show this evening. Read more
-
-### Gamescom Opening Night Live 2026 report - all the news and announcements as Witcher 3 expansion Songs of the Past shown for first time
-Tue, 25 Aug 2026 14:33:38 +0000 — https://www.eurogamer.net/gamescom-opening-night-live-2026-report
-
-German mega-show Gamescom officially gets under way this evening with the Opening Night Live showcase hosted by Geoff "bright trainers" Keighley. And we'll be covering all of the news and announcements live, right here, in this article. Read more
-
-### "People wanted faster movement, but not this fast" - Call of Duty: Modern Warfare 4 beta players aren't happy with slide spammers and the increased pace of the game
-Tue, 25 Aug 2026 14:25:02 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-player-reaction
-
-The first session of the Call of Duty: Modern Warfare 4 beta is nearly over after five days of multiplayer action . The beta saw high player numbers on Steam and elsewhere, despite mainly being available to players who pre-ordered the game. Those eager players have had a lot of thoughts to share about their time with Modern Warfare 4 since. And, as you might have expected given all the pre-beta discourse , gameplay movement has been the main topic discussed, as the faster pace has divided players. Read more
-
-### The Witcher 4's 2028 release date sparks PS5 physical release concerns, but is there anything CD Projekt Red can do to avoid Sony's decision?
-Tue, 25 Aug 2026 12:44:03 +0000 — https://www.eurogamer.net/the-witcher-4-release-date-sony-disc-controversy
-
-The Witcher 4 's newly communicated 2028 release date is causing concern among its community about whether the game releases physically on a disc or not. Read more
-
 ## GamesIndustry.biz
+
+### Testronic expands senior leadership, Mike Guttman appointed vice president of senior partnerships
+Wed, 26 Aug 2026 09:39:21 +0000 — https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships
+
+Testronic has made several senior appointments across its global locations, including Mike Guttman as vice president of senior partnerships. Read more
 
 ### Roblox applies restrictions to games featuring "reward-driven media feeds" available in Roblox Kids and Select
 Wed, 26 Aug 2026 08:10:26 +0000 — https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select
@@ -119,16 +124,26 @@ Tue, 25 Aug 2026 11:00:00 +0000 — https://www.gamesindustry.biz/gamescom-dev-h
 
 Frederik Hammes, who took over from Stephan Reichart as managing director of Gamescom Dev this year, says the results of the Gamescom Dev speaker survey show that smaller studios represent the biggest opportunity in the games market right now. Read more
 
-### Newzoo: Global games market to generate $213.9bn in 2026, up 6.1% YoY
-Tue, 25 Aug 2026 09:14:43 +0000 — https://www.gamesindustry.biz/newzoo-global-games-market-to-generate-2139bn-in-2026-up-61-yoy
-
-Newzoo projects the global games market will grow 6.1% to $213.9 billion, with over half of consumer spending originating from China and the US. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Silent Hill: Townfall Has Some Familiar Faces, Cast Revealed in New Trailer
+Wed, 26 Aug 2026 10:45:00 GMT — https://www.pushsquare.com/news/2026/08/silent-hill-townfall-has-some-familiar-faces-cast-revealed-in-new-trailer
+
+Locke them up. Publisher Konami has released a new trailer for its upcoming survival horror game, Silent Hill: Townfall , and it reveals a handful of cast members. Check it out below: Read the full article on pushsquare.com
+
+### Pragmata Fully Leans into Mega Man Conspiracy with a Ridiculous In-Game Outfit
+Wed, 26 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/pragmata-fully-leans-into-mega-man-conspiracy-with-a-ridiculous-in-game-outfit
+
+Coming soon. If you recall, prior to the release of Pragmata , some fans convinced themselves that the new Capcom action was secretly a Mega Man game. That didn't turn out to be true, but the theory did spread surprisingly far — enough that the publisher purposefully poked fun at it in an April Fools joke . Read the full article on pushsquare.com
+
+### PS5 Action RPG Warlock: Dungeons & Dragons Is All Swords and Sorcery in Debut Gameplay
+Wed, 26 Aug 2026 09:45:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-action-rpg-warlock-dungeons-and-dragons-is-all-swords-and-sorcery-in-debut-gameplay
+
+It's a kind of magic. Publisher Wizards of the Coast and developer Invoke Studios have debuted about eight minutes of gameplay from Warlock: Dungeons & Dragons , the upcoming action RPG set within the ever-popular fantasy world. As the name suggests, you play as a warlock named Kaatri, who's on a quest to find someone with the aid of powerful witch Tasha. Read the full article on pushsquare.com
 
 ### Round Up: What Was Announced at Gamescom Opening Night Live 2026?
 Wed, 26 Aug 2026 01:30:00 GMT — https://www.pushsquare.com/features/round-up-what-was-announced-at-gamescom-opening-night-live-2026
@@ -175,21 +190,6 @@ Tue, 25 Aug 2026 19:50:00 GMT — https://www.pushsquare.com/news/2026/08/guitar
 
 Happy holidays. Publisher and developer RedOctane has announced a release date for Stage Tour , its spiritual successor to Guitar Hero . The plastic instrument rhythm title hits PS5 on 10th December, 2026, squeaking in just before Christmas. Read the full article on pushsquare.com
 
-### Mega Man: Dual Override Reveals Proto Man in Brand New PS5 Gameplay Trailer
-Tue, 25 Aug 2026 19:45:00 GMT — https://www.pushsquare.com/news/2026/08/mega-man-dual-override-reveals-proto-man-in-brand-new-ps5-gameplay-trailer
-
-Mega Men. Publisher Capcom has unveiled a new look at Mega Man: Dual Override , the next entry in the long-running action platformer series. Coming to both PS5 and PS4 in 2027, the game is looking promising in this first proper look at the action: Read the full article on pushsquare.com
-
-### Rainbow Six Tactics Puts an XCOM Spin on Ubisoft s Series in 2027
-Tue, 25 Aug 2026 19:40:00 GMT — https://www.pushsquare.com/news/2026/08/rainbow-six-tactics-puts-an-xcom-spin-on-ubisofts-series-in-2027
-
-Rainbow Six-COM, is that anything? Publisher Ubisoft has announced Rainbow Six Tactics , putting its long-running series into a brand new genre. As the name suggests, the game is a turn-based strategy game, cut from the same cloth as the likes of XCOM . Read the full article on pushsquare.com
-
-### Crimson Desert Enhanced Edition Out Now on PS5, Featuring Story Improvements
-Tue, 25 Aug 2026 19:35:00 GMT — https://www.pushsquare.com/news/2026/08/crimson-desert-enhanced-edition-out-now-on-ps5-featuring-story-improvements
-
-A free update for existing owners. Crimson Desert's only been out for five months, but it's already been handed an 'Enhanced' edition that's now available on PS5. To be clear, this is basically a rebranding of the existing game. If you buy Crimson Desert from this point on, you get the Enhanced edition by default. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Riot Games is winding down 2XKO active development in December
@@ -226,9 +226,4 @@ Mon, 24 Aug 2026 20:43:51 GMT — https://www.gamedeveloper.com/business/creativ
 Mon, 24 Aug 2026 16:30:00 GMT — https://www.gamedeveloper.com/business/mutter-and-blue-prince-among-winners-at-gamescom-dev-awards-2026
 
 Six winners were crowned in Cologne.
-
-### 'Each event has to feel local and relevant to its market:' Gamescom wants responsible expansion after record-breaking year
-Mon, 24 Aug 2026 09:23:12 GMT — https://www.gamedeveloper.com/business/-each-event-has-to-feel-local-and-relevant-to-its-market-gamescom-boss-wants-responsible-expansion-after-record-breaking-year
-
-Gamescom 2026 is about to deliver its biggest show in history, so where does the industry expo head next?
 

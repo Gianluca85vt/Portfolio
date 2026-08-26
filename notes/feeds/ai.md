@@ -1,6 +1,11 @@
-# AI — harvested 2026-08-26T08:22:58.221Z
+# AI — harvested 2026-08-26T11:05:56.490Z
 
 ## OpenAI
+
+### How loveholidays is making everyone a builder with Codex
+Wed, 26 Aug 2026 00:00:00 GMT — https://openai.com/index/loveholidays
+
+Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.
 
 ### The full stack behind abundant intelligence
 Tue, 25 Aug 2026 07:05:00 GMT — https://openai.com/index/the-full-stack-behind-abundant-intelligence
