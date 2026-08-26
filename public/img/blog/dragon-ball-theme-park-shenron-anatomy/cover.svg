@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="A 70-metre Shenron and the anatomy nobody drew">
+  <defs>
+    <linearGradient id="dbbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#42250B"/>
+      <stop offset="100%" stop-color="#C8891B"/>
+    </linearGradient>
+    <linearGradient id="dbrule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C8891B"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#dbbg)"/>
+
+  <!-- seven dragon balls, faint -->
+  <g fill="#FFFFFF" fill-opacity="0.10">
+    <circle cx="120" cy="800" r="26"/>
+    <circle cx="196" cy="822" r="26"/>
+    <circle cx="272" cy="800" r="26"/>
+    <circle cx="928" cy="800" r="26"/>
+    <circle cx="1004" cy="822" r="26"/>
+    <circle cx="1080" cy="800" r="26"/>
+    <circle cx="600" cy="856" r="26"/>
+  </g>
+
+  <!-- coiling silhouette: a line with no fixed thickness -->
+  <g fill="none" stroke="#FFFFFF" stroke-opacity="0.14" stroke-linecap="round">
+    <path d="M90 640C260 470 420 700 600 560S960 400 1120 560" stroke-width="30"/>
+    <path d="M90 690C260 520 420 750 600 610S960 450 1120 610" stroke-width="8"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="140" font-size="30" letter-spacing="10" fill="#FFFFFF" fill-opacity="0.45">DRAWN, THEN BUILT</text>
+
+    <text x="600" y="330" font-size="200" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">70m</text>
+
+    <text x="600" y="410" font-size="44" fill="#FFFFFF" fill-opacity="0.92">of Shenron, with a coaster through him</text>
+  </g>
+
+  <rect x="500" y="450" width="200" height="8" rx="4" fill="url(#dbrule)"/>
+</svg>
