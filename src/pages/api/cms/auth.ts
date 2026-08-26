@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 import { env } from '../../../lib/env';
 import { passwordMatches } from '../../../lib/session';
-import { createCmsCookie, clearedCmsCookie } from '../../../lib/session';
+import { createCmsCookie, clearedCmsCookie, clearedHostOnlyCmsCookie } from '../../../lib/session';
 import {
   accountsConfigured,
   countEditors,
@@ -32,15 +32,24 @@ export const prerender = false;
  * whoever set up the account — ever knows it.
  */
 
-const json = (body: unknown, status = 200, cookie?: string) =>
-  new Response(JSON.stringify(body), {
-    status,
-    headers: {
-      'content-type': 'application/json',
-      'cache-control': 'no-store',
-      ...(cookie ? { 'set-cookie': cookie } : {}),
-    },
+const json = (body: unknown, status = 200, cookies?: string | string[]) => {
+  const headers = new Headers({
+    'content-type': 'application/json',
+    'cache-control': 'no-store',
   });
+  // append rather than an object literal, because a response may need to set
+  // one cookie and expire another of the same name, and an object cannot hold
+  // two entries under one key.
+  for (const c of cookies ? (Array.isArray(cookies) ? cookies : [cookies]) : []) {
+    headers.append('set-cookie', c);
+  }
+  return new Response(JSON.stringify(body), { status, headers });
+};
+
+/** A fresh cookie, plus the expiry of any host-only twin left from before. */
+function withCleanup(cookie: string | null, secure: boolean) {
+  return cookie ? [clearedHostOnlyCmsCookie(secure), cookie] : undefined;
+}
 
 async function hashIp(request: Request) {
   const salt = env('COMMENT_IP_SALT');
@@ -97,7 +106,7 @@ export const POST: APIRoute = async ({ request, url }) => {
     if (!set.ok) return json({ error: set.error }, 400);
 
     const cookie = await createCmsCookie({ id: made.editor.id, role: 'admin' }, secure, host);
-    return json({ ok: true, role: 'admin' }, 200, cookie ?? undefined);
+    return json({ ok: true, role: 'admin' }, 200, withCleanup(cookie, secure));
   }
 
   /* --------------------------------------------------------------- invite */
@@ -107,7 +116,7 @@ export const POST: APIRoute = async ({ request, url }) => {
     if (!set.ok) return json({ error: set.error }, 400);
 
     const cookie = await createCmsCookie({ id: set.editor.id, role: set.editor.role }, secure, host);
-    return json({ ok: true, role: set.editor.role }, 200, cookie ?? undefined);
+    return json({ ok: true, role: set.editor.role }, 200, withCleanup(cookie, secure));
   }
 
   /* ---------------------------------------------------------------- login */
@@ -139,7 +148,7 @@ export const POST: APIRoute = async ({ request, url }) => {
 
     await touchLogin(editor.id);
     const cookie = await createCmsCookie({ id: editor.id, role: editor.role }, secure, host);
-    return json({ ok: true, role: editor.role, name: editor.display_name }, 200, cookie ?? undefined);
+    return json({ ok: true, role: editor.role, name: editor.display_name }, 200, withCleanup(cookie, secure));
   }
 
   /* --------------------------------------------------------------- logout */

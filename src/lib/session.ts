@@ -124,20 +124,53 @@ export function clearedCmsCookie(secure: boolean, host?: string | null) {
   return `${CMS_COOKIE}=; Path=/;${cookieDomain(host ?? null)} HttpOnly;${secure ? ' Secure;' : ''} SameSite=Lax; Max-Age=0`;
 }
 
+/**
+ * The host-only twin, expired.
+ *
+ * Sent alongside a fresh sign-in so anyone carrying a cookie from before the
+ * Domain attribute existed is not left holding two of them until the older one
+ * times out on its own.
+ */
+export function clearedHostOnlyCmsCookie(secure: boolean) {
+  return `${CMS_COOKIE}=; Path=/; HttpOnly;${secure ? ' Secure;' : ''} SameSite=Lax; Max-Age=0`;
+}
+
+/**
+ * Reads the session, trying every cookie of that name rather than the first.
+ *
+ * A browser keeps cookies that share a name but differ in Domain as separate
+ * cookies and sends them together. Adding Domain to this one therefore left
+ * people holding two: the host-only cookie from before the change, and the new
+ * one. Reading only the first meant the stale cookie won and the sign-in
+ * appeared to do nothing — while the server could plainly see a cms_session in
+ * the request, which is what made it look like the cookie was being lost.
+ *
+ * Only one can be valid, since each is signed, so trying all of them is both
+ * correct and cheap.
+ */
 export async function readCmsSession(request: Request): Promise<CmsSession | null> {
   const raw = request.headers.get('cookie') ?? '';
-  const match = new RegExp(`(?:^|;\s*)${CMS_COOKIE}=([^;]+)`).exec(raw);
-  if (!match) return null;
+  // Split rather than match. A regex built inside a template literal needs its
+  // backslashes doubled, and losing one turns \s into a literal "s" — a change
+  // that still compiles, still matches the first cookie, and silently stops
+  // matching any of the others. Splitting has nothing to get wrong.
+  const values = raw
+    .split(';')
+    .map((part) => part.trim())
+    .filter((part) => part.startsWith(`${CMS_COOKIE}=`))
+    .map((part) => part.slice(CMS_COOKIE.length + 1));
 
-  const parts = match[1].split('.');
-  if (parts.length !== 4) return null;
+  for (const value of values) {
+    const parts = value.split('.');
+    if (parts.length !== 4) continue;
 
-  const [id, role, expires, sig] = parts;
-  if (role !== 'admin' && role !== 'editor') return null;
-  if (!Number(expires) || Number(expires) < Date.now()) return null;
+    const [id, role, expires, sig] = parts;
+    if (role !== 'admin' && role !== 'editor') continue;
+    if (!Number(expires) || Number(expires) < Date.now()) continue;
 
-  const expected = await sign(`cms|${id}.${role}.${expires}`);
-  if (!expected || !safeEqual(expected, sig)) return null;
+    const expected = await sign(`cms|${id}.${role}.${expires}`);
+    if (expected && safeEqual(expected, sig)) return { id, role };
+  }
 
-  return { id, role };
+  return null;
 }
