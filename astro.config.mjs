@@ -49,7 +49,8 @@ export default defineConfig({
       // for search engines. /authors/ is now only a redirect stub pointing at
       // /about/, so listing it would invite crawls of a page whose whole job is
       // to send the crawler somewhere else.
-      filter: (page) => !page.includes('/no-track') && !page.includes('/authors'),
+      filter: (page) =>
+        !page.includes('/no-track') && !page.includes('/authors') && !page.includes('/cms'),
       serialize(item) {
         item.lastmod = new Date().toISOString();
         // The article pages are the point of the site; the utility routes are

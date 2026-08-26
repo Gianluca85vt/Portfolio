@@ -71,8 +71,9 @@ export const POST: APIRoute = async ({ request }) => {
   const editor = await requireEditor(request);
   if (editor instanceof Response) return editor;
 
-  if (!canCommit()) return json({ error: 'No GITHUB_TOKEN is configured, so nothing can be saved.' }, 503);
-
+  // Whether we *can* write is checked last, just before committing. Validating
+  // first means a bad slug says so instead of hiding behind a configuration
+  // error — and it lets the rules be exercised without a token present.
   let payload: {
     action?: string;
     slug?: string;
@@ -147,6 +148,8 @@ export const POST: APIRoute = async ({ request }) => {
       encoding: 'base64',
     });
   }
+
+  if (!canCommit()) return json({ error: 'No GITHUB_TOKEN is configured, so nothing can be written.' }, 503);
 
   const summary =
     images.length > 0

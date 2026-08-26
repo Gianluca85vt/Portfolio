@@ -349,6 +349,11 @@ export const showreel = [
   { id: 'PpM0d6EvGPU', title: 'VIBAS iVoice Chef — Kitchen Scale', tag: 'Animation' },
   { id: '8b-4h2lNpcM', title: 'VIBAS iVoice Body — Weighing Scale', tag: 'Animation' },
   { id: 'g-VhAQCOR3g', title: "What's This?", tag: 'Animation' },
+
+  // Commissioned motion design for ApplaudArt. Hosted on the client's channel,
+  // which is where commercial work lives — the embed is the same either way.
+  { id: 'WA-u31Hz1NY', title: 'ApplaudArt — Find the Professionals', tag: 'Motion Design' },
+  { id: '1riw_jYpSf8', title: 'ApplaudArt — Word of Mouth Goes Social', tag: 'Motion Design' },
 ] as const;
 
 export type GalleryItem = { src: string; title?: string };

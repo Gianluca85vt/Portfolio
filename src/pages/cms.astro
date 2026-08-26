@@ -1,0 +1,625 @@
+---
+import { blog, site } from '../data/portfolio';
+
+export const prerender = false;
+
+// The whole backend is one page. It is not a public route, so it carries no
+// navigation, no analytics and a noindex — and every button it offers is
+// re-checked on the server, because a hidden control stops nobody.
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>{blog.name} — backend</title>
+    <link rel="icon" href="/favicon.ico" />
+    <style>
+      :root {
+        --ink: #d7e2ea;
+        --ground: #0c0c0c;
+        --panel: #141318;
+        --panel-2: #1b1a20;
+        --line: rgba(215, 226, 234, 0.14);
+        --line-firm: rgba(215, 226, 234, 0.28);
+        --muted: rgba(215, 226, 234, 0.45);
+        --accent: #b600a8;
+        --good: #2ecc8f;
+        --warn: #f0904a;
+        --bad: #ff5c7a;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: var(--ground);
+        color: var(--ink);
+        font: 15px/1.55 -apple-system, "Segoe UI", Roboto, sans-serif;
+      }
+      button, input, select, textarea { font: inherit; color: inherit; }
+      a { color: var(--ink); }
+
+      .center { min-height: 100vh; display: grid; place-items: center; padding: 24px; }
+      .card {
+        width: 100%; max-width: 420px; background: var(--panel);
+        border: 1px solid var(--line); border-radius: 16px; padding: 30px;
+      }
+      .card h1 { font-size: 1.2rem; margin: 0 0 6px; }
+      .card p.sub { color: var(--muted); font-size: .88rem; margin: 0 0 22px; }
+      label { display: block; font-size: .72rem; text-transform: uppercase;
+              letter-spacing: .14em; color: var(--muted); margin: 16px 0 6px; }
+      input[type=text], input[type=email], input[type=password], select, textarea {
+        width: 100%; background: #0e0d11; border: 1px solid var(--line-firm);
+        border-radius: 9px; padding: 11px 13px; outline: none;
+      }
+      input:focus, textarea:focus, select:focus { border-color: var(--accent); }
+      .primary {
+        width: 100%; margin-top: 22px; border: 0; border-radius: 999px; cursor: pointer;
+        padding: 13px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase;
+        font-size: .72rem; color: #fff;
+        background: linear-gradient(123deg, #18011f 7%, #b600a8 37%, #7621b0 72%, #be4c00 100%);
+      }
+      .primary:disabled { opacity: .5; cursor: default; }
+      .msg { margin-top: 16px; font-size: .86rem; min-height: 1.2em; }
+      .msg.bad { color: var(--bad); }
+      .msg.good { color: var(--good); }
+
+      /* ---- app ---- */
+      header.bar {
+        display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+        padding: 14px 20px; border-bottom: 1px solid var(--line); background: var(--panel);
+        position: sticky; top: 0; z-index: 20;
+      }
+      .brand { font-weight: 700; letter-spacing: -.01em; }
+      .pill { font-size: .66rem; text-transform: uppercase; letter-spacing: .12em;
+              border: 1px solid var(--line-firm); border-radius: 999px; padding: 3px 10px; color: var(--muted); }
+      .spacer { margin-left: auto; }
+      .ghost { background: transparent; border: 1px solid var(--line-firm); border-radius: 999px;
+               padding: 8px 15px; cursor: pointer; font-size: .74rem; }
+      .ghost:hover { border-color: var(--accent); }
+      .ghost.on { border-color: var(--accent); color: #fff; }
+
+      main { padding: 20px; max-width: 1500px; margin: 0 auto; }
+      .layout { display: grid; grid-template-columns: 330px 1fr; gap: 18px; align-items: start; }
+      @media (max-width: 1000px) { .layout { grid-template-columns: 1fr; } }
+
+      .panel { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; }
+      .panel .head { padding: 13px 15px; border-bottom: 1px solid var(--line);
+                     display: flex; align-items: center; gap: 10px; }
+      .panel .head h2 { font-size: .78rem; text-transform: uppercase; letter-spacing: .14em;
+                        color: var(--muted); margin: 0; font-weight: 600; }
+      .list { max-height: 72vh; overflow: auto; }
+      .item { display: block; width: 100%; text-align: left; background: transparent; border: 0;
+              border-bottom: 1px solid var(--line); padding: 11px 15px; cursor: pointer; }
+      .item:hover { background: rgba(215,226,234,.04); }
+      .item.sel { background: rgba(182,0,168,.12); }
+      .item .t { font-size: .86rem; line-height: 1.35; }
+      .item .m { font-size: .68rem; color: var(--muted); margin-top: 4px;
+                 display: flex; gap: 8px; align-items: center; }
+      .dot { width: 7px; height: 7px; border-radius: 50%; display: inline-block; }
+      .dot.draft { background: var(--warn); }
+      .dot.live { background: var(--good); }
+
+      .editor { display: grid; grid-template-columns: 1fr 1fr; gap: 0; }
+      @media (max-width: 1240px) { .editor { grid-template-columns: 1fr; } }
+      .pane { min-width: 0; }
+      .pane + .pane { border-left: 1px solid var(--line); }
+      @media (max-width: 1240px) { .pane + .pane { border-left: 0; border-top: 1px solid var(--line); } }
+
+      .toolbar { display: flex; flex-wrap: wrap; gap: 5px; padding: 9px 12px;
+                 border-bottom: 1px solid var(--line); }
+      .toolbar button { background: #0e0d11; border: 1px solid var(--line); border-radius: 7px;
+                        padding: 5px 9px; font-size: .72rem; cursor: pointer; }
+      .toolbar button:hover { border-color: var(--accent); }
+      .toolbar .sep { width: 1px; background: var(--line); margin: 2px 4px; }
+
+      textarea.src { width: 100%; height: 62vh; border: 0; border-radius: 0; resize: vertical;
+                     background: #0a0a0c; padding: 16px; line-height: 1.65;
+                     font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 13px; }
+      .preview { height: 62vh; overflow: auto; padding: 20px 22px; }
+      .preview h1 { font-size: 1.5rem; line-height: 1.15; margin: 0 0 4px; }
+      .preview h2 { font-size: 1.05rem; margin: 26px 0 8px; }
+      .preview p { margin: 0 0 13px; }
+      .preview img { max-width: 100%; border-radius: 10px; }
+      .preview figure { margin: 18px 0; }
+      .preview figcaption { font-size: .78rem; color: var(--muted); margin-top: 7px; }
+      .preview blockquote { border-left: 2px solid var(--accent); margin: 0 0 13px; padding-left: 14px; color: var(--muted); }
+      .preview code { background: #0a0a0c; padding: 1px 5px; border-radius: 4px; font-size: .88em; }
+      .preview hr { border: 0; border-top: 1px solid var(--line); margin: 22px 0; }
+      .preview .ph { border: 1px dashed var(--line-firm); border-radius: 10px; padding: 22px;
+                     text-align: center; color: var(--muted); font-size: .8rem; }
+
+      .foot { display: flex; gap: 9px; align-items: center; flex-wrap: wrap;
+              padding: 12px 15px; border-top: 1px solid var(--line); }
+      .drop { border: 1px dashed var(--line-firm); border-radius: 10px; padding: 10px 13px;
+              font-size: .76rem; color: var(--muted); cursor: pointer; }
+      .drop.over { border-color: var(--accent); color: var(--ink); }
+      .chips { display: flex; flex-wrap: wrap; gap: 6px; padding: 0 15px 12px; }
+      .chip { font-size: .7rem; border: 1px solid var(--line-firm); border-radius: 999px;
+              padding: 4px 10px; display: flex; gap: 7px; align-items: center; }
+      .chip button { background: none; border: 0; color: var(--muted); cursor: pointer; padding: 0; }
+      .hidden { display: none !important; }
+    </style>
+  </head>
+
+  <body>
+    <div id="gate" class="center">
+      <div class="card">
+        <h1 id="gate-title">Loading…</h1>
+        <p class="sub" id="gate-sub"></p>
+        <div id="gate-fields"></div>
+        <button class="primary" id="gate-go" disabled>Wait</button>
+        <p class="msg" id="gate-msg"></p>
+      </div>
+    </div>
+
+    <div id="app" class="hidden">
+      <header class="bar">
+        <span class="brand">{blog.name}</span>
+        <span class="pill" id="who"></span>
+        <span class="spacer"></span>
+        <button class="ghost" id="f-drafts">Drafts</button>
+        <button class="ghost" id="f-live">Published</button>
+        <button class="ghost" id="new">New article</button>
+        <button class="ghost" id="out">Sign out</button>
+      </header>
+
+      <main>
+        <div class="layout">
+          <section class="panel">
+            <div class="head">
+              <h2 id="list-title">Queue</h2>
+              <span class="spacer"></span>
+              <span class="pill" id="count"></span>
+            </div>
+            <div class="list" id="list"></div>
+          </section>
+
+          <section class="panel">
+            <div class="head">
+              <h2 id="edit-title">Nothing open</h2>
+              <span class="spacer"></span>
+              <span class="pill" id="state"></span>
+            </div>
+
+            <div class="editor">
+              <div class="pane">
+                <div class="toolbar" id="toolbar"></div>
+                <textarea class="src" id="src" spellcheck="false"
+                  placeholder="Open something on the left, or start a new article."></textarea>
+              </div>
+              <div class="pane">
+                <div class="toolbar"><span style="font-size:.72rem;color:var(--muted)">Preview</span></div>
+                <div class="preview" id="preview"></div>
+              </div>
+            </div>
+
+            <div class="chips" id="chips"></div>
+
+            <div class="foot">
+              <label style="margin:0;text-transform:none;letter-spacing:0">
+                <span style="color:var(--muted);font-size:.74rem">Address</span>
+                <input type="text" id="slug" style="width:280px;margin-top:4px" placeholder="my-article" />
+              </label>
+              <div class="drop" id="drop">Drop images here, or click</div>
+              <input type="file" id="file" accept="image/*" multiple class="hidden" />
+              <span class="spacer"></span>
+              <button class="ghost" id="save">Save draft</button>
+              <button class="ghost" id="publish">Publish</button>
+              <span class="msg" id="msg" style="margin:0"></span>
+            </div>
+          </section>
+        </div>
+      </main>
+    </div>
+
+    <script define:vars={{ siteUrl: site.url }}>
+      // ------------------------------------------------------------------ util
+      const $ = (id) => document.getElementById(id);
+      const api = async (url, opts) => {
+        const res = await fetch(url, {
+          ...opts,
+          headers: { 'content-type': 'application/json', ...(opts?.headers ?? {}) },
+        });
+        let body = {};
+        try { body = await res.json(); } catch {}
+        return { ok: res.ok, status: res.status, body };
+      };
+      const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+
+      let me = { role: 'editor', name: '' };
+      let all = [];
+      let filter = 'drafts';
+      let open = null;      // slug currently open
+      let head = null;      // repo sha the open article was loaded at
+      let pending = [];     // images staged for the next save
+
+      // ------------------------------------------------------------------ gate
+      async function boot() {
+        const { body } = await api('/api/cms/auth');
+        if (!body.configured) return gateDead('Accounts are not configured on this deployment.');
+        return body.needsBootstrap ? gateSetup() : gateLogin();
+      }
+
+      function gateDead(text) {
+        $('gate-title').textContent = 'Not available';
+        $('gate-sub').textContent = text;
+        $('gate-go').classList.add('hidden');
+      }
+
+      function field(id, label, type, extra = '') {
+        return `<label for="${id}">${label}</label><input id="${id}" type="${type}" ${extra} />`;
+      }
+
+      function gateSetup() {
+        $('gate-title').textContent = 'First run';
+        $('gate-sub').textContent =
+          'No account exists yet. The setup secret is the moderation password already in this deployment.';
+        $('gate-fields').innerHTML =
+          field('f-secret', 'Setup secret', 'password', 'autocomplete="off"') +
+          field('f-name', 'Your name', 'text', 'value="Gianluca Scattarella"') +
+          field('f-email', 'Email', 'email', 'autocomplete="username"') +
+          field('f-pass', 'Choose a password', 'password', 'autocomplete="new-password"');
+        $('gate-go').textContent = 'Create admin';
+        $('gate-go').disabled = false;
+        $('gate-go').onclick = async () => {
+          const { ok, body } = await api('/api/cms/auth', {
+            method: 'POST',
+            body: JSON.stringify({
+              action: 'bootstrap',
+              secret: $('f-secret').value,
+              displayName: $('f-name').value,
+              email: $('f-email').value,
+              password: $('f-pass').value,
+            }),
+          });
+          if (!ok) return say('gate-msg', body.error ?? 'That did not work.', 'bad');
+          enter();
+        };
+      }
+
+      function gateLogin() {
+        $('gate-title').textContent = 'Sign in';
+        $('gate-sub').textContent = 'Backend for the blog.';
+        $('gate-fields').innerHTML =
+          field('f-email', 'Email', 'email', 'autocomplete="username"') +
+          field('f-pass', 'Password', 'password', 'autocomplete="current-password"');
+        $('gate-go').textContent = 'Sign in';
+        $('gate-go').disabled = false;
+        const go = async () => {
+          $('gate-go').disabled = true;
+          const { ok, body } = await api('/api/cms/auth', {
+            method: 'POST',
+            body: JSON.stringify({ action: 'login', email: $('f-email').value, password: $('f-pass').value }),
+          });
+          $('gate-go').disabled = false;
+          if (!ok) return say('gate-msg', body.error ?? 'That did not work.', 'bad');
+          enter();
+        };
+        $('gate-go').onclick = go;
+        $('gate-fields').onkeydown = (e) => { if (e.key === 'Enter') go(); };
+      }
+
+      function say(id, text, kind = '') {
+        const el = $(id);
+        el.textContent = text;
+        el.className = 'msg ' + kind;
+        if (kind === 'good') setTimeout(() => { if (el.textContent === text) el.textContent = ''; }, 4000);
+      }
+
+      // ------------------------------------------------------------------- app
+      async function enter() {
+        $('gate').classList.add('hidden');
+        $('app').classList.remove('hidden');
+        await refresh();
+      }
+
+      async function refresh() {
+        const { ok, body } = await api('/api/cms/articles');
+        if (!ok) return say('msg', body.error ?? 'Could not read the archive.', 'bad');
+        all = body.articles ?? [];
+        me = { role: body.role, name: body.name };
+        head = body.head;
+        $('who').textContent = `${body.name} · ${body.role}`;
+        $('publish').classList.toggle('hidden', body.role !== 'admin');
+        draw();
+      }
+
+      function draw() {
+        const rows = all.filter((a) => (filter === 'drafts' ? a.draft : !a.draft));
+        $('list-title').textContent = filter === 'drafts' ? 'Waiting for review' : 'Published';
+        $('count').textContent = String(rows.length);
+        $('f-drafts').classList.toggle('on', filter === 'drafts');
+        $('f-live').classList.toggle('on', filter === 'live');
+
+        $('list').innerHTML = rows.length
+          ? rows
+              .map(
+                (a) => `<button class="item ${a.slug === open ? 'sel' : ''}" data-slug="${esc(a.slug)}">
+                  <div class="t">${esc(a.title)}</div>
+                  <div class="m"><span class="dot ${a.draft ? 'draft' : 'live'}"></span>
+                    ${esc(a.date)} · ${esc(a.category)}${a.score ? ' · ' + a.score + '/10' : ''}</div>
+                </button>`,
+              )
+              .join('')
+          : `<p style="padding:18px;color:var(--muted);font-size:.85rem">Nothing here.</p>`;
+
+        for (const el of $('list').querySelectorAll('.item')) {
+          el.onclick = () => load(el.dataset.slug);
+        }
+      }
+
+      async function load(slug) {
+        const { ok, body } = await api(`/api/cms/articles?slug=${encodeURIComponent(slug)}`);
+        if (!ok) return say('msg', body.error ?? 'Could not open it.', 'bad');
+        open = slug;
+        head = body.head;
+        pending = [];
+        $('src').value = body.text;
+        $('slug').value = slug;
+        $('edit-title').textContent = slug;
+        const draft = /^draft:\s*true\s*$/m.test(body.text);
+        $('state').textContent = draft ? 'draft' : 'published';
+        drawChips();
+        render();
+        draw();
+      }
+
+      function blank() {
+        const today = new Date().toISOString().slice(0, 10);
+        open = null;
+        head = null;
+        pending = [];
+        $('slug').value = '';
+        $('edit-title').textContent = 'New article';
+        $('state').textContent = 'draft';
+        $('src').value =
+          `---\ntitle: \ndate: ${today}\ncategory: Games\nexcerpt: \ncover: \ndraft: true\n---\n\n`;
+        drawChips();
+        render();
+        draw();
+        $('src').focus();
+      }
+
+      // --------------------------------------------------------------- toolbar
+      const TOOLS = [
+        ['H2', () => wrapLine('## ')],
+        ['Bold', () => wrap('**', '**')],
+        ['Italic', () => wrap('*', '*')],
+        ['Link', () => wrap('[', '](https://)')],
+        ['Quote', () => wrapLine('> ')],
+        ['List', () => wrapLine('- ')],
+        ['sep'],
+        ['Figure', insertFigure],
+        ['Video', insertVideo],
+        ['Score box', insertScores],
+        ['sep'],
+        ['Rule', () => insert('\n---\n\n')],
+      ];
+
+      function buildToolbar() {
+        $('toolbar').innerHTML = '';
+        for (const [label, fn] of TOOLS) {
+          if (label === 'sep') {
+            const s = document.createElement('span');
+            s.className = 'sep';
+            $('toolbar').append(s);
+            continue;
+          }
+          const b = document.createElement('button');
+          b.type = 'button';
+          b.textContent = label;
+          b.onclick = () => { fn(); render(); };
+          $('toolbar').append(b);
+        }
+      }
+
+      function insert(text) {
+        const t = $('src');
+        const [a, b] = [t.selectionStart, t.selectionEnd];
+        t.value = t.value.slice(0, a) + text + t.value.slice(b);
+        t.selectionStart = t.selectionEnd = a + text.length;
+        t.focus();
+      }
+
+      function wrap(before, after) {
+        const t = $('src');
+        const [a, b] = [t.selectionStart, t.selectionEnd];
+        const sel = t.value.slice(a, b);
+        t.value = t.value.slice(0, a) + before + sel + after + t.value.slice(b);
+        t.selectionStart = a + before.length;
+        t.selectionEnd = a + before.length + sel.length;
+        t.focus();
+      }
+
+      function wrapLine(prefix) {
+        const t = $('src');
+        const start = t.value.lastIndexOf('\n', t.selectionStart - 1) + 1;
+        t.value = t.value.slice(0, start) + prefix + t.value.slice(start);
+        t.selectionStart = t.selectionEnd = t.selectionStart + prefix.length;
+        t.focus();
+      }
+
+      function slugNow() {
+        return ($('slug').value || 'this-article').trim();
+      }
+
+      function insertFigure() {
+        const name = prompt('Image file name (drop it below first):', pending[0]?.name ?? 'shot-01.jpg');
+        if (!name) return;
+        const cap = prompt('Caption — say where it came from:', 'Screenshot: studio, from the official Steam page.') ?? '';
+        insert(
+          `\n<figure>\n  <img src="/img/blog/${slugNow()}/${name}" loading="lazy" width="1920" height="1080" alt="" />\n  <figcaption>${cap}</figcaption>\n</figure>\n\n`,
+        );
+      }
+
+      function insertVideo() {
+        const id = prompt('YouTube video id (the part after v=):', '');
+        if (!id) return;
+        const title = prompt('The video’s title:', '') ?? '';
+        const cap = prompt('Caption — whose video, and is its score counted?', '') ?? '';
+        insert(
+          `\n<figure>\n  <button class="video-embed" data-video="${id}" data-title="${title}" type="button">\n` +
+            `    <img src="/img/blog/${slugNow()}/video-thumb.jpg" loading="lazy" width="1280" height="720" alt="Still from ${title}" />\n` +
+            `    <span class="play" aria-hidden="true"></span>\n  </button>\n  <figcaption>${cap}</figcaption>\n</figure>\n\n`,
+        );
+      }
+
+      function insertScores() {
+        const raw = prompt('Outlet and score, one per line — "IGN 9" or "IGN 90":', '');
+        if (!raw) return;
+        const rows = raw
+          .split('\n')
+          .map((l) => /^(.+?)[\s:]+([\d.]+)$/.exec(l.trim()))
+          .filter(Boolean)
+          .map((m) => ({ outlet: m[1].trim(), score: Number(m[2]) > 10 ? Number(m[2]) / 10 : Number(m[2]) }));
+        if (!rows.length) return alert('Could not read any of those.');
+
+        const mean = rows.reduce((s, r) => s + r.score, 0) / rows.length;
+        const rounded = Math.round(mean * 2) / 2;
+        const yaml =
+          `reviewOf: \nscore: ${rounded}\nscoreSources:\n` +
+          rows.map((r) => `  - { outlet: ${r.outlet}, score: ${r.score} }`).join('\n');
+
+        // Straight into the frontmatter, where the schema expects it.
+        const t = $('src');
+        const end = t.value.indexOf('\n---', 4);
+        if (end < 0) return alert('No frontmatter block to put this in.');
+        t.value = t.value.slice(0, end) + '\n' + yaml + t.value.slice(end);
+        alert(`${rows.length} scores, mean ${mean.toFixed(2)}, rounded to ${rounded}.`);
+      }
+
+      // --------------------------------------------------------------- preview
+      function render() {
+        const raw = $('src').value;
+        const m = /^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/.exec(raw);
+        const fm = m ? m[1] : '';
+        const body = m ? m[2] : raw;
+        const get = (k) => new RegExp(`^${k}:\\s*(.*)$`, 'm').exec(fm)?.[1]?.trim() ?? '';
+
+        let html = body
+          // Figures and video facades are HTML already; keep them, but show the
+          // video as a placeholder rather than fetching a still that may not
+          // have been committed yet.
+          .replace(/<button class="video-embed"[\s\S]*?<\/button>/g, '<div class="ph">▶ video embed</div>')
+          .replace(/^##\s+(.*)$/gm, '<h2>$1</h2>')
+          .replace(/^>\s+(.*)$/gm, '<blockquote>$1</blockquote>')
+          .replace(/^-\s+(.*)$/gm, '<li>$1</li>')
+          .replace(/^---$/gm, '<hr />')
+          .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+          .replace(/(^|[^*])\*([^*\n]+)\*/g, '$1<em>$2</em>')
+          .replace(/`([^`]+)`/g, '<code>$1</code>')
+          .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+
+        html = html
+          .split(/\n{2,}/)
+          .map((p) => (/^\s*<(h2|figure|hr|blockquote|li|div)/.test(p.trim()) ? p : `<p>${p.trim()}</p>`))
+          .join('\n');
+
+        $('preview').innerHTML =
+          `<h1>${esc(get('title')) || '<span style="color:var(--muted)">Untitled</span>'}</h1>` +
+          `<p style="color:var(--muted);font-size:.8rem;margin-bottom:18px">${esc(get('category'))} · ${esc(get('date'))}</p>` +
+          html;
+      }
+
+      // ---------------------------------------------------------------- images
+      function drawChips() {
+        $('chips').innerHTML = pending
+          .map(
+            (p, i) =>
+              `<span class="chip">${esc(p.name)} · ${Math.round(p.bytes / 1024)}KB <button data-i="${i}">✕</button></span>`,
+          )
+          .join('');
+        for (const b of $('chips').querySelectorAll('button')) {
+          b.onclick = () => { pending.splice(Number(b.dataset.i), 1); drawChips(); };
+        }
+      }
+
+      function takeFiles(files) {
+        for (const f of files) {
+          if (!/^image\//.test(f.type)) continue;
+          const reader = new FileReader();
+          reader.onload = () => {
+            const name = f.name.toLowerCase().replace(/[^a-z0-9._-]/g, '-');
+            pending.push({ name, dataBase64: String(reader.result).split(',')[1], bytes: f.size });
+            drawChips();
+            say('msg', `${name} staged — it goes up with the next save.`, 'good');
+          };
+          reader.readAsDataURL(f);
+        }
+      }
+
+      // ----------------------------------------------------------------- save
+      async function save() {
+        const slug = $('slug').value.trim();
+        if (!/^[a-z0-9][a-z0-9-]{1,120}$/.test(slug))
+          return say('msg', 'The address must be lowercase letters, numbers and hyphens.', 'bad');
+
+        $('save').disabled = true;
+        const { ok, body } = await api('/api/cms/articles', {
+          method: 'POST',
+          body: JSON.stringify({
+            action: 'save',
+            slug,
+            text: $('src').value,
+            images: pending.map(({ name, dataBase64 }) => ({ name, dataBase64 })),
+            head,
+          }),
+        });
+        $('save').disabled = false;
+
+        if (!ok) return say('msg', body.error ?? 'Could not save.', 'bad');
+        pending = [];
+        drawChips();
+        open = slug;
+        say('msg', 'Saved. The site rebuilds in a minute or two.', 'good');
+        await refresh();
+      }
+
+      async function publish() {
+        const slug = $('slug').value.trim();
+        if (!confirm(`Publish "${slug}"? It goes live on the next build.`)) return;
+
+        const { ok, body } = await api('/api/cms/articles', {
+          method: 'POST',
+          body: JSON.stringify({ action: 'publish', slug }),
+        });
+        if (!ok) return say('msg', body.error ?? 'Could not publish.', 'bad');
+        say('msg', 'Published.', 'good');
+        await refresh();
+        await load(slug);
+      }
+
+      // ----------------------------------------------------------------- wire
+      buildToolbar();
+      $('src').addEventListener('input', render);
+      $('f-drafts').onclick = () => { filter = 'drafts'; draw(); };
+      $('f-live').onclick = () => { filter = 'live'; draw(); };
+      $('new').onclick = blank;
+      $('save').onclick = save;
+      $('publish').onclick = publish;
+      $('out').onclick = async () => {
+        await api('/api/cms/auth', { method: 'POST', body: JSON.stringify({ action: 'logout' }) });
+        location.reload();
+      };
+
+      $('drop').onclick = () => $('file').click();
+      $('file').onchange = (e) => takeFiles(e.target.files);
+      for (const ev of ['dragenter', 'dragover']) {
+        $('drop').addEventListener(ev, (e) => { e.preventDefault(); $('drop').classList.add('over'); });
+      }
+      for (const ev of ['dragleave', 'drop']) {
+        $('drop').addEventListener(ev, (e) => { e.preventDefault(); $('drop').classList.remove('over'); });
+      }
+      $('drop').addEventListener('drop', (e) => takeFiles(e.dataTransfer.files));
+
+      // Ctrl/Cmd+S is the reflex; without this it saves the page to disk.
+      document.addEventListener('keydown', (e) => {
+        if ((e.metaKey || e.ctrlKey) && e.key === 's') { e.preventDefault(); save(); }
+      });
+
+      boot();
+    </script>
+  </body>
+</html>
