@@ -220,12 +220,30 @@ export const prerender = false;
       const api = async (url, opts) => {
         const res = await fetch(url, {
           ...opts,
+          // Explicit rather than relying on the default: a session that silently
+          // fails to travel is the hardest kind of bug to see from the outside.
+          credentials: 'same-origin',
           headers: { 'content-type': 'application/json', ...(opts?.headers ?? {}) },
         });
         let body = {};
         try { body = await res.json(); } catch {}
+
+        // Losing the session used to leave the application open and empty, with
+        // "Sign in first" tucked in a corner — which reads as a broken page
+        // rather than as an expired session. Send the person back to the door.
+        if (res.status === 401 && !String(url).includes('/auth')) expired();
+
         return { ok: res.ok, status: res.status, body };
       };
+
+      function expired() {
+        if (document.getElementById('gate').classList.contains('hidden')) {
+          document.getElementById('app').classList.add('hidden');
+          document.getElementById('gate').classList.remove('hidden');
+          gateLogin();
+          say('gate-msg', 'That session is no longer valid. Sign in again.', 'bad');
+        }
+      }
       const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 
       let me = { role: 'editor', name: '' };
@@ -273,6 +291,16 @@ export const prerender = false;
 
           // Drop the token from the address bar so it is not left in history.
           history.replaceState(null, '', '/cms');
+
+          // The password is set either way, so if the cookie did not survive —
+          // a browser refusing it, a redirect between hosts — say so plainly
+          // and offer the ordinary sign-in rather than opening an empty app.
+          const check = await fetch('/api/cms/articles', { credentials: 'same-origin' });
+          if (check.status === 401) {
+            gateLogin();
+            return say('gate-msg',
+              'Password saved, but the sign-in cookie did not stick in this browser. Sign in with it now.', 'bad');
+          }
           enter();
         };
         $('gate-go').onclick = go;
