@@ -2,7 +2,6 @@
 title: DNEG's For All Mankind breakdown reel is out, and the hard part wasn't building Mars — it was aging it
 date: 2026-08-24
 category: Film & TV
-author: teo-buffagni
 excerpt: DNEG published its VFX breakdown for For All Mankind season 5 this week — 338 shots covering an expanded Happy Valley and the Kuznetsov Station explosion. The sequence I can't stop thinking about isn't the explosion. It's the ground.
 cover: /img/blog/for-all-mankind-season-5-dneg-mars-continuity/cover.svg
 ---

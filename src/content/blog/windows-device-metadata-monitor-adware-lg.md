@@ -2,7 +2,6 @@
 title: Plug in a new monitor and Windows can install software you never approved. Here's how.
 date: 2026-08-25
 category: Tech
-author: marta-bevilaqua
 excerpt: LG's monitor app has been showing McAfee pop-ups since 2024, installed through Windows Update with no consent screen. The ad is the part that made news. The mechanism that let it happen is the part worth understanding before you plug in your next monitor.
 cover: /img/blog/windows-device-metadata-monitor-adware-lg/cover.svg
 ---

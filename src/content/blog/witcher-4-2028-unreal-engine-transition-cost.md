@@ -2,7 +2,6 @@
 title: CD Projekt Red just told you 2028 for The Witcher 4. The number underneath it is 500.
 date: 2026-08-25
 category: Games
-author: ruben-castellani
 excerpt: CD Projekt Red confirmed The Witcher 4 is targeting a 2028 release, its first game built on Unreal Engine 5 instead of the studio's own tech. The headcount attached to that update is the more useful number.
 cover: /img/blog/witcher-4-2028-unreal-engine-transition-cost/cover.svg
 ---
@@ -10,8 +9,11 @@ cover: /img/blog/witcher-4-2028-unreal-engine-transition-cost/cover.svg
 Joint-CEO Michał Nowakowski posted a short update on 24 August: The Witcher 4
 is "targeting" a 2028 release. He said it could slip. Coverage across the
 usual outlets ran the headline as a release-window story, which is fair —
-it's the first number CD Projekt Red has put on this game's launch since the
-teaser in 2022.
+it is the first number CD Projekt Red has attached to this game's launch at
+all. The new saga was announced in March 2022 alongside the move to Unreal
+Engine 5, Ciri was revealed as its protagonist at The Game Awards in
+December 2024, and a tech demo ran at State of Unreal in June 2025. Four
+years, three public appearances, no window until this week.
 
 The more informative detail sat one line further down: over 500 developers
 are working on it, and this is the first CD Projekt Red game built on
@@ -39,7 +41,7 @@ showed running in the Kovir tech demo, which is custom work bolted onto the
 engine, not a feature it ships with.
 
 <figure>
-  <svg viewBox="0 0 760 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline from 2022 partnership announcement through the 2025 tech demo to the 2028 release target">
+  <svg viewBox="0 0 760 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline from the 2022 Epic partnership through the 2024 Game Awards reveal and the 2025 tech demo to the 2028 release target">
     <rect width="760" height="260" fill="#18011F"/>
     <text x="30" y="36" fill="#F4E9F7" font-family="Georgia, serif" font-size="17" font-weight="bold">Six years, engine to release</text>
 
@@ -49,6 +51,11 @@ engine, not a feature it ships with.
     <text x="90" y="100" fill="#F4E9F7" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">2022</text>
     <text x="90" y="165" fill="#C9A8CF" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Epic</text>
     <text x="90" y="180" fill="#C9A8CF" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">partnership</text>
+
+    <circle cx="283" cy="130" r="9" fill="#D6294E"/>
+    <text x="283" y="100" fill="#F4E9F7" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">2024</text>
+    <text x="283" y="165" fill="#C9A8CF" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Ciri</text>
+    <text x="283" y="180" fill="#C9A8CF" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">revealed</text>
 
     <circle cx="380" cy="130" r="9" fill="#D6294E"/>
     <text x="380" y="100" fill="#F4E9F7" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">2025</text>
@@ -106,13 +113,25 @@ next public showing is still tech-demo footage — a curated slice built to
 prove the engine can do the job — or the first uncut gameplay built inside
 whatever tools the 500-person team has actually finished. That's the tell
 for whether the transition is behind them or still the thing eating the
-schedule. Gamescom 2026 isn't it: CD Projekt Red is showing The Witcher 3
-expansion there instead, which on its own says the Witcher 4 build isn't
-ready to stand next to a live audience yet.
+schedule.
+
+Gamescom 2026 isn't it. What CD Projekt Red has at Cologne this week is
+Witcher 3 material: Songs of the Past, an expansion co-developed with Fool's
+Theory that goes to a new region called Letten and lands in 2027, plus a
+Remastered version of the base game going out free to existing owners on
+29 September.
+
+Read that as a schedule rather than a snub. The expansion is being built with
+an outside partner and the remaster is work on an eleven-year-old build in the
+old engine, so neither one competes for the Unreal team's attention. It keeps
+a Witcher on stage every year between now and 2028 without asking the Witcher
+4 build to stand in front of a live audience before it can.
 
 ---
 
 *Release-window and headcount details from CD Projekt Red's 24 August
 statement, as reported by Push Square, Shacknews, GameRant and PlayStation
 LifeStyle. Engine and tech-demo details from CD Projekt Red and Epic
-Games' joint presentation at Unreal Fest and State of Unreal 2025.*
+Games' joint presentation at Unreal Fest and State of Unreal 2025. Songs of
+the Past and Remastered dates from CD Projekt Red's own press centre.
+Accurate as of 25 August 2026 — the 2028 target is explicitly a target.*

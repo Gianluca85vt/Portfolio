@@ -6,6 +6,12 @@ cover: /img/blog/gamescom-onl-2026-what-to-watch-for/cover.jpg
 excerpt: Two hours of trailers, and most of what you learn from them has nothing to do with the games being announced. Here is the stream, the running order, and the handful of tells that separate footage running on a machine from footage rendered on a farm.
 ---
 
+*Written on the afternoon of 25 August, before the show. Opening Night Live
+has since aired and Gamescom itself runs through 28 August. I have left the
+piece as it was published rather than quietly rewriting it after the fact —
+the things it says to watch for are the same things whether you are watching
+live or catching up on the trailers today.*
+
 There is a particular twenty minutes before a show like this where the chat
 fills up with people posting their predictions, and every year somebody is
 convinced Half-Life 3 is on the slate. It never is. The show starts, Geoff

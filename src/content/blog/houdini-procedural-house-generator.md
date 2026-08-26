@@ -2,7 +2,6 @@
 title: One artist, hundreds of houses — the case for building a generator instead of a building
 date: 2026-08-25
 category: 3D
-author: elia-marcheselli
 excerpt: A breakdown of Ezequiel Grand's commercial VFX career, published on 80.lv, traces how a Paul McCartney tour deadline pushed him into procedural Houdini work. The underlying lesson holds for anyone stuck modeling the fortieth near-identical building by hand.
 cover: /img/blog/houdini-procedural-house-generator/cover.svg
 ---
