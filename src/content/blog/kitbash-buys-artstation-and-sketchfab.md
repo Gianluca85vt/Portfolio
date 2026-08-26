@@ -27,7 +27,7 @@ panic.
 
 ## Why Epic let them go
 
-This is not a platform failing. It is Epic tightening up.
+This is Epic tightening up.
 
 Epic bought both in 2021, at the height of the Fortnite money and the metaverse
 push, and spent well beyond what was coming in. From 2023 it has been walking
@@ -82,7 +82,7 @@ take at face value for now.
 **But keep your portfolio somewhere you own.** This is the third owner some of
 these artists have been through, and the lesson repeats: a platform is a
 distribution channel, not a home. Your own domain, your own pages, everything
-else pointing at it. That is not a reaction to this deal — it was true last week
+else pointing at it. That predates this deal — it was true last week
 too. It is just that weeks like this one are when people remember it.
 
 **Check your NoAI tag** if you set one in 2022. Settings survive acquisitions

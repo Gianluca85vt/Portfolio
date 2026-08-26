@@ -84,8 +84,7 @@ direction" is the answer people give when they do not want to look closely.
 
 **They spend the budget on subtraction.** Look at the cover image at the top of
 this piece: one shaft of daylight through a broken wall, a scatter of candles as
-practical fills, and everything else falling to near-black. That is not a scene
-with a lot of assets in it. It is a scene with very few, arranged so the light
+practical fills, and everything else falling to near-black. That scene has very few assets in it, arranged so the light
 does the describing.
 
 Darkness is the cheapest set dressing there is. Every square metre you do not
@@ -99,8 +98,7 @@ a specular response that survives being lit by essentially one source. When a
 game only ever shows you a handful of things clearly, those things have to hold
 up under a stare.
 
-This is the oldest trick in environment art and it still works, because it is not
-really a trick. It is a decision about where attention goes.
+This is the oldest trick in environment art and it still works, because it is a decision about where attention goes.
 
 ## The thing that makes it look expensive is the thing reviewers call opaque
 

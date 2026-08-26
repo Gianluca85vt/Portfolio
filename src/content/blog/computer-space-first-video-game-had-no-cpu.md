@@ -23,7 +23,7 @@ first saw this story in quoted a $200,000 estimate, but that figure does not app
 RR Auction listing itself or in any other outlet's coverage I could find — every other
 source lands on $20,000+, so that is the number I'm going with here.
 
-## The name is a lie, and that's the interesting part
+## The name is a lie
 
 <figure>
   <img src="/img/blog/computer-space-first-video-game-had-no-cpu/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />

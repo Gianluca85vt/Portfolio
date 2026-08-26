@@ -37,8 +37,7 @@ the pattern it's training them on is *too polished, too consistent, too clean.*
 
 That description also fits a lot of finished 3D work. A well-lit hero render, a texture set
 with consistent PBR values across every surface, a lookdev pass where the materials all
-agree with each other under the same HDRI — that's not evidence of a diffusion model. That's
-what several hours of actually knowing what you're doing looks like. But it is, visually,
+agree with each other under the same HDRI — that is what several hours of knowing what you are doing looks like. But it is, visually,
 close enough to the smoothed-over, slightly-too-perfect surface language that AI image tools
 default to that a viewer skimming a feed on their phone can mistake one for the other in
 under a second, and the "report" button is now one tap away.

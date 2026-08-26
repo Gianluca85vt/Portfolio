@@ -37,7 +37,7 @@ light through a real scene.
 
 ## Why that's still worth shipping
 
-None of that is a knock on the feature — it's the correct scope for what a splat can
+The feature is worth having — it's the correct scope for what a splat can
 honestly support today, and pretending otherwise would be worse. The actual value is
 integration, not physical accuracy. A splat scanned on location — a courtyard, a
 ruin, a set dressing reference — used to sit in comp as a flat, lit-how-it-was-lit

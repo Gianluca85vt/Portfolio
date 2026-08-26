@@ -36,8 +36,7 @@ already existed. If a building had stood somewhere in an earlier season and
 has since been relocated, the ground underneath it now reads as less raw
 than the soil around it — because in the story, and now in the asset, that
 patch of Mars was compacted and walked flat for years before anyone moved
-the structure off it. That's not a detail an audience is meant to consciously
-register. It's the kind of thing that makes a place feel inhabited rather
+the structure off it. No audience consciously registers that. It is the kind of thing that makes a place feel inhabited rather
 than art-directed, and it only works because someone kept a continuity
 record precise enough to know which ground has history and which doesn't.
 
@@ -65,7 +64,7 @@ how much geometry is behind it.
 
 ## The explosion is the trailer. The base is the show.
 
-None of this is a knock on the Kuznetsov Station sequence — a station
+The Kuznetsov Station sequence is excellent — a station
 breaking apart with characters still reacting to it is a harder shot to land
 than most environment work, and it's clearly the reel's centerpiece for a
 reason. But a hero explosion gets built once, for one episode, by a crew that

@@ -22,8 +22,7 @@ playtest peaked at **561 concurrent players**, according to Steambase
 tracking of the public sessions in February and May. For a live-service
 game — a category whose entire business model depends on a big enough
 standing population to keep matchmaking and content drops worth funding —
-that is not a soft launch number. That is a "turn it off before launch"
-number.
+that is a "turn it off before launch" number.
 
 ## What it was pitched as, in February
 

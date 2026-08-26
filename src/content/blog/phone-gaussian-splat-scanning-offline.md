@@ -2,7 +2,7 @@
 title: Phone-based 3D scanning just dropped the cloud entirely
 date: 2026-08-19
 category: 3D
-excerpt: Scantic trains Gaussian splats on-device, no account, no upload, no wifi. It's not the first app to do this, and that's the actual story — offline capture just became the baseline, not the pitch.
+excerpt: Scantic trains Gaussian splats on-device, no account, no upload, no wifi. It is not the first app to do this, which is the story — offline capture just became the baseline, not the pitch.
 cover: /img/blog/phone-gaussian-splat-scanning-offline/cover.svg
 ---
 
@@ -17,7 +17,7 @@ that it isn't unusual anymore. Niantic folded fully local, on-device splat train
 news isn't "a phone can do this now." It's that offline, no-cloud capture has quietly stopped
 being a differentiator and become the baseline anyone entering this category has to ship with.
 
-## Splats aren't meshes, and that's the part worth repeating
+## Splats aren't meshes, and it bears repeating
 
 Gaussian splatting and photogrammetry solve different problems. Photogrammetry reconstructs
 geometry — triangles, with UVs, that a game engine or a renderer can shade, retopologise and

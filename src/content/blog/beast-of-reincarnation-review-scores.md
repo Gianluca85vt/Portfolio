@@ -25,8 +25,7 @@ fifty critics, OpenCritic a little higher at **76**. Averaging the eight
 outlet scores I could verify on a 1-10 scale gives **7.0** — the full working
 is at the foot of this piece.
 
-That number undersells how split the coverage actually is. This is not a
-game everyone shrugged at. It's a game a third of critics loved and a third
+That number undersells how split the coverage actually is. This is a game a third of critics loved and a third
 found actively disappointing, with not much in between.
 
 ## A studio that has never had to do this before

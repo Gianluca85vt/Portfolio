@@ -65,8 +65,7 @@ That's the real reason full immersive sims are rare and mostly small-team or
 retro-styled now (Peter Molyneux's genre-adjacent stuff aside, look at how much
 of the recent wave — Dishonored's spiritual successors, the Prey reboot,
 Underworld Ascendant, Spector's own last credited project — either shrank in
-scope or struggled to ship on schedule). It's not that the design philosophy
-stopped working. It's that the philosophy assumes every room is built at least
+scope or struggled to ship on schedule). The design philosophy still works, but it assumes every room is built at least
 three times over, and modern production budgets one build per room and hope the
 scripted path covers it.
 

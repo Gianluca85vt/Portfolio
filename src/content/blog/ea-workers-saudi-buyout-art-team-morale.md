@@ -12,8 +12,7 @@ mostly doesn't. What changed this week is that **Game Developer** got current EA
 employees talking on the record about what the buyout feels like from inside the
 building, across several studios — not just the ones already flagged as shaky.
 
-The headline pull-quote is "I feel dirty." That's not from someone at a studio
-already bracing for cuts. It's the kind of thing coming out of people at places like
+The headline pull-quote is "I feel dirty." That is the kind of thing coming out of people at places like
 **Maxis**, home of The Sims — a studio nobody was naming in the restructuring
 speculation two weeks ago.
 

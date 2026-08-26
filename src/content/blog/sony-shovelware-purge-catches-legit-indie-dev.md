@@ -20,9 +20,7 @@ of the studio's existing titles from the PS Store. The developer says emails to 
 have gone unanswered. There's no appeal in progress because there's been no response
 to appeal to.
 
-That's the part worth sitting with, because it's not really a story about one
-delisting. It's what happens when a detection problem gets solved with a policy
-instead of a person.
+That's the part worth sitting with, because it is what happens when a detection problem gets solved with a policy instead of a person.
 
 ## What the purge is actually supposed to catch
 

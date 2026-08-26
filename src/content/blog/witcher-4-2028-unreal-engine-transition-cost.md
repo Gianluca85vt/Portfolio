@@ -98,7 +98,7 @@ It shows up as months added to a schedule with nothing new to demo, which
 is exactly the gap between the June 2025 tech demo and this week's
 "targeting 2028" update.
 
-None of this is a knock on the decision to move to Unreal Engine 5 — sharing
+The decision to move to Unreal is sound Engine 5 — sharing
 tooling with the rest of the industry, tapping an engine that gets fixes
 and hardware support CD Projekt Red doesn't have to fund alone, is a
 reasonable trade for a studio that just spent years patching Cyberpunk

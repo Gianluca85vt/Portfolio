@@ -55,7 +55,7 @@ the wrong day to stop being careful.
 
 Story two is a technical decision, and it's the one I actually have something to say
 about: generating dialogue procedurally for a role that has to scale past what anyone
-could hand-write. That is not a new idea. It's the same problem environment artists
+could hand-write. It is the same problem environment artists
 solved for foliage and crowd variation a decade before "generative AI" was a
 marketing term — you can't hand-place ten thousand trees or hand-write ten thousand
 NPCs, so you build a system that produces bounded variation inside rules a person

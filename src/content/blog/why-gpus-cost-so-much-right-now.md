@@ -14,7 +14,7 @@ If you have been putting off a workstation upgrade and quietly hoping prices wou
 I have bad news, and it is worth understanding why — because the reason changes what you
 should actually do about it.
 
-## It is not the GPU. It is the memory glued to it.
+## The memory glued to the GPU is what costs
 
 Here is the part most people miss. The chip is not what got expensive. The **memory** did.
 

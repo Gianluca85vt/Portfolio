@@ -15,7 +15,7 @@ sharper face people remembered. Lead producer Fu Kun went on record to say
 the underlying facial shape hasn't changed at all, and that what people are
 reacting to is skin rendering, clothing materials and lighting.
 
-That's not a deflection. It's also not the full story on its own, because
+That is a fair account, though not the full story on its own, because
 "the mesh is the same" and "the character looks different" are both true
 at once, and the gap between them is exactly the part of the job that
 doesn't show up in a press release.

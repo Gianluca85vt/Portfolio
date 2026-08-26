@@ -7,8 +7,7 @@ excerpt: A 1M-token, image-and-video-reading model at half its old price, three 
 ---
 
 Google DeepMind shipped **Gemini 3.7 Flash** on 13 August, three weeks after 3.6 Flash. The
-model card is upfront about what changed: this is not a new pretraining run. It is the same
-base model as 3.6, with algorithmic improvements bolted onto its reasoning, and the gains
+model card is upfront about what changed: this is the same base model as 3.6, with algorithmic improvements bolted onto its reasoning, and the gains
 concentrate hard in three places — software engineering, document-heavy work, and web
 development.
 

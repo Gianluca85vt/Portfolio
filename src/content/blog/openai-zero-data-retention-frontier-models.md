@@ -43,7 +43,7 @@ don't.
 OpenAI says it's testing this with early customers now — **Microsoft and Databricks** are the
 named ones — with a wider rollout planned for **September**, and that a technical paper
 explaining the internals is coming. That last bit matters: right now this is a blog post and
-a promise, and the interesting claims are all in the part that hasn't been published yet. I'd
+a promise, and the claims worth weighing are all in the part that hasn't been published yet. I'd
 hold the applause until the paper lands and someone independent has read it. This is a case
 where a single source — OpenAI itself — is describing its own security architecture.
 

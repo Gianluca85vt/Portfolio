@@ -21,8 +21,7 @@ that compile cost once. ([TweakTown](https://www.tweaktown.com/news/113176/call-
 
 If you have never hit this on PC, here is what it looks like: everything is smooth, then a new
 weapon skin or a map area you have not seen yet swims into view, and the game hitches for a beat
-while it compiles the exact shader variant that scene needs. It is not a slow computer. It is the
-GPU driver being asked, live, mid-match, to turn shader source into machine code it has never
+while it compiles the exact shader variant that scene needs. It is the GPU driver being asked, live, mid-match, to turn shader source into machine code it has never
 built before.
 
 ## Why this takes so long to fix, and why it is not really about Call of Duty

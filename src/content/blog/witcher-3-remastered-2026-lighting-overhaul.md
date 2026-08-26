@@ -2,7 +2,7 @@
 title: The Witcher 3 got a next-gen patch in 2022. This one is going after the lighting instead
 date: 2026-08-26
 category: Games
-excerpt: CD Projekt Red announced a second free overhaul of an eleven-year-old game at Gamescom, and buried in the "30-plus upgrades" list is a genuine global illumination rework. That's the part worth caring about.
+excerpt: CD Projekt Red announced a second free overhaul of an eleven-year-old game at Gamescom, and buried in the "30-plus upgrades" list is a genuine global illumination rework. That is the part worth caring about.
 cover: /img/blog/witcher-3-remastered-2026-lighting-overhaul/shot-01.jpg
 draft: true
 ---
@@ -20,7 +20,7 @@ Free for existing owners on PC, PS5 and Xbox Series X/S. A native Switch 2 versi
 
 The press materials count more than thirty upgrades: reworked combat, revised movement, a skill tree pass, transmogrification, an expanded photo mode, new Witcher Sign effects, revamped Roach handling. That is a real list and none of it is nothing, but a bullet-point count is a marketing unit, not an engineering one. Swapping an icon and re-authoring a lighting rig both get one line each.
 
-The line that isn't padding: revised global illumination, new GTAO, path tracing support, subsurface scattering, a new tone mapper, updated foliage shading, DLSS 4.5. That's not a settings-menu pass. That's someone going back into scenes that were lit for a rendering pipeline eleven years old — baked lightmaps, a probe-based GI solution built around 2014 hardware ceilings — and re-lighting them for a system that behaves completely differently.
+The line that isn't padding: revised global illumination, new GTAO, path tracing support, subsurface scattering, a new tone mapper, updated foliage shading, DLSS 4.5. That is someone going back into scenes that were lit for a rendering pipeline eleven years old — baked lightmaps, a probe-based GI solution built around 2014 hardware ceilings — and re-lighting them for a system that behaves completely differently.
 
 Global illumination doesn't self-correct when you swap the underlying solver. A light rig tuned so torchlight bounced convincingly off a stone wall under the old baked system can go flat, or worse, wrong, under real-time GI that computes bounce differently scene to scene. Somebody had to walk back through Novigrad's alleys and White Orchard's interiors and check that the mood still held. That's the invisible labor a remaster list never itemizes, because there's no bullet for "confirmed six hundred interiors didn't go grey."
 

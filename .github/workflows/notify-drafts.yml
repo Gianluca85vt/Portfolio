@@ -87,6 +87,18 @@ jobs:
             fi
 
             slug=$(basename "$file" .md)
+
+            # Measure the things that make prose read as machine-written before
+            # it reaches the review email: sentence rhythm, the setup-then-
+            # reversal construction, filler connectives, bold density. Advisory
+            # only — a piece can break any of these on purpose — but a draft
+            # that trips several is worth another pass before approving.
+            check=$(node scripts/prose-check.mjs "$file" 2>&1 || true)
+            echo "$check"
+            case "$check" in
+              WARN*) echo "::warning::prose check flagged $slug — see the run log" ;;
+            esac
+
             echo "notifying: $slug"
 
             code=$(curl -s -o /tmp/out -w '%{http_code}' \

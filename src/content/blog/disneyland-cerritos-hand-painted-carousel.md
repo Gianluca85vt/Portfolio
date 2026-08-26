@@ -60,8 +60,7 @@ the way on a hero prop a camera holds on. Disneyland can afford to put a
 human on the hero case because the "asset count" is one horse, repainted
 once every few years, forever. A live-service game reshoots that decision
 across thousands of props every ship cycle, which is exactly why the
-tooling around procedural wear exists at all — not because it's better,
-because the math doesn't work any other way.
+tooling around procedural wear exists at all — because the math doesn't work any other way.
 
 ## The other tell: prep starts on a schedule nobody sees
 

@@ -57,7 +57,7 @@ production pipeline to any of these three.
 None of the coverage I've read — Tom's Hardware, PC Gamer, VGC, GamesIndustry.biz
 — says anything about **what happens after the AI agent generates the asset**.
 
-That's not a small gap. It's the actual job. An AI agent that populates a scene
+That gap is the actual job. An AI agent that populates a scene
 from a brief still hands you geometry that needs a UV check, a poly budget
 audit, LOD generation, naming-convention compliance, collision setup, and a pass
 to make sure the material graph doesn't silently diverge from every other asset
@@ -75,7 +75,7 @@ and break the moment an artist tries to touch them by hand. That tooling is
 exactly the layer none of these three companies have had time to build yet,
 because they're all still pre-launch.
 
-## Why the incumbents' moat is boring, and that's the point
+## The incumbents' moat is boring, which is why it holds
 
 Unreal and Unity's 70% Steam share isn't there because they're the most exciting
 engines to demo. It's there because a decade of plugins, Perforce integrations,

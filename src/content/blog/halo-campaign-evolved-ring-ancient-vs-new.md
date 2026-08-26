@@ -37,8 +37,7 @@ The ring in Halo's fiction is hundreds of millennia old — a structure that has
 survived wars, atmospheric decay, orbital debris, entire civilizations. Lehto's
 point is that the remake's version "looks like it was built a few years ago," and
 that it "lacks all the micro detail that should give it the epic scale it
-deserves." That is not about the ring being physically too small on screen. It is
-about what your eye reads at the surface, because that is what tells you how big
+deserves." That is about what your eye reads at the surface, because that is what tells you how big
 something actually is.
 
 This is the oldest trick in environment art, and also the easiest one to lose when
