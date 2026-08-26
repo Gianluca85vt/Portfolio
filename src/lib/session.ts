@@ -87,22 +87,41 @@ export async function hasValidSession(request: Request) {
 const CMS_COOKIE = 'cms_session';
 const CMS_LIFETIME_HOURS = 12;
 
+/**
+ * The site answers on both gianlucascattarella.it and www, with the apex
+ * redirecting to www by a 308. A cookie with no Domain is bound to whichever
+ * host happened to answer, so a session started on one host is invisible to a
+ * page running on the other — which looks exactly like a login that succeeds
+ * and then does nothing.
+ *
+ * Naming the registrable domain makes one cookie valid for both. Derived from
+ * the request rather than hard-coded, so localhost and preview deployments,
+ * where a Domain would be wrong, simply do not get one.
+ */
+function cookieDomain(host: string | null) {
+  if (!host) return '';
+  const name = host.split(':')[0];
+  return name === 'gianlucascattarella.it' || name.endsWith('.gianlucascattarella.it')
+    ? ' Domain=gianlucascattarella.it;'
+    : '';
+}
+
 export interface CmsSession {
   id: string;
   role: 'admin' | 'editor';
 }
 
-export async function createCmsCookie(session: CmsSession, secure: boolean) {
+export async function createCmsCookie(session: CmsSession, secure: boolean, host?: string | null) {
   const expires = Date.now() + CMS_LIFETIME_HOURS * 3_600_000;
   const payload = `${session.id}.${session.role}.${expires}`;
   const sig = await sign(`cms|${payload}`);
   if (!sig) return null;
 
-  return `${CMS_COOKIE}=${payload}.${sig}; Path=/; HttpOnly;${secure ? ' Secure;' : ''} SameSite=Lax; Max-Age=${CMS_LIFETIME_HOURS * 3600}`;
+  return `${CMS_COOKIE}=${payload}.${sig}; Path=/;${cookieDomain(host ?? null)} HttpOnly;${secure ? ' Secure;' : ''} SameSite=Lax; Max-Age=${CMS_LIFETIME_HOURS * 3600}`;
 }
 
-export function clearedCmsCookie(secure: boolean) {
-  return `${CMS_COOKIE}=; Path=/; HttpOnly;${secure ? ' Secure;' : ''} SameSite=Lax; Max-Age=0`;
+export function clearedCmsCookie(secure: boolean, host?: string | null) {
+  return `${CMS_COOKIE}=; Path=/;${cookieDomain(host ?? null)} HttpOnly;${secure ? ' Secure;' : ''} SameSite=Lax; Max-Age=0`;
 }
 
 export async function readCmsSession(request: Request): Promise<CmsSession | null> {

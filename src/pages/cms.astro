@@ -360,6 +360,17 @@ export const prerender = false;
           });
           $('gate-go').disabled = false;
           if (!ok) return say('gate-msg', body.error ?? 'That did not work.', 'bad');
+
+          // The password was accepted. If the session still does not travel,
+          // the browser is refusing the cookie — which used to show up as an
+          // empty application and no explanation at all.
+          const check = await fetch('/api/cms/articles', { credentials: 'same-origin' });
+          if (check.status === 401) {
+            return say('gate-msg',
+              'Your password is right, but this browser is not keeping the sign-in cookie. ' +
+              'Check whether cookies are blocked for this site, or whether an extension is stripping them, ' +
+              'and try a private window to confirm.', 'bad');
+          }
           enter();
         };
         $('gate-go').onclick = go;

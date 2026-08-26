@@ -67,6 +67,7 @@ export const POST: APIRoute = async ({ request, url }) => {
   }
 
   const secure = url.protocol === 'https:';
+  const host = request.headers.get('host') ?? url.host;
   const action = String(payload.action ?? '');
 
   /* ------------------------------------------------------------ bootstrap */
@@ -95,7 +96,7 @@ export const POST: APIRoute = async ({ request, url }) => {
     const set = await setPasswordFromInvite(made.inviteToken, String(payload.password));
     if (!set.ok) return json({ error: set.error }, 400);
 
-    const cookie = await createCmsCookie({ id: made.editor.id, role: 'admin' }, secure);
+    const cookie = await createCmsCookie({ id: made.editor.id, role: 'admin' }, secure, host);
     return json({ ok: true, role: 'admin' }, 200, cookie ?? undefined);
   }
 
@@ -105,7 +106,7 @@ export const POST: APIRoute = async ({ request, url }) => {
     const set = await setPasswordFromInvite(String(payload.token ?? ''), String(payload.password ?? ''));
     if (!set.ok) return json({ error: set.error }, 400);
 
-    const cookie = await createCmsCookie({ id: set.editor.id, role: set.editor.role }, secure);
+    const cookie = await createCmsCookie({ id: set.editor.id, role: set.editor.role }, secure, host);
     return json({ ok: true, role: set.editor.role }, 200, cookie ?? undefined);
   }
 
@@ -137,14 +138,14 @@ export const POST: APIRoute = async ({ request, url }) => {
     }
 
     await touchLogin(editor.id);
-    const cookie = await createCmsCookie({ id: editor.id, role: editor.role }, secure);
+    const cookie = await createCmsCookie({ id: editor.id, role: editor.role }, secure, host);
     return json({ ok: true, role: editor.role, name: editor.display_name }, 200, cookie ?? undefined);
   }
 
   /* --------------------------------------------------------------- logout */
 
   if (action === 'logout') {
-    return json({ ok: true }, 200, clearedCmsCookie(secure));
+    return json({ ok: true }, 200, clearedCmsCookie(secure, host));
   }
 
   return json({ error: 'Unknown action.' }, 400);
