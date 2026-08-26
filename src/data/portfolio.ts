@@ -105,6 +105,9 @@ export const members = {
 } as const;
 
 export const blogCategories = [
+  // The Monday column sits first: it is the one piece of the week that argues
+  // rather than reports, and it carries its own fixed cover.
+  'Editorial',
   '3D',
   'Tech',
   'AI',
@@ -123,7 +126,22 @@ export type BlogCategory = (typeof blogCategories)[number];
  *
  * Also used to build the placeholder artwork for articles with no cover image.
  */
+// A recurring column has one fixed illustration, and it wins over whatever a
+// draft happens to carry in its frontmatter. Enforcing it here rather than in
+// the drafting instructions means it cannot drift: a run that forgets, or that
+// draws its own SVG cover out of habit, still gets the right image.
+export const columnCovers: Partial<Record<BlogCategory, string>> = {
+  Editorial: '/img/blog/editorial/cover.jpg',
+};
+
+export function coverFor(category: string, cover?: string): string | undefined {
+  return columnCovers[category as BlogCategory] ?? cover;
+}
+
 export const categoryColors: Record<BlogCategory, string> = {
+  // The only cool colour in the set, so the column reads as a different kind of
+  // piece at a glance in a wall of warm category chips.
+  Editorial: '#0F6E78',
   '3D': '#BE4C00',
   Tech: '#7621B0',
   AI: '#B600A8',

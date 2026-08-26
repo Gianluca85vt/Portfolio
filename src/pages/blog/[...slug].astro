@@ -7,7 +7,7 @@ import ShareBar from '../../components/ui/ShareBar';
 import ScoreBox from '../../components/ScoreBox.astro';
 import ArticleByline from '../../components/ArticleByline.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
-import { site, categoryColors } from '../../data/portfolio';
+import { site, categoryColors, coverFor } from '../../data/portfolio';
 
 export async function getStaticPaths() {
   const entries = await getCollection('blog', ({ data }) => !data.draft);
@@ -30,6 +30,7 @@ const published = entry.data.date.toLocaleDateString('en-GB', {
 });
 
 const url = new URL(`/blog/${entry.id}/`, Astro.site).href;
+const cover = coverFor(entry.data.category, entry.data.cover);
 
 // BlogPosting tells Google this is an article, who wrote it and when — the
 // difference between a page that can rank and one eligible for rich results.
@@ -62,9 +63,7 @@ const jsonLd = {
   inLanguage: 'en',
   mainEntityOfPage: { '@type': 'WebPage', '@id': url },
   url,
-  ...(entry.data.cover
-    ? { image: new URL(entry.data.cover, Astro.site).href }
-    : {}),
+  ...(cover ? { image: new URL(cover, Astro.site).href } : {}),
   // One named author across the whole blog, with the credentials attached and
   // pointing at a real about page. Search engines weigh author identity, and a
   // named specialist with a body of work behind them is the thing to weigh.
@@ -86,7 +85,7 @@ const jsonLd = {
 <Base
   title={`${entry.data.title} — ${site.name}`}
   description={entry.data.excerpt ?? entry.data.title}
-  image={entry.data.cover}
+  image={cover}
   type="article"
   publishedAt={entry.data.date.toISOString()}
   jsonLd={jsonLd}
@@ -122,9 +121,9 @@ const jsonLd = {
         />
 
         {
-          entry.data.cover && (
+          cover && (
             <img
-              src={entry.data.cover}
+              src={cover}
               alt=""
               aria-hidden="true"
               class="w-full rounded-[24px] sm:rounded-[28px] object-cover mt-8 sm:mt-10"

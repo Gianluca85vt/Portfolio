@@ -12,6 +12,20 @@ column: Architectures of the Void — the Monday editorial
 That is the masthead. It renders as an eyebrow above the headline, the way
 "In the box" sits above a piece on laroma24.
 
+Two more fixed things, both non-negotiable:
+
+```
+category: Editorial
+cover: /img/blog/editorial/cover.jpg
+```
+
+`Editorial` is its own category, so the column filters separately from the news
+and gets its own colour. **Do not draw an SVG cover for the editorial** — the
+column has one permanent illustration and every Monday uses it. The site forces
+that image for anything in the Editorial category regardless of what the
+frontmatter says, so a wrong `cover:` line cannot break the page; it just wastes
+the run's time. Write the line above and move on.
+
 **The `title:` is different every single week** and belongs to that week's
 argument alone. Never put "Architectures of the Void" in the title — it is
 already on the page, and repeating it would waste the one line search engines

@@ -1,9 +1,9 @@
 ---
 title: We can build anything. Gamescom week chose the back catalogue.
 date: 2026-08-26
-category: Games
+category: Editorial
 column: Architectures of the Void — the Monday editorial
-cover: /img/blog/built-to-be-looked-at/cover.jpg
+cover: /img/blog/editorial/cover.jpg
 excerpt: We have the tools to build entire universes. We use them to rebuild the same corridor from fifteen years ago, in 8K. Gamescom week made the case better than I could, and then a game from 2015 quietly demolished it.
 ---
 

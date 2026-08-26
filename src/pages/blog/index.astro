@@ -4,7 +4,7 @@ import Base from '../../layouts/Base.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
 import BlogList from '../../components/BlogList';
 import Partnerships from '../../components/Partnerships.astro';
-import { site } from '../../data/portfolio';
+import { site, coverFor } from '../../data/portfolio';
 
 const entries = (await getCollection('blog', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.date.getTime() - a.data.date.getTime()
@@ -17,7 +17,7 @@ const posts = entries.map((entry) => ({
   date: entry.data.date.toISOString(),
   category: entry.data.category,
   excerpt: entry.data.excerpt ?? '',
-  cover: entry.data.cover,
+  cover: coverFor(entry.data.category, entry.data.cover),
   readingMinutes: Math.max(1, Math.round((entry.body ?? '').trim().split(/\s+/).length / 200)),
   // Half points only, so a stray decimal can never reach the page.
   score: entry.data.score !== undefined ? Math.round(entry.data.score * 2) / 2 : undefined,
