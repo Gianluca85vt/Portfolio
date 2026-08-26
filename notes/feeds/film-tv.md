@@ -1,6 +1,46 @@
-# Film & TV — harvested 2026-08-26T05:15:58.288Z
+# Film & TV — harvested 2026-08-26T08:22:58.221Z
 
 ## Variety
+
+### Korea s DRX Signs Strategic Partnership With Indonesia s Nuon to Expand Gaming and Entertainment Ties (EXCLUSIVE)
+Wed, 26 Aug 2026 08:09:54 +0000 — https://variety.com/2026/gaming/news/drx-nuon-indonesia-korea-partnership-1236843595/
+
+Korea s DRX Corp. and PT Nuon Digital Indonesia signed a strategic partnership in Jakarta to expand gaming and entertainment ties between Indonesia and Korea, starting with an entertainment festival called DRX Homefront Indonesia and a joint game publishing initiative between the two countries. The agreement pairs DRX s esports, content production and fan engagement experience with [ ]
+
+### Netflix Latest Marketing Mash-Up Pairs Stella Artois With The Gentlemen
+Wed, 26 Aug 2026 08:00:00 +0000 — https://variety.com/2026/tv/news/netflix-stella-artois-the-gentlemen-marketing-partnership-1236843299/
+
+Netflix has what looks to be a great show set to launch, but you can t see the program on its flagship streaming service. The company plans to take over the history Marlborough Pub in London between September 3 and September 5, when it will outfit the place much like its comedic action series The Gentlemen, [ ]
+
+### Oscars: Japan Selects All of a Sudden for International Feature Race
+Wed, 26 Aug 2026 07:39:14 +0000 — https://variety.com/2026/film/awards/oscars-japan-all-of-a-sudden-oscars-1236843581/
+
+Hamaguchi Ryusuke s All of a Sudden has been selected as Japan s entry in the international feature category at the 99th Academy Awards, the Motion Picture Producers Association of Japan (Eiren) has revealed. The selection marks the second time a Hamaguchi film has represented Japan in the category, five years after Drive My Car won the [ ]
+
+### Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia
+Wed, 26 Aug 2026 07:00:20 +0000 — https://variety.com/2026/film/news/google-deepmind-amazon-web-services-busan-market-innoasia-1236843573/
+
+The Asian Contents Film Market (ACFM), the market of the Busan International Film Festival, will present InnoAsia 2026, its program built around the intersection of film and emerging technology. This year s participants include Amazon Web Services (AWS), Kling AI, Google DeepMind and Alibaba Group, alongside a range of other technology and content companies and [ ]
+
+### Motherhood Horror Film ‘Vagina Dentata,’ ‘From The Eclipse’ Director Nataša Urban, Boarded by Romanian Partner Manifest Film (EXCLUSIVE)
+Wed, 26 Aug 2026 06:57:58 +0000 — https://variety.com/2026/film/global/vagina-dentata-natasa-urban-manifest-film-haugesund-1236843570/
+
+“Vagina Dentata,” the new film from Norwegian filmmaker Nataša Urban, whose “The Eclipse” won top honors at CPH:DOX in 2022, has been boarded by Manifest Film. The Romanian outfit will co-produce “Vagina Dentata,” a genre-bending exploration of motherhood and postnatal depression that will be pitched at this week’s Nordic Co-Production Market in Haugesund. Produced by [ ]
+
+### Vidio Teams With ReelShort for First Indonesian Short-Drama Partnership
+Wed, 26 Aug 2026 06:36:48 +0000 — https://variety.com/2026/tv/news/vidio-reelshort-indonesia-partnership-short-drama-1236843567/
+
+Indonesian streaming platform Vidio has partnered with ReelShort, the microdrama platform owned by Crazy Maple Studio, marking ReelShort s first entry into the Indonesian market. Hundreds of ReelShort titles will become available on Vidio starting Sept. 1. The content will stream through a dedicated Short Drama tab, accessible to subscribers on Vidio s TV Extra, Platinum, Platinum [ ]
+
+### LevelK Boards Haugesund-Bound Norwegian Psycho Thriller ‘Anathema,’ About Repression, Denial and Collective Madness (EXCLUSIVE)
+Wed, 26 Aug 2026 06:30:00 +0000 — https://variety.com/2026/film/global/levelk-sales-norwegian-thriller-anathema-1236843078/
+
+Copenhagen-based sales and aggregation outlet LevelK has boarded the Norwegian psycho-thriller “Anathema” by promising directing duo Ea Johanne Sandberg and Alpha Nord. One of 21 projects in development to be pitched today at the Nordic Co-Production Market in Haugesund, “Anathema” is being shepherded by the seasoned Janne Hjeltnes (Netflix’s “Royalteen,” “Midsummer Night”) and Anne Borgaard [ ]
+
+### Amanda Kernell Is More Interested in ‘Liberation Than a Curse’ as Her Third Feature ‘Brace Your Heart’ Debuts Trailer (EXCLUSIVE)
+Wed, 26 Aug 2026 05:46:31 +0000 — https://variety.com/2026/film/global/amanda-kernell-brace-your-heart-1236842342/
+
+In her upcoming third feature “Brace Your Heart,” Amanda Kernell follows a survivor, not a victim. “We’re all different, and some people who experience really difficult things can’t recover. But there are others who survive and find there’s light on the other side,” she told Variety. Kernell, known for “Sámi Blood” and “Charter,” is also behind [ ]
 
 ### Heroes Stars Throw Reunion to Celebrate the Life of Hayden Panettiere: So Much Love, Gratitude and Warmth
 Wed, 26 Aug 2026 04:01:01 +0000 — https://variety.com/2026/tv/news/heroes-cast-reunion-celebrate-life-of-hayden-panettiere-1236843535/
@@ -12,47 +52,17 @@ Wed, 26 Aug 2026 03:00:43 +0000 — https://variety.com/2026/music/news/taylor-s
 
 Taylor Swift shared a touching tribute to the late Dolly Parton after the iconic singer-songwriter’s death on Tuesday. “A world without Dolly doesn’t feel possible, real, or right, it reads. But because of the eternally generous way she spent her time on this earth and the countless lives she changed for the better, her legacy [ ]
 
-### Jane Fonda Slams Paramount For Calling Mark Ruffalo s Comments ‘Antisemitic : A Smear to Delegitimize Criticism of the Merger
-Wed, 26 Aug 2026 02:42:02 +0000 — https://variety.com/2026/film/news/jane-fonda-paramount-mark-ruffalo-smear-merger-warner-bros-1236843419/
-
-Jane Fonda has released a statement in support of Mark Ruffalo after Paramount slammed the four-time Oscar nominee as “antisemitic” for a recent post denouncing Larry Ellison’s ties to Israel and David Ellison’s planned merger with Warner Bros. “Especially as a Jewish American, I find it deeply troubling to see false accusations of antisemitism used [ ]
-
-### Iowa Attorney General Says She s Taking California to the Supreme Court Over Paramount-Warner Bros. Lawsuit
-Wed, 26 Aug 2026 01:34:48 +0000 — https://variety.com/2026/film/news/iowa-attorney-general-sue-california-paramount-warner-bros-1236843385/
-
-Iowa Attorney General Brenna Bird wrote in an op-ed for The Daily Wire that she is suing California for leading the charge in the lawsuit against the Paramount-Warner Bros. merger. “California is once again trying to be the country’s regulator. And once again California is defying common sense to raise costs around the country,” Bird [ ]
-
-### ‘Love Island USA’ Host Ariana Madix on Bringing Sexiness and Danger to Her Hosting Gig: I Initially Scare the Crap Out of Islanders
-Wed, 26 Aug 2026 01:32:17 +0000 — https://variety.com/2026/awards/features/ariana-madix-love-island-usa-host-sexiness-island-1236840928/
-
-Ariana Madix has had a meteoric rise as a host — one that landed her an Emmy nomination this year. After a guest-hosting gig during the fifth season of the summertime dating show “Love Island USA,” she officially took over the reins for the sixth season in 2024. Two years later, she has wrapped Season [ ]
-
-### Paranormal Activity Review: Spooky Franchise Gets a Hair-Raising Stage Experience
-Wed, 26 Aug 2026 01:00:00 +0000 — https://variety.com/2026/legit/reviews/paranormal-activity-review-broadway-stage-experience-1236841925/
-
-Taking the spirit of the “Paranormal Activity” films and turning it into a scare-‘em stage experience could have been a terrifying trip for its creators, too. After all, horror isn’t exactly a Broadway staple and producers have mostly given up that particular ghost. But the franchise — Oren Peli’s indie film was originally shot in [ ]
-
-### Can Guy Fieri Unite America? Inside His Lifelong Advocacy of Global Cuisine: When You Talk About Food, You Talk About Culture
-Wed, 26 Aug 2026 00:46:20 +0000 — https://variety.com/2026/awards/features/guy-fieri-diners-drive-ins-and-dives-host-unite-america-1236840922/
-
-“I called Taylor Sheridan to ask him just for some meat for the event. Taylor said, ‘I’ll only give you the meat if I can come cook it.’ And Taylor Sheridan shows up to cook.” Guy Fieri is reminiscing about a 2023 fundraiser he held for Maui fire relief that made $1.7 million for restaurants, [ ]
-
-### Luis Castro, Trish Reilly and Barry Wilkinson Named 2026 MacGuffin Award Honorees
-Wed, 26 Aug 2026 00:15:00 +0000 — https://variety.com/2026/artisans/news/property-masters-guild-macguffin-award-honorees-1236841984/
-
-Luis Castro, Trish Reilly and Barry Wilkinson will be honored at the third annual MacGuffin Awards. The Property Masters Guild aims to highlight and elevate the craft of the Property Master by raising awareness, fostering collaboration among craft artisans, educating its members and inspiring future generations of Property Masters. The honorees, recognized for their craftsmanship, [ ]
-
-### The Dog Stars Review: Jacob Elordi s Sensitive Survivalist Can t Sustain a Dreary Dystopian Adventure
-Wed, 26 Aug 2026 00:00:00 +0000 — https://variety.com/2026/film/reviews/the-dog-stars-review-jacob-elordi-1236839483/
-
-It s the end of the world as we know it in The Dog Stars, and everyone feels — well, not fine exactly, but, you know, fine? Alive, hanging in there, taking it one day at a time. Things could be better, which goes without saying in the aftermath of a flu pandemic that has wiped [ ]
-
-### Lee Jung-eun, Kim Moo-yul Board Netflix s Action-Noir Series The Shooter
-Wed, 26 Aug 2026 00:00:00 +0000 — https://variety.com/2026/tv/news/lee-jung-eun-kim-moo-yul-netflix-the-shooter-1236842363/
-
-Netflix has confirmed production on The Shooter (working title), an action-noir series that pairs Lee Jung-eun with Kim Moo-yul, marking Lee s first outing in an action role. Lee s turn comes on the heels of My Daughter Is a Zombie, one of South Korea s top-grossing films of 2025. Kim joins her fresh off Teach You a [ ]
-
 ## The Hollywood Reporter
+
+### Sky U.K. s Meghan Lyvers Discusses IP, Original Content Mix and Increasing the Emotional Stakes
+Wed, 26 Aug 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/sky-uk-original-content-interview-jackal-dragon-tattoo-ip-1236679890/
+
+The Comcast company's scripted originals exec talks about 'War,' 'The Day of the Jackal,' working with partners, championing auteurs and British stories, and that 'The Girl With the Dragon Tattoo' adaptation.
+
+### Dominic West and Sienna Miller Star in Image From Sky and HBO Legal Thriller War (Exclusive)
+Wed, 26 Aug 2026 07:59:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hbo-sky-show-war-sienna-miller-dominic-west-photo-exclusive-1236679668/
+
+The drama from 'Hijack' creator George Kay, which received a two-season commitment and is set in the elite world of London law, stars the duo as a tech titan and his estranged film star wife.
 
 ### Haim Saban, Lawrence Bender and Teddy Schwarzman Among Industry Group Accusing Mark Ruffalo of Antisemitism in Attack on Paramount Leadership
 Wed, 26 Aug 2026 04:31:36 +0000 — https://www.hollywoodreporter.com/business/business-news/haim-saban-lawrence-bender-teddy-schwarzman-slam-mark-ruffalo-1236681689/
@@ -94,17 +104,37 @@ Wed, 26 Aug 2026 00:00:00 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Josh Brolin, Guy Pearce, Allison Janney and Benedict Wong also star in this adaptation of Peter Heller’s novel about survivors trying to stay alive in a post-apocalyptic future.
 
-### Netflix Sets Lee Jung-eun, Kim Moo-yul for Korean Action-Noir Series The Shooter
-Wed, 26 Aug 2026 00:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/netflix-lee-jung-eun-kim-moo-yul-korean-series-the-shooter-1236680472/
-
-From the director of ‘A Shop for Killers,’ the new series casts Lee Jung-eun, of 'Parasite' fame, as a woman in her 70s who is driven to pick up a gun after her grandson is attacked.
-
-### Dolly Parton s Cause of Death Revealed
-Wed, 26 Aug 2026 00:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/dolly-parton-cause-of-death-cancer-1236681221/
-
-The country music icon, who was hospitalized Friday and died Tuesday, recently acknowledged that she had neglected her health as she looked after her husband, who died in 2025.
-
 ## Deadline
+
+### Google DeepMind, Kling AI Alibaba Join Busan s Market s InnoAsia 2026 Program
+Wed, 26 Aug 2026 08:18:32 +0000 — https://deadline.com/2026/08/google-deepmind-kling-ai-alibaba-busan-acfm-innoasia-1237050687/
+
+Major tech companies including Google DeepMind, Amazon Web Services (AWS), Kling AI and Alibaba Group have signed up to participate in the InnoAsia program of this year’s Asian Contents Film Market (ACFM). The official market of Busan International Film Festival, ACFM says it is expanding its scope around the vision of “an innovative ecosystem [ ]
+
+### British Hulu Original Raising Chelsea Returning For Second Season On Disney+
+Wed, 26 Aug 2026 08:17:31 +0000 — https://deadline.com/2026/08/british-hulu-original-raising-chelsea-returning-for-second-season-on-disney-1237050697/
+
+Disney+ has greenlit a second season of Raising Chelsea, the British Hulu original series. The show follows podcasters and reality TV stars Jaime Laing and Sophie Habboo as they adapt to life as parents. Season 2 will see them return to work, celebrate life occasions and new family adventures that take them out of their [ ]
+
+### Ted Hodgkinson To Leave Southbank Centre Join Hay Festival As Creative Director
+Wed, 26 Aug 2026 08:07:27 +0000 — https://deadline.com/2026/08/ted-hodgkinson-hay-festival-creative-director-1237049679/
+
+Ted Hodgkinson, the Southbank Centre’s longtime director of literature and spoken word, is leaving the London institution to join Hay Festival in the newly created role of creative director. Hodgkinson will officially join the Hay Festival team in the autumn. In the new role, Hodgkinson will be responsible for leading the event’s artistic and creative [ ]
+
+### ReelShort Strikes Microdrama Deal With Indonesian Streamer Vidio For 200 Catalogue Titles Co-Production Of New Shows
+Wed, 26 Aug 2026 07:08:23 +0000 — https://deadline.com/2026/08/reelshort-microdrama-vidio-indonesia-1237050682/
+
+ReelShort has struck a deal with Indonesian streaming platform Vidio to bring hundreds of microdramas to local audiences, as well as co-produce new short dramas with Indonesian production houses. ReelShort catalogue titles will be available on Vidio starting on September 1 through the dedicated Short Drama tab, launched by Vidio last year, for subscribers on [ ]
+
+### Ted Lasso Stars Juno Temple Hannah Waddingham Detail Firework Scene They Were “Chomping At The Bit “ To Do In Season 4
+Wed, 26 Aug 2026 07:01:00 +0000 — https://deadline.com/2026/08/ted-lasso-season-4-juno-temple-talks-friendship-roy-romance-1237050516/
+
+SPOILER ALERT: This post spoils Ted Lasso Season 4 Episode 4, titled Greyhounds Day Off. Getting a women’s soccer team off the ground takes its challenges, which Keeley Jones (Juno Temple) and Rebecca Welton (Hannah Waddingham) have begun to realize four episodes into the fourth season of Ted Lasso. From the “Higgins Report” disclosing some [ ]
+
+### Marlo Miazga Launches M Media With CBC Order For Deeply Personal Doc Ground Control
+Wed, 26 Aug 2026 07:00:00 +0000 — https://deadline.com/2026/08/marlo-miazga-m-media-ground-control-cbc-1237050034/
+
+EXCLUSIVE: Canadian producer and showrunner Marlo Miazga is launching a production company with a deeply personal documentary for CBC about her death of her teenage child. M Media will operate out of Toronto, as a IP-focused media business making scripted and unscripted content, with former Sphere Media boss Miazga at the helm. Miazga s debut commission, [ ]
 
 ### Iowa MAGA AG Wants To Take California Rob Bonta To Supreme Court Over Paramount-WBD Antitrust Suit, Maybe
 Wed, 26 Aug 2026 05:09:42 +0000 — https://deadline.com/2026/08/paramount-merger-supreme-court-threat-iowa-1237050615/
@@ -135,34 +165,4 @@ The cast of the UK production of 9 to 5: The Musical paid tribute to Dolly Parto
 Wed, 26 Aug 2026 00:25:27 +0000 — https://deadline.com/2026/08/tuc-watkins-cast-prime-video-series-escorted-1237050426/
 
 EXCLUSIVE: Tuc Watkins (Paradise, SWAT: Exiles) has joined the cast of Brett Goldstein s new Prime Video series Escorted in a heavily recurring role, sources close to production tell Deadline. He will play Neil, who looks like a cowboy. He is a trainer at a high-end gym and a male escort to wealthy women on the [ ]
-
-### Dolly Parton Died After A Brief Battle With Cancer , Her Reps Confirm
-Wed, 26 Aug 2026 00:12:33 +0000 — https://deadline.com/2026/08/dolly-parton-cause-of-death-cancer-1237050517/
-
-We have more details on the cause of death for Dolly Parton. The beloved country music legend died following a “brief battle with cancer, her reps confirmed to People. The type of cancer was not disclosed. The country music icon, songwriter, philanthropist and star of 9 to 5 and Steel Magnolias, died Tuesday at the age [ ]
-
-### The Dog Stars Review: Jacob Elordi Searches For Last Gasp Of Humanity In Ridley Scott s Sharp Postapocalyptic Thriller
-Wed, 26 Aug 2026 00:00:00 +0000 — https://deadline.com/2026/08/the-dog-stars-review-jacob-elordi-ridley-scott-1237049569/
-
-The lovable dog in Ridley Scott s The Dog Stars isn t actually the star of film, despite the title. Sadly, Jasper is only a supporting player in the first half hour of the movie. The real star here is Jacob Elordi, who is continuing to show genuine chops as a leading man. He does it again [ ]
-
-### Disney+ Sets Premiere For Korean Drama Series ‘The Remarried Empress’
-Wed, 26 Aug 2026 00:00:00 +0000 — https://deadline.com/2026/08/disney-plus-shin-mina-ju-jihoon-remarried-empress-busan-1237050148/
-
-Disney+ has set a November 4 launch date for its lavish historical K-drama The Remarried Empress, starring Shin Mina and Ju Jihoon, which will receive a world premiere in the On Screen section of the upcoming Busan Film Festival. Based on a Naver Webtoon of the same name that has amassed almost 3 billion views, [ ]
-
-### Doc Talk Podcast: TIFF Docs Programmer Thom Powers Previews Hottest Documentary Features At Fast-Approaching Toronto Film Festival
-Tue, 25 Aug 2026 23:18:29 +0000 — https://deadline.com/2026/08/doc-talk-podcast-tiff-docs-programmer-previews-festival-1237050027/
-
-Some of the top documentary filmmakers in the world soon will be packing their bags for Toronto, preparing for a curtain call at one of the world’s most important cinematic events. The 51st edition of the Toronto Film Festival again features a dynamic roster of documentaries, ranging from Oscar winner Alex Gibney’s anticipated film on Elon [ ]
-
-### ABC, CBS And NBC To Air Specials Commemorating The Life Of Dolly Parton
-Tue, 25 Aug 2026 23:15:00 +0000 — https://deadline.com/2026/08/cbs-news-dolly-parton-special-abc-news-1237050369/
-
-UPDATED: CBS News and ABC News will air specials on Tuesday paying tribute to Dolly Parton, who died today at the age of 80. NBC plans a news special on Wednesday. A CBS News Special: Dolly Parton An American Icon will air at 10 p.m. ET, with Gayle King and Tony Dokoupil along with [ ]
-
-### Sam Register Leaving As Warner Bros. Animation President
-Tue, 25 Aug 2026 23:03:30 +0000 — https://deadline.com/2026/08/sam-register-leaving-warner-bros-animation-president-1237050433/
-
-Sam Register, President of Warner Bros. Animation, Cartoon Network Studios and Hanna-Barbera Studios Europe, is departing after three decades at the company. The news was announced internally Tuesday by Channing Dungey, Chairman and CEO of Warner Bros. Television Group and U.S. Networks, to whom he reported. It’s with mixed emotions that I announce the studio [ ]
 

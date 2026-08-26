@@ -1,11 +1,16 @@
-# Games — harvested 2026-08-26T05:15:58.288Z
+# Games — harvested 2026-08-26T08:22:58.221Z
 
 ## Eurogamer
+
+### Metro 2039 is a game about war that actually has something to say
+Wed, 26 Aug 2026 07:01:00 +0000 — https://www.eurogamer.net/metro-2039-preview-interview-war-ukraine-bloch-ulmer
+
+Earlier this year, publisher Deep Silver and developer 4A Studios published a blog post outlining its vision for Metro 2039. The studio revealed the game - being developed primarily in Ukraine amid the continued Russian invasion - is darker and focuses on the "cost of silence, the horrors of tyranny, and the price of freedom" . How could it not be? The developers turn up to work every day not knowing if the power will go out, if they will have to take cover from a drone strike, if they will be able to see their loved ones that evening, or eat hot food when they get home. This is a game being developed in the middle of a warzone, and you better believe the final product is going to reflect that. Read more
 
 ### Paradox's latest grand strategy Afterworld wants you to survive and thrive in the post-apocalypse
 Tue, 25 Aug 2026 20:11:49 +0000 — https://www.eurogamer.net/paradox-grand-strategy-afterworld-announcement
 
-After a succession of grand strategy sequels - including Crusader Kings 3 , Victoria 4, and Europa Universalis 5 - Paradox has unveiled Afterworld, its first grand strategy game to feature an original setting in over a decade. Read more
+After a succession of grand strategy sequels - including Crusader Kings 3 , Victoria 3, and Europa Universalis 5 - Paradox has unveiled Afterworld, its first grand strategy game to feature an original setting in over a decade. Read more
 
 ### The Witcher 3 Remastered announced, an overhaul free for existing owners, while expansion Songs of the Past finally shown
 Tue, 25 Aug 2026 20:02:35 +0000 — https://www.eurogamer.net/witcher-3-expansion-songs-of-the-past-trailer
@@ -20,7 +25,7 @@ Marcus Fenix says something gruffly, his squad laughs, then a horde of Locust en
 ### Yes, the leaks were true - a Lego version of Cities Skylines is on its way to PC and consoles
 Tue, 25 Aug 2026 19:44:53 +0000 — https://www.eurogamer.net/lego-cities-skylines-announced-pc-xbox-ps5-switch-2
 
-Well there go, the leaks were true! Paradox has announced a brand-new entry in its Cities Skylines series, and this time it's getting a Lego makeover for what it's calling a "playful take" on city building that's heading to Xbox Series X/S, PlayStation 5, PC, and Switch 2 . Read more
+Well there go, the leaks were true! Paradox has announced a brand-new entry in its Cities Skylines series, and this time it's getting a Lego makeover for what the publisher is calling a "playful take" on city building that's heading to Xbox Series X/S, PlayStation 5, PC, and Switch 2 . Read more
 
 ### Game of Thrones RTS War for Westeros just got a first gameplay trailer confirming some familiar faces
 Tue, 25 Aug 2026 19:05:29 +0000 — https://www.eurogamer.net/game-of-thrones-war-for-westeros-gameplay-trailer
@@ -57,12 +62,17 @@ Tue, 25 Aug 2026 12:44:03 +0000 — https://www.eurogamer.net/the-witcher-4-rele
 
 The Witcher 4 's newly communicated 2028 release date is causing concern among its community about whether the game releases physically on a disc or not. Read more
 
-### Open-world Iron Man game footage leaks, showing an hour of Just Cause dev Avalanche's cancelled Marvel game
-Tue, 25 Aug 2026 12:42:35 +0000 — https://www.eurogamer.net/iron-man-avalanche-studios-gameplay-leak
-
-It's been a while since we've seen a game based on Marvel's Iron Man, and it's not for lack of trying. Marvel owner Disney had at one point tapped Just Cause series developer Avalanche Studios to create an original game based on the armoured superhero. That project was cancelled before it was even announced. Read more
-
 ## GamesIndustry.biz
+
+### Roblox applies restrictions to games featuring "reward-driven media feeds" available in Roblox Kids and Select
+Wed, 26 Aug 2026 08:10:26 +0000 — https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select
+
+Roblox has introduced a policy to prevent children from accessing "reward-driven media feeds" in games available in Roblox Kids and Select. Read more
+
+### Executives from EA and Tencent to speak alongside Netflix, Sony, and Disney at FT Business of Entertainment summit
+Wed, 26 Aug 2026 05:56:36 +0000 — https://www.gamesindustry.biz/executives-from-ea-and-tencent-to-speak-alongside-netflix-sony-and-disney-at-ft-business-of-entertainment-summit
+
+The Financial Times has unveiled the C-suite line-up for its upcoming Business of Entertainment Summit in LA in September, with games industry speakers from EA and Tencent Games joining a roster which includes executives from linear media firms including Netflix, Sony Pictures, NBCUniversal and UFC/WWE parent TKO Group. GamesIndustry.biz is a promotional partner for the event alongside our parent company IGNE Entertainment. Read more
 
 ### The highlights of Gamescom Opening Night Live 2026
 Tue, 25 Aug 2026 23:23:11 +0000 — https://www.gamesindustry.biz/the-highlights-of-gamescom-opening-night-live-2026
@@ -114,16 +124,6 @@ Tue, 25 Aug 2026 09:14:43 +0000 — https://www.gamesindustry.biz/newzoo-global-
 
 Newzoo projects the global games market will grow 6.1% to $213.9 billion, with over half of consumer spending originating from China and the US. Read more
 
-### Godot Engine partner firm W4 Games secures $18m Series B funding, signs deal with Tencent to bolster Asia ecosystem
-Tue, 25 Aug 2026 08:00:00 +0000 — https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem
-
-W4 Games has raised $18 million in a Series B funding round led by Tencent and has signed an agreement with the Chinese giant to scale and bolster the Godot ecosystem in Asia. Read more
-
-### GDC Festival of Gaming announces changes to 2027 event, including new Business Hall at Moscone West
-Tue, 25 Aug 2026 07:04:11 +0000 — https://www.gamesindustry.biz/gdc-festival-of-gaming-announces-changes-to-2027-event-including-new-business-hall-at-moscone-west
-
-GDC Festival of Gaming has announced changes to its 2027 event , including a new Business Hall at Moscone West. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
@@ -145,7 +145,7 @@ Tue, 25 Aug 2026 23:45:00 GMT — https://www.pushsquare.com/news/2026/08/in-ps5
 
 So that's cool. Personally I’m not a huge fan of co-op action games, even though I appreciate they’re enormously popular. I mean, just look at Helldivers 2 , it’s one of Sony’s biggest games ever – and I think a big part of that is because it’s co-op. (It’s also damn fun, of course, which matters too.) Read the full article on pushsquare.com
 
-### Silver Palace Is a Gothic Victorian Dream, And It s Coming to PS5
+### Silver Palace Is a Gothic Victorian Dream, and It s Coming to PS5
 Tue, 25 Aug 2026 23:15:00 GMT — https://www.pushsquare.com/news/2026/08/silver-palace-is-a-gothic-victorian-dream-and-its-coming-to-ps5
 
 I'm game. There are some games I follow which I have to find excuses to write about. Silver Palace is one such title. While the gothic detective game did list “consoles” in its initial unveiling , it’s only today during Gamescom we’ve officially got confirmation of a PS5 release. That’s good because I gambled on an appointment in Cologne this week, and now my hands-on will make a lot more sense. Read the full article on pushsquare.com

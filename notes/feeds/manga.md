@@ -1,6 +1,21 @@
-# Manga — harvested 2026-08-26T05:15:58.288Z
+# Manga — harvested 2026-08-26T08:22:58.221Z
 
 ## Anime News Network
+
+### The Greatest Magicmaster's Retirement Plan TV Anime Casts Yui Ogura
+Wed, 26 Aug 2026 02:50:55 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/the-greatest-magicmaster-retirement-plan-tv-anime-casts-yui-ogura/.241001
+
+Ogura plays Loki Leevahl in 2027 anime
+
+### Inherit the Winds TV Anime Casts Yasuyuki Kase
+Wed, 26 Aug 2026 01:46:09 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/inherit-the-winds-tv-anime-casts-yasuyuki-kase/.241000
+
+Kase to voice Serizawa Kamo in January 2027 anime
+
+### Blue Box Anime's Season 2 Trailer Unveils Theme Songs
+Wed, 26 Aug 2026 01:08:29 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/blue-box-anime-season-2-trailer-unveils-theme-songs/.240991
+
+aiko performs opening song "Anata no Hana no Iro"; elsewhere kikou performs ending song "blue in"
 
 ### French President Announces Manga Theme Park
 Tue, 25 Aug 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-25/french-president-announces-manga-theme-park/.240971
@@ -46,21 +61,6 @@ Manga adaptation of franchise's 10th film launched on February 24
 Tue, 25 Aug 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/what-does-this-dub-mean-for-detective-conan/.240882
 
 Could TMS be winning the Battle of the Dubs?
-
-### Maria Holic Gets Sequel Series After 12 Years
-Tue, 25 Aug 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/maria-holic-gets-sequel-series-after-12-years/.240975
-
-Story set 12 months after ending of original story
-
-### Go Forward Stars a Very Good Boy
-Tue, 25 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/go-forward-stars-a-very-good-boy/.240899
-
-Talk about a doggone good time!
-
-### Monster Hunter Outlanders Game's Trailer Reveals Ruger Aidal
-Tue, 25 Aug 2026 16:27:05 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/monster-hunter-outlanders-game-trailer-reveals-ruger-aidal/.240980
-
-Pre-registration has begun for iOS/Android game
 
 ## Crunchyroll News
 
