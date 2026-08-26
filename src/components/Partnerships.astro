@@ -30,19 +30,43 @@ const rules = [
 
 <section id="partnerships" class="px-5 sm:px-8 md:px-10 pb-24 scroll-mt-24">
   <div class="max-w-[1180px] mx-auto">
-    <div
-      class="rounded-[20px] border p-7 sm:p-10"
+    <!-- A <details> rather than a scripted panel: it opens with no JavaScript,
+         it is keyboard operable for free, and a reader who arrives on the
+         #partnerships anchor gets it already open. The pitch is for the few
+         people looking for it, so it should not sit at the foot of every
+         visit. -->
+    <details
+      class="group rounded-[20px] border overflow-hidden"
       style="border-color:rgba(215,226,234,0.14);background:linear-gradient(155deg,rgba(24,1,31,0.55),rgba(118,33,176,0.10))"
     >
-      <p class="text-[#D7E2EA]/40 font-medium uppercase tracking-[0.2em] text-[0.62rem]">
-        Advertising / Partnerships
-      </p>
-      <h2
-        class="hero-heading font-black uppercase leading-none tracking-tight mt-3"
-        style="font-size:clamp(1.5rem, 3.6vw, 2.4rem)"
+      <summary
+        class="cursor-pointer list-none select-none px-7 sm:px-10 py-6 flex items-center justify-between gap-5 transition-colors hover:bg-[#D7E2EA]/[0.04]"
       >
-        Work with the blog
-      </h2>
+        <span class="min-w-0">
+          <span class="block text-[#D7E2EA]/40 font-medium uppercase tracking-[0.2em] text-[0.62rem]">
+            Advertising / Partnerships
+          </span>
+          <span
+            class="hero-heading block font-black uppercase leading-none tracking-tight mt-2"
+            style="font-size:clamp(1.15rem, 2.6vw, 1.7rem)"
+          >
+            Work with the blog
+          </span>
+        </span>
+
+        <span
+          class="shrink-0 inline-flex items-center gap-2 rounded-full border-2 border-[#D7E2EA]/35 text-[#D7E2EA] font-medium uppercase tracking-widest px-5 py-2.5 text-[0.66rem]"
+        >
+          <span class="group-open:hidden">Details</span>
+          <span class="hidden group-open:inline">Close</span>
+          <svg class="w-3.5 h-3.5 transition-transform group-open:rotate-180" viewBox="0 0 24 24" fill="none"
+               stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="m6 9 6 6 6-6" />
+          </svg>
+        </span>
+      </summary>
+
+      <div class="px-7 sm:px-10 pb-8 sm:pb-10 pt-1">
 
       <p class="text-[#D7E2EA]/60 font-light leading-relaxed mt-5 max-w-[62ch] text-[0.95rem]">
         This is a working 3D environment and technical artist writing for other
@@ -100,6 +124,12 @@ const rules = [
           Traffic and audience figures on request.
         </p>
       </div>
-    </div>
+      </div>
+    </details>
   </div>
 </section>
+
+<style>
+  /* Safari still paints its own disclosure triangle without this. */
+  summary::-webkit-details-marker { display: none; }
+</style>
