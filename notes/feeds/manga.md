@@ -1,6 +1,26 @@
-# Manga — harvested 2026-08-26T11:05:56.490Z
+# Manga — harvested 2026-08-26T14:25:41.225Z
 
 ## Anime News Network
+
+### Ghost in the Shell ‒ Episode 8
+Wed, 26 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/ghost-in-the-shell/episode-8/.240992
+
+She’s distracted and distant, perhaps unsurprising following her encounter with a new digital deity.
+
+### INTERVIEW: Yoshino Aoyama Takes On a New Type of Role in Blue Box Anime Season 2
+Wed, 26 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/interview-yoshino-aoyama-takes-on-a-new-type-of-role-in-blue-box-anime-season-2/.239611
+
+Known for playing soft-spoken introverts and chaotic gremlins, voice actor Yoshino Aoyama expands her range again as the openly hostile character Yumeka Kido in Blue Box Season 2.
+
+### Portrait of a RE:BEL - A Talk with Mika Pikazo
+Wed, 26 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/portrait-of-a-re-bel-a-talk-with-mika-pikazo/.240066
+
+Mika Pikazo discusses her illustration process, her inspirations, and her visions for the future.
+
+### Iron Wok Jan! ‒ Episode 8
+Wed, 26 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-8/.240989
+
+Akiyama Jan does not simply settle for making a good dish that will win, but specifically aims to make sure that Omae Kota loses.
 
 ### The Greatest Magicmaster's Retirement Plan TV Anime Casts Yui Ogura
 Wed, 26 Aug 2026 02:50:55 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/the-greatest-magicmaster-retirement-plan-tv-anime-casts-yui-ogura/.241001
@@ -41,26 +61,6 @@ krage performs ending song "Everlasting" for 2nd season
 Tue, 25 Aug 2026 20:34:46 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/shiro-yoshida-launches-new-kemonogari-manga/.240960
 
 Horror manga set in village with strange tradition
-
-### Ruby on the Cake: Feast of the Man-Eating Witches Manga Ends
-Tue, 25 Aug 2026 20:20:53 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/ruby-on-the-cake-feast-of-the-man-eating-witches-manga-ends/.240941
-
-Series debuted in April 2024
-
-### Kento Amemiya's Kinato's Magic Manga Ends
-Tue, 25 Aug 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/kento-amemiya-kinato-magic-manga-ends/.240965
-
-Manga about young boy with minor healing abilities launched on February 2
-
-### Detective Conan: The Private Eyes' Requiem Manga Ends in September
-Tue, 25 Aug 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-25/detective-conan-the-private-eyes-requiem-manga-ends-in-september/.240959
-
-Manga adaptation of franchise's 10th film launched on February 24
-
-### What Does This Dub Mean For Detective Conan?
-Tue, 25 Aug 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/what-does-this-dub-mean-for-detective-conan/.240882
-
-Could TMS be winning the Battle of the Dubs?
 
 ## Crunchyroll News
 

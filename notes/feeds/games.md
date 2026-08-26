@@ -1,6 +1,41 @@
-# Games — harvested 2026-08-26T11:05:56.490Z
+# Games — harvested 2026-08-26T14:25:41.225Z
 
 ## Eurogamer
+
+### Elden Ring plays much better than I'd expected on Switch 2, but it isn't without its flaws
+Wed, 26 Aug 2026 14:00:00 +0000 — https://www.eurogamer.net/elden-ring-tarnished-edition-switch-2-impressions-performance
+
+The power of the Nintendo Switch 2 definitely knows its bounds, but that hasn't stopped Nintendo and its fellow publishers from trying to push the handheld device to its limits by porting some of the more demanding and gargantuan of games to the console. The release of Elden Ring : Tarnished Edition is one example of that ambition. I've only been able to spend about ten hours with it so far, which saw me clearing out Weeping Peninsula, Stormveil Castle, and Liurnia of the Lakes before moving onto the treacherous place that is Caelid. This means I'm yet to explore the portion of the game whose performance I'm most curious about &ndash; the DLC's Realm of Shadow &ndash; but more on that shortly. (This is your spoiler warning for the DLC's ending, as I'll be discussing that below.) Read more
+
+### Fool's Theory explains where The Witcher 3's expansion region Letten actually is, and it's close to the setting of The Witcher 4
+Wed, 26 Aug 2026 13:31:06 +0000 — https://www.eurogamer.net/witcher-3-songs-of-past-letten-location-map
+
+CD Projekt Red properly revealed new Witcher 3 expansion Songs of the Past yesterday during Opening Night Live, confirming the new playable location as Letten, the place Geralt's best friend bard pal Dandelion comes from. But where exactly is Letten on the map? It's bloody hard to find. Read more
+
+### State of Decay 3 lives on after studio's separation from Xbox, with a closed beta promised for this year
+Wed, 26 Aug 2026 12:45:30 +0000 — https://www.eurogamer.net/state-of-decay-3-lives-on-after-studios-separation-from-xbox-with-a-closed-beta-promised-for-this-year
+
+Undead Labs has announced that a closed State of Decay 3 beta is coming sometime in 2026, weeks after the studio separated from Xbox. Read more
+
+### Hugely anticipated anime RPG Ananta gets a January release date, as pre-registrations hit a whopping 17m sign-ups
+Wed, 26 Aug 2026 12:40:06 +0000 — https://www.eurogamer.net/anime-rpg-ananta-release-date-january-pre-registrations
+
+Ananta , the free-to-play open-world game that looks a whole lot like Grand Theft Auto's urban sandbox got an anime makeover, finally has a release date. Read more
+
+### Rockstar issues statement on GTA 6 gameplay leaks, calling them "heartbreaking" and warning they may include some spoilers
+Wed, 26 Aug 2026 11:54:55 +0000 — https://www.eurogamer.net/gta-6-leaks-rockstar-statement-spoilers
+
+Rockstar has officially addressed the Grand Theft Auto 6 leaks, which have been pouring in online for over a week. The developer said the gameplay leaks have been "heartbreaking" for the team, and warned players that "the intended game experience may now be impacted by some spoilers". Read more
+
+### Crimson Desert Enhanced is a free upgrade that's out now and revamps the story, adds new skills and comes with all previously-released updates
+Wed, 26 Aug 2026 11:19:44 +0000 — https://www.eurogamer.net/crimson-desert-enhanced-patch-2-00-details
+
+Crimson Desert Enhanced was among the more surprising reveals of Gamescom Opening Night Live . Not because it was a trailer for a game that's already available, but that it was justified when the trailer ran through the new additions in Enhanced. Read more
+
+### Having played it, Tides of Annihilation looks to be a flashy, combo-heavy game of Simon Says
+Wed, 26 Aug 2026 11:11:26 +0000 — https://www.eurogamer.net/tides-of-annihilation-hands-on-preview-gamescom
+
+Tides of Annihilation is a very stylish, combo-heavy, Simon Says game. It's a mishmash of mythologies and action game tropes, and while I feel as though its teeters on the edge of messiness, it proved quite the thrill on the Gamescom show floor. Read more
 
 ### Path of Exile 2 finally has its 1.0 release date and it's coming this year
 Wed, 26 Aug 2026 11:03:14 +0000 — https://www.eurogamer.net/path-of-exile-2-version-1-0-free-to-play-date
@@ -27,42 +62,17 @@ Wed, 26 Aug 2026 08:51:30 +0000 — https://www.eurogamer.net/humankind-2-announ
 
 One of the bigger Gamescom Opening Night Live pre-show reveals was Humankind 2, the sequel to Amplitude's Civilization-like 4X game from 2021 . The trailer didn't feature much gameplay, rather a swiftly moving cinematic montage of Earth through humanity's ages, and it immediately sparked suspicions of gen-AI use because of the way it looks. Read more
 
-### Metro 2039 is a game about war that actually has something to say
-Wed, 26 Aug 2026 07:01:00 +0000 — https://www.eurogamer.net/metro-2039-preview-interview-war-ukraine-bloch-ulmer
-
-Earlier this year, publisher Deep Silver and developer 4A Studios published a blog post outlining its vision for Metro 2039. The studio revealed the game - being developed primarily in Ukraine amid the continued Russian invasion - is darker and focuses on the "cost of silence, the horrors of tyranny, and the price of freedom" . How could it not be? The developers turn up to work every day not knowing if the power will go out, if they will have to take cover from a drone strike, if they will be able to see their loved ones that evening, or eat hot food when they get home. This is a game being developed in the middle of a warzone, and you better believe the final product is going to reflect that. Read more
-
-### Paradox's latest grand strategy Afterworld wants you to survive and thrive in the post-apocalypse
-Tue, 25 Aug 2026 20:11:49 +0000 — https://www.eurogamer.net/paradox-grand-strategy-afterworld-announcement
-
-After a succession of grand strategy sequels - including Crusader Kings 3 , Victoria 3, and Europa Universalis 5 - Paradox has unveiled Afterworld, its first grand strategy game to feature an original setting in over a decade. Read more
-
-### The Witcher 3 Remastered announced, an overhaul free for existing owners, while expansion Songs of the Past finally shown
-Tue, 25 Aug 2026 20:02:35 +0000 — https://www.eurogamer.net/witcher-3-expansion-songs-of-the-past-trailer
-
-The Witcher 3 expansion Songs of the Past - which is due to arrive 12 years after the base game was released - has finally been detailed in a debut trailer, but the surprise news is there's also a The Witcher 3 - Remastered edition coming that considerably overhauls the game, and it'll be a free upgrade for all existing owners of the game. Remastered comes on 29th September, and it's coming to Switch 2 and Battle.net for the first time. Read more
-
-### Gears of War: E-Day somehow feels exactly like a direct continuation of the original Xbox 360 trilogy, for better and for worse
-Tue, 25 Aug 2026 20:00:00 +0000 — https://www.eurogamer.net/gears-of-war-eday-preview
-
-Marcus Fenix says something gruffly, his squad laughs, then a horde of Locust enemies rushes the team. The hulking figure of Marcus roadie-runs towards the nearest hip-high bit of cover, slams his muscly shoulder into the concrete, and starts laying down suppressing fire with his Lancer machine gun. Enemy bodies fall apart in meaty chunks, blood spatters on the stone floor. A grey-skinned drone breaks through the defensive line and levels his Gnasher at you, finger on the trigger. Fenix revs the chainsaw on his Lancer, and cleaves through the warm flesh of this vagrant body in a sluice of wet viscera. I cannot tell if it is 2026, or 2008. Read more
-
-### Yes, the leaks were true - a Lego version of Cities Skylines is on its way to PC and consoles
-Tue, 25 Aug 2026 19:44:53 +0000 — https://www.eurogamer.net/lego-cities-skylines-announced-pc-xbox-ps5-switch-2
-
-Well there go, the leaks were true! Paradox has announced a brand-new entry in its Cities Skylines series, and this time it's getting a Lego makeover for what the publisher is calling a "playful take" on city building that's heading to Xbox Series X/S, PlayStation 5, PC, and Switch 2 . Read more
-
-### Game of Thrones RTS War for Westeros just got a first gameplay trailer confirming some familiar faces
-Tue, 25 Aug 2026 19:05:29 +0000 — https://www.eurogamer.net/game-of-thrones-war-for-westeros-gameplay-trailer
-
-If you've been eager for an update on that Game of Thrones RTS announced during last year's Summer Game Fest showcase , tonight's your night: War for Westeros just got its first gameplay trailer for you to peruse. Read more
-
-### Dungeons & Dragons game Warlock gets a first proper trailer, showing single-player action gameplay
-Tue, 25 Aug 2026 19:00:54 +0000 — https://www.eurogamer.net/dungeons-dragons-game-warlock-gets-a-first-proper-trailer-showing-single-player-action-gameplay
-
-Dungeons & Dragons game Warlock has had a first proper trailer featured at Gamescom Opening Night Live this evening. Read more
-
 ## GamesIndustry.biz
+
+### Ubisoft announces playstest platform The Player Council
+Wed, 26 Aug 2026 13:30:00 +0000 — https://www.gamesindustry.biz/ubisoft-announces-playstest-platform-the-player-council
+
+Ubisoft has announced the soft launch of The Player Council, a platform where players can test games and give feedback directly to developers. Read more
+
+### Rockstar responds to GTA 6 leaks – "This is obviously not how we intended for you to see the game after all this time"
+Wed, 26 Aug 2026 12:57:20 +0000 — https://www.gamesindustry.biz/rockstar-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time
+
+Rockstar Games has issued a statement regarding the recent leaks of Grand Theft Auto 6. Read more
 
 ### Testronic expands senior leadership, Mike Guttman appointed vice president of senior partnerships
 Wed, 26 Aug 2026 09:39:21 +0000 — https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships
@@ -114,21 +124,41 @@ Tue, 25 Aug 2026 13:00:00 +0000 — https://www.gamesindustry.biz/journey-studio
 
 Thatgamecompany, the studio behind Flow, Flower, Journey, and Sky: Children of the Light, has launched a publishing arm. Read more
 
-### EU games industry generated €24bn in 2024, studios reached 6,600 and workforce exceeded 95,000
-Tue, 25 Aug 2026 11:31:09 +0000 — https://www.gamesindustry.biz/eu-games-industry-generated-24bn-in-2024-studios-reached-6600-and-workforce-exceeded-95000
-
-The European games industry generated a combined turnover of &euro;24 billion in 2024, with over 6,600 studios employing more than 95,000 people. Read more
-
-### Gamescom Dev head says smaller studios represent the biggest opportunity in the games market
-Tue, 25 Aug 2026 11:00:00 +0000 — https://www.gamesindustry.biz/gamescom-dev-head-says-smaller-studios-represent-the-biggest-opportunity-in-the-games-market
-
-Frederik Hammes, who took over from Stephan Reichart as managing director of Gamescom Dev this year, says the results of the Gamescom Dev speaker survey show that smaller studios represent the biggest opportunity in the games market right now. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### PS5 Action RPG Tarae: The Unbound Puts an Eastern Folklore Spin on Diablo
+Wed, 26 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-action-rpg-tarae-the-unbound-puts-an-eastern-folklore-spin-on-diablo
+
+Watch the announcement trailer. Publisher Krafton has announced Tarae: The Unbound , a Diablo-esque top-down action RPG. Check out the debut trailer below: Read the full article on pushsquare.com
+
+### The Witcher 3 Remastered Reveals Huge List of Improvements, Including PS5 Pro Support
+Wed, 26 Aug 2026 12:45:00 GMT — https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-reveals-huge-list-of-improvements-including-ps5-pro-support
+
+Here we go again. The shock announcement of The Witcher 3: Wild Hunt - Remastered has prompted many fans to start thinking about yet another playthrough — but what does the enhanced re-release actually include? Well, yesterday's trailer does provide an overview — you just need to pause the video and read through the long list of stuff that scrolls up the screen. Fortunately for you, I've done just that and wrote it all down in this article. Read the full article on pushsquare.com
+
+### Metro 2039 Reveals More on Its Main Character, and You Can Buy His Spartan Helmet
+Wed, 26 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/metro-2039-reveals-more-on-its-main-character-and-you-can-buy-his-spartan-helmet
+
+Learn more about main character The Stranger. Metro 2039 rocked up to Gamescom Opening Night Live with a fresh gameplay trailer focusing on its new protagonist, The Stranger, and news that you can own his Spartan Helmet if you buy the PS5 game's Collector's Edition. You get two minutes of metro tunnel action in the trailer above, featuring cutscenes and combat. Then, the physical Spartan Helmet took centre stage during the live show. There'll be limited quantities and pre-orders will open later this year. Read the full article on pushsquare.com
+
+### Aniimo, the Free-to-Play, Pokémon-Like RPG, Joins the September Madness on PS5
+Wed, 26 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/aniimo-the-free-to-play-pokemon-like-rpg-joins-the-september-madness-on-ps5
+
+Too many games. Look, it's just kinda ridiculous now. The next couple of months are insane , and games just keep getting release dates within that time frame. Aniimo is one of them, recently confirmed to make its debut on PS5 on 16th September 2026. Read the full article on pushsquare.com
+
+### Rockstar Issues Statement on GTA 6 Leaks, Apologises for How Long Gameplay Reveal Has Taken
+Wed, 26 Aug 2026 11:45:00 GMT — https://www.pushsquare.com/news/2026/08/rockstar-issues-statement-on-gta-6-leaks-apologises-for-how-long-gameplay-reveal-has-taken
+
+"We are very sorry that everything has taken as long as it has". GTA 6 developer Rockstar Games has published a statement addressing the gameplay leaks that have been spreading across the Internet in the past week. The leaked videos have become increasingly spoilery in nature, with the potential for story details to make their way online. In response, the studio has commented on the leaks and apologised for how long it's taken Rockstar to get to this point, where it's about to show an official look at GTA 6 gameplay in a Netflix livestream. Read the full article on pushsquare.com
+
+### Italian Team Leaves Its Mark in Debut PS5 Game Lofsong
+Wed, 26 Aug 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/08/italian-team-leaves-its-mark-in-debut-ps5-game-lofsong
+
+An art-driven exploration puzzler. Lofsong , one of the few brand new game announcements at Gamescom Opening Night Live yesterday, was a standout thanks to its unique art-driven trailer, which you can watch above. It comes from Unrelated Studio, based in Turin, Italy, and Lofsong is its debut project. Here's the pitch from the team: Read the full article on pushsquare.com
 
 ### Silent Hill: Townfall Has Some Familiar Faces, Cast Revealed in New Trailer
 Wed, 26 Aug 2026 10:45:00 GMT — https://www.pushsquare.com/news/2026/08/silent-hill-townfall-has-some-familiar-faces-cast-revealed-in-new-trailer
@@ -159,36 +189,6 @@ Rate this year's Keighley surprises. We've reached the time of year when Geoff K
 Tue, 25 Aug 2026 23:45:00 GMT — https://www.pushsquare.com/news/2026/08/in-ps5-arabian-fantasy-1001-threads-of-mizan-you-ride-magic-carpet-hoverboards
 
 So that's cool. Personally I’m not a huge fan of co-op action games, even though I appreciate they’re enormously popular. I mean, just look at Helldivers 2 , it’s one of Sony’s biggest games ever – and I think a big part of that is because it’s co-op. (It’s also damn fun, of course, which matters too.) Read the full article on pushsquare.com
-
-### Silver Palace Is a Gothic Victorian Dream, and It s Coming to PS5
-Tue, 25 Aug 2026 23:15:00 GMT — https://www.pushsquare.com/news/2026/08/silver-palace-is-a-gothic-victorian-dream-and-its-coming-to-ps5
-
-I'm game. There are some games I follow which I have to find excuses to write about. Silver Palace is one such title. While the gothic detective game did list “consoles” in its initial unveiling , it’s only today during Gamescom we’ve officially got confirmation of a PS5 release. That’s good because I gambled on an appointment in Cologne this week, and now my hands-on will make a lot more sense. Read the full article on pushsquare.com
-
-### Showa American Story Stood Out in a Gamescom Filled with Samey PS5 Trailers
-Tue, 25 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/showa-american-story-stood-out-in-a-gamescom-filled-with-samey-ps5-trailers
-
-I am intrigued. I mean no disrespect to any individual game when I say livestreams like Gamescom Opening Night Live don’t really present titles at their best. The problem is, when you’re looking at a montage of trailers, the themes and mechanics all start to blend together. Isolated on its own, the latest dark fantasy Soulslike may look amazing – but back-to-back-to-back, they all blur together. Read the full article on pushsquare.com
-
-### I Can t Believe Train Sim World 7 Will Come to PS5 Before the Japanese Route I ve Spent Years Writing About
-Tue, 25 Aug 2026 22:45:00 GMT — https://www.pushsquare.com/news/2026/08/i-cant-believe-train-sim-world-7-will-come-to-ps5-before-the-japanese-route-ive-spent-years-writing-about
-
-One day. There was an air of inevitability to all this really, I suppose. It’s almost September, which means a new Train Sim World game is right around the corner, this time Train Sim World 7 . (At some point we might have to start writing the number in words like when a football team suffers a particularly heavy loss.) Read the full article on pushsquare.com
-
-### Expanded Onimusha Demo Out Now on PS5, Boasting Another Awesome Boss and More
-Tue, 25 Aug 2026 22:30:00 GMT — https://www.pushsquare.com/news/2026/08/expanded-onimusha-demo-out-now-on-ps5-boasting-another-awesome-boss-and-more
-
-Director's cut. The PS5 demo for Onimusha: Way of the Sword , which released almost three months back, has just received a significant update. Those who already have said demo downloaded just need to pull a patch — a hefty 9.6GB patch, mind — while newcomers can simply grab the full thing from the PS Store. Read the full article on pushsquare.com
-
-### Genshin Impact Dev Swaps Anime Waifus for Dark Fantasy in Nodusfall
-Tue, 25 Aug 2026 21:00:00 GMT — https://www.pushsquare.com/news/2026/08/genshin-impact-dev-swaps-anime-waifus-for-dark-fantasy-in-nodusfall
-
-Time for something totally different. HoYoverse, the maker of vibrant anime gacha games like Genshin Impact and Zenless Zone Zero , has announced a “realistic fantasy action” experience powered by Unreal Engine 5. The press release says the title’s been inspired by “diverse mythologies” and will emphasise “co-op multiplayer gameplay”. It looks a lot like Monster Hunter to me. Read the full article on pushsquare.com
-
-### Guitar Hero s Spiritual Successor, Stage Tour, Comes to PS5 Just in Time for Christmas
-Tue, 25 Aug 2026 19:50:00 GMT — https://www.pushsquare.com/news/2026/08/guitar-heros-spiritual-successor-stage-tour-comes-to-ps5-just-in-time-for-christmas
-
-Happy holidays. Publisher and developer RedOctane has announced a release date for Stage Tour , its spiritual successor to Guitar Hero . The plastic instrument rhythm title hits PS5 on 10th December, 2026, squeaking in just before Christmas. Read the full article on pushsquare.com
 
 ## Game Developer
 

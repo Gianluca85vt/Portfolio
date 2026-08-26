@@ -1,4 +1,4 @@
-# AI — harvested 2026-08-26T11:05:56.490Z
+# AI — harvested 2026-08-26T14:25:41.225Z
 
 ## OpenAI
 
@@ -27,12 +27,10 @@ Tue, 25 Aug 2026 00:00:00 GMT — https://openai.com/index/introducing-admin-plu
 
 Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.
 
-### Advancing price-performance for developers with GPT‑5.6 in Kiro
-Mon, 24 Aug 2026 12:00:00 GMT — https://openai.com/index/gpt-5-6-in-kiro
-
-GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.
-
 ## Hugging Face
+
+### Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers
+Wed, 26 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/train-multi-vector-encoder
 
 ### Granite 4.2 LLMs: How They're Built
 Tue, 25 Aug 2026 15:14:14 GMT — https://huggingface.co/blog/ibm-granite/granite-4-2

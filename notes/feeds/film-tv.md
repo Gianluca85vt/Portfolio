@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-26T11:05:56.490Z
+# Film & TV — harvested 2026-08-26T14:25:41.225Z
 
 ## Variety
 
-### COL Group, CP Group Strike 360-Degree Partnership to Grow Thailand s Short-Form Drama Industry
-Wed, 26 Aug 2026 11:00:00 +0000 — https://variety.com/2026/tv/news/col-group-cp-group-partnership-thailand-short-form-drama-1236842870/
+### Rupert Grint to Reprise Ron Weasley Role in Harry Potter and the Cursed Child on Broadway
+Wed, 26 Aug 2026 14:19:21 +0000 — https://variety.com/2026/legit/global/rupert-grint-ron-weasley-harry-potter-and-the-cursed-child-1236843779/
 
-COL Group and CP Group are teaming on a partnership aimed at building up Thailand s short-form drama business, linking creative training, local content production and distribution under a single initiative. The deal centers on a talent incubation program the two firms will run jointly with an academic institution in Thailand, aimed at connecting new creative [ ]
+Rupert Grint is reprising his iconic role as Ron Weasley after 15 years. The actor is set to join the cast of Harry Potter and the Cursed Child on Broadway from Feb. 2 to May 30, 2027. He will play an adult version of Ron in the play, which centers on the next generation of [ ]
 
-### Alice and Steve Renewed for Season 2 at Disney+ and Hulu
-Wed, 26 Aug 2026 10:46:43 +0000 — https://variety.com/2026/tv/global/alice-and-steve-renewed-season-2-disney-hulu-1236843670/
+### Oasis Documentary Captures Gallagher Brothers Moment of Reconciliation on Camera, Teases Disney+ EMEA Boss
+Wed, 26 Aug 2026 14:16:25 +0000 — https://variety.com/2026/tv/news/oasis-doc-gallagher-reconciliation-disney-1236843745/
 
-Alice and Steve has been picked up for a second season at Disney+ and Hulu. The comedy — which airs on Disney+ in the U.K. and Ireland and on Disney+ and Hulu in the U.S. — follows Alice (Nicola Walker), who is devastated when her best friend Steve (Jemaine Clement) starts dating her 26-year-old daughter [ ]
+The camera was rolling when the Gallaghers made up. An upcoming Disney+ documentary on Oasis has captured the moment Liam and Noel Gallagher reconciled after 15 years without contact, Angela Jain, head of content for Disney+ EMEA, revealed Wednesday at the Edinburgh TV Festival s Spotlight on Disney+ session. This is the story of two brothers [ ]
 
-### Mandy Patinkin Named First Honorary Team Captain of USA Fencing
-Wed, 26 Aug 2026 10:01:00 +0000 — https://variety.com/2026/sports/news/mandy-patinkin-usa-fencing-princess-bride-team-captain-1236841653/
+### Nile Rodgers Chic to Headline DKMS Cancer Benefit Gala in New York
+Wed, 26 Aug 2026 14:05:47 +0000 — https://variety.com/2026/music/news/nile-rodgers-chic-dkms-cancer-benefit-1236843765/
 
-Inigo Montoya isn’t putting down his sword just yet. Almost 40 years after Mandy Patinkin expertly parried and jousted his way to defeating the six-fingered man in the beloved 1987 film “The Princess Bride,” the actor is returning to the world of foils and sabers after being tapped to serve as USA Fencing’s first-ever honorary [ ]
+Nile Rodgers Chic will headline the 20th annual gala for DKMS, a top non-profit organization fighting blood cancer and blood disorders. The black-tie event at will take place at Cipriani Wall Street in New York on Thursday, October 15th. The evening’s programming includes a live concert from Rodgers — a cancer survivor as well [ ]
 
-### Under Salt Marsh Renewed for Season 2 With Rafe Spall Returning
-Wed, 26 Aug 2026 09:51:34 +0000 — https://variety.com/2026/tv/global/under-salt-marsh-renewed-season-2-rafe-spall-returning-1236843637/
+### Love Island and The Traitors Star Maura Higgins to Host Blind Date on Disney+
+Wed, 26 Aug 2026 14:04:00 +0000 — https://variety.com/2026/tv/global/maura-higgins-host-blind-date-disney-1236843740/
 
-Under Salt Marsh is returning for a second season at Sky. The crime drama has been greenlit for an as-yet-untitled second chapter with Rafe Spall reprising his role as Detective Eric Bull, Sky announced on Wednesday. The six-episode season will pick up as Detective Bull moves to a remote Scottish mining village sinking under the [ ]
+Love Island and The Traitors star Maura Higgins has a new gig: hosting Disney+ s upcoming reality series Blind Date. The iconic British dating show, which ran from 1985 to 2003, is being revamped by the streamer for modern audiences and promises to be bigger, better and bolder than ever, according to a press release. As [ ]
 
-### Italy’s RAI Cinema International Boards Edoardo De Angelis The Fire Within You Ahead of Venice Launch, Reveals First Clip (EXCLUSIVE)
-Wed, 26 Aug 2026 09:11:20 +0000 — https://variety.com/2026/film/festivals/rai-cinema-international-edoardo-de-angelis-fire-within-you-1236842662/
+### Tommy Tuppence Trailer: Antonia Thomas and Josh Dylan Solve Mysteries and Fall in Love in Modern Agatha Christie Series (EXCLUSIVE)
+Wed, 26 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/global/tommy-tuppence-trailer-antonia-thomas-modern-agatha-christie-1236842268/
 
-RAI Cinema International Distribution has acquired world rights to Italian director Edoardo De Angelis dark tragicomedy The Fire Within You ahead of its Venice competition launch. De Angelis, a native Neapolitan, broke out on the festival circuit at Venice in 2016 with the Naples-set conjoined twins drama Indivisible and subsequently opened the festival in 2023 with [ ]
+BritBox has unveiled the official trailer for Agatha Christie s Tommy Tuppence, a modern take on the beloved detective duo starring Antonia Thomas and Josh Dylan. The six-part series is the first contemporary English-language TV adaptation of Christie s Tommy Tuppence stories, set in present-day London and starring Dylan ( Buccaneers, Mamma Mia 2 ) as Tommy [ ]
 
-### Stephen Colbert Urges Emmy Voters to Back Jimmy Kimmel: Look How Cute He Is!
-Wed, 26 Aug 2026 08:52:41 +0000 — https://variety.com/2026/tv/news/stephen-colbert-endorses-jimmy-kimmel-emmys-race-1236843615/
+### Emily in Paris Season 6 First Look Shows a Glamorous Greek Adventure as Netflix Sets Christmas Release
+Wed, 26 Aug 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/emily-in-paris-season-6-release-date-first-look-greece-1236843268/
 
-With Emmy voting drawing to a close, Stephen Colbert has thrown his support behind Jimmy Kimmel in the newly revamped outstanding cariety series race, even though Colbert’s own late-night show is competing in the same category. In a video posted on social media, a bearded Colbert appears sitting outdoors on a windswept coastline with a [ ]
+Emily in Paris will take its final bow on Christmas Eve. Netflix set a Dec. 24 premiere date for the series sixth and final season and released new photos, including a look at the show s latest adventure in Greece. As reported by Variety in April, Emily s (Lily Collins) life and work will take her from [ ]
 
-### ‘Tall Tales Murder’ First Look: Ella Lily Hyland and Aidan Gillen Star in Wild Comedic Crime Drama From ‘Veep’ Director and ‘Love/Hate’ Creator (EXCLUSIVE)
-Wed, 26 Aug 2026 08:34:35 +0000 — https://variety.com/2026/tv/news/tall-tales-murder-first-look-ella-lily-hyland-aidan-gillen-1236843597/
+### Meta to Pay up to $18 Billion in Settlement With States Over Social-Media Addiction Claims
+Wed, 26 Aug 2026 13:40:29 +0000 — https://variety.com/2026/digital/news/meta-18-billion-settlement-state-ags-lawsuit-social-media-addiction-1236843725/
 
-The BBC has lifted the chaotic lid on Tall Tales and Murder, its upcoming dark comedic drama from Love/Hate creator Stuart Carolan and co-created with Emmy and DGA award winning Veep director Chris Addison. First announced last year and shot in Ireland, the wild-sounding six-part series mixes what the synopsis describes as a Bonnie and [ ]
+Meta will pay up to $18 billion over 10 years and implement broad child-safety reforms on Instagram and Facebook under a nationwide settlement with 52 state attorneys general, including California s Rob Bonta. The agreement, subject to court approval, resolves claims by the state AGs that Meta designed Instagram with addictive features, knowingly exposed [ ]
 
-### Korea s DRX Signs Strategic Partnership With Indonesia s Nuon to Expand Gaming and Entertainment Ties (EXCLUSIVE)
-Wed, 26 Aug 2026 08:09:54 +0000 — https://variety.com/2026/gaming/news/drx-nuon-indonesia-korea-partnership-1236843595/
+### Gary Oldman on the Pleasure of Playing Slow Horses Spy Jackson Lamb: A Man Who Has Single-Handedly Lowered the Public s Expectation of Personal Hygiene
+Wed, 26 Aug 2026 13:26:12 +0000 — https://variety.com/2026/tv/global/gary-oldman-slow-horses-edinburgh-tv-festival-1236843642/
 
-Korea s DRX Corp. and PT Nuon Digital Indonesia signed a strategic partnership in Jakarta to expand gaming and entertainment ties between Indonesia and Korea, starting with an entertainment festival called DRX Homefront Indonesia and a joint game publishing initiative between the two countries. The agreement pairs DRX s esports, content production and fan engagement experience with [ ]
+Gary Oldman received the Edinburgh TV Festival s Global Icon Award on Wednesday and, unsurprisingly, spent much of the time in an on-stage conversation discussing his most famous — and current — TV character. For the last six years, I ve had the pleasure of inhabiting Jackson Lamb, a man who has single-handedly lowered the public s expectation of personal [ ]
 
-### Netflix Latest Marketing Mash-Up Pairs Stella Artois With The Gentlemen
-Wed, 26 Aug 2026 08:00:00 +0000 — https://variety.com/2026/tv/news/netflix-stella-artois-the-gentlemen-marketing-partnership-1236843299/
+### Finding Emily Review: The Working Title Romantic Comedy Gets a Fresh, Funny GenZ Makeover
+Wed, 26 Aug 2026 13:16:20 +0000 — https://variety.com/2026/film/reviews/finding-emily-review-1236842405/
 
-Netflix has what looks to be a great show set to launch, but you can t see the program on its flagship streaming service. The company plans to take over the history Marlborough Pub in London between September 3 and September 5, when it will outfit the place much like its comedic action series The Gentlemen, [ ]
+The big-screen romantic comedy is unfashionable enough these days that it tends to come dressed up in at least one of two ways: with a quasi-absurd high concept (see this summer’s “One Night Only”) or draped in enough ironic quote marks to make clear that the filmmakers are rolling their eyes right along with you. [ ]
 
-### Oscars: Japan Selects All of a Sudden for International Feature Race
-Wed, 26 Aug 2026 07:39:14 +0000 — https://variety.com/2026/film/awards/oscars-japan-all-of-a-sudden-oscars-1236843581/
+### Women s Basketball League Unrivaled Raises More Than $100 Million From Carmelo Anthony, Ashton Kutcher, Alex Morgan, University of California Fund and More
+Wed, 26 Aug 2026 12:59:02 +0000 — https://variety.com/2026/tv/news/unrivaled-raises-more-than-100-million-carmelo-anthony-ashton-kutcher-alex-morgan-uc-investments-1236843699/
 
-Hamaguchi Ryusuke s All of a Sudden has been selected as Japan s entry in the international feature category at the 99th Academy Awards, the Motion Picture Producers Association of Japan (Eiren) has revealed. The selection marks the second time a Hamaguchi film has represented Japan in the category, five years after Drive My Car won the [ ]
+Unrivaled, the women s three-on-three basketball league, announced that its Series C fundraise has surpassed an initial $100 million target and is now oversubscribed valuing the league at $650 million. The funding round was led by Ten Pillars Sports Fund, backed by UC Investments, which manages the University of California system s investment funds. Other participants [ ]
 
 ## The Hollywood Reporter
+
+### Rupert Grint to Join Broadway Cast of Harry Potter and the Cursed Child
+Wed, 26 Aug 2026 14:07:47 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/rupert-grint-harry-potter-and-the-cursed-child-1236681941/
+
+Grint will play the adult version of Ron Weasley, a role which he originated in the film franchise.
+
+### The Love Hypothesis Trailer: Lili Reinhart and Tom Bateman Embark on Fake Dating Scheme in STEM Romance
+Wed, 26 Aug 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-love-hypothesis-official-trailer-watch-1236680661/
+
+Adapted from Ali Hazelwood’s bestselling novel, Reinhart and Bateman star as a Ph.D. candidate and the school’s intimidating professor pretending to be in a relationship.
+
+### Barry Keoghan to Lead and Produce Top Boy Prequel Series Jonny Boy at Netflix (Exclusive)
+Wed, 26 Aug 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/barry-keoghan-top-boy-prequel-jonny-netflix-tv-show-drake-1236681783/
+
+Creator-writer of the original show Ronan Bennett is returning for 'Jonny Boy,' as is Canadian rapper Drake, who executive produced the British BAFTA-winning crime drama.
+
+### DAZN Buys EverPass Media in Commercial Sports Rights Push
+Wed, 26 Aug 2026 13:13:41 +0000 — https://www.hollywoodreporter.com/business/business-news/dazn-buys-everpass-media-sports-rights-1236681851/
+
+EverPass investors the NFL, TKO and RedBird will become minority shareholders in DAZN, which is making a major move into the commercial side of sports media.
+
+### Jaye P. Morgan, Singer and Bawdy Gong Show Panelist, Dies at 94
+Wed, 26 Aug 2026 13:03:36 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jaye-p-morgan-dead-gong-show-singer-1236681831/
+
+A lover of double entendres, she got fired from the Chuck Barris game show after showing her breasts during a Mean Gene Dancing Machine routine.
+
+### Disney+ Greenlights Wedding Planner Rom-Com Drama From Playwright Kate Cortesi
+Wed, 26 Aug 2026 12:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/disney-wedding-planner-kate-cortesi-mad-love-show-series-1236681762/
+
+The six-part series will follow Maddy Caruso, a British wedding planner for an eclectic list of clients in the Italian countryside, whose chaotic love life comes back to bite her.
+
+### Andrew Garfield s The Uprising Confuses Fans After Reveal as Robin Hood Origin Story
+Wed, 26 Aug 2026 12:20:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/andrew-garfield-the-uprising-film-robin-hood-new-title-1236681825/
+
+Just two weeks before its release, Focus Features is now marketing Paul Greengrass' film — set during the 1381 English Peasants' Revolt — as 'The Uprising: The Rise of Robin Hood.'
+
+### Roku Lands NWSL Matches in Latest Sports Rights Deal (Exclusive)
+Wed, 26 Aug 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nwsl-games-roku-streaming-1236681419/
+
+The deal covers more than 30 games in the remainder of this season and in 2027.
+
+### Iranian Drama A Bit of Light Sells Wide Ahead of Venice Premiere (Exclusive)
+Wed, 26 Aug 2026 11:48:14 +0000 — https://www.hollywoodreporter.com/movies/movie-news/iran-drama-a-bit-of-light-sells-ahead-of-venice-premiere-1236681827/
+
+In Ali Asgari's drama, 'The Seed of the Sacred Fig' star Misagh Zareh plays a doctor who loses faith in the future after being arrested by the Iranian regime and having his medical practice shut down.
 
 ### Alice and Steve Renewed for Season 2 at Disney+
 Wed, 26 Aug 2026 10:51:43 +0000 — https://www.hollywoodreporter.com/tv/tv-news/alice-and-steve-season-2-disney-nicola-walker-jemaine-show-1236681819/
 
 Nicola Walker and Jemaine Clement star in the Disney-Hulu project, which produced heated online discourse over its central age-gap relationship upon the release of its first season.
 
-### Oscars: Japan Picks Ryusuke Hamaguchi s All of a Sudden as Best Int l Feature Submission
-Wed, 26 Aug 2026 09:39:10 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-japan-ryusuke-hamaguchi-all-of-a-sudden-intl-film-1236681780/
-
-The critically acclaimed drama will give the ‘Drive My Car’ director his second shot at the category after winning just five years ago, with Neon also planning a broader Oscars campaign for best picture, director, actress and supporting actress.
-
-### Maserati: The Brothers Trailer: Al Pacino, Anthony Hopkins, Jessica Alba and Andy Garcia Star in Motorsport Biopic
-Wed, 26 Aug 2026 09:20:03 +0000 — https://www.hollywoodreporter.com/movies/movie-news/maserati-the-brothers-trailer-al-pacino-anthony-hopkins-1236681766/
-
-The Italian film comes from the producer of Robert Moresco's 'Lamborghini: The Man Behind the Legend' and Michael Mann's 'Ferrari.'
-
-### Sky Orders Second Chapter of Rafe Spall-Starring Crime Drama Under Salt Marsh
-Wed, 26 Aug 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/sky-rafe-spall-under-salt-marsh-series-2-scotland-crime-1236679612/
-
-"Detective Eric Bull (Spall) moves to a remote Scottish mining village sinking under the weight of its own secrets, where a murder investigation brings him closer to the truth about his own past."
-
-### Sky U.K. s Meghan Lyvers Discusses IP, Original Content Mix and Increasing the Emotional Stakes
-Wed, 26 Aug 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/sky-uk-original-content-interview-jackal-dragon-tattoo-ip-1236679890/
-
-The Comcast company's scripted originals exec talks about 'War,' 'The Day of the Jackal,' working with partners, championing auteurs and British stories, and that 'The Girl With the Dragon Tattoo' adaptation.
-
-### Dominic West and Sienna Miller Star in Image From Sky and HBO Legal Thriller War (Exclusive)
-Wed, 26 Aug 2026 07:59:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hbo-sky-show-war-sienna-miller-dominic-west-photo-exclusive-1236679668/
-
-The drama from 'Hijack' creator George Kay, which received a two-season commitment and is set in the elite world of London law, stars the duo as a tech titan and his estranged film star wife.
-
-### Haim Saban, Lawrence Bender and Teddy Schwarzman Among Industry Group Accusing Mark Ruffalo of Antisemitism in Attack on Paramount Leadership
-Wed, 26 Aug 2026 04:31:36 +0000 — https://www.hollywoodreporter.com/business/business-news/haim-saban-lawrence-bender-teddy-schwarzman-slam-mark-ruffalo-1236681689/
-
-The group, calling itself The Brigade, also includes Ram Bergman, Matti Leshem, Anthony Bregman, Micah Green and Lynn Harris.
-
-### Dolly Parton, a Hollywood Treasure Who Lit Up the Screen With Her Authentic Self
-Wed, 26 Aug 2026 02:58:25 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/dolly-parton-film-critic-tribute-9-to-5-steel-magnolias-1236681618/
-
-The country superstar was a luminous natural in a small but indelible body of much-loved feature films, chief among them '9 to 5,' 'The Best Little Whorehouse in Texas' and 'Steel Magnolias.'
-
-### Taylor Swift Remembers Dolly Parton s True Grace and Grit : Her Legacy Will Be Everlasting
-Wed, 26 Aug 2026 02:56:56 +0000 — https://www.hollywoodreporter.com/music/music-news/taylor-swift-dolly-parton-dead-tribute-1236681122/
-
-The 14-time Grammy Award winner previously told The Hollywood Reporter that Parton was "a force of evolution and transformation in our industry."
-
-### The Best Tinted Sunscreens to Achieve Off-Duty (UV-Protected) Beauty
-Wed, 26 Aug 2026 02:45:26 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-tinted-sunscreens-for-face-tinted-moisturizer-with-spf-1236680284/
-
-These Hollywood-coveted, editor-tested formulas blend makeup, skin care and, of course, sun care.
-
 ## Deadline
 
-### Tubi Adds Once Upon A Time In Hollywood, Jurassic World More To International Service With Sony NBCU Deals
-Wed, 26 Aug 2026 11:00:00 +0000 — https://deadline.com/2026/08/tubi-once-upon-time-hollywood-jurassic-world-deal-sony-nbcu-1237050731/
+### Alice And Steve Renewed For Season 2 At Disney+
+Wed, 26 Aug 2026 14:19:56 +0000 — https://deadline.com/2026/08/alice-and-steve-renewed-season-2-disney-plus-hulu-1237050880/
 
-EXCLUSIVE: Tubi has locked down a raft of big-ticket movies for its international services in the UK, Australia and Canada, with titles including Once Upon a Time in Hollywood and Jurassic World landing on the free streamer. Fox-owned Tubi recently said it has surpassed 110 million monthly active users. Its latest international deals with NBCUniversal [ ]
+Alice and Steve will be back for another go-round. Disney+ has renewed the British comedy series, starring Jemaine Clement and Nicola Walker, for a second season. It will be available on Disney+ in the UK and Ireland and on Disney+ and Hulu in the U.S. Created and written by Sophie Goodhart, Season 1 revolves around [ ]
 
-### Oscars: Japan Selects Ryusuke Hamaguchi’s ‘All Of A Sudden’ For International Feature Film Race
-Wed, 26 Aug 2026 09:43:49 +0000 — https://deadline.com/2026/08/ryusuke-hamaguchi-all-of-a-sudden-oscars-japan-1237050753/
+### Rupert Grint To Join Broadway s Harry Potter And the Cursed Child In Ron Weasley Reprise
+Wed, 26 Aug 2026 14:18:02 +0000 — https://deadline.com/2026/08/rupert-grint-harry-potter-and-the-cursed-child-broadway-1237050854/
 
-Ryusuke Hamaguchi’s latest feature, All Of A Sudden, has been selected as Japan’s entry for the Best International Feature Film category at the 99th Academy Awards. The Japanese-French-language drama premiered to an 11-minute standing ovation at Cannes and went on to win a Best Actress prize for both of its stars, Virginie Efira and Tao [ ]
+Rupert Grint, who played Ron Weasley in all eight of the Harry Potter films, will reprise the role on Broadway this winter, following in the footsteps of the movies Draco Malfoy and current Harry Potter and the Cursed Child star Tom Felton. Like Felton, Grint will portray the grown-up version of the role he originated [ ]
 
-### Sky Renews Under Salt Marsh With Rafe Spall Returning
-Wed, 26 Aug 2026 09:35:37 +0000 — https://deadline.com/2026/08/under-salt-marsh-renewed-rafe-spall-returning-sky-1237050733/
+### Stephen Colbert Endorses Jimmy Kimmel For Emmy
+Wed, 26 Aug 2026 14:08:56 +0000 — https://deadline.com/2026/08/stephen-colbert-endorses-jimmy-kimmel-emmy-1237050856/
 
-Rafe Spall will be heading back Under Salt Marsh. Sky has ordered a second, currently untitled season of the crime drama, in which Spall plays enigmatic Detective Eric Bull. Following the events of the first season, Bull will move to a remote Scottish mining village that is, per the synopsis, sinking under the weight of [ ]
+Last year, Jimmy Kimmel threw his Emmy support behind Stephen Colbert after CBS axed The Late Show. The ABC host put up a billboard in LA, saying, “I’m voting for Stephen.” It clearly helped as Colbert picked up his first Emmy for Outstanding Talk Series last September as host of the storied CBS franchise. Now, [ ]
 
-### Lionsgate Strikes Promotional Partnership With Indian Action Star Yash
-Wed, 26 Aug 2026 09:19:24 +0000 — https://deadline.com/2026/08/yash-and-lionsgate-strike-promotional-movie-partnership-1237050718/
+### Netflix Sets Roald Dahl Series With Cast Including Nicola Coughlan, Imelda Staunton Dominic West
+Wed, 26 Aug 2026 14:05:00 +0000 — https://deadline.com/2026/08/netflix-roald-dahl-series-nicola-coughlan-dominic-west-1237050741/
 
-EXCLUSIVE: Lionsgate has struck a deal with Indian action star Yash and his production company Monster Mind Creations for the actor to promote select Lionsgate theatrical releases. The idea is to amplify campaigns, including for movies such as the upcoming John Rambo and John Wick spinoff Caine, in India s fourth-largest global film market and to [ ]
+EXCLUSIVE: Netflix will delve deeper into the world of Roald Dahl with a new series based on the author s short stories for adults. The streaming giant has enlisted Danny Brocklehurst, the man behind hit series Fool Me Once, to write a six-part drama that will chart a course through some of Dahl s vignettes. It is [ ]
 
-### Finite Films TV Hopes Ezra England Sitcom Nuclear Children Will Mushroom In Edinburgh
-Wed, 26 Aug 2026 08:56:00 +0000 — https://deadline.com/2026/08/ezra-england-sitcom-nuclear-children-finite-films-tv-1237050714/
+### Meta Settles Landmark Social Media Addiction Case For $17 Billion, Enhanced Protections For Teens
+Wed, 26 Aug 2026 14:02:00 +0000 — https://deadline.com/2026/08/meta-agrees-to-settle-landmark-teen-social-media-addiction-case-1237050852/
 
-EXCLUSIVE: Finite Films TV today is at the Edinburgh Television Festival today with a new six-part comedy series, Nuclear Children. Adapted from the debut play of writer Ezra England, the series is being co-developed with Platform Presents, which also co-produced the original stage production. Nuclear Children follows 18-year-old Isla Sparrow who, after the death of [ ]
+California Attorney General Rob Bonta and coalition of 51 attorneys unveiled a proposed settlement with social media giant Meta parent of Facebook and Instagram for up to $17 billion along with remedies designed to help protect teens from alleged mental health harms associated with social media use, the crux of a landmark lawsuit, including [ ]
 
-### Charlie Cox Crime Drama ‘Kin’ Set For 2027 Return
-Wed, 26 Aug 2026 08:25:42 +0000 — https://deadline.com/2026/08/charlie-cox-kin-2027-1237050705/
+### ‘The Love Hypothesis’ Trailer: Lili Reinhart’s Olive Tom Bateman’s Adam Carlsen Risk Fake Dating And “False Positive” Feelings
+Wed, 26 Aug 2026 14:00:42 +0000 — https://deadline.com/2026/08/the-love-hypothesis-trailer-lili-reinhart-tom-bateman-1236968946/
 
-Irish broadcaster RTÉ has announced that the third season of its family crime drama, Kin, starring Charlie Cox, will be released in 2027. Check out a first-look image from the upcoming season above. The third season synopsis reads: In the third season, as the Kinsellas consolidate power, buried betrayals and festering rivalries turn inward, and [ ]
+Updated, August 26, 7 a.m.: A new trailer for Prime Video’s The Love Hypothesis film adaptation has arrived, set to Reneé Rapp’s “Messy.” Olive Smith (Lili Reinhart) will do anything for her best friend Ahn (Rachel Marsh), including surprise kiss the notorious Dr. Adam Carlsen — who is known to be very hard on his [ ]
 
-### Google DeepMind, Kling AI Alibaba Join Busan Market s InnoAsia 2026 Program
-Wed, 26 Aug 2026 08:18:32 +0000 — https://deadline.com/2026/08/google-deepmind-kling-ai-alibaba-busan-acfm-innoasia-1237050687/
+### Deadline Launches L.A. Law Legal Summit To Tackle Key Hollywood Issues, Honor Patricia Glaser Nina Shaw
+Wed, 26 Aug 2026 13:45:00 +0000 — https://deadline.com/2026/08/legal-summit-la-law-september-1237050560/
 
-Major tech companies including Google DeepMind, Amazon Web Services (AWS), Kling AI and Alibaba Group have signed up to participate in the InnoAsia program of this year’s Asian Contents Film Market (ACFM). The official market of Busan International Film Festival, ACFM says it is expanding its scope around the vision of “an innovative ecosystem [ ]
+The first thing we do, let s kill all the lawyers, Shakespeare famously wrote 500 years ago. All respect to the Bard, but we disagree. Which is why on September 17, 2026, Deadline wants to celebrate the lawyers — especially the ones holding down the Hollywood fort. Joined by heavy hitters and game changers from the [ ]
 
-### British Hulu Original Raising Chelsea Returning For Second Season On Disney+
-Wed, 26 Aug 2026 08:17:31 +0000 — https://deadline.com/2026/08/british-hulu-original-raising-chelsea-returning-for-second-season-on-disney-1237050697/
+### New York City Landmarks Dazzle For Dolly Parton
+Wed, 26 Aug 2026 13:29:08 +0000 — https://deadline.com/2026/08/new-york-dolly-parton-empire-state-building-1237050826/
 
-Disney+ has greenlit a second season of Raising Chelsea, the British Hulu original series. The show follows podcasters and reality TV stars Jamie Laing and Sophie Habboo as they adapt to life as parents. Season 2 will see them return to work, celebrate life occasions and new family adventures that take them out of their [ ]
+Two New York City icons shone a dazzling pink last night in honor of another icon, the great Dolly Parton, who died yesterday following a brief battle with cancer. Both the Empire State Building and the One Times Square New Year s Eve dropping ball were lit with pink lights in Parton s memory. Fittingly, both sites [ ]
 
-### Ted Hodgkinson To Leave Southbank Centre Join Hay Festival As Creative Director
-Wed, 26 Aug 2026 08:07:27 +0000 — https://deadline.com/2026/08/ted-hodgkinson-hay-festival-creative-director-1237049679/
+### Paramount UK Chief Ben Frow On Legal Battle Over 5 Crime Drama: We Take Welfare Very Seriously
+Wed, 26 Aug 2026 13:23:42 +0000 — https://deadline.com/2026/08/paramount-ben-frow-legal-fight-blackbox-1237050825/
 
-Ted Hodgkinson, the Southbank Centre’s longtime director of literature and spoken word, is leaving the London institution to join Hay Festival in the newly created role of creative director. Hodgkinson will officially join the Hay Festival team in the autumn. In the new role, Hodgkinson will be responsible for leading the event’s artistic and creative [ ]
+Paramount UK content chief Ben Frow has said he has no qualms about scrapping shows to protect contributor welfare amid a legal battle over a collapsed 5 drama series. In an interview at the Edinburgh TV Festival, Frow was asked about Deadline s story on Tuesday, which revealed that Paramount s British network 5 is fighting a [ ]
 
-### ReelShort Strikes Microdrama Deal With Indonesian Streamer Vidio For 200 Catalogue Titles Co-Production Of New Shows
-Wed, 26 Aug 2026 07:08:23 +0000 — https://deadline.com/2026/08/reelshort-microdrama-vidio-indonesia-1237050682/
+### Wild Horse Nine First Clip: John Malkovich Sam Rockwell Get Themselves Into Trouble In Martin McDonagh s Dark Comedy
+Wed, 26 Aug 2026 13:01:00 +0000 — https://deadline.com/2026/08/wild-horse-nine-first-clip-john-malkovich-sam-rockwell-1237050770/
 
-ReelShort has struck a deal with Indonesian streaming platform Vidio to bring hundreds of microdramas to local audiences, as well as co-produce new short dramas with Indonesian production houses. ReelShort catalogue titles will be available on Vidio starting on September 1 through the dedicated Short Drama tab, launched by Vidio last year, for subscribers on [ ]
+EXCLUSIVE: Here s a fun first clip from Martin McDonagh s anticipated crime-dramedy Wild Horse Nine, which launches next week at the Venice Film Festival. Set just before the 1973 Chilean coup, pic stars John Malkovich and Sam Rockwell as CIA agents Chris and Lee, who are dispatched from Santiago to Easter Island by their bureau chief, MJ (Steve Buscemi). As the longtime [ ]
 
-### Ted Lasso Stars Juno Temple Hannah Waddingham Detail Firework Scene They Were “Chomping At The Bit “ To Do In Season 4
-Wed, 26 Aug 2026 07:01:00 +0000 — https://deadline.com/2026/08/ted-lasso-season-4-juno-temple-talks-friendship-roy-romance-1237050516/
+### British Drama Series ‘Secret Service’ Starring Gemma Arterton Lands At MGM+
+Wed, 26 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/secret-service-gemma-arterton-mgm-1237050419/
 
-SPOILER ALERT: This post spoils Ted Lasso Season 4 Episode 4, titled Greyhounds Day Off. Getting a women’s soccer team off the ground takes its challenges, which Keeley Jones (Juno Temple) and Rebecca Welton (Hannah Waddingham) have begun to realize four episodes into the fourth season of Ted Lasso. From the “Higgins Report” disclosing some [ ]
+Gemma Arterton-led drama Secret Service has landed a U.S. home. The spy thriller will stream on MGM+ after the streamer picked up rights for North America, Latin America and Italy. The five-part series, which is based on a book by Tom Bradby, a news anchor who hosts the British broadcaster’s News At Ten, stars Arterton [ ]
 
-### Marlo Miazga Launches M Media With CBC Order For Deeply Personal Doc Ground Control
-Wed, 26 Aug 2026 07:00:00 +0000 — https://deadline.com/2026/08/marlo-miazga-m-media-ground-control-cbc-1237050034/
+### Hulu To Explore Murder Of Dan Markel In Docuseries
+Wed, 26 Aug 2026 12:45:00 +0000 — https://deadline.com/2026/08/hulu-murder-of-dan-markel-docuseries-1237049909/
 
-EXCLUSIVE: Canadian producer and showrunner Marlo Miazga is launching a production company with a deeply personal documentary for CBC about her death of her teenage child. M Media will operate out of Toronto, as a IP-focused media business making scripted and unscripted content, with former Sphere Media boss Miazga at the helm. Miazga s debut commission, [ ]
+EXCLUSIVE: Hulu is continuing to ramp up its true-crime docuseries lineup. The streamer is exploring the murder of Florida attorney and law professor Dan Markel in a four-part series. Welcome To The Family: The Murder of Dan Markel reveals the “dark secrets of a wealthy family centered around the brutal murder”. Markel was killed in Tallahassee, Florida [ ]
 
