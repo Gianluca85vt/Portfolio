@@ -1,29 +1,43 @@
-# Embargo watch — updated 2026-08-26
+# Review radar — updated 2026-08-26
 
-## Lifting in the next 14 days
+Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
+sorted by date and filtered to titles priced at €25 or more. That price line is
+the whole trick: of nearly nine hundred games dated inside the window, eleven
+cleared it, and every one was a real release from a real publisher. Nobody
+charges fifty euro for something nobody worked on.
 
-| Title | Type | Embargo lifts | Release | Confirmed by |
-|---|---|---|---|---|
-| The Blood of Dawnwalker | Game | Mon 31 Aug 2026, 5pm CEST / 11am ET / 8am PT | 3 Sept 2026 | Still primarily sourced to dawnwalker.wiki, but the date has now held for over two weeks with editorial calendars on Method.gg and timesaver.gg both citing it, and no major outlet (PC Gamer, IGN, Eurogamer, Push Square) contradicting it. No direct outlet confirmation found yet. Release is five days out, so this resolves either way very soon — likely still the review to cover next run. |
-| Marvel's Wolverine | Game | Thu 10 Sept 2026, 8am PT / 11am ET | 15 Sept 2026 | Now confirmed, upgraded from "unannounced" last check. Insider Gaming, IconEra and playfront.de all report the same date, and a reviewer (Destin Legarie) posted directly that PlayStation gave Sept 10, 8am PT as the embargo. Five days ahead of release. |
-| Ghost of Yotei (PC / expanded release) | Game | Thu 25 Sept 2026, 9am ET / 6am PT | 2 Oct 2026 | Firmly confirmed by ResetEra, NeoGAF, IconEra, Insider Gaming and MP1st threads, all dated the prior week — embargo lifts more than a week ahead of release, read as a confidence signal. About 4 weeks out. |
+Free-to-play launches are missed by design — filtering on price is what keeps
+four hundred demos out.
 
-## Lifted in the last 3 days
+Release dates are facts. Embargo times are not published anywhere a script can
+read, so "reviews from" is the day before release, which is where they land in
+almost every case. When a publisher holds reviews to the release day itself,
+that silence is itself worth writing about.
 
-| Title | Type | Lifted | How reviews are landing |
-|---|---|---|---|
-| Mortal Shell II | Game | Full release scores landed 17 Aug 2026 | Averaged 8.5 from 15 verdicts — already covered in our own [review round-up](/blog/mortal-shell-2-reviews/). Nothing further to watch here. |
-| The Sinking City 2 | Game | Reviews live 18 Aug 2026 | Averaged 8 from 7 verdicts — already covered in our own [review round-up](/blog/sinking-city-2-reviews/). Nothing further to watch here. |
-| Starsand Island | Game | Push Square review live 18 Aug 2026 | Checked again today — still only that one outlet confirmed, over a week later. Reads as a small release that isn't getting wide coverage rather than one still pending. Dropping from active watch. |
+Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
-## Unconfirmed, worth watching
+## Reviews expected within three days
 
-| Title | Type | Claimed date | Where the claim came from |
-|---|---|---|---|
-| Grand Theft Auto VI | Game | No official review-embargo date. Release confirmed for 19 Nov 2026 (Rockstar's own newswire). Third-party estimates (based on the GTA 5 precedent of a ~2-week pre-launch embargo) guess late Oct/early Nov, but that is a guess, not a Rockstar statement. | Rockstar's newswire confirms the release date directly; the review-embargo date itself remains unannounced. Separately, The Verge notes Rockstar has "a reveal event of its own" scheduled for Thursday 27 Aug 2026 — that's a marketing reveal, not an embargo signal, worth watching only for whether it changes the release-date picture. |
-| Call of Duty: Modern Warfare 4 | Game | No review-embargo date found. Beta running now, with vocal player backlash over movement speed; full release confirmed for 23 Oct 2026. | Activision's own blog and beta coverage confirm beta and release timing; nothing on a review-embargo date yet. Keeping on the list to track as release approaches. |
+| Title | Publisher | Release | Away | Reviews from | Price |
+|---|---|---|---|---|---|
+| CAPTAIN TSUBASA 2: WORLD FIGHTERS | Bandai Namco Entertainment Inc. | 2026-08-27 | 1d | 2026-08-26 | €59.99 |
+| METAL GEAR SOLID: MASTER COLLECTION Vol.2 | KONAMI | 2026-08-27 | 1d | 2026-08-26 | €49.99 |
+| STAR WARS Zero Company | Electronic Arts | 2026-08-27 | 1d | 2026-08-26 | €49.99 |
+| Resonance: A Plague Tale Legacy | Focus Entertainment | 2026-08-27 | 1d | 2026-08-26 | €49.99 |
 
-Nothing new found for film or TV review embargoes this update. Checked again for
-major autumn 2026 releases — release-date and casting coverage exists but no
-embargo date has been reported for any of the titles tracked so far. Will
-keep checking as those approach.
+## Further out, within 14 days
+
+| Title | Publisher | Release | Away | Reviews from | Price |
+|---|---|---|---|---|---|
+| The Blood of Dawnwalker | Bandai Namco Entertainment | 2026-09-02 | 7d | 2026-09-01 | €69.99 |
+| Onimusha: Way of the Sword | CAPCOM Co., Ltd. | 2026-09-03 | 8d | 2026-09-02 | €69.99 |
+| NBA 2K27 | 2K | 2026-09-03 | 8d | 2026-09-02 | €69.99 |
+| Halloween: The Game | IllFonic Publishing, Co-Publisher: Gun I | 2026-09-08 | 13d | 2026-09-07 | €39.99 |
+| Bus Simulator 27 | astragon Entertainment | 2026-09-08 | 13d | 2026-09-07 | €29.99 |
+
+---
+
+*1250 upcoming titles scanned, 889 with a firm date inside
+14 days, 9 above the price line. Titles showing
+"Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
+reviews arrive.*

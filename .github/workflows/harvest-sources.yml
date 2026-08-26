@@ -34,6 +34,13 @@ jobs:
       - name: Fetch the feeds
         run: node scripts/harvest-sources.mjs
 
+      # Release dates, not hearsay. The old radar asked a model to search for
+      # the word "embargo" and missed a fifty-euro sequel whose reviews landed
+      # the same evening; this reads the calendar instead. Allowed to fail
+      # without failing the job, because stale feeds beat no feeds.
+      - name: Rebuild the review radar
+        run: node scripts/harvest-embargoes.mjs || echo "::warning::review radar failed, keeping the previous one"
+
       - name: Commit the harvest
         run: |
           set -euo pipefail
