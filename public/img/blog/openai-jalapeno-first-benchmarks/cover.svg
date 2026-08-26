@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Jalapeno's first benchmarks claim up to 3.6x lower latency, measured by OpenAI">
+  <defs>
+    <linearGradient id="bgJal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="58%" stop-color="#3A0A45"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+    <linearGradient id="accJal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7621B0"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgJal)"/>
+
+  <!-- rack slots: two generations of racks, faintly, behind everything -->
+  <g fill="#FFFFFF" fill-opacity="0.06">
+    <g id="slot">
+      <rect x="70" y="70" width="150" height="26" rx="4"/>
+      <rect x="240" y="70" width="150" height="26" rx="4"/>
+      <rect x="410" y="70" width="150" height="26" rx="4"/>
+      <rect x="640" y="70" width="150" height="26" rx="4"/>
+      <rect x="810" y="70" width="150" height="26" rx="4"/>
+      <rect x="980" y="70" width="150" height="26" rx="4"/>
+    </g>
+    <use href="#slot" y="46"/><use href="#slot" y="92"/><use href="#slot" y="138"/>
+    <use href="#slot" y="184"/><use href="#slot" y="230"/><use href="#slot" y="276"/>
+    <use href="#slot" y="322"/><use href="#slot" y="368"/><use href="#slot" y="414"/>
+    <use href="#slot" y="460"/><use href="#slot" y="506"/><use href="#slot" y="552"/>
+  </g>
+
+  <!-- the die -->
+  <g stroke="#FFFFFF" stroke-opacity="0.16" fill="none" stroke-width="3">
+    <rect x="452" y="192" width="296" height="296" rx="10"/>
+    <rect x="492" y="232" width="216" height="216" rx="6"/>
+  </g>
+
+  <g text-anchor="middle">
+    <text x="600" y="152" font-size="32" letter-spacing="11" fill="#FFFFFF" fill-opacity="0.5"
+          font-family="Arial, Helvetica, sans-serif" font-weight="bold">JALAPEÑO · FIRST SILICON</text>
+
+    <text x="600" y="420" font-size="215" font-weight="900" fill="#FFFFFF"
+          font-family="Arial Black, Arial, Helvetica, sans-serif">3.6×</text>
+
+    <text x="600" y="486" font-size="33" letter-spacing="4" fill="#FFFFFF" fill-opacity="0.55"
+          font-family="Arial, Helvetica, sans-serif" font-weight="bold">LOWER LATENCY, AT THE TOP OF THE RANGE</text>
+
+    <text x="600" y="536" font-size="28" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.38"
+          font-family="Arial, Helvetica, sans-serif" font-weight="bold">vs GB200 / GB300 · MEASURED BY OPENAI</text>
+  </g>
+
+  <rect x="510" y="576" width="180" height="8" rx="4" fill="url(#accJal)"/>
+</svg>
