@@ -239,7 +239,44 @@ export const prerender = false;
       async function boot() {
         const { body } = await api('/api/cms/auth');
         if (!body.configured) return gateDead('Accounts are not configured on this deployment.');
+
+        // An invitation link wins over everything else: it is how a new account
+        // chooses its own password, and how the first admin gets in without
+        // anyone having to know a shared secret.
+        const invite = new URLSearchParams(location.search).get('invite');
+        if (invite) return gateInvite(invite);
+
         return body.needsBootstrap ? gateSetup() : gateLogin();
+      }
+
+      function gateInvite(token) {
+        $('gate-title').textContent = 'Choose your password';
+        $('gate-sub').textContent =
+          'This link works once. Nobody else knows the password you pick here — not even whoever invited you.';
+        $('gate-fields').innerHTML =
+          field('f-pass', 'Password — at least 12 characters', 'password', 'autocomplete="new-password"') +
+          field('f-pass2', 'Again', 'password', 'autocomplete="new-password"');
+        $('gate-go').textContent = 'Set password and sign in';
+        $('gate-go').disabled = false;
+
+        const go = async () => {
+          if ($('f-pass').value !== $('f-pass2').value)
+            return say('gate-msg', 'Those two do not match.', 'bad');
+
+          $('gate-go').disabled = true;
+          const { ok, body } = await api('/api/cms/auth', {
+            method: 'POST',
+            body: JSON.stringify({ action: 'invite', token, password: $('f-pass').value }),
+          });
+          $('gate-go').disabled = false;
+          if (!ok) return say('gate-msg', body.error ?? 'That did not work.', 'bad');
+
+          // Drop the token from the address bar so it is not left in history.
+          history.replaceState(null, '', '/cms');
+          enter();
+        };
+        $('gate-go').onclick = go;
+        $('gate-fields').onkeydown = (e) => { if (e.key === 'Enter') go(); };
       }
 
       function gateDead(text) {
