@@ -1,0 +1,138 @@
+name: Published articles — post to Facebook and Instagram
+
+# Fires on the same push that publishes an article, not on the schedule that
+# writes them. The daily routine only ever produces `draft: true`; an article
+# becomes public when Gianluca approves it from the review email, and that
+# approval is what should reach the networks.
+#
+# Kept apart from notify-drafts.yml on purpose. That workflow sends the review
+# email and pings IndexNow, and neither should be at the mercy of Meta having
+# a bad afternoon.
+
+on:
+  # Meta's API is the least reliable dependency here. A run that fails halfway
+  # needs to be repeatable by hand, and the ledger makes that safe: anything
+  # already posted is skipped.
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: 'Post one article by slug (leave empty to use the last push)'
+        required: false
+
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/blog/**.md'
+
+permissions:
+  contents: write
+
+# Two pushes in quick succession must not race each other into a double post.
+concurrency:
+  group: social-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Work out what just went live
+        id: pick
+        # The dispatch input arrives as an environment variable rather than
+        # being interpolated into the script, so a slug can never be read as
+        # shell.
+        env:
+          MANUAL_SLUG: ${{ inputs.slug }}
+        run: |
+          set -euo pipefail
+
+          if [ -n "${MANUAL_SLUG:-}" ]; then
+            echo "slugs=${MANUAL_SLUG}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if ! git rev-parse HEAD^ >/dev/null 2>&1; then
+            echo "slugs=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          changed=$(git diff --name-only --diff-filter=AM HEAD^ HEAD -- 'src/content/blog/*.md' || true)
+
+          live=""
+          for file in $changed; do
+            # Publishing is the removal of this line, so its absence is the
+            # signal. A draft in the same push is simply passed over.
+            if ! grep -q '^draft: true' "$file"; then
+              live="$live $(basename "$file" .md)"
+            fi
+          done
+
+          echo "slugs=$(echo $live | xargs)" >> "$GITHUB_OUTPUT"
+          echo "found:$live"
+
+      - name: Install sharp
+        if: steps.pick.outputs.slugs != ''
+        run: npm install sharp --no-save
+
+      - name: Draw the portrait cards
+        if: steps.pick.outputs.slugs != ''
+        run: |
+          set -euo pipefail
+          for slug in ${{ steps.pick.outputs.slugs }}; do
+            node scripts/social-card.mjs "$slug"
+          done
+
+      - name: Commit the cards
+        if: steps.pick.outputs.slugs != ''
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add public/img/blog
+          if git diff --cached --quiet; then
+            echo "no new cards"
+          else
+            git commit -m "Draw the social cards for what just went live"
+            git push
+          fi
+
+      # Instagram fetches the image from a URL rather than accepting an upload,
+      # so the card has to be readable on the public internet before the post
+      # is created. Pushing first is what makes the raw.githubusercontent URL
+      # resolve; this pause is for GitHub's own CDN to catch up with the push.
+      - name: Let the raw URLs settle
+        if: steps.pick.outputs.slugs != ''
+        run: sleep 20
+
+      - name: Post
+        if: steps.pick.outputs.slugs != ''
+        env:
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+        run: node scripts/social-post.mjs ${{ steps.pick.outputs.slugs }}
+
+      - name: Record what was posted
+        if: steps.pick.outputs.slugs != ''
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add notes/social-posted.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nothing posted, ledger unchanged"
+          else
+            git commit -m "Record the articles posted to Facebook and Instagram"
+            git pull --rebase --autostash
+            git push
+          fi
