@@ -1,5 +1,5 @@
 ---
-title: Percy Jackson's sirens are crusted in barnacles, and sticking the barnacles on was the hard part
+title: "Percy Jackson sirens: why the barnacles were hard"
 date: 2026-08-19
 category: Film & TV
 excerpt: Storm Studios just walked FMX through how they built the Sirens for Percy Jackson and the Olympians season 2. The monster design is the easy part to talk about. The actual problem was keeping barnacles glued to a performing creature.

@@ -1,5 +1,5 @@
 ---
-title: Blender 5.2 LTS is out. Here is what actually changed.
+title: "Blender 5.2 LTS: what changed, and what did not"
 date: 2026-08-07
 category: 3D
 cover: /img/3d/render-01.png

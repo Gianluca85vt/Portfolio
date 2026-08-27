@@ -1,5 +1,5 @@
 ---
-title: Mortal Shell II is the rare sequel that got the reviews the first one deserved
+title: "Mortal Shell II reviews: 8.5 across 15 outlets"
 date: 2026-08-17
 category: Games
 cover: /img/blog/mortal-shell-2-reviews/shot-03.jpg

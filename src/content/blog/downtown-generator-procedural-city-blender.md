@@ -1,5 +1,5 @@
 ---
-title: A Blender add-on now generates a whole downtown from a few sliders. It kept the part that actually matters.
+title: Downtown Generator builds a city from sliders
 date: 2026-08-15
 category: 3D
 excerpt: Downtown Generator, a new Geometry Nodes add-on for Blender 5.x, builds full procedural American downtowns from your own asset library. The interesting decision is what it refused to automate.

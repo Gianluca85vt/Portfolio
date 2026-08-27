@@ -1,5 +1,5 @@
 ---
-title: HBO's Lanterns built a real ring costume instead of a CG one, and critics can't agree what that cost
+title: Lanterns built a real ring suit instead of CG
 date: 2026-08-17
 category: Film & TV
 cover: /img/blog/lanterns-hbo/cover.svg

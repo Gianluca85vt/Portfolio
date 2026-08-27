@@ -1,5 +1,5 @@
 ---
-title: There's now a tool to push your GPU's memory past factory limits. On a render box, I'd leave it alone.
+title: Hydra can overclock RTX 50 VRAM. Not on a render box.
 date: 2026-08-18
 category: Tech
 excerpt: Overclocker 1usmus updated Hydra with direct VRAM and power-limit control for RTX 50-series cards, territory Nvidia normally locks down. For anyone whose GPU renders paying work instead of frames per second, that convenience is also the risk.

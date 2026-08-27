@@ -1,5 +1,5 @@
 ---
-title: Mafia's new PS5 patch doubles the frame rate. The engine story behind it is the better one.
+title: "Mafia on PS5 hits 60fps: the engine story"
 date: 2026-08-15
 category: Games
 excerpt: The Omertà Collection gave Mafia Definitive Edition a free native 60fps rebuild on PS5 — but left Mafia II and III untouched. That split traces back to two very different engines sitting inside one franchise.

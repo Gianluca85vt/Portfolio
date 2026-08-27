@@ -1,5 +1,5 @@
 ---
-title: Marvel Tokon got the best reviews of the year and the worst launch. Both are true.
+title: "Marvel Tokon reviews: great scores, bad launch"
 date: 2026-08-13
 category: Games
 cover: /img/blog/marvel-tokon/screen-04.jpg
