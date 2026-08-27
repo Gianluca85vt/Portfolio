@@ -1,66 +1,66 @@
-# Manga — harvested 2026-08-26T18:24:11.576Z
+# Manga — harvested 2026-08-27T15:30:30.805Z
 
 ## Anime News Network
 
-### Microsoft to Allow Customers to Claim Digital Entitlements Through Physical Xbox One, Xbox Series X|S Discs
-Wed, 26 Aug 2026 13:10:10 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/microsoft-to-allow-customers-to-claim-digital-entitlements-through-physical-xbox-one-xbox-series-x-/.241013
+### Maebashi Witches Compilation Film Streams Main Trailer
+Thu, 27 Aug 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/maebashi-witches-compilation-film-streams-main-trailer/.241037
 
-Xbox Insiders can begin using feature on August 31
+Film opens in Japan on October 23
 
-### Actor Tim Curry Dies at 80
-Wed, 26 Aug 2026 12:33:30 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/actor-tim-curry-dies-at-80/.241014
+### Manga UP! Global Adds The Viscount's Porky Portrait: I Married the Knight My Sister Rejected Manga
+Thu, 27 Aug 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/manga-up-global-adds-the-viscount-porky-portrait-i-married-the-knight-my-sister-rejected-manga/.241048
 
-Curry played Dr. Frank-n-Furter in <cite>The Rocky Horror Picture Show</cite>, Cat King in <cite>The Cat Returns</cite>
+Manga available on service from Friday
 
-### Persona 4 Revival Preview: More of What You Love
-Wed, 26 Aug 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/feature/2026-08-26/persona-4-revival-preview-more-of-what-you-love/.240988
+### The Ramparts of Ice Season 2 Anime Unveils Promo Video, Visual, October 1 Premiere on Netflix
+Thu, 27 Aug 2026 10:56:25 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/the-ramparts-of-ice-season-2-anime-unveils-promo-video-visual-october-1-premiere-on-netflix/.241050
 
-Did <i>Persona 4</i> need a remake? George gets into it.
+Netflix to stream 2nd season
 
-### New Ghost in the Shell Anime Casts Chikahiro Kobayashi
-Wed, 26 Aug 2026 12:05:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/new-ghost-in-the-shell-anime-casts-chikahiro-kobayashi/.241011
+### Saga of Tanya the Evil II ‒ Episode 8
+Thu, 27 Aug 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/saga-of-tanya-the-evil-ii/episode-8/.241026
 
-Kobayashi plays Lee in anime's eighth episode
+While I’ve kept these reviews mostly about the story, characters, and themes of <cite>The Saga of Tanya the Evil</cite>, I have to admit, I’m more than a bit of a World War II buff.
 
-### Fairy Princess Minky Momo 2nd Episodes 1-13 Anime Review
-Wed, 26 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/fairy-princess-minky-momo-2nd/episodes-1-13/.240852
+### Webtoon-Based Live-Action Movie Reawaken Man: The Red Set to Open in South Korea on September 30
+Thu, 27 Aug 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/webtoon-based-live-action-movie-reawaken-man-the-red-set-to-open-in-south-korea-on-september-30/.240995
 
-This is classic 1990s children’s programming – sometimes preachy, sometimes zany, and always completely insane.
+Film follows ordinary job seeker who suddenly gains ability to resurrect after dying
 
-### Capcom Continues to Make The Old Feel New Again
-Wed, 26 Aug 2026 11:29:01 -0400 — https://www.animenewsnetwork.com/feature/2026-08-26/capcom-continues-to-make-the-old-feel-new-again/.240997
+### This Week in Anime - Makerspace
+Thu, 27 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-08-27/.241038
 
-Capcom's recent trend of reviving and revitalizing older franchises is on a roll.
+Who says you can't learn anything from anime?
 
-### Nia Liston: The Merciless Maiden Anime Adds 3 New Cast Members
-Wed, 26 Aug 2026 10:00:46 -0400 — https://www.animenewsnetwork.com/news/2026-08-26/nia-liston-the-merciless-maiden-anime-adds-3-new-cast-members/.241006
+### Red River ‒ Episode 8
+Thu, 27 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-8/.241009
 
-Taku Yashiro, Yōko Hikasa, Satoshi Hino join cast of October 6 anime
+Nakia, frustrated that her plans are going awry, is growing increasingly reckless and unsubtle.
 
-### Crunchyroll Offers a Sneak Peek of Upcoming Series
-Wed, 26 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/crunchyroll-offers-a-sneak-peek-of-upcoming-series/.240919
+### Webtoon-Based Live-Action Series White Scandal Confirms Main Cast
+Thu, 27 Aug 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/webtoon-based-live-action-series-white-scandal-confirms-main-cast/.240998
 
-Crunchyroll debuted three new series and then inexplicably rehashed an old one.
+Kang Song, So-hyun Kim star in series following 3rd-generation conglomerate heir who wants to avoid becoming successor to his family
 
-### Ghost in the Shell ‒ Episode 8
-Wed, 26 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/ghost-in-the-shell/episode-8/.240992
+### Beyond the Season Finale: 5 Manga You Need to Continue Right Now
+Thu, 27 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-08-27/beyond-the-season-finale-5-manga-you-need-to-continue-right-now/.240553
 
-She’s distracted and distant, perhaps unsurprising following her encounter with a new digital deity.
+Did the anime leave you hanging? Here are five series you should continue in manga form!
 
-### INTERVIEW: Yoshino Aoyama Takes On a New Type of Role in Blue Box Anime Season 2
-Wed, 26 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/interview-yoshino-aoyama-takes-on-a-new-type-of-role-in-blue-box-anime-season-2/.239611
+### Director of Live-Action Look Back Dives into Ultraman's Origin in New Doc
+Thu, 27 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-08-27/director-of-live-action-look-back-dives-into-ultraman-origin-in-new-doc/.240879
 
-Known for playing soft-spoken introverts and chaotic gremlins, voice actor Yoshino Aoyama expands her range again as the openly hostile character Yumeka Kido in Blue Box Season 2.
+Ultraman has meant "justice" to generations. This new documentary explores how that came to be.
 
-### Portrait of a RE:BEL - A Talk with Mika Pikazo
-Wed, 26 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/portrait-of-a-re-bel-a-talk-with-mika-pikazo/.240066
+### Exclusive: Dark Horse Unveils Cyberpunk Edgerunners Figures
+Thu, 27 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-27/exclusive-dark-horse-unveils-cyberpunk-edgerunners-figures/.241012
 
-Mika Pikazo discusses her illustration process, her inspirations, and her visions for the future.
+Figures based on David, Lucy, Rebecca, Adam Smasher ship between March-May 2027
 
-### Iron Wok Jan! ‒ Episode 8
-Wed, 26 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-8/.240989
+### Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 14
+Thu, 27 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-14/.241024
 
-Akiyama Jan does not simply settle for making a good dish that will win, but specifically aims to make sure that Omae Kota loses.
+Anyone else get the feeling that many of the roadblocks Subaru faces feel purposely artificial?
 
 ## Crunchyroll News
 

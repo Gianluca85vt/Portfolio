@@ -1,6 +1,41 @@
-# Games — harvested 2026-08-26T18:24:11.576Z
+# Games — harvested 2026-08-27T15:30:30.805Z
 
 ## Eurogamer
+
+### GTA 6 Netflix extended look live report - all the gameplay and revelations from Rockstar's Grand Theft Auto 6 premiere
+Thu, 27 Aug 2026 14:03:38 +0000 — https://www.eurogamer.net/gta-6-extended-look-netflix-live-report
+
+Tonight we'll get probably our best look at Grand Theft Auto 6 yet, as Rockstar's 'extended look' trailer airs exclusively on Netflix. We'll be watching it live and reporting on everything we see, here, in this article. Read more
+
+### "All of the industry needs to start to innovate on affordability and efficiency" - Xbox's Asha Sharma wants change and "more choice" for people buying consoles
+Thu, 27 Aug 2026 11:16:24 +0000 — https://www.eurogamer.net/xbox-console-affordability-price-asha-sharma
+
+As component prices balloon, the expectation Microsoft will take a different tack with the next generation of consoles has been reinforced by Xbox boss Asha Sharma, who has declared that "all of the industry needs to start to innovate on affordability and efficiency". Read more
+
+### Xbox announces disc-to-digital feature that lets you digitise physical Xbox One and Series X games
+Thu, 27 Aug 2026 10:03:57 +0000 — https://www.eurogamer.net/xbox-disc-to-digital-one-series-x-details
+
+UPDATE 11.25AM BST : Xbox CEO Asha Sharma shed a little more light on the feature in a BBC interview. The gaming chief said 1,000 titles will be initially supported across Xbox One and Series X. The interview also clarified the point about transfer of the digital license, confirming it does indeed move with the disc, allowing the next owner to take advantage of the same disc-to-digital feature. Read more
+
+### GTA 6 gameplay details revealed in new preview, including seamless character switching, playing as a couple and more
+Thu, 27 Aug 2026 09:51:21 +0000 — https://www.eurogamer.net/gta-6-character-switching-reactive-world-jason-lucia-romance
+
+Grand Theft Auto 6 day has kicked off a little early. While everyone waits for the game's Netflix extended look , new information has emerged from something of an unlikely source. Read more
+
+### GTA 6 officially has character weight and exercise systems, and even "multi-day benders" reportedly have a visible effect
+Thu, 27 Aug 2026 09:40:01 +0000 — https://www.eurogamer.net/gta-6-food-weight-exercise-benders
+
+Official Grand Theft Auto 6 coverage is starting to appear ahead of today's Netflix 'extended look' premiere , and with it comes confirmation that eating and exercising and even going on "multi-day benders" can visibly affect the look of your characters. Read more
+
+### Rockstar set up a special GTA 6 team in Miami to meet with "ex-criminals, law enforcement, club promoters, gun dealers and anyone notorious or influential"
+Thu, 27 Aug 2026 09:37:16 +0000 — https://www.eurogamer.net/gta-6-rockstar-miami-research-team-ex-criminals-gun-dealers
+
+Rockstar went to some great lengths for its Grand Theft Auto 6 research, it seems, as the studio has said it sent multiple teams of developers to Miami as well as embedding a team there longer-term for research. Read more
+
+### Dark Souls meets Weird West in Guns of Eschaton, and it's a refreshing FPS shake-up for the well-worn formula - even if it's a bit bloody hard
+Wed, 26 Aug 2026 18:30:00 +0000 — https://www.eurogamer.net/guns-of-eschaton-preview
+
+Look, I'll level with you: I was rubbish at Guns of Eschaton during my recent hands-on time. There are some very obvious reasons for that - it's a hard game that doesn't currently especially explain itself very well, for one. But it's a distinct enough riff on the familiar Soulslike formula, classic campfire respawns here mingling with Weird West-inspired first-person shooting, that it just takes a bit of getting used to. Read more
 
 ### Resonance: A Plague Tale Legacy review
 Wed, 26 Aug 2026 16:00:00 +0000 — https://www.eurogamer.net/resonance-a-plague-tale-legacy-review
@@ -27,42 +62,47 @@ Wed, 26 Aug 2026 12:40:06 +0000 — https://www.eurogamer.net/anime-rpg-ananta-r
 
 Ananta , the free-to-play open-world game that looks a whole lot like Grand Theft Auto's urban sandbox got an anime makeover, finally has a release date. Read more
 
-### Rockstar issues statement on GTA 6 gameplay leaks, calling them "heartbreaking" and warning they may include some spoilers
-Wed, 26 Aug 2026 11:54:55 +0000 — https://www.eurogamer.net/gta-6-leaks-rockstar-statement-spoilers
-
-Rockstar has officially addressed the Grand Theft Auto 6 leaks, which have been pouring in online for over a week. The developer said the gameplay leaks have been "heartbreaking" for the team, and warned players that "the intended game experience may now be impacted by some spoilers". Read more
-
-### Crimson Desert Enhanced is a free upgrade that's out now and revamps the story, adds new skills and comes with all previously-released updates
-Wed, 26 Aug 2026 11:19:44 +0000 — https://www.eurogamer.net/crimson-desert-enhanced-patch-2-00-details
-
-Crimson Desert Enhanced was among the more surprising reveals of Gamescom Opening Night Live . Not because it was a trailer for a game that's already available, but that it was justified when the trailer ran through the new additions in Enhanced. Read more
-
-### Having played it, Tides of Annihilation looks to be a flashy, combo-heavy game of Simon Says
-Wed, 26 Aug 2026 11:11:26 +0000 — https://www.eurogamer.net/tides-of-annihilation-hands-on-preview-gamescom
-
-Tides of Annihilation is a very stylish, combo-heavy, Simon Says game. It's a mishmash of mythologies and action game tropes, and while I feel as though its teeters on the edge of messiness, it proved quite the thrill on the Gamescom show floor. Read more
-
-### Path of Exile 2 finally has its 1.0 release date and it's coming this year
-Wed, 26 Aug 2026 11:03:14 +0000 — https://www.eurogamer.net/path-of-exile-2-version-1-0-free-to-play-date
-
-Grinding Gear Games made a surprise Path of Exile 2 announcement at Gamescom Opening Night Live yesterday. The developer confirmed when the game's long-awaited 1.0 release will be. Read more
-
-### It sure seems like The Witcher 3: Songs of the Past is introducing at least one new romanceable character for Geralt to woo
-Wed, 26 Aug 2026 10:38:38 +0000 — https://www.eurogamer.net/witcher-3-songs-of-the-past-romance-geralt
-
-Who was your first choice for romance in The Witcher 3 ? Sure, everyone knows about Triss and Yen, but there's also Keira, Sasha, Jutta an Dimun, Shani, Sylvia&hellip; the list goes on. And it sure looks like, in the upcoming expansion Songs of the Past, Geralt is going to be able to add at least one more name to that list. Read more
-
-### The story for Witcher 3: Songs of the Past was actually written "years ago", according to Fool's Theory CEO
-Wed, 26 Aug 2026 10:27:37 +0000 — https://www.eurogamer.net/witcher-3-songs-of-the-past-story-written-years-ago-interview
-
-Last night, CD Projekt Red showed off the first footage we've seen for The Witcher 3 expansion, Songs of the Past - new content for the game launching some 11 years after the base game was released. The expansion takes us to a new location, Letten, a bucolic country very far from the conflicts and politics that dominate the rest of the continent Geralt calls home. But all is not as it seems in Letten - shortly after Geralt's arrival, his friend Dandelion goes missing, and what starts as a simple search for a missing bard quickly becomes a job worthy of a Witcher. Read more
-
-### The legendary Heroes of Might and Magic 3 is being remade by Ubisoft, and while it's visually redone, it's reportedly like-for-like in terms of gameplay
-Wed, 26 Aug 2026 09:47:11 +0000 — https://www.eurogamer.net/heroes-of-might-and-magic-3-remade-ubisoft
-
-Heroes of Might and Magic 3, the iconic and arguably never-bettered strategic fantasy role-playing game, is being remade by Ubisoft for release on PC, PlayStation 5 and Xbox Series S/X at some point next year. Related: the Complete Edition of Heroes of Might and Magic 3 is now available on Steam for the first time. Read more
-
 ## GamesIndustry.biz
+
+### European games industry revenue reached €30bn in 2025
+Thu, 27 Aug 2026 13:39:30 +0000 — https://www.gamesindustry.biz/european-games-industry-revenue-reached-30bn-in-2025
+
+The European games industry generated &euro;30 billion in 2025, with digital purchases accounting for 91% of total revenue, according to Video Games Europe (VGE). Read more
+
+### Newzoo: 2026 console revenue would be flat year-on-year without Grand Theft Auto 6
+Thu, 27 Aug 2026 12:22:00 +0000 — https://www.gamesindustry.biz/newzoo-2026-console-revenue-would-be-flat-year-on-year-without-grand-theft-auto-6
+
+Without the launch of Grand Theft Auto 6 this year, console revenue would be flat compared to 2025. Read more
+
+### "The things that we based our assumptions on have changed fundamentally": Arrowhead CEO Shams Jorjani on the games industry's rapid transformation
+Thu, 27 Aug 2026 11:10:08 +0000 — https://www.gamesindustry.biz/the-things-that-we-based-our-assumptions-on-have-changed-fundamentally-arrowhead-ceo-shams-jorjani-on-the-games-industrys-rapid-transformation
+
+The CEO of Helldivers 2 maker Arrowhead Game Studios, Shams Jorjani, has said that the games industry is in a "transitional phase at the moment". Read more
+
+### Roblox to establish Saudi Arabia headquarters to support MENA creators
+Thu, 27 Aug 2026 10:44:11 +0000 — https://www.gamesindustry.biz/roblox-to-establish-saudi-arabia-headquarters-to-support-mena-creators
+
+Roblox has announced plans to open a headquarters in Riyadh to support its creator program in the Middle East and North Africa (MENA). Read more
+
+### "We view AI as a sliding scale. There will always be a human in the loop; that's our ethos": Why Side has signed an MOU with Modl.ai to use AI for QA
+Thu, 27 Aug 2026 10:34:25 +0000 — https://www.gamesindustry.biz/we-view-ai-as-a-sliding-scale-there-will-always-be-a-human-in-the-loop-thats-our-ethos-why-side-has-signed-an-mou-with-modlai-to-use-ai-for-qa
+
+Services provider Side has signed a memorandum of understanding with Danish AI firm Modl.ai. Read more
+
+### European Games Developer Federation announces 2026-28 board, Hendrik Lesser re-elected as president
+Thu, 27 Aug 2026 09:05:35 +0000 — https://www.gamesindustry.biz/european-games-developer-federation-announces-2026-28-board-hendrik-lesser-re-elected-as-president
+
+Hendrik Lesser has been re-elected president of the European Games Developer Federation (EGDF) as the organisation announces its 2026-2028 board. Read more
+
+### Xbox to focus on "efficiency and affordability alongside performance" for next-gen console amid rising hardware costs and innovations in AI
+Thu, 27 Aug 2026 07:49:47 +0000 — https://www.gamesindustry.biz/xbox-to-focus-on-efficiency-and-affordability-alongside-performance-for-next-gen-console-amid-rising-hardware-costs-and-innovations-in-ai
+
+Xbox is prioritising "efficiency and affordability alongside performance" for its next-generation console in the face of rising hardware costs and innovations in AI. Read more
+
+### 1047 Games ends active development on Empulse and Splitgate: Arena Reloaded, says it's moving away from live service shooters
+Wed, 26 Aug 2026 19:10:37 +0000 — https://www.gamesindustry.biz/1047-games-ends-active-development-on-empulse-and-splitgate-arena-reloaded-says-its-moving-away-from-live-service-shooters
+
+1047 Games is ending active development on Empulse and Splitgate: Arena Reloaded, moving both titles to peer-to-peer hosting as the studio signals a broader shift away from live service shooters after ten years. Read more
 
 ### IGDA Incubation SIG to unveil first global census of game incubators and accelerators at Gamescom
 Wed, 26 Aug 2026 18:11:00 +0000 — https://www.gamesindustry.biz/igda-incubation-sig-to-unveil-first-global-census-of-game-incubators-and-accelerators-at-gamescom
@@ -84,118 +124,108 @@ Wed, 26 Aug 2026 12:57:20 +0000 — https://www.gamesindustry.biz/rockstar-respo
 
 Rockstar Games has issued a statement regarding the recent leaks of Grand Theft Auto 6. Read more
 
-### Testronic expands senior leadership, Mike Guttman appointed vice president of senior partnerships
-Wed, 26 Aug 2026 09:39:21 +0000 — https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships
-
-Testronic has made several senior appointments across its global locations, including Mike Guttman as vice president of senior partnerships. Read more
-
-### Roblox applies restrictions to games featuring "reward-driven media feeds" available in Roblox Kids and Select
-Wed, 26 Aug 2026 08:10:26 +0000 — https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select
-
-Roblox has introduced a policy to prevent children from accessing "reward-driven media feeds" in games available in Roblox Kids and Select. Read more
-
-### Executives from EA and Tencent to speak alongside Netflix, Sony, and Disney at FT Business of Entertainment summit
-Wed, 26 Aug 2026 05:56:36 +0000 — https://www.gamesindustry.biz/executives-from-ea-and-tencent-to-speak-alongside-netflix-sony-and-disney-at-ft-business-of-entertainment-summit
-
-The Financial Times has unveiled the C-suite line-up for its upcoming Business of Entertainment Summit in LA in September, with games industry speakers from EA and Tencent Games joining a roster which includes executives from linear media firms including Netflix, Sony Pictures, NBCUniversal and UFC/WWE parent TKO Group. GamesIndustry.biz is a promotional partner for the event alongside our parent company IGNE Entertainment. Read more
-
-### The highlights of Gamescom Opening Night Live 2026
-Tue, 25 Aug 2026 23:23:11 +0000 — https://www.gamesindustry.biz/the-highlights-of-gamescom-opening-night-live-2026
-
-GamesIndustry.biz was at Gamescom Opening Night Live on Tuesday night, the eighth instalment of the digital showcase. The hall was packed, without an empty seat in sight, and there were plenty of gaming celebrities in attendance: Xbox head Asha Sharma could be seen near the front, gamely forming an 'X' with her arms as the camera panned over her. Read more
-
-### Schell Games reportedly lays off staff
-Tue, 25 Aug 2026 19:45:19 +0000 — https://www.gamesindustry.biz/schell-games-reportedly-lays-off-staff
-
-Schell Games, co-developer of Among Us 3D and studio behind the I Expect You to Die series, has reportedly laid off staff. Read more
-
-### Nvidia announces ray-traced Nanite, native anti-cheat, and DLSS 4.5 at Gamescom 2026
-Tue, 25 Aug 2026 18:44:44 +0000 — https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup
-
-Nvidia used Gamescom to detail a wave of developer-facing updates across DLSS, RTX, and its GeForce Now cloud platform. Read more
-
-### Entity raises $5.8 million to build browser-based "console-quality" gaming platform
-Tue, 25 Aug 2026 16:56:48 +0000 — https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform
-
-Irish startup Entity has raised $5.8 million (&euro;5 million) in seed funding to build a browser-based gaming platform it says will deliver console-quality games without downloads or installs. Read more
-
-### Game Developer Association of India picks 15 studios for first Supernova cohort
-Tue, 25 Aug 2026 15:42:22 +0000 — https://www.gamesindustry.biz/game-developer-association-of-india-picks-15-studios-for-first-supernova-cohort
-
-The Game Developer Association of India (GDAI) has announced the first cohort of its Supernova incubation program, selecting 15 studios from more than 260 applicants. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
 
-### So, Erm, Where s Forza Horizon 6 on PS5?
-Wed, 26 Aug 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/08/so-erm-wheres-forza-horizon-6-on-ps5
+### Stuntman: Hollywood Welcomes You to Jurassic World in Latest Trailer
+Thu, 27 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/stuntman-hollywood-welcomes-you-to-jurassic-world-in-latest-trailer
+
+That's a wrap-tor. Saber Interactive has just announced another movie licence for its upcoming revival of the cult classic Stuntman series. Stuntman: Hollywood brings back the arcade driving game, injecting it with numerous well-known films and TV shows. Among them will be Jurassic World , as revealed in this new trailer: Read the full article on pushsquare.com
+
+### GTA 6 Extended Look Will Show Nearly 30 Minutes of Gameplay, Captured on PS5
+Thu, 27 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-extended-look-will-show-nearly-30-minutes-of-gameplay-captured-on-ps5
+
+According to Netflix. In a matter of hours, Rockstar Games will finally lift the veil on GTA 6 with an extended look at gameplay. This will be our first proper glimpse at the game in action, and while there have been a series of leaked clips over the last few days, I think this will be worth watching for anybody interested. Read the full article on pushsquare.com
+
+### Is Forza Horizon 6 on PS5 Still on Course for Release in 2026?
+Thu, 27 Aug 2026 13:15:00 GMT — https://www.pushsquare.com/news/2026/08/is-forza-horizon-6-on-ps5-still-on-course-for-release-in-2026
 
 Late drive. In January of this year, it was confirmed that Forza Horizon 6 would indeed be coming to PS5, albeit at a later date than the Xbox and PC release. We've been waiting ever since to learn exactly when the port would arrive; currently, the only official information is that the PS5 version is scheduled to arrive in 2026. Read the full article on pushsquare.com
 
-### The Wolf Among Us Remastered Brings Back a Telltale Classic This October on PS5
-Wed, 26 Aug 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/08/the-wolf-among-us-remastered-brings-back-a-telltale-classic-this-october-on-ps5
+### Feature: 40+ PS5, PS4 Games to Buy in PS Store s Gamescom Sale
+Thu, 27 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-gamescom-sale
 
-And you can play it in black and white. While we all wait for the enigmatic sequel to show itself, a release date has been announced for The Wolf Among Us Remastered . Announced back in June, the remaster comes to PS5 right before Halloween on 29th October 2026. Read the full article on pushsquare.com
+Cheap PS5 and PS4 games we recommend. PS Store's latest sale is a Gamescom promotion, running from now until 9th September 2026. Browsing through the thousands of PS5 and PS4 games can take a while, so we've put together a list of games we recommend you check out. Everything listed here comes with at least a 7/10 score from Push Square , and every game is at its lowest price point, with some setting new lows in this sale. Read the full article on pushsquare.com
 
-### Persona 4 Revival s Story Trailer Is Packing Loads of New Footage
-Wed, 26 Aug 2026 16:15:00 GMT — https://www.pushsquare.com/news/2026/08/persona-4-revivals-story-trailer-is-packing-loads-of-new-footage
+### The Battle of the Mass Effect-Likes Continues, as The Expanse: Osiris Reborn Drops New Gameplay
+Thu, 27 Aug 2026 12:45:00 GMT — https://www.pushsquare.com/news/2026/08/the-battle-of-the-mass-effect-likes-continues-as-the-expanse-osiris-reborn-drops-new-gameplay
 
-Don't change the channel. Does it feel like Atlus and SEGA started the marketing for Persona 4 Revival way too early to anyone else? The remake's still six months away and we've been battered with every kind of trailer you can imagine. And today, it's time for a fresh look at the story. Those who have played Persona 4 Golden will already know the ins and outs as Revival doesn't make any adjustments to the narrative, but if you're a newcomer, this trailer sets the tone quite well. Read the full article on pushsquare.com
+Space race. Right, now that Exodus has had its time in the limelight at Gamescom, it's The Expanse: Osiris Reborn's turn. The two sci-fi RPGs, both of which are quite clearly inspired by Mass Effect , have been floating around for roughly the same amount of time, leading to plenty of comparisons between the two. Read the full article on pushsquare.com
 
-### Review: Resonance: A Plague Tale Legacy (PS5) - Solid Story Game without the Rats
-Wed, 26 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/reviews/ps5/resonance-a-plague-tale-legacy
+### Konami Wants to Annualise Silent Hill, Has Many Unannounced Games
+Thu, 27 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/konami-wants-to-annualise-silent-hill-has-many-unannounced-games
 
-Uncharted on Crete. After two fantastic A Plague Tale games, it feels like Asobo Studio has turned the third into its biggest uphill battle on purpose. Resonance: A Plague Tale Legacy is a prequel — which are just inherently less interesting than sequels — there are no rats, it’s all about combat instead of stealth, and series protagonists Amicia and Hugo are missing in action. Read the full article on pushsquare.com
+Much more to come from horror IP. Alongside a new Call of Duty and EA Sports FC every year, how do you fancy a new Silent Hill game every 12 months? That's the release cadence Konami is now working towards as it brings the horror franchise back in a big way. Talking to GamesRadar , franchise producer Motoi Okamoto said it's the company's aim to "have an annual release of new games" and it has multiple unannounced projects currently in development to try and make that happen. Read the full article on pushsquare.com
 
-### PS Plus Essential Games for September 2026 Announced
-Wed, 26 Aug 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps-plus-essential-games-for-september-2026-announced
+### Here s 13 Minutes of Witcher 3: Songs of the Past DLC Gameplay
+Thu, 27 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/heres-13-minutes-of-witcher-3-songs-of-the-past-dlc-gameplay
 
-Something for everyone. PlayStation has officially announced the games that are coming to PS Plus Essential next month. There'll be four titles up for grabs across PS5 and PS4 in September. Three of them leaked earlier this week. Read the full article on pushsquare.com
+Get a proper look at the PS5 expansion. After just a brief look at new The Witcher 3 DLC Songs of the Past during Gamescom Opening Night Live this week, CD Projekt Red has shared a much longer portion of gameplay from the DLC in one of its Red Streams. The gameplay has been clipped out and uploaded as a 13-minute segment, which you can watch above. It appears a new quest called A Bed of Thorns will introduce the DLC to you, and then you can play around in Ledden, the new area in the expansion. There's also a cutscene featured of a dinner scene with some new characters. Read the full article on pushsquare.com
 
-### Microsoft Confirms Xbox Disc-to-Digital Program in the Wake of Sony Decision to End PlayStation Discs
-Wed, 26 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/microsoft-confirms-xbox-disc-to-digital-program-in-the-wake-of-sony-decision-to-end-playstation-discs
+### Dragon s Dogma 2 s Game-Changing PS5 Patch Dated, But Slightly Delayed
+Thu, 27 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/dragons-dogma-2s-game-changing-ps5-patch-dated-but-slightly-delayed
 
-Revocable digital license tied to Xbox disc. Microsoft has today announced its plans to introduce a disc-to-digital program on Xbox consoles that will allow console owners to turn their physical discs into a digital version. This follows in the wake of news Sony plans to end PlayStation disc manufacturing for all games released after January 2028 — a decision it has no interest in backing down from, as per Sony executives. Read the full article on pushsquare.com
+The big one. Capcom has long promised a major update for Dragon's Dogma 2 , dropping ahead of its Dark Arisen expansion on the 9th October. Previously, this patch was scheduled for late August, but the developer's now confirmed that it'll be arriving a little late, on the 1st or 2nd of September depending on your timezone. Read the full article on pushsquare.com
 
-### PS5 Action RPG Tarae: The Unbound Puts an Eastern Folklore Spin on Diablo
-Wed, 26 Aug 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-action-rpg-tarae-the-unbound-puts-an-eastern-folklore-spin-on-diablo
+### Guide: GTA 6 Netflix Extended Look: When and How to Watch
+Thu, 27 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch
 
-Watch the announcement trailer. Publisher Krafton has announced Tarae: The Unbound , a Diablo-esque top-down action RPG. Check out the debut trailer below: Read the full article on pushsquare.com
+Dates, times, and all you need to know. GTA 6 is on the horizon, but before it makes its long-awaited debut on 19th November 2026, Rockstar Games is treating us to what it calls an Extended Look — and it's available first on Netflix. Though we don't know exactly what it'll entail, it's expected this will be our biggest and best way to see the highly anticipated game in action before it launches. Read the full article on pushsquare.com
 
-### The Witcher 3 Remastered Reveals Huge List of Improvements, Including PS5 Pro Support
-Wed, 26 Aug 2026 12:45:00 GMT — https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-reveals-huge-list-of-improvements-including-ps5-pro-support
+### 7 PS5 Trailers Worth Watching from the Future Games Show at Gamescom 2026
+Wed, 26 Aug 2026 22:00:00 GMT — https://www.pushsquare.com/news/2026/08/7-ps5-trailers-worth-watching-from-the-future-games-show-at-gamescom-2026
 
-Here we go again. The shock announcement of The Witcher 3: Wild Hunt - Remastered has prompted many fans to start thinking about yet another playthrough — but what does the enhanced re-release actually include? Well, yesterday's trailer does provide an overview — you just need to pause the video and read through the long list of stuff that scrolls up the screen. Fortunately for you, I've done just that and wrote it all down in this article. Read the full article on pushsquare.com
+May as well. We live in a world where E3 is dead and approximately four billion different weekly livestreams have appeared in its place. Seriously, at what point are there too many of these things? Read the full article on pushsquare.com
 
-### Metro 2039 Reveals More on Its Main Character, and You Can Buy His Spartan Helmet
-Wed, 26 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/metro-2039-reveals-more-on-its-main-character-and-you-can-buy-his-spartan-helmet
+### 6 New GTA 6 Facts I Learned Ahead of Its Netflix First Look
+Wed, 26 Aug 2026 20:30:00 GMT — https://www.pushsquare.com/news/2026/08/6-new-gta-6-facts-i-learned-ahead-of-its-netflix-first-look
 
-Learn more about main character The Stranger. Metro 2039 rocked up to Gamescom Opening Night Live with a fresh gameplay trailer focusing on its new protagonist, The Stranger, and news that you can own his Spartan Helmet if you buy the PS5 game's Collector's Edition. You get two minutes of metro tunnel action in the trailer above, featuring cutscenes and combat. Then, the physical Spartan Helmet took centre stage during the live show. There'll be limited quantities and pre-orders will open later this year. Read the full article on pushsquare.com
+Weight! Decisions! Social media! In just a few short hours, we’ll have seen GTA 6 gameplay – and not the kind uploaded unscrupulously by an anthropomorphic, crypto currency obsessed leek. But in the hours prior to Rockstar’s big Netflix coming out party, glossy magazine Dazed has an exclusive behind-the-scenes on the biggest PS5 game to date. Read the full article on pushsquare.com
 
-### Aniimo, the Free-to-Play, Pokémon-Like RPG, Joins the September Madness on PS5
-Wed, 26 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/aniimo-the-free-to-play-pokemon-like-rpg-joins-the-september-madness-on-ps5
+### Crazy Taxi: World Tour Makes a Stop in Germany, as Series Goes Global on PS5
+Wed, 26 Aug 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/08/crazy-taxi-world-tour-makes-a-stop-in-germany-as-series-goes-global-on-ps5
 
-Too many games. Look, it's just kinda ridiculous now. The next couple of months are insane , and games just keep getting release dates within that time frame. Aniimo is one of them, recently confirmed to make its debut on PS5 on 16th September 2026. Read the full article on pushsquare.com
-
-### Rockstar Issues Statement on GTA 6 Leaks, Apologises for How Long Gameplay Reveal Has Taken
-Wed, 26 Aug 2026 11:45:00 GMT — https://www.pushsquare.com/news/2026/08/rockstar-issues-statement-on-gta-6-leaks-apologises-for-how-long-gameplay-reveal-has-taken
-
-"We are very sorry that everything has taken as long as it has". GTA 6 developer Rockstar Games has published a statement addressing the gameplay leaks that have been spreading across the Internet in the past week. The leaked videos have become increasingly spoilery in nature, with the potential for story details to make their way online. In response, the studio has commented on the leaks and apologised for how long it's taken Rockstar to get to this point, where it's about to show an official look at GTA 6 gameplay in a Netflix livestream. Read the full article on pushsquare.com
-
-### Italian Team Leaves Its Mark in Debut PS5 Game Lofsong
-Wed, 26 Aug 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/08/italian-team-leaves-its-mark-in-debut-ps5-game-lofsong
-
-An art-driven exploration puzzler. Lofsong , one of the few brand new game announcements at Gamescom Opening Night Live yesterday, was a standout thanks to its unique art-driven trailer, which you can watch above. It comes from Unrelated Studio, based in Turin, Italy, and Lofsong is its debut project. Here's the pitch from the team: Read the full article on pushsquare.com
+Guten tag. The clue was in the name really, wasn’t it? Crazy Taxi: World Tour is officially going global, as the new PS5 game makes a stop in Germany, the first of a series of international announcements planned for the reboot. Read the full article on pushsquare.com
 
 ## Game Developer
+
+### Saber exec: The game industry must look beyond North America and dilute risk
+Thu, 27 Aug 2026 15:00:00 GMT — https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-look-beyond-north-america-and-dilute-risk
+
+Saber chief creative officer Tim Willits said studios need to find 'reliable' income to support their big swings.
+
+### Xbox CEO Asha Sharma once again stresses Xbox's need for affordability
+Thu, 27 Aug 2026 14:40:00 GMT — https://www.gamedeveloper.com/business/xbox-ceo-asha-sharma-once-again-stresses-xbox-s-need-for-affordability
+
+Xbox isn't healthy, she said again.
+
+### Saudi media conglomerate MBC expands into video game industry with new studio
+Thu, 27 Aug 2026 14:17:05 GMT — https://www.gamedeveloper.com/business/saudi-owned-media-conglomerate-mbc-expands-into-the-game-industry
+
+MBC Game Studio broke cover at Gamescom 2026 and has already hired veterans from BioWare, Hi-Rez, Ubisoft Montreal, and Bungie.
+
+### Obituary: Actor Tim Curry, celebrated for his work in games, has passed at age 80
+Wed, 26 Aug 2026 20:08:56 GMT — https://www.gamedeveloper.com/audio/obituary-actor-tim-curry-celebrated-for-his-work-in-games-has-passed-at-age-80
+
+The charismatic star of stage and screen also lent his likeness to a number of celebrated video games.
+
+### Rockstar Games 'heartbroken' by Grand Theft Auto 6 leaks
+Wed, 26 Aug 2026 18:30:00 GMT — https://www.gamedeveloper.com/business/rockstar-games-heartbroken-by-grand-theft-auto-6-leaks
+
+The Grand Theft Auto 6 maker has responded to the game's massive leaks.
 
 ### Playdate maker Panic is refunding tariff fees to customers
 Wed, 26 Aug 2026 18:21:55 GMT — https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers
 
 'It's just not our money to keep, and it felt really good to give it back.'
+
+### Xbox officially announces disc to digital program
+Wed, 26 Aug 2026 17:58:25 GMT — https://www.gamedeveloper.com/business/xbox-officially-announces-disc-to-digital-program
+
+The Verge reported this program back in July.
 
 ### CD Projekt Red to distribute The Witcher 3: The Wild Hunt on Blizzard's Battle.net
 Wed, 26 Aug 2026 17:30:18 GMT — https://www.gamedeveloper.com/business/cd-projekt-red-and-blizzard-enter-a-partnership
@@ -216,29 +246,4 @@ Player Council members will be invited to test 'early concepts, prototypes, and 
 Tue, 25 Aug 2026 17:01:51 GMT — https://www.gamedeveloper.com/business/riot-games-is-winding-down-fighter-2xko-in-december-2026
 
 Riot says it hasn't seen 'enough players stick with the game to get to a path toward sustainability.'
-
-### Report: Among Us 3D co-dev Schell Games lays off staff
-Tue, 25 Aug 2026 15:28:59 GMT — https://www.gamedeveloper.com/business/report-among-us-3d-dev-schell-games-lays-off-staff
-
-Schell Games has provided multiple interviews over the years on avoiding layoffs.
-
-### Irish browser games start-up Entity raises $5M in funding for 'console-quality games for the 'new web' era'
-Tue, 25 Aug 2026 14:46:56 GMT — https://www.gamedeveloper.com/business/irish-browser-games-start-up-entity-raises-5m-in-funding-for-console-quality-games-for-the-new-web-era-
-
-The 'next-generation gaming platform' will launch in 2027.
-
-### Journey maker thatgamecompany announces thatgamepublisher
-Tue, 25 Aug 2026 14:10:19 GMT — https://www.gamedeveloper.com/business/journey-maker-thatgamecompany-announces-thatgamepublisher
-
-Profit from Sky: Children of the Light will support the initiative.
-
-### W4 Games raises $18M to expand its international team
-Tue, 25 Aug 2026 14:06:03 GMT — https://www.gamedeveloper.com/business/w4-games-raises-18m-to-expand-its-international-team
-
-W4 Games has also signed a multi-year strategic partnership with Tencent to scale its business and the Godot ecosystem in Asia.
-
-### Creative Artists Agency spins up indie funding venture Frame1Games
-Mon, 24 Aug 2026 20:43:51 GMT — https://www.gamedeveloper.com/business/creative-artists-agency-spins-up-indie-funding-venture-frame1games
-
-'We want to support emerging, often under-resourced teams that don't necessarily have the financing, relationships or marketing resources that other titles do.'
 

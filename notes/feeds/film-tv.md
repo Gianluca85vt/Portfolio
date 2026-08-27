@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-26T18:24:11.576Z
+# Film & TV — harvested 2026-08-27T15:30:30.805Z
 
 ## Variety
 
-### Survivor 51 : Meet the 21 New Castaways, Including a Grey s Anatomy Actor, the Voice of Strawberry Shortcake, a Pro Wrestler and a Yankees Exec
-Wed, 26 Aug 2026 18:22:50 +0000 — https://variety.com/lists/survivor-51-cast-greys-anatomy-strawberry-shortcake/
+### Tangles, Hand-Drawn Cannes Standout, Lands at Independent Film Company for Oscar-Qualifying Run (EXCLUSIVE)
+Thu, 27 Aug 2026 15:30:00 +0000 — https://variety.com/2026/film/awards/tangles-ifc-acquisition-oscars-animated-feature-1236844683/
 
-After its landmark 50th season, explored at length in a Variety cover story, Survivor is back for another round. CBS kicked off a new phase of the popular competition series, titled The Open Era, with a livestream on Wednesday announcing 21 all-new castaways. They range in age from 24 to 49 and come from all [ ]
+A new animated film has entered the Oscar race. Independent Film Company (formerly branded IFC) and Sapan Studio have acquired North American rights to “Tangles,” the hand-drawn animated feature and directorial debut of Leah Nelson, and will mount an Oscar-qualifying theatrical run before year s end, Variety can exclusively reveal. IFC will open the film in [ ]
 
-### YouTube’s Pedro Pina Says Platform Can Fuel Britain’s Next TV Golden Age, Unveils $4 Million Pledge: We re Not the Villain
-Wed, 26 Aug 2026 18:15:00 +0000 — https://variety.com/2026/tv/global/youtube-pedro-pina-help-uk-tv-4-million-pledge-1236843798/
+### Dolby Laboratories Hires Meta, Amazon and Xbox Alum Marc Whitten as CEO as Kevin Yeaman Retires
+Thu, 27 Aug 2026 15:28:48 +0000 — https://variety.com/2026/film/news/dolby-marc-whitten-ceo-kevin-yeaman-retires-1236845166/
 
-Pedro Pina, YouTube’s vice president for Europe, Middle East and Africa, used this year’s James MacTaggart Memorial Lecture at the Edinburgh TV Festival to challenge the narrative that the platform is a villain in British television’s decline. Instead, he argued that it is increasingly feeding the sector with talent, audiences and revenue — and backed [ ]
+Dolby Laboratories has hired veteran tech exec Marc Whitten as president and CEO. He takes over the position from Kevin Yeaman, who is stepping down as chief executive of the audio and video technology company after 17 years. The company said it selected Whitten to lead the company as part of a thoughtful, long-term succession [ ]
 
-### Busy Philipps Reveals She Had Brain Tumor Removed: Grateful That I m Alive
-Wed, 26 Aug 2026 17:22:38 +0000 — https://variety.com/2026/tv/news/busy-philipps-brain-tumor-removed-1236844098/
+### Utopai Studios Unifies Asia-Pacific Operations, Taps Hyun Park to Lead Region (EXCLUSIVE)
+Thu, 27 Aug 2026 15:23:15 +0000 — https://variety.com/2026/film/news/utopai-studios-apac-hyun-park-president-1236845232/
 
-Busy Philipps revealed she had a malignant brain tumor removed weeks before she was set to start filming her new CBS show “Cupertino.” “I’m grateful that I’m alive,” Philipps told People. What started as an unnecessary, but precautionary full-body MRI that checks for more than 500 conditions ended up saving Philipps life. The “Freaks and [ ]
+Utopai Studios has completed the integration of its Asia-Pacific joint venture Utopai East into its global operations, naming veteran media executive Hyun Park president of Utopai Studios APAC region. The move consolidates the company s Korea-based production arm, its Japan development business, regional partnerships and a slate of more than 18 film and television projects under [ ]
 
-### Wim-Wenders Produced I ll Be Gone in June Bought for North America After Cannes Premiere (EXCLUSIVE)
-Wed, 26 Aug 2026 17:16:43 +0000 — https://variety.com/2026/film/global/wim-wenders-ill-be-gone-in-june-north-america-cannes-kimstim-1236844095/
+### Anonymous Content Names Steve Shikiya Chief Operating Officer
+Thu, 27 Aug 2026 15:15:00 +0000 — https://variety.com/2026/biz/news/anonymous-content-steve-shikiya-chief-operating-officer-1236844997/
 
-KimStim has acquired all North American rights to Katharina Rivilis’ debut feature I’ll Be Gone in June, following its world premiere at Cannes Un Certain Regard. Set in Las Cruces, New Mexico, in the months surrounding the Sept. 11 attacks, the coming-of-age drama follows Franny, a 16-year-old German exchange student whose vision of an American [ ]
+Anonymous Content has hired Steve Shikiya to serve as the management company s chief operating officer. In his new role, Shikiya will report directly to Anonymous president and CEO Darren Walker. He will oversee day-to-day business operations, including finance, corporate development, business affairs, and human resources. “Steve has spent his career helping ambitious, independent companies like [ ]
 
-### Todd Black to Receive Inaugural Career Producer Honor at the 39th Annual Virginia Film Festival (EXCLUSIVE)
-Wed, 26 Aug 2026 17:15:00 +0000 — https://variety.com/2026/film/news/todd-black-career-producer-honor-virginia-film-festival-2-1236843545/
+### David Byrne s Dazzling Tour Being Turned Into a Film by Brutalist Director Brady Corbet, Shooting in 70mm
+Thu, 27 Aug 2026 15:00:26 +0000 — https://variety.com/2026/music/news/david-byrne-film-brady-corbet-tour-1236845027/
 
-Producer Todd Black will receive the inaugural Career Producer Honor at the 39th annual Virginia Film Festival, which takes place Oct. 21-25 in Charlottesville. The Virginia Film Festival Career Producer Honor celebrates the artistic impact of a standout producer and is supported by a new endowment established by Virginia Film Festival Advisory Board member and [ ]
+Ever since Jonathan Demme s Talking Heads film Stop Making Sense picked up its reputation as the best concert movie of all time, David Byrne has kept designing dazzling tours, and prominent directors have kept wanting to capture them. Following Spike Lee s film rendering of Byrne s American Utopia road show six years ago, now another name [ ]
 
-### Tyler Perry Studios Launches New Specialty Label Maxscene, Named After His Mother Maxine
-Wed, 26 Aug 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/tyler-perry-studios-specialty-label-maxscene-1236843169/
+### Bunker Director Florian Zeller on Casting Real-Life Couple Penélope Cruz and Javier Bardem for His Marriage-in-Crisis Drama
+Thu, 27 Aug 2026 15:00:00 +0000 — https://variety.com/2026/film/festivals/bunker-director-florian-zeller-penelope-cruz-javier-bardem-1236841747/
 
-Tyler Perry launched a new specialty division of his production company Tyler Perry Studios called Maxscene. According to the company, the label is dedicated to expanding theatrical opportunities for filmmakers with distinctive voices. Named after Perry’s mother Maxine, the filmmaker said his new label aims to reflect her belief in her son and the studio he [ ]
+When he set out to make his third film, “Bunker,” about a slow-burning conflict between two married people who have grown apart, Oscar-winning French director Florian Zeller had Stanley Kubrick’s “Eyes Wide Shut” in mind. Like Kubrick, who cast then-married Tom Cruise and Nicole Kidman as a couple whose relationship is unraveling, Zeller wanted to [ ]
 
-### Pedro Almodóvar’s Bitter Christmas and Diego Luna s Ashes Lead AFI Latin American Film Festival Lineup
-Wed, 26 Aug 2026 17:00:00 +0000 — https://variety.com/2026/film/festivals/pedro-almodovar-bitter-christmas-latin-american-film-festival-1236843282/
+### Stephen King s London-Set Horror Story Crouch End Getting Prime Video Adaptation (EXCLUSIVE)
+Thu, 27 Aug 2026 15:00:00 +0000 — https://variety.com/2026/tv/global/stephen-king-horror-story-crouch-endprime-video-adaptation-1236843728/
 
-Pedro Almodóvar’s Bitter Christmas and Diego Luna s Ashes are among the AFI Latin American Film Festival lineup. The AFI Latin American Film Festival will take place Sept. 16 through Oct. 7 at the AFI Silver Theatre and Cultural Center in Silver Spring, Maryland. The festival will kick off with “The Match,” a documentary depicting the [ ]
+Stephen King s solitary story set in London is getting the TV treatment. Crouch End, based on the horror master s short first published in 1980 and named after the real-life North London district in which it s set, has been greenlit by Prime Video as a six-part limited series. The show will mark the first King adaptation [ ]
 
-### Final Fantasy VII Revelation Gameplay Trailer Shows Weapons Destroying Planet in the Series’ Finale (Gaming News Roundup)
-Wed, 26 Aug 2026 16:53:37 +0000 — https://variety.com/2026/gaming/news/final-fantasy-vii-gaming-news-roundup-week-august-25-1236843218/
+### Sharon Horgan Seeks Fun, Lightly Degrading Sex as a 50-Year-Old Divorcee in Trailer for HBO s Youth
+Thu, 27 Aug 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/hbo-youth-trailer-sharon-degrading-sex-1236845117/
 
-“Final Fantasy VII” received a new gameplay trailer during gamescom Opening Night Live. The third and final entry in the “Final Fantasy VII” remake series sees hostile giants called Weapons arriving to save a world undergoing a crisis. But, unable to determine who’s a true threat, the Weapons ultimately cause mass destruction on anyone or [ ]
+HBO released a trailer for Youth, the upcoming comedy starring by Sharon Horgan, who also created the series and serves as executive producer. Per the official logline, Youth follows a 50-year-old divorcee’s search for sex and love whilst juggling caring for her ailing parents and parenting her should-be grown up son. Along with Horgan as [ ]
 
-### Tim Curry Remembered by Carol Burnett, Michael McKean, Luke Evans and More: Thank You for Inspiring Generations of Actors to Be a Little Braver
-Wed, 26 Aug 2026 16:51:13 +0000 — https://variety.com/2026/film/news/tim-curry-remembered-michael-mckean-muppets-luke-evans-1236844041/
+### PodcastOne Inks Ad and Distribution Deal for Show From Star Trek: The Next Generation Actors Brent Spiner and Jonathan Frakes
+Thu, 27 Aug 2026 14:59:12 +0000 — https://variety.com/2026/digital/news/podcastone-deal-star-trek-the-next-generation-actors-brent-spiner-jonathan-frakes-1236845097/
 
-There has been an outpouring of love for Tim Curry — the English actor best known for playing villains in The Rocky Horror Picture Show, Annie, Clue and more — since news broke of his death at age 80 on Wednesday. Carol Burnett shared a clip from Annie, in which she starred as Miss Hannigan [ ]
+PodcastOne has acquired exclusive sales and distribution rights to Dropping Names… and Other Things, an interview podcast co-hosted by Brent Spiner and Jonathan Frakes, longtime friends who starred on the TV show Star Trek: The Next Generation. In each episode of Dropping Names, Spiner and Frakes sit down with people they’ve met across decades in [ ]
 
-### Blake Lively Awarded $400,000 in Attorneys Fees in Justin Baldoni Case
-Wed, 26 Aug 2026 16:48:27 +0000 — https://variety.com/2026/film/news/blake-lively-400000-attorneys-fees-justin-baldoni-1236844059/
+### Peter Cullen, Voice of Optimus Prime in ‘Transformers,’ Dies at 85
+Thu, 27 Aug 2026 14:51:18 +0000 — https://variety.com/2026/tv/news/peter-cullen-voice-of-optimus-prime-and-eeyore-dies-85-1236845132/
 
-A judge on Wednesday awarded Blake Lively about $400,000 in attorneys fees in her dispute with It Ends With Us co-star Justin Baldoni, well short of the $8 million she had sought. Lively and Baldoni settled their 18-month legal war in May, avoiding a federal trial that was scheduled for later that month. At the [ ]
+Peter Cullen, the voice actor behind the Autobots leader Optimus Prime in “Transformers” and the mopey Eeyore in several “Winnie-the-Pooh” projects, died on Wednesday, his agent Kevin Motley confirmed. He was 85. Cullen passed at his family home in Los Angeles, “surrounded by his loving family and held in the hearts of his many friends [ ]
 
 ## The Hollywood Reporter
 
-### Chris Hansen Buys Ads Before Every Screening of A24 s Primetime (Exclusive)
-Wed, 26 Aug 2026 18:02:32 +0000 — https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-buys-ads-before-every-screening-a24-primetime-1236682255/
+### Pulitzer Prize Finalist Here There Are Blueberries Set For Broadway
+Thu, 27 Aug 2026 15:22:33 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/here-there-are-blueberries-broadway-1236683080/
 
-Robert Pattinson plays the former 'Dateline NBC' correspondent in the Sept. 25 release.
+The play, directed and co-written by Moisés Kaufman, is based on a true story about uncovered photos from the Holocaust.
 
-### Tim Curry s Most Memorable Roles
-Wed, 26 Aug 2026 17:58:16 +0000 — https://www.hollywoodreporter.com/lists/tim-curry-best-roles/
+### Joe Russo Says Re-Watching Avengers: Endgame Is Required to Understand Avengers: Doomsday
+Thu, 27 Aug 2026 15:19:17 +0000 — https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-encore-doomsday-russo-1236683088/
 
-From 'The Rocky Horror Picture Show' to 'Clue' to 'Annie,' a list of great performances by the actor, who died Wednesday at age 80.
+The 'Doomsday' directors make a case for going to see 'Avengers: Endgame Encore' in theaters: "It's going to connect the story of the two movies."
 
-### Survivor 51 : Meet the 21 Castaways on Game-Changing New Season
-Wed, 26 Aug 2026 17:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/survivor-51-new-season-cast-1236681438/
+### Anonymous Content Taps Former Imagine Exec Steve Shikiya as COO
+Thu, 27 Aug 2026 15:15:00 +0000 — https://www.hollywoodreporter.com/business/business-news/anonymous-content-steve-shikiya-coo-executive-leadership-1236682283/
 
-The Sept. 23 premiere kicks off 'Survivor's' "Open Era" — where no twist, advantage or game mechanic is off limits for the hit CBS reality franchise.
+Shikiya, who joins after a stint at North Road Company, spent almost a decade at Ron Howard and Brian Grazer's company. He's also worked for Endemol Shine, Fox, MGM, Disney, Universal and more.
 
-### Anna Wintour Wanted the Bezos Back. But She Might Settle for the Clooneys
-Wed, 26 Aug 2026 17:40:22 +0000 — https://www.hollywoodreporter.com/lifestyle/style/anna-wintour-2027-met-gala-jeff-bezos-1236681510/
+### Jacob Tremblay Doesn t Like the World He Sees in Netflix s Unabomber Trailer
+Thu, 27 Aug 2026 15:09:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jacob-tremblay-as-unabomber-ted-kaczynski-netflix-trailer-1236683084/
 
-Despite the controversy swirling around the 2026 Met Gala, the Conde Nast bigwig is said to have wanted Jeff and Lauren back for a return engagement. But next year's party — with the always-scandalous John Galliano center stage — will likely slum it with other sponsors.
+So he blows it up.
 
-### Snoop Dogg Biopic Finds Its Warren G in Algee Smith (Exclusive)
-Wed, 26 Aug 2026 17:34:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/snoop-dogg-biopic-finds-its-warren-g-in-algee-smith-1236682181/
+### Dolly Parton Co-Star Ricky Schroder Slammed for Foul Tribute to Late Icon
+Thu, 27 Aug 2026 14:32:11 +0000 — https://www.hollywoodreporter.com/news/general-news/dolly-parton-ricky-schroder-tribute-controversy-1236683036/
 
-The Universal feature already has Jonathan Daviss portraying Snoop Dogg and Myles Bullock Be as Dr. Dre.
+Schroder draws criticism for becoming "the first person to disrespect Parton in her passing."
 
-### Luke Evans, Who Played Dr. Frank-N-Furter on Broadway, Wrote Letter to Tim Curry Weeks Before His Passing
-Wed, 26 Aug 2026 17:34:14 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/luke-evans-letter-to-tim-curry-weeks-before-his-passing-1236682241/
+### Peter Cullen, Voice of Optimus Prime in ‘Transformers,’ Dies at 85
+Thu, 27 Aug 2026 14:16:47 +0000 — https://www.hollywoodreporter.com/movies/movie-news/peter-cullen-optimus-prime-transformers-eeyore-1236683075/
 
-“Being compared to you has been one of the greatest compliments I’ve ever received, even though it’s a comparison no one could ever hope to live up to," Evans shared, as part of a letter he sent to Curry three weeks ago.
+The theater-trained Canadian also created sounds for King Kong and the Predator and portrayed Eeyore, Winnie the Pooh's pal.
 
-### How Hannah Montana Introduced a New Generation to Dolly Parton
-Wed, 26 Aug 2026 17:03:06 +0000 — https://www.hollywoodreporter.com/music/film-tv-music-news/hannah-montana-introduced-new-generation-dolly-parton-1236681646/
+### Six Will End Five-Year Broadway Run in January
+Thu, 27 Aug 2026 13:46:15 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/six-closing-january-2027-end-five-year-broadway-run-1236683037/
 
-Aunt Dolly made three iconic appearances on the beloved Disney Channel series starring Parton's real-life goddaughter, Miley Cyrus.
+Written by Toby Marlow and Lucy Moss, the musical sets up a song competition between the wives of Henry VIII.
 
-### Blake Griffin to Host His Own Late Night TV Show (Exclusive)
-Wed, 26 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/blake-griffin-new-late-night-show-stepback-release-date-1236681099/
+### Authentic Brands Group Acquires Majority Stake in Drake’s Lifestyle Brand OVO
+Thu, 27 Aug 2026 13:31:59 +0000 — https://www.hollywoodreporter.com/business/business-news/drake-sells-ovo-authentic-brands-group-1236683027/
 
-The former NBA All-Star and burgeoning screen presence is partnering with Prime Video, Wondery and YouTube for 'The Stepback With Blake Griffin.'
+The licensing firm will work with Vince Holding Corp. on products, with Drake continuing to hold an ownership stake and helping to shape its creative vision.
 
-### How Tim Curry Walked Into an Audition — and Became Frank-N-Furter
-Wed, 26 Aug 2026 16:58:24 +0000 — https://www.hollywoodreporter.com/movies/movie-features/tim-curry-dead-rocky-horror-clue-classics-1236682092/
+### A Deep Dive Into ‘Possible Love’: Lee Chang-dong on His Searingly Acted Study of Class and Filmmaking
+Thu, 27 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/possible-love-lee-chang-dong-netflix-1236682899/
 
-'Rocky Horror' creator Richard O’Brien and 'Clue' writer-director Jonathan Lynn remember the extraordinary actor who turned two box office disappointments into immortal cult classics.
+The Korean mastermind behind ‘Secret Sunshine’ and ‘Burning’ has reunited with some of his greatest stars for a provocative relationship drama that confronts the resentments and possibilities of contemporary life.
 
-### Brad Pitt s Cliff Booth Movie Finally Gets Official Title From Netflix
-Wed, 26 Aug 2026 16:55:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-cliff-booth-further-misadventures-title-netflix-1236682186/
+### StudioCanal Classics Catalogue Label Launches to Showcase Largest Library Outside the U.S.
+Thu, 27 Aug 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/studiocanal-classics-label-touts-largest-library-outside-us-1236682999/
 
-David Fincher directs the feature follow-up to 'Once Upon a Time in Hollywood' from Quentin Tarantino's script.
+"Over the past seven years, StudioCanal has invested close to $29 million into the 4K restoration of nearly 1,000 classic feature films," the Canal+ unit says.
 
 ## Deadline
 
-### ‘Ted Lasso’ Stars Unpack “Turning Point” For Lady Greyhounds In Season 4’s Pub Quiz Episode
-Wed, 26 Aug 2026 18:16:43 +0000 — https://deadline.com/2026/08/ted-lasso-season-4-pub-quiz-team-bonding-interview-1237051342/
+### Anonymous Content Names Steve Shikiya Chief Operating Officer
+Thu, 27 Aug 2026 15:15:00 +0000 — https://deadline.com/2026/08/anonymous-content-steve-shikiya-chief-operating-officer-1237060810/
 
-SPOILER ALERT: This post spoils Ted Lasso Season 4 Episode 4, titled Greyhounds Day Off. What starts out as a day off for the Lady Greyhounds in the fourth episode of Ted Lasso Season 4 quickly turns into an important team-bonding exercise, purposeful or not, when they attend Mae’s (Annette Badland) reinstated pub quiz night [ ]
+Veteran media and entertainment executive Steve Shikiya has been named Chief Operating Officer of Anonymous Content. Reporting directly to President and CEO Darren Walker, Shikiya will oversee Anonymous’s day-to-day business operations, including finance, corporate development, business affairs, and human resources. He will work closely with leadership across the management, production and brand studio businesses and [ ]
 
-### YouTube Uses Set-Piece Speech To Protest That It s Not A Villain Intent On Toppling TV
-Wed, 26 Aug 2026 18:15:00 +0000 — https://deadline.com/2026/08/youtube-not-a-villain-edinburgh-speech-pedro-pina-1237048999/
+### Youth Trailer: Sharon Horgan Is Searching For Sex Love In HBO Comedy: It s Just An Age Thing
+Thu, 27 Aug 2026 15:14:52 +0000 — https://deadline.com/2026/08/youth-trailer-sharon-horgan-hbo-comedy-1237060833/
 
-YouTube has a message for the television industry: We are a friend, not a foe. In a set-piece speech at the Edinburgh TV Festival on Wednesday, Pedro Pina, YouTube s vice president in EMEA, said the video-sharing platform is not a villain for the traditional broadcasting business. Pina also took aim at the UK government s plan [ ]
+Sharon Horgan s Alex is struggling with getting older as she searches for sex and love in HBO comedy Youth. It looks like it s arthritis in your lower jaw, Harriet Walter s character tells Alex at the beginning of the trailer. So what next, asks Alex. Or is this just the start of a general decline? It s [ ]
 
-### Evie Templeton Caylee Cowan Board Period Road Trip Drama I ll Go If You Go From Abby Tozer
-Wed, 26 Aug 2026 18:07:25 +0000 — https://deadline.com/2026/08/evie-templeton-caylee-cowan-to-star-ill-go-if-you-go-1237051382/
+### Peter Cullen Dies: Voice Of Optimus Prime In Transformers Was 85
+Thu, 27 Aug 2026 15:04:08 +0000 — https://deadline.com/2026/08/peter-cullen-dead-optimus-prime-transformers-1237060853/
 
-EXCLUSIVE: Evie Templeton (Wednesday) is set to lead the 60s-set road-trip drama I ll Go If You Go alongside Caylee Cowan (Casey Affleck s upcoming Company) and Larsen Thompson (Tarot). The film, marking the feature debut of writer-director Abby Tozer, begins production in Shreveport, Louisiana this fall. Set in 1967 West Texas, I ll Go If You Go follows Ellie Mansfield (Templeton), a young [ ]
+Peter Cullen, the Canadian voice actor who voiced Optimus Prime in the original 1980s Transformers animated series, later reprised the role in the film and TV franchises, voiced Eeyore in the Winnie the Pooh franchise and was the announcer for the Smothers Brothers TV show, among scores of others, has died. He was 85. His agent told Deadline that [ ]
 
-### Superman Sequel Man Of Tomorrow Wraps Filming: Truly A Joyful Experience
-Wed, 26 Aug 2026 18:03:53 +0000 — https://deadline.com/2026/08/superman-man-of-tomorrow-wraps-filming-1237051326/
+### Cercamon Boards John Trengove’s Toronto-Bound 1970s Apartheid Era Drama The Smell Of Apples ; Unveils Trailer
+Thu, 27 Aug 2026 15:04:04 +0000 — https://deadline.com/2026/08/cercamon-john-trengove-toronto-smell-apples-trailer-1237060762/
 
-James Gunn is sharing an update on the Superman sequel, Man of Tomorrow, as he marks the final day of principal photography. The DC Studios film, which is set for release on July 9, 2027, will have David Corenswet reprise his role as Clark Kent after this summer s Supergirl. That s a wrap on principal photography for Man of Tomorrow, [ ]
+EXCLUSIVE: Cercamon has acquired international sales rights to South African director and writer John Trengove’s Apartheid era drama The Smell of Apples and released a first trailer ahead of its world premiere in Toronto. Based on Mark Behr’s eponymous 1993 Booker Prize-nominated novel, the film follows a young boy growing up in a white utopia [ ]
 
-### The Pitt Star Noah Wyle Signs With WME
-Wed, 26 Aug 2026 17:49:10 +0000 — https://deadline.com/2026/08/the-pitt-noah-wyle-signs-wme-1237050577/
+### Samuel Monroe Jr. Dies: Menace II Society Actor Was 52
+Thu, 27 Aug 2026 14:56:12 +0000 — https://deadline.com/2026/08/samuel-monroe-jr-dead-1237060820/
 
-EXCLUSIVE: Emmy winner Noah Wyle, star, executive producer, writer and director on the HBO Max hit medical drama The Pitt, has signed with WME for representation. He is moving to WME from Verve where he had been for a little over two years. The agency change comes as Wyle is ramping up his company Last [ ]
+Samuel Monroe Jr., who made his acting debut in 1993 s Menace II Society and went on to appear in Tales from the Hood, The Players Club and various TV roles, died Wednesday, August 26, months after first battling a severe case of meningitis and MRSA pneumonia. He was 52. His mother Joyce Patton, announced his [ ]
 
-### Brad Pitt s Tarantino Character Follow-Up Film Gets Title: The Further Mis-Adventures Of Cliff Booth
-Wed, 26 Aug 2026 17:47:33 +0000 — https://deadline.com/2026/08/brad-pitt-the-further-mis-adventures-of-cliff-booth-netflix-1237051300/
+### CBS Plans Entertainment Tonight Primetime Special Paying Tribute To Dolly Parton
+Thu, 27 Aug 2026 14:46:00 +0000 — https://deadline.com/2026/08/cbs-news-dolly-parton-special-abc-news-1237050369/
 
-Brad Pitt is returning as Cliff Booth, his character from Once Upon a Time in Hollywood, and Netflix just revealed the title: The Further Mis-Adventures of Cliff Booth. Directed by David Fincher and written by Quentin Tarantino, the film will premiere in IMAX on November 25 for a two-week engagement, followed by its release on [ ]
+UPDATE: CBS is planning another special to pay tribute to Dolly Parton, with plans to air the Entertainment Tonight special Remembering Dolly: A Rhinestone Life on Sunday. Set to air at 8 p.m. ET, the special will be hosted by Kevin Frazier and Nischelle Turner. It will feature interviews from ET, including her first appearance [ ]
 
-### DAZN Acquiring EverPass Media In U.S. Expansion
-Wed, 26 Aug 2026 17:42:38 +0000 — https://deadline.com/2026/08/dazn-acquiring-everpass-media-nfl-sunday-ticket-commercial-rights-1237051214/
+### Delusional : Joyce Beatty s Attorneys React To Trump-Controlled Kennedy Center s Warning Of Potential Demolition
+Thu, 27 Aug 2026 14:28:58 +0000 — https://deadline.com/2026/08/trump-kennedy-center-name-demolition-1237060803/
 
-Global sports platform DAZN is acquiring EverPass, the three-year-old media tech company founded by RedBird Capital and NFL strategic investment arm 32 Equity that helps bring live sports and events to bars, restaurants, hotels and other commercial venues. Financial details weren’t disclosed. Gerry Cardinale’s RedBird, 32 Equity, and early EverPass investor TKO Group will become [ ]
+A federal judge is holding a hearing on Thursday on another challenge to the Kennedy Center s plans to add Donald Trump s name to the complex. On Wednesday evening, attorneys for Rep. Joyce Beatty (D-OH) reacted to the most recent filing by the center, in which they suggested that the complex may have to be torn [ ]
 
-### Big Brother: The Group Chat Sets Kate Lawler GK Barry As Hosts Of ITV2 s BBUK Companion Show
-Wed, 26 Aug 2026 17:17:34 +0000 — https://deadline.com/2026/08/big-brother-the-group-chat-kate-lawler-gk-barry-hosts-itv2-1237051280/
+### ‘Toy Story 5’ Lands Disney+ Streaming Date
+Thu, 27 Aug 2026 14:26:35 +0000 — https://deadline.com/2026/08/toy-story-5-disney-streaming-1237060830/
 
-ITV2 has confirmed that Big Brother UK legend Kate Lawler and podcast GK Barry will co-host Big Brother: The Group Chat. The new BBUK companion series will take over Big Brother: Late Live, which had been hosted by AJ Odudu and Will Best since the reality competition landed on ITV2 in 2023. Big Brother: [ ]
+Toy Story 5 will begin streaming on Disney+ on September 23. The Disney/Pixar feature opened on June 19 to a whopping $160 million, the best opening any movie has seen this year, the second-best opening ever for an animated film stateside behind Pixar’s own Incredibles 2 ($182.6M), and the third-best June has had following Universal’s [ ]
 
-### Rob Bonta Says It s Telling Meta Settled With State AGs In The Midst Of Instagram Head Adam Mosseri s Testimony Before Mark Zuckerberg Took The Stand
-Wed, 26 Aug 2026 17:10:19 +0000 — https://deadline.com/2026/08/meta-settlement-rob-bonta-instagram-facebook-1237051205/
+### Rosie O Donnell Joins Producing Team Of London-Bound Musical Indigo About Autistic Teenager
+Thu, 27 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/rosie-odonnell-indigo-london-theater-1237051838/
 
-California Attorney General Rob Bonta took a victory lap following a proposed settlement of up to $17 billion for claims brought by 51 attorneys general against Meta, suggesting that the parent of Instagram and Facebook realized that a trial was not going well for their side. As Bonta went through details of the settlement, including [ ]
+EXCLUSIVE: Rosie O Donnell, a longtime autism advocate, has joined the producing team of Indigo, a new original musical about an unconventional family as seen through the eyes of a non-speaking autistic teenager. O Donnell, who spoke candidly in her recent Off Broadway show Common Knowledge about parenting a a child on the autism spectrum, decided to [ ]
 
-### MGM Alternative’s Kitty Gambel Joins Skydance Sports
-Wed, 26 Aug 2026 17:07:48 +0000 — https://deadline.com/2026/08/mgm-alternative-kitty-gambel-skydance-sports-1237048977/
+### Emma Thompson s Nanny McPhee Musical Sets Summer 2027 London Debut
+Thu, 27 Aug 2026 13:59:47 +0000 — https://deadline.com/2026/08/emma-thompson-nanny-mcphee-musical-london-1237060796/
 
-EXCLUSIVE: Skydance Sports has a new SVP of Alternative Unscripted. The Paramount-owned company has hired Kitty Gambel, who was SVP, Unscripted and Alternative TV at Amazon’s MGM Alternative. Gambel joins the company on September 8 and will report to Skydance Sports’ Head of Unscripted Jon Weinbach. At MGM Alternative, Gambel was the creative lead, where [ ]
+The Nanny McPhee stage musical with a book by Emma Thompson, first revealed by Deadline back in 2024, will open in London in summer 2027. Based on the Universal Pictures/Working Title Nanny McPhee films, and the Nurse Matilda character by Christianna Brand and Edward Ardizzone that inspired them, the new musical will take the tale [ ]
 
-### James Gunn Gives DCU Update Amid Paramount-Warner Bros. Merger Debunks Batman s The Brave The Bold Report
-Wed, 26 Aug 2026 17:00:16 +0000 — https://deadline.com/2026/08/james-gunn-dcu-update-paramount-warner-bros-merger-batman-1237051222/
+### Prime Video Revs Up Doc Series About F1 Driver Lando Norris
+Thu, 27 Aug 2026 13:45:00 +0000 — https://deadline.com/2026/08/prime-video-lando-norris-doc-series-1237060764/
 
-James Gunn is clearing up several reports about DC Studios projects amid the Paramount-Warner Bros. merger. The merger of the two media companies is at a standstill, but that doesn t mean that development of superhero franchises at DC is on hold. Answering a fan query on Threads about the current status of DCU development projects, [ ]
+Prime Video is on the starting grid with a docu-series about Formula 1 driver Lando Norris. Lando (working title) is being billed as a a never-before-seen look at the current F1 World Champion: a man who is not only defending his crown but also giving unprecedented access to a more personal side of his life, [ ]
 
-### Sarah Pidgeon Joins Netflix s Enigma Variations Post- Love Story ; Peter Hermann, Juliana Canfield Francesca Cavallin Also Cast
-Wed, 26 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/sarah-pidgeon-netflix-enigma-variations-love-story-1237050650/
+### Acclaimed Pulitzer Finalist Here There Are Blueberries To Open On Broadway This Fall
+Thu, 27 Aug 2026 13:43:26 +0000 — https://deadline.com/2026/08/here-there-are-blueberries-broadway-debut-1237060798/
 
-EXCLUSIVE: In her followup to her Emmy-nominated role as Carolyn Bessette in FX s Love Story, Sarah Pidgeon has been tapped for the last remaining female lead opposite Aaron Taylor-Johnson in Netflix s limited series Enigma Variations. Also joining the adaptation of the bestselling novel by André Aciman are Younger star Peter Hermann, Pidgeon s fellow Tony-nominated Stereophonic [ ]
+Here There Are Blueberries, the acclaimed play and Pulitzer finalist by Moisés Kaufman and Amanda Gronich, will open on Broadway this fall for a strictly limited engagement, producers announced today. Conceived and directed by Kaufman, Here There Are Blueberries will begin previews on Monday, November 2 at the Barrymore Theatre in a co-production with La Jolla Playhouse. Opening night [ ]
 
