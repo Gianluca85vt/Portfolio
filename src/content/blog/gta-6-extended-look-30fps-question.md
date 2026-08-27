@@ -4,7 +4,6 @@ date: 2026-08-27
 category: Games
 cover: /img/blog/gta-6-extended-look-30fps-question/cover.jpg
 excerpt: Rockstar showed 27 minutes on a base PS5 and confirmed no frame rate. The number everyone is quoting is a deduction, and the reason behind it is the CPU.
-draft: true
 ---
 
 Rockstar put 27 minutes of Grand Theft Auto VI on Netflix at 3pm Eastern, six
