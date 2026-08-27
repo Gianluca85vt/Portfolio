@@ -4,7 +4,6 @@ date: 2026-08-27
 category: Games
 excerpt: Tarnished Edition arrives on Switch 2 on 28 August, a year after a Gamescom demo reportedly ran at around 15fps. Reviewers are noticing thinner foliage in Limgrave and the Altus Plateau, which is where an open world usually gives ground first.
 cover: /img/blog/elden-ring-switch-2-limgrave-grass-30fps/shot-01.jpg
-draft: true
 ---
 
 The grass is thinner.
