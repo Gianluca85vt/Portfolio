@@ -8,7 +8,7 @@ export const site = {
   name: 'Gianluca Scattarella',
   firstName: 'gianluca',
   role: '3D Environment & Technical Artist',
-  email: 'gianlucascattarella@gmail.com',
+  email: 'info@gianlucascattarella.it',
   tagline:
     'senior 3d environment & technical artist crafting high-impact digital worlds',
   // Served from the site root so the URL, the download and the label all read "Resume".
@@ -115,6 +115,9 @@ export const members = {
  */
 export const blog = {
   name: 'Backdrop',
+  // The masthead answers separately from the portfolio: corrections and
+  // partnership mail belong to the publication, not to the person's inbox.
+  email: 'press@gianlucascattarella.it',
   tagline: 'What made things cost to make',
   description:
     'Games, film, anime, 3D and the hardware underneath — read from the production side. What a decision cost, how a thing got built, and what a release tells you about the pipeline behind it.',
