@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Star Wars Zero Company review score 8.5">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#4A0F2A"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D6294E"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- tactical grid, seen from above -->
+  <g stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2">
+    <path d="M0 120H1200M0 240H1200M0 360H1200M0 480H1200M0 600H1200"/>
+    <path d="M120 0V900M240 0V900M360 0V900M480 0V900M600 0V900M720 0V900M840 0V900M960 0V900M1080 0V900"/>
+  </g>
+
+  <!-- a single highlighted cell, like a move target -->
+  <rect x="720" y="240" width="120" height="120" fill="#FFFFFF" fill-opacity="0.07"
+        stroke="#D6294E" stroke-opacity="0.55" stroke-width="3"/>
+
+  <g text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif">
+    <text x="600" y="150" font-size="30" letter-spacing="9" fill="#FFFFFF" fill-opacity="0.5"
+          font-family="Arial, Helvetica, sans-serif" font-weight="bold">STAR WARS ZERO COMPANY</text>
+
+    <text x="600" y="410" font-size="230" font-weight="900" fill="#FFFFFF">8.5</text>
+
+    <text x="600" y="478" font-size="33" fill="#FFFFFF" fill-opacity="0.45"
+          font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+      SIX VERDICTS · 87 ON OPENCRITIC FROM 19
+    </text>
+  </g>
+
+  <rect x="510" y="528" width="180" height="8" rx="4" fill="url(#accent)"/>
+</svg>
