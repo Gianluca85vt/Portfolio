@@ -84,8 +84,11 @@ const jsonLd = {
 };
 ---
 
+<!-- The title carries no masthead suffix. Google shows the site name beside
+     the result on its own now, so appending it repeated the same words while
+     eating eleven of the sixty characters a result actually displays. -->
 <Base
-  title={`${entry.data.title} — ${blog.name}`}
+  title={entry.data.title}
   description={entry.data.excerpt ?? entry.data.title}
   image={cover}
   type="article"

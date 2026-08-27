@@ -336,26 +336,49 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
 
   return (
     <>
-      <section className="px-4 sm:px-6 md:px-8 pt-9 sm:pt-12">
+      {/* The masthead reads as a publication rather than as a page heading:
+          the name at display size, a rule under it, and a standfirst that says
+          what the reading angle is. A visitor arriving from search on a single
+          article should be able to tell in one line what the rest of the site
+          is for. */}
+      <section className="px-4 sm:px-6 md:px-8 pt-12 sm:pt-16">
         <div className="max-w-[1180px] mx-auto">
           <FadeIn
-            as="h1"
+            as="p"
             delay={0}
-            y={18}
-            className="font-black uppercase leading-none tracking-tight"
-            style={{ fontSize: 'clamp(2rem, 5vw, 3.4rem)' }}
+            y={10}
+            className="font-medium uppercase tracking-[0.32em] text-[0.62rem] text-[#D7E2EA]/35"
+          >
+            Written by Gianluca Scattarella
+          </FadeIn>
+
+          <FadeIn
+            as="h1"
+            delay={0.05}
+            y={20}
+            className="font-black uppercase leading-[0.86] tracking-[-0.03em] mt-3"
+            style={{ fontSize: 'clamp(3.2rem, 12vw, 8rem)' }}
           >
             <GlowText text="Backdrop" charClassName="hero-heading" />
           </FadeIn>
 
           <FadeIn
-            as="p"
-            delay={0.07}
+            delay={0.1}
             y={14}
-            className="text-[#D7E2EA]/45 font-light leading-relaxed max-w-[560px] mt-2.5 text-[0.88rem]"
+            className="mt-5 sm:mt-6 pt-5 sm:pt-6 border-t"
+            style={{ borderColor: 'rgba(215,226,234,0.16)' }}
           >
-            Games, film, anime, 3D and the hardware underneath, read from the
-            production side. What a decision cost, and who paid for it.
+            <p
+              className="font-light leading-[1.35] max-w-[720px] text-[#D7E2EA]/75"
+              style={{ fontSize: 'clamp(1.05rem, 2.2vw, 1.5rem)' }}
+            >
+              Everything you watch and play was built by someone, on a budget,
+              against a deadline.
+            </p>
+            <p className="text-[#D7E2EA]/40 font-light leading-relaxed max-w-[620px] mt-3 text-[0.9rem]">
+              Games, film, anime, 3D and the hardware underneath — read from the
+              production side. What a decision cost, and who paid for it.
+            </p>
           </FadeIn>
 
           {filters.length > 1 ? (
