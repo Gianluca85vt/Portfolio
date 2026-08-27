@@ -83,6 +83,20 @@ jobs:
             exit 0
           fi
 
+          # Anything in this push that is NOT a draft has just gone live, so
+          # tell Bing directly rather than waiting for it to come round. A
+          # sitemap says "there is something here"; this says "read this now".
+          live=""
+          for file in $changed; do
+            if ! grep -q '^draft: true' "$file"; then
+              slug=$(basename "$file" .md)
+              live="$live https://www.gianlucascattarella.it/blog/$slug/"
+            fi
+          done
+          if [ -n "$live" ]; then
+            node scripts/indexnow.mjs $live || echo "::warning::IndexNow call failed, continuing"
+          fi
+
           for file in $changed; do
             # Only unpublished drafts are announced. Publishing removes this
             # line, so approving a piece never mails about it again.
