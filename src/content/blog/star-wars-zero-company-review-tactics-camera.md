@@ -2,7 +2,7 @@
 title: Zero Company makes a top-down tactics camera look like a Respawn Star Wars game
 date: 2026-08-27
 category: Games
-cover: /img/blog/star-wars-zero-company-review-tactics-camera/cover.svg
+cover: /img/blog/star-wars-zero-company-review-tactics-camera/shot-01.jpg
 reviewOf: STAR WARS Zero Company
 score: 8.5
 scoreSources:
