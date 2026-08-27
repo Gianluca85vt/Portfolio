@@ -118,6 +118,9 @@ export const blog = {
   // The masthead answers separately from the portfolio: corrections and
   // partnership mail belong to the publication, not to the person's inbox.
   email: 'press@gianlucascattarella.it',
+  // The Facebook Page, not the personal profile in `socials` — a Page is what
+  // readers can follow, and the only one the Graph API can ever post to.
+  facebook: 'https://www.facebook.com/monkey85art',
   tagline: 'What made things cost to make',
   description:
     'Games, film, anime, 3D and the hardware underneath — read from the production side. What a decision cost, how a thing got built, and what a release tells you about the pipeline behind it.',

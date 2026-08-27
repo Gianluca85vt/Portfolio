@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import HomePage from '../components/HomePage';
 import SiteDisclaimer from '../components/SiteDisclaimer.astro';
-import { site, socials } from '../data/portfolio';
+import { blog, site, socials } from '../data/portfolio';
 
 const title = 'Gianluca Scattarella — 3D Environment & Technical Artist';
 const description =
@@ -29,7 +29,7 @@ const jsonLd = {
   url: site.url,
   email: `mailto:${site.email}`,
   image: new URL('/img/me/avatar-3d.png', site.url).href,
-  sameAs: socials.map((s) => s.href),
+  sameAs: [...socials.map((s) => s.href), blog.facebook],
   knowsAbout: [
     '3D environment art',
     'Unreal Engine 5',

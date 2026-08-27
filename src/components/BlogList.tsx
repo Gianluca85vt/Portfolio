@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react';
 import FadeIn from './ui/FadeIn';
 import GlowText from './ui/GlowText';
-import { blogCategories, categoryColors } from '../data/portfolio';
+import { Facebook } from 'lucide-react';
+import { blog, blogCategories, categoryColors } from '../data/portfolio';
 import type { BlogCategory } from '../data/portfolio';
 
 export type PostCard = {
@@ -379,6 +380,20 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
               Games, film, anime, 3D and the hardware underneath — read from the
               production side. What a decision cost, and who paid for it.
             </p>
+          </FadeIn>
+
+          {/* The Page, not the personal profile the portfolio links to: this is
+              the one a reader can follow without asking to be a friend. */}
+          <FadeIn delay={0.11} y={12} className="mt-5 sm:mt-6">
+            <a
+              href={blog.facebook}
+              target="_blank"
+              rel="noreferrer"
+              className="inline-flex items-center gap-2 text-[#D7E2EA]/45 hover:text-[#D7E2EA] transition-colors duration-300 font-medium uppercase tracking-[0.14em] text-[0.7rem]"
+            >
+              <Facebook className="w-[0.95rem] h-[0.95rem]" strokeWidth={1.7} aria-hidden="true" />
+              Follow on Facebook
+            </a>
           </FadeIn>
 
           {filters.length > 1 ? (
