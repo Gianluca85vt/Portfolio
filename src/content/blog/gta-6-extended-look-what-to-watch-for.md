@@ -2,7 +2,7 @@
 title: "GTA 6 Extended Look: times, and what to watch for"
 date: 2026-08-27
 category: Games
-cover: /img/blog/gta-6-extended-look-what-to-watch-for/cover.svg
+cover: /img/blog/gta-6-extended-look-what-to-watch-for/cover.jpg
 excerpt: Netflix at 3pm ET, YouTube six hours later, thirty minutes captured in-game on PS5. Four things to look for that a curated trailer usually hides.
 ---
 
@@ -28,6 +28,11 @@ allowed. So the usual channels will be running it live tonight with someone
 talking over the top, which for once is the format Rockstar wants.
 
 The game itself is dated 19 November 2026, on PS5 and Xbox Series X|S.
+
+<figure>
+  <img src="/img/blog/gta-6-extended-look-what-to-watch-for/shot-01.jpg" loading="lazy" width="1440" height="756" alt="Grand Theft Auto VI key art: a collage of characters, vehicles and Leonida scenes around the VI logo" />
+  <figcaption>The game's key art. Rockstar Games, from the official Grand Theft Auto VI page.</figcaption>
+</figure>
 
 ## The phrase in the fine print
 
