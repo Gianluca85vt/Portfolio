@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Elden Ring on Switch 2: from 15fps to 30fps">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="58%" stop-color="#3A0B2C"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D6294E"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- grass, dense on the left, thinning to the right -->
+  <g stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M40 700q6-46 22-72M74 704q-4-50 8-78M108 702q10-42 26-66M140 706q-6-48 6-74M176 700q8-44 24-70M210 704q-5-46 7-72M248 702q9-40 25-64M284 706q-6-44 6-70M324 700q8-42 24-66M364 704q-5-44 7-68M408 702q9-38 25-60M454 706q-6-42 6-66M504 700q8-40 24-62M558 704q-5-40 7-64M616 702q9-36 25-58M680 706q-6-38 6-62M752 700q8-36 24-58M832 704q-5-34 7-56M920 702q9-32 25-52M1020 706q-6-32 6-54M1130 700q8-30 24-48"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="600" y="150" font-size="32" letter-spacing="9" font-weight="bold"
+          fill="#FFFFFF" fill-opacity="0.5">ELDEN RING ON SWITCH 2</text>
+
+    <text x="600" y="400" font-size="180" font-weight="900"
+          font-family="Arial Black, Arial, Helvetica, sans-serif" fill="#FFFFFF">15 &#8594; 30</text>
+
+    <text x="600" y="472" font-size="34" font-weight="bold" fill="#FFFFFF" fill-opacity="0.5">
+      FPS, AND A YEAR OF TAKING THINGS OUT
+    </text>
+  </g>
+
+  <rect x="500" y="524" width="200" height="8" rx="4" fill="url(#accent)"/>
+</svg>
