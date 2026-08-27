@@ -13,7 +13,6 @@ scoreSources:
   - { outlet: VGC, score: 8 }
   - { outlet: Shacknews, score: 7 }
 excerpt: EA and Lucasfilm's Clone Wars tactics game landed today at 87 on OpenCritic from nineteen critics. The six outlet scores I could verify average 8.5. Almost every one of them praises the presentation and flags the texture pop-in, which is one problem wearing two faces.
-draft: true
 ---
 
 The camera sits about twenty metres up, angled down, far enough back that you
