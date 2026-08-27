@@ -1,0 +1,28 @@
+name: Social — check the Meta credentials
+
+# Manual only, and read-only. Confirms the three secrets point at the right
+# Page and the right Instagram account, and that the token is the permanent
+# kind, without posting anything anywhere.
+#
+# Worth running once now, and again the first time a post fails for no obvious
+# reason.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Ask Meta who these credentials belong to
+        env:
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+        run: node scripts/social-check.mjs
