@@ -4,7 +4,6 @@ date: 2026-08-28
 category: Tech
 excerpt: Samsung's 1,100Hz Odyssey G6 only reaches that number at 720p. Its QHD mode moves more than twice as many pixels a second, so throughput is not the ceiling.
 cover: /img/blog/samsung-odyssey-g6-1100hz-720p/cover.svg
-draft: true
 ---
 
 Do the multiplication first, because nobody covering this has.
