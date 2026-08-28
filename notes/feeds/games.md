@@ -1,68 +1,78 @@
-# Games — harvested 2026-08-27T15:30:30.805Z
+# Games — harvested 2026-08-28T01:08:08.505Z
 
 ## Eurogamer
+
+### GTA 6's map is so massive, you could fit two GTA 5s in it - and we know roughly how long it'll take to beat too
+Thu, 27 Aug 2026 21:37:19 +0000 — https://www.eurogamer.net/gta-6-map-size-length-how-big-revealed
+
+As part of its massive GTA 6 info blowout , Rockstar has been talking sizes - both of the map kind and length kind - confirming its latest open-world epic unfolds across a world that's twice as big as that of GTA 5 , and should take around 80 hours to complete. Read more
+
+### Twitch suffers major outage following Grand Theft Auto 6's extended look gameplay trailer premiere
+Thu, 27 Aug 2026 21:10:45 +0000 — https://www.eurogamer.net/twitch-down-outage-grand-theft-auto-6
+
+Popular livestreaming platform Twitch suffered a major outage soon after the premiere of the Grand Theft Auto 6 extended look on Netflix . Read more
+
+### GTA 6 has more than 10 times the animations in GTA 5, and double the amount in Red Dead Redemption 2, Rockstar confirms
+Thu, 27 Aug 2026 21:07:47 +0000 — https://www.eurogamer.net/gta-6-has-more-than-10-times-the-animations-in-gta-5-and-double-the-amount-in-red-dead-redemption-2-rockstar-confirms
+
+Everyone was expecting GTA 6 to be massive, sure, but comparing the amount of unique animations in the game to what was included in Rockstar Games ' previous work really puts things into perspective. Read more
+
+### GTA 6: This is what a billion dollars gets you
+Thu, 27 Aug 2026 21:05:44 +0000 — https://www.eurogamer.net/gta-6-reaction-this-is-what-a-billion-dollars-gets-you
+
+There are plenty of layers to GTA 6 , if the game's 26-minute Netflix teaser is anything to go by. Read more
+
+### GTA 6's apparent shift towards awkward ultra-realism is a huge risk - and that's exactly why it's the right thing to do
+Thu, 27 Aug 2026 20:08:46 +0000 — https://www.eurogamer.net/gta-6-shift-towards-realism-rockstar-taking-huge-risk
+
+Scrabble together all the various, disparate nuggets of information released about Grand Theft Auto 6 since its big Netflix premiere, and you might spot a pattern emerging: Rockstar is going full, Red Dead Redemption 2 -style realism with GTA 6. In fact it sounds like it's going even further. Forget the breezy, plug-and-play, occasionally almost brainless action of previous GTAs, where you could steal any car in sight and mow down crowds of bumbling, shrieking NPCs with abandon. Forget the game you play half-blazed at 3am, or illicitly but easily aged 12, or simply on autopilot to casually unwind from everyday life. GTA 6 sounds like it's shooting for real life itself. In fact it might actually be so real that at times it's downright awkward. Read more
+
+### Every activity we've spotted in GTA 6's extended look trailer and previews so far
+Thu, 27 Aug 2026 19:46:00 +0000 — https://www.eurogamer.net/gta-6-activities-things-to-do-spotted-so-far
+
+Anyone who played a Grand Theft Auto game before will tell you that a lot of the fun comes from everything you can do outside of scripted story sequences. GTA 6 looks to offer a wide range of things to do in Leonida that don't include shooting people or driving recklessly. Read more
+
+### GTA 6's Netflix trailer premiere was so popular it temporarily crashed the streaming service
+Thu, 27 Aug 2026 19:31:17 +0000 — https://www.eurogamer.net/grand-theft-auto-6-netflix-something-went-wrong
+
+Those eager to see GTA 6 's big Netflix reveal this evening were met with a "Something Went Wrong" message at the moment the video was meant to go live, with the rush to see Rockstar's latest open-world epic seemingly bringing the streaming service to its knees. Read more
+
+### GTA 6 has a relationship system, and it sounds as though you can make-or-break Jason and Lucia's romance
+Thu, 27 Aug 2026 19:27:26 +0000 — https://www.eurogamer.net/gta-6-romance-relationship-system-jason-lucia
+
+Rockstar has revealed a relationship system in Grand Theft Auto 6 , to underpin and support the bond between co-protagonists and lovers Jason and Lucia. Using this system you can nurture their bond, bringing them closer together, or neglect it, potentially leading to what sounds like a split somewhere down the line. Read more
+
+### GTA 6's driving and car-jacking will be "more challenging", Rockstar says, amid a seemingly big push for realism
+Thu, 27 Aug 2026 19:22:10 +0000 — https://www.eurogamer.net/gta-6-driving-car-theft-more-challenging-rockstar-realism-push
+
+Two of the Grand Theft Auto series' most prominent, interweaving systems - stealing cars and driving them - are set to get a major change in Grand Theft Auto 6 , as developer Rockstar has said the pick-up-and-play systems are now going to be "more challenging" than they've been before. Read more
+
+### GTA 6 is revamping the Wanted system and giving you a Criminal Profile
+Thu, 27 Aug 2026 19:16:54 +0000 — https://www.eurogamer.net/gta-6-revamping-wanted-system-adding-criminal-profiles
+
+There's perhaps no gameplay feature that's more synonyms with Grand Theft Auto than the series' Wanted system. But like many of the mechanics that underpin the core of the series, it seems, the Wanted system in GTA 6 has evolved in significant ways. Read more
+
+### The massive GTA 6 leaks might be done for good as Cyberleek cashes out nearly £200,000 from their crypto scheme
+Thu, 27 Aug 2026 19:12:47 +0000 — https://www.eurogamer.net/gta-6-leaker-cashes-out--cyberleek-crypto-scheme
+
+Mere hours before Rockstar Games revealed GTA 6 footage on its own terms, the hacker - or hacking group - behind the open-world game's massive leaks has pulled about $270,000 (or almost &pound;200,000) out of their crypto scheme. Read more
 
 ### GTA 6 Netflix extended look live report - all the gameplay and revelations from Rockstar's Grand Theft Auto 6 premiere
 Thu, 27 Aug 2026 14:03:38 +0000 — https://www.eurogamer.net/gta-6-extended-look-netflix-live-report
 
 Tonight we'll get probably our best look at Grand Theft Auto 6 yet, as Rockstar's 'extended look' trailer airs exclusively on Netflix. We'll be watching it live and reporting on everything we see, here, in this article. Read more
 
-### "All of the industry needs to start to innovate on affordability and efficiency" - Xbox's Asha Sharma wants change and "more choice" for people buying consoles
-Thu, 27 Aug 2026 11:16:24 +0000 — https://www.eurogamer.net/xbox-console-affordability-price-asha-sharma
-
-As component prices balloon, the expectation Microsoft will take a different tack with the next generation of consoles has been reinforced by Xbox boss Asha Sharma, who has declared that "all of the industry needs to start to innovate on affordability and efficiency". Read more
-
-### Xbox announces disc-to-digital feature that lets you digitise physical Xbox One and Series X games
-Thu, 27 Aug 2026 10:03:57 +0000 — https://www.eurogamer.net/xbox-disc-to-digital-one-series-x-details
-
-UPDATE 11.25AM BST : Xbox CEO Asha Sharma shed a little more light on the feature in a BBC interview. The gaming chief said 1,000 titles will be initially supported across Xbox One and Series X. The interview also clarified the point about transfer of the digital license, confirming it does indeed move with the disc, allowing the next owner to take advantage of the same disc-to-digital feature. Read more
-
-### GTA 6 gameplay details revealed in new preview, including seamless character switching, playing as a couple and more
-Thu, 27 Aug 2026 09:51:21 +0000 — https://www.eurogamer.net/gta-6-character-switching-reactive-world-jason-lucia-romance
-
-Grand Theft Auto 6 day has kicked off a little early. While everyone waits for the game's Netflix extended look , new information has emerged from something of an unlikely source. Read more
-
-### GTA 6 officially has character weight and exercise systems, and even "multi-day benders" reportedly have a visible effect
-Thu, 27 Aug 2026 09:40:01 +0000 — https://www.eurogamer.net/gta-6-food-weight-exercise-benders
-
-Official Grand Theft Auto 6 coverage is starting to appear ahead of today's Netflix 'extended look' premiere , and with it comes confirmation that eating and exercising and even going on "multi-day benders" can visibly affect the look of your characters. Read more
-
-### Rockstar set up a special GTA 6 team in Miami to meet with "ex-criminals, law enforcement, club promoters, gun dealers and anyone notorious or influential"
-Thu, 27 Aug 2026 09:37:16 +0000 — https://www.eurogamer.net/gta-6-rockstar-miami-research-team-ex-criminals-gun-dealers
-
-Rockstar went to some great lengths for its Grand Theft Auto 6 research, it seems, as the studio has said it sent multiple teams of developers to Miami as well as embedding a team there longer-term for research. Read more
-
-### Dark Souls meets Weird West in Guns of Eschaton, and it's a refreshing FPS shake-up for the well-worn formula - even if it's a bit bloody hard
-Wed, 26 Aug 2026 18:30:00 +0000 — https://www.eurogamer.net/guns-of-eschaton-preview
-
-Look, I'll level with you: I was rubbish at Guns of Eschaton during my recent hands-on time. There are some very obvious reasons for that - it's a hard game that doesn't currently especially explain itself very well, for one. But it's a distinct enough riff on the familiar Soulslike formula, classic campfire respawns here mingling with Weird West-inspired first-person shooting, that it just takes a bit of getting used to. Read more
-
-### Resonance: A Plague Tale Legacy review
-Wed, 26 Aug 2026 16:00:00 +0000 — https://www.eurogamer.net/resonance-a-plague-tale-legacy-review
-
-Putting 'legacy' in the title of your game naturally encourages considerations about what that legacy might be &ndash; and that, in turn, invites thoughts about its identity. (And perhaps 'supremacy' and 'ultimatum' if you're a big Jason Bourne fan.) It might sound silly to say of a game with some of the most impressive faces and places you'll see this &ndash; or any &ndash; year. But to me, A Plague Tale is spiritually double-A, and I absolutely mean that as a compliment. I find myself instinctively rooting for this series: there is still something of a scrappy outsider quality to it, even as the credits list appears to lengthen with each release. Maybe it's partly because Asobo doesn't have the budget or personnel of games from Sony or Microsoft's first-party stables &ndash; or any of the other megapublishers, for that matter. But it's mostly because it features the kind of design and narrative choices I sense would be sanded down or cut entirely from the bigger-budget crowd it clearly wants to hang out with. Read more
-
-### Elden Ring plays much better than I'd expected on Switch 2, but it isn't without its flaws
-Wed, 26 Aug 2026 14:00:00 +0000 — https://www.eurogamer.net/elden-ring-tarnished-edition-switch-2-impressions-performance
-
-The power of the Nintendo Switch 2 definitely knows its bounds, but that hasn't stopped Nintendo and its fellow publishers from trying to push the handheld device to its limits by porting some of the more demanding and gargantuan of games to the console. The release of Elden Ring : Tarnished Edition is one example of that ambition. I've only been able to spend about ten hours with it so far, which saw me clearing out Weeping Peninsula, Stormveil Castle, and Liurnia of the Lakes before moving onto the treacherous place that is Caelid. This means I'm yet to explore the portion of the game whose performance I'm most curious about &ndash; the DLC's Realm of Shadow &ndash; but more on that shortly. (This is your spoiler warning for the DLC's ending, as I'll be discussing that below.) Read more
-
-### Fool's Theory explains where The Witcher 3's expansion region Letten actually is, and it's close to the setting of The Witcher 4
-Wed, 26 Aug 2026 13:31:06 +0000 — https://www.eurogamer.net/witcher-3-songs-of-past-letten-location-map
-
-CD Projekt Red properly revealed new Witcher 3 expansion Songs of the Past yesterday during Opening Night Live, confirming the new playable location as Letten, the place Geralt's best friend bard pal Dandelion comes from. But where exactly is Letten on the map? It's bloody hard to find. Read more
-
-### State of Decay 3 lives on after studio's separation from Xbox, with a closed beta promised for this year
-Wed, 26 Aug 2026 12:45:30 +0000 — https://www.eurogamer.net/state-of-decay-3-lives-on-after-studios-separation-from-xbox-with-a-closed-beta-promised-for-this-year
-
-Undead Labs has announced that a closed State of Decay 3 beta is coming sometime in 2026, weeks after the studio separated from Xbox. Read more
-
-### Hugely anticipated anime RPG Ananta gets a January release date, as pre-registrations hit a whopping 17m sign-ups
-Wed, 26 Aug 2026 12:40:06 +0000 — https://www.eurogamer.net/anime-rpg-ananta-release-date-january-pre-registrations
-
-Ananta , the free-to-play open-world game that looks a whole lot like Grand Theft Auto's urban sandbox got an anime makeover, finally has a release date. Read more
-
 ## GamesIndustry.biz
+
+### Grand Theft Auto 6 30-minute teaser debuts on Netflix
+Thu, 27 Aug 2026 19:33:45 +0000 — https://www.gamesindustry.biz/grand-theft-auto-6-30-minute-teaser-debuts-on-netflix
+
+Take-Two Interactive and Rockstar Games' Grand Theft Auto 6 extended gameplay debut is now live on Netflix . Read more
+
+### Playdate maker Panic refunds tariff surcharges to customers
+Thu, 27 Aug 2026 18:26:08 +0000 — https://www.gamesindustry.biz/playdate-maker-panic-refunds-tariff-surcharges-to-customers
+
+Playdate maker Panic is refunding tariff surcharges to customers after receiving its own refund from the US government after the Supreme Court ruled that President Trump's tariffs were an unlawful use of emergency powers. Read more
 
 ### European games industry revenue reached €30bn in 2025
 Thu, 27 Aug 2026 13:39:30 +0000 — https://www.gamesindustry.biz/european-games-industry-revenue-reached-30bn-in-2025
@@ -114,21 +124,31 @@ Wed, 26 Aug 2026 16:17:59 +0000 — https://www.gamesindustry.biz/xbox-to-let-in
 
 Xbox will let Xbox Insiders begin testing a disc-to-digital feature from August 31, letting owners of supported physical games unlock a digital entitlement for the same title. Read more
 
-### Ubisoft announces playstest platform The Player Council
-Wed, 26 Aug 2026 13:30:00 +0000 — https://www.gamesindustry.biz/ubisoft-announces-playstest-platform-the-player-council
-
-Ubisoft has announced the soft launch of The Player Council, a platform where players can test games and give feedback directly to developers. Read more
-
-### Rockstar responds to GTA 6 leaks – "This is obviously not how we intended for you to see the game after all this time"
-Wed, 26 Aug 2026 12:57:20 +0000 — https://www.gamesindustry.biz/rockstar-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time
-
-Rockstar Games has issued a statement regarding the recent leaks of Grand Theft Auto 6. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Watch GTA 6 Extended Look Here - 17 Things We ve Learned
+Fri, 28 Aug 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned
+
+Get all the new GTA 6 details and images here. Years in the making, our first look at GTA 6 gameplay is available now... on Netflix. As the video is behind a subscription service's paywall, we cannot host it here on the site just yet. There's a six-hour exclusivity window, and the deep dive will be uploaded to YouTube later. Here's when the GTA 6 Extended Look will be live on YouTube:<time>9PM EDT 27th Aug 2026</time> Read the full article on pushsquare.com
+
+### GTA 6 Targeting 30fps on PS5, Undecided on Performance Mode
+Thu, 27 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-targeting-30fps-on-ps5-undecided-on-performance-mode
+
+Not surprising really. GTA 6 is targeting 30fps on PS5 right now, with Rockstar uncertain whether it’ll add a Performance Mode later. That’s likely to include the PS5 Pro by the way, which has a beefier GPU than its base counterpart, but is unlikely to pack enough CPU power to double the frame rate. Read the full article on pushsquare.com
+
+### Poll: Are You Sold on GTA 6?
+Thu, 27 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-sold-on-gta-6
+
+Day one? So, it finally happened: we've seen GTA 6 in action. Well, not all of us have, thanks to the gameplay being exclusive to Netflix for six hours; if you're yet to catch the footage yourself, feel free to revisit this poll once you're up to speed. Read the full article on pushsquare.com
+
+### Godfall Dev s Single Player Action Shooter Armatus Takes Aim at January Release Date on PS5
+Thu, 27 Aug 2026 17:15:00 GMT — https://www.pushsquare.com/news/2026/08/godfall-devs-single-player-action-shooter-armatus-takes-aim-at-january-release-date-on-ps5
+
+Lock and load. Armatus now has a confirmed launch date, having previously promised a vague 'winter' window. The cool-looking action shooter will release for PS5 on the 7th January, adding to what's quickly becoming a very hectic first few months of the year for Sony's system. Read the full article on pushsquare.com
 
 ### Stuntman: Hollywood Welcomes You to Jurassic World in Latest Trailer
 Thu, 27 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/stuntman-hollywood-welcomes-you-to-jurassic-world-in-latest-trailer
@@ -170,27 +190,17 @@ Thu, 27 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/dragon
 
 The big one. Capcom has long promised a major update for Dragon's Dogma 2 , dropping ahead of its Dark Arisen expansion on the 9th October. Previously, this patch was scheduled for late August, but the developer's now confirmed that it'll be arriving a little late, on the 1st or 2nd of September depending on your timezone. Read the full article on pushsquare.com
 
-### Guide: GTA 6 Netflix Extended Look: When and How to Watch
-Thu, 27 Aug 2026 09:00:00 GMT — https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch
-
-Dates, times, and all you need to know. GTA 6 is on the horizon, but before it makes its long-awaited debut on 19th November 2026, Rockstar Games is treating us to what it calls an Extended Look — and it's available first on Netflix. Though we don't know exactly what it'll entail, it's expected this will be our biggest and best way to see the highly anticipated game in action before it launches. Read the full article on pushsquare.com
-
-### 7 PS5 Trailers Worth Watching from the Future Games Show at Gamescom 2026
-Wed, 26 Aug 2026 22:00:00 GMT — https://www.pushsquare.com/news/2026/08/7-ps5-trailers-worth-watching-from-the-future-games-show-at-gamescom-2026
-
-May as well. We live in a world where E3 is dead and approximately four billion different weekly livestreams have appeared in its place. Seriously, at what point are there too many of these things? Read the full article on pushsquare.com
-
-### 6 New GTA 6 Facts I Learned Ahead of Its Netflix First Look
-Wed, 26 Aug 2026 20:30:00 GMT — https://www.pushsquare.com/news/2026/08/6-new-gta-6-facts-i-learned-ahead-of-its-netflix-first-look
-
-Weight! Decisions! Social media! In just a few short hours, we’ll have seen GTA 6 gameplay – and not the kind uploaded unscrupulously by an anthropomorphic, crypto currency obsessed leek. But in the hours prior to Rockstar’s big Netflix coming out party, glossy magazine Dazed has an exclusive behind-the-scenes on the biggest PS5 game to date. Read the full article on pushsquare.com
-
-### Crazy Taxi: World Tour Makes a Stop in Germany, as Series Goes Global on PS5
-Wed, 26 Aug 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/08/crazy-taxi-world-tour-makes-a-stop-in-germany-as-series-goes-global-on-ps5
-
-Guten tag. The clue was in the name really, wasn’t it? Crazy Taxi: World Tour is officially going global, as the new PS5 game makes a stop in Germany, the first of a series of international announcements planned for the reboot. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### How you (yes, you) can benefit from 1-on-1 synchronous playtesting
+Thu, 27 Aug 2026 16:48:40 GMT — https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting
+
+In his 2026 GDC Festival of Gaming talk, designer Brian Cronin makes the case for one-on-one playtesting.
+
+### CD Projekt Red has The Witcher 4 running on all target platforms after Cyberpunk 2077 lesson
+Thu, 27 Aug 2026 16:41:50 GMT — https://www.gamedeveloper.com/production/cd-projekt-red-has-the-witcher-4-running-on-all-target-platforms-after-cyberpunk-2077-lesson
+
+Game Developer spoke to CD Projekt Red co-CEO Michal Nowakowski.
 
 ### Saber exec: The game industry must look beyond North America and dilute risk
 Thu, 27 Aug 2026 15:00:00 GMT — https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-look-beyond-north-america-and-dilute-risk
@@ -241,9 +251,4 @@ The program led by Creative Enterprise, which is part of Creative UK, is funded 
 Wed, 26 Aug 2026 15:50:50 GMT — https://www.gamedeveloper.com/business/ubisoft-debuts-player-council-platform-to-expand-early-game-development-feedback
 
 Player Council members will be invited to test 'early concepts, prototypes, and live experiences.'
-
-### Riot Games is winding down 2XKO active development in December
-Tue, 25 Aug 2026 17:01:51 GMT — https://www.gamedeveloper.com/business/riot-games-is-winding-down-fighter-2xko-in-december-2026
-
-Riot says it hasn't seen 'enough players stick with the game to get to a path toward sustainability.'
 

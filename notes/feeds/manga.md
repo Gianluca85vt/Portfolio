@@ -1,6 +1,56 @@
-# Manga — harvested 2026-08-27T15:30:30.805Z
+# Manga — harvested 2026-08-28T01:08:08.505Z
 
 ## Anime News Network
+
+### Yukino Sonoyama's Bless Manga Gets Live-Action Show on Amazon Prime Globally
+Thu, 27 Aug 2026 20:44:55 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/yukino-sonoyama-bless-manga-gets-live-action-show-on-amazon-prime-globally/.241061
+
+Naniwa Danshi idol Ryusei Onishi stars in fashion story with assistance by Shiseido
+
+### The Margrave's Daughter & the Enemy Prince Manga Ends, Gets Side Story
+Thu, 27 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/the-margrave-daughter-and-the-enemy-prince-manga-ends-gets-side-story/.241020
+
+Side story to focus on Iris
+
+### Shuu Katayama's Fujōri Zakkaten Unreal Manga Ends
+Thu, 27 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/shuu-katayama-fujori-zakkaten-unreal-manga-ends/.241021
+
+Series debuted in June 2022
+
+### Junket Bank TV Anime Premieres on October 5
+Thu, 27 Aug 2026 14:50:32 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-08-27/junket-bank-tv-anime-premieres-on-october-5/.241057
+
+The official website for the television anime of Ikkō Tanaka's Junket Bank manga announced on Thursday that the anime will premiere on TV Tokyo on October...
+
+### Fatal Fury City of the Wolves Game's New Animated Trailer by Masami Ōbari Highlights Duck King
+Thu, 27 Aug 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/fatal-fury-city-of-the-wolves-game-new-animated-trailer-by-masami-obari-highlights-duck-king/.241056
+
+Duck King launched in game on Thursday
+
+### We Are Aliens Film's Trailer Highlights Heisei Era
+Thu, 27 Aug 2026 13:01:07 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/we-are-aliens-film-trailer-highlights-heisei-era/.241054
+
+Kōhei Kadowaki, NOTHING NEW's film opens in Japan on September 25
+
+### Transformers' Optimus Prime Voice Actor Peter Cullen Dies at 85
+Thu, 27 Aug 2026 12:26:57 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/transformers-optimus-prime-voice-actor-peter-cullen-dies-at-85/.241052
+
+Cullen also voiced Eeyore, Monterey Jack, Mario, Toonami announcer, <cite>IGPX</cite> narrator
+
+### Blue Box Volumes 5-8 Manga Review
+Thu, 27 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/blue-box-volumes-5-8/manga/.240642
+
+Taiki makes it clear multiple times that his feelings will not waver, and the problem is that I believe him.
+
+### KPEX: Korean Pop Culture Expo to Launch in New York City in 2027
+Thu, 27 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/kpex-korean-pop-culture-expo-to-launch-in-new-york-city-in-2027/.241032
+
+Leaders of event include: Greg Topalian, co-creator of New York Comic Con; Robert Khoo, co-creator of PAX; Peter Tatara, founder of Anime NYC
+
+### My Crush's Crush Manga Gets TV Anime
+Thu, 27 Aug 2026 11:40:47 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/my-crush-crush-manga-gets-tv-anime/.241053
+
+Sekina Aoi, Ryō Tsuzura debuted manga in November 2022
 
 ### Maebashi Witches Compilation Film Streams Main Trailer
 Thu, 27 Aug 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/maebashi-witches-compilation-film-streams-main-trailer/.241037
@@ -11,56 +61,6 @@ Film opens in Japan on October 23
 Thu, 27 Aug 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/manga-up-global-adds-the-viscount-porky-portrait-i-married-the-knight-my-sister-rejected-manga/.241048
 
 Manga available on service from Friday
-
-### The Ramparts of Ice Season 2 Anime Unveils Promo Video, Visual, October 1 Premiere on Netflix
-Thu, 27 Aug 2026 10:56:25 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/the-ramparts-of-ice-season-2-anime-unveils-promo-video-visual-october-1-premiere-on-netflix/.241050
-
-Netflix to stream 2nd season
-
-### Saga of Tanya the Evil II ‒ Episode 8
-Thu, 27 Aug 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/saga-of-tanya-the-evil-ii/episode-8/.241026
-
-While I’ve kept these reviews mostly about the story, characters, and themes of <cite>The Saga of Tanya the Evil</cite>, I have to admit, I’m more than a bit of a World War II buff.
-
-### Webtoon-Based Live-Action Movie Reawaken Man: The Red Set to Open in South Korea on September 30
-Thu, 27 Aug 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/webtoon-based-live-action-movie-reawaken-man-the-red-set-to-open-in-south-korea-on-september-30/.240995
-
-Film follows ordinary job seeker who suddenly gains ability to resurrect after dying
-
-### This Week in Anime - Makerspace
-Thu, 27 Aug 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-08-27/.241038
-
-Who says you can't learn anything from anime?
-
-### Red River ‒ Episode 8
-Thu, 27 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-8/.241009
-
-Nakia, frustrated that her plans are going awry, is growing increasingly reckless and unsubtle.
-
-### Webtoon-Based Live-Action Series White Scandal Confirms Main Cast
-Thu, 27 Aug 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-27/webtoon-based-live-action-series-white-scandal-confirms-main-cast/.240998
-
-Kang Song, So-hyun Kim star in series following 3rd-generation conglomerate heir who wants to avoid becoming successor to his family
-
-### Beyond the Season Finale: 5 Manga You Need to Continue Right Now
-Thu, 27 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-08-27/beyond-the-season-finale-5-manga-you-need-to-continue-right-now/.240553
-
-Did the anime leave you hanging? Here are five series you should continue in manga form!
-
-### Director of Live-Action Look Back Dives into Ultraman's Origin in New Doc
-Thu, 27 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-08-27/director-of-live-action-look-back-dives-into-ultraman-origin-in-new-doc/.240879
-
-Ultraman has meant "justice" to generations. This new documentary explores how that came to be.
-
-### Exclusive: Dark Horse Unveils Cyberpunk Edgerunners Figures
-Thu, 27 Aug 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-27/exclusive-dark-horse-unveils-cyberpunk-edgerunners-figures/.241012
-
-Figures based on David, Lucy, Rebecca, Adam Smasher ship between March-May 2027
-
-### Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 14
-Thu, 27 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-14/.241024
-
-Anyone else get the feeling that many of the roadblocks Subaru faces feel purposely artificial?
 
 ## Crunchyroll News
 
