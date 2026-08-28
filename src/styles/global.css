@@ -30,6 +30,15 @@ body {
   background-clip: text;
   -webkit-text-fill-color: transparent;
   color: transparent;
+  /* background-clip: text paints only inside the element's own box, and in the
+     masthead every letter is its own inline-block box exactly one advance wide.
+     Kanit at this weight puts ink past that edge — the bowl of a P is the one
+     that shows it — and the glyph arrives sliced. A hair of horizontal padding
+     widens the paint box; the matching negative margin leaves the layout, and
+     the negative letter-spacing, exactly where they were. The gradient runs
+     vertically, so nothing about it shifts. */
+  padding-inline: 0.05em;
+  margin-inline: -0.05em;
 }
 
 /* the hero nav scrolls sideways on narrow phones; hide the bar itself */

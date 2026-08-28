@@ -345,22 +345,25 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
       <section className="px-4 sm:px-6 md:px-8 pt-12 sm:pt-16">
         <div className="max-w-[1180px] mx-auto">
           <FadeIn
-            as="p"
-            delay={0}
-            y={10}
-            className="font-medium uppercase tracking-[0.32em] text-[0.62rem] text-[#D7E2EA]/35"
-          >
-            Written by Gianluca Scattarella
-          </FadeIn>
-
-          <FadeIn
             as="h1"
-            delay={0.05}
+            delay={0}
             y={20}
-            className="font-black uppercase leading-[0.86] tracking-[-0.03em] mt-3"
+            className="font-black uppercase leading-[0.86] tracking-[-0.03em]"
             style={{ fontSize: 'clamp(3.2rem, 12vw, 8rem)' }}
           >
             <GlowText text="Backdrop" charClassName="hero-heading" />
+          </FadeIn>
+
+          {/* The byline sits under the name rather than over it: the masthead
+              should land first, and who writes it reads as the answer to the
+              question the name just asked. */}
+          <FadeIn
+            as="p"
+            delay={0.05}
+            y={10}
+            className="font-medium uppercase tracking-[0.32em] text-[0.62rem] text-[#D7E2EA]/35 mt-4 max-w-[720px]"
+          >
+            A blog conceived, directed and written by Gianluca Scattarella
           </FadeIn>
 
           <FadeIn
