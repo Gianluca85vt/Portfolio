@@ -1,0 +1,87 @@
+name: Blog report — every four days at 08:00
+
+# Cron cannot express "every four days" honestly. `*/4` on the day-of-month
+# restarts at every month boundary, so December ends with a three-day gap and
+# a one-day one. This runs daily and the first step decides whether today is
+# a report day, counting whole days since the epoch — which stays exactly four
+# days apart forever, across months and leap years alike.
+#
+# 06:00 UTC is 08:00 in Rome from late March to late October, and 07:00 for the
+# rest of the year. Chasing that would mean two schedules and a timezone
+# library for the sake of one hour on a report about last week's traffic.
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: 'Window length in days (default 4)'
+        required: false
+      force:
+        description: 'Run even if today is not a report day'
+        type: boolean
+        default: true
+
+  schedule:
+    - cron: '0 6 * * *'
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Is today a report day?
+        id: due
+        env:
+          FORCED: ${{ inputs.force }}
+        run: |
+          set -euo pipefail
+          if [ "${FORCED:-false}" = "true" ]; then
+            echo "due=true" >> "$GITHUB_OUTPUT"
+            echo "run forced from the dispatch"
+            exit 0
+          fi
+          node -e "
+            const day = Math.floor(Date.now() / 86400000);
+            const due = day % 4 === 0;
+            console.log(due ? 'day ' + day + ' — due' : 'day ' + day + ' — not due, next in ' + (4 - (day % 4)) + ' day(s)');
+            require('fs').appendFileSync(process.env.GITHUB_OUTPUT, 'due=' + due + '\n');
+          "
+
+      - uses: actions/checkout@v5
+        if: steps.due.outputs.due == 'true'
+
+      - uses: actions/setup-node@v5
+        if: steps.due.outputs.due == 'true'
+        with:
+          node-version: '22'
+
+      # puppeteer brings its own Chromium. The runner has one preinstalled, but
+      # its path has moved twice in a year and a silently wrong path here means
+      # a report that never arrives.
+      - name: Install the renderer
+        if: steps.due.outputs.due == 'true'
+        run: npm install puppeteer nodemailer --no-save --silent
+
+      - name: Build the report and send it
+        if: steps.due.outputs.due == 'true'
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
+          NOTIFY_FROM: ${{ secrets.NOTIFY_FROM }}
+        run: node scripts/report.mjs --days ${{ inputs.days || 4 }}
+
+      # Kept for a fortnight so a report that failed to send can still be read,
+      # and so a disagreement about what the numbers said has something to open.
+      - name: Keep a copy
+        if: steps.due.outputs.due == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: backdrop-report
+          path: 'backdrop-*.pdf'
+          retention-days: 14
+          if-no-files-found: warn
