@@ -17,7 +17,6 @@ scoreSources:
     score: 7.5
   - outlet: BaziCenter
     score: 7
-draft: true
 ---
 
 CAPTAIN TSUBASA 2: WORLD FIGHTERS is out today, 28 August 2026, on PS5, Xbox
