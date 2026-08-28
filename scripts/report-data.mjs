@@ -155,9 +155,42 @@ export async function analytics(win, days) {
 
 /* ----------------------------------------------------------- Search Console */
 
-async function scQuery(token, body) {
+/**
+ * Search Console addresses a property by exactly the string it was verified
+ * with, and there are two forms: the URL prefix `https://www.example.com/` and
+ * the domain property `sc-domain:example.com`. Guessing wrong returns a bare
+ * 403 that reads like a permissions problem. So ask which ones this account
+ * can see and take the one that matches.
+ */
+async function scSite(token) {
+  const res = await fetch('https://searchconsole.googleapis.com/webmasters/v3/sites', {
+    headers: { authorization: `Bearer ${token}` },
+  });
+  const json = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(json.error?.message ?? `Search Console returned ${res.status} listing sites`);
+
+  const entries = json.siteEntry ?? [];
+  if (!entries.length) {
+    throw new Error('the service account is not a user on any Search Console property yet');
+  }
+
+  const host = new URL(SITE).hostname.replace(/^www\./, '');
+  const match =
+    entries.find((e) => e.siteUrl === SITE) ??
+    entries.find((e) => e.siteUrl === `sc-domain:${host}`) ??
+    entries.find((e) => e.siteUrl.includes(host));
+
+  if (!match) {
+    throw new Error(
+      `none of the properties this account can see is ${host} — it can see: ${entries.map((e) => e.siteUrl).join(', ')}`
+    );
+  }
+  return match.siteUrl;
+}
+
+async function scQuery(token, site, body) {
   const res = await fetch(
-    `https://searchconsole.googleapis.com/webmasters/v3/sites/${encodeURIComponent(SITE)}/searchAnalytics/query`,
+    `https://searchconsole.googleapis.com/webmasters/v3/sites/${encodeURIComponent(site)}/searchAnalytics/query`,
     {
       method: 'POST',
       headers: { authorization: `Bearer ${token}`, 'content-type': 'application/json' },
@@ -175,6 +208,7 @@ export async function searchConsole(win) {
 
   try {
     const token = await accessToken(key, [SCOPES.searchConsole]);
+    const site = await scSite(token);
     const range = { startDate: win.current.start, endDate: win.current.end };
     const prev = { startDate: win.previous.start, endDate: win.previous.end };
 
@@ -189,10 +223,10 @@ export async function searchConsole(win) {
       );
 
     const [nowRows, prevRows, queries, pages] = await Promise.all([
-      scQuery(token, { ...range, dimensions: ['date'] }),
-      scQuery(token, { ...prev, dimensions: ['date'] }),
-      scQuery(token, { ...range, dimensions: ['query'], rowLimit: 20 }),
-      scQuery(token, { ...range, dimensions: ['page'], rowLimit: 15 }),
+      scQuery(token, site, { ...range, dimensions: ['date'] }),
+      scQuery(token, site, { ...prev, dimensions: ['date'] }),
+      scQuery(token, site, { ...range, dimensions: ['query'], rowLimit: 20 }),
+      scQuery(token, site, { ...range, dimensions: ['page'], rowLimit: 15 }),
     ]);
 
     const a = sum(nowRows);
@@ -200,6 +234,9 @@ export async function searchConsole(win) {
 
     return {
       ok: true,
+      // Which property was actually read. Worth surfacing: a domain property
+      // and a URL-prefix property over the same site can hold different data.
+      site,
       current: {
         clicks: a.clicks,
         impressions: a.impressions,
