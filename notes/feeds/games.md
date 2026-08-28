@@ -1,6 +1,31 @@
-# Games — harvested 2026-08-28T01:08:08.505Z
+# Games — harvested 2026-08-28T16:55:21.369Z
 
 ## Eurogamer
+
+### Hell Let Loose: Vietnam review
+Fri, 28 Aug 2026 14:42:37 +0000 — https://www.eurogamer.net/hell-let-loose-vietnam-review
+
+The most surprising thing about Hell Let Loose: Vietnam is how much DNA it shares with Big Walk. They both frequently involve traversing large expanses of terrain. They both have excellent maps. Most of all, they're both fundamentally games about communication. Each utilises modern voice chat to its fullest extent, requiring players to clearly express and articulate themselves to succeed. Read more
+
+### Footage of new Iron Man game from EA Motive appears to leak, showing blistering speed and freedom, as MIA superhero game finally reappears
+Fri, 28 Aug 2026 14:31:10 +0000 — https://www.eurogamer.net/ea-motive-iron-man-gameplay-footage-leak
+
+What appears to be footage from EA Motive's long-in-development - and somewhat missing-in-development - Iron Man game has leaked. Read more
+
+### Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode
+Fri, 28 Aug 2026 13:20:14 +0000 — https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s
+
+UPDATE 3.30PM BST: Performance perfectionist Digital Foundry has scrutinised the latest GTA 6 trailer ( which can be downloaded for a closer, purer appraisal) and said that on this evidence it looks like GTA 6 is running at 1440p natively on PS5 and maintains "a relatively stable and well-paced 30 FPS output with only very occasional single frame drops". However, the downloadable video being "a 30 FPS asset" means there could be more unseen frame drops, apparently. Read more
+
+### "Somebody will make the Half-Life 2 of AI" - after the Rideshare controversy, Saber CCO says something will come along and "change people's minds" about gen-AI
+Fri, 28 Aug 2026 11:04:23 +0000 — https://www.eurogamer.net/saber-half-life-2-gen-ai-rideshare-controversy
+
+Saber Interactive made headlines recently when its boss had an ugly spat with a former employee about the company's use of gen-AI in taxi game Rideshare Stimulator . Matthew Karch, Saber's co-founder and CEO, since apologised, and made sure Rideshare got proper AI disclosure labels on Steam. But a larger question mark over Saber's approach to gen-AI remained. Read more
+
+### Star Wars Zero Company understands that Star Wars games should feel less like the movies and more like the toys
+Fri, 28 Aug 2026 09:06:26 +0000 — https://www.eurogamer.net/star-wars-zero-company-impressions-toys-movies
+
+I'm still early days on Star Wars Zero Company, but I think I'm in love. And this is kind of expected and also kind of strange. It's kind of expected because this is XCOM: Star Wars at first glance, and jeepers I love XCOM. I love moving my little units around, pondering when to advance and when to hang back, and I even love missing a shot that surely was almost a dead cert. Read more
 
 ### GTA 6's map is so massive, you could fit two GTA 5s in it - and we know roughly how long it'll take to beat too
 Thu, 27 Aug 2026 21:37:19 +0000 — https://www.eurogamer.net/gta-6-map-size-length-how-big-revealed
@@ -37,32 +62,32 @@ Thu, 27 Aug 2026 19:31:17 +0000 — https://www.eurogamer.net/grand-theft-auto-6
 
 Those eager to see GTA 6 's big Netflix reveal this evening were met with a "Something Went Wrong" message at the moment the video was meant to go live, with the rush to see Rockstar's latest open-world epic seemingly bringing the streaming service to its knees. Read more
 
-### GTA 6 has a relationship system, and it sounds as though you can make-or-break Jason and Lucia's romance
-Thu, 27 Aug 2026 19:27:26 +0000 — https://www.eurogamer.net/gta-6-romance-relationship-system-jason-lucia
-
-Rockstar has revealed a relationship system in Grand Theft Auto 6 , to underpin and support the bond between co-protagonists and lovers Jason and Lucia. Using this system you can nurture their bond, bringing them closer together, or neglect it, potentially leading to what sounds like a split somewhere down the line. Read more
-
-### GTA 6's driving and car-jacking will be "more challenging", Rockstar says, amid a seemingly big push for realism
-Thu, 27 Aug 2026 19:22:10 +0000 — https://www.eurogamer.net/gta-6-driving-car-theft-more-challenging-rockstar-realism-push
-
-Two of the Grand Theft Auto series' most prominent, interweaving systems - stealing cars and driving them - are set to get a major change in Grand Theft Auto 6 , as developer Rockstar has said the pick-up-and-play systems are now going to be "more challenging" than they've been before. Read more
-
-### GTA 6 is revamping the Wanted system and giving you a Criminal Profile
-Thu, 27 Aug 2026 19:16:54 +0000 — https://www.eurogamer.net/gta-6-revamping-wanted-system-adding-criminal-profiles
-
-There's perhaps no gameplay feature that's more synonyms with Grand Theft Auto than the series' Wanted system. But like many of the mechanics that underpin the core of the series, it seems, the Wanted system in GTA 6 has evolved in significant ways. Read more
-
-### The massive GTA 6 leaks might be done for good as Cyberleek cashes out nearly £200,000 from their crypto scheme
-Thu, 27 Aug 2026 19:12:47 +0000 — https://www.eurogamer.net/gta-6-leaker-cashes-out--cyberleek-crypto-scheme
-
-Mere hours before Rockstar Games revealed GTA 6 footage on its own terms, the hacker - or hacking group - behind the open-world game's massive leaks has pulled about $270,000 (or almost &pound;200,000) out of their crypto scheme. Read more
-
-### GTA 6 Netflix extended look live report - all the gameplay and revelations from Rockstar's Grand Theft Auto 6 premiere
-Thu, 27 Aug 2026 14:03:38 +0000 — https://www.eurogamer.net/gta-6-extended-look-netflix-live-report
-
-Tonight we'll get probably our best look at Grand Theft Auto 6 yet, as Rockstar's 'extended look' trailer airs exclusively on Netflix. We'll be watching it live and reporting on everything we see, here, in this article. Read more
-
 ## GamesIndustry.biz
+
+### GTA 6 will have a halo effect for the entire industry | Opinion
+Fri, 28 Aug 2026 14:27:12 +0000 — https://www.gamesindustry.biz/gta-6-will-have-a-halo-effect-for-the-entire-industry-opinion
+
+When the hype engine for GTA 6 roared into top gear this week, there was a quietly touching aspect amid the excitement that will stay with me for a while. As the 27 minute long extended look at the game racked up millions of views on YouTube, a theme emerged in the comments. Many of the most upvoted messages were brief tributes to friends and loved ones who adored GTA but had passed away before the game&rsquo;s release &ndash; a surprisingly poignant response to the tongue-in-cheek ultraviolence of the video itself. Read more
+
+### Limbic Entertainment on life after Bandai Namco
+Fri, 28 Aug 2026 12:05:08 +0000 — https://www.gamesindustry.biz/limbic-entertainment-on-life-after-bandai-namco
+
+In December 2025, German developer Limbic Entertainment was sold by Bandai Namco to a "private investor" . This news came just over three years after the Japanese giant acquired a majority stake in the studio for an undisclosed sum . Read more
+
+### Cloud Imperium delays Squadron 42 to 2027 – "There is no way I want to launch into the attention buzz saw of GTA 6"
+Fri, 28 Aug 2026 11:17:59 +0000 — https://www.gamesindustry.biz/cloud-imperium-delays-squadron-42-to-2027-there-is-no-way-i-want-to-launch-into-the-attention-buzz-saw-of-gta-6
+
+The release of Star Citizen spin-off Squadron 42 has been postponed to Q2 2027 to avoid "launching into the attention buzz saw of Grand Theft Auto 6." Read more
+
+### Rockstar formed a new LA-based team to develop more realistic NPCs for Grand Theft Auto 6
+Fri, 28 Aug 2026 09:32:46 +0000 — https://www.gamesindustry.biz/rockstar-formed-a-new-la-based-team-to-develop-more-realistic-npcs-for-grand-theft-auto-6
+
+Rockstar Games established a new team focused on developing more realistic NPCs for Grand Theft Auto 6. Read more
+
+### Sensor Tower: Netflix US mobile viewership increased 35% during GTA 6 extended preview
+Fri, 28 Aug 2026 08:09:05 +0000 — https://www.gamesindustry.biz/sensor-tower-netflix-us-mobile-viewership-increased-35-during-gta-6-extended-preview
+
+Netflix US mobile viewership rose 35% hour-over-hour during Grand Theft Auto 6's extended preview yesterday , according to data from Sensor Tower. Read more
 
 ### Grand Theft Auto 6 30-minute teaser debuts on Netflix
 Thu, 27 Aug 2026 19:33:45 +0000 — https://www.gamesindustry.biz/grand-theft-auto-6-30-minute-teaser-debuts-on-netflix
@@ -99,36 +124,31 @@ Thu, 27 Aug 2026 10:34:25 +0000 — https://www.gamesindustry.biz/we-view-ai-as-
 
 Services provider Side has signed a memorandum of understanding with Danish AI firm Modl.ai. Read more
 
-### European Games Developer Federation announces 2026-28 board, Hendrik Lesser re-elected as president
-Thu, 27 Aug 2026 09:05:35 +0000 — https://www.gamesindustry.biz/european-games-developer-federation-announces-2026-28-board-hendrik-lesser-re-elected-as-president
-
-Hendrik Lesser has been re-elected president of the European Games Developer Federation (EGDF) as the organisation announces its 2026-2028 board. Read more
-
-### Xbox to focus on "efficiency and affordability alongside performance" for next-gen console amid rising hardware costs and innovations in AI
-Thu, 27 Aug 2026 07:49:47 +0000 — https://www.gamesindustry.biz/xbox-to-focus-on-efficiency-and-affordability-alongside-performance-for-next-gen-console-amid-rising-hardware-costs-and-innovations-in-ai
-
-Xbox is prioritising "efficiency and affordability alongside performance" for its next-generation console in the face of rising hardware costs and innovations in AI. Read more
-
-### 1047 Games ends active development on Empulse and Splitgate: Arena Reloaded, says it's moving away from live service shooters
-Wed, 26 Aug 2026 19:10:37 +0000 — https://www.gamesindustry.biz/1047-games-ends-active-development-on-empulse-and-splitgate-arena-reloaded-says-its-moving-away-from-live-service-shooters
-
-1047 Games is ending active development on Empulse and Splitgate: Arena Reloaded, moving both titles to peer-to-peer hosting as the studio signals a broader shift away from live service shooters after ten years. Read more
-
-### IGDA Incubation SIG to unveil first global census of game incubators and accelerators at Gamescom
-Wed, 26 Aug 2026 18:11:00 +0000 — https://www.gamesindustry.biz/igda-incubation-sig-to-unveil-first-global-census-of-game-incubators-and-accelerators-at-gamescom
-
-The IGDA Incubation SIG will present the first international census of game incubation and accelerator programs at Gamescom 2026 this week, aiming to give the industry its first broad picture of the organizations that support emerging studios. Read more
-
-### Xbox to let Insiders convert physical game discs into digital entitlements later this month
-Wed, 26 Aug 2026 16:17:59 +0000 — https://www.gamesindustry.biz/xbox-to-let-insiders-convert-physical-game-discs-into-digital-entitlements-later-this-month
-
-Xbox will let Xbox Insiders begin testing a disc-to-digital feature from August 31, letting owners of supported physical games unlock a digital entitlement for the same title. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Tech Experts Call GTA 6 the Most Impressive Example of Real-Time Rendering We ve Ever Seen
+Fri, 28 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/tech-experts-call-gta-6-the-most-impressive-example-of-real-time-rendering-weve-ever-seen
+
+Digital Foundry weighs in. In case you hadn't noticed, GTA 6 just had its big gameplay blowout, and it looks pretty sensational. It's a seriously impressive-looking game, one that looks on par with some of PS5's most visually outstanding software — only set within a vast open world that's stuffed with detail. Read the full article on pushsquare.com
+
+### New Marvel s Wolverine PS5 Trailer Breaks Down Gameplay Features, Accessibility Options, More
+Fri, 28 Aug 2026 12:45:00 GMT — https://www.pushsquare.com/news/2026/08/new-marvels-wolverine-ps5-trailer-breaks-down-gameplay-features-accessibility-options-more
+
+Round of a-claws. Out in a matter of weeks, Sony's latest PS5 exclusive is Marvel's Wolverine , a superhero action adventure starring everyone's favourite ball of rage. When it launches on 15th September, it looks like it'll come packed with lots of interesting features and accessibility options, as detailed in this new trailer: Read the full article on pushsquare.com
+
+### GTA 6 Contains No Microtransactions or Generative AI, Rockstar Says
+Fri, 28 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-contains-no-microtransactions-or-generative-ai-rockstar-says
+
+Grand no theft auto. Amid all this new information and footage of GTA 6 , the massively anticipated open world game, it's been reported that the game will not feature any microtransactions, nor has Rockstar Games used generative AI. This info comes via Kinda Funny Games as they discuss their preview at the company's headquarters in Edinburgh, where they got to speak to Rob Nelson, co-studio head of Rockstar North. Read the full article on pushsquare.com
+
+### PS5, PS4 Beat- Em-Up Scott Pilgrim EX Grows with Both Free and Premium Content
+Fri, 28 Aug 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-ps4-beat-em-up-scott-pilgrim-ex-grows-with-both-free-and-premium-content
+
+New mode and characters available. Earlier this year, we were treated to Scott Pilgrim EX , a brand new side-scrolling beat-'em-up from developer Tribute Games. The game is pretty good, with a retro art style, punchy combat, and a metric tonne of references to the beloved Bryan Lee O'Malley graphic novels. Read the full article on pushsquare.com
 
 ### Watch GTA 6 Extended Look Here - 17 Things We ve Learned
 Fri, 28 Aug 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned
@@ -170,27 +190,27 @@ Thu, 27 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/features/40plus-ps5
 
 Cheap PS5 and PS4 games we recommend. PS Store's latest sale is a Gamescom promotion, running from now until 9th September 2026. Browsing through the thousands of PS5 and PS4 games can take a while, so we've put together a list of games we recommend you check out. Everything listed here comes with at least a 7/10 score from Push Square , and every game is at its lowest price point, with some setting new lows in this sale. Read the full article on pushsquare.com
 
-### The Battle of the Mass Effect-Likes Continues, as The Expanse: Osiris Reborn Drops New Gameplay
-Thu, 27 Aug 2026 12:45:00 GMT — https://www.pushsquare.com/news/2026/08/the-battle-of-the-mass-effect-likes-continues-as-the-expanse-osiris-reborn-drops-new-gameplay
-
-Space race. Right, now that Exodus has had its time in the limelight at Gamescom, it's The Expanse: Osiris Reborn's turn. The two sci-fi RPGs, both of which are quite clearly inspired by Mass Effect , have been floating around for roughly the same amount of time, leading to plenty of comparisons between the two. Read the full article on pushsquare.com
-
-### Konami Wants to Annualise Silent Hill, Has Many Unannounced Games
-Thu, 27 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/08/konami-wants-to-annualise-silent-hill-has-many-unannounced-games
-
-Much more to come from horror IP. Alongside a new Call of Duty and EA Sports FC every year, how do you fancy a new Silent Hill game every 12 months? That's the release cadence Konami is now working towards as it brings the horror franchise back in a big way. Talking to GamesRadar , franchise producer Motoi Okamoto said it's the company's aim to "have an annual release of new games" and it has multiple unannounced projects currently in development to try and make that happen. Read the full article on pushsquare.com
-
-### Here s 13 Minutes of Witcher 3: Songs of the Past DLC Gameplay
-Thu, 27 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/heres-13-minutes-of-witcher-3-songs-of-the-past-dlc-gameplay
-
-Get a proper look at the PS5 expansion. After just a brief look at new The Witcher 3 DLC Songs of the Past during Gamescom Opening Night Live this week, CD Projekt Red has shared a much longer portion of gameplay from the DLC in one of its Red Streams. The gameplay has been clipped out and uploaded as a 13-minute segment, which you can watch above. It appears a new quest called A Bed of Thorns will introduce the DLC to you, and then you can play around in Ledden, the new area in the expansion. There's also a cutscene featured of a dinner scene with some new characters. Read the full article on pushsquare.com
-
-### Dragon s Dogma 2 s Game-Changing PS5 Patch Dated, But Slightly Delayed
-Thu, 27 Aug 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/08/dragons-dogma-2s-game-changing-ps5-patch-dated-but-slightly-delayed
-
-The big one. Capcom has long promised a major update for Dragon's Dogma 2 , dropping ahead of its Dark Arisen expansion on the 9th October. Previously, this patch was scheduled for late August, but the developer's now confirmed that it'll be arriving a little late, on the 1st or 2nd of September depending on your timezone. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### GDC Side Quest - Inside Austin Wintory's Collaborative Composing Process
+Fri, 28 Aug 2026 14:15:00 GMT — https://www.gamedeveloper.com/audio/gdc-side-quest-inside-austin-wintory-s-collaborative-composing-process
+
+This month, celebrated composer Austin Wintory joins content marketing manager Beth Elderkin for a conversation about his creative process.
+
+### Panic refunds tariff fees, 1047 Games pivots from Splitgate, and Gamescom Dev grows - Patch Notes #67
+Fri, 28 Aug 2026 13:47:47 GMT — https://www.gamedeveloper.com/business/panic-refunds-tariff-fees-1047-games-pivots-from-splitgate-and-gamescom-dev-grows-patch-notes-67
+
+Plus: No More Room in Hell 2 surpasses 1 million players after exiting a pivotal Early Access period.
+
+### Warlock's magic system was built on game-bending player choices
+Fri, 28 Aug 2026 12:03:43 GMT — https://www.gamedeveloper.com/design/warlock-s-magic-system-was-built-on-game-breaking-player-choices
+
+It's not a bug, it's a feature.
+
+### Spanish union calls for ongoing strike action at Ubisoft Mobile Barcelona
+Fri, 28 Aug 2026 09:57:07 GMT — https://www.gamedeveloper.com/business/spanish-union-calls-for-ongoing-strike-action-at-ubisoft-mobile-barcelona
+
+'The strike was communicated to the company in early August; however, the workers' representatives are still awaiting a response.'
 
 ### How you (yes, you) can benefit from 1-on-1 synchronous playtesting
 Thu, 27 Aug 2026 16:48:40 GMT — https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting
@@ -231,24 +251,4 @@ The Grand Theft Auto 6 maker has responded to the game's massive leaks.
 Wed, 26 Aug 2026 18:21:55 GMT — https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers
 
 'It's just not our money to keep, and it felt really good to give it back.'
-
-### Xbox officially announces disc to digital program
-Wed, 26 Aug 2026 17:58:25 GMT — https://www.gamedeveloper.com/business/xbox-officially-announces-disc-to-digital-program
-
-The Verge reported this program back in July.
-
-### CD Projekt Red to distribute The Witcher 3: The Wild Hunt on Blizzard's Battle.net
-Wed, 26 Aug 2026 17:30:18 GMT — https://www.gamedeveloper.com/business/cd-projekt-red-and-blizzard-enter-a-partnership
-
-The remastered rendition of The Witcher 3: Wild Hunt is coming to Battle.net, along with the new upcoming expansion and a Diablo IV collab.
-
-### Creative UK launches Barclays-sponsored growth program for screen businesses
-Wed, 26 Aug 2026 16:11:16 GMT — https://www.gamedeveloper.com/business/creative-uk-launches-barclays-sponsored-growth-program-for-screen-businesses
-
-The program led by Creative Enterprise, which is part of Creative UK, is funded by the BFI National Lottery.
-
-### Ubisoft debuts Player Council platform to expand early game development feedback
-Wed, 26 Aug 2026 15:50:50 GMT — https://www.gamedeveloper.com/business/ubisoft-debuts-player-council-platform-to-expand-early-game-development-feedback
-
-Player Council members will be invited to test 'early concepts, prototypes, and live experiences.'
 

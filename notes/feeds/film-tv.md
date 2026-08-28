@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-28T01:08:08.505Z
+# Film & TV — harvested 2026-08-28T16:55:21.369Z
 
 ## Variety
 
-### Inside ‘Married at First Sight’ Season 20: How Peacock’s Changes Led to 1.8 Billion Minutes Viewed, That Wild Reunion and Why Lindsay Hubbard Said No to the Show
-Fri, 28 Aug 2026 01:00:00 +0000 — https://variety.com/2026/tv/news/married-at-first-sight-season-20-peacock-changes-1236842709/
+### Payal Kapadia, Neeraj Churi, Subhadra Mahajan Among Talent Behind SASO, IFFSA-Backed South Asian Toronto Market Projects (EXCLUSIVE)
+Fri, 28 Aug 2026 16:15:36 +0000 — https://variety.com/2026/film/news/payal-kapadia-neeraj-churi-subhadra-mahajan-toronto-market-1236846057/
 
-Millions of viewers are saying I do to Season 20 of Married at First Sight. The Kinetic Content relationship reality series, which moved to Peacock during Season 19 after 15 seasons on Lifetime, underwent a few changes this year. The finale and reunion dropped on Peacock on Thursday, revealing that all but two couples chose [ ]
+The South Asian Screen Office of Canada and IFFSA Toronto, in collaboration with Storiculture, have selected eight South Asian feature film projects for a new pathway to financiers and industry partners at the Toronto Film Festival s inugural market, under an initiative called South Asian Screen Futures. The slate includes talent tied to recent Sundance, Cannes [ ]
 
-### Big Little Lies Sequel Book Teases Storyline for HBO Series Season 3: What s Going on With Madeline, Celeste and Jane in Big Little Truths
-Thu, 27 Aug 2026 23:19:27 +0000 — https://variety.com/2026/tv/news/big-little-lies-season-3-big-little-truths-sequel-plot-1236844334/
+### Meg Stalter on Oh, Mary , Advice for Bowen Yang and Preparing Her Emmys Red Carpet Look With Paul Downs: It s in the Works
+Fri, 28 Aug 2026 16:00:00 +0000 — https://variety.com/2026/shopping/news/meg-stalter-oh-mary-emmys-red-carpet-looks-knorr-chicken-1236845664/
 
-SPOILER ALERT: This article contains spoilers for “Big Little Truths,” the follow-up novel to “Big Little Lies.” It all starts with a mysterious finger sent to the school principal. Liane Moriarty is back with “Big Little Truths,” a book set 10 years after the events of her novel “Big Little Lies,” which was adapted into [ ]
+Meg Stalter is never not in character. This summer alone, the comedian has spent eight shows a week playing a boozy, bratty Mary Todd Lincoln in Cole Escola s “Oh, Mary!,” taking over Broadway s starry title role after Maya Rudolph and following previous Marys including Escola and Jinkx Monsoon. Her 10-week run, which ends in September, [ ]
 
-### Ellen Pompeo to Play Disgraced ER Nurse in Not a Sound Drama in the Works at Hulu
-Thu, 27 Aug 2026 22:56:46 +0000 — https://variety.com/2026/tv/news/ellen-pompeo-hulu-show-not-a-sound-1236845646/
+### Sting-Narrated Documentary About ‘The Godfather,’ ‘La Dolce Vita’ Composer Nino Rota Boarded by Global Constellation (EXCLUSIVE)
+Fri, 28 Aug 2026 15:32:56 +0000 — https://variety.com/2026/film/global/nino-rota-global-constellation-venice-1236846027/
 
-Ellen Pompeo is looking to scrub up again — but this time, not as Dr. Meredith Grey. The Grey s Anatomy star is attached to lead a drama series in development at Hulu from Big Little Lies and Boston Legal creator David E. Kelley. Titled Not a Sound, the project is based on Heather Gudenkauf’s novel [ ]
+Vuelta’s sales and finance outfit Global Constellation has boarded international sales on “Nino: A Film About Nino Rota,” a documentary exploring the life and legacy of the Oscar-winning Italian composer, ahead of its world premiere at the Venice Film Festival, where it will screen in the Official Selection Out of Competition. Directed by Walter Fasano, [ ]
 
-### Jemima Kirke on Her Marc Jacobs Campaign, Fashion Week Chaos and Why Jessa s Style in Girls Doesn t Appeal to Her
-Thu, 27 Aug 2026 22:12:33 +0000 — https://variety.com/2026/shopping/news/jemima-kirke-marc-jacobs-girls-jessa-style-fashion-week-1236845616/
+### Online Sleuthing Is Out of Control, and the Vitriol Against Patrick Clancy Proves It
+Fri, 28 Aug 2026 15:30:00 +0000 — https://variety.com/2026/digital/news/patrick-clancy-didnt-do-it-why-does-the-internet-think-hes-guilty-1236838968/
 
-Marc Jacobs is going cinematic this fall. For its Fall 2026 campaign, the fashion house enlisted Jemima Kirke and Rowan Blanchard to star in “The Swap,” a scripted micro-drama that turns an accidental handbag mix-up into a chase across New York City. Playwright and actor Jeremy O. Harris also makes a cameo. The project is [ ]
+The trial of Lindsay Clancy, a former labor and delivery nurse who admitted to strangling her three young children before attempting suicide in January 2023, has become the latest true crime sensation largely due to social media. Amateur sleuths, armchair lawyers and influencers have turned the soon-to-conclude trial into snackable, whodunit content, dissecting every detail [ ]
 
-### AMC Theatres Sets Dolly Parton Retrospective With Steel Magnolias and The Best Little Whorehouse in Texas
-Thu, 27 Aug 2026 22:11:48 +0000 — https://variety.com/2026/film/news/amc-theatres-dolly-parton-tribute-steel-magnolias-best-little-whorehouse-in-texas-1236845626/
+### Not Your Daddy s Films Expands With Film Independent as Fiscal Sponsor (EXCLUSIVE)
+Fri, 28 Aug 2026 15:30:00 +0000 — https://variety.com/2026/film/news/not-your-daddys-films-film-independent-fiscal-sponsorship-1236845770/
 
-Two of Dolly Parton s most beloved movies are heading back to the big screen following the country music icon s death on Tuesday. Beginning on Friday, Aug. 28, AMC Theatres will offer special presentations of Steel Magnolias and The Best Little Whorehouse in Texas in approximately 200 locations across the U.S., including Parton s home state of [ ]
+Not Your Daddy’s Films, a social impact organization focused on educating and elevating women and nonbinary filmmakers, is now fiscally sponsored by Film Independent, the non-profit independent media arts organization. News of the partnership comes as Not Your Daddy’s Films celebrates its fourth anniversary. The Los Angeles-based organization was founded in 2022 by Kourtney Bell, [ ]
 
-### Andrea Eastman, The Godfather Casting Director and Former Hollywood Agent, Dies at 86
-Thu, 27 Aug 2026 21:29:01 +0000 — https://variety.com/2026/biz/news/andrea-eastman-dead-godfather-1236845555/
+### Netflix Orders Manifest Spinoff Arrivals, With a New Mystery and Cast — Announced on 8/28, Of Course
+Fri, 28 Aug 2026 15:28:00 +0000 — https://variety.com/2026/tv/news/manifest-spinoff-netflix-arrivals-new-mystery-cast-1236845705/
 
-Andrea Eastman, the casting director for “The Godfather” and former Hollywood agent, died on Wednesday at her home in Santa Barbara. She was 86. Entering the film industry at a time when it was dominated by men, Eastman became one of Hollywood’s first female “superagents,” rising to senior vice president at International Creative Management and [ ]
+“Manifest,” the drama series about a plane that mysteriously disappeared and then returned five and a half years later — with none of its passengers aging — is about to get a sequel. Netflix announced Friday that it has given a greenlight to “Arrivals: A New Manifest Mystery,” a new sci-fi spinoff that comes from [ ]
 
-### Scooby-Doo Netflix Series Casts Andre 3000, Cathy Moriarty
-Thu, 27 Aug 2026 21:12:19 +0000 — https://variety.com/2026/tv/news/scooby-doo-netflix-series-cast-andre-3000-cathy-moriarty-1236845596/
+### Edinburgh TV Festival Takeaways: YouTube’s Rise, Commissioning Landscape and Move to Manchester
+Fri, 28 Aug 2026 15:07:55 +0000 — https://variety.com/2026/tv/global/edinburgh-tv-festival-takeaways-youtube-commissioning-manchester-1236845964/
 
-The Scooby-Doo live-action Netflix series has added both Andre 3000 Benjamin and Cathy Moriarty in recurring roles. The series, which is officially titled Scooby-Doo: Origins, is currently filming in Atlanta and is scheduled to premiere in 2027. As previously announced, the Mystery Inc. gang will consist of Maxwell Jenkins as Fred Jones, Tanner Hagen as Norville [ ]
+This year’s Edinburgh TV Festival was one of the buzziest, a somewhat ironic fact given it’s also the last. From next year the TV festival, which first originated in the Scottish city fifty years ago, is moving to Manchester. The move was inevitably the talk of this year’s edition, with many genuinely emotional at the [ ]
 
-### Katseye Drops Out of Olivia Rodrigo s Daisy Chain Fields Festival: It Breaks Our Hearts
-Thu, 27 Aug 2026 20:51:09 +0000 — https://variety.com/2026/music/news/katseye-drops-out-daisy-chain-festival-it-breaks-our-hearts-1236845576/
+### HBO Max Banks on Upcoming Genre Thriller ‘Mataviejitas: The Serial Killer’ (EXCLUSIVE)
+Fri, 28 Aug 2026 15:00:00 +0000 — https://variety.com/2026/film/global/hbo-max-upcoming-thriller-mataviejitas-the-serial-killer-1236844561/
 
-Katseye has dropped out of Olivia Rodrigo s Daisy Chain Fields Festival slated to take place in Irvine, California, this Saturday, citing member Megan Skiendiel s ankle injury as the reason for their absence. In a note posted to their social media accounts, the group expressed regret about having to back out of the event at the [ ]
+HBO Max is firing up its Latin American slate with psychological thriller “Mataviejitas: The Serial Killer,” currently shooting in Mexico City. The new HBO original series is produced by Exile Content and has Mexico’s Humberto Hinojosa (“The Head of Joaquín Murrieta,” “Luis Miguel: The Series”) serving as the showrunner as well as co-directing alongside J.M. [ ]
 
-### J. Smith-Cameron Joins Law Order: SVU in Recurring Role
-Thu, 27 Aug 2026 20:35:42 +0000 — https://variety.com/2026/tv/news/j-smith-cameron-law-and-order-svu-1236845550/
+### Larenz Tate Boards Vault, New Streaming and Distribution Platform for Indie Filmmakers (EXCLUSIVE)
+Fri, 28 Aug 2026 14:30:00 +0000 — https://variety.com/2026/film/news/larenz-tate-vault-streaming-platform-1236845660/
 
-J. Smith-Cameron is heading to the courthouse. The Emmy nominee has joined the upcoming Season 28 of Law Order: SVU in a recurring role. She will play jury consultant Gwen Sharpe, but plot details relating to her character are kept under wraps. Smith-Cameron is best known for playing Gerri Kellman across four seasons of [ ]
+Michael star Larenz Tate is expanding his influence behind the camera by joining the team behind Vault, a new streaming and distribution platform focused on empowering indie filmmakers. Tate has teamed up with Kenneth Gifford, founder of the Newark International Film Festival, for the project, along with his brothers and business partners Larron and Lahmard [ ]
 
-### Mike Leigh Has Spent 50 Years Refusing to Compromise. He’s Not Starting Now.
-Thu, 27 Aug 2026 20:15:00 +0000 — https://variety.com/2026/film/features/mike-leigh-tender-loving-care-final-film-harvey-weinstein-oscars-1236841786/
+### Kirill Sokolov to Direct Animated Feature Alone in the Ocean, About Freediver Slava Kurilov s Famed Escape From Soviet Union (EXCLUSIVE)
+Fri, 28 Aug 2026 14:28:18 +0000 — https://variety.com/2026/film/global/kirill-sokolov-animated-feature-alone-in-the-ocean-1236845938/
 
-No one tells Mike Leigh what his movie is about. Not financiers, not distributors, not even Netflix, which he says could fund him “without batting an eyelid” but never has. At 83, Leigh is exactly the man he has always been: an artist with integrity. He’s telling this story to prove it. At the Savoy [ ]
+Kirill Sokolov, the Russian filmmaker known for violent dark comedies such as Why Don t You Just Die! and his recent Hollywood debut They Will Kill You, is set to direct his first animated feature. Backed by Lazy Sunday and The Media Company, Alone in the Ocean will be based on the extraordinary life and legendary [ ]
 
 ## The Hollywood Reporter
 
-### ‘The Whisper Man’ Review: Robert De Niro, Michelle Monaghan and Adam Scott in Netflix’s Twisty Airport Paperback Serial-Killer Procedural
-Fri, 28 Aug 2026 01:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-whisper-man-review-robert-de-niro-adam-scott-netflix-1236680615/
+### Late F1 Icon Gilles Villeneuve Drives For Speed, Trophies in ‘Rise of a Legend’ Trailer (Exclusive)
+Fri, 28 Aug 2026 16:46:50 +0000 — https://www.hollywoodreporter.com/movies/movie-news/rise-of-a-legend-trailer-gilles-villeneuve-1236684304/
 
-Hamish Linklater and Owen Teague also star in James Ashcroft’s film of Alex North’s crime novel about a series of abductions of young boys in smalltown New Jersey.
+Director Yan Lanouette Turgeon’s turbo-charged biopic about the late and fearless Canadian race car driver will close TIFF on Sept. 19.
 
-### Inside the Halloween Horror Nights Stranger Things House and Epic Effort to Bring the Duffer Brothers World to Life
-Fri, 28 Aug 2026 00:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/stranger-things-halloween-horror-nights-house-2026-1236683597/
+### New Operator of L.A. s Bruin Theatre Says His Antisemitic Comments Are Distractions From Reopening
+Fri, 28 Aug 2026 16:46:13 +0000 — https://www.hollywoodreporter.com/business/business-news/bruin-theatre-rui-pereira-antisemitic-comments-1236684292/
 
-Creatives from Universal Studios Hollywood and Universal Orlando Resort take The Hollywood Reporter inside their final house and first-ever lagoon show.
+Independent exhibitor Rui Pereira has called Jews “sub human devils,” among other insults. Local Jewish groups are denouncing him.
 
-### T-Mobile s Limited-Time Internet Offer Makes Switching to Fiber More Affordable Than Ever
-Thu, 27 Aug 2026 23:24:10 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/t-mobile-fiber-deals-2026-home-internet-plans-compared-1236683720/
+### Sacha Baron Cohen Ali G Movie Slammed as Racist, Activists Send 37,000 Emails to Theaters
+Fri, 28 Aug 2026 16:35:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sacha-baron-cohen-ali-g-movie-boycott-theaters-1236684226/
 
-The start of football season sparks the steepest savings of the year on the fastest home internet in the game.
+"I thought I'd play it safe and bring this guy back," wrote Cohen about the upcoming 'Ali G: Who Iz I?' movie, which is facing rising uproar.
 
-### CNN Apologizes for Using Photo of Tribute Artist in Dolly Parton Report
-Thu, 27 Aug 2026 22:50:32 +0000 — https://www.hollywoodreporter.com/news/general-news/dolly-parton-tribute-artist-mistake-cnn-apology-1236683719/
+### Meet Fernando Lindez, the Elite Star Turned Hollywood Romantic Lead in The Last Sunrise
+Fri, 28 Aug 2026 16:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/fernando-lindez-prime-video-romance-the-last-sunrise-1236673322/
 
-Kelly Vohnn says she was "heartbroken" to see her own image used and did not hold back when given the chance to critique the network.
+"Making an American debut is the dream," the actor says of making his English acting debut with the romance adapted from Anna Todd's bestseller.
 
-### Golf Channel Cancels Big Break x Good Good After PGA Tour Parts Ways With YouTube Stars
-Thu, 27 Aug 2026 22:44:16 +0000 — https://www.hollywoodreporter.com/tv/tv-news/golf-channel-cancels-big-break-good-good-ad-backlash-pga-tour-1236683711/
+### Roger Waters, Guy Pearce, Annie Ernaux Urge Venice Fest to Take “Concrete Action” for Palestine in Open Letter
+Fri, 28 Aug 2026 16:13:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/roger-waters-annie-ernaux-venice-fest-action-palestine-1236684274/
 
-With no Good Good Championship following one bad bad commercial, the 2026 'Big Break' winner loses his sponsorship exemption into the tournament.
+For the second year running, Italian and international artists under the Venice4Palestine banner have called for the Venice film festival to help stop what they describe as a genocide of the Palestinian people.
 
-### Emma Chamberlain Fronts J.Crew’s Fall Campaign With a Tiny Take on Its Heritage Rollneck Sweater
-Thu, 27 Aug 2026 21:45:04 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/emma-chamberlain-jcrew-rollneck-sweater-aug-2026-buy-online-1236683359/
+### Manifest Spinoff Arrivals Landing at Netflix
+Fri, 28 Aug 2026 16:08:03 +0000 — https://www.hollywoodreporter.com/tv/tv-news/manifest-spinoff-arrivals-netflix-1236684277/
 
-J.Crew taps the Gen Z fashion fixture to bring a fresh perspective to its heritage Rollneck, reworking the 1988 staple with a shrunken silhouette for fall.
+The announcement comes more than three years after the original series ended.
 
-### Streaming Ratings: The Big Bang Theory Claims First Ever Overall No. 1
-Thu, 27 Aug 2026 21:29:29 +0000 — https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-27-aug-2-2026-1236683626/
+### Stephen Curry Doc on Hitting 4,000 3-Pointers Set for Imax Run from Disney in October (Exclusive)
+Fri, 28 Aug 2026 15:39:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/stephen-curry-documentary-imax-1236684141/
 
-The end of July and beginning of of August is a relatively quiet time for original shows.
+‘Portrait of an Artist: Stephen Curry,’ about the single day and game where the NBA superstar set the new shooting record, will bow Oct. 9 on the giant screen circuit.
 
-### KATSEYE Drops Out of Daisy Chain Fields After Megan Sprains Ankle
-Thu, 27 Aug 2026 20:59:04 +0000 — https://www.hollywoodreporter.com/music/music-news/katseye-drops-out-daisy-chain-fields-1236683613/
+### Anna Louizos, Scenic Designer for Broadway s ‘In the Heights,’ ‘School of Rock’ and ‘Avenue Q,’ Dies at 69
+Fri, 28 Aug 2026 15:31:13 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/anna-louizos-dead-in-the-heights-school-of-rock-avenue-q-1236684230/
 
-"I'm sending all my love to Olivia and to all of the incredible artists, non-profit organizations and volunteers who have given their time to make this day so special," Megan wrote on Instagram.
+The three-time Tony nominee also worked on ‘High Fidelity,’ ‘The Mystery of Edwin Drood,’ ‘Cinderella’ and HBO’s ‘Sex and the City.’
 
-### Inside Harry Styles Opening Night of His 30-Show Madison Square Garden Residency
-Thu, 27 Aug 2026 20:24:51 +0000 — https://www.hollywoodreporter.com/lists/harry-styles-msg-2026-setlist-residency-tour-recap/
+### Pierce Thiot, Creative Executive at Maximum Effort, Dies at 40
+Fri, 28 Aug 2026 15:26:54 +0000 — https://www.hollywoodreporter.com/business/business-news/maximum-effort-creative-executive-pierce-thiot-dead-1236683533/
 
-The Grammy winner shook up his setlist, paid tribute to the late Dolly Parton and welcomed stars including fiancée Zoë Kravitz, Gayle King and Drew Barrymore to the first of his New York City shows.
+He worked on some of the biggest and most culturally relevant brand campaigns in recent memory for the studio and marketing agency founded by Ryan Reynolds and George Dewey.
 
-### Curry Barker and Universal Bring Obsession to Halloween Horror Nights — With a Twist for Fans
-Thu, 27 Aug 2026 20:09:36 +0000 — https://www.hollywoodreporter.com/movies/movie-news/obsession-halloween-horror-nights-nikki-curry-barker-1236683551/
+### Ina Garten Is a YouTuber Now
+Fri, 28 Aug 2026 14:19:18 +0000 — https://www.hollywoodreporter.com/business/digital/ina-garten-launches-youtube-channel-happy-hour-1236684203/
 
-Creative director John Murdy details how Barker is getting directly in on the scares and the Nikki surprise: "You never know where you might encounter her.”
+The cookbook author and 'Barefoot Contessa' host will launch an interview podcast called 'Happy Hour' in partnership with Vox Media.
 
 ## Deadline
 
-### The Whisper Man Review: Robert De Niro, Adam Scott And Killer Cast Fuel Explosive Netflix Crime Drama
-Fri, 28 Aug 2026 01:00:00 +0000 — https://deadline.com/2026/08/the-whisper-man-review-robert-de-niro-adam-scott-netflix-1237050683/
+### Lord Of The Rings Producer Lines Up New Large-Scale Fantasy Movie Wars Of The Drakons
+Fri, 28 Aug 2026 16:31:38 +0000 — https://deadline.com/2026/08/lord-of-the-rings-producer-new-fantasy-movie-wars-drakons-1237061803/
 
-Crime dramas, notably ones revolving around notorious serial killers, are the stuff of TV limited series in every shape and form. This adaptation of Alex North s bestseller The Whisper Man is one you might normally expect to turn up in the limited-series format which, particularly with the lesser ones, tend to drag things out interminably [ ]
+EXCLUSIVE: Oscar-winner Barrie M. Osborne, one of only three producers credited with producing each of the original Lord Of The Rings movies, is lining up a new ambitious fantasy project called Wars Of The Drakons. The U.S. vet, also known for producing Face/Off and as an executive-producer on The Matrix, The Great Gatsby, The Meg [ ]
 
-### CNN Apologizes To Dolly Parton s Family For Mistakenly Airing Photo Of Impersonator
-Fri, 28 Aug 2026 00:37:34 +0000 — https://deadline.com/2026/08/cnn-apologizes-dolly-parton-family-impersonator-photo-1237061649/
+### Vanderpump Villa Renewed For Season 4 At Hulu
+Fri, 28 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/vanderpump-villa-renewed-season-4-hulu-1237061673/
 
-CNN has issued an apology after mistakenly airing a photo of a Dolly Parton impersonator during coverage of the country music icon s death. After Parton died at age 80 on Tuesday, that night s episode of Laura Coates Live featured a photo of Las Vegas celebrity impersonator Kelly Vohnn, for which the news network has since [ ]
+The queen of creating luxury experiences, Lisa Vanderpump, is heading to Salzburg, Austria, as Hulu renews Vanderpump Villa for a fourth season. Vanderpump will be joined by House of Stassi star Stassi Schroeder once again, with cast and guests for Season 4 being revealed at a later date. Other locations where the series, produced by Bunim/Murray Productions, [ ]
 
-### Adria Arjona On Training For Man Of Tomorrow Role: I Have Muscles That I ve Never Had In My Life
-Fri, 28 Aug 2026 00:00:00 +0000 — https://deadline.com/2026/08/adria-arjona-training-man-of-tomorrow-role-1237061270/
+### Gladys Knight Taking Break From Stage Amid Health Concerns And Worrying Performance Videos
+Fri, 28 Aug 2026 15:54:22 +0000 — https://deadline.com/2026/08/gladys-knight-health-tour-break-1237061942/
 
-Adria Arjona stars in A24 s Onslaught this summer, but next summer she will be joining the DC Universe in the Superman sequel Man of Tomorrow. Although Arjona s role in the James Gunn-directed film has not been disclosed yet, she gave hints that the training for the role has been arduous. I have muscles that I ve [ ]
+The great Gladys Knight will take a step back from the relentless touring that s marked her 75 years in show business. In a new Instagram post see it below the 82-year-old Midnight Train to Georgia” singer writes, “After much soul searching I’ve decided that I will be easing into fewer performances while focusing [ ]
 
-### Acapulco Star Camila Perez To Reprise Role Of Young Angie From Power In Origins Spinoff
-Fri, 28 Aug 2026 00:00:00 +0000 — https://deadline.com/2026/08/camila-perez-power-origins-young-angie-1237061570/
+### Manifest Spinoff Arrivals Ordered By Netflix
+Fri, 28 Aug 2026 15:28:00 +0000 — https://deadline.com/2026/08/manifest-spinoff-series-arrivals-netflix-jeff-rake-1237061668/
 
-EXCLUSIVE: The upcoming Starz prequel spinoff series Power: Origins will welcome Camila Perez (Acapulco) back into the fold, reprising the role of Young Angie Valdes, whom she played in one episode of the original Power series, sources tell Deadline. Lela Loren played adult Angie, a federal prosecutor and James Ghost St. Patrick s childhood sweetheart, on [ ]
+It s 8/28, time for Manifest news. Exactly five years to the minute after Netflix announced it was reviving Manifest for a fourth and final season following its NBC cancellation, the streamer is resurrecting the series again, this time with a spinoff. Netflix has greenlighted Arrivals: A New Manifest Mystery, a sci-fi drama set in the [ ]
 
-### Tracy Oliver Issa Rae Open Marriage Drama Heats Up TV Marketplace The Dish
-Thu, 27 Aug 2026 23:21:39 +0000 — https://deadline.com/2026/08/tracy-oliver-issa-rae-open-drama-series-1237061543/
+### Coyote Vs. Acme $1.7M Previews, Dog Stars $850K As Canines Rule Thursday Box Office
+Fri, 28 Aug 2026 15:16:13 +0000 — https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/
 
-EXCLUSIVE: In a power pairing, Tracy Oliver and Issa Rae have teamed up for hourlong series project Open, Deadline has learned. Co-created by the duo, Open was recently taken out and has garnered seven offers, I hear. It is produced by Paramount Television Studios under Rae s first-look there. In Open, when a married couple who [ ]
+Ketchup Entertainment s dog rescue of Warner Bros Animation s Coyote vs. Acme was solid in previews with $1.7M. That includes not only Thursday money from showtimes that began at 3 p.m. but also $446K from last weekend s sneaks in U.S. and Canada. The Dave Green-directed PG live-action/animated hybrid is expected to do plus-or-minus $15M this weekend. [ ]
 
-### Andrea Eastman Dies: Godfather Casting Director Longtime Agent At ICM Was 86
-Thu, 27 Aug 2026 22:43:56 +0000 — https://deadline.com/2026/08/andrea-eastman-dead-the-godfather-casting-director-1237061210/
+### Doctor Who On Prime Video? Amazon Execs Say They Welcome Any Conversation Around IP
+Fri, 28 Aug 2026 14:57:26 +0000 — https://deadline.com/2026/08/prime-video-doctor-who-amazon-execs-welcome-ip-conversation-1237061873/
 
-Andrea Eastman, who broke boundaries as a casting director at Paramount in the 1970s and as an agent at ICM, has died, Deadline has confirmed. She was 86. Eastman s output as a casting director is not extensive, but it is impressive. She had an uncanny penchant for identifying untested talent and placing them in breakout [ ]
+Could The Doctor come calling at Prime Video? Oliver Jones, Senior Commissioner for UK Scripted at the Amazon-owned streamer, set tongues wagging at the Edinburgh TV Festival when questioned if Prime Video could become the new international home for Doctor Who. I love Doctor Who, and we welcome any conversations around IP, said Jones, as [ ]
 
-### Dolly Parton Big-Screen Retrospective Being Held At AMC Theatres
-Thu, 27 Aug 2026 22:36:44 +0000 — https://deadline.com/2026/08/dolly-parton-movies-amc-theatres-1237061498/
+### Nigeria Has Its First Venice Giornate Entry With Damilola Orimogunje’s Family Portrait ‘Dear Ajayi’ — First-Look Trailer
+Fri, 28 Aug 2026 14:25:09 +0000 — https://deadline.com/2026/08/dear-ajayi-venice-giornate-damilola-orimogunje-1237061884/
 
-Following the death Tuesday of two-time Oscar nominee and 11-time Grammy winner Dolly Parton, AMC Theatres is planning a retrospective of the multihyphenate showing two of her movies, 1989 s Steel Magnolias and 1982 s The Best Little Whorehouse in Texas. The cinematic homage will be begin Friday and go through September 2. AMC will present the [ ]
+EXCLUSIVE: Next week, Nigerian filmmaker Damilola Orimogunje (For Maria Ebun Pataki) debuts his second feature film, Dear Ajayi, at the Venice Film Festival as part of the parallel Giornate degli Autori section. The title is the first from Nigeria to play in the competition. Check out the first trailer for the film above. The [ ]
 
-### Judge Hears Arguments On Returning Trump s Name To Kennedy Center, Sidesteps Talk Of Demolition Of Complex
-Thu, 27 Aug 2026 21:49:55 +0000 — https://deadline.com/2026/08/trump-kennedy-center-name-judge-hearing-1237061319/
+### Bret Baier Defends Fox News Jonathan Hunt Amid Donald Trump s Attack On His Iran Report, Calls Out POTUS Claim That Segment Was Inaccurate
+Fri, 28 Aug 2026 14:20:05 +0000 — https://deadline.com/2026/08/bret-baier-trump-iran-report-1237061851/
 
-A federal judge heard arguments Thursday in the latest challenge to the Trump-controlled Kennedy Center s effort to install the president s name on the complex, this time twice on its façade and once to designate the grounds for him. U.S. District Judge Christopher Cooper, however, stopped the center s lawyer from bringing up the dilapidated condition of [ ]
+Fox News anchor Bret Baier called out Donald Trump over a Truth Social post in which he attacked Fox News report Jonathan Hunt as a flunky. On Special Report on Thursday, Hunt reported on the status of efforts to reach a peace deal between the United States and Iran, reporting that there were no significant [ ]
 
-### Ellen Pompeo To Star In Not A Sound Drama In Works At Hulu From David E. Kelley Productions
-Thu, 27 Aug 2026 21:36:23 +0000 — https://deadline.com/2026/08/ellen-pompeo-not-a-sound-series-hulu-david-e-kelley-1237061187/
+### ‘Krux’ Trailer: Toronto-Bound WWII Drama Captures True Story Of Disintegration Of Order In German Village
+Fri, 28 Aug 2026 14:14:03 +0000 — https://deadline.com/2026/08/krux-trailer-toronto-ww2-drama-germany-1237061806/
 
-EXCLUSIVE: In March 2005, one freshman ABC drama, David E. Kelley s Boston Legal, wrapped its season in the Sunday 10 PM slot to make room for another rookie, Grey s Anatomy starring Ellen Pompeo, which launched in the time period a week later. Twenty-one years after that handover, Pompeo and Kelley have come together for a [ ]
+EXCLUSIVE: German director Tony Valh’s World War Two drama Krux debuts in Toronto followed by San Sebastian next month and Deadline can reveal a first trailer. Inspired by true events, it tells the dark story of a small northeastern German village at the end of World War Two, when the Nazi regime gave its citizens the [ ]
 
-### Adults Star Lucy Freyer Thinks Julia Fox Put A Curse On Show After Season 1: Feels Like A Blessing
-Thu, 27 Aug 2026 21:22:37 +0000 — https://deadline.com/2026/08/adults-star-lucy-freyer-julia-fox-curse-1237061315/
+### AI Slop Showdown Over Tung Tung Sahur Italian Brainrot May Offer Glimpse At Hollywood s Future
+Fri, 28 Aug 2026 13:38:15 +0000 — https://deadline.com/2026/08/tung-tung-sahur-ai-lawsuit-latest-1237061549/
 
-As Adults returns tonight for Season 2, the show apparently has Julia Fox s witchy ways to thank. Lucy Freyer, who plays Billie Schaeffer on the FX comedy, recently revealed that the Season 1 guest star put a curse on the Ben Kronengold and Rebecca Shaw-created series, which releases all Season 2 episodes Thursday at 9pm [ ]
+With the very non-digital backdrop of the San Jose federal courthouse, one of the most oddly convoluted and potentially significant fights over who really owns what in the A.I. era is approaching a TKO. It s a fight full of slop, trademark and copyright claims, Italian Brainrot memes, licensing jousts, and a certain Tung Tung Sahur, [ ]
 
-### Alliance Cinema Backs David Mamet s Speed The Plow Lines Up Brazilian YA Adaptation Diary Of A Weird Girl
-Thu, 27 Aug 2026 21:01:11 +0000 — https://deadline.com/2026/08/alliance-cinema-backs-david-mamets-speed-the-plow-1237060785/
+### Apple TV Hikes Price, Will Now Cost $14.99 A Month In U.S.
+Fri, 28 Aug 2026 13:04:01 +0000 — https://deadline.com/2026/08/apple-tv-raises-rates-monthly-annual-plans-1237061804/
 
-EXCLUSIVE: L.A.- and Germany-based producer-financier Alliance Cinema, whose credits include My Big Fat Greek Wedding and Dark Tide, has joined David Mamet s Speed the Plow as an equity financier. Speed the Plow, currently in post-production, marks Pulitzer Prize-winning playwright Mamet s return to directing. Adapted from his acclaimed Broadway play, the feature stars Anthony Mackie, Ben [ ]
+Apple TV is the latest streamer to raise rates, announcing this morning that the monthly subscription price for the service will increase in the U.S. for new and existing subscribers as of August 28. The new monthly price is now $14.99 (from $12.99) and the annual price is up to $119 from $99. Existing subscribers [ ]
 
-### André 3000 Benjamin Cathy Moriarty Join Scooby-Doo: Origins Netflix Series Cast
-Thu, 27 Aug 2026 21:00:00 +0000 — https://deadline.com/2026/08/andre-3000-cathy-moriarty-scooby-doo-origins-series-cast-1237061273/
+### Edinburgh TV Festival Diary: Farewell To The Great City; YouTube Takeover; Channel 4’s Next Content Chief Paramount Mischief
+Fri, 28 Aug 2026 12:24:39 +0000 — https://deadline.com/2026/08/edinburgh-tv-festival-diary-youtube-paramount-channel-4-bbc-1237060857/
 
-EXCLUSIVE: André 3000 Benjamin (High Life; Jimi: All Is By My Side) is returning to the Scooby-Doo franchise with a recurring role on Netflix s upcoming series Scooby-Doo: Origins, which is currently filming in Atlanta. Cathy Moriarty (Raging Bull, Casper) also will recur on the live-action series, which has been garnering strong buzz internally ahead of [ ]
+The final Edinburgh TV Festival is nearly done, and with it decades of history come to an end. Deadline has been in town to assess the mood and take the temperature of an industry that is both metaphorically and physically changing. The vibe? A mix of melancholy, indifference and acceptance – it was almost like [ ]
 
