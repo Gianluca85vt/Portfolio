@@ -19,11 +19,11 @@ worth separating from the things Rockstar actually stated, because the
 reasoning behind it is more interesting than the number.
 
 <figure>
-  <button class="video-embed" data-video="MJOrsRRa9GM" data-title="Grand Theft Auto VI: An Extended Look — Now Playing" type="button">
+  <button class="video-embed" data-video="tJbzMqJGH4k" data-title="Grand Theft Auto VI: An Extended Look" type="button">
     <img src="/img/blog/gta-6-extended-look-30fps-question/video-thumb.jpg" loading="lazy" width="1280" height="720" alt="Still from Grand Theft Auto VI: An Extended Look" />
     <span class="play" aria-hidden="true"></span>
   </button>
-  <figcaption>The full 27 minutes, on Rockstar's own channel. Everything below is about what it implies rather than what happens in it.</figcaption>
+  <figcaption>All 26 minutes and 48 seconds of it, on Rockstar's own channel. Everything below is about what it implies rather than what happens in it.</figcaption>
 </figure>
 
 ## What was in the 27 minutes
