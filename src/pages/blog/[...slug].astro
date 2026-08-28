@@ -168,7 +168,13 @@ const jsonLd = {
           // Swap the still for the real player on click. Nothing is requested
           // from Google until someone asks for the video, so an article that is
           // read and never watched costs its readers nothing.
-          document.querySelectorAll('.video-embed').forEach((el) => {
+          //
+          // `data-external` opts a block out of this. An age-restricted video
+          // refuses to play in any embed — YouTube requires a signed-in viewer
+          // on its own site — so those are marked up as links instead, and the
+          // handler must leave them alone rather than replacing a working link
+          // with a player that will only ever show an error.
+          document.querySelectorAll('.video-embed:not([data-external])').forEach((el) => {
             el.addEventListener('click', () => {
               const id = el.dataset.video;
               if (!id || el.dataset.loaded) return;
