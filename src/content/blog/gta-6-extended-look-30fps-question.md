@@ -19,11 +19,11 @@ worth separating from the things Rockstar actually stated, because the
 reasoning behind it is more interesting than the number.
 
 <figure>
-  <a class="video-embed" data-external href="https://www.youtube.com/watch?v=tJbzMqJGH4k" target="_blank" rel="noreferrer">
+  <button class="video-embed" data-video="wSm9GTUttBs" data-title="GTA 6 (Grand Theft Auto 6) - Official Extended Gameplay" type="button">
     <img src="/img/blog/gta-6-extended-look-30fps-question/video-thumb.jpg" loading="lazy" width="1280" height="720" alt="Still from Grand Theft Auto VI: An Extended Look" />
     <span class="play" aria-hidden="true"></span>
-  </a>
-  <figcaption>All 26 minutes and 48 seconds of it, on Rockstar's own channel. It is age-restricted, which means YouTube refuses to play it anywhere but its own site, so this opens there. Everything below is about what the footage implies rather than what happens in it.</figcaption>
+  </button>
+  <figcaption>All 26 minutes and 48 seconds, via IGN's upload. <a href="https://www.youtube.com/watch?v=tJbzMqJGH4k" target="_blank" rel="noreferrer">Rockstar's own copy</a> is the same length to the second, but it is age-restricted and so will not play outside YouTube. Everything below is about what the footage implies rather than what happens in it.</figcaption>
 </figure>
 
 ## What was in the 27 minutes
