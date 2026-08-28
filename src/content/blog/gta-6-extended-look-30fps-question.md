@@ -18,6 +18,14 @@ evening. That number is a deduction made by people watching a video, and it is
 worth separating from the things Rockstar actually stated, because the
 reasoning behind it is more interesting than the number.
 
+<figure>
+  <button class="video-embed" data-video="MJOrsRRa9GM" data-title="Grand Theft Auto VI: An Extended Look — Now Playing" type="button">
+    <img src="/img/blog/gta-6-extended-look-30fps-question/video-thumb.jpg" loading="lazy" width="1280" height="720" alt="Still from Grand Theft Auto VI: An Extended Look" />
+    <span class="play" aria-hidden="true"></span>
+  </button>
+  <figcaption>The full 27 minutes, on Rockstar's own channel. Everything below is about what it implies rather than what happens in it.</figcaption>
+</figure>
+
 ## What was in the 27 minutes
 
 Jason and Lucia, in Leonida, working a pickup for someone called Boobie. Raul
@@ -92,8 +100,8 @@ turns up later on Pro hardware or on PC.
 If you want the fuller picture of what a curated reel does and does not tell
 you, I wrote about that [before the stream went
 live](/blog/gta-6-extended-look-what-to-watch-for/). Most of it still stands.
-The Extended Look goes up on Rockstar's YouTube channel and the Grand Theft
-Auto VI site at 9pm Eastern, which is 3am in Rome.
+The Extended Look is now on Rockstar's own channel and the Grand Theft Auto VI
+site, free and outside Netflix, and it is embedded above.
 
 ---
 
