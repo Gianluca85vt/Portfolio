@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-28T16:55:21.369Z
+# Film & TV — harvested 2026-08-29T11:21:12.021Z
 
 ## Variety
 
-### Payal Kapadia, Neeraj Churi, Subhadra Mahajan Among Talent Behind SASO, IFFSA-Backed South Asian Toronto Market Projects (EXCLUSIVE)
-Fri, 28 Aug 2026 16:15:36 +0000 — https://variety.com/2026/film/news/payal-kapadia-neeraj-churi-subhadra-mahajan-toronto-market-1236846057/
+### The Song of Scorpions, ‘Qissa’ Director Anup Singh Sets Mumbai Film ‘Lasya: The Gentle Dance’ (EXCLUSIVE)
+Sat, 29 Aug 2026 07:06:14 +0000 — https://variety.com/2026/film/news/anup-singh-lasya-the-gentle-dance-mumbai-film-1236846494/
 
-The South Asian Screen Office of Canada and IFFSA Toronto, in collaboration with Storiculture, have selected eight South Asian feature film projects for a new pathway to financiers and industry partners at the Toronto Film Festival s inugural market, under an initiative called South Asian Screen Futures. The slate includes talent tied to recent Sundance, Cannes [ ]
+Anup Singh, director of Qissa and The Song of Scorpions, is directing a new short film, Lasya: The Gentle Dance, shot on Mumbai s streets, produced by Mumbai-based Pretty Pictures. The Gentle Dance follows a father and son, beggars on Mumbai s roadside, over the course of a day in their lives. Monsoon rains repeatedly destroy their [ ]
 
-### Meg Stalter on Oh, Mary , Advice for Bowen Yang and Preparing Her Emmys Red Carpet Look With Paul Downs: It s in the Works
-Fri, 28 Aug 2026 16:00:00 +0000 — https://variety.com/2026/shopping/news/meg-stalter-oh-mary-emmys-red-carpet-looks-knorr-chicken-1236845664/
+### Shailene Woodley Was Crushed When She Found Out Her Scenes in Amazing Spider-Man 2 Were Cut: The Role of Mary Jane Was My Dream
+Sat, 29 Aug 2026 04:39:54 +0000 — https://variety.com/2026/film/news/shailene-woodley-amazing-spider-man-2-mary-jane-cut-a-year-after-filming-1236846453/
 
-Meg Stalter is never not in character. This summer alone, the comedian has spent eight shows a week playing a boozy, bratty Mary Todd Lincoln in Cole Escola s “Oh, Mary!,” taking over Broadway s starry title role after Maya Rudolph and following previous Marys including Escola and Jinkx Monsoon. Her 10-week run, which ends in September, [ ]
+More than 12 years later, Shailene Woodley has opened up about her disappointment in finding out that her part in The Amazing Spider-Man 2 opposite Andrew Garfield didn t make the final cut. Woodley, in a recent interview as part of the SAG-AFTRA Foundation Conversations series with actors about their craft, revealed that she found out [ ]
 
-### Sting-Narrated Documentary About ‘The Godfather,’ ‘La Dolce Vita’ Composer Nino Rota Boarded by Global Constellation (EXCLUSIVE)
-Fri, 28 Aug 2026 15:32:56 +0000 — https://variety.com/2026/film/global/nino-rota-global-constellation-venice-1236846027/
+### Kartik Aaryan s Captain India Sets September London Shoot (EXCLUSIVE)
+Sat, 29 Aug 2026 04:30:00 +0000 — https://variety.com/2026/film/news/kartik-aaryan-captain-india-september-london-shoot-1236846198/
 
-Vuelta’s sales and finance outfit Global Constellation has boarded international sales on “Nino: A Film About Nino Rota,” a documentary exploring the life and legacy of the Oscar-winning Italian composer, ahead of its world premiere at the Venice Film Festival, where it will screen in the Official Selection Out of Competition. Directed by Walter Fasano, [ ]
+Captain India, starring Kartik Aaryan, commences principal photography in London this September, with the shoot expected to wrap by the end of October. The film is directed by Shimit Amin, known for Chak De! India, a title that has continued to resonate with audiences years after its 2007 release. Captain India is produced by T-Series [ ]
 
-### Online Sleuthing Is Out of Control, and the Vitriol Against Patrick Clancy Proves It
-Fri, 28 Aug 2026 15:30:00 +0000 — https://variety.com/2026/digital/news/patrick-clancy-didnt-do-it-why-does-the-internet-think-hes-guilty-1236838968/
+### Naomi Osaka Debuts a Luxury Accessories Brand at Uncharted’s Fame to Fortune Summit in the Hamptons
+Sat, 29 Aug 2026 02:44:49 +0000 — https://variety.com/2026/biz/news/naomi-osaka-luxury-brand-uncharted-fame-to-fortune-summit-1236846357/
 
-The trial of Lindsay Clancy, a former labor and delivery nurse who admitted to strangling her three young children before attempting suicide in January 2023, has become the latest true crime sensation largely due to social media. Amateur sleuths, armchair lawyers and influencers have turned the soon-to-conclude trial into snackable, whodunit content, dissecting every detail [ ]
+Tennis champion Naomi Osaka has for years made the tennis court a runway, with her Nike outfits often paired with pieces made in collaboration with designers such as Hana Yagi and Robert Wun. Her next staple piece: one she’s designed herself. Such is the brand of luxury leather goods Osaka unveiled Friday at the Fame [ ]
 
-### Not Your Daddy s Films Expands With Film Independent as Fiscal Sponsor (EXCLUSIVE)
-Fri, 28 Aug 2026 15:30:00 +0000 — https://variety.com/2026/film/news/not-your-daddys-films-film-independent-fiscal-sponsorship-1236845770/
+### Bill Maher Delivers Lamest Dolly Parton Tribute Yet
+Sat, 29 Aug 2026 02:28:12 +0000 — https://variety.com/2026/tv/news/bill-maher-lamest-dolly-parton-tribute-real-time-hbo-1236846445/
 
-Not Your Daddy’s Films, a social impact organization focused on educating and elevating women and nonbinary filmmakers, is now fiscally sponsored by Film Independent, the non-profit independent media arts organization. News of the partnership comes as Not Your Daddy’s Films celebrates its fourth anniversary. The Los Angeles-based organization was founded in 2022 by Kourtney Bell, [ ]
+Last week, Bill Maher dedicated his long-running HBO show “Real Time” to defending Trump “human printer” Natalie Harp — after admitting he was too afraid to mock her oddly close relationship with President Trump because Laura Loomer sued him for ridiculing theirs (the lawsuit was tossed) — and getting chummy with Hunter Biden during his [ ]
 
-### Netflix Orders Manifest Spinoff Arrivals, With a New Mystery and Cast — Announced on 8/28, Of Course
-Fri, 28 Aug 2026 15:28:00 +0000 — https://variety.com/2026/tv/news/manifest-spinoff-netflix-arrivals-new-mystery-cast-1236845705/
+### Sara Bareilles Sings About Loss — and It s Our Gain — in the Beautifully Bittersweet Good Grief : Album Review
+Sat, 29 Aug 2026 01:46:46 +0000 — https://variety.com/2026/music/album-reviews/sara-bareilles-album-review-good-grief-1236846038/
 
-“Manifest,” the drama series about a plane that mysteriously disappeared and then returned five and a half years later — with none of its passengers aging — is about to get a sequel. Netflix announced Friday that it has given a greenlight to “Arrivals: A New Manifest Mystery,” a new sci-fi spinoff that comes from [ ]
+Well, just how good can grief be? That s a question raised by Sara Bareilles Good Grief, which, true to its promissory title, deals primarily with loss and death and the kind of tough stuff that folks in a marketing meeting might suggest slightly downplaying when one is releasing one s first studio album in seven years. [ ]
 
-### Edinburgh TV Festival Takeaways: YouTube’s Rise, Commissioning Landscape and Move to Manchester
-Fri, 28 Aug 2026 15:07:55 +0000 — https://variety.com/2026/tv/global/edinburgh-tv-festival-takeaways-youtube-commissioning-manchester-1236845964/
+### Zak Starkey and the Who Have Kissed and Made Up, as Rehearsal Reunion Is Revealed
+Sat, 29 Aug 2026 00:43:17 +0000 — https://variety.com/2026/music/news/zak-starkey-the-who-reconcile-rehearsal-1236846409/
 
-This year’s Edinburgh TV Festival was one of the buzziest, a somewhat ironic fact given it’s also the last. From next year the TV festival, which first originated in the Scottish city fifty years ago, is moving to Manchester. The move was inevitably the talk of this year’s edition, with many genuinely emotional at the [ ]
+Apparently the deep and much-talked-about rift between the Who and former (and future?) drummer Zak Starkey was not quite a hell-freezes-over situation after all. Starkey, who was famously revealed to have been unceremoniously handed his walking orders in April 2025, is now back with Roger Daltrey and Pete Townshend or at least he has [ ]
 
-### HBO Max Banks on Upcoming Genre Thriller ‘Mataviejitas: The Serial Killer’ (EXCLUSIVE)
-Fri, 28 Aug 2026 15:00:00 +0000 — https://variety.com/2026/film/global/hbo-max-upcoming-thriller-mataviejitas-the-serial-killer-1236844561/
+### California Lawmakers Settle on Partial Film Carveout From Tax Credit Cap
+Sat, 29 Aug 2026 00:32:51 +0000 — https://variety.com/2026/film/news/california-partial-film-carveout-tax-credit-cap-1236845354/
 
-HBO Max is firing up its Latin American slate with psychological thriller “Mataviejitas: The Serial Killer,” currently shooting in Mexico City. The new HBO original series is produced by Exile Content and has Mexico’s Humberto Hinojosa (“The Head of Joaquín Murrieta,” “Luis Miguel: The Series”) serving as the showrunner as well as co-directing alongside J.M. [ ]
+California lawmakers have agreed on a partial carveout for the film and TV industry from a state cap on tax credits. The bill, AB 186, was unveiled on Friday evening. It addresses concerns raised in June by the Motion Picture Association and a coalition of entertainment unions, who argued that the cap threatened to undermine [ ]
 
-### Larenz Tate Boards Vault, New Streaming and Distribution Platform for Indie Filmmakers (EXCLUSIVE)
-Fri, 28 Aug 2026 14:30:00 +0000 — https://variety.com/2026/film/news/larenz-tate-vault-streaming-platform-1236845660/
+### Nashville Airport Could Be Renamed for Dolly Parton, Tennessee Governor Announces
+Fri, 28 Aug 2026 23:36:56 +0000 — https://variety.com/2026/music/news/nashville-airport-could-be-renamed-for-dolly-parton-1236846385/
 
-Michael star Larenz Tate is expanding his influence behind the camera by joining the team behind Vault, a new streaming and distribution platform focused on empowering indie filmmakers. Tate has teamed up with Kenneth Gifford, founder of the Newark International Film Festival, for the project, along with his brothers and business partners Larron and Lahmard [ ]
+Country music icon, actress and philanthropist Dolly Parton dedicated her life to giving back to her home state of Tennessee, and now, three days after her death, her state is ready to give back to her, renewing an earlier proposal to rename the Nashville International Airport in her honor. Tennessee Gov. Bill Lee and the [ ]
 
-### Kirill Sokolov to Direct Animated Feature Alone in the Ocean, About Freediver Slava Kurilov s Famed Escape From Soviet Union (EXCLUSIVE)
-Fri, 28 Aug 2026 14:28:18 +0000 — https://variety.com/2026/film/global/kirill-sokolov-animated-feature-alone-in-the-ocean-1236845938/
+### What s Coming to Disney+ in September 2026
+Fri, 28 Aug 2026 23:20:00 +0000 — https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/
 
-Kirill Sokolov, the Russian filmmaker known for violent dark comedies such as Why Don t You Just Die! and his recent Hollywood debut They Will Kill You, is set to direct his first animated feature. Backed by Lazy Sunday and The Media Company, Alone in the Ocean will be based on the extraordinary life and legendary [ ]
+It s officially fall at Disney+, which is entering the month of September with a lineup of beloved spooky classics and all things football. Coraline, ParaNorman and Jennifer s Body are among the titles kicking off the fall season on the streaming platform and Hulu, which will also see the season premieres of familiar favorites like Chad [ ]
 
 ## The Hollywood Reporter
 
-### Late F1 Icon Gilles Villeneuve Drives For Speed, Trophies in ‘Rise of a Legend’ Trailer (Exclusive)
-Fri, 28 Aug 2026 16:46:50 +0000 — https://www.hollywoodreporter.com/movies/movie-news/rise-of-a-legend-trailer-gilles-villeneuve-1236684304/
+### Bill Maher Gives Unsavory Dolly Parton Tribute While Criticizing Media Coverage of Her Death
+Sat, 29 Aug 2026 05:33:39 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bill-maher-dolly-parton-death-tribute-1236684800/
 
-Director Yan Lanouette Turgeon’s turbo-charged biopic about the late and fearless Canadian race car driver will close TIFF on Sept. 19.
+Another tribute, like Maher's, that drew negative attention was that of Ricky Schroder, who portrayed Parton's father in two biopic movies based on her childhood.
 
-### New Operator of L.A. s Bruin Theatre Says His Antisemitic Comments Are Distractions From Reopening
-Fri, 28 Aug 2026 16:46:13 +0000 — https://www.hollywoodreporter.com/business/business-news/bruin-theatre-rui-pereira-antisemitic-comments-1236684292/
+### Olivia Rodrigo s Inaugural Daisy Chain Fields Will Be a Showing of Unity — Even for Photographers
+Sat, 29 Aug 2026 04:12:18 +0000 — https://www.hollywoodreporter.com/music/music-news/olivia-rodrigo-daisy-chain-fields-festival-staff-photos-1236684785/
 
-Independent exhibitor Rui Pereira has called Jews “sub human devils,” among other insults. Local Jewish groups are denouncing him.
+THR hears the female forward music festival is expected to be shot largely by female photographers.
 
-### Sacha Baron Cohen Ali G Movie Slammed as Racist, Activists Send 37,000 Emails to Theaters
-Fri, 28 Aug 2026 16:35:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sacha-baron-cohen-ali-g-movie-boycott-theaters-1236684226/
+### Jackie Glass, Swift Justice Host, Dies at 70
+Sat, 29 Aug 2026 03:52:59 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jackie-glass-dead-swift-justice-host-oj-simpson-1236684783/
 
-"I thought I'd play it safe and bring this guy back," wrote Cohen about the upcoming 'Ali G: Who Iz I?' movie, which is facing rising uproar.
+Glass was the judge who sentenced O.J. Simpson to 33 years in prison for armed-robbery in at a Las Vegas hotel 2008.
 
-### Meet Fernando Lindez, the Elite Star Turned Hollywood Romantic Lead in The Last Sunrise
-Fri, 28 Aug 2026 16:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/fernando-lindez-prime-video-romance-the-last-sunrise-1236673322/
+### Milo Yiannopoulos in ICE Custody After Feud-Fueled Tip-Off
+Sat, 29 Aug 2026 03:44:05 +0000 — https://www.hollywoodreporter.com/news/general-news/milo-yiannopoulos-ice-custody-tip-off-1236684770/
 
-"Making an American debut is the dream," the actor says of making his English acting debut with the romance adapted from Anna Todd's bestseller.
+Laura Loomer, whom the far-right provocateur waged a vicious campaign against last year, says she reported the political operative's immigration status
 
-### Roger Waters, Guy Pearce, Annie Ernaux Urge Venice Fest to Take “Concrete Action” for Palestine in Open Letter
-Fri, 28 Aug 2026 16:13:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/roger-waters-annie-ernaux-venice-fest-action-palestine-1236684274/
+### California Tries Offering Hollywood New Perks to Make Up for Catch in $750 Million Incentive Program
+Sat, 29 Aug 2026 01:23:53 +0000 — https://www.hollywoodreporter.com/business/business-news/california-budget-trailer-bill-hollywood-tax-credit-issue-1236678209/
 
-For the second year running, Italian and international artists under the Venice4Palestine banner have called for the Venice film festival to help stop what they describe as a genocide of the Palestinian people.
+The legislation introduced Friday proposes to exempt indie productions from business tax credit caps and allow productions to monetize their refunds faster.
 
-### Manifest Spinoff Arrivals Landing at Netflix
-Fri, 28 Aug 2026 16:08:03 +0000 — https://www.hollywoodreporter.com/tv/tv-news/manifest-spinoff-arrivals-netflix-1236684277/
+### Jelly Roll Clarifies Political Views, Regrets Not Taking Opportunity to Speak Up at Grammys
+Sat, 29 Aug 2026 00:42:48 +0000 — https://www.hollywoodreporter.com/music/music-news/jelly-roll-clarifies-political-views-after-grammys-1236684749/
 
-The announcement comes more than three years after the original series ended.
+The singer-songwriter opened up about his beliefs during his final night guest hosting 'Jimmy Kimmel Live!' after a Trump joke he made earlier in the week sparked backlash from conservatives.
 
-### Stephen Curry Doc on Hitting 4,000 3-Pointers Set for Imax Run from Disney in October (Exclusive)
-Fri, 28 Aug 2026 15:39:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/stephen-curry-documentary-imax-1236684141/
+### Coyote vs. Acme Star Will Forte, Director Celebrate Film Finally Hitting Theaters After Being Shelved by Warner Bros.: Proof Movies Don’t Just Go Away
+Fri, 28 Aug 2026 23:04:21 +0000 — https://www.hollywoodreporter.com/movies/movie-news/coyote-vs-acme-will-forte-director-celebrate-release-1236684609/
 
-‘Portrait of an Artist: Stephen Curry,’ about the single day and game where the NBA superstar set the new shooting record, will bow Oct. 9 on the giant screen circuit.
+"Persistence and resilience have truly won the day," filmmaker Dave Green wrote on social media Friday.
 
-### Anna Louizos, Scenic Designer for Broadway s ‘In the Heights,’ ‘School of Rock’ and ‘Avenue Q,’ Dies at 69
-Fri, 28 Aug 2026 15:31:13 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/anna-louizos-dead-in-the-heights-school-of-rock-avenue-q-1236684230/
+### Shelley Fabares Cause of Death Revealed
+Fri, 28 Aug 2026 23:01:55 +0000 — https://www.hollywoodreporter.com/news/general-news/shelley-fabares-cause-of-death-1236684687/
 
-The three-time Tony nominee also worked on ‘High Fidelity,’ ‘The Mystery of Edwin Drood,’ ‘Cinderella’ and HBO’s ‘Sex and the City.’
+The 'Coach' and 'Donna Reed Show' alum died Saturday at the age of 82.
 
-### Pierce Thiot, Creative Executive at Maximum Effort, Dies at 40
-Fri, 28 Aug 2026 15:26:54 +0000 — https://www.hollywoodreporter.com/business/business-news/maximum-effort-creative-executive-pierce-thiot-dead-1236683533/
+### Olivia Rodrigo s Daisy Chain Fields Raises $10 Million for Women-Focused Nonprofits
+Fri, 28 Aug 2026 22:50:35 +0000 — https://www.hollywoodreporter.com/music/music-news/olivia-rodrigo-daisy-chain-fields-raises-10-million-1236684633/
 
-He worked on some of the biggest and most culturally relevant brand campaigns in recent memory for the studio and marketing agency founded by Ryan Reynolds and George Dewey.
+“Daisy Chain Fields was created to celebrate the power of what can happen when we come together to support one another," Rodrigo said.
 
-### Ina Garten Is a YouTuber Now
-Fri, 28 Aug 2026 14:19:18 +0000 — https://www.hollywoodreporter.com/business/digital/ina-garten-launches-youtube-channel-happy-hour-1236684203/
+### Gladys Knight Announces She ll Partake in Fewer Performances Amid Next Stage of Career and Life
+Fri, 28 Aug 2026 22:38:14 +0000 — https://www.hollywoodreporter.com/music/music-news/gladys-knight-fewer-performances-next-stage-career-1236684667/
 
-The cookbook author and 'Barefoot Contessa' host will launch an interview podcast called 'Happy Hour' in partnership with Vox Media.
+"I’ll be spending more time on projects with my husband and visiting with my grandbabies and am looking forward to this new era," the singer wrote in an Instagram post.
 
 ## Deadline
 
-### Lord Of The Rings Producer Lines Up New Large-Scale Fantasy Movie Wars Of The Drakons
-Fri, 28 Aug 2026 16:31:38 +0000 — https://deadline.com/2026/08/lord-of-the-rings-producer-new-fantasy-movie-wars-drakons-1237061803/
+### Inside The Great British Bake Off Bun Fight: How Sky Love Productions Came To Blows Over The UK s Biggest Cooking Series
+Sat, 29 Aug 2026 08:07:58 +0000 — https://deadline.com/2026/08/inside-great-british-bake-off-fight-sky-love-productions-1237062324/
 
-EXCLUSIVE: Oscar-winner Barrie M. Osborne, one of only three producers credited with producing each of the original Lord Of The Rings movies, is lining up a new ambitious fantasy project called Wars Of The Drakons. The U.S. vet, also known for producing Face/Off and as an executive-producer on The Matrix, The Great Gatsby, The Meg [ ]
+EXCLUSIVE: In an op-ed during the Edinburgh TV Festival this week, Sky’s content chief Cecile Frot-Coutaz extolled the virtues of UK public service broadcasting as the Comcast-owned company finalizes its takeover of ITV. “Our ambition is to keep investing in brilliant British storytelling for generations to come,” she intoned in Broadcast. But away from the [ ]
 
-### Vanderpump Villa Renewed For Season 4 At Hulu
-Fri, 28 Aug 2026 16:00:00 +0000 — https://deadline.com/2026/08/vanderpump-villa-renewed-season-4-hulu-1237061673/
+### Real Time : Bill Maher Goes For A Boob Joke With Dolly Parton Tribute
+Sat, 29 Aug 2026 03:31:02 +0000 — https://deadline.com/2026/08/real-time-bill-maher-boob-joke-dolly-parton-tribute-1237062527/
 
-The queen of creating luxury experiences, Lisa Vanderpump, is heading to Salzburg, Austria, as Hulu renews Vanderpump Villa for a fourth season. Vanderpump will be joined by House of Stassi star Stassi Schroeder once again, with cast and guests for Season 4 being revealed at a later date. Other locations where the series, produced by Bunim/Murray Productions, [ ]
+As Dolly Parton leaves behind an untouchable legacy, Bill Maher went for an easy boob joke in his on-air tribute. On Friday s episode of Real Time, the comedian mentioned the 11x Grammy-winning Queen of Country s death at age 80 this week in his opening monologue, before making a quip about her signature busty appearance. All [ ]
 
-### Gladys Knight Taking Break From Stage Amid Health Concerns And Worrying Performance Videos
-Fri, 28 Aug 2026 15:54:22 +0000 — https://deadline.com/2026/08/gladys-knight-health-tour-break-1237061942/
+### Judge Jackie Glass Dead: Swift Justice TV Host Was 70
+Sat, 29 Aug 2026 03:06:13 +0000 — https://deadline.com/2026/08/judge-jackie-glass-dead-swift-justice-tv-host-1237062523/
 
-The great Gladys Knight will take a step back from the relentless touring that s marked her 75 years in show business. In a new Instagram post see it below the 82-year-old Midnight Train to Georgia” singer writes, “After much soul searching I’ve decided that I will be easing into fewer performances while focusing [ ]
+Judge Jackie Glass, the former Clark County judge who hosted the syndicated court show Swift Justice, has died. She was 70. Glass died on Friday afternoon in Las Vegas, TMZ reported after Glass daughter Rachel Wolfson posted a tribute to her late mother on social media. RIP my rock, wrote Wolfson on Facebook. I don t [ ]
 
-### Manifest Spinoff Arrivals Ordered By Netflix
-Fri, 28 Aug 2026 15:28:00 +0000 — https://deadline.com/2026/08/manifest-spinoff-series-arrivals-netflix-jeff-rake-1237061668/
+### California Lawmakers Introduce Compromise For Film Industry On Corporate Tax Credit Cap
+Sat, 29 Aug 2026 01:10:45 +0000 — https://deadline.com/2026/08/california-film-industry-corporate-tax-credit-cap-bill-1237062494/
 
-It s 8/28, time for Manifest news. Exactly five years to the minute after Netflix announced it was reviving Manifest for a fourth and final season following its NBC cancellation, the streamer is resurrecting the series again, this time with a spinoff. Netflix has greenlighted Arrivals: A New Manifest Mystery, a sci-fi drama set in the [ ]
+The California production community can breathe a sigh of relief: State lawmakers have officially introduced a bill meant to allow studios a few key exemptions from a recently enacted restriction on corporate tax credits. AB136, introduced Friday evening, addresses concerns raised from stakeholders including the Motion Picture Association about the threat of undermining the efforts [ ]
 
-### Coyote Vs. Acme $1.7M Previews, Dog Stars $850K As Canines Rule Thursday Box Office
-Fri, 28 Aug 2026 15:16:13 +0000 — https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/
+### Tennessee Governor Proposes Renaming Nashville Airport In Honor Of Dolly Parton
+Sat, 29 Aug 2026 01:07:46 +0000 — https://deadline.com/2026/08/tennessee-governor-rename-nashville-airport-dolly-parton-1237062498/
 
-Ketchup Entertainment s dog rescue of Warner Bros Animation s Coyote vs. Acme was solid in previews with $1.7M. That includes not only Thursday money from showtimes that began at 3 p.m. but also $446K from last weekend s sneaks in U.S. and Canada. The Dave Green-directed PG live-action/animated hybrid is expected to do plus-or-minus $15M this weekend. [ ]
+As the world mourns Dolly Parton, Tennessee has plans to immortalize the late Queen of Country while welcoming visitors to Music City. On Friday, Gov. Bill Lee s office announced a partnership with the Nashville International Airport (BNA) in conversations with Parton s team to rename the airport in honor of the 11x Grammy-winning country pop/songstress, who [ ]
 
-### Doctor Who On Prime Video? Amazon Execs Say They Welcome Any Conversation Around IP
-Fri, 28 Aug 2026 14:57:26 +0000 — https://deadline.com/2026/08/prime-video-doctor-who-amazon-execs-welcome-ip-conversation-1237061873/
+### Nicole Kidman Explains Spontaneous Appearance In Troye Sivan Video: I Didn t Need Any Information
+Fri, 28 Aug 2026 23:57:47 +0000 — https://deadline.com/2026/08/nicole-kidman-spontaneous-appearance-troye-sivan-video-1237062469/
 
-Could The Doctor come calling at Prime Video? Oliver Jones, Senior Commissioner for UK Scripted at the Amazon-owned streamer, set tongues wagging at the Edinburgh TV Festival when questioned if Prime Video could become the new international home for Doctor Who. I love Doctor Who, and we welcome any conversations around IP, said Jones, as [ ]
+Nicole Kidman seems to be popping up onscreen everywhere the past few years, and Troye Sivan s latest music video was no exception. After the Oscar-winning actress made a surprise appearance in the 3x Grammy-nominated artist s She s the Best music video earlier this month, she recently explained the spontaneous decision. I love him. I ve known him [ ]
 
-### Nigeria Has Its First Venice Giornate Entry With Damilola Orimogunje’s Family Portrait ‘Dear Ajayi’ — First-Look Trailer
-Fri, 28 Aug 2026 14:25:09 +0000 — https://deadline.com/2026/08/dear-ajayi-venice-giornate-damilola-orimogunje-1237061884/
+### Attack Of The Killer Tomatoes: Organic Intelligence Sets Fall PVOD Release
+Fri, 28 Aug 2026 23:36:39 +0000 — https://deadline.com/2026/08/attack-of-the-killer-tomatoes-organic-intelligence-release-date-1237062456/
 
-EXCLUSIVE: Next week, Nigerian filmmaker Damilola Orimogunje (For Maria Ebun Pataki) debuts his second feature film, Dear Ajayi, at the Venice Film Festival as part of the parallel Giornate degli Autori section. The title is the first from Nigeria to play in the competition. Check out the first trailer for the film above. The [ ]
+EXCLUSIVE: The fifth installment of Attack of the Killer Tomatoes, titled Attack of the Killer Tomatoes: Organic Intelligence, is coming to VOD platforms on October 6. This is following a theatrical release that began on August 7 for the David Ferino-directed comedy. The release comes via a strategic distribution partnership between Starboard Entertainment and Stonecutter [ ]
 
-### Bret Baier Defends Fox News Jonathan Hunt Amid Donald Trump s Attack On His Iran Report, Calls Out POTUS Claim That Segment Was Inaccurate
-Fri, 28 Aug 2026 14:20:05 +0000 — https://deadline.com/2026/08/bret-baier-trump-iran-report-1237061851/
+### Spider-Man Still Swinging To No. 1; Coyote Vs. Acme $12M-$14M Debut, Dog Stars Going To The Dogs Box Office Update
+Fri, 28 Aug 2026 23:04:00 +0000 — https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/
 
-Fox News anchor Bret Baier called out Donald Trump over a Truth Social post in which he attacked Fox News report Jonathan Hunt as a flunky. On Special Report on Thursday, Hunt reported on the status of efforts to reach a peace deal between the United States and Iran, reporting that there were no significant [ ]
+FRIDAY PM: It s Spidey s world, and Jacob Elordi and Wile E. Coyote are just living in it. But let s not ignore the pace we re seeing on Ketchup Entertainment theatrical release of the abandoned Warner Bros Looney Tunes title, Coyote Vs. Acme, which is eyeing third place with $12M-$14M. That’s a record domestic start for indie [ ]
 
-### ‘Krux’ Trailer: Toronto-Bound WWII Drama Captures True Story Of Disintegration Of Order In German Village
-Fri, 28 Aug 2026 14:14:03 +0000 — https://deadline.com/2026/08/krux-trailer-toronto-ww2-drama-germany-1237061806/
+### Shailene Woodley Recalls Getting Cut From The Amazing Spider-Man 2 : That Was A Fun Phone Call
+Fri, 28 Aug 2026 22:41:02 +0000 — https://deadline.com/2026/08/shailene-woodley-recalls-getting-cut-amazing-spider-man-2-1237062407/
 
-EXCLUSIVE: German director Tony Valh’s World War Two drama Krux debuts in Toronto followed by San Sebastian next month and Deadline can reveal a first trailer. Inspired by true events, it tells the dark story of a small northeastern German village at the end of World War Two, when the Nazi regime gave its citizens the [ ]
+Although the MCU has expanded the multiverse to bring back multiple Spider-Men, Shailene Woodley s Mary Jane Watson remains lost on the cutting room floor. The 2x Golden Globe nominee recently recalled her performance as Mary Jane Watson being cut from 2014 s The Amazing Spider-Man 2 after filming scenes with Andrew Garfield s Peter Parker. Oh, we [ ]
 
-### AI Slop Showdown Over Tung Tung Sahur Italian Brainrot May Offer Glimpse At Hollywood s Future
-Fri, 28 Aug 2026 13:38:15 +0000 — https://deadline.com/2026/08/tung-tung-sahur-ai-lawsuit-latest-1237061549/
+### Movie-Ticketing Giant Fandango Steps Into Distribution With House Of Worship Concert Film; Exec Talks Expansion Plans
+Fri, 28 Aug 2026 22:18:27 +0000 — https://deadline.com/2026/08/fandango-house-of-worship-brand-expansion-1237062291/
 
-With the very non-digital backdrop of the San Jose federal courthouse, one of the most oddly convoluted and potentially significant fights over who really owns what in the A.I. era is approaching a TKO. It s a fight full of slop, trademark and copyright claims, Italian Brainrot memes, licensing jousts, and a certain Tung Tung Sahur, [ ]
+Movie-ticketing giant Fandango is distributing its first film, House of Worship, which opened last weekend at about 400 theaters. They signed on for three days of screenings of the faith-based event pic featuring 25 popular Christian music artists. It s the latest push by the Versant Media division as it looks to expand beyond its bread-and-butter [ ]
 
-### Apple TV Hikes Price, Will Now Cost $14.99 A Month In U.S.
-Fri, 28 Aug 2026 13:04:01 +0000 — https://deadline.com/2026/08/apple-tv-raises-rates-monthly-annual-plans-1237061804/
+### ICE Confirms They Have Detained Commentator Milo Yiannopoulos
+Fri, 28 Aug 2026 22:13:40 +0000 — https://deadline.com/2026/08/milo-yiannopoulos-detained-by-ice-1237062376/
 
-Apple TV is the latest streamer to raise rates, announcing this morning that the monthly subscription price for the service will increase in the U.S. for new and existing subscribers as of August 28. The new monthly price is now $14.99 (from $12.99) and the annual price is up to $119 from $99. Existing subscribers [ ]
+The Department of Homeland Security confirmed that Immigration and Customs Enforcement has detained right wing commentator Milo Yiannopoulos for overstaying his visa. According to a statement posted on the DHS X account, Yiannopoulos, described as an illegal alien from the United Kingdom, was arrested at Louis Armstrong New Orleans International Airport on Thursday. Yiannopoulos legally [ ]
 
-### Edinburgh TV Festival Diary: Farewell To The Great City; YouTube Takeover; Channel 4’s Next Content Chief Paramount Mischief
-Fri, 28 Aug 2026 12:24:39 +0000 — https://deadline.com/2026/08/edinburgh-tv-festival-diary-youtube-paramount-channel-4-bbc-1237060857/
+### ‘Avengers Endgame: Encore’ Trailer Clocks 77 Million Views In 24 Hours, Quadrupling Record For A Re-Release Trailer
+Fri, 28 Aug 2026 22:04:07 +0000 — https://deadline.com/2026/08/avengers-endgame-encore-trailer-viewership-record-rerelease-1237062211/
 
-The final Edinburgh TV Festival is nearly done, and with it decades of history come to an end. Deadline has been in town to assess the mood and take the temperature of an industry that is both metaphorically and physically changing. The vibe? A mix of melancholy, indifference and acceptance – it was almost like [ ]
+EXCLUSIVE: The trailer for Avengers Endgame: Encore netted 77 million views in its first 24 hours, which is over four times the amount of any previous trailer re-release. Top Gun (1986) earned 19M views in the first 24 hours of the trailer re-release ahead of the film soaring back into theaters in May 2026 for [ ]
 

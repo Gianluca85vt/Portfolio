@@ -1,25 +1,21 @@
-# AI — harvested 2026-08-28T16:55:21.369Z
+# AI — harvested 2026-08-29T11:21:12.021Z
 
 ## OpenAI
+
+### Our decision on Cursor following its acquisition by SpaceX
+Fri, 28 Aug 2026 06:00:00 GMT — https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
+
+Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.
 
 ### Supporting Thailand’s next generation of AI startups
 Fri, 28 Aug 2026 02:00:00 GMT — https://openai.com/index/supporting-next-generation-ai-startups-thailand
 
 OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.
 
-### Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
-Thu, 27 Aug 2026 09:00:00 GMT — https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training
-
-A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.
-
-### Expanding OpenAI’s presence in Brazil
-Thu, 27 Aug 2026 03:00:00 GMT — https://openai.com/index/expanding-our-presence-in-brazil
-
-OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.
-
 ## Hugging Face
 
-_Nothing in the last 48 hours._
+### The Open ASR Leaderboard Adds Its First Global South Language
+Fri, 28 Aug 2026 00:00:00 GMT — https://huggingface.co/blog/open-asr-leaderboard-global-south
 
 ## Google DeepMind
 
@@ -30,11 +26,6 @@ Thu, 27 Aug 2026 16:11:32 +0000 — https://deepmind.google/blog/gemini-omni-1-1
 Thu, 27 Aug 2026 12:59:16 +0000 — https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/
 
 Piloting the world's first double-blind AI evaluations
-
-### Intelligent transcription with Gemini 3.5 Transcribe
-Wed, 26 Aug 2026 17:01:00 +0000 — https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/
-
-Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.
 
 ## VentureBeat AI
 

@@ -1,6 +1,26 @@
-# Games — harvested 2026-08-28T16:55:21.369Z
+# Games — harvested 2026-08-29T11:21:12.021Z
 
 ## Eurogamer
+
+### Playdate maker Panic is passing tariff refunds on to customers
+Sat, 29 Aug 2026 10:51:33 +0000 — https://www.eurogamer.net/panic-playdate-tariff-refunds-customers
+
+Panic, maker of the crank-powered handheld Playdate , is forwarding Supreme Court-ordered tariff refunds back to customers. Read more
+
+### Pokémon Tales: The Misadventures of Sirfetch'd & Pichu gets first trailer
+Sat, 29 Aug 2026 09:55:50 +0000 — https://www.eurogamer.net/pokemon-tales-sirfetchd-pichu-trailer-disney-plus
+
+The Pok&eacute;mon Company International and Aardman have released the first teaser trailer for Pok&eacute;mon Tales: The Misadventures of Sirfetch'd & Pichu, a new stop-motion series set in the Galar region. Read more
+
+### Total War: Warhammer 40,000 is aiming to be the "definitive" game for the setting, and I think it might be exactly that
+Sat, 29 Aug 2026 09:01:15 +0000 — https://www.eurogamer.net/total-war-warhammer-40000-impressions-gamescom
+
+In a small room inside a crowded Koelnesse convention centre, a short presentation on Total War: Warhammer 40,000 is shown to a gaggle of tired writers. Creative Assembly's brand manager says they're hoping to make the definitive game in the 40k universe. After playing the game for a little while, I think they may have pulled it off. Read more
+
+### What we've been playing - "Forget the classics: remaster the duds"
+Sat, 29 Aug 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-forget-the-classics-remaster-the-duds
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Kelsey didn't have to sacrifice a limb to play Elden Ring for the first time again; Bertie mucks around in the Prancing Pony with edgy Aragorn; and the rest of the team travels back from Germany. More to come from them next week! Read more
 
 ### Hell Let Loose: Vietnam review
 Fri, 28 Aug 2026 14:42:37 +0000 — https://www.eurogamer.net/hell-let-loose-vietnam-review
@@ -41,26 +61,6 @@ Popular livestreaming platform Twitch suffered a major outage soon after the pre
 Thu, 27 Aug 2026 21:07:47 +0000 — https://www.eurogamer.net/gta-6-has-more-than-10-times-the-animations-in-gta-5-and-double-the-amount-in-red-dead-redemption-2-rockstar-confirms
 
 Everyone was expecting GTA 6 to be massive, sure, but comparing the amount of unique animations in the game to what was included in Rockstar Games ' previous work really puts things into perspective. Read more
-
-### GTA 6: This is what a billion dollars gets you
-Thu, 27 Aug 2026 21:05:44 +0000 — https://www.eurogamer.net/gta-6-reaction-this-is-what-a-billion-dollars-gets-you
-
-There are plenty of layers to GTA 6 , if the game's 26-minute Netflix teaser is anything to go by. Read more
-
-### GTA 6's apparent shift towards awkward ultra-realism is a huge risk - and that's exactly why it's the right thing to do
-Thu, 27 Aug 2026 20:08:46 +0000 — https://www.eurogamer.net/gta-6-shift-towards-realism-rockstar-taking-huge-risk
-
-Scrabble together all the various, disparate nuggets of information released about Grand Theft Auto 6 since its big Netflix premiere, and you might spot a pattern emerging: Rockstar is going full, Red Dead Redemption 2 -style realism with GTA 6. In fact it sounds like it's going even further. Forget the breezy, plug-and-play, occasionally almost brainless action of previous GTAs, where you could steal any car in sight and mow down crowds of bumbling, shrieking NPCs with abandon. Forget the game you play half-blazed at 3am, or illicitly but easily aged 12, or simply on autopilot to casually unwind from everyday life. GTA 6 sounds like it's shooting for real life itself. In fact it might actually be so real that at times it's downright awkward. Read more
-
-### Every activity we've spotted in GTA 6's extended look trailer and previews so far
-Thu, 27 Aug 2026 19:46:00 +0000 — https://www.eurogamer.net/gta-6-activities-things-to-do-spotted-so-far
-
-Anyone who played a Grand Theft Auto game before will tell you that a lot of the fun comes from everything you can do outside of scripted story sequences. GTA 6 looks to offer a wide range of things to do in Leonida that don't include shooting people or driving recklessly. Read more
-
-### GTA 6's Netflix trailer premiere was so popular it temporarily crashed the streaming service
-Thu, 27 Aug 2026 19:31:17 +0000 — https://www.eurogamer.net/grand-theft-auto-6-netflix-something-went-wrong
-
-Those eager to see GTA 6 's big Netflix reveal this evening were met with a "Something Went Wrong" message at the moment the video was meant to go live, with the rush to see Rockstar's latest open-world epic seemingly bringing the streaming service to its knees. Read more
 
 ## GamesIndustry.biz
 
@@ -109,26 +109,21 @@ Thu, 27 Aug 2026 12:22:00 +0000 — https://www.gamesindustry.biz/newzoo-2026-co
 
 Without the launch of Grand Theft Auto 6 this year, console revenue would be flat compared to 2025. Read more
 
-### "The things that we based our assumptions on have changed fundamentally": Arrowhead CEO Shams Jorjani on the games industry's rapid transformation
-Thu, 27 Aug 2026 11:10:08 +0000 — https://www.gamesindustry.biz/the-things-that-we-based-our-assumptions-on-have-changed-fundamentally-arrowhead-ceo-shams-jorjani-on-the-games-industrys-rapid-transformation
-
-The CEO of Helldivers 2 maker Arrowhead Game Studios, Shams Jorjani, has said that the games industry is in a "transitional phase at the moment". Read more
-
-### Roblox to establish Saudi Arabia headquarters to support MENA creators
-Thu, 27 Aug 2026 10:44:11 +0000 — https://www.gamesindustry.biz/roblox-to-establish-saudi-arabia-headquarters-to-support-mena-creators
-
-Roblox has announced plans to open a headquarters in Riyadh to support its creator program in the Middle East and North Africa (MENA). Read more
-
-### "We view AI as a sliding scale. There will always be a human in the loop; that's our ethos": Why Side has signed an MOU with Modl.ai to use AI for QA
-Thu, 27 Aug 2026 10:34:25 +0000 — https://www.gamesindustry.biz/we-view-ai-as-a-sliding-scale-there-will-always-be-a-human-in-the-loop-thats-our-ethos-why-side-has-signed-an-mou-with-modlai-to-use-ai-for-qa
-
-Services provider Side has signed a memorandum of understanding with Danish AI firm Modl.ai. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### See You When We re Ready : Dev Acknowledges Leaked Iron Man PS5 Trailer
+Fri, 28 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/see-you-when-were-ready-dev-acknowledges-leaked-iron-man-ps5-trailer
+
+Stark contrast. Snoops with good Google-fu may be able to find a test trailer for Marvel’s Iron Man , the upcoming open world game in development at EA and Motive. We know this is legit because the team posted on social media about it earlier today: Read the full article on pushsquare.com
+
+### Talking Point: What Are You Playing This Weekend? - Issue 647
+Fri, 28 Aug 2026 22:12:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-6471
+
+In good company. That marks the end of a busy week, packed with Gamescom announcements and GTA 6 gameplay footage. Let's decompress with some games, eh? Jamie O'Neill Since I'm staying with family, it's an assortment of PS Vita games entertaining me at the moment. Hopefully, I'll be able to catch up with Ratchet & Clank: Rift Apart at the end of next month for my New Year's resolution. Read the full article on pushsquare.com
 
 ### Tech Experts Call GTA 6 the Most Impressive Example of Real-Time Rendering We ve Ever Seen
 Fri, 28 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/tech-experts-call-gta-6-the-most-impressive-example-of-real-time-rendering-weve-ever-seen
@@ -180,16 +175,6 @@ Thu, 27 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-
 
 According to Netflix. In a matter of hours, Rockstar Games will finally lift the veil on GTA 6 with an extended look at gameplay. This will be our first proper glimpse at the game in action, and while there have been a series of leaked clips over the last few days, I think this will be worth watching for anybody interested. Read the full article on pushsquare.com
 
-### Is Forza Horizon 6 on PS5 Still on Course for Release in 2026?
-Thu, 27 Aug 2026 13:15:00 GMT — https://www.pushsquare.com/news/2026/08/is-forza-horizon-6-on-ps5-still-on-course-for-release-in-2026
-
-Late drive. In January of this year, it was confirmed that Forza Horizon 6 would indeed be coming to PS5, albeit at a later date than the Xbox and PC release. We've been waiting ever since to learn exactly when the port would arrive; currently, the only official information is that the PS5 version is scheduled to arrive in 2026. Read the full article on pushsquare.com
-
-### Feature: 40+ PS5, PS4 Games to Buy in PS Store s Gamescom Sale
-Thu, 27 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-gamescom-sale
-
-Cheap PS5 and PS4 games we recommend. PS Store's latest sale is a Gamescom promotion, running from now until 9th September 2026. Browsing through the thousands of PS5 and PS4 games can take a while, so we've put together a list of games we recommend you check out. Everything listed here comes with at least a 7/10 score from Push Square , and every game is at its lowest price point, with some setting new lows in this sale. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### GDC Side Quest - Inside Austin Wintory's Collaborative Composing Process
@@ -236,19 +221,4 @@ Xbox isn't healthy, she said again.
 Thu, 27 Aug 2026 14:17:05 GMT — https://www.gamedeveloper.com/business/saudi-owned-media-conglomerate-mbc-expands-into-the-game-industry
 
 MBC Game Studio broke cover at Gamescom 2026 and has already hired veterans from BioWare, Hi-Rez, Ubisoft Montreal, and Bungie.
-
-### Obituary: Actor Tim Curry, celebrated for his work in games, has passed at age 80
-Wed, 26 Aug 2026 20:08:56 GMT — https://www.gamedeveloper.com/audio/obituary-actor-tim-curry-celebrated-for-his-work-in-games-has-passed-at-age-80
-
-The charismatic star of stage and screen also lent his likeness to a number of celebrated video games.
-
-### Rockstar Games 'heartbroken' by Grand Theft Auto 6 leaks
-Wed, 26 Aug 2026 18:30:00 GMT — https://www.gamedeveloper.com/business/rockstar-games-heartbroken-by-grand-theft-auto-6-leaks
-
-The Grand Theft Auto 6 maker has responded to the game's massive leaks.
-
-### Playdate maker Panic is refunding tariff fees to customers
-Wed, 26 Aug 2026 18:21:55 GMT — https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers
-
-'It's just not our money to keep, and it felt really good to give it back.'
 
