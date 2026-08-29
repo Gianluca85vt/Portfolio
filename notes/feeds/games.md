@@ -1,6 +1,21 @@
-# Games — harvested 2026-08-29T11:21:12.021Z
+# Games — harvested 2026-08-29T17:22:29.837Z
 
 ## Eurogamer
+
+### EA breaks its silence after Iron Man gameplay leak, admitting "well, that didn't go as planned"
+Sat, 29 Aug 2026 14:56:18 +0000 — https://www.eurogamer.net/ea-motive-iron-man-leak-response-tweet
+
+EA has broken its silence on the leaked Iron Man footage that surfaced yesterday , admitting, "well, that didn't go as planned". Read more
+
+### GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process
+Sat, 29 Aug 2026 14:25:56 +0000 — https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix
+
+Reaction streams to Grand Theft Auto 6 's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far. Read more
+
+### Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6
+Sat, 29 Aug 2026 12:09:49 +0000 — https://www.eurogamer.net/squadron-42-delayed-2027-gta-6
+
+Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6 . Read more
 
 ### Playdate maker Panic is passing tariff refunds on to customers
 Sat, 29 Aug 2026 10:51:33 +0000 — https://www.eurogamer.net/panic-playdate-tariff-refunds-customers
@@ -47,21 +62,6 @@ Fri, 28 Aug 2026 09:06:26 +0000 — https://www.eurogamer.net/star-wars-zero-com
 
 I'm still early days on Star Wars Zero Company, but I think I'm in love. And this is kind of expected and also kind of strange. It's kind of expected because this is XCOM: Star Wars at first glance, and jeepers I love XCOM. I love moving my little units around, pondering when to advance and when to hang back, and I even love missing a shot that surely was almost a dead cert. Read more
 
-### GTA 6's map is so massive, you could fit two GTA 5s in it - and we know roughly how long it'll take to beat too
-Thu, 27 Aug 2026 21:37:19 +0000 — https://www.eurogamer.net/gta-6-map-size-length-how-big-revealed
-
-As part of its massive GTA 6 info blowout , Rockstar has been talking sizes - both of the map kind and length kind - confirming its latest open-world epic unfolds across a world that's twice as big as that of GTA 5 , and should take around 80 hours to complete. Read more
-
-### Twitch suffers major outage following Grand Theft Auto 6's extended look gameplay trailer premiere
-Thu, 27 Aug 2026 21:10:45 +0000 — https://www.eurogamer.net/twitch-down-outage-grand-theft-auto-6
-
-Popular livestreaming platform Twitch suffered a major outage soon after the premiere of the Grand Theft Auto 6 extended look on Netflix . Read more
-
-### GTA 6 has more than 10 times the animations in GTA 5, and double the amount in Red Dead Redemption 2, Rockstar confirms
-Thu, 27 Aug 2026 21:07:47 +0000 — https://www.eurogamer.net/gta-6-has-more-than-10-times-the-animations-in-gta-5-and-double-the-amount-in-red-dead-redemption-2-rockstar-confirms
-
-Everyone was expecting GTA 6 to be massive, sure, but comparing the amount of unique animations in the game to what was included in Rockstar Games ' previous work really puts things into perspective. Read more
-
 ## GamesIndustry.biz
 
 ### GTA 6 will have a halo effect for the entire industry | Opinion
@@ -99,31 +99,36 @@ Thu, 27 Aug 2026 18:26:08 +0000 — https://www.gamesindustry.biz/playdate-maker
 
 Playdate maker Panic is refunding tariff surcharges to customers after receiving its own refund from the US government after the Supreme Court ruled that President Trump's tariffs were an unlawful use of emergency powers. Read more
 
-### European games industry revenue reached €30bn in 2025
-Thu, 27 Aug 2026 13:39:30 +0000 — https://www.gamesindustry.biz/european-games-industry-revenue-reached-30bn-in-2025
-
-The European games industry generated &euro;30 billion in 2025, with digital purchases accounting for 91% of total revenue, according to Video Games Europe (VGE). Read more
-
-### Newzoo: 2026 console revenue would be flat year-on-year without Grand Theft Auto 6
-Thu, 27 Aug 2026 12:22:00 +0000 — https://www.gamesindustry.biz/newzoo-2026-console-revenue-would-be-flat-year-on-year-without-grand-theft-auto-6
-
-Without the launch of Grand Theft Auto 6 this year, console revenue would be flat compared to 2025. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Poll: Are You Happy with Your PS Plus Essential Games for September 2026?
+Sat, 29 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-september-2026
+
+Plus or minus? Where does the time go? We're just days away from the beginning of September, if you can believe it, and that can only mean one thing: new PS Plus Essential games to (hopefully) look forward to. At a glance, I think next month's lineup has something for everyone. We've got an historically-grounded shooter, a sports sim, an indie RPG, and a quirky sandbox offering that you can play with your mates. Read the full article on pushsquare.com
+
+### Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (31st-6th September)
+Sat, 29 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-31st-6th-september
+
+Onimusha! Dawnwalker! NBA 2K! Crimson Moon! We’ve now hit the busy release schedule, with two giant PS5 titles launching next week: The Blood of Dawnwalker and Onimusha: Way of the Sword . Other titles worth paying attention to include Crimson Moon and NBA 2K27 . Read the full article on pushsquare.com
+
+### Hands On: Alien Isolation 2 Was My Favourite PS5 Game at Gamescom
+Sat, 29 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/features/hands-on-alien-isolation-2-was-my-favourite-ps5-game-at-gamescom
+
+The wait is almost over. Hands down, Alien Isolation 2 was the highlight of my time at Gamescom 2026 — and that’s even with the demo I played being the same one that many got their hands on at Summer Games Fest earlier this year. This long-awaited sequel from Creative Assembly is easily my most hyped PS5 game for 2027, and my 20 minutes – running on PC with a DualSense controller – solidified that. Sure, that’s not a lot of time, but CA wastes no time making you feel right at home. Read the full article on pushsquare.com
+
+### Talking Point: What Are You Playing This Weekend? - Issue 647
+Sat, 29 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-6471
+
+In good company. That marks the end of a busy week, packed with Gamescom announcements and GTA 6 gameplay footage. Let's decompress with some games, eh? Jamie O'Neill Since I'm staying with family, it's an assortment of PS Vita games entertaining me at the moment. Hopefully, I'll be able to catch up with Ratchet & Clank: Rift Apart at the end of next month for my New Year's resolution. Read the full article on pushsquare.com
+
 ### See You When We re Ready : Dev Acknowledges Leaked Iron Man PS5 Trailer
 Fri, 28 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/see-you-when-were-ready-dev-acknowledges-leaked-iron-man-ps5-trailer
 
 Stark contrast. Snoops with good Google-fu may be able to find a test trailer for Marvel’s Iron Man , the upcoming open world game in development at EA and Motive. We know this is legit because the team posted on social media about it earlier today: Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 647
-Fri, 28 Aug 2026 22:12:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-6471
-
-In good company. That marks the end of a busy week, packed with Gamescom announcements and GTA 6 gameplay footage. Let's decompress with some games, eh? Jamie O'Neill Since I'm staying with family, it's an assortment of PS Vita games entertaining me at the moment. Hopefully, I'll be able to catch up with Ratchet & Clank: Rift Apart at the end of next month for my New Year's resolution. Read the full article on pushsquare.com
 
 ### Tech Experts Call GTA 6 the Most Impressive Example of Real-Time Rendering We ve Ever Seen
 Fri, 28 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/tech-experts-call-gta-6-the-most-impressive-example-of-real-time-rendering-weve-ever-seen
@@ -160,21 +165,6 @@ Thu, 27 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/features/poll-are-y
 
 Day one? So, it finally happened: we've seen GTA 6 in action. Well, not all of us have, thanks to the gameplay being exclusive to Netflix for six hours; if you're yet to catch the footage yourself, feel free to revisit this poll once you're up to speed. Read the full article on pushsquare.com
 
-### Godfall Dev s Single Player Action Shooter Armatus Takes Aim at January Release Date on PS5
-Thu, 27 Aug 2026 17:15:00 GMT — https://www.pushsquare.com/news/2026/08/godfall-devs-single-player-action-shooter-armatus-takes-aim-at-january-release-date-on-ps5
-
-Lock and load. Armatus now has a confirmed launch date, having previously promised a vague 'winter' window. The cool-looking action shooter will release for PS5 on the 7th January, adding to what's quickly becoming a very hectic first few months of the year for Sony's system. Read the full article on pushsquare.com
-
-### Stuntman: Hollywood Welcomes You to Jurassic World in Latest Trailer
-Thu, 27 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/stuntman-hollywood-welcomes-you-to-jurassic-world-in-latest-trailer
-
-That's a wrap-tor. Saber Interactive has just announced another movie licence for its upcoming revival of the cult classic Stuntman series. Stuntman: Hollywood brings back the arcade driving game, injecting it with numerous well-known films and TV shows. Among them will be Jurassic World , as revealed in this new trailer: Read the full article on pushsquare.com
-
-### GTA 6 Extended Look Will Show Nearly 30 Minutes of Gameplay, Captured on PS5
-Thu, 27 Aug 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-extended-look-will-show-nearly-30-minutes-of-gameplay-captured-on-ps5
-
-According to Netflix. In a matter of hours, Rockstar Games will finally lift the veil on GTA 6 with an extended look at gameplay. This will be our first proper glimpse at the game in action, and while there have been a series of leaked clips over the last few days, I think this will be worth watching for anybody interested. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### GDC Side Quest - Inside Austin Wintory's Collaborative Composing Process
@@ -196,29 +186,4 @@ It's not a bug, it's a feature.
 Fri, 28 Aug 2026 09:57:07 GMT — https://www.gamedeveloper.com/business/spanish-union-calls-for-ongoing-strike-action-at-ubisoft-mobile-barcelona
 
 'The strike was communicated to the company in early August; however, the workers' representatives are still awaiting a response.'
-
-### How you (yes, you) can benefit from 1-on-1 synchronous playtesting
-Thu, 27 Aug 2026 16:48:40 GMT — https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting
-
-In his 2026 GDC Festival of Gaming talk, designer Brian Cronin makes the case for one-on-one playtesting.
-
-### CD Projekt Red has The Witcher 4 running on all target platforms after Cyberpunk 2077 lesson
-Thu, 27 Aug 2026 16:41:50 GMT — https://www.gamedeveloper.com/production/cd-projekt-red-has-the-witcher-4-running-on-all-target-platforms-after-cyberpunk-2077-lesson
-
-Game Developer spoke to CD Projekt Red co-CEO Michal Nowakowski.
-
-### Saber exec: The game industry must look beyond North America and dilute risk
-Thu, 27 Aug 2026 15:00:00 GMT — https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-look-beyond-north-america-and-dilute-risk
-
-Saber chief creative officer Tim Willits said studios need to find 'reliable' income to support their big swings.
-
-### Xbox CEO Asha Sharma once again stresses Xbox's need for affordability
-Thu, 27 Aug 2026 14:40:00 GMT — https://www.gamedeveloper.com/business/xbox-ceo-asha-sharma-once-again-stresses-xbox-s-need-for-affordability
-
-Xbox isn't healthy, she said again.
-
-### Saudi media conglomerate MBC expands into video game industry with new studio
-Thu, 27 Aug 2026 14:17:05 GMT — https://www.gamedeveloper.com/business/saudi-owned-media-conglomerate-mbc-expands-into-the-game-industry
-
-MBC Game Studio broke cover at Gamescom 2026 and has already hired veterans from BioWare, Hi-Rez, Ubisoft Montreal, and Bungie.
 

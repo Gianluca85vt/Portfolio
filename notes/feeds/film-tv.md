@@ -1,6 +1,31 @@
-# Film & TV — harvested 2026-08-29T11:21:12.021Z
+# Film & TV — harvested 2026-08-29T17:22:29.837Z
 
 ## Variety
+
+### Anne Hathaway Joins Tom Cruise in ‘Days of Thunder’ Follow-Up; Paramount Sets Release Date (EXCLUSIVE)
+Sat, 29 Aug 2026 16:58:07 +0000 — https://variety.com/2026/film/news/anne-hathaway-tom-cruise-days-of-thunder-sequel-1236839347/
+
+Anne Hathaway will star opposite Tom Cruise in the next chapter of “Days of Thunder,” Variety has learned exclusively. Paramount Pictures has dated the feature film sequel for June 2, 2028, when Cruise and Hathaway will hit the road almost 40 years after the original Tony Scott film was released. The project will be shot [ ]
+
+### Box Office: The Dog Stars Struggles With Just $3 Million on Friday; Spider-Man: Brand New Day to Win Weekend Again
+Sat, 29 Aug 2026 16:20:00 +0000 — https://variety.com/2026/film/news/box-office-the-dog-stars-spider-man-brand-new-day-1236846559/
+
+20th Century’s “The Dog Stars” and Keylight Pictures’ “Coyote vs. Acme” both debuted in theaters on Friday, but Sony and Marvel’s “Spider-Man: Brand New Day” will once again win the weekend. “Coyote vs. Acme” fared best of the two major newcomers, landing in second place with an estimated $5.2 million domestically on Friday from 3,575 [ ]
+
+### Here s How to Watch Moses Itauma vs. Filip Hrgovic Boxing Pay-Per-View Live Online
+Sat, 29 Aug 2026 15:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-moses-vs-hrgovic-boxing-ppv-live-online-1236845973/
+
+The best boxers in the world travel to London this weekend, where English fighter Moses Itauma (14-0-0) takes on Albanian Filip Hrgovic (20-2-0) in the heavyweight title main event on Saturday, Aug. 29. For Queensberry Promotions, the Itauma vs. Hrgovic pay-per-view event takes place at The O2 Arena in London, England. Coverage and prelims begin [ ]
+
+### Here s How to Watch the 2026-2027 NCAA College Football Season Live Online
+Sat, 29 Aug 2026 12:45:16 +0000 — https://variety.com/2026/shopping/news/how-to-watch-college-football-season-online-free-1235703850/
+
+The new season is finally here! The 2026-2027 NCAA College Football season officially kicks off with its first big weekend of games starting on Saturday, Aug. 23. Starting on Saturday, Aug. 29, The first game of the season is North Carolina Tar Heels vs. TCU Horned Frogs at Aviva Stadium in Dublin, Ireland, with a [ ]
+
+### Chantelle Cameron vs. Mikaela Mayer Livestream: Here’s Where to Watch the Unification Title Bout Online for Free
+Sat, 29 Aug 2026 12:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-chantelle-cameron-vs-mikaela-mayer-boxing-live-online-free-1236846060/
+
+The best boxers in the world travel to England for the Most Valuable Promotions Women (MVPW) boxing event. For the main event, English Chantelle Cameron (22-1-0) takes on American boxer Mikaela Mayer (22-2-0). The unification title bout is scheduled for 10 rounds. Cameron s WBO belt, as well as Mayer s WBA and WBC champion titles are [ ]
 
 ### The Song of Scorpions, ‘Qissa’ Director Anup Singh Sets Mumbai Film ‘Lasya: The Gentle Dance’ (EXCLUSIVE)
 Sat, 29 Aug 2026 07:06:14 +0000 — https://variety.com/2026/film/news/anup-singh-lasya-the-gentle-dance-mumbai-film-1236846494/
@@ -27,34 +52,14 @@ Sat, 29 Aug 2026 02:28:12 +0000 — https://variety.com/2026/tv/news/bill-maher-
 
 Last week, Bill Maher dedicated his long-running HBO show “Real Time” to defending Trump “human printer” Natalie Harp — after admitting he was too afraid to mock her oddly close relationship with President Trump because Laura Loomer sued him for ridiculing theirs (the lawsuit was tossed) — and getting chummy with Hunter Biden during his [ ]
 
-### Sara Bareilles Sings About Loss — and It s Our Gain — in the Beautifully Bittersweet Good Grief : Album Review
-Sat, 29 Aug 2026 01:46:46 +0000 — https://variety.com/2026/music/album-reviews/sara-bareilles-album-review-good-grief-1236846038/
-
-Well, just how good can grief be? That s a question raised by Sara Bareilles Good Grief, which, true to its promissory title, deals primarily with loss and death and the kind of tough stuff that folks in a marketing meeting might suggest slightly downplaying when one is releasing one s first studio album in seven years. [ ]
-
-### Zak Starkey and the Who Have Kissed and Made Up, as Rehearsal Reunion Is Revealed
-Sat, 29 Aug 2026 00:43:17 +0000 — https://variety.com/2026/music/news/zak-starkey-the-who-reconcile-rehearsal-1236846409/
-
-Apparently the deep and much-talked-about rift between the Who and former (and future?) drummer Zak Starkey was not quite a hell-freezes-over situation after all. Starkey, who was famously revealed to have been unceremoniously handed his walking orders in April 2025, is now back with Roger Daltrey and Pete Townshend or at least he has [ ]
-
-### California Lawmakers Settle on Partial Film Carveout From Tax Credit Cap
-Sat, 29 Aug 2026 00:32:51 +0000 — https://variety.com/2026/film/news/california-partial-film-carveout-tax-credit-cap-1236845354/
-
-California lawmakers have agreed on a partial carveout for the film and TV industry from a state cap on tax credits. The bill, AB 186, was unveiled on Friday evening. It addresses concerns raised in June by the Motion Picture Association and a coalition of entertainment unions, who argued that the cap threatened to undermine [ ]
-
-### Nashville Airport Could Be Renamed for Dolly Parton, Tennessee Governor Announces
-Fri, 28 Aug 2026 23:36:56 +0000 — https://variety.com/2026/music/news/nashville-airport-could-be-renamed-for-dolly-parton-1236846385/
-
-Country music icon, actress and philanthropist Dolly Parton dedicated her life to giving back to her home state of Tennessee, and now, three days after her death, her state is ready to give back to her, renewing an earlier proposal to rename the Nashville International Airport in her honor. Tennessee Gov. Bill Lee and the [ ]
-
-### What s Coming to Disney+ in September 2026
-Fri, 28 Aug 2026 23:20:00 +0000 — https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/
-
-It s officially fall at Disney+, which is entering the month of September with a lineup of beloved spooky classics and all things football. Coraline, ParaNorman and Jennifer s Body are among the titles kicking off the fall season on the streaming platform and Hulu, which will also see the season premieres of familiar favorites like Chad [ ]
-
 ## The Hollywood Reporter
 
-### Bill Maher Gives Unsavory Dolly Parton Tribute While Criticizing Media Coverage of Her Death
+### TCU vs. UNC: Where to Watch the 2026 College Football Season Opener Online
+Sat, 29 Aug 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-tcu-vs-unc-college-football-streams-free-aug-29-2026-1236684631/
+
+NCAA football is back. Here's how to livestream the Aug. 29 game between the North Carolina Tar Heels and TCU Horned Frogs.
+
+### Bill Maher Pays Tribute to Dolly Parton With Nipple Joke
 Sat, 29 Aug 2026 05:33:39 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bill-maher-dolly-parton-death-tribute-1236684800/
 
 Another tribute, like Maher's, that drew negative attention was that of Ricky Schroder, who portrayed Parton's father in two biopic movies based on her childhood.
@@ -99,12 +104,42 @@ Fri, 28 Aug 2026 22:50:35 +0000 — https://www.hollywoodreporter.com/music/musi
 
 “Daisy Chain Fields was created to celebrate the power of what can happen when we come together to support one another," Rodrigo said.
 
-### Gladys Knight Announces She ll Partake in Fewer Performances Amid Next Stage of Career and Life
-Fri, 28 Aug 2026 22:38:14 +0000 — https://www.hollywoodreporter.com/music/music-news/gladys-knight-fewer-performances-next-stage-career-1236684667/
-
-"I’ll be spending more time on projects with my husband and visiting with my grandbabies and am looking forward to this new era," the singer wrote in an Instagram post.
-
 ## Deadline
+
+### Anne Hathaway Joins Tom Cruise In Days Of Thunder 2 At Paramount
+Sat, 29 Aug 2026 16:59:44 +0000 — https://deadline.com/2026/08/anne-hathaway-tom-cruise-days-of-thunder-2-1237062516/
+
+Paramount Pictures is really revving its engines on the upcoming Days of Thunder 2 starring Tom Cruise as Anne Hathaway is set to join Cruise in the sequel. Cruise announced the news on his social platforms featuring a picture of the two A-listers leaning against a Nascar race car in Daytona. The picture also announced [ ]
+
+### Liza Minnelli Pays Tribute To Friend Dolly Parton: When I Was In Trouble? Dolly Knew It.
+Sat, 29 Aug 2026 16:54:24 +0000 — https://deadline.com/2026/08/liza-minnelli-dolly-parton-1237062623/
+
+Liza Minnelli has added herself to the fans and friends paying tribute to the late Dolly Parton, posting an emotional message on Instagram saying this week s news was devastating. Beginning the message with her signature Hey Kids, Minnelli notes that she and the country music icon once shared an agent, Sam Haskell. Sam brought Dolly [ ]
+
+### Spider-Man Nearing $900M; Coyote Vs. Acme Solid $14M Debut A CinemaScore, Dog Stars Going To The Dogs Box Office Update
+Sat, 29 Aug 2026 15:46:00 +0000 — https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/
+
+SATURDAY AM WRITETHRU after Friday afternoon post: It s Spidey s world, and Jacob Elordi and Wile E. Coyote are just living in it. But let s not ignore the pace we re seeing on Ketchup Entertainment s release of the abandoned Warner Bros Looney Tunes title, Coyote Vs. Acme, which is eyeing third place now with $14M. Coyote vs. [ ]
+
+### Alma Har’el s Family Drama Wet Heading To TIFF Market With 193; A-List Cast Circling
+Sat, 29 Aug 2026 14:17:50 +0000 — https://deadline.com/2026/08/alma-harel-wet-movie-tiff-market-a-list-cast-circling-1237062594/
+
+Honey Boy director Alma Har’el’s next project Wet is heading to the TIFF market with Patrick Wachsberger s 193 and is attracting what could be a killer cast. News of the project broke online last month via Page Six who reported that Oscar winner Javier Bardem was in talks. Bardem remains in early talks for the [ ]
+
+### Paranormal Activity Broadway Review: Stage Adaptation Of Film Franchise Is A Frightfully Good Time
+Sat, 29 Aug 2026 14:00:00 +0000 — https://deadline.com/2026/08/paranormal-activity-broadway-review-1237061077/
+
+There are plenty of laughs in Paranormal Activity, a play that just might be Broadway s scariest horror story ever, but they re not the lighthearted jolly chuckles of, say, Titanique or the gut-bucket guffaws of Oh, Mary! No, the laughs in Levi Holloway s chiller are more along the lines of those recalled from sharing a movie [ ]
+
+### Alex Winter Bringing Arthur Miller s Incident At Vichy Revival To Off Broadway Next Year
+Sat, 29 Aug 2026 13:00:00 +0000 — https://deadline.com/2026/08/alex-winter-incident-at-vichy-off-broadway-1237061879/
+
+EXCLUSIVE: Alex Winter, who costarred with his old Bill Ted partner Keanu Reeves last year in the Broadway revival of Waiting For Godot, will return to the New York stage next year in a Small Boat Productions Off Broadway revival of Arthur Miller s 1964 play Incident at Vichy. Winter will both star in and [ ]
+
+### Amid Growing Galliano Backlash, Met Gala Mulls Date Change Report
+Sat, 29 Aug 2026 12:49:49 +0000 — https://deadline.com/2026/08/galliano-met-gala-possible-date-change-1237062587/
+
+Amid growing backlash over the Met Gala s choice to honor designer John Galliano at the big event next May, Met trustees and board members are mulling whether to reschedule the fundraiser away from the previously announced May 3 date to avoid coinciding with the Holocaust and Heroism Remembrance Day. The possibility of postponing the gala [ ]
 
 ### Inside The Great British Bake Off Bun Fight: How Sky Love Productions Came To Blows Over The UK s Biggest Cooking Series
 Sat, 29 Aug 2026 08:07:58 +0000 — https://deadline.com/2026/08/inside-great-british-bake-off-fight-sky-love-productions-1237062324/
@@ -130,39 +165,4 @@ The California production community can breathe a sigh of relief: State lawmaker
 Sat, 29 Aug 2026 01:07:46 +0000 — https://deadline.com/2026/08/tennessee-governor-rename-nashville-airport-dolly-parton-1237062498/
 
 As the world mourns Dolly Parton, Tennessee has plans to immortalize the late Queen of Country while welcoming visitors to Music City. On Friday, Gov. Bill Lee s office announced a partnership with the Nashville International Airport (BNA) in conversations with Parton s team to rename the airport in honor of the 11x Grammy-winning country pop/songstress, who [ ]
-
-### Nicole Kidman Explains Spontaneous Appearance In Troye Sivan Video: I Didn t Need Any Information
-Fri, 28 Aug 2026 23:57:47 +0000 — https://deadline.com/2026/08/nicole-kidman-spontaneous-appearance-troye-sivan-video-1237062469/
-
-Nicole Kidman seems to be popping up onscreen everywhere the past few years, and Troye Sivan s latest music video was no exception. After the Oscar-winning actress made a surprise appearance in the 3x Grammy-nominated artist s She s the Best music video earlier this month, she recently explained the spontaneous decision. I love him. I ve known him [ ]
-
-### Attack Of The Killer Tomatoes: Organic Intelligence Sets Fall PVOD Release
-Fri, 28 Aug 2026 23:36:39 +0000 — https://deadline.com/2026/08/attack-of-the-killer-tomatoes-organic-intelligence-release-date-1237062456/
-
-EXCLUSIVE: The fifth installment of Attack of the Killer Tomatoes, titled Attack of the Killer Tomatoes: Organic Intelligence, is coming to VOD platforms on October 6. This is following a theatrical release that began on August 7 for the David Ferino-directed comedy. The release comes via a strategic distribution partnership between Starboard Entertainment and Stonecutter [ ]
-
-### Spider-Man Still Swinging To No. 1; Coyote Vs. Acme $12M-$14M Debut, Dog Stars Going To The Dogs Box Office Update
-Fri, 28 Aug 2026 23:04:00 +0000 — https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/
-
-FRIDAY PM: It s Spidey s world, and Jacob Elordi and Wile E. Coyote are just living in it. But let s not ignore the pace we re seeing on Ketchup Entertainment theatrical release of the abandoned Warner Bros Looney Tunes title, Coyote Vs. Acme, which is eyeing third place with $12M-$14M. That’s a record domestic start for indie [ ]
-
-### Shailene Woodley Recalls Getting Cut From The Amazing Spider-Man 2 : That Was A Fun Phone Call
-Fri, 28 Aug 2026 22:41:02 +0000 — https://deadline.com/2026/08/shailene-woodley-recalls-getting-cut-amazing-spider-man-2-1237062407/
-
-Although the MCU has expanded the multiverse to bring back multiple Spider-Men, Shailene Woodley s Mary Jane Watson remains lost on the cutting room floor. The 2x Golden Globe nominee recently recalled her performance as Mary Jane Watson being cut from 2014 s The Amazing Spider-Man 2 after filming scenes with Andrew Garfield s Peter Parker. Oh, we [ ]
-
-### Movie-Ticketing Giant Fandango Steps Into Distribution With House Of Worship Concert Film; Exec Talks Expansion Plans
-Fri, 28 Aug 2026 22:18:27 +0000 — https://deadline.com/2026/08/fandango-house-of-worship-brand-expansion-1237062291/
-
-Movie-ticketing giant Fandango is distributing its first film, House of Worship, which opened last weekend at about 400 theaters. They signed on for three days of screenings of the faith-based event pic featuring 25 popular Christian music artists. It s the latest push by the Versant Media division as it looks to expand beyond its bread-and-butter [ ]
-
-### ICE Confirms They Have Detained Commentator Milo Yiannopoulos
-Fri, 28 Aug 2026 22:13:40 +0000 — https://deadline.com/2026/08/milo-yiannopoulos-detained-by-ice-1237062376/
-
-The Department of Homeland Security confirmed that Immigration and Customs Enforcement has detained right wing commentator Milo Yiannopoulos for overstaying his visa. According to a statement posted on the DHS X account, Yiannopoulos, described as an illegal alien from the United Kingdom, was arrested at Louis Armstrong New Orleans International Airport on Thursday. Yiannopoulos legally [ ]
-
-### ‘Avengers Endgame: Encore’ Trailer Clocks 77 Million Views In 24 Hours, Quadrupling Record For A Re-Release Trailer
-Fri, 28 Aug 2026 22:04:07 +0000 — https://deadline.com/2026/08/avengers-endgame-encore-trailer-viewership-record-rerelease-1237062211/
-
-EXCLUSIVE: The trailer for Avengers Endgame: Encore netted 77 million views in its first 24 hours, which is over four times the amount of any previous trailer re-release. Top Gun (1986) earned 19M views in the first 24 hours of the trailer re-release ahead of the film soaring back into theaters in May 2026 for [ ]
 
