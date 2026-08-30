@@ -1,4 +1,4 @@
-# Games — harvested 2026-08-29T17:22:29.837Z
+# Games — harvested 2026-08-30T10:06:59.427Z
 
 ## Eurogamer
 
@@ -57,11 +57,6 @@ Fri, 28 Aug 2026 11:04:23 +0000 — https://www.eurogamer.net/saber-half-life-2-
 
 Saber Interactive made headlines recently when its boss had an ugly spat with a former employee about the company's use of gen-AI in taxi game Rideshare Stimulator . Matthew Karch, Saber's co-founder and CEO, since apologised, and made sure Rideshare got proper AI disclosure labels on Steam. But a larger question mark over Saber's approach to gen-AI remained. Read more
 
-### Star Wars Zero Company understands that Star Wars games should feel less like the movies and more like the toys
-Fri, 28 Aug 2026 09:06:26 +0000 — https://www.eurogamer.net/star-wars-zero-company-impressions-toys-movies
-
-I'm still early days on Star Wars Zero Company, but I think I'm in love. And this is kind of expected and also kind of strange. It's kind of expected because this is XCOM: Star Wars at first glance, and jeepers I love XCOM. I love moving my little units around, pondering when to advance and when to hang back, and I even love missing a shot that surely was almost a dead cert. Read more
-
 ## GamesIndustry.biz
 
 ### GTA 6 will have a halo effect for the entire industry | Opinion
@@ -79,31 +74,36 @@ Fri, 28 Aug 2026 11:17:59 +0000 — https://www.gamesindustry.biz/cloud-imperium
 
 The release of Star Citizen spin-off Squadron 42 has been postponed to Q2 2027 to avoid "launching into the attention buzz saw of Grand Theft Auto 6." Read more
 
-### Rockstar formed a new LA-based team to develop more realistic NPCs for Grand Theft Auto 6
-Fri, 28 Aug 2026 09:32:46 +0000 — https://www.gamesindustry.biz/rockstar-formed-a-new-la-based-team-to-develop-more-realistic-npcs-for-grand-theft-auto-6
-
-Rockstar Games established a new team focused on developing more realistic NPCs for Grand Theft Auto 6. Read more
-
-### Sensor Tower: Netflix US mobile viewership increased 35% during GTA 6 extended preview
-Fri, 28 Aug 2026 08:09:05 +0000 — https://www.gamesindustry.biz/sensor-tower-netflix-us-mobile-viewership-increased-35-during-gta-6-extended-preview
-
-Netflix US mobile viewership rose 35% hour-over-hour during Grand Theft Auto 6's extended preview yesterday , according to data from Sensor Tower. Read more
-
-### Grand Theft Auto 6 30-minute teaser debuts on Netflix
-Thu, 27 Aug 2026 19:33:45 +0000 — https://www.gamesindustry.biz/grand-theft-auto-6-30-minute-teaser-debuts-on-netflix
-
-Take-Two Interactive and Rockstar Games' Grand Theft Auto 6 extended gameplay debut is now live on Netflix . Read more
-
-### Playdate maker Panic refunds tariff surcharges to customers
-Thu, 27 Aug 2026 18:26:08 +0000 — https://www.gamesindustry.biz/playdate-maker-panic-refunds-tariff-surcharges-to-customers
-
-Playdate maker Panic is refunding tariff surcharges to customers after receiving its own refund from the US government after the Supreme Court ruled that President Trump's tariffs were an unlawful use of emergency powers. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Hands On: I Waited 13 Years to Play The Wolf Among Us 2, But I Have One Concern
+Sat, 29 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/features/hands-on-i-waited-13-years-to-play-the-wolf-among-us-2-but-i-have-one-concern
+
+The temp asset among us. I’ve been waiting for The Wolf Among Us 2 for an age. When I played the original, I was about 17-years-old, and my mates and I used to squeeze into my tiny bedroom to play the game on Xbox 360. So it was an odd sensation squeezing into a tiny booth at Gamescom to check out the sequel 13 years later. Read the full article on pushsquare.com
+
+### Sony Will Explore New Game Projects via $180m Stake in Japanese Publisher, But PlayStation Is Not Involved
+Sat, 29 Aug 2026 21:30:00 GMT — https://www.pushsquare.com/news/2026/08/sony-will-explore-new-game-projects-via-usd180m-stake-in-japanese-publisher-but-playstation-is-not-involved
+
+Sony Music strikes again. One of the truly strange things about Sony is sometimes it feels like its divisions aren’t aligned. While the company has broadly gotten better at unifying its various units, you still get oddities, like Sony Music subsidiary Aniplex supporting Switch and not PlayStation. Read the full article on pushsquare.com
+
+### I m Obsessed with GTA 6 s Next-Gen Wanted System
+Sat, 29 Aug 2026 21:00:00 GMT — https://www.pushsquare.com/news/2026/08/im-obsessed-with-gta-6s-next-gen-wanted-system
+
+Here's what all the icons mean. I may be about to say something blasphemous, but one of my least favourite things about previous GTA games is escaping the cops. I know, it’s basically the entire point of the game, but I’ve just never found it fun. Once pursued, you basically just drive your car as fast as you can, and try to avoid any police that spawn in your general vicinity. Read the full article on pushsquare.com
+
+### This Looks Like Dogsh*t : Disturbing DLSS 5 AI Filter Applied to Major PS5 Games After Leaking
+Sat, 29 Aug 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/08/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-applied-to-major-ps5-games-after-leaking
+
+AI don't really like it. Nvidia’s controversial new DLSS 5 filter, which caused a bit of a hullabaloo earlier this year , has leaked online – and instantly been implemented into pretty much every major PS5 game on the market. While previous iterations of Nvidia’s upscaling technology have broadly been praised – using reconstruction techniques to reduce computational load without impacting image quality – this version appears to use generative AI to alter artistic intent. Read the full article on pushsquare.com
+
+### $900 PS5 Pro Selling Out During PlayStation Blackout Amid GTA 6 Fever
+Sat, 29 Aug 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever
+
+No disc drive, no buy? Sony’s supercharged PS5 Pro hardware model is selling out in the US as GTA 6 fever takes hold – despite an ongoing blackout protest taking place against PlayStation hardware. Fans have mobilised to keep their consoles unplugged indefinitely , but such is the demand for the PS5’s most powerful model that third-party sellers are charging as much as $1,300 for the device on Amazon . That’s a huge mark-up on its $900 MSRP. Read the full article on pushsquare.com
 
 ### Poll: Are You Happy with Your PS Plus Essential Games for September 2026?
 Sat, 29 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-september-2026
@@ -140,31 +140,6 @@ Fri, 28 Aug 2026 12:45:00 GMT — https://www.pushsquare.com/news/2026/08/new-ma
 
 Round of a-claws. Out in a matter of weeks, Sony's latest PS5 exclusive is Marvel's Wolverine , a superhero action adventure starring everyone's favourite ball of rage. When it launches on 15th September, it looks like it'll come packed with lots of interesting features and accessibility options, as detailed in this new trailer: Read the full article on pushsquare.com
 
-### GTA 6 Contains No Microtransactions or Generative AI, Rockstar Says
-Fri, 28 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-contains-no-microtransactions-or-generative-ai-rockstar-says
-
-Grand no theft auto. Amid all this new information and footage of GTA 6 , the massively anticipated open world game, it's been reported that the game will not feature any microtransactions, nor has Rockstar Games used generative AI. This info comes via Kinda Funny Games as they discuss their preview at the company's headquarters in Edinburgh, where they got to speak to Rob Nelson, co-studio head of Rockstar North. Read the full article on pushsquare.com
-
-### PS5, PS4 Beat- Em-Up Scott Pilgrim EX Grows with Both Free and Premium Content
-Fri, 28 Aug 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-ps4-beat-em-up-scott-pilgrim-ex-grows-with-both-free-and-premium-content
-
-New mode and characters available. Earlier this year, we were treated to Scott Pilgrim EX , a brand new side-scrolling beat-'em-up from developer Tribute Games. The game is pretty good, with a retro art style, punchy combat, and a metric tonne of references to the beloved Bryan Lee O'Malley graphic novels. Read the full article on pushsquare.com
-
-### Watch GTA 6 Extended Look Here - 17 Things We ve Learned
-Fri, 28 Aug 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned
-
-Get all the new GTA 6 details and images here. Years in the making, our first look at GTA 6 gameplay is available now... on Netflix. As the video is behind a subscription service's paywall, we cannot host it here on the site just yet. There's a six-hour exclusivity window, and the deep dive will be uploaded to YouTube later. Here's when the GTA 6 Extended Look will be live on YouTube:<time>9PM EDT 27th Aug 2026</time> Read the full article on pushsquare.com
-
-### GTA 6 Targeting 30fps on PS5, Undecided on Performance Mode
-Thu, 27 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/08/gta-6-targeting-30fps-on-ps5-undecided-on-performance-mode
-
-Not surprising really. GTA 6 is targeting 30fps on PS5 right now, with Rockstar uncertain whether it’ll add a Performance Mode later. That’s likely to include the PS5 Pro by the way, which has a beefier GPU than its base counterpart, but is unlikely to pack enough CPU power to double the frame rate. Read the full article on pushsquare.com
-
-### Poll: Are You Sold on GTA 6?
-Thu, 27 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-sold-on-gta-6
-
-Day one? So, it finally happened: we've seen GTA 6 in action. Well, not all of us have, thanks to the gameplay being exclusive to Netflix for six hours; if you're yet to catch the footage yourself, feel free to revisit this poll once you're up to speed. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### GDC Side Quest - Inside Austin Wintory's Collaborative Composing Process
@@ -181,9 +156,4 @@ Plus: No More Room in Hell 2 surpasses 1 million players after exiting a pivotal
 Fri, 28 Aug 2026 12:03:43 GMT — https://www.gamedeveloper.com/design/warlock-s-magic-system-was-built-on-game-breaking-player-choices
 
 It's not a bug, it's a feature.
-
-### Spanish union calls for ongoing strike action at Ubisoft Mobile Barcelona
-Fri, 28 Aug 2026 09:57:07 GMT — https://www.gamedeveloper.com/business/spanish-union-calls-for-ongoing-strike-action-at-ubisoft-mobile-barcelona
-
-'The strike was communicated to the company in early August; however, the workers' representatives are still awaiting a response.'
 

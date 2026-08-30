@@ -1,4 +1,4 @@
-# Tech — harvested 2026-08-29T17:22:29.837Z
+# Tech — harvested 2026-08-30T10:06:59.427Z
 
 ## Ars Technica
 
@@ -57,12 +57,22 @@ Fri, 28 Aug 2026 11:00:39 +0000 — https://arstechnica.com/space/2026/08/rocket
 
 Welcome to Edition 9.08 of the Rocket Report! Some major news this week from the state of Louisiana, previously associated with space due to NASA's aging Michoud Assembly Facility near New Orleans. Now the state has a chance to become the epicenter of SpaceX's Starship program as the company plans to invest up to $100 billion to construct factories and multiple launch pads for the super heavy lift rocket. It would utterly transform coastal Louisiana. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. ESA announces big launch challenge contracts . The European Space Agency said Thursday it signed contracts with a handful of European launch startups to help them continue development of their vehicles. "The European Launcher Challenge is ESA’s initiative to expand European launch service supply and ensure more robustness in Europe’s access to space," the space agency said of the award, which supports the development and operation of small launch vehicles in Europe. For some of these firms, the funding will provide a key lifeline. Read full article Comments ]]>
 
-### Anthropic's new hardware standard lets AI agents control the physical world
-Thu, 27 Aug 2026 22:15:43 +0000 — https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/
-
-For all the interest in and uptake of agentic AI systems over the past year or so , the world of automated AI has thus far been primarily limited to text, images, code, and other data and actions that take place inside a computer. Anthropic is now aiming to change that somewhat with what it's calling the Model Hardware Standard (MHS), a set of standardized drivers designed to let AI agents easily interface with and control arbitrary devices. For now, the "research preview" of the MHS effort is being sold mainly as a way to help scientists streamline the arduous process of creating the custom software integrations that are often needed to get disparate components of an experiment working in concert. MHS can provide a common interface and common format for data sharing between these devices, Anthropic says, allowing them to talk to each other across a network "without needing a bespoke 'translator' program in between." The standardized system could reduce weeks or months of exacting experimental setup down to "hours or minutes," Anthropic writes. An Anthropic graphic illustrating how MHS serves as a "translation" layer between AI agents and multiple types of devices. Credit: Anthropic In a video posted alongside the announcement , Anthropic Technical Staffer Alek Kemeny says the MHS effort was inspired by observing neuroscientist Arco Bast work through an experiment on memory formation in the brain at the HHMI Janelia Research Campus in Ashburn, Virginia. Kemeny said Bast had w
-
 ## The Verge
+
+### Vicariously hike the Appalachian in the gorgeous A Trail Tale
+2026-08-29T16:59:26-04:00 — https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale
+
+Inspired by Oregon Trail, but minus the dysentery. | Screenshot: Terrence O’Brien / The Verge I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing to reconnect with my love of the outdoors and just recently took my kids on their first camping trip. So I discovered A Trail Tale at a really opportune time. It's an interactive trail journal created by Andy Moliski with help from his brothers Adam and Alex. The various segments of the trail are rendered in beautiful pixel art reminiscent of a '90s S … Read the full story at The Verge. ]]>
+
+### Alt-right troll Milo Yiannopoulos has been deported
+2026-08-29T15:49:59-04:00 — https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice
+
+Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, a final order of removal was issued on July 22. The British national made a name for himself as an editor at Steve Bannon's Breitbart and an early supporter of Donald Trump's. He has had a long history of controversial statements and associations, including reportedly helping arrange Trump's dinner with Kanye West an … Read the full story at The Verge. ]]>
+
+### Sony Music and Warner Chappell are suing Anthropic
+2026-08-29T14:19:53-04:00 — https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright
+
+Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for "tens of thousands" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount. This is just the latest high-profile suit against Anthropic, which recently settled a suit brought by the publishing industry for $1.5 billion . It's also faced multiple lawsuits from … Read the full story at The Verge. ]]>
 
 ### Distraction-free writing gadget BYOK is adding custom extensions
 2026-08-29T12:01:13-04:00 — https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions
@@ -99,22 +109,12 @@ Asha Sharma. | Image: The Verge, Microsoft According to Xbox CEO Asha Sharma, Pr
 
 Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for deep black levels and great contrast, their high price point may be off-putting to some buyers. Mini-LED TVs like this TCL are a more wallet-friendly option, and have high brightness while also supporting features like Quantum Dots for vivid colors. TCL QM7L Where to Buy: $997.99 $797.99 at Amazon (55-inch) $1499.99 $899.99 at Best Buy (65-inch) The QM7L also includes the features you’d expect from a premium television. The 144Hz refresh rate is supported by Variable Refresh Rate to reduce tearing and input lag while gaming, with HDR and Dolby Vision support for great image quality and contrast. The screens have Google TV onboard, with support for AirPlay 2 in case you want to stream from an Apple device. Other deals to consider Star Trek fans can pick up the Picard Legacy Collection on Blu-Ray for $137.49 from Amazon , a thirty percent discount from the normal price. This 54-disc set covers the entirety of Patrick Stewart’s legendary role as Captain Jean-Luc Picard, including all seven seasons of The Next Generation, the four movies that accompanied the series, and all three seasons of Picard . The 5,000mAh Anker MagGo power bank is on sale for $29.99 (usually $49.95) at Amazon . Thi
 
-### Trump’s EPA wants to let data centers hide their air pollution
-2026-08-28T12:28:40-04:00 — https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit
-
-Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites apply for an air permit. Advocates warn that the move would allow data center developers and other industries to break ground without giving nearby residents a say, or even a warning that construction is planned. "You can see why that would be so interesting to an administration that wants to rush through the … Read the full story at The Verge. ]]>
-
-### DLSS 5 leaked and modders are putting Nvidia s AI effects on everything
-2026-08-28T12:22:16-04:00 — https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai
-
-The unofficial version of DLSS 5 makes Jesse Faden’s features much more pronounced. | Image: gabdeg via YouTube Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim , Cyberpunk 2077 , GTA V , and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27 . Members of the RenoDX modding channel on Discord reportedly found a way to extract the DLSS "Neural Rendering" file and apply it to Control before it expanded to other games, as reported earlier by Notebook Check and VideoCardz . In one video , a person shows how Control protagonist Jesse Faden's facial features become more and less defined as they tweak various DLSS 5 settings enabled by the RenoDX modders. With the "Neural Uplift" sett … Read the full story at The Verge. ]]>
-
-### The iPhone Fold could make concerts even worse
-2026-08-28T11:26:19-04:00 — https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast
-
-You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast , we dive right into the big week of Apple news. First, it's the refreshed Mac Mini and Mac Studio, as well as the new M6 and M5 Ultra chips. Apple is advertising them all as achievements in AI inference, but we're skeptical this is more than a marketing ploy for now. Then we get into the newly announced Apple event, why we're not expecting to see an iPhone 18, and whether the folding phone form factor is really good enough yet for Apple. After that, … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### US military uses high-energy lasers to shoot down three Mexican cartel drones over the southern border — narcos suspected of using UAVs for surveillance and reconnaissance to support illegal activities
+Sun, 30 Aug 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/drones/us-military-uses-high-energy-lasers-to-shoot-down-three-mexican-cartel-drones-over-the-southern-border-narcos-suspected-of-using-uavs-for-surveillance-and-reconnaissance-to-support-illegal-activities
+
+The U.S. military shot down three drones that were suspected of operating for Mexican cartels earlier this week. According to CBS News , the uncrewed aerial vehicles (UAVs) were destroyed by an “Army Multipurpose High Energy Laser System” operated by U.S. Northern Command (USNORTHCOM) between Tuesday evening and Wednesday morning. "Cartel networks are increasingly employing unmanned aircraft systems to facilitate illicit human-smuggling and actively spy on our personnel and law enforcement partners," Maj. Gen. Curtis Taylor, commander of the southern border's Joint Task Force, said in a statement. "By integrating layered countermeasures alongside advanced directed-energy capabilities like this laser system, we have made it clear that we will not tolerate hostile surveillance." It’s unclear if the drones were shot down over American or Mexican airspace, but a military spokesperson told the outlet that they “were taken in coordination with all partners operating along the border.” This isn’t the first time that a laser weapon has been used to defend American airspace. Back in February, the Pentagon used a similar system after it detected and shot down unknown aerial targets. This resulted in the emergency closure of a major airport, resulting in massive disruptions, and it also turned out that the targets were later reported to be just party balloons . Another incident involving the use of laser weapons happened a couple of weeks later, and it resulted in the shooting down of a
 
 ### California lawmakers unanimously pass Linux exemption from age-verification law — software distributed under the GPL, MIT, BSD, and Apache licenses are exempt
 Sat, 29 Aug 2026 15:57:13 +0000 — https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt
@@ -171,12 +171,17 @@ Fri, 28 Aug 2026 15:55:43 +0000 — https://www.tomshardware.com/pc-components/d
 
 The ongoing DRAM crisis has led to a sharp increase in laptop prices, with manufacturers facing exponentially high component costs, particularly memory and SSDs. The situation has created a growing gap in the affordable gaming laptop segment, with most entry-level models becoming increasingly expensive. In its response, MSI has introduced the new Katana 15 HX C14 that features Intel’s 14th-gen Raptor Lake Refresh processors along with support for both DDR5 and DDR4-3200 memory. Depending on the region, MSI will be offering the value-focused gaming laptop in two variants, featuring dual SO-DIMM slots with either DDR4 or DDR5 compatibility. For context, a 32GB (2x16GB) DDR4-3200 SO-DIMM memory kit can be purchased for around $200, while a DDR5-6000 kit goes for over $400. MSI did not specify the DDR4 capacity as standard, only that the laptop supports up to 96GB, which seems unlikely given no 48GB DDR4 SO-DIMMs exist. Configurable with up to a 24-core Intel Core i9-14900HX processor, the laptop should offer plenty of CPU performance for demanding tasks besides gaming. It will be available with up to an Nvidia RTX 5070 laptop GPU offering support for the latest AI features, GDDR7 memory, DLSS 4.5, and real-time ray tracing. MSI claims that the Katana 15 HX C14 is tuned for up to 170W of combined CPU and GPU power, while the cooling system with dual fans, three heat pipes, and four exhaust outlets helps in sustained performance. There are also dual-PCIe Gen 4x4 M.2 slots, allowin
 
-### New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September
-Fri, 28 Aug 2026 15:47:46 +0000 — https://www.tomshardware.com/tech-industry/policy/new-us-export-controls-reportedly-target-chinese-access-to-remote-ai-servers-trump-admins-cut-down-ai-diffusion-rule-could-be-shared-with-industry-as-soon-as-september
-
-The Trump administration is considering a new AI export control that would close a loophole in current U.S. trade policy toward China, that being the PRC's access to advanced AI compute through remote servers in nearby countries, reports The Information . The rule, should it go into effect, would target remote access through Thailand and Singapore, which aren't subject to the same export controls as China. The Department of Commerce could share the rule with trade groups to gather feedback as early as September, according to the report. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The U.S. government has struggled to reckon with AI export controls since overturning the Biden-era AI Diffusion Rule in early 2025 . The AI Diffusion Rule is still in effect, though the Commerce Department has said it won't enforce the rule in the interim. In March, the Commerce Department issued a statement about a tiered licensing structure for advanced AI chip exports. The rule was revoked a little over a week later due to pushback from the U.S. AI industry. This mismatch of Biden-era rules and Trump-era proposals has c
-
 ## Phoronix
+
+### RTL8723BS Driver Continues Dominating The Staging Area Activity For Linux 7.3
+Sat, 29 Aug 2026 20:33:50 -0400 — https://www.phoronix.com/news/Linux-7.3-Staging
+
+Upstreamed back in 2017 for Linux 4.12 was the RTL8723BS driver in the kernel's staging area. Nine years later it remains in staging and remains a frequent target for clean-ups and code improvements as it tries to work its way out...
+
+### FreeBSD 14.5-RC1 Released With Several Security Fixes
+Sat, 29 Aug 2026 15:16:11 -0400 — https://www.phoronix.com/news/FreeBSD-14.5-RC1
+
+Ahead of FreeBSD 14.5-RELEASE hopefully debuting on 8 September, FreeBSD 14.5-RC1 is out today as the final scheduled development release...
 
 ### Another x86 Advisory From Some Entity Other Than Intel Or AMD
 Sat, 29 Aug 2026 12:24:01 -0400 — https://www.phoronix.com/news/x86-WBINVD-Advisory
@@ -227,14 +232,4 @@ The voting is over and there is a winner now known in the much-debated Debian Ge
 Fri, 28 Aug 2026 17:05:24 -0400 — https://www.phoronix.com/news/KDE-Union-QtWidgets
 
 Premiering in KDE Plasma 6.7 was Union as the new CSS-based style/theming engine for Plasma. Union ultimately aims to address KDE's fragmented ways of styling apps. As a step closer to that goal, there is now the initial release of Union for QtWidgets support...
-
-### Linux 7.3 TPM Makes Cleanup Preparations For TrenchBoot
-Fri, 28 Aug 2026 15:05:56 -0400 — https://www.phoronix.com/news/Linux-7.3-TPM
-
-The Trusted Platform Module (TPM) subsystem changes for the Linux 7.3 kernel are centered around code clean-ups and improvements being made as a precursor toward TrenchBoot support...
-
-### DXVK 3.1 Released With DXGI Incremental Presentation, D3D11 Buffer Render Targets
-Fri, 28 Aug 2026 12:33:22 -0400 — https://www.phoronix.com/news/DXVK-3.1-Released
-
-DXVK 3.1 is out today as the newest feature release for this Direct3D 8 / 9 / 10 / 11 implementation built atop the Vulkan API as a key component to Valve's Steam Play (Proton)...
 

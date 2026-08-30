@@ -1,6 +1,21 @@
-# Manga — harvested 2026-08-29T17:22:29.837Z
+# Manga — harvested 2026-08-30T10:06:59.427Z
 
 ## Anime News Network
+
+### Sankaku Head's My Darling Devilish Daughter Manga Ends in 6th Volume
+Sun, 30 Aug 2026 05:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-29/sankaku-head-my-darling-devilish-daughter-manga-ends-in-6th-volume/.241120
+
+Series about half-devil daughter debuted in 2024
+
+### Kо̄ki Inо̄ Replaces Ayumu Murase as Kanon Himeno in The Idolm@ster Side M Franchise
+Sun, 30 Aug 2026 03:31:51 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/k-ki-in-replaces-ayumu-murase-as-kanon-himeno-in-the-idolm@ster-side-m-franchise/.241117
+
+Voice actor chosen through audition
+
+### Haruhi Suzumiya x Hatsune Miku Crossover Project Is Coming
+Sat, 29 Aug 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-29/haruhi-suzumiya-x-hatsune-miku-crossover-project-is-coming/.241046
+
+Is Haruhi inducting the legendary Vocaloid idol into the S.O.S. Brigade?
 
 ### Director, Scriptwriter Izuru Narushima Dies at 65
 Sat, 29 Aug 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-29/director-scriptwriter-izuru-narushima-dies-at-65/.241105
@@ -46,21 +61,6 @@ Pre-registration for game releasing in 2026 is now open
 Sat, 29 Aug 2026 01:56:08 -0400 — https://www.animenewsnetwork.com/news/2026-08-29/punirunes-anime-4th-season-reveals-new-characters-in-promo-video/.241103
 
 New season debuts on October 4
-
-### Roji's Ao to Midori Boys-Love Manga Gets Live-Action Series
-Sat, 29 Aug 2026 00:40:04 -0400 — https://www.animenewsnetwork.com/news/2026-08-29/roji-ao-to-midori-boys-love-manga-gets-live-action-series/.241102
-
-Naoya Kusakawa, Hidekazu Chinen star in series about mutual unrequited love
-
-### North American Anime, Manga Releases, August 23-29
-Fri, 28 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-28/north-american-anime-manga-releases-august-23-29/.240937
-
-<cite>Is It Wrong to Try to Pick Up Girls in a Dungeon? V, Your Name.</cite> anime; <cite>Elden Ring: Distant Tales Between, Colori Colore Creare</cite> manga ship
-
-### Attack on Titan: Brave Order Cooperative Smartphone Game Ends Service on September 28
-Fri, 28 Aug 2026 16:00:11 -0400 — https://www.animenewsnetwork.com/news/2026-08-28/attack-on-titan-brave-order-cooperative-smartphone-game-ends-service-on-september-28/.241092
-
-Game launched for iOS/Android in February 2022
 
 ## Crunchyroll News
 
