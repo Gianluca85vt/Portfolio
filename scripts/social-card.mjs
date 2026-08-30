@@ -9,8 +9,8 @@
  *
  * Writes public/img/blog/<slug>/social.jpg and prints the path.
  */
-import { readFile, writeFile, access } from 'node:fs/promises';
-import { join } from 'node:path';
+import { readFile, writeFile, access, mkdir } from 'node:fs/promises';
+import { join, dirname } from 'node:path';
 import sharp from 'sharp';
 
 const W = 1080;
@@ -165,6 +165,12 @@ export async function buildCard(slug, root = process.cwd()) {
 </svg>`);
 
   const out = join(root, 'public/img/blog', slug, 'social.jpg');
+
+  // An article that never had an image fetched has no directory here, and
+  // writeFile will not make one: it throws ENOENT and takes the whole social
+  // job down with it. Twelve published articles are in that state, and the
+  // first edit that touched one of them found this.
+  await mkdir(dirname(out), { recursive: true });
 
   await writeFile(
     out,
