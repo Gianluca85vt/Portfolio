@@ -4,7 +4,6 @@ date: 2026-08-30
 category: Games
 excerpt: A decade of Valve's internal builds surfaced this weekend. The 2009 Portal 2 test rooms used Team Fortress 2 arms and leftover Half-Life 2 zombies as stand-ins.
 cover: /img/blog/valve-12tb-leak-portal-2-placeholder-assets/shot-01.jpg
-draft: true
 ---
 
 The 2009 Portal 2 test chambers were built with Team Fortress 2 character arms
