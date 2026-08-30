@@ -1,5 +1,5 @@
 ---
-title: A compressed model just matched the checkpoint it was compressed from, and "healing" is the actual term for it
+title: "HyperNova 60B: 61GB to 32GB with quantization healing"
 date: 2026-08-25
 category: AI
 excerpt: Multiverse Computing took its HyperNova 60B model from 61GB down to 32GB of VRAM with a recipe called Quantization-Aware Healing, and the smaller version holds its ground against the one it came from. For anyone trying to run serious models on one card, that's the number that matters.

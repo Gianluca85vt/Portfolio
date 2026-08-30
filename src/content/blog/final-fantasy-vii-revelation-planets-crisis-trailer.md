@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VII Revelation added a parachute. Now the rooftops have to exist.
+title: FF7 Revelation added a parachute. Now rooftops exist
 date: 2026-08-26
 category: Games
 cover: /img/blog/final-fantasy-vii-revelation-planets-crisis-trailer/cover.jpg

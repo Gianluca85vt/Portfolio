@@ -1,5 +1,5 @@
 ---
-title: Painting light instead of simulating it, in a fully hand-painted dormitory scene
+title: A hand-painted dormitory that paints its own light
 date: 2026-08-24
 category: 3D
 excerpt: Morgane Muller's Spellbound Dormitory, covered by 80.lv this week, gets its stained-glass windows to glow without a single translucent shader.

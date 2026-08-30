@@ -1,5 +1,5 @@
 ---
-title: Plug in a new monitor and Windows can install software you never approved
+title: A new monitor can install software you never approved
 date: 2026-08-25
 category: Tech
 excerpt: LG's monitor app has been showing McAfee pop-ups since 2024, installed through Windows Update with no consent screen. The ad is the part that made news.

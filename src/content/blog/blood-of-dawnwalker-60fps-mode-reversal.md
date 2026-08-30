@@ -1,5 +1,5 @@
 ---
-title: Rebel Wolves found its 60fps mode in three days. That tells you where the budget was hiding.
+title: Blood of Dawnwalker found its 60fps mode in three days
 date: 2026-08-25
 category: Games
 excerpt: The Blood of Dawnwalker will ship with a 60fps Performance mode on PS5, PS5 Pro and Series X after all, added to the day-one patch days after Rebel Wolves said the frame-rate ceiling wasn't moving. Series S still doesn't get one.

@@ -1,5 +1,5 @@
 ---
-title: August is a quiet month. Three games are worth your time anyway.
+title: Three games worth your time in August 2026
 date: 2026-08-06
 category: Games
 cover: /img/blog/games-august/beast-of-reincarnation.jpg

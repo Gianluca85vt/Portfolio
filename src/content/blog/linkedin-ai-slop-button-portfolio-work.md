@@ -1,5 +1,5 @@
 ---
-title: LinkedIn built a button for reporting AI slop. It has no way to tell your render from a diffusion model's.
+title: LinkedIn's AI slop button can't tell a render from AI
 date: 2026-08-23
 category: AI
 excerpt: A "Seems like AI slop" button has been clicked over a million times since July, and LinkedIn says it's already suppressing reach by 40%.

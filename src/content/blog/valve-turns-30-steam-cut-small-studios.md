@@ -1,5 +1,5 @@
 ---
-title: Valve turns 30 today. For most developers, Steam's cut hasn't moved since 2003.
+title: Valve turns 30. Steam's cut hasn't moved since 2003
 date: 2026-08-24
 category: Tech
 excerpt: Valve was founded on 24 August 1996, and Steam followed seven years later. The revenue-share reform everyone cites from 2018 only kicks in past ten million dollars in lifetime sales — which is not where most solo and small-studio developers live.

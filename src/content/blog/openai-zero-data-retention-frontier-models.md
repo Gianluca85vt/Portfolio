@@ -1,5 +1,5 @@
 ---
-title: OpenAI is keeping Zero Data Retention on its frontier models. For a studio sitting on unreleased assets, that's the whole question.
+title: OpenAI keeps Zero Data Retention on frontier models
 date: 2026-08-20
 category: AI
 excerpt: OpenAI says its no-retention promise will survive the next generation of frontier models, via a new architecture it calls Private Safety Processing.

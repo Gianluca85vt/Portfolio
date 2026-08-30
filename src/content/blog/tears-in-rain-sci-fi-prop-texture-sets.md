@@ -1,5 +1,5 @@
 ---
-title: One hand-prop, four texture sets — the interesting number in a Blade Runner-inspired breakdown
+title: One sci-fi hand prop, four texture sets
 date: 2026-08-18
 category: 3D
 excerpt: Dragoslav Vugdelija's Tears in Rain project is a small sci-fi prop with metal, glass and plastic sculpted into believable wear.

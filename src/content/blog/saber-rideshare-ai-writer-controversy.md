@@ -1,5 +1,5 @@
 ---
-title: Saber's CEO said he'd have replaced his writer with AI. The actual AI in the game is a much smaller story.
+title: Saber's AI writer row, and the smaller AI in the game
 date: 2026-08-14
 category: Games
 excerpt: A Bluesky post, a scorched-earth CEO quote, and a denial — that's the fight everyone's covering.

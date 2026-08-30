@@ -1,5 +1,5 @@
 ---
-title: The ships were the hard part in House of the Dragon's finale battle
+title: "House of the Dragon: the ships were the hard part"
 date: 2026-08-13
 category: Film & TV
 cover: /img/blog/house-of-the-dragon-gullet/cover.svg

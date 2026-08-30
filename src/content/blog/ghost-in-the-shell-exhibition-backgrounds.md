@@ -1,5 +1,5 @@
 ---
-title: The Ghost in the Shell exhibition is really a background-painting masterclass wearing an anniversary tour
+title: "Ghost in the Shell exhibition: a background masterclass"
 date: 2026-08-14
 category: Manga
 excerpt: A touring retrospective at the Hyogo Prefectural Museum of Art is billed as a Ghost in the Shell career survey.

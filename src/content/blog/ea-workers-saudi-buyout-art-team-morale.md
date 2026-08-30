@@ -1,5 +1,5 @@
 ---
-title: "'I feel dirty': EA's own workers are talking about the Saudi buyout now, and art teams have the most to lose"
+title: "EA workers on the Saudi buyout: \"I feel dirty\""
 date: 2026-08-19
 category: Games
 cover: /img/blog/ea-workers-saudi-buyout-art-team-morale/shot-01.jpg

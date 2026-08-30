@@ -1,5 +1,5 @@
 ---
-title: Hogwarts Legacy 2 is officially real. The job listings are the more interesting news.
+title: Hogwarts Legacy 2 is real. The job listings say more
 date: 2026-08-16
 category: Games
 cover: /img/blog/hogwarts-legacy-2-confirmed-what-a-live-service-sequel-costs-art/shot-01.jpg

@@ -1,5 +1,5 @@
 ---
-title: LG says it's finally beaten the 25-year-old stencil behind every OLED screen, and monitors get it first
+title: "LG FLiPP: OLED without the 25-year-old metal stencil"
 date: 2026-08-20
 category: Tech
 excerpt: LG Display unveiled FLiPP, a photolithography process that patterns OLED subpixels without the fine metal mask every panel has used since the format existed.

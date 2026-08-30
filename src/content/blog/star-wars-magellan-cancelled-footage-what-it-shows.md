@@ -1,5 +1,5 @@
 ---
-title: Leaked footage from the cancelled Star Wars Magellan shows what four years of environment work looks like when nobody ever plays it
+title: "Cancelled Star Wars Magellan: four years of environment"
 date: 2026-08-17
 category: Games
 excerpt: An ex-Echtra developer posted gameplay from the shuttered Star Wars action-RPG a year after cancellation.

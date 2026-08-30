@@ -1,5 +1,5 @@
 ---
-title: PS5 discs end in 2028, and "licensed, not sold" is the sentence that should worry artists
+title: "PS5 discs end in 2028: licensed, not sold"
 date: 2026-08-23
 category: Games
 excerpt: Sony is phasing out physical PS5 discs from January 2028, and this week it reminded players their digital library is a revocable license, not a purchase.

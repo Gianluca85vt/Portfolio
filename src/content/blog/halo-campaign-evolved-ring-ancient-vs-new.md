@@ -1,5 +1,5 @@
 ---
-title: Why Halo's co-creator thinks the new ring looks "damn ugly" — and he's pointing at the right problem
+title: "Halo Campaign Evolved: why the new ring reads wrong"
 date: 2026-08-14
 category: Games
 excerpt: Marcus Lehto's complaint about Campaign Evolved's Forerunner ring isn't nostalgia. It's a specific, nameable environment-art problem — ancient scale read through new-build surfacing.

@@ -1,5 +1,5 @@
 ---
-title: Asobo dropped the stealth, the rats and both protagonists. Twenty reviews cannot agree what is left.
+title: "Resonance reviews: twenty scores from 7 to 9.5"
 date: 2026-08-26
 category: Games
 cover: /img/blog/resonance-a-plague-tale-legacy-reviews/cover.jpg

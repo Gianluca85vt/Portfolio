@@ -1,5 +1,5 @@
 ---
-title: Unreal Engine 6 is real. Don't panic, and don't stop learning UE5.
+title: Unreal Engine 6 is real. Keep learning UE5 anyway
 date: 2026-08-10
 category: Games
 cover: /img/video/U9QQZWzm9Ac.jpg

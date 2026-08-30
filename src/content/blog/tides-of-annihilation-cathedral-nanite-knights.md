@@ -1,5 +1,5 @@
 ---
-title: Tides of Annihilation built a real cathedral for a two-hour demo
+title: Tides of Annihilation built a cathedral for a demo
 date: 2026-08-20
 category: Games
 excerpt: Eclipse Glow Games built a full-scale cathedral in Chengdu just to run its first public hands-on.

@@ -1,5 +1,5 @@
 ---
-title: A 12-person studio is building a large-scale open world, and refusing generative AI on principle
+title: A 12-person open world, built refusing generative AI
 date: 2026-08-18
 category: Games
 excerpt: Wolf Haus Games is shipping the open-world co-op cult sim Join Us with about a dozen people and no generative content tools.

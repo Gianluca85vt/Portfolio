@@ -1,5 +1,5 @@
 ---
-title: Why GPT-5.6's 14x speed-up matters more for agents than for chat
+title: GPT-5.6's 14x speed-up matters for agents, not chat
 date: 2026-08-14
 category: AI
 cover: /img/blog/gpt-5-6-ultrafast-mode/cover.svg

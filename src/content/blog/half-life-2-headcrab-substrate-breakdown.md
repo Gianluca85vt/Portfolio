@@ -1,5 +1,5 @@
 ---
-title: A fan remade Half-Life 2's Headcrab and documented every Substrate decision across 62 pages
+title: Half-Life 2's Headcrab, remade in UE5 Substrate
 date: 2026-08-14
 category: 3D
 excerpt: Emanuel Pessel used Unreal Engine 5's Substrate material system to rebuild Valve's Headcrab from scratch, then published the entire process because almost nobody writes Substrate guides for organic creatures.

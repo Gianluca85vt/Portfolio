@@ -1,5 +1,5 @@
 ---
-title: KitBash just bought ArtStation and Sketchfab. Here is what I'd watch.
+title: KitBash bought ArtStation and Sketchfab. What to watch
 date: 2026-08-12
 category: 3D
 cover: /img/blog/covers/kitbash-acquisition.svg

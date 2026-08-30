@@ -1,5 +1,5 @@
 ---
-title: Low-Budget Repairs asked its art team to make squalor readable
+title: Low-Budget Repairs made squalor readable
 date: 2026-08-16
 category: 3D
 excerpt: Low-Budget Repairs left early access on Steam this week — a House Flipper parody where your job is to do the renovation as badly as possible and still get paid. Building convincing bad craftsmanship is a stranger art problem than building good craftsmanship.

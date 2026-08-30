@@ -1,5 +1,5 @@
 ---
-title: Ikkis spent eight months building tanks that actually drive, and VFX still had a job
+title: Ikkis built tanks that drive, and VFX still had work
 date: 2026-08-18
 category: 3D
 excerpt: CGChannel ran ReDefine's breakdown for the tank battle in Ikkis, a film about the 1971 Battle of Basantar.

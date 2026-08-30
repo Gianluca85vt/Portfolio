@@ -1,5 +1,5 @@
 ---
-title: Elden Ring's Switch 2 port took grass out of Limgrave to hold 30fps
+title: "Elden Ring on Switch 2: less grass to hold 30fps"
 date: 2026-08-27
 category: Games
 excerpt: Tarnished Edition arrives on Switch 2 on 28 August, a year after a Gamescom demo reportedly ran at around 15fps.

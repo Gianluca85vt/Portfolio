@@ -1,5 +1,5 @@
 ---
-title: Tides of Annihilation's "face change" is a lighting and shader story, not a redesign
+title: Tides of Annihilation's face change is a lighting story
 date: 2026-08-24
 category: Games
 excerpt: Fans compared new Tides of Annihilation footage to old trailers and called it a beauty nerf.

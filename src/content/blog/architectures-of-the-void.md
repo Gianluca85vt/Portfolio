@@ -1,5 +1,5 @@
 ---
-title: We can build anything. Gamescom week chose the back catalogue.
+title: Gamescom week chose the back catalogue
 date: 2026-08-26
 category: Editorial
 column: Architectures of the Void — the Monday editorial

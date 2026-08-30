@@ -1,5 +1,5 @@
 ---
-title: CD Projekt Red is shipping a Witcher 3 expansion in 2027 on the engine it already walked away from
+title: "Witcher 3 Songs of the Past: 2027, on the old engine"
 date: 2026-08-26
 category: Games
 cover: /img/blog/witcher-3-songs-of-the-past-remaster-old-engine/cover.jpg

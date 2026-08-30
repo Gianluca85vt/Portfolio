@@ -1,5 +1,5 @@
 ---
-title: Gamescom Opening Night Live starts at 20:00. How to tell in-engine from a target render.
+title: "Gamescom ONL: telling in-engine from a target render"
 date: 2026-08-25
 category: Games
 cover: /img/blog/gamescom-onl-2026-what-to-watch-for/cover.jpg

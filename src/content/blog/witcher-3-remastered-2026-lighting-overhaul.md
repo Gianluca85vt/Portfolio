@@ -1,5 +1,5 @@
 ---
-title: The Witcher 3 got a next-gen patch in 2022. This one is going after the lighting instead
+title: The Witcher 3's 2026 overhaul goes after the lighting
 date: 2026-08-26
 category: Games
 excerpt: CD Projekt Red announced a second free overhaul of an eleven-year-old game at Gamescom, and buried in the "30-plus upgrades" list is a genuine global illumination rework. That is the part worth caring about.

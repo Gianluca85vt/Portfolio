@@ -1,5 +1,5 @@
 ---
-title: A sculpt that reads as a drawing, made entirely inside ZBrush
+title: A ZBrush sculpt that reads as a flat drawing
 date: 2026-08-19
 category: 3D
 excerpt: David Papunashvili's Punk Knight looks like flat concept art until you rotate the camera. The trick is not a shader, it is projecting the 2D concept straight onto the sculpt and PolyPainting on top of it.

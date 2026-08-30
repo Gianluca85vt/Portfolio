@@ -1,5 +1,5 @@
 ---
-title: Kingdom Hearts 4 showed its first Disney world at D23, and set itself a hard problem
+title: "Kingdom Hearts 4 at D23: two art directions at once"
 date: 2026-08-16
 category: Games
 cover: /img/blog/d23-2026-kingdom-hearts-4-two-art-directions/shot-03.jpg

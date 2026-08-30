@@ -1,5 +1,5 @@
 ---
-title: Apple's M5 Ultra moves 1.2TB/s through the same 512GB ceiling the M3 Ultra had
+title: "Apple M5 Ultra: 1.2TB/s through the same 512GB ceiling"
 date: 2026-08-26
 category: Tech
 excerpt: The new Mac Studio keeps the half-terabyte unified memory ceiling Apple set in March 2025 and raises the bandwidth behind it by half.

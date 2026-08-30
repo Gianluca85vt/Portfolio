@@ -1,5 +1,5 @@
 ---
-title: "Silent Hill Townfall's fog used to hide what the hardware couldn't draw. Now it has to hide something else."
+title: "Silent Hill Townfall: what the fog has to hide now"
 date: 2026-08-23
 category: Games
 excerpt: Screen Burn's 18-minute reveal confirmed a first-person Silent Hill, a six-month PS5 timed exclusive and a lot of the series' trademark fog.

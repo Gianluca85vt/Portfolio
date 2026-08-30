@@ -1,5 +1,5 @@
 ---
-title: Harvey Smith's new studio is rebuilding what Arkane Austin knew
+title: Harvey Smith's new studio rebuilds what Arkane knew
 date: 2026-08-20
 category: Games
 excerpt: Black Pony Immersive went public this week, two years after Microsoft closed Arkane Austin and let 96 people go. The headlines are about the founders.

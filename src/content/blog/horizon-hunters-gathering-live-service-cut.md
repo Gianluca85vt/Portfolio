@@ -1,5 +1,5 @@
 ---
-title: Horizon Hunters Gathering is getting descoped, the Hogwarts Legacy 2 problem in reverse
+title: Horizon Hunters Gathering is being descoped
 date: 2026-08-20
 category: Games
 excerpt: Bloomberg reports Guerrilla is stripping the live-service layer out of its Horizon spin-off after bad playtests.

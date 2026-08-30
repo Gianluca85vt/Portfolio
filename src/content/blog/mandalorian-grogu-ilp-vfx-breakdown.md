@@ -1,5 +1,5 @@
 ---
-title: The LED volume in The Mandalorian and Grogu is lighting a 48-inch model spaceship
+title: The Mandalorian and Grogu lit a 48-inch model ship
 date: 2026-08-25
 category: Film & TV
 excerpt: Important Looking Pirates has posted its VFX breakdown for the film, covering the environment work and the return of Zeb Orrelios as a CG character.

@@ -1,5 +1,5 @@
 ---
-title: One artist, hundreds of houses — the case for building a generator instead of a building
+title: Building a house generator instead of a house
 date: 2026-08-25
 category: 3D
 excerpt: A breakdown of Ezequiel Grand's commercial VFX career, published on 80.lv, traces how a Paul McCartney tour deadline pushed him into procedural Houdini work.
