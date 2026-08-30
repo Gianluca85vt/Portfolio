@@ -28,6 +28,11 @@ looking for it. But the arms are worth talking about.
 
 ## Placeholder is not a stage. It is the whole middle of the project.
 
+<figure>
+  <img src="/img/blog/valve-12tb-leak-portal-2-placeholder-assets/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Valve, via the official Portal 2 Steam page. Shipped 2011 build, not the leaked development material.</figcaption>
+</figure>
+
 If you have only ever seen shipped games, you would be forgiven for thinking
 that studios like Valve work in some cleaner way than you do. That somewhere
 around pre-production a real art bible descends, and from then on every asset in
