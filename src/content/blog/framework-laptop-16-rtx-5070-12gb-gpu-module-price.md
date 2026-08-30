@@ -2,7 +2,7 @@
 title: "Framework GPU module: 500 dollars for 4GB VRAM"
 date: 2026-08-21
 category: Tech
-excerpt: Framework shipped a 12GB RTX 5070 module that drops into the existing Laptop 16 chassis, no new mainboard required. It costs 1,199 dollars, 500 more than the 8GB version, for four extra gigs of VRAM.
+excerpt: Framework shipped a 12GB RTX 5070 module that drops into the existing Laptop 16 chassis, no new mainboard required.
 cover: /img/blog/framework-laptop-16-rtx-5070-12gb-gpu-module-price/cover.svg
 ---
 

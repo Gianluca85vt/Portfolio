@@ -3,7 +3,7 @@ title: Unreal Engine 6 is real. Don't panic, and don't stop learning UE5.
 date: 2026-08-10
 category: Games
 cover: /img/video/U9QQZWzm9Ac.jpg
-excerpt: Epic showed UE6 at Unreal Fest, Verse is becoming the gameplay language, and half the internet decided C++ is dead. It isn't, and Early Access is still over a year away.
+excerpt: Epic showed UE6 at Unreal Fest, Verse is becoming the gameplay language, and half the internet decided C++ is dead.
 ---
 
 Epic revealed **Unreal Engine 6** properly at Unreal Fest in Chicago this year, after

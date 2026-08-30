@@ -3,7 +3,7 @@ title: Final Fantasy VII Revelation added a parachute. Now the rooftops have to 
 date: 2026-08-26
 category: Games
 cover: /img/blog/final-fantasy-vii-revelation-planets-crisis-trailer/cover.jpg
-excerpt: The Planet's Crisis trailer showed the Weapons, a new summon, Vincent and Cid playable, and three new ways to move around the world. The traversal is the part that costs an environment team the most, and nobody ever mentions it.
+excerpt: The Planet's Crisis trailer showed the Weapons, a new summon, Vincent and Cid playable, and three new ways to move around the world.
 ---
 
 Square Enix brought the third and final part of the Final Fantasy VII remake

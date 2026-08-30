@@ -2,7 +2,7 @@
 title: Marvelous Designer 2026.1 adds a tool for ripping fabric on purpose
 date: 2026-08-24
 category: 3D
-excerpt: CLO Virtual Fashion's cloth sim tool picks up a Seamline Ripping Tool and two new pinching modes today. The interesting part isn't the headline demo, it's where "damage" moves in the pipeline.
+excerpt: CLO Virtual Fashion's cloth sim tool picks up a Seamline Ripping Tool and two new pinching modes today.
 cover: /img/blog/marvelous-designer-2026-1-seamline-ripping-tool/shot-01.jpg
 ---
 

@@ -2,7 +2,7 @@
 title: Kore-eda is filming a manga about drawing, and he's handing the drawing to a rotoscope director
 date: 2026-08-20
 category: Manga
-excerpt: The live-action Look Back quietly added Yōko Kuno to direct a rotoscoped sequence inside it. That one credit tells you how Kore-eda intends to solve the problem the 2024 anime never had to face.
+excerpt: The live-action Look Back quietly added Yōko Kuno to direct a rotoscoped sequence inside it.
 cover: /img/blog/look-back-live-action-rotoscope-sequence/shot-01.jpg
 ---
 

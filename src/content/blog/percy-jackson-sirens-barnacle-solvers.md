@@ -2,7 +2,7 @@
 title: "Percy Jackson sirens: why the barnacles were hard"
 date: 2026-08-19
 category: Film & TV
-excerpt: Storm Studios just walked FMX through how they built the Sirens for Percy Jackson and the Olympians season 2. The monster design is the easy part to talk about. The actual problem was keeping barnacles glued to a performing creature.
+excerpt: Storm Studios just walked FMX through how they built the Sirens for Percy Jackson and the Olympians season 2.
 cover: /img/blog/percy-jackson-sirens-barnacle-solvers/cover.svg
 ---
 

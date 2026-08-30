@@ -2,7 +2,7 @@
 title: Leaked footage from the cancelled Star Wars Magellan shows what four years of environment work looks like when nobody ever plays it
 date: 2026-08-17
 category: Games
-excerpt: An ex-Echtra developer posted gameplay from the shuttered Star Wars action-RPG a year after cancellation. The footage is a good look at Unreal Engine 5 production values nobody outside the studio was ever meant to see — and a reminder of how much of this work simply evaporates.
+excerpt: An ex-Echtra developer posted gameplay from the shuttered Star Wars action-RPG a year after cancellation.
 cover: /img/blog/star-wars-magellan-cancelled-footage-what-it-shows/shot-01.jpg
 ---
 

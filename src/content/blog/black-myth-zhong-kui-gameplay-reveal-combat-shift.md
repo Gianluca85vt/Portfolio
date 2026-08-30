@@ -2,7 +2,7 @@
 title: Black Myth Zhong Kui's first gameplay swaps Wukong's acrobatics for something much harder to fake
 date: 2026-08-21
 category: Games
-excerpt: Game Science's 15-minute reveal trades the staff-and-transformation combat of Wukong for a grounded sword that blocks and parries. That sounds like a smaller change than it is — for the animation team, it's a completely different problem.
+excerpt: Game Science's 15-minute reveal trades the staff-and-transformation combat of Wukong for a grounded sword that blocks and parries.
 cover: /img/blog/black-myth-zhong-kui-gameplay-reveal-combat-shift/video-thumb.jpg
 ---
 

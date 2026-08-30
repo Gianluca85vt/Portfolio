@@ -3,7 +3,7 @@ title: CD Projekt Red is shipping a Witcher 3 expansion in 2027 on the engine it
 date: 2026-08-26
 category: Games
 cover: /img/blog/witcher-3-songs-of-the-past-remaster-old-engine/cover.jpg
-excerpt: Songs of the Past lands eleven years after Blood and Wine, and a free Remastered upgrade arrives on 29 September. Both are being built in REDengine — the technology the studio publicly moved off in 2022. Running two pipelines at once is the interesting part.
+excerpt: Songs of the Past lands eleven years after Blood and Wine, and a free Remastered upgrade arrives on 29 September.
 ---
 
 Eleven years.

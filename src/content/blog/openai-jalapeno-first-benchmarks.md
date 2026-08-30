@@ -2,7 +2,7 @@
 title: OpenAI ran the benchmarks on its own chip and came out up to 3.6x ahead on latency
 date: 2026-08-26
 category: AI
-excerpt: Jalapeño's first silicon results landed on 25 August — three open-weight models, two Nvidia rack generations, and a benchmark platform that isn't MLPerf. The chip goes into OpenAI's own datacentres by the end of the year and nowhere else.
+excerpt: Jalapeño's first silicon results landed on 25 August — three open-weight models, two Nvidia rack generations, and a benchmark platform that isn't MLPerf.
 cover: /img/blog/openai-jalapeno-first-benchmarks/cover.svg
 ---
 

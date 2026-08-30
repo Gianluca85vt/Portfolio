@@ -3,7 +3,7 @@ title: Gamescom Opening Night Live starts at 20:00. How to tell in-engine from a
 date: 2026-08-25
 category: Games
 cover: /img/blog/gamescom-onl-2026-what-to-watch-for/cover.jpg
-excerpt: Two hours of trailers, and most of what you learn from them has nothing to do with the games being announced. Here is the stream, the running order, and the handful of tells that separate footage running on a machine from footage rendered on a farm.
+excerpt: Two hours of trailers, and most of what you learn from them has nothing to do with the games being announced.
 ---
 
 *Written on the afternoon of 25 August, before the show. Opening Night Live

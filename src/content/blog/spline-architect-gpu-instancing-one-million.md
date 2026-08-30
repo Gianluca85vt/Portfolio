@@ -2,7 +2,7 @@
 title: "Spline Architect: from 100,000 objects to a million"
 date: 2026-08-13
 category: 3D
-excerpt: Spline Architect's new update adds GPU instancing along splines at a scale that used to mean switching to Houdini. Here is why that number matters more than it sounds.
+excerpt: Spline Architect's new update adds GPU instancing along splines at a scale that used to mean switching to Houdini.
 cover: /img/blog/spline-architect/cover.svg
 ---
 

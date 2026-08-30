@@ -3,7 +3,7 @@ title: Sony's shovelware purge deleted a real developer's entire catalogue
 date: 2026-08-17
 category: Games
 cover: /img/blog/sony-shovelware-purge-catches-legit-indie-dev/shot-01.jpg
-excerpt: Ternox Games got its PlayStation publishing agreement terminated with no explanation, cancelling STONKS-9800 on PS5 and pulling thirteen older titles. Sony's year-long shovelware purge was solving a real problem — the question is what it's actually measuring.
+excerpt: Ternox Games got its PlayStation publishing agreement terminated with no explanation, cancelling STONKS-9800 on PS5 and pulling thirteen older titles.
 ---
 
 Sony has spent 2026 clearing junk off the PlayStation Store. Roughly 1,200 ThiGames

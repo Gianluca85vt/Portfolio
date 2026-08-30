@@ -2,7 +2,7 @@
 title: RAM got so expensive Intel is un-retiring a five-year-old CPU platform
 date: 2026-08-14
 category: Tech
-excerpt: A 32GB DDR5 kit went from about 95 dollars to over 500 in a year, so builders are quietly going back to Raptor Lake and DDR4. If you're pricing a workstation right now, that is the sane option.
+excerpt: A 32GB DDR5 kit went from about 95 dollars to over 500 in a year, so builders are quietly going back to Raptor Lake and DDR4.
 cover: /img/blog/ram-prices-raptor-lake-workstations/shot-01.jpg
 ---
 

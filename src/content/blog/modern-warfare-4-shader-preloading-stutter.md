@@ -2,7 +2,7 @@
 title: Call of Duty finally admits the shader compile stutter is its problem to fix
 date: 2026-08-21
 category: Games
-excerpt: Modern Warfare 4's PC beta moves shader compilation out of your first match and into a background process before you even hit play. It is a small settings toggle standing in for a decade of a studio not owning a rendering problem it created.
+excerpt: Modern Warfare 4's PC beta moves shader compilation out of your first match and into a background process before you even hit play.
 cover: /img/blog/modern-warfare-4-shader-preloading-stutter/shot-01.jpg
 ---
 

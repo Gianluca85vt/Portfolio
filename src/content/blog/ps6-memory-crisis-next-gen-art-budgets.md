@@ -2,7 +2,7 @@
 title: Memory prices are why Sony still can't date the PS6
 date: 2026-08-19
 category: Tech
-excerpt: Sony's CEO says PS6 pricing and timing are still undecided because DRAM stays expensive through FY2027. For anyone who plans texture streaming pools for a living, that is the exact budget problem I run into on every environment.
+excerpt: Sony's CEO says PS6 pricing and timing are still undecided because DRAM stays expensive through FY2027.
 cover: /img/blog/ps6-memory-crisis-next-gen-art-budgets/shot-01.jpg
 ---
 

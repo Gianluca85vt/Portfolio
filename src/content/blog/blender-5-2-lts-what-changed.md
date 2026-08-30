@@ -3,7 +3,7 @@ title: "Blender 5.2 LTS: what changed, and what did not"
 date: 2026-08-07
 category: 3D
 cover: /img/3d/render-01.png
-excerpt: Two years of support, ACES colour management built in, and a compositor that finally got rebuilt. If you have been sitting on 4.x waiting for a reason, this is it.
+excerpt: Two years of support, ACES colour management built in, and a compositor that finally got rebuilt.
 ---
 
 **Blender 5.2 LTS** landed on 14 July, supported until **July 2028**. If you work on

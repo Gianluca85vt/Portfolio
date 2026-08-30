@@ -2,7 +2,7 @@
 title: Tides of Annihilation built a real cathedral for a two-hour demo
 date: 2026-08-20
 category: Games
-excerpt: Eclipse Glow Games built a full-scale cathedral in Chengdu just to run its first public hands-on. Impressive, but the number worth reading is the one about how they're forcing Nanite to handle giant animated bosses, a job it wasn't built for.
+excerpt: Eclipse Glow Games built a full-scale cathedral in Chengdu just to run its first public hands-on.
 cover: /img/blog/tides-of-annihilation-cathedral-nanite-knights/shot-01.jpg
 ---
 

@@ -2,7 +2,7 @@
 title: How Tiny Flock handles scale when the player is a giant
 date: 2026-08-21
 category: 3D
-excerpt: No Brakes Games' new sheep-herding puzzler puts the player at doll's-house scale over 21 fully interactive dioramas. Building a world that has to survive being smashed and stacked by the player is a different job than dressing a set that only has to look right from one camera path.
+excerpt: No Brakes Games' new sheep-herding puzzler puts the player at doll's-house scale over 21 fully interactive dioramas.
 cover: /img/blog/tiny-flock-vr-diorama-scale-environment-art/shot-01.jpg
 ---
 
