@@ -19,39 +19,38 @@ export default function ServicesSection() {
         <GlowText text="Skills" />
       </FadeIn>
 
-      <div className="max-w-5xl mx-auto">
+      {/* Two rows of three rather than six full-width bands. The old layout
+          gave each skill a 140px numeral and the height of a small screen, so
+          reading all six meant six scrolls for six short paragraphs. Side by
+          side they can also be compared, which is what a skills list is for. */}
+      <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 md:gap-x-10 gap-y-10 md:gap-y-12">
         {services.map((service, index) => (
           <FadeIn
             key={service.number}
-            delay={index * 0.1}
+            delay={(index % 3) * 0.1}
             y={30}
-            className="flex items-start gap-5 sm:gap-8 md:gap-12 py-8 sm:py-10 md:py-12"
-            style={{
-              borderTop: index === 0 ? '1px solid rgba(12, 12, 12, 0.15)' : 'none',
-              borderBottom: '1px solid rgba(12, 12, 12, 0.15)',
-            }}
+            className="flex flex-col gap-3 pt-5"
+            style={{ borderTop: '1px solid rgba(12, 12, 12, 0.15)' }}
           >
             <span
-              className="text-[#0C0C0C] font-black leading-none shrink-0"
-              style={{ fontSize: 'clamp(3rem, 10vw, 140px)' }}
+              className="text-[#0C0C0C] font-black leading-none"
+              style={{ fontSize: 'clamp(2.4rem, 5vw, 3.6rem)', opacity: 0.22 }}
             >
               {service.number}
             </span>
 
-            <div className="flex flex-col gap-3 sm:gap-4 pt-1 sm:pt-2">
-              <h3
-                className="text-[#0C0C0C] font-medium uppercase leading-tight"
-                style={{ fontSize: 'clamp(1rem, 2.2vw, 2.1rem)' }}
-              >
-                {service.name}
-              </h3>
-              <p
-                className="text-[#0C0C0C] font-light leading-relaxed max-w-2xl"
-                style={{ fontSize: 'clamp(0.85rem, 1.6vw, 1.25rem)', opacity: 0.6 }}
-              >
-                {service.description}
-              </p>
-            </div>
+            <h3
+              className="text-[#0C0C0C] font-medium uppercase leading-tight"
+              style={{ fontSize: 'clamp(1rem, 1.6vw, 1.35rem)' }}
+            >
+              {service.name}
+            </h3>
+            <p
+              className="text-[#0C0C0C] font-light leading-relaxed"
+              style={{ fontSize: 'clamp(0.85rem, 1.05vw, 1rem)', opacity: 0.6 }}
+            >
+              {service.description}
+            </p>
           </FadeIn>
         ))}
       </div>

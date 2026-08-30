@@ -6,6 +6,7 @@ import AiSection from './AiSection';
 import ShowreelSection from './ShowreelSection';
 import ProjectsSection from './ProjectsSection';
 import ContactSection from './ContactSection';
+import BackToTop from './ui/BackToTop';
 import type { LatestPost } from './ui/AvatarBubble';
 
 export default function HomePage({ latest = [] }: { latest?: LatestPost[] }) {
@@ -19,6 +20,7 @@ export default function HomePage({ latest = [] }: { latest?: LatestPost[] }) {
       <ShowreelSection />
       <ProjectsSection />
       <ContactSection />
+      <BackToTop />
     </>
   );
 }

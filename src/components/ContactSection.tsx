@@ -1,4 +1,4 @@
-import { Mail, FileText, MessageCircle } from 'lucide-react';
+import { Mail, FileText } from 'lucide-react';
 import type { LucideIcon } from 'lucide-react';
 import FadeIn from './ui/FadeIn';
 import GlowText from './ui/GlowText';
@@ -24,7 +24,6 @@ const links: ContactLink[] = [
     // saves as "Resume.pdf" rather than the original file name
     download: site.cvFileName,
   },
-  { icon: MessageCircle, label: 'Discord', value: 'Jian community', href: site.discord },
 ];
 
 export default function ContactSection() {
