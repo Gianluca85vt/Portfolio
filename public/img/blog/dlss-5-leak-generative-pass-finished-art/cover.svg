@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="DLSS 5 leaked out of an NBA 2K27 build and modders put it in everything">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#4A1508"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BE4C00"/>
+      <stop offset="100%" stop-color="#FF9A3C"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2">
+    <path d="M0 150H1200M0 210H1200M0 270H1200M0 330H1200"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="90" y="150" font-size="30" fill="#FFB877" letter-spacing="6">LEAKED · 26 AUGUST 2026</text>
+
+    <text x="90" y="285" font-size="128" font-weight="bold" fill="#FFFFFF">DLSS 5</text>
+    <text x="90" y="375" font-size="52" fill="#FFD9B8">a generative pass over</text>
+    <text x="90" y="440" font-size="52" fill="#FFD9B8">finished art</text>
+
+    <rect x="90" y="490" width="220" height="6" fill="url(#accent)"/>
+
+    <text x="90" y="580" font-size="34" fill="#FFFFFF" fill-opacity="0.92">nvngx_dlssnr.dll shipped by mistake</text>
+    <text x="90" y="630" font-size="34" fill="#FFFFFF" fill-opacity="0.92">inside an NBA 2K27 build</text>
+
+    <text x="90" y="720" font-size="30" fill="#FFB877">Modded into Control, Skyrim and 10+ more</text>
+  </g>
+</svg>
