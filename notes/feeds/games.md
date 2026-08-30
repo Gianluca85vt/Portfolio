@@ -1,6 +1,11 @@
-# Games — harvested 2026-08-30T14:58:50.640Z
+# Games — harvested 2026-08-30T19:26:27.779Z
 
 ## Eurogamer
+
+### Activision sends a legal rep to a Call of Duty cheat seller's front door, films the whole thing, posts it online
+Sun, 30 Aug 2026 16:48:46 +0000 — https://www.eurogamer.net/activision-cease-and-desist-call-of-duty-cheat-maker-elocarry-video
+
+Activision has posted footage of one of its legal representatives turning up at the Ohio home of a notorious Call of Duty cheat seller and handing over a cease-and-desist order. Read more
 
 ### Phasmophobia's second Quality of Life update adds Restricted maps, VR fixes, and much creepier deaths
 Sun, 30 Aug 2026 13:47:47 +0000 — https://www.eurogamer.net/phasmophobia-quality-of-life-update-2-restricted-maps-vr
@@ -67,15 +72,35 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### PS5 Blackout Protest Officially Concludes, But Campaigners Encourage Indefinite Participation
+Sun, 30 Aug 2026 19:15:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-blackout-protest-officially-concludes-but-campaigners-encourage-indefinite-participation1
+
+Consoles must remain unplugged. Irate PS5 players have started unplugging their consoles all around the world, as a protest against Sony gets underway. The blackout – technically scheduled to start at 7pm local time, but already being observed by many participants – is designed to reduce the Japanese giant’s active users, a key performance metric for the company. Read the full article on pushsquare.com
+
+### Feature: Going Platinum: Horizon Forbidden West, a Very Good Sequel People Love to Hate
+Sun, 30 Aug 2026 19:00:00 GMT — https://www.pushsquare.com/features/going-platinum-horizon-forbidden-west-a-very-good-sequel-people-love-to-hate
+
+War of the machines. Platinum Trophy #35: Horizon Forbidden West Date Earned: 23rd February 2022 Read the full article on pushsquare.com
+
+### No Talk of Sony Changing Strategy : Industry Veteran Rubbishes Recent Disc-Based Reversal Rumours
+Sun, 30 Aug 2026 18:50:00 GMT — https://www.pushsquare.com/news/2026/08/no-talk-of-sony-changing-strategy-industry-veteran-rubbishes-recent-disc-based-reversal-rumours
+
+An unlikely story. I’m not entirely sure how this rumour got started, but the web is awash with reports this weekend that Sony is considering reversing its stance on physical games. The manufacturer has announced plans to cease manufacturing discs in January 2028, which has led to a loud outcry from select customers, prompting an indefinite “ blackout ” of the PS5 console. Read the full article on pushsquare.com
+
+### $900 PS5 Pro Now Sold Out in US Amid GTA 6 Fever
+Sun, 30 Aug 2026 18:45:00 GMT — https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-now-sold-out-in-us-amid-gta-6-fever
+
+No disc drive, no buy? Sony’s supercharged PS5 Pro hardware model is selling out in the US as GTA 6 fever takes hold – despite an ongoing blackout protest taking place against PlayStation hardware. Fans have mobilised to keep their consoles unplugged indefinitely , but such is the demand for the PS5’s most powerful model that third-party sellers are charging as much as $1,300 for the device on Amazon . That’s a huge mark-up on its $900 MSRP. Read the full article on pushsquare.com
+
+### The Witcher 3 Remastered Accessibility Options Include Health Regen, Auto Loot, Infinite Item Durability
+Sun, 30 Aug 2026 18:15:00 GMT — https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-accessibility-options-include-health-regen-auto-loot-infinite-item-durability
+
+And more. A number of accessibility options are being added in The Witcher 3: Wild Hunt Remastered , and now, thanks to developer CD Projekt Red's continued Gamescom livestreams (as screenshotted on Reddit ), we know what's included. In a nutshell, these new settings are designed to remove much of the game's friction, while also giving players the ability to ignore some of The Witcher 3's more... tedious mechanics. Read the full article on pushsquare.com
+
 ### Preview: Forget the Soulslikes, This Bizarre New PS5 Game Is Channelling Shenmue Instead
 Sun, 30 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/previews/forget-the-soulslikes-this-bizarre-new-ps5-game-is-channelling-shenmue-instead
 
 "I see". In a tiny Gamescom booth, in the business area separated from the hustle and bustle of the Koelnmesse chaos, NEKCOM founder Xiangyu Luo and I may have become BFFs. With a translator converting my questions into Mandarin, I’m not sure how much he understood – but his eyes lit up when I made a reference to Shenmue , my all-time favourite franchise. Read the full article on pushsquare.com
-
-### Sony s Rumoured to Be Reversing Its Physical Discs Decision, But I Don t Buy It At All
-Sun, 30 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/sonys-rumoured-to-be-reversing-its-physical-discs-decision-but-i-dont-buy-it-at-all
-
-An unlikely story. I’m not entirely sure how this rumour got started, but the web is awash with reports this weekend that Sony is considering reversing its stance on physical games. The manufacturer has announced plans to cease manufacturing discs in January 2028, which has led to a loud outcry from select customers, prompting an indefinite “ blackout ” of the PS5 console. Read the full article on pushsquare.com
 
 ### Hands On: I Waited 13 Years to Play The Wolf Among Us 2, But I Have One Concern
 Sat, 29 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/features/hands-on-i-waited-13-years-to-play-the-wolf-among-us-2-but-i-have-one-concern
@@ -97,11 +122,6 @@ Sat, 29 Aug 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/08/this-l
 
 AI don't really like it. Nvidia’s controversial new DLSS 5 filter, which caused a bit of a hullabaloo earlier this year , has leaked online – and instantly been implemented into pretty much every major PS5 game on the market. While previous iterations of Nvidia’s upscaling technology have broadly been praised – using reconstruction techniques to reduce computational load without impacting image quality – this version appears to use generative AI to alter artistic intent. Read the full article on pushsquare.com
 
-### $900 PS5 Pro Selling Out During PlayStation Blackout Amid GTA 6 Fever
-Sat, 29 Aug 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever
-
-No disc drive, no buy? Sony’s supercharged PS5 Pro hardware model is selling out in the US as GTA 6 fever takes hold – despite an ongoing blackout protest taking place against PlayStation hardware. Fans have mobilised to keep their consoles unplugged indefinitely , but such is the demand for the PS5’s most powerful model that third-party sellers are charging as much as $1,300 for the device on Amazon . That’s a huge mark-up on its $900 MSRP. Read the full article on pushsquare.com
-
 ### Poll: Are You Happy with Your PS Plus Essential Games for September 2026?
 Sat, 29 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-september-2026
 
@@ -111,21 +131,6 @@ Plus or minus? Where does the time go? We're just days away from the beginning o
 Sat, 29 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-31st-6th-september
 
 Onimusha! Dawnwalker! NBA 2K! Crimson Moon! We’ve now hit the busy release schedule, with two giant PS5 titles launching next week: The Blood of Dawnwalker and Onimusha: Way of the Sword . Other titles worth paying attention to include Crimson Moon and NBA 2K27 . Read the full article on pushsquare.com
-
-### Hands On: Alien Isolation 2 Was My Favourite PS5 Game at Gamescom
-Sat, 29 Aug 2026 12:30:00 GMT — https://www.pushsquare.com/features/hands-on-alien-isolation-2-was-my-favourite-ps5-game-at-gamescom
-
-The wait is almost over. Hands down, Alien Isolation 2 was the highlight of my time at Gamescom 2026 — and that’s even with the demo I played being the same one that many got their hands on at Summer Games Fest earlier this year. This long-awaited sequel from Creative Assembly is easily my most hyped PS5 game for 2027, and my 20 minutes – running on PC with a DualSense controller – solidified that. Sure, that’s not a lot of time, but CA wastes no time making you feel right at home. Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 647
-Sat, 29 Aug 2026 09:30:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-6471
-
-In good company. That marks the end of a busy week, packed with Gamescom announcements and GTA 6 gameplay footage. Let's decompress with some games, eh? Jamie O'Neill Since I'm staying with family, it's an assortment of PS Vita games entertaining me at the moment. Hopefully, I'll be able to catch up with Ratchet & Clank: Rift Apart at the end of next month for my New Year's resolution. Read the full article on pushsquare.com
-
-### See You When We re Ready : Dev Acknowledges Leaked Iron Man PS5 Trailer
-Fri, 28 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/see-you-when-were-ready-dev-acknowledges-leaked-iron-man-ps5-trailer
-
-Stark contrast. Snoops with good Google-fu may be able to find a test trailer for Marvel’s Iron Man , the upcoming open world game in development at EA and Motive. We know this is legit because the team posted on social media about it earlier today: Read the full article on pushsquare.com
 
 ## Game Developer
 

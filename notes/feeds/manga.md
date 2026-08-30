@@ -1,6 +1,31 @@
-# Manga — harvested 2026-08-30T14:58:50.640Z
+# Manga — harvested 2026-08-30T19:26:27.779Z
 
 ## Anime News Network
+
+### '100 Girlfriends Who Really, Really, Really, Really, Really Love You' Season 3 Casts Yumika Yano
+Sun, 30 Aug 2026 13:13:47 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/100-girlfriends-who-really-really-really-really-really-love-you-season-3-casts-yumika-yano/.241137
+
+Yano voices Kishika Tororo, kendō club captain & Rentarō's newest girlfriend; in episode 9
+
+### The Ogre's Bride Chapters 1-15 Manga Review
+Sun, 30 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-ogre-bride/chapters-1-15/.240758
+
+<i>The Ogre’s Bride</i>’s first fifteen chapters operate on two levels: the <i>Cinderella</i> dream, where a downtrodden girl is swept off her feet by a princely character, and Yuzu learning that she’s worth something.
+
+### Baki Isekai Spinoff Manga Gets TV Anime
+Sun, 30 Aug 2026 11:48:18 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/baki-isekai-spinoff-manga-gets-tv-anime/.241136
+
+<i>Baki Gaiden - Retsu Kaioh wa Isekai Tensei Shitemo Ikkō ni Kamawan</i> follows Retsu reincarnating into another world
+
+### Medalist Anime Film's Teaser Reveals February 19 Opening
+Sun, 30 Aug 2026 11:25:47 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/medalist-anime-film-teaser-reveals-february-19-opening/.241134
+
+Film takes place after TV anime's 2nd season
+
+### Rascal Does Not Dream of a Dear Friend Film Unveils 2nd Trailer, Theme Song Artist
+Sun, 30 Aug 2026 11:20:37 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/rascal-does-not-dream-of-a-dear-friend-film-unveils-2nd-trailer-theme-song-artist/.241135
+
+Tōko Kirishima performs "Suihei-sen wa Boku no Furukizu finale"
 
 ### Sagrada Reset Author Yutaka Kōno's Sayonara no Iikata Nante Shiranai Novel Series Gets Manga Adaptation
 Sun, 30 Aug 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/sagrada-reset-author-yutaka-kono-sayonara-no-iikata-nante-shiranai-novel-series-gets-manga-/.241119
@@ -36,31 +61,6 @@ The old flaws are still there, but <i>Xenoblade Chronicles 2</i> can still show 
 Sat, 29 Aug 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-29/youka-nitta-to-publish-more-embracing-love-manga-in-spring-2027/.241108
 
 Author recently published 2-chapter spinoff manga in <cite>Be-Boy Gold</cite> magazine
-
-### Tomb Raider King ‒ Episode 8
-Sat, 29 Aug 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/tomb-raider-king/episode-8/.241101
-
-Finally, Jooheon manages to face some kind of setback in his relic dagger breaking.
-
-### Comic, Manga Letterer Dave Lanphear Dies at 58
-Sat, 29 Aug 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-29/comic-manga-letterer-dave-lanphear-dies-at-58/.241104
-
-Prolific letterer won 2 Eisner Awards, worked on manga such as <cite>Bleach, Beyblade</cite>
-
-### Clevatess Season 2 ‒ Episode 8
-Sat, 29 Aug 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/clevatess-season-2/episode-8/.241096
-
-Regardless of how obvious this is to anyone with even halfway-functional eyeballs, I am professionally obligated to point out that the battle between Clevatess and Ray is just incredible to behold.
-
-### Arcanadea TV Anime Reveals More Cast, January 2027 Debut in Video
-Sat, 29 Aug 2026 03:56:08 -0400 — https://www.animenewsnetwork.com/news/2026-08-29/arcanadea-tv-anime-reveals-more-cast-january-2027-debut-in-video/.241107
-
-Keiichirō Kawaguchi directs anime at Yokohama Animation Lab
-
-### Bleach Mirrors High Mobile Game Streams 2 New Short Videos
-Sat, 29 Aug 2026 02:46:08 -0400 — https://www.animenewsnetwork.com/news/2026-08-29/bleach-mirrors-high-mobile-game-streams-2-new-short-videos/.241083
-
-Pre-registration for game releasing in 2026 is now open
 
 ## Crunchyroll News
 
