@@ -43,10 +43,12 @@ const blog = defineCollection({
      * advice, and advice loses to a deadline. Here it fails the build, and the
      * scheduled job pushes only when the build passes.
      *
-     * The date floor is scaffolding: thirty-nine older articles still carry a
-     * drawn cover, and failing the build on all of them would stop every push
-     * until the backlog is sourced. Lower it as that clears, and delete it when
-     * it reaches zero.
+     * The date floor is deliberate and permanent. Thirty-seven articles
+     * published before this carry a drawn cover, and Gianluca decided against
+     * sourcing artwork for them: they are old, barely read, and each one is a
+     * separate hunt for a press asset rather than a download. So the rule binds
+     * everything written from here on and leaves the archive alone. Do not
+     * lower this date expecting the build to stay green.
      */
     .superRefine((post, ctx) => {
       const ENFORCED_FROM = new Date('2026-08-30T00:00:00Z');
