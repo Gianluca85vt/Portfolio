@@ -3,7 +3,7 @@ title: "DLSS 5 leak: a generative pass over finished art"
 date: 2026-08-30
 category: 3D
 excerpt: DLSS 5 leaked out of an NBA 2K27 build before release. Modders put it in Control and Skyrim, where it repaints finished art and halves frame rates.
-cover: /img/blog/dlss-5-leak-generative-pass-finished-art/cover.svg
+cover: /img/blog/dlss-5-leak-generative-pass-finished-art/shot-01.jpg
 ---
 
 The thing that leaked is a file. `nvngx_dlssnr.dll`, version 310.8.0.0 — DLSS

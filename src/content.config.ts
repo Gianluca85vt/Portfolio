@@ -32,7 +32,37 @@ const blog = defineCollection({
     scoreSources: z
       .array(z.object({ outlet: z.string(), score: z.number().min(0).max(10) }))
       .optional(),
-  }),
+  })
+    /**
+     * A published article must carry a photograph, not the drawn fallback.
+     *
+     * The SVG cover exists so a piece is never coverless while its images are
+     * being fetched. It was never meant to ship, and it kept shipping anyway —
+     * on a DLSS piece and an Elden Ring review, where the whole subject is what
+     * something looks like. Written as guidance in the writer's prompt it was
+     * advice, and advice loses to a deadline. Here it fails the build, and the
+     * scheduled job pushes only when the build passes.
+     *
+     * The date floor is scaffolding: thirty-nine older articles still carry a
+     * drawn cover, and failing the build on all of them would stop every push
+     * until the backlog is sourced. Lower it as that clears, and delete it when
+     * it reaches zero.
+     */
+    .superRefine((post, ctx) => {
+      const ENFORCED_FROM = new Date('2026-08-30T00:00:00Z');
+      if (post.draft) return;
+      if (!post.cover?.endsWith('.svg')) return;
+      if (post.date < ENFORCED_FROM) return;
+
+      ctx.addIssue({
+        code: 'custom',
+        path: ['cover'],
+        message:
+          'a published article needs a real image as its cover, not the drawn SVG. ' +
+          'Write notes/image-requests/<slug>.json with a steamAppId or official press urls, ' +
+          'or keep draft: true until the artwork is in.',
+      });
+    }),
 });
 
 export const collections = { blog };
