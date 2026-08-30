@@ -2,7 +2,7 @@
 title: Blood of Dawnwalker found its 60fps mode in three days
 date: 2026-08-25
 category: Games
-excerpt: The Blood of Dawnwalker will ship with a 60fps Performance mode on PS5, PS5 Pro and Series X after all, added to the day-one patch days after Rebel Wolves said the frame-rate ceiling wasn't moving. Series S still doesn't get one.
+excerpt: The Blood of Dawnwalker gets a 60fps mode on PS5, PS5 Pro and Series X in the day-one patch, days after Rebel Wolves said the ceiling was fixed.
 cover: /img/blog/blood-of-dawnwalker-60fps-mode-reversal/shot-01.jpg
 ---
 

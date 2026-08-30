@@ -2,7 +2,7 @@
 title: Nvidia retired Nanite's shadow stand-in mesh
 date: 2026-08-26
 category: 3D
-excerpt: RTX Mega Geometry lets Unreal Engine 5 ray-trace Nanite's actual cluster geometry instead of a decimated fallback mesh, and Gears of War E-Day is the first shipping game built on it.
+excerpt: RTX Mega Geometry lets Unreal Engine 5 ray-trace Nanite's real cluster geometry instead of a decimated stand-in. Gears of War E-Day ships on it first.
 cover: /img/blog/nanite-fallback-mesh-rtx-mega-geometry/shot-01.jpg
 ---
 

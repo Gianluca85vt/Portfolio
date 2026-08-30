@@ -2,7 +2,7 @@
 title: "HyperNova 60B: 61GB to 32GB with quantization healing"
 date: 2026-08-25
 category: AI
-excerpt: Multiverse Computing took its HyperNova 60B model from 61GB down to 32GB of VRAM with a recipe called Quantization-Aware Healing, and the smaller version holds its ground against the one it came from. For anyone trying to run serious models on one card, that's the number that matters.
+excerpt: Multiverse took HyperNova 60B from 61GB to 32GB of VRAM with Quantization-Aware Healing, and the smaller model holds its ground against the original.
 cover: /img/blog/quantization-aware-healing-hypernova-60b/cover.svg
 ---
 

@@ -123,7 +123,7 @@ export const blog = {
   facebook: 'https://www.facebook.com/monkey85art',
   tagline: 'What made things cost to make',
   description:
-    'Games, film, anime, 3D and the hardware underneath — read from the production side. What a decision cost, how a thing got built, and what a release tells you about the pipeline behind it.',
+    'Games, film, anime, 3D and the hardware underneath, read from the production side: what a decision cost and how the thing actually got built.',
 } as const;
 
 export const blogCategories = [

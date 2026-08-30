@@ -2,7 +2,7 @@
 title: EA's $55bn buyout, and the $700m bill nine days later
 date: 2026-08-13
 category: Games
-excerpt: The Saudi-led buyout of Electronic Arts closed on 4 August at $210 a share. Bloomberg then reported EA telling its new creditors it plans $700 million in annual cost cuts — and BioWare, already down to a skeleton crew, is the name everyone keeps saying out loud.
+excerpt: EA's Saudi-led buyout closed at $210 a share on 4 August. Nine days later came a reported $700 million in annual cuts, and BioWare is the name being said.
 cover: /img/blog/ea-goes-private/cover.svg
 ---
 

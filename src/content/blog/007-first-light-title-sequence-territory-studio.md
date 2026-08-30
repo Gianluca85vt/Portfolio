@@ -2,7 +2,7 @@
 title: "007 First Light titles: built from the game's own mocap"
 date: 2026-08-17
 category: 3D
-excerpt: Territory Studio built the Bond title sequence for IO Interactive's 007 First Light out of performance data pulled straight from the game's own animation assets. The interesting part isn't the glass and gold — it's what reusing in-engine mocap for a broadcast-grade sequence actually forces you to do.
+excerpt: Territory Studio built the Bond title sequence out of 007 First Light's own animation data. Here is what reusing in-engine mocap actually costs.
 cover: /img/blog/007-first-light-title-sequence-territory-studio/shot-01.jpg
 ---
 

@@ -2,7 +2,7 @@
 title: The Witcher 3's 2026 overhaul goes after the lighting
 date: 2026-08-26
 category: Games
-excerpt: CD Projekt Red announced a second free overhaul of an eleven-year-old game at Gamescom, and buried in the "30-plus upgrades" list is a genuine global illumination rework. That is the part worth caring about.
+excerpt: CD Projekt Red's second free overhaul of an eleven-year-old game buries a real global illumination rework inside a list of thirty-plus upgrades.
 cover: /img/blog/witcher-3-remastered-2026-lighting-overhaul/shot-01.jpg
 ---
 

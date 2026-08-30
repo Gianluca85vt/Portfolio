@@ -2,7 +2,7 @@
 title: Widow's Bay won Best Set Decoration for looking undesigned
 date: 2026-08-14
 category: Film & TV
-excerpt: The Set Decorators Society of America gave Widow's Bay its top TV award this week. I went looking for how a fictional cursed island ended up looking more real than most real locations, and it's a masterclass in restraint.
+excerpt: Widow's Bay took the Set Decorators Society's top TV award. How a fictional cursed island ended up looking more real than most real locations.
 cover: /img/blog/widows-bay-set-decoration/shot-01.jpg
 ---
 

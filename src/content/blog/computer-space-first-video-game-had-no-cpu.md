@@ -2,7 +2,7 @@
 title: The first arcade game had no computer inside
 date: 2026-08-14
 category: Tech
-excerpt: A green-sparkle 1973 Computer Space cabinet is bidding at RR Auction right now. What stopped me scrolling wasn't the price — it's that the machine has no CPU, no ROM and no frame buffer. The rotating spaceship on screen is wired directly into transistor logic.
+excerpt: A 1973 Computer Space cabinet is at auction with no CPU, no ROM and no frame buffer. The spaceship on screen is wired straight into transistor logic.
 cover: /img/blog/computer-space-first-video-game-had-no-cpu/shot-01.jpg
 ---
 

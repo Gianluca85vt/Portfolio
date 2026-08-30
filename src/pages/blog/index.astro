@@ -26,9 +26,39 @@ const posts = entries.map((entry) => ({
 
 const title = `${blog.name} — ${site.name}`;
 const description = blog.description;
+
+// The one indexable page that was carrying no structured data. A Blog node
+// names the publication and its author, and the ten most recent posts give a
+// crawler the shape of the archive without waiting to follow every link. The
+// articles carry their own BlogPosting; this says what they belong to.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Blog',
+  name: blog.name,
+  description,
+  url: new URL('/blog/', site.url).href,
+  inLanguage: 'en',
+  author: {
+    '@type': 'Person',
+    name: site.name,
+    url: site.url,
+    jobTitle: site.role,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: blog.name,
+    url: new URL('/blog/', site.url).href,
+  },
+  blogPost: posts.slice(0, 10).map((p) => ({
+    '@type': 'BlogPosting',
+    headline: p.title,
+    datePublished: p.date,
+    url: new URL(`/blog/${p.slug}/`, site.url).href,
+  })),
+};
 ---
 
-<Base title={title} description={description}>
+<Base title={title} description={description} jsonLd={jsonLd}>
   <div class="min-h-screen flex flex-col" style="overflow-x:clip">
     <SiteHeader current="/blog" />
     <BlogList posts={posts} client:load />

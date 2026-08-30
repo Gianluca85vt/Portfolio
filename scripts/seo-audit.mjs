@@ -25,7 +25,29 @@ const DESC_MIN = 70;
 const DESC_MAX = 160;
 const THIN_WORDS = 300;
 
-const tag = (html, re) => (html.match(re) ?? [])[1]?.trim();
+/**
+ * Entities back to characters before anything is measured.
+ *
+ * An apostrophe ships as `&#39;`, five characters where the reader sees one, so
+ * measuring the raw markup adds four to every contraction. That is enough to
+ * push a 52-character headline over a 60-character limit and send you rewriting
+ * a title that was already fine.
+ */
+const decode = (s) =>
+  String(s ?? '')
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCharCode(parseInt(n, 16)))
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&');
+
+const tag = (html, re) => {
+  const m = (html.match(re) ?? [])[1];
+  return m === undefined ? undefined : decode(m).trim();
+};
 
 /**
  * Reads a meta attribute in two steps: isolate the element, then read the
@@ -40,7 +62,8 @@ const tag = (html, re) => (html.match(re) ?? [])[1]?.trim();
 const attr = (html, name, value, want) => {
   const el = html.match(new RegExp(`<meta\\b[^>]*\\b${name}=["']${value}["'][^>]*>`, 'i'))?.[0];
   if (!el) return undefined;
-  return el.match(new RegExp(`\\b${want}=(["'])([\\s\\S]*?)\\1`, 'i'))?.[2]?.trim();
+  const raw = el.match(new RegExp(`\\b${want}=(["'])([\\s\\S]*?)\\1`, 'i'))?.[2];
+  return raw === undefined ? undefined : decode(raw).trim();
 };
 
 async function pages(dir = ROOT, out = []) {
@@ -99,7 +122,13 @@ function analyse(html, url) {
 const audit = [];
 for (const file of await pages()) {
   const url = '/' + relative(ROOT, file).replace(/\\/g, '/').replace(/index\.html$/, '');
-  audit.push(analyse(await readFile(file, 'utf8'), url === '//' ? '/' : url));
+  const html = await readFile(file, 'utf8');
+
+  // A redirect stub is meant to be thin, headingless and unindexed. Counting it
+  // as a content failure is chasing a problem that was the point.
+  if (/http-equiv=["']refresh["']/i.test(html)) continue;
+
+  audit.push(analyse(html, url === '//' ? '/' : url));
 }
 audit.sort((a, b) => a.url.localeCompare(b.url));
 

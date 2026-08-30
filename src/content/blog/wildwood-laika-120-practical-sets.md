@@ -2,7 +2,7 @@
 title: "Wildwood: 120 practical sets for one film"
 date: 2026-08-19
 category: Film & TV
-excerpt: Laika's first stop-motion feature since Missing Link got a new trailer today, 120 practical sets, 231 puppets, and it's a genuinely useful contrast to how a game environment actually gets built.
+excerpt: "Laika's first stop-motion feature since Missing Link: 120 practical sets, 231 puppets, and a useful contrast to how a game environment gets built."
 cover: /img/blog/wildwood-laika-120-practical-sets/cover.svg
 ---
 

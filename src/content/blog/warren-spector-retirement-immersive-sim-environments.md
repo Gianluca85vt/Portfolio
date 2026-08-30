@@ -2,7 +2,7 @@
 title: What Warren Spector's levels did with space
 date: 2026-08-19
 category: Games
-excerpt: The Deus Ex and System Shock designer announced his retirement after 44 years. The tribute pieces are covering the CV — I want to talk about why immersive sim spaces are still the hardest thing an environment artist can be asked to build.
+excerpt: The Deus Ex and System Shock designer retired after 44 years. Immersive sim spaces are still the hardest thing an environment artist gets asked to build.
 cover: /img/blog/warren-spector-retirement-immersive-sim-environments/shot-01.jpg
 ---
 

@@ -26,7 +26,7 @@ scoreSources:
   - { outlet: GameRant, score: 7 }
   - { outlet: Push Square, score: 7 }
   - { outlet: Sirus Gaming, score: 7 }
-excerpt: The embargo lifted at 18:00 today. Twenty published scores run from 7 to 9.5, which for a studio this consistent is unusual — and the split is not about quality. It is about whether a sequel is allowed to throw away the thing that made the series famous.
+excerpt: Twenty published scores run from 7 to 9.5. The split is about whether a sequel is allowed to throw away the thing that made the series famous.
 ---
 
 A Plague Tale was a series with one unmistakable image: a girl, a torch, and a

@@ -40,7 +40,7 @@ scoreSources:
   - { outlet: EvelonGames, score: 8.5 }
   - { outlet: Eternal Games, score: 8 }
   - { outlet: Gamer Social Club, score: 8 }
-excerpt: An 87 on OpenCritic, a Mixed on Steam, and a forty-point gap between the two. I read through forty-odd reviews in five languages to work out what critics saw that players did not — and why the one complaint everybody shares is an art direction problem, not a bug.
+excerpt: An 87 on OpenCritic, a Mixed on Steam, and a forty-point gap. Forty-odd reviews in five languages point at art direction as the shared complaint.
 ---
 
 Arc System Works' Marvel tag fighter landed on **6 August**, the reviews have

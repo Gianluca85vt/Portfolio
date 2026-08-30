@@ -2,7 +2,7 @@
 title: "Valve's 12TB leak: Portal 2 was built on TF2 arms"
 date: 2026-08-30
 category: Games
-excerpt: A decade of Valve's internal builds surfaced this weekend. The 2009 Portal 2 test rooms used Team Fortress 2 arms and leftover Half-Life 2 zombies as stand-ins.
+excerpt: A decade of Valve's internal builds surfaced. The 2009 Portal 2 test rooms used Team Fortress 2 arms and leftover Half-Life 2 zombies as stand-ins.
 cover: /img/blog/valve-12tb-leak-portal-2-placeholder-assets/shot-01.jpg
 ---
 
