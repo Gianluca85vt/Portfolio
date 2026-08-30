@@ -1,13 +1,33 @@
-# Games — harvested 2026-08-30T10:06:59.427Z
+# Games — harvested 2026-08-30T14:58:50.640Z
 
 ## Eurogamer
+
+### Phasmophobia's second Quality of Life update adds Restricted maps, VR fixes, and much creepier deaths
+Sun, 30 Aug 2026 13:47:47 +0000 — https://www.eurogamer.net/phasmophobia-quality-of-life-update-2-restricted-maps-vr
+
+Kinetic Games has released Phasmophobia 's second Quality of Life update, adding a raft of new Restricted maps, streamlined Evidence collection, VR fixes, and considerably more ways to die. Read more
+
+### 12TB Valve archive leak includes early Portal 2 builds and hints of Half-Life 2: Episode Three
+Sun, 30 Aug 2026 13:26:42 +0000 — https://www.eurogamer.net/valve-steam2-leak-12tb-portal-2-half-life-episode-three
+
+A leaked archive said to contain around 12TB of old Valve development files, dated between 2003 and 2013, has surfaced online, and fans are already combing through it for any trace of the long-cancelled Half-Life 2 : Episode Three. Read more
+
+### Multiple developers report equipment stolen from their Gamescom booths
+Sun, 30 Aug 2026 11:38:43 +0000 — https://www.eurogamer.net/gamescom-2026-exhibitors-equipment-stolen-overnight
+
+Multiple exhibitors at Gamescom have reported thefts of laptops and other equipment from their booths in Cologne, with one indie developer saying the loss has effectively ended his show early. Read more
+
+### Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch
+Sun, 30 Aug 2026 10:48:08 +0000 — https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar
+
+Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more
 
 ### EA breaks its silence after Iron Man gameplay leak, admitting "well, that didn't go as planned"
 Sat, 29 Aug 2026 14:56:18 +0000 — https://www.eurogamer.net/ea-motive-iron-man-leak-response-tweet
 
 EA has broken its silence on the leaked Iron Man footage that surfaced yesterday , admitting, "well, that didn't go as planned". Read more
 
-### GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process
+### GTA 6's gameplay reveal pulled in 3.97 million viewers across commentator livestreams, overwhelming Twitch and Netflix in the process
 Sat, 29 Aug 2026 14:25:56 +0000 — https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix
 
 Reaction streams to Grand Theft Auto 6 's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far. Read more
@@ -37,48 +57,25 @@ Sat, 29 Aug 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-pla
 
 Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Kelsey didn't have to sacrifice a limb to play Elden Ring for the first time again; Bertie mucks around in the Prancing Pony with edgy Aragorn; and the rest of the team travels back from Germany. More to come from them next week! Read more
 
-### Hell Let Loose: Vietnam review
-Fri, 28 Aug 2026 14:42:37 +0000 — https://www.eurogamer.net/hell-let-loose-vietnam-review
-
-The most surprising thing about Hell Let Loose: Vietnam is how much DNA it shares with Big Walk. They both frequently involve traversing large expanses of terrain. They both have excellent maps. Most of all, they're both fundamentally games about communication. Each utilises modern voice chat to its fullest extent, requiring players to clearly express and articulate themselves to succeed. Read more
-
-### Footage of new Iron Man game from EA Motive appears to leak, showing blistering speed and freedom, as MIA superhero game finally reappears
-Fri, 28 Aug 2026 14:31:10 +0000 — https://www.eurogamer.net/ea-motive-iron-man-gameplay-footage-leak
-
-What appears to be footage from EA Motive's long-in-development - and somewhat missing-in-development - Iron Man game has leaked. Read more
-
-### Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode
-Fri, 28 Aug 2026 13:20:14 +0000 — https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s
-
-UPDATE 3.30PM BST: Performance perfectionist Digital Foundry has scrutinised the latest GTA 6 trailer ( which can be downloaded for a closer, purer appraisal) and said that on this evidence it looks like GTA 6 is running at 1440p natively on PS5 and maintains "a relatively stable and well-paced 30 FPS output with only very occasional single frame drops". However, the downloadable video being "a 30 FPS asset" means there could be more unseen frame drops, apparently. Read more
-
-### "Somebody will make the Half-Life 2 of AI" - after the Rideshare controversy, Saber CCO says something will come along and "change people's minds" about gen-AI
-Fri, 28 Aug 2026 11:04:23 +0000 — https://www.eurogamer.net/saber-half-life-2-gen-ai-rideshare-controversy
-
-Saber Interactive made headlines recently when its boss had an ugly spat with a former employee about the company's use of gen-AI in taxi game Rideshare Stimulator . Matthew Karch, Saber's co-founder and CEO, since apologised, and made sure Rideshare got proper AI disclosure labels on Steam. But a larger question mark over Saber's approach to gen-AI remained. Read more
-
 ## GamesIndustry.biz
 
-### GTA 6 will have a halo effect for the entire industry | Opinion
-Fri, 28 Aug 2026 14:27:12 +0000 — https://www.gamesindustry.biz/gta-6-will-have-a-halo-effect-for-the-entire-industry-opinion
-
-When the hype engine for GTA 6 roared into top gear this week, there was a quietly touching aspect amid the excitement that will stay with me for a while. As the 27 minute long extended look at the game racked up millions of views on YouTube, a theme emerged in the comments. Many of the most upvoted messages were brief tributes to friends and loved ones who adored GTA but had passed away before the game&rsquo;s release &ndash; a surprisingly poignant response to the tongue-in-cheek ultraviolence of the video itself. Read more
-
-### Limbic Entertainment on life after Bandai Namco
-Fri, 28 Aug 2026 12:05:08 +0000 — https://www.gamesindustry.biz/limbic-entertainment-on-life-after-bandai-namco
-
-In December 2025, German developer Limbic Entertainment was sold by Bandai Namco to a "private investor" . This news came just over three years after the Japanese giant acquired a majority stake in the studio for an undisclosed sum . Read more
-
-### Cloud Imperium delays Squadron 42 to 2027 – "There is no way I want to launch into the attention buzz saw of GTA 6"
-Fri, 28 Aug 2026 11:17:59 +0000 — https://www.gamesindustry.biz/cloud-imperium-delays-squadron-42-to-2027-there-is-no-way-i-want-to-launch-into-the-attention-buzz-saw-of-gta-6
-
-The release of Star Citizen spin-off Squadron 42 has been postponed to Q2 2027 to avoid "launching into the attention buzz saw of Grand Theft Auto 6." Read more
+_Nothing in the last 48 hours._
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Preview: Forget the Soulslikes, This Bizarre New PS5 Game Is Channelling Shenmue Instead
+Sun, 30 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/previews/forget-the-soulslikes-this-bizarre-new-ps5-game-is-channelling-shenmue-instead
+
+"I see". In a tiny Gamescom booth, in the business area separated from the hustle and bustle of the Koelnmesse chaos, NEKCOM founder Xiangyu Luo and I may have become BFFs. With a translator converting my questions into Mandarin, I’m not sure how much he understood – but his eyes lit up when I made a reference to Shenmue , my all-time favourite franchise. Read the full article on pushsquare.com
+
+### Sony s Rumoured to Be Reversing Its Physical Discs Decision, But I Don t Buy It At All
+Sun, 30 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/08/sonys-rumoured-to-be-reversing-its-physical-discs-decision-but-i-dont-buy-it-at-all
+
+An unlikely story. I’m not entirely sure how this rumour got started, but the web is awash with reports this weekend that Sony is considering reversing its stance on physical games. The manufacturer has announced plans to cease manufacturing discs in January 2028, which has led to a loud outcry from select customers, prompting an indefinite “ blackout ” of the PS5 console. Read the full article on pushsquare.com
 
 ### Hands On: I Waited 13 Years to Play The Wolf Among Us 2, But I Have One Concern
 Sat, 29 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/features/hands-on-i-waited-13-years-to-play-the-wolf-among-us-2-but-i-have-one-concern
@@ -130,30 +127,7 @@ Fri, 28 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/08/see-yo
 
 Stark contrast. Snoops with good Google-fu may be able to find a test trailer for Marvel’s Iron Man , the upcoming open world game in development at EA and Motive. We know this is legit because the team posted on social media about it earlier today: Read the full article on pushsquare.com
 
-### Tech Experts Call GTA 6 the Most Impressive Example of Real-Time Rendering We ve Ever Seen
-Fri, 28 Aug 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/08/tech-experts-call-gta-6-the-most-impressive-example-of-real-time-rendering-weve-ever-seen
-
-Digital Foundry weighs in. In case you hadn't noticed, GTA 6 just had its big gameplay blowout, and it looks pretty sensational. It's a seriously impressive-looking game, one that looks on par with some of PS5's most visually outstanding software — only set within a vast open world that's stuffed with detail. Read the full article on pushsquare.com
-
-### New Marvel s Wolverine PS5 Trailer Breaks Down Gameplay Features, Accessibility Options, More
-Fri, 28 Aug 2026 12:45:00 GMT — https://www.pushsquare.com/news/2026/08/new-marvels-wolverine-ps5-trailer-breaks-down-gameplay-features-accessibility-options-more
-
-Round of a-claws. Out in a matter of weeks, Sony's latest PS5 exclusive is Marvel's Wolverine , a superhero action adventure starring everyone's favourite ball of rage. When it launches on 15th September, it looks like it'll come packed with lots of interesting features and accessibility options, as detailed in this new trailer: Read the full article on pushsquare.com
-
 ## Game Developer
 
-### GDC Side Quest - Inside Austin Wintory's Collaborative Composing Process
-Fri, 28 Aug 2026 14:15:00 GMT — https://www.gamedeveloper.com/audio/gdc-side-quest-inside-austin-wintory-s-collaborative-composing-process
-
-This month, celebrated composer Austin Wintory joins content marketing manager Beth Elderkin for a conversation about his creative process.
-
-### Panic refunds tariff fees, 1047 Games pivots from Splitgate, and Gamescom Dev grows - Patch Notes #67
-Fri, 28 Aug 2026 13:47:47 GMT — https://www.gamedeveloper.com/business/panic-refunds-tariff-fees-1047-games-pivots-from-splitgate-and-gamescom-dev-grows-patch-notes-67
-
-Plus: No More Room in Hell 2 surpasses 1 million players after exiting a pivotal Early Access period.
-
-### Warlock's magic system was built on game-bending player choices
-Fri, 28 Aug 2026 12:03:43 GMT — https://www.gamedeveloper.com/design/warlock-s-magic-system-was-built-on-game-breaking-player-choices
-
-It's not a bug, it's a feature.
+_Nothing in the last 48 hours._
 

@@ -1,6 +1,26 @@
-# Film & TV — harvested 2026-08-30T10:06:59.427Z
+# Film & TV — harvested 2026-08-30T14:58:50.640Z
 
 ## Variety
+
+### Call My Agent! The Movie Review: Love-Hate Energy Keeps the Gang Together in a Fast, Funny Feature-Length Return
+Sun, 30 Aug 2026 14:58:03 +0000 — https://variety.com/2026/film/news/call-my-agent-the-movie-review-1236846824/
+
+The rare reboot pitch that that can actually be greeted with this again! rather than this again?, Call My Agent! The Movie makes sense of its rote title in two ways. First, and most obviously, it s a feature-length spinoff of the hit French comedy series, which wittily satirized the national showbiz industry from the perspective [ ]
+
+### Here s How to Watch the 2026 Little League World Series Championship Game Live Online
+Sun, 30 Aug 2026 14:00:07 +0000 — https://variety.com/2026/shopping/news/how-to-watch-little-league-world-series-online-livestream-free-1236487338/
+
+The 2026 Little League World Series Championship Game features Nevada vs. Curaçao on Sunday, Aug. 30 at 3 p.m. ET/12 p.m. PT on ESPN. Games take place at Lamade Stadium in South Williamsport, Pennsylvania. With the start of the Little League World Series Championship Game, it’s likely games may features a few celebrities in attendance [ ]
+
+### Laura Dern to Give George Clooney Venice Golden Lion for Lifetime Achievement
+Sun, 30 Aug 2026 13:48:56 +0000 — https://variety.com/2026/film/festivals/laura-dern-george-clooney-venice-golden-lion-lifetime-1236846829/
+
+Laura Dern is set to give the Laudatio speech honoring George Clooney at Venice Film Festival where, as previously announced, he will be honored on Wed., Sept. 2, with a Golden Lion for Lifetime Achievement. Clooney – who is one of only three people to have been nominated in six different Oscar categories throughout his career [ ]
+
+### 17 Review: Harrowing Teen Pregnancy Drama from Macedonia Could Be the Feel-Bad Movie of the Year
+Sun, 30 Aug 2026 10:13:56 +0000 — https://variety.com/2026/film/reviews/17-review-1236846790/
+
+From the first frame, Kosara Mitić’s “17” refuses to pull any punches, plunging us immediately into the traumatic moment when a hookup between high-school student Sara (Eva Kostić) and two boys takes a violent turn. From here, this nervy teen drama from Macedonia picks up several months later and follows the withdrawn Sara over the [ ]
 
 ### Sea of Glass Review: A Widow s Coastal Healing Retreat Turns Into a Stately, Moody Greek Tragedy
 Sun, 30 Aug 2026 08:31:55 +0000 — https://variety.com/2026/film/news/sea-of-glass-review-1236846714/
@@ -31,26 +51,6 @@ American author Jay Parini s 2020 memoir Borges and Me: An Encounter read as a c
 Sat, 29 Aug 2026 20:55:00 +0000 — https://variety.com/lists/2026-emmys-predictions/
 
 Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
-
-### Chris Hansen Says Robert Pattinson s Primetime Performance Is Overly Dramatic, But His Wife and Kids Think It s a Pretty Good Imitation
-Sat, 29 Aug 2026 20:45:05 +0000 — https://variety.com/2026/film/news/chris-hansen-robert-pattinson-primetime-overly-dramatic-1236846693/
-
-Chris Hansen recently gave his reaction to Robert Pattinson’s impression of him in the upcoming A24 drama-thriller “Primetime,” which chronicles Hansen’s stint as host of Dateline NBC’s “To Catch a Predator.” “I mean, obviously he has practiced imitating me, and while I think it s overly dramatic, I think there is a pretty good imitation there [ ]
-
-### Venice Film Festival Jury Press Conference Probably Not Happening Due to Scheduling, Will Replace Event With Welcome Cocktails for Journalists
-Sat, 29 Aug 2026 19:48:58 +0000 — https://variety.com/2026/film/global/venice-film-festival-jury-press-conference-canceled-1236846620/
-
-The Venice Film Festival is weighing scrapping its traditional opening jury press conference on the Lido. The festival, which kicks off Sept. 2 with the world premiere of Danny Boyle s Ink, told Variety that the presser will probably not take place, citing a scheduling conflict, and said a welcome cocktail hour with the press will [ ]
-
-### Ray Winstone Told Off a Director Who Was Groping His Female Co-Star During Filming: Don t You Dare Do That
-Sat, 29 Aug 2026 18:14:22 +0000 — https://variety.com/2026/tv/news/ray-winstone-told-off-director-groping-female-co-star-1236846594/
-
-Ray Winstone recently recalled to The Times of London that he once told off an unnamed director after he saw them “groping” his female co-star. “I had this director once,” Winstone said. “I was in a scene where I had to pick up this girl, and the director wanted to show me what to do. [ ]
-
-### New Girl Reunion Is Not Happening: There Are No Scripts, Says Creator Liz Meriwether
-Sat, 29 Aug 2026 17:45:10 +0000 — https://variety.com/2026/tv/columns/new-girl-reunion-not-happening-no-scripts-liz-meriwether-britney-spears-1236846563/
-
-“New Girl” isn’t coming back anytime soon. Despite recent claims by Max Greenfield, who played Schmidt on the hit Fox sitcom, that he has read “amazing” scripts for a reunion, show creator Liz Meriwether insists, “There are no scripts.” I caught up with Meriwether at the Season 1 finale screening of her latest hit series [ ]
 
 ## The Hollywood Reporter
 

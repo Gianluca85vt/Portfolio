@@ -1,9 +1,14 @@
-# Manga — harvested 2026-08-30T10:06:59.427Z
+# Manga — harvested 2026-08-30T14:58:50.640Z
 
 ## Anime News Network
 
+### Sagrada Reset Author Yutaka Kōno's Sayonara no Iikata Nante Shiranai Novel Series Gets Manga Adaptation
+Sun, 30 Aug 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/sagrada-reset-author-yutaka-kono-sayonara-no-iikata-nante-shiranai-novel-series-gets-manga-/.241119
+
+<cite>5 cm/s</cite> manga artist Yukiko Seike launches manga this fall
+
 ### Sankaku Head's My Darling Devilish Daughter Manga Ends in 6th Volume
-Sun, 30 Aug 2026 05:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-29/sankaku-head-my-darling-devilish-daughter-manga-ends-in-6th-volume/.241120
+Sun, 30 Aug 2026 05:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/sankaku-head-my-darling-devilish-daughter-manga-ends-in-6th-volume/.241120
 
 Series about half-devil daughter debuted in 2024
 
@@ -56,11 +61,6 @@ Keiichirō Kawaguchi directs anime at Yokohama Animation Lab
 Sat, 29 Aug 2026 02:46:08 -0400 — https://www.animenewsnetwork.com/news/2026-08-29/bleach-mirrors-high-mobile-game-streams-2-new-short-videos/.241083
 
 Pre-registration for game releasing in 2026 is now open
-
-### PuniRunes Anime's 4th Season Reveals New Characters in Promo Video
-Sat, 29 Aug 2026 01:56:08 -0400 — https://www.animenewsnetwork.com/news/2026-08-29/punirunes-anime-4th-season-reveals-new-characters-in-promo-video/.241103
-
-New season debuts on October 4
 
 ## Crunchyroll News
 
