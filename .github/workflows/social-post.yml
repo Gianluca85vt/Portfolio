@@ -70,13 +70,29 @@ jobs:
           for file in $changed; do
             # Publishing is the removal of this line, so its absence is the
             # signal. A draft in the same push is simply passed over.
-            if ! grep -q '^draft: true' "$file"; then
-              live="$live $(basename "$file" .md)"
+            if grep -q '^draft: true' "$file"; then
+              continue
             fi
+
+            slug=$(basename "$file" .md)
+
+            # And skip anything already posted, here rather than four steps
+            # later inside the poster. An edit to old articles — a title
+            # rewrite, a typo fix — changes dozens of published files at once,
+            # and without this the job installs a browser, redraws dozens of
+            # cards and commits them, all to discover the ledger had every slug
+            # already. One SEO pass over the archive did exactly that.
+            if [ -f notes/social-posted.json ] && \
+               grep -q "\"$slug\"[[:space:]]*:" notes/social-posted.json; then
+              echo "skip $slug — already posted"
+              continue
+            fi
+
+            live="$live $slug"
           done
 
           echo "slugs=$(echo $live | xargs)" >> "$GITHUB_OUTPUT"
-          echo "found:$live"
+          echo "to post:${live:- nothing}"
 
       - name: Install sharp
         if: steps.pick.outputs.slugs != ''
@@ -102,6 +118,11 @@ jobs:
             echo "no new cards"
           else
             git commit -m "Draw the social cards for what just went live"
+            # Rebase before pushing. Runs queue rather than cancel, so a second
+            # one starts from the commit that triggered it and finds main has
+            # moved — and a bare push then fails on a non-fast-forward, which
+            # is a red cross on a job that did its work correctly.
+            git pull --rebase --autostash
             git push
           fi
 
