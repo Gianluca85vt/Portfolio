@@ -14,14 +14,14 @@ export default function AiSection() {
   return (
     <section
       id="ai"
-      className="relative z-10 bg-[#0C0C0C] rounded-t-[40px] sm:rounded-t-[50px] md:rounded-t-[60px] -mt-10 sm:-mt-12 md:-mt-14 px-5 sm:px-8 md:px-10 pt-20 sm:pt-24 md:pt-32 pb-12 sm:pb-16"
+      className="relative z-10 bg-[#0C0C0C] rounded-t-[40px] sm:rounded-t-[50px] md:rounded-t-[60px] -mt-10 sm:-mt-12 md:-mt-14 px-5 sm:px-8 md:px-10 pt-14 sm:pt-16 md:pt-20 pb-10 sm:pb-12"
     >
       <FadeIn
         as="h2"
         delay={0}
         y={40}
         className="font-black uppercase text-center leading-none tracking-tight"
-        style={{ fontSize: 'clamp(3rem, 12vw, 160px)' }}
+        style={{ fontSize: 'clamp(2.6rem, 8vw, 100px)' }}
       >
         <GlowText text={ai.heading} charClassName="hero-heading" />
       </FadeIn>

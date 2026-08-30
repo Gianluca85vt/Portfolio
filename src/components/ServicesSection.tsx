@@ -7,14 +7,14 @@ export default function ServicesSection() {
   return (
     <section
       id="skills"
-      className="bg-white rounded-t-[40px] sm:rounded-t-[50px] md:rounded-t-[60px] px-5 sm:px-8 md:px-10 py-20 sm:py-24 md:py-32"
+      className="bg-white rounded-t-[40px] sm:rounded-t-[50px] md:rounded-t-[60px] px-5 sm:px-8 md:px-10 py-14 sm:py-16 md:py-20"
     >
       <FadeIn
         as="h2"
         delay={0}
         y={40}
-        className="text-[#0C0C0C] font-black uppercase text-center leading-none tracking-tight mb-16 sm:mb-20 md:mb-28"
-        style={{ fontSize: 'clamp(3rem, 12vw, 160px)' }}
+        className="text-[#0C0C0C] font-black uppercase text-center leading-none tracking-tight mb-10 sm:mb-12 md:mb-16"
+        style={{ fontSize: 'clamp(2.6rem, 8vw, 100px)' }}
       >
         <GlowText text="Skills" />
       </FadeIn>

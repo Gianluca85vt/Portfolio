@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Play } from 'lucide-react';
+import { Play, ChevronDown } from 'lucide-react';
 import FadeIn from './ui/FadeIn';
 import GlowText from './ui/GlowText';
 import { showreel } from '../data/portfolio';
@@ -7,30 +7,40 @@ import { showreel } from '../data/portfolio';
 /**
  * The old site's "Animations" and "Unreal Engine" pages were both video-only.
  * Thumbnails are served locally and the iframe is only mounted once a tile is
- * clicked, so the page never loads twelve YouTube players up front.
+ * clicked, so the page never loads a dozen YouTube players up front.
+ *
+ * Two rows on arrival. Fourteen tiles is four screens of scrolling before the
+ * next section starts, and nobody watches fourteen — the rest are one click
+ * away for anyone who wants them.
  */
+const VISIBLE = 6;
+
 export default function ShowreelSection() {
   const [playing, setPlaying] = useState<string | null>(null);
+  const [expanded, setExpanded] = useState(false);
+
+  const shown = expanded ? showreel : showreel.slice(0, VISIBLE);
+  const hidden = showreel.length - VISIBLE;
 
   return (
     <section
       id="showreel"
       /* the AI section above already carries the rounded lift off the white
          Skills block, so this one just continues the dark run */
-      className="relative z-10 bg-[#0C0C0C] px-5 sm:px-8 md:px-10 pt-16 sm:pt-20 md:pt-24 pb-10"
+      className="relative z-10 bg-[#0C0C0C] px-5 sm:px-8 md:px-10 pt-12 sm:pt-14 md:pt-16 pb-8"
     >
       <FadeIn
         as="h2"
         delay={0}
         y={40}
-        className="font-black uppercase text-center leading-none tracking-tight mb-14 sm:mb-16 md:mb-24"
-        style={{ fontSize: 'clamp(3rem, 12vw, 160px)' }}
+        className="font-black uppercase text-center leading-none tracking-tight mb-10 sm:mb-12 md:mb-14"
+        style={{ fontSize: 'clamp(2.6rem, 8vw, 100px)' }}
       >
         <GlowText text="Showreel" charClassName="hero-heading" />
       </FadeIn>
 
       <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5 md:gap-6">
-        {showreel.map((video, index) => (
+        {shown.map((video, index) => (
           <FadeIn key={video.id} delay={(index % 3) * 0.1} y={30}>
             <div className="group rounded-[24px] sm:rounded-[28px] overflow-hidden border border-[#D7E2EA]/20 bg-black">
               <div className="relative aspect-video">
@@ -81,6 +91,19 @@ export default function ShowreelSection() {
           </FadeIn>
         ))}
       </div>
+
+      {hidden > 0 && !expanded && (
+        <div className="flex justify-center mt-10">
+          <button
+            type="button"
+            onClick={() => setExpanded(true)}
+            className="inline-flex items-center gap-2 rounded-full border-2 border-[#D7E2EA]/50 text-[#D7E2EA] font-medium uppercase tracking-widest px-8 py-3.5 text-xs sm:text-sm transition-colors duration-300 hover:bg-[#D7E2EA]/10"
+          >
+            Show all {showreel.length} videos
+            <ChevronDown className="w-4 h-4" strokeWidth={2} />
+          </button>
+        </div>
+      )}
     </section>
   );
 }

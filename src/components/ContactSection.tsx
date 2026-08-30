@@ -30,7 +30,7 @@ export default function ContactSection() {
   return (
     <footer
       id="contact"
-      className="bg-[#0C0C0C] px-5 sm:px-8 md:px-10 pt-16 sm:pt-20 md:pt-28 pb-10"
+      className="bg-[#0C0C0C] px-5 sm:px-8 md:px-10 pt-12 sm:pt-14 md:pt-18 pb-8"
     >
       <div className="max-w-5xl mx-auto flex flex-col items-center gap-10 sm:gap-14 md:gap-16">
         <FadeIn
@@ -38,7 +38,7 @@ export default function ContactSection() {
           delay={0}
           y={40}
           className="font-black uppercase text-center leading-none tracking-tight"
-          style={{ fontSize: 'clamp(3rem, 12vw, 160px)' }}
+          style={{ fontSize: 'clamp(2.6rem, 8vw, 100px)' }}
         >
           <GlowText text="Contact" charClassName="hero-heading" />
         </FadeIn>
@@ -60,7 +60,11 @@ export default function ContactSection() {
         <FadeIn
           delay={0.25}
           y={20}
-          className="w-full grid grid-cols-1 lg:grid-cols-3 gap-4 sm:gap-6"
+          /* Two cards, not three, since Discord left. A three-column grid
+             would park them in the first two and leave the row hanging off
+             to the left; narrowing the track and letting the parent's
+             items-center do the work keeps the pair on the page's axis. */
+          className="w-full max-w-2xl grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6"
         >
           {links.map(({ icon: Icon, label, value, href, download }) => (
             <a

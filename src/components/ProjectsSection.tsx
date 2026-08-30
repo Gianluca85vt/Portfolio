@@ -140,14 +140,14 @@ export default function ProjectsSection() {
   return (
     <section
       id="work"
-      className="relative z-10 bg-[#0C0C0C] px-5 sm:px-8 md:px-10 pt-16 sm:pt-20 md:pt-24 pb-10"
+      className="relative z-10 bg-[#0C0C0C] px-5 sm:px-8 md:px-10 pt-12 sm:pt-14 md:pt-16 pb-8"
     >
       <FadeIn
         as="h2"
         delay={0}
         y={40}
-        className="font-black uppercase text-center leading-none tracking-tight mb-12 sm:mb-16 md:mb-20"
-        style={{ fontSize: 'clamp(3rem, 12vw, 160px)' }}
+        className="font-black uppercase text-center leading-none tracking-tight mb-10 sm:mb-12 md:mb-14"
+        style={{ fontSize: 'clamp(2.6rem, 8vw, 100px)' }}
       >
         <GlowText text="Project" charClassName="hero-heading" />
       </FadeIn>

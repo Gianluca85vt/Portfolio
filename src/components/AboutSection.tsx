@@ -72,7 +72,7 @@ export default function AboutSection() {
             delay={0}
             y={40}
             className="font-black uppercase leading-none tracking-tight text-center"
-            style={{ fontSize: 'clamp(3rem, 12vw, 160px)' }}
+            style={{ fontSize: 'clamp(2.6rem, 8vw, 100px)' }}
           >
             <GlowText text={about.heading} charClassName="hero-heading" />
           </FadeIn>
