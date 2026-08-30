@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Elden Ring Tarnished Edition review, 9.5">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.55" stop-color="#2A0B33"/>
+      <stop offset="1" stop-color="#7A4A18"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#C9A227" letter-spacing="7">REVIEW · SWITCH 2</text>
+  <text x="90" y="300" font-family="Helvetica, Arial, sans-serif" font-size="76" font-weight="bold" fill="#F5EDE2">Elden Ring</text>
+  <text x="90" y="378" font-family="Helvetica, Arial, sans-serif" font-size="76" font-weight="bold" fill="#F5EDE2">Tarnished Edition</text>
+  <text x="90" y="560" font-family="Helvetica, Arial, sans-serif" font-size="200" font-weight="bold" fill="#C9A227">9.5</text>
+  <text x="430" y="560" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#E3D6C2">from 6 verdicts</text>
+  <text x="430" y="612" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#9B8B76">91 on Metacritic</text>
+</svg>

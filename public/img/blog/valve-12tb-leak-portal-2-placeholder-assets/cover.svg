@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="12 terabytes of Valve development files from 2003 to 2013">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.5" stop-color="#152438"/>
+      <stop offset="1" stop-color="#1E5F7A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="145" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#4FC3E8" letter-spacing="7">STEAM2 · LEFT OPEN</text>
+  <text x="90" y="330" font-family="Helvetica, Arial, sans-serif" font-size="215" font-weight="bold" fill="#F2F6F8">12TB</text>
+  <text x="90" y="430" font-family="Helvetica, Arial, sans-serif" font-size="52" fill="#BBD3DE">of Valve build files,</text>
+  <text x="90" y="500" font-family="Helvetica, Arial, sans-serif" font-size="52" fill="#BBD3DE">2003 to 2013</text>
+  <text x="90" y="612" font-family="Helvetica, Arial, sans-serif" font-size="38" fill="#7E9AA8">Portal 2 tested with TF2 arms</text>
+</svg>
