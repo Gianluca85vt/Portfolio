@@ -47,14 +47,19 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add notes/feeds
+          # The radar too, not just the feeds. It was left out when the embargo
+          # step was added, so for five days the script rebuilt the file on
+          # every run and threw it away — and the writer kept reading a radar
+          # frozen on 26 August, listing games that had already shipped. Two
+          # reviews had to be written by hand because of it.
+          git add notes/feeds notes/embargo-watch.md
 
           if git diff --cached --quiet; then
             echo "No change since the last harvest."
             exit 0
           fi
 
-          git commit -m "Harvest source feeds"
+          git commit -m "Harvest source feeds and rebuild the review radar"
 
           # Another run may have landed while this one was fetching.
           for attempt in 1 2 3; do

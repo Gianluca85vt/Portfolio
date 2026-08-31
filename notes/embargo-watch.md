@@ -1,4 +1,4 @@
-# Review radar — updated 2026-08-26
+# Review radar — updated 2026-08-31
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,24 +20,22 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| CAPTAIN TSUBASA 2: WORLD FIGHTERS | Bandai Namco Entertainment Inc. | 2026-08-27 | 1d | 2026-08-26 | €59.99 |
-| METAL GEAR SOLID: MASTER COLLECTION Vol.2 | KONAMI | 2026-08-27 | 1d | 2026-08-26 | €49.99 |
-| STAR WARS Zero Company | Electronic Arts | 2026-08-27 | 1d | 2026-08-26 | €49.99 |
-| Resonance: A Plague Tale Legacy | Focus Entertainment | 2026-08-27 | 1d | 2026-08-26 | €49.99 |
+| The Blood of Dawnwalker | Bandai Namco Entertainment | 2026-09-02 | 2d | 2026-09-01 | €69.99 |
+| Onimusha: Way of the Sword | CAPCOM Co., Ltd. | 2026-09-03 | 3d | 2026-09-02 | €69.99 |
+| NBA 2K27 | 2K | 2026-09-03 | 3d | 2026-09-02 | €69.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| The Blood of Dawnwalker | Bandai Namco Entertainment | 2026-09-02 | 7d | 2026-09-01 | €69.99 |
-| Onimusha: Way of the Sword | CAPCOM Co., Ltd. | 2026-09-03 | 8d | 2026-09-02 | €69.99 |
-| NBA 2K27 | 2K | 2026-09-03 | 8d | 2026-09-02 | €69.99 |
-| Halloween: The Game | IllFonic Publishing, Co-Publisher: Gun I | 2026-09-08 | 13d | 2026-09-07 | €39.99 |
-| Bus Simulator 27 | astragon Entertainment | 2026-09-08 | 13d | 2026-09-07 | €29.99 |
+| Halloween: The Game | IllFonic Publishing, Co-Publisher: Gun I | 2026-09-08 | 8d | 2026-09-07 | €39.99 |
+| Bus Simulator 27 | astragon Entertainment | 2026-09-08 | 8d | 2026-09-07 | €29.99 |
+| WARDOGS - Supporter Pack | Team17 | 2026-09-10 | 10d | 2026-09-09 | €49.99 |
+| WARDOGS | Team17 | 2026-09-10 | 10d | 2026-09-09 | €39.99 |
 
 ---
 
-*1250 upcoming titles scanned, 889 with a firm date inside
-14 days, 9 above the price line. Titles showing
+*900 upcoming titles scanned, 823 with a firm date inside
+14 days, 7 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*
