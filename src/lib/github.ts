@@ -166,5 +166,8 @@ export async function isDraft(slug: string) {
     title: field('title'),
     category: field('category'),
     excerpt: field('excerpt'),
+    // The review email shows this, so the answer to "does it have artwork?"
+    // arrives with the decision rather than after clicking Publish.
+    cover: field('cover').replace(/^["']|["']$/g, ''),
   };
 }

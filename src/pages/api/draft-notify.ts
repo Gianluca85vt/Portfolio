@@ -32,7 +32,7 @@ export const POST: APIRoute = async ({ request }) => {
   }
 
   const result = await notifyNewDraft(
-    { slug, title: draft.title, category: draft.category, excerpt: draft.excerpt },
+    { slug, title: draft.title, category: draft.category, excerpt: draft.excerpt, cover: draft.cover },
     new URL(request.url).origin
   );
 

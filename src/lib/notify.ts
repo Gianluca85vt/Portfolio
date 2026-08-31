@@ -146,7 +146,7 @@ export async function notifyNewComment(comment: NewComment, siteUrl: string) {
  * GitHub. Subject is prefixed so a mail filter can catch these on its own.
  */
 export async function notifyNewDraft(
-  draft: { slug: string; title: string; category: string; excerpt: string },
+  draft: { slug: string; title: string; category: string; excerpt: string; cover?: string },
   siteUrl: string
 ) {
   if (!notificationsConfigured()) return { sent: false, reason: 'not configured' };
@@ -169,13 +169,23 @@ export async function notifyNewDraft(
       link('revise'),
     ]);
 
+    // The one thing you cannot tell from a headline and an excerpt is whether
+    // the piece has artwork. A drawn placeholder cannot be published — the
+    // approve link refuses it — so saying which it is here saves a click that
+    // was only ever going to come back with a no.
+    const drawnCover = !draft.cover || draft.cover.endsWith('.svg');
+    const coverUrl = draft.cover ? `${siteUrl}${draft.cover}` : '';
+
     const text = [
       `New draft awaiting your decision: ${draft.title}`,
       `Category: ${draft.category}`,
+      drawnCover
+        ? 'Cover: PLACEHOLDER — no real image yet, so this cannot be published as it stands. Ask for a revision.'
+        : 'Cover: a real image',
       '',
       draft.excerpt,
       '',
-      `Approve: ${approve}`,
+      ...(drawnCover ? [] : [`Approve: ${approve}`]),
       `Reject:  ${reject}`,
       `Revise:  ${revise}`,
       '',
@@ -185,9 +195,21 @@ export async function notifyNewDraft(
     const html = `<div style="font-family:-apple-system,Segoe UI,Roboto,sans-serif;max-width:560px;color:#1a1a1a">
   <p style="font-size:13px;color:#666;margin:0 0 6px">New draft awaiting your decision · ${esc(draft.category)}</p>
   <h2 style="font-size:19px;line-height:1.3;margin:0 0 10px">${esc(draft.title)}</h2>
-  <p style="color:#444;line-height:1.6;margin:0 0 22px">${esc(draft.excerpt)}</p>
+  <p style="color:#444;line-height:1.6;margin:0 0 18px">${esc(draft.excerpt)}</p>
+  ${
+    drawnCover
+      ? `<p style="border-left:3px solid #BE4C00;background:#FDF6F1;padding:10px 14px;margin:0 0 20px;line-height:1.5;color:#5a3520">
+    <strong>No artwork yet.</strong> This one still has the drawn placeholder as its cover, so it cannot be
+    published as it stands — ask for a revision and the next run will source an image.
+  </p>`
+      : `<a href="${esc(coverUrl)}"><img src="${esc(coverUrl)}" alt="" width="520" style="width:100%;max-width:520px;border-radius:10px;display:block;margin:0 0 20px"></a>`
+  }
   <p style="margin:0 0 18px">
-    <a href="${esc(approve)}" style="background:#0b804b;color:#fff;text-decoration:none;padding:11px 22px;border-radius:999px;display:inline-block;margin-right:6px">Approve</a>
+    ${
+      drawnCover
+        ? ''
+        : `<a href="${esc(approve)}" style="background:#0b804b;color:#fff;text-decoration:none;padding:11px 22px;border-radius:999px;display:inline-block;margin-right:6px">Approve</a>`
+    }
     <a href="${esc(revise)}" style="background:#7621B0;color:#fff;text-decoration:none;padding:11px 22px;border-radius:999px;display:inline-block;margin-right:6px">Revise</a>
     <a href="${esc(reject)}" style="color:#666;text-decoration:underline;padding:11px 0;display:inline-block">Reject</a>
   </p>
