@@ -21,7 +21,6 @@ import { join } from 'node:path';
 const W = 1920;
 const H = 1080;
 
-const INK = '#18011F';
 const PAPER = '#F4F1F6';
 const ACCENT = '#B600A8';
 const VIOLET = '#7621B0';

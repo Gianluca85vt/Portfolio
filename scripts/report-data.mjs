@@ -59,7 +59,7 @@ const rows = (report, valueIndex = 0) =>
     value: Number(r.metricValues[valueIndex].value),
   }));
 
-export async function analytics(win, days) {
+export async function analytics(win) {
   const propertyId = process.env.GA4_PROPERTY_ID;
   const key = process.env.GOOGLE_SERVICE_ACCOUNT_JSON;
   if (!propertyId || !key) {
@@ -386,7 +386,7 @@ export async function editorial(win, root = process.cwd()) {
 export async function gather(days = 4) {
   const win = windows(days);
   const [ga, sc, bing, ed] = await Promise.all([
-    analytics(win, days),
+    analytics(win),
     searchConsole(win),
     bingWebmaster(win),
     editorial(win),

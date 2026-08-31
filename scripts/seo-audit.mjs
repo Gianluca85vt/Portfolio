@@ -12,7 +12,7 @@
  * 2009 and says so publicly; adding one is a way to tell competitors what you
  * are targeting and nothing else.
  */
-import { readdir, readFile, stat } from 'node:fs/promises';
+import { readdir, readFile } from 'node:fs/promises';
 import { join, relative } from 'node:path';
 
 const ROOT = 'dist/client';

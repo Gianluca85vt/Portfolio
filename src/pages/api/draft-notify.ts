@@ -36,6 +36,11 @@ export const POST: APIRoute = async ({ request }) => {
   // and something he has to remember exists in a folder.
   const linkedin = (await readFile(`notes/linkedin/${slug}.md`))?.text?.trim();
 
+  // The video script is far too long to put in an email. Saying it exists, and
+  // where, is the part that matters — otherwise it sits in a folder nobody
+  // opens on a Monday morning.
+  const hasScript = Boolean(await readFile(`notes/video/${slug}.script.md`));
+
   const result = await notifyNewDraft(
     {
       slug,
@@ -44,6 +49,7 @@ export const POST: APIRoute = async ({ request }) => {
       excerpt: draft.excerpt,
       cover: draft.cover,
       linkedin,
+      script: hasScript ? `notes/video/${slug}.script.md` : undefined,
     },
     new URL(request.url).origin
   );

@@ -153,6 +153,7 @@ export async function notifyNewDraft(
     excerpt: string;
     cover?: string;
     linkedin?: string;
+    script?: string;
   },
   siteUrl: string
 ) {
@@ -197,6 +198,7 @@ export async function notifyNewDraft(
       `Revise:  ${revise}`,
       '',
       'Nothing is live until you approve it.',
+      ...(draft.script ? ['', `Video script and plates: ${draft.script}`] : []),
       ...(draft.linkedin
         ? ['', '— for LinkedIn, copy from here —', '', draft.linkedin]
         : []),
@@ -224,6 +226,11 @@ export async function notifyNewDraft(
     <a href="${esc(reject)}" style="color:#666;text-decoration:underline;padding:11px 0;display:inline-block">Reject</a>
   </p>
   <p style="font-size:12px;color:#888;line-height:1.6">Each link opens a confirmation page first — nothing happens just by clicking. Revise lets you type what to change; the next scheduled run picks it up.</p>
+  ${
+    draft.script
+      ? `<p style="font-size:12px;color:#888;line-height:1.6;margin:14px 0 0">Video script and motion-graphic plates: <code style="background:#f2eef4;padding:2px 6px;border-radius:4px">${esc(draft.script)}</code></p>`
+      : ''
+  }
   ${
     draft.linkedin
       ? `<div style="border-top:1px solid #e4dee8;margin-top:26px;padding-top:18px">
