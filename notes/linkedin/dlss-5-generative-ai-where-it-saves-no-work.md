@@ -1,6 +1,6 @@
 Rockstar put GTA 6 above 600,000 animations this week. Red Dead 2 was around 300,000. GTA 5 was around 55,000.
 
-Ten times the corpus in a decade, and an office in Los Angeles that worked on nothing but pedestrians.
+Thirteen years to multiply it by ten, and an office in Los Angeles that worked on nothing but pedestrians.
 
 That is where the money goes in this job. The connective tissue. One believable sit-down is the approach, the turn, the weight shift, the settle — then the same again for a stool, then a booth, then the exits, which are not the entries played backwards. Nobody looks at any of it directly and everybody notices when it is missing.
 
