@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/><stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <text x="120" y="150" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="600" letter-spacing="10" fill="#B600A8">WHERE THE NEURAL PASS SITS</text>
+  <line x1="120" y1="520" x2="1800" y2="520" stroke="rgba(244,241,246,0.28)" stroke-width="4"/>
+  <line x1="120" y1="520" x2="1800" y2="520" stroke="#7621B0" stroke-width="4"/>
+  <circle cx="120" cy="520" r="13" fill="rgba(244,241,246,0.35)"/>
+  <text x="120" y="590" text-anchor="middle" font-family="Kanit, 'Arial Black', sans-serif" font-size="27" fill="rgba(244,241,246,0.45)">Concept</text>
+  <circle cx="400" cy="520" r="13" fill="rgba(244,241,246,0.35)"/>
+  <text x="400" y="590" text-anchor="middle" font-family="Kanit, 'Arial Black', sans-serif" font-size="27" fill="rgba(244,241,246,0.45)">Model</text>
+  <circle cx="680" cy="520" r="13" fill="rgba(244,241,246,0.35)"/>
+  <text x="680" y="590" text-anchor="middle" font-family="Kanit, 'Arial Black', sans-serif" font-size="27" fill="rgba(244,241,246,0.45)">Rig</text>
+  <circle cx="960" cy="520" r="13" fill="rgba(244,241,246,0.35)"/>
+  <text x="960" y="590" text-anchor="middle" font-family="Kanit, 'Arial Black', sans-serif" font-size="27" fill="rgba(244,241,246,0.45)">Animate</text>
+  <circle cx="1240" cy="520" r="13" fill="rgba(244,241,246,0.35)"/>
+  <text x="1240" y="590" text-anchor="middle" font-family="Kanit, 'Arial Black', sans-serif" font-size="27" fill="rgba(244,241,246,0.45)">Light</text>
+  <circle cx="1520" cy="520" r="13" fill="rgba(244,241,246,0.35)"/>
+  <text x="1520" y="590" text-anchor="middle" font-family="Kanit, 'Arial Black', sans-serif" font-size="27" fill="rgba(244,241,246,0.45)">Grade</text>
+  <circle cx="1800" cy="520" r="18" fill="#B600A8"/>
+  <text x="1800" y="590" text-anchor="middle" font-family="Kanit, 'Arial Black', sans-serif" font-size="27" fill="#F4F1F6">Neural pass</text>
+  <line x1="1800" y1="370" x2="1800" y2="486" stroke="#B600A8" stroke-width="4"/>
+  <text x="1800" y="344" text-anchor="middle" font-family="Kanit, 'Arial Black', sans-serif" font-size="40" font-weight="800" fill="#B600A8">DLSS 5</text>
+  <text x="120" y="730" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" fill="rgba(244,241,246,0.45)">Everything to its left has already been paid for.</text>
+</svg>

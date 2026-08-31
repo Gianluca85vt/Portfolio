@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/><stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <rect x="120" y="792" width="10" height="148" fill="url(#accent)"/>
+  <text x="160" y="850" font-family="Kanit, 'Arial Black', sans-serif" font-size="60" font-weight="800" fill="#F4F1F6">Gianluca Scattarella</text>
+  <text x="160" y="898" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="600" letter-spacing="3" fill="#B600A8">3D Environment &amp; Technical Artist</text>
+  <text x="160" y="942" font-family="Kanit, 'Arial Black', sans-serif" font-size="28" fill="rgba(244,241,246,0.45)">gianlucascattarella.it — Backdrop, every Monday</text>
+</svg>

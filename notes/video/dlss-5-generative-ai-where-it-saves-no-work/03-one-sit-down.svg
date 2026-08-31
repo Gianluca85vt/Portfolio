@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/><stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <text x="120" y="150" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="600" letter-spacing="10" fill="#B600A8">ONE BELIEVABLE SIT-DOWN</text>
+  <rect x="130" y="520" width="389" height="130" rx="10" fill="rgba(244,241,246,0.08)" stroke="rgba(244,241,246,0.22)" stroke-width="2"/>
+  <text x="156" y="498" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="800" fill="#B600A8">01</text>
+  <text x="324.5" y="598" text-anchor="middle" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">Approach</text>
+  <rect x="545" y="520" width="389" height="130" rx="10" fill="rgba(244,241,246,0.08)" stroke="rgba(244,241,246,0.22)" stroke-width="2"/>
+  <text x="571" y="498" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="800" fill="#B600A8">02</text>
+  <text x="739.5" y="598" text-anchor="middle" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">Turn</text>
+  <rect x="960" y="520" width="389" height="130" rx="10" fill="rgba(244,241,246,0.08)" stroke="rgba(244,241,246,0.22)" stroke-width="2"/>
+  <text x="986" y="498" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="800" fill="#B600A8">03</text>
+  <text x="1154.5" y="598" text-anchor="middle" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">Weight shift</text>
+  <rect x="1375" y="520" width="389" height="130" rx="10" fill="rgba(244,241,246,0.08)" stroke="rgba(244,241,246,0.22)" stroke-width="2"/>
+  <text x="1401" y="498" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="800" fill="#B600A8">04</text>
+  <text x="1569.5" y="598" text-anchor="middle" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">Settle</text>
+  <text x="130" y="740" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" fill="rgba(244,241,246,0.45)">Then again for a stool. Then a booth. Then the exits, which are not the entries reversed.</text>
+</svg>

@@ -1,0 +1,115 @@
+[
+  {
+    "id": "who-i-am",
+    "kind": "lower",
+    "name": "Gianluca Scattarella",
+    "role": "3D Environment & Technical Artist",
+    "handle": "gianlucascattarella.it — Backdrop, every Monday"
+  },
+  {
+    "id": "animation-counts",
+    "kind": "bars",
+    "title": "Animations in the database",
+    "rows": [
+      {
+        "label": "GTA 5 — 2013",
+        "value": 55000
+      },
+      {
+        "label": "Red Dead Redemption 2 — 2018",
+        "value": 300000,
+        "display": "~300,000"
+      },
+      {
+        "label": "GTA 6 — 2026",
+        "value": 600000,
+        "display": "600,000+"
+      }
+    ],
+    "note": "Rockstar's own figure for GTA 6. The Red Dead number is disputed."
+  },
+  {
+    "id": "one-sit-down",
+    "kind": "beats",
+    "title": "One believable sit-down",
+    "items": [
+      "Approach",
+      "Turn",
+      "Weight shift",
+      "Settle"
+    ],
+    "note": "Then again for a stool. Then a booth. Then the exits, which are not the entries reversed."
+  },
+  {
+    "id": "where-the-pass-runs",
+    "kind": "timeline",
+    "title": "Where the neural pass sits",
+    "stages": [
+      "Concept",
+      "Model",
+      "Rig",
+      "Animate",
+      "Light",
+      "Grade",
+      "Neural pass"
+    ],
+    "markAt": 6,
+    "markLabel": "DLSS 5",
+    "note": "Everything to its left has already been paid for."
+  },
+  {
+    "id": "style-or-defect",
+    "kind": "compare",
+    "title": "What the pixel forgets",
+    "left": "What the artist decided",
+    "right": "What a model sees",
+    "rows": [
+      [
+        "Skin reads waxy — the character is ill",
+        "A skin-shading error"
+      ],
+      [
+        "Light goes flat — the scene is a memory",
+        "Underexposed"
+      ],
+      [
+        "The greens are gone — this world has none",
+        "Colour cast to correct"
+      ],
+      [
+        "Borrowed arms — it was Tuesday",
+        "Wrong asset"
+      ]
+    ],
+    "note": "Stylisation goes first, every time."
+  },
+  {
+    "id": "the-chain",
+    "kind": "timeline",
+    "title": "Who answers for the look",
+    "stages": [
+      "Art director",
+      "Lead",
+      "Artist",
+      "Review",
+      "Build",
+      "Ship",
+      "Someone's slider"
+    ],
+    "markAt": 6,
+    "markLabel": "No review",
+    "note": "Every other stage has a name against it."
+  },
+  {
+    "id": "the-line",
+    "kind": "statement",
+    "text": "What shipped is a filter for the last millisecond.",
+    "attribution": "Architectures of the Void — the Monday editorial"
+  },
+  {
+    "id": "outro",
+    "kind": "statement",
+    "text": "The expensive part is the eight months before the frame.",
+    "attribution": "New editorial every Monday · gianlucascattarella.it"
+  }
+]
