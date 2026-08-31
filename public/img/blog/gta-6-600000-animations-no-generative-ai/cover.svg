@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="GTA 6 has over 600,000 animations and no generative AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="62%" stop-color="#6B1428"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g font-family="Inter, Helvetica Neue, Arial, sans-serif">
+    <text x="80" y="122" fill="#F5A0B4" font-size="27" font-weight="600" letter-spacing="5.5">GRAND THEFT AUTO VI / 19 NOV 2026</text>
+
+    <text x="80" y="322" fill="#FFFFFF" font-size="196" font-weight="800" letter-spacing="-6">600,000</text>
+    <text x="80" y="410" fill="#FFC2D0" font-size="70" font-weight="700" letter-spacing="-1.5">animations, none generated</text>
+
+    <rect x="80" y="470" width="150" height="4" fill="#D6294E"/>
+
+    <text x="80" y="556" fill="#FFFFFF" font-size="35" font-weight="600">GTA 5</text>
+    <text x="560" y="556" fill="#FFE0E7" font-size="35" font-weight="700">55,000</text>
+
+    <text x="80" y="614" fill="#FFFFFF" font-size="35" font-weight="600">Red Dead 2</text>
+    <text x="560" y="614" fill="#FFE0E7" font-size="35" font-weight="700">300,000</text>
+
+    <text x="80" y="682" fill="#F5A0B4" font-size="31" font-weight="500">Ten times GTA 5, and an office in LA that did only crowds.</text>
+  </g>
+</svg>

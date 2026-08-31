@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Stylized hair shades as one mass — transfer normals from a scalp proxy">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="62%" stop-color="#5A2410"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g font-family="Inter, Helvetica Neue, Arial, sans-serif">
+    <text x="80" y="122" fill="#F0B48A" font-size="27" font-weight="600" letter-spacing="5.5">STYLIZED HAIR / CUSTOM NORMALS</text>
+
+    <text x="80" y="322" fill="#FFFFFF" font-size="196" font-weight="800" letter-spacing="-6">One mass</text>
+    <text x="80" y="410" fill="#FFD3B0" font-size="70" font-weight="700" letter-spacing="-1.5">from a scalp proxy</text>
+
+    <rect x="80" y="470" width="150" height="4" fill="#BE4C00"/>
+
+    <text x="80" y="556" fill="#FFFFFF" font-size="35" font-weight="600">Cards or curves</text>
+    <text x="560" y="556" fill="#FFE7D6" font-size="35" font-weight="700">same lighting fault</text>
+
+    <text x="80" y="614" fill="#FFFFFF" font-size="35" font-weight="600">Chunky silhouettes</text>
+    <text x="560" y="614" fill="#FFE7D6" font-size="35" font-weight="700">alpha clip, no sorting</text>
+
+    <text x="80" y="682" fill="#F0B48A" font-size="31" font-weight="500">Five minutes of setup beats a week of card placement.</text>
+  </g>
+</svg>
