@@ -108,7 +108,7 @@ export const POST: APIRoute = async ({ request }) => {
     // Same rule as the approve link in the review email, and the same reason:
     // this commits to main without building, so anything the schema rejects
     // becomes a failed deployment for the whole site.
-    const refusal = publishRefusal(found.text);
+    const refusal = await publishRefusal(found.text);
     if (refusal) return json({ error: refusal }, 422);
 
     const text = found.text.replace(/^draft:\s*true\s*\r?\n/m, '');
@@ -137,7 +137,7 @@ export const POST: APIRoute = async ({ request }) => {
   // Saving without `draft: true` publishes, whatever the button said. The same
   // rule applies here as on the publish action.
   if (!isDraft) {
-    const refusal = publishRefusal(text);
+    const refusal = await publishRefusal(text);
     if (refusal) return json({ error: refusal }, 422);
   }
 

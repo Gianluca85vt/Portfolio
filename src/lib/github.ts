@@ -64,39 +64,63 @@ export async function deleteFile(path: string, sha: string, message: string) {
   return res.ok;
 }
 
-/** Strips the `draft: true` line, which is what publishing actually is here. */
-/**
- * Publishing commits straight to main without building first, so anything the
- * content schema rejects becomes a failed production deployment — and since one
- * bad entry fails the whole build, it takes every other page's deploy with it.
- * That happened on 31 August: an article approved with the drawn SVG cover
- * still on it stopped the site deploying until the artwork was sourced.
- *
- * So the rules the build enforces have to be checked here, before the commit,
- * where the answer can be a sentence in the browser instead of an email from
- * Vercel. Right now that is one rule; anything added to the schema belongs here
- * too.
- */
 export type PublishRefusal = { ok: false; why: string };
+
+/**
+ * Does a path exist in the repository, without downloading it.
+ *
+ * Deliberately not readFile: that returns null when the contents API omits the
+ * body, which it does for anything over a megabyte — so a large cover would
+ * read as missing and be refused for existing. The metadata comes back either
+ * way, so a sha is the honest test.
+ */
+async function fileExists(path: string) {
+  const res = await fetch(`${API}/${path}`, { headers: headers(true) });
+  if (!res.ok) return false;
+  const json = (await res.json()) as { sha?: string; type?: string };
+  return Boolean(json.sha) && json.type !== 'dir';
+}
 
 /**
  * The build's rules, checked before the commit rather than after.
  *
- * There are two doors onto main — the approve link in the review email and the
- * CMS publish button — and neither builds first. One rule written twice is one
- * rule that will diverge, so both call this.
+ * Publishing commits straight to main without building, so anything the content
+ * schema rejects becomes a failed production deployment — and since one bad
+ * entry fails the whole build, it takes every other page's deploy down with it.
+ * That happened on 31 August: an article approved with the drawn placeholder
+ * still on it stopped the site deploying until the artwork was sourced.
+ *
+ * Three doors reach main this way — the approve link, the CMS publish action,
+ * and an admin saving without `draft: true` — and one rule written three times
+ * is one rule that will diverge. All three call this.
  *
  * Returns the reason to refuse, or null to go ahead.
  */
-export function publishRefusal(text: string): string | null {
+export async function publishRefusal(text: string): Promise<string | null> {
   const cover = /^cover:\s*(.+)$/m.exec(text)?.[1]?.trim().replace(/^["']|["']$/g, '');
-  if (cover?.endsWith('.svg')) {
+
+  if (!cover) {
+    return 'This one has no cover at all. Ask for a revision and the next run will source one.';
+  }
+
+  if (cover.endsWith('.svg')) {
     return (
       'This one still has the drawn placeholder as its cover, and a published article needs a real image. ' +
       'Publishing it would fail the build and stop the whole site deploying. Ask for a revision, or add the ' +
       'artwork first — it stays here waiting either way.'
     );
   }
+
+  // Naming a file is not having one. A draft can carry `cover.jpg` while only
+  // the .svg was ever written, which passes an extension check and ships a
+  // broken image to the card, the share preview and every social post.
+  if (!(await fileExists(`public${cover}`))) {
+    return (
+      `The cover this names is not in the repository: public${cover}. ` +
+      'Publishing it would fail the build. Ask for a revision so the artwork gets fetched.'
+    );
+  }
+
   return null;
 }
 
@@ -106,7 +130,7 @@ export async function publishDraft(slug: string): Promise<true | false | Publish
   if (!file) return false;
   if (!/^draft:\s*true\s*$/m.test(file.text)) return false;
 
-  const why = publishRefusal(file.text);
+  const why = await publishRefusal(file.text);
   if (why) return { ok: false, why };
 
   const published = file.text.replace(/^draft:\s*true\s*\r?\n/m, '');

@@ -1,3 +1,5 @@
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { blogCategories } from './data/portfolio';
@@ -53,17 +55,32 @@ const blog = defineCollection({
     .superRefine((post, ctx) => {
       const ENFORCED_FROM = new Date('2026-08-30T00:00:00Z');
       if (post.draft) return;
-      if (!post.cover?.endsWith('.svg')) return;
       if (post.date < ENFORCED_FROM) return;
 
-      ctx.addIssue({
-        code: 'custom',
-        path: ['cover'],
-        message:
-          'a published article needs a real image as its cover, not the drawn SVG. ' +
-          'Write notes/image-requests/<slug>.json with a steamAppId or official press urls, ' +
-          'or keep draft: true until the artwork is in.',
-      });
+      if (post.cover?.endsWith('.svg')) {
+        ctx.addIssue({
+          code: 'custom',
+          path: ['cover'],
+          message:
+            'a published article needs a real image as its cover, not the drawn SVG. ' +
+            'Write notes/image-requests/<slug>.json with a steamAppId or official press urls, ' +
+            'or keep draft: true until the artwork is in.',
+        });
+        return;
+      }
+
+      // And the file has to be there. A cover path is only a string, so an
+      // article can name a cover.jpg that was never fetched and sail past every
+      // check with a broken image on the card and in every share preview. One
+      // draft was in exactly that state, naming a .jpg while only the .svg
+      // existed on disk.
+      if (post.cover && !existsSync(join('public', post.cover))) {
+        ctx.addIssue({
+          code: 'custom',
+          path: ['cover'],
+          message: `the cover file does not exist: public${post.cover}`,
+        });
+      }
     }),
 });
 
