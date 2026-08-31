@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-31T11:08:18.608Z
+# Film & TV — harvested 2026-08-31T19:40:38.087Z
 
 ## Variety
 
-### Unifrance Rendez-Vous TV Mart Spotlights Ancient Rome, 19th Century Paris, Retired Spooks, Luchadores, Diplomatic Intrigue and Gaza
-Mon, 31 Aug 2026 10:40:15 +0000 — https://variety.com/2026/tv/global/unifrance-rendezvous-gaumont-about-premium-content-gaza-1236846793/
+### Harry Potter Series, Game of Thrones, The White Lotus on the Slate as HBO Max Sets October Launch on Prime Video, Hulu Japan
+Mon, 31 Aug 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/hbo-max-prime-video-hulu-japan-1236847393/
 
-The 32nd edition of the Unifrance Rendez-Vous TV content market in Le Havre kicks off Sept. 7 with a broad selection of more than 350 programs boasting strong international potential presented by France’s leading distributors. The Rendez-Vous hosts some 50 exclusive screenings of hit scripted series, animated shows and acclaimed documentaries, including a special showcase [ ]
+HBO Max will launch on Prime Video and Hulu Japan in October, giving subscribers access to the streamer s slate of HBO, Warner Bros. Pictures, Warner Bros. Television, DC Studios and Max originals programming, including a new HBO original Harry Potter series debuting at Christmas. The rollout stems from a global partnership between Warner Bros. Discovery [ ]
 
-### DraftKings Taps Kevin Hart, Nick Jonas for Road-Trip Commercial That Touts Wagering, Predictions
-Mon, 31 Aug 2026 10:00:00 +0000 — https://variety.com/2026/tv/news/draftkings-kevin-hart-nick-jonas-sports-commercial-1236847055/
+### The Met s Cancellation of the John Galliano Exhibit Doesn t Undo the Damage
+Mon, 31 Aug 2026 18:50:14 +0000 — https://variety.com/2026/voices/columns/met-john-galliano-exhibit-cancellation-1236847567/
 
-Nick Jonas has been on plenty of road trips but none quite like this. The actor and musician plays a prominent role in what is expected to be a significant and long-running campaign for sports-wagering giant DraftKings. In a new ad, Jonas and comedian Kevin Hart appear to take a massive road trip, visiting [ ]
+With the decision to abandon a planned retrospective on the works of fashion designer John Galliano announced just one month ago, the Metropolitan Museum of Art and its affiliated Costume Institute has bookended an ignominious chapter in its vaunted history. The exhibition, and particularly Galliano’s direct involvement in what might otherwise be an objective assessment [ ]
 
-### Naomi Watts to Be Honored at San Sebastián Film Festival
-Mon, 31 Aug 2026 09:21:20 +0000 — https://variety.com/2026/film/global/naomi-watts-honored-san-sebastian-film-festival-1236847147/
+### Joko Anwar s Satan s Slaves: Origin Boarded by Barunson E A for International Sales
+Mon, 31 Aug 2026 18:15:47 +0000 — https://variety.com/2026/film/news/joko-anwar-satans-slaves-origin-barunson-ea-1236847552/
 
-British star Naomi Watts will receive the San Sebastián Film Festival’s prestigious Donostia Award during its 74th edition in September. She joins legendary German director Werner Herzog whose Donostia Award was announced early August. Watts will pick up her Award on Saturday, Sept. 19 and screen “The Housewife, the directorial debut of Canadian Ben Shirinian.” [ ]
+Joko Anwar s Satan s Slaves: Origin (original title: Pengabdi Setan 3: Origin ), the next chapter in the filmmaker s blockbuster horror franchise, has been boarded for worldwide sales by Barunson E A, the Korean studio behind Bong Joon Ho s Oscar-winning Parasite. The company will launch the project to international buyers at the Toronto Film Festival s inaugural market this [ ]
 
-### Rintaro Returns to Korea After 17 Years for Busan s Japanese Animation Special
-Mon, 31 Aug 2026 08:24:14 +0000 — https://variety.com/2026/film/festivals/rintaro-busan-japanese-animation-special-1236847137/
+### Big Mistakes Season 2 Casts Lorenzo de Moor, Poorna Jagannathan
+Mon, 31 Aug 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/big-mistakes-season-2-lorenzo-de-moor-poorna-jagannathan-1236847491/
 
-The 31st Busan International Film Festival (BIFF) has unveiled a 13-film Japanese Animation Special program, marking the first Korea visit in 17 years for animation master Rintaro alongside four next-generation directors. Billed as a Special Program in Focus, the lineup puts a spotlight on Japan s animation history across a full century, mixing formative classics with [ ]
+Big Mistakes Season 2 is now in production, with the Netflix comedy series adding two actors in recurring roles. Both Lorenzo de Moor and Poorna Jagannathan will recur in the show s second season, joining returning stars Dan Levy, Taylor Ortega, Laurie Metcalf, Jack Innanen, Boran Kuzum and Abby Quinn. As previously announced, Elizabeth Perkins has [ ]
 
-### Korea Box Office: The Odyssey Eclipses Spider-Man: Brand New Day
-Mon, 31 Aug 2026 07:46:32 +0000 — https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-the-journey-to-gyeongju-1236847124/
+### Paradise Lost From Train to Busan Director Yeon Sang-ho Acquired by Well Go USA Entertainment (EXCLUSIVE)
+Mon, 31 Aug 2026 17:58:13 +0000 — https://variety.com/2026/film/global/paradise-lost-from-train-busan-director-yeon-sang-ho-well-go-1236847477/
 
-The Odyssey held onto the top spot at the South Korean box office during the weekend of Aug. 28–30. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed tentpole generated $8.7 million from 1,058,642 admissions over the three-day frame across 2,071 screens, capturing 64.7% of total weekend [ ]
+“Paradise Lost,” the latest mystery-thriller from “Train to Busan” and “Hellbound” filmmaker Yeon Sang-ho, has been bought by Well Go USA Entertainment ahead of its world premiere at Toronto. “Paradise Lost” will bow Sept. 13 at Toronto’s Royal Alexandra Theatre as part of TIFF’s Special Presentations lineup, marking Yeon’s fourth appearance at the festival. Starring [ ]
 
-### China Box Office: Once Upon a Time in the Middle East Continues Dominance
-Mon, 31 Aug 2026 07:11:57 +0000 — https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-odyssey-spider-man-1236847114/
+### D4vd Abruptly Parts Ways With Legal Team in Favor of Public Defenders
+Mon, 31 Aug 2026 17:45:06 +0000 — https://variety.com/2026/music/news/d4vd-abruptly-parts-ways-with-legal-team-public-defenders-1236847525/
 
-Dirty Monkeys’ war comedy-drama Once Upon a Time in the Middle East held onto the top spot at the mainland China box office for the third consecutive weekend, grossing RMB174.4 million ($25.6 million) over the Aug. 28–30 frame, according to data from Artisan Gateway. Directed by Wen Muye ( Dying to Survive ) and produced by Ning [ ]
+Singer D4vd has parted ways with his legal representation in favor of public defenders for his case in which he is accused of allegedly killing and dismembering a 14-year-old girl. The singer, whose real name is David Anthony Burke, appeared in a Los Angeles court earlier this morning and asked to have the public defender s [ ]
 
-### Helsinki s Finnish Film Affair Unveils Film, Series Pitches and Panels, Strikes First Nordic Genre Lab Partnership (EXCLUSIVE)
-Mon, 31 Aug 2026 07:00:00 +0000 — https://variety.com/2026/film/global/helsinki-finnish-film-affair-program-1236846645/
+### Mel Gibson Apologizes for Mocking Sign Language Interpreter at Backlash Grows: Thoughtless Idiocy With No Intended Maliciousness
+Mon, 31 Aug 2026 17:44:14 +0000 — https://variety.com/2026/film/news/mel-gibson-mocks-asl-interpreter-fan-expo-apologizes-1236847278/
 
-Finland’s biggest international film and TV drama market, Finnish Film Affair, unspooling parallel to the Helsinki Intl. Film Festival Love Anarchy, has unpacked its full program, rolling out Sept. 23-25 in the Finnish capital. In the pure Nordic tradition of mind-blowing chills and thrills, genre-bending content and documentaries are headlining the slate of [ ]
+Mel Gibson has issued an apology amid backlash over his recent appearance at FanExpo Canada, where the Oscar winner mocked an ASL interpreter while walking on stage to attend his retrospective Q A. Video of the incident was widely circulated on social media platforms like X, with Gibson condemned for his insensitive actions. “Sometimes when you [ ]
 
-### NBCUniversal, U-Next Ink Sweeping Japan Partnership Spanning Streaming and Theme Parks
-Mon, 31 Aug 2026 06:53:16 +0000 — https://variety.com/2026/tv/news/nbcuniversal-unext-japan-deal-1236847106/
+### Ella Langley s Choosin Texas Smashes Record for Most Weeks at No. 1 for a Non-Holiday Song
+Mon, 31 Aug 2026 17:37:49 +0000 — https://variety.com/2026/music/news/ella-langleys-choosin-texas-break-hot-100-chart-record-1236847519/
 
-NBCUniversal and U-Next have entered into a long-term strategic partnership in Japan, bringing NBCUniversal s international streaming brand Universal+ exclusively to the platform alongside joint initiatives with Universal Studios Japan and new global distribution pathways for Japanese content. U-Next, operated by Usen U-Next Group, is Japan s second-largest subscription video-on-demand platform behind Netflix, with more than [ ]
+Ella Langley’s “Choosin’ Texas” has topped 20 weeks at No. 1 on the Billboard Hot 100 — making it the longest run ever at the top of the chart for a non-holiday song. The song passed Shaboozey’s 2024 hit “A Bar Song (Tipsy),” and “Old Town Road,” by Lil Nas X feat. Billy Ray Cyrus, [ ]
 
-### Pink Floyd’s Roger Waters Boards Palestinian Art and Resistance Documentary ‘Freedom Theatre’ (EXCLUSIVE)
-Mon, 31 Aug 2026 06:34:35 +0000 — https://variety.com/2026/film/global/pink-floyd-roger-waters-freedom-theatre-rishi-pelham-1236846509/
+### The Ringer s Sean Fennessey Criticizes His Parent Company s Partnership With Netflix: There s an Inherent Conflict and It Wasn t My Decision
+Mon, 31 Aug 2026 17:26:57 +0000 — https://variety.com/2026/digital/news/the-ringer-sean-fennessey-criticizes-netflix-partnership-1236847436/
 
-Singer-songwriter and Pink Floyd co-founder Roger Waters has signed on as executive producer on filmmaker Rishi Pelham’s debut feature documentary, “Freedom Theatre.” Described as “an immersive and sensory character study,” the film follows resistance fighter turned artist Ahmed Tobasi into the creative heart of the Jenin refugee camp in Palestine, where he fights to keep [ ]
+Some dissent in Bill Simmons’ The Ringer publishing and podcast network is airing out publicly. Sean Fennessey, the former head of content for The Ringer and host of the platform s popular “The Big Picture” podcast, appeared on the podcast “Talk Easy With Sam Fragoso” on Aug. 30 and touched on several topics including that [ ]
 
-### Pokémon: Wild Card Movie Sets 2027 Release Date, Drops Anime Teaser Starring Trading Card Game Player
-Mon, 31 Aug 2026 03:56:26 +0000 — https://variety.com/2026/film/news/pokemon-wild-card-movie-release-date-teaser-1236847050/
+### Sony Music Publishing, Warner Chappell Allege Anthropic Launched ‘Brazen Campaign’ to Illegally Train Claude on Copyrighted Songs in New Lawsuit
+Mon, 31 Aug 2026 17:06:32 +0000 — https://variety.com/2026/music/news/sony-music-publishing-warner-chappell-anthropic-lawsuit-1236847442/
 
-It s time to catch em all because Pokémon is heading back to the big screen. The popular trading card and video game franchise is returning with Pokémon: Wild Card, a new movie releasing worldwide in 2027. The film was announced during the closing ceremony of the 2026 Pokémon World Championships, held in San Francisco. A [ ]
+Sony Music Publishing and Warner Chappell Music have filed a federal lawsuit against Anthropic that claimed the AI giant s alleged theft of the companies’ intellectual property marked “a brazen campaign of illegally torrenting, scraping, and downloading copyrighted works on a massive scale,” representing the latest legal salvo in the music industry‘s reckoning with the technology’s rise. The [ ]
 
 ## The Hollywood Reporter
 
-### In Love Is the Monster, Paulina García Is a Granny Facing Impossible Choices (Exclusive TIFF Trailer)
-Mon, 31 Aug 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tiff-2026-love-is-the-monster-film-trailer-paulina-garcia-1236682391/
+### If You Prompt a Movie or Song Into Existence With AI, You Shouldn t Be Able to Profit From It
+Mon, 31 Aug 2026 19:36:54 +0000 — https://www.hollywoodreporter.com/business/business-news/ai-movies-prompts-songs-legislation-1236680256/
 
-Costa Rican writer-director Neto Villalobos Brenes' dystopian thriller, which world-premieres in Toronto's Centerpiece section and also gets a poster, sees a granddaughter kidnapped for ransom.
+"Politicians should back legislation to prevent prompted generative AI outputs from being copyrighted across film, TV and music. The foundation of human creativity is at stake," writes the Motion Picture Sound Editors president.
 
-### Pokémon: Wild Card Movie Announced for 2027; Teaser Released
-Mon, 31 Aug 2026 06:07:23 +0000 — https://www.hollywoodreporter.com/movies/movie-news/pokemon-wild-card-movie-announced-2027-watch-teaser-1236685585/
+### Ariana Grande Has to Wear Cozy Footwear During Final London Shows After Suffering Minor Injury
+Mon, 31 Aug 2026 19:10:43 +0000 — https://www.hollywoodreporter.com/music/music-news/ariana-grande-minor-injury-london-shows-tour-1236685968/
 
-The anime film was unveiled Sunday night during the closing ceremony of the 2026 Pokémon World Championships.
+The Grammy winner has two performances left on her Eternal Sunshine Tour.
 
-### Naya Rivera and Ryan Dorsey s 10-Year-Old Son, Josey, Lands First Film Role
-Mon, 31 Aug 2026 02:50:14 +0000 — https://www.hollywoodreporter.com/movies/movie-news/naya-rivera-ryan-dorsey-son-josey-first-fim-role-1236685512/
+### The Sphere Is Adding Enhanced 4D Effects to The Wizard of Oz
+Mon, 31 Aug 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/sphere-wizard-of-oz-new-4d-effects-1236685773/
 
-According to IMDB.com, he'll appear in writer-director Evan Coury's 'The Burning Valley,' which is filming in Pennsylvania.
+Enhanced animatronic flying monkeys, new pyrotechnics, "Glinda Glitter" and scented apples will be added to the new version of the classic film.
 
-### Brutally Honest Emmy Ballot: DTF St. Louis Should ve Been Called WTF St. Louis,’ Widow s Bay Is Far and Away the Best Comedy on TV
-Mon, 31 Aug 2026 00:40:25 +0000 — https://www.hollywoodreporter.com/tv/tv-news/emmy-voter-shares-brutally-honest-picks-ballot-1236685422/
+### $10 Million in Funding Earmarked for CA Postproduction Tax Credit If Gov. Newsom Signs
+Mon, 31 Aug 2026 18:48:05 +0000 — https://www.hollywoodreporter.com/business/business-news/10-million-funding-earmarked-ca-postproduction-tax-credit-1236685908/
 
-This Emmy-winning member of the TV Academy’s producers peer group, granted anonymity in return for candor, also says 'Your Friends and Neighbors' is "a dumb show about entitled people," the "stereotypes" in 'Nobody Wants This" make him "uncomfortable" and "Jeff Bezos should stay the fuck out of our business."
+AB 2319, which aims to lure more editing, sound mixing and other post work to the state, passed the state legislature on Sunday.
 
-### Finneas O Connell and Claudia Sulewski Are Married
-Sun, 30 Aug 2026 19:49:59 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/finneas-oconnell-claudia-sulewski-married-1236685263/
+### Outlander: Blood of My Blood Returns — and Reunions Don t Last Long
+Mon, 31 Aug 2026 17:20:34 +0000 — https://www.hollywoodreporter.com/tv/tv-features/outlander-blood-of-my-blood-season-2-trailer-1236685743/
 
-The couple got engaged during a romantic sunset proposal last year.
+Did Julia, Henry and their newborn baby William travel through the infamous standing stones of Craigh Na Dun?
 
-### Olivia Rodrigo s Inaugural Daisy Chain Fields Draws Massive Crowd to SoCal for a Day of Music and Empowerment
-Sun, 30 Aug 2026 19:22:36 +0000 — https://www.hollywoodreporter.com/music/music-news/olivia-rodrigo-inaugural-daisy-chain-fields-highlights-1236685135/
+### Tires Renewed for Season 4 by Netflix
+Mon, 31 Aug 2026 17:12:39 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tires-renewed-season-4-netflix-shane-gillis-steve-gerben-1236685840/
 
-The all-women festival, headlined by Rodrigo, raised $10M for women- and girls-focused charities, which Melinda French Gates doubled, bringing the final amount raised to $20M.
+And Shane Gillis is excited beyond words.
 
-### Stars Gather at Grand Ole Opry for Dolly Parton Musical Tribute: Most Beloved Human Being in the World
-Sun, 30 Aug 2026 18:57:31 +0000 — https://www.hollywoodreporter.com/music/music-news/grand-ole-opry-dolly-parton-musical-tribute-stars-perform-1236685180/
+### How Andrew Scott Took on the Role of a Lifetime in ‘Elsinore’
+Mon, 31 Aug 2026 17:03:53 +0000 — https://www.hollywoodreporter.com/movies/movie-features/andrew-scott-elsinore-hamlet-exclusive-1236685337/
 
-The queen of country music died at age 80 following a brief battle with cancer, her reps announced.
+The Dublin native portrays a closeted actor dying of AIDS while preparing to play Hamlet on stage: “This film is so much about everything in my life.”
 
-### Why Owner of Heated Rivalry Cottage Did Some Soul Searching Before Agreeing to Season 2
-Sun, 30 Aug 2026 17:25:46 +0000 — https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-cottage-owner-soul-searching-agreeing-season-2-1236685112/
+### Off Campus Star Stephen Kalyn Joins The Housemaid s Secret
+Mon, 31 Aug 2026 17:00:25 +0000 — https://www.hollywoodreporter.com/movies/movie-news/stephen-kalyn-the-housemaids-secret-1236685839/
 
-The now-famous cottage served as the emotional backdrop for a major turning point in the queer hockey romance show's first season, which starred Hudson Williams and Connor Storrie.
+The actor joins Sydney Sweeney, Kirsten Dunst and Paul Anthony Kelly.
 
-### Entertainment Tonight Presents New Dolly Parton TV Special: Where to Watch Online
-Sun, 30 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-entertainment-tonight-dolly-parton-2026-special-free-1236684990/
+### Norman Reedus Boards Apple TV Spy Thriller Disavowed
+Mon, 31 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/norman-reedus-apple-tv-disavowed-spy-series-1236685737/
 
-'Remembering Dolly: A Rhinestone Life' airs on Sunday, Aug. 30.
+The 'Walking Dead' mainstay will star opposite James Marsden in the series.
 
-### Coyote vs. Acme Snags No. 2 With $15.4M as Spider-Man Nears Avatar 2 ; Dog Stars Put to Sleep
-Sun, 30 Aug 2026 16:03:45 +0000 — https://www.hollywoodreporter.com/movies/movie-news/coyote-vs-acme-box-office-spider-man-titanic-dog-stars-1236685104/
+### Kenneth Lonergan Writes Letter in Defense of Mark Ruffalo, Calls Antisemitism Accusation Cynical
+Mon, 31 Aug 2026 16:58:50 +0000 — https://www.hollywoodreporter.com/news/politics-news/kenneth-lonergan-letter-mark-ruffalo-1236684843/
 
-Jacob Elordi's thriller from Ridley Scott settled for box office scraps, while Tom Holland's 'Brand New Day' topped 'Titanic' and 'Ne Zha 2' to hit No. 4 on the all-time global chart.
+In a letter shared with The Hollywood Reporter, the Oscar winner says the "notion he is antisemitic is overtly preposterous, and the accusation itself a cynical and disgusting lie."
 
 ## Deadline
 
-### TrustNordisk Unveils Fresh Deals Teaser-Trailer For Venice Contender ‘Woman Unknown’
-Mon, 31 Aug 2026 10:00:00 +0000 — https://deadline.com/2026/08/trustnordisk-deals-trailer-woman-unknown-1237062924/
+### KiKi Layne Luke Hemsworth Join Amazon MGM Actioner Deadlocked
+Mon, 31 Aug 2026 19:30:00 +0000 — https://deadline.com/2026/08/deadlocked-movie-adds-kiki-layne-luke-hemsworth-1237063323/
 
-EXCLUSIVE: TrustNordisk has unveiled fresh deals and a teaser-trailer for May el-Toukhy s post-World War Two Denmark-set psychological drama Woman Unknown ahead of its world premiere in competition at the Venice Film Festival. Adding to a previously announced sale to Italy (Lucky Red), TrustNordisk has also sealed deals to Benelux (September Films), Latin America (California Filmes), [ ]
+EXCLUSIVE: KiKi Layne (Vought Rising) and Luke Hemsworth (Westworld) have boarded Deadlocked, the new action film from Amazon MGM Studios that Deadline revealed earlier this month. Character details are being kept under wraps. The duo joins previously announced Jamie Foxx and Sasha Calle. Directed by Nikhil Bhat, Deadlocked follows a grieving former Marine serving jury duty who is forced [ ]
 
-### Carlos Reygadas’ Long-Awaited Movie Heil Jupiter!’ Sets Sales With Mk2 Films
-Mon, 31 Aug 2026 09:45:00 +0000 — https://deadline.com/2026/08/carlos-reygadas-heil-jupiter-sales-mk2-films-1237062963/
+### HBO Max To Launch In Japan As Hub Within Prime Video Hulu
+Mon, 31 Aug 2026 19:00:00 +0000 — https://deadline.com/2026/08/hbo-max-launch-japan-amazon-hulu-1237063387/
 
-EXCLUSIVE: Paris-based mk2 films has acquired international sales rights to Carlos Reygadas long-awaited new feature Heil Jupiter! ahead of its world premiere at the New York Film Festival in late September. The radical filmmaker s first feature since Our Time in 2018, Heil Jupiter! is billed as a visionary cinematic experience and a nightmarish reflection on [ ]
+Warner Bros Discovery is rolling out its HBO Max streaming service in Japan. The company said Monday it has struck deals with Amazon s Prime Video and Hulu and will launch HBO Max as hubs within these two services beginning October 1. It will give subscribers access to a raft of shows such as House of [ ]
 
-### Dolly Parton Laid To Rest In Same Nashville Cemetery As Late Husband
-Mon, 31 Aug 2026 03:59:25 +0000 — https://deadline.com/2026/08/dolly-parton-buried-funeral-1237063013/
+### Tires : Netflix Officially Greenlights Season 4 Of Shane Gillis Workplace Comedy Series
+Mon, 31 Aug 2026 18:04:05 +0000 — https://deadline.com/2026/08/tires-renewed-season-4-shane-gillis-netflx-1237063262/
 
-Dolly Parton was laid to rest Friday in a small, private service, per the singer s wishes. The ceremony was confirmed by her great-niece, Lainey Parton, who posted a remembrance on social media. This is a really hard post for me to make. I wanted to wait until after my granny was laid to rest yesterday [ ]
+UPDATED: Shane Gillis Tires will return for a fourth season on Netflix. The new installment of the single-camera comedy is believed to have been essentially picked up as part of the streamer s overall deal with Gillis and fellow Tires co-creator John McKeever announced in January. It has now been formally greenlighted. As Deadline reported last [ ]
 
-### I m Back : Rams Superstar Aaron Donald Unretires, Will Rejoin Team This Season As It Vies For Super Bowl Berth
-Mon, 31 Aug 2026 01:41:15 +0000 — https://deadline.com/2026/08/aaron-donald-unretires-rejoins-rams-1237063001/
+### Big Mistakes Adds Poorna Jagannathan Lorenzo De Moor As Recurring For Season 2
+Mon, 31 Aug 2026 18:00:00 +0000 — https://deadline.com/2026/08/big-mistakes-season-2-poorna-jagannathan-lorenzo-de-moor-1237062355/
 
-L.A. Rams fans and TV executives are both smiling today about the same thing. Aaron Donald, the all-world defensive tackle who led the Los Angeles to a Super Bowl victory in 2022, announced today that he will come out of retirement this season. The team confirmed the news by sharing a letter on Rams letterhead [ ]
+Netflix s comedy series Big Mistakes has added two recurring cast members as it goes into production on Season 2. Poorna Jagannathan has been cast as Dréa, and Lorenzo De Moor will play Leo, the streamer revealed Monday. Along with the casting announcement, Netflix confirmed that production on Season 2 has begun in New Jersey. Returning [ ]
 
-### Your Move, Mr. Governor: CA Post Production Tax Incentive Bill Passes State Senate; Moves To Newsom s Desk
-Sun, 30 Aug 2026 23:31:28 +0000 — https://deadline.com/2026/08/ca-post-production-tax-incentive-bill-passes-1237062985/
+### Apple May Soon Join Google In Renaming Lake Ontario After Donald Trump s Executive Order
+Mon, 31 Aug 2026 17:31:12 +0000 — https://deadline.com/2026/08/apple-google-lake-ontario-donald-trump-1237063201/
 
-State support for the contracting L.A. film and TV industry is now in the hands of California Governor Gavin Newsom and some (hoperfully) very creative accountants. With just hours to spare, the California State Senate passed SB 2319 by a vote of 33-5. The legislation creates a separate tax incentive for the post-production industry. The [ ]
+Apple soon might join Google in adopting the name Lake America for the body of water long known as Lake Ontario – at least for U.S. users of its map. President Donald Trump signed an executive order last week to change the name of the lake amid a trade dispute with Canada marked by threats [ ]
 
-### Hollywood Cliffhanger: Can U.S. Summer Box Office Ring Up All-Time Record $4.8 Billion?
-Sun, 30 Aug 2026 22:34:50 +0000 — https://deadline.com/2026/08/box-office-summer-2026-near-record-1237062959/
+### ABC Developing Legal Drama Con Law From Joey Falco, 20th Television
+Mon, 31 Aug 2026 17:30:00 +0000 — https://deadline.com/2026/08/con-law-abc-series-joey-falco-development-1237062222/
 
-The summer domestic box office is so close so close to hitting an all-time record, which would surpass the $4.756 billion held by summer 2013. Currently, per Rentrak, the North American box office for the first Friday in May through EOD today stands at $4.598 billion, officially the second-highest summer ever behind 2013. If this summer [ ]
+EXCLUSIVE: ABC is developing Con Law, an original legal drama from writer/EP Joey Falco and 20th Television. In the series, a brilliant, high-powered corporate attorney is wrongfully convicted of murdering her husband, losing everything — her freedom, her career, her daughter. Exonerated six years later, she joins a scrappy Brooklyn defense firm and uses the ruthless skills [ ]
 
-### Matt Bradley NBC News Team Recovering Well After Israeli Settlers Attack In West Bank
-Sun, 30 Aug 2026 22:32:31 +0000 — https://deadline.com/2026/08/matt-bradley-nbc-news-recovering-israeli-settlers-attack-1237062952/
+### Dolly Parton Estate Sets DollyFest Celebrations In Nashville London
+Mon, 31 Aug 2026 17:28:54 +0000 — https://deadline.com/2026/08/dolly-parton-dollyfest-celebrations-nashville-london-1237063287/
 
-An NBC News team is safe in Tel Aviv after being attacked on camera by Israeli settlers in the West Bank. On Sunday s episode of Today, foreign correspondent Matt Bradley revealed that his team is recovering well after they all took hits during an interview the day before with elderly Palestinian woman Aida Ahmed Abdullah, [ ]
+The Dolly Parton Estate has announced two DollyFest celebrations in honor of the late country music icon set for 2027 in Nashville, TN and London, England. The Nashville celebration was initially planned as a multi-artist event on Parton s 80th birthday in January 2026 in which she was to perform and host, but was postponed as [ ]
 
-### Days of Thunder s Randy Quaid Calls Anne Hathaway Horrible Choice For Sequel In Problematic Diatribe: She s Pregnant
-Sun, 30 Aug 2026 21:11:14 +0000 — https://deadline.com/2026/08/days-of-thunder-randy-quaid-calls-anne-hathaway-horrible-sequel-1237062926/
+### Jason Momoa, Tenoch Huerta, Adria Arjona Kiefer Sutherland Join Miles Teller in John Swab Thriller Copperhead ; Black Bear Launching Sales At TIFF
+Mon, 31 Aug 2026 17:15:00 +0000 — https://deadline.com/2026/08/copperhead-movie-adds-jason-momoa-adria-arjona-1237063254/
 
-More than 35 years later, Cole Trickle s new leading lady has ruffled some feathers for a previous Days of Thunder co-star. After Anne Hathaway was announced to join Tom Cruise in Paramount s Days of Thunder 2, Randy Quaid had some unsavory words for the Oscar-winning actress, who is currently pregnant with her third child. We [ ]
+EXCLUSIVE: Black Label Media has added four to the cast of its thriller Copperhead starring Miles Teller: Jason Momoa, Tenoch Huerta, Adria Arjona and Kiefer Sutherland. Character details are being kept under wraps. The casting news comes ahead of this year s Toronto Film Festival, where Black Bear is launching sales. In Copperhead, when an undercover drug deal explodes into violence, a [ ]
 
-### ‘Buddy’ Busts Out, Scares Up No. 6 Spot, Sets Record For Roadside Attractions, Saban – Specialty Box Office
-Sun, 30 Aug 2026 20:51:14 +0000 — https://deadline.com/2026/08/indie-film-box-office-buddy-r-rated-horror-comedy-busts-out-1237062910/
+### Zurich Bolsters Position As Awards Circuit Stop-Off As ‘Bunker’, ‘Club Kid’ Adult Supervision Join Gala Lineup
+Mon, 31 Aug 2026 17:09:28 +0000 — https://deadline.com/2026/08/zurich-awards-circuit-bunker-club-kid-gala-1237063265/
 
-Dark comedy Buddy from Roadside Attractions and Saban Films blew past expectations to set a few records for Roadside Attractions as its top opening since Covid and second-best ever after I Can Only Imagine (2018, $17 million). From the producers of Weapons, the feature directorial debut of Casper Kelly scared up a no. 6 spot [ ]
+The Zurich Film Festival has unveiled Bunker, Ink, Babies and Club Kid as fresh additions to its gala program. Lauren Miller Rogen’s starry drama Babies, featuring Anna Kendrick, Seth Rogen, Issa Rae, Dan Stevens, Kate Berlant, Zach Cherry, Ed Helms, Ashley Park, Sharon Stone, David Strathairn in the cast, will make its European premiere at [ ]
 
-### Venice Film Festival Changes Course To Reinstate Jury Press Conference: How It Went Down
-Sun, 30 Aug 2026 20:34:01 +0000 — https://deadline.com/2026/08/venice-film-festival-uturn-reinstates-jury-press-conference-1237062875/
+### Off Campus Star Stephen Kalyn Joins Sydney Sweeney In Housemaid s Secret
+Mon, 31 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/off-campus-stephen-kalyn-sydney-sweeney-housemaids-secret-1237063223/
 
-Good news. The Venice Film Festival has reinstated its jury press conference, overturning an unusual move to scrap the traditional opening event this year. The festival responded to Deadline s inquiry on Sunday by confirming that the press conference was now on. A day earlier, the A-list festival, which kicks off on Wednesday, had told Deadline [ ]
+Off Campus breakout Stephen Kalyn has closed a deal to join Lionsgate s The Housemaid s Secret starring Sydney Sweeney. Kirsten Dunst, Brittany Snow and Paul Anthony Kelly are also on board, with Paul Feig directing. Producers include Hidden Pictures’ Todd Lieberman, Pretty Dangerous Pictures’ Laura Fischer and Feig, and Honey Trap’s Sweeney. In The Housemaid’s Secret, Millie Calloway (Sweeney) [ ]
 
-### Kacey Musgraves Continues Boston Show As Fire Breaks Out On Stage
-Sun, 30 Aug 2026 19:41:58 +0000 — https://deadline.com/2026/08/kacey-musgraves-continues-boston-show-fire-on-stage-1237062905/
+### Norman Reedus Joins Apple TV s Disavowed
+Mon, 31 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/norman-reedus-cast-apple-tvs-disavowed-1237063238/
 
-Kacey Musgraves managed to keep her cool as a small fire broke out on stage at her latest Middle of Nowhere Tour stop. On Saturday, the 8x Grammy winner continued her set as the blaze burned far above her head, seemingly after ignited by pyrotechnics during Musgraves Golden Hour performance. That looks bad, she said [ ]
+Norman Reedus (The Walking Dead franchise) is the latest to join the series regular cast of Apple TV s Disavowed, the upcoming action-packed thriller created by Art Marcum and Matt Holloway (Iron Man, Uncharted). Details regarding who Reedus will play are under wraps. Disavowed follows legendary CIA Case Officer Brad Griffin (James Marsden), who is abruptly fired in [ ]
 
-### Spider-Man: Brand New Day Odyssey In Global Brawl Atop Late Summer Frame; Universal First To Cross $3B Overseas YTD Worldwide Update
-Sun, 30 Aug 2026 17:43:43 +0000 — https://deadline.com/2026/08/box-office-global-spider-man-odyssey-dog-stars-bombs-universal-1237062804/
+### HBO Lands Hot Drama Spec Imposter By DWA Assistant Kalos Chu With Lauren LeFranc Producing
+Mon, 31 Aug 2026 16:30:23 +0000 — https://deadline.com/2026/08/hbo-imposter-drama-spec-assistant-kalos-chu-lauren-lefranc-1237063182/
 
-In the deepest of summer, Odysseus came close to throwing Spider-Man off the top of the global weekend box office, but the aranea superhero had the upper hand over the crusty ole warrior, $66.2M to $62.9M. Spider-Man: Brand New Day was in its fifth session, taking its global count to $2.33B ($1.44B int l, $891.5M domestic), [ ]
+From an assistant desk to a premium HBO development deal: thousands of aspiring writers dream of making that leap. For one, Kalos Chu who serendipitously works at DreamWorks Animation that dream became a reality. After a bidding war for his spec Imposter, which started with 10 offers before the field was narrowed down [ ]
 

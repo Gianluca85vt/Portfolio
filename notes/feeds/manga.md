@@ -1,66 +1,66 @@
-# Manga — harvested 2026-08-31T11:08:18.608Z
+# Manga — harvested 2026-08-31T19:40:38.087Z
 
 ## Anime News Network
 
-### 'The Strongest Man, Born From Misfortune' TV Anime Reveals Promo Video, 2 Characters
-Mon, 31 Aug 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/the-strongest-man-born-from-misfortune-tv-anime-reveals-promo-video-2-characters/.241109
+### Thunder 3 ‒ Episode 8
+Mon, 31 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-8/.241151
 
-Anime based on Fukufuku's light novel series to debut in 2027
+These alien dudes learn why screaming anime toddlers are so terrifying.
 
-### Aniplex to Publish Fate/Extra Record Game; Kazuya Nino Leaves Type-Moon studio BB, Steps Down as Game's Director
-Mon, 31 Aug 2026 03:42:58 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/aniplex-to-publish-fate-extra-record-game-kazuya-nino-leaves-type-moon-studio-bb-steps-down-as-game-/.241148
+### How Aoashi Takes a Birds' Eye View of the Soccer Pitch
+Mon, 31 Aug 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/how-aoashi-takes-a-birds-eye-view-of-the-soccer-pitch/.241122
 
-Nino leaves Type-Moon studio BB due to personal reasons
+<i>Aoashi</i> uses the same talent the main character learns to harness to create its soccer action: foresight and total spatial awareness.
 
-### Ikkado Ito's The Long Summer of August 31 Manga Gets TV Anime, Live-Action Series Adaptations
-Mon, 31 Aug 2026 01:44:42 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/ikkado-ito-the-long-summer-of-august-31-manga-gets-tv-anime-live-action-series-adaptations/.241146
+### Mushoku Tensei: Jobless Reincarnation III ‒ Episode 10
+Mon, 31 Aug 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-10/.241143
 
-SHAFT to produce anime adaptation
+Anticlimax, thy name is <i>Mushoku Tensei</i>.
 
-### Pokémon: Wild Card Anime Film Announced for 2027
-Mon, 31 Aug 2026 01:36:06 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/pokemon-wild-card-anime-film-announced-for-2027/.241147
+### Sony Launches Ad-Supported Live TV on PlayStation 5 in U.S.
+Mon, 31 Aug 2026 14:12:12 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/sony-launches-ad-supported-live-tv-on-playstation-5-in-u.s/.241166
 
-CloverWorks animates 1st new anime film in franchise in 6+ years
+Free service includes anime, movies, TV shows, sports, news, more
 
-### Pokémon's Social Media Hacked to Promote Memecoin
-Sun, 30 Aug 2026 23:30:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-30/pokemon-social-media-hacked-to-promote-memecoin/.241081
+### Sparks of Tomorrow ‒ Episode 9
+Mon, 31 Aug 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-9/.241142
 
-No, it was not a promotion for the Team Rocket Base in Shibuya
+Beyond offending my sensibilities as a queer man, this episode of <i>Sparks of Tomorrow</i> offends my sensibilities as a writer.
 
-### Burger King Teases Dragon Ball Super Figures in U.S.
-Sun, 30 Aug 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-30/burger-king-teases-dragon-ball-super-figures-in-u.s/.241111
+### With Sparks of Tomorrow, the Dreams Are in the Details
+Mon, 31 Aug 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/with-sparks-of-tomorrow-the-dreams-are-in-the-details/.241044
 
-Burger King: “Your next power-up is closer than you think…”
+From the main characters' visions of an electricity-powered world to fantasies of a future awash in technicolor brilliance, the show is constantly pushing a dream of a brighter tomorrow.
 
-### My Happy Marriage Anime Special Airs on October 25 With All 3 Episodes
-Sun, 30 Aug 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/my-happy-marriage-anime-special-airs-on-october-25-with-all-3-episodes/.241115
+### Pluto TV Adds Mononoke, Terror in Resonance, Kabaneri of the Iron Fortress, More Anime
+Mon, 31 Aug 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/pluto-tv-adds-mononoke-terror-in-resonance-kabaneri-of-the-iron-fortress-more-anime/.241112
 
-New teaser, cast member, ending theme song artist also revealed
+Streaming service launches linear channels "It's Anime," "Big A Anime"
 
-### Live-Action Wakako-zake Series Gets 10th Season Partly Set in Australia
-Sun, 30 Aug 2026 22:21:11 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/live-action-wakako-zake-series-gets-10th-season-partly-set-in-australia/.241140
+### You and I Are Polar Opposites Season 2 ‒ Episode 9
+Mon, 31 Aug 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-9/.241141
 
-Rina Takeda returns to star as Wakako, a woman who explores places to drink
+I just need Taira and Azuma to hurry up and smooch already before all their tapdancing around their feelings gives me a stroke.
 
-### Kono Oto Tomare! Manga to End in 3 Chapters
-Sun, 30 Aug 2026 15:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/kono-oto-tomare-manga-to-end-in-3-chapters/.241138
+### Boys-Love Is Here To Stay Is Here To Stay
+Mon, 31 Aug 2026 12:16:20 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/boys-love-is-here-to-stay-is-here-to-stay/.241027
 
-Series debuted in August 2012
+Bring on the boys!
 
-### '100 Girlfriends Who Really, Really, Really, Really, Really Love You' Season 3 Casts Yumika Yano
-Sun, 30 Aug 2026 13:13:47 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/100-girlfriends-who-really-really-really-really-really-love-you-season-3-casts-yumika-yano/.241137
+### Kodansha Annnounces Buzz or Die Visual Novel for PC
+Mon, 31 Aug 2026 12:02:41 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/kodansha-annnounces-buzz-or-die-visual-novel-for-pc/.241163
 
-Yano voices Kishika Tororo, kendō club captain & Rentarō's newest girlfriend; in episode 9
+Indie game creator Bon's game launches on Steam in 2026
 
-### The Ogre's Bride Chapters 1-15 Manga Review
-Sun, 30 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-ogre-bride/chapters-1-15/.240758
+### Blank Canvas: My So-Called Artist's Journey Live-Action Film Review
+Mon, 31 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/blank-canvas/my-so-called-artist-journey-live-action-film/.240984
 
-<i>The Ogre’s Bride</i>’s first fifteen chapters operate on two levels: the <i>Cinderella</i> dream, where a downtrodden girl is swept off her feet by a princely character, and Yuzu learning that she’s worth something.
+Higashimura, who created the manga and co-wrote the movie’s script, leans into the complex, ambiguous nature of her relationship with Hidaka.
 
-### Baki Isekai Spinoff Manga Gets TV Anime
-Sun, 30 Aug 2026 11:48:18 -0400 — https://www.animenewsnetwork.com/news/2026-08-30/baki-isekai-spinoff-manga-gets-tv-anime/.241136
+### Japan's Video Game Rankings, August 17-23
+Mon, 31 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/japan-video-game-rankings-august-17-23/.241156
 
-<i>Baki Gaiden - Retsu Kaioh wa Isekai Tensei Shitemo Ikkō ni Kamawan</i> follows Retsu reincarnating into another world
+<cite>Steins;Gate Re:Boot</cite> for Switch 2 debuts at #4, for PS5 at #5
 
 ## Crunchyroll News
 
