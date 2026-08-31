@@ -1,58 +1,83 @@
-# Film & TV — harvested 2026-08-30T19:26:27.779Z
+# Film & TV — harvested 2026-08-31T11:08:18.608Z
 
 ## Variety
 
-### At Daisy Chain Fields, Olivia Rodrigo, Chappell Roan and Honored Forebears Convene for a Superb Festival That s Hot to Go in Every Way: Concert Review
-Sun, 30 Aug 2026 18:05:11 +0000 — https://variety.com/2026/music/concert-reviews/daisy-chain-fields-olivia-rodrigo-chappell-roan-concert-review-1236846844/
+### Unifrance Rendez-Vous TV Mart Spotlights Ancient Rome, 19th Century Paris, Retired Spooks, Luchadores, Diplomatic Intrigue and Gaza
+Mon, 31 Aug 2026 10:40:15 +0000 — https://variety.com/2026/tv/global/unifrance-rendezvous-gaumont-about-premium-content-gaza-1236846793/
 
-You know an inaugural festival has been a success when, after the temperature reached 95 degrees, humidity topped 80% perspiration stains were so pervasive that it was the odd dry spots that looked like stains constant 12-minute trudges back and forth between two action-packed stages threatened to sap what few excess pounds hadn t been sweated [ ]
+The 32nd edition of the Unifrance Rendez-Vous TV content market in Le Havre kicks off Sept. 7 with a broad selection of more than 350 programs boasting strong international potential presented by France’s leading distributors. The Rendez-Vous hosts some 50 exclusive screenings of hit scripted series, animated shows and acclaimed documentaries, including a special showcase [ ]
 
-### President Trump Calls For FCC Punishment of NBC News Kristen Welker Following Promotional Meet the Press Banter
-Sun, 30 Aug 2026 17:29:02 +0000 — https://variety.com/2026/tv/news/trump-kristen-welker-fcc-punishment-meet-the-press-1236846910/
+### DraftKings Taps Kevin Hart, Nick Jonas for Road-Trip Commercial That Touts Wagering, Predictions
+Mon, 31 Aug 2026 10:00:00 +0000 — https://variety.com/2026/tv/news/draftkings-kevin-hart-nick-jonas-sports-commercial-1236847055/
 
-President Donald Trump suggested referring NBC News anchor Kristen Welker for possible punishment by the Federal Communications Commission after the Meet the Press moderator made innocuous remarks about candidates the President has backed in the run-up to the nation s midterm elections later this year. Trump s chilling diatribe, released via Truth Social, appeared to be misinformed. [ ]
+Nick Jonas has been on plenty of road trips but none quite like this. The actor and musician plays a prominent role in what is expected to be a significant and long-running campaign for sports-wagering giant DraftKings. In a new ad, Jonas and comedian Kevin Hart appear to take a massive road trip, visiting [ ]
 
-### Olivia Rodrigo Raises $20 Million With Daisy Chain Fields Festival Thanks to Matching Commitment From Melinda French Gates
-Sun, 30 Aug 2026 17:21:55 +0000 — https://variety.com/2026/music/news/olivia-rodrigo-raises-20-million-daisy-chain-melinda-gates-1236846915/
+### Naomi Watts to Be Honored at San Sebastián Film Festival
+Mon, 31 Aug 2026 09:21:20 +0000 — https://variety.com/2026/film/global/naomi-watts-honored-san-sebastian-film-festival-1236847147/
 
-Olivia Rodrigo raised a significant sum of $10 million with her inaugural Daisy Chain Fields Festival — and then doubled it to $20 million, thanks to a matching commitment from philanthropist Melinda French Gates. Rodrigo introduced her own headlining set at the festival on Saturday in Irvine, California by thanking the crowd for attending and revealing [ ]
+British star Naomi Watts will receive the San Sebastián Film Festival’s prestigious Donostia Award during its 74th edition in September. She joins legendary German director Werner Herzog whose Donostia Award was announced early August. Watts will pick up her Award on Saturday, Sept. 19 and screen “The Housewife, the directorial debut of Canadian Ben Shirinian.” [ ]
 
-### Katseye s Sophia to Sit Out European Leg of Wildworld Tour to Focus on Her Well-Being
-Sun, 30 Aug 2026 17:06:48 +0000 — https://variety.com/2026/music/news/katseyes-sophia-sit-european-leg-wildworld-tour-1236846911/
+### Rintaro Returns to Korea After 17 Years for Busan s Japanese Animation Special
+Mon, 31 Aug 2026 08:24:14 +0000 — https://variety.com/2026/film/festivals/rintaro-busan-japanese-animation-special-1236847137/
 
-Katseye member Sophia Laforteza will not be joining the group for the U.K. and European dates of their upcoming Wildworld tour, which is scheduled to launch on Tuesday. In a statement posted to social media, Katseye s label said that Laforteza is committed to focusing on her well-being after announcing her temporary hiatus from the group [ ]
+The 31st Busan International Film Festival (BIFF) has unveiled a 13-film Japanese Animation Special program, marking the first Korea visit in 17 years for animation master Rintaro alongside four next-generation directors. Billed as a Special Program in Focus, the lineup puts a spotlight on Japan s animation history across a full century, mixing formative classics with [ ]
 
-### Box Office: The Dog Stars Bombs With $8 Million; Spider-Man Continues Reign in Fifth Weekend
-Sun, 30 Aug 2026 16:17:10 +0000 — https://variety.com/2026/film/box-office/box-office-the-dog-stars-bombs-spider-man-brand-new-day-1236846879/
+### Korea Box Office: The Odyssey Eclipses Spider-Man: Brand New Day
+Mon, 31 Aug 2026 07:46:32 +0000 — https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-spider-man-brand-new-day-the-journey-to-gyeongju-1236847124/
 
-“The Dog Stars” couldn’t beat the heat during the dog days of summer and melted down over its opening weekend. Disney and 20th Century’s “The Dog Stars” opened to just $8 million domestically from 3,330 locations for a fifth-place finish. The post-apocalyptic thriller, which cost more than $80 million to produce, has not sat well [ ]
+The Odyssey held onto the top spot at the South Korean box office during the weekend of Aug. 28–30. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed tentpole generated $8.7 million from 1,058,642 admissions over the three-day frame across 2,071 screens, capturing 64.7% of total weekend [ ]
 
-### Call My Agent! The Movie Review: Love-Hate Energy Keeps the Gang Together in a Fast, Funny Feature-Length Return
-Sun, 30 Aug 2026 14:58:03 +0000 — https://variety.com/2026/film/news/call-my-agent-the-movie-review-1236846824/
+### China Box Office: Once Upon a Time in the Middle East Continues Dominance
+Mon, 31 Aug 2026 07:11:57 +0000 — https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-odyssey-spider-man-1236847114/
 
-The rare reboot pitch that that can actually be greeted with this again! rather than this again?, Call My Agent! The Movie makes sense of its rote title in two ways. First, and most obviously, it s a feature-length spinoff of the hit French comedy series, which wittily satirized the national showbiz industry from the perspective [ ]
+Dirty Monkeys’ war comedy-drama Once Upon a Time in the Middle East held onto the top spot at the mainland China box office for the third consecutive weekend, grossing RMB174.4 million ($25.6 million) over the Aug. 28–30 frame, according to data from Artisan Gateway. Directed by Wen Muye ( Dying to Survive ) and produced by Ning [ ]
 
-### Here s How to Watch the 2026 Little League World Series Championship Game Live Online
-Sun, 30 Aug 2026 14:00:07 +0000 — https://variety.com/2026/shopping/news/how-to-watch-little-league-world-series-online-livestream-free-1236487338/
+### Helsinki s Finnish Film Affair Unveils Film, Series Pitches and Panels, Strikes First Nordic Genre Lab Partnership (EXCLUSIVE)
+Mon, 31 Aug 2026 07:00:00 +0000 — https://variety.com/2026/film/global/helsinki-finnish-film-affair-program-1236846645/
 
-The 2026 Little League World Series Championship Game features Nevada vs. Curaçao on Sunday, Aug. 30 at 3 p.m. ET/12 p.m. PT on ESPN. Games take place at Lamade Stadium in South Williamsport, Pennsylvania. With the start of the Little League World Series Championship Game, it’s likely games may features a few celebrities in attendance [ ]
+Finland’s biggest international film and TV drama market, Finnish Film Affair, unspooling parallel to the Helsinki Intl. Film Festival Love Anarchy, has unpacked its full program, rolling out Sept. 23-25 in the Finnish capital. In the pure Nordic tradition of mind-blowing chills and thrills, genre-bending content and documentaries are headlining the slate of [ ]
 
-### Laura Dern Set to Honor George Clooney During Venice Film Festival Opening Ceremony
-Sun, 30 Aug 2026 13:48:56 +0000 — https://variety.com/2026/film/festivals/laura-dern-george-clooney-venice-golden-lion-lifetime-1236846829/
+### NBCUniversal, U-Next Ink Sweeping Japan Partnership Spanning Streaming and Theme Parks
+Mon, 31 Aug 2026 06:53:16 +0000 — https://variety.com/2026/tv/news/nbcuniversal-unext-japan-deal-1236847106/
 
-Laura Dern is set to give the Laudatio speech honoring George Clooney at Venice Film Festival where, as previously announced, he will be honored on Wed., Sept. 2, with a Golden Lion for Lifetime Achievement. Clooney – who is one of only three people to have been nominated in six different Oscar categories throughout his career [ ]
+NBCUniversal and U-Next have entered into a long-term strategic partnership in Japan, bringing NBCUniversal s international streaming brand Universal+ exclusively to the platform alongside joint initiatives with Universal Studios Japan and new global distribution pathways for Japanese content. U-Next, operated by Usen U-Next Group, is Japan s second-largest subscription video-on-demand platform behind Netflix, with more than [ ]
 
-### 17 Review: Harrowing Teen Pregnancy Drama from Macedonia Could Be the Feel-Bad Movie of the Year
-Sun, 30 Aug 2026 10:13:56 +0000 — https://variety.com/2026/film/reviews/17-review-1236846790/
+### Pink Floyd’s Roger Waters Boards Palestinian Art and Resistance Documentary ‘Freedom Theatre’ (EXCLUSIVE)
+Mon, 31 Aug 2026 06:34:35 +0000 — https://variety.com/2026/film/global/pink-floyd-roger-waters-freedom-theatre-rishi-pelham-1236846509/
 
-From the first frame, Kosara Mitić’s “17” refuses to pull any punches, plunging us immediately into the traumatic moment when a hookup between high-school student Sara (Eva Kostić) and two boys takes a violent turn. From here, this nervy teen drama from Macedonia picks up several months later and follows the withdrawn Sara over the [ ]
+Singer-songwriter and Pink Floyd co-founder Roger Waters has signed on as executive producer on filmmaker Rishi Pelham’s debut feature documentary, “Freedom Theatre.” Described as “an immersive and sensory character study,” the film follows resistance fighter turned artist Ahmed Tobasi into the creative heart of the Jenin refugee camp in Palestine, where he fights to keep [ ]
 
-### Sea of Glass Review: A Widow s Coastal Healing Retreat Turns Into a Stately, Moody Greek Tragedy
-Sun, 30 Aug 2026 08:31:55 +0000 — https://variety.com/2026/film/news/sea-of-glass-review-1236846714/
+### Pokémon: Wild Card Movie Sets 2027 Release Date, Drops Anime Teaser Starring Trading Card Game Player
+Mon, 31 Aug 2026 03:56:26 +0000 — https://variety.com/2026/film/news/pokemon-wild-card-movie-release-date-teaser-1236847050/
 
-There are Greek waves aplenty lapping at the forlorn beachside setting of Sea of Glass, though they re not especially weird ones. Amid a national cinema that has become internationally recognized for perverse plotting and deadpan absurdism, writer-director Alexis Alexiou s third feature stands out for its stark storytelling and earnest emotional intensity. There is more than [ ]
+It s time to catch em all because Pokémon is heading back to the big screen. The popular trading card and video game franchise is returning with Pokémon: Wild Card, a new movie releasing worldwide in 2027. The film was announced during the closing ceremony of the 2026 Pokémon World Championships, held in San Francisco. A [ ]
 
 ## The Hollywood Reporter
+
+### In Love Is the Monster, Paulina García Is a Granny Facing Impossible Choices (Exclusive TIFF Trailer)
+Mon, 31 Aug 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tiff-2026-love-is-the-monster-film-trailer-paulina-garcia-1236682391/
+
+Costa Rican writer-director Neto Villalobos Brenes' dystopian thriller, which world-premieres in Toronto's Centerpiece section and also gets a poster, sees a granddaughter kidnapped for ransom.
+
+### Pokémon: Wild Card Movie Announced for 2027; Teaser Released
+Mon, 31 Aug 2026 06:07:23 +0000 — https://www.hollywoodreporter.com/movies/movie-news/pokemon-wild-card-movie-announced-2027-watch-teaser-1236685585/
+
+The anime film was unveiled Sunday night during the closing ceremony of the 2026 Pokémon World Championships.
+
+### Naya Rivera and Ryan Dorsey s 10-Year-Old Son, Josey, Lands First Film Role
+Mon, 31 Aug 2026 02:50:14 +0000 — https://www.hollywoodreporter.com/movies/movie-news/naya-rivera-ryan-dorsey-son-josey-first-fim-role-1236685512/
+
+According to IMDB.com, he'll appear in writer-director Evan Coury's 'The Burning Valley,' which is filming in Pennsylvania.
+
+### Brutally Honest Emmy Ballot: DTF St. Louis Should ve Been Called WTF St. Louis,’ Widow s Bay Is Far and Away the Best Comedy on TV
+Mon, 31 Aug 2026 00:40:25 +0000 — https://www.hollywoodreporter.com/tv/tv-news/emmy-voter-shares-brutally-honest-picks-ballot-1236685422/
+
+This Emmy-winning member of the TV Academy’s producers peer group, granted anonymity in return for candor, also says 'Your Friends and Neighbors' is "a dumb show about entitled people," the "stereotypes" in 'Nobody Wants This" make him "uncomfortable" and "Jeff Bezos should stay the fuck out of our business."
+
+### Finneas O Connell and Claudia Sulewski Are Married
+Sun, 30 Aug 2026 19:49:59 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/finneas-oconnell-claudia-sulewski-married-1236685263/
+
+The couple got engaged during a romantic sunset proposal last year.
 
 ### Olivia Rodrigo s Inaugural Daisy Chain Fields Draws Massive Crowd to SoCal for a Day of Music and Empowerment
 Sun, 30 Aug 2026 19:22:36 +0000 — https://www.hollywoodreporter.com/music/music-news/olivia-rodrigo-inaugural-daisy-chain-fields-highlights-1236685135/
@@ -79,90 +104,65 @@ Sun, 30 Aug 2026 16:03:45 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Jacob Elordi's thriller from Ridley Scott settled for box office scraps, while Tom Holland's 'Brand New Day' topped 'Titanic' and 'Ne Zha 2' to hit No. 4 on the all-time global chart.
 
-### Melinda French Gates Doubles Olivia Rodrigo s Daisy Chain Fields Donation Sum Bringing Total to $20 Million
-Sun, 30 Aug 2026 04:12:53 +0000 — https://www.hollywoodreporter.com/music/music-news/olivia-rodrigo-daisy-chain-fields-20m-melinda-gates-1236685002/
-
-The philanthropist matched the $10 million that Rodrigo announced the festival had raised in support of women-focused organizations on Friday.
-
-### Where to Watch the 2026 U.S. Open Tennis Tournament Online
-Sun, 30 Aug 2026 03:40:18 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-us-open-tennis-2026-streaming-free-schedule-1236685010/
-
-The main singles draws begin Sunday. Aug. 30.
-
-### Harry Styles Jokes About Taylor Swift s Wedding During Madison Square Garden Concert
-Sun, 30 Aug 2026 02:49:00 +0000 — https://www.hollywoodreporter.com/music/music-news/harry-styles-taylor-swift-wedding-madison-square-garden-1236685019/
-
-“We’re at Madison Square Garden, home of the world champion New York Knicks! And they also do weddings," the Grammy winner said during his Aug. 29 show.
-
-### Where to Watch the 2026 College Football Season Online
-Sat, 29 Aug 2026 23:47:01 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-college-football-streams-2026-ncaa-free-live-1236684734/
-
-A full breakdown of the networks and streaming services broadcasting NCAA football.
-
-### Chris Hansen Gives Robert Pattinson Credit for His Pretty Good Imitation in Primetime
-Sat, 29 Aug 2026 22:36:59 +0000 — https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-robert-pattinson-good-imitation-primetime-1236684971/
-
-Though the former 'To Catch a Predator' host said that it's also "overly dramatic."
-
 ## Deadline
+
+### TrustNordisk Unveils Fresh Deals Teaser-Trailer For Venice Contender ‘Woman Unknown’
+Mon, 31 Aug 2026 10:00:00 +0000 — https://deadline.com/2026/08/trustnordisk-deals-trailer-woman-unknown-1237062924/
+
+EXCLUSIVE: TrustNordisk has unveiled fresh deals and a teaser-trailer for May el-Toukhy s post-World War Two Denmark-set psychological drama Woman Unknown ahead of its world premiere in competition at the Venice Film Festival. Adding to a previously announced sale to Italy (Lucky Red), TrustNordisk has also sealed deals to Benelux (September Films), Latin America (California Filmes), [ ]
+
+### Carlos Reygadas’ Long-Awaited Movie Heil Jupiter!’ Sets Sales With Mk2 Films
+Mon, 31 Aug 2026 09:45:00 +0000 — https://deadline.com/2026/08/carlos-reygadas-heil-jupiter-sales-mk2-films-1237062963/
+
+EXCLUSIVE: Paris-based mk2 films has acquired international sales rights to Carlos Reygadas long-awaited new feature Heil Jupiter! ahead of its world premiere at the New York Film Festival in late September. The radical filmmaker s first feature since Our Time in 2018, Heil Jupiter! is billed as a visionary cinematic experience and a nightmarish reflection on [ ]
+
+### Dolly Parton Laid To Rest In Same Nashville Cemetery As Late Husband
+Mon, 31 Aug 2026 03:59:25 +0000 — https://deadline.com/2026/08/dolly-parton-buried-funeral-1237063013/
+
+Dolly Parton was laid to rest Friday in a small, private service, per the singer s wishes. The ceremony was confirmed by her great-niece, Lainey Parton, who posted a remembrance on social media. This is a really hard post for me to make. I wanted to wait until after my granny was laid to rest yesterday [ ]
+
+### I m Back : Rams Superstar Aaron Donald Unretires, Will Rejoin Team This Season As It Vies For Super Bowl Berth
+Mon, 31 Aug 2026 01:41:15 +0000 — https://deadline.com/2026/08/aaron-donald-unretires-rejoins-rams-1237063001/
+
+L.A. Rams fans and TV executives are both smiling today about the same thing. Aaron Donald, the all-world defensive tackle who led the Los Angeles to a Super Bowl victory in 2022, announced today that he will come out of retirement this season. The team confirmed the news by sharing a letter on Rams letterhead [ ]
+
+### Your Move, Mr. Governor: CA Post Production Tax Incentive Bill Passes State Senate; Moves To Newsom s Desk
+Sun, 30 Aug 2026 23:31:28 +0000 — https://deadline.com/2026/08/ca-post-production-tax-incentive-bill-passes-1237062985/
+
+State support for the contracting L.A. film and TV industry is now in the hands of California Governor Gavin Newsom and some (hoperfully) very creative accountants. With just hours to spare, the California State Senate passed SB 2319 by a vote of 33-5. The legislation creates a separate tax incentive for the post-production industry. The [ ]
+
+### Hollywood Cliffhanger: Can U.S. Summer Box Office Ring Up All-Time Record $4.8 Billion?
+Sun, 30 Aug 2026 22:34:50 +0000 — https://deadline.com/2026/08/box-office-summer-2026-near-record-1237062959/
+
+The summer domestic box office is so close so close to hitting an all-time record, which would surpass the $4.756 billion held by summer 2013. Currently, per Rentrak, the North American box office for the first Friday in May through EOD today stands at $4.598 billion, officially the second-highest summer ever behind 2013. If this summer [ ]
+
+### Matt Bradley NBC News Team Recovering Well After Israeli Settlers Attack In West Bank
+Sun, 30 Aug 2026 22:32:31 +0000 — https://deadline.com/2026/08/matt-bradley-nbc-news-recovering-israeli-settlers-attack-1237062952/
+
+An NBC News team is safe in Tel Aviv after being attacked on camera by Israeli settlers in the West Bank. On Sunday s episode of Today, foreign correspondent Matt Bradley revealed that his team is recovering well after they all took hits during an interview the day before with elderly Palestinian woman Aida Ahmed Abdullah, [ ]
+
+### Days of Thunder s Randy Quaid Calls Anne Hathaway Horrible Choice For Sequel In Problematic Diatribe: She s Pregnant
+Sun, 30 Aug 2026 21:11:14 +0000 — https://deadline.com/2026/08/days-of-thunder-randy-quaid-calls-anne-hathaway-horrible-sequel-1237062926/
+
+More than 35 years later, Cole Trickle s new leading lady has ruffled some feathers for a previous Days of Thunder co-star. After Anne Hathaway was announced to join Tom Cruise in Paramount s Days of Thunder 2, Randy Quaid had some unsavory words for the Oscar-winning actress, who is currently pregnant with her third child. We [ ]
+
+### ‘Buddy’ Busts Out, Scares Up No. 6 Spot, Sets Record For Roadside Attractions, Saban – Specialty Box Office
+Sun, 30 Aug 2026 20:51:14 +0000 — https://deadline.com/2026/08/indie-film-box-office-buddy-r-rated-horror-comedy-busts-out-1237062910/
+
+Dark comedy Buddy from Roadside Attractions and Saban Films blew past expectations to set a few records for Roadside Attractions as its top opening since Covid and second-best ever after I Can Only Imagine (2018, $17 million). From the producers of Weapons, the feature directorial debut of Casper Kelly scared up a no. 6 spot [ ]
+
+### Venice Film Festival Changes Course To Reinstate Jury Press Conference: How It Went Down
+Sun, 30 Aug 2026 20:34:01 +0000 — https://deadline.com/2026/08/venice-film-festival-uturn-reinstates-jury-press-conference-1237062875/
+
+Good news. The Venice Film Festival has reinstated its jury press conference, overturning an unusual move to scrap the traditional opening event this year. The festival responded to Deadline s inquiry on Sunday by confirming that the press conference was now on. A day earlier, the A-list festival, which kicks off on Wednesday, had told Deadline [ ]
+
+### Kacey Musgraves Continues Boston Show As Fire Breaks Out On Stage
+Sun, 30 Aug 2026 19:41:58 +0000 — https://deadline.com/2026/08/kacey-musgraves-continues-boston-show-fire-on-stage-1237062905/
+
+Kacey Musgraves managed to keep her cool as a small fire broke out on stage at her latest Middle of Nowhere Tour stop. On Saturday, the 8x Grammy winner continued her set as the blaze burned far above her head, seemingly after ignited by pyrotechnics during Musgraves Golden Hour performance. That looks bad, she said [ ]
 
 ### Spider-Man: Brand New Day Odyssey In Global Brawl Atop Late Summer Frame; Universal First To Cross $3B Overseas YTD Worldwide Update
 Sun, 30 Aug 2026 17:43:43 +0000 — https://deadline.com/2026/08/box-office-global-spider-man-odyssey-dog-stars-bombs-universal-1237062804/
 
 In the deepest of summer, Odysseus came close to throwing Spider-Man off the top of the global weekend box office, but the aranea superhero had the upper hand over the crusty ole warrior, $66.2M to $62.9M. Spider-Man: Brand New Day was in its fifth session, taking its global count to $2.33B ($1.44B int l, $891.5M domestic), [ ]
-
-### Guy Pearce Gives Priscilla, Queen Of The Desert 2 Filming Update
-Sun, 30 Aug 2026 16:07:10 +0000 — https://deadline.com/2026/08/guy-pearce-priscilla-queen-of-the-desert-2-filming-update-1237062780/
-
-A year after the loss of their Bernadette Bassenger, Priscilla is tuning up for another fabulous adventure across the Australian Outback. Guy Pearce recently gave an update on the production timeline for the sequel to 1994 s The Adventures of Priscilla, Queen of the Desert, following co-star Terence Stamp s death at age 87 last August. Well, [ ]
-
-### In Latest Threat Of Regulatory Retaliation, Donald Trump Says He ll Report NBC News Kristen Welker To FCC For Rebuke Or Punishment
-Sun, 30 Aug 2026 16:03:11 +0000 — https://deadline.com/2026/08/trump-kristen-welker-nbc-fcc-1237062773/
-
-Donald Trump went off on NBC News Meet the Press moderator Kristen Welker on Sunday, vowing to report her to the FCC for rebuke or punishment, even as the agency is defending itself in a lawsuit brought by ABC alleging regulatory retaliation. The issue: A comment Welker made about the president s endorsement record. On Truth [ ]
-
-### Dog Eats Dog At Box Office As Coyote Vs. Acme Prevails At No. 2 With $15M+, Dog Stars Tanks; Spidey Swings Closer To $900M Box Office Update
-Sun, 30 Aug 2026 15:18:00 +0000 — https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/
-
-SUNDAY AM: Ketchup Entertainment s theatrical rescue of Warner Bros Animation s Coyote vs. Acme hit its forecast with a very solid $15.4M opening in what is now the No. 2 film at the weekend box office, which was ruled again by Sony/Marvel Studios Spider-Man: Brand New Day s $22.2M fifth frame. Even more amazing is that Coyote [ ]
-
-### Leanne Morgan Had To Give LA Writers Grace To Capture Her Southern Voice: They re In A Bubble Out There
-Sun, 30 Aug 2026 03:25:43 +0000 — https://deadline.com/2026/08/leanne-morgan-give-la-writers-grace-capture-southern-voice-1237062743/
-
-With Season 2 of her namesake series now available to stream on Netflix, Leanne Morgan is praising her writers for capturing her Southern voice. The Leanne star recently discussed the culture shock of relocating from Tennessee to Los Angeles to film the sitcom, noting that she was worried her writers room would stereotype the South [ ]
-
-### Jelly Roll Slams Politicians On Both Sides For Sh*t Job, Addresses 2024 Trump Photo: A Handshake Is Not An Endorsement
-Sun, 30 Aug 2026 02:47:35 +0000 — https://deadline.com/2026/08/jelly-roll-slams-politicians-sht-job-2024-trump-photo-1237062738/
-
-After Jelly Roll avoided discussing his politics at the Grammy Awards in February, he peeled off the band-aid this week with a heartfelt speech. During his final night as Jimmy Kimmel Live! guest host on Friday, the 3x Grammy winner opened up about watching people decide who I am, what I am, what I believe, [ ]
-
-### Tom Hardy s Debut Rap Album Features Busta Rhymes, Method Man A Bane Cameo
-Sat, 29 Aug 2026 23:51:46 +0000 — https://deadline.com/2026/08/tom-hardy-debut-rap-album-busta-rhymes-method-man-bane-1237062711/
-
-After years of sharing his talent on the big screen as Tom Hardy, Frankie Pulitzer has officially arrived to drop some bangers. On Friday, the Oscar nominee s rap persona released his 15-track debut album Czarface Meets Frankie Pulitzer, made in collaboration with hip-hop collective Czarface, and featuring appearances from Busta Rhymes, Method Man and EL-P, [ ]
-
-### Ali G: Who Iz I? Sparks Calls For Theater Boycott, Trailer Slammed Over Racist Stereotypes
-Sat, 29 Aug 2026 21:45:48 +0000 — https://deadline.com/2026/08/ali-g-who-iz-i-trailer-theater-boycott-racist-caricature-1237062699/
-
-Sacha Baron Cohen s attempt to brush off an old character with Ali G: Who Iz I? is not going over without controversy. Following the release of the trailer for the Amazon MGM Studios sequel, an email campaign began on watchdog site NewsCord, sending more than 40,000 emails urging theaters to leave the film off its [ ]
-
-### Owner Of Heated Rivalry Cottage Did Soul Searching Before Agreeing To Season 2: I m A Private Guy
-Sat, 29 Aug 2026 20:53:57 +0000 — https://deadline.com/2026/08/owner-heated-rivalry-cottage-soul-searching-season-2-1237062692/
-
-After introducing the hottest piece of property in Canada, Heated Rivalry fans can expect a return to the cottage in Season 2. Michael Kutryk, the Toronto doctor who owns the Muskoka home that served as Shane s (Hudson Williams) cottage in the Season 1 finale The Cottage , recalled that the show had a very small budget [ ]
-
-### Acclaimed, Controversial Play Downstate Gets Broadway Marquee; Scott Rudin Reportedly Producing With Joe Mantello Directing
-Sat, 29 Aug 2026 19:12:06 +0000 — https://deadline.com/2026/08/downstate-broadway-scott-rudin-joe-mantello-1237062672/
-
-The marquee at Broadway s Booth Theatre appears to confirm the rumors: Bruce Norris acclaimed and controversial play Downstate will take up residence at the venue in an upcoming production directed by Joe Mantello. The news was first reported by the Chicago Tribune the play premiered in 2018 at Chicago s Steppenwolf Theatre Company with [ ]
-
-### Venice Film Festival Scraps Jury Press Conference
-Sat, 29 Aug 2026 18:02:03 +0000 — https://deadline.com/2026/08/venice-film-festival-scraps-jury-press-conference-1237062641/
-
-The Venice Film Festival has taken the unusual step of scrapping its main jury press conference this year, we can reveal. The festival, which gets underway next week, hasn t made a public statement to confirm the break from protocol but confirmed the move to us after multiple requests to know if it was going ahead. [ ]
-
-### Anne Hathaway Joins Tom Cruise In Days Of Thunder 2 At Paramount
-Sat, 29 Aug 2026 16:59:44 +0000 — https://deadline.com/2026/08/anne-hathaway-tom-cruise-days-of-thunder-2-1237062516/
-
-Paramount Pictures is really revving its engines on the upcoming Days of Thunder 2 starring Tom Cruise, with Anne Hathaway now set to join Cruise in the sequel. Cruise revealed the news Saturday on his social platforms featuring a picture of the two A-listers leaning against a NASCAR race car in Daytona. The post also [ ]
 

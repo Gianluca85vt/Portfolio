@@ -1,6 +1,11 @@
-# Tech — harvested 2026-08-30T19:26:27.779Z
+# Tech — harvested 2026-08-31T11:08:18.608Z
 
 ## Ars Technica
+
+### A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history
+Sun, 30 Aug 2026 21:40:56 +0000 — https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/
+
+Here at Ars, we're intimately familiar with data leaks surrounding Valve's games , hardware , and the workings of Steam itself . But nothing could have prepared us for this weekend's "terarelease" encompassing more than 12TB of content related to seemingly every title available on Steam between 2003 to 2013. What's being sold as an "as-complete-as-possible ... content server dump" of Steam's defunct "Steam2" server architecture from that time period is now circulating around via a BitTorrent tracker that Valve seems unlikely to ever completely purge from the Internet. The massive collection includes thousands of "depots" representing what seems to be every version of every game uploaded to those old Steam2 servers. That includes public release builds, of course, but in many cases also covers previously unseen pre-release, prototype, and playtest versions of popular titles published by Valve and third-party Steam publishers. Steam2: Electric Boogaloo The reason this weekend's leaked content cuts off abruptly in 2013 is because that's when Valve updated its content distribution system from "Steam2" to the current SteamPipe system . In moving from a proprietary file distribution format to standard HTTP file trees, the new system removed various update approval bottlenecks on Valve's end and streamlined update and patch downloads so they only reflected file differentials. Read full article Comments ]]>
 
 ### Why it matters that President Trump just dialed into a NASA news conference
 Sun, 30 Aug 2026 17:40:30 +0000 — https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/
@@ -12,27 +17,12 @@ Sun, 30 Aug 2026 11:03:47 +0000 — https://arstechnica.com/ai/2026/08/inside-me
 
 Meta is testing robots that can plug in cables, reset servers, and handle other tasks inside its data centers , according to several current and former workers familiar with the projects. The ongoing effort, which has not been previously reported, may eventually allow Meta to operate its rapidly expanding data center footprint with fewer humans, keeping labor costs in check as its spending on AI infrastructure soars . Meta is using robots and related hardware from several different vendors, including Watney Robotics, Kinova, and ABB, according to the same workers, who asked to remain anonymous because they weren’t authorized to speak to the media. Kinova and ABB declined to comment. Watney didn’t respond to requests for comment. In one experiment, Meta is evaluating whether a Kinova Gen3 robotic arm could be used for power cycling or cutting off electricity to servers. The company is also testing a different robot to swap networking cables. One Meta data center worker estimates that if it’s successful, the bot could replace up to 80 percent of some people’s workloads. “We thought those of us performing the physical tasks were safe for a while, but not anymore,” says the worker. “It’s coming for us all, unfortunately.” Read full article Comments ]]>
 
-### I asked 100 companies for my data. Some deleted it instead.
-Sat, 29 Aug 2026 10:50:31 +0000 — https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/
-
-I filed a request with McDonald’s earlier this month to access all of the personal data the fast food company collected about me, and I received a stunning 515-page report a few days later that detailed my app interactions in granular detail and predicted I would never stop eating there. Under the California Consumer Privacy Act , I have the legal right to request access to information from large companies that collect personal data. So I was curious what others might have on me, and I spent the next week filing more than 100 requests. The CCPA went into effect in 2020, and three of its key provisions are the right to opt out of the selling of personal information, the right to delete that info, and the right to request a copy for yourself. Read full article Comments ]]>
-
-### Court rules Kalshi sports bets aren't "swaps," just gambling with a different name
-Fri, 28 Aug 2026 22:14:52 +0000 — https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/
-
-Kalshi today lost a major ruling over whether it can evade state gambling laws, as a federal appeals court found that Nevada can stop the prediction market from allowing sports bets. While the Trump administration is trying to help prediction markets avoid state regulation, a panel of three Trump-appointed judges unanimously ruled against Kalshi in today's decision from the US Court of Appeals for the 9th Circuit. The Nevada Gaming Control Board today said the 9th Circuit "emphatically reject[ed] the view that the federal Commodity Exchange Act preempts application of Nevada’s gaming laws to sports-event contracts offered by Kalshi, Crypto.com, and Robinhood." Nevada Governor Joe Lombardo, a Republican, said that "prediction markets offering sports-event contracts constitute gambling and must comply with Nevada’s gaming laws and regulatory framework." The judges affirmed a district court order that let Nevada enforce state laws against Kalshi’s sports-related event contracts. Read full article Comments ]]>
-
-### Cities terminate Flock contracts at record pace in August
-Fri, 28 Aug 2026 21:33:54 +0000 — https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/
-
-New data compiled by a Bay Area anti-surveillance advocacy group shows that not only are American localities dropping cameras from Flock Safety, but they are doing it at an accelerating rate. Communities from Lansing, Michigan, to Pflugerville, Texas, are ending their relationship with Flock, largely over concerns regarding out-of-control surveillance, unwanted data sharing, high expenses, and reports of police abusing the tool . Secure Justice , an Oakland-based advocacy group, has recorded 214 cities and counties that have dropped Flock since 2021 . Of those, 90 ended their relationship with Flock in August 2026 alone, a fourfold increase compared to the previous month. Read full article Comments ]]>
-
-### "RFK Jr. has lied to the Senate": Lawmakers call for criminal probe, ouster
-Fri, 28 Aug 2026 21:17:38 +0000 — https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/
-
-Senators are renewing calls for anti-vaccine Health Secretary Robert F. Kennedy to step down or be ousted—and at least one is calling for a criminal investigation—amid the release of documents they say prove Kennedy lied to them during his confirmation hearings last year. "This is a pattern, not a slip," Sen. Edward J. Markey (D-Mass.) said in a statement. "RFK Jr. has lied to the Senate, lied to the American people, and jeopardized the health of children to advance his anti-vaccine agenda." Sen. Ron Wyden (D-Ore.) said in a social media post Friday that the documents were "Proof we got RFK lying on the record during his confirmation hearing (a crime)." He called for the matter to be referred to the US Department of Justice for a criminal investigation. In a separate statement to The Guardian , Wyden added that "RFK's platform is built on lies and grifts that leave a trail of dead children in their wake. There are consequences for lying to Congress." Read full article Comments ]]>
-
 ## The Verge
+
+### Professor Murder Rides the Subway is a forgotten slice of dance punk perfection
+2026-08-30T17:18:59-04:00 — https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review
+
+I recently dug out my CDs and started reripping them all . I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you to let loose, dance like no one was watching, and just have some damn fun. Few embodied that as much as New York dance punk band Professor Murder. LCD Soundsystem and The Rapture were the biggest names of the dance punk revival. But there were also bands like Rahim, Liars, Dan Deacon, and countless lesser-known acts on DFA that you could see on any giv … Read the full story at The Verge. ]]>
 
 ### Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets
 2026-08-30T15:14:08-04:00 — https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3
@@ -49,7 +39,7 @@ NASA’s Nancy Grace Roman Telescope blasts off. | Photo: NASA / John Kraus Afte
 
 As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, allegedly to help fight catalytic converter theft. Flock cameras have increasingly drawn ire from across the political spectrum as they've become the subject of privacy concerns. There have been multiple incidents of officers being placed on leave or criminally charged for misusing Flock systems, including at … Read the full story at The Verge. ]]>
 
-### Chess.com launched a poker site and is planning even more classic games
+### Chess.com launched a poker site, and it’s planning even more classic games
 2026-08-30T09:00:00-04:00 — https://www.theverge.com/games/986302/chess-poker-expansion-gambit
 
 Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit , a free online poker website where players can learn the game without risking any real money. Now Gambit's ready to really get the ball rolling with its first livestreamed event and collaborations with content creators, and Chess.com is planning to branch out into even more games from here. Chess.com's chief growth officer, Albert Cheng, told The Verge the company chose poker for its first companion site because, like ches … Read the full story at The Verge. ]]>
@@ -79,12 +69,22 @@ Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the
 
 Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for "tens of thousands" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the damages could amount to several billion dollars if a court finds in Sony and Warner's favor and awards the maximum amount. This is just the latest high-profile suit against Anthropic, which recently settled a suit brought by the publishing industry for $1.5 billion . It's also faced multiple la … Read the full story at The Verge. ]]>
 
-### Distraction-free writing gadget BYOK is adding custom extensions
-2026-08-29T12:01:13-04:00 — https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions
-
-BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text drafting. Certain users, though, need more. They want BYOK to take notes, they want to use it for writing screenplays, or maybe they want to organize a sprawling novel. Balancing the wants and needs of these more demanding users has been a challenge that BYOK founder Nick Sjolinder has been trying to figure out how to tackle. … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### China's CXMT beats Western chipmakers to announcement of LPDDR6 mass production — Xiaomi smartphones to debut industry’s first LPDDR6 chips
+Mon, 31 Aug 2026 10:30:00 +0000 — https://www.tomshardware.com/pc-components/dram/chinas-cxmt-beats-western-chipmakers-to-announcement-of-lpddr6-mass-production-xiaomi-smartphones-to-debut-industrys-first-lpddr6-chips
+
+ChangXin Memory Technologies (CXMT) has announced in a social media post that it has started mass production of LPDDR6 memory for a Xiaomi smartphone, Reuters reports . This is not entirely unexpected given the general LPDDR6 mass-production timeline, but the announcement is still surprising because two China-based companies are ahead of industry announcements. Yet, there are caveats. Go deeper with TH Premium: Memory (Image credit: SK Hynix) AI data centers are swallowing the world's memory and storage supply Samsung debuts three next-generation memory technologies for AI data centers The future of DRAM: From DDR5 to future ICs High-bandwidth memory roadmap Inside the history of DRAM price-fixing lawsuits LPDDR6 is perhaps the most substantial upgrade to the GDDR-class memory ever. Firstly, it uses PAM3 signaling, which encodes 3 bits of information across two symbols, compared with the NRZ signaling used by LPDDR5/LPDDR5X. Second, the data transfer rate increases to 43.2 GT/s. Third, the reduced I/O width from 32 bits to 24 bits requires rework at both the hardware and software levels. Given the differences between LPDDR5 and LPDDR6, the most important factor here is not exactly LPDDR6 manufacturing, but a broader view. On the one hand, CXMT reached mass production of LPDDR6 roughly at the same time as the established DRAM leaders, meaning it is on par with them, if not ahead. This marks a substantial change from earlier generations, when Chinese DRAM technology generally l
+
+### Diehard Asus customer gets RMA denied for a cheap 2.4 GHz headset receiver despite spending more than $30,000 with the brand — firm refuses to send a cheap dongle, then relents after social media backlash
+Mon, 31 Aug 2026 10:00:00 +0000 — https://www.tomshardware.com/peripherals/diehard-asus-customer-gets-rma-denied-for-a-cheap-2-4-ghz-headset-receiver-despite-spending-more-than-usd30-000-with-the-brand-firm-refuses-to-send-a-cheap-dongle-then-relents-after-social-media-backlash
+
+An ardent Asus customer who's bought over $30,000 worth of the company's products recently had his brand loyalty put to the test. Lucas ( u/lucaslucaalucas123 ) wanted a replacement for the 2.4 GHz wireless receiver that came with his ROG Delta II KJP gaming headset, but was denied support because accessories aren't covered under warranty. He took to Reddit to express his disappointment and was met with a hopeful reply in the comments. ASUS support has been a nightmare over a simple 2.4 GHz headset receiver from r/ASUSROG The OP brought receipts (literally) to prove his unwavering commitment to the brand, with screenshots showcasing at least 18 different items bought just this year alone. In the second picture, we can see the ROG Delta headset was purchased in April, and it's still under warranty till 31 January 2027. This is a premium headset ; it costs $270 normally, though it's on sale for just $199 on Best Buy right now. Asus' official support policies say that free accessories, such as a mouse with a laptop, are not covered under warranty. But accessories bundled with peripherals are indeed covered under the same terms as the peripheral itself. Since a wireless receiver is a key component of the headset, it should be replaced in case of a defect or hardware failure. However, if you lose it or break it yourself, that's a different story. The replacement item in question (Image credit: Asus) Since the customer was asking for a replacement outright instead of opening a tick
+
+### Man uses robot vacuum to covertly record his wife's affair, wins divorce settlement but gets sentenced to prison for making an illegal recording — Husband lands behind bars after counter-suit over privacy rights
+Mon, 31 Aug 2026 09:30:00 +0000 — https://www.tomshardware.com/tech-industry/man-uses-robot-vacuum-to-covertly-record-his-wifes-affair-wins-divorce-settlement-but-gets-sentenced-to-prison-for-making-an-illegal-recording-husband-lands-behind-bars-after-counter-suit-over-privacy-rights
+
+In a strange turn of events under Taiwanese law, both parties in a judicial contest lost against each other . A man sued his wife for having an extramarital affair and used footage from a robot vacuum to prove his case. He ultimately won the lawsuit and was awarded a healthy ~$19,000 USD in compensation for emotional distress, but since he secretly recorded his wife, she sued him back for invading her privacy. The courts ruled in her favor, forcing the man to pay a fine equal to 30% of what he'd just earned, along with a sentence of five months in prison. The couple got married in 2021 and used to live with their parents, but they would occasionally spend time in their holiday home. During a vacation in 2023, the man discovered a used toothbrush in their bathroom, sparking suspicion that was confirmed by checking CCTV footage from a parking garage. In the footage, he saw another person who had driven his wife home before, hypothesizing him as his wife's partner in crime. Three months later, he used a robot vacuum app to try to remotely contact his wife but, upon doing so, stumbled upon something shocking: The footage from the robot vacuum's camera showed his wife changing her clothes, getting in bed with the same person he had previously identified, and walking around the house naked while the other man comfortably sank into their sofa. He recorded the entire thing to use as evidence in a lawsuit that he brought shortly after. Cheating is not a criminal offense under Taiwanes
 
 ### Speedy 34-inch 240 Hz ultrawide OLED monitor now $600 off — LG UltraGear 34GX900A-B only $599.99
 Sun, 30 Aug 2026 18:08:43 +0000 — https://www.tomshardware.com/monitors/gaming-monitors/speedy-34-inch-240-hz-ultrawide-oled-monitor-now-usd600-off-lg-ultragear-34gx900a-b-only-usd599-99
@@ -131,22 +131,42 @@ Sun, 30 Aug 2026 11:30:00 +0000 — https://www.tomshardware.com/pc-components/d
 
 China's leading DRAM producer ChangXin Memory Technologies (CXMT) has filed a lawsuit against the U.S. Department of Defense in an attempt to overturn its classification as a company linked to China's military, Reuters reports. CXMT claims that it has no connection to the Chinese People's Liberation Army, and argues that the Pentagon's decision lacks supporting evidence, violated due-process requirements, and has damaged both its business and reputation. The Pentagon initially classified CXMT as a Chinese military company in January 2025, when Joe Biden was the president. The Trump administration subsequently maintained the designation when the Defense Department updated the list in June. CXMT says it spent more than a year supplying information to the Defense Department in an attempt to overturn the classification and remove itself from the list. The company claims the DoD published a notice in February indicating that CXMT would be taken off the list but withdrew that notice later the same day without any explanation. In June, the Pentagon classified CXMT as 'directly affiliated with MIIT and indirectly affiliated with SASAC and MIIT.' MIIT is China's Ministry of Industry and Information Technology, whereas SASAC is the State-owned Assets Supervision and Administration Commission of the State Council, an organization that formally owns the government's stakes in non-financial state-owned enterprises. While CXMT memory can certainly be found in systems used by the PLA or Chi
 
-### Corsair RM1000e (2026) ThermalProtect power supply review: Temperature-sensing 12V-2x6 cable shuts the GPU down before a connector can melt
-Sun, 30 Aug 2026 11:05:00 +0000 — https://www.tomshardware.com/pc-components/power-supplies/corsair-rm1000e-2026-thermalprotect-power-supply-review
-
-Corsair has been selling power supplies for long enough that most builders have owned one without ever thinking about it. The company started in California in 1994 making memory modules, moved into cases and cooling, then peripherals, and picked up power supplies somewhere along the way. It has been nearly two decades since its first PSU launch, and today its PSU catalog runs from small SFX units up to 2000W flagships. Like almost every brand, Corsair commissions platforms from OEMs - CWT, Seasonic, Great Wall, and HEC have all had their turn - and the quality of any given Corsair unit has always been affected by it. Regardless, we should note that Corsair’s engineers typically alter the core platform significantly to improve its performance and reliability. What the company reliably adds on top of the hardware is distribution, a reputable RMA operation, and warranty terms that are a little better than the tier would suggest. The RMe line is the mainstream series of Corsair’s huge lineup, sitting below the RMx and a longer way below the HXi and AXi units. It has been through several revisions since 2022. The 2026 version launched on the 18th of August and brings just one significant change, which is the 12V-2x6 cable. Every 2026 RMe unit now ships with a ThermalProtect 12V-2x6 cable, a 600W cable with a temperature sensor built into the comb near the graphics card end, providing hardware aimed at the melting-connector problem rather than a leaflet warning about it. Another no
-
-### Poor liquid metal application almost destroys Asus Zephyrus M16 laptop, eats through the processor lid — paste replacement triples framerates, drops temps, and eliminates hard crashes
-Sun, 30 Aug 2026 11:00:00 +0000 — https://www.tomshardware.com/laptops/gaming-laptops/poor-liquid-metal-application-almost-destroys-asus-zephyrus-m16-laptop-eats-through-the-processor-lid-paste-replacement-triples-framerates-drops-temps-and-eliminates-hard-crashes
-
-Asus has been putting liquid metal on mobile dies used in its laptops for a few years at this point. Liquid metal as a TIM has its place, but it's a highly inconsistent solution to a problem that can be solved by other materials. Such was the case with u/nicknickmeetnick, whose Zephyrus M16 gaming laptop was overheating and restarting on its own. Turns out, the instability came from an issue born from the factory — the liquid metal applied on the CPU had slowly eaten away at the heatsink and almost reached the silicon itself. Liquid Metal should be forbidden! The only good about it is the corrosion it causes makes the new thermal paste more efficient being closer to the core. from r/ZephyrusM16 The post above explains the ordeal in detail and how the user ultimately fixed their problems. The laptop in question is a Zephyrus M16 model from 2022 with an Intel Core i9-12900H processor that was bought just over three years ago. During this period, the laptop was mostly used for lightweight tasks instead of gaming or anything that'd stress it. However, as of late, Nick started to run into various issues where his laptop would overheat and thermal throttle to the point of hard-crashing. Before it'd crash, performance in games would already be degraded. Nick felt his machine was getting warmer than usual, so he ordered some PTM7950 phase change material to repaste the aging hardware. He was ready to use GD900 thermal paste, but upon opening the laptop, he discovered something shocki
-
-### Modders solder power cables directly to RTX 5090 PCB to eliminate notorious melting 16-pin connector — bare-board Galax HOF card pulls 600W under chiller cooling
-Sun, 30 Aug 2026 10:30:00 +0000 — https://www.tomshardware.com/pc-components/gpus/modders-solder-power-cables-directly-to-rtx-5090-pcb-to-eliminate-notorious-melting-16-pin-connector-bare-board-galax-hof-card-pulls-600w-under-chiller-cooling
-
-Ever since the Nvidia GeForce RTX 5090 launched (and the RTX 4090 before it), reports of the card burning down have been commonplace in the community. The culprit behind the GPU's incendiary nature is the 16-pin power connector that's notorious for being unreliable... so what if we got rid of it in the first place? That's what Brazilian YouTuber TecLab did in their latest experiment — stripping an RTX 5090 down and powering it through wires directly soldered to the PCB. The GPU used for this test was a very high-end Galax HOF OC LAB XOC variant of the RTX 5090D . Unlike standard RTX 5090s that come with a single 16-pin connector for their 575W TDPs, this bad boy is equipped with twice the firepower (literally) since you can use up to 2,000W OC BIOSes on it. That already sounds like a bad idea, but TecLab went further and removed the heatsink and fans entirely to liquid-cool the core. The modders took two sets of wires and soldered them right above either power connector on the PCB, linking them to the connectors' traces. They used two adapters to intercept standard 16-pin power cables coming from a PSU and convert them into bare wires that could be soldered easily. From the looks of it, the poor soldering job was only going to put these guys in more danger, but it somehow worked. (Image credit: TecLab on YouTube) The card booted and ran just fine, even benchmarking pretty well. Remember, there was no cooler on the GPU. Instead, it was being tamed by two 120mm fans loosely zip
-
 ## Phoronix
+
+### Servo 0.5 Released: DuckDuckGo Properly Rendering, Up To 10x Faster Text Rendering
+Mon, 31 Aug 2026 06:36:28 -0400 — https://www.phoronix.com/news/Servo-0.5-Released
+
+Servo 0.5 is out today as the newest monthly update to this open-source, Rust-based browser engine. Servo 0.5 ships many notable enhancements for benefiting those running the Servoshell example browser or looking at Servo as an opportunity for embedded use...
+
+### New Linux Patches Tune AMD Ryzen Zen 6 To Optimize Performance & Power Consumption
+Mon, 31 Aug 2026 06:23:32 -0400 — https://www.phoronix.com/news/AMD-Zen-6-Client-EPP-Tunings
+
+Ahead of the next-generation AMD Ryzen Zen 6 client processors debuting, an important patch series was posted overnight to the Linux kernel mailing list. These patches provide new Zen 6 client Energy Performance Preference "EPP" tunings that are important for optimizing performance and power consumption for these upcoming AMD Zen 6 desktop and laptop processors...
+
+### A Faster Merge Sort For Mesa 26.3 Vulkan Drivers To Benefit Ray-Tracing
+Mon, 31 Aug 2026 06:07:13 -0400 — https://www.phoronix.com/news/Mesa-Vulkan-Faster-Sorting
+
+One of the latest optimizations to the Mesa Vulkan drivers by Natalie Vock of Valve's Linux graphics team is faster and more vRAM efficient sorting for Morton code keys that are important for fast BVH construction and greater GPU parallelism...
+
+### NVIDIA VA-API Driver 0.0.18 Ships More Fixes, Chrome/Chromium Decode On Direct Backend
+Mon, 31 Aug 2026 05:48:13 -0400 — https://www.phoronix.com/news/NVIDIA-VA-API-Driver-0.0.18
+
+Firefox has finally begun supporting Vulkan Video decoding to complement their long-used VA-API support on Linux. This is good news for the official NVIDIA Linux graphics driver stack as it's been the notable vendor not supporting the Video Acceleration API. But prior to Firefox rolling out its experimental Vulkan Video support, an independent implementation of VA-API built atop NVIDIA's NVDEC interface has been available for supporting GPU video acceleration in Firefox. That project is out today with its newest release...
+
+### Linux 7.3-rc1 Close To 41 Million Lines, AMD Kernel Graphics Driver At 6.5 Million Lines
+Sun, 30 Aug 2026 20:23:22 -0400 — https://www.phoronix.com/news/Linux-7.3-rc1-Code-Stats
+
+With Linus Torvalds remarking in the Linux 7.3-rc1 release announcement of the AMD kernel graphics driver changes for amounting around a third of the -rc1 changes due to the big AMD GPU register files for DCN 6.0 and other new IP additions, here are some fresh code stats at large...
+
+### Linux 7.3-rc1 With AMD Zen 6 Additions, Better Btrfs Performance & 2026 Steam Controller
+Sun, 30 Aug 2026 17:51:00 -0400 — https://www.phoronix.com/news/Linux-7.3-rc1-Released
+
+Like clockwork, the Linux 7.3 merge window has concluded after two weeks and the Linux 7.3-rc1 kernel now available for testing...
+
+### OpenShot 4.0 Released In Adapting Video Editor UI To Qt6
+Sun, 30 Aug 2026 15:55:27 -0400 — https://www.phoronix.com/news/OpenShot-4.0
+
+OpenShot 4.0 was tagged this afternoon on GitHub as the newest major feature release to this open-source non-linear video editing application...
 
 ### Linux 7.3 Lands More Audio Workarounds For Laptops & Other Devices
 Sun, 30 Aug 2026 11:06:42 -0400 — https://www.phoronix.com/news/Linux-7.3-More-Sound
@@ -172,39 +192,4 @@ Upstreamed to the FFmpeg multimedia driver code this weekend is support for Fram
 Sun, 30 Aug 2026 06:41:00 -0400 — https://www.phoronix.com/news/Linux-7.3-KVM
 
 The Kernel-based Virtual Machine "KVM" changes have landed for the Linux 7.3 merge window that is wrapping up later today...
-
-### Linux 7.3 Introduces 8250_mxpcie Driver For Moxa PCIe Multi-Port Serial Boards
-Sun, 30 Aug 2026 06:28:05 -0400 — https://www.phoronix.com/news/Linux-7.3-Serial
-
-The TTY/Serial code changes for Linux 7.3 were merged this week and include dropping the dated IPWireless driver while introducing the new 8250_mxpcie driver...
-
-### RTL8723BS Driver Continues Dominating The Staging Area Activity For Linux 7.3
-Sat, 29 Aug 2026 20:33:50 -0400 — https://www.phoronix.com/news/Linux-7.3-Staging
-
-Upstreamed back in 2017 for Linux 4.12 was the RTL8723BS driver in the kernel's staging area. Nine years later it remains in staging and remains a frequent target for clean-ups and code improvements as it tries to work its way out...
-
-### FreeBSD 14.5-RC1 Released With Several Security Fixes
-Sat, 29 Aug 2026 15:16:11 -0400 — https://www.phoronix.com/news/FreeBSD-14.5-RC1
-
-Ahead of FreeBSD 14.5-RELEASE hopefully debuting on 8 September, FreeBSD 14.5-RC1 is out today as the final scheduled development release...
-
-### Another x86 Advisory From Some Entity Other Than Intel Or AMD
-Sat, 29 Aug 2026 12:24:01 -0400 — https://www.phoronix.com/news/x86-WBINVD-Advisory
-
-Last October I highlighted an interesting post on the Linux kernel mailing list around an x86 corporate entity other than Intel or AMD that left mysterious intrigue. The developer that detailed those x86 opcode/CPUID/MSR allocations back in July then detailed 16-tile and 32-tile AMX implementations again for something outside the current scope of Intel/AMD processors. Today another message is being relayed from that "corporate entity other than Intel/AMD."..
-
-### KDE Plasma 6.8 Improving Performance & Efficiency For Some Full Screen Content
-Sat, 29 Aug 2026 10:48:28 -0400 — https://www.phoronix.com/news/Plasma-6.8-Full-Screen-Perf
-
-In addition to the Union QtWidgets initial release happening this week, a number of other improvements also landed in the past few days in making Plasma 6.8 all the more exciting...
-
-### ReactOS 0.4.16 Released With New Graphical Installer, Better Hardware Support
-Sat, 29 Aug 2026 08:56:32 -0400 — https://www.phoronix.com/news/ReactOS-0.4.16-Released
-
-ReactOS 0.4.16 released today as the newest major update to this "open-source Windows" project providing an open-source OS with Windows driver and application compatibility...
-
-### F2FS With Now Handle Multi-Device Flushes In Parallel With Linux 7.3
-Sat, 29 Aug 2026 07:17:00 -0400 — https://www.phoronix.com/news/Linux-7.3-F2FS
-
-Coming in as a late pull request ahead of the Linux 7.3 merge window closing this weekend were the Flash Friendly File-System (F2FS) updates that have now made it into Linux Git...
 

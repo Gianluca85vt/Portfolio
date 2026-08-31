@@ -1,6 +1,26 @@
-# Games — harvested 2026-08-30T19:26:27.779Z
+# Games — harvested 2026-08-31T11:08:18.608Z
 
 ## Eurogamer
+
+### Fable's main story will take around 15 to 20 hours to complete
+Mon, 31 Aug 2026 11:05:50 +0000 — https://www.eurogamer.net/fable-main-story-length-15-20-hours-xbox
+
+Xbox and Playground Games have given a rough idea of how long Fable will take to finish: 15-20 hours. Read more
+
+### Ed Sheeran gives surprise performance of Pokémon anime theme and Celestial at World Championships
+Mon, 31 Aug 2026 10:41:24 +0000 — https://www.eurogamer.net/ed-sheeran-surprise-performance-pokemon-anime-theme-worlds
+
+Ed Sheeran made a surprise appearance at the Pok&eacute;mon World Championships this weekend, opening the closing ceremony with Celestial and an acoustic rendition of the original Pok&eacute;mon anime's theme tune. Read more
+
+### The Witcher 4 already runs on all target platforms - CD Projekt Red not taking any chances after Cyberpunk 2077
+Mon, 31 Aug 2026 10:10:17 +0000 — https://www.eurogamer.net/the-witcher-4-runs-on-pc-ps5-xbox-cyberpunk-2077-lessons
+
+The Witcher 4 , CD Projekt Red's next major game, will hopefully not suffer the performance problems of the studio's former major release, Cyberpunk 2077 . The developer, keenly aware of the latter's disastrous launch, has adopted a new approach to game optimisation for the former. Read more
+
+### Call of Duty: Modern Warfare 4 beta Steam numbers haven't budged in the second weekend, despite Warzone's arrival and transformative patch
+Mon, 31 Aug 2026 08:35:55 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-second-weekend-major-patch-steam-numbers
+
+We're deep in the second and final session of the Call of Duty: Modern Warfare 4 beta. This open portion is available on one more platform - Switch 2 , and can be accessed without the need for a pre-order. It also includes a sampler of Warzone's next Resurgence map and two Ground War maps, alongside all the maps and modes from the first beta weekend. None of that appears to have moved the needle, at least on Steam. Read more
 
 ### Activision sends a legal rep to a Call of Duty cheat seller's front door, films the whole thing, posts it online
 Sun, 30 Aug 2026 16:48:46 +0000 — https://www.eurogamer.net/activision-cease-and-desist-call-of-duty-cheat-maker-elocarry-video
@@ -42,26 +62,6 @@ Sat, 29 Aug 2026 12:09:49 +0000 — https://www.eurogamer.net/squadron-42-delaye
 
 Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6 . Read more
 
-### Playdate maker Panic is passing tariff refunds on to customers
-Sat, 29 Aug 2026 10:51:33 +0000 — https://www.eurogamer.net/panic-playdate-tariff-refunds-customers
-
-Panic, maker of the crank-powered handheld Playdate , is forwarding Supreme Court-ordered tariff refunds back to customers. Read more
-
-### Pokémon Tales: The Misadventures of Sirfetch'd & Pichu gets first trailer
-Sat, 29 Aug 2026 09:55:50 +0000 — https://www.eurogamer.net/pokemon-tales-sirfetchd-pichu-trailer-disney-plus
-
-The Pok&eacute;mon Company International and Aardman have released the first teaser trailer for Pok&eacute;mon Tales: The Misadventures of Sirfetch'd & Pichu, a new stop-motion series set in the Galar region. Read more
-
-### Total War: Warhammer 40,000 is aiming to be the "definitive" game for the setting, and I think it might be exactly that
-Sat, 29 Aug 2026 09:01:15 +0000 — https://www.eurogamer.net/total-war-warhammer-40000-impressions-gamescom
-
-In a small room inside a crowded Koelnesse convention centre, a short presentation on Total War: Warhammer 40,000 is shown to a gaggle of tired writers. Creative Assembly's brand manager says they're hoping to make the definitive game in the 40k universe. After playing the game for a little while, I think they may have pulled it off. Read more
-
-### What we've been playing - "Forget the classics: remaster the duds"
-Sat, 29 Aug 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-forget-the-classics-remaster-the-duds
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Kelsey didn't have to sacrifice a limb to play Elden Ring for the first time again; Bertie mucks around in the Prancing Pony with edgy Aragorn; and the rest of the team travels back from Germany. More to come from them next week! Read more
-
 ## GamesIndustry.biz
 
 _Nothing in the last 48 hours._
@@ -71,6 +71,16 @@ _Nothing in the last 48 hours._
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Fable Won t Demand Over 100 Hours of Your Time on PS5
+Mon, 31 Aug 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/08/fable-wont-demand-over-100-hours-of-your-time-on-ps5
+
+Expect around 20 hours of main story content. RPGs are bigger than they have ever been, regularly offering over 100 hours of quests and content. The new Fable from Playground Games is doing the opposite: it's staying in line with the length of the original trilogy to offer a more modest playtime. Speaking to Polygon last week, associate game director Will Kennedy explained Fable has roughly 15-20 hours of main questline gameplay, and then an extra 15-20 hours of "side and open-world exploration content" on top. Read the full article on pushsquare.com
+
+### Likely and Soon : Next State of Play Is Expected in the Coming Weeks
+Mon, 31 Aug 2026 00:15:00 GMT — https://www.pushsquare.com/news/2026/08/likely-and-soon-next-state-of-play-is-expected-in-the-coming-weeks
+
+Sony always does a September livestream. For years now, PlayStation has put on a State of Play livestream during September, and that appears likely to remain the same in 2026. The reliable leaker NateTheHate2 has posted to social media that they're trying to find out the exact date, but "a State of Play in September is looking incredibly likely and soon". Read the full article on pushsquare.com
 
 ### PS5 Blackout Protest Officially Concludes, But Campaigners Encourage Indefinite Participation
 Sun, 30 Aug 2026 19:15:00 GMT — https://www.pushsquare.com/news/2026/08/ps5-blackout-protest-officially-concludes-but-campaigners-encourage-indefinite-participation1
@@ -102,8 +112,8 @@ Sun, 30 Aug 2026 14:00:00 GMT — https://www.pushsquare.com/previews/forget-the
 
 "I see". In a tiny Gamescom booth, in the business area separated from the hustle and bustle of the Koelnmesse chaos, NEKCOM founder Xiangyu Luo and I may have become BFFs. With a translator converting my questions into Mandarin, I’m not sure how much he understood – but his eyes lit up when I made a reference to Shenmue , my all-time favourite franchise. Read the full article on pushsquare.com
 
-### Hands On: I Waited 13 Years to Play The Wolf Among Us 2, But I Have One Concern
-Sat, 29 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/features/hands-on-i-waited-13-years-to-play-the-wolf-among-us-2-but-i-have-one-concern
+### Preview: I Waited 13 Years to Play The Wolf Among Us 2, But I Have One Concern
+Sat, 29 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/previews/i-waited-13-years-to-play-the-wolf-among-us-2-but-i-have-one-concern
 
 The temp asset among us. I’ve been waiting for The Wolf Among Us 2 for an age. When I played the original, I was about 17-years-old, and my mates and I used to squeeze into my tiny bedroom to play the game on Xbox 360. So it was an odd sensation squeezing into a tiny booth at Gamescom to check out the sequel 13 years later. Read the full article on pushsquare.com
 
@@ -121,16 +131,6 @@ Here's what all the icons mean. I may be about to say something blasphemous, but
 Sat, 29 Aug 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/08/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-applied-to-major-ps5-games-after-leaking
 
 AI don't really like it. Nvidia’s controversial new DLSS 5 filter, which caused a bit of a hullabaloo earlier this year , has leaked online – and instantly been implemented into pretty much every major PS5 game on the market. While previous iterations of Nvidia’s upscaling technology have broadly been praised – using reconstruction techniques to reduce computational load without impacting image quality – this version appears to use generative AI to alter artistic intent. Read the full article on pushsquare.com
-
-### Poll: Are You Happy with Your PS Plus Essential Games for September 2026?
-Sat, 29 Aug 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-september-2026
-
-Plus or minus? Where does the time go? We're just days away from the beginning of September, if you can believe it, and that can only mean one thing: new PS Plus Essential games to (hopefully) look forward to. At a glance, I think next month's lineup has something for everyone. We've got an historically-grounded shooter, a sports sim, an indie RPG, and a quirky sandbox offering that you can play with your mates. Read the full article on pushsquare.com
-
-### Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (31st-6th September)
-Sat, 29 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/08/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-31st-6th-september
-
-Onimusha! Dawnwalker! NBA 2K! Crimson Moon! We’ve now hit the busy release schedule, with two giant PS5 titles launching next week: The Blood of Dawnwalker and Onimusha: Way of the Sword . Other titles worth paying attention to include Crimson Moon and NBA 2K27 . Read the full article on pushsquare.com
 
 ## Game Developer
 
