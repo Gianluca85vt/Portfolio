@@ -2,7 +2,7 @@
 title: "Stylized hair normals: shade it as one mass"
 date: 2026-08-31
 category: 3D
-cover: /img/blog/stylized-hair-curves-cards-normals/cover.svg
+cover: /img/blog/stylized-hair-curves-cards-normals/shot-01.jpg
 excerpt: Stylized hair fails in lighting more often than in shape. Point the normals off a scalp proxy and the clumps finally shade as one volume.
 ---
 
@@ -16,6 +16,11 @@ Everyone hits this. It is the single most common reason stylized hair reads as
 amateur, and it has nothing to do with the geometry you spent all day on.
 
 ## The problem is the surface normals
+
+<figure>
+  <img src="/img/blog/stylized-hair-curves-cards-normals/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Vivien Lulkowski / Blender Foundation, Sprite Fright concept art, CC BY 4.0 via Wikimedia Commons</figcaption>
+</figure>
 
 Whether you built the hair from cards or from curves, you ended up with a lot of
 small separate surfaces sitting near a skull. Each of those surfaces carries its
