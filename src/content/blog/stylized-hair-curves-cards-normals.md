@@ -4,7 +4,6 @@ date: 2026-08-31
 category: 3D
 cover: /img/blog/stylized-hair-curves-cards-normals/cover.svg
 excerpt: Stylized hair fails in lighting more often than in shape. Point the normals off a scalp proxy and the clumps finally shade as one volume.
-draft: true
 ---
 
 You build the hairstyle. In the viewport it looks right — clean chunky clumps,
