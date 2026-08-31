@@ -146,7 +146,14 @@ export async function notifyNewComment(comment: NewComment, siteUrl: string) {
  * GitHub. Subject is prefixed so a mail filter can catch these on its own.
  */
 export async function notifyNewDraft(
-  draft: { slug: string; title: string; category: string; excerpt: string; cover?: string },
+  draft: {
+    slug: string;
+    title: string;
+    category: string;
+    excerpt: string;
+    cover?: string;
+    linkedin?: string;
+  },
   siteUrl: string
 ) {
   if (!notificationsConfigured()) return { sent: false, reason: 'not configured' };
@@ -190,6 +197,9 @@ export async function notifyNewDraft(
       `Revise:  ${revise}`,
       '',
       'Nothing is live until you approve it.',
+      ...(draft.linkedin
+        ? ['', '— for LinkedIn, copy from here —', '', draft.linkedin]
+        : []),
     ].join('\n');
 
     const html = `<div style="font-family:-apple-system,Segoe UI,Roboto,sans-serif;max-width:560px;color:#1a1a1a">
@@ -214,6 +224,15 @@ export async function notifyNewDraft(
     <a href="${esc(reject)}" style="color:#666;text-decoration:underline;padding:11px 0;display:inline-block">Reject</a>
   </p>
   <p style="font-size:12px;color:#888;line-height:1.6">Each link opens a confirmation page first — nothing happens just by clicking. Revise lets you type what to change; the next scheduled run picks it up.</p>
+  ${
+    draft.linkedin
+      ? `<div style="border-top:1px solid #e4dee8;margin-top:26px;padding-top:18px">
+    <p style="font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#888;margin:0 0 10px">For LinkedIn — select and copy</p>
+    <div style="background:#f7f5f8;border-radius:10px;padding:16px 18px;white-space:pre-wrap;line-height:1.55;color:#1a1a1a;font-size:14px">${esc(draft.linkedin)}</div>
+    <p style="font-size:11px;color:#888;margin:10px 0 0">${draft.linkedin.length} characters. LinkedIn hides everything past about 210 behind “see more”.</p>
+  </div>`
+      : ''
+  }
 </div>`;
 
     await transport.sendMail({

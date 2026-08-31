@@ -1,5 +1,5 @@
 import type { APIRoute } from 'astro';
-import { isDraft } from '../../lib/github';
+import { isDraft, readFile } from '../../lib/github';
 import { notifyNewDraft } from '../../lib/notify';
 
 export const prerender = false;
@@ -31,8 +31,20 @@ export const POST: APIRoute = async ({ request }) => {
     );
   }
 
+  // The Monday editorial also gets a LinkedIn post written for it. Carrying it
+  // into the email is the difference between something he pastes on the spot
+  // and something he has to remember exists in a folder.
+  const linkedin = (await readFile(`notes/linkedin/${slug}.md`))?.text?.trim();
+
   const result = await notifyNewDraft(
-    { slug, title: draft.title, category: draft.category, excerpt: draft.excerpt, cover: draft.cover },
+    {
+      slug,
+      title: draft.title,
+      category: draft.category,
+      excerpt: draft.excerpt,
+      cover: draft.cover,
+      linkedin,
+    },
     new URL(request.url).origin
   );
 
