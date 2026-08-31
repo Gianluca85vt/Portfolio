@@ -110,7 +110,13 @@ export const POST: APIRoute = async ({ request }) => {
   }
 
   if (action === 'approve') {
-    return (await publishDraft(slug))
+    const result = await publishDraft(slug);
+
+    // A refusal is the draft failing a rule the build also enforces, caught
+    // here so it reads as a sentence rather than as a failed deployment.
+    if (typeof result === 'object') return page('Not yet', result.why);
+
+    return result
       ? page('Published', 'It appears on the blog once the rebuild finishes, usually within a couple of minutes.')
       : page('That did not work', 'GitHub refused the commit. Try again in a moment.');
   }

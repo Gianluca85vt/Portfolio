@@ -2,6 +2,7 @@ import type { APIRoute } from 'astro';
 import { readCmsSession } from '../../../lib/session';
 import { findEditorById } from '../../../lib/accounts';
 import { commitFiles, headSha, listArticles, readArticle, canCommit } from '../../../lib/repo';
+import { publishRefusal } from '../../../lib/github';
 import type { FileWrite } from '../../../lib/repo';
 import type { Editor } from '../../../lib/accounts';
 
@@ -104,6 +105,12 @@ export const POST: APIRoute = async ({ request }) => {
     if ('error' in found) return json(found, 404);
     if (!/^draft:\s*true\s*$/m.test(found.text)) return json({ error: 'That article is already published.' }, 409);
 
+    // Same rule as the approve link in the review email, and the same reason:
+    // this commits to main without building, so anything the schema rejects
+    // becomes a failed deployment for the whole site.
+    const refusal = publishRefusal(found.text);
+    if (refusal) return json({ error: refusal }, 422);
+
     const text = found.text.replace(/^draft:\s*true\s*\r?\n/m, '');
     const done = await commitFiles(
       [{ path: `src/content/blog/${slug}.md`, content: text }],
@@ -125,6 +132,13 @@ export const POST: APIRoute = async ({ request }) => {
   const isDraft = /^draft:\s*true\s*$/m.test(text);
   if (editor.role !== 'admin' && !isDraft) {
     return json({ error: 'Editors save drafts. Leave "draft: true" in place and an admin will publish it.' }, 403);
+  }
+
+  // Saving without `draft: true` publishes, whatever the button said. The same
+  // rule applies here as on the publish action.
+  if (!isDraft) {
+    const refusal = publishRefusal(text);
+    if (refusal) return json({ error: refusal }, 422);
   }
 
   const files: FileWrite[] = [{ path: `src/content/blog/${slug}.md`, content: text }];

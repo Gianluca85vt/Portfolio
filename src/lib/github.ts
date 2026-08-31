@@ -65,11 +65,49 @@ export async function deleteFile(path: string, sha: string, message: string) {
 }
 
 /** Strips the `draft: true` line, which is what publishing actually is here. */
-export async function publishDraft(slug: string) {
+/**
+ * Publishing commits straight to main without building first, so anything the
+ * content schema rejects becomes a failed production deployment — and since one
+ * bad entry fails the whole build, it takes every other page's deploy with it.
+ * That happened on 31 August: an article approved with the drawn SVG cover
+ * still on it stopped the site deploying until the artwork was sourced.
+ *
+ * So the rules the build enforces have to be checked here, before the commit,
+ * where the answer can be a sentence in the browser instead of an email from
+ * Vercel. Right now that is one rule; anything added to the schema belongs here
+ * too.
+ */
+export type PublishRefusal = { ok: false; why: string };
+
+/**
+ * The build's rules, checked before the commit rather than after.
+ *
+ * There are two doors onto main — the approve link in the review email and the
+ * CMS publish button — and neither builds first. One rule written twice is one
+ * rule that will diverge, so both call this.
+ *
+ * Returns the reason to refuse, or null to go ahead.
+ */
+export function publishRefusal(text: string): string | null {
+  const cover = /^cover:\s*(.+)$/m.exec(text)?.[1]?.trim().replace(/^["']|["']$/g, '');
+  if (cover?.endsWith('.svg')) {
+    return (
+      'This one still has the drawn placeholder as its cover, and a published article needs a real image. ' +
+      'Publishing it would fail the build and stop the whole site deploying. Ask for a revision, or add the ' +
+      'artwork first — it stays here waiting either way.'
+    );
+  }
+  return null;
+}
+
+export async function publishDraft(slug: string): Promise<true | false | PublishRefusal> {
   const path = `src/content/blog/${slug}.md`;
   const file = await readFile(path);
   if (!file) return false;
   if (!/^draft:\s*true\s*$/m.test(file.text)) return false;
+
+  const why = publishRefusal(file.text);
+  if (why) return { ok: false, why };
 
   const published = file.text.replace(/^draft:\s*true\s*\r?\n/m, '');
   return writeFile(path, published, file.sha, `Publish ${slug}`);
