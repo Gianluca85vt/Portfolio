@@ -16,6 +16,12 @@ type NewComment = {
   postSlug: string;
   authorName: string;
   body: string;
+  /**
+   * Why the filter held it, in words. Only held comments are emailed now, so
+   * this is always present in practice — but the email opens with it, and a
+   * decision is easier when you know which of the three lines it crossed.
+   */
+  heldFor?: string;
 };
 
 export function notificationsConfigured() {
@@ -100,8 +106,13 @@ export async function notifyNewComment(comment: NewComment, siteUrl: string) {
     const approve = `${siteUrl}/api/moderate?id=${comment.id}&action=approve&token=${await signModeration(comment.id, 'approve')}`;
     const remove = `${siteUrl}/api/moderate?id=${comment.id}&action=delete&token=${await signModeration(comment.id, 'delete')}`;
 
+    const held = comment.heldFor
+      ? `Held by the filter for ${comment.heldFor}. Everything else publishes on sight.`
+      : 'Held for approval.';
+
     const text = [
       `${comment.authorName} commented on ${comment.postSlug}`,
+      held,
       '',
       comment.body,
       '',
@@ -109,11 +120,12 @@ export async function notifyNewComment(comment: NewComment, siteUrl: string) {
       `Delete:  ${remove}`,
       `Article: ${article}`,
       '',
-      'The comment is not visible until you approve it.',
+      'It is saved but not visible. The filter can be wrong — someone quoting a',
+      'slur to object to it trips the same wire as someone using it.',
     ].join('\n');
 
     const html = `<div style="font-family:-apple-system,Segoe UI,Roboto,sans-serif;max-width:560px;color:#1a1a1a">
-  <p style="font-size:13px;color:#666;margin:0 0 6px">New comment awaiting approval</p>
+  <p style="font-size:13px;color:#666;margin:0 0 6px">${esc(held)}</p>
   <p style="margin:0 0 4px"><strong>${esc(comment.authorName)}</strong> on
     <a href="${esc(article)}" style="color:#7621B0">${esc(comment.postSlug)}</a></p>
   <blockquote style="margin:16px 0;padding:12px 16px;border-left:3px solid #B600A8;background:#f6f6f8;white-space:pre-wrap">${esc(comment.body)}</blockquote>
@@ -122,13 +134,13 @@ export async function notifyNewComment(comment: NewComment, siteUrl: string) {
     &nbsp;&nbsp;
     <a href="${esc(remove)}" style="color:#666;text-decoration:underline;padding:10px 0;display:inline-block">Delete</a>
   </p>
-  <p style="font-size:12px;color:#888;margin-top:22px">Both links open a confirmation page first — nothing happens just by clicking.</p>
+  <p style="font-size:12px;color:#888;margin-top:22px">Both links open a confirmation page first — nothing happens just by clicking. The filter can be wrong in either direction: someone quoting a slur to object to it trips the same wire as someone using it.</p>
 </div>`;
 
     await transport.sendMail({
       from: env('NOTIFY_FROM') ?? env('SMTP_USER'),
       to: env('NOTIFY_TO'),
-      subject: headerSafe(`New comment from ${comment.authorName} on ${comment.postSlug}`),
+      subject: headerSafe(`Held comment from ${comment.authorName} on ${comment.postSlug}`),
       text,
       html,
     });

@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, useCallback } from 'react';
 import { Loader2, MessageCircle, Send } from 'lucide-react';
 
 type Comment = {
@@ -25,27 +25,35 @@ export default function CommentThread({ postSlug }: { postSlug: string }) {
   const [error, setError] = useState('');
   const [name, setName] = useState('');
   const [body, setBody] = useState('');
+  // Almost every comment now publishes on submission. The few the filter holds
+  // get the old message, so this decides which of the two the writer sees.
+  const [held, setHeld] = useState(false);
   const honeypot = useRef<HTMLInputElement>(null);
 
-  useEffect(() => {
-    if (!SUPABASE_URL || !SUPABASE_KEY) {
-      setState('ready');
-      return;
-    }
-    // Read straight from Supabase. Row level security filters to approved rows,
-    // so the publishable key cannot expose anything pending.
+  // Read straight from Supabase. Row level security filters to approved rows,
+  // so the publishable key cannot expose anything held.
+  const load = useCallback(async () => {
+    if (!SUPABASE_URL || !SUPABASE_KEY) return;
     const query =
       `${SUPABASE_URL}/rest/v1/comments` +
       `?select=id,author_name,body,created_at` +
       `&post_slug=eq.${encodeURIComponent(postSlug)}` +
       `&approved=is.true&order=created_at.asc`;
 
-    fetch(query, { headers: { apikey: SUPABASE_KEY, authorization: `Bearer ${SUPABASE_KEY}` } })
-      .then((r) => (r.ok ? r.json() : []))
-      .then((rows: Comment[]) => setComments(Array.isArray(rows) ? rows : []))
-      .catch(() => setComments([]))
-      .finally(() => setState('ready'));
+    try {
+      const res = await fetch(query, {
+        headers: { apikey: SUPABASE_KEY, authorization: `Bearer ${SUPABASE_KEY}` },
+      });
+      const rows: Comment[] = res.ok ? await res.json() : [];
+      setComments(Array.isArray(rows) ? rows : []);
+    } catch {
+      setComments([]);
+    }
   }, [postSlug]);
+
+  useEffect(() => {
+    load().finally(() => setState('ready'));
+  }, [load]);
 
   const submit = async (event: React.FormEvent) => {
     event.preventDefault();
@@ -74,7 +82,13 @@ export default function CommentThread({ postSlug }: { postSlug: string }) {
       }
       setName('');
       setBody('');
+      setHeld(Boolean(data.pending));
       setState('sent');
+
+      // Published on the spot: fetch the thread again so the writer watches
+      // their own comment arrive, which is the whole point of not making them
+      // wait for a human.
+      if (!data.pending) await load();
     } catch {
       setError('Could not reach the server. Try again.');
       setState('ready');
@@ -125,7 +139,9 @@ export default function CommentThread({ postSlug }: { postSlug: string }) {
 
       {state === 'sent' ? (
         <p className="rounded-xl border border-[#D7E2EA]/25 px-5 py-4 text-[#D7E2EA] font-light text-sm">
-          Thanks — it will appear once Gianluca has read it.
+          {held
+            ? 'Thanks — this one is waiting on Gianluca before it appears.'
+            : 'Thanks — it is up there now.'}
         </p>
       ) : (
         <form onSubmit={submit} className="flex flex-col gap-3 max-w-[520px]">
@@ -182,7 +198,7 @@ export default function CommentThread({ postSlug }: { postSlug: string }) {
             </button>
 
             <span className="text-[#D7E2EA]/30 font-light text-[0.7rem]">
-              Reviewed before it appears
+              Appears straight away. Disagree as hard as you like.
             </span>
           </div>
         </form>

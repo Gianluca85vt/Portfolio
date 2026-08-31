@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { notifyNewComment } from '../../lib/notify';
 import { env, supabaseAdmin } from '../../lib/env';
+import { screen, REASONS } from '../../lib/moderation';
 
 // One of two routes on the site that run as functions rather than static files.
 export const prerender = false;
@@ -78,15 +79,26 @@ export const POST: APIRoute = async ({ request, clientAddress }) => {
     }
   }
 
-  // `approved` is deliberately not sent: the column defaults to false and
-  // nothing here should be able to publish itself.
+  // Ordinary comments publish on sight. Waiting for a human meant a reader's
+  // comment appeared whenever the email was next opened, which on a blog with
+  // this much traffic is a conversation nobody can have.
   //
-  // The row comes back rather than being discarded, because the notification
-  // needs the generated id to build its approve and delete links.
+  // Two kinds still wait: obscenity, and abuse aimed at a person. Those are
+  // saved exactly as written and emailed for a decision, never dropped — a word
+  // filter is wrong in both directions, and somebody quoting a slur to object
+  // to it trips the same wire as somebody using it.
+  const verdict = screen(body, authorName);
+
   const insert = await fetch(rest, {
     method: 'POST',
     headers: { ...headers, prefer: 'return=representation' },
-    body: JSON.stringify({ post_slug: postSlug, author_name: authorName, body, ip_hash: ipHash }),
+    body: JSON.stringify({
+      post_slug: postSlug,
+      author_name: authorName,
+      body,
+      ip_hash: ipHash,
+      approved: verdict.publish,
+    }),
   });
 
   if (!insert.ok) {
@@ -96,17 +108,24 @@ export const POST: APIRoute = async ({ request, clientAddress }) => {
   // Everything past this point is best-effort. The comment is already saved, so
   // a mail server that is down or misconfigured must not turn a successful
   // submission into an error for the person who wrote it.
-  try {
-    const [row] = (await insert.json()) as Array<{ id: string }>;
-    if (row?.id) {
-      await notifyNewComment(
-        { id: row.id, postSlug, authorName, body },
-        new URL(request.url).origin
-      );
+  //
+  // Only a held comment is emailed now. A notification for every comment that
+  // published itself anyway is a notification that stops being read.
+  if (!verdict.publish) {
+    try {
+      const [row] = (await insert.json()) as Array<{ id: string }>;
+      if (row?.id) {
+        await notifyNewComment(
+          { id: row.id, postSlug, authorName, body, heldFor: REASONS[verdict.reason] },
+          new URL(request.url).origin
+        );
+      }
+    } catch (err) {
+      console.error('[comments] held, but could not notify:', err);
     }
-  } catch (err) {
-    console.error('[comments] saved, but could not notify:', err);
   }
 
-  return json({ ok: true, pending: true });
+  // The writer is told the same thing either way. Naming which word tripped the
+  // filter is a recipe for finding the word that does not.
+  return json({ ok: true, pending: !verdict.publish });
 };
