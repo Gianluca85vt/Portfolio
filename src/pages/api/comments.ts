@@ -79,14 +79,16 @@ export const POST: APIRoute = async ({ request, clientAddress }) => {
     }
   }
 
-  // Ordinary comments publish on sight. Waiting for a human meant a reader's
-  // comment appeared whenever the email was next opened, which on a blog with
-  // this much traffic is a conversation nobody can have.
+  // Everything publishes, including what the filter objects to. Nothing waits
+  // for a human, because waiting meant a reader's comment appeared whenever the
+  // email was next opened and the thread was never a conversation.
   //
-  // Two kinds still wait: obscenity, and abuse aimed at a person. Those are
-  // saved exactly as written and emailed for a decision, never dropped — a word
-  // filter is wrong in both directions, and somebody quoting a slur to object
-  // to it trips the same wire as somebody using it.
+  // The filter's job is now to sort the notification rather than to gate the
+  // comment: obscenity and abuse arrive flagged, so they can be read first and
+  // deleted if they deserve it. That ordering is deliberate — a word filter is
+  // wrong in both directions, and someone quoting a slur to object to it trips
+  // the same wire as someone using it. Better to let both through and let a
+  // person remove one than to make the innocent case wait.
   const verdict = screen(body, authorName);
 
   const insert = await fetch(rest, {
@@ -97,7 +99,7 @@ export const POST: APIRoute = async ({ request, clientAddress }) => {
       author_name: authorName,
       body,
       ip_hash: ipHash,
-      approved: verdict.publish,
+      approved: true,
     }),
   });
 
@@ -109,23 +111,26 @@ export const POST: APIRoute = async ({ request, clientAddress }) => {
   // a mail server that is down or misconfigured must not turn a successful
   // submission into an error for the person who wrote it.
   //
-  // Only a held comment is emailed now. A notification for every comment that
-  // published itself anyway is a notification that stops being read.
-  if (!verdict.publish) {
-    try {
-      const [row] = (await insert.json()) as Array<{ id: string }>;
-      if (row?.id) {
-        await notifyNewComment(
-          { id: row.id, postSlug, authorName, body, heldFor: REASONS[verdict.reason] },
-          new URL(request.url).origin
-        );
-      }
-    } catch (err) {
-      console.error('[comments] held, but could not notify:', err);
+  // Every comment is announced. The flagged ones carry a reason so they sort
+  // to the top of the inbox by subject line; the rest are just a note that
+  // somebody said something.
+  try {
+    const [row] = (await insert.json()) as Array<{ id: string }>;
+    if (row?.id) {
+      await notifyNewComment(
+        {
+          id: row.id,
+          postSlug,
+          authorName,
+          body,
+          flaggedFor: verdict.publish ? undefined : REASONS[verdict.reason],
+        },
+        new URL(request.url).origin
+      );
     }
+  } catch (err) {
+    console.error('[comments] saved, but could not notify:', err);
   }
 
-  // The writer is told the same thing either way. Naming which word tripped the
-  // filter is a recipe for finding the word that does not.
-  return json({ ok: true, pending: !verdict.publish });
+  return json({ ok: true, pending: false });
 };

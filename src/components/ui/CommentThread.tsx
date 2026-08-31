@@ -25,9 +25,6 @@ export default function CommentThread({ postSlug }: { postSlug: string }) {
   const [error, setError] = useState('');
   const [name, setName] = useState('');
   const [body, setBody] = useState('');
-  // Almost every comment now publishes on submission. The few the filter holds
-  // get the old message, so this decides which of the two the writer sees.
-  const [held, setHeld] = useState(false);
   const honeypot = useRef<HTMLInputElement>(null);
 
   // Read straight from Supabase. Row level security filters to approved rows,
@@ -82,13 +79,12 @@ export default function CommentThread({ postSlug }: { postSlug: string }) {
       }
       setName('');
       setBody('');
-      setHeld(Boolean(data.pending));
       setState('sent');
 
-      // Published on the spot: fetch the thread again so the writer watches
-      // their own comment arrive, which is the whole point of not making them
-      // wait for a human.
-      if (!data.pending) await load();
+      // Every comment is live the moment it saves, so refetch and let the
+      // writer watch their own arrive. That is the whole point of not making
+      // them wait for a human.
+      await load();
     } catch {
       setError('Could not reach the server. Try again.');
       setState('ready');
@@ -139,9 +135,7 @@ export default function CommentThread({ postSlug }: { postSlug: string }) {
 
       {state === 'sent' ? (
         <p className="rounded-xl border border-[#D7E2EA]/25 px-5 py-4 text-[#D7E2EA] font-light text-sm">
-          {held
-            ? 'Thanks — this one is waiting on Gianluca before it appears.'
-            : 'Thanks — it is up there now.'}
+          Thanks — it is up there now.
         </p>
       ) : (
         <form onSubmit={submit} className="flex flex-col gap-3 max-w-[520px]">
