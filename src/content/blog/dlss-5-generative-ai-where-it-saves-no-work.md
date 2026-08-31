@@ -5,7 +5,6 @@ category: Editorial
 column: Architectures of the Void — the Monday editorial
 cover: /img/blog/editorial/cover.jpg
 excerpt: The place a generative model would genuinely cut a studio's costs is the long tail of hand-authored content, and that is the one place Nvidia's neural pass does not go. It edits the finished frame instead, after the money is spent and the artists have gone home.
-draft: true
 ---
 
 The neural pass in DLSS 5 runs after the frame has been assembled, lit and
