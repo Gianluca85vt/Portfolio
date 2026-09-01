@@ -1,6 +1,41 @@
-# Manga — harvested 2026-09-01T09:35:33.129Z
+# Manga — harvested 2026-09-01T15:16:12.379Z
 
 ## Anime News Network
+
+### Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 6
+Tue, 01 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-6/.241178
+
+I’m going to say something that might be controversial: I like it in anime and manga when someone’s powers sound like overly complicated BS.
+
+### A Non-Scale Figure of Holo From Spice and Wolf: Merchant Meets the Wise Wolf Is Here!
+Tue, 01 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/press-release/2026-09-01/a-non-scale-figure-of-holo-from-spice-and-wolf-merchant-meets-the-wise-wolf-is-here/.240947
+
+Spice and Wolf: MERCHANT MEETS THE WISE WOLF is a TV anime series that was broadcast from April to September 2024 and the series remains popular to this day with production of a second season of the anime currently underway. Based on the Dengeki Bunko 30th anniversary illustration drawn by Ju Ayakura, the illustrator of the original light novel series, this figure captures Holo as she gracefully dances with her usual innocent expression.
+
+### This Week in Anime - AnimeWorldLand
+Tue, 01 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-01/.241153
+
+As summer winds down, Lucas and Sylvia take a trip to some of anime's most notable theme parks.
+
+### Red River Anime Reveals New Cast Member, Theme Song Artists
+Tue, 01 Sep 2026 09:54:25 -0400 — https://www.animenewsnetwork.com/news/2026-09-01/red-river-anime-reveals-new-cast-member-theme-song-artists/.241190
+
+Nana Mizuki voices Ursula, performs new opening song; Ryu Matsuyama performs new ending
+
+### Though I Am an Inept Villainess ‒ Episode 8
+Tue, 01 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-8/.241164
+
+You know what Hell Girl says: “Curses always come home to roost.”
+
+### One Piece (2026-) ‒ Episode 1176
+Tue, 01 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/one-piece/episode-1176/.241177
+
+The real showstopper for me was Nami using Zeus as a giant lightning-shark-missile that recasts the scene in dark, stormy hues while looking amazing and showing great creativity.
+
+### Goodbye, Lara ‒ Episode 9
+Tue, 01 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/goodbye-lara/episode-9/.241162
+
+It’s worth noting the many appearances of white birds in this episode.
 
 ### The Summer Hikaru Died Manga to End in 2 Chapters
 Tue, 01 Sep 2026 04:13:46 -0400 — https://www.animenewsnetwork.com/news/2026-09-01/the-summer-hikaru-died-manga-to-end-in-2-chapters/.241187
@@ -26,41 +61,6 @@ Mon, 31 Aug 2026 23:46:28 -0400 — https://www.animenewsnetwork.com/news/2026-0
 Mon, 31 Aug 2026 21:34:44 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/oha-suta-tv-show-identity-v-game-playing-segment-gets-short-anime/.241176
 
 4-part anime depicts school life of horror game's gardener Emma (Chiwa Saitō), other survivors
-
-### Professional Wrestler Kenny Omega Goes 'Plus Ultra' at AEW All In: London
-Mon, 31 Aug 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-31/professional-wrestler-kenny-omega-goes-plus-ultra-at-aew-all-in-london/.241159
-
-Omega: “Thank you to <cite>My Hero Academia</cite>, Crunchyroll, and Miyake-san for allowing me to represent All Might.”
-
-### Jaadugar: A Witch in Mongolia ‒ Episodes 8-10
-Mon, 31 Aug 2026 18:28:46 -0400 — https://www.animenewsnetwork.com/review/jaadugar-a-witch-in-mongolia/episodes-8-10/.241173
-
-Sitara's chickens have come home to roost.
-
-### Netflix Was the Only Game in Town at Anime NYC on Thursday
-Mon, 31 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/netflix-was-the-only-game-in-town-at-anime-nyc-on-thursday/.240864
-
-For this Netflix promotional panel to be the only thing to do really on the first day of the con leaves me underwhelmed.
-
-### Daemons of the Shadow Realm ‒ Episode 21
-Mon, 31 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-21/.241144
-
-While often played for laughs, Asa's obsession with her brother is a coping mechanism.
-
-### Inukami! Novel Illustrator Kanna Wakatsuki Plans to Sue Publisher WiZH for Alleged Copyright Infringement
-Mon, 31 Aug 2026 16:05:46 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/inukami-novel-illustrator-kanna-wakatsuki-plans-to-sue-publisher-wizh-for-alleged-copyright-/.241161
-
-Wakatsuki claims that WiZH used unauthorized artwork for complete edition volumes of <cite>Inukami!</cite> novels
-
-### For Luv Letter Studios, It's All About Survival and Ambition
-Mon, 31 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/for-luv-letter-studios-its-all-about-survival-and-ambition/.241124
-
-The little indie studio discusses what it’s like to struggle and triumph over industrial hardships, obscurity, and adversity.
-
-### Thunder 3 ‒ Episode 8
-Mon, 31 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-8/.241151
-
-These alien dudes learn why screaming anime toddlers are so terrifying.
 
 ## Crunchyroll News
 

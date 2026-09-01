@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-01T09:35:33.129Z
+# AI — harvested 2026-09-01T15:16:12.379Z
 
 ## OpenAI
 
@@ -19,7 +19,8 @@ ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands global
 
 ## Hugging Face
 
-_Nothing in the last 48 hours._
+### Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI
+Tue, 01 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/webgpu-kernels
 
 ## Google DeepMind
 
