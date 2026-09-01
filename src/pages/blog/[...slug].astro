@@ -7,7 +7,7 @@ import ShareBar from '../../components/ui/ShareBar';
 import ScoreBox from '../../components/ScoreBox.astro';
 import ArticleByline from '../../components/ArticleByline.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
-import { site, blog, categoryColors, coverFor } from '../../data/portfolio';
+import { site, blog, categoryPath, coverFor } from '../../data/portfolio';
 
 export async function getStaticPaths() {
   const entries = await getCollection('blog', ({ data }) => !data.draft);
@@ -74,6 +74,22 @@ const jsonLd = {
     jobTitle: site.role,
   },
   creativeWorkStatus: 'Published',
+  // Where this page sits. Google renders the trail in place of the raw URL in a
+  // result, and it is also how a crawler learns the archive has sections rather
+  // than 109 articles hanging off one index.
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: blog.name, item: new URL('/blog/', site.url).href },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: entry.data.category,
+        item: new URL(categoryPath(entry.data.category), site.url).href,
+      },
+      { '@type': 'ListItem', position: 3, name: entry.data.title, item: url },
+    ],
+  },
   // The masthead publishes; the person writes. Keeping these separate is what
   // lets the blog carry its own name without detaching the articles from him.
   publisher: {
@@ -100,6 +116,21 @@ const jsonLd = {
 
     <article class="px-5 sm:px-8 md:px-10 pt-12 sm:pt-16 pb-20 sm:pb-24">
       <div class="max-w-[720px] mx-auto">
+        <nav aria-label="Breadcrumb" class="text-[0.7rem] tracking-wide mb-7">
+          <ol class="flex flex-wrap items-center gap-2 text-[#D7E2EA]/40 font-light">
+            <li><a href="/blog/" class="hover:text-[#D7E2EA] transition-colors">Backdrop</a></li>
+            <li aria-hidden="true">/</li>
+            <li>
+              <a
+                href={categoryPath(entry.data.category)}
+                class="hover:text-[#D7E2EA] transition-colors"
+              >
+                {entry.data.category}
+              </a>
+            </li>
+          </ol>
+        </nav>
+
         {
           entry.data.column && (
             <p
@@ -126,11 +157,18 @@ const jsonLd = {
         />
 
         {
+          /* Described rather than hidden. This was aria-hidden with an empty
+             alt, which is right for pure decoration and wrong here: it is a
+             press still or a screenshot of the thing the piece is about, and an
+             image with no alt is one Google Images cannot place against any
+             query. Eager, because it is the largest paint on every article. */
           cover && (
             <img
               src={cover}
-              alt=""
-              aria-hidden="true"
+              alt={`${entry.data.reviewOf ?? entry.data.title} — ${entry.data.category} on Backdrop`}
+              loading="eager"
+              fetchpriority="high"
+              decoding="async"
               class="w-full rounded-[24px] sm:rounded-[28px] object-cover mt-8 sm:mt-10"
             />
           )

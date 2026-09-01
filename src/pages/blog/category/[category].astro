@@ -1,0 +1,193 @@
+---
+/**
+ * One page per section.
+ *
+ * The archive had 109 articles and exactly two indexable shapes: the full list
+ * and a single article. Nothing sat in between, so a reader who liked a piece
+ * on shading had no page to go to for more of it, and Google had nothing to
+ * read the site as being *about* — 109 articles all one click from an index
+ * that mentions every subject at once. Average position sat at 11.
+ *
+ * These pages exist to be that middle layer. Each is a real page with its own
+ * prose, its own title and its own list, and every article now links up into
+ * the one it belongs to.
+ */
+import { getCollection } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import SiteHeader from '../../../components/SiteHeader.astro';
+import ArticleCardList from '../../../components/ArticleCardList.astro';
+import {
+  site,
+  blog,
+  blogCategories,
+  categoryColors,
+  categoryBlurbs,
+  categorySlug,
+  categoryPath,
+  coverFor,
+} from '../../../data/portfolio';
+import type { BlogCategory } from '../../../data/portfolio';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('blog', ({ data }) => !data.draft);
+
+  // Only sections that have something in them. An empty hub is a thin page,
+  // and a thin page indexed is worse than no page at all.
+  const filled = blogCategories
+    .map((category) => ({
+      category,
+      posts: entries
+        .filter((e) => e.data.category === category)
+        .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+    }))
+    .filter(({ posts }) => posts.length > 0);
+
+  // The same list is handed to every page for its footer. Reading
+  // `blogCategories` down there instead linked Collecting, which has no
+  // articles and therefore no page — a 404 on the foot of all seven hubs.
+  const live = filled.map(({ category }) => category);
+
+  return filled.map(({ category, posts }) => ({
+    params: { category: categorySlug(category) },
+    props: { category, posts, live },
+  }));
+}
+
+const { category, posts, live } = Astro.props as {
+  category: BlogCategory;
+  posts: Awaited<ReturnType<typeof getCollection<'blog'>>>;
+  live: BlogCategory[];
+};
+
+const accent = categoryColors[category] ?? '#7621B0';
+const blurb = categoryBlurbs[category];
+const url = new URL(categoryPath(category), Astro.site).href;
+
+const reviews = posts.filter((p) => p.data.score !== undefined);
+const newest = posts[0]?.data.date;
+
+const cards = posts.map((entry) => ({
+  slug: entry.id,
+  title: entry.data.title,
+  date: entry.data.date,
+  category: entry.data.category,
+  excerpt: entry.data.excerpt ?? '',
+  cover: coverFor(entry.data.category, entry.data.cover),
+  score: entry.data.score !== undefined ? Math.round(entry.data.score * 2) / 2 : undefined,
+}));
+
+// The title is what a result shows, and it has 60 characters. "Games — Backdrop
+// — Gianluca Scattarella" would spend a third of them on words already printed
+// beside the result as the site name.
+const title = `${category} — ${posts.length} articles on Backdrop`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: `${category} — Backdrop`,
+  description: blurb,
+  url,
+  inLanguage: 'en',
+  isPartOf: {
+    '@type': 'Blog',
+    name: blog.name,
+    url: new URL('/blog/', site.url).href,
+  },
+  about: { '@type': 'Thing', name: category },
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Backdrop', item: new URL('/blog/', site.url).href },
+      { '@type': 'ListItem', position: 2, name: category, item: url },
+    ],
+  },
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: posts.length,
+    itemListElement: posts.slice(0, 30).map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: new URL(`/blog/${p.id}/`, site.url).href,
+      name: p.data.title,
+    })),
+  },
+};
+
+const others = live.filter((c) => c !== category);
+---
+
+<Base title={title} description={blurb} jsonLd={jsonLd}>
+  <div class="min-h-screen flex flex-col" style="overflow-x:clip">
+    <SiteHeader current="/blog" />
+
+    <div class="px-5 sm:px-8 md:px-10 pt-12 sm:pt-16 pb-20 sm:pb-24">
+      <div class="max-w-[1180px] mx-auto">
+        <nav aria-label="Breadcrumb" class="text-[0.7rem] tracking-wide">
+          <ol class="flex flex-wrap items-center gap-2 text-[#D7E2EA]/40 font-light">
+            <li><a href="/blog/" class="hover:text-[#D7E2EA] transition-colors">Backdrop</a></li>
+            <li aria-hidden="true">/</li>
+            <li class="text-[#D7E2EA]/70">{category}</li>
+          </ol>
+        </nav>
+
+        <header class="mt-6 max-w-[720px]">
+          <span
+            class="inline-block rounded-[4px] font-medium uppercase tracking-widest text-white text-[0.62rem] px-2.5 py-1"
+            style={`background-color:${accent}`}
+          >
+            {category}
+          </span>
+
+          <h1
+            class="hero-heading font-black uppercase leading-[1.05] tracking-tight mt-5"
+            style="font-size:clamp(2rem, 6vw, 3.4rem)"
+          >
+            {category}
+          </h1>
+
+          <p class="text-[#D7E2EA]/60 font-light leading-relaxed mt-5 text-[0.98rem]">
+            {blurb}
+          </p>
+
+          <p class="text-[#D7E2EA]/35 font-light text-[0.75rem] tracking-wide mt-4">
+            {posts.length}
+            {posts.length === 1 ? ' article' : ' articles'}
+            {reviews.length > 0 && ` · ${reviews.length} scored ${reviews.length === 1 ? 'review' : 'reviews'}`}
+            {
+              newest &&
+                ` · latest ${newest.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' })}`
+            }
+          </p>
+        </header>
+
+        <div class="mt-12 sm:mt-14">
+          <ArticleCardList posts={cards} />
+        </div>
+
+        <section class="mt-16 sm:mt-20 pt-10 border-t border-[#D7E2EA]/12">
+          <h2 class="hero-heading font-black uppercase tracking-tight text-[1.15rem]">
+            Other sections
+          </h2>
+          <div class="flex flex-wrap gap-2.5 mt-6">
+            {
+              others.map((c) => (
+                <a
+                  href={categoryPath(c)}
+                  class="inline-block rounded-full border border-[#D7E2EA]/15 px-4 py-2 text-[0.78rem] text-[#D7E2EA]/70 transition-colors hover:border-[#D7E2EA]/40 hover:text-white"
+                >
+                  {c}
+                </a>
+              ))
+            }
+            <a
+              href="/blog/reviews/"
+              class="inline-block rounded-full border border-[#D7E2EA]/15 px-4 py-2 text-[0.78rem] text-[#D7E2EA]/70 transition-colors hover:border-[#D7E2EA]/40 hover:text-white"
+            >
+              All reviews
+            </a>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+</Base>

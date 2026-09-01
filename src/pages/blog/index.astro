@@ -4,7 +4,16 @@ import Base from '../../layouts/Base.astro';
 import SiteHeader from '../../components/SiteHeader.astro';
 import BlogList from '../../components/BlogList';
 import Partnerships from '../../components/Partnerships.astro';
-import { site, blog, coverFor } from '../../data/portfolio';
+import {
+  site,
+  blog,
+  blogCategories,
+  categoryColors,
+  categoryBlurbs,
+  categoryPath,
+  coverFor,
+} from '../../data/portfolio';
+import type { BlogCategory } from '../../data/portfolio';
 
 const entries = (await getCollection('blog', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.date.getTime() - a.data.date.getTime()
@@ -26,6 +35,19 @@ const posts = entries.map((entry) => ({
 
 const title = `${blog.name} — ${site.name}`;
 const description = blog.description;
+
+// The filter chips inside the list are buttons, so the sections they reveal
+// have no URL and a crawler cannot reach them. This is the same idea rendered
+// as links, at the foot of the page, where it also serves a reader who got to
+// the bottom of the archive and wants a way to narrow it.
+const sections = blogCategories
+  .map((category) => ({
+    category,
+    count: posts.filter((p) => p.category === category).length,
+  }))
+  .filter((s) => s.count > 0);
+
+const reviewCount = posts.filter((p) => p.score !== undefined).length;
 
 // The one indexable page that was carrying no structured data. A Blog node
 // names the publication and its author, and the ten most recent posts give a
@@ -62,6 +84,52 @@ const jsonLd = {
   <div class="min-h-screen flex flex-col" style="overflow-x:clip">
     <SiteHeader current="/blog" />
     <BlogList posts={posts} client:load />
+
+    <section class="px-4 sm:px-6 md:px-8 pt-16 sm:pt-20">
+      <div class="max-w-[1180px] mx-auto">
+        <h2
+          class="hero-heading font-black uppercase tracking-tight text-[1.15rem] pb-5 border-b"
+          style="border-color:rgba(215,226,234,0.16)"
+        >
+          Browse by section
+        </h2>
+
+        <div class="grid gap-x-6 gap-y-7 sm:grid-cols-2 lg:grid-cols-3 mt-8">
+          {
+            sections.map(({ category, count }) => (
+              <a href={categoryPath(category)} class="group block">
+                <div class="flex items-baseline gap-2.5">
+                  <span
+                    class="font-medium uppercase tracking-[0.11em] text-[0.66rem]"
+                    style={`color:${categoryColors[category as BlogCategory]}`}
+                  >
+                    {category}
+                  </span>
+                  <span class="text-[#D7E2EA]/30 font-light text-[0.66rem] tabular-nums">
+                    {count}
+                  </span>
+                </div>
+                <p class="text-[#D7E2EA]/45 font-light text-[0.84rem] leading-relaxed mt-1.5 transition-colors group-hover:text-[#D7E2EA]/70">
+                  {categoryBlurbs[category as BlogCategory]}
+                </p>
+              </a>
+            ))
+          }
+        </div>
+
+        {
+          reviewCount > 0 && (
+            <a
+              href="/blog/reviews/"
+              class="inline-flex items-center gap-2 rounded-full border-2 border-[#D7E2EA]/50 text-[#D7E2EA] font-medium uppercase tracking-widest px-7 py-3 text-xs sm:text-sm transition-colors duration-300 hover:bg-[#D7E2EA]/10 mt-12"
+            >
+              All {reviewCount} reviews and their scores
+            </a>
+          )
+        }
+      </div>
+    </section>
+
     <Partnerships />
   </div>
 </Base>

@@ -1,5 +1,5 @@
 ---
-import { categoryColors, site } from '../data/portfolio';
+import { categoryColors, categoryPath, site } from '../data/portfolio';
 import type { BlogCategory } from '../data/portfolio';
 
 export interface Props {
@@ -24,12 +24,17 @@ const initials = site.name
 ---
 
 <div class="flex flex-wrap items-center gap-x-3 gap-y-2">
-  <span
-    class="inline-block rounded-[4px] font-medium uppercase tracking-widest text-white text-[0.62rem] px-2.5 py-1"
+  {/* A link, not a label. Sessions were running 51 seconds and 1.16 pages, and
+      the only route deeper into the archive sat past the end of the article —
+      no use to a reader who leaves before the halfway mark. This is the one
+      exit that is on screen from the first second. */}
+  <a
+    href={categoryPath(category)}
+    class="inline-block rounded-[4px] font-medium uppercase tracking-widest text-white text-[0.62rem] px-2.5 py-1 transition-opacity hover:opacity-80"
     style={`background-color:${accent}`}
   >
     {category}
-  </span>
+  </a>
   <span class="text-[#D7E2EA]/35 font-light text-[0.72rem] tracking-wide">
     {published} · {readingMinutes} min
   </span>

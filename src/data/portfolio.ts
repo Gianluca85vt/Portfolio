@@ -160,6 +160,48 @@ export function coverFor(category: string, cover?: string): string | undefined {
   return columnCovers[category as BlogCategory] ?? cover;
 }
 
+/**
+ * The URL a section lives at. One function rather than a hand-written table so
+ * a new category cannot ship with a hub page nobody linked to.
+ *
+ * 'Film & TV' has to lose the ampersand and '3D' has to lose its case, and both
+ * of those are the kind of thing that gets written twice and then diverges.
+ */
+export function categorySlug(category: string): string {
+  return category
+    .toLowerCase()
+    .replace(/&/g, ' ')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
+export function categoryPath(category: string): string {
+  return `/blog/category/${categorySlug(category)}/`;
+}
+
+/**
+ * What each section is, in the words someone would use to search for it.
+ *
+ * These are the only prose on a hub page that is not a headline, so they carry
+ * the page's whole claim to rank for anything: a list of links describes
+ * nothing on its own. Written for a reader first — a description that reads as
+ * keywords stuffed into a sentence is the kind Google discounts anyway.
+ */
+export const categoryBlurbs: Record<BlogCategory, string> = {
+  Editorial:
+    'The Monday column. One argument a week about how games, film and 3D work get made, and what the industry is doing to the people making it.',
+  '3D': 'Environment art, shading, rigging and the pipelines around them — Blender, Unreal, Substance, Marvelous Designer and Houdini, read from inside the job rather than from the release notes.',
+  Tech: 'Hardware for people who render: GPUs, displays, workstations and the specifications that turn out to mean something different once the thing is on a desk.',
+  AI: 'Generative tools where they touch a working pipeline — what they take off an artist’s plate, what they quietly add to it, and which claims survive contact with a deadline.',
+  Games:
+    'Game reviews with a score, plus the craft behind them: what a design decision cost the team that built it, and why a game looks and runs the way it does.',
+  Manga: 'Manga and anime, with attention to how the pages and the frames were made — adaptation choices, studio production, and the drawing itself.',
+  'Film & TV':
+    'Visual effects, virtual production and the shots people replay. What was practical, what was rendered, and what it took to make the seam invisible.',
+  Collecting:
+    'Figures, statues, prints and the objects that end up on the shelf behind the monitor — sculpt quality, paint, print runs and what the money buys.',
+};
+
 export const categoryColors: Record<BlogCategory, string> = {
   // The only cool colour in the set, so the column reads as a different kind of
   // piece at a glance in a wall of warm category chips.

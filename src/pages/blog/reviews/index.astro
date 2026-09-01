@@ -1,0 +1,176 @@
+---
+/**
+ * Every scored review on one page.
+ *
+ * Search Console says the queries that reach this site are specific — a product
+ * and a version and a problem — and the review pieces are the ones carrying a
+ * number people search for. There was no page collecting them: a review was
+ * reachable from the full archive index or from nowhere. This is the page for
+ * "did he review it, and what did it get".
+ */
+import { getCollection } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import SiteHeader from '../../../components/SiteHeader.astro';
+import ArticleCardList from '../../../components/ArticleCardList.astro';
+import { site, blog, coverFor } from '../../../data/portfolio';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft && data.score !== undefined))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const half = (n: number) => Math.round(n * 2) / 2;
+const scores = posts.map((p) => p.data.score as number);
+const mean = scores.length ? scores.reduce((a, b) => a + b, 0) / scores.length : 0;
+const lowest = scores.length ? Math.min(...scores) : 0;
+const highest = scores.length ? Math.max(...scores) : 0;
+
+const cards = posts.map((entry) => ({
+  slug: entry.id,
+  title: entry.data.title,
+  date: entry.data.date,
+  category: entry.data.category,
+  excerpt: entry.data.excerpt ?? '',
+  cover: coverFor(entry.data.category, entry.data.cover),
+  score: half(entry.data.score as number),
+}));
+
+const url = new URL('/blog/reviews/', Astro.site).href;
+const title = `Reviews — every score on Backdrop`;
+const description =
+  'Every scored review on Backdrop, each one an average of the published verdicts converted to a 1–10 scale, with the outlets and the spread shown on the article.';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Reviews — Backdrop',
+  description,
+  url,
+  inLanguage: 'en',
+  isPartOf: { '@type': 'Blog', name: blog.name, url: new URL('/blog/', site.url).href },
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Backdrop', item: new URL('/blog/', site.url).href },
+      { '@type': 'ListItem', position: 2, name: 'Reviews', item: url },
+    ],
+  },
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: posts.length,
+    itemListElement: posts.map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: new URL(`/blog/${p.id}/`, site.url).href,
+      name: p.data.reviewOf ?? p.data.title,
+    })),
+  },
+};
+
+const fmt = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+---
+
+<Base title={title} description={description} jsonLd={jsonLd}>
+  <div class="min-h-screen flex flex-col" style="overflow-x:clip">
+    <SiteHeader current="/blog" />
+
+    <div class="px-5 sm:px-8 md:px-10 pt-12 sm:pt-16 pb-20 sm:pb-24">
+      <div class="max-w-[1180px] mx-auto">
+        <nav aria-label="Breadcrumb" class="text-[0.7rem] tracking-wide">
+          <ol class="flex flex-wrap items-center gap-2 text-[#D7E2EA]/40 font-light">
+            <li><a href="/blog/" class="hover:text-[#D7E2EA] transition-colors">Backdrop</a></li>
+            <li aria-hidden="true">/</li>
+            <li class="text-[#D7E2EA]/70">Reviews</li>
+          </ol>
+        </nav>
+
+        <header class="mt-6 max-w-[720px]">
+          <h1
+            class="hero-heading font-black uppercase leading-[1.05] tracking-tight"
+            style="font-size:clamp(2rem, 6vw, 3.4rem)"
+          >
+            Reviews
+          </h1>
+
+          <p class="text-[#D7E2EA]/60 font-light leading-relaxed mt-5 text-[0.98rem]">
+            Every score here is an average of the verdicts published elsewhere, converted to a
+            1–10 scale and rounded to the nearest half point. Each article lists the outlets it
+            counted and the range they spanned, because a game that splits critics is telling you
+            something a midpoint hides.
+          </p>
+        </header>
+
+        {
+          posts.length > 0 && (
+            <dl class="grid grid-cols-2 sm:grid-cols-4 gap-3 mt-10 max-w-[720px]">
+              {[
+                ['Reviews', String(posts.length)],
+                ['Average', half(mean).toFixed(1)],
+                ['Lowest', half(lowest).toFixed(1)],
+                ['Highest', half(highest).toFixed(1)],
+              ].map(([label, value]) => (
+                <div class="rounded-[10px] border border-[#D7E2EA]/12 px-4 py-3.5">
+                  <dt class="text-[#D7E2EA]/35 font-medium uppercase tracking-widest text-[0.58rem]">
+                    {label}
+                  </dt>
+                  <dd class="hero-heading font-black text-[1.5rem] leading-none mt-1.5 tabular-nums">
+                    {value}
+                  </dd>
+                </div>
+              ))}
+            </dl>
+          )
+        }
+
+        <div class="mt-12 sm:mt-14">
+          {
+            posts.length > 0 ? (
+              <ArticleCardList posts={cards} />
+            ) : (
+              <p class="text-[#D7E2EA]/45 font-light">No scored reviews yet.</p>
+            )
+          }
+        </div>
+
+        {
+          posts.length > 0 && (
+            <section class="mt-16 sm:mt-20 pt-10 border-t border-[#D7E2EA]/12">
+              <h2 class="hero-heading font-black uppercase tracking-tight text-[1.15rem]">
+                Every score
+              </h2>
+              <div class="overflow-x-auto mt-6">
+                <table class="w-full text-[0.86rem] border-collapse min-w-[440px]">
+                  <thead>
+                    <tr class="text-[#D7E2EA]/35 font-medium uppercase tracking-widest text-[0.58rem] text-left">
+                      <th class="pb-2.5 font-medium">Reviewed</th>
+                      <th class="pb-2.5 font-medium text-right">Score</th>
+                      <th class="pb-2.5 font-medium text-right">Published</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {posts.map((p) => (
+                      <tr class="border-t border-[#D7E2EA]/10">
+                        <td class="py-2.5 pr-4">
+                          <a
+                            href={`/blog/${p.id}/`}
+                            class="text-[#D7E2EA]/80 transition-colors hover:text-white"
+                          >
+                            {p.data.reviewOf ?? p.data.title}
+                          </a>
+                        </td>
+                        <td class="py-2.5 text-right font-semibold tabular-nums text-[#D7E2EA]">
+                          {half(p.data.score as number).toFixed(1)}
+                        </td>
+                        <td class="py-2.5 text-right text-[#D7E2EA]/35 font-light tabular-nums whitespace-nowrap">
+                          {fmt(p.data.date)}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </section>
+          )
+        }
+      </div>
+    </div>
+  </div>
+</Base>

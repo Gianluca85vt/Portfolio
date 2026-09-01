@@ -1,0 +1,89 @@
+---
+/**
+ * The list used by the section hubs and the reviews index.
+ *
+ * Deliberately not the BlogList island. That component carries client-side
+ * filtering, a comment-count fetch and a Show more control, none of which a hub
+ * page needs — and all of which cost JavaScript on a page whose entire job is
+ * to be a crawlable list of links. This renders at build time and ships none.
+ */
+import { categoryColors, categoryPath } from '../data/portfolio';
+import type { BlogCategory } from '../data/portfolio';
+
+export interface CardPost {
+  slug: string;
+  title: string;
+  date: Date;
+  category: string;
+  excerpt: string;
+  cover?: string;
+  score?: number;
+}
+
+export interface Props {
+  posts: CardPost[];
+  /** Set on a page where every card is from the same section. */
+  hideCategory?: boolean;
+}
+
+const { posts, hideCategory = false } = Astro.props;
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+---
+
+<div class="grid gap-x-6 gap-y-9 sm:grid-cols-2 lg:grid-cols-3">
+  {
+    posts.map((post, i) => (
+      <article class="group">
+        <a href={`/blog/${post.slug}/`} class="block">
+          <div class="relative aspect-[16/10] overflow-hidden rounded-[6px] bg-black">
+            {post.cover && (
+              <img
+                src={post.cover}
+                alt=""
+                aria-hidden="true"
+                loading={i < 3 ? 'eager' : 'lazy'}
+                decoding="async"
+                class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+              />
+            )}
+            {post.score !== undefined && (
+              <span class="absolute top-2.5 right-2.5 z-10 rounded-[4px] bg-black/75 px-2 py-1 text-[0.68rem] font-semibold text-white tabular-nums">
+                {post.score}/10
+              </span>
+            )}
+          </div>
+        </a>
+
+        <div class="flex flex-wrap items-center gap-x-2.5 gap-y-1 mt-3.5">
+          {!hideCategory && (
+            <a
+              href={categoryPath(post.category)}
+              class="font-medium uppercase tracking-[0.11em] text-[0.6rem] transition-opacity hover:opacity-70"
+              style={`color:${categoryColors[post.category as BlogCategory] ?? '#7621B0'}`}
+            >
+              {post.category}
+            </a>
+          )}
+          <span class="text-[#D7E2EA]/30 font-light text-[0.66rem]">{fmt(post.date)}</span>
+        </div>
+
+        <h2 class="mt-1.5 leading-snug">
+          <a
+            href={`/blog/${post.slug}/`}
+            class="text-[#D7E2EA]/90 font-medium text-[1rem] transition-colors hover:text-white"
+          >
+            {post.title}
+          </a>
+        </h2>
+
+        {post.excerpt && (
+          <p class="text-[#D7E2EA]/45 font-light text-[0.84rem] leading-relaxed mt-2">
+            {post.excerpt}
+          </p>
+        )}
+      </article>
+    ))
+  }
+</div>
