@@ -1,6 +1,21 @@
-# Games — harvested 2026-08-31T19:40:38.087Z
+# Games — harvested 2026-09-01T09:35:33.129Z
 
 ## Eurogamer
+
+### "Most" of the developers behind critically acclaimed Star Wars Zero Company were furloughed ahead of launch
+Tue, 01 Sep 2026 09:03:40 +0000 — https://www.eurogamer.net/star-wars-zero-company-developers-furloughed
+
+Most of the developers behind the critically acclaimed Star Wars Zero Company were furloughed weeks before the game's launch last week, as a legal dispute between the studio founders puts Bit Reactor's ownership into question. Read more
+
+### Orbitals review
+Tue, 01 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/orbitals-review
+
+Orbitals' twin protagonists Maki and Omura have this adorable little habit. When they leave behind a tool &ndash; a ground-pound backpack or hacked microwave oven &ndash; they'll often say goodbye to it. Or sayonara, rather, if you're playing Orbitals in Japanese (as well you should; subs over dubs any day). Read more
+
+### As the legal hunt for the GTA 6 leaker continues, Take-Two reportedly tries another more secretive Discord subpoena, this time specifying individuals
+Tue, 01 Sep 2026 08:26:02 +0000 — https://www.eurogamer.net/gta-6-leaker-discord-subpoena-sealed-take-two
+
+Rockstar parent company Take-Two has escalated its hunt for the people behind the numerous Grand Theft Auto 6 leaks from two weeks ago . The publisher has filed a request for another subpoena, though this time it's asking the court to withhold the details from the public and keep it sealed. Read more
 
 ### Onimusha: Way of the Sword review
 Mon, 31 Aug 2026 15:05:47 +0000 — https://www.eurogamer.net/onimusha-way-of-the-sword-review
@@ -47,30 +62,48 @@ Mon, 31 Aug 2026 10:41:24 +0000 — https://www.eurogamer.net/ed-sheeran-surpris
 
 Ed Sheeran made a surprise appearance at the Pok&eacute;mon World Championships this weekend, opening the closing ceremony with Celestial and an acoustic rendition of the original Pok&eacute;mon anime's theme tune. Read more
 
-### The Witcher 4 already runs on all target platforms - CD Projekt Red not taking any chances after Cyberpunk 2077
-Mon, 31 Aug 2026 10:10:17 +0000 — https://www.eurogamer.net/the-witcher-4-runs-on-pc-ps5-xbox-cyberpunk-2077-lessons
-
-The Witcher 4 , CD Projekt Red's next major game, will hopefully not suffer the performance problems of the studio's former major release, Cyberpunk 2077 . The developer, keenly aware of the latter's disastrous launch, has adopted a new approach to game optimisation for the former. Read more
-
-### Call of Duty: Modern Warfare 4 beta Steam numbers haven't budged in the second weekend, despite Warzone's arrival and transformative patch
-Mon, 31 Aug 2026 08:35:55 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-second-weekend-major-patch-steam-numbers
-
-We're deep in the second and final session of the Call of Duty: Modern Warfare 4 beta. This open portion is available on one more platform - Switch 2 , and can be accessed without the need for a pre-order. It also includes a sampler of Warzone's next Resurgence map and two Ground War maps, alongside all the maps and modes from the first beta weekend. None of that appears to have moved the needle, at least on Steam. Read more
-
-### Activision sends a legal rep to a Call of Duty cheat seller's front door, films the whole thing, posts it online
-Sun, 30 Aug 2026 16:48:46 +0000 — https://www.eurogamer.net/activision-cease-and-desist-call-of-duty-cheat-maker-elocarry-video
-
-Activision has posted footage of one of its legal representatives turning up at the Ohio home of a notorious Call of Duty cheat seller and handing over a cease-and-desist order. Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Rovio closes Copenhagen studio following shut down of Sonic Blitz
+Tue, 01 Sep 2026 08:47:50 +0000 — https://www.gamesindustry.biz/rovio-closes-copenhagen-studio-following-shut-down-of-sonic-blitz
+
+Rovio has closed its Copenhagen studio after cancelling its mobile title Sonic Blitz. Read more
+
+### Bit Reactor furloughed "many of its workers" in the weeks before Star Wars Zero Company's launch
+Tue, 01 Sep 2026 08:07:34 +0000 — https://www.gamesindustry.biz/bit-reactor-furloughed-many-of-its-workers-in-the-weeks-before-star-wars-zero-companys-launch
+
+Star Wars Zero Company developer Bit Reactor furloughed "many of its workers" prior to the game's release. Read more
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Capcom Schedules TGS Showcase for 16th September, 40 Minutes of News
+Tue, 01 Sep 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/09/capcom-schedules-tgs-showcase-for-16th-september-40-minutes-of-news
+
+Capcom goes under the Spotlight. Capcom has announced that it will be hosting another Spotlight livestream to coincide with Tokyo Game Show on 16th September 2026, promising 40 minutes of news and game updates. Rather than revealing what PS5 titles will be there, it simply asks you to stay tuned for "the latest news on Capcom" and its lineup. History would suggest the event will be relatively low-key, as Capcom Spotlight livestreams have never hosted major announcements. However, tying this month's showcase TGS could suggest the publisher has some bigger reveals in store. Read the full article on pushsquare.com
+
+### September 2026 PS Plus Essential Games Available to Download Now
+Tue, 01 Sep 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/09/september-2026-ps-plus-essential-games-available-to-download-now
+
+Redeemable until 6th October. Another set of PS Plus Essential games is available to claim and download now for anyone who's an active subscriber, with four PS5, PS4 titles on offer in September 2026. They're all live and available now, and will be redeemable until 6th October 2026, at which point another batch of games replaces them. Here's a reminder of what's on offer this month: Read the full article on pushsquare.com
+
+### Preview: Stranger Than Heaven Kicked My Ass, and I m Not Proud
+Mon, 31 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/previews/stranger-than-heaven-kicked-my-ass-and-im-not-proud
+
+Stop! Stop! Sammy's already dead. Stranger Than Heaven kicked my ass, guys. I’ve been playing the Yakuza games since the PS2, so I’d like to think I’m a seasoned enjoyer of RGG Studio’s specific brand of brawler gameplay. Read the full article on pushsquare.com
+
+### 30 New GTA 6 PS5 Screenshots to Blow You Away After Extended Look
+Mon, 31 Aug 2026 23:15:00 GMT — https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-to-blow-you-away-after-extended-look
+
+This looks ridiculous. Rockstar has added more GTA 6 screenshots to its official website in the aftermath of last week’s mind-blowing Extended Look . Some of these images were shared exclusively among influencers first, so it’s possible you may have seen these floating around on social media, like the iguana for example. Read the full article on pushsquare.com
+
+### There s a Lot of Resentment for Sony : Sources Go Back and Forth on Publisher Backlash to PS5 Physical Discs
+Mon, 31 Aug 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/09/theres-a-lot-of-resentment-for-sony-sources-go-back-and-forth-on-publisher-backlash-to-ps5-physical-discs
+
+Here we go again. I’m not entirely sure how this rumour got started, but the web is awash with reports this weekend that Sony is considering reversing its stance on physical games. The manufacturer has announced plans to cease manufacturing discs in January 2028, which has led to a loud outcry from select customers, prompting an indefinite “ blackout ” of the PS5 console. Read the full article on pushsquare.com
 
 ### These 11+ PS5 Games Will Be Delisted or Disabled in September and October 2026
 Mon, 31 Aug 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/08/these-11plus-ps5-games-will-be-delisted-or-disabled-in-september-and-october-2026
@@ -107,32 +140,17 @@ Mon, 31 Aug 2026 15:01:00 GMT — https://www.pushsquare.com/reviews/ps5/the-blo
 
 Slow bleed. Across its first five hours or so, The Blood of Dawnwalker came very close to convincing me that it could be the next genre-conquering RPG. The vampiric debut from developer Rebel Wolves, Dawnwalker starts surprisingly strong, flaunting all of the intrigue and role-playing promise that you'd expect from a team that was once heavily involved with The Witcher 3 . Read the full article on pushsquare.com
 
-### Review: Onimusha: Way of the Sword (PS5) - Capcom Delivers a Masterclass in Samurai Action
-Mon, 31 Aug 2026 15:00:00 GMT — https://www.pushsquare.com/reviews/ps5/onimusha-way-of-the-sword
-
-The one and oni. It's become very difficult to doubt Capcom and its ability to craft incredible action games. So when Onimusha: Way of the Sword was first announced back in 2024, I couldn't help but think that it was destined to be a banger. And a banger it is. A full-on revival of the developer's once beloved demon-slaying series, Way of the Sword is one of the best combat-focused outings I've played in years. Read the full article on pushsquare.com
-
-### Trophies Surprisingly Added to PS1 Shooter 2 Years After PS5 Release
-Mon, 31 Aug 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/08/trophies-surprisingly-added-to-ps1-shooter-2-years-after-ps5-release
-
-And it's an easy Plat. While I’d broadly agree Sony could be adding retro games to its PS Plus Premium tier faster, I think the support has generally been good. And while Trophies are not mandatory, the platform holder is still porting them into past releases, like the PS1’s Star Wars: Rebel Assault II: The Hidden Empire . Read the full article on pushsquare.com
-
-### Persona 4 Revival Doesn t Add Gay Romance, Despite Fan Demand
-Mon, 31 Aug 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/08/persona-4-revival-doesnt-add-gay-romance-despite-fan-demand
-
-Yo-Yosuke. Some fans of Persona 4 have been pushing a Yosuke romance route for decades, but Atlus' series continues to shy away from including gay relationships. For many, upcoming remake Persona 4 Revival presented the perfect opportunity: the Japanese developer could acknowledge the demand for gay romance by finally allowing players to confess their feelings to Yosuke. Read the full article on pushsquare.com
-
-### State of Play Confirmed for 3rd September, State of Play Japan Show Straight After
-Mon, 31 Aug 2026 12:10:00 GMT — https://www.pushsquare.com/news/2026/08/state-of-play-confirmed-for-3rd-september-state-of-play-japan-show-straight-after
-
-See a new look at Final Fantasy 7 Revelation. Sony has officially announced the next State of Play showcase will take place this week, on 3rd September 2026. The livestream will have "updates and announcements from PlayStation Studios and our third-party partners", and it will conclude with an "extended look" at Final Fantasy 7 Revelation . Read the full article on pushsquare.com
-
-### Preview: Hellraiser: Revival Was My Biggest Surprise of Gamescom
-Mon, 31 Aug 2026 12:00:00 GMT — https://www.pushsquare.com/previews/hellraiser-revival-was-my-biggest-surprise-of-gamescom
-
-Explorers in the further regions of gaming experiences. Just a few days before heading out to Gamescom, I decided to watch Clive Barker’s Hellraiser for the first time. It’s a cult-classic 80s horror film filled with brilliant, gory practical effects and a niche sadomasochistic spin in its narrative. It wasn’t just because it was a hole in my film C.V though; it’s because a few days later I’d be playing Clive Barker’s Hellraiser: Revival , which, to the shock of many, is a first-person single-player narrative game, clocking in at about 10 hours in length. That was music to my ears. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Star Wars Zero Company studio furloughed workers ahead of launch
+Tue, 01 Sep 2026 09:19:23 GMT — https://www.gamedeveloper.com/business/star-wars-zero-company-studio-furloughed-workers-ahead-of-launch
+
+Bit Reactor has confirmed it temporarily suspended workers without pay due to concerns over how its debut title would perform.
+
+### Housemarque co-founder Ilari Kuittinen exits from studio
+Mon, 31 Aug 2026 17:29:37 GMT — https://www.gamedeveloper.com/business/housemarque-co-founder-ilari-kuittinen-retires-from-studio
+
+'Strive to be a better professional, and a better human being.'
 
 ### Report: 13TB of Steam data leaked after users access 'publicly accessible endpoint'
 Mon, 31 Aug 2026 15:07:37 GMT — https://www.gamedeveloper.com/pc/report-13tb-of-steam-data-leaked-after-users-access-publicly-accessible-endpoint-

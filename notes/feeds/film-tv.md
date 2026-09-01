@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-08-31T19:40:38.087Z
+# Film & TV — harvested 2026-09-01T09:35:33.129Z
 
 ## Variety
 
-### Harry Potter Series, Game of Thrones, The White Lotus on the Slate as HBO Max Sets October Launch on Prime Video, Hulu Japan
-Mon, 31 Aug 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/hbo-max-prime-video-hulu-japan-1236847393/
+### SND Swoops on Toronto-Bound Bérénice Bejo Starrer ‘Alice: Pioneer of Cinema’ Ahead of Unifrance Rendez-Vous in Le Havre (EXCLUSIVE)
+Tue, 01 Sep 2026 09:02:11 +0000 — https://variety.com/2026/film/global/snd-berenice-bejo-alice-pioneer-of-cinema-1236847159/
 
-HBO Max will launch on Prime Video and Hulu Japan in October, giving subscribers access to the streamer s slate of HBO, Warner Bros. Pictures, Warner Bros. Television, DC Studios and Max originals programming, including a new HBO original Harry Potter series debuting at Christmas. The rollout stems from a global partnership between Warner Bros. Discovery [ ]
+Paris-based film and television studio SND, part of French media group M6, has picked up world sales on the high-end period drama “Alice: Pioneer of Cinema,” in which Oscar-nominee Bérénice Bejo (“The Artist”) stars as Alice Guy, the very first female fiction filmmaker. The six-parter, ordered by HBO Max and France Télévisions, is due to world [ ]
 
-### The Met s Cancellation of the John Galliano Exhibit Doesn t Undo the Damage
-Mon, 31 Aug 2026 18:50:14 +0000 — https://variety.com/2026/voices/columns/met-john-galliano-exhibit-cancellation-1236847567/
+### Vicon Acquires Facial Capture Firm Captive Devices (EXCLUSIVE)
+Tue, 01 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/news/vicon-acquires-captive-devices-facial-capture-1236848044/
 
-With the decision to abandon a planned retrospective on the works of fashion designer John Galliano announced just one month ago, the Metropolitan Museum of Art and its affiliated Costume Institute has bookended an ignominious chapter in its vaunted history. The exhibition, and particularly Galliano’s direct involvement in what might otherwise be an objective assessment [ ]
+Vicon has acquired Captive Devices Ltd, a Manchester, U.K.-based maker of head-mounted camera systems for markerless facial performance capture. Vicon is the motion capture arm of Oxford Metrics. The founding team at Captive Devices has joined Vicon effective immediately. Ninja Theory, Nant Studios, Animatrik and Deep Silver Dambuster Studios are among the studios that already [ ]
 
-### Joko Anwar s Satan s Slaves: Origin Boarded by Barunson E A for International Sales
-Mon, 31 Aug 2026 18:15:47 +0000 — https://variety.com/2026/film/news/joko-anwar-satans-slaves-origin-barunson-ea-1236847552/
+### Isabelle Huppert, Maggie Gyllenhaal, Kore-Eda Hirokazu, Fan Bingbing, Michelle Yeoh on Guest List as Busan Unveils Galas, Asian Cinema Competition
+Tue, 01 Sep 2026 08:18:08 +0000 — https://variety.com/2026/film/festivals/isabelle-huppert-busan-asian-cinema-competition-1236848032/
 
-Joko Anwar s Satan s Slaves: Origin (original title: Pengabdi Setan 3: Origin ), the next chapter in the filmmaker s blockbuster horror franchise, has been boarded for worldwide sales by Barunson E A, the Korean studio behind Bong Joon Ho s Oscar-winning Parasite. The company will launch the project to international buyers at the Toronto Film Festival s inaugural market this [ ]
+The 31st Busan International Film Festival (BIFF) has unveiled a guest lineup headlined by Isabelle Huppert, Maggie Gyllenhaal, Kore-eda Hirokazu, Fan Bingbing and Michelle Yeoh. Huppert brings her latest film, All About Corinne, to Busan audiences. Gyllenhaal makes her first visit to Korea with Flesh Impact, a project created to mark the centenary of Marilyn [ ]
 
-### Big Mistakes Season 2 Casts Lorenzo de Moor, Poorna Jagannathan
-Mon, 31 Aug 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/big-mistakes-season-2-lorenzo-de-moor-poorna-jagannathan-1236847491/
+### Mexico’s Martfilms Boards ‘Looking for Sam,’ Mariana Rondón s Follow-Up to Bad Hair (EXCLUSIVE)
+Tue, 01 Sep 2026 06:28:01 +0000 — https://variety.com/2026/film/global/martfilms-looking-for-sam-mariana-rondon-san-sebastian-1236847820/
 
-Big Mistakes Season 2 is now in production, with the Netflix comedy series adding two actors in recurring roles. Both Lorenzo de Moor and Poorna Jagannathan will recur in the show s second season, joining returning stars Dan Levy, Taylor Ortega, Laurie Metcalf, Jack Innanen, Boran Kuzum and Abby Quinn. As previously announced, Elizabeth Perkins has [ ]
+Mexico’s Martfilms has boarded “Looking for Sam,” Mariana Rondón s follow-up to her acclaimed coming -of-age drama Bad Hair” (“Pelo malo”). A docu-fiction hybrid bound for San Sebastian s Europe-Latin America Co-Production Forum, the drama follows two lead actors from Mariana Rondón’s 2013 San Sebastian Golden Shell winner “Bad Hair” (“Pelo Malo”): Sam Lange who played the [ ]
 
-### Paradise Lost From Train to Busan Director Yeon Sang-ho Acquired by Well Go USA Entertainment (EXCLUSIVE)
-Mon, 31 Aug 2026 17:58:13 +0000 — https://variety.com/2026/film/global/paradise-lost-from-train-busan-director-yeon-sang-ho-well-go-1236847477/
+### Sandra Bullock Recalls First Practical Magic Bombing After Thinking People Are Going to Love It : And Then It Got Quiet
+Tue, 01 Sep 2026 04:25:32 +0000 — https://variety.com/2026/film/columns/sandra-bullock-first-practical-magic-bombing-nicole-kidman-1236847970/
 
-“Paradise Lost,” the latest mystery-thriller from “Train to Busan” and “Hellbound” filmmaker Yeon Sang-ho, has been bought by Well Go USA Entertainment ahead of its world premiere at Toronto. “Paradise Lost” will bow Sept. 13 at Toronto’s Royal Alexandra Theatre as part of TIFF’s Special Presentations lineup, marking Yeon’s fourth appearance at the festival. Starring [ ]
+The Owen sisters may be back in “Practical Magic 2” 28 years after Nicole Kidman and Sandra Bullock first played the sibling witches, but that doesn’t mean the first movie’s outing doesn’t still sting a little. The original “Practical Magic” was a critical and box office failure before earning cult classic status over the last [ ]
 
-### D4vd Abruptly Parts Ways With Legal Team in Favor of Public Defenders
-Mon, 31 Aug 2026 17:45:06 +0000 — https://variety.com/2026/music/news/d4vd-abruptly-parts-ways-with-legal-team-public-defenders-1236847525/
+### Xolo Maridueña Was Not Sure Blue Beetle Would Ever Come Back, Until James Gunn Called Him About the Superman Sequel: The Most Humbled
+Tue, 01 Sep 2026 03:42:11 +0000 — https://variety.com/2026/film/news/xolo-mariduena-blue-beetle-james-gunn-superman-sequel-1236847961/
 
-Singer D4vd has parted ways with his legal representation in favor of public defenders for his case in which he is accused of allegedly killing and dismembering a 14-year-old girl. The singer, whose real name is David Anthony Burke, appeared in a Los Angeles court earlier this morning and asked to have the public defender s [ ]
+Xolo Maridueña wasn’t sure what would become of Blue Beetle after he debuted as the DC crime fighter in a 2023 blockbuster. That was, until DC boss James Gunn called him about coming back for the “Superman” sequel, “Man of Tomorrow.” “I was in Japan with my friends; nobody knew anything,” Maridueña recalled on the [ ]
 
-### Mel Gibson Apologizes for Mocking Sign Language Interpreter at Backlash Grows: Thoughtless Idiocy With No Intended Maliciousness
-Mon, 31 Aug 2026 17:44:14 +0000 — https://variety.com/2026/film/news/mel-gibson-mocks-asl-interpreter-fan-expo-apologizes-1236847278/
+### Alex Cooper s Love Overboard Canceled by Hulu After One Season
+Tue, 01 Sep 2026 02:56:49 +0000 — https://variety.com/2026/tv/news/love-overboard-canceled-hulu-1236847953/
 
-Mel Gibson has issued an apology amid backlash over his recent appearance at FanExpo Canada, where the Oscar winner mocked an ASL interpreter while walking on stage to attend his retrospective Q A. Video of the incident was widely circulated on social media platforms like X, with Gibson condemned for his insensitive actions. “Sometimes when you [ ]
+Love Overboard is lost at sea. The dating show executive produced by Alex Cooper has been canceled by Hulu, Variety has confirmed. Hosted by The Bachelorette and The Traitors alum Gabby Windey, the reality series followed 22 contestants aboard a luxury yacht who were looking for love while also competing in challenges to gain access [ ]
 
-### Ella Langley s Choosin Texas Smashes Record for Most Weeks at No. 1 for a Non-Holiday Song
-Mon, 31 Aug 2026 17:37:49 +0000 — https://variety.com/2026/music/news/ella-langleys-choosin-texas-break-hot-100-chart-record-1236847519/
+### Duane Keffe D Davis Found Guilty of Orchestrating Tupac Shakur s Murder
+Tue, 01 Sep 2026 00:39:33 +0000 — https://variety.com/2026/music/news/duane-keffe-d-davis-found-guilty-tupac-shakur-murder-1236847908/
 
-Ella Langley’s “Choosin’ Texas” has topped 20 weeks at No. 1 on the Billboard Hot 100 — making it the longest run ever at the top of the chart for a non-holiday song. The song passed Shaboozey’s 2024 hit “A Bar Song (Tipsy),” and “Old Town Road,” by Lil Nas X feat. Billy Ray Cyrus, [ ]
+A jury has found Duane Keffe D Davis guilty of orchestrating the 1996 murder of Tupac Shakur. After a day of closing arguments, Davis was found guilty of murder with the use of a deadly weapon with the intent to promote, further or assist a criminal gang, according to ABC News. Davis, 63, faces a [ ]
 
-### The Ringer s Sean Fennessey Criticizes His Parent Company s Partnership With Netflix: There s an Inherent Conflict and It Wasn t My Decision
-Mon, 31 Aug 2026 17:26:57 +0000 — https://variety.com/2026/digital/news/the-ringer-sean-fennessey-criticizes-netflix-partnership-1236847436/
+### Guardians of the Video Game Lands Finecut for International Sales Ahead of Toronto Market
+Tue, 01 Sep 2026 00:00:00 +0000 — https://variety.com/2026/film/news/guardians-of-the-video-game-finecut-1236847132/
 
-Some dissent in Bill Simmons’ The Ringer publishing and podcast network is airing out publicly. Sean Fennessey, the former head of content for The Ringer and host of the platform s popular “The Big Picture” podcast, appeared on the podcast “Talk Easy With Sam Fragoso” on Aug. 30 and touched on several topics including that [ ]
+Seoul-based sales agent Finecut has acquired international sales rights to Guardians of the Video Game, a 3D animated feature based on the Naver Webtoon of the same name, ahead of the Toronto market. Guardians of the Video Game originated as a Naver Webtoon by Gasfard that has amassed 345 million views. The property was later [ ]
 
-### Sony Music Publishing, Warner Chappell Allege Anthropic Launched ‘Brazen Campaign’ to Illegally Train Claude on Copyrighted Songs in New Lawsuit
-Mon, 31 Aug 2026 17:06:32 +0000 — https://variety.com/2026/music/news/sony-music-publishing-warner-chappell-anthropic-lawsuit-1236847442/
+### The Rise of Love Island USA : From Death Threats Against Contestants to Agency Battles for the Biggest Stars
+Mon, 31 Aug 2026 23:30:00 +0000 — https://variety.com/2026/tv/news/rise-of-love-island-usa-1236847622/
 
-Sony Music Publishing and Warner Chappell Music have filed a federal lawsuit against Anthropic that claimed the AI giant s alleged theft of the companies’ intellectual property marked “a brazen campaign of illegally torrenting, scraping, and downloading copyrighted works on a massive scale,” representing the latest legal salvo in the music industry‘s reckoning with the technology’s rise. The [ ]
+When Liv Walker first heard from the “Love Island USA” casting team, she thought it might be a scam. After all, she had never even seen the show. Originally scouted for Season 5 of the reality dating show, Walker turned down the initial offer. But when the casting team reached out again for the sixth [ ]
 
 ## The Hollywood Reporter
 
-### If You Prompt a Movie or Song Into Existence With AI, You Shouldn t Be Able to Profit From It
-Mon, 31 Aug 2026 19:36:54 +0000 — https://www.hollywoodreporter.com/business/business-news/ai-movies-prompts-songs-legislation-1236680256/
+### Ari Emanuel and His Brothers Donate $550,000 to Palestinian Doctor Training Program
+Tue, 01 Sep 2026 09:25:09 +0000 — https://www.hollywoodreporter.com/news/general-news/rahm-emanuel-zeke-emanuel-ari-emanuel-philanthropy-israel-1236686531/
 
-"Politicians should back legislation to prevent prompted generative AI outputs from being copyrighted across film, TV and music. The foundation of human creativity is at stake," writes the Motion Picture Sound Editors president.
+The donation will go towards funding the training of pediatric doctors and nurses from An-Najah University Hospital in the West Bank city of Nablus.
 
-### Ariana Grande Has to Wear Cozy Footwear During Final London Shows After Suffering Minor Injury
-Mon, 31 Aug 2026 19:10:43 +0000 — https://www.hollywoodreporter.com/music/music-news/ariana-grande-minor-injury-london-shows-tour-1236685968/
+### In Until the Day Ends, Two Serbs on Opposite Sides of a Deeply Divided Society Fall for Each Other (Exclusive Venice Trailer)
+Tue, 01 Sep 2026 08:45:08 +0000 — https://www.hollywoodreporter.com/movies/movie-news/venice-film-clip-until-the-day-ends-love-serbia-protests-1236679986/
 
-The Grammy winner has two performances left on her Eternal Sunshine Tour.
+Jelena Maksimović's full-length debut, set against the country's anti-government protests, becomes the first female-directed Serbian narrative feature at the Venice Film Festival in decades.
 
-### The Sphere Is Adding Enhanced 4D Effects to The Wizard of Oz
-Mon, 31 Aug 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/sphere-wizard-of-oz-new-4d-effects-1236685773/
+### Shadow Has Fallen : Iwan Rheon, Brendan Coyle, Atandwa Kani Join Has Fallen Season 3
+Tue, 01 Sep 2026 07:35:17 +0000 — https://www.hollywoodreporter.com/tv/tv-news/shadow-has-fallen-season-3-iwan-rheon-brendan-coyle-africa-1236686483/
 
-Enhanced animatronic flying monkeys, new pyrotechnics, "Glinda Glitter" and scented apples will be added to the new version of the classic film.
+Ritu Arya and Tewfik Jallab are back for the next installment of the StudioCanal, Urban Myth Films, Millenium and G-Base franchise, which is set in South Africa and has commenced filming.
 
-### $10 Million in Funding Earmarked for CA Postproduction Tax Credit If Gov. Newsom Signs
-Mon, 31 Aug 2026 18:48:05 +0000 — https://www.hollywoodreporter.com/business/business-news/10-million-funding-earmarked-ca-postproduction-tax-credit-1236685908/
+### Love Island USA Season 8 Reunion Sees Fiery Islander Confrontations, Tear-Filled Moments and More
+Tue, 01 Sep 2026 07:25:59 +0000 — https://www.hollywoodreporter.com/tv/tv-news/love-island-usa-season-8-reunion-highlights-best-moments-1236685285/
 
-AB 2319, which aims to lure more editing, sound mixing and other post work to the state, passed the state legislature on Sunday.
+Ariana Madix and Andy Cohen co-host the Peacock reunion special, which saw the season's winners, fan-favorite Islanders and bombshells reunite.
 
-### Outlander: Blood of My Blood Returns — and Reunions Don t Last Long
-Mon, 31 Aug 2026 17:20:34 +0000 — https://www.hollywoodreporter.com/tv/tv-features/outlander-blood-of-my-blood-season-2-trailer-1236685743/
+### The Varnell Hill Show Review: Tommy Davidson in Paramount+ s Amiable Throwback of a Martin Spinoff
+Tue, 01 Sep 2026 07:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/the-varnell-hill-show-review-martin-spinoff-paramount-plus-1236685311/
 
-Did Julia, Henry and their newborn baby William travel through the infamous standing stones of Craigh Na Dun?
+Martin Lawrence executive produces and guest stars on the comedy, which sees Davidson reprising the role of the late-night talk show host more than three decades since he was first introduced.
 
-### Tires Renewed for Season 4 by Netflix
-Mon, 31 Aug 2026 17:12:39 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tires-renewed-season-4-netflix-shane-gillis-steve-gerben-1236685840/
+### New York City Filming Locations: 48 Iconic Movie and TV Sites to Visit
+Tue, 01 Sep 2026 06:50:48 +0000 — https://www.hollywoodreporter.com/lists/new-york-city-filming-locations-movie-tv-sites/
 
-And Shane Gillis is excited beyond words.
+From classic to modern films and shows, The Hollywood Reporter has compiled a list of real-world places that brought them to life.
 
-### How Andrew Scott Took on the Role of a Lifetime in ‘Elsinore’
-Mon, 31 Aug 2026 17:03:53 +0000 — https://www.hollywoodreporter.com/movies/movie-features/andrew-scott-elsinore-hamlet-exclusive-1236685337/
+### Is MrBeast and James Patterson s Novel Collaboration Headed for a Disastrous Debut?
+Tue, 01 Sep 2026 03:27:53 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/mrbeast-james-pattersons-novel-low-presale-orders-1236686421/
 
-The Dublin native portrays a closeted actor dying of AIDS while preparing to play Hamlet on stage: “This film is so much about everything in my life.”
+As of last week, preorders for 'The Most Dangerous Games' were reportedly "numbering in the four digits." But sources insist the authors are on track.
 
-### Off Campus Star Stephen Kalyn Joins The Housemaid s Secret
-Mon, 31 Aug 2026 17:00:25 +0000 — https://www.hollywoodreporter.com/movies/movie-news/stephen-kalyn-the-housemaids-secret-1236685839/
+### Kelly Clarkson Performs Golden From Kpop Demon Hunters for Final Talk Show
+Tue, 01 Sep 2026 02:42:54 +0000 — https://www.hollywoodreporter.com/music/music-news/kelly-clarkson-golden-kpop-demon-hunters-watch-1236686374/
 
-The actor joins Sydney Sweeney, Kirsten Dunst and Paul Anthony Kelly.
+The singer-host taped the final episode of 'The Kelly Clarkson Show' on Monday by singing her most requested "Kellyoke" cover song ever.
 
-### Norman Reedus Boards Apple TV Spy Thriller Disavowed
-Mon, 31 Aug 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/norman-reedus-apple-tv-disavowed-spy-series-1236685737/
+### Obsession Producer Files Lawsuit Claiming She Was Cut Out of Profits Despite Rescuing Cut
+Tue, 01 Sep 2026 01:55:05 +0000 — https://www.hollywoodreporter.com/business/business-news/obsession-lawsuit-profits-producer-1236683252/
 
-The 'Walking Dead' mainstay will star opposite James Marsden in the series.
+Producers James Harris and Mark Lane are accused by fellow producer Leonora Ann Darby of making compensation promises that they did not keep when the Curry Barker feature became a massive hit.
 
-### Kenneth Lonergan Writes Letter in Defense of Mark Ruffalo, Calls Antisemitism Accusation Cynical
-Mon, 31 Aug 2026 16:58:50 +0000 — https://www.hollywoodreporter.com/news/politics-news/kenneth-lonergan-letter-mark-ruffalo-1236684843/
+### Rob and Michele Reiner s Son Jake Marries Longtime Girlfriend
+Tue, 01 Sep 2026 01:50:01 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/rob-reiner-son-jake-married-maria-gilfillan-1236686362/
 
-In a letter shared with The Hollywood Reporter, the Oscar winner says the "notion he is antisemitic is overtly preposterous, and the accusation itself a cynical and disgusting lie."
+The ceremony reportedly took place eight months after the brutal murder of his parents in December.
 
 ## Deadline
 
-### KiKi Layne Luke Hemsworth Join Amazon MGM Actioner Deadlocked
-Mon, 31 Aug 2026 19:30:00 +0000 — https://deadline.com/2026/08/deadlocked-movie-adds-kiki-layne-luke-hemsworth-1237063323/
+### Hearst Networks Orders Lizzie Borden Aileen Wuornos Docs From Ed Gein: Original Psychopath Team
+Tue, 01 Sep 2026 09:22:03 +0000 — https://deadline.com/2026/09/hearst-networks-lizzie-borden-aileen-wuornos-docs-1237064002/
 
-EXCLUSIVE: KiKi Layne (Vought Rising) and Luke Hemsworth (Westworld) have boarded Deadlocked, the new action film from Amazon MGM Studios that Deadline revealed earlier this month. Character details are being kept under wraps. The duo joins previously announced Jamie Foxx and Sasha Calle. Directed by Nikhil Bhat, Deadlocked follows a grieving former Marine serving jury duty who is forced [ ]
+EXCLUSIVE: Hearst Networks is following up its AI-aided doc about serial killer Ed Gein with two more true-crime docs from the same team. Hearst, Spirit Studios and distributor BossaNova Media are back together for Lizzie Borden: 40 Whacks and Aileen Wuornos: Damsel of Death, following the docu-drama Ed Gein: Original Psychopath, which was among Crime+Investigation s [ ]
 
-### HBO Max To Launch In Japan As Hub Within Prime Video Hulu
-Mon, 31 Aug 2026 19:00:00 +0000 — https://deadline.com/2026/08/hbo-max-launch-japan-amazon-hulu-1237063387/
+### Edward Berger Jane Tranter Among Headliners At New-Look MIA
+Tue, 01 Sep 2026 09:00:00 +0000 — https://deadline.com/2026/09/mia-market-edward-berger-jane-tranter-bassetti-marsh-1237063994/
 
-Warner Bros Discovery is rolling out its HBO Max streaming service in Japan. The company said Monday it has struck deals with Amazon s Prime Video and Hulu and will launch HBO Max as hubs within these two services beginning October 1. It will give subscribers access to a raft of shows such as House of [ ]
+EXCLUSIVE: Italy s MIA Market just unveiled a group of international heavy hitters for its upcoming edition in Rome. Conclave director Edward Berger, Banijay Entertainment CEO Marco Bassetti, Canal+ Deputy CEO Anna Marsh and Jane Tranter, exec producer of Industry and Succession, will all feature in fireside chats at MIA 2026. The speaker announcment came alongside [ ]
 
-### Tires : Netflix Officially Greenlights Season 4 Of Shane Gillis Workplace Comedy Series
-Mon, 31 Aug 2026 18:04:05 +0000 — https://deadline.com/2026/08/tires-renewed-season-4-shane-gillis-netflx-1237063262/
+### Prime Video Sets Premiere Date For Third Final Season Of Maxton Hall
+Tue, 01 Sep 2026 08:12:42 +0000 — https://deadline.com/2026/09/maxton-hall-season-3-release-date-prime-video-1237063997/
 
-UPDATED: Shane Gillis Tires will return for a fourth season on Netflix. The new installment of the single-camera comedy is believed to have been essentially picked up as part of the streamer s overall deal with Gillis and fellow Tires co-creator John McKeever announced in January. It has now been formally greenlighted. As Deadline reported last [ ]
+Maxton Hall – The World Between Us fans are getting an early Christmas present with the third season of Prime Video’s YA hit launching on December 9. Season 3 will be the final chapter of Maxton, with Harriet Herbig-Matten returning as Ruby and Damian Hardung reprising his role as James. Prime Video also released a [ ]
 
-### Big Mistakes Adds Poorna Jagannathan Lorenzo De Moor As Recurring For Season 2
-Mon, 31 Aug 2026 18:00:00 +0000 — https://deadline.com/2026/08/big-mistakes-season-2-poorna-jagannathan-lorenzo-de-moor-1237062355/
+### Busan Fest Unveils 14-Title Competition Section, Including World Premieres From Majid Majidi, Hirose Nanako Yosep Anggi Noen
+Tue, 01 Sep 2026 07:50:06 +0000 — https://deadline.com/2026/09/busan-rintaro-majid-majidi-maggie-gyllenhaal-michelle-yeoh-1237063850/
 
-Netflix s comedy series Big Mistakes has added two recurring cast members as it goes into production on Season 2. Poorna Jagannathan has been cast as Dréa, and Lorenzo De Moor will play Leo, the streamer revealed Monday. Along with the casting announcement, Netflix confirmed that production on Season 2 has begun in New Jersey. Returning [ ]
+Busan International Film Festival (BIFF) unveiled its full program today, including its Competition section; its biggest selection of films since 2019; and a stellar line-up of guests including Maggie Gyllenhaal, Michelle Yeoh, Majid Majidi and Japanese anime master Rintaro. Entering its second edition this year, the Competition section will screen 14 titles, of which 12 [ ]
 
-### Apple May Soon Join Google In Renaming Lake Ontario After Donald Trump s Executive Order
-Mon, 31 Aug 2026 17:31:12 +0000 — https://deadline.com/2026/08/apple-google-lake-ontario-donald-trump-1237063201/
+### Josh Duhamel To Star In ‘Speak’ From Lorenzo Di Bonaventura Joe Carnahan; Twenty-Nine Palms CAA Media Finance Launching Sales At TIFF
+Tue, 01 Sep 2026 07:06:30 +0000 — https://deadline.com/2026/09/josh-duhamel-speak-twenty-nine-palms-caa-tiff-1237060783/
 
-Apple soon might join Google in adopting the name Lake America for the body of water long known as Lake Ontario – at least for U.S. users of its map. President Donald Trump signed an executive order last week to change the name of the lake amid a trade dispute with Canada marked by threats [ ]
+EXCLUSIVE: Josh Duhamel (Transformers) has boarded Speak, a psychological horror thriller taking its cue from a sinister vintage ventriloquist dummy and directed by John Kissack. The elevated genre package is co-written by Joe Carnahan (The Grey), Kissack and Casey Giltner. Lorenzo di Bonaventura (Transformers) is producing through Di Bonaventura Pictures alongside Carnahan, Marvin Neil, Liz [ ]
 
-### ABC Developing Legal Drama Con Law From Joey Falco, 20th Television
-Mon, 31 Aug 2026 17:30:00 +0000 — https://deadline.com/2026/08/con-law-abc-series-joey-falco-development-1237062222/
+### Mandarin Vision Takes On Sales For Lee Yun Chan’s Busan Competition Title To Be Ordinary
+Tue, 01 Sep 2026 07:01:00 +0000 — https://deadline.com/2026/09/busan-competition-to-be-ordinary-mandarin-vision-1237061796/
 
-EXCLUSIVE: ABC is developing Con Law, an original legal drama from writer/EP Joey Falco and 20th Television. In the series, a brilliant, high-powered corporate attorney is wrongfully convicted of murdering her husband, losing everything — her freedom, her career, her daughter. Exonerated six years later, she joins a scrappy Brooklyn defense firm and uses the ruthless skills [ ]
+Taiwanese production and sales outfit Mandarin Vision has acquired worldwide sales rights (excluding Taiwan and China) for Lee Yun Chan’s To Be Ordinary, which is set to receive its world premiere in competition at Busan International Film Festival. Starring Weber Yang and Chang Shih Ying (Yen And Ai-Lee), the film depicts a grieving family that [ ]
 
-### Dolly Parton Estate Sets DollyFest Celebrations In Nashville London
-Mon, 31 Aug 2026 17:28:54 +0000 — https://deadline.com/2026/08/dolly-parton-dollyfest-celebrations-nashville-london-1237063287/
+### Olivia Rodrigo Reflects On Daisy Chain Fields Festival, What Got Her So Emotional Teases Until Next Yearrrrr
+Tue, 01 Sep 2026 03:40:42 +0000 — https://deadline.com/2026/08/olivia-rodrigo-reflects-daisy-chain-fields-festival-1237063757/
 
-The Dolly Parton Estate has announced two DollyFest celebrations in honor of the late country music icon set for 2027 in Nashville, TN and London, England. The Nashville celebration was initially planned as a multi-artist event on Parton s 80th birthday in January 2026 in which she was to perform and host, but was postponed as [ ]
+Olivia Rodrigo s Daisy Chain Fields Festival was a success, raising $20 million, which will be donated to charities that benefit women. Following the festival, the Good 4 U singer took to social media to reflect and express her gratitude. Seeing Daisy Chain come to fruition yesterday was the greatest joy of my career, Rodrigo posted [ ]
 
-### Jason Momoa, Tenoch Huerta, Adria Arjona Kiefer Sutherland Join Miles Teller in John Swab Thriller Copperhead ; Black Bear Launching Sales At TIFF
-Mon, 31 Aug 2026 17:15:00 +0000 — https://deadline.com/2026/08/copperhead-movie-adds-jason-momoa-adria-arjona-1237063254/
+### Obsession EP Sues Over Allegedly Being Scammed Out Of Promised Profits From High-Grossing Horror Hit
+Tue, 01 Sep 2026 03:23:12 +0000 — https://deadline.com/2026/08/obsession-producer-profits-lawsuit-1237063768/
 
-EXCLUSIVE: Black Label Media has added four to the cast of its thriller Copperhead starring Miles Teller: Jason Momoa, Tenoch Huerta, Adria Arjona and Kiefer Sutherland. Character details are being kept under wraps. The casting news comes ahead of this year s Toronto Film Festival, where Black Bear is launching sales. In Copperhead, when an undercover drug deal explodes into violence, a [ ]
+Leonora Ann Darby claims she has been rewarded for saving Obsession by her fellow executive producers ripping her off promised big bucks from the one of the highest-grossing horror movie of all time. This action arises from a seven-year pattern of unequal treatment and broken compensation promises by two older male film producers to a [ ]
 
-### Zurich Bolsters Position As Awards Circuit Stop-Off As ‘Bunker’, ‘Club Kid’ Adult Supervision Join Gala Lineup
-Mon, 31 Aug 2026 17:09:28 +0000 — https://deadline.com/2026/08/zurich-awards-circuit-bunker-club-kid-gala-1237063265/
+### Sheri Herman Dies: E! Marketing Exec American Cybercast President Was 71
+Tue, 01 Sep 2026 02:30:45 +0000 — https://deadline.com/2026/08/sheri-herman-e-entertainment-dead-1237063638/
 
-The Zurich Film Festival has unveiled Bunker, Ink, Babies and Club Kid as fresh additions to its gala program. Lauren Miller Rogen’s starry drama Babies, featuring Anna Kendrick, Seth Rogen, Issa Rae, Dan Stevens, Kate Berlant, Zach Cherry, Ed Helms, Ashley Park, Sharon Stone, David Strathairn in the cast, will make its European premiere at [ ]
+Sheri Herman, the cable executive involved in the launches of E! Entertainment television, the Fashion Channel and American Cybercast, has died. Herman suffered heart failure in her sleep in Florida on August 6th, her family announced. She was 71. After graduating magna cum laude from Temple University, Herman got a job as a TV commercials [ ]
 
-### Off Campus Star Stephen Kalyn Joins Sydney Sweeney In Housemaid s Secret
-Mon, 31 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/off-campus-stephen-kalyn-sydney-sweeney-housemaids-secret-1237063223/
+### Netflix Brings Together Part 1 2 Of Mindy Kaling s Trilogy With Sex Lives Of College Girls Deal; Could It Complete Set With Not Suitable For Work ?
+Tue, 01 Sep 2026 02:16:20 +0000 — https://deadline.com/2026/08/netflix-mindy-kaling-sex-lives-deal-not-suitable-for-work-1237063690/
 
-Off Campus breakout Stephen Kalyn has closed a deal to join Lionsgate s The Housemaid s Secret starring Sydney Sweeney. Kirsten Dunst, Brittany Snow and Paul Anthony Kelly are also on board, with Paul Feig directing. Producers include Hidden Pictures’ Todd Lieberman, Pretty Dangerous Pictures’ Laura Fischer and Feig, and Honey Trap’s Sweeney. In The Housemaid’s Secret, Millie Calloway (Sweeney) [ ]
+Launching on Netflix today is The Sex Lives of College Girls, with all three seasons of the HBO Max series available in the U.S. as part of a licensing deal between Netflix and Sex Lives producer Warner Bros. Television. On Netflix, The Sex Lives of College Girls, co-created by Mindy Kaling and Justin Noble, joins [ ]
 
-### Norman Reedus Joins Apple TV s Disavowed
-Mon, 31 Aug 2026 17:00:00 +0000 — https://deadline.com/2026/08/norman-reedus-cast-apple-tvs-disavowed-1237063238/
+### All Eyez On Guilty: Tupac Trial Jury Reaches Verdict In Poetic Justice Star s 1996 Drive-By Shooting Death
+Tue, 01 Sep 2026 01:14:59 +0000 — https://deadline.com/2026/08/tupac-murder-trial-verdict-1237063729/
 
-Norman Reedus (The Walking Dead franchise) is the latest to join the series regular cast of Apple TV s Disavowed, the upcoming action-packed thriller created by Art Marcum and Matt Holloway (Iron Man, Uncharted). Details regarding who Reedus will play are under wraps. Disavowed follows legendary CIA Case Officer Brad Griffin (James Marsden), who is abruptly fired in [ ]
+Nearly 30 years after Tupac Shakur was fatally shot on the Las Vegas Strip, a Nevada jury has found an ex-Compton gang leader guilty of first-degree murder. Immediately after the verdict was read out, Duane Keff D Davis told the court, I would like to appeal this matter. Davis will continue to be held in custody, [ ]
 
-### HBO Lands Hot Drama Spec Imposter By DWA Assistant Kalos Chu With Lauren LeFranc Producing
-Mon, 31 Aug 2026 16:30:23 +0000 — https://deadline.com/2026/08/hbo-imposter-drama-spec-assistant-kalos-chu-lauren-lefranc-1237063182/
+### How Dancing With The Stars EP Conrad Green Expects The Next Pro Champion To Shake Up The Season 35 Competition
+Tue, 01 Sep 2026 01:02:00 +0000 — https://deadline.com/2026/08/dancing-with-the-stars-the-next-pro-finale-interview-abc-1237062064/
 
-From an assistant desk to a premium HBO development deal: thousands of aspiring writers dream of making that leap. For one, Kalos Chu who serendipitously works at DreamWorks Animation that dream became a reality. After a bidding war for his spec Imposter, which started with 10 offers before the field was narrowed down [ ]
+SPOILER ALERT! This post contains details from the season finale of Dancing with the Stars: The Next Pro. Dancing with the Stars has added a new pro dancer to its repertoire for Season 35. The finale of the summer spinoff series The Next Pro put the three finalists through the ringer with not one but [ ]
 

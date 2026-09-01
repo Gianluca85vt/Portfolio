@@ -1,66 +1,66 @@
-# Manga — harvested 2026-08-31T19:40:38.087Z
+# Manga — harvested 2026-09-01T09:35:33.129Z
 
 ## Anime News Network
+
+### The Summer Hikaru Died Manga to End in 2 Chapters
+Tue, 01 Sep 2026 04:13:46 -0400 — https://www.animenewsnetwork.com/news/2026-09-01/the-summer-hikaru-died-manga-to-end-in-2-chapters/.241187
+
+Last 2 chapters scheduled to publish in October
+
+### Live-Action It's Strictly Business Series Announces Cast. Staff, November 5 Debut
+Tue, 01 Sep 2026 02:59:01 -0400 — https://www.animenewsnetwork.com/news/2026-09-01/live-action-its-strictly-business-series-announces-cast-staff-november-5-debut/.241182
+
+Sota Uemura, Rio Takahashi star in BL series
+
+### Sirotan TV Anime to Premiere on October 3
+Tue, 01 Sep 2026 01:53:29 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-09-01/sirotan-tv-anime-to-premiere-on-october-3/.241180
+
+The official website for the Sirotan television anime based on Creative Yoko's seal mascot revealed on Tuesday the anime's main visual and October 3 premiere....
+
+### 5th Girls und Panzer das Finale Film's 2nd Trailer Preps for Last Battle
+Mon, 31 Aug 2026 23:46:28 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/5th-girls-und-panzer-das-finale-film-2nd-trailer-preps-for-last-battle/.241179
+
+2nd-to-last film to open on October 9
+
+### Oha Suta TV Show's Identity V Game-Playing Segment Gets Short Anime
+Mon, 31 Aug 2026 21:34:44 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/oha-suta-tv-show-identity-v-game-playing-segment-gets-short-anime/.241176
+
+4-part anime depicts school life of horror game's gardener Emma (Chiwa Saitō), other survivors
+
+### Professional Wrestler Kenny Omega Goes 'Plus Ultra' at AEW All In: London
+Mon, 31 Aug 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-08-31/professional-wrestler-kenny-omega-goes-plus-ultra-at-aew-all-in-london/.241159
+
+Omega: “Thank you to <cite>My Hero Academia</cite>, Crunchyroll, and Miyake-san for allowing me to represent All Might.”
+
+### Jaadugar: A Witch in Mongolia ‒ Episodes 8-10
+Mon, 31 Aug 2026 18:28:46 -0400 — https://www.animenewsnetwork.com/review/jaadugar-a-witch-in-mongolia/episodes-8-10/.241173
+
+Sitara's chickens have come home to roost.
+
+### Netflix Was the Only Game in Town at Anime NYC on Thursday
+Mon, 31 Aug 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/netflix-was-the-only-game-in-town-at-anime-nyc-on-thursday/.240864
+
+For this Netflix promotional panel to be the only thing to do really on the first day of the con leaves me underwhelmed.
+
+### Daemons of the Shadow Realm ‒ Episode 21
+Mon, 31 Aug 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-21/.241144
+
+While often played for laughs, Asa's obsession with her brother is a coping mechanism.
+
+### Inukami! Novel Illustrator Kanna Wakatsuki Plans to Sue Publisher WiZH for Alleged Copyright Infringement
+Mon, 31 Aug 2026 16:05:46 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/inukami-novel-illustrator-kanna-wakatsuki-plans-to-sue-publisher-wizh-for-alleged-copyright-/.241161
+
+Wakatsuki claims that WiZH used unauthorized artwork for complete edition volumes of <cite>Inukami!</cite> novels
+
+### For Luv Letter Studios, It's All About Survival and Ambition
+Mon, 31 Aug 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/for-luv-letter-studios-its-all-about-survival-and-ambition/.241124
+
+The little indie studio discusses what it’s like to struggle and triumph over industrial hardships, obscurity, and adversity.
 
 ### Thunder 3 ‒ Episode 8
 Mon, 31 Aug 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-8/.241151
 
 These alien dudes learn why screaming anime toddlers are so terrifying.
-
-### How Aoashi Takes a Birds' Eye View of the Soccer Pitch
-Mon, 31 Aug 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/how-aoashi-takes-a-birds-eye-view-of-the-soccer-pitch/.241122
-
-<i>Aoashi</i> uses the same talent the main character learns to harness to create its soccer action: foresight and total spatial awareness.
-
-### Mushoku Tensei: Jobless Reincarnation III ‒ Episode 10
-Mon, 31 Aug 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-10/.241143
-
-Anticlimax, thy name is <i>Mushoku Tensei</i>.
-
-### Sony Launches Ad-Supported Live TV on PlayStation 5 in U.S.
-Mon, 31 Aug 2026 14:12:12 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/sony-launches-ad-supported-live-tv-on-playstation-5-in-u.s/.241166
-
-Free service includes anime, movies, TV shows, sports, news, more
-
-### Sparks of Tomorrow ‒ Episode 9
-Mon, 31 Aug 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-9/.241142
-
-Beyond offending my sensibilities as a queer man, this episode of <i>Sparks of Tomorrow</i> offends my sensibilities as a writer.
-
-### With Sparks of Tomorrow, the Dreams Are in the Details
-Mon, 31 Aug 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/with-sparks-of-tomorrow-the-dreams-are-in-the-details/.241044
-
-From the main characters' visions of an electricity-powered world to fantasies of a future awash in technicolor brilliance, the show is constantly pushing a dream of a brighter tomorrow.
-
-### Pluto TV Adds Mononoke, Terror in Resonance, Kabaneri of the Iron Fortress, More Anime
-Mon, 31 Aug 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/pluto-tv-adds-mononoke-terror-in-resonance-kabaneri-of-the-iron-fortress-more-anime/.241112
-
-Streaming service launches linear channels "It's Anime," "Big A Anime"
-
-### You and I Are Polar Opposites Season 2 ‒ Episode 9
-Mon, 31 Aug 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-9/.241141
-
-I just need Taira and Azuma to hurry up and smooch already before all their tapdancing around their feelings gives me a stroke.
-
-### Boys-Love Is Here To Stay Is Here To Stay
-Mon, 31 Aug 2026 12:16:20 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/boys-love-is-here-to-stay-is-here-to-stay/.241027
-
-Bring on the boys!
-
-### Kodansha Annnounces Buzz or Die Visual Novel for PC
-Mon, 31 Aug 2026 12:02:41 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/kodansha-annnounces-buzz-or-die-visual-novel-for-pc/.241163
-
-Indie game creator Bon's game launches on Steam in 2026
-
-### Blank Canvas: My So-Called Artist's Journey Live-Action Film Review
-Mon, 31 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/blank-canvas/my-so-called-artist-journey-live-action-film/.240984
-
-Higashimura, who created the manga and co-wrote the movie’s script, leans into the complex, ambiguous nature of her relationship with Hidaka.
-
-### Japan's Video Game Rankings, August 17-23
-Mon, 31 Aug 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-08-31/japan-video-game-rankings-august-17-23/.241156
-
-<cite>Steins;Gate Re:Boot</cite> for Switch 2 debuts at #4, for PS5 at #5
 
 ## Crunchyroll News
 
