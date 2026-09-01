@@ -237,12 +237,19 @@ export async function searchConsole(win) {
       // Which property was actually read. Worth surfacing: a domain property
       // and a URL-prefix property over the same site can hold different data.
       site,
+      // How many days each window actually came back with. Search Console lags
+      // two to three days, so a four-day window routinely holds two days of
+      // data while the window before it holds four — and comparing the totals
+      // then reports a collapse that is only the lag. The 31 August report said
+      // impressions fell 58 per cent; per day they fell about 16.
       current: {
+        days: nowRows.length,
         clicks: a.clicks,
         impressions: a.impressions,
         position: a.impressions ? a.position / a.impressions : 0,
       },
       previous: {
+        days: prevRows.length,
         clicks: b.clicks,
         impressions: b.impressions,
         position: b.impressions ? b.position / b.impressions : 0,

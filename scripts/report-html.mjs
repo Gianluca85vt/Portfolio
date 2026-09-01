@@ -40,6 +40,19 @@ function delta(now, before, { invert = false } = {}) {
   };
 }
 
+const perDay = (total, days) => (days > 0 ? Number(total) / days : 0);
+
+/**
+ * Says so on the tile when Google reported fewer days than the window asked
+ * for, so a total that looks small is read as a short window rather than as a
+ * fall. Silent when the window is complete.
+ */
+function scPartial(sc, days) {
+  const got = sc.current?.days ?? 0;
+  if (!days || got >= days || got === 0) return undefined;
+  return `${got} of ${days} days reported`;
+}
+
 function tile(label, value, d, sub) {
   const colour = d?.tone === 'up' ? '#1B7A4B' : d?.tone === 'down' ? '#B4283C' : MUTED;
   return `
@@ -98,9 +111,24 @@ export function renderReport(d) {
         `${Math.floor(ga.current.avgSeconds / 60)}m ${Math.round(ga.current.avgSeconds % 60)}s`,
         delta(ga.current.avgSeconds, ga.previous.avgSeconds)
       ),
-    sc.ok && tile('Google clicks', int(sc.current.clicks), delta(sc.current.clicks, sc.previous.clicks)),
+    // Per day, not per window. Search Console's lag means the current window
+    // often holds fewer days than the one it is compared against, and totals
+    // then read as a crash that is only missing data. Position is already an
+    // impression-weighted mean, so it compares as it stands.
     sc.ok &&
-      tile('Google impressions', int(sc.current.impressions), delta(sc.current.impressions, sc.previous.impressions)),
+      tile(
+        'Google clicks',
+        int(sc.current.clicks),
+        delta(perDay(sc.current.clicks, sc.current.days), perDay(sc.previous.clicks, sc.previous.days)),
+        scPartial(sc, days)
+      ),
+    sc.ok &&
+      tile(
+        'Google impressions',
+        int(sc.current.impressions),
+        delta(perDay(sc.current.impressions, sc.current.days), perDay(sc.previous.impressions, sc.previous.days)),
+        scPartial(sc, days)
+      ),
     sc.ok &&
       tile('Avg. position', dec(sc.current.position), delta(sc.current.position, sc.previous.position, { invert: true })),
     bing.ok && tile('Bing clicks', int(bing.clicks), null, `${int(bing.impressions)} impressions`),
