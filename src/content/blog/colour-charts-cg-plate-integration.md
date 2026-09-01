@@ -4,7 +4,6 @@ date: 2026-09-01
 category: 3D
 cover: /img/blog/colour-charts-cg-plate-integration/shot-01.jpg
 excerpt: Your render's lighting can be right and the shot still looks pasted. Usually the plate and the render are sitting in two different colour worlds.
-draft: true
 ---
 
 The shadow falls the right way. The roughness is plausible. You matched the key
