@@ -3,7 +3,7 @@ title: "GoldenEye 007 decompiled: how N64 games were built"
 date: 2026-08-18
 category: Tech
 excerpt: Six and a half years of reverse engineering, and the C now rebuilds the 1997 ROM byte for byte. It preserves the 4KB texture budget too.
-cover: /img/blog/goldeneye-007-decompiled-what-it-reveals/cover.svg
+cover: /img/blog/goldeneye-007-decompiled-what-it-reveals/shot-01.jpg
 ---
 
 A community reverse-engineering effort led by a contributor going by KholdFuzion hit
@@ -52,6 +52,11 @@ The port speculation interests me less than this. To match a 1997 build
 byte-for-byte, you don't just recover *what* the game does — you recover *how tightly* it
 was built to fit, because the original programmers were optimizing against constraints a
 decompiler has to reproduce exactly or the build fails.
+
+<figure>
+  <img src="/img/blog/goldeneye-007-decompiled-what-it-reveals/shot-01.jpg" loading="lazy" width="1440" height="810" alt="A Nintendo 64 console with its controller" />
+  <figcaption>Nintendo 64 console and controller, photographed by Evan-Amos, released into the public domain via Wikimedia Commons</figcaption>
+</figure>
 
 The N64 had **4KB of texture cache** on its RCP. Four kilobytes. Total, for whatever texture
 was bound at any given draw call — which is why GoldenEye's levels are built from small,
