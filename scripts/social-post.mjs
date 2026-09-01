@@ -1,5 +1,5 @@
 /**
- * Posts a published article to the Facebook Page and to Instagram.
+ * Posts a published article to the Facebook Page, to Instagram and to X.
  *
  *   node scripts/social-post.mjs <slug> [<slug>...]
  *
@@ -21,6 +21,8 @@
  */
 import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import { pathToFileURL } from 'node:url';
+import { createHmac, randomBytes } from 'node:crypto';
 
 const GRAPH = 'https://graph.facebook.com/v26.0';
 const REPO = 'Gianluca85vt/Portfolio';
@@ -120,6 +122,110 @@ async function postToInstagram(article) {
   return graph(`${process.env.META_IG_USER_ID}/media_publish`, { creation_id: container.id });
 }
 
+/* ------------------------------------------------------------------------ X */
+
+/**
+ * X wants OAuth 1.0a, and there is no library here on purpose — the same
+ * reason the report signs its own Google JWT. One signing function is less to
+ * keep current than a dependency tree.
+ *
+ * Posting is optional: if the four secrets are absent this is skipped in
+ * silence, so the Meta half keeps working whether or not X is set up.
+ */
+
+// RFC 3986, which is stricter than encodeURIComponent about these four.
+const enc = (v) =>
+  encodeURIComponent(String(v)).replace(/[!*'()]/g, (c) => `%${c.charCodeAt(0).toString(16).toUpperCase()}`);
+
+/**
+ * `extra` carries any query or form parameters, which OAuth 1.0a folds into the
+ * signature base alongside the oauth_* ones. Nothing here passes any — the
+ * endpoint takes a JSON body, which the spec excludes — but the argument keeps
+ * the function faithful to the spec rather than to this one call site, and it
+ * is what lets the signature be checked against X's published test vector.
+ */
+export function authHeader(method, url, consumerKey, consumerSecret, token, tokenSecret, extra = {}, nonce, timestamp) {
+  const oauth = {
+    oauth_consumer_key: consumerKey,
+    oauth_nonce: nonce ?? randomBytes(16).toString('hex'),
+    oauth_signature_method: 'HMAC-SHA1',
+    oauth_timestamp: timestamp ?? String(Math.floor(Date.now() / 1000)),
+    oauth_token: token,
+    oauth_version: '1.0',
+  };
+
+  // A JSON body is not part of the signature base string. Query and form
+  // parameters are, so they are merged in and the whole set sorted together.
+  const signed = { ...oauth, ...extra };
+  const base = [
+    method.toUpperCase(),
+    enc(url),
+    enc(
+      Object.keys(signed)
+        .sort()
+        .map((k) => `${enc(k)}=${enc(signed[k])}`)
+        .join('&')
+    ),
+  ].join('&');
+
+  const signature = createHmac('sha1', `${enc(consumerSecret)}&${enc(tokenSecret)}`)
+    .update(base)
+    .digest('base64');
+
+  // Only the oauth_* parameters belong in the header; `extra` was signed but is
+  // carried by the request itself.
+  return `OAuth ${Object.entries({ ...oauth, oauth_signature: signature })
+    .map(([k, v]) => `${enc(k)}="${enc(v)}"`)
+    .join(', ')}`;
+}
+
+export function xConfigured() {
+  return ['X_API_KEY', 'X_API_SECRET', 'X_ACCESS_TOKEN', 'X_ACCESS_SECRET'].every(
+    (n) => process.env[n]
+  );
+}
+
+async function postToX(article) {
+  const url = 'https://api.x.com/2/tweets';
+
+  // No uploaded image. A link post makes X read the page's own card tags, and
+  // the site already serves twitter:card=summary_large_image with the article
+  // cover — so the preview is the real artwork without a media upload, and
+  // without a second call that can fail on its own.
+  //
+  // Since April 2026 a post containing a link costs $0.20 against pay-per-use
+  // rather than $0.015. That is the price of this integration: roughly £0.60 a
+  // day at three articles. Worth saying out loud in the place it is spent.
+  const text = `${article.title}
+
+${article.excerpt}
+
+${article.url}`;
+
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: {
+      authorization: authHeader(
+        'POST',
+        url,
+        process.env.X_API_KEY,
+        process.env.X_API_SECRET,
+        process.env.X_ACCESS_TOKEN,
+        process.env.X_ACCESS_SECRET
+      ),
+      'content-type': 'application/json',
+    },
+    body: JSON.stringify({ text }),
+  });
+
+  const json = await res.json().catch(() => ({}));
+  if (!res.ok) {
+    const detail = json.detail ?? json.title ?? json.errors?.[0]?.message ?? '';
+    throw new Error(`HTTP ${res.status} ${detail}`.trim());
+  }
+  return json.data;
+}
+
 async function readLedger(root) {
   try {
     return JSON.parse(await readFile(join(root, LEDGER), 'utf8'));
@@ -173,8 +279,8 @@ async function main() {
 
     const record = { at: new Date().toISOString() };
 
-    // The two are attempted independently. Instagram is the fussier of the
-    // pair, and losing the Facebook post because a card failed to transcode
+    // Each network is attempted independently. Instagram is the fussiest of
+    // them, and losing the Facebook post because a card failed to transcode
     // would be the wrong trade.
     try {
       const fb = await postToFacebook(article);
@@ -194,9 +300,20 @@ async function main() {
       console.log(`::warning::instagram failed for ${slug}: ${err.message}`);
     }
 
+    if (xConfigured()) {
+      try {
+        const x = await postToX(article);
+        record.x = x.id;
+        console.log(`x         ${slug} -> ${x.id}`);
+      } catch (err) {
+        record.xError = String(err.message);
+        console.log(`::warning::x failed for ${slug}: ${err.message}`);
+      }
+    }
+
     // Only a slug that reached at least one network is written down. A run
-    // where both failed stays unrecorded so the next push can try again.
-    if (record.facebook || record.instagram) {
+    // where all of them failed stays unrecorded so the next push can try again.
+    if (record.facebook || record.instagram || record.x) {
       ledger[slug] = record;
       changed = true;
     }
@@ -208,6 +325,9 @@ async function main() {
   }
 }
 
-if ((process.argv[1] || '').includes('social-post')) {
+// Run only when this file is the entry point. A substring match on the path
+// was enough until there was a social-post.test.mjs beside it, which matched
+// too and started posting on import.
+if (import.meta.url === pathToFileURL(process.argv[1] ?? '').href) {
   await main();
 }
