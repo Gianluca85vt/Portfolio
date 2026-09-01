@@ -12,19 +12,32 @@ column: Architectures of the Void — the Monday editorial
 That is the masthead. It renders as an eyebrow above the headline, the way
 "In the box" sits above a piece on laroma24.
 
-Two more fixed things, both non-negotiable:
+The category is fixed and non-negotiable:
 
 ```
 category: Editorial
-cover: /img/blog/editorial/cover.jpg
 ```
 
 `Editorial` is its own category, so the column filters separately from the news
-and gets its own colour. **Do not draw an SVG cover for the editorial** — the
-column has one permanent illustration and every Monday uses it. The site forces
-that image for anything in the Editorial category regardless of what the
-frontmatter says, so a wrong `cover:` line cannot break the page; it just wastes
-the run's time. Write the line above and move on.
+and gets its own colour.
+
+**The cover is different every week now.** It used to be one permanent painting
+forced by the site over whatever the frontmatter said; each Monday gets its own
+illustration instead, made for that week's argument. So the `cover:` line is:
+
+```
+cover: /img/blog/editorial/<slug>.jpg
+```
+
+with your own slug in it, and you also write the brief for that illustration to
+`notes/editorial-covers/<slug>.md`. `notes/editorial-cover-style.md` holds the
+half of the style that never changes and the rules the brief has to obey; read
+it before writing one.
+
+**Still do not draw an SVG cover for the editorial.** The image is made from
+your brief, not by you. Naming a file that does not exist yet is correct and
+safe: drafts are exempt from the cover check, and approving before the artwork
+is in gets a refusal naming the missing file rather than a broken page.
 
 **The `title:` is different every single week** and belongs to that week's
 argument alone. Never put "Architectures of the Void" in the title — it is

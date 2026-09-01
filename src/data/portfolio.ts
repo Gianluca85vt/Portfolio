@@ -128,7 +128,7 @@ export const blog = {
 
 export const blogCategories = [
   // The Monday column sits first: it is the one piece of the week that argues
-  // rather than reports, and it carries its own fixed cover.
+  // rather than reports, and the only one with illustrated artwork.
   'Editorial',
   '3D',
   'Tech',
@@ -142,22 +142,20 @@ export const blogCategories = [
 export type BlogCategory = (typeof blogCategories)[number];
 
 /**
- * One colour per section, the way a news site codes its desks. Kept inside the
- * site's magenta-purple-orange range so the blog still reads as part of the
- * portfolio rather than a separate publication bolted on.
+ * The illustration a recurring column falls back to.
  *
- * Also used to build the placeholder artwork for articles with no cover image.
+ * This used to win over the frontmatter: every Editorial got the same painting
+ * whatever the file said. That was right while the column had one permanent
+ * image and wrong from the moment each Monday got its own — the piece names its
+ * cover and this catches the weeks where no artwork was made, so the column can
+ * never render coverless.
  */
-// A recurring column has one fixed illustration, and it wins over whatever a
-// draft happens to carry in its frontmatter. Enforcing it here rather than in
-// the drafting instructions means it cannot drift: a run that forgets, or that
-// draws its own SVG cover out of habit, still gets the right image.
 export const columnCovers: Partial<Record<BlogCategory, string>> = {
   Editorial: '/img/blog/editorial/cover.jpg',
 };
 
 export function coverFor(category: string, cover?: string): string | undefined {
-  return columnCovers[category as BlogCategory] ?? cover;
+  return cover ?? columnCovers[category as BlogCategory];
 }
 
 /**
@@ -202,6 +200,13 @@ export const categoryBlurbs: Record<BlogCategory, string> = {
     'Figures, statues, prints and the objects that end up on the shelf behind the monitor — sculpt quality, paint, print runs and what the money buys.',
 };
 
+/**
+ * One colour per section, the way a news site codes its desks. Kept inside the
+ * site's magenta-purple-orange range so the blog still reads as part of the
+ * portfolio rather than a separate publication bolted on.
+ *
+ * Also used to build the placeholder artwork for articles with no cover image.
+ */
 export const categoryColors: Record<BlogCategory, string> = {
   // The only cool colour in the set, so the column reads as a different kind of
   // piece at a glance in a wall of warm category chips.
