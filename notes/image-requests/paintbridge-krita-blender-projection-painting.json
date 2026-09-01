@@ -1,0 +1,12 @@
+{
+  "slug": "paintbridge-krita-blender-projection-painting",
+  "youtubeId": "oW7zKbylReI",
+  "urls": [
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Blender_3.3.1_Screenshot_%28Shading%29.png",
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Krita_5.0.0_screenshot.png",
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Blender_viewport_shading_comparison.png",
+    "https://commons.wikimedia.org/wiki/Special:FilePath/Krita_4.0_pre-alpha_interface_screenshot_with_kiki.png"
+  ],
+  "credit": "Blender and Krita interface screenshots, via Wikimedia Commons",
+  "comparison": false
+}

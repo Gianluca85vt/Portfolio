@@ -2,7 +2,7 @@
 title: Krita paints Blender textures over a WebSocket
 date: 2026-09-01
 category: 3D
-cover: /img/blog/paintbridge-krita-blender-projection-painting/cover.svg
+cover: /img/blog/paintbridge-krita-blender-projection-painting/shot-01.jpg
 excerpt: PaintBridge sends Blender's viewport passes straight into Krita and projects the paint back — normals, depth, AO and colour ID included.
 draft: true
 ---
