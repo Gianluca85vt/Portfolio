@@ -29,7 +29,9 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
-          fetch-depth: 2
+          # Enough history to diff the whole push rather than its last commit.
+          # See the range calculation below for why that matters.
+          fetch-depth: 50
 
       - uses: actions/setup-node@v5
         with:
@@ -63,19 +65,37 @@ jobs:
         run: |
           set -euo pipefail
 
-          if ! git rev-parse HEAD^ >/dev/null 2>&1; then
+          # The whole push, not its last commit.
+          #
+          # This used to diff exactly one commit — HEAD^ against HEAD, shifted
+          # by one when the image step had pushed its own. Any push carrying
+          # more than one commit that touched an article therefore had all but
+          # the last one silently ignored: no IndexNow submission, no review
+          # email, and nothing in the log to say a piece had been skipped. A
+          # rebase before pushing is enough to produce that.
+          #
+          # github.event.before is the commit main was on before this push, and
+          # github.sha is the commit that triggered the run — which is still the
+          # right end of the range even after the image step pushed on top of
+          # it, since that commit only ever adds artwork.
+          before="${{ github.event.before }}"
+          after="${{ github.sha }}"
+
+          if [ -n "$before" ] \
+            && [ "$before" != "0000000000000000000000000000000000000000" ] \
+            && git cat-file -e "$before^{commit}" 2>/dev/null; then
+            range="$before $after"
+          elif git rev-parse "$after^" >/dev/null 2>&1; then
+            # A manual run, or a first push, or history shallower than the
+            # range. One commit is the honest fallback.
+            echo "::notice::no usable push range, falling back to the last commit"
+            range="$after^ $after"
+          else
             echo "No parent commit, nothing to compare."
             exit 0
           fi
 
-          # When this run committed images, the drafts to announce are the ones
-          # from the push that triggered it, not from the image commit.
-          if [ "${{ steps.images.outputs.pushed }}" = "true" ]; then
-            range="HEAD^^ HEAD^"
-          else
-            range="HEAD^ HEAD"
-          fi
-
+          echo "diffing $range"
           changed=$(git diff --name-only --diff-filter=AM $range -- 'src/content/blog/*.md' || true)
 
           if [ -z "$changed" ]; then
