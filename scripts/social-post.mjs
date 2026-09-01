@@ -21,6 +21,7 @@
  */
 import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import { pathToFileURL } from 'node:url';
 
 const GRAPH = 'https://graph.facebook.com/v26.0';
 const REPO = 'Gianluca85vt/Portfolio';
@@ -208,6 +209,9 @@ async function main() {
   }
 }
 
-if ((process.argv[1] || '').includes('social-post')) {
+// Run only when this file is the entry point. The substring match this used
+// to do would also fire for any sibling whose name contains "social-post",
+// which means importing one of them would start a real posting run.
+if (import.meta.url === pathToFileURL(process.argv[1] ?? '').href) {
   await main();
 }
