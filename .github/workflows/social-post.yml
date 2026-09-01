@@ -140,13 +140,6 @@ jobs:
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
-          # X is optional. Absent, the script skips it and the Meta half runs
-          # exactly as before, so these can be added whenever the developer
-          # account and its credits are in place.
-          X_API_KEY: ${{ secrets.X_API_KEY }}
-          X_API_SECRET: ${{ secrets.X_API_SECRET }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
         run: node scripts/social-post.mjs ${{ steps.pick.outputs.slugs }}
 
       - name: Record what was posted
