@@ -2,7 +2,7 @@
 title: Black Flag Resynced 1.0.7 turns off the perk glow
 date: 2026-09-01
 category: Games
-cover: /img/blog/black-flag-resynced-perk-vfx-toggle/cover.svg
+cover: /img/blog/black-flag-resynced-perk-vfx-toggle/shot-01.jpg
 excerpt: Title Update 1.0.7 adds a Perk Effects switch, so the emissive aura on Edward's gear can be shut off. Live today at 14:00 UTC.
 draft: true
 ---
