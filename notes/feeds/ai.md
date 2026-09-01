@@ -1,6 +1,16 @@
-# AI — harvested 2026-09-01T15:16:12.379Z
+# AI — harvested 2026-09-01T19:35:20.629Z
 
 ## OpenAI
+
+### How AI-native companies turn workflows into operating capability
+Tue, 01 Sep 2026 17:00:00 GMT — https://openai.com/index/ai-native-company-workflows
+
+Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.
+
+### Healthcare organizations can now connect EHR and additional industry data to ChatGPT
+Tue, 01 Sep 2026 12:00:00 GMT — https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources
+
+ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.
 
 ### OpenAI supports California’s bill to advance youth AI safety
 Mon, 31 Aug 2026 07:00:00 GMT — https://openai.com/index/supporting-california-bill-advance-ai-youth-safety
@@ -24,7 +34,8 @@ Tue, 01 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/webgpu-kernels
 
 ## Google DeepMind
 
-_Nothing in the last 48 hours._
+### Introducing agentic video understanding with Gemini
+Tue, 01 Sep 2026 17:08:51 +0000 — https://deepmind.google/blog/introducing-agentic-video-in-gemini/
 
 ## VentureBeat AI
 

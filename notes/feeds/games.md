@@ -1,16 +1,31 @@
-# Games — harvested 2026-09-01T15:16:12.379Z
+# Games — harvested 2026-09-01T19:35:20.629Z
 
 ## Eurogamer
+
+### Double Fine will finally make Brutal Legend 2, but only if its new Kickstarter campaign reaches an almost impossible $100m
+Tue, 01 Sep 2026 18:35:01 +0000 — https://www.eurogamer.net/double-fine-finally-make-brutal-legend-2-new-kickstarter-almost-impossible-100m
+
+Almost two decades on from its first heavy-metal-infused open-world game, Double Fine pinky promises it'll finally make Brutal Legend 2&hellip; if the developer's new Kickstarter campaign somehow manages to scrape together $100m (about &pound;74m). Read more
+
+### PlayStation argues "reasonable consumers" already know they don't actually own their digital games
+Tue, 01 Sep 2026 17:39:58 +0000 — https://www.eurogamer.net/playstation-reasonable-consumers-know-dont-own-digital-games
+
+As PlayStation's plan to scrap the production of game discs inches closer, Sony's lawyers are arguing that "reasonable consumers" already know that they don't own digital games. Read more
+
+### CD Projekt Red never considered charging for The Witcher 3 remaster, and says expansion Songs of the Past came from a couple of "happy accidents"
+Tue, 01 Sep 2026 15:56:34 +0000 — https://www.eurogamer.net/witcher-3-remaster-songs-of-past-expansion
+
+Polish developer CD Projekt Red apparently never considered charging players for the recently revealed Remastered edition of The Witcher 3 , and it has explained more about how the expansion Songs of the Past came to be, citing a couple of "happy accidents". Read more
 
 ### Paradox's Afterworld feels like the first grand strategy game I can properly wrap my head around
 Tue, 01 Sep 2026 14:36:10 +0000 — https://www.eurogamer.net/paradox-afterworld-hands-on-preview-grand-strategy
 
-I've got a bit of a funny relationship with Paradox's grand strategy games. I love the idea of them, of waging and flirting my way across history on the most granular of levels. But despite my enthusiasm, and despite my best efforts, I've never probably cracked one: it doesn't take long before I'm feeling thoroughly overwhelmed and my attention quickly begins to wane. I bring this up, because my relatively brief hands-on time with Paradox's new post-apocalyptic grand strategy game Afterworld suggests - thanks to some smart design decisions - it might finally be the one for me. Read more
+I've got a bit of a funny relationship with Paradox's grand strategy games. I love the idea of them, of waging and flirting my way across history on the most granular of levels. But despite my enthusiasm, and despite my best efforts, I've never properly cracked one: it doesn't take long before I'm feeling thoroughly overwhelmed and my attention quickly begins to wane. I bring this up, because my relatively brief hands-on time with Paradox's new post-apocalyptic grand strategy game Afterworld suggests - thanks to some smart design decisions - it might finally be the one for me. Read more
 
 ### Mortal Shell 2 dramatically improved in almost every way by first major update
 Tue, 01 Sep 2026 14:24:05 +0000 — https://www.eurogamer.net/mortal-shell-2-update-patch-major-changes
 
-On Saturday, Mortal Shell 2 received its biggest update yet, a little over a week after release. Developer Cold Symmetry was seemingly keen to address as many points of criticism as possible because the updates touch almost every aspect of the game. The patch is available now on Steam, and soon on PlayStation and Xbox, and it adds new stuff to the game alongside all of the changes. Read more
+On Saturday, Mortal Shell 2 received its biggest update yet, a little over a week after release. Developer Cold Symmetry was seemingly keen to address as many points of criticism as possible because the update touches almost every aspect of the game. The patch is available now on Steam, and soon on PlayStation and Xbox, and it adds new stuff to the game alongside all of the changes. Read more
 
 ### CEO of Saudi Arabia's Savvy Games Group Brian Ward steps down after overseeing billions in mobile gaming acquisitions
 Tue, 01 Sep 2026 14:04:45 +0000 — https://www.eurogamer.net/savvy-games-group-ceo-brian-ward-steps-down
@@ -47,22 +62,12 @@ Tue, 01 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/orbitals-review
 
 Orbitals' twin protagonists Maki and Omura have this adorable little habit. When they leave behind a tool &ndash; a ground-pound backpack or hacked microwave oven &ndash; they'll often say goodbye to it. Or sayonara, rather, if you're playing Orbitals in Japanese (as well you should; subs over dubs any day). Read more
 
-### As the legal hunt for the GTA 6 leaker continues, Take-Two reportedly tries another more secretive Discord subpoena, this time specifying individuals
-Tue, 01 Sep 2026 08:26:02 +0000 — https://www.eurogamer.net/gta-6-leaker-discord-subpoena-sealed-take-two
-
-Rockstar parent company Take-Two has escalated its hunt for the people behind the numerous Grand Theft Auto 6 leaks from two weeks ago . The publisher has filed a request for another subpoena, though this time it's asking the court to withhold the details from the public and keep it sealed. Read more
-
-### Onimusha: Way of the Sword review
-Mon, 31 Aug 2026 15:05:47 +0000 — https://www.eurogamer.net/onimusha-way-of-the-sword-review
-
-Legendary swordsman Miyamoto Musashi considered himself more an artist than a fighter. A keen strategist and a self-proclaimed master of war, I think it's Musashi's art that hits more keenly than his katana: it's minimalist, monochromatic, a study of nature defined by its simple brilliance. Less is more. Whether intentional or not, I think Capcom may have internalised this philosophy when creating Onimusha: Way of the Sword - a game based loosely on the life and conquests of Musashi. Seldom over-complicated and often composed with artisanal skill, Way of the Sword takes the philosophies of 16th Century Japan's most influential martial artist and somehow applies them to video game development. Read more
-
-### The Blood of Dawnwalker review
-Mon, 31 Aug 2026 15:00:00 +0000 — https://www.eurogamer.net/the-blood-of-dawnwalker-review-rebel-wolves
-
-CD Projekt Red alumni create a familiar dark fantasy adventure, but one with bold and provocative ideas of its own, that's mostly, enormously successful. Read more
-
 ## GamesIndustry.biz
+
+### The Big Picture: What you need to know about the ongoing games industry reset
+Tue, 01 Sep 2026 16:19:14 +0000 — https://www.gamesindustry.biz/the-big-picture-what-you-need-to-know-about-the-ongoing-games-industry-reset
+
+The games industry is undergoing a reset. That was the message of Gamescom Dev's opening keynote, delivered by Amir Satvat, who until a few days ago was business development manager at Tencent, but is now general partner at 1Up Ventures . Read more
 
 ### Brian Ward steps down as Savvy Games Group CEO
 Tue, 01 Sep 2026 14:38:11 +0000 — https://www.gamesindustry.biz/brian-ward-steps-down-as-savvy-games-group-ceo
@@ -99,6 +104,26 @@ Star Wars Zero Company developer Bit Reactor furloughed "many of its workers" pr
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Give Double Fine $100 Million and It ll Make Brutal Legend 2
+Tue, 01 Sep 2026 18:15:00 GMT — https://www.pushsquare.com/news/2026/09/give-double-fine-usd100-million-and-itll-make-brutal-legend-2
+
+"Yes, really.". Double Fine is ready to make a sequel to Brutal Legend — you just have to help raise $100 million to make it a reality. As part of its new Kickstarter campaign, Amnesia Fortnight 2026 , the newly independent developer is letting its online community choose what game it creates next. Anyone who pledges money towards the campaign will be able to whittle down Double Fine's game jam creations to a few prototypes, and then one of them will be picked to go into production. Read the full article on pushsquare.com
+
+### Ace Combat 8 s Multiplayer Is the Most Robust the Series Has Ever Had
+Tue, 01 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/09/ace-combat-8s-multiplayer-is-the-most-robust-the-series-has-ever-had
+
+Fly high. If you were in doubt that Ace Combat 8: Wings of Theve is being positioned as the biggest game in the series so far, this new overview trailer of the flight shooter's multiplayer suite says it loud and clear. Of course, Bandai Namco's series has featured online multiplayer before, but Ace Combat Online, as it's called here, looks far more elaborate in Wings of Theve. Read the full article on pushsquare.com
+
+### Feature: 16 PS5 Predictions for State of Play September 2026
+Tue, 01 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/features/16-ps5-predictions-for-state-of-play-september-2026
+
+2 States, 2 Plays. Out of pretty much nowhere, Sony has announced not one, but two State of Play presentations , going out one after the other later this week. One is your typical State of Play, while the other is focused on games coming from Japan and Asia, and it should make for a very interesting double bill of gaming news. Read the full article on pushsquare.com
+
+### The Witcher 3 Remastered PS5 Pro Support Brings Significant Performance Boosts
+Tue, 01 Sep 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pro-support-brings-significant-performance-boosts
+
+Ray tracing at 60fps is one option. When The Witcher 3: Wild Hunt Remastered was announced, CD Projekt Red confirmed that it would include support for PS5 Pro — but the developer didn't share any immediate details. Fortunately, fans have now sifted through the company's massive Gamescom livestreams, picking out the specifics for all to see. Read the full article on pushsquare.com
 
 ### No Rest for the Wicked s Long-Awaited 1.0 and PS5 Release Delayed into 2027
 Tue, 01 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/09/no-rest-for-the-wickeds-long-awaited-1-0-and-ps5-release-delayed-into-2027
@@ -140,27 +165,22 @@ Tue, 01 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/09/despit
 
 Details emerge about Bit Reactor struggles. Star Wars Zero Company launched on PS5 and other platforms last week, and it appears the turn-based strategy game has been a success for publisher EA and developer Bit Reactor. Certainly, the critical reception has been very good, players rate it highly, and it's currently one of Steam's top sellers — all good signs. Read the full article on pushsquare.com
 
-### Once You re Done Watching Sony s PS5 State of Play, Konami Has a Presentation of Its Own
-Tue, 01 Sep 2026 10:15:00 GMT — https://www.pushsquare.com/news/2026/09/once-youre-done-watching-sonys-ps5-state-of-play-konami-has-a-presentation-of-its-own
-
-Konami Press Start. If you were sitting there thinking, "Two State of Play presentations just isn't enough gaming news for one day," I have some great news: Konami doesn't think so either. The Japanese publisher has announced its own broadcast, Konami Press Start, and it airs the very same day as Sony's State of Play double bill . Read the full article on pushsquare.com
-
-### Capcom Schedules TGS Showcase for 16th September, 40 Minutes of News
-Tue, 01 Sep 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/09/capcom-schedules-tgs-showcase-for-16th-september-40-minutes-of-news
-
-Capcom goes under the Spotlight. Capcom has announced that it will be hosting another Spotlight livestream to coincide with Tokyo Game Show on 16th September 2026, promising 40 minutes of news and game updates. Rather than revealing what PS5 titles will be there, it simply asks you to stay tuned for "the latest news on Capcom" and its lineup. History would suggest the event will be relatively low-key, as Capcom Spotlight livestreams have never hosted major announcements. However, tying this month's showcase TGS could suggest the publisher has some bigger reveals in store. Read the full article on pushsquare.com
-
-### September 2026 PS Plus Essential Games Available to Download Now
-Tue, 01 Sep 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/09/september-2026-ps-plus-essential-games-available-to-download-now
-
-Redeemable until 6th October. Another set of PS Plus Essential games is available to claim and download now for anyone who's an active subscriber, with four PS5, PS4 titles on offer in September 2026. They're all live and available now, and will be redeemable until 6th October 2026, at which point another batch of games replaces them. Here's a reminder of what's on offer this month: Read the full article on pushsquare.com
-
-### Preview: Stranger Than Heaven Kicked My Ass, and I m Not Proud
-Mon, 31 Aug 2026 23:30:00 GMT — https://www.pushsquare.com/previews/stranger-than-heaven-kicked-my-ass-and-im-not-proud
-
-Stop! Stop! Sammy's already dead. Stranger Than Heaven kicked my ass, guys. I’ve been playing the Yakuza games since the PS2, so I’d like to think I’m a seasoned enjoyer of RGG Studio’s specific brand of brawler gameplay. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### The majority of Doom: The Dark Ages' DLC got made 'in three or four months'
+Tue, 01 Sep 2026 18:03:04 GMT — https://www.gamedeveloper.com/business/the-majority-of-doom-the-dark-ages-dlc-got-made-in-three-or-four-months
+
+The team reportedly worked 60 to 80 hour weeks to get the project out the door.
+
+### Aggro Crab launches publishing label to splash that Peak cash
+Tue, 01 Sep 2026 17:02:48 GMT — https://www.gamedeveloper.com/business/aggro-crab-launches-publishing-label-to-splash-that-peak-cash
+
+The studio wants to support 'intense, stylized games with an attitude' - but isn't interested in 'generative AI slop.'
+
+### Sega-owned Rovio is shutting down its Copenhagen studio
+Tue, 01 Sep 2026 15:37:36 GMT — https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio
+
+The closure follows the cancellation of Sonic Blitz and the exact number of redundancies are yet to be confirmed.
 
 ### Paradox Interactive's Afterworld wants to entice new players to grand strategy with tasty RPG hooks
 Tue, 01 Sep 2026 13:00:00 GMT — https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wants-to-entice-new-players-to-grand-strategy-with-tasty-rpg-hooks
