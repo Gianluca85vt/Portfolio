@@ -153,7 +153,10 @@ export async function discardDraft(slug: string) {
  * The scheduled writer picks them up on its next run, which keeps the rewriting
  * where the research tools are.
  */
-export async function requestRevision(slug: string, instruction: string) {
+export async function requestRevision(
+  slug: string,
+  instruction: string
+): Promise<{ ok: true } | { ok: false; why: string }> {
   const path = `notes/revision-requests/${slug}.md`;
   const existing = await readFile(path);
   const stamp = new Date().toISOString();
@@ -174,7 +177,22 @@ export async function requestRevision(slug: string, instruction: string) {
       ...(existing ? { sha: existing.sha } : {}),
     }),
   });
-  return res.ok;
+
+  if (res.ok) return { ok: true };
+
+  // This used to return a bare false, and the first time it failed there was
+  // nothing to go on but "GitHub refused the write" — no status, no message,
+  // nothing to tell a bad token from a stale sha. Carry the reason out.
+  let detail = '';
+  try {
+    const json = (await res.json()) as { message?: string };
+    detail = json.message ?? '';
+  } catch {
+    detail = '';
+  }
+  const why = `GitHub answered ${res.status}${detail ? `: ${detail}` : ''}`;
+  console.error(`[revision] ${slug} — ${why}`);
+  return { ok: false, why };
 }
 
 /** Confirms a slug really is an unpublished draft before we email about it. */

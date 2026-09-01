@@ -135,7 +135,18 @@ export const POST: APIRoute = async ({ request }) => {
     return page('Too long', 'Keep the request under 4000 characters.');
   }
 
-  return (await requestRevision(slug, instruction))
-    ? page('Request saved', 'The next scheduled run rewrites the draft and emails you again. It stays unpublished until then.')
-    : page('That did not work', 'GitHub refused the write. Try again in a moment.');
+  const saved = await requestRevision(slug, instruction);
+  if (saved.ok) {
+    return page(
+      'Request saved',
+      'The next scheduled run rewrites the draft and emails you again. It stays unpublished until then.'
+    );
+  }
+
+  // Show what GitHub actually said. A generic "that did not work" leaves you
+  // clicking again in hope, and leaves me guessing from here.
+  return page(
+    'That did not work',
+    `${esc(saved.why)}<br /><br />Your request was not saved. Copy the text somewhere before trying again.`
+  );
 };
