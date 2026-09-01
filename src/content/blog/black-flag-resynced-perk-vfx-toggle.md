@@ -4,7 +4,6 @@ date: 2026-09-01
 category: Games
 cover: /img/blog/black-flag-resynced-perk-vfx-toggle/shot-01.jpg
 excerpt: Title Update 1.0.7 adds a Perk Effects switch, so the emissive aura on Edward's gear can be shut off. Live today at 14:00 UTC.
-draft: true
 ---
 
 There is a menu in Assassin's Creed Black Flag Resynced called HUD/VFX
