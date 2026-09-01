@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Colour charts: 24 patches, and why CG does not sit in the plate">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#5A2410"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- a 24-patch chart, greyscale row last -->
+  <g stroke="#18011F" stroke-width="3">
+    <rect x="404" y="86" width="78" height="60" fill="#735244"/>
+    <rect x="486" y="86" width="78" height="60" fill="#C29682"/>
+    <rect x="568" y="86" width="78" height="60" fill="#627A9D"/>
+    <rect x="650" y="86" width="78" height="60" fill="#576C43"/>
+    <rect x="732" y="86" width="78" height="60" fill="#8580B1"/>
+    <rect x="814" y="86" width="78" height="60" fill="#67BDAA"/>
+
+    <rect x="404" y="150" width="78" height="60" fill="#D67E2C"/>
+    <rect x="486" y="150" width="78" height="60" fill="#505BA6"/>
+    <rect x="568" y="150" width="78" height="60" fill="#C15A63"/>
+    <rect x="650" y="150" width="78" height="60" fill="#5E3C6C"/>
+    <rect x="732" y="150" width="78" height="60" fill="#9DBC40"/>
+    <rect x="814" y="150" width="78" height="60" fill="#E0A32E"/>
+
+    <rect x="404" y="214" width="78" height="60" fill="#383D96"/>
+    <rect x="486" y="214" width="78" height="60" fill="#469449"/>
+    <rect x="568" y="214" width="78" height="60" fill="#AF363C"/>
+    <rect x="650" y="214" width="78" height="60" fill="#E7C71F"/>
+    <rect x="732" y="214" width="78" height="60" fill="#BB5695"/>
+    <rect x="814" y="214" width="78" height="60" fill="#0885A1"/>
+
+    <rect x="404" y="278" width="78" height="60" fill="#F3F3F2"/>
+    <rect x="486" y="278" width="78" height="60" fill="#C8C8C8"/>
+    <rect x="568" y="278" width="78" height="60" fill="#A0A0A0"/>
+    <rect x="650" y="278" width="78" height="60" fill="#7A7A79"/>
+    <rect x="732" y="278" width="78" height="60" fill="#555555"/>
+    <rect x="814" y="278" width="78" height="60" fill="#343434"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="408" font-size="56" font-weight="900" fill="#FFFFFF">24 PATCHES,</text>
+    <text x="600" y="470" font-size="56" font-weight="900" fill="#FFFFFF">30 SECONDS ON SET</text>
+
+    <text x="600" y="530" font-size="26" fill="#FFFFFF" fill-opacity="0.55" font-weight="bold">
+      GRADE THE PLATE NEUTRAL BEFORE YOU TOUCH A LIGHT
+    </text>
+  </g>
+</svg>
