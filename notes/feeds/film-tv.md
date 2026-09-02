@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-09-01T19:35:20.629Z
+# Film & TV — harvested 2026-09-02T09:01:59.133Z
 
 ## Variety
 
-### Jason Isbell Leads New Suno Lawsuit, Claims AI Music Generator ‘Exploits’ Musicians’ Identities in Models
-Tue, 01 Sep 2026 19:30:31 +0000 — https://variety.com/2026/music/news/jason-isbell-suno-lawsuit-ai-music-exploits-identities-1236848468/
+### The Life of Gerda Taro, the First Female Photojournalist to Be Killed on the Battlefield, Captured in Venice s The Girl With the Leica
+Wed, 02 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/global/gerda-taro-photojournalist-the-girl-with-the-leica-1236847297/
 
-Grammy-winning Americana crooner Jason Isbell is one of several new litigants in a new federal lawsuit against the AI music generator Suno, arguing the company has allowed users to produce tracks based on musicians identities with its models without their consent. The lawsuit — filed Monday in the U.S. District Court in Massachusetts by a group that [ ]
+Gerda Taro was only 26 when she became the first female photojournalist to be killed on the battlefield. It would be decades before her true contribution to the artform was acknowledged. Alina Marazzi’s “The Girl With the Leica,” which opens Venice’s Horizons section, seeks to redress this oversight, and pays tribute to Taro’s vivacious personality. [ ]
 
-### Avengers: Secret Wars Adds Noah Jupe to Cast
-Tue, 01 Sep 2026 19:18:12 +0000 — https://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537/
+### Kung Fu Soccer Tops as China s Summer Box Office Hits $1.86 Billion
+Wed, 02 Sep 2026 08:58:17 +0000 — https://variety.com/2026/film/box-office/kung-fu-soccer-china-summer-box-office-1236849100/
 
-Noah Jupe is the latest actor to join the Marvel Cinematic Universe, with the Hamnet and A Quiet Place star tapped to play a top-secret role in Avengers: Secret Wars. The superhero team-up movie, directed by Anthony and Joe Russo, is the follow-up to Avengers: Doomsday. That movie doesn t debut until December 18, but production [ ]
+Kung Fu Soccer, directed by Stephen Chow, topped China s 2026 summer box office with RMB2.315 billion ($344.4 million), as the overall summer season reached RMB12.498 billion ($1.86 billion), up 4.45% year-on-year and marking a second straight year of growth, according to a new report from Maoyan Research Institute, the research arm of Maoyan Entertainment. The [ ]
 
-### Debi Mazar Says Entourage Set Got Toxic and They Didn t Like That I Got Fat After Birth of Second Child
-Tue, 01 Sep 2026 19:13:54 +0000 — https://variety.com/2026/tv/news/debi-mazar-entourage-toxic-fat-birth-second-child-1236848459/
+### Trisha Krishnan Toplines Panorama Studios First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)
+Wed, 02 Sep 2026 08:15:00 +0000 — https://variety.com/2026/film/news/trisha-krishnan-panorama-studios-tamil-film-1236849069/
 
-Debi Mazar says the set of “Entourage” became “toxic” after she gave birth to her second child, claiming “they didn’t like that I got fat.” In an interview with The Times U.K., the actress described being on the HBO show around Season 3 as “complicated” because “I’d had my second baby and they didn’t like [ ]
+Indian star Trisha Krishnan is leading Panorama Studios first Tamil-language production, a psychological horror directed by Raja Krishna Menon. Radhika Sarathkumar and Aparna Balamurali co-star in the yet-to-be-titled film, which has begun principal photography in London. The film is presented by Panorama Studios in association with Locomotive Global and credited as a Fusion Flicks and [ ]
 
-### Godzilla Minus Zero Named Centerpiece of Tokyo Film Festival as Sukiyaki Opens, Colony Closes
-Tue, 01 Sep 2026 19:00:00 +0000 — https://variety.com/2026/film/festivals/godzilla-minus-zero-tokyo-centerpiece-sukiyaki-colony-1236847173/
+### Julianne Moore to Receive Zurich s Golden Icon Award as Jesse Eisenberg s The Debut Screens
+Wed, 02 Sep 2026 06:41:39 +0000 — https://variety.com/2026/film/global/julianne-moore-zurich-jesse-eisenberg-the-debut-1236849061/
 
-Godzilla Minus Zero will screen as the centerpiece of the 39th Tokyo International Film Festival, with Zeze Takahisa s music drama Sukiyaki opening the festival and Yeon Sang-ho s zombie thriller Colony closing it. Director Yamazaki Takashi, who also wrote and oversaw visual effects on the film, returns with Godzilla Minus Zero as a follow-up to Godzilla [ ]
+The 22nd Zurich Film Festival will honor Julianne Moore with the Golden Icon Award for her “extraordinary career” and her performance in her new film, “The Debut.” She will be accompanied in Zurich by “The Debut” director Jesse Eisenberg. The film marks Moore s second collaboration with Eisenberg as a director following his directorial debut “When [ ]
 
-### GTA 6 Extended Look Tops Netflix Charts With 31.1 Million Views in Four Days
-Tue, 01 Sep 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/gta-6-netflix-extended-look-views-1236848409/
+### Martin Scorsese Mentee Celina Murga Preps Next Pic, ‘The Rehearsals’
+Wed, 02 Sep 2026 06:02:39 +0000 — https://variety.com/2026/film/global/martin-scorsese-celina-murga-next-pic-the-rehearsals-1236848696/
 
-With only six hours of exclusivity before it hit YouTube, Netflix s Grand Theft Auto 6 extended look became the streamer s most-viewed title last week. Between its release on Thursday, Aug. 27 at 3 p.m. ET and Sunday, Aug. 30 (the end of Netflix s viewing window for its weekly Top 10 rankings) the 27-minute GTA 6 [ ]
+Among the 15 projects participating in the upcoming San Sebastián Europe-Latin America Co-Production Forum is “The Rehearsals” (“Los Ensayos”) by Argentina’s Celina Murga, best known for her Martin Scorsese-executive produced dramas ‘The Freshly Cut Grass’ and ‘The Third Side of the River’ and of course, her career-launching 2003 debut, “Ana and the Others.” Based on [ ]
 
-### Heated Rivalry Season 2 Sets François Arnaud, Robbie G.K., Sophie Nélisse and More Returning Cast Members
-Tue, 01 Sep 2026 18:49:19 +0000 — https://variety.com/2026/tv/news/heated-rivalry-season-2-returning-cast-francois-arnaud-1236848472/
+### ‘The Runner’ Review: Gal Gadot Is a Mother on a Rescue Mission in an Energetic but Uninspired Amazon Thriller
+Wed, 02 Sep 2026 04:00:00 +0000 — https://variety.com/2026/film/reviews/the-runner-review-gal-gadot-1236847013/
 
-François Arnaud and Robbie G.K. will reprise their roles as Scott and Kip for the second season of “Heated Rivalry,” joining Connor Storrie and Hudson Williams for the hockey drama. Returning alongside Arnaud and G.K. for the sophomore season are Sophie Nélisse as Rose, Ksenia Daniela Kharlamova as Svetlana, Callan Potter as Hayden and Benjamin [ ]
+A frantic journey across London on foot provides a lot of exercise for Gal Gadot, but not much reward for viewers, in “The Runner.” Hardly the first thriller centering on an exceptionally action-ready parent surmounting various obstacles to rescue an imperiled child from some diabolical abductor, and surely not the last, this Prime Original has [ ]
 
-### Owner of L.A. Rams and Denver Nuggets Buys Los Angeles Angels Baseball Team
-Tue, 01 Sep 2026 18:46:21 +0000 — https://variety.com/2026/tv/news/los-angeles-angels-anaheim-kroenke-rams-denver-nuggets-1236848456/
+### Hyun Bin and Woo Do-hwan Turn Against Each Other in Hulu and Disney+ s Made in Korea Season 2
+Wed, 02 Sep 2026 04:00:00 +0000 — https://variety.com/2026/tv/news/hyun-bin-woo-do-hwan-made-in-korea-season-2-1236848100/
 
-Kroenke Sports and Entertainment has acquired a majority stake in the Los Angeles Angels, adding a Major League Baseball franchise to a list of sports assets that includes the Los Angeles Rams, Denver Nuggets and Colorado Avalanche. Financial details of the deal were not immediately clear. Kroenke Sports is acquiring a majority interest from longtime [ ]
+At a some KRW70 billion ($51 million) across two seasons, Made in Korea ranks among the most expensive K-dramas ever made. Season 2 premieres six episodes on Hulu and Disney+ Sept. 9, closing the story in 1979, the year Korean politics came apart in 10 weeks. Season 1 left viewers in the 1970s, inside the [ ]
 
-### Why Stella Lefty s Boston Became the Biggest Musical Punching Bag of the Decade — and One of the Biggest Songs of the Year
-Tue, 01 Sep 2026 18:44:34 +0000 — https://variety.com/2026/music/columns/stella-lefty-boston-punching-bag-controversy-stick-season-1236848388/
+### Danny and Nia Booko Leaving The Valley for Season 4 After Being the Focus of Controversy: ‘Our Priority Is Protecting Our Peace’
+Wed, 02 Sep 2026 03:26:27 +0000 — https://variety.com/2026/tv/news/danny-booko-nia-sanchez-leave-the-valley-bravo-1236848977/
 
-I like it when you re nice to me, Stella Lefty sings in the hook of her breakthrough single, Boston. To which we can only reply right now: Hope you re not reading the comments. Try to recall the last time there was as much mass derision directed at one song as there is currently aimed at [ ]
+Danny Booko and Nia Sanchez Booko are leaving “The Valley” after three seasons with the Bravo reality show. “We wanted to share a quick update that we will not be returning to The Valley, ” the couple wrote in a joint statement posted to Instagram. “We’re incredibly grateful for this experience, but our priority is protecting [ ]
 
-### Pro-Paramount Group Uses AI to Pressure Rob Bonta to Drop Antitrust Case
-Tue, 01 Sep 2026 18:41:39 +0000 — https://variety.com/2026/film/news/paramount-rob-bonta-artificial-intelligence-influent-ai-1236846315/
+### Victor Miller, Friday the 13th Screenwriter, Dies at 86
+Wed, 02 Sep 2026 02:34:10 +0000 — https://variety.com/2026/film/news/victor-miller-dead-friday-the-13th-screenwriter-1236848883/
 
-A group supporting the Paramount-Warner Bros. merger is using artificial intelligence to help pressure California Attorney General Rob Bonta to drop his antitrust lawsuit. The group, which uses the neutral-sounding name Neighbors for Strong Communities, uses AI to craft letters that are sent to Bonta’s office, but says that the senders are all real people. [ ]
+Victor Miller, the screenwriter behind the horror classic “Friday the 13th,” died on Monday in Alameda, Calif. He was 86. Miller’s death was confirmed to Variety by his son, Ian. Released in 1980, “Friday the 13th” is widely considered a seminal installment in the horror canon. It widely popularized the summer camp setting and themes [ ]
 
-### Music Industry Moves: BMG-Concord Merger Is Complete, New Executive Teams Announced
-Tue, 01 Sep 2026 18:00:00 +0000 — https://variety.com/2026/music/news/yoshiki-signs-with-bmg-1236847324/
+### David Byrne Returns to Oscar Race With Original Song for Elon Musk Documentary ‘Musk’ (EXCLUSIVE)
+Wed, 02 Sep 2026 00:24:15 +0000 — https://variety.com/2026/film/awards/david-byrne-musk-documentary-oscar-song-1236848717/
 
-BMG has announced its executive management team and strategic leadership council, following the completion of its merger with Concord. Working under the oversight of BMG’s board of directors, the executive team will be comprised of the following individuals: Bob Valentine, Chief Executive OfficerBjörn Bauer, Chief Financial OfficerSebastian Hentzschel, Chief Operating OfficerVictor Zaraya, Chief Revenue OfficerAmanda [ ]
+David Byrne wrote a song about the world’s richest man. The Talking Heads frontman wrote and performed an original song for “Musk,” Alex Gibney s sprawling documentary reckoning with Elon Musk, Variety can exclusively reveal. Titled “Let Me Sell You a Dream,” the track plays within the 235-minute film and arrives as an Oscar-qualifying entry in [ ]
 
 ## The Hollywood Reporter
 
-### Sydney Sweeney Signs with CAA (Exclusive)
-Tue, 01 Sep 2026 19:29:57 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sydney-sweeney-signs-with-caa-1236686769/
+### Onwards and Sideways Trailer: Laura Linney and Rhys Ifans Are a Duo Diagnosed With Parkinson s
+Wed, 02 Sep 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/onwards-and-sideways-film-trailer-laura-linney-rhys-ifans-1236686925/
 
-The star had been without an agent since late 2025.
+The Toronto-bowing movie, directed by John Madden based on a Paul Mayhew-Archer script, also features Monica Dolan and Rory Kinnear.
 
-### Tony Romo Pleads No Contest to DWI Charge, Says He s Seeking Help for Alcohol Use
-Tue, 01 Sep 2026 19:04:03 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tony-romo-pleads-no-contest-wisconsin-owi-1236687064/
+### The Indies Goes on a Journey With 3 Men Taking a Painting Across a Europe Ravaged by Conflicts (Exclusive Venice Trailer)
+Wed, 02 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-indies-film-trailer-venice-2026-painting-europe-wars-1236686787/
 
-The former NFL quarterback and CBS Sports commentator was arrested in July in Wisconsin.
+The period road movie, the debut fiction feature from Pauline Julier and Nicolas Chapoulier, premieres in the Venice Days program, using a historical lens to examine the origins of the world we inhabit today.
 
-### Zeze Takahisa s Sukiyaki to Open Tokyo Film Festival
-Tue, 01 Sep 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-2026-opening-closing-films-1236687035/
+### Venice First Look: Toni Servillo Meets His Match in Mario Martone s Scherzetto
+Wed, 02 Sep 2026 06:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toni-servillo-mario-martone-venice-scherzetto-1236686536/
 
-Yeon Sang-ho's zombie film 'Colony' is set to close the event, with Takashi Yamazaki's 'Godzilla Minus Zero' receiving a special Centerpiece screening.
+The Italian screen legend plays a solitary illustrator thrown into battle with his unruly five-year-old grandson in the feature adaptation of Domenico Starnone’s novel.
 
-### Broadway Box Office: Moulin Rouge Hits $2.3 Million In Closing Week
-Tue, 01 Sep 2026 18:36:34 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-moulin-rouge-2-1236687044/
+### Julianne Moore to Receive Zurich Film Festival s Golden Icon Award
+Wed, 02 Sep 2026 04:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/julianne-moore-zurich-film-festival-golden-icon-award-1236686585/
 
-The musical, which played its final performance Aug. 30, was the highest grossing of the week.
+The U.S. actress will be joined by Jesse Eisenberg, who directs her in his latest film 'The Debut,' at a ceremony in Zurich, Switzerland.
 
-### Toronto: Noomi Rapace Plays FBI Agent Hunting Suicidal Fugitive in ‘In Alaska’ Clip (Exclusive)
-Tue, 01 Sep 2026 18:25:01 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toronto-noomi-rapace-in-alaska-clip-exclusive-1236686701/
+### Bill Simmons Says I Learned My Lesson After Admitting to Proxy Betting on Fanduel in Podcast Interview
+Wed, 02 Sep 2026 03:11:56 +0000 — https://www.hollywoodreporter.com/business/digital/bill-simmons-apoligizes-proxy-betting-fanduel-podcast-1236687308/
 
-The cat-and-mouse thriller from directors Jaap van Heusden and Vinnie Karetak and also starring newcomer Leo Mathew Temela will have a world premiere at TIFF.
+Fanduel says it reported the bets to Massachusetts gaming authorities, with Simmons telling his podcast listeners Tuesday that he made a mistake.
 
-### Every Spider-Man Movie Villain, Ranked
-Tue, 01 Sep 2026 18:12:41 +0000 — https://www.hollywoodreporter.com/lists/spider-man-movie-villains-ranked/
+### Kenan Thompson Reveals Which Movie Role Almost Made Him Quit Acting
+Wed, 02 Sep 2026 02:34:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/kenan-thompson-almost-quit-acting-ice-skating-hockey-movie-1236687621/
 
-With the release of 'Spider-Man: Brand New Day,' The Hollywood Reporter ranks Spidey’s cinematic crooks and creeps — from worst to best, below.
+The 'Saturday Night Live' star said the difficulty of learning how to ice skate for the hockey film made him rethink his career path when he was younger.
 
-### Debi Mazar Says Entourage Set Was Toxic After Birth of Second Child: They Didn’t Like That I Got Fat
-Tue, 01 Sep 2026 18:11:56 +0000 — https://www.hollywoodreporter.com/tv/tv-news/debi-mazar-entourage-toxic-birth-child-fat-1236686852/
+### Danny Booko and Nia Sanchez Announce Exit From The Valley : Our Priority Is Protecting Our Peace
+Wed, 02 Sep 2026 02:29:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/danny-booko-nia-sanchez-exit-the-valley-1236687634/
 
-"It was a lot of fun, until it wasn’t," the 'Goodfellas' actress said of working on the Emmy-winning HBO series.
+The couple appeared on three seasons of the Bravo series.
 
-### Stanley Kubrick s Daughter Tackles Eyes Wide Shut Missing 20 Minutes Conspiracy Theory
-Tue, 01 Sep 2026 18:08:59 +0000 — https://www.hollywoodreporter.com/movies/movie-news/eyes-wide-shut-missing-20-minutes-vivian-kubrick-conspiracy-1236686880/
+### On the Heels of Apple TV s Price Hike, See the Best Subscription Deals and Free Trial Tips
+Wed, 02 Sep 2026 02:14:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-apple-tv-plus-deals-free-trial-1235585795/
 
-Vivian Kubrick gives detailed thoughts about those rumors — fueled by Joe Rogan's podcast — which involve a Jeffrey Epstein coverup link.
+The Apple-owned platform is the latest service hit by streaming inflation.
 
-### Santa Barbara Film Fest: Disclosure Day Star Emily Blunt Set for Kirk Douglas Award for Excellence in Film
-Tue, 01 Sep 2026 17:33:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/santa-barbara-film-fest-emily-blunt-kirk-douglas-award-1236685977/
+### Carole Radziwill Addresses Her Name Being in Epstein Files: It s Important to Talk About It
+Wed, 02 Sep 2026 01:20:19 +0000 — https://www.hollywoodreporter.com/tv/tv-news/carole-radziwill-epstein-files-ghislaine-maxwell-rhony-1236687333/
 
-The Oscar and Golden Globe nominated actress will be feted at a black-tie fundraiser for SBIFF's year-round educational programs on Thursday, Dec. 10.
+The topic will be discussed further on season 16 of 'The Real Housewives of New York City,' which Radziwill is starring in.
 
-### Inside the Singular Animation Process of Coyote Vs. Acme
-Tue, 01 Sep 2026 17:28:13 +0000 — https://www.hollywoodreporter.com/movies/movie-features/coyote-vs-acme-animation-deep-dive-feature-1236685016/
+### D4vd Murder Case: Victim s Family Demands Justice as Indigent Claim Draws Scrutiny
+Wed, 02 Sep 2026 00:52:29 +0000 — https://www.hollywoodreporter.com/news/general-news/d4vd-murder-case-victims-family-demands-justice-indigent-claim-1236687558/
 
-Well before cameras rolled, the filmmakers had done 15 months worth of work thinking about its animated characters. Director Dave Green and key members of his team reveal how it all happened.
+A claim of financial hardship from the singer who signed to Interscope for a reported $11 million is under fire as his murder case moves toward trial.
 
 ## Deadline
 
-### Moulin Rouge! With Aaron Tveit Bids Adieu With Best Gross In Years Broadway Box Office
-Tue, 01 Sep 2026 19:24:50 +0000 — https://deadline.com/2026/09/broadway-box-office-moulin-rouge-paranormal-activity-1237064092/
+### Maureen Lipman Tells Cowardly Co-Star To Grow Up After He Quit Play Over Her Pro-Israel Views
+Wed, 02 Sep 2026 09:00:49 +0000 — https://deadline.com/2026/09/maureen-lipman-gerard-mccarthy-grow-up-israel-views-1237065152/
 
-The final performances of Moulin Rouge! The Musical easily topped this week s Broadway box office chart, grossing a bit $2,336,973 at the Al Hirschfeld Theatre, a nice jump of $140,768 over the previous week. With original, Tony-winning cast member Aaron Tveit back as Christian for the engagement s final two weeks, sales surged with his fans [ ]
+Maureen Lipman, the BAFTA-nominated actress known for her work in The Pianist, has hit out at co-star Gerard McCarthy after he quit their Soho Theatre play over her pro-Israel stance. Lipman and McCarthy were due to share a stage in Stan Zimmerman s Right Before I Go on September 5, but McCarthy walked away from the [ ]
 
-### Audible s Harry Potter Full-Cast Audiobooks Conjure Over 5M Sales
-Tue, 01 Sep 2026 19:18:31 +0000 — https://deadline.com/2026/09/harry-potter-full-cast-audiobooks-5m-sales-audible-1237064178/
+### Ukrainian Drama ‘Camouflage’ Set Sales With MMM Films Drops First Clip Venice
+Wed, 02 Sep 2026 08:39:26 +0000 — https://deadline.com/2026/09/mmm-films-sales-clip-venice-ukraine-camouflage-1237065141/
 
-EXCLUSIVE: Audible’s Harry Potter: The Full-Cast Audio Editions have sold over 5M copies. Amazon-owned Audible started releasing new versions of the J.K. Rowling series last November, with a glitzy cast voicing the characters and cutting edge spatial audio. All seven full-cast versions of the books have now been released and Audible told Deadline that it [ ]
+EXCLUSIVE: Paris-based MMM Films has acquired international sales rights for Ukrainian director Mykyta Gibalenko’s drama Camouflage and released a first clip for the film ahead of its world premiere in Venice parallel section Giornate degli Autori. Arthur Aliiev, who was in Venice in 2023 with Forever Forever, stars as 22-year-old Vitaly who leaves his native [ ]
 
-### Tokyo Film Festival To Open Close With ‘Sukiyaki’ ‘Colony’; ‘Godzilla Minus Zero’ Set As Centerpiece Film
-Tue, 01 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/godzilla-minus-zero-colony-sukiyaki-tokyo-film-festival-1237063855/
+### Gunsmoke Mirrors , Drama Series About Danish Criminal Turned American Frontier Hero Chris Madsen, In The Works
+Wed, 02 Sep 2026 08:04:34 +0000 — https://deadline.com/2026/09/chris-madsen-drama-series-development-1237065119/
 
-The Tokyo Film Festival has made the first programming announcements for its 2026 edition, confirming that Sukiyaki and Colony will bookend the festival, while Godzilla Minus Zero has been set as the Centerpiece film. Zeze Takahisa’s Sukiyaki, which will play as the opening film on October 26, is described by the festival as “a heartwarming [ ]
+EXCLUSIVE: Denmark s Lunderskov Magic, the UK s CMG Productions and producers Nicole Finnan and Allan Sperling have teamed on a scripted series about a Danish criminal who became a war hero and American frontier legend. The show, Gunsmoke Mirrors, is set in the late 19th Century and chronicles the transformation of Christian Rørmose Madsen, who [ ]
 
-### Avengers: Secret Wars : Noah Jupe Joins Upcoming Marvel Studios Movie
-Tue, 01 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/avengers-secret-wars-noah-jupe-cast-marvel-1237064363/
+### Julianne Moore To Receive Zurich’s Golden Icon Award
+Wed, 02 Sep 2026 07:56:00 +0000 — https://deadline.com/2026/09/julianne-moore-zurichs-film-festival-golden-icon-award-1237065134/
 
-EXCLUSIVE: While Marvel Studios still has a couple months before it unveils its highly-anticipated Avengers: Doomsday, the next chapter is already looking to add to its stacked cast. Sources tell Deadline, Noah Jupe has been tapped for a secret role in the upcoming pic which is set to go into production later this year. Marvel [ ]
+The Zurich Film Festival will fete Julianne Moore with its Golden Icon Award. She will accept the award in person in Zurich, accompanied by Jesse Eisenberg, who directed the Academy Award winner in The Debut. The Debut marks Moore s second collaboration with director Jesse Eisenberg, following Eisenberg s directorial debut, When You Finish Saving the World [ ]
 
-### Voltage Teeing Off Sales At TIFF For Madelaine Petsch Romantic Comedy I Wish I Never Had Sex With Him
-Tue, 01 Sep 2026 18:48:47 +0000 — https://deadline.com/2026/09/madelaine-petsch-i-wish-i-never-had-sex-with-him-voltage-tiff-1237064444/
+### Clíodhna O Sullivan’s Romantasy Novel Her Hidden Fire Getting YA Series Adaptation With Great Island Attached
+Wed, 02 Sep 2026 07:47:22 +0000 — https://deadline.com/2026/09/her-hidden-fire-romantasy-series-adaptation-1237065127/
 
-EXCLUSIVE: Voltage Pictures is handling worldwide distribution rights and kicking off sales at TIFF for the high-concept romantic comedy I Wish I Never Had Sex With Him starring Riverdale and Strangers franchise actress Madelaine Petsch. Written by Monique Sorgen and based on her book How Long You Should Wait to Have Sex, the movie follows [ ]
+EXCLUSIVE: Irish production company Great Island has optioned Clíodhna O’Sullivan’s bestselling romantasy novel Her Hidden Fire for a young adult series adaptation. The eight-part series will follow Éadha, a servant who has learned to survive by remaining unseen in a stratified world where magic is fuelled by enslaved Fodder. Éadha hides her own power that she generates from within, but when [ ]
 
-### Bob Yari s Magenta Light Studios Acquires Anna Nicole Smith Feature Drama Hurricanna
-Tue, 01 Sep 2026 18:31:14 +0000 — https://deadline.com/2026/09/anna-nicole-smith-movie-hurricanna-1237043367/
+### Entourage Creator Doug Ellin Denies Debi Mazar s Disgusting Claim About Being Fat-Shamed On HBO Series After Giving Birth
+Wed, 02 Sep 2026 07:21:00 +0000 — https://deadline.com/2026/09/entourage-doug-ellin-debi-mazar-fat-shamed-1237065117/
 
-EXCLUSIVE: Bob Yari s Magenta Light Studios has picked up U.S. and Canadian theatrical rights to Emmy nominated filmmaker Francesca Gregorini s (Killing Eve, The Dropout, The Truth About Emanuel) Hurricanna about the chaotic final 48 hours of supermodel Anna Nicole Smith s life. The pic will hit theaters on Nov. 13. Starring Sylvia Hoeks (Blade Runner 2049, [ ]
+Doug Ellin, the creator and writer of Entourage, has said that he does not recognize Debi Mazar s claim about being fat-shamed on the HBO series toxic set. In an interview with The Times of London, Mazar alleged that Entourage producers did not approve of her body after she gave birth to her second child in [ ]
 
-### Eva Longoria Eugenio Derbez To Star In ‘Marcelo In The Real World’
-Tue, 01 Sep 2026 18:14:42 +0000 — https://deadline.com/2026/09/eva-longoria-eugenio-derbez-marcelo-in-the-real-world-1237064386/
+### Victor Miller Dies: Friday The 13th Screenwriter Was 86
+Wed, 02 Sep 2026 03:40:17 +0000 — https://deadline.com/2026/09/victor-miller-dead-friday-the-13th-screenwriter-1237065085/
 
-EXCLUSIVE: Eva Longoria and Eugenio Derbez are starring in Marcelo in the Real World, with Lucia Puenzo directing. Produced by Zeta Studios and Elefantec Global, the film is an adaptation of Francisco X. Stork’s novel. Longoria and Derbez star alongside Àstrid Bergès-Frisbey, Mathew Borrero and Ema Giménez Zapiola. Production is getting underway in Uruguay and [ ]
+Victor Miller, the screenwriter behind Friday the 13th, has died. He was 86. Miller s son Ian confirmed his father had died on Monday, August 30, but didn t reveal the cause of death. Yesterday my father, Victor Miller, went to his final reward, read the Instagram post in honor of the screenwriter. He was almost always [ ]
 
-### Campfire Studios Promotes Ross Girard To Partner, Ups Allyson Holloway
-Tue, 01 Sep 2026 18:07:30 +0000 — https://deadline.com/2026/09/campfire-studios-ross-girard-allyson-holloway-1237064394/
+### Danny Booko Nia Sanchez Exit The Valley After 3 Seasons
+Wed, 02 Sep 2026 01:41:46 +0000 — https://deadline.com/2026/09/danny-booko-nia-sanchez-exit-the-valley-bravo-1237064737/
 
-EXCLUSIVE: Campfire Studios, the company behind Netflix’s America’s Sweethearts: Dallas Cowboys Cheerleaders, is making promotions. The Wheelhouse-backed company, which is run by Ross Dinerstein, has named COO Ross Girard as partner and promoted development executive Allyson Holloway to VP, Creative. The moves come after it received a season four renewal for America’s Sweethearts and its sports [ ]
+No more commutes to Santa Clarita for the cast of The Valley, as Danny Booko and Nia Sanchez are leaving the Bravo reality series after three seasons. News of Sanchez and Booko s departure comes as Season 4 ramps up production. The couple had been part of the ensemble cast since it premiered in 2024. We [ ]
 
-### ‘Heated Rivalry’ Sets Season 2 Returning Cast: See Who ll Be Back Alongside Connor Storrie Hudson Williams
-Tue, 01 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/heated-rivalry-season-2-robbie-gk-francois-arnaud-return-1237063425/
+### Chris McKenna Calls General Hospital Exit Disappointing : But This Was A Gift
+Wed, 02 Sep 2026 01:05:23 +0000 — https://deadline.com/2026/09/chris-mckenna-general-hospital-exit-disappointing-1237064924/
 
-EXCLUSIVE: The cast of Heated Rivalry continues to grow as a slew of Season 1 cast members have set their return for the second season. Coming back alongside Connor Storrie and Hudson Williams are François Arnaud and Robbie G.K. as fan-favorite couple Scott and Kip, who inspired Ilya (Storrie) to join Shane (Williams) at the cottage; Sophie Nélisse [ ]
+Chris McKenna is opening up about his exit from ABC s General Hospital after joining the daytime soap in 2025. The actor played Jack Brennan, replacing Charles Measure starting in February 2025. McKenna s time on GH came to a close when his character was killed off after the WSB chief was found dead in the Metro [ ]
 
-### Elsbeth Season 4 Adds Nicole Scherzinger, Nicholas Braun, OG Anunoby Jemima Kirke
-Tue, 01 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/elsbeth-season-4-nicole-scherzinger-nicholas-braun-1237064322/
+### Donald Trump Doubles Down On Still Vague Federal Film TV Tax Incentive Amid Praise From SAG-AFTRA, Other Unions
+Wed, 02 Sep 2026 00:36:56 +0000 — https://deadline.com/2026/09/trump-federal-film-tax-credit-1237064841/
 
-EXCLUSIVE: CBS Elsbeth is gearing up for its Season 4 premiere on October 8 with the first list of guest stars, including Nicole Scherzinger (The Masked Singer), Nicholas Braun (Succession), New York Knicks star OG Anunoby, and Jemima Kirke (Girls). Carrie Preston returns as Elsbeth Tascioni, the brilliant yet unconventional consent decree attorney working with [ ]
+A day after endorsing a bipartisan move for a federal film and TV tax incentive, Donald Trump is doubling down on the initiative. With jobs, jobs, jobs and production, production, production at the heart of the so-called Motion Picture, Television, and Entertainment Revitalization Act, the U.S. President and former Emmy nominee is getting a lot [ ]
 
-### Harry Potter TV Series Due To Hit HBO In 2027: Everything We Know About The Cast, Who s Creating It, What J.K. Rowling Says More
-Tue, 01 Sep 2026 17:54:31 +0000 — https://deadline.com/2026/09/harry-potter-tv-series-max-release-date-cast-1235323284/
+### Apple Unveils Pay Package For New CEO John Ternus
+Tue, 01 Sep 2026 23:59:12 +0000 — https://deadline.com/2026/09/apple-unveils-pay-package-for-new-ceo-john-ternus-1237064858/
 
-There will be another season of HBO Max s Harry Potter TV series. The new Harry, Ron and Hermione have received their Hogwarts admission letters, as have the newest additions — four out of Ron s six siblings. Since those magical owl deliveries, the Ginny Weasley role will be recast for Season 2 due to Gracie Cochrane s [ ]
+Apple set a pay package worth $58 million for new CEO John Ternus, who formally took the reins from longtime chief executive Tim Cook on Tuesday. His compensation includes a $3 million annual salary and equity grants valued at $55 million to be awarded in the company s fiscal 2027, which starts in October. The tech [ ]
 
-### Kevin Hart s Hartbeat To House Vertical Originals On Microdrama Platform aTwist
-Tue, 01 Sep 2026 17:46:31 +0000 — https://deadline.com/2026/09/kevin-hart-hartbeat-atwist-vertical-originals-microdrama-1237049649/
+### Hard Knocks Producer On What Makes Docuseries Special, Why The Seattle Seahawks Won The Super Bowl Teases 2027 s Offseason
+Tue, 01 Sep 2026 23:45:00 +0000 — https://deadline.com/2026/09/hard-knocks-docuseries-seattle-seahawks-2027-offseason-1237064727/
 
-EXCLUSIVE: Kevin Hart often fields jokes about his height, and now he s planning to shrink down the size of his original productions. Hart s production company, Hartbeat, will make vertical originals for microdrama platform aTwist. A strategic partnership between Hartbeat and aTwist – the vertical video service led by veteran TV industry execs Jana Winograde, Susan [ ]
+Hard Knocks gives an inside look at how NFL teams gear up for football season, and this year, the HBO and NFL Films docuseries featured the reigning Super Bowl champions, the Seattle Seahawks. As the season wraps up, Deadline spoke to NFL Films Talent and Field Producer Kaley Campen to get insight into what made [ ]
 

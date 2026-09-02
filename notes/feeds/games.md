@@ -1,6 +1,21 @@
-# Games — harvested 2026-09-01T19:35:20.629Z
+# Games — harvested 2026-09-02T09:01:59.133Z
 
 ## Eurogamer
+
+### No Rest for the Wicked delayed to 2027, promises new beta and founders packs for early buyers to tide people over
+Wed, 02 Sep 2026 08:55:25 +0000 — https://www.eurogamer.net/no-rest-for-the-wicked-delayed-march-2027
+
+No Rest for the Wicked - the upcoming Action RPG from Ori developer Moon Studios - has been delayed into next year. Originally intended to release into version 1.0 in October, it will instead launch in March of 2027. Read more
+
+### The Grand Theft Auto run button has changed after 25 years - GTA 6 no longer requires you to tap a face button to peg it
+Wed, 02 Sep 2026 08:48:30 +0000 — https://www.eurogamer.net/gta-6-run-button-changes-tap-rockstar
+
+For nearly 25 years, Grand Theft Auto games have uniquely mapped your sprint movement to a face button on a controller. Although some Rockstar games offered alternate control schemes, the default has always required players to tap X or A (depending on your platform) to run. But GTA 6 is bucking the trend. Read more
+
+### Rockstar Games unveils its official GTA Online RP server, mere months before GTA 6
+Tue, 01 Sep 2026 19:44:40 +0000 — https://www.eurogamer.net/rockstar-games-official-gta-online-rp-server-closed-beta
+
+Rockstar Games hasn't said much of anything about GTA 6 's potential multiplayer offerings, but the developer is making strides for GTA Online 's roleplaying community. A watch-only nopixel 5 closed beta is coming next week. Read more
 
 ### Double Fine will finally make Brutal Legend 2, but only if its new Kickstarter campaign reaches an almost impossible $100m
 Tue, 01 Sep 2026 18:35:01 +0000 — https://www.eurogamer.net/double-fine-finally-make-brutal-legend-2-new-kickstarter-almost-impossible-100m
@@ -47,22 +62,22 @@ Tue, 01 Sep 2026 11:36:42 +0000 — https://www.eurogamer.net/call-of-duty-moder
 
 Microsoft has kicked off a promotion seemingly out of nowhere to push people to pre-order Call of Duty: Modern Warfare 4 on its platforms, rather than those of its competitors. Read more
 
-### CD Projekt Red powerless regarding PS5 disc edition of The Witcher 4, but promises a game box with "feelies" whatever happens
-Tue, 01 Sep 2026 10:42:51 +0000 — https://www.eurogamer.net/witcher-4-physical-edition-disc-ps5
-
-CD Projekt Red, as influential as it is, has said it cannot do anything to guarantee a PlayStation 5 disc-based edition of The Witcher 4 when the game is released in 2028. It is, joint joint-CEO Micha&lstrok; Nowakowski said, at the mercy of Sony's manufacturing factories. Read more
-
-### "Most" of the developers behind critically acclaimed Star Wars Zero Company were furloughed ahead of launch
-Tue, 01 Sep 2026 09:03:40 +0000 — https://www.eurogamer.net/star-wars-zero-company-developers-furloughed
-
-Most of the developers behind the critically acclaimed Star Wars Zero Company were furloughed weeks before the game's launch last week, as a legal dispute between the studio founders puts Bit Reactor's ownership into question. Read more
-
-### Orbitals review
-Tue, 01 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/orbitals-review
-
-Orbitals' twin protagonists Maki and Omura have this adorable little habit. When they leave behind a tool &ndash; a ground-pound backpack or hacked microwave oven &ndash; they'll often say goodbye to it. Or sayonara, rather, if you're playing Orbitals in Japanese (as well you should; subs over dubs any day). Read more
-
 ## GamesIndustry.biz
+
+### Supercell's acquisition of Metacore expected to close at the end of September 2026
+Wed, 02 Sep 2026 08:37:20 +0000 — https://www.gamesindustry.biz/supercells-acquisition-of-metacore-expected-to-close-at-the-end-of-september-2026
+
+Supercell's acquisition of Metacore is progressing, with both companies having signed an agreement expected to close at the end of this month . Read more
+
+### GTA 6 extended look reaches 31.1m views on Netflix in four days, making it the most-viewed title last week
+Wed, 02 Sep 2026 07:51:21 +0000 — https://www.gamesindustry.biz/gta-6-extended-look-reaches-311m-views-on-netflix-in-four-days-making-it-the-most-viewed-title-last-week
+
+The extended look of Grand Theft Auto 6 was the most-viewed title on Netflix last week, reaching 31.1 million views in four days. Read more
+
+### IO Interactive CEO Hakan Abrak to discuss development of 007 First Light at Game Republic New Horizons 2026
+Wed, 02 Sep 2026 07:00:00 +0000 — https://www.gamesindustry.biz/io-interactive-ceo-hakan-abrak-to-discuss-development-of-007-first-light-at-game-republic-new-horizons-2026
+
+IO Interactive CEO Hakan Abrak will host a 007 First Light session at Game Republic New Horizons. Read more
 
 ### The Big Picture: What you need to know about the ongoing games industry reset
 Tue, 01 Sep 2026 16:19:14 +0000 — https://www.gamesindustry.biz/the-big-picture-what-you-need-to-know-about-the-ongoing-games-industry-reset
@@ -104,6 +119,21 @@ Star Wars Zero Company developer Bit Reactor furloughed "many of its workers" pr
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Colossal, Game-Changing Dragon s Dogma 2 Patch 3.2 Out Now on PS5
+Wed, 02 Sep 2026 00:30:00 GMT — https://www.pushsquare.com/news/2026/09/colossal-game-changing-dragons-dogma-2-patch-3-2-out-now-on-ps5
+
+Arise, Arisen. As Capcom promised, the biggest ever update for Dragon's Dogma 2 is available to download now on PS5. And when I write 'biggest', I don't just mean that it's packing the most improvements; this thing is 48GB in terms of file size. Read the full article on pushsquare.com
+
+### Here s Your First Look at the LEGO PS1, with Ape Escape and Gran Turismo Dioramas
+Tue, 01 Sep 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/09/heres-your-first-look-at-the-lego-ps1-with-ape-escape-and-gran-turismo-dioramas
+
+And no physical discs, of course. It’s been rumoured for quite some time, but here’s your first look at the official LEGO PS1 set, as spotted in-store by a Brick Tap News member. It’s due out on 1st October. The build consists of 1,911 pieces and will retail for a reasonable $160, which is pretty affordable for LEGO sets these days as far as I can see. Read the full article on pushsquare.com
+
+### Play the New Street Fighter Movie Trailer on YouTube Now
+Tue, 01 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/09/play-the-new-street-fighter-movie-trailer-on-youtube-now
+
+You read the headline right. There’s a new trailer for the upcoming Street Fighter movie which gives us our best look at the flick yet. But the coolest part of all is that you can actually play it. Read the full article on pushsquare.com
 
 ### Give Double Fine $100 Million and It ll Make Brutal Legend 2
 Tue, 01 Sep 2026 18:15:00 GMT — https://www.pushsquare.com/news/2026/09/give-double-fine-usd100-million-and-itll-make-brutal-legend-2
@@ -150,22 +180,12 @@ Tue, 01 Sep 2026 12:15:00 GMT — https://www.pushsquare.com/features/50plus-ps5
 
 Cheap PS5 and PS4 games we recommend. PS Store's latest sale is a Gamescom promotion, running from now until 9th September 2026. Browsing through the thousands of PS5 and PS4 games can take a while, so we've put together a list of games we recommend you check out. Everything listed here comes with at least a 7/10 score from Push Square , and every game is at its lowest price point, with some setting new lows in this sale. Read the full article on pushsquare.com
 
-### Preview: Turok: Origins Won t Rival the Classics as a Bang-Average PS5 Shooter
-Tue, 01 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/previews/turok-origins-wont-rival-the-classics-as-a-bang-average-ps5-shooter
-
-Mild mannered dinos. Turok: Origins is a third or first-person shooter where you and two other friends take on sentient dinosaurs in a sprawling campaign. That pitch in itself made me think back to Saturday mornings as a kid watching Mighty Morphin Power Rangers or even episodes of Xiaolin Showdown . Of course, Turok isn’t really like any of those shows, but the essence is. It’s just a sort of daft premise and an excuse to do cool stuff in video game form. And with that, I was sure there would be some fun to be had with my friends when I tried out about half an hour of the game at Gamescom. Read the full article on pushsquare.com
-
-### The Witcher 3 Remastered Is Just an Update on PS5, Not a New Edition with New Trophies
-Tue, 01 Sep 2026 11:45:00 GMT — https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-is-just-an-update-on-ps5-not-a-new-edition-with-new-trophies
-
-Path of least resistance. There's been some confusion around The Witcher 3: Wild Hunt Remastered and how it's actually going to work. I had assumed that the remaster — which was announced at Gamescom last week — would exist as its own separate release, replacing The Witcher 3: Wild Hunt - Complete Edition (the native PS5 version that launched in 2022, just to be clear). Read the full article on pushsquare.com
-
-### Despite Star Wars Zero Company s Strong Launch, the Dev Hasn t Been Doing Great
-Tue, 01 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/09/despite-star-wars-zero-companys-strong-launch-the-dev-hasnt-been-doing-great
-
-Details emerge about Bit Reactor struggles. Star Wars Zero Company launched on PS5 and other platforms last week, and it appears the turn-based strategy game has been a success for publisher EA and developer Bit Reactor. Certainly, the critical reception has been very good, players rate it highly, and it's currently one of Steam's top sellers — all good signs. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Report: Savvy Games Group CEO Brian Ward departs company
+Tue, 01 Sep 2026 21:42:52 GMT — https://www.gamedeveloper.com/business/report-savvy-games-group-ceo-brian-ward-departs-company
+
+'As Savvy embarks on its next period of transformational growth, this is the right time for new leadership for that evolution.'
 
 ### The majority of Doom: The Dark Ages' DLC got made 'in three or four months'
 Tue, 01 Sep 2026 18:03:04 GMT — https://www.gamedeveloper.com/business/the-majority-of-doom-the-dark-ages-dlc-got-made-in-three-or-four-months
