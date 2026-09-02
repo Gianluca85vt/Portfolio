@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Caddis 1.0: a node graph inside every layer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-opacity="0.30" stroke-width="3">
+    <path d="M250 300 H360 M470 300 H580 M360 300 V240 H470 V300 M360 300 V360 H470 V300"/>
+  </g>
+  <g fill="#18011F" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="3">
+    <rect x="180" y="272" width="72" height="56" rx="8"/>
+    <rect x="326" y="212" width="72" height="56" rx="8"/>
+    <rect x="326" y="332" width="72" height="56" rx="8"/>
+    <rect x="436" y="272" width="72" height="56" rx="8"/>
+    <rect x="578" y="272" width="72" height="56" rx="8"/>
+  </g>
+  <text x="180" y="500" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700" fill="#FFFFFF">Caddis 1.0</text>
+  <text x="184" y="576" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="400" fill="#FFFFFF" fill-opacity="0.86">a node graph inside every layer</text>
+  <text x="184" y="644" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="400" fill="#FFFFFF" fill-opacity="0.86">130+ nodes &#183; $129 &#183; now on Linux</text>
+</svg>
