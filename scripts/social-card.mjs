@@ -11,6 +11,7 @@
  */
 import { readFile, writeFile, access, mkdir } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
+import { pathToFileURL } from 'node:url';
 import sharp from 'sharp';
 
 const W = 1080;
@@ -183,7 +184,120 @@ export async function buildCard(slug, root = process.cwd()) {
   return out;
 }
 
-if ((process.argv[1] || '').includes('social-card')) {
+/**
+ * The cover slide of the daily carousel.
+ *
+ * A front page rather than a title card: the strongest photograph of the day
+ * carries it, heavily darkened, and the headlines are listed over it so someone
+ * scrolling past can tell what the day held without swiping. That listing is
+ * the whole reason the format works — a slide that only says "today's stories"
+ * gives a reader no reason to open it.
+ */
+export async function buildDigestCover(articles, root = process.cwd()) {
+  if (!articles.length) throw new Error('a digest needs at least one article');
+
+  // Prefer a real photograph for the background. The drawn SVG placeholders
+  // rasterise flat and read as a colour field once the scrim is over them.
+  const withPhoto = articles.find((a) => a.cover && !a.cover.endsWith('.svg'));
+  const source = withPhoto ?? articles[0];
+  const accent = COLOURS[source.category] ?? '#B600A8';
+
+  let background;
+  try {
+    if (!source.cover) throw new Error('no cover');
+    const p = join(root, 'public', source.cover.replace(/^\//, ''));
+    await access(p);
+    background = await sharp(p, { density: 300 })
+      .resize(W, H, { fit: 'cover', position: 'attention' })
+      .toBuffer();
+  } catch {
+    background = await sharp({
+      create: { width: W, height: H, channels: 3, background: '#18011F' },
+    })
+      .jpeg()
+      .toBuffer();
+  }
+
+  const day = new Date().toLocaleDateString('en-GB', {
+    weekday: 'long',
+    day: 'numeric',
+    month: 'long',
+  });
+
+  // Headlines are set smaller than on a single card because there are several,
+  // and each is capped at two lines: a third line on any one of them pushes the
+  // last headline off the canvas.
+  const size = articles.length > 4 ? 40 : 46;
+  const lineHeight = size * 1.16;
+
+  const blocks = articles.map((a) => ({
+    accent: COLOURS[a.category] ?? '#B600A8',
+    category: (a.category ?? '').toUpperCase(),
+    lines: wrap(a.title, size, W - 200).slice(0, 2),
+  }));
+
+  const gap = 34;
+  const blockHeights = blocks.map((b) => 30 + b.lines.length * lineHeight);
+  const listHeight = blockHeights.reduce((n, h) => n + h, 0) + gap * (blocks.length - 1);
+
+  let y = H - 150 - listHeight;
+  const items = blocks
+    .map((b) => {
+      const top = y;
+      y += blockHeights[blocks.indexOf(b)] + gap;
+      return `
+  <rect x="65" y="${top - 4}" width="7" height="${blockHeights[blocks.indexOf(b)] - 16}" fill="${b.accent}"/>
+  <text x="96" y="${top + 20}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="21"
+        font-weight="bold" letter-spacing="4" fill="${b.accent}">${esc(b.category)}</text>
+  ${b.lines
+    .map(
+      (l, i) =>
+        `<text x="96" y="${top + 30 + (i + 1) * lineHeight - lineHeight * 0.25}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="${size}" font-weight="bold" fill="#FFFFFF">${esc(l)}</text>`
+    )
+    .join('\n  ')}`;
+    })
+    .join('\n');
+
+  const overlay = Buffer.from(`
+<svg width="${W}" height="${H}" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#18011F" stop-opacity="0.72"/>
+      <stop offset="30%"  stop-color="#18011F" stop-opacity="0.86"/>
+      <stop offset="100%" stop-color="#18011F" stop-opacity="0.97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="${W}" height="${H}" fill="url(#shade)"/>
+
+  <text x="65" y="130" font-family="DejaVu Sans, Verdana, sans-serif" font-size="76"
+        font-weight="bold" letter-spacing="12" fill="#FFFFFF">BACKDROP</text>
+  <rect x="65" y="158" width="${W - 130}" height="4" fill="${accent}"/>
+  <text x="65" y="206" font-family="DejaVu Sans, Verdana, sans-serif" font-size="26"
+        letter-spacing="3" fill="#D7E2EA" fill-opacity="0.75">${esc(day.toUpperCase())}</text>
+  <text x="65" y="252" font-family="DejaVu Sans, Verdana, sans-serif" font-size="26"
+        letter-spacing="3" fill="#D7E2EA" fill-opacity="0.45">${articles.length} ${articles.length === 1 ? 'STORY' : 'STORIES'} · SWIPE</text>
+${items}
+
+  <text x="65" y="${H - 62}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="24"
+        letter-spacing="1" fill="#D7E2EA" fill-opacity="0.5">gianlucascattarella.it — link in bio</text>
+</svg>`);
+
+  const out = join(root, 'public/img/blog/digest', `${new Date().toISOString().slice(0, 10)}.jpg`);
+  await mkdir(dirname(out), { recursive: true });
+
+  await writeFile(
+    out,
+    await sharp(background)
+      .composite([{ input: overlay, top: 0, left: 0 }])
+      .jpeg({ quality: 88, mozjpeg: true })
+      .toBuffer()
+  );
+
+  return out;
+}
+
+if (import.meta.url === pathToFileURL(process.argv[1] ?? '').href) {
   const slug = process.argv[2];
   if (!slug) {
     console.error('usage: node scripts/social-card.mjs <slug>');

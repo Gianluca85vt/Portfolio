@@ -1,0 +1,120 @@
+name: Daily Instagram carousel
+
+# One post a day at 19:00 Italian time, carrying everything published since the
+# last one. Instagram used to get a post per article; scripts/social-digest.mjs
+# explains why that changed. Facebook still posts per article from
+# social-post.yml and is untouched by this.
+
+on:
+  # Two slots, because Italy is UTC+2 in summer and UTC+1 in winter and a fixed
+  # UTC cron would drift by an hour at each changeover. The script checks the
+  # actual hour in Europe/Rome and the wrong one exits immediately.
+  schedule:
+    - cron: '0 17 * * *'
+    - cron: '0 18 * * *'
+
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Post now, whatever the hour in Rome'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: social-digest
+  cancel-in-progress: false
+
+jobs:
+  carousel:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: Is it 19:00 in Rome?
+        id: clock
+        env:
+          FORCED: ${{ inputs.force }}
+        run: |
+          set -euo pipefail
+          hour=$(TZ=Europe/Rome date +%H)
+          echo "Rome says ${hour}:00"
+
+          if [ "${FORCED:-false}" = "true" ]; then
+            echo "go=yes" >> "$GITHUB_OUTPUT"
+            echo "manual run, posting regardless"
+          elif [ "$hour" = "19" ]; then
+            echo "go=yes" >> "$GITHUB_OUTPUT"
+          else
+            echo "go=no" >> "$GITHUB_OUTPUT"
+            echo "not the slot, stopping here"
+          fi
+
+      - name: Anything to post?
+        id: pick
+        if: steps.clock.outputs.go == 'yes'
+        run: |
+          set -euo pipefail
+          slugs=$(node scripts/social-digest.mjs --plan)
+          echo "slugs=$slugs" >> "$GITHUB_OUTPUT"
+          echo "in tonight's carousel:${slugs:- nothing}"
+
+      - name: Install sharp
+        if: steps.pick.outputs.slugs != ''
+        run: npm install sharp --no-save
+
+      - name: Draw the cover and any missing card
+        if: steps.pick.outputs.slugs != ''
+        run: node scripts/social-digest.mjs --draw
+
+      - name: Commit the artwork
+        if: steps.pick.outputs.slugs != ''
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add public/img/blog
+          if git diff --cached --quiet; then
+            echo "nothing new to commit"
+          else
+            git commit -m "Draw tonight's carousel"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      # Instagram fetches every slide from a URL rather than accepting uploads,
+      # so the images have to be readable on the public internet before the
+      # containers are created. This pause is for GitHub's CDN to catch up.
+      - name: Let the raw URLs settle
+        if: steps.pick.outputs.slugs != ''
+        run: sleep 25
+
+      - name: Post the carousel
+        if: steps.pick.outputs.slugs != ''
+        env:
+          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+        run: node scripts/social-digest.mjs
+
+      - name: Record what went out
+        if: steps.pick.outputs.slugs != ''
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add notes/social-posted.json
+          if git diff --cached --quiet; then
+            echo "ledger unchanged"
+          else
+            git commit -m "Record tonight's carousel"
+            git pull --rebase --autostash
+            git push
+          fi
