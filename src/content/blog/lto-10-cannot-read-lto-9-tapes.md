@@ -4,7 +4,6 @@ date: 2026-09-02
 category: Tech
 cover: /img/blog/lto-10-cannot-read-lto-9-tapes/shot-01.jpg
 excerpt: For nine generations an LTO drive could read the tapes before it. LTO-10 reads only LTO-10, and the servo format is why. What that means for old archives.
-draft: true
 ---
 
 Somewhere in every studio that has been running more than a few years there is a
