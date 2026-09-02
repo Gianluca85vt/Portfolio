@@ -4,7 +4,6 @@ date: 2026-09-02
 category: Games
 excerpt: The studio behind one of Steam's top sellers put most of its staff on unpaid leave before launch. A senior technical artist said so publicly.
 cover: /img/blog/bit-reactor-zero-company-furlough/shot-01.jpg
-draft: true
 ---
 
 Star Wars Zero Company shipped on 27 August and went straight into Steam's top
