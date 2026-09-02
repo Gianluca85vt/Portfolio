@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#7A2E12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#E9C7B4" letter-spacing="6">BIT REACTOR</text>
+  <text x="80" y="330" font-family="Helvetica, Arial, sans-serif" font-size="210" font-weight="bold" fill="#FFFFFF">80%</text>
+  <text x="80" y="410" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#FFFFFF">of the team furloughed</text>
+  <text x="80" y="470" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#E9C7B4">before Zero Company launched</text>
+</svg>
