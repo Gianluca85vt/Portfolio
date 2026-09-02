@@ -13,7 +13,6 @@ scoreSources:
     score: 8
   - outlet: The Outer Haven
     score: 8
-draft: true
 ---
 
 People have been paying to play NBA 2K27 since 26 August, when early access
