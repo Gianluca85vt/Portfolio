@@ -1,6 +1,46 @@
-# Games — harvested 2026-09-02T09:01:59.133Z
+# Games — harvested 2026-09-02T14:41:54.544Z
 
 ## Eurogamer
+
+### Square Enix denies it's going private following Japanese reports to the contrary
+Wed, 02 Sep 2026 14:05:07 +0000 — https://www.eurogamer.net/square-enix-denies-going-private-report
+
+Square Enix , the Japanese publisher and developer behind Final Fantasy, Kingdom Hearts , Dragon Quest and many other legendary franchises, has had to release a statement to quash claims it's going private. Read more
+
+### World of Warcraft fans so eager to find confirmation of "Classic Plus", they've dug "wow 2" evidence out of Blizzards' backend
+Wed, 02 Sep 2026 13:26:54 +0000 — https://www.eurogamer.net/world-of-warcraft-classic-plus-wow-2-colours-website-css-datamine
+
+World of Warcraft fans are currently obsessing over colours, as dataminers pull hues from Blizzard's website that are labelled under a curious "wow 2" tag. This, some believe, could be an indication of a major reveal at next week's BlizzCon event. Read more
+
+### September's first wave of Xbox Game Pass games revealed, and it brings RuneScape to console for the first time
+Wed, 02 Sep 2026 13:25:42 +0000 — https://www.eurogamer.net/september-2026-xbox-pc-game-pass-list
+
+The first wave of games coming to PC and Xbox Game Pass in September have been revealed, and it's a little barren. Probably the highlight is the arrival of new RuneScape co-op survival game Dragonwilds. Read more
+
+### Tomb Raider: Legacy of Atlantis isn't even out yet, but already it feels like an old relic - in all the wrong ways
+Wed, 02 Sep 2026 13:00:00 +0000 — https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-gamescom-preview
+
+Last year, on a bit of a whim, I ended up playing Tomb Raider 1's superb remaster and Crystal Dynamics' 2007 remake Tomb Raider: Anniversary . Both, it turns out, are enormously enjoyable - and very different - ways to play Lara Croft's trailblazing original platform adventure, which celebrates its 30th anniversary this year. So I can understand why the minds behind Tomb Raider: Legacy of Atlantis might want to do something beyond a slick visual overhaul. But after my latest Gamescom look, I'm not exactly convinced this remake - now due to arrive early next year - is heading the right way. Read more
+
+### Amazon's Sophie Turner-led Tomb Raider series broke UK safety laws during production
+Wed, 02 Sep 2026 12:21:28 +0000 — https://www.eurogamer.net/tomb-raider-amazon-tv-series-broke-uk-safety-laws
+
+The UK's Health and Safety Executive (HSE) has said the production of Tomb Raider, the Amazon MGM-produced TV series, has breached UK safety laws at Shinfield Studios. Read more
+
+### Capcom quietly releases new trailers for Monster Hunter Wilds Ascendance, teasing changes to all 14 weapon types
+Wed, 02 Sep 2026 11:11:44 +0000 — https://www.eurogamer.net/monster-hunter-wilds-ascendance-boost-weapons
+
+We know that we're getting Monster Hunter Wilds ' first expansion, Ascendance, at sometime in 2027. Initially, we were expecting to see more about the game at either Gamescom 2026 , but it seems we'll have to wait until later this month to see more about the expansion during Tokyo Game Show, instead. Read more
+
+### The next StarCraft may not be made by Blizzard, according to a new report
+Wed, 02 Sep 2026 10:55:56 +0000 — https://www.eurogamer.net/starcraft-sequel-nexon-deal-report
+
+Nexon, the giant Korean developer and publisher, is said to be close to inking a deal with Blizzard over the rights to develop a sequel in the StarCraft franchise. Read more
+
+### A behind-closed-doors demo of The Witcher 3: Songs of the Past has been a great reminder: CDPR's writing is some of gaming's very best
+Wed, 02 Sep 2026 09:16:09 +0000 — https://www.eurogamer.net/witcher-3-songs-of-the-past-behind-closed-doors-preview
+
+Last week, as Gamescom 2026 first began to open up to media and business visitors, I double-timed it to CD Projekt Red's booth. I had been promised the very first slot to see a blowout on Songs of the Past , an expansion coming 11 years after the launch of the base game. Rumours about this add-on have been swirling for the better part of a year now (though apparently the idea for Geralt's visit to the ancestral homeland of Dandelion have been percolating for even longer) , and CD Projekt Red has clearly been putting a lot of resources into making sure this new tale lives up to the expectations fans have after completing the base game, Blood & Wine, and Hearts of Stone. Read more
 
 ### No Rest for the Wicked delayed to 2027, promises new beta and founders packs for early buyers to tide people over
 Wed, 02 Sep 2026 08:55:25 +0000 — https://www.eurogamer.net/no-rest-for-the-wicked-delayed-march-2027
@@ -22,47 +62,22 @@ Tue, 01 Sep 2026 18:35:01 +0000 — https://www.eurogamer.net/double-fine-finall
 
 Almost two decades on from its first heavy-metal-infused open-world game, Double Fine pinky promises it'll finally make Brutal Legend 2&hellip; if the developer's new Kickstarter campaign somehow manages to scrape together $100m (about &pound;74m). Read more
 
-### PlayStation argues "reasonable consumers" already know they don't actually own their digital games
-Tue, 01 Sep 2026 17:39:58 +0000 — https://www.eurogamer.net/playstation-reasonable-consumers-know-dont-own-digital-games
-
-As PlayStation's plan to scrap the production of game discs inches closer, Sony's lawyers are arguing that "reasonable consumers" already know that they don't own digital games. Read more
-
-### CD Projekt Red never considered charging for The Witcher 3 remaster, and says expansion Songs of the Past came from a couple of "happy accidents"
-Tue, 01 Sep 2026 15:56:34 +0000 — https://www.eurogamer.net/witcher-3-remaster-songs-of-past-expansion
-
-Polish developer CD Projekt Red apparently never considered charging players for the recently revealed Remastered edition of The Witcher 3 , and it has explained more about how the expansion Songs of the Past came to be, citing a couple of "happy accidents". Read more
-
-### Paradox's Afterworld feels like the first grand strategy game I can properly wrap my head around
-Tue, 01 Sep 2026 14:36:10 +0000 — https://www.eurogamer.net/paradox-afterworld-hands-on-preview-grand-strategy
-
-I've got a bit of a funny relationship with Paradox's grand strategy games. I love the idea of them, of waging and flirting my way across history on the most granular of levels. But despite my enthusiasm, and despite my best efforts, I've never properly cracked one: it doesn't take long before I'm feeling thoroughly overwhelmed and my attention quickly begins to wane. I bring this up, because my relatively brief hands-on time with Paradox's new post-apocalyptic grand strategy game Afterworld suggests - thanks to some smart design decisions - it might finally be the one for me. Read more
-
-### Mortal Shell 2 dramatically improved in almost every way by first major update
-Tue, 01 Sep 2026 14:24:05 +0000 — https://www.eurogamer.net/mortal-shell-2-update-patch-major-changes
-
-On Saturday, Mortal Shell 2 received its biggest update yet, a little over a week after release. Developer Cold Symmetry was seemingly keen to address as many points of criticism as possible because the update touches almost every aspect of the game. The patch is available now on Steam, and soon on PlayStation and Xbox, and it adds new stuff to the game alongside all of the changes. Read more
-
-### CEO of Saudi Arabia's Savvy Games Group Brian Ward steps down after overseeing billions in mobile gaming acquisitions
-Tue, 01 Sep 2026 14:04:45 +0000 — https://www.eurogamer.net/savvy-games-group-ceo-brian-ward-steps-down
-
-Brian Ward, the CEO of the Saudi-Arabian-state-owned Savvy Games Group, has left his role. During his tenure, he oversaw $38bn of investment into various gaming companies, including Pokemon Go developer Niantic, and Monopoly Go's Scopely. Read more
-
-### Life is Strange and Aphelion studio Don't Nod probably facing layoffs again, as it announces ominous-sounding "transformation initiative"
-Tue, 01 Sep 2026 13:51:29 +0000 — https://www.eurogamer.net/dont-nod-layoffs-restructuring-aphelion
-
-French game developer and publisher Don't Nod - creator of the Life is Strange series and games like Remember Me , Vampyr , Banishers , Jusant and most recently Aphelion - seems as though it's about to enter another round of layoffs. Read more
-
-### Laid off id Software developer says crunch on Doom: The Dark Ages' Revelations DLC was "brutal" with up to 17-hour days
-Tue, 01 Sep 2026 13:00:35 +0000 — https://www.eurogamer.net/doom-the-dark-ages-revelations-id-software-crunch
-
-Doom: The Dark Ages - Revelations, an expansion-sized DLC, was released in July, in the same week Microsoft announced its sweeping 3,200 staff layoffs . The layoffs impacted almost the entirety of the Xbox studio portfolio - including Doom maker id Software. Read more
-
-### Microsoft will give you $5 to buy Call of Duty: Modern Warfare 4 on Xbox (or Xbox on PC)
-Tue, 01 Sep 2026 11:36:42 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-pre-order-xbox-5-usd-credit
-
-Microsoft has kicked off a promotion seemingly out of nowhere to push people to pre-order Call of Duty: Modern Warfare 4 on its platforms, rather than those of its competitors. Read more
-
 ## GamesIndustry.biz
+
+### "Sometimes you need fresh perspectives" – How external development helped Tomb Raider: Legacy of Atlantis
+Wed, 02 Sep 2026 13:00:00 +0000 — https://www.gamesindustry.biz/sometimes-you-need-fresh-perspectives-how-external-development-helped-tomb-raider-legacy-of-atlantis
+
+A hands-off demonstration of Tomb Raider: Legacy of Atlantis at Gamescom last week showed that the game is far from a simple remaster of the 1996 original; it's a complete reworking of Lara Croft's first adventure. Read more
+
+### Moon Studios delays No Rest for the Wicked to March 2027 – "We're holding our games to a standard we won't compromise on"
+Wed, 02 Sep 2026 10:44:18 +0000 — https://www.gamesindustry.biz/moon-studios-delays-no-rest-for-the-wicked-to-march-2027-were-holding-our-games-to-a-standard-we-wont-compromise-on
+
+Ori and the Will of the Wisps developer Moon Studios has postponed the full release of its next title, No Rest for the Wicked, to March 2027. Read more
+
+### Over 700 games launched on Steam in one week for the first time, though 74% had fewer than 10 reviews
+Wed, 02 Sep 2026 09:55:59 +0000 — https://www.gamesindustry.biz/over-700-games-launched-on-steam-in-one-week-for-the-first-time-though-74-had-fewer-than-10-reviews
+
+For the first time, more than 700 games were released on Steam in a single week; however, 74% received fewer than 10 reviews. Read more
 
 ### Supercell's acquisition of Metacore expected to close at the end of September 2026
 Wed, 02 Sep 2026 08:37:20 +0000 — https://www.gamesindustry.biz/supercells-acquisition-of-metacore-expected-to-close-at-the-end-of-september-2026
@@ -109,16 +124,41 @@ Tue, 01 Sep 2026 08:47:50 +0000 — https://www.gamesindustry.biz/rovio-closes-c
 
 Rovio has closed its Copenhagen studio after cancelling its mobile title Sonic Blitz. Read more
 
-### Bit Reactor furloughed "many of its workers" in the weeks before Star Wars Zero Company's launch
-Tue, 01 Sep 2026 08:07:34 +0000 — https://www.gamesindustry.biz/bit-reactor-furloughed-many-of-its-workers-in-the-weeks-before-star-wars-zero-companys-launch
-
-Star Wars Zero Company developer Bit Reactor furloughed "many of its workers" prior to the game's release. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### You Might Benefit from a $7.85 Million Payout as PlayStation Settles Anti-Trust Lawsuit
+Wed, 02 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/09/you-might-benefit-from-a-usd7-85-million-payout-as-playstation-settles-anti-trust-lawsuit
+
+Free money? A class-action lawsuit against Sony Interactive Entertainment (PlayStation) has resulted in a potential payout of $7.85 million, which will be passed onto PS5 customers if it goes ahead. The case is about the PS Store being the only way you can purchase digital games for PS5, as Sony shut off the ability to get digital vouchers for PlayStation software at alternative retailers. This forces anybody who wants to buy a game digitally through the PS Store directly. Read the full article on pushsquare.com
+
+### If You Want the Marvel s Wolverine PS5 Platinum Trophy, Get Used to Parrying, Bub
+Wed, 02 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/09/if-you-want-the-marvels-wolverine-ps5-platinum-trophy-get-used-to-parrying-bub
+
+Will you parry me. Developer Insomniac Games has revealed a partial Trophy list for its imminent PS5 exclusive, Marvel's Wolverine . On X, the studio goes through a number of the superhero action game's non-spoiler Trophies, giving you an idea of what will be required if you plan to get that shiny platinum. Read the full article on pushsquare.com
+
+### It s a Miracle: GTA 6 Won t Make You Mash the X Button to Sprint
+Wed, 02 Sep 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/09/its-a-miracle-gta-6-wont-make-you-mash-the-x-button-to-sprint
+
+Now you press L3 to run. Most of the games Rockstar creates are considered masterpieces, but if there are any criticisms, it's not long before the controls are brought up. The most notorious example is the demand to constantly press the X button to sprint. Read the full article on pushsquare.com
+
+### Preview: Stuntman: Hollywood Feels Like a Racer from a Bygone Era, and I Couldn t Be More Excited
+Wed, 02 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/previews/stuntman-hollywood-feels-like-a-racer-from-a-bygone-era-and-i-couldnt-be-more-excited
+
+Guess I'll see you in the movies. I was incredibly excited when I got the invite to play Stuntman: Hollywood at Gamescom this year. Announced at a State of Play a few months back, this revived franchise promises chaotic film-stunt-inspired action across some of the largest franchises in Universal’s catalogue. It feels like a throwback to a bygone era of gaming tie-ins, and I was glad to see that impression was very much alive and drifting across the four levels I got to play. Read the full article on pushsquare.com
+
+### Chadley Has a Strong Role in Final Fantasy 7 Revelation s Story, Despite Being Hated by Everyone
+Wed, 02 Sep 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/09/chadley-has-a-strong-role-in-final-fantasy-7-revelations-story-despite-being-hated-by-everyone
+
+Giga Chadley. I think Final Fantasy 7 Remake and Final Fantasy 7 Rebirth introduce some characters of a very questionable quality, but Chadley's probably the worst of the lot. The annoying robot boy completely outstayed his welcome in Rebirth, where he would constantly offer unneeded guidance as you traversed the game's more open areas. Read the full article on pushsquare.com
+
+### GTA 6 Extended Look Was Comfortably Netflix s Most-Watched Title of Last Week
+Wed, 02 Sep 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/09/gta-6-extended-look-was-comfortably-netflixs-most-watched-title-of-last-week
+
+"My AC!". Rockstar Games made the unusual move to debut an extended look at GTA 6 on Netflix last week. While the video made its way onto YouTube and other sources eventually, the subscription service had dibs for six hours, and it seems that's paid off quite nicely. Netflix's weekly top 10 charts show that the GTA 6 video was its most-watched title globally by some distance; it accrued 31.1 million views between 27th and 30th August. Read the full article on pushsquare.com
 
 ### Colossal, Game-Changing Dragon s Dogma 2 Patch 3.2 Out Now on PS5
 Wed, 02 Sep 2026 00:30:00 GMT — https://www.pushsquare.com/news/2026/09/colossal-game-changing-dragons-dogma-2-patch-3-2-out-now-on-ps5
@@ -149,36 +189,6 @@ Fly high. If you were in doubt that Ace Combat 8: Wings of Theve is being positi
 Tue, 01 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/features/16-ps5-predictions-for-state-of-play-september-2026
 
 2 States, 2 Plays. Out of pretty much nowhere, Sony has announced not one, but two State of Play presentations , going out one after the other later this week. One is your typical State of Play, while the other is focused on games coming from Japan and Asia, and it should make for a very interesting double bill of gaming news. Read the full article on pushsquare.com
-
-### The Witcher 3 Remastered PS5 Pro Support Brings Significant Performance Boosts
-Tue, 01 Sep 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pro-support-brings-significant-performance-boosts
-
-Ray tracing at 60fps is one option. When The Witcher 3: Wild Hunt Remastered was announced, CD Projekt Red confirmed that it would include support for PS5 Pro — but the developer didn't share any immediate details. Fortunately, fans have now sifted through the company's massive Gamescom livestreams, picking out the specifics for all to see. Read the full article on pushsquare.com
-
-### No Rest for the Wicked s Long-Awaited 1.0 and PS5 Release Delayed into 2027
-Tue, 01 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/09/no-rest-for-the-wickeds-long-awaited-1-0-and-ps5-release-delayed-into-2027
-
-Action RPG needs more time. Anticipated action RPG No Rest for the Wicked has cancelled its plans to launch this October. Instead, the full 1.0 release — on PS5 and other platforms — will now drop in March 2027. It's a pretty hefty delay, prompting Moon Studios boss Thomas Mahler to post a video on the matter. Read the full article on pushsquare.com
-
-### AC Black Flag Resynced Update 1.0.7 Available to Download Now
-Tue, 01 Sep 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/09/ac-black-flag-resynced-update-1-0-7-available-to-download-now
-
-Get the patch notes here. Ubisoft has detailed what you can expect from the next Assassin's Creed: Black Flag Resynced update on PS5, which is going live tomorrow, 1st September 2026. It's a 1.53GB download on the PS5 and comes with new visual changes like the ability to hide your pistols, the removal of glints from perk effects, and another new pet you can add to the Hideout. I'll let the patch notes speak to all the bug fixes and minor updates, but this seems to be a small patch for fixes under the hood rather than one packing brand new content. Read the full article on pushsquare.com
-
-### Review: Big Walk (PS5) - An Ingenious Co-Op Experience Unlike Anything Else on PS5
-Tue, 01 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/reviews/ps5/big-walk
-
-Out a big walk with the lads. Over the last few weeks, my friends and I have been taking part in what has been dubbed “ Big Walk Mondays”. Together, we’ve taken to the Australian outback-inspired setting of House House’s latest adventure, and to say it’s been the biggest multiplayer surprise of 2026 is an understatement. Big Walk is strictly a co-op game, playable by as few as two players and up to 12 players, with proximity chat being a huge pillar of the game’s design. With that in mind, I reckon many people will be turned off by Big Walk, especially if you don’t have a dedicated squad to play it with. However, in a really cool feature, the puzzles and island dynamically scale to your group size, so it isn't made with one group size in mind. Read the full article on pushsquare.com
-
-### Reasonable Consumers Know They Don t Own Digital Games, Says Sony
-Tue, 01 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/09/reasonable-consumers-know-they-dont-own-digital-games-says-sony
-
-You're buying a license, not the product. As a number of lawsuits try to take Sony to court over its decision to stop making PlayStation discs from January 2028, the platform holder has responded to one and said "reasonable consumers" understand they're only buying a license to play a game, and that they don't actually own it. This stems from a court appearance in California, where four people took Sony to court over claims the PS Store does not make it clear you're purchasing video game licenses instead of actually owning them yourself. According to them, using terms like "Buy Now" and "Confirm Purchase" implies ownership of a game rather than a license granting access to it. Read the full article on pushsquare.com
-
-### Feature: 50+ PS5, PS4 Games to Buy in PS Store s Gamescom Sale (North America/Europe)
-Tue, 01 Sep 2026 12:15:00 GMT — https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-gamescom-sale-north-americaeurope
-
-Cheap PS5 and PS4 games we recommend. PS Store's latest sale is a Gamescom promotion, running from now until 9th September 2026. Browsing through the thousands of PS5 and PS4 games can take a while, so we've put together a list of games we recommend you check out. Everything listed here comes with at least a 7/10 score from Push Square , and every game is at its lowest price point, with some setting new lows in this sale. Read the full article on pushsquare.com
 
 ## Game Developer
 

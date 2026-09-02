@@ -1,6 +1,51 @@
-# Manga — harvested 2026-09-02T09:01:59.133Z
+# Manga — harvested 2026-09-02T14:41:54.544Z
 
 ## Anime News Network
+
+### Ghost in the Shell ‒ Episode 9
+Wed, 02 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/ghost-in-the-shell/episode-9/.241215
+
+Togusa’s slack-jawed, mouth-agape expression is one of the few humorous aspects of this otherwise far more sombre, serious episode.
+
+### Apprentice Nail Artist in a Foreign Land Anime Reveals Main Staff
+Wed, 02 Sep 2026 10:24:13 -0400 — https://www.animenewsnetwork.com/news/2026-09-02/apprentice-nail-artist-in-a-foreign-land-anime-reveals-main-staff/.241217
+
+<cite>The Klutzy Class Monitor and the Girl with the Short Skirt's</cite> Daiji Iwanaga directs anime at Zero-G
+
+### Exclusive: Fantagraphics Previews Akane Torikai's Wandering Cat's Cage Manga
+Wed, 02 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-02/exclusive-fantagraphics-previews-akane-torikai-wandering-cat-cage-manga/.241129
+
+English version of manga is slated for fall 2026 release
+
+### The World Is Dancing ‒ Episode 10
+Wed, 02 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/the-world-is-dancing/episode-10/.241213
+
+I feel like <i>The World Is Dancing</i> promised a more visceral and artistically dynamic experience in those early episodes that has been sorely missing as of late.
+
+### Bringing Magical Girls into a Dark World: Magical Girl Raising Project's Character Designer, Series Writer
+Wed, 02 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-09-02/10-years-in-the-making-returning-to-magical-girl-raising-project-with-director-hiroyuki-hashimoto/.240247
+
+This October, the dark world of Magical Girl Raising Project returns with the series' new lead character designer, Masako Itō, who has designed more than her fair share of cute girls.
+
+### Iron Wok Jan! ‒ Episode 9
+Wed, 02 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-9/.241211
+
+That makes the stinger at the end of the episode where Kiriko re-emerges from the darkness beyond the spotlight all the more impactful despite technically being there the entire time.
+
+### Red River ‒ Episode 9
+Wed, 02 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-9/.241205
+
+Being in peril from Kail’s sexual predations is one thing, but she won’t be able to just make the Prince of Darkness stop.
+
+### From Far Away TV Anime's New Video Reveals More Cast & Staff, Theme Songs
+Wed, 02 Sep 2026 05:41:10 -0400 — https://www.animenewsnetwork.com/news/2026-09-02/from-far-away-tv-anime-new-video-reveals-more-cast-and-staff-theme-songs/.241233
+
+Kimiko Saitō, Tadashi Miyazawa, Taisuke Nakano, Miku Itō join cast of October 4 series
+
+### Saint Seiya Creator Masami Kurumada Sues Former Manager, Others for 2.8 Billion Yen
+Wed, 02 Sep 2026 05:08:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-02/saint-seiya-creator-masami-kurumada-sues-former-manager-others-for-2.8-billion-yen/.241225
+
+Defendants allegedly misappropriated total of 4.6 billion yen in 2018-2024
 
 ### Director, Animator Yūji Yanase Dies
 Wed, 02 Sep 2026 00:00:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-02/director-animator-yuji-yanase-dies/.241216
@@ -16,51 +61,6 @@ And be stylish while taking photos with the forthcoming line of Pokémon Crocs
 Tue, 01 Sep 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-01/one-piece-spongebob-squarepants-fuse-in-new-mcdonald-happy-meal-commercial/.241181
 
 SpongeBob SquarePants gears up for upcoming Happy Meal set on September 15
-
-### 'With You, Our Love Will Make it Through' Manga Ends in 13th Volume
-Tue, 01 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-01/with-you-our-love-will-make-it-through-manga-ends-in-13th-volume/.241174
-
-Series debuted in May 2019
-
-### Toshiko Machida's Hanako-gari Manga Ends
-Tue, 01 Sep 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-01/toshiko-machida-hanako-gari-manga-ends/.241172
-
-Series debuted in September 2025
-
-### bilibili App Relaunches Globally Without ID Verification
-Tue, 01 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-01/bilibili-app-relaunches-globally-without-id-verification/.240729
-
-Android version out now, with iOS version coming soon
-
-### Busan Film Festival to Host Japanese Animation Special Program, Screening 13 Films
-Tue, 01 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-01/busan-film-festival-to-host-japanese-animation-special-program-screening-13-films/.241157
-
-<cite>The White Snake Enchantress, Belladonna of Sadness, Phoenix 2772, Angel's Egg, Memories, Metropolis</cite>, more
-
-### One Room Angel Artist Harada Launches First Seinen Manga
-Tue, 01 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-01/one-room-angel-artist-harada-launches-first-seinen-manga/.241168
-
-<cite>Akuen</cite> debuts on September 9
-
-### 'Optimus Prime: Awakening' Animated Short Announces Cast, Staff, More Screening Regions
-Tue, 01 Sep 2026 15:15:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-01/optimus-prime-awakening-animated-short-announces-cast-staff-more-screening-regions/.241202
-
-Late Peter Cullen stars as Optimus Prime in his final performance
-
-### All-Male Precure Stage Play Returns With Colorful Runway! Production in December
-Tue, 01 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-01/all-male-precure-stage-play-returns-with-colorful-runway-production-in-december/.241197
-
-New fashion-focused play runs in Tokyo from December 5-13, Osaka from December 26-27
-
-### Live-Action Street Fighter Film Unveils New Trailer
-Tue, 01 Sep 2026 12:44:13 -0400 — https://www.animenewsnetwork.com/news/2026-09-01/live-action-street-fighter-film-unveils-new-trailer/.241198
-
-Film opens on October 16
-
-### Firefly Wedding Volumes 5-7 Manga Review
-Tue, 01 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/firefly-wedding-volumes-5-7-manga/.240721
-
-<i>Firefly Wedding</i> isn't billed as a series about the dangers of being a woman in the past, but it's impossible to read it without thinking about what it's revealing.
 
 ## Crunchyroll News
 

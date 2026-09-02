@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-02T09:01:59.133Z
+# AI — harvested 2026-09-02T14:41:54.544Z
 
 ## OpenAI
 
@@ -23,6 +23,9 @@ Tue, 01 Sep 2026 01:00:00 GMT — https://openai.com/index/gilbert-tobin
 See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.
 
 ## Hugging Face
+
+### Real-Time Intelligence with IBM Time Series Models on Confluent
+Wed, 02 Sep 2026 13:49:14 GMT — https://huggingface.co/blog/ibm-research/real-time-intelligence
 
 ### BenchMIRT: What are LLM benchmarks actually measuring?
 Tue, 01 Sep 2026 21:39:07 GMT — https://huggingface.co/blog/allenai/benchmirt

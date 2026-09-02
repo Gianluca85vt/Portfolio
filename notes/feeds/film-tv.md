@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-09-02T09:01:59.133Z
+# Film & TV — harvested 2026-09-02T14:41:54.544Z
 
 ## Variety
 
-### The Life of Gerda Taro, the First Female Photojournalist to Be Killed on the Battlefield, Captured in Venice s The Girl With the Leica
-Wed, 02 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/global/gerda-taro-photojournalist-the-girl-with-the-leica-1236847297/
+### Danny Boyle Celebrated at Variety s Venice Pre-Opening Party as Ink Star Jack O Connell Praises His Ability to Take Us Inside a World
+Wed, 02 Sep 2026 14:31:23 +0000 — https://variety.com/2026/film/festivals/danny-boyle-variety-venice-pre-opening-party-1236849169/
 
-Gerda Taro was only 26 when she became the first female photojournalist to be killed on the battlefield. It would be decades before her true contribution to the artform was acknowledged. Alina Marazzi’s “The Girl With the Leica,” which opens Venice’s Horizons section, seeks to redress this oversight, and pays tribute to Taro’s vivacious personality. [ ]
+Danny Boyle was celebrated with Variety s Creative Impact in Directing Award on Monday during a Venice Film Festival pre-opening night party at the poolside terrace of the Hotel Excelsior. The Oscar-winning British filmmaker is set to open the festival on Wednesday night with Ink, a juicy exposé of how British tabloid The Sun propelled Rupert [ ]
 
-### Kung Fu Soccer Tops as China s Summer Box Office Hits $1.86 Billion
-Wed, 02 Sep 2026 08:58:17 +0000 — https://variety.com/2026/film/box-office/kung-fu-soccer-china-summer-box-office-1236849100/
+### ‘My Notes on Mars’ Review: Mackenzie Davis and Rupert Friend Star in an Imperfect Breakdown of Marriage and Memory
+Wed, 02 Sep 2026 14:30:00 +0000 — https://variety.com/2026/film/news/my-notes-on-mars-review-1236846812/
 
-Kung Fu Soccer, directed by Stephen Chow, topped China s 2026 summer box office with RMB2.315 billion ($344.4 million), as the overall summer season reached RMB12.498 billion ($1.86 billion), up 4.45% year-on-year and marking a second straight year of growth, according to a new report from Maoyan Research Institute, the research arm of Maoyan Entertainment. The [ ]
+A relationship drama verging on sci-fi, Lili Horvát’s “My Notes On Mars” begins with an intriguing premise that eventually loses steam. It follows the disappearance of an American astrophysicist in the Hungarian mountains who mysteriously returns to her husband on the day of her own memorial. With no memory of who she is or where [ ]
 
-### Trisha Krishnan Toplines Panorama Studios First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)
-Wed, 02 Sep 2026 08:15:00 +0000 — https://variety.com/2026/film/news/trisha-krishnan-panorama-studios-tamil-film-1236849069/
+### Robert Pattinson Says The Batman 2 Action Scenes Are Significantly Harder and I m Feeling My Age When Fighting a Lot
+Wed, 02 Sep 2026 14:23:02 +0000 — https://variety.com/2026/film/news/robert-pattinson-batman-2-action-scenes-harder-1236849259/
 
-Indian star Trisha Krishnan is leading Panorama Studios first Tamil-language production, a psychological horror directed by Raja Krishna Menon. Radhika Sarathkumar and Aparna Balamurali co-star in the yet-to-be-titled film, which has begun principal photography in London. The film is presented by Panorama Studios in association with Locomotive Global and credited as a Fusion Flicks and [ ]
+Robert Pattinson turned 40 years old ahead of filming The Batman: Part II, and he s definitely feeling his age on set. Production on the long-awaited superhero sequel kicked off in June in London with Pattinson back as the Dark Knight opposite new cast members Scarlett Johansson and Sebastian Stan, whose roles remain a closely guarded [ ]
 
-### Julianne Moore to Receive Zurich s Golden Icon Award as Jesse Eisenberg s The Debut Screens
-Wed, 02 Sep 2026 06:41:39 +0000 — https://variety.com/2026/film/global/julianne-moore-zurich-jesse-eisenberg-the-debut-1236849061/
+### ‘The Girl With The Leica’ Review: An Impressionistic Portrait of Gerda Taro, the Woman Who Shared the Artistic Identity of Robert Capa
+Wed, 02 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/reviews/the-girl-with-the-leica-review-1236848286/
 
-The 22nd Zurich Film Festival will honor Julianne Moore with the Golden Icon Award for her “extraordinary career” and her performance in her new film, “The Debut.” She will be accompanied in Zurich by “The Debut” director Jesse Eisenberg. The film marks Moore s second collaboration with Eisenberg as a director following his directorial debut “When [ ]
+For many people, the name Robert Capa evokes a mysterious, jet-setting American photographer responsible for some of the mid-20th century’s most iconic images from the frontlines of war. In the fascinating “The Girl With The Leica,” Italian director Alina Marazzi puts paid to that myth. The time-jumping film reclaims the legacy of German-born photojournalist Gerda Taro (née Gerta Pohorylle) [ ]
 
-### Martin Scorsese Mentee Celina Murga Preps Next Pic, ‘The Rehearsals’
-Wed, 02 Sep 2026 06:02:39 +0000 — https://variety.com/2026/film/global/martin-scorsese-celina-murga-next-pic-the-rehearsals-1236848696/
+### Fall 2: Deadpoint Review: A Mostly Successful Sequel to the Dizzy Word-of-Mouth Sensation
+Wed, 02 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/reviews/fall-2-deadpoint-review-1236848979/
 
-Among the 15 projects participating in the upcoming San Sebastián Europe-Latin America Co-Production Forum is “The Rehearsals” (“Los Ensayos”) by Argentina’s Celina Murga, best known for her Martin Scorsese-executive produced dramas ‘The Freshly Cut Grass’ and ‘The Third Side of the River’ and of course, her career-launching 2003 debut, “Ana and the Others.” Based on [ ]
+A sequel should be similar to the film that preceded it, but not the same. That’s the conventional wisdom that, for better or worse, not all filmmakers observe when picking up the mantle of a series or franchise. But when they’re working from a high-concept premise, it’s a challenge especially fraught with risk. And following [ ]
 
-### ‘The Runner’ Review: Gal Gadot Is a Mother on a Rescue Mission in an Energetic but Uninspired Amazon Thriller
-Wed, 02 Sep 2026 04:00:00 +0000 — https://variety.com/2026/film/reviews/the-runner-review-gal-gadot-1236847013/
+### Wrongful Terrorism Case of Sri Lankan Student Set as Feature Doc Framed by Australia s Anupam Sharma, First-Look Poster Unveiled Ahead of Toronto Market (EXCLUSIVE)
+Wed, 02 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/news/wrongful-terrorism-case-sri-lankan-student-doc-framed-first-look-poster-1236849059/
 
-A frantic journey across London on foot provides a lot of exercise for Gal Gadot, but not much reward for viewers, in “The Runner.” Hardly the first thriller centering on an exceptionally action-ready parent surmounting various obstacles to rescue an imperiled child from some diabolical abductor, and surely not the last, this Prime Original has [ ]
+The wrongful terrorism case of a Sri Lankan student in Sydney has been set as a feature documentary by Australian filmmaker Anupam Sharma, with the first-look poster for Framed unveiled ahead of the Toronto Film Festival s inaugural market. Framed follows the case of Kamer Nizamdeen, a 25-year-old overseas student who was arrested and held in [ ]
 
-### Hyun Bin and Woo Do-hwan Turn Against Each Other in Hulu and Disney+ s Made in Korea Season 2
-Wed, 02 Sep 2026 04:00:00 +0000 — https://variety.com/2026/tv/news/hyun-bin-woo-do-hwan-made-in-korea-season-2-1236848100/
+### Jordan Firstman, Matteo Lane Lead U.S. Voice Cast of Cannes Breakout Comedy Jim Queen’ (EXCLUSIVE)
+Wed, 02 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/global/jordan-firstman-matteo-lane-jim-queen-1236849136/
 
-At a some KRW70 billion ($51 million) across two seasons, Made in Korea ranks among the most expensive K-dramas ever made. Season 2 premieres six episodes on Hulu and Disney+ Sept. 9, closing the story in 1979, the year Korean politics came apart in 10 weeks. Season 1 left viewers in the 1970s, inside the [ ]
+Jordan Firstman, fresh off Cannes buzz for his feature directorial debut Club Kid, leads the English-language voice cast of Jim Queen, alongside comedian, actor and singer Matteo Lane ( Chicago ). The pair voice Jim and Lucien in the Cannes breakout gay animated comedy from filmmakers Marco Nguyen and Nicolas Athané. Global Constellation will introduce this English-language [ ]
 
-### Danny and Nia Booko Leaving The Valley for Season 4 After Being the Focus of Controversy: ‘Our Priority Is Protecting Our Peace’
-Wed, 02 Sep 2026 03:26:27 +0000 — https://variety.com/2026/tv/news/danny-booko-nia-sanchez-leave-the-valley-bravo-1236848977/
+### Blackpink and White Lotus Star Lisa Documentary Always Lalisa Sets Global Release
+Wed, 02 Sep 2026 13:39:40 +0000 — https://variety.com/2026/music/news/blackpink-white-lotus-lisa-doc-always-lalisa-release-1236849246/
 
-Danny Booko and Nia Sanchez Booko are leaving “The Valley” after three seasons with the Bravo reality show. “We wanted to share a quick update that we will not be returning to The Valley, ” the couple wrote in a joint statement posted to Instagram. “We’re incredibly grateful for this experience, but our priority is protecting [ ]
+Always Lalisa, a feature documentary following Blackpink member Lisa, will open in Imax and cinemas worldwide for a limited engagement beginning Oct. 12, Sony Music Vision has revealed. Directed by Sue Kim, the film tracks a pivotal year in Lisa s life as she steps away from Blackpink for the first time since childhood, pursuing a [ ]
 
-### Victor Miller, Friday the 13th Screenwriter, Dies at 86
-Wed, 02 Sep 2026 02:34:10 +0000 — https://variety.com/2026/film/news/victor-miller-dead-friday-the-13th-screenwriter-1236848883/
+### New Regency Takes International Rights to Ferran Adrià Series ‘Genesis’ (EXCLUSIVE)
+Wed, 02 Sep 2026 13:39:32 +0000 — https://variety.com/2026/tv/markets-festivals/new-regency-genesis-ferran-adria-genesis-3cat-1236845356/
 
-Victor Miller, the screenwriter behind the horror classic “Friday the 13th,” died on Monday in Alameda, Calif. He was 86. Miller’s death was confirmed to Variety by his son, Ian. Released in 1980, “Friday the 13th” is widely considered a seminal installment in the horror canon. It widely popularized the summer camp setting and themes [ ]
+New Regency has taken international distribution rights outside Spain to “Genesis” (“Gènesi”), the six-part 3Cat drama about Ferran Adrià, the chef behind the groundbreaking El Bulli. The series will screen its first two episodes as part of the San Sebastián Film Festival’s Other Activities on Sept. 21, the same day it launches on Catalan broadcaster [ ]
 
-### David Byrne Returns to Oscar Race With Original Song for Elon Musk Documentary ‘Musk’ (EXCLUSIVE)
-Wed, 02 Sep 2026 00:24:15 +0000 — https://variety.com/2026/film/awards/david-byrne-musk-documentary-oscar-song-1236848717/
+### Travis Kelce Breaks Down Wedding to Taylor Swift and Says Adam Sandler Officiating Was Absolutely Insane : He’s the F ing Best Person on This Planet
+Wed, 02 Sep 2026 13:30:53 +0000 — https://variety.com/2026/music/news/travis-kelce-taylor-swift-wedding-adam-sandler-officiating-1236849216/
 
-David Byrne wrote a song about the world’s richest man. The Talking Heads frontman wrote and performed an original song for “Musk,” Alex Gibney s sprawling documentary reckoning with Elon Musk, Variety can exclusively reveal. Titled “Let Me Sell You a Dream,” the track plays within the 235-minute film and arrives as an Oscar-qualifying entry in [ ]
+Travis Kelce has opened up more than ever about his wedding to Taylor Swift, a private party that had the whole world swooning and which took place at New York City’s Madison Square Garden in July. The pro athlete took to the Sept. 2 episode of his podcast “New Heights,” which happened to be the [ ]
 
 ## The Hollywood Reporter
 
-### Onwards and Sideways Trailer: Laura Linney and Rhys Ifans Are a Duo Diagnosed With Parkinson s
-Wed, 02 Sep 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/onwards-and-sideways-film-trailer-laura-linney-rhys-ifans-1236686925/
+### My Notes on Mars Review: Mackenzie Davis and Rupert Friend Play a Trauma-Shaken Couple in Clever Sci-Fi Puzzler
+Wed, 02 Sep 2026 14:35:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/my-notes-on-mars-mackenzie-davis-rupert-friend-lili-horvat-1236687265/
 
-The Toronto-bowing movie, directed by John Madden based on a Paul Mayhew-Archer script, also features Monica Dolan and Rory Kinnear.
+Written and directed by Hungarian Lili Horvat, the Venice premiere taps into current anxieties about what is human and what is love.
 
-### The Indies Goes on a Journey With 3 Men Taking a Painting Across a Europe Ravaged by Conflicts (Exclusive Venice Trailer)
-Wed, 02 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-indies-film-trailer-venice-2026-painting-europe-wars-1236686787/
+### The Joke’s On Us. Literally
+Wed, 02 Sep 2026 14:30:00 +0000 — https://www.hollywoodreporter.com/news/general-news/harvard-lampoon-parody-thr-1236686808/
 
-The period road movie, the debut fiction feature from Pauline Julier and Nicolas Chapoulier, premieres in the Venice Days program, using a historical lens to examine the origins of the world we inhabit today.
+The Hollywood Reporter joins the illustrious tradition of being spoofed by The Harvard Lampoon.
 
-### Venice First Look: Toni Servillo Meets His Match in Mario Martone s Scherzetto
-Wed, 02 Sep 2026 06:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toni-servillo-mario-martone-venice-scherzetto-1236686536/
+### The Buzziest New Show on Netflix? A Video Game Trailer
+Wed, 02 Sep 2026 14:15:59 +0000 — https://www.hollywoodreporter.com/business/digital/netflix-gta-streaming-1236688087/
 
-The Italian screen legend plays a solitary illustrator thrown into battle with his unruly five-year-old grandson in the feature adaptation of Domenico Starnone’s novel.
+Forget prestige TV. Why 'Grand Theft Auto' trailers and AI Andy Cohens may be the future of streaming entertainment.
 
-### Julianne Moore to Receive Zurich Film Festival s Golden Icon Award
-Wed, 02 Sep 2026 04:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/julianne-moore-zurich-film-festival-golden-icon-award-1236686585/
+### Emily Alyn Lind Is a Proud F***ing Know-It-All
+Wed, 02 Sep 2026 14:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/emily-alyn-lind-company-venice-gossip-girl-interview-1236683984/
 
-The U.S. actress will be joined by Jesse Eisenberg, who directs her in his latest film 'The Debut,' at a ceremony in Zurich, Switzerland.
+From a Gaspar Noé set at age 7 to her long-overdue Venice debut in Casey Affleck's 'Company,' the actress weighs in on growing up in showbiz and refusing to have it all together in her 20s.
 
-### Bill Simmons Says I Learned My Lesson After Admitting to Proxy Betting on Fanduel in Podcast Interview
-Wed, 02 Sep 2026 03:11:56 +0000 — https://www.hollywoodreporter.com/business/digital/bill-simmons-apoligizes-proxy-betting-fanduel-podcast-1236687308/
+### Runner Review: Alan Ritchson and Owen Wilson in an Impressively Visceral Buddy Thriller That Leaves Behind a Bad Taste
+Wed, 02 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/runner-review-alan-ritchson-owen-wilson-1236680903/
 
-Fanduel says it reported the bets to Massachusetts gaming authorities, with Simmons telling his podcast listeners Tuesday that he made a mistake.
+A courier with very special skills battles cartel members to deliver a desperately needed human organ in Scott Waugh's film.
 
-### Kenan Thompson Reveals Which Movie Role Almost Made Him Quit Acting
-Wed, 02 Sep 2026 02:34:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/kenan-thompson-almost-quit-acting-ice-skating-hockey-movie-1236687621/
+### Why Casey Affleck Cast His Family in His Gothic New Film ‘Company’ (First Look)
+Wed, 02 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/casey-affleck-company-venice-first-look-1236687326/
 
-The 'Saturday Night Live' star said the difficulty of learning how to ice skate for the hockey film made him rethink his career path when he was younger.
+The Oscar winner’s sons, parents and girlfriend appear in the Venice-bound drama, which was made for very little money and with a rotating crew: “I suddenly felt an enormous amount of pressure,” he says.
 
-### Danny Booko and Nia Sanchez Announce Exit From The Valley : Our Priority Is Protecting Our Peace
-Wed, 02 Sep 2026 02:29:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/danny-booko-nia-sanchez-exit-the-valley-1236687634/
+### Rupert Murdoch Was Very Happy With the Casting of Danny Boyle s Ink
+Wed, 02 Sep 2026 13:08:19 +0000 — https://www.hollywoodreporter.com/movies/movie-news/venice-danny-boyle-ink-press-guy-pearce-jack-o-connell-1236687936/
 
-The couple appeared on three seasons of the Bravo series.
+The director’s new film, about Rupert Murdoch's takeover of British tabloid ‘The Sun,’ stars Guy Pearce, Jack O'Connell and Claire Foy.
 
-### On the Heels of Apple TV s Price Hike, See the Best Subscription Deals and Free Trial Tips
-Wed, 02 Sep 2026 02:14:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/best-apple-tv-plus-deals-free-trial-1235585795/
+### Travis Kelce Details Insane Wedding to Taylor Swift: Biggest Night of Our Lives
+Wed, 02 Sep 2026 13:01:30 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/travis-kelce-wedding-taylor-swift-podcast-new-heights-1236688034/
 
-The Apple-owned platform is the latest service hit by streaming inflation.
+The Kansas City Chiefs player — now Mr. Swift, following that starry wedding at Madison Square Garden in July — has spoken for the first time in depth about the event: "It was just so magical, man."
 
-### Carole Radziwill Addresses Her Name Being in Epstein Files: It s Important to Talk About It
-Wed, 02 Sep 2026 01:20:19 +0000 — https://www.hollywoodreporter.com/tv/tv-news/carole-radziwill-epstein-files-ghislaine-maxwell-rhony-1236687333/
+### Elon Musk Unmasked in Alex Gibney Documentary: “Insane a Person This Chaotic Has So Much Power”
+Wed, 02 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/elon-musk-alex-gibney-documentary-1236686790/
 
-The topic will be discussed further on season 16 of 'The Real Housewives of New York City,' which Radziwill is starring in.
+He is the richest man on earth. An explosive new film from the Oscar-winning director suggests he may also be the most dangerous.
 
-### D4vd Murder Case: Victim s Family Demands Justice as Indigent Claim Draws Scrutiny
-Wed, 02 Sep 2026 00:52:29 +0000 — https://www.hollywoodreporter.com/news/general-news/d4vd-murder-case-victims-family-demands-justice-indigent-claim-1236687558/
+### George Clooney Tells Venice Studios Are Making Movies That Need a Launchpad of a Film Festival Less and Less
+Wed, 02 Sep 2026 12:35:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/george-clooney-venice-studios-film-festival-directing-1236687967/
 
-A claim of financial hardship from the singer who signed to Interscope for a reported $11 million is under fire as his murder case moves toward trial.
+The famed U.S. star also revealed why he won't be directing another film anytime soon (hint: he has nine-year-old twins!) and lamented how "most of the [world's] powers have decided climate change is a hoax."
 
 ## Deadline
 
-### Maureen Lipman Tells Cowardly Co-Star To Grow Up After He Quit Play Over Her Pro-Israel Views
-Wed, 02 Sep 2026 09:00:49 +0000 — https://deadline.com/2026/09/maureen-lipman-gerard-mccarthy-grow-up-israel-views-1237065152/
+### ‘The Fastest Man In The World’: Biopic Of Four-Time Paralympic Gold Medalist Tony Volpentest In The Works
+Wed, 02 Sep 2026 14:02:42 +0000 — https://deadline.com/2026/09/the-fastest-man-in-the-world-biopic-tony-volpentest-1237065383/
 
-Maureen Lipman, the BAFTA-nominated actress known for her work in The Pianist, has hit out at co-star Gerard McCarthy after he quit their Soho Theatre play over her pro-Israel stance. Lipman and McCarthy were due to share a stage in Stan Zimmerman s Right Before I Go on September 5, but McCarthy walked away from the [ ]
+EXCLUSIVE: A biopic about the life of four-time Paralympic gold medalist Tony Volpentest, titled The Fastest Man In The World, is in the works, with Kelli McNeil-Yellen signed on to write the screenplay and Alexander Yellen to direct. Production on the film is slated to begin in April 2027 in Kansas City, Missouri. Based on [ ]
 
-### Ukrainian Drama ‘Camouflage’ Set Sales With MMM Films Drops First Clip Venice
-Wed, 02 Sep 2026 08:39:26 +0000 — https://deadline.com/2026/09/mmm-films-sales-clip-venice-ukraine-camouflage-1237065141/
+### Miss World Grand Finale To Stream Free On Fawesome
+Wed, 02 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/miss-world-grand-finale-fawesome-1237065257/
 
-EXCLUSIVE: Paris-based MMM Films has acquired international sales rights for Ukrainian director Mykyta Gibalenko’s drama Camouflage and released a first clip for the film ahead of its world premiere in Venice parallel section Giornate degli Autori. Arthur Aliiev, who was in Venice in 2023 with Forever Forever, stars as 22-year-old Vitaly who leaves his native [ ]
+EXCLUSIVE: Miss USA may have broken up with The CW, but rival competition Miss World has found a new home. The grand finale of Miss World 2026 will stream free this Saturday (September 5) on streamer Fawesome at 6 a.m. PT/9 a.m. ET. The event is being held in Nha Trang, Vietnam, where the show [ ]
 
-### Gunsmoke Mirrors , Drama Series About Danish Criminal Turned American Frontier Hero Chris Madsen, In The Works
-Wed, 02 Sep 2026 08:04:34 +0000 — https://deadline.com/2026/09/chris-madsen-drama-series-development-1237065119/
+### Danny Boyle Voices Fears For Journalism Speaking Truth To Power In Age Of AI As Ink Debuts In Venice
+Wed, 02 Sep 2026 13:35:51 +0000 — https://deadline.com/2026/09/danny-boyle-journalism-truth-power-ai-venice-1237065313/
 
-EXCLUSIVE: Denmark s Lunderskov Magic, the UK s CMG Productions and producers Nicole Finnan and Allan Sperling have teamed on a scripted series about a Danish criminal who became a war hero and American frontier legend. The show, Gunsmoke Mirrors, is set in the late 19th Century and chronicles the transformation of Christian Rørmose Madsen, who [ ]
+UK director Danny Boyle raised his concerns over the future of journalism in the age of AI as he touched down at the Venice Film Festival with opening film Ink on Wednesday. Adapted from the 2017 stage play by James Graham, the feature follows the rise of the UK s notorious tabloid newspaper The Sun in [ ]
 
-### Julianne Moore To Receive Zurich’s Golden Icon Award
-Wed, 02 Sep 2026 07:56:00 +0000 — https://deadline.com/2026/09/julianne-moore-zurichs-film-festival-golden-icon-award-1237065134/
+### ‘Ink’ Trailer: Danny Boyle Charts The Rise Of A British Tabloid In Venice Film Festival Opener
+Wed, 02 Sep 2026 13:32:52 +0000 — https://deadline.com/2026/09/ink-trailer-danny-boyle-venice-film-festival-1237065165/
 
-The Zurich Film Festival will fete Julianne Moore with its Golden Icon Award. She will accept the award in person in Zurich, accompanied by Jesse Eisenberg, who directed the Academy Award winner in The Debut. The Debut marks Moore s second collaboration with director Jesse Eisenberg, following Eisenberg s directorial debut, When You Finish Saving the World [ ]
+Here’s the first trailer for Danny Boyle’s Ink, which opens the 83rd Venice Film Festival this evening. Boyle directs the feature from a screenplay written by James Graham (Dear England), based on his Tony-nominated play Ink. O’Connell stars as The Sun newspaper editor Larry Lamb, with Pearce as Rupert Murdoch. Claire Foy is Jules Davies. [ ]
 
-### Clíodhna O Sullivan’s Romantasy Novel Her Hidden Fire Getting YA Series Adaptation With Great Island Attached
-Wed, 02 Sep 2026 07:47:22 +0000 — https://deadline.com/2026/09/her-hidden-fire-romantasy-series-adaptation-1237065127/
+### Broadway s Galileo Adds Cast: Javier Muñoz, Bradley Dean Join Raúl Esparza; Stranger Things Actor Michael Park To Alternate Lead
+Wed, 02 Sep 2026 13:28:49 +0000 — https://deadline.com/2026/09/broadway-galileo-javier-munoz-michael-park-cast-1237065345/
 
-EXCLUSIVE: Irish production company Great Island has optioned Clíodhna O’Sullivan’s bestselling romantasy novel Her Hidden Fire for a young adult series adaptation. The eight-part series will follow Éadha, a servant who has learned to survive by remaining unseen in a stratified world where magic is fuelled by enslaved Fodder. Éadha hides her own power that she generates from within, but when [ ]
+Broadway s upcoming Galileo musical starring Raúl Esparza also will feature Bradley Dean (Chess), Jordon Lee Garcia (Broadway debut) and Javier Muñoz (Hamilton, In the Heights), producers announced today. Also joining the cast is Michael Park (Stranger Things, As the World Turns), who will alternate with Esparza in the title role at certain performances. The new [ ]
 
-### Entourage Creator Doug Ellin Denies Debi Mazar s Disgusting Claim About Being Fat-Shamed On HBO Series After Giving Birth
-Wed, 02 Sep 2026 07:21:00 +0000 — https://deadline.com/2026/09/entourage-doug-ellin-debi-mazar-fat-shamed-1237065117/
+### David Oyelowo Nate Parker s Mansa Studios Debuts Slate Of TikTok Microdramas
+Wed, 02 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/david-oyelowo-nate-parker-tiktok-microdramas-mansa-studios-1237065179/
 
-Doug Ellin, the creator and writer of Entourage, has said that he does not recognize Debi Mazar s claim about being fat-shamed on the HBO series toxic set. In an interview with The Times of London, Mazar alleged that Entourage producers did not approve of her body after she gave birth to her second child in [ ]
+EXCLUSIVE: David Oyelowo and Nate Parker s Mansa Studios is turning to TikTok for its latest slate of microdramas. The company is launching three vertical shows direct via the TikTok Minis platform. These are My Twin Sister Stole My Man, a relationship-driven drama about betrayal, identity and the complicated ties that bind family together; I Married [ ]
 
-### Victor Miller Dies: Friday The 13th Screenwriter Was 86
-Wed, 02 Sep 2026 03:40:17 +0000 — https://deadline.com/2026/09/victor-miller-dead-friday-the-13th-screenwriter-1237065085/
+### ‘East Of Eden’ Trailer: Evil Lurks “Cloaked In Goodness” In Zoe Kazan’s Limited Series Take On John Steinbeck’s Novel
+Wed, 02 Sep 2026 12:30:00 +0000 — https://deadline.com/2026/09/east-of-eden-trailer-netflix-florence-pugh-mike-faist-1237064845/
 
-Victor Miller, the screenwriter behind Friday the 13th, has died. He was 86. Miller s son Ian confirmed his father had died on Monday, August 30, but didn t reveal the cause of death. Yesterday my father, Victor Miller, went to his final reward, read the Instagram post in honor of the screenwriter. He was almost always [ ]
+The full trailer for Netflix’s East of Eden limited series adaptation has arrived. Zoe Kazan’s take on John Steinbeck’s classic 1952 novel will premiere on Netflix October 1. “I believe there are monsters born in this world to human parents. A monster is a variation from the accepted normal,” Florence Pugh’s Cathy Ames says in the beginning [ ]
 
-### Danny Booko Nia Sanchez Exit The Valley After 3 Seasons
-Wed, 02 Sep 2026 01:41:46 +0000 — https://deadline.com/2026/09/danny-booko-nia-sanchez-exit-the-valley-bravo-1237064737/
+### Hot Docs Promotes Diana Sanchez, Hires Mara Gourd-Mercado As Festival Seeks To “Future-Proof” Itself
+Wed, 02 Sep 2026 12:00:00 +0000 — https://deadline.com/2026/09/hot-docs-promotes-diana-sanchez-hires-mara-gourd-mercado-1237064962/
 
-No more commutes to Santa Clarita for the cast of The Valley, as Danny Booko and Nia Sanchez are leaving the Bravo reality series after three seasons. News of Sanchez and Booko s departure comes as Season 4 ramps up production. The couple had been part of the ensemble cast since it premiered in 2024. We [ ]
+Hot Docs, the world-class documentary film festival in Toronto, has announced some major personnel moves – elevating Diana Sanchez to president and bringing in Mara Gourd-Mercado to succeed Sanchez as executive director. Gourd-Mercado, currently head of industry at CPH:DOX in Copenhagen, will report to Sanchez in her new role, which begins October 19. As president, [ ]
 
-### Chris McKenna Calls General Hospital Exit Disappointing : But This Was A Gift
-Wed, 02 Sep 2026 01:05:23 +0000 — https://deadline.com/2026/09/chris-mckenna-general-hospital-exit-disappointing-1237064924/
+### Hanway Boards Luca Guadagnino s Bernardo Bertolucci Doc ‘Joie De Vivre’
+Wed, 02 Sep 2026 12:00:00 +0000 — https://deadline.com/2026/09/joie-de-vivre-hanway-luca-guadagnino-bernardo-bertolucci-1237065150/
 
-Chris McKenna is opening up about his exit from ABC s General Hospital after joining the daytime soap in 2025. The actor played Jack Brennan, replacing Charles Measure starting in February 2025. McKenna s time on GH came to a close when his character was killed off after the WSB chief was found dead in the Metro [ ]
+Hanway Films has boarded Luca Guadagnino s Bernardo Bertolucci documentary Joie De Vivre, which debuts at this year’s Venice Film Festival. Guadagnino s 7-hour Director’s Cut will screen in two parts at Venice: the first on 8th September and the second on the 9th. Guadagnino will receive the Cartier Glory to the Filmmaker Award before the first [ ]
 
-### Donald Trump Doubles Down On Still Vague Federal Film TV Tax Incentive Amid Praise From SAG-AFTRA, Other Unions
-Wed, 02 Sep 2026 00:36:56 +0000 — https://deadline.com/2026/09/trump-federal-film-tax-credit-1237064841/
+### George Clooney Slams Pete Hegseth Over Canadian Cadet Post; Voices Support For Mark Ruffalo Muses On Paramount-Warner Bros Merger – Venice
+Wed, 02 Sep 2026 11:40:33 +0000 — https://deadline.com/2026/09/george-clooney-venice-hegseth-politics-mark-ruffalo-1237065253/
 
-A day after endorsing a bipartisan move for a federal film and TV tax incentive, Donald Trump is doubling down on the initiative. With jobs, jobs, jobs and production, production, production at the heart of the so-called Motion Picture, Television, and Entertainment Revitalization Act, the U.S. President and former Emmy nominee is getting a lot [ ]
+George Clooney mixed gravity and laughter as he landed at the Venice Film Festival on Wednesday to receive a Golden Lion for Lifetime Achievement at the opening ceremony this evening. The actor, director and producer was put through his paces at a press conference preceding the honor on a wide range of topics from U.S. [ ]
 
-### Apple Unveils Pay Package For New CEO John Ternus
-Tue, 01 Sep 2026 23:59:12 +0000 — https://deadline.com/2026/09/apple-unveils-pay-package-for-new-ceo-john-ternus-1237064858/
+### Venice Jury Head Maggie Gyllenhaal Calls For Empathy In Politically Charged Times; Addresses Dearth Of Women In Competition: It s A Systemic Problem
+Wed, 02 Sep 2026 10:40:05 +0000 — https://deadline.com/2026/09/venice-maggie-gyllenhaal-empathy-politics-charged-women-1237065247/
 
-Apple set a pay package worth $58 million for new CEO John Ternus, who formally took the reins from longtime chief executive Tim Cook on Tuesday. His compensation includes a $3 million annual salary and equity grants valued at $55 million to be awarded in the company s fiscal 2027, which starts in October. The tech [ ]
+Venice Film Festival jury president Maggie Gyllenhaal called for empathy at the opening press conference for the 83rd edition on Wednesday, which gets underway against politically charged times. Asked whether cinema should be political, Gyllenhaal replied that filmmakers and spectators needed to be open to all types of filmmakers and stories. “To me, the answer [ ]
 
-### Hard Knocks Producer On What Makes Docuseries Special, Why The Seattle Seahawks Won The Super Bowl Teases 2027 s Offseason
-Tue, 01 Sep 2026 23:45:00 +0000 — https://deadline.com/2026/09/hard-knocks-docuseries-seattle-seahawks-2027-offseason-1237064727/
+### Jasmine Jobson Teases Details About Netflix s Top Boy Spin-Off Series Jaq : She s Going Down A Crazy Rabbit Hole
+Wed, 02 Sep 2026 10:34:45 +0000 — https://deadline.com/2026/09/jasmine-jobson-netflix-top-boy-jaq-crazy-rabbit-hole-1237065177/
 
-Hard Knocks gives an inside look at how NFL teams gear up for football season, and this year, the HBO and NFL Films docuseries featured the reigning Super Bowl champions, the Seattle Seahawks. As the season wraps up, Deadline spoke to NFL Films Talent and Field Producer Kaley Campen to get insight into what made [ ]
+EXCLUSIVE: Jasmine Jobson has said that Netflix s Top Boy spin-off series about her character Jaq Lawrence will be an insane addition to the world created by Ronan Bennett. Netflix announced last week that Jobson would reprise her role for the six-part series, which will be a sequel to Top Boy after the drama concluded in [ ]
 
