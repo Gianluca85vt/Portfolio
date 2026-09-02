@@ -4,7 +4,6 @@ date: 2026-09-02
 category: 3D
 excerpt: Mike Gaynor's After Effects alternative left beta with more than 130 nodes and a $129 perpetual licence. The Linux build is what pipelines will notice.
 cover: /img/blog/caddis-1-0-node-graph-per-layer/video-thumb.jpg
-draft: true
 ---
 
 Select a layer in the Caddis timeline and a node graph opens next to the
