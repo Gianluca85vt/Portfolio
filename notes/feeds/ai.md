@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-02T14:41:54.544Z
+# AI — harvested 2026-09-02T19:29:52.920Z
 
 ## OpenAI
 
@@ -34,6 +34,12 @@ Tue, 01 Sep 2026 21:39:07 GMT — https://huggingface.co/blog/allenai/benchmirt
 Tue, 01 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/webgpu-kernels
 
 ## Google DeepMind
+
+### Proactive cyber defense for governments and enterprises
+Wed, 02 Sep 2026 16:24:24 +0000 — https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/
+
+### Introducing Gemini 3.8 Flash and 3.8 Flash Cyber
+Wed, 02 Sep 2026 16:18:31 +0000 — https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/
 
 ### Introducing agentic video understanding with Gemini
 Tue, 01 Sep 2026 17:08:51 +0000 — https://deepmind.google/blog/introducing-agentic-video-in-gemini/

@@ -31,11 +31,12 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 | Halloween: The Game | IllFonic Publishing, Co-Publisher: Gun I | 2026-09-08 | 6d | 2026-09-07 | €39.99 |
 | Bus Simulator 27 | astragon Entertainment | 2026-09-08 | 6d | 2026-09-07 | €29.99 |
 | WARDOGS - Supporter Pack | Team17 | 2026-09-10 | 8d | 2026-09-09 | €49.99 |
+| WARDOGS | Team17 | 2026-09-10 | 8d | 2026-09-09 | €39.99 |
 | Train Sim World® 7 | Dovetail Games - TSW | 2026-09-15 | 13d | 2026-09-14 | €49.99 |
 
 ---
 
-*900 upcoming titles scanned, 819 with a firm date inside
-14 days, 7 above the price line. Titles showing
+*900 upcoming titles scanned, 803 with a firm date inside
+14 days, 8 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

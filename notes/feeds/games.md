@@ -1,6 +1,36 @@
-# Games — harvested 2026-09-02T14:41:54.544Z
+# Games — harvested 2026-09-02T19:29:52.920Z
 
 ## Eurogamer
+
+### Kingdom Hearts almost led to Disney making its own version of Super Smash Bros, former dev says
+Wed, 02 Sep 2026 19:04:01 +0000 — https://www.eurogamer.net/kingdom-hearts-disney-making-own-version-super-smash-bros
+
+Kingdom Hearts bashing together a bunch of Disney's best toys (and being quite successful in the process) led the Mouse House to briefly begin work on a crossover fighting game in the style of Super Smash Bros. Read more
+
+### Iconic Banjo-Kazooie composer is more hopeful about a sequel these days, but knows "like three companies" have already been turned down
+Wed, 02 Sep 2026 18:01:15 +0000 — https://www.eurogamer.net/banjo-kazooie-composer-hopeful-sequel-three-companies-turned-down
+
+Grant Kirkhope - the iconic video game composer behind the Donkey Kong Rap and the Banjo-Kazooie games - thinks a potential Banjo-Threeie is slightly more likely now. Read more
+
+### Mario Kart 8 Deluxe gets a surprise Switch 2 update, bringing eight-player split-screen to the evergreen racing game
+Wed, 02 Sep 2026 17:11:48 +0000 — https://www.eurogamer.net/mario-kart-8-switch-2-update-eight-player-split-screen-nintendo
+
+Nintendo heard us. Our Mario Kart 8 Deluxe parties weren't simultaneously ruining enough friendships, so the evergreen racer can now be played in split-screen with up to eight players thanks to a surprise Switch 2 update. Read more
+
+### Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space
+Wed, 02 Sep 2026 16:28:44 +0000 — https://www.eurogamer.net/ace-combat-8-online-modes-social-space-revealed
+
+Bandai Namco has revealed the live-service-like Ace Combat Online, a separate, companion selection of online modes coming with Ace Combat 8. Read more
+
+### Lego Skylines is already looking like a treat, but I suspect the real magic's in the stuff Paradox won't talk about just yet
+Wed, 02 Sep 2026 15:58:25 +0000 — https://www.eurogamer.net/lego-skylines-gamescom-preview
+
+How's this for an unhelpful opener: in a lot of ways, Lego Skylines is exactly what you think it is; but in others, it's probably not. Conceptually, it's a winner, of course - a city builder built with Lego! - and yet it takes things unexpectedly far. But also there's a lot that publisher Paradox and developer Iceflake Studios are keeping quiet for now, and I suspect it's in these still-mysterious details where the game'll really come alive. Read more
+
+### Nvidia's controversial, face-changing, gen-AI DLSS 5 tech releases tomorrow for one game, and seems to tank frame-rates
+Wed, 02 Sep 2026 15:53:39 +0000 — https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate
+
+Nvidia's hotly debated DLSS 5 tech, which uses generative AI to apply graphical filters to existing games, arrives this week, albeit only in one game. The game is NBA 2K7, and the GeForce drivers for DLSS 5 arrive Thursday night in the US (9pm PDT) and early Friday morning here (5am BST). This is only available for GeForce 50-series graphics cards, laptops and GeForce Now. Read more
 
 ### Square Enix denies it's going private following Japanese reports to the contrary
 Wed, 02 Sep 2026 14:05:07 +0000 — https://www.eurogamer.net/square-enix-denies-going-private-report
@@ -32,37 +62,17 @@ Wed, 02 Sep 2026 11:11:44 +0000 — https://www.eurogamer.net/monster-hunter-wil
 
 We know that we're getting Monster Hunter Wilds ' first expansion, Ascendance, at sometime in 2027. Initially, we were expecting to see more about the game at either Gamescom 2026 , but it seems we'll have to wait until later this month to see more about the expansion during Tokyo Game Show, instead. Read more
 
-### The next StarCraft may not be made by Blizzard, according to a new report
-Wed, 02 Sep 2026 10:55:56 +0000 — https://www.eurogamer.net/starcraft-sequel-nexon-deal-report
-
-Nexon, the giant Korean developer and publisher, is said to be close to inking a deal with Blizzard over the rights to develop a sequel in the StarCraft franchise. Read more
-
-### A behind-closed-doors demo of The Witcher 3: Songs of the Past has been a great reminder: CDPR's writing is some of gaming's very best
-Wed, 02 Sep 2026 09:16:09 +0000 — https://www.eurogamer.net/witcher-3-songs-of-the-past-behind-closed-doors-preview
-
-Last week, as Gamescom 2026 first began to open up to media and business visitors, I double-timed it to CD Projekt Red's booth. I had been promised the very first slot to see a blowout on Songs of the Past , an expansion coming 11 years after the launch of the base game. Rumours about this add-on have been swirling for the better part of a year now (though apparently the idea for Geralt's visit to the ancestral homeland of Dandelion have been percolating for even longer) , and CD Projekt Red has clearly been putting a lot of resources into making sure this new tale lives up to the expectations fans have after completing the base game, Blood & Wine, and Hearts of Stone. Read more
-
-### No Rest for the Wicked delayed to 2027, promises new beta and founders packs for early buyers to tide people over
-Wed, 02 Sep 2026 08:55:25 +0000 — https://www.eurogamer.net/no-rest-for-the-wicked-delayed-march-2027
-
-No Rest for the Wicked - the upcoming Action RPG from Ori developer Moon Studios - has been delayed into next year. Originally intended to release into version 1.0 in October, it will instead launch in March of 2027. Read more
-
-### The Grand Theft Auto run button has changed after 25 years - GTA 6 no longer requires you to tap a face button to peg it
-Wed, 02 Sep 2026 08:48:30 +0000 — https://www.eurogamer.net/gta-6-run-button-changes-tap-rockstar
-
-For nearly 25 years, Grand Theft Auto games have uniquely mapped your sprint movement to a face button on a controller. Although some Rockstar games offered alternate control schemes, the default has always required players to tap X or A (depending on your platform) to run. But GTA 6 is bucking the trend. Read more
-
-### Rockstar Games unveils its official GTA Online RP server, mere months before GTA 6
-Tue, 01 Sep 2026 19:44:40 +0000 — https://www.eurogamer.net/rockstar-games-official-gta-online-rp-server-closed-beta
-
-Rockstar Games hasn't said much of anything about GTA 6 's potential multiplayer offerings, but the developer is making strides for GTA Online 's roleplaying community. A watch-only nopixel 5 closed beta is coming next week. Read more
-
-### Double Fine will finally make Brutal Legend 2, but only if its new Kickstarter campaign reaches an almost impossible $100m
-Tue, 01 Sep 2026 18:35:01 +0000 — https://www.eurogamer.net/double-fine-finally-make-brutal-legend-2-new-kickstarter-almost-impossible-100m
-
-Almost two decades on from its first heavy-metal-infused open-world game, Double Fine pinky promises it'll finally make Brutal Legend 2&hellip; if the developer's new Kickstarter campaign somehow manages to scrape together $100m (about &pound;74m). Read more
-
 ## GamesIndustry.biz
+
+### Nexus Mods acquires SteamDB
+Wed, 02 Sep 2026 19:14:24 +0000 — https://www.gamesindustry.biz/nexus-mods-acquires-steamdb
+
+Nexus Mods has acquired SteamDB, the widely used Steam data-tracking site. Read more
+
+### Square Enix denies going private after report sends stock surging
+Wed, 02 Sep 2026 16:02:35 +0000 — https://www.gamesindustry.biz/square-enix-denies-going-private-after-report-sends-stock-surging
+
+Square Enix has issued a statement denying it is exploring taking the company private after a report in Japanese business magazine Sentaku claimed the publisher had drawn interest from foreign investment funds. Read more
 
 ### "Sometimes you need fresh perspectives" – How external development helped Tomb Raider: Legacy of Atlantis
 Wed, 02 Sep 2026 13:00:00 +0000 — https://www.gamesindustry.biz/sometimes-you-need-fresh-perspectives-how-external-development-helped-tomb-raider-legacy-of-atlantis
@@ -114,21 +124,31 @@ Tue, 01 Sep 2026 12:42:51 +0000 — https://www.gamesindustry.biz/ukie-launches-
 
 UKIE has partnered with Discord and GameFlex to launch the Go To Market Academy , a business program to support UK-based indie studios. Read more
 
-### Gamescom 2026 attendance rose 6% to 368,000 visitors
-Tue, 01 Sep 2026 10:32:51 +0000 — https://www.gamesindustry.biz/gamescom-2026-attendance-rose-6-to-368000-visitors
-
-Gamescom 2026 attracted 368,000 visitors from 131 countries, a 6% increase over the previous year. Read more
-
-### Rovio closes Copenhagen studio following shut down of Sonic Blitz
-Tue, 01 Sep 2026 08:47:50 +0000 — https://www.gamesindustry.biz/rovio-closes-copenhagen-studio-following-shut-down-of-sonic-blitz
-
-Rovio has closed its Copenhagen studio after cancelling its mobile title Sonic Blitz. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Dragon s Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro
+Wed, 02 Sep 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro
+
+Top Dogma. Patch 3.2 for Dragon's Dogma 2 released overnight, and it's made huge changes to the open world RPG. The update reworks fundamental bits and pieces of the game, while also improving the user experience in some pretty significant ways. You could argue that it verges on being a kind of re-release. Read the full article on pushsquare.com
+
+### The Witcher Remake Put on Ice as Dev Focuses on New Expansion and The Witcher 4
+Wed, 02 Sep 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/09/the-witcher-remake-put-on-ice-as-dev-focuses-on-new-expansion-and-the-witcher-4
+
+Songs of the Past. Fool's Theory, the development studio that was originally contracted to remake the first Witcher game, has changed trajectory over recent years. While the majority of CD Projekt Red is currently working on The Witcher 4 , Fool's Theory has been pouring its efforts into Songs of the Past — the surprise DLC for The Witcher 3 , which is due out next year. Read the full article on pushsquare.com
+
+### Square Enix Denies Rumours of Being Bought Out
+Wed, 02 Sep 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/09/square-enix-denies-rumours-of-being-bought-out
+
+Hip to buy Square. Rumours of a Square Enix buyout have been doing the rounds over the last 24 hours or so, and they actually got so loud that the publisher itself has had to come out and address them. The whispers stemmed from a Japanese business magazine, which suggested that Square Enix was on course to being privately traded — that is, acquired and removed from public trading. Read the full article on pushsquare.com
+
+### Preview: Silent Hill: Townfall Is a PS5 Horror Time Capsule I Can t Wait to Play More Of
+Wed, 02 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/previews/silent-hill-townfall-is-a-ps5-horror-time-capsule-i-cant-wait-to-play-more-of
+
+The Devil is in the details. Silent Hill: Townfall is one of my most anticipated games of 2026. I came upon the series for the first time having loved the Silent Hill 2 remake and really enjoying what I played of Silent Hill F . However, Townfall was of particular interest to me because of its setting. Heading off to the misty seaside town of St. Amelia, Townfall is set in Scotland in the mid-90s. As a Scotsman born in the mid-90s, sure, there may be a bit of bias towards this setting – it’s certainly what amped up my enjoyment of Scottish horror Still Wakes the Deep . Read the full article on pushsquare.com
 
 ### You Might Benefit from a $7.85 Million Payout as PlayStation Settles Anti-Trust Lawsuit
 Wed, 02 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/09/you-might-benefit-from-a-usd7-85-million-payout-as-playstation-settles-anti-trust-lawsuit
@@ -170,27 +190,12 @@ Tue, 01 Sep 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/09/heres-
 
 And no physical discs, of course. It’s been rumoured for quite some time, but here’s your first look at the official LEGO PS1 set, as spotted in-store by a Brick Tap News member. It’s due out on 1st October. The build consists of 1,911 pieces and will retail for a reasonable $160, which is pretty affordable for LEGO sets these days as far as I can see. Read the full article on pushsquare.com
 
-### Play the New Street Fighter Movie Trailer on YouTube Now
-Tue, 01 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/09/play-the-new-street-fighter-movie-trailer-on-youtube-now
-
-You read the headline right. There’s a new trailer for the upcoming Street Fighter movie which gives us our best look at the flick yet. But the coolest part of all is that you can actually play it. Read the full article on pushsquare.com
-
-### Give Double Fine $100 Million and It ll Make Brutal Legend 2
-Tue, 01 Sep 2026 18:15:00 GMT — https://www.pushsquare.com/news/2026/09/give-double-fine-usd100-million-and-itll-make-brutal-legend-2
-
-"Yes, really.". Double Fine is ready to make a sequel to Brutal Legend — you just have to help raise $100 million to make it a reality. As part of its new Kickstarter campaign, Amnesia Fortnight 2026 , the newly independent developer is letting its online community choose what game it creates next. Anyone who pledges money towards the campaign will be able to whittle down Double Fine's game jam creations to a few prototypes, and then one of them will be picked to go into production. Read the full article on pushsquare.com
-
-### Ace Combat 8 s Multiplayer Is the Most Robust the Series Has Ever Had
-Tue, 01 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/09/ace-combat-8s-multiplayer-is-the-most-robust-the-series-has-ever-had
-
-Fly high. If you were in doubt that Ace Combat 8: Wings of Theve is being positioned as the biggest game in the series so far, this new overview trailer of the flight shooter's multiplayer suite says it loud and clear. Of course, Bandai Namco's series has featured online multiplayer before, but Ace Combat Online, as it's called here, looks far more elaborate in Wings of Theve. Read the full article on pushsquare.com
-
-### Feature: 16 PS5 Predictions for State of Play September 2026
-Tue, 01 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/features/16-ps5-predictions-for-state-of-play-september-2026
-
-2 States, 2 Plays. Out of pretty much nowhere, Sony has announced not one, but two State of Play presentations , going out one after the other later this week. One is your typical State of Play, while the other is focused on games coming from Japan and Asia, and it should make for a very interesting double bill of gaming news. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Nexus Mods is acquiring database and analytics site SteamDB
+Wed, 02 Sep 2026 17:27:45 GMT — https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb
+
+Nexus Mods wants to grant SteamDB resources and the 'long-term stability it deserves.'
 
 ### Report: Savvy Games Group CEO Brian Ward departs company
 Tue, 01 Sep 2026 21:42:52 GMT — https://www.gamedeveloper.com/business/report-savvy-games-group-ceo-brian-ward-departs-company
@@ -221,19 +226,4 @@ Game director Dan Lind explains the appeal of strategy in grand strategy games, 
 Tue, 01 Sep 2026 09:19:23 GMT — https://www.gamedeveloper.com/business/star-wars-zero-company-studio-furloughed-workers-ahead-of-launch
 
 Bit Reactor has confirmed it temporarily suspended workers without pay due to concerns over how its debut title would perform.
-
-### Housemarque co-founder Ilari Kuittinen exits from studio
-Mon, 31 Aug 2026 17:29:37 GMT — https://www.gamedeveloper.com/business/housemarque-co-founder-ilari-kuittinen-retires-from-studio
-
-'Strive to be a better professional, and a better human being.'
-
-### Report: 13TB of Steam data leaked after users access 'publicly accessible endpoint'
-Mon, 31 Aug 2026 15:07:37 GMT — https://www.gamedeveloper.com/pc/report-13tb-of-steam-data-leaked-after-users-access-publicly-accessible-endpoint-
-
-The leaked data apparently includes beta builds and screenshots of pre-release Valve titles—and games from other publishers like EA and WB Games.
-
-### Indie devs and publishers hit in Gamescom equipment thefts
-Mon, 31 Aug 2026 14:58:21 GMT — https://www.gamedeveloper.com/business/indie-devs-and-publishers-hit-in-gamescom-equipment-thefts
-
-Thieves obtained access to Gamescom's Indie Arena and business area and stole a number of laptops and Steam Decks from smaller exhibitors.
 

@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-09-02T14:41:54.544Z
+# Film & TV — harvested 2026-09-02T19:29:52.920Z
 
 ## Variety
 
-### Danny Boyle Celebrated at Variety s Venice Pre-Opening Party as Ink Star Jack O Connell Praises His Ability to Take Us Inside a World
-Wed, 02 Sep 2026 14:31:23 +0000 — https://variety.com/2026/film/festivals/danny-boyle-variety-venice-pre-opening-party-1236849169/
+### Olivia Rodrigo and Cameron Crowe Go Deeper Into The Cure, Confessional Songwriting and Daisy Chain Fields in a Grammy Museum Q A and Acoustic Set
+Wed, 02 Sep 2026 19:27:31 +0000 — https://variety.com/2026/music/news/olivia-rodrigo-grammy-museum-cameron-crowe-acoustic-set-1236849594/
 
-Danny Boyle was celebrated with Variety s Creative Impact in Directing Award on Monday during a Venice Film Festival pre-opening night party at the poolside terrace of the Hotel Excelsior. The Oscar-winning British filmmaker is set to open the festival on Wednesday night with Ink, a juicy exposé of how British tabloid The Sun propelled Rupert [ ]
+Filmmaker Cameron Crowe has biopics on the brain, being in late-stage development on his long-planned Joni Mitchell movie, the casting of which is still unknown. So he used his Q A with Olivia Rodrigo Tuesday night at the Grammy Museum to ask her about casting thoughts — not for his own film, but for a theoretical [ ]
 
-### ‘My Notes on Mars’ Review: Mackenzie Davis and Rupert Friend Star in an Imperfect Breakdown of Marriage and Memory
-Wed, 02 Sep 2026 14:30:00 +0000 — https://variety.com/2026/film/news/my-notes-on-mars-review-1236846812/
+### Inside Camelback Productions’ Plans for a New 1,400-Acre, AI-Powered Production and Entertainment Complex — in Arizona (EXCLUSIVE)
+Wed, 02 Sep 2026 19:18:07 +0000 — https://variety.com/2026/biz/news/inside-camelback-productions-ai-powered-production-arizona-1236849577/
 
-A relationship drama verging on sci-fi, Lili Horvát’s “My Notes On Mars” begins with an intriguing premise that eventually loses steam. It follows the disappearance of an American astrophysicist in the Hungarian mountains who mysteriously returns to her husband on the day of her own memorial. With no memory of who she is or where [ ]
+Anita Verma-Lallian, founder of Camelback Productions, doesn’t see the future of film production in Los Angeles. Instead, in her vision, it is on a complex one hour’s drive west of Phoenix, complete with backlots, a Universal Studios-inspired theme park — and a data center. Such is the AI-powered future Verma-Lallian hopes to achieve with a sprawling [ ]
 
-### Robert Pattinson Says The Batman 2 Action Scenes Are Significantly Harder and I m Feeling My Age When Fighting a Lot
-Wed, 02 Sep 2026 14:23:02 +0000 — https://variety.com/2026/film/news/robert-pattinson-batman-2-action-scenes-harder-1236849259/
+### 5-hour Energy Wants to Give the Mocktail a Jolt
+Wed, 02 Sep 2026 19:09:58 +0000 — https://variety.com/2026/shopping/news/5-hour-energy-mocktail-recipes-shop-online-1236849583/
 
-Robert Pattinson turned 40 years old ahead of filming The Batman: Part II, and he s definitely feeling his age on set. Production on the long-awaited superhero sequel kicked off in June in London with Pattinson back as the Dark Knight opposite new cast members Scarlett Johansson and Sebastian Stan, whose roles remain a closely guarded [ ]
+The mocktail is getting a caffeine boost. As non-alcoholic cocktails have migrated from sad club sodas to increasingly elaborate bar menus, 5-hour Energy is pitching its pocket-size energy shots as an unlikely new mixology ingredient. The brand has built out an entire collection of mocktail recipes around its increasingly playful flavor lineup, including Cotton Candy, [ ]
 
-### ‘The Girl With The Leica’ Review: An Impressionistic Portrait of Gerda Taro, the Woman Who Shared the Artistic Identity of Robert Capa
-Wed, 02 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/reviews/the-girl-with-the-leica-review-1236848286/
+### Margot Robbie-Narrated Galapagos: The Last Eden Trailer Unveiled Ahead of Venice Immersive Bow (EXCLUSIVE)
+Wed, 02 Sep 2026 19:08:08 +0000 — https://variety.com/2026/film/festivals/margot-robbie-galapagos-last-eden-trailer-venice-immersive-1236849584/
 
-For many people, the name Robert Capa evokes a mysterious, jet-setting American photographer responsible for some of the mid-20th century’s most iconic images from the frontlines of war. In the fascinating “The Girl With The Leica,” Italian director Alina Marazzi puts paid to that myth. The time-jumping film reclaims the legacy of German-born photojournalist Gerda Taro (née Gerta Pohorylle) [ ]
+The trailer for Galapagos: The Last Eden, an immersive experience narrated by Margot Robbie, has been unveiled ahead of the project s premiere in the Venice Film Festival s Immersive strand. Directed by Anthony Geffen and produced by Atlantic Studios, the production hails from the U.K. and is presented in English. Galapagos: The Last Eden brings the [ ]
 
-### Fall 2: Deadpoint Review: A Mostly Successful Sequel to the Dizzy Word-of-Mouth Sensation
-Wed, 02 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/reviews/fall-2-deadpoint-review-1236848979/
+### Rob Bonta’s Dogged Pursuit of Paramount Case Reflects Broader Mission: ‘I Believe in Fairness’
+Wed, 02 Sep 2026 19:07:31 +0000 — https://variety.com/2026/film/news/rob-bonta-paramount-profile-1236848528/
 
-A sequel should be similar to the film that preceded it, but not the same. That’s the conventional wisdom that, for better or worse, not all filmmakers observe when picking up the mantle of a series or franchise. But when they’re working from a high-concept premise, it’s a challenge especially fraught with risk. And following [ ]
+Rob Bonta was less than a year into the job of California attorney general when he found himself at odds with one of the state’s most affluent communities. To get around a requirement to build more housing, Woodside had declared that the entire town was a mountain lion habitat. Bonta fired off a letter accusing [ ]
 
-### Wrongful Terrorism Case of Sri Lankan Student Set as Feature Doc Framed by Australia s Anupam Sharma, First-Look Poster Unveiled Ahead of Toronto Market (EXCLUSIVE)
-Wed, 02 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/news/wrongful-terrorism-case-sri-lankan-student-doc-framed-first-look-poster-1236849059/
+### Judge Judy Celebrates 30th Anniversary With CBS Primetime Special Unfiltered, Unforgettable
+Wed, 02 Sep 2026 18:30:00 +0000 — https://variety.com/2026/tv/news/judge-judy-sheindlin-30th-anniversary-unfiltered-cbs-1236848846/
 
-The wrongful terrorism case of a Sri Lankan student in Sydney has been set as a feature documentary by Australian filmmaker Anupam Sharma, with the first-look poster for Framed unveiled ahead of the Toronto Film Festival s inaugural market. Framed follows the case of Kamer Nizamdeen, a 25-year-old overseas student who was arrested and held in [ ]
+Judge Judy is returning to television with “Judge Judy: Unfiltered, Unforgettable,” a 90-minute primetime special chronicling her three decades as America s favorite TV judge. Through home movies and personal archives, Judith Sheindlin offers an intimate look into how she became the sharp-tongued, no-nonsense jurist who sat on the bench in Manhattan for nearly 20 years [ ]
 
-### Jordan Firstman, Matteo Lane Lead U.S. Voice Cast of Cannes Breakout Comedy Jim Queen’ (EXCLUSIVE)
-Wed, 02 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/global/jordan-firstman-matteo-lane-jim-queen-1236849136/
+### Lego Harry Potter Collection Coming to Nintendo Switch 2 (Gaming News Roundup)
+Wed, 02 Sep 2026 18:09:37 +0000 — https://variety.com/2026/gaming/news/gaming-news-roundup-week-august-31-1236848692/
 
-Jordan Firstman, fresh off Cannes buzz for his feature directorial debut Club Kid, leads the English-language voice cast of Jim Queen, alongside comedian, actor and singer Matteo Lane ( Chicago ). The pair voice Jim and Lucien in the Cannes breakout gay animated comedy from filmmakers Marco Nguyen and Nicolas Athané. Global Constellation will introduce this English-language [ ]
+The “Lego Harry Potter Collection” is coming to Nintendo Switch 2 on Oct. 16. Developed by Warner Bros. Games, TT Games and The Lego Group, the collection includes “Lego Harry Potter: Years 1-4” and “Lego Harry Potter: Years 5-7.” The Nintendo Switch 2 version of the collection will be available in both physical and digital [ ]
 
-### Blackpink and White Lotus Star Lisa Documentary Always Lalisa Sets Global Release
-Wed, 02 Sep 2026 13:39:40 +0000 — https://variety.com/2026/music/news/blackpink-white-lotus-lisa-doc-always-lalisa-release-1236849246/
+### George Clooney Calls Out Authoritarians and People Who Peddle in Fear in Moving Venice Golden Lion Speech: They’re ‘Never the Heroes in History’
+Wed, 02 Sep 2026 18:03:39 +0000 — https://variety.com/2026/film/festivals/george-clooney-calls-out-authoritarians-venice-golden-lion-speech-1236845843/
 
-Always Lalisa, a feature documentary following Blackpink member Lisa, will open in Imax and cinemas worldwide for a limited engagement beginning Oct. 12, Sony Music Vision has revealed. Directed by Sue Kim, the film tracks a pivotal year in Lisa s life as she steps away from Blackpink for the first time since childhood, pursuing a [ ]
+George Clooney delivered a moving speech about the power of art in times of political turmoil at Venice Film Festival on Wednesday night, saying: Stories are always dangerous to people who peddle in fear. The Oscar winner was on hand at the festival s opening ceremony to accept the Golden Lion for Lifetime Achievement, which he [ ]
 
-### New Regency Takes International Rights to Ferran Adrià Series ‘Genesis’ (EXCLUSIVE)
-Wed, 02 Sep 2026 13:39:32 +0000 — https://variety.com/2026/tv/markets-festivals/new-regency-genesis-ferran-adria-genesis-3cat-1236845356/
+### Ink Review: Danny Boyle s Gripping, Sizzling Film About How a People s Paper Lost Its Humanity, and Won
+Wed, 02 Sep 2026 18:00:00 +0000 — https://variety.com/2026/film/reviews/ink-review-1236849047/
 
-New Regency has taken international distribution rights outside Spain to “Genesis” (“Gènesi”), the six-part 3Cat drama about Ferran Adrià, the chef behind the groundbreaking El Bulli. The series will screen its first two episodes as part of the San Sebastián Film Festival’s Other Activities on Sept. 21, the same day it launches on Catalan broadcaster [ ]
+People need stories, says Larry Lamb, beleaguered editor of leading British tabloid The Sun, at a late point in Ink, a propulsive, can t-look-away account of his simultaneously triumphant and regrettable career zenith. In the film, the year is 1970: His words are half a century ahead of the current prevalence of storytelling as a catch-all [ ]
 
-### Travis Kelce Breaks Down Wedding to Taylor Swift and Says Adam Sandler Officiating Was Absolutely Insane : He’s the F ing Best Person on This Planet
-Wed, 02 Sep 2026 13:30:53 +0000 — https://variety.com/2026/music/news/travis-kelce-taylor-swift-wedding-adam-sandler-officiating-1236849216/
+### Sci-Fi Comedy Adventure Series Maui Elvis Unites New Zealand s Whakaata Maori, Canada s APTN
+Wed, 02 Sep 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/sci-fi-comedy-maui-elvis-whakaata-maori-aptn-1236849154/
 
-Travis Kelce has opened up more than ever about his wedding to Taylor Swift, a private party that had the whole world swooning and which took place at New York City’s Madison Square Garden in July. The pro athlete took to the Sept. 2 episode of his podcast “New Heights,” which happened to be the [ ]
+New Zealand s Whakaata Māori and Canada s APTN have unveiled an international co-production partnership on Māui Elvis, an adventure sci-fi comedy series for children and families spanning Aotearoa New Zealand and Canada. The two broadcasters unveiled the deal during the World Indigenous Broadcasters Network (WIBN) Conference, held this year in Sápmi, Norway. Māui Elvis [ ]
 
 ## The Hollywood Reporter
 
-### My Notes on Mars Review: Mackenzie Davis and Rupert Friend Play a Trauma-Shaken Couple in Clever Sci-Fi Puzzler
-Wed, 02 Sep 2026 14:35:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/my-notes-on-mars-mackenzie-davis-rupert-friend-lili-horvat-1236687265/
+### Hollywood, Horsepower and Parmigiano Fuel the Ultimate Venice Side Quest
+Wed, 02 Sep 2026 18:59:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/venice-side-quest-trips-hollywood-cars-parmigiano-1236685631/
 
-Written and directed by Hungarian Lili Horvat, the Venice premiere taps into current anxieties about what is human and what is love.
+Ninety minutes from Venice, the locations behind Ferrari, Lamborghini and Maserati: The Brothers intersect with Chef Massimo Bottura, aged balsamic, cheese and Lambrusco.
 
-### The Joke’s On Us. Literally
-Wed, 02 Sep 2026 14:30:00 +0000 — https://www.hollywoodreporter.com/news/general-news/harvard-lampoon-parody-thr-1236686808/
+### Billy Ray Cyrus Says Miley Dropping Last Name Is a Natural Progression for an Iconic Superstar Legend
+Wed, 02 Sep 2026 18:57:05 +0000 — https://www.hollywoodreporter.com/music/music-news/billy-ray-cyrus-responds-miley-dropping-last-name-1236688579/
 
-The Hollywood Reporter joins the illustrious tradition of being spoofed by The Harvard Lampoon.
+The Grammy winner shifted her social media users to merely "Miley," cutting the "Cyrus."
 
-### The Buzziest New Show on Netflix? A Video Game Trailer
-Wed, 02 Sep 2026 14:15:59 +0000 — https://www.hollywoodreporter.com/business/digital/netflix-gta-streaming-1236688087/
+### George Clooney Challenges Authoritarians in Powerful Speech in Venice: “Stories Are Always Dangerous to People Who Peddle in Fear”
+Wed, 02 Sep 2026 18:40:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/george-clooney-venice-golden-lion-lifetime-achievement-1236687918/
 
-Forget prestige TV. Why 'Grand Theft Auto' trailers and AI Andy Cohens may be the future of streaming entertainment.
+Laura Dern presented the Hollywood star with Venice’s career honor during Wednesday’s opening ceremony with a little help from his famous friends like Brad Pitt, Adam Sandler and Steven Soderbergh.
 
-### Emily Alyn Lind Is a Proud F***ing Know-It-All
-Wed, 02 Sep 2026 14:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/emily-alyn-lind-company-venice-gossip-girl-interview-1236683984/
+### Marshals Season 2 Trailer Picks Up After Cliffhanger Finale
+Wed, 02 Sep 2026 18:33:15 +0000 — https://www.hollywoodreporter.com/tv/tv-news/marshals-season-2-trailer-1236688450/
 
-From a Gaspar Noé set at age 7 to her long-overdue Venice debut in Casey Affleck's 'Company,' the actress weighs in on growing up in showbiz and refusing to have it all together in her 20s.
+Kayce Dutton (Luke Grimes) and his son Tate (Brecken Merrill) remain in harm’s way heading into the second season of the 'Yellowstone' spinoff.
 
-### Runner Review: Alan Ritchson and Owen Wilson in an Impressively Visceral Buddy Thriller That Leaves Behind a Bad Taste
-Wed, 02 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/runner-review-alan-ritchson-owen-wilson-1236680903/
+### Ludwig Christmas Special Set at BBC, BritBox With Guest Star and Famed Poirot Actor David Suchet
+Wed, 02 Sep 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ludwig-christmas-special-mitchell-david-suchet-bbc-britbox-1236688090/
 
-A courier with very special skills battles cartel members to deliver a desperately needed human organ in Scott Waugh's film.
+The Yorkshire-set, hour-long episode will see David Mitchell's John Taylor attempt to solve a murder mystery at a Christmas-themed hotel.
 
-### Why Casey Affleck Cast His Family in His Gothic New Film ‘Company’ (First Look)
-Wed, 02 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/casey-affleck-company-venice-first-look-1236687326/
+### Trump s DoJ Backs OpenAI In Legal Face Off With New York Times
+Wed, 02 Sep 2026 18:05:45 +0000 — https://www.hollywoodreporter.com/business/business-news/trump-doj-backs-openai-new-york-times-1236688417/
 
-The Oscar winner’s sons, parents and girlfriend appear in the Venice-bound drama, which was made for very little money and with a rotating crew: “I suddenly felt an enormous amount of pressure,” he says.
+The government argues that restrictions on AI training will undermine national security, as well as competition among AI companies and news publishers.
 
-### Rupert Murdoch Was Very Happy With the Casting of Danny Boyle s Ink
-Wed, 02 Sep 2026 13:08:19 +0000 — https://www.hollywoodreporter.com/movies/movie-news/venice-danny-boyle-ink-press-guy-pearce-jack-o-connell-1236687936/
+### The Tragedy of Perez Hilton
+Wed, 02 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/perez-hilton-suicide-attempt-tiktok-social-media-reckoning-1236684690/
 
-The director’s new film, about Rupert Murdoch's takeover of British tabloid ‘The Sun,’ stars Guy Pearce, Jack O'Connell and Claire Foy.
+In the wake of the gossip blogger's nightmarish, livestreamed suicide attempt, insiders take stock of the groundbreaking talent and past toxicity of the self-proclaimed "original influencer": "I really think he started rage bait and hateful comments."
 
-### Travis Kelce Details Insane Wedding to Taylor Swift: Biggest Night of Our Lives
-Wed, 02 Sep 2026 13:01:30 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/travis-kelce-wedding-taylor-swift-podcast-new-heights-1236688034/
+### Ink Review: Jack O Connell and Guy Pearce Trace Rupert Murdoch s Fleet Street Rise in Breathlessly Paced, Morally Opaque Danny Boyle Drama
+Wed, 02 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/ink-review-jack-oconnell-guy-pearce-danny-boyle-murdoch-1236686614/
 
-The Kansas City Chiefs player — now Mr. Swift, following that starry wedding at Madison Square Garden in July — has spoken for the first time in depth about the event: "It was just so magical, man."
+Claire Foy also stars in this Venice opener adapted by James Graham from his play about the transformation of U.K. tabloid culture into mass-market low-brow entertainment.
 
-### Elon Musk Unmasked in Alex Gibney Documentary: “Insane a Person This Chaotic Has So Much Power”
-Wed, 02 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/elon-musk-alex-gibney-documentary-1236686790/
+### Shemar Moore’s Hondo Trains LAPD Misfits for Redemption in ‘S.W.A.T. Exiles’ Trailer
+Wed, 02 Sep 2026 17:48:57 +0000 — https://www.hollywoodreporter.com/tv/tv-news/swat-exiles-trailer-shemar-moore-watch-1236688356/
 
-He is the richest man on earth. An explosive new film from the Oscar-winning director suggests he may also be the most dangerous.
+Moore returns for the ‘S.W.A.T.’ spinoff series from Starz, set to bow on Sept. 25
 
-### George Clooney Tells Venice Studios Are Making Movies That Need a Launchpad of a Film Festival Less and Less
-Wed, 02 Sep 2026 12:35:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/george-clooney-venice-studios-film-festival-directing-1236687967/
+### The Devil Wears Zara: Anna Wintour’s Latest Met Gala Mess
+Wed, 02 Sep 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/style/anna-wintour-met-gala-mess-1236687377/
 
-The famed U.S. star also revealed why he won't be directing another film anytime soon (hint: he has nine-year-old twins!) and lamented how "most of the [world's] powers have decided climate change is a hoax."
+John Galliano’s sudden exit from the party has left the real-life Miranda Priestly in something of a lurch — and maybe scrambling for a new sponsor.
 
 ## Deadline
 
-### ‘The Fastest Man In The World’: Biopic Of Four-Time Paralympic Gold Medalist Tony Volpentest In The Works
-Wed, 02 Sep 2026 14:02:42 +0000 — https://deadline.com/2026/09/the-fastest-man-in-the-world-biopic-tony-volpentest-1237065383/
+### Emmy Rossum Furious Creator Liz Meriwether On Interviewing Real Trafficking Survivors, Updating A 1987 Thriller Season 2 Croatian Beach Dreams
+Wed, 02 Sep 2026 19:29:39 +0000 — https://deadline.com/2026/09/emmy-rossum-furious-liz-meriwether-trafficking-survivors-season-2-1237065707/
 
-EXCLUSIVE: A biopic about the life of four-time Paralympic gold medalist Tony Volpentest, titled The Fastest Man In The World, is in the works, with Kelli McNeil-Yellen signed on to write the screenplay and Alexander Yellen to direct. Production on the film is slated to begin in April 2027 in Kansas City, Missouri. Based on [ ]
+As Furious viewers get closure on one character s search for justice, series creator Liz Meriwether and star Emmy Rossum have some ideas for Season 2. Inspired by the 1987 thriller Black Widow, Rossum told Deadline about a great scuba sequence from the film that she wanted to recreate when her character FBI Agent Alice Black [ ]
 
-### Miss World Grand Finale To Stream Free On Fawesome
-Wed, 02 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/miss-world-grand-finale-fawesome-1237065257/
+### Joe Anthony Russo On Why Avengers: Doomsday Started Filming Without A Finished Script: We Like To See What Actors Bring To The Characters
+Wed, 02 Sep 2026 19:04:13 +0000 — https://deadline.com/2026/09/joe-anthony-russo-avengers-doomsday-filming-unfinished-script-1237065860/
 
-EXCLUSIVE: Miss USA may have broken up with The CW, but rival competition Miss World has found a new home. The grand finale of Miss World 2026 will stream free this Saturday (September 5) on streamer Fawesome at 6 a.m. PT/9 a.m. ET. The event is being held in Nha Trang, Vietnam, where the show [ ]
+Joe and Anthony Russo are opening up about Avengers: Doomsday and explaining why they started shooting the Marvel film without a finished script. In a new interview, the Russo brothers shared why they view the script as a living organism. We’re improvisation-based, rehearsal-based directors, Joe Russo told AP. We like to see what the actors [ ]
 
-### Danny Boyle Voices Fears For Journalism Speaking Truth To Power In Age Of AI As Ink Debuts In Venice
-Wed, 02 Sep 2026 13:35:51 +0000 — https://deadline.com/2026/09/danny-boyle-journalism-truth-power-ai-venice-1237065313/
+### Sony Pictures And Story Kitchen Team On Feature Adaptation Of Video Game The Drifter
+Wed, 02 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/sony-pictures-story-kitchen-the-drifter-1237065760/
 
-UK director Danny Boyle raised his concerns over the future of journalism in the age of AI as he touched down at the Venice Film Festival with opening film Ink on Wednesday. Adapted from the 2017 stage play by James Graham, the feature follows the rise of the UK s notorious tabloid newspaper The Sun in [ ]
+EXCLUSIVE: Sony Pictures and Story Kitchen have landed the live-action feature film rights to the videogame, The Drifter. Story Kitchen s Dmitri M. Johnson and Michael Lawrence Goldberg will be producing with Timothy I. Stevenson and Elena Sandoval executive producing. The Drifter is a pulpy adventure videogame, where after witnessing a brutal murder and being drowned [ ]
 
-### ‘Ink’ Trailer: Danny Boyle Charts The Rise Of A British Tabloid In Venice Film Festival Opener
-Wed, 02 Sep 2026 13:32:52 +0000 — https://deadline.com/2026/09/ink-trailer-danny-boyle-venice-film-festival-1237065165/
+### Days Of Our Lives Casts Sami s Daughter; Plus, Heated Rivalry Actor Joins Peacock Sudser
+Wed, 02 Sep 2026 18:59:38 +0000 — https://deadline.com/2026/09/days-of-our-lives-casts-samis-daughter-1237065720/
 
-Here’s the first trailer for Danny Boyle’s Ink, which opens the 83rd Venice Film Festival this evening. Boyle directs the feature from a screenplay written by James Graham (Dear England), based on his Tony-nominated play Ink. O’Connell stars as The Sun newspaper editor Larry Lamb, with Pearce as Rupert Murdoch. Claire Foy is Jules Davies. [ ]
+EXCLUSIVE: Deadline has learned that Days of Our Lives has big plans for newly-cast actress Sydney Malakeh. She ll be playing the only daughter of Sami (Alison Sweeney) and EJ (Dan Feuerriegel). Her character, who is named Sydney DiMera, was last seen as a pre-teen on Peacock s 2021 movie Days of our Lives: A Very Salem [ ]
 
-### Broadway s Galileo Adds Cast: Javier Muñoz, Bradley Dean Join Raúl Esparza; Stranger Things Actor Michael Park To Alternate Lead
-Wed, 02 Sep 2026 13:28:49 +0000 — https://deadline.com/2026/09/broadway-galileo-javier-munoz-michael-park-cast-1237065345/
+### Venice Film Festival 2026: Read All Of Deadline’s Reviews
+Wed, 02 Sep 2026 18:58:00 +0000 — https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/
 
-Broadway s upcoming Galileo musical starring Raúl Esparza also will feature Bradley Dean (Chess), Jordon Lee Garcia (Broadway debut) and Javier Muñoz (Hamilton, In the Heights), producers announced today. Also joining the cast is Michael Park (Stranger Things, As the World Turns), who will alternate with Esparza in the title role at certain performances. The new [ ]
+The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle s Ink starring Jack O’Connell, Guy Pearce and Claire Foy kicking off an 83rd edition that includes films starring the likes of Robert Pattinson, Penelope Cruz Javier Bardem, Jack Huston Sofia Boutella, Dakota Johnson, John [ ]
 
-### David Oyelowo Nate Parker s Mansa Studios Debuts Slate Of TikTok Microdramas
-Wed, 02 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/david-oyelowo-nate-parker-tiktok-microdramas-mansa-studios-1237065179/
+### Harry Potter TV Series Due To Hit HBO In 2027: Everything We Know About The Cast, Who s Creating It, What J.K. Rowling Says More
+Wed, 02 Sep 2026 18:27:13 +0000 — https://deadline.com/2026/09/harry-potter-tv-series-max-release-date-cast-1235323284/
 
-EXCLUSIVE: David Oyelowo and Nate Parker s Mansa Studios is turning to TikTok for its latest slate of microdramas. The company is launching three vertical shows direct via the TikTok Minis platform. These are My Twin Sister Stole My Man, a relationship-driven drama about betrayal, identity and the complicated ties that bind family together; I Married [ ]
+There will be another season of HBO Max s Harry Potter TV series. The new Harry, Ron and Hermione have received their Hogwarts admission letters, as have the newest additions — four out of Ron s six siblings. Since those magical owl deliveries, the Ginny Weasley role will be recast for Season 2 due to Gracie Cochrane s [ ]
 
-### ‘East Of Eden’ Trailer: Evil Lurks “Cloaked In Goodness” In Zoe Kazan’s Limited Series Take On John Steinbeck’s Novel
-Wed, 02 Sep 2026 12:30:00 +0000 — https://deadline.com/2026/09/east-of-eden-trailer-netflix-florence-pugh-mike-faist-1237064845/
+### George Clooney Calls Out Authoritarians Who Peddle Fear As He Receives Lifetime Award Achievement In Venice
+Wed, 02 Sep 2026 18:18:33 +0000 — https://deadline.com/2026/09/venice-opening-george-clooney-award-power-cinema-1237065743/
 
-The full trailer for Netflix’s East of Eden limited series adaptation has arrived. Zoe Kazan’s take on John Steinbeck’s classic 1952 novel will premiere on Netflix October 1. “I believe there are monsters born in this world to human parents. A monster is a variation from the accepted normal,” Florence Pugh’s Cathy Ames says in the beginning [ ]
+The Venice Film Festival kicked off on a defiantly humanist note on Wednesday with speeches from Life Achievement Awardee George Clooney and jury president Maggie Gyllenhaal championing the power of cinema as a unifier in divisive times. Praising the festival as an extraordinary meeting place, Clooney used his award speech to stress the need for [ ]
 
-### Hot Docs Promotes Diana Sanchez, Hires Mara Gourd-Mercado As Festival Seeks To “Future-Proof” Itself
-Wed, 02 Sep 2026 12:00:00 +0000 — https://deadline.com/2026/09/hot-docs-promotes-diana-sanchez-hires-mara-gourd-mercado-1237064962/
+### Peacock Acquires The Office Documentary Series Fan Level Midnight
+Wed, 02 Sep 2026 18:12:00 +0000 — https://deadline.com/2026/09/peacock-acquires-the-office-doc-series-fan-level-midnight-1237064743/
 
-Hot Docs, the world-class documentary film festival in Toronto, has announced some major personnel moves – elevating Diana Sanchez to president and bringing in Mara Gourd-Mercado to succeed Sanchez as executive director. Gourd-Mercado, currently head of industry at CPH:DOX in Copenhagen, will report to Sanchez in her new role, which begins October 19. As president, [ ]
+EXCLUSIVE: Peacock has acquired a new documentary about the history and cultural impact of NBC s The Office, and it s set to stream very soon. Fan Level Midnight: Devoted to The Office, directed by Shawn Cauthen, will debut on the streamer on September 7. Throughout six episodes, Fan Level Midnight explores how the U.S. version of [ ]
 
-### Hanway Boards Luca Guadagnino s Bernardo Bertolucci Doc ‘Joie De Vivre’
-Wed, 02 Sep 2026 12:00:00 +0000 — https://deadline.com/2026/09/joie-de-vivre-hanway-luca-guadagnino-bernardo-bertolucci-1237065150/
+### Broadway Marquees To Dim For Dolly Parton, Tim Curry, Louise Lasser And Others
+Wed, 02 Sep 2026 18:05:19 +0000 — https://deadline.com/2026/09/broadway-marquees-dim-dolly-parton-tim-curry-louise-lasser-1237065776/
 
-Hanway Films has boarded Luca Guadagnino s Bernardo Bertolucci documentary Joie De Vivre, which debuts at this year’s Venice Film Festival. Guadagnino s 7-hour Director’s Cut will screen in two parts at Venice: the first on 8th September and the second on the 9th. Guadagnino will receive the Cartier Glory to the Filmmaker Award before the first [ ]
+Dolly Parton, whose Dolly: A True Original Musical, is New York-bound, will be among those honored with a Broadway marquee dimming set for Tuesday, September 8. In addition to Parton, who died August 25, the group tribute will also honor, among others, The Rocky Horror Show s Tim Curry, Mary Hartman, Mary Hartman star Louise Lasser [ ]
 
-### George Clooney Slams Pete Hegseth Over Canadian Cadet Post; Voices Support For Mark Ruffalo Muses On Paramount-Warner Bros Merger – Venice
-Wed, 02 Sep 2026 11:40:33 +0000 — https://deadline.com/2026/09/george-clooney-venice-hegseth-politics-mark-ruffalo-1237065253/
+### Ink Review: Danny Boyle s Sensational Look At The Origins Of Rupert Murdoch s The Sun Is Also A Warning For Now Venice Film Festival
+Wed, 02 Sep 2026 18:00:16 +0000 — https://deadline.com/2026/09/ink-review-danny-boyle-rupert-murdoch-the-sun-1237062989/
 
-George Clooney mixed gravity and laughter as he landed at the Venice Film Festival on Wednesday to receive a Golden Lion for Lifetime Achievement at the opening ceremony this evening. The actor, director and producer was put through his paces at a press conference preceding the honor on a wide range of topics from U.S. [ ]
+Everyone probably has an opinion of Australian mogul Rupert Murdoch, whose media empire has included the New York Post, Wall Street Journal and the creation of the 24-hour conservative news network Fox News, essentially reshaping the political landscape in many ways which, depending on your viewpoint, is a good thing or for many something very [ ]
 
-### Venice Jury Head Maggie Gyllenhaal Calls For Empathy In Politically Charged Times; Addresses Dearth Of Women In Competition: It s A Systemic Problem
-Wed, 02 Sep 2026 10:40:05 +0000 — https://deadline.com/2026/09/venice-maggie-gyllenhaal-empathy-politics-charged-women-1237065247/
+### NBC s Newlyweds Drops First-Look Photos Of Tim Daly Téa Leoni
+Wed, 02 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/nbc-newlyweds-first-look-photos-tim-daly-tea-leoni-1237064820/
 
-Venice Film Festival jury president Maggie Gyllenhaal called for empathy at the opening press conference for the 83rd edition on Wednesday, which gets underway against politically charged times. Asked whether cinema should be political, Gyllenhaal replied that filmmakers and spectators needed to be open to all types of filmmakers and stories. “To me, the answer [ ]
+Real-life couple Tim Daly and Téa Leoni are making their debut as the stars of the NBC comedy Newlyweds via first-look photos, which can be found below. There are also photos of Daly and Leoni s co-stars Jamie Lee Curtis, Emma Meisel, Ignacio Diaz-Silverio, Bill O’Neill and Al Madrigal. Newlyweds is a later-in-life love story about a [ ]
 
-### Jasmine Jobson Teases Details About Netflix s Top Boy Spin-Off Series Jaq : She s Going Down A Crazy Rabbit Hole
-Wed, 02 Sep 2026 10:34:45 +0000 — https://deadline.com/2026/09/jasmine-jobson-netflix-top-boy-jaq-crazy-rabbit-hole-1237065177/
+### Mark Harmon Returns To NCIS: Origins For Season 3 In First-Look Photos: Mark Was Excited To Give Fans What They Wanted
+Wed, 02 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/mark-harmon-ncis-origins-season-3-return-photos-1237065766/
 
-EXCLUSIVE: Jasmine Jobson has said that Netflix s Top Boy spin-off series about her character Jaq Lawrence will be an insane addition to the world created by Ronan Bennett. Netflix announced last week that Jobson would reprise her role for the six-part series, which will be a sequel to Top Boy after the drama concluded in [ ]
+EXCLUSIVE: CBS NCIS: Origins Season 3 will see the return of Mark Harmon as Leroy Jethro Gibbs for a season-long arc beginning with the show s premiere on Tuesday, October 6 at 10 p.m. ET/PT, and we have first-look photos of his return above and below. In addition to the photos, showrunner and executive producer David [ ]
 
