@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="LTO-10 reads LTO-10 only — the backward compatibility break">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="62%" stop-color="#3B1060"/>
+      <stop offset="100%" stop-color="#7621B0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g font-family="Inter, Helvetica Neue, Arial, sans-serif">
+    <text x="80" y="122" fill="#C79BE8" font-size="27" font-weight="600" letter-spacing="5.5">LTO-10 COMPATIBILITY</text>
+
+    <text x="80" y="330" fill="#FFFFFF" font-size="188" font-weight="800" letter-spacing="-6">Reads LTO-10.</text>
+    <text x="80" y="418" fill="#E6B8FF" font-size="70" font-weight="700" letter-spacing="-1.5">And nothing older.</text>
+
+    <rect x="80" y="478" width="150" height="4" fill="#B600A8"/>
+
+    <text x="80" y="564" fill="#FFFFFF" font-size="35" font-weight="600">LTO-8 drive</text>
+    <text x="520" y="564" fill="#F0DCFF" font-size="35" font-weight="700">LTO-8, LTO-7</text>
+
+    <text x="80" y="622" fill="#FFFFFF" font-size="35" font-weight="600">LTO-9 drive</text>
+    <text x="520" y="622" fill="#F0DCFF" font-size="35" font-weight="700">LTO-9, LTO-8</text>
+
+    <text x="80" y="680" fill="#FFFFFF" font-size="35" font-weight="600">LTO-10 drive</text>
+    <text x="520" y="680" fill="#F0DCFF" font-size="35" font-weight="700">LTO-10</text>
+
+    <text x="80" y="762" fill="#C79BE8" font-size="31" font-weight="500">A different servo format, at 36 degrees.</text>
+  </g>
+</svg>
