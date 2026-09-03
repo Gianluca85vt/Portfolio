@@ -67,14 +67,35 @@ export default function AvatarBubble({ posts }: { posts: LatestPost[] }) {
         // `transform` on anything it animates, which would silently drop
         // Tailwind's -translate-x-1/2 and push the bubble off screen.
         //
-        // Narrow screens have no room beside the head, so it sits above the
-        // portrait and only moves to the side from sm up. Width is capped
-        // against the viewport so it can never overflow.
+        // It moves beside the head only from lg up. The portrait is a 16:9
+        // frame scaled off the viewport height, so on anything tall and narrow
+        // it is wider than the window — at 768px the video runs 1052px across
+        // and a bubble at 66% of it was cut off 40px past the right edge.
+        // Below lg it sits above the head instead, where width is capped
+        // against the viewport and it can never overflow.
+        //
+        // The side position is measured against the video rather than guessed.
+        // It used to sit at `left-full`, the right edge of the portrait, which
+        // was fine when that was a cropped PNG and absurd once it became a 16:9
+        // frame: the head only reaches 68% of the width, so the bubble floated
+        // four hundred pixels out in the black with nothing between.
+        //
+        // At mouth height the cheek ends between 63% and 65% depending on which
+        // way the head is turned, so 66% puts the tail just clear of it through
+        // the whole rotation. And it is pinned by its bottom, not its top,
+        // because the tail sits 12px above that edge — anchoring the bottom
+        // keeps the tail on the mouth however tall the headline makes the card.
+        //
+        // The value is measured rather than reasoned about. The containing
+        // block is 729px tall, and 22.6% of it puts the tail on the mouth at
+        // 71.6% of the height — checked with the entrance animation settled,
+        // because reading it mid-fade shifts everything by the 30px that
+        // animation is still travelling.
         <div
           key={post.slug}
           className="pointer-events-auto absolute z-30 w-[min(240px,74vw)]
             left-1/2 -translate-x-1/2 -top-6
-            sm:left-full sm:translate-x-0 sm:-ml-6 sm:top-[24%] sm:w-[248px]"
+            lg:left-[66%] lg:translate-x-0 lg:top-auto lg:bottom-[22.6%] lg:w-[248px]"
         >
           <motion.div
             initial={{ opacity: 0, y: 10 }}
@@ -82,11 +103,11 @@ export default function AvatarBubble({ posts }: { posts: LatestPost[] }) {
             exit={{ opacity: 0, y: 6 }}
             transition={{ duration: FADE_SECONDS, ease: [0.25, 0.1, 0.25, 1] }}
           >
-          <div className="relative rounded-2xl sm:rounded-bl-sm border border-[#D7E2EA]/25 bg-[#141018]/95 backdrop-blur-sm p-4 pr-9 shadow-[0_18px_40px_rgba(0,0,0,0.55)]">
+          <div className="relative rounded-2xl lg:rounded-bl-sm border border-[#D7E2EA]/25 bg-[#141018]/95 backdrop-blur-sm p-4 pr-9 shadow-[0_18px_40px_rgba(0,0,0,0.55)]">
             {/* tail pointing back at the avatar, only where it makes sense */}
             <span
               aria-hidden="true"
-              className="hidden sm:block absolute -left-[7px] bottom-3 w-3 h-3 rotate-45 border-l border-b border-[#D7E2EA]/25 bg-[#141018]"
+              className="hidden lg:block absolute -left-[7px] bottom-3 w-3 h-3 rotate-45 border-l border-b border-[#D7E2EA]/25 bg-[#141018]"
             />
 
             <button
