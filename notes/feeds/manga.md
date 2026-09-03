@@ -1,66 +1,66 @@
-# Manga — harvested 2026-09-03T09:11:17.564Z
+# Manga — harvested 2026-09-03T14:43:13.976Z
 
 ## Anime News Network
 
-### Magical Sisters Lulutto Lilly Anime Reveals More Cast, Returning Theme Song Artists, October 4 Debut for 2nd Part
-Thu, 03 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/magical-sisters-lulutto-lilly-anime-reveals-more-cast-returning-theme-song-artists-october-4-debut-/.241235
+### This Week in Anime - Paneling World
+Thu, 03 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-03/.241231
 
-Yusuke Shirai, Yūko Natsuyoshi join cast; K-pop girl group ILLIT, idol unit Lulutto Lilly perform theme songs
+Chris and Coop hold a post mortem at the end of the 2026 con season about what, precisely, makes for a good panel.
 
-### Concept Art Awards to Honor Yoshitaka Amano for Lifetime Achievement
-Thu, 03 Sep 2026 04:34:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/concept-art-awards-to-honor-yoshitaka-amano-for-lifetime-achievement/.241279
+### Rev. Noir Game's 2nd Trailer Previews Story, Combat
+Thu, 03 Sep 2026 09:56:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/rev-noir-game-2nd-trailer-previews-story-combat/.241309
 
-Amano will attend LightBox Expo convention for awards, as well as interview, signings
+Konami's game slated for PS5
 
-### Live-Action Bless Series Reveals New Video, Visuals
-Thu, 03 Sep 2026 04:23:18 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/live-action-bless-series-reveals-new-video-visuals/.241282
+### Final Fantasy Resonance Game Reveals Sephiroth, Demo
+Thu, 03 Sep 2026 09:40:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/final-fantasy-resonance-game-reveals-sephiroth-demo/.241307
 
-Series debuts on Amazon Prime Video exclusively worldwide in spring 2027
+HD-2D game launches for Switch 2, Switch, PS5, Xbox X|S, PC on October 22
 
-### Toworu Miyata's Aoharu Once More BL Manga Gets Light Anime
-Thu, 03 Sep 2026 03:58:07 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/toworu-miyata-aoharu-once-more-bl-manga-gets-light-anime/.241290
+### Monster Hunter Wilds: Ascendance Game Expansion's Trailer Introduces Gundoraja
+Thu, 03 Sep 2026 09:31:01 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/monster-hunter-wilds-ascendance-game-expansion-trailer-introduces-gundoraja/.241306
 
-3rd anime in BALLOON boys' love label
+Expansion launches in 2027
 
-### Live-Action The Silent Service Reveals New Series' Title, Summer 2027 Debut in Teaser Video
-Thu, 03 Sep 2026 03:39:26 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/live-action-the-silent-service-reveals-new-series-title-summer-2027-debut-in-teaser-video/.241291
+### Saga of Tanya the Evil II ‒ Episode 9
+Thu, 03 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/saga-of-tanya-the-evil-ii/episode-9/.241287
 
-New series titled <cite>Chinmoku no Kantai Mezame yo, New York</cite> to stream exclusively worldwide on Prime Video
+To quote Tanya, “If you’re nobody’s enemy, you’re also nobody's friend.”
 
-### Sekiro: No Defeat Anime Film's Clip Shows Wolf, Genichiro Ashina's Duel
-Thu, 03 Sep 2026 00:00:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/sekiro-no-defeat-anime-film-clip-shows-wolf-genichiro-ashina-duel/.241289
+### New Resident Evil Reboot Film Unveils Video Clip
+Thu, 03 Sep 2026 09:16:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/new-resident-evil-reboot-film-unveils-video-clip/.241305
 
-Anime debuts in Japanese theaters on September 4
+Austin Abrams stars as Bryan in film opening in N. America on September 18
 
-### Inuyasha Sketch Auctioned to Help African Kids Orphaned by AIDS
-Wed, 02 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-02/inuyasha-sketch-auctioned-to-help-african-kids-orphaned-by-aids/.241227
+### emaqi Adds Bloody Sugar Laughs at the Night, Misato Is a Little Too Strict with Her Pushover Boss, 6 More Manga
+Thu, 03 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/emaqi-adds-bloody-sugar-laughs-at-the-night-misato-is-a-little-too-strict-with-her-pushover-boss-6-/.241175
 
-Rumiko Takahashi's illustration sold for 1,833,000 yen (about US$11,440)
+Also licensed: <cite>The Witch's Soup</cite>, <cite>Thursdays with Furutto</cite>, <cite>CAT : The Heroic Warrior</cite>, more
 
-### Apothecary Diaries Novels Get Live-Action Series on Amazon Prime Globally in 2028
-Wed, 02 Sep 2026 23:52:21 -0400 — https://www.animenewsnetwork.com/news/2026-09-02/apothecary-diaries-novels-get-live-action-series-on-amazon-prime-globally-in-2028/.241285
+### Japanese Animation TV Ranking, August 17-23
+Thu, 03 Sep 2026 08:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/japanese-animation-tv-ranking-august-17-23/.241158
 
-Mana Ashida <i>(Pacific Rim, Mother)</i> stars
+<cite>From Old Country Bumpkin to Master Swordsman</cite> season 2 gets 2.6% rating
 
-### Nippon Sangoku Anime Gets Sequel
-Wed, 02 Sep 2026 23:21:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-02/nippon-sangoku-anime-gets-sequel/.241284
+### Clevatess Season 2 ‒ Episode 9
+Thu, 03 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/clevatess-season-2/episode-9/.241247
 
-Announcement video for sequel streamed
+It's wild how Alicia's semester final ended up being “Rescue a literal Pretty Pink Princess from a satanic hellworld prison while dressed in the skimpiest outfit imaginable and roundhouse-kicking evil puppet mobs to death,” but that's anime for you.
 
-### Oedo Fire Slayer Manga Goes on Hiatus Due to Artist's Illness
-Wed, 02 Sep 2026 23:09:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-02/oedo-fire-slayer-manga-goes-on-hiatus-due-to-artist-illness/.241280
+### The Ramparts of Ice Season 2 Anime Reveals Theme Song Artists
+Thu, 03 Sep 2026 07:41:34 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/the-ramparts-of-ice-season-2-anime-reveals-theme-song-artists/.241302
 
-Hiatus continues until at least September 10, with possible further delays to be announced later
+THE BEAT GARDEN performs opening song, Superfly performs ending song
 
-### Live-Action Please Save My Earth Series' Teaser Shows Glimpse of Mokuren
-Wed, 02 Sep 2026 23:02:26 -0400 — https://www.animenewsnetwork.com/news/2026-09-02/live-action-please-save-my-earth-series-teaser-shows-glimpse-of-mokuren/.241281
+### Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 15
+Thu, 03 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-15/.241286
 
-Series streams worldwide exclusively on Amazon Prime Video in fall 2027
+There is one major thing this Subaru lacks that his previous self had: experience.
 
-### Get Yu-Gi-Oh's Egyptian God Cards at Kazuki Takahashi Exhibition
-Wed, 02 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-02/get-yu-gi-oh-egyptian-god-cards-at-kazuki-takahashi-exhibition/.241236
+### Fungus and Iron TV Anime Reveals Director, Yokohama Animation Lab Animation Studio
+Thu, 03 Sep 2026 06:58:08 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/fungus-and-iron-tv-anime-reveals-director-yokohama-animation-lab-animation-studio/.241299
 
-Straight from the pages of the manga, but there's a catch
+<cite>The Beginning After The End</cite>, <cite>Date A Live</cite> anime's Keitarō Motonaga to direct series
 
 ## Crunchyroll News
 

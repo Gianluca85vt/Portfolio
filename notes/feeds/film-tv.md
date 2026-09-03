@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-09-03T09:11:17.564Z
+# Film & TV — harvested 2026-09-03T14:43:13.976Z
 
 ## Variety
 
-### France TV Distribution s Mystery Drama Our Missing Sons Set for Unifrance Rendez-Vous Market Debut
-Thu, 03 Sep 2026 09:01:31 +0000 — https://variety.com/2026/tv/global/france-tv-distributions-our-missing-sons-rendez-vous-le-hav-1236849213/
+### Technoblade Never Dies Documentary Film About Late Minecraft Creator in the Works With Funding From Riot Games and Hypixel Studios
+Thu, 03 Sep 2026 14:22:55 +0000 — https://variety.com/2026/film/news/technoblade-never-dies-documentary-minecraft-riot-games-1236850438/
 
-“Our Missing Sons,” a politically charged French mystery series inspired by true events, is making its international market debut at this year’s Unifrance Rendez-Vous in Le Havre ahead of its premiere at the Festival de la Fiction in La Rochelle. Directed by Safy Nebbou and sold internationally by France TV Distribution, “Our Missing Sons” is [ ]
+The life and legacy of Technoblade, the beloved and influential Minecraft creator who died in 2022, will be chronicled in a feature-length documentary film. Titled Technoblade Never Dies a catchphrase of the late California-based creator the project is being made with the full support and cooperation of Technoblade’s family. The film is being [ ]
 
-### Ena Sendijarevic’s Witch Hunt Drama’ ‘The Possessed’ Rounds Out Cast as Trio of Rising Stars Join Ariane Labed (EXCLUSIVE)
-Thu, 03 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/global/ena-sendijarevic-the-possessed-ariane-labed-cast-1236849650/
+### Dave Bautista Shows Off Body Transformation to Play Kratos in God of War Series: Two More Months to Get to Where I Need to Be
+Thu, 03 Sep 2026 14:08:45 +0000 — https://variety.com/2026/tv/news/dave-bautista-god-of-war-kratos-body-transformation-1236850444/
 
-“The Possessed,” the third feature by Bosnian-Dutch writer/director Ena Sendijarević, has completed casting as the film moves toward principal photography, with a trio of hot talents boarding the project. Suzy Bemba, Khalil Gharbia and Ji-Min Park, whose credits span the spectrum from festival favorites to prestige television and commercial English-language projects, have signed on to [ ]
+Dave Bautista is back in the gym and showing off his muscle gains to play the super-strong Greek hero Kratos in the upcoming adaptation of the God of War video game. The actor shared a video of himself flexing in the gym and revealed that he s three weeks into his weight training regime, with two [ ]
 
-### See-Saw Films Taps Fifth Season s Ben Irving for Joint Managing Director Role as Helen Gregory Steps Down From Slow Horses Banner
-Thu, 03 Sep 2026 09:00:00 +0000 — https://variety.com/2026/tv/global/see-saw-films-hires-ben-irving-helen-gregory-steps-down-1236850049/
+### Asian Male Pageantry Gets Unscripted Competition Series Based on Microdrama-Turned-Feature Franchise Rags 2 Richmond (EXCLUSIVE)
+Thu, 03 Sep 2026 14:00:00 +0000 — https://variety.com/2026/global/markets-festivals/asian-male-pageantry-rags-2-richmond-competition-series-1236849430/
 
-See-Saw Films, the multi-award winning Brit TV and film banner behind Slow Horses and upcoming Apple original feature Tenzing, has hired Ben Irving as managing director. Irving joins from Fifth Season, where he is currently creative director of international scripted, and replaces Helen Gregory, who leaves See-Saw after five years helping shape the TV output [ ]
+Viral Nation and Media Trifecta have teamed up to develop an unscripted competition series built around Octagon Metatainment s Rags 2 Richmond franchise. Buyers will get their first look at the series at the Access Canada Summit, held as part of the Toronto Film Festival s inaugural market. The series translates the world of Asian male pageantry [ ]
 
-### Elina Psykou s Patrimonial Fears and Other Illusions Casts Veteran Trio Ahead of Venice Gap-Financing Market (EXCLUSIVE)
-Thu, 03 Sep 2026 08:42:10 +0000 — https://variety.com/2026/film/global/elina-psykou-patrimonial-fears-and-other-illusions-venice-1236838033/
+### B.B. King Documentary in the Works From Musician s Estate and Winter State Entertainment (EXCLUSIVE)
+Thu, 03 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/news/b-b-king-documentary-from-estate-1236849778/
 
-Greek filmmaker Elina Psykou (“Stray Bodies”) has attached a trio of Hellenic heavyweights to the cast of “Patrimonial Fears and Other Illusions,” which will head to the Venice Gap-Financing Market taking place from Sept. 4 – 6. A portrait of intergenerational trauma set against a famous magician’s visit to Athens, the film has bolstered its [ ]
+The B.B. King Music Company and the legendary blues musician’s estate have announced the development of a new feature documentary celebrating his life, music, influence and legacy. The documentary is currently in development, with additional announcements regarding the creative team, production, distribution and release plans to follow. The documentary is expected to explore King s journey [ ]
 
-### Tallinn Black Nights Festival Sets Focus on Baltic Cinema for 30th Anniversary Special Edition (EXCLUSIVE)
-Thu, 03 Sep 2026 07:04:32 +0000 — https://variety.com/2026/film/global/tallinn-black-nights-festival-baltics-focus-30th-anni-1236850017/
+### SCAD AnimationFest 2026 Lineup Revealed: Variety’s 10 Animators to Watch, ‘Forgotten Island’ Premiere and ‘The Proud Family’ Tribute
+Thu, 03 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/awards/scad-animationfest-2026-lineup-1236849942/
 
-To celebrate its 30th anniversary, the Tallinn Black Nights Film Festival (also known as PÖFF), the largest and only A-list festival in the Baltics, is turning the spotlight on Baltic Cinema, with the backing from the Estonian Film Institute, National Film Centre of Latvia and Lithuanian Film Centre. “Baltic cinema has always been an essential [ ]
+The Savannah College of Art and Design will bring SCAD AnimationFest back to SCAD Atlanta Sept. 23-25, staging three days of premieres, sneak peeks and industry conversation at the university’s SCADshow theater. The anniversary program will be leaning on two marquee tributes: a 25th-anniversary celebration of “The Proud Family,” honoring executive producers Bruce W. Smith [ ]
 
-### Theo James Steps Into His Michael Corleone Era for a Darker, More Sinister The Gentlemen Season 2: TV Review
-Thu, 03 Sep 2026 07:01:00 +0000 — https://variety.com/2026/tv/reviews/the-gentlemen-season-2-review-netflix-1236842633/
+### Federico Borgia’s Dark Comedy ‘Prince’ Boarded by Alpha Violet Ahead of London Film Festival World Premiere (EXCLUSIVE)
+Thu, 03 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/global/federico-borgia-prince-alpha-violet-london-film-festival-1236850053/
 
-It’s been two and a half years since Guy Ritchie ushered viewers into the dazzling, violent criminal underworld of his Netflix series “The Gentlemen.” Now, in an even darker and more volatile second season, audiences are reentering this world, with a very different Eddie (an exceptional Theo James) at the center. Engaging, devastating and thoroughly [ ]
+Paris-based sales agency Alpha Violet has acquired international sales rights to “Prince,” the darkly funny feature from Uruguayan filmmaker Federico Borgia, ahead of its world premiere at the 70th BFI London Film Festival this October. Set against the decaying seaside luxury of Punta del Este in Uruguay, “Prince” explores class divisions, grief and domestic absurdity. [ ]
 
-### Chad Powers Season 2 Ending: Who Knows the Truth About Russ Holliday and What Happened to Gerry?
-Thu, 03 Sep 2026 07:01:00 +0000 — https://variety.com/2026/tv/news/chad-powers-season-2-ending-explained-1236848716/
+### Nippon TV, TBS and BEAJ to Lead Tokyo Market Conferences
+Thu, 03 Sep 2026 13:54:26 +0000 — https://variety.com/2026/tv/markets-festivals/nippon-tv-tbs-beaj-tokyo-market-conferences-1236850437/
 
-SPOILER ALERT: This story contains spoilers for “12th Quarter,” the Season 2 finale of “Chad Powers,” now streaming on Disney + and Hulu. It sure is tough being Chad Powers. Infamous quarterback Russ Holliday (Glen Powell) knows this well. But he’s not going to let anything stop him from continuing his double life as the [ ]
+Tokyo s TIFFCOM market has unveiled the first wave of its newly rebranded conference program, with Nippon Television Network Corp., Tokyo Broadcasting System Holdings and the Broadcast Program Export Association of Japan (BEAJ) headlining three sessions at the Oct. 28-30 market in Tokyo. Visitor registration is running roughly 20% ahead of where it stood at this [ ]
 
-### Warner Music India Unveils Season 2 of Folk Music Franchise Maati (EXCLUSIVE)
-Thu, 03 Sep 2026 07:00:00 +0000 — https://variety.com/2026/music/news/warner-music-india-maati-season-2-1236849988/
+### NBC News 9/11 Coverage Includes Special Broadcasts of Dateline, Today
+Thu, 03 Sep 2026 13:45:00 +0000 — https://variety.com/2026/tv/news/nbc-news-9-11-coverage-speicals-dateline-today-1236850406/
 
-Warner Music India has launched season two of Maati, its folk music franchise, opening on Sept. 3 with the Sufi qawwali Jalwa-e-Jaanaan as the eight-track season begins rolling out across eight languages. Anurag Saikia composed the music for the first track, which features vocals by Jyoti Nooran and lyrics by Shakeel Azmi. This qawwali is [ ]
+NBC News will present never-before-seen footage from its coverage of 9/11 in a documentary on Dateline as part of its commemmoration of the 25th anniversary of the terrorist attacks on that date. The NBCUniversal-backed news division will present special coverage across next week on Today, NBC Nightly News, Dateline, Meet the Press, NBC News Now [ ]
 
-### ‘Anatomy of a Portrait’ Profiles Fernanda Wittgens, Italy s First Female Museum Director and an Anti-Fascist Activist
-Thu, 03 Sep 2026 06:53:29 +0000 — https://variety.com/2026/film/global/anatomy-of-a-portrait-fernanda-wittgens-venice-festival-1236846546/
+### Busan-Bound Khoriya Leads Future East s 2026-27 Slate (EXCLUSIVE)
+Thu, 03 Sep 2026 13:35:14 +0000 — https://variety.com/2026/film/news/busan-khoriya-future-east-2026-27-slate-1236850420/
 
-“Anatomy of a Portrait” (“Anatomia di un Ritratto”) will have its world premiere in the Venetian Nights program of Venice Days on Sept. 4. Directed by Francesco Clerici (“Hand Gestures”) and Mattia Colombo (“Trees That Walk,” “I Wanna Sleep With You”), the documentary pieces together the story of Fernanda Wittgens, Italy’s first female museum director. [ ]
+Vishwendra Singh s debut feature Khoriya, bound for the Busan International Film Festival, leads Future East Film s 2026-27 slate, which also includes Ashim Ahluwalia s Unidentified Actress, Rayit Hashmat Qazi s Sawdust and the India-Italy co-production Heroic Frenzies. Ahluwalia s Unidentified Actress, an India-U.K.-Germany co-production now shooting, centers on a documentary filmmaker tracking down a movie star who vanished [ ]
 
-### Oscars: Romania Selects Cannes Winner Fjord for International Feature Race
-Thu, 03 Sep 2026 06:30:07 +0000 — https://variety.com/2026/film/global/oscars-romania-fjord-1236850007/
+### Miley Cyrus Drops Last Name, Prompting Dad Billy Ray to Publicly Defend the Change: Family Means More than Ever Now
+Thu, 03 Sep 2026 13:30:45 +0000 — https://variety.com/2026/music/news/miley-cyrus-drops-last-name-bill-ray-defends-change-1236850399/
 
-“Fjord,” written and directed by Cristian Mungiu, is Romania’s submission for the 2027 Oscars in the best international feature film category, having been unanimously chosen by the country s selection committee. The film premiered in the official competition at the Cannes Film Festival, where it won the Palme d’Or for best film, the FIPRESCI Prize, the [ ]
+Miley Cyrus has dropped her last name in the lead up to her tenth studio album, Bass Persuades, prompting her father, Billy Ray Cyrus, to speak out on X in defense of the decision. Miley s announcement fueled the rumor mill about alleged ongoing tensions between the pop star and her father (see The Daily Beast [ ]
 
 ## The Hollywood Reporter
 
-### Eklipse Mixes the Autobiographical and Fictional to Explore AIDS Taboos and Fear of Social Exclusion
-Thu, 03 Sep 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/venice-2026-eklipse-film-aids-taboos-manuel-wetscher-qa-1236679603/
+### Bobby Bones Built a Radio Empire. Netflix Is His New Frontier
+Thu, 03 Sep 2026 14:38:24 +0000 — https://www.hollywoodreporter.com/business/digital/bobby-bones-netflix-1236689550/
 
-Manuel Wetscher discusses his Venice-premiering feature directorial debut about a boy whose father is in hospital with "the gay disease" and his team's focus on giving audiences a really sensory experience.
+Bolstered by a multimillion-dollar deal, the country music host (and 'DWTS' winner) is pioneering the streamer’s expansion in video podcasting.
 
-### Four Seasons Launches Refresh of Hotel Danieli
-Thu, 03 Sep 2026 08:10:06 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/venice-italy-hotels-danieli-palazzo-four-seasons-property-1236660599/
+### Exorcism Comedy Omi First Look: Late Bunny Levine s Final Onscreen Performance, Love Story Star Dree Hemingway (Exclusive)
+Thu, 03 Sep 2026 14:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/omi-first-look-bunny-levine-final-role-dree-hemingway-1236689178/
 
-Built in 1471 and converted into a hospitality destination in 1822, Danieli is always a hub of activity during the film festival: "We are inaugurating a new chapter in the history of this celebrated palazzo."
+Levine, who died at 97 last month, stars as the title character in the Jewish supernatural comedy.
 
-### Queer Edward II Takes Us Behind the Scenes of Derek Jarman s Film Shoot and a Political Backlash (Exclusive Venice Clip)
-Thu, 03 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/queer-edward-ii-film-clip-derek-jarman-doc-venice-2026-1236684151/
+### Chris Langham, BAFTA-Winning The Thick of It Actor Convicted of Child Sex Offences, Dies at 77
+Thu, 03 Sep 2026 14:04:06 +0000 — https://www.hollywoodreporter.com/news/general-news/chris-langham-dead-dies-bafta-thick-of-it-child-sex-images-1236689527/
 
-Tilda Swinton and Sandy Powell are EPs on Theo Rollason's directorial feature debut, premiering at Venice: "I hope the film can function not simply as a snapshot of a historical moment, but as a reminder of what collective resistance can look like – and what role art has to play."
+Langham was best known for his role as cabinet minister Hugh Abbot opposite Peter Capaldi in Armando Iannucci's satirical comedy, before his reputation soured on child sex abuse charges.
 
-### Oscars: Romania Picks Cannes Winner Fjord as Best International Feature Contender
-Thu, 03 Sep 2026 05:32:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-romania-fjord-renate-reinsve-sebastian-stan-1236689238/
+### MS NOW Doubles Down on Crooked Media, Adding Lovett or Leave It to Weekend Lineup (Exclusive)
+Thu, 03 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/ms-now-adds-lovett-or-leave-it-to-weekend-saturday-lineup-1236688108/
 
-Renate Reinsve and Sebastian Stan star in Cristian Mungiu‘s Palme d'Or winner as two strictly religious Romanian parents who relocate to a small Norwegian village and find themselves accused of child abuse,
+Jon Lovett's show will follow a block of other Crooked Media shows on Saturday nights.
 
-### Frank Marshall and Nigel Sinclair Reveal and Discuss Their New Doc Pete Townshend: Behind Blue Eyes (Exclusive)
-Thu, 03 Sep 2026 04:58:12 +0000 — https://www.hollywoodreporter.com/movies/movie-news/frank-marshall-nigel-sinclair-pete-townshend-behind-blue-eyes-1236687818/
+### Tom Hardy Is Officially Returning to MobLand With Season 3 Renewal
+Thu, 03 Sep 2026 13:24:04 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tom-hardy-not-fired-mobland-season-3-renewed-1236689516/
 
-The film, with which the legendary singer/songwriter of The Who cooperated, focuses on 'Lifehouse,' an unfinished science fiction rock opera that was intended as a follow-up to 'Tommy.'
+"The Harrigans aren't going anywhere," Paramount+ announced.
 
-### Oscar Predictions via Feinberg Forecast: Scott s First Read of the Race
-Thu, 03 Sep 2026 04:10:21 +0000 — https://www.hollywoodreporter.com/lists/oscar-predictions-2027-scott-feinberg-first-forecast/
+### Norah O Donnell Returns to CBS Mornings in Latest Network Shake Up
+Thu, 03 Sep 2026 13:23:10 +0000 — https://www.hollywoodreporter.com/tv/tv-news/norah-odonnell-returns-cbs-mornings-anchor-1236689510/
 
-The Hollywood Reporter's executive editor of awards coverage assesses all 24 Academy Awards categories.
+O'Donnell will join Gayle King and Nate Burleson on the network morning show, in addition to her expanded role at '60 Minutes.'
 
-### Ted Lasso Season Hits the Halfway Mark With Heartbreak All Around
-Thu, 03 Sep 2026 01:57:58 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-season-four-halfway-mark-heartbreak-all-around-1236689129/
+### Hollywood Veterans Launch aTwist Microdrama Platform With Horror, Comedy and Animated Series
+Thu, 03 Sep 2026 13:05:00 +0000 — https://www.hollywoodreporter.com/business/digital/hollywood-veterans-atwist-microdrama-platform-1236688362/
 
-Rebecca, Keeley and the Lady Greyhounds all take a hit in "Riches of Embarrassment" — but Coach Lasso still finds a silver lining.
+The new app from Jana Winograde, Susan Rovner and Lloyd Braun is rolling out with an initial slate of 10 shows including a spoof of verticals and an unscripted show about a Vegas spending spree.
 
-### Jennifer Aniston Joins Boyfriend Jim Curtis For Chat About Health, Wellness and Hypnotherapy
-Thu, 03 Sep 2026 01:40:59 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/jennifer-aniston-boyfriend-jim-curtis-wellness-hypnotherapy-1236689024/
+### The Fix Is Not In: Can Sports Gambling’s Trust Crisis Be Solved?
+Thu, 03 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/sports-gambling-trust-crisis-solution-1236666103/
 
-The couple, who have been dating for over a year, took part in a 92NY event in support of Curtis' new book 'The Book of Possibility.'
+If the outcomes of games are called into question, the whole system falls apart: “The nightmare scenario for the leagues is that people see professional sports as professional wrestling.”
 
-### Lego Just Created Its First-Ever Batman Returns Batmobile
-Thu, 03 Sep 2026 01:15:53 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/lego-batmobile-batman-returns-sept-2026-release-price-buy-1236688266/
+### Inside Robert Pattinson s Eerie Chris Hansen Transformation in Primetime : A Reconfigured Egregore
+Thu, 03 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/primetime-exclusive-robert-pattinson-lance-oppenheim-1236689031/
 
-The new set is part of a series of Batman releases celebrating the 20th anniversary of Lego Batman sets.
+The actor goes in-depth on the hot-button A24 film for the first time, alongside director Lance Oppenheim: “Every day Rob would come in and would do something that felt like he was almost jumping off a cliff.”
 
-### Sony Dates Indian Epic ‘Ramayana’ For November
-Thu, 03 Sep 2026 01:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sony-dates-indian-epic-ramayana-1236688963/
+### Werner Herzog Reveals Touching Reason Behind Bucking Fastard Dedication to David Lynch Ahead of Venice Premiere
+Thu, 03 Sep 2026 12:29:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/werner-herzog-kate-rooney-mara-bucking-fastard-venice-lynch-1236689310/
 
-The adaptation of the epic poem is from filmmaker Nitesh Tiwari.
+Kate and Rooney Mara, who play sisters with a deep and spooky bond in the German's new film, joined the director for a press conference with co-stars Domhnall Gleeson and Orlando Bloom.
 
 ## Deadline
 
-### Goalhanger Wants To Make The British Bourne With Geopolitical Audio Drama Bear Hunt
-Thu, 03 Sep 2026 09:02:46 +0000 — https://deadline.com/2026/09/goalhanger-audio-drama-bear-hunt-launches-1237066584/
+### Oscar Winner Michel Hazanavicius Wraps ‘The Third Hand’ With Goodfellas Launching Sales At TIFF + First Image
+Thu, 03 Sep 2026 14:34:26 +0000 — https://deadline.com/2026/09/michel-hazanavicius-wraps-third-hand-goodfellas-1237066764/
 
-EXCLUSIVE: The Rest is Entertainment maker Goalhanger is behind an audio drama series that it is billing as the British Bourne. Bear Hunt is the first release from Goalhanger Drama, a new scripted unit for Gary Lineker, Tony Pastor and Jack Davenport s UK-based media business that launches today. The ten-part series follows a fictional mission [ ]
+EXCLUSIVE: Goodfellas has boarded sales on Academy Award-winning French director Michel Hazanavicius’ upcoming film The Third Hand for a TIFF launch as the production wraps and revealed a first image (see below) Billed as a “fantastique”, silent film in color, the movie sees Hazanavicius return to the silent genre for a second time after black and white film The Artist, set against [ ]
 
-### Slow Horses Maker See-Saw Films Hires Fifth Season s Ben Irving; Helen Gregory Stepping Down
-Thu, 03 Sep 2026 09:00:00 +0000 — https://deadline.com/2026/09/see-saw-films-hires-fifth-season-exec-helen-gregory-exiting-1237066575/
+### Norah O Donnell Returns To CBS Mornings
+Thu, 03 Sep 2026 14:16:40 +0000 — https://deadline.com/2026/09/norah-odonnell-to-co-host-cbs-mornings-1237066744/
 
-Slow Horses producer See-Saw Films has hired Fifth Season s Ben Irving, with Helen Gregory exiting after five years. Irving has been appointed Joint Managing Director, working alongside Simon Gillis, who holds the same post. There s currently no word on Gregory s next role, but she is explring the next step of her career and said she [ ]
+Norah O’Donnell is returning to the network flagship CBS Mornings as co-host with Gayle King and Nate Burleson starting next Tuesday, Sept. 8 The senior correspondent had hosted the program from 2012 to 2019 before moving to CBS Evening News through 2024. She was recently named a correspondent on 60 Minutes as news chief Bari [ ]
 
-### The Gentlemen Star Theo James On Megan Markle Casting, Guy Ritchie s Process Reticence Over Italy Storyline
-Thu, 03 Sep 2026 08:37:06 +0000 — https://deadline.com/2026/09/the-gentlemen-theo-james-season-2-netflix-interview-1237065348/
+### Chris Langham Dies: BAFTA-Winning The Thick Of It Star Child Sex Offender Was 77
+Thu, 03 Sep 2026 13:52:13 +0000 — https://deadline.com/2026/09/chris-langham-dead-the-thick-of-it-star-child-sex-offender-1237066738/
 
-He may play a Duke in The Gentlemen, but Theo James isn t convinced he ll be acting opposite a Duchess in Season 3. Asked by Deadline whether the Duchess of Sussex, Meghan Markle, had been cast in the recently-confirmed third season of the Netflix show, he responded with a joke and wry smile, saying Prince Harry? [ ]
+Chris Langham, the BAFTA-winning actor whose career was effectively ended after he was found guilty of downloading child abuse images, has died. He was 77. Langham s death was announced in an obituary in The Times of London. The newspaper reported that the actor, who is survived by five children, died in June of pancreatic cancer. [ ]
 
-### Non-Linear New Zealand Crime Drama Alibi Heading To MIPCOM With Yes Studios
-Thu, 03 Sep 2026 06:22:54 +0000 — https://deadline.com/2026/09/alibi-new-zealand-crime-drama-yes-studios-mipcom-cannes-1237065268/
+### Venice Film Festival 2026: Read All Of Deadline’s Reviews
+Thu, 03 Sep 2026 13:50:00 +0000 — https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/
 
-EXCLUSIVE: An unusual short-form scripted format from New Zealand is headed to MIPCOM with Israel s Yes Studios. Alibi is a seven-part, 15-minutes per episode crime series in which the same story is told from multiple perspectives. Produced by Plus6Four Entertainment for pubcaster TVNZ, it is set in the fictional town of Awatahi in New Zealand, [ ]
+The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle s Ink starring Jack O’Connell, Guy Pearce and Claire Foy kicking off an 83rd edition that includes films starring the likes of Robert Pattinson, Penelope Cruz Javier Bardem, Jack Huston Sofia Boutella, Dakota Johnson, John [ ]
 
-### Art Sex Music : First Look At Caroline Catz s Doc About British Artist Musician Cosey Fanni Tutti
-Thu, 03 Sep 2026 05:52:44 +0000 — https://deadline.com/2026/09/art-sex-music-caroline-catz-doc-cosey-fanni-tutti-1237065453/
+### Rebecca Ferguson Greta Lee Confirmed For Romance Honeymoon / Funeral , Details Revealed For MRC Movie
+Thu, 03 Sep 2026 13:35:40 +0000 — https://deadline.com/2026/09/rebecca-ferguson-greta-lee-cast-romance-honeymoon-funeral-1237066741/
 
-EXCLUSIVE: Here are the first stills from Art Sex Music, a feature documentary directed by Caroline Catz and produced by Andy Starke (Free Fire, Kill List). The doc, which has just wrapped, is based on artist, musician and author Cosey Fanni Tutti’s bestselling memoir of the same name and explores her work as an uncompromising cultural pioneer [ ]
+Rebecca Ferguson and Greta Lee are confirmed for romantic-comedy Honeymoon / Funeral, we can reveal. The project has been filming in London in recent weeks sparking media speculation. MRC is financing and overseeing production on the movie from director Nahnatchka Khan and screenwriter Julia Bicknell. FilmNation is launching sales ahead of the TIFF market. Ferguson [ ]
 
-### Sony Sets Release Date For Indian Epic Ramayana With Ranbir Kapoor, Yash Sai Pallavi
-Thu, 03 Sep 2026 05:35:22 +0000 — https://deadline.com/2026/09/ramayana-release-date-sony-november-ranbir-kapoor-yash-1237066545/
+### MobLand Renewed For Season 3 With Tom Hardy Returning Alongside Helen Mirren Pierce Brosnan
+Thu, 03 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/mobland-renewed-season-3-tom-hardy-mirren-brosnan-1237066505/
 
-Sony has set a November 6 global release date for fantasy action-adventure saga Ramayana, starring Ranbir Kapoor, Yash, and Sai Pallavi. Ramayana is planned as a two-part movie event based on the 5,000-year-old saga. The synopsis reads: An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a [ ]
+It s official Paramount+ has renewed MobLand for a third season ahead of crime drama s Season 2 premiere on Sept. 18. Also confirmed is the return of Tom Hardy as the Harrigan family s loyal fixer Harry da Souza alongside Pierce Brosnan and Helen Mirren as the crime family s patriarch and matriarch Conrad and Maeve Harrigan. [ ]
 
-### Heidi Klum Returning To America s Got Talent Amid Simon Cowell s Absence
-Thu, 03 Sep 2026 03:21:30 +0000 — https://deadline.com/2026/09/heidi-klum-returning-americas-got-talent-simon-cowell-1237066480/
+### Wild Horse Nine Canters Into The Awards Race With John Malkovich Leading The Charge Venice Film Festival
+Thu, 03 Sep 2026 12:36:59 +0000 — https://deadline.com/2026/09/wild-horse-nine-john-malkovich-awards-race-venice-1237066662/
 
-As Simon Cowell continues to recover from back surgery, another America s Got Talent alum is returning to the judges table. On Wednesday’s episode of the NBC reality competition series, it was announced that Heidi Klum will fill in for Cowell next week during a special three-hour broadcast of the Season 21 quarterfinals. Klum served as [ ]
+Martin McDonagh‘s Wild Horse Nine launched on the Lido this morning with the filmmakers and cast getting a rapturous welcome at the press conference following this morning s press screenings. Venice pressers tend to fall on the warm/adulating side but this was clearly a film with plenty of admirers. Director McDonagh, and actors John Malkovich, Sam [ ]
 
-### Nicholas Todisco Brad Pence Exiting Atlas Artists
-Thu, 03 Sep 2026 03:01:28 +0000 — https://deadline.com/2026/09/atlas-artists-nicholas-todisco-brad-pence-exit-management-co-1237066465/
+### Nicola Coughlan, Luke Evans Hugh Bonneville Are Speaking Out Against AI Voice Cloning, But Is The Government Listening?
+Thu, 03 Sep 2026 12:35:35 +0000 — https://deadline.com/2026/09/nicola-coughlan-save-our-voices-now-campaign-ai-1237066698/
 
-EXCLUSIVE: Nicholas Todisco and Brad Pence, a pair of partners at L.A.-based management company Atlas Artists, are exiting the company, Deadline has learned. Notable actor clients for the duo include Hannah Waddingham, the Emmy-winning Ted Lasso star, and Connor Storrie, who is fast on the rise amid his work on the breakout Crave/HBO Max series Heated Rivalry. Sources [ ]
+Welcome to Rendering, a Deadline column reporting at the intersection of AI and showbiz. Rendering examines how artificial intelligence is disrupting the entertainment industry, taking you inside key battlegrounds and spotlighting change-makers wielding the technology for good and ill. Got a story about AI? Rendering wants to hear from you: jkanter@deadline.com. Michael Caine has handed over his voice to AI. Liza [ ]
 
-### Trump s DOJ Skewered By NYT For Backing OpenAI Trillion-Dollar AI Companies In Copyright Suit Featuring Media Heavyweights Star-Studded Scribes
-Thu, 03 Sep 2026 01:29:00 +0000 — https://deadline.com/2026/09/new-york-times-justice-department-openai-1237066310/
+### Werner Herzog Reveals Orlando Bloom Was Upset On Set Of ‘Bucking Fastard’ After They Captured His Scene In One Take Venice
+Thu, 03 Sep 2026 12:15:06 +0000 — https://deadline.com/2026/09/werner-herzog-orlando-bloom-upset-bucking-fastard-1237066700/
 
-Donald Trump told GOP congressional candidates visiting the White House on Wednesday evening that the media has gained respect for us, they cannot believe what we ve done. The New York Times might beg to differ, at least when it comes to artificial intelligence. Almost a day after the Justice Department filed paperwork in federal court backing [ ]
+Oscar-nominated German director Werner Herzog sat down at the Venice Film Festival on Thursday with Golden Lion contender Bucking Fastard, in the company of its stars Kate and Rooney Mara and supporting cast members Domhnall Gleeson and Orlando Bloom. The Maras play Jean and Joan Holbrooke, two real-life sisters who were so close that they [ ]
 
-### Google Won t Have To Break Up Its Ad Business, Judge Rules, Though It Will Have To Change Its Ways
-Wed, 02 Sep 2026 23:53:59 +0000 — https://deadline.com/2026/09/google-advertising-business-federal-judge-1237066345/
+### Gloria Steinem Dies: Feminist Icon And Activist Co-Founder Of Ms. Magazine Was 92
+Thu, 03 Sep 2026 11:27:23 +0000 — https://deadline.com/2026/09/gloria-steinem-dead-feminist-icon-was-92-1237066676/
 
-Google will not have to break up its advertising operations, a federal judge has ruled, though it will have to alter its business practices. Leonie M. Brinkema, U.S. District Judge of the Eastern District of Virginia, handed down her decision Wednesday. The ruling, which remains under seal, comes after Brinkema concluded last year that the [ ]
+Gloria Steinem, the American feminist icon and founder of Ms. magazine, died Wednesday, September 2, at her home in New York City. She was 92. Her death was announced in a joint post on her Instagram account and The Gloria Steinem Foundation. A cause of death was not disclosed, but the statement said she passed [ ]
 
-### David Zayas Returning For Dexter: Resurrection Season 2 — Is Batista Alive?
-Wed, 02 Sep 2026 23:48:48 +0000 — https://deadline.com/2026/09/david-zayas-cast-dexter-resurrection-season-2-1237066181/
+### ‘The Girl With The Leica’ Review: Love Is War In Alina Marazzi’s Unconventional Biopic Of A Pioneering War Photographer – Venice Film Festival
+Thu, 03 Sep 2026 11:07:06 +0000 — https://deadline.com/2026/09/the-girl-with-the-leica-review-alina-marazzi-biopic-1237064293/
 
-Dexter star David Zayas is returning to his fan-favorite role of Angel Batista for the second season of Showtime s Dexter: Resurrection, sources confirm to Deadline. Zayas was spotted shooting alongside series lead Michael C. Hall as the titular Dexter Morgan earlier Wednesday in Times Square — not the best place to shoot if you re trying [ ]
+The Venice Film Festival opened this week with Danny Boyle’s Ink, which, while not strictly a documentary, deals with fundamental issues of truth in news reporting — is the news we consume always true, and is the truth necessarily always news? Alina Marazzi’s The Girl With the Leica, a jazzed-up, unconventional biopic of the late [ ]
 
-### ‘Marshals’: Kayce Dutton Is A “Chaos Magnet” In Season 2 With Explosive New Trailer For ‘Yellowstone’ Spinoff
-Wed, 02 Sep 2026 23:38:38 +0000 — https://deadline.com/2026/09/marshals-season-2-trailer-yellowstone-spinoff-luke-grimes-1237066349/
+### Amelia Dimoldenberg s Hit YouTube Series Chicken Shop Date To End After 12-Year Run
+Thu, 03 Sep 2026 10:49:24 +0000 — https://deadline.com/2026/09/amelia-dimoldenbergs-youtube-chicken-shop-date-to-end-1237066634/
 
-Marshals is back with more explosions, missing children and rural romances. CBS on Wednesday unveiled the first trailer for Season 2 of the CBS procedural, which stars Luke Grimes as Kayce Dutton, who ends the clip climbing a moving train with a big gun, obviously. The clip answered a number of questions that arose from [ ]
+Amelia Dimoldenberg, the creator behind Chicken Shop Date, has announced that she is bringing the hit YouTube interview series to a close after a “final few dates”. The online creator, who began the series as a column at the age of 17 and has since interviewed talent such as Billie Eilish, Andrew Garfield and Paul McCartney, [ ]
 

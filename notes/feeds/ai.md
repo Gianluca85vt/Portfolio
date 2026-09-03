@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-03T09:11:17.564Z
+# AI — harvested 2026-09-03T14:43:13.976Z
 
 ## OpenAI
 
@@ -12,17 +12,16 @@ Tue, 01 Sep 2026 17:00:00 GMT — https://openai.com/index/ai-native-company-wor
 
 Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.
 
-### Path to Astra: critical capabilities and frontier safeguards
-Tue, 01 Sep 2026 13:00:00 GMT — https://openai.com/index/path-to-astra
-
-Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.
-
-### Healthcare organizations can now connect EHR and additional industry data to ChatGPT
-Tue, 01 Sep 2026 12:00:00 GMT — https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources
-
-ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.
-
 ## Hugging Face
+
+### NeoMME: an efficient Multimodal-native and Multilingual Encoder
+Thu, 03 Sep 2026 13:13:48 GMT — https://huggingface.co/blog/Hcompany/neomme
+
+### Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps
+Thu, 03 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/grpo-with-trl-ifstruct
+
+### Give Your Coding Agents a Memory You Own
+Thu, 03 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/funes
 
 ### Training a coding model to paint watercolours with TRL and OpenEnv
 Thu, 03 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/train-to-paint-with-code

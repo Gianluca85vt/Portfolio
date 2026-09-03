@@ -1,68 +1,83 @@
-# Games — harvested 2026-09-03T09:11:17.564Z
+# Games — harvested 2026-09-03T14:43:13.976Z
 
 ## Eurogamer
 
-### Planet Coaster and Jurassic World developer Frontier partners with Disney for a new video game
-Thu, 03 Sep 2026 08:53:53 +0000 — https://www.eurogamer.net/frontier-disney-new-video-game-planet-coaster-jurassic-world
+### Final Fantasy Resonance is somehow even better than all those beautiful trailers make it look
+Thu, 03 Sep 2026 14:30:27 +0000 — https://www.eurogamer.net/final-fantasy-resonance-hands-on-preview-even-better-than-it-looks
 
-Frontier Developments - the developer behind Planet Coaster and Jurassic World - has announced a partnership with Disney. As part of this collaboration, a new Disney game is in production. Read more
+Let me paint you a picture. It's the second day of Gamescom 2026, everyone is hot and sweaty, the schedule is rapidly deteriorating as previews run late, interviewees go over their allotted times, and dashing from booth to booth adds minutes onto every single journey. I get to the Square Enix booth, only to find that - thanks to some sort of communications snafu en route - my name is not down for the slot I had carved out to play Final Fantasy Resonance. "Don't worry," says a smiling PR trying to keep it together, "you can play on Switch 2 if you don't mind standing up?" Read more
 
-### Following Nintendo's example, Sony and Microsoft argue they have no obligation to pass tariff refunds onto customers
-Thu, 03 Sep 2026 08:16:40 +0000 — https://www.eurogamer.net/sony-microsoft-no-refunds-us-tariff-lawsuits
+### Until Dawn 2's sun-kissed horror gets a PS5 release date - and the studio behind last year's brilliant Dispatch is involved
+Thu, 03 Sep 2026 14:10:39 +0000 — https://www.eurogamer.net/until-dawn-2-release-date-pre-order-details
 
-Lawyers representing Sony and Microsoft have argued, in two separate lawsuits, that the platform holders are not obligated to pass tariff refunds back to consumers. Sony and Microsoft have had to raise prices of their PlayStation and Xbox consoles in 2025 in response to US-imposed tariffs . The US Supreme Court ruled the tariffs illegal earlier this year , allowing impacted companies to request refunds. Read more
+Following its big Summer Game Fest unveiling earlier this year, Until Dawn 2 has been given a release date as part of Sony's latest State of Play showcase. And it's not far away at all, launching for PS5 in the suitably dark depths of winter: arriving 28th January next year. Read more
 
-### Kingdom Hearts almost led to Disney making its own version of Super Smash Bros, former dev says
-Wed, 02 Sep 2026 19:04:01 +0000 — https://www.eurogamer.net/kingdom-hearts-disney-making-own-version-super-smash-bros
+### Crimson Desert's first DLC is called Charting the Unknown, and it's out next month
+Thu, 03 Sep 2026 14:08:54 +0000 — https://www.eurogamer.net/crimson-desert-charting-the-unknown-dlc-date
 
-Kingdom Hearts bashing together a bunch of Disney's best toys (and being quite successful in the process) led the Mouse House to briefly begin work on a crossover fighting game in the style of Super Smash Bros. Read more
+It didn't take long for Crimson Desert to get new stuff. During today's State of Play, developer Pearl Abyss unveiled Charting the Unknown. This is the game's first post-launch DLC, and it's set to arrive 15th October. Read more
 
-### Iconic Banjo-Kazooie composer is more hopeful about a sequel these days, but knows "like three companies" have already been turned down
-Wed, 02 Sep 2026 18:01:15 +0000 — https://www.eurogamer.net/banjo-kazooie-composer-hopeful-sequel-three-companies-turned-down
+### Sony's discless PlayStation PR disaster isn't going away as State of Play once again flooded with protests
+Thu, 03 Sep 2026 14:05:12 +0000 — https://www.eurogamer.net/sony-state-of-play-no-disc-no-buy-destiny-3
 
-Grant Kirkhope - the iconic video game composer behind the Donkey Kong Rap and the Banjo-Kazooie games - thinks a potential Banjo-Threeie is slightly more likely now. Read more
+Today's Sony State of Play livestream was packed full of new game trailers, reveals, and announcements for PlayStation fans. However, if you took a look at the live chat, you'll have mostly just seen two groups of angered fans clamouring after discs and Destiny. Read more
 
-### Mario Kart 8 Deluxe gets a surprise Switch 2 update, bringing eight-player split-screen to the evergreen racing game
-Wed, 02 Sep 2026 17:11:48 +0000 — https://www.eurogamer.net/mario-kart-8-switch-2-update-eight-player-split-screen-nintendo
+### Ghost of Yotei: Complete Edition's Most Wanted roguelike mode brings back Tsushima's Jin Sakai
+Thu, 03 Sep 2026 13:36:28 +0000 — https://www.eurogamer.net/ghost-of-yotei-complete-edition-most-wanted-jin-first-look
 
-Nintendo heard us. Our Mario Kart 8 Deluxe parties weren't simultaneously ruining enough friendships, so the evergreen racer can now be played in split-screen with up to eight players thanks to a surprise Switch 2 update. Read more
+During today's State of Play showcase, Ghost of Yotei developer Sucker Punch brought a first-look trailer at Most Wanted. This is the roguelike mode the studio announced alongside the Complete Edition earlier in August . Read more
 
-### Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space
-Wed, 02 Sep 2026 16:28:44 +0000 — https://www.eurogamer.net/ace-combat-8-online-modes-social-space-revealed
+### Monster Hunter Ascendance gets a new gameplay trailer, showing new elder dragons, a floating island region, and a major glow up for a certain character
+Thu, 03 Sep 2026 13:31:10 +0000 — https://www.eurogamer.net/monster-hunter-ascendance-sony-state-of-play-trailer
 
-Bandai Namco has revealed the live-service-like Ace Combat Online, a separate, companion selection of online modes coming with Ace Combat 8. Read more
+A new gameplay trailer for Monster Hunter Wilds : Ascendance was just shown at the Sony State of Play, showing off a variety of new features coming with the expansion next year. Read more
 
-### Lego Skylines is already looking like a treat, but I suspect the real magic's in the stuff Paradox won't talk about just yet
-Wed, 02 Sep 2026 15:58:25 +0000 — https://www.eurogamer.net/lego-skylines-gamescom-preview
+### Everything announced at Sony's State of Play September 2026
+Thu, 03 Sep 2026 13:19:41 +0000 — https://www.eurogamer.net/everything-announced-at-sonys-state-of-play-september-2026
 
-How's this for an unhelpful opener: in a lot of ways, Lego Skylines is exactly what you think it is; but in others, it's probably not. Conceptually, it's a winner, of course - a city builder built with Lego! - and yet it takes things unexpectedly far. But also there's a lot that publisher Paradox and developer Iceflake Studios are keeping quiet for now, and I suspect it's in these still-mysterious details where the game'll really come alive. Read more
+It's showcase time! After a packed Gamescom, Sony's doing its own thing once more, this time giving a taste of everything coming to PlayStation 5 in the coming months and beyond. That includes a final look at Marvel's Wolverine before its impending release, another glimpse of Zach Cregger's promising Resident Evil movie (although that's obviously one coming to the big screen), as well as plenty more. We'll be updating as the show goes on&hellip; Read more
 
-### Nvidia's controversial, face-changing, gen-AI DLSS 5 tech releases tomorrow for one game, and seems to tank frame-rates
-Wed, 02 Sep 2026 15:53:39 +0000 — https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate
+### Guild Wars 3's devs think they've found an answer to one of MMOs' biggest problems, but can ArenaNet pull it off?
+Thu, 03 Sep 2026 13:05:32 +0000 — https://www.eurogamer.net/guild-wars-3-preview-movement-combat-gamescom
 
-Nvidia's hotly debated DLSS 5 tech, which uses generative AI to apply graphical filters to existing games, arrives this week, albeit only in one game. The game is NBA 2K7, and the GeForce drivers for DLSS 5 arrive Thursday night in the US (9pm PDT) and early Friday morning here (5am BST). This is only available for GeForce 50-series graphics cards, laptops and GeForce Now. Read more
+Close your eyes and imagine a standard MMORPG. The way it moves, the way it plays. Save for a few finer intricacies, they've largely played the same for over two decades. A big action bar, the same sorts of quests, the same sort of progression. Guild Wars 3 is aiming to fix that. Read more
 
-### Square Enix denies it's going private following Japanese reports to the contrary
-Wed, 02 Sep 2026 14:05:07 +0000 — https://www.eurogamer.net/square-enix-denies-going-private-report
+### PlayStation State of Play live report - all of today's news from Sony's September 2026 showcases
+Thu, 03 Sep 2026 12:47:06 +0000 — https://www.eurogamer.net/state-of-play-september-2026-live-blog
 
-Square Enix , the Japanese publisher and developer behind Final Fantasy, Kingdom Hearts , Dragon Quest and many other legendary franchises, has had to release a statement to quash claims it's going private. Read more
+Here we go again: Sony is showing off two State of Play showcases today, the first focusing on games coming to the PlayStation 5 over the coming weeks and months, and the second focusing on Japanese games specifically. This is a first for Sony, usually the company might show slightly different showcases in different regions, but this is a unique setup - with Japan getting its own dedicated showing after the broader State of Play. Read more
 
-### World of Warcraft fans so eager to find confirmation of "Classic Plus", they've dug "wow 2" evidence out of Blizzards' backend
-Wed, 02 Sep 2026 13:26:54 +0000 — https://www.eurogamer.net/world-of-warcraft-classic-plus-wow-2-colours-website-css-datamine
+### Dragon's Dogma 2: Dark Arisen devs say Western and Japanese players want different things from the game
+Thu, 03 Sep 2026 12:43:23 +0000 — https://www.eurogamer.net/dragons-dogma-2-dark-arisen-western-japanese-players-opposed
 
-World of Warcraft fans are currently obsessing over colours, as dataminers pull hues from Blizzard's website that are labelled under a curious "wow 2" tag. This, some believe, could be an indication of a major reveal at next week's BlizzCon event. Read more
+It seems catering to Dragon's Dogma 2 players is a tougher balancing act than we may realise. Capcom developers currently working on the game's upcoming Dark Arisen expansion have revealed rare insight into the varying preferences of the game's players, and it surprisingly has to do with where they're based. Read more
 
-### September's first wave of Xbox Game Pass games revealed, and it brings RuneScape to console for the first time
-Wed, 02 Sep 2026 13:25:42 +0000 — https://www.eurogamer.net/september-2026-xbox-pc-game-pass-list
+### Assassin's Creed Black Flag Resynced is seemingly on its way to Switch 2
+Thu, 03 Sep 2026 10:25:46 +0000 — https://www.eurogamer.net/assassins-creed-black-flag-resynced-switch-2-listing
 
-The first wave of games coming to PC and Xbox Game Pass in September have been revealed, and it's a little barren. Probably the highlight is the arrival of new RuneScape co-op survival game Dragonwilds. Read more
+Assassin's Creed Black Flag Resynced could be the next big 2026 release to come to Switch 2 . That's according to a retail listing, which suggests the game is set to arrive on Nintendo's console later this month. Read more
 
-### Tomb Raider: Legacy of Atlantis isn't even out yet, but already it feels like an old relic - in all the wrong ways
-Wed, 02 Sep 2026 13:00:00 +0000 — https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-gamescom-preview
+### How does Epic Games CEO Tim Sweeney reckon we can fight the industry's "Crash 2.0"? By building more factories
+Thu, 03 Sep 2026 10:08:38 +0000 — https://www.eurogamer.net/tim-sweeney-crash-2-more-factories
 
-Last year, on a bit of a whim, I ended up playing Tomb Raider 1's superb remaster and Crystal Dynamics' 2007 remake Tomb Raider: Anniversary . Both, it turns out, are enormously enjoyable - and very different - ways to play Lara Croft's trailblazing original platform adventure, which celebrates its 30th anniversary this year. So I can understand why the minds behind Tomb Raider: Legacy of Atlantis might want to do something beyond a slick visual overhaul. But after my latest Gamescom look, I'm not exactly convinced this remake - now due to arrive early next year - is heading the right way. Read more
+It's pretty obvious to anyone that's been paying attention that the games industry is in a pretty rough place at the moment. No matter where you look, there are mass layoffs: Sony , Microsoft , EA , Ubisoft , Take-Two , Epic Games &hellip; the list goes on. The reasons are myriad, but generally companies place the reason for 'restructuring' at the door of the contraction of the market as a result of the pandemic boom in gaming, rising development costs, longer production cycles (and higher wages), shifts in consumers spending patterns, and the hardware shortages fuelled by the rising demand for AI data centers around the world. Read more
 
 ## GamesIndustry.biz
+
+### "We've got a great team, money in the bank, and financial independence": Glowmade comes out swinging after Amazon pulled the plug on King of Meat
+Thu, 03 Sep 2026 12:05:44 +0000 — https://www.gamesindustry.biz/weve-got-a-great-team-money-in-the-bank-and-financial-independence-glowmade-comes-out-swinging-after-amazon-pulled-the-plug-on-king-of-meat
+
+Often when a studio is dropped by a major publisher, it leaves them in dire straits. The story is all too common and often ends in layoffs or outright closure. Read more
+
+### Sony and Microsoft request dismissal of consumer lawsuits over tariff refunds
+Thu, 03 Sep 2026 11:24:40 +0000 — https://www.gamesindustry.biz/sony-and-microsoft-request-dismissal-of-consumer-lawsuits-over-tariff-refunds
+
+Sony and Microsoft have filed motions to dismiss class action lawsuits accusing them of not passing on tariff refunds to consumers. Read more
+
+### Peak studio Aggro Crab establishes publishing label for "intense, stylised games with an attitude"
+Thu, 03 Sep 2026 09:29:08 +0000 — https://www.gamesindustry.biz/peak-studio-aggro-crab-establishes-publishing-label-for-intense-stylised-games-with-an-attitude
+
+Aggro Crab, known for Peak and Another Crab's Treasure, has launched a publishing label to support "intense, stylised games with an attitude." Read more
 
 ### Planet Coaster studio Frontier Developments announces new title based on Disney IP
 Thu, 03 Sep 2026 08:04:49 +0000 — https://www.gamesindustry.biz/planet-coaster-studio-frontier-developments-announces-new-title-based-on-disney-ip
@@ -109,88 +124,78 @@ Wed, 02 Sep 2026 08:37:20 +0000 — https://www.gamesindustry.biz/supercells-acq
 
 Supercell's acquisition of Metacore is progressing, with both companies having signed an agreement expected to close at the end of this month . Read more
 
-### GTA 6 extended look reaches 31.1m views on Netflix in four days, making it the most-viewed title last week
-Wed, 02 Sep 2026 07:51:21 +0000 — https://www.gamesindustry.biz/gta-6-extended-look-reaches-311m-views-on-netflix-in-four-days-making-it-the-most-viewed-title-last-week
-
-The extended look of Grand Theft Auto 6 was the most-viewed title on Netflix last week, reaching 31.1 million views in four days. Read more
-
-### IO Interactive CEO Hakan Abrak to discuss development of 007 First Light at Game Republic New Horizons 2026
-Wed, 02 Sep 2026 07:00:00 +0000 — https://www.gamesindustry.biz/io-interactive-ceo-hakan-abrak-to-discuss-development-of-007-first-light-at-game-republic-new-horizons-2026
-
-IO Interactive CEO Hakan Abrak will host a 007 First Light session at Game Republic New Horizons. Read more
-
-### The Big Picture: What you need to know about the ongoing games industry reset
-Tue, 01 Sep 2026 16:19:14 +0000 — https://www.gamesindustry.biz/the-big-picture-what-you-need-to-know-about-the-ongoing-games-industry-reset
-
-The games industry is undergoing a reset. That was the message of Gamescom Dev's opening keynote, delivered by Amir Satvat, who until a few days ago was business development manager at Tencent, but is now general partner at 1Up Ventures . Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Preview: 5 Reasons Why PS5 JRPG Final Fantasy Resonance Will Really Resonate with Fans
+Thu, 03 Sep 2026 14:15:00 GMT — https://www.pushsquare.com/previews/5-reasons-why-ps5-jrpg-final-fantasy-resonance-will-really-resonate-with-fans
+
+Cloudy with a chance of fanservice. Final Fantasy Resonance is a fan’s dream. I was lucky enough to play the franchise’s first HD-2D effort at an event in London yesterday, following the PS5 release’s showing at Gamescom in Cologne last week. Read the full article on pushsquare.com
+
+### Our Favourite Shark-PG Returns! Maneater 2 Comes to PS5 in 2027
+Thu, 03 Sep 2026 14:10:00 GMT — https://www.pushsquare.com/news/2026/09/our-favourite-shark-pg-returns-maneater-2-comes-to-ps5-in-2027
+
+We're gonna need a bigger budget. In perhaps the biggest surprise of the latest State of Play, Tripwire Interactive has announced Maneater 2 , a sequel to its beloved shark action game. Check out the announcement trailer below: Read the full article on pushsquare.com
+
+### Final Fantasy 7 Revelation Will Get Sephiroth and Vincent DLC Expansions
+Thu, 03 Sep 2026 14:05:00 GMT — https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-get-sephiroth-and-vincent-dlc-expansions
+
+Past glories. Square Enix has confirmed that not one, but two DLCs will be coming to Final Fantasy 7 Revelation post-launch. The first is simply titled 'Sephiroth', while the second is called 'Vincent & The Turks'. No pricing or release window has been given for either. Read the full article on pushsquare.com
+
+### Gran Turismo 7 Upgraded to Spec 4 in October and December 2026
+Thu, 03 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/09/gran-turismo-7-upgraded-to-spec-4-in-october-and-december-2026
+
+Major game updates coming in two parts on PS5, PS4. Gran Turismo 7 will be treated to another wave of free PS5, PS4 updates in the coming months that upgrade it to a Spec IV version. The patch will be split into two parts, with the first coming in October and the second in December, all part of Polyphony Digital's plans to celebrate the series' 30th anniversary. You can look forward to the following: Read the full article on pushsquare.com
+
+### Final Fantasy 7 Revelation Ends the Trilogy in April, Loads of New PS5 Gameplay Revealed
+Thu, 03 Sep 2026 13:55:00 GMT — https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-ends-the-trilogy-in-april-loads-of-new-ps5-gameplay-revealed
+
+What a Revelation. Final Fantasy 7 Revelation will bring an end to Square Enix's remake trilogy on the 8th April, 2027. The release date was confirmed during the latest State of Play. This third game has obviously been a long time coming, considering the original Final Fantasy 7 Remake first launched for PS4 all the way back in 2020. Read the full article on pushsquare.com
+
+### Saros Free Zenith Update Adds Boss Rush, New Game Plus, More Later This Year
+Thu, 03 Sep 2026 13:50:00 GMT — https://www.pushsquare.com/news/2026/09/saros-free-zenith-update-adds-boss-rush-new-game-plus-more-later-this-year
+
+Again, again. Developer Housemarque has unveiled Zenith, a free update coming to its excellent shooter Saros . Coming later in 2026, the update adds a whole bunch of new content and features that seem designed for replayability once you've conquered the main experience. Read the full article on pushsquare.com
+
+### Until Dawn 2 Is Out Sooner Than You Think, January 2027 Date Confirmed
+Thu, 03 Sep 2026 13:45:00 GMT — https://www.pushsquare.com/news/2026/09/until-dawn-2-is-out-sooner-than-you-think-january-2027-date-confirmed
+
+Pre-orders open next week on PS5. Did you expect to be playing Until Dawn 2 in January 2027? Probably not, but you will be, because the surprisingly early PS5 release date for the horror sequel has been confirmed in a new State of Play trailer. It's out on 28th January 2027, and pre-orders open on 10th September 2026. There'll be a standard version and a Digital Deluxe Edition on offer, with the latter packing in "the Y2K Neon Vibes Pack and Dioramas of Death extra feature". Read the full article on pushsquare.com
+
+### GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November
+Thu, 03 Sep 2026 13:40:00 GMT — https://www.pushsquare.com/news/2026/09/gta-6-limited-edition-ps5-controllers-revealed-out-19th-november
+
+One black, one white. Sony and Rockstar Games have revealed two limited-edition PS5 controllers themed around GTA 6 . One is black and the other is white, and both carry the colourful theming of the GTA 6 logo around the thumbsticks and touchpad. You can see them both in the trailer above. Pre-orders for both controllers go live next week on 10th September 2026, and then they actually release alongside the game on 19th November 2026. Each one costs £74.99 / $84.99. Read the full article on pushsquare.com
+
+### Marvel s Wolverine Offers Up One Last Trailer Before Launch on PS5
+Thu, 03 Sep 2026 13:35:00 GMT — https://www.pushsquare.com/news/2026/09/marvels-wolverine-offers-up-one-last-trailer-before-launch-on-ps5
+
+Cutting deep. Sony and Insomniac Games have debuted the launch trailer for Marvel's Wolverine , the latest PS5 exclusive that's coming in less than two weeks. Watch it below: Read the full article on pushsquare.com
+
+### 4 Upcoming PS Plus Extra, Premium Games for 2026 Announced
+Thu, 03 Sep 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/09/4-upcoming-ps-plus-extra-premium-games-for-2026-announced
+
+What to expect in the coming months. Sony has shared a glimpse at some of the upcoming PS Plus Extra and PS Plus Premium games you can expect on the subscription service for the rest of 2026. This is just a glimpse, but you can expect the following to arrive in the final four months of the year: Mycopunk | PS5 (PS Plus Extra, Premium) Mega Man X: Command Mission | PS2 (PS Plus Premium) Dino Crisis 2 | PS1 (PS Plus Premium) Ratchet & Clank | PS2 (PS Plus Premium) <related ids="130617"> Read the full article on pushsquare.com
+
 ### Double Fine Bringing Xbox, PC Game Keeper to PS5
-Thu, 03 Sep 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/09/double-fine-bringing-xbox-pc-game-keeper-to-ps5
+Thu, 03 Sep 2026 13:25:00 GMT — https://www.pushsquare.com/news/2026/09/double-fine-bringing-xbox-pc-game-keeper-to-ps5
 
-It's a State of Play reveal. Psychonauts and Brutal Legend developer Double Fine is porting one of its lesser-known titles to PS5, seemingly with a view to launching it in the very near future. Keeper , the game where you play as a lighthouse, looks to be coming to PS5. Read the full article on pushsquare.com
+Confirmed for PS5 and out today. Psychonauts and Brutal Legend developer Double Fine is porting one of its lesser-known titles to PS5, seemingly with a view to launching it in the very near future. Keeper , the game where you play as a lighthouse, looks to be coming to PS5. Read the full article on pushsquare.com
 
-### Guide: What Time Is PlayStation s State of Play for September 2026?
-Thu, 03 Sep 2026 08:30:00 GMT — https://www.pushsquare.com/guides/what-time-is-playstations-state-of-play-for-september-2026
+### Metro 2039 Locks Down 4th February 2027 Release Date in First PS5 Clips
+Thu, 03 Sep 2026 13:20:00 GMT — https://www.pushsquare.com/news/2026/09/metro-2039-locks-down-4th-february-2027-release-date-in-first-ps5-clips
 
-Dates, times, and what to expect. Sony has announced a double-bill of State of Play presentations , giving PS5 players updates on a wide range of games before focusing in on Japanese titles. It's all happening very soon, so let's go over the details in this guide. We'll tell you what time is PlayStation's State of Play for September 2026 and everything else you'll need to know. Read the full article on pushsquare.com
-
-### Dragon s Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro
-Wed, 02 Sep 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro
-
-Top Dogma. Patch 3.2 for Dragon's Dogma 2 released overnight, and it's made huge changes to the open world RPG. The update reworks fundamental bits and pieces of the game, while also improving the user experience in some pretty significant ways. You could argue that it verges on being a kind of re-release. Read the full article on pushsquare.com
-
-### The Witcher Remake Put on Ice as Dev Focuses on New Expansion and The Witcher 4
-Wed, 02 Sep 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/09/the-witcher-remake-put-on-ice-as-dev-focuses-on-new-expansion-and-the-witcher-4
-
-Songs of the Past. Fool's Theory, the development studio that was originally contracted to remake the first Witcher game, has changed trajectory over recent years. While the majority of CD Projekt Red is currently working on The Witcher 4 , Fool's Theory has been pouring its efforts into Songs of the Past — the surprise DLC for The Witcher 3 , which is due out next year. Read the full article on pushsquare.com
-
-### Square Enix Denies Rumours of Being Bought Out
-Wed, 02 Sep 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/09/square-enix-denies-rumours-of-being-bought-out
-
-Hip to buy Square. Rumours of a Square Enix buyout have been doing the rounds over the last 24 hours or so, and they actually got so loud that the publisher itself has had to come out and address them. The whispers stemmed from a Japanese business magazine, which suggested that Square Enix was on course to being privately traded — that is, acquired and removed from public trading. Read the full article on pushsquare.com
-
-### Preview: Silent Hill: Townfall Is a PS5 Horror Time Capsule I Can t Wait to Play More Of
-Wed, 02 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/previews/silent-hill-townfall-is-a-ps5-horror-time-capsule-i-cant-wait-to-play-more-of
-
-The Devil is in the details. Silent Hill: Townfall is one of my most anticipated games of 2026. I came upon the series for the first time having loved the Silent Hill 2 remake and really enjoying what I played of Silent Hill F . However, Townfall was of particular interest to me because of its setting. Heading off to the misty seaside town of St. Amelia, Townfall is set in Scotland in the mid-90s. As a Scotsman born in the mid-90s, sure, there may be a bit of bias towards this setting – it’s certainly what amped up my enjoyment of Scottish horror Still Wakes the Deep . Read the full article on pushsquare.com
-
-### You Might Benefit from a $7.85 Million Payout as PlayStation Settles Anti-Trust Lawsuit
-Wed, 02 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/09/you-might-benefit-from-a-usd7-85-million-payout-as-playstation-settles-anti-trust-lawsuit
-
-Free money? A class-action lawsuit against Sony Interactive Entertainment (PlayStation) has resulted in a potential payout of $7.85 million, which will be passed onto PS5 customers if it goes ahead. The case is about the PS Store being the only way you can purchase digital games for PS5, as Sony shut off the ability to get digital vouchers for PlayStation software at alternative retailers. This forces anybody who wants to buy a game digitally through the PS Store directly. Read the full article on pushsquare.com
-
-### If You Want the Marvel s Wolverine PS5 Platinum Trophy, Get Used to Parrying, Bub
-Wed, 02 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/09/if-you-want-the-marvels-wolverine-ps5-platinum-trophy-get-used-to-parrying-bub
-
-Will you parry me. Developer Insomniac Games has revealed a partial Trophy list for its imminent PS5 exclusive, Marvel's Wolverine . On X, the studio goes through a number of the superhero action game's non-spoiler Trophies, giving you an idea of what will be required if you plan to get that shiny platinum. Read the full article on pushsquare.com
-
-### It s a Miracle: GTA 6 Won t Make You Mash the X Button to Sprint
-Wed, 02 Sep 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/09/its-a-miracle-gta-6-wont-make-you-mash-the-x-button-to-sprint
-
-Now you press L3 to run. Most of the games Rockstar creates are considered masterpieces, but if there are any criticisms, it's not long before the controls are brought up. The most notorious example is the demand to constantly press the X button to sprint. Read the full article on pushsquare.com
-
-### Preview: Stuntman: Hollywood Feels Like a Racer from a Bygone Era, and I Couldn t Be More Excited
-Wed, 02 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/previews/stuntman-hollywood-feels-like-a-racer-from-a-bygone-era-and-i-couldnt-be-more-excited
-
-Guess I'll see you in the movies. I was incredibly excited when I got the invite to play Stuntman: Hollywood at Gamescom this year. Announced at a State of Play a few months back, this revived franchise promises chaotic film-stunt-inspired action across some of the largest franchises in Universal’s catalogue. It feels like a throwback to a bygone era of gaming tie-ins, and I was glad to see that impression was very much alive and drifting across the four levels I got to play. Read the full article on pushsquare.com
-
-### Chadley Has a Strong Role in Final Fantasy 7 Revelation s Story, Despite Being Hated by Everyone
-Wed, 02 Sep 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/09/chadley-has-a-strong-role-in-final-fantasy-7-revelations-story-despite-being-hated-by-everyone
-
-Giga Chadley. I think Final Fantasy 7 Remake and Final Fantasy 7 Rebirth introduce some characters of a very questionable quality, but Chadley's probably the worst of the lot. The annoying robot boy completely outstayed his welcome in Rebirth, where he would constantly offer unneeded guidance as you traversed the game's more open areas. Read the full article on pushsquare.com
-
-### GTA 6 Extended Look Was Comfortably Netflix s Most-Watched Title of Last Week
-Wed, 02 Sep 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/09/gta-6-extended-look-was-comfortably-netflixs-most-watched-title-of-last-week
-
-"My AC!". Rockstar Games made the unusual move to debut an extended look at GTA 6 on Netflix last week. While the video made its way onto YouTube and other sources eventually, the subscription service had dibs for six hours, and it seems that's paid off quite nicely. Netflix's weekly top 10 charts show that the GTA 6 video was its most-watched title globally by some distance; it accrued 31.1 million views between 27th and 30th August. Read the full article on pushsquare.com
+See it played on a PS5 Pro. We've known for a while now that Metro 2039 would be launching in February 2027, but now we can attach an exact date that: 4th February 2027. The release date was confirmed in a new trailer at State of Play that also featured the first PS5 Pro footage of the hardcore title. Watch it above. This is the PS5 Pro version running in Performance Mode at 60 frames-per-second with ray tracing. Read the full article on pushsquare.com
 
 ## Game Developer
+
+### CD Projekt Red won't be abandoning physical releases
+Thu, 03 Sep 2026 10:55:48 GMT — https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases
+
+'What you can definitely expect from us is to put out a box that's going to make it worth your while.'
 
 ### Nexus Mods is acquiring database and analytics site SteamDB
 Wed, 02 Sep 2026 17:27:45 GMT — https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb
@@ -216,14 +221,4 @@ The studio wants to support 'intense, stylized games with an attitude' - but isn
 Tue, 01 Sep 2026 15:37:36 GMT — https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio
 
 The closure follows the cancellation of Sonic Blitz and the exact number of redundancies are yet to be confirmed.
-
-### Paradox Interactive's Afterworld wants to entice new players to grand strategy with tasty RPG hooks
-Tue, 01 Sep 2026 13:00:00 GMT — https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wants-to-entice-new-players-to-grand-strategy-with-tasty-rpg-hooks
-
-Game director Dan Lind explains the appeal of strategy in grand strategy games, and how to invite new players into a sprawling game.
-
-### Star Wars Zero Company studio furloughed workers ahead of launch
-Tue, 01 Sep 2026 09:19:23 GMT — https://www.gamedeveloper.com/business/star-wars-zero-company-studio-furloughed-workers-ahead-of-launch
-
-Bit Reactor has confirmed it temporarily suspended workers without pay due to concerns over how its debut title would perform.
 
