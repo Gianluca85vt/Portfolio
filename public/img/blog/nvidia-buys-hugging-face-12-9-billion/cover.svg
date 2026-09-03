@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Nvidia buys Hugging Face for 12.93 billion dollars">
+  <defs>
+    <linearGradient id="bgA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#4A0850"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgA)"/>
+
+  <!-- download bars: the pipe the piece is about -->
+  <g fill="#FFFFFF" fill-opacity="0.10">
+    <rect x="80" y="470" width="620" height="14" rx="7"/>
+    <rect x="80" y="512" width="470" height="14" rx="7"/>
+    <rect x="80" y="554" width="710" height="14" rx="7"/>
+  </g>
+  <g fill="#B600A8" fill-opacity="0.85">
+    <rect x="80" y="470" width="388" height="14" rx="7"/>
+    <rect x="80" y="512" width="291" height="14" rx="7"/>
+    <rect x="80" y="554" width="440" height="14" rx="7"/>
+  </g>
+
+  <text x="80" y="180" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#FFFFFF" fill-opacity="0.62" letter-spacing="4">3 SEPTEMBER 2026</text>
+  <text x="80" y="330" font-family="Helvetica, Arial, sans-serif" font-size="188" font-weight="700" fill="#FFFFFF">$12.93B</text>
+  <text x="80" y="410" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="600" fill="#FFFFFF" fill-opacity="0.88">Nvidia buys Hugging Face</text>
+
+  <text x="80" y="670" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#FFFFFF" fill-opacity="0.55">3M models &#183; 500K datasets &#183; 18M developers</text>
+  <text x="80" y="716" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#FFFFFF" fill-opacity="0.55">Closing expected H1 2027, pending regulators</text>
+</svg>
