@@ -1,6 +1,16 @@
-# Games — harvested 2026-09-02T19:29:52.920Z
+# Games — harvested 2026-09-03T09:11:17.564Z
 
 ## Eurogamer
+
+### Planet Coaster and Jurassic World developer Frontier partners with Disney for a new video game
+Thu, 03 Sep 2026 08:53:53 +0000 — https://www.eurogamer.net/frontier-disney-new-video-game-planet-coaster-jurassic-world
+
+Frontier Developments - the developer behind Planet Coaster and Jurassic World - has announced a partnership with Disney. As part of this collaboration, a new Disney game is in production. Read more
+
+### Following Nintendo's example, Sony and Microsoft argue they have no obligation to pass tariff refunds onto customers
+Thu, 03 Sep 2026 08:16:40 +0000 — https://www.eurogamer.net/sony-microsoft-no-refunds-us-tariff-lawsuits
+
+Lawyers representing Sony and Microsoft have argued, in two separate lawsuits, that the platform holders are not obligated to pass tariff refunds back to consumers. Sony and Microsoft have had to raise prices of their PlayStation and Xbox consoles in 2025 in response to US-imposed tariffs . The US Supreme Court ruled the tariffs illegal earlier this year , allowing impacted companies to request refunds. Read more
 
 ### Kingdom Hearts almost led to Disney making its own version of Super Smash Bros, former dev says
 Wed, 02 Sep 2026 19:04:01 +0000 — https://www.eurogamer.net/kingdom-hearts-disney-making-own-version-super-smash-bros
@@ -52,17 +62,22 @@ Wed, 02 Sep 2026 13:00:00 +0000 — https://www.eurogamer.net/tomb-raider-legacy
 
 Last year, on a bit of a whim, I ended up playing Tomb Raider 1's superb remaster and Crystal Dynamics' 2007 remake Tomb Raider: Anniversary . Both, it turns out, are enormously enjoyable - and very different - ways to play Lara Croft's trailblazing original platform adventure, which celebrates its 30th anniversary this year. So I can understand why the minds behind Tomb Raider: Legacy of Atlantis might want to do something beyond a slick visual overhaul. But after my latest Gamescom look, I'm not exactly convinced this remake - now due to arrive early next year - is heading the right way. Read more
 
-### Amazon's Sophie Turner-led Tomb Raider series broke UK safety laws during production
-Wed, 02 Sep 2026 12:21:28 +0000 — https://www.eurogamer.net/tomb-raider-amazon-tv-series-broke-uk-safety-laws
-
-The UK's Health and Safety Executive (HSE) has said the production of Tomb Raider, the Amazon MGM-produced TV series, has breached UK safety laws at Shinfield Studios. Read more
-
-### Capcom quietly releases new trailers for Monster Hunter Wilds Ascendance, teasing changes to all 14 weapon types
-Wed, 02 Sep 2026 11:11:44 +0000 — https://www.eurogamer.net/monster-hunter-wilds-ascendance-boost-weapons
-
-We know that we're getting Monster Hunter Wilds ' first expansion, Ascendance, at sometime in 2027. Initially, we were expecting to see more about the game at either Gamescom 2026 , but it seems we'll have to wait until later this month to see more about the expansion during Tokyo Game Show, instead. Read more
-
 ## GamesIndustry.biz
+
+### Planet Coaster studio Frontier Developments announces new title based on Disney IP
+Thu, 03 Sep 2026 08:04:49 +0000 — https://www.gamesindustry.biz/planet-coaster-studio-frontier-developments-announces-new-title-based-on-disney-ip
+
+Frontier Developments has entered into an agreement with Disney to work on a new title based on its portfolio and IP. Read more
+
+### "This is the worst crash we've seen since the 1980s," says Tim Sweeney
+Thu, 03 Sep 2026 07:29:48 +0000 — https://www.gamesindustry.biz/this-is-the-worst-crash-weve-seen-since-the-1980s-says-tim-sweeney
+
+Epic Games CEO Tim Sweeney says the industry is going through its biggest crash since the 1980s in the latest issue of Edge magazine. Read more
+
+### CD Projekt Red sees profit climb 37% in H1 2026
+Wed, 02 Sep 2026 19:44:30 +0000 — https://www.gamesindustry.biz/cd-projekt-red-sees-profit-climb-37-in-h1-2026
+
+CD Projekt Red generated $116.5 million (435 million PLN) in revenue during the first half of 2026, up 23% year-over-year. Read more
 
 ### Nexus Mods acquires SteamDB
 Wed, 02 Sep 2026 19:14:24 +0000 — https://www.gamesindustry.biz/nexus-mods-acquires-steamdb
@@ -109,26 +124,21 @@ Tue, 01 Sep 2026 16:19:14 +0000 — https://www.gamesindustry.biz/the-big-pictur
 
 The games industry is undergoing a reset. That was the message of Gamescom Dev's opening keynote, delivered by Amir Satvat, who until a few days ago was business development manager at Tencent, but is now general partner at 1Up Ventures . Read more
 
-### Brian Ward steps down as Savvy Games Group CEO
-Tue, 01 Sep 2026 14:38:11 +0000 — https://www.gamesindustry.biz/brian-ward-steps-down-as-savvy-games-group-ceo
-
-Brian Ward is stepping down as CEO of Savvy Games Group, according to a staff note obtained by Bloomberg . Read more
-
-### Jobs roundup: September 2026 | Amir Satvat joins 1Up Ventures as a general partner
-Tue, 01 Sep 2026 13:41:11 +0000 — https://www.gamesindustry.biz/jobs-roundup-september-2026-amir-satvat-joins-1up-ventures-as-a-general-partner
-
-It can be difficult keeping track of the various comings and goings in the games industry, which is why we compile them in semi-regular round-ups. Read more
-
-### UKIE launches Discord-backed Go To Market Academy, a business program to support early-stage indie devs
-Tue, 01 Sep 2026 12:42:51 +0000 — https://www.gamesindustry.biz/ukie-launches-discord-backed-go-to-market-academy-a-business-program-to-support-early-stage-indie-devs
-
-UKIE has partnered with Discord and GameFlex to launch the Go To Market Academy , a business program to support UK-based indie studios. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Double Fine Bringing Xbox, PC Game Keeper to PS5
+Thu, 03 Sep 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/09/double-fine-bringing-xbox-pc-game-keeper-to-ps5
+
+It's a State of Play reveal. Psychonauts and Brutal Legend developer Double Fine is porting one of its lesser-known titles to PS5, seemingly with a view to launching it in the very near future. Keeper , the game where you play as a lighthouse, looks to be coming to PS5. Read the full article on pushsquare.com
+
+### Guide: What Time Is PlayStation s State of Play for September 2026?
+Thu, 03 Sep 2026 08:30:00 GMT — https://www.pushsquare.com/guides/what-time-is-playstations-state-of-play-for-september-2026
+
+Dates, times, and what to expect. Sony has announced a double-bill of State of Play presentations , giving PS5 players updates on a wide range of games before focusing in on Japanese titles. It's all happening very soon, so let's go over the details in this guide. We'll tell you what time is PlayStation's State of Play for September 2026 and everything else you'll need to know. Read the full article on pushsquare.com
 
 ### Dragon s Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro
 Wed, 02 Sep 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro
@@ -179,16 +189,6 @@ Giga Chadley. I think Final Fantasy 7 Remake and Final Fantasy 7 Rebirth introdu
 Wed, 02 Sep 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/09/gta-6-extended-look-was-comfortably-netflixs-most-watched-title-of-last-week
 
 "My AC!". Rockstar Games made the unusual move to debut an extended look at GTA 6 on Netflix last week. While the video made its way onto YouTube and other sources eventually, the subscription service had dibs for six hours, and it seems that's paid off quite nicely. Netflix's weekly top 10 charts show that the GTA 6 video was its most-watched title globally by some distance; it accrued 31.1 million views between 27th and 30th August. Read the full article on pushsquare.com
-
-### Colossal, Game-Changing Dragon s Dogma 2 Patch 3.2 Out Now on PS5
-Wed, 02 Sep 2026 00:30:00 GMT — https://www.pushsquare.com/news/2026/09/colossal-game-changing-dragons-dogma-2-patch-3-2-out-now-on-ps5
-
-Arise, Arisen. As Capcom promised, the biggest ever update for Dragon's Dogma 2 is available to download now on PS5. And when I write 'biggest', I don't just mean that it's packing the most improvements; this thing is 48GB in terms of file size. Read the full article on pushsquare.com
-
-### Here s Your First Look at the LEGO PS1, with Ape Escape and Gran Turismo Dioramas
-Tue, 01 Sep 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/09/heres-your-first-look-at-the-lego-ps1-with-ape-escape-and-gran-turismo-dioramas
-
-And no physical discs, of course. It’s been rumoured for quite some time, but here’s your first look at the official LEGO PS1 set, as spotted in-store by a Brick Tap News member. It’s due out on 1st October. The build consists of 1,911 pieces and will retail for a reasonable $160, which is pretty affordable for LEGO sets these days as far as I can see. Read the full article on pushsquare.com
 
 ## Game Developer
 

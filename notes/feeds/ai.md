@@ -1,6 +1,11 @@
-# AI — harvested 2026-09-02T19:29:52.920Z
+# AI — harvested 2026-09-03T09:11:17.564Z
 
 ## OpenAI
+
+### ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+Wed, 02 Sep 2026 12:00:00 GMT — https://openai.com/index/atv-big-air-tour
+
+ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.
 
 ### How AI-native companies turn workflows into operating capability
 Tue, 01 Sep 2026 17:00:00 GMT — https://openai.com/index/ai-native-company-workflows
@@ -17,21 +22,16 @@ Tue, 01 Sep 2026 12:00:00 GMT — https://openai.com/index/chatgpt-connects-heal
 
 ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.
 
-### How law firm Gilbert + Tobin governs and scales AI with OpenAI
-Tue, 01 Sep 2026 01:00:00 GMT — https://openai.com/index/gilbert-tobin
-
-See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.
-
 ## Hugging Face
+
+### Training a coding model to paint watercolours with TRL and OpenEnv
+Thu, 03 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/train-to-paint-with-code
 
 ### Real-Time Intelligence with IBM Time Series Models on Confluent
 Wed, 02 Sep 2026 13:49:14 GMT — https://huggingface.co/blog/ibm-research/real-time-intelligence
 
 ### BenchMIRT: What are LLM benchmarks actually measuring?
 Tue, 01 Sep 2026 21:39:07 GMT — https://huggingface.co/blog/allenai/benchmirt
-
-### Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI
-Tue, 01 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/webgpu-kernels
 
 ## Google DeepMind
 

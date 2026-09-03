@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-09-02T19:29:52.920Z
+# Film & TV — harvested 2026-09-03T09:11:17.564Z
 
 ## Variety
 
-### Olivia Rodrigo and Cameron Crowe Go Deeper Into The Cure, Confessional Songwriting and Daisy Chain Fields in a Grammy Museum Q A and Acoustic Set
-Wed, 02 Sep 2026 19:27:31 +0000 — https://variety.com/2026/music/news/olivia-rodrigo-grammy-museum-cameron-crowe-acoustic-set-1236849594/
+### France TV Distribution s Mystery Drama Our Missing Sons Set for Unifrance Rendez-Vous Market Debut
+Thu, 03 Sep 2026 09:01:31 +0000 — https://variety.com/2026/tv/global/france-tv-distributions-our-missing-sons-rendez-vous-le-hav-1236849213/
 
-Filmmaker Cameron Crowe has biopics on the brain, being in late-stage development on his long-planned Joni Mitchell movie, the casting of which is still unknown. So he used his Q A with Olivia Rodrigo Tuesday night at the Grammy Museum to ask her about casting thoughts — not for his own film, but for a theoretical [ ]
+“Our Missing Sons,” a politically charged French mystery series inspired by true events, is making its international market debut at this year’s Unifrance Rendez-Vous in Le Havre ahead of its premiere at the Festival de la Fiction in La Rochelle. Directed by Safy Nebbou and sold internationally by France TV Distribution, “Our Missing Sons” is [ ]
 
-### Inside Camelback Productions’ Plans for a New 1,400-Acre, AI-Powered Production and Entertainment Complex — in Arizona (EXCLUSIVE)
-Wed, 02 Sep 2026 19:18:07 +0000 — https://variety.com/2026/biz/news/inside-camelback-productions-ai-powered-production-arizona-1236849577/
+### Ena Sendijarevic’s Witch Hunt Drama’ ‘The Possessed’ Rounds Out Cast as Trio of Rising Stars Join Ariane Labed (EXCLUSIVE)
+Thu, 03 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/global/ena-sendijarevic-the-possessed-ariane-labed-cast-1236849650/
 
-Anita Verma-Lallian, founder of Camelback Productions, doesn’t see the future of film production in Los Angeles. Instead, in her vision, it is on a complex one hour’s drive west of Phoenix, complete with backlots, a Universal Studios-inspired theme park — and a data center. Such is the AI-powered future Verma-Lallian hopes to achieve with a sprawling [ ]
+“The Possessed,” the third feature by Bosnian-Dutch writer/director Ena Sendijarević, has completed casting as the film moves toward principal photography, with a trio of hot talents boarding the project. Suzy Bemba, Khalil Gharbia and Ji-Min Park, whose credits span the spectrum from festival favorites to prestige television and commercial English-language projects, have signed on to [ ]
 
-### 5-hour Energy Wants to Give the Mocktail a Jolt
-Wed, 02 Sep 2026 19:09:58 +0000 — https://variety.com/2026/shopping/news/5-hour-energy-mocktail-recipes-shop-online-1236849583/
+### See-Saw Films Taps Fifth Season s Ben Irving for Joint Managing Director Role as Helen Gregory Steps Down From Slow Horses Banner
+Thu, 03 Sep 2026 09:00:00 +0000 — https://variety.com/2026/tv/global/see-saw-films-hires-ben-irving-helen-gregory-steps-down-1236850049/
 
-The mocktail is getting a caffeine boost. As non-alcoholic cocktails have migrated from sad club sodas to increasingly elaborate bar menus, 5-hour Energy is pitching its pocket-size energy shots as an unlikely new mixology ingredient. The brand has built out an entire collection of mocktail recipes around its increasingly playful flavor lineup, including Cotton Candy, [ ]
+See-Saw Films, the multi-award winning Brit TV and film banner behind Slow Horses and upcoming Apple original feature Tenzing, has hired Ben Irving as managing director. Irving joins from Fifth Season, where he is currently creative director of international scripted, and replaces Helen Gregory, who leaves See-Saw after five years helping shape the TV output [ ]
 
-### Margot Robbie-Narrated Galapagos: The Last Eden Trailer Unveiled Ahead of Venice Immersive Bow (EXCLUSIVE)
-Wed, 02 Sep 2026 19:08:08 +0000 — https://variety.com/2026/film/festivals/margot-robbie-galapagos-last-eden-trailer-venice-immersive-1236849584/
+### Elina Psykou s Patrimonial Fears and Other Illusions Casts Veteran Trio Ahead of Venice Gap-Financing Market (EXCLUSIVE)
+Thu, 03 Sep 2026 08:42:10 +0000 — https://variety.com/2026/film/global/elina-psykou-patrimonial-fears-and-other-illusions-venice-1236838033/
 
-The trailer for Galapagos: The Last Eden, an immersive experience narrated by Margot Robbie, has been unveiled ahead of the project s premiere in the Venice Film Festival s Immersive strand. Directed by Anthony Geffen and produced by Atlantic Studios, the production hails from the U.K. and is presented in English. Galapagos: The Last Eden brings the [ ]
+Greek filmmaker Elina Psykou (“Stray Bodies”) has attached a trio of Hellenic heavyweights to the cast of “Patrimonial Fears and Other Illusions,” which will head to the Venice Gap-Financing Market taking place from Sept. 4 – 6. A portrait of intergenerational trauma set against a famous magician’s visit to Athens, the film has bolstered its [ ]
 
-### Rob Bonta’s Dogged Pursuit of Paramount Case Reflects Broader Mission: ‘I Believe in Fairness’
-Wed, 02 Sep 2026 19:07:31 +0000 — https://variety.com/2026/film/news/rob-bonta-paramount-profile-1236848528/
+### Tallinn Black Nights Festival Sets Focus on Baltic Cinema for 30th Anniversary Special Edition (EXCLUSIVE)
+Thu, 03 Sep 2026 07:04:32 +0000 — https://variety.com/2026/film/global/tallinn-black-nights-festival-baltics-focus-30th-anni-1236850017/
 
-Rob Bonta was less than a year into the job of California attorney general when he found himself at odds with one of the state’s most affluent communities. To get around a requirement to build more housing, Woodside had declared that the entire town was a mountain lion habitat. Bonta fired off a letter accusing [ ]
+To celebrate its 30th anniversary, the Tallinn Black Nights Film Festival (also known as PÖFF), the largest and only A-list festival in the Baltics, is turning the spotlight on Baltic Cinema, with the backing from the Estonian Film Institute, National Film Centre of Latvia and Lithuanian Film Centre. “Baltic cinema has always been an essential [ ]
 
-### Judge Judy Celebrates 30th Anniversary With CBS Primetime Special Unfiltered, Unforgettable
-Wed, 02 Sep 2026 18:30:00 +0000 — https://variety.com/2026/tv/news/judge-judy-sheindlin-30th-anniversary-unfiltered-cbs-1236848846/
+### Theo James Steps Into His Michael Corleone Era for a Darker, More Sinister The Gentlemen Season 2: TV Review
+Thu, 03 Sep 2026 07:01:00 +0000 — https://variety.com/2026/tv/reviews/the-gentlemen-season-2-review-netflix-1236842633/
 
-Judge Judy is returning to television with “Judge Judy: Unfiltered, Unforgettable,” a 90-minute primetime special chronicling her three decades as America s favorite TV judge. Through home movies and personal archives, Judith Sheindlin offers an intimate look into how she became the sharp-tongued, no-nonsense jurist who sat on the bench in Manhattan for nearly 20 years [ ]
+It’s been two and a half years since Guy Ritchie ushered viewers into the dazzling, violent criminal underworld of his Netflix series “The Gentlemen.” Now, in an even darker and more volatile second season, audiences are reentering this world, with a very different Eddie (an exceptional Theo James) at the center. Engaging, devastating and thoroughly [ ]
 
-### Lego Harry Potter Collection Coming to Nintendo Switch 2 (Gaming News Roundup)
-Wed, 02 Sep 2026 18:09:37 +0000 — https://variety.com/2026/gaming/news/gaming-news-roundup-week-august-31-1236848692/
+### Chad Powers Season 2 Ending: Who Knows the Truth About Russ Holliday and What Happened to Gerry?
+Thu, 03 Sep 2026 07:01:00 +0000 — https://variety.com/2026/tv/news/chad-powers-season-2-ending-explained-1236848716/
 
-The “Lego Harry Potter Collection” is coming to Nintendo Switch 2 on Oct. 16. Developed by Warner Bros. Games, TT Games and The Lego Group, the collection includes “Lego Harry Potter: Years 1-4” and “Lego Harry Potter: Years 5-7.” The Nintendo Switch 2 version of the collection will be available in both physical and digital [ ]
+SPOILER ALERT: This story contains spoilers for “12th Quarter,” the Season 2 finale of “Chad Powers,” now streaming on Disney + and Hulu. It sure is tough being Chad Powers. Infamous quarterback Russ Holliday (Glen Powell) knows this well. But he’s not going to let anything stop him from continuing his double life as the [ ]
 
-### George Clooney Calls Out Authoritarians and People Who Peddle in Fear in Moving Venice Golden Lion Speech: They’re ‘Never the Heroes in History’
-Wed, 02 Sep 2026 18:03:39 +0000 — https://variety.com/2026/film/festivals/george-clooney-calls-out-authoritarians-venice-golden-lion-speech-1236845843/
+### Warner Music India Unveils Season 2 of Folk Music Franchise Maati (EXCLUSIVE)
+Thu, 03 Sep 2026 07:00:00 +0000 — https://variety.com/2026/music/news/warner-music-india-maati-season-2-1236849988/
 
-George Clooney delivered a moving speech about the power of art in times of political turmoil at Venice Film Festival on Wednesday night, saying: Stories are always dangerous to people who peddle in fear. The Oscar winner was on hand at the festival s opening ceremony to accept the Golden Lion for Lifetime Achievement, which he [ ]
+Warner Music India has launched season two of Maati, its folk music franchise, opening on Sept. 3 with the Sufi qawwali Jalwa-e-Jaanaan as the eight-track season begins rolling out across eight languages. Anurag Saikia composed the music for the first track, which features vocals by Jyoti Nooran and lyrics by Shakeel Azmi. This qawwali is [ ]
 
-### Ink Review: Danny Boyle s Gripping, Sizzling Film About How a People s Paper Lost Its Humanity, and Won
-Wed, 02 Sep 2026 18:00:00 +0000 — https://variety.com/2026/film/reviews/ink-review-1236849047/
+### ‘Anatomy of a Portrait’ Profiles Fernanda Wittgens, Italy s First Female Museum Director and an Anti-Fascist Activist
+Thu, 03 Sep 2026 06:53:29 +0000 — https://variety.com/2026/film/global/anatomy-of-a-portrait-fernanda-wittgens-venice-festival-1236846546/
 
-People need stories, says Larry Lamb, beleaguered editor of leading British tabloid The Sun, at a late point in Ink, a propulsive, can t-look-away account of his simultaneously triumphant and regrettable career zenith. In the film, the year is 1970: His words are half a century ahead of the current prevalence of storytelling as a catch-all [ ]
+“Anatomy of a Portrait” (“Anatomia di un Ritratto”) will have its world premiere in the Venetian Nights program of Venice Days on Sept. 4. Directed by Francesco Clerici (“Hand Gestures”) and Mattia Colombo (“Trees That Walk,” “I Wanna Sleep With You”), the documentary pieces together the story of Fernanda Wittgens, Italy’s first female museum director. [ ]
 
-### Sci-Fi Comedy Adventure Series Maui Elvis Unites New Zealand s Whakaata Maori, Canada s APTN
-Wed, 02 Sep 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/sci-fi-comedy-maui-elvis-whakaata-maori-aptn-1236849154/
+### Oscars: Romania Selects Cannes Winner Fjord for International Feature Race
+Thu, 03 Sep 2026 06:30:07 +0000 — https://variety.com/2026/film/global/oscars-romania-fjord-1236850007/
 
-New Zealand s Whakaata Māori and Canada s APTN have unveiled an international co-production partnership on Māui Elvis, an adventure sci-fi comedy series for children and families spanning Aotearoa New Zealand and Canada. The two broadcasters unveiled the deal during the World Indigenous Broadcasters Network (WIBN) Conference, held this year in Sápmi, Norway. Māui Elvis [ ]
+“Fjord,” written and directed by Cristian Mungiu, is Romania’s submission for the 2027 Oscars in the best international feature film category, having been unanimously chosen by the country s selection committee. The film premiered in the official competition at the Cannes Film Festival, where it won the Palme d’Or for best film, the FIPRESCI Prize, the [ ]
 
 ## The Hollywood Reporter
 
-### Hollywood, Horsepower and Parmigiano Fuel the Ultimate Venice Side Quest
-Wed, 02 Sep 2026 18:59:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/venice-side-quest-trips-hollywood-cars-parmigiano-1236685631/
+### Eklipse Mixes the Autobiographical and Fictional to Explore AIDS Taboos and Fear of Social Exclusion
+Thu, 03 Sep 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/venice-2026-eklipse-film-aids-taboos-manuel-wetscher-qa-1236679603/
 
-Ninety minutes from Venice, the locations behind Ferrari, Lamborghini and Maserati: The Brothers intersect with Chef Massimo Bottura, aged balsamic, cheese and Lambrusco.
+Manuel Wetscher discusses his Venice-premiering feature directorial debut about a boy whose father is in hospital with "the gay disease" and his team's focus on giving audiences a really sensory experience.
 
-### Billy Ray Cyrus Says Miley Dropping Last Name Is a Natural Progression for an Iconic Superstar Legend
-Wed, 02 Sep 2026 18:57:05 +0000 — https://www.hollywoodreporter.com/music/music-news/billy-ray-cyrus-responds-miley-dropping-last-name-1236688579/
+### Four Seasons Launches Refresh of Hotel Danieli
+Thu, 03 Sep 2026 08:10:06 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/venice-italy-hotels-danieli-palazzo-four-seasons-property-1236660599/
 
-The Grammy winner shifted her social media users to merely "Miley," cutting the "Cyrus."
+Built in 1471 and converted into a hospitality destination in 1822, Danieli is always a hub of activity during the film festival: "We are inaugurating a new chapter in the history of this celebrated palazzo."
 
-### George Clooney Challenges Authoritarians in Powerful Speech in Venice: “Stories Are Always Dangerous to People Who Peddle in Fear”
-Wed, 02 Sep 2026 18:40:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/george-clooney-venice-golden-lion-lifetime-achievement-1236687918/
+### Queer Edward II Takes Us Behind the Scenes of Derek Jarman s Film Shoot and a Political Backlash (Exclusive Venice Clip)
+Thu, 03 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/queer-edward-ii-film-clip-derek-jarman-doc-venice-2026-1236684151/
 
-Laura Dern presented the Hollywood star with Venice’s career honor during Wednesday’s opening ceremony with a little help from his famous friends like Brad Pitt, Adam Sandler and Steven Soderbergh.
+Tilda Swinton and Sandy Powell are EPs on Theo Rollason's directorial feature debut, premiering at Venice: "I hope the film can function not simply as a snapshot of a historical moment, but as a reminder of what collective resistance can look like – and what role art has to play."
 
-### Marshals Season 2 Trailer Picks Up After Cliffhanger Finale
-Wed, 02 Sep 2026 18:33:15 +0000 — https://www.hollywoodreporter.com/tv/tv-news/marshals-season-2-trailer-1236688450/
+### Oscars: Romania Picks Cannes Winner Fjord as Best International Feature Contender
+Thu, 03 Sep 2026 05:32:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-romania-fjord-renate-reinsve-sebastian-stan-1236689238/
 
-Kayce Dutton (Luke Grimes) and his son Tate (Brecken Merrill) remain in harm’s way heading into the second season of the 'Yellowstone' spinoff.
+Renate Reinsve and Sebastian Stan star in Cristian Mungiu‘s Palme d'Or winner as two strictly religious Romanian parents who relocate to a small Norwegian village and find themselves accused of child abuse,
 
-### Ludwig Christmas Special Set at BBC, BritBox With Guest Star and Famed Poirot Actor David Suchet
-Wed, 02 Sep 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ludwig-christmas-special-mitchell-david-suchet-bbc-britbox-1236688090/
+### Frank Marshall and Nigel Sinclair Reveal and Discuss Their New Doc Pete Townshend: Behind Blue Eyes (Exclusive)
+Thu, 03 Sep 2026 04:58:12 +0000 — https://www.hollywoodreporter.com/movies/movie-news/frank-marshall-nigel-sinclair-pete-townshend-behind-blue-eyes-1236687818/
 
-The Yorkshire-set, hour-long episode will see David Mitchell's John Taylor attempt to solve a murder mystery at a Christmas-themed hotel.
+The film, with which the legendary singer/songwriter of The Who cooperated, focuses on 'Lifehouse,' an unfinished science fiction rock opera that was intended as a follow-up to 'Tommy.'
 
-### Trump s DoJ Backs OpenAI In Legal Face Off With New York Times
-Wed, 02 Sep 2026 18:05:45 +0000 — https://www.hollywoodreporter.com/business/business-news/trump-doj-backs-openai-new-york-times-1236688417/
+### Oscar Predictions via Feinberg Forecast: Scott s First Read of the Race
+Thu, 03 Sep 2026 04:10:21 +0000 — https://www.hollywoodreporter.com/lists/oscar-predictions-2027-scott-feinberg-first-forecast/
 
-The government argues that restrictions on AI training will undermine national security, as well as competition among AI companies and news publishers.
+The Hollywood Reporter's executive editor of awards coverage assesses all 24 Academy Awards categories.
 
-### The Tragedy of Perez Hilton
-Wed, 02 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/perez-hilton-suicide-attempt-tiktok-social-media-reckoning-1236684690/
+### Ted Lasso Season Hits the Halfway Mark With Heartbreak All Around
+Thu, 03 Sep 2026 01:57:58 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-season-four-halfway-mark-heartbreak-all-around-1236689129/
 
-In the wake of the gossip blogger's nightmarish, livestreamed suicide attempt, insiders take stock of the groundbreaking talent and past toxicity of the self-proclaimed "original influencer": "I really think he started rage bait and hateful comments."
+Rebecca, Keeley and the Lady Greyhounds all take a hit in "Riches of Embarrassment" — but Coach Lasso still finds a silver lining.
 
-### Ink Review: Jack O Connell and Guy Pearce Trace Rupert Murdoch s Fleet Street Rise in Breathlessly Paced, Morally Opaque Danny Boyle Drama
-Wed, 02 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/ink-review-jack-oconnell-guy-pearce-danny-boyle-murdoch-1236686614/
+### Jennifer Aniston Joins Boyfriend Jim Curtis For Chat About Health, Wellness and Hypnotherapy
+Thu, 03 Sep 2026 01:40:59 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/jennifer-aniston-boyfriend-jim-curtis-wellness-hypnotherapy-1236689024/
 
-Claire Foy also stars in this Venice opener adapted by James Graham from his play about the transformation of U.K. tabloid culture into mass-market low-brow entertainment.
+The couple, who have been dating for over a year, took part in a 92NY event in support of Curtis' new book 'The Book of Possibility.'
 
-### Shemar Moore’s Hondo Trains LAPD Misfits for Redemption in ‘S.W.A.T. Exiles’ Trailer
-Wed, 02 Sep 2026 17:48:57 +0000 — https://www.hollywoodreporter.com/tv/tv-news/swat-exiles-trailer-shemar-moore-watch-1236688356/
+### Lego Just Created Its First-Ever Batman Returns Batmobile
+Thu, 03 Sep 2026 01:15:53 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/lego-batmobile-batman-returns-sept-2026-release-price-buy-1236688266/
 
-Moore returns for the ‘S.W.A.T.’ spinoff series from Starz, set to bow on Sept. 25
+The new set is part of a series of Batman releases celebrating the 20th anniversary of Lego Batman sets.
 
-### The Devil Wears Zara: Anna Wintour’s Latest Met Gala Mess
-Wed, 02 Sep 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/style/anna-wintour-met-gala-mess-1236687377/
+### Sony Dates Indian Epic ‘Ramayana’ For November
+Thu, 03 Sep 2026 01:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sony-dates-indian-epic-ramayana-1236688963/
 
-John Galliano’s sudden exit from the party has left the real-life Miranda Priestly in something of a lurch — and maybe scrambling for a new sponsor.
+The adaptation of the epic poem is from filmmaker Nitesh Tiwari.
 
 ## Deadline
 
-### Emmy Rossum Furious Creator Liz Meriwether On Interviewing Real Trafficking Survivors, Updating A 1987 Thriller Season 2 Croatian Beach Dreams
-Wed, 02 Sep 2026 19:29:39 +0000 — https://deadline.com/2026/09/emmy-rossum-furious-liz-meriwether-trafficking-survivors-season-2-1237065707/
+### Goalhanger Wants To Make The British Bourne With Geopolitical Audio Drama Bear Hunt
+Thu, 03 Sep 2026 09:02:46 +0000 — https://deadline.com/2026/09/goalhanger-audio-drama-bear-hunt-launches-1237066584/
 
-As Furious viewers get closure on one character s search for justice, series creator Liz Meriwether and star Emmy Rossum have some ideas for Season 2. Inspired by the 1987 thriller Black Widow, Rossum told Deadline about a great scuba sequence from the film that she wanted to recreate when her character FBI Agent Alice Black [ ]
+EXCLUSIVE: The Rest is Entertainment maker Goalhanger is behind an audio drama series that it is billing as the British Bourne. Bear Hunt is the first release from Goalhanger Drama, a new scripted unit for Gary Lineker, Tony Pastor and Jack Davenport s UK-based media business that launches today. The ten-part series follows a fictional mission [ ]
 
-### Joe Anthony Russo On Why Avengers: Doomsday Started Filming Without A Finished Script: We Like To See What Actors Bring To The Characters
-Wed, 02 Sep 2026 19:04:13 +0000 — https://deadline.com/2026/09/joe-anthony-russo-avengers-doomsday-filming-unfinished-script-1237065860/
+### Slow Horses Maker See-Saw Films Hires Fifth Season s Ben Irving; Helen Gregory Stepping Down
+Thu, 03 Sep 2026 09:00:00 +0000 — https://deadline.com/2026/09/see-saw-films-hires-fifth-season-exec-helen-gregory-exiting-1237066575/
 
-Joe and Anthony Russo are opening up about Avengers: Doomsday and explaining why they started shooting the Marvel film without a finished script. In a new interview, the Russo brothers shared why they view the script as a living organism. We’re improvisation-based, rehearsal-based directors, Joe Russo told AP. We like to see what the actors [ ]
+Slow Horses producer See-Saw Films has hired Fifth Season s Ben Irving, with Helen Gregory exiting after five years. Irving has been appointed Joint Managing Director, working alongside Simon Gillis, who holds the same post. There s currently no word on Gregory s next role, but she is explring the next step of her career and said she [ ]
 
-### Sony Pictures And Story Kitchen Team On Feature Adaptation Of Video Game The Drifter
-Wed, 02 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/sony-pictures-story-kitchen-the-drifter-1237065760/
+### The Gentlemen Star Theo James On Megan Markle Casting, Guy Ritchie s Process Reticence Over Italy Storyline
+Thu, 03 Sep 2026 08:37:06 +0000 — https://deadline.com/2026/09/the-gentlemen-theo-james-season-2-netflix-interview-1237065348/
 
-EXCLUSIVE: Sony Pictures and Story Kitchen have landed the live-action feature film rights to the videogame, The Drifter. Story Kitchen s Dmitri M. Johnson and Michael Lawrence Goldberg will be producing with Timothy I. Stevenson and Elena Sandoval executive producing. The Drifter is a pulpy adventure videogame, where after witnessing a brutal murder and being drowned [ ]
+He may play a Duke in The Gentlemen, but Theo James isn t convinced he ll be acting opposite a Duchess in Season 3. Asked by Deadline whether the Duchess of Sussex, Meghan Markle, had been cast in the recently-confirmed third season of the Netflix show, he responded with a joke and wry smile, saying Prince Harry? [ ]
 
-### Days Of Our Lives Casts Sami s Daughter; Plus, Heated Rivalry Actor Joins Peacock Sudser
-Wed, 02 Sep 2026 18:59:38 +0000 — https://deadline.com/2026/09/days-of-our-lives-casts-samis-daughter-1237065720/
+### Non-Linear New Zealand Crime Drama Alibi Heading To MIPCOM With Yes Studios
+Thu, 03 Sep 2026 06:22:54 +0000 — https://deadline.com/2026/09/alibi-new-zealand-crime-drama-yes-studios-mipcom-cannes-1237065268/
 
-EXCLUSIVE: Deadline has learned that Days of Our Lives has big plans for newly-cast actress Sydney Malakeh. She ll be playing the only daughter of Sami (Alison Sweeney) and EJ (Dan Feuerriegel). Her character, who is named Sydney DiMera, was last seen as a pre-teen on Peacock s 2021 movie Days of our Lives: A Very Salem [ ]
+EXCLUSIVE: An unusual short-form scripted format from New Zealand is headed to MIPCOM with Israel s Yes Studios. Alibi is a seven-part, 15-minutes per episode crime series in which the same story is told from multiple perspectives. Produced by Plus6Four Entertainment for pubcaster TVNZ, it is set in the fictional town of Awatahi in New Zealand, [ ]
 
-### Venice Film Festival 2026: Read All Of Deadline’s Reviews
-Wed, 02 Sep 2026 18:58:00 +0000 — https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/
+### Art Sex Music : First Look At Caroline Catz s Doc About British Artist Musician Cosey Fanni Tutti
+Thu, 03 Sep 2026 05:52:44 +0000 — https://deadline.com/2026/09/art-sex-music-caroline-catz-doc-cosey-fanni-tutti-1237065453/
 
-The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle s Ink starring Jack O’Connell, Guy Pearce and Claire Foy kicking off an 83rd edition that includes films starring the likes of Robert Pattinson, Penelope Cruz Javier Bardem, Jack Huston Sofia Boutella, Dakota Johnson, John [ ]
+EXCLUSIVE: Here are the first stills from Art Sex Music, a feature documentary directed by Caroline Catz and produced by Andy Starke (Free Fire, Kill List). The doc, which has just wrapped, is based on artist, musician and author Cosey Fanni Tutti’s bestselling memoir of the same name and explores her work as an uncompromising cultural pioneer [ ]
 
-### Harry Potter TV Series Due To Hit HBO In 2027: Everything We Know About The Cast, Who s Creating It, What J.K. Rowling Says More
-Wed, 02 Sep 2026 18:27:13 +0000 — https://deadline.com/2026/09/harry-potter-tv-series-max-release-date-cast-1235323284/
+### Sony Sets Release Date For Indian Epic Ramayana With Ranbir Kapoor, Yash Sai Pallavi
+Thu, 03 Sep 2026 05:35:22 +0000 — https://deadline.com/2026/09/ramayana-release-date-sony-november-ranbir-kapoor-yash-1237066545/
 
-There will be another season of HBO Max s Harry Potter TV series. The new Harry, Ron and Hermione have received their Hogwarts admission letters, as have the newest additions — four out of Ron s six siblings. Since those magical owl deliveries, the Ginny Weasley role will be recast for Season 2 due to Gracie Cochrane s [ ]
+Sony has set a November 6 global release date for fantasy action-adventure saga Ramayana, starring Ranbir Kapoor, Yash, and Sai Pallavi. Ramayana is planned as a two-part movie event based on the 5,000-year-old saga. The synopsis reads: An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a [ ]
 
-### George Clooney Calls Out Authoritarians Who Peddle Fear As He Receives Lifetime Award Achievement In Venice
-Wed, 02 Sep 2026 18:18:33 +0000 — https://deadline.com/2026/09/venice-opening-george-clooney-award-power-cinema-1237065743/
+### Heidi Klum Returning To America s Got Talent Amid Simon Cowell s Absence
+Thu, 03 Sep 2026 03:21:30 +0000 — https://deadline.com/2026/09/heidi-klum-returning-americas-got-talent-simon-cowell-1237066480/
 
-The Venice Film Festival kicked off on a defiantly humanist note on Wednesday with speeches from Life Achievement Awardee George Clooney and jury president Maggie Gyllenhaal championing the power of cinema as a unifier in divisive times. Praising the festival as an extraordinary meeting place, Clooney used his award speech to stress the need for [ ]
+As Simon Cowell continues to recover from back surgery, another America s Got Talent alum is returning to the judges table. On Wednesday’s episode of the NBC reality competition series, it was announced that Heidi Klum will fill in for Cowell next week during a special three-hour broadcast of the Season 21 quarterfinals. Klum served as [ ]
 
-### Peacock Acquires The Office Documentary Series Fan Level Midnight
-Wed, 02 Sep 2026 18:12:00 +0000 — https://deadline.com/2026/09/peacock-acquires-the-office-doc-series-fan-level-midnight-1237064743/
+### Nicholas Todisco Brad Pence Exiting Atlas Artists
+Thu, 03 Sep 2026 03:01:28 +0000 — https://deadline.com/2026/09/atlas-artists-nicholas-todisco-brad-pence-exit-management-co-1237066465/
 
-EXCLUSIVE: Peacock has acquired a new documentary about the history and cultural impact of NBC s The Office, and it s set to stream very soon. Fan Level Midnight: Devoted to The Office, directed by Shawn Cauthen, will debut on the streamer on September 7. Throughout six episodes, Fan Level Midnight explores how the U.S. version of [ ]
+EXCLUSIVE: Nicholas Todisco and Brad Pence, a pair of partners at L.A.-based management company Atlas Artists, are exiting the company, Deadline has learned. Notable actor clients for the duo include Hannah Waddingham, the Emmy-winning Ted Lasso star, and Connor Storrie, who is fast on the rise amid his work on the breakout Crave/HBO Max series Heated Rivalry. Sources [ ]
 
-### Broadway Marquees To Dim For Dolly Parton, Tim Curry, Louise Lasser And Others
-Wed, 02 Sep 2026 18:05:19 +0000 — https://deadline.com/2026/09/broadway-marquees-dim-dolly-parton-tim-curry-louise-lasser-1237065776/
+### Trump s DOJ Skewered By NYT For Backing OpenAI Trillion-Dollar AI Companies In Copyright Suit Featuring Media Heavyweights Star-Studded Scribes
+Thu, 03 Sep 2026 01:29:00 +0000 — https://deadline.com/2026/09/new-york-times-justice-department-openai-1237066310/
 
-Dolly Parton, whose Dolly: A True Original Musical, is New York-bound, will be among those honored with a Broadway marquee dimming set for Tuesday, September 8. In addition to Parton, who died August 25, the group tribute will also honor, among others, The Rocky Horror Show s Tim Curry, Mary Hartman, Mary Hartman star Louise Lasser [ ]
+Donald Trump told GOP congressional candidates visiting the White House on Wednesday evening that the media has gained respect for us, they cannot believe what we ve done. The New York Times might beg to differ, at least when it comes to artificial intelligence. Almost a day after the Justice Department filed paperwork in federal court backing [ ]
 
-### Ink Review: Danny Boyle s Sensational Look At The Origins Of Rupert Murdoch s The Sun Is Also A Warning For Now Venice Film Festival
-Wed, 02 Sep 2026 18:00:16 +0000 — https://deadline.com/2026/09/ink-review-danny-boyle-rupert-murdoch-the-sun-1237062989/
+### Google Won t Have To Break Up Its Ad Business, Judge Rules, Though It Will Have To Change Its Ways
+Wed, 02 Sep 2026 23:53:59 +0000 — https://deadline.com/2026/09/google-advertising-business-federal-judge-1237066345/
 
-Everyone probably has an opinion of Australian mogul Rupert Murdoch, whose media empire has included the New York Post, Wall Street Journal and the creation of the 24-hour conservative news network Fox News, essentially reshaping the political landscape in many ways which, depending on your viewpoint, is a good thing or for many something very [ ]
+Google will not have to break up its advertising operations, a federal judge has ruled, though it will have to alter its business practices. Leonie M. Brinkema, U.S. District Judge of the Eastern District of Virginia, handed down her decision Wednesday. The ruling, which remains under seal, comes after Brinkema concluded last year that the [ ]
 
-### NBC s Newlyweds Drops First-Look Photos Of Tim Daly Téa Leoni
-Wed, 02 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/nbc-newlyweds-first-look-photos-tim-daly-tea-leoni-1237064820/
+### David Zayas Returning For Dexter: Resurrection Season 2 — Is Batista Alive?
+Wed, 02 Sep 2026 23:48:48 +0000 — https://deadline.com/2026/09/david-zayas-cast-dexter-resurrection-season-2-1237066181/
 
-Real-life couple Tim Daly and Téa Leoni are making their debut as the stars of the NBC comedy Newlyweds via first-look photos, which can be found below. There are also photos of Daly and Leoni s co-stars Jamie Lee Curtis, Emma Meisel, Ignacio Diaz-Silverio, Bill O’Neill and Al Madrigal. Newlyweds is a later-in-life love story about a [ ]
+Dexter star David Zayas is returning to his fan-favorite role of Angel Batista for the second season of Showtime s Dexter: Resurrection, sources confirm to Deadline. Zayas was spotted shooting alongside series lead Michael C. Hall as the titular Dexter Morgan earlier Wednesday in Times Square — not the best place to shoot if you re trying [ ]
 
-### Mark Harmon Returns To NCIS: Origins For Season 3 In First-Look Photos: Mark Was Excited To Give Fans What They Wanted
-Wed, 02 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/mark-harmon-ncis-origins-season-3-return-photos-1237065766/
+### ‘Marshals’: Kayce Dutton Is A “Chaos Magnet” In Season 2 With Explosive New Trailer For ‘Yellowstone’ Spinoff
+Wed, 02 Sep 2026 23:38:38 +0000 — https://deadline.com/2026/09/marshals-season-2-trailer-yellowstone-spinoff-luke-grimes-1237066349/
 
-EXCLUSIVE: CBS NCIS: Origins Season 3 will see the return of Mark Harmon as Leroy Jethro Gibbs for a season-long arc beginning with the show s premiere on Tuesday, October 6 at 10 p.m. ET/PT, and we have first-look photos of his return above and below. In addition to the photos, showrunner and executive producer David [ ]
+Marshals is back with more explosions, missing children and rural romances. CBS on Wednesday unveiled the first trailer for Season 2 of the CBS procedural, which stars Luke Grimes as Kayce Dutton, who ends the clip climbing a moving train with a big gun, obviously. The clip answered a number of questions that arose from [ ]
 
