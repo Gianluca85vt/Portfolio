@@ -1,3 +1,8 @@
 Hugging Face, from the @huggingface/kernels announcement post
 
 - /img/blog/huggingface-207-webgpu-kernels-matmul/shot-01.jpg
+- /img/blog/huggingface-207-webgpu-kernels-matmul/cover.jpg
+
+cover.jpg is the same Hugging Face asset, re-framed to 1200x900 so the
+announcement lockup survives the 16:10 card crop and the 4:5 social crop.
+The 2:1 original centre-cropped to the Fleet sail alone, with the text gone.

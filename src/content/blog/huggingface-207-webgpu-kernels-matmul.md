@@ -3,7 +3,7 @@ title: "Hugging Face's WebGPU kernels: matmul gained 14%"
 date: 2026-09-03
 category: AI
 excerpt: Hugging Face put 207 WGSL kernels on the Hub on 1 September. The geometric mean is 2.57x. Matmul, which dominates inference time, came in at 1.14x.
-cover: /img/blog/huggingface-207-webgpu-kernels-matmul/shot-01.jpg
+cover: /img/blog/huggingface-207-webgpu-kernels-matmul/cover.jpg
 ---
 
 Open one of the 207 repositories Hugging Face pushed to the Hub on 1 September
