@@ -1,6 +1,5 @@
 import FadeIn from './ui/FadeIn';
-import Magnet from './ui/Magnet';
-import AvatarEyes from './ui/AvatarEyes';
+import AvatarScrub from './ui/AvatarScrub';
 import AvatarBubble from './ui/AvatarBubble';
 import type { LatestPost } from './ui/AvatarBubble';
 import GlowText from './ui/GlowText';
@@ -71,19 +70,19 @@ export default function HeroSection({ latest = [] }: { latest?: LatestPost[] }) 
             pointer-events-none; the bubble re-enables them on itself only. */}
         <AvatarBubble posts={latest} />
         <FadeIn delay={0.6} y={30}>
-          <Magnet
-            padding={150}
-            strength={3}
-            activeTransition="transform 0.3s ease-out"
-            inactiveTransition="transform 0.6s ease-in-out"
-          >
-            <AvatarEyes
-              alt="3D stylised portrait of Gianluca Scattarella"
-              /* sized off the viewport height so the portrait always clears the
-                 headline above it and the caption bar below */
-              className="h-[44vh] sm:h-[56vh] md:h-[66vh] lg:h-[72vh] w-auto max-w-none select-none"
-            />
-          </Magnet>
+          {/* No Magnet here any more. It slid the whole portrait toward the
+              cursor — measured at 7px one way and 27px the other — and the head
+              now passes behind the headline, where drifting sideways makes the
+              overlap wander. The cursor already moves the head: it turns it. */}
+          <AvatarScrub
+            alt="3D stylised portrait of Gianluca Scattarella"
+            /* Sized off the viewport height, and anchored to the bottom of the
+               hero, so growing it raises the crown of the head rather than
+               pushing it down: at 900px tall the top moves from 282 to 200 and
+               the head passes behind the headline, which ends at 243. The
+               z-order already puts it there — this is what makes them meet. */
+            className="h-[50vh] sm:h-[63vh] md:h-[74vh] lg:h-[81vh] w-auto max-w-none select-none"
+          />
         </FadeIn>
       </div>
     </section>
