@@ -1,0 +1,3 @@
+Hugging Face, from the @huggingface/kernels announcement post
+
+- /img/blog/huggingface-207-webgpu-kernels-matmul/shot-01.jpg

@@ -1,9 +1,0 @@
-{
-  "slug": "huggingface-207-webgpu-kernels-matmul",
-  "youtubeId": "SilGBAV4Lbw",
-  "urls": [
-    "https://raw.githubusercontent.com/huggingface/blog/main/assets/webgpu-kernels/thumbnail.png"
-  ],
-  "credit": "Hugging Face, from the @huggingface/kernels announcement post",
-  "comparison": false
-}
