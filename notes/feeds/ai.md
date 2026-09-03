@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-03T14:43:13.976Z
+# AI — harvested 2026-09-03T19:26:19.274Z
 
 ## OpenAI
 
@@ -6,11 +6,6 @@
 Wed, 02 Sep 2026 12:00:00 GMT — https://openai.com/index/atv-big-air-tour
 
 ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.
-
-### How AI-native companies turn workflows into operating capability
-Tue, 01 Sep 2026 17:00:00 GMT — https://openai.com/index/ai-native-company-workflows
-
-Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.
 
 ## Hugging Face
 
@@ -34,14 +29,14 @@ Tue, 01 Sep 2026 21:39:07 GMT — https://huggingface.co/blog/allenai/benchmirt
 
 ## Google DeepMind
 
+### Introducing WeatherNext 3, our most advanced and accurate global weather AI model
+Thu, 03 Sep 2026 15:02:08 +0000 — https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/
+
 ### Proactive cyber defense for governments and enterprises
 Wed, 02 Sep 2026 16:24:24 +0000 — https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/
 
 ### Introducing Gemini 3.8 Flash and 3.8 Flash Cyber
 Wed, 02 Sep 2026 16:18:31 +0000 — https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/
-
-### Introducing agentic video understanding with Gemini
-Tue, 01 Sep 2026 17:08:51 +0000 — https://deepmind.google/blog/introducing-agentic-video-in-gemini/
 
 ## VentureBeat AI
 

@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-09-03T14:43:13.976Z
+# Film & TV — harvested 2026-09-03T19:26:19.274Z
 
 ## Variety
 
-### Technoblade Never Dies Documentary Film About Late Minecraft Creator in the Works With Funding From Riot Games and Hypixel Studios
-Thu, 03 Sep 2026 14:22:55 +0000 — https://variety.com/2026/film/news/technoblade-never-dies-documentary-minecraft-riot-games-1236850438/
+### Raffaele Annecchino, Former President and CEO of Paramount International, Dies at 55
+Thu, 03 Sep 2026 19:11:12 +0000 — https://variety.com/2026/tv/news/raffaele-annecchino-dead-president-ceo-paramount-1236850761/
 
-The life and legacy of Technoblade, the beloved and influential Minecraft creator who died in 2022, will be chronicled in a feature-length documentary film. Titled Technoblade Never Dies a catchphrase of the late California-based creator the project is being made with the full support and cooperation of Technoblade’s family. The film is being [ ]
+Raffaele Annecchino, who over more than 25 years at Paramount/ViacomCBS rose from an early role on the sales side in Madrid to oversee the company’s international operations across Europe, the Middle East, Africa, Latin America and Asia, has died of acute meningitis. He was 55. As CEO of Paramount International, Annecchino played a central role [ ]
 
-### Dave Bautista Shows Off Body Transformation to Play Kratos in God of War Series: Two More Months to Get to Where I Need to Be
-Thu, 03 Sep 2026 14:08:45 +0000 — https://variety.com/2026/tv/news/dave-bautista-god-of-war-kratos-body-transformation-1236850444/
+### Atonement Trailer: First Look at Reed Van Dyk s Searing War Movie About Combat Guilt and the Anguish of Loss (EXCLUSIVE)
+Thu, 03 Sep 2026 19:00:00 +0000 — https://variety.com/2026/film/news/atonement-reed-van-dyk-trailer-1236850481/
 
-Dave Bautista is back in the gym and showing off his muscle gains to play the super-strong Greek hero Kratos in the upcoming adaptation of the God of War video game. The actor shared a video of himself flexing in the gym and revealed that he s three weeks into his weight training regime, with two [ ]
+Kino Lorber has released the first trailer for Reed Van Dyk s Atonement. The film will have its Gala Presentation Premiere at the Toronto International Film Festival, and will be released on Oct. 2. It stars Kenneth Branagh, Boyd Holbrook ( The Bikeriders ) and Succession s Hiam Abbass. Atonement follows the Khachaturian family, who were displaced from their [ ]
 
-### Asian Male Pageantry Gets Unscripted Competition Series Based on Microdrama-Turned-Feature Franchise Rags 2 Richmond (EXCLUSIVE)
-Thu, 03 Sep 2026 14:00:00 +0000 — https://variety.com/2026/global/markets-festivals/asian-male-pageantry-rags-2-richmond-competition-series-1236849430/
+### Rick Riordan s Kane Chronicles Series in the Works at Disney+
+Thu, 03 Sep 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/kane-chronicles-show-rick-riordan-disney-1236850756/
 
-Viral Nation and Media Trifecta have teamed up to develop an unscripted competition series built around Octagon Metatainment s Rags 2 Richmond franchise. Buyers will get their first look at the series at the Access Canada Summit, held as part of the Toronto Film Festival s inaugural market. The series translates the world of Asian male pageantry [ ]
+Kane Chronicles is coming to TV. A series adaptation of the Rick Riordan book series is in development at Disney+. If the project is ordered, Angela Robinson ( True Blood, The L Word ) will executive produce and write the show alongside Riordan, who is best known for his Percy Jackson and the Olympians series. The Kane [ ]
 
-### B.B. King Documentary in the Works From Musician s Estate and Winter State Entertainment (EXCLUSIVE)
-Thu, 03 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/news/b-b-king-documentary-from-estate-1236849778/
+### ‘By Any Means’ Review: Mark Wahlberg Teaches the Virtues of Violence in Elegance Bratton’s Bluntly Drawn Historical Thriller
+Thu, 03 Sep 2026 18:12:37 +0000 — https://variety.com/2026/film/reviews/by-any-means-review-mark-wahlberg-1236850708/
 
-The B.B. King Music Company and the legendary blues musician’s estate have announced the development of a new feature documentary celebrating his life, music, influence and legacy. The documentary is currently in development, with additional announcements regarding the creative team, production, distribution and release plans to follow. The documentary is expected to explore King s journey [ ]
+In Peter Farrelly’s “Green Book,” Viggo Mortensen’s driver famously introduces Mahersahala Ali’s concert pianist to fried chicken. The white man, an expert, proves his cultural bona fides to the Black protagonist, the student. The pair of outsiders share a moment of bonding, and America’s wounds are salved. That movie felt dated in 2018. Eight years [ ]
 
-### SCAD AnimationFest 2026 Lineup Revealed: Variety’s 10 Animators to Watch, ‘Forgotten Island’ Premiere and ‘The Proud Family’ Tribute
-Thu, 03 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/awards/scad-animationfest-2026-lineup-1236849942/
+### Lanterns Episode 3 Attracts 10 Million Viewers Globally on HBO Max, a New Series High
+Thu, 03 Sep 2026 18:07:51 +0000 — https://variety.com/2026/tv/news/lanterns-episode-3-ratings-10-million-viewers-hbo-max-1236850717/
 
-The Savannah College of Art and Design will bring SCAD AnimationFest back to SCAD Atlanta Sept. 23-25, staging three days of premieres, sneak peeks and industry conversation at the university’s SCADshow theater. The anniversary program will be leaning on two marquee tributes: a 25th-anniversary celebration of “The Proud Family,” honoring executive producers Bruce W. Smith [ ]
+HBO Max s “Lanterns” continues to grow in viewership. The DC Studios series third episode, which premiered Sunday, Aug. 30, averaged 10 million viewers globally and 7 million viewers in the U.S. after three days of viewership, according to the network/streamer. That marks a series high for “Lanterns,” which continues to grow week-to-week since its series [ ]
 
-### Federico Borgia’s Dark Comedy ‘Prince’ Boarded by Alpha Violet Ahead of London Film Festival World Premiere (EXCLUSIVE)
-Thu, 03 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/global/federico-borgia-prince-alpha-violet-london-film-festival-1236850053/
+### George Clooney Remembers ‘Mortgaging His House’ for ‘Good Night and Good Luck,’ Praises Badass Wife Amal and Offers Aspiring Filmmaker a Job at Venice Masterclass
+Thu, 03 Sep 2026 18:02:11 +0000 — https://variety.com/2026/film/global/george-clooney-career-activism-venice-masterclass-1236850397/
 
-Paris-based sales agency Alpha Violet has acquired international sales rights to “Prince,” the darkly funny feature from Uruguayan filmmaker Federico Borgia, ahead of its world premiere at the 70th BFI London Film Festival this October. Set against the decaying seaside luxury of Punta del Este in Uruguay, “Prince” explores class divisions, grief and domestic absurdity. [ ]
+George Clooney, who received the Golden Lion for Lifetime Achievement from his “Jay Kelly” co-star Laura Dern on opening night of the 2026 Venice Film Festival, sat down for a masterclass at the Lido’s Match Point Arena to look back on a career spanning nearly five decades. His relationship with Venice stretches back nearly three [ ]
 
-### Nippon TV, TBS and BEAJ to Lead Tokyo Market Conferences
-Thu, 03 Sep 2026 13:54:26 +0000 — https://variety.com/2026/tv/markets-festivals/nippon-tv-tbs-beaj-tokyo-market-conferences-1236850437/
+### Heated Rivalry Season 2 Casts Milla Jovovich, Kevin Zegers and Paul Gross
+Thu, 03 Sep 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/heated-rivalry-season-2-cast-kevin-zegers-paul-gross-1236850683/
 
-Tokyo s TIFFCOM market has unveiled the first wave of its newly rebranded conference program, with Nippon Television Network Corp., Tokyo Broadcasting System Holdings and the Broadcast Program Export Association of Japan (BEAJ) headlining three sessions at the Oct. 28-30 market in Tokyo. Visitor registration is running roughly 20% ahead of where it stood at this [ ]
+The cast of Heated Rivalry continues to warm up. Kevin Zegers, Paul Gross and Milla Jovovich have joined the hit ice-hockey romance series from Crave ahead of its Season 2 debut on HBO Max in spring 2027. Zegers ( The Madison, Transamerica ) will play Coach Wiebe. Gross ( Good Night, and Good Luck, Tales of the City ) [ ]
 
-### NBC News 9/11 Coverage Includes Special Broadcasts of Dateline, Today
-Thu, 03 Sep 2026 13:45:00 +0000 — https://variety.com/2026/tv/news/nbc-news-9-11-coverage-speicals-dateline-today-1236850406/
+### Furious Hits 43 Million Hours Viewed in Total, With Finale Jumping 90% From Premiere (EXCLUSIVE)
+Thu, 03 Sep 2026 17:57:06 +0000 — https://variety.com/2026/tv/news/furious-ratings-views-1236850530/
 
-NBC News will present never-before-seen footage from its coverage of 9/11 in a documentary on Dateline as part of its commemmoration of the 25th anniversary of the terrorist attacks on that date. The NBCUniversal-backed news division will present special coverage across next week on Today, NBC Nightly News, Dateline, Meet the Press, NBC News Now [ ]
+The Hulu crime drama Furious has cleared 43 million hours watched since it premiered, according to Disney. Starring Emmy Rossum as an FBI agent investigating a female serial killer (Lola Petticrew), the Elizabeth Meriwether-created series achieved that in about five weeks, having debuted on July 27. The 43 million hour-total translates to roughly 6.2 million [ ]
 
-### Busan-Bound Khoriya Leads Future East s 2026-27 Slate (EXCLUSIVE)
-Thu, 03 Sep 2026 13:35:14 +0000 — https://variety.com/2026/film/news/busan-khoriya-future-east-2026-27-slate-1236850420/
+### Dungeons Dragons Live-Action Series Ravenloft Set at Netflix After Forgotten Realms Project Scrapped
+Thu, 03 Sep 2026 17:54:52 +0000 — https://variety.com/2026/tv/news/ravenloft-d-and-d-series-netflix-forgotten-realms-canceled-1236850699/
 
-Vishwendra Singh s debut feature Khoriya, bound for the Busan International Film Festival, leads Future East Film s 2026-27 slate, which also includes Ashim Ahluwalia s Unidentified Actress, Rayit Hashmat Qazi s Sawdust and the India-Italy co-production Heroic Frenzies. Ahluwalia s Unidentified Actress, an India-U.K.-Germany co-production now shooting, centers on a documentary filmmaker tracking down a movie star who vanished [ ]
+A new live-action Dungeons Dragons TV series is in the works at Netflix based on the iconic franchise s popular gothic-horror setting Ravenloft. As this series goes into development in collaboration with the Hasbro-owned D D maker Wizards of the Coast, Netflix has scrapped another D D project inspired by the tabletop roleplaying game s The Forgotten Realms [ ]
 
-### Miley Cyrus Drops Last Name, Prompting Dad Billy Ray to Publicly Defend the Change: Family Means More than Ever Now
-Thu, 03 Sep 2026 13:30:45 +0000 — https://variety.com/2026/music/news/miley-cyrus-drops-last-name-bill-ray-defends-change-1236850399/
+### Hsin Hsuan Yeh Presents The River Within You in Venice, an Immersive VR Experience That Navigates Loss, Grief and Letting Go
+Thu, 03 Sep 2026 17:48:39 +0000 — https://variety.com/2026/film/global/hsin-hsuan-yeh-the-river-within-you-venice-1236850542/
 
-Miley Cyrus has dropped her last name in the lead up to her tenth studio album, Bass Persuades, prompting her father, Billy Ray Cyrus, to speak out on X in defense of the decision. Miley s announcement fueled the rumor mill about alleged ongoing tensions between the pop star and her father (see The Daily Beast [ ]
+Taiwanese animation director Hsin Hsuan Yeh (“Sense of Nowhere”) is in pre-production on “The River Within You,” an immersive VR experience exploring the connection between holding on to the memory of someone lost and finding the strength to let them go. Yeh will present the project at the 13th Venice Production Bridge’s Gap-Financing Market, running [ ]
 
 ## The Hollywood Reporter
 
-### Bobby Bones Built a Radio Empire. Netflix Is His New Frontier
-Thu, 03 Sep 2026 14:38:24 +0000 — https://www.hollywoodreporter.com/business/digital/bobby-bones-netflix-1236689550/
+### Congress Didn’t Just Defund Public Media, It Defunded the Emergency Alert
+Thu, 03 Sep 2026 19:25:41 +0000 — https://www.hollywoodreporter.com/business/business-news/public-media-fund-emergency-alert-1236689608/
 
-Bolstered by a multimillion-dollar deal, the country music host (and 'DWTS' winner) is pioneering the streamer’s expansion in video podcasting.
+The stations going dark this year aren’t NPR tote-bag liberalism. In much of rural America they’re the last local signal — and part of the system that tells you a tornado is coming.
 
-### Exorcism Comedy Omi First Look: Late Bunny Levine s Final Onscreen Performance, Love Story Star Dree Hemingway (Exclusive)
-Thu, 03 Sep 2026 14:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/omi-first-look-bunny-levine-final-role-dree-hemingway-1236689178/
+### Series Based on Rick Riordan s Kane Chronicles in the Works at Disney+
+Thu, 03 Sep 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/kane-chronicles-series-rick-riordan-disney-plus-1236689743/
 
-Levine, who died at 97 last month, stars as the title character in the Jewish supernatural comedy.
+Angela Robinson and the author are writing a script for the project, which was previously in development at Netflx.
 
-### Chris Langham, BAFTA-Winning The Thick of It Actor Convicted of Child Sex Offences, Dies at 77
-Thu, 03 Sep 2026 14:04:06 +0000 — https://www.hollywoodreporter.com/news/general-news/chris-langham-dead-dies-bafta-thick-of-it-child-sex-images-1236689527/
+### Where Hollywood Stays, Eats, Shops and Finds Art in Venice
+Thu, 03 Sep 2026 18:59:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/venice-festival-where-hollywood-stays-eats-shops-finds-art-1236684981/
 
-Langham was best known for his role as cabinet minister Hugh Abbot opposite Peter Capaldi in Armando Iannucci's satirical comedy, before his reputation soured on child sex abuse charges.
+From a Grand Canal base and a storied power lunch to Venetian slippers and two September exhibitions, these addresses are worth leaving the Lido for during the 83rd Venice Film Festival.
 
-### MS NOW Doubles Down on Crooked Media, Adding Lovett or Leave It to Weekend Lineup (Exclusive)
-Thu, 03 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/ms-now-adds-lovett-or-leave-it-to-weekend-saturday-lineup-1236688108/
+### Harry Daniels is Done Singing at Celebrities (Maybe)
+Thu, 03 Sep 2026 18:15:00 +0000 — https://www.hollywoodreporter.com/music/music-features/harry-daniels-done-singing-celebrities-maybe-1236689761/
 
-Jon Lovett's show will follow a block of other Crooked Media shows on Saturday nights.
+Dropped by UTA and dumped by a famous beau over his videos, the TikTok sensation thinks it’s time to move on from L.A. and the ambush act that made him famous.
 
-### Tom Hardy Is Officially Returning to MobLand With Season 3 Renewal
-Thu, 03 Sep 2026 13:24:04 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tom-hardy-not-fired-mobland-season-3-renewed-1236689516/
+### Connor Storrie s Managers Join Linden Entertainment, Home of Amy Adams, Brendan Fraser
+Thu, 03 Sep 2026 18:15:00 +0000 — https://www.hollywoodreporter.com/business/business-news/connor-storries-managers-linden-entertainment-1236689950/
 
-"The Harrigans aren't going anywhere," Paramount+ announced.
+Nicholas Todisco and Brad Pence left Atlas Artists earlier this week.
 
-### Norah O Donnell Returns to CBS Mornings in Latest Network Shake Up
-Thu, 03 Sep 2026 13:23:10 +0000 — https://www.hollywoodreporter.com/tv/tv-news/norah-odonnell-returns-cbs-mornings-anchor-1236689510/
+### Heated Rivalry Season 2 Adds Kevin Zegers, Paul Gross and Milla Jovovich
+Thu, 03 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-season-2-coach-weibe-galina-commisioner-cast-1236680001/
 
-O'Donnell will join Gayle King and Nate Burleson on the network morning show, in addition to her expanded role at '60 Minutes.'
+The upcoming season will seemingly take from Rachel Reid's novels 'The Long Game,' 'Role Model' and 'Tough Guy.'
 
-### Hollywood Veterans Launch aTwist Microdrama Platform With Horror, Comedy and Animated Series
-Thu, 03 Sep 2026 13:05:00 +0000 — https://www.hollywoodreporter.com/business/digital/hollywood-veterans-atwist-microdrama-platform-1236688362/
+### Paul Schrader Doesn’t Need Your Permission
+Thu, 03 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/paul-schrader-icon-venice-basics-of-philosophy-interview-1236688117/
 
-The new app from Jana Winograde, Susan Rovner and Lloyd Braun is rolling out with an initial slate of 10 shows including a spoof of verticals and an unscripted show about a Vegas spending spree.
+With 'The Basics of Philosophy,' the iconic filmmaker, now 80, continues one of the most astounding late-career runs in Hollywood history.
 
-### The Fix Is Not In: Can Sports Gambling’s Trust Crisis Be Solved?
-Thu, 03 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/sports-gambling-trust-crisis-solution-1236666103/
+### HBO Max Sets Band of Brothers Documentary Timed to 25th Anniversary
+Thu, 03 Sep 2026 17:40:02 +0000 — https://www.hollywoodreporter.com/tv/tv-news/band-of-brothers-legacy-documentary-hbo-max-25th-anniversary-1236689865/
 
-If the outcomes of games are called into question, the whole system falls apart: “The nightmare scenario for the leagues is that people see professional sports as professional wrestling.”
+Which happens to be two days before the 25th anniversary of 9/11.
 
-### Inside Robert Pattinson s Eerie Chris Hansen Transformation in Primetime : A Reconfigured Egregore
-Thu, 03 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/primetime-exclusive-robert-pattinson-lance-oppenheim-1236689031/
+### Wild Horse Nine Review: John Malkovich and Sam Rockwell Make a Perfect Pair in Martin McDonagh s Poignant, Blood-Dipped Buddy Comedy
+Thu, 03 Sep 2026 17:35:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/wild-horse-nine-review-john-malkovich-sam-rockwell-mcdonagh-1236689345/
 
-The actor goes in-depth on the hot-button A24 film for the first time, alongside director Lance Oppenheim: “Every day Rob would come in and would do something that felt like he was almost jumping off a cliff.”
+Steve Buscemi also stars in this story of two CIA operatives who take a trip to Easter Island while readying for the Chilean military coup that would overthrow the Salvador Allende government.
 
-### Werner Herzog Reveals Touching Reason Behind Bucking Fastard Dedication to David Lynch Ahead of Venice Premiere
-Thu, 03 Sep 2026 12:29:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/werner-herzog-kate-rooney-mara-bucking-fastard-venice-lynch-1236689310/
+### Inde Navarrette to Star in Sci-Fi Thriller The Waffle House Index for Apple Original Films
+Thu, 03 Sep 2026 17:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/inde-navarrette-the-waffle-house-index-for-apple-1236689823/
 
-Kate and Rooney Mara, who play sisters with a deep and spooky bond in the German's new film, joined the director for a press conference with co-stars Domhnall Gleeson and Orlando Bloom.
+Apple picked up the package, which has Plan B producing.
 
 ## Deadline
 
-### Oscar Winner Michel Hazanavicius Wraps ‘The Third Hand’ With Goodfellas Launching Sales At TIFF + First Image
-Thu, 03 Sep 2026 14:34:26 +0000 — https://deadline.com/2026/09/michel-hazanavicius-wraps-third-hand-goodfellas-1237066764/
+### Oscars: Croatia Selects ‘God Will Not Help’ As Best International Feature Film Submission
+Thu, 03 Sep 2026 19:15:01 +0000 — https://deadline.com/2026/09/oscars-croatia-god-will-not-help-best-international-feature-1237067328/
 
-EXCLUSIVE: Goodfellas has boarded sales on Academy Award-winning French director Michel Hazanavicius’ upcoming film The Third Hand for a TIFF launch as the production wraps and revealed a first image (see below) Billed as a “fantastique”, silent film in color, the movie sees Hazanavicius return to the silent genre for a second time after black and white film The Artist, set against [ ]
+Croatia has chosen Hana Jušić’s God Will Not Help as its submission for the Best International Feature Film category in the 99th Academy Awards. It is Jušić’s second solo feature film after multi-award-winning 2016 debut Quit Staring at My Plate, with her other films including the collective work Transmania and short films Terrarium (Terarij) and No Wolf Has A House. God [ ]
 
-### Norah O Donnell Returns To CBS Mornings
-Thu, 03 Sep 2026 14:16:40 +0000 — https://deadline.com/2026/09/norah-odonnell-to-co-host-cbs-mornings-1237066744/
+### Kane Chronicles Live-Action Series In Development At Disney+
+Thu, 03 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/kane-chronicles-series-development-disney-plus-rick-riordan-1237066163/
 
-Norah O’Donnell is returning to the network flagship CBS Mornings as co-host with Gayle King and Nate Burleson starting next Tuesday, Sept. 8 The senior correspondent had hosted the program from 2012 to 2019 before moving to CBS Evening News through 2024. She was recently named a correspondent on 60 Minutes as news chief Bari [ ]
+Disney is bringing more of Rick Riordan s expansive mythological universe to life. A live-action series adaptation of The Kane Chronicles is currently in development at Disney+. Riordan will create the series with Angela Robinson (How to Get Away with Murder, True Blood, The L Word). The Kane Chronicles is a trilogy — The Red Pyramid, The [ ]
 
-### Chris Langham Dies: BAFTA-Winning The Thick Of It Star Child Sex Offender Was 77
-Thu, 03 Sep 2026 13:52:13 +0000 — https://deadline.com/2026/09/chris-langham-dead-the-thick-of-it-star-child-sex-offender-1237066738/
+### Mindy Kaling And Max Greenfield Teaming With Tess Sanchez To Develop WBTV Adaptation Of Her Book We ve Decided To Go In A Different Direction
+Thu, 03 Sep 2026 18:30:00 +0000 — https://deadline.com/2026/09/mindy-kaling-max-greenfield-tess-sanchez-essays-adaptation-1237067084/
 
-Chris Langham, the BAFTA-winning actor whose career was effectively ended after he was found guilty of downloading child abuse images, has died. He was 77. Langham s death was announced in an obituary in The Times of London. The newspaper reported that the actor, who is survived by five children, died in June of pancreatic cancer. [ ]
+EXCLUSIVE: Warner Bros. Television has optioned worldwide rights to We ve Decided to Go in a Different Direction, the bestselling book of essays by Tess Sanchez, for series development. A former Hollywood casting director and executive, Sanchez s book, based on her own experiences, is billed as a funny, honest and moving exploration of navigating a career change in [ ]
+
+### Disability Advocacy Coalition 1IN4 Teams With TIFF On Film Festival Best Practices Guide – Read The Findings
+Thu, 03 Sep 2026 18:28:43 +0000 — https://deadline.com/2026/09/1in4-film-festival-guide-unveiled-1237067158/
+
+EXCLUSIVE: With the fall festivals upon us, 1IN4 is presenting some food for thought. A coalition of disabled Hollywood creatives on a mission to reframe the experience and understanding of disability, they ve unveiled a reference guide for film fests worldwide, speaking to best practices when it comes to accessibility. 1IN4 takes its name from the [ ]
+
+### The Odyssey Will Continue To Conquer Imax 70MM Screens Throughout September
+Thu, 03 Sep 2026 18:15:43 +0000 — https://deadline.com/2026/09/the-odyssey-imax-extended-run-1237067236/
+
+No Sandra Bullock and Nicole Kidman witches in Practical Magic 2 nor zombies in Resident Evil will stand in the way of Odysseus hold on additional Imax screens throughout the month of September. Christopher Nolan s highest grossing movie at $1.55 billion and Universal s second highest grossing ever after Jurassic World ($1.67B), is getting an extended [ ]
+
+### Nicholas Todisco Brad Pence Join Linden Entertainment Following Atlas Artists Exit
+Thu, 03 Sep 2026 18:15:00 +0000 — https://deadline.com/2026/09/nick-todisco-brad-pence-join-linden-entertainment-1237066951/
+
+Managers Nicholas Todisco and Brad Pence have found their next destination following their exit from Atlas Artists, joining Linden Entertainment as partners. Clients that will follow the pair to Linden include Emmy winner Hannah Waddingham (Ted Lasso, Ride or Die); Emmy nominee Connor Storrie (Heated Rivalry, A24 s upcoming Please); Gotham TV Award winners Harriet Dyer and Patrick [ ]
+
+### Warner Herzog’s ‘Bucking Fastard’ Earns 7-1/2 Minute Venice Ovation As Kate Rooney Mara Laugh Hug
+Thu, 03 Sep 2026 18:11:45 +0000 — https://deadline.com/2026/09/warner-herzog-bucking-fastard-7-1-2-ovation-venice-1237067245/
+
+Werner Herzog enjoyed a warm welcome at the Venice Film Festival on Thursday as his Golden Lion Contender Bucking Fastard starring Kate and Rooney Mara world premiered in the Palazzo del Cinema’s Sala Grande. The Maras play Jean and Joan Holbrooke, two eccentric sisters who are so close that they speak in unison, love the [ ]
 
 ### Venice Film Festival 2026: Read All Of Deadline’s Reviews
-Thu, 03 Sep 2026 13:50:00 +0000 — https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/
+Thu, 03 Sep 2026 18:09:00 +0000 — https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/
 
 The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle s Ink starring Jack O’Connell, Guy Pearce and Claire Foy kicking off an 83rd edition that includes films starring the likes of Robert Pattinson, Penelope Cruz Javier Bardem, Jack Huston Sofia Boutella, Dakota Johnson, John [ ]
 
-### Rebecca Ferguson Greta Lee Confirmed For Romance Honeymoon / Funeral , Details Revealed For MRC Movie
-Thu, 03 Sep 2026 13:35:40 +0000 — https://deadline.com/2026/09/rebecca-ferguson-greta-lee-cast-romance-honeymoon-funeral-1237066741/
+### Lanterns Summons Best Audience Yet For Third Episode
+Thu, 03 Sep 2026 18:08:23 +0000 — https://deadline.com/2026/09/lanterns-ratings-record-episode-3-hbo-1237067241/
 
-Rebecca Ferguson and Greta Lee are confirmed for romantic-comedy Honeymoon / Funeral, we can reveal. The project has been filming in London in recent weeks sparking media speculation. MRC is financing and overseeing production on the movie from director Nahnatchka Khan and screenwriter Julia Bicknell. FilmNation is launching sales ahead of the TIFF market. Ferguson [ ]
+Lanterns is summoning a bigger audience by the week. Warner Bros Discovery said Thursday that the DC Studios series scored its best audience yet for the third episode, which debuted Sunday. Within three days, the episode had amassed 10 million global viewers, 7 million of which were U.S.-based. Since Lanterns premiered on August 16, the [ ]
 
-### MobLand Renewed For Season 3 With Tom Hardy Returning Alongside Helen Mirren Pierce Brosnan
-Thu, 03 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/mobland-renewed-season-3-tom-hardy-mirren-brosnan-1237066505/
+### ‘Tenzing’ First-Look Clip How Director Jennifer Peedom, Genden Phuntsok and Tom Hiddleston Tackled Everest – Telluride Film Festival
+Thu, 03 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/tenzing-first-look-peedom-phuntsok-tom-hiddleston-telluride-1237066422/
 
-It s official Paramount+ has renewed MobLand for a third season ahead of crime drama s Season 2 premiere on Sept. 18. Also confirmed is the return of Tom Hardy as the Harrigan family s loyal fixer Harry da Souza alongside Pierce Brosnan and Helen Mirren as the crime family s patriarch and matriarch Conrad and Maeve Harrigan. [ ]
+EXCLUSIVE: Genden Phuntsok gazes down at Tibet, the place of his birth, with tears in his eyes. Beside him, Tom Hiddleston grins almost in disbelief. They squint into the sun, gasping for breath, as they stand on what is effectively the roof of the world: the summit of Everest, or Chomolungma, as it is known [ ]
 
-### Wild Horse Nine Canters Into The Awards Race With John Malkovich Leading The Charge Venice Film Festival
-Thu, 03 Sep 2026 12:36:59 +0000 — https://deadline.com/2026/09/wild-horse-nine-john-malkovich-awards-race-venice-1237066662/
+### Heated Rivalry : Kevin Zegers, Paul Gross Milla Jovovich Latest To Join Connor Storrie Hudson Williams In Season 2
+Thu, 03 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/heated-rivalry-season-2-kevin-zegers-milla-jovovich-1237067002/
 
-Martin McDonagh‘s Wild Horse Nine launched on the Lido this morning with the filmmakers and cast getting a rapturous welcome at the press conference following this morning s press screenings. Venice pressers tend to fall on the warm/adulating side but this was clearly a film with plenty of admirers. Director McDonagh, and actors John Malkovich, Sam [ ]
+The Heated Rivalry Season 2 cast keeps expanding. The Crave original series, which plays on HBO in the U.S., has added Kevin Zegers (The Madison, Transamerica) as Coach Wiebe, Paul Gross (Good Night and Good Luck on Broadway, Tales of the City) as Commissioner Roger Crowell and Milla Jovovich (Resident Evil, The Fifth Element) as Dr. Galina Molchalina for its upcoming season, which is due [ ]
 
-### Nicola Coughlan, Luke Evans Hugh Bonneville Are Speaking Out Against AI Voice Cloning, But Is The Government Listening?
-Thu, 03 Sep 2026 12:35:35 +0000 — https://deadline.com/2026/09/nicola-coughlan-save-our-voices-now-campaign-ai-1237066698/
+### The Rainmaker Boss Teases Season 2 As First-Look Photos Of Merle Dandridge, Richard Kind Returning Cast Drop
+Thu, 03 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/the-rainmaker-season-2-first-look-photos-interview-1237067078/
 
-Welcome to Rendering, a Deadline column reporting at the intersection of AI and showbiz. Rendering examines how artificial intelligence is disrupting the entertainment industry, taking you inside key battlegrounds and spotlighting change-makers wielding the technology for good and ill. Got a story about AI? Rendering wants to hear from you: jkanter@deadline.com. Michael Caine has handed over his voice to AI. Liza [ ]
-
-### Werner Herzog Reveals Orlando Bloom Was Upset On Set Of ‘Bucking Fastard’ After They Captured His Scene In One Take Venice
-Thu, 03 Sep 2026 12:15:06 +0000 — https://deadline.com/2026/09/werner-herzog-orlando-bloom-upset-bucking-fastard-1237066700/
-
-Oscar-nominated German director Werner Herzog sat down at the Venice Film Festival on Thursday with Golden Lion contender Bucking Fastard, in the company of its stars Kate and Rooney Mara and supporting cast members Domhnall Gleeson and Orlando Bloom. The Maras play Jean and Joan Holbrooke, two real-life sisters who were so close that they [ ]
-
-### Gloria Steinem Dies: Feminist Icon And Activist Co-Founder Of Ms. Magazine Was 92
-Thu, 03 Sep 2026 11:27:23 +0000 — https://deadline.com/2026/09/gloria-steinem-dead-feminist-icon-was-92-1237066676/
-
-Gloria Steinem, the American feminist icon and founder of Ms. magazine, died Wednesday, September 2, at her home in New York City. She was 92. Her death was announced in a joint post on her Instagram account and The Gloria Steinem Foundation. A cause of death was not disclosed, but the statement said she passed [ ]
-
-### ‘The Girl With The Leica’ Review: Love Is War In Alina Marazzi’s Unconventional Biopic Of A Pioneering War Photographer – Venice Film Festival
-Thu, 03 Sep 2026 11:07:06 +0000 — https://deadline.com/2026/09/the-girl-with-the-leica-review-alina-marazzi-biopic-1237064293/
-
-The Venice Film Festival opened this week with Danny Boyle’s Ink, which, while not strictly a documentary, deals with fundamental issues of truth in news reporting — is the news we consume always true, and is the truth necessarily always news? Alina Marazzi’s The Girl With the Leica, a jazzed-up, unconventional biopic of the late [ ]
-
-### Amelia Dimoldenberg s Hit YouTube Series Chicken Shop Date To End After 12-Year Run
-Thu, 03 Sep 2026 10:49:24 +0000 — https://deadline.com/2026/09/amelia-dimoldenbergs-youtube-chicken-shop-date-to-end-1237066634/
-
-Amelia Dimoldenberg, the creator behind Chicken Shop Date, has announced that she is bringing the hit YouTube interview series to a close after a “final few dates”. The online creator, who began the series as a column at the age of 17 and has since interviewed talent such as Billie Eilish, Andrew Garfield and Paul McCartney, [ ]
+EXCLUSIVE: USA Network s The Rainmaker is kicking off promotions for Season 2 with first-look photos of Merle Dandridge and Richard Kind, both new additions to the legal drama. The show will return with new episodes in October. Showrunner and executive producer Michael Seitzman teases what viewers can expect from Season 2 with corresponding images below. Based on the [ ]
 
