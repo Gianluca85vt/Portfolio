@@ -6,12 +6,16 @@ name: Daily Instagram carousel
 # social-post.yml and is untouched by this.
 
 on:
-  # Two slots, because Italy is UTC+2 in summer and UTC+1 in winter and a fixed
-  # UTC cron would drift by an hour at each changeover. The script checks the
-  # actual hour in Europe/Rome and the wrong one exits immediately.
+  # Several slots, for two separate reasons. Italy is UTC+2 in summer and UTC+1
+  # in winter, so a single fixed UTC cron would drift by an hour at the
+  # changeover. And GitHub runs scheduled workflows on a best-effort basis: on
+  # 2 September these fired at 19:38 and 20:33 rather than 17:00 and 18:00.
+  #
+  # Extra slots are free because the script refuses to post twice in a day.
   schedule:
     - cron: '0 17 * * *'
     - cron: '0 18 * * *'
+    - cron: '0 20 * * *'
 
   workflow_dispatch:
     inputs:
@@ -37,28 +41,14 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Is it 19:00 in Rome?
-        id: clock
-        env:
-          FORCED: ${{ inputs.force }}
-        run: |
-          set -euo pipefail
-          hour=$(TZ=Europe/Rome date +%H)
-          echo "Rome says ${hour}:00"
-
-          if [ "${FORCED:-false}" = "true" ]; then
-            echo "go=yes" >> "$GITHUB_OUTPUT"
-            echo "manual run, posting regardless"
-          elif [ "$hour" = "19" ]; then
-            echo "go=yes" >> "$GITHUB_OUTPUT"
-          else
-            echo "go=no" >> "$GITHUB_OUTPUT"
-            echo "not the slot, stopping here"
-          fi
-
+      # One question, asked in the script rather than in bash: is the evening here
+      # and has today's carousel not gone out? A step that demanded the hour be
+      # exactly 19 could never pass on a run GitHub started at 21:38, which is
+      # how a night went by with nothing posted.
       - name: Anything to post?
         id: pick
-        if: steps.clock.outputs.go == 'yes'
+        env:
+          FORCE_DIGEST: ${{ inputs.force }}
         run: |
           set -euo pipefail
           slugs=$(node scripts/social-digest.mjs --plan)
@@ -101,6 +91,7 @@ jobs:
         env:
           META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          FORCE_DIGEST: ${{ inputs.force }}
         run: node scripts/social-digest.mjs
 
       - name: Record what went out

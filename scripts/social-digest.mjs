@@ -86,6 +86,44 @@ export async function readLedger(root) {
   }
 }
 
+/** The date in Rome, as YYYY-MM-DD. en-CA is the locale that formats it that way. */
+function romeDate(now) {
+  return new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Rome' }).format(now);
+}
+
+function romeHour(now) {
+  return Number(
+    new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/Rome', hour: '2-digit', hour12: false }).format(now)
+  );
+}
+
+/**
+ * Whether tonight's carousel is still owed.
+ *
+ * This used to ask whether the hour in Rome was exactly 19, which is a question
+ * a cron on GitHub Actions cannot reliably answer yes to. Scheduled runs are
+ * best-effort and are routinely late under load: on 2 September the 17:00 and
+ * 18:00 slots fired at 19:38 and 20:33, so both runs found 21:38 and 22:33 on
+ * the clock, skipped every step, and reported success. No carousel went out.
+ *
+ * The question that survives a late start is whether the evening has arrived
+ * and today's post has not. A run delayed past midnight fails the hour test
+ * against the new day and simply waits for the evening, which is right: the
+ * articles are still inside the window and go out tonight instead.
+ */
+export function isDue(ledger, now = new Date()) {
+  const hour = romeHour(now);
+  const today = romeDate(now);
+
+  if (hour < 19) {
+    return { due: false, why: `it is ${hour}:00 in Rome and the slot opens at 19:00` };
+  }
+  if (Object.values(ledger).some((r) => r?.carouselAt === today)) {
+    return { due: false, why: `tonight's carousel already went out` };
+  }
+  return { due: true, why: `${hour}:00 in Rome, nothing posted today` };
+}
+
 /**
  * What belongs in tonight's carousel.
  *
@@ -208,6 +246,19 @@ async function main() {
   const root = process.cwd();
   const plan = process.argv.includes('--plan');
 
+  const ledger = await readLedger(root);
+  // A manual run says post now, whatever the clock says. It still cannot post
+  // twice: nothing selects an article that already carries a carousel id.
+  const forced = process.env.FORCE_DIGEST === 'true';
+  const owed = forced ? { due: true, why: 'manual run' } : isDue(ledger);
+
+  if (!owed.due) {
+    // stderr, so --plan's stdout stays a clean list for the workflow to read.
+    console.error(`Not posting: ${owed.why}.`);
+    if (plan) console.log('');
+    return;
+  }
+
   const articles = await selectForDigest(root);
 
   if (plan) {
@@ -227,7 +278,7 @@ async function main() {
     }
   }
 
-  const day = new Date().toISOString().slice(0, 10);
+  const day = romeDate(new Date());
   const coverUrl = `https://raw.githubusercontent.com/${REPO}/main/public/img/blog/digest/${day}.jpg`;
 
   console.log(`${articles.length} article(s) in tonight's carousel:`);
@@ -236,9 +287,9 @@ async function main() {
   const result = await postCarousel(articles, coverUrl);
   console.log(`instagram carousel -> ${result.id}`);
 
-  const ledger = await readLedger(root);
+  const written = await readLedger(root);
   for (const a of articles) {
-    ledger[a.slug] = { ...(ledger[a.slug] ?? {}), carousel: result.id, carouselAt: day };
+    written[a.slug] = { ...(written[a.slug] ?? {}), carousel: result.id, carouselAt: day };
   }
   await writeFile(join(root, LEDGER), `${JSON.stringify(ledger, null, 2)}\n`);
   console.log(`ledger updated: ${LEDGER}`);
