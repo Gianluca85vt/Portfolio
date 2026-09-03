@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="tyFlow 2.100 adds PhysX vehicles to 3ds Max">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#1E2547"/>
+      <stop offset="100%" stop-color="#2E6BA8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5FA8FF"/>
+      <stop offset="100%" stop-color="#A6D8FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- faint grid, suggesting a viewport floor -->
+  <g stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1">
+    <path d="M0 620H1200M0 680H1200M0 740H1200M0 800H1200M0 860H1200"/>
+    <path d="M150 600V900M350 600V900M550 600V900M750 600V900M950 600V900"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="start">
+    <text x="80" y="150" font-size="30" letter-spacing="7" fill="#FFFFFF" fill-opacity="0.6" font-weight="bold">tyFLOW 2.100</text>
+
+    <text x="80" y="330" font-size="130" font-weight="900" fill="#FFFFFF">PhysX</text>
+    <text x="80" y="470" font-size="130" font-weight="900" fill="url(#accent)">vehicles</text>
+
+    <text x="80" y="560" font-size="42" fill="#FFFFFF" fill-opacity="0.85">inside 3ds Max, at last</text>
+  </g>
+
+  <!-- simple wheel-and-suspension mark, lower right -->
+  <g stroke="#FFFFFF" stroke-width="4" fill="none" stroke-opacity="0.55">
+    <circle cx="960" cy="740" r="70"/>
+    <circle cx="960" cy="740" r="30"/>
+    <path d="M960 670 L960 600"/>
+    <path d="M910 610 L1010 610"/>
+  </g>
+</svg>
