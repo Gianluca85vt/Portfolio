@@ -30,7 +30,7 @@ export default function ContactSection() {
   return (
     <footer
       id="contact"
-      className="bg-[#0C0C0C] px-5 sm:px-8 md:px-10 pt-12 sm:pt-14 md:pt-18 pb-8"
+      className="bg-[#000000] px-5 sm:px-8 md:px-10 pt-12 sm:pt-14 md:pt-18 pb-8"
     >
       <div className="max-w-5xl mx-auto flex flex-col items-center gap-10 sm:gap-14 md:gap-16">
         <FadeIn

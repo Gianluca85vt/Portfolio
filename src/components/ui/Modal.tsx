@@ -82,7 +82,7 @@ export default function Modal({
             /* h-full, not max-h-full: the gallery's stage is a flex-1 box with an
                absolutely positioned image, so without a definite height to hand
                down the panel collapsed to just the header and the thumbnails. */
-            className="relative z-10 w-full max-w-6xl h-full flex flex-col rounded-[28px] sm:rounded-[40px] border-2 border-[#D7E2EA]/45 bg-[#0C0C0C]/85 overflow-hidden"
+            className="relative z-10 w-full max-w-6xl h-full flex flex-col rounded-[28px] sm:rounded-[40px] border-2 border-[#D7E2EA]/45 bg-[#000000]/85 overflow-hidden"
             initial={{ opacity: 0, y: 26, scale: 0.97 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: 18, scale: 0.98 }}

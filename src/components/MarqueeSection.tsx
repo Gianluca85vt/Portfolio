@@ -65,7 +65,7 @@ export default function MarqueeSection() {
   return (
     <section
       ref={sectionRef}
-      className="bg-[#0C0C0C] pt-16 sm:pt-20 md:pt-24 pb-8"
+      className="bg-[#000000] pt-16 sm:pt-20 md:pt-24 pb-8"
       style={{ overflowX: 'clip' }}
     >
       <div className="flex flex-col gap-3">

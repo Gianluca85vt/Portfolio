@@ -6,7 +6,7 @@ import { members } from '../data/portfolio';
 /** Home-page block that points at the membership page. */
 export default function MembersTeaser() {
   return (
-    <section className="relative z-10 bg-[#0C0C0C] px-5 sm:px-8 md:px-10 pt-16 sm:pt-20 md:pt-24 pb-4">
+    <section className="relative z-10 bg-[#000000] px-5 sm:px-8 md:px-10 pt-16 sm:pt-20 md:pt-24 pb-4">
       <div className="max-w-5xl mx-auto rounded-[32px] sm:rounded-[44px] border-2 border-[#D7E2EA]/35 p-8 sm:p-12 md:p-16 text-center">
         <FadeIn
           as="h2"

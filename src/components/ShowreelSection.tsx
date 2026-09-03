@@ -27,7 +27,7 @@ export default function ShowreelSection() {
       id="showreel"
       /* the AI section above already carries the rounded lift off the white
          Skills block, so this one just continues the dark run */
-      className="relative z-10 bg-[#0C0C0C] px-5 sm:px-8 md:px-10 pt-12 sm:pt-14 md:pt-16 pb-8"
+      className="relative z-10 bg-[#000000] px-5 sm:px-8 md:px-10 pt-12 sm:pt-14 md:pt-16 pb-8"
     >
       <FadeIn
         as="h2"

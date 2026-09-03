@@ -49,7 +49,7 @@ function ProjectCard({
     // which paint above it -- scroll over the top of it.
     <div className="h-screen min-h-[640px] sticky top-0 flex items-center justify-center">
       <motion.div
-        className="w-full origin-top rounded-[40px] sm:rounded-[50px] md:rounded-[60px] border-2 border-[#D7E2EA] bg-[#0C0C0C]"
+        className="w-full origin-top rounded-[40px] sm:rounded-[50px] md:rounded-[60px] border-2 border-[#D7E2EA] bg-[#000000]"
         style={{
           scale,
           rotateX,
@@ -140,7 +140,7 @@ export default function ProjectsSection() {
   return (
     <section
       id="work"
-      className="relative z-10 bg-[#0C0C0C] px-5 sm:px-8 md:px-10 pt-12 sm:pt-14 md:pt-16 pb-8"
+      className="relative z-10 bg-[#000000] px-5 sm:px-8 md:px-10 pt-12 sm:pt-14 md:pt-16 pb-8"
     >
       <FadeIn
         as="h2"

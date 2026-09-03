@@ -90,7 +90,7 @@ export default function DirectionBlock() {
           {direction.tools.map((tool) => (
             <li
               key={tool.name}
-              className="flex items-baseline gap-2.5 rounded-full border border-[#0C0C0C]/15 px-5 py-2.5 transition-colors duration-300 hover:bg-[#0C0C0C]/5"
+              className="flex items-baseline gap-2.5 rounded-full border border-[#0C0C0C]/15 px-5 py-2.5 transition-colors duration-300 hover:bg-[#000000]/5"
             >
               <span className="text-[#0C0C0C] font-medium text-xs sm:text-sm whitespace-nowrap">
                 {tool.name}

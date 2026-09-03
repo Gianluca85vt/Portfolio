@@ -71,7 +71,7 @@ export default function MembersPage() {
 
         {/* price + CTA */}
         <FadeIn delay={0.3} y={30} className="flex justify-center mt-12 sm:mt-16">
-          <div className="w-full max-w-md rounded-[32px] border-2 border-[#D7E2EA]/40 bg-[#0C0C0C] p-8 sm:p-10 text-center">
+          <div className="w-full max-w-md rounded-[32px] border-2 border-[#D7E2EA]/40 bg-[#000000] p-8 sm:p-10 text-center">
             <span className="block text-[#D7E2EA]/50 font-light uppercase tracking-widest text-[0.65rem] sm:text-xs">
               One membership, everything included
             </span>
