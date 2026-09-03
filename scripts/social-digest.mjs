@@ -242,6 +242,25 @@ export async function postCarousel(articles, coverUrl) {
   return graph(`${ig}/media_publish`, { creation_id: container.id });
 }
 
+/**
+ * Stamps tonight's carousel onto the ledger.
+ *
+ * A pure function because the inline version wrote the wrong variable: it built
+ * the updated copy and then serialised the one read before the post, so the
+ * file went back to disk unchanged. Everything downstream believed it — the
+ * commit step found nothing to commit, and the next night would have posted the
+ * same six articles again, because nothing marked them as done.
+ *
+ * The post itself had gone out. Only the record of it was lost.
+ */
+export function recordCarousel(ledger, articles, id, day) {
+  const next = { ...ledger };
+  for (const a of articles) {
+    next[a.slug] = { ...(next[a.slug] ?? {}), carousel: id, carouselAt: day };
+  }
+  return next;
+}
+
 async function main() {
   const root = process.cwd();
   const plan = process.argv.includes('--plan');
@@ -287,11 +306,8 @@ async function main() {
   const result = await postCarousel(articles, coverUrl);
   console.log(`instagram carousel -> ${result.id}`);
 
-  const written = await readLedger(root);
-  for (const a of articles) {
-    written[a.slug] = { ...(written[a.slug] ?? {}), carousel: result.id, carouselAt: day };
-  }
-  await writeFile(join(root, LEDGER), `${JSON.stringify(ledger, null, 2)}\n`);
+  const written = recordCarousel(await readLedger(root), articles, result.id, day);
+  await writeFile(join(root, LEDGER), `${JSON.stringify(written, null, 2)}\n`);
   console.log(`ledger updated: ${LEDGER}`);
 }
 
