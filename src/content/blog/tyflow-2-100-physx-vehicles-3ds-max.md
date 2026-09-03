@@ -4,7 +4,6 @@ date: 2026-09-03
 category: 3D
 excerpt: A proper car sim inside 3ds Max at last. Tyson Ibele's plugin now drives PhysX vehicles from the same flow graph as the particles and rigid bodies.
 cover: /img/blog/tyflow-2-100-physx-vehicles-3ds-max/video-thumb.jpg
-draft: true
 ---
 
 Tyson Ibele shipped tyFlow 2.100 on 2 September, and buried in the usual list of tweaks and Inferno improvements is the feature that changes what a 3ds Max artist can plausibly deliver on their own: a PhysX vehicle operator. A car, a truck, a Mars rover if you want one — chassis, wheels, suspension, tyres, all driven by NVIDIA's PhysX inside the same flow graph as the rigid bodies and particles you already have.
