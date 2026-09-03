@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 
 /**
- * The portrait as a head-turn video scrubbed by the cursor.
+ * The portrait as a head-turn video scrubbed by the pointer.
  *
  * The source is all-intra — 373 frames, every one a keyframe — which is the
  * only reason this reads as motion rather than as a slideshow. Seeking a normal
@@ -9,7 +9,8 @@ import { useEffect, useRef } from 'react';
  * seconds apart the head jumps. Re-encode with `-g 1` if the clip is ever
  * replaced, or the effect falls apart quietly.
  *
- * Nothing autoplays. The video is a frame store that the pointer indexes into.
+ * Nothing autoplays. The video is a frame store the pointer indexes into, by
+ * hover on a desktop and by tap on a phone.
  */
 
 const SRC = '/img/video/rotazione%20faccia.mp4';
@@ -79,10 +80,6 @@ export default function AvatarScrub({ className = '', alt }: Props) {
 
     const still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-    // A pointer that cannot hover has nothing to scrub with, and a phone should
-    // not download and decode a video to show one frame of it.
-    const canHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
-
     let target = 0;
     let current = 0;
     let prevX: number | null = null;
@@ -105,7 +102,19 @@ export default function AvatarScrub({ className = '', alt }: Props) {
       seeking = false;
     };
 
-    const onMove = (event: MouseEvent) => {
+    // Pointer events rather than mouse events, so one path serves both.
+    //
+    // This used to bind mousemove behind a `(hover: hover) and (pointer: fine)`
+    // check, which meant nothing at all was bound on a phone and the head sat
+    // frozen on its middle frame however you tapped. The reasoning written next
+    // to it — that a phone should not download a video to show one frame — was
+    // wrong twice over: the element carries a src and preload="auto", so the
+    // download happens regardless, and the guard only removed the interaction
+    // it had already paid for.
+    //
+    // pointermove covers hover on a desktop; pointerdown covers a tap, which is
+    // what makes the head turn toward the side of the screen you touch.
+    const onMove = (event: PointerEvent) => {
       if (!ready || !video.duration) return;
 
       target = timeForPointer(
@@ -143,14 +152,16 @@ export default function AvatarScrub({ className = '', alt }: Props) {
     video.addEventListener('seeked', onSeeked);
     if (video.readyState >= 1) onMeta();
 
-    if (!still && canHover) {
-      window.addEventListener('mousemove', onMove, { passive: true });
+    if (!still) {
+      window.addEventListener('pointermove', onMove, { passive: true });
+      window.addEventListener('pointerdown', onMove, { passive: true });
       frame = requestAnimationFrame(tick);
     }
 
     return () => {
       cancelAnimationFrame(frame);
-      window.removeEventListener('mousemove', onMove);
+      window.removeEventListener('pointermove', onMove);
+      window.removeEventListener('pointerdown', onMove);
       video.removeEventListener('loadedmetadata', onMeta);
       video.removeEventListener('seeked', onSeeked);
     };
@@ -165,8 +176,10 @@ export default function AvatarScrub({ className = '', alt }: Props) {
       /* The clip is a head on a solid black field, and H.264 in an MP4 cannot
          carry an alpha channel to cut it out. `screen` leaves the backdrop
          untouched wherever the source is black, which erases the field exactly.
-         Without it the video reads as a faint rectangle: its #000 against the
-         page's #0C0C0C is only a few per cent of luminance, but the edge shows.
+         The page ground was taken to #000000 to match, which makes this a
+         no-op there — screen against black returns the source untouched. It is
+         kept because it also erases the field against anything that is not
+         quite black, and the ground was #0C0C0C until an hour ago.
 
          It only works while nothing between here and the page ground makes its
          own stacking context — an ancestor left at opacity below 1, a filter, a
