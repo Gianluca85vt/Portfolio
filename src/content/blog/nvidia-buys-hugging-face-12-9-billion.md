@@ -4,7 +4,6 @@ date: 2026-09-03
 category: AI
 cover: /img/blog/nvidia-buys-hugging-face-12-9-billion/shot-01.jpg
 excerpt: Nvidia confirmed the $12.93 billion deal on 3 September. The models your local tools fetch on install now come from a repository the chip vendor owns.
-draft: true
 ---
 
 Install a ComfyUI custom node and watch the terminal. Somewhere in the wall of
