@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="189,589 photos: Insomniac's Japan scanning trip for Marvel's Wolverine">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#2A1140"/>
+      <stop offset="100%" stop-color="#4C2A8C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <g fill="#B79BEA" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+    <text x="90" y="150" font-size="30" letter-spacing="6">LOCATION SCANNING</text>
+  </g>
+  <g fill="#FFFFFF" font-family="Inter, Helvetica Neue, Arial, sans-serif">
+    <text x="90" y="330" font-size="150" font-weight="700">189,589</text>
+    <text x="90" y="420" font-size="62" font-weight="600">photographs of Japan</text>
+  </g>
+  <g fill="#C9B6F0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="34">
+    <text x="90" y="500">6 people · 4 regions · 600+ scans · 5.6TB</text>
+  </g>
+  <rect x="90" y="548" width="220" height="4" fill="#7B4FD1"/>
+</svg>
