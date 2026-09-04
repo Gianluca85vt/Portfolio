@@ -1,0 +1,3 @@
+ArmorPaint (armory3d), the project's own screenshot as referenced from its GitHub readme
+
+- /img/blog/armorpaint-1-0-eight-years-six-build-targets/shot-01.jpg
