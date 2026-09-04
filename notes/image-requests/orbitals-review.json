@@ -1,0 +1,11 @@
+{
+  "slug": "orbitals-review",
+  "youtubeId": "wRg2FsqxTb4",
+  "urls": [
+    "https://i.ytimg.com/vi/REewmdZ65XA/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/yhy5Jf2P6Pk/maxresdefault.jpg"
+  ],
+  "credit": "Nintendo, from the official Orbitals Creator's Voice videos",
+  "comparison": false,
+  "note": "Orbitals is a Switch 2 exclusive, so there is no Steam page and no steamAppId. The publisher press site (kepler-interactive.com), nintendo.com and gamespress.com are all blocked by the egress proxy from this session, so no direct press-kit URL could be retrieved. The two urls above are the still frames of Nintendo's own official Creator's Voice videos for the game, which is the closest reachable first-party asset. If the fetch fails, this article needs a real cover image added by hand before it can be published."
+}
