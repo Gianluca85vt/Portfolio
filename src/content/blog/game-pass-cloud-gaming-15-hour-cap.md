@@ -4,7 +4,6 @@ date: 2026-09-04
 category: Tech
 cover: /img/blog/game-pass-cloud-gaming-15-hour-cap/shot-01.jpg
 excerpt: From November, Ultimate gets 15 streaming hours a month, Essential gets 5. Divide the price by the cap and all three tiers land on roughly the same hourly rate.
-draft: true
 ---
 
 Microsoft announced on **3 September** that Xbox Cloud Gaming stops being
