@@ -27,7 +27,6 @@ scoreSources:
     score: 7
   - outlet: Eurogamer
     score: 6
-draft: true
 ---
 
 Shapefarm's co-op puzzle adventure landed on Switch 2 on 3 September 2026,
