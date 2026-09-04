@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-04T09:03:21.577Z
+# AI — harvested 2026-09-04T14:32:45.100Z
 
 ## OpenAI
 
@@ -22,11 +22,6 @@ Thu, 03 Sep 2026 00:00:00 GMT — https://openai.com/index/safety-overview-gpt-6
 
 GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.
 
-### ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
-Wed, 02 Sep 2026 12:00:00 GMT — https://openai.com/index/atv-big-air-tour
-
-ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.
-
 ## Hugging Face
 
 ### NeoMME: an efficient Multimodal-native and Multilingual Encoder
@@ -40,9 +35,6 @@ Thu, 03 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/funes
 
 ### Training a coding model to paint watercolours with TRL and OpenEnv
 Thu, 03 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/train-to-paint-with-code
-
-### Real-Time Intelligence with IBM Time Series Models on Confluent
-Wed, 02 Sep 2026 13:49:14 GMT — https://huggingface.co/blog/ibm-research/real-time-intelligence
 
 ## Google DeepMind
 

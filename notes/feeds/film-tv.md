@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-09-04T09:03:21.577Z
+# Film & TV — harvested 2026-09-04T14:32:45.100Z
 
 ## Variety
 
-### Busan Market Unveils Doc Square, Launches Impact Asia as Yim Siwan Named Festival Closing Ceremony Host
-Fri, 04 Sep 2026 08:53:12 +0000 — https://variety.com/2026/film/news/busan-market-doc-square-impact-asia-1236851450/
+### Adria Arjona Details Superman Sequel Training Amid Wonder Woman Rumors: 2 Hours of Weightlifting, 6 Rounds of Boxing and More
+Fri, 04 Sep 2026 14:15:18 +0000 — https://variety.com/2026/film/news/adria-arjona-superman-sequel-wonder-woman-1236851615/
 
-The Asian Contents Film Market (ACFM), the market of the Busan International Film Festival (BIFF), will present Doc Square 2026 from Oct. 10-13, bringing together eight partner organizations from five countries to connect Asian documentary creators with industry professionals. Launched last year, the program introduces documentary projects still in production across Asia and offers [ ]
+Sadie Sink had to dodge questions for months over whether or not she was playing Jean Grey in the lead-up to Spider-Man: Brand New Day, and now it seems like DC star Adria Arjona may have to do the same for the Superman sequel, Man of Tomorrow. Details about her role have remained shrouded in [ ]
 
-### Magdalena Koleśnik and Kay Greidanus to Lead Finn Szumlas’ Debut Feature Stairway to Earth as Production Starts (EXCLUSIVE)
-Fri, 04 Sep 2026 08:43:05 +0000 — https://variety.com/2026/film/global/magdalena-kolesnik-kay-greidanus-stairway-to-earth-1236851412/
+### Donald Trump Sounds Off on Maria Bartiromo s Shock Exit From Fox News: Her Many Fans Will Not Be Happy
+Fri, 04 Sep 2026 14:07:37 +0000 — https://variety.com/2026/tv/news/trump-reacts-maria-bartiromo-firing-fox-news-1236851613/
 
-Dutch filmmaker Finn Szumlas has started principal photography on his debut feature Stairway to Earth, kicking off a 5-week shoot in the Netherlands. Leading the film is Polish star Magdalena Koleśnik ( Sweat ) and Dutch actor Kay Greidanus ( Dit Zijn Wij ), playing two strangers who meet up after a one night stand at at a summer [ ]
+President Donald Trump reacted to Fox News surprise announcement Thursday that it has parted ways with Maria Bartiromo, who had been an anchor on Fox News and Fox Business Network for more than 12 years. Fox News did not provide a reason for its dismissal of Bartiromo, a former prominent CNBC anchor who joined Fox [ ]
 
-### Tamar AI s TapNow Brings AI-Native Filmmaking to Venice Production Bridge With HappyHorse-Backed 10,000 Parallel Universes Films, Unveils Streamer Glanze
-Fri, 04 Sep 2026 08:40:43 +0000 — https://variety.com/2026/tv/markets-festivals/tamar-ai-tapnow-happyhorse-glanze-venice-production-bridge-1236846503/
+### Game of Thrones Creator George R.R. Martin Confirms Play The Mad King Will Transfer to London
+Fri, 04 Sep 2026 14:01:22 +0000 — https://variety.com/2026/theater/global/game-of-thrones-the-mad-king-play-london-transfer-1236851600/
 
-Liu Haonan and Qiao Yuhang have been finishing each other s stories since high school, where they drew together, talked about animation and film, and traded ideas for comics and stories of their own. More than a decade later, they re doing something a two-person team couldn t have pulled off a few years ago: building a science-fiction [ ]
+George R.R. Martin has confirmed “Game of Thrones” play “The Mad King” is set to transfer to London. “I had a splendid time in Stratford upon Avon for the premier of Duncan Macmillan and Dominic Cooke’s epic new stage production of ‘Game of Thrones: The Mad King,’” Martin wrote on his website. “And furthermore I’m [ ]
 
-### Anna Foglietta on Working With Alba Rohrwacher on Venice Drama A Common Story You Have to Have the Guts to Show Yourself Exactly as You Are — Trailer (EXCLUSIVE)
-Fri, 04 Sep 2026 07:38:47 +0000 — https://variety.com/2026/film/festivals/anna-foglietta-alba-rohrwacher-venice-common-story-trailer-1236845990/
+### Don Lemon to Launch FAST Channel on Linear, Streaming Venues
+Fri, 04 Sep 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/don-lemon-channel-fast-launch-1236851556/
 
-Actor-turned director Anna Foglietta is back in Venice in a different guise this year, after serving as the event s official emcee in 2020. Foglietta — who is best-known to international audiences for her role in Italy’s smash hit “Perfect Strangers” — is on the Lido with her directorial debut, “A Common Story.” It s a marriage [ ]
+Don Lemon, who has flourished in recent months on YouTube and other digital venues, is eyeing a return to TV sort of. The digital entrepreneur and former CNN anchor will launch The Don Lemon Channel, a free, ad-supported streaming outlet that will be made available across streaming and linear platforms. Lemon is launching the [ ]
 
-### Indonesia s 2nd Miracle in Cell No. 7 Gets Philippine Remake From Viva Communications (EXCLUSIVE)
-Fri, 04 Sep 2026 07:38:08 +0000 — https://variety.com/2026/film/news/indonesia-2nd-miracle-cell-no-7-philippine-remake-1236851405/
+### CNBC Veteran Rick Santelli to Exit in October
+Fri, 04 Sep 2026 13:41:28 +0000 — https://variety.com/2026/tv/news/cnbc-rick-santelli-exit-1236851581/
 
-Philippine studio Viva Communications has acquired the rights to remake Indonesian film 2nd Miracle in Cell No. 7, marking the first time an Indonesian film will be officially remade for the Philippine market. The adaptation is set to premiere Dec. 25 as part of the Metro Manila Film Festival (MMFF). The original Miracle in Cell [ ]
+Rick Santelli, the longtime CNBC economic-indicators analyst whose plain-spoken but passionate takes on the effects of federal policy on average Americans boosted his profile at the business-news outlet, plans to retire from the Versant Media-backed network on October 2. Santelli s decision was revealed to CNBC staffers Thursday, but announced on air Friday during a segment [ ]
 
-### Alix Earle’s Inane Netflix Reality Show ‘Earle Meets World’ Is Like Watching Paint Dry: TV Review
-Fri, 04 Sep 2026 07:01:00 +0000 — https://variety.com/2026/tv/reviews/earle-meets-world-review-alix-earle-netflix-1236847616/
+### Nanni Moretti s It Will Happen Tonight Sells Widely Ahead of Venice Launch – Clip (EXCLUSIVE)
+Fri, 04 Sep 2026 13:27:01 +0000 — https://variety.com/2026/film/festivals/nanni-moretti-will-happen-tonight-sells-widely-venice-clip-1236851317/
 
-At the start of her eponymous reality show “Earle Meets World,” the influencer Alix Earle promises that while “there’s a whole other side” of the creator economy “people don’t get to see,” her viewers are “gonna see everything in this show.” I hope for Earle’s sake she isn’t telling the truth, because if “Earle Meets [ ]
+Veteran Italian auteur Nanni Moretti s It Will Happen Tonight,” featuring French star Louis Garrel and Italian A-lister Jasmine Trinca (“La Storia,” “Supersex”) has been pre-sold widely by Paris-based international sales company Playtime ahead of its Venice world premiere in competition on Saturday. Though the plot is being kept under wraps, It Will Happen Tonight”. is loosely based [ ]
 
-### Netflix Probes Trump’s Catering Truck Escape in ‘Instadocs: The Decoy Plane’
-Fri, 04 Sep 2026 07:00:00 +0000 — https://variety.com/2026/tv/news/instadocs-the-decoy-plane-netlfix-trump-catering-truck-turkey-natalie-harp-1236851330/
+### Iranian Director Mohsen Gharaei, in Venice With Falling House, Set to Shoot Centrifugal Force (EXCLUSIVE)
+Fri, 04 Sep 2026 12:43:57 +0000 — https://variety.com/2026/film/global/iranian-mohsen-gharaei-venice-fallen-centrifugal-force-1236851432/
 
-“In my more than 40-year career, I’ve never been put in the position of being a decoy,” says Alex Brandon, chief White House photographer for The Associated Press. “Wild. Just wild.” Brandon is one of several subjects who’ve lent their testimony to “Instadocs: The Decoy Plane,” a 28-minute mini-doc about Trump’s (and his curiously close [ ]
+Iranian director Mohsen Gharaei, who is at the Venice Film Festival with well-received drama “Falling House,” is set to shoot a new film titled Centrifugal Force that will capture the impossible choices facing a generation of Iranians today, as the synopsis puts it. “Falling House,” which world-premiered on Wed. in Venice’s Orizzonti sidebar, follows a [ ]
 
-### Miike Takashi Shines an Intimate Spotlight on a Kabuki Legend in Debut Documentary ‘Shumei: The Living Legacy of Kabuki’
-Fri, 04 Sep 2026 06:59:00 +0000 — https://variety.com/2026/film/news/miike-takashi-kabuki-documentary-shumei-1236850841/
+### ‘Boys of Tommen’ Adds Jonathan Forbes, Cobhan O’brien, Harvey Moloney and More to Cast (EXCLUSIVE)
+Fri, 04 Sep 2026 12:32:23 +0000 — https://variety.com/2026/tv/global/boys-of-tommen-cast-jonathan-forbes-cobhan-obrien-1236851503/
 
-The most remarkable thing about Miike Takashi — whose filmography spans well over a hundred features in a smorgasbord of different genres and styles — is that he has never made a documentary. But now he’s at Venice with doc “Shumei: The Living Legacy of Kabuki.” The films screen out of competition. “I take on [ ]
+Prime Video’s “The Boys of Tommen” has added Jonathan Forbes, Cobhan O’brien, Harvey Moloney, Tristan Heanue and Lewis Brophy to its cast. Forbes (“Catastrophe,” “The Rainmaker”) joins as Johnny Kavanagh’s father John Senior, O’brien (“Foundation”) and Moloney (“Krimi”) as Shannon Lynch’s younger brothers Tadhg and Ollie, Heanue (“Clean Sweep”) as Aoife Molloy’s father Tony Molloy [ ]
 
-### Ekta Kapoor, Gunjan Soni Unpack Balaji s Five-Show, 200-Episode YouTube India Deal (EXCLUSIVE)
-Fri, 04 Sep 2026 06:48:17 +0000 — https://variety.com/2026/tv/news/ekta-kapoor-gunjan-soni-balaji-youtube-india-deal-1236851354/
+### George Clooney Says the Government Shouldn’t Regulate AI: ‘These Are Not the People You Want to Entrust the Holy Grail With
+Fri, 04 Sep 2026 12:09:24 +0000 — https://variety.com/2026/politics/global/george-clooney-government-regulate-ai-1236851500/
 
-India s queen of television Ekta Kapoor is betting that Indian viewers walking away from appointment television will still watch long-running fiction, just on YouTube s terms. In an interview with Variety, the Balaji Telefilms Ltd. joint MD, and Gunjan Soni, YouTube s managing director for India, break down the partnership between the two companies, under which Balaji [ ]
+George Clooney has said he doesn t trust the government to regulate AI. I don’t know that you want government to be regulating this either, because I sit and watch when Zuckerberg is testifying in front of, you know, a 94-year-old Chuck Grassley, and they’re like, ‘Well, how do you turn that computer on?’ he joked, [ ]
 
-### AR Content, Vertigo, Blumhouse Atomic Monster Set Remake of Genre-Bending, Satirical French Horror Vincent Must Die (EXCLUSIVE)
-Fri, 04 Sep 2026 06:32:00 +0000 — https://variety.com/2026/film/global/ar-content-vertigo-blumhouse-atomic-monster-remake-vincent-must-die-1236849529/
+### Spider-Man and The Odyssey Propel U.K. Box Office to Best August Since 2018
+Fri, 04 Sep 2026 11:24:01 +0000 — https://variety.com/2026/film/global/spider-man-odyssey-uk-box-office-best-august-since-2018-1236850423/
 
-AR Content, Vertigo and Blumhouse Atomic Monster are teaming up to remake “Vincent Must Die,” the acclaimed French Belgian thriller directed by Stéphan Castang that premiered in the Cannes Film Festival’s Directors’ Fortnight sidebar in 2023. Written and directed by David Leslie Johnson-McGoldrick, the film will be produced by AR Content s Alexander Rodnyansky alongside Roy Lee [ ]
+The U.K. may have just had the hottest August since records began but, in more positive news, it also had the hottest August at the box office in almost a decade. Thanks to the incredible performances of both Spider-Man: Brand New Day and The Odyssey a total of $161.3 million was earned at the box [ ]
 
 ## The Hollywood Reporter
 
-### Oasis Asks Uncomfortable Questions About Exclusion, and Its Director Explains Why Violence Is Like a Virus
-Fri, 04 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/venice-film-oasis-interview-school-violence-jannis-lenz-1236681753/
+### Richard O Sullivan, British Sitcom Star Who Inspired John Ritter s Three s Company Character, Dies at 82
+Fri, 04 Sep 2026 14:32:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/richard-o-sullivan-dead-threes-company-actor-1236690725/
 
-A viral video of a pupil threatening his classmates leads him and two fellow adolescent outcasts to seek refuge in a forest in German writer-director Jannis Lenz's feature debut, premiering at Venice.
+O'Sullivan led 'Man About the House' and 'Robin's Nest,' comedies that would be the basis for ABC's beloved shows 'Three's Company' and 'Three's a Crowd.'
 
-### The End of Times Is an AI-Assisted Film Essay on Trauma That Wants to Politicize Mental Illness (Exclusive Venice Trailer)
-Fri, 04 Sep 2026 07:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-end-of-times-film-trailer-trauma-ai-venice-critics-week-1236684233/
+### TikTok to Make Toronto Festival Return With Creators, Emerging Filmmakers Showcase (Exclusive)
+Fri, 04 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/business/digital/tiktok-toronto-film-festival-return-1236690153/
 
-Salomé searches through decades of family footage for the reasons for her mother’s sadness in Bibiana Rojas Gómez and Juan David Cárdenas Maldonado's film, premiering in the Venice Critics' Week.
+The fast-growing video social media platform will be the presenting partner for TIFF’s Special Presentations sidebar during the 2026 edition.
 
-### The Horsemen of the Apocalypse Director Shares Insight Into Her Hybrid Movie That Revisits Her Filmmaker Father s Arrest and Death
-Fri, 04 Sep 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-horsemen-of-the-apocalypse-film-interview-venice-finance-1236688000/
+### AI Is Bringing Broadcasters Back From the Dead — and Creating New Ones
+Fri, 04 Sep 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/ai-comes-for-sports-broadcasting-1236665944/
 
-Norway's Lene Berg is attending the Venice Gap-Financing Market as she looks to finish her very personal film that explores such themes as the narratives that we create.
+Sports is hailed as a safe haven from AI, but sportscasting is going all in on the tech, from lightning-fast analytics to broadcasts tailored to your every whim. Are fans ready for Bot Costas?
 
-### Lego s 2026 Advent Calendars Count Star Wars, Disney and Marvel Among Lineup
-Fri, 04 Sep 2026 06:00:45 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/lego-advent-calendar-2026-star-wars-disney-marvel-city-buy-1236690439/
+### Paul Schrader Says He Can t Stop Writing About Guilt: You Don t Outrun Your Childhood
+Fri, 04 Sep 2026 13:16:49 +0000 — https://www.hollywoodreporter.com/movies/movie-news/paul-schrader-basics-of-philosophy-venice-film-festival-1236690688/
 
-Each seasonal set holds 24 surprise figures and festive Lego builds.
+The director's latest, 'The Basics of Philosophy,' starring Jack Huston, Sofia Boutella and Bill Pullman, world premieres out of competition on the Lido, with Martin Scorsese again on board as executive producer.
 
-### Raffaele Annecchino, Former CEO of Paramount International, Dies at 55
-Fri, 04 Sep 2026 03:39:18 +0000 — https://www.hollywoodreporter.com/business/business-news/raffaele-annecchino-dead-paramount-international-1236690130/
+### The 10 Greatest Sports TV Shows of All Time, Ranked
+Fri, 04 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/lists/best-sports-tv-shows-ranked/
 
-He helped the company transition from traditional broadcasting to digital, supporting the overseas expansion of Paramount+ and Pluto TV.
+From a gloriously acted female wrestling comedy to a seminal late-’70s basketball drama to an undeniably “correct” No. 1 choice, THR’s TV critics select their favorites from the genre.
 
-### Dave Bautista Shows Off Physical Transformation Ahead of God of War Series
-Fri, 04 Sep 2026 03:15:34 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dave-bautista-physical-transformation-kratos-god-of-war-1236690417/
+### Formula 1 s Next Big Bet: A Live Entertainment Event in Milan
+Fri, 04 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/f1-event-milan-2027-f1-the-show-1236690054/
 
-The actor is playing Kratos in Prime Video's live-action adaptation.
+The event, which will combine F1 drivers with live entertainment and music, will be held in Milan next February.
 
-### Taylor Frankie Paul Returning for The Secret Lives of Mormon Wives Season 6
-Fri, 04 Sep 2026 02:37:26 +0000 — https://www.hollywoodreporter.com/tv/tv-news/taylor-frankie-paul-return-mormon-wives-season-6-1236690376/
+### The Holy Wood Dust Director Wants You to Know Your Christmas Tree Is a Living Being With 20 Senses
+Fri, 04 Sep 2026 12:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/holy-wood-dust-film-venice-christmas-tree-is-living-being-1236688600/
 
-ABC has not shared its plans for her scrapped season of 'The Bachelorette,' however The Hollywood Reporter has learned she will film for the Hulu series that is in active production.
+Victor Kossakovsky discusses his new sensory doc, premiering at Venice, his desire to cultivate empathy for plant life, how the film is like a Christmas carol and looks like 'War and Peace,' and his tribute to Fellini.
 
-### Nordstrom s Summer Clearance Gives a Surprise Second Shot at Anniversary Sale Savings
-Fri, 04 Sep 2026 02:04:10 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-clearance-end-of-season-sale-2026-labor-day-deals-1236690194/
+### An Indigenous Man Navigates Identity and Desire in Nosotros (Exclusive TIFF Trailer)
+Fri, 04 Sep 2026 12:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tiff-film-trailer-nosotros-indigenous-guatemala-identity-1236687860/
 
-Secure half off Hoka sneakers, Fendi shades and more of Hollywood's hottest pieces.
+Guatemalan producer Joaquín Ruano's feature directorial debut about two people finding connection "in a world not yet ready to make space for them" world-premieres at Toronto.
 
-### Too Much Sugar Review: A Lively and Authentic Portrait of Small-Town America, in Which the Characters Become Masters of Their Own Stories
-Fri, 04 Sep 2026 01:09:12 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/too-much-sugar-review-robert-greene-1236690139/
+### Maggie Gyllenhaal s Venice Film Festival Style
+Fri, 04 Sep 2026 11:48:13 +0000 — https://www.hollywoodreporter.com/lifestyle/style/maggie-gyllenhaal-venice-film-festival-red-carpet-style-1236685146/
 
-Robert Greene's latest hybrid feature mixes documentary and fiction to focus on a pair of 40-something friends from Missouri, exposing hardships they face as ex-cons and fathers.
+From red carpets for her award-winning directorial debut 'The Lost Daughter' to a current run as jury president, take a look at the actress and filmmaker's fashion choices in Venice over the years.
 
-### Taylor Frankie Paul Confirms She Got Engaged on Pulled Bachelorette Season, Reveals What Happened After Filming
-Thu, 03 Sep 2026 23:49:44 +0000 — https://www.hollywoodreporter.com/tv/tv-news/taylor-frankie-paul-engaged-bachelorette-what-happened-1236689973/
+### Balcanica : When Music Is Outlawed in Afghanistan, a Conductor and His Son Must Leave All Behind (Exclusive Venice Trailer)
+Fri, 04 Sep 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/balcanica-when-music-is-outlawed-in-afghanistan-a-conductor-and-his-son-must-leave-all-behind-exclusive-venice-trailer-1236690543/
 
-The 'Secret Lives of Mormon Wives' star opens up about what unfolded after she returned home to Utah, including reconnecting with ex Dakota Mortensen.
+Matilda De Angelis ('The Undoing') and Babak Karimi ('A Separation') star in Nicola Sorcinelli's directorial feature debut, premiering at Venice Days, which is "rooted in a lifelong anger at the ways freedom can be withheld, controlled or silenced."
 
 ## Deadline
+
+### Game Of Thrones: The Mad King Stage Adaptation Announces 2027 London Transfer
+Fri, 04 Sep 2026 13:35:02 +0000 — https://deadline.com/2026/09/game-of-thrones-mad-king-london-1237067993/
+
+The Royal Shakespeare Company s sell-out stage production in Stratford-upon-Avon of Game of Thrones: The Mad King will transfer to London next year, the company and George R. R. Martin announced today. Martin himself appeared in a a brief Instagram video this morning announcing the move. (Watch it below). In a written statement, Martin, Game of [ ]
+
+### Ira Sachs To Preside Over San Sebastián’s Competition Jury
+Fri, 04 Sep 2026 13:29:05 +0000 — https://deadline.com/2026/09/ira-sachs-san-sebastian-competition-jury-2026-1237068003/
+
+Ira Sachs will lead the competition jury at this year’s San Sebastián Film Festival. The American filmmaker will be joined on the jury by Japanese filmmaker and author Genki Kawamura, the screenwriter Catherine Paillé, actresses Alice Braga and Patricia López Arnaiz, the actor Bill Skarsgård, and the producer Mike Goodridge. Sachs is coming off a [ ]
+
+### BBC Board Members Told To Seek Legal Advice Before Traveling To U.S. Amid Trump Lawsuit
+Fri, 04 Sep 2026 13:25:52 +0000 — https://deadline.com/2026/09/bbc-board-members-legal-advice-us-travel-trump-lawsuit-1237067983/
+
+BBC board members have been advised to seek legal advice before traveling to America, as the British broadcaster defends a $10 billion lawsuit from Donald Trump. During a BBC board meeting in April, directors were told to take counsel from in-house lawyers if they planned on making a trip to the U.S., per minutes from [ ]
+
+### Netflix Hikes UK Prices, With Cheapest Plan Jumping A Third
+Fri, 04 Sep 2026 13:02:12 +0000 — https://deadline.com/2026/09/netflix-hikes-uk-prices-cheapest-plan-up-a-third-1237067976/
+
+It’s become pricier to watch Love Is Blind and The Gentlemen in the UK after Netflix upped its prices, hiking the monthly cost of its cheapest package by a third. The changes narrow the pricing gap between Netflix s cheapest ad-supported tier and its top-level plan. The streamer’s new UK pricing kicked in yesterday, September 3, [ ]
+
+### Cédric Kahn Talks Exploration Of Youth Mental Health Issues In Venice Contender A Place To Heal + Trailer: There s More Hope With Adolescents
+Fri, 04 Sep 2026 13:00:02 +0000 — https://deadline.com/2026/09/cedric-kahn-youth-mental-health-place-heal-venice-1237067977/
+
+French director Cédric Kahn hits the Venice Film Festival’s this evening with Golden Lion contender A Place To Heal (15/18) set against the backdrop of an adolescent psychiatric ward. It promises to be one of this Venice’s most youthful red carpets as the director is joined by the dozen young actors at the heart of the [ ]
+
+### Theo Rollason On How He Discovered 30 Hours Of Behind-The-Scenes Derek Jarman Footage To Create ‘Queer Edward II’ — Venice
+Fri, 04 Sep 2026 12:59:16 +0000 — https://deadline.com/2026/09/theo-rollason-derek-jarman-queer-edward-venice-1237067961/
+
+In 1991, British filmmaker Derek Jarman screened Edward II, his political and wildly inventive adaptation of Christopher Marlowe’s classic play, at the Venice Film Festival. The film was a hit with critics, and Tilda Swinton, who starred alongside Steven Waddington and Andrew Tiernan, won the festival’s Best Actress award. This week, exactly 35 years later, [ ]
+
+### International Insider: Ciao, Venice; Bake Off Battle Heats Up; Leslie Odom Jr. Chat
+Fri, 04 Sep 2026 12:00:00 +0000 — https://deadline.com/2026/09/international-insider-venice-film-festival-begins-1237067822/
+
+Buongiorno, my good reader. It s a Venice-heavy Insider this week, as the A-lister festival got underway amid the cameras and gondolas of the canal-strewn city. Back here in the UK it s Jesse Whittock taking you through the biggest stories of the week. Sign up for the newsletter here to experience the full Insider package. Ciao, [ ]
+
+### Venice Competition Filmmaker May El-Toukhy On Gender Imbalance: I’ve Been The Only Woman In Many, Many Settings
+Fri, 04 Sep 2026 10:55:51 +0000 — https://deadline.com/2026/09/may-el-toukhy-venice-woman-unknown-lack-female-competition-1237066687/
+
+May el-Toukhy is in competition at the Venice Film Festival with post-World War Two psychological thriller Woman Unknown as one of just two female directors in the running for the Golden Lion this year. Set in Denmark in the summer of 1945, the picture revolves around nanny and housemaid Marie (Mathilde Arcel), who is on [ ]
+
+### Tony Gatlif Dies: ‘Gadjo Dilo’ Director Whose Work Celebrated Roma Culture Was 77
+Fri, 04 Sep 2026 10:05:22 +0000 — https://deadline.com/2026/09/tony-gatlif-dead-gadjo-dilo-director-roma-culture-77-1237067945/
+
+Director Tony Gatlif, who was known for films such as Gadjo Dilo exploring Roma culture, died in the Southern French town of Arles on September 3. He was 77. The director was born Michel Boualem Dahmani in Algiers on September 10, 1948, to a Kabyle father and mother of Andalusian and Gitane origin. He had [ ]
+
+### Ron Perlman, Peter Facinelli Mark Elias Starring In Indie Film We Could Be Heroes
+Fri, 04 Sep 2026 09:38:04 +0000 — https://deadline.com/2026/09/ron-perlman-peter-facinelli-we-could-be-heroes-film-1237067861/
+
+EXCLUSIVE: Ron Perlman (Hellboy), Peter Facinelli (The Twilight Saga) and Mark Elias (9-11: Lone Star) are starring in comedy-adventure We Could Be Heroes, which is soon to wrap in Ontario, Canada. The film follows an unlikely wannabe detective who finds himself pulled into a very real mystery when a young gamer gets into trouble and turns to [ ]
+
+### Jack Huston On The Tough Questions About Sexual Abuse Posed By Paul Schrader’s Film ‘The Basics Of Philosophy’: “It s Almost Become A Taboo Subject” – Venice Film Festival
+Fri, 04 Sep 2026 09:03:57 +0000 — https://deadline.com/2026/09/jack-huston-paul-schrader-the-basics-of-philosophy-venice-1237067857/
+
+Paul Schrader writes great parts for great actors, and has been doing so for 50 years, since Robert De Niro played Travis Bickle in Martin Scorsese’s Taxi Driver. Since then, to name but a few, he’s given us William Devane in Rolling Thunder, Richard Gere in American Gigolo, Willem Dafoe in Light Sleeper, Nick Nolte [ ]
 
 ### Lorenzo Mieli Talks Grappling With AI For Diesel Founder Renzo Rosso Bio-Doc ‘Be Brave’: “We Need To Master It, Rather Than Let AI Master Us” – Venice
 Fri, 04 Sep 2026 08:27:51 +0000 — https://deadline.com/2026/09/lorenzo-mieli-ai-diesel-renzo-rosso-biodoc-be-brave-1237067492/
 
 Italian producer Lorenzo Mieli is one of the speakers at the CAA and Finch Partners The Future of… Creativity forum unfolding today on the fringes of the Venice Film Festival. The symposium at the La Scuola Grande di Santa Maria della Misericordia, also featuring George Clooney, Venice Artistic Director Alberto Barbera and jury president Maggie Gyllenhaal as guest [ ]
-
-### Raffaele Annecchino Dies: Former Viacom Paramount International Boss Was 55
-Fri, 04 Sep 2026 08:25:44 +0000 — https://deadline.com/2026/09/raffaele-annecchino-dead-viacom-paramount-international-1237067847/
-
-Raffaele Annecchino, the former international chief at Paramount and its predecessor Viacom, has died aged 55 from acute meningitis. The Italian executive, known for his negotiating skills and business acumen, passed away suddenly over the weekend while in the Balearic Islands, according to his personal office. The former President and CEO of Paramount International, Networks, [ ]
-
-### Louis Partridge Anson Boon Set For British Coming-Of-Age Film Andy Orson ; MetFilm Launches Sales For TIFF Market
-Fri, 04 Sep 2026 08:00:00 +0000 — https://deadline.com/2026/09/louis-partridge-anson-boon-cast-in-andy-orson-1237067616/
-
-EXCLUSIVE: Louis Partridge (Enola Holmes) and Anson Boon (MobLand) are set to star in Andy Orson, the feature directorial debut of writer-directors Nathan Newman and Arnold T. Rice. MetFilm Sales is launching the project for worldwide sales ahead of the TIFF market with filming due to take place in the U.K. in early Q4, [ ]
-
-### ‘Coming Of Age’: First Look At Josh Appignanesi’s Upcoming Comedy About “The Power Of Aging”
-Fri, 04 Sep 2026 06:28:52 +0000 — https://deadline.com/2026/09/coming-of-age-josh-appignanesi-devorah-baum-1237066749/
-
-EXCLUSIVE: Here’s a first look at writer-director Josh Appignanesi’s seventh feature Coming of Age, which he co-wrote with longtime collaborator Devorah Baum. The film, which is told across 30 years of car rides through a fast-changing London, is described as a heartfelt comedy about the power of aging . It follows a couple navigating love, parenthood, midlife [ ]
-
-### RTE s The Murder Of Mr. Moonlight To Explore Infamous Irish Killing; BBC Banijay Rights On Board Drama Series
-Fri, 04 Sep 2026 05:00:00 +0000 — https://deadline.com/2026/09/murder-of-mr-moonlight-drama-rte-bbc-banijay-rights-1237067284/
-
-EXCLUSIVE: Ireland s RTÉ will explore one of the most talked-about murders of recent Irish history in a drama series. The Murder of Mr. Moonlight, from Conker Pictures and Samson Films, has been pre-bought by the BBC, we hear, with Conker s Banijay Entertainment stablemate Banijay Rights also attached. Malcolm Campbell (What Richard Did) is adapting Catherine [ ]
-
-### Criminal Boss Ed Brubaker Accused Of Sexual Racial Harassment; Amazon, MGM Also Named As Defendants In Complaint From Ex-PA
-Fri, 04 Sep 2026 02:19:45 +0000 — https://deadline.com/2026/09/ed-brubaker-sued-sex-harassment-criminal-1237067742/
-
-What may or may not have gone down on Prime Video s upcoming Criminal now looks set to end up in a California courtroom. This action arises from the sustained sexual, racial, national origin, and religious harassment that Plaintiff ljaaz Noobu, a Sri Lankan American filmmaker with fourteen years of experience in the film industry, endured [ ]
-
-### Rosie O Donnell Performs I Am Woman With Epstein Survivors: I m Sorry That Our Country s So F*cked Up
-Fri, 04 Sep 2026 02:05:08 +0000 — https://deadline.com/2026/09/rosie-odonnell-performs-i-am-woman-epstein-survivors-1237067769/
-
-Following her late-night stint, Rosie O Donnell is continuing to put Donald Trump on blast, this time with help from a few friends. On Thursday, the 12x Emmy winner shared a video of herself performing Helen Reddy s 1972 feminist anthem I Am Woman with survivors of Jeffrey Epstein s sex-trafficking ring, calling out Trump s association with the [ ]
-
-### Jessie T. Usher, Taye Diggs Brett Gelman Among 5 Joining Sci-Fi Thriller Feature ‘Syndetic’
-Fri, 04 Sep 2026 01:13:04 +0000 — https://deadline.com/2026/09/jessie-t-usher-taye-diggs-brett-gelman-sci-fi-film-syndetic-1237067717/
-
-EXCLUSIVE: Jessie T. Usher (The Boys, Smile), Brett Gelman (Wild Things), Taye Diggs (His, Hers, Ours), Torrey Lawrence (Bring the Law) and Brooke Anne Smith (Tyler Perry s Too Close to Home) are set to star in Syndetic, a psychological sci-fi thriller that recently wrapped production in Los Angeles. Syndetic will mark the directorial debut of [ ]
-
-### Big Brother Season 28, Week 8 Eviction: First Member Of Jury Revealed
-Fri, 04 Sep 2026 00:44:56 +0000 — https://deadline.com/2026/09/big-brother-season-28-week-8-eviction-cbs-1237067692/
-
-SPOILER ALERT: This post contains details on Big Brother Season 28, Episode 28, which aired on Thursday, September 3. Following one of the biggest twists in Big Brother history, Julie Chen Moonves returned for another live episode where a new houseguest was voted out. After Haley Thogmartin was voted out in a twist that saw [ ]
-
-### Mark Sanchez Pleads Guilty In Trucker Stabbing Case; Ex-NFL QB Fox Sports Talking Head Hopes To Avoid Looming Trial Potential Jail Time
-Fri, 04 Sep 2026 00:44:20 +0000 — https://deadline.com/2026/09/mark-sanchez-stabbing-plea-1237067677/
-
-Days before a jury trial was set to start in Indianapolis, Mark Sanchez has entered a guilty plea in the 2025 stabbing, assault and booze-fueled incident with a 69-year-old trucker. The parties have reached a resolution that will obviate the need for the jury trial, declared the paperwork filed jointly Thursday by Sanchez s lawyers and [ ]
-
-### Nicole Kidman Wanted To Star In A Dune Film But Denis Villeneuve Never Asks To Work Together: I m Obsessed
-Fri, 04 Sep 2026 00:41:25 +0000 — https://deadline.com/2026/09/nicole-kidman-wanted-star-dune-film-1237067699/
-
-Although Nicole Kidman has no shortage of roles to keep her busy, don t expect her to make an appearance in the Dune franchise. The Oscar-winning actress recently expressed regret that Denis Villeneuve never asked her to star in his trilogy based on Frank Herbert s space opera, admitting she d just want to watch the movies instead. [ ]
-
-### Universal Taps Chris MacBride To Pen Confession Of Murder Remake With Glen Powell s Barnstorm Banner And Winged Tiger Producing
-Thu, 03 Sep 2026 23:00:00 +0000 — https://deadline.com/2026/09/universal-chris-macbride-confession-of-murder-glen-powell-1237067015/
-
-EXCLUSIVE: Universal has acquired feature remake rights to the 2012 Korean film Confession of Murder and tapped Chris MacBride to pen the script. Barnstorm’s Glen Powell and Dan Cohen will be producing with Winged Tiger’s Naomi Funabashi and Rishi Rajani. The original film followed an investigation that ensued after a suspected killer publishes a book [ ]
 

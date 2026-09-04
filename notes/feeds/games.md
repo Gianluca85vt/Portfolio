@@ -1,6 +1,31 @@
-# Games — harvested 2026-09-04T09:03:21.577Z
+# Games — harvested 2026-09-04T14:32:45.100Z
 
 ## Eurogamer
+
+### Next week, for the first time ever, Nintendo is hosting two Directs back-to-back - and the first one is dedicated to The Legend of Zelda's 40th anniversary
+Fri, 04 Sep 2026 14:30:12 +0000 — https://www.eurogamer.net/nintendo-zelda-40th-anniversary-direct-another-nintendo-direct
+
+Back in June, we learned that we're officially getting a The Legend of Zelda: Ocarina of Time remake , which is supposedly coming to Switch 2 later this year (and we first heard rumours about it back in Marc h). But, as we approach the latter quarter of the year, we still don't know much about this remake, what it looks like, how it plays, or... well, anything really. Read more
+
+### Playing Mass Effect spiritual successor Exodus was the best kind of surprise
+Fri, 04 Sep 2026 13:00:32 +0000 — https://www.eurogamer.net/exodus-gamescom-preview
+
+My relationship with Mass Effect begins and ends with the first game (let's just blame the M35 Mako and leave it at that), and so Exodus - which is making no bones about being something of a Mass Effect spiritual successor, born from some of the same creative team - isn't a game that's been anywhere close to my radar. But the Gamescom gods contrived to put Exodus on my appointment schedule, and while the 45 minutes or so I played wasn't what I was expecting when I first sat down, I've come away both intrigued and impressed by what developer Archetype Entertainment is trying to achieve. Read more
+
+### Something strange is happening to the Starcraft website, as BlizzCon inches ever closer
+Fri, 04 Sep 2026 11:10:33 +0000 — https://www.eurogamer.net/starcraft-website-glitches-blizzcon-2026
+
+The Starcraft website is suffering from some mysterious visual glitches and distortion roughly a week before BlizzCon. As a result, fans of the RTS series are fiercely speculating on a possible reveal. Read more
+
+### No Law was one of the most exciting games I saw at Gamescom: a cyberpunk immersive sim that solves one of Deus Ex's biggest problems
+Fri, 04 Sep 2026 11:06:24 +0000 — https://www.eurogamer.net/no-law-hands-off-preview-gamescom-cyberpunk-deus-ex-biggest-problem
+
+Sometimes you see a game and can tell that the developers just get it . No Law is one of those games. Having seen it first hand at Gamescom, it has quickly become one of my most anticipated games from the show. Read more
+
+### Xbox places monthly time limits to its paid cloud gaming service, insists only a fraction of players will be impacted
+Fri, 04 Sep 2026 09:19:06 +0000 — https://www.eurogamer.net/xbox-cloud-gaming-monthly-time-limits
+
+Xbox has announced hard monthly time limits will be added to its cloud gaming streaming service this November. Don't worry though, if you run into these limits, you can always buy more hours on the Xbox store. Read more
 
 ### Final Fantasy 7 Revelation is getting a physical version, but it will require an internet connection to download
 Fri, 04 Sep 2026 08:58:46 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-physical-version-catch
@@ -37,32 +62,22 @@ Thu, 03 Sep 2026 14:08:54 +0000 — https://www.eurogamer.net/crimson-desert-cha
 
 It didn't take long for Crimson Desert to get some new stuff. During today's State of Play presentation, developer Pearl Abyss unveiled Charting the Unknown. This is the game's first post-launch DLC, and it's set to arrive 15th October on PC, PS5 and Xbox Series X/S. Read more
 
-### Sony's discless PlayStation PR disaster isn't going away as State of Play once again flooded with protests
-Thu, 03 Sep 2026 14:05:12 +0000 — https://www.eurogamer.net/sony-state-of-play-no-disc-no-buy-destiny-3
-
-Today's Sony State of Play livestream was packed full of new game trailers, reveals, and announcements for PlayStation fans. However, if you took a look at the live chat, you'll have mostly just seen two groups of angered fans clamouring after discs and Destiny. Read more
-
-### Ghost of Yōtei: Complete Edition's Most Wanted roguelike mode brings back Tsushima's Jin Sakai
-Thu, 03 Sep 2026 13:36:28 +0000 — https://www.eurogamer.net/ghost-of-yotei-complete-edition-most-wanted-jin-first-look
-
-During today's State of Play showcase, Ghost of Y&omacr;tei developer Sucker Punch brought a first-look trailer at Most Wanted. This is the roguelike mode the studio announced alongside the Complete Edition earlier in August . Read more
-
-### Monster Hunter Ascendance gets a new gameplay trailer, showing new elder dragons, a floating island region, and a major glow up for a certain character
-Thu, 03 Sep 2026 13:31:10 +0000 — https://www.eurogamer.net/monster-hunter-ascendance-sony-state-of-play-trailer
-
-A new gameplay trailer for Monster Hunter Wilds : Ascendance was just shown at the Sony State of Play, showing off a variety of new features coming with the expansion next year. Read more
-
-### Everything announced at Sony's State of Play September 2026
-Thu, 03 Sep 2026 13:19:41 +0000 — https://www.eurogamer.net/everything-announced-at-sonys-state-of-play-september-2026
-
-It's showcase time! After a packed Gamescom, Sony's doing its own thing once more, this time giving a taste of everything coming to PlayStation 5 in the coming months and beyond. That includes a final look at Marvel's Wolverine before its impending release, another glimpse of Zach Cregger's promising Resident Evil movie (although that's obviously one coming to the big screen), as well as plenty more. We'll be updating as the show goes on&hellip; Read more
-
-### Guild Wars 3's devs think they've found an answer to one of MMOs' biggest problems, but can ArenaNet pull it off?
-Thu, 03 Sep 2026 13:05:32 +0000 — https://www.eurogamer.net/guild-wars-3-preview-movement-combat-gamescom
-
-Close your eyes and imagine a standard MMORPG. The way it moves, the way it plays. Save for a few finer intricacies, they've largely played the same for over two decades. A big action bar, the same sorts of quests, the same sort of progression. Guild Wars 3 is aiming to fix that. Read more
-
 ## GamesIndustry.biz
+
+### Nvidia acquires open-source AI platform Hugging Face for $12.9bn
+Fri, 04 Sep 2026 13:50:36 +0000 — https://www.gamesindustry.biz/nvidia-acquires-open-source-ai-platform-hugging-face-for-129bn
+
+Nvidia has acquired the artificial intelligence platform Hugging Face for $12.9 billion. Read more
+
+### Future imperfect: Five predictions for the next decade | Opinion
+Fri, 04 Sep 2026 12:16:41 +0000 — https://www.gamesindustry.biz/future-imperfect-five-predictions-for-the-next-decade-opinion
+
+A lot of minds around the industry currently seem focused on one thing: the future. Whether it was Amir Satvat's Gamescom Dev keynote , or the plethora of industry luminaries who lined up to discuss ongoing and impending turmoil for Edge magazine's latest issue, the topic of the moment is what's next &ndash; and the mood is apprehensive, to say the least. Read more
+
+### GTA 6 Netflix preview causes PlayStation and Xbox hardware sales to jump in the UK
+Fri, 04 Sep 2026 09:09:47 +0000 — https://www.gamesindustry.biz/gta-6-netflix-preview-causes-playstation-and-xbox-hardware-sales-to-jump-in-the-uk
+
+PlayStation 5 and Xbox Series X|S console sales increased in the UK following last week's Grand Theft Auto 6 reveal on Netflix . Read more
 
 ### Xbox adds monthly cloud limits to Game Pass as it "continues to invest in its reliability and performance"
 Fri, 04 Sep 2026 07:37:02 +0000 — https://www.gamesindustry.biz/xbox-adds-monthly-cloud-limits-to-game-pass-as-it-continues-to-invest-in-its-reliability-and-performance
@@ -109,26 +124,26 @@ Wed, 02 Sep 2026 19:44:30 +0000 — https://www.gamesindustry.biz/cd-projekt-red
 
 CD Projekt Red generated $116.5 million (435 million PLN) in revenue during the first half of 2026, up 23% year-over-year. Read more
 
-### Nexus Mods acquires SteamDB
-Wed, 02 Sep 2026 19:14:24 +0000 — https://www.gamesindustry.biz/nexus-mods-acquires-steamdb
-
-Nexus Mods has acquired SteamDB, the widely used Steam data-tracking site. Read more
-
-### Square Enix denies going private after report sends stock surging
-Wed, 02 Sep 2026 16:02:35 +0000 — https://www.gamesindustry.biz/square-enix-denies-going-private-after-report-sends-stock-surging
-
-Square Enix has issued a statement denying it is exploring taking the company private after a report in Japanese business magazine Sentaku claimed the publisher had drawn interest from foreign investment funds. Read more
-
-### "Sometimes you need fresh perspectives" – How external development helped Tomb Raider: Legacy of Atlantis
-Wed, 02 Sep 2026 13:00:00 +0000 — https://www.gamesindustry.biz/sometimes-you-need-fresh-perspectives-how-external-development-helped-tomb-raider-legacy-of-atlantis
-
-A hands-off demonstration of Tomb Raider: Legacy of Atlantis at Gamescom last week showed that the game is far from a simple remaster of the 1996 original; it's a complete reworking of Lara Croft's first adventure. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Review: Star Wars Zero Company (PS5) - A Perfect Pairing of Licence and Genre Imperfectly Executed
+Fri, 04 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/reviews/ps5/star-wars-zero-company
+
+May the Hawks be with you. It's almost impossible not to mention XCOM when talking about Star Wars Zero Company , as the similarities are clear and manifold. What developer Bit Reactor has done is apply a Star Wars veneer on top of the robust turn-based tactical gameplay from Firaxis' beloved series, and the result is a game that feels like a perfect alignment. Read the full article on pushsquare.com
+
+### One of the Best PS5 Story Developers Has Helped Write Until Dawn 2 s Plot
+Fri, 04 Sep 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/09/one-of-the-best-ps5-story-developers-has-helped-write-until-dawn-2s-plot
+
+Disptach developer AdHoc Studio involved. You can now be even more confident Until Dawn 2 will be a fantastic story experience, as it's been announced Dispatch developer AdHoc Studio helped write the PS5 sequel's story. Having revealed the 28th January 2027 release date, a PlayStation Blog post spoke of the collaboration: Read the full article on pushsquare.com
+
+### Where the Seeds Fall Is Sort of the Inverse of Those Viral Vertical Rage Games
+Fri, 04 Sep 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/09/where-the-seeds-fall-is-sort-of-the-inverse-of-those-viral-vertical-rage-games
+
+Descends onto PS5 in November. If you've ever seen or played games like Jump King , Baby Steps , or Getting Over It , Cygames' new vertical adventure Where the Seeds Fall may prove to be something of a salve. This particular brand of intentionally difficult, rage-inducing platformers typically task you with climbing up tricky terrain and harsh environments, with one poorly-judged jump sending you falling back down where you came from. Read the full article on pushsquare.com
 
 ### Preview: There ll Be a Surprising Announcement Soon : I Played Crazy Taxi: World Tour and Spoke to Series Creator Kenji Kanno
 Thu, 03 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/previews/therell-be-a-surprising-announcement-soon-i-played-crazy-taxi-world-tour-and-spoke-to-series-creator-kenji-kanno
@@ -175,22 +190,12 @@ Thu, 03 Sep 2026 15:40:00 GMT — https://www.pushsquare.com/news/2026/09/slashz
 
 But only for a limited time. I’ve been quietly keeping tabs on PS5 side-scrolling roguelike SlashZero for quite some time, so I’m excited to learn a time-limited demo is now live on the PS Store . It’s unclear exactly when this will expire, but you can download it and give it a try, ahead of the game’s release in Spring 2027. Read the full article on pushsquare.com
 
-### The Eminence in Shadow Anime Gets Its Own PS5 Roguelite in 2027
-Thu, 03 Sep 2026 15:35:00 GMT — https://www.pushsquare.com/news/2026/09/the-eminence-in-shadow-anime-gets-its-own-ps5-roguelite-in-2027
-
-Phantom echoes. Fans of The Eminence in Shadow anime – which started life as a light novel, of course – may be excited to learn a roguelite adaptation is in development for the PS5. A collaboration between publisher Aiming with Team Caravan on dev duties, the title will be brought to the West courtesy of NIS America in 2027. Read the full article on pushsquare.com
-
-### Try Two Hours of Stupid Never Dies on PS5 Now, with Your Progress Transferring to the Full Game
-Thu, 03 Sep 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/09/try-two-hours-of-stupid-never-dies-on-ps5-now-with-your-progress-transferring-to-the-full-game
-
-A hearty helping of idiocy. You can play a two hour demo of the zany PS5 action game Stupid Never Dies right now, with your progress transferring to the full release should you decide to purchase it on 22nd October. The First Bite Demo includes the entire opening hours of the campaign, and can be downloaded for free from the PS Store through here . Read the full article on pushsquare.com
-
-### You May Have Missed the Reveal of CONQ: Crown of No Quarter During State of Play Japan
-Thu, 03 Sep 2026 15:25:00 GMT — https://www.pushsquare.com/news/2026/09/you-may-have-missed-the-reveal-of-conq-crown-of-no-quarter-during-state-of-play-japan
-
-CONQ's bad fur day. Not everyone stuck around for State of Play Japan , so you may have missed the reveal of nautical action game CONQ: Crown of No Quarter . Billed as a “tactical action game”, this is set in the afterlife where you must “fight your way through a brutal melee frenzy, command bone-clad fleets, wield dark curses, and lead hundreds of troops in seamless sea-to-land warfare”. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Strategically making Star Wars Zero Company, ft. Greg Foertsch
+Fri, 04 Sep 2026 14:15:00 GMT — https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch
+
+Bit Reactor CEO and Star Wars Zero Company creative director Greg Foertsch discusses the development of the latest adventure from the world of Star Wars.
 
 ### Xbox to cap Cloud Gaming hours for Game Pass subscribers
 Thu, 03 Sep 2026 23:40:49 GMT — https://www.gamedeveloper.com/cloud/xbox-to-cap-cloud-gaming-hours-for-game-pass-subscribers

@@ -1,66 +1,66 @@
-# Manga — harvested 2026-09-04T09:03:21.577Z
+# Manga — harvested 2026-09-04T14:32:45.100Z
 
 ## Anime News Network
 
-### 'As a Reincarnated Aristocrat, I'll Use My Appraisal Skill' Season 3 Anime's Video Reveals More Cast, Theme Songs, September 27 Debut, New Animation Studio
-Fri, 04 Sep 2026 02:40:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-season-3-anime-video-reveals-more-cast-/.241348
+### This Week in Games - Fate/Phantasy
+Fri, 04 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-09-04/fate-phantasy/.240949
 
-Sumire Morohoshi, Hinata Tadokoro join cast; GeyeG Pictures is new animation studio
+You can't make me cry, I'm a Sega fan.
 
-### Noragami's Adachitoka Launches New Manga
-Fri, 04 Sep 2026 02:20:35 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/noragami-adachitoka-launches-new-manga/.241244
+### Hellbound Artist Kyoo-seok Choi Teams Up With MEEN for New Webtoon Crocodile
+Fri, 04 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/hellbound-artist-kyoo-seok-choi-teams-up-with-meen-for-new-webtoon-crocodile/.241351
 
-<cite>Yadoya no Oinu-sama</cite> debuts on October 6
+New series set in Busan explores revenge, redemption, meaning of life as In-hoo confronts family of his former victim
 
-### The World's Finest Assassin Gets Reincarnated in a Different World as an Aristocrat Season 2's Video Reveals More Cast, January Debut
-Fri, 04 Sep 2026 00:29:53 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/the-world-finest-assassin-gets-reincarnated-in-a-different-world-as-an-aristocrat-season-2-video-/.241347
+### Dancing Through History with The World is Dancing Director Toshimasa Kuroyanagi, Producer Kan Mizoguchi
+Fri, 04 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-09-04/dancing-through-history-with-the-world-is-dancing-director-toshimasa-kuroyanagi-producer-kan-/.239464
 
-Sumire Uesaka, Yūsuke Tonozaki join cast
+We sat down with the two creatives to discuss the series, from its historical roots in the Muromachi era to brushstrokes seen on every episode title card.
 
-### I'm Dating a Dark Summoner Anime's Video Reveals More Cast, Theme Songs, October 4 TV Debut
-Fri, 04 Sep 2026 00:07:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/im-dating-a-dark-summoner-anime-video-reveals-more-cast-theme-songs-october-4-tv-debut/.241346
+### WEBTOON's Parent Company Naver Invests in Emmy-Winning Animation Studio Baobab Studios
+Fri, 04 Sep 2026 08:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/webtoon-parent-company-naver-invests-in-emmy-winning-animation-studio-baobab-studios/.241353
 
-Akane Nishimura, Maya Ayahane join cast
+Partnership brings WEBTOON, Baobab together for original fantasy adventure webcomic created by filmmaker Erick Oh, webtoon creator Madeleine Rosca
 
-### Sleep in Human-Sized Poké Ball in the Hokkaido Woods
-Thu, 03 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-03/sleep-in-human-sized-poke-ball-in-the-hokkaido-woods/.241298
+### Webtoon-Based Animated Film Guardians of the Video Game to Open in October in Korea
+Fri, 04 Sep 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/webtoon-based-animated-film-guardians-of-the-video-game-to-open-in-october-in-korea/.241357
 
-Get the chance to sleep at the Poké Ball-Themed Hotel this September
+Film follows ace agent responsible for setting up worlds inside video games
 
-### Mission: Yozakura Family Season 2 Part 2's Video Unveils Theme Songs, October 11 Debut
-Thu, 03 Sep 2026 23:35:12 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/mission-yozakura-family-season-2-part-2-video-unveils-theme-songs-october-11-debut/.241345
+### The Elusive Samurai Anime's 2nd Season Casts Niina Hanamiya
+Fri, 04 Sep 2026 07:55:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/the-elusive-samurai-anime-2nd-season-casts-niina-hanamiya/.241378
 
-Humbreaders perform opening "Forever Song," Kid Phenomenon performs ending "I'm still breathing"
+Hanamiya voices Mima in ongoing series
 
-### September 9 Dubbed 'Attack on Titan Day'
-Thu, 03 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-03/september-9-dubbed-attack-on-titan-day/.241300
+### My Girlfriend's Friend TV Anime Reveals More Cast, October 4 Debut in Video
+Fri, 04 Sep 2026 07:39:30 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/my-girlfriend-friend-tv-anime-reveals-more-cast-october-4-debut-in-video/.241375
 
-Marking manga's launch in Bessatsu Shonen Magazine in 2009.
+Airots, Ceui perform themes for series
 
-### Tanuki to Kitsune Anime's Video Unveils Cast
-Thu, 03 Sep 2026 22:51:45 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/tanuki-to-kitsune-anime-video-unveils-cast/.241343
+### The Detective Is Already Dead Season 2 Anime Reveals 3rd Promo Video, More Cast
+Fri, 04 Sep 2026 06:39:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/the-detective-is-already-dead-season-2-anime-reveals-3rd-promo-video-more-cast/.241372
 
-Misaki Kuno, Nao Tōyama, Toshiyuki Morikawa, Maria Naganawa, Takuma Nagatsuka join cast
+Akari Komiyama, Nobuhiko Okamoto join cast for series debuting on October 7
 
-### Live-Action Look Back Film's Clip Highlights Kyōmoto, Fujino Creating Manga
-Thu, 03 Sep 2026 22:47:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/live-action-look-back-film-clip-highlights-kyomoto-fujino-creating-manga/.241344
+### Hakuhodo Teases New Project in Videos
+Fri, 04 Sep 2026 06:15:52 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-09-04/hakuhodo-teases-new-project-in-videos/.241371
 
-Film opens in Japan on September 11
+Entertainment company Hakuhodo DY Music & Pictures teased in two videos on Friday that it will announce a new project on September 10 at 7:00 p.m. JST....
 
-### Konami's Project Zircon Deckbuilding Roguelike Game Streams New Teaser
-Thu, 03 Sep 2026 21:37:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/konami-project-zircon-deckbuilding-roguelike-game-streams-new-teaser/.241341
+### Full Clearing Another World under a Goddess with Zero Believers Anime Reveals More Cast, Theme Songs, October 11 Debut
+Fri, 04 Sep 2026 05:20:39 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-reveals-more-cast-theme-songs-/.241303
 
-Game for larger <cite>Project Zircon<//cite> franchise confirmed for Steam
+Yukina Shutō, Hitomi Sekine, Masaaki Mizunaka, Kenshō Ono, more join anime's cast
 
-### Castlevania: Belmont's Curse Game Streams 'Bloody Tears' Trailer
-Thu, 03 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/castlevania-belmont-curse-game-streams-bloody-tears-trailer/.241327
+### Inherit the Winds Anime Gets Advanced 2-Week Screening in Japanese Theaters Starting on November 13
+Fri, 04 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/inherit-the-winds-anime-gets-advanced-2-week-screening-in-japanese-theaters-starting-on-november-13/.241328
 
-Game launches for PS5, Xbox Series X|S, Switch, and PC via Steam on October 15
+Visual unveiled for screening previewing anime ahead of January 2027 premiere
 
-### Konami Unveils Concept Trailer for Konami Wai Wai World Craft Game Creation System
-Thu, 03 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/konami-unveils-concept-trailer-for-konami-wai-wai-world-craft-game-creation-system/.241326
+### Medalist Manga Goes on Hiatus
+Fri, 04 Sep 2026 04:26:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/medalist-manga-goes-on-hiatus/.241370
 
-UGC platform features characters from various Konami franchises
+Manga goes on hiatus due to "production circumstances"
 
 ## Crunchyroll News
 
