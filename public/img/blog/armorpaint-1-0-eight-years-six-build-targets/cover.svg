@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#1F6F5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" fill="#7FE3C4" font-family="Helvetica,Arial,sans-serif" font-size="30" letter-spacing="6">ARMORPAINT</text>
+  <text x="80" y="330" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="180" font-weight="bold">1.0</text>
+  <text x="80" y="410" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="52" font-weight="bold">eight years in early access</text>
+  <text x="80" y="480" fill="#B9F2DF" font-family="Helvetica,Arial,sans-serif" font-size="34">Six build targets. Three graphics APIs.</text>
+  <text x="80" y="530" fill="#B9F2DF" font-family="Helvetica,Arial,sans-serif" font-size="34">Source under zlib, binaries $19.</text>
+</svg>
