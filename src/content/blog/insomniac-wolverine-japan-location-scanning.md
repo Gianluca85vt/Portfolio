@@ -21,6 +21,11 @@ with.
 
 ## Divide them and see what kind of capture this was
 
+<figure>
+  <img src="/img/blog/insomniac-wolverine-japan-location-scanning/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Arashiyama bamboo grove, Kyoto. Wikimedia Commons, free licence</figcaption>
+</figure>
+
 189,589 photographs across a bit over 600 scans is roughly 316 frames per
 scan. That is not a number you get by walking around with a phone. A ground
 material — a patch of gravel, a paving slab, a stretch of moss — is thirty to
