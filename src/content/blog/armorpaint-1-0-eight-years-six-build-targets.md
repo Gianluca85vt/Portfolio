@@ -4,7 +4,6 @@ date: 2026-09-04
 category: 3D
 excerpt: ArmorPaint tagged 1.0 on 3 September, eight years into early access. Source still free under zlib, binaries still $19, and six build targets explain the wait.
 cover: /img/blog/armorpaint-1-0-eight-years-six-build-targets/shot-01.jpg
-draft: true
 ---
 
 ArmorPaint has a version number now. The repository tagged **1.0** on 3
