@@ -25,6 +25,11 @@ enough to hit the new ceiling. One in twenty-five.
 
 ## Divide the price by the cap
 
+<figure>
+  <img src="/img/blog/game-pass-cloud-gaming-15-hour-cap/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Xbox Series X hardware, via Wikimedia Commons, Creative Commons licensed</figcaption>
+</figure>
+
 Do that for each tier and the numbers converge in a way the tier names don't
 suggest.
 
