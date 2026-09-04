@@ -1,66 +1,66 @@
-# Manga — harvested 2026-09-03T19:26:19.274Z
+# Manga — harvested 2026-09-04T09:03:21.577Z
 
 ## Anime News Network
 
-### Stupid Never Dies Game's 3rd Trailer Reveals Demo
-Thu, 03 Sep 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/stupid-never-dies-game-3rd-trailer-reveals-demo/.241318
+### 'As a Reincarnated Aristocrat, I'll Use My Appraisal Skill' Season 3 Anime's Video Reveals More Cast, Theme Songs, September 27 Debut, New Animation Studio
+Fri, 04 Sep 2026 02:40:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-season-3-anime-video-reveals-more-cast-/.241348
 
-Game launches on October 21
+Sumire Morohoshi, Hinata Tadokoro join cast; GeyeG Pictures is new animation studio
 
-### Cygames Announces Where the Seeds Fall Game From Newly Established Label CygamesEdge
-Thu, 03 Sep 2026 13:48:54 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/cygames-announces-where-the-seeds-fall-game-from-newly-established-label-cygamesedge/.241317
+### Noragami's Adachitoka Launches New Manga
+Fri, 04 Sep 2026 02:20:35 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/noragami-adachitoka-launches-new-manga/.241244
 
-Game launches for PS5, Switch 2, PC on November 5
+<cite>Yadoya no Oinu-sama</cite> debuts on October 6
 
-### NIS America Announces The Eminence in Shadow: Phantom Echoes Game
-Thu, 03 Sep 2026 12:42:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/nis-america-announces-the-eminence-in-shadow-phantom-echoes-game/.241316
+### The World's Finest Assassin Gets Reincarnated in a Different World as an Aristocrat Season 2's Video Reveals More Cast, January Debut
+Fri, 04 Sep 2026 00:29:53 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/the-world-finest-assassin-gets-reincarnated-in-a-different-world-as-an-aristocrat-season-2-video-/.241347
 
-Game launches for PS5, Switch 2, PC in 2027
+Sumire Uesaka, Yūsuke Tonozaki join cast
 
-### Fate/Extra Record Game's Trailer Reveals January 28 Release
-Thu, 03 Sep 2026 12:27:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/fate-extra-record-game-trailer-reveals-january-28-release/.241314
+### I'm Dating a Dark Summoner Anime's Video Reveals More Cast, Theme Songs, October 4 TV Debut
+Fri, 04 Sep 2026 00:07:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/im-dating-a-dark-summoner-anime-video-reveals-more-cast-theme-songs-october-4-tv-debut/.241346
 
-Game launches for Switch 2, Switch, PS5, PS4, PC following several delays
+Akane Nishimura, Maya Ayahane join cast
 
-### Gundam: Rogue Orbit Game's Trailer Reveals March 2027 Release
-Thu, 03 Sep 2026 12:05:33 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/gundam-rogue-orbit-game-trailer-reveals-march-2027-release/.241324
+### Sleep in Human-Sized Poké Ball in the Hokkaido Woods
+Thu, 03 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-03/sleep-in-human-sized-poke-ball-in-the-hokkaido-woods/.241298
 
-Video previews story, characters, gameplay
+Get the chance to sleep at the Poké Ball-Themed Hotel this September
 
-### The Detective Is Already Dead Volumes 1-4 Manga Review
-Thu, 03 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-detective-is-already-dead/volumes-1-4/.240955
+### Mission: Yozakura Family Season 2 Part 2's Video Unveils Theme Songs, October 11 Debut
+Thu, 03 Sep 2026 23:35:12 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/mission-yozakura-family-season-2-part-2-video-unveils-theme-songs-october-11-debut/.241345
 
-Make no mistake, the actual narrative progression of these mysteries is far from graceful.
+Humbreaders perform opening "Forever Song," Kid Phenomenon performs ending "I'm still breathing"
 
-### Shimofuri Myojo's Seiya to Guest Star in New Ranma 1/2 Anime's Season 3
-Thu, 03 Sep 2026 11:41:15 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/shimofuri-myojo-seiya-to-guest-star-in-new-ranma-1-2-anime-season-3/.241322
+### September 9 Dubbed 'Attack on Titan Day'
+Thu, 03 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-03/september-9-dubbed-attack-on-titan-day/.241300
 
-Seiya to serve as promotional ambassador for anime's 3rd season
+Marking manga's launch in Bessatsu Shonen Magazine in 2009.
 
-### Dark Gathering Season 2 Anime Premieres in 2027
-Thu, 03 Sep 2026 11:18:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/dark-gathering-season-2-anime-premieres-in-2027/.241321
+### Tanuki to Kitsune Anime's Video Unveils Cast
+Thu, 03 Sep 2026 22:51:45 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/tanuki-to-kitsune-anime-video-unveils-cast/.241343
 
-Anime's 1st season debuted in July 2023
+Misaki Kuno, Nao Tōyama, Toshiyuki Morikawa, Maria Naganawa, Takuma Nagatsuka join cast
 
-### Giant Ojosama TV Anime's Teaser Trailer Reveals Cast, Staff
-Thu, 03 Sep 2026 11:05:39 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/giant-ojosama-tv-anime-teaser-trailer-reveals-cast-staff/.241204
+### Live-Action Look Back Film's Clip Highlights Kyōmoto, Fujino Creating Manga
+Thu, 03 Sep 2026 22:47:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/live-action-look-back-film-clip-highlights-kyomoto-fujino-creating-manga/.241344
 
-Anime stars Yu Serizawa as Oriko Fujido, Junya Enoki as Dr. Sebastian
+Film opens in Japan on September 11
 
-### Dragon Quest Monsters: The Withered World Game's Video Previews Monster Wrangling
-Thu, 03 Sep 2026 10:53:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/dragon-quest-monsters-the-withered-world-game-video-previews-monster-wrangling/.241315
+### Konami's Project Zircon Deckbuilding Roguelike Game Streams New Teaser
+Thu, 03 Sep 2026 21:37:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/konami-project-zircon-deckbuilding-roguelike-game-streams-new-teaser/.241341
 
-Game launches for Switch 2, Switch, PS5, Xbox X|S, PC on December 3
+Game for larger <cite>Project Zircon<//cite> franchise confirmed for Steam
 
-### Konami Announces Rhapsody in Scarlet Action Game
-Thu, 03 Sep 2026 10:41:18 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/konami-announces-rhapsody-in-scarlet-action-game/.241310
+### Castlevania: Belmont's Curse Game Streams 'Bloody Tears' Trailer
+Thu, 03 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/castlevania-belmont-curse-game-streams-bloody-tears-trailer/.241327
 
-Videos preview story for game launching on PS5, Xbox X|S, PC
+Game launches for PS5, Xbox Series X|S, Switch, and PC via Steam on October 15
 
-### Dragon Ball Xenoverse 3 Game's Trailer Previews Customizable Avatars, Android Race
-Thu, 03 Sep 2026 10:12:07 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/dragon-ball-xenoverse-3-game-trailer-previews-customizable-avatars-android-race/.241312
+### Konami Unveils Concept Trailer for Konami Wai Wai World Craft Game Creation System
+Thu, 03 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-03/konami-unveils-concept-trailer-for-konami-wai-wai-world-craft-game-creation-system/.241326
 
-Game launches for PS5, Xbox X|S, PC in 2027
+UGC platform features characters from various Konami franchises
 
 ## Crunchyroll News
 

@@ -1,6 +1,11 @@
-# Games — harvested 2026-09-03T19:26:19.274Z
+# Games — harvested 2026-09-04T09:03:21.577Z
 
 ## Eurogamer
+
+### Final Fantasy 7 Revelation is getting a physical version, but it will require an internet connection to download
+Fri, 04 Sep 2026 08:58:46 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-physical-version-catch
+
+The third and final entry in the Final Fantasy 7 Remake series will launch on just one disc - unlike both Remake and Rebirth, which were spread across two - but the downside is that Final Fantasy 7 Revelation will need to download extra game data on all formats, if you buy the physical edition. The previous games in the series were 'content complete' on disc (before any post-launch updates, at least), and could be played out the box. That will not be the case for Final Fantasy 7 Revelation, no matter what platform you purchase it on. Read more
 
 ### Final Fantasy 7 Revelation finally gets a 2027 release date, as Final Fantasy Resonance gets a surprise demo
 Thu, 03 Sep 2026 15:35:54 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-release-date-resonance-demo
@@ -57,12 +62,12 @@ Thu, 03 Sep 2026 13:05:32 +0000 — https://www.eurogamer.net/guild-wars-3-previ
 
 Close your eyes and imagine a standard MMORPG. The way it moves, the way it plays. Save for a few finer intricacies, they've largely played the same for over two decades. A big action bar, the same sorts of quests, the same sort of progression. Guild Wars 3 is aiming to fix that. Read more
 
-### PlayStation State of Play live report - all of today's news from Sony's September 2026 showcases
-Thu, 03 Sep 2026 12:47:06 +0000 — https://www.eurogamer.net/state-of-play-september-2026-live-blog
-
-Here we go again: Sony is showing off two State of Play showcases today, the first focusing on games coming to the PlayStation 5 over the coming weeks and months, and the second focusing on Japanese games specifically. This is a first for Sony, usually the company might show slightly different showcases in different regions, but this is a unique setup - with Japan getting its own dedicated showing after the broader State of Play. Read more
-
 ## GamesIndustry.biz
+
+### Xbox adds monthly cloud limits to Game Pass as it "continues to invest in its reliability and performance"
+Fri, 04 Sep 2026 07:37:02 +0000 — https://www.gamesindustry.biz/xbox-adds-monthly-cloud-limits-to-game-pass-as-it-continues-to-invest-in-its-reliability-and-performance
+
+Xbox will introduce monthly cloud gaming limits for Game Pass subscribers beginning in November 2026. Read more
 
 ### Voting extended for special categories in the Best Places To Work Awards
 Thu, 03 Sep 2026 16:30:22 +0000 — https://www.gamesindustry.biz/voting-extended-for-special-categories-in-the-best-places-to-work-awards
@@ -119,16 +124,26 @@ Wed, 02 Sep 2026 13:00:00 +0000 — https://www.gamesindustry.biz/sometimes-you-
 
 A hands-off demonstration of Tomb Raider: Legacy of Atlantis at Gamescom last week showed that the game is far from a simple remaster of the 1996 original; it's a complete reworking of Lara Croft's first adventure. Read more
 
-### Moon Studios delays No Rest for the Wicked to March 2027 – "We're holding our games to a standard we won't compromise on"
-Wed, 02 Sep 2026 10:44:18 +0000 — https://www.gamesindustry.biz/moon-studios-delays-no-rest-for-the-wicked-to-march-2027-were-holding-our-games-to-a-standard-we-wont-compromise-on
-
-Ori and the Will of the Wisps developer Moon Studios has postponed the full release of its next title, No Rest for the Wicked, to March 2027. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Preview: There ll Be a Surprising Announcement Soon : I Played Crazy Taxi: World Tour and Spoke to Series Creator Kenji Kanno
+Thu, 03 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/previews/therell-be-a-surprising-announcement-soon-i-played-crazy-taxi-world-tour-and-spoke-to-series-creator-kenji-kanno
+
+Ten in 2010. I played the original Crazy Taxi on my Dreamcast so much the disc doesn’t really work anymore. To be fair, SEGA’s GD-ROMs were notable for scratching easily, but I didn’t have this problem with any of my other games from the era. I generally look after all of my things really well. Read the full article on pushsquare.com
+
+### Here s a Proper Look at Ghost of Yotei DLC Echoes of Sekigahara
+Thu, 03 Sep 2026 21:15:00 GMT — https://www.pushsquare.com/news/2026/09/heres-a-proper-look-at-ghost-of-yotei-dlc-echoes-of-sekigahara
+
+Story trailer for PS5 expansion revealed. Sony actually did show off a new look at next month's Ghost of Yotei expansion Echoes of Sekigahara earlier today, but you had to wait right until the very end of the State of Play Japan livestream to see it. I don't blame you if you turned the show off long before then. Luckily enough, you can easily catch up via the story trailer above. Read the full article on pushsquare.com
+
+### Monster Hunter Wilds Massive New Expansion Looks Mind Blowing to Me
+Thu, 03 Sep 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/09/monster-hunter-wilds-massive-new-expansion-looks-mind-blowing-to-me
+
+New environments! Monsters! Gameplay! More! Maybe it’s because I’m currently reading the Skypiea arc of the One Piece manga, but I’m a bit obsessed with the new Ascendance expansion for Monster Hunter Wilds . Coming in 2027, this DLC looks like the real deal, adding new narrative content, gameplay, monsters, and of course environments to explore. Read the full article on pushsquare.com
 
 ### Ratchet & Clank s PS5 Re-Release Will Have a Platinum Trophy When It Comes to PS Plus Premium
 Thu, 03 Sep 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/09/ratchet-and-clanks-ps5-re-release-will-have-a-platinum-trophy-when-it-comes-to-ps-plus-premium
@@ -143,7 +158,7 @@ True of all platforms, by the way. Final Fantasy 7 Revelation’s physical editi
 ### Round Up: What Was Announced in Sony s State of Play Livestream for September 2026?
 Thu, 03 Sep 2026 17:30:00 GMT — https://www.pushsquare.com/features/round-up-what-was-announced-in-sonys-state-of-play-livestream-for-september-2026
 
-All the PS5 news from State of Play. In this Round Up article, we're covering not one State of Play livestream, but two! Sony put a general show back-to-back with a State of Play Japan event, so below you'll find all the announcements from the two showcases. All PS5 State of Play Announcements (September 2026, Main Show + Japan) Final Fantasy 7 Revelation Ends the Trilogy in April, Loads of New PS5 Gameplay Revealed Until Dawn 2 Is Out Sooner Than You Think, January 2027 Date Confirmed GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November Jin Sakai Returns as a Playable Character in Ghost of Yotei's Most Wanted Mode Saros' Free Zenith Update Adds Boss Rush, New Game Plus, More Later This Year 4 Upcoming PS Plus Extra, Premium Games for 2026 Announced LEGO PS1 Officially Announced for 1st October, and I Really Want It Konami Surprises Everyone with a New 1920s, Magick Action Game for PS5 Rev. NOiR Brings Complicated Capitalisation to PS5 in 2027 Our Favourite Shark-PG Returns! Maneater 2 Comes to PS5 in 2027 Uncanyon Is a New Puzzler from the Makers of Maquette, Coming to PS5 in 2027 Double Fine Bringing Xbox, PC Game Keeper to PS5 Gigantic Crimson Desert Expansion Releases This October on PS5 Hunter's Moon Is a Folk Horror Adventure Based on England's Real Life Witch Hunts Marvel's Wolverine Offers Up One Last Trailer Before Launch on PS5 Metro 2039 Locks Down 4th February 2027 Release Date in First PS5 Clips Gran Turismo 7 Upgraded to Spec 4 in October and Decemb
+All the PS5 news from State of Play. In this Round Up article, we're covering not one State of Play livestream, but two! Sony put a general show back-to-back with a State of Play Japan event, so below you'll find all the announcements from the two showcases. All PS5 State of Play Announcements (September 2026, Main Show + Japan) Final Fantasy 7 Revelation Ends the Trilogy in April, Loads of New PS5 Gameplay Revealed Until Dawn 2 Is Out Sooner Than You Think, January 2027 Date Confirmed GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November Jin Sakai Returns as a Playable Character in Ghost of Yotei's Most Wanted Mode Here's a Proper Look at Ghost of Yotei DLC Echoes of Sekigahara Saros' Free Zenith Update Adds Boss Rush, New Game Plus, More Later This Year 4 Upcoming PS Plus Extra, Premium Games for 2026 Announced LEGO PS1 Officially Announced for 1st October, and I Really Want It Konami Surprises Everyone with a New 1920s, Magick Action Game for PS5 Monster Hunter Wilds' Massive New Expansion Looks Mind Blowing to Me Rev. NOiR Brings Complicated Capitalisation to PS5 in 2027 Our Favourite Shark-PG Returns! Maneater 2 Comes to PS5 in 2027 Uncanyon Is a New Puzzler from the Makers of Maquette, Coming to PS5 in 2027 Double Fine Bringing Xbox, PC Game Keeper to PS5 Gigantic Crimson Desert Expansion Releases This October on PS5 Hunter's Moon Is a Folk Horror Adventure Based on England's Real Life Witch Hunts Marvel's Wolverine Offers Up One Last Trailer Before Launch o
 
 ### Poll: How Would You Rate State of Play for September 2026?
 Thu, 03 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/features/poll-how-would-you-rate-state-of-play-for-september-2026
@@ -175,22 +190,17 @@ Thu, 03 Sep 2026 15:25:00 GMT — https://www.pushsquare.com/news/2026/09/you-ma
 
 CONQ's bad fur day. Not everyone stuck around for State of Play Japan , so you may have missed the reveal of nautical action game CONQ: Crown of No Quarter . Billed as a “tactical action game”, this is set in the afterlife where you must “fight your way through a brutal melee frenzy, command bone-clad fleets, wield dark curses, and lead hundreds of troops in seamless sea-to-land warfare”. Read the full article on pushsquare.com
 
-### Sony Will Publish Promising PS5 Action RPG Daba: Land of Water Scar
-Thu, 03 Sep 2026 15:20:00 GMT — https://www.pushsquare.com/news/2026/09/sony-will-publish-promising-ps5-action-rpg-daba-land-of-water-scar
-
-Coming in 2027. Sony has snapped up publishing rights to the promising PS5 action RPG Daba: Land of Water Scar , which has been supported by its China Hero Project . China Hero Project is a support programme established by the platform holder to help bring Chinese titles to market, with new Shanghai studio Dark Star working on this one. Read the full article on pushsquare.com
-
-### After Nearly a Decade of Delays, Anime RPG Fate/Extra Record Finally Releases for PS5 in January 2027
-Thu, 03 Sep 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/09/after-nearly-a-decade-of-delays-anime-rpg-fateextra-record-finally-releases-for-ps5-in-january-2027
-
-It must be Fate. Even the most optimistic of Fate fans will be shocked to hear that years-in-the-making RPG Fate/Extra Record actually has a release date — and it's coming relatively soon. This game's development cycle has been troubled to say the least. It's been delayed in some shape or form at least three or four times over the last seven years or so, but it's finally been kicked into shape. Read the full article on pushsquare.com
-
-### Sony Set the Mood for Its Latest State of Play by Starting with the New Resident Evil Movie
-Thu, 03 Sep 2026 15:10:00 GMT — https://www.pushsquare.com/news/2026/09/sony-set-the-mood-for-its-latest-state-of-play-by-starting-with-the-new-resident-evil-movie
-
-But it does look good. It’s a Sony movie and it’s based on one of the most popular PlayStation franchises of all time, but I suppose we should have known this new State of Play would be light when it started with a clip of Zach Cregger’s upcoming horror flick, Resident Evil . In defence of the film, it looks absolutely awesome, and this particular scene was a compelling one, as protagonist Bryan played by Austin Abrams runs through a road of parked cars with dead bodies falling all around him. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Xbox to cap Cloud Gaming hours for Game Pass subscribers
+Thu, 03 Sep 2026 23:40:49 GMT — https://www.gamedeveloper.com/cloud/xbox-to-cap-cloud-gaming-hours-for-game-pass-subscribers
+
+Game Pass subscribers will no longer have unlimited access to Xbox's Cloud Gaming service.
+
+### Supercell's acquisition of Metacore expected to close this month
+Thu, 03 Sep 2026 16:06:04 GMT — https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month
+
+Once the deal is closed, Merge Mansion will officially become part of Supercell's live games portfolio.
 
 ### Gamecity Hamburg launches second round of prototype funding
 Thu, 03 Sep 2026 14:49:10 GMT — https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding
@@ -206,9 +216,4 @@ Thu, 03 Sep 2026 10:55:48 GMT — https://www.gamedeveloper.com/business/cd-proj
 Wed, 02 Sep 2026 17:27:45 GMT — https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb
 
 Nexus Mods wants to grant SteamDB resources and the 'long-term stability it deserves.'
-
-### Report: Savvy Games Group CEO Brian Ward departs company
-Tue, 01 Sep 2026 21:42:52 GMT — https://www.gamedeveloper.com/business/report-savvy-games-group-ceo-brian-ward-departs-company
-
-'As Savvy embarks on its next period of transformational growth, this is the right time for new leadership for that evolution.'
 

@@ -1,6 +1,26 @@
-# AI — harvested 2026-09-03T19:26:19.274Z
+# AI — harvested 2026-09-04T09:03:21.577Z
 
 ## OpenAI
+
+### Daybreak for Frontline Defenders: $1B to protect essential services
+Thu, 03 Sep 2026 13:15:00 GMT — https://openai.com/index/daybreak-for-frontline-defenders
+
+OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.
+
+### Legora reviewed 41 documents in minutes with GPT-6 Astra
+Thu, 03 Sep 2026 12:00:00 GMT — https://openai.com/index/legora-financial-statement-review-with-astra
+
+Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.
+
+### Playco cut manual fixes 50% prototyping games with GPT-6 Astra
+Thu, 03 Sep 2026 12:00:00 GMT — https://openai.com/index/playco-game-prototyping-with-astra
+
+Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.
+
+### Safety overview: GPT-6 Astra
+Thu, 03 Sep 2026 00:00:00 GMT — https://openai.com/index/safety-overview-gpt-6-astra
+
+GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.
 
 ### ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
 Wed, 02 Sep 2026 12:00:00 GMT — https://openai.com/index/atv-big-air-tour
@@ -24,9 +44,6 @@ Thu, 03 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/train-to-paint-wit
 ### Real-Time Intelligence with IBM Time Series Models on Confluent
 Wed, 02 Sep 2026 13:49:14 GMT — https://huggingface.co/blog/ibm-research/real-time-intelligence
 
-### BenchMIRT: What are LLM benchmarks actually measuring?
-Tue, 01 Sep 2026 21:39:07 GMT — https://huggingface.co/blog/allenai/benchmirt
-
 ## Google DeepMind
 
 ### Introducing WeatherNext 3, our most advanced and accurate global weather AI model
@@ -40,5 +57,5 @@ Wed, 02 Sep 2026 16:18:31 +0000 — https://deepmind.google/blog/introducing-gem
 
 ## VentureBeat AI
 
-_Nothing in the last 48 hours._
+_Feed unavailable: HTTP 429_
 
