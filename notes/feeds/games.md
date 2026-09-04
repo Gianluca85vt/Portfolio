@@ -1,6 +1,21 @@
-# Games — harvested 2026-09-04T14:32:45.100Z
+# Games — harvested 2026-09-04T19:08:05.478Z
 
 ## Eurogamer
+
+### It looks like No Man's Sky's next update is imminent as Sean Murray breaks out the emojis again - and fans reckon it's a big one
+Fri, 04 Sep 2026 18:38:14 +0000 — https://www.eurogamer.net/no-mans-sky-cosmos-update-imminent-emoji-tease
+
+Yes, it's time to brace yourself once more, No Man's Sky fans: Sean Murray is delving into his big bag of emojis, indicating - with reliable certainty - the exploratory space sim's highly anticipated 10th anniversary update will be with us very soon. And there's hope among the playerbase that Cosmos, as the update was previously confirmed to be called, might be a big 'un. Read more
+
+### Nearly a decade on, legendary director Hideki Kamiya says he's "100% serious" about reviving Xbox's canned Scalebound
+Fri, 04 Sep 2026 18:22:42 +0000 — https://www.eurogamer.net/director-hideki-kamiya-serious-reviving-xbox-canned-scalebound
+
+Hideki Kamiya was being super serious about resurrecting Scalebound , the PlatinumGames dragon-filled romp that was cancelled by Xbox nearly a decade ago. Read more
+
+### Hype for GTA 6 is giving PS5 and Xbox console sales a much needed 30% boost
+Fri, 04 Sep 2026 17:14:16 +0000 — https://www.eurogamer.net/gta-6-hype-giving-ps5-xbox-series-sales-boost
+
+GTA 6 is already giving PlayStation and Xbox consoles a much needed sales boost, at least in the UK, even though Rockstar Games ' inevitable pile of cash doesn't drop for another couple of months. Read more
 
 ### Next week, for the first time ever, Nintendo is hosting two Directs back-to-back - and the first one is dedicated to The Legend of Zelda's 40th anniversary
 Fri, 04 Sep 2026 14:30:12 +0000 — https://www.eurogamer.net/nintendo-zelda-40th-anniversary-direct-another-nintendo-direct
@@ -47,22 +62,17 @@ Thu, 03 Sep 2026 14:47:05 +0000 — https://www.eurogamer.net/gta6-ps5-controlle
 
 Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more
 
-### Final Fantasy Resonance is somehow even better than all those beautiful trailers make it look
-Thu, 03 Sep 2026 14:30:27 +0000 — https://www.eurogamer.net/final-fantasy-resonance-hands-on-preview-even-better-than-it-looks
-
-Let me paint you a picture. It's the second day of Gamescom 2026, everyone is hot and sweaty, the schedule is rapidly deteriorating as previews run late, interviewees go over their allotted times, and dashing from booth to booth adds minutes onto every single journey. I get to the Square Enix booth, only to find that - thanks to some sort of communications snafu en route - my name is not down for the slot I had carved out to play Final Fantasy Resonance. "Don't worry," says a smiling PR trying to keep it together, "you can play on Switch 2 if you don't mind standing up?" Read more
-
-### Until Dawn 2's sun-kissed horror gets a PS5 release date - and the studio behind last year's brilliant Dispatch is involved
-Thu, 03 Sep 2026 14:10:39 +0000 — https://www.eurogamer.net/until-dawn-2-release-date-pre-order-details
-
-Following its big Summer Game Fest unveiling earlier this year, Until Dawn 2 has been given a release date as part of Sony's latest State of Play showcase. And it's not far away at all, launching for PS5 in the suitably dark depths of winter: arriving 28th January next year. Read more
-
-### Crimson Desert's first DLC is called Charting the Unknown, and it's out next month
-Thu, 03 Sep 2026 14:08:54 +0000 — https://www.eurogamer.net/crimson-desert-charting-the-unknown-dlc-date
-
-It didn't take long for Crimson Desert to get some new stuff. During today's State of Play presentation, developer Pearl Abyss unveiled Charting the Unknown. This is the game's first post-launch DLC, and it's set to arrive 15th October on PC, PS5 and Xbox Series X/S. Read more
-
 ## GamesIndustry.biz
+
+### PAX Unplugged Houston to debut in June 2027: "It's a chance to bring PAX back to the PAX South fans that missed us"
+Fri, 04 Sep 2026 18:00:00 +0000 — https://www.gamesindustry.biz/pax-unplugged-houston-to-debut-in-june-2027-its-a-chance-to-bring-pax-back-to-the-pax-south-fans-that-missed-us
+
+ReedPop and Penny Arcade have announced the inaugural PAX Unplugged Houston, scheduled for June 2027. Read more
+
+### Inside Tencent's long-term strategy: live service, AI tools, and evergreen titles
+Fri, 04 Sep 2026 15:57:03 +0000 — https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-service-ai-tools-and-evergreen-titles
+
+Many column inches have been spent questioning the wisdom of focusing on live-service. Sony gambled and lost , as did many other companies chasing the dream of steady recurring revenues, while firms like Capcom that stuck to the traditional path have emerged relatively unscathed . Read more
 
 ### Nvidia acquires open-source AI platform Hugging Face for $12.9bn
 Fri, 04 Sep 2026 13:50:36 +0000 — https://www.gamesindustry.biz/nvidia-acquires-open-source-ai-platform-hugging-face-for-129bn
@@ -114,21 +124,51 @@ Thu, 03 Sep 2026 08:04:49 +0000 — https://www.gamesindustry.biz/planet-coaster
 
 Frontier Developments has entered into an agreement with Disney to work on a new title based on its portfolio and IP. Read more
 
-### "This is the worst crash we've seen since the 1980s," says Tim Sweeney
-Thu, 03 Sep 2026 07:29:48 +0000 — https://www.gamesindustry.biz/this-is-the-worst-crash-weve-seen-since-the-1980s-says-tim-sweeney
-
-Epic Games CEO Tim Sweeney says the industry is going through its biggest crash since the 1980s in the latest issue of Edge magazine. Read more
-
-### CD Projekt Red sees profit climb 37% in H1 2026
-Wed, 02 Sep 2026 19:44:30 +0000 — https://www.gamesindustry.biz/cd-projekt-red-sees-profit-climb-37-in-h1-2026
-
-CD Projekt Red generated $116.5 million (435 million PLN) in revenue during the first half of 2026, up 23% year-over-year. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### After a Record Breaking State of Play in June, the Latest Edition Did Disappointing Numbers
+Fri, 04 Sep 2026 18:45:00 GMT — https://www.pushsquare.com/news/2026/09/after-a-record-breaking-state-of-play-in-june-the-latest-edition-did-disappointing-numbers
+
+The comedown. Sony’s previous State of Play in June is the second most watched PlayStation livestream ever , beaten only by the PS5’s reveal during the peak of the pandemic in 2020. To date, it’s attracted over 5.1 million views , with the bulk of those coming around its air date on 2nd June. (It officially set the record on 6th June.) Read the full article on pushsquare.com
+
+### PS Plus Premium s Cloud Streaming Is Unlimited, But for How Much Longer?
+Fri, 04 Sep 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/09/ps-plus-premiums-cloud-streaming-is-unlimited-but-for-how-much-longer
+
+As Xbox puts a cap on Game Pass Ultimate. I know there aren’t many fans of cloud streaming among enthusiasts, but I always like to remind everyone how good Sony’s solution actually is. That’s because I think it’s a little bit underrated – there’s substantially more chatter about Xbox’s Cloud Gaming and NVidia’s Geforce Now than PS Plus Premium , despite the latter usurping its competitors in some areas. Read the full article on pushsquare.com
+
+### Marvel Tokon Put Up a Fight for North America s Best-Selling PS Store Game Last Month
+Fri, 04 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/09/marvel-tokon-put-up-a-fight-for-north-americas-best-selling-ps-store-game-last-month
+
+Fighting soul. Sony has released the PS Store's chart data for the month of August, and among the best sellers is PS5's superhero tag fighter, Marvel Tokon: Fighting Souls . On the PS5 chart for North America, the game landed in second place, coming in behind only Madden NFL 27. It's a pretty impressive placement for a new fighting game. Read the full article on pushsquare.com
+
+### I Know the Response to This Noir Action Game Has Been Bad, But I m Still Hopeful for Its PS5 Release
+Fri, 04 Sep 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/09/i-know-the-response-to-this-noir-action-game-has-been-bad-but-im-still-hopeful-for-its-ps5-release
+
+Sam the man. Earlier this year, I said Sony needs to “ move mountains ” to get Samson: A Tyndalston Story on the PS5, the noir crime caper with GTA -esque inspirations. Then it released . Read the full article on pushsquare.com
+
+### State of Play s Live Chat Was a Total Mess, and I Wonder What Sony s Going to Do About It
+Fri, 04 Sep 2026 16:15:00 GMT — https://www.pushsquare.com/news/2026/09/state-of-plays-live-chat-was-a-total-mess-and-i-wonder-what-sonys-going-to-do-about-it
+
+This ain't fun anymore. I knew what the latest State of Play’s live chat was going to look like before I took a few screenshots, and it turns out I wasn’t far off the mark. In fact, if anything I miscalculated the strength of sentiment around Destiny 3 , as I’d say demand for the hypothetical Bungie sequel almost matched the number of comments about physical discs. Read the full article on pushsquare.com
+
+### Poll: Vote for Your PS5 Game of the Month (August 2026)
+Fri, 04 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-august-2026
+
+Decide Push Square's GOTM. Hmmm, it feels like August could give us one of the tightest Game of the Month votes that we've had in quite some time. That's mostly because there was no standout AAA heavy hitter — no massive release ready to crush the competition. Read the full article on pushsquare.com
+
+### Preview: Exodus on PS5 Could Be the Mass Effect Replacement I ve Been Waiting For
+Fri, 04 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/previews/exodus-on-ps5-could-be-the-mass-effect-replacement-ive-been-waiting-for
+
+Space is filled with sentient frogs and bears, apparently. Up until I went hands-on with Exodus at Gamescom, I thought it looked fine. Another sci-fi RPG trying to capture the magic of the Mass Effect series, citing the experience of former BioWare, Naughty Dog, and EA developers — and somehow, Matthew McConaughey is also involved. Read the full article on pushsquare.com
+
+### Sony Factory Will Still Have Significant PS5 Disc Manufacturing Capacity After Physical Media Deadline
+Fri, 04 Sep 2026 14:45:00 GMT — https://www.pushsquare.com/news/2026/09/sony-factory-will-still-have-significant-ps5-disc-manufacturing-capacity-after-physical-media-deadline
+
+Production will decline by 10%, not to 10%. An Austrian report published alongside confirmation that Sony will cease manufacturing physical discs in January 2028 suggested it would cut its production capacity to just 10%. The quote, attributable to Sony DADC’s Dietmar Tanzer , said: Read the full article on pushsquare.com
 
 ### Review: Star Wars Zero Company (PS5) - A Perfect Pairing of Licence and Genre Imperfectly Executed
 Fri, 04 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/reviews/ps5/star-wars-zero-company
@@ -149,46 +189,6 @@ Descends onto PS5 in November. If you've ever seen or played games like Jump Kin
 Thu, 03 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/previews/therell-be-a-surprising-announcement-soon-i-played-crazy-taxi-world-tour-and-spoke-to-series-creator-kenji-kanno
 
 Ten in 2010. I played the original Crazy Taxi on my Dreamcast so much the disc doesn’t really work anymore. To be fair, SEGA’s GD-ROMs were notable for scratching easily, but I didn’t have this problem with any of my other games from the era. I generally look after all of my things really well. Read the full article on pushsquare.com
-
-### Here s a Proper Look at Ghost of Yotei DLC Echoes of Sekigahara
-Thu, 03 Sep 2026 21:15:00 GMT — https://www.pushsquare.com/news/2026/09/heres-a-proper-look-at-ghost-of-yotei-dlc-echoes-of-sekigahara
-
-Story trailer for PS5 expansion revealed. Sony actually did show off a new look at next month's Ghost of Yotei expansion Echoes of Sekigahara earlier today, but you had to wait right until the very end of the State of Play Japan livestream to see it. I don't blame you if you turned the show off long before then. Luckily enough, you can easily catch up via the story trailer above. Read the full article on pushsquare.com
-
-### Monster Hunter Wilds Massive New Expansion Looks Mind Blowing to Me
-Thu, 03 Sep 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/09/monster-hunter-wilds-massive-new-expansion-looks-mind-blowing-to-me
-
-New environments! Monsters! Gameplay! More! Maybe it’s because I’m currently reading the Skypiea arc of the One Piece manga, but I’m a bit obsessed with the new Ascendance expansion for Monster Hunter Wilds . Coming in 2027, this DLC looks like the real deal, adding new narrative content, gameplay, monsters, and of course environments to explore. Read the full article on pushsquare.com
-
-### Ratchet & Clank s PS5 Re-Release Will Have a Platinum Trophy When It Comes to PS Plus Premium
-Thu, 03 Sep 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/09/ratchet-and-clanks-ps5-re-release-will-have-a-platinum-trophy-when-it-comes-to-ps-plus-premium
-
-Another reason to replay. The original PS2 Ratchet & Clank game from 2002 is coming to the PS5 via emulation later this year – and it’ll include an all-new Platinum Trophy to unlock. Insomniac’s communications veteran James Stevenson confirmed the tidbit on social media earlier today, meaning fans will have an opportunity to earn a third Platinum in this all-time platforming classic. Read the full article on pushsquare.com
-
-### Final Fantasy 7 Revelation Will Ship on One PS5 Disc, Digital Download Required
-Thu, 03 Sep 2026 18:45:00 GMT — https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-ship-on-one-ps5-disc-digital-download-required
-
-True of all platforms, by the way. Final Fantasy 7 Revelation’s physical edition will “ require ” an Internet connection to play. Unlike its predecessor Final Fantasy 7 Rebirth , which famously shipped on two discs , the latest game will be available on a single Blu-ray only. Read the full article on pushsquare.com
-
-### Round Up: What Was Announced in Sony s State of Play Livestream for September 2026?
-Thu, 03 Sep 2026 17:30:00 GMT — https://www.pushsquare.com/features/round-up-what-was-announced-in-sonys-state-of-play-livestream-for-september-2026
-
-All the PS5 news from State of Play. In this Round Up article, we're covering not one State of Play livestream, but two! Sony put a general show back-to-back with a State of Play Japan event, so below you'll find all the announcements from the two showcases. All PS5 State of Play Announcements (September 2026, Main Show + Japan) Final Fantasy 7 Revelation Ends the Trilogy in April, Loads of New PS5 Gameplay Revealed Until Dawn 2 Is Out Sooner Than You Think, January 2027 Date Confirmed GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November Jin Sakai Returns as a Playable Character in Ghost of Yotei's Most Wanted Mode Here's a Proper Look at Ghost of Yotei DLC Echoes of Sekigahara Saros' Free Zenith Update Adds Boss Rush, New Game Plus, More Later This Year 4 Upcoming PS Plus Extra, Premium Games for 2026 Announced LEGO PS1 Officially Announced for 1st October, and I Really Want It Konami Surprises Everyone with a New 1920s, Magick Action Game for PS5 Monster Hunter Wilds' Massive New Expansion Looks Mind Blowing to Me Rev. NOiR Brings Complicated Capitalisation to PS5 in 2027 Our Favourite Shark-PG Returns! Maneater 2 Comes to PS5 in 2027 Uncanyon Is a New Puzzler from the Makers of Maquette, Coming to PS5 in 2027 Double Fine Bringing Xbox, PC Game Keeper to PS5 Gigantic Crimson Desert Expansion Releases This October on PS5 Hunter's Moon Is a Folk Horror Adventure Based on England's Real Life Witch Hunts Marvel's Wolverine Offers Up One Last Trailer Before Launch o
-
-### Poll: How Would You Rate State of Play for September 2026?
-Thu, 03 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/features/poll-how-would-you-rate-state-of-play-for-september-2026
-
-Post your thoughts on two State of Play shows in one. For the first time ever, Sony has run two State of Play livestreams back-to-back: we got a standard SoP showcase with a load of general announcements, and then a State of Play Japan event covered Japanese and Asian developers. The two have brought about a ton of reveals. In terms of the main State of Play livestream, the big reveals were updates to Gran Turismo 7 and Saros , another look at Final Fantasy 7 Revelation , and various small updates like a GTA 6 limited edition controller. Read the full article on pushsquare.com
-
-### Seoul-Based Studio Announces a New Co-Op Anomaly Hunting Game for PS5
-Thu, 03 Sep 2026 15:45:00 GMT — https://www.pushsquare.com/news/2026/09/seoul-based-studio-announces-a-new-co-op-anomaly-hunting-game-for-ps5
-
-Meet the WPCA. It didn’t seem like there was going to be much content in the State of Play Japan , but looking back it may have been more stacked than the main show. If you switched off, then you may have missed the reveal of co-op anomaly hunting game WPCA: World Phasebound Control Authority , which is being developed by Seoul-based Krafton subsidiary, 5minlab. Read the full article on pushsquare.com
-
-### SlashZero Looks Like a Fantastic PS5 Side-Scroller, and You Can Play Its PS5 Demo Now
-Thu, 03 Sep 2026 15:40:00 GMT — https://www.pushsquare.com/news/2026/09/slashzero-looks-like-a-fantastic-ps5-side-scroller-and-you-can-play-its-ps5-demo-now
-
-But only for a limited time. I’ve been quietly keeping tabs on PS5 side-scrolling roguelike SlashZero for quite some time, so I’m excited to learn a time-limited demo is now live on the PS Store . It’s unclear exactly when this will expire, but you can download it and give it a try, ahead of the game’s release in Spring 2027. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -216,9 +216,4 @@ The organization is offering up to €80,000 to developers based or operating in
 Thu, 03 Sep 2026 10:55:48 GMT — https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases
 
 'What you can definitely expect from us is to put out a box that's going to make it worth your while.'
-
-### Nexus Mods is acquiring database and analytics site SteamDB
-Wed, 02 Sep 2026 17:27:45 GMT — https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb
-
-Nexus Mods wants to grant SteamDB resources and the 'long-term stability it deserves.'
 

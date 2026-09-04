@@ -1,6 +1,31 @@
-# Manga — harvested 2026-09-04T14:32:45.100Z
+# Manga — harvested 2026-09-04T19:08:05.478Z
 
 ## Anime News Network
+
+### Your Anime Rankings - Best of Summer 2026, Aug 26-Sep 1
+Fri, 04 Sep 2026 14:55:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.241380
+
+The weekly trajectory of <cite>My Stepmother and Stepsisters Aren't Wicked</cite> has been stunning; can it carry that momentum into the cumulative standings? Discover what else is moving in the rankings.
+
+### The Grimm Reapress and the Drearytale Monster Game Heads West
+Fri, 04 Sep 2026 12:37:46 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/the-grimm-reapress-and-the-drearytale-monster-game-heads-west/.241381
+
+Trailer reveals 2027 release for Switch 2, Switch, PS5, PC
+
+### Tokyo Anime Awards Festival Ends
+Fri, 04 Sep 2026 12:12:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/tokyo-anime-awards-festival-ends/.241377
+
+TAAF 2026 took place from March 13-16
+
+### Super Psychic Policeman Chojo Volume 1-3 Manga Review
+Fri, 04 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/super-psychic-policeman-chojo-volume-1-3/manga/.240936
+
+A gag manga's biggest nemesis is a stale premise.
+
+### New Votoms Anime Films Reveal Cast
+Fri, 04 Sep 2026 11:45:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/new-votoms-anime-films-reveal-cast/.241379
+
+Films cast Shinichirō Miki, Yūki Kaji, Yūichi Nakamura, Satoshi Tsuruoka, Tomokazu Sugita, more
 
 ### This Week in Games - Fate/Phantasy
 Fri, 04 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-09-04/fate-phantasy/.240949
@@ -36,31 +61,6 @@ Hanamiya voices Mima in ongoing series
 Fri, 04 Sep 2026 07:39:30 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/my-girlfriend-friend-tv-anime-reveals-more-cast-october-4-debut-in-video/.241375
 
 Airots, Ceui perform themes for series
-
-### The Detective Is Already Dead Season 2 Anime Reveals 3rd Promo Video, More Cast
-Fri, 04 Sep 2026 06:39:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/the-detective-is-already-dead-season-2-anime-reveals-3rd-promo-video-more-cast/.241372
-
-Akari Komiyama, Nobuhiko Okamoto join cast for series debuting on October 7
-
-### Hakuhodo Teases New Project in Videos
-Fri, 04 Sep 2026 06:15:52 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-09-04/hakuhodo-teases-new-project-in-videos/.241371
-
-Entertainment company Hakuhodo DY Music & Pictures teased in two videos on Friday that it will announce a new project on September 10 at 7:00 p.m. JST....
-
-### Full Clearing Another World under a Goddess with Zero Believers Anime Reveals More Cast, Theme Songs, October 11 Debut
-Fri, 04 Sep 2026 05:20:39 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-reveals-more-cast-theme-songs-/.241303
-
-Yukina Shutō, Hitomi Sekine, Masaaki Mizunaka, Kenshō Ono, more join anime's cast
-
-### Inherit the Winds Anime Gets Advanced 2-Week Screening in Japanese Theaters Starting on November 13
-Fri, 04 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/inherit-the-winds-anime-gets-advanced-2-week-screening-in-japanese-theaters-starting-on-november-13/.241328
-
-Visual unveiled for screening previewing anime ahead of January 2027 premiere
-
-### Medalist Manga Goes on Hiatus
-Fri, 04 Sep 2026 04:26:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/medalist-manga-goes-on-hiatus/.241370
-
-Manga goes on hiatus due to "production circumstances"
 
 ## Crunchyroll News
 

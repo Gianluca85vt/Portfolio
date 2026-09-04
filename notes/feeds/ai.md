@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-04T14:32:45.100Z
+# AI — harvested 2026-09-04T19:08:05.478Z
 
 ## OpenAI
 
@@ -40,12 +40,6 @@ Thu, 03 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/train-to-paint-wit
 
 ### Introducing WeatherNext 3, our most advanced and accurate global weather AI model
 Thu, 03 Sep 2026 15:02:08 +0000 — https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/
-
-### Proactive cyber defense for governments and enterprises
-Wed, 02 Sep 2026 16:24:24 +0000 — https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/
-
-### Introducing Gemini 3.8 Flash and 3.8 Flash Cyber
-Wed, 02 Sep 2026 16:18:31 +0000 — https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/
 
 ## VentureBeat AI
 
