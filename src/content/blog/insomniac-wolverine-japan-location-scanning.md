@@ -4,7 +4,6 @@ date: 2026-09-04
 category: 3D
 excerpt: Six people, four regions, 5.6TB and 189,589 frames. What a location-scanning trip actually brings home, and which parts of Japan refuse to be scanned at all.
 cover: /img/blog/insomniac-wolverine-japan-location-scanning/shot-01.jpg
-draft: true
 ---
 
 Insomniac put up a post on the PlayStation Blog on 1 September about a
