@@ -1,9 +1,0 @@
-{
-  "slug": "fusion-to-blender-bridge-materials-resync",
-  "urls": [
-    "https://commons.wikimedia.org/wiki/Special:FilePath/Blender_3.3.0_screenshot.png",
-    "https://raw.githubusercontent.com/inspace9018/fusion-to-blender-bridge/main/docs/demo.gif"
-  ],
-  "credit": "Blender interface screenshot via Wikimedia Commons (free licence); bridge demo from the project's own repository, GPL-3.0",
-  "comparison": false
-}

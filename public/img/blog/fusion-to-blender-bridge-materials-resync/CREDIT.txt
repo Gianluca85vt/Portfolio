@@ -1,0 +1,4 @@
+Blender interface screenshot via Wikimedia Commons (free licence); bridge demo from the project's own repository, GPL-3.0
+
+- /img/blog/fusion-to-blender-bridge-materials-resync/shot-01.jpg
+- /img/blog/fusion-to-blender-bridge-materials-resync/shot-02.jpg

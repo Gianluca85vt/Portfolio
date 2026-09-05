@@ -31,6 +31,11 @@ v1.0.0 on 17 August 2026 under GPL-3.0-or-later. It went past BlenderNation on
 
 ## Identity is the whole problem
 
+<figure>
+  <img src="/img/blog/fusion-to-blender-bridge-materials-resync/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Blender interface screenshot via Wikimedia Commons (free licence); bridge demo from the project's own repository, GPL-3.0</figcaption>
+</figure>
+
 The bridge does not solve tessellation. It solves naming.
 
 Every body in a Fusion design carries a unique ID that Fusion itself uses to
