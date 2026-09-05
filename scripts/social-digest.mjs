@@ -27,7 +27,6 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import { pathToFileURL } from 'node:url';
 
-const GRAPH = 'https://graph.facebook.com/v26.0';
 const REPO = 'Gianluca85vt/Portfolio';
 const LEDGER = 'notes/social-posted.json';
 
@@ -47,30 +46,6 @@ function frontmatter(text) {
   }
   return out;
 }
-
-async function graph(path, body) {
-  const res = await fetch(`${GRAPH}/${path}`, {
-    method: 'POST',
-    headers: { 'content-type': 'application/x-www-form-urlencoded' },
-    body: new URLSearchParams({ ...body, access_token: process.env.META_PAGE_TOKEN }),
-  });
-  const json = await res.json().catch(() => ({}));
-  if (!res.ok || json.error) {
-    const e = json.error ?? {};
-    throw new Error(`${path} -> HTTP ${res.status} ${e.message ?? ''} ${e.error_user_msg ?? ''}`.trim());
-  }
-  return json;
-}
-
-async function graphGet(path, params = {}) {
-  const qs = new URLSearchParams({ ...params, access_token: process.env.META_PAGE_TOKEN });
-  const res = await fetch(`${GRAPH}/${path}?${qs}`);
-  const json = await res.json().catch(() => ({}));
-  if (!res.ok || json.error) throw new Error(`${path} -> ${json.error?.message ?? res.status}`);
-  return json;
-}
-
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 export async function readLedger(root) {
   try {
@@ -171,37 +146,6 @@ export async function selectForDigest(root = process.cwd(), today = new Date()) 
   return picked.slice(0, MAX_ARTICLES);
 }
 
-/** Waits for Instagram to finish fetching and transcoding a container. */
-async function ready(id, label) {
-  for (let i = 0; i < 16; i += 1) {
-    const { status_code: status } = await graphGet(id, { fields: 'status_code' });
-    if (status === 'FINISHED') return;
-    if (status === 'ERROR' || status === 'EXPIRED') {
-      throw new Error(`Instagram rejected ${label}: ${status}`);
-    }
-    await sleep(2500);
-  }
-  throw new Error(`Instagram never finished ${label}`);
-}
-
-export async function postStory(frames) {
-  const ig = process.env.META_IG_USER_ID;
-  const ids = [];
-
-  // One at a time, in order. Stories have no carousel container: the sequence
-  // is the order they were published in, so this cannot be parallelised without
-  // shuffling the frames a viewer taps through.
-  for (const [i, image_url] of frames.entries()) {
-    const container = await graph(`${ig}/media`, { image_url, media_type: 'STORIES' });
-    await ready(container.id, `frame ${i + 1} of ${frames.length}`);
-    const published = await graph(`${ig}/media_publish`, { creation_id: container.id });
-    console.log(`  frame ${i + 1}/${frames.length} -> ${published.id}`);
-    ids.push(published.id);
-  }
-
-  return ids;
-}
-
 /**
  * Stamps tonight's story onto the ledger.
  *
@@ -221,60 +165,23 @@ export function recordStory(ledger, articles, ids, day) {
   return next;
 }
 
-async function main() {
-  const root = process.cwd();
-  const plan = process.argv.includes('--plan');
-
-  const ledger = await readLedger(root);
-  // A manual run says post now, whatever the clock says. It still cannot post
-  // twice: nothing selects an article that already carries a story id.
-  const forced = process.env.FORCE_DIGEST === 'true';
-  const owed = forced ? { due: true, why: 'manual run' } : isDue(ledger);
-
-  if (!owed.due) {
-    // stderr, so --plan's stdout stays a clean list for the workflow to read.
-    console.error(`Not posting: ${owed.why}.`);
-    if (plan) console.log('');
-    return;
-  }
-
+/**
+ * Marks the evening as done, so tomorrow does not redraw the same articles.
+ *
+ * Nothing was published, so there are no Instagram ids to keep. What matters is
+ * the date, which is what isDue reads to refuse a second run the same night.
+ */
+async function record(root) {
   const articles = await selectForDigest(root);
-
-  if (plan) {
-    console.log(articles.map((a) => a.slug).join(' '));
-    return;
-  }
-
   if (!articles.length) {
-    console.log('Nothing published since the last story. Posting nothing.');
+    console.log('Nothing to record.');
     return;
-  }
-
-  for (const name of ['META_IG_USER_ID', 'META_PAGE_TOKEN']) {
-    if (!process.env[name]) {
-      console.error(`${name} is not set — nothing posted.`);
-      process.exit(1);
-    }
   }
 
   const day = romeDate(new Date());
-
-  console.log(`${articles.length} article(s) in tonight's story:`);
-  for (const a of articles) console.log(`  ${a.date}  ${a.category.padEnd(10)} ${a.title}`);
-
-  // One cover frame plus one per article, in the order they were drawn.
-  const frames = Array.from(
-    { length: articles.length + 1 },
-    (_, i) =>
-      `https://raw.githubusercontent.com/${REPO}/main/public/img/blog/digest/${day}-story-${String(i).padStart(2, '0')}.jpg`
-  );
-
-  const ids = await postStory(frames);
-  console.log(`instagram story -> ${ids.length} frame(s)`);
-
-  const written = recordStory(await readLedger(root), articles, ids, day);
+  const written = recordStory(await readLedger(root), articles, ['frames-emailed'], day);
   await writeFile(join(root, LEDGER), `${JSON.stringify(written, null, 2)}\n`);
-  console.log(`ledger updated: ${LEDGER}`);
+  console.log(`recorded ${articles.length} article(s) against ${day}`);
 }
 
 /**
@@ -319,10 +226,27 @@ export async function drawAll(root = process.cwd()) {
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1] ?? '').href) {
-  if (process.argv.includes('--draw')) {
-    const made = await drawAll();
-    console.log(made.length ? `drew ${made.length} image(s)` : 'nothing to draw');
+  const root = process.cwd();
+  const forced = process.env.FORCE_DIGEST === 'true';
+  const owed = forced ? { due: true, why: 'manual run' } : isDue(await readLedger(root));
+
+  if (process.argv.includes('--plan')) {
+    // stdout stays a clean list for the workflow to read; the reason goes to
+    // stderr so a refusal is still visible in the log.
+    if (!owed.due) {
+      console.error(`Nothing to draw: ${owed.why}.`);
+      console.log('');
+    } else {
+      const articles = await selectForDigest(root);
+      console.log(articles.map((a) => a.slug).join(' '));
+    }
+  } else if (process.argv.includes('--draw')) {
+    const made = await drawAll(root);
+    console.log(made.length ? `drew ${made.length} frame(s)` : 'nothing to draw');
+  } else if (process.argv.includes('--record')) {
+    await record(root);
   } else {
-    await main();
+    console.error('usage: social-digest.mjs --plan | --draw | --record');
+    process.exit(2);
   }
 }

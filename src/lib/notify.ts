@@ -163,6 +163,97 @@ export async function notifyNewComment(comment: NewComment, siteUrl: string) {
  * signed links, so the whole review can happen from a phone without opening
  * GitHub. Subject is prefixed so a mail filter can catch these on its own.
  */
+/**
+ * Tells him the evening's frames are drawn and waiting.
+ *
+ * The digest used to publish itself to Instagram as a story. It no longer does,
+ * for one reason: the API cannot attach music. Stories accept an image or a
+ * video URL and nothing else — no audio, no stickers, no polls, no links — and
+ * there is no endpoint that knows which track is trending either.
+ *
+ * On a story that hardly matters, because a story reaches people who already
+ * follow you. On a Reel it matters a great deal: trending audio is a discovery
+ * surface, and the same frames posted as a photo Reel with a track off the
+ * Trending tab can reach past the follower list, then be reshared to the story
+ * in two taps. That is worth two minutes a day, so the frames come here instead
+ * of going out silently.
+ */
+export async function notifyStoryReady(
+  digest: {
+    day: string;
+    frames: string[];
+    articles: { title: string; category: string }[];
+  },
+  siteUrl: string
+) {
+  if (!notificationsConfigured()) return { sent: false, reason: 'not configured' };
+
+  try {
+    const port = Number(env('SMTP_PORT') ?? 465);
+    const transport = nodemailer.createTransport({
+      host: env('SMTP_HOST'),
+      port,
+      secure: port === 465,
+      auth: { user: env('SMTP_USER'), pass: env('SMTP_PASS') },
+    });
+
+    const urls = digest.frames.map((f) => `${siteUrl}${f}`);
+    const count = digest.articles.length;
+
+    const text = [
+      `${count} ${count === 1 ? 'article' : 'articles'} today. ${urls.length} frames ready.`,
+      '',
+      ...digest.articles.map((a) => `  ${a.category} — ${a.title}`),
+      '',
+      'Save these, in this order:',
+      ...urls.map((u, i) => `  ${i + 1}. ${u}`),
+      '',
+      'Reel: add them as photos, set each one to land on the beat, pick a track',
+      'from the Trending tab. Then reshare it to your story.',
+    ].join('\n');
+
+    const html = `<div style="font-family:-apple-system,Segoe UI,Roboto,sans-serif;max-width:560px;color:#1a1a1a">
+  <p style="margin:0 0 4px;font-size:13px;color:#666">${digest.day}</p>
+  <p style="margin:0 0 16px"><strong>${count} ${count === 1 ? 'article' : 'articles'} today.</strong>
+     ${urls.length} frames ready to post.</p>
+
+  <ol style="margin:0 0 20px;padding-left:20px;line-height:1.6">
+    ${digest.articles
+      .map(
+        (a) =>
+          `<li><span style="color:#7621B0;font-size:12px;text-transform:uppercase;letter-spacing:.08em">${esc(a.category)}</span><br>${esc(a.title)}</li>`
+      )
+      .join('')}
+  </ol>
+
+  <p style="margin:0 0 8px;font-size:13px;color:#666">Save these in order:</p>
+  <p style="margin:0 0 20px;line-height:2">
+    ${urls.map((u, i) => `<a href="${esc(u)}" style="color:#7621B0;margin-right:14px">Frame ${i + 1}</a>`).join('')}
+  </p>
+
+  <div style="border-left:3px solid #B600A8;padding:10px 14px;background:#faf7fb;font-size:13px;line-height:1.6">
+    Post as a <strong>Reel</strong>: add them as photos, drag each one to land on
+    the beat, and take a track from the <strong>Trending</strong> tab — that is the
+    part the API cannot do, and the part that reaches past your followers.
+    Then reshare it to your story.
+  </div>
+</div>`;
+
+    await transport.sendMail({
+      from: env('NOTIFY_FROM') ?? env('SMTP_USER'),
+      to: env('NOTIFY_TO'),
+      subject: headerSafe(`[Storia] ${digest.day} — ${count} ${count === 1 ? 'articolo' : 'articoli'}`),
+      text,
+      html,
+    });
+
+    return { sent: true };
+  } catch (err) {
+    console.error('[digest] notification failed:', err);
+    return { sent: false, reason: 'send failed' };
+  }
+}
+
 export async function notifyNewDraft(
   draft: {
     slug: string;

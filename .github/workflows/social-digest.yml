@@ -1,12 +1,20 @@
-name: Daily Instagram story
+name: Daily story frames
 
-# One story a day at 19:00 Italian time, carrying everything published since the
-# last one, as a sequence of frames a viewer taps through.
+# Draws the evening's frames at 19:00 Italian time and emails them. It does not
+# publish them.
 #
-# This was a feed carousel for two days and the feed it built looked wrong: the
-# same template every evening, stacked in a grid that keeps it. The digest moved
-# to stories, which expire, and the feed went back to one post per article from
-# social-post.yml, where the artwork differs every time.
+# The API cannot attach music. A story container takes an image or a video URL
+# and nothing else — no audio, no stickers, no polls, no links — and no endpoint
+# knows which track is trending either. On a story that costs little, since a
+# story reaches people who already follow you. On a Reel it costs the whole
+# point: trending audio is a discovery surface.
+#
+# So the frames go to him instead, and he posts them as a photo Reel with a
+# track off the Trending tab, then reshares it to his story. Instagram lets each
+# photo be dragged to land on the beat, which a fixed-timing video from here
+# could not do.
+#
+# The feed still posts one article at a time from social-post.yml.
 
 on:
   # Several slots, for two separate reasons. Italy is UTC+2 in summer and UTC+1
@@ -24,7 +32,7 @@ on:
   workflow_dispatch:
     inputs:
       force:
-        description: 'Post the story now, whatever the hour in Rome'
+        description: 'Draw the frames now, whatever the hour in Rome'
         type: boolean
         default: true
 
@@ -36,7 +44,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  carousel:
+  frames:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -49,7 +57,7 @@ jobs:
       # and has today's story not gone out? A step that demanded the hour be
       # exactly 19 could never pass on a run GitHub started at 21:38, which is
       # how a night went by with nothing posted.
-      - name: Anything to post?
+      - name: Anything to draw?
         id: pick
         env:
           FORCE_DIGEST: ${{ inputs.force }}
@@ -83,25 +91,35 @@ jobs:
             git push
           fi
 
-      # Instagram fetches every frame from a URL rather than accepting uploads,
-      # so the images have to be readable on the public internet before the
-      # containers are created. This pause is for GitHub's CDN to catch up.
-      - name: Let the raw URLs settle
+      # The frames are linked from the email and opened on a phone, so they have
+      # to be live on the site before it sends. Vercel builds on the push above.
+      - name: Let the deploy catch up
         if: steps.pick.outputs.slugs != ''
-        run: sleep 25
+        run: sleep 60
 
-      - name: Post the story
-        if: steps.pick.outputs.slugs != ''
-        env:
-          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
-          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
-          FORCE_DIGEST: ${{ inputs.force }}
-        run: node scripts/social-digest.mjs
-
-      - name: Record what went out
+      # Sent from the site, where the SMTP credentials already live, so an
+      # unattended job never needs the mailbox password.
+      - name: Email the frames
         if: steps.pick.outputs.slugs != ''
         run: |
           set -euo pipefail
+          day=$(TZ=Europe/Rome date +%F)
+          slugs=$(printf '%s' "${{ steps.pick.outputs.slugs }}" | tr ' ' '\n' \
+            | grep -v '^$' | sed 's/.*/"&"/' | paste -sd, -)
+
+          code=$(curl -s -o /tmp/out -w '%{http_code}' \
+            -X POST https://www.gianlucascattarella.it/api/story-ready \
+            -H 'content-type: application/json' \
+            -d "{\"day\":\"$day\",\"slugs\":[$slugs]}") || true
+
+          echo "HTTP $code — $(cat /tmp/out)"
+          [ "$code" = "200" ] || echo "::warning::story-ready returned $code"
+
+      - name: Record that the frames were made
+        if: steps.pick.outputs.slugs != ''
+        run: |
+          set -euo pipefail
+          node scripts/social-digest.mjs --record
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -109,7 +127,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "ledger unchanged"
           else
-            git commit -m "Record tonight's story"
+            git commit -m "Record tonight's frames"
             git pull --rebase --autostash
             git push
           fi
