@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Fusion to Blender Bridge keeps materials through a re-sync">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#3A1608"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="2">
+    <path d="M0 170H1200M0 230H1200M0 290H1200"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="150" font-size="26" letter-spacing="7" fill="#FFFFFF" fill-opacity="0.55"
+          font-weight="bold">FUSION 360 &#8594; BLENDER</text>
+
+    <text x="600" y="330" font-size="150" font-weight="900" fill="#FFFFFF">1 &#181;m</text>
+    <text x="600" y="410" font-size="44" font-weight="900" fill="#FFFFFF" fill-opacity="0.92">weld, per BRep face</text>
+
+    <text x="600" y="500" font-size="34" fill="#FFFFFF" fill-opacity="0.78">Bodies matched by ID, so shaders,</text>
+    <text x="600" y="548" font-size="34" fill="#FFFFFF" fill-opacity="0.78">creases and light links survive</text>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="820" font-size="24" letter-spacing="4" fill="#FFFFFF" fill-opacity="0.5">v1.0.0 &#183; GPL-3.0 &#183; localhost:9080</text>
+  </g>
+</svg>
