@@ -4,7 +4,6 @@ date: 2026-09-05
 category: 3D
 cover: /img/blog/fusion-to-blender-bridge-materials-resync/shot-01.jpg
 excerpt: A free add-on pipes Fusion 360 into Blender over localhost and matches bodies by ID, so materials, creases and light links live through the second export.
-draft: true
 ---
 
 The first export from CAD into Blender is fine. You pick STEP or OBJ, you wait,
