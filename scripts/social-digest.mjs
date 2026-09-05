@@ -1,21 +1,26 @@
 /**
- * One Instagram carousel a day, at 19:00 Italian time, carrying every article
+ * One Instagram story a day, at 19:00 Italian time, carrying every article
  * published since the last one.
  *
  *   node scripts/social-digest.mjs --plan    # print the slugs, post nothing
- *   node scripts/social-digest.mjs           # build and publish the carousel
+ *   node scripts/social-digest.mjs           # build and publish the story
  *
- * Instagram replaced one post per article for a reason worth writing down. A
- * caption there carries no clickable link, so posting often buys no traffic —
- * only reach, and reach is not what frequency buys. Three or four posts a day
- * draw from the same follower pool within hours of each other, so each one goes
- * out to a smaller test slice than the last. The recommended ceiling is three
- * to five feed posts a week; this account was running twenty-one.
+ * This was a feed carousel for two days. The engagement case for it was sound —
+ * carousels outperform single images and posting four times a day splits one
+ * follower pool four ways — but the feed it built was wrong. Every carousel
+ * opened on the same template with the day's headlines set in the same places,
+ * so the grid turned into a column of near-identical cards. Article covers
+ * differ; a digest layout does not.
  *
- * Facebook still gets a post per article. There a link is clickable, so the
- * argument runs the other way.
+ * A story is the right home for it. It expires in a day, so sameness reads as a
+ * format rather than a wallpaper, and the grid goes back to article artwork.
  *
- * Needs META_IG_USER_ID and META_PAGE_TOKEN. The cards must already be pushed:
+ * Stories have no carousel type. Each frame is published on its own and the
+ * viewer taps through them, which is what the progress pips across the top of
+ * every frame are counting. And a story takes no caption: whatever it has to
+ * say is drawn into the image.
+ *
+ * Needs META_IG_USER_ID and META_PAGE_TOKEN. The frames must already be pushed:
  * Instagram fetches images from a URL rather than accepting an upload.
  */
 import { readFile, writeFile, readdir } from 'node:fs/promises';
@@ -26,22 +31,11 @@ const GRAPH = 'https://graph.facebook.com/v26.0';
 const REPO = 'Gianluca85vt/Portfolio';
 const LEDGER = 'notes/social-posted.json';
 
-/** A carousel takes ten items, and one of them is the cover. */
+/** Frames a viewer will actually tap through before losing interest. */
 const MAX_ARTICLES = 9;
 
-/** How far back to look for articles nobody has carouselled yet. */
+/** How far back to look for articles no story has carried yet. */
 const WINDOW_DAYS = 2;
-
-const TAGS = {
-  Editorial: ['#gamedev', '#vfx', '#gameart'],
-  '3D': ['#3dart', '#environmentart', '#blender', '#unrealengine'],
-  Tech: ['#tech', '#hardware', '#pcgaming'],
-  AI: ['#ai', '#creativetech'],
-  Games: ['#gaming', '#videogames', '#gamedev'],
-  Manga: ['#manga', '#anime'],
-  'Film & TV': ['#film', '#vfx', '#filmmaking'],
-  Collecting: ['#collecting', '#collectibles'],
-};
 
 function frontmatter(text) {
   const block = text.replace(/\r\n?/g, '\n').match(/^---\n([\s\S]*?)\n---/);
@@ -98,13 +92,13 @@ function romeHour(now) {
 }
 
 /**
- * Whether tonight's carousel is still owed.
+ * Whether tonight's story is still owed.
  *
  * This used to ask whether the hour in Rome was exactly 19, which is a question
  * a cron on GitHub Actions cannot reliably answer yes to. Scheduled runs are
  * best-effort and are routinely late under load: on 2 September the 17:00 and
  * 18:00 slots fired at 19:38 and 20:33, so both runs found 21:38 and 22:33 on
- * the clock, skipped every step, and reported success. No carousel went out.
+ * the clock, skipped every step, and reported success. Nothing went out.
  *
  * The question that survives a late start is whether the evening has arrived
  * and today's post has not. A run delayed past midnight fails the hour test
@@ -118,20 +112,20 @@ export function isDue(ledger, now = new Date()) {
   if (hour < 19) {
     return { due: false, why: `it is ${hour}:00 in Rome and the slot opens at 19:00` };
   }
-  if (Object.values(ledger).some((r) => r?.carouselAt === today)) {
-    return { due: false, why: `tonight's carousel already went out` };
+  if (Object.values(ledger).some((r) => r?.storyAt === today || r?.carouselAt === today)) {
+    return { due: false, why: `tonight's story already went out` };
   }
   return { due: true, why: `${hour}:00 in Rome, nothing posted today` };
 }
 
 /**
- * What belongs in tonight's carousel.
+ * What belongs in tonight's story.
  *
- * The test is a Facebook post that happened and no carousel yet, bounded by the
+ * The test is a Facebook post that happened and no story yet, bounded by the
  * article's own date. That bound matters: the ledger carries ninety-eight
  * entries from before any of this was wired up, marked as posted so the
  * archive would never be blasted out retroactively. Without the date window
- * the first run would try to carousel all of them.
+ * the first run would try to put all of them in one story.
  */
 export async function selectForDigest(root = process.cwd(), today = new Date()) {
   const ledger = await readLedger(root);
@@ -150,12 +144,10 @@ export async function selectForDigest(root = process.cwd(), today = new Date()) 
 
     // Reached Facebook, so it is genuinely published and genuinely recent.
     if (!record?.facebook) continue;
-    if (record.carousel) continue;
+    if (record.story || record.carousel) continue;
 
-    // And never one that already had its own Instagram post. Thirteen articles
-    // went out that way before the carousel replaced it, and without this the
-    // first run would put seven of them back on the feed as a swipe.
-    if (record.instagram) continue;
+    // An article's own Instagram post is expected now rather than disqualifying:
+    // the feed carries the piece, the story carries the round-up of the day.
 
     const text = await readFile(join(dir, file), 'utf8');
     if (/^draft:\s*true/m.test(text)) continue;
@@ -173,28 +165,10 @@ export async function selectForDigest(root = process.cwd(), today = new Date()) 
     });
   }
 
-  // Oldest first, so a carried-over piece from last night opens the carousel
-  // and the swipe runs forward in time.
+  // Oldest first, so a carried-over piece from last night opens the story and
+  // the taps run forward in time.
   picked.sort((a, b) => (a.at < b.at ? -1 : a.at > b.at ? 1 : 0));
   return picked.slice(0, MAX_ARTICLES);
-}
-
-function caption(articles) {
-  const tags = [...new Set(articles.flatMap((a) => TAGS[a.category] ?? []))].slice(0, 6);
-  const day = new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'long' });
-
-  const lines = [
-    `Backdrop — ${day}`,
-    '',
-    ...articles.map((a) => `• ${a.title}`),
-    '',
-    articles.length === 1
-      ? 'The full piece is on the site — link in bio.'
-      : 'All of them in full on the site — link in bio.',
-    '',
-    tags.join(' '),
-  ];
-  return lines.join('\n');
 }
 
 /** Waits for Instagram to finish fetching and transcoding a container. */
@@ -210,53 +184,39 @@ async function ready(id, label) {
   throw new Error(`Instagram never finished ${label}`);
 }
 
-export async function postCarousel(articles, coverUrl) {
+export async function postStory(frames) {
   const ig = process.env.META_IG_USER_ID;
+  const ids = [];
 
-  // Step one: a container per slide, each flagged as a carousel item. The
-  // cover goes first because that is the frame the feed shows.
-  const urls = [
-    coverUrl,
-    ...articles.map(
-      (a) => `https://raw.githubusercontent.com/${REPO}/main/public/img/blog/${a.slug}/social.jpg`
-    ),
-  ];
-
-  const children = [];
-  for (const [i, image_url] of urls.entries()) {
-    const child = await graph(`${ig}/media`, { image_url, is_carousel_item: 'true' });
-    await ready(child.id, `slide ${i + 1}`);
-    children.push(child.id);
+  // One at a time, in order. Stories have no carousel container: the sequence
+  // is the order they were published in, so this cannot be parallelised without
+  // shuffling the frames a viewer taps through.
+  for (const [i, image_url] of frames.entries()) {
+    const container = await graph(`${ig}/media`, { image_url, media_type: 'STORIES' });
+    await ready(container.id, `frame ${i + 1} of ${frames.length}`);
+    const published = await graph(`${ig}/media_publish`, { creation_id: container.id });
+    console.log(`  frame ${i + 1}/${frames.length} -> ${published.id}`);
+    ids.push(published.id);
   }
 
-  // Step two: the carousel itself, which is what carries the caption.
-  const container = await graph(`${ig}/media`, {
-    media_type: 'CAROUSEL',
-    children: children.join(','),
-    caption: caption(articles),
-  });
-  await ready(container.id, 'the carousel');
-
-  // Step three. A carousel counts as one post against the hundred-a-day limit,
-  // however many slides are in it.
-  return graph(`${ig}/media_publish`, { creation_id: container.id });
+  return ids;
 }
 
 /**
- * Stamps tonight's carousel onto the ledger.
+ * Stamps tonight's story onto the ledger.
  *
  * A pure function because the inline version wrote the wrong variable: it built
  * the updated copy and then serialised the one read before the post, so the
  * file went back to disk unchanged. Everything downstream believed it — the
  * commit step found nothing to commit, and the next night would have posted the
- * same six articles again, because nothing marked them as done.
+ * same six articles again, because nothing marked them done.
  *
  * The post itself had gone out. Only the record of it was lost.
  */
-export function recordCarousel(ledger, articles, id, day) {
+export function recordStory(ledger, articles, ids, day) {
   const next = { ...ledger };
   for (const a of articles) {
-    next[a.slug] = { ...(next[a.slug] ?? {}), carousel: id, carouselAt: day };
+    next[a.slug] = { ...(next[a.slug] ?? {}), story: ids.join(','), storyAt: day };
   }
   return next;
 }
@@ -267,7 +227,7 @@ async function main() {
 
   const ledger = await readLedger(root);
   // A manual run says post now, whatever the clock says. It still cannot post
-  // twice: nothing selects an article that already carries a carousel id.
+  // twice: nothing selects an article that already carries a story id.
   const forced = process.env.FORCE_DIGEST === 'true';
   const owed = forced ? { due: true, why: 'manual run' } : isDue(ledger);
 
@@ -286,7 +246,7 @@ async function main() {
   }
 
   if (!articles.length) {
-    console.log('Nothing published since the last carousel. Posting nothing.');
+    console.log('Nothing published since the last story. Posting nothing.');
     return;
   }
 
@@ -298,35 +258,64 @@ async function main() {
   }
 
   const day = romeDate(new Date());
-  const coverUrl = `https://raw.githubusercontent.com/${REPO}/main/public/img/blog/digest/${day}.jpg`;
 
-  console.log(`${articles.length} article(s) in tonight's carousel:`);
+  console.log(`${articles.length} article(s) in tonight's story:`);
   for (const a of articles) console.log(`  ${a.date}  ${a.category.padEnd(10)} ${a.title}`);
 
-  const result = await postCarousel(articles, coverUrl);
-  console.log(`instagram carousel -> ${result.id}`);
+  // One cover frame plus one per article, in the order they were drawn.
+  const frames = Array.from(
+    { length: articles.length + 1 },
+    (_, i) =>
+      `https://raw.githubusercontent.com/${REPO}/main/public/img/blog/digest/${day}-story-${String(i).padStart(2, '0')}.jpg`
+  );
 
-  const written = recordCarousel(await readLedger(root), articles, result.id, day);
+  const ids = await postStory(frames);
+  console.log(`instagram story -> ${ids.length} frame(s)`);
+
+  const written = recordStory(await readLedger(root), articles, ids, day);
   await writeFile(join(root, LEDGER), `${JSON.stringify(written, null, 2)}\n`);
   console.log(`ledger updated: ${LEDGER}`);
 }
 
 /**
- * Draws the cover and any card that is missing, before the commit step.
+ * Draws every frame of tonight's story, before the commit step.
  *
  * social-card.mjs is imported here rather than at the top because it pulls in
  * sharp, and the workflow asks this file what to post before it installs
  * anything. A top-level import made `--plan` die on a missing module.
+ *
+ * Frame zero is the cover, and it borrows the first article's artwork rather
+ * than inventing its own: the point of the frame is the date and the count, and
+ * a picture from the day underneath reads better than a flat field.
  */
 export async function drawAll(root = process.cwd()) {
   const articles = await selectForDigest(root);
   if (!articles.length) return [];
 
-  const { buildCard, buildDigestCover } = await import('./social-card.mjs');
+  const { buildStoryFrame } = await import('./social-card.mjs');
 
-  for (const a of articles) await buildCard(a.slug, root);
-  const cover = await buildDigestCover(articles, root);
-  return [cover, ...articles.map((a) => a.slug)];
+  const day = new Intl.DateTimeFormat('en-GB', {
+    timeZone: 'Europe/Rome',
+    day: 'numeric',
+    month: 'long',
+  }).format(new Date());
+
+  const lead = articles.find((a) => a.cover && !a.cover.endsWith('.svg')) ?? articles[0];
+  const frames = [
+    {
+      title: `${articles.length} ${articles.length === 1 ? 'story' : 'stories'} today`,
+      category: lead.category,
+      cover: lead.cover,
+      kicker: `Backdrop \u00b7 ${day}`,
+    },
+    ...articles,
+  ];
+
+  const made = [];
+  for (const [i, frame] of frames.entries()) {
+    made.push(await buildStoryFrame(frame, i, frames.length, root));
+  }
+  return made;
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1] ?? '').href) {

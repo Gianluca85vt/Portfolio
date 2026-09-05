@@ -1,19 +1,22 @@
 /**
- * Posts a published article to the Facebook Page.
+ * Posts a published article to the Facebook Page and to Instagram.
  *
  *   node scripts/social-post.mjs <slug> [<slug>...]
  *
- * Needs META_PAGE_ID and META_PAGE_TOKEN in the environment.
+ * Needs META_PAGE_ID, META_IG_USER_ID and META_PAGE_TOKEN in the environment.
  * The token is a Page token derived from a long-lived user token, so it does
  * not expire; nothing here ever prints it.
  *
- * Instagram used to get a post here too, one per article. It now gets a single
- * carousel a day instead — see scripts/social-digest.mjs, which explains why.
- * Facebook keeps a post per article because a link there is clickable, so more
- * posts genuinely mean more ways to reach the piece.
+ * Instagram briefly got a single daily carousel instead of a post per article.
+ * The engagement argument for that was sound and the feed it produced was not:
+ * every carousel opened on the same template with the day's headlines set in
+ * the same places, so the grid became a column of near-identical cards. Article
+ * covers vary; a digest layout does not.
  *
- * The card is still drawn for every article: the carousel is built from those
- * same cards a few hours later.
+ * So the feed goes back to one post per article, where the artwork is different
+ * every time, and the digest moves to Stories — see scripts/social-digest.mjs.
+ * A story expires in a day, which is the right home for something that looks
+ * the same every evening on purpose.
  */
 import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
@@ -23,6 +26,19 @@ const GRAPH = 'https://graph.facebook.com/v26.0';
 const REPO = 'Gianluca85vt/Portfolio';
 const SITE = 'https://www.gianlucascattarella.it';
 const LEDGER = 'notes/social-posted.json';
+
+// Modest and specific. A wall of thirty tags reads as a bot and Instagram
+// discounts them anyway.
+const TAGS = {
+  Editorial: ['#gamedev', '#vfx', '#gameart'],
+  '3D': ['#3dart', '#environmentart', '#blender', '#unrealengine', '#gameart'],
+  Tech: ['#tech', '#hardware', '#pcgaming'],
+  AI: ['#ai', '#machinelearning', '#creativetech'],
+  Games: ['#gaming', '#videogames', '#gamedev', '#gameart'],
+  Manga: ['#manga', '#anime', '#animation'],
+  'Film & TV': ['#film', '#vfx', '#cinema', '#filmmaking'],
+  Collecting: ['#collecting', '#collectibles'],
+};
 
 function frontmatter(text) {
   const block = text.replace(/\r\n?/g, '\n').match(/^---\n([\s\S]*?)\n---/);
@@ -72,6 +88,38 @@ async function postToFacebook(article) {
   });
 }
 
+async function postToInstagram(article) {
+  const tags = (TAGS[article.category] ?? []).join(' ');
+  const caption = [
+    article.title,
+    '',
+    article.excerpt,
+    '',
+    'Full piece at gianlucascattarella.it — link in bio.',
+    '',
+    tags,
+  ].join('\n');
+
+  const container = await graph(`${process.env.META_IG_USER_ID}/media`, {
+    image_url: article.cardUrl,
+    caption,
+  });
+
+  // Instagram fetches and transcodes the image before it can be published. For
+  // a single JPEG this is usually done on the first check, but publishing a
+  // container that is still IN_PROGRESS fails, so wait for it to say so.
+  for (let i = 0; i < 12; i += 1) {
+    const { status_code: status } = await graphGet(container.id, { fields: 'status_code' });
+    if (status === 'FINISHED') break;
+    if (status === 'ERROR' || status === 'EXPIRED') {
+      throw new Error(`Instagram rejected the container: ${status}`);
+    }
+    await sleep(2500);
+  }
+
+  return graph(`${process.env.META_IG_USER_ID}/media_publish`, { creation_id: container.id });
+}
+
 async function readLedger(root) {
   try {
     return JSON.parse(await readFile(join(root, LEDGER), 'utf8'));
@@ -84,7 +132,7 @@ async function main() {
   const root = process.cwd();
   const slugs = process.argv.slice(2);
 
-  for (const name of ['META_PAGE_ID', 'META_PAGE_TOKEN']) {
+  for (const name of ['META_PAGE_ID', 'META_IG_USER_ID', 'META_PAGE_TOKEN']) {
     if (!process.env[name]) {
       console.error(`${name} is not set — nothing posted.`);
       process.exit(1);
@@ -134,10 +182,18 @@ async function main() {
       console.log(`::warning::facebook failed for ${slug}: ${err.message}`);
     }
 
-    // Only a slug that actually posted is written down, so a failed run can be
-    // retried. The record is also what the daily carousel reads: an entry with
-    // a facebook id and no instagram one is a candidate for tonight's swipe.
-    if (record.facebook) {
+    try {
+      const ig = await postToInstagram(article);
+      record.instagram = ig.id;
+      console.log(`instagram ${slug} -> ${ig.id}`);
+    } catch (err) {
+      record.instagramError = String(err.message);
+      console.log(`::warning::instagram failed for ${slug}: ${err.message}`);
+    }
+
+    // Only a slug that reached at least one network is written down, so a run
+    // where both failed can be retried.
+    if (record.facebook || record.instagram) {
       ledger[slug] = record;
       changed = true;
     }

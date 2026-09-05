@@ -17,6 +17,10 @@ import sharp from 'sharp';
 const W = 1080;
 const H = 1350;
 
+/** Stories are 9:16. Anything else gets letterboxed by Instagram. */
+const STORY_W = 1080;
+const STORY_H = 1920;
+
 // Mirrors categoryColors in src/data/portfolio.ts. A card is not worth an
 // import chain through TypeScript; if a colour drifts, the cost is one card
 // carrying last season's accent.
@@ -291,6 +295,115 @@ ${items}
     await sharp(background)
       .composite([{ input: overlay, top: 0, left: 0 }])
       .jpeg({ quality: 88, mozjpeg: true })
+      .toBuffer()
+  );
+
+  return out;
+}
+
+/**
+ * One frame of the evening story.
+ *
+ * The digest moved out of the feed because a template that looks the same every
+ * day looks wrong in a grid that keeps it forever. A story keeps it for
+ * twenty-four hours, where sameness is the format rather than a fault — a
+ * masthead you recognise at a glance, tapped through in ten seconds.
+ *
+ * 9:16 rather than the feed card's 4:5. Instagram letterboxes anything else,
+ * and a letterboxed story reads as a reposted feed post, which is the thing
+ * this is trying to stop being.
+ *
+ * `index` and `total` drive the progress pips, so a viewer can see how many
+ * taps are left before they decide to leave.
+ */
+export async function buildStoryFrame(
+  { title, category, cover, score, kicker },
+  index,
+  total,
+  root = process.cwd()
+) {
+  const accent = COLOURS[category] ?? '#B600A8';
+
+  let background;
+  try {
+    if (!cover) throw new Error('no cover');
+    const p = join(root, 'public', cover.replace(/^\//, ''));
+    await access(p);
+    background = await sharp(p, { density: 300 })
+      .resize(STORY_W, STORY_H, { fit: 'cover', position: 'attention' })
+      .toBuffer();
+  } catch {
+    background = await sharp({
+      create: { width: STORY_W, height: STORY_H, channels: 3, background: '#18011F' },
+    })
+      .jpeg()
+      .toBuffer();
+  }
+
+  const size = title.length > 78 ? 62 : title.length > 48 ? 70 : 80;
+  const lines = wrap(title, size, STORY_W - 150);
+  const lineHeight = size * 1.14;
+
+  // The text sits in the lower third: the top is where a phone puts the account
+  // name and the close button, and the very bottom is where a thumb rests.
+  const blockBottom = STORY_H - 420;
+  const firstBaseline = blockBottom - (lines.length - 1) * lineHeight;
+
+  // Progress pips across the top, the way a story already reads.
+  const pipGap = 8;
+  const pipW = (STORY_W - 120 - pipGap * (total - 1)) / total;
+  const pips = Array.from({ length: total }, (_, i) =>
+    `<rect x="${60 + i * (pipW + pipGap)}" y="46" width="${pipW}" height="5" rx="2.5" fill="#FFFFFF" fill-opacity="${i <= index ? 0.95 : 0.3}"/>`
+  ).join('');
+
+  const overlay = Buffer.from(`
+<svg width="${STORY_W}" height="${STORY_H}" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#18011F" stop-opacity="0.62"/>
+      <stop offset="26%"  stop-color="#18011F" stop-opacity="0.30"/>
+      <stop offset="55%"  stop-color="#18011F" stop-opacity="0.72"/>
+      <stop offset="100%" stop-color="#18011F" stop-opacity="0.97"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="${STORY_W}" height="${STORY_H}" fill="url(#shade)"/>
+  ${pips}
+
+  <text x="60" y="132" font-family="DejaVu Sans, Verdana, sans-serif" font-size="34"
+        font-weight="bold" letter-spacing="9" fill="#FFFFFF" fill-opacity="0.92">BACKDROP</text>
+
+  <rect x="60" y="${firstBaseline - size - 96}" width="94" height="7" fill="${accent}"/>
+  <text x="60" y="${firstBaseline - size - 48}"
+        font-family="DejaVu Sans, Verdana, sans-serif" font-size="30" font-weight="bold"
+        letter-spacing="6" fill="#D7E2EA" fill-opacity="0.88">${esc((kicker ?? category).toUpperCase())}</text>
+
+  ${lines
+    .map(
+      (l, i) =>
+        `<text x="60" y="${firstBaseline + i * lineHeight}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="${size}" font-weight="bold" fill="#FFFFFF">${esc(l)}</text>`
+    )
+    .join('\n  ')}
+
+  ${
+    score !== undefined
+      ? `<text x="60" y="${blockBottom + 96}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="56" font-weight="bold" fill="${accent}">${score}/10</text>`
+      : ''
+  }
+
+  <text x="60" y="${STORY_H - 96}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="27"
+        letter-spacing="2" fill="#D7E2EA" fill-opacity="0.55">gianlucascattarella.it</text>
+</svg>`);
+
+  const day = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Rome' }).format(new Date());
+  const out = join(root, 'public/img/blog/digest', `${day}-story-${String(index).padStart(2, '0')}.jpg`);
+  await mkdir(dirname(out), { recursive: true });
+
+  await writeFile(
+    out,
+    await sharp(background)
+      .composite([{ input: overlay, top: 0, left: 0 }])
+      .jpeg({ quality: 86, mozjpeg: true })
       .toBuffer()
   );
 

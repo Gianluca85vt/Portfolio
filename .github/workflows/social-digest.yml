@@ -1,9 +1,12 @@
-name: Daily Instagram carousel
+name: Daily Instagram story
 
-# One post a day at 19:00 Italian time, carrying everything published since the
-# last one. Instagram used to get a post per article; scripts/social-digest.mjs
-# explains why that changed. Facebook still posts per article from
-# social-post.yml and is untouched by this.
+# One story a day at 19:00 Italian time, carrying everything published since the
+# last one, as a sequence of frames a viewer taps through.
+#
+# This was a feed carousel for two days and the feed it built looked wrong: the
+# same template every evening, stacked in a grid that keeps it. The digest moved
+# to stories, which expire, and the feed went back to one post per article from
+# social-post.yml, where the artwork differs every time.
 
 on:
   # Several slots, for two separate reasons. Italy is UTC+2 in summer and UTC+1
@@ -12,6 +15,7 @@ on:
   # 2 September these fired at 19:38 and 20:33 rather than 17:00 and 18:00.
   #
   # Extra slots are free because the script refuses to post twice in a day.
+  # 2 September proved the need: the 17:00 slot fired at 19:38.
   schedule:
     - cron: '0 17 * * *'
     - cron: '0 18 * * *'
@@ -20,7 +24,7 @@ on:
   workflow_dispatch:
     inputs:
       force:
-        description: 'Post now, whatever the hour in Rome'
+        description: 'Post the story now, whatever the hour in Rome'
         type: boolean
         default: true
 
@@ -42,7 +46,7 @@ jobs:
           node-version: '22'
 
       # One question, asked in the script rather than in bash: is the evening here
-      # and has today's carousel not gone out? A step that demanded the hour be
+      # and has today's story not gone out? A step that demanded the hour be
       # exactly 19 could never pass on a run GitHub started at 21:38, which is
       # how a night went by with nothing posted.
       - name: Anything to post?
@@ -53,13 +57,13 @@ jobs:
           set -euo pipefail
           slugs=$(node scripts/social-digest.mjs --plan)
           echo "slugs=$slugs" >> "$GITHUB_OUTPUT"
-          echo "in tonight's carousel:${slugs:- nothing}"
+          echo "in tonight's story:${slugs:- nothing}"
 
       - name: Install sharp
         if: steps.pick.outputs.slugs != ''
         run: npm install sharp --no-save
 
-      - name: Draw the cover and any missing card
+      - name: Draw the story frames
         if: steps.pick.outputs.slugs != ''
         run: node scripts/social-digest.mjs --draw
 
@@ -74,19 +78,19 @@ jobs:
           if git diff --cached --quiet; then
             echo "nothing new to commit"
           else
-            git commit -m "Draw tonight's carousel"
+            git commit -m "Draw tonight's story"
             git pull --rebase --autostash
             git push
           fi
 
-      # Instagram fetches every slide from a URL rather than accepting uploads,
+      # Instagram fetches every frame from a URL rather than accepting uploads,
       # so the images have to be readable on the public internet before the
       # containers are created. This pause is for GitHub's CDN to catch up.
       - name: Let the raw URLs settle
         if: steps.pick.outputs.slugs != ''
         run: sleep 25
 
-      - name: Post the carousel
+      - name: Post the story
         if: steps.pick.outputs.slugs != ''
         env:
           META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
@@ -105,7 +109,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "ledger unchanged"
           else
-            git commit -m "Record tonight's carousel"
+            git commit -m "Record tonight's story"
             git pull --rebase --autostash
             git push
           fi
