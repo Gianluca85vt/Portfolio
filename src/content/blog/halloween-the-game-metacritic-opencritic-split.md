@@ -4,7 +4,6 @@ date: 2026-09-05
 category: Games
 cover: /img/blog/halloween-the-game-metacritic-opencritic-split/shot-01.jpg
 excerpt: Two aggregators read roughly the same handful of reviews and landed nineteen points apart. The pool is eight critics deep, and the game barely exists yet.
-draft: true
 ---
 
 Reviews for IllFonic's Halloween: The Game went up on 3 September. As of this
