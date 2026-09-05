@@ -16,6 +16,11 @@ Same game, same week, nineteen points of daylight.
 
 ## Eight reviews is not a sample
 
+<figure>
+  <img src="/img/blog/halloween-the-game-metacritic-opencritic-split/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>IllFonic and Gun Interactive, via the official Steam page</figcaption>
+</figure>
+
 Start with the size of the pool, because everything else follows from it. Eight
 scored verdicts is small enough that a single outlet swings the average by a
 point or more. Metacritic's own breakdown, as it reads today, is half positive
