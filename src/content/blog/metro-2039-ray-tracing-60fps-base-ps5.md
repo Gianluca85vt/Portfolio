@@ -4,7 +4,6 @@ date: 2026-09-05
 category: Games
 excerpt: 4A Games says the performance mode holds 4K, 60fps and ray tracing on a standard PS5, not only the Pro. Corridors are what make that promise affordable.
 cover: /img/blog/metro-2039-ray-tracing-60fps-base-ps5/shot-01.jpg
-draft: true
 ---
 
 Deep Silver put a new Metro 2039 trailer in [Sony's 3 September State of
