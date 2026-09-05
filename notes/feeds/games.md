@@ -1,6 +1,26 @@
-# Games — harvested 2026-09-05T08:35:15.636Z
+# Games — harvested 2026-09-05T13:32:23.392Z
 
 ## Eurogamer
+
+### Gamescom apologises for how it initially responded to indie developer hardware thefts
+Sat, 05 Sep 2026 12:44:17 +0000 — https://www.eurogamer.net/gamescom-apologises-indie-developer-hardware-theft-response
+
+Gamescom has apologised for the way it "communicated about the theft of hardware belonging to several indie developers" last week, admitting, "our first response did not strike the right tone, and it did not show the people affected the empathy they deserved". Read more
+
+### White House launches Arcade.gov, a minigame site parodying immigration enforcement and border security
+Sat, 05 Sep 2026 12:03:15 +0000 — https://www.eurogamer.net/white-house-arcade-gov-minigames-immigration-border-wall
+
+The White House has launched Arcade.Gov, a website of browser minigames built around Donald Trump's immigration and border policies. Read more
+
+### BioWare doesn't need advice for Mass Effect 4, says veteran designer, as long as "people get out of the way"
+Sat, 05 Sep 2026 10:43:58 +0000 — https://www.eurogamer.net/bioware-mass-effect-4-doesnt-need-advice-veteran-designer
+
+Original Mass Effect cinematic designer and Mass Effect 2 lead cinematic designer Armando Troisi has insisted the current BioWare team doesn't need outside advice on developing the next installment because so many of the people who built the original trilogy are still at the studio. Read more
+
+### Gen-AI controversy aside, Crazy Taxi: World Tour feels like classic arcade Sega - and it's an absolute blast
+Sat, 05 Sep 2026 09:01:01 +0000 — https://www.eurogamer.net/crazy-taxi-world-tour-gamescom-preview
+
+Crazy Taxi was not my favourite Dreamcast game (please don't ask me to choose between the triumphant rhythm triptych of Rez , Space Channel 5, and Samba de Amigo , however), but there's a specific bit of it that's forever seared into my brain: the giddy thrill of cresting over that one San-Francisco-inspired hill and barreling down toward the ocean, all while The Offspring's All I Want 'Yeah, yeah, yeah, yeah, yeah'ed me into a state of gaming nirvana. Read more
 
 ### What we've been playing - "Well this is embarrassing, we're wearing the same outfit!"
 Sat, 05 Sep 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-well-this-is-embarrassing-were-wearing-the-same-outfit
@@ -41,26 +61,6 @@ My relationship with Mass Effect begins and ends with the first game (let's just
 Fri, 04 Sep 2026 11:10:33 +0000 — https://www.eurogamer.net/starcraft-website-glitches-blizzcon-2026
 
 The Starcraft website is suffering from some mysterious visual glitches and distortion roughly a week before BlizzCon. As a result, fans of the RTS series are fiercely speculating on a possible reveal. Read more
-
-### No Law was one of the most exciting games I saw at Gamescom: a cyberpunk immersive sim that solves one of Deus Ex's biggest problems
-Fri, 04 Sep 2026 11:06:24 +0000 — https://www.eurogamer.net/no-law-hands-off-preview-gamescom-cyberpunk-deus-ex-biggest-problem
-
-Sometimes you see a game and can tell that the developers just get it . No Law is one of those games. Having seen it first hand at Gamescom, it has quickly become one of my most anticipated games from the show. Read more
-
-### Xbox places monthly time limits to its paid cloud gaming service, insists only a fraction of players will be impacted
-Fri, 04 Sep 2026 09:19:06 +0000 — https://www.eurogamer.net/xbox-cloud-gaming-monthly-time-limits
-
-Xbox has announced hard monthly time limits will be added to its cloud gaming streaming service this November. Don't worry though, if you run into these limits, you can always buy more hours on the Xbox store. Read more
-
-### Final Fantasy 7 Revelation is getting a physical version, but it will require an internet connection to download
-Fri, 04 Sep 2026 08:58:46 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-physical-version-catch
-
-The third and final entry in the Final Fantasy 7 Remake series will launch on just one disc - unlike both Remake and Rebirth, which were spread across two - but the downside is that Final Fantasy 7 Revelation will need to download extra game data on all formats, if you buy the physical edition. The previous games in the series were 'content complete' on disc (before any post-launch updates, at least), and could be played out the box. That will not be the case for Final Fantasy 7 Revelation, no matter what platform you purchase it on. Read more
-
-### Final Fantasy 7 Revelation finally gets a 2027 release date, as Final Fantasy Resonance gets a surprise demo
-Thu, 03 Sep 2026 15:35:54 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-release-date-resonance-demo
-
-We already knew that Final Fantasy 7 Revelation was going to launch sometime in 'spring 2027 ', but today director Naoki Hamaguchi took to Sony's State of Play livestream to inform us all that the game has a locked-in release date: 8th April, 2027. It'll launch worldwide, and on all platforms - that's PS5, Nintendo Switch 2 , Xbox Series X/S, and PC - at the same time (the first game in the series to do so). Read more
 
 ## GamesIndustry.biz
 
@@ -104,26 +104,16 @@ Thu, 03 Sep 2026 14:56:12 +0000 — https://www.gamesindustry.biz/apple-faces-2b
 
 Apple is facing a &pound;2 billion class action lawsuit over the implementation of its App Tracking Transparency (ATT) framework. Read more
 
-### "We've got a great team, money in the bank, and financial independence": Glowmade comes out swinging after Amazon pulled the plug on King of Meat
-Thu, 03 Sep 2026 12:05:44 +0000 — https://www.gamesindustry.biz/weve-got-a-great-team-money-in-the-bank-and-financial-independence-glowmade-comes-out-swinging-after-amazon-pulled-the-plug-on-king-of-meat
-
-Often when a studio is dropped by a major publisher, it leaves them in dire straits. The story is all too common and often ends in layoffs or outright closure. Read more
-
-### Sony and Microsoft request dismissal of consumer lawsuits over tariff refunds
-Thu, 03 Sep 2026 11:24:40 +0000 — https://www.gamesindustry.biz/sony-and-microsoft-request-dismissal-of-consumer-lawsuits-over-tariff-refunds
-
-Sony and Microsoft have filed motions to dismiss class action lawsuits accusing them of not passing on tariff refunds to consumers. Read more
-
-### Peak studio Aggro Crab establishes publishing label for "intense, stylised games with an attitude"
-Thu, 03 Sep 2026 09:29:08 +0000 — https://www.gamesindustry.biz/peak-studio-aggro-crab-establishes-publishing-label-for-intense-stylised-games-with-an-attitude
-
-Aggro Crab, known for Peak and Another Crab's Treasure, has launched a publishing label to support "intense, stylised games with an attitude." Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Guide: These 21+ PS5 Games Are Coming Out Next Week (7th-13th September)
+Sat, 05 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-21plus-ps5-games-are-coming-out-next-week-7th-13th-september
+
+Hot Wheels! Mewgenics! Valheim! More! I thought next week was going to be a bit slower on the PS5, but there’s actually more than 20 new titles launching for another consecutive week. Highlights include the new Hot Wheels game, Mewgenics , and the long-awaited release of Valheim . Read the full article on pushsquare.com
 
 ### Preview: Honkai: Nexus Anima Is HoYoverse at Its Weirdest, and PS5 Owners Need to See It
 Sat, 05 Sep 2026 00:00:00 GMT — https://www.pushsquare.com/previews/honkai-nexus-anima-is-hoyoverse-at-its-weirdest-and-ps5-owners-need-to-see-it
@@ -180,11 +170,6 @@ Fri, 04 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/reviews/ps5/star-wa
 
 May the Hawks be with you. It's almost impossible not to mention XCOM when talking about Star Wars Zero Company , as the similarities are clear and manifold. What developer Bit Reactor has done is apply a Star Wars veneer on top of the robust turn-based tactical gameplay from Firaxis' beloved series, and the result is a game that feels like a perfect alignment. Read the full article on pushsquare.com
 
-### One of the Best PS5 Story Developers Has Helped Write Until Dawn 2 s Plot
-Fri, 04 Sep 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/09/one-of-the-best-ps5-story-developers-has-helped-write-until-dawn-2s-plot
-
-Disptach developer AdHoc Studio involved. You can now be even more confident Until Dawn 2 will be a fantastic story experience, as it's been announced Dispatch developer AdHoc Studio helped write the PS5 sequel's story. Having revealed the 28th January 2027 release date, a PlayStation Blog post spoke of the collaboration: Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Strategically making Star Wars Zero Company, ft. Greg Foertsch
@@ -206,9 +191,4 @@ Once the deal is closed, Merge Mansion will officially become part of Supercell'
 Thu, 03 Sep 2026 14:49:10 GMT — https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding
 
 The organization is offering up to €80,000 to developers based or operating in the region.
-
-### CD Projekt Red won't be abandoning physical releases
-Thu, 03 Sep 2026 10:55:48 GMT — https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases
-
-'What you can definitely expect from us is to put out a box that's going to make it worth your while.'
 

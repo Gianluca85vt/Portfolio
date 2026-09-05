@@ -1,58 +1,78 @@
-# Film & TV — harvested 2026-09-05T08:35:15.636Z
+# Film & TV — harvested 2026-09-05T13:32:23.392Z
 
 ## Variety
 
-### Rubaiyat Hossain on Bodies, Beauty and Venice, Toronto and London-Bound The Difficult Bride, Clip Unveiled (EXCLUSIVE)
-Sat, 05 Sep 2026 07:57:49 +0000 — https://variety.com/2026/film/festivals/rubaiyat-hossain-difficult-bride-1236851501/
+### Liam and Noel Gallagher Skip Oasis Documentary Press Conference at Venice Film Festival
+Sat, 05 Sep 2026 13:28:18 +0000 — https://variety.com/2026/film/festivals/liam-noel-gallagher-skip-oasis-doc-press-conference-venice-1236852403/
 
-The idea for The Difficult Bride traces back to a story Rubaiyat Hossain heard as a 7 year old, visiting a Dhaka beauty parlor with her mother. There was a bride who died there, Hossain says. Everyone knew this story from our generation, and I remember being seven, and even at that time, I had [ ]
+In news that might not surprise anyone, Liam and Noel Gallagher skipped the Venice Film Festival press conference for their upcoming Disney+ documentary Oasis: Don t Look Back in Anger on Saturday. The two brothers — who reunited last year for their massive Live 25 tour after a 15-year feud — arrived on the Lido in [ ]
 
-### Mad Solutions and Haitham Dabbour s Irth Platform Announce Strategic Pan-Arab Content Partnership in Venice
-Sat, 05 Sep 2026 06:07:02 +0000 — https://variety.com/2026/film/festivals/mad-solutions-haitham-dabbours-irth-pan-arab-partnership-1236852377/
+### Aflac Taps Affleck for Commercials to Keep Insurance Customers Quacking
+Sat, 05 Sep 2026 12:30:00 +0000 — https://variety.com/2026/tv/news/aflac-ben-affleck-commercials-artists-equity-duck-insurance-1236852321/
 
-Pan-Arab distributor Mad Solutions and Egyptian multihyphenate Haitham Dabbour s Irth platform dedicated to supporting standout writers across the Arab world announced a strategic partnership on Saturday at the Venice Film Festival that aims to boost quality content output from the region. Under the pact, Mad Solutions and Irth will jointly develop, package and support film, television and [ ]
+It seems as simple as moving a few letters around, but a new collaboration between Aflac, the provider of supplemental insurance and Ben Affleck, the actor and director, has been years in the making. Pairing Aflac, which has thrived with commercials featuring an anthropomorphic duck squawking out its name, and Affleck. the star of Good [ ]
 
-### Lav Diaz Preps False Prophets Film and Jose Rizal s Noli Me Tangere Adaptation, Unpacks Venice Title Let Us Through, Dear Ancestors (EXCLUSIVE)
-Sat, 05 Sep 2026 05:35:00 +0000 — https://variety.com/2026/film/festivals/lav-diaz-venice-film-ancestors-new-projects-1236851519/
+### ‘Our Share of Sand’ Review: A Brooding Indian Social Drama Told Through the Eyes of a Young Girl
+Sat, 05 Sep 2026 11:45:00 +0000 — https://variety.com/2026/film/news/our-share-of-sand-review-1236847383/
 
-Lav Diaz is developing a film about false prophets and a screen adaptation of José Rizal s Noli Me Tangere, the Filipino auteur reveals, alongside details on Let Us Through, Dear Ancestors ( Makikiraan Po ), his Spanish colonization drama premiering in the Venice Open section of the Venice Film Festival. Diaz tells Variety, Right now, I m working [ ]
+A keenly observed class drama shown through the eyes of a child, Shalini Adnani’s “Our Share of Sand” overcomes its characters’ narrow construction through its brooding intensity. Set against a sand-mining crisis in modern India, it tells of a 12-year-old British Asian girl, Maya (Maya Mehta), who returns to the country to join her industrialist [ ]
 
-### As Swiss Films Expand International Reach, English-language Works Are on the Rise
-Sat, 05 Sep 2026 05:15:00 +0000 — https://variety.com/2026/film/global/swiss-films-venice-film-festival-late-shift-petra-volpe-1236838164/
+### Tom and Jerry: Forbidden Compass Review: The Famous Cat-and-Mouse Duo Are Not Themselves In a Chaotic Chinese Cartoon
+Sat, 05 Sep 2026 11:32:24 +0000 — https://variety.com/2026/film/reviews/tom-and-jerry-forbidden-compass-review-1236852490/
 
-Swiss cinema is resonating domestically and abroad as homegrown films and international co-productions continue to entice local audiences and festival goers around the globe. At Venice this year, Swiss titles and co-productions boasting high-profile talent unspool throughout the festival. Switzerland is also a country of focus at the Venice Production Bridge industry strand with seven [ ]
+That title gives a first clue towards how misbegotten and compromised this new Tom and Jerry joint is. Everybody knows that Tom and Jerry shouldn’t be searching for a forbidden compass, whatever that might be: If the perma-warring pair are on a quest for something, it ought to be, say, some pickles for a big [ ]
 
-### Elsinore Review: Andrew Scott Is Powerfully Moving as Ian Charleson, the Chariots of Fire Star Who Played Hamlet While Ravaged by AIDS
-Sat, 05 Sep 2026 05:00:33 +0000 — https://variety.com/2026/film/reviews/elsinore-review-andrew-scott-1236852070/
+### Robert Pattinson Wants Chris Hansen to Like Primetime Despite His Criticisms: I Hope the Inspiration His Character Has Given Is Some Kind of Compliment
+Sat, 05 Sep 2026 11:28:45 +0000 — https://variety.com/2026/film/festivals/robert-pattinson-primetime-chris-hansen-criticism-1236852400/
 
-The tender power of "Elsinore" is the way Scott’s performance takes us right inside Ian’s state-of-mind — his belief that what’s left of his life needs to mean something, and that playing Hamlet will give it that meaning.
+Robert Pattinson thinks Chris Hansen could come around on Primetime, a tense thriller about the television journalist and To Catch a Predator host, which premieres on Saturday afternoon at the Venice Film Festival. The real-life Hansen has been vocal in his skepticism of the movie, which he said he hasn t seen because he declined to [ ]
 
-### Spain s Impulse Cinema and Italy s Fandango Forge Strategic Partnership to Boost Co-Production and Sales Opportunities (EXCLUSIVE)
-Sat, 05 Sep 2026 05:00:00 +0000 — https://variety.com/2026/film/global/impulse-cinema-fandango-partnership-production-1236851343/
+### Marion Cotillard Praises Venice Biennale College Cinema Workshop: Not all Films Are Destined to Draw Millions of Viewers and Turn a Profit
+Sat, 05 Sep 2026 11:06:28 +0000 — https://variety.com/2026/film/global/marion-cotillard-venice-biennale-college-cinema-1236852398/
 
-Spanish indie studio Impulse Cinema and Italy’s Fandango have forged a strategic partnership to boost Spanish and Italian productions through co-production, financing, distribution and global sales. The agreement was announced on Saturday at the Venice Production Bridge, the Venice Film Festival s market focused on film production. Impulse Cinema, which is headed by Andrés Sánchez Pajares [ ]
+Oscar-winner Marion Cotillard (“La Vie en Rose ) is at the Venice Film Festival in a new guise, as tutor of Biennale College Cinema, the workshop allowing emerging filmmakers to develop and produce micro-budget feature-length films, which is sponsored by Chanel. Biennale College Cinemas was conceived 15 years ago by Venice chief Alberto Barbera in tandem [ ]
 
-### The Echo Chamber Starring Alicia Vikander Seals International Distribution Deals Ahead of Venice Premiere (EXCLUSIVE)
-Sat, 05 Sep 2026 05:00:00 +0000 — https://variety.com/2026/film/global/echo-chamber-alicia-vikander-international-sales-1236851681/
+### Mr Nelson, Did You Kill People? Review: An Assaultive Yet Turgid and Outdated Vietnam PTSD Drama
+Sat, 05 Sep 2026 10:54:01 +0000 — https://variety.com/2026/film/reviews/mr-nelson-did-you-kill-people-review-1236846997/
 
-“The Echo Chamber,” Andrea Pallaoro’s drama starring Alicia Vikander, Luca Marinelli and Susan Sarandon, has already landed distribution across a raft of key international territories ahead of its world premiere at the Venice Film Festival. Paradise City Sales has closed deals for Spain with Vertice360; Australia and New Zealand with Umbrella; Poland with Gutek; Czech [ ]
+If Shinya Tsukamoto s Mr Nelson, Did You Kill People? were the first, or even the 51st, movie to litigate the atrocities committed by U.S. troops during the Vietnam War, perhaps on a purely informational level some justification would exist for its crudely simplistic approach. Nuance is often a casualty of war, especially when that war [ ]
 
-### Impact of War in Iran Set to Feature in Two Venice Film Festival Dramas
-Sat, 05 Sep 2026 04:55:00 +0000 — https://variety.com/2026/film/global/war-in-iran-venice-film-festival-1236844960/
+### Everest: The Other Side Review: The Free Solo Directors Return With Another Extreme Sports Doc, This Time Tainted by Tragedy
+Sat, 05 Sep 2026 10:35:43 +0000 — https://variety.com/2026/film/reviews/everest-the-other-side-review-1236852376/
 
-With war still ravaging Iran — six months after the country was attacked by U.S. and Israeli forces — the Venice Film Festival is set to launch two Iranian films that will provide viewers vivid on-the-ground insight on the conflict’s societal impact as the country contends with bombs and its repressive regime. Ali Asgari, who [ ]
+Because it s there is the famous, possibly apocryphal, reply attributed to British mountaineer George Mallory when asked why he wanted to climb Mount Everest. Unlike present-day climber Jim Morrison, Mallory didn t also want to ski down it. But doesn t the same non-answer apply? Why are certain people compelled toward any of these reckless, perilous, barely [ ]
 
-### ‘The Idiot(s)’ Review: Dostoevsky Is an Endearing Drunken Fool in This Rambunctious, Tonally Off-Kilter Two-Hander
-Sat, 05 Sep 2026 04:30:00 +0000 — https://variety.com/2026/film/news/the-idiots-review-1236848694/
+### The Liberation’ Review: Carrie Coon Is Breathtaking as a Woman Lured by a Cult in Guy Nattiv’s Deeply Personal Film
+Sat, 05 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/reviews/the-liberation-review-1236851030/
 
-As biographical films on major historical figures go, “The Idiot(s)” starts off with an advantage over most, since it covers only a finite, conflict-laden passage of its subject’s storied life. This enjoyably off-kilter dramedy then further ingratiates itself with viewers bored of traditionalist hagiographies, because it also functions as a biting exercise in separating the [ ]
+“You carry a lot of weight around, don’t you?” In Guy Nattiv’s observant, harrowing and unmistakably feminine “The Liberation,” this line marks the first time someone truly sees through fortysomething protagonist Rita Cooper. Based on Nattiv’s own grandmother (alongside various cult survivors) and played by Carrie Coon with extraordinary emotional presence and pent-up energy privately [ ]
 
-### Venice: My Undesirable Friends Director on Epic Documentary About Death of Press Freedom in Russia, How Putin s Crackdown Is Warning for U.S.
-Sat, 05 Sep 2026 04:05:00 +0000 — https://variety.com/2026/film/global/venice-my-undesirable-friends-documentary-press-freedom-russia-1236849120/
+### Swiss Projects at the Venice Gap-Financing Market: Natural Disaster, Complicated Romance, Exploited Migrants, Murder Mystery in Montana
+Sat, 05 Sep 2026 08:57:55 +0000 — https://variety.com/2026/film/global/switzerland-venice-film-festival-gap-financing-market-1236841524/
 
-If her epic, Oscar-shortlisted documentary “My Undesirable Friends: Part 1 — Last Air In Moscow” pulled off an astonishing feat, chronicling the last gasps of press freedom in Vladimir Putin’s Russia in real time, docmaker Julia Loktev somehow manages to raise the stakes in the film’s arresting sequel. Premiering out of competition in the Venice Open strand [ ]
+Both well-established and up-and-coming Swiss filmmakers are taking part in the Venice Film Festival’s Production Bridge industry strand, where Switzerland will be one of the country’s in focus at the Gap-Financing Market. Seven Swiss projects and co-productions are among the total of 38 fiction and documentary works featured in the Venice Production Bridge’s Gap-Financing Market [ ]
 
 ## The Hollywood Reporter
+
+### Gallagher Brothers Skip Venice Press Conference for Concert Doc
+Sat, 05 Sep 2026 13:26:35 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gallaghers-skip-venice-press-conference-for-documentary-1236691644/
+
+'Oasis: Don't Look Back in Anger' captures the brothers’ blockbuster Oasis Live ’25 reunion tour, their first live performances after their infamous falling out back in 2009.
+
+### Robert Pattinson on Chris Hansen s Objections to Primetime : I Hope He Likes the Movie
+Sat, 05 Sep 2026 12:05:26 +0000 — https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-primetime-movie-to-catch-a-predator-1236690719/
+
+The actor touched down on the Lido this weekend for the Venice Film Festival world premiere of Lance Oppenheim's film, in which he stars as 'To Catch a Predator' host Chris Hansen.
+
+### Where to Watch the 2026 F1 Italian Grand Prix at Monza
+Sat, 05 Sep 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-f1-italian-grand-prix-monza-2026-streaming-free-usa-1236691401/
+
+How to livestream the action at Italy's iconic high speed circuit.
+
+### Maggie Gyllenhaal Was Asked to Use AI to Recreate Marilyn Monroe. But it Flopped Compared to Dakota Johnson
+Sat, 05 Sep 2026 11:51:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/maggie-gyllenhaal-ai-marilyn-monroe-film-dakota-johnson-1236691657/
+
+The Venice Film Festival jury president said her AI experiment "fundamentally did not work. All the reasons we decided to make this project to begin with were killed off in the AI version."
 
 ### Kate and Rooney Mara Talk Bucking Fastard, Synchronized Sisterhood and Werner Herzog Life Lessons: He Doesn t Give a S***
 Sat, 05 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/werner-herzog-kate-rooney-mara-talk-bucking-fastard-venice-1236690551/
@@ -84,27 +104,17 @@ Sat, 05 Sep 2026 02:30:00 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Also featuring Caitríona Balfe, Kit Connor and D’Pharaoh Woon-A-Tai, the film — adapted from Colm Tóibín's novella — measures the after-effects of a disappearance in the Rocky Mountains in the 1950s.
 
-### Tender Loving Care Review: Kate O Flynn Lights Up Mike Leigh s Warm, Gently Wrenching Study of Solace and Solidarity
-Sat, 05 Sep 2026 01:47:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/tender-loving-care-review-mike-leigh-kate-oflynn-1236690339/
-
-The 'Widow's Bay' star plays a London social worker in the English writer-director's Telluride-bowing film, co-starring Alice Bailey Johnson, Marion Bailey and Paul Jesson.
-
-### Tupac’s Murderer Claims He’s Innocent: “I’m Not No F***ing Killer” (Exclusive Interview)
-Sat, 05 Sep 2026 00:43:05 +0000 — https://www.hollywoodreporter.com/music/music-news/tupac-duane-keffe-d-davis-claims-innocent-exclusive-interview-1236691414/
-
-Our man in Vegas sat down with convicted Tupac Shakur slayer Duane "Keffe D" Davis, who tells THR that he isn't the least bit worried about spending the rest of his natural life in prison. "I'm a good man. I'm a good person."
-
-### The Gentlemen Star Theo James Is Ready to Talk About That Bloody Season 2 Ending
-Sat, 05 Sep 2026 00:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-gentlemen-season-2-finale-theo-james-interview-1236691153/
-
-The star and co-executive producer talks with The Hollywood Reporter about his and Guy Ritchie's deeper and darker second season, how that finale sets up season three — and the rumored casting of the real-life Duchess of Sussex: "It's fascinating how [those reports] exploded that much, and how intrigued people are.
-
-### Adults Star Malik Elassal on the Scene That Took Him 40 Takes and That Surprise Finale Hookup
-Fri, 04 Sep 2026 22:09:45 +0000 — https://www.hollywoodreporter.com/tv/tv-features/malik-elassal-adults-season-two-interview-1236684764/
-
-The actor and comedian dishes on coming back for season two of the Gen Z comedy, including the hardest scene to film: "I cannot convey to you how hard every single person was laughing on that day."
-
 ## Deadline
+
+### Broadway Fall Preview: The Stars Rise In New York This Autumn As Julia Louis-Dreyfus, Billy Crystal, Bradley Whitford, Raúl Esparza, Tom Hiddleston More Take The Stage
+Sat, 05 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/broadway-fall-preview-2026-1237067438/
+
+Although the recently opened Paranormal Activity offered up a fine and spooky soft launch for Broadway s 2026 Fall Season, the usual autumn crunch of new productions is still some weeks off. But no point in waiting until the last minute to make your own plans and choices: A slew of intriguing shows are heading New [ ]
+
+### Robert Pattinson Addresses Chris Hansen’s Criticism Of ‘Primetime’: I Hope It s Some Kind Of Compliment
+Sat, 05 Sep 2026 12:15:28 +0000 — https://deadline.com/2026/09/robert-pattinson-chris-hansen-criticism-compliment-1237068840/
+
+Robert Pattinson says he hopes Chris Hansen will come to see Lance Oppenheim’s thriller Primetime, inspired by the TV host and his show To Catch a Predator series, as a compliment. “I would hope in some ways, like the amount of inspiration that his character has given so many people who are involved in this film [ ]
 
 ### Lee Chang-dong On His Eight-Year Hiatus Confident Return With Venice Competition Title ‘Possible Love’
 Sat, 05 Sep 2026 07:21:10 +0000 — https://deadline.com/2026/09/lee-chang-dong-possible-love-venice-netflix-1237067951/
@@ -139,7 +149,7 @@ Fresh from the Venice Film Festival where he unveiled Ink, director Danny Boyle 
 ### Ben McKenzie Would Be Up For A Revival Of The O.C. : It Was A Great Show
 Sat, 05 Sep 2026 02:47:12 +0000 — https://deadline.com/2026/09/ben-mckenzie-up-for-revival-the-oc-1237068781/
 
-California, here we come again. Ben McKenzie has addressed a potential return to The O.C., nearly 20 years after the show ended. The actor, who starred as Ryan Atwood for the Fox teen drama s four-season run from 2003 to 2007, recently commented on whether the hit show could get the reboot treatment. I don t know [ ]
+California, here we come again, maybe. Ben McKenzie has addressed a potential return to The O.C., nearly 20 years after the show ended. The actor, who starred as Ryan Atwood for the Fox teen drama s four-season run from 2003 to 2007, recently commented on whether the hit show could get the reboot treatment. I don t [ ]
 
 ### Sandra Bullock Teases Practical Magic 3 Could Happen, Wants To Pass The Torch
 Sat, 05 Sep 2026 02:04:57 +0000 — https://deadline.com/2026/09/sandra-bullock-teases-practical-magic-3-could-happen-1237068776/
@@ -155,14 +165,4 @@ Republicans have landed a legal victory over campaign TV ad pricing ahead of the
 Sat, 05 Sep 2026 01:47:00 +0000 — https://deadline.com/2026/09/tender-loving-care-review-kate-oflynn-mike-leigh-telluride-1237068530/
 
 There has been much talk in film circles that the great Mike Leigh s latest film, Tender Loving Care, might be his last. Health issues, general aging and other things can get in the way for all of us, but if this turns out to be his finale, at least in terms of feature films [ ]
-
-### Kenneth Branagh Hosts Judi Dench, Anthony Hopkins, Ian McKellen, Gary Oldman Helen Mirren In Telluride-Bound Doc ‘Into The Breach’
-Sat, 05 Sep 2026 01:28:46 +0000 — https://deadline.com/2026/09/into-the-breach-kenneth-branagh-judi-dench-anthony-hopkins-1237068669/
-
-Judi Dench tells firsthand how stage stars such as Richard Burton, John Neville and later Anthony Hopkins, were the rock stars of the theater in the postwar years in the UK. The likes of Burton and Neville, in particular, were treated like gods. “That was before the Beatles, Dame Judi remarks in Into the Breach, the enthralling documentary [ ]
-
-### Below Deck Maroons Nathan Gallagher After He Skips Domestic Violence Court Date
-Sat, 05 Sep 2026 01:18:48 +0000 — https://deadline.com/2026/09/below-deck-maroons-nathan-gallagher-skips-court-date-1237068759/
-
-Bravo has fired Below Deck s Nathan Gallagher after the Akira One crew member skipped out on his court date for domestic violence allegations. On Friday, the network said in a statement that it does not plan on working with Nathan in the future after the New South Wales Police Force issued an arrest warrant for [ ]
 

@@ -1,6 +1,31 @@
-# Manga — harvested 2026-09-05T08:35:15.636Z
+# Manga — harvested 2026-09-05T13:32:23.392Z
 
 ## Anime News Network
+
+### Boichi's The Marshal King Manga Resumes
+Sat, 05 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/boichi-the-marshal-king-manga-resumes/.241424
+
+Manga went on hiatus in December
+
+### New Detective Conan Anime Special Lets Fans Deduce Culprit
+Sat, 05 Sep 2026 08:59:18 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/new-detective-conan-anime-special-lets-fans-deduce-culprit/.241434
+
+Also: Separate 2-hour 30th anniversary special to air on September 25
+
+### Tomb Raider King ‒ Episode 9
+Sat, 05 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/tomb-raider-king/episode-9/.241421
+
+Jooheon is so out of his depth for once that he has to jump into the water and take a risky swim to try and save Irene without all of his equipment handy.
+
+### Ha-young Exits Live-Action Trauma Code: Heroes on Call Season 2 Series
+Sat, 05 Sep 2026 07:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/ha-young-exits-live-action-trauma-code-heroes-on-call-season-2-series/.241349
+
+Actress exits sequel after controversy surrounding her late great-grandfather
+
+### Webtoon-Based Short-Form Live-Action Series My Father's Table Set for September 9 Theatrical Release
+Sat, 05 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/webtoon-based-short-form-live-action-series-my-father-table-set-for-september-9-theatrical-release/.241363
+
+Series follows family whose dynamics shift after mother is no longer able to cook
 
 ### Romelia War Chronicle TV Anime Reveals 14 More Cast Members
 Sat, 05 Sep 2026 00:58:07 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/romelia-war-chronicle-tv-anime-reveals-14-more-cast-members/.241423
@@ -36,31 +61,6 @@ It seems we’ll only get to the worthwhile part of the story as the season ends
 Fri, 04 Sep 2026 18:30:00 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-9/.241383
 
 With every passing episode, I love these dumb little lovebirds more and more, and I desperately hope this season ends with Sasaki and Tayama/Yamada at least dating.
-
-### Young Ladies Don't Play Fighting Games ‒ Episode 9
-Fri, 04 Sep 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-9/.241382
-
-I wonder what the process is like for getting all the game footage episode by episode?
-
-### North American Anime, Manga Releases, August 30-September 5
-Fri, 04 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/north-american-anime-manga-releases-august-30-september-5/.241170
-
-<cite>Black Butler: Emerald Witch Arc, Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion</cite> anime; <cite>How to Grill Our Love, Luna Knight</cite> manga ship
-
-### The Shy Snow Woman and the Cursed Ring TV Anime Reveals Early Streaming on September 11 on OceanVeil, Promo Video, Opening Theme Song
-Fri, 04 Sep 2026 16:57:28 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/the-shy-snow-woman-and-the-cursed-ring-tv-anime-reveals-early-streaming-on-september-11-on-/.241386
-
-NSFW visual unveiled
-
-### Chainsmoker Cat ‒ Episode 9
-Fri, 04 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/chainsmoker-cat/episode-9/.241342
-
-“What's in the box?” we whisper, trembling, as our hands grasp blindly for the wrists of our loved ones, clenching so hard that our knuckles go white. “What's in the box? <i>What is in the box?</i>”
-
-### I Want to Love You Till Your Dying Day ‒ Episode 9
-Fri, 04 Sep 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-9/.241366
-
-Now it's time for the show to finally focus on the actual main characters.
 
 ## Crunchyroll News
 
