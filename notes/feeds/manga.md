@@ -1,66 +1,66 @@
-# Manga — harvested 2026-09-04T19:08:05.478Z
+# Manga — harvested 2026-09-05T08:35:15.636Z
 
 ## Anime News Network
 
-### Your Anime Rankings - Best of Summer 2026, Aug 26-Sep 1
-Fri, 04 Sep 2026 14:55:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.241380
+### Romelia War Chronicle TV Anime Reveals 14 More Cast Members
+Sat, 05 Sep 2026 00:58:07 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/romelia-war-chronicle-tv-anime-reveals-14-more-cast-members/.241423
 
-The weekly trajectory of <cite>My Stepmother and Stepsisters Aren't Wicked</cite> has been stunning; can it carry that momentum into the cumulative standings? Discover what else is moving in the rankings.
+Hiromichi Tezuka, Tomohiro Yamaguchi, more join cast for October anime
 
-### The Grimm Reapress and the Drearytale Monster Game Heads West
-Fri, 04 Sep 2026 12:37:46 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/the-grimm-reapress-and-the-drearytale-monster-game-heads-west/.241381
+### Toei Animation Confirms No License for French Dragon Ball Theme Park
+Fri, 04 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-04/toei-animation-confirms-no-license-for-french-dragon-ball-theme-park/.241376
 
-Trailer reveals 2027 release for Switch 2, Switch, PS5, PC
+French President Emmanuel Macron announced 6 billion euro theme park project on August 25
 
-### Tokyo Anime Awards Festival Ends
-Fri, 04 Sep 2026 12:12:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/tokyo-anime-awards-festival-ends/.241377
+### 'Yowaki MAX Reijō nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta' Anime Reveals Theme Song Artist, October 4 Debut
+Fri, 04 Sep 2026 23:49:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/yowaki-max-reijo-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta-anime-reveals-theme-song-/.241422
 
-TAAF 2026 took place from March 13-16
+Haruka Shiraishi, Shōgo Sakata, Shōya Ishige join cast
 
-### Super Psychic Policeman Chojo Volume 1-3 Manga Review
-Fri, 04 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/super-psychic-policeman-chojo-volume-1-3/manga/.240936
+### New Kochikame Anime Reveals Main Cast, Staff, 2027 Debut in Video
+Fri, 04 Sep 2026 23:28:04 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/new-kochikame-anime-reveals-main-cast-staff-2027-debut-in-video/.241412
 
-A gag manga's biggest nemesis is a stale premise.
+Fukushi Ochiai, M.A.O, more star in series celebrating manga's 50th anniversary
 
-### New Votoms Anime Films Reveal Cast
-Fri, 04 Sep 2026 11:45:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/new-votoms-anime-films-reveal-cast/.241379
+### Build Your World with New Lego PlayStation
+Fri, 04 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-04/build-your-world-with-new-lego-playstation/.241373
 
-Films cast Shinichirō Miki, Yūki Kaji, Yūichi Nakamura, Satoshi Tsuruoka, Tomokazu Sugita, more
+Comes with 1 controller, <i>Gran Torismo</i> & <i>Ape Escape</i> dioramas. Power pack not included.
 
-### This Week in Games - Fate/Phantasy
-Fri, 04 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-09-04/fate-phantasy/.240949
+### Thunder 3 ‒ Episode 9
+Fri, 04 Sep 2026 19:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-9/.241384
 
-You can't make me cry, I'm a Sega fan.
+It seems we’ll only get to the worthwhile part of the story as the season ends.
 
-### Hellbound Artist Kyoo-seok Choi Teams Up With MEEN for New Webtoon Crocodile
-Fri, 04 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/hellbound-artist-kyoo-seok-choi-teams-up-with-meen-for-new-webtoon-crocodile/.241351
+### Smoking Behind the Supermarket with You ‒ Episode 9
+Fri, 04 Sep 2026 18:30:00 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-9/.241383
 
-New series set in Busan explores revenge, redemption, meaning of life as In-hoo confronts family of his former victim
+With every passing episode, I love these dumb little lovebirds more and more, and I desperately hope this season ends with Sasaki and Tayama/Yamada at least dating.
 
-### Dancing Through History with The World is Dancing Director Toshimasa Kuroyanagi, Producer Kan Mizoguchi
-Fri, 04 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-09-04/dancing-through-history-with-the-world-is-dancing-director-toshimasa-kuroyanagi-producer-kan-/.239464
+### Young Ladies Don't Play Fighting Games ‒ Episode 9
+Fri, 04 Sep 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-9/.241382
 
-We sat down with the two creatives to discuss the series, from its historical roots in the Muromachi era to brushstrokes seen on every episode title card.
+I wonder what the process is like for getting all the game footage episode by episode?
 
-### WEBTOON's Parent Company Naver Invests in Emmy-Winning Animation Studio Baobab Studios
-Fri, 04 Sep 2026 08:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/webtoon-parent-company-naver-invests-in-emmy-winning-animation-studio-baobab-studios/.241353
+### North American Anime, Manga Releases, August 30-September 5
+Fri, 04 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/north-american-anime-manga-releases-august-30-september-5/.241170
 
-Partnership brings WEBTOON, Baobab together for original fantasy adventure webcomic created by filmmaker Erick Oh, webtoon creator Madeleine Rosca
+<cite>Black Butler: Emerald Witch Arc, Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion</cite> anime; <cite>How to Grill Our Love, Luna Knight</cite> manga ship
 
-### Webtoon-Based Animated Film Guardians of the Video Game to Open in October in Korea
-Fri, 04 Sep 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/webtoon-based-animated-film-guardians-of-the-video-game-to-open-in-october-in-korea/.241357
+### The Shy Snow Woman and the Cursed Ring TV Anime Reveals Early Streaming on September 11 on OceanVeil, Promo Video, Opening Theme Song
+Fri, 04 Sep 2026 16:57:28 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/the-shy-snow-woman-and-the-cursed-ring-tv-anime-reveals-early-streaming-on-september-11-on-/.241386
 
-Film follows ace agent responsible for setting up worlds inside video games
+NSFW visual unveiled
 
-### The Elusive Samurai Anime's 2nd Season Casts Niina Hanamiya
-Fri, 04 Sep 2026 07:55:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/the-elusive-samurai-anime-2nd-season-casts-niina-hanamiya/.241378
+### Chainsmoker Cat ‒ Episode 9
+Fri, 04 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/chainsmoker-cat/episode-9/.241342
 
-Hanamiya voices Mima in ongoing series
+“What's in the box?” we whisper, trembling, as our hands grasp blindly for the wrists of our loved ones, clenching so hard that our knuckles go white. “What's in the box? <i>What is in the box?</i>”
 
-### My Girlfriend's Friend TV Anime Reveals More Cast, October 4 Debut in Video
-Fri, 04 Sep 2026 07:39:30 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/my-girlfriend-friend-tv-anime-reveals-more-cast-october-4-debut-in-video/.241375
+### I Want to Love You Till Your Dying Day ‒ Episode 9
+Fri, 04 Sep 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-9/.241366
 
-Airots, Ceui perform themes for series
+Now it's time for the show to finally focus on the actual main characters.
 
 ## Crunchyroll News
 

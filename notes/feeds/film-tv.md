@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-09-04T19:08:05.478Z
+# Film & TV — harvested 2026-09-05T08:35:15.636Z
 
 ## Variety
 
-### How to Stream F1 s Monza Grand Prix Live Online
-Fri, 04 Sep 2026 19:03:35 +0000 — https://variety.com/2026/shopping/news/how-to-stream-f1-monza-italy-grand-prix-live-online-1236851951/
+### Rubaiyat Hossain on Bodies, Beauty and Venice, Toronto and London-Bound The Difficult Bride, Clip Unveiled (EXCLUSIVE)
+Sat, 05 Sep 2026 07:57:49 +0000 — https://variety.com/2026/film/festivals/rubaiyat-hossain-difficult-bride-1236851501/
 
-Formula 1 heads to one of its most storied tracks this weekend, as the Italian Grand Prix takes over the Autodromo Nazionale Monza. The 2026 Italian Grand Prix takes place Sunday, Sept. 6, with the race starting at 9 a.m. ET/6 a.m. PT. Apple TV s race-day coverage begins at 7:50 a.m. ET. Practice sessions began [ ]
+The idea for The Difficult Bride traces back to a story Rubaiyat Hossain heard as a 7 year old, visiting a Dhaka beauty parlor with her mother. There was a bride who died there, Hossain says. Everyone knew this story from our generation, and I remember being seven, and even at that time, I had [ ]
 
-### Criminal Lawsuit: Showrunner Ed Brubaker Sued by Production Assistant Claiming Sexual, Racial Harassment on Set of Amazon MGM Series
-Fri, 04 Sep 2026 18:47:54 +0000 — https://variety.com/2026/tv/news/criminal-lawsuit-assistant-sues-ed-brubaker-sexual-harassment-1236851708/
+### Mad Solutions and Haitham Dabbour s Irth Platform Announce Strategic Pan-Arab Content Partnership in Venice
+Sat, 05 Sep 2026 06:07:02 +0000 — https://variety.com/2026/film/festivals/mad-solutions-haitham-dabbours-irth-pan-arab-partnership-1236852377/
 
-A former production assistant on Amazon’s upcoming comic book crime drama “Criminal” has filed a lawsuit against the showrunner and studios involved, alleging a hostile work environment that included racial and sexual harassment. The production assistant, Ijaaz Noohu, is seeking unspecified damages from showrunner Ed Brubaker, Amazon MGM Studios and Big Indie Pictures, citing religious [ ]
+Pan-Arab distributor Mad Solutions and Egyptian multihyphenate Haitham Dabbour s Irth platform dedicated to supporting standout writers across the Arab world announced a strategic partnership on Saturday at the Venice Film Festival that aims to boost quality content output from the region. Under the pact, Mad Solutions and Irth will jointly develop, package and support film, television and [ ]
 
-### Maria Bartiromo vs. Fox News: The Anchor s Pivot Between MAGA Politics and Wall Street Likely Spurred Fallout
-Fri, 04 Sep 2026 18:35:00 +0000 — https://variety.com/2026/tv/news/maria-bartiromo-fox-news-pivot-politics-wall-street-fallout-1236851569/
+### Lav Diaz Preps False Prophets Film and Jose Rizal s Noli Me Tangere Adaptation, Unpacks Venice Title Let Us Through, Dear Ancestors (EXCLUSIVE)
+Sat, 05 Sep 2026 05:35:00 +0000 — https://variety.com/2026/film/festivals/lav-diaz-venice-film-ancestors-new-projects-1236851519/
 
-Maria Bartiromo was brought to Fox to cover the ins and outs of Wall Street, and make the company a bigger presence in the world of business-news cable. But her growing interest in punditry and opinion left Fox increasingly uncovered before the law. And that constant back-and-forth likely caused something of which a financial reporter [ ]
+Lav Diaz is developing a film about false prophets and a screen adaptation of José Rizal s Noli Me Tangere, the Filipino auteur reveals, alongside details on Let Us Through, Dear Ancestors ( Makikiraan Po ), his Spanish colonization drama premiering in the Venice Open section of the Venice Film Festival. Diaz tells Variety, Right now, I m working [ ]
 
-### Wheel of Fortune Announcer Jim Thornton Allegedly Visited Pedophilia Chatroom, Leading to Suspension
-Fri, 04 Sep 2026 17:42:59 +0000 — https://variety.com/2026/tv/news/wheel-of-fortune-jim-thornton-pedophilia-chatroom-suspension-1236851017/
+### As Swiss Films Expand International Reach, English-language Works Are on the Rise
+Sat, 05 Sep 2026 05:15:00 +0000 — https://variety.com/2026/film/global/swiss-films-venice-film-festival-late-shift-petra-volpe-1236838164/
 
-More details regarding the suspension of “Wheel of Fortune” announcer Jim Thornton are emerging: According to TMZ, the website has received photos from an American Airlines passenger who says they saw Thornton s laptop opened on a “disturbing chat room” that appeared to be “images and texts that made it appear it was a chat room [ ]
+Swiss cinema is resonating domestically and abroad as homegrown films and international co-productions continue to entice local audiences and festival goers around the globe. At Venice this year, Swiss titles and co-productions boasting high-profile talent unspool throughout the festival. Switzerland is also a country of focus at the Venice Production Bridge industry strand with seven [ ]
 
-### Mellody Hobson Tears Up Talking About Why Husband George Lucas Was Unwilling to Compromise on Lucas Museum of Narrative Art: ‘I Saw Genius Work’
-Fri, 04 Sep 2026 17:42:32 +0000 — https://variety.com/2026/film/columns/mellody-hobson-tears-up-husband-george-lucas-lucas-museum-1236851810/
+### Elsinore Review: Andrew Scott Is Powerfully Moving as Ian Charleson, the Chariots of Fire Star Who Played Hamlet While Ravaged by AIDS
+Sat, 05 Sep 2026 05:00:33 +0000 — https://variety.com/2026/film/reviews/elsinore-review-andrew-scott-1236852070/
 
-Mellody Hobson delivered emotional remarks about her husband George Lucas as the two hosted a “friends and family” preview on Thursday night at the Lucas Museum of Narrative Art in Los Angeles. “I watched George up close,” Hobson said, explaining that she missed the earlier part of his career (the couple began dating in 2006 [ ]
+The tender power of "Elsinore" is the way Scott’s performance takes us right inside Ian’s state-of-mind — his belief that what’s left of his life needs to mean something, and that playing Hamlet will give it that meaning.
 
-### Dolly Parton Gets New Hollywood Walk of Fame Star After Original Was Vandalized Following Her Death
-Fri, 04 Sep 2026 17:37:27 +0000 — https://variety.com/2026/music/news/dolly-parton-new-hollywood-walk-of-fame-star-1236851794/
+### Spain s Impulse Cinema and Italy s Fandango Forge Strategic Partnership to Boost Co-Production and Sales Opportunities (EXCLUSIVE)
+Sat, 05 Sep 2026 05:00:00 +0000 — https://variety.com/2026/film/global/impulse-cinema-fandango-partnership-production-1236851343/
 
-Dolly Parton s star on the Hollywood Walk of Fame has been replaced after the original one was vandalized following the country superstar s death. Parton died of cancer on Aug. 25 at age 80. The star, which Parton received in 1984, is located at 6712 Hollywood Boulevard, and already had a crack along it before it was [ ]
+Spanish indie studio Impulse Cinema and Italy’s Fandango have forged a strategic partnership to boost Spanish and Italian productions through co-production, financing, distribution and global sales. The agreement was announced on Saturday at the Venice Production Bridge, the Venice Film Festival s market focused on film production. Impulse Cinema, which is headed by Andrés Sánchez Pajares [ ]
 
-### Alix Earle Rips Into Toxic Alex Cooper in Fiery Statement on Feud: The Way You Approach Business Is Disgusting. You Choose Money Over Morals
-Fri, 04 Sep 2026 17:25:41 +0000 — https://variety.com/2026/digital/news/alix-earle-alex-cooper-feud-responds-1236851855/
+### The Echo Chamber Starring Alicia Vikander Seals International Distribution Deals Ahead of Venice Premiere (EXCLUSIVE)
+Sat, 05 Sep 2026 05:00:00 +0000 — https://variety.com/2026/film/global/echo-chamber-alicia-vikander-international-sales-1236851681/
 
-Alix Earle has publicly commented on her feud with Call Her Daddy host Alex Cooper for the first time in the season finale of her new TV show “Earle Meets World.” Earle first began working with Cooper in 2023, launching her podcast “Hot Mess” under Cooper’s media network, Unwell. Cooper’s network dropped Earle’s podcast just [ ]
+“The Echo Chamber,” Andrea Pallaoro’s drama starring Alicia Vikander, Luca Marinelli and Susan Sarandon, has already landed distribution across a raft of key international territories ahead of its world premiere at the Venice Film Festival. Paradise City Sales has closed deals for Spain with Vertice360; Australia and New Zealand with Umbrella; Poland with Gutek; Czech [ ]
 
-### Producers United Joins Bipartisan Push for Federal Film and Television Production Tax Incentive
-Fri, 04 Sep 2026 17:23:57 +0000 — https://variety.com/2026/film/news/producers-united-pushes-federal-tax-incentive-1236851843/
+### Impact of War in Iran Set to Feature in Two Venice Film Festival Dramas
+Sat, 05 Sep 2026 04:55:00 +0000 — https://variety.com/2026/film/global/war-in-iran-venice-film-festival-1236844960/
 
-Producers United is joining groups like the MPA and DGA to urge the nation’s lawmakers to back the proposed federal tax incentive for film and television production to “protect American workers and foster sustainable careers.” The coalition of film and television producers released its statement at the start of Labor Day weekend, which “recognizes the [ ]
+With war still ravaging Iran — six months after the country was attacked by U.S. and Israeli forces — the Venice Film Festival is set to launch two Iranian films that will provide viewers vivid on-the-ground insight on the conflict’s societal impact as the country contends with bombs and its repressive regime. Ali Asgari, who [ ]
 
-### Onslaught Director Adam Wingard on Adding Kink to His Movie, Why the Bad Guys Look Like ICE Agents and Spending A Decade Slaving Away in the Studio System Making Godzilla
-Fri, 04 Sep 2026 17:15:00 +0000 — https://variety.com/2026/film/features/onslaught-director-kink-ice-agents-making-godzilla-1236840618/
+### ‘The Idiot(s)’ Review: Dostoevsky Is an Endearing Drunken Fool in This Rambunctious, Tonally Off-Kilter Two-Hander
+Sat, 05 Sep 2026 04:30:00 +0000 — https://variety.com/2026/film/news/the-idiots-review-1236848694/
 
-Adam Wingard s new movie “Onslaught,” in theaters Friday via A24, is an 80s-inspired action thriller in which a combat veteran (Adria Arjona) has to save her daughter (Blake Kennedy) when their trailer park is attacked by a trio of government-enhanced super soldiers. It s a lean, mean throwback to the golden age of Cannon Films mayhem, [ ]
+As biographical films on major historical figures go, “The Idiot(s)” starts off with an advantage over most, since it covers only a finite, conflict-laden passage of its subject’s storied life. This enjoyably off-kilter dramedy then further ingratiates itself with viewers bored of traditionalist hagiographies, because it also functions as a biting exercise in separating the [ ]
 
-### Music Industry Moves: Wilson Pickett Estate Sells Publishing Catalog, Other Rights to Primary Wave
-Fri, 04 Sep 2026 17:15:00 +0000 — https://variety.com/2026/music/news/yoshiki-signs-with-bmg-1236847324/
+### Venice: My Undesirable Friends Director on Epic Documentary About Death of Press Freedom in Russia, How Putin s Crackdown Is Warning for U.S.
+Sat, 05 Sep 2026 04:05:00 +0000 — https://variety.com/2026/film/global/venice-my-undesirable-friends-documentary-press-freedom-russia-1236849120/
 
-The estate of legendary soul singer Wilson Pickett has struck a partnership with powerhouse Primary Wave Music that will see the two parties work together to promote the Rock and Roll Hall of Famer’s music publishing catalog, as well as share in his name, image, and likeness rights. Their efforts will include new marketing, branding, [ ]
+If her epic, Oscar-shortlisted documentary “My Undesirable Friends: Part 1 — Last Air In Moscow” pulled off an astonishing feat, chronicling the last gasps of press freedom in Vladimir Putin’s Russia in real time, docmaker Julia Loktev somehow manages to raise the stakes in the film’s arresting sequel. Premiering out of competition in the Venice Open strand [ ]
 
 ## The Hollywood Reporter
 
-### ‘The Basics of Philosophy’ Review: Paul Schrader Does Some Deep — and Discomfiting — Thinking About a College Professor’s Guilt
-Fri, 04 Sep 2026 19:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-basics-of-philosophy-review-paul-schrader-jack-huston-1236690730/
+### Kate and Rooney Mara Talk Bucking Fastard, Synchronized Sisterhood and Werner Herzog Life Lessons: He Doesn t Give a S***
+Sat, 05 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/werner-herzog-kate-rooney-mara-talk-bucking-fastard-venice-1236690551/
 
-Jack Huston, Sofia Boutella, and Daniel Zavatto star in the octogenarian’s new feature, a morally complex study of past sin affecting present life.
+The real-life sisters play Irish siblings who speak, love and dream in unison in the new drama from the director of 'Grizzly Man' and 'Fritzcaraldo,' which premiered in competition in Venice.
 
-### ‘Furies’ Review: A Breathtaking Beirut-Set Heist Drama Pits Fearless Sisters Against a Rotten System
-Fri, 04 Sep 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/furies-review-lebanon-rami-kodeih-1236687379/
+### Telluride Awards Analysis: Andrew Scott Leaps Into Top Tier of Best Actor Oscar Race for Elsinore
+Sat, 05 Sep 2026 07:21:36 +0000 — https://www.hollywoodreporter.com/movies/movie-news/telluride-awards-analysis-andrew-scott-leaps-into-top-tier-of-best-actor-oscar-race-for-elsinore-1236691600/
 
-The debut feature by Lebanese filmmaker Rami Kodeih centers on two siblings determined to reclaim their savings after a corruption-fueled economic crisis freezes bank deposits.
+Never has an out gay actor or actress won an Oscar. Scott could become the first.
 
-### Sandra Bullock and Nicole Kidman Debut Practical Magic 2, Ryan Reynolds Premieres Mayday and This Week s Best Events
-Fri, 04 Sep 2026 18:37:08 +0000 — https://www.hollywoodreporter.com/gallery/practical-magic-2-mayday-red-carpet-events-1236685392/
+### Elsinore Review: Andrew Scott Is Shattering as British Actor Ian Charleson, Throwing Himself Into Playing Hamlet While Succumbing to AIDS
+Sat, 05 Sep 2026 05:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/elsinore-review-andrew-scott-ian-charleson-olivia-colman-1236690579/
 
-Inside this week's biggest Hollywood premieres, parties and openings.
+Simon Stone’s drama about the sustaining power of art is a time capsule of late 1980s London, also starring Olivia Colman, Billie Piper and Johnny Flynn.
 
-### Barbara Forever Review: Queer Experimental Filmmaker Barbara Hammer Gets a Tactile, True and Treasurable Career Overview
-Fri, 04 Sep 2026 18:33:46 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/barbara-forever-barbara-hammer-documentary-1236690826/
+### The Idiot(s) Review: Aimee Lou Wood and Johnny Flynn Sparkle in a Playful, Indulgent Tribute to Fyodor Dostoevsky s Underappreciated Wife
+Sat, 05 Sep 2026 04:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-idiots-review-aimee-lou-wood-johnny-flynn-dostoevsky-1236681228/
 
-Director Brydie O’Connor stitches together a huge mass of material in this documentary that counts Kristen Stewart among its executive producers.
+Also starring Vicky Krieps, the Telluride premiere chronicles the couple's tumultuous time in Germany, during which the author penned one of his greatest masterpieces.
 
-### Fan Bingbing Sparks Carnal Desire in Invalid Father-in-Law in Wayne Wang s ‘Diary of a Mad Old Man’ (Exclusive Toronto Clip)
-Fri, 04 Sep 2026 18:25:21 +0000 — https://www.hollywoodreporter.com/movies/movie-news/fan-bingbing-wayne-wang-diary-of-a-mad-old-man-1236690978/
+### Victor Miller, Friday the 13th Screenwriter, Dies at 86
+Sat, 05 Sep 2026 03:33:17 +0000 — https://www.hollywoodreporter.com/movies/movie-news/victor-miller-dead-friday-the-13th-screenwriter-1236691486/
 
-The Asian-American director's erotically-charged drama also stars Lily Franky and will have a gala world premiere at the Toronto Film Festival.
+"He was almost always the smartest, funniest person in whatever room he was in. He inspired in me, and many others, a love of photography, music, and storytelling," his son, Ian, wrote on Instagram.
 
-### CAA s Young Hollywood Party Brings Assistants Together for a Good Cause
-Fri, 04 Sep 2026 18:17:56 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/caa-young-hollywood-party-assistants-good-cause-1236690336/
+### A Long Winter Review: Fred Hechinger and Ebon Moss-Bachrach Shine as Family Thrust Into Uneasy Isolation in Andrew Haigh s Fine-Grained Drama
+Sat, 05 Sep 2026 02:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/a-long-winter-review-fred-hechinger-ebon-moss-bachrach-1236690170/
 
-The event, now in its 22nd year, is put on by assistants on the CAA Task Force in support of nonprofit Communities in School of Los Angeles.
+Also featuring Caitríona Balfe, Kit Connor and D’Pharaoh Woon-A-Tai, the film — adapted from Colm Tóibín's novella — measures the after-effects of a disappearance in the Rocky Mountains in the 1950s.
 
-### Creator of Netflix s Fauda Attacks Mark Ruffalo Over Gaza Genocide Remarks, Citing Aid and Birth Figures
-Fri, 04 Sep 2026 18:05:35 +0000 — https://www.hollywoodreporter.com/news/politics-news/fauda-netflix-mark-ruffalo-gaza-genocide-issacharoff-1236690983/
+### Tender Loving Care Review: Kate O Flynn Lights Up Mike Leigh s Warm, Gently Wrenching Study of Solace and Solidarity
+Sat, 05 Sep 2026 01:47:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/tender-loving-care-review-mike-leigh-kate-oflynn-1236690339/
 
-Avi Issacharoff called the actor a "rare combination" of "stupid" and "ignorant," but the statistics he offered do not resolve a legal question that remains before an international court.
+The 'Widow's Bay' star plays a London social worker in the English writer-director's Telluride-bowing film, co-starring Alice Bailey Johnson, Marion Bailey and Paul Jesson.
 
-### Burgundy Review: The Classic French Vin Rouge Is a Way of Life in Michael Dweck and Gregory Kershaw s Captivating Oenology Doc
-Fri, 04 Sep 2026 17:02:23 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/burgundy-review-michael-dweck-gregory-kershaw-wine-doc-1236690777/
+### Tupac’s Murderer Claims He’s Innocent: “I’m Not No F***ing Killer” (Exclusive Interview)
+Sat, 05 Sep 2026 00:43:05 +0000 — https://www.hollywoodreporter.com/music/music-news/tupac-duane-keffe-d-davis-claims-innocent-exclusive-interview-1236691414/
 
-The directors behind ‘The Truffle Hunters’ and ‘Gaucho Gaucho’ continue their ethnographic exploration of age-old traditions inextricably embedded in the land.
+Our man in Vegas sat down with convicted Tupac Shakur slayer Duane "Keffe D" Davis, who tells THR that he isn't the least bit worried about spending the rest of his natural life in prison. "I'm a good man. I'm a good person."
 
-### Wheel of Fortune Announcer Suspended After Alleged Pedophilia Chatroom Photos
-Fri, 04 Sep 2026 16:47:38 +0000 — https://www.hollywoodreporter.com/tv/tv-news/wheel-of-fortune-announcer-suspended-pedophilia-chatroom-photos-1236690380/
+### The Gentlemen Star Theo James Is Ready to Talk About That Bloody Season 2 Ending
+Sat, 05 Sep 2026 00:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-gentlemen-season-2-finale-theo-james-interview-1236691153/
 
-Sony Pictures Television previously told The Hollywood Reporter that Jim Thornton was suspended pending an investigation into unspecified allegations.
+The star and co-executive producer talks with The Hollywood Reporter about his and Guy Ritchie's deeper and darker second season, how that finale sets up season three — and the rumored casting of the real-life Duchess of Sussex: "It's fascinating how [those reports] exploded that much, and how intrigued people are.
 
-### Byron Allen s Freestyle Releasing Acquires ‘Hello Beautiful’ For Theatrical Release (Exclusive)
-Fri, 04 Sep 2026 16:09:43 +0000 — https://www.hollywoodreporter.com/movies/movie-news/byron-allens-freestyle-releasing-hello-beautiful-1236689496/
+### Adults Star Malik Elassal on the Scene That Took Him 40 Takes and That Surprise Finale Hookup
+Fri, 04 Sep 2026 22:09:45 +0000 — https://www.hollywoodreporter.com/tv/tv-features/malik-elassal-adults-season-two-interview-1236684764/
 
-Director Ziad H. Hamzeh’s inspirational drama based on Christine Handy’s novel ‘Walk Beside Me’ will hit U.S. cinemas on Sept. 25.
+The actor and comedian dishes on coming back for season two of the Gen Z comedy, including the hardest scene to film: "I cannot convey to you how hard every single person was laughing on that day."
 
 ## Deadline
 
-### Lindsay Clancy Mistrial: Jury Deadlock Proves Too Much To Continue Triple-Murder Case, For Now
-Fri, 04 Sep 2026 19:07:16 +0000 — https://deadline.com/2026/09/lindsay-clancy-mistrial-jury-deadlock-1237068327/
+### Lee Chang-dong On His Eight-Year Hiatus Confident Return With Venice Competition Title ‘Possible Love’
+Sat, 05 Sep 2026 07:21:10 +0000 — https://deadline.com/2026/09/lee-chang-dong-possible-love-venice-netflix-1237067951/
 
-After a week of deliberations and deadlock declarations of the Massachusetts jury in Lindsay Clancy s triple-murder case being deadlocked, the judge has declared a mistrial today. Covered live by CNN, Fox News and the BBC, the long-expected move by Plymouth Superior Court Judge William Sullivan to the panel of nine women and three men came [ ]
+Lee Chang-dong has finally returned to feature filmmaking. The Korean filmmaker has been on an extended eight-year hiatus, which he blames on his “pathological timidity.” “Unless I have that conviction, I cannot make myself begin the work, no matter the external circumstances or what others around me say,” he tells Deadline via Zoom from his [ ]
 
-### The Odyssey Sails Past Another Milestone, Crosses $1 Billion At International Box Office
-Fri, 04 Sep 2026 19:04:32 +0000 — https://deadline.com/2026/09/box-office-the-odyssey-billion-foreign-box-office-1237068287/
+### Loco Films Boards Venice Title ‘Guria’ As Drama Is Selected To Be Georgia s Oscar Entry + First Trailer
+Sat, 05 Sep 2026 06:29:44 +0000 — https://deadline.com/2026/09/loco-films-venice-guria-georgian-oscar-trailer-1237068270/
 
-EXCLUSIVE: There s absolutely no need other get these moviegoers out of here. For Universal, they re doing perfectly well, sitting in cinemas and watching Christopher Nolan s The Odyssey. The director s highest grossing movie ever at $1.59 billion worldwide has crossed another milestone, and that s that it has become the 17th movie to surpass $1 billion at [ ]
+EXCLUSIVE: Loco Films has boarded sales on Georgian filmmaker Levan Koguashvili’s drama Guria ahead of its world premiere in the Spotlight section of the Venice Film Festival and unveiled a first trailer. News of the acquisition follows hot on the heels of Georgia’s decision to submit the feature as its entry to the 99th Academy [ ]
 
-### How Indie Comedy ‘The Invite’ Crashed The Summer Blockbuster Party; Is The Next Stop Broadway?
-Fri, 04 Sep 2026 18:30:00 +0000 — https://deadline.com/2026/09/how-the-invite-became-a-summer-hit-1237067336/
+### MAD Solutions IRTH Strike Pan-Arab Development Production Strategic Partnership – Venice
+Sat, 05 Sep 2026 06:00:02 +0000 — https://deadline.com/2026/09/mad-solutions-irth-pan-arab-strategic-partnership-venice-1237068800/
 
-As the curtain closes on an upbeat summer box office, the team behind The Invite has reason to cheer. The indie comedy is a breakout, grossing over $55 million worldwide as of last weekend amid behemoths like The Odyssey and Spider-Man: Brand New Day. Unusually, it s a pretty even split between U.S. and international coin. [ ]
+Cairo-based film and talent group MAD Solutions has announced a strategic partnership with Egyptian author, screenwriter and producer Haitham Dabbour’s pan-Arab drama development and production company IRTH. The partnership will bring their complementary strengths together to develop, package and support film, TV drama and other entertainment projects from across the Arab world for regional and [ ]
 
-### Maria Bartiromo s Fox Exit Self-Inflicted Wound ; Trump Praises True Warrior As Legal Threats Accusations Of Host Sharing Insider Info Fly
-Fri, 04 Sep 2026 18:12:46 +0000 — https://deadline.com/2026/09/maria-bartiromo-fox-exit-trump-reaction-praise-1237068179/
+### Telluride Film Festival 2026: Read All Of Deadline’s Reviews
+Sat, 05 Sep 2026 05:50:00 +0000 — https://deadline.com/2026/09/telluride-film-festival-2026-reviews-deadline-1237068524/
 
-EXCLUSIVE: The coup de grâce that caused Fox to announce this week that Maria Bartiromo would no longer be with the conservative news outlet was a case of very bad judgment and a long time coming, sources say. The assertions come Friday despite Bartiromo s Hollywood attorney Bryan Freedman insisting the veteran Wall Street anchor is [ ]
+The 2026 Telluride kicked off Friday, September 5, in Colorado and runs through Labor Day. The 53rd edition of the fest kicks off with first-day films including seven-time Oscar nominee Mike Leigh’s Tender Loving Care and the Andrew Scott-led Elsinore. See the full lineup here. RELATED: Venice Film Festival 2026: Read All Of Deadline’s Reviews [ ]
 
-### Spider-Man: Brand New Day Crossing $900M U.S. Today, 2nd Pic To Hit Milestone; By Any Means $725K In Previews Box Office
-Fri, 04 Sep 2026 17:50:42 +0000 — https://deadline.com/2026/09/box-office-spider-man-brand-new-day-record-by-any-means-1237068219/
+### Elsinore Review: Andrew Scott Is Heartbreakingly Great As AIDS-Stricken Star Determined To Play Hamlet Telluride Film Festival
+Sat, 05 Sep 2026 05:00:00 +0000 — https://deadline.com/2026/09/elsinore-review-andrew-scott-movie-1237063597/
 
-It s finally happening, and nobody, I mean nobody saw this coming: Sony/Marvel s Spider-Man: Brand New Day is hitting $900 million at the domestic box office Friday, the second movie after to do so after Disney/Lucasfilm s 2015 title Star Wars: The Force Awakens and the fastest-ever to that threshold. All this just as summer s final weekend [ ]
+Scottish-born actor Ian Charleson co-starred in a leading role in the 1981 Oscar-winning Best Picture Chariots of Fire. The next year he had a co-starring role in yet another Best Picture winner, Gandhi. Not bad, but in his heart he was an actor born to the London stage, and as the Hollywood career faded he [ ]
 
-### Oscars: Iraq Submits Venice Title ‘No Paradise If You Are Killed By A Woman’
-Fri, 04 Sep 2026 17:19:53 +0000 — https://deadline.com/2026/09/oscars-iraq-venice-no-paradise-killed-woman-international-1237068226/
+### Danny Boyle’s ‘Ink’ Makes Tabloid Headlines At Telluride
+Sat, 05 Sep 2026 04:11:41 +0000 — https://deadline.com/2026/09/ink-premiere-telluride-danny-boyle-1237068784/
 
-Iraq has selected Norwegian-Kurdish director Halkawt Mustafa’s drama No Paradise If You Are Killed By A Woman as its Best International Feature Film entry to the 99th Academy Awards. News of the choice came ahead of the film’s world premiere Out of Competition at the Venice Film Festival early next week. Avan Jamal stars as [ ]
+Fresh from the Venice Film Festival where he unveiled Ink, director Danny Boyle arrived in Telluride for the North American premiere of his drama about Rupert Murdoch’s launch of the British Tabloid The Sun in 1969. Boyle, looking none the worse for international travel, introduced the film Friday night by noting that some people are [ ]
 
-### Angel Acquires Michael Keaton-Morgan Freeman Western Rode To Ruin , Launches Sales Arm Ahead Of TIFF Market
-Fri, 04 Sep 2026 17:03:41 +0000 — https://deadline.com/2026/09/angel-buys-michael-keaton-morgan-freeman-western-rode-ruin-1237068139/
+### Ben McKenzie Would Be Up For A Revival Of The O.C. : It Was A Great Show
+Sat, 05 Sep 2026 02:47:12 +0000 — https://deadline.com/2026/09/ben-mckenzie-up-for-revival-the-oc-1237068781/
 
-EXCLUSIVE: Angel has picked up worldwide rights to the Michael Keaton-directed Western we revealed this week, Rode To Ruin. Keaton will star with Morgan Freeman in the movie, which Angel will release domestically and is now pre-selling for the TIFF market as the company launches an international sales arm. The movie, which is due to [ ]
+California, here we come again. Ben McKenzie has addressed a potential return to The O.C., nearly 20 years after the show ended. The actor, who starred as Ryan Atwood for the Fox teen drama s four-season run from 2003 to 2007, recently commented on whether the hit show could get the reboot treatment. I don t know [ ]
 
-### James Wolk Joins ABC s Grey s Anatomy For Season 23, Added To AMC s Thunder Road
-Fri, 04 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/james-wolk-cast-greys-anatomy-season-23-seth-thunder-road-1237067676/
+### Sandra Bullock Teases Practical Magic 3 Could Happen, Wants To Pass The Torch
+Sat, 05 Sep 2026 02:04:57 +0000 — https://deadline.com/2026/09/sandra-bullock-teases-practical-magic-3-could-happen-1237068776/
 
-EXCLUSIVE: As Grey s Anatomy fans are adjusting to the show without two longtime characters, Teddy (Kim Raver) and Owen (Kevin McKidd), who left in the Season 22 finale, a new doctor may fill the void at least temporarily. James Wolk has been tapped for a recurring role on the upcoming 23rd season of the [ ]
+With the Owens sisters returning for another magical outing with Practical Magic 2, a trilogy could be in the cards. Sandra Bullock, who reprises her role as Sally Owens when the sequel premieres on Sept. 10, teased that a third movie could happen if the Susanne Bier-helmed followup succeeds at the box-office, noting she d want [ ]
 
-### Mediawan Goodfellas Round 12 Unveils ‘Imane Khelif: Still Fighting Documentary By Lina Soualem Ahead Of TIFF Sales Launch
-Fri, 04 Sep 2026 16:53:13 +0000 — https://deadline.com/2026/09/round-12-imane-khelif-documentary-lina-soualem-1237068132/
+### Republicans Land Supreme Court Victory Over Campaign TV Ad Rates Ahead Of Midterms
+Sat, 05 Sep 2026 01:49:02 +0000 — https://deadline.com/2026/09/republicans-supreme-court-victory-campaign-tv-ad-rates-1237068767/
 
-EXCLUSIVE: Mediawan Goodfellas sport label Round 12 has boarded sales on Imane Khelif: Still Fighting by Lina Soualem, the first documentary about the female Algerian boxer whose victory at the Paris 2024 Olympics sparked a political storm, for a TIFF launch. It will be the third documentary from Algerian compatriot Soualem, who is also French and Palestinian, after award-winning Venice title Bye Bye [ ]
+Republicans have landed a legal victory over campaign TV ad pricing ahead of the midterm elections. On Friday, the Supreme Court granted the GOP an emergency appeal, which is supported by the Trump administration, temporarily halting a lower-court s ruling in favor of Democrats that discounted broadcast ad spots should be limited to candidates, the Associated [ ]
 
-### Maria Bartiromo Insists She Wasn t Fired By Fox News: We Have The Receipts , Attorney Claims
-Fri, 04 Sep 2026 16:39:14 +0000 — https://deadline.com/2026/09/maria-bartiromo-fox-news-fired-attorney-1237068174/
+### Tender Loving Care Review: Kate O Flynn Stars In What Could Be Mike Leigh s Final Film, But It Happens To Be One Of His Best Telluride Film Festival
+Sat, 05 Sep 2026 01:47:00 +0000 — https://deadline.com/2026/09/tender-loving-care-review-kate-oflynn-mike-leigh-telluride-1237068530/
 
-Longtime Fox Business host Maria Bartiromo, through attorney Bryan Freedman, is disputing reports that she has been fired by Fox News Media. For many years, Maria Bartiromo hosted three No. 1 rated television shows on Fox channels. She has been, without question, one of the hardest working journalists throughout her award winning career, Freedman said [ ]
+There has been much talk in film circles that the great Mike Leigh s latest film, Tender Loving Care, might be his last. Health issues, general aging and other things can get in the way for all of us, but if this turns out to be his finale, at least in terms of feature films [ ]
 
-### Silo Boss Graham Yost Breaks Down Season 3 Finale; Teases War Of Season 4 With Key Players More United Than They ve Ever Been
-Fri, 04 Sep 2026 16:30:00 +0000 — https://deadline.com/2026/09/silo-season-3-ending-explained-finale-showrunner-interview-1237065843/
+### Kenneth Branagh Hosts Judi Dench, Anthony Hopkins, Ian McKellen, Gary Oldman Helen Mirren In Telluride-Bound Doc ‘Into The Breach’
+Sat, 05 Sep 2026 01:28:46 +0000 — https://deadline.com/2026/09/into-the-breach-kenneth-branagh-judi-dench-anthony-hopkins-1237068669/
 
-SPOILER ALERT: This post contains spoilers for the Silo Season 3 finale, Episode 10, titled Troy. Graham Yost s suggestion of plitting up one big script into Episodes 9 and 10 of Silo Season 3 caused a rebellion of its own in the writers room for the Apple TV science fiction series adaptation, based on the [ ]
+Judi Dench tells firsthand how stage stars such as Richard Burton, John Neville and later Anthony Hopkins, were the rock stars of the theater in the postwar years in the UK. The likes of Burton and Neville, in particular, were treated like gods. “That was before the Beatles, Dame Judi remarks in Into the Breach, the enthralling documentary [ ]
 
-### Richard O Sullivan Dies: British Sitcom Star Known For Man About House Robin s Nest Was 82
-Fri, 04 Sep 2026 16:09:55 +0000 — https://deadline.com/2026/09/richard-o-sullivan-dead-british-sitcom-star-was-82-1237068120/
+### Below Deck Maroons Nathan Gallagher After He Skips Domestic Violence Court Date
+Sat, 05 Sep 2026 01:18:48 +0000 — https://deadline.com/2026/09/below-deck-maroons-nathan-gallagher-skips-court-date-1237068759/
 
-Richard O Sullivan, the sitcom actor whose lopsided grin entertained British audiences throughout the 1970s, has died aged 82. He passed peacefully surrounded by his close family at Brinsworth House, the Royal Variety Charity’s care home for former entertainers, in Twickenham, London shortly after 6am local time today. The Royal Variety Charity said it was deeply [ ]
+Bravo has fired Below Deck s Nathan Gallagher after the Akira One crew member skipped out on his court date for domestic violence allegations. On Friday, the network said in a statement that it does not plan on working with Nathan in the future after the New South Wales Police Force issued an arrest warrant for [ ]
 

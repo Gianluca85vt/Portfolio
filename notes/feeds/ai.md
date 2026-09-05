@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-04T19:08:05.478Z
+# AI — harvested 2026-09-05T08:35:15.636Z
 
 ## OpenAI
 
@@ -7,34 +7,25 @@ Thu, 03 Sep 2026 13:15:00 GMT — https://openai.com/index/daybreak-for-frontlin
 
 OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.
 
-### Legora reviewed 41 documents in minutes with GPT-6 Astra
-Thu, 03 Sep 2026 12:00:00 GMT — https://openai.com/index/legora-financial-statement-review-with-astra
-
-Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.
-
 ### Playco cut manual fixes 50% prototyping games with GPT-6 Astra
 Thu, 03 Sep 2026 12:00:00 GMT — https://openai.com/index/playco-game-prototyping-with-astra
 
 Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.
 
-### Safety overview: GPT-6 Astra
-Thu, 03 Sep 2026 00:00:00 GMT — https://openai.com/index/safety-overview-gpt-6-astra
+### Legora reviewed 41 documents in minutes with GPT-6 Astra
+Thu, 03 Sep 2026 12:00:00 GMT — https://openai.com/index/legora-financial-statement-review-with-astra
 
-GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.
+Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.
+
+### GPT-6 Astra: A new generation of intelligence
+Thu, 03 Sep 2026 11:00:00 GMT — https://openai.com/index/gpt-6-astra
+
+Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.
 
 ## Hugging Face
 
 ### NeoMME: an efficient Multimodal-native and Multilingual Encoder
 Thu, 03 Sep 2026 13:13:48 GMT — https://huggingface.co/blog/Hcompany/neomme
-
-### Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps
-Thu, 03 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/grpo-with-trl-ifstruct
-
-### Give Your Coding Agents a Memory You Own
-Thu, 03 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/funes
-
-### Training a coding model to paint watercolours with TRL and OpenEnv
-Thu, 03 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/train-to-paint-with-code
 
 ## Google DeepMind
 

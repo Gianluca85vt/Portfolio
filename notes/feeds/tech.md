@@ -1,6 +1,26 @@
-# Tech — harvested 2026-09-04T19:08:05.478Z
+# Tech — harvested 2026-09-05T08:35:15.636Z
 
 ## Ars Technica
+
+### After 8 years, Europe's BepiColombo mission is on final approach to Mercury
+Fri, 04 Sep 2026 22:49:17 +0000 — https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/
+
+The BepiColombo mission cleared a major milestone this week in the final stretch of an eight-year interplanetary voyage to Mercury, the hard-to-reach, scorching hot iron world at the Solar System's innermost frontier. The robotic science mission, with a price tag of nearly $2 billion, is led by the European Space Agency with contributions from Japan and the United States. Since its launch in 2018, BepiColombo has spiraled closer to the Sun using a combination of plasma propulsion and a series of flybys of Earth, Venus, and Mercury. The maneuvers changed the spacecraft's velocity and steered it toward a final encounter with Mercury later this year. Next time it reaches Mercury, BepiColombo will be traveling at just the right speed for the planet's gravity to capture the spacecraft into orbit. Scientists working on interplanetary missions are accustomed to long waits for scientific payoffs. It took nearly 10 years for NASA's New Horizons spacecraft to travel from Earth to Pluto. It turns out traveling to fleet-footed Mercury and then entering orbit requires more energy, or delta-v, than sending a probe to fly by Pluto. Read full article Comments ]]>
+
+### OpenAI agents discussed ways to escape their sandbox on public wiki
+Fri, 04 Sep 2026 22:17:36 +0000 — https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
+
+Self-identifying OpenAI agents posted 18,000 messages to a public wiki that discussed ways for other agents to bypass security sandbox restrictions during what was likely internal testing designed to gauge the agents’ hacking abilities, researchers said Friday . In all, agents with 3,700 distinct self-given names posted the messages to German site DSEwiki over a six-week period. Besides discussing ways the agents could break out of the restricted environment OpenAI intended to prevent them from posting code or content to the Internet, the posts shared test answers. The posts also shared possible ways to perform XSS (cross-site scripting) attacks against the wiki and to impersonate site moderators. In three of the posts, agents used the word “swarm” to describe the collection of agents engaged in the activity. Colluding to share answers The research team—composed of Sydney Von Arx, Spencer Kitts, Thomas Larsen, and Cormac Slade Byrd—said they found the posts and pieced them together. The researchers say there are gaps in their understanding of precisely what actions the agents took because the research is based solely on the content of the posts. Additionally, the agents generated “chain of thought” data that’s understood only by OpenAI. As a result, the researchers said, they in some cases made educated guesses, including that the agents were, in fact, from OpenAI. In a statement, OpenAI later confirmed they were. Read full article Comments ]]>
+
+### Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths
+Fri, 04 Sep 2026 20:22:41 +0000 — https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/
+
+A six-week-old baby girl in Lancaster, Pennsylvania, died from measles, the county coroner confirmed to local press on Friday. Stephen Diamantoni, a Republican elected coroner in 2007, told Lancaster Online that the baby died at home. "I believe it was the 18th of August," he said. He also noted that the baby had a genetic condition called Amish lethal microcephaly , in which babies are born with unusually small heads and underdeveloped brains. The condition is caused by a mutation in the SLC25A19 gene, which codes for a protein involved with energy-producing enzymes in the mitochondria and is thought to be important for brain development. About 1 in 500 babies in the Old Order Amish population of Pennsylvania is born with the condition. Infants with the disorder only survive for about six months. Read full article Comments ]]>
+
+### Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC
+Fri, 04 Sep 2026 19:46:34 +0000 — https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/
+
+The Federal Communications Commission yesterday urged a court to dismiss a Disney lawsuit and let the FCC continue a proceeding that could end in the nonrenewal of ABC's broadcast licenses. Meanwhile, two watchdog groups and individual viewers of ABC stations are trying to intervene in the lawsuit, saying they are worried Disney will agree to a settlement with the FCC that isn't in the public's interest. Disney opposed the motion, and a judge will have to decide whether the groups and individuals can act as intervenors in the case. Disney sued the FCC on August 18, saying the agency is waging a “campaign of censorship” to retaliate against ABC for speech that President Trump doesn't like. As the lawsuit gets underway, Trump continued his attacks on the media last weekend by demanding that the FCC punish or rebuke an NBC journalist for saying he has “mixed results” in his election endorsements. Read full article Comments ]]>
 
 ### Medieval manuscripts are "biological time capsules" for deadly sheeppox virus
 Fri, 04 Sep 2026 19:01:02 +0000 — https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/
@@ -42,27 +62,17 @@ Fri, 04 Sep 2026 15:59:47 +0000 — https://arstechnica.com/tech-policy/2026/09/
 
 On Thursday, Elon Musk’s X won a court order blocking Operation Bluebird from launching a new app taking over the Twitter name . In his opinion , Chief Judge Colm Connolly explained that Operation Bluebird was unlikely to prove that X had entirely abandoned the Twitter name. Therefore, X was likely to succeed on trademark infringement and dilution claims tied to the platform’s former name. Most compellingly, X argued that it still uses the Twitter name in the current listing for the X app in Apple’s App Store. In the first sentence of that listing, written in the same size font as the rest of the text, a single clause clinched the early court win for X by stating, “Welcome to X (formerly known as Twitter).” Read full article Comments ]]>
 
-### Trump White House just tossed a grenade into international space relations
-Fri, 04 Sep 2026 15:46:33 +0000 — https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/
-
-The normally genteel world of international space policy turned ugly this week as several prominent US space companies—including SpaceX, Blue Origin, Stoke Space, K2, and Starcloud—pulled out of a high-profile French space summit organized by the country's president, Emmanuel Macron. Politico first reported the diplomatic turmoil, saying that the White House "pressured" US space companies to skip Macron's space summit in Paris next week. Since then, the companies have largely pulled out of the meeting without commenting publicly, though some US representation remains on the two-day program . Multiple sources confirmed to Ars that an official with the White House Office of Science and Technology Policy, or OSTP, led the call with US space companies late last week. The call was convened in response to queries from US industry about the French meeting, which is not part of the traditional circuit of international space conferences. Read full article Comments ]]>
-
-### Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO
-Fri, 04 Sep 2026 12:48:36 +0000 — https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/
-
-Welcome to Edition 9.09 of the Rocket Report! This edition includes an update from Blue Origin on the groundbreaking of a new Payload Processing Facility in Florida. It has been about a month since the company offered any meaningful news on its heavy-lift New Glenn rocket, which remains grounded after an on-pad explosion at Cape Canaveral Space Force Station in May. The official line from Blue Origin is that the company is targeting a return to flight with New Glenn by the end of the year, but there's good reason for skepticism. As always, we welcome reader submissions . If you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar. Isar Aerospace is ready to try again. Isar Aerospace is about to make the next attempt to launch the Spectrum rocket into orbit, with a weeklong launch window set to open Friday at Andøya Spaceport in Norway, the Norwegian Broadcasting Corporation (NRK) reports . The German launch company aims to deliver several small CubeSats to orbit with the two-stage Spectrum rocket. A test flight of the privately funded launcher failed shortly after liftoff last year, and Isar has attempted to launch the second Spectrum rocket several times since January, only to be thwarted by technical problems and the unavailability of the launch r
-
-### Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+
-Fri, 04 Sep 2026 11:00:05 +0000 — https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/
-
-Smartphone longevity didn't used to matter. In the past, before you could wear out or break a phone, there was always some shiny new thing to buy. Today, we expect our smartphones to go the distance, but they've also become less repairable and, in many cases, more fragile. Fairphone, a Dutch smartphone maker that has just entered the US market, thinks about phones differently. The new $650 Fairphone Gen 6+ is designed both for longevity and easy repairability. There are trade-offs to this approach if you're used to the standard glass and aluminum sandwiches filled with glue, gaskets, and teeny-tiny screws. But the drawbacks could be worth it for the right buyer. Fairphone CTO Chandler Hatton told Ars that Fairphone's goal is to provide a compelling mobile experience while also enabling the user to "fully own" their device. At the end of the day, this is what a lot of people say they want in a smartphone. Take it apart, put it back together These days, Google, Samsung, and Apple support phones with software updates for the better part of a decade, but will the hardware last that long? And what happens when it needs a repair? You may be out of luck or out a lot of money, but Fairphone prioritizes the self-repair experience. Read full article Comments ]]>
-
-### Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them
-Thu, 03 Sep 2026 22:13:50 +0000 — https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/
-
-The Centers for Disease Control and Prevention is still secretly counting two measles deaths that were deleted from the agency's public measles data—a deletion that occurred at the direct request of anti-vaccine Health Secretary Robert F. Kennedy Jr., according to two reports released today. Early today, Reuters reported that Kennedy instructed new CDC director Erica Schwartz to delete the two deaths from the agency's website. CDC staff had reportedly already reviewed information about the deaths and accepted the characterization that they were measles-related. Still, Schwartz deleted the deaths without objection, insiders told Reuters. According to previous reporting , the two deaths were added and then removed from the CDC's website within hours on August 30. The deaths were of a newborn and a child, and they were reported last week by health officials in Pennsylvania. The state's ongoing measles outbreak has sickened 540 so far, including 119 just in the last week . Read full article Comments ]]>
-
 ## The Verge
+
+### Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor
+2026-09-04T17:23:50-04:00 — https://www.theverge.com/tech/990658/audacity-4-update-audio-editing
+
+Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to the self-proclaimed "world's most popular audio editing and recording app" are here, turning Audacity from a free and capable but extremely clunky audio editor into a powerful modern tool. The biggest change is the move to a non-destructive editing workflow. That means you can trim a clip down, then recover the audio simply … Read the full story at The Verge. ]]>
+
+### The White House is making arcade games racist
+2026-09-04T15:42:54-04:00 — https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright
+
+Trump’s racist new “Build the Wall” game. | Image: The White House The PR masterminds at the White House just released a series of vaguely policy-themed "arcade" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda. The Tetris Company has already responded to "Build the Wall," which is obviously modeled on the famous puzzle game. In the Trump administration's game, the player has to stack interlocking shapes to stop a "zombie border siege" along the southern border. Aliens - the administration's preferred term for noncitizens , and the subject of previous grotesque attempts at humor - run across the screen, trying to … Read the full story at The Verge. ]]>
 
 ### GoPro says it s still committed to your collective stoke
 2026-09-04T14:00:45-04:00 — https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter
@@ -104,17 +114,12 @@ Apple's September 9th launch event could be one of its biggest in years. It will
 
 Nintendo just announced two Direct events for next week , scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming live on Nintendo's YouTube channel or the Nintendo Today app. Images recently leaked showing a special-edition 40th anniversary Zelda Switch 2 console and controller, plus there's the Ocarina of Time remake that's on the way, as well as the live-action Zelda movie expected to hit theaters sometime next year. The next day, Nintendo is also running a regular Direct showcase at 10AM ET / 7AM PT that will run for around 45 mi … Read the full story at The Verge. ]]>
 
-### Rogue OpenAI agents appear to have organized another attack using a German wiki
-2026-09-04T09:34:12-04:00 — https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki
-
-A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI labs after multiple breaches were discovered this summer. The incident, first reported by Reuters , is outlined in new research published by four AI safety researchers on Friday. The group said the AI agents found a way to communicate on an obscure German-language wiki, DseWiki, using it to share tips … Read the full story at The Verge. ]]>
-
-### Tesla Cybercab is barely on the road and it’s already under investigation
-2026-09-04T09:33:38-04:00 — https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify
-
-Elon Musk's gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle's lack of traditional features - many of which are required by law. The National Highway Traffic Safety Administration said it was opening an audit query (AQ) into the Tesla Cybercab "to examine the process and technical data on which Tesla relied when certifying the Cybercab and related issues." At issue is the absence of certain design features such as sideview mirrors, pedals, and steering wheel - all of which are required under the Federal Motor Vehicle Safety Standards, or FMVSS. "Among other things, NHTSA … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### DLSS 5 officially launches inside NBA 2K27, limited to RTX 50-series GPUs for now — Nvidia promises to bring neutral rendering tech to RTX 40-series soon
+Fri, 04 Sep 2026 23:09:31 +0000 — https://www.tomshardware.com/pc-components/gpus/dlss-5-officially-launches-inside-nba-2k27-limited-to-rtx-50-series-gpus-for-now-nvidia-promises-to-bring-neutral-rendering-tech-to-rtx-40-series-soon
+
+After a heavily scrutinized announcement earlier this year and a very revealing past few days , DLSS 5 has finally, officially launched inside NBA 2K27 . A sports game is a bit of an unusual choice to showcase what is seemingly the next big leap in real-time rendering, but it's the only game DLSS 5 works with for now. Fortunately, you don't need an RTX 50-series GPU to enjoy it, as Nvidia has confirmed that the tech is coming to previous-gen RTX 40-series hardware as well, though we don't know exactly when. Nvidia has worked closely with developer Visual Concepts to leverage DLSS 5 as an aid rather than the foundation of NBA 2K27 . The game still uses scanned 3D models of all the players to form the base geometry. Then, DLSS 5 combines training data and engine data to infer things like lighting and shadows, upgrading the scene to look more photorealistic. Such engine-level implementation allows devs to fine-tune the end result as per their creative intent instead of just applying a global AI filter over everything. (Image credit: Nvidia / Take-Two Interactive) DLSS 5 will come to other titles soon, but for now it's limited to NBA 2K27, and even then, it's extremely taxing. Nvidia's own marketing shows DLSS 5 netting 370 FPS at 4K with an RTX 5090, compared to 240 FPS with DLSS turned off. What it doesn't highlight as clearly is that the 370 FPS number comes from 6x MFG — five fake frames being interpolated for every real frame. That means the game is actually running at ~61 F
 
 ### Grab a new 3D printer for as low as $229 right now in Creality's Labor Day flash sale, with up to 50% off —big sale discounts also include resin and filament bundles, along with 3D scanners and toolkits
 Fri, 04 Sep 2026 17:00:00 +0000 — https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-for-as-low-as-usd229-right-now-in-crealitys-labor-day-flash-sale-with-up-to-50-percent-off-big-sale-discounts-also-include-resin-and-filament-bundles-along-with-3d-scanners-and-toolkits
@@ -171,12 +176,17 @@ Fri, 04 Sep 2026 12:31:14 +0000 — https://www.tomshardware.com/peripherals/gam
 
 Fractal Design is determined to be on, under, and in front of your desk — the PC peripherals company best known for its designer PC cases has just released the Fractal Refine 2 — the second generation of its minimalist, "refined" take on the typical racing-inspired gaming chair. The Fractal Refine 2 is very similar to the original Fractal Refine, but it's been... refined... just a bit further. It still features a subdued but unmistakable "gaming chair" silhouette, as well as a fairly high level of adjustability and a large, hefty frame. Fractal has definitely made some changes — the 4D arm rests now lock in place, and the tilt limiter, which I found to be way too strong in the original, has been pulled back a little (but not quite enough). The price has also been adjusted — all variations retail for $640, which is on the higher side for a typical racing-style gaming chair. We did like the original Refine, but its scratchy mesh fabric kept it off our list of best gaming chairs — but this time we're taking a look at the fabric version. Assembly The Fractal Refine 2 comes in a heavy box that's so large you might think the chair is already assembled — but it isn't. It's well-packed: all the pieces are individually wrapped and/or boxed, and there's plenty of eco-friendly packing material keeping everything in its place. The chair comes with all the tools you'll need to assemble it, though there's admittedly not too much assembly. It comes with an allen wrench and several screws — 
 
-### Fake DDR5 memory kits now on sale starting at $43 — V-Color sells 0GB dummy modules and single-stick memory kits with a fake stick for $300
-Fri, 04 Sep 2026 11:30:00 +0000 — https://www.tomshardware.com/pc-components/ram/fake-ddr5-memory-kits-now-on-sale-starting-at-usd43-v-color-sells-0gb-dummy-modules-and-single-stick-memory-kits-with-a-fake-stick-for-usd300
-
-Earlier this year, V-Color announced its 1+1 DDR5 filler memory kits to help suspend disbelief and offer psychological salvation against rising memory prices. These kits mix real DDR5 sticks with dummy modules that don't actually have any RAM inside — just working RGB — to give you the illusion of a fully-slotted motherboard. Today, the kit is finally available to buy in the UK and Europe, with just the filler sticks on their own also listed for sale in North America. V-Color has two different DDR5 products: Manta XSky and Manta XFinity, the latter being the higher-end model. The 1+1 kit is only available for the Manta XSky variant and only in the UK and Germany; not yet in the US. The 0GB kits (where both sticks are dummies) are available in both the Manta XSky and XFinity models across multiple regions. Pricing starts from $43 and goes up to almost $300, so let's break it all down. In the UK, Overclockers currently has the 16GB 6,000 MT/s CL30 kit listed for 210 GBP, or $285, in black and white colorways. You get a single 16GB stick with those specs and a filler module to occupy two slots on your motherboard. There's a slightly more expensive 16GB 6,000 MT/s CL28 kit as well, selling for 219 GBP, or $297. Once again, you can choose either the black or white color, and you get 1 real stick of RAM and one filler. V-Color (1+1) Manta XSky RGB 16GB C30 6,000MHz - Black V-Color (1+1) Manta XSky RGB 16GB C30 6,000MHz - White V-Color (1+1) Manta XSky RGB 16GB C28 6,000MHz - Black 
-
 ## Phoronix
+
+### KDE Plasma 6.8 Lands Windows-Like Auto-Scrolling, Lower vRAM Usage For Breeze Theme
+Fri, 04 Sep 2026 17:00:04 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.8-Autoscroll
+
+It's been an exciting start to the month of September for KDE Plasma developers with continuing to land last minute improvements for Plasma 6.8 ahead of its official release in mid-October...
+
+### Wine 11.17 Released With Initial Support For Display Mode Emulation
+Fri, 04 Sep 2026 16:11:12 -0400 — https://www.phoronix.com/news/Wine-11.17-Released
+
+Wine 11.17 is out today as the newest bi-weekly feature development release for this software enabling Windows games and apps to run on Linux...
 
 ### Amazon Linux 2027 Shows Off Nice Performance Gains On AMD EPYC In The AWS Cloud
 Fri, 04 Sep 2026 11:33:21 -0400 — https://www.phoronix.com/review/amazon-linux-2027-benchmarks
@@ -227,14 +237,4 @@ Released tonight is Ubuntu 26.10 "Stonking Stingray" Snapshot 3 as the newest mo
 Thu, 03 Sep 2026 17:13:55 -0400 — https://www.phoronix.com/news/Amazon-Linux-2027-Preview
 
 AWS announced today the public preview of Amazon Linux 2027. Given the time since Amazon Linux 2023, Amazon Linux 2027 comes with a heavy arsenal of software updates as well as many performance optimizations and other tuning for better running workloads geared for the AWS cloud...
-
-### Intel Improving Its Content Match Refresh Rate "CMRR" Feature With Linux 7.4
-Thu, 03 Sep 2026 13:57:03 -0400 — https://www.phoronix.com/news/Intel-Graphics-CMRR-Linux-7.4
-
-Introduced with the Xe2 Lunar Lake graphics hardware was support for Content Match Refresh Rate (CMRR) as an improvement over typical Variable Refresh Rate (VRR) / Adaptive-Sync to more precisely match the video or content frame rates. Particularly for video playback it aims for no stuttering or frame drops. With the upcoming Linux 7.4 kernel will be better support for CMRR with the Intel graphics driver...
-
-### Mir 2.29 Released With Additional Wayland Protocols
-Thu, 03 Sep 2026 13:18:12 -0400 — https://www.phoronix.com/news/Mir-2.29-Released
-
-For those using Canonical's Mir compositor for building Wayland-based shells, Mir 2.29 is now available with various improvements and new Wayland protocol coverage...
 

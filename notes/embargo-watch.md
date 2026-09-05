@@ -1,4 +1,4 @@
-# Review radar — updated 2026-09-04
+# Review radar — updated 2026-09-05
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -18,22 +18,23 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ## Reviews expected within three days
 
-_Nothing inside three days._
+| Title | Publisher | Release | Away | Reviews from | Price |
+|---|---|---|---|---|---|
+| Halloween: The Game | IllFonic Publishing, Co-Publisher: Gun I | 2026-09-08 | 3d | 2026-09-07 | €39.99 |
+| Bus Simulator 27 | astragon Entertainment | 2026-09-08 | 3d | 2026-09-07 | €29.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Halloween: The Game | IllFonic Publishing, Co-Publisher: Gun I | 2026-09-08 | 4d | 2026-09-07 | €39.99 |
-| Bus Simulator 27 | astragon Entertainment | 2026-09-08 | 4d | 2026-09-07 | €29.99 |
-| WARDOGS - Supporter Pack | Team17 | 2026-09-10 | 6d | 2026-09-09 | €49.99 |
-| WARDOGS | Team17 | 2026-09-10 | 6d | 2026-09-09 | €39.99 |
-| Train Sim World® 7 | Dovetail Games - TSW | 2026-09-15 | 11d | 2026-09-14 | €49.99 |
-| iRacing® Studios NASCAR 26 | iRacing.com Motorsport Simulations, LLC | 2026-09-17 | 13d | 2026-09-16 | €59.99 |
+| WARDOGS - Supporter Pack | Team17 | 2026-09-10 | 5d | 2026-09-09 | €49.99 |
+| WARDOGS | Team17 | 2026-09-10 | 5d | 2026-09-09 | €39.99 |
+| Train Sim World® 7 | Dovetail Games - TSW | 2026-09-15 | 10d | 2026-09-14 | €49.99 |
+| iRacing® Studios NASCAR 26 | iRacing.com Motorsport Simulations, LLC | 2026-09-17 | 12d | 2026-09-16 | €59.99 |
 
 ---
 
-*950 upcoming titles scanned, 853 with a firm date inside
+*950 upcoming titles scanned, 852 with a firm date inside
 14 days, 6 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

@@ -1,6 +1,16 @@
-# Games — harvested 2026-09-04T19:08:05.478Z
+# Games — harvested 2026-09-05T08:35:15.636Z
 
 ## Eurogamer
+
+### What we've been playing - "Well this is embarrassing, we're wearing the same outfit!"
+Sat, 05 Sep 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-well-this-is-embarrassing-were-wearing-the-same-outfit
+
+Unluckily for you all, Bertie's having a well-earned long weekend (possibly skiing, possibly jumping on the spot, possibly just having a nice lie down after the chaos of it all), meaning you're stuck with me on intro duties for What We've Been Playing this time around. Read more
+
+### After AI slop accusations, Humankind 2 studio says its new trailer was definitely "made by humankind" and at least five chickens
+Fri, 04 Sep 2026 19:19:34 +0000 — https://www.eurogamer.net/after-ai-slop-accusations-humankind-2-studio-says-its-new-trailer-was-definitely-made-by-humankind-and-at-least-five-chickens
+
+A large portion of the internet pointed their virtual fingers at Humankind 2's new trailer and shouted 'AI slop!' Developer Amplitude Studios is now denying those claims and has even released a behind-the-scenes clip to prove a whole human crew (plus five chickens) made the Gamescom ONL reveal. Read more
 
 ### It looks like No Man's Sky's next update is imminent as Sean Murray breaks out the emojis again - and fans reckon it's a big one
 Fri, 04 Sep 2026 18:38:14 +0000 — https://www.eurogamer.net/no-mans-sky-cosmos-update-imminent-emoji-tease
@@ -10,7 +20,7 @@ Yes, it's time to brace yourself once more, No Man's Sky fans: Sean Murray is de
 ### Nearly a decade on, legendary director Hideki Kamiya says he's "100% serious" about reviving Xbox's canned Scalebound
 Fri, 04 Sep 2026 18:22:42 +0000 — https://www.eurogamer.net/director-hideki-kamiya-serious-reviving-xbox-canned-scalebound
 
-Hideki Kamiya was being super serious about resurrecting Scalebound , the PlatinumGames dragon-filled romp that was cancelled by Xbox nearly a decade ago. Read more
+Hideki Kamiya was being super serious about resurrecting Scalebound , PlatinumGames' dragon-filled romp that was cancelled by Xbox nearly a decade ago. Read more
 
 ### Hype for GTA 6 is giving PS5 and Xbox console sales a much needed 30% boost
 Fri, 04 Sep 2026 17:14:16 +0000 — https://www.eurogamer.net/gta-6-hype-giving-ps5-xbox-series-sales-boost
@@ -51,16 +61,6 @@ The third and final entry in the Final Fantasy 7 Remake series will launch on ju
 Thu, 03 Sep 2026 15:35:54 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-release-date-resonance-demo
 
 We already knew that Final Fantasy 7 Revelation was going to launch sometime in 'spring 2027 ', but today director Naoki Hamaguchi took to Sony's State of Play livestream to inform us all that the game has a locked-in release date: 8th April, 2027. It'll launch worldwide, and on all platforms - that's PS5, Nintendo Switch 2 , Xbox Series X/S, and PC - at the same time (the first game in the series to do so). Read more
-
-### A Lego replica of the original PlayStation will be available next month
-Thu, 03 Sep 2026 15:24:07 +0000 — https://www.eurogamer.net/lego-playstation-sony-state-of-play
-
-A Lego replica of the original Playstation was just revealed at the Sony State of Play, and it'll be available to order starting next month. Read more
-
-### GTA 6 is getting two limited edition dualsense PS5 controllers
-Thu, 03 Sep 2026 14:47:05 +0000 — https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play
-
-Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more
 
 ## GamesIndustry.biz
 
@@ -119,16 +119,21 @@ Thu, 03 Sep 2026 09:29:08 +0000 — https://www.gamesindustry.biz/peak-studio-ag
 
 Aggro Crab, known for Peak and Another Crab's Treasure, has launched a publishing label to support "intense, stylised games with an attitude." Read more
 
-### Planet Coaster studio Frontier Developments announces new title based on Disney IP
-Thu, 03 Sep 2026 08:04:49 +0000 — https://www.gamesindustry.biz/planet-coaster-studio-frontier-developments-announces-new-title-based-on-disney-ip
-
-Frontier Developments has entered into an agreement with Disney to work on a new title based on its portfolio and IP. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Preview: Honkai: Nexus Anima Is HoYoverse at Its Weirdest, and PS5 Owners Need to See It
+Sat, 05 Sep 2026 00:00:00 GMT — https://www.pushsquare.com/previews/honkai-nexus-anima-is-hoyoverse-at-its-weirdest-and-ps5-owners-need-to-see-it
+
+This Pokémon-inspired auto-battler is a treat. I’ve written a little bit about Honkai: Nexus Anima before, but I hope you’ll indulge me a little longer while I tell you about its latest build. I went hands-on at Gamescom , in Chinese dev HoYoverse’s business area. And while I was sceptical of this project when it was first announced, it’s really grown on me. Read the full article on pushsquare.com
+
+### Talking Point: What Are You Playing This Weekend? - Issue 648
+Fri, 04 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-648
+
+Stupid is as stupid does. Last week, I accidentally published WAYP 12 hours earlier than usual. A lot of you said you liked the change, as you consider Friday evening part of the weekend. So let's try this earlier publishing time and see how it goes, huh? Aaron Bayne This weekend I'm trying to wrap up both Alien Fireteam Elite 2 and Onimusha: Way of the Sword ! Read the full article on pushsquare.com
 
 ### After a Record Breaking State of Play in June, the Latest Edition Did Disappointing Numbers
 Fri, 04 Sep 2026 18:45:00 GMT — https://www.pushsquare.com/news/2026/09/after-a-record-breaking-state-of-play-in-june-the-latest-edition-did-disappointing-numbers
@@ -179,16 +184,6 @@ May the Hawks be with you. It's almost impossible not to mention XCOM when talki
 Fri, 04 Sep 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/09/one-of-the-best-ps5-story-developers-has-helped-write-until-dawn-2s-plot
 
 Disptach developer AdHoc Studio involved. You can now be even more confident Until Dawn 2 will be a fantastic story experience, as it's been announced Dispatch developer AdHoc Studio helped write the PS5 sequel's story. Having revealed the 28th January 2027 release date, a PlayStation Blog post spoke of the collaboration: Read the full article on pushsquare.com
-
-### Where the Seeds Fall Is Sort of the Inverse of Those Viral Vertical Rage Games
-Fri, 04 Sep 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/09/where-the-seeds-fall-is-sort-of-the-inverse-of-those-viral-vertical-rage-games
-
-Descends onto PS5 in November. If you've ever seen or played games like Jump King , Baby Steps , or Getting Over It , Cygames' new vertical adventure Where the Seeds Fall may prove to be something of a salve. This particular brand of intentionally difficult, rage-inducing platformers typically task you with climbing up tricky terrain and harsh environments, with one poorly-judged jump sending you falling back down where you came from. Read the full article on pushsquare.com
-
-### Preview: There ll Be a Surprising Announcement Soon : I Played Crazy Taxi: World Tour and Spoke to Series Creator Kenji Kanno
-Thu, 03 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/previews/therell-be-a-surprising-announcement-soon-i-played-crazy-taxi-world-tour-and-spoke-to-series-creator-kenji-kanno
-
-Ten in 2010. I played the original Crazy Taxi on my Dreamcast so much the disc doesn’t really work anymore. To be fair, SEGA’s GD-ROMs were notable for scratching easily, but I didn’t have this problem with any of my other games from the era. I generally look after all of my things really well. Read the full article on pushsquare.com
 
 ## Game Developer
 
