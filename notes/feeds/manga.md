@@ -1,6 +1,11 @@
-# Manga — harvested 2026-09-05T13:32:23.392Z
+# Manga — harvested 2026-09-05T16:15:39.805Z
 
 ## Anime News Network
+
+### Onimusha: Way Of The Sword Game Review
+Sat, 05 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/switch-2/onimusha/way-of-the-sword/.241126
+
+Much like how the game's presentation is wasted on the story, these mechanics are wasted on the game's structure.
 
 ### Boichi's The Marshal King Manga Resumes
 Sat, 05 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/boichi-the-marshal-king-manga-resumes/.241424
@@ -56,11 +61,6 @@ Comes with 1 controller, <i>Gran Torismo</i> & <i>Ape Escape</i> dioramas. Power
 Fri, 04 Sep 2026 19:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-9/.241384
 
 It seems we’ll only get to the worthwhile part of the story as the season ends.
-
-### Smoking Behind the Supermarket with You ‒ Episode 9
-Fri, 04 Sep 2026 18:30:00 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-9/.241383
-
-With every passing episode, I love these dumb little lovebirds more and more, and I desperately hope this season ends with Sasaki and Tayama/Yamada at least dating.
 
 ## Crunchyroll News
 

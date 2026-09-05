@@ -1,6 +1,41 @@
-# Film & TV — harvested 2026-09-05T13:32:23.392Z
+# Film & TV — harvested 2026-09-05T16:15:39.805Z
 
 ## Variety
+
+### How Maggie Gyllenhaal Used Dakota Johnson and Ellen Burstyn to Reimagine Marilyn Monroe at 100 in Venice Short ‘Flesh Impact’
+Sat, 05 Sep 2026 16:00:00 +0000 — https://variety.com/2026/film/awards/gyllenhaal-flesh-impact-marilyn-monroe-dakota-johnson-venice-1236852103/
+
+Marilyn Monroe would have turned 100 this year. So when Maggie Gyllenhaal was approached to make a movie about her, she asked for a weekend to daydream about what that milestone might look like. What came back was “Flesh Impact,” a 17-minute short that hands the most consumed movie star of the 20th century something [ ]
+
+### Teens Seek to Heal Wounds Through Macabre Rituals in Jannis Lenz s Oasis, With Hints of the Influence of Jessica Hausner, Michael Haneke
+Sat, 05 Sep 2026 15:13:44 +0000 — https://variety.com/2026/film/global/jannis-lenz-oasis-venice-1236852578/
+
+Three teenagers, unclothed, stand close to one another in a forest, gently caressing the wounds they have inflicted on one another. This is the climactic moment in “Oasis,” a film that at times feels like a Grimms Brothers fairytale, and, at others, an all-too-real vision of modern-day youth in crisis. If you were told that [ ]
+
+### Primetime Review: Robert Pattinson Leads a Dazzling Cast in a Lurid Horror-Movie Portrait of a Predator -Hunter s Predatory Instinct
+Sat, 05 Sep 2026 15:00:00 +0000 — https://variety.com/2026/film/reviews/primetime-review-robert-pattinson-1236846988/
+
+Can you get tighter in on him? Chris Hansen (Robert Pattinson) demands of the technician editing his latest To Catch a Predator segment. He has noticed that when his would-be pedophile prey finally spot him, stepping out of an upstairs bedroom or strolling through the kitchen door of the house designed to ensnare evildoers like [ ]
+
+### Chronovisor Review: An Eerie, Fiendishly Clever Mystery for Lovers of Libraries and the Storied Smell of Old Books
+Sat, 05 Sep 2026 14:19:52 +0000 — https://variety.com/2026/film/reviews/chronovisor-review-1236852515/
+
+For anyone whose happy place is an old-school library reading room, all aged dark wood and green-and-gold reading lamps casting warm islands of light in the velvety murk, Chronovisor will be a near-fetishistic delight — even as it makes quite unhappy places of such hallowed havens of learning. The first feature by U.S. writer-directors Jack [ ]
+
+### Al Pacino Sends Video Message to Venice After Missing Press Conference for Father Joe : I Wish I Was There, I Really Do
+Sat, 05 Sep 2026 14:04:33 +0000 — https://variety.com/2026/film/festivals/al-pacino-skips-father-joe-press-conference-venice-1236851487/
+
+Al Pacino didn t travel to the Venice Film Festival for the premiere of Father Joe, but he sent a video message with well wishes to his collaborators on the movie. I wish I was there with all of you in Venice, which is great and lovely. I ve had films there. I ve been there. I ve experienced [ ]
+
+### Retirement Match: Here s How to Watch Katie Taylor vs. Flora Pili Boxing Live Online
+Sat, 05 Sep 2026 14:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-katie-taylor-vs-flora-pili-boxing-live-sept-2026-online-1236850092/
+
+Set as Katie Taylor s final fight, one of the greatest fighters in boxing is going for the undisputed title. Irish boxer Katie Taylor defense her WBO, IBF and WBA women s super lightweight (junior welterweight) championship belts against French fighter Flora Pili. Additionally, the vacant WBC women s super lightweight title is on the line, so the [ ]
+
+### Louis Garrel Jokes About Moretti Method Acting at Press Conference for Nanni Moretti s It Will Happen Tonight
+Sat, 05 Sep 2026 13:43:09 +0000 — https://variety.com/2026/film/festivals/louis-garrel-moretti-method-acting-nanni-it-will-tonight-1236843635/
+
+Veteran auteur Nanni Moretti – who has had nine movies in competition at Cannes — is back in Venice after 37 years with It Will Happen Tonight,” a romantic drama toplining French star Louis Garrel and Italian A-lister Jasmine Trinca (“La Storia,” “Supersex”). Years ago I had coined this slightly stupid phrase that I used to [ ]
 
 ### Liam and Noel Gallagher Skip Oasis Documentary Press Conference at Venice Film Festival
 Sat, 05 Sep 2026 13:28:18 +0000 — https://variety.com/2026/film/festivals/liam-noel-gallagher-skip-oasis-doc-press-conference-venice-1236852403/
@@ -17,42 +52,47 @@ Sat, 05 Sep 2026 11:45:00 +0000 — https://variety.com/2026/film/news/our-share
 
 A keenly observed class drama shown through the eyes of a child, Shalini Adnani’s “Our Share of Sand” overcomes its characters’ narrow construction through its brooding intensity. Set against a sand-mining crisis in modern India, it tells of a 12-year-old British Asian girl, Maya (Maya Mehta), who returns to the country to join her industrialist [ ]
 
-### Tom and Jerry: Forbidden Compass Review: The Famous Cat-and-Mouse Duo Are Not Themselves In a Chaotic Chinese Cartoon
-Sat, 05 Sep 2026 11:32:24 +0000 — https://variety.com/2026/film/reviews/tom-and-jerry-forbidden-compass-review-1236852490/
-
-That title gives a first clue towards how misbegotten and compromised this new Tom and Jerry joint is. Everybody knows that Tom and Jerry shouldn’t be searching for a forbidden compass, whatever that might be: If the perma-warring pair are on a quest for something, it ought to be, say, some pickles for a big [ ]
-
-### Robert Pattinson Wants Chris Hansen to Like Primetime Despite His Criticisms: I Hope the Inspiration His Character Has Given Is Some Kind of Compliment
-Sat, 05 Sep 2026 11:28:45 +0000 — https://variety.com/2026/film/festivals/robert-pattinson-primetime-chris-hansen-criticism-1236852400/
-
-Robert Pattinson thinks Chris Hansen could come around on Primetime, a tense thriller about the television journalist and To Catch a Predator host, which premieres on Saturday afternoon at the Venice Film Festival. The real-life Hansen has been vocal in his skepticism of the movie, which he said he hasn t seen because he declined to [ ]
-
-### Marion Cotillard Praises Venice Biennale College Cinema Workshop: Not all Films Are Destined to Draw Millions of Viewers and Turn a Profit
-Sat, 05 Sep 2026 11:06:28 +0000 — https://variety.com/2026/film/global/marion-cotillard-venice-biennale-college-cinema-1236852398/
-
-Oscar-winner Marion Cotillard (“La Vie en Rose ) is at the Venice Film Festival in a new guise, as tutor of Biennale College Cinema, the workshop allowing emerging filmmakers to develop and produce micro-budget feature-length films, which is sponsored by Chanel. Biennale College Cinemas was conceived 15 years ago by Venice chief Alberto Barbera in tandem [ ]
-
-### Mr Nelson, Did You Kill People? Review: An Assaultive Yet Turgid and Outdated Vietnam PTSD Drama
-Sat, 05 Sep 2026 10:54:01 +0000 — https://variety.com/2026/film/reviews/mr-nelson-did-you-kill-people-review-1236846997/
-
-If Shinya Tsukamoto s Mr Nelson, Did You Kill People? were the first, or even the 51st, movie to litigate the atrocities committed by U.S. troops during the Vietnam War, perhaps on a purely informational level some justification would exist for its crudely simplistic approach. Nuance is often a casualty of war, especially when that war [ ]
-
-### Everest: The Other Side Review: The Free Solo Directors Return With Another Extreme Sports Doc, This Time Tainted by Tragedy
-Sat, 05 Sep 2026 10:35:43 +0000 — https://variety.com/2026/film/reviews/everest-the-other-side-review-1236852376/
-
-Because it s there is the famous, possibly apocryphal, reply attributed to British mountaineer George Mallory when asked why he wanted to climb Mount Everest. Unlike present-day climber Jim Morrison, Mallory didn t also want to ski down it. But doesn t the same non-answer apply? Why are certain people compelled toward any of these reckless, perilous, barely [ ]
-
-### The Liberation’ Review: Carrie Coon Is Breathtaking as a Woman Lured by a Cult in Guy Nattiv’s Deeply Personal Film
-Sat, 05 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/reviews/the-liberation-review-1236851030/
-
-“You carry a lot of weight around, don’t you?” In Guy Nattiv’s observant, harrowing and unmistakably feminine “The Liberation,” this line marks the first time someone truly sees through fortysomething protagonist Rita Cooper. Based on Nattiv’s own grandmother (alongside various cult survivors) and played by Carrie Coon with extraordinary emotional presence and pent-up energy privately [ ]
-
-### Swiss Projects at the Venice Gap-Financing Market: Natural Disaster, Complicated Romance, Exploited Migrants, Murder Mystery in Montana
-Sat, 05 Sep 2026 08:57:55 +0000 — https://variety.com/2026/film/global/switzerland-venice-film-festival-gap-financing-market-1236841524/
-
-Both well-established and up-and-coming Swiss filmmakers are taking part in the Venice Film Festival’s Production Bridge industry strand, where Switzerland will be one of the country’s in focus at the Gap-Financing Market. Seven Swiss projects and co-productions are among the total of 38 fiction and documentary works featured in the Venice Production Bridge’s Gap-Financing Market [ ]
-
 ## The Hollywood Reporter
+
+### Spider-Man: Brand New Day Topping Box Office for Sixth Weekend in a Row
+Sat, 05 Sep 2026 15:48:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-ruling-box-office-for-sixth-weekend-1236691340/
+
+The Spider-Man feature is soon aiming to become the top grossing movie domestically of all time, as Tom Holland's other summer movie, 'The Odyssey,' comes in at No. 2.
+
+### Robert Pattinson Says He Would ve Been Devastated to Drop Any of His Big 2026 Films
+Sat, 05 Sep 2026 15:26:53 +0000 — https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-movies-2026-primetime-odyssey-dune-drama-1236691678/
+
+The busy actor took a break from 'The Batman: Part II' filming to attend the Venice Film Festival world premiere of his Chris Hansen-inspired pic 'Primetime.'
+
+### Bethenny Frankel Is Turning Burning Man Into Her Non-Reality Show
+Sat, 05 Sep 2026 15:09:35 +0000 — https://www.hollywoodreporter.com/news/general-news/bethenny-frankel-burning-man-tiktok-goggles-1236691488/
+
+Steampunk goggles, a cowboy hat, zero drugs, attitude and a killer sense of humor: the reality star is about to tell you the truth about life on the famed Nevada playa.
+
+### Primetime Review: You Might Feel the Need to Shower After Watching Robert Pattinson as To Catch a Predator Host Chris Hansen
+Sat, 05 Sep 2026 15:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/primetime-review-robert-pattinson-chris-hansen-1236691706/
+
+Merritt Wever, Skyler Gisondo and Phoebe Bridgers also star in Lance Oppenheim’s first narrative feature, revisiting the ethically muddy ‘Dateline NBC’ ratings phenomenon.
+
+### Adele Zaikman on Winning ‘DWTS: The Next Pro’ and Daniella Karagach s Advice for Season 35
+Sat, 05 Sep 2026 14:49:45 +0000 — https://www.hollywoodreporter.com/tv/tv-features/adele-zaikman-winning-dwts-the-next-pro-interview-1236691366/
+
+The 24-year-old professional dancer reflects on winning the spinoff series, the advice Karagach offered her ahead of season 35’s premiere and her first partnership with ‘Secret Lives of Mormon Wives’ husband Conner Leavitt: “I couldn't ask for a better partner.”
+
+### ‘Pianist’ Actress Maureen Lipman Predicts “Noisy” Night in London Over Her Israel Views
+Sat, 05 Sep 2026 14:34:30 +0000 — https://www.hollywoodreporter.com/news/general-news/pianist-actress-maureen-lipman-noisy-london-israel-1236691725/
+
+'Right Before I Go' playwright Stan Zimmerman calls the controversy and two cast departures an “unfortunate distraction” from his mission to raise awareness about suicide.
+
+### Congress Is About to Write a Federal Film Tax Credit: Just Don t Call It a Hollywood Bill
+Sat, 05 Sep 2026 14:25:00 +0000 — https://www.hollywoodreporter.com/business/business-news/federal-film-tax-credit-1236691082/
+
+States outside of California and New York have seen the brunt of the production exodus. And it is those states that stand to benefit the most from a federal tax incentive.
+
+### The Liberation Review: Carrie Coon, Bella Ramsey and Lily James in Guy Nattiv s Devastatingly Empathetic Cult Drama
+Sat, 05 Sep 2026 14:19:41 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-liberation-review-carrie-coon-guy-nattiv-lily-james-1236690996/
+
+Also starring Odessa Young and Tracy Letts, the film follows a suburban mother who leaves her family to follow a charismatic spiritual guru in 1980s New Jersey.
 
 ### Gallagher Brothers Skip Venice Press Conference for Concert Doc
 Sat, 05 Sep 2026 13:26:35 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gallaghers-skip-venice-press-conference-for-documentary-1236691644/
@@ -64,47 +104,42 @@ Sat, 05 Sep 2026 12:05:26 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 The actor touched down on the Lido this weekend for the Venice Film Festival world premiere of Lance Oppenheim's film, in which he stars as 'To Catch a Predator' host Chris Hansen.
 
-### Where to Watch the 2026 F1 Italian Grand Prix at Monza
-Sat, 05 Sep 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-f1-italian-grand-prix-monza-2026-streaming-free-usa-1236691401/
-
-How to livestream the action at Italy's iconic high speed circuit.
-
-### Maggie Gyllenhaal Was Asked to Use AI to Recreate Marilyn Monroe. But it Flopped Compared to Dakota Johnson
-Sat, 05 Sep 2026 11:51:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/maggie-gyllenhaal-ai-marilyn-monroe-film-dakota-johnson-1236691657/
-
-The Venice Film Festival jury president said her AI experiment "fundamentally did not work. All the reasons we decided to make this project to begin with were killed off in the AI version."
-
-### Kate and Rooney Mara Talk Bucking Fastard, Synchronized Sisterhood and Werner Herzog Life Lessons: He Doesn t Give a S***
-Sat, 05 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/werner-herzog-kate-rooney-mara-talk-bucking-fastard-venice-1236690551/
-
-The real-life sisters play Irish siblings who speak, love and dream in unison in the new drama from the director of 'Grizzly Man' and 'Fritzcaraldo,' which premiered in competition in Venice.
-
-### Telluride Awards Analysis: Andrew Scott Leaps Into Top Tier of Best Actor Oscar Race for Elsinore
-Sat, 05 Sep 2026 07:21:36 +0000 — https://www.hollywoodreporter.com/movies/movie-news/telluride-awards-analysis-andrew-scott-leaps-into-top-tier-of-best-actor-oscar-race-for-elsinore-1236691600/
-
-Never has an out gay actor or actress won an Oscar. Scott could become the first.
-
-### Elsinore Review: Andrew Scott Is Shattering as British Actor Ian Charleson, Throwing Himself Into Playing Hamlet While Succumbing to AIDS
-Sat, 05 Sep 2026 05:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/elsinore-review-andrew-scott-ian-charleson-olivia-colman-1236690579/
-
-Simon Stone’s drama about the sustaining power of art is a time capsule of late 1980s London, also starring Olivia Colman, Billie Piper and Johnny Flynn.
-
-### The Idiot(s) Review: Aimee Lou Wood and Johnny Flynn Sparkle in a Playful, Indulgent Tribute to Fyodor Dostoevsky s Underappreciated Wife
-Sat, 05 Sep 2026 04:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-idiots-review-aimee-lou-wood-johnny-flynn-dostoevsky-1236681228/
-
-Also starring Vicky Krieps, the Telluride premiere chronicles the couple's tumultuous time in Germany, during which the author penned one of his greatest masterpieces.
-
-### Victor Miller, Friday the 13th Screenwriter, Dies at 86
-Sat, 05 Sep 2026 03:33:17 +0000 — https://www.hollywoodreporter.com/movies/movie-news/victor-miller-dead-friday-the-13th-screenwriter-1236691486/
-
-"He was almost always the smartest, funniest person in whatever room he was in. He inspired in me, and many others, a love of photography, music, and storytelling," his son, Ian, wrote on Instagram.
-
-### A Long Winter Review: Fred Hechinger and Ebon Moss-Bachrach Shine as Family Thrust Into Uneasy Isolation in Andrew Haigh s Fine-Grained Drama
-Sat, 05 Sep 2026 02:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/a-long-winter-review-fred-hechinger-ebon-moss-bachrach-1236690170/
-
-Also featuring Caitríona Balfe, Kit Connor and D’Pharaoh Woon-A-Tai, the film — adapted from Colm Tóibín's novella — measures the after-effects of a disappearance in the Rocky Mountains in the 1950s.
-
 ## Deadline
+
+### Lainey Wilson To Return As Host Of 2026 CMA Awards
+Sat, 05 Sep 2026 16:15:36 +0000 — https://deadline.com/2026/09/lainey-wilson-host-2026-cma-awards-1237068251/
+
+It will be a three-peat for Lainey Wilson, who will return to host The 60th Annual CMA Awards in the fall. This will be Wilson s third consecutive year hosting the country music awards shindig, which will air live from Nashville s Bridgestone Arena Wednesday, Nov. 18 at 8/7c on ABC, Disney+ and available next day on [ ]
+
+### Spider-Man: Brand New Day $22M Labor Day Take Powering Summer To Potential $4.76B All-Time Record Update
+Sat, 05 Sep 2026 16:01:00 +0000 — https://deadline.com/2026/09/box-office-spider-man-brand-new-day-by-any-means-labor-day-1237068549/
+
+SATURDAY AM: Rentrak reports that we re $112.2 million away from having a record summer at the domestic box office, the previous high being 2013 with $4.756 billion. Per sources this morning, it looks like we re going to get there with the Friday-Monday Labor Day frame ringing up over $118M. For the period of May 1-Sept [ ]
+
+### Director Matt Dougherty, E.P. Jane Campion Explore Riveting “Anti-Guru” U.G. Krishnamurti In The Natural State – Telluride Film Festival
+Sat, 05 Sep 2026 16:00:00 +0000 — https://deadline.com/2026/09/the-natural-states-interview-jane-campion-matt-dougherty-1237068829/
+
+EXCLUSIVE: Was the Indian born “anti-guru” U.G. Krishnamurti a destroyer or a builder? Was he cruel or compassionate? The answer to both questions may be “yes.” Such questions, in fact, may not be the right ones to ask about the man variously described as a teacher, philosopher, maverick mystic, and enlightened person. What seems crucial [ ]
+
+### Robin Morgan Dies: Former Ms. Magazine Editor, Women’s Media Center Co-Founder With Jane Fonda Gloria Steinem Was 85
+Sat, 05 Sep 2026 15:56:28 +0000 — https://deadline.com/2026/09/robin-morgan-dead-1237068890/
+
+Robin Morgan, a former editor-in-chief of Ms. Magazine who co-founded the Women s Media Center with Ms. co-founder Gloria Steinem and Jane Fonda, died today, September 5, just several days after the passing of her friend and colleague Steinem. Morgan was 85. Her death was announced by her son Blake Morgan and Julie Burton, president and [ ]
+
+### Primetime : What The Critics Are Saying About A24 s Chris Hansen Movie Starring Robert Pattinson
+Sat, 05 Sep 2026 15:54:27 +0000 — https://deadline.com/2026/09/primetime-reviews-reaction-robert-pattinson-a24-film-1237068888/
+
+Reviews are rolling in for A24 s new movie Primetime, which is debuting at the Venice Film Festival today. Robert Pattinson stars in the Lance Oppenheim-directed movie about the controversial U.S. show To Catch a Predator, fronted by Chris Hansen, and how it ended badly. The true-crime program, part of Dateline NBC, chronicled Hansen’s efforts to out suspected [ ]
+
+### ‘Primetime’ Review: Robert Pattinson Channels Jerry Maguire And Dracula For Lance Oppenheim’s Dark TV Morality Tale – Venice Film Festival
+Sat, 05 Sep 2026 15:01:00 +0000 — https://deadline.com/2026/09/primetime-review-robert-pattinson-lance-oppenheim-venice-1237068867/
+
+It’s astonishing, the sick and twisted things grown men will say to vulnerable children — or rather adults pretending to be children — in chat rooms on the internet, but what’s even more astonishing is that they are willing to try to act on them in real life. This subject affected TV show host Chris [ ]
+
+### Oasis: Don t Look Back In Anger Is About Reconciliation, Redemption, And Forgiveness , Says Steven Knight, As Liam Noel Hit The Lido Venice
+Sat, 05 Sep 2026 14:13:22 +0000 — https://deadline.com/2026/09/oasis-dont-look-back-in-anger-reconciliation-steven-knight-1237068861/
+
+Oasis: Don t Look Back In Anger creator-writer-producer Steven Knight says the film, which captures the rapprochement between feuding brothers Liam and Noel Gallagher, is about reconciliation, redemption, and forgiveness. The anticipated music documentary, which includes Noel and Liam’s first joint interviews in 20 years, captures the band s hit reunion tour last year and sees the [ ]
 
 ### Broadway Fall Preview: The Stars Rise In New York This Autumn As Julia Louis-Dreyfus, Billy Crystal, Bradley Whitford, Raúl Esparza, Tom Hiddleston More Take The Stage
 Sat, 05 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/broadway-fall-preview-2026-1237067438/
@@ -130,39 +165,4 @@ EXCLUSIVE: Loco Films has boarded sales on Georgian filmmaker Levan Koguashvili�
 Sat, 05 Sep 2026 06:00:02 +0000 — https://deadline.com/2026/09/mad-solutions-irth-pan-arab-strategic-partnership-venice-1237068800/
 
 Cairo-based film and talent group MAD Solutions has announced a strategic partnership with Egyptian author, screenwriter and producer Haitham Dabbour’s pan-Arab drama development and production company IRTH. The partnership will bring their complementary strengths together to develop, package and support film, TV drama and other entertainment projects from across the Arab world for regional and [ ]
-
-### Telluride Film Festival 2026: Read All Of Deadline’s Reviews
-Sat, 05 Sep 2026 05:50:00 +0000 — https://deadline.com/2026/09/telluride-film-festival-2026-reviews-deadline-1237068524/
-
-The 2026 Telluride kicked off Friday, September 5, in Colorado and runs through Labor Day. The 53rd edition of the fest kicks off with first-day films including seven-time Oscar nominee Mike Leigh’s Tender Loving Care and the Andrew Scott-led Elsinore. See the full lineup here. RELATED: Venice Film Festival 2026: Read All Of Deadline’s Reviews [ ]
-
-### Elsinore Review: Andrew Scott Is Heartbreakingly Great As AIDS-Stricken Star Determined To Play Hamlet Telluride Film Festival
-Sat, 05 Sep 2026 05:00:00 +0000 — https://deadline.com/2026/09/elsinore-review-andrew-scott-movie-1237063597/
-
-Scottish-born actor Ian Charleson co-starred in a leading role in the 1981 Oscar-winning Best Picture Chariots of Fire. The next year he had a co-starring role in yet another Best Picture winner, Gandhi. Not bad, but in his heart he was an actor born to the London stage, and as the Hollywood career faded he [ ]
-
-### Danny Boyle’s ‘Ink’ Makes Tabloid Headlines At Telluride
-Sat, 05 Sep 2026 04:11:41 +0000 — https://deadline.com/2026/09/ink-premiere-telluride-danny-boyle-1237068784/
-
-Fresh from the Venice Film Festival where he unveiled Ink, director Danny Boyle arrived in Telluride for the North American premiere of his drama about Rupert Murdoch’s launch of the British Tabloid The Sun in 1969. Boyle, looking none the worse for international travel, introduced the film Friday night by noting that some people are [ ]
-
-### Ben McKenzie Would Be Up For A Revival Of The O.C. : It Was A Great Show
-Sat, 05 Sep 2026 02:47:12 +0000 — https://deadline.com/2026/09/ben-mckenzie-up-for-revival-the-oc-1237068781/
-
-California, here we come again, maybe. Ben McKenzie has addressed a potential return to The O.C., nearly 20 years after the show ended. The actor, who starred as Ryan Atwood for the Fox teen drama s four-season run from 2003 to 2007, recently commented on whether the hit show could get the reboot treatment. I don t [ ]
-
-### Sandra Bullock Teases Practical Magic 3 Could Happen, Wants To Pass The Torch
-Sat, 05 Sep 2026 02:04:57 +0000 — https://deadline.com/2026/09/sandra-bullock-teases-practical-magic-3-could-happen-1237068776/
-
-With the Owens sisters returning for another magical outing with Practical Magic 2, a trilogy could be in the cards. Sandra Bullock, who reprises her role as Sally Owens when the sequel premieres on Sept. 10, teased that a third movie could happen if the Susanne Bier-helmed followup succeeds at the box-office, noting she d want [ ]
-
-### Republicans Land Supreme Court Victory Over Campaign TV Ad Rates Ahead Of Midterms
-Sat, 05 Sep 2026 01:49:02 +0000 — https://deadline.com/2026/09/republicans-supreme-court-victory-campaign-tv-ad-rates-1237068767/
-
-Republicans have landed a legal victory over campaign TV ad pricing ahead of the midterm elections. On Friday, the Supreme Court granted the GOP an emergency appeal, which is supported by the Trump administration, temporarily halting a lower-court s ruling in favor of Democrats that discounted broadcast ad spots should be limited to candidates, the Associated [ ]
-
-### Tender Loving Care Review: Kate O Flynn Stars In What Could Be Mike Leigh s Final Film, But It Happens To Be One Of His Best Telluride Film Festival
-Sat, 05 Sep 2026 01:47:00 +0000 — https://deadline.com/2026/09/tender-loving-care-review-kate-oflynn-mike-leigh-telluride-1237068530/
-
-There has been much talk in film circles that the great Mike Leigh s latest film, Tender Loving Care, might be his last. Health issues, general aging and other things can get in the way for all of us, but if this turns out to be his finale, at least in terms of feature films [ ]
 

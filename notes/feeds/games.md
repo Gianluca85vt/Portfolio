@@ -1,6 +1,16 @@
-# Games — harvested 2026-09-05T13:32:23.392Z
+# Games — harvested 2026-09-05T16:15:39.805Z
 
 ## Eurogamer
+
+### Xbox Cloud Gaming's new hourly cap is reportedly set exactly where Microsoft stops making money on it
+Sat, 05 Sep 2026 16:11:08 +0000 — https://www.eurogamer.net/xbox-cloud-gaming-hourly-cap-break-even-point
+
+A new report suggests that Xbox has capped its cloud gaming usage to 15 hours for Game Pass Ultimate subscribers because that's when the service stops being profitable. Read more
+
+### Sony clarifies PlayStation disc production is dropping by 10 percent in 2028, not to 10 percent
+Sat, 05 Sep 2026 15:27:26 +0000 — https://www.eurogamer.net/sony-playstation-disc-production-10-percent-decline-not-90
+
+Sony has pushed back on a wave of reports suggesting PlayStation disc manufacturing is about to be gutted by 90 percent after comments from a Sony DADC executive were allegedly misunderstood. Read more
 
 ### Gamescom apologises for how it initially responded to indie developer hardware thefts
 Sat, 05 Sep 2026 12:44:17 +0000 — https://www.eurogamer.net/gamescom-apologises-indie-developer-hardware-theft-response
@@ -52,16 +62,6 @@ Fri, 04 Sep 2026 14:30:12 +0000 — https://www.eurogamer.net/nintendo-zelda-40t
 
 Back in June, we learned that we're officially getting a The Legend of Zelda: Ocarina of Time remake , which is supposedly coming to Switch 2 later this year (and we first heard rumours about it back in Marc h). But, as we approach the latter quarter of the year, we still don't know much about this remake, what it looks like, how it plays, or... well, anything really. Read more
 
-### Playing Mass Effect spiritual successor Exodus was the best kind of surprise
-Fri, 04 Sep 2026 13:00:32 +0000 — https://www.eurogamer.net/exodus-gamescom-preview
-
-My relationship with Mass Effect begins and ends with the first game (let's just blame the M35 Mako and leave it at that), and so Exodus - which is making no bones about being something of a Mass Effect spiritual successor, born from some of the same creative team - isn't a game that's been anywhere close to my radar. But the Gamescom gods contrived to put Exodus on my appointment schedule, and while the 45 minutes or so I played wasn't what I was expecting when I first sat down, I've come away both intrigued and impressed by what developer Archetype Entertainment is trying to achieve. Read more
-
-### Something strange is happening to the Starcraft website, as BlizzCon inches ever closer
-Fri, 04 Sep 2026 11:10:33 +0000 — https://www.eurogamer.net/starcraft-website-glitches-blizzcon-2026
-
-The Starcraft website is suffering from some mysterious visual glitches and distortion roughly a week before BlizzCon. As a result, fans of the RTS series are fiercely speculating on a possible reveal. Read more
-
 ## GamesIndustry.biz
 
 ### PAX Unplugged Houston to debut in June 2027: "It's a chance to bring PAX back to the PAX South fans that missed us"
@@ -99,16 +99,16 @@ Thu, 03 Sep 2026 16:30:22 +0000 — https://www.gamesindustry.biz/voting-extende
 
 Now that Gamescom is firmly behind us, the GamesIndustry.biz team is busy judging the entries for this year's Best Places To Work Awards. Entries have closed for our headline awards, which are judged based on anonymous employee feedback - but we have extended the deadline for nominations for our Special Awards, which reward excellence in specific fields. Read more
 
-### Apple faces £2bn lawsuit over implementation of App Tracking Transparency framework
-Thu, 03 Sep 2026 14:56:12 +0000 — https://www.gamesindustry.biz/apple-faces-2bn-lawsuit-over-implementation-of-app-tracking-transparency-framework
-
-Apple is facing a &pound;2 billion class action lawsuit over the implementation of its App Tracking Transparency (ATT) framework. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Marvel s Venom Still in Dev for PS5, Will Surely Be Huge
+Sat, 05 Sep 2026 13:45:00 GMT — https://www.pushsquare.com/news/2026/09/marvels-venom-still-in-dev-for-ps5-will-surely-be-huge
+
+We are Venom. Insomniac is still working on its previously rumoured Marvel’s Venom game, according to dependable industry snoop NatetheHate2 . The unfortunately named leaker has accurately outed a number of projects over the years, and says Sony studio Insomniac is very much still beavering away on this spin-off. Read the full article on pushsquare.com
 
 ### Guide: These 21+ PS5 Games Are Coming Out Next Week (7th-13th September)
 Sat, 05 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-21plus-ps5-games-are-coming-out-next-week-7th-13th-september
@@ -165,11 +165,6 @@ Fri, 04 Sep 2026 14:45:00 GMT — https://www.pushsquare.com/news/2026/09/sony-f
 
 Production will decline by 10%, not to 10%. An Austrian report published alongside confirmation that Sony will cease manufacturing physical discs in January 2028 suggested it would cut its production capacity to just 10%. The quote, attributable to Sony DADC’s Dietmar Tanzer , said: Read the full article on pushsquare.com
 
-### Review: Star Wars Zero Company (PS5) - A Perfect Pairing of Licence and Genre Imperfectly Executed
-Fri, 04 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/reviews/ps5/star-wars-zero-company
-
-May the Hawks be with you. It's almost impossible not to mention XCOM when talking about Star Wars Zero Company , as the similarities are clear and manifold. What developer Bit Reactor has done is apply a Star Wars veneer on top of the robust turn-based tactical gameplay from Firaxis' beloved series, and the result is a game that feels like a perfect alignment. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Strategically making Star Wars Zero Company, ft. Greg Foertsch
@@ -181,14 +176,4 @@ Bit Reactor CEO and Star Wars Zero Company creative director Greg Foertsch discu
 Thu, 03 Sep 2026 23:40:49 GMT — https://www.gamedeveloper.com/cloud/xbox-to-cap-cloud-gaming-hours-for-game-pass-subscribers
 
 Game Pass subscribers will no longer have unlimited access to Xbox's Cloud Gaming service.
-
-### Supercell's acquisition of Metacore expected to close this month
-Thu, 03 Sep 2026 16:06:04 GMT — https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month
-
-Once the deal is closed, Merge Mansion will officially become part of Supercell's live games portfolio.
-
-### Gamecity Hamburg launches second round of prototype funding
-Thu, 03 Sep 2026 14:49:10 GMT — https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding
-
-The organization is offering up to €80,000 to developers based or operating in the region.
 

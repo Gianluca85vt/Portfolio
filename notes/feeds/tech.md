@@ -1,6 +1,11 @@
-# Tech — harvested 2026-09-05T13:32:23.392Z
+# Tech — harvested 2026-09-05T16:15:39.805Z
 
 ## Ars Technica
+
+### Tesla’s Cybercab has been deployed, and it’s already under investigation
+Sat, 05 Sep 2026 15:17:36 +0000 — https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/
+
+Tesla’s Cybercab, a distinctive two-seater without a steering wheel or brake pedals, is set to start picking up members of the public in two states. But the vehicle is already under investigation by the US federal government, which is probing whether it meets federal safety standards. The investigation comes just hours after the electric automaker welcomed hundreds of fans to downtown Austin to ride in the driverless Cybercabs. Tesla plans to deploy the vehicles on its Robotaxi ride-hail network , which is currently operating in a handful of cities in Texas and Florida. The National Highway Traffic Safety Administration is updating vehicle standards to make it easier and faster for driverless cars to deploy on public roads. It’s currently tweaking eight rules, including those requiring car parts that driverless cars don’t really need: brake pedals, windshield wipers, and rearview mirrors. But for now, years-old standards remain in place. Read full article Comments ]]>
 
 ### After 8 years, Europe's BepiColombo mission is on final approach to Mercury
 Fri, 04 Sep 2026 22:49:17 +0000 — https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/
@@ -57,12 +62,17 @@ Fri, 04 Sep 2026 16:22:18 +0000 — https://arstechnica.com/ai/2026/09/anthropic
 
 Anthropic’s prospective public-market investors must reckon with an external group of trustees that control the majority of the AI company’s board, as its planned blockbuster initial public offering forces close scrutiny of its experimental governance structure. The company’s Long-Term Benefit Trust (LTBT) is a small group of advisers created to safeguard the lab’s mission of developing AI for the long-term benefit of humanity, even as commercial pressures intensify. The trust holds no equity in Anthropic, but has significant influence, with the San Francisco-based company planning to preserve its role after a stock market debut that could value the Claude maker at as much as $2 trillion. Read full article Comments ]]>
 
-### Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo
-Fri, 04 Sep 2026 15:59:47 +0000 — https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/
-
-On Thursday, Elon Musk’s X won a court order blocking Operation Bluebird from launching a new app taking over the Twitter name . In his opinion , Chief Judge Colm Connolly explained that Operation Bluebird was unlikely to prove that X had entirely abandoned the Twitter name. Therefore, X was likely to succeed on trademark infringement and dilution claims tied to the platform’s former name. Most compellingly, X argued that it still uses the Twitter name in the current listing for the X app in Apple’s App Store. In the first sentence of that listing, written in the same size font as the rest of the text, a single clause clinched the early court win for X by stating, “Welcome to X (formerly known as Twitter).” Read full article Comments ]]>
-
 ## The Verge
+
+### Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy
+2026-09-05T11:00:00-04:00 — https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview
+
+Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in a row. Holloway's goal has always been about bringing fantasy football to a wider audience, not just hardcore nerds. With the NFL season starting next week and fantasy drafts in full swing, now seemed like a great time to see how Holloway stays focused during what is probably the busiest part of the year for a serious fantasy … Read the full story at The Verge. ]]>
+
+### Content creators drop the ball
+2026-09-05T10:00:16-04:00 — https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad
+
+The USTA Billie Jean King National Tennis Center. | Getty Images During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and repeatedly asked them to quiet down. Elsewhere in the USTA Billie Jean King National Tennis Center, other creators could be seen asking US Open staffers to take full-flash photos of them while Osaka and Zakharova were playing. Last month, United States Tennis Association (USTA) media operations director Jeanmarie Daly said that the US Open was "almost doubling" the number of content creators it was app … Read the full story at The Verge. ]]>
 
 ### The weird and wonderful headphones of CanJam 2026
 2026-09-05T09:00:00-04:00 — https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026
@@ -104,17 +114,12 @@ It's not quite the "push button; get song" of Suno , but Roland's new Melody Fli
 
 OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that "the AGI era" is here now. Today on The Vergecast , we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and Nvidia's acquisition of Hugging Face. Then, our friend Joanna Stern pops in to talk about new Apple CEO John Ternus, old Apple CEO Tim Cook, and most importantly, to speculate on the format of next week's Apple keynote. Watch | Listen | Get ad-free We wrap things up with a super-special lightning round from the IFA electronics show in Berlin. Senior reviewer J … Read the full story at The Verge. ]]>
 
-### Microsoft says virtually nobody was grabbing NYT articles through its chatbot
-2026-09-04T12:05:57-04:00 — https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit
-
-Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors . As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot chat logs to an expert hired by news publishers. The logs, it claims, were specifically chosen "because they hit on keywords implicating use of News Plaintiffs' websites, and therefore the most likely to contain News Plaintiffs' works." It says the resulting analysis shows that 59,545 … Read the full story at The Verge. ]]>
-
-### The best tech and gadgets announced at IFA so far
-2026-09-04T11:41:17-04:00 — https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones
-
-The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including a smartphone that attempts to finally rid the world of screen bezels and a powerful robovac that carries a smaller sidekick for cleaning spaces it can't squeeze into. To catch up on everything announced at IFA 2026 you can follow The Verge 's complete coverage right here . Tecno Bezelless Concept Smartphone By tucking the edges of its 6.78-inch, 144Hz … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Nvidia returns to selling Founder's Edition RTX 50-series GPUs at MSRP in person at PAX West — Verified Priority Access has RTX 5090, RTX 5080, and RTX 5070 at list price
+Sat, 05 Sep 2026 15:04:13 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidia-returns-to-selling-founders-edition-rtx-50-series-gpus-at-msrp-in-person-at-pax-west-verified-priority-access-has-rtx-5090-rtx-5080-and-rtx-5070-at-list-price
+
+PAX West is underway at the Seattle Convention Center in Seattle, Washington, and Nvidia is offering a selection of its Founder's Edition GPUs at MSRP. Nvidia has RTX 5070, RTX 5080, and RTX 5090 models available while supplies last, along with packs of GeForce Trading Cards Series 1 . Jacob Freeman, GeForce Evangelist at Nvidia, shared the announcement on X , telling interested gamers to "come find me" if they want a GPU. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC Nvidia's Verified Priority Access (VPA) is a lottery program for Founder's Edition cards that the company launched in 2022 for RTX 40-series GPUs. It returned in 2025 for RTX 50-series GPUs, and although you can still sign up for the program online, Nvidia has seemingly shifted to offering MSRP GPUs during live events. Last month, the company did something similar at QuakeCon in Austin, Texas . Over the past month, we've seen a sharp rise in the price of Nvidia's highest-end graphics cards in our GPU price tracker , with the $1,999 RTX 5090 now regularly listed for above $5,000 . The RTX 5090 has been a particular flashpoint due to its plentiful 32GB of GDDR7 memory, making it ideal not only for flagship gaming performance but also (relatively) low-cost local AI inf
 
 ### AMD reportedly prepping Ryzen 5 7500 (non-F) CPU with integrated graphics at double the price — Six-core Zen 4 chip rumored to share identical specs with its F-moniker cousin
 Sat, 05 Sep 2026 13:09:23 +0000 — https://www.tomshardware.com/pc-components/cpus/amd-reportedly-prepping-ryzen-5-7500-non-f-cpu-with-integrated-graphics-at-double-the-price-six-core-zen-4-chip-rumored-to-share-identical-specs-with-its-f-moniker-cousin
@@ -171,12 +176,12 @@ Fri, 04 Sep 2026 23:09:31 +0000 — https://www.tomshardware.com/pc-components/g
 
 After a heavily scrutinized announcement earlier this year and a very revealing past few days , DLSS 5 has finally, officially launched inside NBA 2K27 . A sports game is a bit of an unusual choice to showcase what is seemingly the next big leap in real-time rendering, but it's the only game DLSS 5 works with for now. Fortunately, you don't need an RTX 50-series GPU to enjoy it, as Nvidia has confirmed that the tech is coming to previous-gen RTX 40-series hardware as well, though we don't know exactly when. Nvidia has worked closely with developer Visual Concepts to leverage DLSS 5 as an aid rather than the foundation of NBA 2K27 . The game still uses scanned 3D models of all the players to form the base geometry. Then, DLSS 5 combines training data and engine data to infer things like lighting and shadows, upgrading the scene to look more photorealistic. Such engine-level implementation allows devs to fine-tune the end result as per their creative intent instead of just applying a global AI filter over everything. (Image credit: Nvidia / Take-Two Interactive) DLSS 5 will come to other titles soon, but for now it's limited to NBA 2K27, and even then, it's extremely taxing. Nvidia's own marketing shows DLSS 5 netting 370 FPS at 4K with an RTX 5090, compared to 240 FPS with DLSS turned off. What it doesn't highlight as clearly is that the 370 FPS number comes from 6x MFG — five fake frames being interpolated for every real frame. That means the game is actually running at ~61 F
 
-### Grab a new 3D printer for as low as $229 right now in Creality's Labor Day flash sale, with up to 50% off —big sale discounts also include resin and filament bundles, along with 3D scanners and toolkits
-Fri, 04 Sep 2026 17:00:00 +0000 — https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-for-as-low-as-usd229-right-now-in-crealitys-labor-day-flash-sale-with-up-to-50-percent-off-big-sale-discounts-also-include-resin-and-filament-bundles-along-with-3d-scanners-and-toolkits
-
-It's the Labor Day weekend, and now's a great time for you to get started with a brand new hobby: 3D printing. Creality's flash sale for Labor Day has slashed the prices of its flagship range of 3D printers, with up to 50% off right now. If you've been waiting for the chance to jump into the 3D printing world, this is the perfect opportunity. You've got some of Creality's best printers on sale right now, along with resin and filament discounts for those who need to top up their materials. One of the biggest discounts you'll want to take advantage of is the Creality K1, which is down to just $299 right now , saving you half compared to its usual list price. ● Check out Creality's 3D printer deals Other sales you'll want to look at include the beginner-friendly Creality Ender 3 V3 Plus, now priced at just $339 , along with the Creality SparkX i7, which features in our best 3D printers guide and has dropped to just $229 . That said, these Labor Day 3D printer sales won't last forever. These discounts are running until September 15, 2026, at 23:59 ET, although Creality might pull the sale early if it proves too popular, so you'll want to get your order in quickly. You can check out our roundup of Creality's best discounts on 3D printers below. Creality 3D Printer Deals K1 3D Printer: was $599 now $299 The speedy, Core XY-style 3D printer delivers smooth prints at up to 600 mm/s, or ten times a regular 3D printer. You can check out our Creality K1 review for all of the technical d
-
 ## Phoronix
+
+### NVIDIA Posts vGPU Manager & VFIO Variant Driver For Open-Source Nova
+Sat, 05 Sep 2026 11:02:15 -0400 — https://www.phoronix.com/news/NVIDIA-Nova-vGPU-Manager
+
+NVIDIA continues building out more functionality around the open-source, upstream Nova kernel graphics driver within the Linux kernel. Making it out to the mailing list this Saturday is a set of 13 patches for introducing a NVIDIA vGPU manager and VFIO variant driver...
 
 ### Nouveau Lands Display Fixes For NVIDIA Blackwell GPUs As It Works Toward HDMI 2.1
 Sat, 05 Sep 2026 07:20:00 -0400 — https://www.phoronix.com/news/Nouveau-Blackwell-Display-Fixes
@@ -232,9 +237,4 @@ The annual X.Org Developer's Conference "XDC 2026" is happening later this month
 Fri, 04 Sep 2026 08:13:01 -0400 — https://www.phoronix.com/news/Linux-Apple-Audio-Shared-GPIO
 
 The Apple Silicon audio driver code within the Linux kernel is preparing to make use of the recent shared GPIO infrastructure for allowing multiple drivers / kernel components to nicely share the same GPIO lines. This should help clean things up in the mainline kernel for the Apple Silicon audio support and with a cleaner architecture than the current downstream Asahi Linux code...
-
-### Fedora 47 Considering Use Of Thin LTO Compiler Optimizations
-Fri, 04 Sep 2026 06:32:00 -0400 — https://www.phoronix.com/news/Fedora-47-Considers-Thin-LTO
-
-A change proposal filed for what would be part of Fedora Linux 47 is on making use of Thin LTO rather than Fat LTO for link-time optimizations. With Thin LTO being more memory efficient and faster build speeds, the hope is that more Fedora packages could also use Thin LTO for packages where no link-time optimizations are currently leveraged...
 
