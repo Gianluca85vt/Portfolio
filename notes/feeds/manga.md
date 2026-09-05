@@ -1,6 +1,16 @@
-# Manga — harvested 2026-09-05T16:15:39.805Z
+# Manga — harvested 2026-09-05T18:34:05.853Z
 
 ## Anime News Network
+
+### Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 21
+Sat, 05 Sep 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-21/.241439
+
+Joke’s on Gyari, because we all know who the actual main character is here.
+
+### Grow Up Show: Sunflower Circus Anime Streams Video for Circus Collection Arc
+Sat, 05 Sep 2026 12:06:01 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/grow-up-show-sunflower-circus-anime-streams-video-for-circus-collection-arc/.241438
+
+Anime entered arc with episode 10 on Saturday
 
 ### Onimusha: Way Of The Sword Game Review
 Sat, 05 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/switch-2/onimusha/way-of-the-sword/.241126
@@ -51,16 +61,6 @@ Haruka Shiraishi, Shōgo Sakata, Shōya Ishige join cast
 Fri, 04 Sep 2026 23:28:04 -0400 — https://www.animenewsnetwork.com/news/2026-09-04/new-kochikame-anime-reveals-main-cast-staff-2027-debut-in-video/.241412
 
 Fukushi Ochiai, M.A.O, more star in series celebrating manga's 50th anniversary
-
-### Build Your World with New Lego PlayStation
-Fri, 04 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-04/build-your-world-with-new-lego-playstation/.241373
-
-Comes with 1 controller, <i>Gran Torismo</i> & <i>Ape Escape</i> dioramas. Power pack not included.
-
-### Thunder 3 ‒ Episode 9
-Fri, 04 Sep 2026 19:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-9/.241384
-
-It seems we’ll only get to the worthwhile part of the story as the season ends.
 
 ## Crunchyroll News
 

@@ -1,6 +1,36 @@
-# Film & TV — harvested 2026-09-05T16:15:39.805Z
+# Film & TV — harvested 2026-09-05T18:34:05.853Z
 
 ## Variety
+
+### Kid Cudi Defends Kanye West After Ending Feud: Kanye Apologized and It Was Sincere After Antisemitic Outbursts
+Sat, 05 Sep 2026 18:18:34 +0000 — https://variety.com/2026/music/news/kid-cudi-kanye-west-end-feud-antisemitic-1236852747/
+
+After feuding for the past few years, Kanye West and Kid Cudi have made up and reunited during West s Chicago concert on Friday night. West performed the past two nights in his hometown of Chicago to promote his latest album, Bully, and welcomed several surprise guests to the stage. Cudi joined his longtime collaborator for [ ]
+
+### Evil Dead Star Bruce Campbell Says He Has 5 Years to Live After Incurable Cancer Diagnosis: I m Dying but I m Moving On
+Sat, 05 Sep 2026 17:19:53 +0000 — https://variety.com/2026/film/news/bruce-campbell-cancer-5-years-live-1236852722/
+
+Evil Dead star Bruce Campbell is opening up about his battle with cancer, revealing that he s been given about five years to live. Back in March, Campbell revealed he had been diagnosed with a cancer that was treatable but not curable. These days, when someone is having a health issue, it s referred to as an [ ]
+
+### Robert Pattinson Kisses Suki Waterhouse as ‘Primetime’ Rocks Venice With 7-Minute Standing Ovation
+Sat, 05 Sep 2026 17:17:20 +0000 — https://variety.com/2026/film/festivals/robert-pattinson-primetime-venice-premiere-1236837079/
+
+Primetime, a thriller starring Robert Pattinson as To Catch a Predator host Chris Hansen, made its debut at the Venice Film Festival on Saturday to an enthusiastic seven-minute ovation. Venice went fully in for Pattinson s immersive performance as Hansen, the Dateline journalist and host who sets out to make television history with To Catch a [ ]
+
+### ‘It Will Happen Tonight’ Review: Louis Garrel and Jasmine Trinca Follow Each Other Through the Years In a Light and Predictable Romcom
+Sat, 05 Sep 2026 17:15:00 +0000 — https://variety.com/2026/film/reviews/it-will-happen-tonight-review-1236852720/
+
+Not everything labeled “old-fashioned” needs to carry negative connotations. A handwritten letter, your grandma’s rice pudding, the cocktail — all nice old-fashioned things. But the moment Alberto Iglesias’ sweet music flows out of the speakers at the start of “It Will Happen Tonight,” “old-fashioned” starts veering perilously into dowdy territory. When the camera zooms out [ ]
+
+### Mexico’s Venice Queer Lion Contender ‘Tijuana, Todavía’ Trains a Spotlight on the Plight of a Gay Refugee Fleeing Persecution
+Sat, 05 Sep 2026 17:00:55 +0000 — https://variety.com/2026/film/global/venice-queer-lion-tijuana-todavia-spotlight-gays-fleeing-1236850825/
+
+Nothing sharpens the mind like working within constraints. Made on a shoestring production grant of €200,000 ($234,000) and given three weeks to write a screenplay and outline a production schedule, ‘Tijuana, Todavía’ by Mexico’s Gabriel Gutiérrez Morales has been rewarded with a slot at the 83rd Venice Film Festival where it vies for the Queer [ ]
+
+### Spider-Man: Brand New Day Is Fastest Film to Cross $900 Million at Domestic Box Office
+Sat, 05 Sep 2026 16:31:43 +0000 — https://variety.com/2026/film/news/spider-man-brand-new-day-box-office-900-million-1236849789/
+
+Two action flicks, Paramount s By Any Means and A24 s Onslaught, arrived in theaters on Friday. But neither could dethrone Spider-Man: Brand New Day, which remains No. 1 in its sixth weekend in theaters. Spider-Man added $3.9 million on Friday, pushing it past the mind-boggling milestone of $900 million domestically. It s now the fastest movie to [ ]
 
 ### How Maggie Gyllenhaal Used Dakota Johnson and Ellen Burstyn to Reimagine Marilyn Monroe at 100 in Venice Short ‘Flesh Impact’
 Sat, 05 Sep 2026 16:00:00 +0000 — https://variety.com/2026/film/awards/gyllenhaal-flesh-impact-marilyn-monroe-dakota-johnson-venice-1236852103/
@@ -22,37 +52,32 @@ Sat, 05 Sep 2026 14:19:52 +0000 — https://variety.com/2026/film/reviews/chrono
 
 For anyone whose happy place is an old-school library reading room, all aged dark wood and green-and-gold reading lamps casting warm islands of light in the velvety murk, Chronovisor will be a near-fetishistic delight — even as it makes quite unhappy places of such hallowed havens of learning. The first feature by U.S. writer-directors Jack [ ]
 
-### Al Pacino Sends Video Message to Venice After Missing Press Conference for Father Joe : I Wish I Was There, I Really Do
-Sat, 05 Sep 2026 14:04:33 +0000 — https://variety.com/2026/film/festivals/al-pacino-skips-father-joe-press-conference-venice-1236851487/
-
-Al Pacino didn t travel to the Venice Film Festival for the premiere of Father Joe, but he sent a video message with well wishes to his collaborators on the movie. I wish I was there with all of you in Venice, which is great and lovely. I ve had films there. I ve been there. I ve experienced [ ]
-
-### Retirement Match: Here s How to Watch Katie Taylor vs. Flora Pili Boxing Live Online
-Sat, 05 Sep 2026 14:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-katie-taylor-vs-flora-pili-boxing-live-sept-2026-online-1236850092/
-
-Set as Katie Taylor s final fight, one of the greatest fighters in boxing is going for the undisputed title. Irish boxer Katie Taylor defense her WBO, IBF and WBA women s super lightweight (junior welterweight) championship belts against French fighter Flora Pili. Additionally, the vacant WBC women s super lightweight title is on the line, so the [ ]
-
-### Louis Garrel Jokes About Moretti Method Acting at Press Conference for Nanni Moretti s It Will Happen Tonight
-Sat, 05 Sep 2026 13:43:09 +0000 — https://variety.com/2026/film/festivals/louis-garrel-moretti-method-acting-nanni-it-will-tonight-1236843635/
-
-Veteran auteur Nanni Moretti – who has had nine movies in competition at Cannes — is back in Venice after 37 years with It Will Happen Tonight,” a romantic drama toplining French star Louis Garrel and Italian A-lister Jasmine Trinca (“La Storia,” “Supersex”). Years ago I had coined this slightly stupid phrase that I used to [ ]
-
-### Liam and Noel Gallagher Skip Oasis Documentary Press Conference at Venice Film Festival
-Sat, 05 Sep 2026 13:28:18 +0000 — https://variety.com/2026/film/festivals/liam-noel-gallagher-skip-oasis-doc-press-conference-venice-1236852403/
-
-In news that might not surprise anyone, Liam and Noel Gallagher skipped the Venice Film Festival press conference for their upcoming Disney+ documentary Oasis: Don t Look Back in Anger on Saturday. The two brothers — who reunited last year for their massive Live 25 tour after a 15-year feud — arrived on the Lido in [ ]
-
-### Aflac Taps Affleck for Commercials to Keep Insurance Customers Quacking
-Sat, 05 Sep 2026 12:30:00 +0000 — https://variety.com/2026/tv/news/aflac-ben-affleck-commercials-artists-equity-duck-insurance-1236852321/
-
-It seems as simple as moving a few letters around, but a new collaboration between Aflac, the provider of supplemental insurance and Ben Affleck, the actor and director, has been years in the making. Pairing Aflac, which has thrived with commercials featuring an anthropomorphic duck squawking out its name, and Affleck. the star of Good [ ]
-
-### ‘Our Share of Sand’ Review: A Brooding Indian Social Drama Told Through the Eyes of a Young Girl
-Sat, 05 Sep 2026 11:45:00 +0000 — https://variety.com/2026/film/news/our-share-of-sand-review-1236847383/
-
-A keenly observed class drama shown through the eyes of a child, Shalini Adnani’s “Our Share of Sand” overcomes its characters’ narrow construction through its brooding intensity. Set against a sand-mining crisis in modern India, it tells of a 12-year-old British Asian girl, Maya (Maya Mehta), who returns to the country to join her industrialist [ ]
-
 ## The Hollywood Reporter
+
+### Johnny Flynn and Aimee Lou Wood on “Getting Whipped Naked” and “Embracing the Madness” of Their Deranged Literary Biopic
+Sat, 05 Sep 2026 18:12:35 +0000 — https://www.hollywoodreporter.com/movies/movie-features/the-idiots-johnny-flynn-aimee-lou-wood-exclusive-1236691960/
+
+'The Idiot(s),' which premiered Friday night in Telluride, is unlike anything else on the fall circuit: “There'd be days where they would say…‘Today you're going to be shitting on your landlady's doorstep.’”
+
+### Robert Pattinson s Primetime Unveiled at Venice Film Festival to Nearly 8-Minute Standing Ovation
+Sat, 05 Sep 2026 17:17:48 +0000 — https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-primetime-a24-movie-venice-film-festival-1236691614/
+
+Lance Oppenheim's A24 film — co-starring Merritt Wever, Skyler Gisondo, Phoebe Bridgers and Jeff Zucker playing himself — debuted with an electric screening inside Sala Grande Saturday night.
+
+### DoorDash Taps Into Football Fandom With Saturday Savings All Fall Long
+Sat, 05 Sep 2026 17:15:55 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/doordash-streaks-promo-2026-fall-football-saturday-deals-1236691356/
+
+The DoorDash Streaks campaign arrives on the heels of its World Cup-centered summer promotion.
+
+### It Will Happen Tonight Review: Italian Auteur Nanni Moretti’s Searing and Sea-Sawing Romance Is Passionate to a Fault
+Sat, 05 Sep 2026 17:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/it-will-happen-tonight-review-nanni-moretti-louis-garrel-1236691690/
+
+Louis Garrel and Jasmine Trinca play a pair of star-crossed lovers who keep putting off their affair until the coincidences (and hormones) take over.
+
+### Queer Edward II Review: Footage of the Making of Derek Jarman s Edward II Finally Sees the Dark of Cinema in a Wondrous Documentary
+Sat, 05 Sep 2026 17:14:34 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/queer-edward-ii-review-derek-jarman-documentary-1236691778/
+
+Theo Rollason's film offers a lesson on queer history and early-1990s film production on a budget, as well as the spectacle of Tilda Swinton looking impossibly beautiful in her early 30s.
 
 ### Spider-Man: Brand New Day Topping Box Office for Sixth Weekend in a Row
 Sat, 05 Sep 2026 15:48:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-ruling-box-office-for-sixth-weekend-1236691340/
@@ -79,32 +104,37 @@ Sat, 05 Sep 2026 14:49:45 +0000 — https://www.hollywoodreporter.com/tv/tv-feat
 
 The 24-year-old professional dancer reflects on winning the spinoff series, the advice Karagach offered her ahead of season 35’s premiere and her first partnership with ‘Secret Lives of Mormon Wives’ husband Conner Leavitt: “I couldn't ask for a better partner.”
 
-### ‘Pianist’ Actress Maureen Lipman Predicts “Noisy” Night in London Over Her Israel Views
-Sat, 05 Sep 2026 14:34:30 +0000 — https://www.hollywoodreporter.com/news/general-news/pianist-actress-maureen-lipman-noisy-london-israel-1236691725/
-
-'Right Before I Go' playwright Stan Zimmerman calls the controversy and two cast departures an “unfortunate distraction” from his mission to raise awareness about suicide.
-
-### Congress Is About to Write a Federal Film Tax Credit: Just Don t Call It a Hollywood Bill
-Sat, 05 Sep 2026 14:25:00 +0000 — https://www.hollywoodreporter.com/business/business-news/federal-film-tax-credit-1236691082/
-
-States outside of California and New York have seen the brunt of the production exodus. And it is those states that stand to benefit the most from a federal tax incentive.
-
-### The Liberation Review: Carrie Coon, Bella Ramsey and Lily James in Guy Nattiv s Devastatingly Empathetic Cult Drama
-Sat, 05 Sep 2026 14:19:41 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-liberation-review-carrie-coon-guy-nattiv-lily-james-1236690996/
-
-Also starring Odessa Young and Tracy Letts, the film follows a suburban mother who leaves her family to follow a charismatic spiritual guru in 1980s New Jersey.
-
-### Gallagher Brothers Skip Venice Press Conference for Concert Doc
-Sat, 05 Sep 2026 13:26:35 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gallaghers-skip-venice-press-conference-for-documentary-1236691644/
-
-'Oasis: Don't Look Back in Anger' captures the brothers’ blockbuster Oasis Live ’25 reunion tour, their first live performances after their infamous falling out back in 2009.
-
-### Robert Pattinson on Chris Hansen s Objections to Primetime : I Hope He Likes the Movie
-Sat, 05 Sep 2026 12:05:26 +0000 — https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-primetime-movie-to-catch-a-predator-1236690719/
-
-The actor touched down on the Lido this weekend for the Venice Film Festival world premiere of Lance Oppenheim's film, in which he stars as 'To Catch a Predator' host Chris Hansen.
-
 ## Deadline
+
+### Evil Dead Star Bruce Campbell Says His Cancer Carries Five-Year Prognosis
+Sat, 05 Sep 2026 17:55:03 +0000 — https://deadline.com/2026/09/bruce-campbell-cancer-prognosis-1237068998/
+
+Evil Dead star Bruce Campbell says his previously announced cancer diagnosis will likely take his life within five years. In a candid interview on The Adam Carolla Show podcast, Campbell said, “I’m in a five-year prognosis. With the type of cancer that I have, which I don’t want to get into, the current thing is [ ]
+
+### Coyote Vs. Acme Distributor Ketchup Entertainment Takes U.S. On Norwegian Animated Pic ViQueens
+Sat, 05 Sep 2026 17:47:53 +0000 — https://deadline.com/2026/09/coyote-vs-acme-ketchup-viqueens-1237069008/
+
+EXCLUSIVE: Ketchup Entertainment, hot off giving Warner Bros Animation s Coyote Vs. Acme a theatrical release, has acquired U.S. distribution rights to Norwegian animated movie ViQueens from director Harald Zwart (The Karate Kid, The 12th Man, Agent Cody Banks). The U.S. campaign for ViQueens will begin this weekend, with the launch of a teaser only in theaters on [ ]
+
+### The Liberation Review: Carrie Coon, Lily James, And Bella Ramsey Soar In Guy Nattiv s Explosive Cult Thriller Telluride Film Festival
+Sat, 05 Sep 2026 17:25:53 +0000 — https://deadline.com/2026/09/the-liberation-review-carrie-coon-lily-james-bella-ramsey-1237068931/
+
+The Liberation has the bones of every cult movie I have ever seen, yet somehow it feels apart, a completely different and, for this genre, surprisingly female-driven narrative that is at once edge-of-your-seat suspense thriller and achingly personal. That behind the scenes a man is at the heart of all of this, his own deeply [ ]
+
+### A24 s Primetime , Starring Robert Pattinson As Chris Hansen, Lands 9-Minute Ovation At Venice World Premiere
+Sat, 05 Sep 2026 17:21:47 +0000 — https://deadline.com/2026/09/primetime-robert-pattinson-venice-reaction-chris-hansen-1237067852/
+
+The much-talked-about Chris Hansen close up Primetime, starring Robert Pattinson, has landed an enthusiastic nine-minute standing ovation this evening following its world premiere at the Venice Film Festival. Among those in the audience to watch the film tonight were Chloé Zhao, Amanda Seyfried, Mona Fastvold and Pattinson s partner Suki Waterhouse. The film has landed well [ ]
+
+### Matt Gutman Dropped From Former ABC News Field Producer s Wrongful Termination Lawsuit; Disney, ABC Remain As Defendants
+Sat, 05 Sep 2026 17:10:00 +0000 — https://deadline.com/2026/09/matt-gutman-lawsuit-abc-field-producer-1237042227/
+
+UPDATE: Three weeks after news correspondent Matt Gutman was named in a wrongful termination lawsuit filed by a former ABC field producer, Gutman, now a chief correspondent with CBS News, is being dropped from the legal action. In paperwork filed Friday in Los Angeles Superior Court, lawyers for the ex-ABC producer Samaira Said requested that [ ]
+
+### Dolly Parton s Sister Stella Slams Endless Garbage , AI Social Media Misinformation After Icon s Death
+Sat, 05 Sep 2026 16:45:53 +0000 — https://deadline.com/2026/09/dolly-parton-stella-ai-social-media-1237068956/
+
+Dolly Parton s sister Stella Parton is lambasting the tremendous amount of AI and endless garbage” on social media since the death of the country music icon. In an Instagram message yesterday, Stella Parton wrote, “Sadly, because of the way our lives have been lived in front of the public, we have no choice but to [ ]
 
 ### Lainey Wilson To Return As Host Of 2026 CMA Awards
 Sat, 05 Sep 2026 16:15:36 +0000 — https://deadline.com/2026/09/lainey-wilson-host-2026-cma-awards-1237068251/
@@ -135,34 +165,4 @@ Reviews are rolling in for A24 s new movie Primetime, which is debuting at the V
 Sat, 05 Sep 2026 15:01:00 +0000 — https://deadline.com/2026/09/primetime-review-robert-pattinson-lance-oppenheim-venice-1237068867/
 
 It’s astonishing, the sick and twisted things grown men will say to vulnerable children — or rather adults pretending to be children — in chat rooms on the internet, but what’s even more astonishing is that they are willing to try to act on them in real life. This subject affected TV show host Chris [ ]
-
-### Oasis: Don t Look Back In Anger Is About Reconciliation, Redemption, And Forgiveness , Says Steven Knight, As Liam Noel Hit The Lido Venice
-Sat, 05 Sep 2026 14:13:22 +0000 — https://deadline.com/2026/09/oasis-dont-look-back-in-anger-reconciliation-steven-knight-1237068861/
-
-Oasis: Don t Look Back In Anger creator-writer-producer Steven Knight says the film, which captures the rapprochement between feuding brothers Liam and Noel Gallagher, is about reconciliation, redemption, and forgiveness. The anticipated music documentary, which includes Noel and Liam’s first joint interviews in 20 years, captures the band s hit reunion tour last year and sees the [ ]
-
-### Broadway Fall Preview: The Stars Rise In New York This Autumn As Julia Louis-Dreyfus, Billy Crystal, Bradley Whitford, Raúl Esparza, Tom Hiddleston More Take The Stage
-Sat, 05 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/broadway-fall-preview-2026-1237067438/
-
-Although the recently opened Paranormal Activity offered up a fine and spooky soft launch for Broadway s 2026 Fall Season, the usual autumn crunch of new productions is still some weeks off. But no point in waiting until the last minute to make your own plans and choices: A slew of intriguing shows are heading New [ ]
-
-### Robert Pattinson Addresses Chris Hansen’s Criticism Of ‘Primetime’: I Hope It s Some Kind Of Compliment
-Sat, 05 Sep 2026 12:15:28 +0000 — https://deadline.com/2026/09/robert-pattinson-chris-hansen-criticism-compliment-1237068840/
-
-Robert Pattinson says he hopes Chris Hansen will come to see Lance Oppenheim’s thriller Primetime, inspired by the TV host and his show To Catch a Predator series, as a compliment. “I would hope in some ways, like the amount of inspiration that his character has given so many people who are involved in this film [ ]
-
-### Lee Chang-dong On His Eight-Year Hiatus Confident Return With Venice Competition Title ‘Possible Love’
-Sat, 05 Sep 2026 07:21:10 +0000 — https://deadline.com/2026/09/lee-chang-dong-possible-love-venice-netflix-1237067951/
-
-Lee Chang-dong has finally returned to feature filmmaking. The Korean filmmaker has been on an extended eight-year hiatus, which he blames on his “pathological timidity.” “Unless I have that conviction, I cannot make myself begin the work, no matter the external circumstances or what others around me say,” he tells Deadline via Zoom from his [ ]
-
-### Loco Films Boards Venice Title ‘Guria’ As Drama Is Selected To Be Georgia s Oscar Entry + First Trailer
-Sat, 05 Sep 2026 06:29:44 +0000 — https://deadline.com/2026/09/loco-films-venice-guria-georgian-oscar-trailer-1237068270/
-
-EXCLUSIVE: Loco Films has boarded sales on Georgian filmmaker Levan Koguashvili’s drama Guria ahead of its world premiere in the Spotlight section of the Venice Film Festival and unveiled a first trailer. News of the acquisition follows hot on the heels of Georgia’s decision to submit the feature as its entry to the 99th Academy [ ]
-
-### MAD Solutions IRTH Strike Pan-Arab Development Production Strategic Partnership – Venice
-Sat, 05 Sep 2026 06:00:02 +0000 — https://deadline.com/2026/09/mad-solutions-irth-pan-arab-strategic-partnership-venice-1237068800/
-
-Cairo-based film and talent group MAD Solutions has announced a strategic partnership with Egyptian author, screenwriter and producer Haitham Dabbour’s pan-Arab drama development and production company IRTH. The partnership will bring their complementary strengths together to develop, package and support film, TV drama and other entertainment projects from across the Arab world for regional and [ ]
 

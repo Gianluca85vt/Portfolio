@@ -1,4 +1,4 @@
-# Games — harvested 2026-09-05T16:15:39.805Z
+# Games — harvested 2026-09-05T18:34:05.853Z
 
 ## Eurogamer
 
@@ -94,16 +94,16 @@ Fri, 04 Sep 2026 07:37:02 +0000 — https://www.gamesindustry.biz/xbox-adds-mont
 
 Xbox will introduce monthly cloud gaming limits for Game Pass subscribers beginning in November 2026. Read more
 
-### Voting extended for special categories in the Best Places To Work Awards
-Thu, 03 Sep 2026 16:30:22 +0000 — https://www.gamesindustry.biz/voting-extended-for-special-categories-in-the-best-places-to-work-awards
-
-Now that Gamescom is firmly behind us, the GamesIndustry.biz team is busy judging the entries for this year's Best Places To Work Awards. Entries have closed for our headline awards, which are judged based on anonymous employee feedback - but we have extended the deadline for nominations for our Special Awards, which reward excellence in specific fields. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Preview: This Free Animal Crossing Rival Could Give Nintendo a Serious Headache
+Sat, 05 Sep 2026 16:30:00 GMT — https://www.pushsquare.com/previews/this-free-animal-crossing-rival-could-give-nintendo-a-serious-headache
+
+Bell me up, buttercup. I imagine HoYoverse is not expecting to immediately overcome Animal Crossing’s cultural impact. Characters like Tom Nook and K.K. Slider are video game icons, and it’s going to be practically impossible for Petit Planet to displace them. Read the full article on pushsquare.com
 
 ### Marvel s Venom Still in Dev for PS5, Will Surely Be Huge
 Sat, 05 Sep 2026 13:45:00 GMT — https://www.pushsquare.com/news/2026/09/marvels-venom-still-in-dev-for-ps5-will-surely-be-huge
@@ -159,11 +159,6 @@ Decide Push Square's GOTM. Hmmm, it feels like August could give us one of the t
 Fri, 04 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/previews/exodus-on-ps5-could-be-the-mass-effect-replacement-ive-been-waiting-for
 
 Space is filled with sentient frogs and bears, apparently. Up until I went hands-on with Exodus at Gamescom, I thought it looked fine. Another sci-fi RPG trying to capture the magic of the Mass Effect series, citing the experience of former BioWare, Naughty Dog, and EA developers — and somehow, Matthew McConaughey is also involved. Read the full article on pushsquare.com
-
-### Sony Factory Will Still Have Significant PS5 Disc Manufacturing Capacity After Physical Media Deadline
-Fri, 04 Sep 2026 14:45:00 GMT — https://www.pushsquare.com/news/2026/09/sony-factory-will-still-have-significant-ps5-disc-manufacturing-capacity-after-physical-media-deadline
-
-Production will decline by 10%, not to 10%. An Austrian report published alongside confirmation that Sony will cease manufacturing physical discs in January 2028 suggested it would cut its production capacity to just 10%. The quote, attributable to Sony DADC’s Dietmar Tanzer , said: Read the full article on pushsquare.com
 
 ## Game Developer
 
