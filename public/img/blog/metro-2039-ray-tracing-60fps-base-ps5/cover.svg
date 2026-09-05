@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Metro 2039: ray tracing and 60fps on a base PS5">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.65" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="62%" stop-color="#5A1230"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" letter-spacing="6" fill="#F4C9D3" opacity="0.85">METRO 2039</text>
+  <text x="90" y="330" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="190" font-weight="700" fill="#FFFFFF">60fps</text>
+  <text x="90" y="430" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="74" font-weight="600" fill="#FFD7E0">with ray tracing</text>
+  <text x="90" y="510" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="42" fill="#F4C9D3" opacity="0.9">on a base PlayStation 5</text>
+  <rect x="90" y="560" width="150" height="5" fill="#FFFFFF" opacity="0.55"/>
+</svg>
