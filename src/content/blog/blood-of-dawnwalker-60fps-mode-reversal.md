@@ -8,8 +8,8 @@ cover: /img/blog/blood-of-dawnwalker-60fps-mode-reversal/shot-01.jpg
 
 Three days ago Rebel Wolves confirmed The Blood of Dawnwalker would launch
 with a 30fps Quality mode and a 40fps Balanced mode on PS5, PS5 Pro and
-Series X, and nothing faster on any of them. I wrote at the time that the
-likely reason was the game's day/night split — two full lighting regimes,
+Series X, and nothing faster on any of them. [I wrote at the time](/blog/blood-of-dawnwalker-no-60fps-two-worlds/) that
+the likely reason was the game's day/night split — two full lighting regimes,
 human and vampire, sharing one frame-time budget — and that spending the
 Pro's extra silicon on fidelity instead of frame rate read as the studio
 protecting that split rather than under-delivering.

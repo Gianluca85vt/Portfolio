@@ -100,6 +100,12 @@ everything, believe the 6.
 
 ---
 
+The frame rate had its own week before launch: [the studio skipped 60fps
+entirely](/blog/blood-of-dawnwalker-no-60fps-two-worlds/), then [found a
+Performance mode in three days](/blog/blood-of-dawnwalker-60fps-mode-reversal/).
+
+---
+
 *Scores collected on 31 August 2026 from OpenCritic and the outlets' own pages,
 converted to a 1-10 scale and averaged. The aggregate figures at the top are
 OpenCritic's own. The Blood of Dawnwalker releases 3 September 2026 on PS5,

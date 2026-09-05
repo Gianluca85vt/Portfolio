@@ -84,7 +84,14 @@ running into from the technical-art side: a frame-rate number in a patch note is
 never really about the frame rate. It's a proxy for how much of a game's
 underlying systems got touched to get there, and whether the team doing it was
 working with tools built for the job or fighting a decades-old proprietary stack
-to make it happen. Judged on that basis, Mafia's free 60fps patch is a bigger
+to make it happen. Rebel Wolves ran the same equation in public a few weeks later, [skipping
+60fps entirely on Blood of
+Dawnwalker](/blog/blood-of-dawnwalker-no-60fps-two-worlds/) and then [finding
+the mode three days after the
+backlash](/blog/blood-of-dawnwalker-60fps-mode-reversal/) — a number that was
+always about what the renderer could be asked to give up.
+
+Judged on that basis, Mafia's free 60fps patch is a bigger
 piece of work than the one line in the changelog suggests — and the fact that
 Mafia II and III didn't get the same treatment tells you almost as much as the
 patch itself does.

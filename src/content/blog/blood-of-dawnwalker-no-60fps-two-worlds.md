@@ -6,6 +6,11 @@ excerpt: Rebel Wolves' vampire RPG ships with a 30fps Quality mode and a 40fps B
 cover: /img/blog/blood-of-dawnwalker-no-60fps-two-worlds/shot-01.jpg
 ---
 
+> **This was overturned three days later.** Rebel Wolves announced a 60fps
+> Performance mode for the day-one patch — [what changed, and what did
+> not](/blog/blood-of-dawnwalker-60fps-mode-reversal/). The reading below, of
+> why the frame budget was tight in the first place, still holds.
+
 The Blood of Dawnwalker, Rebel Wolves' open-world vampire RPG, launches on 3
 September. This week the studio confirmed its console graphics modes, and the
 headline is what's missing: no 60fps option, on any console, including PS5
@@ -103,6 +108,10 @@ in the busiest, most torch-lit nighttime scenes the open world can throw at
 them. A day/night RPG on PS5 hardware skipping 60fps entirely, even on the
 Pro, is the kind of restraint that either reads as confidence once people
 see the nights, or as a game that needed the deadline pushed.
+
+The game shipped on 3 September and the verdicts are in: [twelve scores
+averaging an 8, across a three-and-a-half point
+spread](/blog/blood-of-dawnwalker-review/).
 
 *Console mode details from Rebel Wolves' own reveal, reported by Push
 Square, RPG Site, eXputer and AltChar this week — all pointing at the same

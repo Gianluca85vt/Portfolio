@@ -3,22 +3,36 @@ import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import HomePage from '../components/HomePage';
 import SiteDisclaimer from '../components/SiteDisclaimer.astro';
-import { blog, site, socials } from '../data/portfolio';
+import { blog, site, socials, coverFor } from '../data/portfolio';
 
 const title = 'Gianluca Scattarella — 3D Environment & Technical Artist';
 const description =
   'Senior 3D environment and technical artist: Unreal Engine 5 real-time environments, 3D modelling, animation and architectural visualization.';
 
-// The three most recent posts, for the speech bubbles on the avatar.
-const latest = (await getCollection('blog', ({ data }) => !data.draft))
-  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
-  .slice(0, 3)
-  .map((entry) => ({
-    slug: entry.id,
-    title: entry.data.title,
-    category: entry.data.category,
-    excerpt: entry.data.excerpt ?? '',
-  }));
+const published = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime()
+);
+
+// The three most recent, for the speech bubbles on the avatar.
+const latest = published.slice(0, 3).map((entry) => ({
+  slug: entry.id,
+  title: entry.data.title,
+  category: entry.data.category,
+  excerpt: entry.data.excerpt ?? '',
+}));
+
+// The four most recent for the blog section further down the page, which needs
+// the artwork and the date as well. Dates cross to the island as strings:
+// a Date does not survive serialisation into a client component.
+const posts = published.slice(0, 4).map((entry) => ({
+  slug: entry.id,
+  title: entry.data.title,
+  category: entry.data.category,
+  excerpt: entry.data.excerpt ?? '',
+  cover: coverFor(entry.data.category, entry.data.cover),
+  date: entry.data.date.toISOString(),
+  score: entry.data.score !== undefined ? Math.round(entry.data.score * 2) / 2 : undefined,
+}));
 
 // sameAs is how Google links the site to the social profiles behind it
 const jsonLd = {
@@ -43,7 +57,7 @@ const jsonLd = {
 <Base title={title} description={description} jsonLd={jsonLd}>
   <!-- The home page is one continuous animated composition, so it hydrates as a
        single island. Astro still renders it to static HTML at build time. -->
-  <HomePage latest={latest} client:load />
+  <HomePage latest={latest} posts={posts} client:load />
 
   <!-- Rights and AI notice, after the contact footer so it closes the page. -->
   <SiteDisclaimer />

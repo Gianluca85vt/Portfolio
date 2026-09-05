@@ -80,6 +80,10 @@ At 170GB/s it's also moving about a seventh of what the Ultra moves. Which puts
 a firm edge on what the M6 mini is for: a capable desktop, and a poor render
 node.
 
+Memory is the expensive part of all of this, and it is expensive everywhere at
+once — [it is the reason Sony still cannot put a date on the
+PS6](/blog/ps6-memory-crisis-next-gen-art-budgets/).
+
 Prices, since they date quickly: the M6 Mac mini starts at $899 and the M5 Pro
 version at $1,699; Mac Studio starts at $2,499 with the M5 Max and $5,499 with
 the M5 Ultra. One detail worth catching if external storage matters to your
