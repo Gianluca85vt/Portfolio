@@ -153,7 +153,10 @@ publishes; if the wait runs out, it dies unpublished and that is the correct
 outcome. Getting there second is survivable. Being wrong in the first person,
 with his name on it, is not.
 
-This costs volume. That is the trade he chose.
+This is a rule about verifying, not about publishing less. He set a standard
+for what goes out, not a ceiling on how much does. Whether a second source is
+easy or hard to find is a research problem, and the answer to a hard one is to
+look harder, never to lower the bar.
 
 **It is not advice, it is the build.** From 7 September 2026 a published
 article carries `sources:` in its frontmatter and the build fails without two
@@ -178,6 +181,15 @@ The archive from before that date is left alone, the same decision he made
 about the drawn covers. Written as guidance this rule would lose to a deadline,
 which is exactly what happened to the manga quota while it was only a
 preference.
+
+**Where the second source has to come from.** The writer runs behind an egress
+proxy that refuses almost every host, which is why `harvest-sources.mjs` exists
+at all: what it can read is what GitHub Actions fetched into `notes/feeds`.
+Measured on the harvest of 6 September, only 15 of 109 stories there were
+carried by two of our outlets. That is a limit of the harvest, not of the
+world - the same story is usually on four sites we do not fetch. If pieces
+start stalling for want of corroboration, the fix is more feeds, not a lower
+bar.
 
 ---
 
