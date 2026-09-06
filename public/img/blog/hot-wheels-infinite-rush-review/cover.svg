@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#2E7D7B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <line x1="80" y1="205" x2="1120" y2="205" stroke="#7FEFEA" stroke-width="3" opacity="0.35"/>
+  <text x="80" y="150" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#7FEFEA" letter-spacing="6">INFINITE RUSH — REVIEW</text>
+  <text x="80" y="420" font-family="Helvetica,Arial,sans-serif" font-size="230" font-weight="bold" fill="#FFFFFF">7.5</text>
+  <text x="80" y="490" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#FFFFFF" opacity="0.92">from six verdicts, 6 to 9</text>
+  <text x="80" y="556" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#7FEFEA" opacity="0.85">the playset became four islands</text>
+</svg>
