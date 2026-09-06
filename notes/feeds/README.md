@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-06T13:05:57.514Z
+# Source feeds — harvested 2026-09-06T13:13:44.592Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -6,10 +6,10 @@ own feed: headline, link, date, and their summary.
 
 ## Editorial mix — what the archive owes
 
-**Write Manga and anime next.** 38 articles have gone out since the last one.
+**Write Manga and anime next.** 39 articles have gone out since the last one.
 
-- **Manga and anime** — BROKEN. 38 articles since the last one; quota is one in 6. 3 in the archive of 127.
-- **Film & TV** — BROKEN. 44 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 127.
+- **Manga and anime** — BROKEN. 39 articles since the last one; quota is one in 6. 3 in the archive of 128.
+- **Film & TV** — BROKEN. 45 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 128.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds

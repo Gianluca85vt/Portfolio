@@ -1,6 +1,11 @@
-# Film & TV — harvested 2026-09-06T13:05:57.514Z
+# Film & TV — harvested 2026-09-06T13:13:44.592Z
 
 ## Variety
+
+### ‘September 5’ Director Tim Fehlbaum Working on a ‘Historical Film’ Set in Berlin as Swiss Filmmakers Take on Challenges and Opportunities of Shooting in English
+Sun, 06 Sep 2026 13:06:13 +0000 — https://variety.com/2026/film/global/september-5-tim-fehlbaum-ursula-meier-michael-koch-1236852712/
+
+Some of the main breakouts of Swiss cinema in 2026—and the few years that precede it—share one striking commonality: they are either entirely in English or feature large chunks of English. Think Petra Volpe’s Locarno-winning “Frank Louis,” Damien Hauser’s festival darling “Memory of Princess Mumbi,” Denis Rabaglia’s buzzy “Butterfly Stroke” and, of course, Tim [ ]
 
 ### Susan Sarandon Says She s Still Had Movies Taken Away Recently Over Palestine Support: There Are Agencies That Are Telling People Not to Hire Me
 Sun, 06 Sep 2026 12:26:01 +0000 — https://variety.com/2026/film/festivals/susan-sarandon-movies-taken-away-palestine-support-1236853245/
@@ -46,11 +51,6 @@ For Lucy Liu, who has voiced memorable characters in everything from “Kung Fu 
 Sun, 06 Sep 2026 05:50:14 +0000 — https://variety.com/2026/film/news/judith-blum-reddy-doc-everything-is-not-ok-watermelon-pictures-1236852495/
 
 Watermelon Pictures has acquired Everything Is Not OK, a documentary from director Dev Benegal chronicling the life of artist Judith Blum Reddy. The film will stream exclusively on Watermelon+, the distributor s streaming platform. The producing team pairs Benegal with Min(d) Studio s Maya S. Patel and Neeraj Jain, while Annemarie Jacir ( Palestine 36 ) has signed on [ ]
-
-### San Sebastian, Busan-Bound Taiwanese Coming-of-Age Drama Will You Still Be My Friend Boarded for Sales by Moveria, Trailer Unveiled (EXCLUSIVE)
-Sun, 06 Sep 2026 05:48:08 +0000 — https://variety.com/2026/film/news/san-sebastian-busan-will-you-still-be-my-friend-boarded-moveria-1236853144/
-
-Paris-based Moveria has boarded international sales on Taiwanese filmmaker Lu Po-Shun s debut feature Will You Still Be My Friend, which is set for a berth in San Sebastián s New Directors sidebar before travelling on to the Busan International Film Festival. A Taiwan-Singapore co-production, the film follows two young boys, played by Jaden Wang and Aloysius [ ]
 
 ## The Hollywood Reporter
 
