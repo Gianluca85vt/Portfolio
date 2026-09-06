@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Blender Studio opens the OVERGROWN production archive for one week">
+  <defs>
+    <linearGradient id="bgOvg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#123A22"/>
+      <stop offset="100%" stop-color="#2E9C5A"/>
+    </linearGradient>
+    <linearGradient id="accOvg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2E9C5A"/>
+      <stop offset="100%" stop-color="#C8F5D8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgOvg)"/>
+
+  <!-- growth creeping up over a hard edge, faint -->
+  <g stroke="#C8F5D8" stroke-opacity="0.14" stroke-width="3" fill="none">
+    <path d="M60 900 C 90 760, 150 720, 140 600"/>
+    <path d="M180 900 C 210 780, 265 745, 258 640"/>
+    <path d="M300 900 C 330 790, 388 752, 380 665"/>
+    <path d="M980 900 C 1010 770, 1064 730, 1056 620"/>
+    <path d="M1100 900 C 1128 786, 1180 750, 1172 660"/>
+  </g>
+  <g stroke="#C8F5D8" stroke-opacity="0.10" stroke-width="2" fill="none">
+    <rect x="120" y="640" width="300" height="260"/>
+    <rect x="960" y="620" width="220" height="280"/>
+    <rect x="470" y="700" width="260" height="200"/>
+  </g>
+
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#C8F5D8" fill-opacity="0.85" letter-spacing="6">BLENDER STUDIO</text>
+
+  <text x="80" y="310" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="bold" fill="#FFFFFF">OVERGROWN</text>
+
+  <text x="80" y="410" font-family="Helvetica, Arial, sans-serif" font-size="58" fill="url(#accOvg)">every production log, free</text>
+  <text x="80" y="480" font-family="Helvetica, Arial, sans-serif" font-size="58" fill="url(#accOvg)">for one week</text>
+
+  <rect x="80" y="530" width="180" height="5" fill="#C8F5D8" fill-opacity="0.7"/>
+
+  <text x="80" y="610" font-family="Helvetica, Arial, sans-serif" font-size="38" fill="#FFFFFF" fill-opacity="0.72">5,980 subscribers. 7,000 needed.</text>
+</svg>
