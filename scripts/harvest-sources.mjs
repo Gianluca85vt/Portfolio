@@ -16,6 +16,16 @@
 import { writeFile, mkdir, rm } from 'node:fs/promises';
 import { publishedArticles, assess, report } from './editorial-mix.mjs';
 
+// Widened on 6 September 2026, from 20 feeds to 36, because the two-source rule
+// can only be satisfied out of what lands in notes/feeds: the writer sits
+// behind an egress proxy that refuses almost every host. On the harvest that
+// day only 15 of 109 stories were carried by two of our outlets, which was a
+// shortage of feeds rather than of coverage - the same story was on four sites
+// we did not fetch.
+//
+// Animation Magazine and Cartoon Brew belong here on subject and are absent on
+// evidence: both answered 403. Comic Natalie is left out because it publishes
+// in Japanese and the writer works in English.
 const FEEDS = [
   // Games
   { category: 'Games', name: 'Eurogamer', url: 'https://www.eurogamer.net/feed' },
@@ -23,11 +33,19 @@ const FEEDS = [
   { category: 'Games', name: 'VG247', url: 'https://www.vg247.com/feed' },
   { category: 'Games', name: 'Push Square', url: 'https://www.pushsquare.com/feeds/latest' },
   { category: 'Games', name: 'Game Developer', url: 'https://www.gamedeveloper.com/rss.xml' },
+  { category: 'Games', name: 'VGC', url: 'https://www.videogameschronicle.com/feed/' },
+  { category: 'Games', name: 'Polygon', url: 'https://www.polygon.com/rss/index.xml' },
+  { category: 'Games', name: 'PC Gamer', url: 'https://www.pcgamer.com/rss/' },
+  { category: 'Games', name: 'GameSpot', url: 'https://www.gamespot.com/feeds/news/' },
+  { category: 'Games', name: 'Rock Paper Shotgun', url: 'https://www.rockpapershotgun.com/feed' },
   // Tech
   { category: 'Tech', name: 'Ars Technica', url: 'https://feeds.arstechnica.com/arstechnica/index' },
   { category: 'Tech', name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml' },
   { category: 'Tech', name: "Tom's Hardware", url: 'https://www.tomshardware.com/feeds/all' },
   { category: 'Tech', name: 'Phoronix', url: 'https://www.phoronix.com/rss.php' },
+  { category: 'Tech', name: 'The Register', url: 'https://www.theregister.com/headlines.atom' },
+  { category: 'Tech', name: 'Engadget', url: 'https://www.engadget.com/rss.xml' },
+  { category: 'Tech', name: 'TechCrunch', url: 'https://techcrunch.com/feed/' },
   // 3D
   { category: '3D', name: '80.lv', url: 'https://80.lv/feed/' },
   { category: '3D', name: 'BlenderNation', url: 'https://www.blendernation.com/feed/' },
@@ -40,10 +58,18 @@ const FEEDS = [
   // Manga / anime
   { category: 'Manga', name: 'Anime News Network', url: 'https://www.animenewsnetwork.com/all/rss.xml' },
   { category: 'Manga', name: 'Crunchyroll News', url: 'https://www.crunchyroll.com/news/rss' },
+  { category: 'Manga', name: 'Anime Corner', url: 'https://animecorner.me/feed/' },
+  { category: 'Manga', name: 'MyAnimeList News', url: 'https://myanimelist.net/rss/news.xml' },
+  { category: 'Manga', name: 'Otaku USA', url: 'https://otakuusamagazine.com/feed/' },
+  { category: 'Manga', name: 'Anime UK News', url: 'https://animeuknews.net/feed/' },
   // Film & TV
   { category: 'Film & TV', name: 'Variety', url: 'https://variety.com/feed/' },
   { category: 'Film & TV', name: 'The Hollywood Reporter', url: 'https://www.hollywoodreporter.com/feed/' },
   { category: 'Film & TV', name: 'Deadline', url: 'https://deadline.com/feed/' },
+  { category: 'Film & TV', name: 'befores & afters', url: 'https://beforesandafters.com/feed/' },
+  { category: 'Film & TV', name: 'IndieWire', url: 'https://www.indiewire.com/feed/' },
+  { category: 'Film & TV', name: 'The Wrap', url: 'https://www.thewrap.com/feed/' },
+  { category: 'Film & TV', name: 'Collider', url: 'https://collider.com/feed/' },
 ];
 
 const MAX_ITEMS_PER_FEED = 12;

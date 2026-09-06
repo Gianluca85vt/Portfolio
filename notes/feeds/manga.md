@@ -1,4 +1,4 @@
-# Manga — harvested 2026-09-06T18:37:51.176Z
+# Manga — harvested 2026-09-06T21:15:33.128Z
 
 ## Anime News Network
 
@@ -65,4 +65,79 @@ Abrams ComicArts' imprint previously scheduled short story collection for Novemb
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
+
+## Anime Corner
+
+### Interview: KAIJU GIRL CARAMELISE Creator Spica Aoki on the Manga's Unique Setting
+Sun, 06 Sep 2026 17:00:00 GMT — https://animecorner.me/interview-kaiju-girl-caramelise-creator-spica-aoki-on-the-mangas-unique-setting/
+
+Manga author Spica Aoki visited the German convention AnimagiC for the first time. Among&hellip;
+
+### Mushoku Tensei Season 3 Confirms Tomokazu Sugita as Voice of Future Old Rudeus
+Sun, 06 Sep 2026 15:26:41 GMT — https://animecorner.me/mushoku-tensei-season-3-confirms-tomokazu-sugita-as-voice-of-future-old-rudeus/
+
+Mushoku Tensei: Jobless Reincarnation Season 3 revealed the voice actor of old Rudeus from the future to be Tomokazu Sugita.
+
+### Re:ZERO Season 4 Tops Weekly Ranking for the Second Time in Summer 2026 After Episode 15
+Sun, 06 Sep 2026 13:21:51 GMT — https://animecorner.me/rezero-season-4-tops-weekly-ranking-for-the-second-time-in-summer-2026-after-episode-15/
+
+Re:ZERO Season 4 has topped the weekly Summer 2026 anime rankings for the second time in Week 9 after its Episode 15.
+
+### BLEACH: Thousand-Year Blood War Episode 47 Streaming Delayed as Schedule Moves to Tuesdays for Numerous Platforms in Japan
+Sat, 05 Sep 2026 14:49:10 GMT — https://animecorner.me/bleach-thousand-year-blood-war-episode-47-streaming-delayed-as-schedule-moves-to-tuesdays-for-numerous-platforms-in-japan/
+
+BLEACH: Thousand-Year Blood War will change streaming schedule on numerous platforms in Japan beginning with Episode 47, moving to Tuesdays.
+
+### MyGO Covers Bocchi the Rock Opening Song "Seishun Complex"
+Sat, 05 Sep 2026 12:55:25 GMT — https://animecorner.me/mygo-covers-bocchi-the-rock-opening-song-seishun-complex/
+
+MyGO released a cover of the Bocchi the Rock anime's opening theme song "Seishun&hellip;
+
+### Katekyo Hitman Reborn! Releases Creditless Second Anime Opening Featuring "BOYS & GIRLS" by LM.C
+Sat, 05 Sep 2026 11:03:30 GMT — https://animecorner.me/katekyo-hitman-reborn-releases-creditless-second-anime-opening-featuring-boys-girls-by-lm-c/
+
+Katekyo Hitman REBORN! anime released the creditless version of its second opening, featuring "BOYS & GIRLS" by LM.C.
+
+### Yowaki MAX Reijo Nano ni Anime Reveals New Visual, Trailer, Additional Cast, Theme Songs, October 4 Premiere
+Sat, 05 Sep 2026 09:31:49 GMT — https://animecorner.me/yowaki-max-reijo-nano-ni-anime-reveals-new-visual-trailer-additional-cast-theme-songs-october-4-premiere/
+
+The previously announced Yowaki MAX Reijo Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte&hellip;
+
+### STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE New Preview Images Revealed
+Sat, 05 Sep 2026 08:14:37 GMT — https://animecorner.me/steel-ball-run-jojos-bizarre-adventure-2nd-stage-new-preview-images-revealed/
+
+STEEL BALL RUN JoJo's Bizarre Adventure 2ND STAGE revealed new preview images ahead of its September 25 premiere on Netflix.
+
+## MyAnimeList News
+
+### Light Novel Unnamed Memory: After the End Concludes with Eighth Volume
+Sun, 06 Sep 2026 04:54:23 -0700 — https://myanimelist.net/news/74676481?_location=rss
+
+The official X (formerly Twitter) account of Kadokawa s Dengeki no Shinbungei label announced on August 27 that Kuji Furumiya and chibi s Unnamed Memory: After the End light novel series will end with its eighth volume on December 17. Furumiya began penning the sequel fantasy romance light novel under Dengeki no Shinbungei imprint in February 2022, with illustrations by chibi (Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu). Kadokawa published the sixth volume in May 2025,...
+
+### Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta Unveils Additional Cast, Theme Songs, Second Promo
+Fri, 04 Sep 2026 21:05:17 -0700 — https://myanimelist.net/news/74670013?_location=rss
+
+The official website for the television anime adaptation of Hiro Oda s Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta (Even Though I m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fianc&eacute;) light novel unveiled additional cast, a key visual (pictured), the theme songs, and second promotional video on Saturday. The anime series is scheduled to premiere on October 4 at 11:30 p.m. on AT-X, followed by Tokyo MX, Sun TV, KBS Kyoto, and othe...
+
+### Shin Kochira Katsushikaku Kameari Kouenmae Hashutsujo Reveals Main Cast, Staff, Character Promo, 2027 Debut
+Fri, 04 Sep 2026 20:26:23 -0700 — https://myanimelist.net/news/74669928?_location=rss
+
+The special livestream presentation for the new television anime adaptation of Osamu Akimoto s Kochira Katsushikaku Kameari Kouenmae Hashutsujo (KochiKame) manga revealed the main cast, staff, a key visual (pictured right), and character promotional video on Saturday. The anime series will premiere on Fuji TV in 2027. Cast Kankichi Ryotsu: Fukushi Ochiai (Hai to Gensou no Grimgar) Keiichi Nakagawa: Shouta Aoi (Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...)...
+
+## Otaku USA
+
+_Nothing in the last 48 hours._
+
+## Anime UK News
+
+### Just Like Mona Lisa Volumes 9 and 10 Review
+Sun, 06 Sep 2026 09:00:03 +0000 — https://animeuknews.net/2026/09/just-like-mona-lisa-volumes-9-and-10-review/
+
+These two volumes conclude Just Like Mona Lisa, as we explore 'what if' futures where Hinase becomes male or female.
+
+### Golden Man Volume 1 Review
+Sat, 05 Sep 2026 09:00:33 +0000 — https://animeuknews.net/2026/09/golden-man-volume-1-review/
+
+The people of Neo York are protected by their hero. If only he could remember who he is...
 

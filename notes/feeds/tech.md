@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-06T18:37:51.176Z
+# Tech — harvested 2026-09-06T21:15:33.128Z
 
 ## Ars Technica
 
@@ -27,22 +27,17 @@ Fri, 04 Sep 2026 22:17:36 +0000 — https://arstechnica.com/security/2026/09/ope
 
 Self-identifying OpenAI agents posted 18,000 messages to a public wiki that discussed ways for other agents to bypass security sandbox restrictions during what was likely internal testing designed to gauge the agents’ hacking abilities, researchers said Friday . In all, agents with 3,700 distinct self-given names posted the messages to German site DSEwiki over a six-week period. Besides discussing ways the agents could break out of the restricted environment OpenAI intended to prevent them from posting code or content to the Internet, the posts shared test answers. The posts also shared possible ways to perform XSS (cross-site scripting) attacks against the wiki and to impersonate site moderators. In three of the posts, agents used the word “swarm” to describe the collection of agents engaged in the activity. Colluding to share answers The research team—composed of Sydney Von Arx, Spencer Kitts, Thomas Larsen, and Cormac Slade Byrd—said they found the posts and pieced them together. The researchers say there are gaps in their understanding of precisely what actions the agents took because the research is based solely on the content of the posts. Additionally, the agents generated “chain of thought” data that’s understood only by OpenAI. As a result, the researchers said, they in some cases made educated guesses, including that the agents were, in fact, from OpenAI. In a statement, OpenAI later confirmed they were. Read full article Comments ]]>
 
-### Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths
-Fri, 04 Sep 2026 20:22:41 +0000 — https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/
-
-A six-week-old baby girl in Lancaster, Pennsylvania, died from measles, the county coroner confirmed to local press on Friday. Stephen Diamantoni, a Republican elected coroner in 2007, told Lancaster Online that the baby died at home. "I believe it was the 18th of August," he said. He also noted that the baby had a genetic condition called Amish lethal microcephaly , in which babies are born with unusually small heads and underdeveloped brains. The condition is caused by a mutation in the SLC25A19 gene, which codes for a protein involved with energy-producing enzymes in the mitochondria and is thought to be important for brain development. About 1 in 500 babies in the Old Order Amish population of Pennsylvania is born with the condition. Infants with the disorder only survive for about six months. Read full article Comments ]]>
-
-### Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC
-Fri, 04 Sep 2026 19:46:34 +0000 — https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/
-
-The Federal Communications Commission yesterday urged a court to dismiss a Disney lawsuit and let the FCC continue a proceeding that could end in the nonrenewal of ABC's broadcast licenses. Meanwhile, two watchdog groups and individual viewers of ABC stations are trying to intervene in the lawsuit, saying they are worried Disney will agree to a settlement with the FCC that isn't in the public's interest. Disney opposed the motion, and a judge will have to decide whether the groups and individuals can act as intervenors in the case. Disney sued the FCC on August 18, saying the agency is waging a “campaign of censorship” to retaliate against ABC for speech that President Trump doesn't like. As the lawsuit gets underway, Trump continued his attacks on the media last weekend by demanding that the FCC punish or rebuke an NBC journalist for saying he has “mixed results” in his election endorsements. Read full article Comments ]]>
-
-### Medieval manuscripts are "biological time capsules" for deadly sheeppox virus
-Fri, 04 Sep 2026 19:01:02 +0000 — https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/
-
-Sheeppox is a highly contagious, often fatal viral disease that was largely eradicated from much of European livestock in the 20th century. But there is still the occasional regional outbreak, such as the one that afflicted many flocks of sheep in Greece last year . In order to reconstruct how the virus has evolved over the last 3,500 years, scientists extracted and sequenced sheeppox DNA preserved in the animal skins used for the parchment of numerous medieval manuscripts. They reported their findings in a new paper published in the journal Science Advances. “The recording of ancient DNA of pathogens has completely changed our understanding of infectious disease in the past, and here we show that parchment can also preserve animal pathogen DNA. It is possible that archives and libraries around the world also contain the genetic traces of disease outbreaks in animals in the past,” said co-author Louis L’Hôte , a graduate student at University College Dublin. “These genomes help us understand how these pathogens evolved and how they impacted past societies—such as sheeppox virus, which we show has been affecting Eurasian sheep herds for at least three and a half millennia.” Per the authors, the earliest known written evidence of sheeppox infection dates to the first century CE, when Roman accounts described outbreaks of skin lesions ("pustules") in the animals. There are more frequent mentions of deadly outbreaks of "pockes" or "variola" in sheep by the Middle Ages, recorded i
-
 ## The Verge
+
+### An Amazon cargo plane crashed at Miami International Airport
+2026-09-06T16:56:38-04:00 — https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami
+
+An Amazon cargo plane crashed at Miami International Airport on September 06, 2026. | Photo: Joe Raedle / Getty Images A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement saying: 21 Air Flight 7598 overran the runway after landing at Miami International Airport around 2 p.m. local time on Sunday, Sept. 6. The Boeing 767-300 cargo aircraft departed from Luis Mu&ntilde;oz Mar&iacute;n International Airport in San Juan, Puerto Rico. As a result, flights at the airport were grounded and over 60 M … Read the full story at The Verge. ]]>
+
+### Europe has its first commercial orbital rocket
+2026-09-06T15:04:22-04:00 — https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch
+
+German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket . It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded . This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport. CEO and Co-Founder Daniel Metzler said in a press release : "Today, Isar Aerospace opened space from Continental Europe. Launch continues to be the largest bottleneck for the global space industry and from today on, there is a true alternative for commercial and institutional customers … Europe no … Read the full story at The Verge. ]]>
 
 ### Boox’s tiny Picco e-reader should land in November
 2026-09-06T12:28:58-04:00 — https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa
@@ -83,16 +78,6 @@ There’s some real gems in there. | Photo: Terrence O’Brien / The Verge Accor
 2026-09-05T11:00:00-04:00 — https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview
 
 Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in a row. Holloway's goal has always been about bringing fantasy football to a wider audience, not just hardcore nerds. With the NFL season starting next week and fantasy drafts in full swing, now seemed like a great time to see how Holloway stays focused during what is probably the busiest part of the year for a serious fantasy … Read the full story at The Verge. ]]>
-
-### Content creators drop the ball
-2026-09-05T10:00:16-04:00 — https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad
-
-The USTA Billie Jean King National Tennis Center. | Getty Images During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and repeatedly asked them to quiet down. Elsewhere in the USTA Billie Jean King National Tennis Center, other creators could be seen asking US Open staffers to take full-flash photos of them while Osaka and Zakharova were playing. Last month, United States Tennis Association (USTA) media operations director Jeanmarie Daly said that the US Open was "almost doubling" the number of content creators it was app … Read the full story at The Verge. ]]>
-
-### The weird and wonderful headphones of CanJam 2026
-2026-09-05T09:00:00-04:00 — https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026
-
-A collection of headphone manufacturers and fans come together for their love of great sound. | Image: CanJam Global I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfectly good - great, even - but they lack a distinct character. Something to remind me why I fell in love with headphones to begin with, landing me in this crazy career. I needed some revitalization. I needed to see something cool. I needed to be around other people with an emotional connection to headphones. I needed to go to CanJam. CanJam is a small audio show produced by Head-Fi.org , the largest audio-fo … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -158,6 +143,11 @@ Microsoft just released another version of Windows 11 designed for developers, d
 
 ## Phoronix
 
+### Shotcut 26.9 Video Editor Beta Brings UI Improvements, Better Audio Quality
+Sun, 06 Sep 2026 15:58:05 -0400 — https://www.phoronix.com/news/Shotcut-26.9-Beta
+
+Following the recent Shotcut stable release with a stock asset library and other improvements, Shotcut 26.9 Beta is out today with yet more improvements for this open-source video editing application for Linux, macOS, and Windows systems...
+
 ### NetBSD 9.5 Released To Cap Off The Series
 Sun, 06 Sep 2026 13:52:15 -0400 — https://www.phoronix.com/news/NetBSD-9.5-Released
 
@@ -213,8 +203,134 @@ Sat, 05 Sep 2026 07:11:11 -0400 — https://www.phoronix.com/news/Apple-A18-Pro-
 
 In addition to Linux developers focused on Apple Silicon being busy enabling functionality for the M3 and newer SoCs under the Linux kernel, there are also developers working on enabling the A18 Pro SoC used by the new, budget-friendly MacBook Neo laptop. Patches were posted this week for initial enablement of the A18 Pro and the MacBook Neo Device Tree... But even with these patches, the Linux support is still severely limited for now...
 
-### AMD Working To "Push Rust Deep Into The GPU Stack"
-Sat, 05 Sep 2026 06:48:48 -0400 — https://www.phoronix.com/news/AMD-Rust-Deep-Into-GPU-Stack
+## The Register
 
-AMD is building out what they are describing as an "elite" team of developers for driving Rust code "deep into the GPU stack" from firmware to drivers, shader compilers, and other GPU software in Rust...
+### Time lords prepare to kick leap seconds into the next millennium
+Sun, 06 Sep 2026 10:09:00 +0200 — https://www.theregister.com/offbeat/2026/09/06/time-lords-prepare-to-kick-leap-seconds-into-the-next-millennium/5294538
+
+The prospect of a negative leap second – combined with decades of irritation over leap seconds generally – looks set to inspire a bit of global procrastination among international timekeepers. Next month, the General Conference on Weights and Measures is set to vote on effectively calling time on leap seconds. A draft resolution [PDF] would make Coordinated Universal Time (UTC) continuous from May 20, 2027, and allow the difference between UTC and UT1, a measure of time based on Earth's rotation, to reach as much as one hour. Leap seconds keep UTC, which is based on atomic clocks, within 0.9 seconds of time determined by the slightly wobbly rotation of our home planet. Since the system was introduced in 1972, 27 leap seconds have been added to UTC. The urgency comes partly from a slight increase in Earth's rotational speed in recent years, raising the possibility of an adjustment never attempted before: a negative leap second. Experts convened by international timekeeping bodies estimated a 30 percent probability that one would be needed by 2035. Many computer systems were designed on the assumption that a leap second would always be added rather than removed, explained Setnam Shemar, principal scientist at the UK's National Physical Laboratory (NPL). "Most digital architectures and network time servers are hardcoded under the assumption that leap seconds are strictly additive. Losing a second could trigger severe disruption across critical national infrastructure, including 
+
+### US troops can still be tracked by purchased location data, and Congress wants to know why
+Sun, 06 Sep 2026 03:06:00 +0200 — https://www.theregister.com/public-sector/2026/09/06/us-troops-can-still-be-tracked-by-purchased-location-data-and-congress-wants-to-know-why/5294652
+
+The US military's effort to prevent troops from being tracked by adversaries through purchased location data hasn't worked as well as anticipated, and lawmakers want to know why. US Senator Ron Wyden (D-OR) and Rep. Pat Harrigan (R-NC) on Friday asked for an investigation by the Defense Department Inspector General into policies that have only partially stanched the flow of location data that allows military personnel to be tracked and targeted. In May, Wyden, Harrigan, and a bipartisan group of 12 other members of Congress released details about how commercially purchased location data – often captured by mobile apps and advertising SDKs – can be used to identify where US military personnel gather and to target those locations. They noted that the DoD has been aware of this threat since at least 2016. The lawmakers urged Defense Department CIO Kirsten A. Davies to take steps to mitigate this risk, including turning off advertising identifiers on DoD smartphones and issuing a policy requiring the disabling of advertising identifiers on all personal devices brought into DoD facilities or overseas. Since then, various military branches have blocked advertising identifiers on government-issued devices. According to the letter, "several DoD components – the Army, Air Force, Navy and Marine Corps, and Special Operations Command – confirm that they now disable advertising IDs on government-issued devices to protect their personnel from such threats." But that hasn't entirely elimin
+
+### BepiColombo sheds its ride and starts the final glide to Mercury
+Sat, 05 Sep 2026 08:41:00 +0200 — https://www.theregister.com/science/2026/09/05/bepicolombo-sheds-its-ride-and-starts-the-final-glide-to-mercury/5294601
+
+After nearly eight years, ESA and JAXA's BepiColombo spacecraft is finally nearing Mercury, as engineers begin the arrival sequence by jettisoning the power module that got it this far. The spacecraft stack separated from the Mercury Transfer Module (MTM) on September 3 at around 1400 CEST. After a tense few minutes, controllers confirmed that a preliminary Doppler signal had been detected, indicating that the MTM had separated successfully; by 1552 CEST, it was confirmed that signals had been picked up, indicating that all had gone to plan. The solar panels of the Mercury Planetary Orbiter (MPO) were charging the spacecraft's batteries. The next stage involves dropping into orbit around Mercury on November 21. Then the Mercury Magnetospheric Orbiter (MMO) – aka Mio – will be released between December 9 and 10, and a week later MPO will start moving to its final orbit over 480 x 1500 km, with science commencing in April 2027. The arrival is a year later than planned. BepiColombo was supposed to have been orbiting Mercury in December 2025, but problems with the spacecraft's Solar Electric Power (SEP) system meant the trajectory had to be rethought, which extended the spacecraft's cruise. BepiColombo is no stranger to Mercury and has performed six flybys of the planet since 2021. It has also conducted flybys of Venus and Earth following its 2018 launch. The spacecraft is an impressive example of international cooperation. The MPO and MTM are ESA contributions, while the MMO com
+
+## Engadget
+
+### How To Send High-Quality Images And Videos From Android To iPhone
+Sun, 06 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2248718/how-to-send-high-quality-images-videos-android-to-iphone/
+
+It can be tough to preserve the quality of your images when sending them from Android to iPhone, but these tried-and-true methods keep them crystal clear.
+
+### OpenAI says it reached its goal of creating an automated research intern
+Sun, 06 Sep 2026 19:26:52 +0000 — https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/
+
+The company hopes to have an even better "automated AI researcher" by March 2028.
+
+### What is vibe coding and why does it get so much hate?
+Sun, 06 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2247892/what-is-vibe-coding-explained/
+
+Vibe coding has gotten a bad reputation as lazy, AI-driven coding, but that's not where it came from.
+
+### Dual-band vs. tri-band routers: What's the difference between them?
+Sun, 06 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2247846/dual-band-vs-tri-band-routers-difference-between/
+
+Tri-band routers have, unsurprisingly, one more band than dual-band routers have. But what does this mean in practice?
+
+### How to set up ChatGPT's parental controls to protect your teen
+Sun, 06 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2247843/how-to-set-up-chatgpt-parental-controls/
+
+The idea of your child using ChatGPT can be daunting, but OpenAI's new teen-focused tools provide granular controls over what they can and can't access.
+
+### How to find your iPhone even when it's off
+Sun, 06 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2247577/how-to-find-iphone-when-off/
+
+If you lose your iPhone, it's findable even after someone turns it off or the battery drains, as long as you don't delay.
+
+### The pros and cons of using an iPad as a laptop
+Sun, 06 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2247481/using-ipad-as-laptop-pros-and-cons/
+
+An iPad has several advantages over a laptop, including its touch screen and portability. But depending on what you want to do, it might not be enough.
+
+### Is 256GB enough for an iPhone? Here's when you should go bigger
+Sun, 06 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2242766/is-256gb-enough-for-an-iphone-heres-when-you-should-go-bigger/
+
+Is 256GB enough for an iPhone? Here's when you should go bigger.
+
+### How long can you expect a PlayStation 5 DualSense controller to last?
+Sun, 06 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2248626/how-long-playstation-dualsense-wireless-controllers-last/
+
+The PS5 controller has various longevity concerns to consider, including its battery life and overall useful lifespan.
+
+### You probably don't need two routers — do this instead
+Sun, 06 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2246469/two-routers-probably-dont-need-do-this-instead/
+
+For better coverage or more wired connections, mesh, access points and Ethernet switches usually make more sense than a second active router.
+
+### Foldable phones still need to fix this problem
+Sun, 06 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2246419/foldable-phones-still-need-to-fix-biggest-problem-wobble/
+
+Samsung's Z Fold series has improved the foldable phone form factor over time, but there remains an issue that the rumored iPhone Ultra may not remedy.
+
+### What's the difference between volatile and non-volatile memory?
+Sun, 06 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2246458/volatile-vs-non-volatile-memory-difference-between/
+
+Volatile and non-volatile memory are both vital parts of modern computers and devices, but how do they work together?
+
+## TechCrunch
+
+### Authors push back as publishers and agents make claims on Anthropic settlement
+Sun, 06 Sep 2026 20:47:37 +0000 — https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/
+
+Authors say publishers seem to be claiming more than their fair share of settlement payments.
+
+### Travis Kalanick’s Atoms might be getting into the robotaxi business
+Sun, 06 Sep 2026 16:45:00 +0000 — https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/
+
+The Uber founder has said that Atoms will allow him to complete "unfinished business."
+
+### TechCrunch Mobility: Tesla Cybercab hits the road — and a snag
+Sun, 06 Sep 2026 16:08:00 +0000 — https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/
+
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+
+### Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
+Sat, 05 Sep 2026 22:49:55 +0000 — https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
+
+Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.
+
+### Hikers rescued after using Google Gemini for planning
+Sat, 05 Sep 2026 19:35:24 +0000 — https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/
+
+The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."
+
+### OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
+Sat, 05 Sep 2026 18:05:27 +0000 — https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/
+
+OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.
+
+### Clucky s new alarm app wakes you up with a crowing rooster
+Sat, 05 Sep 2026 17:00:00 +0000 — https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/
+
+Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.
+
+### Oura is going public, but these smart ring companies are coming for its crown
+Sat, 05 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/
+
+While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.
+
+### XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation
+Fri, 04 Sep 2026 23:36:14 +0000 — https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
+
+The round is being raised just months after the robot data startup exited from stealth.
+
+### OpenAI s rogue agents keep escaping, with no formal process to investigate them
+Fri, 04 Sep 2026 23:15:11 +0000 — https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/
+
+OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.
 
