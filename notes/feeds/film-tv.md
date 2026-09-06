@@ -1,6 +1,41 @@
-# Film & TV — harvested 2026-09-06T13:47:39.506Z
+# Film & TV — harvested 2026-09-06T18:37:51.176Z
 
 ## Variety
+
+### Podcaster Amanda Hirsch Apologizes for Insensitive, Wrong Polymarket Lindsay Clancy Sponsored Content: I Should Have Known Better
+Sun, 06 Sep 2026 18:03:47 +0000 — https://variety.com/2026/digital/news/amanda-hirsch-apologizes-polymarket-lindsay-clancy-controversy-1236852279/
+
+On Sunday, influencer Amanda Hirsch — the creator behind the popular “Not Skinny But Not Fat” podcast, who also hosts Hulu s “Get Real” podcast — addressed the uproar about having posted partner content with the betting platform Polymarket over the Lindsay Clancy verdict. In a since-deleted post from Friday, after the judge in the case had [ ]
+
+### ‘Possible Love’ Cast Sobs as Lee Chang-dong’s Epic Embraced at Venice With 6-Minute Standing Ovation
+Sun, 06 Sep 2026 17:50:47 +0000 — https://variety.com/2026/film/festivals/possible-love-lee-chang-dong-venice-premiere-1236838135/
+
+Acclaimed South Korean director Lee Chang-dong returned after 24 years to the Venice Film Festival, where he was warmly embraced with a 6-minute standing ovation for his romantic drama Possible Love. Directed by Lee and co-written by Oh Jung-mi, Possible Love follows the intertwined lives of two married couples whose lives intersect after a funeral. [ ]
+
+### The Echo Chamber Review: Luca Marinelli, Alicia Vikander and Susan Sarandon Reverberate Through a Smoky, Somber Single-Location Love Story
+Sun, 06 Sep 2026 17:45:00 +0000 — https://variety.com/2026/film/reviews/the-echo-chamber-review-1236847009/
+
+If you re ever thinking of attempting a single-location film, choose that location with care. Make it high-ceilinged, light-filled, book-lined, with a reading-nook conservatory area, a gargantuan sofa, a killer sound system and space enough that you don t even have to turn sideways to sidle past the grand piano. If possible, have it overlook a neatly [ ]
+
+### Box Office: Spider-Man: Brand New Day Remains No. 1 in Sixth Weekend, Nears Avengers: Endgame All-Time Domestic Record
+Sun, 06 Sep 2026 17:31:59 +0000 — https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-sixth-weekend-1236852435/
+
+“Spider-Man: Brand New Day” was No. 1 at the domestic box office for the sixth consecutive weekend, a rare feat that underscores the movie’s remarkable staying power as well as the lack of competition on cinema marquees. “Brand New Day” earned $18 million over the traditional weekend and is estimated to collect $23 million through [ ]
+
+### At Telluride Film Festival, Bill Gates Compares Lack of Control Over AI to HAL in 2001 : You Could Say Please Shut Down, and It Would Say, OK, I Took That Under Advisement, But
+Sun, 06 Sep 2026 17:08:46 +0000 — https://variety.com/2026/film/news/bill-gates-ai-controls-telluride-film-festival-2001-1236853326/
+
+Plenty of comparisons have been made in recent years between fast-developing artificial intelligence systems and HAL, the rogue computer in Stanley Kubrick s 2001: A Space Odyssey that operated by its own sets of rules, ultimately disregarding human oversight. If that comparison ever seemed overstated, it may be worth knowing that tech mogul Bill Gates is [ ]
+
+### Luc Besson Calls Madonna a Phenomenon, Admits He’s Developing Another Crazy Sci-Fi Story: You Will Need a Ticket — And an Aspirin
+Sun, 06 Sep 2026 17:07:33 +0000 — https://variety.com/2026/film/global/luc-besson-madonna-sci-fi-venice-father-joe-1236853299/
+
+Luc Besson is writing another sci-fi story right now. “It’s going to be crazy, believe me. Maybe you will need a ticket and an aspirin at the same time. I’m older, so I’m trying to explore everything now,” he admitted during a masterclass at Venice Film Festival. “It’s funny, because my first film was sci-fi [ ]
+
+### Possible Love Review: Korean Master Lee Chang-dong Returns With a Beautifully Mature, Quietly Colossal Relationship Drama
+Sun, 06 Sep 2026 14:30:00 +0000 — https://variety.com/2026/film/reviews/possible-love-review-1236846877/
+
+One of the key moments from Lee Chang-dong s last film, 2018 s Burning, still glows bright in the memory. A girl mimes eating a tangerine, and explains the knack for making it convincing: Don t try to pretend there is a tangerine, try to forget there is not. It s a little zen koan that rhymes imperfectly in [ ]
 
 ### ‘September 5’ Director Tim Fehlbaum Working on a ‘Historical Film’ Set in Berlin as Swiss Filmmakers Take on Challenges and Opportunities of Shooting in English
 Sun, 06 Sep 2026 13:06:13 +0000 — https://variety.com/2026/film/global/september-5-tim-fehlbaum-ursula-meier-michael-koch-1236852712/
@@ -17,44 +52,49 @@ Sun, 06 Sep 2026 12:03:05 +0000 — https://variety.com/2026/film/global/woman-u
 
 In “Woman Unknown,” May el-Toukhy takes a closer look at women accused of having relationships with German soldiers during World War II. “When we started to build a story about a ‘horizontal collaborator,’ we realized that, during and after the war, the female body became part of national identity. But in Denmark, it wasn’t really [ ]
 
-### ‘From Inside Out – The Architecture of Peter Zumthor’ Review: Wim Wenders’ Latest 3D Documentary Is an Architectural Marvel
-Sun, 06 Sep 2026 12:00:00 +0000 — https://variety.com/2026/film/news/from-inside-out-the-architecture-of-peter-zumthor-review-1236853214/
-
-The screen is usually a canvas, but it becomes a window to an enormous room in Wim Wenders’ latest 3D documentary, “From Inside Out – The Architecture of Peter Zumthor.” Within that room unfolds the tale of the Swiss architect of the title, told in occasionally laborious ways. It spends much of its two-hour runtime [ ]
-
-### Wim Wenders Clarifies His Stance on Filmmakers Role in Politics After Berlin Controversy: We Are the Opposite of Politicians We Are the Antidote
-Sun, 06 Sep 2026 10:44:13 +0000 — https://variety.com/2026/film/festivals/wim-wenders-clarifies-filmmakers-politics-berlin-1236853205/
-
-Wim Wenders has clarified his much-discussed statement about filmmakers role in politics that kicked off a firestorm at Berlin Film Festival earlier this year. Wenders was at the center of a heated debate at the Berlinale in February after the celebrated German filmmaker, who served as jury president, said during the opening press conference that [ ]
-
-### French President Emmanuel Macron Calls for a New Multilateralism Across Creative Industries: We Built a Civilization of Images. We Should Not Resign Ourselves to Watching It Deteriorate
-Sun, 06 Sep 2026 09:30:34 +0000 — https://variety.com/2026/biz/opinion/french-president-emmanuel-macron-op-ed-future-creative-industries-1236852793/
-
-In 1895, the first public film screening happened. It was in the basement of the Grand Café, nearby the Paris Opera, with a program of 10 short movies, each no more than 50 seconds long. Cinema was born. The names of the two brothers, Auguste and Louis Lumière, became symbols of an art which needs [ ]
-
-### Are Russian Filmmakers Finally Coming in From the Cold?
-Sun, 06 Sep 2026 07:45:23 +0000 — https://variety.com/2026/film/global/russian-filmmakers-dau-venice-film-festival-1236845801/
-
-The Venice Film Festival found itself under fire in the weeks leading up to opening night over the inclusion of “DAU,” by Russian filmmaker Ilya Khrzhanovsky, in the main competition of its 83rd edition. In a joint statement released on Aug. 17, the Ukraine Ministries of Foreign Affairs and Culture and the Ukrainian Embassy in Italy [ ]
-
-### Groundbreaking Roma Director Alina Șerban on ‘Pain,’ ‘Joy,’ of Historic, Venice-Bound ‘I Matter’: ‘I Managed to Do Something Impossible’
-Sun, 06 Sep 2026 06:35:00 +0000 — https://variety.com/2026/film/global/roma-alina-serban-venice-i-matter-1236847100/
-
-Roma filmmaker Alina Șerban broke barriers long before she set foot on the red carpet this week at the Venice Film Festival, where her feature-length directorial debut, “I Matter,” world premieres in the Venice Spotlight section. Rising from an impoverished background to become a celebrated stage star in Romania, the actress and directing debutante has [ ]
-
-### Moonfish’ Director and Stars Lucy Liu and Morgan Spector Break Down Their Black-and-White Animated Film About Isolated Astronauts And Why It’s an Allegory for ‘The Current Human Condition’
-Sun, 06 Sep 2026 06:05:00 +0000 — https://variety.com/2026/film/news/moonfish-lucy-liu-morgan-spector-1236852534/
-
-For Lucy Liu, who has voiced memorable characters in everything from “Kung Fu Panda” to “Strange World,” being part of the independently made, black-and-white animated film “Moonfish” was all about lending her name and support to first-time filmmaker Daniel Zvereff. “These are the people that are not just the creatives, but the ones who are [ ]
-
-### Dev Benegal s Judith Blum Reddy Doc Everything Is Not OK Acquired by Watermelon Pictures, Annemarie Jacir Aboard as EP (EXCLUSIVE)
-Sun, 06 Sep 2026 05:50:14 +0000 — https://variety.com/2026/film/news/judith-blum-reddy-doc-everything-is-not-ok-watermelon-pictures-1236852495/
-
-Watermelon Pictures has acquired Everything Is Not OK, a documentary from director Dev Benegal chronicling the life of artist Judith Blum Reddy. The film will stream exclusively on Watermelon+, the distributor s streaming platform. The producing team pairs Benegal with Min(d) Studio s Maya S. Patel and Neeraj Jain, while Annemarie Jacir ( Palestine 36 ) has signed on [ ]
-
 ## The Hollywood Reporter
 
-### Oscars: Iraq picks No Paradise If You Are Killed by a Woman as Best Intl. Feature Contender
+### Lee Chang-dong s ‘Possible Love’ Emerges as Venice Film Festival Sensation
+Sun, 06 Sep 2026 18:12:50 +0000 — https://www.hollywoodreporter.com/movies/movie-news/lee-chang-dong-possible-love-acclaim-venice-1236692360/
+
+The Korean maestro’s first movie since ‘Burning’ reunites him with stars Jeon Do-yeon and Sul Kyung-gu and arrives as Korea’s international Oscar submission and Netflix's leading awards contender.
+
+### Original Practical Magic Star Alexandra Artrip Reacts to Negativity Surrounding Sequel Recasting
+Sun, 06 Sep 2026 17:58:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/practical-magic-alexandra-artrip-reacts-sequel-recasting-1236692425/
+
+In 'Practical Magic 2,' Maisie Williams and Joey King were cast as Sandra Bullock’s character Sally Owens' daughters Antonia and Kylie, respectively.
+
+### ‘The Echo Chamber’ Review: Alicia Vikander, Luca Marinelli and Susan Sarandon Deliver Slow-Burn Sparks in Challenging but Affecting Portrait of Art and Addiction
+Sun, 06 Sep 2026 17:50:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-echo-chamber-review-alicia-vikander-susan-sarandon-1236688165/
+
+Director Andrea Pallaoro returns to the Venice competition with an intimate three-hander based on the final original screenplay by Bernardo Bertolucci.
+
+### Bad Bunny Wins First Emmy for Super Bowl Halftime Show
+Sun, 06 Sep 2026 16:55:22 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bad-bunny-wins-first-emmy-super-bowl-halftime-show-1236692413/
+
+The Apple Music Super Bowl LX Halftime Show earned a total of seven Emmys on Saturday.
+
+### Making Marie Antoinette Review: Eleanor Coppola s Chronicle of Daughter Sofia Shooting Her 2006 Biopic Makes for a Sublime Collaboration of Talents
+Sun, 06 Sep 2026 15:03:55 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/making-marie-antoinette-sofia-coppola-eleanor-coppola-1236692038/
+
+Premiering at Telluride, the doc will be pure catnip for fans of the Kirsten Dunst-starring film in all its candy-colored, New Romantic, defiantly anachronistic glory.
+
+### Venice s Lone Female Competition Director May el-Toukhy on Gender Gap: I ve Never Heard a Female Director Being Called a Genius
+Sun, 06 Sep 2026 14:57:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/venice-may-el-toukhy-on-film-festival-gender-gap-1236692381/
+
+The Danish filmmaker, whose post-WWII thriller 'Woman Unknown' premieres in competition Sunday, calls the shortage of women vying for the Golden Lion "a structural problem" that is "as old as cinema and even older than that."
+
+### Possible Love Review: Korean Master Lee Chang-dong’s Transfixing Meditation on Economic and Emotional Unease Is a Quiet Powerhouse
+Sun, 06 Sep 2026 14:35:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/possible-love-review-lee-chang-dong-netflix-1236691731/
+
+The 'Burning' director returns after an eight-year absence with this complex drama for Netflix, about the awkward commingling of two couples on either side of the wealth divide.
+
+### Cristian Mungiu Is Glad You’re Arguing About ‘Fjord.’ Just Don’t Assume His Politics
+Sun, 06 Sep 2026 14:20:07 +0000 — https://www.hollywoodreporter.com/movies/movie-features/cristian-mungiu-fjord-telluride-feature-1236692303/
+
+The Romanian auteur is on the cusp of his Oscars breakthrough for his Cannes-winning social drama, which has already been hotly debated on social media for months: "People...assume that what the film says is the opinion of the filmmaker, and what the characters say is the truth. Come on."
+
+### Oscars: Iraq Picks No Paradise If You Are Killed by a Woman as Best International Feature Contender
 Sun, 06 Sep 2026 12:45:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-iraq-pick-no-paradise-if-you-are-killed-by-a-woman-1236692364/
 
 Halkawt Mustafa’s feature, which premieres out of competition in Venice, follows a female Kurdish sniper who returns to Mosul to try and rescue her younger sister.
@@ -64,105 +104,65 @@ Sun, 06 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 The Danish filmmaker, one of two female directors in competition this year, comes to the Lido with a feature following a woman about to marry her widowed employer in the aftermath of World War II — while harboring a secret.
 
-### Wim Wenders on His 14-Year Journey Building Peter Zumthor Doc From Inside Out
-Sun, 06 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/wim-wenders-peter-zumthor-documentary-from-inside-out-venice-1236686539/
-
-The Oscar-nominated director of 'Pina' and 'The Salt of the Earth' returns to 3D for 'From Inside Out: The Architecture of Peter Zumthor,' a portrait of the Pritzker-winning architect behind LACMA's $724 million David Geffen Galleries — and a defense of beauty in a world of flattened cities.
-
-### The Debut Review: Julianne Moore and Paul Giamatti Are Dynamite Together in Jesse Eisenberg s Entertainingly Offbeat Theater Comedy
-Sun, 06 Sep 2026 07:25:18 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-debut-review-julianne-moore-paul-giamatti-1236691977/
-
-Premiering at Telluride, the film follows a meek New Jersey housewife who gets cast in a local production headed by a domineering director, and then increasingly loses herself in the role.
-
-### A Tale of Two Cities Review: Kit Harington Has Done Far, Far Better Things Than This Bland MGM+ Dickens Adaptation
-Sun, 06 Sep 2026 03:43:17 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/a-tale-of-two-cities-review-kit-harington-mgm-dickens-1236688874/
-
-The 'Game of Thrones' star and François Civil fight for the affections of Mirren Mack in a new four-episode adaptation of the classic novel.
-
-### Mariska Hargitay Lands Two Emmys for My Mom Jayne Ahead of Hosting Gig
-Sun, 06 Sep 2026 03:00:56 +0000 — https://www.hollywoodreporter.com/tv/tv-news/mariska-hargitay-two-emmys-my-mom-jayne-hosting-1236692184/
-
-The star, who is emceeing the Primetime Emmys on Sept. 14, took home two prizes at the Creative Arts ceremony, two decades after winning an Emmy for 'SVU.'
-
-### Creative Arts Emmys, Night One: Winners List
-Sun, 06 Sep 2026 02:32:38 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-creative-arts-emmys-winners-list-night-one-1236683725/
-
-'The Late Show With Stephen Colbert,' 'The Muppet Show,' 'The Apple Music Super Bowl LX Halftime Show Starring Bad Bunny' and 'My Mom Jayne: A Film By Mariska Hargitay' were among the big winners.
-
-### Alan Cumming Lands Third Straight Emmy for Best Reality TV Host
-Sun, 06 Sep 2026 02:00:45 +0000 — https://www.hollywoodreporter.com/tv/tv-news/alan-cumming-third-emmy-reality-tv-host-traitors-1236689794/
-
-'The Traitors' host was honored at the Creative Arts Emmys on Saturday.
-
-### Alanis Morissette Sues Former Tour Manager Over Alleged Calculated Blackmail Campaign”
-Sun, 06 Sep 2026 01:42:51 +0000 — https://www.hollywoodreporter.com/music/music-news/alanis-morissette-sues-tour-manager-blackmail-campaign-1236692139/
-
-The Grammy winner was previously embezzled by her former manager Jonathan Todd Schwartz. He admitted to embezzling more than $7 million from Morissette and other celebrity clients in 2017.
-
-### Ben McKenzie Says He d Be Up for a The O.C. Revival: It Was a Great Show
-Sun, 06 Sep 2026 00:53:26 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ben-mckenzie-up-for-the-oc-revival-1236692075/
-
-The former 'Gotham' star's comments come nearly 20 years after the Fox teen drama ended after four seasons.
-
 ## Deadline
 
-### Susan Sarandon Says She Is Still Losing Hollywood Roles Due To Palestine-Israel Stance
-Sun, 06 Sep 2026 12:44:24 +0000 — https://deadline.com/2026/09/susan-sarandon-narrative-us-israel-studio-roles-1237069412/
-
-Susan Sarandon told a press conference in Venice on Sunday that she continued to lose big roles due to her public support of Palestine, even if the narrative around the nature of U.S. support of Israel has changed in recent months. “I ve still had movies taken away recently because there are agencies that are telling [ ]
-
-### ‘Father Joe’ Review: Kiefer Sutherland Comes Out With All Guns Blazing In This Deliriously Violent Throwback Beat-’Em-Up – Venice Film Festival
-Sun, 06 Sep 2026 10:20:21 +0000 — https://deadline.com/2026/09/father-joe-review-kiefer-sutherland-al-pacino-luc-besson-venice-1237069403/
-
-Did you ever feel that King of New York could have done with a bit more Wing Chun? Did you ever think that John Woo’s films weren’t quite Catholic enough? That the siege of Troy might have been handled a bit more successfully if the Greeks had a bazooka? If your answer is yes to [ ]
-
-### Richard Osman Appears To Confirm The Celebrity Traitors Premiere Date Amid Talk That Season 2 Was Intense To Film
-Sun, 06 Sep 2026 09:58:41 +0000 — https://deadline.com/2026/09/richard-osman-the-celebrity-traitors-premiere-date-bbc-1237069393/
-
-Richard Osman has apparently let slip that The Celebrity Traitors will return to the BBC this month. Speaking on-stage during a live episode of The Rest Is Entertainment podcast in London, Osman told the audience that The Celebrity Traitors will premiere on September 23. Osman and co-host Marina Hyde were interviewing special guest Joe Marler, [ ]
-
-### Mel Gibson Says The Resurrection Will Flesh Out Gaps In The Gospels
-Sun, 06 Sep 2026 04:03:02 +0000 — https://deadline.com/2026/09/mel-gibson-the-resurrection-gospels-story-gaps-1237069341/
-
-If you look at the synoptic Gospels — and they are synoptic, which means they don t tell you everything,” Mel Gibson told The Christian Post in an interview this week. And even John says, Y’know, hey, there were many other things [Jesus] said and did which, if they were to be written down, couldn t fill [ ]
-
-### Mariska Hargitay Wins Two Emmys For ‘My Mom Jayne,’ Thanks Gloria Steinem From Stage
-Sun, 06 Sep 2026 02:37:54 +0000 — https://deadline.com/2026/09/mariska-hargitay-primetime-emmy-wins-my-mom-jayne-1237069307/
-
-Mariska Hargitay is warming up to host the televised Primetime Emmy Awards in the best way imaginable – by winning two Emmys for her documentary My Mom Jayne. The HBO film in which Hargitay explores the life and career of her late mother, the actress Jayne Mansfield, as well as a mystery over Mariska’s biological [ ]
-
-### Oscar Winner Moonlight Getting 10th Anniversary Re-Release This Fall From A24
-Sun, 06 Sep 2026 02:35:00 +0000 — https://deadline.com/2026/09/moonlight-re-release-telluride-1237069018/
-
-EXCLUSIVE: The 2017 surprise Best Picture Oscar winner, Moonlight, is getting a tenth anniversary re-release from A24 on Oct. 2 in a new 4K remastered cut. The news was just announced by the film s director, co-writer, Barry Jenkins, at a special Telluride Film Festival screening of the pic. Moonlight follows a young African-American man who [ ]
-
-### ‘Antiques Roadshow’ Scores First Emmy Win, Breaking ‘Queer Eye’ ‘Shark Tank’ Hegemony
-Sun, 06 Sep 2026 02:26:35 +0000 — https://deadline.com/2026/09/antiques-roadshow-first-emmy-win-shark-tank-queer-eye-1237069306/
-
-The first night of the Emmys was full of surprises. Antiques Roadshow, which has been airing on PBS since 1997, won its first ever Emmy in 24 attempts and snatched the award away from Queer Eye and Shark Tank for the first time since 2013. Antiques Roadshow won the award for Outstanding Structured Reality Program, [ ]
-
-### The Debut Review: Julianne Moore And Paul Giamatti Get Big Laughs In Jesse Eisenberg s Hilarious And Even Sweet Look At Community Theatre Telluride Film Festival
-Sun, 06 Sep 2026 02:02:22 +0000 — https://deadline.com/2026/09/the-debut-review-julianne-moore-paul-giamatti-jesse-eisenberg-1237069095/
-
-At times downright hilarious, at other times so farcical it nearly sails over the top, and at other times quite poignant, Jesse Eisenberg s third time out writing and directing a feature film, The Debut, throws it all at the wall, hits its target most of the time, and serves up a complete delight with go-for-broke [ ]
-
-### Octavia Spencer Wins First Emmy
-Sun, 06 Sep 2026 02:00:36 +0000 — https://deadline.com/2026/09/octavia-spencer-lost-women-first-emmy-1237069170/
-
-Norman Lear remains the oldest Emmy winner after Octavia Spencer scored a surprise win over Sir David Attenborough at the Peacock Theater. Spencer scored her first Emmy in the Outstanding Narrator category for her work on Investigation Discovery’s true-crime series Lost Women of Alaska. The win prevents 100-year-old Attenborough from becoming the oldest Emmy winner [ ]
-
-### ‘The Late Show With Stephen Colbert’ Scores Emmy Upsets, ‘The Daily Show’s Desi Lydic Also Triumphs
-Sun, 06 Sep 2026 01:26:53 +0000 — https://deadline.com/2026/09/the-late-show-with-stephen-colbert-emmy-upsets-1237069255/
-
-The Late Show with Stephen Colbert had an unexpectedly good night at the first evening of the Emmy awards. The canceled series came away with two big upsets at the event formerly known as the Creative Arts Emmys. Colbert Before Air won the Emmy for Outstanding Short Form Comedy, Drama Or Variety Series and and [ ]
-
-### Jimmy Kimmel Wins Emmy For Second Year In A Row, Jeopardy! Scores Game Show Prize, Again
-Sun, 06 Sep 2026 00:28:17 +0000 — https://deadline.com/2026/09/jimmy-kimmel-emmy-win-who-wants-to-be-a-millionaire-1237069209/
-
-Jimmy Kimmel has another Emmy. The comedian has picked up for Outstanding Host for a Game Show for his work on ABC’s Who Wants To Be A Millionaire. It is his second consecutive win in the category, having scored it for the same show last year. Kimmel beat Celebrity Family Feud’s Steve Harvey, Jeopardy!’s Ken [ ]
-
 ### Telluride Film Festival 2026: Read All Of Deadline’s Reviews
-Sat, 05 Sep 2026 22:17:52 +0000 — https://deadline.com/2026/09/telluride-film-festival-2026-reviews-deadline-1237068524/
+Sun, 06 Sep 2026 18:17:00 +0000 — https://deadline.com/2026/09/telluride-film-festival-2026-reviews-deadline-1237068524/
 
 The 2026 Telluride kicked off Friday, September 5, in Colorado and runs through Labor Day. The 53rd edition of the fest kicks off with first-day films including seven-time Oscar nominee Mike Leigh’s Tender Loving Care and the Andrew Scott-led Elsinore. See the full lineup here. RELATED: Venice Film Festival 2026: Read All Of Deadline’s Reviews [ ]
+
+### Breaking Baz: Léa Seydoux Talks Gentle Monster s Complexity And Contradictions Why She Wants To Take More Risks — Telluride Film Festival
+Sun, 06 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/lea-seydoux-gentle-monster-the-unknown-telluride-interview-1237069089/
+
+Having appeared in both the penultimate and the final Daniel Craig-era Bond films and in Denis Villeneuve’s Dune: Part Two, Léa Seydoux has entered a phase of her career where risk-taking feels paramount. “I like when acting s a bit dangerous, I think I like to take risks,” she tells me, speaking from her home in Paris. Seydoux, [ ]
+
+### Lee Chang-Dong’s ‘Possible Love’ Earns 6.5-Minute Standing Ovation At Venice World Premiere
+Sun, 06 Sep 2026 17:52:33 +0000 — https://deadline.com/2026/09/lee-chang-dong-possible-love-ovation-venice-1237068180/
+
+Possible Love, the first film from Korean filmmaker Lee Chang-dong since 2018 s Burning, earned a 6½-minute Sunday evening following its debut screening at the 83rd Venice Film Festival. Director Lee helmed the film from a screenplay he co-wrote with Oh Jung-mi, having worked together on Burning. The story follows two married couples whose lives become [ ]
+
+### Summer Nears All-Time $4.76B U.S. Record Thanks To Spider-Man: Brand New Day s $23M+ Labor Day Take Box Office Update
+Sun, 06 Sep 2026 17:22:00 +0000 — https://deadline.com/2026/09/box-office-spider-man-brand-new-day-by-any-means-labor-day-1237068549/
+
+SUNDAY AM: Forget about any of the new films at the Labor Day weekend box office. They didn t really dazzle. All that matters is whether or not we ring in a record summer, beating 2013 s $4.756 billion. According to Rentrak, the 3-day domestic marketplace of $88M gets us to $4.732 billion by end of today, [ ]
+
+### Venice Film Festival 2026: Read All Of Deadline’s Reviews
+Sun, 06 Sep 2026 17:20:00 +0000 — https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/
+
+The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle s Ink starring Jack O’Connell, Guy Pearce and Claire Foy kicking off an 83rd edition that includes films starring the likes of Robert Pattinson, Penelope Cruz Javier Bardem, Jack Huston Sofia Boutella, Dakota Johnson, John [ ]
+
+### Barbara Eden Drops Out Of Cinecon Due To Sudden Illness
+Sun, 06 Sep 2026 17:01:49 +0000 — https://deadline.com/2026/09/barbara-eden-drops-out-cinecon-sudden-illness-1237069496/
+
+Barbara Eden had to cancel her appearance at the Cinecon 62 Classic Film Festival this weekend after becoming ill. On Saturday, the festival announced that due to a sudden illness, the I Dream of Jeannie star would not be able to accept the Cinecon Legacy Award that night, with her co-star Pat Boone stepping in [ ]
+
+### Odyssey Beats Spider-Man: Brand New Day At Global Weekend Box Office As Web Slinger Remains No. 3 All-Time With $2.4B WW Global Box Office
+Sun, 06 Sep 2026 16:38:06 +0000 — https://deadline.com/2026/09/box-office-global-odyssey-beats-spider-man-brand-new-day-1237069465/
+
+For the first time since Spider-Man: Brand New Day opened on July 31, Universal and Christopher Nolan s The Odyssey can throw a galley parade over the fact that it s grabbed the No. 1 spot at the global weekend box office with $45.96M WW over the Sony/Marvel Studios title s sixth frame of $44.1M WW. It s another [ ]
+
+### Macklemore s Free Palestine Onstage Plea Sparks Petition For His Removal From Ed Sheeran Tour
+Sun, 06 Sep 2026 16:36:33 +0000 — https://deadline.com/2026/09/macklemore-sparks-petition-removal-tour-free-palestine-plea-1237069468/
+
+Macklemore is the latest celebrity to face backlash over his Free Palestine onstage public plea while opening for Ed Sheeran this weekend. After the 4x Grammy winner took the stage for Sheeran s Loop Tour on Friday night at MetLife Stadium, where he called for safety and peace for all before performing his protest song Hind s [ ]
+
+### Wim Wenders Revisits Berlin Comments On Filmmakers Politics That Led To A Firestorm Venice
+Sun, 06 Sep 2026 16:25:41 +0000 — https://deadline.com/2026/09/wim-wenders-revisits-berlin-comments-filmmakers-politics-1237069469/
+
+Wim Wenders has returned to the comments that caused such a commotion at the Berlin Film Festival earlier this year. Speaking at the Venice Film Festival press conference today for new movie From inside out The architecture of Peter Zumthor, the veteran German filmmaker was asked about his comment suggesting that filmmakers should stay [ ]
+
+### Audible Teases Jonathan Bailey’s ”Seductive” Performance In Dracula At Venice Preview Of Ambitious Multilingual Adaptation
+Sun, 06 Sep 2026 16:10:56 +0000 — https://deadline.com/2026/09/audible-jonathan-bailey-seductive-dracula-venice-preview-1237069408/
+
+Audible set down at the Venice Film Festival over the weekend with a preview of its ambitious adaptation of Bram Stoker’s 1897 gothic horror classic Dracula. The platform’s biggest audio production to date, the adaptation is being rolled out in seven different languages, with each of the versions featuring their own local A-list star cast [ ]
+
+### Possible Love : What The Critics Are Saying About Lee Chang-dong s Korean Drama Venice
+Sun, 06 Sep 2026 14:59:44 +0000 — https://deadline.com/2026/09/possible-love-reviews-reaction-what-the-critics-are-saying-1237069452/
+
+Possible Love, the first film from Korean filmmaker Lee Chang-dong since Burning (2018), is debuting today at the Venice Film Festival. The story follows two married couples whose lives become uniquely intertwined. The Korean Film Council has already selected the title as Korea’s official entry for the Best International Feature category at the Academy Awards. Netflix, [ ]
+
+### Rachael Leigh Cook Praises Letters To Cleo s Kay Hanley At Josie the Pussycats Anniversary Screening: I Am Only Half Of This Role
+Sun, 06 Sep 2026 14:58:49 +0000 — https://deadline.com/2026/09/rachael-leigh-cook-praises-kay-hanley-josie-pussycats-1237069354/
+
+As Rachael Leigh Cook celebrated the 25th anniversary of Josie and the Pussycats, it was the voice behind the character that got her flowers. During Cinespia s screening of the 2001 cult musical comedy on Saturday at Hollywood Forever Cemetary, the actress praised Letters to Cleo frontwoman Kay Hanley for providing the vocals for Josie and [ ]
 

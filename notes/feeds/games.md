@@ -1,6 +1,16 @@
-# Games — harvested 2026-09-06T13:47:39.506Z
+# Games — harvested 2026-09-06T18:37:51.176Z
 
 ## Eurogamer
+
+### Saber Interactive CCO says studio won't change its comms strategy after AI writer controversy
+Sun, 06 Sep 2026 15:40:50 +0000 — https://www.eurogamer.net/saber-interactive-comms-strategy-ai-writer-controversy-willits
+
+Saber Interactive CCO Tim Willits has confirmed the company has not revised its communications strategy despite its CEO telling the press that he "would [...] have been happy to replace [a writer] with AI" after she claimed she was replaced by ChatGPT. Read more
+
+### Double Fine's first game since leaving Xbox is a comedy bus-driving sim called Thank You Bus Driver
+Sun, 06 Sep 2026 15:07:45 +0000 — https://www.eurogamer.net/double-fine-thank-you-bus-driver-first-game-post-xbox
+
+Double Fine's first game in its new post-Xbox era is Thank You Bus Driver. Read more
 
 ### Valve staged its own Left 4 Dead 2 trailer "leak" to get around an ESRB ban, says former writer
 Sun, 06 Sep 2026 12:42:09 +0000 — https://www.eurogamer.net/valve-left-4-dead-2-trailer-leak-esrb-chet-faliszek
@@ -52,38 +62,25 @@ Sat, 05 Sep 2026 09:01:01 +0000 — https://www.eurogamer.net/crazy-taxi-world-t
 
 Crazy Taxi was not my favourite Dreamcast game (please don't ask me to choose between the triumphant rhythm triptych of Rez , Space Channel 5, and Samba de Amigo , however), but there's a specific bit of it that's forever seared into my brain: the giddy thrill of cresting over that one San-Francisco-inspired hill and barreling down toward the ocean, all while The Offspring's All I Want 'Yeah, yeah, yeah, yeah, yeah'ed me into a state of gaming nirvana. Read more
 
-### What we've been playing - "Well this is embarrassing, we're wearing the same outfit!"
-Sat, 05 Sep 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-well-this-is-embarrassing-were-wearing-the-same-outfit
-
-Unluckily for you all, Bertie's having a well-earned long weekend (possibly skiing, possibly jumping on the spot, possibly just having a nice lie down after the chaos of it all), meaning you're stuck with me on intro duties for What We've Been Playing this time around. Read more
-
-### After AI slop accusations, Humankind 2 studio says its new trailer was definitely "made by humankind" and at least five chickens
-Fri, 04 Sep 2026 19:19:34 +0000 — https://www.eurogamer.net/after-ai-slop-accusations-humankind-2-studio-says-its-new-trailer-was-definitely-made-by-humankind-and-at-least-five-chickens
-
-A large portion of the internet pointed their virtual fingers at Humankind 2's new trailer and shouted 'AI slop!' Developer Amplitude Studios is now denying those claims and has even released a behind-the-scenes clip to prove a whole human crew (plus five chickens) made the Gamescom ONL reveal. Read more
-
 ## GamesIndustry.biz
 
-### PAX Unplugged Houston to debut in June 2027: "It's a chance to bring PAX back to the PAX South fans that missed us"
-Fri, 04 Sep 2026 18:00:00 +0000 — https://www.gamesindustry.biz/pax-unplugged-houston-to-debut-in-june-2027-its-a-chance-to-bring-pax-back-to-the-pax-south-fans-that-missed-us
-
-ReedPop and Penny Arcade have announced the inaugural PAX Unplugged Houston, scheduled for June 2027. Read more
-
-### Inside Tencent's long-term strategy: live service, AI tools, and evergreen titles
-Fri, 04 Sep 2026 15:57:03 +0000 — https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-service-ai-tools-and-evergreen-titles
-
-Many column inches have been spent questioning the wisdom of focusing on live-service. Sony gambled and lost , as did many other companies chasing the dream of steady recurring revenues, while firms like Capcom that stuck to the traditional path have emerged relatively unscathed . Read more
-
-### Nvidia acquires open-source AI platform Hugging Face for $12.9bn
-Fri, 04 Sep 2026 13:50:36 +0000 — https://www.gamesindustry.biz/nvidia-acquires-open-source-ai-platform-hugging-face-for-129bn
-
-Nvidia has acquired the artificial intelligence platform Hugging Face for $12.9 billion. Read more
+_Nothing in the last 48 hours._
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Wolverine PS5 s Lady Deathstrike Design Sparks Psylocke Confusion
+Sun, 06 Sep 2026 15:45:00 GMT — https://www.pushsquare.com/news/2026/09/wolverine-ps5s-lady-deathstrike-design-sparks-psylocke-confusion
+
+But is it justified? Marvel’s Wolverine has been subject to some of the fiercest scrutiny I’ve seen since The Last of Us 2 , and days away from the game’s release, it ain’t going away. The release’s launch trailer showed a brief glimpse of previously announced villain Lady Deathstrike wielding a purple katana, which somehow sparked controversy among fans mistaking her for seasoned X-Men character Psylocke. Read the full article on pushsquare.com
+
+### Preview: I Still Can t Believe This Insanely Ambitious PS5 Open World Is Real
+Sun, 06 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/previews/i-still-cant-believe-this-insanely-ambitious-ps5-open-world-is-real
+
+More hands-on time with the remarkable Ananta. I’ve touched the ultra-ambitious anime open world game Ananta a couple of times now, and I still can’t quite believe it’s real. But it’s launching on 15th January, just weeks after the equally impressive GTA 6 , setting up an exciting end to the PS5 generation for urban sandboxes. Read the full article on pushsquare.com
 
 ### Review: Hot Wheels: Infinite Rush (PS5) - A Solid Arcade Racer with an Open World It Doesn t Need
 Sun, 06 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/reviews/ps5/hot-wheels-infinite-rush
@@ -130,25 +127,7 @@ Fri, 04 Sep 2026 18:45:00 GMT — https://www.pushsquare.com/news/2026/09/after-
 
 The comedown. Sony’s previous State of Play in June is the second most watched PlayStation livestream ever , beaten only by the PS5’s reveal during the peak of the pandemic in 2020. To date, it’s attracted over 5.1 million views , with the bulk of those coming around its air date on 2nd June. (It officially set the record on 6th June.) Read the full article on pushsquare.com
 
-### PS Plus Premium s Cloud Streaming Is Unlimited, But for How Much Longer?
-Fri, 04 Sep 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/09/ps-plus-premiums-cloud-streaming-is-unlimited-but-for-how-much-longer
-
-As Xbox puts a cap on Game Pass Ultimate. I know there aren’t many fans of cloud streaming among enthusiasts, but I always like to remind everyone how good Sony’s solution actually is. That’s because I think it’s a little bit underrated – there’s substantially more chatter about Xbox’s Cloud Gaming and NVidia’s Geforce Now than PS Plus Premium , despite the latter usurping its competitors in some areas. Read the full article on pushsquare.com
-
-### Marvel Tokon Put Up a Fight for North America s Best-Selling PS Store Game Last Month
-Fri, 04 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/09/marvel-tokon-put-up-a-fight-for-north-americas-best-selling-ps-store-game-last-month
-
-Fighting soul. Sony has released the PS Store's chart data for the month of August, and among the best sellers is PS5's superhero tag fighter, Marvel Tokon: Fighting Souls . On the PS5 chart for North America, the game landed in second place, coming in behind only Madden NFL 27. It's a pretty impressive placement for a new fighting game. Read the full article on pushsquare.com
-
-### I Know the Response to This Noir Action Game Has Been Bad, But I m Still Hopeful for Its PS5 Release
-Fri, 04 Sep 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/09/i-know-the-response-to-this-noir-action-game-has-been-bad-but-im-still-hopeful-for-its-ps5-release
-
-Sam the man. Earlier this year, I said Sony needs to “ move mountains ” to get Samson: A Tyndalston Story on the PS5, the noir crime caper with GTA -esque inspirations. Then it released . Read the full article on pushsquare.com
-
 ## Game Developer
 
-### Strategically making Star Wars Zero Company, ft. Greg Foertsch
-Fri, 04 Sep 2026 14:15:00 GMT — https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch
-
-Bit Reactor CEO and Star Wars Zero Company creative director Greg Foertsch discusses the development of the latest adventure from the world of Star Wars.
+_Nothing in the last 48 hours._
 
