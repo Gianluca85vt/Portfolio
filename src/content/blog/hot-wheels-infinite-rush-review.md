@@ -19,7 +19,6 @@ scoreSources:
     score: 7
   - outlet: Push Square
     score: 6
-draft: true
 ---
 
 In *Hot Wheels Unleashed* the track ran across a garage floor, and what sold it
