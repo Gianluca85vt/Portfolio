@@ -1,5 +1,9 @@
 # The Monday editorial — voice
 
+Everything in `article-voice.md` applies here too — first person, the
+complicit "you", contractions, the banned construction, the sourcing rule.
+This file is only what the column has on top of that.
+
 ## Non-negotiable: the column name is fixed, the headline is not
 
 Every Monday editorial carries this line in its frontmatter, character for
@@ -135,39 +139,12 @@ to fill before approval rather than making one up.
 - Not a roundup. Not "what's good and what's bad". A single argument that uses
   the week's news as its evidence.
 
-## The banned construction
+## Warmer than the news
 
-Gianluca identified this one himself and it is the single clearest tell that a
-machine wrote something. **The setup-then-reversal, where a clause exists only
-to be contradicted by the next one.**
+The news pieces ration emotion and spend it only when something genuinely
+matters. The column is where it is spent: this is the one place he is
+writing to be felt as well as understood, and a Monday that reads as level
+as a Tuesday news piece has failed at the thing it exists for.
 
-All of these are the same move:
-
-- `X, and that's a bigger problem than it sounds`
-- `X, and the real story is Y` / `the actual story` / `the interesting part` / `the whole trick` / `the real flex`
-- `It's not X, it's Y` — `That's not a footnote, that's the whole story`
-- `Not played. Looked at.`
-- `X isn't the story. Y is.`
-- `None of this is a criticism. It's...`
-- `Not because of X. Because of Y.`
-
-An audit in August 2026 found this in **32 of 87 headlines** and around forty
-times in article bodies. It had become the house style by accident, which is
-exactly how a reader clocks it: not from one sentence, but from meeting the same
-shape in every piece.
-
-**Say the thing once, in the affirmative.** If the second half is what you mean,
-write only the second half — the setup is almost always deletable with no loss.
-`That's not a footnote, that's the whole story` is just `That is the whole
-story`.
-
-This bans a rhetorical move, not the word "not". A plain negative statement of
-fact is fine: *"None of it is physically there"* about painted glass is a true
-sentence doing real work. The test is whether the negative exists to be
-overturned by what follows. If it does, cut it.
-
-## What else kills it
-
-Balance for its own sake. Summarising both sides and declining to pick. Ending
-on "only time will tell". Bold on every key term. Three-part lists. The word
-"actually". Any sentence that announces what the next sentence is about to do.
+It is still the same two emotions — admiration for how something was made,
+irritation at how it was decided. Here they are allowed to show.
