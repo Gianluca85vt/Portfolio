@@ -4,7 +4,6 @@ date: 2026-09-06
 category: AI
 excerpt: Amplitude shot its Gamescom trailer at Nu Boyana with 25 actors, 150 crew and a pig. The internet called it AI slop anyway, and the reasons are worth reading.
 cover: /img/blog/humankind-2-trailer-ai-accusation-150-crew/shot-01.jpg
-draft: true
 ---
 
 Nine eras. Twenty-five actors, more than a hundred extras, close to a hundred
