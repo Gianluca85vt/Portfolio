@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-06T13:13:44.592Z
+# Tech — harvested 2026-09-06T13:47:39.506Z
 
 ## Ars Technica
 
@@ -116,6 +116,11 @@ OpenAI says it needs to overhaul how and when it reports instances of AI models 
 
 ## Tom's Hardware
 
+### Samsung 990 2TB PCIe 4.0 SSD falls to $339.99 on Amazon — $190 discount makes high-capacity storage more affordable
+Sun, 06 Sep 2026 13:08:31 +0000 — https://www.tomshardware.com/pc-components/ssds/samsung-990-2tb-pcie-4-0-ssd-falls-to-usd339-99-on-amazon-usd190-discount-makes-high-capacity-storage-more-affordable
+
+When it comes to high-speed storage, SSD prices have been at an all-time high due to the ongoing turbulence in the memory market. However, if you are looking for a speedy drive with plenty of capacity, Samsung’s freshly launched 990 PCIe Gen 4 SSD with 2TB capacity is already selling at a discount. You can grab the drive at $339.99 at Amazon , down from its usual price of $529.99. Check out the deal on Amazon The Samsung 990 series was launched earlier this year, right in the midst of the RAMpocalypse. The SSD is essentially a QLC-based version of the 990 EVO Plus. QLC SSDs can be a good choice for gaming, as it mostly involves reading data rather than writing it. QLC drives are slower than TLC, but frequently used data can stay in the faster pSLC cache if the drive has enough free space. The Samsung 990 also features the company’s PiccoloQ controller with V9 QLC Flash memory and is capable of full PCIe Gen 4 throughput. SSD 990 2TB: was $529.99 now $339.99 The Samsung 990 is an M.2 Gen 4 SSD offering up to 7,250/6,450 MB/s sequential read/write speeds. View Deal In our testing , we found the drive to offer similar results to Samsung’s 990 Evo Plus and the 990 Evo in latency testing, while beating the 990 Evo drive in bandwidth and 3DMark overall score. It also managed to stay competitive with the Crucial P310, which is one of the best QLC-based drives on the market. The Samsung 990 is also a solid option for consoles, delivering bandwidth that puts it ahead of the 990 Evo an
+
 ### MSI MEG CoreLiquid E15 360 AIO Review: Bold and stunning, with market-leading performance
 Sun, 06 Sep 2026 12:48:03 +0000 — https://www.tomshardware.com/pc-components/liquid-cooling/msi-meg-coreliquid-e15-360-aio-review-bold-and-stunning-with-market-leading-performance
 
@@ -171,12 +176,12 @@ Sat, 05 Sep 2026 12:05:00 +0000 — https://www.tomshardware.com/tech-industry/b
 
 IFA isn't typically a PC-focused show. But this year, Europe’s biggest tech show had plenty of computing hardware, in between robots and AI washing machines. Laptop OEMs are continuing to adapt to a market riled by RAM shortages and the debut of the MacBook Neo earlier this year. Dell , Acer , and Lenovo all dropped more affordable, mid-range machines with plenty of color options – and let’s not forget Packard Bell . Nvidia and AMD, on the other hand, are both trying to bring AI computing home – shortages and high prices or not. Nvidia continued to tease its RTX Spark platform (including an October release date ), while AMD finally has device partners for its AMD Ryzen AI Max+ Pro 495, with up to 192GB of unified memory. While Nvidia’s RTX Spark loomed large over the PC side of the show, there wasn't much newly announced hardware, aside from Lenovo’s 2-in-1 and a mini PC from Acer. Pricing is still unknown, and demos were largely locked down behind company representatives. We're still waiting to see the true impact of these systems on the PC market. In between, some unique monitors and peripherals dotted the show floor, challenging size and speed constraints to innovate where they can amid a challenging component and pricing landscape. — Andrew E. Freedman Lenovo IdeaPad Vibe (Image credit: Tom's Hardware) IFA 2026 proved the Windows world is not slowing down when it comes to producing rivals to the MacBook Neo. But Lenovo has taken the fight to its logical extremes, adding m
 
-### Modder gets Nvidia's DLSS 5 working on AMD's RDNA 4 GPUs — RX 9070 XT only manages 30 FPS at 1080p right now, but 5070 Ti-level performance is the eventual goal
-Sat, 05 Sep 2026 12:00:00 +0000 — https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-on-amds-rdna-4-gpus-rx-9070-xt-only-manages-30-fps-at-1080p-right-now-but-5070-ti-level-performance-is-the-eventual-goal
-
-DLSS 5 officially debuted inside NBA 2K27 yesterday with more games to follow down the line, along with RTX 40-series support planned for the future. However, if you don't own a GPU from either of those families, the modding community has once again stepped up to offer a workaround. Developer danielblnc has figured out a way to make DLSS 5 work on AMD's RDNA 4 GPUs (RX 9000 series). As long as you're playing a DirectX 12 game with FSR support, " DLSS-NR-on-AMD " can inject DLSS 5 inside it. The project is closed-source, so we don't know exactly how it works but we can make a few educated guesses. The mod is likely using a dynamic wrapper to intercept NGX API calls and fool the DLSS 5 DLL into loading on an AMD GPU. Once loaded, it extracts the AI model and Tensor data inside that DLL and converts those calculations into math AMD's matrix accelerators can understand via the HIP RT backend (rather than translating CUDA). It then hooks into the game's FSR pipeline to run that frame data through the neural model and produce the same quality results you would get on an actual RTX 50-series GPU, just without any of the Tensor cores. DLSS-NR-on-AMD doesn't work on any game requiring anti-cheat. Even in single-player titles the performance is not great, especially since the RX 9070 XT is the top-end RDNA 4 GPU available. Initially, Cyberpunk 2077 was running at 28 FPS at 1080p on the 9070 XT with DLSS 5 on, but a patch has been released that improves the frame rate by 12% to a stable
-
 ## Phoronix
+
+### Linux 7.3-rc2 Scheduler Fix For Cache Aware Load Scheduling Misfits On Hybrid CPUs
+Sun, 06 Sep 2026 09:32:43 -0400 — https://www.phoronix.com/news/Linux-7.3-rc2-Scheduler-Fixes
+
+Ahead of the Linux 7.3-rc2 kernel being released later today, a set of scheduler fixes have been sent out for this week's kernel test release. Most notable with the scheduler fixes are dealing with possible misfits for Cache-Aware Load Scheduling on hybrid CPUs like Intel Core (Ultra) processors...
 
 ### Asahi Linux Now Officially Supports Apple M3 Macs - With Caveats
 Sun, 06 Sep 2026 06:53:22 -0400 — https://www.phoronix.com/news/Asahi-Linux-Official-M3
@@ -232,9 +237,4 @@ AMD is building out what they are describing as an "elite" team of developers fo
 Sat, 05 Sep 2026 06:31:45 -0400 — https://www.phoronix.com/news/GNOME-RFC-Process-Discussion
 
 GNOME has been working to establish a formal request for comments (RFC) process for solving major technical questions and changes moving forward. A drafted RFC is now under discussion by GNOME stakeholders for moving this process forward...
-
-### KDE Plasma 6.8 Lands Windows-Like Auto-Scrolling, Lower vRAM Usage For Breeze Theme
-Fri, 04 Sep 2026 17:00:04 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.8-Autoscroll
-
-It's been an exciting start to the month of September for KDE Plasma developers with continuing to land last minute improvements for Plasma 6.8 ahead of its official release in mid-October...
 

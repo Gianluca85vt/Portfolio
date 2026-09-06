@@ -34,7 +34,7 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ---
 
-*950 upcoming titles scanned, 892 with a firm date inside
+*1000 upcoming titles scanned, 901 with a firm date inside
 14 days, 6 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

@@ -1,6 +1,11 @@
-# Manga — harvested 2026-09-06T13:13:44.592Z
+# Manga — harvested 2026-09-06T13:47:39.506Z
 
 ## Anime News Network
+
+### Persona 4 Revival Game's Videos Highlight Kanji, Yosuke, Chie, Yukiko
+Sun, 06 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/persona-4-revival-game-videos-highlight-kanji-yosuke-chie-yukiko/.241444
+
+Game launches for PS5, Xbox X|S, Xbox PC with Xbox Game Pass, PC via Steam on February 18
 
 ### Wandance Gets Stage Play in March 2027
 Sun, 06 Sep 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/wandance-gets-stage-play-in-march-2027/.241437
@@ -56,11 +61,6 @@ Much like how the game's presentation is wasted on the story, these mechanics ar
 Sat, 05 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/boichi-the-marshal-king-manga-resumes/.241424
 
 Manga went on hiatus in December
-
-### New Detective Conan Anime Special Lets Fans Deduce Culprit
-Sat, 05 Sep 2026 08:59:18 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/new-detective-conan-anime-special-lets-fans-deduce-culprit/.241434
-
-Also: Separate 2-hour 30th anniversary special to air on September 25
 
 ## Crunchyroll News
 
