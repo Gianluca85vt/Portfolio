@@ -9,7 +9,7 @@
  *
  * Writes public/img/blog/<slug>/social.jpg and prints the path.
  */
-import { readFile, writeFile, access, mkdir } from 'node:fs/promises';
+import { readFile, writeFile, access, mkdir, readdir } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import sharp from 'sharp';
@@ -410,7 +410,114 @@ export async function buildStoryFrame(
   return out;
 }
 
+/**
+ * The link preview for the blog itself.
+ *
+ * Sharing /blog/ was showing a frame from a 2024 Unreal environment video:
+ * Base.astro falls back to /img/video/U9QQZWzm9Ac.jpg when a page names no
+ * image of its own, and the blog index never named one. So the one link he
+ * actually posts looked like an old showreel.
+ *
+ * Not a screenshot. A screenshot needs a browser in the job and comes out as
+ * unreadable four-point type at the size LinkedIn renders it. This is the
+ * masthead at a size that survives a phone, over the three newest covers -
+ * which is what makes it current: it is redrawn whenever something publishes,
+ * so the preview is the artwork of whatever went up that morning.
+ */
+export async function buildBlogCard(root = process.cwd()) {
+  const OG_W = 1200;
+  const OG_H = 630;
+
+  const dir = join(root, 'src/content/blog');
+  const files = (await readdir(dir)).filter((f) => f.endsWith('.md'));
+
+  const published = [];
+  for (const file of files) {
+    const text = await readFile(join(dir, file), 'utf8');
+    if (/^draft:\s*true/m.test(text)) continue;
+    const data = frontmatter(text);
+    if (!data.date || !data.cover || data.cover.endsWith('.svg')) continue;
+    published.push({ date: data.date, cover: data.cover, slug: file.replace(/\.md$/, '') });
+  }
+  published.sort((a, b) => (a.date === b.date ? b.slug.localeCompare(a.slug) : b.date.localeCompare(a.date)));
+
+  // Three panels across. Fewer covers than that and the rest of the strip is
+  // the background colour, which still reads as deliberate.
+  const panel = Math.ceil(OG_W / 3);
+  const tiles = [];
+  for (const [i, article] of published.slice(0, 3).entries()) {
+    try {
+      const buf = await sharp(join(root, 'public', article.cover.replace(/^\//, '')), { density: 300 })
+        .resize(panel, OG_H, { fit: 'cover', position: 'attention' })
+        .toBuffer();
+      tiles.push({ input: buf, top: 0, left: i * panel });
+    } catch {
+      // A cover that is not on disk costs one panel, not the card.
+    }
+  }
+
+  const base = await sharp({
+    create: { width: OG_W, height: OG_H, channels: 3, background: '#0B0410' },
+  })
+    .jpeg()
+    .toBuffer();
+
+  const overlay = Buffer.from(`
+<svg width="${OG_W}" height="${OG_H}" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="veil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#0B0410" stop-opacity="0.55"/>
+      <stop offset="45%"  stop-color="#0B0410" stop-opacity="0.70"/>
+      <stop offset="100%" stop-color="#0B0410" stop-opacity="0.94"/>
+    </linearGradient>
+    <!-- The three covers are whatever published that morning, so one of them
+         can be a pale illustration sitting straight behind the wordmark. This
+         holds the text side dark whatever lands there, and leaves the right
+         edge showing the artwork. -->
+    <linearGradient id="side" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#0B0410" stop-opacity="0.86"/>
+      <stop offset="55%"  stop-color="#0B0410" stop-opacity="0.62"/>
+      <stop offset="100%" stop-color="#0B0410" stop-opacity="0.10"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="${OG_W}" height="${OG_H}" fill="url(#veil)"/>
+  <rect width="${OG_W}" height="${OG_H}" fill="url(#side)"/>
+
+  <text x="70" y="330" font-family="DejaVu Sans, Verdana, sans-serif"
+        font-size="128" font-weight="bold" letter-spacing="4" fill="#FFFFFF">BACKDROP</text>
+
+  <rect x="74" y="372" width="104" height="8" fill="#7621B0"/>
+
+  <text x="70" y="452" font-family="DejaVu Sans, Verdana, sans-serif"
+        font-size="34" fill="#D7E2EA" fill-opacity="0.92">Everything you watch and play was</text>
+  <text x="70" y="498" font-family="DejaVu Sans, Verdana, sans-serif"
+        font-size="34" fill="#D7E2EA" fill-opacity="0.92">built by someone, on a budget.</text>
+
+  <text x="70" y="565" font-family="DejaVu Sans, Verdana, sans-serif"
+        font-size="23" font-weight="bold" letter-spacing="5"
+        fill="#D7E2EA" fill-opacity="0.45">GAMES  ·  FILM  ·  ANIME  ·  3D</text>
+</svg>`);
+
+  const out = join(root, 'public/img/blog/og-cover.jpg');
+  await mkdir(dirname(out), { recursive: true });
+  await writeFile(
+    out,
+    await sharp(base)
+      .composite([...tiles, { input: overlay, top: 0, left: 0 }])
+      .jpeg({ quality: 86, mozjpeg: true })
+      .toBuffer()
+  );
+
+  return out;
+}
+
 if (import.meta.url === pathToFileURL(process.argv[1] ?? '').href) {
+  if (process.argv.includes('--blog')) {
+    console.log(await buildBlogCard());
+    process.exit(0);
+  }
+
   const slug = process.argv[2];
   if (!slug) {
     console.error('usage: node scripts/social-card.mjs <slug>');

@@ -106,6 +106,15 @@ jobs:
             node scripts/social-card.mjs "$slug"
           done
 
+      # The link preview for /blog/ itself, redrawn here because this is the
+      # step that knows something just went live. It carries the three newest
+      # covers, so posting the blog on LinkedIn shows what published that
+      # morning instead of a still from a 2024 Unreal video, which is what the
+      # site-wide fallback was serving.
+      - name: Redraw the blog's link preview
+        if: steps.pick.outputs.slugs != ''
+        run: node scripts/social-card.mjs --blog
+
       - name: Commit the cards
         if: steps.pick.outputs.slugs != ''
         run: |
@@ -117,7 +126,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "no new cards"
           else
-            git commit -m "Draw the social cards for what just went live"
+            git commit -m "Draw the social cards and the blog's link preview"
             # Rebase before pushing. Runs queue rather than cancel, so a second
             # one starts from the commit that triggered it and finds main has
             # moved — and a bare push then fails on a non-fast-forward, which

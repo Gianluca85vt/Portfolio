@@ -155,6 +155,30 @@ with his name on it, is not.
 
 This costs volume. That is the trade he chose.
 
+**It is not advice, it is the build.** From 7 September 2026 a published
+article carries `sources:` in its frontmatter and the build fails without two
+distinct outlets:
+
+```yaml
+sources:
+  - outlet: Eurogamer
+    url: https://www.eurogamer.net/...
+  - outlet: VGC
+    url: https://www.videogameschronicle.com/...
+```
+
+Two links to the same publication count once. That is the whole point: one wire
+story read twice is how a single source gets mistaken for corroboration.
+
+A review satisfies the rule through its `scoreSources`. Drafts are exempt, so a
+piece waiting on a second source sits as a draft and costs nothing until it
+either finds one or is dropped.
+
+The archive from before that date is left alone, the same decision he made
+about the drawn covers. Written as guidance this rule would lose to a deadline,
+which is exactly what happened to the manga quota while it was only a
+preference.
+
 ---
 
 ## Humanity

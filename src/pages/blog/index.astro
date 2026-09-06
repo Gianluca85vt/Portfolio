@@ -80,7 +80,11 @@ const jsonLd = {
 };
 ---
 
-<Base title={title} description={description} jsonLd={jsonLd}>
+<Base title={title} description={description} jsonLd={jsonLd}
+  image="/img/blog/og-cover.jpg"
+  imageWidth={1200}
+  imageHeight={630}
+  imageAlt="Backdrop - a blog about how games, film, anime and 3D get made">
   <div class="min-h-screen flex flex-col" style="overflow-x:clip">
     <SiteHeader current="/blog" />
     <BlogList posts={posts} client:load />

@@ -34,6 +34,12 @@ const blog = defineCollection({
     scoreSources: z
       .array(z.object({ outlet: z.string(), score: z.number().min(0).max(10) }))
       .optional(),
+
+    // Who reported it. Two independent outlets before anything publishes -
+    // see the rule below. Kept as a field rather than counted from links in
+    // the body because the body does not link them: of 128 published pieces,
+    // 97 name their outlets in prose and link nothing at all.
+    sources: z.array(z.object({ outlet: z.string(), url: z.string().url() })).optional(),
   })
     /**
      * A published article must carry a photograph, not the drawn fallback.
@@ -79,6 +85,51 @@ const blog = defineCollection({
           code: 'custom',
           path: ['cover'],
           message: `the cover file does not exist: public${post.cover}`,
+        });
+      }
+    })
+
+    /**
+     * Two independent outlets, or it does not publish.
+     *
+     * Gianluca's rule, and his reasoning: getting there second is survivable,
+     * being wrong in the first person with his name on it is not. Every article
+     * now speaks as him, which raises the cost of repeating one outlet's
+     * mistake from an embarrassment to a personal one.
+     *
+     * A separate floor from the cover rule above, and a later one, because this
+     * binds only what is written from here on. The 128 pieces already published
+     * were written under the old rule and are left alone - the same decision he
+     * made about the drawn covers.
+     *
+     * A review satisfies it through scoreSources: a piece quoting ten outlets'
+     * scores has plainly read more than one of them.
+     *
+     * The count is of distinct outlets, not of entries. Two links to the same
+     * publication is one source that has been read twice, which is how a single
+     * wire story gets mistaken for corroboration.
+     */
+    .superRefine((post, ctx) => {
+      const SOURCED_FROM = new Date('2026-09-07T00:00:00Z');
+      if (post.draft) return;
+      if (post.date < SOURCED_FROM) return;
+
+      const outlets = new Set(
+        [...(post.sources ?? []), ...(post.scoreSources ?? [])].map((s) =>
+          s.outlet.trim().toLowerCase()
+        )
+      );
+      outlets.delete('');
+
+      if (outlets.size < 2) {
+        ctx.addIssue({
+          code: 'custom',
+          path: ['sources'],
+          message:
+            `a published article needs two independent outlets, and this has ${outlets.size}. ` +
+            'Add them as sources: [{ outlet, url }, ...] in the frontmatter. ' +
+            'If only one outlet has the story, keep draft: true and wait for a second - ' +
+            'if none arrives, the piece does not run.',
         });
       }
     }),
