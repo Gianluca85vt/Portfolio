@@ -374,10 +374,10 @@ export const marqueeRowTwo = [
   '/img/concept/opera-senza-titolo-7.jpg',
   '/img/3d/render-03.png',
   '/img/arch/nomentana-3-copertina-sotheby-s_1.jpg',
-  '/img/concept/tracy-rendering2.jpg',
+  '/img/concept/panda-colore.jpg',
   '/img/3d/umbral-blade.jpg',
   '/img/arch/3-1-4k-res.jpg',
-  '/img/concept/edward-price-def.jpg',
+  '/img/concept/aviatore-colore.jpg',
 ];
 
 /**
@@ -425,7 +425,7 @@ export type Project = {
 };
 
 /**
- * Old "Concept" page — the full set, 55 pieces.
+ * Old "Concept" page, plus what has been drawn since — 21 pieces.
  * Titles come from Gianluca's own filenames, which name the characters; the
  * untitled ones stay untitled rather than getting an invented name.
  */
@@ -443,43 +443,9 @@ export const conceptGallery: GalleryItem[] = [
   { src: '/img/concept/xiu-lineart.jpg', title: 'Xiu — line art' },
   { src: '/img/concept/overseerer-color-corpo-def-1.png', title: 'Overseer' },
   { src: '/img/concept/overseerer-lineart-corpo.jpg', title: 'Overseer — line art' },
-  { src: '/img/concept/edward-price-def.jpg', title: 'Edward Price' },
-  { src: '/img/concept/edward-price-flat.jpg', title: 'Edward Price — flats' },
-  { src: '/img/concept/edward-price-talk.png', title: 'Edward Price — expression' },
-  { src: '/img/concept/edward-price-talk-def.jpg', title: 'Edward Price — expression' },
-  { src: '/img/concept/bozza-edward-price.jpg', title: 'Edward Price — sketch' },
-  { src: '/img/concept/tracy-rendering2.jpg', title: 'Tracy — render' },
-  { src: '/img/concept/tracy-primo-rendering.jpg', title: 'Tracy — first render' },
-  { src: '/img/concept/tracy-flat.jpg', title: 'Tracy — flats' },
-  { src: '/img/concept/lineart-tracy.jpg', title: 'Tracy — line art' },
-  { src: '/img/concept/tracy-n31-copia.jpg', title: 'Tracy' },
-  { src: '/img/concept/the-falcon.jpg', title: 'The Falcon' },
-  { src: '/img/concept/the-falcon1.png', title: 'The Falcon' },
-  { src: '/img/concept/the-falcon-2.jpg', title: 'The Falcon' },
-  { src: '/img/concept/the-falcon-2.png', title: 'The Falcon' },
-  { src: '/img/concept/the-falcon-bullo.jpg', title: 'The Falcon' },
-  { src: '/img/concept/falcon-espressioni.jpg', title: 'The Falcon — expressions' },
-  { src: '/img/concept/padre-2.jpg', title: 'The Father' },
-  { src: '/img/concept/padre-2.png', title: 'The Father' },
-  { src: '/img/concept/padre-ritratto.jpg', title: 'The Father — portrait' },
-  { src: '/img/concept/padre-ritratto-1.png', title: 'The Father — portrait' },
-  { src: '/img/concept/padre-ritratto-lineart.jpg', title: 'The Father — line art' },
-  { src: '/img/concept/padre-solid.jpg', title: 'The Father — solid' },
-  { src: '/img/concept/padre-bozza-ritratto-1.jpg', title: 'The Father — sketch' },
-  { src: '/img/concept/bozza-padre.jpg', title: 'The Father — sketch' },
-  { src: '/img/concept/protagonista.jpg', title: 'Protagonist' },
-  { src: '/img/concept/protagonista-espressioni.jpg', title: 'Protagonist — expressions' },
-  { src: '/img/concept/protagonista-arrabbiato.jpg', title: 'Protagonist — angry' },
-  { src: '/img/concept/protagonista-arrabbiato2.jpg', title: 'Protagonist — angry' },
-  { src: '/img/concept/protagonista-stupito.jpg', title: 'Protagonist — surprised' },
-  { src: '/img/concept/protagonista-stupito-2.jpg', title: 'Protagonist — surprised' },
-  { src: '/img/concept/protagonista-ragazzo-bozza.jpg', title: 'Protagonist as a boy' },
-  { src: '/img/concept/protagonista-ragazzo-bozza2.jpg', title: 'Protagonist as a boy' },
-  { src: '/img/concept/protagonista-ragazzo-bozza3.jpg', title: 'Protagonist as a boy' },
-  { src: '/img/concept/protagonista-ragazzo-bozza4.jpg', title: 'Protagonist as a boy' },
-  { src: '/img/concept/protagonista-bambino-bozza.jpg', title: 'Protagonist as a child' },
-  { src: '/img/concept/protagonista-bambino-bozza1.jpg', title: 'Protagonist as a child' },
-  { src: '/img/concept/hacker-teste.jpg', title: 'Hacker — head studies' },
+  { src: '/img/concept/panda-colore.jpg', title: 'Panda warrior' },
+  { src: '/img/concept/panda-lineart.jpg', title: 'Panda warrior - line art' },
+  { src: '/img/concept/aviatore-colore.jpg', title: 'Aviator' },
   { src: '/img/concept/opera-senza-titolo.jpg' },
   { src: '/img/concept/opera-senza-titolo-2.jpg' },
   { src: '/img/concept/opera-senza-titolo-3.jpg' },
@@ -573,7 +539,7 @@ export const projects: Project[] = [
     href: site.discord,
     images: {
       colOneTop: '/img/concept/xiu-colore.jpg',
-      colOneBottom: '/img/concept/edward-price-def.jpg',
+      colOneBottom: '/img/concept/panda-colore.jpg',
       colTwo: '/img/jian/jian-hero.jpg',
     },
     modal: { kind: 'gallery', items: conceptGallery },
