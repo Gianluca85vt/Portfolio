@@ -4,7 +4,6 @@ date: 2026-09-06
 category: 3D
 excerpt: Blender Studio dropped the paywall on every OVERGROWN production log for a week, while the feature itself is still short of the subscribers it needs.
 cover: /img/blog/blender-studio-overgrown-open-doors-week/shot-01.jpg
-draft: true
 ---
 
 Blender Studio has opened the whole OVERGROWN archive. For one week, every
