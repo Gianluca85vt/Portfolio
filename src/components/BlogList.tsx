@@ -2,8 +2,9 @@ import { useEffect, useState } from 'react';
 import FadeIn from './ui/FadeIn';
 import GlowText from './ui/GlowText';
 import { Facebook } from 'lucide-react';
-import { blog, blogCategories, categoryColors } from '../data/portfolio';
-import type { BlogCategory } from '../data/portfolio';
+import BlogSearch from './BlogSearch';
+import { colorFor, formatDate } from './blog-format';
+import { blog, blogCategories } from '../data/portfolio';
 
 export type PostCard = {
   slug: string;
@@ -21,16 +22,6 @@ export type PostCard = {
 
 const SUPABASE_URL = import.meta.env.PUBLIC_SUPABASE_URL;
 const SUPABASE_KEY = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
-
-function formatDate(iso: string) {
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return '';
-  return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
-}
-
-function colorFor(category: string) {
-  return categoryColors[category as BlogCategory] ?? '#7621B0';
-}
 
 /**
  * Approved comment counts for every post in one request, tallied here rather
@@ -310,6 +301,11 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
   const [active, setActive] = useState('All');
   // Articles arrive daily, so the index would otherwise grow without end.
   const [limit, setLimit] = useState(PAGE);
+  // A search replaces the archive rather than filtering it in place: the index
+  // is three shapes of grid stacked by editorial weight, and none of that
+  // ordering means anything once the reader has asked for one specific thing.
+  const [query, setQuery] = useState('');
+  const searching = query.trim().length > 1;
   const counts = useCommentCounts(posts.length > 0);
 
   // only offer categories that actually have something in them
@@ -399,7 +395,9 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
             </a>
           </FadeIn>
 
-          {filters.length > 1 ? (
+          <BlogSearch onQueryChange={setQuery} />
+
+          {filters.length > 1 && !searching ? (
             <FadeIn delay={0.12} y={14} className="flex flex-wrap gap-1.5 mt-6 sm:mt-7">
               {filters.map((c) => {
                 const on = active === c;
@@ -426,9 +424,13 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
         </div>
       </section>
 
-      <section className="px-4 sm:px-6 md:px-8 pt-6 sm:pt-8 pb-20 sm:pb-24">
+      {/* Padding and all while searching, this still stood 128px tall under the
+          results with nothing in it. */}
+      <section
+        className={`px-4 sm:px-6 md:px-8 ${searching ? '' : 'pt-6 sm:pt-8 pb-20 sm:pb-24'}`}
+      >
         <div className="max-w-[1180px] mx-auto">
-          {shown.length === 0 ? (
+          {searching ? null : shown.length === 0 ? (
             <p className="text-[#D7E2EA]/40 font-light">Nothing here yet.</p>
           ) : filtered ? (
             <>
