@@ -1,6 +1,11 @@
-# Manga — harvested 2026-09-06T08:54:30.996Z
+# Manga — harvested 2026-09-06T13:05:57.514Z
 
 ## Anime News Network
+
+### Wandance Gets Stage Play in March 2027
+Sun, 06 Sep 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/wandance-gets-stage-play-in-march-2027/.241437
+
+The Jet Boy Bangerz member Taki stars as Kaboku
 
 ### Kuji Furumiya's Unnamed Memory -after the end- Sequel Light Novel Series Ends in December
 Sun, 06 Sep 2026 00:52:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/kuji-furumiya-unnamed-memory-after-the-end-sequel-light-novel-series-ends-in-december/.241425
@@ -56,11 +61,6 @@ Manga went on hiatus in December
 Sat, 05 Sep 2026 08:59:18 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/new-detective-conan-anime-special-lets-fans-deduce-culprit/.241434
 
 Also: Separate 2-hour 30th anniversary special to air on September 25
-
-### Tomb Raider King ‒ Episode 9
-Sat, 05 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/tomb-raider-king/episode-9/.241421
-
-Jooheon is so out of his depth for once that he has to jump into the water and take a risky swim to try and save Irene without all of his equipment handy.
 
 ## Crunchyroll News
 

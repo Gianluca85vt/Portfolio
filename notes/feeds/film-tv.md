@@ -1,6 +1,31 @@
-# Film & TV — harvested 2026-09-06T08:54:30.996Z
+# Film & TV — harvested 2026-09-06T13:05:57.514Z
 
 ## Variety
+
+### Susan Sarandon Says She s Still Had Movies Taken Away Recently Over Palestine Support: There Are Agencies That Are Telling People Not to Hire Me
+Sun, 06 Sep 2026 12:26:01 +0000 — https://variety.com/2026/film/festivals/susan-sarandon-movies-taken-away-palestine-support-1236853245/
+
+Susan Sarandon said she s still had movies taken away recently over her outspoken support of Palestine. At the Venice Film Festival press conference for her new film The Echo Chamber on Sunday, Sarandon was asked if she thinks the narrative is changing in Hollywood when it comes to the conflict in Gaza. In 2023, the [ ]
+
+### ‘Woman Unknown’ Director May el-Toukhy Talks the Torment of World War II ‘Horizontal Collaborators’ and Venice’s Female Director Snub: ‘It’s a Structural Problem’
+Sun, 06 Sep 2026 12:03:05 +0000 — https://variety.com/2026/film/global/woman-unknown-may-el-toukhy-world-war-ii-venice-directors-1236847532/
+
+In “Woman Unknown,” May el-Toukhy takes a closer look at women accused of having relationships with German soldiers during World War II. “When we started to build a story about a ‘horizontal collaborator,’ we realized that, during and after the war, the female body became part of national identity. But in Denmark, it wasn’t really [ ]
+
+### ‘From Inside Out – The Architecture of Peter Zumthor’ Review: Wim Wenders’ Latest 3D Documentary Is an Architectural Marvel
+Sun, 06 Sep 2026 12:00:00 +0000 — https://variety.com/2026/film/news/from-inside-out-the-architecture-of-peter-zumthor-review-1236853214/
+
+The screen is usually a canvas, but it becomes a window to an enormous room in Wim Wenders’ latest 3D documentary, “From Inside Out – The Architecture of Peter Zumthor.” Within that room unfolds the tale of the Swiss architect of the title, told in occasionally laborious ways. It spends much of its two-hour runtime [ ]
+
+### Wim Wenders Clarifies His Stance on Filmmakers Role in Politics After Berlin Controversy: We Are the Opposite of Politicians We Are the Antidote
+Sun, 06 Sep 2026 10:44:13 +0000 — https://variety.com/2026/film/festivals/wim-wenders-clarifies-filmmakers-politics-berlin-1236853205/
+
+Wim Wenders has clarified his much-discussed statement about filmmakers role in politics that kicked off a firestorm at Berlin Film Festival earlier this year. Wenders was at the center of a heated debate at the Berlinale in February after the celebrated German filmmaker, who served as jury president, said during the opening press conference that [ ]
+
+### French President Emmanuel Macron Calls for a New Multilateralism Across Creative Industries: We Built a Civilization of Images. We Should Not Resign Ourselves to Watching It Deteriorate
+Sun, 06 Sep 2026 09:30:34 +0000 — https://variety.com/2026/biz/opinion/french-president-emmanuel-macron-op-ed-future-creative-industries-1236852793/
+
+In 1895, the first public film screening happened. It was in the basement of the Grand Café, nearby the Paris Opera, with a program of 10 short movies, each no more than 50 seconds long. Cinema was born. The names of the two brothers, Auguste and Louis Lumière, became symbols of an art which needs [ ]
 
 ### Are Russian Filmmakers Finally Coming in From the Cold?
 Sun, 06 Sep 2026 07:45:23 +0000 — https://variety.com/2026/film/global/russian-filmmakers-dau-venice-film-festival-1236845801/
@@ -27,32 +52,12 @@ Sun, 06 Sep 2026 05:48:08 +0000 — https://variety.com/2026/film/news/san-sebas
 
 Paris-based Moveria has boarded international sales on Taiwanese filmmaker Lu Po-Shun s debut feature Will You Still Be My Friend, which is set for a berth in San Sebastián s New Directors sidebar before travelling on to the Busan International Film Festival. A Taiwan-Singapore co-production, the film follows two young boys, played by Jaden Wang and Aloysius [ ]
 
-### Lee Chang-dong, Jeon Do-yeon and Sul Kyung-gu on Class, Desire and Reunion in Venice Competition Drama Possible Love
-Sun, 06 Sep 2026 05:45:00 +0000 — https://variety.com/2026/film/festivals/lee-chang-dong-jeon-do-yeon-sul-kyung-possible-love-1236852451/
-
-Every great love story, in Korean auteur Lee Chang-dong s telling, is secretly a story about love that cannot happen — class, status or fate standing in the way. His new film dares to ask the opposite question, and it took him the better part of two decades, one abandoned script about a 2009 workers strike [ ]
-
-### Wim Wenders on Why He Made a Documentary About Architect Peter Zumthor, and How Brad Pitt Helped Get It Made
-Sun, 06 Sep 2026 05:00:00 +0000 — https://variety.com/2026/film/global/wim-wenders-peter-zumthor-venice-1236852836/
-
-Wim Wenders’ 3D documentary From Inside Out,” which has its world premiere at the Venice Film Festival on Sunday, examines the work of Pritzker Prize-winning architect Peter Zumthor, paying particular attention to the design and construction of the David Geffen Galleries of the Los Angeles County Museum of Art. In the film, the result of [ ]
-
-### The Debut Review: Julianne Moore Is Astonishing in Jesse Eisenberg s Funny and Dizzying Community-Theater Comedy
-Sun, 06 Sep 2026 02:59:36 +0000 — https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779/
-
-What holds it together is the suppleness of Eisenberg’s voice as a writer-director (the wit that singes, the story that never stops poking around corners), and the utterly astonishing performance of Julianne Moore, who plays a crumpled-up wallflower in dire need of blooming. Oh, does she bloom.
-
-### Bad Bunny Wins Emmy for Super Bowl Halftime Show
-Sun, 06 Sep 2026 02:19:45 +0000 — https://variety.com/2026/artisans/awards/bad-bunny-emmy-super-bowl-halftime-show-1236849643/
-
-Bad Bunny has won his first Emmy for the Super Bowl Halftime Show. He won in the outstanding variety special (live) category. “The Apple Music Super Bowl LX Halftime Show Starring Bad Bunny” took home a total of seven nominations, winning music direction, choreography, sound mixing, lighting design, technical direction/camerawork and directing. Jay-Z, also an [ ]
-
-### Elsinore Revisits Daniel Day-Lewis Infamous Walk-Off During 80s Hamlet Production
-Sun, 06 Sep 2026 02:02:20 +0000 — https://variety.com/2026/film/news/elsinore-andrew-scott-daniel-day-lewis-hamlet-1236853006/
-
-Audiences got the first glimpse at a triumphant and career-defining performance from Andrew Scott in “Elsinore” this weekend, but the Telluride player also delivers another important gift: legendary show business gossip. Central to the plot is an infamous real-life moment in the history of the U.K. theater when Daniel Day-Lewis stopped cold during a [ ]
-
 ## The Hollywood Reporter
+
+### Oscars: Iraq picks No Paradise If You Are Killed by a Woman as Best Intl. Feature Contender
+Sun, 06 Sep 2026 12:45:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-iraq-pick-no-paradise-if-you-are-killed-by-a-woman-1236692364/
+
+Halkawt Mustafa’s feature, which premieres out of competition in Venice, follows a female Kurdish sniper who returns to Mosul to try and rescue her younger sister.
 
 ### May el-Toukhy Takes Woman Unknown to Venice: I ve Used Every Part of Me to Make This Film
 Sun, 06 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/may-el-toukhy-woman-unknown-venice-film-festival-mathilde-1236683019/
@@ -99,12 +104,22 @@ Sun, 06 Sep 2026 00:53:26 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 The former 'Gotham' star's comments come nearly 20 years after the Fox teen drama ended after four seasons.
 
-### The Debut Features Seven Original Songs, All Written by Jesse Eisenberg, and One Is Getting an Oscar Push (Exclusive)
-Sun, 06 Sep 2026 00:45:48 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-debut-jesse-eisenberg-original-songs-oscar-push-1236687820/
-
-The best original song race already includes tunes by Taylor Swift, Travis Scott, David Byrne, Backstreet Boys and, yes, Diane Warren.
-
 ## Deadline
+
+### Susan Sarandon Says She Is Still Losing Hollywood Roles Due To Palestine-Israel Stance
+Sun, 06 Sep 2026 12:44:24 +0000 — https://deadline.com/2026/09/susan-sarandon-narrative-us-israel-studio-roles-1237069412/
+
+Susan Sarandon told a press conference in Venice on Sunday that she continued to lose big roles due to her public support of Palestine, even if the narrative around the nature of U.S. support of Israel has changed in recent months. “I ve still had movies taken away recently because there are agencies that are telling [ ]
+
+### ‘Father Joe’ Review: Kiefer Sutherland Comes Out With All Guns Blazing In This Deliriously Violent Throwback Beat-’Em-Up – Venice Film Festival
+Sun, 06 Sep 2026 10:20:21 +0000 — https://deadline.com/2026/09/father-joe-review-kiefer-sutherland-al-pacino-luc-besson-venice-1237069403/
+
+Did you ever feel that King of New York could have done with a bit more Wing Chun? Did you ever think that John Woo’s films weren’t quite Catholic enough? That the siege of Troy might have been handled a bit more successfully if the Greeks had a bazooka? If your answer is yes to [ ]
+
+### Richard Osman Appears To Confirm The Celebrity Traitors Premiere Date Amid Talk That Season 2 Was Intense To Film
+Sun, 06 Sep 2026 09:58:41 +0000 — https://deadline.com/2026/09/richard-osman-the-celebrity-traitors-premiere-date-bbc-1237069393/
+
+Richard Osman has apparently let slip that The Celebrity Traitors will return to the BBC this month. Speaking on-stage during a live episode of The Rest Is Entertainment podcast in London, Osman told the audience that The Celebrity Traitors will premiere on September 23. Osman and co-host Marina Hyde were interviewing special guest Joe Marler, [ ]
 
 ### Mel Gibson Says The Resurrection Will Flesh Out Gaps In The Gospels
 Sun, 06 Sep 2026 04:03:02 +0000 — https://deadline.com/2026/09/mel-gibson-the-resurrection-gospels-story-gaps-1237069341/
@@ -150,19 +165,4 @@ Jimmy Kimmel has another Emmy. The comedian has picked up for Outstanding Host f
 Sat, 05 Sep 2026 22:17:52 +0000 — https://deadline.com/2026/09/telluride-film-festival-2026-reviews-deadline-1237068524/
 
 The 2026 Telluride kicked off Friday, September 5, in Colorado and runs through Labor Day. The 53rd edition of the fest kicks off with first-day films including seven-time Oscar nominee Mike Leigh’s Tender Loving Care and the Andrew Scott-led Elsinore. See the full lineup here. RELATED: Venice Film Festival 2026: Read All Of Deadline’s Reviews [ ]
-
-### Danny Boyle Confirms Use Of AI In New Movie Ink
-Sat, 05 Sep 2026 21:41:26 +0000 — https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/
-
-Danny Boyle has confirmed the use of AI in new movie Ink about the launch of The Sun newspaper. Speaking to Vanity Fair, Boyle said he had used around 30 seconds of generative AI in the making of his new movie, which opened the Venice Film Festival this week before going on to play Telluride. [ ]
-
-### Kid Cudi Defends Performing With Kanye West In Chicago: I Held Him Accountable
-Sat, 05 Sep 2026 20:35:32 +0000 — https://deadline.com/2026/09/kid-cudi-defends-performing-kanye-west-chicago-1237069088/
-
-As Kanye West returned to the Windy City for a two-night stay, he had some support from an old friend. On Saturday, Kid Cudi defended performing with the controversial 24x Grammy-winning artist the night before at Soldier Field in Chicago, telling a critic that although I understand ur frustration, I don t really care if ur [ ]
-
-### Father Joe : First Look Clip Of Kiefer Sutherland As A Priest Who Clashes With The Mob In Action-Crime Pic Venice
-Sat, 05 Sep 2026 19:46:03 +0000 — https://deadline.com/2026/09/father-joe-first-clip-kiefer-sutherland-rebel-priest-1237069049/
-
-EXCLUSIVE: Here s your first clip for Venice Film Festival genre pic Father Joe, starring Kiefer Sutherland, Al Pacino and teen Ever Anderson, daughter of Milla Jovovich and filmmaker Paul W.S. Anderson. Sutherland plays a man of faith who wages a violent war against Manhattan s criminal underworld, putting him on a collision course with a powerful [ ]
 

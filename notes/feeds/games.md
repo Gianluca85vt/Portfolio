@@ -1,6 +1,26 @@
-# Games — harvested 2026-09-06T08:54:30.996Z
+# Games — harvested 2026-09-06T13:05:57.514Z
 
 ## Eurogamer
+
+### Valve staged its own Left 4 Dead 2 trailer "leak" to get around an ESRB ban, says former writer
+Sun, 06 Sep 2026 12:42:09 +0000 — https://www.eurogamer.net/valve-left-4-dead-2-trailer-leak-esrb-chet-faliszek
+
+Valve itself "leaked" the 2009 Left 4 Dead 2 trailer. Read more
+
+### Dutch artist responds to the White House's Build the Wall game with Build that Bridge
+Sun, 06 Sep 2026 11:24:23 +0000 — https://www.eurogamer.net/build-that-bridge-tetris-response-white-house-wall-game
+
+A Dutch artist has released Build that Bridge, a free browser game built as a direct response to Build the Wall, the Tetris-style minigame the White House launched on Arcade.Gov last week . Read more
+
+### The Blood of Dawnwalker has sold 1 million copies in just 3 days
+Sun, 06 Sep 2026 11:01:08 +0000 — https://www.eurogamer.net/blood-of-dawnwalker-1-million-sales-rebel-wolves
+
+The Blood of Dawnwalker has sold more than a million copies worldwide in just three days. Read more
+
+### Age Twisters is a genuinely charming co-op game hoping to bridge the generation divide - and one of my loveliest surprises at Gamescom
+Sun, 06 Sep 2026 09:09:56 +0000 — https://www.eurogamer.net/age-twisters-preview-gamescom
+
+Despite the horrors its name might imply, Age Twisters it's a surprisingly nifty little thing. I had the opportunity to check it out at Gamescom, and to my delight its co-op adventuring provided a lovely tonic to the various violent delights the show provided elsewhere. Read more
 
 ### Xbox Cloud Gaming's new hourly cap is reportedly set exactly where Microsoft stops making money on it
 Sat, 05 Sep 2026 16:11:08 +0000 — https://www.eurogamer.net/xbox-cloud-gaming-hourly-cap-break-even-point
@@ -42,26 +62,6 @@ Fri, 04 Sep 2026 19:19:34 +0000 — https://www.eurogamer.net/after-ai-slop-accu
 
 A large portion of the internet pointed their virtual fingers at Humankind 2's new trailer and shouted 'AI slop!' Developer Amplitude Studios is now denying those claims and has even released a behind-the-scenes clip to prove a whole human crew (plus five chickens) made the Gamescom ONL reveal. Read more
 
-### It looks like No Man's Sky's next update is imminent as Sean Murray breaks out the emojis again - and fans reckon it's a big one
-Fri, 04 Sep 2026 18:38:14 +0000 — https://www.eurogamer.net/no-mans-sky-cosmos-update-imminent-emoji-tease
-
-Yes, it's time to brace yourself once more, No Man's Sky fans: Sean Murray is delving into his big bag of emojis, indicating - with reliable certainty - the exploratory space sim's highly anticipated 10th anniversary update will be with us very soon. And there's hope among the playerbase that Cosmos, as the update was previously confirmed to be called, might be a big 'un. Read more
-
-### Nearly a decade on, legendary director Hideki Kamiya says he's "100% serious" about reviving Xbox's canned Scalebound
-Fri, 04 Sep 2026 18:22:42 +0000 — https://www.eurogamer.net/director-hideki-kamiya-serious-reviving-xbox-canned-scalebound
-
-Hideki Kamiya was being super serious about resurrecting Scalebound , PlatinumGames' dragon-filled romp that was cancelled by Xbox nearly a decade ago. Read more
-
-### Hype for GTA 6 is giving PS5 and Xbox console sales a much needed 30% boost
-Fri, 04 Sep 2026 17:14:16 +0000 — https://www.eurogamer.net/gta-6-hype-giving-ps5-xbox-series-sales-boost
-
-GTA 6 is already giving PlayStation and Xbox consoles a much needed sales boost, at least in the UK, even though Rockstar Games ' inevitable pile of cash doesn't drop for another couple of months. Read more
-
-### Next week, for the first time ever, Nintendo is hosting two Directs back-to-back - and the first one is dedicated to The Legend of Zelda's 40th anniversary
-Fri, 04 Sep 2026 14:30:12 +0000 — https://www.eurogamer.net/nintendo-zelda-40th-anniversary-direct-another-nintendo-direct
-
-Back in June, we learned that we're officially getting a The Legend of Zelda: Ocarina of Time remake , which is supposedly coming to Switch 2 later this year (and we first heard rumours about it back in Marc h). But, as we approach the latter quarter of the year, we still don't know much about this remake, what it looks like, how it plays, or... well, anything really. Read more
-
 ## GamesIndustry.biz
 
 ### PAX Unplugged Houston to debut in June 2027: "It's a chance to bring PAX back to the PAX South fans that missed us"
@@ -79,21 +79,16 @@ Fri, 04 Sep 2026 13:50:36 +0000 — https://www.gamesindustry.biz/nvidia-acquire
 
 Nvidia has acquired the artificial intelligence platform Hugging Face for $12.9 billion. Read more
 
-### Future imperfect: Five predictions for the next decade | Opinion
-Fri, 04 Sep 2026 12:16:41 +0000 — https://www.gamesindustry.biz/future-imperfect-five-predictions-for-the-next-decade-opinion
-
-A lot of minds around the industry currently seem focused on one thing: the future. Whether it was Amir Satvat's Gamescom Dev keynote , or the plethora of industry luminaries who lined up to discuss ongoing and impending turmoil for Edge magazine's latest issue, the topic of the moment is what's next &ndash; and the mood is apprehensive, to say the least. Read more
-
-### GTA 6 Netflix preview causes PlayStation and Xbox hardware sales to jump in the UK
-Fri, 04 Sep 2026 09:09:47 +0000 — https://www.gamesindustry.biz/gta-6-netflix-preview-causes-playstation-and-xbox-hardware-sales-to-jump-in-the-uk
-
-PlayStation 5 and Xbox Series X|S console sales increased in the UK following last week's Grand Theft Auto 6 reveal on Netflix . Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Review: Hot Wheels: Infinite Rush (PS5) - A Solid Arcade Racer with an Open World It Doesn t Need
+Sun, 06 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/reviews/ps5/hot-wheels-infinite-rush
+
+Pump the brakes. After two successful and highly regarded arcade racing games in the Hot Wheels Unleashed series, developer Milestone has taken that same formula and applied it across an open world structure in Hot Wheels: Infinite Rush — an addition that feels unnecessary. I really enjoyed the simpler, circuit-based approach of the earlier games; it felt in tune with the licence, which is all about these toy cars and the iconic orange tracks you build for them to race around. Read the full article on pushsquare.com
 
 ### Need More Resident Evil? This Manga Will Bring an All-Star Ensemble to Print
 Sat, 05 Sep 2026 23:15:00 GMT — https://www.pushsquare.com/news/2026/09/need-more-resident-evil-this-manga-will-bring-an-all-star-ensemble-to-print
@@ -149,11 +144,6 @@ Fighting soul. Sony has released the PS Store's chart data for the month of Augu
 Fri, 04 Sep 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/09/i-know-the-response-to-this-noir-action-game-has-been-bad-but-im-still-hopeful-for-its-ps5-release
 
 Sam the man. Earlier this year, I said Sony needs to “ move mountains ” to get Samson: A Tyndalston Story on the PS5, the noir crime caper with GTA -esque inspirations. Then it released . Read the full article on pushsquare.com
-
-### State of Play s Live Chat Was a Total Mess, and I Wonder What Sony s Going to Do About It
-Fri, 04 Sep 2026 16:15:00 GMT — https://www.pushsquare.com/news/2026/09/state-of-plays-live-chat-was-a-total-mess-and-i-wonder-what-sonys-going-to-do-about-it
-
-This ain't fun anymore. I knew what the latest State of Play’s live chat was going to look like before I took a few screenshots, and it turns out I wasn’t far off the mark. In fact, if anything I miscalculated the strength of sentiment around Destiny 3 , as I’d say demand for the hypothetical Bungie sequel almost matched the number of comments about physical discs. Read the full article on pushsquare.com
 
 ## Game Developer
 

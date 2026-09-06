@@ -14,6 +14,7 @@
  */
 
 import { writeFile, mkdir, rm } from 'node:fs/promises';
+import { publishedArticles, assess, report } from './editorial-mix.mjs';
 
 const FEEDS = [
   // Games
@@ -140,15 +141,32 @@ for (const r of results) {
   byCategory.get(r.category).push(r);
 }
 
+// What is owed goes above the feed list, not below it. The categories and the
+// feeds both existed while thirty articles in a row came out of neither, so
+// the deficit has to be the first thing read, in the imperative, with a number
+// attached, rather than a preference filed somewhere else.
+const articles = await publishedArticles();
+const owed = new Set(assess(articles).filter((r) => r.due).map((r) => r.category));
+
 let index = `# Source feeds — harvested ${stamp}\n\n`;
 index += `Fetched by GitHub Actions, which is not behind the writer's egress proxy.\n`;
 index += `One file per category. Each item is what the publisher syndicates in its\n`;
 index += `own feed: headline, link, date, and their summary.\n\n`;
+index += `${report(articles)}
+`;
+index += `## Feeds
+
+`;
 
 let totalItems = 0;
 let failures = [];
 
-for (const [category, feeds] of byCategory) {
+// A starved category listed eighth reads as the eighth priority. Owed first.
+const ordered = [...byCategory.entries()].sort(
+  (a, b) => Number(owed.has(b[0])) - Number(owed.has(a[0]))
+);
+
+for (const [category, feeds] of ordered) {
   const slug = category.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
   let page = `# ${category} — harvested ${stamp}\n\n`;
   let count = 0;
@@ -173,7 +191,7 @@ for (const [category, feeds] of byCategory) {
   }
 
   await writeFile(`notes/feeds/${slug}.md`, page, 'utf8');
-  index += `- [${category}](${slug}.md) — ${count} items\n`;
+  index += `- [${category}](${slug}.md)${owed.has(category) ? ' **owed**' : ''} — ${count} items\n`;
   totalItems += count;
 }
 
