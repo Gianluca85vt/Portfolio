@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-05T18:34:05.853Z
+# Tech — harvested 2026-09-06T08:54:30.996Z
 
 ## Ars Technica
 
@@ -64,6 +64,16 @@ Anthropic’s prospective public-market investors must reckon with an external g
 
 ## The Verge
 
+### Explore the globe in field recordings
+2026-09-05T17:31:34-04:00 — https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings
+
+Around the world in 80 WAVs. | Screenshot: Terrence O’Brien / The Verge I love field recordings. I love making them. I love them when they're incorporated into my ambient music . They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a globe to explore with real field recordings taken from various locations. Earth Garden is inspired by Radio Garden (which you should also check out) except, instead of exploring the world via radio, it's environmental sounds. There are waves lapping at the shores of remote islands in the Atlantic, a chorus of crickets in Tanzania, and rainfall on … Read the full story at The Verge. ]]>
+
+### iPhone Handoff will seamlessly share one number between two phones
+2026-09-05T16:53:58-04:00 — https://www.theverge.com/tech/990868/iphone-handoff-ios-27
+
+When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up the feature running in Xcode 27's Device Hub. It lets you pair two iPhones, using one as your main device and the other as its " companion ." Launching the feature now makes sense with the expected launch of the foldable iPhone Ultra right around the corner . People might not always want to take a chunky and extremely expensive device out with them. So Han … Read the full story at The Verge. ]]>
+
 ### CD sales are booming as physical media continues its resurgence
 2026-09-05T12:49:33-04:00 — https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence
 
@@ -104,17 +114,12 @@ Audacity 4 has been in the works for some time, and had its own mini controversy
 
 Trump’s racist new “Build the Wall” game. | Image: The White House The PR masterminds at the White House just released a series of vaguely policy-themed "arcade" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda. The Tetris Company has already responded to "Build the Wall," which is obviously modeled on the famous puzzle game. In the Trump administration's game, the player has to stack interlocking shapes to stop a "zombie border siege" along the southern border. Aliens - the administration's preferred term for noncitizens , and the subject of previous grotesque attempts at humor - run across the screen, trying to … Read the full story at The Verge. ]]>
 
-### GoPro says it s still committed to your collective stoke
-2026-09-04T14:00:45-04:00 — https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter
-
-GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's "core DNA," after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, after saying in the deal announcement that it would work with Starman to address "important areas of national security related to cameras, optics and AI infrastructure." YouTuber Mark "Markiplier" Fischbach, who prior to the acquisition became GoPro's largest individual shareholder, is not mentioned at all. To our GoPro community, fans and custom … Read the full story at The Verge. ]]>
-
-### Roland is getting into generative AI music with Melody Flip
-2026-09-04T13:51:35-04:00 — https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip
-
-It's not quite the "push button; get song" of Suno , but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 "Palettes," which are essentially themed collections of musical ideas sorted by genre. You can start from scratch and ask it to generate any combination of melody, chord progression, bassline, or drums. Or you can feed it a reference track and have it build off the melodic ideas from that. Unlike Suno or Udio, Melody Flip doesn't spit out fully polished songs with vocals and full arrangements. Instead, it offers … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Save nearly 50% on this awesome 16-inch OLED laptop with a Ryzen AI 5 430 CPU & 16GB RAM — HP's MacBook Neo-beating OmniBook X Flip is down to just $699
+Sat, 05 Sep 2026 18:51:54 +0000 — https://www.tomshardware.com/pc-components/save-nearly-50-percent-on-this-awesome-16-inch-oled-laptop-with-a-ryzen-ai-5-430-cpu-and-16gb-ram-hps-macbook-neo-beating-omnibook-x-flip-is-down-to-just-usd699
+
+With the entire PC hardware industry in shambles right now, laptops represent some of the best deals to be had. The integrated nature of these devices often results in unexpected savings compared to their desktop counterparts. As such, we've found a great offer on an HP OmniBook Flip X 2-in-1 for just $699 , down 47% from its list price of $1,329 on Best Buy. It's a 16-inch OLED laptop with solid performance for everyday tasks, and then some. Check out this deal on Best Buy A sleek machine with strong internals for everyday usage and an exceptional OLED display for its class — the HP OmniBook X Flip 2-in-1 is the perfect choice for computing on a budget. Did we say the screen flips around, too? View Deal This specific variant of the OmniBook X Flip 2-in-1 being at $699 puts it directly in MacBook Neo territory, which also starts at $699 now. But for that money, you're getting a whole lot more computer. The main selling point here is the gorgeous 16-inch OLED display carrying a 1920x1200 resolution. It's touchscreen and, owing to its name, flips around 180 degrees to form a tablet. The laptop is built well so turning it around doesn't feel flimsy, either. Inside the heart of the laptop sits a Ryzen AI 5 340 processor. It's a Gorgon Point chip, so basically a Strix Point refresh, but it's capable of churning through daily tasks like butter. It has four Zen 5 cores (two of which are Zen 5c) and four RDNA 3.5 Compute Units, which are enough for very lightweight 1080p gaming. This
 
 ### Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth — Project Zenith will debut on AMD's flagship Ryzen AI Halo platform
 Sat, 05 Sep 2026 17:18:57 +0000 — https://www.tomshardware.com/software/windows/stripped-down-windows-11-for-ai-developers-demands-64gb-ram-and-insane-250-gb-s-bandwidth-project-zenith-will-debut-on-amds-flagship-ryzen-ai-halo-platform
@@ -171,12 +176,17 @@ Sat, 05 Sep 2026 10:40:00 +0000 — https://www.tomshardware.com/tech-industry/p
 
 Taiwan is cracking down on Chinese businesses illegally operating on the island, often by concealing their ownership through shell companies registered in other nations or by hiring non-Chinese nationals to put up the company for them. According to the Rest of World , Taiwan’s Cross-Strait Act and other related investment rules and regulations require Chinese businesses to apply for a permit from the government before they can began operating. However, not all can get this coveted approval, especially as political tensions between the island nation and its bigger neighbor has flared up in recent years. Go deeper with TH Premium: Taiwan, trade, and tariffs (Image credit: tsmc) While the U.S. flip-flops on chip sanctions, China is building its own chip supply market The state of China's decade-long semiconductor push Huawei Ascend NPU roadmap examined China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab China's latest round of rare-earth export controls explained China has been trying to build self-sufficiency when it comes to semiconductors and advanced chips — an endeavor that began in 2015 and was supercharged in recent years by the White House’s efforts to keep Western technologies away from Beijing through trade bans and export controls . Many Chinese companies are trying to stay competitive and build their own technologies by hiring experts and engineers from across the Taiwan Strait, especially those who have experience working in Taiwan’s vibran
 
-### Trump slaps up to 100% tariffs on imported drones and critical components in latest move against China's proliferation of U.S. drone market, citing national security — products from allied nation face 10-15% rates
-Sat, 05 Sep 2026 10:20:00 +0000 — https://www.tomshardware.com/tech-industry/drones/trump-slaps-up-to-100-percent-tariffs-on-imported-drones-and-critical-components-in-latest-move-against-chinas-proliferation-of-u-s-drone-market-citing-national-security-products-from-allied-nation-face-10-15-percent-rates
-
-The Trump administration has imposed tariffs of up to 100% on imported drones and their components. This is its latest move in a long-running campaign to reduce reliance on foreign drones and other electronics — especially Chinese — citing national security while bolstering the domestic supply chain. The tariffs came into effect on Thursday, September 3, 21 days after President Donald Trump signed the measure on August 13 . Consequently, the U.S. Customs and Border Protection (CBP) published guidance detailing exact filing procedures and tariff rates for the affected drones. Go deeper with TH Premium: Taiwan, trade, and tariffs (Image credit: tsmc) While the U.S. flip-flops on chip sanctions, China is building its own chip supply market The state of China's decade-long semiconductor push Huawei Ascend NPU roadmap examined China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab China's latest round of rare-earth export controls explained The proclamation categorizes drones by capability, with the 100% rate applying to unmanned aircraft with a maximum takeoff weight above 55 pounds (25kg); any drone with thermal imaging and docking stations; and a defined list of critical components, including static converters, airframe components, and electronic control boards. The White House calls this category “particularly sensitive for natural security purposes.” A 25% rate applies to smaller drones that lack those capabilities, as well as other components. This sys
-
 ## Phoronix
+
+### Slackware-Based Zenwalk ISOs Updated With Linux 7.1, Flatpak Integrated + Xfce 4.20
+Sat, 05 Sep 2026 18:27:47 -0400 — https://www.phoronix.com/news/Zenwalk-2026-Current
+
+It's been over four years since the original release of Zenwalk 15.0 while released today is a new Zenwalk Current Milestone snapshot. This Slackware-based Linux distribution with a long history has an exciting update out for testing this weekend...
+
+### Ikey Doherty Plans To Show How To "Properly" Build A Modern Linux Distro
+Sat, 05 Sep 2026 14:35:41 -0400 — https://www.phoronix.com/news/Ikey-Doherty-Plans-Linux-Build
+
+Ikey Doherty is back in the Linux distribution space. Sort of. Ikey Doherty who was the founder of the Solus Linux distribution as well as Serpent OS (now AerynOS) as well as having been employed by Intel on their Clear Linux team is back at it again in the Linux space...
 
 ### NVIDIA Posts vGPU Manager & VFIO Variant Driver For Open-Source Nova
 Sat, 05 Sep 2026 11:02:15 -0400 — https://www.phoronix.com/news/NVIDIA-Nova-vGPU-Manager
@@ -227,14 +237,4 @@ Last month the NetworkManager project adopted an AI coding policy where authors 
 Fri, 04 Sep 2026 10:33:57 -0400 — https://www.phoronix.com/news/PoCL-7.2-Released
 
 The Portable Computing Language project is out today with PoCL 7.2 as this portable, MIT-licensed OpenCL implementation that runs across various CPU architectures as well as targeting other GPUs/hardware with LLVM back-ends. Notable with PoCL 7.2 is bringing official OpenCL 3.0 conformance on x86_64 and RISC-V processors...
-
-### XDC 2026 Will Feature Many Interesting Talks: Vulkan Gallium, OpenCL On CUDA & More
-Fri, 04 Sep 2026 09:05:43 -0400 — https://www.phoronix.com/news/XDC-2026-Talks
-
-The annual X.Org Developer's Conference "XDC 2026" is happening later this month in Toronto. A great number of interesting talks are planned this year from new Wayland features to OpenCL over CUDA, the possibility of Vulkan Gallium, and a lot of exciting driver developments...
-
-### Linux 7.4 To Improve Apple Silicon Audio Support & Its "Impossible" Power Management
-Fri, 04 Sep 2026 08:13:01 -0400 — https://www.phoronix.com/news/Linux-Apple-Audio-Shared-GPIO
-
-The Apple Silicon audio driver code within the Linux kernel is preparing to make use of the recent shared GPIO infrastructure for allowing multiple drivers / kernel components to nicely share the same GPIO lines. This should help clean things up in the mainline kernel for the Apple Silicon audio support and with a cleaner architecture than the current downstream Asahi Linux code...
 

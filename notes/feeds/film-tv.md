@@ -1,168 +1,168 @@
-# Film & TV — harvested 2026-09-05T18:34:05.853Z
+# Film & TV — harvested 2026-09-06T08:54:30.996Z
 
 ## Variety
 
-### Kid Cudi Defends Kanye West After Ending Feud: Kanye Apologized and It Was Sincere After Antisemitic Outbursts
-Sat, 05 Sep 2026 18:18:34 +0000 — https://variety.com/2026/music/news/kid-cudi-kanye-west-end-feud-antisemitic-1236852747/
+### Are Russian Filmmakers Finally Coming in From the Cold?
+Sun, 06 Sep 2026 07:45:23 +0000 — https://variety.com/2026/film/global/russian-filmmakers-dau-venice-film-festival-1236845801/
 
-After feuding for the past few years, Kanye West and Kid Cudi have made up and reunited during West s Chicago concert on Friday night. West performed the past two nights in his hometown of Chicago to promote his latest album, Bully, and welcomed several surprise guests to the stage. Cudi joined his longtime collaborator for [ ]
+The Venice Film Festival found itself under fire in the weeks leading up to opening night over the inclusion of “DAU,” by Russian filmmaker Ilya Khrzhanovsky, in the main competition of its 83rd edition. In a joint statement released on Aug. 17, the Ukraine Ministries of Foreign Affairs and Culture and the Ukrainian Embassy in Italy [ ]
 
-### Evil Dead Star Bruce Campbell Says He Has 5 Years to Live After Incurable Cancer Diagnosis: I m Dying but I m Moving On
-Sat, 05 Sep 2026 17:19:53 +0000 — https://variety.com/2026/film/news/bruce-campbell-cancer-5-years-live-1236852722/
+### Groundbreaking Roma Director Alina Șerban on ‘Pain,’ ‘Joy,’ of Historic, Venice-Bound ‘I Matter’: ‘I Managed to Do Something Impossible’
+Sun, 06 Sep 2026 06:35:00 +0000 — https://variety.com/2026/film/global/roma-alina-serban-venice-i-matter-1236847100/
 
-Evil Dead star Bruce Campbell is opening up about his battle with cancer, revealing that he s been given about five years to live. Back in March, Campbell revealed he had been diagnosed with a cancer that was treatable but not curable. These days, when someone is having a health issue, it s referred to as an [ ]
+Roma filmmaker Alina Șerban broke barriers long before she set foot on the red carpet this week at the Venice Film Festival, where her feature-length directorial debut, “I Matter,” world premieres in the Venice Spotlight section. Rising from an impoverished background to become a celebrated stage star in Romania, the actress and directing debutante has [ ]
 
-### Robert Pattinson Kisses Suki Waterhouse as ‘Primetime’ Rocks Venice With 7-Minute Standing Ovation
-Sat, 05 Sep 2026 17:17:20 +0000 — https://variety.com/2026/film/festivals/robert-pattinson-primetime-venice-premiere-1236837079/
+### Moonfish’ Director and Stars Lucy Liu and Morgan Spector Break Down Their Black-and-White Animated Film About Isolated Astronauts And Why It’s an Allegory for ‘The Current Human Condition’
+Sun, 06 Sep 2026 06:05:00 +0000 — https://variety.com/2026/film/news/moonfish-lucy-liu-morgan-spector-1236852534/
 
-Primetime, a thriller starring Robert Pattinson as To Catch a Predator host Chris Hansen, made its debut at the Venice Film Festival on Saturday to an enthusiastic seven-minute ovation. Venice went fully in for Pattinson s immersive performance as Hansen, the Dateline journalist and host who sets out to make television history with To Catch a [ ]
+For Lucy Liu, who has voiced memorable characters in everything from “Kung Fu Panda” to “Strange World,” being part of the independently made, black-and-white animated film “Moonfish” was all about lending her name and support to first-time filmmaker Daniel Zvereff. “These are the people that are not just the creatives, but the ones who are [ ]
 
-### ‘It Will Happen Tonight’ Review: Louis Garrel and Jasmine Trinca Follow Each Other Through the Years In a Light and Predictable Romcom
-Sat, 05 Sep 2026 17:15:00 +0000 — https://variety.com/2026/film/reviews/it-will-happen-tonight-review-1236852720/
+### Dev Benegal s Judith Blum Reddy Doc Everything Is Not OK Acquired by Watermelon Pictures, Annemarie Jacir Aboard as EP (EXCLUSIVE)
+Sun, 06 Sep 2026 05:50:14 +0000 — https://variety.com/2026/film/news/judith-blum-reddy-doc-everything-is-not-ok-watermelon-pictures-1236852495/
 
-Not everything labeled “old-fashioned” needs to carry negative connotations. A handwritten letter, your grandma’s rice pudding, the cocktail — all nice old-fashioned things. But the moment Alberto Iglesias’ sweet music flows out of the speakers at the start of “It Will Happen Tonight,” “old-fashioned” starts veering perilously into dowdy territory. When the camera zooms out [ ]
+Watermelon Pictures has acquired Everything Is Not OK, a documentary from director Dev Benegal chronicling the life of artist Judith Blum Reddy. The film will stream exclusively on Watermelon+, the distributor s streaming platform. The producing team pairs Benegal with Min(d) Studio s Maya S. Patel and Neeraj Jain, while Annemarie Jacir ( Palestine 36 ) has signed on [ ]
 
-### Mexico’s Venice Queer Lion Contender ‘Tijuana, Todavía’ Trains a Spotlight on the Plight of a Gay Refugee Fleeing Persecution
-Sat, 05 Sep 2026 17:00:55 +0000 — https://variety.com/2026/film/global/venice-queer-lion-tijuana-todavia-spotlight-gays-fleeing-1236850825/
+### San Sebastian, Busan-Bound Taiwanese Coming-of-Age Drama Will You Still Be My Friend Boarded for Sales by Moveria, Trailer Unveiled (EXCLUSIVE)
+Sun, 06 Sep 2026 05:48:08 +0000 — https://variety.com/2026/film/news/san-sebastian-busan-will-you-still-be-my-friend-boarded-moveria-1236853144/
 
-Nothing sharpens the mind like working within constraints. Made on a shoestring production grant of €200,000 ($234,000) and given three weeks to write a screenplay and outline a production schedule, ‘Tijuana, Todavía’ by Mexico’s Gabriel Gutiérrez Morales has been rewarded with a slot at the 83rd Venice Film Festival where it vies for the Queer [ ]
+Paris-based Moveria has boarded international sales on Taiwanese filmmaker Lu Po-Shun s debut feature Will You Still Be My Friend, which is set for a berth in San Sebastián s New Directors sidebar before travelling on to the Busan International Film Festival. A Taiwan-Singapore co-production, the film follows two young boys, played by Jaden Wang and Aloysius [ ]
 
-### Spider-Man: Brand New Day Is Fastest Film to Cross $900 Million at Domestic Box Office
-Sat, 05 Sep 2026 16:31:43 +0000 — https://variety.com/2026/film/news/spider-man-brand-new-day-box-office-900-million-1236849789/
+### Lee Chang-dong, Jeon Do-yeon and Sul Kyung-gu on Class, Desire and Reunion in Venice Competition Drama Possible Love
+Sun, 06 Sep 2026 05:45:00 +0000 — https://variety.com/2026/film/festivals/lee-chang-dong-jeon-do-yeon-sul-kyung-possible-love-1236852451/
 
-Two action flicks, Paramount s By Any Means and A24 s Onslaught, arrived in theaters on Friday. But neither could dethrone Spider-Man: Brand New Day, which remains No. 1 in its sixth weekend in theaters. Spider-Man added $3.9 million on Friday, pushing it past the mind-boggling milestone of $900 million domestically. It s now the fastest movie to [ ]
+Every great love story, in Korean auteur Lee Chang-dong s telling, is secretly a story about love that cannot happen — class, status or fate standing in the way. His new film dares to ask the opposite question, and it took him the better part of two decades, one abandoned script about a 2009 workers strike [ ]
 
-### How Maggie Gyllenhaal Used Dakota Johnson and Ellen Burstyn to Reimagine Marilyn Monroe at 100 in Venice Short ‘Flesh Impact’
-Sat, 05 Sep 2026 16:00:00 +0000 — https://variety.com/2026/film/awards/gyllenhaal-flesh-impact-marilyn-monroe-dakota-johnson-venice-1236852103/
+### Wim Wenders on Why He Made a Documentary About Architect Peter Zumthor, and How Brad Pitt Helped Get It Made
+Sun, 06 Sep 2026 05:00:00 +0000 — https://variety.com/2026/film/global/wim-wenders-peter-zumthor-venice-1236852836/
 
-Marilyn Monroe would have turned 100 this year. So when Maggie Gyllenhaal was approached to make a movie about her, she asked for a weekend to daydream about what that milestone might look like. What came back was “Flesh Impact,” a 17-minute short that hands the most consumed movie star of the 20th century something [ ]
+Wim Wenders’ 3D documentary From Inside Out,” which has its world premiere at the Venice Film Festival on Sunday, examines the work of Pritzker Prize-winning architect Peter Zumthor, paying particular attention to the design and construction of the David Geffen Galleries of the Los Angeles County Museum of Art. In the film, the result of [ ]
 
-### Teens Seek to Heal Wounds Through Macabre Rituals in Jannis Lenz s Oasis, With Hints of the Influence of Jessica Hausner, Michael Haneke
-Sat, 05 Sep 2026 15:13:44 +0000 — https://variety.com/2026/film/global/jannis-lenz-oasis-venice-1236852578/
+### The Debut Review: Julianne Moore Is Astonishing in Jesse Eisenberg s Funny and Dizzying Community-Theater Comedy
+Sun, 06 Sep 2026 02:59:36 +0000 — https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779/
 
-Three teenagers, unclothed, stand close to one another in a forest, gently caressing the wounds they have inflicted on one another. This is the climactic moment in “Oasis,” a film that at times feels like a Grimms Brothers fairytale, and, at others, an all-too-real vision of modern-day youth in crisis. If you were told that [ ]
+What holds it together is the suppleness of Eisenberg’s voice as a writer-director (the wit that singes, the story that never stops poking around corners), and the utterly astonishing performance of Julianne Moore, who plays a crumpled-up wallflower in dire need of blooming. Oh, does she bloom.
 
-### Primetime Review: Robert Pattinson Leads a Dazzling Cast in a Lurid Horror-Movie Portrait of a Predator -Hunter s Predatory Instinct
-Sat, 05 Sep 2026 15:00:00 +0000 — https://variety.com/2026/film/reviews/primetime-review-robert-pattinson-1236846988/
+### Bad Bunny Wins Emmy for Super Bowl Halftime Show
+Sun, 06 Sep 2026 02:19:45 +0000 — https://variety.com/2026/artisans/awards/bad-bunny-emmy-super-bowl-halftime-show-1236849643/
 
-Can you get tighter in on him? Chris Hansen (Robert Pattinson) demands of the technician editing his latest To Catch a Predator segment. He has noticed that when his would-be pedophile prey finally spot him, stepping out of an upstairs bedroom or strolling through the kitchen door of the house designed to ensnare evildoers like [ ]
+Bad Bunny has won his first Emmy for the Super Bowl Halftime Show. He won in the outstanding variety special (live) category. “The Apple Music Super Bowl LX Halftime Show Starring Bad Bunny” took home a total of seven nominations, winning music direction, choreography, sound mixing, lighting design, technical direction/camerawork and directing. Jay-Z, also an [ ]
 
-### Chronovisor Review: An Eerie, Fiendishly Clever Mystery for Lovers of Libraries and the Storied Smell of Old Books
-Sat, 05 Sep 2026 14:19:52 +0000 — https://variety.com/2026/film/reviews/chronovisor-review-1236852515/
+### Elsinore Revisits Daniel Day-Lewis Infamous Walk-Off During 80s Hamlet Production
+Sun, 06 Sep 2026 02:02:20 +0000 — https://variety.com/2026/film/news/elsinore-andrew-scott-daniel-day-lewis-hamlet-1236853006/
 
-For anyone whose happy place is an old-school library reading room, all aged dark wood and green-and-gold reading lamps casting warm islands of light in the velvety murk, Chronovisor will be a near-fetishistic delight — even as it makes quite unhappy places of such hallowed havens of learning. The first feature by U.S. writer-directors Jack [ ]
+Audiences got the first glimpse at a triumphant and career-defining performance from Andrew Scott in “Elsinore” this weekend, but the Telluride player also delivers another important gift: legendary show business gossip. Central to the plot is an infamous real-life moment in the history of the U.K. theater when Daniel Day-Lewis stopped cold during a [ ]
 
 ## The Hollywood Reporter
 
-### Johnny Flynn and Aimee Lou Wood on “Getting Whipped Naked” and “Embracing the Madness” of Their Deranged Literary Biopic
-Sat, 05 Sep 2026 18:12:35 +0000 — https://www.hollywoodreporter.com/movies/movie-features/the-idiots-johnny-flynn-aimee-lou-wood-exclusive-1236691960/
+### May el-Toukhy Takes Woman Unknown to Venice: I ve Used Every Part of Me to Make This Film
+Sun, 06 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/may-el-toukhy-woman-unknown-venice-film-festival-mathilde-1236683019/
 
-'The Idiot(s),' which premiered Friday night in Telluride, is unlike anything else on the fall circuit: “There'd be days where they would say…‘Today you're going to be shitting on your landlady's doorstep.’”
+The Danish filmmaker, one of two female directors in competition this year, comes to the Lido with a feature following a woman about to marry her widowed employer in the aftermath of World War II — while harboring a secret.
 
-### Robert Pattinson s Primetime Unveiled at Venice Film Festival to Nearly 8-Minute Standing Ovation
-Sat, 05 Sep 2026 17:17:48 +0000 — https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-primetime-a24-movie-venice-film-festival-1236691614/
+### Wim Wenders on His 14-Year Journey Building Peter Zumthor Doc From Inside Out
+Sun, 06 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/wim-wenders-peter-zumthor-documentary-from-inside-out-venice-1236686539/
 
-Lance Oppenheim's A24 film — co-starring Merritt Wever, Skyler Gisondo, Phoebe Bridgers and Jeff Zucker playing himself — debuted with an electric screening inside Sala Grande Saturday night.
+The Oscar-nominated director of 'Pina' and 'The Salt of the Earth' returns to 3D for 'From Inside Out: The Architecture of Peter Zumthor,' a portrait of the Pritzker-winning architect behind LACMA's $724 million David Geffen Galleries — and a defense of beauty in a world of flattened cities.
 
-### DoorDash Taps Into Football Fandom With Saturday Savings All Fall Long
-Sat, 05 Sep 2026 17:15:55 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/doordash-streaks-promo-2026-fall-football-saturday-deals-1236691356/
+### The Debut Review: Julianne Moore and Paul Giamatti Are Dynamite Together in Jesse Eisenberg s Entertainingly Offbeat Theater Comedy
+Sun, 06 Sep 2026 07:25:18 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-debut-review-julianne-moore-paul-giamatti-1236691977/
 
-The DoorDash Streaks campaign arrives on the heels of its World Cup-centered summer promotion.
+Premiering at Telluride, the film follows a meek New Jersey housewife who gets cast in a local production headed by a domineering director, and then increasingly loses herself in the role.
 
-### It Will Happen Tonight Review: Italian Auteur Nanni Moretti’s Searing and Sea-Sawing Romance Is Passionate to a Fault
-Sat, 05 Sep 2026 17:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/it-will-happen-tonight-review-nanni-moretti-louis-garrel-1236691690/
+### A Tale of Two Cities Review: Kit Harington Has Done Far, Far Better Things Than This Bland MGM+ Dickens Adaptation
+Sun, 06 Sep 2026 03:43:17 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/a-tale-of-two-cities-review-kit-harington-mgm-dickens-1236688874/
 
-Louis Garrel and Jasmine Trinca play a pair of star-crossed lovers who keep putting off their affair until the coincidences (and hormones) take over.
+The 'Game of Thrones' star and François Civil fight for the affections of Mirren Mack in a new four-episode adaptation of the classic novel.
 
-### Queer Edward II Review: Footage of the Making of Derek Jarman s Edward II Finally Sees the Dark of Cinema in a Wondrous Documentary
-Sat, 05 Sep 2026 17:14:34 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/queer-edward-ii-review-derek-jarman-documentary-1236691778/
+### Mariska Hargitay Lands Two Emmys for My Mom Jayne Ahead of Hosting Gig
+Sun, 06 Sep 2026 03:00:56 +0000 — https://www.hollywoodreporter.com/tv/tv-news/mariska-hargitay-two-emmys-my-mom-jayne-hosting-1236692184/
 
-Theo Rollason's film offers a lesson on queer history and early-1990s film production on a budget, as well as the spectacle of Tilda Swinton looking impossibly beautiful in her early 30s.
+The star, who is emceeing the Primetime Emmys on Sept. 14, took home two prizes at the Creative Arts ceremony, two decades after winning an Emmy for 'SVU.'
 
-### Spider-Man: Brand New Day Topping Box Office for Sixth Weekend in a Row
-Sat, 05 Sep 2026 15:48:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-ruling-box-office-for-sixth-weekend-1236691340/
+### Creative Arts Emmys, Night One: Winners List
+Sun, 06 Sep 2026 02:32:38 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-creative-arts-emmys-winners-list-night-one-1236683725/
 
-The Spider-Man feature is soon aiming to become the top grossing movie domestically of all time, as Tom Holland's other summer movie, 'The Odyssey,' comes in at No. 2.
+'The Late Show With Stephen Colbert,' 'The Muppet Show,' 'The Apple Music Super Bowl LX Halftime Show Starring Bad Bunny' and 'My Mom Jayne: A Film By Mariska Hargitay' were among the big winners.
 
-### Robert Pattinson Says He Would ve Been Devastated to Drop Any of His Big 2026 Films
-Sat, 05 Sep 2026 15:26:53 +0000 — https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-movies-2026-primetime-odyssey-dune-drama-1236691678/
+### Alan Cumming Lands Third Straight Emmy for Best Reality TV Host
+Sun, 06 Sep 2026 02:00:45 +0000 — https://www.hollywoodreporter.com/tv/tv-news/alan-cumming-third-emmy-reality-tv-host-traitors-1236689794/
 
-The busy actor took a break from 'The Batman: Part II' filming to attend the Venice Film Festival world premiere of his Chris Hansen-inspired pic 'Primetime.'
+'The Traitors' host was honored at the Creative Arts Emmys on Saturday.
 
-### Bethenny Frankel Is Turning Burning Man Into Her Non-Reality Show
-Sat, 05 Sep 2026 15:09:35 +0000 — https://www.hollywoodreporter.com/news/general-news/bethenny-frankel-burning-man-tiktok-goggles-1236691488/
+### Alanis Morissette Sues Former Tour Manager Over Alleged Calculated Blackmail Campaign”
+Sun, 06 Sep 2026 01:42:51 +0000 — https://www.hollywoodreporter.com/music/music-news/alanis-morissette-sues-tour-manager-blackmail-campaign-1236692139/
 
-Steampunk goggles, a cowboy hat, zero drugs, attitude and a killer sense of humor: the reality star is about to tell you the truth about life on the famed Nevada playa.
+The Grammy winner was previously embezzled by her former manager Jonathan Todd Schwartz. He admitted to embezzling more than $7 million from Morissette and other celebrity clients in 2017.
 
-### Primetime Review: You Might Feel the Need to Shower After Watching Robert Pattinson as To Catch a Predator Host Chris Hansen
-Sat, 05 Sep 2026 15:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/primetime-review-robert-pattinson-chris-hansen-1236691706/
+### Ben McKenzie Says He d Be Up for a The O.C. Revival: It Was a Great Show
+Sun, 06 Sep 2026 00:53:26 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ben-mckenzie-up-for-the-oc-revival-1236692075/
 
-Merritt Wever, Skyler Gisondo and Phoebe Bridgers also star in Lance Oppenheim’s first narrative feature, revisiting the ethically muddy ‘Dateline NBC’ ratings phenomenon.
+The former 'Gotham' star's comments come nearly 20 years after the Fox teen drama ended after four seasons.
 
-### Adele Zaikman on Winning ‘DWTS: The Next Pro’ and Daniella Karagach s Advice for Season 35
-Sat, 05 Sep 2026 14:49:45 +0000 — https://www.hollywoodreporter.com/tv/tv-features/adele-zaikman-winning-dwts-the-next-pro-interview-1236691366/
+### The Debut Features Seven Original Songs, All Written by Jesse Eisenberg, and One Is Getting an Oscar Push (Exclusive)
+Sun, 06 Sep 2026 00:45:48 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-debut-jesse-eisenberg-original-songs-oscar-push-1236687820/
 
-The 24-year-old professional dancer reflects on winning the spinoff series, the advice Karagach offered her ahead of season 35’s premiere and her first partnership with ‘Secret Lives of Mormon Wives’ husband Conner Leavitt: “I couldn't ask for a better partner.”
+The best original song race already includes tunes by Taylor Swift, Travis Scott, David Byrne, Backstreet Boys and, yes, Diane Warren.
 
 ## Deadline
 
-### Evil Dead Star Bruce Campbell Says His Cancer Carries Five-Year Prognosis
-Sat, 05 Sep 2026 17:55:03 +0000 — https://deadline.com/2026/09/bruce-campbell-cancer-prognosis-1237068998/
+### Mel Gibson Says The Resurrection Will Flesh Out Gaps In The Gospels
+Sun, 06 Sep 2026 04:03:02 +0000 — https://deadline.com/2026/09/mel-gibson-the-resurrection-gospels-story-gaps-1237069341/
 
-Evil Dead star Bruce Campbell says his previously announced cancer diagnosis will likely take his life within five years. In a candid interview on The Adam Carolla Show podcast, Campbell said, “I’m in a five-year prognosis. With the type of cancer that I have, which I don’t want to get into, the current thing is [ ]
+If you look at the synoptic Gospels — and they are synoptic, which means they don t tell you everything,” Mel Gibson told The Christian Post in an interview this week. And even John says, Y’know, hey, there were many other things [Jesus] said and did which, if they were to be written down, couldn t fill [ ]
 
-### Coyote Vs. Acme Distributor Ketchup Entertainment Takes U.S. On Norwegian Animated Pic ViQueens
-Sat, 05 Sep 2026 17:47:53 +0000 — https://deadline.com/2026/09/coyote-vs-acme-ketchup-viqueens-1237069008/
+### Mariska Hargitay Wins Two Emmys For ‘My Mom Jayne,’ Thanks Gloria Steinem From Stage
+Sun, 06 Sep 2026 02:37:54 +0000 — https://deadline.com/2026/09/mariska-hargitay-primetime-emmy-wins-my-mom-jayne-1237069307/
 
-EXCLUSIVE: Ketchup Entertainment, hot off giving Warner Bros Animation s Coyote Vs. Acme a theatrical release, has acquired U.S. distribution rights to Norwegian animated movie ViQueens from director Harald Zwart (The Karate Kid, The 12th Man, Agent Cody Banks). The U.S. campaign for ViQueens will begin this weekend, with the launch of a teaser only in theaters on [ ]
+Mariska Hargitay is warming up to host the televised Primetime Emmy Awards in the best way imaginable – by winning two Emmys for her documentary My Mom Jayne. The HBO film in which Hargitay explores the life and career of her late mother, the actress Jayne Mansfield, as well as a mystery over Mariska’s biological [ ]
 
-### The Liberation Review: Carrie Coon, Lily James, And Bella Ramsey Soar In Guy Nattiv s Explosive Cult Thriller Telluride Film Festival
-Sat, 05 Sep 2026 17:25:53 +0000 — https://deadline.com/2026/09/the-liberation-review-carrie-coon-lily-james-bella-ramsey-1237068931/
+### Oscar Winner Moonlight Getting 10th Anniversary Re-Release This Fall From A24
+Sun, 06 Sep 2026 02:35:00 +0000 — https://deadline.com/2026/09/moonlight-re-release-telluride-1237069018/
 
-The Liberation has the bones of every cult movie I have ever seen, yet somehow it feels apart, a completely different and, for this genre, surprisingly female-driven narrative that is at once edge-of-your-seat suspense thriller and achingly personal. That behind the scenes a man is at the heart of all of this, his own deeply [ ]
+EXCLUSIVE: The 2017 surprise Best Picture Oscar winner, Moonlight, is getting a tenth anniversary re-release from A24 on Oct. 2 in a new 4K remastered cut. The news was just announced by the film s director, co-writer, Barry Jenkins, at a special Telluride Film Festival screening of the pic. Moonlight follows a young African-American man who [ ]
 
-### A24 s Primetime , Starring Robert Pattinson As Chris Hansen, Lands 9-Minute Ovation At Venice World Premiere
-Sat, 05 Sep 2026 17:21:47 +0000 — https://deadline.com/2026/09/primetime-robert-pattinson-venice-reaction-chris-hansen-1237067852/
+### ‘Antiques Roadshow’ Scores First Emmy Win, Breaking ‘Queer Eye’ ‘Shark Tank’ Hegemony
+Sun, 06 Sep 2026 02:26:35 +0000 — https://deadline.com/2026/09/antiques-roadshow-first-emmy-win-shark-tank-queer-eye-1237069306/
 
-The much-talked-about Chris Hansen close up Primetime, starring Robert Pattinson, has landed an enthusiastic nine-minute standing ovation this evening following its world premiere at the Venice Film Festival. Among those in the audience to watch the film tonight were Chloé Zhao, Amanda Seyfried, Mona Fastvold and Pattinson s partner Suki Waterhouse. The film has landed well [ ]
+The first night of the Emmys was full of surprises. Antiques Roadshow, which has been airing on PBS since 1997, won its first ever Emmy in 24 attempts and snatched the award away from Queer Eye and Shark Tank for the first time since 2013. Antiques Roadshow won the award for Outstanding Structured Reality Program, [ ]
 
-### Matt Gutman Dropped From Former ABC News Field Producer s Wrongful Termination Lawsuit; Disney, ABC Remain As Defendants
-Sat, 05 Sep 2026 17:10:00 +0000 — https://deadline.com/2026/09/matt-gutman-lawsuit-abc-field-producer-1237042227/
+### The Debut Review: Julianne Moore And Paul Giamatti Get Big Laughs In Jesse Eisenberg s Hilarious And Even Sweet Look At Community Theatre Telluride Film Festival
+Sun, 06 Sep 2026 02:02:22 +0000 — https://deadline.com/2026/09/the-debut-review-julianne-moore-paul-giamatti-jesse-eisenberg-1237069095/
 
-UPDATE: Three weeks after news correspondent Matt Gutman was named in a wrongful termination lawsuit filed by a former ABC field producer, Gutman, now a chief correspondent with CBS News, is being dropped from the legal action. In paperwork filed Friday in Los Angeles Superior Court, lawyers for the ex-ABC producer Samaira Said requested that [ ]
+At times downright hilarious, at other times so farcical it nearly sails over the top, and at other times quite poignant, Jesse Eisenberg s third time out writing and directing a feature film, The Debut, throws it all at the wall, hits its target most of the time, and serves up a complete delight with go-for-broke [ ]
 
-### Dolly Parton s Sister Stella Slams Endless Garbage , AI Social Media Misinformation After Icon s Death
-Sat, 05 Sep 2026 16:45:53 +0000 — https://deadline.com/2026/09/dolly-parton-stella-ai-social-media-1237068956/
+### Octavia Spencer Wins First Emmy
+Sun, 06 Sep 2026 02:00:36 +0000 — https://deadline.com/2026/09/octavia-spencer-lost-women-first-emmy-1237069170/
 
-Dolly Parton s sister Stella Parton is lambasting the tremendous amount of AI and endless garbage” on social media since the death of the country music icon. In an Instagram message yesterday, Stella Parton wrote, “Sadly, because of the way our lives have been lived in front of the public, we have no choice but to [ ]
+Norman Lear remains the oldest Emmy winner after Octavia Spencer scored a surprise win over Sir David Attenborough at the Peacock Theater. Spencer scored her first Emmy in the Outstanding Narrator category for her work on Investigation Discovery’s true-crime series Lost Women of Alaska. The win prevents 100-year-old Attenborough from becoming the oldest Emmy winner [ ]
 
-### Lainey Wilson To Return As Host Of 2026 CMA Awards
-Sat, 05 Sep 2026 16:15:36 +0000 — https://deadline.com/2026/09/lainey-wilson-host-2026-cma-awards-1237068251/
+### ‘The Late Show With Stephen Colbert’ Scores Emmy Upsets, ‘The Daily Show’s Desi Lydic Also Triumphs
+Sun, 06 Sep 2026 01:26:53 +0000 — https://deadline.com/2026/09/the-late-show-with-stephen-colbert-emmy-upsets-1237069255/
 
-It will be a three-peat for Lainey Wilson, who will return to host The 60th Annual CMA Awards in the fall. This will be Wilson s third consecutive year hosting the country music awards shindig, which will air live from Nashville s Bridgestone Arena Wednesday, Nov. 18 at 8/7c on ABC, Disney+ and available next day on [ ]
+The Late Show with Stephen Colbert had an unexpectedly good night at the first evening of the Emmy awards. The canceled series came away with two big upsets at the event formerly known as the Creative Arts Emmys. Colbert Before Air won the Emmy for Outstanding Short Form Comedy, Drama Or Variety Series and and [ ]
 
-### Spider-Man: Brand New Day $22M Labor Day Take Powering Summer To Potential $4.76B All-Time Record Update
-Sat, 05 Sep 2026 16:01:00 +0000 — https://deadline.com/2026/09/box-office-spider-man-brand-new-day-by-any-means-labor-day-1237068549/
+### Jimmy Kimmel Wins Emmy For Second Year In A Row, Jeopardy! Scores Game Show Prize, Again
+Sun, 06 Sep 2026 00:28:17 +0000 — https://deadline.com/2026/09/jimmy-kimmel-emmy-win-who-wants-to-be-a-millionaire-1237069209/
 
-SATURDAY AM: Rentrak reports that we re $112.2 million away from having a record summer at the domestic box office, the previous high being 2013 with $4.756 billion. Per sources this morning, it looks like we re going to get there with the Friday-Monday Labor Day frame ringing up over $118M. For the period of May 1-Sept [ ]
+Jimmy Kimmel has another Emmy. The comedian has picked up for Outstanding Host for a Game Show for his work on ABC’s Who Wants To Be A Millionaire. It is his second consecutive win in the category, having scored it for the same show last year. Kimmel beat Celebrity Family Feud’s Steve Harvey, Jeopardy!’s Ken [ ]
 
-### Director Matt Dougherty, E.P. Jane Campion Explore Riveting “Anti-Guru” U.G. Krishnamurti In The Natural State – Telluride Film Festival
-Sat, 05 Sep 2026 16:00:00 +0000 — https://deadline.com/2026/09/the-natural-states-interview-jane-campion-matt-dougherty-1237068829/
+### Telluride Film Festival 2026: Read All Of Deadline’s Reviews
+Sat, 05 Sep 2026 22:17:52 +0000 — https://deadline.com/2026/09/telluride-film-festival-2026-reviews-deadline-1237068524/
 
-EXCLUSIVE: Was the Indian born “anti-guru” U.G. Krishnamurti a destroyer or a builder? Was he cruel or compassionate? The answer to both questions may be “yes.” Such questions, in fact, may not be the right ones to ask about the man variously described as a teacher, philosopher, maverick mystic, and enlightened person. What seems crucial [ ]
+The 2026 Telluride kicked off Friday, September 5, in Colorado and runs through Labor Day. The 53rd edition of the fest kicks off with first-day films including seven-time Oscar nominee Mike Leigh’s Tender Loving Care and the Andrew Scott-led Elsinore. See the full lineup here. RELATED: Venice Film Festival 2026: Read All Of Deadline’s Reviews [ ]
 
-### Robin Morgan Dies: Former Ms. Magazine Editor, Women’s Media Center Co-Founder With Jane Fonda Gloria Steinem Was 85
-Sat, 05 Sep 2026 15:56:28 +0000 — https://deadline.com/2026/09/robin-morgan-dead-1237068890/
+### Danny Boyle Confirms Use Of AI In New Movie Ink
+Sat, 05 Sep 2026 21:41:26 +0000 — https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/
 
-Robin Morgan, a former editor-in-chief of Ms. Magazine who co-founded the Women s Media Center with Ms. co-founder Gloria Steinem and Jane Fonda, died today, September 5, just several days after the passing of her friend and colleague Steinem. Morgan was 85. Her death was announced by her son Blake Morgan and Julie Burton, president and [ ]
+Danny Boyle has confirmed the use of AI in new movie Ink about the launch of The Sun newspaper. Speaking to Vanity Fair, Boyle said he had used around 30 seconds of generative AI in the making of his new movie, which opened the Venice Film Festival this week before going on to play Telluride. [ ]
 
-### Primetime : What The Critics Are Saying About A24 s Chris Hansen Movie Starring Robert Pattinson
-Sat, 05 Sep 2026 15:54:27 +0000 — https://deadline.com/2026/09/primetime-reviews-reaction-robert-pattinson-a24-film-1237068888/
+### Kid Cudi Defends Performing With Kanye West In Chicago: I Held Him Accountable
+Sat, 05 Sep 2026 20:35:32 +0000 — https://deadline.com/2026/09/kid-cudi-defends-performing-kanye-west-chicago-1237069088/
 
-Reviews are rolling in for A24 s new movie Primetime, which is debuting at the Venice Film Festival today. Robert Pattinson stars in the Lance Oppenheim-directed movie about the controversial U.S. show To Catch a Predator, fronted by Chris Hansen, and how it ended badly. The true-crime program, part of Dateline NBC, chronicled Hansen’s efforts to out suspected [ ]
+As Kanye West returned to the Windy City for a two-night stay, he had some support from an old friend. On Saturday, Kid Cudi defended performing with the controversial 24x Grammy-winning artist the night before at Soldier Field in Chicago, telling a critic that although I understand ur frustration, I don t really care if ur [ ]
 
-### ‘Primetime’ Review: Robert Pattinson Channels Jerry Maguire And Dracula For Lance Oppenheim’s Dark TV Morality Tale – Venice Film Festival
-Sat, 05 Sep 2026 15:01:00 +0000 — https://deadline.com/2026/09/primetime-review-robert-pattinson-lance-oppenheim-venice-1237068867/
+### Father Joe : First Look Clip Of Kiefer Sutherland As A Priest Who Clashes With The Mob In Action-Crime Pic Venice
+Sat, 05 Sep 2026 19:46:03 +0000 — https://deadline.com/2026/09/father-joe-first-clip-kiefer-sutherland-rebel-priest-1237069049/
 
-It’s astonishing, the sick and twisted things grown men will say to vulnerable children — or rather adults pretending to be children — in chat rooms on the internet, but what’s even more astonishing is that they are willing to try to act on them in real life. This subject affected TV show host Chris [ ]
+EXCLUSIVE: Here s your first clip for Venice Film Festival genre pic Father Joe, starring Kiefer Sutherland, Al Pacino and teen Ever Anderson, daughter of Milla Jovovich and filmmaker Paul W.S. Anderson. Sutherland plays a man of faith who wages a violent war against Manhattan s criminal underworld, putting him on a collision course with a powerful [ ]
 

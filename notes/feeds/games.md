@@ -1,4 +1,4 @@
-# Games — harvested 2026-09-05T18:34:05.853Z
+# Games — harvested 2026-09-06T08:54:30.996Z
 
 ## Eurogamer
 
@@ -89,16 +89,21 @@ Fri, 04 Sep 2026 09:09:47 +0000 — https://www.gamesindustry.biz/gta-6-netflix-
 
 PlayStation 5 and Xbox Series X|S console sales increased in the UK following last week's Grand Theft Auto 6 reveal on Netflix . Read more
 
-### Xbox adds monthly cloud limits to Game Pass as it "continues to invest in its reliability and performance"
-Fri, 04 Sep 2026 07:37:02 +0000 — https://www.gamesindustry.biz/xbox-adds-monthly-cloud-limits-to-game-pass-as-it-continues-to-invest-in-its-reliability-and-performance
-
-Xbox will introduce monthly cloud gaming limits for Game Pass subscribers beginning in November 2026. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Need More Resident Evil? This Manga Will Bring an All-Star Ensemble to Print
+Sat, 05 Sep 2026 23:15:00 GMT — https://www.pushsquare.com/news/2026/09/need-more-resident-evil-this-manga-will-bring-an-all-star-ensemble-to-print
+
+Everyone's here. You may have already seen the CG movie Resident Evil: Death Island , which brings an all-star ensemble of Capcom’s zombie thwacking action heroes to Alcatraz. But if you’d like to read the misadventures of Leon S. Kennedy, Jill Valentine, Chris Redfield, Rebecca Chambers, and more in manga format, then know that Titan Comics has picked up Zino’s illustrated adaptation of the film – and it’s launching in English from next month . Read the full article on pushsquare.com
+
+### Preview: I Didn t Expect This Alice in Wonderland Roguelite to Be This Deep
+Sat, 05 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/previews/i-didnt-expect-this-alice-in-wonderland-roguelite-to-be-this-deep
+
+Curiouser and curiouser. Regular readers will know I’m a little bit obsessed with Alice in Wonderland , so I was always going to give CRYMELIGHT the time of day. Launching on 5th November, this is one of the few titles to occupy the GTA 6 exclusion zone, which I personally find hilarious. Read the full article on pushsquare.com
 
 ### Preview: This Free Animal Crossing Rival Could Give Nintendo a Serious Headache
 Sat, 05 Sep 2026 16:30:00 GMT — https://www.pushsquare.com/previews/this-free-animal-crossing-rival-could-give-nintendo-a-serious-headache
@@ -150,25 +155,10 @@ Fri, 04 Sep 2026 16:15:00 GMT — https://www.pushsquare.com/news/2026/09/state-
 
 This ain't fun anymore. I knew what the latest State of Play’s live chat was going to look like before I took a few screenshots, and it turns out I wasn’t far off the mark. In fact, if anything I miscalculated the strength of sentiment around Destiny 3 , as I’d say demand for the hypothetical Bungie sequel almost matched the number of comments about physical discs. Read the full article on pushsquare.com
 
-### Poll: Vote for Your PS5 Game of the Month (August 2026)
-Fri, 04 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-august-2026
-
-Decide Push Square's GOTM. Hmmm, it feels like August could give us one of the tightest Game of the Month votes that we've had in quite some time. That's mostly because there was no standout AAA heavy hitter — no massive release ready to crush the competition. Read the full article on pushsquare.com
-
-### Preview: Exodus on PS5 Could Be the Mass Effect Replacement I ve Been Waiting For
-Fri, 04 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/previews/exodus-on-ps5-could-be-the-mass-effect-replacement-ive-been-waiting-for
-
-Space is filled with sentient frogs and bears, apparently. Up until I went hands-on with Exodus at Gamescom, I thought it looked fine. Another sci-fi RPG trying to capture the magic of the Mass Effect series, citing the experience of former BioWare, Naughty Dog, and EA developers — and somehow, Matthew McConaughey is also involved. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Strategically making Star Wars Zero Company, ft. Greg Foertsch
 Fri, 04 Sep 2026 14:15:00 GMT — https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch
 
 Bit Reactor CEO and Star Wars Zero Company creative director Greg Foertsch discusses the development of the latest adventure from the world of Star Wars.
-
-### Xbox to cap Cloud Gaming hours for Game Pass subscribers
-Thu, 03 Sep 2026 23:40:49 GMT — https://www.gamedeveloper.com/cloud/xbox-to-cap-cloud-gaming-hours-for-game-pass-subscribers
-
-Game Pass subscribers will no longer have unlimited access to Xbox's Cloud Gaming service.
 
