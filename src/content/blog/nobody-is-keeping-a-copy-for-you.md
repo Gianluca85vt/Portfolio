@@ -5,7 +5,6 @@ category: Editorial
 column: Architectures of the Void — the Monday editorial
 cover: /img/blog/editorial/cover.jpg
 excerpt: A streaming cap set at the break-even line, a disc correction nobody found implausible, and a tape format that abandoned nine generations of its own archive. Access is being priced by the hour and the only copies anyone still owns are the ones sitting on a shelf.
-draft: true
 ---
 
 I ran the division the morning the numbers went up, and the three Game Pass
