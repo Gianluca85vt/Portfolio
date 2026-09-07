@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/><stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <text x="120" y="150" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="600" letter-spacing="10" fill="#B600A8">WHAT THE MONEY BUYS</text>
+  <text x="120" y="228" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="800" letter-spacing="6" fill="#F4F1F6">ACCESS</text>
+  <text x="1040" y="228" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="800" letter-spacing="6" fill="#BE4C00">A COPY</text>
+  <line x1="980" y1="184" x2="980" y2="712" stroke="rgba(244,241,246,0.2)" stroke-width="2"/>
+  <text x="120" y="320" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">Metered at 15 hours a month</text>
+  <text x="1040" y="320" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">Plays until the disc rots</text>
+  <text x="120" y="428" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">Catalogue changes without you</text>
+  <text x="1040" y="428" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">Stays what you bought</text>
+  <text x="120" y="536" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">Price follows the serving cost</text>
+  <text x="1040" y="536" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">Paid once</text>
+  <text x="120" y="644" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">Ends when the service does</text>
+  <text x="1040" y="644" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">Ends when you lose it</text>
+  <text x="120" y="802" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="600" fill="#B600A8">Kaleidescape now sells the second column for six figures.</text>
+</svg>

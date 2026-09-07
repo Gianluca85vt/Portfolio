@@ -1,0 +1,127 @@
+[
+  {
+    "id": "who-i-am",
+    "kind": "lower",
+    "name": "Gianluca Scattarella",
+    "role": "3D Environment & Technical Artist",
+    "handle": "gianlucascattarella.it — Backdrop, every Monday"
+  },
+  {
+    "id": "price-per-hour",
+    "kind": "bars",
+    "title": "Game Pass, priced by the clock",
+    "rows": [
+      {
+        "label": "Ultimate — $23 / 15 hours",
+        "value": 1.53,
+        "display": "$1.53 / hr"
+      },
+      {
+        "label": "Premium — $15 / 10 hours",
+        "value": 1.5,
+        "display": "$1.50 / hr"
+      },
+      {
+        "label": "Essential — $10 / 5 hours",
+        "value": 2.0,
+        "display": "$2.00 / hr"
+      }
+    ],
+    "note": "Microsoft's published November prices and caps. The division is mine."
+  },
+  {
+    "id": "the-bridge",
+    "kind": "beats",
+    "title": "Nine generations of a promise",
+    "items": [
+      "LTO-8 reads 7",
+      "LTO-9 reads 8",
+      "LTO-10 reads 10",
+      "Bridge ends"
+    ],
+    "note": "Servo bands at 36 degrees. A head built for one geometry cannot track the other."
+  },
+  {
+    "id": "the-crate",
+    "kind": "timeline",
+    "title": "Where the archive breaks",
+    "stages": [
+      "Shoot",
+      "Scan",
+      "Build",
+      "Render",
+      "Deliver",
+      "Write to tape",
+      "Read it back"
+    ],
+    "markAt": 6,
+    "markLabel": "No drive",
+    "note": "Every stage before it was budgeted. This one never is."
+  },
+  {
+    "id": "physical-money",
+    "kind": "bars",
+    "title": "US recorded music, H1 2026",
+    "rows": [
+      {
+        "label": "CD revenue",
+        "value": 58.6,
+        "display": "+58.6%"
+      },
+      {
+        "label": "Physical revenue, all formats",
+        "value": 25.9,
+        "display": "+25.9%"
+      },
+      {
+        "label": "Vinyl revenue",
+        "value": 17.7,
+        "display": "+17.7%"
+      },
+      {
+        "label": "Streaming revenue",
+        "value": 4.7,
+        "display": "+4.7%"
+      }
+    ],
+    "note": "RIAA, first half of 2026. Streaming is still four times the size of all physical."
+  },
+  {
+    "id": "two-readings",
+    "kind": "compare",
+    "title": "What the money buys",
+    "left": "Access",
+    "right": "A copy",
+    "rows": [
+      [
+        "Metered at 15 hours a month",
+        "Plays until the disc rots"
+      ],
+      [
+        "Catalogue changes without you",
+        "Stays what you bought"
+      ],
+      [
+        "Price follows the serving cost",
+        "Paid once"
+      ],
+      [
+        "Ends when the service does",
+        "Ends when you lose it"
+      ]
+    ],
+    "note": "Kaleidescape now sells the second column for six figures."
+  },
+  {
+    "id": "the-line",
+    "kind": "statement",
+    "text": "Nobody is keeping a copy for you.",
+    "attribution": "Architectures of the Void — the Monday editorial"
+  },
+  {
+    "id": "outro",
+    "kind": "statement",
+    "text": "Go and check whether your drive still reads your crate.",
+    "attribution": "New editorial every Monday · gianlucascattarella.it"
+  }
+]
