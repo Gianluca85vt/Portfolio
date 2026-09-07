@@ -1,58 +1,93 @@
-# Film & TV — harvested 2026-09-07T16:03:02.888Z
+# Film & TV — harvested 2026-09-07T20:09:04.173Z
 
 ## Variety
 
-### BBC News Anchor Maryam Moshiri Reveals Blood Cancer Diagnosis
-Mon, 07 Sep 2026 14:42:43 +0000 — https://variety.com/2026/tv/global/bbc-news-maryam-moshiri-blood-cancer-1236854086/
+### MPA Signs Two Lumiere Summit Declarations, Joins Roundtables With Presidents Macron and Lee
+Mon, 07 Sep 2026 18:58:14 +0000 — https://variety.com/2026/film/news/mpa-lumiere-summit-declarations-rivkin-macron-lee-1236854208/
 
-BBC News anchor Maryam Moshiri has revealed she has been diagnosed with incurable blood cancer. The anchor, who joined the BBC in 2003, has covered events ranging from the Pope’s funeral to the Iran war since being diagnosed with Polycythaemia vera (PV) two years ago. Moshiri went public with her diagnosis Monday in an interview [ ]
+The Motion Picture Association signed two declarations at the Lumière Summit on Monday, adding its name alongside those of governments and private sector organizations worldwide to the Lumière Declaration on the Future of Cinema and the Moving Image and the Declaration on Strengthened International Cooperation in the Fight Against Film and Audiovisual Piracy. The summit [ ]
 
-### Ellen Burstyn Cries as She Gets Venice Golden Lion for Lifetime Achievement: It’s One Thing to Win an Oscar, Tony or Emmy — All of Which I’ve Won. But This Is a Lot
-Mon, 07 Sep 2026 13:50:11 +0000 — https://variety.com/2026/film/festivals/ellen-burstyn-cries-venice-golden-lion-1236853817/
+### ‘Look Back’ Review: Once Past the Over- Preciousness of a Child’s World, Hirokazu Kore-eda s Manga Adaptation Becomes a Moving Tribute to Friendship
+Mon, 07 Sep 2026 18:19:55 +0000 — https://variety.com/2026/film/news/look-back-review-1236854197/
 
-Maggie Gyllenhaal delivered a message on behalf of Ellen Burstyn before the 93-year-old acting legend took the stage at the Venice Film Festival to receive the prestigious Golden Lion for Lifetime Achievement. “Ellen asked me to let you know that she recently took a fall,” Gyllenhaal said from the podium. “She’s OK, but she is [ ]
+There’s barely an adult in sight in Hirokazu Kore-eda’s “Look Back,” where anyone out of school age is marginalized practically to the point of superfluidity. Like much in the first half of this sweet — at times too sweet — adaptation from Tatsuki Fujimoto’s manga of the same title, also made into an animated film [ ]
 
-### ‘Imperium’ Review: Sergei Loznitsa Brings Together Nearly Three Hours of Italian Footage From the Early 1970s Covering the Vastness of the USSR
-Mon, 07 Sep 2026 12:15:30 +0000 — https://variety.com/2026/film/reviews/imperium-review-2-1236853999/
+### Summer Box Office Breaks All-Time Record With $4.67 Billion
+Mon, 07 Sep 2026 18:10:59 +0000 — https://variety.com/2026/film/box-office/summer-box-office-breaks-all-time-record-1236854175/
 
-In the early 1970s, Italian film crews spread out across the USSR, capturing a vast, multicultural empire few had ever seen in such diversity. From urban commuters to village fêtes, Baku trawlers to Siberian reindeer herders, the cameramen aimed to capture the Soviet polity at a time when Westerners had a gray, monolithic image of [ ]
+Need proof the movies are really, truly back? The summer box office was already the biggest since COVID upended the industry in 2020 — and now the season has become the highest-grossing of all time. Domestic ticket sales from May 1 through Labor Day on Sept. 7 stand at $4.76 billion, according to Rentrak. Revenues [ ]
 
-### Festival Leaders Confront Growing Political Pressure at Lumiere Summit: We Don t Judge Artists by Their Passport
-Mon, 07 Sep 2026 12:09:33 +0000 — https://variety.com/2026/film/news/lumiere-summit-festival-panel-political-protection-1236853995/
+### Alpha Gang’ Review: Cate Blanchett, Chris Pine and an All-Star Cast Play Space Aliens in David and Nathan Zellner’s Endearingly Goofy Sci-Fi Spoof
+Mon, 07 Sep 2026 17:36:42 +0000 — https://variety.com/2026/film/reviews/alpha-gang-review-1236854144/
 
-Political pressure on film and television festivals emerged as a defining theme of a panel discussion Monday at the Lumière Summit in Saint-Paul-de-Vence, France, with Séries Mania general director Laurence Herszberg issuing the session s most direct call for protection of programming autonomy. We don t judge artists by their passport, we judge them by their works, [ ]
+Among the greatest cinematic mysteries of our time, when it’s harder than ever to make movies, is the fact that David and NathanZellner continue to realize their uncompromisingly DIY, endearingly childlike vision through an indie filmography that only seems to grow in scale and purpose. It’s a welcome miracle that the duo who once captured [ ]
 
-### ‘Plaza Catedral’ Director Abner Benaim, Chile’s Daniela Vega and Alfredo Castro Board Fiction Series ‘School of the Americas’ (EXCLUSIVE)
-Mon, 07 Sep 2026 11:57:59 +0000 — https://variety.com/2026/film/global/abner-benaim-daniela-vega-alfredo-castro-school-americas-1236853506/
+### The Spiral Review: Paolo Strippoli s Lurid Faustian Tragedy Shores Up His Reputation as Italy s New Horror Virtuoso
+Mon, 07 Sep 2026 17:30:00 +0000 — https://variety.com/2026/film/news/the-spiral-review-1236854031/
 
-Panama’s Abner Benaim has boarded as a co-director of the fiction series “School of the Americas” (“Escuela de las Américas”), which will star two of Chile’s most internationally renowned thespians: Daniela Vega, who headed the Oscar-winning “A Fantastic Woman,) and Alfredo Castro, a Pablo Larrain regular who’s also starred in a slew of Latin American [ ]
+We don t get a close enough look to see if the Devil actually wears Prada, but regardless, in Paolo Strippoli s new horror romp The Spiral, she s very chicly turned out indeed: Cool, crisp and collected in a tightly belted camel trenchcoat, hair pristinely bobbed and lips perfectly rouged, wielding a cigarette like a laser pointer. [ ]
 
-### Studio TF1 Smashes Doc Records With ‘Leon Marchand: Beyond Gold,’ Rolls Out ‘Surface’
-Mon, 07 Sep 2026 11:57:00 +0000 — https://variety.com/2026/tv/global/studio-tf1-leon-marchand-records-surface-sales-1236853480/
+### Luca Guadagnino on Casting Hollywood A-Listers in Subversive Roles: I Have Worked With Some of the Finest
+Mon, 07 Sep 2026 17:27:19 +0000 — https://variety.com/2026/film/global/luca-guadagnino-hollywood-stars-subversive-roles-1236854036/
 
-Studio TF1 is celebrating recent successes at home and abroad with Sacha Vucinic and Xavier Marchand’s sports documentary “Leon Marchand: Beyond Gold” and Slimane-Baptiste Berhoun’s mystery drama “Surface.” While the doc series on French Olympic swimming champion Leon Marchand and his life in the wake of four gold-medal wins at the Paris Olympics has scored [ ]
+Luca Guadagnino discussed his warm rapport with Hollywood movie stars on Monday at the Venice Film Festival, one year after being on the Lido with his Julia Roberts-starrer After the Hunt. During a wide-ranging master class the Italian director, who was born in Palermo, Sicily, to an Algerian mother and a Sicilian father – and [ ]
 
-### Sumo: Spirit Weighs Nothing Review: A Handsome Ode to an Oft-Disrespected Sport
-Mon, 07 Sep 2026 11:50:05 +0000 — https://variety.com/2026/film/reviews/sumo-spirit-weighs-nothing-review-1236853884/
+### South Park Mocks Trump While Celebrating Emmy Win for Outstanding Animated Program
+Mon, 07 Sep 2026 17:07:28 +0000 — https://variety.com/2026/tv/news/south-park-trump-emmy-win-outstanding-animated-program-1236854156/
 
-The title of Sumo: Spirit Weighs Nothing is the closest that Erik Shirai s documentary comes to a joke at the expense of its subject: sumo wrestling, the Japanese sport largely known in the western world for the ample size and minimal clothing of its practitioners, and not an awful lot beyond that. In all other [ ]
+“South Park” threw one final jab at President Donald Trump Sunday night as the show celebrated its Emmy win for Outstanding Animated Program. The official “South Park” X account posted a graphic of Trump with his pants and underwear around his ankles, holding an Emmy award triumphantly in the air. The post was captioned, “Congratulations [ ]
 
-### Belgian Royalty Series King of Hearts Secures Key VRT Backing (EXCLUSIVE)
-Mon, 07 Sep 2026 11:46:41 +0000 — https://variety.com/2026/film/global/flemish-broadcaster-vrt-historical-series-king-of-hearts-1236852181/
+### Nathan Fielder and Lance Oppenheim s Elizabeth Holmes Doc You Can See Everything Detonates the Oscar Race — and Has A24 Chasing a 90-Year Record
+Mon, 07 Sep 2026 16:46:33 +0000 — https://variety.com/2026/film/awards/nathan-fielder-you-can-see-everything-elizabeth-holmes-oscars-1236854109/
 
-Enterprising Flemish broadcaster VRT has boarded the historical coming-of-age drama series ‘King of Hearts’ from Giles Coulier, whose company, De Wereldvrede, is behind such hits as 2019 series “War of the Worlds” and Prix Europa winner, “Albatros.” As continental royalty series hit ratins and sales – think Maxima – King of Hearts, currently in development, [ ]
+For three days, the Telluride Film Festival ran on a single unknown rumor. By Sunday night, the line outside the Werner Herzog Theatre had swelled into the longest of the weekend, phones were sealed in locked pouches, a security team worked the aisles in night-vision goggles and a Telluride programmer took the stage to warn [ ]
 
-### The Next James Bond Has Been Picked, Says Gary Oldman, Whose Fingers Are Crossed for Slow Horses Co-Star Jack Lowden
-Mon, 07 Sep 2026 11:35:10 +0000 — https://variety.com/2026/film/global/james-bond-picked-says-gary-oldman-hopes-for-jack-lowden-1236853973/
+### Betty Gilpin Jabs at Sam Altman During Manic Poem Acceptance Speech at the Emmys
+Mon, 07 Sep 2026 16:35:54 +0000 — https://variety.com/2026/tv/news/betty-gilpin-sam-altman-acceptance-speech-emmys-1236854137/
 
-Gary Oldman s connection to the world of James Bond may be unknown, but the actor claims to have some key information about the casting of the next 007. According to the Oscar-winning acting icon, the hotly-disputed and widely-debated hunt to find the next superspy is over, and he s hoping his Slow Horses co-star Jack Lowden [ ]
+“Widow s Bay” guest star Betty Gilpin accepted her Emmy win for outstanding guest actress in a comedy by reading a poem she had written in jest — and very much in the unique style of the show. But it was one line that especially got the TV Academy audience at the Peacock Theatre to cheer: [ ]
 
-### Tom Rothman on Sony s Spider-Man: Brand New Day Blockbuster Success, Being Outbid for Obsession and More
-Mon, 07 Sep 2026 11:13:12 +0000 — https://variety.com/2026/film/news/tom-rothman-sony-spider-man-brand-new-day-lumiere-summit-1236853815/
+### Film Industry Leaders Demand Structural Fix for Gender Gap at Lumiere Summit
+Mon, 07 Sep 2026 16:22:34 +0000 — https://variety.com/2026/film/news/lumiere-summit-gender-panel-safer-sets-women-film-1236854139/
 
-Sony s Tom Rothman took a bit of a victory lap with the studio s boffo success of Spider-Man: Brand New Day, which has become the highest-grossing film of 2026 to date. Rothman, chairman and CEO of Sony Pictures Entertainment s Motion Picture Group, spoke Monday at the Lumière Summit in Saint-Paul-de-Vence, an international film and entertainment conference [ ]
+Women held 17% of key behind-camera roles when the Celluloid Ceiling study began tracking the figure in 1998. Last year, that number stood at 23%. Six points in 27 years. That statistic opened a panel at the Lumière Summit on Monday titled Safer Sets, Different Stories: Why Gender Balance Matters, where leaders from StudioCanal, Canal+, [ ]
 
 ## The Hollywood Reporter
+
+### ID s O.J. Unseen: Exploitation of Evil Excavates O.J. Simpson s Thwarted Reality TV Comeback
+Mon, 07 Sep 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/id-oj-unseen-documentary-oj-simpson-reality-tv-1236691352/
+
+The documentary looks back at the making and undoing of 'Juiced,' a hidden-camera prank show.
+
+### Some Reflections Gloria Steinem Shared At Her Last Public Event
+Mon, 07 Sep 2026 18:14:17 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/gloria-steinem-yes-to-the-unknown-last-event-1236692577/
+
+In July, the late icon hosted a two-night live series called "Yes to the Unknown," in which she emphasized community: "What’s precious is your feeling of being understood. You can’t live without that.”
+
+### When Nicole Kidman and Sandra Bullock First Made Magic
+Mon, 07 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/nicole-kidman-sandra-bullock-practical-magic-flashback-1236686873/
+
+Kidman and Bullock starred as sister witches in 1998’s ‘Practical Magic’ but couldn't conjure up box office success.
+
+### Bruce Campbell Says He Has 5 Years to Live After Cancer Diagnosis
+Mon, 07 Sep 2026 17:27:13 +0000 — https://www.hollywoodreporter.com/news/general-news/bruce-campbell-five-years-live-cancer-diagnosis-1236693322/
+
+“With the type of cancer that I have, which I don’t want to get into, the current thing is a five-year deal,” Campbell said. “I’ve decided pretty specifically though to live with it, not die from it.”
+
+### Spider-Man: Brand New Day, The Odyssey Rule Low-Key Labor Day Box Office
+Mon, 07 Sep 2026 17:18:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-ruling-box-office-for-sixth-weekend-1236691340/
+
+The Spider-Man feature is soon aiming to become the top grossing movie domestically of all time, as Tom Holland's other summer movie, 'The Odyssey,' comes in at No. 2.
+
+### Bruce Davis, Longtime Film Academy Chief Executive, Dies at 83
+Mon, 07 Sep 2026 17:02:11 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bruce-davis-dead-chief-executive-of-film-academy-1236692990/
+
+He served as the executive director of the Academy of Motion Picture Arts and Sciences from 1989 through 2011 and penned an authoritative history of the organization, 'The Academy and the Award.'
+
+### Fauda Creator Says New Season Confronting Oct. 7 Attacks and Aftermath Is Most Important Thing That We Ever Wrote
+Mon, 07 Sep 2026 16:04:22 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-fauda-season-five-october-7-aftermath-1236693277/
+
+“I want them to look in my character’s eyes, and to see what we felt on those days,“ Lior Raz said in an interview with the New York Times.
 
 ### Emmy Awards 2026: A Complete Guide to Parties and Events (Updating)
 Mon, 07 Sep 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/emmy-awards-2026-guide-parties-events-1236678656/
@@ -69,102 +104,67 @@ Mon, 07 Sep 2026 15:34:57 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Festivalgoers promised a "surprise screening" were met with the world premiere of 'You Can See Everything,' a one-of-a-kind documentary/acting hybrid that Lance Oppenheim co-directed.
 
-### Padel Spanks Pickleball: Inside the Rise of the New Celebrity Sports Obsession
-Mon, 07 Sep 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/celebrity-padel-boom-obsessed-1236665919/
-
-Eva Longoria is hooked. So are David Beckham and Tom Holland. Now the race is on to turn the fast-growing game with a booming elite social scene into a bona fide American business.
-
-### Look Back Review: Hirokazu Koreeda s Lovingly Crafted Manga Adaptation Is a Delicate Charmer About Teen Friendship and Art, Joy and Sorrow
-Mon, 07 Sep 2026 15:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/look-back-review-hirokazu-koreeda-manga-adaptation-1236693232/
-
-Based on the celebrated standalone manga by Tatsuki Fujimoto, the tender story was previously translated to the screen in a 2024 medium-length anime retelling.
-
-### Tokyo Film Festival Adds New Initiatives, Kashiko Kawakita Award to Honor Women in Cinema
-Mon, 07 Sep 2026 14:39:44 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-2026-new-initiatives-1236693260/
-
-Famed critic Sahoko Hata will be the inaugural honoree of the Kashiko Kawakita Award.
-
-### You Can See Everything Review: Elizabeth Holmes Doc From Nathan Fielder and Lance Oppenheim Is Fascinatingly Slippery, Dizzyingly Clever
-Mon, 07 Sep 2026 14:36:14 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/you-can-see-everything-review-elizabeth-holmes-a24-1236692981/
-
-The film — a surprise world premiere at Telluride — picks up the story of the disgraced Theranos founder in the weeks leading up to her prison sentence, and then again two years into her incarceration.
-
-### Primetime, Chris Rock s Misty Green and Latest Paul Thomas Anderson Movie Join London Film Festival Lineup
-Mon, 07 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/primetime-paul-thomas-anderson-london-film-festival-tickets-1236693221/
-
-'Bunker' star Javier Bardem and 'Werwulf' director Robert Eggers will sit down for in-depth career conversations as part of LFF's Screen Talks program.
-
-### Streaming Is Raising Prices Faster Than Cable Ever Did
-Mon, 07 Sep 2026 13:05:00 +0000 — https://www.hollywoodreporter.com/business/business-news/streaming-inflation-raising-prices-cable-1236691404/
-
-Congrats, you cut the cord. Now you have six more cords. Streaming prices are rising three times as fast as inflation, making escaping cable company greed now seem quaint.
-
-### How a Sweet, Horny Hockey Show Rewrote the Rules of Independent TV
-Mon, 07 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/how-heated-rivarly-rewrote-rules-independent-tv-1236687243/
-
-Accent Aigu Entertainment turned a $200,000 lowball offer and a rabid BookTok fandom into the game-changing global hit ‘Heated Rivalry.'
-
 ## Deadline
+
+### Venice Film Festival 2026: Read All Of Deadline’s Reviews
+Mon, 07 Sep 2026 19:46:17 +0000 — https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/
+
+The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle s Ink starring Jack O’Connell, Guy Pearce and Claire Foy kicking off an 83rd edition that includes films starring the likes of Robert Pattinson, Penelope Cruz Javier Bardem, Jack Huston Sofia Boutella, Dakota Johnson, John [ ]
+
+### Director Pawo Choyning Dorji, Cellist Yo-Yo Ma Team On ‘A Song For The Snow Lion’ Set In Himalayas Of Bhutan – Telluride Film Festival
+Mon, 07 Sep 2026 19:45:24 +0000 — https://deadline.com/2026/09/a-song-for-the-snow-lion-interview-pawo-choyning-dorji-cellist-yo-yo-ma-1237070339/
+
+The catastrophic flash floods in Nepal show the extreme peril posed by melting glacial ice in the Himalayas. The death toll stands at more than 1,300 after the August 26 disaster triggered by the collapse of a section of glacier, which plunged into water below setting off a tsunami-like surge. In the Himalayan Kingdom of [ ]
+
+### Ellen Burstyn Talks Future Direction Of U.S. As She Receives Venice Career Award: I Pray My Country Finds Its White Line
+Mon, 07 Sep 2026 19:45:18 +0000 — https://deadline.com/2026/09/ellen-burstyn-venice-lifetime-award-future-us-1237070152/
+
+Jury President Maggie Gyllenhaal paid tribute to the brilliant and brave Ellen Burstyn as she presented the Oscar-winning actress with a Golden Lion for Lifetime Achievement at the Venice Film Festival on Monday. Let s take a moment in this beautiful theater to remember Lois Farrow in The Last Picture Show, Alice Hyatt in Alice Doesn t [ ]
+
+### Telluride Film Festival 2026: Read All Of Deadline’s Reviews
+Mon, 07 Sep 2026 19:31:52 +0000 — https://deadline.com/2026/09/telluride-film-festival-2026-reviews-deadline-1237068524/
+
+The 2026 Telluride kicked off Friday, September 5, in Colorado and runs through Labor Day. The 53rd edition of the fest kicks off with first-day films including seven-time Oscar nominee Mike Leigh’s Tender Loving Care and the Andrew Scott-led Elsinore. See the full lineup here. RELATED: Venice Film Festival 2026: Read All Of Deadline’s Reviews [ ]
+
+### Bruce Davis Dies: Longtime Academy Of Motion Picture Arts Sciences Chief Executive Was 83
+Mon, 07 Sep 2026 19:29:58 +0000 — https://deadline.com/2026/09/bruce-davis-dead-ampas-chief-executive-1237070322/
+
+Bruce Davis, who served as chief executive of the Academy of Motion Picture Arts Sciences for more than 20 years, has died. He was 83. Davis died Saturday following a battle with leukemia, his wife, Joann, told The Hollywood Reporter. Davis joined the Academy in 1981, rising through ranks and becoming executive director in 1989, [ ]
+
+### ‘The Spiral’ Review: Valeria Bruni Tedeschi Is The Devil In Disguise In Paolo Strippoli’s Fiendishly Fun Horror-Thriller – Venice Film Festival
+Mon, 07 Sep 2026 19:27:39 +0000 — https://deadline.com/2026/09/the-spiral-review-valeria-bruni-tedeschi-paolo-strippoli-venice-1237070346/
+
+There will be people wondering why Paolo Strippoli’s unashamedly commercial horror-thriller The Spiral is in Competition and not in one of the festival’s many increasingly hard-to-navigate sidebars. But thank God it is; with a tsunami of documentary titles and a bunch of reality-based features that effectively make us all complicit in the rise of neo-fascism [ ]
+
+### Tenzing Review: Tom Hiddleston Stars In Story Of First Successful Expedition To Peak Of Mt. Everest, But It Is Really All About The Sherpa Telluride Film Festival
+Mon, 07 Sep 2026 18:15:30 +0000 — https://deadline.com/2026/09/tenzing-review-tom-hiddleston-biopic-mt-everest-telluride-1237069686/
+
+Considering the magnitude and triumph of the actual story of the first successful expedition to summit the peak of fabled Mt. Everest, it is surprising that there haven t been a whole lot of major narrative motion pictures about it. It has all the stuff of blockbuster films based on stirring real-life pursuits of glory, and [ ]
+
+### Mory Sacko Prepares Food Samurai For Disney+ North America
+Mon, 07 Sep 2026 18:10:00 +0000 — https://deadline.com/2026/09/disney-plus-food-samurai-mory-sacko-1237070202/
+
+EXCLUSIVE: Michelin-starred chef Mory Sacko s upcoming Japanese culinary voyage Food Samurai is headed for Disney+ in the U.S. and Canada. The six-episode show sees Mory, accompanied by pastry chef and friend Theó Segretin and guests such as Omar Sy, immerse himself in Japanese culture and gastronomy to unlock how to prepare the perfect bento. Alongside [ ]
+
+### Spider-Man: Brand New Day Pushes Summer To Record $4.76B; Universal Wins Season With $1.23B Labor Day Box Office Update
+Mon, 07 Sep 2026 17:56:00 +0000 — https://deadline.com/2026/09/box-office-spider-man-brand-new-day-by-any-means-labor-day-1237068549/
+
+MONDAY AM: The summer box office wound up hitting an all-time record with $4.76 billion, unseating 2013 s previous high of $4.756B. Rentrak estimates that all pics this weekend will gross between $117.8M to $118.2M to get us there. Universal won the summer for the period of May 1-Sept. 7 with $1.23 billion, 48% of that [ ]
+
+### Summer U.S. Box Office Hits All-Time $4.76B Record: How Audiences Surrendered To Moviegoing
+Mon, 07 Sep 2026 16:46:21 +0000 — https://deadline.com/2026/09/box-office-summer-2026-record-1237068355/
+
+No one ever imagined this would be a record $4.76 billion summer. When we started off, we knew Universal s The Odyssey was destined to be huge given that the 70MM Imax tickets sold out a year in advance. Sony/Marvel Studio s Spider-Man: Brand New Day was also bound to be big, but the biggest movie of [ ]
+
+### South Park Trolls Donald Trump After Winning First Animated Program Emmy In 13 Years
+Mon, 07 Sep 2026 16:17:07 +0000 — https://deadline.com/2026/09/south-park-trolls-donald-trump-emmy-win-animated-program-1237069894/
+
+Don t call it a comeback Comedy Central s South Park, which returned to the Outstanding Animated Program category with its first nomination in five years, landed its first win in 13 years. On stage, South Park co-creator Trey Parker thanked fans. On social media, the show celebrated by taunting the Emmy-winning episodes frequent target, President [ ]
 
 ### Renate Reinsve, Johnny Flynn Vicky Krieps Set For Mia Hansen-Løve’s Mary Wollstonecraft Picture If Love Should Die As Goodfellas Boards Sales TIFF
 Mon, 07 Sep 2026 15:41:57 +0000 — https://deadline.com/2026/09/hansen-love-reinsve-flynn-krieps-wollstonecraft-love-die-1237070210/
 
 EXCLUSIVE: Renate Reinsve has been officially confirmed for the role of Mary Wollstonecraft in Mia Hansen-Løve’s epic and intimate period drama If Love Should Die as Goodfellas boards sales for a script-backed TIFF launch where it will be one of the buzziest European productions on the market. In fresh casting news, Reinsve is being joined by Johnny Flynn and Vicky Krieps [ ]
-
-### ‘Look Back’ Director Hirokazu Koreeda On Adapting Manga And Learning To Live With The Ghosts Of The Past – Venice Film Festival
-Mon, 07 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/look-back-director-hirokazu-koreeda-venice-film-festival-1237070143/
-
-Hirokazu Koreeda is not the world’s most prolific director or even Japan’s (that honor goes to Takashi Miike, who passed the 100-film milestone years ago). But he is certainly one of the most versatile and unpredictable; there are few directors who could follow the heart-wrenching poignancy of Still Walking (2008), a film about a family [ ]
-
-### Vertical Video Studio LoveHit Launches With Adaptations Of Literary Classics Starring Microdrama Regulars Eric Roberts
-Mon, 07 Sep 2026 14:15:00 +0000 — https://deadline.com/2026/09/lovehit-microdrama-literary-classic-originals-1237069378/
-
-EXCLUSIVE: Literary classics such as Wuthering Heights and Jane Eyre are getting the microdrama treatment. This is through the latest entrant into the microdrama field, LoveHit, an L.A.-based studio and app focused on originals based on classic literary adaptations. LoveHit, which launches this month, has a vertical video slate built entirely from classic novels in [ ]
-
-### Steve Callaghan s Trivia Night Mysteries Cozy Crime Franchise Expands With Two Movies
-Mon, 07 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/trivia-night-mysteries-steve-callaghan-franchise-expands-1237069391/
-
-EXCLUSIVE: There s no question about it, Steve Callaghan s Trivia Night Mysteries is expanding. The Nicely Entertainment-produced cozy crime franchise has wrapped production on its second and third instalments, Fit for a Murder and A Fatal Lesson, with stars Morgan Bradley (The Christmas Recipe Files) and Alex Trumble (A Scottosh Christmas Secret) reuniting in the lead [ ]
-
-### Paul Thomas Anderson’s Cameron Winter Concert Film Joins London Film Festival Lineup As Mubi Acquires World Rights
-Mon, 07 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/london-film-festival-paul-thomas-andersons-cameron-winter-1237070157/
-
-The London Film Festival has made several additions to this year’s lineup, including the concert film Paul Thomas Anderson shot at Carnegie Hall last year with Geese frontman Cameron Winter. Mubi has now also acquired global rights outside of North America to the film. Scroll down for the full list of LFF additions. Officially titled [ ]
-
-### Piers Morgan Launches Football Uncensored On YouTube After World Cup Series Scored 60M Views
-Mon, 07 Sep 2026 13:59:16 +0000 — https://deadline.com/2026/09/piers-morgan-launches-football-uncensored-youtube-1237070180/
-
-EXCLUSIVE: Piers Morgan is turning his FIFA World Cup show into a permanent series. The British journalist is launching the weekly series Football Uncensored, expanding a roster of YouTube shows that includes Piers Morgan Uncensored and The Royals Uncensored. Morgan will co-host Football Uncensored with Simon Jordan, the former owner of Premier League club Crystal [ ]
-
-### Colin Morgan Katie Leung To Narrate BBC Studios Gothic Horror Podcast Drama The Haunted Library
-Mon, 07 Sep 2026 13:45:34 +0000 — https://deadline.com/2026/09/bbc-podcast-haunted-library-colin-morgan-katie-leung-1237070142/
-
-EXCLUSIVE: Colin Morgan (Merlin) and Katie Leung (Harry Potter) will narrate The Haunted Library, a podcast about based around classic horror stories. The concept is for the pair to read titles from a fictional Gothic library, the doors to which open on September 21, with BBC Studios Audio producing and funding the series, which will [ ]
-
-### France Korea Pledge $1.16B For Global Screen Industries At South Of France Cinema Summit
-Mon, 07 Sep 2026 13:08:47 +0000 — https://deadline.com/2026/09/france-korea-one-billion-dollars-pledge-lumiere-summit-1237070166/
-
-France and Korea pledged to invest 1 billion euros ($1.16 billion) in the global screen industries from 2027 to 2031, in a cornerstone announcement of President Emmanuel Macron’s Lumière Summit devoted to the future of the moving image unfolding in the South of France on Monday. Korean President Lee Jae Myung, who is on a [ ]
-
-### SNL UK Adds Comedian Big Boys Actor Freddie Meredith To Season 2 Cast
-Mon, 07 Sep 2026 10:51:54 +0000 — https://deadline.com/2026/09/snl-uk-freddie-meredith-season-2-cast-1237070134/
-
-Saturday Night Live UK has added Such Brave Girls and Big Boys actor Freddie Meredith to the cast of the upcoming second season. Meredith, who is also a comedian, is coming off his Edinburgh Fringe debut show Need a Light?, which was nominated for a Best Newcomer Award. He will now join an ensemble also [ ]
-
-### BBC Rejects Complaints It Aired Too Much Coverage Of Harry Meghan s UK Return
-Mon, 07 Sep 2026 10:10:35 +0000 — https://deadline.com/2026/09/bbc-complaints-prince-harry-meghan-markle-1237070113/
-
-BBC News coverage of Prince Harry and Meghan Markle s decision to move back to the UK prompted viewer complaints. The BBC revealed that audience members contacted the UK broadcaster to raise concerns that it was dedicating too much airtime to the Duke and Duchess of Sussex. The BBC did not disclose how many complaints it [ ]
-
-### BBC News Presenter Maryam Moshiri Reveals She Has Incurable Blood Cancer
-Mon, 07 Sep 2026 09:23:23 +0000 — https://deadline.com/2026/09/bbc-news-maryam-moshiri-incurable-blood-cancer-1237070106/
-
-Maryam Moshiri, one of the BBC s most seasoned news presenters, has revealed that she has been diagnosed with blood cancer. In interviews with BBC News and The Times of London, Moshiri said that she is living with polycythaemia vera, a rare but treatable blood cancer. Moshiri, 49, was diagnosed in November 2024 after her doctor [ ]
-
-### Dori Media Wants Buyers To Hunt New Love At MIPCOM
-Mon, 07 Sep 2026 09:15:00 +0000 — https://deadline.com/2026/09/dori-media-new-love-mipcom-1237069364/
-
-EXCLUSIVE: Buyers seeking romance will have a chance for New Love at MIPCOM. Dori Media Group is launching Fremantle-owned Abot Hameiri s new dating format to the international TV marketplace ahead of MIPCOM. The show puts four single women into accelerated 72-hour live-in situations with carefully selected strangers – moving past dating apps and manufactured first [ ]
 
 ## befores & afters
 
@@ -174,6 +174,16 @@ Mon, 07 Sep 2026 02:35:10 +0000 — https://beforesandafters.com/2026/09/07/stra
 Congrats to all the nominees! Outstanding Special Visual Effects in a Season or a Movie Stranger Things (s5) Betsy Paterson, Visual Effects Supervisor Michael Maher Jr., VFX Art Director Sean Ames, Additional VFX Supervisor Craig Seitz, Additional VFX Supervisor Tessa Roehl, VFX Co-Producer Chloe Lipp, Associate VFX Producer Brad Tobler, Senior VFX Editor Martin Hill, Senior VFX Supervisor, WĒTĀ FX Limited Richard Thwaites, VFX Producer, WĒTĀ FX Limited Bill Georgiou, VFX Supervisor, ILM Jessica Smith, VFX Consultant Mark Hawker, Special Effects Supervisor Outstanding Special Visual Effects in a Single Episode Spider-Noir • Nightmare On A Gurney Hnedel Maximore, VFX Supervisor Brooke Noska, VFX Producer Adam Rothstein, Additional VFX Supervisor Timothy Hanson, VFX On-Set Supervisor Jorge Macias, Lead VFX Artist Taylor Faulkinberry, Senior VFX Coordinator Joseph C Bond IV, VFX Editor Suzie Askham, VFX Supervisor (Cinesite) Tommy Tran, VFX Supervisor (Barnstorm) Cameron Neilson, VFX Supervisor (ILM) Adam Balentine, VFX Supervisor (Eyeline VFX) Sebastiano D’Aprile, VFX Supervisor (CoSA VFX) The post Stranger Things and Spider-Noir win VFX Emmys appeared first on befores & afters .
 
 ## IndieWire
+
+### From ‘Scream 7’ to ‘Coyote vs. Acme,’ We’re Living in the Age of the Protest Ticket
+Mon, 07 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/features/commentary/coyote-vs-acme-scream-7-box-office-protest-ticket-analysis-1235215209/
+
+Paramount’s “Scream 7” survived a spring boycott, while Ketchup Entertainment’s “Coyote vs. Acme” benefited from a buy cott in a marketplace increasingly defined by voting with your wallet.
+
+### Monsters of God Director Eric Goode Breaks Down the Finale Reveal: He Was Like an Alcoholic Running a Liquor Store
+Mon, 07 Sep 2026 18:00:00 +0000 — https://www.indiewire.com/features/interviews/monsters-of-god-eric-goode-interview-finale-tiger-king-1235215289/
+
+The Emmy-nominated documentarian discusses the moment in his HBO series that revealed "sometimes it's only the bars that separates the guard from the prisoner" and what made "Tiger King" a "liability" to his passion project.
 
 ### Look Back Review: Hirokazu Kore-eda s Hyper-Faithful Adaptation Draws Rich and Dazzling New Textures from Manga and Anime
 Mon, 07 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/criticism/movies/look-back-live-action-movie-review-1235215203/
@@ -225,17 +235,37 @@ Sun, 06 Sep 2026 17:45:00 +0000 — https://www.indiewire.com/criticism/movies/t
 
 Venice: A tragic (and tragically handsome) Marinelli plays a drug-addicted music producer enmeshed in Vikander's codependent, unrequited care in Andrea Pallaoro's intimately sad feature. Susan Sarandon co-stars as a chain-smoking singer/songwriter.
 
-### Creative Arts Emmys Night 1: Strong Showings for Bad Bunny, the Muppets, and The Traitors
-Sun, 06 Sep 2026 16:19:57 +0000 — https://www.indiewire.com/awards/results/creative-arts-emmys-night-1-results-2026-1235215195/
-
-The two-part ceremony is set to continue on Sunday night.
-
-### ‘The Difficult Bride’ Review: A Haunted Bridal Parlor Drama with Untapped Potential
-Sun, 06 Sep 2026 14:30:03 +0000 — https://www.indiewire.com/criticism/movies/the-difficult-bride-review-rubaiyat-hossain-1235215181/
-
-Venice: Rubaiyat Hossain’s drama about a taxing bride-to-be feels a little too easy.
-
 ## The Wrap
+
+### South Park Trolls Donald Trump Again After Winning Emmy — An Award He s Lost Twice
+Mon, 07 Sep 2026 19:35:55 +0000 — https://www.thewrap.com/creative-content/tv-shows/south-park-wins-emmy-trolls-trump-losing-twice/
+
+The South Park team celebrated their Emmy win in proper South Park fashion: by mocking Donald Trump. After taking home the Emmy for outstanding animated program — the first win for the Trey Parker and Matt Stone-created series since 2013 — the South Park official X account posted, Congratulations to Trey Parker, Matt Stone and the entire South Park team on their Emmy win. While the caption wasn t especially provocative, the graphic said it all, depicting a cartoon version of Trump with his underwear by his ankles and an Emmy statue in hand. You finally got your Emmy, the graphic read, mocking Trump for not having receiving an Emmy award. Trump was nominated for an Emmy twice for NBC s The Apprentice, which landed nods in the outstanding reality competition program category in both 2004 and 2005. Trump s series lost to CBS The Amazing Race both years. Congratulations to Trey Parker, Matt Stone, and the entire South Park team on their Emmy win for Outstanding Animated Program! pic.twitter.com/KlpvuhhWH2 &mdash; South Park (@SouthPark) September 7, 2026 Trump was certainly a central character on South Park this year: a season premiere episode featured Trump literally in bed with Satan and concluded with a fake PSA featuring a deepfake-assisted rendering of a nude Trump slogging through the desert. “Who walked through the desert for you? Who survived the wilderness and gave the ultimate sacrifice?” the in-episode ad asks. “When things heat up, who will deliver us from temptation?
+
+### Glenn Close s Hunger Games Transformation Blows Fans Away After New Teaser: Absolutely Unrecognizable
+Mon, 07 Sep 2026 18:25:29 +0000 — https://www.thewrap.com/creative-content/movies/glenn-close-hunger-games-transformation-blows-fans-away/
+
+Glenn Close s transformation for The Hunger Games: Sunrise on the Reaping has blown fans away on social media, with one user noting the actress looks absolutely unrecognizable in her role as Capitol escort Drusilla Sickle. Ahead of the film s theatrical debut on Nov. 20, Lionsgate dropped several new teasers on its promotional Capitol TV website, including one of Close s Drusilla Sickle, embodying the thumbtacked plastic face described in Suzanne Collins prequel novel. Those eyes, that skin, that smile, that power, Close s Drusilla Sickle said in the teaser. Elegance is authority, break free from imperfection. Following the teaser s release on Monday, fans were taken aback seeing Close s in motion. Glenn Close looks absolutely unrecognizable as Drusilla Sickle, one fan wrote on X. This teaser has me even more excited for Sunrise on the Reaping!' Others applauded the perfect casting, noting she looks terrifying already. She was MADE for this role, another fan wrote . I’m sorry, but nobody plays a villain like Glenn Close, another viewer added. Even prior to seeing the film, another fan said Close deserves a lifetime achievement Oscar. In Sunrise on the Reaping, the villainous Drusilla Sickle has been carrying reaping responsibilities for District 12 since the 25th Hunger Games; she is the reason Haymitch Abernathy (Joseph Zada) is called up to compete in the 50th Hunger Games. Close and Zada star in The Hunger Games: Sunrise on the Reaping alongside Elle Fanning as Effie Trink
+
+### Lilly Wachowski Says The Matrix 5 Director Wants Her Blessing Before Making Revival
+Mon, 07 Sep 2026 18:03:47 +0000 — https://www.thewrap.com/creative-content/movies/the-matrix-5-needs-blessing-lilly-wachowski/
+
+The Matrix series co-creator Lilly Wachowski confirmed that she isn t involved with Warner Bros. plans for a franchise revival, but suggested that her and her sister, Lana, have been asked to give their blessing to the Drew Goddard-directed project. There s maybe a thing that s happening with Drew Goddard. He doesn t want to go forward unless he gets our blessing, Wachowski said in an interview on The Business at KCRW . It becomes this complicated situation Maybe we re going to stick our noses in a tiny bit and see how we feel and if we want to pass on our blessing to Drew or not. Could be something that s coming down the road, but still unknown. The Wachowski sisters wrote and directed the original 1999 The Matrix, along with its two direct sequels The Matrix Reloaded and The Matrix Revolutions. For the 2021 series revival The Matrix Resurrections, Lana Wachowski took on writing and directing duties for the project alone. In her interview with KCRW, Lilly acknowledged that she s kind of done with the property that she co-created. Warner Bros., they want to make another thing. They re always going to want to make another thing. Personally, I don t want to play in that sandbox anymore, Lilly said. I m kind of done. In 2024, Warner Bros. announced a fifth mainline installment in the franchise, tapping The Martian screenwriter and Cabin in the Woods director Goddard to write and helm the revival. The studio s initial confirmation of the project also stated that Lana Wachowski wo
+
+### The 7 Best New Movies on Netflix in September
+Mon, 07 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-on-netflix-september-2026/
+
+The summer movie season is officially over, and the fall movie slate has yet to arrive. In the meantime, there are plenty of new movies streaming on Netflix . September brings a set of excellent films able to fill your horror and romance watchlist at the start of the fall. Here are the seven best movies new on Netflix this September. Rachel McAdams in About Time (Credit: Universal Pictures) About Time The beginning of autumn may be a time for horror, but it’s also a time to get cozy. And what’s cozier than a good romance? In that regard, “About Time” has you covered. This love story from Richard Curtis has a big premise, following a man (Domhnall Gleeson) who discovers that members of his family have the ability to travel back in time just as he s striking up a serious relationship with a new woman (Rachel McAdams). But “About Time” is far less interested in the mechanics or grandeur of this time travel premise than it is in quiet moments and big emotions. It’s a beautiful film, and a perfect watch for the cozier months. 20th Century Fox Aliens With sequels, bigger isn’t always better. That may still be the case with “Aliens,” James Cameron’s follow-up to Ridley Scott’s iconic 1979 horror classic. But if “Aliens” isn’t quite at the level of its incredible predecessor, it sure comes close. In this sequel, Cameron swaps the suffocating fear of a single deadly organism in a closed ship for the overwhelming dread of a sea of Xenomorphs laying siege to a small group of combatants.
+
+### The Best Looney Tunes to Watch After Coyote vs. Acme
+Mon, 07 Sep 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/movies/best-looney-tunes-to-watch-after-coyote-vs-acme/
+
+Long live the Looney Tunes. After years of anticipation and several near deaths, Coyote vs. Acme finally hit theaters this weekend, showing audiences an all-new mix of live-action and animation as Wile E. Coyote seeks justice for years of faulty Roadrunner-catching products. Beyond the important and fascinating lore behind the film, Coyote vs. Acme is a genuine cinematic triumph, a hilarious comedy that celebrates nearly a century of Looney Tunes mythos. But really, should anyone be surprised that the new Looney Tunes movie is good? This franchise features hundreds of cartoon adventures with Bugs Bunny, Daffy Duck and the Merrie Melodies gang, many of which are boundary-pushing, hilarious and endlessly rewatchable (with many of them streaming for free on Tubi now). So if you find yourself wanting to get a bit more looney after checking Coyote vs. Acme out, we ve got you covered. Here are the best Looney Tunes to watch after Coyote vs. Acme. Baseball Bugs (Warner Bros.) Baseball Bugs Bugs Bunny is, simply put, one of the best characters of all time. He s an animated agent of skillful chaos, one whose abilities are directly proportional to whatever s funniest at a given moment. In this famous short, Bugs loudly heckles at a baseball team that he could lick them in a ball game with one hand tied behind my back, all by myself — causing him to put his carrots where his mouth is and play in a nine-on-one game. The short is one of the best showcases Bugs Bunny has ever gotten, a hig
+
+### Betty Gilpin Confesses She s Forever Pitching a Widow s Bay Season 2 Return After Emmy Win
+Mon, 07 Sep 2026 16:56:12 +0000 — https://www.thewrap.com/creative-content/tv-shows/betty-gilpin-wants-widows-bay-season-2-return/
+
+Fresh off of winning the Emmy for guest actress in a comedy series, Betty Gilpin revealed she s forever pitching ways she could return for Widow s Bay Season 2 to creator Katie Dippold. “I’m forever pitching Katie Dippold via text (on) ways in which it would make sense in the world of the show for me to come back, Gilpin told press after her Sunday Emmys win. I feel like by her genius, demented ‘Widow’s Bay’ lore math, it doesn’t make sense for her to come back, but … c’mon just change it so I can come back. Not only did she love working on the show, but Gilpin, who played Sarah Westcott Warren in Season 1 s 18th century prequel episode, went on to say that the show s creation and subsequent success has given her renewed faith in Hollywood. Katie Dippold’s brain and work and the fact that Apple made her show a reality gives me renewed faith in our industry, honestly — something so original and niche and strange and human having success in the mainstream — (it) gives me hope that we’re not totally lost in our industry, Gilpin said. Gilpin s Emmy for outstanding guest actress was one of the eight wins taken home by Widow s Bay on night two of the Creative Arts Emmy Awards , leading all other series. The actress was, however, isolated from the majority of the show s production, explaining that she and co-star Hamish Linklater embarked on a strange little period indie movie at the end of the actual filming of contemporary Widow’s Bay that felt like an island within an island. The
 
 ### ‘Look Back’ Review: Gentle Live Action Remake Loses Magic in Translation
 Mon, 07 Sep 2026 15:05:00 +0000 — https://www.thewrap.com/creative-content/movies/look-back-review-live-action/
@@ -247,95 +277,65 @@ Mon, 07 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/mov
 
 This is a notable year for short films at the Venice Film Festival, with Saoirse Ronan making her directorial debut (“Paper Plane”), Laura Poitras looking at the ICE occupation of Minneapolis (“They’re Here”) and Nathan Silver chronicling a life change through the songs of birds (“Sounds From Home”), among others. But if you’re looking for star power and cinematic oomph, “Flesh Impact” is the biggest short to come out of Venice since Wes Anderson’s Oscar-winning “The Wonderful Story of Henry Sugar” premiered on the Lido in 2023. The 21-minute film was directed by Maggie Gyllenhaal, who’s serving as president of the Venice jury this year; it will make its debut before the Golden Lion Award ceremony to honor Ellen Burstyn, who stars in the film with Dakota Fanning; and it also features Peter Sarsgaard and newly-minted Emmy nominee Sepideh Moafi from “The Pitt.” And, oh yeah, it’s about Marilyn Monroe, who was born 100 years ago this year. Or, perhaps, it’s about the world that created, idolized and wrecked Marilyn Monroe, and the industry that simultaneously adored and exploited her. And about the women who followed her and got their own taste of the adoration and exploitation, definitely including Gyllenhaal herself. As a director, she is something of a provocateur, jumping through time to present two sides of a troubled and troubling woman in the quietly unnerving “The Lost Daughter” and then going a little nuts with this year’s grungy horror riff “The Bride!” “Flesh Impact” 
 
-### Unveiling Telluride s Big Secret: Elizabeth Holmes Documentary Is Sheer Craziness
+### Nathan Fielder s Secret Elizabeth Holmes Documentary Is Sheer Craziness
 Mon, 07 Sep 2026 08:16:09 +0000 — https://www.thewrap.com/creative-content/movies/tellurides-big-secret-elizabeth-holmes-documentary/
 
-The Telluride Film Festival builds up intrigue with surprise screenings every year, but seldom has speculation flown the way it did before the secret screening of “You Can See Everything” on Sunday night. For the past four days, predictions had been all over the place. Upon arrival at the Werner Herzog Theater, the audience was forewarned that any and all electronic devices capable of recording would be placed in a sealed pouch upon entry to prevent social-media leaks. One woman in the row behind me somehow skirted the line and was on her phone. When she was asked place the phone in a pouch, she begrudgingly volunteered to leave and then ducked behind a black curtain, never to be seen again. Security chased her and we are still wondering where she is. Then, at last, Nathan Fielder and Lance Oppenheim took to the stage and told the capacity audience that the day’s most common rumor was in fact true: The secret screening would be their new documentary that centers around convicted Theranos founder Elizabeth Holmes. Holmes is the blonde, blue-eyed beauty who dropped out of Stanford University at the age of 19 to run Theranos, the healthcare technology start-up. In a highly-publicized case of corporate fraud, her spectacular rise and fall became a Silicon Valley cautionary tale adapted into numerous documentaries, podcasts, a bestselling book and an Emmy-winning miniseries. As the CEO of Theranos, Elizabeth attracted a high-profile board, including former senators and two ex-secr
+Telluride Film Festival builds up intrigue with surprise screenings every year, but seldom has speculation flown the way it did before the secret screening of “You Can See Everything” on Sunday night. For the past four days, predictions had been all over the place. Upon arrival at the Werner Herzog Theater, the audience was forewarned that any and all electronic devices capable of recording would be placed in a sealed pouch upon entry to prevent social-media leaks. One woman in the row behind me somehow skirted the line and was on her phone. When she was asked to place the phone in a pouch, she begrudgingly volunteered to leave and then ducked behind a black curtain, never to be seen again. Security chased her and we are still wondering where she is. Then, at last, directors Nathan Fielder and Lance Oppenheim took to the stage and told the capacity audience that the day’s most common rumor was in fact true: The secret screening would be their new documentary that centers around convicted Theranos founder Elizabeth Holmes. Holmes is the blonde, blue-eyed beauty who dropped out of Stanford University at the age of 19 to run Theranos, the healthcare technology start-up. In a highly-publicized case of corporate fraud, her spectacular rise and fall became a Silicon Valley cautionary tale adapted into documentaries, podcasts, a bestselling book and an Emmy-winning miniseries. As the CEO of Theranos, Holmes attracted a high-profile board, including former senators and two ex-secreta
 
 ### Rob Reiner Wins Posthumous Emmy Award For The Bear
 Mon, 07 Sep 2026 02:37:12 +0000 — https://www.thewrap.com/industry-news/awards/rob-reiner-wins-posthumous-emmy-award-the-bear/
 
 Rob Reiner was awarded Outstanding Guest Actor in a Comedy Series for his performance as Albert in The Bear at the Creative Arts Emmy Awards Sunday. This is the late actor s third Emmy Award, but his first in nearly 50 years . Reiner s first two wins were both for his role as Michael Meathead Stivic in All in the Family. He was awarded as the Outstanding Supporting Actor in a Comedy Series in 1974 and 1978. The posthumous award comes months after he and his wife Michele Reiner were found dead with stabbing wounds in a double homicide this past December. Their son Nick Reiner has pleaded not guilty to the crimes, but he was charged with two counts of first-degree murder with special circumstances. Nick Reiner is set to appear in court next on Sept. 15. Reiner appeared as a guest actor in the fourth season of “The Bear” as Albert Schnurr, a businessman who helps Ebraheim (Edwin Lee Gibson) formulate a new strategy for the titular restaurant’s beef sandwich window. His advice helped inpsire Ebra to pitch the idea to franchise the Beef, which became a key storyline of the final season. Edwin Lee Gibson as Ebraheim, Rob Reiner as Albert in The Bear Season 4 (Credit: FX) Though Reiner did not appear in the fifth and final season of The Bear, the FX series subtly paid tribute to the guest star in its finale which aired earlier this summer. It is unclear whether Reiner would have reprised his role for Season 5 prior to his death, but Ebra calls Albert in the finale to share the news 
 
-### ‘Carl Sagan: We Are Made of Star Stuff’ Review: If You Wish to Make a Romance, You Must First Invent the Universe
-Mon, 07 Sep 2026 02:15:00 +0000 — https://www.thewrap.com/creative-content/reviews/carl-sagan-we-are-made-of-star-stuff-review/
-
-When Carl Sagan sent the Voyager telescopes into space, he put humanity in its place. The world-famous astronomer didn’t spend all his time at NASA. He was on talk shows and hosting hit TV programs of his own, sharing his fascination with the universe. Sagan had a playfully professorial attitude, an uncanny ability to sound like he knew everything there was to know, even when he was explaining otherwise. He used cutesy metaphors about apple pie and butterflies to deliver mind-blowing truths about Earth s insignificance in the grander scheme of things and, by extension, the enormous significance of every living creature on Earth. After watching “Cosmos,” reading “Cosmos,” or listening to Sagan speak for any length of time, it comes as no surprise that the guy loved pot. The new documentary “Carl Sagan: We Are Made of Star Stuff” is an informative story about the beloved scientist’s life and career and a cursory glance at his biggest theories and notions. But its biggest revelations are about his personal life. When “We Are Made of Star Stuff” stops reading like a book report and starts reading like a love story, it’s billions and billions times better. Oscar-nominated filmmaker Nanette Burstein (“On the Ropes”) begins with Carl Sagan’s parents, his precocious childhood and, in true celebrity fashion, his strained marriage. With that out of the way, Burstein settles into a straightforward checklist of Sagan’s accomplishments, replete with talking heads explaining their perspect
-
-### Lanterns Star Ulrich Thomsen Wants More Sinestro: I m Ready to Dig In
-Mon, 07 Sep 2026 02:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/lanterns-episode-4-ulrich-thomsen-sinestro-interview/
-
-Note: This story contains spoilers for Lanterns Episode 4. Two weeks after audiences got their first proper introduction to Thaal Sinestro in the DCU, Lanterns came back with a full scene showing the relationship between Hal Jordan (Kyle Chandler) and his mentor-turned-enemy. Many fans of the DC hero will probably want to see more of his most iconic villain. Sinestro actor Ulrich Thomsen does too. I m ready to dig in, Thomsen told TheWrap at the Lanterns premiere. It s a great world. It s a great take on the Lanterns, I think. Bring it on. I m ready. Sinestro is one of the most significant villains in DC Comics. Introduced in John Broome and Gil Kane’s 1961 comic “Green Lantern #7” in a story called “The Day 100,000 People Vanished, Sinestro is a fallen Lantern banished to the anti-matter dimension by the Guardians of the Universe. There, he contracts the Qwardian Weaponers to build him a yellow power ring capable of overpowering Green Lanterns. But post- Crisis on Infinite Earths iterations began giving the character a deeper backstory, with “Emerald Dawn II” by Jim Owsley and M.D. Bright establishing the idea that Sinestro actually trained Hal as a Green Lantern, as is the case in Lanterns. In the comics, Hal stopped Sinestro after he discovered that the pink-skinned alien used his abilities as Green Lantern to rule over his planet as a dictator; In Lanterns, it s simply said that Sinestro killed a Guardian in an attempted coup, landing him in prison. “I read the scripts an
-
-### Nathan Fielder s Elizabeth Holmes Doc Hits Theaters in October From A24 — Watch the Trailer Now
-Mon, 07 Sep 2026 00:40:06 +0000 — https://www.thewrap.com/creative-content/movies/nathan-fielder-elizabeth-holmes-documentary-trailer-release-date-a24/
-
-Nathan Fielder s Elizabeth Holmes documentary is real, and it s coming to theaters in October. Rumors have been swirling for years that the acclaimed comedian and filmmaker behind Nathan for You and HBO s The Rehearsal had been visiting the convicted fraudster in prison and filming a documentary. Sunday night, A24 revealed that it will release that documentary — titled You Can See Everything — in theaters in October. The film has its world premiere Sunday night at the Telluride Film Festival, where it was just announced as the secret screening. Here s the official synopsis for the film from A24: Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss. From boundary-pushing directors Nathan Fielder and Lance Oppenheim comes You Can See Everything . That s a humdinger of a premise to keep secret for this long — Holmes entered prison in May 2023 and is serving out an over 11-year sentence stemming from her work at her health technology company Theranos. Holmes was accused of defrauding patients with faulty promises — namely that a single small blood sample could be used for a litany of tests with a proprietary machine. Holmes was acquitted of defrauding patients but was convicted of defrauding investors in her federal trial alongside former Theranos chief operating offi
-
-### Nicolas Cage on Spider-Noir Cancellation: One Season Is Perfect
-Mon, 07 Sep 2026 00:16:14 +0000 — https://www.thewrap.com/creative-content/tv-shows/nicolas-cage-spider-noir-cancellation/
-
-Nicolas Cage may have slung his final web as Spider-Noir, but the star is at peace with the Amazon Prime Video series coming to an end after one season. In a statement obtained by TheWrap, the star says he s moving on after the innovative series. For me, one season is perfect, having said what I wanted to say with this dangerous, innovative, pop-art Spider-Man. Onwards, upwards, inwards, Cage wrote in a statement distributed by his manager. Reports emerged Friday that Spider-Noir, the 1930 s-set private investigator spin on Marvel s popular Spider-Man character, would not be returning for a second season. The news came just over three months after the ambitious Sony Pictures Television production launched on Prime Video in late May. Cage s lead turn in Spider-Noir was a change of pace even for his eclectic and adventurous body of work, with the 62-year-old venturing into high-budget live-action comic book adaptations as well as streaming television two new territories for the actor. His performance as Spider-Man Noir was a reprisal, returning to play the role that he originated in a voice performance for 2018 s animated adventure Spider-Man: Into the Spider-Verse. Along with Cage, the series also starred Lamorne Morris, Li Jun Li, Karen Rodriguez, Abraham Popoola, Jack Huston and Brendan Gleeson. Ahead of its cancellation, Spider-Noir landed 11 Emmy nominations, he most of any Prime Video series in 2026, while also generating notable viewership. The series logged 2.6 billion 
-
-### Widow s Bay, DTF St. Louis Lead Creative Arts Emmys Night 2
-Mon, 07 Sep 2026 00:01:45 +0000 — https://www.thewrap.com/industry-news/awards/creative-arts-emmys-night-2-winners-list/
-
-Widow s Bay led all programs on night two of the Creative Arts Emmy Awards, bringing home eight prizes including Outstanding Guest Actress in a Comedy Series for Betty Gilpin and additional awards for casting, production design, sound editing, sound mixing, cinematography, score and music supervision. The comedy was followed by DTF St. Louis, which won six awards including Outstanding Supporting Actor (David Harbour) and Supporting Actress (Linda Cardellini) in a Limited Series. Spider-Noir won five awards just two days after its cancellation at Prime Video . The Pitt and Pluribus, going head-to-head in this year s drama division, tied for fourth with four Emmys each. Margo s Got Money Troubles, Palm Royale and Beef ended in a three-way tie with three awards apiece. Apple TV led all networks with 18 wins, bolstered by Widow s Bay, Pluribus, Margo s Got Money Troubles and Palm Royale. The network was followed by HBO Max with 10 awards, Amazon with five and Netflix with three. The Sunday show was the first head-to-head Emmy competition for several of the programs expected to be the top competitors at next week s Primetime Emmys telecast. The first season of Widow s Bay beat the final season of Hacks in five categories, while Hacks beat the freshman show in thought to be the two top contenders for Outstanding Comedy Series, went head-to-head for the picture-editing Emmy. Among drama contenders, The Pitt topped Pluribus for casting and guest actor in a drama series (Ernest Harden
-
-### Alex Witt Signs Off as MS Now Anchor After 27 Years: It Has Been Such a Privilege to Earn Your Trust
-Sun, 06 Sep 2026 23:14:29 +0000 — https://www.thewrap.com/media-platforms/journalism/alex-witt-signs-off-msnow-after-27-years/
-
-MS Now anchor Alex Witt signed off from the network Sunday afternoon, capping off a nearly three-decade run at the outlet. Witt, who has hosted a three-hour weekend afternoon program on the network since 2011, anchored her final broadcast on the network, handing off duties on-air to her successor Antonia Hylton. Hylton s weekend program The Assignment debuts Sept. 12. Please, Alex, can I say something real quick? You are one of one. You are the anchor s anchor, Hylton told Witt during the emotional exchange on the final edition of Alex Witt Reports. You are someone who, when the world is uncertain, the news is breaking, and we re a little unsure or scared. And we turn on our televisions. And we see you at this desk, sitting at this chair, we suddenly feel calm and more assured because you always guide people to the truth and to the facts, and you do it so gracefully, so dutifully, and beyond your many, many talents. You are so real. Witt recalled watching Hylton s early days as a broadcaster saying, This girl s got talent and returned some praise for her successor: You re smart and beautiful and I love the hair then and now. Tributes to Witt were peppered across MS Now s programming Sunday, with colleagues like Jacob Soboroff, Alicia Mendez, Katy Tur, Jonathan Capehart and Jackie Alemany honoring her long career at the network. Witt began in the TV news industry in 1990, with tenures at Today, WNYW-TV. She joined MS Now (then MSNBC) as an anchor in 1999. Her weekend program o
-
 ## Collider
 
-### John Cena Officially Reveals His Secret WWE Heel Name That Vince McMahon Scrapped
-Mon, 07 Sep 2026 16:00:11 GMT — https://collider.com/john-cena-wwe-heel-name-fear-my-name-vince-mcmahon/
+### 10 Brilliant Anime With No Weak Characters
+Mon, 07 Sep 2026 20:05:11 GMT — https://collider.com/brilliant-anime-no-weak-characters/
 
-For nearly two decades, WWE fans wondered what a genuinely evil John Cena would look like. The company repeatedly resisted pulling the trigger while Cena was its biggest babyface, despite the fact that there were fewer superstars than him getting bigger boos. But all that finally changed in 2025, when Cena stunned the wrestling world by turning heel alongside The Rock at Elimination Chamber. While it's perhaps best we forget about how that ultimately went down, Cena has now revealed that WWE came considerably closer to giving him a heel turn more than a decade earlier than fans realized.
+Characters are arguably the most important part of any story, because it doesn’t matter how engaging the plot is if the characters are one-dimensional, boring personalities with no depth or growth. This is especially a problem in anime , because even in some great series such as One Piece and Jujutsu Kaisen , there are some characters who hold the show back.
 
-### HBO’s ‘IT: Welcome to Derry’ Is Making a Major Genre Shift in Season 2
-Mon, 07 Sep 2026 15:28:11 GMT — https://collider.com/hbo-it-welcome-to-derry-season-2-genre-shift-time-jump/
+### George Lucas Has Officially Moved On From Disney’s Star Wars Era
+Mon, 07 Sep 2026 20:00:11 GMT — https://collider.com/george-lucas-star-wars-museum-disney-era-grogu/
 
-When it was first announced that Stephen King 's novel It , which had already been adapted into a miniseries and two movies, was returning again as a prequel series on HBO Max , it felt like an unnecessary cash grab. Sure, Bill Skarsgård was returning, along with creatives Andy Muschietti and Barbara Muschietti , but what could be gained by having Pennywise chase a new group of kids?
+It's been fourteen years since George Lucas washed his hands of Lucasfilm and Star Wars , handing over the keys to the kingdom to, well, the Magic Kingdom and to a new generation of filmmakers. Since then, a whole host of new characters have been added to the lore, like Rey , Kylo Ren , Finn, Poe Dameron , Din Djarin, Cassian Andor , and dozens of other. Whether we'd call any of them iconic at this point is another debate entirely, as far as Lucas is concerned, his newest project wants almost nothing to do with any of what came after him.
 
-### ‘Harry Potter’ Season 2 Could Be the Real Problem in HBO’s Entire Reboot
-Mon, 07 Sep 2026 15:28:11 GMT — https://collider.com/harry-potter-season-2-delays-hbo-reboot-problem/
+### The 10 Best Books About Revenge, Ranked
+Mon, 07 Sep 2026 19:42:11 GMT — https://collider.com/best-books-about-revenge-ranked/
 
-HBO ’s Harry Potter reboot series was always going to have one enormous advantage over the movies: time. Eight episodes per book mean the series can linger on details that had to be squeezed out of the films, spend more time with supporting characters, and finally give J.K. Rowling ’s sprawling story room to breathe, but if the reports surrounding Season 2 are accurate, Harry Potter and the Chamber of Secrets may be exposing an uncomfortable problem with that approach before the reboot has even properly begun.
+You don’t need anyone to explain to you why revenge is a great theme, but if you want it anyway, uh… like, it’s cool to have someone strike back and get justice against someone who wronged them somehow. That is how a revenge story goes, and some of these stories are beyond old, at this stage , being in no way a new concept.
 
-### ‘Lost’s Worst Episode of All Time Changed the Colossal Sci-Fi Hit Forever
-Mon, 07 Sep 2026 15:11:11 GMT — https://collider.com/lost-worst-episode-season-3-stranger-in-a-strange-land/
+### 5 Years Later, Guy Ritchie’s 118-Minute Jason Statham Revenge Thriller Is Officially a Smash Hit
+Mon, 07 Sep 2026 19:30:11 GMT — https://collider.com/wrath-of-man-jason-statham-streaming-hit-september-2026/
 
-Lost premiered more than 20 years ago, and some of its greatest episodes remain benchmarks for serialized television. But having the luxury of 20-plus-episode seasons also meant the show could afford a few infamous misfires. None is more notorious than Season 3’s Jack-centric episode “Stranger in a Strange Land,” an hour that became emblematic of just how badly the series needed an endgame.
+Jason Statham is a man that loves no nonsense. This is a fella whose name has become synonymous with no-nonsense heroes , elaborate shootouts and dealing with people who've made the silly mistake of p*ssing him off. And the one man who's always known how to get the best out of those particular circumstances? That would be Guy Ritchie , beginning with Lock, Stock and Two Smoking Barrels and Snatch , but their 2021 reunion took their partnership somewhere considerably darker.
 
-### Disturbing New Horror Movie Shot Entirely on VHS Reveals Official First Look [Exclusive]
-Mon, 07 Sep 2026 15:00:11 GMT — https://collider.com/i-have-proof-image-larsen-deane-fantastic-fest/
+### ‘Spider-Noir’ Officially Gives Prime Video 5 Reasons To Regret Its Cancellation
+Mon, 07 Sep 2026 19:21:47 GMT — https://collider.com/spider-noir-emmy-wins-prime-video-cancellation-nicolas-cage-marvel-series/
 
-Cinematic marvels like Christopher Nolan 's The Odyssey and James Cameron 's Avatar films are pushing the boundaries of what can be accomplished with cameras and demand to be seen on the biggest screen possible. However, while that may be great for a big-budget blockbuster, sometimes the horror genre is at its best when it's kept lo-fi. The Blair Witch Project , Lake Mungo , Skinamarink , and more have all managed to frighten on limited budgets , using a low-tech approach to their advantage to create eerie atmospheres. At this year's Fantastic Fest , prolific filmmaker James Cullen Bressack will return to his grungy horror roots with his own lo-fi flick, I Have Proof , a psychological descent into madness shot entirely on VHS that will play with viewers' sense of reality with its format.
+2026 has been a banner year for comic book TV shows, even if some of the best ones weren’t given a chance to continue beyond their first season. One of the first shows to dazzle the world earlier this year was Wonder Man , Marvel’s long-gestating showbiz/superhero epic starring Yahya Abdul-Mateen II and Ben Kingsley . The show was a critical hit and also earned strong viewership after being dropped as a binge back in January, and Marvel Studios even gifted Wonder Man a rare Season 2 renewal. However, a few months later, the studio went back on its word and announced that the show had been canceled after only one season . Another critically acclaimed comic book series to recently suffer the same fate was Spider-Noir , the neo-noir detective thriller starring Nicolas Cage .
 
-### ‘Saturday Night Live UK’ Season 2 Just Added Its Most Unexpected Secret Weapon
-Mon, 07 Sep 2026 14:40:14 GMT — https://collider.com/snl-uk-saturday-night-live-season-2-freddie-meredith/
+### Apple TV Officially Scores 2 Chart-Topping George R.R. Martin Series
+Mon, 07 Sep 2026 19:20:11 GMT — https://collider.com/house-of-the-dragon-game-of-thrones-apple-tv-store-top-10-september-2026/
 
-Four months after its breakout first season wrapped up on Sky and Peacock, Saturday Night Live UK returns Saturday with more behind it than when it premiered this past March. After winning Best Comedy at the Edinburgh TV Festival this year and seeing Jack Shep ’s wonderfully unhinged Princess Diana sketch take TV Moment of the Year, the show heads into Season 2 with real heat and a lot less to prove. The trick now is in fine-tuning its formula for more comedy without messing up the chemistry that made its first season such a surprise. Enter SNL UK ’s newest cast member, Freddie Meredith .
+15 years ago, Game of Thrones came and changed the game for TV viewers. HBO’s long-running franchise has given fans around the world some brilliant characters, plotlines, character arcs , and battles that were not envisioned for TV before, and to top it all off, the fantasy franchise finally brought dragons to our TV screens. George R.R. Martin ’s iconic series ran for eight seasons, gathering new fans year-on-year, showcasing fantastical creatures like giants, dragons, children of the forest, and a variety of magic practices across the fictional continents, all wrapped up in dramatic political conflicts and the many players fighting for the Iron Throne. With each season, the scope got bigger and better, and at one point, the David Benioff and D. B. Weiss -created show ran out of its source material and still managed to finish the story.
 
-### The 10 Best Epic TV Shows of All Time, Ranked
-Mon, 07 Sep 2026 12:29:11 GMT — https://collider.com/best-epic-tv-shows-all-time-ranked/
+### 3 Perfect Movies to Watch on Netflix This Week (Sep 7-11)
+Mon, 07 Sep 2026 19:19:11 GMT — https://collider.com/best-netflix-movies-watch-september-7-2026/
 
-Epic books are nothing new, by any means, and epic movies are only slightly newer because cinema, as a medium, is more recent than literature, as a medium/art form. TV shows that satisfy as epics are newer still, with the rise of more cinematic and higher-budgeted television around the start of the 21st century being a big factor in shows getting, you know, bigger.
+After Ridley Scott 's return to the sci-fi genre, The Dog Stars , tried and failed to compete with the all-conquering Spider-Man: Brand New Day last weekend, next up to provide some competition was By Any Means , Mark Wahlberg 's new crime thriller also starring Yahya Abdul-Mateen II . However, it would prove a fruitless task, as Brand New Day continued its demolition of the box office with a sixth weekend at the top. So, heading into another week of movies overseen by the reigning Brand New Day , what should you be watching? To help you decide, here's a list of three movies you should stream on Netflix this week .
 
-### 'The Day of the Jackal' Meets 'Money Heist' in Apple TV's New Crime Thriller Officially Coming This Fall
-Mon, 07 Sep 2026 12:00:11 GMT — https://collider.com/anthony-mackie-12-12-12-apple-tv-release-date-november-2026/
+### Keanu Reeves’ John Wick Franchise Is Officially Taking Over Free Streaming
+Mon, 07 Sep 2026 19:00:11 GMT — https://collider.com/john-wick-movies-pluto-tv-top-4-streaming-success-september-2026/
 
-In Peacock 's hit crime thriller The Day of the Jackal , a hitman and a detective engage in a cat-and-mouse game across Europe as the seasoned killer slips through every trap law enforcement has set. Things become personal when the detective figures out how the killer is moving, and it all ends in a devastating showdown. A similar game plays out in the hit Spanish crime thriller Money Heist , when a detective tries to capture a smart heist planner who has everything mapped out. Apple TV is now bringing its own version of this dynamic in a new thriller premiering this fall.
+Keanu Reeves is best known worldwide for his action roles; even audiences who don't know his extensive filmography recognize him from The Matrix franchise, which changed how movies are made and how viewers understand them, becoming a worldwide phenomenon with a solid fanbase. But Reeves never shies away from experimenting with his roles. He recently returned to voice Duke Caboom in Toy Story 5 , played a troubled Hollywood star in Jonah Hill ’s Outcome , and portrayed an inept guardian angel in Good Fortune , among others.
 
-### The 6 Best Netflix Shows Released Since 2020, Ranked
-Mon, 07 Sep 2026 11:55:11 GMT — https://collider.com/best-netflix-shows-since-2020-ranked/
+### HBO Max's Biggest Sci-Fi Spin-Off Approaches Massive Streaming Milestone
+Mon, 07 Sep 2026 18:40:11 GMT — https://collider.com/stuart-fails-to-save-the-universe-hbo-max-streaming-success-50-days/
 
-Netflix has a peculiar talent for turning television into objects. A tracksuit becomes a Halloween costume. A haircut becomes a beauty trend. A piece of candy becomes a challenge people attempt on TikTok. By Monday morning, somebody who has never watched the show still recognizes the imagery. That machinery can manufacture attention remarkably fast. Making something people still care about after the homepage has moved on is much harder.
+HBO Max may not churn out as much content as some of its competitors like Netflix and Prime Video , but HBO-produced shows also have a much higher chance of turning into must-watch TV. HBO began the year in 2026 with two massive hits in January, the second season of The Pitt and the debut season of A Knight of the Seven Kingdoms . HBO found continued success with the second Game of Thrones spin-off, House of the Dragon , which is set to return in 2028 with its final season — the show is ending in half the time as the original Game of Thrones show. HBO also has two sci-fi shows battling it out at the top of streaming charts right now, and while Lanterns is currently sitting in the #1 spot, it has an uphill battle ahead to maintain its position at the top of the pole.
 
-### The 10 Best Fantasy Movies in Film History
-Mon, 07 Sep 2026 11:40:11 GMT — https://collider.com/best-fantasy-movies-film-history/
+### ‘Doctor Who’ Could Officially Fix Its Latest Cliffhanger With This Classic TV Trick
+Mon, 07 Sep 2026 18:38:11 GMT — https://collider.com/doctor-who-mark-gatiss-regeneration-mystery-solution/
 
-Fantasy has remained one of cinema's most popular and prolific genres for over a century for a reason: There are very few movie genres better fit for the medium of cinema than these stories of magic, mythology, and grand imaginary worlds. As such, it's no coincidence that several of the best fantasy movies in film history can also be counted among the best movies of all time, period .
+Doctor Who ended its latest run on a massive cliffhanger, as Ncuti Gatwa 's 15th Doctor reached his regeneration period. It's that regeneration that caught fans' attention, as the Doctor now sports the face of Billie Piper — better known to Doctor Who fans as Rose Tyler. It's a cliffhanger that may or may not be followed up on, since the BBC recently ended its co-production deal with Disney and put Doctor Who out to competitive tender . A former writer argues that the cliffhanger should be skipped over , using an extremely popular soap opera as a reference.
 

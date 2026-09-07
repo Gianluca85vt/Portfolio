@@ -1,6 +1,31 @@
-# Games — harvested 2026-09-07T16:03:02.888Z
+# Games — harvested 2026-09-07T20:09:04.173Z
 
 ## Eurogamer
+
+### Persona 1 and 2 remakes are "something we'll probably eventually do," series producer says
+Mon, 07 Sep 2026 19:05:37 +0000 — https://www.eurogamer.net/persona-1-and-2-remakes-are-something-well-probably-eventually-do-series-producer-says
+
+With Persona 3 Reload out the door and Persona 4 Revival next in line, series producer Kazuhisa Wada has said remakes of the first two games will "probably" happen as well. Read more
+
+### Final Fantasy Resonance modders have already reinstated the original mobile game's biggest icon, Ariana Grande
+Mon, 07 Sep 2026 18:07:32 +0000 — https://www.eurogamer.net/final-fantasy-resonance-mod-ariana-grande-mobile-game
+
+Final Fantasy Resonance doesn't launch in full until next month, but modders are already using its new demo to reinstate the series' most iconic diva. I'm talking about Ariana Grande, of course. Read more
+
+### Two years after its rocky launch, Civilization 7's first paid expansion Earthrise is on its way - but first comes the atomic age
+Mon, 07 Sep 2026 17:31:14 +0000 — https://www.eurogamer.net/civilization-7-paid-expansion-earthrise-atomic-age-free-update
+
+It's been a bumpy ride for Civilization 7, but two years after its widely criticised launch - and as the legendary 4X series celebrates its 35th anniversary - developer Firaxis has unveiled a host of new updates coming to the game. That includes an atomic age update, dragging Civ 7 into the present and beyond, as well as its first paid expansion, Earthrise, both arriving next year. Read more
+
+### New Super Smash Bros and Nintendogs games are on the way, according to prominent Nintendo leaker
+Mon, 07 Sep 2026 17:14:35 +0000 — https://www.eurogamer.net/super-smash-bros-new-nintendogs-games-nintendo-leaker
+
+A prominent Nintendo leaker has spilled even more information about the console maker's potential plans, which include the long-awaited return of Nintendogs and an all-new Super Smash Bros. game ( not a buffed up version of Super Smash Bros. Ultimate , apparently.) Read more
+
+### Patrice Désilets vows to make a sequel to Ancestors: The Humankind Odyssey
+Mon, 07 Sep 2026 16:12:13 +0000 — https://www.eurogamer.net/ancestors-humankind-odyssey-sequel-patrice-desilets
+
+Patrice D&eacute;silets, the creator of the Assassin's Creed series and director of 1666: Amsterdam, has said he will make a sequel to open-world human evolution survival game Ancestors: The Humankind Odyssey . Read more
 
 ### Valve has reportedly made £11bn from Steam already in 2026, and biggest earning new arrival is Forza Horizon 6
 Mon, 07 Sep 2026 13:17:55 +0000 — https://www.eurogamer.net/forza-horizon-6-biggest-steam-new-release-11-billion-gbp
@@ -37,34 +62,19 @@ Mon, 07 Sep 2026 09:30:34 +0000 — https://www.eurogamer.net/riot-games-mmo-the
 
 Marc Merrill - one of the co-founders of Riot Games and its current CPO - has spoken about the in-development MMO, describing it as "the grail" following the sudden end-of-development announcement for its fighting game 2XKO. Read more
 
-### Playground Games' devs were so confident in Fable, they made me play the Gamescom demo twice
-Mon, 07 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/fable-preview-so-good-played-it-twice
-
-"We don't want to spoil anything," associate game director Will Kennedy as I started my much-anticipated Fable preview at Gamescom this year, "but we've got two very different loadouts for you to play with today." So began the hour-long, behind-closed-doors demo, the first time anyone outside Playground Studios has been allowed to take the long-anticipated fantasy RPG for a spin. Turns out, this little slice of the game - taken from a dungeon a little way into the game filled with undead - was quite short. But that didn't matter because the devs, smirking, told me from the outset that I'd be going through the whole thing twice. They were confident, and after playing it those two times I can tell you they were right to be. Read more
-
-### The Blood of Dawnwalker's most popular mod right now nullifies its main hook
-Mon, 07 Sep 2026 08:43:51 +0000 — https://www.eurogamer.net/the-blood-of-dawnwalkers-most-popular-mod-right-now-nullifies-its-main-hook
-
-It may not surprise you to learn that The Blood of Dawnwalker's most contentious mechanic can already be removed. If you're unfamiliar, the open-world role-playing game has a time mechanic where every quest you complete pushes time forwards and uses up a little more of your 30 day, 30 night time limit (of sorts). Read more
-
-### Saber Interactive CCO says studio won't change its comms strategy after AI writer controversy
-Sun, 06 Sep 2026 15:40:50 +0000 — https://www.eurogamer.net/saber-interactive-comms-strategy-ai-writer-controversy-willits
-
-Saber Interactive CCO Tim Willits has confirmed the company has not revised its communications strategy despite its CEO telling the press that he "would [...] have been happy to replace [a writer] with AI" after she claimed she was replaced by ChatGPT. Read more
-
-### Double Fine's first game since leaving Xbox is a comedy bus-driving sim called Thank You Bus Driver
-Sun, 06 Sep 2026 15:07:45 +0000 — https://www.eurogamer.net/double-fine-thank-you-bus-driver-first-game-post-xbox
-
-Double Fine's first game in its new post-Xbox era is Thank You Bus Driver. Read more
-
-### Valve staged its own Left 4 Dead 2 trailer "leak" to get around an ESRB ban, says former writer
-Sun, 06 Sep 2026 12:42:09 +0000 — https://www.eurogamer.net/valve-left-4-dead-2-trailer-leak-esrb-chet-faliszek
-
-Valve itself "leaked" the 2009 Left 4 Dead 2 trailer. Read more
-
 ## GamesIndustry.biz
 
-### "It's not sexy, but it's one of the most successful genres on Steam" – Stronghold developer Firefly steps up to publisher to serve the vast strategy market
+### Don't Nod warns it may not have enough funding to operate beyond January 2027
+Mon, 07 Sep 2026 18:42:05 +0000 — https://www.gamesindustry.biz/dont-nod-warns-it-may-not-have-enough-funding-to-operate-beyond-january-2027
+
+Don't Nod has warned there is "material uncertainty" over its ability to continue operating beyond January 31, 2027, unless it secures further external financing. Read more
+
+### Capcom says it will focus on reviving dormant IPs after Onimusha: Way of the Sword's breakout launch
+Mon, 07 Sep 2026 16:51:44 +0000 — https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch
+
+Capcom has revealed it will focus on reactivating dormant intellectual property following a strong launch for Onimusha: Way of the Sword. Read more
+
+### "It's not sexy, but it's one of the most successful genres on Steam" – Stronghold developer Firefly launches publishing label to serve the vast strategy market
 Mon, 07 Sep 2026 15:34:14 +0000 — https://www.gamesindustry.biz/its-not-sexy-but-its-one-of-the-most-successful-genres-on-steam-stronghold-developer-firefly-steps-up-to-publisher-to-serve-the-vast-strategy-market
 
 Stronghold developer Firefly is the latest developer to move into publishing, debuting a new strategy-focused label Wuselfaktory and its first title Fool King as part of UKIE's For One Night Only showcase earlier this year. The title, from first-time developer Loot Donkey, describes itself as a "tactical autobattler" with a roguelike edge, in which players build and position their army before watching battles play out. Read more
@@ -94,6 +104,36 @@ China's games market surpassed $50 billion for the first time in 2025, growing 5
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### It s Like Cultural Preservation : Persona Producer Mentions Persona 1 and 2 Remakes Yet Again
+Mon, 07 Sep 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/09/its-like-cultural-preservation-persona-producer-mentions-persona-1-and-2-remakes-yet-again
+
+Back to school. At this point Atlus might as well just officially announce that remakes or remasters of the original Persona and Persona 2 are in the pipeline, because series producer Kazuhisa Wada apparently can't stop acknowledging them. This time, the talkative boss didn't even have to be asked about them directly. In an interview with Rock Paper Shotgun , Wada brings them up when simply discussing re-releases in general. Read the full article on pushsquare.com
+
+### You Should See Sony s Zelda Movie During Tomorrow s Anniversary Direct
+Mon, 07 Sep 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/09/you-should-see-sonys-zelda-movie-during-tomorrows-anniversary-direct
+
+There will be Tears (of the Kingdom). Nintendo is hosting a 40th Anniversary Direct for The Legend of Zelda tomorrow, which promises news and updates on the iconic franchise. The broadcast will of course include footage of its previously announced Ocarina of Time remake, which some expect to launch on the Switch 2 in November, right alongside GTA 6 . Read the full article on pushsquare.com
+
+### Forza Horizon 6 Dev Reiterates 2026 Release for PS5 Version
+Mon, 07 Sep 2026 18:30:00 GMT — https://www.pushsquare.com/news/2026/09/forza-horizon-6-dev-reiterates-2026-release-for-ps5-version
+
+Excellent racer still on course for PS5. The PS5 version of Forza Horizon 6 is still on course to release later this year, Playground Games has confirmed. As part of its newest blog post detailing a new update themed around British cars, the developer said at the bottom: "If you’re planning your trip to Discover Japan on PlayStation 5, stay tuned! Forza Horizon 6 will be releasing on PS5 later this year, and you can add the game to your Wishlist on the PlayStation Store to be notified of availability." Read the full article on pushsquare.com
+
+### If Things Don t Turn Around for DON T NOD, It May Face Closure in a Matter of Months
+Mon, 07 Sep 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/09/if-things-dont-turn-around-for-dont-nod-it-may-face-closure-in-a-matter-of-months
+
+Studio braces for layoffs. Publisher and development studio DON'T NOD is in a precarious position. In a new press release focusing on its financials for the first half of 2026, the company has outlined its plans for necessary structural changes that it hopes will help it stay afloat. Read the full article on pushsquare.com
+
+### Preview: Alien Deathstorm Is Not the Sci-Fi Horror I Expected
+Mon, 07 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/previews/alien-deathstorm-is-not-the-sci-fi-horror-i-expected
+
+Directive: investigate and survive. Alien Deathstorm isn’t what I expected. I assumed that the latest from Rebellion was a linear sci-fi shooter that had you blasting aliens in a cool setting. That’s partly true, I suppose, but as I start playing my brief 20-minute demo during Gamescom, I am surprised to find that this is a much less directed experience – and a lot scarier too. Read the full article on pushsquare.com
+
+### Game of the Month: Metal Gear Solid: Master Collection Vol. 2 (August 2026)
+Mon, 07 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/features/game-of-the-month-metal-gear-solid-master-collection-vol-2-august-2026
+
+As voted by you. Hmmm, it feels like August could give us one of the tightest Game of the Month votes that we've had in quite some time. That's mostly because there was no standout AAA heavy hitter — no massive release ready to crush the competition. Read the full article on pushsquare.com
 
 ### Mini Review: Sprawl Zero (PS5) - A Fun Blast of PS2 Shooter Nostalgia
 Mon, 07 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/reviews/ps5/sprawl-zero
@@ -125,41 +165,16 @@ Mon, 07 Sep 2026 09:15:00 GMT — https://www.pushsquare.com/news/2026/09/new-ps
 
 Onimusha manages it in just 24 hours. Despite releasing within a day of each other, it doesn't seem like The Blood of Dawnwalker and Onimusha: Way of the Sword have eaten into each other's sales all that much: both PS5 games have confirmed they've sold over one million copies since launch. Capcom revealed Onimusha: Way of the Sword achieved the milestone on its first day on the market, pushing the overall series to 10 million sales in total. The developer shared a new piece of art to celebrate on social media and said: "We are truly delighted that so many of you are playing this game! Thank you so much!" Read the full article on pushsquare.com
 
-### Feature: Last Chance to Get These 50+ PS5, PS4 Games in PS Store s Gamescom Sale
-Mon, 07 Sep 2026 09:00:00 GMT — https://www.pushsquare.com/features/last-chance-to-get-these-50plus-ps5-ps4-games-in-ps-stores-gamescom-sale
-
-Cheap PS5 and PS4 games we recommend. PS Store's Gamescom sale is almost over; you only have until 9th September 2026 to grab a bargain. As always, there are thousands of PS5 and PS4 games on offer, and browsing them all can take a while. Read the full article on pushsquare.com
-
-### Rumour: Killzone Project in Early Development, Probably a Remake
-Mon, 07 Sep 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/09/rumour-killzone-project-in-early-development-probably-a-remake
-
-Bulletstorm dev People Can Fly linked. Some sort of Killzone project — most likely to be a remake of an older entry in the shooter franchise — is currently in the very early development stages, and Bulletstorm developer People Can Fly is probably making it. Sources speaking to outlet MP1st claim Guerrilla Games is collaborating with a third-party studio on a Killzone remake, and there are strong indications it's People Can Fly. The Outriders team is actually already confirmed to be working on a PS5 game based on a Sony IP , unveiled as Project Delta last year. Read the full article on pushsquare.com
-
-### Preview: Mega Man: Dual Override Is Legit, and I Know Because I Died 100 Times
-Sun, 06 Sep 2026 19:30:00 GMT — https://www.pushsquare.com/previews/mega-man-dual-override-is-legit-and-i-know-because-i-died-100-times
-
-Same old Rush with a new touch. I’ve always appreciated Mega Man from afar, but I’ve got to be brutally honest with you, I’ve never been the best player. Capcom’s specific brand of action platforming has always been a trifle too difficult for my tastes, but I’ve persevered with many of the titles over the years, and always appreciated their level design and boss encounters. Read the full article on pushsquare.com
-
-### Wolverine PS5 s Lady Deathstrike Design Sparks Psylocke Confusion
-Sun, 06 Sep 2026 15:45:00 GMT — https://www.pushsquare.com/news/2026/09/wolverine-ps5s-lady-deathstrike-design-sparks-psylocke-confusion
-
-But is it justified? Marvel’s Wolverine has been subject to some of the fiercest scrutiny I’ve seen since The Last of Us 2 , and days away from the game’s release, it ain’t going away. The release’s launch trailer showed a brief glimpse of previously announced villain Lady Deathstrike wielding a purple katana, which somehow sparked controversy among fans mistaking her for seasoned X-Men character Psylocke. Read the full article on pushsquare.com
-
-### Preview: I Still Can t Believe This Insanely Ambitious PS5 Open World Is Real
-Sun, 06 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/previews/i-still-cant-believe-this-insanely-ambitious-ps5-open-world-is-real
-
-More hands-on time with the remarkable Ananta. I’ve touched the ultra-ambitious anime open world game Ananta a couple of times now, and I still can’t quite believe it’s real. But it’s launching on 15th January, just weeks after the equally impressive GTA 6 , setting up an exciting end to the PS5 generation for urban sandboxes. Read the full article on pushsquare.com
-
-### Review: Hot Wheels: Infinite Rush (PS5) - A Solid Arcade Racer with an Open World It Doesn t Need
-Sun, 06 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/reviews/ps5/hot-wheels-infinite-rush
-
-Pump the brakes. After two successful and highly regarded arcade racing games in the Hot Wheels Unleashed series, developer Milestone has taken that same formula and applied it across an open world structure in Hot Wheels: Infinite Rush — an addition that feels unnecessary. I really enjoyed the simpler, circuit-based approach of the earlier games; it felt in tune with the licence, which is all about these toy cars and the iconic orange tracks you build for them to race around. Read the full article on pushsquare.com
-
 ## Game Developer
 
 _Nothing in the last 48 hours._
 
 ## VGC
+
+### Introducing the VGC Live in Glasgow 2026 poster, available for pre-order now
+Mon, 07 Sep 2026 17:09:03 +0000 — https://www.videogameschronicle.com/news/introducing-the-vgc-live-in-glasgow-2026-poster-available-for-pre-order-now/
+
+VGC's first live show is only a month away… Source
 
 ### Blood of Dawnwalker: Leave the Valley ending, A Hero They Deserve trophy guide
 Mon, 07 Sep 2026 16:01:57 +0000 — https://www.videogameschronicle.com/guide/blood-of-dawnwalker-leave-the-valley-ending-a-hero-they-deserve-trophy-guide/
@@ -206,12 +221,27 @@ Mon, 07 Sep 2026 11:18:10 +0000 — https://www.videogameschronicle.com/features
 
 Masaaki Hoshino reflects on Champions' launch and discusses the future of competitive Pokémon… Source
 
-### Sega president explains why it made the decision to cancel its much-hyped Super Game
-Mon, 07 Sep 2026 09:47:39 +0000 — https://www.videogameschronicle.com/news/sega-president-explains-why-it-made-the-decision-to-cancel-its-much-hyped-super-game/
-
-The live-service project was announced in 2021 but was officially cancelled this year… Source
-
 ## Polygon
+
+### Cemetery Boys Sequel Reveals a Critical Role Connection New Reveal
+Mon, 07 Sep 2026 20:00:14 GMT — https://www.polygon.com/cemetery-boys-espiritu-excerpt-aiden-thomas/
+
+New York Times bestselling author Aiden Thomas captured hearts and minds with the debut of Cemetery Boys in September 2020. It wasn't hard to see why: Cemetery Boys is a blissfully queer coming-of-age urban fantasy story that wrestles with identity, love, and finding your place in a community.
+
+### Lovecraft Horror Meets Snowpiercer in One of 2026’s Biggest Hidden Gems
+Mon, 07 Sep 2026 19:00:14 GMT — https://www.polygon.com/dreadline-express-preview-gamescom-2026/
+
+I wake up, head pounding. A curt voice echoes through the room: "With immediate effect, free movement on the train is forbidden. We've been spotted again." I stand up and gather my bearings. I'm on a train, there's a very ominous red glow permeating through the room, and the window is obscured by a mass of slithering tentacles, so close that I can make out each individual sucker as they writhe.
+
+### 10 Best New TV Shows to Watch This Fall 2026
+Mon, 07 Sep 2026 18:00:14 GMT — https://www.polygon.com/new-tv-shows-fall-2026/
+
+As far as Summers go, 2026 offered plenty of reasons to get out of house, from the surprisingly fantastic Minions & Monsters to two Earth-shattering blockbusters in The Odyssey and Spider-Man: Brand New Day . Even August had its highlights with the very fun The End of Oak Street and the long-anticipated — and incredibly funny — Coyote vs. ACME .
+
+### Practical Magic 2 First Look: A New Generation of Witches Emerges
+Mon, 07 Sep 2026 17:00:14 GMT — https://www.polygon.com/practical-magic-2-exclusive-image/
+
+Twenty-eight years ago, Sandra Bullock and Nicole Kidman made one of the most beloved movies of their careers. Practical Magic has become the go-to story for wannabe Wiccans looking for a blend of the whimsical and goth. It’s the type of movie that feels like it was made both to be rewatched on Halloween and with your mom and sister at home for the winter holidays.
 
 ### Dungeon Crawler Carl meets The Finals in this wild new FPS
 Mon, 07 Sep 2026 15:41:34 GMT — https://www.polygon.com/like-or-die-preview-gamescom-2026/
@@ -243,27 +273,27 @@ Mon, 07 Sep 2026 12:00:14 GMT — https://www.polygon.com/shroom-gloom-new-deckb
 
 Shroom and Gloom , which goes into Early Access on Sept. 10, drops players into a fire-lit dungeon overrun with mycelium. Players use two decks: one that will help them navigate the winding subterranean tunnels and another to battle the monsters lurking within. As you chart a path to the Gloom, you unlock characters, cards, and more sick art.
 
-### Mr. Jambo's Kyle Gordon Reveals His Terrible Video Game Inspirations
-Mon, 07 Sep 2026 12:00:14 GMT — https://www.polygon.com/mr-jambo-kyle-gordon-shelf-quest/
-
-I feel a deep connection with musician-comedian Kyle Gordon based solely on his pop-culture touchstones. Whether he’s spoofing Eurodance hard enough to mint a song of the summer , making hyper-specific gags about SSX Tricky NPCs , or traveling all the way to Africa to send up Graceland , Gordon’s dedication to lambasting the stuff he seems to love resonates with me. I have never pushed harder to book a guest on Shelf Quest .
-
-### Dreamworks Unveils Its Dreamiest Animated Character Since Shrek
-Mon, 07 Sep 2026 11:00:14 GMT — https://www.polygon.com/forgotten-island-exclusive-image/
-
-Netflix and Sony won't deliver the next dose of Kpop Demon Hunters for at least a few more years, but in the meantime, DreamWorks is poised to fill that void with something arguably even better. The Universal-owned animation studio is set to release its new film, Forgotten Island . Polygon has scored an exclusive image from the upcoming movie ahead of release on Sept. 25.
-
-### An Iconic Playstation FPS Is Coming Back, Claims New Report
-Mon, 07 Sep 2026 10:50:27 GMT — https://www.polygon.com/killzone-remaster-guerilla-games-people-can-fly-report-2026/
-
-A Killzone remaster is in the works, according to a report from Mp1st . The article claims that Guerrilla Games is teaming up with a third-party studio, and while Mp1st couldn't get "definitive confirmation," they're led to believe it's with People Can Fly, the studio behind Bulletstorm and Outriders , as well as a co-developer on multiple Gears of War titles.
-
-### Onimusha Sells 1 million in a Day as Capcom Vows to 'Re-activate' More Old Series
-Mon, 07 Sep 2026 10:30:32 GMT — https://www.polygon.com/onimusha-way-of-the-sword-sales-1-million-capcom-run/
-
-Onimusha: Way of the Sword is yet another hit for Capcom. The first new mainline title in the historical action series in 20 years, Way of the Sword sold over 1 million copies on its first day of release, the developer/publisher announced Monday .
-
 ## PC Gamer
+
+### GTA 6's Criminal Profile system sounds pretty interesting, includes a 'shattered' state for players who DGAF
+Mon, 07 Sep 2026 19:19:23 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6s-criminal-profile-system-sounds-pretty-interesting-isnt-a-direct-copy-of-red-deads-honor-system/
+
+The fidelity of Grand Theft Auto 6's world makes random violence look considerably less silly than it did when the characters had boxy claws for hands, but Rockstar isn't stopping players from doing what they want in Vice City and its environs. We know that because we've seen the GTA 6 leaker shoot up a nudist party, murder the residents of a homeless encampment, and beat a delivery driver to death—quite a contrast with the mission-focused gameplay in the official reveal . A little devil icon in one of the leaked videos did lead us to wonder if GTA 6 would judge us for antisocial behavior, a la Red Dead Redemption 2's Honor system, but the details that have come out since the reveal suggest that 'Criminal Profiles' aren't quite like that. According to a preview from TGG on YouTube (embedded above), Rockstar doesn't want to punish players for how they play, or create a situation where they have to grind their reputation up to a 'better' level in order to progress. Here's the short version of what TGG learned on his trip to Rockstar North: There are four main Criminal Profile states: Professional, Aggressive, Violent, and Psycho There's also a fifth 'shattered' state where the meter cracks and can't be changed; TGG got the impression that this is for players who clearly don't want to engage with the system You can turn off Criminal Profile notifications Jason and Lucia can have different Criminal Profile states Staying in the Professional state is about "restraint and control" 
+
+### Capcom expresses continued interest in 're-activating IPs' as the first new Onimusha game in 20 years surpasses 1 million sales on launch day
+Mon, 07 Sep 2026 17:44:40 +0000 — https://www.pcgamer.com/games/action/capcom-expresses-continued-interest-in-re-activating-ips-as-the-first-new-onimusha-game-in-20-years-surpasses-1-million-sales-on-launch-day/
+
+Samurai adventure Onimusha: Way of the Sword notched over a million sales on its launch day, Capcom has announced. The success is deserved, per our reviewer Wes, who said that Way of the Sword "whips ass" in his 83/100 review . (And if the demo had you worried that it wouldn't be much of a challenge, Wes says not to fret too much: "I died plenty, particularly to bosses that ruthlessly punished my poor parry timing or overeager button mashing.") According to Capcom, the one million launch day sales for Way of the Sword has put the Onimusha series as a whole at 10 million lifetime sales. The last new game in the main series was Onimusha: Dawn of Dreams, which released 20 years ago. "In addition to regularly releasing major new titles each year, Capcom is focusing on re-activating IPs that haven't had a new title launch recently," the developer said. "The company is working to further maximize corporate value by leveraging its rich library of content, including this title." New Lost Planet game when? It's become a cliche to say that Capcom's on a bit of a run lately, but here's yet another mile marker in the developer's 2020s streak, which has included a pair of well-liked Resident Evil remakes, two new Resident Evil games, Monster Hunter Rise and Wilds, Pragmata, Street Fighter 6, and Kunitsu-Gami: Path of the Goddess, among other games. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best R
+
+### OpenAI publicly acknowledges the German 'wiki incident' weeks after first finding out about it
+Mon, 07 Sep 2026 16:56:01 +0000 — https://www.pcgamer.com/software/ai/openai-publicly-acknowledges-the-german-wiki-incident-weeks-after-first-finding-out-about-it/
+
+OpenAI has officially acknowledged the 'wiki incident,' which involved a number of the company's AI agents breaking containment and hijacking an obscure German website. The AI agents had been tasked with looking up something online, though originally did not have the ability to write anything outside of the testing environment. But as far back as May, the AI agents bypassed OpenAI's security measures, hijacked the communally editable German webpage, and began using it like a forum, trading tips on how to cheat on tests. Researchers first drew wider attention to the agents' 'forum' on September 4 . OpenAI now says it needs to be more transparent about when its agents 'go rogue', writing on X , "It’s past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models." The company had known about the 'misaligned' rogue behaviour for weeks before writing this post, according to Reuters , though only acknowledged the incident publicly this past Saturday. This statement follows shortly after the agentic attack on Hugging Face's servers . "Historically, we have treated misalignment largely as a research question, which gets communicated in research publications such as systems cards," OpenAI writes. "This year, we’ve started to see misalignment cause new types of real-world impact." To recap, 'misalignment' broadly describes rogue AI behaviour; an AI is 'misaligned' when it pursues goals that diverge from human inten
+
+### Riot MMO's future is 'incredibly bright' despite co-founder likening its development to the grail: 'Many a brave knight are going to die'
+Mon, 07 Sep 2026 15:59:30 +0000 — https://www.pcgamer.com/games/mmo/riot-mmos-future-is-incredibly-bright-despite-co-founder-likening-its-development-to-the-grail-many-a-brave-knight-are-going-to-die/
+
+Despite a cloud of doom and gloom hanging over Riot's mysterious MMO in the wake of 2XKO's closure–including well-founded concerns from our own Harvey Randall —its co-founder seems confident in its ongoing development. At least, that's what I'm parsing from his relative non-answer when pressed about it during a panel at PAX West over the weekend. Marc Merrill dropped a mention of the MMO while answering a different question during the panel, which was immediately chased up by host Greg Miller with half-joking prompts for further morsels of information. Merrill mostly laughs it off, but does give a somewhat half-answer that at least indicates development of it is moving along at… some sort of pace. Though Merrill's description of creating an MMO makes it seem like it's giving Riot a bit of a hard time. "We know what players' hopes and dreams are," he said. "And it's on us as a team—can we exceed in the execution, you know? But what a worthy quest. We jokingly call it 'the grail' internally because we're like 'Fuck it, you know, many a brave knight are going to die on the grail quest. But fuck it, it's the grail, so let's go.' That's the mindset that we really try to cultivate and that is incredibly hard to do at scale. But I think we're doing a reasonable job and I think the future's incredibly bright." I mean, I've never developed an MMO but… yeah, I suppose it's probably an absolute task and a half to undertake. I don't know if I necessarily would've gone all in on the grail
 
 ### Jensen Huang says 100,000 Nvidia GPUs were used to train OpenAI's latest model, GPT-6 Astra, and there's already plans to bring quadruple that amount of hardware online
 Mon, 07 Sep 2026 15:20:28 +0000 — https://www.pcgamer.com/software/ai/jensen-huang-says-100-000-nvidia-gpus-were-used-to-train-openais-latest-model-gpt-6-astra-and-theres-already-plans-to-bring-quadruple-that-amount-of-hardware-online/
@@ -305,31 +335,16 @@ Mon, 07 Sep 2026 01:50:45 +0000 — https://www.pcgamer.com/games/rpg/if-youre-d
 
 The early access RPG Entropy is a very different beast to its developers' previous work. Dread Delusion was a shockingly good homage to first person RPGs like King's Field or The Elder Scrolls, while this new game is distinctly JRPG-inflected, nailing a lot of the feel and intangibles of something like Final Fantasy 10 or Lost Odyssey. But you can't just put it into the JRPG bin and call it a day. Entropy boasts a large party size for tactical battles, permadeath, locational damage, as well as an approach to reactivity and storytelling that feels more PC gaming than PS2 gaming. When I spoke to lead developer James Wragg recently, he told me that's very deliberate. "In many ways, if Dread Delusion was my take on The Elder Scrolls, then this is my take on Fallout," Wragg said. "The original Fallout, Fallout 1, is one of my favorite games, and we're riffing on that quite a lot with Entropy." Having played Entropy's demo and a bit of early access, I immediately got what he meant. Part of that inspiration is visible in the locational damage system, similar to OG Fallout's called shots (what would eventually become VATS in the 3D games). You can incur a penalty to accuracy to target a specific limb or zone on an enemy, to the benefit of greater damage or inflicting a debuff. Wragg provided the examples of how it might work in more advanced battles: disarming a foe with an especially powerful weapon, or shredding the bulbous Resident Evil weakpoint of a mutated enemy. Entropy's spec
 
-### The Tetris Company confirms it had nothing to do with the White House's racist rip-off: 'we believe in the power of connection and bringing people together, not dividing them'
-Sun, 06 Sep 2026 23:53:12 +0000 — https://www.pcgamer.com/gaming-industry/the-tetris-company-confirms-it-had-nothing-to-do-with-the-white-houses-racist-rip-off-we-believe-in-the-power-of-connection-and-bringing-people-together-not-dividing-them/
-
-One of the many things making this feel like a particularly dumb epoch to be living through is the way the US government has taken to using videogames as a tool for self-aggrandizement and disseminating its pro-war and anti-immigration messages. A bunch of people who usually argue politics should be kept out of videogames have suddenly found themselves defending the use of videogames in politics, and the rest of us are rendered stupider for having to pay attention to the circus. As a reminder, we've seen the Department of Homeland Security make a Pokémon mashup about how they "gotta catch 'em all" , the White House use AI to dress Trump up as Master Chief from Halo after which Homeland Security decided "Destroy the Flood" was an appropriate recruitment message , and then the US government started using Call of Duty and Grand Theft Auto memes to promote its war in Iran . Most recently, the White House launched an arcade section on its website containing terrible knock-offs of games like Flappy Bird, Snake, and Tetris . The Tetris game is particularly baffling. Reskinned as Build the Wall, it becomes a game of defeating a "zombie border siege" on the helpfully labeled "Southern Border" in case you missed the subtlety of its theming, where you stack up tetrominoes that never clear while zombies march toward the blocks. The Tetris Company was motivated to respond. Posting on Instagram , it wrote, "At Tetris we believe in the power of connection and bringing people together, not d
-
-### A hobby dev built a free, 3D galaxy map for Warhammer 40K that loads like lightning in your browser
-Sun, 06 Sep 2026 22:11:09 +0000 — https://www.pcgamer.com/games/rpg/a-hobby-dev-built-a-free-3d-galaxy-map-for-warhammer-40k-that-loads-like-lightning-in-your-browser/
-
-Sometimes it's nice to just find something cool and fun and free on the internet, and the Cartographia Imperialis is just that: A 3D galaxy map of the Warhammer 40K Milky Way you can peruse in your browser. It has the same simple, awe-inspiring majesty as Mass Effect's take on the concept, and you can explore it like an isometric videogame: Left click and drag to pan around, right click to rotate the camera, mouse wheel to zoom in and out. You can click on notable planets or regions to get little lore entries, or pull 'em up by name in the index to snap straight there on the map. I'm not sure where creator Sami Gashi sourced the text for entries, pulling straight from official sources or paraphrasing in their own words, but I quite like the very in-universe prose. Take the entry for largely-unremarkable hive world Jouran, for example: "Its dossier is a reminder that strategic maps hide ordinary misery behind a clean point of light," the entry reads. "Jouran's value lies in quotas met, bodies counted, and local authorities willing to preserve output by any sanctioned means." That's good stuff. Perhaps best of all, Cartographia Imperialis is completely free with no ads, and the map is shockingly lightweight for its graphical presentation and the current state of the internet. It loads super quick, and I haven't experienced any slowdown clicking around. The only thing I'm missing is a nod to the Koronus Expanse of Rogue Trader fame, my personal gateway drug into the 40K universe
-
-### 18 years after Metal Gear Solid 4 first launched, a modder has shown off its first custom map, MGS3's Groznyj Grad
-Sun, 06 Sep 2026 20:40:31 +0000 — https://www.pcgamer.com/games/action/18-years-after-metal-gear-solid-4-first-launched-a-modder-has-shown-off-its-first-modded-map-mgs3s-groznyj-grad/
-
-It already felt weird and wonderful to say that PC Gamer has reviewed Metal Gear Solid 4 , a game for the personal computer. Now it gets even weirder: MGS4 mods are incoming, with TriggerHappy on YouTube already showing off a custom map in Kojima's 2008 stealth-action classic. Back in 2021, modder Jayveer showed off a map ported from Metal Gear Arcade into Metal Gear Online 2 , the multiplayer accompaniment to MGS4, but to my knowledge, TriggerHappy's is the first demonstration of a custom singleplayer map in MGS4. It's 55 beautiful seconds of Old Snake crouch walking around Groznyj Grad, the iconic fortress level of Metal Gear Solid 3. Only now it's infested with Gecko walkers mooing their incongruous moos and showing off their distractingly shapely legs. Stupid, sexy Geckos. TriggerHappy laconically describes the gameplay as "initial testing for adding AI to a custom map." The enemy AI certainly seems to work: Those Geckos are not happy to see Snake, and it's not because they believe a man of his age shouldn't be putting so much stress on his back and knees. It's unclear how TriggerHappy got this custom map working, or how far away we are from widely available map making tools, but this is an exciting first step in the realm of custom content for MGS4. I've mostly connected Master Collection modding with the essential performance and visual fixes that the community needed to cook up after Volume One's disastrous initial launch. Thankfully, not only has the Volume One situat
-
-### The Blood of Dawnwalker sold 1 million copies in just 3 days
-Sun, 06 Sep 2026 19:52:51 +0000 — https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sold-1-million-copies-in-just-3-days/
-
-On September 5, Rebel Wolves took to Twitter on the official Blood of Dawnwalker account to announce that the dark vampire RPG had already surpassed one million copies sold just three days after its September 2 launch. "Thank you for playing, sharing, supporting, and being part of the community," the developer wrote in its celebratory post . I was in a Star Wars Zero Company-shaped hole during Dawnwalker's contemporaneous review period, but everyone on our team who played has been pretty pleased with this very Witcher-like RPG from ex-Witcher devs. Australian editor Shaun Prescott awarded it an 83% in his review , praising the storytelling and combat, but wishing that Rebel Wolves had gone harder on Dawnwalker's unique time mechanics. "Blood of Dawnwalker is an effective piece of worldbuilding and storytelling then, but it doesn't make good on its promise as an innovative piece of RPG design," Shaun wrote. "Maybe Rebel Wolves worried that too many players would fall afoul of the passage of time and thus loosened its severity." He was even more on the money than he could have realized when he wrote that: Some of the first mods for Dawnwalker do away with the time limit entirely . I appreciate the "have it your way" ethos mods can have, but I think a bit of friction can be a very good thing. I unilaterally declare PC Gamer to be a pro-time limits publication. Zooming out, it's exciting to see both Dawnwalker and Zero Company get rave reviews and strong sales during this challen
-
 ## GameSpot
 
 _Nothing in the last 48 hours._
 
 ## Rock Paper Shotgun
+
+### New horror game The Well Is Not Empty combines photophobic monsters with timer light switches and a lot of frenzied digging
+Mon, 07 Sep 2026 16:06:22 +0000 — https://www.rockpapershotgun.com/new-horror-game-the-well-is-not-empty-combines-photophobic-monsters-with-timer-light-switches-and-a-lot-of-frenzied-digging
+
+"Never show the monster," horror film-makers, game-makers and other creepozoids have chanted, over the decades. The Well Is Not Empty wastes no time showing us the monster - one of the monsters, at least - and doesn't seem especially the worse for it. I mean, it's the worse, but in a good way. Look, you can see the monster right there, hunkered up like a frightened puppy in the corner of the room. A scrawny little fellow with broken xylophone teeth and eyes that genuinely do make me think of the view from the bottom of a well. The monster is no threat, as long as you stay out of grabbing distance - and as long as the lights are on. The problem, as you've already guessed, is that the lights are unreliable. A lot of the ceiling bulbs in the open areas are set to a timer. Best make sure you're back behind the sturdy radiance of those construction lamps before the ticking stops. Read more
 
 ### Combat and socially agonised teens impress in Persona 4 Revival, the RPG that series director Kazuhisa Wada feels a "duty" to make
 Mon, 07 Sep 2026 13:30:00 +0000 — https://www.rockpapershotgun.com/combat-and-socially-agonised-teens-impress-in-persona-4-revival-the-rpg-that-series-director-kazuhisa-wada-feels-a-duty-to-make
@@ -346,7 +361,7 @@ Mon, 07 Sep 2026 11:23:21 +0000 — https://www.rockpapershotgun.com/we-believe-
 
 Those terrible firebrands at the Tetris Company have publicly rebuked the US government for publishing a Tetris parody game that promotes the Trump administration's brutalising rhetoric about securing the border with Mexico. They've even hinted that they're prepared to sue over it. The parody game in question is called Build the Wall, and sees you stacking bricks along "the Southern border" in order to repel invading zombies. Unlike in regular Tetris - yes, I've played the Trump game, I'm definitely going to hell now - you aren't trying to clear lines of blocks. Instead, blocks defeat wandering undead of the same colour. The game appeared last week alongside a swathe of other Trumpist propaganda games, based on the likes of Snake and Flappy Bird . A few of these games include goofy reworkings of Sony, Nintendo and Xbox console logo screens. The three platform holders have yet to comment. But the Tetris Company? They're coming out swinging with a... gently worded appeal to human community. Read more
 
-### "You'll be able to engage in these high stakes arms races": Civilization's Arc of Tomorrow update is trying to make the threat of nuclear apocalypse more interesting
+### "You'll be able to engage in these high stakes arms races": Civilization 7's Arc of Tomorrow update aims to be a proper Cold War simulator
 Mon, 07 Sep 2026 09:38:30 +0000 — https://www.rockpapershotgun.com/youll-be-able-to-engage-in-these-high-stakes-arms-races-civilizations-arc-of-tomorrow-update-is-trying-to-make-the-threat-of-nuclear-apocalypse-more-interesting
 
 Civilization 7 is getting a new free update that takes the 4X strategy game into the atomic age, while trying to make nuclear era conflict a little more elaborate than just being first to research the requisite city-killing technology. Add in some new city state proxy war functionality, and you seemingly have everything you need to go full Henry Kissinger. Read more
@@ -365,19 +380,4 @@ I can take or leave a majority of Death Stranding 's story (BB forever, though),
 Sat, 05 Sep 2026 20:33:25 +0000 — https://www.rockpapershotgun.com/laser-guy-is-a-twin-stick-anti-shooter-about-a-stressed-out-game-developer-who-cant-stop-shooting-laser-beams-from-his-eyes
 
 Do I need to explain how Cyclops from the X-Men's powers work? I'm going to anyway just in case. He shoots beams from his eyes! More or less, I think it's technically energy from a punch dimension? I'm not an X-Men nerd though, so correct me in the comments. Main point is, he can never stop shooting those beams, which is why he has to always be wearing glasses at the very least. Which, as it turns out, makes for a fun video game concept, as it's now been manifested in the form of Laser Guy, a twin-stick " anti-shooter " all about not killing your co-workers. Read more
-
-### The ESRB wouldn't let Valve release the cinematic trailer for Left 4 Dead 2, so what did they do? They "leaked" it, obviously
-Sat, 05 Sep 2026 18:08:03 +0000 — https://www.rockpapershotgun.com/the-esrb-wouldnt-let-valve-release-the-cinematic-trailer-for-left-4-dead-2-so-what-did-they-do-they-leaked-it-obviously
-
-My only experience of Left 4 Dead 2 is a handful of sessions in my youth where a friend handed me a controller (me, a person whose shooter experience extended to Ratchet and Clank at the time), told me nothing, and let the chaos unfold. I did not do a good job. But it left a lasting impression! Though perhaps that impression would have changed had I seen its cinematic trailer as soon as Valve had wanted to release it. The problem was, the Entertainment Software Ratings Board weren't so hot on the game, including its marketing materials, so that left Valve with one option: leaking the trailer themselves. Read more
-
-### Double Fine's first game post-Xbox split is a goofy bus driving sim all about slapping passengers who don't follow the rules and doing a good job
-Sat, 05 Sep 2026 17:01:43 +0000 — https://www.rockpapershotgun.com/double-fines-first-game-post-xbox-split-is-a-goofy-bus-driving-sim-all-about-slapping-passengers-who-dont-follow-the-rules-and-doing-a-good-job
-
-It's been a couple of months since Double Fine parted ways from Xbox, and they've been busy getting to work since that split. There's that game jam Kickstarter they recently launched that has Brutal Legend 2 as a stretch goal (just ignore the fact that stretch goal is $100 million). And now, the once again indie studio has announced their first game post-Xbox: Thank You Bus Driver, a very silly job sim where you drive passengers to their destinations, and slap them if they break the rules. Read more
-
-### Mortal Shell 2's latest update adds in an experimental new mode that adjusts the challenge based on how much you do or don't die
-Sat, 05 Sep 2026 16:12:49 +0000 — https://www.rockpapershotgun.com/mortal-shell-2s-latest-update-adds-in-an-experimental-new-mode-that-adjusts-the-challenge-based-on-how-much-you-do-or-dont-die
-
-Another week, another Mortal Shell 2 update! The first proper one arrived a week ago , and smoothed down some of the game's rough edges to make for a (slightly) more generous experience. This next update brings with it a bevy of changes, but most notably is an experimental adaptive difficulty mode that changes depending how well you're doing. Read more
 

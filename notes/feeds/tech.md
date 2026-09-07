@@ -1,9 +1,9 @@
-# Tech — harvested 2026-09-07T16:03:02.888Z
+# Tech — harvested 2026-09-07T20:09:04.173Z
 
 ## Ars Technica
 
 ### The complex corporate web behind a $3.2 billion AI data center
-Mon, 07 Sep 2026 11:00:03 +0000 — https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/
+Mon, 07 Sep 2026 11:00:03 +0000 — https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/
 
 In early June, a fire broke out in a still-unfinished building at the Lake Mariner data center in Somerset, New York, exposing just how little the local fire department knew about what it was walking into. Firefighters reportedly found no working alarm, no suppression system, and three dead hydrants; the safety documents they’re legally entitled to see reportedly burned up in the blaze. Steve Matisz, chief of the Barker Fire Department, said his crew went into the building “kind of blind,” facing heavy black smoke from chemicals they couldn’t identify because the safety sheets meant to inform them had apparently burned up. “It’s been a difficult situation,” Matisz said. He wasn't sure what to think about the claim that the safety sheets had burned in the fire. The site is a former coal mine on Lake Ontario. The $3.2 billion campus is one of the largest AI data center buildouts in New York, and it has many stakeholders. A company called TeraWulf owns and operates the data center on land it leases from a company owned by its own CEO; Fluidstack, a UK-based AI company, will run the center; Google holds warrants for a future 14 percent equity stake and has agreed to guarantee Fluidstack’s lease payments; and Anthropic is among the AI companies whose compute demand the facility exists to serve. Read full article Comments ]]>
 
@@ -18,6 +18,11 @@ Sun, 06 Sep 2026 10:00:35 +0000 — https://arstechnica.com/science/2026/09/farm
 Eat more fatty fish. That dietary advice has changed the way the world consumes salmon, pushing consumer demand ever upward and production to higher and higher levels. Most of that demand is being met with farmed salmon: Today, nearly 70 percent of the salmon consumed on the planet are raised in pens and cages. The US Department of Agriculture’s Dietary Guidelines for Americans recommend eating at least 8 ounces of fish a week and urges people to choose salmon or other species that are similarly high in “heart-healthy” Omega-3 fatty acids. But new research led by USDA scientists finds that levels of these fatty acids in farmed salmon have dropped considerably, potentially making the agency’s own advice, and similar recommendations, including from the American Heart Association, outdated and insufficient. Read full article Comments ]]>
 
 ## The Verge
+
+### Audi’s new A2 E-tron is its most affordable and efficient EV yet
+2026-09-07T16:03:41-04:00 — https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price
+
+When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price. Surprisingly, here comes Audi to split the difference. The German automaker's new A2 E-tron compact crossover is inexpensive, starting at just &pound;32,200 (about $45,000). And it absolutely impresses with an ultra low drag coefficient and a range of battery and drivetrain options that, when configured correctly, can produce a range of … Read the full story at The Verge. ]]>
 
 ### Six years later, Sony revisits its legendary XM4 headphones
 2026-09-07T12:00:00-04:00 — https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones
@@ -64,11 +69,6 @@ German company Isar Aerospace has successfully launched Europe's first entirely 
 
 Boox teased the Picco , its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to a phone. The 3.97-inch e-paper display, however, will be touchscreen, which The Verge's Andrew Liszewski called a "welcome upgrade" on the X4 Pro . The Picco has physical page-turn buttons, and they can be customized with different actions for short and long presses. There's apparently no onboard storage, and it relies entirely on a microSD card to h … Read the full story at The Verge. ]]>
 
-### The Fairphone 6 Plus is the midrange phone we desperately needed
-2026-09-06T09:00:00-04:00 — https://www.theverge.com/tech/990436/fairphone-6-plus-review
-
-Repairability rules. The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themselves required a lot of sacrifices, like putting up with underpowered processors and bad cameras, in order to embrace the sustainability mission. The latest generations of Fairphone have inched toward closing that gap, and the 6 Plus achieves two huge milestones: It feels very much like using a middling Android phone, and it's actually on sale in the US. The 6 Plus is a … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
 
 ### Save up to 38% on a new gaming PC before the Labor Day sales end and beat the price rises — lock down last-minute savings on new pre-built rigs from Best Buy, Newegg, and Walmart
@@ -91,7 +91,7 @@ Mon, 07 Sep 2026 12:33:56 +0000 — https://www.tomshardware.com/pc-components/g
 
 Nvidia's DLSS 5 Neural Rendering technology has taken the PC gaming world by storm since its recent leak and then official rollout in recent days. In what might be one of the most impressive technical applications and mods of the feature yet, one developer has showcased DLSS 5 running on a second GPU to share the processing load, rendering the game on the first GPU before applying Neural rendering at the end of the frame, thus boosting the performance of neural-rendered frames. Marcelo Guibout shared the demonstration online, with videos showing the process running on a cinematic video from The Blood of Dawnwalker, as well as Cyberpunk 2077. Guibout was quick to clarify that the videos are technical showcases, not benchmarks. However, they did share some performance figures. More exciting still, you can download the project from GitHub and try it for yourself. However, the technique does require a second display and doubles the display latency. The above demonstration features a Ryzen 7 7800X3D, 32GB DDR5 setup with two Nvidia RTX 5060 Ti 16GB GPUs, with both cards using PCIe 5.0 x8, and a display attached to each card. The ReShade add-on, dubbed MGPU Bridge, reads each finished frame before applying Nvidia's Neural rendering. "Neural rendering happens at the end of the frame: it takes a finished frame and hands a finished frame back," they explain. "That is what makes it possible to pick it up and run it somewhere else. The add-on creates its own D3D12 device on your second 
 
-### Montech Century II Gold 850W ATX 3.1 power supply review: Excellent budget-friendly Gold-tier ATX 3.1 unit with Cybenetics Platinum efficiency
+### Montech Century II Gold 850W power supply review: Excellent budget-friendly Gold-tier ATX 3.1 unit with Cybenetics Platinum efficiency
 Mon, 07 Sep 2026 12:05:00 +0000 — https://www.tomshardware.com/pc-components/power-supplies/montech-century-ii-gold-850w-atx-3-1-power-supply-review
 
 Montech is one of those brands that, despite a relatively recent international profile, traces its lineage back through the Taiwanese components industry to engineers with three-plus decades of experience. The company formally took shape in 2016 and entered Western retail channels around 2019, initially building its name on aggressively priced PC cases. From that beachhead, Montech expanded methodically into air and liquid coolers, fans, mechanical input devices, and, most relevant for this review, power supplies. The original Century line positioned Montech at the value-conscious end of the PSU market. At the same time, the more recent Titan series advanced to premium territory by relying on Seasonic and CWT for its underlying platforms. The Century II line, refreshed for ATX 3.1 and PCIe 5.1 with native 12V-2x6 connectivity, sits between those bookends. It is meant to deliver modern-spec compliance and Gold-level efficiency at a price point that undercuts the established premium players by a meaningful margin. The 850W model is the entry point of the family, and today we examine whether it belongs among our list of best power supplies on the market. Specifications and Design Montech Century II Gold 850W ATX 3.1 Power specifications (Rated @ 40 °C) RAIL +3.3V +5V +12V +5Vsb -12V MAX OUTPUT 20A 20A 70.8A 3A 0.3A 100W 100W 849.6W 15W 3.6W TOTAL 850W AC INPUT 100 - 240 VAC, 50 - 60 Hz MSRP $90 In the Box The Century II 850W ships in a tidy cardboard box dressed in a charcoal/si
@@ -129,9 +129,14 @@ Storage has gotten exponentially more expensive in the past year thanks to the o
 ### This price-hike-busting RTX 5080 gaming PC is cheaper than it was in April — save $500 on a 9800X3D beast with 32GB of DDR5, 2TB SSD
 Mon, 07 Sep 2026 10:27:52 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/this-price-hike-busting-rtx-5080-gaming-pc-is-cheaper-than-it-was-in-april-save-usd500-on-a-9800x3d-beast-with-32gb-of-ddr5-2tb-ssd
 
-The price of PC parts continues to rise on a daily basis, so finding a monstrous gaming PC cheaper than it was in April is no small feat. Right now at Newegg, you can score an RTX 5080 gaming PC with a 9800X3D CPU, the ultimate in 4K gaming performance, for $2,999 . A $500 saving that makes it cheaper than when we covered this same deal back in April. ● Check out this deal on Newegg's website The individual cost of some of these components makes this a pretty remarkable deal in Fall 2026. The RTX 5080 GPU in this rig alone will set you back more than $1,500 in today's market. The CPU is nearly $500, bringing the cost of just those two components to 2/3 of the build's entire price. RAM and SSD prices are heavily inflated, which means 32GB of DDR5 would normally set you back $400 right now. Add the storage to the bill of materials, and you've covered nearly the entire cost of this PC before you've added the case, fans, cooler, motherboard, and PSU. With the best CPU for gaming on the market and a huge GPU, this PC is no slouch either. use coupon code abs5april for extra 5% off Grab a huge saving on this ABS Kaze II Aqua gaming PC, made and shipped by Newegg. It comes equipped with an AMD Ryzen 7 9800X3D, Nvidia GeForce RTX 5080, 32GB of DDR5 RAM, and a 2TB SSD. View Deal While the 9800X3D is not quite the fastest gaming CPU on the market these days, it is still the best all-rounder by some distance thanks to its combination of power efficiency and performance compared to the 98
+The price of PC parts continues to rise on a daily basis, so finding a monstrous gaming PC cheaper than it was in April is no small feat. Right now at Newegg, you can score an RTX 5080 gaming PC with a 9800X3D CPU, the ultimate in 4K gaming performance, for $2,999 . A $500 saving that makes it cheaper than when we covered this same deal back in April. ● Check out this deal on Newegg's website The individual cost of some of these components makes this a pretty remarkable deal in Fall 2026. The RTX 5080 GPU in this rig alone will set you back more than $1,500 in today's market. The CPU is nearly $500, bringing the cost of just those two components to 2/3 of the build's entire price. RAM and SSD prices are heavily inflated, which means 32GB of DDR5 would normally set you back $400 right now. Add the storage to the bill of materials, and you've covered nearly the entire cost of this PC before you've added the case, fans, cooler, motherboard, and PSU. With the best CPU for gaming on the market and a huge GPU, this PC is no slouch either. Grab a huge saving on this ABS Kaze II Aqua gaming PC, made and shipped by Newegg. It comes equipped with an AMD Ryzen 7 9800X3D, Nvidia GeForce RTX 5080, 32GB of DDR5 RAM, and a 2TB SSD. View Deal While the 9800X3D is not quite the fastest gaming CPU on the market these days, it is still the best all-rounder by some distance thanks to its combination of power efficiency and performance compared to the 9850X3D. This 8-core, 16-thread CPU chews thr
 
 ## Phoronix
+
+### Mysterious x86 CPU Already Has APX, x86S Where Intel Left Off For Legacy-Free x86
+Mon, 07 Sep 2026 15:54:23 -0400 — https://www.phoronix.com/news/x86-CPU-With-APX-x86S
+
+The mystery deepens around an x86 implementation from a corporate entity other than AMD and Intel and has been making some very intriguing changes for coming from a seeming start-up. Beyond 16 tile and 32 tile AMX implementations that already surpass Intel's current Advanced Matrix Extensions (AMX) capabilities in shipping Xeon CPUs, new disclosures were made today concerning Advanced Performance Extensions (APX), Flexible Return and Event Delivery (FRED), and even x86S as the effort that Intel previously stopped for cleaning up the x86 baggage...
 
 ### Ubuntu 26.10 amd64v3 Daily ISOs Now Being Published
 Mon, 07 Sep 2026 09:36:20 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-amd64v3-Daily
@@ -188,12 +193,22 @@ Sun, 06 Sep 2026 06:43:10 -0400 — https://www.phoronix.com/news/ClangIR-Build-
 
 ClangIR has been in development for a number of years now as a new intermediate representation for the Clang compiler. ClangIR makes use of MLIR and is higher-level than LLVM IR. With ClangIR able to preserve more C/C++ source semantics, its usage can lead to better diagnostics, code/static analysis, and more performance optimizations compared to everything lowered straight away from AST to LLVM IR. While not enabling its usage by default, LLVM stakeholders are discussing at least now building it by default...
 
-### Linux 7.3-rc2 Transitions More kmalloc Calls To The Superior kmalloc_obj
-Sun, 06 Sep 2026 06:28:25 -0400 — https://www.phoronix.com/news/Linux-7.3-rc2-kmalloc-obj
-
-Ahead of the Linux 7.3-rc2 kernel release due out later today, a merge causing a lot of code churn was pulled in by Linus Torvalds. This tree-wide effort converts more of the kmalloc() function calls over to the newer and superior kmalloc_obj() family of functions...
-
 ## The Register
+
+### Matt Clifford to leave ARIA before Anthropic role becomes a 'distraction'
+Mon, 07 Sep 2026 18:02:47 +0200 — https://www.theregister.com/public-sector/2026/09/07/matt-clifford-to-leave-aria-before-anthropic-role-becomes-a-distraction/5294861
+
+Matt Clifford is stepping down as chair of the UK's taxpayer-funded Advanced Research and Invention Agency (ARIA), just days after saying he intended to keep the job while working for AI giant Anthropic. Clifford, one of the architects of the UK government's AI strategy, said in a LinkedIn post on Monday that he would leave ARIA, less than a week after his appointment as Anthropic's managing director of international affairs prompted warnings of a "clear conflict of interest." "Having completed my first full term last month, I have decided to step down to ensure my new role at Anthropic doesn't become a distraction from ARIA's incredible work," he said. The decision reverses the position outlined when Anthropic announced Clifford's appointment as managing director of international affairs last week. At the time, he intended to remain as ARIA chair, with safeguards put in place to manage potential conflicts between the two roles. He said the Secretary of State had asked him to remain until November 6 while a new chair is appointed, and that he had agreed to do so "with appropriate safeguards against potential conflicts in place." The overlap between the roles had already attracted scrutiny in Parliament. Dame Chi Onwurah, Labour MP and chair of the House of Commons Science, Innovation and Technology Committee, warned last week that Clifford's plan to retain the ARIA role while working for Anthropic created a "clear conflict of interest." ARIA invests taxpayer money in high-ris
+
+### US watchdog opens probe into Tesla's Cybercab self-certification
+Mon, 07 Sep 2026 17:53:00 +0200 — https://www.theregister.com/offbeat/2026/09/07/us-watchdog-opens-probe-into-teslas-cybercab-self-certification/5294833
+
+Tesla's Cybercab's wheels have only just hit the asphalt for its commercial launch and the autonomous vehicle has already attracted the attention of the US National Highway Traffic Safety Administration (NHTSA). The body announced an investigation into Tesla's self-certification of the vehicle at the weekend. Central to the probe is the fact that the Cybercab famously lacks conventional controls. The NHTSA says there are "clear vehicle performance requirements" – stuff like brake controls – that "in order for automakers to access the US market, they must certify that their vehicles meet these standards – subject to oversight from the agency to confirm compliance. When certified vehicles appear to not adhere to these requirements, NHTSA conducts an investigation." The NHTSA is updating the requirements for autonomous vehicles designed never to be operated by a human, but Tesla appears to have jumped the gun somewhat, prompting the agency to open an Audit Query (AQ) just hours after the Cybercab began a commercial rollout on the streets of Austin, Texas. Tesla told the NHTSA that it had certified the Cybercab "as compliant with all applicable Federal Motor Vehicle Safety Standards (FMVSS)." The vehicles lack permanently attached manual controls such as a brake pedal, accelerator, steering wheel, or mirrors. In the AQ, the agency wrote it intended to "examine the process and technical data on which Tesla relied when certifying the Cybercab and related issues. "Among other things
+
+### DRAM contract prices forecast to grow only 13-18% in Q3
+Mon, 07 Sep 2026 17:20:00 +0200 — https://www.theregister.com/storage/2026/09/07/dram-contract-prices-forecast-to-grow-only-13-18-in-q3/5294776
+
+The relentless rise in memory prices may finally be losing steam, as PC and smartphone buyers reach the limits of what their budgets will allow them to pay. Taiwanese market watcher Trend Force estimates that rising DRAM contract prices drove a 59.5 percent quarter-on-quarter jump in industry revenue to $154.73 billion in calendar Q2. The analyst now expects conventional DRAM contract price growth to "moderate" to 13 to 18 percent quarter-on-quarter in Q3. That reflects a shift in demand away from high-capacity RDIMMs toward lower-capacity products, as well as "the limited ability of PC and smartphone customers to absorb further price increases." That 13 to 18 percent is still a punishing increase by any normal standard. Supplier inventories remain at historic lows, TrendForce warns, and total bit shipments are expected to grow modestly. In other words, prices are climbing more slowly and supplies are likely to remain tight for the forseeable future. The forecast follows a warning from market intelligence biz Context that European PC shipments are set to decline even more sharply as rising component costs push up system prices. Context forecasts a year-on-year decline in laptop shipments of 6.4 percent in Q3, followed by a 20 percent fall in Q4. The outlook is even worse for desktops, with shipments expected to decline around 20 percent in Q3 and almost 30 percent in Q4. Despite declining shipments, PC makers have continued to bring home the bacon, as higher prices have so fa
 
 ### Nightwing CEO has a Labor Day message for staff – and apparently The Register
 Mon, 07 Sep 2026 16:43:00 +0200 — https://www.theregister.com/security/2026/09/07/nightwing-ceo-has-a-labor-day-message-for-staff-and-apparently-the-register/5294819
@@ -240,22 +255,42 @@ Mon, 07 Sep 2026 12:00:00 +0200 — https://www.theregister.com/os-platforms/202
 
 Kumander Linux has been around for a few years now and version 3.0 is nearly ready, with some strong nostalgic appeal. We recently came across Kumander Linux and thought it was an interesting distro – although not technologically "interesting," which isn't always a good thing. Underneath, it's almost boring: Debian 13.6 with Xfce 4.20. These are safe, solid, sensible choices, combining a lightweight mainstream desktop with one of the most established Linux distros. What's not to like? What's fun about Kumander Linux is its looks. It makes a very convincing effort to look and work more or less like Windows 7. It doesn't go as far as the wholesale "borrowing" of commercial assets and trademarks seen in Wubuntu, AKA "Windows Linux," nor is it a strange, hacked-together combination of genuine Windows components like Classic 7. It uses a mixture of FOSS and freeware components. The office suite is LibreOffice 25.2, configured with a Microsoft-like ribbon UI. The image editor is GIMP 3.0.4, and it comes with native Linux versions of some familiar Windows tools, such as Google Chrome, PuTTY, Audacity, and VLC. Yes, Chrome isn't FOSS, but it's a much more widely used web browser than Firefox. The customizations go beyond appearances, with some of Xfce's stock tools replaced. For instance, Xfce's slightly feeble Task Manager has been replaced by a tool that was new to us, System Manager. There's also an easy point-and-click Software Center. Both were written by distro developer Roy Ho
 
-### Peers ask why UK cyber bill leaves execs off the personal liability hook
-Mon, 07 Sep 2026 11:15:00 +0200 — https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586
-
-Peers have questioned why the UK's Cyber Security and Resilience Bill does not allow regulators to penalize senior executives when an organization's failure to comply involves their consent, connivance, or deliberate or careless neglect. Echoing arguments heard across the industry for years, Baronesses Kidron and Ludford backed probing amendments that would introduce personal civil liability for senior execs and make cybersecurity a board-level responsibility. "The intention behind the amendment is to change the culture of an organization, to ensure preventative action is taken, to avoid penalties," said Baroness Kidron. "As I said at the outset, culture change starts at the top." The Register has previously reported on calls for NHS organizations, some of which would be covered by the bill's reforms, to treat cybersecurity as a board-level priority. More recently, 60 organizations committed to the aims of the UK government's Cyber Resilience Pledge, promising to ensure their boards take responsibility for their organization's cybersecurity. Peers supporting the amendments pointed to financial sector rules introduced over the past decade that can impose regulatory or criminal liability on the C-suite for serious failings. They argued that the amendments would bring the bill closer to the EU's NIS2 directive, which includes senior management accountability measures. Personal liability is not mandatory under NIS2, however, and member states have implemented it differently. Supp
-
-### OpenAI's rebel agent swarm died young, but its chilling logs live on
-Mon, 07 Sep 2026 10:30:00 +0200 — https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446
-
-OPINION You will have heard of July's OpenAI/Hugging Face incident, where thousands of the former's AI agents conducted a mass jailbreak from a notionally secure capture-the-flag lab experiment, before going on to feloniously capture chunks of Hugging Face's assets. It was a good news story, aided by OpenAI's rapid recruitment of a small team of independent researchers to investigate and publish a detailed, if limited, report. It was a complex incident, and most coverage concentrated on the major hows and whys. Which is a shame, because other details, described by El Reg with uncharacteristic understatement as "fascinating and troubling," are in fact highly dramatic, telling a truly disturbing story of frontier model capabilities and how they are out-evolving our ability to oversee them. The raw story is gripping enough. A rebel swarm of more than a thousand agents broke free from their sandboxes, learned how to talk to each other and the internet, and went on a rampage of cheating, deception, and exploitation. They first learned to communicate with each other by independently discovering how to bend package manager Artifactory's cache to see internal directory structures, and then passing messages by file names. It was this ad hoc secret message board, alongside chain-of-thought transcripts, that the security researchers used to unpick events. They found that the swarm quickly developed management hierarchies among themselves, along with protocols for synchronizing and contr
-
-### Amazon-branded plane in fatal accident at Miami Airport
-Mon, 07 Sep 2026 09:02:00 +0200 — https://www.theregister.com/on-prem/2026/09/07/amazon-branded-plane-in-fatal-accident-at-miami-airport/5294707
-
-Two runways are currently closed at Miami International Airport after an Amazon-branded cargo plane overran a runway, resulting in five fatalities. The leased 767, which bears the “Prime Air” brand Amazon uses for its air freight and drone operations, landed but was unable to stop before the end of the 2850-meter runway 30. The plane appears to have exited the runway and the airport grounds, crossed a road, and come to a halt in what looks like a carpark. As it ran across grass beyond the runway, the plane’s nose pitched down into the ground, its starboard engine caught fire, and the craft sustained extensive damage. Local authorities have confirmed that five people died, and three are severely injured. A statement from Amazon spokesperson Kelly Nantel says the company is”heartbroken to learn that five people lost their lives in today’s incident at Miami International Airport.” The statement identifies the operator of the plane as 21Air, a company that leases cargo planes and crew to its customers. 21Air CEO Keith Winters said “We are devastated by the accident involving one of our aircraft in Miami today. Our deepest condolences are with the families and loved ones of those who lost their lives. Our immediate priorities are supporting those affected, assisting the authorities, and ensuring that accurate information is communicated as it becomes available.” At the time of writing, the crash is just over 12 hours in the past, so investigators’ work has just begun. A video purp
-
 ## Engadget
+
+### Capcom is reviving more dormant franchises after the success of Onimusha: Way of the Sword
+Mon, 07 Sep 2026 19:31:56 +0000 — https://www.engadget.com/2252274/capcom-to-revive-dormant-franchises-after-onimusha-way-of-the-sword-sells-a-million-copies-at-launch/
+
+After Onimusha: Way of the Sword sold more than a million copies at launch, Capcom is now looking to revive some of its other forgotten IPs.
+
+### What's the difference between Sony WF-1000XM6 and WF-1000XM5 earbuds?
+Mon, 07 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2249010/sony-wf-1000xm6-vs-1000xm5-earbuds-differences-explained/
+
+Everything you need to know to decide which set of Sony earbuds are right for you.
+
+### The A2 e-tron is Audi's most efficient EV to date
+Mon, 07 Sep 2026 18:28:50 +0000 — https://www.engadget.com/2252249/the-a2-e-tron-is-audis-most-efficient-ev-yet/
+
+While it probably won't be available in the US, the Audi A2 e-tron looks like an appealing affordable EV with plenty of range.
+
+### How to make your iPhone's alarm ring at full volume even when your calls are muted
+Mon, 07 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2249082/how-to-make-iphone-alarm-ring-full-volume-while-calls-muted/
+
+Apple's sound settings often meant you'd sleep through your iPhone alarm if you lowered the volume before you went to bed. With its new update, that is no more.
+
+### When is it no longer worth repairing your phone and buying a new one instead
+Mon, 07 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2249079/when-is-it-no-longer-worth-repairing-your-phone-and-buying-a-new-one-instead/
+
+When is it no longer worth repairing your phone and buying a new one instead.
+
+### Retroid just teased its take on a dual-screen handheld for Nintendo DS fans
+Mon, 07 Sep 2026 17:15:36 +0000 — https://www.engadget.com/2252220/retroid-teases-upcoming-dual-screen-gaming-handheld/
+
+While there aren't a ton of concrete details yet, the arrival of yet another dual-screen handheld is a great sign for fans of Nintendo old-school portables.
+
+### Why is it illegal to use a Bluetooth jammer?
+Mon, 07 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2249092/why-bluetooth-jammer-illegal-to-use-what-law-says/
+
+A Bluetooth jammer might seem like a fix for a neighbor's loud music, but using one can lead to serious legal consequences far beyond simple noise control.
 
 ### Sony revives its WH-1000XM4 headphones as a refreshed $300 option
 Mon, 07 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2251246/sony-revives-its-wh-1000xm4-headphones-as-a-refreshed-300-dollar-option/
@@ -282,42 +317,17 @@ Mon, 07 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2249065/how-to-find
 
 Millions rely on Android Auto every day for navigation, music and messaging, but one of the common issues is apps vanishing from the platform without warning.
 
-### How to split bills and customize passes in Apple Wallet with iOS 27 Update
-Mon, 07 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2249069/apple-wallet-ios-27-update-how-to-split-bills-customize-passes/
-
-Apple's Visual Intelligence will make splitting the check easier in iOS 27.
-
-### Your old phones may be worth more than you think through Google Store trade-in
-Mon, 07 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2249070/google-store-trade-in-your-old-phones-worth-more-than-think/
-
-The Google Store has some of the best trade-in values for a new Pixel, whether you're turning in a Pixel, iPhone, or Galaxy device.
-
-### How to use SpaceXAI's Grok Build
-Mon, 07 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2249020/how-to-use-spacexai-grok-build/
-
-You'll want a paid plan if you plan to do much with Grok.
-
-### How to change Siri's voice
-Mon, 07 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2249016/how-to-change-siri-voice/
-
-Siri's voice will be more expressive and customizable in iOS 27, but only if you have the latest hardware.
-
-### The downsides of switching from a MacBook to Windows
-Mon, 07 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2248705/downsides-switching-from-macbook-to-windows/
-
-macOS and Windows both have their own advantages. If you're planning to move to Windows, make sure you know what you're giving up.
-
-### iOS 27 beta had a Digital ID glitch travelers weren't expecting
-Mon, 07 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2248933/ios-27-beta-digital-id-glitch-passport-deactivated/
-
-This unexpected bug could have caused problems for travelers, which is why you shouldn't use a beta version of iOS on a device you rely on.
-
-### Is it safe to buy a refurbished iPhone from Walmart?
-Mon, 07 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2248893/is-it-safe-buy-refurbished-iphone-walmart/
-
-Walmart provides lower-cost refurbished phones than buying from Apple directly, but you also have to navigate through more sellers and terms.
-
 ## TechCrunch
+
+### Opaque recurrence, and other AI terms that you should probably know
+Mon, 07 Sep 2026 19:24:00 +0000 — https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
+
+The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
+
+### A secret new Elizabeth Holmes documentary stuns Telluride
+Mon, 07 Sep 2026 18:02:29 +0000 — https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/
+
+Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder.
 
 ### What we expect from the upcoming Apple launch
 Mon, 07 Sep 2026 15:58:00 +0000 — https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/
@@ -348,19 +358,4 @@ Welcome back to TechCrunch Mobility, your hub for the future of transportation a
 Sat, 05 Sep 2026 22:49:55 +0000 — https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
 
 Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.
-
-### Hikers rescued after using Google Gemini for planning
-Sat, 05 Sep 2026 19:35:24 +0000 — https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/
-
-The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."
-
-### OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
-Sat, 05 Sep 2026 18:05:27 +0000 — https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/
-
-OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.
-
-### Clucky s new alarm app wakes you up with a crowing rooster
-Sat, 05 Sep 2026 17:00:00 +0000 — https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/
-
-Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.
 

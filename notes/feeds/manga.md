@@ -1,6 +1,21 @@
-# Manga — harvested 2026-09-07T16:03:02.888Z
+# Manga — harvested 2026-09-07T20:09:04.173Z
 
 ## Anime News Network
+
+### Fake It to Break It! Manga Changes Artists
+Mon, 07 Sep 2026 15:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/fake-it-to-break-it-manga-changes-artists/.241470
+
+Megumi Dorokawa takes over as artist from September 10
+
+### Tamer: Trash-Tier to Top-Tier Manga Ends
+Mon, 07 Sep 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/tamer-trash-tier-to-top-tier-manga-ends/.241469
+
+NiwaRhythm's manga adaptation of Tamaki Yoshigae's novels debuted in October 2020
+
+### Look Back Live-Action Film Review
+Mon, 07 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/review/look-back/live-action-film/.241218
+
+The live-action movie of Tatsuki Fujimoto’s manga tragedy can’t match the anime but is still a moving experience.
 
 ### Japan's Video Game Rankings, August 24-30
 Mon, 07 Sep 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/japan-video-game-rankings-august-24-30/.241457
@@ -47,26 +62,16 @@ Mon, 07 Sep 2026 05:33:59 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Miyuki Sakurai, Natsumi Fujiwara, Takehito Koyasu, more join anime's cast; yama performs opening song "Sayonara wa Iwanai"
 
-### Dark Machine the Animation Series Reveals 3 New Cast Members, October 13 Debut
-Mon, 07 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/dark-machine-the-animation-series-reveals-3-new-cast-members-october-13-debut/.241481
-
-Nao Tōyama, Nonoka Ōbuchi, Rei Nakashima join anime's cast
-
-### Uncle's Obsession with Cute Things Anime's 2nd Trailer Reveals More Cast Members, Theme Song Artists
-Mon, 07 Sep 2026 03:49:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/uncle-obsession-with-cute-things-anime-2nd-trailer-reveals-more-cast-members-theme-song-artists/.241482
-
-Yusei Yagi performs "LIKE³" opening, Kaori Maeda performs "Tōtoi♡Kaiwai" ending
-
-### Actor, Voice Actor Toru Shinagawa Dies at 90
-Mon, 07 Sep 2026 03:07:11 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/actor-voice-actor-toru-shinagawa-dies-at-90/.241483
-
-Film, TV, stage actor had roles in <cite>Ghost in the Shell: Stand Alone Complex, Fancy Lala, Shōnen Santa no Daibōken</cite>, more
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Crunchyroll Looks to Hire Anti-Piracy Lead to Fight Global Anime Infringement
+Mon, 07 Sep 2026 17:52:03 GMT — https://animecorner.me/crunchyroll-looks-to-hire-anti-piracy-lead-to-fight-global-anime-infringement/
+
+Crunchyroll has been looking to strengthen its battle against anime piracy since at least&hellip;
 
 ### hololive TV Anime by Studio KAI Announced, Full Details on September 23
 Mon, 07 Sep 2026 13:40:41 GMT — https://animecorner.me/hololive-tv-anime-by-studio-kai-announced-full-details-on-september-23/
@@ -137,7 +142,7 @@ The official X (formerly Twitter) account of Kadokawa s Dengeki no Shinbungei la
 
 ## Otaku USA
 
-_Nothing in the last 48 hours._
+_Feed unavailable: HTTP 520_
 
 ## Anime UK News
 
