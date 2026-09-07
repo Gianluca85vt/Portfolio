@@ -4,7 +4,6 @@ date: 2026-09-07
 category: Games
 cover: /img/blog/sega-super-game-cancelled-100bn-plan/shot-01.jpg
 excerpt: Sega announced Super Game in 2021 and weighed ¥100 billion over five years. Its president now says the scale of running the service is what stopped it.
-draft: true
 ---
 
 Sega's president told Nikkei this week that the company assumed it had the
