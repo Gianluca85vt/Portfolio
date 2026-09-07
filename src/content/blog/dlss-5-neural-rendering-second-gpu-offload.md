@@ -28,6 +28,11 @@ it.
 
 ## The cost does not move
 
+<figure>
+  <img src="/img/blog/dlss-5-neural-rendering-second-gpu-offload/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Visual Concepts / 2K, via the official NBA 2K27 Steam page</figcaption>
+</figure>
+
 Nvidia's own number for switching neural rendering on is a 50 to 60 percent
 frame-rate hit, and it quotes that as a blanket figure rather than a per-game
 one. Digital Foundry tested the shipping version in NBA 2K27 and called it
