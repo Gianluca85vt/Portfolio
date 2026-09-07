@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Ink lines that stick to a moving surface — Grease Pencil inside Geometry Nodes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="62%" stop-color="#5A2410"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g font-family="Inter, Helvetica Neue, Arial, sans-serif">
+    <text x="80" y="122" fill="#F0B48A" font-size="27" font-weight="600" letter-spacing="5.5">GREASE PENCIL / GEOMETRY NODES</text>
+
+    <text x="80" y="330" fill="#FFFFFF" font-size="184" font-weight="800" letter-spacing="-6">Ink that</text>
+    <text x="80" y="470" fill="#FFFFFF" font-size="184" font-weight="800" letter-spacing="-6">holds on</text>
+    <text x="80" y="556" fill="#FFD3B0" font-size="66" font-weight="700" letter-spacing="-1.5">a face that turns</text>
+  </g>
+
+  <g stroke="#FFD3B0" stroke-linecap="round" fill="none" opacity="0.7">
+    <path d="M80 660 C 260 616, 420 700, 600 656" stroke-width="9"/>
+    <path d="M80 706 C 250 674, 430 742, 604 700" stroke-width="6"/>
+    <path d="M80 748 C 240 726, 444 776, 596 744" stroke-width="4"/>
+  </g>
+  <g stroke="#FFFFFF" stroke-linecap="round" fill="none" opacity="0.28">
+    <path d="M700 654 C 820 616, 940 706, 1120 650" stroke-width="9" stroke-dasharray="26 22"/>
+    <path d="M700 702 C 830 676, 960 748, 1120 696" stroke-width="6" stroke-dasharray="18 20"/>
+  </g>
+</svg>
