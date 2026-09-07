@@ -87,52 +87,25 @@ const blog = defineCollection({
           message: `the cover file does not exist: public${post.cover}`,
         });
       }
-    })
-
-    /**
-     * Two independent outlets, or it does not publish.
-     *
-     * Gianluca's rule, and his reasoning: getting there second is survivable,
-     * being wrong in the first person with his name on it is not. Every article
-     * now speaks as him, which raises the cost of repeating one outlet's
-     * mistake from an embarrassment to a personal one.
-     *
-     * A separate floor from the cover rule above, and a later one, because this
-     * binds only what is written from here on. The 128 pieces already published
-     * were written under the old rule and are left alone - the same decision he
-     * made about the drawn covers.
-     *
-     * A review satisfies it through scoreSources: a piece quoting ten outlets'
-     * scores has plainly read more than one of them.
-     *
-     * The count is of distinct outlets, not of entries. Two links to the same
-     * publication is one source that has been read twice, which is how a single
-     * wire story gets mistaken for corroboration.
-     */
-    .superRefine((post, ctx) => {
-      const SOURCED_FROM = new Date('2026-09-07T00:00:00Z');
-      if (post.draft) return;
-      if (post.date < SOURCED_FROM) return;
-
-      const outlets = new Set(
-        [...(post.sources ?? []), ...(post.scoreSources ?? [])].map((s) =>
-          s.outlet.trim().toLowerCase()
-        )
-      );
-      outlets.delete('');
-
-      if (outlets.size < 2) {
-        ctx.addIssue({
-          code: 'custom',
-          path: ['sources'],
-          message:
-            `a published article needs two independent outlets, and this has ${outlets.size}. ` +
-            'Add them as sources: [{ outlet, url }, ...] in the frontmatter. ' +
-            'If only one outlet has the story, keep draft: true and wait for a second - ' +
-            'if none arrives, the piece does not run.',
-        });
-      }
     }),
 });
+
+/**
+ * The two-source rule is NOT enforced here, and the reason is worth keeping.
+ *
+ * It was, for one day. On 7 September the Monday editorial published without a
+ * `sources` field and this schema failed the build - which does not hold one
+ * article back, it stops the whole site deploying, fixes included. Two
+ * deployments died a minute apart and the site froze on the previous build.
+ *
+ * The rule he asked for was "it stays a draft until a second source arrives".
+ * A draft waiting costs nothing. A red build costs everything, and it punishes
+ * the wrong thing: the site, rather than the piece.
+ *
+ * So the check lives in `scripts/check-sources.mjs`, which the draft
+ * notification runs before the piece is ever offered for approval. `sources`
+ * stays in the schema above as an optional field so the data has somewhere to
+ * live - just not as a gate that can take the site down.
+ */
 
 export const collections = { blog };
