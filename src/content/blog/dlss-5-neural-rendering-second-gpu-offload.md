@@ -4,7 +4,6 @@ date: 2026-09-07
 category: Tech
 excerpt: Nvidia's neural rendering takes half your frame rate in NBA 2K27. A ReShade add-on hands the pass to a second card and claims a good deal of it back.
 cover: /img/blog/dlss-5-neural-rendering-second-gpu-offload/shot-01.jpg
-draft: true
 ---
 
 Two RTX 5060 Ti 16GB cards, both on PCIe 5.0 x8, a monitor plugged into each
