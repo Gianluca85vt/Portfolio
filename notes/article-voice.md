@@ -158,9 +158,8 @@ for what goes out, not a ceiling on how much does. Whether a second source is
 easy or hard to find is a research problem, and the answer to a hard one is to
 look harder, never to lower the bar.
 
-**It is not advice, it is the build.** From 7 September 2026 a published
-article carries `sources:` in its frontmatter and the build fails without two
-distinct outlets:
+**Where it is checked, and where it must not be.** A published article carries
+`sources:` in its frontmatter:
 
 ```yaml
 sources:
@@ -173,14 +172,21 @@ sources:
 Two links to the same publication count once. That is the whole point: one wire
 story read twice is how a single source gets mistaken for corroboration.
 
-A review satisfies the rule through its `scoreSources`. Drafts are exempt, so a
-piece waiting on a second source sits as a draft and costs nothing until it
-either finds one or is dropped.
+A review satisfies the rule through its `scoreSources`, which names every
+outlet it took a score from.
 
-The archive from before that date is left alone, the same decision he made
-about the drawn covers. Written as guidance this rule would lose to a deadline,
-which is exactly what happened to the manga quota while it was only a
-preference.
+`scripts/check-sources.mjs` counts them, and it runs on every draft alongside
+the prose check, before the review email goes out — so a thin piece is flagged
+while it is still a draft and can still be held. The archive from before this
+rule is left alone, the same decision he made about the drawn covers.
+
+**Not in the content schema.** It was there for one day. On 7 September the
+Monday editorial published without the field, the schema rejected it, and the
+build failed — which does not hold one article back, it stops the whole site
+deploying, fixes included. Two deployments died a minute apart and the site
+froze on the previous build. The rule he asked for was a piece that waits; what
+got built was a site that stops. Never put an editorial standard where a
+missing field can take the site down.
 
 **Where the second source has to come from.** The writer runs behind an egress
 proxy that refuses almost every host, which is why `harvest-sources.mjs` exists

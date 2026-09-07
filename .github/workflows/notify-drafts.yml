@@ -138,6 +138,17 @@ jobs:
               WARN*) echo "::warning::prose check flagged $slug — see the run log" ;;
             esac
 
+            # Two independent outlets, or it does not go out. Checked here, on a
+            # draft, rather than in the content schema: that is where it lived
+            # for one day and on 7 September it failed the build over a missing
+            # field, which does not hold one piece back — it stops the whole
+            # site deploying. A draft flagged before approval costs nothing.
+            sources=$(node scripts/check-sources.mjs "$file" 2>&1 || true)
+            echo "$sources"
+            case "$sources" in
+              WARN*) echo "::warning::$slug has fewer than two outlets — hold it unless a second one turns up" ;;
+            esac
+
             echo "notifying: $slug"
 
             code=$(curl -s -o /tmp/out -w '%{http_code}' \
