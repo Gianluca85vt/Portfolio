@@ -170,18 +170,26 @@ export function recordStory(ledger, articles, ids, day) {
  *
  * Nothing was published, so there are no Instagram ids to keep. What matters is
  * the date, which is what isDue reads to refuse a second run the same night.
+ *
+ * The slugs are passed in rather than selected again here, and that is the
+ * whole point of the argument. This used to call selectForDigest a second time,
+ * minutes after --draw had called it, with a commit, a rebase and a sixty
+ * second wait for the deploy in between. Anything published inside that window
+ * was picked up by the second call and stamped as carried by a story whose
+ * frames had already been drawn without it — marked as done, never shown, and
+ * skipped by every night that followed. It happened on 7 September: three
+ * frames drawn, four articles recorded, two of them silently retired.
  */
-async function record(root) {
-  const articles = await selectForDigest(root);
-  if (!articles.length) {
-    console.log('Nothing to record.');
-    return;
+async function record(root, slugs) {
+  if (!slugs.length) {
+    console.error('record needs the slugs that were drawn: --record <slug> [slug...]');
+    process.exit(2);
   }
 
   const day = romeDate(new Date());
-  const written = recordStory(await readLedger(root), articles, ['frames-emailed'], day);
+  const written = recordStory(await readLedger(root), slugs.map((slug) => ({ slug })), ['frames-emailed'], day);
   await writeFile(join(root, LEDGER), `${JSON.stringify(written, null, 2)}\n`);
-  console.log(`recorded ${articles.length} article(s) against ${day}`);
+  console.log(`recorded ${slugs.length} article(s) against ${day}: ${slugs.join(' ')}`);
 }
 
 /**
@@ -244,7 +252,7 @@ if (import.meta.url === pathToFileURL(process.argv[1] ?? '').href) {
     const made = await drawAll(root);
     console.log(made.length ? `drew ${made.length} frame(s)` : 'nothing to draw');
   } else if (process.argv.includes('--record')) {
-    await record(root);
+    await record(root, process.argv.slice(process.argv.indexOf('--record') + 1).filter(Boolean));
   } else {
     console.error('usage: social-digest.mjs --plan | --draw | --record');
     process.exit(2);

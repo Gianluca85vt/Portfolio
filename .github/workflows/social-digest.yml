@@ -119,7 +119,11 @@ jobs:
         if: steps.pick.outputs.slugs != ''
         run: |
           set -euo pipefail
-          node scripts/social-digest.mjs --record
+          # The slugs from the pick step, not a fresh selection. Between that
+          # step and this one the job commits, rebases and waits a minute for
+          # the deploy, and anything published inside that window used to get
+          # stamped as carried by a story drawn before it existed.
+          node scripts/social-digest.mjs --record ${{ steps.pick.outputs.slugs }}
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
