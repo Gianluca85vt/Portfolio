@@ -1,6 +1,16 @@
-# Manga — harvested 2026-09-07T09:44:03.043Z
+# Manga — harvested 2026-09-07T11:21:15.763Z
 
 ## Anime News Network
+
+### New Sgt. Frog TV Anime Reveals October 3 Debut, Main Cast in Video
+Mon, 07 Sep 2026 05:52:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/new-sgt-frog-tv-anime-reveals-october-3-debut-main-cast-in-video/.241485
+
+Makoto Koichi, more star in series featuring brand-new cast
+
+### The Seven Knights of the Marronnier Kingdom Anime Reveals More Cast Members, Opening Song in 2nd Trailer
+Mon, 07 Sep 2026 05:33:59 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/the-seven-knights-of-the-marronnier-kingdom-anime-reveals-more-cast-members-opening-song-in-2nd-/.241484
+
+Miyuki Sakurai, Natsumi Fujiwara, Takehito Koyasu, more join anime's cast; yama performs opening song "Sayonara wa Iwanai"
 
 ### Dark Machine the Animation Series Reveals 3 New Cast Members, October 13 Debut
 Mon, 07 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/dark-machine-the-animation-series-reveals-3-new-cast-members-october-13-debut/.241481
@@ -52,16 +62,6 @@ Sun, 06 Sep 2026 20:44:45 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Pop-up event to host Q&A, signing with Mikami on October 10, additional signing on October 11
 
-### Uta Macross Rhythm Game Launches Project for Offline Version
-Sun, 06 Sep 2026 20:17:11 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/uta-macross-rhythm-game-launches-project-for-offline-version/.241464
-
-Crowdfunding to support development of additional content on iOS, Android, Steam
-
-### Sword Art Online Material 1: Sugary Days Tops Oricon's Monthly Light Novel Ranking for August 2026
-Sun, 06 Sep 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/sword-art-online-material-1-sugary-days-tops-oricon-monthly-light-novel-ranking-for-august-2026/.241453
-
-<cite>Kirby: Mugen no Haguruma—Kiri ni Tsutsumareta Daijiken!?</cite> novel ranks at #2, <cite>Witch on the Holy Night</cite> part 1 novel ranks 3rd
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
@@ -97,11 +97,6 @@ BLEACH: Thousand-Year Blood War will change streaming schedule on numerous platf
 Sat, 05 Sep 2026 12:55:25 GMT — https://animecorner.me/mygo-covers-bocchi-the-rock-opening-song-seishun-complex/
 
 MyGO released a cover of the Bocchi the Rock anime's opening theme song "Seishun&hellip;
-
-### Katekyo Hitman Reborn! Releases Creditless Second Anime Opening Featuring "BOYS & GIRLS" by LM.C
-Sat, 05 Sep 2026 11:03:30 GMT — https://animecorner.me/katekyo-hitman-reborn-releases-creditless-second-anime-opening-featuring-boys-girls-by-lm-c/
-
-Katekyo Hitman REBORN! anime released the creditless version of its second opening, featuring "BOYS & GIRLS" by LM.C.
 
 ## MyAnimeList News
 

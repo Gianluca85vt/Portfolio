@@ -1,6 +1,11 @@
-# Games — harvested 2026-09-07T09:44:03.043Z
+# Games — harvested 2026-09-07T11:21:15.763Z
 
 ## Eurogamer
+
+### Onimusha: Way of the Sword has already sold over 1 million copies
+Mon, 07 Sep 2026 10:19:15 +0000 — https://www.eurogamer.net/onimusha-way-of-the-sword-one-million-sales
+
+If you were hoping Onimusha: Way of the Sword would revive the dormant series, you may get your wish. Capcom today announced the latest installment in the action game series has already sold over one million copies across all platforms. Read more
 
 ### "Many a brave knight are going to die" - Riot Games head Marc Merrill speaks on in-development MMO after 2XKO's untimely demise
 Mon, 07 Sep 2026 09:30:34 +0000 — https://www.eurogamer.net/riot-games-mmo-the-grail-pax-2xko
@@ -57,12 +62,12 @@ Sat, 05 Sep 2026 15:27:26 +0000 — https://www.eurogamer.net/sony-playstation-d
 
 Sony has pushed back on a wave of reports suggesting PlayStation disc manufacturing is about to be gutted by 90 percent after comments from a Sony DADC executive were allegedly misunderstood. Read more
 
-### Gamescom apologises for how it initially responded to indie developer hardware thefts
-Sat, 05 Sep 2026 12:44:17 +0000 — https://www.eurogamer.net/gamescom-apologises-indie-developer-hardware-theft-response
-
-Gamescom has apologised for the way it "communicated about the theft of hardware belonging to several indie developers" last week, admitting, "our first response did not strike the right tone, and it did not show the people affected the empathy they deserved". Read more
-
 ## GamesIndustry.biz
+
+### Gamescom issues apology for initial response to hardware thefts: "It did not show the people affected the empathy they deserve"
+Mon, 07 Sep 2026 10:38:03 +0000 — https://www.gamesindustry.biz/gamescom-issues-apology-for-initial-response-to-hardware-thefts-it-did-not-show-the-people-affected-the-empathy-they-deserve
+
+Gamescom has apologised for its initial response to theft reports at this year's event, acknowledging it "did not strike the right tone" or "show the people affected the empathy they deserve." Read more
 
 ### Niko Partners: Chinese games market surpasses $50bn for the first time in 2025
 Mon, 07 Sep 2026 07:54:06 +0000 — https://www.gamesindustry.biz/niko-partners-chinese-games-market-surpasses-50bn-for-the-first-time-in-2025
@@ -130,16 +135,21 @@ Sat, 05 Sep 2026 13:45:00 GMT — https://www.pushsquare.com/news/2026/09/marvel
 
 We are Venom. Insomniac is still working on its previously rumoured Marvel’s Venom game, according to dependable industry snoop NatetheHate2 . The unfortunately named leaker has accurately outed a number of projects over the years, and says Sony studio Insomniac is very much still beavering away on this spin-off. Read the full article on pushsquare.com
 
-### Guide: These 21+ PS5 Games Are Coming Out Next Week (7th-13th September)
-Sat, 05 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-21plus-ps5-games-are-coming-out-next-week-7th-13th-september
-
-Hot Wheels! Mewgenics! Valheim! More! I thought next week was going to be a bit slower on the PS5, but there’s actually more than 20 new titles launching for another consecutive week. Highlights include the new Hot Wheels game, Mewgenics , and the long-awaited release of Valheim . Read the full article on pushsquare.com
-
 ## Game Developer
 
 _Nothing in the last 48 hours._
 
 ## VGC
+
+### Pokémon Champions director vows to keep turn-based battles as single-player is ruled out
+Mon, 07 Sep 2026 11:18:10 +0000 — https://www.videogameschronicle.com/features/pokemon-champions-director-vows-to-keep-turn-based-battles-as-single-player-is-ruled-out/
+
+Masaaki Hoshino reflects on Champions' launch and discusses the future of competitive Pokémon… Source
+
+### Sega president explains why it made the decision to cancel its much-hyped Super Game
+Mon, 07 Sep 2026 09:47:39 +0000 — https://www.videogameschronicle.com/news/sega-president-explains-why-it-made-the-decision-to-cancel-its-much-hyped-super-game/
+
+The live-service project was announced in 2021 but was officially cancelled this year… Source
 
 ### Blood of Dawnwalker: Escape the dream in Home Sweet Home, or stay for a secret ending
 Mon, 07 Sep 2026 09:38:50 +0000 — https://www.videogameschronicle.com/guide/blood-of-dawnwalker-escape-the-dream-in-home-sweet-home-or-stay-for-a-secret-ending/
@@ -167,6 +177,21 @@ Sun, 06 Sep 2026 12:10:25 +0000 — https://www.videogameschronicle.com/features
 Hands-on: This South Korean online battle game makes it impossible for the player to avoid combat… Source
 
 ## Polygon
+
+### Dreamworks Unveils Its Dreamiest Animated Character Since Shrek
+Mon, 07 Sep 2026 11:00:14 GMT — https://www.polygon.com/forgotten-island-exclusive-image/
+
+Netflix and Sony won't deliver the next dose of Kpop Demon Hunters for at least a few more years, but in the meantime, DreamWorks is poised to fill that void with something arguably even better. The Universal-owned animation studio is set to release its new film, Forgotten Island . Polygon has scored an exclusive image from the upcoming movie ahead of release on Sept. 25.
+
+### An Iconic Playstation FPS Is Coming Back, Claims New Report
+Mon, 07 Sep 2026 10:50:27 GMT — https://www.polygon.com/killzone-remaster-guerilla-games-people-can-fly-report-2026/
+
+A Killzone remaster is in the works, according to a report from Mp1st . The article claims that Guerrilla Games is teaming up with a third-party studio, and while Mp1st couldn't get "definitive confirmation," they're led to believe it's with People Can Fly, the studio behind Bulletstorm and Outriders , as well as a co-developer on multiple Gears of War titles.
+
+### Onimusha Sells 1 million in a Day as Capcom Vows to 'Re-activate' More Old Series
+Mon, 07 Sep 2026 10:30:32 GMT — https://www.polygon.com/onimusha-way-of-the-sword-sales-1-million-capcom-run/
+
+Onimusha: Way of the Sword is yet another hit for Capcom. The first new mainline title in the historical action series in 20 years, Way of the Sword sold over 1 million copies on its first day of release, the developer/publisher announced Monday .
 
 ### The 10 Most Important Movies Coming This Fall
 Mon, 07 Sep 2026 09:00:14 GMT — https://www.polygon.com/top-10-most-anticipated-movies-of-fall-2026/
@@ -202,21 +227,6 @@ It takes a remarkable director to vanish for nearly a decade and return with a v
 Mon, 07 Sep 2026 02:00:24 GMT — https://www.polygon.com/lanterns-hector-hammond-explainer/
 
 While HBO’s DC Universe series Lanterns is mostly a grounded buddy cop mystery, showrunner Chris Mundy isn’t afraid to dig into the weirder corners of Green Lantern mythology. The show is focused on the threat of the Manhunters, the shapeshifting synthetic peacekeepers created by the Guardians of the Universe who eventually went rogue, leading to the creation of the Green Lanterns. We've also met fallen Lantern Sinestro (Ulrich Thomsen) and even one of the Guardians (Laura Linney). In episode 4, series co-creator Damon Lindelof and writer Justin Britt-Gibson added another classic Green Lantern villain to test John Stewart (Aaron Pierre) and Hal Jordan (Kyle Chandler), but viewers who haven’t read the comics might not realize his significance.
-
-### Fans Suspect DC's Official Wonder Woman Replacement Has Been Revealed
-Mon, 07 Sep 2026 01:04:34 GMT — https://www.polygon.com/wonder-woman-dcu-james-gunn-adria-arjona-maxima/
-
-When James Gunn cast Adria Arjona ( Andor , Morbius ) for next year's Superman sequel Man of Tomorrow , reports pegged the actor as playing a relatively obscure DC character named Maxima . But some DC fans have long speculated that Arjona was secretly cast as another, much more well-known DC superhero, Wonder Woman. A recent video featuring Arjona has only served to reignite those rumors, as the actor detailed her intense workout regimen to buff up for the recently released Onslaught and her next big movie, Man of Tomorrow .
-
-### Christopher Nolan's Greatest Sci-Fi Action Masterpiece Is Officially Free to Watch on YouTube
-Sun, 06 Sep 2026 22:00:14 GMT — https://www.polygon.com/christopher-nolan-sci-fi-inception-free-on-youtube/
-
-With the immense critical praise surrounding The Odyssey , Christopher Nolan has firmly secured his place as a modern cinematic icon. His movies often feel like intricate puzzle boxes that demand to be solved, from the interlocking timelines of Dunkirk to the structural sleight-of-hand in The Prestige . Looking back at his filmography reveals a director who consistently shatters genre tropes and redefines action cinema, anchoring his most mind-bending concepts in practical filmmaking.
-
-### New 85% on Metacritic Fantasy Action Game Just Shot Up to No. 1 on Steam Overnight
-Sun, 06 Sep 2026 20:11:13 GMT — https://www.polygon.com/steam-ominusha-way-of-the-sword-number-1-game/
-
-Onimusha: Way of the Sword , Capcom's latest action game set in a reimagined Edo-period Kyoto, debuted at No. 6 on Steam on Friday. SteamDB recorded 40,000 active players on the game's first day, an impressive feat when competing against fellow new release The Blood of Dawnwalker. That hot streak only continued into the weekend.
 
 ## PC Gamer
 

@@ -158,8 +158,9 @@ for what goes out, not a ceiling on how much does. Whether a second source is
 easy or hard to find is a research problem, and the answer to a hard one is to
 look harder, never to lower the bar.
 
-**Where it is checked, and where it must not be.** A published article carries
-`sources:` in its frontmatter:
+**Every draft carries this, whatever the frontmatter template in your prompt
+says.** Two entries minimum, two *different* publications, each of which
+reported the story independently and each of which you actually read:
 
 ```yaml
 sources:
@@ -168,6 +169,16 @@ sources:
   - outlet: VGC
     url: https://www.videogameschronicle.com/...
 ```
+
+If only one outlet has the story, write the draft anyway, leave `draft: true`,
+and say so in one line at the top of the body — "only <outlet> has this so
+far". Gianluca decides whether to hold it. Never invent a second source and
+never pad the list with something you did not read: an entry that is not real
+is worse than an empty field, because it turns a visible gap into an invisible
+lie.
+
+The feeds in `notes/feeds` are the first place to look, and `WebSearch` is the
+second — both routines have it.
 
 Two links to the same publication count once. That is the whole point: one wire
 story read twice is how a single source gets mistaken for corroboration.

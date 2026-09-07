@@ -1,6 +1,31 @@
-# Film & TV — harvested 2026-09-07T09:44:03.043Z
+# Film & TV — harvested 2026-09-07T11:21:15.763Z
 
 ## Variety
+
+### Tom Rothman on Sony s Spider-Man: Brand New Day Blockbuster Success, Being Outbid for Obsession and More
+Mon, 07 Sep 2026 11:13:12 +0000 — https://variety.com/2026/film/news/tom-rothman-sony-spider-man-brand-new-day-lumiere-summit-1236853815/
+
+Sony s Tom Rothman took a bit of a victory lap with the studio s boffo success of Spider-Man: Brand New Day, which has become the highest-grossing film of 2026 to date. Rothman, chairman and CEO of Sony Pictures Entertainment s Motion Picture Group, spoke Monday at the Lumière Summit in Saint-Paul-de-Vence, an international film and entertainment conference [ ]
+
+### SNL U.K. Adds Freddie Meredith to Cast
+Mon, 07 Sep 2026 10:50:57 +0000 — https://variety.com/2026/tv/global/snl-uk-freddie-meredith-adds-cast-1236853962/
+
+Saturday Night Live U.K. has added a new castmember for its second season with Freddie Meredith joining the gang. The comedian has previously starred in “Such Brave Girls” and “Big Boys.” Meredith, who recently won an award for best newcomer at the Edinburgh Fringe for his show “Need a Light?”, joins returning castmembers Hammed Animashaun, [ ]
+
+### Pamela Anderson Speaks Out on Overcoming Hepatitis C in Powerful Speech at amfAR Venice: I m Not a Victim. I m a Victor
+Mon, 07 Sep 2026 10:48:40 +0000 — https://variety.com/2026/film/festivals/pamela-anderson-hepatitis-c-amfar-venice-not-victim-1236853854/
+
+When Pamela Anderson was diagnosed with hepatitis C in the late 90s, there was no cure. It was a death sentence. That s what my doctor told me — that I probably had around 10 years to live, the Baywatch star recalled in a moving speech at the amfAR Gala in Venice. I m sure that colored [ ]
+
+### Female-Driven, Premium Period Dramas Spearhead Latest French Fiction Revolution
+Mon, 07 Sep 2026 10:00:00 +0000 — https://variety.com/2026/tv/global/premium-french-period-drama-unifrance-rendezvous-2026-1236849083/
+
+It s been almost 240 years since France started its very first Revolution. But fear not, French TV producers still have what it takes to bring yet another one to modern fiction, blending hints of past, present, and future. From Toronto-bound Alice recently boarded by SND to France Télévisions genre-bending thriller Swapped and Wild Bunch s latest [ ]
+
+### Screen Industries Adopt Five Thematic Declarations at Lumiere Summit, Setting Terms on AI, Piracy, Gender, Education and the Environment
+Mon, 07 Sep 2026 09:45:24 +0000 — https://variety.com/2026/film/global/lumiere-summit-five-declarations-ai-piracy-gender-education-environment-1236853918/
+
+Countries, screen industry bodies and rights organizations adopted five thematic declarations at the Lumière Summit on Monday at the Fondation Maeght in Saint-Paul-de-Vence, France, establishing shared frameworks across artificial intelligence, piracy, image education, gender equality and environmental sustainability. Among the signatories are France, the Republic of Korea, SACEM — the Société des auteurs, compositeurs et [ ]
 
 ### France Launches Global Initiatives to Support Independent Cinema and Establish Framework for Alliance of State Film Commissions: Lumiere Summit
 Mon, 07 Sep 2026 09:05:00 +0000 — https://variety.com/2026/film/news/iris-independent-film-france-macron-lumiere-summit-1236853718/
@@ -27,32 +52,27 @@ Mon, 07 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/news/toho-euro
 
 Monday s Lumière Summit in Saint-Paul-de-Vence generated a cluster of industry announcements alongside its headline declarations, with deals spanning co-production financing, distribution, exhibition and education. Toho Europe, the regional arm of Tokyo-based entertainment group Toho Co., Ltd. – founded in 1932 and best known internationally for the Godzilla franchise – announced a new branch in France. [ ]
 
-### Heritage Foundation ALIPH Targets Ukraine, Syria and Indonesia in New Film Rescue Program
-Mon, 07 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/news/aliph-film-heritage-program-ukraine-syria-indonesia-1236853842/
-
-With only an estimated 20% of the world s film heritage safeguarded, the International Alliance for the Protection of Heritage is making its first move into cinema. Announced Monday at the Lumière Summit in Saint-Paul-de-Vence, France, ALIPH s new Program for the Safeguarding of Cinematographic and Audiovisual Heritage at Risk will bring together emergency intervention, preservation, physical [ ]
-
-### Regal Cinemas, IFTA, CNC Launch Pilot to Test Whether Smarter Programming Can Reverse Falling Theater Admissions
-Mon, 07 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/news/regal-cinemas-ifta-cnc-pilot-reverse-falling-theater-admissions-1236853853/
-
-Regal Cinemas and the Independent Film Television Alliance (IFTA), together with the CNC, launched the Future of Distribution pilot on Monday at the Lumière Summit in Saint-Paul-de-Vence, France, a new international initiative that will hand under-used cinema screens to a neutral programmer in a bid to reverse falling theater attendance. The pilot gets [ ]
-
-### Louis Garrel on Being Nanni Moretti s Alter Ego and Doing Sex Scenes With Jasmine Trinca in It Will Happen Tonight : You Have to Feel a Real Connection
-Mon, 07 Sep 2026 08:58:51 +0000 — https://variety.com/2026/film/festivals/louis-garrel-nanni-moretti-sex-scenes-1236853194/
-
-French actor and director Louis Garrel, who gained international fame starring in Bernardo Bertolucci’s The Dreamers, is at the Venice Film Festival with a film by another Italian auteur, Nanni Moretti s It Will Happen Tonight. The romantic drama, which is competing for the prestigious Golden Lion, stars Garrel as Matteo, the male lead of a [ ]
-
-### France s Halley Production Boards Thriller Carro Seco, About Killer Who Targets Unscrupulous Barcelona Real Estate Speculators (EXCLUSIVE)
-Mon, 07 Sep 2026 08:37:12 +0000 — https://variety.com/2026/film/global/halley-production-los-hermanos-polo-carro-seco-1236852673/
-
-Paris-based Halley Production has boarded Javier Polo’s feature film thriller project “Carro Seco” ( Carreau ), showcased at the upcoming Iberseries Platino Industria’s Co-Production and Financing Forum in Madrid. Halley Production is partnering on “Carro Seco” with València-based Los Hermanos Polo Films, which Polo runs with brother Guillermo Polo, and Lastcrit in Barcelona. Set in a [ ]
-
-### ‘Strawberry and Chocolate’ Star Jorge Perugorría and Brazil’s Thiago Lacerda Lead Havana-Set ‘Hotel Nacional’ (EXCLUSIVE)
-Mon, 07 Sep 2026 08:03:42 +0000 — https://variety.com/2026/film/global/iberseries-jorge-perugorria-thiago-lacerda-hotel-nacional-1236851910/
-
-Cuba’s Jorge Perugorría, best known for his lead role in the iconic Oscar-nominated Cuban classic “Strawberry and Chocolate” (“Fresa y Chocolate”), has been cast in the upcoming film, “Hotel Nacional” which participates in the Iberseries Platino Industria Co-Production and Financing Forum. He plays opposite Brazilian star Thiago Lacerda, (“Seven Women”) who plays a grieving [ ]
-
 ## The Hollywood Reporter
+
+### Ira Sachs, Jordan Firstman and Diego Luna Among San Sebastian s Film Talks Lineup
+Mon, 07 Sep 2026 10:41:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ira-sachs-jordan-firstman-diego-luna-san-sebastian-film-1236693176/
+
+'Josephine' filmmaker Beth de Araújo and Argentine director Benjamín Naishtat will also sit down for discussions on their creative processes at the Spanish film festival.
+
+### Ellen Burstyn on Being Recognized by Marilyn Monroe, Changing Roles for Women With Alice Doesn t Live Here Anymore
+Mon, 07 Sep 2026 10:25:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ellen-burstyn-venice-film-festival-marilyn-monroe-1236693165/
+
+The 93-year-old Oscar-winning star is in Venice with two films, and to receive a honorary Golden Lion for lifetime achievement.
+
+### Gary Oldman Says a James Bond Has Been Picked — and He s Hoping It s Jack Lowden
+Mon, 07 Sep 2026 10:03:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gary-oldman-james-bond-cast-picked-jack-lowden-slow-horses-1236693169/
+
+"They have made their choice, but they have not announced it yet," Oldman says of the upcoming casting for Amazon MGM Studios' new Bond film.
+
+### Catherine Zeta-Jones Real Swansea Accent Is Loud and Proud in Trailer for AMC+ s Kill Jackie
+Mon, 07 Sep 2026 09:45:06 +0000 — https://www.hollywoodreporter.com/tv/tv-news/catherine-zeta-jones-kill-jackie-trailer-1236693134/
+
+The Welsh Oscar-winner plays Jackie Price in the series adaptation of Aidan Truhen's novel 'The Price You Pay.'
 
 ### Sabu s Arrested Memory Turns a Kidnapping Thriller Into an Amnesiac Cop Comedy
 Mon, 07 Sep 2026 09:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/venice-2026-hidden-gem-film-arrested-memory-sabu-1236688854/
@@ -84,27 +104,17 @@ Mon, 07 Sep 2026 02:49:53 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 Cardellini won the best supporting actress in a limited or anthology series or movie award for her performance in 'DTF St. Louis,' which also took home a few other trophies at the awards show on Sunday.
 
-### Creative Arts Emmys, Night 2: Winners List
-Mon, 07 Sep 2026 02:46:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-creative-arts-emmys-winners-list-night-two-1236685041/
-
-Sunday's ceremony includes the high-profile guest acting categories and the limited series supporting actor and actress awards.
-
-### David Harbour Thanks HBO for Tons of Notes as He Lands First Emmy Win
-Mon, 07 Sep 2026 02:27:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/david-harbour-best-supporting-actor-limited-series-2026-emmys-1236692774/
-
-Harbour won best supporting actor in a limited or anthology series or movie for his portrayal of Floyd Smernitch in 'DTF St. Louis.'
-
-### Carl Sagan: We Are Made of Star Stuff Review: Nanette Burstein s NatGeo Doc Prioritizes the Human Over the Intellectual, for Better and Worse
-Mon, 07 Sep 2026 02:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/carl-sagan-we-are-made-of-star-stuff-review-documentary-1236692092/
-
-The Telluride premiere focuses on the 'Cosmos' creator's marriages, kids and enjoyment of recreational drugs nearly as much the Viking and Voyager missions.
-
-### Spider-Noir Rakes in Several 2026 Emmy Wins Days After Being Canceled
-Mon, 07 Sep 2026 02:05:31 +0000 — https://www.hollywoodreporter.com/tv/tv-news/canceled-spider-noir-2026-emmy-wins-1236692875/
-
-The series, which was canceled by the streamer earlier this week, has been nominated for 11 awards at the 2026 Emmys.
-
 ## Deadline
+
+### SNL UK Adds Comedian Big Boys Actor Freddie Meredith To Season 2 Cast
+Mon, 07 Sep 2026 10:51:54 +0000 — https://deadline.com/2026/09/snl-uk-freddie-meredith-season-2-cast-1237070134/
+
+Saturday Night Live UK has added Such Brave Girls and Big Boys actor Freddie Meredith to the cast of the upcoming second season. Meredith, who is also a comedian, is coming off his Edinburgh Fringe debut show Need a Light?, which was nominated for a Best Newcomer Award. He will now join an ensemble also [ ]
+
+### BBC Rejects Complaints It Aired Too Much Coverage Of Harry Meghan s UK Return
+Mon, 07 Sep 2026 10:10:35 +0000 — https://deadline.com/2026/09/bbc-complaints-prince-harry-meghan-markle-1237070113/
+
+BBC News coverage of Prince Harry and Meghan Markle s decision to move back to the UK prompted viewer complaints. The BBC revealed that audience members contacted the UK broadcaster to raise concerns that it was dedicating too much airtime to the Duke and Duchess of Sussex. The BBC did not disclose how many complaints it [ ]
 
 ### BBC News Presenter Maryam Moshiri Reveals She Has Incurable Blood Cancer
 Mon, 07 Sep 2026 09:23:23 +0000 — https://deadline.com/2026/09/bbc-news-maryam-moshiri-incurable-blood-cancer-1237070106/
@@ -156,16 +166,6 @@ Mon, 07 Sep 2026 05:58:00 +0000 — https://deadline.com/2026/09/telluride-surpr
 
 UPDATE TO UPDATE 10.58 PM PST: The surprise film was indeed a new Fielder and Lance Oppenheim doc about Holmes. The early reaction on social from those who saw it in Telluride is very strong. Here s a teaser from A24, which as we first revealed is the studio behind the zany-looking project. Release is set [ ]
 
-### Emmys Night 2 Craft Awards Predict Smooth Sailing For ‘Widow’s Bay’ Alongside Celebrating ‘The Pitt’ ‘DTF St. Louis’
-Mon, 07 Sep 2026 04:33:20 +0000 — https://deadline.com/2026/09/emmys-night-2-craft-awards-winners-1237070001/
-
-On Emmys Night 2, the Television Academy proved that it was, in fact, DTF St. Louis. During Sunday night’s ceremony, formally known as the Creative Arts Emmys, HBO’s limited drama series picked up four wins across craft categories with Outstanding Cinematography for a Limited or Anthology Series or Movie, Outstanding Picture Editing for a Limited [ ]
-
-### Betty Gilpin Recites Manic Poem To Accept First Emmy For Widow s Bay : Let s All Lean Towards Sam Shepard Less Toward Sam Altman
-Mon, 07 Sep 2026 03:43:02 +0000 — https://deadline.com/2026/09/betty-gilpin-emmy-winner-widows-bay-sarah-speech-sam-altman-1237068778/
-
-Betty Gilpin capped a stellar night for Apple TV breakout Widow s Bay on Sunday by winning the Emmy in the Guest Actress In a Comedy Series category for playing one of the most dramatic and tragic characters in the horror comedy: the 18th century Sarah Westcott Warren. Taking the stage on Night 2 [ ]
-
 ## befores & afters
 
 ### Stranger Things and Spider-Noir win VFX Emmys
@@ -174,6 +174,11 @@ Mon, 07 Sep 2026 02:35:10 +0000 — https://beforesandafters.com/2026/09/07/stra
 Congrats to all the nominees! Outstanding Special Visual Effects in a Season or a Movie Stranger Things (s5) Betsy Paterson, Visual Effects Supervisor Michael Maher Jr., VFX Art Director Sean Ames, Additional VFX Supervisor Craig Seitz, Additional VFX Supervisor Tessa Roehl, VFX Co-Producer Chloe Lipp, Associate VFX Producer Brad Tobler, Senior VFX Editor Martin Hill, Senior VFX Supervisor, WĒTĀ FX Limited Richard Thwaites, VFX Producer, WĒTĀ FX Limited Bill Georgiou, VFX Supervisor, ILM Jessica Smith, VFX Consultant Mark Hawker, Special Effects Supervisor Outstanding Special Visual Effects in a Single Episode Spider-Noir • Nightmare On A Gurney Hnedel Maximore, VFX Supervisor Brooke Noska, VFX Producer Adam Rothstein, Additional VFX Supervisor Timothy Hanson, VFX On-Set Supervisor Jorge Macias, Lead VFX Artist Taylor Faulkinberry, Senior VFX Coordinator Joseph C Bond IV, VFX Editor Suzie Askham, VFX Supervisor (Cinesite) Tommy Tran, VFX Supervisor (Barnstorm) Cameron Neilson, VFX Supervisor (ILM) Adam Balentine, VFX Supervisor (Eyeline VFX) Sebastiano D’Aprile, VFX Supervisor (CoSA VFX) The post Stranger Things and Spider-Noir win VFX Emmys appeared first on befores & afters .
 
 ## IndieWire
+
+### You Can See Everything Review: Nathan Fielder and Lance Oppenheim s Elizabeth Holmes Documentary Is Boundary-Pushing and Absurd
+Mon, 07 Sep 2026 09:59:02 +0000 — https://www.indiewire.com/criticism/movies/you-can-see-everything-review-nathan-fielder-1235215268/
+
+Telluride: Everything we thought we knew about the beleaguered Theranos founder and convicted fraudster may or may not be true, according to A24's made-in-secret new documentary.
 
 ### Lanterns Review: Episode 4 Is All About The Weenie (s) — Spoilers
 Mon, 07 Sep 2026 02:00:00 +0000 — https://www.indiewire.com/criticism/shows/lanterns-review-episode-4-review-the-weenie-spoilers-1235214629/
@@ -230,11 +235,6 @@ Sun, 06 Sep 2026 12:48:51 +0000 — https://www.indiewire.com/news/festivals/sus
 
 ”There are still very strongly held positions within my industry that are held by Zionists and who have not relaxed their feelings toward me,” she said at the Venice Film Festival.
 
-### Danny Boyle Talks Returning to Telluride and Fighting to Make His Tabloid Sensation Ink
-Sun, 06 Sep 2026 00:45:00 +0000 — https://www.indiewire.com/features/interviews/danny-boyle-interview-ink-1235215117/
-
-The Oscar winner also explains his decision to use AI tools in 30 seconds of the film: "I didn't want an imitation Thatcher."
-
 ## The Wrap
 
 ### Unveiling Telluride s Big Secret: Elizabeth Holmes Documentary Is Sheer Craziness
@@ -289,6 +289,26 @@ Federal Communications Commission chairman Brendan Carr shared that the regulato
 
 ## Collider
 
+### The 7 Most Influential Adventure Movies of the Last 25 Years
+Mon, 07 Sep 2026 11:20:11 GMT — https://collider.com/most-influential-adventure-movies-last-25-years/
+
+Few movie genres have had so much staying power as adventure . Since the early days of cinema, audiences have been utterly transfixed by movies about grand, dangerous, and thrilling adventures in far-off lands, filled with daring heroes, handsome rogues, spirited damsels, and wicked villains. Adventure movies have had a long and storied journey on the big screen, from the early days of The Thief of Bagdad all the way to the Indiana Jones movies of the '80s.
+
+### 2 Years Later, Tom Hardy’s Sci-Fi Franchise Finale Is Officially a Surprise Streaming Success
+Mon, 07 Sep 2026 11:00:11 GMT — https://collider.com/tom-hardy-venom-the-last-dance-streaming-hit-disney-plus-september-2026/
+
+Director Guy Ritchie is never far from our screens, and he's back with a second season of two of his biggest shows this month. First is The Gentlemen , the Theo James -led crime comedy that took Netflix by storm. Second is the return of MobLand on Paramount+, which was a huge hit in its first season. It hasn't all been smooth sailing ahead of MobLand Season 2, with star Tom Hardy reported to have been fired from the show amid off-screen conflicts.
+
+### The Best ‘Transformers’ Movie Officially Hits a 40th Anniversary Setback
+Mon, 07 Sep 2026 10:30:11 GMT — https://collider.com/transformers-the-movie-the-ultimate-visual-history-art-book-release-date-delay-november-24-2026/
+
+The Transformers franchise has been around for over four decades now, and since then, the Autobots, Decepticons, and other alien machines have waged war across countless stages. Originally beginning as a toy line by Hasbro and Takara Tomy, it's since become one of the most profitable multimedia juggernauts out there, with 11 movies and an avalanche of animated series spread across different eras that don't just revolve around Optimus Prime and Megatron . Hollywood also brought them onto the big screen like never before with the visual spectacles that were Michael Bay 's ill-received but high-grossing live-action CGI films and their follow-ups, Bumblebee and Transformers: Rise of the Beasts . Yet, after 40 years, The Transformers: The Movie has come to be recognized as a cinematic high point of the franchise, with an epic story and surprising darkness and tragedy for a family film.
+
+### Ridley Scott’s 124-Minute Sci-Fi Spectacle Is Officially Returning to Streaming
+Mon, 07 Sep 2026 10:00:11 GMT — https://collider.com/ridley-scott-sci-fi-epic-prometheus-streaming-peacock-september-2026/
+
+Director Ridley Scott 's long-awaited return to the sci-fi genre with The Dog Stars didn't exactly go according to plan. The movie underperformed in its box-office debut and received mediocre reviews. It had been nearly a decade since Scott made a sci-fi movie; his previous release was Alien: Covenant , which fell short of box-office expectations as well and sent its iconic franchise into hibernation for several years. The Alien series was resurrected by Fede Álvarez 's Alien: Romulus , which grossed $350 million worldwide and received an 80% score on the aggregator website Rotten Tomatoes. Scott wasn't quite impressed, however. In a recent interview with AlloCiné, he described the movie as "okay" and expressed his intention to return to the series.
+
 ### 'The Legend of Zelda' Officially Celebrates 40th Anniversary With New Release Next Month
 Mon, 07 Sep 2026 09:30:11 GMT — https://collider.com/legend-of-zelda-tears-of-the-kingdom-secrets-of-the-zonai-artbook-40th-anniversary-release-october-20-2026/
 
@@ -318,24 +338,4 @@ War is hell, and it's simply a reality of the world we live in. From the earlies
 Mon, 07 Sep 2026 03:22:11 GMT — https://collider.com/most-perfect-sci-fi-shows-last-25-years-ranked/
 
 Over the course of the last quarter of a century, science fiction fans have been treated to TV shows that have proven beyond a shadow of a doubt that sci-fi television is alive and well in the 21st century . Whether these shows are family-friendly or fully for adults, whether they're cartoons or live-action gems, and whether they revolutionized the genre or simply added a new masterful entry to its canon, they're all essential viewing for sci-fi fans.
-
-### Queen’s Near-Perfect 1975 Love Song Still Stands as the Saddest of All Time
-Mon, 07 Sep 2026 03:10:36 GMT — https://collider.com/queen-saddest-song-of-all-time-love-of-my-life/
-
-Although Queen has had such an extensive catalog , their sound is perhaps most recognized for its genre-defying appeal and theatrical flair . The English rock band , formed in 1970, is best known for their high-energy and anthemic tracks like “We Will Rock You,” “Another One Bites The Dust,” “Don’t Stop Me Now,” “Hammer To Fall,” and, of course, the iconic “Bohemian Rhapsody.” But behind their bombastic discography also lie some mellow, emotional ones . One such track is “Love of My Life,” a 1975 soft rock single that is easily one of the most melancholic love songs of its era — and of all time.
-
-### ‘The Walking Dead: Dead City’ Just Delivered a Violent Villain Turn After 7 Episodes
-Mon, 07 Sep 2026 02:04:11 GMT — https://collider.com/the-walking-dead-dead-city-season-3-episode-7-dillard-negan-jimmi-simpson/
-
-Editor's note: The following contains major spoilers for The Walking Dead: Dead City Season 3, Episode 7.
-
-### 'Lanterns' Officially Picks Up Speed as Hal and John Hunt the Manhunter | Review
-Mon, 07 Sep 2026 02:00:21 GMT — https://collider.com/lanterns-episode-4-recap/
-
-Editor's note: The below recap contains spoilers for Lanterns Episode 4.
-
-### 10 Thriller Shows That Get More Intense With Every Single Episode
-Mon, 07 Sep 2026 01:22:11 GMT — https://collider.com/thriller-shows-intense-every-episode/
-
-A thriller can have the best premise in the world, but all of that comes crashing down if it peaks too soon. Everyone knows that the genre is nothing without escalation. That means every chapter has to make the situation worse or reveal something that completely changes what the audience thought they knew. If the tension just resets after every episode, that sense of danger completely disappears.
 

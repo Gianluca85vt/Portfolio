@@ -1,8 +1,13 @@
-# Source feeds — harvested 2026-09-07T09:44:03.043Z
+# Source feeds — harvested 2026-09-07T11:21:15.763Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
 own feed: headline, link, date, and their summary.
+
+> **Every draft needs `sources:` with two different outlets.** Not two
+> links to the same publication, which is one source read twice. If only
+> one outlet has the story, write it, keep `draft: true`, and say so in
+> the first line of the body. See notes/article-voice.md.
 
 ## Editorial mix — what the archive owes
 
@@ -18,13 +23,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 26 items
+- [Manga](manga.md) **owed** — 25 items
 - [Film & TV](film-tv.md) **owed** — 65 items
-- [Games](games.md) — 59 items
-- [Tech](tech.md) — 67 items
-- [3D](3d.md) — 8 items
+- [Games](games.md) — 61 items
+- [Tech](tech.md) — 68 items
+- [3D](3d.md) — 9 items
 - [AI](ai.md) — 3 items
 
-Total: 228 items.
+Total: 231 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

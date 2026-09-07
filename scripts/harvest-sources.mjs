@@ -178,11 +178,17 @@ let index = `# Source feeds — harvested ${stamp}\n\n`;
 index += `Fetched by GitHub Actions, which is not behind the writer's egress proxy.\n`;
 index += `One file per category. Each item is what the publisher syndicates in its\n`;
 index += `own feed: headline, link, date, and their summary.\n\n`;
-index += `${report(articles)}
-`;
-index += `## Feeds
-
-`;
+// Repeated here, at the top of the file the writer opens before it chooses a
+// subject, because the frontmatter template it copies lives in its own prompt
+// and that template does not mention this field. A rule reachable only by
+// following a link out of another file is a rule that gets missed on a busy
+// run - which is how the archive ended up with 117 pieces naming no outlet.
+index += `> **Every draft needs \`sources:\` with two different outlets.** Not two\n`;
+index += `> links to the same publication, which is one source read twice. If only\n`;
+index += `> one outlet has the story, write it, keep \`draft: true\`, and say so in\n`;
+index += `> the first line of the body. See notes/article-voice.md.\n\n`;
+index += `${report(articles)}\n`;
+index += `## Feeds\n\n`;
 
 let totalItems = 0;
 let failures = [];
