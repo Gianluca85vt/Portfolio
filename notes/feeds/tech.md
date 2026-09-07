@@ -1,6 +1,11 @@
-# Tech — harvested 2026-09-07T11:21:15.763Z
+# Tech — harvested 2026-09-07T16:03:02.888Z
 
 ## Ars Technica
+
+### The complex corporate web behind a $3.2 billion AI data center
+Mon, 07 Sep 2026 11:00:03 +0000 — https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/
+
+In early June, a fire broke out in a still-unfinished building at the Lake Mariner data center in Somerset, New York, exposing just how little the local fire department knew about what it was walking into. Firefighters reportedly found no working alarm, no suppression system, and three dead hydrants; the safety documents they’re legally entitled to see reportedly burned up in the blaze. Steve Matisz, chief of the Barker Fire Department, said his crew went into the building “kind of blind,” facing heavy black smoke from chemicals they couldn’t identify because the safety sheets meant to inform them had apparently burned up. “It’s been a difficult situation,” Matisz said. He wasn't sure what to think about the claim that the safety sheets had burned in the fire. The site is a former coal mine on Lake Ontario. The $3.2 billion campus is one of the largest AI data center buildouts in New York, and it has many stakeholders. A company called TeraWulf owns and operates the data center on land it leases from a company owned by its own CEO; Fluidstack, a UK-based AI company, will run the center; Google holds warrants for a future 14 percent equity stake and has agreed to guarantee Fluidstack’s lease payments; and Anthropic is among the AI companies whose compute demand the facility exists to serve. Read full article Comments ]]>
 
 ### German company becomes first in Europe to launch fully commercial orbital rocket
 Sun, 06 Sep 2026 11:55:26 +0000 — https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/
@@ -12,12 +17,22 @@ Sun, 06 Sep 2026 10:00:35 +0000 — https://arstechnica.com/science/2026/09/farm
 
 Eat more fatty fish. That dietary advice has changed the way the world consumes salmon, pushing consumer demand ever upward and production to higher and higher levels. Most of that demand is being met with farmed salmon: Today, nearly 70 percent of the salmon consumed on the planet are raised in pens and cages. The US Department of Agriculture’s Dietary Guidelines for Americans recommend eating at least 8 ounces of fish a week and urges people to choose salmon or other species that are similarly high in “heart-healthy” Omega-3 fatty acids. But new research led by USDA scientists finds that levels of these fatty acids in farmed salmon have dropped considerably, potentially making the agency’s own advice, and similar recommendations, including from the American Heart Association, outdated and insufficient. Read full article Comments ]]>
 
-### Tesla’s Cybercab has been deployed, and it’s already under investigation
-Sat, 05 Sep 2026 15:17:36 +0000 — https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/
-
-Tesla’s Cybercab, a distinctive two-seater without a steering wheel or brake pedals, is set to start picking up members of the public in two states. But the vehicle is already under investigation by the US federal government, which is probing whether it meets federal safety standards. The investigation comes just hours after the electric automaker welcomed hundreds of fans to downtown Austin to ride in the driverless Cybercabs. Tesla plans to deploy the vehicles on its Robotaxi ride-hail network , which is currently operating in a handful of cities in Texas and Florida. The National Highway Traffic Safety Administration is updating vehicle standards to make it easier and faster for driverless cars to deploy on public roads. It’s currently tweaking eight rules, including those requiring car parts that driverless cars don’t really need: brake pedals, windshield wipers, and rearview mirrors. But for now, years-old standards remain in place. Read full article Comments ]]>
-
 ## The Verge
+
+### Six years later, Sony revisits its legendary XM4 headphones
+2026-09-07T12:00:00-04:00 — https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones
+
+The XM4C (in white) have the exact same visual design as the XM4 (in black) from 2020. | Photo: John Higgins / The Verge Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive ANC, and compact size, until they went out of stock. Now Sony has brought them back, with minor improvements, as the WH-1000XM4C. The XM4C look identical to the original XM4 (although they now have a lavender option), with the same hinge design and ability to fold up. It's a compact design that Sony moved away from when it released the XM5 in 2022 , … Read the full story at The Verge. ]]>
+
+### EcoFlow makes the miniature power station even smaller
+2026-09-07T10:59:41-04:00 — https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller
+
+The River 260 Gen4 (on the table) powering a portable fridge, Starlink Mini, and charging a phone. | Image: EcoFlow If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the largest airline-approved power banks, respectively. Better yet, the batteries are built using longer-lasting LFP chemistry that's far less volatile. The River 260 Gen4 features four USB ports, and 300W of max continuous output delivered out its lone AC jack. The River 500 Gen4 features the same USB port selection but offers a pair of AC jacks good for 5 … Read the full story at The Verge. ]]>
+
+### The real reason your phone is getting more expensive
+2026-09-07T08:00:00-04:00 — https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone
+
+When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it " chipflation " or " RAMageddon ." The shortage is reversing a decades-long decline in memory costs that helped make consumer electronics more powerful without making them dramatically more expensive. The terms "memory prices" and "memory shortage" appeared in 473 company transcripts last quarter, according to data provided by AlphaSense . The … Read the full story at The Verge. ]]>
 
 ### Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds
 2026-09-07T07:00:00-04:00 — https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8
@@ -54,22 +69,37 @@ Boox teased the Picco , its take on the buzzy Xteink X4 e-reader, back in July, 
 
 Repairability rules. The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themselves required a lot of sacrifices, like putting up with underpowered processors and bad cameras, in order to embrace the sustainability mission. The latest generations of Fairphone have inched toward closing that gap, and the 6 Plus achieves two huge milestones: It feels very much like using a middling Android phone, and it's actually on sale in the US. The 6 Plus is a … Read the full story at The Verge. ]]>
 
-### Competitive Pokémon is on phones now, but you still need a Switch to become a champion
-2026-09-06T09:00:00-04:00 — https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility
-
-To get started with competitive Pok&eacute;mon battles, all you need is your phone. But to compete at the highest level, like at the Pok&eacute;mon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator Pok&eacute;mon Champions originally launched on the Switch and Switch 2 in April, with the mobile version following in June. The experience is nearly identical across the game's versions; since it's cross-platform, the choice really comes down to what devices you own and whether you prefer tapping or using a controller. I find myself playing Champions on my phone more often just because it's always in … Read the full story at The Verge. ]]>
-
-### DIY plug-in solar gains momentum in the US
-2026-09-06T08:00:00-04:00 — https://www.theverge.com/column/990183/diy-plug-in-solar-us
-
-EcoFlow’s high-end, weatherproof, plug-in solar kit with integrated battery. | Image: EcoFlow This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere , follow Thomas Ricker . The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here . How it started With a deep breath, I took the cable seething with 800W of solar power and plugged it directly into a standard wall jack in my home. Nothing sparked, nothing smoked, and by the end of that sunny summer day, my electricity bill had dropped to nearly $0. As unnerving as it sounds to treat a common household power outlet like a power input , these DIY plug-in s … Read the full story at The Verge. ]]>
-
-### Explore the globe in field recordings
-2026-09-05T17:31:34-04:00 — https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings
-
-Around the world in 80 WAVs. | Screenshot: Terrence O’Brien / The Verge I love field recordings. I love making them. I love them when they're incorporated into my ambient music . They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a globe to explore with real field recordings taken from various locations. Earth Garden is inspired by Radio Garden (which you should also check out) except, instead of exploring the world via radio, it's environmental sounds. There are waves lapping at the shores of remote islands in the Atlantic, a chorus of crickets in Tanzania, and rainfall on … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Save up to 38% on a new gaming PC before the Labor Day sales end and beat the price rises — lock down last-minute savings on new pre-built rigs from Best Buy, Newegg, and Walmart
+Mon, 07 Sep 2026 16:00:16 +0000 — https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-38-percent-on-a-new-gaming-pc-before-the-labor-day-sales-end-and-beat-the-price-rises-lock-down-last-minute-savings-on-new-pre-built-rigs-from-best-buy-newegg-and-walmart
+
+It's Labor Day, and if you're quick, you might be lucky enough to grab a bargain on a new gaming PC. The sales have been running thick all weekend, and with just hours to go before the day ends, these discounts are running out. You can save over $1,200 on a new gaming PC right now, with some prices dropping back to levels we've not seen since earlier in the year. ● Check out these gaming PC deals at Best Buy ● Last minute Labor Day deals on Walmart for gaming PCs ● Newegg gaming PC deals for Labor Day There's no guarantee that we'll see prices this good for a while. The PC hardware market has seen prices for parts, from SSDs to RAM, skyrocket since last year. Deals continue to be the best way to upgrade you rig, especially if you're buying a pre-built, but each week and month brings further price increases. Today might have been the best time to buy, because we just don't know how the market is going to be in six weeks or months' time. These deals are the best way to pick up a gaming PC right now, unless you want to pay prices at the very top, and give you an opportunity to bag a bargain before that happens. With Labor Day deals nearly over, here are some of the biggest and best discounts you'll find on a gaming PC from all the big retailers, including Best Buy, Newegg, and Walmart. Best Labor Day Gaming PC Deals Grab a huge saving on this ABS Kaze II Aqua gaming PC, made and shipped by Newegg. It comes equipped with an AMD Ryzen 7 9800X3D, Nvidia GeForce RTX 5080, 32GB of DD
+
+### xTool reveals its next generation of lasers — modular X1 supports CO2, Diode, UV, Fiber, and MOPA lasers
+Mon, 07 Sep 2026 14:05:05 +0000 — https://www.tomshardware.com/maker-stem/xtool-reveals-its-next-generation-of-lasers-modular-x1-supports-co2-diode-uv-fiber-and-mopa-lasers
+
+xTool says its new X1 laser will be the last one you’ll ever need. The machine is modular, allowing users to add every style of laser xTool makes to the system: CO2, Diode, UV, Fiber, and MOPA. It will also be xTool’s first flying-galvo unit, combining the large size of a gantry system with the speed of a galvo. And if that isn’t interesting enough, it's also a dual-head system, meaning the galvo will sit side by side with a CO2 laser. The unit will be able to pick and choose which head to deploy for the job – both if needed. (Image credit: Tom's Hardware) The announcement was made at The Next Level Maker Conference in Grapevine, TX. The event is a combination of maker retreat and expo, with a wide variety of classes and motivational talks by experts who have turned maker hobbies into successful businesses. Disclaimer: xTool provided travel accommodations for this trip. Coverage remains editorially independent. Previous “all in one” machines have used swappable toolheads, but these have been limited to various powers of diode and IR lasers. The X1 will use a swappable backpack system to provide the different laser frequencies routed to the galvo toolhead. This means the galvo can be a wood-burning diode, a crystal engraving UV, or a metal etching MOPA. The machine’s default build will be a powerful 55w CO2 laser paired with a 20w diode for the galvo head. No price was mentioned at the reveal, so we’ll have to wait until closer to the laser’s October launch date to learn more.
+
+### OpenAI’s GPT-6 Astra model autonomously completes Portal in 24 hours — feat cost just $571 in tokens
+Mon, 07 Sep 2026 13:25:56 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-6-astra-model-autonomously-completes-portal-in-24-hours-feat-cost-just-usd571-in-tokens
+
+An AI and LLM enthusiast has conducted an experiment where OpenAI's new GPT-6 Astra played through the entirety of Valve's Portal 3D puzzler game on its own. This seems like a remarkably progressive step forward for LLMs and a convincing demonstration of multimodal 'AI intelligence.' It wasn’t that long ago AIs were losing at Atari 2600 chess . However, this puzzle gaming task resulted in 3,336 tool calls and a headline API cost of $571.18. CozyBlaze, the enthusiast, has since clarified that the costs were covered by their $200 Codex Pro subscription. The video above has Astra’s thinking/pauses removed to make watching somewhat bearable. “The model controls Portal through MCP [Model Context Protocol] + a modified SourcePauseTool,” explains CozyBlaze. “The game stays paused while the model thinks; once the model sends an input sequence, SPT unpauses and executes it.” During the thinking time, the AI received screenshots and information about the player character position. After this, the game resumed, and Astra executed its planned moves and inputs. This is why the edited highlights reel is ~ 2 hours, but the full set of GPT-6 Astra Portal VOD streams adds up to ~24 hours. And... GPT-6 Astra has autonomously completed Portal! I didn’t expect this to happen so soon, but I’m glad we've made so much progress here.I was reminded that back in 2016, one of OpenAI’s technical goals was to “solve a wide variety of games using a single agent.” pic.twitter.com/2nVREdCbMI September 5, 20
+
+### Astonishing mod runs DLSS 5 on a second GPU to boost neural-rendered FPS up to 127% — game renders on one card, neural post-processing runs on the other, much like dedicated PhysX GPUs
+Mon, 07 Sep 2026 12:33:56 +0000 — https://www.tomshardware.com/pc-components/gpus/astonishing-mod-runs-nvidia-dlss-5-on-a-second-gpu-using-a-reshade-add-on-to-reduce-performance-impact-boosts-neural-rendered-fps-up-to-127-percent-game-renders-on-one-card-neural-post-processing-runs-on-the-other-much-like-dedicated-physx-gpus
+
+Nvidia's DLSS 5 Neural Rendering technology has taken the PC gaming world by storm since its recent leak and then official rollout in recent days. In what might be one of the most impressive technical applications and mods of the feature yet, one developer has showcased DLSS 5 running on a second GPU to share the processing load, rendering the game on the first GPU before applying Neural rendering at the end of the frame, thus boosting the performance of neural-rendered frames. Marcelo Guibout shared the demonstration online, with videos showing the process running on a cinematic video from The Blood of Dawnwalker, as well as Cyberpunk 2077. Guibout was quick to clarify that the videos are technical showcases, not benchmarks. However, they did share some performance figures. More exciting still, you can download the project from GitHub and try it for yourself. However, the technique does require a second display and doubles the display latency. The above demonstration features a Ryzen 7 7800X3D, 32GB DDR5 setup with two Nvidia RTX 5060 Ti 16GB GPUs, with both cards using PCIe 5.0 x8, and a display attached to each card. The ReShade add-on, dubbed MGPU Bridge, reads each finished frame before applying Nvidia's Neural rendering. "Neural rendering happens at the end of the frame: it takes a finished frame and hands a finished frame back," they explain. "That is what makes it possible to pick it up and run it somewhere else. The add-on creates its own D3D12 device on your second 
+
+### Montech Century II Gold 850W ATX 3.1 power supply review: Excellent budget-friendly Gold-tier ATX 3.1 unit with Cybenetics Platinum efficiency
+Mon, 07 Sep 2026 12:05:00 +0000 — https://www.tomshardware.com/pc-components/power-supplies/montech-century-ii-gold-850w-atx-3-1-power-supply-review
+
+Montech is one of those brands that, despite a relatively recent international profile, traces its lineage back through the Taiwanese components industry to engineers with three-plus decades of experience. The company formally took shape in 2016 and entered Western retail channels around 2019, initially building its name on aggressively priced PC cases. From that beachhead, Montech expanded methodically into air and liquid coolers, fans, mechanical input devices, and, most relevant for this review, power supplies. The original Century line positioned Montech at the value-conscious end of the PSU market. At the same time, the more recent Titan series advanced to premium territory by relying on Seasonic and CWT for its underlying platforms. The Century II line, refreshed for ATX 3.1 and PCIe 5.1 with native 12V-2x6 connectivity, sits between those bookends. It is meant to deliver modern-spec compliance and Gold-level efficiency at a price point that undercuts the established premium players by a meaningful margin. The 850W model is the entry point of the family, and today we examine whether it belongs among our list of best power supplies on the market. Specifications and Design Montech Century II Gold 850W ATX 3.1 Power specifications (Rated @ 40 °C) RAIL +3.3V +5V +12V +5Vsb -12V MAX OUTPUT 20A 20A 70.8A 3A 0.3A 100W 100W 849.6W 15W 3.6W TOTAL 850W AC INPUT 100 - 240 VAC, 50 - 60 Hz MSRP $90 In the Box The Century II 850W ships in a tidy cardboard box dressed in a charcoal/si
+
+### GTA Vice City and GTA III return to web browsers after a DMCA takedown — Open-source reverse engineering brings the classics to the web with over 100 FPS performance
+Mon, 07 Sep 2026 11:30:00 +0000 — https://www.tomshardware.com/video-games/gta-vice-city-and-gta-iii-return-to-web-browsers-after-a-dmca-takedown-open-source-reverse-engineering-brings-the-classics-to-the-web-with-over-100-fps-performance
+
+Grand Theft Auto: Vice City has cemented itself as one of the most legendary games of all time. It originally came out in 2002 on the PS2 before making its way to the Xbox and PC a year later. Fast forward to 2026, and now the game is entirely playable in a browser window. It was actually already playable last year on DOS Zone but was quickly shut down following a DMCA strike from Take-Two. However, a different website called " Quenq " has taken up the mantle now, and it also hosts GTA III there. The project is still the same because it quite literally says DOS Zone in the pause menu. Anyhow, for a change of pace, we tried the game on a OnePlus 12; it loaded immediately and ran without any issues. Beyond keyboard/mouse and controller, the game is also compatible with touchscreen controls. We were able to seamlessly move around the world and control Tommy in both landscape and portrait orientations. You get a save game and mod manager, allowing you to upload your own files right into the browser. You can type cheats using an external keyboard as well. There's an FPS limit option before the game begins because GTA Vice City was intended to run at 30 FPS, so playing it at unlocked framerates (which this port supports) can sometimes cause bugs and physics to break. We were able to easily play the game past 100 FPS on desktop, though. Future Future The project likely uses reVC — a community project that decompiles the original source code of GTA: Vice City into clean, readable C++
 
 ### Anycubic Photon P1 MAX review: bigger, better, and tech-packed
 Mon, 07 Sep 2026 11:05:00 +0000 — https://www.tomshardware.com/3d-printing/anycubic-photon-p1-max-review
@@ -101,37 +131,17 @@ Mon, 07 Sep 2026 10:27:52 +0000 — https://www.tomshardware.com/desktops/gaming
 
 The price of PC parts continues to rise on a daily basis, so finding a monstrous gaming PC cheaper than it was in April is no small feat. Right now at Newegg, you can score an RTX 5080 gaming PC with a 9800X3D CPU, the ultimate in 4K gaming performance, for $2,999 . A $500 saving that makes it cheaper than when we covered this same deal back in April. ● Check out this deal on Newegg's website The individual cost of some of these components makes this a pretty remarkable deal in Fall 2026. The RTX 5080 GPU in this rig alone will set you back more than $1,500 in today's market. The CPU is nearly $500, bringing the cost of just those two components to 2/3 of the build's entire price. RAM and SSD prices are heavily inflated, which means 32GB of DDR5 would normally set you back $400 right now. Add the storage to the bill of materials, and you've covered nearly the entire cost of this PC before you've added the case, fans, cooler, motherboard, and PSU. With the best CPU for gaming on the market and a huge GPU, this PC is no slouch either. use coupon code abs5april for extra 5% off Grab a huge saving on this ABS Kaze II Aqua gaming PC, made and shipped by Newegg. It comes equipped with an AMD Ryzen 7 9800X3D, Nvidia GeForce RTX 5080, 32GB of DDR5 RAM, and a 2TB SSD. View Deal While the 9800X3D is not quite the fastest gaming CPU on the market these days, it is still the best all-rounder by some distance thanks to its combination of power efficiency and performance compared to the 98
 
-### Enthusiast says DLSS 5 pushed RTX 5090 past 600W and melted the 16-pin connector — Nvidia's neural rendering tech adds up to 50% more power draw in testing
-Mon, 07 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/pc-components/gpus/enthusiast-says-dlss-5-pushed-rtx-5090-past-600w-and-melted-the-16-pin-connector-nvidias-neural-rendering-tech-adds-up-to-50-percent-more-power-draw-in-testing
-
-The RTX 5090 is no stranger to controversy thanks to the incendiary nature of its 16-pin connector. When you add something as taxing as DLSS 5, which comes with a heavy increase in power draw, to an already dangerous mix, you're just cooking up a recipe for disaster. And it seems like this recipe has likely claimed its first victim. HardOCP forum member Erek claimed their RTX 5090 fell prey to the woes of the 16-pin connector yesterday, as it melted while testing DLSS 5 in NBA 2K27 . The irony is not lost on us that NBA 2K27 is the only game that officially supports DLSS 5 right now — everything else is modded — yet it still reportedly killed the user's MSI RTX 5090 Gaming Trio OC, which carries a 575W TDP. However, during testing, erek reported his GPU going past 600W, with GPU-Z showing it hovering above 610W consistently, not just as a spike. Before this, the card only consumed around 450W while gaming, implying that DLSS 5 added more than 150W to the power draw. (Image credit: erek on HardOCP Forums) While the 16-pin connector is capable of carrying up to 600W of power, the PCIe x16 slot the card is plugged into also provides 75W on its own. So, the connector wasn't necessarily drawing over 600W alone. Tragedy struck right after as Erek's RTX 5090 started exhibiting signs of instability and eventually stopped working entirely. The owner smelled something burning and, sure enough, found the 16-pin connector pulling an age-old classic: melting. The plastic on the connector 
-
-### Single-slot low-profile 75W RTX 3060 with no power connectors disappoints in tests — GPU runs entirely off the PCIe slot, but offers severely crippled performance and frightening thermals
-Sun, 06 Sep 2026 14:58:29 +0000 — https://www.tomshardware.com/pc-components/gpus/single-slot-low-profile-75w-rtx-3060-with-no-power-connectors-disappoints-in-tests-gpu-runs-entirely-off-the-pcie-slot-but-offers-severely-crippled-performance-and-frightening-thermals
-
-Nvidia launched the GeForce RTX 3060 (12GB) in early 2021 as an affordable mainstream gaming GPU with a 170W TDP, before re-releasing two months ago to offer relief during the ongoing component crisis. Throughout this time, not one person thought that the 3060 consumed too much power... except someone in China who decided to make a 75W version of the card. This blower-style variant has no 6- or 8-pin power connectors and runs entirely off the PCIe slot it'll be connected to, resulting in some expectedly underwhelming performance. you may wonder why someone would need to set the power limit lower than what nvidia allows. someone in china makes a cableless 3060 that requires no external power connection. an 3060 runs at 170w stock, but it can go as low as 100w.a bilibili channel (WestmereX丶冷月) recently… https://t.co/Hn9PPrRHRY pic.twitter.com/pRuuRthwNc September 4, 2026 The RTX 3060 takes very well to undervolting and, therefore, can already be taken all the way down to just 100W at the cost of modestly reduced performance. A single PCIe x16 slot can provide up to 75W of power, so forcing a 3060 down to that number requires a shunt mod. This practice is usually associated with unlocking power limits on a GPU to chase overclocking feats where you decrease resistance, but in this case, you'd be increasing it. This is a single-slot, low-profile card with a blower-style cooler about the size of a modern smartphone. You get just 1x HDMI and 1x DisplayPort in terms of connectivity. 
-
-### OpenAI admits to 'wiki incident' after its agents were discovered using a programming hub to communicate — says more transparency is needed regarding misalignments
-Sun, 06 Sep 2026 14:31:54 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-admits-to-wiki-incident-after-its-agents-were-discovered-using-a-programming-hub-to-communicate-says-more-transparency-is-needed-regarding-misalignments
-
-OpenAI has admitted that its experimental AI agents used an open German programming wiki to communicate, according to a Reuters report. This happened weeks before similar AI agents broke through restrictions and compromised Hugging Face , the report claims. Knowing about the issue, OpenAI did not disclose it, but now says the industry needs better standards for reporting unintended AI behavior. OpenAI admitted the misconduct. But this wrongdoing raises more questions than it provides answers. How we think about the “wiki incident,” where our agents wrote to several internet sites: it’s past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.Historically, we have treated misalignment… pic.twitter.com/NNTbfSxVWn September 5, 2026 Starting around May 2026, thousands of OpenAI agents — which are essentially well tooled advanced crawlers — discovered that they could write to DseWiki, an old German-language programming collaborative website. So, between May and June, the agents used more than 3,700 names to generate some 18,000 posts exchanging information useful for completing evaluations and circumventing restrictions. Some created backup pages in case moderators deleted their posts, something that essentially turned a wiki into a persistent storage service for the said agents to share information. OpenAI calls this the 'wiki incident' and admits the wrongdoing. "Our misalignment disclosure practices ne
-
-### FSP Mega GM 1200W power supply review: An in-house FSP platform that quietly overshoots its own Gold label
-Sun, 06 Sep 2026 13:57:18 +0000 — https://www.tomshardware.com/pc-components/power-supplies/fsp-mega-gm-1200w-power-supply-review
-
-FSP is not a brand that needs an introduction so much as a reminder of scale. Founded in Taiwan in April 1993 as a joint venture between Fortron/Source of the United States, Sparkle Power International, and Powertech Systems — the three names that give the company its initials — FSP grew into one of the largest power-supply manufacturers in the world. It became one of Intel’s early seed partners during the formative years of the ATX standard, was listed on the Taiwan Stock Exchange in 2002, and has spent three decades quietly building units for a long list of system integrators and consumer brands. When most companies want a power supply, they call an OEM. FSP is the company that frequently gets the call. That distinction matters here. The Mega GM is not a contracted design wearing someone else’s sticker but FSP’s own platform, engineered and assembled under its roof. We evaluate the Mega GM 1200W to see whether it belongs on our best power supplies list. The series spans 850W, 1000W, and the 1200W flagship reviewed here, all built around the same ATX 3.1 and PCIe 5.1 brief: native 12V-2x6 delivery, support for the 200% transient power excursions modern GPUs demand, and FSP’s proprietary MTLC (Micro Tolerance Load Control) regulation scheme. On paper, it is positioned as a Gold-class product. In practice, as the testing will show, it behaves like something a tier above. Specifications and Design FSP Mega GM 1200W ATX 3.1 — Power Specifications (Rated @ 50 °C) RAIL +3.3V +5V +
-
-### Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures — facility operated for years under a city stop-work order
-Sun, 06 Sep 2026 13:44:22 +0000 — https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order
-
-A Bitcoin mining data center in El Reno, Oklahoma, has been condemned after it leaked 3 million gallons of water, reports Koco TV News . Schools, businesses, and city and county offices were all closed last week due to the leak. According to the source report, the Athlon Blockchain LLC-owned data center shouldn’t even have been operating, as the city issued it a Stop Work Order in 2023 due to “multiple fire and life safety code violations as well as the expiration of the building and electrical permits that had previously been issued.” The city asserts that none of the costs related to the water leak at the property will be passed on to citizens, according to the source. We don’t know whether the Bitcoin mining data center development went ahead despite the Stop Work Order in 2023 due to ignorance or a devil-may-care attitude toward regulation. Koco reports that the owner of the property was given until the end of 2023 to comply with safety codes and obtain new permits, while construction should have been put on hold. Now it is believed that the firm building the facility set up the data center and began operations without any further consultation with the city. Perhaps the owners thought they could sidestep the Stop Work Order by housing the data center in an array of shipping containers. Clearly, regulators should check that codes, directives, and ordinances are obeyed. This incident shows a disastrous leak from an insufficiently policed operator with serious repercussions 
-
-### Samsung 990 2TB PCIe 4.0 SSD falls to $339.99 on Amazon — $190 discount makes high-capacity storage more affordable
-Sun, 06 Sep 2026 13:08:31 +0000 — https://www.tomshardware.com/pc-components/ssds/samsung-990-2tb-pcie-4-0-ssd-falls-to-usd339-99-on-amazon-usd190-discount-makes-high-capacity-storage-more-affordable
-
-When it comes to high-speed storage, SSD prices have been at an all-time high due to the ongoing turbulence in the memory market. However, if you are looking for a speedy drive with plenty of capacity, Samsung’s freshly launched 990 PCIe Gen 4 SSD with 2TB capacity is already selling at a discount. You can grab the drive at $339.99 at Amazon , down from its usual price of $529.99. Check out the deal on Amazon The Samsung 990 series was launched earlier this year, right in the midst of the RAMpocalypse. The SSD is essentially a QLC-based version of the 990 EVO Plus. QLC SSDs can be a good choice for gaming, as it mostly involves reading data rather than writing it. QLC drives are slower than TLC, but frequently used data can stay in the faster pSLC cache if the drive has enough free space. The Samsung 990 also features the company’s PiccoloQ controller with V9 QLC Flash memory and is capable of full PCIe Gen 4 throughput. SSD 990 2TB: was $529.99 now $339.99 The Samsung 990 is an M.2 Gen 4 SSD offering up to 7,250/6,450 MB/s sequential read/write speeds. View Deal In our testing , we found the drive to offer similar results to Samsung’s 990 Evo Plus and the 990 Evo in latency testing, while beating the 990 Evo drive in bandwidth and 3DMark overall score. It also managed to stay competitive with the Crucial P310, which is one of the best QLC-based drives on the market. The Samsung 990 is also a solid option for consoles, delivering bandwidth that puts it ahead of the 990 Evo an
-
 ## Phoronix
+
+### Ubuntu 26.10 amd64v3 Daily ISOs Now Being Published
+Mon, 07 Sep 2026 09:36:20 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-amd64v3-Daily
+
+As an interesting development for Ubuntu 26.10, the daily ISOs of the "Stonking Stingray" now include amd64v3 images...
+
+### Linux Preps For New AMD Zen 6 BTB CTX Isolation Security Feature
+Mon, 07 Sep 2026 07:55:33 -0400 — https://www.phoronix.com/news/Linux-Preps-AMD-BTB-CTX
+
+A recently posted Linux kernel patch has revealed a new security improvement with Zen 6 processors...
 
 ### Nouveau Preparations For HDMI 2.1 DSC, AMD HDMI FreeSync Fixes For Linux 7.4
 Mon, 07 Sep 2026 06:48:48 -0400 — https://www.phoronix.com/news/Linux-7.4-DRM-Misc-Next-1
@@ -183,22 +193,52 @@ Sun, 06 Sep 2026 06:28:25 -0400 — https://www.phoronix.com/news/Linux-7.3-rc2-
 
 Ahead of the Linux 7.3-rc2 kernel release due out later today, a merge causing a lot of code churn was pulled in by Linus Torvalds. This tree-wide effort converts more of the kmalloc() function calls over to the newer and superior kmalloc_obj() family of functions...
 
-### Slackware 16 Alpha 1 Available Following GCC 16.2, Glibc 2.44 & Binutils 2.47 Upgrade
-Sun, 06 Sep 2026 06:16:15 -0400 — https://www.phoronix.com/news/Slackware-16-Alpha
-
-The timing on Saturday's Slackware-based Zenwalk ISO "current milestone" update is now more clear with upstream Slackware having prepared what is its first alpha release of the upcoming Slackware 16...
-
-### Slackware-Based Zenwalk ISOs Updated With Linux 7.1, Flatpak Integrated + Xfce 4.20
-Sat, 05 Sep 2026 18:27:47 -0400 — https://www.phoronix.com/news/Zenwalk-2026-Current
-
-It's been over four years since the original release of Zenwalk 15.0 while released today is a new Zenwalk Current Milestone snapshot. This Slackware-based Linux distribution with a long history has an exciting update out for testing this weekend...
-
 ## The Register
+
+### Nightwing CEO has a Labor Day message for staff – and apparently The Register
+Mon, 07 Sep 2026 16:43:00 +0200 — https://www.theregister.com/security/2026/09/07/nightwing-ceo-has-a-labor-day-message-for-staff-and-apparently-the-register/5294819
+
+Nightwing CEO Bob Coleman wanted to thank his employees for their hard work over the Labor Day weekend. Unfortunately, he also thanked The Register. The cybersecurity and intelligence contractor, which prides itself on “secure communications,” appears to have accidentally sent a for-employees'-eyes-only message from its chief executive to its media distribution list, giving journalists a brief and unsolicited glimpse into life at "Team Nightwing." The email, seen by The Register because, well, it was sent to us, is helpfully marked "For Internal Use Only." "Dear Colleagues," Coleman begins, addressing a group that apparently expanded rather dramatically when somebody selected the wrong mailing list. "As we head into this Labor Day weekend, I want to express my sincere appreciation for your commitment to Team Nightwing and the exceptional work you do every day," he adds. "Your efforts and unwavering dedication make all the difference in accomplishing our critical missions." Coleman went on to tell recipients that each of them plays "a vital role in our success," which came as welcome news to Vulture Central. "Please take this time to rest, recharge, and enjoy the well-deserved break with your loved ones," he states, before signing off simply: "Bob." Nightwing, which was spun out of defense giant Raytheon in 2024 and works across cybersecurity, intelligence, and national security, is perhaps not the sort of company you'd expect to struggle with the concept of an internal distri
+
+### Oracle may be next in EU software licensing hot seat following SAP deal
+Mon, 07 Sep 2026 15:56:51 +0200 — https://www.theregister.com/software/2026/09/07/oracle-may-be-next-in-eu-software-licensing-hot-seat-following-sap-deal/5294805
+
+The European Commission (EC) may be laying the groundwork for an investigation into Oracle's software licensing practices, according to reports. The scrutiny follows the EC's investigation into fellow enterprise software vendor SAP, which ended with the Commission accepting legally binding commitments from the German company to abolish reinstatement fees and reduce back-maintenance fees, among other concessions. MLex is now reporting that the EC – the EU's executive arm – has started to examine Oracle's licensing practices ahead of a possible formal investigation. One source told the publication that the EC was seeking views from third parties. An EC spokesperson told The Register it had concluded an investigation into SAP, and "will continue to monitor possible further anti-competitive practices and abusive conduct in this sector. At this stage however, there is no formal investigation into any company." The Register invited Oracle to comment. Big Red's licensing practices have attracted criticism for years, although the vendor maintains they are fair. One frequently criticized example is its treatment of Java, which came under Oracle's stewardship after it agreed to buy Sun Microsystems in 2009. OpenJDK, the reference implementation of the Java platform, is open source, but vendors can charge for proprietary development kits, runtime environments, and support. Oracle announced a new licensing regime for Oracle Java SE in January 2023. It said Java SE Universal Subscription 
+
+### Hackers drain $320M in Bitcoin from Liquid Network, claim they're the good guys
+Mon, 07 Sep 2026 15:26:00 +0200 — https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770
+
+Hackers have drained roughly $320 million in Bitcoin from the federation wallet backing the Liquid Network, while claiming to be the good guys. Liquid, a Bitcoin sidechain developed by Blockstream and used by exchanges and other financial institutions, said in a post on X on Sunday that around 4,000 BTC had been withdrawn from its federation wallet by what it cautiously described as "purported white-hat hackers." The wallet held about 4,200 BTC before the incident, meaning whoever was behind the exploit removed roughly 95 percent of its holdings. Liquid disabled its bridge nodes while federation members investigate and asked exchanges to suspend L-BTC deposits and withdrawals. The people behind the withdrawal, meanwhile, appear keen to establish that this isn't your standard crypto heist. In a message embedded in a Bitcoin transaction, they identified themselves as "whitehats" and asked Blockstream to get in touch. Blockstream responded on-chain with contact details for its security team, and Liquid said the parties subsequently moved their communications to encrypted channels. Those responsible said they would return "most" of the Bitcoin once the vulnerability was fixed and Liquid's nodes had been updated. "Please fix the bug first," the on-chain message said. "The chain is under risk at latest commit right now. Make sure every node is patched. Then we will transfer the money back safely after confirming the fix." Exactly how they managed to move almost the entire federatio
+
+### Asahi Linux takes on Apple M3, minus a few creature comforts
+Mon, 07 Sep 2026 15:01:09 +0200 — https://www.theregister.com/os-platforms/2026/09/07/asahi-linux-takes-on-apple-m3-minus-a-few-creature-comforts/5294788
+
+The Asahi Linux gang has announced support for Apple's M3 silicon, with a few ifs and buts for owners that want to try out the code on their hardware. According to the project, "Asahi Linux now officially supports Macs with an M3 series SoC!" There are, however, some substantial caveats. Want performant or power-efficient 3D acceleration from the GPU? You'll need to wait a bit. How about the HDMI port? "The lack of DCP support means that the HDMI port on equipped MacBooks is currently disabled." Sleep does not work either, although the project noted: "This will be addressed once full DCP support is wired up for M3." Even with those limitations, it is quite a feat of reverse engineering. According to the project, almost everything supported on the M1 and M2 series machines "just works." This includes the webcam, internal microphones, USB, hardware-accelerated video decoding including support for AV1, Wi-Fi, and Bluetooth. The lack of GPU support is nevertheless a significant limitation that will make anything other than a 2D desktop a painful experience. Work is underway, but the synopsis of a talk planned for the X.Org developer conference at the end of September points to hurdles caused by hardware differences from previous generations. Although support for M3-series machines has been merged into the installer, it remains gated behind Expert mode, meaning users must run the installer with EXPERT=1 enabled. The project aims to drop this requirement in time for the Fedora Linu
+
+### Nitter lives to proxy another day after taking legal advice
+Mon, 07 Sep 2026 14:30:00 +0200 — https://www.theregister.com/personal-tech/2026/09/07/nitter-lives-to-proxy-another-day-after-taking-legal-advice/5294754
+
+The Nitter project will continue "following legal advice," meaning XCancel, a public service built on its open source code, is back online. As of September 7, nitter.net displayed the announcement: "Following legal advice, the Nitter project will continue. This instance and others will be back up and running shortly." XCancel, a public instance built on Nitter, was operational again. Nitter is a free, open source front end for reading posts on X, the platform formerly known as Twitter before it was acquired and rebranded by self-described "free speech absolutist" Elon Musk. It requires no X account and, according to the project's repository, offers "zero ads" with "no JavaScript required." However, using Nitter or an instance based on it, such as XCancel, can feel like a game of Whac-A-Mole, with frequent changes required whenever X restricts another means of accessing its data. In January 2024, maintainer zedeus declared the project dead after X disabled the guest accounts on which it relied. Nitter returned at the start of 2025 using account sessions, although the maintainer warned: "Nitter is officially back, but hosting an instance is nowhere near as easy as it used to be." Then, on August 24, X deployed the lawyers and sent cease-and-desist letters demanding the permanent removal of Nitter instances and the project's repository. The repository was archived, instances went offline, and for a few weeks the lights went out. The project now says it will continue, although th
+
+### Smartphone makers don't bother to comply with EU repairability requirements
+Mon, 07 Sep 2026 13:30:00 +0200 — https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532
+
+One year into the EU's repairability rules for smartphones and tablets, more than 80 percent of devices still lack the necessary repair information, Right to Repair Europe reports. The campaign group says that mobile devices available in the trading bloc must include a mandatory self-reported repairability score, and the device maker has an obligation to publish information to help users repair their kit. These requirements came into force from June 2025. Yet a review of the European Product Registry for Energy Labelling, where manufacturers are required to list where they publish the required information, found that few have so far fallen in line. Right to Repair says that of 2,334 records for smartphone models brought to market over the last year, only about 18 percent actually list a website where spare parts prices or repair instructions can be found. About half of the records simply have blanks where there should be a URL, while another 19 percent refer to a product page or support page not containing any relevant repair instructions or spare parts listings. Some records even refer customers to Temu or AliExpress for spare parts and repair instructions. Despite this, some of the blatantly non-compliant manufacturers still award themselves top marks for their repair information, resulting in a self-declared class A for repairability. The campaign group also complains that in many instances where spare parts are listed, they are given a ridiculously wide price bracket, suc
+
+### Welsh environment regulator's FoI blunder exposes diversity data of 2,000 staff
+Mon, 07 Sep 2026 13:04:46 +0200 — https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748
+
+Natural Resources Wales (NRW) says diversity data belonging to around 2,000 current and former employees who worked at the environmental regulator between April 2013 and March 2018 was exposed in a classic Freedom of Information (FoI) blunder. The Welsh government-sponsored body confirmed on Friday the information was "inadvertently disclosed" in a spreadsheet published on a website. Its statement did not identify the site, explain how the sensitive data came to be posted there, or say how many people were affected. NRW subsequently told The Register that around 2,000 people were affected and said it had released the information in 2021 as part of a response to a request under the Freedom of Information Act 2000. The exposed information may have included ethnicity, disability status, religion or belief, sexual orientation, Welsh language ability, caring responsibilities, and other "equality monitoring information," although not every category applied to each affected employee. Some of these details constitute special category personal data and are subject to additional protections under the UK GDPR. "We sincerely apologise that this incident occurred and recognise the concern and uncertainty it may cause to those affected," NRW said in its disclosure statement. "As soon as we became aware of the issue, we took immediate steps to contain the incident and investigate the circumstances surrounding the disclosure." The organization said it reported the breach to the Information C
 
 ### UK food supply chain at risk from hostile attacks
 Mon, 07 Sep 2026 12:06:10 +0200 — https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719
 
 A UK watchdog is warning that cyber criminals making moves against online systems in the food supply chain could cause serious upset, following damaging attacks on the Co-op and Marks & Spencer last year. The National Audit Office (NAO) named cyber-attacks as one of the major threats to the food supply chain and said the Department for Environment, Food & Rural Affairs (Defra) should work closely with industry to help prevent severe shocks. “Recent disruptions have shown the resilience of the UK’s food supply chain, but risks are increasing in likelihood and severity. Defra should learn from approaches taken in other countries, and strengthen preparedness for emergencies by testing plans with local government and industry,” said Gareth Davies, head of the NAO. In its report published late last week, the NAO said the sector had shown some resilience to cyber-attacks, but the government needed to work with the sector to help mitigate their impact. The report found businesses in the food supply chain have faced increased costs and, in some cases, disruptions to day-to-day operations, for example following 2025 cyber-attacks on retailers such as Marks & Spencer and the Co-op. Leading UK retailer Marks & Spencer estimated the cyberattack that took place in April last year will cost it around £136 million ($177.2 million) in total. The retailer said one of the earliest actions it took in its incident response was to disconnect its warehouse management systems, which in turn meant o
+
+### Feel peak Windows was 7? You might like Kumander Linux
+Mon, 07 Sep 2026 12:00:00 +0200 — https://www.theregister.com/os-platforms/2026/09/07/feel-peak-windows-was-7-you-might-like-kumander-linux/5294760
+
+Kumander Linux has been around for a few years now and version 3.0 is nearly ready, with some strong nostalgic appeal. We recently came across Kumander Linux and thought it was an interesting distro – although not technologically "interesting," which isn't always a good thing. Underneath, it's almost boring: Debian 13.6 with Xfce 4.20. These are safe, solid, sensible choices, combining a lightweight mainstream desktop with one of the most established Linux distros. What's not to like? What's fun about Kumander Linux is its looks. It makes a very convincing effort to look and work more or less like Windows 7. It doesn't go as far as the wholesale "borrowing" of commercial assets and trademarks seen in Wubuntu, AKA "Windows Linux," nor is it a strange, hacked-together combination of genuine Windows components like Classic 7. It uses a mixture of FOSS and freeware components. The office suite is LibreOffice 25.2, configured with a Microsoft-like ribbon UI. The image editor is GIMP 3.0.4, and it comes with native Linux versions of some familiar Windows tools, such as Google Chrome, PuTTY, Audacity, and VLC. Yes, Chrome isn't FOSS, but it's a much more widely used web browser than Firefox. The customizations go beyond appearances, with some of Xfce's stock tools replaced. For instance, Xfce's slightly feeble Task Manager has been replaced by a tool that was new to us, System Manager. There's also an easy point-and-click Software Center. Both were written by distro developer Roy Ho
 
 ### Peers ask why UK cyber bill leaves execs off the personal liability hook
 Mon, 07 Sep 2026 11:15:00 +0200 — https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586
@@ -215,99 +255,74 @@ Mon, 07 Sep 2026 09:02:00 +0200 — https://www.theregister.com/on-prem/2026/09/
 
 Two runways are currently closed at Miami International Airport after an Amazon-branded cargo plane overran a runway, resulting in five fatalities. The leased 767, which bears the “Prime Air” brand Amazon uses for its air freight and drone operations, landed but was unable to stop before the end of the 2850-meter runway 30. The plane appears to have exited the runway and the airport grounds, crossed a road, and come to a halt in what looks like a carpark. As it ran across grass beyond the runway, the plane’s nose pitched down into the ground, its starboard engine caught fire, and the craft sustained extensive damage. Local authorities have confirmed that five people died, and three are severely injured. A statement from Amazon spokesperson Kelly Nantel says the company is”heartbroken to learn that five people lost their lives in today’s incident at Miami International Airport.” The statement identifies the operator of the plane as 21Air, a company that leases cargo planes and crew to its customers. 21Air CEO Keith Winters said “We are devastated by the accident involving one of our aircraft in Miami today. Our deepest condolences are with the families and loved ones of those who lost their lives. Our immediate priorities are supporting those affected, assisting the authorities, and ensuring that accurate information is communicated as it becomes available.” At the time of writing, the crash is just over 12 hours in the past, so investigators’ work has just begun. A video purp
 
-### Who, Me? Techie sent to fix Nobel Prize winner’s PC almost set it on fire
-Mon, 07 Sep 2026 08:30:00 +0200 — https://www.theregister.com/personal-tech/2026/09/07/who-me-techie-sent-to-fix-nobel-prize-winners-pc-almost-set-it-on-fire/5294430
-
-WHO, ME? Every Monday morning The Register asks the same question – “Who, Me?” – because that’s the name of our weekly reader-contributed column that shares your stories of workplace scrapes, escapes, and japes. This week meet a reader we’ll Regomize as “Marc” who told us that he graduated in the early 1990s and soon scored his first job – supporting PCs for Very Important Professors (VIPs) at the graduate school run by his alma mater. “Some of these VIPs went on to win Nobel Prizes,” Marc told The Register – although at the time this story took place none had become laureates. One tool that helped them work toward academic greatness was an IBM PC powered by an Intel 286 processor. “Take a moment to remember the physicality of the humble nine-pin RS-232 connector,” Marc urged, recalling that the plugs were brilliantly simple – but that in the early 1990s not all used the same pin for the same purpose. “For an actual serial RS-232, the power pin is well defined. But those of a certain age will remember a different IBM pinning for the physically identical connector,” he reminded The Register. “Specifically for the power pin on IBM’s proprietary mouse.” You can probably guess where this story leads. One of the VIPs was doing Very Important Work, but their mouse wasn’t working. Marc brought a replacement mouse, plugged it into the first port that looked appropriate, and rebooted the PC. “Immediately it started to smoke!” he admitted. “Foul smelling, unforgiving, electrical smoke.
-
-### Jensen's purchase of a new toy could reshape the entire AI industry
-Mon, 07 Sep 2026 07:30:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/07/jensens-purchase-of-a-new-toy-could-reshape-the-entire-ai-industry/5294610
-
-KETTLE AI repository Hugging Face will soon be an Nvidia property, and while everyone's promising things will remain the same we at The Register's Kettle desk aren't so sure the status quo is going to stay the status quo at the AI industry's leading open model host. You can listen to the latest episode of The Kettle right here on this page, as well as on Spotify, Apple Music, or YouTube. Those platforms also let you subscribe to Kettle, so you are always notified when the latest episode goes live. Joining host Brandon Vigliarolo this week is reporter Dan Robinson, who broke the news of Nvidia's $12.9 billion acquisition for El Reg yesterday, weighs in on what he heard during the announcement call, while senior reporter Tom Claburn opines on what he sees coming. A lightly edited transcript is below: Brandon (00:01) Hello and welcome to another episode of The Register's Kettle podcast. I'm Reg reporter Brandon Vigliarolo, and if you've been keeping an eye on things the past few days, you probably already know what the big tech news story of the week is, and that's Nvidia's $12.9 billion acquisition of AI repository Hugging Face. With me to discuss this deal and what it might mean for the future of the AI sector for both companies and developers is our reporter Dan Robinson and senior reporter Tom Claburn. Thanks for coming on, guys. Tom (00:31) Thank you. Brandon (00:31) All right, so Dan, you broke this story, I think it was just yesterday now, and you were on the conference c
-
-### Might as well blame AI for this giant Linux release candidate, says Linus Torvalds
-Mon, 07 Sep 2026 04:32:33 +0200 — https://www.theregister.com/os-platforms/2026/09/07/might-as-well-blame-ai-for-this-giant-linux-release-candidate-says-linus-torvalds/5294697
-
-Linux kernel boss Linus Torvalds has decided he might as well blame AI for a version 7.3 release candidate that’s larger than was usually the case before LLMs came into our lives. “This didn't *feel* like a particularly busy rc2, but it clearly was,” he wrote in his regular Sunday kernel update post. “rc2 is usually the quietest time when people take a breather after the merge window and it takes a while to start finding bugs. But not this time - this is a ‘full fat’ rc release.” Torvalds said he can’t find a single cause for the big release. “I'd like to point to the late EDAC pull that was forgotten and didn't happen during the merge window, but honestly, that's a fairly small thing,” he wrote. “No, rc2 had several filesystems sending in their fixes, and there's a fairly sizable drm pull with lots of scattered fixes. Along with networking and bpf sending in fixes. *And* a number of driver trees too.” “Nothing looks particularly odd,” he added. “It might be just random, but we'll obviously all blame it on AI, because whether that's really the cause or not, it's an easy thing to blame ;)” Last week, Torvalds blamed himself for kernel complications in the post announcing the first release candidate for Linux 7.3. “Nothing really stands out - except for the fact that it's big. It's not the biggest rc1 we've ever had, but it's certainly up there, at least in number of commits,” he wrote, before admitting he “made it unnecessarily hard for myself by being a grade A nincompoop and
-
-### Thailand pauses all datacenter builds and approvals
-Mon, 07 Sep 2026 03:05:51 +0200 — https://www.theregister.com/off-prem/2026/09/07/thailand-pauses-all-datacenter-builds-and-approvals/5294688
-
-ASIA IN BRIEF Thailand’s National Economic and Social Development Council last week decided to pause all datacenter builds in the country, while it works out appropriate regulations. The Council announced the pause last Friday in a communiqué issued after a meeting of its Datacenter Business Policy Committee, at which Thailand’s Prime Minister and Interior Minister Anutin Charnvirakul said datacenters are an important part of the nation’s economy – but admitted his government doesn’t have good data about how many of the facilities currently operate, or the pipeline for new builds. That’s quite an admission as community disquiet with datacenter development has become an issue in Thailand. The Council’s development approval pause gives operators and investors a week to submit info about their operations, to help the government expedite development of a unified regulatory framework for datacenters. Bangkok also wants to develop a plan to determine how many datacenters Thailand needs, and the format of those facilities. The Council’s starting point is to consider all datacenters using more than 2 MW of electricity as industrial businesses, consider the introduction of “resource utilization fees” so that indirect costs that flow from datacenter builds don’t increase costs for the public, and establishment of an assessment process for future builds to ensure that new datacenters “create the most benefit for Thailand.” The government hopes that the result is a datacenter ecosystem t
-
-### Time lords prepare to kick leap seconds into the next millennium
-Sun, 06 Sep 2026 10:09:00 +0200 — https://www.theregister.com/offbeat/2026/09/06/time-lords-prepare-to-kick-leap-seconds-into-the-next-millennium/5294538
-
-The prospect of a negative leap second – combined with decades of irritation over leap seconds generally – looks set to inspire a bit of global procrastination among international timekeepers. Next month, the General Conference on Weights and Measures is set to vote on effectively calling time on leap seconds. A draft resolution [PDF] would make Coordinated Universal Time (UTC) continuous from May 20, 2027, and allow the difference between UTC and UT1, a measure of time based on Earth's rotation, to reach as much as one hour. Leap seconds keep UTC, which is based on atomic clocks, within 0.9 seconds of time determined by the slightly wobbly rotation of our home planet. Since the system was introduced in 1972, 27 leap seconds have been added to UTC. The urgency comes partly from a slight increase in Earth's rotational speed in recent years, raising the possibility of an adjustment never attempted before: a negative leap second. Experts convened by international timekeeping bodies estimated a 30 percent probability that one would be needed by 2035. Many computer systems were designed on the assumption that a leap second would always be added rather than removed, explained Setnam Shemar, principal scientist at the UK's National Physical Laboratory (NPL). "Most digital architectures and network time servers are hardcoded under the assumption that leap seconds are strictly additive. Losing a second could trigger severe disruption across critical national infrastructure, including 
-
-### US troops can still be tracked by purchased location data, and Congress wants to know why
-Sun, 06 Sep 2026 03:06:00 +0200 — https://www.theregister.com/public-sector/2026/09/06/us-troops-can-still-be-tracked-by-purchased-location-data-and-congress-wants-to-know-why/5294652
-
-The US military's effort to prevent troops from being tracked by adversaries through purchased location data hasn't worked as well as anticipated, and lawmakers want to know why. US Senator Ron Wyden (D-OR) and Rep. Pat Harrigan (R-NC) on Friday asked for an investigation by the Defense Department Inspector General into policies that have only partially stanched the flow of location data that allows military personnel to be tracked and targeted. In May, Wyden, Harrigan, and a bipartisan group of 12 other members of Congress released details about how commercially purchased location data – often captured by mobile apps and advertising SDKs – can be used to identify where US military personnel gather and to target those locations. They noted that the DoD has been aware of this threat since at least 2016. The lawmakers urged Defense Department CIO Kirsten A. Davies to take steps to mitigate this risk, including turning off advertising identifiers on DoD smartphones and issuing a policy requiring the disabling of advertising identifiers on all personal devices brought into DoD facilities or overseas. Since then, various military branches have blocked advertising identifiers on government-issued devices. According to the letter, "several DoD components – the Army, Air Force, Navy and Marine Corps, and Special Operations Command – confirm that they now disable advertising IDs on government-issued devices to protect their personnel from such threats." But that hasn't entirely elimin
-
 ## Engadget
+
+### Sony revives its WH-1000XM4 headphones as a refreshed $300 option
+Mon, 07 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2251246/sony-revives-its-wh-1000xm4-headphones-as-a-refreshed-300-dollar-option/
+
+Sony is taking a unique approach to its 2026 headphone lineup: bringing back 2020's greatest hit.
+
+### How to disconnect CarPlay so it will stop auto-connecting to your phone
+Mon, 07 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2249026/how-to-disconnect-carplay-stop-auto-connecting-phone/
+
+If Apple CarPlay leaves you feeling frustrated and you want a break from it, there are a few ways to prevent it from automatically connecting in your car.
+
+### The Huawei Mate XT2 is the world's first tri-panel foldable with a built-in privacy display
+Mon, 07 Sep 2026 15:55:44 +0000 — https://www.engadget.com/2252175/huawei-mate-xt2-worlds-first-foldable-with-built-in-privacy-display/
+
+Even though it'll be really pricey, Huawei's Mate XT2 is taking one of the Galaxy S26's best features and putting it in a foldable phone for the first time.
+
+### PS2 or GameCube: Which retro console emulates better?
+Mon, 07 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2249073/ps2-gamecube-which-retro-console-emulates-better/
+
+The GameCube and PS2 both have mature emulation ecosystems. If you're new to the scene, here's the one that's easier to emulate and why.
+
+### How to find and hide an app on Android Auto
+Mon, 07 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2249065/how-to-find-hide-app-android-auto/
+
+Millions rely on Android Auto every day for navigation, music and messaging, but one of the common issues is apps vanishing from the platform without warning.
+
+### How to split bills and customize passes in Apple Wallet with iOS 27 Update
+Mon, 07 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2249069/apple-wallet-ios-27-update-how-to-split-bills-customize-passes/
+
+Apple's Visual Intelligence will make splitting the check easier in iOS 27.
+
+### Your old phones may be worth more than you think through Google Store trade-in
+Mon, 07 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2249070/google-store-trade-in-your-old-phones-worth-more-than-think/
+
+The Google Store has some of the best trade-in values for a new Pixel, whether you're turning in a Pixel, iPhone, or Galaxy device.
+
+### How to use SpaceXAI's Grok Build
+Mon, 07 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2249020/how-to-use-spacexai-grok-build/
+
+You'll want a paid plan if you plan to do much with Grok.
+
+### How to change Siri's voice
+Mon, 07 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2249016/how-to-change-siri-voice/
+
+Siri's voice will be more expressive and customizable in iOS 27, but only if you have the latest hardware.
+
+### The downsides of switching from a MacBook to Windows
+Mon, 07 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2248705/downsides-switching-from-macbook-to-windows/
+
+macOS and Windows both have their own advantages. If you're planning to move to Windows, make sure you know what you're giving up.
+
+### iOS 27 beta had a Digital ID glitch travelers weren't expecting
+Mon, 07 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2248933/ios-27-beta-digital-id-glitch-passport-deactivated/
+
+This unexpected bug could have caused problems for travelers, which is why you shouldn't use a beta version of iOS on a device you rely on.
 
 ### Is it safe to buy a refurbished iPhone from Walmart?
 Mon, 07 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2248893/is-it-safe-buy-refurbished-iphone-walmart/
 
 Walmart provides lower-cost refurbished phones than buying from Apple directly, but you also have to navigate through more sellers and terms.
 
-### When are portable Apple CarPlay screens actually worth it?
-Mon, 07 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2248887/when-portable-apple-carplay-screen-worth-it/
-
-Many recent vehicles had CarPlay and Android Auto built in, but if yours doesn't, you can add a portable one to your dash.
-
-### The pros and cons of using wireless Android Auto
-Sun, 06 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2248846/pros-and-cons-wireless-android-auto/
-
-Wireless Android Auto delivers on the promise of making your life easier most of the time, but ditching the cable can come with a number of tradeoffs.
-
-### 10 Smart Gadgets That Could Instantly Upgrade Your Backyard
-Sun, 06 Sep 2026 23:15:00 +0000 — https://www.engadget.com/2248646/smart-gadgets-could-instantly-upgrade-backyard/
-
-Smart outdoor tech is changing how people use their backyards, and this handful of clever upgrades can make your space more useful and enjoyable.
-
-### How to use your MacBook's built-in backup tool instead of paying for cloud storage
-Sun, 06 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2248819/how-to-use-time-machine-backup-macbook-dont-pay-for-cloud-storage/
-
-If you're searching for a backup option and don't need to access your files from the cloud, you won't need to look beyond what Apple's macOS has to offer.
-
-### Common problems with Apple Wallet and how to fix them
-Sun, 06 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2248762/how-to-fix-common-apple-wallet-problems/
-
-Apple Wallet and Apple Pay are great, but only if they're working properly. There are some basic troubleshooting steps when payments won't go through.
-
-### The Slate Truck is great, but this one problem may stop a lot of folks from buying it
-Sun, 06 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2248744/slate-truck-not-available-outside-united-states/
-
-Slate's build-a-truck model aims to keep costs low by only including features you'll use. But it won't be popular outside the U.S.
-
-### How To Send High-Quality Images And Videos From Android To iPhone
-Sun, 06 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2248718/how-to-send-high-quality-images-videos-android-to-iphone/
-
-It can be tough to preserve the quality of your images when sending them from Android to iPhone, but these tried-and-true methods keep them crystal clear.
-
-### OpenAI says it reached its goal of creating an automated research intern
-Sun, 06 Sep 2026 19:26:52 +0000 — https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/
-
-The company hopes to have an even better "automated AI researcher" by March 2028.
-
-### What is vibe coding and why does it get so much hate?
-Sun, 06 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2247892/what-is-vibe-coding-explained/
-
-Vibe coding has gotten a bad reputation as lazy, AI-driven coding, but that's not where it came from.
-
-### Dual-band vs. tri-band routers: What's the difference between them?
-Sun, 06 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2247846/dual-band-vs-tri-band-routers-difference-between/
-
-Tri-band routers have, unsurprisingly, one more band than dual-band routers have. But what does this mean in practice?
-
-### How to set up ChatGPT's parental controls to protect your teen
-Sun, 06 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2247843/how-to-set-up-chatgpt-parental-controls/
-
-The idea of your child using ChatGPT can be daunting, but OpenAI's new teen-focused tools provide granular controls over what they can and can't access.
-
 ## TechCrunch
+
+### What we expect from the upcoming Apple launch
+Mon, 07 Sep 2026 15:58:00 +0000 — https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/
+
+While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.
 
 ### Phil Schiller’s App Store exit reportedly driven by wariness over future plans
 Sun, 06 Sep 2026 21:41:06 +0000 — https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/
@@ -348,9 +363,4 @@ OpenAI acknowledged its role in a recently reported incident where AI agents too
 Sat, 05 Sep 2026 17:00:00 +0000 — https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/
 
 Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.
-
-### Oura is going public, but these smart ring companies are coming for its crown
-Sat, 05 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/
-
-While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.
 

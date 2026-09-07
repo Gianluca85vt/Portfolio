@@ -1,110 +1,150 @@
-# Film & TV — harvested 2026-09-07T11:21:15.763Z
+# Film & TV — harvested 2026-09-07T16:03:02.888Z
 
 ## Variety
+
+### BBC News Anchor Maryam Moshiri Reveals Blood Cancer Diagnosis
+Mon, 07 Sep 2026 14:42:43 +0000 — https://variety.com/2026/tv/global/bbc-news-maryam-moshiri-blood-cancer-1236854086/
+
+BBC News anchor Maryam Moshiri has revealed she has been diagnosed with incurable blood cancer. The anchor, who joined the BBC in 2003, has covered events ranging from the Pope’s funeral to the Iran war since being diagnosed with Polycythaemia vera (PV) two years ago. Moshiri went public with her diagnosis Monday in an interview [ ]
+
+### Ellen Burstyn Cries as She Gets Venice Golden Lion for Lifetime Achievement: It’s One Thing to Win an Oscar, Tony or Emmy — All of Which I’ve Won. But This Is a Lot
+Mon, 07 Sep 2026 13:50:11 +0000 — https://variety.com/2026/film/festivals/ellen-burstyn-cries-venice-golden-lion-1236853817/
+
+Maggie Gyllenhaal delivered a message on behalf of Ellen Burstyn before the 93-year-old acting legend took the stage at the Venice Film Festival to receive the prestigious Golden Lion for Lifetime Achievement. “Ellen asked me to let you know that she recently took a fall,” Gyllenhaal said from the podium. “She’s OK, but she is [ ]
+
+### ‘Imperium’ Review: Sergei Loznitsa Brings Together Nearly Three Hours of Italian Footage From the Early 1970s Covering the Vastness of the USSR
+Mon, 07 Sep 2026 12:15:30 +0000 — https://variety.com/2026/film/reviews/imperium-review-2-1236853999/
+
+In the early 1970s, Italian film crews spread out across the USSR, capturing a vast, multicultural empire few had ever seen in such diversity. From urban commuters to village fêtes, Baku trawlers to Siberian reindeer herders, the cameramen aimed to capture the Soviet polity at a time when Westerners had a gray, monolithic image of [ ]
+
+### Festival Leaders Confront Growing Political Pressure at Lumiere Summit: We Don t Judge Artists by Their Passport
+Mon, 07 Sep 2026 12:09:33 +0000 — https://variety.com/2026/film/news/lumiere-summit-festival-panel-political-protection-1236853995/
+
+Political pressure on film and television festivals emerged as a defining theme of a panel discussion Monday at the Lumière Summit in Saint-Paul-de-Vence, France, with Séries Mania general director Laurence Herszberg issuing the session s most direct call for protection of programming autonomy. We don t judge artists by their passport, we judge them by their works, [ ]
+
+### ‘Plaza Catedral’ Director Abner Benaim, Chile’s Daniela Vega and Alfredo Castro Board Fiction Series ‘School of the Americas’ (EXCLUSIVE)
+Mon, 07 Sep 2026 11:57:59 +0000 — https://variety.com/2026/film/global/abner-benaim-daniela-vega-alfredo-castro-school-americas-1236853506/
+
+Panama’s Abner Benaim has boarded as a co-director of the fiction series “School of the Americas” (“Escuela de las Américas”), which will star two of Chile’s most internationally renowned thespians: Daniela Vega, who headed the Oscar-winning “A Fantastic Woman,) and Alfredo Castro, a Pablo Larrain regular who’s also starred in a slew of Latin American [ ]
+
+### Studio TF1 Smashes Doc Records With ‘Leon Marchand: Beyond Gold,’ Rolls Out ‘Surface’
+Mon, 07 Sep 2026 11:57:00 +0000 — https://variety.com/2026/tv/global/studio-tf1-leon-marchand-records-surface-sales-1236853480/
+
+Studio TF1 is celebrating recent successes at home and abroad with Sacha Vucinic and Xavier Marchand’s sports documentary “Leon Marchand: Beyond Gold” and Slimane-Baptiste Berhoun’s mystery drama “Surface.” While the doc series on French Olympic swimming champion Leon Marchand and his life in the wake of four gold-medal wins at the Paris Olympics has scored [ ]
+
+### Sumo: Spirit Weighs Nothing Review: A Handsome Ode to an Oft-Disrespected Sport
+Mon, 07 Sep 2026 11:50:05 +0000 — https://variety.com/2026/film/reviews/sumo-spirit-weighs-nothing-review-1236853884/
+
+The title of Sumo: Spirit Weighs Nothing is the closest that Erik Shirai s documentary comes to a joke at the expense of its subject: sumo wrestling, the Japanese sport largely known in the western world for the ample size and minimal clothing of its practitioners, and not an awful lot beyond that. In all other [ ]
+
+### Belgian Royalty Series King of Hearts Secures Key VRT Backing (EXCLUSIVE)
+Mon, 07 Sep 2026 11:46:41 +0000 — https://variety.com/2026/film/global/flemish-broadcaster-vrt-historical-series-king-of-hearts-1236852181/
+
+Enterprising Flemish broadcaster VRT has boarded the historical coming-of-age drama series ‘King of Hearts’ from Giles Coulier, whose company, De Wereldvrede, is behind such hits as 2019 series “War of the Worlds” and Prix Europa winner, “Albatros.” As continental royalty series hit ratins and sales – think Maxima – King of Hearts, currently in development, [ ]
+
+### The Next James Bond Has Been Picked, Says Gary Oldman, Whose Fingers Are Crossed for Slow Horses Co-Star Jack Lowden
+Mon, 07 Sep 2026 11:35:10 +0000 — https://variety.com/2026/film/global/james-bond-picked-says-gary-oldman-hopes-for-jack-lowden-1236853973/
+
+Gary Oldman s connection to the world of James Bond may be unknown, but the actor claims to have some key information about the casting of the next 007. According to the Oscar-winning acting icon, the hotly-disputed and widely-debated hunt to find the next superspy is over, and he s hoping his Slow Horses co-star Jack Lowden [ ]
 
 ### Tom Rothman on Sony s Spider-Man: Brand New Day Blockbuster Success, Being Outbid for Obsession and More
 Mon, 07 Sep 2026 11:13:12 +0000 — https://variety.com/2026/film/news/tom-rothman-sony-spider-man-brand-new-day-lumiere-summit-1236853815/
 
 Sony s Tom Rothman took a bit of a victory lap with the studio s boffo success of Spider-Man: Brand New Day, which has become the highest-grossing film of 2026 to date. Rothman, chairman and CEO of Sony Pictures Entertainment s Motion Picture Group, spoke Monday at the Lumière Summit in Saint-Paul-de-Vence, an international film and entertainment conference [ ]
 
-### SNL U.K. Adds Freddie Meredith to Cast
-Mon, 07 Sep 2026 10:50:57 +0000 — https://variety.com/2026/tv/global/snl-uk-freddie-meredith-adds-cast-1236853962/
-
-Saturday Night Live U.K. has added a new castmember for its second season with Freddie Meredith joining the gang. The comedian has previously starred in “Such Brave Girls” and “Big Boys.” Meredith, who recently won an award for best newcomer at the Edinburgh Fringe for his show “Need a Light?”, joins returning castmembers Hammed Animashaun, [ ]
-
-### Pamela Anderson Speaks Out on Overcoming Hepatitis C in Powerful Speech at amfAR Venice: I m Not a Victim. I m a Victor
-Mon, 07 Sep 2026 10:48:40 +0000 — https://variety.com/2026/film/festivals/pamela-anderson-hepatitis-c-amfar-venice-not-victim-1236853854/
-
-When Pamela Anderson was diagnosed with hepatitis C in the late 90s, there was no cure. It was a death sentence. That s what my doctor told me — that I probably had around 10 years to live, the Baywatch star recalled in a moving speech at the amfAR Gala in Venice. I m sure that colored [ ]
-
-### Female-Driven, Premium Period Dramas Spearhead Latest French Fiction Revolution
-Mon, 07 Sep 2026 10:00:00 +0000 — https://variety.com/2026/tv/global/premium-french-period-drama-unifrance-rendezvous-2026-1236849083/
-
-It s been almost 240 years since France started its very first Revolution. But fear not, French TV producers still have what it takes to bring yet another one to modern fiction, blending hints of past, present, and future. From Toronto-bound Alice recently boarded by SND to France Télévisions genre-bending thriller Swapped and Wild Bunch s latest [ ]
-
-### Screen Industries Adopt Five Thematic Declarations at Lumiere Summit, Setting Terms on AI, Piracy, Gender, Education and the Environment
-Mon, 07 Sep 2026 09:45:24 +0000 — https://variety.com/2026/film/global/lumiere-summit-five-declarations-ai-piracy-gender-education-environment-1236853918/
-
-Countries, screen industry bodies and rights organizations adopted five thematic declarations at the Lumière Summit on Monday at the Fondation Maeght in Saint-Paul-de-Vence, France, establishing shared frameworks across artificial intelligence, piracy, image education, gender equality and environmental sustainability. Among the signatories are France, the Republic of Korea, SACEM — the Société des auteurs, compositeurs et [ ]
-
-### France Launches Global Initiatives to Support Independent Cinema and Establish Framework for Alliance of State Film Commissions: Lumiere Summit
-Mon, 07 Sep 2026 09:05:00 +0000 — https://variety.com/2026/film/news/iris-independent-film-france-macron-lumiere-summit-1236853718/
-
-Top filmmakers including Richard Linklater, Rebecca Zlotkowski, Jafar Panahi, Jane Campion, Pedro Almodóvar, Wim Wenders, Tarik Saleh and Jia Zhang-ke have signed on to take part in the International Resilience Initiative for Independent Screens unveiled Monday during the Lumiere Summit in France. The French government has launched what has been dubbed IRIS as a bid [ ]
-
-### Emmanuel Macron Calls for Global Initiatives to Protect Film and Warns About Dangers of Social Media as Lumiere Summit Opens
-Mon, 07 Sep 2026 09:04:43 +0000 — https://variety.com/2026/film/news/emmanuel-macron-social-media-ai-lumiere-summit-1236853824/
-
-Emmanuel Macron called for global initiatives to protect the future of cinema and he sounded the alarm about the threats to artistic expression posed by the endless scroll of social media platforms during his opening speech at the Lumiere Summit on Monday. The French president delivered heartfelt remarks that stressed the urgency of the need [ ]
-
-### France TV Distribution Unveils Female-Led Actioners in Le Havre Lineup
-Mon, 07 Sep 2026 09:00:00 +0000 — https://variety.com/2026/tv/global/france-tv-distribution-le-havre-unifrance-rendez-vous-1236851929/
-
-France TV Distribution is presenting four new TV movies, including two female-fronted action thrillers, a light crime drama and a dramedy, at this year’s Unifrance Rendez-Vous in Le Havre, which runs Sept. 7-10. The sales company’s muscular lineup already includes the historical drama “Swapped,” about a young wet nurse in 19th-century Paris forced to secretly [ ]
-
-### France and Korea Launch $1.16 Billion Screen Industry Financing Partnership at Lumiere Summit
-Mon, 07 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/news/france-korea-billion-screen-industry-partnership-lumiere-summit-1236853711/
-
-France and Korea have each pledged €500 million ($581 million) to a joint initiative designed to strengthen the global screen industries, with the first funding instruments deploying from 2027 through 2031. The Lumière Partnership, unveiled Monday at the Lumière Summit in Saint-Paul-de-Vence, is open to additional countries and will prioritize companies with the ambition and [ ]
-
-### Toho Europe, Indonesia Film Fund, Cinepolis Pact Among Deals Unveiled at Lumiere Summit
-Mon, 07 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/news/toho-europe-indonesia-film-fund-cinepolis-pact-lumiere-summit-1236853717/
-
-Monday s Lumière Summit in Saint-Paul-de-Vence generated a cluster of industry announcements alongside its headline declarations, with deals spanning co-production financing, distribution, exhibition and education. Toho Europe, the regional arm of Tokyo-based entertainment group Toho Co., Ltd. – founded in 1932 and best known internationally for the Godzilla franchise – announced a new branch in France. [ ]
-
 ## The Hollywood Reporter
 
-### Ira Sachs, Jordan Firstman and Diego Luna Among San Sebastian s Film Talks Lineup
-Mon, 07 Sep 2026 10:41:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ira-sachs-jordan-firstman-diego-luna-san-sebastian-film-1236693176/
+### Emmy Awards 2026: A Complete Guide to Parties and Events (Updating)
+Mon, 07 Sep 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/emmy-awards-2026-guide-parties-events-1236678656/
 
-'Josephine' filmmaker Beth de Araújo and Argentine director Benjamín Naishtat will also sit down for discussions on their creative processes at the Spanish film festival.
+All of the Hollywood celebrations surrounding TV's biggest night.
 
-### Ellen Burstyn on Being Recognized by Marilyn Monroe, Changing Roles for Women With Alice Doesn t Live Here Anymore
-Mon, 07 Sep 2026 10:25:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ellen-burstyn-venice-film-festival-marilyn-monroe-1236693165/
+### Alpha Gang Review: Cate Blanchett, Léa Seydoux and Dave Bautista Get Stranded in a Sci-Fi Comedy That s All Flash and Zero Substance
+Mon, 07 Sep 2026 15:38:41 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/alpha-gang-review-cate-blanchett-dave-bautista-lea-seydoux-1236691984/
 
-The 93-year-old Oscar-winning star is in Venice with two films, and to receive a honorary Golden Lion for lifetime achievement.
+Directed by David and Nathan Zellner ('Sasquatch Sunset'), the Telluride premiere follows aliens in '50s biker gear who've come to conquer Earth, but find newly human emotions get in the way.
 
-### Gary Oldman Says a James Bond Has Been Picked — and He s Hoping It s Jack Lowden
-Mon, 07 Sep 2026 10:03:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gary-oldman-james-bond-cast-picked-jack-lowden-slow-horses-1236693169/
+### Telluride Awards Analysis: Nathan Fielder s Off-the-Wall Elizabeth Holmes Doc Could Click with Academy — and Land Picture and Acting Noms
+Mon, 07 Sep 2026 15:34:57 +0000 — https://www.hollywoodreporter.com/movies/movie-features/nathan-fielder-elizabeth-holmes-doc-academy-analysis-1236692989/
 
-"They have made their choice, but they have not announced it yet," Oldman says of the upcoming casting for Amazon MGM Studios' new Bond film.
+Festivalgoers promised a "surprise screening" were met with the world premiere of 'You Can See Everything,' a one-of-a-kind documentary/acting hybrid that Lance Oppenheim co-directed.
 
-### Catherine Zeta-Jones Real Swansea Accent Is Loud and Proud in Trailer for AMC+ s Kill Jackie
-Mon, 07 Sep 2026 09:45:06 +0000 — https://www.hollywoodreporter.com/tv/tv-news/catherine-zeta-jones-kill-jackie-trailer-1236693134/
+### Padel Spanks Pickleball: Inside the Rise of the New Celebrity Sports Obsession
+Mon, 07 Sep 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/celebrity-padel-boom-obsessed-1236665919/
 
-The Welsh Oscar-winner plays Jackie Price in the series adaptation of Aidan Truhen's novel 'The Price You Pay.'
+Eva Longoria is hooked. So are David Beckham and Tom Holland. Now the race is on to turn the fast-growing game with a booming elite social scene into a bona fide American business.
 
-### Sabu s Arrested Memory Turns a Kidnapping Thriller Into an Amnesiac Cop Comedy
-Mon, 07 Sep 2026 09:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/venice-2026-hidden-gem-film-arrested-memory-sabu-1236688854/
+### Look Back Review: Hirokazu Koreeda s Lovingly Crafted Manga Adaptation Is a Delicate Charmer About Teen Friendship and Art, Joy and Sorrow
+Mon, 07 Sep 2026 15:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/look-back-review-hirokazu-koreeda-manga-adaptation-1236693232/
 
-The cult director discusses the creation of his Taiwan-set action-comedy, a deliberate riff on Kurosawa's 'High and Low,' and why shooting outside Japan left him "invigorated."
+Based on the celebrated standalone manga by Tatsuki Fujimoto, the tender story was previously translated to the screen in a 2024 medium-length anime retelling.
 
-### Nathan Fielder and Lance Oppenheim s Elizabeth Holmes Doc You Can See Everything : First Reactions
-Mon, 07 Sep 2026 08:39:41 +0000 — https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-first-reactions-nathan-fielder-a24-1236693077/
+### Tokyo Film Festival Adds New Initiatives, Kashiko Kawakita Award to Honor Women in Cinema
+Mon, 07 Sep 2026 14:39:44 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-2026-new-initiatives-1236693260/
 
-The A24 docudrama about the Theranos founder and convicted fraudster had a surprise screening at the Telluride Film Festival.
+Famed critic Sahoko Hata will be the inaugural honoree of the Kashiko Kawakita Award.
 
-### The Inbetweeners 3 Movie Is a Go at Netflix With Original Lead Cast
-Mon, 07 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-inbetweeners-3-movie-netflix-original-lead-cast-1236693063/
+### You Can See Everything Review: Elizabeth Holmes Doc From Nathan Fielder and Lance Oppenheim Is Fascinatingly Slippery, Dizzyingly Clever
+Mon, 07 Sep 2026 14:36:14 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/you-can-see-everything-review-elizabeth-holmes-a24-1236692981/
 
-Simon Bird, James Buckley, Blake Harrison and Joe Thomas will reprise their roles in the new film from creators Damon Beesley and Iain Morris, starting production on Monday.
+The film — a surprise world premiere at Telluride — picks up the story of the disgraced Theranos founder in the weeks leading up to her prison sentence, and then again two years into her incarceration.
 
-### Ground Floor Is a Political Parable Full of Apathy, Absurdity – and Mold (Exclusive Clip and Chat)
-Mon, 07 Sep 2026 07:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/venice-2026-film-clip-ground-floor-political-parable-hungary-1236681808/
+### Primetime, Chris Rock s Misty Green and Latest Paul Thomas Anderson Movie Join London Film Festival Lineup
+Mon, 07 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/primetime-paul-thomas-anderson-london-film-festival-tickets-1236693221/
 
-Hungary's Gábor Reisz, winner of the 2023 best film award in Venice's Horizons section for 'Explanation for Everything,' returns to the Lido in the Venice Spotlight program with a quixotic tale and dark humor.
+'Bunker' star Javier Bardem and 'Werwulf' director Robert Eggers will sit down for in-depth career conversations as part of LFF's Screen Talks program.
 
-### Rob Reiner and Betty Gilpin Win 2026 Emmys for Guest Actor and Actress in a Comedy Series
-Mon, 07 Sep 2026 02:55:11 +0000 — https://www.hollywoodreporter.com/tv/tv-news/rob-reiner-betty-glipin-win-2026-emmy-guest-actor-actress-comedy-1236692785/
+### Streaming Is Raising Prices Faster Than Cable Ever Did
+Mon, 07 Sep 2026 13:05:00 +0000 — https://www.hollywoodreporter.com/business/business-news/streaming-inflation-raising-prices-cable-1236691404/
 
-The awards were given out at Night 2 of the Creative Arts Emmys, held ahead of the Sept. 14 Primetime Emmy Awards.
+Congrats, you cut the cord. Now you have six more cords. Streaming prices are rising three times as fast as inflation, making escaping cable company greed now seem quaint.
 
-### Linda Cardellini Tearfully Calls First Emmy Win A Real Dream Come True
-Mon, 07 Sep 2026 02:49:53 +0000 — https://www.hollywoodreporter.com/tv/tv-news/linda-cardellini-supporting-actress-limited-2026-emmys-1236690855/
+### How a Sweet, Horny Hockey Show Rewrote the Rules of Independent TV
+Mon, 07 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/how-heated-rivarly-rewrote-rules-independent-tv-1236687243/
 
-Cardellini won the best supporting actress in a limited or anthology series or movie award for her performance in 'DTF St. Louis,' which also took home a few other trophies at the awards show on Sunday.
+Accent Aigu Entertainment turned a $200,000 lowball offer and a rabid BookTok fandom into the game-changing global hit ‘Heated Rivalry.'
 
 ## Deadline
+
+### Renate Reinsve, Johnny Flynn Vicky Krieps Set For Mia Hansen-Løve’s Mary Wollstonecraft Picture If Love Should Die As Goodfellas Boards Sales TIFF
+Mon, 07 Sep 2026 15:41:57 +0000 — https://deadline.com/2026/09/hansen-love-reinsve-flynn-krieps-wollstonecraft-love-die-1237070210/
+
+EXCLUSIVE: Renate Reinsve has been officially confirmed for the role of Mary Wollstonecraft in Mia Hansen-Løve’s epic and intimate period drama If Love Should Die as Goodfellas boards sales for a script-backed TIFF launch where it will be one of the buzziest European productions on the market. In fresh casting news, Reinsve is being joined by Johnny Flynn and Vicky Krieps [ ]
+
+### ‘Look Back’ Director Hirokazu Koreeda On Adapting Manga And Learning To Live With The Ghosts Of The Past – Venice Film Festival
+Mon, 07 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/look-back-director-hirokazu-koreeda-venice-film-festival-1237070143/
+
+Hirokazu Koreeda is not the world’s most prolific director or even Japan’s (that honor goes to Takashi Miike, who passed the 100-film milestone years ago). But he is certainly one of the most versatile and unpredictable; there are few directors who could follow the heart-wrenching poignancy of Still Walking (2008), a film about a family [ ]
+
+### Vertical Video Studio LoveHit Launches With Adaptations Of Literary Classics Starring Microdrama Regulars Eric Roberts
+Mon, 07 Sep 2026 14:15:00 +0000 — https://deadline.com/2026/09/lovehit-microdrama-literary-classic-originals-1237069378/
+
+EXCLUSIVE: Literary classics such as Wuthering Heights and Jane Eyre are getting the microdrama treatment. This is through the latest entrant into the microdrama field, LoveHit, an L.A.-based studio and app focused on originals based on classic literary adaptations. LoveHit, which launches this month, has a vertical video slate built entirely from classic novels in [ ]
+
+### Steve Callaghan s Trivia Night Mysteries Cozy Crime Franchise Expands With Two Movies
+Mon, 07 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/trivia-night-mysteries-steve-callaghan-franchise-expands-1237069391/
+
+EXCLUSIVE: There s no question about it, Steve Callaghan s Trivia Night Mysteries is expanding. The Nicely Entertainment-produced cozy crime franchise has wrapped production on its second and third instalments, Fit for a Murder and A Fatal Lesson, with stars Morgan Bradley (The Christmas Recipe Files) and Alex Trumble (A Scottosh Christmas Secret) reuniting in the lead [ ]
+
+### Paul Thomas Anderson’s Cameron Winter Concert Film Joins London Film Festival Lineup As Mubi Acquires World Rights
+Mon, 07 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/london-film-festival-paul-thomas-andersons-cameron-winter-1237070157/
+
+The London Film Festival has made several additions to this year’s lineup, including the concert film Paul Thomas Anderson shot at Carnegie Hall last year with Geese frontman Cameron Winter. Mubi has now also acquired global rights outside of North America to the film. Scroll down for the full list of LFF additions. Officially titled [ ]
+
+### Piers Morgan Launches Football Uncensored On YouTube After World Cup Series Scored 60M Views
+Mon, 07 Sep 2026 13:59:16 +0000 — https://deadline.com/2026/09/piers-morgan-launches-football-uncensored-youtube-1237070180/
+
+EXCLUSIVE: Piers Morgan is turning his FIFA World Cup show into a permanent series. The British journalist is launching the weekly series Football Uncensored, expanding a roster of YouTube shows that includes Piers Morgan Uncensored and The Royals Uncensored. Morgan will co-host Football Uncensored with Simon Jordan, the former owner of Premier League club Crystal [ ]
+
+### Colin Morgan Katie Leung To Narrate BBC Studios Gothic Horror Podcast Drama The Haunted Library
+Mon, 07 Sep 2026 13:45:34 +0000 — https://deadline.com/2026/09/bbc-podcast-haunted-library-colin-morgan-katie-leung-1237070142/
+
+EXCLUSIVE: Colin Morgan (Merlin) and Katie Leung (Harry Potter) will narrate The Haunted Library, a podcast about based around classic horror stories. The concept is for the pair to read titles from a fictional Gothic library, the doors to which open on September 21, with BBC Studios Audio producing and funding the series, which will [ ]
+
+### France Korea Pledge $1.16B For Global Screen Industries At South Of France Cinema Summit
+Mon, 07 Sep 2026 13:08:47 +0000 — https://deadline.com/2026/09/france-korea-one-billion-dollars-pledge-lumiere-summit-1237070166/
+
+France and Korea pledged to invest 1 billion euros ($1.16 billion) in the global screen industries from 2027 to 2031, in a cornerstone announcement of President Emmanuel Macron’s Lumière Summit devoted to the future of the moving image unfolding in the South of France on Monday. Korean President Lee Jae Myung, who is on a [ ]
 
 ### SNL UK Adds Comedian Big Boys Actor Freddie Meredith To Season 2 Cast
 Mon, 07 Sep 2026 10:51:54 +0000 — https://deadline.com/2026/09/snl-uk-freddie-meredith-season-2-cast-1237070134/
@@ -126,46 +166,6 @@ Mon, 07 Sep 2026 09:15:00 +0000 — https://deadline.com/2026/09/dori-media-new-
 
 EXCLUSIVE: Buyers seeking romance will have a chance for New Love at MIPCOM. Dori Media Group is launching Fremantle-owned Abot Hameiri s new dating format to the international TV marketplace ahead of MIPCOM. The show puts four single women into accelerated 72-hour live-in situations with carefully selected strangers – moving past dating apps and manufactured first [ ]
 
-### Gaza Cinema Academy Launches At Venice Film Festival To Help Gazans Tell Their Own Stories
-Mon, 07 Sep 2026 09:10:58 +0000 — https://deadline.com/2026/09/gaza-cinema-academy-venice-film-education-1237070099/
-
-The official launch of the Gaza Cinema Academy was announced at the Venice Film Festival on Monday, as the humanitarian crisis in the Palestinian territory continues to dominate global news. The initiative – co-founded by Palestinian filmmakers Ezzaldeen Shalh and Mai Masri – aims to establish a sustainable space for film education, training and production [ ]
-
-### Gary Oldman Claims James Bond Has Been Cast, As He Backs Jack Lowden To Play 007
-Mon, 07 Sep 2026 08:59:34 +0000 — https://deadline.com/2026/09/gary-oldman-james-bond-backs-jack-lowden-1237070096/
-
-Gary Oldman has claimed that the next James Bond has been decided. In an interview with Canada s Global, Oldman backed his Slow Horses co-star Jack Lowden to play 007, saying he had his fingers crossed for the Scottish actor. Oldman said: It’s been rumored that he’s on the shortlist. We’re going to find out pretty [ ]
-
-### A Good Little Soldier Trailer: Alba Rohrwacher Vincent Lindon Co-Star In Stéphane Brizé’s Venice Contender Exploring Toxic Corporate Culture
-Mon, 07 Sep 2026 08:35:12 +0000 — https://deadline.com/2026/09/good-little-soldier-alba-rohrwacher-vincent-lindon-trailer-1237070094/
-
-EXCLUSIVE: Stéphane Brizé’s A Good Little Soldier world premieres at the Venice Film Festival this week before heading onto Toronto for its North American debut and Deadline can reveal the first trailer. Brizé’s 11th fiction feature, A Good Little Soldier sees the director return to his exploration of the workplace at the heart of previous [ ]
-
-### Netflix Officially Confirms The Inbetweeners Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles
-Mon, 07 Sep 2026 08:00:02 +0000 — https://deadline.com/2026/09/netflix-confirms-inbetweeners-reunion-movie-cast-1237070074/
-
-Netflix has officially confirmed The Inbetweeners reunion move, announcing that production begins today with Simon Bird, James Buckley, Blake Harrison and Joe Thomas reprising their roles from the original hit show and movies. The announcement ends months of speculation over the revival of the hugely popular coming-of-age sitcom, following the misadventures of suburban teenager Will [ ]
-
-### Dvizhon Studios Launches With Sex Education Series The First Time A Featuring Puppet Presenter, Ukraine War Veteran Social Media Star Tumazar
-Mon, 07 Sep 2026 08:00:00 +0000 — https://deadline.com/2026/09/dvizhon-studios-launches-first-time-ukraine-1237069387/
-
-EXCLUSIVE: Ukrainian showrunner Yuri Dvizhon has launched a London-based production house with a celebrity-led sex education series. The First Time is a five-part series that has debuted on Eastern European streamer Megogo as Dvizhon Studios first show, featuring the likes of Ukrainian war veteran and amputee Oleksandr Teren, who led the 13th season of The [ ]
-
-### You Can See Everything Review: Shocking Elizabeth Holmes Documentary With Nathan Fielder Is Like No Other You Have Ever Seen Telluride Film Festival
-Mon, 07 Sep 2026 07:52:40 +0000 — https://deadline.com/2026/09/you-can-see-everything-review-elizabeth-holmes-documentary-1237070024/
-
-If you think you know everything there is to know about Elizabeth Holmes, think again. A24 and filmmakers Nathan Fielder (creator and star of The Rehearsal) and Lance Oppenheim who also directed Venice premiere Primetime and the brilliant 2020 docu Some Kind Of Heaven, are about the blow the lid off the story that has [ ]
-
-### Apple TV HBO Max Set Emmy Night 3 Showdown For No. 1 After String Of Early Wins
-Mon, 07 Sep 2026 06:17:07 +0000 — https://deadline.com/2026/09/apple-tv-hbo-max-2026-emmys-who-will-win-most-awards-1237069995/
-
-With the dust settled after frantic two Emmy ceremonies where 102 categories were awarded, the 2026 field has been narrowed down heading into the main September 14 telecast. Apple TV and HBO/HBO Max have positioned themselves as frontrunners with strong showing from multiple titles over nights 1 and 2, led by Widow s Bay (8 wins) [ ]
-
-### Telluride s Surprise Movie Sparks Industry Guessing Game As Studio Buyer Emerges; Update With A Winner The Dish
-Mon, 07 Sep 2026 05:58:00 +0000 — https://deadline.com/2026/09/telluride-surprise-movie-sparks-guessing-game-studio-buyer-1237069433/
-
-UPDATE TO UPDATE 10.58 PM PST: The surprise film was indeed a new Fielder and Lance Oppenheim doc about Holmes. The early reaction on social from those who saw it in Telluride is very strong. Here s a teaser from A24, which as we first revealed is the studio behind the zany-looking project. Release is set [ ]
-
 ## befores & afters
 
 ### Stranger Things and Spider-Noir win VFX Emmys
@@ -174,6 +174,21 @@ Mon, 07 Sep 2026 02:35:10 +0000 — https://beforesandafters.com/2026/09/07/stra
 Congrats to all the nominees! Outstanding Special Visual Effects in a Season or a Movie Stranger Things (s5) Betsy Paterson, Visual Effects Supervisor Michael Maher Jr., VFX Art Director Sean Ames, Additional VFX Supervisor Craig Seitz, Additional VFX Supervisor Tessa Roehl, VFX Co-Producer Chloe Lipp, Associate VFX Producer Brad Tobler, Senior VFX Editor Martin Hill, Senior VFX Supervisor, WĒTĀ FX Limited Richard Thwaites, VFX Producer, WĒTĀ FX Limited Bill Georgiou, VFX Supervisor, ILM Jessica Smith, VFX Consultant Mark Hawker, Special Effects Supervisor Outstanding Special Visual Effects in a Single Episode Spider-Noir • Nightmare On A Gurney Hnedel Maximore, VFX Supervisor Brooke Noska, VFX Producer Adam Rothstein, Additional VFX Supervisor Timothy Hanson, VFX On-Set Supervisor Jorge Macias, Lead VFX Artist Taylor Faulkinberry, Senior VFX Coordinator Joseph C Bond IV, VFX Editor Suzie Askham, VFX Supervisor (Cinesite) Tommy Tran, VFX Supervisor (Barnstorm) Cameron Neilson, VFX Supervisor (ILM) Adam Balentine, VFX Supervisor (Eyeline VFX) Sebastiano D’Aprile, VFX Supervisor (CoSA VFX) The post Stranger Things and Spider-Noir win VFX Emmys appeared first on befores & afters .
 
 ## IndieWire
+
+### Look Back Review: Hirokazu Kore-eda s Hyper-Faithful Adaptation Draws Rich and Dazzling New Textures from Manga and Anime
+Mon, 07 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/criticism/movies/look-back-live-action-movie-review-1235215203/
+
+Venice: Two girls bond over their love of creating manga in a bittersweet tragedy that gains as much as it loses during the jump to live-action.
+
+### Werner Herzog on David Lynch, AI, and Why His Unhinged New Film Bucking Fastard Skipped Cannes for Venice
+Mon, 07 Sep 2026 13:15:00 +0000 — https://www.indiewire.com/features/interviews/werner-herzog-interview-david-lynch-ai-bucking-fastard-1235215271/
+
+Venice: "Somehow, as a director, I've always managed to get the very, very best out of my actors," the documentary grandmaster tells IndieWire. The film stars Rooney and Kate Mara as twins who move and speak in near-perfect unison.
+
+### Rob Reiner Wins Posthumous Emmy, Julie Andrews, Widow s Bay Among Others Honored at Creative Arts Emmys
+Mon, 07 Sep 2026 12:47:40 +0000 — https://www.indiewire.com/awards/results/rob-reiner-julie-andrews-widows-bay-creative-arts-emmys-winners-list-1235215270/
+
+Night two of the Creative Arts Emmys also saw a strong showing from the recently canceled "Spider-Noir."
 
 ### You Can See Everything Review: Nathan Fielder and Lance Oppenheim s Elizabeth Holmes Documentary Is Boundary-Pushing and Absurd
 Mon, 07 Sep 2026 09:59:02 +0000 — https://www.indiewire.com/criticism/movies/you-can-see-everything-review-nathan-fielder-1235215268/
@@ -220,22 +235,17 @@ Sun, 06 Sep 2026 14:30:03 +0000 — https://www.indiewire.com/criticism/movies/t
 
 Venice: Rubaiyat Hossain’s drama about a taxing bride-to-be feels a little too easy.
 
-### Possible Love Review: Two Married Couples Begin to Covet Each Others Lives in the Latest Stunner from Burning Director Lee Chang-dong
-Sun, 06 Sep 2026 14:30:00 +0000 — https://www.indiewire.com/criticism/movies/possible-love-movie-review-1235215136/
-
-Class conflict achieves vivid new dimension in this sprawling Netflix drama about the relationship between a rich documentary filmmaker and her blue collar subjects.
-
-### The Debut Review: Julianne Moore Shines in Jesse Eisenberg s Story of Midlife Reinvention in Community Theater
-Sun, 06 Sep 2026 13:31:00 +0000 — https://www.indiewire.com/criticism/movies/the-debut-review-jesse-eisenberg-julianne-moore-1235215173/
-
-Telluride: Paul Giamatti is the overbearing director to Moore's aspiring actress in a film that celebrates the small spaces that birth future stars.
-
-### Susan Sarandon Says Roles Are Still Being ‘Taken Away’ from Her Amid Support of Palestine
-Sun, 06 Sep 2026 12:48:51 +0000 — https://www.indiewire.com/news/festivals/susan-sarandon-blacklisted-palestine-venice-2026-1235215160/
-
-”There are still very strongly held positions within my industry that are held by Zionists and who have not relaxed their feelings toward me,” she said at the Venice Film Festival.
-
 ## The Wrap
+
+### ‘Look Back’ Review: Gentle Live Action Remake Loses Magic in Translation
+Mon, 07 Sep 2026 15:05:00 +0000 — https://www.thewrap.com/creative-content/movies/look-back-review-live-action/
+
+Hirokazu Kore-eda’s “Look Back” follows the unlikely friendship between two young Japanese schoolgirls bound by their love of drawing, until they go their separate ways. In keeping with his recent works (like “Shoplifters” and “Monster”), the director maintains his knack for working with child actors to create a visually detailed drama whose emotions also, on occasion, feel just as thorough. But lost in Kore-eda’s tender translation is the sense of whimsy and childlike optimism that permeated both the original 2021 manga by Tatsuki Fujimoto and its masterful 2024 hour-long anime film by Kiyotaka Oshiyama. As the second adaptation of the comic in two years, the movie has a lot to live up to, though it only occasionally rises to the challenge. Playing the sixth grader Fujino, actress Furi Nanase crafts a feisty protagonist, whose four-panel manga makes her a standout in her school’s weekly paper. Boisterous and enthusiastic, her young ego takes a hit when she’s asked to share the page with a reclusive student who attends remotely, and whose lifelike drawings outshine her joking comic strips. After withdrawing into herself and eventually switching hobbies (she has a love of sports), Fujino is asked to hand-deliver a diploma earned by her rival in absentia. This is where she finally comes face to face with the courteous shut-in Kyomoto (Rokka Okada), a robe-sporting girl with messy hair, who, as it turns out, claims to be Fujino’s fan. Thus begins a beautiful friendship, where th
+
+### ‘Flesh Impact’ Review: Maggie Gyllenhaal Adds Marilyn Monroe to Her Roster of Complex Heroines
+Mon, 07 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/movies/flesh-impact-maggie-gyllenhaal-marilyn-monroe-review/
+
+This is a notable year for short films at the Venice Film Festival, with Saoirse Ronan making her directorial debut (“Paper Plane”), Laura Poitras looking at the ICE occupation of Minneapolis (“They’re Here”) and Nathan Silver chronicling a life change through the songs of birds (“Sounds From Home”), among others. But if you’re looking for star power and cinematic oomph, “Flesh Impact” is the biggest short to come out of Venice since Wes Anderson’s Oscar-winning “The Wonderful Story of Henry Sugar” premiered on the Lido in 2023. The 21-minute film was directed by Maggie Gyllenhaal, who’s serving as president of the Venice jury this year; it will make its debut before the Golden Lion Award ceremony to honor Ellen Burstyn, who stars in the film with Dakota Fanning; and it also features Peter Sarsgaard and newly-minted Emmy nominee Sepideh Moafi from “The Pitt.” And, oh yeah, it’s about Marilyn Monroe, who was born 100 years ago this year. Or, perhaps, it’s about the world that created, idolized and wrecked Marilyn Monroe, and the industry that simultaneously adored and exploited her. And about the women who followed her and got their own taste of the adoration and exploitation, definitely including Gyllenhaal herself. As a director, she is something of a provocateur, jumping through time to present two sides of a troubled and troubling woman in the quietly unnerving “The Lost Daughter” and then going a little nuts with this year’s grungy horror riff “The Bride!” “Flesh Impact” 
 
 ### Unveiling Telluride s Big Secret: Elizabeth Holmes Documentary Is Sheer Craziness
 Mon, 07 Sep 2026 08:16:09 +0000 — https://www.thewrap.com/creative-content/movies/tellurides-big-secret-elizabeth-holmes-documentary/
@@ -277,65 +287,55 @@ Sun, 06 Sep 2026 23:14:29 +0000 — https://www.thewrap.com/media-platforms/jour
 
 MS Now anchor Alex Witt signed off from the network Sunday afternoon, capping off a nearly three-decade run at the outlet. Witt, who has hosted a three-hour weekend afternoon program on the network since 2011, anchored her final broadcast on the network, handing off duties on-air to her successor Antonia Hylton. Hylton s weekend program The Assignment debuts Sept. 12. Please, Alex, can I say something real quick? You are one of one. You are the anchor s anchor, Hylton told Witt during the emotional exchange on the final edition of Alex Witt Reports. You are someone who, when the world is uncertain, the news is breaking, and we re a little unsure or scared. And we turn on our televisions. And we see you at this desk, sitting at this chair, we suddenly feel calm and more assured because you always guide people to the truth and to the facts, and you do it so gracefully, so dutifully, and beyond your many, many talents. You are so real. Witt recalled watching Hylton s early days as a broadcaster saying, This girl s got talent and returned some praise for her successor: You re smart and beautiful and I love the hair then and now. Tributes to Witt were peppered across MS Now s programming Sunday, with colleagues like Jacob Soboroff, Alicia Mendez, Katy Tur, Jonathan Capehart and Jackie Alemany honoring her long career at the network. Witt began in the TV news industry in 1990, with tenures at Today, WNYW-TV. She joined MS Now (then MSNBC) as an anchor in 1999. Her weekend program o
 
-### Gaza in Venice: Pieces of a Puzzle, But Never the Whole Picture
-Sun, 06 Sep 2026 22:59:51 +0000 — https://www.thewrap.com/commentary-analysis/columns/gaza-in-venice-pieces-of-a-puzzle-but-never-the-whole-picture/
-
-The frustration of trying to understand what is happening in Gaza is exemplified in a new documentary screening at the Venice film festival called “Citizen Osama” by Ahmed Hassouna, which was also recently chosen as the Palestinian entry in the Best International Feature Film category at the next Academy Awards. Through the daily life of a young Palestinian father named Osama al-Ashi, the documentary reveals up close and in detail the suffering of Gazans and their struggle to survive during the devastating war that has killed more than 70,000 people in the tiny strip. The war in Gaza followed Hamas’s invasion of Israel on October 7, 2023, the savage massacre of 1,200 people and the taking of 250 hostages to Gaza. Osama is a journalist presumably in Gaza City in the northern strip trying to keep his family safe while chronicling the war. Frustratingly, the film does not tell us very much in the way of simple facts: where and when the footage was shot, for example, or for whom Osama is working as a journalist. (He seems to be a videographer rather than a reporter.) This basic information matters for lots of reasons, not least for offering the viewer a framework for taking in a rare, ground-level view of a Palestinian’s daily experience. What “Citizen Osama” shows us effectively is the suffering of Palestinians on the daily. Gaza City is a hellscape in the midst of ongoing hostilities. Piles of rubble are heaped beside half-broken buildings, all in Osama’s neighborhood. When bui
-
-### Brendan Carr Is Looking at a Lot of Actions to Answer Trump s Call for FCC Punishment of Kristen Welker
-Sun, 06 Sep 2026 22:22:31 +0000 — https://www.thewrap.com/media-platforms/politics/fcc-weighing-actions-trump-threatens-welker/
-
-Federal Communications Commission chairman Brendan Carr shared that the regulatory agency is responding to President Trump s call for NBC journalist Kristen Welker to be met with rebuke or punishment. The president has alleged that Welker s reporting that he had a mixed record for endorsements this election cycle was done with purposeful inaccuracy. In an appearance on The Sunday Briefing on Fox News, the Trump-appointed Carr was asked about the president s threat against Welker. Carr responded by suggesting that broadcast news channels could face consequences if the agency interprets their reporting to not serve the public, citing fake polls designed to suppress voters as a potential risk. President Trump is over the target. We re looking at a lot of actions, Carr said, responding to host Peter Doocy. There s a lot of interest right now in fake polls that are out there. The FCC may put guidance out soon to remind broadcasters about their obligations with effect to not airing fake polls, particularly if they re done to suppress people heading into the fall. Carr said: One thing that President Trump gets, fundamentally, is that broadcast TV is completely different than other forms of distribution, including cable. So many broadcasters right now, they want to break the deal that they cut with the American people. They get billions of dollars in taxpayer (money) — effectively subsidize distribution. What they re supposed to do in exchange is operate in the public interest, not s
-
 ## Collider
 
-### The 7 Most Influential Adventure Movies of the Last 25 Years
-Mon, 07 Sep 2026 11:20:11 GMT — https://collider.com/most-influential-adventure-movies-last-25-years/
+### John Cena Officially Reveals His Secret WWE Heel Name That Vince McMahon Scrapped
+Mon, 07 Sep 2026 16:00:11 GMT — https://collider.com/john-cena-wwe-heel-name-fear-my-name-vince-mcmahon/
 
-Few movie genres have had so much staying power as adventure . Since the early days of cinema, audiences have been utterly transfixed by movies about grand, dangerous, and thrilling adventures in far-off lands, filled with daring heroes, handsome rogues, spirited damsels, and wicked villains. Adventure movies have had a long and storied journey on the big screen, from the early days of The Thief of Bagdad all the way to the Indiana Jones movies of the '80s.
+For nearly two decades, WWE fans wondered what a genuinely evil John Cena would look like. The company repeatedly resisted pulling the trigger while Cena was its biggest babyface, despite the fact that there were fewer superstars than him getting bigger boos. But all that finally changed in 2025, when Cena stunned the wrestling world by turning heel alongside The Rock at Elimination Chamber. While it's perhaps best we forget about how that ultimately went down, Cena has now revealed that WWE came considerably closer to giving him a heel turn more than a decade earlier than fans realized.
 
-### 2 Years Later, Tom Hardy’s Sci-Fi Franchise Finale Is Officially a Surprise Streaming Success
-Mon, 07 Sep 2026 11:00:11 GMT — https://collider.com/tom-hardy-venom-the-last-dance-streaming-hit-disney-plus-september-2026/
+### HBO’s ‘IT: Welcome to Derry’ Is Making a Major Genre Shift in Season 2
+Mon, 07 Sep 2026 15:28:11 GMT — https://collider.com/hbo-it-welcome-to-derry-season-2-genre-shift-time-jump/
 
-Director Guy Ritchie is never far from our screens, and he's back with a second season of two of his biggest shows this month. First is The Gentlemen , the Theo James -led crime comedy that took Netflix by storm. Second is the return of MobLand on Paramount+, which was a huge hit in its first season. It hasn't all been smooth sailing ahead of MobLand Season 2, with star Tom Hardy reported to have been fired from the show amid off-screen conflicts.
+When it was first announced that Stephen King 's novel It , which had already been adapted into a miniseries and two movies, was returning again as a prequel series on HBO Max , it felt like an unnecessary cash grab. Sure, Bill Skarsgård was returning, along with creatives Andy Muschietti and Barbara Muschietti , but what could be gained by having Pennywise chase a new group of kids?
 
-### The Best ‘Transformers’ Movie Officially Hits a 40th Anniversary Setback
-Mon, 07 Sep 2026 10:30:11 GMT — https://collider.com/transformers-the-movie-the-ultimate-visual-history-art-book-release-date-delay-november-24-2026/
+### ‘Harry Potter’ Season 2 Could Be the Real Problem in HBO’s Entire Reboot
+Mon, 07 Sep 2026 15:28:11 GMT — https://collider.com/harry-potter-season-2-delays-hbo-reboot-problem/
 
-The Transformers franchise has been around for over four decades now, and since then, the Autobots, Decepticons, and other alien machines have waged war across countless stages. Originally beginning as a toy line by Hasbro and Takara Tomy, it's since become one of the most profitable multimedia juggernauts out there, with 11 movies and an avalanche of animated series spread across different eras that don't just revolve around Optimus Prime and Megatron . Hollywood also brought them onto the big screen like never before with the visual spectacles that were Michael Bay 's ill-received but high-grossing live-action CGI films and their follow-ups, Bumblebee and Transformers: Rise of the Beasts . Yet, after 40 years, The Transformers: The Movie has come to be recognized as a cinematic high point of the franchise, with an epic story and surprising darkness and tragedy for a family film.
+HBO ’s Harry Potter reboot series was always going to have one enormous advantage over the movies: time. Eight episodes per book mean the series can linger on details that had to be squeezed out of the films, spend more time with supporting characters, and finally give J.K. Rowling ’s sprawling story room to breathe, but if the reports surrounding Season 2 are accurate, Harry Potter and the Chamber of Secrets may be exposing an uncomfortable problem with that approach before the reboot has even properly begun.
 
-### Ridley Scott’s 124-Minute Sci-Fi Spectacle Is Officially Returning to Streaming
-Mon, 07 Sep 2026 10:00:11 GMT — https://collider.com/ridley-scott-sci-fi-epic-prometheus-streaming-peacock-september-2026/
+### ‘Lost’s Worst Episode of All Time Changed the Colossal Sci-Fi Hit Forever
+Mon, 07 Sep 2026 15:11:11 GMT — https://collider.com/lost-worst-episode-season-3-stranger-in-a-strange-land/
 
-Director Ridley Scott 's long-awaited return to the sci-fi genre with The Dog Stars didn't exactly go according to plan. The movie underperformed in its box-office debut and received mediocre reviews. It had been nearly a decade since Scott made a sci-fi movie; his previous release was Alien: Covenant , which fell short of box-office expectations as well and sent its iconic franchise into hibernation for several years. The Alien series was resurrected by Fede Álvarez 's Alien: Romulus , which grossed $350 million worldwide and received an 80% score on the aggregator website Rotten Tomatoes. Scott wasn't quite impressed, however. In a recent interview with AlloCiné, he described the movie as "okay" and expressed his intention to return to the series.
+Lost premiered more than 20 years ago, and some of its greatest episodes remain benchmarks for serialized television. But having the luxury of 20-plus-episode seasons also meant the show could afford a few infamous misfires. None is more notorious than Season 3’s Jack-centric episode “Stranger in a Strange Land,” an hour that became emblematic of just how badly the series needed an endgame.
 
-### 'The Legend of Zelda' Officially Celebrates 40th Anniversary With New Release Next Month
-Mon, 07 Sep 2026 09:30:11 GMT — https://collider.com/legend-of-zelda-tears-of-the-kingdom-secrets-of-the-zonai-artbook-40th-anniversary-release-october-20-2026/
+### Disturbing New Horror Movie Shot Entirely on VHS Reveals Official First Look [Exclusive]
+Mon, 07 Sep 2026 15:00:11 GMT — https://collider.com/i-have-proof-image-larsen-deane-fantastic-fest/
 
-All eyes are on Nintendo , and specifically, The Legend of Zelda , as the year enters its final stretch. While Grand Theft Auto VI is undoubtedly the blockbuster gaming release of the fall, set to land with a seismic impact on November 19 , the company could still change the landscape of the season fairly notably depending on when it officially dates its Ocarina of Time remake . Tuesday, September 8, should finally answer when the much-anticipated game will arrive this year thanks to a special 40th anniversary Nintendo Direct celebrating a milestone year in Zelda's history. However, even before the future of the fantasy adventure series is explored, one release is already dated to commemorate the special occasion.
+Cinematic marvels like Christopher Nolan 's The Odyssey and James Cameron 's Avatar films are pushing the boundaries of what can be accomplished with cameras and demand to be seen on the biggest screen possible. However, while that may be great for a big-budget blockbuster, sometimes the horror genre is at its best when it's kept lo-fi. The Blair Witch Project , Lake Mungo , Skinamarink , and more have all managed to frighten on limited budgets , using a low-tech approach to their advantage to create eerie atmospheres. At this year's Fantastic Fest , prolific filmmaker James Cullen Bressack will return to his grungy horror roots with his own lo-fi flick, I Have Proof , a psychological descent into madness shot entirely on VHS that will play with viewers' sense of reality with its format.
 
-### 15 Most Quotable Fantasy Movies of All Time, Ranked
-Mon, 07 Sep 2026 09:11:11 GMT — https://collider.com/quotable-fantasy-movies-ranked/
+### ‘Saturday Night Live UK’ Season 2 Just Added Its Most Unexpected Secret Weapon
+Mon, 07 Sep 2026 14:40:14 GMT — https://collider.com/snl-uk-saturday-night-live-season-2-freddie-meredith/
 
-There are few movies more quotable than fantasy movies. These grand stories, full of rich imagination, set in grand fictional worlds with complex magic systems and mythical creatures of wonder, typically lend themselves to fun, memorable dialogue. Oftentimes, these lines of dialogue go down in movie history as some of the medium's most iconic , cementing fantasy as the perfect place for quotes that are inspiring, or funny, or badass, or all of those things at once.
+Four months after its breakout first season wrapped up on Sky and Peacock, Saturday Night Live UK returns Saturday with more behind it than when it premiered this past March. After winning Best Comedy at the Edinburgh TV Festival this year and seeing Jack Shep ’s wonderfully unhinged Princess Diana sketch take TV Moment of the Year, the show heads into Season 2 with real heat and a lot less to prove. The trick now is in fine-tuning its formula for more comedy without messing up the chemistry that made its first season such a surprise. Enter SNL UK ’s newest cast member, Freddie Meredith .
 
-### 5 Years Later, Matt Damon's Gritty, Twisty Thriller Is Taking Over HBO Max
-Mon, 07 Sep 2026 09:09:11 GMT — https://collider.com/matt-damon-action-thriller-no-sudden-move-streaming-hbo-max-september-2026/
+### The 10 Best Epic TV Shows of All Time, Ranked
+Mon, 07 Sep 2026 12:29:11 GMT — https://collider.com/best-epic-tv-shows-all-time-ranked/
 
-Note: The following contains spoilers for No Sudden Move
+Epic books are nothing new, by any means, and epic movies are only slightly newer because cinema, as a medium, is more recent than literature, as a medium/art form. TV shows that satisfy as epics are newer still, with the rise of more cinematic and higher-budgeted television around the start of the 21st century being a big factor in shows getting, you know, bigger.
 
-### Quentin Tarantino’s Favorite WWII Movie of the Decade Officially Storms Paramount+
-Mon, 07 Sep 2026 09:00:11 GMT — https://collider.com/dunkirk-ww2-movie-streaming-paramount-plus-september-2026/
+### 'The Day of the Jackal' Meets 'Money Heist' in Apple TV's New Crime Thriller Officially Coming This Fall
+Mon, 07 Sep 2026 12:00:11 GMT — https://collider.com/anthony-mackie-12-12-12-apple-tv-release-date-november-2026/
 
-Quentin Tarantino doesn't hold back his criticism of the film business and where it's headed, but he's equally passionate in his praise when he enjoys something. Earlier this year, Tarantino revealed that his favorite movie of 2026 is the Netflix crime-thriller The Rip , starring Ben Affleck and Matt Damon . Tarantino appreciated the film for standing out in an era defined by movies that lack personality. He also gave a shout-out to Horizon: An American Saga — Chapter 1 , the first installment of Kevin Costner 's epic Western franchise. Over the years, Tarantino has regularly updated his list of favorite films since he began directing. Now, his favorite WWII movie of recent times is streaming in the United States on Paramount+.
+In Peacock 's hit crime thriller The Day of the Jackal , a hitman and a detective engage in a cat-and-mouse game across Europe as the seasoned killer slips through every trap law enforcement has set. Things become personal when the detective figures out how the killer is moving, and it all ends in a devastating showdown. A similar game plays out in the hit Spanish crime thriller Money Heist , when a detective tries to capture a smart heist planner who has everything mapped out. Apple TV is now bringing its own version of this dynamic in a new thriller premiering this fall.
 
-### 13 War Movies That Are Perfect From Start to Finish
-Mon, 07 Sep 2026 03:41:11 GMT — https://collider.com/war-movies-perfect-from-start-to-finish/
+### The 6 Best Netflix Shows Released Since 2020, Ranked
+Mon, 07 Sep 2026 11:55:11 GMT — https://collider.com/best-netflix-shows-since-2020-ranked/
 
-War is hell, and it's simply a reality of the world we live in. From the earliest days of cinema, filmmakers have explored violent conflict from all kinds of angles with different intentions. On screen, depictions of war can serve as cautionary tales, tributes to those who served, pure spectacle—or some combination of all of these. The best of these films remain relevant, studied, rewatched, and sometimes controversial.
+Netflix has a peculiar talent for turning television into objects. A tracksuit becomes a Halloween costume. A haircut becomes a beauty trend. A piece of candy becomes a challenge people attempt on TikTok. By Monday morning, somebody who has never watched the show still recognizes the imagery. That machinery can manufacture attention remarkably fast. Making something people still care about after the homepage has moved on is much harder.
 
-### 8 Most Perfect Sci-Fi Shows of the Last 25 Years, Ranked
-Mon, 07 Sep 2026 03:22:11 GMT — https://collider.com/most-perfect-sci-fi-shows-last-25-years-ranked/
+### The 10 Best Fantasy Movies in Film History
+Mon, 07 Sep 2026 11:40:11 GMT — https://collider.com/best-fantasy-movies-film-history/
 
-Over the course of the last quarter of a century, science fiction fans have been treated to TV shows that have proven beyond a shadow of a doubt that sci-fi television is alive and well in the 21st century . Whether these shows are family-friendly or fully for adults, whether they're cartoons or live-action gems, and whether they revolutionized the genre or simply added a new masterful entry to its canon, they're all essential viewing for sci-fi fans.
+Fantasy has remained one of cinema's most popular and prolific genres for over a century for a reason: There are very few movie genres better fit for the medium of cinema than these stories of magic, mythology, and grand imaginary worlds. As such, it's no coincidence that several of the best fantasy movies in film history can also be counted among the best movies of all time, period .
 

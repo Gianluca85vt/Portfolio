@@ -1,6 +1,41 @@
-# Manga — harvested 2026-09-07T11:21:15.763Z
+# Manga — harvested 2026-09-07T16:03:02.888Z
 
 ## Anime News Network
+
+### Japan's Video Game Rankings, August 24-30
+Mon, 07 Sep 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/japan-video-game-rankings-august-24-30/.241457
+
+<cite>Rhythm Heaven Groove</cite> stays at #1 for 4 weeks straight; <cite>ELDEN RING Tarnished Edition</cite> for Switch 2 debuts at #2
+
+### Manta to Distribute Manga from KADOKAWA and Square Enix Globally
+Mon, 07 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/press-release/2026-09-07/manta-to-distribute-manga-from-kadokawa-and-square-enix-globally/.241472
+
+More than 300 titles have been added to Manta's catalogue, among them The Apothecary Diaries, Proud to be the Villainess, Daemons of the Shadow Realm, & more.
+
+### Japanese Animation TV Ranking, August 24-30
+Mon, 07 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/japanese-animation-tv-ranking-august-24-30/.241458
+
+<cite>Detective Conan</cite> gets 5.9% rating; From Old Country Bumpkin to Master Swordsman season 2 maintains 2.6% rating
+
+### Naoko Yamada Visited Mongolia to Prepare for Jaadugar: A Witch in Mongolia Anime
+Mon, 07 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/naoko-yamada-visited-mongolia-to-prepare-for-jaadugar-a-witch-in-mongolia-anime/.239700
+
+We spoke with Yamada about the anime's unique position as a historical series set in 13th-century Mongolia, and about how she and Góngora traveled to its real-life setting to experience life there firsthand.
+
+### Hololive VTuber Agency Launch 1st TV Anime Project From Studio Kai
+Mon, 07 Sep 2026 08:42:28 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/hololive-vtuber-agency-launch-1st-tv-anime-project-from-studio-kai/.241493
+
+"Odeholo" project is part of hololive's 10th anniversary celebration
+
+### Chiikawa Film Earns Total of 13.9 Billion Yen, Currently Biggest Film of 2026 in Japan
+Mon, 07 Sep 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/chiikawa-film-earns-total-of-13.9-billion-yen-currently-biggest-film-of-2026-in-japan/.241488
+
+Film surpassed <cite>Detective Conan: Highway no Datenshi</cite> film's 13.7 billion yen cumulative earning
+
+### A Tale of the Secret Saint TV Anime Reveals More Cast, October 3 Debut in Video
+Mon, 07 Sep 2026 07:49:31 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/a-tale-of-the-secret-saint-tv-anime-reveals-more-cast-october-3-debut-in-video/.241491
+
+Kikunosuke Toya joins cast as Curtis Bannister
 
 ### New Sgt. Frog TV Anime Reveals October 3 Debut, Main Cast in Video
 Mon, 07 Sep 2026 05:52:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/new-sgt-frog-tv-anime-reveals-october-3-debut-main-cast-in-video/.241485
@@ -27,46 +62,21 @@ Mon, 07 Sep 2026 03:07:11 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Film, TV, stage actor had roles in <cite>Ghost in the Shell: Stand Alone Complex, Fancy Lala, Shōnen Santa no Daibōken</cite>, more
 
-### Hunter x Hunter Manga Announces Hiatus, 4th Stage Play Featuring 'Chimera Ant Arc'
-Mon, 07 Sep 2026 02:07:08 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/hunter-x-hunter-manga-announces-hiatus-4th-stage-play-featuring-chimera-ant-arc/.241478
-
-Manga's return to be announced at a later date; 4th stage play to run in Tokyo, Kyoto in 2027
-
-### Black Clover Anime's 2nd Season Reveals October 3 Debut, Ending Theme by One or Eight
-Mon, 07 Sep 2026 01:19:36 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/black-clover-anime-2nd-season-reveals-october-3-debut-ending-theme-by-one-or-eight/.241479
-
-Crunchyroll to preview new season in U.S. theaters on September 21
-
-### White House Promotes Game Site With Music, Imagery From Sega, Nintendo, Sony, Microsoft
-Sun, 06 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-06/white-house-promotes-game-site-with-music-imagery-from-sega-nintendo-sony-microsoft/.241460
-
-Site promotes administration's current policies with mini games
-
-### Yomawari: The Long Night Collection, Lost in the Dark Games Head West on PS5
-Sun, 06 Sep 2026 23:13:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/yomawari-the-long-night-collection-lost-in-the-dark-games-head-west-on-ps5/.241463
-
-Games launch for PS5 on November 5
-
-### Qliphah in Providence's Shadow Game Posts Gameplay Trailer
-Sun, 06 Sep 2026 22:12:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/qliphah-in-providence-shadow-game-posts-gameplay-trailer/.241462
-
-"Tactical counter-timeline RPG" launches on PS5, Switch, PC on September 24
-
-### Fukakōryoku no I Love You Manga Goes on Hiatus Due to Creator's Health
-Sun, 06 Sep 2026 21:14:04 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/fukakoryoku-no-i-love-you-manga-goes-on-hiatus-due-to-creator-health/.241461
-
-Mizuki Hoshino launched shōjo romance in August 2023
-
-### Kodansha House Hosts The Fragrant Flower Blooms with Dignity Creator Saka Mikami in NYC
-Sun, 06 Sep 2026 20:44:45 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/kodansha-house-hosts-the-fragrant-flower-blooms-with-dignity-creator-saka-mikami-in-nyc/.241459
-
-Pop-up event to host Q&A, signing with Mikami on October 10, additional signing on October 11
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### hololive TV Anime by Studio KAI Announced, Full Details on September 23
+Mon, 07 Sep 2026 13:40:41 GMT — https://animecorner.me/hololive-tv-anime-by-studio-kai-announced-full-details-on-september-23/
+
+hololive is officially getting a TV anime, with Studio KAI (Sentenced to Be a Hero) handling animation production.
+
+### Singer Aimer Welcomes First Child, Leaves Agehasprings to Launch New Company With Husband
+Mon, 07 Sep 2026 13:12:29 GMT — https://animecorner.me/singer-aimer-welcomes-first-child-leaves-agehasprings-to-launch-new-company-with-husband/
+
+Aimer announced on Monday that she has given birth to her first child and&hellip;
 
 ### Persona 4 Revival Will Be Easy — and That's Nothing New for Persona
 Sun, 06 Sep 2026 23:21:43 GMT — https://animecorner.me/persona-4-revival-will-be-easy-and-thats-nothing-new-for-persona/
@@ -88,22 +98,22 @@ Sun, 06 Sep 2026 13:21:51 GMT — https://animecorner.me/rezero-season-4-tops-we
 
 Re:ZERO Season 4 has topped the weekly Summer 2026 anime rankings for the second time in Week 9 after its Episode 15.
 
-### BLEACH: Thousand-Year Blood War Episode 47 Streaming Delayed as Schedule Moves to Tuesdays for Numerous Platforms in Japan
-Sat, 05 Sep 2026 14:49:10 GMT — https://animecorner.me/bleach-thousand-year-blood-war-episode-47-streaming-delayed-as-schedule-moves-to-tuesdays-for-numerous-platforms-in-japan/
-
-BLEACH: Thousand-Year Blood War will change streaming schedule on numerous platforms in Japan beginning with Episode 47, moving to Tuesdays.
-
-### MyGO Covers Bocchi the Rock Opening Song "Seishun Complex"
-Sat, 05 Sep 2026 12:55:25 GMT — https://animecorner.me/mygo-covers-bocchi-the-rock-opening-song-seishun-complex/
-
-MyGO released a cover of the Bocchi the Rock anime's opening theme song "Seishun&hellip;
-
 ## MyAnimeList News
+
+### Manga Kimi wa Yotsuba no Clover Gets Anime Adaptation
+Mon, 07 Sep 2026 08:43:02 -0700 — https://myanimelist.net/news/74682926?_location=rss
+
+The official X (formerly Twitter) account of author Koushi announced on Tuesday that the Kimi wa Yotsuba no Clover (You Are a Four Leaf Clover) manga is receiving an anime adaptation, revealing an announcement visual (pictured). Koushi began serializing the romantic thriller manga in Shounen Champion in July 2024. Akita Shoten published the tenth volume on Tuesday. Synopsis Uichi, once a happy and popular boy, is now the victim of cruel bullying. Then suddenly Yotsuha, his childhood friend and f...
+
+### Studio KAI Produces Hololive TV Anime Odeholo
+Mon, 07 Sep 2026 08:11:45 -0700 — https://myanimelist.net/news/74682835?_location=rss
+
+Production company Kadokawa and entertainment company Cover Corporation announced on Monday that VTuber agency Hololive is producing a television anime titled Odeholo, revealing an announcement visual (pictured above) and announcement promo. Studio KAI, the animation studio behind Yuusha-kei ni Shosu (Sentenced to Be a Hero) and Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleton Knight in Another World), is producing the anime project. The project was revealed during the "Hololive...
 
 ### Keroro Gunsou☆ Reveals Main Cast, Staff, First Promo
 Mon, 07 Sep 2026 02:41:33 -0700 — https://myanimelist.net/news/74681689?_location=rss
 
-The official website for a new television anime adaptation of Mine Yoshizaki s Keroro Gunsou (Sgt. Frog) manga revealed the main cast, staff, a key visual (pictured right), and the first promotional video on Monday. The anime series is scheduled to premiere on October 3 at 9:30 a.m. on TV Tokyo. Cast Keroro Gunso: Makoto Koichi (Tomo-chan wa Onnanoko!) NEW Tamama Nitobei: Rika Nagase (PriPri Chii-chan!!) NEW Giroro Gocho: Toshiki Masuda (Boku no Hero Academia) NEW Kururu Socho: Kousuke Ech...
+The official website for a new television anime adaptation of Mine Yoshizaki s Keroro Gunsou (Sgt. Frog) manga revealed the main cast, staff, a key visual (pictured right), and the first promotional video on Monday. The anime series is scheduled to premiere on October 3 at 9:30 a.m. on TV Tokyo. Cast Keroro Gunso: Makoto Koichi (Tomo-chan wa Onnanoko!) NEW Tamama Nitobei: Rika Nagae (PriPri Chii-chan!!) NEW Giroro Gocho: Toshiki Masuda (Boku no Hero Academia) NEW Kururu Socho: Kousuke Echi...
 
 ### Dark Machine: The Animation Announces Supporting Cast
 Mon, 07 Sep 2026 02:14:56 -0700 — https://myanimelist.net/news/74681527?_location=rss
