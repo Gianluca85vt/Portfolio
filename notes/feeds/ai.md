@@ -1,6 +1,11 @@
-# AI — harvested 2026-09-06T21:15:33.128Z
+# AI — harvested 2026-09-07T09:44:03.043Z
 
 ## OpenAI
+
+### Supporting independent journalism in Ukraine
+Mon, 07 Sep 2026 00:00:00 GMT — https://openai.com/index/supporting-independent-journalism-in-ukraine
+
+OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.
 
 ### An Alien Mind
 Sun, 06 Sep 2026 09:00:00 GMT — https://openai.com/index/an-alien-mind

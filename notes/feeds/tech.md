@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-06T21:15:33.128Z
+# Tech — harvested 2026-09-07T09:44:03.043Z
 
 ## Ars Technica
 
@@ -17,17 +17,12 @@ Sat, 05 Sep 2026 15:17:36 +0000 — https://arstechnica.com/cars/2026/09/teslas-
 
 Tesla’s Cybercab, a distinctive two-seater without a steering wheel or brake pedals, is set to start picking up members of the public in two states. But the vehicle is already under investigation by the US federal government, which is probing whether it meets federal safety standards. The investigation comes just hours after the electric automaker welcomed hundreds of fans to downtown Austin to ride in the driverless Cybercabs. Tesla plans to deploy the vehicles on its Robotaxi ride-hail network , which is currently operating in a handful of cities in Texas and Florida. The National Highway Traffic Safety Administration is updating vehicle standards to make it easier and faster for driverless cars to deploy on public roads. It’s currently tweaking eight rules, including those requiring car parts that driverless cars don’t really need: brake pedals, windshield wipers, and rearview mirrors. But for now, years-old standards remain in place. Read full article Comments ]]>
 
-### After 8 years, Europe's BepiColombo mission is on final approach to Mercury
-Fri, 04 Sep 2026 22:49:17 +0000 — https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/
-
-The BepiColombo mission cleared a major milestone this week in the final stretch of an eight-year interplanetary voyage to Mercury, the hard-to-reach, scorching hot iron world at the Solar System's innermost frontier. The robotic science mission, with a price tag of nearly $2 billion, is led by the European Space Agency with contributions from Japan and the United States. Since its launch in 2018, BepiColombo has spiraled closer to the Sun using a combination of plasma propulsion and a series of flybys of Earth, Venus, and Mercury. The maneuvers changed the spacecraft's velocity and steered it toward a final encounter with Mercury later this year. Next time it reaches Mercury, BepiColombo will be traveling at just the right speed for the planet's gravity to capture the spacecraft into orbit. Scientists working on interplanetary missions are accustomed to long waits for scientific payoffs. It took nearly 10 years for NASA's New Horizons spacecraft to travel from Earth to Pluto. It turns out traveling to fleet-footed Mercury and then entering orbit requires more energy, or delta-v, than sending a probe to fly by Pluto. Read full article Comments ]]>
-
-### OpenAI agents discussed ways to escape their sandbox on public wiki
-Fri, 04 Sep 2026 22:17:36 +0000 — https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
-
-Self-identifying OpenAI agents posted 18,000 messages to a public wiki that discussed ways for other agents to bypass security sandbox restrictions during what was likely internal testing designed to gauge the agents’ hacking abilities, researchers said Friday . In all, agents with 3,700 distinct self-given names posted the messages to German site DSEwiki over a six-week period. Besides discussing ways the agents could break out of the restricted environment OpenAI intended to prevent them from posting code or content to the Internet, the posts shared test answers. The posts also shared possible ways to perform XSS (cross-site scripting) attacks against the wiki and to impersonate site moderators. In three of the posts, agents used the word “swarm” to describe the collection of agents engaged in the activity. Colluding to share answers The research team—composed of Sydney Von Arx, Spencer Kitts, Thomas Larsen, and Cormac Slade Byrd—said they found the posts and pieced them together. The researchers say there are gaps in their understanding of precisely what actions the agents took because the research is based solely on the content of the posts. Additionally, the agents generated “chain of thought” data that’s understood only by OpenAI. As a result, the researchers said, they in some cases made educated guesses, including that the agents were, in fact, from OpenAI. In a statement, OpenAI later confirmed they were. Read full article Comments ]]>
-
 ## The Verge
+
+### Seattle Times and Newsday sue OpenAI and Microsoft for infringement
+2026-09-06T19:36:04-04:00 — https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft
+
+The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement . The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by The New York Times , Ziff Davis , Merriam-Webster, and Encyclopedia Britannica against OpenAI. The Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI's technology. The publishers join a list of nearly 400 local newspapers that recently sued the two … Read the full story at The Verge. ]]>
 
 ### An Amazon cargo plane crashed at Miami International Airport
 2026-09-06T16:56:38-04:00 — https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami
@@ -57,7 +52,7 @@ To get started with competitive Pok&eacute;mon battles, all you need is your pho
 ### DIY plug-in solar gains momentum in the US
 2026-09-06T08:00:00-04:00 — https://www.theverge.com/column/990183/diy-plug-in-solar-us
 
-EcoFlow’s high-end, weatherproof, plug-in solar kit with integrated battery. | Image: EcoFlow This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere , follow Thomas Ricker . The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here . How it started With a deep breath, I took the cable seething with 800W of solar power and plugged it directly into a standard wall jack in my home. Nothing sparked, nothing smoked, and by the end of that sunny summer day, my electricity bill had dropped to nearly $0. As unnerving as it sounds to treat a common household power outlet as a power input , these DIY plug-in sol … Read the full story at The Verge. ]]>
+EcoFlow’s high-end, weatherproof, plug-in solar kit with integrated battery. | Image: EcoFlow This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere , follow Thomas Ricker . The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here . How it started With a deep breath, I took the cable seething with 800W of solar power and plugged it directly into a standard wall jack in my home. Nothing sparked, nothing smoked, and by the end of that sunny summer day, my electricity bill had dropped to nearly $0. As unnerving as it sounds to treat a common household power outlet like a power input , these DIY plug-in s … Read the full story at The Verge. ]]>
 
 ### Explore the globe in field recordings
 2026-09-05T17:31:34-04:00 — https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings
@@ -73,11 +68,6 @@ When iOS 27 lands later this month, it will have a feature called iPhone Handoff
 2026-09-05T12:49:33-04:00 — https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence
 
 There’s some real gems in there. | Photo: Terrence O’Brien / The Verge According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 percent, and 58.6 percent in dollars, which reached $171.1 million. What makes this all the more shocking is that CD sales actually shrank 22 percent from 2024 to 2025. The RIAA isn't the only one to notice the boom in CD sales. In July, research firm Luminate released a report saying that 16.3 million units were sold in the first half of 2026. It sug … Read the full story at The Verge. ]]>
-
-### Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy
-2026-09-05T11:00:00-04:00 — https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview
-
-Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in a row. Holloway's goal has always been about bringing fantasy football to a wider audience, not just hardcore nerds. With the NFL season starting next week and fantasy drafts in full swing, now seemed like a great time to see how Holloway stays focused during what is probably the busiest part of the year for a serious fantasy … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -143,6 +133,11 @@ Microsoft just released another version of Windows 11 designed for developers, d
 
 ## Phoronix
 
+### Linux 7.3-rc2 Released Following Another Busy Week
+Sun, 06 Sep 2026 18:22:25 -0400 — https://www.phoronix.com/news/Linux-7.3-rc2-Released
+
+After the Linux 7.3 merge window concluded last weekend, today we are up to the Linux 7.3-rc2 test kernel release in working toward the stable v7.3 kernel during the second half of October...
+
 ### Shotcut 26.9 Video Editor Beta Brings UI Improvements, Better Audio Quality
 Sun, 06 Sep 2026 15:58:05 -0400 — https://www.phoronix.com/news/Shotcut-26.9-Beta
 
@@ -198,12 +193,42 @@ Sat, 05 Sep 2026 07:20:00 -0400 — https://www.phoronix.com/news/Nouveau-Blackw
 
 This week's Direct Rendering Manager (DRM) fixes that were merged ahead of Sunday's Linux 7.3-rc2 release contain a number of fixes to the open-source Nouveau driver's display support for current-generation NVIDIA Blackwell GPUs...
 
-### Linux Patches Posted For Initial Enablement Of The Apple A18 Pro + MacBook Neo
-Sat, 05 Sep 2026 07:11:11 -0400 — https://www.phoronix.com/news/Apple-A18-Pro-MacBook-Neo-Patch
-
-In addition to Linux developers focused on Apple Silicon being busy enabling functionality for the M3 and newer SoCs under the Linux kernel, there are also developers working on enabling the A18 Pro SoC used by the new, budget-friendly MacBook Neo laptop. Patches were posted this week for initial enablement of the A18 Pro and the MacBook Neo Device Tree... But even with these patches, the Linux support is still severely limited for now...
-
 ## The Register
+
+### Peers ask why UK cyber bill leaves execs off the personal liability hook
+Mon, 07 Sep 2026 11:15:00 +0200 — https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586
+
+Peers have questioned why the UK's Cyber Security and Resilience Bill does not allow regulators to penalize senior executives when an organization's failure to comply involves their consent, connivance, or deliberate or careless neglect. Echoing arguments heard across the industry for years, Baronesses Kidron and Ludford backed probing amendments that would introduce personal civil liability for senior execs and make cybersecurity a board-level responsibility. "The intention behind the amendment is to change the culture of an organization, to ensure preventative action is taken, to avoid penalties," said Baroness Kidron. "As I said at the outset, culture change starts at the top." The Register has previously reported on calls for NHS organizations, some of which would be covered by the bill's reforms, to treat cybersecurity as a board-level priority. More recently, 60 organizations committed to the aims of the UK government's Cyber Resilience Pledge, promising to ensure their boards take responsibility for their organization's cybersecurity. Peers supporting the amendments pointed to financial sector rules introduced over the past decade that can impose regulatory or criminal liability on the C-suite for serious failings. They argued that the amendments would bring the bill closer to the EU's NIS2 directive, which includes senior management accountability measures. Personal liability is not mandatory under NIS2, however, and member states have implemented it differently. Supp
+
+### OpenAI's rebel agent swarm died young, but its chilling logs live on
+Mon, 07 Sep 2026 10:30:00 +0200 — https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446
+
+OPINION You will have heard of July's OpenAI/Hugging Face incident, where thousands of the former's AI agents conducted a mass jailbreak from a notionally secure capture-the-flag lab experiment, before going on to feloniously capture chunks of Hugging Face's assets. It was a good news story, aided by OpenAI's rapid recruitment of a small team of independent researchers to investigate and publish a detailed, if limited, report. It was a complex incident, and most coverage concentrated on the major hows and whys. Which is a shame, because other details, described by El Reg with uncharacteristic understatement as "fascinating and troubling," are in fact highly dramatic, telling a truly disturbing story of frontier model capabilities and how they are out-evolving our ability to oversee them. The raw story is gripping enough. A rebel swarm of more than a thousand agents broke free from their sandboxes, learned how to talk to each other and the internet, and went on a rampage of cheating, deception, and exploitation. They first learned to communicate with each other by independently discovering how to bend package manager Artifactory's cache to see internal directory structures, and then passing messages by file names. It was this ad hoc secret message board, alongside chain-of-thought transcripts, that the security researchers used to unpick events. They found that the swarm quickly developed management hierarchies among themselves, along with protocols for synchronizing and contr
+
+### Amazon-branded plane in fatal accident at Miami Airport
+Mon, 07 Sep 2026 09:02:00 +0200 — https://www.theregister.com/on-prem/2026/09/07/amazon-branded-plane-in-fatal-accident-at-miami-airport/5294707
+
+Two runways are currently closed at Miami International Airport after an Amazon-branded cargo plane overran a runway, resulting in five fatalities. The leased 767, which bears the “Prime Air” brand Amazon uses for its air freight and drone operations, landed but was unable to stop before the end of the 2850-meter runway 30. The plane appears to have exited the runway and the airport grounds, crossed a road, and come to a halt in what looks like a carpark. As it ran across grass beyond the runway, the plane’s nose pitched down into the ground, its starboard engine caught fire, and the craft sustained extensive damage. Local authorities have confirmed that five people died, and three are severely injured. A statement from Amazon spokesperson Kelly Nantel says the company is”heartbroken to learn that five people lost their lives in today’s incident at Miami International Airport.” The statement identifies the operator of the plane as 21Air, a company that leases cargo planes and crew to its customers. 21Air CEO Keith Winters said “We are devastated by the accident involving one of our aircraft in Miami today. Our deepest condolences are with the families and loved ones of those who lost their lives. Our immediate priorities are supporting those affected, assisting the authorities, and ensuring that accurate information is communicated as it becomes available.” At the time of writing, the crash is just over 12 hours in the past, so investigators’ work has just begun. A video purp
+
+### Who, Me? Techie sent to fix Nobel Prize winner’s PC almost set it on fire
+Mon, 07 Sep 2026 08:30:00 +0200 — https://www.theregister.com/personal-tech/2026/09/07/who-me-techie-sent-to-fix-nobel-prize-winners-pc-almost-set-it-on-fire/5294430
+
+WHO, ME? Every Monday morning The Register asks the same question – “Who, Me?” – because that’s the name of our weekly reader-contributed column that shares your stories of workplace scrapes, escapes, and japes. This week meet a reader we’ll Regomize as “Marc” who told us that he graduated in the early 1990s and soon scored his first job – supporting PCs for Very Important Professors (VIPs) at the graduate school run by his alma mater. “Some of these VIPs went on to win Nobel Prizes,” Marc told The Register – although at the time this story took place none had become laureates. One tool that helped them work toward academic greatness was an IBM PC powered by an Intel 286 processor. “Take a moment to remember the physicality of the humble nine-pin RS-232 connector,” Marc urged, recalling that the plugs were brilliantly simple – but that in the early 1990s not all used the same pin for the same purpose. “For an actual serial RS-232, the power pin is well defined. But those of a certain age will remember a different IBM pinning for the physically identical connector,” he reminded The Register. “Specifically for the power pin on IBM’s proprietary mouse.” You can probably guess where this story leads. One of the VIPs was doing Very Important Work, but their mouse wasn’t working. Marc brought a replacement mouse, plugged it into the first port that looked appropriate, and rebooted the PC. “Immediately it started to smoke!” he admitted. “Foul smelling, unforgiving, electrical smoke.
+
+### Jensen's purchase of a new toy could reshape the entire AI industry
+Mon, 07 Sep 2026 07:30:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/07/jensens-purchase-of-a-new-toy-could-reshape-the-entire-ai-industry/5294610
+
+KETTLE AI repository Hugging Face will soon be an Nvidia property, and while everyone's promising things will remain the same we at The Register's Kettle desk aren't so sure the status quo is going to stay the status quo at the AI industry's leading open model host. You can listen to the latest episode of The Kettle right here on this page, as well as on Spotify, Apple Music, or YouTube. Those platforms also let you subscribe to Kettle, so you are always notified when the latest episode goes live. Joining host Brandon Vigliarolo this week is reporter Dan Robinson, who broke the news of Nvidia's $12.9 billion acquisition for El Reg yesterday, weighs in on what he heard during the announcement call, while senior reporter Tom Claburn opines on what he sees coming. A lightly edited transcript is below: Brandon (00:01) Hello and welcome to another episode of The Register's Kettle podcast. I'm Reg reporter Brandon Vigliarolo, and if you've been keeping an eye on things the past few days, you probably already know what the big tech news story of the week is, and that's Nvidia's $12.9 billion acquisition of AI repository Hugging Face. With me to discuss this deal and what it might mean for the future of the AI sector for both companies and developers is our reporter Dan Robinson and senior reporter Tom Claburn. Thanks for coming on, guys. Tom (00:31) Thank you. Brandon (00:31) All right, so Dan, you broke this story, I think it was just yesterday now, and you were on the conference c
+
+### Might as well blame AI for this giant Linux release candidate, says Linus Torvalds
+Mon, 07 Sep 2026 04:32:33 +0200 — https://www.theregister.com/os-platforms/2026/09/07/might-as-well-blame-ai-for-this-giant-linux-release-candidate-says-linus-torvalds/5294697
+
+Linux kernel boss Linus Torvalds has decided he might as well blame AI for a version 7.3 release candidate that’s larger than was usually the case before LLMs came into our lives. “This didn't *feel* like a particularly busy rc2, but it clearly was,” he wrote in his regular Sunday kernel update post. “rc2 is usually the quietest time when people take a breather after the merge window and it takes a while to start finding bugs. But not this time - this is a ‘full fat’ rc release.” Torvalds said he can’t find a single cause for the big release. “I'd like to point to the late EDAC pull that was forgotten and didn't happen during the merge window, but honestly, that's a fairly small thing,” he wrote. “No, rc2 had several filesystems sending in their fixes, and there's a fairly sizable drm pull with lots of scattered fixes. Along with networking and bpf sending in fixes. *And* a number of driver trees too.” “Nothing looks particularly odd,” he added. “It might be just random, but we'll obviously all blame it on AI, because whether that's really the cause or not, it's an easy thing to blame ;)” Last week, Torvalds blamed himself for kernel complications in the post announcing the first release candidate for Linux 7.3. “Nothing really stands out - except for the fact that it's big. It's not the biggest rc1 we've ever had, but it's certainly up there, at least in number of commits,” he wrote, before admitting he “made it unnecessarily hard for myself by being a grade A nincompoop and
+
+### Thailand pauses all datacenter builds and approvals
+Mon, 07 Sep 2026 03:05:51 +0200 — https://www.theregister.com/off-prem/2026/09/07/thailand-pauses-all-datacenter-builds-and-approvals/5294688
+
+ASIA IN BRIEF Thailand’s National Economic and Social Development Council last week decided to pause all datacenter builds in the country, while it works out appropriate regulations. The Council announced the pause last Friday in a communiqué issued after a meeting of its Datacenter Business Policy Committee, at which Thailand’s Prime Minister and Interior Minister Anutin Charnvirakul said datacenters are an important part of the nation’s economy – but admitted his government doesn’t have good data about how many of the facilities currently operate, or the pipeline for new builds. That’s quite an admission as community disquiet with datacenter development has become an issue in Thailand. The Council’s development approval pause gives operators and investors a week to submit info about their operations, to help the government expedite development of a unified regulatory framework for datacenters. Bangkok also wants to develop a plan to determine how many datacenters Thailand needs, and the format of those facilities. The Council’s starting point is to consider all datacenters using more than 2 MW of electricity as industrial businesses, consider the introduction of “resource utilization fees” so that indirect costs that flow from datacenter builds don’t increase costs for the public, and establishment of an assessment process for future builds to ensure that new datacenters “create the most benefit for Thailand.” The government hopes that the result is a datacenter ecosystem t
 
 ### Time lords prepare to kick leap seconds into the next millennium
 Sun, 06 Sep 2026 10:09:00 +0200 — https://www.theregister.com/offbeat/2026/09/06/time-lords-prepare-to-kick-leap-seconds-into-the-next-millennium/5294538
@@ -215,12 +240,42 @@ Sun, 06 Sep 2026 03:06:00 +0200 — https://www.theregister.com/public-sector/20
 
 The US military's effort to prevent troops from being tracked by adversaries through purchased location data hasn't worked as well as anticipated, and lawmakers want to know why. US Senator Ron Wyden (D-OR) and Rep. Pat Harrigan (R-NC) on Friday asked for an investigation by the Defense Department Inspector General into policies that have only partially stanched the flow of location data that allows military personnel to be tracked and targeted. In May, Wyden, Harrigan, and a bipartisan group of 12 other members of Congress released details about how commercially purchased location data – often captured by mobile apps and advertising SDKs – can be used to identify where US military personnel gather and to target those locations. They noted that the DoD has been aware of this threat since at least 2016. The lawmakers urged Defense Department CIO Kirsten A. Davies to take steps to mitigate this risk, including turning off advertising identifiers on DoD smartphones and issuing a policy requiring the disabling of advertising identifiers on all personal devices brought into DoD facilities or overseas. Since then, various military branches have blocked advertising identifiers on government-issued devices. According to the letter, "several DoD components – the Army, Air Force, Navy and Marine Corps, and Special Operations Command – confirm that they now disable advertising IDs on government-issued devices to protect their personnel from such threats." But that hasn't entirely elimin
 
-### BepiColombo sheds its ride and starts the final glide to Mercury
-Sat, 05 Sep 2026 08:41:00 +0200 — https://www.theregister.com/science/2026/09/05/bepicolombo-sheds-its-ride-and-starts-the-final-glide-to-mercury/5294601
-
-After nearly eight years, ESA and JAXA's BepiColombo spacecraft is finally nearing Mercury, as engineers begin the arrival sequence by jettisoning the power module that got it this far. The spacecraft stack separated from the Mercury Transfer Module (MTM) on September 3 at around 1400 CEST. After a tense few minutes, controllers confirmed that a preliminary Doppler signal had been detected, indicating that the MTM had separated successfully; by 1552 CEST, it was confirmed that signals had been picked up, indicating that all had gone to plan. The solar panels of the Mercury Planetary Orbiter (MPO) were charging the spacecraft's batteries. The next stage involves dropping into orbit around Mercury on November 21. Then the Mercury Magnetospheric Orbiter (MMO) – aka Mio – will be released between December 9 and 10, and a week later MPO will start moving to its final orbit over 480 x 1500 km, with science commencing in April 2027. The arrival is a year later than planned. BepiColombo was supposed to have been orbiting Mercury in December 2025, but problems with the spacecraft's Solar Electric Power (SEP) system meant the trajectory had to be rethought, which extended the spacecraft's cruise. BepiColombo is no stranger to Mercury and has performed six flybys of the planet since 2021. It has also conducted flybys of Venus and Earth following its 2018 launch. The spacecraft is an impressive example of international cooperation. The MPO and MTM are ESA contributions, while the MMO com
-
 ## Engadget
+
+### Is it safe to buy a refurbished iPhone from Walmart?
+Mon, 07 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2248893/is-it-safe-buy-refurbished-iphone-walmart/
+
+Walmart provides lower-cost refurbished phones than buying from Apple directly, but you also have to navigate through more sellers and terms.
+
+### When are portable Apple CarPlay screens actually worth it?
+Mon, 07 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2248887/when-portable-apple-carplay-screen-worth-it/
+
+Many recent vehicles had CarPlay and Android Auto built in, but if yours doesn't, you can add a portable one to your dash.
+
+### The pros and cons of using wireless Android Auto
+Sun, 06 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2248846/pros-and-cons-wireless-android-auto/
+
+Wireless Android Auto delivers on the promise of making your life easier most of the time, but ditching the cable can come with a number of tradeoffs.
+
+### 10 Smart Gadgets That Could Instantly Upgrade Your Backyard
+Sun, 06 Sep 2026 23:15:00 +0000 — https://www.engadget.com/2248646/smart-gadgets-could-instantly-upgrade-backyard/
+
+Smart outdoor tech is changing how people use their backyards, and this handful of clever upgrades can make your space more useful and enjoyable.
+
+### How to use your MacBook's built-in backup tool instead of paying for cloud storage
+Sun, 06 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2248819/how-to-use-time-machine-backup-macbook-dont-pay-for-cloud-storage/
+
+If you're searching for a backup option and don't need to access your files from the cloud, you won't need to look beyond what Apple's macOS has to offer.
+
+### Common problems with Apple Wallet and how to fix them
+Sun, 06 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2248762/how-to-fix-common-apple-wallet-problems/
+
+Apple Wallet and Apple Pay are great, but only if they're working properly. There are some basic troubleshooting steps when payments won't go through.
+
+### The Slate Truck is great, but this one problem may stop a lot of folks from buying it
+Sun, 06 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2248744/slate-truck-not-available-outside-united-states/
+
+Slate's build-a-truck model aims to keep costs low by only including features you'll use. But it won't be popular outside the U.S.
 
 ### How To Send High-Quality Images And Videos From Android To iPhone
 Sun, 06 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2248718/how-to-send-high-quality-images-videos-android-to-iphone/
@@ -247,42 +302,12 @@ Sun, 06 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2247843/how-to-set-
 
 The idea of your child using ChatGPT can be daunting, but OpenAI's new teen-focused tools provide granular controls over what they can and can't access.
 
-### How to find your iPhone even when it's off
-Sun, 06 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2247577/how-to-find-iphone-when-off/
-
-If you lose your iPhone, it's findable even after someone turns it off or the battery drains, as long as you don't delay.
-
-### The pros and cons of using an iPad as a laptop
-Sun, 06 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2247481/using-ipad-as-laptop-pros-and-cons/
-
-An iPad has several advantages over a laptop, including its touch screen and portability. But depending on what you want to do, it might not be enough.
-
-### Is 256GB enough for an iPhone? Here's when you should go bigger
-Sun, 06 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2242766/is-256gb-enough-for-an-iphone-heres-when-you-should-go-bigger/
-
-Is 256GB enough for an iPhone? Here's when you should go bigger.
-
-### How long can you expect a PlayStation 5 DualSense controller to last?
-Sun, 06 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2248626/how-long-playstation-dualsense-wireless-controllers-last/
-
-The PS5 controller has various longevity concerns to consider, including its battery life and overall useful lifespan.
-
-### You probably don't need two routers — do this instead
-Sun, 06 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2246469/two-routers-probably-dont-need-do-this-instead/
-
-For better coverage or more wired connections, mesh, access points and Ethernet switches usually make more sense than a second active router.
-
-### Foldable phones still need to fix this problem
-Sun, 06 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2246419/foldable-phones-still-need-to-fix-biggest-problem-wobble/
-
-Samsung's Z Fold series has improved the foldable phone form factor over time, but there remains an issue that the rumored iPhone Ultra may not remedy.
-
-### What's the difference between volatile and non-volatile memory?
-Sun, 06 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2246458/volatile-vs-non-volatile-memory-difference-between/
-
-Volatile and non-volatile memory are both vital parts of modern computers and devices, but how do they work together?
-
 ## TechCrunch
+
+### Phil Schiller’s App Store exit reportedly driven by wariness over future plans
+Sun, 06 Sep 2026 21:41:06 +0000 — https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/
+
+Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.
 
 ### Authors push back as publishers and agents make claims on Anthropic settlement
 Sun, 06 Sep 2026 20:47:37 +0000 — https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/
@@ -323,14 +348,4 @@ Clucky's new alarm app has an option where users are woken up to the sound of a 
 Sat, 05 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/
 
 While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.
-
-### XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation
-Fri, 04 Sep 2026 23:36:14 +0000 — https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
-
-The round is being raised just months after the robot data startup exited from stealth.
-
-### OpenAI s rogue agents keep escaping, with no formal process to investigate them
-Fri, 04 Sep 2026 23:15:11 +0000 — https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/
-
-OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.
 

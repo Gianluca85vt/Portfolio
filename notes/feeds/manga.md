@@ -1,72 +1,77 @@
-# Manga — harvested 2026-09-06T21:15:33.128Z
+# Manga — harvested 2026-09-07T09:44:03.043Z
 
 ## Anime News Network
+
+### Dark Machine the Animation Series Reveals 3 New Cast Members, October 13 Debut
+Mon, 07 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/dark-machine-the-animation-series-reveals-3-new-cast-members-october-13-debut/.241481
+
+Nao Tōyama, Nonoka Ōbuchi, Rei Nakashima join anime's cast
+
+### Uncle's Obsession with Cute Things Anime's 2nd Trailer Reveals More Cast Members, Theme Song Artists
+Mon, 07 Sep 2026 03:49:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/uncle-obsession-with-cute-things-anime-2nd-trailer-reveals-more-cast-members-theme-song-artists/.241482
+
+Yusei Yagi performs "LIKE³" opening, Kaori Maeda performs "Tōtoi♡Kaiwai" ending
+
+### Actor, Voice Actor Toru Shinagawa Dies at 90
+Mon, 07 Sep 2026 03:07:11 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/actor-voice-actor-toru-shinagawa-dies-at-90/.241483
+
+Film, TV, stage actor had roles in <cite>Ghost in the Shell: Stand Alone Complex, Fancy Lala, Shōnen Santa no Daibōken</cite>, more
+
+### Hunter x Hunter Manga Announces Hiatus, 4th Stage Play Featuring 'Chimera Ant Arc'
+Mon, 07 Sep 2026 02:07:08 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/hunter-x-hunter-manga-announces-hiatus-4th-stage-play-featuring-chimera-ant-arc/.241478
+
+Manga's return to be announced at a later date; 4th stage play to run in Tokyo, Kyoto in 2027
+
+### Black Clover Anime's 2nd Season Reveals October 3 Debut, Ending Theme by One or Eight
+Mon, 07 Sep 2026 01:19:36 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/black-clover-anime-2nd-season-reveals-october-3-debut-ending-theme-by-one-or-eight/.241479
+
+Crunchyroll to preview new season in U.S. theaters on September 21
+
+### White House Promotes Game Site With Music, Imagery From Sega, Nintendo, Sony, Microsoft
+Sun, 06 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-06/white-house-promotes-game-site-with-music-imagery-from-sega-nintendo-sony-microsoft/.241460
+
+Site promotes administration's current policies with mini games
+
+### Yomawari: The Long Night Collection, Lost in the Dark Games Head West on PS5
+Sun, 06 Sep 2026 23:13:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/yomawari-the-long-night-collection-lost-in-the-dark-games-head-west-on-ps5/.241463
+
+Games launch for PS5 on November 5
+
+### Qliphah in Providence's Shadow Game Posts Gameplay Trailer
+Sun, 06 Sep 2026 22:12:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/qliphah-in-providence-shadow-game-posts-gameplay-trailer/.241462
+
+"Tactical counter-timeline RPG" launches on PS5, Switch, PC on September 24
+
+### Fukakōryoku no I Love You Manga Goes on Hiatus Due to Creator's Health
+Sun, 06 Sep 2026 21:14:04 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/fukakoryoku-no-i-love-you-manga-goes-on-hiatus-due-to-creator-health/.241461
+
+Mizuki Hoshino launched shōjo romance in August 2023
+
+### Kodansha House Hosts The Fragrant Flower Blooms with Dignity Creator Saka Mikami in NYC
+Sun, 06 Sep 2026 20:44:45 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/kodansha-house-hosts-the-fragrant-flower-blooms-with-dignity-creator-saka-mikami-in-nyc/.241459
+
+Pop-up event to host Q&A, signing with Mikami on October 10, additional signing on October 11
+
+### Uta Macross Rhythm Game Launches Project for Offline Version
+Sun, 06 Sep 2026 20:17:11 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/uta-macross-rhythm-game-launches-project-for-offline-version/.241464
+
+Crowdfunding to support development of additional content on iOS, Android, Steam
 
 ### Sword Art Online Material 1: Sugary Days Tops Oricon's Monthly Light Novel Ranking for August 2026
 Sun, 06 Sep 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/sword-art-online-material-1-sugary-days-tops-oricon-monthly-light-novel-ranking-for-august-2026/.241453
 
 <cite>Kirby: Mugen no Haguruma—Kiri ni Tsutsumareta Daijiken!?</cite> novel ranks at #2, <cite>Witch on the Holy Night</cite> part 1 novel ranks 3rd
 
-### Kingdom Manga Tops Oricon's Monthly Comic Ranking for August 2026
-Sun, 06 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/kingdom-manga-tops-oricon-monthly-comic-ranking-for-august-2026/.241450
-
-<cite>Kingdom</cite> volume 80 ranks at #1, <cite>The Apothecary Diaries</cite> volume 17 stays at #3
-
-### Changeable Guardian Estique Game Review
-Sun, 06 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/switch-xbox-series-x/s-playstation-5-windows-nes-famicom/changeable-guardian-estique/.241149
-
-A new game made especially for old consoles turns out to be a great showcase of 2-D shooter glory.
-
-### ChaO, The Last Blossom, Cocoon, More Anime Films Screen at Modern Film Fest in Texas This Month
-Sun, 06 Sep 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/chao-the-last-blossom-cocoon-more-anime-films-screen-at-modern-film-fest-in-texas-this-month/.241430
-
-Modern Art Museum of Fort Worth hosts Modern Film Festival 2026 on September 18-20
-
-### 'Hope You're Happy, Lemon' Manga Ends in Next Chapter
-Sun, 06 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/hope-youre-happy-lemon-manga-ends-in-next-chapter/.241440
-
-Mizuki Kishikawa's body-swap rom-com series debuted in October 2023
-
-### Persona 4 Revival Game's Videos Highlight Kanji, Yosuke, Chie, Yukiko
-Sun, 06 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/persona-4-revival-game-videos-highlight-kanji-yosuke-chie-yukiko/.241444
-
-Game launches for PS5, Xbox X|S, Xbox PC with Xbox Game Pass, PC via Steam on February 18
-
-### Wandance Gets Stage Play in March 2027
-Sun, 06 Sep 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/wandance-gets-stage-play-in-march-2027/.241437
-
-The Jet Boy Bangerz member Taki stars as Kaboku
-
-### Kuji Furumiya's Unnamed Memory -after the end- Sequel Light Novel Series Ends in December
-Sun, 06 Sep 2026 00:52:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-06/kuji-furumiya-unnamed-memory-after-the-end-sequel-light-novel-series-ends-in-december/.241425
-
-Sequel novel series launched in 2022
-
-### Rilakkuma Heads to Mount Midoriyama in New Ninja Warrior Crossover
-Sat, 05 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-05/rilakkuma-heads-to-mount-midoriyama-in-new-ninja-warrior-crossover/.241003
-
-Can the relaxed bear overcome the “world's toughest obstacle course”?
-
-### Madoka, Homura Become Large Plushes in Time for Latest Madoka Magica Film
-Sat, 05 Sep 2026 23:30:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-05/madoka-homura-become-large-plushes-in-time-for-latest-madoka-magica-film/.241183
-
-Just make sure your magical girl plushes don't become witch plushes
-
-### Medabots S Smartphone Game to Get Global Launch
-Sat, 05 Sep 2026 21:05:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/medabots-s-smartphone-game-to-get-global-launch/.241429
-
-Game's App Store page lists January 21, 2027 release date
-
-### Kana Delays Inio Asano's Before Dawn and the End of the World Manga to March 4
-Sat, 05 Sep 2026 20:55:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-05/kana-delays-inio-asano-before-dawn-and-the-end-of-the-world-manga-to-march-4/.241445
-
-Abrams ComicArts' imprint previously scheduled short story collection for November
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Persona 4 Revival Will Be Easy — and That's Nothing New for Persona
+Sun, 06 Sep 2026 23:21:43 GMT — https://animecorner.me/persona-4-revival-will-be-easy-and-thats-nothing-new-for-persona/
+
+During a PAX West livestream, Persona 4 Revival showed off some new content, including&hellip;
 
 ### Interview: KAIJU GIRL CARAMELISE Creator Spica Aoki on the Manga's Unique Setting
 Sun, 06 Sep 2026 17:00:00 GMT — https://animecorner.me/interview-kaiju-girl-caramelise-creator-spica-aoki-on-the-mangas-unique-setting/
@@ -98,32 +103,32 @@ Sat, 05 Sep 2026 11:03:30 GMT — https://animecorner.me/katekyo-hitman-reborn-r
 
 Katekyo Hitman REBORN! anime released the creditless version of its second opening, featuring "BOYS & GIRLS" by LM.C.
 
-### Yowaki MAX Reijo Nano ni Anime Reveals New Visual, Trailer, Additional Cast, Theme Songs, October 4 Premiere
-Sat, 05 Sep 2026 09:31:49 GMT — https://animecorner.me/yowaki-max-reijo-nano-ni-anime-reveals-new-visual-trailer-additional-cast-theme-songs-october-4-premiere/
-
-The previously announced Yowaki MAX Reijo Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte&hellip;
-
-### STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE New Preview Images Revealed
-Sat, 05 Sep 2026 08:14:37 GMT — https://animecorner.me/steel-ball-run-jojos-bizarre-adventure-2nd-stage-new-preview-images-revealed/
-
-STEEL BALL RUN JoJo's Bizarre Adventure 2ND STAGE revealed new preview images ahead of its September 25 premiere on Netflix.
-
 ## MyAnimeList News
+
+### Keroro Gunsou☆ Reveals Main Cast, Staff, First Promo
+Mon, 07 Sep 2026 02:41:33 -0700 — https://myanimelist.net/news/74681689?_location=rss
+
+The official website for a new television anime adaptation of Mine Yoshizaki s Keroro Gunsou (Sgt. Frog) manga revealed the main cast, staff, a key visual (pictured right), and the first promotional video on Monday. The anime series is scheduled to premiere on October 3 at 9:30 a.m. on TV Tokyo. Cast Keroro Gunso: Makoto Koichi (Tomo-chan wa Onnanoko!) NEW Tamama Nitobei: Rika Nagase (PriPri Chii-chan!!) NEW Giroro Gocho: Toshiki Masuda (Boku no Hero Academia) NEW Kururu Socho: Kousuke Ech...
+
+### Dark Machine: The Animation Announces Supporting Cast
+Mon, 07 Sep 2026 02:14:56 -0700 — https://myanimelist.net/news/74681527?_location=rss
+
+The official website for the Dark Machine: The Animation television anime announced the supporting cast on Monday. The anime is scheduled to premiere on October 14 at 1:45 a.m. on Fuji TV, followed by Kansai TV and BS Fuji. Cast Aluk: Nao Touyama (Sakamoto Days) Denebola: Nonoka Oobuchi (Tasokare Hotel) Spica: Rei Nakashima Kazumi Terada (Chikyuugai Shounen Shoujo assistant director) is helming the anime at Production +h. Team Carbuncle, which consists of Takaaki Suzuki (High School Fleet origin...
+
+### Marronnier Oukoku no Shichinin no Kishi Reveals Additional Cast, Opening Theme, Second Promo
+Mon, 07 Sep 2026 01:24:35 -0700 — https://myanimelist.net/news/74681352?_location=rss
+
+The official website for the television anime adaptation of Nao Iwamoto s Marronnier Oukoku no Shichinin no Kishi (The Seven Knights of the Marronnier Kingdom) manga revealed the additional cast, opening theme, and the second promotional video on Monday. The anime series is scheduled to premiere on October 3 at 6.25 p.m. on NHK E-Tele. Cast Eleonora: Miyuki Sakurai (Ghost Concert) Princess Brynhilde: Natsumi Fujiwara (Snowball Earth) Elliott: Takehito Koyasu (Kami no Niwatsuki Kusunoki-tei...
+
+### Ojisan wa Kawaii Mono ga Osuki. Unveils Additional Cast, Theme Songs, Second Promo
+Sun, 06 Sep 2026 23:37:04 -0700 — https://myanimelist.net/news/74680699?_location=rss
+
+The official website for the television anime adaptation of Tsutomu s Ojisan wa Kawaii Mono ga Osuki. (Pops Loves Kawaii Stuff) manga unveiled additional cast, the theme songs, and second promotional video on Monday. The anime series is scheduled to premiere on October 4 at 10.00 p.m. on Tokyo MX, followed by BS Asahi and Yomiuri TV on October 5. Cast Rio Moshina: Kaori Maeda (Love Live! Nijigasaki Gakuen School Idol Doukoukai) Mirai Usuama: Miharu Hanai (Selection Project) Haruo Kiba: Sato...
 
 ### Light Novel Unnamed Memory: After the End Concludes with Eighth Volume
 Sun, 06 Sep 2026 04:54:23 -0700 — https://myanimelist.net/news/74676481?_location=rss
 
 The official X (formerly Twitter) account of Kadokawa s Dengeki no Shinbungei label announced on August 27 that Kuji Furumiya and chibi s Unnamed Memory: After the End light novel series will end with its eighth volume on December 17. Furumiya began penning the sequel fantasy romance light novel under Dengeki no Shinbungei imprint in February 2022, with illustrations by chibi (Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu). Kadokawa published the sixth volume in May 2025,...
-
-### Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta Unveils Additional Cast, Theme Songs, Second Promo
-Fri, 04 Sep 2026 21:05:17 -0700 — https://myanimelist.net/news/74670013?_location=rss
-
-The official website for the television anime adaptation of Hiro Oda s Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta (Even Though I m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fianc&eacute;) light novel unveiled additional cast, a key visual (pictured), the theme songs, and second promotional video on Saturday. The anime series is scheduled to premiere on October 4 at 11:30 p.m. on AT-X, followed by Tokyo MX, Sun TV, KBS Kyoto, and othe...
-
-### Shin Kochira Katsushikaku Kameari Kouenmae Hashutsujo Reveals Main Cast, Staff, Character Promo, 2027 Debut
-Fri, 04 Sep 2026 20:26:23 -0700 — https://myanimelist.net/news/74669928?_location=rss
-
-The special livestream presentation for the new television anime adaptation of Osamu Akimoto s Kochira Katsushikaku Kameari Kouenmae Hashutsujo (KochiKame) manga revealed the main cast, staff, a key visual (pictured right), and character promotional video on Saturday. The anime series will premiere on Fuji TV in 2027. Cast Kankichi Ryotsu: Fukushi Ochiai (Hai to Gensou no Grimgar) Keiichi Nakagawa: Shouta Aoi (Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...)...
 
 ## Otaku USA
 
@@ -131,13 +136,13 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### How Can My Manager Be So Stupid? Review
+Mon, 07 Sep 2026 09:00:59 +0000 — https://animeuknews.net/2026/09/how-can-my-manager-be-so-stupid-review/
+
+Popular author Kazumasa Hayami finally makes his English debut with this book that retail workers and bookworms alike will find great joy in reading.
+
 ### Just Like Mona Lisa Volumes 9 and 10 Review
 Sun, 06 Sep 2026 09:00:03 +0000 — https://animeuknews.net/2026/09/just-like-mona-lisa-volumes-9-and-10-review/
 
 These two volumes conclude Just Like Mona Lisa, as we explore 'what if' futures where Hinase becomes male or female.
-
-### Golden Man Volume 1 Review
-Sat, 05 Sep 2026 09:00:33 +0000 — https://animeuknews.net/2026/09/golden-man-volume-1-review/
-
-The people of Neo York are protected by their hero. If only he could remember who he is...
 

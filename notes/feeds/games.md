@@ -1,6 +1,21 @@
-# Games — harvested 2026-09-06T21:15:33.128Z
+# Games — harvested 2026-09-07T09:44:03.043Z
 
 ## Eurogamer
+
+### "Many a brave knight are going to die" - Riot Games head Marc Merrill speaks on in-development MMO after 2XKO's untimely demise
+Mon, 07 Sep 2026 09:30:34 +0000 — https://www.eurogamer.net/riot-games-mmo-the-grail-pax-2xko
+
+Marc Merrill - one of the co-founders of Riot Games and its current CPO - has spoken about the in-development MMO, describing it as "the grail" following the sudden end-of-development announcement for its fighting game 2XKO. Read more
+
+### Playground Games' devs were so confident in Fable, they made me play the Gamescom demo twice
+Mon, 07 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/fable-preview-so-good-played-it-twice
+
+"We don't want to spoil anything," associate game director Will Kennedy as I started my much-anticipated Fable preview at Gamescom this year, "but we've got two very different loadouts for you to play with today." So began the hour-long, behind-closed-doors demo, the first time anyone outside Playground Studios has been allowed to take the long-anticipated fantasy RPG for a spin. Turns out, this little slice of the game - taken from a dungeon a little way into the game filled with undead - was quite short. But that didn't matter because the devs, smirking, told me from the outset that I'd be going through the whole thing twice. They were confident, and after playing it those two times I can tell you they were right to be. Read more
+
+### The Blood of Dawnwalker's most popular mod right now nullifies its main hook
+Mon, 07 Sep 2026 08:43:51 +0000 — https://www.eurogamer.net/the-blood-of-dawnwalkers-most-popular-mod-right-now-nullifies-its-main-hook
+
+It may not surprise you to learn that The Blood of Dawnwalker's most contentious mechanic can already be removed. If you're unfamiliar, the open-world role-playing game has a time mechanic where every quest you complete pushes time forwards and uses up a little more of your 30 day, 30 night time limit (of sorts). Read more
 
 ### Saber Interactive CCO says studio won't change its comms strategy after AI writer controversy
 Sun, 06 Sep 2026 15:40:50 +0000 — https://www.eurogamer.net/saber-interactive-comms-strategy-ai-writer-controversy-willits
@@ -47,30 +62,33 @@ Sat, 05 Sep 2026 12:44:17 +0000 — https://www.eurogamer.net/gamescom-apologise
 
 Gamescom has apologised for the way it "communicated about the theft of hardware belonging to several indie developers" last week, admitting, "our first response did not strike the right tone, and it did not show the people affected the empathy they deserved". Read more
 
-### White House launches Arcade.gov, a minigame site parodying immigration enforcement and border security
-Sat, 05 Sep 2026 12:03:15 +0000 — https://www.eurogamer.net/white-house-arcade-gov-minigames-immigration-border-wall
-
-The White House has launched Arcade.Gov, a website of browser minigames built around Donald Trump's immigration and border policies. Read more
-
-### BioWare doesn't need advice for Mass Effect 4, says veteran designer, as long as "people get out of the way"
-Sat, 05 Sep 2026 10:43:58 +0000 — https://www.eurogamer.net/bioware-mass-effect-4-doesnt-need-advice-veteran-designer
-
-Original Mass Effect cinematic designer and Mass Effect 2 lead cinematic designer Armando Troisi has insisted the current BioWare team doesn't need outside advice on developing the next installment because so many of the people who built the original trilogy are still at the studio. Read more
-
-### Gen-AI controversy aside, Crazy Taxi: World Tour feels like classic arcade Sega - and it's an absolute blast
-Sat, 05 Sep 2026 09:01:01 +0000 — https://www.eurogamer.net/crazy-taxi-world-tour-gamescom-preview
-
-Crazy Taxi was not my favourite Dreamcast game (please don't ask me to choose between the triumphant rhythm triptych of Rez , Space Channel 5, and Samba de Amigo , however), but there's a specific bit of it that's forever seared into my brain: the giddy thrill of cresting over that one San-Francisco-inspired hill and barreling down toward the ocean, all while The Offspring's All I Want 'Yeah, yeah, yeah, yeah, yeah'ed me into a state of gaming nirvana. Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Niko Partners: Chinese games market surpasses $50bn for the first time in 2025
+Mon, 07 Sep 2026 07:54:06 +0000 — https://www.gamesindustry.biz/niko-partners-chinese-games-market-surpasses-50bn-for-the-first-time-in-2025
+
+China's games market surpassed $50 billion for the first time in 2025, growing 5.4% year-on-year to $51.8 billion. Read more
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### New PS5 Releases Dawnwalker and Onimusha Both Top One Million Sales
+Mon, 07 Sep 2026 09:15:00 GMT — https://www.pushsquare.com/news/2026/09/new-ps5-releases-dawnwalker-and-onimusha-both-top-one-million-sales
+
+Onimusha manages it in just 24 hours. Despite releasing within a day of each other, it doesn't seem like The Blood of Dawnwalker and Onimusha: Way of the Sword have eaten into each other's sales all that much: both PS5 games have confirmed they've sold over one million copies since launch. Capcom revealed Onimusha: Way of the Sword achieved the milestone on its first day on the market, pushing the overall series to 10 million sales in total. The developer shared a new piece of art to celebrate on social media and said: "We are truly delighted that so many of you are playing this game! Thank you so much!" Read the full article on pushsquare.com
+
+### Feature: Last Chance to Get These 50+ PS5, PS4 Games in PS Store s Gamescom Sale
+Mon, 07 Sep 2026 09:00:00 GMT — https://www.pushsquare.com/features/last-chance-to-get-these-50plus-ps5-ps4-games-in-ps-stores-gamescom-sale
+
+Cheap PS5 and PS4 games we recommend. PS Store's Gamescom sale is almost over; you only have until 9th September 2026 to grab a bargain. As always, there are thousands of PS5 and PS4 games on offer, and browsing them all can take a while. Read the full article on pushsquare.com
+
+### Rumour: Killzone Project in Early Development, Probably a Remake
+Mon, 07 Sep 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/09/rumour-killzone-project-in-early-development-probably-a-remake
+
+Bulletstorm dev People Can Fly linked. Some sort of Killzone project — most likely to be a remake of an older entry in the shooter franchise — is currently in the very early development stages, and Bulletstorm developer People Can Fly is probably making it. Sources speaking to outlet MP1st claim Guerrilla Games is collaborating with a third-party studio on a Killzone remake, and there are strong indications it's People Can Fly. The Outriders team is actually already confirmed to be working on a PS5 game based on a Sony IP , unveiled as Project Delta last year. Read the full article on pushsquare.com
 
 ### Preview: Mega Man: Dual Override Is Legit, and I Know Because I Died 100 Times
 Sun, 06 Sep 2026 19:30:00 GMT — https://www.pushsquare.com/previews/mega-man-dual-override-is-legit-and-i-know-because-i-died-100-times
@@ -117,21 +135,31 @@ Sat, 05 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-21plus
 
 Hot Wheels! Mewgenics! Valheim! More! I thought next week was going to be a bit slower on the PS5, but there’s actually more than 20 new titles launching for another consecutive week. Highlights include the new Hot Wheels game, Mewgenics , and the long-awaited release of Valheim . Read the full article on pushsquare.com
 
-### Preview: Honkai: Nexus Anima Is HoYoverse at Its Weirdest, and PS5 Owners Need to See It
-Sat, 05 Sep 2026 00:00:00 GMT — https://www.pushsquare.com/previews/honkai-nexus-anima-is-hoyoverse-at-its-weirdest-and-ps5-owners-need-to-see-it
-
-This Pokémon-inspired auto-battler is a treat. I’ve written a little bit about Honkai: Nexus Anima before, but I hope you’ll indulge me a little longer while I tell you about its latest build. I went hands-on at Gamescom , in Chinese dev HoYoverse’s business area. And while I was sceptical of this project when it was first announced, it’s really grown on me. Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 648
-Fri, 04 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-648
-
-Stupid is as stupid does. Last week, I accidentally published WAYP 12 hours earlier than usual. A lot of you said you liked the change, as you consider Friday evening part of the weekend. So let's try this earlier publishing time and see how it goes, huh? Aaron Bayne This weekend I'm trying to wrap up both Alien Fireteam Elite 2 and Onimusha: Way of the Sword ! Read the full article on pushsquare.com
-
 ## Game Developer
 
 _Nothing in the last 48 hours._
 
 ## VGC
+
+### Blood of Dawnwalker: Escape the dream in Home Sweet Home, or stay for a secret ending
+Mon, 07 Sep 2026 09:38:50 +0000 — https://www.videogameschronicle.com/guide/blood-of-dawnwalker-escape-the-dream-in-home-sweet-home-or-stay-for-a-secret-ending/
+
+How to escape the dream in Home Sweet Home or stay for a secret ending in The Blood of Dawnwalker… Source
+
+### Brand new Smash Bros and Nintendogs games are in development, Nintendo leaker claims
+Mon, 07 Sep 2026 08:55:44 +0000 — https://www.videogameschronicle.com/news/brand-new-smash-bros-and-nintendogs-games-are-in-development-nintendo-leaker-claims/
+
+They allege Smash Bros will be an entirely new game, not a remaster of Super Smash Bros Ultimate… Source
+
+### Capcom has another hit on its hands as Onimusha sells 1 million in a day
+Mon, 07 Sep 2026 08:50:31 +0000 — https://www.videogameschronicle.com/news/capcom-has-another-hit-on-its-hands-as-onimusha-sells-1-million-in-a-day/
+
+Onimusha: Way of the Sword is already nearly the series' best-selling entry… Source
+
+### PlayStation is reportedly working on a Killzone remake
+Mon, 07 Sep 2026 08:31:46 +0000 — https://www.videogameschronicle.com/news/playstation-is-reportedly-working-on-a-killzone-remake/
+
+A new entry in PlayStation's Killzone series is said to be in early development… Source
 
 ### Project ZETA s main aim is to take the running away part out of Capture the Flag
 Sun, 06 Sep 2026 12:10:25 +0000 — https://www.videogameschronicle.com/features/project-zetas-main-aim-is-to-take-the-running-away-part-out-of-capture-the-flag/
@@ -140,59 +168,79 @@ Hands-on: This South Korean online battle game makes it impossible for the playe
 
 ## Polygon
 
+### The 10 Most Important Movies Coming This Fall
+Mon, 07 Sep 2026 09:00:14 GMT — https://www.polygon.com/top-10-most-anticipated-movies-of-fall-2026/
+
+When you think of fall, you may imagine the cozy comfort of staying at home with your covers up to your chin, cup of hot cider in your hand, and watching something nostalgic, kooky, scary, or all three. After all, fall signals the arrival of Halloween and the early, chilly days of winter just around the corner. However, as we discovered curating our Fall 2026 Preview there are just as many reasons to grab a drink and popcorn at your local movie theater in the coming months.
+
+### 15 Biggest New Video Games Releasing This Fall That Will Define 2026
+Mon, 07 Sep 2026 08:00:14 GMT — https://www.polygon.com/new-video-games-fall-2026/
+
+Your video game backlog is about to get very crowded. Fall is always a busy season for new video games, but this year feels different (just check out our full fall preview ). That’s largely thanks to Grand Theft Auto 6 , which is set to take over the world come November. It’s so intimidating that virtually every video game has moved out of its way to make for an unusually loaded September and October. There are going to be a lot of promising games to play, and not much time to play them.
+
+### Brandon Sanderson Reveals the Fatal Fantasy Mistake That Derailed Game of Thrones
+Mon, 07 Sep 2026 04:23:14 GMT — https://www.polygon.com/brandon-sanderson-game-of-thrones-fantasy-mistake/
+
+Brandon Sanderson is one of the biggest voices in the fantasy genre. More than a writer and publisher, he's an audience-friendly scholar. Somehow he finds time to expand the Cosmere on a near-annual basis and also deliver lectures on Tolkien’s magic systems . There’s a reason we turned to him once upon a time to teach us his time-management wizardry .
+
+### How to Watch Nintendo's Zelda 40th Anniversary Direct
+Mon, 07 Sep 2026 03:16:17 GMT — https://www.polygon.com/nintendo-zelda-direct-date-time-september-2026/
+
+For The Legend of Zelda 's 40th anniversary, Nintendo is going all out with a dedicated Nintendo Direct showcase that will hopefully give fans a peek at the long-awaited The Legend of Zelda: Ocarina of Time remake and the upcoming live-action movie based on the action-RPG franchise. But that's not all we expect out of the Zelda-focused Nintendo Direct; leaks have pointed to new Nintendo Switch 2 hardware and updated versions of classic Legend of Zelda franchise games.
+
+### 8 Best Games Like The Witcher 3
+Mon, 07 Sep 2026 03:00:14 GMT — https://www.polygon.com/witcher-3-best-games-like/
+
+The Witcher 3: Wild Hunt is one of, if not the best, RPGs of all time. 11 years after launch, there's even a remastered version of it coming later this month (and it's free for anyone who owns the existing game), alongside a new expansion called Songs of the Past that's in the works. However, Songs of the Past doesn't arrive until 2027, and The Witcher 4 is not coming until 2028, which means there's a big Witcher-sized hole to fill in our gaming backlogs.
+
+### 'Hereditary' Meets 'Parasite' in This Unforgettable Mystery Thriller That’s Free on Streaming
+Mon, 07 Sep 2026 03:00:14 GMT — https://www.polygon.com/hope-is-the-perfect-excuse-to-revisit-na-hong-jins-best-movie/
+
+It takes a remarkable director to vanish for nearly a decade and return with a vision as distinct as ever, but Na Hong-jin has always operated on his own wavelength. His track record speaks for itself. The Chaser and The Yellow Sea cemented his status as a titan of modern South Korean cinema long before his latest project, Hope , redefined what an action film could look like. Although his highly anticipated return escalates into bombastic sci-fi spectacle, its underlying DNA resonates with his earlier work. Na remains focused on ordinary people dragged into mysteries far beyond their comprehension.
+
+### Lanterns Episode 4 Explained: Who Is Hector Hammond?
+Mon, 07 Sep 2026 02:00:24 GMT — https://www.polygon.com/lanterns-hector-hammond-explainer/
+
+While HBO’s DC Universe series Lanterns is mostly a grounded buddy cop mystery, showrunner Chris Mundy isn’t afraid to dig into the weirder corners of Green Lantern mythology. The show is focused on the threat of the Manhunters, the shapeshifting synthetic peacekeepers created by the Guardians of the Universe who eventually went rogue, leading to the creation of the Green Lanterns. We've also met fallen Lantern Sinestro (Ulrich Thomsen) and even one of the Guardians (Laura Linney). In episode 4, series co-creator Damon Lindelof and writer Justin Britt-Gibson added another classic Green Lantern villain to test John Stewart (Aaron Pierre) and Hal Jordan (Kyle Chandler), but viewers who haven’t read the comics might not realize his significance.
+
+### Fans Suspect DC's Official Wonder Woman Replacement Has Been Revealed
+Mon, 07 Sep 2026 01:04:34 GMT — https://www.polygon.com/wonder-woman-dcu-james-gunn-adria-arjona-maxima/
+
+When James Gunn cast Adria Arjona ( Andor , Morbius ) for next year's Superman sequel Man of Tomorrow , reports pegged the actor as playing a relatively obscure DC character named Maxima . But some DC fans have long speculated that Arjona was secretly cast as another, much more well-known DC superhero, Wonder Woman. A recent video featuring Arjona has only served to reignite those rumors, as the actor detailed her intense workout regimen to buff up for the recently released Onslaught and her next big movie, Man of Tomorrow .
+
+### Christopher Nolan's Greatest Sci-Fi Action Masterpiece Is Officially Free to Watch on YouTube
+Sun, 06 Sep 2026 22:00:14 GMT — https://www.polygon.com/christopher-nolan-sci-fi-inception-free-on-youtube/
+
+With the immense critical praise surrounding The Odyssey , Christopher Nolan has firmly secured his place as a modern cinematic icon. His movies often feel like intricate puzzle boxes that demand to be solved, from the interlocking timelines of Dunkirk to the structural sleight-of-hand in The Prestige . Looking back at his filmography reveals a director who consistently shatters genre tropes and redefines action cinema, anchoring his most mind-bending concepts in practical filmmaking.
+
 ### New 85% on Metacritic Fantasy Action Game Just Shot Up to No. 1 on Steam Overnight
 Sun, 06 Sep 2026 20:11:13 GMT — https://www.polygon.com/steam-ominusha-way-of-the-sword-number-1-game/
 
 Onimusha: Way of the Sword , Capcom's latest action game set in a reimagined Edo-period Kyoto, debuted at No. 6 on Steam on Friday. SteamDB recorded 40,000 active players on the game's first day, an impressive feat when competing against fellow new release The Blood of Dawnwalker. That hot streak only continued into the weekend.
 
-### 5 Most Exciting Thriller Movies of All Time
-Sun, 06 Sep 2026 20:00:14 GMT — https://www.polygon.com/most-exciting-thrillers-all-time-ranked/
-
-Great thrillers also explore lasting consequences, making it clear that none of the characters are safe while danger looms over them. With these elements in place, the art of a smart twist and the wonders of movie magic help tie everything together.
-
-### Cult Classic Platformer Rain World Is Getting A Definitive Release On Nintendo Switch 2
-Sun, 06 Sep 2026 19:30:14 GMT — https://www.polygon.com/cult-classic-platformer-rain-world-is-getting-a-definitive-release-on-nintendo-switch-2/
-
-Rain World , a very atmospheric cult classic platformer from Videocult, will finally be released on Nintendo Switch 2 when its Anthology Edition launches. During indie publisher Akupara Games' first game showcase, we also learned that Rain World Anthology Edition will get a physical release and received updates on several other upcoming indie titles.
-
-### Official Backrooms 2 Announcement Reportedly Happening Soon, With Kane Parsons Returning
-Sun, 06 Sep 2026 17:31:58 GMT — https://www.polygon.com/backrooms-sequel-kane-parsons-director-report/
-
-Dread Central reports that a sequel to Backrooms is in the works and that Kane Parsons has been signed as director. According to the horror media outlet , fans can expect an announcement soon.
-
-### Farming Sims Are Finally Changing After 10 Years of Stagnation
-Sun, 06 Sep 2026 17:00:14 GMT — https://www.polygon.com/farming-sims-2026-trends/
-
-Farm-sims have looked and played pretty much the same for the last 10 years. That's not entirely surprising. When you find a winning formula that keeps your studio's lights on, you follow that formula. However, there are promising signs that a fresh crop of farm games is pushing the boundaries and heralding a new, more diverse era.
-
-### Sony Can't Hide Forever
-Sun, 06 Sep 2026 16:00:14 GMT — https://www.polygon.com/patch-notes-sony-playstation-state-of-play-no-disc-no-buy/
-
-Patch Notes is a weekly newsletter bringing you the best of Polygon, sent on Fridays and published on the site on Sundays. You can subscribe here .
-
-### Final Fantasy 7 Revelation Devs Say Ending Is Best 'Not Explained To You By Someone Else'
-Sun, 06 Sep 2026 15:56:23 GMT — https://www.polygon.com/final-fantasy-7-revelation-ending-pax-west/
-
-In a Final Fantasy 7 Remake trilogy panel at PAX West, game director Naoki Hamaguchi and battle director Teruki Endo went into detail about Cid, Vincent, and the FITS combat system that's new in Final Fantasy 7 Revelation . They also briefly touched on how they hope players don't spoil the game for themselves or look to others for a definitive explanation of what happened.
-
-### 51 Years Later, Sylvester Stallone's Gritty Action Sci-Fi Classic Is Officially Free on Streaming
-Sun, 06 Sep 2026 15:15:14 GMT — https://www.polygon.com/death-race-2000-free-tubi/
-
-Roger Corman (1926-2024) spent 70 straight years as an independent filmmaker. In that time, he produced and/or directed well over 500 movies and mentored a murderer's row of Hollywood directors ranging from Francis Ford Coppola to Ron Howard to James Cameron. He also gave early roles to Jack Nicholson, Dennis Hopper, Peter Fonda, and William Shatner. If you've ever seen a movie that was made in America in the last 50 years, it is to some significant extent the product of an environment that Roger Corman helped to create.
-
-### Persona 4 Revival Finds Its Kanji, And It Isn't Troy Baker Or Matt Mercer
-Sun, 06 Sep 2026 14:45:32 GMT — https://www.polygon.com/persona-4-revival-kanji-tatsumi/
-
-During the past PAX West panel for Persona 4 Revival , Atlus showed off the sizzle reel trailer for Kanji Tatsumi, one of the game's most-discussed characters. While this role has previously been portrayed by Troy Baker and Matt Mercer, Atlus' latest Persona remake will feature a brand-new voice actor for Kanji.
-
-### 7 Huge Differences Between Christopher Nolan's 'Interstellar' and Steven Spielberg's Original Script
-Sun, 06 Sep 2026 14:01:14 GMT — https://www.polygon.com/steven-spielberg-interstellar-script-differences/
-
-But before Christopher Nolan signed on as the director of Interstellar , the director was none other than Steven Spielberg, who developed the story with Nolan’s screenwriter brother, Jonathan Nolan. Spielberg had been on the project for about a year when he moved his production company, DreamWorks, from Paramount to Disney, meaning he had to drop out as Interstellar ’s director. Shortly afterward, Christopher Nolan came on as director, which came with a major rewrite by the director himself.
-
 ## PC Gamer
 
-### 18 years after Metal Gear Solid 4 first launched, a modder has shown off its first modded map, MGS3's Groznyj Grad
+### Steam Week in Review: 54 idle games released on Steam last week, and many look eerily similar
+Mon, 07 Sep 2026 04:12:36 +0000 — https://www.pcgamer.com/gaming-industry/steam-week-in-review-54-idle-games-released-on-steam-last-week-and-many-look-eerily-similar/
+
+When Cookie Clicker and Candy Box both released in quick succession in 2013, I remember them being received mostly as a joke, or else as an amusing parody of "watch numbers go up" RPG gameplay. Then something weird happened: all my colleagues became fixated on Cookie Clicker. So did I. Lots of people on the internet, on Twitter and in various forums like Reddit, confessed to having become addicted to it. Cookie Clicker did have an antecedent in Ian Bogost's Cow Clicker, which was a very deliberate satire . But Cookie Clicker wasn't presented as satire. And yet, it was so transparently meaningless that people doubted it could be anything else. You click a cookie repeatedly to generate more cookies. Once you earn enough cookies, you can invest those cookies into various ways of expediting the cookie making process. You click and watch numbers go up. It's stupid. Fast forward more than a decade later and idlers, also known as incremental games, are massive on Steam. Last week, 54 games with the tag "idler" released. In total, there are 4,314 games with that tag on Steam. Some of these look pretty good as far as idlers go. Next Reign: Kingdom has pretty handmade pixel art, atmospheric music and strategic elements. We Need More Humans! Has a novel premise—you have to become increasingly proficient at abducting humans—and, as far as this genre goes, a distinctive art style. Zad Archery 's art style, on the other hand, is very generic but it has nearly 700 "mostly positive" reviews,
+
+### 'If you're designing an RPG, you have to go back to the source:' The post-apocalyptic RPG Entropy takes notes from Fallout and a long-abandoned Warhammer spinoff
+Mon, 07 Sep 2026 01:50:45 +0000 — https://www.pcgamer.com/games/rpg/if-youre-designing-an-rpg-you-have-to-go-back-to-the-source-the-post-apocalyptic-rpg-entropy-takes-notes-from-fallout-and-a-long-abandoned-warhammer-spinoff/
+
+The early access RPG Entropy is a very different beast to its developers' previous work. Dread Delusion was a shockingly good homage to first person RPGs like King's Field or The Elder Scrolls, while this new game is distinctly JRPG-inflected, nailing a lot of the feel and intangibles of something like Final Fantasy 10 or Lost Odyssey. But you can't just put it into the JRPG bin and call it a day. Entropy boasts a large party size for tactical battles, permadeath, locational damage, as well as an approach to reactivity and storytelling that feels more PC gaming than PS2 gaming. When I spoke to lead developer James Wragg recently, he told me that's very deliberate. "In many ways, if Dread Delusion was my take on The Elder Scrolls, then this is my take on Fallout," Wragg said. "The original Fallout, Fallout 1, is one of my favorite games, and we're riffing on that quite a lot with Entropy." Having played Entropy's demo and a bit of early access, I immediately got what he meant. Part of that inspiration is visible in the locational damage system, similar to OG Fallout's called shots (what would eventually become VATS in the 3D games). You can incur a penalty to accuracy to target a specific limb or zone on an enemy, to the benefit of greater damage or inflicting a debuff. Wragg provided the examples of how it might work in more advanced battles: disarming a foe with an especially powerful weapon, or shredding the bulbous Resident Evil weakpoint of a mutated enemy. Entropy's spec
+
+### The Tetris Company confirms it had nothing to do with the White House's racist rip-off: 'we believe in the power of connection and bringing people together, not dividing them'
+Sun, 06 Sep 2026 23:53:12 +0000 — https://www.pcgamer.com/gaming-industry/the-tetris-company-confirms-it-had-nothing-to-do-with-the-white-houses-racist-rip-off-we-believe-in-the-power-of-connection-and-bringing-people-together-not-dividing-them/
+
+One of the many things making this feel like a particularly dumb epoch to be living through is the way the US government has taken to using videogames as a tool for self-aggrandizement and disseminating its pro-war and anti-immigration messages. A bunch of people who usually argue politics should be kept out of videogames have suddenly found themselves defending the use of videogames in politics, and the rest of us are rendered stupider for having to pay attention to the circus. As a reminder, we've seen the Department of Homeland Security make a Pokémon mashup about how they "gotta catch 'em all" , the White House use AI to dress Trump up as Master Chief from Halo after which Homeland Security decided "Destroy the Flood" was an appropriate recruitment message , and then the US government started using Call of Duty and Grand Theft Auto memes to promote its war in Iran . Most recently, the White House launched an arcade section on its website containing terrible knock-offs of games like Flappy Bird, Snake, and Tetris . The Tetris game is particularly baffling. Reskinned as Build the Wall, it becomes a game of defeating a "zombie border siege" on the helpfully labeled "Southern Border" in case you missed the subtlety of its theming, where you stack up tetrominoes that never clear while zombies march toward the blocks. The Tetris Company was motivated to respond. Posting on Instagram , it wrote, "At Tetris we believe in the power of connection and bringing people together, not d
+
+### A hobby dev built a free, 3D galaxy map for Warhammer 40K that loads like lightning in your browser
+Sun, 06 Sep 2026 22:11:09 +0000 — https://www.pcgamer.com/games/rpg/a-hobby-dev-built-a-free-3d-galaxy-map-for-warhammer-40k-that-loads-like-lightning-in-your-browser/
+
+Sometimes it's nice to just find something cool and fun and free on the internet, and the Cartographia Imperialis is just that: A 3D galaxy map of the Warhammer 40K Milky Way you can peruse in your browser. It has the same simple, awe-inspiring majesty as Mass Effect's take on the concept, and you can explore it like an isometric videogame: Left click and drag to pan around, right click to rotate the camera, mouse wheel to zoom in and out. You can click on notable planets or regions to get little lore entries, or pull 'em up by name in the index to snap straight there on the map. I'm not sure where creator Sami Gashi sourced the text for entries, pulling straight from official sources or paraphrasing in their own words, but I quite like the very in-universe prose. Take the entry for largely-unremarkable hive world Jouran, for example: "Its dossier is a reminder that strategic maps hide ordinary misery behind a clean point of light," the entry reads. "Jouran's value lies in quotas met, bodies counted, and local authorities willing to preserve output by any sanctioned means." That's good stuff. Perhaps best of all, Cartographia Imperialis is completely free with no ads, and the map is shockingly lightweight for its graphical presentation and the current state of the internet. It loads super quick, and I haven't experienced any slowdown clicking around. The only thing I'm missing is a nod to the Koronus Expanse of Rogue Trader fame, my personal gateway drug into the 40K universe
+
+### 18 years after Metal Gear Solid 4 first launched, a modder has shown off its first custom map, MGS3's Groznyj Grad
 Sun, 06 Sep 2026 20:40:31 +0000 — https://www.pcgamer.com/games/action/18-years-after-metal-gear-solid-4-first-launched-a-modder-has-shown-off-its-first-modded-map-mgs3s-groznyj-grad/
 
 It already felt weird and wonderful to say that PC Gamer has reviewed Metal Gear Solid 4 , a game for the personal computer. Now it gets even weirder: MGS4 mods are incoming, with TriggerHappy on YouTube already showing off a custom map in Kojima's 2008 stealth-action classic. Back in 2021, modder Jayveer showed off a map ported from Metal Gear Arcade into Metal Gear Online 2 , the multiplayer accompaniment to MGS4, but to my knowledge, TriggerHappy's is the first demonstration of a custom singleplayer map in MGS4. It's 55 beautiful seconds of Old Snake crouch walking around Groznyj Grad, the iconic fortress level of Metal Gear Solid 3. Only now it's infested with Gecko walkers mooing their incongruous moos and showing off their distractingly shapely legs. Stupid, sexy Geckos. TriggerHappy laconically describes the gameplay as "initial testing for adding AI to a custom map." The enemy AI certainly seems to work: Those Geckos are not happy to see Snake, and it's not because they believe a man of his age shouldn't be putting so much stress on his back and knees. It's unclear how TriggerHappy got this custom map working, or how far away we are from widely available map making tools, but this is an exciting first step in the realm of custom content for MGS4. I've mostly connected Master Collection modding with the essential performance and visual fixes that the community needed to cook up after Volume One's disastrous initial launch. Thankfully, not only has the Volume One situat
@@ -232,34 +280,16 @@ Sun, 06 Sep 2026 15:00:00 +0000 — https://www.pcgamer.com/games/action/onimush
 
 Listen, I'll be the first to admit that I'm a little biased towards parry-based action games . Sekiro will forever be my favourite FromSoftware game because of just how excellently it captured the back-and-forth feeling of swordplay, not only with its timed deflection mechanic, but its mandate to have you keep the pressure on. But I appreciate that, for some, parry fatigue might be setting in. My fellow writer Mollie Taylor's sick of it , for instance—and I do understand. I think there are some games which use it as a bit of a crutch, and even the ones that don't can wear out their welcome. Take Clair Obscur: Expedition 33, for instance. I liked it, but I wouldn't want every turn-based RPG I play to have a timed block in it. Still, it's fun to have the occasional one where stats can be overcome with deft enough bumper hands. But to paint every parry-based system with the same brush seems short-sighted to me, because this deceptively simple mechanic has a ton of juice still left inside it: no other game proves this more than Onimusha: Way of the Sword, which, as far as I'm concerned, has broken new ground in terms of what parries can do. Onimusha has one parry button, or at least, it has one parry button on the surface: your block, which when timed just as a blow is coming in, will send a series of sparks flying. The trick that Onimusha pulls—and most good parry-based games will do this—is in actually giving you several parry buttons. Onimusha is parries all the way down. You'
 
-### I never thought a fishing sim could be this fun, but How to Fish proves me wrong with its ridiculous physics, killer spider crabs, and classic co-op chaos
-Sun, 06 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/sim/i-never-thought-a-fishing-sim-could-be-this-fun-but-how-to-fish-proves-me-wrong-with-its-ridiculous-physics-killer-spider-crabs-and-classic-co-op-chaos/
-
-I stand knee deep in a pool of blood. My coworkers, comrades, and friends reduced to food for soulless seagulls. Give a man a fish and he may throw it into the mouth of a weary fisherman, teach a man to fish and he shall bring forth the wrath of a spider crab who knows how to stab you with your own knife. This was my first experience of the new multiplayer fishing sim How to Fish , and now I can see why it's become such a smash-hit among bored and borderline-violent friendship groups. (Image credit: Dazed Games) It has a simple premise: you and up to four friends learn how to fish. The cycle of work involves players buying a basic fishing rod at first, using this to fish for, well, fish and crustaceans, and then beating them to death with your bare knuckles, brass knuckles, or a sick-ass knife. Then you can either eat your catch to replenish your health or hunger or feed it to the lonely fisherman who sits on the dock and gives you coins for your hard work. With the coins gained you can buy more tools to help you fish, like the knife, or supplies which you can use as bait, such as half a hotdog or an empty beer can. When I first woke up on the island I was met with a friendly punch in the face. Some things can be so simple that they become boring, and perhaps How to Fish would fall into this trap, if it were just you and the fisherman on the island. But when you add three other people with nothing to lose and access to friendly-fire things get out of hand in the best way poss
-
-### Blending Deus Ex with Escape from Butcher Bay, Deficit is one of the best-feeling indie immersive sims I've played—even if the stealth system needs serious work
-Sun, 06 Sep 2026 13:34:25 +0000 — https://www.pcgamer.com/games/fps/blending-deus-ex-with-escape-from-butcher-bay-deficit-is-one-of-the-best-feeling-indie-immersive-sims-ive-played-even-if-the-stealth-system-needs-serious-work/
-
-Immersive sims like Deus Ex and Dishonored are among the hardest kinds of games to make, so I always try to be supportive when an indie developer takes on the absurd challenge of creating one. Yet while there have been some good examples in recent years like Skin Deep and New Blood's early access Thief-like Gloomwood , a lot of the experiments in indie imsim design have been simply too janky for me to enjoy. Part of the problem is I'm a highly tactile player, and my primary concern when playing any game is whether it feels good beneath the fingers. If a game falls at that initial hurdle, then it's likely (though not inevitable) that I'll drop it pretty quickly. Fortunately, I had the opposite experience with Deficit , an indie imsim with such a strong sense of physicality that I kept playing the demo despite some clear issues. Developed by Item42, which previously created the cooperative shooter Perish , Deficit sees you play as a freelance spy in a dilapidated, dystopian world. You're tasked with infiltrating a sprawling fortress known as Hadrian's Wall to steal a device called the Interpolator, on behalf of a nameless client known as, well, The Client. The premise is very Deus Ex, and Deficit involves a mix of sneaking and shooting similar to Ion Storm's cyberpunk classic. But Deficit's more specific inspiration is The Chronicles of Riddick: Escape from Butcher Bay , the surprisingly great tie-in game to David Twohy's mediocre Pitch Black sequel. Your character's melee atta
-
-### Here's 10 more minutes of the most interesting game shown at this year's Opening Night Live
-Sun, 06 Sep 2026 12:27:26 +0000 — https://www.pcgamer.com/games/horror/heres-10-more-minutes-of-the-most-interesting-game-shown-at-this-years-opening-night-live/
-
-I was largely nonplussed by Gamescom's Opening Night Live , particularly its relentless barrage of identikit fantasy action games that I struggled to tell apart. But one game stood out like a rat-powered computer in an elven glade, and that was Ontos , Frictional Games' latest horror adventure/existential crisis generator. The Gamescom trailer was a barrage of unsettling, distinctive imagery, from rodent server-racks to slack-jawed dudes with electrodes protruding from their heads. I was instantly intrigued and keen to learn more, so I was delighted to discover that Frictional graced us with a longer look at Ontos in action. The 10-minute showcase focuses on the same part of the game as the shorter trailer. But it adds significant context to how Ontos plays and the kinds of challenges you'll be dealing with. It starts with the player character—a woman named Aditi—arriving at the hospital wing of Ontos' repurposed 'Moon Hotel' Samsara via an internal railway system, before exploring the wing and unpicking an experiment run by a scientist called Crombie. In moment-to-moment play, Ontos shares a lot in common with most of Frictional's other games (the exception being Amnesia: The Bunker , which is more of a proto immersive sim). There's a lot of tactile environment interaction, poking around computers for text logs, and a grisly sequence where Aditi plucks some electrodes out of a live rat's exposed brain. On top of this is a sprinkling of stealth, as Aditi evades a security cam
-
-### Civilization 7 will finally enter the atomic age in 2027, via a free update Firaxis says will be 'even bigger in scope' than last year's Test of Time
-Sun, 06 Sep 2026 11:00:21 +0000 — https://www.pcgamer.com/games/strategy/civilization-7-will-finally-enter-the-atomic-age-in-2027-via-a-free-update-firaxis-says-will-be-even-bigger-in-scope-than-last-years-test-of-time/
-
-Despite more than a year of updates and at least one massive overhaul, Civilization 7 remains as stubbornly divisive as ever. May's enormous Test of Time update brought significant mechanical reworks and a fresh influx of players to Firaxis' latest entry in the 4X series. But with Steam reviews still sitting at ' Mixed' , with 51% positive, it ultimately did little to shift player opinion. This is partly because numerous aspects of Civ 7 are still rudimentary compared to previous games, including the ability to wage nuclear war. While Firaxis' latest allows players to drop atom bombs on their enemies via World War 2 bombers, its final, modern age ends in 1950, meaning many advanced technologies, including nuclear submarines and ICBMs, are not featured in the game. Fortunately, this is going to change. Alongside the release of update 1.5.0 —which adds features like improved resource generation and an Earth map where your faction starts at their historically-accurate location—Firaxis outlined its update plans for Civ 7 over the next year. This includes another free update that will finally drag the game into the age of the A-bomb. The update is called Arc of Tomorrow , and Firaxis says that it will be "even bigger in scope" than May's Test of Time patch. Introducing a fourth Act to Civ 7 that extends the game's timeline from 1950 to 2050, Arc of Tomorrow will bring a host of new features and play opportunities to the experience. This includes "expanded nuclear gameplay" that in
-
 ## GameSpot
 
-### Before HBO s The Last Of Us, An Entirely Different Adaptation Was Proposed
-Sat, 05 Sep 2026 08:00:00 +0000 — https://www.gamespot.com/articles/before-hbos-the-last-of-us-an-entirely-different-adaptation-was-proposed/
-
-Naughty Dog's first effort to adapt The Last of Us for the screen was not as an HBO TV show, but a movie, a fact that recently began doing the rounds again on social media. Like with many Hollywood productions, The Last of Us had a tumultuous, long development period as a movie before it was ultimately abandoned in favor of what is now a hit series. While not everyone agrees with the creative departures from the source material for the TV series on HBO, it's undeniably a success and one of HBO's biggest hits lately. Let's look back at how The Last of Us originated as a movie and run through the key developments that led to it becoming a TV show. The original movie pitch People across X recently discovered a post from Sony Pictures in 2014 declaring that The Last of Us was "soon to be a major motion picture." This was a real, studio-sponsored image, not a fan mock-up. There was officially produced key art, showing Ellie wielding a knife. There was a "secret panel" at San Diego Comic-Con that year featuring director Sam Raimi, who was originally attached to produce the movie, having already had huge success at Sony with his Spider-Man films. https://twitter.com/sonypictures/status/492757891229552641?s=46 That The Last of Us was originally going to be a movie is not surprising given how many video game movies came before it and how many have been released since (with varying degrees of success). This was a year after The Last of Us came out in 2013. It was a hot property, as the
+_Nothing in the last 48 hours._
 
 ## Rock Paper Shotgun
+
+### "You'll be able to engage in these high stakes arms races": Civilization's Arc of Tomorrow update is trying to make the threat of nuclear apocalypse more interesting
+Mon, 07 Sep 2026 09:38:30 +0000 — https://www.rockpapershotgun.com/youll-be-able-to-engage-in-these-high-stakes-arms-races-civilizations-arc-of-tomorrow-update-is-trying-to-make-the-threat-of-nuclear-apocalypse-more-interesting
+
+Civilization 7 is getting a new free update that takes the 4X strategy series into the atomic age, while trying to make nuclear era conflict a little more elaborate than just being first to research the requisite city-killing technology. Add in some new city state proxy war functionality, and you seemingly have everything you need to go full Henry Kissinger. Read more
 
 ### The Sunday Papers
 Sun, 06 Sep 2026 09:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-826
@@ -290,9 +320,4 @@ It's been a couple of months since Double Fine parted ways from Xbox, and they'v
 Sat, 05 Sep 2026 16:12:49 +0000 — https://www.rockpapershotgun.com/mortal-shell-2s-latest-update-adds-in-an-experimental-new-mode-that-adjusts-the-challenge-based-on-how-much-you-do-or-dont-die
 
 Another week, another Mortal Shell 2 update! The first proper one arrived a week ago , and smoothed down some of the game's rough edges to make for a (slightly) more generous experience. This next update brings with it a bevy of changes, but most notably is an experimental adaptive difficulty mode that changes depending how well you're doing. Read more
-
-### What are we all playing this weekend?
-Sat, 05 Sep 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-398
-
-This is the first Saturday in a month I've woken up without a blocked nose or a mucus-hurling cough. Trips to Spain, Sweden, and Germany in quick succession and loaded on top of a cross country bike ride may have been a touch to much for my ageing body. Still, at last, I am well. In body, if not in spirit. So, better start playing some games then, right? Read more
 
