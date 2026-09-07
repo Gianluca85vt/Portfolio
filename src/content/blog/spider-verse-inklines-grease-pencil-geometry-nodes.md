@@ -4,7 +4,6 @@ date: 2026-09-07
 category: 3D
 excerpt: Imageworks built Kismet inside Houdini so ink lines would follow a moving character. Grease Pencil in Geometry Nodes puts that within reach of one person.
 cover: /img/blog/spider-verse-inklines-grease-pencil-geometry-nodes/video-thumb.jpg
-draft: true
 ---
 
 Draw a line on a character's cheekbone. Hold the frame and it reads as ink — a
