@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-08T17:55:17.092Z
+# Tech — harvested 2026-09-08T19:35:03.417Z
 
 ## Ars Technica
 
@@ -39,7 +39,12 @@ In early June, a fire broke out in a still-unfinished building at the Lake Marin
 
 ## The Verge
 
-### A new class action lawsuit questions whether Anthropic broke the law by misleading power users
+### Meta bets on AI agent Muse to catch up in AI race
+2026-09-08T15:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race
+
+Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up to rivals like OpenAI, Anthropic, and Google. Muse is a "personal AI agent" designed to help out with everyday tasks and projects, like online shopping, sending emails, and planning a trip. Once given a goal, Meta says Muse can work on its own, opening a browser, filling out forms, and even negotiating on users' behalf. F … Read the full story at The Verge. ]]>
+
+### AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court
 2026-09-08T13:27:31-04:00 — https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans
 
 Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an expanded class action lawsuit filed today, a group of Claude subscribers say the company deceptively advertised the limits of its Max subscription tier. The lawsuit was brought by attorneys Monica Vaca and Kati Daffan, who both formerly worked at the Federal Trade Commission under Lina Khan. It's a rare attempt to legally penalize AI companies fo … Read the full story at The Verge. ]]>
@@ -83,11 +88,6 @@ Form meets function? | Image: Peak Design Oh, this thing? It's just a crossbody 
 2026-09-08T10:00:00-04:00 — https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features
 
 SteelSeries moved the system-level Xbox buttons to the bottom of the controller. | Image: Cameron Faulkner / The Verge SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's kicking down the door with the $259.99 Aeon Pro wireless controller for Xbox and PC, which is now available. What does one of the most expensive controllers out there do that others don't? A few things. The one you'll likely notice first is its tiny OLED screen that can guide you through swapping between Xbox, PC, or Bluetooth. It lets you adjust most settings on the controller, including genre-based presets. You can remap the controls and adjust … Read the full story at The Verge. ]]>
-
-### Microsoft breaks another patch Tuesday record
-2026-09-08T10:00:00-04:00 — https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad
-
-Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discovering software vulnerabilities at a rapid pace. Sources tell me that Microsoft will set another patch Tuesday record today, the third in just a few months. It all kicked off in April when Anthropic's new Mythos model found security vulnerabilities in "every major operating system and web browser." A few weeks later, OpenAI released its own cybersecurity-focused model to trusted partners … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -153,6 +153,11 @@ We're seeing 32GB DDR5 RAM prices regularly push above $400 now. That's just whe
 
 ## Phoronix
 
+### DLSS5VKLayer Wires Up NVIDIA DLSS 5 For Native Linux Games & Steam Play
+Tue, 08 Sep 2026 15:31:22 -0400 — https://www.phoronix.com/news/DLSS5VKLayer
+
+An interesting new open-source project for those looking to make use of NVIDIA DLSS 5 on Linux is DLSS5VKLayer. The DLSS5VKLayer is a Linux Vulkan layer that works for both native Linux games as well as Steam Play (Proton) Windows games for experimental DLSS 5 support...
+
 ### KDE s KWin Merges Wayland Commit-Timing Protocol Support
 Tue, 08 Sep 2026 12:55:36 -0400 — https://www.phoronix.com/news/KDE-KWin-Wayland-Commit-Timing
 
@@ -207,11 +212,6 @@ For those that haven't yet made the move to FreeBSD 15 with still relying on Fre
 Mon, 07 Sep 2026 15:54:23 -0400 — https://www.phoronix.com/news/x86-CPU-With-APX-x86S
 
 The mystery deepens around an x86 implementation from a corporate entity other than AMD and Intel and has been making some very intriguing changes for coming from a seeming start-up. Beyond 16 tile and 32 tile AMX implementations that already surpass Intel's current Advanced Matrix Extensions (AMX) capabilities in shipping Xeon CPUs, new disclosures were made today concerning Advanced Performance Extensions (APX), Flexible Return and Event Delivery (FRED), and even x86S as the effort that Intel previously stopped for cleaning up the x86 baggage...
-
-### Ubuntu 26.10 amd64v3 Daily ISOs Now Being Published
-Mon, 07 Sep 2026 09:36:20 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-amd64v3-Daily
-
-As an interesting development for Ubuntu 26.10, the daily ISOs of the "Stonking Stingray" now include amd64v3 images...
 
 ## The Register
 
@@ -277,6 +277,41 @@ The UK government has corralled £7.8 billion of cross-departmental spending int
 
 ## Engadget
 
+### Don't panic, but there's a Playdate Update Showcase tomorrow
+Tue, 08 Sep 2026 19:05:00 +0000 — https://www.engadget.com/2253170/dont-panic-but-theres-a-playdate-update-showcase-tomorrow/
+
+A new season of Playdate games is coming, to be announced tomorrow.
+
+### Meta reveals its AI agent that can shop, send emails and plan trips on your behalf
+Tue, 08 Sep 2026 19:00:00 +0000 — https://www.engadget.com/2253133/meta-reveals-its-ai-agent-that-can-shop-send-emails-and-plan-trips-on-your-behalf/
+
+Muse, Meta's newly revealed AI agent, can perform tasks autonomously, if you trust it to do that.
+
+### Riot, after 17 years, finally adds team voice chat to League of Legends
+Tue, 08 Sep 2026 18:52:35 +0000 — https://www.engadget.com/2253143/riot-after-17-years-finally-adds-team-voice-chat-to-league-of-legends/
+
+After the better part of two decades, you can finally talk to your whole team in LoL.
+
+### NVIDIA's DLSS 5 adds subtle details to NBA 2K27, but demands a lot more power
+Tue, 08 Sep 2026 18:31:54 +0000 — https://www.engadget.com/2253085/nvidias-dlss-5-adds-subtle-details-to-nba-2k27-but-demands-a-lot-more-power/
+
+DLSS 5's juice may not be worth the squeeze for launch title NBA 2K27.
+
+### The rise in drive prices is being driven by AI and even HDDs can't hide
+Tue, 08 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2252075/drive-price-rise-driven-by-ai-even-hdd-affected/
+
+SSDs are preferable for many reasons, but with storage prices skyrocketing, there are some scenarios where opting for an HDD makes more sense.
+
+### The first trailer for the Sam Altman biopic is damn creepy
+Tue, 08 Sep 2026 18:08:04 +0000 — https://www.engadget.com/2253048/the-first-trailer-for-the-sam-altman-biopic-is-damn-creepy/
+
+Sam Altman biopic Artificial will be in movie theaters on Christmas Day. Here's the first trailer.
+
+### How to reboot your Samsung Galaxy tablet
+Tue, 08 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2250961/how-to-reboot-samsung-galaxy-tablet/
+
+There are several methods for restarting your Samsung Galaxy tablet, and most of them keep your data and apps.
+
 ### Dbrand already has iPhone Ultra cases, spoiling Apple's surprise
 Tue, 08 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2252927/dbrand-already-has-iphone-ultra-cases-spoiling-apples-surprise/
 
@@ -302,47 +337,17 @@ Tue, 08 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2250637/cheap-vs-ex
 
 Nearly any TV is suitable for 4K content, but spending more gets you a better viewing experience and several other advantages.
 
-### Chrome will now release updates every two weeks to better tackle security threats
-Tue, 08 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2252455/google-chrome-updates-every-two-weeks-to-better-tackle-security-threats/
-
-Chrome will start releasing new versions of its stable browser more frequently.
-
-### Apple Watch GPS vs GPS + Cellular: What's the difference?
-Tue, 08 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2250612/apple-watch-vs-gps-plus-cellular-difference-between/
-
-Some Apple Watch models give you the ability to stay connected even when you're away from your phone. But is it worth the cost?
-
-### Nintendo is releasing a 40th anniversary Legend of Zelda Switch 2 on October 29
-Tue, 08 Sep 2026 15:10:03 +0000 — https://www.engadget.com/2252681/nintendo-is-releasing-a-40th-anniversary-legend-of-zelda-switch-2-on-october-29/
-
-No, the Zelda anniversary edition Switch 2 doesn't come with a copy of Ocarina of Time.
-
-### What is a dual-band router and why is it important for good Wi-Fi?
-Tue, 08 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2249494/what-is-dual-band-router-why-important-good-wifi/
-
-Modern routers have two or more bands, but what's the purpose of a dual-band router? Here's what it does and why it matters.
-
-### Why is Apple CarPlay draining your phone battery?
-Tue, 08 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2250520/why-apple-carplay-draining-iphone-battery/
-
-Apple CarPlay requires a lot of battery to power navigation, music and other apps on your car's display, but you can take a few mitigation steps.
-
-### The Switch 2 remake of The Legend of Zelda: Ocarina of Time arrives November 5
-Tue, 08 Sep 2026 14:33:16 +0000 — https://www.engadget.com/2252620/switch-2-remake-of-legend-of-zelda-ocarina-of-time-arrives-november-5/
-
-We're heading back to Link's original 3D adventure ahead of next year's live action Zelda movie.
-
-### Steam Deck vs. Switch 2 — which gaming handheld is more powerful?
-Tue, 08 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2250446/steam-deck-vs-switch-2-which-more-powerful/
-
-The Switch 2 is newer and more affordable than the Steam Deck, but Valve's console still has serious power to draw on.
-
 ## TechCrunch
+
+### Meta debuts its Muse AI agent. Will consumers trust it?
+Tue, 08 Sep 2026 19:00:00 +0000 — https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/
+
+Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.
 
 ### How to watch Apple s foldable iPhone announcement
 Tue, 08 Sep 2026 17:46:53 +0000 — https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/
 
-Apple's annual iPhone event will stream live on September 9 at 10 AM PDT, and we're expecting big news.
+Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.
 
 ### OpenAI fought dirty on career-making math problem, says NYU mathematician
 Tue, 08 Sep 2026 17:32:15 +0000 — https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/
@@ -393,9 +398,4 @@ Stoke has "completed the initial closing" of a $1B Series E round intended to he
 Tue, 08 Sep 2026 02:16:39 +0000 — https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/
 
 Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar to tackle a labor shortage severe enough that data center projects alone now need 4,000 to 5,000 workers apiece.
-
-### Opaque recurrence, and other AI terms that you should probably know
-Mon, 07 Sep 2026 19:24:00 +0000 — https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
-
-The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
 

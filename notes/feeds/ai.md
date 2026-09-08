@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-08T17:55:17.092Z
+# AI — harvested 2026-09-08T19:35:03.417Z
 
 ## OpenAI
 
@@ -6,6 +6,16 @@
 Tue, 08 Sep 2026 13:00:00 GMT — https://openai.com/index/the-work-now-within-reach
 
 Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.
+
+### Introducing ChatGPT Images 2.5
+Tue, 08 Sep 2026 11:30:00 GMT — https://openai.com/index/introducing-chatgpt-images-2-5
+
+ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.
+
+### On the Navier–Stokes Millennium Prize Problem
+Tue, 08 Sep 2026 10:00:00 GMT — https://openai.com/index/navier-stokes-solution
+
+We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
 
 ### Funding grants for new research into AI and teen development
 Tue, 08 Sep 2026 09:00:00 GMT — https://openai.com/index/teen-development-research-grants
@@ -16,6 +26,11 @@ Apply now for OpenAI’s $5 million grant program supporting independent researc
 Tue, 08 Sep 2026 00:00:00 GMT — https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms
 
 OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.
+
+### 1Password increases engineering productivity 21% with Codex
+Tue, 08 Sep 2026 00:00:00 GMT — https://openai.com/index/1password
+
+Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.
 
 ### Supporting independent journalism in Ukraine
 Mon, 07 Sep 2026 00:00:00 GMT — https://openai.com/index/supporting-independent-journalism-in-ukraine

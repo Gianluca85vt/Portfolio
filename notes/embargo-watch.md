@@ -20,8 +20,6 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Halloween: The Game | IllFonic Publishing, Co-Publisher: Gun I | 2026-09-08 | today | 2026-09-07 | €39.99 |
-| Bus Simulator 27 | astragon Entertainment | 2026-09-08 | today | 2026-09-07 | €29.99 |
 | WARDOGS - Supporter Pack | Team17 | 2026-09-10 | 2d | 2026-09-09 | €49.99 |
 | WARDOGS | Team17 | 2026-09-10 | 2d | 2026-09-09 | €39.99 |
 
@@ -34,7 +32,7 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ---
 
-*1000 upcoming titles scanned, 942 with a firm date inside
-14 days, 6 above the price line. Titles showing
+*1000 upcoming titles scanned, 920 with a firm date inside
+14 days, 4 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

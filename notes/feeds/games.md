@@ -1,4 +1,4 @@
-# Games — harvested 2026-09-08T17:55:17.092Z
+# Games — harvested 2026-09-08T19:35:03.417Z
 
 ## Eurogamer
 
@@ -192,6 +192,11 @@ Studio braces for layoffs. Publisher and development studio DON'T NOD is in a pr
 
 ## Game Developer
 
+### Report: EA is using genAI for commentator voiceover in NHL 27
+Tue, 08 Sep 2026 18:00:00 GMT — https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator
+
+Veteran sports commentator John Buccigross claims EA showed him the tech using his voice for in-game commentary in NHL 27.
+
 ### Tim Schafer says Double Fine's unique games can be commercial hits if they can find their audience
 Tue, 08 Sep 2026 17:14:18 GMT — https://www.gamedeveloper.com/business/tim-schafer-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money
 
@@ -261,6 +266,21 @@ The developer needs to secure external financing soon or it could face closure�
 
 ## Polygon
 
+### Marvel's Ex-Blade Director Finally Made the Mahershala Ali Movie of His Dreams
+Tue, 08 Sep 2026 19:00:15 GMT — https://www.polygon.com/your-mother-your-mother-your-mother-bassam-tariq-after-blade-interview/
+
+This did not impede Tariq from living the dream. Out of the ashes of Blade comes Your Mother Your Mother Your Mother , a riveting, often spectral drama about a Muslim contract killer fighting to protect his children and provide for his newborn baby. Set in Texas, immersed in the culture of Islam, and undulating from gripping family drama to full-blown John Wickian action cinema at a moment’s notice, Your Mother Your Mother Your Mother is more than a redemption act for both Tariq and Ali. If anything, it feels like the movie both men were born to make.
+
+### Official GTA 6 Release Time Could Mean Long Waits for Some Players
+Tue, 08 Sep 2026 18:26:40 GMT — https://www.polygon.com/grand-theft-auto-6-gta-staggered-release-time/
+
+The PlayStation Store may offer official new details on the release timings for Grand Theft Auto 6 across multiple regions, revealing that Rockstar Games may have a staggered launch for its upcoming sequel. If accurate, Grand Theft Auto fans in New Zealand might have a multi-hour head start to explore the world of GTA 6 .
+
+### Nintendo Doesn't Care About GTA 6
+Tue, 08 Sep 2026 18:00:14 GMT — https://www.polygon.com/zelda-ocarina-of-time-switch-2-release-date-nintendo-gta-6-november/
+
+Nintendo has gone ahead and broken a commandment that the mainstream video game industry seemed to have imposed on itself for 2026: thou shalt not release a game in the same month as Grand Theft Auto 6 . After some speculation that Nintendo might go later and pick a December release date, the company has opted to precede the Rockstar Games juggernaut by two weeks and landed on Nov. 5.
+
 ### Original Star Wars Officially Returns in IMAX 70mm for the First Time
 Tue, 08 Sep 2026 17:52:31 GMT — https://www.polygon.com/star-wars-2027-imax-70mm-rerelease-starfighter-dates/
 
@@ -274,7 +294,7 @@ Artificial intelligence has gone from a Silicon Valley buzzword to something mos
 ### 'Zelda: Ocarina of Time' Remake and Switch 2 Console Pre-Orders Will Be a Bloodbath
 Tue, 08 Sep 2026 17:43:24 GMT — https://www.polygon.com/preorder-zelda-ocarina-of-time-switch-2-console-foil-where-how-when/
 
-Now that Nintendo has shown off its first gameplay footage of The Legend of Zelda: Ocarina of Time remake and its fancy new hardware, fans are probably wondering how they will actually purchase these items. Here's everything we know so far.
+Now that Nintendo has shown off its first gameplay footage of The Legend of Zelda: Ocarina of Time remake and its fancy new hardware, fans are probably wondering how they will actually purchase these items. Here's everything we know so far — and a breakdown of why this Nintendo release may be an unusually stressful one for Zelda fans.
 
 ### Marvel Rivals’ New Character Reveal Explains Why Loki Was Removed From the Game
 Tue, 08 Sep 2026 17:32:32 GMT — https://www.polygon.com/marvel-rivals-season-10-gorr-release-date-revealed-loki-removed/
@@ -296,22 +316,12 @@ Tue, 08 Sep 2026 17:05:09 GMT — https://www.polygon.com/zeldas-ocarina-remake-
 
 Our latest look at The Legend of Zelda: Ocarina of Time remake has come and gone, and Link has never looked more moist. The latest footage from Nintendo 's upcoming nostalgia trip has set tongues wagging about the game's art style — is it adorable or creepy? Does the look evoke the cozy covers of Terry Pratchett books or a Thomas Kinkade mall kiosk? While no one seems to dispute that the new Ocarina 's riff on familiar locations like The Great Deku Tree and Hyrule Castle Town looks terrific, the character models for child Link and Zelda have already proven to be a bit more divisive.
 
-### Gravity Falls' Alex Hirsch Updates on the Past, Present, and Future
-Tue, 08 Sep 2026 17:00:14 GMT — https://www.polygon.com/gravity-falls-art-alex-hirsch-rob-renzetti-interview/
-
-But with appropriate modesty, the pair can believe that they created a genuine phenomenon: In their new book The Art of Gravity Falls , the pair reflect on the blood, sweat, and tears spilled to do justice to Hirsch’s ambitious vision for what the tale of twins Dipper (Jason Ritter) and Mabel (Kristen Schaal) could mean to people who hit pause and studied every frame. Spread across one extremely paranormal summer spent with “grunkle” Stan (Hirsch), what started as a monster-of-the-week riff culminated in an extremely unchill multi-dimensional battle against fan-favorite dream demon Bill Cipher. Peppered throughout were codes, clues, and Easter eggs — everything Hirsch hoped to squeeze in what could have been his one-and-only shot running his own series. At 252 pages, The Art of Gravity Falls is a stunning testament to the work that captured a generation’s attention, and still does.
-
-### 7 Hidden Details You Might Have Missed in the Zelda: Ocarina of Time Trailer
-Tue, 08 Sep 2026 16:49:24 GMT — https://www.polygon.com/zelda-ocarina-time-remake-trailer-breakdown/
-
-After months of anticipation, we finally have some firm details on Nintendo’s The Legend of Zelda: Ocarina of Time remake . The Switch 2 reimagining took center stage during the Zelda 40th Anniversary Direct , as we got to see a new trailer and a live gameplay demo. We got a lot of information about the remake in between those two segments.
-
-### Life Is Strange Studio Warns This Year Could Be Its Last
-Tue, 08 Sep 2026 16:38:06 GMT — https://www.polygon.com/life-is-strange-creator-dont-nod-closure/
-
-Time may be running out for developer Don't Nod. The studio behind the original Life is Strange , Lost Records: Bloom & Rage , Jusant , and more has announced it is currently uncertain if it will be able to operate beyond next January.
-
 ## PC Gamer
+
+### Just days after The Tetris Company warned that 'we take copyright infringement very seriously,' the Tetris clone in the White House Arcade suddenly disappears
+Tue, 08 Sep 2026 18:19:29 +0000 — https://www.pcgamer.com/games/just-days-after-the-tetris-company-warned-that-we-take-copyright-infringement-very-seriously-the-tetris-clone-in-the-white-house-arcade-suddenly-disappears/
+
+Last week, The White House, the seat of power in a country that really has better things to be doing, rolled out a virtual arcade containing five very bad videogames, including one based on the famed block-stacking game Tetris. Unlike what we've seen in past instances where videogame properties were used without permission in White House propaganda, The Tetris Company quickly called it out, warning, "We take copyright infringement very seriously." And now, that game—called Build the Wall—is gone. Most of the games in the White House Arcade promote various elements of US president Donald Trump's agenda: Rio Run promotes racism and xenophobia, Supply Line focuses on the virtues of science denial, and Trump Savings Tycoon extols the upsides of corruption. Build the Wall was all about stoking fears of immigration: Stacked blocks represented a wall keeping people—very specifically Mexicans, described by the game as "the coming horde"—from entering the US. It was a very bad game that didn't seem to work entirely correctly, but nonetheless it was undeniably a Tetris clone, and it prompted a response from The Tetris Company on Instagram : "At Tetris we believe in the power of connection and bringing people together, not dividing them. To our fans everywhere: We love you, we see you, and we're grateful to have you in our community." The Tetris Company also clarified that it was not involved in the making of the game, and issued that indirect but hard-to-miss warning about copyright. W
 
 ### Over 1,000 cut voice lines from Resident Evil 4 and Requiem reveal more about Leon Kennedy, the zombies he fights, and a lowkey bromance
 Tue, 08 Sep 2026 16:35:55 +0000 — https://www.pcgamer.com/games/resident-evil/over-1-000-cut-voice-lines-from-resident-evil-4-and-requiem-reveal-more-about-leon-kennedy-the-zombies-he-fights-and-a-lowkey-bromance/
@@ -343,7 +353,7 @@ Tue, 08 Sep 2026 14:52:14 +0000 — https://www.pcgamer.com/hardware/graphics-ca
 
 There are reports today that Nvidia is going to be releasing a new variant of its GeForce RTX 5070 graphics card with a cut-down GB203 GPU instead of the GB205 chip it originally launched with. Could this be good news for consumers? Well, no and maybe. The idea behind using bigger chips to fill out the inventory of smaller cards basically gives manufacturers something to do with graphics processors that don't have enough functional units to power a bigger card. Here we're talking about the same GPU as that used in the far more powerful RTX 5070 Ti and RTX 5080 graphics cards. The RTX 5070 doesn't currently use the full GB205 die, but its complement of 6144 CUDA cores isn't far off the maximum of 6400 the full chip can offer, so it already has some failsafe headroom built in. Compare that with the GB203 used by the RTX 5080 and that card is using the full silicon package of its chip. That could maybe be seen as quite a gamble on the yields coming from the TSMC 4N process, but it is mature, and Nvidia already has the RTX 5070 Ti, with its 8960 CUDA cores to mop up any GPUs that don't quite fit the full RTX 5080 bill. But what's a GPU manufacturer to do if there a a bunch of chips from a wafer that can't fit into even an RTX 5070 Ti's cut-down CUDA core requirement? That's where this proposed new RTX 5070 would come in, taking that bigger core, chopping it down to 6144 cores and giving it a new badge. So yes, don't expect that because it's using a bigger chip that the correspond
 
-### Former Skyrim co-lead says Bethesda making Starfield instead of TES6 came out of nowhere: 'It was very much: Guess what, team? We're making this space game'
+### Skyrim co-lead says Bethesda making Starfield instead of TES6 came out of nowhere: 'It was very much: Guess what, team? We're making this space game'
 Tue, 08 Sep 2026 14:34:07 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/former-skyrim-co-lead-says-bethesda-making-starfield-instead-of-tes6-came-out-of-nowhere-it-was-very-much-guess-what-team-were-making-this-space-game/
 
 The Elder Scrolls 6 is hotly anticipated—and has been for a full eight years following its announcement at E3 2018 and complete silence on it ever since. Instead, Bethesda worked very hard at trying to push Starfield which, for a studio that was once the pinnacle of open world RPG makers, just wasn't quite up to snuff . The setting was a little dull and boilerplate, the procedurally-generated planets didn't have much on offer, it looked a touch dated, and so on. It was left out to dry at The Game Awards , was thrashed by reviews on Steam , and it had the misfortune of coming out in the same year as Baldur's Gate 3 , which is one of our highest-scoring games of all time . According to Bethesda veteran Kurt Kuhlmann, most of the developers at the studio were surprised to be working on Starfield instead of The Elder Scrolls 6. And it's not as though Kuhlmann was some small fry who wasn't in the know: He joined the company in 1996, wrote the main questline of Oblivion, and was the co-lead designer on Skyrim before leaving the studio in 2023. Speaking with Frvr , Kuhlmann says that "we all expected [The Elder Scrolls 6] to be directly after Fallout 4. Why wouldn't it be? That's what we did, and that was kind of the expectation. And then Fallout 76 came along." Fallout 76 sidelined the studio for some time, as the project "wasn't originally supposed to involve our whole studio. But then, I mean, what we were supposed to be working on next—it wasn't ever that we were about to sudden
@@ -368,12 +378,17 @@ Tue, 08 Sep 2026 13:31:14 +0000 — https://www.pcgamer.com/hardware/processors/
 
 The price of Intel CPUs may be about to increase by a further 10%. Processors, as with almost all things hardware, have been steadily climbing in price since the end of 2025. This latest price increase for Intel CPUs looks set to take effect from October 5, this year. A number of lower-core product lines will also be nearing end-of-life, according to supply chain sources that spoke to DigiTimes . It remains unclear which processors will be impacted in either case. This follows last month's report of a desktop CPU sales slump for both Intel and AMD . The most recent Intel price increases affecting PC gamers were for the Core Ultra 7 270K Plus and the Core 5 250K Plus . Part of the continuing upward trend can be blamed on increasing prices for PCBs, which is also having a knock-on effect on motherboard prices . The memory supply crisis also doesn't help. But additionally, sources say Intel CEO Chen Liwu is looking into the CPU segment of the business anyway, reviewing pricing and profit. Speaking of restructuring, though, DigiTimes' sources also claim that there will be further layoffs at Intel. It's rumoured the company could lose between 5 and 10% of its current work force, and that these job cuts could shrink the company's global workforce to around 70,000. This would allegedly be in addition to the most recent layoffs affecting Intel's data center group . That said, supply chain sources told DigiTimes that Intel's own chip fabs are prioritising making CPUs for servers. This
 
-### Don't Nod might not have enough cash to make it through January 2027, and even if it does, pulling up could 'involve the reduction of up to 90 positions'
-Tue, 08 Sep 2026 12:23:53 +0000 — https://www.pcgamer.com/gaming-industry/dont-nod-might-not-have-enough-cash-to-make-it-through-january-2027-and-even-if-it-does-pulling-up-could-involve-the-reduction-of-up-to-90-positions/
-
-Don't Nod, best known as the developers of Life is Strange 1 and 2, has been having a rough go of it, lately. In 2024, its games Jusant and Banishers: Ghosts of New Eden sold "well below expectations" , causing it to pause development of two further games. Then, in 2025, it laid off several employees after Lost Records didn't quite make up the difference. Based on this financial update (thanks, GamesIndustry.biz ), its third-person adventure game Aphelion didn't pull things back from the brink, either. The developer reported a 56% decrease in operating revenue year-on-year, "amid systemic pressures in the video game industry, characterized by highly selective financing." This also presented as a €3.5 million decline in sales in the first half of 2026, "driven primarily by sales and the recognition of a portion of PS+ and Game Pass revenue from Bloom and Rage, initial sales of Aphelion, and the back catalog", as well as an increase development costs to the tune of €2.6 million because of an as-yet-unannounced collaboration with Netflix for "a narrative game based on a major Netflix intellectual property." This is a dire forecast, as it means there's a "material uncertainty regarding the company's ability to continue as a going concern beyond January 31, 2027." In other words, Don't Nod is running out of money, and fast. As a result, the studio's looking to reduce the amount of plates it's currently spinning: "Don't Nod is refocusing its operations in France around a single pro
-
 ## GameSpot
+
+### The Internet Reacts To Zelda: Ocarina Of Time s Changes
+Tue, 08 Sep 2026 18:50:28 +0000 — https://www.gamespot.com/articles/the-internet-reacts-to-zelda-ocarina-of-times-changes/
+
+Following the reveal of The Legend of Zelda: Ocarina of Time's remake earlier this year, Nintendo shared an extended look at the game during the company's latest Direct . Naturally, players have been sharing their opinions on social media, and certain aspects of the game's art style has been divisive among the fan base. However, there have been some very positive reactions as well. The new looks for young Link and some of the other character inspired a round of memes and jokes. https://twitter.com/harrybookTV/status/2097338008638738442 https://twitter.com/SucumbaGames/status/2097362208820727830 https://twitter.com/MunchingOrange/status/2097337132389929307 Some players had conflicted feelings about the remake's enhancements. https://twitter.com/NGreentail/status/2097337287440810207 And then there are the Zelda faithful who are thrilled to have Link and company back in an upgraded version of the classic game. https://twitter.com/HammySisko/status/2097336102394696003 https://twitter.com/SlLENTPRINCESS/status/2097331164138652065 https://twitter.com/ArcanaLegacy/status/2097334868711506208 At least one player was impressed by the game's new feature, which allows fans to hum one of the Zelda themes to make Link play it with his ocarina. https://twitter.com/twilisita/status/2097330631537578295 The Direct also disclosed additional details about the remake, including Link's newfound ability to jump , the voice acting , and a game mechanic that was apparently borrowed from Breath of the
+
+### Xbox s Disc-To-Digital Program Has A Big Problem: Several Major Publishers Aren t Participating
+Tue, 08 Sep 2026 17:53:15 +0000 — https://www.gamespot.com/articles/xbox-disc-to-digital-program-has-a-big-problem-several-major-publishers-arent-participating/
+
+Xbox's disc-to-digital program looks like it could be a vital step forward for players who want to hold on to their physical games in an increasingly digital world, but it does have limits. Not every game publisher is on board with it, it seems, as Xbox users are reporting that four of the biggest companies aren't "participating" at all. So far, it looks like games from Sega, Square Enix, Ubisoft, and Bandai Namco are largely incompatible with the disc-to-digital service. As verified by Kotaku , popping in a disc for a game from one of those publishers could result in a "not participating in digital licensing" message. A fan effort to catalogue all the games that do work with it also shows which titles from those publishers are incompatible with disc-to-digital, so if you were holding on to a physical edition of Far Cry 4, Final Fantasy 15, or Dark Souls 3, you're out of luck. https://www.youtube.com/watch?v=4FatSqS3VYY&t=19s This could be rectified in the future if those publishers decide to sign up--Xbox has mentioned that this will be a gradual rollout for the service--but the current wording of the message and the sheer number of games involved suggest otherwise. What's the reason for this? It could be down to good ol' economics, as the companies would probably prefer that you buy one of their games again on the digital storefront. After all, if you decide to pick up a physical copy of a title from a local secondhand store or through a private sale, they're not seeing a c
 
 ### GameStop Sets A New Financial Record, And It s No Thanks To Games
 Tue, 08 Sep 2026 16:08:19 +0000 — https://www.gamespot.com/articles/gamestop-sets-a-new-financial-record-and-its-no-thanks-to-games/
@@ -424,16 +439,6 @@ As part of the Zelda-themed Nintendo Direct today , Nintendo announced that The 
 Tue, 08 Sep 2026 14:12:34 +0000 — https://www.gamespot.com/articles/the-legend-of-zelda-movie-based-on-the-legend-of-zelda-is-called-the-legend-of-zelda/
 
 After teasing fans with a few images earlier this year, Nintendo finally gave a little more info about the Legend of Zelda live-action movie . Very little! We now have a final title, but Nintendo chose not to share any additional images or a trailer yet. The movie will release on April 30, 2027. Series creator Shigeru Miyamoto appeared briefly to share that the final title is simply The Legend of Zelda. He called attention to the lack of subtitle, and said that once you see the movie the simplicity of the title will make sense. The movie stars Bo Bragason (Zelda) and Benjamin Evan Ainsworth (Link). "Once you've seen the film, you'll understand why there isn't a subtitle," Miyamoto said. "This is an original film based on the many stories, ideas, and concepts of the series, built up through the years for 40 years. Through the creative power and visual expertise of the talented production team, it's become an artistic work worthy of the Legend of Zelda series." Directed by Wes Ball (Kingdom of the Planet of the Apes), this is the first live-action movie based on a Nintendo property since the infamous Super Mario Bros. flick from 1993. Ball has previously mentioned that he's aiming to bring Studio Ghibli aesthetics to this adaptation, as well as a sense of realism to the fantasy adventure. Filming for the Zelda movie began in November 2025 in New Zealand--the same country where Peter Jackson shot his legendary Lord of the Rings trilogy--and production wrapped in April 2026. The 
-
-### EA Used AI To Clone John Buccigross Voice In NHL 27
-Tue, 08 Sep 2026 13:46:32 +0000 — https://www.gamespot.com/articles/ea-used-ai-to-clone-john-buccigross-voice-in-nhl-27/
-
-Electronic Arts utilizes generative AI systems in its suite of development tools, and now another example has come to light. John Buccigross, the ESPN personality who joined the in-game broadcast booth for NHL 27 this year, has revealed that EA Sports used generative AI to simulate his voice in some scenarios. The developers seemingly did not disclose this prior to launch. He said on the Chirping Zebras podcast ( via 23sabres ) that the developers played some AI-produced lines back for him, and he said they were "pretty good." However, he also recalled times when the AI tools didn't get things completely right, so a human had to make corrections. He said in one scenario, the AI voice said, "And the crowd gets out of the chairs." In ice hockey, though, a commentator in reality would not say "chairs" but instead "seats." At the end of the day, Buccigross sounded pretty enthusiastic about the AI features in NHL 27. "If it means less work and the same check, I'll take it," he said. EA Sports previously used generative AI to help with its popular College Football series. The developers said the game would not have been as good without it . EA CEO Andrew Wilson is a big believer in utilizing AI to help make games faster and more efficiently, even if it means job losses and displacement in the short term. Wilson said EA conducted a study across all of its development processes and found that 60% of development processes have a “high feasibility” of being positively impacted by gener
-
-### Resident Evil Director Says He Won t Do A Franchise Movie Again
-Tue, 08 Sep 2026 13:01:00 +0000 — https://www.gamespot.com/articles/resident-evil-director-says-he-wont-do-a-franchise-movie-again/
-
-Director Zach Cregger is making one of 2026's most-anticipated video game movies in Resident Evil , but don't expect him to make another film based on a franchise again. Speaking to Deadline , Cregger said, "I'm doing this [Resident Evil], and that's it for me. I'm not going to go tackle any other franchises." Why? He said it's because he wants to "write whatever I want to write," as opposed to adhering to a specific franchise's history and lore. "I don’t want to write something where I have to make sure I’m tagging different data points to satisfy X. I just want to satisfy me," he said. https://www.youtube.com/watch?v=mNd1gb19A-c Cregger said the "only reason" that Resident Evil made sense for him was because he's a big fan of the games and he came up with what he believes is an original idea for it. "I think this movie is cool, and I hope it checks the fan boxes because I’m a fan and I’m checking my boxes. I’m making the Resident Evil movie that I wish existed, so I can do that with a clean heart and a clear conscience and not feel like I’m getting f*cked by some weird industry thing," he said. Cregger also clarified comments he made previously about his story for the Resident Evil movie. Some had theorized that what Cregger meant when he said he came up with an original story for Resident Evil was that he wrote a story and then slapped the Resident Evil name on it. That's not quite the case. "What I mean is it’s an original story, but it’s still a Resident Evil story. I’m 
 
 ## Rock Paper Shotgun
 

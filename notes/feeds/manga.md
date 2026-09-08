@@ -1,6 +1,16 @@
-# Manga — harvested 2026-09-08T17:55:17.092Z
+# Manga — harvested 2026-09-08T19:35:03.417Z
 
 ## Anime News Network
+
+### Daemons of the Shadow Realm ‒ Episode 22
+Tue, 08 Sep 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-22/.241476
+
+Is Gonzo a manipulative puppet master? Sure. But there is more to him than that.
+
+### Naoki Azuma Launches New Glitch Witch Manga Set in Ghost in the Shell World
+Tue, 08 Sep 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/naoki-azuma-launches-new-glitch-witch-manga-set-in-ghost-in-the-shell-world/.241529
+
+Masamune Shirow credited for original concept for manga that debuted on Wednesday
 
 ### Junket Bank TV Anime's Premiere Delayed from October
 Tue, 08 Sep 2026 13:45:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/junket-bank-tv-anime-premiere-delayed-from-october/.241533
@@ -51,16 +61,6 @@ As stable as the relationships of the official couples might be, the characters 
 Tue, 08 Sep 2026 11:15:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/ace-of-diamond-act-ii-second-season-2nd-part-announces-new-cast-member-october-11-debut/.241517
 
 Daisuke Sakuma joins series as Shinichiro Saotome
-
-### The Legend of Zelda: Ocarina of Time Switch 2 Remake Game's Videos Reveal November 5 Release
-Tue, 08 Sep 2026 10:45:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/the-legend-of-zelda-ocarina-of-time-switch-2-remake-game-videos-reveal-november-5-release/.241522
-
-Gameplay videos previews new visuals, voice acting, additional features
-
-### Iron Wok Jan! ‒ Episode 10
-Tue, 08 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-10/.241471
-
-Jan’s bloody wallowing is so upsetting and personal that even Okonogi and Kiriko are unable to provide some measure of comfort - instead leaving him to sit in a pool of his own bloody remorse.
 
 ## Crunchyroll News
 
