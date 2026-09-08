@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="1666: Amsterdam, 13 years from cancellation to early access">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.55" stop-color="#3E0A24"/>
+      <stop offset="1" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" fill="#FFB3C1" font-family="Helvetica, Arial, sans-serif" font-size="30" letter-spacing="7">1666: AMSTERDAM</text>
+  <text x="86" y="360" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="230" font-weight="700">13</text>
+  <text x="86" y="450" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="66" font-weight="700">years, cancelled</text>
+  <text x="86" y="524" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="66" font-weight="700">to early access</text>
+  <text x="90" y="596" fill="#F3C9D4" font-family="Helvetica, Arial, sans-serif" font-size="30">Fifty people at THQ. One slice on the shelf.</text>
+</svg>
