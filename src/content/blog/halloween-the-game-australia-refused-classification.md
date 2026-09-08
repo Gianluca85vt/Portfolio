@@ -4,7 +4,6 @@ date: 2026-09-08
 category: Games
 excerpt: Refused classification over a power-up that gets you high, Halloween launched on 8 September everywhere but Australia — and cut a second buff days earlier.
 cover: /img/blog/halloween-the-game-australia-refused-classification/shot-01.jpg
-draft: true
 ---
 
 Halloween: The Game went wide today, 8 September, on PS5, Xbox Series X|S and
