@@ -1,72 +1,102 @@
-# Manga — harvested 2026-09-08T09:06:43.281Z
+# Manga — harvested 2026-09-08T14:46:06.153Z
 
 ## Anime News Network
+
+### Iron Wok Jan! ‒ Episode 10
+Tue, 08 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-10/.241471
+
+Jan’s bloody wallowing is so upsetting and personal that even Okonogi and Kiriko are unable to provide some measure of comfort - instead leaving him to sit in a pool of his own bloody remorse.
+
+### This Week in Anime - There's Always More Drama
+Tue, 08 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-08/.241486
+
+After exploring the world of K-Drama, Sylvia and Coop decide to tackle Japan's offerings in the genre.
+
+### Hands-On Preview: Gundam Rogue Orbit Brings Smooth Action Mech Gameplay
+Tue, 08 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-08/hands-on-preview-gundam-rogue-orbit-brings-smooth-action-mech-gameplay/.241500
+
+Players who've dabbled in other mech games like <i>Gundam Breaker</i> and <i>Armored Core</i> will find that <i>Rogue Orbit</i> feels comfortably familiar.
+
+### Draw This, Then Die! ‒ Episode 9
+Tue, 08 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/draw-this-then-die/episode-9/.241452
+
+Are you more interested in creating something for yourself or an audience?
+
+### This Week in Mobile Games - The Gamesman Cometh
+Tue, 08 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-09-08/.241060
+
+Josh picks up where Jean-Karlo left off to wrap up the Gamescom news.
+
+### Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 20
+Tue, 08 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-20/.241451
+
+Georgine's defining fashion sense is a veil, as in what she does with her true intentions. Its love of literature does not mean Bookworm is beholden to utilizing particularly dense subtext.
+
+### The Elusive Samurai Season 2 ‒ Episode 8
+Tue, 08 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-8/.241443
+
+Mima Sasaki is a scheming little crime-goblin with magic powers and a penchant for high-stakes gambling. She's perfect, and she must be protected at all costs.
+
+### Ghibli Co-Founder Toshio Suzuki Addresses 'Ghibli-Style' AI Images for 1st Time
+Tue, 08 Sep 2026 07:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-08/ghibli-co-founder-toshio-suzuki-addresses-ghibli-style-ai-images-for-1st-time/.241492
+
+Producer also discusses whether Hayao Miyazaki will make another movie
+
+### Nia Liston: The Merciless Maiden Anime's 2nd Video Unveils More Cast, Half-Year Run
+Tue, 08 Sep 2026 06:20:10 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/nia-liston-the-merciless-maiden-anime-2nd-video-unveils-more-cast-half-year-run/.241514
+
+Kōichi Sakaguchi, Junichi Suwabe, Maaya Uchida, Kazuyuki Okitsu join cast of October 6 series
+
+### Magic Repo Man Anime's 2nd English-Subtitled Trailer Reveals More Cast, Theme Songs
+Tue, 08 Sep 2026 06:03:13 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/magic-repo-man-anime-2nd-english-subtitled-trailer-reveals-more-cast-theme-songs/.241512
+
+Daisuke Namikawa joins cast of October 4 series
+
+### We Are Aliens Film Streams 'Theme Song Trailer'
+Tue, 08 Sep 2026 05:01:10 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/we-are-aliens-film-streams-theme-song-trailer/.241510
+
+New trailer features never-before-released part of adieu's "Sasakure" theme song
 
 ### The World is Dancing Anime Casts Nobunaga Shimazaki
 Tue, 08 Sep 2026 01:59:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/the-world-is-dancing-anime-casts-nobunaga-shimazaki/.241498
 
 Shimazaki plays protagonist Oniyasha as young adult
 
-### Geek Pictures Unveils Panchsheela Indian-Japanese Magical Girl Animation
-Tue, 08 Sep 2026 00:00:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/geek-pictures-unveils-panchsheela-indian-japanese-magical-girl-animation/.241497
-
-Tokyo-based Geek Pictures' subsidiary Geek Pictures India produces project
-
-### Marriage Toxin TV Anime's 2nd Season Reveals Promo Video, Key Visual
-Mon, 07 Sep 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/marriage-toxin-tv-anime-2nd-season-reveals-promo-video-key-visual/.241487
-
-1st season of anime based on Jōmyaku, Mizuki Yoda's manga premiered on April 7
-
-### You Are a Four Leaf Clover Romantic Suspense Manga Gets Anime
-Mon, 07 Sep 2026 19:06:38 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/you-are-a-four-leaf-clover-romantic-suspense-manga-gets-anime/.241496
-
-Koushi's story of bullied student whose 1st love suddenly appears years later
-
-### Fake It to Break It! Manga Changes Artists
-Mon, 07 Sep 2026 15:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/fake-it-to-break-it-manga-changes-artists/.241470
-
-Megumi Dorokawa takes over as artist from September 10
-
-### Tamer: Trash-Tier to Top-Tier Manga Ends
-Mon, 07 Sep 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/tamer-trash-tier-to-top-tier-manga-ends/.241469
-
-NiwaRhythm's manga adaptation of Tamaki Yoshigae's novels debuted in October 2020
-
-### Look Back Live-Action Film Review
-Mon, 07 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/review/look-back/live-action-film/.241218
-
-The live-action movie of Tatsuki Fujimoto’s manga tragedy can’t match the anime but is still a moving experience.
-
-### Japan's Video Game Rankings, August 24-30
-Mon, 07 Sep 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/japan-video-game-rankings-august-24-30/.241457
-
-<cite>Rhythm Heaven Groove</cite> stays at #1 for 4 weeks straight; <cite>ELDEN RING Tarnished Edition</cite> for Switch 2 debuts at #2
-
-### Manta to Distribute Manga from KADOKAWA and Square Enix Globally
-Mon, 07 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/press-release/2026-09-07/manta-to-distribute-manga-from-kadokawa-and-square-enix-globally/.241472
-
-More than 300 titles have been added to Manta's catalogue, among them The Apothecary Diaries, Proud to be the Villainess, Daemons of the Shadow Realm, & more.
-
-### Japanese Animation TV Ranking, August 24-30
-Mon, 07 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/japanese-animation-tv-ranking-august-24-30/.241458
-
-<cite>Detective Conan</cite> gets 5.9% rating; From Old Country Bumpkin to Master Swordsman season 2 maintains 2.6% rating
-
-### Naoko Yamada Visited Mongolia to Prepare for Jaadugar: A Witch in Mongolia Anime
-Mon, 07 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/naoko-yamada-visited-mongolia-to-prepare-for-jaadugar-a-witch-in-mongolia-anime/.239700
-
-We spoke with Yamada about the anime's unique position as a historical series set in 13th-century Mongolia, and about how she and Góngora traveled to its real-life setting to experience life there firsthand.
-
-### Hololive VTuber Agency Launch 1st TV Anime Project From Studio Kai
-Mon, 07 Sep 2026 08:42:28 -0400 — https://www.animenewsnetwork.com/news/2026-09-07/hololive-vtuber-agency-launch-1st-tv-anime-project-from-studio-kai/.241493
-
-"Odeholo" project is part of hololive's 10th anniversary celebration
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Legend of Zelda: Ocarina of Time Remake Reveals Gameplay and New Features, November 5 Launch
+Tue, 08 Sep 2026 14:28:49 GMT — https://animecorner.me/the-legend-of-zelda-ocarina-of-time-remake-reveals-gameplay-and-new-features-november-5-launch/
+
+The Legend of Zelda: Ocarina of Time remake revealed the first extensive look at its gameplay, along with a November 5 release date.
+
+### Ace of the Diamond Act II Season 2 Cour 2 New Key Visual Teases Seido vs Inashiro Match Ahead of October 11 Premiere
+Tue, 08 Sep 2026 13:40:23 GMT — https://animecorner.me/ace-of-the-diamond-act-ii-season-2-cour-2-new-key-visual-teases-seido-vs-inashiro-match-ahead-of-october-11-premiere/
+
+Ace of the Diamond Act II Season 2 revealed a new key visual for its second&hellip;
+
+### Magic Repo Man Anime Unveils New Trailer, Theme Songs, Additional Cast
+Tue, 08 Sep 2026 11:42:37 GMT — https://animecorner.me/magic-repo-man-anime-unveils-new-trailer-theme-songs-additional-cast/
+
+The new trailer for Magic Repo Man: Dumped by My Party, I’ll Cash In&hellip;
+
+### Nia Liston: The Merciless Maiden Anime Unveils New Trailer
+Tue, 08 Sep 2026 11:27:33 GMT — https://animecorner.me/nia-liston-the-merciless-maiden-anime-unveils-new-trailer/
+
+Nia Liston: The Merciless Maiden anime unveiled a new trailer on Tuesday. HIDIVE will stream&hellip;
+
+### Hotel Inhumans Season 2 Reveals New Visual, Trailer, Theme Songs
+Tue, 08 Sep 2026 11:09:41 GMT — https://animecorner.me/hotel-inhumans-season-2-reveals-new-visual-trailer-theme-songs/
+
+The previously announced Hotel Inhumans Season 2 revealed a new visual and trailer featuring&hellip;
+
+### Katekyo Hitman Reborn! Anime Reveals Third Opening Featuring "DIVE TO WORLD" by CHERRYBLOSSOM
+Tue, 08 Sep 2026 11:04:21 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-third-opening-featuring-dive-to-world-by-cherryblossom/
+
+Katekyo Hitman REBORN! anime released the creditless version of its third opening, featuring "DIVE TO WORLD" by CHERRYBLOSSOM.
 
 ### Tracksuit Subaru Appears in Re:ZERO Season 4 Episode 16 Preview
 Tue, 08 Sep 2026 08:59:58 GMT — https://animecorner.me/tracksuit-subaru-appears-in-rezero-season-4-episode-16-preview/
@@ -98,37 +128,12 @@ Tue, 08 Sep 2026 02:08:43 GMT — https://animecorner.me/interview-german-japane
 
 During our last visit to DoKomi, we interviewed the German-Japanese duo SOSOSO tokyo_berlin before&hellip;
 
-### MARRIAGETOXIN Season 2 Main Visual Revealed
-Tue, 08 Sep 2026 01:58:14 GMT — https://animecorner.me/marriagetoxin-season-2-main-visual-revealed/
-
-MARRIAGETOXIN has revealed its main visual for Season 2, which is scheduled to begin streaming in January 2027.
-
-### Firefly Wedding Anime Reveals Key Visual at Advance Screening Event
-Tue, 08 Sep 2026 00:20:42 GMT — https://animecorner.me/firefly-wedding-anime-reveals-key-visual-at-advance-screening-event/
-
-Firefly Wedding TV anime revealed a new key visual during a screening event ahead&hellip;
-
-### Black Clover Season 2 Announces October 3 Premiere
-Mon, 07 Sep 2026 23:54:10 GMT — https://animecorner.me/black-clover-season-2-announces-october-3-premiere/
-
-Black Clover Season 2 anime has officially announced that the series will premiere on October 3, 2026.
-
-### Katekyo Hitman Reborn! Releases Creditless Third Anime Ending Featuring "Echo again" by SPLAY
-Mon, 07 Sep 2026 23:21:51 GMT — https://animecorner.me/katekyo-hitman-reborn-releases-creditless-third-anime-ending-featuring-echo-again-by-splay/
-
-Katekyo Hitman REBORN! anime released the creditless version of its third ending, featuring the song "Echo again" by SPLAY.
-
-### Crunchyroll Looks to Hire Anti-Piracy Lead to Fight Global Anime Infringement
-Mon, 07 Sep 2026 17:52:03 GMT — https://animecorner.me/crunchyroll-looks-to-hire-anti-piracy-lead-to-fight-global-anime-infringement/
-
-Crunchyroll has been looking to strengthen its battle against anime piracy since at least&hellip;
-
-### hololive TV Anime by Studio KAI Announced, Full Details on September 23
-Mon, 07 Sep 2026 13:40:41 GMT — https://animecorner.me/hololive-tv-anime-by-studio-kai-announced-full-details-on-september-23/
-
-hololive is officially getting a TV anime, with Studio KAI (Sentenced to Be a Hero) handling animation production.
-
 ## MyAnimeList News
+
+### Kyouran Reijou Nia Liston Reveals Additional Cast, Second Promo, Two Consecutive Cours
+Tue, 08 Sep 2026 02:27:18 -0700 — https://myanimelist.net/news/74687352?_location=rss
+
+The official website for the television anime adaptation of Umikaze Minamino s Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei naru Musouroku (Nia Liston: The Merciless Maiden) light novel revealed additional cast and the second promotional video on Tuesday. The anime will air for two consecutive cours, beginning on October 6 at 9:25 p.m. on Tokyo MX, followed by BS Nippon TV and MBS. A special stage event and advance screening of the first three epi...
 
 ### The Power of Will: Rie Takahashi and Saori Hayami on Rediscovering Magic Knight Rayearth
 Mon, 07 Sep 2026 16:40:56 -0700 — https://myanimelist.net/news/74684465?_location=rss
@@ -164,11 +169,6 @@ The official website for the television anime adaptation of Nao Iwamoto s Marron
 Sun, 06 Sep 2026 23:37:04 -0700 — https://myanimelist.net/news/74680699?_location=rss
 
 The official website for the television anime adaptation of Tsutomu s Ojisan wa Kawaii Mono ga Osuki. (Pops Loves Kawaii Stuff) manga unveiled additional cast, the theme songs, and second promotional video on Monday. The anime series is scheduled to premiere on October 4 at 10.00 p.m. on Tokyo MX, followed by BS Asahi and Yomiuri TV on October 5. Cast Rio Moshina: Kaori Maeda (Love Live! Nijigasaki Gakuen School Idol Doukoukai) Mirai Usuama: Miharu Hanai (Selection Project) Haruo Kiba: Sato...
-
-### Light Novel Unnamed Memory: After the End Concludes with Eighth Volume
-Sun, 06 Sep 2026 04:54:23 -0700 — https://myanimelist.net/news/74676481?_location=rss
-
-The official X (formerly Twitter) account of Kadokawa s Dengeki no Shinbungei label announced on August 27 that Kuji Furumiya and chibi s Unnamed Memory: After the End light novel series will end with its eighth volume on December 17. Furumiya began penning the sequel fantasy romance light novel under Dengeki no Shinbungei imprint in February 2022, with illustrations by chibi (Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu). Kadokawa published the sixth volume in May 2025,...
 
 ## Otaku USA
 
