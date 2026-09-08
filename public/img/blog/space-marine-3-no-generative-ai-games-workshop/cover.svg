@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Space Marine 3: no generative AI, and Games Workshop">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.45" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="62%" stop-color="#4A0247"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <text x="90" y="132" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="5" fill="#F0B8EC" opacity="0.85">AI IN THE PIPELINE</text>
+
+  <text x="90" y="286" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">ABSOLUTELY</text>
+  <text x="90" y="424" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">NO GENAI</text>
+
+  <rect x="92" y="474" width="132" height="7" fill="#FFFFFF" opacity="0.9"/>
+
+  <text x="90" y="558" font-family="Helvetica, Arial, sans-serif" font-size="41" font-weight="400" fill="#F6DCF4">Space Marine 3, Hellraiser, Turok,</text>
+  <text x="90" y="608" font-family="Helvetica, Arial, sans-serif" font-size="41" font-weight="400" fill="#F6DCF4">Jurassic Park, Stuntman, Wick.</text>
+
+  <text x="90" y="686" font-family="Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#FFFFFF" opacity="0.72">Six titles Saber does not own.</text>
+</svg>
