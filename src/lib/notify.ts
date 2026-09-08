@@ -261,6 +261,8 @@ export async function notifyNewDraft(
     category: string;
     excerpt: string;
     cover?: string;
+    /** Distinct publications behind the piece. Two is the floor. */
+    outlets?: string[];
     linkedin?: string;
     script?: string;
   },
@@ -291,6 +293,8 @@ export async function notifyNewDraft(
     // approve link refuses it — so saying which it is here saves a click that
     // was only ever going to come back with a no.
     const drawnCover = !draft.cover || draft.cover.endsWith('.svg');
+    const outlets = draft.outlets ?? [];
+    const thin = outlets.length < 2;
     const coverUrl = draft.cover ? `${siteUrl}${draft.cover}` : '';
 
     const text = [
@@ -324,6 +328,18 @@ export async function notifyNewDraft(
     published as it stands — ask for a revision and the next run will source an image.
   </p>`
       : `<a href="${esc(coverUrl)}"><img src="${esc(coverUrl)}" alt="" width="520" style="width:100%;max-width:520px;border-radius:10px;display:block;margin:0 0 20px"></a>`
+  }
+  ${
+    thin
+      ? `<p style="border-left:3px solid #D6294E;background:#FDF1F3;padding:10px 14px;margin:0 0 20px;line-height:1.5;color:#5a1f2a">
+    <strong>${outlets.length === 0 ? 'No sources declared.' : 'Only one outlet.'}</strong>
+    ${outlets.length === 1 ? `Everything here rests on ${esc(outlets[0])}. ` : ''}Two independent
+    publications before this goes out. If a second one has not filed yet, leave it as a draft and
+    let it wait.
+  </p>`
+      : `<p style="color:#666;margin:0 0 20px;line-height:1.5;font-size:13px">
+    <strong style="color:#0F6E78">${outlets.length} sources.</strong> ${esc(outlets.join(', '))}
+  </p>`
   }
   <p style="margin:0 0 18px">
     ${

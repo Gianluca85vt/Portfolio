@@ -48,6 +48,7 @@ export const POST: APIRoute = async ({ request }) => {
       category: draft.category,
       excerpt: draft.excerpt,
       cover: draft.cover,
+      outlets: draft.outlets,
       linkedin,
       script: hasScript ? `notes/video/${slug}.script.md` : undefined,
     },

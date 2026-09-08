@@ -204,6 +204,22 @@ export async function isDraft(slug: string) {
   const field = (name: string) =>
     new RegExp(`^${name}:\\s*(.+)$`, 'm').exec(file.text)?.[1]?.trim() ?? '';
 
+  // Distinct outlets behind the piece, for the two-source rule. Read out of
+  // both shapes the frontmatter uses: `sources` is block style, one key per
+  // line, and a review's `scoreSources` is inline flow — `- { outlet: IGN,
+  // score: 8 }`. Matching only the first read every review as unsourced.
+  //
+  // Distinct, not counted: two links to the same publication is one source
+  // read twice, which is how a single wire story passes for corroboration.
+  const frontmatter = /^---\n([\s\S]*?)\n---/.exec(file.text.replace(/\r\n?/g, '\n'))?.[1] ?? '';
+  const outlets = [
+    ...new Set(
+      [...frontmatter.matchAll(/outlet:\s*([^,}\n]+)/g)]
+        .map((m) => m[1].replace(/^["']|["']$/g, '').trim())
+        .filter(Boolean)
+    ),
+  ];
+
   return {
     title: field('title'),
     category: field('category'),
@@ -211,5 +227,6 @@ export async function isDraft(slug: string) {
     // The review email shows this, so the answer to "does it have artwork?"
     // arrives with the decision rather than after clicking Publish.
     cover: field('cover').replace(/^["']|["']$/g, ''),
+    outlets,
   };
 }
