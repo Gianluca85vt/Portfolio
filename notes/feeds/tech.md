@@ -1,11 +1,31 @@
-# Tech — harvested 2026-09-08T14:46:06.153Z
+# Tech — harvested 2026-09-08T17:55:17.092Z
 
 ## Ars Technica
+
+### Google complies with EU rules for travel searches, says the new results stink
+Tue, 08 Sep 2026 16:49:55 +0000 — https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/
+
+As the world's largest search engine, Google is often a target of Europe's Digital Markets Act (DMA), which seeks to rein in Big Tech. The European Commission hit Google with a hefty 460 million euro ($543 million) fine in July for preferring its own services in searches for travel and shopping. Google has now made changes in accordance with the European Union's wishes, but it claims the result is a massive reduction in search quality. If you don't live in Europe and perform a search for, say, hotels, Google will helpfully provide myriad sponsored links, booking recommendations, and price-comparison tools in its results. The problem is that this content isn't organic—Google includes links and offers contingent on its business interests. To get to the regular search results for these types of lucrative searches, you have to scroll way down the page. Companies that partner with Google can get more exposure, but the European Commission says this creates an unlevel playing field. "To comply with DMA requirements, we're making significant changes to Search in Europe," Google's Nick Fox told Reuters . "These changes ​degrade the user experience for ​Europeans, boosting online intermediaries ⁠at the expense of local businesses and removing helpful features people rely on every day." Read full article Comments ]]>
+
+### The White House made a "Tetris" clone. The Tetris Company was not amused.
+Tue, 08 Sep 2026 16:31:21 +0000 — https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/
+
+An anti-immigration-themed adaptation of Tetris was removed from the White House website over the weekend. The move comes days after The Tetris Company disavowed any involvement with the game and said that it "take[s] copyright infringement very seriously." The White House's "Build the Wall" game asked players to stop a "Zombie Border siege" by stacking Tetris -styled bricks in an attempt to "hold the line." Unlike in Tetris , though, the blocks in "Build the Wall" don't disappear when you complete a line, meaning each brick contributes to an impassable barrier for the pixel-art "zombies" marching in from the "Southern Border." That change makes the gameplay pretty uninteresting for anything but cheap propaganda, and it also means that every game quickly and ironically ends with a "Border Breached" message when the blocks inevitably fill up the well. Amerika Garcia Grewal, co-director of Texas migrant rights group Frontera Federation , told AFP last week that the makers of the game "have lost touch with what it means to be human and care for others." Read full article Comments ]]>
+
+### The secret to protecting next-gen spacecraft might be eggshells
+Tue, 08 Sep 2026 16:20:58 +0000 — https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/
+
+In 2007, a piece of space debris punched a bullet-like hole through the radiator panel of the US space shuttle Endeavor . The shuttle program ended in 2011, but the space debris problem has only intensified as we launch more and more satellite constellations, telescopes, and spacecraft into orbit. That's why Chinese scientists have devised a new aluminum material inspired by eggshells that they believe could offer enhanced protection against debris fragments, according to a new paper published in the Journal of Applied Physics. Eggshells have long fascinated scientists because of their mechanical properties . For instance, it's well known that cracking an egg requires applying just enough force to the center to achieve a clean break without completely shattering the shell. In 2012, MIT mechanical engineer Pedro Reis co-authored a paper demonstrating the link between an egg's ovoid geometry and its rigidity, a major factor when predicting how much force an object can endure before cracking. (As I wrote for Slate at the time, rigidity is related to, but distinct from, strength. If one eggshell has tiny cracks and the other doesn't, both shells have different strengths—the cracked one will break more easily—but the same rigidity.) Reis started studying eggshells after participating in a popular physics demonstration: walking on cartons of eggs without breaking them. The key, he learned, was to align the eggs with their narrow tip (the most crack-resistant part) pointing up, and 
+
+### The combat demo for Free Stars: Children of Infinity is out, and it's free
+Tue, 08 Sep 2026 16:05:32 +0000 — https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/
+
+After five years in development, Free Stars: Children of Infinity —the official sequel to The Ur-Quan Masters by the old game's original creators—has released a free public demo. It's a "combat demo" in the style of UQM ’s melee mode, where players can assemble a fleet from the game's roster of nearly 40 ships, then match those ships up in head-to-head arcade SpaceWar -style action. The demo can be found on Steam and GOG , and it's available for Windows, Mac, and Linux. (Console versions are coming, but they're not yet out.) Pew pew! Credit: Pistol Shrimp Games I have to present this news with a big disclaimer, though, because I've been part of the Children of Infinity writing team since 2021, working as a volunteer with the Pistol Shrimp Games crew and contributing NPC dialogue and some story bits. As a huge fan of the original games, it's been a dream opportunity. (Because I've been volunteering my time, I'm not financially involved and receive no compensation if you download the demo or, when it's eventually released, buy the full game.) What's in the demo Children of Infinity is a space adventure RPG, just like The Ur-Quan Masters (and its direct spiritual predecessors, Starflight and Starflight 2 ). What's been released today is just one part of the game—the arcade-style "melee" portion, which lets players jump into one-versus-one combat against another player or against a computer-controlled opponent. Each of the ships you can pick has its own maneuvering characteristic
 
 ### EV batteries last longer than drivers feared
 Tue, 08 Sep 2026 13:56:38 +0000 — https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/
 
-Electric vehicle batteries are lasting longer than previously feared by drivers, with most used EVs able to retain about 90 percent of their original usable battery capacity after 150,000 kilometers, a new study has shown. Despite a surge in global EV sales on the back of rising fuel prices, long-term battery durability continues to be one of the key concerns for drivers when they consider switching from a petrol model to an electric car. EV battery warranties typically cover eight years or 100,000 miles (160,000km) with car manufacturers required under the warranty to provide a replacement battery if capacity falls below 70 per cent. Read full article Comments ]]>
+Electric vehicle batteries are lasting longer than previously feared by drivers, with most used EVs able to retain about 90 percent of their original usable battery capacity after 150,000 kilometers, a new study has shown. Despite a surge in global EV sales on the back of rising fuel prices, long-term battery durability continues to be one of the key concerns for drivers when they consider switching from a petrol model to an electric car. EV battery warranties typically cover eight years or 100,000 miles (160,000 km) with car manufacturers required under the warranty to provide a replacement battery if capacity falls below 70 percent. Read full article Comments ]]>
 
 ### With another huge infusion of cash, Stoke Space goes even bigger
 Tue, 08 Sep 2026 12:29:18 +0000 — https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/
@@ -18,6 +38,36 @@ Mon, 07 Sep 2026 11:00:03 +0000 — https://arstechnica.com/features/2026/09/the
 In early June, a fire broke out in a still-unfinished building at the Lake Mariner data center in Somerset, New York, exposing just how little the local fire department knew about what it was walking into. Firefighters reportedly found no working alarm, no suppression system, and three dead hydrants; the safety documents they’re legally entitled to see reportedly burned up in the blaze. Steve Matisz, chief of the Barker Fire Department, said his crew went into the building “kind of blind,” facing heavy black smoke from chemicals they couldn’t identify because the safety sheets meant to inform them had apparently burned up. “It’s been a difficult situation,” Matisz said. He wasn't sure what to think about the claim that the safety sheets had burned in the fire. The site is a former coal mine on Lake Ontario. The $3.2 billion campus is one of the largest AI data center buildouts in New York, and it has many stakeholders. A company called TeraWulf owns and operates the data center on land it leases from a company owned by its own CEO; Fluidstack, a UK-based AI company, will run the center; Google holds warrants for a future 14 percent equity stake and has agreed to guarantee Fluidstack’s lease payments; and Anthropic is among the AI companies whose compute demand the facility exists to serve. Read full article Comments ]]>
 
 ## The Verge
+
+### A new class action lawsuit questions whether Anthropic broke the law by misleading power users
+2026-09-08T13:27:31-04:00 — https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans
+
+Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an expanded class action lawsuit filed today, a group of Claude subscribers say the company deceptively advertised the limits of its Max subscription tier. The lawsuit was brought by attorneys Monica Vaca and Kati Daffan, who both formerly worked at the Federal Trade Commission under Lina Khan. It's a rare attempt to legally penalize AI companies fo … Read the full story at The Verge. ]]>
+
+### Nintendo isn’t scared of GTA VI
+2026-09-08T13:13:51-04:00 — https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6
+
+There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI . Everyone, that is, except for Nintendo. The company held a 30-minute showcase this morning focused entirely on its Legend of Zelda franchise , which is celebrating its 40th anniversary. We got a title for the live-action movie , a series of orchestral concerts , and a very glittery special edition of the Switch 2 . But most of the runtime was dedicated to the upcoming Switch 2 remake of Ocarina of Time . There was a new trailer and a lengthy gamepla … Read the full story at The Verge. ]]>
+
+### Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick
+2026-09-08T12:06:56-04:00 — https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control
+
+The Tesla Cybercab is notable for what it lacks , namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was officially launched in Austin, Texas , some riders have discovered the Cybercab's secret manual controls that appears to be intended only for Tesla employees. In at least two videos posted on X, Cybercab riders are encountering a virtual joystick that appears intended to control the vehicle's movements. A square-shaped screen appears in the lower left corner of the central display, with a toggle in the middle for manual driving. I … Read the full story at The Verge. ]]>
+
+### The White House pulls its racist Tetris clone
+2026-09-08T12:00:51-04:00 — https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone
+
+“Build the Wall” was pulled days after the White House launched its “arcade.” | Screenshot: The Verge The White House has taken down its racist Tetris ripoff days after launching a website dedicated to "arcade" games, as spotted earlier by Kotaku . The Tetris clone, called "Build the Wall," involved stacking different-sized blocks to prevent a "zombie border siege." It's not clear why the White House removed the title, though the Tetris Company previously said that it's looking into the situation. "For more than 40 years, Tetris has brought people together across generations and cultures through play and joy," Tetris spokesperson Kerri Brusca told The Verge last week . "The objective of the game has always been to stack with purpose to clear … Read the full story at The Verge. ]]>
+
+### Pusheen’s first game is coming to Apple Arcade
+2026-09-08T11:07:13-04:00 — https://www.theverge.com/games/991398/pusheen-apple-arcade-game
+
+Pusheen is getting her first game, and it will appear exclusively on Apple Arcade . Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of the cartoon cat. In the mix of minigames, you'll "sort color cakes in Snack Stack," "pop cute Pusheen fruit bubbles in Parfait Pop," "make delicious matches and blast blockers in Batch Match," and solve puzzles, according to the game's description on the App Store . The game's developers will also continue to add "more Pusheens, decor themes, games and features" over time … Read the full story at The Verge. ]]>
+
+### JBL’s soundbar with detachable rear speakers is over $300 off
+2026-09-08T11:03:07-04:00 — https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale
+
+A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular speakers that charge when docked to the soundbar. When detached, the battery-powered (and mountable) speakers can be placed anywhere, lasting for up to ten hours before needing to recharge. If you’re seeking this kind of versatility, you might be pleased to know that the system has been steeply discounted at Amazon , costing $549.99 (originally $899.99). JBL Bar 700 Mark 2 Where to Buy: $900 $550 at Amazon The Bar 700 Mark 2 seems impressive on multiple fronts. The main soundbar component offers 7.1 channels, including two tweeters that fire to the side to bounce around audio with Dolby Atmos and DTS Virtual:X content. It offers vastly superior connectivity compared to some similarly-priced options, with HDMI in (with HDR 10 Plus and Dolby Vision passthrough), HDMI out with ARC and eARC support, plus optical audio. The set includes a wireless subwoofer, plus mounts. One of the most appealing use cases for the Bar 700 Mark 2 is bringing one of its satellites with you around your house or apartment so you don’t totally miss out on the action. If the speaker’s battery is running low before you’re ready to return it to the soundbar, you can easily recharge it just by plugging in a USB-C power source. window.HYPE_DESK_CONFIG =
 
 ### Nintendo’s Ocarina of Time remake launches in November
 2026-09-08T10:26:02-04:00 — https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer
@@ -32,44 +82,19 @@ Form meets function? | Image: Peak Design Oh, this thing? It's just a crossbody 
 ### SteelSeries’ pro-grade, wireless Xbox controller sure is expensive
 2026-09-08T10:00:00-04:00 — https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features
 
-SteelSeries moved the system-level Xbox buttons to the bottom of the controller. | Image: Cameron Faulkner / The Verge SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's kicking down the door with the $259.99 Aeon Pro wireless controller for Xbox and PC, which starts shipping today. What does one of the most expensive controllers out there do that others don't? A few things. The one you'll likely notice first is its tiny OLED screen that can guide you through swapping between Xbox, PC, or Bluetooth. It lets you adjust most settings on the controller, including genre-based presets. You can remap the controls and … Read the full story at The Verge. ]]>
+SteelSeries moved the system-level Xbox buttons to the bottom of the controller. | Image: Cameron Faulkner / The Verge SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's kicking down the door with the $259.99 Aeon Pro wireless controller for Xbox and PC, which is now available. What does one of the most expensive controllers out there do that others don't? A few things. The one you'll likely notice first is its tiny OLED screen that can guide you through swapping between Xbox, PC, or Bluetooth. It lets you adjust most settings on the controller, including genre-based presets. You can remap the controls and adjust … Read the full story at The Verge. ]]>
 
 ### Microsoft breaks another patch Tuesday record
 2026-09-08T10:00:00-04:00 — https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad
 
 Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discovering software vulnerabilities at a rapid pace. Sources tell me that Microsoft will set another patch Tuesday record today, the third in just a few months. It all kicked off in April when Anthropic's new Mythos model found security vulnerabilities in "every major operating system and web browser." A few weeks later, OpenAI released its own cybersecurity-focused model to trusted partners … Read the full story at The Verge. ]]>
 
-### Google’s Atlas of the human genome could pave the way for new treatments
-2026-09-08T10:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas
-
-Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a "predictive map of every possible DNA letter change in the human genome," the researchers said in a blog post published on Tuesday. DNA is written in an alphabet of four chemical "letters" - usually shortened to A, C, G, and T - and the human genome contains roughly three billion letter pairs. Those letters contain the instructions … Read the full story at The Verge. ]]>
-
-### The Legend of Zelda 40th Anniversary Direct: All the news and trailers
-2026-09-08T09:50:00-04:00 — https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct
-
-The Legend of Zelda franchise turns 40 this year, and Nintendo has some news in store. The company is airing a Zelda -themed Direct on September 8th at 10AM ET ( it s actually the first of two news-filled events ), which is expected to last around 30 minutes and, according to Nintendo, will include a variety of information related to The Legend of Zelda . That s a pretty vague description, but the event will almost certainly include more details on the upcoming Ocarina of Time remake for the Switch 2, which currently doesn t have a release date, as well as the live-action Zelda movie that hits theaters in 2027. But given the length of the event, there will likely be some surprises as well. Hey, maybe we ll see a tease for the next mainline Zelda adventure. You can follow along with all of the news right here, as well as watch the event as it unfolds in the embed below. The next Legend of Zelda Lego set features Link and Epona. Nintendo is launching a Zelda-themed Switch 2. Nintendo’s Ocarina of Time remake launches in November Link can jump now! “The title is… ‘The Legend of Zelda.’” Hey! Listen! Nintendo s next two Direct events are both happening next week ]]>
-
-### Intel CPUs are reportedly getting a 10 percent price hike in October
-2026-09-08T09:41:54-04:00 — https://www.theverge.com/tech/991285/intel-cpu-price-increase-october
-
-Intel's PC CPUs may get more expensive in a few weeks, with Digitimes reporting that Intel has a 10 percent price hike planned, following similar increases earlier this year. According to Digitimes , the price hike is part of a shift for Intel toward increasing profitability for its PC CPU business, rather than keeping prices low to try to expand its market share. Digitimes also says Intel may be planning to cut another 5 to 10 percent of its staff, although it may also bring in new hires at the same time. Additionally, the report claims Intel could soon put its Small Core line in end-of-life, but this would mainly impact industrial PCs and … Read the full story at The Verge. ]]>
-
-### Adobe is trying to make its AI generators idiot-proof in Premiere
-2026-09-08T09:00:00-04:00 — https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere
-
-Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking your workflow. Instead of jumping between browsers or external apps to find missing B-roll or audio elements, editors can now highlight an empty gap on the video or audio track and generate context-aware, fully editable clips without leaving the project. Editors can choose from multip … Read the full story at The Verge. ]]>
-
-### Apple says ‘Fold’ and competitors ask ‘how wide?’
-2026-09-08T08:00:00-04:00 — https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus
-
-New Apple CEO John Ternus’ first hardware launch has already proved the company’s industry influence. | Image: The Verge / Getty Images Apple is almost certain to launch its first foldable iPhone tomorrow, seven years after Samsung's Galaxy Fold initially went on sale. And while Apple might be a few years late to the party, the run-up to this launch proves that new CEO John Ternus has inherited a company that's as influential as it's ever been. Tomorrow's iPhone event is likely to be a little different than what we're used to. For one, the arrival of some iPhone 18 models will likely be delayed - the Pros will be available first, but the regular 18 is supposedly set to launch early next year instead . But leaks and rumors have consistently suggested that Apple will instead p … Read the full story at The Verge. ]]>
-
-### LG TVs caught spying even when offline or on standby
-2026-09-08T07:30:05-04:00 — https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus
-
-The LG G5 OLED is one of the TVs tested by Gamers Nexus. | Photo by John Higgins / The Verge LG smart TVs are almost constantly logging and uploading data about owners and their homes, even when offline or on standby mode, according to a new report from YouTube channel Gamers Nexus. The company's TV sets scan Wi-Fi networks for nearby devices, record audio logs through their microphones, and use audio and video sampling to recognize exactly what you're watching from across the TV inputs. Gamers Nexus partnered with fellow YouTubers Level1Techs and independent security researchers for the investigation, which involved testing retail LG OLEDs. Packet captures showed the TVs scanning the local area network for nearby hardware like pho … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### TSMC to start using High-NA EUV lithography in 2030 — A10 or A11 technology prime candidates for use
+Tue, 08 Sep 2026 15:00:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/tsmc-to-start-using-high-na-euv-lithography-in-2030-a10-or-a11-technology-prime-candidates-for-use
+
+For years, TSMC has tried to avoid making public comments about its plans to use EUV lithography with a 0.55 numerical aperture optics, or High-NA EUV, because the company's developers had a good idea how to keep advancing process technologies without using $400 million scanners. However, TSMC cannot rely on Low-NA EUV systems forever, so this week the company announced plans to use High-NA EUV starting from 2030. Go deeper with TH Premium: Chipmaking (Image credit: tsmc) Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks Leading-edge foundry roadmaps for TSMC, Intel, and Samsung ASML's roadmap for chipmaking lithography tools examined Chinese chipmaking tool roadmaps examined TSMC did not formally reveal which fabrication technology will be the first to adopt High-NA EUV, though the year 2030 points to a few candidates. What TSMC did say is that it expects the number of layers processed using High-NA EUV to eventually increase as its fabrication technologies become more complex, driven by increasing complexity of transistor architectures, which is probably an implication for more sophisticated implementations of gate-all-around (GAA) transistors as well as complementary field-effect transistors (CFETs) later on. TSMC plans to start using High-NA EUV lithography tools for high-volume manufacturing in 2030 using conventional 6×6-inch photomasks. The company then plans to build a pilot line that uses 6×12-inch photomasks in 2031 w
 
 ### Intel reportedly set to hike CPU prices by 10% ahead of 'major annual product' launch in March 2027 — report says AMD will follow up between June and July
 Tue, 08 Sep 2026 14:18:42 +0000 — https://www.tomshardware.com/pc-components/cpus/intel-reportedly-set-to-hike-cpu-prices-by-10-percent-ahead-of-major-annual-product-launch-in-march-2027-report-says-amd-will-follow-up-between-june-and-july
@@ -126,12 +151,17 @@ Tue, 08 Sep 2026 11:00:24 +0000 — https://www.tomshardware.com/pc-components/d
 
 We're seeing 32GB DDR5 RAM prices regularly push above $400 now. That's just where the market is, and as unfair as it might seem, the world is still turning, and people still need memory for their PC upgrades. Luckily, this TeamGroup T-Force Delta RAM deal drops the price to $389.99 at Newegg , as long as you use the coupon code LUYRF228 at checkout. ● Check out this deal on Newegg Deals like this continue to be the best way to pick up new RAM as the ongoing global DRAM shortage, caused by the AI boom, rolls on. We're not going to see lower prices for RAM or SSDs any time soon. Deals like this aren't ground-breaking, and we're nowhere near record lows, but they're the best prices in a difficult market. Sans a time machine, or going second-hand, you won't find better pricing today than this. As for this particular RAM kit, it's a good option for a mid-tier build. It's DDR5-5200, meaning speeds of 5,200 MT/s. That isn't the fastest RAM on the market, by any means, but it's certainly an upgrade over older DDR4 modules, which would usually see speeds of around 3,600 MT/s at best. use coupon code LUYRF228 for $40 off T-Force Delta RGB 32GB (2 x 16GB) DDR5-5200: was $429.99 now $389.99 This RGB kit from Team Group unlocks 32GB of DDR5 memory for your gaming PC or workstation rig. CAS and memory timings of 40-40-40-76, with speeds of 5,200 MT/s, mean this isn't the fastest memory out there, but it's currently the cheapest 32GB DDR5 kit you can buy. View Deal You're getting two 16GB 
 
-### Thailand asks data center operators to suspend 49 buildouts until legal framework is complete — new legislation is supposed to create 'airtight' requirements for large-scale data centers
-Tue, 08 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/thailand-asks-datacenter-operators-to-suspend-buildouts-until-legal-framework-is-complete-new-legislation-is-supposed-to-create-airtight-requirements-for-large-scale-datacenters
-
-Data center builds are one of the hotly contested items worldwide. Many states and cities have upheld moratoriums on new buildouts due to power usage, water consumption, and noise concerns. Thailand is the latest nation to pump the proverbial brakes , with the government requesting that existing buildouts hit the pause button while coming up with a more precise regulatory framework. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Government heads requested that agencies compile information about current and future data centers during this week, in a bid to create unified legislation. The country currently has few laws specific to data centers, leading to legal voids like zoning a data center as a "warehouse" right next to a hospital. Much like everywhere else, the country has seen growing complaints about data centers' water and power usage. After the week is out on September 11, the government expects to take about a month to come up with a regulatory draft, making the pause technically an indeterminate timeframe — though further delays wouldn't benefit either party, as Thailand considers the industry 
-
 ## Phoronix
+
+### KDE s KWin Merges Wayland Commit-Timing Protocol Support
+Tue, 08 Sep 2026 12:55:36 -0400 — https://www.phoronix.com/news/KDE-KWin-Wayland-Commit-Timing
+
+Merged today to the latest KDE KWin compositor development code is support for Wayland's important commit-timing protocol that is useful for video playback as well as for gamers relying on Adaptive-Sync/FreeSync support...
+
+### The Linux Kernel Planning To Remove Around ~55k Lines Of Old ARM Platform Code
+Tue, 08 Sep 2026 12:06:16 -0400 — https://www.phoronix.com/news/Linux-Dropping-Old-ARM-Ahead
+
+For the current Linux 7.3 kernel many older 32-bit ARM platforms are deprecated and in turn orphaning hundreds of drivers only relevant to those out-of-date ARM platforms. The removal of that now deprecated code is planned for the next kernel cycle or two...
 
 ### CHUWI UniBook With Intel Wildcat Lake For A $449 Linux-Friendly Laptop
 Tue, 08 Sep 2026 10:05:00 -0400 — https://www.phoronix.com/review/chuwi-unibook-wildcat-lake
@@ -183,17 +213,27 @@ Mon, 07 Sep 2026 09:36:20 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-a
 
 As an interesting development for Ubuntu 26.10, the daily ISOs of the "Stonking Stingray" now include amd64v3 images...
 
-### Linux Preps For New AMD Zen 6 BTB CTX Isolation Security Feature
-Mon, 07 Sep 2026 07:55:33 -0400 — https://www.phoronix.com/news/Linux-Preps-AMD-BTB-CTX
-
-A recently posted Linux kernel patch has revealed a new security improvement with Zen 6 processors...
-
-### Nouveau Preparations For HDMI 2.1 DSC, AMD HDMI FreeSync Fixes For Linux 7.4
-Mon, 07 Sep 2026 06:48:48 -0400 — https://www.phoronix.com/news/Linux-7.4-DRM-Misc-Next-1
-
-Last week's set of DRM-Misc-Next changes submitted to DRM-Next with targeting the upcoming Linux 7.4 kernel cycle features HDMI 2.1 related work for both the AMDGPU kernel driver as well as the Nouveau open-source NVIDIA driver...
-
 ## The Register
+
+### Floating nuclear startup Bluecore lands $50M funding before setting sail
+Tue, 08 Sep 2026 18:30:00 +0200 — https://www.theregister.com/systems/2026/09/08/floating-nuclear-startup-bluecore-lands-50m-funding-before-setting-sail/5295032
+
+Startup Bluecore Energy has raised $50 million in seed funding to develop floating nuclear power plants intended to supply ports and other locations with rapidly growing energy demands. The California-based company said the Silverton Partners-led round, which includes $10 million in previously announced pre-seed funding, brought in several new investors. It plans to use the money to engineer and test its compact nuclear power system and pursue regulatory approval and maritime classification. Its initial design is intended to generate about 10 MWe – megawatts of electrical output – continuously using light-water reactor technology. Bluecore says the maritime system would be able to operate for years at a time and require refueling only once every few years. The company has secured its first barge and is developing a non-fueled, electrically heated reactor module prototype at its Port of Long Beach headquarters to test monitoring, sensor, and control systems. Bluecore is targeting ports, AI datacenters, and coastal infrastructure, with the reactors potentially deployed offshore and connected to customers by subsea cables. Remote islands and coastal settlements in places such as Alaska may also lack practical connections to a wider electricity grid. Bluecore claims its approach could provide reliable, zero-emission power to energy-intensive locations and open additional markets for nuclear generation. "Six months ago, we were building the foundation. Today, we have the capital, 
+
+### Boston Scientific left nursing its bottom line after cyberattack
+Tue, 08 Sep 2026 17:45:00 +0200 — https://www.theregister.com/security/2026/09/08/boston-scientific-left-nursing-its-bottom-line-after-cyberattack/5295026
+
+Boston Scientific says that last month's cyberattack caused enough disruption that it is unlikely to meet its sales growth and adjusted earnings guidance for either the third quarter or the full year. The medical device giant disclosed the expected financial hit in an SEC filing published Tuesday, two weeks after an intrusion knocked systems offline and disrupted operations worldwide. Boston Scientific detected unauthorized activity on its network on August 25 and took some systems offline as it scrambled to contain the attack. At the time, it said the resulting outage had affected business applications used to process and ship customer orders, but couldn't say what the incident would ultimately cost it. It now has a better idea, and the news isn't great. In its latest filing, Boston Scientific said the disruption is likely to have a "material impact" on its third-quarter and full-year results, leaving it unlikely to meet the net sales growth and adjusted earnings-per-share guidance ranges issued in July. Boston Scientific expects to recover some of the affected revenue as it clears the backlog, but does not yet know the incident's full financial impact. The company plans to update its operational and financial outlook when it reports third-quarter results on October 28. The recovery is at least moving along. Boston Scientific said it had substantially restored its distribution network, with major distribution centers processing and shipping orders at or above normal levels. 
+
+### ASML and TSMC want bigger masks for smaller chips
+Tue, 08 Sep 2026 17:02:00 +0200 — https://www.theregister.com/systems/2026/09/08/asml-and-tsmc-want-bigger-masks-for-smaller-chips/5294982
+
+ASML and chipmaking giant TSMC have launched an industry-wide push toward 12-inch photomasks, saying the larger format could lower costs and overcome some limitations of high-NA EUV lithography. Dutch firm ASML, the only commercial supplier of EUV lithography systems, says it and TSMC have established a collaboration intended to lead the transition to larger-format photomasks for extreme ultraviolet (EUV) lithography. Intel Foundry and Samsung Electronics have also voiced their support. The initiative aims to establish a 12-inch mask pilot line by 2031 and have the supporting lithography systems ready for advanced node production by 2033. According to ASML, high-NA EUV will initially enter production using current 6-inch masks, but moving to 12-inch masks could increase fab productivity, lower costs, and remove stitching constraints. The push for larger masks stems from the anamorphic optical design ASML adopted for its first generation of high-NA EUV machines so chipmakers could continue using existing 6-inch masks. The "NA" in high-NA EUV stands for numerical aperture – a measure of an optical system's ability to collect and focus light. Achieving a higher NA required larger optics, which increased the angle at which light strikes the reticle, or mask, creating shadowing and contrast problems. ASML says it could have used optics that reduced the mask pattern by 8x in both directions, rather than the 4x used in existing systems, but that would have required larger masks. Ins
+
+### How to secure hybrid meeting rooms without sacrificing user experience
+Tue, 08 Sep 2026 17:00:00 +0200 — https://www.theregister.com/security/2026/09/08/sponsored-how-to-secure-hybrid-meeting-rooms-without-sacrificing-user-experience/5294440
+
+Secure by design videoconferencing products may be vital for customer trust and operational resilience, but if they aren't usable, organizations are on a hiding to nothing. Videoconferencing security is no longer a routine item on the IT checklist. Organizations now rate security as their most important purchase criterion (31 percent) when selecting such products, ahead of price (26 percent) and quality (25 percent), according to IDC. The implication, is that security and privacy are no longer optional. Instead, they are the foundation of effective meeting room solutions, enabling safe and unified collaboration. Yannic Laleeuwe, marketing director for Barco's ClickShare, agrees. Collaboration and videoconferencing solutions have become "mission-critical business systems" in her view, because they process significant volumes of the most sensitive corporate information while sitting on crucial networks and cloud services. "Historical security incidents, combined with the rapid growth of hybrid work since the COVID-19 pandemic, have demonstrated that weaknesses in these platforms can lead to data breaches, operational disruption, regulatory exposure, and loss of customer trust," Laleeuwe explains. "Consequently, security has evolved from a technical consideration to a strategic procurement and governance priority for organizations worldwide." The IDC study indicates that most businesses' biggest security concern is exposure to cyberattackers, which can lead to incidents such as 
 
 ### LG accused of 'egregious invasion of privacy' over TV data collection
 Tue, 08 Sep 2026 16:15:00 +0200 — https://www.theregister.com/security/2026/09/08/lg-accused-of-egregious-invasion-of-privacy-over-tv-data-collection/5294956
@@ -235,27 +275,57 @@ Tue, 08 Sep 2026 11:00:00 +0200 — https://www.theregister.com/public-sector/20
 
 The UK government has corralled £7.8 billion of cross-departmental spending into a new space strategy intended to boost growth and national security through to 2030. The package covers orbital collision warnings, low Earth orbit communications, military intelligence, launch capabilities, and space science. The strategy brings together activity across government, including the newly created Department for Business, Innovation, Science and Trade (BIST), the Ministry of Defence (MoD), the Department for Transport, UK Research and Innovation, and the Met Office. The government says the domestic space sector is worth £18.6 billion and supports more than 55,000 skilled jobs. In a prepared statement, BIST Secretary Jonathan Reynolds said space was becoming a new frontier of economic and military competition. "This plan will help keep Britain secure by strengthening our ability to launch satellites, detect threats and protect the services people rely on every day. At the same time, this plan will enable our excellent UK industry to seize the boundless opportunities of this new age in space, creating skilled jobs, driving growth and improving connectivity for all of us." The plans include work to strengthen space domain awareness – tracking and analyzing satellites, rockets, and debris in orbit – backed by £149 million for European Space Agency (ESA) space safety work, including the Vigil mission, and £85 million for the National Space Operations Centre. The funding is intended to imp
 
-### Arm pushes agentic AI and desktop-quality graphics in next-gen phone platform
-Tue, 08 Sep 2026 10:35:00 +0200 — https://www.theregister.com/systems/2026/09/08/arm-pushes-agentic-ai-and-desktop-quality-graphics-in-next-gen-phone-platform/5294867
-
-Arm's latest smartphone platform is optimized for running AI agents on mobile devices and introduces neural graphics that it claims can deliver desktop-class gaming within a smartphone's power constraints. Announced at the Arm Everywhere China event in Shanghai today, Compute Subsystem (CSS) for Mobile 2 succeeds last year's Lumex CSS and reflects Arm's embrace of AI as a strategy for future growth. Arm sees itself as central to this shift, arguing that AI workloads currently run largely in the cloud but will increasingly move to devices at the network edge. "When every interaction has to travel to a datacenter and back, there's implications for latency, connectivity, the cost of delivering those services at enormous scale, so this is where we're seeing it becoming more distributed, and I think few doubt now that basically everything you can push to the edge you will," says Arm's EVP of Edge AI, Chris Bergey. AI has evolved from background capabilities such as speech recognition and image processing into tools people actively engage with, including generative assistants, Bergey claims. Agentic AI goes further by interpreting objectives, coordinating applications and models, and executing sequences of actions. "So you have repeated inference, application logic, system orchestration, multiple workloads operating concurrently, and so that means you don't just need more CPU performance. You need multiple high-performance CPUs working in parallel to keep all those different worklo
-
-### HPE makes its “unified storage” claim real as B10000 R6 hits GA
-Tue, 08 Sep 2026 10:00:00 +0200 — https://www.theregister.com/storage/2026/09/08/partner-content-hpe-makes-its-unified-storage-claim-real-as-b10000-r6-hits-ga/5294566
-
-Storage vendors have been calling things “unified” for years. Sometimes that means one architecture. Sometimes it means several products sharing a management screen and a marketing budget. The term has accumulated enough baggage that a little skepticism is warranted. HPE Alletra Storage MP B10000 Release 6, announced in May, is now generally available. It brings block and file onto the same disaggregated scale-out architecture and OS code base, with independent scaling of performance and capacity and native ransomware detection across both. That’s important because enterprise storage is becoming less of an array decision and more of an architectural one. HPE was recently named a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise Storage Platforms, which provides useful context, but a quadrant is still a snapshot. GA code is where the architecture has to prove itself. Unified, but not universal The B10000 is not intended to become the answer for every file workload in the data center. Massive-scale, performance-oriented unstructured workloads such as AI, analytics, EDA and media remain better suited to HPE Alletra Storage MP X10000. The aim with the B10000 is narrower and, arguably, more useful: consolidating block and adjacent file workloads onto a common architecture without forcing customers to scale controllers and capacity together. That distinction matters. Vendors have offered “unified” storage before, but the harder question is what is actually shared underneat
-
-### ‘Global reckoning’ is coming for big tech, says Australian minister
-Tue, 08 Sep 2026 07:51:35 +0200 — https://www.theregister.com/legal/2026/09/08/global-reckoning-is-coming-for-big-tech-says-australian-minister/5294909
-
-Australia’s government will introduce legislation that tries to regulate digital services and impose a “digital duty of care.” “For too long, tech companies have been running real-time, unregulated product testing on Australians,” Minister for Communications Anika Wells said today. “In the same way that we have safety standards for cars, for food, and for appliances, Australia is getting basic safety standards for the online tools and online services,” she added. “Tech companies will still be allowed to move fast, but they will not be able to break things.” Meta, in its early years when still known as Facebook, used the term “Move fast and break things” to describe its internal processes for creating and updating its services. The premise of Australia’s plans is that Meta, and other digital platforms, broke far more than they intended in pursuit of profit. Prime Minister Anthony Albanese framed the planned digital duty of care as a successor to the law that means social media companies are not allowed to provide accounts to children aged under 16. “We would no longer let Australian children be treated as commodities,” he said. “We have the opportunity to shape tech for the better, rather than have it shape us.” The proposed law aims to shape tech by requiring social media companies to give Australian users the chance to determine what they see in their feeds. Some in Australia have criticized the planned law as government censorship. Albanese tried to counter that notion by s
-
-### Huawei proudly shows off an entirely un-American chip
-Tue, 08 Sep 2026 04:22:05 +0200 — https://www.theregister.com/systems/2026/09/08/huawei-proudly-shows-off-an-entirely-un-american-chip/5294900
-
-Huawei has launched a new processor it claims is free of US technology and is using it to drive a new three-screen folding phone. The Chinese giant dubbed the new processor the Kirin 9o50 Pro and says its LinxiCore processor cores, GPU, and neural processing unit all feature its own designs. The SoC into which Huawei added them uses the "Tau Scaling” architecture that Huawei says arranges components closer to each other to reduce die size and improve performance without needing the kind of advanced chipmaking processes practiced by TSMC and Intel. As The Register wrote when Huawei announced Tau Scaling last May, analysts think Huawei has done interesting things with its silicon but don’t think the company has made any breakthroughs. Huawei begs to differ and says its new silicon offers 42 percent higher performance than the chip it used in the three-screen phone it delivered last year. The Chinese company uses the Kirin 9050 Pro in its new three-screen phone, the $2,979 Mate XT2. Analyst firm Counterpoint thinks Huawei will exit 2026 with 24 percent of the total folding phone market, which it believes accounted for 1.6 percent of smartphone sales last year. Huawei therefore has itself a chip that targets the high end of a market niche – and announced it a couple of days before pundits believe Apple will debut a folding iPhone that Counterpoint predicts will win 25 percent of the folding phone market by the end of the year. Huawei’s Kirin 9050 Pro will therefore hardly make a 
-
 ## Engadget
+
+### Dbrand already has iPhone Ultra cases, spoiling Apple's surprise
+Tue, 08 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2252927/dbrand-already-has-iphone-ultra-cases-spoiling-apples-surprise/
+
+Dbrand is getting the jump on the worst-kept secret in the smartphone world.
+
+### Threads is overhauling its in-app analytics with more details, except for link clicks
+Tue, 08 Sep 2026 17:00:00 +0000 — https://www.engadget.com/2251592/threads-is-overhauling-its-in-app-analytics-with-more-details-except-for-link-clicks/
+
+The insights section of the Threads app now surfaces AI summaries and contextual info about post performance.
+
+### What is the purpose of LiDAR on your iPhone and how do you use it?
+Tue, 08 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2250700/iphone-lidar-sensor-purpose-how-to-use/
+
+Some iPhone models are equipped with a LiDAR sensor, which helps the camera better interpret information about what's around you.
+
+### How to watch this week's second Nintendo Direct
+Tue, 08 Sep 2026 16:18:52 +0000 — https://www.engadget.com/2252818/how-to-watch-this-weeks-second-nintendo-direct/
+
+After shining the spotlight on The Legend of Zelda, Nintendo will focus on other games in its second Direct for around 45 minutes.
+
+### What are the actual differences between cheap and expensive smart TVs?
+Tue, 08 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2250637/cheap-vs-expensive-smart-tv-difference-between-explained/
+
+Nearly any TV is suitable for 4K content, but spending more gets you a better viewing experience and several other advantages.
+
+### Chrome will now release updates every two weeks to better tackle security threats
+Tue, 08 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2252455/google-chrome-updates-every-two-weeks-to-better-tackle-security-threats/
+
+Chrome will start releasing new versions of its stable browser more frequently.
+
+### Apple Watch GPS vs GPS + Cellular: What's the difference?
+Tue, 08 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2250612/apple-watch-vs-gps-plus-cellular-difference-between/
+
+Some Apple Watch models give you the ability to stay connected even when you're away from your phone. But is it worth the cost?
+
+### Nintendo is releasing a 40th anniversary Legend of Zelda Switch 2 on October 29
+Tue, 08 Sep 2026 15:10:03 +0000 — https://www.engadget.com/2252681/nintendo-is-releasing-a-40th-anniversary-legend-of-zelda-switch-2-on-october-29/
+
+No, the Zelda anniversary edition Switch 2 doesn't come with a copy of Ocarina of Time.
+
+### What is a dual-band router and why is it important for good Wi-Fi?
+Tue, 08 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2249494/what-is-dual-band-router-why-important-good-wifi/
+
+Modern routers have two or more bands, but what's the purpose of a dual-band router? Here's what it does and why it matters.
+
+### Why is Apple CarPlay draining your phone battery?
+Tue, 08 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2250520/why-apple-carplay-draining-iphone-battery/
+
+Apple CarPlay requires a lot of battery to power navigation, music and other apps on your car's display, but you can take a few mitigation steps.
 
 ### The Switch 2 remake of The Legend of Zelda: Ocarina of Time arrives November 5
 Tue, 08 Sep 2026 14:33:16 +0000 — https://www.engadget.com/2252620/switch-2-remake-of-legend-of-zelda-ocarina-of-time-arrives-november-5/
@@ -267,62 +337,37 @@ Tue, 08 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2250446/steam-deck-
 
 The Switch 2 is newer and more affordable than the Steam Deck, but Valve's console still has serious power to draw on.
 
-### How to let Claude send emails for you
-Tue, 08 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2249396/how-to-let-claude-send-emails/
-
-If you're interested in trying out Claude's Gmail capabilities but are worried it will make mistakes, just tell it to ask for approval before doing anything.
-
-### What is considered good speed for home internet and how can you test it?
-Tue, 08 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2250412/what-is-good-speed-home-internet-how-to-test/
-
-The speed of your downloads, uploads and ping are affected by several variables. Let's measure your internet speed and see if we can improve it.
-
-### Lenovo ThinkPad X1 Carbon Gen 14 review: A classic design in a lighter package
-Tue, 08 Sep 2026 13:45:00 +0000 — https://www.engadget.com/2252512/lenovo-thinkpad-x1-carbon-gen-14-review/
-
-The ThinkPad X1 Carbon Gen 14 combines classic style with an incredibly light 2.2-pound case.
-
-### The CarPlay settings you may want to change after setting it up
-Tue, 08 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2250328/carplay-settings-change-after-set-up/
-
-Apple's CarPlay works great with its default settings, but you can make a few changes personalized to your habits.
-
-### The best things I saw at IFA 2026
-Tue, 08 Sep 2026 13:15:00 +0000 — https://www.engadget.com/2252471/best-of-ifa-2026/
-
-The concept PCs, cameras, chargers and more than caught our attention in Berlin.
-
-### How to right-click on a MacBook
-Tue, 08 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2250293/how-to-right-click-macbook/
-
-Right-clicking, or secondary clicking, has many uses, but it's not always obvious how to do it on a MacBook.
-
-### US regulator approves $1.9 billion loan to spin up Iowa's dead nuclear reactor for Google
-Tue, 08 Sep 2026 12:58:06 +0000 — https://www.engadget.com/2252521/us-regulator-approves-1-9-billion-loan-to-spin-up-iowas-dead-nuclear-reactor-for-google/
-
-Google is a step closer to getting access to nuclear power for its AI data centers.
-
-### How to update your GPU drivers in Windows 11
-Tue, 08 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2250108/how-to-update-gpu-drivers-windows-11/
-
-New game releases often require driver updates to yield the best performance on your Windows PC. But knowing where to get them can often be confusing.
-
-### What is the Anker 'smart display charger' and what does that screen even do?
-Tue, 08 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2250106/anker-smart-display-charger-what-does-screen-do/
-
-Anker's new smart display plug-in wall chargers might be small, but they actually do a lot more than just tell you how fast they're charging your devices.
-
-### Samsung and TSMC hope AMSL's new machines will help address the chip shortage
-Tue, 08 Sep 2026 10:58:13 +0000 — https://www.engadget.com/2252462/samsung-tsmc-commit-asml-fab/
-
-ASML, TSMC and Samsung are adopting larger chip photomasks that will boost manufacturing yields and lower costs.
-
 ## TechCrunch
+
+### How to watch Apple s foldable iPhone announcement
+Tue, 08 Sep 2026 17:46:53 +0000 — https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/
+
+Apple's annual iPhone event will stream live on September 9 at 10 AM PDT, and we're expecting big news.
+
+### OpenAI fought dirty on career-making math problem, says NYU mathematician
+Tue, 08 Sep 2026 17:32:15 +0000 — https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/
+
+There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.
+
+### Google Cloud races to catch up in the AI deployment wars with Accenture deal
+Tue, 08 Sep 2026 16:20:31 +0000 — https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/
+
+Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.
+
+### Google’s revived nuclear power plant gets $1.9B loan from US government
+Tue, 08 Sep 2026 15:25:35 +0000 — https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/
+
+Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.
+
+### Chrome is now shipping updates every 2 weeks as AI changes the security landscape
+Tue, 08 Sep 2026 15:04:09 +0000 — https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/
+
+Google is speeding up Chrome’s release schedule to ship security patches and new features faster.
 
 ### Mistral raises €3B as sovereign AI becomes big business
 Tue, 08 Sep 2026 14:17:48 +0000 — https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/
 
-The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.
+The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.
 
 ### A hacker stole $340M in a crypto heist, then returned most of it
 Tue, 08 Sep 2026 14:11:29 +0000 — https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/
@@ -353,29 +398,4 @@ Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his ne
 Mon, 07 Sep 2026 19:24:00 +0000 — https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
 
 The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
-
-### A secret new Elizabeth Holmes documentary stuns Telluride
-Mon, 07 Sep 2026 18:02:29 +0000 — https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/
-
-Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder.
-
-### What we expect from the upcoming Apple launch
-Mon, 07 Sep 2026 15:58:00 +0000 — https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/
-
-While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.
-
-### Phil Schiller’s App Store exit reportedly driven by wariness over future plans
-Sun, 06 Sep 2026 21:41:06 +0000 — https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/
-
-Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.
-
-### Authors push back as publishers and agents make claims on Anthropic settlement
-Sun, 06 Sep 2026 20:47:37 +0000 — https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/
-
-Authors say publishers seem to be claiming more than their fair share of settlement payments.
-
-### Travis Kalanick’s Atoms might be getting into the robotaxi business
-Sun, 06 Sep 2026 16:45:00 +0000 — https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/
-
-The Uber founder has said that Atoms will allow him to complete "unfinished business."
 

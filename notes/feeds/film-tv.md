@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-08T14:46:06.153Z
+# Film & TV — harvested 2026-09-08T17:55:17.092Z
 
 ## Variety
 
-### Godzilla Minus Zero Unveils New Trailer, Cast Members
-Tue, 08 Sep 2026 14:38:12 +0000 — https://variety.com/2026/film/news/godzilla-minus-zero-new-trailer-cast-members-1236854751/
+### Inside Rauw Alejandro’s Three-Act Concert in New York, a Celebration of Music, Culture and Puerto Rican Pride: ‘It Creates an Impact on All Latinos to Embrace Their Culture’
+Tue, 08 Sep 2026 17:40:45 +0000 — https://variety.com/2026/music/news/inside-rauw-alejandro-new-york-concert-puerto-rico-1236854969/
 
-Toho and Gkids have released a new trailer and cast additions for Godzilla Minus Zero, the sequel to Yamazaki Takashi s Oscar-winning Godzilla Minus One. The trailer opens with confirmation that Godzilla was not fully destroyed and offers a first look at a new kaiju extermination operation, alongside a mix of new and returning characters. Nagasawa [ ]
+Amid a political climate that has seen Latino communities targeted by deportations and ICE raids and the polarizing effects of gentrification and poverty in Puerto Rico, Latin music artists such as Rauw Alejandro and Bad Bunny have responded with a renewed sense of cultural pride and advocacy. Both artists released their most personal albums within [ ]
 
-### Dexter: Resurrection’ Season 2 Sets October Premiere Date, Drops Mysterious Teaser
-Tue, 08 Sep 2026 14:35:00 +0000 — https://variety.com/2026/tv/news/dexter-resurrection-season-2-release-date-1236851973/
+### Broadcast Networks Fire Up San Sebastián
+Tue, 08 Sep 2026 17:35:00 +0000 — https://variety.com/2026/film/global/atresmedia-cine-el-mal-padre-blind-ants-san-sebastian-1236847487/
 
-“Dexter: Resurrection” is making its bloody return on Friday, Oct. 30. Paramount+ released a 40-second teaser showing Dexter in between getting an eye exam and sharpening weapons: “He’s back and sharper than ever.” Per the official longline for Season 2, Dexter is “caught between two killers – one notorious and the other terrorizing New York [ ]
+Atresmedia Cine heads to San Sebastián with four films across key festival sections: “El mal padre” in the main competition, “La Bola Negra” in Perlak (Atresmedia Cine has acquired free-to-air rights to the buzzy drama), “Karateka” at the Velodrome and “Blind Ants” (“Inurri Itsuak”), which opens Zinemira. Atresmedia Group will also present the series “Sira” [ ]
 
-### Heat 2 : Stephen Graham Confirmed for Michael Mann s Sequel (EXCLUSIVE)
-Tue, 08 Sep 2026 14:30:00 +0000 — https://variety.com/2026/film/global/heat-2-stephen-graham-confirmed-michael-manns-sequel-1236852165/
+### Mo Nique Signs With Innovative
+Tue, 08 Sep 2026 17:30:00 +0000 — https://variety.com/2026/tv/news/monique-agency-innovative-1236854862/
 
-Stephen Graham has officially joined the cast of Michael Mann s long-awaited sequel Heat 2, Variety can confirm. If other reported deals close, the Emmy-winning Adolescence star and British acting icon would join the Amazon MGM Studios feature alongside Leonardo DiCaprio, Christian Bale, Adam Driver, Jason Clarke and Odessa Young. While roles haven t been confirmed, Graham [ ]
+Mo Nique has signed with Innovative Artists Entertainment for representation in all areas, Variety has learned. She continues to be repped by attorney Ricky Anderson and manager Sidney Hicks. Mo Nique first broke out as a stand up comic, including being one of the stars of the stand up film The Queens of Comedy. She earned a [ ]
 
-### Kirk Franklin Signs With Uptown Records (EXCLUSIVE)
-Tue, 08 Sep 2026 14:17:08 +0000 — https://variety.com/2026/music/news/kirk-franklin-signs-with-uptown-records-1236854254/
+### Broadcasters and Streamers Move From Rivals to Partners as Old TV Divide Breaks Down and YouTube Rises Fast Lumiere Summit
+Tue, 08 Sep 2026 17:23:26 +0000 — https://variety.com/2026/tv/news/broadcasters-streamers-partners-tf1-youtube-lumiere-summit-1236854939/
 
-The recently relaunched Uptown Records has entered into a partnership with 20-time Grammy-winning artist-songwriter-producer and gospel music superstar Kirk Franklin, in conjunction with Fo Yo Soul Entertainment and TRIBL Music Group, the companies announced on Monday. (Pictured above, L-R: Brandon Amie, Ron Hill, Natina Nimene, Kirk Franklin, Danielle Price Sanders, Phil Thornton.) To celebrate the [ ]
+For most of the past decade, television’s defining battle was broadcasters versus streamers. Now that divide is breaking down fast, as traditional TV groups who ve seen linear advertising and viewing fall are now keen to collaborate with global streamers to continue financing ambitious content and gain some scale. Few deals illustrate the shift [ ]
 
-### David Jonsson, Olivia Colman and Kunal Nayyar to Lead Voice Cast of Animated Family Movie Bollywoof (EXCLUSIVE)
-Tue, 08 Sep 2026 14:05:00 +0000 — https://variety.com/2026/film/global/david-jonsson-olivia-colman-kunal-nayyar-bollywoof-1236854489/
+### Remain Trailer: Jake Gyllenhaal and Phoebe Dynevor Are a Creepy Couple in M. Night Shyamalan s Latest Twisty Thriller
+Tue, 08 Sep 2026 17:18:16 +0000 — https://variety.com/2026/film/news/remain-trailer-jake-gyllenhaal-m-night-shyamalan-1236854929/
 
-David Jonsson, recently unveiled as Marvel s next Black Panther, is set to lead to voice cast of upcoming animated family feature Bollywoof alongside Oscar winner Olivia Colman and The Big Bang Theory star Kunal Nayyar. The three will be joined by Rhys Ifans ( Notting Hill ), Sanjeev Bhaskar ( Unforgotten ), and Ambika Mod ( One Day ) in the film, from Prime [ ]
+This Valentine’s Day, be prepared to trust the unknown. M. Night Shyamalan’s romantic drama “Remain” released its first trailer, showing Jake Gyllenhaal and Phoebe Dynevor in an unsettling relationship. The trailer opens with a montage of the happiest moments shared by young couple Wren (Dynevor) and Tate (Gyllenhaal), portraying the film as a seemingly lighthearted [ ]
 
-### June Squibb, Linda Hamilton, Caroline Aaron and Jayne Eastwood Team for New Zealand Sports Comedy Hot Curlers
-Tue, 08 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/global/june-squibb-linda-hamilton-sports-comedy-hot-curlers-1236854582/
+### Snoop Dogg Biopic Casts Biggie: D Angelo and Angie Stone s Son SwayvoTwain to Play the Notorious B.I.G. (EXCLUSIVE)
+Tue, 08 Sep 2026 17:15:00 +0000 — https://variety.com/2026/film/news/snoop-dogg-biopic-cast-biggie-swayvotwain-dangelo-angie-stone-1236854228/
 
-Oscar nominee June Squibb ( Eleanor the Great, Thelma ), Linda Hamilton ( Terminator 2: Judgment Day ), Jayne Eastwood ( My Big Fat Greek Wedding ) and Caroline Aaron ( Bookends, 21 Jump Street ) are teaming up for Hot Curlers, a New Zealand sports comedy inspired by a true story. Cornerstone Pictures has come on board to handle worldwide sales on the [ ]
+Universal s Snoop Dogg biopic is amping up its supporting cast with SwayvoTwain (“Family Legacy,” “Love Neo-Soul: Honoring the Legacy of D’Angelo”) set to portray Biggie, Bentley Green (“The Land,” “Undercard”) to play RBX and G Perico (“Kings of L.A.,” “She Ball”) as Big Reecie Cup. Jonathan Daviss stars in “Snoop,” which is described as [ ]
 
-### MS NOW s New Membership Service Lets Users Talk to Rachel Maddow, Morning Joe
-Tue, 08 Sep 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/ms-nows-subscription-launch-interactive-talk-rachel-maddow-1236854600/
+### Queer Edward II Review: A Terrific Doc Portal to the Early 90s that Captures — and Liberates — Derek Jarman s Trailblazing Spirit
+Tue, 08 Sep 2026 17:04:48 +0000 — https://variety.com/2026/film/reviews/queer-edward-ii-review-1236840969/
 
-Most TV viewers know MS NOW as a cable network. What if it were a social one, too? When the Versant Media-backed outlet launches a new subscription-based app this week, it does so with the vow to help new members communicate not only with MS NOW anchors and correspondents, but with each other. The MS [ ]
+Consider, for a moment, the cupboard — maybe in the spirit of irreverence we should term it a closet — in which, for 30-odd years, lay undisturbed the footage that future star cinematographer Seamus McGarvey ( Atonement, Die, My Love ) shot behind the scenes of Derek Jarman s 1991 movie Edward II . Consider then, the opening of [ ]
 
-### Documentary About Formula One World Champion Niki Lauda to Be Directed by James Erskine, WestEnd Films Handling World Sales
-Tue, 08 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/global/niki-lauda-documentary-james-erskine-westend-films-1236854605/
+### South Park Changes Name to South America as Creators Roast Apple and Google for Obeying Trump s Lake America Name Change
+Tue, 08 Sep 2026 17:03:02 +0000 — https://variety.com/2026/tv/news/south-park-south-america-trump-lake-america-1236854908/
 
-WestEnd Films has boarded world sales on James Erskine’s “Lauda,” a feature documentary about three-time Formula One World Champion Niki Lauda. WestEnd will launch sales at the Toronto Film Festival, where it will unveil first footage to buyers. “Lauda,” which is in production, tells the story of his rise to the pinnacle of motorsport and [ ]
+South Park is no more. Long live South America. Ahead of the premiere of the show s 29th Season, creators Trey Parker and Matt Stone have announced they are changing the name of the series. “Inspired by the bravery and patriotism of Apple and Google, we are changing the name of South Park to South America,' [ ]
 
-### Penélope Cruz Says It Would Be ‘Very Contradictory’ to Star in ‘Bunker’ and Refuse to Talk About Politics: It ‘Involves So Many Aspects of Where the World Is Right Now’
-Tue, 08 Sep 2026 13:17:34 +0000 — https://variety.com/2026/film/festivals/penelope-cruz-javier-bardem-speaking-out-politics-venice-1236853899/
+### Star Wars Heads to Imax 70mm for First Time With Starfighter and A New Hope 50th Anniversary Re-Release
+Tue, 08 Sep 2026 17:00:26 +0000 — https://variety.com/2026/film/news/star-wars-imax-70mm-starfighter-new-hope-1236854683/
 
-Penélope Cruz and Javier Bardem have proven that they aren t afraid to speak out about politics, with the power couple being especially vocal about their support of Palestine. It was inevitable that the topic would come up at the Venice Film Festival press conference for their new film Bunker, which also doesn t dance around timely [ ]
+A galaxy far, far away has never looked this good. The original Star Wars: Episode IV A New Hope is getting the coveted Imax 70mm treatment when it re-releases in early 2027 for its 50th anniversary, along with next year s Ryan Gosling-starring Star Wars: Starfighter. The Feb. 19 re-release marks the first time the [ ]
 
-### Watch Brad Pitt Talk to Dogs in New De’Longhi Espresso Maker Ad Campaign (EXCLUSIVE)
-Tue, 08 Sep 2026 13:00:00 +0000 — https://variety.com/2026/biz/columns/brad-pitt-talk-dogs-delonghi-espresso-maker-ad-1236853440/
+### American Film Institute Reveals 2026-2027 Canva Fellowship Recipients
+Tue, 08 Sep 2026 17:00:00 +0000 — https://variety.com/2026/artisans/news/afi-canva-fellowship-recipients-2026-1236852125/
 
-Brad Pitt is in the doghouse. In a new video ad spot for the De’Longhi Magnifica Duo espresso maker, the Oscar winner is roommates with and talks to a pack of 16 dogs. Yes, he talks with the dogs. The pooches’ barks are subtitled. Pitt appears in the ad, which was directed by Spike Jonze, [ ]
+The American Film Institute (AFI) has announced the recipients of the 2026-27 Canva Fellowship at the AFI Conservatory. The six recipients are: Divli Bhat for producing, Elizaveta Kurilova for screenwriting, Lauren Moreno for directing, Zoey Punteney for production design, Colin Pham for cinematography and Auberin Strickland for editing. The fellows began their Master of Fine Arts filmmaking [ ]
 
 ## The Hollywood Reporter
 
-### Scott Rudin Plans Two New Broadway Shows, Including One With Julia Roberts and Paul Rudd
-Tue, 08 Sep 2026 14:19:32 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/scott-rudin-julia-roberts-paul-rudd-broadway-1236691029/
+### Adam Wingard on Losing His Voice in the Studio System and How The Guest 2 Became ‘Onslaught’
+Tue, 08 Sep 2026 17:44:04 +0000 — https://www.hollywoodreporter.com/movies/movie-features/onslaught-adam-wingard-the-guest-2-1236692700/
 
-The producer will return next season with 'Downstate,' about four convicted sex offenders, and a starry, but nearly wordless play, 'Small Mouth Sounds,' with Roberts and Rudd.
+After spending a decade in franchises, Wingard returns with his first final cut movie: "for better or worse, the purity of my vision is on screen."
 
-### Tenzing Review: Tom Hiddleston and Genden Phuntsok Lead Apple s Staid Mount Everest Drama
-Tue, 08 Sep 2026 14:18:52 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/tenzing-review-tom-hiddleston-apple-1236692409/
+### Remain Teaser Trailer: Jake Gyllenhaal, Phoebe Dynevor Star in M. Night Shyamalan and Nicholas Sparks Supernatural Romance
+Tue, 08 Sep 2026 17:35:16 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jake-gyllenhaal-phoebe-dynevor-remain-teaser-trailer-1236694038/
 
-Willem Dafoe co-stars in Jennifer Peedom's feature about the titular Sherpa and New Zealand mountaineer Edmund Hillary, who became the first humans to ascend the Himalayan summit in 1953.
+Shyamalan directs from his own screenplay, with the story a collaboration between Shyamalan and Sparks.
 
-### Tom Jones Claims He s Been Fired From The Voice U.K. Over Financial Difficulty With Insurance
-Tue, 08 Sep 2026 14:18:08 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tom-jones-fired-the-voice-uk-judge-instagram-post-itv-tv-1236693801/
+### Esports Was Supposed to Be Bigger Than the NBA. What Happened?
+Tue, 08 Sep 2026 17:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/what-happened-to-esports-1236665934/
 
-"The only thing I know right now is that there’s never a good time to fire an 86-year-old who’s still pretty good at his job," the beloved singer said.
+Competitions and live tournaments can still draw huge audiences — and pay out millions in prizes — but the crazy valuations and non-stop media hype now seem more like COVID-induced delusion.
 
-### German Police Rush to Prevent an Islamic Terror Attack in Blindspot Berlin (Exclusive Trailer)
-Tue, 08 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/blindspot-berlin-trailer-tiff-2026-beta-film-1236693715/
+### Bunker Review: Penélope Cruz and Javier Bardem Are Riveting as a Married Couple Growing Apart in Needling but Schematic Psychological Drama
+Tue, 08 Sep 2026 17:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/bunker-review-penelope-cruz-javier-bardem-stephen-graham-1236687273/
 
-Albrecht Schuch and Bayan Layla star in the true-crime thriller series, which will have its world premiere at TIFF.
+Stephen Graham and Patrick Schwarzenegger also star in Florian Zeller’s latest, about the ethical and emotional questions raised when an architect considers a lucrative commission from a tech billionaire.
 
-### Javier Bardem Feels a Responsibility to Speak Out on Political Issues: I Have You Guys Listening to Me
-Tue, 08 Sep 2026 13:20:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/javier-bardem-penelope-cruz-bunker-politics-women-venice-1236693767/
+### WAGs on the Rise: The Real Housewives of the NFL Build Content Empires
+Tue, 08 Sep 2026 16:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/wags-rise-real-housewives-of-the-nfl-build-content-empires-1236665923/
 
-Bardem's wife, Penelope Cruz, admitted she worries about the role of women today as the couple joined director Florian Zeller and co-stars Stephen Graham, Paul Dano and Paul Schwarzenegger ahead of the Venice premiere of 'Bunker.'
+Beneath the A-list tier of famous football wives and girlfriends — your Taylor Swifts and Simone Bileses — is a class of social-savvy consorts rivaling their partners’ fame and fortune, and fighting the haters.
 
-### How to Write Chad Powers: Go With Your First, Stupidest Thought
-Tue, 08 Sep 2026 13:09:33 +0000 — https://www.hollywoodreporter.com/tv/tv-features/chad-powers-season-3-preview-michael-waldron-glen-powell-1236685759/
+### Alex Gibney’s Bold Elon Musk Documentary Unsettles Venice at Well-Received World Premiere
+Tue, 08 Sep 2026 16:18:53 +0000 — https://www.hollywoodreporter.com/movies/movie-news/alex-gibney-elon-musk-documentary-venice-premiere-reaction-1236693734/
 
-Michael Waldron and Glen Powell lay out their third-season plan to The Hollywood Reporter.
+The Oscar-winning filmmaker’s nearly four-hour portrait picks apart the tech mogul’s mythology while examining his growing influence over tech, politics and American democracy.
 
-### Inside DAU, the 20-Year Soviet Simulation That Became Cinema s Strangest Ghost Story
-Tue, 08 Sep 2026 13:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/dau-venice-film-festival-ilya-khrzhanovsky-1236686499/
+### Telluride Wrap-Up: Feinberg and Canfield on 2026’s Rocky Mountain Highs and Lows
+Tue, 08 Sep 2026 16:00:23 +0000 — https://www.hollywoodreporter.com/movies/movie-news/feinberg-and-canfield-on-2026-telluride-film-festival-1236693493/
 
-Director Ilya Khrzhanovsky built a sealed Soviet world in Ukraine, populated it with thousands of participants and filmed them for three years. Two decades, 14 films and innumerable scandals later, his original epic is finally coming to Venice — amid a new geopolitical firestorm.
+The Hollywood Reporter’s executive editor (awards) and senior entertainment writer discuss the fest's world premieres, surprise screening, sales titles — and what and whose Oscar prospects shifted the most over Labor Day weekend.
 
-### Carly Rae Jepsen Could’ve Been a One-Hit Wonder or a Mainstream Megastar. Instead, She Became Far More Interesting
-Tue, 08 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/music/music-features/carly-rae-jepsen-day-and-night-interview-1236691389/
+### Practical Magic 2 Review: Sandra Bullock and Nicole Kidman Still Charm in a Slapdash Sequel That Doesn t
+Tue, 08 Sep 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/practical-magic-2-review-sandra-bullock-nicole-kidman-1236687473/
 
-The pop star opens up about her upcoming album 'Day and Night' and what she's learned since her breakout hit nearly 15 years ago: "Where I've landed now in my career is the sweet spot."
+Joey King, Maisie Williams and Lee Pace also star in the Susanne Bier-directed fantasy, which sees the Owens clan heading to the U.K. in an attempt to break the family's love curse.
 
-### John Turturro Grateful to Zurich Film Festival for Golden Eye Award Honor
-Tue, 08 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/john-turturro-zurich-film-festival-golden-eye-pickpocket-1236693726/
+### Stephen Colbert s Next Act: Screenwriting Software Mogul?
+Tue, 08 Sep 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/business/digital/stephen-colbert-next-act-screenwriting-software-mogul-1236691415/
 
-The U.S. star is being recognized for his decades-spanning career and latest performance in Noah Segan's 'The Only Living Pickpocket in New York.'
+The former CBS host just finished a $5 million seed funding round for his company Scripto, which is used on late-night shows, awards shows and video games alike.
 
-### Omaha Pulls Off a Star-Studded Hollywood Heist for the Manningcast Schedule Release (Exclusive)
-Tue, 08 Sep 2026 12:35:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-espn-manningcast-schedule-release-video-heist-1236691008/
+### Can Michael Rubin’s Fanatics Become a Hollywood Player?
+Tue, 08 Sep 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/ringleader-hollywoods-sports-boom-michael-rubin-1236665915/
 
-In a 15-minute film with cameos from Glen Powell, Anne Hathaway, Paul Rudd, Larry David, Jon Hamm, and many more, the Peyton and Eli Manning break into NFL HQ in an 'Ocean's 11'-style heist.
+The mogul has cultivated a growing Rolodex of A-listers and created a hit pop culture live events business. Now Fanatics wants to be a studio, too.
 
 ## Deadline
 
-### AMC Global Media Settles Breach Of Contract Suit With ‘Walking Dead’ Creator Robert Kirkman, Producers
-Tue, 08 Sep 2026 14:37:57 +0000 — https://deadline.com/2026/09/amc-global-media-settles-lawsuit-walking-dead-creator-producers-1237070827/
+### GM Management s Ram Getz Michael Mortensen Launch Production Company i80 Entertainment
+Tue, 08 Sep 2026 17:50:33 +0000 — https://deadline.com/2026/09/ram-getz-michael-mortensen-launch-i80-entertainment-1237071165/
 
-AMC Global Networks said Tuesday it has entered a settlement agreement worth $120 million with The Walking Dead creator Robert Kirkman and franchise producers for a breach of contract lawsuit dating from 2022. The case was set to go to trial in October. The agreement calls for AMC to pay a total of $120 million [ ]
+EXCLUSIVE: GM Management partners Ram Getz and Michael Mortensen have launched i80 Entertainment, a new independent production company focused on identifying and executing on financeable, talent-driven projects. Getz Mortensen will continue operating GM Management, the talent management company they founded six years ago. Their i80 banner arrives with a growing slate of films in post-production, [ ]
 
-### Dexter: Resurrection Sets Season 2 Premiere Date Drops Teaser Trailer
-Tue, 08 Sep 2026 14:35:00 +0000 — https://deadline.com/2026/09/dexter-resurrection-season-2-premiere-date-teaser-trailer-1237070553/
+### Lionsgate Toei Animation Team On New Partnership, Starting With Monkey Quest In 2027
+Tue, 08 Sep 2026 17:44:22 +0000 — https://deadline.com/2026/09/lionsgate-toei-monkey-quest-1237071134/
 
-Showtime s Dexter: Resurrection will premiere its second season on October 30 on Paramount+, with serial killers and ghosts aplenty to help kick off the Halloween holiday. A new teaser (above) also dropped, showing the titular Dexter Morgan (Michael C. Hall) at the optometrist getting his vision exam. While testing his vision, Dexter sees words and [ ]
+EXCLUSIVE: Lionsgate and Toei Animation have struck a new strategic collaboration beginning with the former serve as the North American distribution partner for upcoming animated feature Monkey Quest, which will hit theaters in 2027. In the new deal, Lionsgate will be Toei Animation’s distribution partner in the U.S. for new projects that the anime studio produces. [ ]
 
-### Venice Film Festival 2026: Read All Of Deadline’s Reviews
-Tue, 08 Sep 2026 14:18:36 +0000 — https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/
+### Rose Gilroy Ilene Chaiken Developing OnlyFans Comedy ‘Subs’ With Run-A-Muck
+Tue, 08 Sep 2026 17:30:00 +0000 — https://deadline.com/2026/09/rose-gilroy-ilene-chaiken-onlyfans-comedy-subs-run-a-muck-1237071039/
 
-The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle s Ink starring Jack O’Connell, Guy Pearce and Claire Foy kicking off an 83rd edition that includes films starring the likes of Robert Pattinson, Penelope Cruz Javier Bardem, Jack Huston Sofia Boutella, Dakota Johnson, John [ ]
+EXCLUSIVE: A dark comedy thriller set in the world of OnlyFans is in the works from Fly Me to the Moon screenwriter Rose Gilroy and The L Word co-creator Ilene Chaiken. The pair are developing series Subs, which will star creators Ari Kytsya and Sophie Mudd, via Run-A-Muck, the company co-founded by Chaiken. Subs follows [ ]
 
-### MS NOW Entering DTC Era With Launch Of Membership Program And Dedicated Streaming Outlet
-Tue, 08 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/ms-now-launches-memberships-streaming-1237066939/
+### South Park Skewers Trump And Paramount With Name Change To South America
+Tue, 08 Sep 2026 17:22:42 +0000 — https://deadline.com/2026/09/south-park-name-change-trump-1237071080/
 
-MS NOW will enter the direct-to-consumer era on Wednesday, launching a membership plan and dedicated streaming service. The 30-year-old cable network, like its linear peers, has been looking for ways to balance streaming with traditional pay-TV delivery as cord-cutting continues to eat into subscriber levels. In the news business, the track record for subscription streamers [ ]
+As it heads into its 29th season, South Park announced a change of its name to South America. The announcement is a troll of Donald Trump and his drive to rename buildings, bodies of water and even a state. Creators Trey Parker and Matt Stone also got in a dig at Paramount, the parent [ ]
 
-### WestEnd Films Boards World Sales On James Erskine’s Niki Lauda Documentary — TIFF Market
-Tue, 08 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/lauda-westend-films-james-erskine-tiff-market-1237070635/
+### Practical Magic 2 Review: Sandra Bullock, Nicole Kidman Sequel Lacks Magic Of Original, But Lays Groundwork For Trilogy
+Tue, 08 Sep 2026 17:10:59 +0000 — https://deadline.com/2026/09/practical-magic-2-review-sequel-lacks-magic-original-1237070994/
 
-WestEnd Films has boarded world sales on Lauda, a feature documentary about three-time Formula One World Champion Niki Lauda, produced by Noah Media Group and directed by Emmy-nominated filmmaker James Erskine (Copa 71). The company will launch sales at the upcoming TIFF market. Currently in production, Lauda tells the former Formula One driver’s rise to [ ]
+After nearly three decades, Practical Magic 2 had a tall order to fill in conjuring the same magic as the original 1998 adaptation of the Alice Hoffman book. While the sequel is sure to serve as an entertaining day at the movies with mom, it reads a bit more Harry Potter than Witches of Eastwick [ ]
 
-### Cornerstone Boards Sports Comedy ‘Hot Curlers’ With June Squibb, Linda Hamilton, Jayne Eastwood Caroline Aaron – Toronto
-Tue, 08 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/cornerstone-hot-curlers-june-squibb-linda-hamilton-toronto-1237070751/
+### Bunker Review: Penélope Cruz And Javier Bardem s Marriage Is In Crisis In Florian Zeller s Drama Of Isolation And Fears Venice Film Festival
+Tue, 08 Sep 2026 17:05:00 +0000 — https://deadline.com/2026/09/bunker-review-penelope-cruz-javier-bardem-movie-1237070354/
 
-June Squibb (Eleanor the Great), Linda Hamilton (Terminator 2: Judgement Day), Jayne Eastwood (My Big Fat Greek Wedding) and Caroline Aaron (Bookends) are all set to star in upcoming sports comedy Hot Curlers from filmmaker David White (This Town, Far North). Cornerstone Films is launching worldwide sales on the project at the Toronto International Film Festival [ ]
+Florian Zeller wrote his latest film Bunker for real-life married couple Javier Bardem and Penélope Cruz to play a married couple on screen for the first time, a purposeful decision in order to add intrigue to a story of two people increasingly isolated from each other after 17 years together and now trying to find [ ]
 
-### CNN To Host Debate Between California Gubernatorial Candidates Xavier Becerra And Steve Hilton
-Tue, 08 Sep 2026 13:30:57 +0000 — https://deadline.com/2026/09/cnn-debate-steve-hilton-xavier-becerra-california-governor-1237070767/
+### Vanessa Gonzalez Sets Hulu Premiere For Debut Special Mamona
+Tue, 08 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/vanessa-gonzalez-comedy-special-hulu-premiere-1237068241/
 
-California gubernatorial candidates Xavier Becerra and Steve Hilton will meet for a debate later this month, a nationally televised event hosted by CNN. The event will take place at 9 p.m. ET/6 p.m. PT on Sept. 30 at the network s studios in Burbank, with Jake Tapper and Dana Bash serving as moderators. Becerra and Hilton [ ]
+EXCLUSIVE: Vanessa Gonzalez has set a Hulu launch for her debut stand-up special, Vanessa Gonzalez: Mamona, which she ll unveil September 15. Raised by a devout Catholic mother and a witch grandmother, Gonzalez s special brings an unfiltered look at growing up in a Texas border town and what it means to be called Mamona. She takes the viewer [ ]
 
-### Javier Bardem Penélope Cruz Talk Playing Fictitious Arguing Couple In Bunker : “We Are Very Good At Creating Fiction Reality” Venice
-Tue, 08 Sep 2026 13:25:05 +0000 — https://deadline.com/2026/09/javier-bardem-penelope-cruz-playing-couple-bunker-1237070727/
+### Dani Jacobson Joins Untitled As Manager
+Tue, 08 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/dani-jacobson-joins-untitled-manager-1237070478/
 
-A-list couple Penélope Cruz and Javier Bardem touched down at the Venice Film Festival on Tuesday for the competition world premiere of Oscar-winning French director Florian Zeller’s highly anticipated thriller Bunker. Bardem plays an architect who takes on an ethically questionable project to build a survivalist bunker for a tech billionaire, in a move that [ ]
+EXCLUSIVE: Dani Jacobson has joined Untitled as a manager based in the company s New York office. Jacobson joins from The Team (formerly Wasserman), where she served as Agent, Senior Director. She d worked as part the Creators division since 2025. In her new role, she will continue to rep creators and multi-hyphenate talent, working with clients to [ ]
 
-### ‘60 Minutes Gives A Peek At Story Lineup For Season Premiere Following Tumultuous Revamp
-Tue, 08 Sep 2026 13:16:20 +0000 — https://deadline.com/2026/09/60-minutes-season-premiere-preview-iran-1237070733/
+### Herman Yau’s Audience Award-Winner We’re Nothing At All Sold To Blacklight Global For U.S. Release
+Tue, 08 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/anson-kong-herman-yau-were-nothing-at-all-blacklight-global-1237070547/
 
-The season premiere of 60 Minutes on Sunday will feature Norah O Donnell s interview with the weapon systems officer whose plane was struck down in Iran, leading to a successful rescue operation. The newsmagazine will be starting its 59th season with plenty of scrutiny: It s the first original broadcast since a tumultuous revamp earlier this year. [ ]
+EXCLUSIVE: Blacklight Global Entertainment has acquired U.S. distribution rights to We’re Nothing At All, the latest film from prolific Hong Kong filmmaker Herman Yau, starring Patrick Tam, Anson Kong and Ansonbean. The deal was negotiated by Janice Leung on behalf of Blacklight Global Entertainment and Hong Kong-based Golden Scene on behalf of the filmmakers. Blacklight [ ]
 
-### Murdoch Mysteries Maker Shaftesbury Hires Nataline Rodrigues In Creative Push
-Tue, 08 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/shaftesbury-hires-nataline-rodrigues-murdoch-mysteries-1237069370/
+### ‘The Tonight Show’ Scores Four Sunday Night Slots
+Tue, 08 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/the-tonight-show-four-sunday-night-shows-1237070979/
 
-EXCLUSIVE: Canada s Shaftesbury is supercharging its creative team. The Murdoch Mysteries maker has hired former Rogers content director Nataline Rodrigues in a VP role and promoted Susan Alexander to the same level. Both execs be VP, Creative Content, with the latter upped from her Senior Director post. Rodrigues will work on Shaftesbury s primetime shows in [ ]
+Jimmy Fallon will be suiting up on Sunday nights again. The Tonight Show will air four shows after NBC’s Sunday Night Football this season, in line with the four that it ran last year. This was up from only one in the 2024/25 season. It will air shows after the Los Angeles Rams vs. Denver [ ]
 
-### John Turturro To Receive Zurich Film Festival s Golden Eye Award
-Tue, 08 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/john-turturro-zurich-film-festival-golden-eye-award-1237070723/
+### Star Wars: Starfighter Star Wars 50th Anniversary Edition To Be Released In Imax 70MM
+Tue, 08 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/star-wars-starfighter-star-wars-50th-anniversary-imax-70mm-1237071027/
 
-John Turturro is set to receive the Golden Eye Award at the Zurich Film Festival, which kicks off later this month. The Emmy award-winning actor-writer-director will be feted for his performance in The Only Living Pickpocket in New York, written and directed by Noah Segan. Turturro will touch down in Zurich to accept the award in [ ]
+Disney s Lucasfilm s new universe title Star Wars: Starfighter in addition to the 50th anniversary re-release of Star Wars will be presented in Imax 70mm upon release in 2027. It will mark the first time that the Star Wars franchise has been presented specifically in Imax 70MM. For the 1977 George Lucas directed Star Wars, the release will [ ]
 
-### Casey Affleck On Company : I Was Responding In Part To Raging Conflicts In The World, And To Things Inside Myself Venice
-Tue, 08 Sep 2026 12:41:03 +0000 — https://deadline.com/2026/09/casey-affleck-company-response-conflicts-inside-myself-1237070694/
+### Lonnie Bunch Says He Will Resign As Secretary Of The Smithsonian Amid Trump Administration Attacks And Pressure On Institution
+Tue, 08 Sep 2026 16:35:52 +0000 — https://deadline.com/2026/09/lonnie-bunch-resigns-smithsonian-trump-1237070976/
 
-Casey Affleck‘s Venice Film Festival Competition drama Company is launching on the Lido today. Affleck was flanked at the film s press conference by Adelaide Clemens, Scoot McNairy, Emily Alyn Lind, actress-producer Caylee Cowan Affleck s partner and 85 year-old screen legend Nick Nolte. Affleck told the assembled journalists that actor Ben Mendelsohn, who also stars in the [ ]
+Lonnie Bunch, who has led the Smithsonian as its secretary for the past seven years, said that he will step down at the end of the year. His departure comes amid repeated criticism from the Trump administration over how the institution depicts and describes historical events and figures. In an interview with The New York [ ]
 
 ## befores & afters
 
@@ -184,6 +184,26 @@ Mon, 07 Sep 2026 02:35:10 +0000 — https://beforesandafters.com/2026/09/07/stra
 Congrats to all the nominees! Outstanding Special Visual Effects in a Season or a Movie Stranger Things (s5) Betsy Paterson, Visual Effects Supervisor Michael Maher Jr., VFX Art Director Sean Ames, Additional VFX Supervisor Craig Seitz, Additional VFX Supervisor Tessa Roehl, VFX Co-Producer Chloe Lipp, Associate VFX Producer Brad Tobler, Senior VFX Editor Martin Hill, Senior VFX Supervisor, WĒTĀ FX Limited Richard Thwaites, VFX Producer, WĒTĀ FX Limited Bill Georgiou, VFX Supervisor, ILM Jessica Smith, VFX Consultant Mark Hawker, Special Effects Supervisor Outstanding Special Visual Effects in a Single Episode Spider-Noir • Nightmare On A Gurney Hnedel Maximore, VFX Supervisor Brooke Noska, VFX Producer Adam Rothstein, Additional VFX Supervisor Timothy Hanson, VFX On-Set Supervisor Jorge Macias, Lead VFX Artist Taylor Faulkinberry, Senior VFX Coordinator Joseph C Bond IV, VFX Editor Suzie Askham, VFX Supervisor (Cinesite) Tommy Tran, VFX Supervisor (Barnstorm) Cameron Neilson, VFX Supervisor (ILM) Adam Balentine, VFX Supervisor (Eyeline VFX) Sebastiano D’Aprile, VFX Supervisor (CoSA VFX) The post Stranger Things and Spider-Noir win VFX Emmys appeared first on befores & afters .
 
 ## IndieWire
+
+### Bunker Review: A Tech Billionaire Asks Javier Bardem to Build a Doomsday Ark in Florian Zeller s Heavy-Handed Social Thriller
+Tue, 08 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/movies/bunker-review-javier-bardem-penelope-cruz-1235215377/
+
+Venice: Bardem co-stars with real-life wife Penélope Cruz in a movie that fails to make worthwhile use of their individual talents or shared personal history.
+
+### Practical Magic 2 Review: Sandra Bullock and Nicole Kidman Break Hearts in a Spellbinding Sequel
+Tue, 08 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/criticism/movies/practical-magic-2-review-sandra-bullock-nicole-kidman-1235215192/
+
+Let yourself fall in love with Susanne Bier’s touching follow-up to the witchy 1998 cult film.
+
+### Alpha Gang Review: Léa Seydoux Leads an All-Star Cast of Motorcycle-Loving Aliens in the Zellner Brothers Wacky Sci-Fi Pastiche
+Tue, 08 Sep 2026 15:47:52 +0000 — https://www.indiewire.com/criticism/movies/alpha-gang-movie-review-1235215511/
+
+Dave Bautista, Chris Pine, and Lily Rose-Depp are among the other rockabilly ETs, who take human form but can't handle human emotion.
+
+### The Downtown Festival Sets 2026 Film Lineup, Including Paul Schrader, Ethan Hawke and Siyou Tan
+Tue, 08 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/news/festivals/downtown-festival-2026-film-lineup-1235214988/
+
+The third annual edition of the festival will run from October 9 through October 18 across Lower Manhattan.
 
 ### TIFF Finally Has a Formal Film Market, but Sellers and Buyers Still Don t Know What to Expect
 Tue, 08 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/news/festivals/tiff-film-market-what-to-expect-1235214373/
@@ -225,127 +245,107 @@ Mon, 07 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/criticism/movies/l
 
 Venice: Two girls bond over their love of creating manga in a bittersweet tragedy that gains as much as it loses during the jump to live-action.
 
-### Werner Herzog on David Lynch, AI, and Why His Unhinged New Film Bucking Fastard Skipped Cannes for Venice
-Mon, 07 Sep 2026 13:15:00 +0000 — https://www.indiewire.com/features/interviews/werner-herzog-interview-david-lynch-ai-bucking-fastard-1235215271/
-
-Venice: "Somehow, as a director, I've always managed to get the very, very best out of my actors," the documentary grandmaster tells IndieWire. The film stars Rooney and Kate Mara as twins who move and speak in near-perfect unison.
-
-### Rob Reiner Wins Posthumous Emmy, Julie Andrews, Widow s Bay Among Others Honored at Creative Arts Emmys
-Mon, 07 Sep 2026 12:47:40 +0000 — https://www.indiewire.com/awards/results/rob-reiner-julie-andrews-widows-bay-creative-arts-emmys-winners-list-1235215270/
-
-Night two of the Creative Arts Emmys also saw a strong showing from the recently canceled "Spider-Noir."
-
-### You Can See Everything Review: Nathan Fielder and Lance Oppenheim s Elizabeth Holmes Documentary Is Boundary-Pushing and Absurd
-Mon, 07 Sep 2026 09:59:02 +0000 — https://www.indiewire.com/criticism/movies/you-can-see-everything-review-nathan-fielder-1235215268/
-
-Telluride: Everything we thought we knew about the beleaguered Theranos founder and convicted fraudster may or may not be true, according to A24's made-in-secret new documentary.
-
-### Lanterns Review: Episode 4 Is All About The Weenie (s) — Spoilers
-Mon, 07 Sep 2026 02:00:00 +0000 — https://www.indiewire.com/criticism/shows/lanterns-review-episode-4-review-the-weenie-spoilers-1235214629/
-
-There are three weenies in "The Weenie": a secret compound that may hide the Manhunter, William Macon's, um, "elephant" in the room, and John Stewart himself. Each weenie tells a story, and each story tells us a lot about "Lanterns."
-
 ## The Wrap
 
-### The Drop: A Snowfall Saga Review: FX Series Is Missing Damson Idris, but Still Finds Its Footing
-Tue, 08 Sep 2026 14:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-drop-a-snowfall-saga-review-fx/
+### Norah O Donnell Makes Her CBS Mornings Return: It s Great to Be Here
+Tue, 08 Sep 2026 17:29:48 +0000 — https://www.thewrap.com/media-platforms/journalism/norah-odonnell-cbs-mornings-return-video/
 
-Let’s get one thing straight up front: “The Drop: A Snowfall Saga” was always going to be different without Damson Idris . Less of a spinoff of the late, great John Singleton’s original “Snowfall” series and more a new chapter that takes place after it, this timeline inevitably means Idris wouldn’t be able to hold the same place at the story’s center. This isn’t a problem per se and, if anything, you wouldn’t want a new show to mess with what was already a great thing. Idris, an endlessly magnetic actor whose magnificent, though still largely underrated, work over the course of six mostly strong seasons of television brought life to the rise and fall of the troubled Franklin Saint, had already left it all on the screen. His saga was about a man trying to keep his head above water, only to find that, in the course of doing so, he had become adrift, with Idris saying he even had invoked the Devil to play him . With nothing left to hold onto, the last moment we saw him, he was drowning on dry land as the world moved on without him. And while Franklin is not a part of this new show, there is something tragically poetic about his absence in the story we now see in “The Drop.” After all he went through, life carrying on with him as nothing more than a memory, merely someone to be referenced, is part of what makes this new show interesting. The Devil can t be invoked again, but he does cast a long shadow. Even as much has changed and it is still finding its feet, questions of surviv
+Norah O Donnell made her formal return to the CBS Mornings desk Tuesday, where she told co-hosts Gayle King and Nate Burleson, I m feeling great. Thank you for having me back! It has been seven years since O Donnell left CBS morning show for CBS Evening News. Prior to her departure in 2019, O Donnell, 52, had spent seven years co-hosting the network s morning program, then known as CBS This Morning. Her return to CBS Mornings was announced on Sept. 3. Moving forward, O Donnell will serve as permanent third host alongside Burleson and King. The latter alluded Tuesday to her and O Donnell s long on-air history together, telling viewers, Norah and I have history, so we are ready to go. We’re going to make this next chapter our best chapter here on CBS Mornings, that’s for sure, Burleson teased Tuesday, telling O Donnell, And you’re going to be a big part of that. When asked how she felt on her first day back, O Donnell said she was thankful and excited. I m feeling great. Thank you for having me back. It s great to be here, O Donnell told King and Burleson. I m thrilled about what is an exciting show ahead and a big week ahead, too. You can watch O Donnell s full welcome back to CBS Mornings yourself below. The CBS Mornings team commemorated King and O Donnell s shared history Tuesday by rolling photos of the two of them during their previous co-hosting stint together. At the end of the trip down memory lane, King joked, We look cuter now. We do! O’Donnell concurred. Like fine w
 
-### Penélope Cruz and Javier Bardem Say It s Impossible Not to Talk Politics After Starring in Projects Like Bunker
-Tue, 08 Sep 2026 14:00:54 +0000 — https://www.thewrap.com/creative-content/movies/javier-bardem-penelope-cruz-talk-politics-venice/
+### A New Hope, ‘Star Wars: Starfighter’ to Be Released in Imax 70MM
+Tue, 08 Sep 2026 17:24:59 +0000 — https://www.thewrap.com/creative-content/movies/star-wars-50th-starfighter-to-be-released-in-imax-70mm/
 
-Penélope Cruz and Javier Bardem won t be shying away from discussing politics while promoting their new film Bunker. In fact, during a press conference for the film at the Venice Film Festival this week, the couple argued that it s impossible to avoid doing so. In the film, directed by Florian Zeller, Cruz and Bardem star as couple who s been married for nearly two decades. But, that marriage starts to fall apart when Bardem’s character agrees to build a survivalist bunker for a tech billionaire. At the film festival, the actors were asked about their decision to speak openly on politics, as they have for years . “We don’t have to agree with our characters, we don’t have to agree sometimes with the story, but this involves so many aspects of where the world is right now — things that affect all of us, future generations,” Cruz said. “Children, their children there are so many things that we touch in this film that it would be really contradictory then to be here and say, ‘Oh, I don’t want to talk about that, or that other thing.’ It’s impossible. Cruz admitted that it makes events like the press conference more scary, but reiterated that it wouldn t make sense to say, ‘I don’t talk about politics. ” Bardem agreed, and added that everyone, no matter their profession, has the right to expose your truth on what you think is important.” “Obviously I have more resources to do it than a taxi driver, because I have this thing, he said, referring to the microphone, and I have you guy
+Star Wars (1977) and Star Wars: Starfighter will be available to experience in IMAX 70mm film in 2027, Lucasfilm announced Monday. The re-release of A New Hope on Feb. 19, 2027 marks the first time the 1977 original has received an Imax screening. The film will be shown across a select number of IMAX 70mm film locations as well as playing in select theaters for a limited time. “We’re releasing our film on the same exact weekend as the original ‘Star Wars’ 50 years earlier. We didn’t even plan it that way, but I can’t imagine a bigger dream come true,” Levy recently said at D23 . Levy continued: “Our story takes place in a period of time that has never before been show in a ‘Star Wars’ adventure. Most importantly, though, it gave me the chance to collaborate with Ryan Gosling. We all know Ryan Gosling as the incredible actor behind ‘Drive,’ ‘Blade Runner,’ ‘La La Land’ – an incredible body of work. But of all the iconic roles that Ryan Gosling has played over the years, we here in this room know that there’s one role he’s had that stands out among all the rest.” When “Star Wars: Starfighter” opens in 2027 it will be only the second “Star Wars” theatrical project since “The Rise of Skywalker” in 2019, with the property largely relegated to Disney’s direct-to-consumer streaming platform Disney+. Along with Gosling, the film also stars Matt Smith, Mia Goth, Aaron Pierre, Jamael Westman, Daniel Ings, Flynn Gray, and Amy Adams. The film is written by Jonathan Tropper, produced by S
 
-### MS NOW Adds Rachel Maddow Q As, Calm Meditations to New Membership
-Tue, 08 Sep 2026 14:00:00 +0000 — https://www.thewrap.com/media-platforms/journalism/ms-now-rachel-maddow-calm-membership/
+### Bunker Review: Javier Bardem and Penélope Cruz s Stylish Marital Thriller Is Trapped Between Satire and Suspense
+Tue, 08 Sep 2026 17:13:59 +0000 — https://www.thewrap.com/creative-content/reviews/bunker-review-penelope-cruz-javier-bardem-florian-zeller/
 
-MS NOW is adding twice-daily live Q&As with Rachel Maddow and other network personalities, along with guided meditations from Calm, as the cable news network rolls out its new paid membership offering. The network unveiled new details Tuesday about its first direct-to-consumer product, which launches Wednesday for $7.99 per month . The membership is part of MS NOW parent Versant’s push to build direct relationships with consumers beyond the traditional cable bundle. At noon ET each day, members will be able to submit questions to a rotating lineup of MS NOW anchors. Maddow will host “Ask Maddow Anything” on Mondays, while Joe Scarborough, Mika Brzezinski, Willie Geist and other “Morning Joe” personalities will hold a “Morning Joe Family Meeting” on Tuesdays. Ali Velshi and Stephanie Ruhle will take Wednesdays, followed by Michael Steele on Thursdays, Jen Psaki on Fridays, hosts from “The Weekend” on Saturdays and Al Sharpton on Sundays. Some members will also be able to join Maddow and the “Morning Joe” team directly over live video. A second daily session at 6 p.m., called “On the Ground With…,” will connect subscribers with MS NOW reporters covering the day’s biggest stories. “For decades, audiences have invited us into their homes every day,” MS NOW president Rebecca Kutler said. “Tomorrow, we re inviting them into the conversation.” The membership will also include a less conventional feature for a cable news product: a way to take a break from the news. MS NOW is partner
+Through Spanish stars and Hollywood gloss, Bunker, above all else, channels the sensibility of a French playwright. Recognizing that is key to unlocking this tonally idiosyncratic marital drama, which swings between bourgeois farce and psychological thriller, tackling a raft of topical concerns by bringing them into the house. Of course, it s useful context that writer-director Florian Zeller previously won an Oscar for The Father — this is, after all, a film about another prizewinning European expanding his professional ambitions into the Anglosphere. Here, that s Miguel Moreno (Javier Bardem), a noncommittal Londoner, winner of architecture s top honor and husband to book editor Sofia (Penélope Cruz), who wants more than anything to move the family back to Madrid. She d also like to rekindle some spark of romantic passion — and in his own way, so would Miguel — even as the couple s diverging professional trajectories keep pulling them apart. (Casting actors who ve been onscreen foils longer than they ve been an actual couple pays off beautifully: when Zeller says he wrote these parts specifically for Bardem and Cruz, believe him.) Alas, those domestic cracks are beginning to widen — a point the film quite literally hammers home by juxtaposing its title card against a sledgehammer shattering concrete. On one side of the divide is Miguel, aghast that someone would dare breach his Piet Mondrian-inspired abode; on the other is neighbor Toby (Stephen Graham), the last holdout of
 
-### ‘60 Minutes Cements Its On-Air Talent for Season 59, Says Trump Is Fair Game
-Tue, 08 Sep 2026 13:30:44 +0000 — https://www.thewrap.com/media-platforms/journalism/60-minutes-cast-season-59-premiere-cbs-news/
+### The Tonight Show Scores 4 More Sunday Night Football Specials
+Tue, 08 Sep 2026 17:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/the-tonight-show-jimmy-fallon-sunday-night-football-nbc-nfl/
 
-60 Minutes is set to return for its 59th season this Sunday following a high-profile shakeup over the summer under new executive producer Nick Bilton and CBS News editor-in-chief Bari Weiss. On Tuesday, the newsmagazine unveiled its official cast of correspondents in Lesley Stahl, Bill Whitaker, Jon Wertheim, Norah O’Donnell and Ross Douthat, along with contributors Matt Gutman, Sebastian Junger, Gianna Toboni, Trevor Phillips and Ariel Levy. The group photo was taken by Mark Seliger at New York City s Oyster Bar in Grand Central Station, in reference to the program s broadcasting history. These images are a perfect homage to CBS News broadcast beginnings where Cronkite and Murrow reported the news as we head into the 59th season of which set the foundation for 60 Minutes, EP Bilton told CBS News . 60 Minutes also teased an upcoming premiere segment about a U.S. Air Force officer who was rescued from Iran. Watch that video sneak peek, below. Elsewhere on Tuesday, Bilton assured his fellow journalists that stories on President Donald Trump would one thousand percent” be fair game, in addition to “everyone else in Washington, regardless of which side you’re on.” “Over the summer, we’ve made changes to every aspect of the broadcast to make it stronger,” he told The News York Times in an interview out Tuesday. “While each of those changes represents a slight departure from the way it’s been done in the past, it will make for a new approach to ‘60 Minutes’ in its totality.” His co
+The Tonight Show Starring Jimmy Fallon is once again embracing Sunday night football in a big way. Throughout the fall and winter, NBC will air four Sunday specials of the late night talk show that will air after Sunday Night Football game broadcasts and immediately after the local news. The first Sunday edition of The Tonight Show will take place on Sept. 27 after the Los Angeles Rams vs. Denver Broncos game and will feature Sylvester Stallone and Luke Bryan. The other shows will take place after the Tampa Bay Buccaneers vs. Chicago Bears game on Nov. 8, after the Pittsburgh Steelers vs. Cincinnati Bengals on Nov. 15 and after the Sunday night NFL game on Jan. 10, 2027 (the teams in that matchup will be determined at a later date depending on how the season unfolds). Additional names and subsequent guests for Sunday night shows will be announced at a later date. We’re thrilled to be teaming up with NBC Sports again this year for these Sunday night episodes, showrunner Chris Miller said on Tuesday. In the past year we’ve earned over 900 million social views from our sports guests and coverage and are already on track to cross 1 billion views for this current year. The Tonight Show will also air a regularly scheduled episode on Wednesday following the season-opening NFL Kickoff game, which will air live on NBC and stream on Peacock at 8:20 p.m. ET. That matchup will pit the New England Patriots against the Seattle Seahawks in a rematch from Super Bowl LX. Guests for the evenin
 
-### Does Fox Need Another Maria Bartiromo?
-Tue, 08 Sep 2026 13:12:56 +0000 — https://www.thewrap.com/media-platforms/tv/maria-bartiromo-fox-news-exit-why/
+### South Park Shares a Cheeky, Trump-Inspired Name Change Ahead of Season 29
+Tue, 08 Sep 2026 16:55:47 +0000 — https://www.thewrap.com/creative-content/tv-shows/south-park-name-change-trump-season-29/
 
-Welcome back to the Media Front. Maria Bartiromo didn’t just have a show at Fox. She had three of them. For more than a decade, Fox News Media built Bartiromo into one of its most versatile personalities, stretching her across two networks and three shows spanning business, markets and politics. Then, on Thursday, Fox parted ways with Bartiromo after more than 12 years, effective immediately. On Friday, the company started remaking all three franchises without her. That is what makes Bartiromo’s exit more than just another cable-news talent change — and exposes a tension at the heart of the Fox star system. Few television organizations are better at making personalities seem indispensable. And few have proved more capable of moving on when those personalities disappear. Fox isn’t filling one vacant time slot. It is figuring out how to divide a portfolio that had grown around one person. The circumstances surrounding the split have only raised the stakes. Bartiromo had not appeared on Fox since Aug. 9, according to multiple reports, and departed without an on-air goodbye. Fox offered little explanation, telling TheWrap only that it was a “business decision.” Within hours, Status and Puck reported that Bartiromo allegedly shared internal Fox editorial guidance outside the company. Puck later reported that after Fox Business declined to pursue a story involving China and conspiracy theories about the 2020 election, Bartiromo sent Trump adviser Peter Navarro a screenshot of that 
+South Park will return this fall with a big change: the name of the animated program from Trey Parker and Matt Stone will shift to cheeky, Donald Trump-inspired South America. “Inspired by the bravery and patriotism of Apple and Google, we are changing the name of South Park to South America,' Parker and Stone said in a statement. We especially want to thank our parent company Paramount a Skydance Capitulation. The name shift matches Trump s desire to rename geographic regions to incorporate America, including the August executive order to rename Lake Ontario to Lake America, as well as floating the possibility of renaming New Mexico to New America. Season 29 will debut Wednesday, Sept. 16, at 10 p.m. ET/PT on Comedy Central, with new episodes streaming the next day on Paramount+. New episodes are slated to premiere Sept. 30, Oct. 14, Oct. 28, Nov. 11 and Nov. 25. South Park changed its name to South America ahead of Season 29. (Comedy Central) The name shift to South America is yet another way Parker and Stone have trolled Trump of late, after making the president the central antagonist of Season 28. This weekend, the “South Park” team celebrated their Emmy win for outstanding animated program by mocking Trump. The “South Park” official X account posted, “Congratulations to Trey Parker, Matt Stone and the entire South Park team on their Emmy win, alongside a cartoon version of Trump with his underwear by his ankles and an Emmy statue in hand. “You finally got your Emmy,” the
 
-### The Summer Box Office Blew Past Records. But Can Theaters Sustain the Momentum? Analysis
-Tue, 08 Sep 2026 13:05:07 +0000 — https://www.thewrap.com/creative-content/movies/summer-box-office-2026-success-explained-spider-man-odyssey/
+### The View Host Alyssa Farah Griffin Cringes at Trump s Latest AI Slop : Like Your Weird Uncle Forwarded You a Junk Email
+Tue, 08 Sep 2026 16:53:22 +0000 — https://www.thewrap.com/industry-news/business/the-view-alyssa-farah-griffin-trump-ai-slop/
 
-For years, movie theaters have sent the same message to Hollywood over and over: make more films for us, and the box office will bounce back. Moviegoing isn’t dead; it just needs a new wave of films of all budgets and genres to give it a shot in the arm — and of course, a few of the biggest surefire filmmakers and IP to do a lot of the heavy lifting would help too. 2026 brought all of that, and the result, depending on final numbers still being crunched, is the highest grossing summer in box office history. Thanks to a mix of historic indie horror hits, a more consistent week-to-week slate, and three films that grossed more than last year’s top summer hit “Lilo & Stitch,” this summer reached an estimated domestic total of $4.76 billion, just above the $4.75 billion recorded in 2013. Of course, with the dramatic increase in movie ticket prices and growing interest in premium formats, the environment is radically different than it was 13 years ago when movies like “Iron Man 3” and “Despicable Me 2” topped the charts. Also, because the summer season is measured from the first Friday in May to Labor Day, which this year fell on Sept. 7, the 2026 period lasted seven days longer. But compared to more recent years, the enormity of this summer is plain to see, and it s a stark reversal after many opined whether theaters were a dying breed just a few years ago. 2026 outgrossed summer 2025 by more than $1 billion, and it outperformed 2023, the summer of “Barbie” and “Oppenheimer,” by m
+President Trump once again went on a social media posting spree this weekend, uploading several pieces of AI slop, according to the hosts of The View. In their season premiere on Tuesday morning, the ABC hosts cringed at the photos, with Alyssa Farah Griffin saying it felt like a junk email from your weird uncle. To kick off the first Hot Topics discussion of the season, moderator Whoopi Goldberg recapped some of the president s posts, which included him riding horses with George Washington, getting into a hockey fight with the Canadian Prime Minister, renaming New Mexico to New America, and declaring that the moon is ours. Call me an idiot, but you know, I just thought maybe you could be working on inflation, or grocery prices, or the FDA, you know, which has recorded 19 simultaneous outbreak investigations on our food! Goldberg said. The women quickly agreed that these pieces of slop were nothing more than a tactic the president is using to try and distract people from the upcoming midterm elections, and encouraged people not to fall for it. That said, they couldn t ignore how weird it felt. It does feel like your weird uncle forwarded you a junk email with some sort of thing in it, Farah Griffin said. One part of me thought it looked like an 80-year-old that had just discovered this new tool, Sara Haines said. But like, when you re actually toying with the entire international community, you can t treat it just like Grandpa found a new app. Like, this is the president of t
 
-### Musk Review: Alex Gibney s Punishing Elon Musk Doc Is the Stuff of Nightmares
-Tue, 08 Sep 2026 12:05:00 +0000 — https://www.thewrap.com/creative-content/movies/musk-review-alex-gibney-punishing-elon-musk-documentary/
+### The View Hosts Miserably Fail Trivia About Their Experiences on the Show: I Have No Idea What That Was
+Tue, 08 Sep 2026 16:31:05 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-hosts-fail-to-remember-the-show/
 
-Among its other qualities, Alex Gibney s Musk might be the only take on this material that gets you thinking about Mao Zedong or, more specifically, thinking about an apocryphal quote attributed to Chen Yun: Had Mao died in 1956, his achievements would have been immortal Had Gibney ended his film at the 90-minute mark, his subject s achievements would have seemed immortal. Had it run three hours, he d still be a great man, if flawed. But Gibney takes it to four hours. Alas, what can one say? That progression, of course, charts a linear chronology, tracking Elon Musk s public reputation from the late 1990s through to his 83 tweets today. The trouble lies with what comes next. Premiering at the Venice Film Festival before lodging itself, like a Neuralink, in your brain, Gibney s punishing doc is meant to spur nightmares, though it takes some time getting there. All the while, the filmmaker keeps us alert and on edge, opening his opus with an image of the Earth exploding and returning to that grim vision several more times. Before the film unfurls its barrage of interviews, archival clips and cheeky animations, Gibney lays out a scathing, skeptical thesis that serves as a roadmap. How has Elon Musk assumed so much power, he asks in voice over. And why did we give it to him? Musk then shifts to narrative throat clearing, giving us two hours of biographical broad strokes. Moving from business venture to business venture, from Zip2 to PayPal to Tesla, the film charts a trajectory o
+The View kicked off its 30th season on Tuesday morning, and to celebrate, host Alyssa Farah Griffin led the table in a game of trivia about her co-hosts experiences on the show. Unfortunately, the ABC hosts failed that trivia pretty miserably. The game was simple: Let s Re-View It. A host would be selected at random, and Farah Griffin would present the woman with two situations, one of which actually happened on the show. The host in the hot seat simply had to pick which one it was. First up was Joy Behar, who sets a record with this season of The View, as she has now officially hosted more seasons of an American talk show than any other woman. Did you join Barbara Walters on a seesaw, or attack your own likeness with a chainsaw? Farah Griffin asked. None of the above, Behar retorted. In reality, it was the latter, and Farah Griffin had the tape to back it up. In the footage, Behar was presented with a wood-carved statue of herself. But, she was unhappy with the size of the butt on the carving, so she took a chainsaw to it to shave things down a bit. Next up was Sunny Hostin, who could remember if she learned how to strike a blow from a martial arts expert or strike a pose from a model (it was the latter; Tyra Banks taught her to take a proper selfie). Then came moderator Whoopi Goldberg, who didn t even try to pretend like she remembered if she was sized up by an undergarment expert or rubbed down by a masseuse. The answer was the undergarment expert, once again proven with 
 
-### Macklemore Clarifies Call to Free Palestine Isn t a Criticism of Jewish People: My Message Is for Peace
-Mon, 07 Sep 2026 23:16:45 +0000 — https://www.thewrap.com/creative-content/music/macklemore-free-palestine-not-criticism-jewish-people/
+### M. Night Shyamalan s Remain Trailer Thrusts Jake Gyllenhaal Into a Nicholas Sparks Movie
+Tue, 08 Sep 2026 16:18:19 +0000 — https://www.thewrap.com/creative-content/movies/m-night-shyamalan-remain-trailer-jake-gyllenhaal-nicholas-sparks/
 
-After Macklemore s onstage plea to free Palestine sparked a demand from the Israeli American Council for his removal from Ed Sheeran s tour, the rapper clarified that his calls for peace are in no way a criticism of Jewish people. “To all of my Jewish brothers and sisters, criticism of Israel, criticism of apartheid, being against genocide, in no way is a criticism of you,” Macklemore said during his second night opening for Sheeran at the MetLife Stadium. “My message is for peace, love (and) for all human beings to be treated with dignity, respect and equality.” “So I say free Palestine. I say free Lebanon. I say free Cuba. I say free Congo, free Sudan, free all people in America living in fear over this terrorist organization ICE, he continued. None of us will be free until we are all free. Macklemore s second onstage statement comes two days after his initial call to free Palestine received backlash from the Israeli American Council, which began circulating a petition Saturday calling for the musician to be removed from all tour dates. The petition has not been successful, however. Macklemore performed as slated on Sept. 5. He posted the video of his opening remarks onto Instagram on Monday, writing, that wanting all humans to be treated equal should never be controversial. “One of the reasons why I wanted to come on this tour was because I wanted to stand up here onstage on stages and stadiums across America and say two words that are very near and dear to my heart: free 
+M. Night Shyamalan and Nicholas Sparks have teamed up to bring you the most twisted Valentine s Day yet with their new movie, Remain. Written and directed by the supernatural horror icon based off a story he shares with the Notebook author, the new trailer out Tuesday shows Jake Gyllenhaal and Phoebe Dynevor in quite the unsettling love story . When reclusive architect Tate Gordon moves to small coastal town to complete his latest project, he encounters an alluring young woman who pulls him out of his shell, and into the center of a deadly mystery that hangs over the town, per the logline. Warner Bros. Pictures further touts the movie as an unprecedented collaboration between two of the world’s most creative minds. The film was originally slated for a Halloween 2026 release, but was pushed back earlier this year. Ashley Walters, Julie Hagerty, Jay O. Sanders, Tracy Ifeachor and Maria Dizzia also star. Shyamalan produces alongside Ashwin Rajan, Marc Bienstock and Theresa Park, with Sparks executive producing. The novel version of “Remain,” released in October 2025, became a No. 1 New York Times bestseller. Remain arrives in theaters on Feb. 5, 2027. The post M. Night Shyamalan s Remain Trailer Thrusts Jake Gyllenhaal Into a Nicholas Sparks Movie appeared first on TheWrap .
 
-### ‘Beat Shazam’ at 100 Episodes: How the Fox Game Show Beat the Odds With Jamie Foxx at the Helm
-Mon, 07 Sep 2026 23:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/beat-shazam-100-episodes-jamie-foxx-executive-producers-interview/
+### Practical Magic 2 Review: Sandra Bullock and Nicole Kidman Get a Flawed but Fantastical Reunion
+Tue, 08 Sep 2026 16:00:00 +0000 — https://www.thewrap.com/creative-content/reviews/practical-magic-2-review/
 
-Beat Shazam creator Jeff Apploff always knew that Jamie Foxx would be the secret sauce to his Fox game show s success. The executive producer recalled being brought to tears while shooting the first episode, in disbelief that the Oscar and Grammy winner — who he was told would be impossible to book — was actually engaging with the audience while hosting his musical show. Everybody told me you will never get this guy, he told TheWrap. And then I walked out [onto the Beat Shazam stage] and he was on the piano, singing to the audience, and everybody was singing along. I was like, Oh my God, look what we did!' Now 100 episodes, eight seasons and $10 million winnings later, Apploff knew that the risk was worth the reward. “Beat Shazam,” which premiered in May 2017, celebrates its 100th episode Monday — a milestone that Fox Television Network President Michael Thorn says is increasingly rare in the current television landscape. “It doesn t happen too often anymore that you get 100 episodes,” the executive told TheWrap. “100 episodes, that s like 50 seasons of a streaming show.” “At that time everybody started a game show,” Foxx recalled, pointing to projects associated with Kevin Hart, Dwayne Johnson and Justin Timberlake. “But we were the only ones to survive. They all fell off.” For Apploff, the show s staying power comes down to a combination of factors: a format built around music that viewers already love, contestants with something genuinely meaningful to win and a host who t
+Twenty-eight years ago, two sisters came together to bury an abusive ex, drink midnight margaritas and remember how to fall in love again. They conquered their differences, learned how to celebrate each other and faced what it truly meant to step into their own power. And critics hated it. But over time, director Griffin Dunne’s “Practical Magic” became a cult classic spanning generations. Now, it joins a growing trend of legacy sequels seeking to recapture the magic that sparked all those years ago. In its heart, Susanne Bier s Practical Magic 2 rekindles that magic with ease, but there are a couple of technical struggles that hold it back from being exceptional. As made evident in their thorough press tour, stars Nicole Kidman and Sandra Bullock have not skipped a beat as Gillian and Sally Owens. Some ease of this comes from the fact that, perhaps disappointingly, the sisters are pretty much exactly the same as when viewers left them nearly three decades ago. Gilly’s still free spirited and flirty, and Sally, after losing yet another husband, is wound up tighter than a jungle gym screw. The rest, though, is sheer, unflappable chemistry between two actresses that clearly adore each other. When Gary (formerly played by Aidan Quinn, but unseen in “Practical Magic 2”) dies, Sally casts a spell that erases both of her daughters’ memory of magic, swears off it herself, sells her herb shop and takes up life as a librarian. Gilly and aunts Frances (Stockard Channing) and Jet (Diann
 
-### On the Scene at TheWrap s Venice Film Festival Cocktail Party Photos
-Mon, 07 Sep 2026 22:55:26 +0000 — https://www.thewrap.com/multimedia/photos/thewrap-venice-film-festival-cocktail-party-2026/
+### ‘Godzilla Minus Zero’ Trailer Promises ‘There Is No 3rd Time’
+Tue, 08 Sep 2026 15:51:48 +0000 — https://www.thewrap.com/creative-content/movies/godzilla-minus-zero-trailer-imax/
 
-TheWrap toasted friends, filmmakers, producers and other Hollywood insiders at a special cocktail party at the Venice Film Festival on Saturday at Albergo Quattro Fontane, hosted by TheWrap CEO, founder and editor-in-chief Sharon Waxman. Waxman was on the ground with TheWrap s team in Venice covering the festival, with reviews, news and more . Peruse our gallery from the cocktail party below. (Credit: Eric Catarina for TheWrap) Sharon Waxman , TheWrap CEO & Editor in Chief and veteran publicist Donna Daniels (Credit: Eric Catarina for TheWrap) Donna Daniels and Sharon Waxman (Credit: Eric Catarina for TheWrap) TheWrap s Venice Film Festival Cocktail Party at Albergo Quattro Fontane on September 5th, 2026 Venice, Italy (Credit: Eric Catarina for TheWrap) TheWrap s Venice Film Festival Cocktail Party at Albergo Quattro Fontane on September 5th, 2026 Venice, Italy (Credit: Eric Catarina for TheWrap) Actor Benoit Sauvage and guest (Credit: Eric Catarina for TheWrap) Road to Jericho producer Itai Tamir, Sharon Waxman, and Alice Friedman Carones (Credit: Eric Catarina for TheWrap) Sharon Waxman and Laura Luchetti , director and screenwriter (Credit: Eric Catarina for TheWrap) Publicist Adele Ibbotson, artist Lawrence Atkinson, and publicist Matt Dinsdale (Credit: Eric Catarina for TheWrap) Neflix European PR and awards executives Tiffany Kizito and Aneeka Verma, Head of UK + EMEA Film Publicity at Netflix and Sharon Waxman (Credit: Eric Catarina for TheWrap) Director of Sydney Film
+“Godzilla Minus Zero” is lumbering nearer. The highly anticipated sequel to 2023’s “Godzilla Minus One,” the only film in the 70+ year franchise to ever win an Academy Award, arrives in theaters on Nov. 6 and will have its world premiere as the Spotlight Gala selection for the New York Film Festival on Saturday, Sept. 26. But ahead of the movie’s debut, TOHO and GKIDS have unleashed a brand-new trailer, which is appropriately epic given that this is the first Japanese production filmed for Imax. Watch it below. As the trailer states, two years have passed since the last film , meaning this entry takes place in 1949. And the realization that our heroes didn’t fully destroy Godzilla is settling in. They seemingly hatch a new plan to destroy Godzilla for good – at one point, it looks like some kind of zero-G energy field has taken over (“Minus Zero” indeed!) and at yet another point in the trailer, it seems like another kaiju will be introduced. There’s a particularly dramatic shot of Godzilla falling out of the sky. Who is he battling? Godzilla scholars will soon be interpreting the second shriek in the trailer for clues. This new trailer indicates that the mixture of large scale destruction and thorny moral implications, both touchstones of the last film, will return for “Godzilla Minus Zero.” At one point, we hear voiceover of a character uncomfortable with the moral boundary that has been crossed. Considering the 1954 original “Godzilla” was made in response to the nuclear a
 
 ## Collider
 
-### 'Dexter: Resurrection' Officially Ditches Dexter Morgan's Iconic Look
-Tue, 08 Sep 2026 14:36:11 GMT — https://collider.com/dexter-resurrection-season-2-trailer/
+### The Best Video Game of Every Year in the 2000s
+Tue, 08 Sep 2026 17:53:11 GMT — https://collider.com/best-video-game-every-year-2000s/
 
-Dexter Morgan is back in Dexter: Resurrection Season 2 and just in time for the spooky season! A new teaser for the second season of the hit Paramount+ series released throwing Dexter ( Michael C. Hall ) into New York City in the aftermath of Harrison's ( Jack Alcott ) and Dexter stumbling into a network of serial killers who all meet up in the city. After Dexter defended his "Dark Passenger" after killing Ronald "Red" Schmidt ( Marc Menchaca ) for pretending to be him, he took on the persona in order to take on Leon Prater ( Peter Dinklage ) and the rest is Season 1 history.
+When it comes to the best video games of all time, most fans will agree that the modern age is the best, with revolutionary titles such as Elden Ring and Red Dead Redemption 2 perfecting the formula even today. However, games were truly innovative and creative during the 2000s, containing good graphics, experimental gameplay, and a distinct sense of fun that hasn’t been seen since.
 
-### 'Godzilla Minus Zero' Is Officially Here With Jaw-Dropping First Look
-Tue, 08 Sep 2026 14:07:47 GMT — https://collider.com/godzilla-minus-zero-trailer-release-date/
+### 'Bridgerton' Star Haunts Jake Gyllenhaal in First Trailer for New M. Night Shyamalan Movie
+Tue, 08 Sep 2026 17:49:50 GMT — https://collider.com/m-night-shyamalan-remain-trailer-jake-gyllenhaal/
 
-Few monster movies in recent memory have had the impact of Godzilla Minus One . Takashi Yamazaki’s Oscar-winning reinvention of the King of the Monsters paired enormous kaiju spectacle with an unexpectedly intimate story about the people attempting to rebuild their lives in postwar Japan. Three years later, Godzilla is preparing to stomp back onto the big screen , and this time, Japan has barely had a chance to recover.
+The last two years have been relatively quiet for M. Night Shyamalan , who is one of the most successful directors of all time, despite some major misfires. Shyamalan helped usher back in the era of Josh Hartnett in 2024 with the release of Trap , the psychological thriller that’s now streaming on both Prime Video and HBO Max after grossing over $80 million at the box office against a $30 million budget. The year before Trap hit the screen, Shyamalan worked with Dave Bautista and former Harry Potter actor Rupert Grint on Knock at the Cabin , which can be found on Peacock at the time of writing. Shyamalan didn’t direct a film in 2025, and he doesn’t have anything lined up for release in 2026 either, but he is set to return to the screen next year for the premiere of Remain .
 
-### A New Retro Way to Experience Classic Film and Television Is Officially Here [Exclusive]
-Tue, 08 Sep 2026 14:00:11 GMT — https://collider.com/mga-miniverse-real-tv-first-look-video-collectible-movies-television-shows-images/
+### ‘Stargate’ Officially Proves Amazon Made a Huge Mistake by Cancelling Reboot Series
+Tue, 08 Sep 2026 17:35:49 GMT — https://collider.com/stargate-atlantis-streaming-success-mgm-plus-september-2026/
 
-In the streaming era, watching your favorite movie or television series has become more convenient than ever. Countless titles are available on-demand from just about anywhere through modern services like Netflix , Hulu , or HBO Max with a subscription, but there are also free streamers , like Pluto TV and Tubi, that offer extensive ad-supported catalogs of classics. Gone are the days of watching everything at home through bulky, box television sets with limitations based on whatever was airing at the time or whatever physical cartridges or discs were on hand. For those with a bit of nostalgia for the simpler times when video tapes were the only way to watch on-demand, MGA is shrinking the experience into a new, retro collectible made with film and TV fans in mind.
+Stargate fans experienced the thrill of victory and the agony of defeat in short order over the past 12 months. Last December, a reboot of the long-dormant science fiction franchise was announced to be in development at Prime Video, with several key staff members from the series' earlier incarnations on board. Then, earlier this year, that reboot was cancelled , after allegedly being too heavily targeted at Stargate 's existing fanbase. Now, the streaming success of the franchise is calling the logic of that decision into question.
 
-### How Is Daenerys Targaryen Related to Rhaenyra and Daemon?
-Tue, 08 Sep 2026 12:36:11 GMT — https://collider.com/game-of-thrones-house-of-the-dragon-daenerys-daemon-rhaenyra-targaryen/
+### The Best R-Rated Sci-Fi Thriller of All-Time Officially Returns to Theaters
+Tue, 08 Sep 2026 17:24:11 GMT — https://collider.com/jake-gyllenhaal-sci-fi-cult-clasic-donnie-darko-25th-anniversary-release-date-october-2026/
 
-Editor's Note: The following contains spoilers from Fire & Blood and potential spoilers for future seasons of House of the Dragon.
+All around us are familiar faces, and 25 years later, those familiar faces may just be finding their way back to us. Some movies stay with you, and while they might not hit with audiences immediately, they just need time. Quarter of a century might well be the case for Richard Kelly ’s ( Southland Tales ) strange mixture of science fiction , psychological thriller, and coming-of-age drama. Now, Frank is putting the rabbit suit back on.
 
-### If You Miss ‘Severance,’ This Forgotten 4-Season Sci-Fi Series Is the Perfect Replacement
-Tue, 08 Sep 2026 12:31:11 GMT — https://collider.com/severance-replacement-series-man-in-the-high-castle/
+### Twilight Officially Begins a New Era in 2027
+Tue, 08 Sep 2026 17:23:49 GMT — https://collider.com/twilight-2027-return-concert-us-tour-dates/
 
-Severance’s premiere in 2022 on Apple TV+ was a game-changer for those waiting for the return of the golden age of television. It wasn’t just the critique of corporate America. The Adam Scott vehicle was strange and specific in all the right ways. The story of a corporation “severing” their home and work memories has fans urging the show to release more stories following its Season 2 hiatus.
+Fall is approaching, which means “hoa hoa hoa season” is almost upon us once again. Nearly two decades after Kristen Stewart ( Spencer ) first arrived in Forks as Bella Swan and Robert Pattinson ( The Batman ) stepped into the sunlight as Edward Cullen, Twilight continues to attract new generations of fans. In 2027, they’ll have the chance to return to Washington.
 
-### 10 Near-Perfect Fantasy Movies You'll Want to Rewatch Immediately
-Tue, 08 Sep 2026 12:28:11 GMT — https://collider.com/perfect-fantasy-movies-rewatch-immediately/
+### It's Officially the End of an Era for 'South Park' After 29 Years
+Tue, 08 Sep 2026 17:10:27 GMT — https://collider.com/south-park-changes-name-south-america-season-29/
 
-Movies have been captivating the human imagination for around 130 years now, especially fantasy films. This comes as no surprise, given that fantasy is one of, if not the oldest, genres of storytelling and ever-growing special effects allow us to bring mythological creatures and alien worlds to life. Even if the effects of older classics don't quite hold up as well compared to modern ones, the best fantasy films can still be enjoyed thanks to how effectively they pull us into their worlds and make us believe for a few hours that the impossible is possible.
+Some people, true patriots, out there might say that South Park is the most patriotic television show of all time. It speaks to all of us as Americans, it teaches us the values and virtues of this great nation and it's now that the show, after 29 long and happy American years , is officially going national.
 
-### The 10 Greatest Battles in Fantasy Movies, Ranked
-Tue, 08 Sep 2026 12:14:11 GMT — https://collider.com/best-fantasy-movie-battles-ranked/
+### Laika Officially Doubles Down on Stop-Motion in the AI Era [Exclusive]
+Tue, 08 Sep 2026 17:01:11 GMT — https://collider.com/laika-travis-knight-explains-animating-wildwood-telluride-film-festival/
 
-The fantasy genre is one of the most well-known and well-loved for a good reason. Dating back to ancient mythology, these stories allow storytellers to go wild with their imagination and conjure forth all manner of fantastical elements, such as magic, brave heroes, and fire-breathing dragons. With the advancement of cinema, fantasy stories have been given a new medium to delight audiences, and they've never been more diverse.
+2026 has been a huge year for Travis Knight , who finally returned to the director’s chair for the Masters of the Universe movie that dropped in theaters back on June 5. It marked the first time since 2018’s Bumblebee that Knight had directed a film after he made his directorial debut just two years prior on Kubo and the Two Strings , the critically acclaimed animated feature starring Charlize Theron and Matthew McConaughey . Knight isn’t taking another eight-year break between films after Masters of the Universe , though. He’s officially returning to the big screen on October 23 for Wildwood , the next stop-motion animated film from Laika , the same studio behind the aforementioned Kubo and the Two Strings .
 
-### Tom Cruise’s Vampire Classic Is Officially an HBO Max Hit
-Tue, 08 Sep 2026 12:00:11 GMT — https://collider.com/interview-with-the-vampire-tom-cruise-hbo-max-streaming-september-2026/
+### 'Avengers: Doomsday' Star's New Globe-Trotting Fantasy Adventure Officially Debuts First Trailer [Exclusive]
+Tue, 08 Sep 2026 17:01:11 GMT — https://collider.com/treasure-trekkers-movie-trailer-alan-cumming/
 
-The most unexpected Tom Cruise character needs no introduction, and he knows it, for the entire 123 minute run-time of this classic. It's rare that a film's final scene, final line, or final needle drop are the best. But in this beloved horror film, all three are the case. Back in 1994, before the movie star became known for stunts and running , Cruise let loose as a melodramatic, seductive, bloodsucking vampire second only to Dracula in infamy. To paraphrase Homer Simpson , every time he's not on the screen you're wondering where he is—making his jump-scare entrance in the coda all the more delicious.
+Less than four months remain until Doomsday falls upon the MCU and unites heroes across generations to face Robert Downey Jr .'s Doctor Doom. Among the 20th Century Fox X-Men who have been brought out of retirement for the latest Avengers film is prolific The Traitors host Alan Cumming , who put away his wardrobe of fabulous outfits in exchange for the blue visage of Nightcrawler for the occasion, alongside former co-stars Patrick Stewart , Ian McKellen , Rebecca Romijn , James Marsden , and Kelsey Grammer . It was an experience he'd previously described as "healing" after the nightmarish production that was X2 , and now, the wait is nearly over to see him back in action over 20 years later. Before that, though, he's playing the villain for a much different globe-spanning adventure.
 
-### All 8 Upcoming Stephen King Movies and TV Shows, Ranked by Hype
-Tue, 08 Sep 2026 11:52:11 GMT — https://collider.com/upcoming-stephen-king-movies-shows-ranked/
+### Alan Ritchson Officially Leaves ‘Reacher’ Behind in Just 3 Days
+Tue, 08 Sep 2026 16:53:01 GMT — https://collider.com/alan-ritchson-new-action-movie-runner-release-date-september-2026/
 
-Stephen King is truly a master of modern horror and, aptly, the king of the genre. His stories, spanning dark fantasy, supernatural, gothic, and post-apocalyptic fiction, have often been a rich source of films and television for decades. From legendary auteurs like Stanley Kubrick , Frank Darabont , and John Carpenter to prolific modern directors like Mike Flanagan and Andy Muschietti , many iconic filmmakers have translated King’s chilling novels and novellas into terrific screen adaptations that rank among the best of horror cinema.
+Few stars have had a bigger year in 2026 than Alan Ritchson , who was mostly known for his role as Reacher coming into the year. Ritchson proceeded to break out of his Jack Reacher mold by starring in one of the biggest movies of the entire year with War Machine , the big-budget sci-fi thriller that earned over 135 million views. War Machine did well enough that it earned a spot in the Netflix top 10, and the streamer has already confirmed that a sequel to the film, titled War Machines , is officially in the works. Earlier this year, Ritchson starred in the virtually silent action thriller, Motor City , alongside recent Emmy-winner Shailene Woodley , who took home the award for her performance in Paradise . The film is now available to watch on VOD after grossing a few million at the global box office.
 
-### 10 Genuinely Perfect Psychological Thrillers, Ranked
-Tue, 08 Sep 2026 11:31:11 GMT — https://collider.com/perfect-psychological-thrillers/
+### ‘Ghost of Yōtei’ Officially Returns in 3 Weeks With New Release
+Tue, 08 Sep 2026 16:50:34 GMT — https://collider.com/ghost-of-yotei-dlc-echoes-of-sekigahara-release-date-october-2026/
 
-We love watching a good mind game unfold before us. The allure of a psychological thriller lies in seeing how characters inflict psychological terror or overcome it. Throughout movie history, there have been some extraordinary masterpieces of psychological thriller cinema , but only ten are genuinely perfect.
+2026 has been a great year for gaming already, but one 2025 game that had everyone talking is finally coming back for its first DLC soon. The most popular game in the world right now is The Blood of the Dawnwalker , the new vampire RPG from Rebel Wolves, the studio founded by the former game director of The Witcher 3: Wild Hunt . Next up on the gaming slate is Marvel’s Wolverine , the next game from Insomniac, the same studio who delivered all three Spider-Man games on PlayStation 4 and 5. Both games are leaving plenty of room for one of the biggest gaming launches in history, Grand Theft Auto 6 , which is Rockstar Games ’ official follow-up to Grand Theft Auto 5 and Red Dead Redemption 2 . Clair Obscur: Expedition 33 won Game of the Year last year, but most felt that Ghost of Yōtei at least deserved a nomination.
 

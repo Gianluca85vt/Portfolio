@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-08T14:46:06.153Z
+# AI — harvested 2026-09-08T17:55:17.092Z
 
 ## OpenAI
 
@@ -6,6 +6,11 @@
 Tue, 08 Sep 2026 13:00:00 GMT — https://openai.com/index/the-work-now-within-reach
 
 Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.
+
+### Funding grants for new research into AI and teen development
+Tue, 08 Sep 2026 09:00:00 GMT — https://openai.com/index/teen-development-research-grants
+
+Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.
 
 ### OpenAI expands initiatives to support journalism from classrooms to newsrooms
 Tue, 08 Sep 2026 00:00:00 GMT — https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms

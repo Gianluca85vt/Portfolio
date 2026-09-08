@@ -187,6 +187,11 @@ index += `> **Every draft needs \`sources:\` with two different outlets.** Not t
 index += `> links to the same publication, which is one source read twice. If only\n`;
 index += `> one outlet has the story, write it, keep \`draft: true\`, and say so in\n`;
 index += `> the first line of the body. See notes/article-voice.md.\n\n`;
+index += `> **A dated showcase gets two articles, not one.** A preview before it\n`;
+index += `> airs, carrying the stream link and the start time in Italian time, and a\n`;
+index += `> round-up an hour after it ends. Directs, State of Play, Xbox showcases,\n`;
+index += `> TGA, gamescom ONL, TGS. See notes/event-coverage.md and keep its\n`;
+index += `> watchlist current.\n\n`;
 index += `${report(articles)}\n`;
 index += `## Feeds\n\n`;
 

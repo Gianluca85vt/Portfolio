@@ -1,72 +1,87 @@
-# Manga — harvested 2026-09-08T14:46:06.153Z
+# Manga — harvested 2026-09-08T17:55:17.092Z
 
 ## Anime News Network
+
+### Junket Bank TV Anime's Premiere Delayed from October
+Tue, 08 Sep 2026 13:45:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/junket-bank-tv-anime-premiere-delayed-from-october/.241533
+
+Anime originally scheduled to premiere on October 5
+
+### The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3 ‒ Episode 34
+Tue, 08 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3/episode-34/.241480
+
+Kishika, as she is, resolves that the best way to get to know her hoard of new sister-girlfriends is to take them all on. In a fight, right?
+
+### The Apothecary Diaries Volumes 3-6 Novel Review
+Tue, 08 Sep 2026 12:51:36 -0400 — https://www.animenewsnetwork.com/review/the-apothecary-diaries/volumes-3-6/.241242
+
+Helping powerful people is just an occupational hazard.
+
+### Mushoku Tensei: Jobless Reincarnation III ‒ Episode 11
+Tue, 08 Sep 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-11/.241475
+
+We're not going to have to wait 50+ episodes to find out what's in the basement, right?
+
+### Godzilla Minus Zero Film Streams IMAX Trailer
+Tue, 08 Sep 2026 12:18:25 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/godzilla-minus-zero-film-streams-imax-trailer/.241527
+
+Movie "filmed for IMAX" opens in Japan on November 3, N. America on November 6
+
+### Street Fighter 6 Game's Videos Reveal Arjun's Release on October 13
+Tue, 08 Sep 2026 12:02:27 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/street-fighter-6-game-videos-reveal-arjun-release-on-october-13/.241528
+
+Fighting Pass for Arjun begins on Tuesday
+
+### Atelier Karia Game's 2nd Trailer Reveals February 25 Release
+Tue, 08 Sep 2026 11:45:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/atelier-karia-game-2nd-trailer-reveals-february-25-release/.241526
+
+Game launches worldwide for Switch 2, PS5, Xbox X|S, PC
+
+### Hotel Inhumans Anime's 2nd Season Reveals Theme Song Artists, October 4 Debut
+Tue, 08 Sep 2026 11:30:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/hotel-inhumans-anime-2nd-season-reveals-theme-song-artists-october-4-debut/.241515
+
+Artist GAN performs opening song "Rasen," girl group Phantom Siita perform ending song "Sweet Pea"
+
+### You and I Are Polar Opposites Season 2 ‒ Episode 10
+Tue, 08 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-10/.241474
+
+As stable as the relationships of the official couples might be, the characters themselves still have plenty of growing to do
+
+### Ace of Diamond Act II Second Season's 2nd Part Announces New Cast Member, October 11 Debut
+Tue, 08 Sep 2026 11:15:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/ace-of-diamond-act-ii-second-season-2nd-part-announces-new-cast-member-october-11-debut/.241517
+
+Daisuke Sakuma joins series as Shinichiro Saotome
+
+### The Legend of Zelda: Ocarina of Time Switch 2 Remake Game's Videos Reveal November 5 Release
+Tue, 08 Sep 2026 10:45:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/the-legend-of-zelda-ocarina-of-time-switch-2-remake-game-videos-reveal-november-5-release/.241522
+
+Gameplay videos previews new visuals, voice acting, additional features
 
 ### Iron Wok Jan! ‒ Episode 10
 Tue, 08 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-10/.241471
 
 Jan’s bloody wallowing is so upsetting and personal that even Okonogi and Kiriko are unable to provide some measure of comfort - instead leaving him to sit in a pool of his own bloody remorse.
 
-### This Week in Anime - There's Always More Drama
-Tue, 08 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-08/.241486
-
-After exploring the world of K-Drama, Sylvia and Coop decide to tackle Japan's offerings in the genre.
-
-### Hands-On Preview: Gundam Rogue Orbit Brings Smooth Action Mech Gameplay
-Tue, 08 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-08/hands-on-preview-gundam-rogue-orbit-brings-smooth-action-mech-gameplay/.241500
-
-Players who've dabbled in other mech games like <i>Gundam Breaker</i> and <i>Armored Core</i> will find that <i>Rogue Orbit</i> feels comfortably familiar.
-
-### Draw This, Then Die! ‒ Episode 9
-Tue, 08 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/draw-this-then-die/episode-9/.241452
-
-Are you more interested in creating something for yourself or an audience?
-
-### This Week in Mobile Games - The Gamesman Cometh
-Tue, 08 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-09-08/.241060
-
-Josh picks up where Jean-Karlo left off to wrap up the Gamescom news.
-
-### Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 20
-Tue, 08 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-20/.241451
-
-Georgine's defining fashion sense is a veil, as in what she does with her true intentions. Its love of literature does not mean Bookworm is beholden to utilizing particularly dense subtext.
-
-### The Elusive Samurai Season 2 ‒ Episode 8
-Tue, 08 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-8/.241443
-
-Mima Sasaki is a scheming little crime-goblin with magic powers and a penchant for high-stakes gambling. She's perfect, and she must be protected at all costs.
-
-### Ghibli Co-Founder Toshio Suzuki Addresses 'Ghibli-Style' AI Images for 1st Time
-Tue, 08 Sep 2026 07:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-08/ghibli-co-founder-toshio-suzuki-addresses-ghibli-style-ai-images-for-1st-time/.241492
-
-Producer also discusses whether Hayao Miyazaki will make another movie
-
-### Nia Liston: The Merciless Maiden Anime's 2nd Video Unveils More Cast, Half-Year Run
-Tue, 08 Sep 2026 06:20:10 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/nia-liston-the-merciless-maiden-anime-2nd-video-unveils-more-cast-half-year-run/.241514
-
-Kōichi Sakaguchi, Junichi Suwabe, Maaya Uchida, Kazuyuki Okitsu join cast of October 6 series
-
-### Magic Repo Man Anime's 2nd English-Subtitled Trailer Reveals More Cast, Theme Songs
-Tue, 08 Sep 2026 06:03:13 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/magic-repo-man-anime-2nd-english-subtitled-trailer-reveals-more-cast-theme-songs/.241512
-
-Daisuke Namikawa joins cast of October 4 series
-
-### We Are Aliens Film Streams 'Theme Song Trailer'
-Tue, 08 Sep 2026 05:01:10 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/we-are-aliens-film-streams-theme-song-trailer/.241510
-
-New trailer features never-before-released part of adieu's "Sasakure" theme song
-
-### The World is Dancing Anime Casts Nobunaga Shimazaki
-Tue, 08 Sep 2026 01:59:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/the-world-is-dancing-anime-casts-nobunaga-shimazaki/.241498
-
-Shimazaki plays protagonist Oniyasha as young adult
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Crunchyroll Reveals New York Comic Con 2026 Lineup With The Apothecary Diaries, Sentenced to Be a Hero, Black Clover and More
+Tue, 08 Sep 2026 16:33:29 GMT — https://animecorner.me/crunchyroll-reveals-new-york-comic-con-2026-lineup-with-the-apothecary-diaries-sentenced-to-be-a-hero-black-clover-and-more/
+
+Crunchyroll has announced its New York Comic Con 2026 programming lineup, featuring panels, screenings&hellip;
+
+### Exclusive Preview: TEZUKA! God of Manga Documentary Launches Kickstarter Campaign
+Tue, 08 Sep 2026 16:03:59 GMT — https://animecorner.me/exclusive-preview-tezuka-god-of-manga-documentary-launches-kickstarter-campaign/
+
+A new feature-length documentary on Osamu Tezuka, TEZUKA! God of Manga, has launched a&hellip;
+
+### Attack on Titan Day Celebrated With 99 Announcements, New Key Visual, Video, Hajime Isayama Art, YouTube Channel and More
+Tue, 08 Sep 2026 15:13:54 GMT — https://animecorner.me/attack-on-titan-day-celebrated-with-99-announcements-new-key-visual-video-hajime-isayama-art-youtube-channel-and-more/
+
+September 9 is being celebrated as the first officially recognized Attack on Titan Day, with the franchise sharing 99 pieces of news.
 
 ### The Legend of Zelda: Ocarina of Time Remake Reveals Gameplay and New Features, November 5 Launch
 Tue, 08 Sep 2026 14:28:49 GMT — https://animecorner.me/the-legend-of-zelda-ocarina-of-time-remake-reveals-gameplay-and-new-features-november-5-launch/
@@ -113,22 +128,12 @@ Tue, 08 Sep 2026 02:27:31 GMT — https://animecorner.me/genshin-impact-x-baskin
 
 Genshin Impact collaboration with Baskin-Robbins Japan, known locally as 31 Ice Cream, began on&hellip;
 
-### Katekyo Hitman Reborn! Anime Reveals Fourth Ending Video Featuring "friend" by IDOLING!!!
-Tue, 08 Sep 2026 02:13:57 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-fourth-ending-video-featuring-friend-by-idoling/
-
-Katekyo Hitman REBORN! anime released the creditless version of its fourth ending, featuring the song "friend" by IDOLING!!!.
-
-### Japan Weekend Madrid 2026 Finalizes Japanese Guest Lineup, to Feature Katsuyuki Konishi, Machico, Liella!, May'n, bôa & More
-Tue, 08 Sep 2026 02:13:45 GMT — https://animecorner.me/japan-weekend-madrid-2026-finalizes-japanese-guest-lineup-to-feature-katsuyuki-konishi-machico-liella-mayn-boa-more/
-
-The Spanish convention Japan Weekend confirmed its full Japanese guests line up for its&hellip;
-
-### Interview: German-Japanese Duo SOSOSO tokyo_berlin
-Tue, 08 Sep 2026 02:08:43 GMT — https://animecorner.me/interview-german-japanese-duo-sososo-tokyo_berlin/
-
-During our last visit to DoKomi, we interviewed the German-Japanese duo SOSOSO tokyo_berlin before&hellip;
-
 ## MyAnimeList News
+
+### Broadcast of Junket Bank Postponed
+Tue, 08 Sep 2026 10:06:39 -0700 — https://myanimelist.net/news/74688429?_location=rss
+
+The official website of the Junket Bank anime series announced on Tuesday that the broadcast has been postponed indefinitely. The anime series adapted from Ikkou Tanaka s Junket Bank gambling thriller manga was originally planned to premiere October 2026. A new broadcast date has yet to be announced. The staff explained that additional production time is necessary to meet the expectations of fans and to match the quality of the original work. Seiji Kishi (Ansatsu Kyoushitsu) is directing th...
 
 ### Kyouran Reijou Nia Liston Reveals Additional Cast, Second Promo, Two Consecutive Cours
 Tue, 08 Sep 2026 02:27:18 -0700 — https://myanimelist.net/news/74687352?_location=rss
