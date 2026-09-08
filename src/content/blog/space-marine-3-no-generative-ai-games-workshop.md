@@ -4,7 +4,6 @@ date: 2026-09-08
 category: AI
 excerpt: Saber's CCO says there is absolutely no genAI in Space Marine 3 or Jurassic Park. Saber's own small game used it. The licence holder is the dividing line.
 cover: /img/blog/space-marine-3-no-generative-ai-games-workshop/shot-01.jpg
-draft: true
 ---
 
 Hellraiser. Stuntman. Turok. Jurassic Park. John Wick. Space Marine 3.
