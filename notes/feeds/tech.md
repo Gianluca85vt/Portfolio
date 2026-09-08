@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-07T20:09:04.173Z
+# Tech — harvested 2026-09-08T09:06:43.281Z
 
 ## Ars Technica
 
@@ -18,6 +18,16 @@ Sun, 06 Sep 2026 10:00:35 +0000 — https://arstechnica.com/science/2026/09/farm
 Eat more fatty fish. That dietary advice has changed the way the world consumes salmon, pushing consumer demand ever upward and production to higher and higher levels. Most of that demand is being met with farmed salmon: Today, nearly 70 percent of the salmon consumed on the planet are raised in pens and cages. The US Department of Agriculture’s Dietary Guidelines for Americans recommend eating at least 8 ounces of fish a week and urges people to choose salmon or other species that are similarly high in “heart-healthy” Omega-3 fatty acids. But new research led by USDA scientists finds that levels of these fatty acids in farmed salmon have dropped considerably, potentially making the agency’s own advice, and similar recommendations, including from the American Heart Association, outdated and insufficient. Read full article Comments ]]>
 
 ## The Verge
+
+### Xiaomi’s wide foldable promises more power than Samsung’s
+2026-09-08T03:00:00-04:00 — https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide
+
+Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same . I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8 , superior specs make it feel like the phone I wish Samsung had made. The 18 Fold is Xiaomi's first book-style foldable since 2024's Mix Fold 4 , but the company has followed Huawei and Samsung in moving to a short, squat design. Xiaomi's phone goes further though: it's both shorter and wider than Samsung's, with a roughly 1.4:1 aspect ratio on both the 7.58-inch inner and 5.38-inch outer s … Read the full story at The Verge. ]]>
+
+### First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost
+2026-09-07T22:00:00-04:00 — https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3
+
+The Xiaomi 18 Fold and its Xring O3 chip. China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip . What's so special about that? After five years of development, Arm now has an AI gaming graphics accelerator inside its GPU. By following Nvidia's playbook, Arm-powered phones are about to have PC-like technologies to make games run faster, at higher resolution, with advanced lighting techniques, all without using more power than they do today. The jagged edges you see in the mobile versions of popular … Read the full story at The Verge. ]]>
 
 ### Audi’s new A2 E-tron is its most affordable and efficient EV yet
 2026-09-07T16:03:41-04:00 — https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price
@@ -59,17 +69,17 @@ The OpenAI logo is displayed on a smartphone screen placed on a reflective surfa
 
 An Amazon cargo plane crashed at Miami International Airport on September 06, 2026. | Photo: Joe Raedle / Getty Images A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement saying: 21 Air Flight 7598 overran the runway after landing at Miami International Airport around 2 p.m. local time on Sunday, Sept. 6. The Boeing 767-300 cargo aircraft departed from Luis Mu&ntilde;oz Mar&iacute;n International Airport in San Juan, Puerto Rico. As a result, flights at the airport were grounded and over 60 M … Read the full story at The Verge. ]]>
 
-### Europe has its first commercial orbital rocket
-2026-09-06T15:04:22-04:00 — https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch
-
-German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket . It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded . This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport. CEO and Co-Founder Daniel Metzler said in a press release : "Today, Isar Aerospace opened space from Continental Europe. Launch continues to be the largest bottleneck for the global space industry and from today on, there is a true alternative for commercial and institutional customers … Europe no … Read the full story at The Verge. ]]>
-
-### Boox’s tiny Picco e-reader should land in November
-2026-09-06T12:28:58-04:00 — https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa
-
-Boox teased the Picco , its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to a phone. The 3.97-inch e-paper display, however, will be touchscreen, which The Verge's Andrew Liszewski called a "welcome upgrade" on the X4 Pro . The Picco has physical page-turn buttons, and they can be customized with different actions for short and long presses. There's apparently no onboard storage, and it relies entirely on a microSD card to h … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Intel surpasses one million High-NA EUV wafers processed, outpaces the rest of the industry combined — company also trailblazing giant 6×12 photomasks to speed production and lower costs
+Tue, 08 Sep 2026 06:00:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/intel-surpasses-one-million-high-na-euv-wafers-processed-outpaces-the-rest-of-the-industry-combined-company-also-trailblazing-giant-6-12-photomasks-to-speed-production-and-lower-costs1
+
+Intel announced on Monday that it had processed more than one million 300-mm wafers using its High-NA EUV scanners, less than two and a half years after its first tool was assembled. For now, the company intends to use industry-standard 6-inch photomasks, which can expose 26×16.5 mm half-fields and therefore require field stitching for larger chips. However, Intel is also working on larger 6×12-inch photomasks that would enable High-NA EUV scanners to expose full 26×33 mm fields without stitching. One million High-NA wafers Intel's one million wafers figure includes wafers processed during tool installation and certification, R&D, and production. Earlier this year, Intel certified using High-NA EUV scanners for its 18A process technology, so right now these tools are used to make some of Intel's Panther Lake processors. Intel currently has two ASML Twinscan EXE:5000 tools and at least one EXE:5200B scanner. As of late February 2025, Intel processes around 30,000 wafers using its High-NA EUV tool, so going from 30,000 wafers by February 2025 to over a million by September 2026 is an enormous increase in cumulative High-NA utilization. Since Intel's fleet expanded from two EXE:5000 systems to three and now includes the much faster EXE:5200B, the million-wafer milestone is really a fleet and process-maturity milestone that Intel has achieved first in the industry. What makes the company's milestone even more important is that ASML announced this April that all of the High-NA EUV
+
+### Arm debuts next-gen semi-custom Neoverse CSS N4 ‘Ranger’ platform — compute subsystem packs up to 128 cores per die on TSMC N3P
+Tue, 08 Sep 2026 02:00:00 +0000 — https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p
+
+Arm is bringing its next-gen Neoverse CSS N4 platforms to the cloud, sporting up to 128 cores per die, built on TSMC’s N3P process. Arm’s Compute Subsystem, or CSS, is a semi-custom program that allows customers to design a chip based on Arm’s IP, configuring components like core count, cache size, I/O, and connectivity to fit their specific needs. It’s the same platform we’ve seen at work everywhere from CPUs at Azure and Google Cloud to DPUs at Nvidia and Intel. Arm says Neoverse CSS N4 supports between eight and 128 Neoverse N4 cores, running up to 3.8 GHz. Presumably, the clocks drop as the core count rises; Arm didn’t clarify the maximum clocks for each possible configuration. At a system level, Neoverse CSS N4 can scale beyond 128 cores, with support for multi-chiplet and multi-socket designs, and with support for UCIe through chip-to-chip interconnects, as well as “partner-specific PNYs.” The platform supports either DDR5 or LPDDR6, and features up to 256 MB of L3 cache per die. For local cache, Arm includes up to 2 MB of L2 per core, as well as 64 KB of L1 instruction cache and 64 KB of L1 data cache per core. For I/O, Arm supports up to 128 lanes of PCIe 7/6 and CXL 4.0. It’s a significant upgrade over the Neoverse CSS N2 platform, which topped out at just 64 cores, 1 MB of L2 cache per core, and 64 MB of L3 cache, paired with either DDR5 or LPDDR5 and 64 PCIe 5.0/CXL lanes. (Image credit: Arm) With 128 cores running at 3GHz and 2MB of L2 cache per core, Arm says Neo
 
 ### Save up to 38% on a new gaming PC before the Labor Day sales end and beat the price rises — lock down last-minute savings on new pre-built rigs from Best Buy, Newegg, and Walmart
 Mon, 07 Sep 2026 16:00:16 +0000 — https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-38-percent-on-a-new-gaming-pc-before-the-labor-day-sales-end-and-beat-the-price-rises-lock-down-last-minute-savings-on-new-pre-built-rigs-from-best-buy-newegg-and-walmart
@@ -121,17 +131,12 @@ Mon, 07 Sep 2026 10:47:25 +0000 — https://www.tomshardware.com/video-games/pla
 
 The developers of the Sony PlayStation 3 emulator RPCS3 have told their social media followers that it is now possible to play games straight from discs. As announced on Twitter/X, the emulator’s latest refinement works only with certain internal and external Blu-ray drives. Happily for retro gamers, there’s a lengthy compatibility list of drives featuring many models and brands, and the same drives are also compatible with dumping your media to fixed storage. You can now play your PS3 games on PC... DIRECTLY FROM THE DISC DRIVE!💿 PLUG AND PLAY! Owning your games as physical media allows you to play games released as far back as 20 years ago without relying on any servers!See compatible disc drive models at https://t.co/nSzG5S954L pic.twitter.com/d1uKE7Bpyr September 6, 2026 Above you can see the RPCS3 devs are pretty happy with the slick new “plug and play” refinements that are available to users of the latest version of the emulator. “You can now play your PS3 games on PC... DIRECTLY FROM THE DISC DRIVE!” boast the open source emulator programmers. “PLUG AND PLAY! Owning your games as physical media allows you to play games released as far back as 20 years ago without relying on any servers!” The RPCS3 team thanks digant73 and Megamouse , specifically, for contributions making this feat possible. Indeed, this is another step forward in making a slick emulator that works in a surprisingly frictionless fashion. Though the Tweet mentions PC, specifically, extended disc drive 
 
-### Flea market shopper uncovers $1,500 worth of Samsung SSDs inside a $30 expansion card — Three 2TB 980 Pro drives were hidden beneath an Asus Hyper M.2 heatsink
-Mon, 07 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/pc-components/ssds/flea-market-shopper-uncovers-usd1-500-worth-of-samsung-ssds-inside-a-usd30-expansion-card-three-2tb-980-pro-drives-were-hidden-beneath-an-asus-hyper-m-2-heatsink
-
-Storage has gotten exponentially more expensive in the past year thanks to the ongoing component crisis. During times like these, scoring a deal feels extra special, especially when it's as bountiful as what @whateversunnyfinds (Sunny) stumbled upon in a local flea market. He hunted down a seemingly menial PCIe expansion card from Asus for $30, only to open it and find three Samsung 980 Pro 2TB SSDs already slotted inside. A post shared by Sunny (@whateversunnyfinds) A photo posted by Each of those drives is worth at least $400 today, if not more. We found the 980 Pro 2TB listed for $444 on Amazon and $499 on Newegg , which makes three of them worth between $1,300 and $1,500 together. The expansion card holding them is an Asus Hyper M.2 x16 Gen 4 that retails for $79 , so even if there were no SSDs inside, this would be a solid find. The card looks worn down but not quite beat up, while the drives honestly appear mint. An expansion card like this allows you to install extra M.2 drives in your system by using an x16 slot usually meant for GPUs. Just three of the four slots on the card were populated, so there's a chance someone took out one SSD and threw this thing in the trash. If the original owner only ever installed three, they could've forgotten to check since the heatsink covers the drives underneath. As for the thrifter, Sunny is from Kuwait City, and he frequents the largest flea market in the region called "Souq-al-Juma" — Arabic for "Friday Market." These open-air bu
-
-### This price-hike-busting RTX 5080 gaming PC is cheaper than it was in April — save $500 on a 9800X3D beast with 32GB of DDR5, 2TB SSD
-Mon, 07 Sep 2026 10:27:52 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/this-price-hike-busting-rtx-5080-gaming-pc-is-cheaper-than-it-was-in-april-save-usd500-on-a-9800x3d-beast-with-32gb-of-ddr5-2tb-ssd
-
-The price of PC parts continues to rise on a daily basis, so finding a monstrous gaming PC cheaper than it was in April is no small feat. Right now at Newegg, you can score an RTX 5080 gaming PC with a 9800X3D CPU, the ultimate in 4K gaming performance, for $2,999 . A $500 saving that makes it cheaper than when we covered this same deal back in April. ● Check out this deal on Newegg's website The individual cost of some of these components makes this a pretty remarkable deal in Fall 2026. The RTX 5080 GPU in this rig alone will set you back more than $1,500 in today's market. The CPU is nearly $500, bringing the cost of just those two components to 2/3 of the build's entire price. RAM and SSD prices are heavily inflated, which means 32GB of DDR5 would normally set you back $400 right now. Add the storage to the bill of materials, and you've covered nearly the entire cost of this PC before you've added the case, fans, cooler, motherboard, and PSU. With the best CPU for gaming on the market and a huge GPU, this PC is no slouch either. Grab a huge saving on this ABS Kaze II Aqua gaming PC, made and shipped by Newegg. It comes equipped with an AMD Ryzen 7 9800X3D, Nvidia GeForce RTX 5080, 32GB of DDR5 RAM, and a 2TB SSD. View Deal While the 9800X3D is not quite the fastest gaming CPU on the market these days, it is still the best all-rounder by some distance thanks to its combination of power efficiency and performance compared to the 9850X3D. This 8-core, 16-thread CPU chews thr
-
 ## Phoronix
+
+### FreeBSD 14.5 Released With Hardware Support Improvements, Many Bug & Security Fixes
+Mon, 07 Sep 2026 20:35:33 -0400 — https://www.phoronix.com/news/FreeBSD-14.5-RELEASE
+
+For those that haven't yet made the move to FreeBSD 15 with still relying on FreeBSD 14 in production, out today is FreeBSD 14.5-RELEASE...
 
 ### Mysterious x86 CPU Already Has APX, x86S Where Intel Left Off For Legacy-Free x86
 Mon, 07 Sep 2026 15:54:23 -0400 — https://www.phoronix.com/news/x86-CPU-With-APX-x86S
@@ -188,12 +193,32 @@ Sun, 06 Sep 2026 06:53:22 -0400 — https://www.phoronix.com/news/Asahi-Linux-Of
 
 Asahi Linux developers announced today that they are now officially supporting the Linux distribution on Apple M3 powered Macs. With the exception of the Mac Studio M3 Ultra, other M3 / M3 Pro / M3 Max devices should now work with the latest Asahi Linux builds but with some feature caveats...
 
-### LLVM Developers Discuss Enabling ClangIR Build By Default
-Sun, 06 Sep 2026 06:43:10 -0400 — https://www.phoronix.com/news/ClangIR-Build-Default-Maybe
-
-ClangIR has been in development for a number of years now as a new intermediate representation for the Clang compiler. ClangIR makes use of MLIR and is higher-level than LLVM IR. With ClangIR able to preserve more C/C++ source semantics, its usage can lead to better diagnostics, code/static analysis, and more performance optimizations compared to everything lowered straight away from AST to LLVM IR. While not enabling its usage by default, LLVM stakeholders are discussing at least now building it by default...
-
 ## The Register
+
+### Britain reboots its space strategy with £7.8B already on the launchpad
+Tue, 08 Sep 2026 11:00:00 +0200 — https://www.theregister.com/public-sector/2026/09/08/britain-reboots-its-space-strategy-with-78b-already-on-the-launchpad/5294839
+
+The UK government has corralled £7.8 billion of cross-departmental spending into a new space strategy intended to boost growth and national security through to 2030. The package covers orbital collision warnings, low Earth orbit communications, military intelligence, launch capabilities, and space science. The strategy brings together activity across government, including the newly created Department for Business, Innovation, Science and Trade (BIST), the Ministry of Defence (MoD), the Department for Transport, UK Research and Innovation, and the Met Office. The government says the domestic space sector is worth £18.6 billion and supports more than 55,000 skilled jobs. In a prepared statement, BIST Secretary Jonathan Reynolds said space was becoming a new frontier of economic and military competition. "This plan will help keep Britain secure by strengthening our ability to launch satellites, detect threats and protect the services people rely on every day. At the same time, this plan will enable our excellent UK industry to seize the boundless opportunities of this new age in space, creating skilled jobs, driving growth and improving connectivity for all of us." The plans include work to strengthen space domain awareness – tracking and analyzing satellites, rockets, and debris in orbit – backed by £149 million for European Space Agency (ESA) space safety work, including the Vigil mission, and £85 million for the National Space Operations Centre. The funding is intended to imp
+
+### Arm pushes agentic AI and desktop-quality graphics in next-gen phone platform
+Tue, 08 Sep 2026 10:35:00 +0200 — https://www.theregister.com/systems/2026/09/08/arm-pushes-agentic-ai-and-desktop-quality-graphics-in-next-gen-phone-platform/5294867
+
+Arm's latest smartphone platform is optimized for running AI agents on mobile devices and introduces neural graphics that it claims can deliver desktop-class gaming within a smartphone's power constraints. Announced at the Arm Everywhere China event in Shanghai today, Compute Subsystem (CSS) for Mobile 2 succeeds last year's Lumex CSS and reflects Arm's embrace of AI as a strategy for future growth. Arm sees itself as central to this shift, arguing that AI workloads currently run largely in the cloud but will increasingly move to devices at the network edge. "When every interaction has to travel to a datacenter and back, there's implications for latency, connectivity, the cost of delivering those services at enormous scale, so this is where we're seeing it becoming more distributed, and I think few doubt now that basically everything you can push to the edge you will," says Arm's EVP of Edge AI, Chris Bergey. AI has evolved from background capabilities such as speech recognition and image processing into tools people actively engage with, including generative assistants, Bergey claims. Agentic AI goes further by interpreting objectives, coordinating applications and models, and executing sequences of actions. "So you have repeated inference, application logic, system orchestration, multiple workloads operating concurrently, and so that means you don't just need more CPU performance. You need multiple high-performance CPUs working in parallel to keep all those different worklo
+
+### HPE makes its “unified storage” claim real as B10000 R6 hits GA
+Tue, 08 Sep 2026 10:00:00 +0200 — https://www.theregister.com/storage/2026/09/08/partner-content-hpe-makes-its-unified-storage-claim-real-as-b10000-r6-hits-ga/5294566
+
+Storage vendors have been calling things “unified” for years. Sometimes that means one architecture. Sometimes it means several products sharing a management screen and a marketing budget. The term has accumulated enough baggage that a little skepticism is warranted. HPE Alletra Storage MP B10000 Release 6, announced in May, is now generally available. It brings block and file onto the same disaggregated scale-out architecture and OS code base, with independent scaling of performance and capacity and native ransomware detection across both. That’s important because enterprise storage is becoming less of an array decision and more of an architectural one. HPE was recently named a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise Storage Platforms, which provides useful context, but a quadrant is still a snapshot. GA code is where the architecture has to prove itself. Unified, but not universal The B10000 is not intended to become the answer for every file workload in the data center. Massive-scale, performance-oriented unstructured workloads such as AI, analytics, EDA and media remain better suited to HPE Alletra Storage MP X10000. The aim with the B10000 is narrower and, arguably, more useful: consolidating block and adjacent file workloads onto a common architecture without forcing customers to scale controllers and capacity together. That distinction matters. Vendors have offered “unified” storage before, but the harder question is what is actually shared underneat
+
+### ‘Global reckoning’ is coming for big tech, says Australian minister
+Tue, 08 Sep 2026 07:51:35 +0200 — https://www.theregister.com/legal/2026/09/08/global-reckoning-is-coming-for-big-tech-says-australian-minister/5294909
+
+Australia’s government will introduce legislation that tries to regulate digital services and impose a “digital duty of care.” “For too long, tech companies have been running real-time, unregulated product testing on Australians,” Minister for Communications Anika Wells said today. “In the same way that we have safety standards for cars, for food, and for appliances, Australia is getting basic safety standards for the online tools and online services,” she added. “Tech companies will still be allowed to move fast, but they will not be able to break things.” Meta, in its early years when still known as Facebook, used the term “Move fast and break things” to describe its internal processes for creating and updating its services. The premise of Australia’s plans is that Meta, and other digital platforms, broke far more than they intended in pursuit of profit. Prime Minister Anthony Albanese framed the planned digital duty of care as a successor to the law that means social media companies are not allowed to provide accounts to children aged under 16. “We would no longer let Australian children be treated as commodities,” he said. “We have the opportunity to shape tech for the better, rather than have it shape us.” The proposed law aims to shape tech by requiring social media companies to give Australian users the chance to determine what they see in their feeds. Some in Australia have criticized the planned law as government censorship. Albanese tried to counter that notion by s
+
+### Huawei proudly shows off an entirely un-American chip
+Tue, 08 Sep 2026 04:22:05 +0200 — https://www.theregister.com/systems/2026/09/08/huawei-proudly-shows-off-an-entirely-un-american-chip/5294900
+
+Huawei has launched a new processor it claims is free of US technology and is using it to drive a new three-screen folding phone. The Chinese giant dubbed the new processor the Kirin 950 Pro and says its LinxiCore processor cores, GPU, and neural processing unit all feature its own designs. The SoC into which Huawei added them uses the "Tau Scaling” architecture that Huawei says arranges components closer to each other to reduce die size and improve performance without needing the kind of advanced chipmaking processes practiced by TSMC and Intel. As The Register wrote when Huawei announced Tau Scaling last May, analysts think Huawei has done interesting things with its silicon but don’t think the company has made any breakthroughs. Huawei begs to differ and says its new silicon offers 42 percent higher performance than the chip it used in the three-screen phone it delivered last year. The Chinese company uses the Kirin 950 Pro in its new three-screen phone, the $2,979 Mate XT2. Analyst firm Counterpoint thinks Huawei will exit 2026 with 24 percent of the total folding phone market, which it believes accounted for 1.6 percent of smartphone sales last year. Huawei therefore has itself a chip that targets the high end of a market niche – and announced it a couple of days before pundits believe Apple will debut a folding iPhone that Counterpoint predicts will win 25 percent of the folding phone market by the end of the year. Huawei’s Kirin 950 Pro will therefore hardly make a den
 
 ### Matt Clifford to leave ARIA before Anthropic role becomes a 'distraction'
 Mon, 07 Sep 2026 18:02:47 +0200 — https://www.theregister.com/public-sector/2026/09/07/matt-clifford-to-leave-aria-before-anthropic-role-becomes-a-distraction/5294861
@@ -230,94 +255,74 @@ Mon, 07 Sep 2026 15:01:09 +0200 — https://www.theregister.com/os-platforms/202
 
 The Asahi Linux gang has announced support for Apple's M3 silicon, with a few ifs and buts for owners that want to try out the code on their hardware. According to the project, "Asahi Linux now officially supports Macs with an M3 series SoC!" There are, however, some substantial caveats. Want performant or power-efficient 3D acceleration from the GPU? You'll need to wait a bit. How about the HDMI port? "The lack of DCP support means that the HDMI port on equipped MacBooks is currently disabled." Sleep does not work either, although the project noted: "This will be addressed once full DCP support is wired up for M3." Even with those limitations, it is quite a feat of reverse engineering. According to the project, almost everything supported on the M1 and M2 series machines "just works." This includes the webcam, internal microphones, USB, hardware-accelerated video decoding including support for AV1, Wi-Fi, and Bluetooth. The lack of GPU support is nevertheless a significant limitation that will make anything other than a 2D desktop a painful experience. Work is underway, but the synopsis of a talk planned for the X.Org developer conference at the end of September points to hurdles caused by hardware differences from previous generations. Although support for M3-series machines has been merged into the installer, it remains gated behind Expert mode, meaning users must run the installer with EXPERT=1 enabled. The project aims to drop this requirement in time for the Fedora Linu
 
-### Nitter lives to proxy another day after taking legal advice
-Mon, 07 Sep 2026 14:30:00 +0200 — https://www.theregister.com/personal-tech/2026/09/07/nitter-lives-to-proxy-another-day-after-taking-legal-advice/5294754
-
-The Nitter project will continue "following legal advice," meaning XCancel, a public service built on its open source code, is back online. As of September 7, nitter.net displayed the announcement: "Following legal advice, the Nitter project will continue. This instance and others will be back up and running shortly." XCancel, a public instance built on Nitter, was operational again. Nitter is a free, open source front end for reading posts on X, the platform formerly known as Twitter before it was acquired and rebranded by self-described "free speech absolutist" Elon Musk. It requires no X account and, according to the project's repository, offers "zero ads" with "no JavaScript required." However, using Nitter or an instance based on it, such as XCancel, can feel like a game of Whac-A-Mole, with frequent changes required whenever X restricts another means of accessing its data. In January 2024, maintainer zedeus declared the project dead after X disabled the guest accounts on which it relied. Nitter returned at the start of 2025 using account sessions, although the maintainer warned: "Nitter is officially back, but hosting an instance is nowhere near as easy as it used to be." Then, on August 24, X deployed the lawyers and sent cease-and-desist letters demanding the permanent removal of Nitter instances and the project's repository. The repository was archived, instances went offline, and for a few weeks the lights went out. The project now says it will continue, although th
-
-### Smartphone makers don't bother to comply with EU repairability requirements
-Mon, 07 Sep 2026 13:30:00 +0200 — https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532
-
-One year into the EU's repairability rules for smartphones and tablets, more than 80 percent of devices still lack the necessary repair information, Right to Repair Europe reports. The campaign group says that mobile devices available in the trading bloc must include a mandatory self-reported repairability score, and the device maker has an obligation to publish information to help users repair their kit. These requirements came into force from June 2025. Yet a review of the European Product Registry for Energy Labelling, where manufacturers are required to list where they publish the required information, found that few have so far fallen in line. Right to Repair says that of 2,334 records for smartphone models brought to market over the last year, only about 18 percent actually list a website where spare parts prices or repair instructions can be found. About half of the records simply have blanks where there should be a URL, while another 19 percent refer to a product page or support page not containing any relevant repair instructions or spare parts listings. Some records even refer customers to Temu or AliExpress for spare parts and repair instructions. Despite this, some of the blatantly non-compliant manufacturers still award themselves top marks for their repair information, resulting in a self-declared class A for repairability. The campaign group also complains that in many instances where spare parts are listed, they are given a ridiculously wide price bracket, suc
-
-### Welsh environment regulator's FoI blunder exposes diversity data of 2,000 staff
-Mon, 07 Sep 2026 13:04:46 +0200 — https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748
-
-Natural Resources Wales (NRW) says diversity data belonging to around 2,000 current and former employees who worked at the environmental regulator between April 2013 and March 2018 was exposed in a classic Freedom of Information (FoI) blunder. The Welsh government-sponsored body confirmed on Friday the information was "inadvertently disclosed" in a spreadsheet published on a website. Its statement did not identify the site, explain how the sensitive data came to be posted there, or say how many people were affected. NRW subsequently told The Register that around 2,000 people were affected and said it had released the information in 2021 as part of a response to a request under the Freedom of Information Act 2000. The exposed information may have included ethnicity, disability status, religion or belief, sexual orientation, Welsh language ability, caring responsibilities, and other "equality monitoring information," although not every category applied to each affected employee. Some of these details constitute special category personal data and are subject to additional protections under the UK GDPR. "We sincerely apologise that this incident occurred and recognise the concern and uncertainty it may cause to those affected," NRW said in its disclosure statement. "As soon as we became aware of the issue, we took immediate steps to contain the incident and investigate the circumstances surrounding the disclosure." The organization said it reported the breach to the Information C
-
-### UK food supply chain at risk from hostile attacks
-Mon, 07 Sep 2026 12:06:10 +0200 — https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719
-
-A UK watchdog is warning that cyber criminals making moves against online systems in the food supply chain could cause serious upset, following damaging attacks on the Co-op and Marks & Spencer last year. The National Audit Office (NAO) named cyber-attacks as one of the major threats to the food supply chain and said the Department for Environment, Food & Rural Affairs (Defra) should work closely with industry to help prevent severe shocks. “Recent disruptions have shown the resilience of the UK’s food supply chain, but risks are increasing in likelihood and severity. Defra should learn from approaches taken in other countries, and strengthen preparedness for emergencies by testing plans with local government and industry,” said Gareth Davies, head of the NAO. In its report published late last week, the NAO said the sector had shown some resilience to cyber-attacks, but the government needed to work with the sector to help mitigate their impact. The report found businesses in the food supply chain have faced increased costs and, in some cases, disruptions to day-to-day operations, for example following 2025 cyber-attacks on retailers such as Marks & Spencer and the Co-op. Leading UK retailer Marks & Spencer estimated the cyberattack that took place in April last year will cost it around £136 million ($177.2 million) in total. The retailer said one of the earliest actions it took in its incident response was to disconnect its warehouse management systems, which in turn meant o
-
-### Feel peak Windows was 7? You might like Kumander Linux
-Mon, 07 Sep 2026 12:00:00 +0200 — https://www.theregister.com/os-platforms/2026/09/07/feel-peak-windows-was-7-you-might-like-kumander-linux/5294760
-
-Kumander Linux has been around for a few years now and version 3.0 is nearly ready, with some strong nostalgic appeal. We recently came across Kumander Linux and thought it was an interesting distro – although not technologically "interesting," which isn't always a good thing. Underneath, it's almost boring: Debian 13.6 with Xfce 4.20. These are safe, solid, sensible choices, combining a lightweight mainstream desktop with one of the most established Linux distros. What's not to like? What's fun about Kumander Linux is its looks. It makes a very convincing effort to look and work more or less like Windows 7. It doesn't go as far as the wholesale "borrowing" of commercial assets and trademarks seen in Wubuntu, AKA "Windows Linux," nor is it a strange, hacked-together combination of genuine Windows components like Classic 7. It uses a mixture of FOSS and freeware components. The office suite is LibreOffice 25.2, configured with a Microsoft-like ribbon UI. The image editor is GIMP 3.0.4, and it comes with native Linux versions of some familiar Windows tools, such as Google Chrome, PuTTY, Audacity, and VLC. Yes, Chrome isn't FOSS, but it's a much more widely used web browser than Firefox. The customizations go beyond appearances, with some of Xfce's stock tools replaced. For instance, Xfce's slightly feeble Task Manager has been replaced by a tool that was new to us, System Manager. There's also an easy point-and-click Software Center. Both were written by distro developer Roy Ho
-
 ## Engadget
+
+### Renault is building its €17,900 Dacia Spring EV in Europe to qualify for local subsidies
+Tue, 08 Sep 2026 07:39:11 +0000 — https://www.engadget.com/2252406/renault-building-dacia-spring-ev-in-europe-to-qualify-for-local-subsidies/
+
+Dacia also redesigned the Spring to add some sporty allure.
+
+### Xiaomi 18 Fold hands-on: An attractive 'mid-size' foldable with powerful specs
+Tue, 08 Sep 2026 07:16:20 +0000 — https://www.engadget.com/2252401/xiaomi-18-fold-hands-on-ifa-2026/
+
+Xiaomi's impressive-sounding new foldable arrives on the eve of Apple's big foldable iPhone event.
+
+### How To Reset The Camera Settings On Your iPhone
+Tue, 08 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2249676/how-to-reset-iphone-camera-settings/
+
+We all want to take the best photos with our $1,000 devices, and sometimes that means rolling back all those extra settings in the Camera app back to zero.
+
+### Pros and cons of using a Chromebook as your everyday PC
+Tue, 08 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2249648/chromebook-pros-and-cons-as-main-pc/
+
+Chromebooks are great devices, but they might not be able to do everything a Windows or Mac device can. Consider carefully before using one daily.
+
+### How Long Should A Laptop Battery Last On A Single Charge?
+Mon, 07 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2249568/how-long-laptop-battery-should-last-without-recharging/
+
+In the market for a new laptop? You'll want to know just how long it'll run without being plugged in, and how you can maximize the efficiency of its battery.
+
+### GM's breakup with CarPlay and Android Auto has one exception
+Mon, 07 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2249559/carplay-android-auto-carplay-gm-breakup-one-exception-2027-cadillac-lyriq/
+
+GM's lineup is dropping Apple CarPlay and Android Auto in favor of its own infotainment systems. But one model is keeping the phone-mirroring capabilities.
+
+### A new Elizabeth Holmes documentary from Nathan Fielder and Lance Oppenheim is coming from A24
+Mon, 07 Sep 2026 22:45:02 +0000 — https://www.engadget.com/2252334/new-elizabeth-holmes-documentary-nathan-fielder-and-lance-oppenheim-coming-from-a24/
+
+'You Can See Everything' was filmed in 2023 before Elizabeth Holmes reported to prison to serve an 11-year sentence for defrauding Theranos investors.
+
+### How To Legally Download YouTube Videos
+Mon, 07 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2249521/how-to-legally-download-youtube-videos/
+
+There are many reasons why you'd want to download a YouTube video, but doing so comes with a bevy of questions about the legality of the available methods.
+
+### 6 ways to make the most out of your Apple Wallet
+Mon, 07 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2249526/ways-make-most-out-of-apple-wallet/
+
+Apple Wallet can hold all kinds of passes and cards, plus items you might not have ever considered storing digitally.
+
+### How to watch The Legend of Zelda 40th Anniversary Nintendo Direct
+Mon, 07 Sep 2026 21:00:00 +0000 — https://www.engadget.com/2252305/how-to-watch-the-legend-of-zelda-40th-anniversary-nintendo-direct/
+
+We're expecting details about the 'Ocarina of Time' and other Zelda projects during Nintendo's 30-minute stream.
+
+### Ethernet splitter vs switch: What's the difference and how do you use them?
+Mon, 07 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2249074/ethernet-splitter-vs-switch-differences-how-to-use/
+
+At this point, there are very few situations in which you'll want to use an Ethernet splitter.
 
 ### Capcom is reviving more dormant franchises after the success of Onimusha: Way of the Sword
 Mon, 07 Sep 2026 19:31:56 +0000 — https://www.engadget.com/2252274/capcom-to-revive-dormant-franchises-after-onimusha-way-of-the-sword-sells-a-million-copies-at-launch/
 
 After Onimusha: Way of the Sword sold more than a million copies at launch, Capcom is now looking to revive some of its other forgotten IPs.
 
-### What's the difference between Sony WF-1000XM6 and WF-1000XM5 earbuds?
-Mon, 07 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2249010/sony-wf-1000xm6-vs-1000xm5-earbuds-differences-explained/
-
-Everything you need to know to decide which set of Sony earbuds are right for you.
-
-### The A2 e-tron is Audi's most efficient EV to date
-Mon, 07 Sep 2026 18:28:50 +0000 — https://www.engadget.com/2252249/the-a2-e-tron-is-audis-most-efficient-ev-yet/
-
-While it probably won't be available in the US, the Audi A2 e-tron looks like an appealing affordable EV with plenty of range.
-
-### How to make your iPhone's alarm ring at full volume even when your calls are muted
-Mon, 07 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2249082/how-to-make-iphone-alarm-ring-full-volume-while-calls-muted/
-
-Apple's sound settings often meant you'd sleep through your iPhone alarm if you lowered the volume before you went to bed. With its new update, that is no more.
-
-### When is it no longer worth repairing your phone and buying a new one instead
-Mon, 07 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2249079/when-is-it-no-longer-worth-repairing-your-phone-and-buying-a-new-one-instead/
-
-When is it no longer worth repairing your phone and buying a new one instead.
-
-### Retroid just teased its take on a dual-screen handheld for Nintendo DS fans
-Mon, 07 Sep 2026 17:15:36 +0000 — https://www.engadget.com/2252220/retroid-teases-upcoming-dual-screen-gaming-handheld/
-
-While there aren't a ton of concrete details yet, the arrival of yet another dual-screen handheld is a great sign for fans of Nintendo old-school portables.
-
-### Why is it illegal to use a Bluetooth jammer?
-Mon, 07 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2249092/why-bluetooth-jammer-illegal-to-use-what-law-says/
-
-A Bluetooth jammer might seem like a fix for a neighbor's loud music, but using one can lead to serious legal consequences far beyond simple noise control.
-
-### Sony revives its WH-1000XM4 headphones as a refreshed $300 option
-Mon, 07 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2251246/sony-revives-its-wh-1000xm4-headphones-as-a-refreshed-300-dollar-option/
-
-Sony is taking a unique approach to its 2026 headphone lineup: bringing back 2020's greatest hit.
-
-### How to disconnect CarPlay so it will stop auto-connecting to your phone
-Mon, 07 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2249026/how-to-disconnect-carplay-stop-auto-connecting-phone/
-
-If Apple CarPlay leaves you feeling frustrated and you want a break from it, there are a few ways to prevent it from automatically connecting in your car.
-
-### The Huawei Mate XT2 is the world's first tri-panel foldable with a built-in privacy display
-Mon, 07 Sep 2026 15:55:44 +0000 — https://www.engadget.com/2252175/huawei-mate-xt2-worlds-first-foldable-with-built-in-privacy-display/
-
-Even though it'll be really pricey, Huawei's Mate XT2 is taking one of the Galaxy S26's best features and putting it in a foldable phone for the first time.
-
-### PS2 or GameCube: Which retro console emulates better?
-Mon, 07 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2249073/ps2-gamecube-which-retro-console-emulates-better/
-
-The GameCube and PS2 both have mature emulation ecosystems. If you're new to the scene, here's the one that's easier to emulate and why.
-
-### How to find and hide an app on Android Auto
-Mon, 07 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2249065/how-to-find-hide-app-android-auto/
-
-Millions rely on Android Auto every day for navigation, music and messaging, but one of the common issues is apps vanishing from the platform without warning.
-
 ## TechCrunch
+
+### Eric Wu s newest company, out of stealth since May, is going after construction s labor crunch
+Tue, 08 Sep 2026 02:16:39 +0000 — https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/
+
+Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar to tackle a labor shortage severe enough that data center projects alone now need 4,000 to 5,000 workers apiece.
 
 ### Opaque recurrence, and other AI terms that you should probably know
 Mon, 07 Sep 2026 19:24:00 +0000 — https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
@@ -353,9 +358,4 @@ The Uber founder has said that Atoms will allow him to complete "unfinished busi
 Sun, 06 Sep 2026 16:08:00 +0000 — https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/
 
 Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-
-### Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
-Sat, 05 Sep 2026 22:49:55 +0000 — https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/
-
-Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.
 

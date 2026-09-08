@@ -1,6 +1,16 @@
-# Games — harvested 2026-09-07T20:09:04.173Z
+# Games — harvested 2026-09-08T09:06:43.281Z
 
 ## Eurogamer
+
+### Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood
+Tue, 08 Sep 2026 08:49:16 +0000 — https://www.eurogamer.net/street-fighter-6-arjun-gameplay-trailer
+
+Capcom has released a gameplay trailer for its next DLC character: Arjun. An Indian fighter and framed policeman on the run, he'll be coming to the popular fighting game next month. Read more
+
+### Forza Horizon 6 has not been delayed on PS5, developer confirms - but still won't say when it's coming out
+Tue, 08 Sep 2026 08:11:05 +0000 — https://www.eurogamer.net/forza-horizon-6-ps5-on-track-2026
+
+Forza Horizon 6 developer Playground Games has shot down rumours the game's anticipated PlayStation 5 version had been delayed. The confirmation, slim as it is, comes a little over one week after reports about a quiet delay for Horizon 6 started surfacing . Read more
 
 ### Persona 1 and 2 remakes are "something we'll probably eventually do," series producer says
 Mon, 07 Sep 2026 19:05:37 +0000 — https://www.eurogamer.net/persona-1-and-2-remakes-are-something-well-probably-eventually-do-series-producer-says
@@ -52,17 +62,17 @@ Mon, 07 Sep 2026 11:35:39 +0000 — https://www.eurogamer.net/china-games-market
 
 As the western video games industry continues to struggle, the Chinese industry appears to be booming, revealing a worth of more than $50bn in 2025 - more than five times the industry in the UK. Read more
 
-### Onimusha: Way of the Sword has already sold over 1 million copies
-Mon, 07 Sep 2026 10:19:15 +0000 — https://www.eurogamer.net/onimusha-way-of-the-sword-one-million-sales
-
-If you were hoping Onimusha: Way of the Sword would revive the dormant series, you may get your wish. Capcom today announced the latest installment in the action game series has already sold over one million copies across all platforms. Read more
-
-### "Many a brave knight are going to die" - Riot Games head Marc Merrill speaks on in-development MMO after 2XKO's untimely demise
-Mon, 07 Sep 2026 09:30:34 +0000 — https://www.eurogamer.net/riot-games-mmo-the-grail-pax-2xko
-
-Marc Merrill - one of the co-founders of Riot Games and its current CPO - has spoken about the in-development MMO, describing it as "the grail" following the sudden end-of-development announcement for its fighting game 2XKO. Read more
-
 ## GamesIndustry.biz
+
+### Assassin's Creed Black Flag Resynced debuts in Top 5 for PC and console revenue in July | Newzoo Charts
+Tue, 08 Sep 2026 07:57:07 +0000 — https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-debuts-in-top-5-for-pc-and-console-revenue-in-july-newzoo-charts
+
+Remakes and rereleases drove games revenue in July, with Assassin's Creed Black Flag Resynced debuting in second on PC and fourth on console in Newzoo's charts. Read more
+
+### Arm explains its mobile-first AI-reconstruction technology, which takes a different tack from the "black box" approach of DLSS 5
+Tue, 08 Sep 2026 02:00:00 +0000 — https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5
+
+Today, the British semiconductor and software design company Arm is holding the Arm Everywhere China event in Shanghai to unveil its latest contributions to the AI computing landscape. Read more
 
 ### Don't Nod warns it may not have enough funding to operate beyond January 2027
 Mon, 07 Sep 2026 18:42:05 +0000 — https://www.gamesindustry.biz/dont-nod-warns-it-may-not-have-enough-funding-to-operate-beyond-january-2027
@@ -104,6 +114,21 @@ China's games market surpassed $50 billion for the first time in 2025, growing 5
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Preview: Tomb Raider: Legacy of Atlantis Has the Right Lara, But Something s Missing
+Tue, 08 Sep 2026 00:00:00 GMT — https://www.pushsquare.com/previews/tomb-raider-legacy-of-atlantis-has-the-right-lara-but-somethings-missing
+
+Fool's gold? I was excited to see Tomb Raider: Legacy of Atlantis at Gamescom recently, because I wanted to see how Amazon was moving the franchise forward after the dour reboot saga from the PS4 generation. I got to watch a full 30-minute hands-off presentation, narrated by series stewards Crystal Dynamics and Polish dev Flying Wild Hog. But if I’m being brutally honest with you, I came away a bit flat on it all. Read the full article on pushsquare.com
+
+### Review: Aliens: Fireteam Elite 2 (PS5) - A Deeply Disappointing Downgrade of a Sequel
+Mon, 07 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/reviews/ps5/aliens-fireteam-elite-2
+
+Just another bug hunt. Aliens: Fireteam Elite 2 is one of the most frustrating fumbles of 2026. I’m a huge Alien and Aliens fan, and I've loved the steady flow of video game adaptations over the years – everything from the daft Aliens Vs. Predator on the PS3, through to the iconic Alien Isolation on PS4. I'm even a pretty big fan of the first Aliens: Fireteam Elite as a schlocky but fun co-op shooter. Read the full article on pushsquare.com
+
+### You Can Now Play Your Physical PS3 Games on PC Straight from the Disc
+Mon, 07 Sep 2026 22:00:00 GMT — https://www.pushsquare.com/news/2026/09/you-can-now-play-your-physical-ps3-games-on-pc-straight-from-the-disc
+
+Fans do what Sony won't. When it rains it pours – and Sony’s probably going to need a new umbrella at this point! In an embarrassing strike against the platform holder, hobbyist PS3 emulator RPCS3 has added physical Blu-ray support, meaning you’ll be able to play the vast majority of your last-last-gen games on the PC – directly from the disc. Read the full article on pushsquare.com
 
 ### It s Like Cultural Preservation : Persona Producer Mentions Persona 1 and 2 Remakes Yet Again
 Mon, 07 Sep 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/09/its-like-cultural-preservation-persona-producer-mentions-persona-1-and-2-remakes-yet-again
@@ -150,26 +175,21 @@ Mon, 07 Sep 2026 13:15:00 GMT — https://www.pushsquare.com/news/2026/09/capcom
 
 Come on Capcom. You may have read earlier today that Onimusha: Way of the Sword , the brilliant new action game from Capcom, has already sold more than a million copies . The publisher announced the news via social feeds, but it also put out an official press release on the data, and it's there where you'll find an interesting quote from the company. Read the full article on pushsquare.com
 
-### A Massive Amount of Uncut Exodus Gameplay Has Appeared Online
-Mon, 07 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/09/a-massive-amount-of-uncut-exodus-gameplay-has-appeared-online
-
-Make some space. If you're at all interested in Exodus — the Mass Effect -style sci-fi RPG coming to PS5 next year — then you should definitely give these fresh gameplay videos a watch. Dropping over the weekend, this footage is brand new, showcasing uncut gameplay across a main story mission. Between YouTube channels ENFANT TERRIBLE and Insider Gaming , there's almost two hours of demo footage to get through. Read the full article on pushsquare.com
-
-### Guide: These 21+ PS5 Games Are Coming Out This Week (7th-13th September)
-Mon, 07 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/guides/these-21plus-ps5-games-are-coming-out-this-week-7th-13th-september
-
-Hot Wheels! Mewgenics! Valheim! More! I thought this week was going to be a bit slower on the PS5, but there’s actually more than 20 new titles launching for another consecutive week. Highlights include the new Hot Wheels game, Mewgenics , and the long-awaited release of Valheim . Read the full article on pushsquare.com
-
-### New PS5 Releases Dawnwalker and Onimusha Both Top One Million Sales
-Mon, 07 Sep 2026 09:15:00 GMT — https://www.pushsquare.com/news/2026/09/new-ps5-releases-dawnwalker-and-onimusha-both-top-one-million-sales
-
-Onimusha manages it in just 24 hours. Despite releasing within a day of each other, it doesn't seem like The Blood of Dawnwalker and Onimusha: Way of the Sword have eaten into each other's sales all that much: both PS5 games have confirmed they've sold over one million copies since launch. Capcom revealed Onimusha: Way of the Sword achieved the milestone on its first day on the market, pushing the overall series to 10 million sales in total. The developer shared a new piece of art to celebrate on social media and said: "We are truly delighted that so many of you are playing this game! Thank you so much!" Read the full article on pushsquare.com
-
 ## Game Developer
 
 _Nothing in the last 48 hours._
 
 ## VGC
+
+### Xbox says Forza Horizon 6 is still coming to PS5 this year, as it prepares the game s next major update
+Tue, 08 Sep 2026 08:59:17 +0000 — https://www.videogameschronicle.com/news/xbox-says-forza-horizon-6-is-still-coming-to-ps5-this-year-as-it-prepares-the-games-next-major-update/
+
+Xbox's return to exclusivity for some games doesn't affect Forza… Source
+
+### Child of Eden producer s former PSVR exclusive Jupiter Mars is coming to Nintendo Switch
+Tue, 08 Sep 2026 08:53:53 +0000 — https://www.videogameschronicle.com/news/child-of-eden-producers-former-psvr-exclusive-jupiter-mars-is-coming-to-nintendo-switch/
+
+Jupiter & Mars: Definitive Edition is out this week with new features and enhanced graphics… Source
 
 ### Introducing the VGC Live in Glasgow 2026 poster, available for pre-order now
 Mon, 07 Sep 2026 17:09:03 +0000 — https://www.videogameschronicle.com/news/introducing-the-vgc-live-in-glasgow-2026-poster-available-for-pre-order-now/
@@ -211,17 +231,42 @@ Mon, 07 Sep 2026 13:17:40 +0000 — https://www.videogameschronicle.com/guide/bl
 
 How to find and help all Sanzhani fairies in The Blood of Dawnwalker… Source
 
-### Saber CCO says there s absolutely no GenAI in its licensed games including Space Marine 3, Hellraiser and Jurassic Park Survival
-Mon, 07 Sep 2026 11:50:39 +0000 — https://www.videogameschronicle.com/news/saber-cco-says-theres-absolutely-no-genai-in-its-licensed-games-including-space-marine-3-hellraiser-and-jurassic-park-survival/
-
-Tim Willits says the AI being used in Rideshare Stimulator is an experiment to "see if it works" Source
-
-### Pokémon Champions director vows to keep turn-based battles as single-player is ruled out
-Mon, 07 Sep 2026 11:18:10 +0000 — https://www.videogameschronicle.com/features/pokemon-champions-director-vows-to-keep-turn-based-battles-as-single-player-is-ruled-out/
-
-Masaaki Hoshino reflects on Champions' launch and discusses the future of competitive Pokémon… Source
-
 ## Polygon
+
+### Tom Hiddleston's Return to Streaming Has Officially Been Confirmed
+Tue, 08 Sep 2026 08:00:14 GMT — https://www.polygon.com/tom-hiddlestons-return-to-streaming-tenzing/
+
+Ever since being cast as Loki in the first Marvel 's Thor movie back in 2011, Tom Hiddleston has been one of the busiest actors in Hollywood. He’s dominated the big screen in both Marvel and non-Marvel movies and the same can be said for the small screen as well. After starring in the Loki series on Disney Plus, he returned for the second season of the British series The Night Manager , the first season of which had aired back in 2016. Now, Hiddleston’s next streaming venture has been confirmed, and it will be on Apple TV.
+
+### How Grotesqqque Turns One Creator's Unfiltered Imagination Into an Anime Anthology
+Tue, 08 Sep 2026 03:00:14 GMT — https://www.polygon.com/why-the-director-of-grotesqqque-thinks-the-best-anime-are-a-little-unorganized/
+
+Atsushi Nishigori has spent much of his career inside the machinery of others' anime. His years at Gainax — the hugely influential studio behind FLCL and Neon Genesis Evangelion — put him in the orbit of creators like Hiroyuki Imaishi and Kazuya Tsurumaki. He later worked on The Idolmaster , Darling in the Franxx , and Shin Evangelion . But for all the projects Nishigori helped bring to life, there were always other images the creator wanted to put to screen.
+
+### 10 Biggest Most Important Anime Releases of Fall 2026
+Tue, 08 Sep 2026 01:00:14 GMT — https://www.polygon.com/new-anime-shows-fall-2026-releases/
+
+Over the next few months, highly anticipated titles like Cyberpunk: Edgerunner s and Black Clover are returning after a long break. There are also intriguing isekai to choose from, such as season 2 of Reincarnated as a Sword , or the brand-new iteration of Magic Knight Rayearth . Whatever your genre or animation style of choice, it's a good time to be an anime fan.
+
+### Next Hunger Games Movie 'Sunrise' Confirms Switching Genres in 'Return to Form'
+Mon, 07 Sep 2026 23:01:14 GMT — https://www.polygon.com/hunger-games-sunrise-on-the-reaping-haymitch-new-interview/
+
+Francis Lawrence has been making Hunger Games movies long enough to bring the series back to a “return to form.” He joined the franchise with Catching Fire in 2013, and now, five films later, November’s Sunrise on the Reaping finds him staging another Quarter Quell in another spectacular arena, and, as he told me behind-closed doors after a special preview of footage, expanding the screen into IMAX-sized proportions to send a chill down audiences' spines. (I still think about Catching Fire ’s aspect ratio twist to this day.) In telling the story of the 50th Hunger Games, and the origin of fan-favorite Haymitch Abernathy, Lawrence was stoked to revive the “scope and spectacle and scale” of the films in an era before Katniss.
+
+### Fortnite Officially Bringing Mega Man to the Island with Tournament and Skins
+Mon, 07 Sep 2026 22:59:20 GMT — https://www.polygon.com/fortnite-mega-man-cosmetics-tournament/
+
+Mega Man is still one of the most anticipated Fortnite collaborations coming in Chapter 7 Season 4. It has been teased since the previous season ended, and despite Mega Man items being in the battle royale games, fans are patiently waiting for the skins to be added to Fortnite . It seems that players won't have to wait much longer, as Epic Games has now revealed the Mega Man cosmetics that will become available following a themed tournament.
+
+### The Legend of Zelda's Best Amiibo Finally Arrives This Month
+Mon, 07 Sep 2026 22:54:09 GMT — https://www.polygon.com/zelda-tears-of-the-kingdom-best-amiibo-september-2026/
+
+Back in May, to mark the third anniversary of the release of The Legend of Zelda : Tears of the Kingdom , Nintendo unveiled a new amiibo figure tied to the game, due this month. It might be the best Tears of the Kingdom figurine yet. Barring any new amiibo reveals at this week's new Zelda-themed Nintendo Direct , it's a strong front-runner for AOTY (amiibo of the year).
+
+### Where to Play Every Grand Theft Auto Game in 2026
+Mon, 07 Sep 2026 21:00:14 GMT — https://www.polygon.com/gta-games-grand-theft-auto-where-to-play-all-2026/
+
+Rockstar Games seems to have an ambivalent attitude towards GTA's past, particularly the early 2D games and some spinoff titles, and its record in making these games available is decidedly spotty. Below, we break down the current state of availability of every game in the series — where you can find it, and what the best way to play it is.
 
 ### Cemetery Boys Sequel Reveals a Critical Role Connection New Reveal
 Mon, 07 Sep 2026 20:00:14 GMT — https://www.polygon.com/cemetery-boys-espiritu-excerpt-aiden-thomas/
@@ -238,42 +283,12 @@ Mon, 07 Sep 2026 18:00:14 GMT — https://www.polygon.com/new-tv-shows-fall-2026
 
 As far as Summers go, 2026 offered plenty of reasons to get out of house, from the surprisingly fantastic Minions & Monsters to two Earth-shattering blockbusters in The Odyssey and Spider-Man: Brand New Day . Even August had its highlights with the very fun The End of Oak Street and the long-anticipated — and incredibly funny — Coyote vs. ACME .
 
-### Practical Magic 2 First Look: A New Generation of Witches Emerges
-Mon, 07 Sep 2026 17:00:14 GMT — https://www.polygon.com/practical-magic-2-exclusive-image/
-
-Twenty-eight years ago, Sandra Bullock and Nicole Kidman made one of the most beloved movies of their careers. Practical Magic has become the go-to story for wannabe Wiccans looking for a blend of the whimsical and goth. It’s the type of movie that feels like it was made both to be rewatched on Halloween and with your mom and sister at home for the winter holidays.
-
-### Dungeon Crawler Carl meets The Finals in this wild new FPS
-Mon, 07 Sep 2026 15:41:34 GMT — https://www.polygon.com/like-or-die-preview-gamescom-2026/
-
-Like or Die is an upcoming FPS game from Korean developer NC, revealed for the first time during Gamescom 2026's Opening Night Live showcase. My first thought was that it looks a lot like Embark Studios' The Finals — from the environmental destruction and the abilities on show, such as zip lines and jump pads, to the fact players explode into pixelated cubes. It certainly wears its inspiration on its sleeve, that's for sure.
-
-### Resident Evil Director Zach Cregger Confirms He Already Has Sequels in Mind
-Mon, 07 Sep 2026 14:32:25 GMT — https://www.polygon.com/resident-evil-2026-movie-sequels-zach-cregger/
-
-Weapons director Zach Cregger is aiming for a very different approach with his new adaptation of Resident Evil . Rather than adapting the characters and narrative of Capcom's survival-horror game franchise, Cregger is instead translating what it feels like to exist in one of Resident Evil 's worst-case scenarios. Resident Evil follows a hapless medical courier, played by Austin Abrams, as he attempts to survive a journey to Raccoon City, which is now infested with zombies and other monstrosities.
-
-### Resident Evil's Zach Cregger: What Being 'Faithful' Really Means
-Mon, 07 Sep 2026 14:12:20 GMT — https://www.polygon.com/zach-cregger-resident-evil-interview/
-
-Zach Cregger knows Resident Evil . The plots, yes, but also the panic. The dread of loading your last two bullets as you creep around a corner. The flailing terror of being ambushed and forgetting how to aim. Smashing buttons and running like hell to get a grip on what to do next.
-
-### 26 Years Later, the Best 'Dilbert' Quote Remains a Comic Strip Classic Despite Its Controversial Creator
-Mon, 07 Sep 2026 14:00:15 GMT — https://www.polygon.com/best-dilbert-comic-strip-quote/
-
-Had he kept his mouth shut about his racist views for just a couple of years longer, we might never know how hate-filled the guy was, but I tend to think it’s good that he revealed his true nature before he died. Otherwise, the undeserving man would have been more celebrated when he passed.
-
-### Sexy Fire Emblem-Inspired Game Food Devils Officially Claims November Release
-Mon, 07 Sep 2026 13:00:14 GMT — https://www.polygon.com/food-devils-exclusive-release-date-interview/
-
-As part of our big 2026 Fall Preview , Polygon can exclusively reveal that Food Devils , an upcoming strategy RPG from Studio Daimon, will launch on Nov. 5. The game is shaping up to be a late-year indie darling, thanks to its eclectic yet engrossing mix of hot demons with tactics RPG , restaurant customization, and dating sim gameplay mechanics.
-
-### Slay the Spire Fans Need to Devour This New Game for Art Alone
-Mon, 07 Sep 2026 12:00:14 GMT — https://www.polygon.com/shroom-gloom-new-deckbuilder-2026-preview/
-
-Shroom and Gloom , which goes into Early Access on Sept. 10, drops players into a fire-lit dungeon overrun with mycelium. Players use two decks: one that will help them navigate the winding subterranean tunnels and another to battle the monsters lurking within. As you chart a path to the Gloom, you unlock characters, cards, and more sick art.
-
 ## PC Gamer
+
+### Persona 1 and 2 remakes are something Atlus will 'probably eventually do', which is great, but the PS2-era Shin Megami Tensei games are sitting right there
+Tue, 08 Sep 2026 01:04:48 +0000 — https://www.pcgamer.com/games/rpg/persona-1-and-2-remakes-are-something-atlus-will-probably-eventually-do-which-is-great-but-the-ps2-era-shin-megami-tensei-games-are-sitting-right-there/
+
+Atlus will probably remake Persona 1 and 2 one day, according to a new interview with series producer Kazuhisa Wada conducted by Rock Paper Shotgun . "For me, I think a remaster or remake is some kind of cultural preservation," Wada said. "As a creator, it’s your duty to take the things you’ve done and make sure they’re not lost, and are still around in the modern day. From that same perspective, Persona 1 and 2 are something we’ll probably eventually do too.” Persona Revelations was released on the original PlayStation in 1996. It's actually been lightly reissued before, in 2009 for the PlayStation Portable, and surprisingly, there's even a 1999 PC port that was never released in the west. While it focuses on a cast of school students, the social links system—arguably the series' best trick—wasn't introduced to the series until Persona 3. It's the Persona game that feels closest to the older Shin Megami Tensei games, since it has first-person blobber-style dungeon exploration, though overworld exploration is conducted via an isometric third-person perspective. Persona 2: Innocent Sin released in 1999, also for the original PlayStation. It replaces first-person dungeon crawling with third-person exploration. Both games are definitely worth saving from obscurity: I wouldn't necessarily advocate for full-scale remakes, but reissues with a bit of spit and polish would definitely be welcome, especially if, as Wada says, the motive is preservation. But I'm once again puzzled why A
 
 ### GTA 6's Criminal Profile system sounds pretty interesting, includes a 'shattered' state for players who DGAF
 Mon, 07 Sep 2026 19:19:23 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6s-criminal-profile-system-sounds-pretty-interesting-isnt-a-direct-copy-of-red-deads-honor-system/
@@ -330,14 +345,12 @@ Mon, 07 Sep 2026 04:12:36 +0000 — https://www.pcgamer.com/gaming-industry/stea
 
 When Cookie Clicker and Candy Box both released in quick succession in 2013, I remember them being received mostly as a joke, or else as an amusing parody of "watch numbers go up" RPG gameplay. Then something weird happened: all my colleagues became fixated on Cookie Clicker. So did I. Lots of people on the internet, on Twitter and in various forums like Reddit, confessed to having become addicted to it. Cookie Clicker did have an antecedent in Ian Bogost's Cow Clicker, which was a very deliberate satire . But Cookie Clicker wasn't presented as satire. And yet, it was so transparently meaningless that people doubted it could be anything else. You click a cookie repeatedly to generate more cookies. Once you earn enough cookies, you can invest those cookies into various ways of expediting the cookie making process. You click and watch numbers go up. It's stupid. Fast forward more than a decade later and idlers, also known as incremental games, are massive on Steam. Last week, 54 games with the tag "idler" released. In total, there are 4,314 games with that tag on Steam. Some of these look pretty good as far as idlers go. Next Reign: Kingdom has pretty handmade pixel art, atmospheric music and strategic elements. We Need More Humans! Has a novel premise—you have to become increasingly proficient at abducting humans—and, as far as this genre goes, a distinctive art style. Zad Archery 's art style, on the other hand, is very generic but it has nearly 700 "mostly positive" reviews,
 
-### 'If you're designing an RPG, you have to go back to the source:' The post-apocalyptic RPG Entropy takes notes from Fallout and a long-abandoned Warhammer spinoff
-Mon, 07 Sep 2026 01:50:45 +0000 — https://www.pcgamer.com/games/rpg/if-youre-designing-an-rpg-you-have-to-go-back-to-the-source-the-post-apocalyptic-rpg-entropy-takes-notes-from-fallout-and-a-long-abandoned-warhammer-spinoff/
-
-The early access RPG Entropy is a very different beast to its developers' previous work. Dread Delusion was a shockingly good homage to first person RPGs like King's Field or The Elder Scrolls, while this new game is distinctly JRPG-inflected, nailing a lot of the feel and intangibles of something like Final Fantasy 10 or Lost Odyssey. But you can't just put it into the JRPG bin and call it a day. Entropy boasts a large party size for tactical battles, permadeath, locational damage, as well as an approach to reactivity and storytelling that feels more PC gaming than PS2 gaming. When I spoke to lead developer James Wragg recently, he told me that's very deliberate. "In many ways, if Dread Delusion was my take on The Elder Scrolls, then this is my take on Fallout," Wragg said. "The original Fallout, Fallout 1, is one of my favorite games, and we're riffing on that quite a lot with Entropy." Having played Entropy's demo and a bit of early access, I immediately got what he meant. Part of that inspiration is visible in the locational damage system, similar to OG Fallout's called shots (what would eventually become VATS in the 3D games). You can incur a penalty to accuracy to target a specific limb or zone on an enemy, to the benefit of greater damage or inflicting a debuff. Wragg provided the examples of how it might work in more advanced battles: disarming a foe with an especially powerful weapon, or shredding the bulbous Resident Evil weakpoint of a mutated enemy. Entropy's spec
-
 ## GameSpot
 
-_Nothing in the last 48 hours._
+### The Legend of Zelda 40th Anniversary Direct: Start Time, How To Watch, And What To Expect
+Tue, 08 Sep 2026 02:00:00 +0000 — https://www.gamespot.com/articles/the-legend-of-zelda-40th-anniversary-direct-start-time-how-to-watch-and-what-to-expect/
+
+Can you believe that The Legend of Zelda franchise turned 40 this year? It's true, and it's the main focus of today's new Nintendo Direct. The series is in the spotlight, and Nintendo says it'll celebrate its ruby anniversary with a new broadcast that fans will want to check out. Don't forget, there'll also be a Nintendo Direct on September 9, but for now, here's a closer look at how you can watch the Zelda stream. How to watch the Legend of Zelda 40th Anniversary Direct As usual, you can watch the Legend of Zelda Nintendo Direct on YouTube and Twitch. Once the livestream wraps up, Nintendo typically uploads individual versions of the trailers and footage shown off, all available to watch on its official YouTube page. YouTube Twitch Legend of Zelda 40th Anniversary Direct start time Kicking off early on September 8 at 7 AM PT / 10 AM ET, this Legend of Zelda Direct will run for around 30 minutes. 7 AM PT 10 AM ET 3 PM BST 4 PM CEST 11 PM JST What to expect from the Legend of Zelda 40th Anniversary Direct Nintendo says the presentation will deliver "a variety of information" related to The Legend of Zelda. Beyond that, your guess is as good as ours, but we expect to see a new look at the remake of The Legend of Zelda: Ocarina of Time , with a closer look at its gameplay, how it differs from the classic Nintendo 64 game, and its release date. A teaser for the upcoming live-action movie ahead of its 2027 release would also be welcome, and if we had to take an educated guess, we'
 
 ## Rock Paper Shotgun
 
@@ -365,19 +378,4 @@ Those terrible firebrands at the Tetris Company have publicly rebuked the US gov
 Mon, 07 Sep 2026 09:38:30 +0000 — https://www.rockpapershotgun.com/youll-be-able-to-engage-in-these-high-stakes-arms-races-civilizations-arc-of-tomorrow-update-is-trying-to-make-the-threat-of-nuclear-apocalypse-more-interesting
 
 Civilization 7 is getting a new free update that takes the 4X strategy game into the atomic age, while trying to make nuclear era conflict a little more elaborate than just being first to research the requisite city-killing technology. Add in some new city state proxy war functionality, and you seemingly have everything you need to go full Henry Kissinger. Read more
-
-### The Sunday Papers
-Sun, 06 Sep 2026 09:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-826
-
-Sundays are for luxuriating in the chill of the September air and hoping for more of the drenching rain that's ended the summer heat. Though, it's a luxuriating that's quickly pierced by the worry that we've seen the last warm weather of the year. Winter isn't far off and all the gaps around the windows in the living room are going to start making themselves known again. Read more
-
-### Deliver packages in foresty mountains and avoid thieving boars in the Death Stranding-adjacent and quite calm-looking Pinetrail
-Sat, 05 Sep 2026 21:53:46 +0000 — https://www.rockpapershotgun.com/deliver-packages-in-foresty-mountains-and-avoid-thieving-boars-in-the-death-stranding-adjacent-and-quite-calm-looking-pinetrail
-
-I can take or leave a majority of Death Stranding 's story (BB forever, though), but I gotta give it to Kojima: delivering stuff is fun. There's a genuine complexity to the process of deciding what to pack and how you pack it, making the simple act of delivering something like a pizza legitimately challenging. So I'm quite tickled by the look of Pinetrail, a much less apocalyptic delivery game where you drive a tiny three-wheel rickshaw truck transporting packages across luscious forests and mountains. Read more
-
-### Laser Guy is a twin-stick "anti-shooter" about a stressed out game developer who can't stop shooting laser beams from his eye
-Sat, 05 Sep 2026 20:33:25 +0000 — https://www.rockpapershotgun.com/laser-guy-is-a-twin-stick-anti-shooter-about-a-stressed-out-game-developer-who-cant-stop-shooting-laser-beams-from-his-eyes
-
-Do I need to explain how Cyclops from the X-Men's powers work? I'm going to anyway just in case. He shoots beams from his eyes! More or less, I think it's technically energy from a punch dimension? I'm not an X-Men nerd though, so correct me in the comments. Main point is, he can never stop shooting those beams, which is why he has to always be wearing glasses at the very least. Which, as it turns out, makes for a fun video game concept, as it's now been manifested in the form of Laser Guy, a twin-stick " anti-shooter " all about not killing your co-workers. Read more
 
