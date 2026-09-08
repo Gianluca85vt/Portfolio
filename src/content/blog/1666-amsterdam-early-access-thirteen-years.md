@@ -4,7 +4,6 @@ date: 2026-09-08
 category: Games
 cover: /img/blog/1666-amsterdam-early-access-thirteen-years/shot-01.jpg
 excerpt: Ubisoft cancelled 1666 in 2013 and Désilets got the rights back in 2016. What reached early access on 25 August is a different-sized game.
-draft: true
 ---
 
 The early access page for 1666: Amsterdam sells you the first piece of the
