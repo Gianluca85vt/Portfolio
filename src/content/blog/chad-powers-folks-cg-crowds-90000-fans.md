@@ -25,6 +25,11 @@ The failure mode here is **repetition**: the eye is extremely good at spotting t
 
 Folks' work ranged from extending real locations to building stadiums outright in CG, standing in for the Rose Bowl, Neyland and Sanford.
 
+<figure>
+  <img src="/img/blog/chad-powers-folks-cg-crowds-90000-fans/shot-01.jpg" loading="lazy" width="1440" height="810" alt="Aerial view of Neyland Stadium in Knoxville, packed for a game, with the checkerboard end zones visible" />
+  <figcaption>Neyland Stadium, full on a game day. This is the reference a stadium build is measured against — the density, the gaps, the value range of a hundred thousand people from above. Photograph by Neomrbungle, Wikimedia Commons, CC BY-SA 4.0.</figcaption>
+</figure>
+
 Building a college stadium in CG for a comedy is the cheap option. A stadium that size exists in the state you need — packed, lit, loud — for a handful of hours a year, and those hours are spoken for. You cannot book Neyland on a Tuesday. What you can do is get a small unit in for plates, photograph everything, and rebuild it as an asset you can point a camera at whenever the edit demands. Once built, shot nine is nearly free.
 
 That economics is the same argument [DNEG's 338 shots on *For All Mankind* season five](/blog/for-all-mankind-season-5-dneg-mars-continuity/) ran into from the other end: on television, continuity across a season costs more than the build ever does. A stadium has it worse than Mars, because everyone watching has seen the real one on a Saturday and knows what the light does at four in the afternoon.
