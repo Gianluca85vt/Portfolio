@@ -13,7 +13,6 @@ sources:
     url: https://www.gamespot.com/articles/nintendo-direct-september-2026-all-the-biggest-announcements-and-games/
   - outlet: Polygon
     url: https://www.polygon.com/meccha-chameleon-switch-2-release/
-draft: true
 ---
 
 I have rebuilt a flat track as real geometry before, so the ten Super Mario
