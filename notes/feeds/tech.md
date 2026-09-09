@@ -1,6 +1,11 @@
-# Tech — harvested 2026-09-09T14:48:12.645Z
+# Tech — harvested 2026-09-09T19:29:10.501Z
 
 ## Ars Technica
+
+### NOAA is putting commercial fishing ahead of conservation
+Wed, 09 Sep 2026 13:58:44 +0000 — https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/
+
+In July , the Trump administration relegated endangered leatherback turtles, sea lions, and whales to mere collateral damage in its race to profit from the oceans. Now, fisheries science is in the government’s crosshairs. The National Oceanic and Atmospheric Administration (NOAA) announced new agency priorities last week that they say are a commitment to “cutting bureaucracy, modernizing our science, and putting our fishing communities first.” But experts say the agency’s actions will erode fish stocks, threaten endangered species, and surrender marine habitats to destructive trawlers. The agency-level reforms serve as a self-proclaimed “operational roadmap” to fulfilling President Donald Trump’s “Restoring American Seafood Competitiveness” executive order, signed in April 2025. Read full article Comments ]]>
 
 ### Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.
 Wed, 09 Sep 2026 11:00:10 +0000 — https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/
@@ -57,64 +62,79 @@ Tue, 08 Sep 2026 18:00:56 +0000 — https://arstechnica.com/science/2026/09/goog
 
 Google is one of the major players in AI (meaning machine learning) weather forecast model space. The models it and others generate have their strengths and weaknesses , but the main advantage is that they can have forecast performance similar to traditional models while requiring far less computing horsepower to run. That means they can be run more frequently. Google recently released version 3 of its WeatherNext model, with the biggest change being that it now ingests some satellite weather data, shortening the lag time between current weather conditions and generating a new forecast. The update is detailed in a white paper . Reanalysis Many weather models make use of what’s called a “reanalysis,” which is a sort of model of its own. Reanalyses take in all kinds of weather data and combine them into a single, consistent global snapshot of the atmosphere. That requires that they provide estimates for conditions over locations without real-world measurements, because weather forecast models need to work with a global picture. Read full article Comments ]]>
 
-### Google complies with EU rules for travel searches, says the new results stink
-Tue, 08 Sep 2026 16:49:55 +0000 — https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/
-
-As the world's largest search engine, Google is often a target of Europe's Digital Markets Act (DMA), which seeks to rein in Big Tech. The European Commission hit Google with a hefty 460 million euro ($543 million) fine in July for preferring its own services in searches for travel and shopping. Google has now made changes in accordance with the European Union's wishes, but it claims the result is a massive reduction in search quality. If you don't live in Europe and perform a search for, say, hotels, Google will helpfully provide myriad sponsored links, booking recommendations, and price-comparison tools in its results. The problem is that this content isn't organic—Google includes links and offers contingent on its business interests. To get to the regular search results for these types of lucrative searches, you have to scroll way down the page. Companies that partner with Google can get more exposure, but the European Commission says this creates an unlevel playing field. "To comply with DMA requirements, we're making significant changes to Search in Europe," Google's Nick Fox told Reuters . "These changes ​degrade the user experience for ​Europeans, boosting online intermediaries ⁠at the expense of local businesses and removing helpful features people rely on every day." Read full article Comments ]]>
-
 ## The Verge
 
-### The Switch 2 is getting a 2D Metroid called Ravenous
-2026-09-09T10:46:50-04:00 — https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous
+### Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4
+2026-09-09T14:53:48-04:00 — https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4
 
-Nintendo just announced a new 2D entry in the Metroid series for the Switch 2, titled Metroid Ravenous . It's launching on January 28th, 2027 . The new game looks like an evolution of Metroid Dread . While it's still a 2D game, it features 3D graphics, lots of cinematic action shots, parrying enemies, and Samus rolling around in Morph Ball form. What's new for this game is that Samus also appears to somehow absorb energy from enemies to survive - Nintendo's marketing copy for the game uses the line "eat or be eaten." There are also many fearsome-looking foes, including some giant creatures and a group of futuristic, caped fighters that attack … Read the full story at The Verge. ]]>
+After Apple wrapped up its "Surprise and shine" event today, we were able to get a look at the new Apple Watch Series 12 and Ultra 4. Both of the new watches launch September 18th, with preorders available starting today. The Apple Watch Series 12 once again starts at $399 for the aluminum case option in space gray, black, light gold, and dark bronze aluminum. The natural and radiant gold titanium version costs $699, and the night blue and pearl white ceramic costs $899. Apple says this year's watch offers up to 24 hours of "everyday" battery life, and now offers up to 10 hours of battery during outdoor workouts and supports faster charg … Read the full story at The Verge. ]]>
 
-### I spent an hour riding inside Tesla’s steering-wheel-free Cybercab
-2026-09-09T10:41:07-04:00 — https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin
+### Here’s how the new iPhone 18 Pro stacks up to the last-gen models
+2026-09-09T14:53:43-04:00 — https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features
 
-Getting out of a taxi shouldn't be a shameful experience. Yet I find myself feeling particularly embarrassed while exiting a Tesla Cybercab as it partially blocks a narrow road outside a popular Austin swimming hole. As a cadre of annoyed , sweaty Texan parking spot hunters pile up around it, the gold-painted two-seater just sits there obliviously, lights flashing. I try not to make eye contact, but I can feel the stares of frustrated pool-goers around me, whose earnest attempt at a peaceful outdoor reprieve from the heat had just been interrupted by yet another not-quite-finished glimpse into the future. Tesla's long-awaited , two-seater Cy … Read the full story at The Verge. ]]>
+Apple's release cadence for the latest iPhones is unusual. It'll start with the 18 Pro models , then with the foldable iPhone Duo releasing in October for $1,999. It hasn't confirmed when its base iPhone 18 model will launch. So, this post is focused just on the new the 18 Pro and the 18 Pro Max. Both phones are launching September 18th, with preorders opening Saturday, September 12th. The 6.3-inch iPhone 18 Pro starts at $1,199, which is $100 more than last year's phone. The 6.9-inch iPhone 18 Pro Max goes up to $1,299, another $100 jump. With the iPhone 18 Pro being Apple's 2026 flagship phone, it makes sense to compare it to its two pre … Read the full story at The Verge. ]]>
 
-### My favorite gaming earbuds got their first discount
-2026-09-09T09:53:03-04:00 — https://www.theverge.com/gadgets/992003/asus-cetra-open-wireless-gaming-headset-earbuds-deal-sale
+### Hands-on with the foldable iPhone Duo
+2026-09-09T14:38:40-04:00 — https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions
 
-Asus’ Cetra Open wireless earbuds are some of the best that I’ve tested, despite being open-style earbuds. Their drivers sit outside of your ear, which allows outside sounds to mix with audio coming from your console. Some gamers may not want this, but it works well for me as someone who prefers to be aware of their surroundings as they play or listen to podcasts. They’re $22 off at Amazon and Best Buy , costing $206.99. In addition to their great-sounding audio and respectable battery life (plus surprisingly deep customization through a mobile or browser-based app), the Cetra Open ship with a clever USB-C 2.4GHz transmitter that has a built-in port for passthrough charging. In other words, you can charge as you play instead of forgoing a USB-C port for audio. The built-in port supports up to 60W of passthrough charging, but it can’t be used as a data port. Asus Cetra Open Wireless earbuds Where to Buy: $229.99 $206.99 at Amazon $229.99 $206.99 at Best Buy $229.99 at Asus The Cetra Open are as good of a fit for the likes of the Steam Deck, PC, Nintendo Switch 2 and PlayStation 5 as they are for your phone. They’re a breeze to connect via Bluetooth and use for music and podcasts, and there’s also a reflective band included that physically links them together behind your neck for improved visibility and stability if you want to run with them. Read our Asus Cetra Open earbuds hands-on review. ]]>
+The first foldable iPhone is finally here, and following its announcement, we got the chance to try the phone for ourselves. We've long been told that Apple would make a foldable iPhone once the tech was good enough - has it been worth the wait? It definitely feels like something different. The inner screen has a decidedly matte finish that handled even some glare from the windows above the hands-on area well. The folding mechanism is smooth, and even IP68 rated, and the crease is almost impossible to find with my finger. The 5.4-inch outer screen looks petite by modern slab phone standards. The real show happens when you open and close t … Read the full story at The Verge. ]]>
 
-### Nintendo Direct September 2026: The biggest news and trailers
-2026-09-09T09:50:00-04:00 — https://www.theverge.com/games/991547/nintendo-direct-september-2026-news-trailers-announcements
+### Apple is raising iPhone prices by $100 on all of its old models
+2026-09-09T14:30:24-04:00 — https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase
 
-It s almost time for part two of Nintendo s double feature this week. On Tuesday, the company hosted a showcase all about the Legend of Zelda franchise, including footage and a November 5th release date for the Switch 2 Ocarina of Time remake . On Wednesday, the company will be airing its next Nintendo Direct , which will spotlight Switch 2 games “launching this winter” in an approximately 45-minute presentation. Right after the Direct, Nintendo will also air a Treehouse Live stream that s set to run for about 110 minutes. Now that Nintendo s release schedule is set through November — its other big upcoming releases include Fire Emblem: Fortune s Weave on September 17th and Nintendo Switch Sports Resort on October 22nd — Wednesday s showcase could be the first meaningful look at Nintendo s next big batch of games. Major new entries in the Pokémon and Xenoblade franchises are already on the calendar for 2027, but perhaps we ll see more during the show. Follow our coverage of the September 2026 Nintendo Direct right here. You can watch the show on YouTube starting at 10AM ET . The Switch 2 is getting a 2D Metroid called Ravenous Time for some Slayhem. Persona 6 is coming to the Switch 2. Mario Kart World gets a new update later today. The spirit of Wii Sports lives on. Return to Resident Evil remakes. Pikmin 4 is getting a Nintendo Switch 2 Edition. A true gentleman leaves no puzzle unsolved. New pokémon are coming to Pokopia. Star Fox’s adventures. More Hyrule Warriors. Monste
+Following Apple's "Surprise and shine" event that saw the announcement of the iPhone Duo and the iPhone 18 Pro , the company increased the price on all of its last-gen iPhones that are still available for purchase. The iPhone 16 sold for $699 just last week, and now it's up to $799. The iPhone 17E with 256GB of storage now costs $699 instead of its launch $599 price. The iPhone 17 starts at $899 with 256GB of storage instead of $799. The trend continues up the ladder with the iPhone Air, which now costs $1,099 instead of $999. The base iPhone 18 was missing from Apple's September event, with the focus being on its highest-end models that s … Read the full story at The Verge. ]]>
 
-### Amazon Prime Video’s new AI tech matches lips to dubbed audio
-2026-09-09T09:00:00-04:00 — https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing
+### Apple iPhone Duo launch event: The 5 biggest announcements
+2026-09-09T14:24:59-04:00 — https://www.theverge.com/tech/991965/apple-iphone-duo-launch-event-biggest-announcements
 
-Maxton Hall. | Image: Prime Video Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with "human-dubbed" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to "additional titles" in the future. In its announcement, Prime Video says it uses a combination of AI and visual effects technologies to make lip movements match up with translated speech. Meta and YouTube recently launched an AI-powered auto-dubbing feature for creators, while allowing them to turn on a "lip sync" option to make it look like creators are actually speaking in a user's preferred lan … Read the full story at The Verge. ]]>
+Apple just wrapped up its first iPhone launch event with CEO John Ternus at the helm, and it did not disappoint. We got a look at Apple's long-rumored foldable iPhone Duo, along with the next generation of AirPods and the Apple Watch. Here's a roundup of all the biggest announcements from the event. Apple's first foldable: the iPhone Duo Apple's "one more thing" at this year's event was the iPhone Duo - a passport-shaped foldable that lays flat when opened. The device is Apple's "thinnest iPhone yet," coming with a 7.6-inch inner display and a 5.4-inch outer screen. It will also support Apple Pencil "later this year" and comes with Touch … Read the full story at The Verge. ]]>
 
-### How to watch Apple’s September 9th launch event
-2026-09-09T08:28:56-04:00 — https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch
+### Apple skips the base iPhone 18 at its fall launch event
+2026-09-09T14:19:36-04:00 — https://www.theverge.com/news/991130/apple-skips-iphone-18-fall-2026-release
 
-Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple's iPhone 18 lineup. That could include the long-rumored foldable "iPhone Duo," coming just a couple months after Samsung debuted its own passport-style foldable, the Galaxy Z Fold 8. Here's how you can watch the event live, and a few possible highlights to keep an eye out for. How to watch Apple's September launch event Apple's "Surprise and shine" event kicks off on Wednesday, September 9th, at 1PM ET / 10A … Read the full story at The Verge. ]]>
+The successor to the iPhone 17 isn’t arriving this fall. | Photo by Amelia Holowaty Krales / The Verge Apple is taking the unusual step of skipping the base iPhone 18 this fall. At its "Surprise and shine" event today, the company revealed the iPhone 18 Pro and Pro Max , alongside the new foldable iPhone Duo . But the base iPhone 18 was a no-show. Rumors had suggested Apple would only launch premium iPhones this fall, with the base model slipping to next spring. Instead of announcing the iPhone 18 today, Apple has raised the prices of its existing iPhone 17 models by $100. Even the older iPhone 16 that's still on sale has gone up by $100 compared to last week, back to its original $799 starting price. Memory and chip shortages likely contribu … Read the full story at The Verge. ]]>
 
-### Students who use AI generally score worse at school
-2026-09-09T08:05:01-04:00 — https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa
+### Apple brought ceramic back for the Series 12
+2026-09-09T14:19:02-04:00 — https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition
 
-Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how well the AI tools perform. The OECD's Programme for International Student Assessment (PISA) takes data from countries around the world every few years. This year's study, based on data collected in 2025, is the first to be carried out since AI use went truly mainstream. It tests 15-year-old students in science, math, and rea … Read the full story at The Verge. ]]>
+The new ceramic colors: pearl white and night blue. | Image: Apple The Apple Watch Series 12 is launching with a ceramic option, making it the company's first wearable since 2019's Series 5 that can be configured with the pricey, scratch-resistant material. It can be configured with either pearl white or night blue ceramic finishes, and it starts at $899 , going up to $949 if you purchase the 46mm size. While Apple didn't resurrect its "Apple Watch Edition" branding for the Series 12 (it stopped using the name in a forward-facing manner when the Series 4 launched), the new ceramic option is similarly made for high rollers who won't mind shelling out far more than the Series 12's $399 starting price. It's i … Read the full story at The Verge. ]]>
 
-### Worried Anthropic researchers warn that AI could kill all humans
-2026-09-09T05:56:28-04:00 — https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans
+### Apple completely revamped iOS 27 s controls and apps for the iPhone Duo
+2026-09-09T14:12:22-04:00 — https://www.theverge.com/tech/989294/iphone-ultra-fold-multitasking-ios
 
-A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence "could kill all humans" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build "superhuman systems" they cannot control. In a post on X announcing his departure, Jacob Coxon, a researcher who has trained AI systems at Anthropic, said he had quit the company over its lax approach to safety. Coxon, who previously trained systems for OpenAI, accused the two AI companies of "racing straight to self-improving superintelligence and gambling with our lives," even … Read the full story at The Verge. ]]>
+Obviously, part of the appeal of a foldable phone is all that additional screen real estate. That gives you plenty of room for some serious multitasking that just isn't possible, or at the very least is clunky, on a smaller screen. Apple rarely does things without seriously considering all the implications, so it was never just going to shove iOS as is into its new foldable. The company didn't have to start from scratch or reinvent the wheel, however. It already had a mobile OS capable of multitasking in iPadOS, which was built on iOS to begin with. The company even said that the iPhone Duo was designed to be "as natural and intuitive as iP … Read the full story at The Verge. ]]>
 
-### Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000
-2026-09-09T01:26:53-04:00 — https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable
+### The iPhone Duo is Apple’s first foldable
+2026-09-09T13:56:54-04:00 — https://www.theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date
 
-With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. The midnight report suggests it will have a price starting at $2,000 for a model with 256GB of storage, or around $3,000 for up to 2TB. Shipping is said to start as soon as October in two colors: white and dark blue. So far, the rumored foldable has been mostly referred to as the iPhone Ultra, while the Duo name would raise a title that Google used for one of its many ill-fated attempts at messaging and chat, and that Micros … Read the full story at The Verge. ]]>
+Apple has announced its long-anticipated foldable iPhone, which arrives more than seven years after the first Samsung Galaxy Fold phone hit the market. My colleague Allison Johnson has already had the chance to try out the device in person at Apple's event, so read what she thinks of it so far . The Duo will be available to preorder on October 16th, going on sale on October 23rd, a month later than the two 18 Pro models . It starts at $1,999 - $100 more than Samsung's Galaxy Z Fold 8, but $100 less than its Z Fold 8 Ultra - for 256GB of storage, with the option to go up to 2TB total. Like the iPhone Air, it's eSIM-only worldwide. Much like S … Read the full story at The Verge. ]]>
 
-### Sony isn’t phasing out discs quite as quickly as we thought
-2026-09-08T17:52:13-04:00 — https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent
+### The Apple Watch Ultra 4 is ready for the new Siri
+2026-09-09T13:43:16-04:00 — https://www.theverge.com/tech/990290/apple-watch-ultra-4-smartwatch-wearable-availability-pricing
 
-Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed , the company's discmaking division now says that one widely reported detail was wrong. Originally, it sounded like the division's president said the Thalgau plant would produce 90 percent fewer discs in 2028 - but the reality is it will only produce 10 percent fewer discs in 2028, an unnamed Sony DADC spokesperson told Game journalist Brian Crecente . "To clarify and avoid any misleading informa … Read the full story at The Verge. ]]>
+Apple announced the next version of the rugged and durable Apple Watch Ultra at today's "Surprise and shine" event. The Apple Watch Ultra 4 features a design that's nearly identical to last year's Apple Watch Ultra 3 but is powered by Apple's new S11 processor, which replaces the aging S10 chip first introduced with the Apple Watch Series 10 in 2024. The S11 will bring some much-needed performance improvements to the Ultra 4 ahead of Apple's upcoming watchOS 27 release that will include the smarter and more capable Siri AI assistant announced at Apple's annual WWDC conference earlier this year . The Apple Watch Ultra 4 features new optical … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
+
+### Apple A20 Pro powers iPhone Duo, 18 Pro — the company's first 2-nanometer smartphone chip
+Wed, 09 Sep 2026 17:33:21 +0000 — https://www.tomshardware.com/pc-components/cpus/apple-a20-pro-powers-iphone-18-pro-the-companys-first-2-nanometer-smartphone-chip
+
+Apple has a new top system-on-a-chip for smartphones, the A20 Pro. The new processor debuted at Apple's iPhone event today — the first event led by newly minted chief executive officer John Ternus — alongside a new in-house modem (the C2). The A20 Pro is Apple's first 2-nanometer chip in an iPhone. (Its first-ever 2 nm chip is the M6, which the company announced in August and which will debut in the Mac Mini later this month). Like the M6, the A20 features dual neural engines, new CPU and GPU cores. The A20 Pro will power the new foldable iPhone Duo, along with the iPhone 18 Pro and Pro Max. Apple Apple Apple Apple Apple Apple The new SOC boasts a 6-core CPU with two of the company's super-cores (20% faster than last generation), and there are also four efficiency cores with neural accelerators. Apple is calling this a "desktop-class" processor and the "fastest CPU in a smartphone." The 7-core GPU has a 40% boost gen-over-gen with increased bandwidth, along with new neural accelerators that the company says allows for twice-as-fast FP8 compute. The two neural engines have a combined 32 total cores. There's a 50% increase in memory bandwidth on the chip, which Apple says is the widest memory interface in an iPhone. Apple has also changed the packaging, with the silicon dies placed in a way that removes memory from the thermal path of the SOC, allowing the silicon to attach directly to the vapor chamber. That vapor chamber has a three times larger surface area over the 17 Pro, 
+
+### Switch 2 Zelda 40th Anniversary Edition preorders hit $1,000 on eBay — Amazon and Walmart are your last shot at $520 MSRP
+Wed, 09 Sep 2026 17:06:03 +0000 — https://www.tomshardware.com/video-games/handheld-gaming/switch-2-zelda-40th-anniversary-edition-preorders-hit-usd1-000-on-ebay-amazon-and-walmart-are-your-last-shot-at-usd520-msrp
+
+Preorders for the Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition went live shortly after yesterday's Nintendo Direct and sold out instantly. However, Amazon and Walmart , which have listed the limited-edition console for $519.99, still have not enabled preorders, so you may still have a chance to get one before the scalpers. Pre-order the Switch 2 The Legend of Zelda 40th Anniversary Edition on Amazon Pre-order the Switch 2 The Legend of Zelda 40th Anniversary Edition on Walmart Pre-order the Switch 2 The Legend of Zelda 40th Anniversary Edition on Best Buy Pre-order the Switch 2 The Legend of Zelda 40th Anniversary Edition on Target Pre-order the Switch 2 The Legend of Zelda 40th Anniversary Edition on GameStop Major U.S. retailers, including Target, Best Buy, and GameStop, were the first to enable preorders for the Switch 2 The Legend of Zelda 40th Anniversary Edition , which instantly sold out. It did not take long for scalpers to hit eBay to resell preorders for as much as $1,000, almost 2X over Nintendo's MSRP. Zelda-exclusive consoles have always been prime targets for scalpers. The Switch 2 The Legend of Zelda 40th Anniversary Edition, the first limited edition of the Switch 2 and a The Legend of Zelda -themed edition celebrating the franchise's 40 years, makes the handheld console even more desirable to hardcore fans and scalpers looking to make a quick profit. Plus, the console's $519.99 price tag, which is only $20 over the vanilla Switch 2, gives ga
+
+### Intel-backed auto-overclocking tool Hypertune optimizes individual systems, not test profiles — tool claims FPS improvement of up to 60% on Intel-based systems
+Wed, 09 Sep 2026 16:03:05 +0000 — https://www.tomshardware.com/pc-components/cpus/intel-backed-auto-overclocking-tool-hypertune-optimizes-individual-systems-not-test-profiles-tool-claims-fps-improvement-of-up-to-60-percent-on-intel-based-systems
+
+Following an early access period that included over 60,000 participants, auto-overclocking tool Hypertune has released its Gaming Performance Engineering platform, which is built on top of Intel's Extreme Tuning Utility (XTU) SDK and developed in partnership with Intel. The company claims the utility can boost frame rates by up to 60%, though you shouldn't expect that as the norm. The tool includes automated CPU and GPU overclocking, as well as customizable Windows features, network optimization, and game-specific optimizations. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent Hypertune partnered with Intel to build the tool, which the company says "evaluates each supported system individually" before optimizing rather than relying on generalized profiles. In its press release, Hypertune says it collaborated with famed overclocker SkatterBencher (Pieter Plaisier) to refine the software. We've reached out to Plaisier to confirm their involvement. Automated tuning programs usually don't work as well as advertised, and we haven't had the chance to test Hypertune ourselves yet. Especially on more recent hardware
+
+### Framework cuts 32GB and 64GB memory prices for new Laptop 13 Pro, issues retroactive refunds — modular laptop maker secures 'limited quantity' of LPCAMM2 RAM at lower cost
+Wed, 09 Sep 2026 15:00:00 +0000 — https://www.tomshardware.com/laptops/framework-cuts-32gb-and-64gb-memory-prices-for-new-laptop-13-pro-issues-retroactive-refunds-modular-laptop-maker-secures-limited-quantity-of-lpcamm2-ram-at-lower-cost
+
+Modular laptop manufacturer Framework has just announced that it's dropping some of its memory pricing for its new Framework Laptop 13 Pro after previously doubling it back in July, including retroactively for orders that have already shipped. Posting on social media and in an update on its blog, the company says that it's been able to source new inventory at a reduced cost. "We have a positive update today on LPCAMM2 pricing! We were able to source a limited quantity at lower cost, and are retroactively reducing prices for orders that shipped at higher price, as well as offering the lower price to orders through Batch 10" according to the company's recent X post . A further update, posted on the company's blog , goes on to explain that Framework's Supply Chain team "has been working continuously to source additional inventory at better prices." The lower prices are due to a "limited quantity" of Micron 32GB and 64GB LPCAMM2 memory modules that the company has secured at "lower cost," and that as the company is "committed to passing on savings whenever we can," it is passing the price reductions back to customers. LPCAMM2 memory is available for the Intel Core Ultra Series 3 version of the Framework laptop. Other models, like those shipping with AMD Ryzen AI 300 CPUs, are using SO-DIMMs instead. The price reductions are being applied to "both already shipped and a subset of pending pre-orders," according to chief executive Nirav Patel. This improves the situation for consumer
 
 ### Microsoft reportedly gives secret Xbox Game Pass discounts to churned subscribers to reel them back in — targeted offers slash up to 30% off the regular price
 Wed, 09 Sep 2026 14:39:23 +0000 — https://www.tomshardware.com/video-games/pc-gaming/microsoft-reportedly-gives-secret-xbox-game-pass-discounts-to-churned-subscribers-to-reel-them-back-in-targeted-offers-slash-up-to-30-percent-off-the-regular-price
@@ -131,7 +151,7 @@ Wed, 09 Sep 2026 13:33:15 +0000 — https://www.tomshardware.com/pc-components/s
 
 Whether you are into content creation, 3D animation or modeling, or visual effects creation, you need the right tools to succeed. Autodesk's software is second to none in these fields of work, and for a limited time, you can save up to 40% on the company's Media and Entertainment Collection. This is a great opportunity to save hundreds of dollars on software vital to your work. Check out the Media and Entertainment Collection deal on Autodesk The Autodesk Media and Entertainment Collection is a comprehensive software bundle that includes industry-standard programs, such as Maya and 3ds Max. Professionals and aspiring students aiming to thrive in the 3D animation or 3D modeling industry are likely already familiar with this software and understand how significant the investment in their subscriptions can be. While Autodesk offers individual subscriptions for its vast portfolio of software, the Media and Entertainment Collection bundle is a far smarter investment for most users. By picking up the bundle, you can save up to 40% compared to purchasing each piece of software separately. It is more affordable for professionals and students and offers the convenience of having all the necessary software in one package. Media and Entertainment Collection: was $0 now $0 The Autodesk Media & Entertainment Collection includes a wide range of software, such as Maya, 3ds Max, Arnold, and MotionBuilder. View Deal Autodesk presently offers the Media and Entertainment Collection in four uniq
 
-### Goodram PX700 2TB SSD Review — High-end punch on a budget core
+### Goodram PX700 2TB SSD Review: High-end punch on a budget core
 Wed, 09 Sep 2026 12:34:37 +0000 — https://www.tomshardware.com/pc-components/ssds/goodram-px700-2tb-ssd-review
 
 The Goodram PX700 is a budget PCIe 4.0 drive that delivers everything you need: good performance, great power efficiency, and all in a single-sided package that runs cool. Sometimes it really is as simple as picking one drive to meet whatever your storage needs are at the moment. It’s not the first model that comes to mind for this segment, but in our testing it performed better than expected as a good drive that may otherwise run under the radar. Goodram is not a new or no-name company, even if the “good RAM” moniker seems a little too on the nose. Instead, it’s a memory assembler in the EU with quite some history. This, in fact, makes it more approachable in comparison to a lot of the new names we have seen on AliExpress and increasingly on Amazon. We expect reliability or at least good support from the company, and the TBW on this one seems to reflect that this isn’t an ultra-budget drive. On the contrary, performance was not just what we expected – considering we’ve reviewed many drives in this segment, many with the same or comparable hardware – but above. Sometimes only by a small amount, but the gaps are real. Anywhere performance mattered, it delivered. One expects trade-offs for that, but in fact the PX700 is very power-efficient, and the drive provides an excellent storage experience. The only downsides are sustained write performance – which is of little importance in most cases – and, unfortunately, the price. At the right price point, this would be a great pick f
@@ -156,27 +176,27 @@ Wed, 09 Sep 2026 11:20:00 +0000 — https://www.tomshardware.com/tech-industry/a
 
 "AI is grown, more than designed," OpenAI's chief scientist, Jakub Pachocki, said in a new blog post on the company's latest GPT-6 Astra release . Titling the piece "An Alien Mind," Pachocki portrays the latest large language model as something more ethereal and harder to quantify. Jensen Huang calls it AGI, and OpenAI claims it's the best, most aligned model the company has ever released. It's safer to delegate, better at complex work tasks, and it can even beat Portal in just a few hours. Huang also said that AGI had previously been achieved back in March earlier this year . Artificial Analysis benchmarks suggest Astra is about as smart as Fable 5.1 - though crucially, cheaper on a per-task basis. Astra may well be better aligned than models in the past, and it may well be more capable in specific tasks and specific benchmarks. However, the claims that the model has achieved AGI, or Artificial General Intelligence, suggest an inflection point for the AI industry. Astra's release comes alongside calls for an industry slowdown, greater government oversight, and controls on the AI industry. Now, OpenAI's Astra raises more eyebrows about frontier-level intelligence. Trust us, we don't know what we're doing The tone around OpenAI's Astra release is intriguing. OpenAI's produced a new set of benchmarks, touting bold claims about the model's reasoning capabilities, with the model trained on 100,000 Blackwell GPUs, with more coming soon. GPT-6 Astra, trained on ~100K+ NVIDIA Grace 
 
-### This $502 4TB Crucial T705 is the cheapest Gen 5 SSD you can buy right now for just 12.5 cents per GB — ultra-fast storage upgrade with unreal 14,500 MB/s speeds is $181 less than a month ago, hitting its lowest price since February
-Wed, 09 Sep 2026 11:05:46 +0000 — https://www.tomshardware.com/pc-components/ssds/this-usd502-4tb-crucial-t705-is-the-cheapest-gen-5-ssd-you-can-buy-right-now-for-just-12-5-cents-per-gb-ultra-fast-storage-upgrade-with-unreal-14-500-mb-s-speeds-is-usd181-less-than-a-month-ago-hitting-its-lowest-price-since-february
-
-We've seen huge price rises this year for PC hardware, but RAM and SSDs have been especially affected. The global DRAM shortage, mostly caused by AI data center demands hoovering up all of the available stock, has caused prices to skyrocket. That's why this 4TB Crucial T705 SSD, down to $502.51 , is a good deal in the current market, especially given its high capacity. ● Check out this deal at Amazon Looking at Camelcamelcamel's price data, we can see that this drive was hitting almost $700 just a few weeks ago. Several price drops since have meant that the 4TB Crucial T705 is now almost below $500 for the first time in February. Along with a decent price drop, this Crucial drive is now the cheapest Gen 5 SSD you can pick up, with the next-cheapest model, the Samsung 990 Evo Plus, $60 more expensive at the moment. It's not even a fair comparison, too, as the entry-level 990 Evo Plus only supports PCIe 5.0 over two lanes, not four, meaning you're only getting Gen 4-equivalent speeds. The Crucial T705 is a high-performance drive that's much faster, and right now, much cheaper. This Crucial T705 4TB SSD is the cheapest Gen 5 SSD on the market right now. It offers read and write speeds of up to 14,500 MB/s and 12,700 MB/s apiece. View Deal SSDs that offer Gen 5 speeds are a real step up over their slower Gen 4 counterparts. The T705 will offer you sequential read and write speeds of 14,500 MB/s and 12,700 MB/s, which is significantly faster than the fastest Gen 4 SSD on the marke
-
-### Phanteks AMP GH 750W power supply review: Great buy at sub-$90 street pricing, but comes with a 450W cap on its 12V-2x6 connector
-Wed, 09 Sep 2026 11:05:00 +0000 — https://www.tomshardware.com/pc-components/power-supplies/phanteks-amp-gh-750w-power-supply-review
-
-Phanteks is a Dutch company, founded in 2007 and best known for enclosures, alongside air coolers, AIOs, and a steadily expanding catalog of accessories. Power supplies came later, and they have always been commissioned work. As with most such companies, Phanteks does not own a factory, and the identity of the power supply inside a Phanteks box has changed more than once. For example, the original AMP series from 2020 was a Seasonic Focus derivative, a genuinely strong platform that earned the AMP series a significant reputation. The AMP GH is the current mainstream range, and it is a different animal. The platform of the AMP GH 750W that we are reviewing today comes from Helly Technology, the Guangzhou outfit founded in 2008 that has spent the last few years building the mid- and upper-tier units. Young by the standards of this industry, but no longer an unknown quantity. The series spans 650W to 1200W across Gold and Platinum tiers, in black or white. We take a closer look at the AMP GH 750W to see how it ranks against our best power supplies list. Everything in it is ATX 3.1 and PCIe 5.1 compliant, fully modular, and cooled by a single 120 mm fan that stops entirely at low load. The 750W model reviewed here is the volume seller of the range, aiming squarely at the mid-range gaming build. Specifications and Design Phanteks AMP GH 750W Power specifications ( Rated @ 40 °C ) RAIL +3.3V +5V +12V +5Vsb -12V MAX OUTPUT 20A 20A 62A 2.5A 0.3A 100W 100W 744W 12.5W 3.6W TOTAL 750W A
-
-### Nvidia's unreleased RTX 3070 Ti 16GB comes to life thanks to a modder's crazy GDDR6 swap — Frankenstein card combines RTX 3070 PCB and new VRAM with RTX 3070 Ti GPU
-Wed, 09 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidias-unreleased-rtx-3070-ti-16gb-comes-to-life-thanks-to-a-modders-crazy-gddr6-swap-frankenstein-card-combines-rtx-3070-pcb-and-new-vram-with-rtx-3070-ti-gpu
-
-A few years ago, Nvidia was expected to release the RTX 3070 Ti with as much as 16GB of VRAM instead of the 8GB we actually ended up getting. Only database listings ultimately indicated its existence until a physical prototype showed up , but we never really got to see it working. Fast forward to today, however, and Brazilian YouTuber fmklab, aka Fabian, has recreated the card on his own. Using an RTX 3070 PCB with a transplanted 3070 Ti core and GDDR6 chips from Samsung, fmklab broughall those parts together to achieve a 16GB memory pool. The card was stripped down to its PCB, and the RTX 3070 GPU was removed and replaced with a 3070 Ti chip. The reason for the swap is that the RTX 3070 uses GDDR6 instead of the GDDR6X the retail version of the RTX 3070 Ti is equipped with, which presented an interesting challenge. (Image credit: Fabian - @fmklab on YouTube) Fabian could've put all 16GB of GDDR6X memory on a 3070 Ti card, but it would've been far too expensive, so he swapped the Samsung-made HC14 (8Gb) GDDR6 chips that were already on the board with HC16 (16Gb) chips. That changed the VRAM capacity from 8GB to 16GB, but when the card booted, GPU-Z only recognized 8GB. The PCB's memory straps needed to be reconfigured in order for it to use the entire memory pool. (Image credit: Fabian - @fmklab on YouTube) Using the Nvidia BIOS Reader tool , Fabian figured out exactly what straps to adjust and went ahead with the soldering process. Afterward, MATS properly recognized the ful
-
-### Researcher reverse-engineers infamous Stuxnet malware source code, publishes it on Github for all — attack targeted Iranian nuclear facilities and was the first software of its type to cause physical damage
-Wed, 09 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/researcher-reconstructs-infamous-stuxnet-malware-source-code-attack-targeted-iranian-nuclear-facilities-and-was-the-first-software-of-its-type-to-cause-physical-damage
-
-Anyone keeping track of world news in the early 2010s, and reports on tech in particular, has probably heard about Stuxnet. That malware spawned a large number of conspiracy theories — with the kicker that some of them were actually true. The malware targeted Iranian nuclear facilities and is believed to be the first digital worm to cause direct physical damage in meatspace. An unknown security researcher has now published a source code reverse-engineering of Stuxnet in all its glory. The worm's ultimate target, allegedly a successful one , were industrial controllers from Siemens that were reportedly used in Iranian's Natanz nuclear enrichment plant. Once it reached the target, Stuxnet's payload manipulated the frequency converters in industrial centrifuges, in a bid to subtly damage the rotors — all while keeping the plant staff in the dark by reporting normal operation. The repository contains build instructions so interested techies can try it out for themselves and learn all about its inner workings. You'll need a Windows XP or Windows 7 virtual machine, and for obvious reasons, you shouldn't configure any network connectivity for it. To witness the full effects of the payload rather than just the spreading mechanisms, you'll need the appropriate Siemens software, and ideally hardware — though we figure that industrial-scale centrifuges aren't exactly common in techies' cable drawers. In its heyday, Stuxnet spread via three mechanisms . The primary infection vector was U
-
 ## Phoronix
+
+### Running AMD openSIL + Coreboot On The First Available Ryzen AM5 Motherboard
+Wed, 09 Sep 2026 12:10:00 -0400 — https://www.phoronix.com/review/msi-b850p-coreboot-opensil
+
+Earlier this year the 3mdeb firmware consulting firm ported AMD openSIL CPU open-source silicon initialization library and Coreboot to an EPYC motherboard, the Gigabyte MZ33-AR1. Their next feat now achieved is bringing AMD openSIL and Coreboot to a desktop AMD Ryzen motherboard with their downstream Dasharo firmware solution. I have been running this alternative firmware on the MSI PRO B850P WiFi motherboard and it s been working out and performing well as an alternative to the closed-up motherboard firmware.
+
+### XWayland 26.1 RC2 Released For Testing With More Fixes
+Wed, 09 Sep 2026 11:52:32 -0400 — https://www.phoronix.com/news/XWayland-26.1-RC2
+
+Following last month's initial release candidate of XWayland 26.1 with its many new features, a second release candidate is now available with a number of fixes...
+
+### System76 Launches The Thelio Mira AI With AMD Ryzen + NVIDIA Or AMD Graphics
+Wed, 09 Sep 2026 10:57:09 -0400 — https://www.phoronix.com/news/System76-Thelio-Mira-AI
+
+System76 today unveiled their newest desktop computer as the Thelio Mira AI. The System76 Thelio Mira AI is designed for multi-GPU AI training, model fine-tuning, AI inferencing, computer vision and image generation tasks on tthe AI side. Or with its AMD Ryzen 9000 series CPU and NVIDIA/AMD GPU options is also a good candidate for simulations and other HPC-type workloads...
+
+### OpenSSL 4.1 Alpha 1 Released With DTLS 1.3, GREASE & More AVX-512 Optimizations
+Wed, 09 Sep 2026 10:46:00 -0400 — https://www.phoronix.com/news/OpenSSL-4.1-Alpha-1
+
+The first alpha release of the upcoming OpenSSL 4.1 release is now available for testing with some GREASE and DTLS 1.3 support along with more AVX-512 performance optimizations...
 
 ### NVIDIA 615.71.09 Linux Driver Released With Vulkan Improvements
 Wed, 09 Sep 2026 10:02:37 -0400 — https://www.phoronix.com/news/NVIDIA-615.71.09-Linux-Driver
@@ -218,27 +238,17 @@ Tue, 08 Sep 2026 15:31:22 -0400 — https://www.phoronix.com/news/DLSS5VKLayer
 
 An interesting new open-source project for those looking to make use of NVIDIA DLSS 5 on Linux is DLSS5VKLayer. The DLSS5VKLayer is a Linux Vulkan layer that works for both native Linux games as well as Steam Play (Proton) Windows games for experimental DLSS 5 support...
 
-### KDE s KWin Merges Wayland Commit-Timing Protocol Support
-Tue, 08 Sep 2026 12:55:36 -0400 — https://www.phoronix.com/news/KDE-KWin-Wayland-Commit-Timing
-
-Merged today to the latest KDE KWin compositor development code is support for Wayland's important commit-timing protocol that is useful for video playback as well as for gamers relying on Adaptive-Sync/FreeSync support...
-
-### The Linux Kernel Planning To Remove Around ~55k Lines Of Old ARM Platform Code
-Tue, 08 Sep 2026 12:06:16 -0400 — https://www.phoronix.com/news/Linux-Dropping-Old-ARM-Ahead
-
-For the current Linux 7.3 kernel many older 32-bit ARM platforms are deprecated and in turn orphaning hundreds of drivers only relevant to those out-of-date ARM platforms. The removal of that now deprecated code is planned for the next kernel cycle or two...
-
-### CHUWI UniBook With Intel Wildcat Lake For A $449 Linux-Friendly Laptop
-Tue, 08 Sep 2026 10:05:00 -0400 — https://www.phoronix.com/review/chuwi-unibook-wildcat-lake
-
-CHUWI recently launched the UniBook laptop powered by the Intel Core 3 304 "Wildcat Lake" SOC and priced at just $449 USD. Especially with today s high component pricing, a brand new sub-$500 laptop is extremely rare. Rather than using some dated SoC, it uses Wildcat Lake as Intel s new value option alternative to the Core 3 Series Ultra "Panther Lake" SoCs. This was our first time testing out Intel Wildcat Lake and that SoC plus the overall CHUWI UniBook has been working out well on Linux for those looking at a laptop in the sub-$500 space.
-
-### DaVinci Resolve 21.1 Released - Now With AI Assistant Integration
-Tue, 08 Sep 2026 09:58:41 -0400 — https://www.phoronix.com/news/DaVinci-Resolve-21.1
-
-For those using the Linux-friendly DaVinci Resolve video editing and color correction/grading and visual effects software, DaVinci Resolve 21.1 is out today as a major update to this cross-platform solution...
-
 ## The Register
+
+### UK government says Fujitsu won't use framework places to chase new customers
+Wed, 09 Sep 2026 17:17:55 +0200 — https://www.theregister.com/public-sector/2026/09/09/uk-government-says-fujitsu-wont-use-framework-places-to-chase-new-customers/5295312
+
+The UK government has told MPs that Fujitsu has promised not to pursue contracts with new public sector customers through frameworks potentially worth billions of pounds while its voluntary bidding moratorium remains in place. In July, The Register revealed that the Japanese supplier had won a place on a UK government framework worth up to £14.9 billion despite its role in the Post Office Horizon scandal, one of the greatest miscarriages of justice in modern times. The supplier's place on the Digital Outcomes and Specialists 7 (DOS7) framework came after it won spots on two other frameworks, including Technology Services 4, worth up to £19.08 billion, and Transport Technology worth around £2.3 billion. In January 2024, Fujitsu voluntarily committed to stop bidding for contracts with new government customers until the public inquiry into the Horizon scandal had concluded. After Fujitsu secured places on the three government frameworks, House of Commons Business and Trade Committee chair Liam Byrne wrote to the government seeking assurance that the company would not use them to pursue work from new public sector customers. He also asked what discussions the government had held with Fujitsu about its participation and compliance with the moratorium. Horizon is an EPOS and back-end finance system that was first implemented in the 1990s by ICL, a UK tech firm majority-owned by Fujitsu at the time and fully acquired in 1998. It has since undergone two upgrades. Between 1999 and 201
+
+### Cryptocrook ringleader, 22, who met crew on Minecraft admits role in $245M heist
+Wed, 09 Sep 2026 15:39:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/09/cryptocrook-ringleader-22-who-met-crew-on-minecraft-admits-role-in-245m-heist/5295273
+
+The ringleader of a sprawling cybercrime operation has pleaded guilty in the US after helping to steal and launder hundreds of millions of dollars in cryptocurrency. Malone Lam, 22, a Singaporean national and Miami resident, spearheaded the scheme to steal cryptocurrency from wealthy individuals between October 2023 and May 2025. He first visited the US in 2023 after meeting two of the group's earliest alleged members – Jeandiel Serrano and Veer Chetal – while playing Minecraft online. Lam performed various functions within the group, although court documents [PDF] identify victim selection and social engineering support as his principal roles. The ringleader was responsible for obtaining databases of high-net-worth individuals who had cryptocurrency holdings to inform the group's targeting. He would also trigger account access notifications on victims' devices to convince them that their accounts were under attack. He was also involved in laundering the proceeds through exchanges that, according to court documents, had lax KYC requirements. Other group members carried out the social engineering calls, claiming to represent Google, Yahoo, Coinbase, Gemini (the crypto exchange, not the AI chatbot), and other online platforms. Their job was to convince victims to surrender personal information and "access codes" that could be used to access their accounts. Once they secured access, Lam's crew would look for cryptocurrency accounts, seed phrases, and passwords they could use to 
 
 ### WeChat worm could pwn a friend before they even answered the call
 Wed, 09 Sep 2026 14:45:00 +0200 — https://www.theregister.com/security/2026/09/09/wechat-worm-could-pwn-a-friend-before-they-even-answered-the-call/5295234
@@ -290,137 +300,69 @@ Wed, 09 Sep 2026 02:25:22 +0200 — https://www.theregister.com/security/2026/09
 
 The vulnpocalypse is upon us, dear reader. Microsoft delivered a record number of patches to address 974 CVEs in its own products this month, including two bugs that Redmond says are already under exploitation. September's record-breaking collection of security updates come after Microsoft served up 421 fixes in August, and 622 in July. We've seen the new normal and we are not impressed. Thanks, but no thanks, AI. In addition to Microsoft’s massive patch drop, Adobe on Tuesday issued 10 bulletins addressing 172 CVEs, including a max-severity vulnerability exploited as a zero day in Magento and its successor product Adobe Commerce. Adobe on Monday shipped a hotfix for this one, tracked as CVE-2026-75650 and named StyleSmuggler, that gives unauthenticated attackers remote code execution. StyleSmuggler If your organization has any type of online shop, prioritize this one first as it’s already being abused to compromise stores, according to e-commerce security shop Sansec. Sansec discovered StyleSmuggler, and reports that attacks started on September 4. Every version of Magento and Adobe Commerce, from 2.4.4 up to and including 2.4.9, has the flaw. The bug allows attackers to inject malicious PHP code inside Magento templates using the “styles” properties to evade safety detections. In confirmed attacks, the payload then installs a backdoor that connects to a command-and-control server and waits for instructions. “So far, we have no indication that the backdoor has been weaponize
 
-### OpenAI GPT-6 Astra will run a retailer without cheating and sell more stuff than Anthropic
-Wed, 09 Sep 2026 01:14:17 +0200 — https://www.theregister.com/ai-and-ml/2026/09/09/openai-gpt-6-astra-will-run-a-retailer-without-cheating-and-sell-more-stuff-than-anthropic/5295144
-
-In the dispiriting race to replace human store managers with AI, OpenAI has taken the lead, according to Andon Labs, a business that analyzes whether AI can take on real-world tasks. OpenAI's latest model, GPT-6 Astra, has demonstrated that it can run a business more effectively, with more integrity, than rival Anthropic's Fable 5.1 model, Andon Labs has declared in a blog post. "GPT 6 Astra is better at making money and more ethical than Claude Fable 5.1," the post states. The benchmarking biz, which focuses on preparing "for the future where organizations are run autonomously by AI," says GPT-6 Astra is the first OpenAI model to take the top spot on its vending evaluation test and does so "without any unethical business practices" exhibited by prior Claude models. We note the unethical business practices relevant to this discussion – price collusion, lying, and threatening competitors – reflect AI model behavior. They have nothing to do with the actions of Anthropic or OpenAI or the unproven allegations made against these companies in dozens of lawsuits. And settlements related to said allegations have been reached without any admission of wrongdoing. Anthropic entered into the fray last year when it partnered with Andon Labs for Project Vend, in which the AI company's Claude Sonnet 3.7 model managed a store for a month under the name "Claudius". Apart from the entertainment value of the Claudius model hallucinating that it was a real person and trying to set up an in-perso
-
-### Google DeepMind rises above the AI scrum with genome atlas
-Wed, 09 Sep 2026 00:50:25 +0200 — https://www.theregister.com/ai-and-ml/2026/09/08/google-deepmind-rises-above-the-ai-scrum-with-genome-atlas/5295137
-
-While OpenAI and Anthropic fight over whose models can escape their sandbox more alarmingly, Google’s DeepMind team has once again shown how machine learning can also be used to advance science for humanity’s benefit. On Tuesday, the Chocolate Factory’s crack team of AI researchers unveiled AlphaGenome Atlas, a massive database containing a petabyte worth of data predicting the effects of nine billion possible nucleotide variations in the human genome. According to Google, the platform, which is now publicly available to researchers, is already helping scientists to better understand the fundamentals of the human body and treat the diseases that ail it. The database aims to address one of the bigger challenges in modern genetic research: pinpointing exactly which genetic variations are responsible for the trait or disease scientists are studying. The database builds on DeepMind’s AlphaGenome, an AI model introduced last year, which could predict how genetic variants impact biological processes — essentially tying together cause and effect. But while useful in targeted applications, researchers still needed to figure out which variations to test. “By precomputing AlphaGenome’s predictions at scale, we have created an easily accessible resource that vastly expands the model's reach. Just as an atlas is a collection of maps, linking together features of the land like altitude and location, AlphaGenome Atlas charts the molecular effects of DNA variants across the genome,” the Dee
-
 ## Engadget
 
-### Lyft is now offering Waymo rides in Nashville
-Wed, 09 Sep 2026 13:24:57 +0000 — https://www.engadget.com/2253689/lyft-now-offering-waymo-rides-in-nashville/
-
-You can now get fully autonomous Waymo rides in Nashville through the Lyft app.
-
-### Instacart now has its own AI assistant called Clementine
-Wed, 09 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2253622/instacart-ai-assistant-called-clementine/
-
-Instacart launches its own AI assistant that can make it easier to decide what to buy.
-
-### How to take full advantage of Gemini when planning your next trip
-Wed, 09 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2251259/ways-use-gemini-for-travel-trip-planning/
-
-You don't have to juggle all the little details of your next trip alone. Gemini, with it's Google parentage, can help you line it all up.
-
-### US authorities accuse Chinese AI companies of industrial-scale campaigns to copy American models
-Wed, 09 Sep 2026 11:12:22 +0000 — https://www.engadget.com/2253604/us-authorities-accuse-chinese-ai-companies-of-industrial-scale-campaigns-to-copy-american-models/
-
-The NSA, CISA and the FBI have accused DeepSeek, Moonshot and other Chinese AI companies of "distilling" American frontier AI models.
-
-### The first and latest Star Wars films are coming to IMAX 70mm in 2027
-Wed, 09 Sep 2026 10:36:47 +0000 — https://www.engadget.com/2253591/the-first-and-latest-star-wars-films-are-coming-to-imax-70mm-in-2027/
-
-The IMAX 70mm screening of 'Star Wars' will be a Holy Grail quest for fans of the original 1977 version.
-
-### Apple event 2026 live: Will we see the foldable iPhone Ultra or Duo at today's 'Surprise and shine' keynote?
-Wed, 09 Sep 2026 10:00:00 +0000 — https://www.engadget.com/2253512/apple-iphone-ultra-event-live-blog-updates-iphone-18-pro-apple-watch/
-
-Computer (rumors) says yes. The iPhone 18 Pro and Apple Watch Series 12 are also expected today.
-
-### Audio-Technica's new wireless ATH-AL5NC completes its open-back headphone lineup
-Wed, 09 Sep 2026 09:00:00 +0000 — https://www.engadget.com/2253160/audio-technicas-new-wireless-ath-al5nc-completes-its-open-back-headphone-lineup/
-
-The new AT cans offer great sound and convenience, even if they can't be truly noise-cancelling.
-
-### Suno trained its v6 AI music models with help from Warner and BMG
-Wed, 09 Sep 2026 09:00:00 +0000 — https://www.engadget.com/2251539/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/
-
-Suno's new AI music models are the formal start of the company's partnership with some big labels.
-
-### The foldable iPhone will reportedly be called 'Duo' and cost $2,000
-Wed, 09 Sep 2026 08:39:59 +0000 — https://www.engadget.com/2253557/the-foldable-iphone-will-reportedly-be-called-duo-and-cost-2000/
-
-Apple's foldable iPhone may not be called the 'Fold' or 'Ultra' as was expected.
-
-### How to watch Apple unveil the new iPhones on September 9
-Wed, 09 Sep 2026 01:00:00 +0000 — https://www.engadget.com/2252525/how-to-watch-apple-event-september-9-2026/
-
-New Apple CEO John Ternus will be revealing new iPhone and Apple Watch models this week.
-
-### What are the major changes coming to Apple HomeKit in iOS 27?
-Wed, 09 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2252811/major-changes-coming-apple-homekit-ios-27/
-
-iOS 27 isn't leaving out HomeKit and the Home app in its list of AI revamps and improvements.
-
-### How to change and customize your Apple CarPlay display
-Tue, 08 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2251193/how-to-change-customize-apple-carplay-display/
-
-CarPlay doesn't have a ton of customization options, but it's worth going through what's there to set it up properly.
+_Feed unavailable: HTTP 404_
 
 ## TechCrunch
 
-### Uber invests $10M in Indian fleet operator Carrum at $168M valuation
-Wed, 09 Sep 2026 14:38:41 +0000 — https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/
+### The hinge for Apple s new foldable phone was built with AI
+Wed, 09 Sep 2026 19:21:48 +0000 — https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/
 
-Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.
+Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.
 
-### AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?
-Wed, 09 Sep 2026 14:18:34 +0000 — https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/
+### Apple Watch’s new feature listens to your chats and recaps them
+Wed, 09 Sep 2026 19:08:59 +0000 — https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/
 
-Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.
+The Siri Recap feature is similar to other note-taking apps like Granola.
 
-### Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms
-Wed, 09 Sep 2026 13:01:00 +0000 — https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/
+### Harvey hits $15.5B valuation, months after reaching $11B
+Wed, 09 Sep 2026 18:34:24 +0000 — https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/
 
-The three Indian companies are accused of using hackers to steal information used to sway litigation.
+The legal AI startup and VC darling has nearly doubled its valuation in nine months.
 
-### Instacart launches an AI grocery shopping assistant called Clementine
-Wed, 09 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/
+### Apple s revamped Health app will calculate your health age and readiness score
+Wed, 09 Sep 2026 18:16:29 +0000 — https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/
 
-Instacart is the latest app to bake a conversational AI assistant into its platform.
+The update uses Apple Intelligence to make better sense of your health data.
 
-### Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive
-Wed, 09 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/
+### Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day
+Wed, 09 Sep 2026 18:08:46 +0000 — https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/
 
-Scott Painter, founder of TrueCar, is still trying to build a business around vehicle subscriptions, where you can cancel at any time.
+Most notably, Apple is taking aim at the growing wave of AI wearables with new "Audio Intelligence" features that let you rewind moments and remember details from daily conversations.
 
-### Sequoia doubles down on Cymphony as AI agents create new enterprise security risks
-Wed, 09 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/
+### Apple has a new way prove your iPhone photos aren’t AI slop
+Wed, 09 Sep 2026 18:08:35 +0000 — https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/
 
-Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.
+Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.
 
-### Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time
-Wed, 09 Sep 2026 12:30:00 +0000 — https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/
+### Apple shows off AirPods 5 with improved active noise cancellation
+Wed, 09 Sep 2026 18:06:40 +0000 — https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/
 
-If you want to manufacture in space—and bring the products back again—there s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to [ ]
+The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.
 
-### Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up
-Wed, 09 Sep 2026 12:05:34 +0000 — https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/
+### Apple unveils its first foldable, the iPhone Duo
+Wed, 09 Sep 2026 17:58:14 +0000 — https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/
 
-As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.
+Apple today introduced its first foldable device, named the iPhone Duo, at its Surprise and Shine iPhone event held in Cupertino. The phone is the first marquee device launched under the company s new CEO, John Ternus. Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid [ ]
 
-### Google DeepMind alumni are building tools to accelerate fusion power for the grid
-Wed, 09 Sep 2026 06:00:00 +0000 — https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/
+### Apple CEO John Ternus says the best AI device is still the iPhone
+Wed, 09 Sep 2026 17:36:05 +0000 — https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/
 
-Fusionality is developing control systems and simulation environments to help fusion power startups move faster.
+The company also argued that its on-device models offer consumers more privacy.
 
-### CloudNC raises $20M to automate manufacturing s most pressing bottlenecks
-Wed, 09 Sep 2026 04:01:00 +0000 — https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/
+### Apple launches iPhone 18 Pro with upgraded camera
+Wed, 09 Sep 2026 17:26:05 +0000 — https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/
 
-UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.
+Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.
 
-### White House takes down Build the Wall game after the Tetris Company complains
-Tue, 08 Sep 2026 23:23:23 +0000 — https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/
+### DOJ wants more answers on Fox’s $22B Roku deal
+Wed, 09 Sep 2026 16:44:21 +0000 — https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/
 
-The Trump administration's short-lived arcade game "Build the Wall" is now nowhere to be found after the Tetris Company posted that it takes "copyright infringement very seriously."
+Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust [ ]
 
-### Hackers are stealing Claude tokens from subscribers
-Tue, 08 Sep 2026 21:10:27 +0000 — https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/
+### Superintelligence is coming. Should we let it?
+Wed, 09 Sep 2026 16:05:35 +0000 — https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/
 
-Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.
+AI companies have been talking about superintelligent AI like it s inevitable, but recent safety incidents like OpenAI s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can t reliably control what these systems do? On this episode of TechCrunch s Equity podcast, Rebecca Bellan is joined by Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of [ ]
 

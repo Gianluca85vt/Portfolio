@@ -1,6 +1,11 @@
-# AI — harvested 2026-09-09T14:48:12.645Z
+# AI — harvested 2026-09-09T19:29:10.501Z
 
 ## OpenAI
+
+### Paul Christiano joins OpenAI Foundation Board
+Wed, 09 Sep 2026 17:00:00 GMT — https://openai.com/index/paul-christiano-joins-openai-foundation-board
+
+Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.
 
 ### How GPT-5.6 Sol helps run quantum computing experiments
 Tue, 08 Sep 2026 17:00:00 GMT — https://openai.com/index/codex-quantum-computing-experiments
@@ -38,6 +43,9 @@ Tue, 08 Sep 2026 00:00:00 GMT — https://openai.com/index/1password
 Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.
 
 ## Hugging Face
+
+### IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license
+Wed, 09 Sep 2026 15:36:24 GMT — https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series
 
 ### Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic
 Tue, 08 Sep 2026 14:23:07 GMT — https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom

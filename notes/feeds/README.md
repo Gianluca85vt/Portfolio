@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-09T14:48:12.645Z
+# Source feeds — harvested 2026-09-09T19:29:10.501Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -11,19 +11,11 @@ own feed: headline, link, date, and their summary.
 
 ## Broadcasts in the feeds
 
-**A preview is owed on these.** Write it before the show airs, with the start time in Italian time and the
-stream embedded, then the round-up an hour after it ends. See
-notes/event-coverage.md.
-
-- **VGC** — Nintendo Direct: Here s where to watch today s big presentation
-  https://www.videogameschronicle.com/news/nintendo-direct-heres-where-to-watch-todays-big-presentation/
-- **GameSpot** — Nintendo Direct September 2026: Start Time, How To Watch, And What To Expect
-  https://www.gamespot.com/articles/nintendo-direct-september-2026-start-time-how-to-watch-and-what-to-expect/
-
 Already aired, so a round-up rather than a preview:
 
 - GamesIndustry.biz — Gamescom Asia x Thailand Game Show announces exhibitor lineup for 2026
-- The Verge — Nintendo Direct September 2026: The biggest news and trailers
+- Push Square — Feature: 40+ PS5, PS4 Games to Buy in PS Store s Tokyo Game Show Sale
+- GameSpot — The Duskbloods Was A No-Show At The September Nintendo Direct And Now I m Worried
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -33,10 +25,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Manga and anime next.** 50 articles have gone out since the last one.
+**Write Manga and anime next.** 51 articles have gone out since the last one.
 
-- **Manga and anime** — BROKEN. 50 articles since the last one; quota is one in 6. 3 in the archive of 139.
-- **Film & TV** — BROKEN. 56 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 139.
+- **Manga and anime** — BROKEN. 51 articles since the last one; quota is one in 6. 3 in the archive of 140.
+- **Film & TV** — BROKEN. 57 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 140.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -45,13 +37,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 36 items
+- [Manga](manga.md) **owed** — 35 items
 - [Film & TV](film-tv.md) **owed** — 66 items
-- [Games](games.md) — 98 items
-- [Tech](tech.md) — 82 items
-- [3D](3d.md) — 18 items
-- [AI](ai.md) — 9 items
+- [Games](games.md) — 100 items
+- [Tech](tech.md) — 70 items
+- [3D](3d.md) — 17 items
+- [AI](ai.md) — 11 items
 
-Total: 309 items.
+Total: 299 items.
 
-Feeds that did not answer: Otaku USA (HTTP 520), VentureBeat AI (HTTP 429).
+Feeds that did not answer: Engadget (HTTP 404), VentureBeat AI (HTTP 429).

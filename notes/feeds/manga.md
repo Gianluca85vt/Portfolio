@@ -1,72 +1,82 @@
-# Manga — harvested 2026-09-09T14:48:12.645Z
+# Manga — harvested 2026-09-09T19:29:10.501Z
 
 ## Anime News Network
 
-### Guyver's Yoshiki Takaya May No Longer Be Able to Create Manga After Cerebral Infarction, Partial Paralysis
-Wed, 09 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/guyver-yoshiki-takaya-may-no-longer-be-able-to-create-manga-after-cerebral-infarction-partial-/.241545
+### Konami Announces Yu-Gi-Oh! Tag Force GX Game for Switch 2, Switch, PC
+Wed, 09 Sep 2026 14:13:31 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/konami-announces-yu-gi-oh-tag-force-gx-game-for-switch-2-switch-pc/.241575
 
-Author made statement on recent re-release of <cite>Guyver 2: Dark Hero</cite> film
+Updated version of <cite>Yu-Gi-Oh! GX Tag Force 3</cite>, previously unreleased in N. America, launches on February 16
 
-### Sound Euphonium Chief Director Tatsuya Ishihara on Portraying Genuine Emotions
-Wed, 09 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/sound-euphonium-chief-director-tatsuya-ishihara-on-portraying-genuine-emotions/.240067
+### The Apothecary Diaries Series Gets New Mystery Game for Consoles, PC
+Wed, 09 Sep 2026 13:35:21 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/the-apothecary-diaries-series-gets-new-mystery-game-for-consoles-pc/.241582
 
-For over a decade, Sound! Euphonium has taken viewers on a musical journey of hope and growth as it followed one high school concert band's quest to become national champions. This week, that chapter finally draws to an end.
+<cite>The Apothecary Diaries: The False Imperial Brother</cite> launches in early 2027 for Switch 2, Switch, PS5, PC
 
-### The Ghost in the Shell ‒ Episode 10
-Wed, 09 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/the-ghost-in-the-shell/episode-10/.241546
+### Danganronpa 2x2 Game's Trailer Reveals January 14 Release
+Wed, 09 Sep 2026 13:14:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/danganronpa-2x2-game-trailer-reveals-january-14-release/.241576
 
-I love the funny faces she pulls to test out her new body’s functions.
+Video previews new scenario, Slayhem Mode
 
-### The World Is Dancing ‒ Episode 11
-Wed, 09 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/the-world-is-dancing/episode-11/.241543
+### Level 5 Announces Yo-kai Watch 2: Haunted Domain Game for Switch 2
+Wed, 09 Sep 2026 12:56:27 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/level-5-announces-yo-kai-watch-2-haunted-domain-game-for-switch-2/.241568
 
-The show has to work far too hard to bluntly explain that Oniyasha is feeling aimless and depressed, but the emotions of the script never quite translate to engaging drama.
+English-subbed trailer teases updated version of <cite>Yo-kai Watch 2</cite> 3DS game
 
-### So What's Wrong with Getting Reborn as a Goblin? Anime's New Video Unveils More Staff, Theme Songs, October 5 Debut
-Wed, 09 Sep 2026 06:01:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/so-what-wrong-with-getting-reborn-as-a-goblin-anime-new-video-unveils-more-staff-theme-songs-/.241557
+### SSS-Class Revival Hunter Novel/Webtoon Gets Anime
+Wed, 09 Sep 2026 12:31:53 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/sss-class-revival-hunter-novel-webtoon-gets-anime/.241578
 
-Sou, AHUB to perform "Hello" opening, "Chiisana Bokura" ending
+STUDIO fu's anime of Sinnoa, Neida's webtoon premieres in January 2027
 
-### Redoing My Youth In Another World -The God Of Death Is My Fanboy- BL Manga Gets 'Motion Comic' on TV
-Wed, 09 Sep 2026 04:13:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/redoing-my-youth-in-another-world-the-god-of-death-is-my-fanboy-bl-manga-gets-motion-comic-on-tv/.241553
+### Daughter of a Thousand Faces Volume 1 Comic Review
+Wed, 09 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/daughter-of-a-thousand-faces/volume-1/.241116
 
-January 2027 series incorporates generative AI into traditional motion comic methods
+What's a girl to do when she accidentally makes a pact with a demon in the depths of the Abyss?
 
-### Fate/EXTRA Record Game Streams Character Video for Saber
-Wed, 09 Sep 2026 04:03:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/fate-extra-record-game-streams-character-video-for-saber/.241555
+### Persona 4 Revival, Persona 6 Games Get Switch 2 Releases
+Wed, 09 Sep 2026 11:52:12 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/persona-4-revival-persona-6-games-get-switch-2-releases/.241572
 
-Sakura Tange reprises role in January 28 game
+<cite>Persona 4 Revival</cite> launches on Switch 2 on May 20
 
-### Shiden Kanzaki Launches Black Bullet Reboot Project, New Original Work
-Wed, 09 Sep 2026 02:26:27 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/shiden-kanzaki-launches-black-bullet-reboot-project-new-original-work/.241551
+### Monster Hunter Wilds Game Gets Switch 2 Release on December 4
+Wed, 09 Sep 2026 11:38:24 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/monster-hunter-wilds-game-gets-switch-2-release-on-december-4/.241565
 
-<cite>New World Order</cite> reboot to start with revised story, end with completely new story
+Game's <cite>Ascendance</cite> expansion also heads to Switch 2
 
-### The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Anime's Video Reveals More Cast, Opening Song, October 6 Debut
-Wed, 09 Sep 2026 00:22:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-anime-video-reveals-more-cast-/.241549
+### Hyrule Warriors: Age of Calamity Game Gets Definitive Edition for Switch 2
+Wed, 09 Sep 2026 11:27:20 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/hyrule-warriors-age-of-calamity-game-gets-definitive-edition-for-switch-2/.241567
 
-Takumi Yamazaki, Taiten Kusunoki, Megumi Toyoguchi join cast
+cite>Hyrule Warriors: Age of Calamity Definitive Edition</cite> launches on February 25
 
-### It Took 15,000 Drawings to Make 'The 100 Girlfriends Who Really, Really, Really, Really, Really Love You' Dance
-Tue, 08 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-08/it-took-15000-drawings-to-make-the-100-girlfriends-who-really-really-really-really-really-love-you-/.241516
+### Professor Layton and The New World of Steam Game's Trailer Reveals December 10 Release
+Wed, 09 Sep 2026 11:11:15 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/professor-layton-and-the-new-world-of-steam-game-trailer-reveals-december-10-release/.241569
 
-Watch the 10-minute idol performance come to life in hand-drawn 2D frames
+Game launches worldwide for Switch 2, Switch, PS5, PC
 
-### Over 100 Pokémon Take Over Tokyo's Nihonbashi, Yaesu Districts
-Tue, 08 Sep 2026 23:45:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-08/over-100-pokemon-take-over-tokyo-nihonbashi-yaesu-districts/.241520
+### Nintendo Announces Kirby and the World Beyond Game for Switch 2
+Wed, 09 Sep 2026 11:03:44 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/nintendo-announces-kirby-and-the-world-beyond-game-for-switch-2/.241571
 
-Can you find 'em all?
+3D <cite>Kirby</cite> game launches in spring 2027
 
-### Live-Action Anata o Korosu Tabi BL Series Gets 2nd Season
-Tue, 08 Sep 2026 22:11:27 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/live-action-anata-o-korosu-tabi-bl-series-gets-2nd-season/.241544
+### Nintendo Announces Metroid Ravenous 2D Game for Switch 2
+Wed, 09 Sep 2026 10:53:54 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/nintendo-announces-metroid-ravenous-2d-game-for-switch-2/.241570
 
-Yakuza story returns on October 8 with new, returning cast members
+Game launches on January 28
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Ninja Scroll 4K Remaster Sets October 4, 5 and 7 North American Theatrical Release, Exclusive Still Available
+Wed, 09 Sep 2026 18:39:44 GMT — https://animecorner.me/ninja-scroll-4k-remaster-sets-october-4-5-and-7-north-american-theatrical-release-exclusive-still-available/
+
+Tickets are now on sale for the limited North American theatrical release of the&hellip;
+
+### SSS-Class Revival Hunter Manhwa Announces Anime Adaptation for January 2027, Reveals First Teaser, Visual, Cast
+Wed, 09 Sep 2026 18:18:45 GMT — https://animecorner.me/sss-class-revival-hunter-manhwa-announces-anime-adaptation-for-january-2027-reveals-first-teaser-visual-cast/
+
+The anime adaptation of SSS-Class Revival Hunter will premiere in January 2027, with a teaser visual, first trailer, main cast and staff revealed.
 
 ### Sparks of Tomorrow Anime Reveals New Story Visual Ahead of Final Episodes
 Wed, 09 Sep 2026 13:50:13 GMT — https://animecorner.me/sparks-of-tomorrow-anime-reveals-new-story-visual-ahead-of-final-episodes/
@@ -118,17 +128,12 @@ Wed, 09 Sep 2026 02:27:44 GMT — https://animecorner.me/interview-yoko-kanno-on
 
 Ahead of her first performance in Italy, we had the opportunity to interview composer,&hellip;
 
-### KADOKAWA to Merge ENGI and 4 Anime Studios Into New Studio One Base in November 2026
-Wed, 09 Sep 2026 01:18:35 GMT — https://animecorner.me/kadokawa-to-merge-engi-and-4-anime-studios-into-new-studio-one-base-in-november-2026/
-
-KADOKAWA will merge five of its anime production subsidiaries into a new company called&hellip;
-
-### Dengeki Bunko Official Site to Merge Into KADOKAWA Website, Dengeki Novecomi+ to Shut Down on September 30
-Wed, 09 Sep 2026 01:10:12 GMT — https://animecorner.me/dengeki-bunko-official-site-to-merge-into-kadokawa-website-dengeki-novecomi-to-shut-down-on-september-30/
-
-KADOKAWA will integrate the official websites for Dengeki Bunko and Dengeki no Shin Bungei&hellip;
-
 ## MyAnimeList News
+
+### Webtoon SSS-Class Revival Hunter Gets TV Anime in Winter 2027
+Wed, 09 Sep 2026 11:00:25 -0700 — https://myanimelist.net/news/74693008?_location=rss
+
+Production company Hayate opened an official website for a television anime adaptation of Sinnoa and Bill K s SSS-Class Revival Hunter webtoon on Wednesday. The website also revealed the main cast, staff, teaser visual (pictured), and a teaser promotional video. The anime is scheduled to premiere in January 2027. Voice actor Takeo Ootsuka ([Oshi no Ko]) and Satoshi Hino (Overlord) stars as Gong-ja Kim and Bae Hu-ryeong, respectively. Staff Director: Hiroaki Sakurai (Machikado Mazoku) Scrip...
 
 ### Tensei Goblin dakedo Shitsumon Aru? Reveals Additional Staff, Theme Songs, Main Promo
 Wed, 09 Sep 2026 03:34:54 -0700 — https://myanimelist.net/news/74691262?_location=rss
@@ -170,19 +175,9 @@ Mon, 07 Sep 2026 16:40:56 -0700 — https://myanimelist.net/news/74684465?_locat
 
 Since its debut in 1993, CLAMP s Magic Knight Rayearth has remained a beloved classic, remembered for its memorable heroines, imaginative fantasy world, and themes of friendship and willpower. Now, over thirty years later, the series returns with a brand-new television anime adaptation, introducing the magical world of Cefiro to a new generation when it premieres this October. Ahead of the anime s advance screening at Anime Expo 2026, we sat down with Rie Takahashi and Saori Hayami, w...
 
-### Manga Kimi wa Yotsuba no Clover Gets Anime Adaptation
-Mon, 07 Sep 2026 08:43:02 -0700 — https://myanimelist.net/news/74682926?_location=rss
-
-The official X (formerly Twitter) account of author Koushi announced on Tuesday that the Kimi wa Yotsuba no Clover (You Are a Four Leaf Clover) manga is receiving an anime adaptation, revealing an announcement visual (pictured). Koushi began serializing the romantic thriller manga in Shounen Champion in July 2024. Akita Shoten published the tenth volume on Tuesday. Synopsis Uichi, once a happy and popular boy, is now the victim of cruel bullying. Then suddenly Yotsuha, his childhood friend and f...
-
-### Studio KAI Produces Hololive TV Anime Odeholo
-Mon, 07 Sep 2026 08:11:45 -0700 — https://myanimelist.net/news/74682835?_location=rss
-
-Production company Kadokawa and entertainment company Cover Corporation announced on Monday that VTuber agency Hololive is producing a television anime titled Odeholo, revealing an announcement visual (pictured above) and announcement promo. Studio KAI, the animation studio behind Yuusha-kei ni Shosu (Sentenced to Be a Hero) and Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleton Knight in Another World), is producing the anime project. The project was revealed during the "Hololive...
-
 ## Otaku USA
 
-_Feed unavailable: HTTP 520_
+_Nothing in the last 48 hours._
 
 ## Anime UK News
 

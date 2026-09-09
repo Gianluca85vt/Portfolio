@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-09T14:48:12.645Z
+# Film & TV — harvested 2026-09-09T19:29:10.501Z
 
 ## Variety
 
-### Disclosure Day Sets Peacock Streaming Release Date
-Wed, 09 Sep 2026 14:34:08 +0000 — https://variety.com/2026/film/news/disclosure-day-peacock-release-date-streaming-how-to-watch-1236806947/
+### Taylor Swift Has Never Won a Grammy for Record or Song of the Year. With Three No. 1 Hits Eligible for 2027, Which Will She Choose for Victory?
+Wed, 09 Sep 2026 19:04:05 +0000 — https://variety.com/2026/music/columns/taylor-swift-grammy-chances-i-knew-it-i-knew-you-fate-ophelia-1236849929/
 
-Steven Spielberg s latest sci-fi adventure, Disclosure Day, will stream on Peacock starting Oct. 9 Emily Blunt and Josh O Connor star as a meteorologist and whistleblower who discover an unexpected connection with alien life. They risk their lives to reveal the truth to the world about extraterrestrial activity and abuse at the hands of the U.S. [ ]
+There are two points of view you could take on Taylor Swift and her Grammys history: (a) Swift has been a Grammys hoarder. (b) Swift has gotten robbed by the Recording Academy regularly. Which of these contradictory statements is true? How about both of them? They re not actually as oxymoronic as they appear; it just [ ]
 
-### Box Office: Practical Magic 2 Aims to Dethrone Spider-Man: Brand New Day With $40 Million Debut
-Wed, 09 Sep 2026 14:21:58 +0000 — https://variety.com/2026/film/box-office/practical-magic-2-box-office-opening-weekend-projection-spiderman-brand-new-day-1236855513/
+### The Best Tech at IFA 2026: From 4K Projectors and Wearables to Headphones and TV Smart Lighting
+Wed, 09 Sep 2026 19:00:00 +0000 — https://variety.com/2026/shopping/news/ifa-september-2026-best-new-tech-releases-products-shop-now-1236849068/
 
-After a summer for the record books, movie theater operators are hoping to keep the vibes high with some midnight margaritas. Those celebratory cocktails are part of the fun in Practical Magic 2, a fantasy sequel about witchy sisters played by Nicole Kidman and Sandra Bullock. Nostalgia should propel the follow-up film to $30 million [ ]
+While CES is the biggest tech industry showcase in the United States, IFA is the largest consumer electronics trade show in Europe. For more than 100 years, some of the best and biggest communication and tech companies from around the world have gathered in the heart of Berlin, Germany at the Messe Berlin exhibition grounds, [ ]
 
-### Martin Herlihy Exits SNL After Five Seasons
-Wed, 09 Sep 2026 14:13:01 +0000 — https://variety.com/2026/tv/news/martin-herlihy-leaves-snl-1236855736/
+### Paul Mescal, Emma Corrin, Emilia Clarke Lead London National Theatre s Starry 2027 Slate
+Wed, 09 Sep 2026 19:00:00 +0000 — https://variety.com/2026/theater/news/paul-mescal-emma-corrin-emilia-clarke-national-theatre-2027-slate-1236856118/
 
-Martin Herlihy is leaving Saturday Night Live after five seasons, a source confirms to Variety. The comedian served on the writing staff for Season 51 after spending four seasons on screen as a member of the sketch trio Please Don t Destroy. NBC declined to comment. As part of a cast overhaul after Season 50, SNL [ ]
+London s National Theatre has unveiled its 2027 program, with Paul Mescal, Emma Corrin and Emilia Clarke topping a star-heavy slate of 18 productions, eight of them world premieres, spanning the venue s three stages and beyond. Mescal returns to the Lyttelton theater for a repertory season, playing Biff Loman in Rebecca Frecknall s staging of Arthur Miller s [ ]
 
-### Sydney Sweeney Goes Nude in Provocative Ad for Novig Sports Betting App
-Wed, 09 Sep 2026 14:06:53 +0000 — https://variety.com/2026/digital/news/sydney-sweeney-nude-novig-ad-1236855720/
+### Playoff State of Mind: Yankees Tap Billy Joel for Merch Collection, Just In Time for the Postseason
+Wed, 09 Sep 2026 18:55:18 +0000 — https://variety.com/2026/shopping/news/billy-joel-new-york-yankees-sportiqe-merch-collection-2026-1236856062/
 
-Sydney Sweeney stripped down for a steamy new ad for Novig, the latest sports betting app and prediction marketing for fans of football, baseball, soccer, tennis and more. The Euphoria star goes nude in the ad and poses with a variety of sports equipment, like footballs, basketballs, a hockey net and other athletic gear. She [ ]
+The New York Yankees are heading towards another (likely) postseason run and the team has tapped one of New York s most famous faces (and voices) to help root them on. Athleticwear brand Sportiqe has released a Billy Joel x New York Yankees collection, that pairs the brand s T-shirts, sweatshirts and hoodies with Joel s lyrics and [ ]
 
-### Sony Pictures Entertainment CEO on Success of Spider-Man: Brand New Day : The Movie Is Emotional and Some People Come Away Crying
-Wed, 09 Sep 2026 14:01:31 +0000 — https://variety.com/2026/film/news/sony-pictures-ceo-spider-man-brand-new-day-emotional-people-crying-1236855666/
+### RuPaul s Drag Race UK: All Stars Set to Premiere on WOW Presents Plus (EXCLUSIVE)
+Wed, 09 Sep 2026 18:13:45 +0000 — https://variety.com/2026/tv/global/rupauls-drag-race-uk-all-stars-wow-presents-plus-2027-1236854337/
 
-The stunning box-office success of Spider-Man: Brand New Day stems from the movie s emotional impact which is unlike other recent superhero movies, according to Sony Pictures Entertainment chairman and CEO Ravi Ahuja. Ahuja exulted in the blockbuster s record-breaking run, which has smashed box office expectations by raking in more than $2.4 billion worldwide, ranking [ ]
+RuPaul’s Drag Race UK is moving from the BBC and headed to World of Wonder s streaming platform WOW Presents Plus. The news comes after The Sun reported that the show would be leaving the BBC as part of its cuts. However, Variety can confirm that in Fall 2027, the franchise will return with the first [ ]
 
-### ‘Bleeding Hearts’: This Must-See TIFF Doc Is a Real Life ‘A Star Is Born (EXCLUSIVE)
-Wed, 09 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/features/bleeding-hearts-doc-tiff-zella-day-jesse-woods-a-star-is-born-1236855126/
+### Newly Discovered Plant-Eating Insects Named After Taylor Swift
+Wed, 09 Sep 2026 18:09:49 +0000 — https://variety.com/2026/music/news/taylor-swift-plant-eating-insects-names-1236856051/
 
-Love is a burning thing, a Man in Black once said, and its flame burns bright in “Bleeding Hearts,” an achingly intimate new documentary that captures a country music couple falling for one another as their band embarks on its first cross-country tour. Directed by Andrew Morgan and making its world premiere at TIFF, the [ ]
+Taylor Swift, the award-winning billionaire singer and songwriter, is getting a new honor: The megastar is the namesake of several recently discovered species of plant-feeding insects from Australia. Researchers at the University of California, Riverside have named the new species of insect after Swift. A paper describing the 12 new species was published in the [ ]
 
-### Jade on Life After Little Mix, Her Mercury Prize Nomination and What s Next
-Wed, 09 Sep 2026 14:00:00 +0000 — https://variety.com/2026/music/news/jade-on-life-after-little-mix-her-mercury-prize-1236855227/
+### Fall TV Preview: 55 Most Anticipated New and Returning Shows of 2026
+Wed, 09 Sep 2026 18:00:00 +0000 — https://variety.com/lists/fall-tv-shows-2026-preview/
 
-At the end of 2021, the British girl group Little Mix announced an indefinite hiatus that would begin the following summer once they wrapped their Confetti tour. They broke the news on X, denying an official breakup and confirming plans for more music, tours and performances in the future. Despite these plans, the girls cited [ ]
+Yes, peak TV is over — but we challenge you even to begin watching all the great shows that will premiere in the coming weeks, or even catch up with the new good ones that came out this summer. Are you all caught up on Furious on Hulu and Sterling Point on Prime Video and HBO s [ ]
 
-### 48 Hours Expands Use of Video Podcasting With Woman in the Woods
-Wed, 09 Sep 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/48-hours-expands-video-podcasting-woman-in-the-woods-1236855232/
+### Jaafar Jackson, Inde Navarrette and Ray Nicholson Among Variety’s 10 Actors to Watch for 2026
+Wed, 09 Sep 2026 18:00:00 +0000 — https://variety.com/2026/film/awards/variety-10-actors-to-watch-2026-announcement-1236848865/
 
-Erin Moriarty, the 48 Hours correspondent, will take fans of the true-crime documentary series into new territory next week. Moriarty will lead The Woman in the Woods, a six-part 48 Hours podcast that mixes audio and video elements in the storytelling. The story blends audio with video, adding never-before-seen video content. photos and other visual [ ]
+Variety has unveiled its 2026 class of 10 Actors to Watch. Since 1998, the franchise has singled out breakout performers on the cusp of the industry s front ranks and the track record speaks for itself. Past honorees include more than 35 Oscar winners and nominees, among them Mahershala Ali, Timothée Chalamet and Brie Larson. Last [ ]
 
-### AI Could Kill Us All, Warns Anthropic Researcher as He Quits the Company: AI Companies Are Gambling With Our Lives
-Wed, 09 Sep 2026 13:35:53 +0000 — https://variety.com/2026/biz/news/ai-could-kill-us-all-anthropic-researcher-jacob-coxon-1236855688/
+### Laika s Wildwood Set to Open AFI Film Fest
+Wed, 09 Sep 2026 18:00:00 +0000 — https://variety.com/2026/film/news/wildwood-afi-film-fest-premiere-1236856002/
 
-Multiple current and former Anthropic employees warned — and admitted — on Tuesday that the researchers building new AI models believe the technology could lead to humanity s destruction by the end of the decade, reflecting the industry s frenzy over reining in rapid development. Jacob Coxon, a former AI researcher at Anthropic, wrote on X that he [ ]
+Laika s Wildwood is set to open the 40th edition of AFI Fest, presented by Canva, on Oct. 21. It also marks the U.S premiere of the film. Wildwood is the latest animated feature from the Portland-based studio Laika, and it s directed and produced by Travis Knight. The film follows a young girl named Prue (Peyton [ ]
 
-### ABC News Adds Rachel Scott, Rhiannon Ally to Weekend Good Morning America
-Wed, 09 Sep 2026 13:30:00 +0000 — https://variety.com/2026/tv/news/abc-news-shakes-up-weekend-gma-rachel-scott-rhiannon-ally-1236855368/
+### Apple Introduces iPhone Duo, Its First Foldable Smartphone
+Wed, 09 Sep 2026 17:57:53 +0000 — https://variety.com/2026/digital/news/apple-iphone-duo-18-foldable-price-availability-1236855996/
 
-ABC News is adding a few new faces to its weekend morning mix. Rachel Scott, the Disney news division s senior political correspondent, will start to co-anchor Saturday telecasts of Good Morning America on September 12, while Rhiannon Ally, who has worked on overnight programs, will start to co-anchor Sundays. Scott is paired with Whit Johnson, [ ]
+Apple is giving a new twist to its flagship smartphone line: The company unveiled the iPhone Duo, its first foldable smartphone. The company s iPhone Duo foldable has an internal dual-display panel that provides the largest, most immersive screen size ever at 7.6 inches diagonally and it s also the thinnest iPhone ever, according to Apple. [ ]
 
 ## The Hollywood Reporter
 
-### The Investor Who s Convinced That Pokémon Cards Will Be Currency After an Apocalypse
-Wed, 09 Sep 2026 14:21:54 +0000 — https://www.hollywoodreporter.com/business/business-news/trading-cards-growth-pokemon-apocalypse-peter-levin-chat-1236689864/
+### Bad Bunny to Celine Dion to Backstreet Boys: Musical Residencies Are Going Global – Boosting Tourism, Making Millions and Healing Fans
+Wed, 09 Sep 2026 19:24:42 +0000 — https://www.hollywoodreporter.com/music/music-features/bad-bunny-celine-dion-backstreet-boys-musical-residencies-1236695740/
 
-A chat with Peter Levin, founder of venture firm Griffin Gaming Partners, on Hollywood's forays into the trading card business and how he curates his own 500,000-plus card collection.
+Artists branching out beyond traditional pop residency locations like Las Vegas, New York and London, for elsewhere.
 
-### Mariska Hargitay Reveals Her Emmy Hosting Plan – And It May Involve a Knick
-Wed, 09 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/mariska-hargitay-interview-emmys-2026-hosting-knicks-1236694438/
+### A Good Little Soldier Review: A Tense French Workplace Drama About a Woman Caught Between Motherhood and Corporate Hell
+Wed, 09 Sep 2026 19:16:16 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/a-good-little-soldier-review-alba-rohrwacher-stephane-brize-1236685106/
 
-The 'Law Order: SVU' star, Knicks superfan and, soon, Emmy host dishes about the speeches, the jokes and the prep for TV’s biggest night.
+Alba Rohrwacher ('Hungry Hearts') stars alongside Vincent Lindon ('Titane') in writer-director Stéphane Brizé’s latest story of late-stage capitalism gone awry.
 
-### DAU Review: A Towering and Immersive Cinematic Epic That Recreates the Dark Ages of Soviet Oppression
-Wed, 09 Sep 2026 13:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/dau-review-ilya-khrzhanovsky-1236689339/
+### TMZ s Harvey Levin Cut Kanye West s Hitler Praise From 2018 Interview, Former Staffer Says
+Wed, 09 Sep 2026 19:12:01 +0000 — https://www.hollywoodreporter.com/news/general-news/tmz-harvey-levin-cut-kanye-west-hitler-praise-2018-interview-1236695697/
 
-Director Ilya Khrzhanovsky's biopic of Russian physicist Lev Lendau has been 20 years in the making, with over a dozen related features and other projects created in what’s been dubbed the 'Stalinist Truman Show.'
+A GQ investigation into the gossip site's Washington ambitions includes new details on how its founder allegedly edited coverage to protect access to celebrities.
 
-### Fox Says DOJ Taking Closer Look at Roku Megadeal
-Wed, 09 Sep 2026 13:34:18 +0000 — https://www.hollywoodreporter.com/business/business-news/fox-says-doj-reviewing-roku-mega-deal-1236695258/
+### Holy Wood Dust Review: Victor Kossakovsky s Soothing, if Slightly Dull, Documentary Will Make You Want to Hug a Tree
+Wed, 09 Sep 2026 18:33:15 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/holy-wood-dust-victor-kossakovsky-trees-1236693408/
 
-The company says the U.S. government requested more information about the deal Tuesday.
+Playing out of competition in Venice, the latest from the 'Gunda' and 'Architecton' helmer is a meditation on the precious beauty and importance of trees.
 
-### The Athlete Is the Studio
-Wed, 09 Sep 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/coco-gauff-tennis-star-media-mogul-iroc-1236665909/
+### CBS ‘48 Hours’ Moves Into Video Podcasting With New Show
+Wed, 09 Sep 2026 18:19:32 +0000 — https://www.hollywoodreporter.com/business/digital/cbs-48-hours-video-podcasting-1236695658/
 
-Forget brand deals. Coco Gauff joins LeBron James, Tom Brady and a generation of athletes building production companies and media empires. But in today’s Hollywood, star power only gets you so far.
+'The Woman in the Woods,' about the mysterious death of Mindi Kassotis, is the first in the new format.
 
-### The 50 Most Powerful TV Producers of 2026
-Wed, 09 Sep 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/lists/top-tv-producers-2026-survey/
+### How Hollywood Shapes Our Understanding of Health
+Wed, 09 Sep 2026 17:59:57 +0000 — https://www.hollywoodreporter.com/news/general-news/hollywood-shapes-understanding-of-health-1236685906/
 
-The heavy hitters behind this past year’s most impactful series — Katie Dippold, Rachel Sennott, Jacob Tierney, Vince Gilligan and many, many more — go deep on the trends they hate, the shows they love and the execs they actually admire.
+A study sponsored by Eli Lilly and Company (Lilly) shows that chronic illness is historically underrepresented on screen, while a growing coalition of studios, researchers, and patient advocates work to change that reality.
 
-### Chris Hansen Calls ‘Primetime’ an “Insult,” Has No Regrets About ‘Predator’ Sting That Ended in Suicide (Exclusive)
-Wed, 09 Sep 2026 13:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/chris-hansen-primetime-predator-suicide-pattinson-a24-1236695028/
+### ‘The Color of the Sun’ Review: A Teenager in Okinawa Navigates Grief and Longing in an Attractive but Undercooked Coming-of-Age Drama
+Wed, 09 Sep 2026 17:27:36 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-color-of-the-sun-review-1236692387/
 
-“We’re talking about an industry that was led by perhaps one of the biggest predators to walk the planet, Harvey Weinstein,” says the former NBC correspondent as he blasts A24’s fictionalized take on his controversial career.
+First-time feature filmmaker Xavier Tera's tale of adolescent exploration premiered in the Horizons sidebar of the Venice Film Festival.
 
-### Why and How Manhunt Depicts Hell as a Colorful Candy World : A Chat With DOP Jonathan Glendon
-Wed, 09 Sep 2026 13:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/manhunt-film-dop-interview-hell-candy-world-jonathan-glendon-1236693053/
+### Broadway Box Office: Hamilton Leads Labor Day Weekend Grosses
+Wed, 09 Sep 2026 17:12:51 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-hamilton-leads-labor-day-grosses-1236695532/
 
-The Toronto-based feature debutant discusses inspirations from the legendary Robbie Müller and 'The Wrestler' for Wayne Wapeemukwa's Locarno-premiering film and the creative use of infrared light.
+In its first week post-opening, 'Paranormal Activity' brought in $790,991 across eight performances.
 
-### Mahershala Ali and 76ers Star Jaylen Brown on Rejection, Rebirth and Refusing to Be Boxed In
-Wed, 09 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/mahershala-ali-jaylen-brown-interview-game-recognize-game-1236670264/
+### New Italian Job Movie in the Works at Paramount With Paul Feig in Talks to Direct
+Wed, 09 Sep 2026 17:04:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/italian-job-paul-feig-paramount-1236695543/
 
-In THR‘s new series, the Oscar winner and NBA All Star also get deep on faith, frustrations and fearlessness: “When you played, you wasn't trying to be cool, make friends, none of that. You was like, 'I'ma put my shoulder through somebody‘s chest if I got to.’”
+Michael Caine starred in the original 1969 heist movie that was the basis for the 2003 hit of the same name.
 
-### The Uprising Review: Andrew Garfield in Paul Greengrass Intense but Monotonous Medieval Actioner
-Wed, 09 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-uprising-review-andrew-garfield-paul-greengrass-1236694209/
+### Nina Shipman, Actress in ‘The Oregon Trail’ and ‘The Munsters,’ Dies at 88
+Wed, 09 Sep 2026 17:01:34 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nina-shipman-dead-munsters-oregon-trail-1236695525/
 
-The violent historical drama about the 14th-century Peasants' Revolt also features Jamie Bell, Stephen Dillane, Katherine Waterston, Cosmo Jarvis and Thomasin McKenzie.
+A onetime contract player at Fox, she also appeared in Hitchcock’s ‘Vertigo’ and in a pair of Bing Crosby films.
 
 ## Deadline
 
-### Maxton Hall Uses Amazon AI Technology To Sync Actors Lips With Human-Dubbed Audio
-Wed, 09 Sep 2026 14:45:14 +0000 — https://deadline.com/2026/09/maxton-hall-amazon-ai-technology-lip-sync-dubbing-1237071616/
+### RuPaul s Drag Race UK All Stars Sets Fall 2027 Global Premiere On WOW Presents Plus
+Wed, 09 Sep 2026 19:15:32 +0000 — https://deadline.com/2026/09/rupauls-drag-race-uk-all-stars-2027-wow-presents-plus-1237072642/
 
-Amazon Prime Video series Maxton Hall will be the first programming on the streaming platform to feature new AI technology synchronizing actors lip movements with human-dubbed audio. The feature went live Wednesday on the first two seasons of the series, and will be used for its third season when it premieres later this year. The [ ]
+For the first time in herstory, RuPaul s Drag Race UK is headed to WOW Presents Plus from the BBC, with the streaming platform ordering the first-ever All Stars edition. RuPaul s Drag Race All Stars is set to premiere in Fall 2027 to celebrate the artistry of the Queens who have worked the UK runway. The [ ]
+
+### Baby Reindeer s Jessica Gunning Returning To Netflix For Darkly Comedic Thriller Series Feral
+Wed, 09 Sep 2026 19:15:00 +0000 — https://deadline.com/2026/09/jessica-gunning-to-star-feral-netflix-1237072540/
+
+EXCLUSIVE: For the first time since her big breakout moment with Baby Reindeer, the darkly comedic stalker thriller turned water cooler phenomenon, Jessica Gunning is returning to Netflix. Gunning is one of the four leads of the streamer s Feral, a darkly comedic thriller series based on the 1987 novel by Shirley Conran, sources tell Deadline. Reps for Netflix [ ]
+
+### September Showdown! SCOTUS Orders Blue State AGs To Respond To ParaBros Merger Antitrust Suit Objection From Iowa Montana
+Wed, 09 Sep 2026 19:06:50 +0000 — https://deadline.com/2026/09/paramount-merger-lawsuit-supreme-court-ruling-1237072572/
+
+When all is said and done, the antitrust clash between Paramount Skydance and a dozen blue states may be best articulated by a certain Earth, Wind Fire tune and remembering a day or two in September. In a move that could be read as a lifeline or a death knell depending on your POV, [ ]
+
+### Carrie Coon Joins Rebecca Ferguson Greta Lee In MRC Rom-Com Honeymoon / Funeral
+Wed, 09 Sep 2026 19:01:00 +0000 — https://deadline.com/2026/09/carrie-coon-rebecca-ferguson-greta-lee-honeymoon-funeral-1237072427/
+
+EXCLUSIVE: The White Lotus star Carrie Coon has joined Rebecca Ferguson and Greta Lee in the upcoming romantic comedy, Honeymoon/Funeral. MRC is financing and overseeing production of the film from director Nahnatchka Khan and writer Julia Bicknell. Filming continues in London. Ferguson and Lee star as two women who meet on a flight from LA to London [ ]
+
+### Ross Weiner Joins Gersh As Theater Talent Agent
+Wed, 09 Sep 2026 18:32:15 +0000 — https://deadline.com/2026/09/ross-weiner-joins-gersh-theater-agent-1237072585/
+
+EXCLUSIVE: Agent Ross Weiner has joined the Talent division at Gersh, with an eye toward identifying and developing theater opportunities for clients across the agency s roster, both on and off Broadway. Weiner will be based in New York. He previously spent eight years at ICM Partners and CAA, following the latter s acquisition of ICM in 2022, [ ]
+
+### Practical Magic 2 Hopes To Weave Spell Keep Box Office Alive; Global Outlook $58M-$63M Box Office Preview
+Wed, 09 Sep 2026 18:17:50 +0000 — https://deadline.com/2026/09/box-office-practical-magic-2-1237072094/
+
+After summer hit a record $4.76 billion stateside, Warner Bros has a female destination in Practical Magic 2, the sequel to the 1998 Sandra Bullock and Nicole Kidman witchy romantic fantasy comedy which is eyeing around $40M domestic, and between $18-23M overseas in 77 territories for a global start between $58M-$63M. Practical Magic 2 will [ ]
+
+### Carrie-Anne Moss Signs With Verve
+Wed, 09 Sep 2026 18:11:57 +0000 — https://deadline.com/2026/09/carrie-anne-moss-signs-verve-1237072534/
+
+EXCLUSIVE: Actress Carrie-Anne Moss has inked with Verve for representation. An Independent Spirit and Genie Award winner, Moss is fresh off FUBAR, the action comedy series from Netflix and Skydance Television, where she starred opposite Arnold Schwarzenegger. She ll next be seen starring opposite fellow Canadian Hudson Williams, the Heated Rivalry breakout, in Yaga, a new thriller series from Crave and [ ]
+
+### Apple s John Ternus Makes Product Event Debut As CEO, Unveiling Foldable iPhone Duo
+Wed, 09 Sep 2026 18:05:00 +0000 — https://deadline.com/2026/09/apple-event-john-ternus-iphone-ai-1237072472/
+
+Apple executive John Ternus made his debut appearance as the company s CEO during the company s annual product event Wednesday, touting new AI tools and a new foldable iPhone. The foldable model, iPhone Duo, has a screen size when unfolded that is 80% larger than that of the current Pro model and 50% larger than the [ ]
+
+### Laika s Wildwood To Open AFI Fest 2026
+Wed, 09 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/wildwood-afi-fest-2026-opening-film-1237072469/
+
+The American Film Institute said Wednesday that it has selected Laika s latest stop-motion animated feature, Wildwood, as the opening-night film of AFI Fest, whose 40th edition launches in October. The October 21 screening will mark the U.S. premiere of the pic, which will world premiere October 11 at the London Film Festival. It will open in [ ]
+
+### Nirvana Set For VMAs Video Vanguard Award
+Wed, 09 Sep 2026 17:47:53 +0000 — https://deadline.com/2026/09/nirvana-2026-vma-video-vanguard-award-1237072477/
+
+Smells like a well-deserved honor for the Band That Changed It All. MTV said Wednesday that Nirvana will receive the VMAs top career prize, the Video Vanguard Award, during the 2026 ceremony on Sunday, September 27. The news comes 34 years to the day after Kurt Cobain, Krist Novoselic and future Foo Fighter Dave Grohl [ ]
 
 ### Venice Film Festival 2026: Read All Of Deadline’s Reviews
-Wed, 09 Sep 2026 14:32:51 +0000 — https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/
+Wed, 09 Sep 2026 17:41:34 +0000 — https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/
 
 The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle s Ink starring Jack O’Connell, Guy Pearce and Claire Foy kicking off an 83rd edition that includes films starring the likes of Robert Pattinson, Penelope Cruz Javier Bardem, Jack Huston Sofia Boutella, Dakota Johnson, John [ ]
 
-### Megan Lawless Joined By Fivel Stewart, Savanah Moss, Liv Morgan Carter Jenkins In Ping ; Ultimate Media Group CAA Launch TIFF Market Sales
-Wed, 09 Sep 2026 14:30:00 +0000 — https://deadline.com/2026/09/fivel-stewart-savanah-moss-liv-morgan-join-megan-lawless-ping-1237070696/
+### Place To Be Review: 93-Year-Old Ellen Burstyn Shines Teaming With Taika Waititi And A Wayward Pigeon In Kornél Mundruczó s Touching Road Movie Venice Film Festival
+Wed, 09 Sep 2026 17:15:31 +0000 — https://deadline.com/2026/09/place-to-be-review-ellen-burstyn-taika-waititi-1237072337/
 
-EXCLUSIVE: Production is underway in Mississippi on psychological thriller Ping, starring Obsession actress Megan Lawless. Lawless is joined in the cast by Fivel Stewart (The Recruit), creator Savanah Moss, WWE star Liv Morgan (Bad Lieutenant: Tokyo) and Carter Jenkins (After). Jason Buckley s Ultimate Media Group (UMG) is launching international sales at the TIFF market and [ ]
-
-### Most Networks Take Wait-And-See Approach To Coverage Of Donald Trump s Midterm Convention
-Wed, 09 Sep 2026 14:25:46 +0000 — https://deadline.com/2026/09/trump-midterm-convention-network-coverage-1237072064/
-
-C-SPAN will provide gavel-to-gavel coverage of the 2026 Republican Convention starting on Wednesday in Dallas, while Fox News and NewsNation are planning special programming. But most other news networks are taking a wait-and-see approach, planning coverage of the first-of-its-kind midterm gathering if news warrants. While networks have reporters on the ground for the political event, [ ]
-
-### International Disruptors: My Fault’ Author Mercedes Ron On Building A Romance Empire, Taking Her IP To Hollywood Hopes For Fourth ‘Culpables’ Adaptation
-Wed, 09 Sep 2026 14:13:05 +0000 — https://deadline.com/2026/09/mercedes-ron-my-fault-fourth-culpables-prime-video-1237048559/
-
-Welcome to Deadline’s International Disruptors, a feature where we shine a spotlight on key executives, talent and companies outside of the U.S. shaking up the offshore marketplace. This week we’re talking to Mercedes Ron, the bestselling author behind the hit Culpables trilogy. The Argentine-Spanish author and producer went from posting chapters of her first novel My Fault [ ]
-
-### Sony Pictures CEO Ravi Ahuja On Strategy Of Targeted Expansion Vs Disruptive Mega M A
-Wed, 09 Sep 2026 14:07:51 +0000 — https://deadline.com/2026/09/sony-pictures-ceo-ravi-ahuja-on-targeted-expansion-vs-disruptive-ma-1237072026/
-
-Sony Pictures Entertainment’s chairman- CEO Ravi Ahuja said the company’s restoration of the historic Cinerama Dome and reopening of the adjacent 14-screen former ArcLight Hollywood complex is a great way to expand the company’s brand without “mega M A.” “Large scale M A is extremely disruptive,” he told the Bank of America media conference on Wednesday. “It [ ]
-
-### Aaron Eckhart Pic Butcher s War : Samuel Goldwyn Takes U.S., Voltage Pictures Acquires International Rights TIFF
-Wed, 09 Sep 2026 13:47:53 +0000 — https://deadline.com/2026/09/aaron-eckhart-butchers-war-1237072073/
-
-EXCLUSIVE: Samuel Goldwyn Films has acquired North American rights and Voltage Pictures has picked up international rights to the Aaron Eckhart action thriller Butcher s War. Voltage Pictures will introduce the film to international buyers at the Toronto International Film Festival. The film also stars Jason Behr (Roswell, The Grudge, Skinwalkers), Danielle Vasinova (1923, The Madison, The [ ]
-
-### Pablo Larraín’s ‘My Sad Dead’ Trailer: “The Dead Start To Make Themselves Present”
-Wed, 09 Sep 2026 13:32:58 +0000 — https://deadline.com/2026/09/my-sad-dead-trailer-pablo-larrain-netflix-1237071947/
-
-EXCLUSIVE: Here’s the trailer for Pablo Larraín’s Netflix miniseries My Sad Dead. Based on stories by acclaimed Argentine author Mariana Enriquez, the psychological horror will play in competition at the San Sebastian Film Festival later this month. Produced by Larraín’s Fabula, the much-anticipated series tells the story of Ema, a retired doctor grappling with grief [ ]
-
-### ABC News Names Rachel Scott And Rhiannon Ally As Co-Anchors Of Good Morning America Weekend
-Wed, 09 Sep 2026 13:30:00 +0000 — https://deadline.com/2026/09/good-morning-america-weekend-anchors-rachel-scott-1237072028/
-
-ABC News has named Rachel Scott and Rhiannon Ally as permanent co-anchors on Good Morning America Weekend. Scott will join Whit Johnson on Saturdays, and Ally will co-anchor alongside Gio Benitez on Sundays. They will start in their roles this weekend. The four will also anchor ABC News Live Weekend on a rotating basis on [ ]
-
-### Ellen Burstyn Talks Working Into 90s with Starring Role In Unexpected Love Story Place To Be ; Pays Tribute To Gloria Steinem – Venice
-Wed, 09 Sep 2026 13:18:26 +0000 — https://deadline.com/2026/09/ellen-burstyn-working-93-place-to-be-gloria-steinem-venice-1237072001/
-
-Oscar-winning actress Ellen Burstyn addressed shifting attitudes to older woman in Hollywood ahead of the world premiere of Kornel Mundruzcó’s Place To Be, in which she co-stars opposite Taika Waititi, at the Venice Film Festival on Wednesday. The Alice Doesn’t Live Here Anymore and The Last Picture Show star revealed that she had started to [ ]
-
-### John Oliver Returns To Host Comic Relief Live
-Wed, 09 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/john-oliver-comic-relief-live-1237071173/
-
-John Oliver is back to help out Comic Relief Live. The Last Week Tonight star will host this year’s event, which takes place at Carnegie Hall’s Stern Auditorium / Perelman Stage on Monday, October 19. Oliver will be joined by performances from Mary Beth Barone, Zarna Garg, Josh Johnson, and Roy Wood Jr. It comes [ ]
-
-### The Uprising Review: Andrew Garfield Leads A Revolt Against King Richard ll In Paul Greengrass 1381 Epic With Political Relevance To Now
-Wed, 09 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/the-uprising-review-andrew-garfield-paul-greengrass-epic-1237071435/
-
-On the heels of this summer s darker, more dour and reflective, deliberately meditative, if bloody new take on the Robin Hood legend, The Death Of Robin Hood with Hugh Jackman portraying the famous icon s last days, comes another film set in the same milieu, this one around 1381, that chronicles events that helped inspire the [ ]
+In 1974, Art Carney won the Best Actor Oscar for Paul Mazursky s Harry Tonto as a retired New Yorker who sets out on a cross-country journey to visit family with his cat after his building is being torn down. Ellen Burstyn played his daughter then, and the same year also won the Best Actress [ ]
 
 ## befores & afters
 
@@ -179,6 +179,46 @@ Mon, 07 Sep 2026 22:27:57 +0000 — https://beforesandafters.com/2026/09/08/so-m
 Issue #65 of befores & afters magazine covers the visual effects of The Electric State. DIGITAL MAGAZINE members can download the issue right now from the shop post. Set in an alternate, retro-futuristic 1990s America scarred by a robot uprising, Netflix’s The Electric State , from director duo the Russo brothers, follows orphaned teenager Michelle (Millie Bobby Brown) as she traverses a desolate landscape in search of her presumed-dead younger brother. The film is based on the 2018 graphic novel by Simon Stålenhag. Accompanied by a mysterious robot named Cosmo— apparently carrying her brother’s consciousness—she teams up with drifter Keats (Chris Pratt) and his robot companion Herman (voiced by Anthony Mackie), who appears in several different sizes. Along the way, they encounter a host of human and machine characters as the journey leads into the robot-inhabited Exclusion Zone and a deeper conspiracy surrounding the technology that ended the war. Bringing this hybrid road movie and sci-fi spectacle to life required an on-set methodology that tightly fused live-action performance with digital character creation. During principal photography, stand-in performers and dedicated motion capture artists physically embodied the film’s robotic cast, acting opposite the principal actors to establish eyelines, timing and emotional interplay. The robot performers, part of a troupe led by movement choreographer Terry Notary, worked both in optical capture setups and accelerometer-based 
 
 ## IndieWire
+
+### The Paper Review: Season 2 Can t Deliver Its One, Big, Diabolical Idea
+Wed, 09 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/shows/the-paper-season-2-review-the-office-spinoff-bad-1235213892/
+
+In Season 1, "The Office" spinoff struggled to define its main character. In Season 2, he may be the villain.
+
+### Can Practical Magic 2 Wave a Wand and Save Warner Bros. Rough Year at the Box Office?
+Wed, 09 Sep 2026 18:30:00 +0000 — https://www.indiewire.com/news/box-office/practical-magic-2-box-office-save-warner-bros-down-2026-1235215697/
+
+Michael De Luca and Pam Abdy are about to get a new boss in David Ellison, so they could really use a hit right now.
+
+### Beyond Fest Returns to Los Angeles with Guests Including M. Night Shyamalan, Michael Mann, Robert Eggers, and Many More
+Wed, 09 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/news/festivals/beyond-fest-2026-lineup-announced-1235215701/
+
+The latest incarnation of the film festival is bigger than ever, with 10 world premieres and retrospective screenings dedicated to fan favorites by David Lynch, Ken Russell, and others.
+
+### Zach Cregger Isn’t Sure He Wants Kids — So He Wrote That Anxiety Into Resident Evil
+Wed, 09 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/features/interviews/zach-cregger-resident-evil-austin-abrams-kids-interview-1235215779/
+
+Cregger tells IndieWire about giving Austin Abrams two crises to manage in his new film's brilliant opening. One, "a plotting, methodical journey into hell." The other, a tense phone call with his girlfriend.
+
+### Alexandra Pechman Came of Age in Early Aughts New York — Her First Feature Magazine Tackles the Time with a Light Touch
+Wed, 09 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/features/interviews/alexandra-pechman-magazine-pre-metoo-interview-cast-tiff-1235214837/
+
+TIFF: Filmmaker Alexandra Pechman and stars Lily McInerny, Lukita Maxwell, Ruby Cruz, Daniel Zolghadri, and Joshuah Melnick tell IndieWire about building a new coming-of-age dramedy that delights in its specifics. Even the tough ones.
+
+### Dau Review: After 20 Years of Production, Ilya Khrzhanovsky’s Infamous Mega-Project Comes to a Screeching Halt
+Wed, 09 Sep 2026 15:50:35 +0000 — https://www.indiewire.com/criticism/movies/dau-movie-review-1235215861/
+
+At long last we get the definitive chapter of cinema's wildest project, carved from a living simulation of a Soviet town.
+
+### ‘Place to Be’ Review: Ellen Burstyn Is Radiant in Otherwise Lackluster Late-Life Drama
+Wed, 09 Sep 2026 15:49:25 +0000 — https://www.indiewire.com/criticism/movies/place-to-be-review-ellen-burstyn-1235215862/
+
+Venice: The latest small-scale drama from director Kornél Mundruczó is a simple affair, but the luminous Ellen Burstyn makes it a watchable one.
+
+### Meira Blaustein, Co-Founder, Executive Director, and Head Programmer of The Woodstock Film Festival Stepping Down After 26 Years
+Wed, 09 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/news/festivals/meira-blaustein-woodstock-film-festival-stepping-down-executive-director-1235215450/
+
+Exclusive: The festival's board of directors will launch a search for Blaustein's successor.
 
 ### From Heathers to Practical Magic 2, Denise Di Novi Keeps Her Filmmaking Personal
 Wed, 09 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/denise-di-novi-interview-heathers-practical-magic-2-1235214799/
@@ -200,147 +240,107 @@ Wed, 09 Sep 2026 12:30:00 +0000 — https://www.indiewire.com/criticism/movies/l
 
 Venice: Guadagnino's epic chronicle of his filmmaking idol wends and wades its way through Bertolucci's complicated career — but where the hell is "The Dreamers"? This fascinating, often exhilarating documentary has plenty to chew on.
 
-### Summer Box Office Hit an All-Time High in 2026 — We re So Back, Right? And 4 Other Takeaways
-Tue, 08 Sep 2026 22:10:26 +0000 — https://www.indiewire.com/news/box-office/summer-box-office-all-time-high-2026-takeaways-1235215694/
-
-A $4.765 billion summer was powered equally by "Spider-Man" and Christopher Nolan as it was "Obsession" and A24.
-
-### Company Review: Casey Affleck’s Nesting Doll Narrative Is Pretty but Directionless
-Tue, 08 Sep 2026 19:50:00 +0000 — https://www.indiewire.com/criticism/movies/company-movie-review-casey-affleck-1235215574/
-
-Venice: Tales within tales stretch further back in time, revealing a rigid meta-narrative shot by 8 different DPs.
-
-### As ‘Christine’ Turns 10, Rebecca Hall and Its Filmmakers Fear a Series of Corporate Bankruptcies Could Make the Film Disappear
-Tue, 08 Sep 2026 19:30:00 +0000 — https://www.indiewire.com/news/business/christine-10th-anniversary-rebecca-hall-fights-to-preserve-1235215647/
-
-Exclusive: Released in 2016, "Christine" was embraced by critics, but the failure of its distributor and financier has left its future in question.
-
-### Telluride Boosts Oscar Chances, from Wild Horse Nine to La Bola Negra, but Is A24 s Controversial Elizabeth Holmes Doc a Contender Too?
-Tue, 08 Sep 2026 18:21:49 +0000 — https://www.indiewire.com/awards/predictions/telluride-oscar-analysis-john-malkovich-a24-elizabeth-holmes-doc-1235215558/
-
-The mountain festival, along with Venice, always clarifies the ongoing award contenders. Toronto is next up.
-
-### Bunker Review: A Tech Billionaire Asks Javier Bardem to Build a Doomsday Ark in Florian Zeller s Heavy-Handed Social Thriller
-Tue, 08 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/movies/bunker-review-javier-bardem-penelope-cruz-1235215377/
-
-Venice: Bardem co-stars with real-life wife Penélope Cruz in a movie that fails to make worthwhile use of their individual talents or shared personal history.
-
-### Practical Magic 2 Review: Sandra Bullock and Nicole Kidman Break Hearts in a Spellbinding Sequel
-Tue, 08 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/criticism/movies/practical-magic-2-review-sandra-bullock-nicole-kidman-1235215192/
-
-Let yourself fall in love with Susanne Bier’s touching follow-up to the witchy 1998 cult film.
-
-### Alpha Gang Review: Léa Seydoux Leads an All-Star Cast of Motorcycle-Loving Aliens in the Zellner Brothers Wacky Sci-Fi Pastiche
-Tue, 08 Sep 2026 15:47:52 +0000 — https://www.indiewire.com/criticism/movies/alpha-gang-movie-review-1235215511/
-
-Dave Bautista, Chris Pine, and Lily Rose-Depp are among the other rockabilly ETs, who take human form but can't handle human emotion.
-
-### The Downtown Festival Sets 2026 Film Lineup, Including Paul Schrader, Ethan Hawke and Siyou Tan
-Tue, 08 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/news/festivals/downtown-festival-2026-film-lineup-1235214988/
-
-The third annual edition of the festival will run from October 9 through October 18 across Lower Manhattan.
-
 ## The Wrap
 
-### Martin Herlihy Departs SNL After 5 Seasons
-Wed, 09 Sep 2026 14:44:49 +0000 — https://www.thewrap.com/creative-content/tv-shows/martin-herlihy-leaves-snl/
+### Adam Schiff Is Shocked to Strongly Agree With Trump on Film Tax Credit: Never Used Those Words Before
+Wed, 09 Sep 2026 19:22:45 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/adam-schiff-donald-trump-film-tax-credit-hollywood-cnn/
 
-Martin Herlihy is leaving Saturday Night Live after five seasons, according to multiple media reports. Herlihy was previously a writer for four seasons as part of the sketch group Please Don t Destroy, which also includes Ben Marshall and John Higgins. In Season 51, Herlihy transitioned to the role of writer. Higgins More to come The post Martin Herlihy Departs SNL After 5 Seasons appeared first on TheWrap .
+Sen. Adam Schiff is shocked that he s found something to strongly agree with President Donald Trump on – the film tax credit. In a conversation with CNN s Elex Michaelson, the California Senator touched on his recent social media post where he said he was in strong agreement with Trump on his support of the federal film tax credit. I ve never used those words before, but look, when I took this office I said I m going to try to do two things that are going to be in tension with each other, Schiff said. I m going to try to get things done, and I m going to try to fight any corruption, any attack on our democracy. Well, this is something we can get done. And just because it s this president, if it s a good idea, I m not going to oppose it, he continued. In fact, I fully support this. As you know, I ve been working for a federal tax credit for the film and television industry to bring these jobs back to California. And now I think we are very close to making that happen. A couple weeks back, Trump took to his own social media to urge Congress for policy changes to stem the tide against production flight to other major international hubs like the United Kingdom and Canada. This came after a meeting the president had with actor and Hollywood Ambassador Jon Voight. “Hollywood is a Complete and Total Disaster! Despite the name, it is getting very little work. There is no incentive to be there, and it is hurting California very badly,” Trump wrote on Truth Social . He added: “Meetings
 
-### DOJ Taking Closer Look at $22 Billion Fox-Roku Merger
-Wed, 09 Sep 2026 14:35:42 +0000 — https://www.thewrap.com/industry-news/deals-ma/fox-roku-merger-doj-information-request-review-update/
+### Creatorverse: NFL Is Doubling Down on Creators as the US Open Struggles
+Wed, 09 Sep 2026 19:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/creatorverse-nfl-us-open-creator-strategy/
 
-The U.S. Department of Justice is seeking additional information about Fox s pending $22 billion acquisition of Roku . On Tuesday, both Fox and Roku received a so-called second request for additional information by the regulator in connection with its review of the deal, the Murdoch-family owned media giant disclosed in an SEC filing on Wednesday. The move extends the merger s waiting period under the Hart Scott Rodino Act until 30 days after both companies have substantially complied with the request, unless the DOJ terminates the waiting period early or the merging companies agree to extend it even further. Fox said that the move was expected and that the companies will continue to work cooperatively with the DOJ. If approved, the Fox-Roku deal would cement the former s dominance in the free ad-supported streaming space. Fox already owns Tubi, which reaches a total of 110 million monthly active users. Meanwhile, Roku reaches more than 100 million streaming households. The combination would also make Fox the second largest distributor by viewership in the U.S., only trailing YouTube. The merger remains on track close in the first half of 2027, subject to the HSR expiration and the satisfaction of other customary closing conditions, including approvals by Fox and Roku stockholders. The post DOJ Taking Closer Look at $22 Billion Fox-Roku Merger appeared first on TheWrap .
+Hey Creatorverse readers, Football season is here, or should I say football creator season. The NFL is once again increasing its creator partnerships as part of a push that includes bringing back the NFL and YouTube’s Creator of the Week program for the third year in a row, collaborating with Snapchat and planning content with top creators like Deestroying ( 6.5 million YouTube subscribers ), Zach King ( 43.4 million subscribers ), Gabriela Moura ( 11.5 million TikTok followers ) and Dhar Mann ( 27.6 million YouTube subscribers ). The NFL’s creator strategy has become a central part of its audience expansion efforts in recent years, especially as the NFL has made moves to expand its female and non-American audiences. Last year s Creator of the Week program led to more than 86 million views across all YouTube and NFL channels. And this year creators are especially important as the NFL will have nine international games throughout the 2026-2027 season — the most in the league’s history. For those, the NFL is tapping creators in countries like Australia for the San Francisco 49ers vs. Los Angeles Rams game and Brazil for the Baltimore Ravens vs. Dallas Cowboys game. For us, it’s really a combination of global and local relevance, Ian Trombetta, senior vice president of Global Social, Creator and Content Marketing for the NFL, told me. Of course, there are amazing creators like MrBeast or IShowSpeed whose communities have no borders, but there are also emerging creators within ea
 
-### Seth Meyers and Sal Gentile Mock Trump for Sounding Like a James Bond or Sandra Bullock Villain Over Data Centers
-Wed, 09 Sep 2026 14:32:01 +0000 — https://www.thewrap.com/creative-content/tv-shows/seth-meyers-mocks-trump-data-centers-bond-villain/
+### Paul Feig in Talks to Direct Italian Job Sequel at Paramount
+Wed, 09 Sep 2026 18:45:09 +0000 — https://www.thewrap.com/creative-content/movies/paul-feig-the-italian-job-sequel-paramount/
 
-President Trump is calling for people to let data reign and embrace AI data centers, which sounds awful familiar to Seth Meyers and Late Night writer Sal Gentile. Usually, it s just coming from a movie villain. In the latest episode of A Closer Look: Out of Office and/or A Closer Look: Proof of Life, if you so prefer Meyers and his A Closer Look writer dug in on how hard Trump and other Republicans are pushing people to embrace data centers, despite the damage said centers cause to the environment and towns they re housed in. In one recent post, the president wrote that the only reason the communities throughout the USA should not want data centers is if they want to end up being backwards and poor. I think it was the same post where he said, Let data reign, which sounds like the villain from a 90s, like the net,' Gentile said with a laugh. It sounds like a villain from a 90s Sandra Bullock sci-fi movie. Right, Meyers agreed. There was a very small window of screenwriting where a villainous thing to say was Let data reign. And then by the time the movie came out, it already seemed like it was 100 years old. That said, Meyers was pretty sure a line like that could ve made it into one of Pierce Brosnan s James Bond films. There s a chance there s one of those, like, later Brosnan Bonds where someone s like, It s all data now, James,' Meyers joked, putting on his most sinister voice. The days of old bars are over, James. It s all data. Data I have in this solitary USB!' You can 
+Hot off the success of The Housemaid, Paul Feig is in early talks with Paramount to direct a sequel to 2003 heist film The Italian Job, sources with knowledge of the project have told TheWrap. Directed by F. Gary Gray and starring Mark Wahlberg, Charlize Theron and Edward Norton, The Italian Job was inspired by a 1969 comedy starring Michael Caine but with its own action-packed take. The film follows a team of thieves who plan to get revenge on a former member who betrayed them and steal back $35 million in gold they stole from a Venice vault. The film is famous for a climactic chase scene involving three souped-up Mini Coopers that weave through the streets of Los Angeles and across the concrete of the L.A. River. The Italian Job was a decent box office success, grossing $176 million worldwide against a $60 million budget. Paramount s planned sequel currently has no talent attached, but if it gets off the ground it won t be the only heist film to join the studio s slate. Following Paramount s acquisition by Skydance last year, the motion picture group s new leadership, helmed by Dana Goldberg and Josh Greenstein, announced the motorcycle crime film High Side starring Timothée Chalamet and directed by James Mangold as their first greenlit project. Fresh off The Housemaid, which made $400 million worldwide this past winter, Feig is currently at Lionsgate working on a sequel, The Housemaid s Secret, based on the novel of the same name by Freida McFadden. That movie is set for r
 
-### MS NOW Launches 5 Members-Only Shows
-Wed, 09 Sep 2026 14:00:00 +0000 — https://www.thewrap.com/media-platforms/streaming/ms-now-members-only-shows/
+### ‘Wildwood’ Will Open 2026 AFI Fest in Los Angeles
+Wed, 09 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/movies/wildwood-laika-afi-fest-premiere/
 
-MS NOW launched its paid membership Wednesday with five members-only shows led by Rachel Maddow, Lawrence O’Donnell and other network personalities, expanding its new $7.99-per-month direct-to-consumer offering . The membership also features a moderated community, a personalized daily briefing and access to the cable news network’s 24/7 television feed. The programming slate includes “Rachel Maddow: In Conversation With…,” a monthly long-form interview series exploring politics, history and public life. O’Donnell will host “The Very Last Word,” a weekly behind-the-scenes look at something he could not fit into his television program. Ali Velshi will examine polling and voter data each Thursday on “Off the Charts,” while former federal prosecutor Andrew Weissmann will answer members’ questions about major legal developments on a weekly show. Former Sen. Claire McCaskill of Missouri will host “Political Potluck,” featuring kitchen-table conversations with lawmakers, officials and other guests. House Minority Leader Hakeem Jeffries will appear in the first installment, followed by Kentucky Gov. Andy Beshear. The membership costs $7.99 per month or $79.99 annually. Through Sept. 30, new members can receive their first full year for an introductory price of $39.99, plus tax. The programs join MS NOW’s television feed and the twice-daily live Q&As and mindfulness offerings announced Tuesday. The membership is organized into five sections: For You, Watch, Connect, Breathe and Explor
+The American Film Institute’s 2026 AFI Fest will open with the United States premiere of Laika Studios’ “Wildwood” on Wednesday, Oct. 21. This will be the 40th edition of AFI Fest, which is held yearly in Hollywood. Tickets are on sale now. This year’s festival is presented by Canva. “Wildwood” is the highly anticipated new film from the Portland, Oregon-based animation studio behind modern classics “Coraline,” “ParaNorman” and “Kubo and the Two Strings.” It is their first feature since 2019’s “Missing Link” and a labor of love for the entire studio. Based on the book series by Colin Meloy and Carson Ellis, “Wildwood” follows a young girl named Prue (voiced by Peyton Elizabeth Lee), whose young brother is taken by a flock of ravens, forcing her to travel into a strange and magical realm. The film was written by Chris Butler, was shot by legendary cinematographer Caleb Deschanel (AFI Class of 1969) and produced and directed by Travis Knight, Laika s CEO and lead animator . Jacob Tremblay, Carey Mulligan, Mahershala Ali, Angela Bassett, Awkwafina, Tom Waits, Jake Johnson and Amandla Stenberg also star. “AFI is honored to celebrate ‘Wildwood’ as the Opening Night Film of the 40th Annual AFI FEST,” said Bob Gazzale, AFI President & CEO, in a Wednesday statement. “At a time when the world needs artistic inspiration more than ever, ‘Wildwood’ comes to the rescue by inviting audiences to a hand-crafted, endlessly imaginative world that both dazzles and delights.” Sixteen years is a 
 
-### Washington Post Names Jeff D Onofrio Publisher and CEO
-Wed, 09 Sep 2026 13:24:16 +0000 — https://www.thewrap.com/industry-news/business/jeff-donofrio-washington-post-ceo-publisher/
+### Maxton Hall Season 3 Will Use Amazon s New AI Lip Syncing Tech for Dubbed Episodes
+Wed, 09 Sep 2026 17:57:57 +0000 — https://www.thewrap.com/industry-news/tech/amazon-prime-video-ai-lip-syncing-technology-maxton-hall-season-3/
 
-The Washington Post has named Jeff D Onofrio Publisher and CEO, the publication announced on Wednesday. The news makes official what has been the case for months, as D Onofrio has been serving as acting CEO since February, when Will Lewis abruptly resigned during a state of upheaval at the paper. Owner Jeff Bezos praised D Onofrio in a memo to staff on Wednesday morning. Over these months, I’ve heard from many that Jeff has been doing an outstanding job, and that’s been my experience as well. Jeff has led with discipline and care — following the data and sweating the details, and he has my complete confidence as we chart our future, Bezos said. D Onofrio followed up with a memo of his own. It’s an honor to be entrusted with the responsibility to guide this institution forward, and I also want to thank you for all of your support and partnership, he said. The Washington Post will celebrate its 150th anniversary next year. It is our collective responsibility to ensure that we position it for the next 150 years, and I will be working with all of you to do just that. We have made significant progress together over the last seven months, but our work is never done. News and Opinions are at our gravitational center, and our mission doesn’t change. What will change is that we will build a modern media company with new revenue streams that move us from breakeven to profitability, so we can reinvest in our journalism. He continued: It is the relentless drive and spirit of this institu
+Amazon s Prime Video has unveiled a new, AI-powered lip-syncing technology tied to the forthcoming December premiere of Maxton Hall Season 3. The feature, which is now available with the first two seasons of Maxton Hall, uses AI to eliminate the disconnect that can occur with traditional dubbing and deliver a more accessible viewing experience. The technology is designed to synchronize actors lip movements with human-dubbed audio in the hopes of creating a smoother effect than traditional dubbing typically provides. At Prime Video, we re constantly innovating with new tools that enhance the viewing experience for our customers, Raf Soltanovich, Vice President of Technology at Prime Video and Amazon MGM Studios, said in a Wednesday statement. With lip-syncing, we re creating a more seamless and immersive way for customers to enjoy global content. For creators, we re making it easier for their stories to reach an even broader and global audience, all done under creative oversight to ensure the integrity of their artistic vision is preserved, he added. Amazon also has plans to add the technology to other Prime Video titles in the coming months, and it will be available with Maxton Hall Season 3 once it premieres on Dec. 9. The announcement continues Amazon s ongoing investment in artificial intelligence. In recent months, the company has rolled out a number of AI-powered technologies and updates to its streaming platforms. In May, it launched an update allowing Alexa+ users to c
 
-### Sony Pictures CEO Ravi Ahuja Says No Plans for Extremely Disruptive Large Scale M A
-Wed, 09 Sep 2026 13:22:39 +0000 — https://www.thewrap.com/industry-news/business/sony-pictures-ceo-ravi-ahuja-merger-acquisition-strategy/
+### Keanu Reeves to Star in Kill Current Adaptation
+Wed, 09 Sep 2026 17:40:37 +0000 — https://www.thewrap.com/creative-content/movies/keanu-reeves-to-star-in-kill-current-adaptation/
 
-As Paramount continues its quest to acquire Warner Bros. Discovery, Sony Pictures CEO Ravi Ahuja says his studio has no plans to prioritize large-scale M&A, warning that it could be extremely disruptive to the company s business. It s extremely disruptive when you end up with a large company that has lots of different businesses. You can spend years on that type of project, Ahuja told an investor conference hosted by Bank of America on Wednesday. In the end, you come out having just achieved a lot of cost synergy and I m not sure the business is necessarily stronger. He emphasized that the process of getting a deal approved and the associated integration work sets you back for years. This industry is dynamic and evolving and you really have to position yourself for how it s going to evolve over the next five to 10 years and not just drown in M&A, particularly when I am doubtful of having increased scale and content creation making a big difference. These companies are not factories, Ahuja added. I don t think there s anything in particular that I say we must have this asset that sits out there . At the same time, he touted the benefits of Sony Pictures inclusion within the Japanese multinational conglomerate s larger portfolio and said there s no plans to spin the studio out into an independent company. Ahuja s comments come after Sony teamed up with Apollo Global Management to make a bid for Paramount in 2024, but ultimately lost out to Skydance s David Ellison. Ahuja clarif
+The Arena has preemptively acquired and will finance and produce a Keanu Reeves-led adaptation of Oliver Lowe’s upcoming novel Kill Current: A Jon Hendricks Thriller, the company announced Wednesday. Reeves will also produce with Alexandra Grant for Two Dragonflies. Molly Stern and Zando will executive produce. The novel will be published by Zando in May of 2027. Kill Current is the first novel in Lowe’s forthcoming series centering on Jon Hendricks, a burned-out CIA officer who is pulled back in to avenge the protégé he trained and lost. This first novel will introduce the franchise s globe-spanning, edge-of-your-seat action about shifting alliances and the race for the world’s most precious and valuable assets. “This project further underlines our focus on launching high-concept IP for global audiences across different media,” Erik Feig, CEO of The Arena, said in a statement. “Keanu Reeves is a singular talent and synonymous with the kind of intelligent action franchises we are aiming to make. We are thrilled to work with him and Alexandra Grant and equally thrilled that Matt Reilly and Melissa Goodall were able to swoop in and get this!” “Oliver Lowe’s masterful story, the first in his upcoming Jon Hendricks series, is poised to reinvent the geopolitical thriller for the modern era,” Molly Stern, CEO and founder of Zando, added. “Kill Current is rooted in the issues shaping today’s world — semi-conductors, global supply chains, technological and information warfare. It del
 
-### The 9 Buzziest Films for Sale at TIFF 2026
-Wed, 09 Sep 2026 13:12:25 +0000 — https://www.thewrap.com/creative-content/movies/buzziest-tiff-movies-for-sale-2026/
+### Why ‘Hope’ Director Na Hong-jin Cast Movie Stars as Monsters
+Wed, 09 Sep 2026 17:30:54 +0000 — https://www.thewrap.com/creative-content/movies/hope-movie-director-na-hong-jin-interview-neon/
 
-Will the Obsession effect spark some life in at Toronto International Film Festival? Last year s $16 million pickup of Curry Barker s debut film led to one of the biggest stories over the summer with the film grossing half a billion dollars worldwide. That should provide extra incentive as buyers head to Toronto this week in search of the next indie breakout. The film festival, which introduces an official market for the first time, will look to build upon a livelier output last year, when over a dozen titles sold. Still, gone are the days of overnight bidding wars, with slower sales from the various festivals the new status quo. Insiders who spoke to TheWrap feel pretty good about this year s market. Traditionally, there are a fewer number of deals that actually happen at the festival, with some negotiations dragging out long after the festival is over. But that doesn t mean there won t be a lot of activity. I do feel that the market is in a better place, Gersh agent Julien Levesque told TheWrap. There are still things that lean commercial. This year s market features new movies from Werner Herzog, Caleb Hearon and Chase Infiniti that are looking for buyers. What will also be interesting to see is which buyer will stand out from the crowd. Last year had new player Row K Entertainment emerge as a serious buyer, but the company in March lost its key leadership amid reports of financial strain. Sales are off to a good start as Diego Luna s migrant drama Ashes sold ahead of it s
+“Hope” is here. The epic sci-fi spectacle, about an alien invasion that comes to a small South Korean town called Hope Harbor, arrived at the Cannes Film Festival earlier this year, where it received a divisive response. Some heralded it as a breathless new classic ( our own reviewer called it “all-time great new action”) while others dinged it for what they considered slack pacing and iffy visual effects. (IndieWire’s David Ehrlich’s pan was particularly withering .) Now, a few months later, with the Cannes response in the rearview and Neon opening it on 1,500 screens (the widest release for a Korean-language movie since “Parasite” in 2019), “Hope” is ready for global dominance. The movie, a whirling, gonzo extravaganza unlike anything you’ve ever seen before, follows several characters – a headstrong chief of police (Hwang Jung-min), a rookie cop (Jung Ho-yeon), an elderly man (Im Hyun-sik), an oddball taxidermist (Eum Moon-suk) and some hunters in the woods – as they attempt to track and stop the rampaging monsters. It’s also probably worth mentioning that Michael Fassbender, Alicia Vikander and Taylor Russell play the creatures. The movie is full of unbelievable set pieces, as intricate and dazzling as any Hollywood spectacular, and builds to a climax both mystifying and electrifying – a cosmic punchline that had our audience chuckling in disbelief. Writer/director Na Hong-jin, whose last film was 2016’s witchy horror epic “The Wailing,” said that he has been thinking abo
 
-### Carrie Teases Cyber Bullying and Bloodshed in Heartbreaking First Trailer
-Wed, 09 Sep 2026 13:06:40 +0000 — https://www.thewrap.com/creative-content/tv-shows/carrie-trailer-prime-video-stephen-king-mike-flanagan/
+### Netflix Snags Understudy Short Story in $1 Million Development Deal With Phil Lord, Chris Miller and Steven Yeun
+Wed, 09 Sep 2026 17:30:27 +0000 — https://www.thewrap.com/creative-content/tv-shows/netflix-understudy-development-nicholas-binge-steven-yeun-phil-lord-chris-miller/
 
-The first trailer for Mike Flanagan s Carrie has finally arrived. The eight-episode series will premiere on Prime Video on Oct. 7. The trailer starts with Carrie (Summer H. Howell) walking into a classroom for the first time after being homeschooled all her life. Immediately she s met with sneers and sarcastic remarks from her classmates as they mock her for her homemade clothes and ignorance. I used to dream about this, Carrie says, holding a red Solo cup at a party and smiling broadly. Having friends. That dream quickly becomes a nightmare once Carrie gets her period in the locker room. As she panics over the blood, believing that something is seriously wrong, her classmates film her freakout and post it online. As tensions rise and the video becomes more popular, Carrie s psychic powers seem to strengthen. There s a 911 call reporting that someone is dead, and a young girl seemingly coughs up blood. The trailer then ends with Carrie donning a crown and standing onstage at a school dance. As any fan of Stephen King s novel or Brian De Palma s film adaptation knows, she s seconds away from one of the most consequential moments in her life. All I ever wanted was to go to school, Carrie says. Check out the first trailer below. The series stars longtime Flanagan collaborator Samantha Sloyan as Carrie’s mother Margaret. Sloyan and Howell are joined by Siena Agudong (“Resident Evil”) as Sue Snell, Alison Thornton (“Fire Country”) as Chris Hargensen, Joel Oulette (“My Life with th
+Netflix snagged another hot TV package with Understudy, a short story from bestselling author Nicholas Binge with Phil Lord, Chris Miller and Steven Yeun attached as executive producers. The project landed at the streaming giant with a deal reportedly over $1 million. Binge is attached to write the adaptation. Yeun s Celadon Pictures and Lord Miller will executive produce the show as part of their first-look deals with Netflix. Yeun is not attached to star in the series as acting deals have not been made for the project. Binge also serves as executive producer, along with Lord, Miller, Aditya Sood and Dan Shear for Lord Miller; Yeun and Christina Oh for Celadon Pictures and Nicolas Binge. This is the latest competitive package to land at Netflix this week. The streamer announced a Lonesome Dove TV adaptation from Zoe Kazan and Jeb Stuart landed on the platform Tuesday after a competitive bidding war. That is the next collaboration for Kazan and Stuart at Netflix after their East of Eden limited series, starring Florence Pugh, Mike Faist and Christopher Abbott, which will premiere in October. Yeun is also set to return to Netflix to star and executive produce Pagan, a new supernatural drama from Joshua Zetumer. Lord and Miller are coming off a profitable run for Project Hail Mary, which made $684.3 million at the box office and has Oscar buzz. Binge is the bestselling author of speculative thriller with sci-fi and psychological horror elements. His latest novel White Smoke sol
 
-### Washington Sun Launches With 28 Washington Post Veterans
-Wed, 09 Sep 2026 13:01:07 +0000 — https://www.thewrap.com/media-platforms/journalism/washington-sun-launch-staff-washington-post-veterans/
+### Landman Season 3 Adds Lioness Star Michael Kelly to Cast
+Wed, 09 Sep 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/landman-season-3-cast-michael-kelly/
 
-The Washington Sun officially launched Wednesday with a 110-person newsroom that includes at least 28 former Washington Post journalists, as the outlet formerly known as NOTUS expands into local news, sports, food and weather. The publication has more than doubled its staff in the past six months, editor-in-chief Tim Grieve said in a launch announcement Wednesday. Its newsroom now has 110 employees, up from 45 at the beginning of the year, according to The New York Times. “At least 28 of us are former Posties,” longtime Washington Post columnist Dana Milbank, who joined the outlet earlier this year, wrote in a column announcing the launch Wednesday. Other former Post journalists who have joined the Sun include congressional reporters Paul Kane and Kadia Goba, economics reporter Jeff Stein, restaurant critic Tom Sietsema and sports journalists Thomas Boswell and Dave Sheinin. The Sun has also entered into an exclusive licensing agreement with Capital Weather, the forecasting operation formerly known as the Post’s Capital Weather Gang, which will provide daily weather forecasts for the publication. The expansion comes after the Washington Post slashed its newsroom in a sweeping “strategic reset” in February, scaling back international coverage, restructuring its metro desk and ending its sports section in its previous form. More than 300 journalists lost their jobs. Grieve told the Times that the Post’s pullback created an opening for expanded local and sports coverage. “I thin
+Michael Kelly expands his reach in the Taylor Sheridan universe as he joins Season 3 of Landman. The Emmy-nominated actor will join the Paramount+ show as a series regular next season as William Crockett, the leader of the largest oil management firm in the world. His character is described as a titan of industry who exudes efficiency and money. He joins returning cast members Billy Bob Thornton, Demi Moore, Andy Garcia, Ali Larter and Sam Elliott with additional cast Jacob Lofland, Michelle Randolph, Paulina Chávez, Kayla Wallace, Mark Collie, James Jordan and Colm Feore. Kelly previously starred in Sheridan s thriller series Lioness for Paramount+ alongside Zoe Saldaña, Nicole Kidman and Morgan Freeman. He has also appeared in Jack Ryan, The Penguin and House of Cards, for which he received four Emmy Award nominations. Landman Season 2 achieved record-breaking premiere numbers, becoming Paramount+ s most-watched original premiere with over 9.2 million views. The viewership marks a 262% increase from its series premiere. The drama series, which follows roughnecks and wildcat billionaires and an oil boom that comes between them, is executive produced by Sheridan, David C. Glasser, David Hutkin, Ron Burkle, Bob Yari, Christian Wallace, Billy Bob Thornton, Geyer Kosinski, Michael Friedman and Stephen Kay. Dan Friedkin and Jason Hoch executive produce the series for Imperative Entertainment, and J.K. Nickell and Megan Creydt executive produce for Texas Monthly. Landman is produc
 
-### NFL Partners With Deestroying, Zach King, Dhar Mann and More Creators for the 2026-2027 Season Exclusive
-Wed, 09 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/culture-lifestyle/sports/nfl-creator-partners-2026-2027-season/
+### SNL Taps Jalen Brunson, Dakota Johnson, Shane Gillis and Inde Navarrette as Season 52 Hosts
+Wed, 09 Sep 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-jalen-brunson-dakota-johnson-shane-gillis-inde-navarrette-season-52-fall-hosts/
 
-Creators will be hitting the field for the 2026 NFL Kickoff game between the Seattle Seahawks and the New England Patriots. Both Deestroying ( 6.5 million YouTube subscribers ) and Zach King ( 43.4 million subscribers ) are partnering with the league to capture the excitement of the Super Bowl LX rematch, TheWrap has exclusively learned, and are just two of dozens of creators who will be part of the NFL s season this year. The kickoff game will air Wednesday at 8:20 p.m. ET on NBC and Peacock. Thursday night in the U.S. will see more than 100 creators traveling to the Melbourne Cricket Ground to watch the San Francisco 49ers face off against the Los Angeles Rams. Notable attendees include Australian singer and songwriter G FLIP, singer and pianist Harry Connick Jr., snowboarder Scotty James, singer Dannii Minogue, rapper and actor O Shea Jackson Jr., creator and wife of 49ers tight end George Kittle Claire Kittle ( 483,000 Instagram followers ), creator and designer Kristin Juszczyk ( 1.2 million Instagram followers ), creator Jay Mendoza ( 1.2 million TikTok followers ) and Mr. Chuy ( 3.1 million TikTok followers ). The NFL’s first-ever regular season game in Australia will stream on Netflix at 8:35 p.m. ET Thursday, Sept. 10 (10:35 a.m. AEST Friday, Sept. 11) and will include a halftime performance by the Jonas Brothers. With nine international games this season — the most in the history of the league — the NFL will invite creators in key markets to capture the game around 
+SNL unveiled its starting lineup for Season 52, tapping Jalen Brunson, Dakota Johnson, Shane Gillis and Inde Navarrette as hosts to kick off the fall. Freshly minted NBA champion Brunson, who was named MVP of the 2026 NBA Finals as he led the New York Knicks to their first championship win in 53 years, will host SNL for the first time for the Season 52 premiere on Sept. 26. He will be joined by Katseye, who will make their debut as musical guest. Johnson will take the baton from Brunson to host the Oct. 3 episode, marking the third time the actress, who stars in Oct. 2 release Verity, has taken the SNL stage. Also on Oct. 3, Turnstile will perform in their first appearance as a musical guest. Next up, on Oct. 10, the third back-to-back week of SNL will see Gillis host for the third time, with Rosalía slated to take the stage for the second time as musical guest. Saturday Night Live will then take a two-week break before returning for a Halloween episode. The Oct. 31 episode will be hosted than no other than Obsession breakout Navarrette. She ll be joined by Gracie Abrams, who will make her second appearance as musical guest. “SNL” closed out its 51st season as the No. 1 broadcast comedy series in the 18-49 demo for the 2025-26 season, all while scoring 11 Emmy nominations. The late night sketch show debuts on NBC Saturdays at 11:30 p.m. ET/8:30 p.m. PT and streams live on Peacock. “Saturday Night Live” is produced in association with Broadway Video, with Lorne Michaels servin
 
 ## Collider
 
-### Star Trek Boss Officially Dishes on the Sci-Fi Franchise's Worst Early Cancellation
-Wed, 09 Sep 2026 14:30:11 GMT — https://collider.com/star-trek-the-next-generation-cancellation-comments-brannon-braga/
+### 10 Near-Perfect Book Trilogies That Everyone Must Read at Least Once
+Wed, 09 Sep 2026 19:19:11 GMT — https://collider.com/near-perfect-book-trilogies-everyone-must-read-once/
 
-Although it has been more than three decades since the greatest Star Trek series came to an end, it now appears the show may have left the air too soon. Created by Gene Roddenberry , Star Trek: The Next Generation was the franchise's second live-action series and drew heavily from The Original Series . The space epic premiered on September 28, 1987, and concluded its planned seven-season run on May 23, 1994. Following the series finale, Paramount transitioned the cast and crew to the big screen, beginning with Star Trek Generations later that year .
+For someone who loves reading, there's nothing quite like finding an incredible trilogy to sink one's teeth into. It's usually a considerable time commitment, but the trilogies that are worth such dedication always find ways to reward readers' patience in all sorts of ways. It's a wholly different thing, though—one far rarer and, for obvious reasons, even more precious—to find a book trilogy that's not only great, but almost downright perfect.
 
-### Jodie Comer Seduces Harry Melling in a Song With a Corpse in a New Clip from a New TIFF Musical [EXCLUSIVE]
-Wed, 09 Sep 2026 14:00:11 GMT — https://collider.com/jodie-comer-harry-melling-stuffed-sneak-peek/
+### Harry Potter: How HBO Is Rebuilding the Wizarding World
+Wed, 09 Sep 2026 19:11:20 GMT — https://collider.com/video/harry-potter-how-hbo-is-rebuilding-the-wizarding-world/
 
-Fan of musicals? What about body horror? Is romance more your style? Mix them all together and you have the new film, Stuffed , that is heading to the Toronto International Film Festival (TIFF). Directed by Theo Rhys and written by Rhys and Joss Holden-Rea , the film stars Killing Eve star Jodie Comer and Harry Potter and Pillion star Harry Melling in a twisted romance about legacy and falling in love with your latest specimen. To celebrate the film heading to TIFF, we have an exclusive look at Comer's character attempting to seduce Melling's in front of a dead body.
+Harry Potter is being rebuilt on an enormous scale for HBO, and some of the biggest challenges have nothing to do with visual effects. The young cast’s education, limited filming windows, practical creatures, Quidditch crowds, and elaborate sets all have to work together.
 
-### Doctor Strange Officially Returns to Marvel in "Eye-Popping" New Release [Exclusive]
-Wed, 09 Sep 2026 14:00:11 GMT — https://collider.com/doctor-strange-endless-nightmare-exclusive-preview/
+### Taylor Sheridan’s 4-Part Crime Thriller Is Officially Coming to Netflix
+Wed, 09 Sep 2026 19:01:11 GMT — https://collider.com/taylor-sheridan-mayor-of-kingstown-netflix-release-date/
 
-Doctor Strange has spent more than 60 years venturing into some of the strangest corners of the Marvel Universe, and the Sorcerer Supreme’s next adventure is leaning heavily into the surreal horror that has always made him unique. This time, Stephen Strange is heading somewhere considerably more dangerous than another dimension — straight into the human mind.
+Netflix has officially set a release date for Taylor Sheridan 's easy-to-binge crime thriller ahead of its fifth and final season , and fans won't have to wait long. Mayor of Kingstown , co-created by the Yellowstone mastermind and Hugh Dillon , is widely considered one of Sheridan's most underrated crime thrillers despite running for multiple successful seasons . Debuting on November 14, 2021, the series tends to fly under the radar compared to other popular Sheridan shows, including the highly acclaimed Yellowstone , Tulsa King , Dutton Ranch , Marshals , and most recently Special Ops: Lioness , all of which consistently grab mainstream headlines.
 
-### Two James Bond Contenders Unite in ‘Hell or High Water’ Director’s New Streaming Hit
-Wed, 09 Sep 2026 13:30:11 GMT — https://collider.com/theo-james-fuze-streaming-success-hbo-max-prime-video-september-2026/
+### 'Lord of the Rings’ Officially Reveals Long-Lost Twin in New Look at 'Rings of Power' Season 3
+Wed, 09 Sep 2026 18:45:11 GMT — https://collider.com/lord-of-the-rings-the-rings-of-power-season-3-elrond-long-lost-twin-elros-first-look-image/
 
-With the highly coveted role of James Bond reportedly having already been cast (according to Gary Oldman ), it seems like the producers have picked an actor from the latest shortlist that was doing the rounds. The list included three actors named Jack — Jack Lowden , Jack O'Connell , and Jack Barton — and two other favorites, Callum Turner and Jacob Elordi . It was previously reported that Amazon MGM Studios was looking at actors in their early 30s for the role, hoping that they would continue playing the character for several years. Daniel Craig 's tenure as Agent 007, for instance, lasted 15 years. If the gap between Bond eras not been so long, more actors would have been in contention, including two prominent favorites who starred together in a thriller film only last year. The movie in question witnessed a spike on two streaming platforms simultaneously this week.
+Less than two months after Galadriel's ( Morfydd Clark ) long-lost husband and Elf lord, Celeborn, was confirmed to appear in The Lord of the Rings: The Rings of Power Season 3, another even more exciting plot detail has come to light. The new season takes place five years after the catastrophic events of Season 2 , during the height of the War of the Elves and the Dark Lord. Unlike previous seasons, it is expected to premiere with its first four episodes in two months, on November 11, 2026, followed by two more episodes on November 18 and the final two on November 25.
 
-### Marvel Officially Reunites Doctor Doom With His Perfect Love Interest
-Wed, 09 Sep 2026 13:30:11 GMT — https://collider.com/marvel-comics-doomquest-doctor-doom-valeria-romance/
+### 'Luke Cage' Icon Officially Returns to TV With New Legal Thriller
+Wed, 09 Sep 2026 18:37:33 GMT — https://collider.com/mike-colter-lincoln-lawyer-replacement-cupertino-trailer/
 
-Is Marvel trying to get us to sympathize with Doctor Doom before we officially meet Victor ( Robert Downey Jr. ) in the MCU when Avengers: Doomsday hits theaters? A tragic love story is certainly one way to do it . We've had our share of complicated villains, but very few of them have had actual romantic interests. This may have nothing to do with the elusive Latverian witches , but then again... maybe it does. Months before Doom hits the public, Marvel is showing us the man behind the mask and the one who got away. Two idioms for the price of one!
+Mike Colter is set to return to his star-making role of Luke Cage in the next season of the Marvel series Daredevil: Born Again . Before he steps into the role of the bulletproof Harlem superhero, however, he's returning to network TV in a new legal thriller that'll debut this fall on CBS. The network just released a new trailer for the series that should whet audiences' appetites until it premieres next month.
 
-### Marvel Officially Brings Back Frank Castle’s Most Overpowered Upgrade
-Wed, 09 Sep 2026 13:15:11 GMT — https://collider.com/the-punisher-issue-8-big-guns-war-machine-return/
+### Netflix's Next Western Adaptation Has Officially Been Confirmed
+Wed, 09 Sep 2026 18:30:11 GMT — https://collider.com/the-lonesome-dove-netflix-adaptation-confirmed/
 
-As his one-man war on crime has unfolded, Frank Castle has unleashed his fair share of deadly weapons upon his foes. From a Colt .45 pistol to his signature Punishercopter, Marvel Comics has given him an entire arsenal worthy of a small military to clean up the streets over the years. To keep pace in a world of superheroes and villains, the trained soldier has even resorted to some more unconventional tools of destruction, whether by co-opting weapons like the Green Goblin's Pumpkin Bombs or, in one issue by Garth Ennis , commandeering a steamroller to flatten Wolverine for good. For someone of his lethality , the world is a weapon and anything can be used to his advantage.
+Based on the children's novels by Laura Ingalls Wilder , the new Western series Little House on the Prairie — not to be confused with the original series that ran between 1974 and 1983 — is an undeniable hit for Netflix as the streamer continues to add Western titles to its catalog. Earning 6.4 million views in just four days, and called a "masterpiece" in Maggie Lovitt 's review for Collider, Little House on the Prairie has set the standard for Western adaptations on Netflix.
 
-### David Tennant's 10/10 Hulu Series Officially Confirms Release Date
-Wed, 09 Sep 2026 13:00:11 GMT — https://collider.com/rivals-season-2-part-2-release-date/
+### ‘Game of Thrones’ Icon Officially Dominates Streaming Charts Ahead of ‘Harry Potter’ Return
+Wed, 09 Sep 2026 18:26:26 GMT — https://collider.com/kit-harington-a-tale-of-two-cities-streaming-success-mgm-plus-september-2026/
 
-Of all the shows to have returned in 2026 so far, few have been as indulgent as Rivals . The steamiest show on streaming didn't disappoint when it finally returned in May, as David Tennant 's dastardly Lord Tony Baddingham recovered from his fate in the Season 1 finale, with a bitter hunger for revenge raging. Thus, the high-stakes feud between Corinium Television and Venturer is taken to a new level, all culminating in a Season 2 mid-season finale cliffhanger that left audiences' jaws on the floor and a terribly sad funeral on the horizon.
+Game of Thrones ended in 2019, and contrary to popular belief that he disappeared, Kit Harington has starred in 19 projects since then. His latest project is a miniseries, a TV adaptation of a Charles Dickens novel that has been adapted for both film and TV 14 times before this latest take, which heavily modernizes and streamlines Dickens' 1859 novel with appropriate creative liberties. It was released on MGM+ on September 6, 2026, and is now taking over the world.
 
-### Mike Flanagan’s New Stephen King Adaptation Officially Makes a Bold Change in Final Trailer
-Wed, 09 Sep 2026 13:00:11 GMT — https://collider.com/mike-flanagan-carrie-series-trailer/
+### Gabriel Basso Officially Leaves 'The Night Agent' Behind for Major Genre Change
+Wed, 09 Sep 2026 18:25:31 GMT — https://collider.com/gabriel-basso-love-of-your-life-trailer/
 
-Stephen King ’s Carrie has been terrifying audiences for more than 50 years, and by now, almost everyone knows how this story ends. Carrie White goes to prom. A bucket of pig’s blood comes crashing down. What happens next has become one of horror’s most recognizable sequences , immortalized by Brian De Palma ’s 1976 adaptation and revisited several times in the decades since. That makes adapting Carrie again a difficult proposition, but Mike Flanagan has never exactly been afraid of King's works.
+Few action stars have been as busy in the last couple of years as Gabriel Basso , who headlines Netflix’s big-budget action show, The Night Agent . Hailed as Netflix’s answer to Reacher , The Night Agent is returning next year for Season 4, which is also confirmed to be the final season of the show. Fans were disappointed to learn that The Night Agent would not be given a chance to continue beyond Season 4, but once it was made public that the show was losing viewership with each new season, it wasn’t all that surprising. Near the end of last year, Basso starred in one of the biggest Netflix movies of 2025, A House of Dynamite , with Rebecca Ferguson and Idris Elba . The film was being eyed as a major Oscar contender, but it burned out before ever earning a single nomination.
 
-### 10/10 Post-WWI Crime Thriller Officially Reveals Trailer for Final Season [Exclusive]
-Wed, 09 Sep 2026 13:00:11 GMT — https://collider.com/babylon-berlin-season-5-trailer-volker-bruch-liv-lisa-fries/
+### This 3-Part 'Homeland' Meets 'Sicario' Thriller Is One of the Biggest Streaming Hits in the World
+Wed, 09 Sep 2026 18:11:11 GMT — https://collider.com/lioness-season-3-homeland-meets-sicario-global-streaming-hit/
 
-The end is swiftly approaching for Babylon Berlin . After four acclaimed seasons of tackling mysteries across Roaring Twenties-era Berlin, police detective Gereon Rath ( Volker Bruch ) and his partner Charlotte Ritter ( Liv Lisa Fries ) are about to face their darkest and most complicated chapter yet in the fifth and final run. While the series, based on Volker Kutscher 's Gereon Rath novels, has been set against the backdrop of rising extremism in the country, the shadow of fascism is about to become inescapable now that they're a few years into the 1930s and nearing a grim period in German history. Nearly four years after the Season 4 finale aired, Collider is proud to exclusively share the first trailer for Season 5, which illustrates the new challenges ahead for the two detectives as they try to continue their work in the final days of the republic .
+Editor's note: The below contains spoilers for Lioness Season 3.
 
-### Iron Man Officially Gets His Long-Dead Ally Back in New Marvel Release
-Wed, 09 Sep 2026 13:00:11 GMT — https://collider.com/iron-man-2026-issue-9-images-happy-hogan-revival/
+### TV's Best 'Lincoln Lawyer' Replacement Officially Returns in First Season 2 Trailer
+Wed, 09 Sep 2026 18:09:44 GMT — https://collider.com/lincoln-lawyer-replacement-the-rainmaker-season-2-trailer/
 
-Tony Stark may be the man behind the Iron Man armor , but he's never truly alone in his superhero duties or his business ventures. Throughout Marvel history on the page and screen, the billionaire has always enjoyed the company of friends, allies, romantic partners, and more who have helped him become a better person and a greater force for good. That includes his closest confidante, Pepper Potts , who remains key to running Stark Industries and has become a superhero in her own right, as well as his armored pal, James "Rhodey" Rhodes , the pilot of War Machine. With issue #9 of Joshua Williamson 's Iron Man series, though, another of his longtime allies is finally being brought back after nearly 20 years.
+Netflix has released hundreds, if not thousands of popular shows in the last five or six years, but few have developed the same level of audience as The Lincoln Lawyer . The show aired its first season on Netflix back in 2022, but the story of The Lincoln Lawyer began long before that. All the way back in 2005, legendary crime author Michael Connelly released the first Lincoln Lawyer book, and only six years later, the first film adaptation starring Matthew McConaughey and Marisa Tomei was born. Netflix’s series adaptation of The Lincoln Lawyer allows for creatives to use each new season to tell a story based on a different book in The Lincoln Lawyer series. The Lincoln Lawyer author Michael Connelly is also famous for his work writing the Bosch books, which were turned into a series on Prime Video starring Titus Welliver .
 
