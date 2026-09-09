@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.55" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#1F6F4A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="90" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6" fill="#8FE3B4">VALHEIM 1.0 — REVIEW</text>
+  <text x="90" y="380" font-family="Helvetica, Arial, sans-serif" font-size="260" font-weight="bold" fill="#FFFFFF">9</text>
+  <text x="90" y="450" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#FFFFFF">from 8 to 10, across eight verdicts</text>
+  <text x="90" y="520" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#8FE3B4">Five years of early access, ended</text>
+</svg>
