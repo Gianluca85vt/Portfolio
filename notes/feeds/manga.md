@@ -1,72 +1,117 @@
-# Manga — harvested 2026-09-08T19:35:03.417Z
+# Manga — harvested 2026-09-09T09:10:55.874Z
 
 ## Anime News Network
 
-### Daemons of the Shadow Realm ‒ Episode 22
-Tue, 08 Sep 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-22/.241476
+### Redoing My Youth In Another World -The God Of Death Is My Fanboy- BL Manga Gets 'Motion Comic' on TV
+Wed, 09 Sep 2026 04:13:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/redoing-my-youth-in-another-world-the-god-of-death-is-my-fanboy-bl-manga-gets-motion-comic-on-tv/.241553
 
-Is Gonzo a manipulative puppet master? Sure. But there is more to him than that.
+January 2027 series incorporates generative AI into traditional motion comic methods
 
-### Naoki Azuma Launches New Glitch Witch Manga Set in Ghost in the Shell World
-Tue, 08 Sep 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/naoki-azuma-launches-new-glitch-witch-manga-set-in-ghost-in-the-shell-world/.241529
+### Fate/EXTRA Record Game Streams Character Video for Saber
+Wed, 09 Sep 2026 04:03:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/fate-extra-record-game-streams-character-video-for-saber/.241555
 
-Masamune Shirow credited for original concept for manga that debuted on Wednesday
+Sakura Tange reprises role in January 28 game
 
-### Junket Bank TV Anime's Premiere Delayed from October
-Tue, 08 Sep 2026 13:45:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/junket-bank-tv-anime-premiere-delayed-from-october/.241533
+### Shiden Kanzaki Launches Black Bullet Reboot Project, New Original Work
+Wed, 09 Sep 2026 02:26:27 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/shiden-kanzaki-launches-black-bullet-reboot-project-new-original-work/.241551
 
-Anime originally scheduled to premiere on October 5
+<cite>New World Order</cite> reboot to start with revised story, end with completely new story
 
-### The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3 ‒ Episode 34
-Tue, 08 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3/episode-34/.241480
+### The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Anime's Video Reveals More Cast, Opening Song, October 6 Debut
+Wed, 09 Sep 2026 00:22:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-anime-video-reveals-more-cast-/.241549
 
-Kishika, as she is, resolves that the best way to get to know her hoard of new sister-girlfriends is to take them all on. In a fight, right?
+Takumi Yamazaki, Taiten Kusunoki, Megumi Toyoguchi join cast
 
-### The Apothecary Diaries Volumes 3-6 Novel Review
-Tue, 08 Sep 2026 12:51:36 -0400 — https://www.animenewsnetwork.com/review/the-apothecary-diaries/volumes-3-6/.241242
+### It Took 15,000 Drawings to Make 'The 100 Girlfriends Who Really, Really, Really, Really, Really Love You' Dance
+Tue, 08 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-08/it-took-15000-drawings-to-make-the-100-girlfriends-who-really-really-really-really-really-love-you-/.241516
 
-Helping powerful people is just an occupational hazard.
+Watch the 10-minute idol performance come to life in hand-drawn 2D frames
 
-### Mushoku Tensei: Jobless Reincarnation III ‒ Episode 11
-Tue, 08 Sep 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-11/.241475
+### Over 100 Pokémon Take Over Tokyo's Nihonbashi, Yaesu Districts
+Tue, 08 Sep 2026 23:45:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-08/over-100-pokemon-take-over-tokyo-nihonbashi-yaesu-districts/.241520
 
-We're not going to have to wait 50+ episodes to find out what's in the basement, right?
+Can you find 'em all?
 
-### Godzilla Minus Zero Film Streams IMAX Trailer
-Tue, 08 Sep 2026 12:18:25 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/godzilla-minus-zero-film-streams-imax-trailer/.241527
+### Live-Action Anata o Korosu Tabi BL Series Gets 2nd Season
+Tue, 08 Sep 2026 22:11:27 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/live-action-anata-o-korosu-tabi-bl-series-gets-2nd-season/.241544
 
-Movie "filmed for IMAX" opens in Japan on November 3, N. America on November 6
+Yakuza story returns on October 8 with new, returning cast members
 
-### Street Fighter 6 Game's Videos Reveal Arjun's Release on October 13
-Tue, 08 Sep 2026 12:02:27 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/street-fighter-6-game-videos-reveal-arjun-release-on-october-13/.241528
+### 'She Professed Herself Pupil of the Wise Man' Manga to End in Volume 16
+Tue, 08 Sep 2026 22:00:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/she-professed-herself-pupil-of-the-wise-man-manga-to-end-in-volume-16/.241542
 
-Fighting Pass for Arjun begins on Tuesday
+Manga adaptation of light novels debuted in 2016
 
-### Atelier Karia Game's 2nd Trailer Reveals February 25 Release
-Tue, 08 Sep 2026 11:45:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/atelier-karia-game-2nd-trailer-reveals-february-25-release/.241526
+### Amasian TV Streams Hyakusho Kizoku-the farmer's days Seasons 2, 3 for Free
+Tue, 08 Sep 2026 21:23:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/amasian-tv-streams-hyakusho-kizoku-the-farmer-days-seasons-2-3-for-free/.241541
 
-Game launches worldwide for Switch 2, PS5, Xbox X|S, PC
+<i>Fullmetal Alchemist</i> creator Hiromu Arakawa's anime streams with English subtitles
 
-### Hotel Inhumans Anime's 2nd Season Reveals Theme Song Artists, October 4 Debut
-Tue, 08 Sep 2026 11:30:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/hotel-inhumans-anime-2nd-season-reveals-theme-song-artists-october-4-debut/.241515
+### Jaadugar: A Witch in Mongolia ‒ Episode 11
+Tue, 08 Sep 2026 20:30:00 -0400 — https://www.animenewsnetwork.com/review/jaadugar-a-witch-in-mongolia/episode-11/.241540
 
-Artist GAN performs opening song "Rasen," girl group Phantom Siita perform ending song "Sweet Pea"
+And so our witch reveals herself.
 
-### You and I Are Polar Opposites Season 2 ‒ Episode 10
-Tue, 08 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-10/.241474
+### Though I Am an Inept Villainess ‒ Episode 9
+Tue, 08 Sep 2026 19:30:00 -0400 — https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-9/.241525
 
-As stable as the relationships of the official couples might be, the characters themselves still have plenty of growing to do
+Reirin has <i>had it</i> with not being believed, with being underestimated, and that means that she’s done asking for permission.
 
-### Ace of Diamond Act II Second Season's 2nd Part Announces New Cast Member, October 11 Debut
-Tue, 08 Sep 2026 11:15:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/ace-of-diamond-act-ii-second-season-2nd-part-announces-new-cast-member-october-11-debut/.241517
+### Goodbye, Lara ‒ Episode 10
+Tue, 08 Sep 2026 18:30:00 -0400 — https://www.animenewsnetwork.com/review/goodbye-lara/episode-10/.241524
 
-Daisuke Sakuma joins series as Shinichiro Saotome
+Did Lara never really have a chance?
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Kagurabachi Anime World Tour Part 2 Heads to Africa and Australia With Episode 1 Preview
+Wed, 09 Sep 2026 05:50:17 GMT — https://animecorner.me/kagurabachi-anime-world-tour-part-2-heads-to-africa-and-australia-with-episode-1-preview/
+
+KAGURABACHI anime has revealed details for Part 2 of its ongoing Anime World Tour,&hellip;
+
+### Black Bullet: New World Order Announced, Novel Series Returns With Reboot After 12 Years
+Wed, 09 Sep 2026 04:01:12 GMT — https://animecorner.me/black-bullet-new-world-order-announced-novel-series-returns-after-12-years/
+
+Black Bullet is officially returning with a new project titled Black Bullet: New World Order, marking the series' first major revival in 12 years.
+
+### The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Reveals Main Trailer, New Visual, Cast, October 6 Premiere
+Wed, 09 Sep 2026 03:11:26 GMT — https://animecorner.me/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-reveals-main-trailer-new-visual-cast-october-6-premiere/
+
+The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life anime revealed the main&hellip;
+
+### Interview: MAYLA on Creating Unique Products for Attack on Titan, Black Butler, Hatsune Miku, NieR:Automata, and More
+Wed, 09 Sep 2026 02:37:05 GMT — https://animecorner.me/interview-mayla-on-creating-unique-products-for-attack-on-titan-black-butler-hatsune-miku-nierautomata-and-more/
+
+The Japanese fashion brand MAYLA visited the German convention AnimagiC for the first time,&hellip;
+
+### Interview: Anji Iwata on His Role as Yamada in You and I Are Polar Opposites
+Wed, 09 Sep 2026 02:29:33 GMT — https://animecorner.me/interview-anji-iwata-on-his-role-as-yamada-in-you-and-i-are-polar-opposites/
+
+During his first visit to the German convention AnimagiC, we sat down with voice&hellip;
+
+### Interview: Yoko Kanno on Her Inspirations and First Lucca Comics & Games Appearance
+Wed, 09 Sep 2026 02:27:44 GMT — https://animecorner.me/interview-yoko-kanno-on-her-inspirations-and-first-lucca-comics-games-appearance/
+
+Ahead of her first performance in Italy, we had the opportunity to interview composer,&hellip;
+
+### KADOKAWA to Merge ENGI and 4 Anime Studios Into New Studio One Base in November 2026
+Wed, 09 Sep 2026 01:18:35 GMT — https://animecorner.me/kadokawa-to-merge-engi-and-4-anime-studios-into-new-studio-one-base-in-november-2026/
+
+KADOKAWA will merge five of its anime production subsidiaries into a new company called&hellip;
+
+### Dengeki Bunko Official Site to Merge Into KADOKAWA Website, Dengeki Novecomi+ to Shut Down on September 30
+Wed, 09 Sep 2026 01:10:12 GMT — https://animecorner.me/dengeki-bunko-official-site-to-merge-into-kadokawa-website-dengeki-novecomi-to-shut-down-on-september-30/
+
+KADOKAWA will integrate the official websites for Dengeki Bunko and Dengeki no Shin Bungei&hellip;
+
+### Interview: Naruto Composer Yasuharu Takanashi on Far East Groove EU & UK Tour
+Tue, 08 Sep 2026 20:02:25 GMT — https://animecorner.me/interview-naruto-composer-yasuharu-takanashi-on-far-east-groove-eu-uk-tour/
+
+Far East Groove, the musical project led by composer Yasuharu Takanashi, will launch their&hellip;
 
 ### Crunchyroll Reveals New York Comic Con 2026 Lineup With The Apothecary Diaries, Sentenced to Be a Hero, Black Clover and More
 Tue, 08 Sep 2026 16:33:29 GMT — https://animecorner.me/crunchyroll-reveals-new-york-comic-con-2026-lineup-with-the-apothecary-diaries-sentenced-to-be-a-hero-black-clover-and-more/
@@ -83,52 +128,27 @@ Tue, 08 Sep 2026 15:13:54 GMT — https://animecorner.me/attack-on-titan-day-cel
 
 September 9 is being celebrated as the first officially recognized Attack on Titan Day, with the franchise sharing 99 pieces of news.
 
-### The Legend of Zelda: Ocarina of Time Remake Reveals Gameplay and New Features, November 5 Launch
-Tue, 08 Sep 2026 14:28:49 GMT — https://animecorner.me/the-legend-of-zelda-ocarina-of-time-remake-reveals-gameplay-and-new-features-november-5-launch/
-
-The Legend of Zelda: Ocarina of Time remake revealed the first extensive look at its gameplay, along with a November 5 release date.
-
-### Ace of the Diamond Act II Season 2 Cour 2 New Key Visual Teases Seido vs Inashiro Match Ahead of October 11 Premiere
-Tue, 08 Sep 2026 13:40:23 GMT — https://animecorner.me/ace-of-the-diamond-act-ii-season-2-cour-2-new-key-visual-teases-seido-vs-inashiro-match-ahead-of-october-11-premiere/
-
-Ace of the Diamond Act II Season 2 revealed a new key visual for its second&hellip;
-
-### Magic Repo Man Anime Unveils New Trailer, Theme Songs, Additional Cast
-Tue, 08 Sep 2026 11:42:37 GMT — https://animecorner.me/magic-repo-man-anime-unveils-new-trailer-theme-songs-additional-cast/
-
-The new trailer for Magic Repo Man: Dumped by My Party, I’ll Cash In&hellip;
-
-### Nia Liston: The Merciless Maiden Anime Unveils New Trailer
-Tue, 08 Sep 2026 11:27:33 GMT — https://animecorner.me/nia-liston-the-merciless-maiden-anime-unveils-new-trailer/
-
-Nia Liston: The Merciless Maiden anime unveiled a new trailer on Tuesday. HIDIVE will stream&hellip;
-
-### Hotel Inhumans Season 2 Reveals New Visual, Trailer, Theme Songs
-Tue, 08 Sep 2026 11:09:41 GMT — https://animecorner.me/hotel-inhumans-season-2-reveals-new-visual-trailer-theme-songs/
-
-The previously announced Hotel Inhumans Season 2 revealed a new visual and trailer featuring&hellip;
-
-### Katekyo Hitman Reborn! Anime Reveals Third Opening Featuring "DIVE TO WORLD" by CHERRYBLOSSOM
-Tue, 08 Sep 2026 11:04:21 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-third-opening-featuring-dive-to-world-by-cherryblossom/
-
-Katekyo Hitman REBORN! anime released the creditless version of its third opening, featuring "DIVE TO WORLD" by CHERRYBLOSSOM.
-
-### Tracksuit Subaru Appears in Re:ZERO Season 4 Episode 16 Preview
-Tue, 08 Sep 2026 08:59:58 GMT — https://animecorner.me/tracksuit-subaru-appears-in-rezero-season-4-episode-16-preview/
-
-Re:ZERO Season 4 has revealed the Episode 16 (Episode 82 overall) preview ahead of its September 9, 2026 premiere.
-
-### BanG Dream! YUME∞MITA Episode 13 (Finale) "Mugendai MewType" Preview Released
-Tue, 08 Sep 2026 03:09:07 GMT — https://animecorner.me/bang-dream-yumemita-episode-13-finale-mugendai-mewtype-preview-released/
-
-BanG Dream! YUME∞MITA Episode 13 preview has been released on Tuesday. The episode is set&hellip;
-
-### Genshin Impact x Baskin-Robbins Japan Collaboration Launches, Ice Cream Set Sells Out at Some Stores
-Tue, 08 Sep 2026 02:27:31 GMT — https://animecorner.me/genshin-impact-x-baskin-robbins-japan-collaboration-launches-ice-cream-set-sells-out-at-some-stores/
-
-Genshin Impact collaboration with Baskin-Robbins Japan, known locally as 31 Ice Cream, began on&hellip;
-
 ## MyAnimeList News
+
+### From The Apothecary Diaries to Jurassic Shadows: Norihiro Naganuma s Next Creative Challenge
+Tue, 08 Sep 2026 23:30:09 -0700 — https://myanimelist.net/news/74690718?_location=rss
+
+What happens when the director behind Kusuriya no Hitorigoto (The Apothecary Diaries) and Mahoutsukai no Yome (The Ancient Magus Bride) trades court intrigue and fantasy for dinosaurs, ninjas, and superpowered makeup? That is the question at the heart of Ryuugeshou no Shinobi (Jurassic Shadows), the first fully original anime project from director Norihiro Naganuma. The series made its world premiere announcement at Anime Expo 2026, where Naganuma appeared alongside Avex Pictures producer...
+
+### Black Bullet Light Novel Relaunches After 12 Years
+Tue, 08 Sep 2026 22:43:51 -0700 — https://myanimelist.net/news/74690587?_location=rss
+
+Publishing company Kadokawa announced on Wednesday that Shiden Kanzaki s action sci-fi light novel Black Bullet is relaunching following a 12-year hiatus. The reboot, titled Black Bullet: New World Order, will be a revised and expanded version of the original light novel. The story will cover the events of the first six original volumes through the New World Order s fourth volume, before continuing into a completely new arc in the fifth volume, which will be a fully rewritten version...
+
+### Manga Kin to Tetsu Concludes Serialization
+Tue, 08 Sep 2026 22:13:25 -0700 — https://myanimelist.net/news/74690517?_location=rss
+
+Ayaka Katayama s Kin to Tetsu (Fungus and Iron) has concluded with its 105th chapter in the October 2026 issue of Bessatsu Shounen Magazine on Tuesday, marking the end of the series five-year serialization. Katayama began drawing the dystopian sci-fi suspense manga in Bessatsu Shounen Magazine in March 2021. Kodansha published the ninth volume on April 9, with the tenth and final volume set to be released on October 8. Kodansha USA licensed the manga for digital release in English in...
+
+### Cheat Fuyo Unveils Additional Cast, Opening Theme, First Promo
+Tue, 08 Sep 2026 20:22:49 -0700 — https://myanimelist.net/news/74690257?_location=rss
+
+The official website for the television anime adaptation of Asa Rokushima s Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? (The Laid-Off Cheat-Granting Mage Enjoys a New Life: I Can Add "Enhancement Points" Not Just to Weapons but to Anything, and I Can Cancel the Effects Whenever I Want,...
 
 ### Broadcast of Junket Bank Postponed
 Tue, 08 Sep 2026 10:06:39 -0700 — https://myanimelist.net/news/74688429?_location=rss
@@ -165,29 +185,19 @@ Mon, 07 Sep 2026 02:14:56 -0700 — https://myanimelist.net/news/74681527?_locat
 
 The official website for the Dark Machine: The Animation television anime announced the supporting cast on Monday. The anime is scheduled to premiere on October 14 at 1:45 a.m. on Fuji TV, followed by Kansai TV and BS Fuji. Cast Aluk: Nao Touyama (Sakamoto Days) Denebola: Nonoka Oobuchi (Tasokare Hotel) Spica: Rei Nakashima Kazumi Terada (Chikyuugai Shounen Shoujo assistant director) is helming the anime at Production +h. Team Carbuncle, which consists of Takaaki Suzuki (High School Fleet origin...
 
-### Marronnier Oukoku no Shichinin no Kishi Reveals Additional Cast, Opening Theme, Second Promo
-Mon, 07 Sep 2026 01:24:35 -0700 — https://myanimelist.net/news/74681352?_location=rss
-
-The official website for the television anime adaptation of Nao Iwamoto s Marronnier Oukoku no Shichinin no Kishi (The Seven Knights of the Marronnier Kingdom) manga revealed the additional cast, opening theme, and the second promotional video on Monday. The anime series is scheduled to premiere on October 3 at 6.25 p.m. on NHK E-Tele. Cast Eleonora: Miyuki Sakurai (Ghost Concert) Princess Brynhilde: Natsumi Fujiwara (Snowball Earth) Elliott: Takehito Koyasu (Kami no Niwatsuki Kusunoki-tei...
-
-### Ojisan wa Kawaii Mono ga Osuki. Unveils Additional Cast, Theme Songs, Second Promo
-Sun, 06 Sep 2026 23:37:04 -0700 — https://myanimelist.net/news/74680699?_location=rss
-
-The official website for the television anime adaptation of Tsutomu s Ojisan wa Kawaii Mono ga Osuki. (Pops Loves Kawaii Stuff) manga unveiled additional cast, the theme songs, and second promotional video on Monday. The anime series is scheduled to premiere on October 4 at 10.00 p.m. on Tokyo MX, followed by BS Asahi and Yomiuri TV on October 5. Cast Rio Moshina: Kaori Maeda (Love Live! Nijigasaki Gakuen School Idol Doukoukai) Mirai Usuama: Miharu Hanai (Selection Project) Haruo Kiba: Sato...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Engage Kiss Collector’s Edition Review
+Wed, 09 Sep 2026 09:00:03 +0000 — https://animeuknews.net/2026/09/engage-kiss-collectors-edition-review/
+
+A confusing mix of magical girlfriend rom-com hijinks and supernatural action, Engage Kiss struggles to get a footing, but when it does, Shu’s quest to find his sister who went missing in a disaster as a child really comes alive.
+
 ### Blue Lock: Episode Nagi Volumes 4 and 5 Review
 Tue, 08 Sep 2026 09:00:52 +0000 — https://animeuknews.net/2026/09/blue-lock-episode-nagi-volumes-4-and-5-review/
 
 Two further volumes of Blue Lock: Episode Nagi finally bring us into some original content that isn't depicted in the main series.
-
-### How Can My Manager Be So Stupid? Review
-Mon, 07 Sep 2026 09:00:59 +0000 — https://animeuknews.net/2026/09/how-can-my-manager-be-so-stupid-review/
-
-Popular author Kazumasa Hayami finally makes his English debut with this book that retail workers and bookworms alike will find great joy in reading.
 

@@ -1,6 +1,11 @@
-# AI — harvested 2026-09-08T19:35:03.417Z
+# AI — harvested 2026-09-09T09:10:55.874Z
 
 ## OpenAI
+
+### How GPT-5.6 Sol helps run quantum computing experiments
+Tue, 08 Sep 2026 17:00:00 GMT — https://openai.com/index/codex-quantum-computing-experiments
+
+See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.
 
 ### The Work Now Within Reach
 Tue, 08 Sep 2026 13:00:00 GMT — https://openai.com/index/the-work-now-within-reach
@@ -31,11 +36,6 @@ OpenAI is expanding support for journalism with tools, training, and partnership
 Tue, 08 Sep 2026 00:00:00 GMT — https://openai.com/index/1password
 
 Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.
-
-### Supporting independent journalism in Ukraine
-Mon, 07 Sep 2026 00:00:00 GMT — https://openai.com/index/supporting-independent-journalism-in-ukraine
-
-OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.
 
 ## Hugging Face
 

@@ -1,4 +1,4 @@
-# Review radar — updated 2026-09-08
+# Review radar — updated 2026-09-09
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,19 +20,20 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| WARDOGS - Supporter Pack | Team17 | 2026-09-10 | 2d | 2026-09-09 | €49.99 |
-| WARDOGS | Team17 | 2026-09-10 | 2d | 2026-09-09 | €39.99 |
+| WARDOGS - Supporter Pack | Team17 | 2026-09-10 | 1d | 2026-09-09 | €49.99 |
+| WARDOGS | Team17 | 2026-09-10 | 1d | 2026-09-09 | €39.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Train Sim World® 7 | Dovetail Games - TSW | 2026-09-15 | 7d | 2026-09-14 | €49.99 |
-| iRacing® Studios NASCAR 26 | iRacing.com Motorsport Simulations, LLC | 2026-09-17 | 9d | 2026-09-16 | €59.99 |
+| Train Sim World® 7 | Dovetail Games - TSW | 2026-09-15 | 6d | 2026-09-14 | €49.99 |
+| iRacing® Studios NASCAR 26 | iRacing.com Motorsport Simulations, LLC | 2026-09-17 | 8d | 2026-09-16 | €59.99 |
+| SILENT HILL: Townfall | KONAMI,  Annapurna Interactive | 2026-09-23 | 14d | 2026-09-22 | €49.99 |
 
 ---
 
-*1000 upcoming titles scanned, 920 with a firm date inside
-14 days, 4 above the price line. Titles showing
+*1050 upcoming titles scanned, 961 with a firm date inside
+14 days, 5 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*
