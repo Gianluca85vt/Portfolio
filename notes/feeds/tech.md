@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-09T13:53:00.761Z
+# Tech — harvested 2026-09-09T14:48:12.645Z
 
 ## Ars Technica
 
@@ -64,10 +64,25 @@ As the world's largest search engine, Google is often a target of Europe's Digit
 
 ## The Verge
 
+### The Switch 2 is getting a 2D Metroid called Ravenous
+2026-09-09T10:46:50-04:00 — https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous
+
+Nintendo just announced a new 2D entry in the Metroid series for the Switch 2, titled Metroid Ravenous . It's launching on January 28th, 2027 . The new game looks like an evolution of Metroid Dread . While it's still a 2D game, it features 3D graphics, lots of cinematic action shots, parrying enemies, and Samus rolling around in Morph Ball form. What's new for this game is that Samus also appears to somehow absorb energy from enemies to survive - Nintendo's marketing copy for the game uses the line "eat or be eaten." There are also many fearsome-looking foes, including some giant creatures and a group of futuristic, caped fighters that attack … Read the full story at The Verge. ]]>
+
+### I spent an hour riding inside Tesla’s steering-wheel-free Cybercab
+2026-09-09T10:41:07-04:00 — https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin
+
+Getting out of a taxi shouldn't be a shameful experience. Yet I find myself feeling particularly embarrassed while exiting a Tesla Cybercab as it partially blocks a narrow road outside a popular Austin swimming hole. As a cadre of annoyed , sweaty Texan parking spot hunters pile up around it, the gold-painted two-seater just sits there obliviously, lights flashing. I try not to make eye contact, but I can feel the stares of frustrated pool-goers around me, whose earnest attempt at a peaceful outdoor reprieve from the heat had just been interrupted by yet another not-quite-finished glimpse into the future. Tesla's long-awaited , two-seater Cy … Read the full story at The Verge. ]]>
+
+### My favorite gaming earbuds got their first discount
+2026-09-09T09:53:03-04:00 — https://www.theverge.com/gadgets/992003/asus-cetra-open-wireless-gaming-headset-earbuds-deal-sale
+
+Asus’ Cetra Open wireless earbuds are some of the best that I’ve tested, despite being open-style earbuds. Their drivers sit outside of your ear, which allows outside sounds to mix with audio coming from your console. Some gamers may not want this, but it works well for me as someone who prefers to be aware of their surroundings as they play or listen to podcasts. They’re $22 off at Amazon and Best Buy , costing $206.99. In addition to their great-sounding audio and respectable battery life (plus surprisingly deep customization through a mobile or browser-based app), the Cetra Open ship with a clever USB-C 2.4GHz transmitter that has a built-in port for passthrough charging. In other words, you can charge as you play instead of forgoing a USB-C port for audio. The built-in port supports up to 60W of passthrough charging, but it can’t be used as a data port. Asus Cetra Open Wireless earbuds Where to Buy: $229.99 $206.99 at Amazon $229.99 $206.99 at Best Buy $229.99 at Asus The Cetra Open are as good of a fit for the likes of the Steam Deck, PC, Nintendo Switch 2 and PlayStation 5 as they are for your phone. They’re a breeze to connect via Bluetooth and use for music and podcasts, and there’s also a reflective band included that physically links them together behind your neck for improved visibility and stability if you want to run with them. Read our Asus Cetra Open earbuds hands-on review. ]]>
+
 ### Nintendo Direct September 2026: The biggest news and trailers
 2026-09-09T09:50:00-04:00 — https://www.theverge.com/games/991547/nintendo-direct-september-2026-news-trailers-announcements
 
-It s almost time for part two of Nintendo s double feature this week. On Tuesday, the company hosted a showcase all about the Legend of Zelda franchise, including footage and a November 5th release date for the Switch 2 Ocarina of Time remake . On Wednesday, the company will be airing its next Nintendo Direct , which will spotlight Switch 2 games “launching this winter” in an approximately 45-minute presentation. Right after the Direct, Nintendo will also air a Treehouse Live stream that s set to run for about 110 minutes. Now that Nintendo s release schedule is set through November — its other big upcoming releases include Fire Emblem: Fortune s Weave on September 17th and Nintendo Switch Sports Resort on October 22nd — Wednesday s showcase could be the first meaningful look at Nintendo s next big batch of games. Major new entries in the Pokémon and Xenoblade franchises are already on the calendar for 2027, but perhaps we ll see more during the show. Follow our coverage of the September 2026 Nintendo Direct right here. You can watch the show on YouTube starting at 10AM ET . It’s almost Nintendo time. Nintendo isn’t scared of GTA VI ]]>
+It s almost time for part two of Nintendo s double feature this week. On Tuesday, the company hosted a showcase all about the Legend of Zelda franchise, including footage and a November 5th release date for the Switch 2 Ocarina of Time remake . On Wednesday, the company will be airing its next Nintendo Direct , which will spotlight Switch 2 games “launching this winter” in an approximately 45-minute presentation. Right after the Direct, Nintendo will also air a Treehouse Live stream that s set to run for about 110 minutes. Now that Nintendo s release schedule is set through November — its other big upcoming releases include Fire Emblem: Fortune s Weave on September 17th and Nintendo Switch Sports Resort on October 22nd — Wednesday s showcase could be the first meaningful look at Nintendo s next big batch of games. Major new entries in the Pokémon and Xenoblade franchises are already on the calendar for 2027, but perhaps we ll see more during the show. Follow our coverage of the September 2026 Nintendo Direct right here. You can watch the show on YouTube starting at 10AM ET . The Switch 2 is getting a 2D Metroid called Ravenous Time for some Slayhem. Persona 6 is coming to the Switch 2. Mario Kart World gets a new update later today. The spirit of Wii Sports lives on. Return to Resident Evil remakes. Pikmin 4 is getting a Nintendo Switch 2 Edition. A true gentleman leaves no puzzle unsolved. New pokémon are coming to Pokopia. Star Fox’s adventures. More Hyrule Warriors. Monste
 
 ### Amazon Prime Video’s new AI tech matches lips to dubbed audio
 2026-09-09T09:00:00-04:00 — https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing
@@ -99,22 +114,17 @@ With only a few hours left until the first iPhone launch event since John Ternus
 
 Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed , the company's discmaking division now says that one widely reported detail was wrong. Originally, it sounded like the division's president said the Thalgau plant would produce 90 percent fewer discs in 2028 - but the reality is it will only produce 10 percent fewer discs in 2028, an unnamed Sony DADC spokesperson told Game journalist Brian Crecente . "To clarify and avoid any misleading informa … Read the full story at The Verge. ]]>
 
-### Drama swirls around OpenAI’s legendary mathematical milestone
-2026-09-08T16:53:52-04:00 — https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution
-
-OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired . In a blog post on Tuesday , OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems , each of which comes with a $1 million reward for solving. OpenAI says it started training the internal AI model on August 28th, which has "exhibited unpreced … Read the full story at The Verge. ]]>
-
-### Rivian spinout Also apologizes for delays in shipping futuristic e-bikes
-2026-09-08T16:46:56-04:00 — https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology
-
-Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable battery, removable seat post, and software-controlled pedal-by-wire system, the TM-B set itself apart with a totally unique approach to electric bicycle design. It's not an exaggeration to say that nothing else looked like this bike. But that list of high-tech features is creating unexpected bottlenecks for Also's product team. The company had originally said customer deliveries would start in … Read the full story at The Verge. ]]>
-
-### Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off
-2026-09-08T16:39:49-04:00 — https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale
-
-Razer’s BlackShark V3 Pro are up to $100 off. | Image: Razer It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version is the best choice because it also supports PlayStation, PC, Nintendo Switch and mobile. At just $35 more than current sale price for the BlackShark V2 Pro, the newer headset adds ANC and simultaneous audio between the 2.4GHz and Bluetooth connections, although you only get a 90-day Woot warranty with this deal. Razer BlackShark V3 Pro Where to Buy: $249.99 $164.99 at Woot The BlackShark V3 Pro’s main connection mode is with its low latency 2.4GHz transmitter, which plugs into your console or PC via USB. While the headset is somewhat bulky, it can double as headphones you can take on the go thanks to its removable boom mic and Bluetooth 5.3 support. Plus, its noise cancellation can drown out sounds from your commute. Fans of Riot’s soon-to-be-retired fighting game , 2XKO , can save an extra $15 for a special edition version of the BlackShark V3 Pro that’s $149.99. ]]>
-
 ## Tom's Hardware
+
+### Microsoft reportedly gives secret Xbox Game Pass discounts to churned subscribers to reel them back in — targeted offers slash up to 30% off the regular price
+Wed, 09 Sep 2026 14:39:23 +0000 — https://www.tomshardware.com/video-games/pc-gaming/microsoft-reportedly-gives-secret-xbox-game-pass-discounts-to-churned-subscribers-to-reel-them-back-in-targeted-offers-slash-up-to-30-percent-off-the-regular-price
+
+If you play hard to get, you could get Xbox Game Pass for cheaper; at least that is what numerous users are reporting on a Reddit thread. One Xbox Game Pass subscriber shared a screenshot of Microsoft offering them the Ultimate plan for $16.09 for a month, 30% lower than the standard $22.99. Their secret? Cancel Xbox Game Pass almost every month. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC Dynamic win-back discounts are perhaps the oldest trick in the book, but they remain widely used because of their effectiveness in re-engaging customers who have stopped buying a product or, in Microsoft's case, canceled their Xbox Game Pass subscription. These targeted offers, often disguised as "We Miss You" or "Welcome back" deals, aim to win back lost customers with exclusive or time-limited discounts. According to the Redditor, they have used Xbox Game Pass on and off for about two years. However, instead of committing to an annual plan, the user frequently paused and resubscribed. In the Redditor's words, they were "not doing any sort of tricks lol...just got the offer randomly because I cancel gamepass almost every month, so maybe this was their way of keeping me." This kind of customer behavior is not uncommon among subscription servi
+
+### OpenAI says its next-generation processors could be made at Samsung — double-sourcing with TSMC hints at massive volume requirements
+Wed, 09 Sep 2026 14:30:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-its-next-generation-processors-could-be-made-at-samsung-double-sourcing-with-tsmc-hints-at-massive-volume-requirements
+
+OpenAI is expanding its relationship with Samsung beyond memory supply and enterprise software as the AI giant plans to outsource production of at least some of its processors to Samsung Foundry, Harrison Kim, General Manager of OpenAI Korea, revealed this week. If the information is accurate, then OpenAI will source its AI accelerators from both TSMC and Samsung Foundry, which suggests massive volume requirements. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent "One of the areas where we have made the most progress and gained the most recognition with Samsung Electronics is our joint production and ​research on the next-generation chips we are developing," said Harrison Kim, General Manager of OpenAI Korea, at ​a press conference in Seoul, Reuters reports. OpenAI already has its own AI ASIC program that relies on Broadcom's design services as well as TSMC's wafer processing and advanced packaging services. So far, the company has introduced its first inference AI accelerator called Jalapeño that was defined by the company's engineers, then co-designed with Broadcom, then made by TSMC, all in less than 18 m
 
 ### Save 40% on Autodesk’s Media and Entertainment Collection — thousands of dollars worth of software in a single bundle
 Wed, 09 Sep 2026 13:33:15 +0000 — https://www.tomshardware.com/pc-components/save-40-percent-on-autodesks-media-and-entertainment-collection-thousands-of-dollars-worth-of-software-in-a-single-bundle
@@ -166,17 +176,12 @@ Wed, 09 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/c
 
 Anyone keeping track of world news in the early 2010s, and reports on tech in particular, has probably heard about Stuxnet. That malware spawned a large number of conspiracy theories — with the kicker that some of them were actually true. The malware targeted Iranian nuclear facilities and is believed to be the first digital worm to cause direct physical damage in meatspace. An unknown security researcher has now published a source code reverse-engineering of Stuxnet in all its glory. The worm's ultimate target, allegedly a successful one , were industrial controllers from Siemens that were reportedly used in Iranian's Natanz nuclear enrichment plant. Once it reached the target, Stuxnet's payload manipulated the frequency converters in industrial centrifuges, in a bid to subtly damage the rotors — all while keeping the plant staff in the dark by reporting normal operation. The repository contains build instructions so interested techies can try it out for themselves and learn all about its inner workings. You'll need a Windows XP or Windows 7 virtual machine, and for obvious reasons, you shouldn't configure any network connectivity for it. To witness the full effects of the payload rather than just the spreading mechanisms, you'll need the appropriate Siemens software, and ideally hardware — though we figure that industrial-scale centrifuges aren't exactly common in techies' cable drawers. In its heyday, Stuxnet spread via three mechanisms . The primary infection vector was U
 
-### Big Tech eyes glacier-strewn Patagonia for building mega AI data centers — region offers 17,300 glaciers, coldness, and cheap energy, but fiber lines are scarce
-Wed, 09 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/glacier-strewn-patagonia-pitches-for-mega-data-center-business-coldness-and-energy-resources-a-plus-but-poor-connectivity-issues-need-to-be-resolved
-
-Patagonia, a region of Argentina with 17,300 glaciers, has the potential to turn into a data center hotspot. The cool climate and abundant energy resources there are drawing interest from the likes of Amazon , Google, and OpenAI, according to Reuters . However, there needs to be more work on tapping into the resources and equipping high-speed networking, like fiber, to make the place irresistible. There’s also the question of political stability with a presidential election next year. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Argentina, and Patagonia in particular, has some juicy lures for potential hyperscale data center operators, and the cold climate is a bonus. That environment helps keep data centers cool and use less power while maintaining agreeable thermals. Patagonia has tens of thousands of glaciers across the Northern Patagonian Ice Field and the Southern Patagonian Ice Field combined. Another bonus to would-be Patagonian data center operators are the range of energy sources there. Reuters mentions hydroelectric power, wind, and shale gas, but some operators who are already established 
-
-### More than 10% chance AI 'could kill all humans' in the next 10 years, Anthropic safety researcher says — departing employee says AI companies are 'gambling with our lives'
-Wed, 09 Sep 2026 09:26:28 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/more-than-10-percent-chance-ai-could-kill-all-humans-in-the-next-10-years-anthropic-safety-researcher-says-departing-employee-says-ai-companies-are-gambling-with-our-lives
-
-Anthropic safety researcher Evan Hubinger has warned there is a more than 10% chance that AI could kill all humans within the next decade, but reassured the public the company is "trying its best." The revelation comes following Jacob Coxon's public resignation from the company, where he stated that neither OpenAI nor Anthropic is acting responsibly, accusing both companies of gambling with human lives in the pursuit of self-improving super-intelligence. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible "I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic," Coxon said in a tweet Wednesday. "Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives." Expanding on his thoughts, Coxon warned readers not to underestimate the powers of AI, which he says will soon be "superhuman systems that can hack anything, revolutionize any field overnight, and acquire real power and resources." I resigned from Anthropic today. I spent the last three years doing pretraining research at both
-
 ## Phoronix
+
+### NVIDIA 615.71.09 Linux Driver Released With Vulkan Improvements
+Wed, 09 Sep 2026 10:02:37 -0400 — https://www.phoronix.com/news/NVIDIA-615.71.09-Linux-Driver
+
+NVIDIA today debuted the 615.71.09 Linux driver that comes with a number of improvements, especially from the Vulkan API perspective...
 
 ### A Nice Improvement Coming For Faster Btrfs Zstd Decompression
 Wed, 09 Sep 2026 08:52:22 -0400 — https://www.phoronix.com/news/Btrfs-Zstd-Faster-Decompress
@@ -232,11 +237,6 @@ CHUWI recently launched the UniBook laptop powered by the Intel Core 3 304 "Wild
 Tue, 08 Sep 2026 09:58:41 -0400 — https://www.phoronix.com/news/DaVinci-Resolve-21.1
 
 For those using the Linux-friendly DaVinci Resolve video editing and color correction/grading and visual effects software, DaVinci Resolve 21.1 is out today as a major update to this cross-platform solution...
-
-### New Patches Provide HDMI 1.4 3D Mode Support For AMD Radeon Graphics On Linux
-Tue, 08 Sep 2026 09:11:10 -0400 — https://www.phoronix.com/news/AMDGPU-HDMI-1.4-3D-Mode
-
-It turns out one of the feature limitations of the AMDGPU Linux graphics driver is HDMI 1.4 3D output support with frame packing, top-and-bottom, and side-by-side options for transmitting simultaneous video streams. I wasn't aware of this limitation for the lack of any 3D displays and many Linux enthusiasts/gamers as well, but if you happen to have a compatible HDMI 1.4 3D display, there are pending patches to finally make this a reality...
 
 ## The Register
 
@@ -364,6 +364,16 @@ CarPlay doesn't have a ton of customization options, but it's worth going throug
 
 ## TechCrunch
 
+### Uber invests $10M in Indian fleet operator Carrum at $168M valuation
+Wed, 09 Sep 2026 14:38:41 +0000 — https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/
+
+Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.
+
+### AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?
+Wed, 09 Sep 2026 14:18:34 +0000 — https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/
+
+Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.
+
 ### Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms
 Wed, 09 Sep 2026 13:01:00 +0000 — https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/
 
@@ -413,14 +423,4 @@ The Trump administration's short-lived arcade game "Build the Wall" is now nowhe
 Tue, 08 Sep 2026 21:10:27 +0000 — https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/
 
 Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.
-
-### Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market
-Tue, 08 Sep 2026 21:04:06 +0000 — https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/
-
-Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.
-
-### The Exploration Company nabs $450 million to challenge SpaceX
-Tue, 08 Sep 2026 20:47:34 +0000 — https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/
-
-The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”
 

@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-09T13:53:00.761Z
+# Source feeds — harvested 2026-09-09T14:48:12.645Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -22,7 +22,6 @@ notes/event-coverage.md.
 
 Already aired, so a round-up rather than a preview:
 
-- Eurogamer — The Legend of Zelda: Ocarina of Time remake gameplay finally revealed during 40th anniversary Nintendo Direct, and it looks… interesting
 - GamesIndustry.biz — Gamescom Asia x Thailand Game Show announces exhibitor lineup for 2026
 - The Verge — Nintendo Direct September 2026: The biggest news and trailers
 
@@ -34,10 +33,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Manga and anime next.** 49 articles have gone out since the last one.
+**Write Manga and anime next.** 50 articles have gone out since the last one.
 
-- **Manga and anime** — BROKEN. 49 articles since the last one; quota is one in 6. 3 in the archive of 138.
-- **Film & TV** — BROKEN. 55 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 138.
+- **Manga and anime** — BROKEN. 50 articles since the last one; quota is one in 6. 3 in the archive of 139.
+- **Film & TV** — BROKEN. 56 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 139.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -55,4 +54,4 @@ silently skipping it.
 
 Total: 309 items.
 
-Feeds that did not answer: VentureBeat AI (HTTP 429).
+Feeds that did not answer: Otaku USA (HTTP 520), VentureBeat AI (HTTP 429).

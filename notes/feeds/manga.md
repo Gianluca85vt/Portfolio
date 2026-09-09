@@ -1,6 +1,11 @@
-# Manga — harvested 2026-09-09T13:53:00.761Z
+# Manga — harvested 2026-09-09T14:48:12.645Z
 
 ## Anime News Network
+
+### Guyver's Yoshiki Takaya May No Longer Be Able to Create Manga After Cerebral Infarction, Partial Paralysis
+Wed, 09 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/guyver-yoshiki-takaya-may-no-longer-be-able-to-create-manga-after-cerebral-infarction-partial-/.241545
+
+Author made statement on recent re-release of <cite>Guyver 2: Dark Hero</cite> film
 
 ### Sound Euphonium Chief Director Tatsuya Ishihara on Portraying Genuine Emotions
 Wed, 09 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/sound-euphonium-chief-director-tatsuya-ishihara-on-portraying-genuine-emotions/.240067
@@ -56,11 +61,6 @@ Can you find 'em all?
 Tue, 08 Sep 2026 22:11:27 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/live-action-anata-o-korosu-tabi-bl-series-gets-2nd-season/.241544
 
 Yakuza story returns on October 8 with new, returning cast members
-
-### 'She Professed Herself Pupil of the Wise Man' Manga to End in Volume 16
-Tue, 08 Sep 2026 22:00:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/she-professed-herself-pupil-of-the-wise-man-manga-to-end-in-volume-16/.241542
-
-Manga adaptation of light novels debuted in 2016
 
 ## Crunchyroll News
 
@@ -182,7 +182,7 @@ Production company Kadokawa and entertainment company Cover Corporation announce
 
 ## Otaku USA
 
-_Nothing in the last 48 hours._
+_Feed unavailable: HTTP 520_
 
 ## Anime UK News
 

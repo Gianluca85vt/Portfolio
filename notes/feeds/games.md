@@ -1,6 +1,31 @@
-# Games — harvested 2026-09-09T13:53:00.761Z
+# Games — harvested 2026-09-09T14:48:12.645Z
 
 ## Eurogamer
+
+### Metroid Ravenous announced, launches January 2027 exclusively for Nintendo Switch 2
+Wed, 09 Sep 2026 14:41:17 +0000 — https://www.eurogamer.net/metroid-ravenous-switch-2-release-date
+
+During today's Nintendo Direct , the publisher and platform holder announced the next 2D Metroid game, called Metroid Ravenous. Read more
+
+### Onyx: The Dark Grip is a new Bloober Team horror game coming exclusively to the Nintendo Switch 2
+Wed, 09 Sep 2026 14:35:16 +0000 — https://www.eurogamer.net/onyx-the-dark-grip-nintendo-switch-2-reveal
+
+A new horror game from Bloober Team , best known for the Silent Hill 2 Remake and Cronos: The New Dawn , has been revealed at the Nintendo Direct. It's called Onyx: The Dark Grip, and it's coming next year. Read more
+
+### Monster Hunter Wilds is headed to the Switch 2 on later this year, comes with local co-operative play
+Wed, 09 Sep 2026 14:15:28 +0000 — https://www.eurogamer.net/monster-hunter-wilds-nintendo-switch-2-release-date
+
+Monster Hunter Wilds is coming to the Nintendo Switch 2 , it has just been revealed during the Nintendo Direct. Read more
+
+### After selling over 20 million copies on Steam, Meccha Chameleon comes to Nintendo Switch 2 later today
+Wed, 09 Sep 2026 14:13:12 +0000 — https://www.eurogamer.net/meccha-chameleon-switch-2
+
+Meccha Chameleon, the indie hide-and-seek game that launched on Steam a couple of months ago, is already one of the year's biggest hits, taking the PC market by storm. Now, as revealed in today's Nintendo Direct, the indie smash hit is coming to Nintnedo Switch 2 - and it arrives today. Read more
+
+### Everything announced in September 2026's Nintendo Direct
+Wed, 09 Sep 2026 14:07:51 +0000 — https://www.eurogamer.net/everything-announced-nintendo-direct-september-2026
+
+We should stop meeting like this! Yes, for the second time in two days, our fates have become intertwined thanks to the matchmaking of Nintendo. Following yesterday's 40th anniversary Legend of Zelda showcase , we're doing the announcement livestream thing all over again - and this time for a proper Nintendo Direct, which is promising around 45-minutes of information focusing on games arriving sometime this "winter". Read more
 
 ### The Blood of Dawnwalker controller issues tackled in latest hotfix, and Rebel Wolves talks more about a sequel
 Wed, 09 Sep 2026 13:29:31 +0000 — https://www.eurogamer.net/the-blood-of-dawnwalker-patch-controller-issues-sequel
@@ -37,32 +62,12 @@ Wed, 09 Sep 2026 08:26:18 +0000 — https://www.eurogamer.net/the-blood-of-dawnw
 
 If you're familiar with the lineage of Rebel Wolves, the studio behind the recently-released The Blood of Dawnwalker, it may not surprise you to learn that a lot of the game's players are also fans of a certain other medieval fantasy RPG. Read more
 
-### "Dawg it's Unreal Engine Zelda" - Legend of Zelda: Ocarina of Time remake's new looks receives a mixed reception online following reveal
-Tue, 08 Sep 2026 15:45:42 +0000 — https://www.eurogamer.net/legend-of-zelda-occarina-of-time-remake-reaction-visuals
-
-With the gameplay reveal of The Legend of Zelda: Ocarina of Time remake happening earlier today, thousands of people from around of the world have taken their first look at the latest entry in the beloved Nintendo series. The most immediate reaction from the masses? A combination of confusion and delight at the new look. Read more
-
-### Battlefield 6 Redsec is borrowing yet another mode from Call of Duty: Warzone - Resurgence
-Tue, 08 Sep 2026 15:00:00 +0000 — https://www.eurogamer.net/battlefield-6-redsec-warzone-resurgence-rapid-royale
-
-It's been argued that Battlefield 6 's Redsec battle royale off-shoot is a response to Call of Duty's popular Warzone mode, and today's news is another indication of that. Read more
-
-### The Legend of Zelda: Ocarina of Time remake gameplay finally revealed during 40th anniversary Nintendo Direct, and it looks… interesting
-Tue, 08 Sep 2026 14:31:35 +0000 — https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-gameplay-finally-revealed-during-40th-anniversary-nintendo-direct-and-it-looks-interesting
-
-Gameplay has been released for The Legend of Zelda: Ocarina of Time remake at long last during today's Zelda 40th anniversary Nintendo Direct. It'll be releasing on the Nintendo Switch 2 on the 5th November. Read more
-
-### Everything announced at Nintendo's The Legend of Zelda 40th Anniversary Direct
-Tue, 08 Sep 2026 14:30:46 +0000 — https://www.eurogamer.net/everything-announced-legend-of-zelda-40th-anniversary-nintendo-direct
-
-Can you believe it? Link (the green one) is 40 this year, yet his boundless enthusiasm for adventure still hasn't waned. My boundless enthusiasm, meanwhile, waned decades back, so it's clearly something in the Hyrule air. ANYWAY, to celebrate the Zelda series' 40th anniversary, Nintendo has released a special Direct showcase (the first of two planned for this week ), featuring a "variety of The Legend of Zelda-related information". Read more
-
-### The Legend of Zelda film is just called "The Legend of Zelda", apparently, and there's a good reason it doesn't have a subtitle
-Tue, 08 Sep 2026 14:10:35 +0000 — https://www.eurogamer.net/the-legend-of-zelda-film-trailer-first-look
-
-Today, during a Nintendo Direct dedicated to the 40th anniversary of The Legend of Zelda series, Columbia Pictures and Nintendo released the first-ever trailer for the upcoming live-action The Legend of Zelda movie, starring Bo Bragason as the titular Princess Zelda and Benjamin Evan Ainsworth as Link . Read more
-
 ## GamesIndustry.biz
+
+### "We probably need a few more Expedition 33s to just prove them wrong" – the maker of Valor Mortis on why publishers should have faith in AA
+Wed, 09 Sep 2026 14:19:47 +0000 — https://www.gamesindustry.biz/we-probably-need-a-few-more-expedition-33s-to-just-prove-them-wrong-the-maker-of-valor-mortis-on-why-publishers-should-have-faith-in-aa
+
+Over the past 12 years, Polish studio One More Level has carved out a niche in the world of AA games with projects whose production values often approach those of AAA titles. Its eye-catching 2020 cyberpunk action platformer Ghostrunner launched to critical acclaim and commercial success , selling 5.6 million units according to Video Game Insights estimates, and it was followed by a sequel in 2023. Read more
 
 ### Frontier Developments FY26 adjusted operating profit jumps 62% to £21.4m
 Wed, 09 Sep 2026 11:37:22 +0000 — https://www.gamesindustry.biz/frontier-developments-fy26-adjusted-operating-profit-jumps-62-to-214m
@@ -118,11 +123,6 @@ Today, the British semiconductor and software design company Arm is holding the 
 Mon, 07 Sep 2026 18:42:05 +0000 — https://www.gamesindustry.biz/dont-nod-warns-it-may-not-have-enough-funding-to-operate-beyond-january-2027
 
 Don't Nod has warned there is "material uncertainty" over its ability to continue operating beyond January 31, 2027, unless it secures further external financing. Read more
-
-### Capcom says it will focus on reviving dormant IPs after Onimusha: Way of the Sword's breakout launch
-Mon, 07 Sep 2026 16:51:44 +0000 — https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch
-
-Capcom has revealed it will focus on reactivating dormant intellectual property following a strong launch for Onimusha: Way of the Sword. Read more
 
 ## VG247
 
@@ -224,6 +224,21 @@ The Life is Strange developer has warned it might not have the runway to continu
 
 ## VGC
 
+### Nintendo announces Metroid Ravenous, a new side-scrolling adventure
+Wed, 09 Sep 2026 14:35:26 +0000 — https://www.videogameschronicle.com/news/nintendo-announces-metroid-ravenous-a-new-side-scrolling-adventure/
+
+Samus has to feed on her enemies in this new game… Source
+
+### Pokémon Pokopia s second expansion gets new trailer revealing new Pokémon
+Wed, 09 Sep 2026 14:24:04 +0000 — https://www.videogameschronicle.com/news/pokemon-pokopias-second-expansion-gets-new-trailer-revealing-new-pokemon/
+
+7 new Pokémon have been confirmed for the expansion… Source
+
+### Star Fox Adventures is coming to Switch 2 s GameCube collection today
+Wed, 09 Sep 2026 14:17:27 +0000 — https://www.videogameschronicle.com/news/star-fox-adventures-is-coming-to-switch-2s-gamecube-collection-today/
+
+The total number of GameCube games on Switch 2 is now 11… Source
+
 ### Ubisoft games have been added to Xbox s disc-to-digital feature, as more titles continue to support the service
 Wed, 09 Sep 2026 13:03:17 +0000 — https://www.videogameschronicle.com/news/ubisoft-games-have-been-added-to-xboxs-disc-to-digital-feature-as-more-titles-continue-to-support-the-service/
 
@@ -259,22 +274,17 @@ Tue, 08 Sep 2026 16:21:45 +0000 — https://www.videogameschronicle.com/news/nin
 
 The tour will take in Japan, North America and Australia, with four UK dates so far… Source
 
-### Lego announces its third Legend of Zelda set, this time featuring Link on Epona
-Tue, 08 Sep 2026 15:55:22 +0000 — https://www.videogameschronicle.com/news/lego-announces-its-third-legend-of-zelda-set-this-time-featuring-link-on-epona/
-
-The set will be released next year and is once again based on Ocarina of Time… Source
-
-### Gallery: Here s 48 screens from The Legend of Zelda: Ocarina of Time remake
-Tue, 08 Sep 2026 15:02:36 +0000 — https://www.videogameschronicle.com/news/gallery-heres-48-screens-from-the-legend-of-zelda-ocarina-of-time-remake/
-
-See Nintendo's big holiday game in more detail… Source
-
-### Clair Obscur s world tour adds 24 more dates for 2027-28, including the first ever video game concert at London s O2
-Tue, 08 Sep 2026 15:00:54 +0000 — https://www.videogameschronicle.com/news/clair-obscurs-world-tour-adds-24-more-dates-for-2027-28-including-the-first-ever-video-game-concert-at-londons-o2/
-
-A Painted Symphony already visited the London Eventim Apollo earlier this year… Source
-
 ## Polygon
+
+### 2026’s Best Selling Game 'Meccha Chameleon' Is Coming to Consoles
+Wed, 09 Sep 2026 14:31:25 GMT — https://www.polygon.com/meccha-chameleon-switch-2-release/
+
+2026's biggest breakout hit is coming to the Nintendo Switch 2 . During today's Nintendo Direct, the big N announced that Meccha Chameleon will be out on its system later today. Until now, the popular game has been available only on Steam, where it has racked up over 20 million sales in just a few months.
+
+### Brad Pitt's New Survival Thriller Pushed Him to His Limits: "He Was Hypothermic the Whole Time"
+Wed, 09 Sep 2026 14:01:15 GMT — https://www.polygon.com/heart-of-the-beast-david-ayer-director-interview/
+
+David Ayer is best known for propulsive action thrillers ( The Beekeeper, The Accountant ) and heightened genre storytelling ( Bright, Suicide Squad ), but for his next movie , the director is trying something a little different. Heart of the Beast stars Brad Pitt as a retired soldier, James Belmont, who becomes stranded in the Alaskan wilderness with his ex-military dog Odin (played by dog actor Uber). Together, the two of them have to survive the harsh environment, while also grappling with their residual war-inflicted trauma.
 
 ### All 'Forge it Anew' sword shard locations in The Blood of Dawnwalker
 Wed, 09 Sep 2026 13:45:40 GMT — https://www.polygon.com/blood-of-dawnwalker-forge-it-anew-quest-walkthrough-sword-shards-location-mihai/
@@ -316,22 +326,27 @@ Wed, 09 Sep 2026 10:00:14 GMT — https://www.polygon.com/disney-hexed-interview
 
 Hexed , Disney ’s 65th animated feature film, follows Billie (Hailee Steinfeld), a rebellious teen who escapes into the secret world of Hexe. The realm of witches living in harmony with nature is filled with a distinctly Disney version of magic. Upon stepping through a portal, Billie encounters a door with a mouth-like knob that’s a reference to Alice in Wonderland . Not long after, she meets a talking book and quill reminiscent of the animated houseware in Beauty and the Beast .
 
-### Kingdom Hearts 4 Worlds Spoiled in Massive Steam Achievements Leak
-Wed, 09 Sep 2026 09:49:04 GMT — https://www.polygon.com/kingdom-hearts-4-worlds-spoiled-steam-achievements-leak/
-
-Exophase, a website designed for tracking video game achievements, and SteamDB, a third-party database covering everything on Steam, appear to have been the recipients of a whole host of achievement lists for unreleased Steam games. One of the most notable of these is Kingdom Hearts 4 , which isn't due to be released until late 2027.
-
-### 'Battlestar Galactica' Meets 'Hunger Games' in 100-Episode Action Thriller That's Free on Streaming
-Wed, 09 Sep 2026 08:21:14 GMT — https://www.polygon.com/the-100-streaming-free-pluto-tv-best-binge/
-
-Battlestar Galactica and The Hunger Games thrive on a similar kind of pressure. Both trap remnants of human civilization within unforgiving systems with brutally high stakes where one slip-up means certain death. Throw desperate young people into the mix and force compromised leaders to make impossible decisions about who gets to survive, and you’ve got a real pressure cooker going. These sci-fi worlds may be fantastical, but their most intense conflicts emerge when personal loyalties clash against the practicality of survival.
-
 ## PC Gamer
+
+### Turns out, a lot of Sega's biggest fans don't play its videogames: 'In some cases, their engagement is even higher than that of fans who actually play'
+Wed, 09 Sep 2026 14:41:34 +0000 — https://www.pcgamer.com/gaming-industry/turns-out-a-lot-of-segas-biggest-fans-dont-play-its-videogames-in-some-cases-their-engagement-is-even-higher-than-that-of-fans-who-actually-play/
+
+There once was a time in which, if you were a fan of a videogame, you might get asked which of said games in the series you had played. Now, I'm not saying we need to bring this era back—it was an obnoxious period full of gatekeepers—but Sega president and COO Shuji Utsumi's recent words on the subject are a surprising sign of the times. Speaking to Nikkei Gaming (thanks, IGN ), Utsumi explains that (via machine translation): "For example, the 'Yakuza' series has been doing exceptionally well in merchandising, with 60-70% of its buyers being women. They've become fans of the 'Yakuza' world, story, and characters after watching our YouTube channel and popular YouTubers' streams. And among them are many people who have never actually played the game." I'm assuming that Utsumi has stats to back that up, rather than just assuming that women don't play videogames (they do, I work with several of them), but it's indeed true that videogames have been enjoying a wider secondary audience thanks to let's players and streamers. "Even people who have never played games are considered fans and 'gamers' by us," he adds, "transmedia's strength lies in increasing the entry points and contact points for people to become interested in IP. In some cases, their engagement is even higher than that of fans who actually play the games." That buzzword—transmedia—essentially just means merchandise, movies, comics, and so on. Videogames might be a cornerstone for Sega, but it's using that as a foundat
+
+### That's just great: Graphics card prices in China are set to increase again as Nvidia shifts even more of production towards AI GPUs
+Wed, 09 Sep 2026 14:33:14 +0000 — https://www.pcgamer.com/hardware/graphics-cards/thats-just-great-graphics-card-prices-in-china-are-set-to-increase-again-as-nvidia-shifts-even-more-of-production-towards-ai-gpus/
+
+In news that will surprise very few, manufacturers are reportedly planning to raise their GPU prices in China again later this month. This could have a knock-on effect on global pricing for both Nvidia and AMD cards. Asus looks set to raise the price of its RTX 5070 cards by between 150 and 300 RMB (roughly between $22 and $45) in mainland China, according to Taiwanese outlet United Daily News . Gigabyte has reportedly already raised the price of its RTX 5060 Ti 16GB GPU by 200 RMB ($30). AMD has increased prices for a number of cards as well; the RX 9070 XT is up by 200 RMB, the price for both 16G and 8G versions of the RX 9060 XT has increased by up to 250 RMB, and the RX 7650 GRE is up by 400 RMB (about $60). This follows reports in July that AMD would be raising the price of its GPU and VRAM partner bundles by 10% . Your nemesis and mine, the memory supply crisis , is in part to blame. Nvidia has also been reducing its gaming GPU production for some time now , most recently trimming its shipping forecast by between 15% and 20%. It would be reasonable to assume the company is shifting production capacity to manufacturing even more AI GPUs. For on thing, Nvidia's data centre segment made $89 billion last quarter alone . Nvidia also just announced it plans to acquire AI development platform Hugging Face for an eye-watering $13 billion . However, the full production picture may be a bit more nuanced. German outlet 3D Center shared some further insight on X , claiming Nvidia i
 
 ### Marvel Rivals breaks its 17 month streak of adding 2 heroes per season, but its creative director reassures fans it's not 'the new normal'
 Wed, 09 Sep 2026 13:06:34 +0000 — https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-breaks-its-17-month-streak-of-adding-2-heroes-per-season-but-its-creative-director-reassures-fans-its-not-the-new-normal/
 
 Marvel Rivals ' massive hero roster and regular character additions are some of its defining features. So it comes as a huge surprise that NetEase has decided to forgo tradition for the sake of focusing on improving its foundations. For the first time in eight seasons—that's 17 months—Marvel Rivals will just be getting one hero, Gorr the God Butcher, in a season. "We're locking our crosshairs on just Gorr the God Butcher," creative designer Guangyun Chen says in a dev diary . "In the first half of the season we'll be rolling out one new hero and one new map. In the second half our focus will shift to phase 3 and phase 4 of the Path to Doomsday events. These will feature two brand-new game modes, with specific details dropping closer to the start of season 10.5." Marvel Rivals doesn't have a creative block when it comes to inventign new heroes—it's got a huge backlog of characters at its disposal. But two new heroes per season does put considerable strain on the game's balance. Traditionally, new heroes are completely busted when they're first added to Marvel Rivals. This is due to NetEase's "fun first" approach , but also because of the serious backlog of fixes that preoccupies the devs. Only adding one new hero in season 10 will hopefully ease this strain a bit so the team can focus on polishing existing heroes, without worrying about anyone new for at least half a season. It also gives the devs a chance to focus on improving other areas of the game like adding more game mod
+
+### How to get the Grappling Hook in Valheim
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-grappling-hook/
+
+Valheim 1.0 changed a ton about viking survival, but some things remain the same—like my tendency to repeatedly die to fall damage in the Mistlands. A new item helps traverse all those foggy marble mountains and steep drop-offs, but I didn't find it until I was ready to leave the biome. I'll save you from a similar fate with a quick explainer on how to get the Grappling Hook in Valheim . Where to find Hooks in Valheim This Hidden Door looks like it was made for ants. Iron Gate Studio Found my Hooks in here. Don't mind my Tick. Iron Gate Studio Find Hooks to unlock the Grappling Hook blueprint You can find Hooks in the Infested Mines , the Mistlands' bug-riddled dungeons that are just as difficult to navigate as the rest of the biome. I cleared out several dungeons before stumbling upon one with a hidden stone door that I almost skipped, but realized those glowing blue glyphs must mean something . The Hooks were inside a Dvergr Treasure Chest sitting beside other valuables, like Black Cores. I scoured a few more dungeons later and found a couple stacks of three Hooks, but you'll only need one per craft to make the Grappling Hook. How to make the Grappling Hook in Valheim Make the Grappling Hook at the Black Forge Requires: 10 Yggdrasil Wood (Harvested from Mistlands trees) 10 Refined Eitr (Sap and Soft Tissue at the Eitr Refinery) 4 Mandibles (Seeker Soldier drops) 1 Hook The Grappling Hook takes some getting used to, so play around with it somewhere safe before relying on you
 
 ### Valheim Deep North: How to get the Intricate Key
 Wed, 09 Sep 2026 13:00:00 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-intricate-key/
@@ -347,11 +362,6 @@ Valheim 1.0 is here, so that sound you hear in the distance is scores of eager V
 Wed, 09 Sep 2026 13:00:00 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-biome-order/
 
 Viking survival crafting has changed quite a bit since the days of early access, and though Valheim's biome order remains mostly the same in 1.0, there's plenty of new details to keep track of for lapsed players. If you want to make it to the new biome as soon as possible, I've got a handy progression guide to hold your hand all the way from the Meadows to the Deep North. Meadows Black Forest Swamps Mountains Plains Mistlands Ashlands Deep North Meadows (Image credit: Iron Gate Studios) Boss Offering (Image credit: Iron Gate Studio) It's deer hunting season, so make yourself a Crude Bow and plenty of arrows. You'll have to hunt Eikthyr's kin until one drops a Deer Trophy , and stocking up on extra leather doesn't hurt, either. The shrine you spawn at is always located in Valheim's most peaceful biome, the Meadows. Since it's relatively chill compared to other zones filled with creatures desperate to kill you, I lump it in with the Black Forest as Valheim's beginner zone. Your main goal here is to set up a small base, gather leather for armor, and get a Deer Trophy to summon Eikthyr. Feel free to tiptoe along the edge of the Black Forest for extra goodies and upgrades, but don't stray too far. Bears and Trolls make quick snacks of low-level Vikings. Meadows resource checklist Wood Fine Wood Resin Stone Flint Dandelions Beech Seeds Raspberries Mushrooms Acorns Honey Queen Bee Neck Tail Boar Meat Leather Deer Hide Feathers Bone Fragments Meadows boss: Eikthyr (Image: © Iron Gate
-
-### How to get the Grappling Hook in Valheim
-Wed, 09 Sep 2026 13:00:00 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-grappling-hook/
-
-Valheim 1.0 changed a ton about viking survival, but some things remain the same—like my tendency to repeatedly die to fall damage in the Mistlands. A new item helps traverse all those foggy marble mountains and steep drop-offs, but I didn't find it until I was ready to leave the biome. I'll save you from a similar fate with a quick explainer on how to get the Grappling Hook in Valheim . Where to find Hooks in Valheim This Hidden Door looks like it was made for ants. Iron Gate Studio Found my Hooks in here. Don't mind my Tick. Iron Gate Studio Find Hooks to unlock the Grappling Hook blueprint You can find Hooks in the Infested Mines , the Mistlands' bug-riddled dungeons that are just as difficult to navigate as the rest of the biome. I cleared out several dungeons before stumbling upon one with a hidden stone door that I almost skipped, but realized those glowing blue glyphs must mean something . The Hooks were inside a Dvergr Treasure Chest sitting beside other valuables, like Black Cores. I scoured a few more dungeons later and found a couple stacks of three Hooks, but you'll only need one per craft to make the Grappling Hook. How to make the Grappling Hook in Valheim Make the Grappling Hook at the Black Forge Requires: 10 Yggdrasil Wood (Harvested from Mistlands trees) 10 Refined Eitr (Sap and Soft Tissue at the Eitr Refinery) 4 Mandibles (Seeker Soldier drops) 1 Hook The Grappling Hook takes some getting used to, so play around with it somewhere safe before relying on you
 
 ### No more USB installation: Windows 11 Insiders now able to fully reset their system via cloud download even when the OS won't boot
 Wed, 09 Sep 2026 12:37:32 +0000 — https://www.pcgamer.com/software/windows/no-more-usb-installation-windows-11-insiders-now-able-to-fully-reset-their-system-via-cloud-download-even-when-the-os-wont-boot/
@@ -378,17 +388,12 @@ Wed, 09 Sep 2026 04:09:43 +0000 — https://www.pcgamer.com/gaming-industry/stea
 
 Exophase, a site dedicated to tracking achievements for games across all major platforms including Steam, appears to have been flooded with a bunch of achievements lists it really shouldn't have yet. These include a huge—and importantly, yet to be unverified—list of major forthcoming games including Persona 6, Deus Ex Remastered, Horizon Hunters Gathering, Judas, Kingdom Hearts 4, and many more. Among those, possibly the biggest surprise is Persona 6. It doesn't even have a release window yet, but its achievements list —assuming it's as legitimate as it looks—is rife with plausible spoilers. You have been warned: there is a lot in there, considering Atlus hasn't even shown gameplay footage yet. Meanwhile, the achievements list for Kingdom Hearts 4 may reveal a lot about the 2027 instalment that Square Enix no doubt wants to keep under wraps. For example (huge spoilers ahead), Reddit fans have gleaned from the achievements which worlds from Disney's extended universe are most likely to appear, including the corroboration of a widely-believed rumor. Again, you've been warned . The torrent of listings even includes Steam games that haven't been announced or named in Steam's backend yet. Among the more interesting examples are a possible Balatro follow-up (update: it's not a real one) and seemingly verified rumors that the forthcoming Thief: The Dark Project Remastered will come with a new campaign called The Tarnished Mirror. It also looks like Squadron 42, the singleplayer camp
 
-### Wi-Fi 8 is upon us, so here are two routers we saw at Computex that should be hitting the shops soon
-Wed, 09 Sep 2026 01:02:28 +0000 — https://www.pcgamer.com/hardware/networking/wi-fi-8-is-upon-us-so-here-are-two-routers-we-saw-at-computex-that-should-be-hitting-the-shops-soon/
-
-Last week at IFA 2026 TP-Link announced two new Wi-Fi 8 routers —the Archer 9 Ultra and the Deco 8 Ultra—though the actual price and release date aren’t yet known, other than availability being later this year. While TP-Link claimed these are the first Wi-Fi 8 routers to be revealed, this isn't quite the case: Asus showed off its Wi-Fi 8 ROG Rapture GT-BN98 at Computex in June, and we were there having a proper gawk. This is a premium gaming router that’s loaded up with features and game optimisations, and with classic completely-OTT ROG looks. Asus also showed its more mainstream ZenWiFi BN12 at Computex for normal people. Pricing and availability have not yet been announced—though review samples of the ROG Rapture GT-BN98 are expected to be available very soon, so it’s not far off. Wi-Fi 8 isn’t so much about boosting speed over Wi-Fi 7: stability under heavy load is the main objective of the new standard, as we continue to saturate the Wi-Fi airwaves with ever more demanding uses. Compared to Wi-Fi 7, the new Wi-Fi 8 standard is far from being a premium speed boost for the sake of it like past Wi-Fi iterations, and is more of a user experience enhancement that addresses some of the issues that can hamper Wi-Fi 7 and its predecessors in the real-world. It’s more reliable, faster at long distance and even improves the performance of existing older/weaker networked devices. Its technologies facilitate almost double speed at mid-to-long range, almost double IoT network coverag
-
-### Corporations want to kill physical media because it suits them, but Big Box PC game packaging just got a second chance
-Tue, 08 Sep 2026 23:54:37 +0000 — https://www.pcgamer.com/gaming-industry/corporations-want-to-kill-physical-media-because-it-suits-them-but-big-box-pc-game-packaging-just-got-a-second-chance/
-
-If you were alive and sentient in the nineties you probably harbour some fondness for the "big box" PC games of yore. Back then, rather than buy an ephemeral digital license for a game, you'd head to a store to buy a huge box bedecked in lavish art, inside which you'd find a handful of 3.5-inch floppy discs or a CD-ROM, usually a substantial glossy manual, and if you were lucky, maybe even some extras like stickers or drink coasters. There's been renewed interest in the ye olde big box PC game, especially in the wake of Sony's announcement it will discontinue physical PlayStation games. Some proactive folk have gone viral for manufacturing their own physical Steam games . Now GOG has offered its own alternative: printable big boxes based on scans of real commercial packages from the golden era of game packaging. In collaboration with Big Box Collection—which is a fan-operated trove of big box 3D scans—GOG is now offering those 3D scans with five entries in its GOG Preservation Program. These include the newly added Star Trek: 25th Anniversary and Armikrog, while games already in the Preservation Program including Descent, Hitman: Codename 47, and Myst will also receive the treatment. "We’re delivering flat, printable versions of the same box art, so you can cut, fold, and glue your own physical big box at home," reads GOG's announcement . "A proper papercraft project for anyone who misses shelves full of PC game boxes." It's a neat idea for people who long for the days when t
-
 ## GameSpot
+
+### Nintendo Direct September 2026: All The Biggest Announcements And Games
+Wed, 09 Sep 2026 13:45:00 +0000 — https://www.gamespot.com/articles/nintendo-direct-september-2026-all-the-biggest-announcements-and-games/
+
+It's the big day for Nintendo fans, as the annual September Direct kicks off in a few minutes. Running for roughly 45 minutes, this broadcast is expected to offer a fresh look at everything coming to Switch consoles from Nintendo and its third-party partners. The June 2026 Nintendo Direct featured a ton of trailers for a wide range of games, so we're expecting more of the same today--and maybe even a few surprises. As always, we'll be covering the Direct live, so you can keep scrolling down for fresh updates and trailers. According to the rumor mill, Nintendo might be looking to drop a few first looks during this presentation, with reports claiming that we could get our first look at new Star Fox and 3D Mario games. While you'll have to tune in to see if any of those rumors turn out to be true, at least the next couple of months look like a great time to own a Switch 2. Games like Final Fantasy Resonance, Orbitals, and a remaster of The Witcher 3: The Wild Hunt all look great, and in early November, there's the remake of The Legend of Zelda: Ocarina of Time to look forward to. Until those games hit the scene, here's a closer look at everything from the September Nintendo Direct, as it happens. Nintendo Shapes game when? The best part of a Nintendo Direct--the soothing shapes slotting into place--is currently playing before the presentation kicks off in a few minutes. We need Nintendo to turn this into a game already. Monster Hunter Wilds And we're off! The Direct is kicking o
 
 ### AI Could Kill All Humans In Next Decade, Anthropic Lead Says
 Wed, 09 Sep 2026 13:28:08 +0000 — https://www.gamespot.com/articles/ai-could-kill-all-humans-in-next-decade-anthropic-lead-says/
@@ -445,11 +450,6 @@ Tue, 08 Sep 2026 15:21:14 +0000 — https://www.gamespot.com/articles/stop-the-p
 
 Today, Nintendo aired The Legend Of Zelda 40th Anniversary Direct . We learned the Ocarina of Time remake is launching November 5 . We heard about a new orchestra concert touring the world in 2027 . We finally got to see the title of the upcoming full-length movie: The Legend Of Zelda (no, really, that's it) . Then, Eiji Aonuma walked us through a 15-minute gameplay demo of the upcoming Ocarina of Time Remake, and while the game's new look and gameplay are already being debated, there's no denying one crucial addition: Link can now jump on command. At one point, the younger version of Link comes across a pond with rocks that he must jump across. In the previous Ocarina of Time game, Link would automatically jump when approaching the rocks. Now, however, players can make Link jump whenever they like, at the press of a button. https://www.youtube.com/watch?v=PQvD3p2yGwc As Aonuma himself pointed out in the demo, jumping may not seem like a big deal, but because the original game didn't allow for free jumping, this is a major change in the context of Ocarina of Time. Though what was shown was faithful to the original, the combination of this jump mechanic and the new sprint mechanic could lead to some changes in level design in the final game. The gameplay demo also showed off the remake's updated visual style through multiple locations from the Nintendo 64 classic, including the Deku Tree, Hyrule Market, and Kokiri Forest. Aonuma also revealed new Ocarina mechanics, including t
 
-### The Legend Of Zelda 40th Anniversary Direct Missed A Giant Wind Waker-Sized Opportunity
-Tue, 08 Sep 2026 15:15:27 +0000 — https://www.gamespot.com/articles/the-legend-of-zelda-40th-anniversary-direct-missed-a-giant-wind-waker-sized-opportunity/
-
-If you were hoping to see older Zelda games ported to or remastered for the Switch at the recent Legend of Zelda 40th Anniversary Direct , you were likely disappointed, as Nintendo instead dedicated almost the entire show to its upcoming Ocarina of Time remake. Out of all the Legend of Zelda remasters that have come to Switch consoles over the years, there's still a sizable Wind Waker HD-shaped hole in that collection. The Legend of Zelda: Wind Waker HD released on the Wii U in 2013, with a number of upgrades compared to the original 2003 GameCube version. While the original version of Wind Waker was added to the Switch Online GameCube library last year, the Wii U version is much better in comparison. It provides a smoother experience with various quality-of-life improvements, like a resolution boost, faster loading times, and subtle changes to the game that make it less of a chore to play in its second half. While it isn't considered as influential as Ocarina of Time, Wind Waker's impact can still be felt in modern Zelda games today. The fact then that the upgraded version of one of the best Zelda games of all time is still only available on the Wii U is a shame. Much the same could be said of Twilight Princess HD on the Wii U. Maybe I just had unrealistic expectations. For Zelda's 40th anniversary, I imagined Nintendo would do something similar to what it did for Mario's 35th anniversary, when it released Super Mario 3D All-Stars for a (baffingly) limited amount of time. Th
-
 ## Rock Paper Shotgun
 
 ### Rally Point: Strong simulation and team building can't carry Menace forever
@@ -460,7 +460,7 @@ It's probably poor form to do another "what I said in a group chat" (this time, 
 ### Zombiepunk action RPG Stupid Never Dies is a vibrant feast for the eyes, ears, hands and teeth, even if it is a smidge overwhelming
 Wed, 09 Sep 2026 12:30:00 +0000 — https://www.rockpapershotgun.com/zombiepunk-action-rpg-stupid-never-dies-is-a-vibrant-feast-for-the-eyes-ears-hands-and-teeth-even-if-it-is-a-smidge-overwhelming
 
-Stupid Never Dies is a vibrant feast for the eyes, ears and hands, and I don't even mean all the biting our punk boy Davy gets up to It's hard to know where to start when talking about Stupid Never Dies. An action RPG built on style, excess and punk ideology. I mean, within the first minutes of my demo starting, I am flushing undead protagonist Davy down a toilet in an abandoned shopping mall to arrive in a hellish arena. There is a lot going on. Read more
+It's hard to know where to start when talking about Stupid Never Dies. An action RPG built on style, excess and punk ideology. I mean, within the first minutes of my demo starting, I am flushing undead protagonist Davy down a toilet in an abandoned shopping mall to arrive in a hellish arena. There is a lot going on. Read more
 
 ### I'm not saying Fallout 4 modding drama gets to people, but here's Breaking Benjamin's singer begging concertgoers to try his AI-assisted first person mod
 Wed, 09 Sep 2026 12:00:00 +0000 — https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod
