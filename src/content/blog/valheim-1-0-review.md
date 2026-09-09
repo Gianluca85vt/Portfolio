@@ -23,7 +23,6 @@ scoreSources:
     score: 8
   - outlet: Screen Rant
     score: 8
-draft: true
 ---
 
 Iron Gate's Viking survival game left early access today, 9 September 2026,
