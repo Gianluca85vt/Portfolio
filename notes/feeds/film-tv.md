@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-09T09:10:55.874Z
+# Film & TV — harvested 2026-09-09T13:53:00.761Z
 
 ## Variety
 
-### Suno Tries to Break into Music Mainstream With New Label-Backed Model ‘v6’
-Wed, 09 Sep 2026 09:00:00 +0000 — https://variety.com/2026/music/news/suno-new-label-backed-model-v6-1236855351/
+### AI Could Kill Us All, Warns Anthropic Researcher as He Quits the Company: AI Companies Are Gambling With Our Lives
+Wed, 09 Sep 2026 13:35:53 +0000 — https://variety.com/2026/biz/news/ai-could-kill-us-all-anthropic-researcher-jacob-coxon-1236855688/
 
-Suno has spent months collecting music licensing deals like Infinity Stones — and now it has a product to show for it. The AI music generation company has revealed details about its suite of new models, all built on its licensing deals with Warner Music Group, BMG and Believe. Dubbed “V6,” the company said the collection [ ]
+Multiple current and former Anthropic employees warned — and admitted — on Tuesday that the researchers building new AI models believe the technology could lead to humanity s destruction by the end of the decade, reflecting the industry s frenzy over reining in rapid development. Jacob Coxon, a former AI researcher at Anthropic, wrote on X that he [ ]
 
-### Four Weddings and a Funeral and Love Actually Producer Duncan Kenworthy to Receive BAFTA Fellowship
-Wed, 09 Sep 2026 08:56:48 +0000 — https://variety.com/2026/film/global/duncan-kenworthy-to-receive-bafta-fellowship-1236855540/
+### ABC News Adds Rachel Scott, Rhiannon Ally to Weekend Good Morning America
+Wed, 09 Sep 2026 13:30:00 +0000 — https://variety.com/2026/tv/news/abc-news-shakes-up-weekend-gma-rachel-scott-rhiannon-ally-1236855368/
 
-British producer Duncan Kenworthy, best known for his work with longtime collaborator Richard Curtis, is set to receive the British Academy highest honor, the BAFTA Fellowship. Kenworthy, already awarded an OBE (Officer of the Order of the British Empire) for services to film, will be honored at BAFTA in a special ceremony hosted by Curtis. [ ]
+ABC News is adding a few new faces to its weekend morning mix. Rachel Scott, the Disney news division s senior political correspondent, will start to co-anchor Saturday telecasts of Good Morning America on September 12, while Rhiannon Ally, who has worked on overnight programs, will start to co-anchor Sundays. Scott is paired with Whit Johnson, [ ]
 
-### Euro-Atlantic Series Co-Pro Pitch Program Launches at Iberseries Platino Industria in Madrid (EXCLUSIVE)
-Wed, 09 Sep 2026 08:06:37 +0000 — https://variety.com/2026/film/global/euro-atlantic-series-co-pro-iberseries-platino-industria-1236854250/
+### Amazon s Prime Video Is Using AI to Lip-Sync Actors Mouths in Dubbed Titles, Starting With German Series Maxton Hall
+Wed, 09 Sep 2026 13:00:00 +0000 — https://variety.com/2026/tv/news/prime-video-ai-sync-actors-mouths-dubbed-maxton-hall-1236855286/
 
-The Iberseries Platino Industria confab in Madrid has launched the Euro-Atlantic Series Co-Pro Pitch Program, which assembles a cross-section of mainly European TV projects that seek to advance their development. This is a different initiative from [Iberseries’] Coproduction Financing Forum, but it maintains the same essence: connecting projects with key partners and accelerating [ ]
+Amazon s Prime Video is promising to make English-language dubs look more natural by using AI to sync up the way the actors mouths move on screen. The feature will be available first on Maxton Hall, the German-language romance that is Prime Video’s most-watched international original series to date. Lip-sync dubs are available starting Wednesday on [ ]
 
-### Football Is Back: Seven Key Storylines for the 2026 NFL Season
-Wed, 09 Sep 2026 07:14:33 +0000 — https://variety.com/lists/nfl-2026-season-taylor-swift-travis-kelce-trump-joe-burrow-patrick-mahomes/
+### ‘The Uprising’ Review: Andrew Garfield and Paul Greengrass Go Medieval on the Peasants’ Revolt of 1381, With Uneven Results
+Wed, 09 Sep 2026 13:00:00 +0000 — https://variety.com/2026/film/reviews/the-uprising-review-andrew-garfield-1236855448/
 
-Are you ready for some football? Yes, the 2026 NFL season will kick off on the night of Sept. 9 with a Super Bowl LX rematch, as the defending champion Seattle Seahawks square off against the New England Patriots. Over the past two decades, the NFL has emerged as far and away the most popular [ ]
+Among medieval hand-held farming tools, the sickle is your best bet for reaping. It’s also just the thing for deadly weaponry in times of a peasant revolt, especially one momentous enough to earn capital letters and its own year marker — the Peasants’ Revolt of 1381, for instance. In “The Uprising,” which doesn’t quite come [ ]
 
-### Babylon Berlin Creatives Reflects on Final Season, 13-Year Journey, Past and Present Germany
-Wed, 09 Sep 2026 07:13:33 +0000 — https://variety.com/2026/tv/global/babylon-berlin-final-season-tykwer-von-borries-ard-1236851585/
+### The Sterling Point Muskoka Cottage Is Officially Available to Rent on Airbnb (EXCLUSIVE)
+Wed, 09 Sep 2026 12:55:00 +0000 — https://variety.com/2026/shopping/news/sterling-point-muskoka-cottage-airbnb-book-rent-online-1236855081/
 
-It only took five weeks to change everything. Following Hitler s appointment as Chancellor on Jan. 30, 1933, the fifth and final season of hit German neo-noir series Babylon Berlin blends history and fiction one last time as its characters witness the rise of the Nazi Party and its unhinged violence, until Hitler s full ascension to [ ]
+Gordon Bay Cottage is officially taking reservations. Airbnb is opening up the historic Muskoka property featured as the exterior of Gordon’s lakeside home in Sterling Point for three limited stays this October. Beginning Sept. 15 at 9 a.m. ET, guests can request to book the cottage for Oct. 2-5, Oct. 9-12 or Oct. 16-19 for [ ]
 
-### The Burning Giants Review: An Arcane, Multi-Pronged Mystery About Ethnic Cleansing in Thailand
-Wed, 09 Sep 2026 07:09:26 +0000 — https://variety.com/2026/film/reviews/the-burning-giants-review-1236855475/
+### Naruto Sets New York Comic Con Panel With Japanese Voice Cast, Studio Pierrot Producer (EXCLUSIVE)
+Wed, 09 Sep 2026 12:55:00 +0000 — https://variety.com/2026/film/news/naruto-new-york-comic-con-1236855451/
 
-If it s a bit too easy to group Thai director Phuttiphong Aroonpheng into a post-Apichatpong Weerasethakul wave of cryptic fablemakers, his latest only strengthens this association. His third feature The Burning Giants is a woozy dystopian mystery, with fog-strewn forests and liquidy purple skies captured by cinematographer Emo Weemhoff in a menacing ayahuasca haze, and [ ]
+A Naruto panel featuring Japanese voice cast members and a Studio Pierrot producer will take place at New York Comic Con this year, with Viz Media promising new franchise announcements and first-look footage. The panel will run Oct. 10 inside the Jacob K. Javits Convention Center in New York. It will cover updates across the [ ]
 
-### Stefano Knuchel Premieres Final Chapter in 20-Year Hugo Pratt Trilogy with ‘Hugo in Venice’
-Wed, 09 Sep 2026 07:08:45 +0000 — https://variety.com/2026/film/global/stefano-knuchel-trilogy-hugo-in-venice-1236854652/
+### Noel Clarke Charged With Sexual Assault, Voyeurism and Exposure
+Wed, 09 Sep 2026 12:48:07 +0000 — https://variety.com/2026/tv/global/noel-clarke-charged-with-sexual-assault-voyeurism-exposure-1236855690/
 
-Stefano Knuchel s “Il desiderio di essere inutile – Hugo a Venezia” (“A Longing to Be of No Use – Hugo in Venice”) will premiere out of competition at the Venice Film Festival on Sept. 12, in a special screening jointly presented by La Biennale di Venezia, the International Critics Week and the Giornate degli Autori. [ ]
+British actor, filmmaker and Doctor Who star Noel Clarke has been charged with multiple sexual offenses including sexual assault, voyeurism and exposure. As reported by the BBC, on Wednesday the U.K. s Crown Prosecution Service authorised London s Metropolitan Police to charge him after a file of evidence was submitted by detectives. The charges come almost a [ ]
 
-### Spider-Man: Brand New Day, The Odyssey Continue U.K., Ireland Box Office Battle
-Wed, 09 Sep 2026 07:05:07 +0000 — https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-death-of-robin-hood-uk-ireland-box-office-1236855466/
+### Ellen Burstyn Was Sure Her Career Would Be Finished by 40 : The Fact That I’m 93 and Working Is a Miracle
+Wed, 09 Sep 2026 12:11:24 +0000 — https://variety.com/2026/film/festivals/ellen-burstyn-worried-career-over-40-1236855543/
 
-Sony s superhero blockbuster Spider-Man: Brand New Day retained its box office crown across the U.K. and Ireland for a sixth consecutive weekend, taking £1.6 million ($2.2 million). The performance propelled the film s cumulative gross to $130.1 million, elevating it to sixth on the territory s all-time box office chart. The film now sits within striking distance [ ]
+Ellen Burstyn, an Oscar, Tony and Emmy winner for projects like Alice Doesn’t Live Here Anymore,” Same Time, Next Year and “Political Animals,” marvels that she s still able to act as a nonagenarian. When I was in my 30s and I thought about how long my career would last, I was sure I’d be finished [ ]
 
-### Tokyo Market Partners With Frontieres, Adding Genre Slate to Gap-Financing Lineup
-Wed, 09 Sep 2026 07:00:00 +0000 — https://variety.com/2026/film/markets-festivals/tokyo-market-frontieres-genre-slate-gap-financing-1236855059/
+### Toby Kebbell Joins Prime Video s U.K. Crime Thriller Series Dirty Alongside Samantha Morton and Phoebe Dynevor (EXCLUSIVE)
+Wed, 09 Sep 2026 12:01:19 +0000 — https://variety.com/2026/tv/news/toby-kebbell-prime-video-crime-thriller-series-dirty-1236855621/
 
-Tokyo market TIFFCOM has struck its first partnership with Frontières, the genre-focused co-production market run by Canada s Fantasia International Film Festival, adding a wave of horror and thriller titles to the 24 feature projects selected for the seventh Tokyo Gap-Financing Market (TGFM). The selection draws from 24 countries and regions across Asia, Europe, South America [ ]
+Toby Kebbell has joined the cast of Prime Video s upcoming U.K. crime thriller series Dirty from Bridge of Spies writer Matt Charman. The British actor — who ll next be seen playing Robert Chartoff in Amazon MGM Studio s I Play Rocky, debuting this week at TIFF — joins the already announced Phoebe Dynevor and Samantha Morton in [ ]
 
-### Studio TF1 Set to Launch Medical Drama ‘Dr. Seylan Cindy’ at Unifrance Rendez-Vous in Le Havre
-Wed, 09 Sep 2026 06:52:14 +0000 — https://variety.com/2026/tv/global/studio-tf1-launch-dr-seylan-and-cindy-unifrance-rendez-vous-1236854468/
+### Jenny Slate and Christian Slater Act Out Their Hectic New York City Morning Routines in New Cole Haan Campaign
+Wed, 09 Sep 2026 12:00:00 +0000 — https://variety.com/2026/shopping/news/jenny-slate-christian-slater-cole-haan-campaign-shop-online-1236855015/
 
-Studio TF1 is launching its medical drama “Dr. Seylan Cindy” at Unifrance Rendez-Vous in Le Havre. Filmed in Drôme in the Auvergne-Rhône-Alpes region of Southeastern France, the series stars Natacha Lindinger (“Hard,” “Coco Chanel Igor Stravinsky”) and Alice Pol (“Sirènes,” “Tricky Old Dogs”). Directed by Cathy Verney (“Hard,” “Vernon Subutex”) and Edouard Deluc (“Pétaouchnok,” [ ]
+Cole Haan is putting Christian Slater and Jenny Slate in its shoes for fall. The footwear and accessories brand has tapped the two actors to star in Comfortable Anywhere, its fall 2026 global campaign, which rolls out Wednesday morning. The campaign centers on the idea that getting dressed shouldn t require choosing between looking polished and [ ]
 
 ## The Hollywood Reporter
 
-### Suno Launches New AI Model Trained on Licensed WMG, BMG Tracks
-Wed, 09 Sep 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/suno-launches-new-model-trained-on-licensed-songs-1236694047/
+### DAU Review: A Towering and Immersive Cinematic Epic That Recreates the Dark Ages of Soviet Oppression
+Wed, 09 Sep 2026 13:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/dau-review-ilya-khrzhanovsky-1236689339/
 
-"We believe this is a blueprint for how AI and the music industry can strengthen one another and build entirely new product experiences for artists, fans, and the broader music community," Suno CEO Mikey Shulman said.
+Director Ilya Khrzhanovsky's biopic of Russian physicist Lev Lendau has been 20 years in the making, with over a dozen related features and other projects created in what’s been dubbed the 'Stalinist Truman Show.'
 
-### Notting Hill Producer Duncan Kenworthy to Receive BAFTA Fellowship
-Wed, 09 Sep 2026 08:50:35 +0000 — https://www.hollywoodreporter.com/movies/movie-news/notting-hill-producer-duncan-kenworthy-get-bafta-fellowship-1236695187/
+### Fox Says DOJ Taking Closer Look at Roku Megadeal
+Wed, 09 Sep 2026 13:34:18 +0000 — https://www.hollywoodreporter.com/business/business-news/fox-says-doj-reviewing-roku-mega-deal-1236695258/
 
-"Duncan Kenworthy is one of the great champions of British film and filmmaking talent. For over five decades, he has played a pivotal role in bringing some of Britain’s most beloved stories to life on screen."
+The company says the U.S. government requested more information about the deal Tuesday.
 
-### Lonesome Dove Series From East of Eden Showrunners a Go at Netflix
-Wed, 09 Sep 2026 01:56:02 +0000 — https://www.hollywoodreporter.com/tv/tv-news/lonesome-dove-series-remake-netflix-1236694926/
+### The Athlete Is the Studio
+Wed, 09 Sep 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/coco-gauff-tennis-star-media-mogul-iroc-1236665909/
 
-Zoe Kazan and Jeb Stuart are adapting Larry McMurtry's novel, which previously inspired a hit CBS miniseries.
+Forget brand deals. Coco Gauff joins LeBron James, Tom Brady and a generation of athletes building production companies and media empires. But in today’s Hollywood, star power only gets you so far.
 
-### Nicolas Cage s Malibu Mansion Damaged by Massive Sinkhole Amid Coastal Erosion
-Wed, 09 Sep 2026 01:33:50 +0000 — https://www.hollywoodreporter.com/news/local-news/nicolas-cage-malibu-home-damaged-sinkhole-coastal-erosion-1236694892/
+### The 50 Most Powerful TV Producers of 2026
+Wed, 09 Sep 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/lists/top-tv-producers-2026-survey/
 
-The 'Spider-Noir' star reportedly bought the oceanfront home in 2024 for $10.5 million.
+The heavy hitters behind this past year’s most impactful series — Katie Dippold, Rachel Sennott, Jacob Tierney, Vince Gilligan and many, many more — go deep on the trends they hate, the shows they love and the execs they actually admire.
 
-### John Mulaney in Talks to Star in Get Smart Reboot for Warner Bros.
-Wed, 09 Sep 2026 01:14:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/get-smart-reboot-john-mulaney-warner-bros-1236694876/
+### Chris Hansen Calls ‘Primetime’ an “Insult,” Has No Regrets About ‘Predator’ Sting That Ended in Suicide (Exclusive)
+Wed, 09 Sep 2026 13:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/chris-hansen-primetime-predator-suicide-pattinson-a24-1236695028/
 
-Seth Grahame-Smith is writing the screenplay for the feature based on the 1960s series from Mel Brooks and Buck Henry.
+“We’re talking about an industry that was led by perhaps one of the biggest predators to walk the planet, Harvey Weinstein,” says the former NBC correspondent as he blasts A24’s fictionalized take on his controversial career.
 
-### Last Seen Review: Apple TV s Aussie Kidnapping Drama Is a Solid Showcase for Star Patrick Brammall, Despite Shortcomings
-Wed, 09 Sep 2026 01:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/last-seen-review-patrick-brammall-apple-tv-1236694504/
+### Why and How Manhunt Depicts Hell as a Colorful Candy World : A Chat With DOP Jonathan Glendon
+Wed, 09 Sep 2026 13:05:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/manhunt-film-dop-interview-hell-candy-world-jonathan-glendon-1236693053/
 
-A police dispatcher remains convinced that his daughter is still alive 11 years after she was kidnapped in this six-episode thriller.
+The Toronto-based feature debutant discusses inspirations from the legendary Robbie Müller and 'The Wrestler' for Wayne Wapeemukwa's Locarno-premiering film and the creative use of infrared light.
 
-### Nick Offerman Calls Out Ben Shapiro’s Rampant Homophobia After His The Last of Us Gay Role Criticism
-Wed, 09 Sep 2026 00:22:31 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nick-offerman-slams-ben-shapiro-last-of-us-gay-role-criticism-1236694594/
+### Mahershala Ali and 76ers Star Jaylen Brown on Rejection, Rebirth and Refusing to Be Boxed In
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/mahershala-ali-jaylen-brown-interview-game-recognize-game-1236670264/
 
-The political commenter attacked Offerman's character, Bill, in HBO's apocalyptic drama, saying he's "Ron Swanson who likes to nail dudes."
+In THR‘s new series, the Oscar winner and NBA All Star also get deep on faith, frustrations and fearlessness: “When you played, you wasn't trying to be cool, make friends, none of that. You was like, 'I'ma put my shoulder through somebody‘s chest if I got to.’”
 
-### Meta Lab Heads to Best Buy With Rollout of 50 Locations by End of 2026
-Tue, 08 Sep 2026 23:45:01 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/meta-lab-at-best-buy-ai-glasses-vr-headset-demo-locations-1236694707/
+### The Uprising Review: Andrew Garfield in Paul Greengrass Intense but Monotonous Medieval Actioner
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-uprising-review-andrew-garfield-paul-greengrass-1236694209/
 
-The nationwide openings continue the effort from Meta to make innovative technology easier to experience.
+The violent historical drama about the 14th-century Peasants' Revolt also features Jamie Bell, Stephen Dillane, Katherine Waterston, Cosmo Jarvis and Thomasin McKenzie.
 
-### The First Episode of Star Trek Was Not the Best Episode of Star Trek
-Tue, 08 Sep 2026 23:22:42 +0000 — https://www.hollywoodreporter.com/tv/tv-features/rewatching-star-trek-first-episode-60th-anniversary-1236694534/
+### Carter Gregory Signs With CAA (Exclusive)
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/carter-gregory-signs-caa-1236694640/
 
-A rewatch of the series premiere 60 years after it initially aired.
+The digital content creator and former Capitol Records A R exec now finds himself at the intersection of popular culture, music and fashion.
 
-### Paramount Argues That the States Post a $1.88 Billion Bond to Cover Warner Bros. Bills
-Tue, 08 Sep 2026 23:00:13 +0000 — https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-bills-1236694694/
+### John Oliver to Host Comic Relief Live s 40th Anniversary Show
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/john-oliver-host-comic-relief-live-40th-anniversary-show-1236694846/
 
-Courts have historically side-eyed issuing massive bonds in merger cases, particularly when the government challenges the deal. The states have stressed that Paramount proposed the term to win over shareholders.
+Roy Wood Jr., Zarna Garg and Mary Beth Barone are set to perform at the Oct. 19 Carnegie Hall benefit.
 
 ## Deadline
 
-### LevelK Posts U.S. Euro Sales Haul For Karlovy Vary Prizewinner ‘The Guest’
-Wed, 09 Sep 2026 07:39:10 +0000 — https://deadline.com/2026/09/levelk-us-euro-sales-karlovy-vary-prizewinner-guest-1237071941/
+### Aaron Eckhart Pic Butcher s War : Samuel Goldwyn Takes U.S., Voltage Pictures Acquires International Rights TIFF
+Wed, 09 Sep 2026 13:47:53 +0000 — https://deadline.com/2026/09/aaron-eckhart-butchers-war-1237072073/
 
-EXCLUSIVE: Danish director Mads Mengel’s debut feature The Guest has been acquired for the U.S. and multiple European territories following its prize-winning world premiere in competition at the Karlovy Vary International Film Festival in July. Copenhagen-based LevelK has sold the film to Juno Films for the U.S, while European deals include to France (L’atelier d’Images), [ ]
+EXCLUSIVE: Samuel Goldwyn Films has acquired North American rights and Voltage Pictures has picked up international rights to the Aaron Eckhart action thriller Butcher s War. Voltage Pictures will introduce the film to international buyers at the Toronto International Film Festival. The film also stars Jason Behr (Roswell, The Grudge, Skinwalkers), Danielle Vasinova (1923, The Madison, The [ ]
 
-### Treasure Island : Hayley Atwell, David Oyelowo Tom Sweet Hit The High Seas In First Look At MGM+ Paramount+ Pirate Series
-Wed, 09 Sep 2026 07:00:00 +0000 — https://deadline.com/2026/09/treasure-island-first-look-paramount-mgm-1237070795/
+### Pablo Larraín’s ‘My Sad Dead’ Trailer: “The Dead Start To Make Themselves Present”
+Wed, 09 Sep 2026 13:32:58 +0000 — https://deadline.com/2026/09/my-sad-dead-trailer-pablo-larrain-netflix-1237071947/
 
-EXCLUSIVE: Shiver me timbers! Here s a first look at Paramount+ s upcoming pirate drama Treasure Island. Above and below you can see seven images from the Playground Entertainment s six-part adventure series starring Hayley Atwell (Avengers: Doomsday) as Bess Hawkins, David Oyelowo (Silo) as Long John Silver, Tom Sweet (Great Expectations) as Jim Hawkins, Jack Huston (Boardwalk [ ]
+EXCLUSIVE: Here’s the trailer for Pablo Larraín’s Netflix miniseries My Sad Dead. Based on stories by acclaimed Argentine author Mariana Enriquez, the psychological horror will play in competition at the San Sebastian Film Festival later this month. Produced by Larraín’s Fabula, the much-anticipated series tells the story of Ema, a retired doctor grappling with grief [ ]
 
-### Tokyo Gap Financing Market Unveils 24 Projects Partnership With Canada s Frontières
-Wed, 09 Sep 2026 07:00:00 +0000 — https://deadline.com/2026/09/tokyo-gap-financing-market-canada-frontieres-1237071794/
+### ABC News Names Rachel Scott And Rhiannon Ally As Co-Anchors Of Good Morning America Weekend
+Wed, 09 Sep 2026 13:30:00 +0000 — https://deadline.com/2026/09/good-morning-america-weekend-anchors-rachel-scott-1237072028/
 
-Tokyo Gap Financing Market (TGFM), which is being held during this year’s TIFFCOM contents market in Tokyo (October 28-30), has announced a line-up of 24 projects from Asia, Europe and the Americas for this year’s edition. Projects include five works selected in partnership with Canada’s Frontières Market, the international genre film co-production market organized by [ ]
+ABC News has named Rachel Scott and Rhiannon Ally as permanent co-anchors on Good Morning America Weekend. Scott will join Whit Johnson on Saturdays, and Ally will co-anchor alongside Gio Benitez on Sundays. They will start in their roles this weekend. The four will also anchor ABC News Live Weekend on a rotating basis on [ ]
 
-### Jon Stewart Likens Donald Trump Aide Natalie Harp To Elizabeth Holmes In Viral You Can See Everything Trailer
-Wed, 09 Sep 2026 04:01:28 +0000 — https://deadline.com/2026/09/jon-stewart-donald-trump-aide-natalie-harp-elizabeth-holmes-1237071830/
+### Ellen Burstyn Talks Working Into 90s with Starring Role In Unexpected Love Story Place To Be ; Pays Tribute To Gloria Steinem – Venice
+Wed, 09 Sep 2026 13:18:26 +0000 — https://deadline.com/2026/09/ellen-burstyn-working-93-place-to-be-gloria-steinem-venice-1237072001/
 
-Jon Stewart returned for an all-new episode of The Daily Show following a month-long hiatus. The comedian and Comedy Central host didn t waste any time trolling Donald Trump and the chaos he s caused over the last few weeks, like renaming Lake Ontario to Lake America. Toward the end of his opening monologue, he likened Trump [ ]
+Oscar-winning actress Ellen Burstyn addressed shifting attitudes to older woman in Hollywood ahead of the world premiere of Kornel Mundruzcó’s Place To Be, in which she co-stars opposite Taika Waititi, at the Venice Film Festival on Wednesday. The Alice Doesn’t Live Here Anymore and The Last Picture Show star revealed that she had started to [ ]
 
-### Jeff Lowell Dies: John Tucker Must Die Writer The Crew Creator Was 52
-Wed, 09 Sep 2026 03:53:43 +0000 — https://deadline.com/2026/09/jeff-lowell-dies-john-tucker-must-die-the-crew-1237071814/
+### John Oliver Returns To Host Comic Relief Live
+Wed, 09 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/john-oliver-comic-relief-live-1237071173/
 
-Veteran film and TV comedy writer Jeff Lowell died on August 24 in Virginia after a brief illness. He was 52. Lowell started his career as a sitcom writer in the mid 1990s, working on such series as The George Carlin Show, Bless This House and The Drew Carey Show. He went on to serve [ ]
+John Oliver is back to help out Comic Relief Live. The Last Week Tonight star will host this year’s event, which takes place at Carnegie Hall’s Stern Auditorium / Perelman Stage on Monday, October 19. Oliver will be joined by performances from Mary Beth Barone, Zarna Garg, Josh Johnson, and Roy Wood Jr. It comes [ ]
 
-### Federal Film TV Tax Credits Not A Done Deal, Adam Schiff Says; White House Involved: Negotiations Are Ongoing
-Wed, 09 Sep 2026 03:02:54 +0000 — https://deadline.com/2026/09/federal-film-tv-tax-credits-latest-1237071772/
+### The Uprising Review: Andrew Garfield Leads A Revolt Against King Richard ll In Paul Greengrass 1381 Epic With Political Relevance To Now
+Wed, 09 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/the-uprising-review-andrew-garfield-paul-greengrass-epic-1237071435/
 
-EXCLUSIVE The elusive goal is in sight but the finish line is still a way off in the race to get a federal film and TV tax incentive bill passed and signed into law by Donald Trump, California s junior senator says. Over the past two years, Senator Adam Schiff has been working to build bipartisan [ ]
+On the heels of this summer s darker, more dour and reflective, deliberately meditative, if bloody new take on the Robin Hood legend, The Death Of Robin Hood with Hugh Jackman portraying the famous icon s last days, comes another film set in the same milieu, this one around 1381, that chronicles events that helped inspire the [ ]
 
-### Malibu Sinkhole Prompts Local Evacuation Order; 31 Homes Red Tagged
-Wed, 09 Sep 2026 02:16:49 +0000 — https://deadline.com/2026/09/malibu-beach-home-sinkhole-hurricane-marie-waves-1237071488/
+### Prime Video s Full Carrie Trailer Hints At Expansion Of Telekinetic s Story As Summer H. Powell Takes On Titular Character
+Wed, 09 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/carrie-prime-video-trailer-full-summer-h-howell-1237071828/
 
-UPDATED with evacuation order: Malibu City officials have just issued an evacuation order for much of the Point Lechuza community near Broad Beach after a sinkhole opened up in the driveway of one beachfront property. Specifically, the homes on the sand and on the other side of Sea Level Drive fall under the order. See [ ]
+The full trailer for Prime Video’s Carrie is here. From showrunner Mike Flanagan, all eight episodes of the TV show adaptation will arrive Wednesday, Oct. 7, 2026 on Prime Video. The official trailer begins to pull back the curtain on the urgent and arresting reinvention of Stephen King’s iconic story, offering a revealing glimpse at [ ]
 
-### John Mulaney Looking To Get Smart At Warner Bros The Dish
-Wed, 09 Sep 2026 00:25:52 +0000 — https://deadline.com/2026/09/john-mulaney-get-smart-reboot-1237071666/
+### ‘Doctor Who’ Actor Noel Clarke Charged With Sexual Assault, Voyeurism Exposure
+Wed, 09 Sep 2026 12:39:25 +0000 — https://deadline.com/2026/09/noel-clarke-charged-sexual-assault-doctor-who-1237072037/
 
-EXCLUSIVE: Talk about a dead ringer when it comes to casting: We re getting word that 4x Emmy winner John Mulaney is eyeing to star as wisenheimer Agent Maxwell Smart in Warner Bros upcoming reimagining of Get Smart. The project is early in the works with Now You See Me: Now You Don t scribe Seth Grahame-Smith penning [ ]
+Noel Clarke, the British actor who starred in Doctor Who and Kidulthood, has been charged with a series of sexual offenses by UK police. London s Metropolitan Police announced on Wednesday that Clarke has been charged in connection with alleged offenses that took place between 2007 and 2016 involving five women. The 50-year-old faces two charges [ ]
 
-### Netflix Orders Lonesome Dove Series From Zoe Kazan Jeb Stuart Based On Larry McMurtry s Novel
-Wed, 09 Sep 2026 00:00:29 +0000 — https://deadline.com/2026/09/lonesome-dove-netflix-series-zoe-kazan-jeb-stuart-1237071579/
+### ‘Joie de Vivre. Notes, Thoughts, Words, Reflections, Faces, And Visions Concerning Bernardo Bertolucci And The Cinephilia Of The 20th Century That No Longer Exists’ Review: So Long, Maestro! – Venice Film Festival
+Wed, 09 Sep 2026 12:31:00 +0000 — https://deadline.com/2026/09/joie-de-vivre-bernardo-bertolucci-luca-guadagnino-venice-1237072010/
 
-Larry McMurtry s classic Lonesome Dove novel is returning to television as a Netflix series. The streamer has greenlighted the Western drama from Zoe Kazan and Jeb Stuart, co-showrunners of Netflix s upcoming East of Eden limited series, and Teton Ridge Entertainment. Independent studio Teton Ridge Entertainment, which focuses on American West stories, announced in February that it [ ]
+Ostensibly a tribute to the late Bernardo Bertolucci (1941-2018), the one-time giant of Italian cinema whose star has waned somewhat in recent years, Luca Guadagnino’s 426-minute docu-essay — nearly twice as long as Alex Gibney’s Musk — is the endurance test of this year’s Venice Film Festival. Surprisingly, however, watched in two sittings, it is [ ]
 
-### Keen Ruffalo Signs With CAA
-Tue, 08 Sep 2026 23:21:55 +0000 — https://deadline.com/2026/09/keen-ruffalo-signs-caa-1237071645/
+### First Behind-The Scenes Look Reveals Isabelle Huppert As Crime Boss In Yann Demange’s London-Set ‘Lineage’
+Wed, 09 Sep 2026 12:12:39 +0000 — https://deadline.com/2026/09/innnhhbbbsabelle-huppert-first-look-crime-boss-yann-demange-lineage-1237071981/
 
-EXCLUSIVE: Actor Keen Ruffalo has signed with CAA, Deadline has learned. Ruffalo has heat as one of the young stars of Sterling Point, Prime Video s coming-of-age drama series from My Old Ass helmer Megan Park, which was recently renewed for a second season. The series centers on a New York teenager (Ella Rubin) and her twin brother (Ruffalo) who [ ]
+EXCLUSIVE: Isabelle Huppert looks quite the gangster in a behind-the-scenes image of her in Yann Demange’s crime family thriller Lineage, which was unveiled today by The Veterans as it gears up for a sales push at TIFF. Shooting is currently underway in London with the Elle Oscar nominee joined in the cast by Dali Benssalah (No Time To Die) as well as [ ]
 
-### International Revenues Of $2.1B Boost British TV Makers, Census Finds, As Pact Warns BBC Must Avoid Managed Decline
-Tue, 08 Sep 2026 23:01:00 +0000 — https://deadline.com/2026/09/pact-census-international-tv-revenues-up-1237070622/
+### Wicked Wicked: For Good Live-To-Film Concerts To Kick Off 2027 Tour In San Francisco New York
+Wed, 09 Sep 2026 11:30:00 +0000 — https://deadline.com/2026/09/wicked-wicked-for-good-live-to-film-concerts-1237071361/
 
-Revenue from Britain s independent producers hit its second-highest total last year, despite spend from UK broadcasters falling beneath £2B ($2.7B) for the first time since 2020. The numbers from Pact come as the UK producers body warned that the BBC must avoid a situation of financial managed decline. The Pact Census shows UK television revenues [ ]
+EXCLUSIVE: A series of live-to-film concerts of Wicked and Wicked: For Good, with film screenings accompanied by a live symphony orchestra, will officially premiere at Radio City Music Hall on January 23, 2027, with a special preview set for January 16 in San Francisco. The first event will be Wicked: Part One In Concert. The [ ]
 
-### Paramount Warns CA AG Bonta WGA Of WBD Merger Fallout Financial Consequences If Their Challenge Ultimately Fails
-Tue, 08 Sep 2026 22:25:17 +0000 — https://deadline.com/2026/09/paramount-warns-california-merger-lawsuit-1237071462/
+### Channel 4 Confirms Plans To Cut More Than A Quarter Of Its Workforce
+Wed, 09 Sep 2026 11:00:05 +0000 — https://deadline.com/2026/09/channel-4-confirms-300-job-cuts-1237071015/
 
-Just weeks before Paramount Skydance starts being on the hook for the vaunted $7-million-a-day ticking fee to Warner Bros Discovery shareholders, the David Ellison-run company today pushed hard once again for the Writers Guild of America, California and 11 other states to pony up a nearly $2 billion bond in the antitrust battle over the [ ]
+Channel 4 has announced the deepest round of layoffs in its 43-year history. The British network, home to shows including The Great British Bake Off and Taskmaster, is planning to cut 340 jobs by the end of 2026, meaning its workforce will shrink by more than a quarter. Channel 4 CEO Priya Dogra announced the [ ]
 
 ## befores & afters
 
@@ -179,6 +179,21 @@ Mon, 07 Sep 2026 22:27:57 +0000 — https://beforesandafters.com/2026/09/08/so-m
 Issue #65 of befores & afters magazine covers the visual effects of The Electric State. DIGITAL MAGAZINE members can download the issue right now from the shop post. Set in an alternate, retro-futuristic 1990s America scarred by a robot uprising, Netflix’s The Electric State , from director duo the Russo brothers, follows orphaned teenager Michelle (Millie Bobby Brown) as she traverses a desolate landscape in search of her presumed-dead younger brother. The film is based on the 2018 graphic novel by Simon Stålenhag. Accompanied by a mysterious robot named Cosmo— apparently carrying her brother’s consciousness—she teams up with drifter Keats (Chris Pratt) and his robot companion Herman (voiced by Anthony Mackie), who appears in several different sizes. Along the way, they encounter a host of human and machine characters as the journey leads into the robot-inhabited Exclusion Zone and a deeper conspiracy surrounding the technology that ended the war. Bringing this hybrid road movie and sci-fi spectacle to life required an on-set methodology that tightly fused live-action performance with digital character creation. During principal photography, stand-in performers and dedicated motion capture artists physically embodied the film’s robotic cast, acting opposite the principal actors to establish eyelines, timing and emotional interplay. The robot performers, part of a troupe led by movement choreographer Terry Notary, worked both in optical capture setups and accelerometer-based 
 
 ## IndieWire
+
+### Union Town Review: Barbara Kopple Returns to Her Labor Roots by Unevenly Covering the Plight of New York Delivery Workers
+Wed, 09 Sep 2026 13:15:00 +0000 — https://www.indiewire.com/criticism/movies/union-town-review-1235215799/
+
+Venice: The third in Kopple’s informal strike trilogy sets its sights on the workers battling with UPS, Amazon, and food-delivery apps with mixed results.
+
+### The Uprising Review: Paul Greengrass Turns the Peasants Revolt of 1381 Into an Unapologetic Work of 21st Century Populism
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/criticism/movies/the-uprising-review-1235214967/
+
+...that doubles as an origin story for a fictional character we wouldn't dare reveal.
+
+### Joie de Vivre Review: Luca Guadagnino s Obsessive Bertolucci Doc Is a 7-Hour Cinema Paradiso Even More Fascinating for What It Leaves Out
+Wed, 09 Sep 2026 12:30:00 +0000 — https://www.indiewire.com/criticism/movies/luca-guadagnino-bertolucci-documentary-joie-de-vivre-review-1235215442/
+
+Venice: Guadagnino's epic chronicle of his filmmaking idol wends and wades its way through Bertolucci's complicated career — but where the hell is "The Dreamers"? This fascinating, often exhilarating documentary has plenty to chew on.
 
 ### Summer Box Office Hit an All-Time High in 2026 — We re So Back, Right? And 4 Other Takeaways
 Tue, 08 Sep 2026 22:10:26 +0000 — https://www.indiewire.com/news/box-office/summer-box-office-all-time-high-2026-takeaways-1235215694/
@@ -225,22 +240,47 @@ Tue, 08 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/news/festivals/tif
 
 The inaugural TIFF Market is bringing hundreds of buyers up north for the first time in years, but could it slow sales for festival titles or result in more packages this fall?
 
-### Musk Review: Alex Gibney s Distressing Biography of an Uber-Wealthy Tech Bro Is Less Bombshell Than Summary of How We Got Here
-Tue, 08 Sep 2026 12:05:00 +0000 — https://www.indiewire.com/criticism/movies/musk-documentary-review-alex-gibney-elon-musk-1235215433/
-
-Venice: At nearly four hours, Gibney's documentary boasts a damning and exhaustively researched portrait of Elon Musk, even if the access proves to be less so.
-
-### Alex Gibney Warns Elon Musk s DOGE Data Could Be Used for an AI to Influence the Election
-Tue, 08 Sep 2026 11:32:27 +0000 — https://www.indiewire.com/news/festivals/elon-musk-doge-data-could-influence-election-alex-gibney-1235215448/
-
-The Oscar-winning documentarian premieres his scary, four-hour Elon Musk documentary at Venice, where he spoke during a press conference about the film's biggest revelations.
-
-### Musk Teaser: The Wealthiest Man in the World Becomes Alex Gibney s Latest Documentary Subject
-Mon, 07 Sep 2026 21:50:43 +0000 — https://www.indiewire.com/news/trailers/musk-documentary-teaser-1235215370/
-
-Bleecker Street will release the documentary in theaters on October 16.
-
 ## The Wrap
+
+### Washington Post Names Jeff D Onofrio Publisher and CEO
+Wed, 09 Sep 2026 13:24:16 +0000 — https://www.thewrap.com/industry-news/business/jeff-donofrio-washington-post-ceo-publisher/
+
+The Washington Post has named Jeff D Onofrio Publisher and CEO, the publication announced on Wednesday. The news makes official what has been the case for months, as D Onofrio has been serving as acting CEO since February, when Will Lewis abruptly resigned during a state of upheaval at the paper. Owner Jeff Bezos praised D Onofrio in a memo to staff on Wednesday morning. Over these months, I’ve heard from many that Jeff has been doing an outstanding job, and that’s been my experience as well. Jeff has led with discipline and care — following the data and sweating the details, and he has my complete confidence as we chart our future, Bezos said. D Onofrio followed up with a memo of his own. It’s an honor to be entrusted with the responsibility to guide this institution forward, and I also want to thank you for all of your support and partnership, he said. The Washington Post will celebrate its 150th anniversary next year. It is our collective responsibility to ensure that we position it for the next 150 years, and I will be working with all of you to do just that. We have made significant progress together over the last seven months, but our work is never done. News and Opinions are at our gravitational center, and our mission doesn’t change. What will change is that we will build a modern media company with new revenue streams that move us from breakeven to profitability, so we can reinvest in our journalism. He continued: It is the relentless drive and spirit of this institu
+
+### Sony Pictures CEO Ravi Ahuja Says No Plans for Extremely Disruptive Large Scale M A
+Wed, 09 Sep 2026 13:22:39 +0000 — https://www.thewrap.com/industry-news/business/sony-pictures-ceo-ravi-ahuja-merger-acquisition-strategy/
+
+Sony Pictures CEO Ravi Ahuja says the studio has no plans to prioritize large-scale M&A, warning that it could be extremely disruptive to the company s business. It s extremely disruptive when you end up with a large company that has lots of different businesses. You can spend years on that type of project, Ahuja told an investor conference hosted by Bank of America on Wednesday. In the end, you come out having just achieved a lot of cost synergy and I m not sure the business is necessarily stronger. He emphasized that the process of getting a deal approved and the associated integration work sets you back for years. This industry is dynamic and evolving and you really have to position yourself for how it s going to evolve over the next five to 10 years and not just drown in M&A, particularly when I am doubtful of having increased scale and content creation making a big difference. These companies are not factories, Ahuja added. I don t think there s anything in particular that I say we must have this asset that sits out there . At the same time, he touted the benefits of Sony Pictures inclusion within the Japanese multinational conglomerate s larger portfolio and said there s no plans to spin the studio out into an independent company. Ahuja s comments come after Sony teamed up with Apollo Global Management to make a bid for Paramount in 2024, but ultimately lost out to Skydance s David Ellison. Ahuja clarified that Sony s bid for Paramount was consistent with its focus on i
+
+### The 9 Buzziest Films for Sale at TIFF 2026
+Wed, 09 Sep 2026 13:12:25 +0000 — https://www.thewrap.com/creative-content/movies/buzziest-tiff-movies-for-sale-2026/
+
+Will the Obsession effect spark some life in at Toronto International Film Festival? Last year s $16 million pickup of Curry Barker s debut film led to one of the biggest stories over the summer with the film grossing half a billion dollars worldwide. That should provide extra incentive as buyers head to Toronto this week in search of the next indie breakout. The film festival, which introduces an official market for the first time, will look to build upon a livelier output last year, when over a dozen titles sold. Still, gone are the days of overnight bidding wars, with slower sales from the various festivals the new status quo. Insiders who spoke to TheWrap feel pretty good about this year s market. Traditionally, there are a fewer number of deals that actually happen at the festival, with some negotiations dragging out long after the festival is over. But that doesn t mean there won t be a lot of activity. I do feel that the market is in a better place, Gersh agent Julien Levesque told TheWrap. There are still things that lean commercial. This year s market features new movies from Werner Herzog, Caleb Hearon and Chase Infiniti that are looking for buyers. What will also be interesting to see is which buyer will stand out from the crowd. Last year had new player Row K Entertainment emerge as a serious buyer, but the company in March lost its key leadership amid reports of financial strain. Sales are off to a good start as Diego Luna s migrant drama Ashes sold ahead of it s
+
+### Carrie Teases Cyber Bullying and Bloodshed in Heartbreaking First Trailer
+Wed, 09 Sep 2026 13:06:40 +0000 — https://www.thewrap.com/creative-content/tv-shows/carrie-trailer-prime-video-stephen-king-mike-flanagan/
+
+The first trailer for Mike Flanagan s Carrie has finally arrived. The eight-episode series will premiere on Prime Video on Oct. 7. The trailer starts with Carrie (Summer H. Howell) walking into a classroom for the first time after being homeschooled all her life. Immediately she s met with sneers and sarcastic remarks from her classmates as they mock her for her homemade clothes and ignorance. I used to dream about this, Carrie says, holding a red Solo cup at a party and smiling broadly. Having friends. That dream quickly becomes a nightmare once Carrie gets her period in the locker room. As she panics over the blood, believing that something is seriously wrong, her classmates film her freakout and post it online. As tensions rise and the video becomes more popular, Carrie s psychic powers seem to strengthen. There s a 911 call reporting that someone is dead, and a young girl seemingly coughs up blood. The trailer then ends with Carrie donning a crown and standing onstage at a school dance. As any fan of Stephen King s novel or Brian De Palma s film adaptation knows, she s seconds away from one of the most consequential moments in her life. All I ever wanted was to go to school, Carrie says. Check out the first trailer below. The series stars longtime Flanagan collaborator Samantha Sloyan as Carrie’s mother Margaret. Sloyan and Howell are joined by Siena Agudong (“Resident Evil”) as Sue Snell, Alison Thornton (“Fire Country”) as Chris Hargensen, Joel Oulette (“My Life with th
+
+### Washington Sun Launches With 28 Washington Post Veterans
+Wed, 09 Sep 2026 13:01:07 +0000 — https://www.thewrap.com/media-platforms/journalism/washington-sun-launch-staff-washington-post-veterans/
+
+The Washington Sun officially launched Wednesday with a 110-person newsroom that includes at least 28 former Washington Post journalists, as the outlet formerly known as NOTUS expands into local news, sports, food and weather. The publication has more than doubled its staff in the past six months, editor-in-chief Tim Grieve said in a launch announcement Wednesday. Its newsroom now has 110 employees, up from 45 at the beginning of the year, according to The New York Times. “At least 28 of us are former Posties,” longtime Washington Post columnist Dana Milbank, who joined the outlet earlier this year, wrote in a column announcing the launch Wednesday. Other former Post journalists who have joined the Sun include congressional reporters Paul Kane and Kadia Goba, economics reporter Jeff Stein, restaurant critic Tom Sietsema and sports journalists Thomas Boswell and Dave Sheinin. The Sun has also entered into an exclusive licensing agreement with Capital Weather, the forecasting operation formerly known as the Post’s Capital Weather Gang, which will provide daily weather forecasts for the publication. The expansion comes after the Washington Post slashed its newsroom in a sweeping “strategic reset” in February, scaling back international coverage, restructuring its metro desk and ending its sports section in its previous form. More than 300 journalists lost their jobs. Grieve told the Times that the Post’s pullback created an opening for expanded local and sports coverage. “I thin
+
+### NFL Partners With Deestroying, Zach King, Dhar Mann and More Creators for the 2026-2027 Season Exclusive
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/culture-lifestyle/sports/nfl-creator-partners-2026-2027-season/
+
+Creators will be hitting the field for the 2026 NFL Kickoff game between the Seattle Seahawks and the New England Patriots. Both Deestroying ( 6.5 million YouTube subscribers ) and Zach King ( 43.4 million subscribers ) are partnering with the league to capture the excitement of the Super Bowl LX rematch, TheWrap has exclusively learned, and are just two of dozens of creators who will be part of the NFL s season this year. The kickoff game will air Wednesday at 8:20 p.m. ET on NBC and Peacock. Thursday night in the U.S. will see more than 100 creators traveling to the Melbourne Cricket Ground to watch the San Francisco 49ers face off against the Los Angeles Rams. Notable attendees include Australian singer and songwriter G FLIP, singer and pianist Harry Connick Jr., snowboarder Scotty James, singer Dannii Minogue, rapper and actor O Shea Jackson Jr., creator and wife of 49ers tight end George Kittle Claire Kittle ( 483,000 Instagram followers ), creator and designer Kristin Juszczyk ( 1.2 million Instagram followers ), creator Jay Mendoza ( 1.2 million TikTok followers ) and Mr. Chuy ( 3.1 million TikTok followers ). The NFL’s first-ever regular season game in Australia will stream on Netflix at 8:35 p.m. ET Thursday, Sept. 10 (10:35 a.m. AEST Friday, Sept. 11) and will include a halftime performance by the Jonas Brothers. With nine international games this season — the most in the history of the league — the NFL will invite creators in key markets to capture the game around 
+
+### As TIFF Launches Its First Market, Buyers Are on the Hunt for the Next ‘Obsession’
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/movies/tiff-market-preview-2026/
+
+At last year’s Toronto International Film Festival, an indie horror film made for less than $1 million with no recognizable stars debuted as part of the Midnight Madness section. It was received warmly – reviews were positive but not euphoric. A few weeks later, Focus Features acquired it for release for $16 million, on the higher end for acquisitions and a vote of confidence that it could do well. The studio staked out a May release date, hoping for a bit of counterprogramming opposite “Star Wars: The Mandalorian and Grogu” and “The Devil Wears Prada 2.” That indie movie was “Obsession.” It made over $500 million, catapulted its writer-director Curry Barker into one of the most in-demand filmmakers in town and launched Inde Navarrette into superstardom . Now, as the 2026 Toronto International Film Festival nears a year later, “Obsession” still lingers in the minds of buyers TheWrap spoke to ahead of the fest, which is also launching its first-ever official market this year. And although most agree that Barker’s horror smash is the exception not the rule when it comes to festival pickups, its box office success alongside other Gen Z-popular movies this year like “Backrooms” and A24’s “The Drama” has skewed what some buyers are looking for. The most important hook for a project is no longer a big name star or a piece of IP, but originality, they said. There s a heavy focus on finding movies that appeal to Gen Z as the younger generation shows an affinity for going to movie the
+
+### The Uprising Review: Andrew Garfield Medieval Epic Soars, Then Nosedives
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/movies/the-uprising-review-andrew-garfield-paul-greengrass/
+
+A lot of things were revolting in the 14th century: the bubonic plague, the Hundred Years War, the death of that “Braveheart” guy. But few things revolted harder than the English peasants. In 1381 they finally noticed everything sucked and they fought back against their rich and powerful oppressors, who incorrectly believed that if the serfs weren’t educated they couldn’t do the math. There are a lot more poor people than rich people, and if rich people don’t treat poor people with dignity, eventually there will be even fewer rich people — after a brief but noteworthy surge in the sale of executioner’s axes. History repeats itself. At least, Paul Greengrass seems to hope so. The director of two of the good “Jason Bourne” movies (and one of the bad ones) is back with another politically-charged film with propulsive pacing, intense violence, and a few wonky choices holding it back. “ The Uprising ” isn’t a parable about modern day income disparity, it’s a parable about what might happen tomorrow if the 99% focused all our rage the people actually oppressing us. And it’s a good parable until it loses its conviction. Andrew Garfield stars as Ploughman. He’s a man who ploughs. It’s not a complicated life, or at least it wouldn’t be if the aristocrats left him and his village alone. But England is broke, in more ways than one, and the powerful a-holes on King Richard II’s royal council — who make all the decisions because Richard (Woody Norman, “C’mon C’mon”) is still a child, and 
 
 ### Jon Stewart Blames Natalie Harp for Trump’s Warped Reality : This Is Unbelievable
 Wed, 09 Sep 2026 05:07:59 +0000 — https://www.thewrap.com/creative-content/tv-shows/jon-stewart-blames-natalie-harp-donald-trump-warped-reality/
@@ -252,95 +292,53 @@ Wed, 09 Sep 2026 04:28:17 +0000 — https://www.thewrap.com/creative-content/tv-
 
 Jimmy Kimmel returned from his summer break Tuesday and wasted no time taking aim at Donald Trump, mocking the president for accomplishing nothing all summer long. During Tuesday’s monologue on “ Jimmy Kimmel Live! ,” the late night host recapped all the “crazy stuff” Trump did while he was on vacation , highlighting that the president’s actions failed to address the issues that plagued the nation at the start of summer. When I left for summer break in the middle of June, the country was a mess. We were at war with Iran at that time. Gas prices were high at that time. Inflation was high. Mitch McConnell was either alive or dead. Nobody seemed to have any idea which, Kimmel said. The Lincoln Memorial reflecting pool was a big green slop hole. And now, only three months later, I am so pleased to report that thanks to your favorite president, DJ Jazzy Donald, every one of those problems has been solved. We made America great again. As Kimmel s studio audience erupted into a round of boos, the late night host feigned ignorance on their response: It said on Truth Social, he made America great again. Wait, are you telling me the president of the United States had three full months and spent $20 million and couldn t even get a pool cleaned? Kimmel then took further shots at the reflecting pool, mocking the Trump administration for turning it into gravy. How are we supposed to win the war with Iran when we can t even win the war against algae? he added. For God s sake, Trump s pool n
 
-### Sam Altman’s Brother Shares Blunt Reaction to Andrew Garfield in ‘Artificial’ Trailer
-Wed, 09 Sep 2026 03:17:01 +0000 — https://www.thewrap.com/creative-content/movies/sam-altman-brother-jack-reacts-first-artificial-trailer-andrew-garfield/
-
-The first trailer for Luca Guadagnino’s “Artificial” dropped Tuesday, putting Andrew Garfield’s portrayal of OpenAI CEO Sam Altman front and center. While the footage went viral throughout the day, there was one member of the Altman family who wasn t necessarily impressed with what he watched. On Tuesday evening, Jack Altman, a partner at the venture capital firm Benchmark and the younger brother to the tech mogul, took to X and shared his blunt reaction to the first trailer for Artificial. Look, you all know I d love nothing more than a feature length film making fun of my brother, he wrote . Unfortunately, based on the preview it looks like the only thing they got right is the walk. Several X users co-signed this sentiment, including Pirate Wires founder Mike Solana who called Garfield s take on the OpenAI boss walk actually uncanny . Artificial, which is set to premiere at the 2026 New York Film Festival on Oct. 5, stars Garfield as Altman and Ike Barinholtz as OpenAI co-founder Elon Musk. The film made headlines this summer after Amazon infamously dropped the Simon Rich-written and Guadagnino-directed project after it invested $50 billion in the artificial intelligence company. It was later picked up by Neon , which plans to release it in limited theaters on Christmas Day before giving it a wider rollout in January 2027. As for what viewers can expect from the upcoming film? The teaser showed Garfield’s Altman as he walked through a seemingly normal OpenAI compound – that
-
-### John Mulaney Eyed to Star in Warner Bros. ‘Get Smart’ Reboot
-Wed, 09 Sep 2026 02:09:36 +0000 — https://www.thewrap.com/creative-content/movies/john-mulaney-eyed-to-star-in-warner-bros-get-smart-reboot/
-
-John Mulaney is being eyed to star in the title role of what is being called the reimagining of spy comedy Get Smart at Warner Bros., TheWrap has learned. The Lego Batman Movie writer Seth Grahame-Smith is writing the screenplay. Additionally, Oppenheimer producer Charles Roven and Andrew Lazar are producing. However, the project is still in early development. For those unfamiliar with “Get Smart,” the sitcom was created by Mel Brooks and Buck Henry, debuting on NBC in 1965. The show – which starred Don Adams as agent Maxwell Smart – ran for five seasons, with the sitcom jumping to CBS for its fifth and final season in 1969. The series finale, titled, I Am Curiously Yellow,” aired on May 15, 1970. During its run, Get Smart won seven Emmy Awards, including twice for Outstanding Comedy Series. Steve Carell and Anne Hathaway later starred in the 2008 movie adaptation, aptly titled Get Smart, which made over $230 million at the global box office. As for Mulaney, the celebrated stand-up comedian is best known for his Emmy-winning specials, 2018 s John Mulaney: Kid Gorgeous at Radio City and 2023 s John Mulaney: Baby J. He is also known for his six-season writing stint on Saturday Night Live, where he co-created the Weekend Update character Stefon with Bill Hader. His other credits include Netflix s John Mulaney Presents: Everybody s in LA, IFC s Documentary Now!, Fox s Mulaney, Netflix s Big Mouth, Disney+ s Chip n Dale: Rescue Rangers and the Oscar-winning animated film Spider-Ma
-
-### Trump Launches Back-to-Back Attacks on ‘3rd Rate’ Kaitlan Collins and ‘Unattractive’ Maggie Haberman
-Wed, 09 Sep 2026 01:50:23 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-attacks-kaitlan-collins-maggie-haberman-truth-social/
-
-Donald Trump once again publicly criticized CNN s Kaitlan Collins and the New York Times Maggie Haberman, launching back-to-back attacks against the female journalists on social media. On Tuesday, the president kicked off his renewed attacks on female journalists by zeroing in on Collins on Truth Social, where he blasted her as a 3rd rate anchor. Very dumb and unhappy Fake News CNN reporter, Kaitlan Collins (really low ratings, also!), had a panel where discussions were all FICTION AND LIES, Trump wrote on Tuesday. You would think that CNN, which is suffering terribly in the TV Ratings, would get rid of their 3rd rate anchors, and try to bring credibility back to their once storied network. It is fading FAST! See you all at the Republican National Convention tomorrow night!!! In response to Trump s post, a CNN spokesperson told TheWrap Tuesday evening, “Kaitlan Collins is an exceptional journalist, reporting every day from the White House and the field with real depth and tenacity. She skillfully brings that reporting to the anchor chair and CNN platforms every day, which audiences around the world know they can trust.” Trump then followed this post up with a scathing rebuke of Haberman, who he suggested knows less about me than the average reporter on the beat.' We should note, Haberman received critical acclaim for her 2026 book with Jonathan Swan, Regime Change: Inside the Imperial Presidency of Donald Trump. Trump once more took umbrage with the New York Times story that 
-
-### Company Review: Casey Affleck s Nesting-Doll Narrative Is a Frustrating Slog
-Wed, 09 Sep 2026 01:45:00 +0000 — https://www.thewrap.com/creative-content/movies/company-review-casey-affleck-movie/
-
-Moving with all the urgency of molasses in winter, Casey Affleck s “Company” starts out intriguing enough. In the middle of a downpour, a mysterious young woman arrives at a suburban house where a Christmas party is in full swing; she s uninvited, but received warmly anyway, claiming that she was looking for a previous resident. By the glow of the fire with a cup of tea in hand, she introduces herself to the other partygoers as Evelyn, and begins to spin a yarn that she explains was told to her recently by a dying relative. From here a tiresome story-within-a-story-within-a-story format unfolds, with three connected stories taking place in 1975, 1953 and 1903 realized one by one like Russian nesting dolls. Purportedly, this gothic drama is about the limits of human compassion and the inevitable futility of revenge, but in reality, “Company” serves better as a test for the limits of audience patience due to its irritating habit of interrupting its own narrative. This is Affleck’s third directorial effort, following 2010’s mockumentary “I’m Still Here,” which covered Joaquin Phoenix’s short-lived pivot to a hip-hop career and 2019’s post-apocalyptic weepie “Light of My Life. Like his elder brother, Affleck obviously has a respect for the craft of filmmaking, and in “Company” he’s clearly taken cues from the directors he’s worked with previously. This film owes much of its visual style to Andrew Dominik’s “The Assassination of Jesse James, in which Affleck starred, and he even c
-
-### How Buddy, a Tale of Children s TV Gone Wrong, Became the Latest Indie Horror Hit
-Wed, 09 Sep 2026 00:22:53 +0000 — https://www.thewrap.com/industry-news/box-office/buddy-horror-film-indie-box-office-hit/
-
-At the end of a summer that brought us two of the biggest indie horror hits ever with Obsession and Backrooms, the box office got one last little boost from the genre with the feature debut of a director who made one of the biggest viral YouTube videos of the 2010s. Meet Buddy, a tale of a Barney the Dinosaur-esque orange unicorn voiced by Keegan Michael-Key who ruthlessly slaughters the children and adults who don t follow along on his TV show. Acquired by Roadside Attractions and Saban Films after its midnight section premiere at Sundance, Buddy opened to $5.3 million on Aug. 28, and followed it up in its second weekend with a slight increase to $5.7 million for the Friday-to-Sunday portion of Labor Day weekend. Now standing just shy of $16 million through Monday, Buddy is set to become the first Roadside Attractions title since the COVID-19 pandemic to clear $20 million at the U.S./Canada box office. Once it reaches $25 million, will become Roadside s third-highest grossing film of all time behind only the faith-based 2018 hit I Can Only Imagine, which grossed $83.4 million as a co-distributed title with Lionsgate, and the Oscar-winning Manchester By the Sea, which made $47.6 million in 2016 as a co-distribution with Amazon. I know there s a lot of talk about people in the film business treating it all like an algorithm game. But I don t feel that at all from this gang at Roadside and Saban Films, director Casper Kelly told TheWrap. The team that worked on releasing this f
-
-### Lonesome Dove TV Series Ordered at Netflix From Zoe Kazan and Jeb Stuart
-Wed, 09 Sep 2026 00:17:48 +0000 — https://www.thewrap.com/media-platforms/tv/lonesome-dove-tv-series-ordered-netflix-zoe-kazan-jeb-stuart/
-
-Netflix has given a straight-to-series order to an adaptation of Larry McMurtry s acclaimed Western novel Lonesome Dove from Zoe Kazan and Jeb Stuart. The streamer won the project in a competition situation from Teton Ridge Entertainment, which acquired the rights to Lonesome Dove and tapped Kazan and Stuart to develop the series. Kazan and Stuart will re-team as co-showrunners for Lonesome Dove after serving as co-showrunners for Netflix’s East of Eden adaptation, which will debut Oct. 1 on the streamer. Based on the first novel in the Lonesome Dove series, the TV adaptation will follow Gus McCrae and Woodrow Call as they renew their spirit of adventure as they face an uncertain future, embarking on one final, perilous cattle drive from the Rio Grande to the untamed wilderness of Montana in pursuit of a dream that they have perhaps already outlived. These two former Texas Rangers lead an unforgettable cast of characters across the American west in this sweeping odyssey defined by unrequited longing, unbreakable friendship, brutal frontier justice, and an unwavering pursuit of a meaningful life, the official logline reads. Kazan and Stuart will serve as co-showrunners, writers and executive producers, with additional EPs including Thomas Tull, Jillian Share and Jen Gorton of Teton Ridge Entertainment as well as Jon Jashni, Diana Ossana, Curtis McMurtry of the McMurtry Estate. After the book s 1985 publishing, Lonesome Dove was adapted into a four-episode CBS series starring R
-
-### Joe Biden Issues Health Update After Son Hunter Said His Cancer Had Spread
-Tue, 08 Sep 2026 23:55:32 +0000 — https://www.thewrap.com/media-platforms/politics/joe-biden-prostate-cancer-battle-update/
-
-President Joe Biden issued an update on his health while acknowledging Prostate Cancer Awareness Month, noting his radiation treatment worked as intended. Every September we mark Prostate Cancer Awareness Month. This year it’s more personal for me, the former president wrote in a post shared on X Tuesday . More than 330,000 American men this year will hear the words we did last spring when I was diagnosed with prostate cancer. Biden shared that by the time his doctors found his cancer it had already spread to his bones, but that when prostate cancer is caught early the five-year survival is close to 100%. So have the conversation with your doctor, he said. Don’t put it off. If you re at average risk, that conversation should start around 50, and the guidelines now say screening every 2 to 4 years. Every September we mark Prostate Cancer Awareness Month. This year it’s more personal for me. More than 330,000 American men this year will hear the words we did last spring when I was diagnosed with prostate cancer. By the time we found it, it had already spread to my bones.… &mdash; Joe Biden (@JoeBiden) September 8, 2026 He specifically shared that Black men should get tested earlier because they are nearly 70% more likely to get the disease and 2 to 4 times more likely to die from it. Which is an outrage in the richest country in the world, he added. Biden also shared that his radiation treatment from last fall worked as intended, adding, I continue to do the things I care about
-
-### ABC Brushes Off Inaccurate Report About Jimmy Kimmel Live Ending Next Year
-Tue, 08 Sep 2026 23:10:17 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-live-ending-abc-inaccurate-report/
-
-ABC denied a report that Jimmy Kimmel Live! will come to an end once the late night host s current contract expires in 2027. Though Page Six reported that Kimmel s contract would not be renewed past its expiry next year, ABC brushed off the information as inaccurate, telling media, any reports about the future of the show at this point are purely speculative.” The report — and denial thereof — comes as Kimmel prepares to return to the late night show following his usual summer hiatus. Like past summers, Kimmel and ABC enlisted a suite of guest hosts to take over hosting duties, which, this year, included Tiffany Haddish, Anthony Anderson, Ike Barinholtz, Colman Domingo, Rosie O’Donnell and Jelly Roll. Of those, O’Donnell made the biggest splash, ranking as the highest-rated summer substitute with an average total viewership of 2.17 million and a demo viewership of 237,000 viewers for the week of Aug. 17. Kimmel extended his deal with Disney to host ABC’s “Jimmy Kimmel Live!” in December 2025, bringing his contract through May 2027. By then, Kimmel will have marked 24 years on the air after debuting in 2003. That contract extension happened just months after his comments regarding the fatal shooting of Charlie Kirk stirred up controversy that took him off the air for nearly a week. He joked during Disney s upfronts earlier this year that he s been quite a liability for Disney, saying he s cost them “a lot of money this year, billions.” “It is very possible that no employee in 
-
 ## Collider
 
-### This Bonkers Hollywood Icon Officially Inspired 'Coyote Vs Acme's Most Important Character
-Wed, 09 Sep 2026 09:08:11 GMT — https://collider.com/coyote-vs-acme-real-life-inspiration-dr-lorre/
+### Two James Bond Contenders Unite in ‘Hell or High Water’ Director’s New Streaming Hit
+Wed, 09 Sep 2026 13:30:11 GMT — https://collider.com/theo-james-fuze-streaming-success-hbo-max-prime-video-september-2026/
 
-Much has been said, and rightly so, about how the critical and box-office success of Coyote vs. Acme has made a mockery of Warner Bros.' initial decision to shelve the completed film for a tax cut . That success redeems Ketchup Entertainment's commitment to releasing the movie and, in a broader sense, redeems a Looney Tunes franchise that Warner Bros. has epically mishandled under David Zaslav 's leadership. Interestingly, within the film itself lies the redemption of Dr. Lorre ( Eric Bauza ), a character who first appeared in 1946's "Hair-Raising Hare," in a small, but pivotal, role. But you may be surprised to know that the character was inspired by a Hollywood legend: Peter Lorre . And Dr. Lorre isn't the only animated character who can point to Lorre as inspiration, direct or otherwise .
+With the highly coveted role of James Bond reportedly having already been cast (according to Gary Oldman ), it seems like the producers have picked an actor from the latest shortlist that was doing the rounds. The list included three actors named Jack — Jack Lowden , Jack O'Connell , and Jack Barton — and two other favorites, Callum Turner and Jacob Elordi . It was previously reported that Amazon MGM Studios was looking at actors in their early 30s for the role, hoping that they would continue playing the character for several years. Daniel Craig 's tenure as Agent 007, for instance, lasted 15 years. If the gap between Bond eras not been so long, more actors would have been in contention, including two prominent favorites who starred together in a thriller film only last year. The movie in question witnessed a spike on two streaming platforms simultaneously this week.
 
-### Henry Cavill's New Guy Ritchie Action Thriller Is Officially One of the Biggest Streaming Hits in the World
-Wed, 09 Sep 2026 09:00:11 GMT — https://collider.com/henry-cavill-guy-ritchie-in-the-grey-streaming-success-release-date-starz-september-2026/
+### Marvel Officially Reunites Doctor Doom With His Perfect Love Interest
+Wed, 09 Sep 2026 13:30:11 GMT — https://collider.com/marvel-comics-doomquest-doctor-doom-valeria-romance/
 
-Now playing on home turf following a brief and disappointing theatrical run, Guy Ritchie 's latest movie is about to reach a wider audience this week. The film debuted theatrically earlier this year and failed to turn Ritchie's poor run at the box office around. The prolific filmmaker hasn't made a bona fide hit since Wrath of Man , which grossed a little more than $100 million worldwide in 2021. Since then, he has directed a handful of movies that have fallen short of box-office expectations, but have done tremendously well on PVOD and streaming. Increasingly, it seems like his movies get a theatrical run primarily as publicity for their eventual home-video release.
+Is Marvel trying to get us to sympathize with Doctor Doom before we officially meet Victor ( Robert Downey Jr. ) in the MCU when Avengers: Doomsday hits theaters? A tragic love story is certainly one way to do it . We've had our share of complicated villains, but very few of them have had actual romantic interests. This may have nothing to do with the elusive Latverian witches , but then again... maybe it does. Months before Doom hits the public, Marvel is showing us the man behind the mask and the one who got away. Two idioms for the price of one!
 
-### Every John Lennon Solo Album, Ranked
-Wed, 09 Sep 2026 09:00:11 GMT — https://collider.com/john-lennon-solo-album-ranked/
+### Marvel Officially Brings Back Frank Castle’s Most Overpowered Upgrade
+Wed, 09 Sep 2026 13:15:11 GMT — https://collider.com/the-punisher-issue-8-big-guns-war-machine-return/
 
-John Lennon 's solo career was incredibly prolific for how short it truly was. Through his partnership with Paul McCartney , Lennon made some of the greatest hits in music history, and created The Beatles ' sound. But as soon as the band broke up (and even before it was officially over), he worked hard to develop his own identity, separate from the Fab Four, and through a lot of experimentation on different genres and styles, he seemed to have found his signature sound right before his life and career were tragically cut short.
+As his one-man war on crime has unfolded, Frank Castle has unleashed his fair share of deadly weapons upon his foes. From a Colt .45 pistol to his signature Punishercopter, Marvel Comics has given him an entire arsenal worthy of a small military to clean up the streets over the years. To keep pace in a world of superheroes and villains, the trained soldier has even resorted to some more unconventional tools of destruction, whether by co-opting weapons like the Green Goblin's Pumpkin Bombs or, in one issue by Garth Ennis , commandeering a steamroller to flatten Wolverine for good. For someone of his lethality , the world is a weapon and anything can be used to his advantage.
 
-### ‘The Paper’ Season 2 Showrunners Reveal the ‘Office’ Reunion Scene They Cut
-Wed, 09 Sep 2026 07:00:11 GMT — https://collider.com/the-paper-season-2-office-reunion-scene-greg-daniels-michael-koman/
+### David Tennant's 10/10 Hulu Series Officially Confirms Release Date
+Wed, 09 Sep 2026 13:00:11 GMT — https://collider.com/rivals-season-2-part-2-release-date/
 
-Editor’s Note: The following contains full spoilers for Season 2 of ‘The Paper’
+Of all the shows to have returned in 2026 so far, few have been as indulgent as Rivals . The steamiest show on streaming didn't disappoint when it finally returned in May, as David Tennant 's dastardly Lord Tony Baddingham recovered from his fate in the Season 1 finale, with a bitter hunger for revenge raging. Thus, the high-stakes feud between Corinium Television and Venturer is taken to a new level, all culminating in a Season 2 mid-season finale cliffhanger that left audiences' jaws on the floor and a terribly sad funeral on the horizon.
 
-### 'Lanterns' Finally Fixes One of Superhero TV's Most Frustrating Problems
-Wed, 09 Sep 2026 04:45:11 GMT — https://collider.com/lanterns-show-fixes-superhero-tv-frustrating-problem/
+### Mike Flanagan’s New Stephen King Adaptation Officially Makes a Bold Change in Final Trailer
+Wed, 09 Sep 2026 13:00:11 GMT — https://collider.com/mike-flanagan-carrie-series-trailer/
 
-Editor's note: The below contains spoilers for Lanterns Episode 4.
+Stephen King ’s Carrie has been terrifying audiences for more than 50 years, and by now, almost everyone knows how this story ends. Carrie White goes to prom. A bucket of pig’s blood comes crashing down. What happens next has become one of horror’s most recognizable sequences , immortalized by Brian De Palma ’s 1976 adaptation and revisited several times in the decades since. That makes adapting Carrie again a difficult proposition, but Mike Flanagan has never exactly been afraid of King's works.
 
-### 6 Crime Shows That Are Better Written Than 'Breaking Bad'
-Wed, 09 Sep 2026 04:27:11 GMT — https://collider.com/crime-shows-better-writing-breaking-bad/
+### 10/10 Post-WWI Crime Thriller Officially Reveals Trailer for Final Season [Exclusive]
+Wed, 09 Sep 2026 13:00:11 GMT — https://collider.com/babylon-berlin-season-5-trailer-volker-bruch-liv-lisa-fries/
 
-Few shows have managed to take television by storm the way Breaking Bad did. Vince Gilligan ’s neo-Western crime drama gave the world one of the most iconic antiheroes of all time and constantly raised the bar with each season. For all its strengths, though, Breaking Bad is also a very specific kind of show. It often leans into the spectacle of violence, carefully engineered payoffs, and a central character arc that takes over the narrative most of the time.
+The end is swiftly approaching for Babylon Berlin . After four acclaimed seasons of tackling mysteries across Roaring Twenties-era Berlin, police detective Gereon Rath ( Volker Bruch ) and his partner Charlotte Ritter ( Liv Lisa Fries ) are about to face their darkest and most complicated chapter yet in the fifth and final run. While the series, based on Volker Kutscher 's Gereon Rath novels, has been set against the backdrop of rising extremism in the country, the shadow of fascism is about to become inescapable now that they're a few years into the 1930s and nearing a grim period in German history. Nearly four years after the Season 4 finale aired, Collider is proud to exclusively share the first trailer for Season 5, which illustrates the new challenges ahead for the two detectives as they try to continue their work in the final days of the republic .
 
-### 'The Dark Knight's Most Famous Line Wasn’t Written by Christopher Nolan and It Still Bothers Him
-Wed, 09 Sep 2026 03:36:11 GMT — https://collider.com/dark-knight-most-famous-line-christopher-nolan-harvey-dent/
+### Iron Man Officially Gets His Long-Dead Ally Back in New Marvel Release
+Wed, 09 Sep 2026 13:00:11 GMT — https://collider.com/iron-man-2026-issue-9-images-happy-hogan-revival/
 
-It takes a special kind of canonical classic to feature a line of dialogue so memorable that anyone could identify what movie it comes from without any context. "You either die a hero, or live long enough to see yourself become the villain," uttered by Harvey Dent ( Aaron Eckhart ) in The Dark Knight , fits the bill. In what is likely to remain his culturally definitive and most popular movie, Christopher Nolan , for better or worse, changed the film landscape forever by making a superhero movie feel like an American epic about crime, justice, and society's belief in costumed vigilantes as religious dogmas.
+Tony Stark may be the man behind the Iron Man armor , but he's never truly alone in his superhero duties or his business ventures. Throughout Marvel history on the page and screen, the billionaire has always enjoyed the company of friends, allies, romantic partners, and more who have helped him become a better person and a greater force for good. That includes his closest confidante, Pepper Potts , who remains key to running Stark Industries and has become a superhero in her own right, as well as his armored pal, James "Rhodey" Rhodes , the pilot of War Machine. With issue #9 of Joshua Williamson 's Iron Man series, though, another of his longtime allies is finally being brought back after nearly 20 years.
 
-### CBS Just Gave Network TV’s Best Show a Massive Season 3 Downgrade
-Wed, 09 Sep 2026 03:32:11 GMT — https://collider.com/cbs-best-show-matlock-season-3-13-episode-order/
+### Andrew Garfield's 'The Uprising' Is Not the Robin Hood Origin Story We Need
+Wed, 09 Sep 2026 13:00:11 GMT — https://collider.com/the-uprising-review-andrew-garfield/
 
-When you're a big TV fan, it's par of the course to receive some bad news every once in a while in between seasons. From shocking show cancellations to cast exits with little to no explanation, the TV world can be as unpredictable as it is entertaining. That's been especially the case for CBS shows, as the network recently made some bold moves to its lineup, which is leaving audiences as nervous as ever.
+Audiences like to rally behind Andrew Garfield . From his breakout performance as Eduardo Saverin in The Social Network to his surprise return as "Peter-Three" in Spider-Man: No Way Home , there's something about him that makes him easy to root for. We've followed him into the Pacific Theater of World War II in Hacksaw Ridge and through the streets of New York City in The Amazing Spider-Man . Will audiences follow him to medieval London to demand justice for a brutal tax collected from the poorest of the land? That's what Paul Greengrass is counting on in his latest movie, The Uprising .
 
-### 6 Near-Perfect Netflix Series Nobody Remembers
-Wed, 09 Sep 2026 03:18:11 GMT — https://collider.com/near-perfect-netflix-shows-nobody-remembers/
+### New ‘Kingdom Hearts’ Leak Officially Reveals the Franchise's Biggest Crossover Yet
+Wed, 09 Sep 2026 13:00:09 GMT — https://collider.com/kingdom-hearts-4-disney-worlds-achievement-leak/
 
-Netflix has one of the most impressive streaming libraries . The platform is basically known for turning a new series into the biggest thing on television practically overnight. The only problem is that a lot of other promising titles get buried under all that noise. It would make sense if these forgotten shows were nothing special, but plenty of shows on the streamer deserved more recognition than they got.
+### 5 LitRPG Books That Could Actually Work as TV Shows
+Wed, 09 Sep 2026 12:54:11 GMT — https://collider.com/best-litrpg-books-tv-shows-dungeon-crawler-carl-adaptation/
 
-### Robert Downey Jr.'s Bonkers Crime Thriller Is Now Forgotten — But It Helped Saved His Career
-Wed, 09 Sep 2026 01:43:11 GMT — https://collider.com/robert-downey-jr-kiss-kiss-bang-bang-mystery-thriller-val-kilmer/
-
-Though the second act of Robert Downey Jr. ’s career truly took off with 2008’s Iron Man , the film that set the stage for that comeback actually arrived three years earlier, with Shane Black ’s Kiss Kiss Bang Bang . The actor’s well-publicized legal troubles and issues with addiction made him a difficult figure in the entertainment industry, but somehow Black created the perfect star vehicle to begin to bring him back to Hollywood. In the vein of Black’s other screenplays, like Lethal Weapon or The Long Kiss Goodnight , the movie is self-referential and playful with genre conventions (while never going full Quentin Tarantino ), in addition to being an exciting mystery that also knows how to pull a lampshade over its convoluted plotting. The most fitting part of it for Downey is Black’s hilarious and fast-paced dialogue, which let the always fast-on-his-feet actor show his capability with line delivery.
+After taking over the world of books, Matt Dinniman's Dungeon Crawler Carl saga is about to dominate the realm of television. The behemoth novel series is being adapted into a TV show on Peacock , with Seth MacFarlane bringing it to life as an executive producer. The creative team is hard at work preparing the highly anticipated adaptation, and fans are gearing up for what could be one of the biggest shows on TV . With all the hype surrounding not just the upcoming show, but also the Dungeon Crawler Carl books themselves, one has to start wondering which book series in the popular LitRPG genre is going to be next in line.
 

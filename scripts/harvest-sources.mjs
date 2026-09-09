@@ -15,6 +15,7 @@
 
 import { writeFile, mkdir, rm } from 'node:fs/promises';
 import { publishedArticles, assess, report } from './editorial-mix.mjs';
+import { scan, report as eventReport } from './event-watch.mjs';
 
 // Widened on 6 September 2026, from 20 feeds to 36, because the two-source rule
 // can only be satisfied out of what lands in notes/feeds: the writer sits
@@ -187,6 +188,22 @@ index += `> **Every draft needs \`sources:\` with two different outlets.** Not t
 index += `> links to the same publication, which is one source read twice. If only\n`;
 index += `> one outlet has the story, write it, keep \`draft: true\`, and say so in\n`;
 index += `> the first line of the body. See notes/article-voice.md.\n\n`;
+// Above the standing rules, because it is the only thing here with a deadline.
+// The rule for this went in on 8 September and was missed again on 9 September:
+// the announcement sat in games.md both mornings and nothing read the feeds
+// looking for it. Now the harvest does.
+//
+// From what was just fetched, not from the directory. This file deletes
+// notes/feeds at the start and writes the category pages in the loop below, so
+// anything reading that directory here reads an empty one - which it did, and
+// silently produced no block at all.
+const broadcasts = scan(
+  results.flatMap((feed) =>
+    (feed.items ?? []).map((item) => ({ outlet: feed.name, title: item.title, link: item.link }))
+  )
+);
+if (broadcasts.length) index += eventReport(broadcasts);
+
 index += `> **A dated showcase gets two articles, not one.** A preview before it\n`;
 index += `> airs, carrying the stream link and the start time in Italian time, and a\n`;
 index += `> round-up an hour after it ends. Directs, State of Play, Xbox showcases,\n`;

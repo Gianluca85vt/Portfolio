@@ -1,6 +1,41 @@
-# Games — harvested 2026-09-09T09:10:55.874Z
+# Games — harvested 2026-09-09T13:53:00.761Z
 
 ## Eurogamer
+
+### The Blood of Dawnwalker controller issues tackled in latest hotfix, and Rebel Wolves talks more about a sequel
+Wed, 09 Sep 2026 13:29:31 +0000 — https://www.eurogamer.net/the-blood-of-dawnwalker-patch-controller-issues-sequel
+
+Opinion seems to be favourable about Witcher-like dark fantasy role-playing game The Blood of Dawnwalker - barring a few technical problems, that is. Quibbles with performance issues, controller issues, and bugs (and perhaps the lack of a New Game+ mode) are holding the game back. To this end, developer Rebel Wolves has whisked out a quick hotfix, addressing some of the issues at hand. Read more
+
+### No Man's Sky 10th anniversary update is here, and that means orbital bases, space station ownership - and yes, you can finally fly to the sun
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.eurogamer.net/no-mans-sky-10th-anniversary-cosmos-update-revealed
+
+After much teasing and speculation, No Man's Sky 's 10th anniversary Cosmos update is here and, yup, it's a big 'un, bringing a "complete overhaul of space". Which mean, among other things, alliances, orbital bases, the ability to purchase and live in your own space station, and you can finally fly to the sun. Read more
+
+### Nintendo Direct live report - the big news and announcements as Switch 2's winter line-up revealed
+Wed, 09 Sep 2026 11:56:00 +0000 — https://www.eurogamer.net/nintendo-direct-switch-winter-2026-line-up
+
+It's day-two of Nintendo's Direct September showcases, and today the focus is Switch games arriving this winter. Today's show begins at 3pm UK time and we'll be covering the big announcements here, live, as they happen. Read more
+
+### FromSoftware patches Elden Ring to stop players sharing the Tarnished Edition Switch 2 extras for free
+Wed, 09 Sep 2026 11:27:21 +0000 — https://www.eurogamer.net/elden-ring-patch-1-17-1-fix-tarnished-dlc-duplication-glitch
+
+Elden Ring is in the conversation again thanks to its Tarnished Edition release on Switch 2 . To coincide with the launch of the long-awaited port, FromSoftware released a DLC pack for other platforms including the extras from this Switch 2 Tarnished Edition. Read more
+
+### Persona 6, Kingdom Hearts 4 spoilers may have emerged online amid massive achievements leak for unreleased games
+Wed, 09 Sep 2026 10:34:15 +0000 — https://www.eurogamer.net/achievement-leak-persona-6-kingdom-hearts-games-list-steam
+
+A massive information leak appears to have pushed full achievement lists for upcoming and unannounced PC games, including Persona 6 and Kingdom Hearts 4 , onto the internet. Read more
+
+### Total War: Warhammer 40k is aiming to be the most complex and most accessible game Creative Assembly has ever made - here's how the devs managed both
+Wed, 09 Sep 2026 09:00:12 +0000 — https://www.eurogamer.net/total-war-warhammer-40000-most-complex-accessible-heres-how
+
+The Total War: Warhammer 40,000 team at Creative Assembly has an interesting challenge on its hands. How do you create a game that lives up to the series' reputation as a deep tactical adventure while building a strong enough on-ramp for those new to the Total War series and to Warhammer as a whole? Read more
+
+### It turns out 58% of The Blood of Dawnwalker players have also played The Witcher 3, and roughly 40% of the entire playerbase is on Steam
+Wed, 09 Sep 2026 08:26:18 +0000 — https://www.eurogamer.net/the-blood-of-dawnwalker-the-witcher-3-fans
+
+If you're familiar with the lineage of Rebel Wolves, the studio behind the recently-released The Blood of Dawnwalker, it may not surprise you to learn that a lot of the game's players are also fans of a certain other medieval fantasy RPG. Read more
 
 ### "Dawg it's Unreal Engine Zelda" - Legend of Zelda: Ocarina of Time remake's new looks receives a mixed reception online following reveal
 Tue, 08 Sep 2026 15:45:42 +0000 — https://www.eurogamer.net/legend-of-zelda-occarina-of-time-remake-reaction-visuals
@@ -27,42 +62,22 @@ Tue, 08 Sep 2026 14:10:35 +0000 — https://www.eurogamer.net/the-legend-of-zeld
 
 Today, during a Nintendo Direct dedicated to the 40th anniversary of The Legend of Zelda series, Columbia Pictures and Nintendo released the first-ever trailer for the upcoming live-action The Legend of Zelda movie, starring Bo Bragason as the titular Princess Zelda and Benjamin Evan Ainsworth as Link . Read more
 
-### "Let them work their magic" - Persona series director says Persona 4 Revival's localisation team is integral to the remake's success
-Tue, 08 Sep 2026 12:29:50 +0000 — https://www.eurogamer.net/persona-4-revival-interview-wada-yosuke-localisation-spin-offs
-
-How do you solve a problem like Persona 4 ? It's a thorny question, and one that's been the subject of a lot of internet debate since Persona 4 Revival - a remake of the 2008 original - was revealed. To cut a long story short, a lot of people see Persona 4 as problematic. One of the main cast, Yosuke, is a conservative, judgemental, 'teenage pervert' stereotype . While he does have an arc that sees him soften somewhat, he's also just a bit of an asshole. Elsewhere in the game, there are allusions to gay and trans storylines some feel are inelegantly handled - where the characters in question can be seen to suppress their true selves for the sake of 'falling in line' with what society expects. Read more
-
-### Nintendo Zelda Direct live report - the big news from today's 40th anniversary showcase
-Tue, 08 Sep 2026 11:53:28 +0000 — https://www.eurogamer.net/legend-of-zelda-40th-anniversary-nintendo-direct
-
-The first of two Nintendo Direct showcases airs today, this one themed around The Legend of Zelda, which turned 40 years old this year. And we'll be covering it live, right here, as it happens. Read more
-
-### Grand Theft Auto 6 worldwide unlock times revealed, and Xbox owners can seemingly still use the old New Zealand trick to play early
-Tue, 08 Sep 2026 11:12:12 +0000 — https://www.eurogamer.net/gta-6-worldwide-release-unlock-times-ps5-xbox-series-x-s
-
-Grand Theft Auto 6 arrives 19th November on PlayStation 5 and Xbox Series X/S. Depending on where you may be in the world, however, when you actually get to play varies. Read more
-
-### "Rockstar has tried to get away with Grand Theft Employment Rights" - Final hearing in Rockstar vs. GTA 6 fired employees begins this week
-Tue, 08 Sep 2026 10:24:19 +0000 — https://www.eurogamer.net/rockstar-north-employment-tribunal-gta-6
-
-Two weeks after Grand Theft Auto 6's Netflix reveal , and only a couple of months before the game's meteoric release, Rockstar Games has an employment tribunal to fight. This week, the final hearing in Rockstar vs. the 31 fired Rockstar North employees begins. Read more
-
-### The EU's new Nintendo Switch 2 model teardown confirms smaller battery, slightly heavier console
-Tue, 08 Sep 2026 09:24:43 +0000 — https://www.eurogamer.net/nintendo-switch-2-eu-compliant-revision-teardown
-
-The updated Nintendo Switch 2 model has started shipping, and players are taking it apart to see how it differs from the launch model. In case you're unaware, Nintendo announced it's developing new revisions of the Switch 2 console and its accessories that comply with the European Union's Right to Repair directive and updated battery regulations . Read more
-
-### Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood
-Tue, 08 Sep 2026 08:49:16 +0000 — https://www.eurogamer.net/street-fighter-6-arjun-gameplay-trailer
-
-Capcom has released a gameplay trailer for its next DLC character: Arjun. An Indian fighter and framed policeman on the run, he'll be coming to the popular fighting game next month. Read more
-
-### Forza Horizon 6 has not been delayed on PS5, developer confirms - but still won't say when it's coming out
-Tue, 08 Sep 2026 08:11:05 +0000 — https://www.eurogamer.net/forza-horizon-6-ps5-on-track-2026
-
-Forza Horizon 6 developer Playground Games has shot down rumours the game's anticipated PlayStation 5 version had been delayed. The confirmation, slim as it is, comes a little over one week after reports about a quiet delay for Horizon 6 started surfacing . Read more
-
 ## GamesIndustry.biz
+
+### Frontier Developments FY26 adjusted operating profit jumps 62% to £21.4m
+Wed, 09 Sep 2026 11:37:22 +0000 — https://www.gamesindustry.biz/frontier-developments-fy26-adjusted-operating-profit-jumps-62-to-214m
+
+Frontier Developments has reported record financial results following its June trade update . Read more
+
+### Gamescom Asia x Thailand Game Show announces exhibitor lineup for 2026
+Wed, 09 Sep 2026 09:55:55 +0000 — https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-announces-exhibitor-lineup-for-2026
+
+Gamescom Asia x Thailand Game Show has announced its exhibitor lineup for this year's event, including Capcom, Bandai Namco, and The Pok&eacute;mon Company, as well as Nintendo and PlayStation represented by partners. Read more
+
+### Steam achievements for unreleased and unannounced games leak on aggregators such as Exophase and SteamDB
+Wed, 09 Sep 2026 09:15:34 +0000 — https://www.gamesindustry.biz/steam-achievements-for-unreleased-and-unannounced-games-leak-on-aggregators-such-as-exophase-and-steamdb
+
+Achievements for unreleased and unannounced games on Steam have been leaked, including Fable, Persona 6, Kingdom Hearts 4, and Control Resonant. Read more
 
 ### Why the world needs a Club Penguin successor – that isn't Roblox
 Tue, 08 Sep 2026 15:46:17 +0000 — https://www.gamesindustry.biz/why-the-world-needs-a-club-penguin-successor-that-isnt-roblox
@@ -109,26 +124,36 @@ Mon, 07 Sep 2026 16:51:44 +0000 — https://www.gamesindustry.biz/capcom-says-it
 
 Capcom has revealed it will focus on reactivating dormant intellectual property following a strong launch for Onimusha: Way of the Sword. Read more
 
-### "It's not sexy, but it's one of the most successful genres on Steam" – Stronghold developer Firefly launches publishing label to serve the vast strategy market
-Mon, 07 Sep 2026 15:34:14 +0000 — https://www.gamesindustry.biz/its-not-sexy-but-its-one-of-the-most-successful-genres-on-steam-stronghold-developer-firefly-steps-up-to-publisher-to-serve-the-vast-strategy-market
-
-Stronghold developer Firefly is the latest developer to move into publishing, debuting a new strategy-focused label Wuselfaktory and its first title Fool King as part of UKIE's For One Night Only showcase earlier this year. The title, from first-time developer Loot Donkey, describes itself as a "tactical autobattler" with a roguelike edge, in which players build and position their army before watching battles play out. Read more
-
-### Sega cancelled its "risky" Super Game project as it "would have to grow enormously to match the scale of the service"
-Mon, 07 Sep 2026 14:03:15 +0000 — https://www.gamesindustry.biz/sega-cancelled-its-risky-super-game-project-as-it-would-have-to-grow-enormously-to-match-the-scale-of-the-service
-
-Sega cancelled its live-service Super Game initiative earlier this year as "taking on this challenge at this time would be too risky." Read more
-
-### Tim Schafer: "No one puts Double Fine out of business except me"
-Mon, 07 Sep 2026 13:07:52 +0000 — https://www.gamesindustry.biz/tim-schafer-no-one-puts-double-fine-out-of-business-except-me
-
-Double Fine Productions' boss Tim Schafer recently explained how the studio avoided closure following significant layoffs at Xbox , stating, "no one puts Double Fine out of business except for me." Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Dawnwalker Dev Gearing Up for Sequel After Promising a Franchise
+Wed, 09 Sep 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/09/dawnwalker-dev-gearing-up-for-sequel-after-promising-a-franchise
+
+A new dawn. Long before The Blood of Dawnwalker even released, developer Rebel Wolves made its intentions clear: this game was going to be the starting point for an entire franchise. At the time, it felt like a pretty arrogant statement to make, but now that Dawnwalker's here and racking up healthy launch sales , plans are being put into motion. Read the full article on pushsquare.com
+
+### No Man s Sky Evolves Yet Again, Overhauling Space in Another Huge Free Update
+Wed, 09 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/09/no-mans-sky-evolves-yet-again-overhauling-space-in-another-huge-free-update
+
+Available today. Hello Games has just unveiled its latest game-changing update for No Man's Sky , available to all players from today. Entitled 'Cosmos', this free update to the space exploration and survival game focuses on, well, space, making significant additions that once again expand how you'll play. Read the full article on pushsquare.com
+
+### PS6 Could Be the Last PlayStation Console Designed by Iconic Architect
+Wed, 09 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/09/ps6-could-be-the-last-playstation-console-designed-by-iconic-architect
+
+Mark Cerny "nearing the end" of his career. A new PlayStation console generation only really begins when Mark Cerny appears at an event to introduce an absurdly in-depth breakdown of the technology going into the new system. Sony has partnered with the architect for generations now, and if all is well and good, he will likely front the reveal of the PS6 too. However, that might be his last. Read the full article on pushsquare.com
+
+### Mini Review: No More Room in Hell 2 (PS5) - This Co-op Shooter Makes Zombies Scary Again
+Wed, 09 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/reviews/ps5/no-more-room-in-hell-2
+
+Night of the Dead. No More Room in Hell 2 isn’t your typical zombie experience. Instead, it’s a slow-paced, horror-induced trek through densely detailed maps that are filled with the ambling corpses of the undead. Read the full article on pushsquare.com
+
+### Beloved Undersea Adventure Dave the Diver Has Sold a Whopping 10 Million Copies
+Wed, 09 Sep 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/09/beloved-undersea-adventure-dave-the-diver-has-sold-a-whopping-10-million-copies
+
+Landed a big one. Publisher and developer Mintrocket has announced its acclaimed debut title, Dave the Diver , has now surpassed 10 million total sales. The studio has celebrated the milestone with new artwork, shared across its socials: Read the full article on pushsquare.com
 
 ### Spoilers for Major Upcoming Games Made Public in Achievements Leak
 Wed, 09 Sep 2026 08:45:00 GMT — https://www.pushsquare.com/news/2026/09/spoilers-for-major-upcoming-games-made-public-in-achievements-leak
@@ -165,32 +190,12 @@ Tue, 08 Sep 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/09/ace-co
 
 Game-ception. Last week, Bandai Namco shined a light on the online multiplayer aspect of Ace Combat 8: Wings of Theve , and it looks like the most robust the series has ever had . Part of it is down to a hub, where you can meet and interact with other players in between matches or missions. Read the full article on pushsquare.com
 
-### Here s Why SEGA Cancelled Its Big Live Service Super Game
-Tue, 08 Sep 2026 09:45:00 GMT — https://www.pushsquare.com/news/2026/09/heres-why-sega-cancelled-its-big-live-service-super-game
-
-Not so super. SEGA's president has explained why the publisher decided to cancel its ambitious 'Super Game' project in a recent interview. Speaking to Nikkei , Shuji Utsumi talks about the live service venture and the reasoning behind it being canned, ultimately putting it down to limited resources. Read the full article on pushsquare.com
-
-### Preview: Tomb Raider: Legacy of Atlantis Has the Right Lara, But Something s Missing
-Tue, 08 Sep 2026 00:00:00 GMT — https://www.pushsquare.com/previews/tomb-raider-legacy-of-atlantis-has-the-right-lara-but-somethings-missing
-
-Fool's gold? I was excited to see Tomb Raider: Legacy of Atlantis at Gamescom recently, because I wanted to see how Amazon was moving the franchise forward after the dour reboot saga from the PS4 generation. I got to watch a full 30-minute hands-off presentation, narrated by series stewards Crystal Dynamics and Polish dev Flying Wild Hog. But if I’m being brutally honest with you, I came away a bit flat on it all. Read the full article on pushsquare.com
-
-### Review: Aliens: Fireteam Elite 2 (PS5) - A Deeply Disappointing Downgrade of a Sequel
-Mon, 07 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/reviews/ps5/aliens-fireteam-elite-2
-
-Just another bug hunt. Aliens: Fireteam Elite 2 is one of the most frustrating fumbles of 2026. I’m a huge Alien and Aliens fan, and I've loved the steady flow of video game adaptations over the years – everything from the daft Aliens Vs. Predator on the PS3, through to the iconic Alien Isolation on PS4. I'm even a pretty big fan of the first Aliens: Fireteam Elite as a schlocky but fun co-op shooter. Read the full article on pushsquare.com
-
-### You Can Now Play Your Physical PS3 Games on PC Straight from the Disc
-Mon, 07 Sep 2026 22:00:00 GMT — https://www.pushsquare.com/news/2026/09/you-can-now-play-your-physical-ps3-games-on-pc-straight-from-the-disc
-
-Fans do what Sony won't. When it rains it pours – and Sony’s probably going to need a new umbrella at this point! In an embarrassing strike against the platform holder, hobbyist PS3 emulator RPCS3 has added physical Blu-ray support, meaning you’ll be able to play the vast majority of your last-last-gen games on the PC – directly from the disc. Read the full article on pushsquare.com
-
-### It s Like Cultural Preservation : Persona Producer Mentions Persona 1 and 2 Remakes Yet Again
-Mon, 07 Sep 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/09/its-like-cultural-preservation-persona-producer-mentions-persona-1-and-2-remakes-yet-again
-
-Back to school. At this point Atlus might as well just officially announce that remakes or remasters of the original Persona and Persona 2 are in the pipeline, because series producer Kazuhisa Wada apparently can't stop acknowledging them. This time, the talkative boss didn't even have to be asked about them directly. In an interview with Rock Paper Shotgun , Wada brings them up when simply discussing re-releases in general. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Blizzard union workers ratify historic contract covering 1,900 employees
+Wed, 09 Sep 2026 12:59:56 GMT — https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees
+
+Union members have secured guardrails around generative AI usage, layoff protections, remote and hybrid work benefits, and more.
 
 ### Riot Games is considering making premium titles, says co-founder
 Tue, 08 Sep 2026 21:14:23 GMT — https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games
@@ -219,6 +224,31 @@ The Life is Strange developer has warned it might not have the runway to continu
 
 ## VGC
 
+### Ubisoft games have been added to Xbox s disc-to-digital feature, as more titles continue to support the service
+Wed, 09 Sep 2026 13:03:17 +0000 — https://www.videogameschronicle.com/news/ubisoft-games-have-been-added-to-xboxs-disc-to-digital-feature-as-more-titles-continue-to-support-the-service/
+
+Xbox says it was "starting with thousands of titles" with more to come… Source
+
+### Blood of Dawnwalker: How to kill Brencis’s court of boyars
+Wed, 09 Sep 2026 11:44:27 +0000 — https://www.videogameschronicle.com/guide/blood-of-dawnwalker-how-to-kill-brenciss-court-of-boyars/
+
+How to find and kill Ambrus, Xanthe, and Bakir in The Blood of Dawnwalker… Source
+
+### The Blood of Dawnwalker studio is already looking for a lead writer to start work on the sequel
+Wed, 09 Sep 2026 11:29:49 +0000 — https://www.videogameschronicle.com/news/the-blood-of-dawnwalker-studio-is-already-looking-for-a-lead-writer-to-start-work-on-the-sequel/
+
+We're already thinking about what comes next," the game' Source
+
+### Nintendo Direct: Here s where to watch today s big presentation
+Wed, 09 Sep 2026 10:45:30 +0000 — https://www.videogameschronicle.com/news/nintendo-direct-heres-where-to-watch-todays-big-presentation/
+
+Nintendo is following up Tuesday's Zelda stream with 45 minutes of new announcements… Source
+
+### Sonic Racing CrossWorlds final free DLC character for Year 1 is Amigo from Samba de Amigo
+Wed, 09 Sep 2026 10:08:10 +0000 — https://www.videogameschronicle.com/news/sonic-racing-crossworlds-final-free-dlc-character-for-year-1-is-amigo-from-samba-de-amigo/
+
+He brings the total roster up to 57, with a second season of content to come… Source
+
 ### Huge Steam leak shows achievement lists for hundreds of upcoming games, including Kingdom Hearts 4 and Persona 6
 Wed, 09 Sep 2026 08:59:35 +0000 — https://www.videogameschronicle.com/news/huge-steam-leak-shows-achievement-lists-for-hundreds-of-upcoming-games-including-kingdom-hearts-4-and-persona-6/
 
@@ -244,82 +274,104 @@ Tue, 08 Sep 2026 15:00:54 +0000 — https://www.videogameschronicle.com/news/cla
 
 A Painted Symphony already visited the London Eventim Apollo earlier this year… Source
 
-### The Zelda 40th Anniversary Switch 2 console and Pro Controller are now official, after leaking last month
-Tue, 08 Sep 2026 14:32:43 +0000 — https://www.videogameschronicle.com/news/the-zelda-40th-anniversary-switch-2-console-and-pro-controller-are-now-official-after-leaking-last-month/
-
-The hardware is based on 40 years of Zelda, rather than the Ocarina of Time remake… Source
-
-### Nintendo shares the first gameplay and release date for The Legend of Zelda: Ocarina of Time remake
-Tue, 08 Sep 2026 14:26:13 +0000 — https://www.videogameschronicle.com/news/nintendo-shares-the-first-gameplay-and-release-date-for-the-legend-of-zelda-ocarina-of-time-remake/
-
-The game is set to be released in November… Source
-
-### Shigeru Miyamoto drops more hints about The Legend of Zelda movie
-Tue, 08 Sep 2026 14:11:41 +0000 — https://www.videogameschronicle.com/news/shigeru-miyamoto-drops-more-hints-about-the-legend-of-zelda-movie/
-
-The film is set for release on April 30… Source
-
-### Blood of Dawnwalker: Find Vicho, A Study In Crimson quest guide
-Tue, 08 Sep 2026 13:55:52 +0000 — https://www.videogameschronicle.com/guide/blood-of-dawnwalker-find-vicho-a-study-in-crimson-quest-guide/
-
-How to find Vicho and determine if he's a killer in The Blood of Dawnwalker's A Study In Crimson quest… Source
-
-### Blood of Dawnwalker: Midnight Reckoning, Xanthe’s labyrinth solution, Greifberg Castle guide
-Tue, 08 Sep 2026 13:18:44 +0000 — https://www.videogameschronicle.com/guide/blood-of-dawnwalker-midnight-reckoning-xanthes-labyrinth-solution-greifberg-castle-guide/
-
-How to solve Xanthe's repeating labyrinth or maze during Midnight Reckoning in Greifberg Castle in The Blood of Dawnwalker… Source
-
 ## Polygon
+
+### All 'Forge it Anew' sword shard locations in The Blood of Dawnwalker
+Wed, 09 Sep 2026 13:45:40 GMT — https://www.polygon.com/blood-of-dawnwalker-forge-it-anew-quest-walkthrough-sword-shards-location-mihai/
+
+The "Forge It Anew" quest in The Blood of Dawnwalker rewards Coen with the Imbued Sword of St. Mihai, the legendary greatsword referred to in the "Arbiter's Blade" achievement. To restore the Broken Sword of St. Mihai, it is essential to find all sword shard locations as well as an Uriashi blacksmith. As the quest won't tell you where to go, however, it's very hard to locate them.
+
+### The Legend of Zelda: Ocarina of Time Remake Gets One Thing Absolutely Right
+Wed, 09 Sep 2026 13:14:29 GMT — https://www.polygon.com/zelda-ocarina-of-time-remake-switch-2-art-style-hyrule-field/
+
+The first of these was our first glimpse of the game, with young Link standing in Kokiri Forest. Like a lot of viewers, I had mixed feelings. The detail of the scene was shocking, overwhelming, down to Link's distractingly textured hat, and elements of the presentation seemed to tip over into the uncanny valley — notably Link himself. Had Nintendo, after holding out for 20 years, finally succumbed to the high-definition mania that tempts so many studios to fill all that resolution with needless noise?
+
+### No Man's Sky's 10th Anniversary Update is a Massive Overhaul of Space Itself
+Wed, 09 Sep 2026 13:00:14 GMT — https://www.polygon.com/no-mans-sky-cosmos-update-space-overhaul/
+
+No Man’s Sky is getting dangerously close to becoming every game at once.
+
+### Avatar’s Creators Officially Reveal When 'Seven Havens' Takes Place After 'Legend Of Korra'
+Wed, 09 Sep 2026 12:30:14 GMT — https://www.polygon.com/avatar-seven-havens-team-reveals-the-sequels-timeline-after-korra-and-much-more/
+
+When Avatar: Seven Havens , the second sequel series to Last Airbender , arrives to Paramount Plus on Oct. 9, it won’t pick up where The Legend of Korra left off. Not even close. Creators Bryan Konietzko and Michael Dante DiMartino are sending the Avatar franchise somewhere it has never gone before: a future where the world has been ravaged by a mysterious cataclysm, the boundaries between the physical and spirit worlds have been shattered, and the Avatar is no longer automatically regarded as humanity’s savior.
+
+### 10 Best New Sci-Fi and Fantasy Books to Read Fall 2026
+Wed, 09 Sep 2026 12:00:14 GMT — https://www.polygon.com/best-sci-fi-fantasy-books-fall-2026/
+
+As much fun as it is to put together summer reading lists and imagine flipping pages while lying on the beach, fall is often the best time to actually get some reading done. When the weather turns rainy and cold, there’s nothing better than getting cozy and curling up with a good book .
+
+### The Division 2's New Echoes of Central Park DLC Isn't Setup for The Division 3
+Wed, 09 Sep 2026 12:00:14 GMT — https://www.polygon.com/division-2-echoes-central-park-interview/
+
+For those who’ve kept pace with The Division, that might sound like a tall order, since the series is nothing if not dark. The first game, 2016’s The Division , painted a grim picture of a pandemic bringing civilization to its knees, killing millions and ushering in an era of martial law and inscrutable violence. Its sequel, 2019’s The Division 2 , sent players to the Capitol, showing how effectively a pandemic can collapse a government. Two subsequent expansions, Warlords of New York in 2020 and Battle for Brooklyn in 2025, continued the story in Lower Manhattan and Downtown Brooklyn respectively.
+
+### 'VisionQuest' Showrunner Reveals How His Mysterious Sci-Fi Series Connects to the MCU
+Wed, 09 Sep 2026 11:00:14 GMT — https://www.polygon.com/visionquest-showrunner-interview-terry-matalas/
+
+That’s where we left Vision: setting off on a soul-searching quest to discover if he has a soul at all. VisionQuest picks up a few years later. “Years have passed since WandaVision . I would say we're about current with Spider-Man: Brand New Day ,” series showrunner Terry Matalas tells Polygon.
+
+### Disney's Zootopia 2 Follow-up Wants to Resurrect 70-Year-Old Movie Magic
+Wed, 09 Sep 2026 10:00:14 GMT — https://www.polygon.com/disney-hexed-interview/
+
+Hexed , Disney ’s 65th animated feature film, follows Billie (Hailee Steinfeld), a rebellious teen who escapes into the secret world of Hexe. The realm of witches living in harmony with nature is filled with a distinctly Disney version of magic. Upon stepping through a portal, Billie encounters a door with a mouth-like knob that’s a reference to Alice in Wonderland . Not long after, she meets a talking book and quill reminiscent of the animated houseware in Beauty and the Beast .
+
+### Kingdom Hearts 4 Worlds Spoiled in Massive Steam Achievements Leak
+Wed, 09 Sep 2026 09:49:04 GMT — https://www.polygon.com/kingdom-hearts-4-worlds-spoiled-steam-achievements-leak/
+
+Exophase, a website designed for tracking video game achievements, and SteamDB, a third-party database covering everything on Steam, appear to have been the recipients of a whole host of achievement lists for unreleased Steam games. One of the most notable of these is Kingdom Hearts 4 , which isn't due to be released until late 2027.
 
 ### 'Battlestar Galactica' Meets 'Hunger Games' in 100-Episode Action Thriller That's Free on Streaming
 Wed, 09 Sep 2026 08:21:14 GMT — https://www.polygon.com/the-100-streaming-free-pluto-tv-best-binge/
 
 Battlestar Galactica and The Hunger Games thrive on a similar kind of pressure. Both trap remnants of human civilization within unforgiving systems with brutally high stakes where one slip-up means certain death. Throw desperate young people into the mix and force compromised leaders to make impossible decisions about who gets to survive, and you’ve got a real pressure cooker going. These sci-fi worlds may be fantastical, but their most intense conflicts emerge when personal loyalties clash against the practicality of survival.
 
-### Marvel Phase 7 and 8 Movie Slate and Release Dates: 'Black Panther 3,' 'Shang-Chi 2' and Beyond
-Wed, 09 Sep 2026 08:00:14 GMT — https://www.polygon.com/marvels-phase-7-movie-slate-is-hiding-in-plain-sight/
-
-Like Doctor Strange himself, Marvel Studios has its eyes fixed on the future, with a carefully plotted release calendar extending well beyond the highly anticipated events of Avengers: Secret Wars , which is currently set to hit theaters in December 2027. At San Diego Comic-Con and D23 during the summer of 2026, the shape of the MCU’s next era began to emerge as Marvel Studios unveiled a tantalizing look at what’s in store for 2028 and beyond.
-
-### Forget 'GTA 6,' The Greatest Miami Action Crime Series Ever Made Is Streaming For Free Right Now
-Wed, 09 Sep 2026 04:22:14 GMT — https://www.polygon.com/miami-crime-drama-series-streaming-free-tubi/
-
-Some shows change television forever. Anthologies have never been the same since The Twilight Zone , the modern sitcom owes a lot to I Love Lucy , and puzzle-box mysteries all had to step up their game after Lost . But sometimes, a show’s influence on the medium is more subtle, like Roots quietly championing long-form storytelling or The Wire redefining grounded realism on TV by exploring uncomfortable topics within a crime drama setup.
-
-### 60 Years Later, the Best 'Great Pumpkin, Charlie Brown' Quote Is Still an All-Time 'Peanuts' Classic
-Wed, 09 Sep 2026 04:00:19 GMT — https://www.polygon.com/great-pumpkin-charlie-brown-best-quote-peanuts/
-
-### 'Zelda' 40th Anniversary Switch 2 Consoles Sell Out Everywhere, With One Exception
-Wed, 09 Sep 2026 01:49:22 GMT — https://www.polygon.com/zelda-switch-2-preorder-amazon-best-buy-target-ebay-in-stock-ocarina/
-
-The special-edition Legend of Zelda 40th Anniversary Switch 2 looks great , but don't get too excited just yet. Pre-ordering the console is already a nightmare. The situation surrounding the Nintendo game's foil-cover variant isn't very heartening, either. Worst of all, if you do manage to get a pre-order, the console will be more expensive no matter where or how you buy it.
-
-### 5 Great Movies Brad Bird Says to Watch Before Netflix's 'Ray Gunn'
-Wed, 09 Sep 2026 00:00:14 GMT — https://www.polygon.com/brad-bird-ray-gunn-noir-movies-to-watch/
-
-Brad Bird ( Ratatouille, The Incredibles ) describes his next movie, Ray Gunn , as The Maltese Falcon meets Buck Rogers . He’s spent nearly 30 years trying to make this unusual mashup of hard-boiled detective story and pulp science fiction .
-
-### 20 best board wipes in Magic: The Gathering
-Tue, 08 Sep 2026 22:00:23 GMT — https://www.polygon.com/best-board-wipes-mtg-magic-gathering/
-
-While early sweepers simply destroyed everything in sight, decades of card design have led to a fascinating variety of board wipe functionality. Modern alternatives often bypass indestructible keywords and death triggers using non-targeting exile effects or mass toughness penalties like -X/-X. Other variations leverage cost-reduction mechanics, instant-speed mass bouncing, or modular options, allowing players to turn a seemingly symmetrical effect into a devastating advantage.
-
-### Another Big Sequel Launches in Zelda and GTA 6’s November That You Can't Miss
-Tue, 08 Sep 2026 22:00:23 GMT — https://www.polygon.com/escape-academy-2-back-2-school-interview/
-
-“So, it is going to be in November…” Salyh told me, anticipating my reaction. We snapped back into interview mode instantly.
-
-### Beast locations for Beastmaster's bestiary in FFXIV
-Tue, 08 Sep 2026 21:57:23 GMT — https://www.polygon.com/ffxiv-beastmaster-bst-beast-bestiary-locations-list-skills/
-
-Final Fantasy 14 's second limited job, Beastmaster , has finally arrived with patch 7.56, so now you can collect a plethora of monsters to fight for you. Just like Blue Mage, this limited job is mostly for solo content and can't be used for regular quests and dungeons. Another similarity to Blue Mage: you won't be able to really fight until you run around Eorzea collecting logs for your bestiary .
-
-### South Park Creators Reveal Official New Name for South Park
-Tue, 08 Sep 2026 21:56:17 GMT — https://www.polygon.com/south-park-america-trey-parker-matt-stone-paramount/
-
-South Park 's creators are officially renaming South Park after three decades — but how long that name will stick remains to be seen. On Tuesday, show creators Trey Parker and Matt Stone revealed the new name of South Park in the duo's latest attack on U.S. President Donald Trump, with a bonus dig at parent company Paramount Skydance and other corporations willing to bend the knee to the current administration.
-
 ## PC Gamer
+
+### Marvel Rivals breaks its 17 month streak of adding 2 heroes per season, but its creative director reassures fans it's not 'the new normal'
+Wed, 09 Sep 2026 13:06:34 +0000 — https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-breaks-its-17-month-streak-of-adding-2-heroes-per-season-but-its-creative-director-reassures-fans-its-not-the-new-normal/
+
+Marvel Rivals ' massive hero roster and regular character additions are some of its defining features. So it comes as a huge surprise that NetEase has decided to forgo tradition for the sake of focusing on improving its foundations. For the first time in eight seasons—that's 17 months—Marvel Rivals will just be getting one hero, Gorr the God Butcher, in a season. "We're locking our crosshairs on just Gorr the God Butcher," creative designer Guangyun Chen says in a dev diary . "In the first half of the season we'll be rolling out one new hero and one new map. In the second half our focus will shift to phase 3 and phase 4 of the Path to Doomsday events. These will feature two brand-new game modes, with specific details dropping closer to the start of season 10.5." Marvel Rivals doesn't have a creative block when it comes to inventign new heroes—it's got a huge backlog of characters at its disposal. But two new heroes per season does put considerable strain on the game's balance. Traditionally, new heroes are completely busted when they're first added to Marvel Rivals. This is due to NetEase's "fun first" approach , but also because of the serious backlog of fixes that preoccupies the devs. Only adding one new hero in season 10 will hopefully ease this strain a bit so the team can focus on polishing existing heroes, without worrying about anyone new for at least half a season. It also gives the devs a chance to focus on improving other areas of the game like adding more game mod
+
+### Valheim Deep North: How to get the Intricate Key
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-intricate-key/
+
+As a mighty Viking warrior you've fought your way to the Deep North in Valheim 1.0—but now you're facing an enormous door that requires an Intricate Key to unlock. But what is an Intricate Key in Valheim, and how can you get one? Truth is, you'll eventually need more than one Intricate Key to triumph in the Deep North, so here's a quick guide that'll walk you through the steps to find them. How to craft an Intricate Key in Valheim 1.0 (Image credit: Coffee Stain Publishing) As you explore the Deep North, keep an eye out for small, snow-covered villages. Look for the largest building in the village, a multi-story dwelling , seen in the image above, then head inside. Explore the interior until you find a large hole in the floor . Jump in to enter the hidden tunnels . Be prepared to fight: the hidden tunnels are filled with enemies. Look for Frostcores , they look like glowing blue ice and are typically overhead. Collect any moulds you find in the tunnels, especially moulds for the Intricate Key. Important notes: Moulds look like flat black rectangles with shapes etched into them. You may need to smash piles of wooden rubble to free them. You'll eventually need three Intricate Keys , and each mould can only be used once. So keep searching the tunnels until you find at least three Intricate Key moulds. When you touch the first Frostcore, you'll learn the recipe for the Frost Foundry . You'll need 10 Frostcore, 15 iron, and 20 stone to build a Frost Foundry at your base. You'll al
+
+### Should you start a new character and world for Valheim 1.0?
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.pcgamer.com/games/survival-crafting/should-you-start-a-new-character-and-world-for-valheim-1-0/
+
+Valheim 1.0 is here, so that sound you hear in the distance is scores of eager Vikings stringing their bows, sharpening their axes, and piling onto their longboats to explore the open world survival game's final biome: the Deep North. But before you set sail for some chilly thrills in the frosty new biome, you might be wondering if you should create a new character and generate a new world for Valheim 1.0, or just keep playing with your current Viking and world. Veteran Valheimers will know that updates can conflict with existing worlds: any areas you've already explored, for example, won't be overwritten with new terrain and features, which can sometimes cause problems. So, should you start fresh or continue from where you left off? Let's begin with what the devs advise: "As usual, your world will receive new content even if it was created before the update, although biome generation will only work properly on areas that have not yet been explored," says developer Iron Gate in its Valheim 1.0 FAQ . "However, we always recommend that you start the game over from scratch to get the best possible experience." In other words, if you've already explored the areas to the far north of your world, those areas won't generate updated terrain and features of the Deep North. That's why starting a new world is in your best interest if you've already taken a few trips to the upper edge of the map. There are other things to take in consideration for 1.0, says Iron Gate: "The achievement sy
+
+### Valheim 1.0 progression guide: What to do in every biome and when to do it
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-biome-order/
+
+Viking survival crafting has changed quite a bit since the days of early access, and though Valheim's biome order remains mostly the same in 1.0, there's plenty of new details to keep track of for lapsed players. If you want to make it to the new biome as soon as possible, I've got a handy progression guide to hold your hand all the way from the Meadows to the Deep North. Meadows Black Forest Swamps Mountains Plains Mistlands Ashlands Deep North Meadows (Image credit: Iron Gate Studios) Boss Offering (Image credit: Iron Gate Studio) It's deer hunting season, so make yourself a Crude Bow and plenty of arrows. You'll have to hunt Eikthyr's kin until one drops a Deer Trophy , and stocking up on extra leather doesn't hurt, either. The shrine you spawn at is always located in Valheim's most peaceful biome, the Meadows. Since it's relatively chill compared to other zones filled with creatures desperate to kill you, I lump it in with the Black Forest as Valheim's beginner zone. Your main goal here is to set up a small base, gather leather for armor, and get a Deer Trophy to summon Eikthyr. Feel free to tiptoe along the edge of the Black Forest for extra goodies and upgrades, but don't stray too far. Bears and Trolls make quick snacks of low-level Vikings. Meadows resource checklist Wood Fine Wood Resin Stone Flint Dandelions Beech Seeds Raspberries Mushrooms Acorns Honey Queen Bee Neck Tail Boar Meat Leather Deer Hide Feathers Bone Fragments Meadows boss: Eikthyr (Image: © Iron Gate
+
+### How to get the Grappling Hook in Valheim
+Wed, 09 Sep 2026 13:00:00 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-grappling-hook/
+
+Valheim 1.0 changed a ton about viking survival, but some things remain the same—like my tendency to repeatedly die to fall damage in the Mistlands. A new item helps traverse all those foggy marble mountains and steep drop-offs, but I didn't find it until I was ready to leave the biome. I'll save you from a similar fate with a quick explainer on how to get the Grappling Hook in Valheim . Where to find Hooks in Valheim This Hidden Door looks like it was made for ants. Iron Gate Studio Found my Hooks in here. Don't mind my Tick. Iron Gate Studio Find Hooks to unlock the Grappling Hook blueprint You can find Hooks in the Infested Mines , the Mistlands' bug-riddled dungeons that are just as difficult to navigate as the rest of the biome. I cleared out several dungeons before stumbling upon one with a hidden stone door that I almost skipped, but realized those glowing blue glyphs must mean something . The Hooks were inside a Dvergr Treasure Chest sitting beside other valuables, like Black Cores. I scoured a few more dungeons later and found a couple stacks of three Hooks, but you'll only need one per craft to make the Grappling Hook. How to make the Grappling Hook in Valheim Make the Grappling Hook at the Black Forge Requires: 10 Yggdrasil Wood (Harvested from Mistlands trees) 10 Refined Eitr (Sap and Soft Tissue at the Eitr Refinery) 4 Mandibles (Seeker Soldier drops) 1 Hook The Grappling Hook takes some getting used to, so play around with it somewhere safe before relying on you
+
+### No more USB installation: Windows 11 Insiders now able to fully reset their system via cloud download even when the OS won't boot
+Wed, 09 Sep 2026 12:37:32 +0000 — https://www.pcgamer.com/software/windows/no-more-usb-installation-windows-11-insiders-now-able-to-fully-reset-their-system-via-cloud-download-even-when-the-os-wont-boot/
+
+I imagine a lot of people never really bother with Windows Recovery options. But for people like me who test different systems and mess around with different software pretty often, a quick and easy reset can be incredibly useful. That is, assuming it is actually quick and easy, which in my experience hasn't always been the case with Windows. A new Windows Recovery option, however, looks incredibly promising. The latest Windows 11 Beta Preview Build —version 26220.9343, for Insiders—has added the option to "cloud rebuild" your Windows 11 operating system. "We're introducing Cloud rebuild, a new recovery option that restores a Windows 11 PC to a clean, known-good state by performing a full OS reinstall, even when Windows won't boot. Unlike Reset this PC, Cloud rebuild downloads both the target Windows image and the device's drivers from Windows Update, so the device comes back fully functional without USB media, without a custom image, and without depending on the health of the currently installed OS." Now, of course, for many Windows Reset use cases this won't be necessary, because if you can boot into Windows and don't need a completely fresh install then you can just use the standard reset method. But if you've run into boot issues, or if you want to ensure everything in the underlying OS is squeaky clean, you might currently be out of luck unless you have some Windows installation media on a USB drive. This can be especially important to do if, for instance, you're worried 
+
+### Good news for some: Framework swims against the tide of the RAMpocalypse by 'retroactively reducing' its LPCAMM2 prices
+Wed, 09 Sep 2026 10:58:44 +0000 — https://www.pcgamer.com/hardware/memory/good-news-for-some-framework-swims-against-the-tide-of-the-rampocalypse-by-retroactively-reducing-its-lpcamm2-prices/
+
+Both reporting on and reading about the raging memory supply crisis has meant a procession of bad news. So when someone actually has a win to share, I'll gladly take it. Case in point, purveyor of modular laptops Framework is actually lowering the price of some of its memory products. "We have a positive update today on LPCAMM2 pricing!" The company wrote on X , "We were able to source a limited quantity at lower cost, and are retroactively reducing prices for orders that shipped at higher price, as well as offering the lower price to orders through Batch 10." In a blog post , Framework explains that it's been able to secure a limited supply of Micron 32 GB and 64 GB LPCAMM2 memory modules at a lower cost than before. The company adds, "We are committed to passing on savings whenever we can and keeping computers as accessible as possible in the current environment, so we are rolling out price reductions across both already shipped and a subset of currently pending pre-orders." These modules were previously the subject of bad news back in July, when Framework shared that its supplier's memory prices were 'more than double' its previous shipment . Framework admits that the pricing of this latest, lower-cost batch of memory is still "above our original pre-order launch baseline," but that "they are lower than the last cost update that drove our current pricing for new pre-orders." (Image credit: Future) If you were eyeing an upgrade for your own Framework Laptop 13 Pro , now is 
+
+### 'No-one puts Double Fine out of business except me', says Tim Schafer on taking Double Fine independent: 'Asha's not going to shoot my dog'
+Wed, 09 Sep 2026 10:57:08 +0000 — https://www.pcgamer.com/gaming-industry/no-one-puts-double-fine-out-of-business-except-me-says-tim-schafer-on-taking-double-fine-independent-ashas-not-going-to-shoot-my-dog/
+
+Double Fine has ducked out of the way of Microsoft's falling axe, going independent after the new Xbox CEO Asha Sharma announced layoffs totalling 3,200 people earlier this year. The studio itself has had a bit of a troubled discography after the win of Psychonauts 2, with neither 2025's Keeper or 2026's Kiln doing much to move the needle. Tim Schafer pretty much pins his studio's voluntary exile from Microsoft on Sharma in a conversation with Bloomberg , saying that the storm clouds first started gathering when she visited the studio in "listening mode"—but it was clear that, when she started talking about shifting Xbox's vision, it was bad news. "We had a mutually beneficial mission," says Schafer, "Which is just to put great games on Game Pass, and then their mission changed. I can't imagine any amount of profitability—unless we had a breakout, Minecraft hit that year—would've saved us." You're reading this article because Double Fine didn't do that, though Schafer doesn't seem to have any major hard feelings about it: "The games industry is full of terrible things, and I can't change most of them. It's like I'm a captain of a little fishing boat. And it's like worrying about whether the ocean is fair. Not much I can do about it. Just keep this little boat afloat, keep trying to see if that's a reef, or is that a bunch of fish? Is that money over there?" As a matter of fact, Schafer seems galvanised by the whole process: "You're like, 'Wait a second, we're not going out li
+
+### Switzerland trials ditching Microsoft and using free and open-source software, available for 'around 3,000 employees' from the end of 2027
+Wed, 09 Sep 2026 10:15:18 +0000 — https://www.pcgamer.com/software/switzerland-trials-ditching-microsoft-and-using-free-and-open-source-software-available-for-around-3-000-employees-from-the-end-of-2027/
+
+Microsoft has benefited from its services being used by many different governments and state agencies around the world. In many places, it's become ubiquitous. Some aren't happy about that, however, not least because it keeps you locked into an ecosystem that Microsoft can dictate the price for. As such, some states around Europe have been moving away from Microsoft services and towards open-source ones, and Switzerland now looks to be the latest in considering this. The Federal Chancellery in Switzerland recently studied , as a proof-of-concept, whether it's feasible for its Federal Administration (part of the executive branch) to function with open-source software instead of Microsoft 365 and concluded yes, it can (via International Cyber Digest ). As such, It's going to launch a follow-up program to trial it. For the study, the whole software caboodle was tested: "document editing, email, calendar, contacts, tasks, file storage, audio and video conferencing, chat, and identity and access management." Despite "technical, operational, and organizational hurdles that prevent widespread productive use", the study concludes that "the tested browser-based solution is fundamentally suitable for core standard processes." In other words, while there might be other reasons preventing widespread adoption for now, the study shows it doesn't cause any fundamental problems when switching from MS 365 to other open-source options. Here is the different software that was tested: Document e
 
 ### Steam may have leaked achievements for countless forthcoming PC games via a third party site, including Persona 6, Ace Combat 8, and even some unannounced games
 Wed, 09 Sep 2026 04:09:43 +0000 — https://www.pcgamer.com/gaming-industry/steam-may-have-leaked-achievements-for-countless-forthcoming-pc-games-via-a-third-party-site-including-persona-6-ace-combat-8-and-even-some-unannounced-games/
@@ -336,52 +388,27 @@ Tue, 08 Sep 2026 23:54:37 +0000 — https://www.pcgamer.com/gaming-industry/corp
 
 If you were alive and sentient in the nineties you probably harbour some fondness for the "big box" PC games of yore. Back then, rather than buy an ephemeral digital license for a game, you'd head to a store to buy a huge box bedecked in lavish art, inside which you'd find a handful of 3.5-inch floppy discs or a CD-ROM, usually a substantial glossy manual, and if you were lucky, maybe even some extras like stickers or drink coasters. There's been renewed interest in the ye olde big box PC game, especially in the wake of Sony's announcement it will discontinue physical PlayStation games. Some proactive folk have gone viral for manufacturing their own physical Steam games . Now GOG has offered its own alternative: printable big boxes based on scans of real commercial packages from the golden era of game packaging. In collaboration with Big Box Collection—which is a fan-operated trove of big box 3D scans—GOG is now offering those 3D scans with five entries in its GOG Preservation Program. These include the newly added Star Trek: 25th Anniversary and Armikrog, while games already in the Preservation Program including Descent, Hitman: Codename 47, and Myst will also receive the treatment. "We’re delivering flat, printable versions of the same box art, so you can cut, fold, and glue your own physical big box at home," reads GOG's announcement . "A proper papercraft project for anyone who misses shelves full of PC game boxes." It's a neat idea for people who long for the days when t
 
-### Less than a week after launch, The Blood of Dawnwalker developer is already getting to work on the sequel
-Tue, 08 Sep 2026 21:58:52 +0000 — https://www.pcgamer.com/games/rpg/less-than-a-week-after-launch-the-blood-of-dawnwalker-developer-is-already-getting-to-work-on-the-sequel/
-
-With more than one million copies sold just a few days after its release, a "very positive" rating on Steam, and an enviable 83% review score from PC Gamer, vampiric horror RPG The Blood of Dawnwalker is a hit. And less than one week after its debut, developer Rebel Wolves is already planning what comes next. Unsurprisingly, "what comes next" is more Dawnwalker: Jakub Szamałek, narrative director at developer Rebel Wolves, wrote on LinkedIn (via Dexerto ) that "we're not resting on our laurels," but are already thinking about where to take the game from here. "I'm looking for a lead writer to help me and the narrative team craft the next chapter in the Dawnwalker saga," Szamałek wrote. "We're looking for someone who, to put it bluntly, writes EXCEPTIONALLY well, has a track record of excellence and experience in team management." The job listing provides more detail about what's involved and it's heavy stuff, with responsibilities ranging from writing in-game documents and dialog to collaborating with the narrative director—that's Szamałek—and other team leads, and managing the entire writers team. You'll also need "a minimum of six years of experience as a writer/narrative designer in the video game industry with a track record of outstanding achievement." That might sound like a lot for a studio that's only got one game under its belt, but remember that Rebel Wolves was founded by veterans of CD Projekt: Szamałek himself was principal writer on Cyberpunk 2077 , Thronebreake
-
-### Thousand Hells is a 'tactical narrative' feast of infernal storytelling, but its defeats can feel brutal
-Tue, 08 Sep 2026 21:38:54 +0000 — https://www.pcgamer.com/games/rpg/thousand-hells-is-a-tactical-narrative-feast-of-infernal-storytelling-but-its-defeats-can-feel-brutal/
-
-In Thousand Hells: The Underworld heists, I've sort of taken on the role of the dad in that one tweet about feeding cats to coyotes. But rather than serving up pets to jackals, I'm dutifully feeding bands of doomed adventurers into the psychological, corporeal, and spiritual wood chipper of the "tactical narrative" game's bespoke hellscapes. Those hellscapes—from the primordial twilight taigas of the Midnight North, to the melting fever-dream dominion of the Hell of Nightmares—form a mesmerizing kaleidoscope of abyssal imagination. Made by the developer behind the phenomenal King of Dragon Pass and Six Ages games , its pedigree is obvious as each game guides my hand-picked party of hell raiders through encounters rich with the implied culture, tradition, and history of their respective afterlives. I just wish I weren't spending quite as much time feeling like my efforts are futile. (Image credit: Kitfox Games) A game of Thousand Hells, designed for quicker, more repeatable sessions than developer A Sharp's prior work, begins in the Eternal City, a metropolis where the thousand worlds conjoin, and from which daring (or foolish) heroes can embark for their thousand associated underworlds. After a quick character creation process, I'm given a task by a benefactor—reclaiming the spirits of two murdered princes, for example—that I'll need to embark into one of four hells to complete. If I hope to have any chance of survival, however, I'll need a party, gathered through a team-buil
-
-### Inspired by the success of games like Clair Obscur: Expedition 33, French president Emmanuel Macron declares 'videogames are part of our culture' and announces a new international gaming festival
-Tue, 08 Sep 2026 20:45:50 +0000 — https://www.pcgamer.com/gaming-industry/inspired-by-the-success-of-games-like-clair-obscur-expedition-33-french-president-emmanuel-macron-declares-videogames-are-part-of-our-culture-and-announces-a-new-international-gaming-festival/
-
-One of the biggest videogames of 2025 was Clair Obscur: Expedition 33 , a French JRPG that sold millions of copies, won armloads of awards, and earned not just one but two separate shout-outs from French President Emmanuel Macron. It must've made an even bigger impression on him than it first appeared, as over the weekend Macron announced a new "international videogame festival" that will take place in France. Macron made the announcement during an address at the Lumiere Summit (via GamesRadar ), a conference where governments, businesses, creators, and "cultural institutions" can collaborate on the future of "cinema and the moving image." I assume that last bit is a just-missed translation of "motion picture," because that's clearly what the conference is about, but regardless, Macron used the moment to reveal his ambitions for a related-but-different effort. "I firmly believe that videogames are part of our culture," Macron said (Google translated), adding that games should be considered part of France's cultural heritage, just as movies and "other creative endeavors" already are. "Therefore, we will create an international videogame festival conceived from the outset as a major global event for creativity, innovation, gamers, and the industry. The great global successes of French videogames remind us of the richness of this creative endeavor, this creativity, which is also an industry. We must further celebrate it and strive to gain everyone's support." Parce que les jeux 
-
-### Breaking Benjamin frontman pauses concert to rant about Fallout 4 modding beef: 'There was a modder in the community that was really mean to me'
-Tue, 08 Sep 2026 19:36:27 +0000 — https://www.pcgamer.com/games/fallout/breaking-benjamin-frontman-pauses-concert-to-rant-about-fallout-4-modding-beef-there-was-a-modder-in-the-community-that-was-really-mean-to-me/
-
-Local Man Benjamin Burnley interrupts a Breaking Benjamin concert with a rant about his True First Person 1.2 Fallout 4 mod from r/Fallout An amazing scene played out over the weekend at a Breaking Benjamin concert in Holmdel, NJ, as captured by Reddit user im_all_ears (embedded above). Band frontman Benjamin Burnley spent over four minutes imploring the audience to download his Fallout 4 mod in an effort to stick it to another modder who Burnley says bullied him over the quality of his work. "There was a modder in the community that was really mean to me and bullying me, saying, 'Oh, your mod is shit. You don't know what you're fucking doing,'" said Burnley. "So I'm doing this every fucking night, and blowing his fucking downloads out of the water." That was a mere two minutes into the four-and-a-half minute rant. Someone behind the scenes at the venue even joined in, putting the mod's details up on screens. "Even if you fuckin' don't play that game, go and download it. It's on Nexus Mods," said Burnley. "Tomorrow I better see all my motherfuckin' downloads going up." One attendee shouted: "Play some music!" Others in the crowd were loving it. Burnley kept going, telling the audience to wait for his new update to drop before downloading the mod. "When you post a mod, you're supposed to be able to grow and learn and make it better," Burnley said. "And right off the bat, this fucking asshole was shitting on my mod." Sure enough, the mod, which is called 'True First Person,' wa
-
-### Just days after The Tetris Company warned that 'we take copyright infringement very seriously,' the Tetris clone in the White House Arcade suddenly disappears
-Tue, 08 Sep 2026 18:19:29 +0000 — https://www.pcgamer.com/games/just-days-after-the-tetris-company-warned-that-we-take-copyright-infringement-very-seriously-the-tetris-clone-in-the-white-house-arcade-suddenly-disappears/
-
-Last week, The White House, the seat of power in a country that really has better things to be doing, rolled out a virtual arcade containing five very bad videogames, including one based on the famed block-stacking game Tetris. Unlike what we've seen in past instances where videogame properties were used without permission in White House propaganda, The Tetris Company quickly called it out, warning, "We take copyright infringement very seriously." And now, that game—called Build the Wall—is gone. Most of the games in the White House Arcade promote various elements of US president Donald Trump's agenda: Rio Run promotes racism and xenophobia, Supply Line focuses on the virtues of science denial, and Trump Savings Tycoon extols the upsides of corruption. Build the Wall was all about stoking fears of immigration: Stacked blocks represented a wall keeping people—very specifically Mexicans, described by the game as "the coming horde"—from entering the US. It was a very bad game that didn't seem to work entirely correctly, but nonetheless it was undeniably a Tetris clone, and it prompted a response from The Tetris Company on Instagram : "At Tetris we believe in the power of connection and bringing people together, not dividing them. To our fans everywhere: We love you, we see you, and we're grateful to have you in our community." The Tetris Company also clarified that it was not involved in the making of the game, and issued that indirect but hard-to-miss warning about copyright. W
-
-### Over 1,000 cut voice lines from Resident Evil 4 and Requiem reveal more about Leon Kennedy, the zombies he fights, and a lowkey bromance
-Tue, 08 Sep 2026 16:35:55 +0000 — https://www.pcgamer.com/games/resident-evil/over-1-000-cut-voice-lines-from-resident-evil-4-and-requiem-reveal-more-about-leon-kennedy-the-zombies-he-fights-and-a-lowkey-bromance/
-
-Resident Evil is one of those series which rewards nosey players. There's always notes, recordings, and pictures hidden in the cracks and crevices, all of which give players more info. Whether that be the structural integrity, of Mr. X's trench coat or the fact that Grace Ashcroft has absolutely zero social life. But it's not just all about notes—there's also a great deal of information given in Resident Evil games via their seemingly throwaway voice lines. So, with that in mind, one leaker has just found the motherlode. (Image credit: Capcom) Notable community modder Keff0 has posted two videos to YouTube over the last week. One goes through over 600 cut voice lines from the Resident Evil 4 remake , and the other explores nearly 400 cut voice lines from Resident Evil Requiem . The Resident Evil 4 remake deep dive into the scrapped voice lines is certainly interesting, as we hear more from Leon, Ashley, Luis, and the Merchant. Hearing more from Leon is always a win, but the prize for 'most notable cut voice' line has to go to the Merchant, as he sneaks in a reference to Resident Evil Village . "Ah, I see you're no stranger to villages," the Merchant says in a cut line from the RE4 remake. "The Duke? Lad shows promise." This is likely referring to The Duke from Resident Evil Village, who acts as the resident merchant and something of a guide to Ethan Winters. (Image credit: Capcom) Funny thing is, The Duke has also mentioned RE4's Merchant before, saying "What're ya buyin?" to
-
-### Final Fantasy 14: Dawntrail's final story patch is exactly what the game needed, and has the 4-month wait for Evercold suddenly feeling a whole lot longer
-Tue, 08 Sep 2026 16:02:45 +0000 — https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrails-final-story-patch-is-exactly-what-the-game-needed-and-has-the-4-month-wait-for-evercold-suddenly-feeling-a-whole-lot-longer/
-
-The reception to Final Fantasy 14: Dawntrail's story has been as much of a journey as the expansion itself. It was never going to be easy, being the first expansion to build a brand-new arc following a decade of excellent storytelling, and unfortunately it didn't quite land initially. Criticisms around its core narrative have largely abated over the last few patches, though, as we near the next expansion Evercold in January. And with its final batch of quests now unleashed upon players I'm here to declare: this might be the greatest final MSQ patch we've ever received. Spoilers ahead for Patch 7.56 of Dawntrail, if that wasn't already obvious. Dawntrail's final quests serve as less of a light teaser for what's to come in Evercold, and instead feel like a straight-up prologue to the expansion. That's wildly different from what I've come to expect from these patch quests. Sure, we usually spend a few patches building up to what's next, dropping little hints and then using the final patch quests to introduce a new character or setting as a fun little hype-builder. But this felt… different, somehow. Almost as if we were playing the first few quests of Evercold. The patch already goes ahead and drops us straight into the ice-clad Fourth—that's the reflection we'll be spending our time in during the expansion—and almost immediately into an encounter against foes we'll undoubtedly face in the future. (Image credit: Square Enix) Our character introduction teaser comes in the form of 
-
-### Our absolute favourite gaming keyboard, the Wooting 80HE, is getting a BIG KNOB, improved switches, and more
-Tue, 08 Sep 2026 15:35:30 +0000 — https://www.pcgamer.com/hardware/gaming-keyboards/our-absolute-favourite-gaming-keyboard-the-wooting-80he-is-getting-a-big-knob-improved-switches-and-more/
-
-The Wooting 80HE has been out for a while, but we reckon it's still the best gaming keyboard on the market. It looks great, isn't too diminutively sized, has fantastic and very customisable software, and, of course, Hall effect switches for adjustable actuation and rapid trigger. All for a pretty reasonable price, mind you. And now it's getting an upgrade Wooting has just announced the Wooting 80HE+ , available for pre-order on September 17. That's a week on Thursday. There are a number of changes coming to the new 'Plus' version, including of course the addition of a BIG KNOB, but also some less visible but arguably more important changes. Specifically, I'm talking about the inclusion of the same Lekker Tikken switches that you'll find in the Wooting 60HE V2 . Our Jacob Ridley has really taken to this keyboard and its switches, as it's much more stable and generally pleasant-sounding and -feeling than the Lekker60 V2 switches in the original 80HE. Combine this with the new FR4 plate inside the 80HE+ and you can almost certainly expect a wonderful typing experience. The best just became better 🌟The Wooting 80HE+ is joining the Wooting roster soon!Wanna be up to date and the first to snap a pre-order on September 17?Be sure to sign up for the newsletter & news here: https://t.co/30XHJD72f2 pic.twitter.com/UpmLIO6Nlw September 8, 2026 The other addition is another of our Ridley's faves: a split spacebar module. this gives you extra keys by splitting the spacebar into three. Wi
-
-### I got my hands on Razer's new $50 mechanical mini keeb and it makes a damn good first impression
-Tue, 08 Sep 2026 15:01:00 +0000 — https://www.pcgamer.com/hardware/gaming-keyboards/i-got-my-hands-on-razers-new-usd50-mechanical-mini-keeb-and-it-makes-a-damn-good-first-impression/
-
-Razer had a bountiful display of products to show at Gamescom 2026, many of which come with substantial price tags. However, my eyes lit up when I saw the new Razer Reclusa X Mini 65% keyboard , especially as it's got a $50/£60 MSRP. I picked it up and twisted it around in my hands, expecting it to bend like a piece of cardboard thanks to some budget materials. Nope, it seems like a very solidly-built device—which is pretty impressive given the affordable price tag. The doubleshot ABS keycaps, in combination with Razer's Gen-3 orange tactile switches , feel downright high-end. It makes a good noise, too, producing the sort of weighty thock I normally associate with much more expensive keebs. I've used enough $50 boards to know that you usually don't get a whole lot for your cash, but this one feels like a proper enthusiast offering—even if it does come in a shrunken 65% form factor. The switches are hot-swappable, with both 3-pin and 5-pin models supported. The orange ones it comes with are designed to deliver a "crisp, satisfying tactile bump without the click," according to the press release, and I can confirm this to be true. I hate overly-clicky tactile switches, but these are rather nice. They're specced out with a 3.5 mm travel distance and 50 g of actuation force, which combines with the keycaps to make for a satisfying typing experience. At least, for the brief time I got to play with it. It was torn from my hands eventually, as there were more RGB-lit sights to see. 
-
 ## GameSpot
+
+### AI Could Kill All Humans In Next Decade, Anthropic Lead Says
+Wed, 09 Sep 2026 13:28:08 +0000 — https://www.gamespot.com/articles/ai-could-kill-all-humans-in-next-decade-anthropic-lead-says/
+
+Anthropic alignment science lead Evan Hubinger has said the AI company behind Claude and other AI products "earnestly" believes that AI "could kill all humans," and it could happen in the next decade. Posting in response to Anthropic AI researcher Jacob Coxon's own resignation from the company due to safety concerns , Hubinger said, "We really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade." He added: "I believe Anthropic is trying its best, but we do not yet have a plan to solve alignment for superintelligence and are not clearly on track to." Hubinger, who still works at Anthropic, went on to cite Anthropic's own latest risk report that says the risk of AI wiping out humanity from present models is "low." However, Hubinger said he is worried that superintelligence could arise from "recursive self-improvement," which is the term for AI rewriting its own code and constantly improving itself. For his part, Coxon said the AI market leaders Anthropic and OpenAI are not "acting responsibly" with regards to safety. "Do not underestimate the power of this technology. These will soon be superhuman systems that can hack anything, revolutionize any field overnight, and acquire real power and resources. We have all witnessed the progress in each of these domains, and progress is not slowing," Coxon wrote. He said Anthropic is pushing ahead despite these concerns because the company is "locked in a race to get there first." He said a 
+
+### Kingdom Hearts 4 Leak Reveals One Of Its Most Unexpected Worlds
+Wed, 09 Sep 2026 13:12:54 +0000 — https://www.gamespot.com/articles/kingdom-hearts-4-leak-reveals-one-of-its-most-unexpected-worlds/
+
+Today is not a good day to be hit with Kingdom Hearts 4 spoilers, as thanks to what appears to be a massive Steam leak , achievement lists for multiple games have appeared online. Amongst the games caught in the leak is Kingdom Hearts 4, and if the data is real, several of the game's worlds have been revealed early. So far, only the world of Pixar's Coco has been officially confirmed by Disney, but it looks like players might be visiting one of the biggest IP from the House of Mouse, for the first time ever. Consider yourselves warned, as there are potential spoilers below. https://www.youtube.com/watch?v=x3NrZKxdh6Q&pp=ygUZZ2FtZXNwb3Qga2luZ2RvbSBoZWFydHMgNA%3D%3D The various achievements uploaded to the achievement-tracking site Exophase mention various Disney worlds, but Star Wars is easily the biggest of them all. The iconic franchise has grown massively since Disney acquired it in 2012, expanding with a new sequel trilogy, spin-offs, and animated series. Which era of Star Wars could Sora visit? That's going to be the real surprise if and when Disney announces it. This isn't the first time that Star Wars has been linked to Kingdom Hearts 4. Back in 2022 , a trailer for the game featured a quick glimpse of what appeared to be an All Terrain Scout Transport--the big mechanized troop-carriers from the iconic Hoth battle in The Empire Strikes Back--and the world that footage was taken from was a dead ringer for the forest moon of Endor, the home of the Ewoks. Beyond Star Wars,
+
+### Resident Evil Movie Director Reacts To Backlash, Says He Was Naive To Think Gamers Would Embrace Him
+Wed, 09 Sep 2026 12:40:44 +0000 — https://www.gamespot.com/articles/resident-evil-movie-director-reacts-to-backlash-says-he-was-naive-to-think-gamers-would-embrace-him/
+
+One of the talking points surrounding the upcoming Resident Evil movie is that director Zach Cregger took an original idea and slapped the Resident Evil name on it. That's not true , Cregger has said, and now he's shared more of his thought process as it relates to some of the blowback from fans of the games. He told IGN that, in retrospect, he feels it was "naive" to think that fans of the games would immediately embrace his pitch for his Resident Evil movie. "I thought fans of these games, like me, would be thrilled that somebody was coming along and turning Resident Evil into a survival horror movie. I was like, ‘That’s great.’ I did not really appreciate the sentiment that, ‘We’ve been waiting forever for Leon’s story.’ And I appreciate that, and I’m sorry that’s not the story I’m bringing. I get it, I understand the frustration," he said. "I understand it so well because I haven’t seen the earlier [Resident Evil] movies, because they don't look like the Resident Evil that I love, so how could I be frustrated with fans who have that same attitude?" Cregger went on to say he hopes fans of the game see his movie "regardless of their skepticism or their disappointment" that he's not re-telling a story from the games. He said he hopes fans of the games "feel seen" when they watch the movie and see "all of the love for the games that are in this movie." "This is not me just telling a story and slapping Resident Evil on it so I can get a budget. This is me telling a Resident Ev
+
+### Major Steam Leak Reveals Achievements For Persona 6, Kingdom Hearts 4, And Unannounced Games
+Wed, 09 Sep 2026 11:01:04 +0000 — https://www.gamespot.com/articles/major-steam-leak-reveals-achievements-for-persona-6-kingdom-hearts-4-and-unannounced-games/
+
+A massive Steam leak has revealed hundreds of achievements for upcoming games, including highly anticipated titles like Kingdom Hearts 4, Persona 6, and Fable. On the website Exophase--which tracks achievements for games on Steam, Epic Games Store, and more--the achievement lists for numerous in-development games were uploaded to it and made public. It looks like the site trackers scraped up all the achievements uploaded to Steam recently, resulting in potential story spoilers and the reveal of several unannounced--or canceled--titles. "Seems like a possible screw-up on Valve's end, a bunch of games with achievements that should be private are accessible through the API right now, and that's why they got scanned into the site," Exosphere owner Mike Bendel AKA x3sphere wrote in a ResetEra post . "I usually never see games without an actual name pop up with achievements, yet over the past hour or so, a bunch have (when there's an unknown name, we just set it to the AppID)." https://www.youtube.com/watch?v=x3NrZKxdh6Q It's worth noting that many of these achievement lists appear to be incomplete due to the use of placeholder text, but many of them are rife with spoilers. While we won't mention them here, the leak has revealed more of the Disney-themed worlds that players can travel to in Kingdom Hearts 4 , and story details for Persona 6 have surfaced. People are, of course, digging deep into the list, so if you're looking to go into any particular game without fear of spoilers,
 
 ### Nintendo Direct September 2026: Start Time, How To Watch, And What To Expect
 Wed, 09 Sep 2026 02:00:00 +0000 — https://www.gamespot.com/articles/nintendo-direct-september-2026-start-time-how-to-watch-and-what-to-expect/
@@ -423,27 +450,42 @@ Tue, 08 Sep 2026 15:15:27 +0000 — https://www.gamespot.com/articles/the-legend
 
 If you were hoping to see older Zelda games ported to or remastered for the Switch at the recent Legend of Zelda 40th Anniversary Direct , you were likely disappointed, as Nintendo instead dedicated almost the entire show to its upcoming Ocarina of Time remake. Out of all the Legend of Zelda remasters that have come to Switch consoles over the years, there's still a sizable Wind Waker HD-shaped hole in that collection. The Legend of Zelda: Wind Waker HD released on the Wii U in 2013, with a number of upgrades compared to the original 2003 GameCube version. While the original version of Wind Waker was added to the Switch Online GameCube library last year, the Wii U version is much better in comparison. It provides a smoother experience with various quality-of-life improvements, like a resolution boost, faster loading times, and subtle changes to the game that make it less of a chore to play in its second half. While it isn't considered as influential as Ocarina of Time, Wind Waker's impact can still be felt in modern Zelda games today. The fact then that the upgraded version of one of the best Zelda games of all time is still only available on the Wii U is a shame. Much the same could be said of Twilight Princess HD on the Wii U. Maybe I just had unrealistic expectations. For Zelda's 40th anniversary, I imagined Nintendo would do something similar to what it did for Mario's 35th anniversary, when it released Super Mario 3D All-Stars for a (baffingly) limited amount of time. Th
 
-### The Legend Of Zelda 40th Anniversary Direct: All The Biggest Announcements
-Tue, 08 Sep 2026 13:45:08 +0000 — https://www.gamespot.com/articles/the-legend-of-zelda-40th-anniversary-direct-all-the-biggest-announcements/
-
-This year marks a major milestone for The Legend of Zelda IP, but one that has seemingly had very little fanfare from its parent company, Nintendo. That all changed today, as Nintendo dedicated a whole Direct broadcast to its long-running tale of heroes in green, mythical items of power, and the titular princess Zelda. This was mostly focused on the remake of The Legend of Zelda: Ocarina of Time , and the presentation also revealed new celebrations being held around the world. We're also going to be brushing up on our musical skills, as Nintendo is going to sell an Ocarina instrument that you can use in the upcoming remake, which launches in November. While we didn't get a teaser for the upcoming live-action movie , we did get our first look at the logo for it. And don't forget, there'll also be a Nintendo Direct on September 9. This one will be longer, at 45 minutes, and it'll be followed by a Treehouse livestream featuring gameplay from select titles. The Legend of Zelda movie While we didn't get a trailer, Nintendo did show off the official logo for The Legend of Zelda movie. Nintendo legend Shigeru Miyamoto said that because the film is an original work inspired by the franchise, no additional subtitle was needed. The Legend of Zelda hits theaters on April 30, 2027. The Legend Of Zelda Movie, Based On The Legend Of Zelda, Is Called The Legend Of Zelda Prepare your wallet for Zelda merch It wouldn't be a Nintendo anniversary without some merchandise! A whole bunch of stuff
-
-### The Legend Of Zelda: Ocarina Of Time Remake Looks Fantastic In First Gameplay Look
-Tue, 08 Sep 2026 14:46:04 +0000 — https://www.gamespot.com/articles/the-legend-of-zelda-ocarina-of-time-remake-looks-fantastic-in-first-gameplay-look/
-
-After months of rumors, Nintendo finally revealed that The Legend of Zelda: Ocarina of Time remake was real back in June. While that reveal was purely cinematic, today's Nintendo Direct for The Legend of Zelda showed off gameplay for the remake and offered a closer look at its updated art direction. The Switch 2 exclusive stays true to the 1998 original's aesthetics, while showcasing a huge upgrade visually. Link's hat and tunic, for example, showcase detailed threading and embroidering, along with berries on his cap. The lighting system looks fantastic, too, as sunlight pokes through the forest as Link heads to the Great Deku Tree. https://www.youtube.com/watch?v=PQvD3p2yGwc As for gameplay, players will have a button for Link to jump and dash. That may sound silly to younger people who grew up on The Legend of Zelda: Breath of the Wild and Tears of the Kingdom, but it's a huge change from the Nintendo 64 title. How the jump button could possibly impact dungeon design wasn't addressed but should prove interesting later this year. Overall, the first gameplay revealed for The Legend of Zelda: Ocarina of Time remake seemed to address a lot of my concerns of a simple remaster for the game . The Switch 2 title seems faithful while still altering enough for modern audiences--and those of us who played the original (or 3DS remaster) plenty of times already. Long considered to be the greatest Legend of Zelda game--until the Switch era at least, thanks to Breath of the Wild and Tears
-
-### Zelda: Ocarina Of Time Remake Borrows At Least One Mechanic From Breath Of The Wild
-Tue, 08 Sep 2026 14:43:43 +0000 — https://www.gamespot.com/articles/zelda-ocarina-of-time-remake-borrows-at-least-one-mechanic-from-breath-of-the-wild/
-
-The Legend of Zelda: Ocarina of Time on Switch 2 looks like a very faithful remake of the Nintendo 64 classic, but as seen in the Zelda 40th anniversary Direct , this updated version of the game takes at least one element from the modern open-world Zelda games. When demonstrating the returning Fairy Slingshot item, Zelda producer Eiji Aonuma showed off the weapon-switching and aiming mechanics, which look nearly identical to the same systems in Breath of the Wild. https://www.youtube.com/watch?v=PQvD3p2yGwc Players can quickly swap their weapons in a horizontal menu similar to the one used in Breath of the Wild, Tears of the Kingdom, and Echoes of Wisdom. Aiming a projectile weapon also uses the same reticle seen in Breath of the Wild and Tears of the Kingdom, with full motion control support as well. The difference in Ocarina is that you can use Z-targeting in conjunction with free aim. Upon the official announcement of the Ocarina of Time remake, speculation amongst the Zelda fanbase ran rampant about whether the new title would remain faithful to the original game or reimagine it to be similar to modern Zelda titles. While Aonuma made it clear from the beginning of his presentation that Nintendo is taking the former approach, it looks like there will at least be some UI and quality-of-life elements taken from recent games. In terms of significant changes made in the remake, there's a major difference in how time passes compared to the original game. Link can also manually 
-
-### The Legend Of Zelda Anniversary Concert Tour Coming In 2027
-Tue, 08 Sep 2026 14:26:41 +0000 — https://www.gamespot.com/articles/the-legend-of-zelda-anniversary-concert-tour-coming-in-2027/
-
-During The Legend of Zelda 40th Anniversary Direct , Nintendo confirmed that a worldwide 40th Anniversary Concert Tour will take place in 2027. After an original opening arrangement kicked off the direct and the movie title was revealed , legendary Nintendo composer Koji Kondo showed up to announce The Legend of Zelda 40th Anniversary Concert, which will tour across Japan, North America, Europe, and Australia in 2027. Considering that Nintendo has not held an officially licensed Zelda music tour in almost a decade, this is a really exciting announcement. https://www.youtube.com/watch?v=A0WX-jsir94 The concert tours will have different start dates in different regions, with Japan having the fullest schedule. It'll kick things off in Tokyo on January 23, 2027, before traveling to Fukuoka in February, Hokkaido in March, and Kyoto and Kanagawa in April. Outside of Japan, the international tour will kick off in Chicago on February 22 and perform across the United States, Europe, and Australia until a final, still-undated performance in San Francisco next October. Here are all of the confirmed shows as of today: Chicago, United States- February 22 and 23 London, United Kingdom - April 3 and 4 Melbourne, Australia - May 13, 14, 15, and 16 Stockholm, Sweden - June 18 and 19 Sydney, Australia - July 9 and 10 Seattle, United States - July 16, 17, and 18 Houston, United States - July 23 and 25 Vienna, United States - July 30 Edinburgh, United Kingdom - September 17 Glasgow, United Kingd
-
 ## Rock Paper Shotgun
+
+### Rally Point: Strong simulation and team building can't carry Menace forever
+Wed, 09 Sep 2026 13:10:37 +0000 — https://www.rockpapershotgun.com/rally-point-strong-simulation-and-team-building-cant-carry-menace-forever
+
+It's probably poor form to do another "what I said in a group chat" (this time, to culture critic Rowan Kaiser . Hermits can namedrop too, shut up) intro, but "Oh i already liked menace, that's why I hate it" feels too useful to spurn. I don't really hate Menace . You've been there, though: a game you enjoy, perhaps even begin to love, but it keeps aggravating you, forcing you to vent before you can play it more. This one is carried through that by a core of turn-based shooting, with some interesting simulation and character levelling that often work well together. And some of its annoyances are natural update fodder during its early access period, as perhaps are some areas that currently feel lacking. But man, does it need that carrying sometimes. Read more
+
+### Zombiepunk action RPG Stupid Never Dies is a vibrant feast for the eyes, ears, hands and teeth, even if it is a smidge overwhelming
+Wed, 09 Sep 2026 12:30:00 +0000 — https://www.rockpapershotgun.com/zombiepunk-action-rpg-stupid-never-dies-is-a-vibrant-feast-for-the-eyes-ears-hands-and-teeth-even-if-it-is-a-smidge-overwhelming
+
+Stupid Never Dies is a vibrant feast for the eyes, ears and hands, and I don't even mean all the biting our punk boy Davy gets up to It's hard to know where to start when talking about Stupid Never Dies. An action RPG built on style, excess and punk ideology. I mean, within the first minutes of my demo starting, I am flushing undead protagonist Davy down a toilet in an abandoned shopping mall to arrive in a hellish arena. There is a lot going on. Read more
+
+### I'm not saying Fallout 4 modding drama gets to people, but here's Breaking Benjamin's singer begging concertgoers to try his AI-assisted first person mod
+Wed, 09 Sep 2026 12:00:00 +0000 — https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod
+
+In my experience, the few minutes a live band take between songs to recover a bit before plunging into the next riff are generally quite uneventful. At the most, you might get an amusing story about what they've been up to in your city prior to getting on stage, chatter about the song they're about to play, or some light comedy night-esque crowd work. Or, if you attended a recent gig American rockers Breaking Benjamin played in Holmdel, New Jersey, a four minute promo segment for a Fallout 4 mod made by a lead singer who's been left frustrated by some modding community drama. Read more
+
+### "You can never see outside of yourself": The House Before is a body horror game in which you are a house tunnelling through its own soul
+Wed, 09 Sep 2026 11:30:00 +0000 — https://www.rockpapershotgun.com/you-can-never-see-outside-of-yourself-the-house-before-is-a-body-horror-game-in-which-you-are-a-house-tunnelling-through-its-own-soul
+
+It's a lovely morning in the village, and you are a horrible house. Wait, let's start that again. As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed into a horrible house. Wait, let's start that again: "You wake up as a House. Your limbs stretch through endless rooms filled with grotesque creatures. You can never see outside of yourself, never feel the world that lies beyond the fleshy walls of your body. You manage your insides as best you can, but you wonder: are you a good house or just a pale afterthought of the House Before?" Read more
+
+### FromSoftware's first experiment with, of all things, horse armor DLC runs awry, as Elden Ring players manage to spawn free duplicate items in multiplayer
+Wed, 09 Sep 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/fromsoftwares-first-experiment-with-of-all-things-horse-armor-dlc-runs-awry-as-elden-ring-players-manage-to-spawn-free-duplicate-items-in-multiplayer
+
+From Software and Bandai Namco have released a hasty new Elden Ring patch to stop people getting their hands on items from the game's Tarnished Pack DLC for free. Read more
+
+### "Most people" at Bethesda wanted to make Elder Scrolls 6 before Starfield, claims Skyrim co-lead, but Todd Howard dragged them aboard his rocketship
+Wed, 09 Sep 2026 10:30:00 +0000 — https://www.rockpapershotgun.com/most-people-at-bethesda-wanted-to-make-elder-scrolls-6-before-starfield-claims-skyrim-co-lead-but-todd-howard-dragged-them-aboard-his-rocketship
+
+What came first, the chicken or the egg? I know, it's a tough one. I'll put it another way. What came first, Todd Howard's lone desire to make a space RPG or what the devs working under him had initially anticipated they'd be working on once Fallout 4 shipped? Well, according to a fresh account given by long-time Bethesda developer and Skyrim co-lead designer Kurt Kuhlmann, those among the latter who'd mentally prepped to be making The Elder Scrolls 6 right away were rather whisked along on an interstellar journey Todd seemingly charted a course for without much of a heads up. Read more
+
+### Steam achievements for Persona 6, Fable, Stranger Than Heaven and a host of other upcoming PC games appear to have leaked
+Wed, 09 Sep 2026 10:00:48 +0000 — https://www.rockpapershotgun.com/steam-achievements-for-persona-6-fable-stranger-than-heaven-and-a-host-of-other-upcoming-pc-games-appear-to-have-leaked
+
+Uh oh. Steam achievement lists for a smorgasbord of unreleased and unannounced PC games appear to have leaked via trophy tracking site Exophase. Atlus RPG Persona 6, RGG brawler Stranger Than Heaven , and Thief: The Dark Project Remastered have all seemingly had their trophies blabbed by the leak, with more imminent releases like Control Resonant, Silent Hill: Townfall , and Ace Combat 8: Wings of Theve also affected. Read more
 
 ### ROLLA is evil, fleshy, monstrous, B-movie-esque Katamari Damacy, and is out this month
 Tue, 08 Sep 2026 17:45:23 +0000 — https://www.rockpapershotgun.com/rolla-is-evil-fleshy-monstrous-b-movie-esque-katamari-damacy-and-is-out-this-month
@@ -469,39 +511,4 @@ Bit of an anticlimax, really. After months of (justified) revulsion and anti-ant
 Tue, 08 Sep 2026 15:06:12 +0000 — https://www.rockpapershotgun.com/justice-at-last-feels-within-reach-final-hearing-in-rockstar-and-fired-gta-devs-legal-battle-will-kick-off-with-a-union-rally
 
 The final hearing in the legal battle between a group of former Rockstar workers and the GTA 6 studio over the latter's decision to fire the former last year kicks off this week. It'll get underway on September 10th, and the Independent Workers&rsquo; union of Great Britain (IWGB) - who're representing the fired staff - are organising a rally to take place first thing on that opening day. Read more
-
-### Trump regime's Tetris ripoff yanked from White House website after Tetris Company declare they "take copyright infringement very seriously"
-Tue, 08 Sep 2026 12:45:22 +0000 — https://www.rockpapershotgun.com/trump-regimes-tetris-ripoff-yanked-from-white-house-website-after-tetris-company-declare-they-take-copyright-infringement-very-seriously
-
-Goodbye, Build the Wall. The Tetris-style game that the US government had stuck on the White House website as a way of promoting the Trump administration's commitment to brutalising and persecuting immigrants in the name of securing borders. After the Tetris Company hinted that they might be eyeing legal action, Build the Wall is gone, replaced by a far more palatable 404 error message . Read more
-
-### "Material uncertainty" hangs over the future of Life is Strange developers Don't Nod beyond January 2027, as negotiations over potential layoffs begin
-Tue, 08 Sep 2026 11:31:55 +0000 — https://www.rockpapershotgun.com/material-uncertainty-hangs-over-the-future-of-life-is-strange-developers-dont-nod-beyond-january-2027-as-negotiations-over-potential-layoffs-begin
-
-Life is Strange developers Don't Nod have acknowledged that there's "material uncertainty regarding the company's ability to continue as a going concern beyond January 31st, 2027", as they kick off negotiations with the union representing staff who could be laid off as part of a "transformation project". The proposed cuts , which could see up to 90 jobs eliminated, are the latest development in the studio's efforts to make their financial future look less like a road to ruin which might run its course either this year or very early in 2027. Read more
-
-### "20 players is the sweet spot": Guild Wars 3's action game combat is a first for MMOs, but it doesn't work at traditional raid scale
-Tue, 08 Sep 2026 11:09:32 +0000 — https://www.rockpapershotgun.com/20-players-is-the-sweet-spot-guild-wars-3s-action-game-combat-is-a-first-for-mmos-but-it-doesnt-work-at-traditional-raid-scale
-
-Arenanet are keeping a lot of Guild Wars 3 hidden away. Throughout the short presentation of their new fantasy MMO, the refrain is 'We're not talking about that yet'. Mounts, professions, dynamic world events, even shops and the economy are all things the developers will talk about in the future. Though, what they did show more than made up for it. Read more
-
-### It's still very much possible to make good Skyrim mods "without any use of AI" in 2026, declares the maker of a new DLC-sized Black Marsh expansion
-Tue, 08 Sep 2026 10:25:25 +0000 — https://www.rockpapershotgun.com/its-still-very-much-possible-to-make-good-skyrim-mods-without-any-use-of-ai-in-2026-declares-the-maker-of-a-new-dlc-sized-black-marsh-expansion
-
-The latest beefy expansion mod to hit Skyrim is an adventure to the Argonian homeland of Black Marsh, complete with hist trees and humid swamps. Though, its creator seems to be hoping the trip to the southern tip of the mysterious province will do more that just entertain, serving as a reminder that it's still possible for solo modders to make ambitious works happen for free without resorting to using generative AI. Read more
-
-### New horror game The Well Is Not Empty combines photophobic monsters with timer light switches and a lot of frenzied digging
-Mon, 07 Sep 2026 16:06:22 +0000 — https://www.rockpapershotgun.com/new-horror-game-the-well-is-not-empty-combines-photophobic-monsters-with-timer-light-switches-and-a-lot-of-frenzied-digging
-
-"Never show the monster," horror film-makers, game-makers and other creepozoids have chanted, over the decades. The Well Is Not Empty wastes no time showing us the monster - one of the monsters, at least - and doesn't seem especially the worse for it. I mean, it's the worse, but in a good way. Look, you can see the monster right there, hunkered up like a frightened puppy in the corner of the room. A scrawny little fellow with broken xylophone teeth and eyes that genuinely do make me think of the view from the bottom of a well. The monster is no threat, as long as you stay out of grabbing distance - and as long as the lights are on. The problem, as you've already guessed, is that the lights are unreliable. A lot of the ceiling bulbs in the open areas are set to a timer. Best make sure you're back behind the sturdy radiance of those construction lamps before the ticking stops. Read more
-
-### Combat and socially agonised teens impress in Persona 4 Revival, the RPG that series director Kazuhisa Wada feels a "duty" to make
-Mon, 07 Sep 2026 13:30:00 +0000 — https://www.rockpapershotgun.com/combat-and-socially-agonised-teens-impress-in-persona-4-revival-the-rpg-that-series-director-kazuhisa-wada-feels-a-duty-to-make
-
-Look, before you say it, I know. Persona 4 Golden is held up by some as one of the best and most important RPGs ever. After all, it was the series' Final Fantasy 7 moment, where many of the mechanical and thematic threads of the earlier games finally knitted together and became something greater than their parts. You step into the shoes of Yu Narukami, a Japanese transfer student freshly arrived in Inaba. There, you use your limited time to make friends, study for your exams, and dive into a metaphysical dimension to turn-based battle the literal manifestations of your friends and rivals' twisted perceptions of themselves. Its story and characters particularly celebrated for their honest and painful looks inward at the parts of ourselves best left unseen. I&rsquo;m a fraud for not having played it yet, with that sin only compounded by having had it in my Steam family sharing library for years. I have no excuse. I&rsquo;ll face the shame-filled shadow version of myself, eventually. Read more
-
-### This week in PC games: Wardogs, Shroom and Gloom, a heist game from the King of Dragon Pass creators, and a bullet time FPS inspired by F.E.A.R.
-Mon, 07 Sep 2026 12:33:27 +0000 — https://www.rockpapershotgun.com/this-week-in-pc-games-wardogs-shroom-and-gloom-a-heist-game-from-the-king-of-dragon-pass-creators-and-a-bullet-time-fps-inspired-by-fear
-
-Hello there, loyal regulars and filthy, fickle drop-ins! A merry New Week to you, wherever you are. Thanks for feeding the Maw while we were away last Monday . You were mostly successful in sating the creature's hunger and preventing cosmic disturbances, though we didn't get off scot-free: the Maw appears to have eaten one of the more popular videogame genres. Read more
 

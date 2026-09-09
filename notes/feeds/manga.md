@@ -1,6 +1,26 @@
-# Manga — harvested 2026-09-09T09:10:55.874Z
+# Manga — harvested 2026-09-09T13:53:00.761Z
 
 ## Anime News Network
+
+### Sound Euphonium Chief Director Tatsuya Ishihara on Portraying Genuine Emotions
+Wed, 09 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/sound-euphonium-chief-director-tatsuya-ishihara-on-portraying-genuine-emotions/.240067
+
+For over a decade, Sound! Euphonium has taken viewers on a musical journey of hope and growth as it followed one high school concert band's quest to become national champions. This week, that chapter finally draws to an end.
+
+### The Ghost in the Shell ‒ Episode 10
+Wed, 09 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/the-ghost-in-the-shell/episode-10/.241546
+
+I love the funny faces she pulls to test out her new body’s functions.
+
+### The World Is Dancing ‒ Episode 11
+Wed, 09 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/the-world-is-dancing/episode-11/.241543
+
+The show has to work far too hard to bluntly explain that Oniyasha is feeling aimless and depressed, but the emotions of the script never quite translate to engaging drama.
+
+### So What's Wrong with Getting Reborn as a Goblin? Anime's New Video Unveils More Staff, Theme Songs, October 5 Debut
+Wed, 09 Sep 2026 06:01:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/so-what-wrong-with-getting-reborn-as-a-goblin-anime-new-video-unveils-more-staff-theme-songs-/.241557
+
+Sou, AHUB to perform "Hello" opening, "Chiisana Bokura" ending
 
 ### Redoing My Youth In Another World -The God Of Death Is My Fanboy- BL Manga Gets 'Motion Comic' on TV
 Wed, 09 Sep 2026 04:13:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/redoing-my-youth-in-another-world-the-god-of-death-is-my-fanboy-bl-manga-gets-motion-comic-on-tv/.241553
@@ -42,31 +62,31 @@ Tue, 08 Sep 2026 22:00:51 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Manga adaptation of light novels debuted in 2016
 
-### Amasian TV Streams Hyakusho Kizoku-the farmer's days Seasons 2, 3 for Free
-Tue, 08 Sep 2026 21:23:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-08/amasian-tv-streams-hyakusho-kizoku-the-farmer-days-seasons-2-3-for-free/.241541
-
-<i>Fullmetal Alchemist</i> creator Hiromu Arakawa's anime streams with English subtitles
-
-### Jaadugar: A Witch in Mongolia ‒ Episode 11
-Tue, 08 Sep 2026 20:30:00 -0400 — https://www.animenewsnetwork.com/review/jaadugar-a-witch-in-mongolia/episode-11/.241540
-
-And so our witch reveals herself.
-
-### Though I Am an Inept Villainess ‒ Episode 9
-Tue, 08 Sep 2026 19:30:00 -0400 — https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-9/.241525
-
-Reirin has <i>had it</i> with not being believed, with being underestimated, and that means that she’s done asking for permission.
-
-### Goodbye, Lara ‒ Episode 10
-Tue, 08 Sep 2026 18:30:00 -0400 — https://www.animenewsnetwork.com/review/goodbye-lara/episode-10/.241524
-
-Did Lara never really have a chance?
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Sparks of Tomorrow Anime Reveals New Story Visual Ahead of Final Episodes
+Wed, 09 Sep 2026 13:50:13 GMT — https://animecorner.me/sparks-of-tomorrow-anime-reveals-new-story-visual-ahead-of-final-episodes/
+
+Sparks of Tomorrow anime has revealed its second story visual as the Kyoto Animation series heads toward its final stretch.
+
+### Katekyo Hitman Reborn! Anime Reveals Fifth Ending Featuring "Sakura addiction" by Takashi Kondo & Toshinobu Iida
+Wed, 09 Sep 2026 11:03:26 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-fifth-ending-featuring-sakura-addiction-by-takashi-kondo-toshinobu-iida/
+
+Katekyo Hitman REBORN! anime released the creditless version of its fifth ending, featuring "Sakura addiction" by Takashi Kondo & Toshinobu Iida.
+
+### Rudy Learns of a Tragic Future in Mushoku Tensei Season 3 Episode 12 Preview
+Wed, 09 Sep 2026 10:03:44 GMT — https://animecorner.me/rudy-learns-of-a-tragic-future-in-mushoku-tensei-season-3-episode-12-preview/
+
+Mushoku Tensei: Jobless Reincarnation Season 3 revealed the Episode 12 preview images and synopsis ahead of its September 13 premiere.
+
+### Blue Lock 5th Stage Reveals Key Visual and 23 Character Visuals for Neo Egoist League Arc, Featuring Michael Kaiser, Alexis Ness, and More
+Wed, 09 Sep 2026 09:21:16 GMT — https://animecorner.me/blue-lock-5th-stage-reveals-key-visual-and-23-character-visuals-for-neo-egoist-league-arc-featuring-michael-kaiser-alexis-ness-and-more/
+
+Blue Lock 5th STAGE: Neo Egoist League Begins revealed a key visual, new cast and 23 individual character visuals ahead of its October 2026 debut.
 
 ### Kagurabachi Anime World Tour Part 2 Heads to Africa and Australia With Episode 1 Preview
 Wed, 09 Sep 2026 05:50:17 GMT — https://animecorner.me/kagurabachi-anime-world-tour-part-2-heads-to-africa-and-australia-with-episode-1-preview/
@@ -108,27 +128,12 @@ Wed, 09 Sep 2026 01:10:12 GMT — https://animecorner.me/dengeki-bunko-official-
 
 KADOKAWA will integrate the official websites for Dengeki Bunko and Dengeki no Shin Bungei&hellip;
 
-### Interview: Naruto Composer Yasuharu Takanashi on Far East Groove EU & UK Tour
-Tue, 08 Sep 2026 20:02:25 GMT — https://animecorner.me/interview-naruto-composer-yasuharu-takanashi-on-far-east-groove-eu-uk-tour/
-
-Far East Groove, the musical project led by composer Yasuharu Takanashi, will launch their&hellip;
-
-### Crunchyroll Reveals New York Comic Con 2026 Lineup With The Apothecary Diaries, Sentenced to Be a Hero, Black Clover and More
-Tue, 08 Sep 2026 16:33:29 GMT — https://animecorner.me/crunchyroll-reveals-new-york-comic-con-2026-lineup-with-the-apothecary-diaries-sentenced-to-be-a-hero-black-clover-and-more/
-
-Crunchyroll has announced its New York Comic Con 2026 programming lineup, featuring panels, screenings&hellip;
-
-### Exclusive Preview: TEZUKA! God of Manga Documentary Launches Kickstarter Campaign
-Tue, 08 Sep 2026 16:03:59 GMT — https://animecorner.me/exclusive-preview-tezuka-god-of-manga-documentary-launches-kickstarter-campaign/
-
-A new feature-length documentary on Osamu Tezuka, TEZUKA! God of Manga, has launched a&hellip;
-
-### Attack on Titan Day Celebrated With 99 Announcements, New Key Visual, Video, Hajime Isayama Art, YouTube Channel and More
-Tue, 08 Sep 2026 15:13:54 GMT — https://animecorner.me/attack-on-titan-day-celebrated-with-99-announcements-new-key-visual-video-hajime-isayama-art-youtube-channel-and-more/
-
-September 9 is being celebrated as the first officially recognized Attack on Titan Day, with the franchise sharing 99 pieces of news.
-
 ## MyAnimeList News
+
+### Tensei Goblin dakedo Shitsumon Aru? Reveals Additional Staff, Theme Songs, Main Promo
+Wed, 09 Sep 2026 03:34:54 -0700 — https://myanimelist.net/news/74691262?_location=rss
+
+The official website for the television anime adaptation of Nazuna Miki s Tensei Goblin dakedo Shitsumon Aru? (So What s Wrong with Getting Reborn as a Goblin?) manga revealed additional staff, theme songs, the main visual (pictured), and promotional video on Wednesday. The anime is scheduled to premiere on October 5 at 10.00 p.m. on Tokyo MX, followed by broadcasts on BS11, Sun TV, and AT-X. Staff Art Director: Maika Hosoda (Mob kara Hajimaru Tansaku Eiyuutan) Color Design: Naomi Kiyo...
 
 ### From The Apothecary Diaries to Jurassic Shadows: Norihiro Naganuma s Next Creative Challenge
 Tue, 08 Sep 2026 23:30:09 -0700 — https://myanimelist.net/news/74690718?_location=rss
@@ -174,16 +179,6 @@ The official X (formerly Twitter) account of author Koushi announced on Tuesday 
 Mon, 07 Sep 2026 08:11:45 -0700 — https://myanimelist.net/news/74682835?_location=rss
 
 Production company Kadokawa and entertainment company Cover Corporation announced on Monday that VTuber agency Hololive is producing a television anime titled Odeholo, revealing an announcement visual (pictured above) and announcement promo. Studio KAI, the animation studio behind Yuusha-kei ni Shosu (Sentenced to Be a Hero) and Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleton Knight in Another World), is producing the anime project. The project was revealed during the "Hololive...
-
-### Keroro Gunsou☆ Reveals Main Cast, Staff, First Promo
-Mon, 07 Sep 2026 02:41:33 -0700 — https://myanimelist.net/news/74681689?_location=rss
-
-The official website for a new television anime adaptation of Mine Yoshizaki s Keroro Gunsou (Sgt. Frog) manga revealed the main cast, staff, a key visual (pictured right), and the first promotional video on Monday. The anime series is scheduled to premiere on October 3 at 9:30 a.m. on TV Tokyo. Cast Keroro Gunso: Makoto Koichi (Tomo-chan wa Onnanoko!) NEW Tamama Nitobei: Rika Nagae (PriPri Chii-chan!!) NEW Giroro Gocho: Toshiki Masuda (Boku no Hero Academia) NEW Kururu Socho: Kousuke Echi...
-
-### Dark Machine: The Animation Announces Supporting Cast
-Mon, 07 Sep 2026 02:14:56 -0700 — https://myanimelist.net/news/74681527?_location=rss
-
-The official website for the Dark Machine: The Animation television anime announced the supporting cast on Monday. The anime is scheduled to premiere on October 14 at 1:45 a.m. on Fuji TV, followed by Kansai TV and BS Fuji. Cast Aluk: Nao Touyama (Sakamoto Days) Denebola: Nonoka Oobuchi (Tasokare Hotel) Spica: Rei Nakashima Kazumi Terada (Chikyuugai Shounen Shoujo assistant director) is helming the anime at Production +h. Team Carbuncle, which consists of Takaaki Suzuki (High School Fleet origin...
 
 ## Otaku USA
 
