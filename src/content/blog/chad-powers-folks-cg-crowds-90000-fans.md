@@ -3,7 +3,7 @@ title: "Chad Powers VFX: 90,000 fans in 600 shots"
 date: 2026-09-09
 category: Film & TV
 excerpt: Folks was the sole VFX vendor on Chad Powers season one — more than 600 shots, three stadiums rebuilt or extended, and stands holding 90,000.
-cover: /img/blog/chad-powers-folks-cg-crowds-90000-fans/cover.svg
+cover: /img/blog/chad-powers-folks-cg-crowds-90000-fans/shot-01.jpg
 draft: true
 ---
 
