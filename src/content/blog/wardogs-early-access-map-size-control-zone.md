@@ -4,7 +4,6 @@ date: 2026-09-10
 category: Games
 excerpt: Bulkhead's 100-player shooter hits Steam early access today at $39.99. The map is 256km², and every match is decided inside a 2km box drawn fresh each round.
 cover: /img/blog/wardogs-early-access-map-size-control-zone/shot-01.jpg
-draft: true
 ---
 
 Two numbers came out of Wardogs before it reached Steam early access this
