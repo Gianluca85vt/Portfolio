@@ -5,7 +5,6 @@ category: Games
 excerpt: Twenty-four verdicts average 7.5 across a five-point spread. Metacritic 78, and the lowest-scored PlayStation Studios game of the PS5 generation.
 cover: /img/blog/marvels-wolverine-review/shot-01.jpg
 reviewOf: "Marvel's Wolverine"
-draft: true
 scoreSources:
   - outlet: ScreenHub
     score: 10
