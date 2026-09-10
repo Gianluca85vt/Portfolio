@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Ninja Scroll 4K restoration: a 3840 by 2160 scan of the 1993 negative">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.55" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.62" stop-color="#4A2A16"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g fill="none" stroke="#C8891B" stroke-opacity="0.30" stroke-width="2">
+    <rect x="86" y="86" width="470" height="264" rx="4"/>
+    <rect x="104" y="104" width="470" height="264" rx="4"/>
+    <rect x="122" y="122" width="470" height="264" rx="4"/>
+  </g>
+
+  <text x="86" y="452" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#F3E4CC" fill-opacity="0.72" letter-spacing="6">NINJA SCROLL, 1993</text>
+
+  <text x="86" y="580" font-family="Georgia, 'Times New Roman', serif" font-size="132" font-weight="bold" fill="#FFFFFF">3840 × 2160</text>
+
+  <text x="86" y="654" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#F3E4CC" fill-opacity="0.88">off the original 35mm negative</text>
+
+  <rect x="86" y="712" width="150" height="4" fill="#C8891B"/>
+
+  <text x="86" y="790" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#F3E4CC" fill-opacity="0.62">Where a cel scan stops having more to give</text>
+</svg>
