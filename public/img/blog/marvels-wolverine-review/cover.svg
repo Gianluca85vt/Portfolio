@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="10%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="90" y="200" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="500" fill="#D7E2EA" opacity="0.55" letter-spacing="6">MARVEL'S WOLVERINE</text>
+  <text x="86" y="400" font-family="Helvetica, Arial, sans-serif" font-size="230" font-weight="800" fill="#FFFFFF" letter-spacing="-6">7.5</text>
+  <text x="90" y="470" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="600" fill="#FFFFFF" opacity="0.9">from 5 to 10</text>
+  <text x="90" y="540" font-family="Helvetica, Arial, sans-serif" font-size="32" font-weight="400" fill="#D7E2EA" opacity="0.6">24 verdicts &#183; Metacritic 78 &#183; OpenCritic 80</text>
+</svg>
