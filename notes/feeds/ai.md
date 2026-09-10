@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-10T09:10:51.397Z
+# AI — harvested 2026-09-10T14:38:32.802Z
 
 ## OpenAI
 
@@ -22,35 +22,17 @@ Tue, 08 Sep 2026 17:00:00 GMT — https://openai.com/index/codex-quantum-computi
 
 See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.
 
-### The Work Now Within Reach
-Tue, 08 Sep 2026 13:00:00 GMT — https://openai.com/index/the-work-now-within-reach
-
-Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.
-
-### Introducing ChatGPT Images 2.5
-Tue, 08 Sep 2026 11:30:00 GMT — https://openai.com/index/introducing-chatgpt-images-2-5
-
-ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.
-
-### On the Navier–Stokes Millennium Prize Problem
-Tue, 08 Sep 2026 10:00:00 GMT — https://openai.com/index/navier-stokes-solution
-
-We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
-
 ## Hugging Face
+
+### Rebuilding AUTOMATIC1111 with Gradio Workflow
+Thu, 10 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/gradio-workflow-1111
 
 ### IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license
 Wed, 09 Sep 2026 15:36:24 GMT — https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series
 
-### Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic
-Tue, 08 Sep 2026 14:23:07 GMT — https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom
-
 ## Google DeepMind
 
-### AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome
-Tue, 08 Sep 2026 14:00:15 +0000 — https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/
-
-AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.
+_Nothing in the last 48 hours._
 
 ## VentureBeat AI
 

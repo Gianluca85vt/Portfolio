@@ -1,66 +1,66 @@
-# Manga — harvested 2026-09-10T09:10:51.397Z
+# Manga — harvested 2026-09-10T14:38:32.802Z
 
 ## Anime News Network
 
-### Millennium Family TV Anime Casts Ryōta Suzuki
-Thu, 10 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/millennium-family-tv-anime-casts-ryota-suzuki/.241608
+### Chiikawa Anime Film Rises Back to #1, Sekiro: No Defeat Opens at #9 in Japan
+Thu, 10 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/chiikawa-anime-film-rises-back-to-no.1-sekiro-no-defeat-opens-at-no.9-in-japan/.241518
 
-Suzuki voices second son of Benfield family, Hugo
+<cite>Madoka Magica -Walpurgisnacht: Rising-</cite> drops to #3, 33rd <cite>Shin-chan</cite> film to #7
 
-### Resident Evil 2, 3, 4 Remake Games Get Switch 2 Digital Release on October 16
-Thu, 10 Sep 2026 04:57:39 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/resident-evil-2-3-4-remake-games-get-switch-2-digital-release-on-october-16/.241617
+### Witch on the Holy Night Film Screens in U.S., Canada on January 29
+Thu, 10 Sep 2026 10:05:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/witch-on-the-holy-night-film-screens-in-u.s-canada-on-january-29/.241626
 
-Physical versions coming on January 29
+Crunchyroll, Sony Pictures Entertainment to screen film subbed/dubbed
 
-### Xenoblade Chronicles 3 Game's Switch 2 Edition Highlights New Character, New Mode in Video
-Thu, 10 Sep 2026 04:49:15 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/xenoblade-chronicles-3-game-switch-2-edition-highlights-new-character-new-mode-in-video/.241597
+### This Week in Anime - Sparkles and Shadows
+Thu, 10 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-10/.241554
 
-Heroes' Vault mode adds roguelite gameplay for game launching on December 3
+Magical girl stories were dark long before <i>Madoka Magica</i>.
 
-### Mari Okazaki's Will I Be Single Forever? Manga Gets 2nd Live-Action Film
-Thu, 10 Sep 2026 03:30:21 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/mari-okazaki-will-i-be-single-forever-manga-gets-2nd-live-action-film/.241609
+### Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 16
+Thu, 10 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-16/.241606
 
-Film debuts on Amazon Prime Video on October 23, features original story with new cast, staff
+The original Subaru must have had something he does not—some special power or ability. But as he finds out in this episode, this isn’t the case.
 
-### Live-Action Sins of Kujo Film's Teaser Reveals More Cast
-Thu, 10 Sep 2026 03:08:20 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/live-action-sins-of-kujo-film-teaser-reveals-more-cast/.241613
+### Korean Culture Center to Host K-Comics Origin Exhibition in Los Angeles
+Thu, 10 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/korean-culture-center-to-host-k-comics-origin-exhibition-in-los-angeles/.241610
 
-Kiyohiko Shibukawa, Haru Kuroki, Yui Narumi, Eita Okuno, Mutsuo Yoshioka, Yū Tokui join cast
+Dong-geun Joo, creator of <i>All of Us Are Dead</i>, will attend the exhibition's opening on September 11
 
-### Xbox Game Studios Takes Over Publishing Hideo Kojima's Physint Action Espionage Game
-Thu, 10 Sep 2026 02:56:36 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/xbox-game-studios-takes-over-publishing-hideo-kojima-physint-action-espionage-game/.241607
+### 8 Yuri Manga You're Missing Out On
+Thu, 10 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-10/8-yuri-manga-youre-missing-out-on/.241089
 
-Kojima: SIE slated game for cancelation in June, studio spent 3 months finding new partner
+Rebecca picks eight of her favorite girls-love manga stories to settle into.
 
-### Tokyo Gap-Financing Market Highlights 5 Animation Projects Seeking More Funding
-Thu, 10 Sep 2026 00:23:54 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/tokyo-gap-financing-market-highlights-5-animation-projects-seeking-more-funding/.241591
+### Saga of Tanya the Evil II ‒ Episode 10
+Thu, 10 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/saga-of-tanya-the-evil-ii/episode-10/.241605
 
-Projects include those from OLM, P.I.C.S.
+As with everything in this World War, <cite>The Saga of Tanya the Evil</cite> has shown us that understanding is too late in coming for all parties involved.
 
-### Pikmin 4 Game Gets Switch 2 Edition, Dandori Academy Mode
-Thu, 10 Sep 2026 00:01:04 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/pikmin-4-game-gets-switch-2-edition-dandori-academy-mode/.241596
+### Web Novel, Webtoon-Based Live-Action Series The Ordinary Jackpot Debuts on September 10
+Thu, 10 Sep 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/web-novel-webtoon-based-live-action-series-the-ordinary-jackpot-debuts-on-september-10/.241612
 
-New game mode adds puzzles, global leaderboard
+Series follows burned-out department manager who wins lottery
 
-### Become a Champion of Hyrule with Zelda's Electronic Master Sword From Hasbro
-Wed, 09 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-09/become-a-champion-of-hyrule-with-zelda-electronic-master-sword-from-hasbro/.241559
+### Final Fantasy VII Revelation is an Overwhelming Joy
+Thu, 10 Sep 2026 08:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-10/final-fantasy-vii-revelation-is-an-overwhelming-joy/.241590
 
-Or would you rather be the Hero of Time?
+I spent one hour playing <i>Final Fantasy VII Revelation</i>, and I came away impressed.
 
-### Star Fox Remake Game Gets Free Update, Star Fox Adventures Added to Nintendo Classics
-Wed, 09 Sep 2026 23:56:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/star-fox-remake-game-gets-free-update-star-fox-adventures-added-to-nintendo-classics/.241595
+### Pokémon Pokopia Game Introduces Accessories Included in Expansion Pass DLC Part 2
+Thu, 10 Sep 2026 07:42:04 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/pokemon-pokopia-game-introduces-accessories-included-in-expansion-pass-dlc-part-2/.241622
 
-Free update to battle mode launches September 29
+DLC part 2 includes sunglasses, ribbon, bow tie accessories
 
-### Masami Kurumada to Publish Saint Seiya Tenkai-hen Manga's 4th Part on December 18
-Wed, 09 Sep 2026 23:53:45 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/masami-kurumada-to-publish-saint-seiya-tenkai-hen-manga-4th-part-on-december-18/.241599
+### Nintendo Reveals New Trailer, October 22 Launch for Nintendo Switch Sports Resort Game
+Thu, 10 Sep 2026 07:12:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/nintendo-reveals-new-trailer-october-22-launch-for-nintendo-switch-sports-resort-game/.241623
 
-3rd part launched on May 14
+Successor game to <cite>Wii Sports Resort</cite> launches for Switch 2
 
-### Prinny Party: Going Overboard! Game Launches on November 11
-Wed, 09 Sep 2026 20:10:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/prinny-party-going-overboard-game-launches-on-november-11/.241589
+### Mega Man Dual Override Game Announces Spring 2027 Launch
+Thu, 10 Sep 2026 07:01:13 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/mega-man-dual-override-game-announces-spring-2027-launch/.241619
 
-Game available on Switch 2, Switch, PS5, PC via Steam
+Game launches for Switch, Switch 2, Xbox Series XS, Steam, Epic Games Store
 
 ## Crunchyroll News
 
@@ -68,12 +68,37 @@ _Nothing in the last 48 hours._
 
 ## Anime Corner
 
+### Witch on the Holy Night Anime Movie Hits Theaters Worldwide in January 2027, in North America on January 29
+Thu, 10 Sep 2026 13:07:13 GMT — https://animecorner.me/witch-on-the-holy-night-anime-movie-hits-theaters-worldwide-in-january-2027-in-north-america-on-january-29/
+
+Witch on the Holy Night anime movie will begin its worldwide theatrical release in January 2027, coming to North America on January 29.
+
+### Katekyo Hitman Reborn! Anime Reveals Special Episode 63 Ending Featuring "friend" by Kyoko and Haru
+Thu, 10 Sep 2026 11:13:20 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-special-episode-63-ending-featuring-friend-by-kyoko-and-haru/
+
+Katekyo Hitman REBORN! anime released the creditless version of its special Episode 63 ending, featuring "friend" by Kyoko and Haru.
+
+### Unnamed Memory -after the end- Light Novel Ending With 8th Volume
+Thu, 10 Sep 2026 10:14:06 GMT — https://animecorner.me/unnamed-memory-after-the-end-light-novel-ending-with-8th-volume/
+
+Dengeki Bunko (Kadokawa) has announced that Kuji Furumiya’s romance light novel, Unnamed Memory –after&hellip;
+
+### Eat-Man Announces New Anime Project After Nearly 30 Years
+Thu, 10 Sep 2026 10:02:06 GMT — https://animecorner.me/eat-man-announces-new-anime-project-after-nearly-30-years/
+
+EAT-MAN has officially announced a new anime project, coming nearly 30 years since the last installment in 1998.
+
+### The Apothecary Diaries Announces First Console Game for Early 2027, Original Story Supervised by Author
+Thu, 10 Sep 2026 09:38:00 GMT — https://animecorner.me/the-apothecary-diaries-announces-first-console-game-for-early-2027-original-story-supervised-by-author/
+
+The Apothecary Diaries is getting its first console game, titled The False Imperial Brother, with a release planned for early 2027.
+
 ### XBOX to Publish Hideo Kojima's PHYSINT Game After PlayStation Ends Collaboration
 Thu, 10 Sep 2026 08:28:44 GMT — https://animecorner.me/xbox-to-publish-hideo-kojimas-physint-game-after-playstation-ends-collaboration/
 
 KOJIMA PRODUCTIONS has confirmed that XBOX will publish PHYSINT, expanding the studio's existing partnership&hellip;
 
-### Cygames Is Now a Premium Partner to the Qatar Prix de L’Arc de Triomphe
+### Cygames Is Now a Premium Partner to the Qatar Prix de l’Arc de Triomphe
 Thu, 10 Sep 2026 08:01:21 GMT — https://animecorner.me/cygames-is-now-a-premium-partner-to-the-qatar-prix-de-larc-de-triomphe/
 
 Cygames, Inc., the company behind the Umamusume: Pretty Derby franchise, is now a Premium&hellip;
@@ -103,32 +128,17 @@ Wed, 09 Sep 2026 18:18:45 GMT — https://animecorner.me/sss-class-revival-hunte
 
 The anime adaptation of SSS-Class Revival Hunter will premiere in January 2027, with a teaser visual, first trailer, main cast and staff revealed.
 
-### Sparks of Tomorrow Anime Reveals New Story Visual Ahead of Final Episodes
-Wed, 09 Sep 2026 13:50:13 GMT — https://animecorner.me/sparks-of-tomorrow-anime-reveals-new-story-visual-ahead-of-final-episodes/
-
-Sparks of Tomorrow anime has revealed its second story visual as the Kyoto Animation series heads toward its final stretch.
-
-### Katekyo Hitman Reborn! Anime Reveals Fifth Ending Featuring "Sakura addiction" by Takashi Kondo & Toshinobu Iida
-Wed, 09 Sep 2026 11:03:26 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-fifth-ending-featuring-sakura-addiction-by-takashi-kondo-toshinobu-iida/
-
-Katekyo Hitman REBORN! anime released the creditless version of its fifth ending, featuring "Sakura addiction" by Takashi Kondo & Toshinobu Iida.
-
-### Rudy Learns of a Tragic Future in Mushoku Tensei Season 3 Episode 12 Preview
-Wed, 09 Sep 2026 10:03:44 GMT — https://animecorner.me/rudy-learns-of-a-tragic-future-in-mushoku-tensei-season-3-episode-12-preview/
-
-Mushoku Tensei: Jobless Reincarnation Season 3 revealed the Episode 12 preview images and synopsis ahead of its September 13 premiere.
-
-### Blue Lock 5th Stage Reveals Key Visual and 23 Character Visuals for Neo Egoist League Arc, Featuring Michael Kaiser, Alexis Ness, and More
-Wed, 09 Sep 2026 09:21:16 GMT — https://animecorner.me/blue-lock-5th-stage-reveals-key-visual-and-23-character-visuals-for-neo-egoist-league-arc-featuring-michael-kaiser-alexis-ness-and-more/
-
-Blue Lock 5th STAGE: Neo Egoist League Begins revealed a key visual, new cast and 23 individual character visuals ahead of its October 2026 debut.
-
-### Kagurabachi Anime World Tour Part 2 Heads to Africa and Australia With Episode 1 Preview
-Wed, 09 Sep 2026 05:50:17 GMT — https://animecorner.me/kagurabachi-anime-world-tour-part-2-heads-to-africa-and-australia-with-episode-1-preview/
-
-KAGURABACHI anime has revealed details for Part 2 of its ongoing Anime World Tour,&hellip;
-
 ## MyAnimeList News
+
+### Manga Eat-Man Gets New Anime Adaptation
+Thu, 10 Sep 2026 03:27:25 -0700 — https://myanimelist.net/news/74696633?_location=rss
+
+Entertainment company Hakuhodo DY Music &amp; Pictures opened an official website for a new anime adaptation of Akihito Yoshitomi s Eat-Man manga, subtitled The Over Order, on Thursday, revealing the lead cast, main staff, teaser visual, and announcement promotional video. Voice Actor Masashi Ebara (Dark Gathering) is reprising his leading role as Bolt Crank. Staff Director: Shunji Ooga (Golgo 13 (TV) chief director) Original Design, Script: Akihito Yoshitomi Character Design: Satoshi Hiray...
+
+### Hyouken no Majutsushi ga Sekai wo Suberu II Unveils Supporting Cast, Main Promo
+Thu, 10 Sep 2026 02:36:04 -0700 — https://myanimelist.net/news/74696432?_location=rss
+
+The official website for the television anime adaptation of Nana Mikoshiba s Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel unveiled supporting cast and the main promotional video for its second season on Thursday. The new season is scheduled to premiere on TBS on October 9 at 1.28 a.m., followed by BS11 at 11.00 p.m. at the same day. Cast Lucas Forst: Souichirou Hoshi (Mattaku Saikin no Tantei to Kitara) Lieselotte Eden: Haruka Shiraishi...
 
 ### Webtoon SSS-Class Revival Hunter Gets TV Anime in Winter 2027
 Wed, 09 Sep 2026 11:00:25 -0700 — https://myanimelist.net/news/74693008?_location=rss
@@ -164,11 +174,6 @@ The official website for the television anime adaptation of Asa Rokushima s Tsui
 Tue, 08 Sep 2026 10:06:39 -0700 — https://myanimelist.net/news/74688429?_location=rss
 
 The official website of the Junket Bank anime series announced on Tuesday that the broadcast has been postponed indefinitely. The anime series adapted from Ikkou Tanaka s Junket Bank gambling thriller manga was originally planned to premiere October 2026. A new broadcast date has yet to be announced. The staff explained that additional production time is necessary to meet the expectations of fans and to match the quality of the original work. Seiji Kishi (Ansatsu Kyoushitsu) is directing th...
-
-### Kyouran Reijou Nia Liston Reveals Additional Cast, Second Promo, Two Consecutive Cours
-Tue, 08 Sep 2026 02:27:18 -0700 — https://myanimelist.net/news/74687352?_location=rss
-
-The official website for the television anime adaptation of Umikaze Minamino s Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei naru Musouroku (Nia Liston: The Merciless Maiden) light novel revealed additional cast and the second promotional video on Tuesday. The anime will air for two consecutive cours, beginning on October 6 at 9:25 p.m. on Tokyo MX, followed by BS Nippon TV and MBS. A special stage event and advance screening of the first three epi...
 
 ## Otaku USA
 
