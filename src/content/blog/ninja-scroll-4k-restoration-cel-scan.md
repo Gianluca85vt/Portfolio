@@ -4,7 +4,6 @@ date: 2026-09-10
 category: Manga
 excerpt: HIDIVE scanned the original 35mm at 3840×2160 for an October theatrical run. On cel animation, that resolution sits close to the real ceiling.
 cover: /img/blog/ninja-scroll-4k-restoration-cel-scan/video-thumb.jpg
-draft: true
 ---
 
 A cel is a sheet of acetate about a tenth of a millimetre thick. The line work
