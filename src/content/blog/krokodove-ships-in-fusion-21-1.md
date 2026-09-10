@@ -4,7 +4,6 @@ date: 2026-09-10
 category: 3D
 excerpt: Raf Schoenmaekers gave Krokodove away through Reactor for two decades. Blackmagic's 8 September release puts it in the box, and ends a render farm headache.
 cover: /img/blog/krokodove-ships-in-fusion-21-1/shot-01.jpg
-draft: true
 ---
 
 There is a particular kind of Friday evening that anyone who has comped in
