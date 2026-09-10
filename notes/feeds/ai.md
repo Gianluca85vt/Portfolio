@@ -1,6 +1,16 @@
-# AI — harvested 2026-09-09T19:29:10.501Z
+# AI — harvested 2026-09-10T09:10:51.397Z
 
 ## OpenAI
+
+### The AI policy window is open. We need to act.
+Wed, 09 Sep 2026 13:00:00 GMT — https://openai.com/index/ai-policy-window
+
+Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.
+
+### GPT-6 Astra: The next generation in intelligence for work
+Wed, 09 Sep 2026 11:00:00 GMT — https://openai.com/index/gpt-6-astra-next-generation-work
+
+Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.
 
 ### Paul Christiano joins OpenAI Foundation Board
 Wed, 09 Sep 2026 17:00:00 GMT — https://openai.com/index/paul-christiano-joins-openai-foundation-board
@@ -26,21 +36,6 @@ ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into mo
 Tue, 08 Sep 2026 10:00:00 GMT — https://openai.com/index/navier-stokes-solution
 
 We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
-
-### Funding grants for new research into AI and teen development
-Tue, 08 Sep 2026 09:00:00 GMT — https://openai.com/index/teen-development-research-grants
-
-Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.
-
-### OpenAI expands initiatives to support journalism from classrooms to newsrooms
-Tue, 08 Sep 2026 00:00:00 GMT — https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms
-
-OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.
-
-### 1Password increases engineering productivity 21% with Codex
-Tue, 08 Sep 2026 00:00:00 GMT — https://openai.com/index/1password
-
-Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.
 
 ## Hugging Face
 

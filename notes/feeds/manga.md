@@ -1,72 +1,97 @@
-# Manga — harvested 2026-09-09T19:29:10.501Z
+# Manga — harvested 2026-09-10T09:10:51.397Z
 
 ## Anime News Network
 
-### Konami Announces Yu-Gi-Oh! Tag Force GX Game for Switch 2, Switch, PC
-Wed, 09 Sep 2026 14:13:31 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/konami-announces-yu-gi-oh-tag-force-gx-game-for-switch-2-switch-pc/.241575
+### Millennium Family TV Anime Casts Ryōta Suzuki
+Thu, 10 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/millennium-family-tv-anime-casts-ryota-suzuki/.241608
 
-Updated version of <cite>Yu-Gi-Oh! GX Tag Force 3</cite>, previously unreleased in N. America, launches on February 16
+Suzuki voices second son of Benfield family, Hugo
 
-### The Apothecary Diaries Series Gets New Mystery Game for Consoles, PC
-Wed, 09 Sep 2026 13:35:21 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/the-apothecary-diaries-series-gets-new-mystery-game-for-consoles-pc/.241582
+### Resident Evil 2, 3, 4 Remake Games Get Switch 2 Digital Release on October 16
+Thu, 10 Sep 2026 04:57:39 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/resident-evil-2-3-4-remake-games-get-switch-2-digital-release-on-october-16/.241617
 
-<cite>The Apothecary Diaries: The False Imperial Brother</cite> launches in early 2027 for Switch 2, Switch, PS5, PC
+Physical versions coming on January 29
 
-### Danganronpa 2x2 Game's Trailer Reveals January 14 Release
-Wed, 09 Sep 2026 13:14:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/danganronpa-2x2-game-trailer-reveals-january-14-release/.241576
+### Xenoblade Chronicles 3 Game's Switch 2 Edition Highlights New Character, New Mode in Video
+Thu, 10 Sep 2026 04:49:15 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/xenoblade-chronicles-3-game-switch-2-edition-highlights-new-character-new-mode-in-video/.241597
 
-Video previews new scenario, Slayhem Mode
+Heroes' Vault mode adds roguelite gameplay for game launching on December 3
 
-### Level 5 Announces Yo-kai Watch 2: Haunted Domain Game for Switch 2
-Wed, 09 Sep 2026 12:56:27 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/level-5-announces-yo-kai-watch-2-haunted-domain-game-for-switch-2/.241568
+### Mari Okazaki's Will I Be Single Forever? Manga Gets 2nd Live-Action Film
+Thu, 10 Sep 2026 03:30:21 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/mari-okazaki-will-i-be-single-forever-manga-gets-2nd-live-action-film/.241609
 
-English-subbed trailer teases updated version of <cite>Yo-kai Watch 2</cite> 3DS game
+Film debuts on Amazon Prime Video on October 23, features original story with new cast, staff
 
-### SSS-Class Revival Hunter Novel/Webtoon Gets Anime
-Wed, 09 Sep 2026 12:31:53 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/sss-class-revival-hunter-novel-webtoon-gets-anime/.241578
+### Live-Action Sins of Kujo Film's Teaser Reveals More Cast
+Thu, 10 Sep 2026 03:08:20 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/live-action-sins-of-kujo-film-teaser-reveals-more-cast/.241613
 
-STUDIO fu's anime of Sinnoa, Neida's webtoon premieres in January 2027
+Kiyohiko Shibukawa, Haru Kuroki, Yui Narumi, Eita Okuno, Mutsuo Yoshioka, Yū Tokui join cast
 
-### Daughter of a Thousand Faces Volume 1 Comic Review
-Wed, 09 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/daughter-of-a-thousand-faces/volume-1/.241116
+### Xbox Game Studios Takes Over Publishing Hideo Kojima's Physint Action Espionage Game
+Thu, 10 Sep 2026 02:56:36 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/xbox-game-studios-takes-over-publishing-hideo-kojima-physint-action-espionage-game/.241607
 
-What's a girl to do when she accidentally makes a pact with a demon in the depths of the Abyss?
+Kojima: SIE slated game for cancelation in June, studio spent 3 months finding new partner
 
-### Persona 4 Revival, Persona 6 Games Get Switch 2 Releases
-Wed, 09 Sep 2026 11:52:12 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/persona-4-revival-persona-6-games-get-switch-2-releases/.241572
+### Tokyo Gap-Financing Market Highlights 5 Animation Projects Seeking More Funding
+Thu, 10 Sep 2026 00:23:54 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/tokyo-gap-financing-market-highlights-5-animation-projects-seeking-more-funding/.241591
 
-<cite>Persona 4 Revival</cite> launches on Switch 2 on May 20
+Projects include those from OLM, P.I.C.S.
 
-### Monster Hunter Wilds Game Gets Switch 2 Release on December 4
-Wed, 09 Sep 2026 11:38:24 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/monster-hunter-wilds-game-gets-switch-2-release-on-december-4/.241565
+### Pikmin 4 Game Gets Switch 2 Edition, Dandori Academy Mode
+Thu, 10 Sep 2026 00:01:04 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/pikmin-4-game-gets-switch-2-edition-dandori-academy-mode/.241596
 
-Game's <cite>Ascendance</cite> expansion also heads to Switch 2
+New game mode adds puzzles, global leaderboard
 
-### Hyrule Warriors: Age of Calamity Game Gets Definitive Edition for Switch 2
-Wed, 09 Sep 2026 11:27:20 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/hyrule-warriors-age-of-calamity-game-gets-definitive-edition-for-switch-2/.241567
+### Become a Champion of Hyrule with Zelda's Electronic Master Sword From Hasbro
+Wed, 09 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-09/become-a-champion-of-hyrule-with-zelda-electronic-master-sword-from-hasbro/.241559
 
-cite>Hyrule Warriors: Age of Calamity Definitive Edition</cite> launches on February 25
+Or would you rather be the Hero of Time?
 
-### Professor Layton and The New World of Steam Game's Trailer Reveals December 10 Release
-Wed, 09 Sep 2026 11:11:15 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/professor-layton-and-the-new-world-of-steam-game-trailer-reveals-december-10-release/.241569
+### Star Fox Remake Game Gets Free Update, Star Fox Adventures Added to Nintendo Classics
+Wed, 09 Sep 2026 23:56:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/star-fox-remake-game-gets-free-update-star-fox-adventures-added-to-nintendo-classics/.241595
 
-Game launches worldwide for Switch 2, Switch, PS5, PC
+Free update to battle mode launches September 29
 
-### Nintendo Announces Kirby and the World Beyond Game for Switch 2
-Wed, 09 Sep 2026 11:03:44 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/nintendo-announces-kirby-and-the-world-beyond-game-for-switch-2/.241571
+### Masami Kurumada to Publish Saint Seiya Tenkai-hen Manga's 4th Part on December 18
+Wed, 09 Sep 2026 23:53:45 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/masami-kurumada-to-publish-saint-seiya-tenkai-hen-manga-4th-part-on-december-18/.241599
 
-3D <cite>Kirby</cite> game launches in spring 2027
+3rd part launched on May 14
 
-### Nintendo Announces Metroid Ravenous 2D Game for Switch 2
-Wed, 09 Sep 2026 10:53:54 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/nintendo-announces-metroid-ravenous-2d-game-for-switch-2/.241570
+### Prinny Party: Going Overboard! Game Launches on November 11
+Wed, 09 Sep 2026 20:10:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-09/prinny-party-going-overboard-game-launches-on-november-11/.241589
 
-Game launches on January 28
+Game available on Switch 2, Switch, PS5, PC via Steam
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### XBOX to Publish Hideo Kojima's PHYSINT Game After PlayStation Ends Collaboration
+Thu, 10 Sep 2026 08:28:44 GMT — https://animecorner.me/xbox-to-publish-hideo-kojimas-physint-game-after-playstation-ends-collaboration/
+
+KOJIMA PRODUCTIONS has confirmed that XBOX will publish PHYSINT, expanding the studio's existing partnership&hellip;
+
+### Cygames Is Now a Premium Partner to the Qatar Prix de L’Arc de Triomphe
+Thu, 10 Sep 2026 08:01:21 GMT — https://animecorner.me/cygames-is-now-a-premium-partner-to-the-qatar-prix-de-larc-de-triomphe/
+
+Cygames, Inc., the company behind the Umamusume: Pretty Derby franchise, is now a Premium&hellip;
+
+### Interview: Yuto Uemura (Atsushi) and Chiaki Kurakane (Producer) on Bungo Stray Dogs
+Thu, 10 Sep 2026 06:06:03 GMT — https://animecorner.me/interview-yuto-uemura-atsushi-and-chiaki-kurakane-producer-on-bungo-stray-dogs/
+
+The Bungo Stray Dogs anime looked back on its 10 year legacy during Anime&hellip;
+
+### Interview: Amagi Brilliant Park and Full Metal Panic! Creator Shoji Gatoh
+Thu, 10 Sep 2026 04:03:00 GMT — https://animecorner.me/interview-amagi-brilliant-park-and-full-metal-panic-creator-shoji-gatoh/
+
+During his visit to the French convention Japan Expo Paris, novelist and screenwriter Shoji&hellip;
+
+### New Naruto Anime Film Announcement Expected at New York Comic Con 2026 (Variety)
+Wed, 09 Sep 2026 21:12:44 GMT — https://animecorner.me/new-naruto-anime-film-announcement-expected-at-new-york-comic-con-2026-variety/
+
+A new anime film for the NARUTO franchise is expected to be announced at New York Comic Con 2026, taking place in October.
 
 ### Ninja Scroll 4K Remaster Sets October 4, 5 and 7 North American Theatrical Release, Exclusive Still Available
 Wed, 09 Sep 2026 18:39:44 GMT — https://animecorner.me/ninja-scroll-4k-remaster-sets-october-4-5-and-7-north-american-theatrical-release-exclusive-still-available/
@@ -103,37 +128,12 @@ Wed, 09 Sep 2026 05:50:17 GMT — https://animecorner.me/kagurabachi-anime-world
 
 KAGURABACHI anime has revealed details for Part 2 of its ongoing Anime World Tour,&hellip;
 
-### Black Bullet: New World Order Announced, Novel Series Returns With Reboot After 12 Years
-Wed, 09 Sep 2026 04:01:12 GMT — https://animecorner.me/black-bullet-new-world-order-announced-novel-series-returns-after-12-years/
-
-Black Bullet is officially returning with a new project titled Black Bullet: New World Order, marking the series' first major revival in 12 years.
-
-### The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Reveals Main Trailer, New Visual, Cast, October 6 Premiere
-Wed, 09 Sep 2026 03:11:26 GMT — https://animecorner.me/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-reveals-main-trailer-new-visual-cast-october-6-premiere/
-
-The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life anime revealed the main&hellip;
-
-### Interview: MAYLA on Creating Unique Products for Attack on Titan, Black Butler, Hatsune Miku, NieR:Automata, and More
-Wed, 09 Sep 2026 02:37:05 GMT — https://animecorner.me/interview-mayla-on-creating-unique-products-for-attack-on-titan-black-butler-hatsune-miku-nierautomata-and-more/
-
-The Japanese fashion brand MAYLA visited the German convention AnimagiC for the first time,&hellip;
-
-### Interview: Anji Iwata on His Role as Yamada in You and I Are Polar Opposites
-Wed, 09 Sep 2026 02:29:33 GMT — https://animecorner.me/interview-anji-iwata-on-his-role-as-yamada-in-you-and-i-are-polar-opposites/
-
-During his first visit to the German convention AnimagiC, we sat down with voice&hellip;
-
-### Interview: Yoko Kanno on Her Inspirations and First Lucca Comics & Games Appearance
-Wed, 09 Sep 2026 02:27:44 GMT — https://animecorner.me/interview-yoko-kanno-on-her-inspirations-and-first-lucca-comics-games-appearance/
-
-Ahead of her first performance in Italy, we had the opportunity to interview composer,&hellip;
-
 ## MyAnimeList News
 
 ### Webtoon SSS-Class Revival Hunter Gets TV Anime in Winter 2027
 Wed, 09 Sep 2026 11:00:25 -0700 — https://myanimelist.net/news/74693008?_location=rss
 
-Production company Hayate opened an official website for a television anime adaptation of Sinnoa and Bill K s SSS-Class Revival Hunter webtoon on Wednesday. The website also revealed the main cast, staff, teaser visual (pictured), and a teaser promotional video. The anime is scheduled to premiere in January 2027. Voice actor Takeo Ootsuka ([Oshi no Ko]) and Satoshi Hino (Overlord) stars as Gong-ja Kim and Bae Hu-ryeong, respectively. Staff Director: Hiroaki Sakurai (Machikado Mazoku) Scrip...
+Production company Hayate opened an official website for a television anime adaptation of Sinnoa and Bill K s SSS-Class Revival Hunter webtoon on Wednesday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. The anime is scheduled to premiere in January 2027. Voice actors Takeo Ootsuka ([Oshi no Ko]) and Satoshi Hino (Overlord) are starring as Gong-ja Kim and Bae Hu-ryeong, respectively. Staff Director: Hiroaki Sakurai (Machikado Mazoku) Script: Sayur...
 
 ### Tensei Goblin dakedo Shitsumon Aru? Reveals Additional Staff, Theme Songs, Main Promo
 Wed, 09 Sep 2026 03:34:54 -0700 — https://myanimelist.net/news/74691262?_location=rss
@@ -170,24 +170,19 @@ Tue, 08 Sep 2026 02:27:18 -0700 — https://myanimelist.net/news/74687352?_locat
 
 The official website for the television anime adaptation of Umikaze Minamino s Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei naru Musouroku (Nia Liston: The Merciless Maiden) light novel revealed additional cast and the second promotional video on Tuesday. The anime will air for two consecutive cours, beginning on October 6 at 9:25 p.m. on Tokyo MX, followed by BS Nippon TV and MBS. A special stage event and advance screening of the first three epi...
 
-### The Power of Will: Rie Takahashi and Saori Hayami on Rediscovering Magic Knight Rayearth
-Mon, 07 Sep 2026 16:40:56 -0700 — https://myanimelist.net/news/74684465?_location=rss
-
-Since its debut in 1993, CLAMP s Magic Knight Rayearth has remained a beloved classic, remembered for its memorable heroines, imaginative fantasy world, and themes of friendship and willpower. Now, over thirty years later, the series returns with a brand-new television anime adaptation, introducing the magical world of Cefiro to a new generation when it premieres this October. Ahead of the anime s advance screening at Anime Expo 2026, we sat down with Rie Takahashi and Saori Hayami, w...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Don’t Confuse Me, Yamori-kun Volume 1 Review
+Thu, 10 Sep 2026 09:00:03 +0000 — https://animeuknews.net/2026/09/dont-confuse-me-yamori-kun-volume-1-review/
+
+High-schoolers Mori and Yamori decide to change their looks over summer break – but who could have expected Yamori to return to school in a skirt?!
+
 ### Engage Kiss Collector’s Edition Review
 Wed, 09 Sep 2026 09:00:03 +0000 — https://animeuknews.net/2026/09/engage-kiss-collectors-edition-review/
 
 A confusing mix of magical girlfriend rom-com hijinks and supernatural action, Engage Kiss struggles to get a footing, but when it does, Shu’s quest to find his sister who went missing in a disaster as a child really comes alive.
-
-### Blue Lock: Episode Nagi Volumes 4 and 5 Review
-Tue, 08 Sep 2026 09:00:52 +0000 — https://animeuknews.net/2026/09/blue-lock-episode-nagi-volumes-4-and-5-review/
-
-Two further volumes of Blue Lock: Episode Nagi finally bring us into some original content that isn't depicted in the main series.
 

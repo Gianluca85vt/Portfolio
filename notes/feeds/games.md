@@ -1,6 +1,31 @@
-# Games — harvested 2026-09-09T19:29:10.501Z
+# Games — harvested 2026-09-10T09:10:51.397Z
 
 ## Eurogamer
+
+### "Everyone wants immediate gratification" - Project Zeta studio on making a new action-focused MOBA without all the fluff
+Thu, 10 Sep 2026 09:00:20 +0000 — https://www.eurogamer.net/project-zeta-preview-immediate-gratification-gamescom
+
+There's nothing quite like a good MOBA: the reliance on teamwork, the intricacy of a good build, the ability to pick a character and master them. I've lost many nights of my life to the genre and I regret few of them. Read more
+
+### Nintendo adds VRR support to docked Nintendo Switch 2 in latest console update
+Thu, 10 Sep 2026 08:53:10 +0000 — https://www.eurogamer.net/nintendo-switch-2-update-vrr-support-docked
+
+A new update for the Nintendo Switch 2 has added VRR (Variable Refresh Rate) support while the console is docked. Read more
+
+### Call of Duty: Modern Warfare 4 has a weapon skin you can only see properly on Xbox
+Thu, 10 Sep 2026 08:29:24 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-xbox-exclusive-weapon-skin
+
+We're a month-and-a-half away from the release of Call of Duty: Modern Warfare 4, and Activision has devised another attempt to convince players to pre-order the military shooter, though this one goes beyond offering $5 in store credit . Read more
+
+### Hideo Kojima's Physint now being published by Xbox, as PlayStation severs ties with Kojima Productions and Microsoft steps in to take over
+Thu, 10 Sep 2026 06:56:19 +0000 — https://www.eurogamer.net/physint-kojima-playstation-xbox-publishing-changes
+
+It looks like Hideo Kojima has made some big changes behind-the-scenes with his upcoming "action espionage" title, Physint. The game, which was announced as a PlayStation exclusive in 2024, is now in the hands of Asha Sharma's Xbox, where Kojima will reportedly be a primary focus of her new vision for the platform. PlayStation says it "stepped away from the project" earlier this year, for undisclosed reasons. Read more
+
+### After 43 years, Dragon Quest creator Yuji Horii is making a surprise sequel to his NES murder mystery game
+Wed, 09 Sep 2026 19:40:30 +0000 — https://www.eurogamer.net/dragon-quest-yuji-horii-nes-sequel-43-years
+
+This week's dual-pronged Nintendo Direct shows were stuffed with huge games. Kirby and the World Beyond ! Metroid Ravenous ! The Legend of Zelda: Ocarina of Time ! But the Japanese version of today's show quietly snuck in at least one game the rest of us didn't get: a sequel to Dragon Quest creator Yuji Horii's 1983 adventure game. Read more
 
 ### Valheim 1.0's Steam player count soars to a huge 5-year high, but it's not enough to beat the viral survival game's early access peak
 Wed, 09 Sep 2026 18:45:30 +0000 — https://www.eurogamer.net/valheim-steam-count-huge-survival-game-early-access
@@ -37,32 +62,17 @@ Wed, 09 Sep 2026 14:15:28 +0000 — https://www.eurogamer.net/monster-hunter-wil
 
 Monster Hunter Wilds is coming to the Nintendo Switch 2 , it has just been revealed during the Nintendo Direct. Read more
 
-### After selling over 20 million copies on Steam, Meccha Chameleon comes to Nintendo Switch 2 later today
-Wed, 09 Sep 2026 14:13:12 +0000 — https://www.eurogamer.net/meccha-chameleon-switch-2
-
-Meccha Chameleon, the indie hide-and-seek game that launched on Steam a couple of months ago, is already one of the year's biggest hits, taking the PC market by storm. Now, as revealed in today's Nintendo Direct, the indie smash hit is coming to Nintnedo Switch 2 - and it arrives today. Read more
-
-### Everything announced in September 2026's Nintendo Direct
-Wed, 09 Sep 2026 14:07:51 +0000 — https://www.eurogamer.net/everything-announced-nintendo-direct-september-2026
-
-We should stop meeting like this! Yes, for the second time in two days, our fates have become intertwined thanks to the matchmaking of Nintendo. Following yesterday's 40th anniversary Legend of Zelda showcase , we got to do the announcement livestream thing all over again - and this time for a proper Nintendo Direct, which managed to squeeze an enormous amount of stuff into its 45-minutes focused on games arriving this "winter". Read more
-
-### The Blood of Dawnwalker controller issues tackled in latest hotfix, and Rebel Wolves talks more about a sequel
-Wed, 09 Sep 2026 13:29:31 +0000 — https://www.eurogamer.net/the-blood-of-dawnwalker-patch-controller-issues-sequel
-
-Opinion seems to be favourable about Witcher-like dark fantasy role-playing game The Blood of Dawnwalker - barring a few technical problems, that is. Quibbles with performance issues, controller issues, and bugs (and perhaps the lack of a New Game+ mode) are holding the game back. To this end, developer Rebel Wolves has whisked out a quick hotfix, addressing some of the issues at hand. Read more
-
-### No Man's Sky 10th anniversary update is here, and that means orbital bases, space station ownership - and yes, you can finally fly to the sun
-Wed, 09 Sep 2026 13:00:00 +0000 — https://www.eurogamer.net/no-mans-sky-10th-anniversary-cosmos-update-revealed
-
-After much teasing and speculation, No Man's Sky 's 10th anniversary Cosmos update is here and, yup, it's a big 'un, bringing a "complete overhaul of space". Which mean, among other things, alliances, orbital bases, the ability to purchase and live in your own space station, and you can finally fly to the sun. Read more
-
-### Nintendo Direct live report - the big news and announcements as Switch 2's winter line-up revealed
-Wed, 09 Sep 2026 11:56:00 +0000 — https://www.eurogamer.net/nintendo-direct-switch-winter-2026-line-up
-
-It's day-two of Nintendo's Direct September showcases, and today the focus is Switch games arriving this winter. Today's show begins at 3pm UK time and we'll be covering the big announcements here, live, as they happen. Read more
-
 ## GamesIndustry.biz
+
+### Xbox to publish Kojima Productions' Physint after it "unexpectedly received notice" from PlayStation that it would cancel the project
+Thu, 10 Sep 2026 07:34:19 +0000 — https://www.gamesindustry.biz/xbox-to-publish-kojima-productions-physint-after-it-unexpectedly-received-notice-from-playstation-that-it-would-cancel-the-project
+
+Xbox will publish Kojima Productions' upcoming title Physint after the developer "unexpectedly received notice from PlayStation Studios that they would cancel the Physint project" in mid-June. Read more
+
+### Almost 1,900 Blizzard workers ratify first union contract with Microsoft
+Wed, 09 Sep 2026 20:14:39 +0000 — https://www.gamesindustry.biz/almost-1900-blizzard-workers-ratify-first-union-contract-with-microsoft
+
+Blizzard Entertainment has secured a first union contract with parent company Microsoft, ratified by a workforce vote covering just under 1,900 staff. Read more
 
 ### Lego Digital Play acquires mobile studio Offroad Games
 Wed, 09 Sep 2026 18:56:51 +0000 — https://www.gamesindustry.biz/lego-digital-play-acquires-mobile-studio-offroad-games
@@ -114,21 +124,16 @@ Tue, 08 Sep 2026 13:54:12 +0000 — https://www.gamesindustry.biz/star-stable-en
 
 Swedish developer Star Stable Entertainment has laid off 20% of its employees following a restructuring program. Read more
 
-### European game developers are more concerned that AI will pressure them to work faster rather than take their job
-Tue, 08 Sep 2026 13:27:23 +0000 — https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job
-
-61% of European game developers are concerned that generative AI will place them under pressure to work faster and produce more, but only 35% think that AI might cause them to lose their job or reduce demand for their role. Read more
-
-### The Tetris Company says it was "not involved in the creation" of White House parody, takes "copyright infringement very seriously"
-Tue, 08 Sep 2026 13:03:33 +0000 — https://www.gamesindustry.biz/the-tetris-company-says-it-was-not-involved-in-the-creation-of-white-house-parody-takes-copyright-infringement-very-seriously
-
-The Tetris Company has issued a statement regarding a US government-made parody of its tile-matching puzzle game, which has since been removed . Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Sony Cancels Physint Development, Xbox Picks Up Project
+Thu, 10 Sep 2026 06:45:00 GMT — https://www.pushsquare.com/news/2026/09/sony-cancels-physint-development-xbox-picks-up-project
+
+Hideo Kojima game now under Xbox's wing. PlayStation has confirmed its decision to "step away" from the development of Physint , the new Metal Gear Solid -esque project from Kojima Productions that was announced a few years ago. In a statement posted to social media, Sony explained: "After careful consideration, we have made the difficult decision to step away from collaborating with Kojima Productions on its project PHYSINT. We continue to have great admiration for Hideo Kojima's vision for the game." Read the full article on pushsquare.com
 
 ### The Surprisingly Good Twisted Metal TV Series Wraps Filming on Season 3
 Wed, 09 Sep 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/09/the-surprisingly-good-twisted-metal-tv-series-wraps-filming-on-season-3
@@ -185,12 +190,12 @@ Wed, 09 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/09/no-man
 
 Available today. Hello Games has just unveiled its latest game-changing update for No Man's Sky , available to all players from today. Entitled 'Cosmos', this free update to the space exploration and survival game focuses on, well, space, making significant additions that once again expand how you'll play. Read the full article on pushsquare.com
 
-### PS6 Could Be the Last PlayStation Console Designed by Iconic Architect
-Wed, 09 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/09/ps6-could-be-the-last-playstation-console-designed-by-iconic-architect
-
-Mark Cerny "nearing the end" of his career. A new PlayStation console generation only really begins when Mark Cerny appears at an event to introduce an absurdly in-depth breakdown of the technology going into the new system. Sony has partnered with the architect for generations now, and if all is well and good, he will likely front the reveal of the PS6 too. However, that might be his last. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Mark Cerny and Geoff Keighley launch university-affiliated fellowship program
+Wed, 09 Sep 2026 20:00:00 GMT — https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program
+
+The program, called Nova Games Foundation, aims to offer six-figure grants to 20 young game designers each year.
 
 ### Planet Zoo maker Frontier Developments' adjusted operating profit jumps 62 percent
 Wed, 09 Sep 2026 18:24:38 GMT — https://www.gamedeveloper.com/business/planet-zoo-maker-frontier-developments-adjusted-operating-profit-jumps-62-percent
@@ -234,6 +239,21 @@ The Life is Strange developer has warned it might not have the runway to continu
 
 ## VGC
 
+### Switch 2 system update adds VRR support when docked, Switch 2 to Switch 2 system transfer and more
+Thu, 10 Sep 2026 08:32:44 +0000 — https://www.videogameschronicle.com/news/switch-2-system-update-adds-vrr-support-when-docked-switch-2-to-switch-2-system-transfer-and-more/
+
+Version 23.0.0's transfer feature arrives ahead of the new Zelda Switch 2 console… Source
+
+### Hideo Kojima s Physint has jumped from PlayStation to Xbox, after Kojima says Sony tried to cancel it
+Thu, 10 Sep 2026 07:08:55 +0000 — https://www.videogameschronicle.com/news/hideo-kojimas-physint-has-jumped-from-playstation-to-xbox-after-kojima-says-sony-tried-to-cancel-it/
+
+PlayStation has confirmed it decided to "step away" Source
+
+### SNK’s NeoGeo AES re-release delayed by nearly a year due to components shortage
+Wed, 09 Sep 2026 21:46:58 +0000 — https://www.videogameschronicle.com/news/snks-neogeo-aes-re-release-delayed-by-nearly-a-year-due-to-components-shortage/
+
+NeoGeo AES+ will now release in 2027… Source
+
 ### WWE 2K26 Ringside Pass Season 5 is out now, adds four new superstars including Danhausen
 Wed, 09 Sep 2026 16:53:58 +0000 — https://www.videogameschronicle.com/news/wwe-2k26-ringside-pass-season-5-is-out-now-adds-four-new-superstars-including-danhausen/
 
@@ -269,74 +289,104 @@ Wed, 09 Sep 2026 15:10:52 +0000 — https://www.videogameschronicle.com/news/res
 
 All three games are available for pre-order starting today… Source
 
-### Kirby and the World Beyond is an all-new Kirby 3D adventure coming in Spring 2027
-Wed, 09 Sep 2026 14:53:29 +0000 — https://www.videogameschronicle.com/news/kirby-and-the-world-beyond-is-an-all-new-kirby-3d-adventure-coming-in-spring-2027/
-
-It's the second full 3D Kirby platformer after Kirby and the Forgotten Land… Source
-
-### Nintendo announces Metroid Ravenous, a new side-scrolling adventure
-Wed, 09 Sep 2026 14:35:26 +0000 — https://www.videogameschronicle.com/news/nintendo-announces-metroid-ravenous-a-new-side-scrolling-adventure/
-
-Samus has to feed on her enemies in this new game… Source
-
-### Pokémon Pokopia s second expansion gets new trailer revealing new Pokémon
-Wed, 09 Sep 2026 14:24:04 +0000 — https://www.videogameschronicle.com/news/pokemon-pokopias-second-expansion-gets-new-trailer-revealing-new-pokemon/
-
-7 new Pokémon have been confirmed for the expansion… Source
-
 ## Polygon
 
-### 'Nosferatu' Director's New Gothic Thriller Is Already the Biggest Horror Movie of 2026
-Wed, 09 Sep 2026 19:00:14 GMT — https://www.polygon.com/robert-eggers-interview-werwulf/
+### What time does Wardogs release in your time zone?
+Thu, 10 Sep 2026 09:02:04 GMT — https://www.polygon.com/wardogs-release-time-edt-pdt-preload/
 
-The film, which stars Willem Dafoe, Aaron Taylor-Johnson, Lily-Rose Depp, and Ralph Ineson, releases in theaters on Dec. 25 and tells the story of a 14th-century town in England that's terrorized by a wolf-like monster. While Werwulf remains shrouded in mystery, Polygon was able to coax a few fresh details out of Eggers in an email interview. Check out his answers to our questions below.
+The Wardogs release time is right around the corner, folks, and it's been a long time coming. After a number of incredibly successful beta periods and closed playtests, the Bulkhead-developed multiplayer FPS will be released into Steam Early Access on Thursday, Sept. 10 . Plenty of folks are wondering exactly when that'll happen, though, as everyone is seemingly champing at the bit to die at the hands of my sniper rifle. Who can blame 'em?
 
-### New Pokémon Confirmed For 'Pokémon Pokopia' In Stylish New Preview
-Wed, 09 Sep 2026 18:48:27 GMT — https://www.polygon.com/pokemon-pokopia-dlc-nintendo-direct-switch-2-new-monsters-items/
+### The 8 Biggest Book-to-Screen Adaptations of Fall 2026
+Thu, 10 Sep 2026 09:00:14 GMT — https://www.polygon.com/biggest-book-adaptations-fall-2026/
 
-With Bubbly Basin in the rear-view mirror, Pokémon Pokopia is gearing players up for the cozy game's next DLC update. Koei Tecmo and Game Freak have been teasing the game's accessory-focused update for a while, but Wednesday's Nintendo Direct offered a better look at the DLC in action.
+Books have inspired some of the biggest blockbusters of all time, like Jurassic Park and The Lord of the Rings , along with hit TV series like Game of Thrones and The Handmaid's Tale . Beyond coming with a built-in audience, books offer memorable characters and imaginative worlds that can sell a studio on an ambitious project. After all, what Hollywood studio would ever take a chance on a totally bonkers story like Dune if the entire thing hadn't already been meticulously mapped out with written words and devoured by millions of fans?
 
-### Eldrazi Officially Return to 'Magic: The Gathering' in a Way Players Didn’t Expect
-Wed, 09 Sep 2026 18:33:19 GMT — https://www.polygon.com/mtg-reality-fracture-leaks-emrakul-spoilers-trapped-in-the-moon/
+### 47 Years Later, Garfield's Best Quote is Still an Iconic Comic Strip Moment
+Thu, 10 Sep 2026 08:30:14 GMT — https://www.polygon.com/garfield-jim-davis-best-quote/
 
-Ten years ago, Magic: The Gathering ’s heroes faced one of the greatest threats in the history of the Multiverse: the Eldrazi called Emrakul. As told in 2016’s Eldritch Moon set, they succeeded in imprisoning the reality-breaking, Lovecraftian monster within Innistrad’s moon — but not because they actually defeated her. The incomprehensible, primordial being actually seized control of the Planeswalker Tamiyo and forced her to cast a forbidden spell that sealed itself away for reasons no one could understand. Now, with the threat of the Echoverse looming in the upcoming Reality Fracture set, Emrakul has awoken.
+“I'd like to say it was some sort of a divine inspiration that created the strip. In fact, it wasn't so much that as a conscious effort to come up with a good, marketable character,” Davis told The Washington Post in 1982, and he has since said similar things .
 
-### Beloved Fantasy Book Series Redfall Officially Returns in 2027
-Wed, 09 Sep 2026 18:08:25 GMT — https://www.polygon.com/redwall-orphans-of-mossflower-final-book-release-date-announced/
+### The 10 Most Anticipated Board Games of Fall 2026
+Thu, 10 Sep 2026 08:00:14 GMT — https://www.polygon.com/most-anticipated-board-games-2026/
 
-For 25 years from 1986 to 2011, writer Brian Jacques stole the hearts of readers everywhere with his Redwall series of fantasy novels . The Rogue Crew was released in 2011, three months after Jacques' death, and for 15 years it has remained the final entry in the series — until now.
+After spending summer traveling or enjoying the nice weather outside, fall’s plunging temperatures offer the perfect excuse to stay indoors and play some games . But beyond a packed release schedule for video games, fall is a huge time for board games , with many new titles previewing and releasing at Germany’s SPIEL Essen in October.
 
-### Nintendo Is Quietly Putting Together a Killer 2027
-Wed, 09 Sep 2026 18:00:14 GMT — https://www.polygon.com/nintendo-switch-2-2027-lineup/
+### 31 Years Later, Matthew Lillard’s Fan-Favorite Techno-Thriller Is Officially Free on Streaming
+Thu, 10 Sep 2026 04:30:14 GMT — https://www.polygon.com/one-of-matthew-lillards-wildest-movies-is-free-right-now-on-pluto-tv/
 
-After a week of juicy speculation, Nintendo’s September Direct didn’t exactly deliver on fans’ loftiest expectations. That’s kind of par for the course at this point, but the 45-minute showcase was especially underwhelming. Rather than seeing Super Smash Bros. or a new 3D Mario game, fans were mostly treated to ports of third-party games that will land on Switch 2 this fall. It wasn’t exactly Nintendo’s most thrilling show, to say the least.
+Which brings us to the 1995 cyber-thriller Hackers , a film that feels specifically designed to produce maximum Matthew Lillard energy. Directed by Iain Softley, the film follows a group of teenage punks with a knack for hacking, who get caught in a corporate embezzlement scheme after one of their own accidentally uncovers the Da Vinci Virus, a dangerous computer program that could trigger an environmental disaster. Before long, they're being framed for a crime they didn't commit and have to use their combined hacking skills to expose the real culprit.
 
-### What time does Marvel Rivals Season 10 release in your time zone?
-Wed, 09 Sep 2026 17:52:47 GMT — https://www.polygon.com/marvel-rivals-season-10-release-time-when-edt-pdt-utc/
+### Mare of Easttown Meets Killing Eve in Hulu's 8-Part Crime Thriller Series
+Thu, 10 Sep 2026 04:00:19 GMT — https://www.polygon.com/furious-hulu-crime-drama/
 
-Marvel Rivals Season 10 , officially titled "Butcher's Blasphemy," will be launching on Friday, Sept. 11 , and Gorr the God Butcher, a new duelist, will be joining the fray. Additionally, there will be a new event, battle pass, and, of course, costumes. More will come later on in the season before the 10.5 update, but if you're itching to take down the gods, you'll want to get into the action as fast as possible.
+Options on TV right now seem unlimited in nearly every genre, with new shows releasing almost daily, and currently, a new show on Hulu combines the grittiness of HBO's Mare of Easttown with the character-driven female story of Killing Eve . It is an intersection that most did not know they needed until they got it.
 
-### Steven Spielberg's Disclosure Day Sets Official Peacock Streaming Release Date
-Wed, 09 Sep 2026 17:49:44 GMT — https://www.polygon.com/disclosure-day-sets-streaming-release-date-on-peacock/
+### Liam Neeson's Non-Stop Action Thriller Has One Crazy Twist — It's Director
+Thu, 10 Sep 2026 03:00:14 GMT — https://www.polygon.com/liam-neeson-mongoose-director-interview/
 
-Steven Spielberg has spent much of his career looking to the stars. From the wonder of Close Encounters of the Third Kind to the childhood adventure of E.T. the Extra-Terrestrial , few filmmakers have done more to shape the way Hollywood approaches stories about humanity making contact with something beyond our world. Even War of the Worlds, though it was an adaptation, offered a glimpse into Spielberg's fascination with extraterrestrial life.
+The Mongoose stars Neeson as Ryan "Fang" Flanagan, a military veteran who gets caught up in a high-speed, cross-country chase after inadvertently stealing an expensive, high-tech car. Pursued by countless cops, helicopters, and one very angry Michael Chiklis as a Texas lawman with an axe to grind, Fang races toward the southern border, while his story makes national headlines and inspires a wave of supporters who help him outsmart the cops. It's a modern folk-hero legend with plenty of everything you'd expect from Neeson: non-stop action, wild stunts, and lots of gruff dialogue.
 
-### Netflix Reveals First Official Trailer for Lone Survivor Director's WWII Streaming Epic
-Wed, 09 Sep 2026 17:39:01 GMT — https://www.polygon.com/mosquito-bowl-movie-trailer-peter-berg/
+### Skyrim’s Wildest New Character Is a Talking Ikea Shelf, Voiced by Matt Berry
+Thu, 10 Sep 2026 00:43:38 GMT — https://www.polygon.com/skyrim-ikea-mod-shelf-matt-berry/
 
-On Wednesday, Netflix released the first trailer for The Mosquito Bowl , its upcoming World War II film from director Peter Berg, best known for movies like Lone Survivor , Deepwater Horizon , and Friday Night Lights . In 2028, Berg will helm a Call of Duty adaptation for Paramount. But first, he has The Mosquito Bowl , a film based on the book of a similar name by Pulitzer Prize-winning author Buzz Bissinger.
+There are few things more humbling in The Elder Scrolls 5: Skyrim than finally defeating a powerful enemy, looting their corpse, and immediately discovering that you are carrying too much stuff to move. Thankfully, IKEA has arrived in Tamriel to solve Skyrim’s most persistent problem: clutter.
 
-### Nintendo Reveals Rare Switch 2 Game That Can't Be Played on a TV
-Wed, 09 Sep 2026 17:16:18 GMT — https://www.polygon.com/nintendo-direct-onyx-dark-grip-horror-game-bloober/
+### The 25 Best Games on Xbox Game Pass in 2026
+Thu, 10 Sep 2026 00:38:19 GMT — https://www.polygon.com/best-game-pass-games/
 
-The Nintendo Switch 2's biggest selling point is that it is a hybrid console that can be played on-the-go or on a TV screen. Imagine the surprise Nintendo fans felt then when the publisher revealed Onyx: The Dark Grip during Wednesday's Nintendo Direct showcase — a game that cannot be played while docked.
+After a huge 2025, which saw the addition of the likes of Clair Obscur: Expedition 33 and Hollow Knight: Silksong , 2026 has been a bit quieter for the service. But there have been some monster back-catalog additions, including CD Projekt's Cyberpunk 2077 and a huge tranche of Ubisoft games, plus a few notable day-one drops, including Forza Horizon 6 and Halo: Campaign Evolved .
 
-### Stephen King's 1974 Horror Classic Returns in First Look at Prime Video's New 8-Episode Series
-Wed, 09 Sep 2026 17:12:02 GMT — https://www.polygon.com/carrie-mike-flanagan-prime-video-trailer/
+### Game of Thrones Is Officially Bringing Back Daenerys Targaryen
+Thu, 10 Sep 2026 00:30:14 GMT — https://www.polygon.com/game-of-thrones-war-for-westeros-trailer-daenerys-targaryen/
 
-Stephen King's Carrie was the first novel the prolific horror writer published back in 1974. It kicked off his career as a writer and has since been adapted several times, recreating Carrie in a different setting each time.
+It's safe to say that Game of Thrones has become a cultural juggernaut. George R.R. Martin's book series, and the web of TV series that have been inspired by it, have been dominating our pop culture for years, and a few of the biggest characters are about to make a comeback.
 
 ## PC Gamer
+
+### PC Gamer magazine's new issue is on sale now: The Witcher 3: Wild Hunt – Songs of the Past
+Thu, 10 Sep 2026 08:33:11 +0000 — https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-the-witcher-3-wild-hunt-songs-of-the-past/
+
+This month, PC Gamer delivers world-exclusive access to CD Projekt Red's jaw-dropping new The Witcher 3: Wild Hunt expansion, Songs of the Past. With unsurpassed, elite-level access to CD Projekt Red's Warsaw development headquarters, PC Gamer gets the definitive inside scoop on this brand new adventure for Geralt of Rivia. And, with tons of previously unseen images, as well as interview access to many of the studio's key developers, this is your ultimate resource for Songs of the Past info. The White Wolf is back on the path, and we couldn't be more hyped. Issue 427 UK / 415 US PC Gamer magazine: $4.99 Cover story: The Witcher 3: Wild Hunt – Songs of the Past | Secondary features: PC gaming's best RTS games This month, PC Gamer delivers world-exclusive access to CD Projekt Red's jaw-dropping new The Witcher 3: Wild Hunt expansion, Songs of the Past. Plus, Exodus previewed, Halo: Campaign Evolved reviewed, and gaming laptops tested. Buy this issue in print: $4.99 (US) | $16.49 (UK) Buy this issue digitally: $4.99 (US) | $16.49 (UK) There's another awesome feature in this issue of PC Gamer, too. The RTS is one of PC gaming's foundational genres and, despite having a decade or so in the shade due to the console-leaning focus of many studios, it is now having a renaissance thanks to the combination of great new RTS games being made, old classics getting great remasters, and the golden oldies themselves being made easier to play than ever thanks to preservation-focused companies 
+
+### PlayStation tried to cancel Hideo Kojima's Physint, now Xbox is publishing it
+Thu, 10 Sep 2026 03:31:13 +0000 — https://www.pcgamer.com/gaming-industry/playstation-tried-to-cancel-hideo-kojimas-physint-now-xbox-is-publishing-it/
+
+Physint has been hyped as Kojima Productions' return to "tactical espionage action" or, in other words, Hideo Kojima's return to making stealth action games in the style of Metal Gear Solid. It's been a PlayStation exclusive since its reveal in 2024, but things have changed dramatically: after Sony tried to cancel the project entirely in June this year, Kojima has found refuge with Microsoft. "In mid-June of this year, we unexpectedly received notice from PlayStation Studios that they would cancel the Physint project," Hideo Kojima wrote on X . "Physint is an important project both to me personally and to Kojima Productions. Determined to keep the project alive, we have spent the last three months searching tirelessly for a new partner. In the course of seeking advice and pursuing negotiations with people across many fields, we found in Xbox a partner with whom we share a common vision for the future, and we have decided to team up with them once again. "Please rest assured that development of Physint, our genre-defining action-espionage title, is ongoing and will continue moving forward." In an exceedingly rare turn of events, Sony has even released its own statement , though it's unlikely to paper over the fact that the company tried to cancel a Hideo Kojima game. "After careful consideration, we have made the difficult decision to step away from collaborating with Kojima Productions on its project Physint," the official PlayStation X account posted. "We continue to have gr
+
+### The next game by the creators of Steins;Gate is an entirely vibe-coded FPS slopfest
+Thu, 10 Sep 2026 02:54:46 +0000 — https://www.pcgamer.com/games/fps/the-next-game-by-the-creators-of-steins-gate-is-an-entirely-vibe-coded-fps-slopfest/
+
+Juggernaut is a forthcoming free-to-play boomer shooter clearly styled after Wolfenstein engine FPSes of yore. It's about shooting huge waves of zombies in flat, pixellated arenas. As far as modern retro shooters go it looks unremarkable, though it will be released alongside the Juggernaut Assets Maker, a paid tool for making your own levels and adding your own assets. "Make it more Japanese" the Steam page promises. "Make it sexier". It's the work of Mages Inc, a Japanese studio best known for the Steins;Gate series of visual novels; it has also worked on recent iterations of the Corpse Party series. Mages Inc generally specialises in visual novels, though it has released at least one Xbox 360 action game that was never released outside of Japan. But to what extent Mages Inc can actually be credited (or blamed) for their first foray into the first-person shooter genre is ripe for debate, because here's Juggernaut's AI Disclosure: AI Breakdown Source code: 100% Graphics: 60% Sound: 50% Effects: 100% In other words, this FPS is entirely vibe-coded, and its assets are overwhelmingly the work of generative AI. The Juggernaut Asset Maker , which will cost money, carries a similar disclosure: "The source code for this application was generated using generative AI". Mages Inc isn't the best known studio in the world, but it's been around for over 20 years and has issued a handful of games that most enthusiasts would have heard of. Steins;Gate has nearly 6,000 "overwhelmingly positi
+
+### Attendees will be able to check out a demo of The Witcher 3 DLC Songs of the Past behind closed doors at PAX Australia
+Thu, 10 Sep 2026 02:19:09 +0000 — https://www.pcgamer.com/gaming-industry/events-conferences/attendees-will-be-able-to-check-out-a-demo-of-the-witcher-3-dlc-songs-of-the-past-behind-closed-doors-at-pax-australia/
+
+I'm looking forward to an expansion for a game from 2015 more than I am for pretty much any new game coming up. The Songs of the Past add-on for The Witcher 3, which will be out next year, promises to let us explore a whole new region and get to know Dandelion better than ever. I'm more interested in a brand new chunk of world than intimate moments with the bard, but more Witcher 3 is more Witcher 3 even if the focus isn't on everyone's actual favorite character. (Johnny the Godling, of course.) Songs of the Past was shown off at Gamescom, where our Joshua Wolens had a peek and said it looked real good . The rest of us will have to wait for other opportunities, like the one that's been announced as part of the PAX Australia schedule reveal. On Saturday, October 11, attendees will be able to join members of CD Projekt and DLC developer Fool's Theory for a behind-closed-doors live demo of Songs of the Past, and a panel discussion to follow. Other events planned for the three-day event include Storytime with World of Warcraft executive producer Holly Longdale, Final Fantasy 14 veterans Koji Fox and Toshio 'Foxclon' Murouchi suffering through a hot-sauce interview in "A Realm Reburned", and Saros' creative director Gregory Louden talking about a career that's included work on games like Control and Returnal. The tabletop side of gaming will also be well covered with Jasmine 'ThatBronzeGirl' Bhullar, Dungeon Master of the official Dungeons & Dragons liveplay and Dimension 20's Cof
+
+### How to mine the petrified Gammeltroll in Valheim
+Wed, 09 Sep 2026 23:07:42 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-petrified-gammeltroll-how-to-mine/
+
+Have you met Valheim 1.0's mountainous menace, the Gammeltroll? If you've made your way to Valheim's final biome, the Deep North, you've probably seen and fought it already: the Gammeltroll is a 30-foot tall rock monster who pelts you with tree trunks from range and stomps you into paste if you get too close. Most interestingly, when you defeat the Gammeltroll, it doesn't fall down. Instead, it turns into a statue called a "Petrified Gammeltroll." You can chip away at its legs all you want, but even the toughest pickaxe in the game won't make a dent. And as you might have guessed, inside the Gammeltroll awaits a critical new resource you'll need to conquer the frozen biome. So, how do you mine it? Valheim: How to mine the petrified Gammeltroll The key to destroying the petrified Gammeltroll lies in the previous biome, the Ashlands, plus a new resource found in the Deep North. Build the Eternal Pyre Defeat the Ashlands boss, Fader. Build the Eternal Pyre at your base using the Fader Relic and 10 stone. The Eternal Pyre will slowly generate embers . Grab some while they fly around the monument. Craft Ember Charges Kill seals in the Deep North. (Not baby seals! Adults , with whiskers!) Collect seal pelts . Use 1 ember and 2 seal pelts to create ember charges (10) at your workbench. Once you have ember charges, equip them and throw them at the petrified Gammeltroll. I find it best to throw them at its ankles from point blank range , then run away before they explode. With this me
+
+### Steam now requires Australian users to have a credit card to purchase R18+ games, and no, a simple bank debit card won't work
+Wed, 09 Sep 2026 22:40:41 +0000 — https://www.pcgamer.com/gaming-industry/steam-now-requires-australian-users-to-have-a-credit-card-to-purchase-r18-games-and-no-a-simple-bank-debit-card-wont-work/
+
+Valve rolled out 18+ age verification for Australian Steam users yesterday, which was inevitable: both PlayStation and Xbox have already done so and it is, after all, illegal not to, with fines up to AU$50 million at stake. But unlike PlayStation and Xbox, which offer a small handful of ways to verify one's adulthood, Valve has only one: you must own a credit card. And no, your debit card won't work, or at least, mine doesn't. You'll need an actual credit card: a card that uses money you don't have, versus a card that uses money you do. It makes a bit of sense, because Australians need to be 18 to qualify for a credit card, whereas teenagers can own a debit card. But there are other complications: You may be an adult and not qualify for a credit card because you don't earn enough money. You may not meet a particular bank's credit assessment criteria, as per CommBank . You may have a poor credit history. Or, you may simply not want to have a credit card because the prospect of spending money not in your possession is odd to you. If you fall under any of these categories—and I do the latter—then sorry: Valve won't sell you R18+ videogames. It's not even possible to view the store page for an R18+ game. When I click on Doom 2016, I receive this message: "Valve is required by the Age-Restricted Material App Distribution Services Code to verify that you are 18 or older before accessing mature content. If you wish to do so, please add a valid Australian credit card to your account 
+
+### Ikea made a Skyrim mod starring Matt Berry as a sentient shelf named Kallax Storageborn
+Wed, 09 Sep 2026 21:45:53 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/ikea-made-a-skyrim-mod-starring-matt-berry-as-a-sentient-shelf-named-kallax-storageborn/
+
+The brands are at it again but this time I'm inclined to let it slide, because it's so nonsensical (which is a nice way of saying dumb ) that I can't help but be charmed. Ikea, the Swedish furniture-and-stuff giant, has released a mod for Skyrim called Kallax Storageborn: A new companion who is also a shelf, who is also voiced by Matt Berry. If you think that sounds weird, it gets weirder, because this mod doesn't just add a companion, it includes an entirely new questline built around the character. Becoming encumbered in the game, as will inevitably happen eventually, will give you the opportunity to visit an abandoned dwemer emporium, where you'll embark upon a quest to "unravel the origins of a mysterious master." During this quest, you'll assemble Kallax Storageborn, a companion "with unfathomable storage capacity," who can be summoned with a newly-added Thu'um—Skyrim's famous voice of power—even when he's not your active companion. Your ultimate goal: Tidy up the clutter plaguing the realm of Nords and Dragonborn. The mod also adds new loot including the Meatball Helmet, which sadly I don't have an image of, and the mighty Allenblade, which I do: (Image credit: Bethesda) The Kallax, for the record, is an actual series of Ikea shelves , while Matt Berry once did a Movember voiceover for Hockey Night in Canada. He's done a few other things you may have heard of , too. The whole thing is obviously a marketing stunt, but it's worthy of a few minutes of my attention for two 
+
+### How to make money fast in Wardogs
+Wed, 09 Sep 2026 21:32:31 +0000 — https://www.pcgamer.com/games/fps/wardogs-money-farm/
+
+Playing Wardogs is a bit like playing Battlefield, except you have to buy every gun, magazine, helmet, and kevlar vest yourself. It's a milsim FPS that runs on a personal wallet—doing useful things for the team makes you money used to unlock permanent upgrades and temporary gear. Wardogs is designed in a way that lets you play any role you want and still be a profitable teammate. But especially early on, it can be tough to make enough cash to consistently fund unlocks, and the game doesn't spell out some of the most lucrative playstyles. Based on dozens of hours in closed beta tests, here are some early tips for making money fast in Wardogs. Bulkhead has stated the economy of the beta will change for the early access release, so some of these figures might change at launch. I'll be sure to update figures once we know them. Spot, spot, spot with binoculars The safest, simplest, and surprisingly efficient way to make money in Wardogs from minute one is to buy a $75 pair of binoculars. Binoculars (and its fancier variants) allow you to spot enemy soldiers, vehicles, and structures, temporarily marking them on the map and in-world for teammates. On top of just doing a nice thing for your team, each successful spot (holding left-click over a visible target) earns you a small cash prize immediately, and when a teammate kills that target, you get an assist worth hundreds . The nice part of this strategy early on is you don't have to stick your neck out and risk your loadout before y
+
+### 'We are no longer using that one red pipe asset we weren't supposed to use': The Blood of Dawnwalker hotfix clears up one of the game's more charming mistakes
+Wed, 09 Sep 2026 19:43:55 +0000 — https://www.pcgamer.com/games/rpg/we-are-no-longer-using-that-one-red-pipe-asset-we-werent-supposed-to-use-the-blood-of-dawnwalker-hotfix-clears-up-one-of-the-games-more-charming-mistakes/
+
+A new hotfix for The Blood of Dawnwalker rolled out today, and you'll be happy to know that this one improves the game's overall stability, fixes several progression blockers, fixes an issue with controllers that was causing frame rate drops, gets rid of the famous red pipe—more on that later—and keeps dead folks from talking so much. That last point, about the stiffs who won't shut up, doesn't figure as one of the update's highlights, which developer Rebel Wolves breaks down thusly: Improved the game's stability Fixed several issues that blocked quest progression Fixed an issue that blocked players from saving the game Connecting controllers with the outdated GameInput software should no longer cause FPS drops Torches can no longer grow uncontrollably Still, it's interesting. Conversational corpses are almost always upsetting, and not just because the dead shouldn't speak, although that's certainly top of the list. But also, they never have anything good to say. If you find yourself conversing with the remains of the recently departed, you can be just about 100% sure that it's not going to be a happy conversation about how well everything is going. Quite the opposite, in fact. There is one example of chatty corpses that weren't entirely bad, to go off on a bit of a tangent: Atomic Heart is full of them, a bizarre side effect of the game's alt-history Soviet technology, and most of the talking dead are reasonably cool about the situation. But that's also more of a 'fading ech
 
 ### Call of Duty introduces a gun skin that you can only see on an Xbox console
 Wed, 09 Sep 2026 19:11:08 +0000 — https://www.pcgamer.com/games/call-of-duty/call-of-duty-introduces-a-gun-skin-that-you-can-only-see-on-an-xbox-console/
@@ -353,52 +403,27 @@ Wed, 09 Sep 2026 16:39:31 +0000 — https://www.pcgamer.com/games/fps/how-to-thr
 
 FOV 90 (Image credit: Future) Welcome to FOV 90, an FPS column from staff writer Morgan Park. Every other week, I cover topics relevant to first-person shooter enjoyers, spanning everything from multiplayer and singleplayer to the old and the new. Welcome back, FPS enjoyers, for a locally-networked edition of FOV 90. I turned 30 this past weekend, and when my fiancé asked me how I'd like to celebrate, I had exactly one idea: Use the occasion to convince my friends to haul their heavy PCs across town and have an actual, honest-to-god LAN party in 2026. See, I missed the boat on LAN parties when they were a thing that still regularly happened, save one cherished memory of my uncle including 7-year-old me in a Halo: CE party with eight system-linked Xboxes. What little I know about the joys of local PC play I've absorbed from pictures and stories from my PC gaming elders. We lightly themed our party around the 2000s, but the only plan was to play whatever sounded fun as a group. We ended up playing tons of Halo, a lot of Battlefront 2 (Classic), and a few rounds of Left 4 Dead 2 Versus, among other favorites. Drinks were drunk, pizza inhaled, grass smoked, and Mountain Dew Code Red respectfully included in mixed beverages. (Image credit: Morgan Park) It was comfortably the best birthday party I've had as an adult. I was worried at first that going to all this trouble to play stuff that we could more easily set up over Discord would end up feeling pointless, but that was quickly 
 
-### 'What if you could own a space station?' asks No Man's Sky's Sean Murray, as he lets you own a space station
-Wed, 09 Sep 2026 16:35:55 +0000 — https://www.pcgamer.com/games/survival-crafting/what-if-you-could-own-a-space-station-no-mans-skys-sean-murray-asks-as-he-lets-you-own-a-space-station/
-
-Somehow, it's been 10 years since No Man's Sky launched on Steam, an infamously inauspicious occasion that over the space of that decade evolved from a cautionary tale about the excesses of hype to one of the best and most enduring exploration adventures you can play. And it's not done yet: Hello Games has now released No Man's Sky's 7.0 update, Cosmos , and it's another big one. Cosmos, as the name implies, is all about space. You might think that'd already be pretty well covered in a game like No Man's Sky, but Hello Games aims to make that great big void "feel truly alive" with this update, and "more like home." The headline addition in Cosmos is probably the ability to own a space station, which the studio said has been the most-requested feature since No Man's Sky launched in 2016. With Cosmos, players will be able to stake their claim to their own deep space digs, build and decorate it both internally and externally, and even invite their interstellar pals over for a visit. Given the popularity of player housing in MMOs, I reckon this will be a big hit—especially since players can also now formalize those cosmic friendships through alliances with other players. There's quite a bit more than just that, though. A new Star Map will reveal new points of interest leading to new missions and exploration opportunities, massive new "space hulks" can be salvaged and stripped for resources using the handy new gravity gun that was added earlier this year, new outposts will provide
-
-### Microsoft's AI vulnerability detection results in record-breaking Patch Tuesday, addressing 974 security flaws
-Wed, 09 Sep 2026 16:35:38 +0000 — https://www.pcgamer.com/hardware/microsofts-ai-vulnerability-detection-results-in-record-breaking-patch-tuesday-addressing-974-security-flaws/
-
-It's not always interesting, but it's important to stay on top of operating system updates. However, if you're on Windows, you're definitely gonna want to prick up your ears for Microsoft's September 2026 Patch Tuesday. This might be Microsoft's biggest Patch Tuesday to date, addressing a whopping 974 security flaws found across both Windows 10 and Windows 11. Bleeping Computer offers a handy breakdown, reporting that 438 of these flaws were elevation of privilege vulnerabilities, 258 were remote code execution vulnerabilities, and 19 were security feature bypass vulnerabilities. Perhaps more importantly, this Patch Tuesday also targets two actively exploited zero-days. Specifically, these are CVE-2026-85880 and CVE-2026-81963 , which had both been leveraged previously to give attackers elevated system privileges. Microsoft began leveraging AI vulnerability detection back in July , stressing back then that only the highest-confidence findings would ever reach the engineering team for fixing. As a result, July enjoyed a similarly record-breaking Patch Tuesday , stamping out 622 security vulnerabilities. There's been a lot of praise for AI bug-hunting tools in recent months, with the CTO of Firefox raving about how an early version of Claude Mythos found 271 security vulnerabilities in the browser back in April. Anthropic itself was only too keen to toot its own horn that same month, saying that its AI had in fact found " thousands of high-severity vulnerabilities, including so
-
-### Ex-Anthropic researcher argues AI progress 'could kill us all by the end of the decade' and 'progress is not slowing'
-Wed, 09 Sep 2026 16:24:42 +0000 — https://www.pcgamer.com/software/ai/ex-anthropic-researcher-argues-ai-progress-could-kill-us-all-by-the-end-of-the-decade-and-progress-is-not-slowing/
-
-A researcher for Anthropic has left the AI company and said what many of us are probably already thinking about the company. Taking to X , Jacob Coxon's resignation tweet has now received over half a million likes in just a single day. He says, "I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives." Coxon says both will "soon be superhuman systems that can hack anything, revolutionize any field overnight, and acquire real power and resources", something both AI lovers and haters have been arguing about for a while. We've seen tools like Google Earth be used to pretend locations are a war zone , therefore enabling misinformation. We've seen Copilot bamboozled into revealing how to hack itself . We've even seen bodies like the NSA, FBI, and CISA warn of more and more AI-assisted hacks of US infrastructure and facilities . Coxon alleges, "The people building AI earnestly believe that it could kill us all by the end of the decade. This is not a marketing stunt. If anything, many executives and senior researchers will couch their phrasing in the press to sound sensible." That point is worth paying attention to. Any company that warns their product is dangerous can benefit from the word-of-mouth marketing that comes from it. If an AI company says 'our AI is so powerful it could potentially kill you', an investor might hear 
-
-### Control Resonant should run well on mid-tier PCs, but you're going to have to clear out some serious SSD space
-Wed, 09 Sep 2026 16:19:26 +0000 — https://www.pcgamer.com/games/action/control-resonant-pc-system-requirements/
-
-I'm still not sure what to make of Control Resonant . I liked Control quite a lot but as a shooter, and I feel very ambivalent about the new and very different ARPG-style gameplay in the sequel. Our Morgan Park seemed cautiously optimistic following his preview session in June, but it's such a fundamental shift in the underlying gameplay that for me, many questions remain. One question that doesn't remain any longer, though, is whether I—and you—will be able to run it. With Control Resonant now just a couple weeks out, Remedy has dropped the final PC system requirements, breaking down what you can expect from the game when it launches on September 24. Across the board, you'll need 16GB RAM and 120GB of free space on your SSD—you can try rolling with an HDD but that's going to result in what you call a sub-optimal experience . It's no secret that this is a bad time to be upgrading pretty much anything, but SSDs are effectively essential these days: If you don't yet have one, our elite hardware hitters are on top of the best cheap SSD deals you can find today, so give it a look. Windows 10 or 11, 64-bit only if you please, is also required. Beyond that, we get into the details: We're excited to announce the final PC system requirements for CONTROL Resonant! Please have a look at this chart to see how the game runs on your rig.CONTROL Resonant arrives September 24th on PC via Steam and the Epic Games Store. Pre-order now! #CONTROLResonant — @remedygames.com ( @remedygames.com.bs
-
-### Here's the Wardogs release time for your region
-Wed, 09 Sep 2026 16:05:08 +0000 — https://www.pcgamer.com/games/fps/wardogs-release-date-launch-times/
-
-The Wardogs release date fast approaches, following its super popular beta last weekend before it enters early access. As our own FPS aficionado Morgan Park notes, it's a "100-player milsim that's inspired by Arma but plays like Battlefield," and its formula of cash-earning, all-out warfare is definitely appealing to a cross-section of game-hungry shooter crowds. Here's when you can expect to play the game in your timezone. Wardogs release times for each region The Wardogs release date is September 10 for most regions, though it'll drop on September 11 in certain territories due to timezones and its simultaneous release. Here's when you can expect to play (confirmed by Steam): September 10 West Coast US : 9 am PST East Coast US : 12 pm EST UK : 5 pm BST Europe : 6 pm CEST September 11 Australia : 2 am AEST New Zealand : 4 am NZST If you're unsure whether you can run Wardogs, you can check its requirements on the Steam page. Can you preload Wardogs? At the time of writing this, just less than a day before release, there's currently no preload available for Wardogs . This isn't that unusual for an early access game, even if it is a popular one. Alas, there's also been no official communication from the developer indicating that a preload is planned, so it looks like we might all be downloading that 50GB on day one. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures 
-
-### Zach Cregger admits 'I was naive' and pre-apologises for his upcoming Resident Evil film, but I don't think he owes us anything
-Wed, 09 Sep 2026 15:28:44 +0000 — https://www.pcgamer.com/movies-tv/zach-cregger-admits-i-was-naive-and-pre-apologises-for-his-upcoming-resident-evil-film-but-i-dont-think-he-owes-us-anything/
-
-After months of complaining about Zach Cregger's Resident Evil film, the internet has finally broken him. In a recent interview with IGN , he admitted how naive he was to think that everyone would be excited, and apologised for not creating the specific vision that those who are unhappy with the film's direction have. Instead, Cregger relied on his own instincts as a renowned director and writer—the nerve. "I was naive," Cregger says. "I thought that fans of these games, like me, would be thrilled that somebody was coming along and turning Resident Evil into a survival horror movie." It's not naive to think that some fans of the games would be excited for this film, because they are—myself included. But there's nothing on this earth that can unite an internet full of bots, rage baiters, and those whose favourite hobby is being pissed off. Zach Cregger on the fan reaction to his Resident Evil movie:"I did not really appreciate the sentiment that we've been waiting forever for Leon's story and I appreciate that. And I'm sorry that's not the story I'm bringing here." pic.twitter.com/EFV4E3AJA2 September 9, 2026 "I didn't really appreciate the sentiment that [players] have been waiting forever for Leon's story, and I appreciate that," Cregger continues. "And I'm sorry that that's not the story that I'm bringing here. I understand the frustration." That's very nice of Cregger to say, but I don't know a single Resident Evil fan that actually thinks Leon's story should be explored v
-
-### 20 years later, veteran WoW director says players outsmarted him completely in Ahn'Qiraj: 'All that work, and there was still an instant tell'
-Wed, 09 Sep 2026 15:22:04 +0000 — https://www.pcgamer.com/games/world-of-warcraft/20-years-later-veteran-wow-director-says-players-outsmarted-him-completely-in-ahnqiraj-all-that-work-and-there-was-still-an-instant-tell/
-
-I don't envy the position of being a game developer—especially not an encounter designer in something as complicated as an MMO. You might have an idea of how a mechanic's gonna go, but there's just absolutely no way it survives contact with 40 motivated, mid-2000s era hardcore WoW players. Former game director at Blizzard Wyatt Cheng, whose delightful TikTok channel has been giving free wisdom and anecdotes for some time now , says that exact agony happened to him around 20 years ago with the release of Ahn'Qiraj. Particularly with The Prophet Skeram boss, which splits into illusions at 75%, 50%, and 25% health. "There's one part I never got right," says Cheng. "I really wanted the only way to tell the difference between the real Skeram and the copies to be that the copies have half the health. So under even DPS rates, the illusions would drop in health faster." "I pictured raids spreading their DPS and calling it out on [Ventrilo]: Which two are going down quicker?" The idea being, if you didn't kill the illusions first, you'd knock the main Skeram over into his next health threshold and take on additional copies before you're ready: "Now there are five Skerams, and you wipe." Alas, "that is not how it went. There were so many easy ways to spot the real Skeram. My first version literally had 'Pet of Skeram' written under the copies' names. Oops! In testing, we found more, like UI mods reading creature IDs, or mismatched localisation strings." While Cheng doesn't remember the
-
-### 'Where is Nvidia? Call Nvidia, guys': Meltgate be damned, modders discover RTX 5090 can use 8-pin connectors after all
-Wed, 09 Sep 2026 14:53:41 +0000 — https://www.pcgamer.com/hardware/graphics-cards/where-is-nvidia-call-nvidia-guys-meltgate-be-damned-modders-discover-rtx-5090-can-use-8-pin-connectors-after-all/
-
-Ah yes, melty cables. We've been dealing with them ever since the RTX 4090 pushed the 16-pin 12VHPWR connector (now the 12V-2x6 connector) to its limits. Since then, we've heard of numerous cases of melting GPU connectors—check out Uniko's Hardware on X for many examples—and plenty of attempts at dealing with them. Now, some modders have said 'screw it' to the new 12V-2x6 design, instead modding an RTX 5090 to run on standard 8-pin connectors (via Wccftech ). The modders at TecLab fitted three 8-pin connectors to the back of the PCB using "copper plates, cut by hand", and hooked these up to the front via 24 cables (3x sets of 8). Once everything was also unlocked to operate at higher power levels, the graphics card was put to the test. And while this was just one batch of tests with one card (and don't try this at home, folks) the results were fantastic. Even before pushing it as far as it eventually goes, the modders were thrilled with the results (machine translated): "It's getting warmer. It's still colder than a 12VHPWR connector. It's colder than the original connector, guys. Where is Nvidia? Call Nvidia, guys. Put the raw footage out there for people to see, otherwise they'll think it's a lie. This looks like a lie." Don't worry, TecLab, we've got you. You can see the full footage below. They even manage to get the GPU running over 3,300 MHz in Port Royal benchmark with just two 8-pin cables, showing that a three-cable setup isn't necessary. (For reference, the stock RT
-
-### Turns out, a lot of Sega's biggest fans don't play its videogames: 'In some cases, their engagement is even higher than that of fans who actually play'
-Wed, 09 Sep 2026 14:41:34 +0000 — https://www.pcgamer.com/gaming-industry/turns-out-a-lot-of-segas-biggest-fans-dont-play-its-videogames-in-some-cases-their-engagement-is-even-higher-than-that-of-fans-who-actually-play/
-
-There once was a time in which, if you were a fan of a videogame, you might get asked which of said games in the series you had played. Now, I'm not saying we need to bring this era back—it was an obnoxious period full of gatekeepers—but Sega president and COO Shuji Utsumi's recent words on the subject are a surprising sign of the times. Speaking to Nikkei Gaming (thanks, IGN ), Utsumi explains that (via machine translation): "For example, the 'Yakuza' series has been doing exceptionally well in merchandising, with 60-70% of its buyers being women. They've become fans of the 'Yakuza' world, story, and characters after watching our YouTube channel and popular YouTubers' streams. And among them are many people who have never actually played the game." I'm assuming that Utsumi has stats to back that up, rather than just assuming that women don't play videogames (they do, I work with several of them), but it's indeed true that videogames have been enjoying a wider secondary audience thanks to let's players and streamers. "Even people who have never played games are considered fans and 'gamers' by us," he adds, "transmedia's strength lies in increasing the entry points and contact points for people to become interested in IP. In some cases, their engagement is even higher than that of fans who actually play the games." That buzzword—transmedia—essentially just means merchandise, movies, comics, and so on. Videogames might be a cornerstone for Sega, but it's using that as a foundat
-
 ## GameSpot
+
+### Kojima s Physint Dropped By PlayStation, Rescued By Xbox
+Thu, 10 Sep 2026 07:54:29 +0000 — https://www.gamespot.com/articles/kojimas-physint-dropped-by-playstation-rescued-by-xbox/
+
+Sony has revealed today that it will no longer be working with Kojima Productions on stealth action game Physint , while Kojima announced that Xbox has stepped up to rescue the project. The change in publishers means both of Kojima's upcoming projects are now being made in partnership with Xbox, a departure from his long history of developing games for the PlayStation. PlayStation's official statement didn't say why it chose to end its support of Physint, leaving gamers to speculate on the reasons behind its shock exit. "We continue to have great admiration for Hideo Kojima's vision for the game," Sony said, adding, "we look forward to continued close collaboration with Hideo Kojima and his award-winning independent studio in the future." https://twitter.com/PlayStation/status/2097875212427735146 Kojima posted from his personal account with more details, saying that PlayStation cancelled Physint as of mid-June this year, and the new collaboration with Xbox came as a result of the studio's determination to keep the project alive. https://twitter.com/HIDEO_KOJIMA_EN/status/2097877506401681753 "We're honored that Kojima-san has chosen Xbox to work with Kojima Productions on Physint," said Xbox CEO Asha Sharma in a statement. "His ambition to challenge conventions reflects the kind of creativity we want to support at Xbox." Though it may be surprising after Kojima's long history of collaborating with PlayStation, from his work at Konami to both Death Stranding games, Kojima also 
+
+### Investor Accidentally Pitches Kickass Pokemon Apocalypse Movie
+Thu, 10 Sep 2026 00:09:28 +0000 — https://www.gamespot.com/articles/investor-accidentally-pitches-kickass-pokemon-apocalypse-movie/
+
+For more than three decades, Pokemon and its various card and video games have enjoyed sustained popularity around the world. And at least one prominent collector and investor--Griffin Gaming Partners co-founder Peter Levin--believes that Pokemon's enduring appeal not only extends to the present, it could continue even if the world suddenly came to an end. "Pokemon is a global phenomenon," Levin told The Hollywood Reporter . "I'm absolutely convinced that if the world suffered an apocalypse tomorrow, the following day the global currency would be Pokemon cards. Pokemon cards are beating the S&P 500 by 3,000%. Emanating from Japan, it really took hold around the world in the late '90s and early 2000s. It then had a zenith moment and then a nadir moment, and ever since then, it's been on a parabolic growth curve." As unlikely as that scenario might seem, there could be a very entertaining movie based on survivors using Pokemon cards as currency during an apocalypse. It would be probably even better with actual Pokemon--like the Detective Pikachu movie--but Levin's really hit on fun idea even if it doesn't have a basis in reality. Everything Levin said about Pokemon's popularity is correct. There's a reason why the Japanese mob reportedly used rare Pokemon cards to launder money or for increasingly brazen robberies of Pokemon cards from stores across the US. Some people are willing to pay ridiculous amounts of money for the rarest Pokemon cards and collectibles. However, that va
+
+### A Full-Fledged Skyrim Mod Starring Matt Berry Is Here To Refresh The Game With An Ikea Ad
+Wed, 09 Sep 2026 19:17:17 +0000 — https://www.gamespot.com/articles/a-full-fledged-skyrim-mod-starring-matt-berry-is-here-to-refresh-the-game-with-an-ikea-ad/
+
+I am not enthusiastic about what feels like an inevitable future wherein games and gaming subscription services are inundated with advertisements . That said, I am excited to reinstall Skyrim so I can play an elaborate Ikea ad. Newly released on Bethesda's Creations site, Kallax Storageborn is a remarkably in-depth Skyrim mod that features the titular Ikea item. But rather than simply adding the Kallax shelving unit as an item you can use to organize your in-game house, the mod turns it into a companion that follows you around, holding an unlimited number of items on your behalf. Oh, and the Kallax is voiced by Matt Berry. You can get a taste of the mod in the video below, showing off Berry's performance and even a modified version of the opening "You're finally awake" sequence. There are new items to obtain, including the Allenblade, which looks like a giant allen wrench, and the Meatball Helmet. https://www.youtube.com/watch?v=0tBlFZsMuO8 With the mod installed, there's a new series of quests that kicks off to find the parts to assemble the Kallax, eventually all culminating in a boss fight. To trigger the quest, you'll have to become over-encumbered, which raises the need for a walking, talking shelving unit in the first place. Aside from the audacity of this idea in the first place, and the inexplicable yet wonderful inclusion of Matt Berry, I'm personally tickled by this focus on the Kallax. As someone who owns four of them in various sizes to display all of my various L
+
+### Gears Of War: E-Day Has A Smash Mouth-Inspired Achievement, And That s Fantastic
+Wed, 09 Sep 2026 19:16:27 +0000 — https://www.gamespot.com/articles/gears-of-war-e-day-has-a-smash-mouth-inspired-achievement-and-thats-fantastic/
+
+Following the big Steam leak that revealed achievement lists and more for upcoming games, Microsoft has officially released the list of Achievements for Gears of War: E-Day, and there is a Shrek/Smash Mouth-inspired one among them. Players can unlock an achievement called "HEY NOW, YOU'RE AN ALL STAR..." by accumulating 25,000 kills in the Versus multiplayer mode. This Achievement provides 25 Gamerscore. For anyone just catching up, 2001's Shrek famously featured the Smash Mouth song, "All Star," The most difficult Achievement to unlock appears to be "Dead Serious," which requires players to 100% the campaign on the highest difficulty, Insane, reach 25,000 kills in Versus, achieve max player level, and max out four classes. Players who do that will be rewarded with 85 Gamerscore, which is the most for any single Achievement in the game. It is a big year for both Xbox and Shrek, as both celebrate their 25th anniversaries this year. The original Shrek movie was re-released in theaters this past summer, and Shrek himself showed up in various video games . As for Xbox, the biggest news event for the 25th anniversary has been Microsoft's decision to lay off thousands of people, close development studios, and cancel games . Gears of War: E-Day releases on October 6 for Xbox Series X|S and PC, with early access arriving October 1 for people who pay more. E-Day will also be available on Xbox Game Pass at launch. There was a lot of evidence that Microsoft canceled a PS5 edition at the
 
 ### We ve Never Seen Anything Like This In Call Of Duty Before
 Wed, 09 Sep 2026 18:38:16 +0000 — https://www.gamespot.com/articles/weve-never-seen-anything-like-this-in-call-of-duty-before/
@@ -440,27 +465,12 @@ Wed, 09 Sep 2026 14:37:33 +0000 — https://www.gamespot.com/articles/a-new-hand
 
 Onyx: The Dark Grip was a surprise announcement at today's Nintendo Direct , especially considering it's playable only in handheld mode. A Switch 2 exclusive, the 2.5D horror title comes from Bloober Team, the developer behind the Silent Hill 2 remake and Chronos: The New Dawn. The portable-only title will see players becoming "the mysterious Entity," using touch-screen controls to "manipulate reality," according to the YouTube trailer . The protagonist's name is Holden, and he enters a desolate, fog-filled town where things aren't normal (surprise, surprise). Along with the touch screen, motion controls are also utilized to "realign reality." https://www.youtube.com/watch?v=zS7-Se04c8w Bloober Team has talked about this Nintendo project in the past , which was previously referred to as Project M. Additionally, the studio noted last year that it wants Switch 2 to become the scariest place in gaming . The Direct helped that cause, too, as Capcom revealed that ports of remakes for Resident Evil 2, 3, and 4 are on the way for Switch 2 on October 16. As for Onyx: The Dark Grip, it's slated to hit Switch 2 in 2027.
 
-### GTA 6 Was Not Fully Formed When Trailer 1 Came Out In 2023
-Wed, 09 Sep 2026 14:56:41 +0000 — https://www.gamespot.com/articles/gta-6-was-not-fully-formed-when-trailer-1-came-out-in-2023/
-
-When Rockstar released GTA 6's first trailer in December 2023, the game looked like it was coming along well, but it wasn't "fully formed" back then. That's according to Rockstar North boss Rob Nelson, who said in an interview that the trailer's song, Tom Petty's "Love is a Long Road" was a "mission statement" for the developers to rally around to get the game finished. "With the first trailer for this game, the Tom Petty song was a real sort of mission statement. You don’t have the game fully formed, you have an idea of what it’s going to be, but you really have to push hard to pull that together and so when this team is able to do that--and it’s definitely made with everything that you’ve got, but it’s the best of everything you’ve got at that point--it’s put together in such a way that it helps be a bit of a guiding light of what it needs to feel like," he told Trois Couleurs . Also in the interview, Nelson spoke about how one of the first things the developers did after deciding that GTA 6 would be set in Vice City AKA Miami was to travel there. "We'll go there. And just feel it, and go out and just drive around. Almost always on our own at very first, just a handful of people, and we’ll take a ton of pictures, and soak as much of it up as we can and see what speaks to us and start to talk about it and share ideas about what we want to incorporate," he said. GTA 6 is set for release on November 19 for PlayStation 5 and Xbox Series X|S. According to SensorTower's data, the
-
-### Mario Kart World Free Update Is Out Today With All This New Stuff
-Wed, 09 Sep 2026 14:50:46 +0000 — https://www.gamespot.com/articles/mario-kart-world-free-update-is-out-today-with-all-this-new-stuff/
-
-As part of the Nintendo Direct today, Nintendo announced a free update for Mario Kart World that adds courses from the original Mario Kart game, 1992's Super Mario Kart. People don't have to wait--the update is out today. Classic courses from that game, including Choco Island, Vanilla Lake, and Ghost Valley, will be available to play in Versus. There are 10 courses in total. https://twitter.com/NintendoAmerica/status/2097696070990016647 Additionally, players can ride over question-mark panels to grab items, just like it worked decades ago in the original game. Additionally, two new routes are coming to Mario Kart World's Knockout Tour. These include Turnip Rally and Propeller Rally. All of these updates are coming to Mario Kart World today, September 9, via the game's free 1.8.0 update. For more, check out GameSpot's rundown of all the big news from the Nintendo Direct .
-
-### Romancing SaGa 3 Is The Latest Surprise RPG Remake
-Wed, 09 Sep 2026 14:46:51 +0000 — https://www.gamespot.com/articles/romancing-saga-3-is-the-latest-surprise-rpg-remake/
-
-Square Enix has announced a remake of the 1995 RPG classic, Romancing SaGa 3: Destinies United , during the September Nintendo Direct. Billed as a "full 3D remake" by the company, this new version of Romancing SaGa 3 will feature upgraded graphics, fully voiced cutscenes, overhauls to combat and other mechanics, selectable difficulty levels, and several more new features. Set in a world with scheduled despair, the game follows eight protagonists on their quest to find the survivor of a calamity. Each protagonist has their own reason for doing so, but the driving force behind their actions is the Rise of Morastrum, an event that occurs every 300 years and results in all newborn life being destroyed, save for one survivor, the Child of Destiny. Like the original game, players will have the opportunity to meet and recruit over 20 other characters along the way, each with individual stats and abilities. These characters can be further fine-tuned with a Nonastrum, a star of fate that the player assigns, which influences their affinity for techs and spells. The Freeform Scenario System will also see player choices shape the characters they meet, and in battle, these warriors can "glimmer" new techniques, gain evasion skills, and perform powerful United Attacks. Square Enix added that War Mode and the Business minigame will also return, allowing players to command armies or grow a trading empire when they're not busy with the main storyline. Romancing SaGa 3: Destinies United will l
-
-### Samus Is Returning To 2D In Metroid Ravenous, And She Talks Again
-Wed, 09 Sep 2026 14:35:09 +0000 — https://www.gamespot.com/articles/samus-is-returning-to-2d-in-metroid-ravenous-and-she-talks-again/
-
-Today, during the Nintendo Direct livestream , Nintendo announced Metroid Ravenous, a new 2D adventure coming exclusively to Nintendo Switch 2 early next year. The debut trailer introduced a new group of mysterious villains, as well as a look at some of the new locales Samus will be traveling through to hunt then down. We also see hints of a a new mechanic where Samus "feeds" on enemies to gain extra powers, though exactly how Samus is augmented by feeding is still a mystery. https://www.youtube.com/watch?v=ku-vSTDNsT8 We also see a new suit, with green armor and a glowing energy sword. This suit was later revealed to be called the Metroid Suit, with an Amiibo figure of the suit included in the Collector's Edition of the game. Ravenous marks Samus's return to 2D for the first time since 2021's Metroid Dread. Her most recent adventure, Metroid Prime 4: Beyond, launched in December after nearly a decade in development. The Nintendo Direct also featured the reveal of Kirby and the World Beyond, a new open-world adventure starring the famous pink puffball, as well as new editions of Pikmin 4 and Hyrule Warriors: Age of Imprisonment. Third-party announcements during the Direct included Persona 6 coming to Nintendo Switch 2, a Switch 2 edition of Final Fantasy VII Crisis Core Reunion, and a port of Monsters Hunter Wilds. Metroid Ravenous launches January 28, 2027, exclusively on Nintendo Switch 2.
-
 ## Rock Paper Shotgun
+
+### Wanderburg, a bullet heaven where you drive around a Frankensteinian hybrid of a castle and a tank, is out in early access today
+Wed, 09 Sep 2026 20:00:00 +0000 — https://www.rockpapershotgun.com/wanderburg-a-bullet-heaven-where-you-drive-around-a-frankensteinian-hybrid-of-a-castle-and-a-tank-is-out-in-early-access-today
+
+Truth be told, I'm still not sold on "bullet heaven" as a genre. Name notwithstanding, the genre is certainly here to stay, and there always seems to be funny new takes on it despite the fact that Vampire Survivors did kind of start it off without much room for improvement. While I'm not sure if Wanderburg is an improvement (I haven't played it yet), I do conceptually like its approach being to hand you a modular medieval castle tank that can suck up sheep and blast cannon fire at your enemies. And it's out today in early access! Read more
 
 ### Pile cards on top of each other and watch the magic happen in the textured and chunky roguelike deckbuilder Stack Order
 Wed, 09 Sep 2026 19:00:00 +0000 — https://www.rockpapershotgun.com/pile-cards-on-top-of-each-other-and-watch-the-magic-happen-in-the-textured-and-chunky-roguelike-deckbuilder-stack-order
@@ -516,9 +526,4 @@ In my experience, the few minutes a live band take between songs to recover a bi
 Wed, 09 Sep 2026 11:30:00 +0000 — https://www.rockpapershotgun.com/you-can-never-see-outside-of-yourself-the-house-before-is-a-body-horror-game-in-which-you-are-a-house-tunnelling-through-its-own-soul
 
 It's a lovely morning in the village, and you are a horrible house. Wait, let's start that again. As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed into a horrible house. Wait, let's start that again: "You wake up as a House. Your limbs stretch through endless rooms filled with grotesque creatures. You can never see outside of yourself, never feel the world that lies beyond the fleshy walls of your body. You manage your insides as best you can, but you wonder: are you a good house or just a pale afterthought of the House Before?" Read more
-
-### FromSoftware's first experiment with, of all things, horse armor DLC runs awry, as Elden Ring players manage to spawn free duplicate items in multiplayer
-Wed, 09 Sep 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/fromsoftwares-first-experiment-with-of-all-things-horse-armor-dlc-runs-awry-as-elden-ring-players-manage-to-spawn-free-duplicate-items-in-multiplayer
-
-From Software and Bandai Namco have released a hasty new Elden Ring patch to stop people getting their hands on items from the game's Tarnished Pack DLC for free. Read more
 

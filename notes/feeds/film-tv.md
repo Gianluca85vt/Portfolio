@@ -1,184 +1,199 @@
-# Film & TV — harvested 2026-09-09T19:29:10.501Z
+# Film & TV — harvested 2026-09-10T09:10:51.397Z
 
 ## Variety
 
-### Taylor Swift Has Never Won a Grammy for Record or Song of the Year. With Three No. 1 Hits Eligible for 2027, Which Will She Choose for Victory?
-Wed, 09 Sep 2026 19:04:05 +0000 — https://variety.com/2026/music/columns/taylor-swift-grammy-chances-i-knew-it-i-knew-you-fate-ophelia-1236849929/
+### Woody Norman, Malachi Kirby, Tuppence Middleton, Conrad Khan, Kola Bokinni to Star in Urban Horror Thriller ‘Skag Bone’; Featuristic Produces, UTA on Board (EXCLUSIVE)
+Thu, 10 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/global/urban-horror-thriller-skag-bone-cast-1236856168/
 
-There are two points of view you could take on Taylor Swift and her Grammys history: (a) Swift has been a Grammys hoarder. (b) Swift has gotten robbed by the Recording Academy regularly. Which of these contradictory statements is true? How about both of them? They re not actually as oxymoronic as they appear; it just [ ]
+Woody Norman (“C’mon C’mon”), Malachi Kirby (“Small Axe”), Tuppence Middleton (“Downton Abbey”), Conrad Khan (“Sunny Dancer”) and Kola Bokinni (“Ted Lasso”) are set to star in the British urban horror thriller “Skag Bone.” The film, which is described as “Top Boy” meets “Talk to Me,” “blends the propulsive energy of a youth-infused crime thriller [ ]
 
-### The Best Tech at IFA 2026: From 4K Projectors and Wearables to Headphones and TV Smart Lighting
-Wed, 09 Sep 2026 19:00:00 +0000 — https://variety.com/2026/shopping/news/ifa-september-2026-best-new-tech-releases-products-shop-now-1236849068/
+### Telekom Srbija s Content Head on Blueprint for Turning Serbian Production Powerhouse Into Global Player
+Thu, 10 Sep 2026 07:33:35 +0000 — https://variety.com/2026/tv/global/telekom-srbija-content-head-serbian-production-powerhouse-1236851472/
 
-While CES is the biggest tech industry showcase in the United States, IFA is the largest consumer electronics trade show in Europe. For more than 100 years, some of the best and biggest communication and tech companies from around the world have gathered in the heart of Berlin, Germany at the Messe Berlin exhibition grounds, [ ]
+Telecommunications giant Telekom Srbija is looking to position itself as not only the leading production hub in Serbia but a regional juggernaut for the countries of the former Yugoslavia, exporting local content while attracting international productions to the Balkan nation. “Our next chapter is a deeper connection with our international partners, and presenting not only [ ]
 
-### Paul Mescal, Emma Corrin, Emilia Clarke Lead London National Theatre s Starry 2027 Slate
-Wed, 09 Sep 2026 19:00:00 +0000 — https://variety.com/2026/theater/news/paul-mescal-emma-corrin-emilia-clarke-national-theatre-2027-slate-1236856118/
+### Serbian Sci-Fi Epic Sanctuary, Starring The Handmaid s Tale s Nina Kiri, Acquired for U.S. Distribution (EXCLUSIVE)
+Thu, 10 Sep 2026 07:24:49 +0000 — https://variety.com/2026/film/global/serbia-sci-fi-sanctuary-nina-kiri-us-distribution-1236851443/
 
-London s National Theatre has unveiled its 2027 program, with Paul Mescal, Emma Corrin and Emilia Clarke topping a star-heavy slate of 18 productions, eight of them world premieres, spanning the venue s three stages and beyond. Mescal returns to the Lyttelton theater for a repertory season, playing Biff Loman in Rebecca Frecknall s staging of Arthur Miller s [ ]
+Vertical has acquired U.S. distribution rights to “Sanctuary,” an English-language, post-apocalyptic thriller starring “The Handmaid’s Tale’s” Nina Kiri. According to the synopsis, “Sanctuary” is set on a post-apocalyptic Earth, where the discovery of a cryogenically suspended woman provokes fear in a desperate village, sending a young warrior and the mysterious woman on a quest for [ ]
 
-### Playoff State of Mind: Yankees Tap Billy Joel for Merch Collection, Just In Time for the Postseason
-Wed, 09 Sep 2026 18:55:18 +0000 — https://variety.com/2026/shopping/news/billy-joel-new-york-yankees-sportiqe-merch-collection-2026-1236856062/
+### ‘DJ Ahmet’ Leads Adriatic Awards Contest, Followed by ‘Yugo Florida’
+Thu, 10 Sep 2026 07:10:40 +0000 — https://variety.com/2026/film/global/dj-ahmet-yugo-florida-adriatic-awards-1236855711/
 
-The New York Yankees are heading towards another (likely) postseason run and the team has tapped one of New York s most famous faces (and voices) to help root them on. Athleticwear brand Sportiqe has released a Billy Joel x New York Yankees collection, that pairs the brand s T-shirts, sweatshirts and hoodies with Joel s lyrics and [ ]
+Georgi M. Unkovski s DJ Ahmet leads the contest in the cinema categories for the Adriatic Film and TV Awards, which honor the top films and series from Bosnia and Herzegovina, Montenegro, Croatia, Kosovo, North Macedonia, Slovenia and Serbia. “DJ Ahmet premiered at the Sundance Film Festival in the World Cinema Dramatic category, and won the [ ]
 
-### RuPaul s Drag Race UK: All Stars Set to Premiere on WOW Presents Plus (EXCLUSIVE)
-Wed, 09 Sep 2026 18:13:45 +0000 — https://variety.com/2026/tv/global/rupauls-drag-race-uk-all-stars-wow-presents-plus-2027-1236854337/
+### Netflix’s YA Rowing Drama Crew Girl Capsizes and Sinks: TV Review
+Thu, 10 Sep 2026 07:01:00 +0000 — https://variety.com/2026/tv/reviews/crew-girl-review-netflix-1236848333/
 
-RuPaul’s Drag Race UK is moving from the BBC and headed to World of Wonder s streaming platform WOW Presents Plus. The news comes after The Sun reported that the show would be leaving the BBC as part of its cuts. However, Variety can confirm that in Fall 2027, the franchise will return with the first [ ]
+Created by Vivian Lin, Netflix’s latest YA series “Crew Girl” brings audiences into the competitive world of rowing. The show follows 16-year-old Teagan Tao (Miku Martineau), a single sculler whose entire life is derailed after her father, David (Byron Lawson), a wealthy hotelier, is caught stealing money from his clients. When David flees before the [ ]
 
-### Newly Discovered Plant-Eating Insects Named After Taylor Swift
-Wed, 09 Sep 2026 18:09:49 +0000 — https://variety.com/2026/music/news/taylor-swift-plant-eating-insects-names-1236856051/
+### Former Telepool Chief Yoko Higuchi-Zitzmann, Filmmaker Mark Wachholz Launch AI Production Company Dreamkite Studios (EXCLUSIVE)
+Thu, 10 Sep 2026 07:00:00 +0000 — https://variety.com/2026/film/global/yoko-higuchi-zitzmann-mark-wachholz-dreamkite-studios-1236855876/
 
-Taylor Swift, the award-winning billionaire singer and songwriter, is getting a new honor: The megastar is the namesake of several recently discovered species of plant-feeding insects from Australia. Researchers at the University of California, Riverside have named the new species of insect after Swift. A paper describing the 12 new species was published in the [ ]
+International media executive and producer Yoko Higuchi-Zitzmann and AI filmmaker Mark Wachholz have launched Dreamkite Studios, a Munich- and Berlin-based AI-native film studio, developing premium films, high-end TV series and IP-based short-form content. Dreamkite will combine generative AI with traditional filmmaking, employing professional directors and actors to create AI-first and hybrid productions. The company said [ ]
 
-### Fall TV Preview: 55 Most Anticipated New and Returning Shows of 2026
-Wed, 09 Sep 2026 18:00:00 +0000 — https://variety.com/lists/fall-tv-shows-2026-preview/
+### Okada Junichi-Hosted The Floor Quiz Format Returns to Nippon TV for Season 2 in Japan (EXCLUSIVE)
+Thu, 10 Sep 2026 07:00:00 +0000 — https://variety.com/2026/tv/news/okada-junichi-the-floor-nippon-tv-season-2-1236856898/
 
-Yes, peak TV is over — but we challenge you even to begin watching all the great shows that will premiere in the coming weeks, or even catch up with the new good ones that came out this summer. Are you all caught up on Furious on Hulu and Sterling Point on Prime Video and HBO s [ ]
+Nippon TV has ordered a second season of Talpa Studios game show The Floor in Japan, building on the format s first full adaptation in Asia. The new season will premiere Oct. 21 across its national network. The season will run as a weekly series with an all-celebrity cast of 32 contestants, a step up from [ ]
 
-### Jaafar Jackson, Inde Navarrette and Ray Nicholson Among Variety’s 10 Actors to Watch for 2026
-Wed, 09 Sep 2026 18:00:00 +0000 — https://variety.com/2026/film/awards/variety-10-actors-to-watch-2026-announcement-1236848865/
+### Yehuda Levi to Star in Cross-Border Action Thriller ‘The Escape’ for Keshet (EXCLUSIVE)
+Thu, 10 Sep 2026 06:59:00 +0000 — https://variety.com/2026/tv/global/yehuda-levi-the-escape-keshet-1236855808/
 
-Variety has unveiled its 2026 class of 10 Actors to Watch. Since 1998, the franchise has singled out breakout performers on the cusp of the industry s front ranks and the track record speaks for itself. Past honorees include more than 35 Oscar winners and nominees, among them Mahershala Ali, Timothée Chalamet and Brie Larson. Last [ ]
+Yehuda Levi (“A Body that Works”) stars in a new international action-thriller “The Escape” for Keshet International. Set deep in the Colombian jungle, the eight-episode series, titled “Ha’Bricha” in Hebrew, centers around the scion of a religious cult leader who manages to flee but is forced to leave behind his wife and child. Once on [ ]
 
-### Laika s Wildwood Set to Open AFI Film Fest
-Wed, 09 Sep 2026 18:00:00 +0000 — https://variety.com/2026/film/news/wildwood-afi-film-fest-premiere-1236856002/
+### Yami Gautam Dhar s Amazon MGM Studios, Colour Yellow Film Nayyi Navelli Unveils Teaser (EXCLUSIVE)
+Thu, 10 Sep 2026 06:42:00 +0000 — https://variety.com/2026/film/news/yami-gautam-dhar-nayyi-navelli-teaser-1236856929/
 
-Laika s Wildwood is set to open the 40th edition of AFI Fest, presented by Canva, on Oct. 21. It also marks the U.S premiere of the film. Wildwood is the latest animated feature from the Portland-based studio Laika, and it s directed and produced by Travis Knight. The film follows a young girl named Prue (Peyton [ ]
+Amazon MGM Studios and Colour Yellow have unveiled the teaser for Nayyi Navelli, a fantasy family entertainer starring Yami Gautam Dhar, ahead of its October theatrical release in India. The teaser opens on what looks like an ordinary household before the brother-in-law levels an accusation at the family s newest addition: bhabhi daayan hai ( sister-in-law is [ ]
 
-### Apple Introduces iPhone Duo, Its First Foldable Smartphone
-Wed, 09 Sep 2026 17:57:53 +0000 — https://variety.com/2026/digital/news/apple-iphone-duo-18-foldable-price-availability-1236855996/
+### Underwater Life Breaks New Comedy Ground in Submarine Jim, Xilam s Latest Animated IP
+Thu, 10 Sep 2026 06:38:40 +0000 — https://variety.com/2026/tv/markets-festivals/submarine-jim-xilam-animation-unifrance-rendez-vous-sales-1236856484/
 
-Apple is giving a new twist to its flagship smartphone line: The company unveiled the iPhone Duo, its first foldable smartphone. The company s iPhone Duo foldable has an internal dual-display panel that provides the largest, most immersive screen size ever at 7.6 inches diagonally and it s also the thinnest iPhone ever, according to Apple. [ ]
+France may in general have suffered last year a sales decline and export slow-down but Submarine Jim s characters don t seem to be bothered as they weather this storm with a smile on their face. Xilam s latest production, in which a naive young dolphin (Jim) takes charge of an inverted submarine full of fish and sea [ ]
 
 ## The Hollywood Reporter
 
-### Bad Bunny to Celine Dion to Backstreet Boys: Musical Residencies Are Going Global – Boosting Tourism, Making Millions and Healing Fans
-Wed, 09 Sep 2026 19:24:42 +0000 — https://www.hollywoodreporter.com/music/music-features/bad-bunny-celine-dion-backstreet-boys-musical-residencies-1236695740/
+### Crew Girl Review: Netflix s Latest YA Sports Drama Checks All the Expected Boxes, but Not Much More
+Thu, 10 Sep 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/crew-girl-review-netflix-1236696105/
 
-Artists branching out beyond traditional pop residency locations like Las Vegas, New York and London, for elsewhere.
+Starring Miku Martineau and Jessica Paré, the series follows a female rower who begins serving as coxswain for the boys' team after transferring to an elite New England prep school.
 
-### A Good Little Soldier Review: A Tense French Workplace Drama About a Woman Caught Between Motherhood and Corporate Hell
-Wed, 09 Sep 2026 19:16:16 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/a-good-little-soldier-review-alba-rohrwacher-stephane-brize-1236685106/
+### Mercedes Ron Discusses Prime Video s New YA Romantic Thriller Drawn Together and What s Next for Her
+Thu, 10 Sep 2026 06:25:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/drawn-together-prime-film-mercedes-ron-interview-author-1236693241/
 
-Alba Rohrwacher ('Hungry Hearts') stars alongside Vincent Lindon ('Titane') in writer-director Stéphane Brizé’s latest story of late-stage capitalism gone awry.
+The bestselling author, whose 'Fault' trilogy broke records, and Carolina Bang of Banijay-owned producer Pokeepsie Films share a busy outlook for the "House of Ron," including a first U.S. adaptation.
 
-### TMZ s Harvey Levin Cut Kanye West s Hitler Praise From 2018 Interview, Former Staffer Says
-Wed, 09 Sep 2026 19:12:01 +0000 — https://www.hollywoodreporter.com/news/general-news/tmz-harvey-levin-cut-kanye-west-hitler-praise-2018-interview-1236695697/
+### Inside Venice s Unlikely Double Feature: A $300 Million Hitmaker and a New Generation of Smart Devices
+Thu, 10 Sep 2026 06:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/honor-robot-phone-venice-dear-you-1236693121/
 
-A GQ investigation into the gossip site's Washington ambitions includes new details on how its founder allegedly edited coverage to protect access to celebrities.
+Director Lan Hongchun and tech giant Honor are both making the same pitch on the Lido this year: that anyone with the right tools can become a filmmaker.
 
-### Holy Wood Dust Review: Victor Kossakovsky s Soothing, if Slightly Dull, Documentary Will Make You Want to Hug a Tree
-Wed, 09 Sep 2026 18:33:15 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/holy-wood-dust-victor-kossakovsky-trees-1236693408/
+### Carole Radziwill Says Carolyn Bessette Kennedy Would ve Loved Real Housewives of New York City : She Had a Great Sense of Humor
+Thu, 10 Sep 2026 04:43:23 +0000 — https://www.hollywoodreporter.com/tv/tv-news/carole-radziwill-carolyn-bessette-kennedy-loved-rhony-1236696123/
 
-Playing out of competition in Venice, the latest from the 'Gunda' and 'Architecton' helmer is a meditation on the precious beauty and importance of trees.
+Though the Housewife added that she doesn't think the former Calvin Klein publicist and wife of the late John F. Kennedy Jr. would've made an appearance on the Bravo series.
 
-### CBS ‘48 Hours’ Moves Into Video Podcasting With New Show
-Wed, 09 Sep 2026 18:19:32 +0000 — https://www.hollywoodreporter.com/business/digital/cbs-48-hours-video-podcasting-1236695658/
+### Kaia Gerber on The Shards Finale s Surprising Killer Suspects and Her Shelley Duvall Moment
+Thu, 10 Sep 2026 02:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-shards-finale-killer-theories-kaia-gerber-interview-1236695954/
 
-'The Woman in the Woods,' about the mysterious death of Mindi Kassotis, is the first in the new format.
+The actress who plays queen-bee high schooler Susan in Ryan Murphy's adaptation of the Bret Easton Ellis classic speaks with The Hollywood Reporter about the cliffhanger ending, her 'The Shining'-inspired scream-queen scene and if she knows who the killer is after season one.
 
-### How Hollywood Shapes Our Understanding of Health
-Wed, 09 Sep 2026 17:59:57 +0000 — https://www.hollywoodreporter.com/news/general-news/hollywood-shapes-understanding-of-health-1236685906/
+### Barry Melrose, Entertaining ESPN Hockey Analyst, Dies at 70
+Thu, 10 Sep 2026 01:26:57 +0000 — https://www.hollywoodreporter.com/tv/tv-news/barry-melrose-dead-espn-hockey-analyst-1236696136/
 
-A study sponsored by Eli Lilly and Company (Lilly) shows that chronic illness is historically underrepresented on screen, while a growing coalition of studios, researchers, and patient advocates work to change that reality.
+After 11 pro seasons as a rugged player, he led the L.A. Kings to the Stanley Cup Final in his first season as an NHL coach, then handled colorful commentary from 1994-2022.
 
-### ‘The Color of the Sun’ Review: A Teenager in Okinawa Navigates Grief and Longing in an Attractive but Undercooked Coming-of-Age Drama
-Wed, 09 Sep 2026 17:27:36 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-color-of-the-sun-review-1236692387/
+### MrBeast and James Patterson’s Novel Collaboration Debuts at No. 3 on NYT Bestseller List
+Thu, 10 Sep 2026 00:33:17 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/mrbeast-james-patterson-novel-debut-nyt-bestseller-list-1236696027/
 
-First-time feature filmmaker Xavier Tera's tale of adolescent exploration premiered in the Horizons sidebar of the Venice Film Festival.
+Sources confirm there are active talks around film rights for the mystery thriller, titled 'The Most Dangerous Games.'
 
-### Broadway Box Office: Hamilton Leads Labor Day Weekend Grosses
-Wed, 09 Sep 2026 17:12:51 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-hamilton-leads-labor-day-grosses-1236695532/
+### Lego Grows Its 200-Plus Harry Potter Collection With Eight New Sets
+Thu, 10 Sep 2026 00:21:36 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/lego-harry-potter-sets-2026-collection-buy-online-pricing-1236695426/
 
-In its first week post-opening, 'Paranormal Activity' brought in $790,991 across eight performances.
+The new collection features brick-built characters never before made by the toy company.
 
-### New Italian Job Movie in the Works at Paramount With Paul Feig in Talks to Direct
-Wed, 09 Sep 2026 17:04:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/italian-job-paul-feig-paramount-1236695543/
+### Suki Waterhouse Is Open to Nepo-Babying Her and Robert Pattinson s Daughter If She Pursues a Hollywood Career
+Thu, 10 Sep 2026 00:11:57 +0000 — https://www.hollywoodreporter.com/movies/movie-news/suki-waterhouse-nepo-babying-her-robert-pattinson-daughter-1236696068/
 
-Michael Caine starred in the original 1969 heist movie that was the basis for the 2003 hit of the same name.
+Waterhouse has a two-year-old daughter with her fiancé, Pattinson.
 
-### Nina Shipman, Actress in ‘The Oregon Trail’ and ‘The Munsters,’ Dies at 88
-Wed, 09 Sep 2026 17:01:34 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nina-shipman-dead-munsters-oregon-trail-1236695525/
+### Production Halt and All, Secret Lives of Mormon Wives Is Back: When and Where to Watch Season 5
+Wed, 09 Sep 2026 23:32:25 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-secret-lives-of-mormon-wives-season-5-free-cast-guide-1236695854/
 
-A onetime contract player at Fox, she also appeared in Hitchcock’s ‘Vertigo’ and in a pair of Bing Crosby films.
+Filming paused unexpectedly due to an alleged domestic violence incident involving Taylor Frankie Paul and ex Dakota Mortensen.
 
 ## Deadline
 
-### RuPaul s Drag Race UK All Stars Sets Fall 2027 Global Premiere On WOW Presents Plus
-Wed, 09 Sep 2026 19:15:32 +0000 — https://deadline.com/2026/09/rupauls-drag-race-uk-all-stars-2027-wow-presents-plus-1237072642/
+### Elon Musk Embarks On Vicious Rant About Bitter Old Man Alex Gibney Threatens To Sue Over Musk Documentary
+Thu, 10 Sep 2026 09:05:45 +0000 — https://deadline.com/2026/09/elon-musk-rant-alex-gibney-lawsuit-documentary-1237073198/
 
-For the first time in herstory, RuPaul s Drag Race UK is headed to WOW Presents Plus from the BBC, with the streaming platform ordering the first-ever All Stars edition. RuPaul s Drag Race All Stars is set to premiere in Fall 2027 to celebrate the artistry of the Queens who have worked the UK runway. The [ ]
+Elon Musk has gone on an hours-long rampage about Alex Gibney after the Oscar-winning director premiered his documentary about the tech mogul at the Venice Film Festival. In a series of vicious and sometimes bizarre posts on X/Twitter, Musk accused the filmmaker of having zero integrity and being a bitter old man who lost the [ ]
 
-### Baby Reindeer s Jessica Gunning Returning To Netflix For Darkly Comedic Thriller Series Feral
-Wed, 09 Sep 2026 19:15:00 +0000 — https://deadline.com/2026/09/jessica-gunning-to-star-feral-netflix-1237072540/
+### Paul Mescal, Tracy Letts Uzo Aduba Among Names Set For National Theatre Productions In 2027
+Thu, 10 Sep 2026 08:33:57 +0000 — https://deadline.com/2026/09/tracy-letts-paul-mescal-uzo-aduba-national-theatre-2027-1237073199/
 
-EXCLUSIVE: For the first time since her big breakout moment with Baby Reindeer, the darkly comedic stalker thriller turned water cooler phenomenon, Jessica Gunning is returning to Netflix. Gunning is one of the four leads of the streamer s Feral, a darkly comedic thriller series based on the 1987 novel by Shirley Conran, sources tell Deadline. Reps for Netflix [ ]
+The National Theatre in London has set its 2027 lineup, with Tracy Letts and Uzo Aduba among the actors making their debut at the venue, and Paul Mescal among the returning performers. Letts will perform alongside Mescal in a rep production of Arthur Miller’s Death of a Salesman, directed by Rebecca Frecknall in the National’s [ ]
 
-### September Showdown! SCOTUS Orders Blue State AGs To Respond To ParaBros Merger Antitrust Suit Objection From Iowa Montana
-Wed, 09 Sep 2026 19:06:50 +0000 — https://deadline.com/2026/09/paramount-merger-lawsuit-supreme-court-ruling-1237072572/
+### The Sidemen Rep Arcade Signs Max Fosh, Friends From Work More Ahead Of Europe s First Creator Upfront
+Thu, 10 Sep 2026 08:00:00 +0000 — https://deadline.com/2026/09/arcade-relaunch-sidemen-max-fosh-creators-1237072068/
 
-When all is said and done, the antitrust clash between Paramount Skydance and a dozen blue states may be best articulated by a certain Earth, Wind Fire tune and remembering a day or two in September. In a move that could be read as a lifeline or a death knell depending on your POV, [ ]
+EXCLUSIVE: Arcade, the management company of The Sidemen, has signed a host of creators, as it relaunches as an entertainment business ahead of its first European upfront. Comedian Max Fosh, creator collective Friends From Work (comprising Arthur Frederick, Arthur Hill, George Clarkey and ItalianBach), John Nellis, Faith Kelly, Generation Football and Fallow Chefs have all [ ]
 
-### Carrie Coon Joins Rebecca Ferguson Greta Lee In MRC Rom-Com Honeymoon / Funeral
-Wed, 09 Sep 2026 19:01:00 +0000 — https://deadline.com/2026/09/carrie-coon-rebecca-ferguson-greta-lee-honeymoon-funeral-1237072427/
+### RuPaul s Drag Race UK Canceled By BBC Amid Financial Pressures
+Thu, 10 Sep 2026 07:58:05 +0000 — https://deadline.com/2026/09/rupaul-drag-race-uk-canceled-bbc-financial-pressures-1237073175/
 
-EXCLUSIVE: The White Lotus star Carrie Coon has joined Rebecca Ferguson and Greta Lee in the upcoming romantic comedy, Honeymoon/Funeral. MRC is financing and overseeing production of the film from director Nahnatchka Khan and writer Julia Bicknell. Filming continues in London. Ferguson and Lee star as two women who meet on a flight from LA to London [ ]
+RuPaul s Drag Race UK has reached the end of the runway on the BBC. The BBC has decided not to renew Drag Race UK beyond Season 8 this year, citing financial pressures as the UK broadcaster seeks savings of £500 million ($677 million). Producer World of Wonder plans to pivot the show, as well as [ ]
 
-### Ross Weiner Joins Gersh As Theater Talent Agent
-Wed, 09 Sep 2026 18:32:15 +0000 — https://deadline.com/2026/09/ross-weiner-joins-gersh-theater-agent-1237072585/
+### UK Industry Program Breakthrough Leaders Widens Focus To International Biz Becomes Global Breakthrough 360
+Thu, 10 Sep 2026 07:00:00 +0000 — https://deadline.com/2026/09/breakthrough-leaders-becomes-global-breakthrough-360-1237072008/
 
-EXCLUSIVE: Agent Ross Weiner has joined the Talent division at Gersh, with an eye toward identifying and developing theater opportunities for clients across the agency s roster, both on and off Broadway. Weiner will be based in New York. He previously spent eight years at ICM Partners and CAA, following the latter s acquisition of ICM in 2022, [ ]
+EXCLUSIVE: British industry initiative Breakthrough Leaders is expanding globally. The UK leadership program for individuals from Black, Asian and Global Majority backgrounds is evolving into Global Breakthrough 360 (GB360) as a response to the increasingly international nature of television. The new evolution of Breakthrough Leaders will place focus on Africa and Canada to open routes [ ]
 
-### Practical Magic 2 Hopes To Weave Spell Keep Box Office Alive; Global Outlook $58M-$63M Box Office Preview
-Wed, 09 Sep 2026 18:17:50 +0000 — https://deadline.com/2026/09/box-office-practical-magic-2-1237072094/
+### Kimmel Says Trump s FCC Has Threatened Show, So His James Talarico Interview Will Air On YouTube Instead Of ABC
+Thu, 10 Sep 2026 06:15:59 +0000 — https://deadline.com/2026/09/kimmel-trump-threat-james-talarico-interview-1237073160/
 
-After summer hit a record $4.76 billion stateside, Warner Bros has a female destination in Practical Magic 2, the sequel to the 1998 Sandra Bullock and Nicole Kidman witchy romantic fantasy comedy which is eyeing around $40M domestic, and between $18-23M overseas in 77 territories for a global start between $58M-$63M. Practical Magic 2 will [ ]
+For the second time this year, James Talarico is being sent to YouTube. In February, Stephen Colbert announced that, after scheduling the Texas democrat as a guest on Late Night, CBS lawyers told him we could not have him on the broadcast. The Late Night host went on to explain FCC Chair Brendan Carr’s new guidance on [ ]
 
-### Carrie-Anne Moss Signs With Verve
-Wed, 09 Sep 2026 18:11:57 +0000 — https://deadline.com/2026/09/carrie-anne-moss-signs-verve-1237072534/
+### Barry Melrose Dies: Gretzky-Era L.A. Kings Coach And Longtime ESPN Hockey Analyst Was 70
+Thu, 10 Sep 2026 01:50:29 +0000 — https://deadline.com/2026/09/barry-melrose-dead-los-angeles-kings-coach-espn-1237073079/
 
-EXCLUSIVE: Actress Carrie-Anne Moss has inked with Verve for representation. An Independent Spirit and Genie Award winner, Moss is fresh off FUBAR, the action comedy series from Netflix and Skydance Television, where she starred opposite Arnold Schwarzenegger. She ll next be seen starring opposite fellow Canadian Hudson Williams, the Heated Rivalry breakout, in Yaga, a new thriller series from Crave and [ ]
+Barry Melrose, who coached the Wayne Gretzky-led Los Angeles Kings team that helped put the NHL and hockey on the map in the U.S., and who later became ESPN s signature hockey analyst for almost two decades, died Wednesday. He was 70. Melrose retired from ESPN after an almost two-decade broadcasting career after he revealed just [ ]
 
-### Apple s John Ternus Makes Product Event Debut As CEO, Unveiling Foldable iPhone Duo
-Wed, 09 Sep 2026 18:05:00 +0000 — https://deadline.com/2026/09/apple-event-john-ternus-iphone-ai-1237072472/
+### Getty Fire Breaks Out Above Brentwood; Smoke Visible Across West L.A.; Forward Progress Stopped
+Thu, 10 Sep 2026 01:29:57 +0000 — https://deadline.com/2026/09/fire-getty-center-los-angeles-1237072992/
 
-Apple executive John Ternus made his debut appearance as the company s CEO during the company s annual product event Wednesday, touting new AI tools and a new foldable iPhone. The foldable model, iPhone Duo, has a screen size when unfolded that is 80% larger than that of the current Pro model and 50% larger than the [ ]
+UPDATED: Forward progress on the Getty Fire was stopped at about 6:15 p.m., per Cal Fire. The blaze blackened about 25 acres near the Getty Center before firefighters got the upper hand on it. PREVIOUSLY at 5:35 p.m.: Heads turned across West Los Angeles this afternoon as smoke rose near the Getty Center. The blaze, [ ]
 
-### Laika s Wildwood To Open AFI Fest 2026
-Wed, 09 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/wildwood-afi-fest-2026-opening-film-1237072469/
+### Chinese Distributor Hishow Adds Josephine , Ah Girl Rec Franchise To We Love Cinema Release Slate
+Thu, 10 Sep 2026 01:29:33 +0000 — https://deadline.com/2026/09/josephine-ah-girl-rec-rush-hishow-china-1237072032/
 
-The American Film Institute said Wednesday that it has selected Laika s latest stop-motion animated feature, Wildwood, as the opening-night film of AFI Fest, whose 40th edition launches in October. The October 21 screening will mark the U.S. premiere of the pic, which will world premiere October 11 at the London Film Festival. It will open in [ ]
+EXCLUSIVE: Beijing-based producer-distributor Hishow Entertainment is expanding its cinephile We Love Cinema brand with a slate of new acquisitions including recent Sundance winner Josephine and Ah Girl from Singapore’s Ang Geck Geck Priscilla. Beth de Araújo’s Josephine, starring Channing Tatum and Gemma Chan, scooped both the Grand Jury Prize and the Audience Award in the [ ]
 
-### Nirvana Set For VMAs Video Vanguard Award
-Wed, 09 Sep 2026 17:47:53 +0000 — https://deadline.com/2026/09/nirvana-2026-vma-video-vanguard-award-1237072477/
+### LA s Film Liaison Gives Update On Local Production Woes, Asks Lawmakers For Additional Support During City Council Meeting
+Thu, 10 Sep 2026 01:09:54 +0000 — https://deadline.com/2026/09/los-angeles-film-liaison-local-city-council-update-1237072994/
 
-Smells like a well-deserved honor for the Band That Changed It All. MTV said Wednesday that Nirvana will receive the VMAs top career prize, the Video Vanguard Award, during the 2026 ceremony on Sunday, September 27. The news comes 34 years to the day after Kurt Cobain, Krist Novoselic and future Foo Fighter Dave Grohl [ ]
+Los Angeles elected officials spent several hours on Wednesday grilling city leaders on ways to streamline the region s film and television production processes, and the answer largely came down to more funding. I have approached this work with a simple principle: when a production wants to film in Los Angeles, we work with urgency to [ ]
 
-### Venice Film Festival 2026: Read All Of Deadline’s Reviews
-Wed, 09 Sep 2026 17:41:34 +0000 — https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/
+### Beyond Fest 2026 Lineup Includes Primetime , V/H/S/Mixtape And Your Mother Your Mother Your Mother
+Thu, 10 Sep 2026 01:02:14 +0000 — https://deadline.com/2026/09/beyond-fest-2026-lineup-movies-1237073055/
 
-The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle s Ink starring Jack O’Connell, Guy Pearce and Claire Foy kicking off an 83rd edition that includes films starring the likes of Robert Pattinson, Penelope Cruz Javier Bardem, Jack Huston Sofia Boutella, Dakota Johnson, John [ ]
+Beyond Fest will open its 2026 edition with Lance Oppenheim s Primetime and close with Bassam Tariq s Your Mother Your Mother Your Mother as the Los Angeles-set genre festival revealed its full lineup Wednesday. The fest, which runs September 23-October 6, will feature 10 world premieres and four North American premieres within its 81-film lineup, which [ ]
 
-### Place To Be Review: 93-Year-Old Ellen Burstyn Shines Teaming With Taika Waititi And A Wayward Pigeon In Kornél Mundruczó s Touching Road Movie Venice Film Festival
-Wed, 09 Sep 2026 17:15:31 +0000 — https://deadline.com/2026/09/place-to-be-review-ellen-burstyn-taika-waititi-1237072337/
+### LA City Officials Make Plans For ‘Baywatch’ Season 2 Ahead Of Renewal Decision: “They Will Be Returning”
+Thu, 10 Sep 2026 00:50:30 +0000 — https://deadline.com/2026/09/baywatch-season-2-los-angeles-city-early-plans-renewal-1237073030/
 
-In 1974, Art Carney won the Best Actor Oscar for Paul Mazursky s Harry Tonto as a retired New Yorker who sets out on a cross-country journey to visit family with his cat after his building is being torn down. Ellen Burstyn played his daughter then, and the same year also won the Best Actress [ ]
+Things are looking promising for Fox s upcoming Baywatch reboot ahead of the series January debut. It appears that Los Angeles officials are already making preparations to welcome the show back for a second season. Speaking to city council members on Wednesday, LA s chief film liaison Steve Kang told local lawmakers: I can say with confidence [ ]
 
 ## befores & afters
+
+### Building up a battle
+Wed, 09 Sep 2026 22:13:54 +0000 — https://beforesandafters.com/2026/09/10/building-up-a-battle/
+
+ILM VFX supe Russell Earl and ILM anim supe Kevin Martel examine the third act battle in The Electric State and a few robot Easter eggs to look out for. An excerpt from issue #65 of befores & afters magazine. b&a: For the amazing third act battle, what was the plan in terms of shooting plates? Russell Earl : The end battle was shot in Georgia. Having worked with the Russo brothers before, we knew what to expect. We ve done some of these big third act battles. We knew from the outset that we were going to have to be able to create any shot that could be imagined. We had this field to shoot at. We made sure that we LiDAR scanned it all. We did drone photography. We did the normal photo capture for everything, so that every blade of grass and every tree could be rebuilt if we needed it. In the end, almost every single shot is a fully digital shot, from close-ups on the grass to big wides. When we were out there, we did have a proper second unit out there, and we had some stunt performers. We would work through the different beats. There s a shot, for example, where the football bot throws Honeybear. We did have previs that we were working off of. We would look at the previs that we had and then we d talk with the stunt performers and try to come up with these little beats. Then we would shoot them with the Xsens MVN suits. And it grows from there. We also realized at a certain point that it was just a big empty field. We wanted to add some interest to it, and it was a great oppo
 
 ### Pitch Black’s Troy Tobin on where Rising Sun s REVIZE is now headed
 Tue, 08 Sep 2026 10:25:53 +0000 — https://beforesandafters.com/2026/09/08/pitch-blacks-troy-tobin-on-where-rising-suns-revize-is-now-headed/
 
 Where the machine learning technology is expanding to. Troy Tobin. Today on the befores & afters podcast we’re chatting to Pitch Black’s Troy Tobin. Troy is now the Head of REVIZE (Research and Innovation). As you may know, REVIZE came out of Rising Sun Pictures as the studio’s proprietary machine learning technology. It’s been used by artists at the studio on films such as Sinners, Mickey 17, Thunderbolts, Furiosa and Thor: Love and Thunder. The big announcement with REVIZE is that it is being expanded to Pitch Black’s other studios beyond Rising Sun, to FOLKS, El Ranchito and Square One. In the podcast, Troy and I discuss that expansion of REVIZE. We also talk about how REVIZE came to be, how it has been used, and where it’s headed. Here s some previous coverage of REVIZE at befores & afters: How Rising Sun Pictures’ REVIZE machine learning tech came to be Behind the face replacement VFX and **those** lasers in the craziest scene from ‘Sonic the Hedgehog 3’ The art of twinning Making young Furiosa Listen in to the podcast, above. The post Pitch Black’s Troy Tobin on where Rising Sun s REVIZE is now headed appeared first on befores & afters .
 
-### So many robots
-Mon, 07 Sep 2026 22:27:57 +0000 — https://beforesandafters.com/2026/09/08/so-many-robots/
-
-Issue #65 of befores & afters magazine covers the visual effects of The Electric State. DIGITAL MAGAZINE members can download the issue right now from the shop post. Set in an alternate, retro-futuristic 1990s America scarred by a robot uprising, Netflix’s The Electric State , from director duo the Russo brothers, follows orphaned teenager Michelle (Millie Bobby Brown) as she traverses a desolate landscape in search of her presumed-dead younger brother. The film is based on the 2018 graphic novel by Simon Stålenhag. Accompanied by a mysterious robot named Cosmo— apparently carrying her brother’s consciousness—she teams up with drifter Keats (Chris Pratt) and his robot companion Herman (voiced by Anthony Mackie), who appears in several different sizes. Along the way, they encounter a host of human and machine characters as the journey leads into the robot-inhabited Exclusion Zone and a deeper conspiracy surrounding the technology that ended the war. Bringing this hybrid road movie and sci-fi spectacle to life required an on-set methodology that tightly fused live-action performance with digital character creation. During principal photography, stand-in performers and dedicated motion capture artists physically embodied the film’s robotic cast, acting opposite the principal actors to establish eyelines, timing and emotional interplay. The robot performers, part of a troupe led by movement choreographer Terry Notary, worked both in optical capture setups and accelerometer-based 
-
 ## IndieWire
+
+### The Traditional Film Industry’s Collapse Is Right on Schedule — Opinion
+Thu, 10 Sep 2026 00:36:48 +0000 — https://www.indiewire.com/features/commentary/film-industry-collapse-on-schedule-a-producers-path-1235215989/
+
+The most dangerous thing a producer can do during times of uncertainty is wait.
+
+### ‘Avengers: Doomsday’ Has Already Made $50 Million in Pre-Sales — And People Are Buying Disney’s Infinity Vision Gambit
+Wed, 09 Sep 2026 21:31:26 +0000 — https://www.indiewire.com/news/box-office/avengers-doomsday-50-million-pre-sales-infinity-vision-1235215933/
+
+70 percent of domestic pre-sales — or $35 million — have come from the new certification invented in response to "Dune: Part Three" hoarding IMAX screens.
+
+### After Bunker Scores a Huge Venice Ovation, Will the Film and Penélope Cruz and Javier Bardem Be Major Oscar Contenders?
+Wed, 09 Sep 2026 21:15:00 +0000 — https://www.indiewire.com/news/festivals/bunker-penelope-cruz-javier-bardem-venice-ovation-oscar-chances-1235215931/
+
+Though "Bunker" was embraced at its world premiere, it is unlikely the marital drama will earn either Penélope Cruz and Javier Bardem a second Academy Award.
 
 ### The Paper Review: Season 2 Can t Deliver Its One, Big, Diabolical Idea
 Wed, 09 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/shows/the-paper-season-2-review-the-office-spinoff-bad-1235213892/
@@ -225,122 +240,107 @@ Wed, 09 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/features/interview
 
 The producer of movies as varied as "Ed Wood," "Sisterhood of the Traveling Pants," and "Catwoman" tells IndieWire about what motivates her choices, and how she keeps a grounded perspective on the work regardless of the critics and the box office.
 
-### Union Town Review: Barbara Kopple Returns to Her Labor Roots by Unevenly Covering the Plight of New York Delivery Workers
-Wed, 09 Sep 2026 13:15:00 +0000 — https://www.indiewire.com/criticism/movies/union-town-review-1235215799/
-
-Venice: The third in Kopple’s informal strike trilogy sets its sights on the workers battling with UPS, Amazon, and food-delivery apps with mixed results.
-
-### The Uprising Review: Paul Greengrass Turns the Peasants Revolt of 1381 Into an Unapologetic Work of 21st Century Populism
-Wed, 09 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/criticism/movies/the-uprising-review-1235214967/
-
-...that doubles as an origin story for a fictional character we wouldn't dare reveal.
-
-### Joie de Vivre Review: Luca Guadagnino s Obsessive Bertolucci Doc Is a 7-Hour Cinema Paradiso Even More Fascinating for What It Leaves Out
-Wed, 09 Sep 2026 12:30:00 +0000 — https://www.indiewire.com/criticism/movies/luca-guadagnino-bertolucci-documentary-joie-de-vivre-review-1235215442/
-
-Venice: Guadagnino's epic chronicle of his filmmaking idol wends and wades its way through Bertolucci's complicated career — but where the hell is "The Dreamers"? This fascinating, often exhilarating documentary has plenty to chew on.
-
 ## The Wrap
 
-### Adam Schiff Is Shocked to Strongly Agree With Trump on Film Tax Credit: Never Used Those Words Before
-Wed, 09 Sep 2026 19:22:45 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/adam-schiff-donald-trump-film-tax-credit-hollywood-cnn/
+### Jimmy Kimmel Says He Will Only Release His James Talarico Interview on YouTube After FCC Threats: ‘Best That We Can Do’
+Thu, 10 Sep 2026 04:25:34 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-to-release-james-talarico-interview-on-youtube-after-fcc-threats/
 
-Sen. Adam Schiff is shocked that he s found something to strongly agree with President Donald Trump on – the film tax credit. In a conversation with CNN s Elex Michaelson, the California Senator touched on his recent social media post where he said he was in strong agreement with Trump on his support of the federal film tax credit. I ve never used those words before, but look, when I took this office I said I m going to try to do two things that are going to be in tension with each other, Schiff said. I m going to try to get things done, and I m going to try to fight any corruption, any attack on our democracy. Well, this is something we can get done. And just because it s this president, if it s a good idea, I m not going to oppose it, he continued. In fact, I fully support this. As you know, I ve been working for a federal tax credit for the film and television industry to bring these jobs back to California. And now I think we are very close to making that happen. A couple weeks back, Trump took to his own social media to urge Congress for policy changes to stem the tide against production flight to other major international hubs like the United Kingdom and Canada. This came after a meeting the president had with actor and Hollywood Ambassador Jon Voight. “Hollywood is a Complete and Total Disaster! Despite the name, it is getting very little work. There is no incentive to be there, and it is hurting California very badly,” Trump wrote on Truth Social . He added: “Meetings
+Jimmy Kimmel will not air his interview with Texas senate candidate James Talarico after threats from the FCC, the late night host shared Wednesday. During Wednesday s monologue for Jimmy Kimmel Live!, the comedian explained that he would release a sit down with Talarico on his YouTube channel, rather than broadcasting it on ABC. I ll be interviewing James Talarico tomorrow night under unusual circumstances, Kimmel said. You know, for the whole 20-plus years of our show, in fact, I ve been interviewing Americans who are running for office with no problem at all, just like [David] Letterman did, [Jay] Leno did, Arsenio [Hall], etc., etc. He added: I ve interviewed a lot of political candidates from Hillary Clinton to Ted Cruz to Donald Trump himself. I interviewed Donald Trump when he was running for president in 2015. As Kimmel went on, he claimed Trump at that time seemed to have no problem with the idea of a talk show host interviewing candidates. In fact, he was very eager to come back for another interview, which he did just before he became the nominee in 2016. But for some reason, and I can t seem to figure out what that reason is, something has changed, Kimmel said. Now that he is president, his FCC has threatened me, threatened our show, threatened our network, ABC, our affiliates, our local stations based on simple traditional editorial decisions, guest bookings it would seem they don t like. Per Kimmel, he made this decision out of consideration for our local statio
 
-### Creatorverse: NFL Is Doubling Down on Creators as the US Open Struggles
-Wed, 09 Sep 2026 19:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/creatorverse-nfl-us-open-creator-strategy/
+### Trump Tells Midterm Voters to ‘Pretend That I’m Running’ — and Promises $5,000 if GOP Wins
+Thu, 10 Sep 2026 03:28:14 +0000 — https://www.thewrap.com/media-platforms/politics/trump-midterms-5000-dividend/
 
-Hey Creatorverse readers, Football season is here, or should I say football creator season. The NFL is once again increasing its creator partnerships as part of a push that includes bringing back the NFL and YouTube’s Creator of the Week program for the third year in a row, collaborating with Snapchat and planning content with top creators like Deestroying ( 6.5 million YouTube subscribers ), Zach King ( 43.4 million subscribers ), Gabriela Moura ( 11.5 million TikTok followers ) and Dhar Mann ( 27.6 million YouTube subscribers ). The NFL’s creator strategy has become a central part of its audience expansion efforts in recent years, especially as the NFL has made moves to expand its female and non-American audiences. Last year s Creator of the Week program led to more than 86 million views across all YouTube and NFL channels. And this year creators are especially important as the NFL will have nine international games throughout the 2026-2027 season — the most in the league’s history. For those, the NFL is tapping creators in countries like Australia for the San Francisco 49ers vs. Los Angeles Rams game and Brazil for the Baltimore Ravens vs. Dallas Cowboys game. For us, it’s really a combination of global and local relevance, Ian Trombetta, senior vice president of Global Social, Creator and Content Marketing for the NFL, told me. Of course, there are amazing creators like MrBeast or IShowSpeed whose communities have no borders, but there are also emerging creators within ea
+President Donald Trump urged Americans to vote in November as if his name were on the ballot, promising them a $5,000 “Trump Dividend” if Republicans retain control of Congress while making himself the centerpiece of a midterm election some vulnerable GOP candidates are approaching more cautiously. “Please pretend that I’m running, and get out and vote on Nov. 3, or sooner,” Trump told supporters Wednesday at the Republican Party’s first-ever midterm convention in Dallas. “Because, in actuality, I really am running.” Trump repeatedly tied Republicans’ fortunes to his own, telling supporters he plans to campaign in states with closely contested House and Senate races — even as several Republicans facing competitive elections skipped the Dallas gathering. “I’m asking you to pretend that I’m on the ballot,” Trump said. “Just one more time.” He also offered voters a considerably more tangible incentive: $5,000. “If the Republicans win the House of Representatives and the United States Senate … I will issue a dividend to every adult citizen in the United States of America for $5,000,” Trump said. Trump claimed the payments were possible because of the country’s economic strength, though he offered few details about how the proposal would work or be funded. He said recipients would be required to spend the money in the United States. “It will be called the Trump Dividend,” Trump said. When he wasn’t promising voters cash, Trump spent much of the lengthy address attacking Democrats,
 
-### Paul Feig in Talks to Direct Italian Job Sequel at Paramount
-Wed, 09 Sep 2026 18:45:09 +0000 — https://www.thewrap.com/creative-content/movies/paul-feig-the-italian-job-sequel-paramount/
+### Spencer Pratt Calls Out Mayor Karen Bass’ Fire Safety Plans After 25-Acre Blaze Ignites in Los Angeles
+Thu, 10 Sep 2026 03:10:28 +0000 — https://www.thewrap.com/culture-lifestyle/culture/spencer-pratt-attacks-karen-bass-fire-safety-plans-amid-getty-fire/
 
-Hot off the success of The Housemaid, Paul Feig is in early talks with Paramount to direct a sequel to 2003 heist film The Italian Job, sources with knowledge of the project have told TheWrap. Directed by F. Gary Gray and starring Mark Wahlberg, Charlize Theron and Edward Norton, The Italian Job was inspired by a 1969 comedy starring Michael Caine but with its own action-packed take. The film follows a team of thieves who plan to get revenge on a former member who betrayed them and steal back $35 million in gold they stole from a Venice vault. The film is famous for a climactic chase scene involving three souped-up Mini Coopers that weave through the streets of Los Angeles and across the concrete of the L.A. River. The Italian Job was a decent box office success, grossing $176 million worldwide against a $60 million budget. Paramount s planned sequel currently has no talent attached, but if it gets off the ground it won t be the only heist film to join the studio s slate. Following Paramount s acquisition by Skydance last year, the motion picture group s new leadership, helmed by Dana Goldberg and Josh Greenstein, announced the motorcycle crime film High Side starring Timothée Chalamet and directed by James Mangold as their first greenlit project. Fresh off The Housemaid, which made $400 million worldwide this past winter, Feig is currently at Lionsgate working on a sequel, The Housemaid s Secret, based on the novel of the same name by Freida McFadden. That movie is set for r
+Spencer Pratt took aim at Los Angeles Mayor Karen Bass fire safety plans as a 25-acre blaze ignited on the westside of Los Angeles, Calif. The Hills alum, who ran against Bass and Councilmember Nithya Raman for mayor before being edged out in June during the primary, took to X on Wednesday evening and released a video message attacking the incumbent mayor for running the city s water supply through a rubber hose through six miles of flammable brush. That s right. Some of you may remember that Karen and LADWP infamously drained our 117 million gallon reservoir during fire season right before the Palisades fire, the reality star, who lost his home in the 2025 Palisades fire, said. During the peak of the firestorm , our hydrants went dry, leaving firefighters helpless, forcing them to stand and watch everything burn to the ground. As Pratt went on, he called out the many infrastructure issues that have plagued the city in 2026, including a July sink hole caused by a water main break in West Hollywood, Calif. As you look around LA and you see a new water main break every other day, flooding businesses, destroying the roads, our neglected infrastructure is absolutely crumbling all around us, he noted. If water is so damn precious in California, why are we so reckless with it? We are truly being led by the most incompetent and negligent crooks imaginable. Pratt then bemoaned the fact that Santa Ynez Reservoir in Pacific Palisades has been drained once again, claiming this has left 
 
-### ‘Wildwood’ Will Open 2026 AFI Fest in Los Angeles
-Wed, 09 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/movies/wildwood-laika-afi-fest-premiere/
+### ‘South Park’ Creators Apologize for Delay of Untitled Kendrick Lamar Movie
+Thu, 10 Sep 2026 02:27:01 +0000 — https://www.thewrap.com/creative-content/movies/south-park-creators-apologize-for-delay-untitled-kendrick-lamar-movie/
 
-The American Film Institute’s 2026 AFI Fest will open with the United States premiere of Laika Studios’ “Wildwood” on Wednesday, Oct. 21. This will be the 40th edition of AFI Fest, which is held yearly in Hollywood. Tickets are on sale now. This year’s festival is presented by Canva. “Wildwood” is the highly anticipated new film from the Portland, Oregon-based animation studio behind modern classics “Coraline,” “ParaNorman” and “Kubo and the Two Strings.” It is their first feature since 2019’s “Missing Link” and a labor of love for the entire studio. Based on the book series by Colin Meloy and Carson Ellis, “Wildwood” follows a young girl named Prue (voiced by Peyton Elizabeth Lee), whose young brother is taken by a flock of ravens, forcing her to travel into a strange and magical realm. The film was written by Chris Butler, was shot by legendary cinematographer Caleb Deschanel (AFI Class of 1969) and produced and directed by Travis Knight, Laika s CEO and lead animator . Jacob Tremblay, Carey Mulligan, Mahershala Ali, Angela Bassett, Awkwafina, Tom Waits, Jake Johnson and Amandla Stenberg also star. “AFI is honored to celebrate ‘Wildwood’ as the Opening Night Film of the 40th Annual AFI FEST,” said Bob Gazzale, AFI President & CEO, in a Wednesday statement. “At a time when the world needs artistic inspiration more than ever, ‘Wildwood’ comes to the rescue by inviting audiences to a hand-crafted, endlessly imaginative world that both dazzles and delights.” Sixteen years is a 
+“South Park” creators Trey Parker and Matt Stone have issued an apology for the delay in finishing their untitled comedy with Kendrick Lamar. “We take full responsibility for the schedule delay of this movie,” Parker and Stone said in a statement to The Ankler . “We apologize to our partners at pgLang and Paramount, and we appreciate their patience. ‘South Park’ and life’s circumstances have gotten in the way, but we still believe in the project.” A representative for Stone and Parker did not respond to TheWrap s request for comment. Lamar is, of course, the American rapper and the only musician outside of the classical and jazz genres to win the Pulitzer Prize for Music. In addition to acclaimed albums like “To Pimp a Butterfly” and “Damn,” he curated and produced “Black Panther: The Album,” the blockbuster record that accompanied Ryan Coogler’s 2018 film. The studio previously dated the film for March 20, 2026, after it was supposed to be released July 4 last year. The movie does not currently have a release date, however. The script for the project, which has received the working title Whitney Springs, is by Vernon Chatman. While Paramount has yet to reveal any plot details, the studio previously described the movie as an “original live-action comedy.” Lamar and Dave Free are producing through their company, the aforementioned pgLang, while Stone and Parker are producing for Park County. The film is the first feature from Parker and Stone in more than two decades – their l
 
-### Maxton Hall Season 3 Will Use Amazon s New AI Lip Syncing Tech for Dubbed Episodes
-Wed, 09 Sep 2026 17:57:57 +0000 — https://www.thewrap.com/industry-news/tech/amazon-prime-video-ai-lip-syncing-technology-maxton-hall-season-3/
+### Barry Melrose, Longtime ESPN Hockey Analyst, Dies at 70
+Thu, 10 Sep 2026 01:48:56 +0000 — https://www.thewrap.com/culture-lifestyle/sports/barry-melrose-dies-espn-hockey-analyst/
 
-Amazon s Prime Video has unveiled a new, AI-powered lip-syncing technology tied to the forthcoming December premiere of Maxton Hall Season 3. The feature, which is now available with the first two seasons of Maxton Hall, uses AI to eliminate the disconnect that can occur with traditional dubbing and deliver a more accessible viewing experience. The technology is designed to synchronize actors lip movements with human-dubbed audio in the hopes of creating a smoother effect than traditional dubbing typically provides. At Prime Video, we re constantly innovating with new tools that enhance the viewing experience for our customers, Raf Soltanovich, Vice President of Technology at Prime Video and Amazon MGM Studios, said in a Wednesday statement. With lip-syncing, we re creating a more seamless and immersive way for customers to enjoy global content. For creators, we re making it easier for their stories to reach an even broader and global audience, all done under creative oversight to ensure the integrity of their artistic vision is preserved, he added. Amazon also has plans to add the technology to other Prime Video titles in the coming months, and it will be available with Maxton Hall Season 3 once it premieres on Dec. 9. The announcement continues Amazon s ongoing investment in artificial intelligence. In recent months, the company has rolled out a number of AI-powered technologies and updates to its streaming platforms. In May, it launched an update allowing Alexa+ users to c
+Barry Melrose, a former NHL player and coach who later served as a hockey analyst at ESPN for 27 years, died on Wednesday following a battle with Parkinson s disease. He was 70. Melrose’s wife, Cindy, confirmed his passing to his longtime employer, with ESPN sharing a statement on his death Wednesday evening. For decades, Barry Melrose was one of the most distinctive and trusted voices in hockey, the sports broadcasting network shared in a statement . His knowledge of the game was deep, his candor was refreshing and his passion was unmistakable. He was a foundational part of ESPN s hockey coverage, and fans and teammates truly appreciated his entertaining delivery and charismatic personality.” The company’s statement added: “We send our deepest condolences to his loved ones. He always kept it interesting and he will be missed. Melrose, who joined ESPN as a lead hockey analyst and commentator in 1996, retired from broadcasting in 2023 after receiving a Parkinson s disease diagnosis. Prior to his work as a sportscaster, Melrose coached the Wayne Gretzky-led Los Angeles Kings between 1992 and 1995. During his first season coaching the Kings, he led the team to the Stanley Cup Final. Melrose returned to coaching in 2008, when he briefly stepped away from his ESPN duties to coach the Tampa Bay Lightning for 16 games. Other coaching credits include the Medicine Hat Tigers, the Seattle Thunderbirds and Adirondack Red Wings. Melrose was also a gifted hockey player, playing profession
 
-### Keanu Reeves to Star in Kill Current Adaptation
-Wed, 09 Sep 2026 17:40:37 +0000 — https://www.thewrap.com/creative-content/movies/keanu-reeves-to-star-in-kill-current-adaptation/
+### Entourage Creator Calls Jeremy Piven and Adrian Grenier Reunion Ad Trash and Theft
+Thu, 10 Sep 2026 00:16:47 +0000 — https://www.thewrap.com/culture-lifestyle/culture/entourage-creator-betr-ad-jeremy-piven-adrian-grenier-theft/
 
-The Arena has preemptively acquired and will finance and produce a Keanu Reeves-led adaptation of Oliver Lowe’s upcoming novel Kill Current: A Jon Hendricks Thriller, the company announced Wednesday. Reeves will also produce with Alexandra Grant for Two Dragonflies. Molly Stern and Zando will executive produce. The novel will be published by Zando in May of 2027. Kill Current is the first novel in Lowe’s forthcoming series centering on Jon Hendricks, a burned-out CIA officer who is pulled back in to avenge the protégé he trained and lost. This first novel will introduce the franchise s globe-spanning, edge-of-your-seat action about shifting alliances and the race for the world’s most precious and valuable assets. “This project further underlines our focus on launching high-concept IP for global audiences across different media,” Erik Feig, CEO of The Arena, said in a statement. “Keanu Reeves is a singular talent and synonymous with the kind of intelligent action franchises we are aiming to make. We are thrilled to work with him and Alexandra Grant and equally thrilled that Matt Reilly and Melissa Goodall were able to swoop in and get this!” “Oliver Lowe’s masterful story, the first in his upcoming Jon Hendricks series, is poised to reinvent the geopolitical thriller for the modern era,” Molly Stern, CEO and founder of Zando, added. “Kill Current is rooted in the issues shaping today’s world — semi-conductors, global supply chains, technological and information warfare. It del
+Entourage creator Doug Ellin did not appreciate Jake Paul s take on his HBO comedy series, which reunited former co-stars Jeremy Piven and Adrian Grenier. An ad for the boxer s social sportbook platform Betr saw Piven and Grenier revive their roles as super agent Ari Gold and movie star Vinny Chase, respectively. Ellin took to his social media on Wednesday, calling the ad trash and theft. I have zero positivity in watching things I busted my ass [off] on for years [be] turned into garbage, he wrote on X. Go create your own s t. And if you need money Flip burgers. This is trash and theft. Period. The commercial sees Piven weave his way through a mansion party, where Lonzo and LiAngelo Ball ask him to make a bet on the TV. His character then bumps into Jake Paul, who gives him the elevator pitch for his predictive markets app Betr. I have zero positivity in watching things I busted my ass of on for years he turned into garbage seek. Zero positivity. Go create your own shit. And if you need money for Flip burgers. This is trash and theft. Period. https://t.co/lYn0UcPUG1 &mdash; Doug Ellin (@mrdougellin) September 9, 2026 Piven eventually finds pretty boy movie star client Vinny Chase (Grenier) on a yacht in the backyard, where he offers him the chance to be the face of the Betr app. We re in baby, Piven tells the app s co-creator. You re gonna have to pay us. Ellin made clear that he was not a part of any of the process for the Betr ad I think it’s pretty damn obvious I didn’t w
 
-### Why ‘Hope’ Director Na Hong-jin Cast Movie Stars as Monsters
-Wed, 09 Sep 2026 17:30:54 +0000 — https://www.thewrap.com/creative-content/movies/hope-movie-director-na-hong-jin-interview-neon/
+### Practical Magic 2 Hits Theaters as Warner Bros. Faces Its Worst Slump in 25 Years
+Wed, 09 Sep 2026 23:20:45 +0000 — https://www.thewrap.com/creative-content/movies/practical-magic-2-box-office-tracking/
 
-“Hope” is here. The epic sci-fi spectacle, about an alien invasion that comes to a small South Korean town called Hope Harbor, arrived at the Cannes Film Festival earlier this year, where it received a divisive response. Some heralded it as a breathless new classic ( our own reviewer called it “all-time great new action”) while others dinged it for what they considered slack pacing and iffy visual effects. (IndieWire’s David Ehrlich’s pan was particularly withering .) Now, a few months later, with the Cannes response in the rearview and Neon opening it on 1,500 screens (the widest release for a Korean-language movie since “Parasite” in 2019), “Hope” is ready for global dominance. The movie, a whirling, gonzo extravaganza unlike anything you’ve ever seen before, follows several characters – a headstrong chief of police (Hwang Jung-min), a rookie cop (Jung Ho-yeon), an elderly man (Im Hyun-sik), an oddball taxidermist (Eum Moon-suk) and some hunters in the woods – as they attempt to track and stop the rampaging monsters. It’s also probably worth mentioning that Michael Fassbender, Alicia Vikander and Taylor Russell play the creatures. The movie is full of unbelievable set pieces, as intricate and dazzling as any Hollywood spectacular, and builds to a climax both mystifying and electrifying – a cosmic punchline that had our audience chuckling in disbelief. Writer/director Na Hong-jin, whose last film was 2016’s witchy horror epic “The Wailing,” said that he has been thinking abo
+With films like The Nun II, Beetlejuice Beetlejuice, and most famously the It duology among the recent examples, Warner Bros. has shown that the post-Labor Day release slot is one of its favorites on the calendar. Now it is hoping that slot can bring good fortune to Practical Magic 2 in a year that has brought the studio a slump it hasn t seen in a quarter-century. To date, Warner Bros. has yet to release a film in 2026 that has grossed more than $100 million domestically. The last time that happened was back in 2001, a year where the studio released classics like A.I.: Artificial Intelligence and Training Day but did not yield a $100 million hit until December with Ocean s Eleven and the highest grossing movie of that year, Harry Potter and the Sorcerer s Stone. Warners, whose fate is up in the air amid the Paramount takeover drama, once again has a guaranteed drought buster in December with Legendary s Dune: Part Three, and relief may come earlier with the animated The Cat in the Hat in November, but the company that enjoyed a smash success in 2025 with films like Sinners, A Minecraft Movie and Weapons can t seem to catch a break. We last brought up this slump a month ago before the release of The End of Oak Street , but despite that film s praise from critics, its PG-13 grisly take on the dinosaur subgenre hasn t clicked significantly with a wide audience — it has only grossed $51.7 million domestic and $115 million worldwide through four weekends against an $80 million bu
 
-### Netflix Snags Understudy Short Story in $1 Million Development Deal With Phil Lord, Chris Miller and Steven Yeun
-Wed, 09 Sep 2026 17:30:27 +0000 — https://www.thewrap.com/creative-content/tv-shows/netflix-understudy-development-nicholas-binge-steven-yeun-phil-lord-chris-miller/
+### LA City Council Launches Committee to Address Production Flight
+Wed, 09 Sep 2026 23:09:39 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/la-city-council-launches-committee-to-address-production-flight/
 
-Netflix snagged another hot TV package with Understudy, a short story from bestselling author Nicholas Binge with Phil Lord, Chris Miller and Steven Yeun attached as executive producers. The project landed at the streaming giant with a deal reportedly over $1 million. Binge is attached to write the adaptation. Yeun s Celadon Pictures and Lord Miller will executive produce the show as part of their first-look deals with Netflix. Yeun is not attached to star in the series as acting deals have not been made for the project. Binge also serves as executive producer, along with Lord, Miller, Aditya Sood and Dan Shear for Lord Miller; Yeun and Christina Oh for Celadon Pictures and Nicolas Binge. This is the latest competitive package to land at Netflix this week. The streamer announced a Lonesome Dove TV adaptation from Zoe Kazan and Jeb Stuart landed on the platform Tuesday after a competitive bidding war. That is the next collaboration for Kazan and Stuart at Netflix after their East of Eden limited series, starring Florence Pugh, Mike Faist and Christopher Abbott, which will premiere in October. Yeun is also set to return to Netflix to star and executive produce Pagan, a new supernatural drama from Joshua Zetumer. Lord and Miller are coming off a profitable run for Project Hail Mary, which made $684.3 million at the box office and has Oscar buzz. Binge is the bestselling author of speculative thriller with sci-fi and psychological horror elements. His latest novel White Smoke sol
+The Los Angeles City Council launched a new committee created to address the decline of film and television production on Wednesday, with permitting fees related to the city’s fire and police departments among the first topics tackled. The committee consists of San Fernando Valley councilmembers Adrin Nazarian and Imelda Padilla alongside Westside councilmember Traci Park. During the committee meeting Wednesday afternoon, the councilmembers heard from representatives from the LAFD, LAPD and the Board of Public Works and discussed ways to reduce fees related to on-location shooting. Such fees have become a major complaint among independent producers who lack the budget and resources to absorb the additional costs of shooting in Los Angeles, leading them to shoot in other cities and sometimes in other states. Last year, indie producer Dustin Harris told TheWrap that he had to pay more than $10,000 for a three-day shoot in Griffith Park, including more than $4,500 for a cursory “spot check” inspection from a fire marshal despite using no pyrotechnics and only a small generator to provide power. “He shows up, looks around, says ‘great,’ and then spends the rest of the shoot sitting in the car doing crossword puzzles,” Harris said. “As a resident, I understand the need for fire protection and to preserve our parks, especially now. But there’s got to be a better way to do this. I’m paying almost $1,500 a day for a guy to sit in his car for most of the time.” Independent producers, 
 
-### Landman Season 3 Adds Lioness Star Michael Kelly to Cast
-Wed, 09 Sep 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/landman-season-3-cast-michael-kelly/
+### Ruby Rose Says Co-Star Noel Clarke ‘Preyed on a Woman’ on SAS Set Amid His UK Sexual Assault Charges
+Wed, 09 Sep 2026 23:04:29 +0000 — https://www.thewrap.com/culture-lifestyle/culture/ruby-rose-reacts-noel-clarke-sexual-assault-charges/
 
-Michael Kelly expands his reach in the Taylor Sheridan universe as he joins Season 3 of Landman. The Emmy-nominated actor will join the Paramount+ show as a series regular next season as William Crockett, the leader of the largest oil management firm in the world. His character is described as a titan of industry who exudes efficiency and money. He joins returning cast members Billy Bob Thornton, Demi Moore, Andy Garcia, Ali Larter and Sam Elliott with additional cast Jacob Lofland, Michelle Randolph, Paulina Chávez, Kayla Wallace, Mark Collie, James Jordan and Colm Feore. Kelly previously starred in Sheridan s thriller series Lioness for Paramount+ alongside Zoe Saldaña, Nicole Kidman and Morgan Freeman. He has also appeared in Jack Ryan, The Penguin and House of Cards, for which he received four Emmy Award nominations. Landman Season 2 achieved record-breaking premiere numbers, becoming Paramount+ s most-watched original premiere with over 9.2 million views. The viewership marks a 262% increase from its series premiere. The drama series, which follows roughnecks and wildcat billionaires and an oil boom that comes between them, is executive produced by Sheridan, David C. Glasser, David Hutkin, Ron Burkle, Bob Yari, Christian Wallace, Billy Bob Thornton, Geyer Kosinski, Michael Friedman and Stephen Kay. Dan Friedkin and Jason Hoch executive produce the series for Imperative Entertainment, and J.K. Nickell and Megan Creydt executive produce for Texas Monthly. Landman is produc
+Ruby Rose alleged that her former co-star Noel Clarke preyed on a woman on the set of their movie, SAS: Rise of the Black Swan, hours after he was charged with several sexual offenses in London. Noel Clarke has been charged. Years ago he preyed on a woman who worked on our SAS film. I reported him. No one cared, Rose wrote of the Doctor Who alum on Threads Wednesday. I was told not to get involved. Nobody followed up. So many came forward, finally some justice. Representatives for Clarke did not immediately respond to TheWrap s request for comment. Clarke was criminally charged in the United Kingdom Wednesday with six sexual-related offenses, including two counts of sexual assault, three counts of voyeurism and one count of exposure for alleged incidents involving five women between 2007 and 2016. Rose played a supporting role in the 2021 film, which starred Clarke as the leading role of Major Bisset. SAS: Rise of the Black Swan also starred Andy Serkis, Tom Hooper, Hannah John-Kamen and Sam Heughan. View on Threads The new charges come five years after The Guardian published a 2021 exposé on more than 20 women who accused Clarke of sexual misconduct, some of which allegedly occurred on the set of Doctor Who. Clarke, who denied all allegations made against him, later sued the publication for libel but lost the case in August 2025. “I have never claimed to be perfect. But I am not the person described in these articles,” Clarke said in response to the outcome, per the BBC . T
 
-### SNL Taps Jalen Brunson, Dakota Johnson, Shane Gillis and Inde Navarrette as Season 52 Hosts
-Wed, 09 Sep 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-jalen-brunson-dakota-johnson-shane-gillis-inde-navarrette-season-52-fall-hosts/
+### Veteran Filmmaker Barbara Kopple Returns to Worker Struggles in Union Town Doc
+Wed, 09 Sep 2026 23:02:37 +0000 — https://www.thewrap.com/creative-content/movies/barbara-kopple-union-town-documentary-review/
 
-SNL unveiled its starting lineup for Season 52, tapping Jalen Brunson, Dakota Johnson, Shane Gillis and Inde Navarrette as hosts to kick off the fall. Freshly minted NBA champion Brunson, who was named MVP of the 2026 NBA Finals as he led the New York Knicks to their first championship win in 53 years, will host SNL for the first time for the Season 52 premiere on Sept. 26. He will be joined by Katseye, who will make their debut as musical guest. Johnson will take the baton from Brunson to host the Oct. 3 episode, marking the third time the actress, who stars in Oct. 2 release Verity, has taken the SNL stage. Also on Oct. 3, Turnstile will perform in their first appearance as a musical guest. Next up, on Oct. 10, the third back-to-back week of SNL will see Gillis host for the third time, with Rosalía slated to take the stage for the second time as musical guest. Saturday Night Live will then take a two-week break before returning for a Halloween episode. The Oct. 31 episode will be hosted than no other than Obsession breakout Navarrette. She ll be joined by Gracie Abrams, who will make her second appearance as musical guest. “SNL” closed out its 51st season as the No. 1 broadcast comedy series in the 18-49 demo for the 2025-26 season, all while scoring 11 Emmy nominations. The late night sketch show debuts on NBC Saturdays at 11:30 p.m. ET/8:30 p.m. PT and streams live on Peacock. “Saturday Night Live” is produced in association with Broadway Video, with Lorne Michaels servin
+It’s been 50 years since Barbara Kopple won the Academy Award for “Harlan County, USA,” a documentary about coal miners who went on strike for over 13 weeks in Kentucky as they demanded better working conditions. Kopple’s personal approach, living with the coal miners and their wives, produced a landmark work of cinema verite. Now 80, she has just completed a new documentary about unions and workers, this time aimed at our gig economy – the vast army of unseen delivery workers who scrape by for Amazon, Doordash, Uber and other giants for minimum wage, tips and very little protections, physical or otherwise. “Union Town,” which premieres at the Venice Film Festival this week, follows the stories of three of those workers and their attempts to unionize. Like “Harlan County,” the film gets up close with the workers themselves, many of whom are undocumented, and reveals their struggles, their suffering and ultimately their humanity. It’s pretty much a story of the invisible people in this country. Unions have had a small resurgence in politics in the past several years, but in truth, the subject of labor and the working class has sunk below the radar in the United States as we focus on billionaires, tech IPOs and AI. Kopple, as feisty as ever, is still interested in the little guys. “It s about getting to know all these people and really finding out who they are, where they re from, what their dreams are all about, why they came here,” she said in a conversation at the Excelsior 
 
 ## Collider
 
-### 10 Near-Perfect Book Trilogies That Everyone Must Read at Least Once
-Wed, 09 Sep 2026 19:19:11 GMT — https://collider.com/near-perfect-book-trilogies-everyone-must-read-once/
+### Alan Ritchson’s Biggest Project Since ‘Reacher’ Season 4 Officially Divides Critics
+Thu, 10 Sep 2026 09:00:11 GMT — https://collider.com/alan-ritchson-runner-rotten-tomatoes-score-is-it-good/
 
-For someone who loves reading, there's nothing quite like finding an incredible trilogy to sink one's teeth into. It's usually a considerable time commitment, but the trilogies that are worth such dedication always find ways to reward readers' patience in all sorts of ways. It's a wholly different thing, though—one far rarer and, for obvious reasons, even more precious—to find a book trilogy that's not only great, but almost downright perfect.
+All eyes are already on Alan Ritchson right now, as the fourth season of his ass-kicking streaming juggernaut Reacher dominates the streaming charts. Adapting Gone Tomorrow , the 13th novel in Child's long-running series , Reacher Season 4 instantly earned plenty of acclaim from critics, with Collider's David Caballero writing , " Reacher Season 4 stays true to itself by delivering a fistful of rageful, determined justice that will have you cheering through gritted teeth."
 
-### Harry Potter: How HBO Is Rebuilding the Wizarding World
-Wed, 09 Sep 2026 19:11:20 GMT — https://collider.com/video/harry-potter-how-hbo-is-rebuilding-the-wizarding-world/
+### Netflix's 'Crew Girl' Isn't the 'Summer I Turned Pretty' Replacement You're Looking For | Review
+Thu, 10 Sep 2026 07:01:11 GMT — https://collider.com/crew-girl-netflix-review/
 
-Harry Potter is being rebuilt on an enormous scale for HBO, and some of the biggest challenges have nothing to do with visual effects. The young cast’s education, limited filming windows, practical creatures, Quidditch crowds, and elaborate sets all have to work together.
+The ice isn't the only arena making streamers horny for storytelling. Between Heated Rivalry and Off Campus , hockey has been mined so thoroughly that the open water is now auditioning for its turn. Crew Girl , Netflix's newest teen soap, has all the predictable trappings: excessive voiceover narration, quiet luxury, and love interests with abs you could grate Parmesan on. It's squeezing eight episodes of drama out of a different, though just as niche, school sport, and that's the action that actually works. Crew Girl is cheesier than its competition, with a weaker love triangle and rougher performances — but, oddly enough, the rowing itself is good . In fact, it might be the only thing keeping the season from completely sinking.
 
-### Taylor Sheridan’s 4-Part Crime Thriller Is Officially Coming to Netflix
-Wed, 09 Sep 2026 19:01:11 GMT — https://collider.com/taylor-sheridan-mayor-of-kingstown-netflix-release-date/
+### 'South Park' Season 26 Officially Retired One of Its Most Controversial Characters
+Thu, 10 Sep 2026 04:08:11 GMT — https://collider.com/south-park-season-26-finale-mr-garrison-donald-trump-persona/
 
-Netflix has officially set a release date for Taylor Sheridan 's easy-to-binge crime thriller ahead of its fifth and final season , and fans won't have to wait long. Mayor of Kingstown , co-created by the Yellowstone mastermind and Hugh Dillon , is widely considered one of Sheridan's most underrated crime thrillers despite running for multiple successful seasons . Debuting on November 14, 2021, the series tends to fly under the radar compared to other popular Sheridan shows, including the highly acclaimed Yellowstone , Tulsa King , Dutton Ranch , Marshals , and most recently Special Ops: Lioness , all of which consistently grab mainstream headlines.
+South Park has never been shy about parodying and satirizing pop culture and current events. And before its recent turn, where creators Trey Parker and Matt Stone made Donald Trump the butt of their jokes, Season 26 made a significant change, retiring an old joke that was already starting to sour. For years, South Park had already been satirizing Trump, and during the president's initial 2015 campaign, the character Mr. Garrison (Parker) became a vehicle for that comedy. Mr. Garrison has been the subject of controversies before, so him picking up the persona of Trump, donning a suit, red tie, and orange makeup, isn't necessarily a shocking twist. But the show was right to leave this aspect of the character behind.
 
-### 'Lord of the Rings’ Officially Reveals Long-Lost Twin in New Look at 'Rings of Power' Season 3
-Wed, 09 Sep 2026 18:45:11 GMT — https://collider.com/lord-of-the-rings-the-rings-of-power-season-3-elrond-long-lost-twin-elros-first-look-image/
+### Brad Pitt Believes His Performance In This 80% RT Movie Had One Major Flaw
+Thu, 10 Sep 2026 04:07:11 GMT — https://collider.com/brad-pitt-a-river-runs-through-it-performance-flaw/
 
-Less than two months after Galadriel's ( Morfydd Clark ) long-lost husband and Elf lord, Celeborn, was confirmed to appear in The Lord of the Rings: The Rings of Power Season 3, another even more exciting plot detail has come to light. The new season takes place five years after the catastrophic events of Season 2 , during the height of the War of the Elves and the Dark Lord. Unlike previous seasons, it is expected to premiere with its first four episodes in two months, on November 11, 2026, followed by two more episodes on November 18 and the final two on November 25.
+Sometimes, actors are their own worst critics. Even if they've won Academy Awards, there are plenty of Hollywood stars who critique themselves as harshly (if not more harshly) than their own critics. Brad Pitt is no stranger to this mentality either, though you may be surprised by which of his performances he despises. Before he returns to theaters this fall with the upcoming Heart of the Beast , you ought to revisit his memorable performance in A River Runs Through It — the famed Robert Redford picture he thought he did poorly in.
 
-### 'Luke Cage' Icon Officially Returns to TV With New Legal Thriller
-Wed, 09 Sep 2026 18:37:33 GMT — https://collider.com/mike-colter-lincoln-lawyer-replacement-cupertino-trailer/
+### 13 Years Later, Dan Harmon’s Most Influential Sitcom Is Aging Like Fine Wine
+Thu, 10 Sep 2026 03:41:11 GMT — https://collider.com/13-years-dan-harmon-rick-and-morty-influental-sitcom/
 
-Mike Colter is set to return to his star-making role of Luke Cage in the next season of the Marvel series Daredevil: Born Again . Before he steps into the role of the bulletproof Harlem superhero, however, he's returning to network TV in a new legal thriller that'll debut this fall on CBS. The network just released a new trailer for the series that should whet audiences' appetites until it premieres next month.
+Writer and producer Dan Harmon became an icon to sitcom aficionados with his NBC series Community , which will soon return with its long-promised movie to cap off the story. Harmon has also elevated the serialized format and helped fans think about it more critically — first through his early short-form content with Channel 101 and later through his podcast Harmontown and its accompanying documentary. However, Harmon's biggest contribution to the sitcom world is the one that breaks the formula the most: Rick and Morty . After 13 years and nine seasons, the show is still evolving and pushing the limits of genre and medium. Despite its controversies, older episodes are also aging gracefully.
 
-### Netflix's Next Western Adaptation Has Officially Been Confirmed
-Wed, 09 Sep 2026 18:30:11 GMT — https://collider.com/the-lonesome-dove-netflix-adaptation-confirmed/
+### Prime Video's 'Spider-Noir' Death Sentence Confirms the Right Direction for the Spider-Verse's Future
+Thu, 10 Sep 2026 03:15:11 GMT — https://collider.com/spider-noir-prime-video-cancellation-spider-verse-future/
 
-Based on the children's novels by Laura Ingalls Wilder , the new Western series Little House on the Prairie — not to be confused with the original series that ran between 1974 and 1983 — is an undeniable hit for Netflix as the streamer continues to add Western titles to its catalog. Earning 6.4 million views in just four days, and called a "masterpiece" in Maggie Lovitt 's review for Collider, Little House on the Prairie has set the standard for Western adaptations on Netflix.
+Despite incredible reviews and winning five out of 11 Emmy nominations , Prime Video has opted not to move forward with another season of Spider-Noir . However, Spider-Noir 's cancelation might actually be a blessing in disguise, since it both indicates the best path forward for future Spider-Verse television installments and sets a new standard for any upcoming projects featuring variants of the Friendly Neighborhood Wall-Crawler.
 
-### ‘Game of Thrones’ Icon Officially Dominates Streaming Charts Ahead of ‘Harry Potter’ Return
-Wed, 09 Sep 2026 18:26:26 GMT — https://collider.com/kit-harington-a-tale-of-two-cities-streaming-success-mgm-plus-september-2026/
+### Tom Cruise's 110-Minute Action Flop Is Now Officially Taking Over Streaming
+Thu, 10 Sep 2026 03:07:11 GMT — https://collider.com/tom-cruise-the-mummy-2017-flop-streaming-success-prime-video-september-2026/
 
-Game of Thrones ended in 2019, and contrary to popular belief that he disappeared, Kit Harington has starred in 19 projects since then. His latest project is a miniseries, a TV adaptation of a Charles Dickens novel that has been adapted for both film and TV 14 times before this latest take, which heavily modernizes and streamlines Dickens' 1859 novel with appropriate creative liberties. It was released on MGM+ on September 6, 2026, and is now taking over the world.
+When it comes to Tom Cruise , the box-office readies itself for his impact. Between hit franchises like Mission: Impossible and Top Gun and action smashes like Edge of Tomorrow and Jack Reacher , it's rare to find a Cruise outing that's, well, disappointing. But everyone's success streak dips sometimes, and the star had one major (dare we say, blockbuster ) misfire that has recently found new life on Prime Video . If you guessed The Mummy , we're both frightened and amazed that you're right.
 
-### Gabriel Basso Officially Leaves 'The Night Agent' Behind for Major Genre Change
-Wed, 09 Sep 2026 18:25:31 GMT — https://collider.com/gabriel-basso-love-of-your-life-trailer/
+### 8 Netflix Mystery Shows Where Every Episode Is a Masterpiece
+Thu, 10 Sep 2026 03:01:11 GMT — https://collider.com/netflix-mystery-shows-every-episode-masterpiece/
 
-Few action stars have been as busy in the last couple of years as Gabriel Basso , who headlines Netflix’s big-budget action show, The Night Agent . Hailed as Netflix’s answer to Reacher , The Night Agent is returning next year for Season 4, which is also confirmed to be the final season of the show. Fans were disappointed to learn that The Night Agent would not be given a chance to continue beyond Season 4, but once it was made public that the show was losing viewership with each new season, it wasn’t all that surprising. Near the end of last year, Basso starred in one of the biggest Netflix movies of 2025, A House of Dynamite , with Rebecca Ferguson and Idris Elba . The film was being eyed as a major Oscar contender, but it burned out before ever earning a single nomination.
+What makes or breaks a mystery show is how much information it gives the audience. Most shows in the genre often expect viewers to sit through hours of setup for one big reveal. Obviously, that works well when the payoff is worth it, but for a series to genuinely sustain its momentum until the very end, that formula can get old pretty fast. For a mystery show, every episode should feel like it matters .
 
-### This 3-Part 'Homeland' Meets 'Sicario' Thriller Is One of the Biggest Streaming Hits in the World
-Wed, 09 Sep 2026 18:11:11 GMT — https://collider.com/lioness-season-3-homeland-meets-sicario-global-streaming-hit/
+### 5 Dark Fantasy Books by Female Authors You Won’t Be Able To Put Down
+Thu, 10 Sep 2026 01:07:11 GMT — https://collider.com/5-dark-fantasy-books-by-female-authors/
 
-Editor's note: The below contains spoilers for Lioness Season 3.
+The term dark fantasy can mean different things. Sometimes it's a fairy tale with grim elements, or a world where magic comes with heavy drawbacks; the best books in the genre explore this by blending familiar fantasy elements with darker themes of power, identity, survival, and the sacrifices people will make.
 
-### TV's Best 'Lincoln Lawyer' Replacement Officially Returns in First Season 2 Trailer
-Wed, 09 Sep 2026 18:09:44 GMT — https://collider.com/lincoln-lawyer-replacement-the-rainmaker-season-2-trailer/
+### Netflix’s ‘Avatar’ Meets ‘Pirates of the Caribbean’ Fantasy Series Is Among 2026’s Biggest Streaming Hits
+Thu, 10 Sep 2026 00:52:11 GMT — https://collider.com/one-piece-netflix-live-action-fantasy-series-2026/
 
-Netflix has released hundreds, if not thousands of popular shows in the last five or six years, but few have developed the same level of audience as The Lincoln Lawyer . The show aired its first season on Netflix back in 2022, but the story of The Lincoln Lawyer began long before that. All the way back in 2005, legendary crime author Michael Connelly released the first Lincoln Lawyer book, and only six years later, the first film adaptation starring Matthew McConaughey and Marisa Tomei was born. Netflix’s series adaptation of The Lincoln Lawyer allows for creatives to use each new season to tell a story based on a different book in The Lincoln Lawyer series. The Lincoln Lawyer author Michael Connelly is also famous for his work writing the Bosch books, which were turned into a series on Prime Video starring Titus Welliver .
+Netflix has invested heavily in turning animated and anime films into successful live-action movies, with mixed results over the years. One Piece could easily have been among them. Instead, this pirate adventure has become one of Netflix's most successful adaptations, proving that a story like this can work well with live actors. The series has also expanded, with a second season that was released earlier this year.
 
