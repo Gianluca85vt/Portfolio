@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Wardogs: a 256 square kilometre map with a 2 by 2 kilometre control zone drawn from it">
+  <defs>
+    <linearGradient id="bgWD" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="60%" stop-color="#1B3E42"/>
+      <stop offset="100%" stop-color="#2E7D7B"/>
+    </linearGradient>
+    <linearGradient id="zoneWD" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2E7D7B"/>
+      <stop offset="100%" stop-color="#8FE3DE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgWD)"/>
+
+  <!-- grid: the 8x8 lattice of possible windows -->
+  <g stroke="#8FE3DE" stroke-opacity="0.13" stroke-width="1.5">
+    <path d="M700 120 h380 M700 167.5 h380 M700 215 h380 M700 262.5 h380 M700 310 h380 M700 357.5 h380 M700 405 h380 M700 452.5 h380 M700 500 h380"/>
+    <path d="M700 120 v380 M747.5 120 v380 M795 120 v380 M842.5 120 v380 M890 120 v380 M937.5 120 v380 M985 120 v380 M1032.5 120 v380 M1080 120 v380"/>
+  </g>
+
+  <!-- the container -->
+  <rect x="700" y="120" width="380" height="380" fill="none" stroke="#8FE3DE" stroke-opacity="0.55" stroke-width="3"/>
+
+  <!-- the one hot window -->
+  <rect x="842.5" y="310" width="47.5" height="47.5" fill="url(#zoneWD)" fill-opacity="0.95"/>
+  <rect x="842.5" y="310" width="47.5" height="47.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.9" stroke-width="2"/>
+
+  <!-- three approach vectors -->
+  <g stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="2" fill="none" stroke-dasharray="7 7">
+    <path d="M745 165 L858 322"/>
+    <path d="M1040 175 L878 320"/>
+    <path d="M880 470 L868 362"/>
+  </g>
+
+  <text x="90" y="205" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="130" font-weight="700" fill="#FFFFFF" letter-spacing="-4">256 km²</text>
+  <text x="90" y="290" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="42" font-weight="400" fill="#8FE3DE">of terrain, and the match</text>
+  <text x="90" y="345" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="42" font-weight="400" fill="#8FE3DE">happens in four of them</text>
+
+  <line x1="90" y1="400" x2="560" y2="400" stroke="#8FE3DE" stroke-opacity="0.4" stroke-width="2"/>
+
+  <text x="90" y="470" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#FFFFFF">A random 2 × 2 km Control Zone</text>
+  <text x="90" y="520" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" font-weight="400" fill="#CFF2EF">is drawn fresh every round.</text>
+  <text x="90" y="570" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" font-weight="400" fill="#CFF2EF">100 players. Three teams.</text>
+
+  <text x="90" y="700" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#8FE3DE" letter-spacing="3">WARDOGS — STEAM EARLY ACCESS</text>
+  <text x="90" y="748" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" font-weight="400" fill="#9FC9C7">Bulkhead / Team17 · 10 September 2026 · $39.99</text>
+</svg>
