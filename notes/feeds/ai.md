@@ -1,6 +1,31 @@
-# AI — harvested 2026-09-10T14:38:32.802Z
+# AI — harvested 2026-09-10T19:15:55.069Z
 
 ## OpenAI
+
+### How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
+Thu, 10 Sep 2026 16:00:00 GMT — https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
+
+César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.
+
+### Now everyone can put data to work
+Thu, 10 Sep 2026 15:00:00 GMT — https://openai.com/index/put-data-to-work
+
+Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.
+
+### Introducing ChatGPT for Financial Services
+Thu, 10 Sep 2026 07:00:00 GMT — https://openai.com/index/introducing-chatgpt-financial-services
+
+Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.
+
+### Expanding AI access and cyber defense for federal, state, local, and tribal governments
+Thu, 10 Sep 2026 07:00:00 GMT — https://openai.com/index/expanding-ai-access-us-government
+
+OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.
+
+### Build more natural voice experiences with GPT‑Live‑1 in the API
+Thu, 10 Sep 2026 00:00:00 GMT — https://openai.com/index/introducing-gpt-live-1-in-the-api
+
+GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.
 
 ### The AI policy window is open. We need to act.
 Wed, 09 Sep 2026 13:00:00 GMT — https://openai.com/index/ai-policy-window
@@ -16,11 +41,6 @@ Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reas
 Wed, 09 Sep 2026 17:00:00 GMT — https://openai.com/index/paul-christiano-joins-openai-foundation-board
 
 Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.
-
-### How GPT-5.6 Sol helps run quantum computing experiments
-Tue, 08 Sep 2026 17:00:00 GMT — https://openai.com/index/codex-quantum-computing-experiments
-
-See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.
 
 ## Hugging Face
 

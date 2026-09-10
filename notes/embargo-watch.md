@@ -18,10 +18,7 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ## Reviews expected within three days
 
-| Title | Publisher | Release | Away | Reviews from | Price |
-|---|---|---|---|---|---|
-| WARDOGS - Supporter Pack | Team17 | 2026-09-10 | today | 2026-09-09 | €49.99 |
-| WARDOGS | Team17 | 2026-09-10 | today | 2026-09-09 | €39.99 |
+_Nothing inside three days._
 
 ## Further out, within 14 days
 
@@ -35,7 +32,7 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ---
 
-*1050 upcoming titles scanned, 968 with a firm date inside
-14 days, 7 above the price line. Titles showing
+*1000 upcoming titles scanned, 939 with a firm date inside
+14 days, 5 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

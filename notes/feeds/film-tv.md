@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-10T14:38:32.802Z
+# Film & TV — harvested 2026-09-10T19:15:55.069Z
 
 ## Variety
 
-### Universal Music Group and ElevenLabs to Launch AI-Powered Music Platform in Expansive Licensing Deal
-Thu, 10 Sep 2026 14:18:20 +0000 — https://variety.com/2026/music/news/umg-elevenlabs-ai-powered-music-platform-licensing-1236857240/
+### Australian Director Darren Dale Bows True Crime 2.6 Seconds: Death in the Outback,’ Acquired by Netflix for the World, Just Before TIFF
+Thu, 10 Sep 2026 18:52:28 +0000 — https://variety.com/2026/film/global/death-in-the-outback-tiff-bow-1236857670/
 
-Universal Music Group and ElevenLabs are getting into business. The label has struck an expansive licensing agreement with the AI audio startup that will see ElevenLabs launch an AI-powered music platform built on UMG s catalog of artists. The platform will allow fans to remix and mashup artist tracks along with creating “new track interpretations” and “personalized vocal [ ]
+Australian docuseries “2.6 Seconds: Death in the Outback,” which world premiere at Toronto Sept. 10 as part of TIFF s Primetime strand, has just been the subject of a preemptive Netflix buy for the world. That speaks well for a four-part series examining the fatal shooting of 19-year-old Kumanjayi Walker by Northern Territory police officer [ ]
 
-### ‘The Zone of Interest’ Producer Ewa Puszczyńska and Director Jan Holoubek Say ‘Wild Wild East’ No Longer Feels Like a Period Drama: ‘It Can Happen Again. It Already Is’
-Thu, 10 Sep 2026 14:15:00 +0000 — https://variety.com/2026/film/global/the-zone-of-interest-puszczynska-holoubek-wild-wild-east-1236852583/
+### Dolly Parton Tribute, Noah Kahan ‘In Memoriam Performance Among Additional Emmy Telecast Plans
+Thu, 10 Sep 2026 18:52:27 +0000 — https://variety.com/2026/tv/news/dolly-parton-tribute-noah-kahan-in-memoriam-emmys-plans-1236857614/
 
-Jan Holoubek’s TIFF premiere “Wild Wild East” is set in 1943, but it no longer feels safely stored away in the past. “When I first read the script 12 years ago, it felt like a period drama. It was about something that happened a long time ago and wouldn’t happen again. Today, I think it’s [ ]
+The 78th Emmys producers are planning a tribute to the late Dolly Parton, and have also signed up roots country music sensation Noah Kahan to perform “Bridge Over Troubled Waters” to accompany this year s In Memoriam segment. That s among the details that the producers at Jesse Collins Entertainment, while also confirming — as Variety reported [ ]
 
-### Mohsen Gharaei’s Iranian Drama Falling House Sells Across Europe After Venice Festival Premiere (EXCLUSIVE)
-Thu, 10 Sep 2026 14:14:11 +0000 — https://variety.com/2026/film/global/mohsen-gharaeis-iranian-drama-falling-house-venice-festival-1236857223/
+### Is Vintage Violence the Future of Movies? Inside the Frantic Chase Movie Built for Phone-Addicted Audiences: It’s a New Approach to Viewing
+Thu, 10 Sep 2026 18:30:00 +0000 — https://variety.com/2026/film/festivals/vintage-violence-cole-sprouse-phone-addicts-1236850827/
 
-Iranian filmmaker Mohsen Gharaei’s “Falling House” has sold to a raft of international territories following its world premiere at the Venice Film Festival. Paris-based company Paradise City Sales has closed a first batch of deals with Jokers Films for France, Wanted Cinema for Italy and Karma Films for Spain, with negotiations underway in several other [ ]
+Eugene Kotlyarenko’s “Vintage Violence” is a movie that speaks directly to America’s phone-obsessed culture. The kinetic action adventure, which has its world premiere Sept. 12 at Toronto International Film Festival, is about livestreamer Carter Tipe (Cole Sprouse) who stumbles upon a supply of vintage denim in a cave. He’s encouraged by a Japanese fan named [ ]
 
-### American Horror Story: 13 Trailer: Jessica Lange, Sarah Paulson and Evan Peters Reprise Iconic Roles in Ryan Murphy s Horror Anthology
-Thu, 10 Sep 2026 14:09:50 +0000 — https://variety.com/2026/tv/news/american-horror-story-13-trailer-jessica-lange-sarah-paulson-1236833134/
+### Sherri Shepherd Stars in 9/11 True Story, Angel in the Rubble: Stream the Film Online Here
+Thu, 10 Sep 2026 18:26:21 +0000 — https://variety.com/2026/shopping/news/watch-angel-in-the-rubble-lifetime-movie-streaming-online-1236857609/
 
-Ryan Murphy s long-running anthology series American Horror Story is back for Season 13, and the new trailer teases Jessica Lange, Sarah Paulson and Evan Peters returns in the all-star season. While Lange will be reprising all four of her former AHS characters, Peters will play five different people and Paulson will play six. Lange was [ ]
+Sherri Shepherd is stepping back into the spotlight this weekend with a new film that tells the true story of a 9/11 survivor. The actress stars in Angel in the Rubble: The Genelle Guzman Story, which premieres on Lifetime this Saturday, Sept. 12 at 8 p.m. Executive produced by Shepherd, along with Robin Roberts, Linda [ ]
 
-### New York Games Week to Launch in October as First Citywide Video Game Industry Event
-Thu, 10 Sep 2026 14:04:56 +0000 — https://variety.com/2026/gaming/news/new-york-games-week-launches-2026-1236857222/
+### Nicholas Sparks’ ‘Counting Miracles’ Adaptation at Amazon to Be Helmed by ‘The Peanut Butter Falcon’ Filmmaker Tyler Nilson (EXCLUSIVE)
+Thu, 10 Sep 2026 18:05:23 +0000 — https://variety.com/2026/film/news/nicholas-sparks-counting-miracles-movie-director-1236857541/
 
-The first New York Games Week will take place Oct. 4-11 with video game industry-themed events, showcases, conferences, tournaments, summits, professional mixers and meetups across the five boroughs of New York City. From gaming industry vets Guy Blomberg (Games Industry Gathering), Krysti Pryde (PlayNYC), and Amit Hossain (IGDA NYC) and with support from NYC Mayor’s [ ]
+Amazon MGM Studios adaptation of the Nicholas Sparks bestseller “Counting Miracles” has found its writer/director in “The Peanut Butter Falcon” co-filmmaker Tyler Nilson. Starring Alan Ritchson, “Counting Miracles” follows Army Ranger Tanner Hughes (Ritchson) as he crosses the country comforting the families of fallen soldiers until a mysterious letter sends him searching for the father [ ]
 
-### Toronto Platform Pick Angh, With Shetland Star Douglas Henshall, Boards Jungle Book Studio for World Sales, Unveils Clip (EXCLUSIVE)
-Thu, 10 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/festivals/angh-douglas-henshall-jungle-book-studio-toronto-platform-1236855800/
+### T-Mobile Fiber Delivers Ultra-Fast Home Internet Speeds — Just in Time for College and Pro Football Seasons to Start
+Thu, 10 Sep 2026 18:04:22 +0000 — https://variety.com/2026/shopping/news/t-mobile-fiber-home-internet-deals-sept-2026-signup-online-1236857604/
 
-Jungle Book Studio has taken international sales rights to Angh, the debut feature from Nagaland filmmaker Theja Rio. The film is world premiering at the Toronto Film Festival. The film is the sole Indian entry in TIFF s Platform competition. Set in the remote hills of Nagaland in the early 1960s, it centers on a Konyak [ ]
+As we go into college and pro football seasons, T-Mobile Fiber has a limited-time deal aimed at making the switch to fiber easier for blazing-fast high-speed internet for streaming games. Right now, you can get fiber starting at the “Fast” plan, for $35/month with AutoPay (plus taxes and fees) for 300-Mbps speeds. Additionally, one of [ ]
 
-### K2 Media Capital Launches at Toronto Market With a Slate of Cross-Border IP Projects (EXCLUSIVE)
-Thu, 10 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/markets-festivals/k2-media-capital-toronto-market-cross-border-ip-projects-1236855881/
+### Marvel s X-Men Reboot Casts Gen V Star Asa Germann as Angel
+Thu, 10 Sep 2026 18:02:18 +0000 — https://variety.com/2026/film/news/x-men-asa-germann-angel-cast-1236857606/
 
-Gayathiri Guliani and Uzair Merchant are unveiling K2 Media Capital, a new entertainment investment and production venture, at the Toronto Film Festival market. The company aims to identify, finance and produce high-value intellectual property that crosses borders and formats. Guliani, a media industry veteran, and Merchant, an award-winning filmmaker and writer, created K2 to meet [ ]
+Marvel s X-Men cast is expanding with the addition of Gen V star Asa Germann as the high-flying mutant Angel, Variety can confirm. He joins the new mutant team consisting of Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Christopher Abbott as Prof. X and Maya Boyd as [ ]
 
-### Anna Biller on ‘The Love Witch’ Follow-Up ‘The Face of Horror’ and Her Issues With ‘Obsession’: ‘The Male Point of View Is Always Going to Sell Better’ (EXCLUSIVE)
-Thu, 10 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/features/anna-biller-the-face-of-horror-obsession-the-love-witch-1236856742/
+### Oh, Mary! Set for HBO With Cole Escola Reprising Lead Role in Filmed Stage Play
+Thu, 10 Sep 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/oh-mary-hbo-filmed-version-cole-escola-1236857440/
 
-“Joan of Arc versus Jesus.” That is how Anna Biller, the auteur behind “The Love Witch,” describes the climax of her arresting new film “The Face of Horror” — a Medieval tale of a chauvinist knight, Edward (Jonah Hauer-King), desiring to leave his hopelessly devoted wife, Eleanor (Kristine Froseth), for Isabel (Bella Heathcote), a glamorous [ ]
+A filmed version of the hit Broadway and West End play Oh, Mary! will debut on HBO in 2027. HBO dropped the news in a teaser featuring playwright and star Cole Escola opposite Sex and the City stars Sarah Jessica Parker and Cynthia Nixon. As Mary Todd Lincoln, Escola rushes into the HBO offices and [ ]
 
-### Now You See Me Live Show Sets Broadway Debut
-Thu, 10 Sep 2026 14:00:00 +0000 — https://variety.com/2026/legit/news/now-you-see-me-live-show-broadway-1236856971/
+### France Unveils Shortlist of Five Films for the International Oscar Race, From Minotaur to De Gaulle and Iron Boy
+Thu, 10 Sep 2026 17:44:19 +0000 — https://variety.com/2026/film/global/france-five-films-international-oscar-race-minotaur-de-gaulle-1236857554/
 
-The Four Horsemen are taking their talents to Broadway. Now You See Me Live, a stage show inspired by Lionsgate s hit film franchise about thieving illusionists, is opening at New York City s Al Hirschfeld theater on Nov. 11 for an eight-week run that concludes on Jan. 3. Now You See Me follows the mind-bending heists [ ]
+France has unveiled a robust shortlist of five films in the pipeline to represent country in the best international feature film race at Oscars, with Andrey Zvyagintsev’s Cannes Grand Prize winner “Minotaur” and Antonin Baudry’s WW2-set “The Battle of De Gaulle: The Iron Age among the titles that made the cut. Unveiled Thursday by France s [ ]
 
-### Drew Barrymore Will Court Social-Media Crowd With Long-Form Interviews on YouTube
-Thu, 10 Sep 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/drew-barrymore-cbs-youtube-interview-series-personal-space-1236857176/
+### Paul Walker s Brother Says AI Could Bring Actor Back for Final Fast and Furious Movie but I Would Not Be Interested in Doing That
+Thu, 10 Sep 2026 17:43:18 +0000 — https://variety.com/2026/film/news/paul-walker-brother-ai-fast-and-furious-final-movie-1236857563/
 
-Drew Barrymore will break free of the conventions of TV talk as she launches the seventh season of her CBS-produced daytime program. Barrymore and her producers are launching a second program – a YouTube interview series – that will function both as a segment for TV and a stand-alone attraction for digital viewers. “Personal Space” [ ]
+Paul Walker s brother does not want to be involved in bringing back the late actor s character, Brian O Conner, for Universal s next “Fast and Furious” movie. He knows AI could be used to do it, but he doesn’t think it should be done. “AI was not a thing back in 2014, so they could do that,” [ ]
 
 ## The Hollywood Reporter
 
-### Elizabeth Holmes Doc You Can See Everything Joins New York Film Fest Spotlight Lineup
-Thu, 10 Sep 2026 14:37:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/elizabeth-holmes-doc-new-york-film-fest-1236696409/
+### Lily James Horror Film Seasons Lands Fall 2027 Release From Amazon MGM (Exclusive)
+Thu, 10 Sep 2026 19:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/seasons-lily-james-horror-jack-reynor-amazon-mgm-1236696746/
 
-Nathan Fielder and Lance Oppenheim’s A24 film about the notorious billionaire turned convicted fraudster will have a NYC premiere on Sept. 30 after a surprise Telluride first look.
+Jack Reynor and Ron Perlman also star in Drew Hancock's feature that started out as a viral short story.
 
-### Chad Powers Star Perry Mattfeld Breaks Down Ricky and Chad s Forbidden Romance, Gerry s Threat and That Season 2 Cliffhanger
-Thu, 10 Sep 2026 14:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/chad-powers-perry-mattfeld-ricky-chad-romance-season-2-1236694915/
+### One Minute to Midnight Review: A French Intellectual Takes Stock of His Love Life in a Film That s Charming, Melancholic and Parisian to a Fault
+Thu, 10 Sep 2026 19:14:25 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/one-minute-to-midnight-review-nicolas-pariser-1236685829/
 
-The actress behind Ricky talks to The Hollywood Reporter about that steamy final scene with Glen Powell, what the season-ending ultimatum could mean for a third season and her character's growth.
+Melvil Poupaud stars in the fourth feature by critic turned director Nicolas Pariser, who based some of the movie on his own past as a journalist.
 
-### Elon Musk Threatens Legal Action Over Alex Gibney Documentary, Blasts Boring Hit Piece
-Thu, 10 Sep 2026 13:37:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/elon-musk-alex-gibney-documentary-legal-threat-1236696337/
+### Bassam Tariq, Liz Garbus and Elizabeth Wolff Set for Gotham Week Honors (Exclusive)
+Thu, 10 Sep 2026 19:01:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gotham-week-honors-bassam-tariq-liz-garbus-elizabeth-wolff-1236696815/
 
-Musk's attorney declares "we have no choice but to put you on formal legal notice" as the tech titan slams the buzzy documentary on X as a "false film."
+Separately, Rachael J. Morrison's 'Joybubbles' will receive the Best Film Coming to a Cinema Near You award.
 
-### Emmys 2026: Who Will Win … and Who Should Win
-Thu, 10 Sep 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/emmys-2026-predictions-will-win-should-win-1236694444/
+### Toronto s New Film Market Opens With Werner Herzog, Tom Hanks and a Zack Snyder Passion Project
+Thu, 10 Sep 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tiff-hot-list-zack-snyder-werner-herzog-michelle-yeoh-films-1236695660/
 
-The Hollywood Reporter’s Scott Feinberg and Daniel Fienberg debate the Primetime Emmy Awards on Sept. 14.
+As the fest launches TIFF: The Market, here's what's generating buzz — from a Mara sisters reunion to Michelle Yeoh's action pre-seller and Cynthia Erivo's awards-season play.
 
-### AI Is Deflating Hollywood s Microdramas Scene
-Thu, 10 Sep 2026 13:05:00 +0000 — https://www.hollywoodreporter.com/business/business-news/ai-hollywood-microdramas-1236694483/
+### Quinta Brunson, Damon Lindelof, Erin Foster and More Hitmakers Celebrated at THR s Top TV Producers Dinner
+Thu, 10 Sep 2026 18:54:59 +0000 — https://www.hollywoodreporter.com/tv/tv-news/quinta-brunson-damon-lindelof-top-tv-producers-dinner-1236696203/
 
-Phone-centric soaps kept underemployed cast and crew in Los Angeles afloat after the strikes. With AI-generated verticals now flooding the apps, auditions – and hopes – are evaporating.
+'Widow's Bay' showrunner Katie Dippold, 'Sterling Point' showrunner Josh Schwartz and 'Hacks' trio Paul W. Downs, Lucia Aniello and Jen Statsky were also in attendance at the event, sponsored by Lilly.
 
-### Monica Dolan Shares How She Prepared to Portray the Woman Who Uncovered an Irish Mass Grave Scandal in The Lost Children of Tuam : TIFF
-Thu, 10 Sep 2026 13:01:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/monica-dolan-sthe-lost-children-of-tuam-interview-toronto-1236693685/
+### Charlie Hunnam Says Legacy Spinoff Is Definitely Not Season 8 of Sons of Anarchy
+Thu, 10 Sep 2026 18:23:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/sons-of-anarchy-spinoff-charlie-hunnam-legacy-1236696685/
 
-The English star discusses spending time with the lady at the heart of the story, working with a voice coach despite having Irish parents, and pulling triple Toronto duty, thanks to 'Onwards and Sideways' and 'Elsinore.'
+The 'Monster' star reveals how the idea came to him for the meta-thriller that will bring back Jax Teller and the core characters of the beloved FX motorcycle drama.
 
-### Musical Juliet Will End Broadway Run In January
-Thu, 10 Sep 2026 13:00:03 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/and-juliet-closing-january-2027-1236696341/
+### Sophie Okonedo Has Always Been One of Our Great Actors. Finally, the Movies Are Catching Up
+Thu, 10 Sep 2026 18:20:26 +0000 — https://www.hollywoodreporter.com/movies/movie-features/sophie-okonedo-mouse-clarissa-tiff-exclusive-1236696716/
 
-The show, which features pop hits from Max Martin, currently includes cast members Chrissy Metz and Joey Fatone.
+The Oscar nominee and Tony winner has two magnificently subtle performances out this fall. They reflect an evolved approach to building her career: "I decided I just wouldn't work as much. I would wait."
 
-### Belmont Cameli and NHL Phenom Macklin Celebrini Talk ‘Off Campus,’ Olympic Heartbreak and Handling the Hype
-Thu, 10 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/off-campus-belmont-cameli-nhl-macklin-celebrini-interview-1236678553/
+### Paul Greengrass Talks The Uprising, Robin Hood and the Timeless Power of Rebellion
+Thu, 10 Sep 2026 18:18:12 +0000 — https://www.hollywoodreporter.com/movies/movie-features/the-uprising-paul-greengrass-andrew-garfield-robin-hood-1236696016/
 
-In THR’s new series, the breakout actor and the $94 million Sharks superstar get candid about fan obsession, tuning out the noise, newfound wealth — and the cameo that almost happened.
+The 'Bourne' filmmaker started writing the project two days into the pandemic, and dreamed of making it for five years as he watched its themes become more and more relevant.
 
-### Anchor Access, Original Shows and a Real-Life Lounge: Inside MS NOW s Membership Push
-Thu, 10 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/ms-now-member-lounge-subscription-membership-push-1236694921/
+### Superstar Artists to Kick Off a New, High-End Comic Book Art Festival in L.A. (Exclusive)
+Thu, 10 Sep 2026 18:01:25 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/superstar-artists-high-end-comic-book-art-fest-1236695937/
 
-The news brand is betting that wellness features, physical membership lounges and direct relationships with talent can help it stand out in a crowded subscription market.
+Nick Dragotta, Daniel Warren Johnson and Ryan Ottley are among the artists appearing at the inaugural ICON Festival of Comic Narrative Art, which will take place at the Biltmore Hotel downtown.
 
-### Noah Kahan Drops Orbiter Music Video on Spotify
-Thu, 10 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/music/music-news/noah-kahan-orbiter-music-video-spotify-exclusive-1236696094/
+### Michelle Yeoh Trained With Real Surgeons for Her Return to Action Filmmaking
+Thu, 10 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/michelle-yeoh-the-surgeon-1236687067/
 
-The 'Great Divide' singer just wrapped his North American tour, where he filmed the new music video.
+In ‘The Surgeon,’ the Oscar winner trades martial arts for medical precision — starring in an action thriller directed by a practicing medical doctor Roshan Sethi.
 
 ## Deadline
 
-### Anthony Hopkins To Star In Post-Apocalyptic Sci-Fi 2048 TIFF Market
-Thu, 10 Sep 2026 14:30:00 +0000 — https://deadline.com/2026/09/anthony-hopkins-post-apocalyptic-sci-fi-2048-tiff-market-1237073285/
+### Get Ready For Mariska Unleashed : 78th Annual Emmys Host Producers Tease Telecast At Blue Carpet Rollout
+Thu, 10 Sep 2026 19:09:37 +0000 — https://deadline.com/2026/09/emmys-preview-mariska-hargitay-teases-show-nbc-blue-carpet-1237073824/
 
-EXCLUSIVE: Two-time Oscar winner Anthony Hopkins is set to star in 2048, a post-apocalyptic sci-fi film from director Timothy Woodward Jr. Hopkins and Woodward Jr recently teamed up on sci-fi-horror film Eyes In The Trees, which is in post-production. Set in a future where a dying planet has forced the last remnants of humanity underground, 2048 unfolds [ ]
+While crews toiled away building out the Peacock Theater ahead of Monday s 78th annual Emmy Awards, host Mariska Hargitay sparkled in the sun as she rolled out the blue carpet alongside the show s producers. She may have spent nearly three decades investigating heinous crimes on NBC s Law Order franchise, but she knows how to [ ]
 
-### American Horror Story Season 13 Trailer: It s Witch-Hunting Season
-Thu, 10 Sep 2026 14:26:00 +0000 — https://deadline.com/2026/09/american-horror-story-season-13-trailer-1237032637/
+### Odeya Rush, Annarah Cymone Neela Jolene Join Justin Long Iris Apatow In Killer Bee Movie Stung , Filming Wraps
+Thu, 10 Sep 2026 19:09:21 +0000 — https://deadline.com/2026/09/odeya-rush-annarah-cymone-neela-jolene-bee-movie-stung-1237073892/
 
-UPDATE: Welcome to the greatest show on earth. So begins the official trailer for American Horror Story Season 13. FX unveiled the full version Thursday which features returning Jessica Lange, Sarah Paulson and Evan Peters, who reprise multiples roles from previous seasons. AHS: 13 will premiere Thursday, September 24 at 9 p.m. ET / 6 [ ]
+EXCLUSIVE: VMI Worldwide, Verdi Productions and Source M+P have wrapped killer bee movie Stung in Rhode Island. From writer-director Colin Minihan, the film follows Jess (Iris Apatow), Maya (Odeya Rush) Brooke (Annarah Cymone) and Rachel (Neela Jolene) as their innocent girl’s night sleepover spirals into a living nightmare when their home is overtaken by a [ ]
 
-### New York Film Festival To Screen Buzzy Elizabeth Holmes Doc You Can See Everything
-Thu, 10 Sep 2026 14:24:46 +0000 — https://deadline.com/2026/09/new-york-film-festival-adds-you-can-see-everything-documentary-1237073367/
+### Jeremiah Watkins Unveils Third Hour Stand-Up Special Crazy Pizza
+Thu, 10 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/jeremiah-watkins-crazy-pizza-youtube-premiere-date-1237073549/
 
-The New York Film Festival has a late addition to its lineup, setting Nathan Fielder and Lance Oppenheim’s Elizabeth Holmes documentary You Can See Everything to the Spotlight section for a NY debut after its buzzy sneak premiere at Telluride. Holmes, founder of biotech startup Theranos and inventor of a purported miracle medical blood screening [ ]
+EXCLUSIVE: Comedian Jeremiah Watkins has just released his third full-length special, Crazy Pizza, on YouTube. Taped at The Comedy Vault in Batavia, Illinois, the special finds Watkins navigating life as the father to an alleged serial killer toddler and his wife s anger in the bedroom, while riffing on alternatives to hitting your kids, his recent vasectomy, and [ ]
 
-### Blue Fox Launches Sales On YA Rom-Com Buster Brooks With Matt Cornett Melissa Collazo TIFF Market
-Thu, 10 Sep 2026 14:18:23 +0000 — https://deadline.com/2026/09/matt-cornett-melissa-collazo-buster-brooks-launches-sales-1237073377/
+### ‘Minotaur’ ‘De Gaulle’ Among Five Titles Included In France’s International Oscar Shortlist
+Thu, 10 Sep 2026 18:38:31 +0000 — https://deadline.com/2026/09/minotaur-de-gaulle-france-international-oscar-shortlist-1237073829/
 
-EXCLUSIVE: Blue Fox Entertainment has acquired worldwide rights to the YA romantic comedy Buster Brooks, written and directed by Savannah Ostler (Even in Dreams). The company will launch worldwide sales at this week s TIFF market. Matt Cornett (Every Year After) stars as Buster Brooks, who moves from his small farm town to Hollywood to try [ ]
+Antonin Baudry’s political biopic De Gaulle and Andrey Zvyagintsev’s Cannes competition drama Minotaur are among the five titles that have been shortlisted to represent France in the Best International Oscar race at the 99th Academy Awards. Announced this afternoon by the CNC, France’s national film board, the full shortlist includes De Gaulle and Minotaur alongside [ ]
 
-### Bare : First Look At Bridgerton Star Florence Hunt In Coming-Of-Age Drama
-Thu, 10 Sep 2026 14:05:27 +0000 — https://deadline.com/2026/09/bridgerton-star-florence-hunt-first-look-new-movie-bare-1237073366/
+### Asa Germann Lands Role Of Angel In New X-Men
+Thu, 10 Sep 2026 18:30:00 +0000 — https://deadline.com/2026/09/xmen-asa-germann-angel-marvel-movie-1237073807/
 
-EXCLUSIVE: Deadline can reveal the first look at Bare, the feature directorial debut from writer-director Lorna Tucker, starring Florence Hunt (Bridgerton) alongside Isla Fisher and Colin Firth. The ensemble cast also includes Sky Frances, Ruaridh Mollica, Séamus McLean Ross, Mirren Mack, Lewis Gribben, Tut Nyuot, Clay Russell, Umi Myers and Shane Walker, with a cameo from Fatboy [ ]
+Asa Germann (Gen V) is set for the role of Angel in the new X-Men movie from Marvel Studios, sources have confirmed to Deadline. Reps for Marvel couldn t be reached for comment. Germann had previously been rumored for the role of Cyclops, which went to Kit Connor. Created by Stan Lee and Jack Kirby in 1963, Warren [ ]
 
-### Now You See Me Live Stage Illusion Show To Play Broadway This Holiday Season
-Thu, 10 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/now-you-see-me-live-broadway-1237072975/
+### Mike McFarland Dies: One Piece , Dragon Ball Z Voice Actor Was 56
+Thu, 10 Sep 2026 18:21:17 +0000 — https://deadline.com/2026/09/mike-mcfarland-dead-one-piece-dragon-ball-z-1237073700/
 
-Following engagements in Australia, Singapore and London’s West End, Now You See Me Live, the stage show inspired by the Lionsgate film franchise, will run on Broadway this holiday season. Presented by Tim Lawson and Simon Painter (creators of The Illusionists), and in collaboration with Lionsgate, Now You See Me Live will begin performances at [ ]
+Mike McFarland, known as the English voices of Master Roshi and Najirobe in Dragon Ball and Dragon Ball Z, Buggy the Clown in One Piece and many other anime works, died September 10 of brain cancer. He was 56. Also a script writer, director and line producer, McFarland was one of the original and most [ ]
 
-### ‘Burgundy’ Cheers Moviegoers With Tale Of Old School Values And Grand Cru Wine – Telluride Film Festival
-Thu, 10 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/burgundy-documentary-telluride-film-festival-1237073283/
+### Oh, Mary! Live Capture Starring Cole Escola To Debut On HBO HBO Max In 2027
+Thu, 10 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/oh-mary-hbo-live-capture-cole-escola-hbo-max-1237073532/
 
-What wine pairs well with beefcake? Burgundy, of course. That’s the conclusion one might reasonably draw from the new documentary directed by Michael Dweck and Gregory Kershaw that’s set in the famous wine-making region of France. Among the colorful personnages in Burgundy is Enzo Ferraroli, a young hunk who goes shirtless at times as he [ ]
+A live capture of Oh, Mary!, the hit, award-winning Broadway and West End stage comedy written by and starring Cole Escola will debut on HBO in 2027, the network announced today. The program is the filmed capture of the July 28, 2026, performance that took place at the Trafalgar Theatre in London’s West End, with [ ]
 
-### Harry Styles Sets 2027 Global Stadium Tour; Opening Acts To Include Kylie Minogue, LCD Soundsystem, Tears for Fears Others
-Thu, 10 Sep 2026 13:46:51 +0000 — https://deadline.com/2026/09/harry-styles-2027-together-together-stadium-tour-1237073325/
+### Drink In ‘Low Lies The Land,’ Documentary Set In Luscious But Imperiled Winemaking Region Of Italy’s Piemonte – Toronto Film Festival
+Thu, 10 Sep 2026 17:58:01 +0000 — https://deadline.com/2026/09/low-lies-the-land-clip-toronto-film-festival-1237073709/
 
-Harry Styles will play two Los Angeles dates in the six-city North American leg of his Together, Together 2027 global stadium tour, with another six cities set for the subsequent European leg to follow. In all, 12 dates in the six North American cities are set for next year (two shows per city), with 13 [ ]
+EXCLUSIVE: Low Lies the Land, a documentary set in the winemaking Piemonte region of Italy, may become the toast of Toronto. The film featuring a rich bouquet of families engaged in viticulture hosts its world premiere Friday at TIFF. We have your exclusive first look at Emanuele Gerosa’s film in the clip above. “Nestled among [ ]
 
-### NBCUniversal s Split From Comcast Will Allow Us To Move Faster, Media Group Chief Matt Strauss Says
-Thu, 10 Sep 2026 13:32:23 +0000 — https://deadline.com/2026/09/nbcuniversal-comcast-split-matt-strauss-peacock-1237073307/
+### Billy Porter, Billy Zane Jessica Vosk To Star In One-Night Broadway Musical Comedy Bill Pay Produced By Fintech Company Ramp
+Thu, 10 Sep 2026 17:48:41 +0000 — https://deadline.com/2026/09/bill-pay-musical-broadway-billy-porter-billy-zane-1237073624/
 
-NBCUniversal Media Group Chairman Matt Strauss is extremely bullish on the company s forthcoming split from Comcast. There is genuine excitement about the move inside the company, Strauss said Thursday at an investor conference hosted by BofA Securities. We feel really good about our trajectory and our growth, and I think the independence is going to [ ]
+Billy Porter, Billy Zane and Jessica Vosk will star in an unusual one-night-only Broadway musical being produced by the financial technology company Ramp as a promotion for the company s bill-pay platform. Bill Pay The Musical, a fully staged, original musical comedy about bills has been created for the the fin-tech company by a creative team [ ]
 
-### Spain s Mediapro Group To Become Imagina After Reorganization
-Thu, 10 Sep 2026 13:26:15 +0000 — https://deadline.com/2026/09/grup-mediapro-relaunch-imagina-after-reorganization-1237073310/
+### Ross Butler Marc Evan Jackson Join Sayani Gupta In ‘Arya’
+Thu, 10 Sep 2026 17:33:36 +0000 — https://deadline.com/2026/09/ross-butler-marc-evan-jackson-join-sayani-gupta-in-arya-1237073178/
 
-Spain s Grup Mediapro will relaunch as Imagina on January 1, 2027, following a major company review. The decision to relaunch comes after several months of reorganization and was announced internally yesterday at an all-staff meeting. The change revives a name the group has used before across its more than 30-year history, reflecting its intent to [ ]
+EXCLUSIVE: Ross Butler and Marc Evan Jackson are among the newly-announced cast joining Sayani Gupta (Delhi Crime) in Arya. The film, which is written and directed by Neil Tuli, follows Arya (Gupta), a disciplined piano teacher from a prestigious Indian conservatory. Per the synopsis, she reluctantly takes an assignment in northern Minnesota, hoping to rescue [ ]
 
-### ‘Le Faux Soir’ Trailer: Arieh Worthalter Mélanie Thierry Star In WW2 Belgian Resistance Media Hack Drama TIFF
-Thu, 10 Sep 2026 13:26:10 +0000 — https://deadline.com/2026/09/le-faux-soir-belgian-resistance-drama-trailer-toronto-1237073316/
+### Full ‘Whalefall’ Trailer: Austin Abrams Experiences All Emotions In The Belly Of The Beast
+Thu, 10 Sep 2026 17:30:29 +0000 — https://deadline.com/2026/09/whalefall-trailer-austin-abrams-josh-brolin-daniel-kraus-1236950810/
 
-EXCLUSIVE: Michaël R. Roskam‘s ensemble World War Two Belgian resistance drama Le Faux Soir world premieres as a Special Presentation in Toronto this weekend, before heading to San Sebastian as the closing film, and Deadline can unveil the trailer. Set in Belgium in November 1943, the drama is inspired by the events surrounding daily [ ]
+UPDATED, Sept. 10, 10:30 a.m.: A new full trailer for 20th Century Studios’ Whalefall, based on the best-selling book by Pulitzer Prize-winning author Daniel Kraus, has arrived. The adrenaline-spiked clip offers a longer look at Austin Abrams’ scuba diver Jay Gardiner in the stomach of an 80-foot, 60-ton sperm whale, where he has an hour’s [ ]
 
-### EST N8 Picks Up Manila-Set Crime Thriller ‘Jaguar’ With Elijah Canlas, David Call, Sid Lucero Gabby Padilla
-Thu, 10 Sep 2026 13:16:52 +0000 — https://deadline.com/2026/09/elijah-canlas-sid-lucero-dean-colin-marcial-jaguar-est-n8-1237073164/
+### Sony Buys R-Rated Buddy Comedy Pitch Golf Trip From Mortal Media; Max Searle Scripting
+Thu, 10 Sep 2026 17:18:52 +0000 — https://deadline.com/2026/09/golf-trip-pitch-mortal-media-sells-sony-max-searle-1237073640/
 
-EXCLUSIVE: EST N8 has acquired worldwide rights to Jaguar, a Manila-set crime thriller from director Dean Colin Marcial, a Berlinale Talents Lab alumnus whose work has screened at Toronto, SXSW, Tribeca and Sitges film festivals. The ensemble cast is led by award-winning Filipino actor Elijah Canlas – known for indie breakout hits Kalel, 15 and [ ]
+EXCLUSIVE: Sony has bought Golf Trip, an R-rated comedy pitch from Mortal Media, which has enlisted Max Searle (upcoming Barbershop) to pen the script, sources tell Deadline. Reps for Sony declined to comment. We re told the film is about three lifelong friends who are the last of their old golf group still willing to make the time [ ]
 
 ## befores & afters
 
@@ -180,6 +180,56 @@ ILM VFX supe Russell Earl and ILM anim supe Kevin Martel examine the third act b
 
 ## IndieWire
 
+### Colin from Accounts Final Season Is for the F*ck-Ups
+Thu, 10 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/shows/colin-from-accounts-final-season-review-1235215748/
+
+The Australian romantic-comedy series returns with a third and final season that sees its central couple summoning the courage to decide what's right for them, even if it looks wrong to everyone else.
+
+### Tessa Blake Directed Over 50 Hours of Television Before Embarking on Her First Feature. The Experience Paid Off
+Thu, 10 Sep 2026 18:30:00 +0000 — https://www.indiewire.com/features/interviews/tessa-blake-on-if-i-tell-you-1235215941/
+
+The director of "If I Tell You" says years of training on shows as varied as "American Horror Story," "Matlock," and "NCIS: Hawai'i" helped her develop a clear, precise visual language for her powerful debut feature.
+
+### Cody Fern Wrote His Directing Debut Closing Night for Sarah Paulson: She s Like a Bugatti
+Thu, 10 Sep 2026 18:00:00 +0000 — https://www.indiewire.com/features/interviews/cody-fern-directorial-debut-closing-night-sarah-paulson-1235215928/
+
+Ahead of the Toronto International Film Festival, the "American Horror Story" star and first-time filmmaker talks directing a powerhouse coterie of actresses: not only Paulson, but also Naomi Watts and Dianne Wiest.
+
+### New Documentary Capturing Bigfoot Blows the Legend of the Sasquatch Wide Open — Watch Trailer
+Thu, 10 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/news/trailers/capturing-bigfoot-trailer-documentary-1235216046/
+
+Exclusive: Marq Evans and Tamir Ardon's deep dive into the infamous Patterson-Gimlin film was an audience favorite at SXSW this year; on National Bigfoot Day, it will finally be unleashed in North American theaters.
+
+### Cannes 2026 Movies Sold: Sumerian Buys Low Expectations Starring Indie Singer Girl in Red
+Thu, 10 Sep 2026 16:40:00 +0000 — https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/
+
+Eivind Landsvik directed the Directors' Fortnight title that also stars Anders Danielsen Lie.
+
+### Arrested Memory Review: Sabu Plays Amnesia for Gentle Comedy
+Thu, 10 Sep 2026 16:38:21 +0000 — https://www.indiewire.com/criticism/movies/arrested-memory-review-1235216116/
+
+Venice: The Japanese genre auteur's approach to memory loss is more interested in slapstick than existential rumination, but that doesn't dampen his affection for his characters.
+
+### All of a Sudden Trailer: Ryusuke Hamaguchi s Epic Two-Hander Stars Virginie Efira and Tao Okamoto
+Thu, 10 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/news/trailers/all-of-a-sudden-trailer-ryusuke-hamaguchi-1235215841/
+
+Exclusive: A hit out of Cannes, the film is Japan's entry for Best International Feature. It may go even further than that.
+
+### Louis Garrel Looks Back on the X-Rated Classic The Dreamers and Being Shocked by His Sex Scenes with Isabelle Huppert in Ma Mère
+Thu, 10 Sep 2026 15:30:00 +0000 — https://www.indiewire.com/features/interviews/louis-garrel-looks-back-the-dreamers-sex-scenes-1235215920/
+
+Venice: The French actor/filmmaker stars in Nanni Moretti's frothy comedy of romantic destiny, "It Will Happen Tonight," during a Venice Film Festival haunted by the ghost of "The Dreamers" director Bernardo Bertolucci across the programming.
+
+### NAZA Review: The Israeli Directors of ‘No Other Land’ Illuminate the Mechanics of Genocide in Another Essential Documentary
+Thu, 10 Sep 2026 15:15:00 +0000 — https://www.indiewire.com/criticism/movies/naza-documentary-review-1235215395/
+
+Rooftop interviews in Tel Aviv play host to monstrous revelations about AI-assisted massacres.
+
+### No One Knows Better Than Filmmaker Scott Waugh Why Authenticity Is the Ultimate Special Effect
+Thu, 10 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/features/commentary/filmmaker-scott-waugh-authenticity-special-effect-stunts-1235213272/
+
+The stunt performer-turned-filmmaker comes from the kind of Hollywood lineage that epitomized one essential ethos: put your audience inside your story.
+
 ### Zach Cregger Weighs in on the Physical Media Debate Ahead of Sony’s Resident Evil
 Thu, 10 Sep 2026 14:30:00 +0000 — https://www.indiewire.com/features/interviews/zach-cregger-physical-media-debate-1235215786/
 
@@ -190,157 +240,107 @@ Thu, 10 Sep 2026 14:15:38 +0000 — https://www.indiewire.com/news/festivals/you
 
 The wildly acclaimed Elizabeth Holmes documentary will play New York Film Festival on September 30.
 
-### To Follow Her Best Picture Win, Siân Heder Opted to Make the Hardest Story She Could Imagine
-Thu, 10 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/sian-heder-best-picture-coda-next-film-being-heumann-1235213849/
-
-TIFF: For "Being Heumann," Heder takes on a seminal moment in the life of the remarkable disability activist Judy Heumann. She imagined a risky film, populated by all manner of disabled performers, that felt more "Dog Dog Afternoon" than cultural vegetables. All that? It was scary. It was worth it.
-
-### Everytime Review: Sandra Wollner s Infinitely Beguiling Portrait of Grief in the Digital Age Is One of the Most Haunting Films of the Decade
-Thu, 10 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/criticism/movies/everytime-movie-review-sandra-wollner-1235215903/
-
-TIFF: Picking up where the likes of "Aftersun" and "Personal Shopper" left off, Wollner's unforgettable third feature explores the modern world's changing relationship to death.
-
-### Fatherland Trailer: Sandra Hüller Plays Thomas Mann s Daughter in the Latest Black-and-White Drama from Pawel Pawlikowski
-Thu, 10 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/news/trailers/fatherland-trailer-pawel-pawlikowski-1235215915/
-
-The MUBI release opens in New York and Los Angeles on October 23.
-
-### All Kids Out of the Pool: An Oral History of the Adult Swim Launch
-Thu, 10 Sep 2026 12:30:00 +0000 — https://www.indiewire.com/features/interviews/adult-swim-25th-anniversary-oral-history-1235215388/
-
-As Adult Swim spends September re-airing the shows that put it on the map in 2001, its original creators and execs tell IndieWire how an experimental programming block became one of the biggest counterculture brands of the 21st century.
-
-### The Traditional Film Industry’s Collapse Is Right on Schedule — Opinion
-Thu, 10 Sep 2026 00:36:48 +0000 — https://www.indiewire.com/features/commentary/film-industry-collapse-on-schedule-a-producers-path-1235215989/
-
-The most dangerous thing a producer can do during times of uncertainty is wait.
-
-### ‘Avengers: Doomsday’ Has Already Made $50 Million in Pre-Sales — And People Are Buying Disney’s Infinity Vision Gambit
-Wed, 09 Sep 2026 21:31:26 +0000 — https://www.indiewire.com/news/box-office/avengers-doomsday-50-million-pre-sales-infinity-vision-1235215933/
-
-70 percent of domestic pre-sales — or $35 million — have come from the new certification invented in response to "Dune: Part Three" hoarding IMAX screens.
-
-### After Bunker Scores a Huge Venice Ovation, Will the Film and Penélope Cruz and Javier Bardem Be Major Oscar Contenders?
-Wed, 09 Sep 2026 21:15:00 +0000 — https://www.indiewire.com/news/festivals/bunker-penelope-cruz-javier-bardem-venice-ovation-oscar-chances-1235215931/
-
-Though "Bunker" was embraced at its world premiere, it is unlikely the marital drama will earn either Penélope Cruz and Javier Bardem a second Academy Award.
-
-### The Paper Review: Season 2 Can t Deliver Its One, Big, Diabolical Idea
-Wed, 09 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/shows/the-paper-season-2-review-the-office-spinoff-bad-1235213892/
-
-In Season 1, "The Office" spinoff struggled to define its main character. In Season 2, he may be the villain.
-
-### Can Practical Magic 2 Wave a Wand and Save Warner Bros. Rough Year at the Box Office?
-Wed, 09 Sep 2026 18:30:00 +0000 — https://www.indiewire.com/news/box-office/practical-magic-2-box-office-save-warner-bros-down-2026-1235215697/
-
-Michael De Luca and Pam Abdy are about to get a new boss in David Ellison, so they could really use a hit right now.
-
-### Beyond Fest Returns to Los Angeles with Guests Including M. Night Shyamalan, Michael Mann, Robert Eggers, and Many More
-Wed, 09 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/news/festivals/beyond-fest-2026-lineup-announced-1235215701/
-
-The latest incarnation of the film festival is bigger than ever, with 10 world premieres and retrospective screenings dedicated to fan favorites by David Lynch, Ken Russell, and others.
-
 ## The Wrap
 
-### Kelly Clarkson Is Still Cranky About Anne Hathaway Beating Her on Her Own Song: Thinking She Was Tipped Off
-Thu, 10 Sep 2026 14:27:41 +0000 — https://www.thewrap.com/creative-content/music/kelly-clarkson-still-mad-anne-hathaway-since-u-been-gone/
+### Jennifer Lawrence Joins Instagram, Threatens to Quit if Anyone Says Anything Negative
+Thu, 10 Sep 2026 19:07:42 +0000 — https://www.thewrap.com/culture-lifestyle/culture/jennifer-lawrence-joins-instagram-threatens-to-quit-cyberbullying/
 
-It s been four years since Anne Hathaway went viral for showing up Kelly Clarkson on her own song , but it would appear that Clarkson herself is still a bit cranky about it. In a new interview with Betches released on Wednesday, Clarkson took the How online are you? challenge, and for the most part, proved that she is in fact not online much. But, one aspect of the interview involved trivia, and the first trivia question was about her. As the host asked Clarkson what song Hathaway beat her on, the singer didn t even let the question be asked in full. Since U Been Gone, Clarkson cut off, with a shake of her head. I m thinking she was tipped off. For those unfamiliar, this incident occurred back in 2022, when Clarkson and Hathaway played a game of Sing That Name That Tune. The premise was simple enough: the band would play a song, the contestants had to figure out what song it was, and then jump in and sing the correct lyrics. Hathaway largely dominated the game, prompting Clarkson to scold her house band: “Can you play a fricking song I’ll know?!” So, they did. They played Since U Been Gone, but Clarkson didn t recognize it. Instead, Hathaway jumped in, crushed the performance, and Clarkson fell to the floor. “Should I just quit?!” Clarkson said at the time. “This is embarrassing!” To this day, the video clip of the encounter is no longer available on the official Kelly Clarkson Show YouTube page. The post Kelly Clarkson Is Still Cranky About Anne Hathaway Beating Her on Her O
+Jennifer Lawrence has finally joined Instagram – but not before issuing a warning. Despite being one of the biggest movie stars working today, Lawrence has gone without much presence on social media in the decade-plus of her career. That changed when she went live on Wednesday night with her new Instagram – under the @jlaw tag since @jenniferlawrence was already taken. She posted a video on Thursday explaining the choice but also warning her followers if things took a turn for the toxic she d be gone. “So yeah, I am giving it a shot and if anyone says anything negative I will quit immediately, no questions asked,” Lawrence said in her first post to the feed. “If anyone thinks something mean, I will know and I will quit.” Jennifer Lawrence shares her first Instagram Story and post: “If anyone says anything negative, I will quit. Immediately. If anyone thinks something mean, I’ll know. And I’ll quit.” “Please be mindful that any mean or aggressive comments can negatively affect the baby. It’s… pic.twitter.com/GePu9O0ffK &mdash; cinesthetic. (@TheCinesthetic) September 10, 2026 The Hunger Games star doubled down on her threat. An all-text story post followed her initial video asking that her followers be mindful and keep things positive. Because it would be harmful if things trended into the negative. “Please be mindful that any mean or aggressive comments can negatively affect the baby, she wrote. It’s me. I’m the baby. Despite only having been up for 24 hours, Lawrence already
 
-### NBCUniversal s Matt Strauss Says Comcast Split Will Offer More Flexibility to Move Quicker
-Thu, 10 Sep 2026 14:23:12 +0000 — https://www.thewrap.com/industry-news/business/nbcuniversal-matt-strauss-peacock-sky-comcast-split-comments/
+### Reacher Holds Off Netflix s Latest Star-Studded Thriller as No. 1 on Streaming Charts
+Thu, 10 Sep 2026 19:02:26 +0000 — https://www.thewrap.com/commentary-analysis/data-analysis/reacher-season-4-the-whisper-man-streaming-data/
 
-When NBCUniversal splits from Comcast next year, Media Group Chairman Matt Strauss says the independent company will be able to make decisions faster and have more flexibility with its partnerships. But he emphasized that the studio s overarching strategy won t change. I wouldn t say that the independence changes how we re looking at media. I think it just gives us more flexibility to move quicker, Strauss told an investor conference hosted by Bank of America on Thursday. We re not trying to build a broadcast business sitting next to a streaming business. We re trying to build a digital-first new media company where we re trying to get the maximum return for our investment across the portfolio. After posting its first ever quarterly profit in the second quarter, Strauss said that Peacock will continue to prioritize engagement and growing its average revenue per user, revenue and margins faster than its costs. The streaming service currently has a total of 48 million subscribers, with 80% of its base on the ad tier. While Comcast executives expect Peacock s profits to continue growing on a year-over-year basis, they previously warned that it would vary from quarter to quarter. We said from the beginning this is not a sprint. It s a marathon at a sprinter s pace. If you look at the decisions we made in 2020, we have been incredibly consistent where others, I think, have evolved their strategy, arguably closer to what we ve been doing, Strauss said. We feel very well positioned 
+The late summer landscape has belonged firmly to one show: “ Reacher ,” the Amazon Prime Video action series in its fourth season. The adaptation of the popular Lee Child novel series has now topped the Samba Weekly Wrap Report for four consecutive weeks. In a landscape often dominated by Netflix and HBO Max, this is impressive by itself. What’s even more impressive is that “Reacher” is fending off strong competition from those two streamers at the same time, as seen on this week’s chart. While “Reacher” itself has just one more episode to air, on Sept. 16, this may not be the end of its extended universe. A spinoff, “ Neagley ,” will drop its entire first season on that same date. Stay tuned to see how the greater “Reacher-verse” is received. The next three entries on the chart come from three different streaming platforms, and all focus on very different kinds of male leads. First is “The Whisper Man,” on Netflix , which finds Robert de Niro playing a retired detective looking into the mystery of how a killer he put behind bars for life may have captured his grandson. The crime thriller is up one spot this week, likely buoyed more by its strong cast (featuring de Niro, Michelle Monaghan and Adam Scott) than its reviews . “The Whisper Man” flips spots with “Lanterns,” on HBO Max, which falls to third this week. The DC Universe superhero drama stars Kyle Chandler as a cocky, aging Green Lantern, who is facing challenges on all sides while investigating a small town murder and
 
-### American Horror Story Season 13 Trailer Teases the Return of Jessica Lange and Witches in Peril
-Thu, 10 Sep 2026 14:18:12 +0000 — https://www.thewrap.com/creative-content/tv-shows/ahs-season-13-trailer-fx/
+### CNN Airs Montage Mocking Trump s Broken Promises to Send Checks to Americans: Not Going to Happen
+Thu, 10 Sep 2026 19:00:43 +0000 — https://www.thewrap.com/media-platforms/politics/cnn-trump-voter-checks-promises-fact-check-video/
 
-At long last, Jessica Lange has returned to American Horror Story. The acting legend is all over the first trailer for Season 13, and she s reprising all of her most iconic AHS roles. Check out the trailer below. More to come The post American Horror Story Season 13 Trailer Teases the Return of Jessica Lange and Witches in Peril appeared first on TheWrap .
+During Thursday s edition of Inside Politics, CNN anchor and Chief Congressional Correspondent Manu Raju poked holes in President Donald Trump s promise to send $5,000 rebate checks to Americans by rolling a highlight reel of him making the same promise over and over again. While speaking Wednesday at the GOP s midterm convention in Dallas, Trump pledged to send every American adult a check for $5,000 if Republicans retain control of both the House and the Senate after this year s midterm election cycle. As Raju was quick to note Thursday, that is not the first time the president has made and broken such a promise. The president’s been making these promises over and over again about giving a rebate check for this and that and the other, Raju told CNN viewers, before teasing, We have a bit of a mash-up of his promises over the months. Raju aired five clips of Trump. In the first, the president hinted that his administration was considering giving 20% of the savings created by his and Elon Musk s DOGE agency last year to American citizens. In the other clips, Trump talked about a federal rebate generated by the money from his tariffs and a dividend to our middle-income people and lower-income people of $2,000. You get $5,000 and you get $5,000 — at least that's what the president promised if Republicans keep the House and Senate in November. @LACaldwellDC has a reality check: "This is not going to happen." pic.twitter.com/Uyw4mjVjwB &mdash; Inside Politics (@InsidePolitics) Sep
 
-### Elon Musk Threatens Legal Action Over Alex Gibney Documentary, Calls It a Hit Piece
-Thu, 10 Sep 2026 14:13:23 +0000 — https://www.thewrap.com/creative-content/movies/elon-musk-threatens-legal-action-over-documentary/
+### Jonathan Goldstein and John Francis Daley on ‘Mayday,’ Their Star Trek Revamp and Making Comedies That Look Great
+Thu, 10 Sep 2026 18:47:00 +0000 — https://www.thewrap.com/creative-content/movies/mayday-directors-jonathan-goldstein-john-francis-daley-interview/
 
-Elon Musk responded to the debut of Alex Gibney s four-hour documentary Musk, which had its world premiere at the Venice Film Festival this week, by slamming it as a hit piece and threatening legal action over claims that he used his Starlink satellites to influence the 2024 presidential election. In the letter, addressed to Adam Mellion of Jigsaw Productions and dated Sept. 3, Spiro says they tried to contact him multiple times and requested an opportunity to present the facts in the normal fact-checking process that is the hallmark of ethical journalism. You have refused to engage. The letter continues: While we are ardent supporters of the First Amendment, and respect the reporting process, it has become abundantly clear that the motivations behind this piece are not the pursuit of truth, but something far different. This project did not begin as an inquiry. It began with a conclusion. “You are on notice, before release, that the insinuation is false, that the material refuting it is public, and that you chose not to be told the rest,” Spiro wrote. “Starlink was not connected to vote tabulation. Election officials in multiple states, independent cybersecurity researchers, and fact-checkers publicly refuted the Starlink vote-rigging claim in November 2024, and nothing since has revived it, Spiro said in the letter, which was first reported by THR. “Defamation does not require an express accusation.” The letter alleges that the film hinges on the accounts of witnesses with a
+“Mayday,” now streaming on Apple TV, feels like an anomaly among modern blockbusters. Not only is it starry (led by Ryan Reynolds and Kenneth Branagh), but it’s just as smart and stylish. And unlike most Hollywood extravaganzas, it’s based on an original concept, not relying on some preexisting property or any well-established lore. And it’s one of the best, most entertaining movies of the year. (It was the #1 movie on Apple all weekend long.) Reynolds stars as a U.S. Navy pilot (who has the very cool, “Maverick”-ish callsign of “Assassin”) who is shot down over Soviet Russia during the height of the Cold War, 1987. He falls into enemy territory when a former Russian spy (Branagh) stumbles upon him. Lucky for the American, this Russian wants to defect – and is obsessed with western pop culture. This leads the two on a wacky, madcap, somewhate desperate adventure through the USSR to get to safety. It’s a hoot. “Mayday” was written and directed by John Francis Daley and Jonathan Goldstein, the team behind 2015’s underrated “National Lampoon’s Vacation” reboot (simply titled “Vacation”) and 2018’s “Game Night,” which has rightfully taken its place as one of the best comedies in recent memory. They are filmmakers who make comedies and know a good punchline but also know the value in staging that punchline in a way that is exciting and fun for the audience to actually watch . (How many modern day comedies could be radio plays or podcasts they are so flatly directed?) With “Mayday,
 
-### Jimmy Fallon Roasts Seahawks and Patriots Players Faces After Super Bowl Rematch
-Thu, 10 Sep 2026 13:51:10 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-roasts-seattle-seahawks-new-england-patriots-players/
+### How Hulu s Furious Went From Sleeper Hit to Mainstream Must-Watch
+Thu, 10 Sep 2026 18:30:00 +0000 — https://www.thewrap.com/media-platforms/tv/furious-sleeper-hit-to-mainstream-must-watch/
 
-The 2026-2027 NFL season officially kicked off on Wednesday night, with a Super Bowl rematch between the Seattle Seahawks and New England Patriots. To celebrate, Jimmy Fallon used the start of his monologue on Wednesday night to roast both teams. To kick things off, the NBC host joked that, following the president s insistence on renaming anything in America that has a name invoking another country i.e. Lake Ontario and New Mexico both teams would likely be facing a name change soon too. Yeah, tonight it was the New England Patriots versus the Seattle Seahawks, or as it ll soon be called, the American Patriots versus the Seattle Americans, taking place in America Stadium, Fallon quipped. But from there, he turned his attention to the players themselves, using a common bit he does. Seahawks quarterback Sam Darnold said, I can t wait to defend our title this season. Go team. Then Alijah Vera-Tucker from the Patriots said, Did somebody say goatee? Sorry, I thought you were talking about me. Anyway, we re going to beat these punchable geeks.' Fallon joked, as a photo of Vera-Tucker and his typical goatee appeared. Then Milton Williams from the Patriots said, Did somebody say pinchable cheeks? Sorry, thought you re talking about me,' the host continued. Anyway, I m just gunning to hit. Then Darius Muasau from the Patriots said, Did somebody say the gummy just hit? Anyway, I use the bench press to get uber-jacked. The bit continued to roast several more players on each team, until 
+Furious is one of the summer s buzziest shows you likely never heard of — until a couple weeks ago at least. While the Hulu thriller series from New Girl creator Liz Meriwether, which follows an ex-cop-turned-FBI agent (Emmy Rossum) hunting down a female serial killer (Lola Petticrew), is now getting its flowers and attracting mainstream attention, Furious flew under the radar of the warmer month s summer releases with little marketing and awareness — and almost too cheesy poster art. The three-episode premiere of Furious debuted in the No. 10 spot on Nielsen s streaming originals list for the week of July 27, then fell out of the top 10 list by the following week. Furious key art (Disney) But viewership grew gradually as TikTok , Threads and X users discovered and brought attention to the show, enough for Hulu to grant it a Season 2 renewal in late August. The streamer reported viewership for the penultimate episode was up 40% from the premiere. And by the time the finale dropped on Aug. 31, views were up 90% from the premiere, based on one day of viewing data. In a crowded TV landscape, the delayed success of Furious proves it s still possible for a show to break out through positive word of mouth and social media chatter. It s also yet another example of a series finding its audience further into its weekly release, enabling the power of passionate fans to work their magic and inspire more people to join the audience before a gangbusters finale. Not only is it less intimid
 
-### Ella Langley Leads the 60th Annual CMA Awards With 9 Nominations
-Thu, 10 Sep 2026 13:30:00 +0000 — https://www.thewrap.com/industry-news/awards/cma-awards-nominations-list-2026/
+### X-Men Movie Casts Gen V Star Asa Germann as Angel
+Thu, 10 Sep 2026 18:07:21 +0000 — https://www.thewrap.com/creative-content/movies/x-men-movie-casts-gen-v-star-asa-germann-as-angel/
 
-Ella Langley led the 60th Annual CMA Awards with nine nominations in part to her record-breaking hit Choosing Texas. The country music hit has spent 21 weeks at No. 1 on the Billboard Hot 100, moving her one week closer to beating Mariah Carey s record for most weeks spent at the top of the chart for “All I Want for Christmas Is You.” Other top nominees include Miranda Lambert with seven nominations and Kacey Musgraves and Ben West with five nominations each. “For six decades, the CMA Awards have celebrated excellence in Country Music,” Sarah Trahern, CMA chief executive officer, said. “We’re grateful to CMA’s Professional members, whose collective voice determines every nomination, bringing real expertise to the balloting process each year. Congratulations to all of this year’s deserving nominees. We cannot wait to celebrate our milestone anniversary together in November.” Luke Combs, Cody Johnson, Langley, Chris Stapleton and Lainey Wilson will all compete for the night s top honor of Entertainer of the Year. The nominees are determined by CMA s 7,083 voting-eligible professional members, spanning the country music landscape. This year s nominees were revealed first on Good Morning America and livestreamed on CMA s official YouTube channel. The 60th Annual CMA Awards will broadcast live from from Nashville’s Bridgestone Arena Wednesday, Nov. 18 at 8 p.m. ET. See the full list of nominees below: Entertainer of the Year Luke Combs Cody Johnson Ella Langley Chris Stapleton Lai
+Asa Germann is in final talks to play the role of Angel in X-Men, Marvel Studios introduction of the mutant superhero team in the MCU, TheWrap has learned. “Thunderbolts*” director Jake Schreier is attached to direct the project. “Beef” creator and writer Lee Sung Jin has been tapped alongside writer Joanna Calo to tackle a new draft of the script. The character was previously played by Ben Foster in 2006’s X-Men: The Last Stand, and Ben Hardy in 2016’s X-Men: Apocalypse. Should a deal happen, the “Gen V” star would join Samara Weaving who is playing Emma Frost , Kit Connor as Cyclops and Sadie Sink, who debuted as Jean Grey in the massively successful “Spider-Man: Brand New Day.” Other roles include Christopher Abbott as Professor X, Inde Navarrette as Rogue, Maya Boyd as Storm and Adam Driver as the villain Mr. Sinister. This news comes after a whirlwind few weeks of rumors over who was in talks to play these mutants. Navarrette herself spoke a few times about how she was gunning to play Mystique — not Rogue — before the reveal. Driver’s casting is also crucial after years of his name being floated for various parts in the MCU. He was notably one of the key names rumored for Mister Fantastic before Pedro Pascal took over. “Kevin and I have been talking for years about me joining the MCU,” Driver said at D23. “Now I feel like we’ve found the perfect film, at the perfect time, with characters I care deeply about.” Along with Gen V, Germann also recently starred in Scream 7. G
 
-### ‘Crew Girl’ Review: Charming Netflix Series Offers All of the Expected YA Drama
-Thu, 10 Sep 2026 13:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/crew-girl-review-netflix/
+### Oh, Mary! on HBO: Cole Escola Broadway Hit to Stream in 2027
+Thu, 10 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/media-platforms/streaming/oh-mary-cole-escola-hbo-2027-release/
 
-Prestige drama is great and all, but with everything going on in the world right now, there’s a growing market for escapist series with familiar storylines, epic love triangles and gorgeous scenery. Enter Netflix’s newest YA entry, “Crew Girl.” The eight-episode series breathes life into Vivian Lin’s vision of a female single sculls rower on the D1 scholarship track, only to be sidelined by her father’s financial crimes. Miku Martineau stars as the rower in question, Teagan Tao, who moves with her mother, Ella (Jessica Paré), from California to the fictional town of Eagle’s Cove, Massachusetts, to recover. With fudge and seafood serving as the main attractions, the action takes place at the prep school. There, the boys’ rowing team stirs up a world of drama. It’s a classic coming-of-age story as Teagan loses everything and starts over, unable to get her frustrations out on the water due to a lack of a female rowing team. With the boys’ squad struggling, she soon finds her calling, though, proving she’s the thing this team has been missing. Miku Martineau in Crew Girl. (Craig Minielly/Netflix) Not only is Teagan a complicated, likable character, but she has not been done before. Sure, she’s a disgraced rich kid starting over, and viewers have seen that. Putting an Asian single-sculls athlete at the center of a series like this, though? That’s new. The world is making strides in women’s sports, with professional basketball, baseball, softball and hockey now somewhat regularly o
+Oh, Mary! is heading to HBO! A filmed version of the Tony Award-winning Broadway play will air on the network and stream on HBO Max in 2027. The dark comedy, which is written by Cole Escola, follows a miserable, suffocated Mary Todd Lincoln in the weeks leading up to Abraham Lincoln’s assassination. Unrequited yearning, alcoholism and suppressed desires abound in the 80-minute, one act play which examines the forgotten life and dreams of Mrs. Lincoln through the lens of an idiot, per the logline. In addition to Escola reprising the role of Mary Todd Lincoln, the returning cast includes Giles Terera as Mary’s Husband, Bianca Leigh as Mary’s Chaperone, Tony Macht as Mary’s Husband’s Assistant and Michael Urie as Mary’s Teacher. Some shows stay with you long after you ve seen them. Oh, Mary! is one of them. It s 80 minutes of meticulously choreographed chaos so wildly original that everyone who sees it immediately needs someone else to see it too, Nina Rosenstein, Executive Vice President, HBO Programming, Late Night and Specials, said in a statement. Cole has pulled off the almost impossible…they created a comedy that feels completely unlike anything else, while making it look effortless. “I m so happy to share this show with a wider audience and spread Oh, Mary! awareness, Escola added. Knowing about Oh, Mary! is the first step in getting rid of it.” The film, which is a recording of a July 28, 2026 performance that took place at the Trafalgar Theatre in London’s West End, is 
 
-### Final Emmy Predictions: Something Old, Something New, Something Blue
-Thu, 10 Sep 2026 13:18:00 +0000 — https://www.thewrap.com/industry-news/awards/emmy-predictions-2026/
+### ‘Hawaii Five-O’ Movie From Destin Daniel Cretton in the Works at Paramount
+Thu, 10 Sep 2026 17:48:26 +0000 — https://www.thewrap.com/creative-content/movies/hawaii-five-o-movie-destin-daniel-cretton-paramount/
 
-After 700 pages of eligible contenders, 120 categories of nominees and more than five hours of awards shows last weekend, it’s down to this: 19 remaining categories and 113 nominees hoping to go home victorious at the 78th Primetime Emmy Awards . The nominations were wild and, at times, contradictory, with a pair of previous winners, the medical drama “The Pitt” and the showbiz comedy “Hacks,” leading the way with 25 and 24 nominations, respectively. Both seemed to be facing serious threats from bold new shows, with the dystopian future of “Pluribus” and the creepy comedy of “Widow’s Bay” coming on strong. And in the limited series category, things were all over the map, with contenders including a controversial real-life chronicle, “Love Story: John F. Kennedy Jr. & Carolyn Bessette,” the second season of the black comedy “Beef” and a twisty mystery set in the world of a kinky hookup app for would-be cheaters, “DTF St. Louis.” We expect all of those to take home awards on Monday at the Peacock Theater. But based on what we saw at the two Creative Arts Emmys ceremonies on Sept. 5 and 6, the momentum seems to be with “The Pitt,” “Widow’s Bay” and “DTF St. Louis.” In recent years, the trend has been to give more Emmys to fewer programs, but we need to expect that there will be surprises. Last year, the shocks came with Jeff Hiller winning the comedy-supporting-actor award for “Somebody Somewhere” over Harrison Ford, Ike Barinholtz, Colman Domingo, Ebon Moss-Bachrach and others,
+Ready to book ‘em again? Paramount is working on a “Hawaii Five-O” feature with director Destin Daniel Cretton, coming off the astronomical success of “Spider-Man: Brand New Day.” The feature will be based on the 1968 CBS television series of the same name, which ran for 12 seasons from 1968 to 1980. When it went off the air it was the longest-running police drama in the history of American television. It was famous for its jaunty theme song by Morton Stevens and the catch phrase “Boom ‘em, Danno!” which seeped into the pop culture in a profound way, with folks who had never even watched the show knowing the phrase. Chris Bremner, who wrote “Bad Boys for Life,” is on board to pen the screenplay with “Jackie” scribe Noah Oppenheim. Entertainment 360’s Guymon Casady put the package together with the estate of series creator Leonard Freeman. Casady will produce. In the mid-1990’s, an attempted theatrical adaptation of the series was mounted. This was during the boom of movies based on 1960s television series – “The Brady Bunch,” “Mission: Impossible,” “The Saint” and “The Addams Family” had all been hits for Paramount at the time. But a lawsuit between Paramount and the Freeman estate led to the project being canceled. A new pilot was produced around the same time but wasn’t picked up. In the early 2000s, a new feature version was attempted at DreamWorks which featured a script by Robert Towne but fell apart over demands from the then-producer George Litto, who had teamed with t
 
-### ‘Will AI Kill Us All?’ Is the Wrong Question to Ask Analysis
-Thu, 10 Sep 2026 13:16:00 +0000 — https://www.thewrap.com/industry-news/tech/ai-kill-us-all-regulation/
+### New Geena Davis Institute Study Finds Emmys Acting Categories Favor Men Over 50 Exclusive
+Thu, 10 Sep 2026 17:40:00 +0000 — https://www.thewrap.com/industry-news/awards/men-over-50-nominated-more-than-women-over-50-emmys-study/
 
-When it comes to artificial intelligence, the debate over whether AI “will kill us all” is less relevant than asking why it’s taking so long for someone to do something about it. The notion that AI poses an existential threat isn’t new — Terminator 2 called it back in 1991 — but warnings from some of the people working on these AI systems have dragged this threat into reality. The latest red flag was raised on Tuesday, when Anthropic AI researcher Jacob Coxon said on X that he had resigned from the company and claimed “the people building AI earnestly believe that it could kill us all by the end of the decade.” While raising the potential existential threat of AI is laudable, it misses the point of what this ecosystem really needs: oversight. For all the talk of AI regulations and safeguards needed in financial services, healthcare and, of course, in Hollywood, there’s less discussion about oversight for the companies building the AI models themselves. “We spend enormous amounts of time discussing how enterprises should govern AI, yet very little time asking how society should govern the organizations creating the AI itself,” Frost & Sullivan analyst Dilip Sarangan said on a post on LinkedIn . “When did society become a testing environment?” I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with o
+A new study from the Geena Davis Institute shows that over the past 72 years, men over 50 have made up a much larger share of Emmy acting nominees and winners than women in the same age bracket. The report found that men age 50 or higher are almost 30% more likely to be nominated than their female counterparts — and nearly 20% more likely to win. Published on Thursday, Seventy Years of Fifty-Plus Actors at the Emmys: Gender Gaps in Nominees and Winners analyzed the Television Academy s 4,017 nominations in lead and supporting categories in comedy, drama and limited series since 1954. (Guest acting roles did not figure into the research.) We’ve been thrilled to see so many women 50-plus leading celebrated series and films in recent years, Geena Davis Institute President and CEO Madeline Di Nonno told TheWrap, explaining the motivation for the study. We actually did a similar analysis of gender and age of Oscar nominees and winners last year. But we wanted to know whether what felt like progress was actually borne out in the data. The Emmys give us more than 70 years of history to look at, so we decided to find out. Overall, male nominees over 50 dominate by 9 points (42% to 33%). In the 2020s so far, that gap has widened to 12 points. This year, women over 50 make up 41% of the nominee pie — a bigger portion than average (thanks to luminaries including Jean Smart, Lisa Kudrow, Michelle Pfeiffer, Rhea Seehorn, Katherine LaNasa, Constance Zimmer, Sally Field and Youn Yuh-jung). 
 
-### YouTube Extends Streaming Lead With 14% of TV Viewership in July
-Thu, 10 Sep 2026 12:00:00 +0000 — https://www.thewrap.com/media-platforms/streaming/youtube-viewership-july-2026/
+### How ‘Secret Lives of Mormon Wives’ Handled ‘The Bachelorette’ Scandal — and Spoiled Its Ending
+Thu, 10 Sep 2026 17:14:36 +0000 — https://www.thewrap.com/creative-content/tv-shows/secret-lives-of-mormon-wives-season-5-the-bachelorette-scandal-spoilers/
 
-YouTube has extended its lead in streaming with a record 14.2% share of TV viewership in July, a 6% month-over-month increase, according to Nielsen s latest Gauge report. The platform s momentum comes as the streaming category s overall share climbed to 49% of TV viewership, an increase of 3.4% that was boosted by the final weeks of the FIFA World Cup. In comparison, broadcast and cable finished the month with shares of 19.5% and 18.7%, respectively. The former, which normally sees a 4% to 5% usage decrease in July, instead saw an increase of 1% driven by the World Cup. However, cable usage was down 2% on a monthly basis, which was primarily driven by a 27% decline in sports viewing as the number of World Cup fell. Sports viewing represented 6% of all cable viewership. Overall, total TV usage grew 2.2% between June and July, relatively flat compared to the 2.3% increase in the prior year period. Source: Nielsen When looking by distributor, NBCUniversal and Versant trailed behind YouTube with a combined 9.2% share. NBCU accounted for 7.1% of that total, while Versant made up the remaining 2.1%. Peacock saw a double-digit viewership increase of 15% driven by Love Island USA and the World Cup, bring the service s total share of streaming viewership to 2.6%. Love Island USA generated 4.9 billion viewing minutes in July and 11.7 billion minutes across June and July combined. The World Cup s July 5 match between Mexico and England and July 19 match between Spain and Argentina also 
+Note: This story contains spoilers from The Secret Lives of Mormon Wives Season 5. The Secret Lives of Mormon Wives did not shy away from their own scandals, placing Taylor Frankie Paul s Bachelorette fallout front and center for Season 5. The Hulu reality series was put on a production pause this spring following a domestical dispute between Paul and her ex Dakota Mortensen. Season 5, however, brings viewers back to the day that Paul returned from filming her now-shelved season of The Bachelorette. Look below for how The Secret Lives of Mormon Wives handled the Bachelorette fallout Spoiler alert Paul and the other #MomTok members were candid about what they filmed for the ABC dating show. Jessi Draper, Mayci Neeley and Mikayla Matthews all met the top three picks. The women agreed that Shane and Lew were Paul s healthier options and noticed similar toxic patterns with Doug. Her mom was also not a fan of Doug and felt like he was opportunistic. Paul revealed that she and Doug were engaged when she left the show and even told her friends that they got together in the Fantasy Suites. Doug does not appear in the Hulu reality series. The reality star did slip into past toxic patterns with her ex and baby daddy and shared that she and Mortensen slept together the night she returned to Utah from The Bachelorette. Last season she slept with him the night before she left to film the series. Paul added that it was not a one-time situation and that they had gotten together at least thr
 
 ## Collider
 
-### ‘Final Fantasy VII’ Creator Officially Addresses a Potential TV Adaptation
-Thu, 10 Sep 2026 14:37:59 GMT — https://collider.com/final-fantasy-7-tv-show-adaptation-tease/
+### Steven Spielberg's New Sci-Fi Thriller Officially Sets Streaming Debut for 2026
+Thu, 10 Sep 2026 19:05:23 GMT — https://collider.com/steven-spielberg-sci-fi-disclosure-day-streaming-peacock-october-2026/
 
-During a recent interview , when asked about the potential of a live-action Final Fantasy TV adaptation, Final Fantasy VII Revelation Game Director Naoki Hamaguchi had this to say:
+If you missed Steven Spielberg 's critics-approved alien movie in theaters earlier this summer, October may have the most pleasant surprise as the hit sci-fi thriller heads to streaming. Directed and produced by Spielberg, with a screenplay by David Koepp , the film arrived in U.S. theaters on June 12 after debuting in Paris ten days earlier to widely positive critics' reviews that still hold true today, with a Certified Fresh 79% score on Rotten Tomatoes. The masterpiece is also considered a modest financial success , having grossed $241 million worldwide on a $115 million budget after debuting at number one with $44 million domestically.
 
-### Netflix Officially Reveals Josh Hartnett’s New Supernatural Sea-Monster Thriller Series
-Thu, 10 Sep 2026 14:00:11 GMT — https://collider.com/josh-harnett-below-trailer/
+### Charlie Hunnam Officially Breaks Silence on New 'Sons of Anarchy' Spin-Off
+Thu, 10 Sep 2026 19:02:59 GMT — https://collider.com/sons-of-anarchy-spin-off-charlie-hunnam-comments/
 
-Just in time for spooky season, a new horror series is surfacing on Netflix. Josh Harnett stars in the new miniseries Below , which sees a seaside Canadian town terrorized by a monstrous creature from the deep. Now, we have a new look at the series, but not at its monster, in a new trailer before it premieres on Netflix next month.
+Best known for his role as Raleigh Becket in Guillermo del Toro ’s Pacific Rim , Charlie Hunnam has carved out a name for himself as one of the most recognizable action stars in the world. Hunnam has also worked with other acclaimed directors over the years, like Guy Ritchie — the two collaborated on the 2017 fantasy epic, King Arthur: Legend of the Sword , which bombed at the box office, grossing only $149 million globally against a $175 million budget. The studio had planned to build a franchise around the film, but this was canceled after its woeful box office performance. Hunnam is also widely known and loved thanks to his role as Jackson ‘Jax’ Teller in Sons of Anarchy , the hit motorcycle drama that was on the air for seven seasons between 2008 and 2014.
 
-### Josh Holloway Officially Enters "'Top Gun' Mode" for His High-Flying 'Ace Combat 8' Live-Action Prequel Series [Exclusive]
-Thu, 10 Sep 2026 14:00:11 GMT — https://collider.com/ace-combat-8-wings-of-theve-hour-zero-live-action-series-josh-holloway/
+### Collider Media Studio Officially Returns to TIFF for a Star-Studded Weekend
+Thu, 10 Sep 2026 19:00:11 GMT — https://collider.com/tiff-2026-media-studio/
 
-Back in December at The Game Awards , the Ace Combat series roared back to life with the announcement of its eighth installment, Wings of Theve . The latest effort from the Bandai Namco Aces team in the high-flying fighter jet simulation franchise will be its first installment made exclusively for current-generation consoles after Ace Combat 7: Skies Unknown took to the air in 2019. From the trailers alone, it looks more breathtaking than ever, with explosive action, graphics that capture the realism and intensity of screaming-fast dogfights, and an emotional story of duty and survival that puts players in the role of a legendary pilot taking up the titular mantle to inspire hope within their homeland. To drive home the emphasis on cinematic storytelling and action , Bandai is treading new ground and pairing the game with a new live-action miniseries built as a prequel to Wings of Theve and an introduction to everything Ace Combat stands for.
+Filmmakers and stars are hitting the streets of Toronto today for the 51st annual Toronto International Film Festival , and we're proud to announce that the Collider Media Studio , co-presented by Campari and The Cayman Islands , will once again return to the fest to provide exclusive interviews and content with the cast and crews.
 
-### Alan Ritchson Officially Puts 'Reacher' Behind Him For New Action Thriller [Exclusive]
-Thu, 10 Sep 2026 14:00:11 GMT — https://collider.com/runner-alan-ritchson-sneak-peek/
+### 15 Years Later, Steven Spielberg’s 13-Part Sci-Fi Series Is Still Worth Revisiting
+Thu, 10 Sep 2026 18:58:11 GMT — https://collider.com/steven-spielberg-terra-nova-la-brea/
 
-After four seasons of breaking bones, cracking skulls, and generally making life miserable for anyone foolish enough to get in his way, Alan Ritchson is temporarily putting Jack Reacher behind him. The action star is trading Prime Video ’s wandering former military investigator for a brand-new project, and this time, he's taking one of the most iconic comedy actors of all time along for the ride.
+Steven Spielberg is best known for helping define the modern blockbuster – especially with Jurassic Park . The tale of dinosaurs reborn in the modern world turned out to be a smash hit, even launching a franchise that continues today. It only makes sense that Spielberg would apply the same sense of danger and wonder to a television project, and that's exactly what happened with Terra Nova . Based on an idea by Kelly Marcel and then produced by Spielberg under his Amblin Television banner, Terra Nova would feature a premise that audiences would be reminded of years later with NBC's La Brea .
 
-### 25 Years Later, the Most Divisive Rock Band's History-Making Album Deserves Another Listen
-Thu, 10 Sep 2026 14:00:11 GMT — https://collider.com/25-years-later-nickelback-silver-side-up-deserves-another-listen/
+### Netflix's Cancelled Fantasy Franchise Is Officially Back From the Dead
+Thu, 10 Sep 2026 18:41:18 GMT — https://collider.com/netflix-the-warrior-nun-franchise-movie-tv-reboot/
 
-By the mid-to-late 90s , grunge had been around long enough to inspire a new generation of guitar-driven bands. A wave of post-grunge acts including Creed , 3 Doors Down , Puddle of Mudd , and Fuel captured mass appeal with heavy guitar riffs, radio-friendly hooks and slick production. At the dawn of the new millennium, Hard rock was having a moment and scoring mainstream success, along with pop superstars of the era like Britney Spears , NSYNC , Backstreet Boys and Christina Aguilera .
+Cancellation is a way of life for Netflix series. Many fan-favorites have been speedily renewed for a second season, only to be cut down afterward as one of the mega-streamer's cost-cutting measures. Now, however, one of the service's cult classics may be getting a second lease on life.
 
-### 'Project Hail Mary' Star’s New War Thriller Officially Proves Why It Has a Perfect 100% Rotten Tomatoes Score
-Thu, 10 Sep 2026 13:00:11 GMT — https://collider.com/fatherland-trailer-sandra-huller/
+### 'Fire Country' Star Officially Confirms Bode's Romantic Future
+Thu, 10 Sep 2026 18:30:23 GMT — https://collider.com/fire-country-season-5-bode-new-romantic-partner-max-thieriot/
 
-Ever since her breakout year in 2023 between Anatomy of a Fall and The Zone of Interest , Oscar nominee Sandra Hüller has been a hot commodity. This year, however, her rise to stardom is paying off in a big way. The German actress has already appeared alongside Ryan Gosling in one of 2026's early awards contenders, Project Hail Mary , and in less than a month, she'll join Tom Cruise for another feature expected to dig its way into the Academy Award conversation next year — Digger . Yet, in the eyes of critics, her best performance of late might not be in either project.
+A new season of Fire Country means new changes are on the horizon. The CBS firefighter drama heads into its fifth season this fall, marked by developments like a new showrunner and a reduced episode count . But even the story itself is getting an upgrade with the arrival of two new characters. For the first time since the show premiered in 2022, it will add a new series regular as Olivia Thirlby joins as CJ. This development has led viewers to speculate that Bode is getting a new partner, or maybe something more.
 
-### Tickets for 2026's Biggest Hollywood Biopic Are Officially On Sale [Exclusive]
-Thu, 10 Sep 2026 13:00:11 GMT — https://collider.com/jimmy-movie-tickets-on-sale/
+### Mel Gibson Officially Speaks Out on Jim Caviezel's Replacement in 'The Passion of the Christ' Follow-Up
+Thu, 10 Sep 2026 18:26:57 GMT — https://collider.com/mel-gibson-passion-of-the-christ-sequel-jim-caviezel-replacement-comments/
 
-Jimmy Stewart was one of the biggest movie stars of the 20th century; almost 30 years after his death, he remains an icon of the silver screen. Now, the story of his life and journey are coming to the big screen this fall in the new biopic Jimmy . Collider is proud to exclusively reveal that tickets to Jimmy are on sale now.
+After being attached to the project for more than two decades, Jim Caviezel was announced to have been replaced in The Resurrection of the Christ films. The films serve as follow-ups to Mel Gibson's culture-defining 2004 hit The Passion of the Christ , which remained the highest-grossing R-rated movie for two decades, until it was overtaken by Deadpool & Wolverine . At the same time as it was announced that Caviezel wouldn't be returning, Finnish actor Jaakko Ohtonen was revealed to be taking over the role of Jesus in the sequels. Now, Gibson has spoken about the switch, praising Ohtonen to the high heavens and teasing what fans can expect from the upcoming movies.
 
-### ‘The Paper’s Domhnall Gleeson and His Co-Stars Break Down Season 2’s Biggest Turns
-Thu, 10 Sep 2026 13:00:11 GMT — https://collider.com/the-paper-season-2-finale-domhnall-gleeson-cast-interview/
+### The Next David Lynch Just Stunned With Their Latest Horror Film
+Thu, 10 Sep 2026 18:20:11 GMT — https://collider.com/jane-schoenbrun-david-lynch-teenage-sex-and-death-at-camp-miasma/
 
-Editor’s Note: The following contains full spoilers for ‘The Paper’ Season 2 Season 2 of The Paper gives its cast more to dig into this time around, especially once work and the Toledo Truth Teller staff’s personal lives start bleeding into each other. Series star Domhnall Gleeson best put it to Collider when describing his character Ned’s problem: “I think he wanted a throuple,” the actor laughs while breaking down the sophomore season of the Peacock sitcom. That “happily ever after” throuple would have included the paper, which he loves to pieces, and his new girlfriend, Mare — played by Chelsea Frei . But as things come to a head behind the scenes, their newfound relationship impacts Mare more than Ned . She ends up at the Cincinnati Chronicle to avoid an HR nightmare but gets exactly what she always wanted from the job, admitting her character had been “losing herself a little bit” back in Toledo — and in some ways, with Ned.
+Beloved filmmaker David Lynch was the master of telling stories about people's most private fears and desires. He was obsessed with the secrets people keep, even from themselves. Given his interest in the inner-life, it's no surprise that Lynch made dream-like films, using symbols and mystery to get to the heart of a character's dilemma, eschewing linear logic in favor of emotional truth. Sometimes, this dream logic makes Lynch's films difficult to interpret, but his work rewards repeat viewings. Over a year after the death of David Lynch, an unexpected director is picking up where he left off. Jane Schoenbrun , director of We're All Going to the World's Fair and I saw the TV Glow places themself squarely in David Lynch's lineage, and Teenage Sex and Death at Camp Miasma proves they're ready to inherit the throne of surrealist film-making .
 
-### 5 ‘Batman’ Comics From the 1980s That Prove Frank Miller Is a Genius
-Thu, 10 Sep 2026 12:46:11 GMT — https://collider.com/5-batman-comics-frank-miller-1980s-history/
+### The Shards: One Costume Silhouette Gave Steven His Walk | Set Stories
+Thu, 10 Sep 2026 18:15:11 GMT — https://collider.com/video/the-shards-one-costume-silhouette-gave-steven-his-walk-set-stories/
 
-For over 85 years, Batman has remained one of the few superheroes with a massive foothold in pop culture. He dominates television, movies, and video games, but most importantly, he's still a major figure in comics. Plenty of creators have had their chance to put their stamp on the Dark Knight, whether it's Scott Snyder and Nick Dragotta radically shaking up his mythos in Absolute Batman or Chip Zdarsky and Jorge Jimenez creating the terrifying artificial intelligence known as Failsafe . Most Batman fans would argue that one creator's had an impact on the character that lasts to this day , whether it's through his work or other stories.
+Jordan Roth reveals how fashion, performance art, and a crash course in television acting shaped Steven in FX’s The Shards. From David Bowie and David Sylvian references to a lavender leather jumpsuit, Roth explains how Steven’s distinctive look became inseparable from the character.
 
-### The 10 Darkest Animated Movies of All Time, Ranked
-Thu, 10 Sep 2026 12:32:11 GMT — https://collider.com/darkest-animated-movies-ranked/
+### Batman’s Best Saga Since The Dark Knight Trilogy Officially Confirms a Major Change
+Thu, 10 Sep 2026 18:11:15 GMT — https://collider.com/absolute-batman-time-jump-confirmed-scott-snyder/
 
-Animated movies are usually associated with family-friendly entertainment aimed at kids because the use of color and creativity appeals to children with heartwarming stories. However, animation is a medium for all ages and can address many topics. As the movie industry grows, studios aim animated movies toward an older demographic, with titles such as the Spider-Verse movies.
+DC launched a separate Absolute Universe comics series in 2024 where Batman, Superman, and Wonder Woman are rebuilt from scratch with radically different lives. As of September 2026, there are 23 published Issues of Absolute Batman . Now writer Scott Snyder has revealed that coming forward is a major time jump, but he hasn’t yet revealed how big that time jump is going to be.
 

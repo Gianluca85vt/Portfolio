@@ -1,6 +1,41 @@
-# Manga — harvested 2026-09-10T14:38:32.802Z
+# Manga — harvested 2026-09-10T19:15:55.069Z
 
 ## Anime News Network
+
+### Voice Actor Mike McFarland Dies at 56 (Updated)
+Thu, 10 Sep 2026 13:12:35 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/voice-actor-mike-mcfarland-dies-at-56/.241616
+
+McFarland had brain tumor removed in January 2025, was diagnosed with glioblastoma in August 2025
+
+### Level 5's Holy Horror Mansion Game's Trailer Reveals 2027 Release for Switch 2, PS5, PC
+Thu, 10 Sep 2026 12:33:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/level-5-holy-horror-mansion-game-trailer-reveals-2027-release-for-switch-2-ps5-pc/.241630
+
+RPG features ghostly mechanics based on real-life performers
+
+### The Demons Are Planning Something Good Volumes 1-2 Manga Review
+Thu, 10 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-demons-are-planning-something-good/volumes-1-2/.241062
+
+This naughty workplace comedy benefits from its delightful streak of camaraderie; demons they might be.
+
+### Compile Heart's Villion:Code Game Heads West in 2027
+Thu, 10 Sep 2026 11:41:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/compile-heart-villion-code-game-heads-west-in-2027/.241631
+
+School RPG launches for Switch 2, Switch, PS5, PS4, PC
+
+### Straight Edge Launches Horizontal Manga Label
+Thu, 10 Sep 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/straight-edge-launches-horizontal-manga-label/.241560
+
+Straight Edge Comic label searches for original authors, manga artists, freelance editors
+
+### Yo-kai Watch 2: Haunted Domain Game's Extended Trailer Reveals PS5, PC Releases
+Thu, 10 Sep 2026 10:51:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/yo-kai-watch-2-haunted-domain-game-extended-trailer-reveals-ps5-pc-releases/.241629
+
+Updated version of Yo-kai Watch 2 3DS game also launches for Switch 2
+
+### Professor Layton and the Curious Village Game Gets Remake
+Thu, 10 Sep 2026 10:31:17 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/professor-layton-and-the-curious-village-game-gets-remake/.241627
+
+Also: <cite>Professor Layton and The New World of Steam</cite> streams new trailer, behind-the-scenes video
 
 ### Chiikawa Anime Film Rises Back to #1, Sekiro: No Defeat Opens at #9 in Japan
 Thu, 10 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/chiikawa-anime-film-rises-back-to-no.1-sekiro-no-defeat-opens-at-no.9-in-japan/.241518
@@ -27,46 +62,26 @@ Thu, 10 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Dong-geun Joo, creator of <i>All of Us Are Dead</i>, will attend the exhibition's opening on September 11
 
-### 8 Yuri Manga You're Missing Out On
-Thu, 10 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-10/8-yuri-manga-youre-missing-out-on/.241089
-
-Rebecca picks eight of her favorite girls-love manga stories to settle into.
-
-### Saga of Tanya the Evil II ‒ Episode 10
-Thu, 10 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/saga-of-tanya-the-evil-ii/episode-10/.241605
-
-As with everything in this World War, <cite>The Saga of Tanya the Evil</cite> has shown us that understanding is too late in coming for all parties involved.
-
-### Web Novel, Webtoon-Based Live-Action Series The Ordinary Jackpot Debuts on September 10
-Thu, 10 Sep 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/web-novel-webtoon-based-live-action-series-the-ordinary-jackpot-debuts-on-september-10/.241612
-
-Series follows burned-out department manager who wins lottery
-
-### Final Fantasy VII Revelation is an Overwhelming Joy
-Thu, 10 Sep 2026 08:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-10/final-fantasy-vii-revelation-is-an-overwhelming-joy/.241590
-
-I spent one hour playing <i>Final Fantasy VII Revelation</i>, and I came away impressed.
-
-### Pokémon Pokopia Game Introduces Accessories Included in Expansion Pass DLC Part 2
-Thu, 10 Sep 2026 07:42:04 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/pokemon-pokopia-game-introduces-accessories-included-in-expansion-pass-dlc-part-2/.241622
-
-DLC part 2 includes sunglasses, ribbon, bow tie accessories
-
-### Nintendo Reveals New Trailer, October 22 Launch for Nintendo Switch Sports Resort Game
-Thu, 10 Sep 2026 07:12:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/nintendo-reveals-new-trailer-october-22-launch-for-nintendo-switch-sports-resort-game/.241623
-
-Successor game to <cite>Wii Sports Resort</cite> launches for Switch 2
-
-### Mega Man Dual Override Game Announces Spring 2027 Launch
-Thu, 10 Sep 2026 07:01:13 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/mega-man-dual-override-game-announces-spring-2027-launch/.241619
-
-Game launches for Switch, Switch 2, Xbox Series XS, Steam, Epic Games Store
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Dangers in My Heart Manga Ends on September 15 After Eight and a Half Years
+Thu, 10 Sep 2026 15:38:24 GMT — https://animecorner.me/the-dangers-in-my-heart-manga-ends-on-september-15-after-eight-and-a-half-years/
+
+Norio Sakurai's The Dangers in My Heart (BokuYaba) manga will officially end with its final chapter on September 15, 2026.
+
+### One Piece Heads to CCXP26 in Brazil With Giant Gear 2, Gear 4 and Gear 5 Luffy Displays
+Thu, 10 Sep 2026 15:14:34 GMT — https://animecorner.me/one-piece-heads-to-ccxp26-in-brazil-with-giant-gear-2-gear-4-and-gear-5-luffy-displays/
+
+ONE PIECE will have an official presence at CCXP26 in Sao Paulo, Brazil, which will be held from December 3 to 6, 2026.
+
+### BanG Dream! Releases Yumemita x Our Notes Story Trailer
+Thu, 10 Sep 2026 14:41:42 GMT — https://animecorner.me/bang-dream-releases-yumemita-x-our-notes-story-trailer/
+
+A story link trailer for BanG Dream! YUME∞MITA has been released, announcing that the&hellip;
 
 ### Witch on the Holy Night Anime Movie Hits Theaters Worldwide in January 2027, in North America on January 29
 Thu, 10 Sep 2026 13:07:13 GMT — https://animecorner.me/witch-on-the-holy-night-anime-movie-hits-theaters-worldwide-in-january-2027-in-north-america-on-january-29/
@@ -113,21 +128,6 @@ Thu, 10 Sep 2026 04:03:00 GMT — https://animecorner.me/interview-amagi-brillia
 
 During his visit to the French convention Japan Expo Paris, novelist and screenwriter Shoji&hellip;
 
-### New Naruto Anime Film Announcement Expected at New York Comic Con 2026 (Variety)
-Wed, 09 Sep 2026 21:12:44 GMT — https://animecorner.me/new-naruto-anime-film-announcement-expected-at-new-york-comic-con-2026-variety/
-
-A new anime film for the NARUTO franchise is expected to be announced at New York Comic Con 2026, taking place in October.
-
-### Ninja Scroll 4K Remaster Sets October 4, 5 and 7 North American Theatrical Release, Exclusive Still Available
-Wed, 09 Sep 2026 18:39:44 GMT — https://animecorner.me/ninja-scroll-4k-remaster-sets-october-4-5-and-7-north-american-theatrical-release-exclusive-still-available/
-
-Tickets are now on sale for the limited North American theatrical release of the&hellip;
-
-### SSS-Class Revival Hunter Manhwa Announces Anime Adaptation for January 2027, Reveals First Teaser, Visual, Cast
-Wed, 09 Sep 2026 18:18:45 GMT — https://animecorner.me/sss-class-revival-hunter-manhwa-announces-anime-adaptation-for-january-2027-reveals-first-teaser-visual-cast/
-
-The anime adaptation of SSS-Class Revival Hunter will premiere in January 2027, with a teaser visual, first trailer, main cast and staff revealed.
-
 ## MyAnimeList News
 
 ### Manga Eat-Man Gets New Anime Adaptation
@@ -170,16 +170,21 @@ Tue, 08 Sep 2026 20:22:49 -0700 — https://myanimelist.net/news/74690257?_locat
 
 The official website for the television anime adaptation of Asa Rokushima s Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? (The Laid-Off Cheat-Granting Mage Enjoys a New Life: I Can Add "Enhancement Points" Not Just to Weapons but to Anything, and I Can Cancel the Effects Whenever I Want,...
 
-### Broadcast of Junket Bank Postponed
-Tue, 08 Sep 2026 10:06:39 -0700 — https://myanimelist.net/news/74688429?_location=rss
-
-The official website of the Junket Bank anime series announced on Tuesday that the broadcast has been postponed indefinitely. The anime series adapted from Ikkou Tanaka s Junket Bank gambling thriller manga was originally planned to premiere October 2026. A new broadcast date has yet to be announced. The staff explained that additional production time is necessary to meet the expectations of fans and to match the quality of the original work. Seiji Kishi (Ansatsu Kyoushitsu) is directing th...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### ARRIETTY comes to IMAX® for the very first time in the UK and Ireland in October
+Thu, 10 Sep 2026 17:00:45 +0000 — https://animeuknews.net/2026/09/arrietty-comes-to-imax-for-the-very-first-time-in-the-uk-and-ireland-newly-remastered-in-4k-in-october/
+
+ARRIETTY will release in IMAX and cinemas both in the original Japanese with English subtitles and the 2011 English dub produced in the UK
+
+### Crunchyroll Announces Acquisition and Theatrical Dates for New Anime Feature Film WITCH ON THE HOLY NIGHT
+Thu, 10 Sep 2026 16:30:43 +0000 — https://animeuknews.net/2026/09/crunchyroll-announces-acquisition-and-theatrical-dates-for-new-anime-feature-film-witch-on-the-holy-night/
+
+Crunchyroll and Sony Pictures Entertainment will bring the latest project from famed animation studio ufotable to cinemas from 29th January, 2027
 
 ### Don’t Confuse Me, Yamori-kun Volume 1 Review
 Thu, 10 Sep 2026 09:00:03 +0000 — https://animeuknews.net/2026/09/dont-confuse-me-yamori-kun-volume-1-review/

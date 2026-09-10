@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-10T14:38:32.802Z
+# Tech — harvested 2026-09-10T19:15:55.069Z
 
 ## Ars Technica
 
@@ -64,6 +64,36 @@ Nearly every country represented in the United Nations General Assembly recently
 
 ## The Verge
 
+### Amazon’s Fire TV Stick 4K is over half off at under $20
+2026-09-10T12:58:44-04:00 — https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale
+
+Amazon’s Fire TV Stick 4K is fast and capable. | Image: The Verge Looking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupon code FIRE30 at checkout. With support for Wi-Fi 6 and 2GB of memory, it’s fast enough for streaming movies or playing games with Xbox Cloud Gaming or Nvidia GeForce Now. While this is the 2023 model, it’s functionally identical (and also has the same specs) to the current Fire TV Stick 4K Plus that costs considerably more. It received a name change in late 2025 to differentiate it from the more basic 4K Select model. Amazon Fire TV Stick 4K Where to Buy: $49.99 $16.09 at Woot (with coupon code FIRE30) Like the other 4K Fire TV sticks, the 2023 model supports a huge variety of streaming services and apps, and the Alexa Plus voice assistant feature lets you quickly find a show or movie without having to scroll through each one. With support for Dolby Vision, HDR10 Plus, and Dolby Atmos, you won’t have to compromise on video or audio quality during your next movie night. Other deals to consider Green Man Gaming has the Steam version of Resident Evil Requiem on sale for $41.64, with the full discount showing up once you add it to your cart. This iteration of the game tasks players with investigating a series of murders related to the 1998 Raccoon City incident, a core piece of lore for
+
+### Electric air taxis get the green light for test flights in Texas
+2026-09-10T12:00:00-04:00 — https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas
+
+A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, the Federal Aviation Administration's Advanced Air Mobility and Electric Vertical Takeoff and Landing (eVTOL) Integration Pilot Program (eIPP) selected eight state-led projects to serve as some of the first public tests of these new aircraft. The first one kicks off today in Texas, featuring three eVTOL companies: Joby, Beta, and Wisk. For the next week, these companies will conduct test flights demonstrating future routes … Read the full story at The Verge. ]]>
+
+### Universal Music is launching an AI music platform with ElevenLabs
+2026-09-10T11:38:19-04:00 — https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai
+
+Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday . The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes in AI voice and music generation. Artists can choose whether to participate in UMG and ElevenLabs' upcoming platform, which marks yet another AI deal for the record label. UMG is currently developing an AI music platform with Udio and has struck AI licensing deals with Spotify , Nvidia , and Kla … Read the full story at The Verge. ]]>
+
+### Where to preorder the new Apple Watch Series 12 and Ultra 4
+2026-09-10T11:00:00-04:00 — https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy
+
+The iPhone Duo was the unequivocal star of Apple's "Surprise and shine" event , but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4 . There's no update to the SE model for 2026, which isn't necessarily a bad thing ( the SE 3 rules ). Also, no price changes either, which can't be said for the entire iPhone lineup . While both new watches look similar to their predecessors, there are a number of updates under the hood that might intrigue some people enough to warrant a preorder. My colleague Victoria Song got hands-on with both smartwatches , … Read the full story at The Verge. ]]>
+
+### Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game
+2026-09-10T11:00:00-04:00 — https://www.theverge.com/games/992937/wolverine-review-ps5
+
+Marvel's Wolverine captures just how angry its lead character is. The latest PS5 exclusive from Spider-Man developer Insomniac , Wolverine is a straightforward action game that is at its best when you're (literally) slicing through enemies or thrust into a sequence pulled from a blockbuster movie, like climbing the fuselage of a plane as it careens toward land or racing a motorcycle across rain-slicked city streets. It's the kind of game that can really get your heart rate rising, and keeping Logan mad is a key part of the strategy. In many ways, it's a throwback to straightforward action titles of the past - and it's a refreshing change of p … Read the full story at The Verge. ]]>
+
+### Meta’s Muse AI works and creeps me out
+2026-09-10T11:00:00-04:00 — https://www.theverge.com/tech/993391/meta-muse-ai-hands-on
+
+I turned my Muse assistant into a purple cat. | Screenshot: The Verge Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can "take the busywork off your plate" by helping you with online shopping , emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - especially from a company that previously prioritized entertainment over productivity. Though the AI assistant generally worked as I expected it to, the unnerving amount of information it autonomously gleaned about me largely overshadowed my experience. One of the first tasks I assigned Muse, which carries out actions using … Read the full story at The Verge. ]]>
+
 ### Another big James Talarico interview is punted to YouTube due to FCC threats
 2026-09-10T10:34:36-04:00 — https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico
 
@@ -84,37 +114,22 @@ The Apple iPhone Duo features a passport-style folding hinge. | Photo: Antonio G
 
 This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder , Nilay s show about big ideas and other problems. This is Nick Statt, senior producer. And I m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is the person who hosts the show, and his name is also in the show. So it makes sense. Nilay Patel: It s true. We don t consistently say my name in the show enough. We should do it all the time. I should do it. Welcome to Decoder with Nilay Patel. GO: Like Nick was saying, this is Nilay s show and we are doing a mailbag episode. This is where we go through all the feedback. Because you listen to the end of every episode, we know you do. We do mention that we go through every single email that we get. Nick, you can verify that. We get a ton of email, and we do read through all of it. Is that true? NS: We now get YouTube comments. We get many, many Verge comments. We get Spotify comments and posts on Bluesky, Threads, and elsewhere. So yeah, we get a lot of feedback. I do feel like promising we ll read all the YouTube comments is an emotional commitment that we re making, but we do read everything. GO: We do. NS: I do read the Spotify comments. I read every one because those are specifically pretty pointed. GO: Yeah. They re kind of like uncut gems. Because they re trying to build this little community, somebody might read this because it only gets like six com
 
-### New standards for masculinity are stacked against men’s health
-2026-09-10T10:00:00-04:00 — https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health
-
-This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here . Whenever the algorithm serves up a steaming pile of looksmaxxing, I flash back to an old sketch from That Mitchell and Webb Look . An ordinary woman is told by a commercial narrator that she's "leaking, hairy, aging, overweight, and everything hurts." Women, the smug narrator says, for god's sake, sort yourselves out by buying roughly $300 of products. After a jump cut, an average man is told to shave and get drunk, guitars blari … Read the full story at The Verge. ]]>
-
-### Snapchat makes it easier to plan events and meetups
-2026-09-10T09:00:00-04:00 — https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups
-
-Plan your next event with friends without ever leaving the app. | Image: Snap Snapchat is launching Plans, a new suite of features designed to help turn the plans already being made in group chats - everything from birthday celebrations to study sessions and weekend hangouts - into real life get-togethers without ever leaving the app. Plans lets users set event details, invite up to 200 friends with invitations adorned with dynamic Bitmoji that change as friends respond, and track RSVPs. Invites are sent via one-to-one chat and reminders are automatically sent to attendees before the scheduled event starts. A dedicated "My Plans" tab on user profiles lets you keep track of upcoming and past plans. Snap is strugglin … Read the full story at The Verge. ]]>
-
-### Mathematicians want proof OpenAI didn’t use their work
-2026-09-10T07:00:57-04:00 — https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data
-
-Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center. | Bloomberg via Getty Images Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and "dishonest" behavior and a lack of transparency about the origins of its training data. In a series of posts on Mastodon, mathematician Andreas Thom raised concerns that interactions he and his colleagues had had with the ChatGPT chatbot before OpenAI's triumphant announcement may have contributed to its success in the field. One of the … Read the full story at The Verge. ]]>
-
-### The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera
-2026-09-10T06:00:00-04:00 — https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography
-
-The iPhone 18 Pro’s triple camera setup with a variable aperture in the main (bottom) camera. | Photo: Antonio G. Di Benedetto / The Verge Apple always makes a big show of the latest cameras in its phones, and the major talking point of the iPhone 18 Pro is about the new variable aperture . Both the iPhone 18 Pro and Pro Max have an adjustable mechanical iris in their main camera modules to let more or less light into the sensor, allowing users to shoot at f/1.48, f/1.8, f/2.8, and f/4. You can, of course, let the camera select your aperture automatically, but the manual aperture control comes along with other new pro controls allowing you to dial in shutter speeds, manual white balance, and even manual focusing. I was at the iPhone keynote at Apple Park , and I got to briefly u … Read the full story at The Verge. ]]>
-
-### The Trump phone just got a $250 price hike
-2026-09-10T05:13:04-04:00 — https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike
-
-It’s going to take a lot more gold coins to buy the Trump Phone now. | Photo: Amelia Holowaty Krales / The Verge Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead quietly changing its website overnight . This wasn't a total surprise though, especially given the phone ships with an unexpectedly generous 512GB of storage and 12GB of RAM. When I spoke to two Trump Mobile executives earlier this year, they called the $499 launch pricing "introductory," and a few months later , the website itself was changed to reflect that, calling it a "promotional price." That wording is now gone. When I reviewed th … Read the full story at The Verge. ]]>
-
-### Nintendo’s latest Switch 2 update adds VRR support in TV mode
-2026-09-10T05:07:00-04:00 — https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update
-
-Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when it's docked and in TV mode. VRR adjusts a display's refresh rate to match a game's frame rate, smoothing out gameplay and reducing screen tearing. It will be particularly useful for games on the Switch 2 that have an unstable frame rate, and it's a feature that the PS5 and Xbox Series S / X all support. The latest Switch 2 firmware also includes a new toggle for handheld boost mode in quick settings, as well as an update to … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### AMD releases new Ryzen 5 5500F and Ryzen 5 7500 to save budget PC building — new budget Zen 3 and Zen 4 CPUs to soften the blow from high RAM prices
+Thu, 10 Sep 2026 17:54:53 +0000 — https://www.tomshardware.com/pc-components/cpus/amd-releases-new-ryzen-5-5500f-and-ryzen-5-7500-to-save-budget-pc-building-new-budget-zen-3-and-zen-4-cpus-to-soften-the-blow-from-high-ram-prices
+
+AMD has officially launched the Ryzen 5 5500F and Ryzen 5 7500, two strong contenders for the best CPUs on the market if you're on a budget. Both are hexa-core chips, with the Ryzen 5 5500F featuring AMD's Zen 3 execution cores and the Ryzen 5 7500 using the newer Zen 4 execution cores. The Ryzen 5 5500F and Ryzen 5 7500, priced at $99 and $189, respectively, are available at U.S. retailers starting today. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent The Ryzen 5 5500F, despite its similar model name to the Ryzen 5 5500 , belongs to a different family in AMD's portfolio. The Ryzen 5 5500F hails from the Ryzen 5000 series (codenamed Vermeer), which uses a multi-chiplet architecture. Meanwhile, the Ryzen 5 5500 comes from the Ryzen 5000G series (codenamed Cezanne), which uses a monolithic die design. Therefore, it is more sound to call the Ryzen 5 5500F a lower-binned version of the Ryzen 5 5600 , rather than an iGPU-less variant of the Ryzen 5 5500, which lacks integrated graphics to begin with. The distinction matters because the Ryzen 5 5500F is close to the Ryzen 5 5600, albeit with a 500 MHz lower boos
+
+### Apple’s new A20 Pro smartphone chip around 25% faster than its predecessor in leaked benchmark — the 2nm CPU in the iPhone Duo and 18 Pro hits nearly 5 GHz clocks
+Thu, 10 Sep 2026 16:04:10 +0000 — https://www.tomshardware.com/pc-components/cpus/apples-new-a20-pro-smartphone-chip-around-25-percent-faster-than-its-predecessor-in-leaked-benchmark-the-2nm-cpu-in-the-iphone-duo-and-18-pro-hits-nearly-5-ghz-clocks
+
+We reported on the new Apple A20 Pro system-on-a-chip (SoC) for smartphones yesterday, an integral attraction within Apple’s first foldable, the iPhone Duo, and in the iPhone 18 Pro devices. Now the first A20 Geekbench 6 benchmark results are starting to pop up online, and they’re very impressive, particularly in single-core performance. If the result spotted by Longhorn is a typical one, the 4,719 single-core and 12,677 multi-core scores mean the new A20 is around 25% faster than its predecessor. Its single-core score can also make some of the best PC CPUs look anemic. huhApple A20 Pro Geekbench 6 numbers 🫠https://t.co/py5rdZ1ekk pic.twitter.com/Snrn9lTks9 September 10, 2026 Apple’s official performance claims are interesting, as usual, but we’re always happy to see the third-party performance indicators start to emerge ahead of independent reviews. Heralding its new 2nm silicon yesterday, Apple might have actually understated the boost the A20 can deliver, with the official line about this “desktop-class” processor being the “fastest CPU in a smartphone,” and a claim that it is ‘just’ 20% faster than the previous gen. However, Geekbench isn’t the best indicator of real-world performance, and this is just a sample of one to sprinkle salt upon. What are numbers without relevant comparisons, though? For more perspective on Apple’s newest silicon, which might also be thrown into a new Neo laptop (or desktop) in the coming months, check out the table below. Apple A20 performanc
+
+### This $399 Elegoo Centauri Carbon 2 Combo with $1 filament is the perfect 3D printer deal for beginners — flash sale discount nets you a Core XY printer with four-color system and auto bed leveling
+Thu, 10 Sep 2026 15:00:00 +0000 — https://www.tomshardware.com/3d-printing/this-usd399-elegoo-centauri-carbon-2-combo-deal-with-usd1-filament-is-the-perfect-3d-printer-deal-for-beginners-flash-sale-discount-nets-you-a-core-xy-printer-with-four-color-system-and-auto-bed-leveling
+
+Elegoo is running a special sale on new 3D printers throughout September, in celebration of its community of makers. The Elegoo Day sale means that, right now, you can pick up an Elegoo Centuari Carbon 2 Combo, along with 1KG of filament, for just $400 . You can actually secure it for $399, but the extra dollar nets you 1KG of PLA filament on top, which seems like a fair trade. ● Check out this deal at Elegoo Introduced earlier in the year, this stripped-down version of the Centauri Carbon 2 scored 3.5 stars in our review . It's the cheaper model, with some missing features compared to its bigger sibling, but it's a worthy option for beginner makers, especially given its price. In terms of specs, you're getting a Core XY 3D printer that uses the Canvas four-color system, with instant color switching and smart filament detection, and with a build volume of 256 x 256 x 256mm. You can expect to hit temperatures between 110C and 350C with this bed, which means you're able to print with some of the more problematic filament types like PET-GF and PCTG, although the printer offers support for a variety of materials, including PLA, PETG, TPU, and ABS. Centauri Carbon 2 Combo with 1KG filament for $1: was $449 now $400 The Elegoo Centauri Carbon 2 combo offers a build volume of 256 x 256 x 256 mm and supports multi-material and multi-color 3D printing on a budget. Pay an extra $1 for 1KG of filament on top of your order. Grab the Centauri Carbon 2 Combo on its own for $399 instead wit
 
 ### Minecraft-spawned crypto kingpin faces 20 years for $245 million heist — mastermind's role in hacking campaign fueled their supercar, bodyguards, and private jet habit
 Thu, 10 Sep 2026 14:25:28 +0000 — https://www.tomshardware.com/tech-industry/cryptocurrency/minecraft-spawned-crypto-kingpin-faces-20-years-for-usd245-million-heist-masterminds-role-in-hacking-campaign-fueled-their-supercar-bodyguards-and-private-jet-habit
@@ -161,22 +176,22 @@ Thu, 10 Sep 2026 11:20:00 +0000 — https://www.tomshardware.com/tech-industry/s
 
 ASML, Intel, Samsung, and TSMC are teaming up to drive the industry transition to 6×12-inch photomasks (reticles). This shift is paramount for High-NA EUV lithography, as the larger stencil would enable printing large chips in a single pass, instead of having to stitch smaller designs together, as ASML explained in a press release this week. This kind of collaboration between chipmakers isn't entirely unheard of, but it is rare. But when they face an industry-wide challenge, they set aside their rivalry and join forces to move the industry forward. This happened several times in recent decades, first with the failed transition to 450-mm wafers co-funded by GlobalFoundries, IBM, Intel, Samsung, TSMC, and New York State, then with the EUV transition, which was spearheaded by Intel, TSMC, and Samsung. Higher resolution comes with a nuance High-NA EUV lithography is a major step forward from today's Low-NA EUV tools. With a numerical aperture of 0.55, High-NA systems can achieve an 8nm single-exposure resolution, compared with 13nm for 0.33-NA EUV scanners. The higher resolution enables chipmakers to pattern smaller, denser features in a single exposure, replacing complex Low-NA EUV multipatterning schemes with a single High-NA exposure. This can reduce the number of masks and process steps, shorten manufacturing cycle times, and potentially improve pattern fidelity and yields, especially on critical layers of next-generation process technologies. However, this improvement comes 
 
-### Developer uses Claude to vibe code a Windows 3.1 shell in an hour — reanimated 12MB retro launcher runs on both Windows 11 and Apple Silicon
-Thu, 10 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/software/windows/developer-uses-claude-to-vibe-code-a-windows-3-1-shell-in-an-hour-reanimated-12mb-retro-launcher-runs-on-both-windows-11-and-apple-silicon
-
-If you are yearning for a quick-shot retro Windows experience on your modern Windows 11 or macOS system, then there’s a new vibe-coded clone of the Windows 3.1 Program Manager that may interest you. Developer Mayuki has released a neat little nostalgia project dubbed ReProgman – named after the ancient Windows 3.1 ‘progman.exe ’, which was the primary shell of the era – until Windows 95 swept it away three decades ago. ReProgman macOS screenshot (Image credit: Developer Mayuki on GitHub ) ReProgman looks pretty authentic to my eyes, and it brought back memories of why I wasn’t sad to see it shrivel away from Windows machines. In a social media post about the release of ReProgman, Mayuki seems to agree with my sentiments. “I asked Claude to create a clone of the Windows 3.1 Program Manager,” wrote the developer (machine translation). “I think you'll enjoy reminiscing with it for about 30 seconds.” Claude Code worked pretty swiftly to churn out this clone of the Windows 3.1 shell. The first version that was precipitated in about an hour was “pretty decent” but needed some effort to iron out the wrinkles. Then Mayuki complains again that actually using ReProgman induced boredom after about half a minute of usage. The end-user-ready releases of ReProgman weigh in at between 12 and 16MB, so they are quite a trivial download and don’t need installing. Thus, it isn’t very taxing to give them a try for a spot of nostalgia-tinted navigation around your present system’s programs and fi
-
-### Save $250 on this 1080p-ready gaming laptop with an RTX 5060, now just $1049 — MSI Cyborg 15 rig ships with a 15.6-inch 144Hz display, 16GB DDR5 RAM, and an eight-core Intel CPU
-Thu, 10 Sep 2026 10:53:35 +0000 — https://www.tomshardware.com/laptops/gaming-laptops/save-usd250-on-this-1080p-ready-gaming-laptop-with-an-rtx-5060-now-just-usd1049-msi-cyborg-15-rig-ships-with-a-15-6-inch-144hz-display-16gb-ddr5-ram-and-an-eight-core-intel-cpu
-
-A cracking deal at Walmart could set you up with a brand new gaming laptop, capable of hitting high frame rates at 1080p. This MSI Cyborg 15 gaming laptop is down to $1,049 right now , a saving of $250, and it makes it one of the best value machines you can buy for gaming right now, especially considering the specs. ● Check out this deal at Walmart This laptop was $100 cheaper last month, but given the AI-fueled boom in PC hardware prices, that's a modest increase for a laptop that is still good value at this price. You're getting a 15.6-inch 1080p display with this MSI laptop, featuring a decent 144Hz refresh rate. The Nvidia GeForce RTX 5060, meanwhile, is the best component in this rig. You're ditching integrated graphics for a current-gen Nvidia Blackwell GPU with 8GB VRAM and 3,328 CUDA cores. With Nvidia DLSS support enabling multi-frame generation for the most intensive games, you're going to easily hit high frame rates in games on this 1080p display. The CPU, meanwhile, is an eight-core Intel Core 5 210H CPU, featuring four performance and four efficient cores apiece. You're also getting 16GB of DDR5-5600 RAM, which is a plus, as you're not settling for slower DDR4 speeds. A small compromise, given the price, is the 512GB SSD, which is still Gen 4, so it won't be particularly slow. RTX 5060 Enjoy buttery-smooth gaming with the RTX 5060-powered Cyborg 15, coupled with the 8-core Intel Core 5 210H CPU and 16 GB RAM. Featuring a sleek design, plenty of battery life, and 
-
-### Steam enforces Australian age verification via credit cards — debit card glitches and low credit adoption alienate core gamers, privacy-first mindset leads to dearth of options that may hinder consumers
-Thu, 10 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/video-games/pc-gaming/steam-enforces-australian-age-verification-via-credit-cards-debit-card-glitches-and-low-credit-adoption-alienate-core-gamers-privacy-first-mindset-leads-to-dearth-of-options-that-may-hinder-consumers
-
-Today is September 9, and the significance of the date for Australian consumers is that, by law, buying online apps and games now requires an over-18 age verification step. The local law isn't specific about the exact type of verification, only that it offers "appropriate age assurance measures." Valve is complying by asking for a bank card rather than government ID or a biometric check. The problem in the land down under is that while credit cards seemingly all work, debit card support is spotty and conditional. This situation isn't unique, as it's basically a repeat of the same existing scenario in the United Kingdom. Valve's privacy-minded approach is laudable, as a bank card only links a payment method to a name and address. Meanwhile, a government ID is a more dangerous document if it gets leaked; face scans are quite fallible and revealing, and biometrics are intrinsic to the person and not replaceable if exposed — unlike bank cards, which can be canceled and swapped in minutes. However, having a card check as the only verification option is causing problems, and many users are already asking for other means of verification, even if they're more invasive, citing Xbox and Sony's services as more accommodating. Since credit cards in Australia (and the UK) can only be issued to adults, they work fine for Steam verification. Debit cards, on the other hand, can be carried by minors, and they're only valid for age checks under specific conditions. For now, that seems to be th
-
 ## Phoronix
+
+### Ubuntu 24.04.5 LTS Released With Linux 7.0 HWE Stack
+Thu, 10 Sep 2026 13:49:03 -0400 — https://www.phoronix.com/news/Ubuntu-24.04.5-LTS
+
+For those continuing to make use of the Ubuntu 24.04 Long Term Support "LTS" series, Ubuntu 24.04.5 LTS is out today as the newest point release...
+
+### Intel Xeon 600 Workstation Performance vs. AMD Threadripper 9000 In Nearly 400 Benchmarks
+Thu, 10 Sep 2026 12:43:00 -0400 — https://www.phoronix.com/review/intel-xeon-600-amd-threadripper-9000
+
+Last month I had the chance to test the Xeon 678X workstation processor as my first hands-on opportunity with the Xeon 600 "Granite Rapids WS" series. The Intel Xeon 678X was within the HP Z4 G6i workstation and used it for a number of different benchmarks. In that HP workstation review were also some comparison points to the likes of AMD Ryzen Threadripper while in this article are some much more concentrated benchmarks between the competing Xeon 600 series and AMD Ryzen Threadripper 9000 series for workstations. Nearly 400 benchmarks plus power and frequency comparison too.
+
+### KDE Plasma 6.8 Beta Released With Many Great Improvements, Kup Backup Scheduler
+Thu, 10 Sep 2026 12:39:24 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.8-Beta
+
+Ahead of the stable release of Plasma 6.8 due out on 14 October that also marks the 30th anniversary of the KDE project, out today is the much anticipated beta release...
 
 ### Intel BFF Driver Slated For Linux 7.4 Introduction
 Thu, 10 Sep 2026 08:54:35 -0400 — https://www.phoronix.com/news/Intel-BFF-Driver-For-Linux-7.4
@@ -223,22 +238,12 @@ Wed, 09 Sep 2026 12:10:00 -0400 — https://www.phoronix.com/review/msi-b850p-co
 
 Earlier this year the 3mdeb firmware consulting firm ported AMD openSIL CPU open-source silicon initialization library and Coreboot to an EPYC motherboard, the Gigabyte MZ33-AR1. Their next feat now achieved is bringing AMD openSIL and Coreboot to a desktop AMD Ryzen motherboard with their downstream Dasharo firmware solution. I have been running this alternative firmware on the MSI PRO B850P WiFi motherboard and it s been working out and performing well as an alternative to the closed-up motherboard firmware.
 
-### XWayland 26.1 RC2 Released For Testing With More Fixes
-Wed, 09 Sep 2026 11:52:32 -0400 — https://www.phoronix.com/news/XWayland-26.1-RC2
-
-Following last month's initial release candidate of XWayland 26.1 with its many new features, a second release candidate is now available with a number of fixes...
-
-### System76 Launches The Thelio Mira AI With AMD Ryzen + NVIDIA Or AMD Graphics
-Wed, 09 Sep 2026 10:57:09 -0400 — https://www.phoronix.com/news/System76-Thelio-Mira-AI
-
-System76 today unveiled their newest desktop computer as the Thelio Mira AI. The System76 Thelio Mira AI is designed for multi-GPU AI training, model fine-tuning, AI inferencing, computer vision and image generation tasks on tthe AI side. Or with its AMD Ryzen 9000 series CPU and NVIDIA/AMD GPU options is also a good candidate for simulations and other HPC-type workloads...
-
-### OpenSSL 4.1 Alpha 1 Released With DTLS 1.3, GREASE & More AVX-512 Optimizations
-Wed, 09 Sep 2026 10:46:00 -0400 — https://www.phoronix.com/news/OpenSSL-4.1-Alpha-1
-
-The first alpha release of the upcoming OpenSSL 4.1 release is now available for testing with some GREASE and DTLS 1.3 support along with more AVX-512 performance optimizations...
-
 ## The Register
+
+### Azure SQL Data Sync stops taking newcomers before 2027 execution
+Thu, 10 Sep 2026 16:47:00 +0200 — https://www.theregister.com/databases/2026/09/10/azure-sql-data-sync-stops-taking-newcomers-before-2027-execution/5295579
+
+Microsoft has entered the final phase of retiring Azure SQL Data Sync, blocking new deployments in subscriptions that have never used the service. The restriction took effect on September 9, ahead of the service's shutdown on September 30, 2027. Subscriptions that already use the service can continue creating, modifying, and managing sync groups and member databases until retirement. Other subscriptions can no longer adopt it. The service uses a hub-and-spoke model, with an Azure SQL database serving as the hub and other databases joining its synchronization group. Members can be other Azure SQL databases or on-premises SQL Server databases, which require a sync agent. A conflict resolution policy determines whether the hub or member database takes precedence when changes clash. SQL Data Sync supports scenarios including hybrid environments, in which applications and databases are split between local infrastructure and Azure, as well as geographically distributed applications. Microsoft acknowledged that customers will need to choose among several possible replacements. It offered little technical explanation for the retirement, referring only to evolving "operational, security, and compliance requirements." Microsoft announced the retirement two years ago, but blocking first-time deployments gives customers another reason to begin planning their transition. Microsoft lists alternatives including Azure Data Factory, Azure Functions, read replicas, linked servers, database mir
 
 ### Nscale swallows lion's share of UK datacenter investment
 Thu, 10 Sep 2026 16:08:00 +0200 — https://www.theregister.com/on-prem/2026/09/10/nscale-swallows-lions-share-of-uk-datacenter-investment/5295541
@@ -295,12 +300,52 @@ Thu, 10 Sep 2026 06:53:32 +0200 — https://www.theregister.com/software/2026/09
 
 Microsoft has found another use for AI: providing an off-ramp for Salesforce customers. The software giant on Wednesday gave the world “Dynamics 365 Activate,” software that executive veep for Apps and Agents Jeff Teper described as “a comprehensive, AI-powered tool that can help partners and customers move to Dynamics 365 faster, with less manual effort and lower migration risk.” Microsoft has made the tool available as a public preview that can convert Salesforce implementations to its own SaaS-y Dynamics 365 offering. The company promises it will launch “additional CRM and ERP migration scenarios” starting “later this year.” The software behemoth’s vision for this tool is to create “one agentic implementation experience” that covers starting a new business or business process, migration from an existing tool like Salesforce, or to grow a business that already runs Dynamics. Microsoft’s explanation for how AI can move a major business application says its AI-powered convert-o-tronic machine can profile “data and entities, identify relationships and dependencies, and surface customizations that require attention.” That process apparently “gives implementation teams a clearer blueprint for what should move, what should change, and what should be redesigned before migration begins.” For Salesforce, the tool “will analyze an existing … CRM environment and build a detailed understanding of its data, business processes, customizations, and dependencies.” Microsoft’s partners are 
 
-### VMware defends ending downloads of SDK that helps VM backups– or migrations to rivals
-Thu, 10 Sep 2026 04:05:58 +0200 — https://www.theregister.com/virtualization/2026/09/10/vmware-defends-ending-downloads-of-sdk-that-helps-vm-backups-or-migrations-to-rivals/5295421
-
-VMware has defended its decision to end public downloads of its Virtual Disk Development Kit (VDDK). VDDK is an SDK that a Broadcom technical document describes as “a set of libraries and utilities that enable software developers to create applications that can access and manipulate virtual disks used” and also “provides APIs for backup and recovery, cloning, and other operations on virtual disks.” Those qualiies mean VDDK is also useful when moving VMs from VMware to another virtualization environment. VMware’s rivals spotted that and made VDDK part of their migration tools. Nutanix’s Move, for example, requires a VDDK library to do the job. Red Hat also recommends using VDDK for migrations. ShapeBlue, an integrator that specializes in Apache CloudStack, an alternative to VMware, rates VDDK as an important part of migration tools. “The virt-v2v engine that sits underneath most VMware-to-KVM conversion work supports VDDK as an input transport,” the company wrote in late August. ShapeBlue’s post appeared a day or two after VMware, without fanfare or an explanation, took down the web pages that offered VDDK downloads. “A vendor is entitled to change how it distributes an SDK,” ShapeBlue wrote. “Doing it without a word, while the Apache CloudStack administration guide and other projects’ install instructions still tell people to click a link that no longer resolves, is something else.” “The cost lands unevenly too,” the company added. “A large backup vendor with a partner relati
-
 ## Engadget
+
+### IDScan is offering free credit monitoring and ID protection after leaking driver's licenses
+Thu, 10 Sep 2026 18:40:00 +0000 — https://www.engadget.com/2255209/idscan-is-offering-free-credit-monitoring-and-id-protection-after-leaking-drivers-licenses/
+
+The platform was linked to an FBI investigation into a dark web marketplace last week.
+
+### A native Gemini app is finally available for Windows PCs
+Thu, 10 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2255197/a-native-gemini-app-is-finally-available-for-windows-pcs/
+
+There's a keyboard shortcut to open it up, just like the Mac version.
+
+### How to watch the Flame Fatales 2026 speedrunning marathon
+Thu, 10 Sep 2026 18:25:12 +0000 — https://www.engadget.com/2255188/how-to-watch-the-flame-fatales-2026-speedrunning-marathon/
+
+The fundraiser for Malala Fund runs September 13-19.
+
+### The latest Avatar: Seven Havens trailer gives us a deeper dive into the characters and story
+Thu, 10 Sep 2026 17:15:54 +0000 — https://www.engadget.com/2255071/the-latest-avatar-seven-havens-trailer-gives-us-a-deeper-dive-into-the-characters-and-story/
+
+It's also pretty easy on the eyes.
+
+### Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform
+Thu, 10 Sep 2026 17:01:52 +0000 — https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/
+
+The unnamed software will be built around licensed music from UMG artists who want to participate.
+
+### Yoto just announced two new audio devices for kids
+Thu, 10 Sep 2026 15:47:08 +0000 — https://www.engadget.com/2254860/yoto-just-announced-two-new-audio-devices-for-kids/
+
+Some upgrades make these more capable and easier to use for small hands.
+
+### Nintendo's latest sale is 'made possible' by the tariff refunds it's hoarding
+Thu, 10 Sep 2026 15:00:56 +0000 — https://www.engadget.com/2254785/nintendos-latest-sale-is-made-possible-by-the-tariff-refunds-its-hoarding/
+
+Another way to appreciate customers might be returning their money.
+
+### Instagram now lets you add tagged photos to your profile grid
+Thu, 10 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2254580/instagram-lets-you-add-tagged-photos-to-profile-grid/
+
+Instagram now lets you bring tagged photos to your main profile feed, and here's how to do it.
+
+### The iPhone Duo just might live up to the hype
+Thu, 10 Sep 2026 14:53:27 +0000 — https://www.engadget.com/2254767/the-iphone-duo-might-just-live-up-to-the-hype/
+
+Despite all the build-up and all the scrutiny, Apple's first foldable phone looks solid.
 
 ### Insta360 Luna Pro review: Your Instagram Reels are about to get an upgrade
 Thu, 10 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2253274/insta360-luna-pro-review/
@@ -317,57 +362,52 @@ Thu, 10 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2254467/apple-watch
 
 There was a lot more new stuff than expected.
 
-### NASA and IBM made an AI model for exploring the Moon
-Thu, 10 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2254569/nasa-ibm-ai-model-moon/
-
-NASA and IBM's latest collaboration is an AI model of the moon made for the Artemis era.
-
-### iOS 27 brings GymKit to iPhone and AirPods, but what does it actually do?
-Thu, 10 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2252843/ios-27-iphone-airpods-gymkit-compatibility-explained/
-
-GymKit is a great idea that has never been fully realized. Now, it doesn't require an Apple Watch to take advantage of.
-
-### Trump Mobile's T1 Phone now costs $250 more
-Thu, 10 Sep 2026 11:06:21 +0000 — https://www.engadget.com/2254566/trump-mobile-t1-250-price-hike/
-
-Trump Mobile's T1 Phone, which an iFixit teardown revealed to be pretty much identical to an HTC handset, got a $250 price hike.
-
-### Nintendo's Switch 2 will now sync its refresh rate to your TV for smoother motion
-Thu, 10 Sep 2026 10:46:51 +0000 — https://www.engadget.com/2254557/nintendo-switch-2-support-variable-refresh-rate-when-docked/
-
-Nintendo has finally delivered Switch 2 docked variable refresh rate support for TV gaming.
-
-### AppleCare One now has a $50 tier per month for families
-Thu, 10 Sep 2026 09:50:29 +0000 — https://www.engadget.com/2254544/applecare-one-50-monthly-tier-families/
-
-AppleCareOne Family insurance will cover all eligible devices for up to six members.
-
-### Xbox swoops in to publish Hideo Kojima's 'Physint' after Sony dropped out
-Thu, 10 Sep 2026 08:21:28 +0000 — https://www.engadget.com/2254521/xbox-publishes-hideo-kojima-physint-after-sony-withdrawal/
-
-Kojima and Xbox are teaming up after Sony pulled out of 'Physint.'
-
-### 2028 Volvo XC40 First Look: Hello new tech, goodbye EV
-Thu, 10 Sep 2026 07:00:00 +0000 — https://www.engadget.com/2252476/2028-volvo-xc40-first-look/
-
-Volvo refreshed the XC40, but it's sadly doing away with the all-electric EX40 in the US.
-
-### Google has removed the Pixel Tablet from its store
-Thu, 10 Sep 2026 06:11:07 +0000 — https://www.engadget.com/2254487/google-store-removed-pixel-tablet/
-
-Google has erased the listing for the Pixel Tablet from its e-commerce store, signaling that the device has been discontinued.
-
-### Apple Wallet is not the same as Apple Pay: Here's how they differ
-Wed, 09 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2251353/apple-pay-vs-wallet-how-different/
-
-Apple Wallet and Apple Pay serve different functions, but you need them both to make online payments and store your cards.
-
 ## TechCrunch
+
+### Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers
+Thu, 10 Sep 2026 18:38:00 +0000 — https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/
+
+Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.
+
+### Amazon makes it easier to buy what you see on Prime Video
+Thu, 10 Sep 2026 18:10:36 +0000 — https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/
+
+Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.
+
+### Anthropic reveals rogue AI agents hate CAPTCHAs, just like you
+Thu, 10 Sep 2026 17:54:44 +0000 — https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/
+
+Come inside the mind of a bot trying to convince the internet it's human.
+
+### India s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content
+Thu, 10 Sep 2026 17:45:00 +0000 — https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/
+
+Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.
+
+### Instagram’s latest feature lets you add tagged posts to your profile grid
+Thu, 10 Sep 2026 16:31:25 +0000 — https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/
+
+Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.
+
+### Google is making it easier to switch between password managers on Android
+Thu, 10 Sep 2026 16:00:00 +0000 — https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/
+
+Google's new feature will transfer your passkeys as well.
+
+### The Boring Company raises $3B in round led by UAE
+Thu, 10 Sep 2026 15:07:27 +0000 — https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/
+
+The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.
+
+### AI agents are flooding public services with new requests
+Thu, 10 Sep 2026 14:53:50 +0000 — https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/
+
+“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.
 
 ### Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation
 Thu, 10 Sep 2026 14:34:09 +0000 — https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/
 
-Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.
+Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.
 
 ### Maven Robotics wants to steal your robot deployment deal
 Thu, 10 Sep 2026 14:17:37 +0000 — https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/
@@ -383,44 +423,4 @@ The four-year agreement will cover rice farms across three Indian states, reachi
 Thu, 10 Sep 2026 13:21:09 +0000 — https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/
 
 The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.
-
-### Snapchat takes aim at Partiful with new event-planning features
-Thu, 10 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/
-
-Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.
-
-### Defense tech Mach Industries doubles valuation to $3.7B in 3 months
-Thu, 10 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/
-
-The buzzy startup raised $600 million in its Series C round.
-
-### European founders and VCs urge lawmakers to get EU Inc right
-Thu, 10 Sep 2026 12:25:08 +0000 — https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/
-
-Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc.' shouldn’t be watered down.
-
-### US Army places $11M bet on Austin-based GPS alternative Tern
-Thu, 10 Sep 2026 12:00:00 +0000 — https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/
-
-Tern has described its tech as "Google Maps for the battlefield."
-
-### AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks
-Thu, 10 Sep 2026 00:00:37 +0000 — https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/
-
-Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.
-
-### Automattic s board forces CEO Matt Mullenweg into leave of absence
-Wed, 09 Sep 2026 23:14:29 +0000 — https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/
-
-Mullenweg said in a company Slack message that it was against his will.
-
-### OpenAI adds a prominent AI doomer to its board of directors
-Wed, 09 Sep 2026 22:25:22 +0000 — https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/
-
-Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.
-
-### Massachusetts hits data centers with new clean power rules
-Wed, 09 Sep 2026 21:43:34 +0000 — https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/
-
-Massachusetts has become the third state in as many months to slap new restrictions on data center development.
 
