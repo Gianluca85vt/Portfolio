@@ -4,7 +4,6 @@ date: 2026-09-11
 category: Games
 cover: /img/blog/physint-xbox-decima-engine-sony/shot-01.jpg
 excerpt: Sony cancelled Physint in June. Xbox picked it up. The game runs on Decima, built by Sony's own Guerrilla, and no Decima game has shipped on an Xbox.
-draft: true
 ---
 
 In mid-June, Kojima Productions received a notice from PlayStation Studios
