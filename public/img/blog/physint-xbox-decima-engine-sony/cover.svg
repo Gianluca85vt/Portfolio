@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Physint moves to Xbox, but its engine Decima was built by Sony's Guerrilla Games">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.7" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#14243A"/>
+      <stop offset="100%" stop-color="#1E7A4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1">
+    <path d="M0 120 H1200 M0 240 H1200 M0 360 H1200 M0 480 H1200"/>
+  </g>
+  <text x="80" y="128" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#8FE3B4" letter-spacing="7">KOJIMA PRODUCTIONS</text>
+  <text x="80" y="300" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="bold" fill="#FFFFFF">DECIMA</text>
+  <text x="80" y="380" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#FFFFFF">built by Guerrilla. Owned by Sony.</text>
+  <text x="80" y="452" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#8FE3B4">Published, now, by Xbox.</text>
+</svg>
