@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-10T19:15:55.069Z
+# AI — harvested 2026-09-11T09:08:50.103Z
 
 ## OpenAI
 
@@ -26,6 +26,11 @@ OpenAI and GSA will offer eligible federal, state, local, and tribal governments
 Thu, 10 Sep 2026 00:00:00 GMT — https://openai.com/index/introducing-gpt-live-1-in-the-api
 
 GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.
+
+### Introducing the Agents API
+Thu, 10 Sep 2026 00:00:00 GMT — https://openai.com/index/introducing-the-agents-api
+
+Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.
 
 ### The AI policy window is open. We need to act.
 Wed, 09 Sep 2026 13:00:00 GMT — https://openai.com/index/ai-policy-window

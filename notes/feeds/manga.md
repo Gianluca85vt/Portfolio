@@ -1,6 +1,51 @@
-# Manga — harvested 2026-09-10T19:15:55.069Z
+# Manga — harvested 2026-09-11T09:08:50.103Z
 
 ## Anime News Network
+
+### Live-Action Ao to Midori BL Series Unveils Theme Song Artists, Visual
+Fri, 11 Sep 2026 00:06:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/live-action-ao-to-midori-bl-series-unveils-theme-song-artists-visual/.241648
+
+ONE N' ONLY performs opening theme song "Crush On You"
+
+### My Sword Saint Master Is Too Cute to Live With! Anime Reveals Staff, New Visual
+Fri, 11 Sep 2026 00:02:01 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/my-sword-saint-master-is-too-cute-to-live-with-anime-reveals-staff-new-visual/.241653
+
+<cite>Makina-san's a Love Bot?!</cite> director Masayoshi Nishida directs anime at Wolfsbane, Lightbox
+
+### 'Optimus Prime: Awakening' Animated Short's Clip Posted
+Thu, 10 Sep 2026 23:55:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/optimus-prime-awakening-animated-short-clip-posted/.241649
+
+Short debuts alongside <cite>The Transformers: The Movie</cite> 4K re-release
+
+### Muramasa: Revenant Blades Game Launches on February 4
+Thu, 10 Sep 2026 23:36:42 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/muramasa-revenant-blades-game-launches-on-february-4/.241647
+
+New long gameplay video posted for game on PS5, Switch, Switch 2, Steam
+
+### Sasaki and Peeps 2nd Season Anime Reveals Main Trailer, 2 New Cast Members, Opening Theme Song, October 7 Debut
+Thu, 10 Sep 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/sasaki-and-peeps-2nd-season-anime-reveals-main-trailer-2-new-cast-members-opening-theme-song-/.241645
+
+MADKID perform opening theme song "Unbroken"
+
+### Snack World Reloaded Remake Game's Trailer Reveals 2027 Release
+Thu, 10 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/snack-world-reloaded-remake-game-trailer-reveals-2027-release/.241625
+
+Remake of <cite>Snack World: The Dungeon Crawl - Gold</cite> launches for Switch 2, PS5, PC
+
+### Decapolice Game's Trailer Reveals Another Delay to 2027
+Thu, 10 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/decapolice-game-trailer-reveals-another-delay-to-2027/.241635
+
+Game was originally scheduled for release in 2023
+
+### The Vermilion Mask Anime's 2nd Main Trailer Reveals Theme Songs, More Cast, October 10 Premiere
+Thu, 10 Sep 2026 15:27:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/the-vermilion-mask-anime-2nd-main-trailer-reveals-theme-songs-more-cast-october-10-premiere/.241641
+
+Video previews opening theme song by MAN WITH A MISSION, ending theme by yutori
+
+### Ace Combat 8: Wings of Theve Game Gets 4-Episode Live-Action Prequel Series
+Thu, 10 Sep 2026 15:03:59 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/ace-combat-8-wings-of-theve-game-gets-4-episode-live-action-prequel-series/.241639
+
+1st episode of <cite>Ace Combat Hour Zero</cite> premieres on September 15 on YouTube
 
 ### Voice Actor Mike McFarland Dies at 56 (Updated)
 Thu, 10 Sep 2026 13:12:35 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/voice-actor-mike-mcfarland-dies-at-56/.241616
@@ -17,56 +62,26 @@ Thu, 10 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-
 
 This naughty workplace comedy benefits from its delightful streak of camaraderie; demons they might be.
 
-### Compile Heart's Villion:Code Game Heads West in 2027
-Thu, 10 Sep 2026 11:41:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/compile-heart-villion-code-game-heads-west-in-2027/.241631
-
-School RPG launches for Switch 2, Switch, PS5, PS4, PC
-
-### Straight Edge Launches Horizontal Manga Label
-Thu, 10 Sep 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/straight-edge-launches-horizontal-manga-label/.241560
-
-Straight Edge Comic label searches for original authors, manga artists, freelance editors
-
-### Yo-kai Watch 2: Haunted Domain Game's Extended Trailer Reveals PS5, PC Releases
-Thu, 10 Sep 2026 10:51:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/yo-kai-watch-2-haunted-domain-game-extended-trailer-reveals-ps5-pc-releases/.241629
-
-Updated version of Yo-kai Watch 2 3DS game also launches for Switch 2
-
-### Professor Layton and the Curious Village Game Gets Remake
-Thu, 10 Sep 2026 10:31:17 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/professor-layton-and-the-curious-village-game-gets-remake/.241627
-
-Also: <cite>Professor Layton and The New World of Steam</cite> streams new trailer, behind-the-scenes video
-
-### Chiikawa Anime Film Rises Back to #1, Sekiro: No Defeat Opens at #9 in Japan
-Thu, 10 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/chiikawa-anime-film-rises-back-to-no.1-sekiro-no-defeat-opens-at-no.9-in-japan/.241518
-
-<cite>Madoka Magica -Walpurgisnacht: Rising-</cite> drops to #3, 33rd <cite>Shin-chan</cite> film to #7
-
-### Witch on the Holy Night Film Screens in U.S., Canada on January 29
-Thu, 10 Sep 2026 10:05:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/witch-on-the-holy-night-film-screens-in-u.s-canada-on-january-29/.241626
-
-Crunchyroll, Sony Pictures Entertainment to screen film subbed/dubbed
-
-### This Week in Anime - Sparkles and Shadows
-Thu, 10 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-10/.241554
-
-Magical girl stories were dark long before <i>Madoka Magica</i>.
-
-### Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 16
-Thu, 10 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-16/.241606
-
-The original Subaru must have had something he does not—some special power or ability. But as he finds out in this episode, this isn’t the case.
-
-### Korean Culture Center to Host K-Comics Origin Exhibition in Los Angeles
-Thu, 10 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/korean-culture-center-to-host-k-comics-origin-exhibition-in-los-angeles/.241610
-
-Dong-geun Joo, creator of <i>All of Us Are Dead</i>, will attend the exhibition's opening on September 11
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### PSYREN Anime Reveals New Visual, Trailer, Theme Song, Voice Cast
+Fri, 11 Sep 2026 09:00:09 GMT — https://animecorner.me/psyren-anime-reveals-new-visual-trailer-theme-song-voice-cast/
+
+PSYREN anime revealed a new trailer, key visual, and cast ahead of the show's previously confirmed October 2026 premiere.
+
+### Sasaki and Peeps Season 2 Reveals Main Trailer and Visual, October 7 Premiere With 1-Hour Special
+Fri, 11 Sep 2026 07:46:48 GMT — https://animecorner.me/sasaki-and-peeps-season-2-reveals-main-trailer-and-visual-october-7-premiere-with-1-hour-special/
+
+Sasaki and Peeps Season 2 premieres on October 7 with a one-hour special, revealing a new main trailer and visual ahead of the release.
+
+### The Vermilion Mask Reveals Second Trailer, Key Visual, Theme Songs and 6 New Cast Members
+Thu, 10 Sep 2026 19:30:35 GMT — https://animecorner.me/the-vermilion-mask-reveals-second-trailer-key-visual-theme-songs-and-6-new-cast-members/
+
+The Vermilion Mask anime has revealed its second main trailer and key visual, along more cast and an October 10 premiere.
 
 ### The Dangers in My Heart Manga Ends on September 15 After Eight and a Half Years
 Thu, 10 Sep 2026 15:38:24 GMT — https://animecorner.me/the-dangers-in-my-heart-manga-ends-on-september-15-after-eight-and-a-half-years/
@@ -113,27 +128,27 @@ Thu, 10 Sep 2026 08:28:44 GMT — https://animecorner.me/xbox-to-publish-hideo-k
 
 KOJIMA PRODUCTIONS has confirmed that XBOX will publish PHYSINT, expanding the studio's existing partnership&hellip;
 
-### Cygames Is Now a Premium Partner to the Qatar Prix de l’Arc de Triomphe
-Thu, 10 Sep 2026 08:01:21 GMT — https://animecorner.me/cygames-is-now-a-premium-partner-to-the-qatar-prix-de-larc-de-triomphe/
-
-Cygames, Inc., the company behind the Umamusume: Pretty Derby franchise, is now a Premium&hellip;
-
-### Interview: Yuto Uemura (Atsushi) and Chiaki Kurakane (Producer) on Bungo Stray Dogs
-Thu, 10 Sep 2026 06:06:03 GMT — https://animecorner.me/interview-yuto-uemura-atsushi-and-chiaki-kurakane-producer-on-bungo-stray-dogs/
-
-The Bungo Stray Dogs anime looked back on its 10 year legacy during Anime&hellip;
-
-### Interview: Amagi Brilliant Park and Full Metal Panic! Creator Shoji Gatoh
-Thu, 10 Sep 2026 04:03:00 GMT — https://animecorner.me/interview-amagi-brilliant-park-and-full-metal-panic-creator-shoji-gatoh/
-
-During his visit to the French convention Japan Expo Paris, novelist and screenwriter Shoji&hellip;
-
 ## MyAnimeList News
+
+### Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu Announces Production Staff
+Thu, 10 Sep 2026 21:02:35 -0700 — https://myanimelist.net/news/74701299?_location=rss
+
+WWWave Corporation s Deregula animation label opened an official website for the television anime adaptation of Kennoji and R_ringo s Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu (My Sword Saint Master Is Too Cute to Live With!) manga revealed the production staff and a key visual (pictured). Staff Director: Masayoshi Nishita (Kakushite! Makina-san!!) Series Director: Tokihiro Sasaki (Nobunaga-sensei no Osanazuma director) Series Composition: Youhei Kash...
+
+### Sasaki to Pii-chan Season 2 Unveils Additional Cast, Staff, Opening Theme, First Promo
+Thu, 10 Sep 2026 18:51:08 -0700 — https://myanimelist.net/news/74700557?_location=rss
+
+The official website for the television anime adaptation of Buncololi s Sasaki to Pii-chan (Sasaki and Peeps) light novel unveiled additional cast, staff, a second key visual (pictured), the opening theme, and first promotional video for the second season on Friday. The anime series is scheduled to premiere on October 7 at 10:00 p.m. on AT-X, followed by Tokyo MX and BS Nippon Television, with the first episode broadcasting as a one-hour special. Voice actors Tasuku Hatanaka (SK&infin;) and...
+
+### Shuiro no Kamen Reveals Additional Cast, Staff, Theme Songs, Second Promo
+Thu, 10 Sep 2026 12:59:36 -0700 — https://myanimelist.net/news/74699348?_location=rss
+
+The official website for the Shuiro no Kamen (The Vermilion Mask) television anime adaptation revealed additional cast, staff, second key visual (pictured), theme songs, and a second promotional video on Friday. The anime adapting Dr.Poro and Nabana Naba s action fantasy manga is scheduled to premiere on October 10 at 5:30 p.m. on Yoimiuri TV and Nippon TV. Cast Hien: Kenji Nojima (Banana Fish) Lasgarl: Aoi Koga (Kaguya-sama wa Kokurasetai) Clown: Yuuki Shin (Gachiakuta) Rinne: Akihisa Waka...
 
 ### Manga Eat-Man Gets New Anime Adaptation
 Thu, 10 Sep 2026 03:27:25 -0700 — https://myanimelist.net/news/74696633?_location=rss
 
-Entertainment company Hakuhodo DY Music &amp; Pictures opened an official website for a new anime adaptation of Akihito Yoshitomi s Eat-Man manga, subtitled The Over Order, on Thursday, revealing the lead cast, main staff, teaser visual, and announcement promotional video. Voice Actor Masashi Ebara (Dark Gathering) is reprising his leading role as Bolt Crank. Staff Director: Shunji Ooga (Golgo 13 (TV) chief director) Original Design, Script: Akihito Yoshitomi Character Design: Satoshi Hiray...
+Entertainment company Hakuhodo DY Music &amp; Pictures opened an official website for a new anime adaptation of Akihito Yoshitomi s Eat-Man manga, subtitled The Over Order, on Thursday, revealing the lead cast, main staff, a teaser visual (pictured), and announcement promo. Voice actor Masashi Ebara (Dark Gathering) is reprising his leading role as Bolt Crank. Staff Director: Shunji Ooga (Golgo 13 (TV) chief director) Original Design, Script: Akihito Yoshitomi Character Design: Satoshi Hira...
 
 ### Hyouken no Majutsushi ga Sekai wo Suberu II Unveils Supporting Cast, Main Promo
 Thu, 10 Sep 2026 02:36:04 -0700 — https://myanimelist.net/news/74696432?_location=rss
@@ -149,26 +164,6 @@ Production company Hayate opened an official website for a television anime adap
 Wed, 09 Sep 2026 03:34:54 -0700 — https://myanimelist.net/news/74691262?_location=rss
 
 The official website for the television anime adaptation of Nazuna Miki s Tensei Goblin dakedo Shitsumon Aru? (So What s Wrong with Getting Reborn as a Goblin?) manga revealed additional staff, theme songs, the main visual (pictured), and promotional video on Wednesday. The anime is scheduled to premiere on October 5 at 10.00 p.m. on Tokyo MX, followed by broadcasts on BS11, Sun TV, and AT-X. Staff Art Director: Maika Hosoda (Mob kara Hajimaru Tansaku Eiyuutan) Color Design: Naomi Kiyo...
-
-### From The Apothecary Diaries to Jurassic Shadows: Norihiro Naganuma s Next Creative Challenge
-Tue, 08 Sep 2026 23:30:09 -0700 — https://myanimelist.net/news/74690718?_location=rss
-
-What happens when the director behind Kusuriya no Hitorigoto (The Apothecary Diaries) and Mahoutsukai no Yome (The Ancient Magus Bride) trades court intrigue and fantasy for dinosaurs, ninjas, and superpowered makeup? That is the question at the heart of Ryuugeshou no Shinobi (Jurassic Shadows), the first fully original anime project from director Norihiro Naganuma. The series made its world premiere announcement at Anime Expo 2026, where Naganuma appeared alongside Avex Pictures producer...
-
-### Black Bullet Light Novel Relaunches After 12 Years
-Tue, 08 Sep 2026 22:43:51 -0700 — https://myanimelist.net/news/74690587?_location=rss
-
-Publishing company Kadokawa announced on Wednesday that Shiden Kanzaki s action sci-fi light novel Black Bullet is relaunching following a 12-year hiatus. The reboot, titled Black Bullet: New World Order, will be a revised and expanded version of the original light novel. The story will cover the events of the first six original volumes through the New World Order s fourth volume, before continuing into a completely new arc in the fifth volume, which will be a fully rewritten version...
-
-### Manga Kin to Tetsu Concludes Serialization
-Tue, 08 Sep 2026 22:13:25 -0700 — https://myanimelist.net/news/74690517?_location=rss
-
-Ayaka Katayama s Kin to Tetsu (Fungus and Iron) has concluded with its 105th chapter in the October 2026 issue of Bessatsu Shounen Magazine on Tuesday, marking the end of the series five-year serialization. Katayama began drawing the dystopian sci-fi suspense manga in Bessatsu Shounen Magazine in March 2021. Kodansha published the ninth volume on April 9, with the tenth and final volume set to be released on October 8. Kodansha USA licensed the manga for digital release in English in...
-
-### Cheat Fuyo Unveils Additional Cast, Opening Theme, First Promo
-Tue, 08 Sep 2026 20:22:49 -0700 — https://myanimelist.net/news/74690257?_location=rss
-
-The official website for the television anime adaptation of Asa Rokushima s Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? (The Laid-Off Cheat-Granting Mage Enjoys a New Life: I Can Add "Enhancement Points" Not Just to Weapons but to Anything, and I Can Cancel the Effects Whenever I Want,...
 
 ## Otaku USA
 
@@ -190,9 +185,4 @@ Crunchyroll and Sony Pictures Entertainment will bring the latest project from f
 Thu, 10 Sep 2026 09:00:03 +0000 — https://animeuknews.net/2026/09/dont-confuse-me-yamori-kun-volume-1-review/
 
 High-schoolers Mori and Yamori decide to change their looks over summer break – but who could have expected Yamori to return to school in a skirt?!
-
-### Engage Kiss Collector’s Edition Review
-Wed, 09 Sep 2026 09:00:03 +0000 — https://animeuknews.net/2026/09/engage-kiss-collectors-edition-review/
-
-A confusing mix of magical girlfriend rom-com hijinks and supernatural action, Engage Kiss struggles to get a footing, but when it does, Shu’s quest to find his sister who went missing in a disaster as a child really comes alive.
 
