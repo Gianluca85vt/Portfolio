@@ -27,6 +27,11 @@ What interests me is further down, in the part nobody announces.
 
 ## Physint runs on Decima
 
+<figure>
+  <img src="/img/blog/physint-xbox-decima-engine-sony/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Kojima Productions, via the official DEATH STRANDING 2: ON THE BEACH Steam page</figcaption>
+</figure>
+
 Kojima Productions has used Decima for close to a decade. Both Death Strandings
 are built on it, and before the cancellation the studio had said Physint uses an
 advanced version of the same engine — the Death Stranding 2 branch, essentially,
