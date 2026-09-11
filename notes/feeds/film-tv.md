@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-11T14:37:07.593Z
+# Film & TV — harvested 2026-09-11T19:17:04.176Z
 
 ## Variety
 
-### French WWII Blockbuster De Gaulle Lands U.S. Distribution With Samuel Goldwyn Films (EXCLUSIVE)
-Fri, 11 Sep 2026 14:25:00 +0000 — https://variety.com/2026/film/global/french-wwii-de-gaulle-u-s-distribution-with-samuel-goldwyn-films-1236858666/
+### After Taylor Frankie Paul s Bachelorette Scandal, The Secret Lives of Mormon Wives Just Isn t Fun Anymore
+Fri, 11 Sep 2026 19:05:07 +0000 — https://variety.com/2026/tv/columns/secret-lives-of-mormon-wives-season-5-column-1236858851/
 
-Samuel Goldwyn Films has acquired U.S. distribution rights to “De Gaulle,” Antonin Baudry’s sprawling two-part historical epic that premiered out of competition at Cannes and was just shortlisted to represent France in the Oscar race. The distributor is planning a U.S. theatrical release in November or December 2026 for the €70 million ($82 million) production, [ ]
+SPOILER WARNING: The following story contains plot details from Season 5 of The Secret Lives of Mormon Wives. From its very first moments, “The Secret Lives of Mormon Wives” has been inextricable from the toxic entanglement between #MomTok influencer Taylor Frankie Paul and her on-again, off-again boyfriend Dakota Mortensen. Two years ago, the show began [ ]
 
-### Ransom Canyon Canceled After Two Seasons at Netflix
-Fri, 11 Sep 2026 14:21:06 +0000 — https://variety.com/2026/tv/news/ransom-canyon-canceled-netflix-1236858180/
+### ‘Le Faux Soir’ Review: Fake News Tells the Truth in an Earnest, Slow-Paced Period Piece
+Fri, 11 Sep 2026 19:04:29 +0000 — https://variety.com/2026/film/reviews/le-faux-soir-review-1236859013/
 
-Netflix has canceled Ransom Canyon after two seasons. The romantic drama was set in the Texas Hill Country and, per the official logline, followed the intersecting lives of deep-rooted families in a town where your neighbors know everyone s business. Season 2 saw rancher Staten Kirkland (Josh Duhamel) fighting to reclaim his legacy after being unseated [ ]
+“Le Faux Soir” sources its high concept — hijacking state media propaganda’s fake news to tell the truth — from Second World War history. In 1943, disgruntled anarchist and poet Marc Aubrion (Arieh Worthalter) is recruited by the Belgian Resistance, which publishes its own underground newspaper. Marc’s brainwave is to reach outside the bubble of [ ]
 
-### Lilly Wachowski on Her New Studio Anarchists United, the Black Power Origins of ‘The Matrix’ and How ‘Harry Potter’ Fans Are ‘Supporting Trans Genocide’
-Fri, 11 Sep 2026 14:00:00 +0000 — https://variety.com/2026/tv/features/lilly-wachowski-jk-rowling-harry-potter-trans-the-matrix-1236858104/
+### Streaming Prices Continue to Balloon: Is Streamflation at a Breaking Point?
+Fri, 11 Sep 2026 19:01:47 +0000 — https://variety.com/2026/tv/news/streaming-price-increases-2026-streamflation-breaking-point-1236859025/
 
-In 2014, Laverne Cox made history as the first transgender person to appear on the cover of Time magazine under the headline “The Transgender Tipping Point.” The accompanying story, written by Katy Steinmetz, positioned the fight for trans rights as the next big civil rights movement “poised to challenge long-held cultural norms and beliefs.” It’s [ ]
+Death. Taxes. Price hikes on Netflix, HBO Max and more. It’s become an inevitable part of modern life: The major entertainment streaming services have been regularly upping their fees — for some, the increases have come once a year. The average price of ad-free streaming services increased 54% from 2021 to 2025, according to research [ ]
 
-### Kazakh Horror Sequel Dastur: Teris Bata Boards Fearfolks for World Sales (EXCLUSIVE)
-Fri, 11 Sep 2026 13:56:48 +0000 — https://variety.com/2026/film/markets-festivals/kazakh-horror-sequel-dastur-teris-bata-fearfolks-world-sales-1236857282/
+### Like ‘Amores Perros,’ I Hope My Film Will Also Transcend Time in Some Way,’ Says Gael García Bernal of His Third Directorial Outing, ‘Hombre al Agua’
+Fri, 11 Sep 2026 18:45:00 +0000 — https://variety.com/2026/film/global/amores-perros-gael-garcia-bernal-directing-hombre-al-agua-1236853666/
 
-Dastur: Teris Bata, the sequel to Kazakhstan s record-breaking horror hit Dastur, has found an international sales partner in Bangkok-based Fearfolks, which has boarded world sales rights excluding CIS territories. The company is launching the title at the Toronto Film Festival market. The original Dastur (2023) — meaning traditions in Kazakh –—became the highest-grossing film in [ ]
+Gael García Bernal is best known for his breakout roles in two of Mexico’s most consequential films, “Amores Perros” (2000) and “Y Tu Mama Tambien” (2001) but he’s also been directing these past years. Proof of his cachet is having his third feature, “Hombre al agua” world premiere at the Venice Biennale and have its [ ]
 
-### Toronto Premiere of Le Faux Soir Crowns Great Year for Walloon Cinema, Built on Belgian Region s Creative Freedom, Can Do Attitude
-Fri, 11 Sep 2026 13:44:58 +0000 — https://variety.com/2026/film/global/walloon-cinema-belgium-toronto-1236858645/
+### Stephanie Ahn s Seven-Year Road to Bedford Park : You Never Know What Can Make Your Film Better
+Fri, 11 Sep 2026 18:35:00 +0000 — https://variety.com/2026/film/festivals/stephanie-ahn-bedford-park-toronto-1236857340/
 
-It is no wonder Belgian cinema has risen internationally in recent years. Cinema is, after all, a language, and Belgian filmmakers come from a country built on the need to understand language as a bridge—between its regions, its people, and its idioms. The country has three official languages—Dutch, French and German—and is divided both regionally [ ]
+After winning the U.S. Dramatic Special Jury Award for Debut Feature at Sundance this year, Bedford Park has its international premiere at the Toronto Film Festival, ahead of a U.S. theatrical release by Sony Pictures Classics. Speaking with Variety, director Stephanie Ahn and lead actors Moon Choi ( Anarchist From Colony ) and Son Sukku ( Sense8, My [ ]
 
-### Catherine Deneuve on Playing a ‘Punk Fairy Godmother’ in Léa Domenach’s Venice-Bound ‘A Man s Skin,’ a Feminist Medieval Musical (EXCLUSIVE)
-Fri, 11 Sep 2026 13:27:42 +0000 — https://variety.com/2026/film/global/catherine-deneuve-punk-lea-domenach-venice-man-skin-venice-1236858566/
+### Jimmy Kimmel in Talks to Renew Late-Night Show at ABC
+Fri, 11 Sep 2026 18:33:20 +0000 — https://variety.com/2026/tv/news/jimmy-kimmel-talks-renew-late-night-show-abc-1236858990/
 
-Catherine Deneuve needed little convincing to play a “punk fairy godmother” in Léa Domenach’s “Peau d’Homme” (“A Man s Skin“) the Venice-premiering medieval musical that reunites the famed French actor and up-and-coming director three years after “Bernadette.” “A punk fairy godmother — first of all, that idea alone would have been enough,” Deneuve told Variety in [ ]
+Jimmy Kimmel and Disney s ABC have entered into negotiations about keeping the host in late-night after the new TV season, a process that might ordinarily be the most normal of business practices, but in the current climate is exceedingly fraught. Kimmel and executives at the Disney network are having talks about whether he might continue [ ]
 
-### ‘Rojo’ Director Benjamín Naishtat on Awaited Toronto, San Sebastián Title ‘Glaxo,’ the Impunity of Power and Connecting via Genre
-Fri, 11 Sep 2026 13:25:46 +0000 — https://variety.com/2026/film/global/benjamin-naishtat-glaxo-tiff-san-sebastian-1236858572/
+### Point Break TV Series Greenlit at AMC, Canal+
+Fri, 11 Sep 2026 18:30:00 +0000 — https://variety.com/2026/tv/news/point-break-tv-series-amc-greenlight-1236858832/
 
-“At what precise moment had Peru fucked itself up?” Nobel Prize winning author Mario Vargas Llosa famously asks at the beginning of “Conversation at The Cathedral.” In “Glaxo,” one of the most awaited of Latin American films this year, director Benjamín Naishtat charts what he describes as the whole of Argentina’s loss of innocence, which [ ]
+The Point Break followup series has officially been ordered at AMC and AMC+, Variety has learned. The modern update of the beloved 1991 action film was first reported to be in the works at the network back in December 2025. As reported at the time, the show hails from lead studio Alcon Television Group as [ ]
 
-### Thailand Bets on Film Tourism to Turn Movie Locations Into Travel Destinations
-Fri, 11 Sep 2026 13:15:00 +0000 — https://variety.com/2026/film/markets-festivals/thailand-film-tourism-locations-travel-destinations-1236855735/
+### Sheriff Country Sets Backdoor Pilot for Medical Spinoff Starring Schitt s Creek Actor Noah Reid
+Fri, 11 Sep 2026 18:17:11 +0000 — https://variety.com/2026/tv/news/sheriff-country-medical-spinoff-noah-reid-1236858955/
 
-The Tourism Authority of Thailand (TAT) has launched Amazing Locations: From Scene to Scenic, a campaign built to convert the country s rising profile as a filming destination into lasting tourism, as productions ranging from The White Lotus to The Challenge Season 42 continue to draw international attention to Thai locations. TAT deputy governor Nithee Seeprae [ ]
+Noah Reid will guest star in two upcoming episodes of Sheriff Country, which will function as a backdoor pilot for a spinoff set in the same universe. Pending a decision from CBS, Reid would potentially be a series regular on a medical drama set in the same universe as Sheriff Country and Fire Country. If [ ]
 
-### Venice Film Festival Takeaways: Malkovich Storms the Oscar Race, Political Movies Dominate Buzz and More
-Fri, 11 Sep 2026 13:00:00 +0000 — https://variety.com/2026/film/festivals/venice-film-festival-takeaways-john-malkovich-oscar-race-political-movies-1236852434/
+### Dolly Parton International Airport Moves Closer to Becoming a Reality, as Nashville Airport Board Votes Unanimously for Name Change
+Fri, 11 Sep 2026 18:11:23 +0000 — https://variety.com/2026/music/news/dolly-parton-nashville-airport-name-change-vote-unanimous-1236858896/
 
-Is Venice still vibrating from all the rounds of applause? It’s become customary for audiences at the festival’s premieres to clap and cheer for a seeming eternity after the credits roll. (Often to the visible discomfort of the actors and filmmakers, who look like they don’t know what to do with themselves when the hurrahs [ ]
+The idea of renaming Nashville s airport for Dolly Parton was not just an easily forgotten pipe dream that popped up in the days following the superstar s death in August. The proposal moved a big step closer to reality Friday, as the Metropolitan Nashville Airport Authority voted 6-0 to officially start the process of changing the [ ]
 
-### Global Africa Hub at TIFF Market Seeks to Boost Visibility — and Deals — for African Filmmakers in Toronto: It s Our Moment
-Fri, 11 Sep 2026 12:55:00 +0000 — https://variety.com/2026/film/global/global-africa-hub-tiff-market-african-filmmakers-1236851508/
+### Maria Bartiromo Says More to Come in First Comments After Shock Fox News Exit: I Am So Grateful for the Outpouring of Love
+Fri, 11 Sep 2026 17:50:45 +0000 — https://variety.com/2026/tv/news/maria-bartiromo-first-comments-fox-news-departure-grateful-1236858901/
 
-The first-ever Toronto film market, running as part of the Toronto Film Festival, will have a robust contingent of African filmmakers, executives and industry professionals on the ground. Producers at TIFF: The Market look to capitalize on the festival’s historically strong position as a platform for some of the continent’s most diverse and exciting talents. [ ]
+Maria Bartiromo shared her first public comments since her sudden exit from Fox News and Fox Business last week. In a post on social media, Bartiromo thanked all friends followers for their support, and shared a photo of a rainbow breaking through clouds. She also teased that there will be more to come in [ ]
 
 ## The Hollywood Reporter
 
-### Cynthia Erivo’s First Film Since ‘Wicked’ Required Her to Go Dark, Deep and Fearless: “I d Feel Sick and Angry”
-Fri, 11 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/cynthia-erivo-prima-facie-tiff-exclusive-1236697306/
+### Dior and A24 Strike Two-Year Partnership Across Film and Theater
+Fri, 11 Sep 2026 19:15:30 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/dior-and-a24-strike-two-year-partnership-across-film-and-theater-1236697985/
 
-The two-time Oscar nominee found safety and support in the making of ‘Prima Facie,’ which offers an unflinching look at the aftermath of sexual assault. In her first interview about the film, she explains, “I would go too far and it would be hard to come back.”
+Dior will be the premier partner for A24’s Cherry Lane Theatre Off-Broadway.
 
-### Man in Motion: The Rick Hansen Story Doc Takes Viewers Back to 1980s Globe-Circling Wheelchair Trek: It’s Just Insane
-Fri, 11 Sep 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/man-in-motion-rick-hansen-1236694451/
+### Why La Gradiva, the Surprise Sensation of Cannes, Is Now the Essential Debut of the Fall
+Fri, 11 Sep 2026 18:38:23 +0000 — https://www.hollywoodreporter.com/movies/movie-features/la-gradiva-marine-atlan-tiff-exclusive-1236697869/
 
-Director Adrian Buitenhuis explores the extremes of a paraplegic athlete pushing himself to the limits of human endurance in a visceral film set for a Toronto Film Fest world premiere.
+The spellbinding teen drama makes its North American premiere at TIFF on Monday, the beginning of an underdog awards run for Marine Atlan's auspicious first feature.
 
-### Freeze Turkey! 50 Years Later, the Wild True Story Behind ‘Charlie’s Angels‘
-Fri, 11 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/charlies-angels-50th-anniversary-1236694163/
+### Stars Hit New York Fashion Week, Brad Pitt Debuts Heart of the Beast and This Week s Best Events
+Fri, 11 Sep 2026 18:38:08 +0000 — https://www.hollywoodreporter.com/gallery/new-york-fashion-week-heart-of-the-beast-red-carpet-events-1236693655/
 
-The behind-the-scenes betrayals. The casting chaos. The simmering resentments. The itsy-bitsy bikinis. Turns out the set of this 70s TV phenomenon wasn't always heaven.
+Inside this week's biggest Hollywood premieres, parties and openings.
 
-### Toronto: Global Media Producers Urge Stronger Local Content Laws to Fend Off Streaming Domination
-Fri, 11 Sep 2026 12:48:25 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toronto-global-media-producers-urge-local-content-streamers-1236697536/
+### Where to Stream 9/11 Tribute in Light TV Special With Performers Cyndi Lauper, Lainey Wilson and More
+Fri, 11 Sep 2026 18:33:39 +0000 — https://www.hollywoodreporter.com/tv/tv-news/stream-911-tribute-in-light-tv-special-sept-11-2026-hulu-1236697801/
 
-A consortium of 23 industry groups warned the “ubiquity of global streaming services puts local stories at risk” as Netflix, Amazon and YouTube reshape the global TV market,
+The one-hour televised event will be hosted live from New York City by 'World News Tonight' anchor David Muir, 'Good Morning America' co-anchor Robin Roberts and anchor Diane Sawyer.
 
-### ‘9/11: Reunited’ Firefighter on Meeting His Fallen Comrade’s Family and Why Ground Zero Should Transcend Politics
-Fri, 11 Sep 2026 12:45:00 +0000 — https://www.hollywoodreporter.com/news/general-news/9-11-reunited-firefighter-giuliani-mamdani-politics-nat-geo-1236697089/
+### Magazine Review: A Keenly Observed Snapshot of a Young Woman s Coming of Age Within an Industry on the Brink
+Fri, 11 Sep 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/magazine-review-lily-mcinerny-jake-lacy-lukita-maxwell-1236684881/
 
-In the National Geographic docuseries, Bill Spade, the sole survivor of Staten Island’s Rescue Company 5 crew, finally tells an NYPD officer’s sons about their father’s last moments.
+Lily McInerny stars with Jake Lacy and Lukita Maxwell in Alexandra Pechman's directorial debut, following an aspiring poet who interns at a prestigious literary mag in 2010s New York.
 
-### Justin Trudeau Launches His Own Film and TV Production Banner
-Fri, 11 Sep 2026 12:32:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toronto-justin-trudeau-launches-producer-hope-and-hard-work-1236697524/
+### Point Break Series Surfs to Green Light at AMC
+Fri, 11 Sep 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/point-break-series-amc-1236697873/
 
-The former Canadian politician has found time away from partner Katy Perry to develop a scripted and unscripted slate under the newly titled shingle Hope Hard Work.
+The show is set in the same world as the 1991 movie starring Keanu Reeves and Patrick Swayze.
 
-### Toronto s Best Hotel Lobbies
-Fri, 11 Sep 2026 12:15:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/toronto-tips-best-hotel-lobbies-2026-tiff-1236693623/
+### Father Joe Review: Kiefer Sutherland and Al Pacino in a Holy Mess of an Action Flick
+Fri, 11 Sep 2026 18:16:04 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/father-joe-review-kiefer-sutherland-al-pacino-luc-besson-1236697260/
 
-From King West to Yorkville, these five Toronto hotels become unofficial festival headquarters for industry meetings, late-night drinks, talent sightings and the occasional escape between screenings.
+Luc Besson wrote and produced this high-concept, B-grade shoot-em-up about a gun-toting priest who takes on the New York crime world.
 
-### With Trash Mountain, Caleb Hearon Becomes Your New Favorite Indie Darling
-Fri, 11 Sep 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/trash-mountain-caleb-hearon-tiff-zooey-deschanel-1236694880/
+### Star Trek at 60: Strange New Worlds Co-Creator Akiva Goldsman on Why It Keeps Boldly Going
+Fri, 11 Sep 2026 18:05:22 +0000 — https://www.hollywoodreporter.com/tv/tv-features/star-trek-60th-anniversary-akiva-goldsman-1236697398/
 
-The comedian and podcaster stars in the TIFF dramedy that takes inspiration from his own life: “I never thought we would honestly make a movie about it.”
+The lifelong Trekkie talks to The Hollywood Reporter about the franchise's six-decade staying power, how its message of "interspecies collaboration" still matters and why he believes the next generation will keep tuning in (even though he can't get his own kids to watch).
 
-### How Obsession Rewrote TIFF History
-Fri, 11 Sep 2026 11:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/how-obsession-rewrote-tiff-history-1236697010/
+### Colman Domingo Says Men Should Be Locking Arms to Make Sure Women Have What They Need at Kering s Caring for Women Dinner
+Fri, 11 Sep 2026 18:04:45 +0000 — https://www.hollywoodreporter.com/lifestyle/style/colman-domingo-supporting-women-kering-dinner-1236697722/
 
-A year after a $750,000 horror movie became the biggest Toronto sale ever, can the fest’s first official market catch that lightning again?
+Produced annually by the conglomerate that owns Gucci, Balenciaga, Boucheron and other celebrated brands, the event raised more than $5 million to support an end of violence against women and children.
 
-### The Don of Hollywood North Takes His Final Bow
-Fri, 11 Sep 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/don-carmody-the-don-of-hollywood-north-takes-final-bow-tiff-1236696654/
+### Bill Kerby, Screenwriter on ‘The Rose,’ ‘The Last American Hero’ and ‘Hooper,’ Dies at 88
+Fri, 11 Sep 2026 18:00:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bill-kerby-dead-the-rose-last-american-hero-hooper-1236697827/
 
-After 50 years, $2 billion in production and an Oscar for Chicago, Don Carmody is retiring — with one final gift to Canada’s next producers.
+He also “un-weirded” Terrence Malick’s script for ‘The Gravy Train’ and received an Emmy nomination for ‘Hatfields McCoys.’
 
 ## Deadline
 
-### ‘Black Sunflowers’ First Look: Ukraine’s Youth Live Life On The Edge In Propulsive Doc From E.P. Sean Penn – Toronto Film Festival
-Fri, 11 Sep 2026 14:30:51 +0000 — https://deadline.com/2026/09/black-sunflowers-teaser-toronto-film-festival-1237098532/
+### Jimmy Kimmel In Talks To Renew Deal At ABC
+Fri, 11 Sep 2026 19:10:01 +0000 — https://deadline.com/2026/09/jimmy-kimmel-talks-renew-deal-abc-1237099330/
 
-EXCLUSIVE: The Toronto Film Festival hosts the world premiere of Black Sunflowers Friday evening, one of the most dynamic and explosive documentaries of the year. The film set in Ukraine is punctuated by ragers, “Tokyo drift”-style street racing, machine gun fire, and in interludes, moments of tenderness between young lovers. Director James Marcus Haney crafts [ ]
+Earlier this week, tabloid reports had Jimmy Kimmel standing down from his late-night ABC show after his contract ends in May. That was not true, as evidenced by the fact that it has emerged that Kimmel is, in fact, in talks to renew his deal for another year, Deadline has confirmed. Kimmel and Disney are [ ]
 
-### Former Israeli Prime Minister Takes Aim At Yuval Abraham and Rachel Szor’s ‘NAZA’
-Fri, 11 Sep 2026 14:22:26 +0000 — https://deadline.com/2026/09/naftali-bennett-yuval-abraham-rachel-szor-naza-1237098766/
+### United Artists, Amazon MGM Steven Spielberg s Mandela Catalogue Sets Summer 2028 Release
+Fri, 11 Sep 2026 19:00:35 +0000 — https://deadline.com/2026/09/mandela-catalogue-release-date-1237098779/
 
-Former Israeli Prime Minister Naftali Bennett criticized Yuval Abraham and Rachel Szor’s feature doc NAZA in a lengthy X post this afternoon following the film’s buzzy debut at the Venice Film Festival. “Yesterday, a film accusing Israel of genocide premiered,” Bennett wrote. “It’s a horrific blood libel against our sons and daughters. What makes it [ ]
+EXCLUSIVE: The next big YouTube-born horror IP for the big screen we told you about, the Mandela Catalogue from the Scott Stuber-led United Artists, Amazon MGM Studios and Steven Spielberg s Amblin, is getting a summer release date of June 9, 2028. As Deadline reported, Mandela Catalogue creator Alex Kister is directing the feature off a screenplay [ ]
 
-### Starship Troopers Duo Denise Richards Casper Van Dien Reunite For Thriller No Free Lunch TIFF Market
-Fri, 11 Sep 2026 14:14:57 +0000 — https://deadline.com/2026/09/denise-richards-casper-van-dien-reunite-starship-troopers-1237098747/
+### Onwards And Sideways Team Rhys Ifans, Laura Linney John Madden On Making A Parkinson s Story That Finds Laughter Love In The Unexpected Toronto
+Fri, 11 Sep 2026 18:47:20 +0000 — https://deadline.com/2026/09/rhys-ifans-laura-linney-john-madden-onwards-sideways-tiff-1237098935/
 
-EXCLUSIVE: Denise Richards and Casper Van Dien are teaming up for the first time on-screen since big-budget 90 s action movie Starship Troopers. Richards and Van Dien have recently wrapped in Hamilton, Ontario, on thriller No Free Lunch, the third film in the Horizon line/March On Productions slate, which also includes Silent Nightfall starring Stana Katic, [ ]
+When Rhys Ifans and Laura Linney boarded Onwards and Sideways, John Madden’s latest feature about two characters whose lives are turned upside down when they are diagnosed with Parkinson’s disease, the burden of responsibility was heavy. “I’ve never been so nervous in my life,” Linney tells Deadline in advance of the film’s premiere at the Toronto [ ]
 
-### Remembering 9/11: A Look Back At Some Of The Stories That Changed Hollywood
-Fri, 11 Sep 2026 14:00:40 +0000 — https://deadline.com/2026/09/911-25th-anniversary-hollywood-stories-1237093022/
+### Warner Bros Michael De Luca Pamela Abdy On Gen-Z Resurge, Credibility With Filmmakers Embracing The Unknown Toronto
+Fri, 11 Sep 2026 18:36:06 +0000 — https://deadline.com/2026/09/warner-bros-michael-de-luca-pamela-abdy-tiff-1237098726/
 
-The tragedy of September 11, 2001, which took the lives of almost 3,000 people, touched every part of America, including Hollywood. The TV community grieved one of its own as Frasier co-creator David Angel and his wife were among those on board one of the hijacked planes that hit the World Trade Center in New [ ]
+While Paramount CEO David Ellison grapples to take control of Warner Bros Discovery, he should be mindful to remember the architects in addition to the architecture. In other words, in the pursuit of merging content, be careful not to throw out those who shepherded it. No, that wasn t the exact pitch nor message from Warner [ ]
 
-### CBS Wants Ex- Matlock Writer s Racial Sexual Harassment Suit Dismissed; Says Claims Are Fabrications Outright Lies
-Fri, 11 Sep 2026 13:45:51 +0000 — https://deadline.com/2026/09/matlock-harassement-writer-lawsuit-cbs-response-1237098721/
+### Peter Luo’s Stars Collective, LH International Launch AI Joint Venture Prep $300M Fund
+Fri, 11 Sep 2026 18:34:52 +0000 — https://deadline.com/2026/09/peter-luo-stars-collective-lh-international-ai-300m-fund-1237099269/
 
-On the eve of the 2026-2027 TV season, CBS is seeking to dismiss a scathing lawsuit brought by an ex-writer for Matlock, claiming that the scribe s allegations of racial and sexual harassment are fabrications and outright lies. Back in June, John Lowe claimed in an unspecified damages seeking filing that showrunner Jennie Urman Snyder and [ ]
+EXCLUSIVE: Peter Luo’s Stars Collective is launching a new AI joint venture and fund with Dubai-based LH International. The companies said they will select projects across film, TV and digital, establishing a fund “with a target size of $300M” that will provide development and production finance. The JV will utilize AI to develop, produce and [ ]
 
-### On 25th Anniversary Of 9/11, NY1 Anchor Pat Kiernan On Putting Yourself Back In That Moment
-Fri, 11 Sep 2026 13:40:28 +0000 — https://deadline.com/2026/09/911-attacks-25th-anniversary-new-york-pat-kiernan-1237098688/
+### ‘Point Break’ Series Greenlit By AMC France’s Canal+ From Alcon
+Fri, 11 Sep 2026 18:30:00 +0000 — https://deadline.com/2026/09/point-break-series-greenlit-amc-france-canal-1237099164/
 
-Memories of September 11 are still overwhelming for many New Yorkers, but NY1 anchor Pat Kiernan finds value in looking back on that indelible day 25 years later. It s worthwhile for me just to refresh my memory on what played out at what moment, and also kind of to put yourself back into that moment, [ ]
+AMC and French broadcaster Canal+ are going with God after greenlighting the Point Break television series. This comes after Deadline revealed in December that the Breaking Bad broadcaster was developing a series based on the iconic Patrick Swayze and Keanu Reeves surf heist thriller. The series is set in the present day, over thirty years [ ]
 
-### Saban Acquires Dates Sharks Vs Whales Thriller Alphas With Martin Henderson, Teagan Croft Charlotte Vega
-Fri, 11 Sep 2026 13:37:48 +0000 — https://deadline.com/2026/09/saban-acquires-alphas-martin-henderson-teagan-croft-1237098702/
+### Noah Reid To Headline Sheriff Country Medical Spinoff With Guest Starring Role On CBS Cop Drama
+Fri, 11 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/noah-reid-sheriff-country-medical-spinoff-cbs-1237098951/
 
-EXCLUSIVE: Saban Films has acquired U.S. rights to Alphas, the survival thriller that puts great whites and killer whales on a collision course. The film, which stars Martin Henderson (Virgin River), Teagan Croft (Titans) and Charlotte Vega (Wrong Turn), is being lined up for a theatrical release in early 2027. In Alphas, after a string of great white [ ]
+EXCLUSIVE: Noah Reid is looking to join Max Thieriot and Morena Baccarin as the lead of a Fire Country Sheriff Country universe series. The Schitt s Creek alum has been tapped to appear in one episode of the upcoming second season of CBS cop drama Sheriff Country as Dr. Hudson “Hud” Henshaw. The guest star casting comes [ ]
 
-### R.L. Stine’s Pumpkinhead 2 Launches At TIFF Market, Details Revealed With Cassandra Peterson AKA Elvira Mistress Of The Dark Joining Cast
-Fri, 11 Sep 2026 13:17:18 +0000 — https://deadline.com/2026/09/pumpkinhead-2-details-cassandra-peterson-elvira-joins-1237098700/
+### Jay Baruchel Michael Dowse Talk Falling In Love With The Stunt Driver Ken Carter, Upcoming Sitcom Project, Baruchel s WWII Fighter Pilot Passion Project
+Fri, 11 Sep 2026 17:04:05 +0000 — https://deadline.com/2026/09/jay-baruchel-the-stunt-driver-interview-sitcom-ww2-movie-1237073655/
 
-EXCLUSIVE: Blue Fox Entertainment will launch international sales at the TIFF market to R.L. Stine’s Pumpkinhead 2, the upcoming Tubi Original sequel to the young-adult horror film R.L. Stine’s Pumpkinhead. Written and directed by Jem Garrard, who also helmed the original R.L. Stine’s Pumpkinhead, the sequel continues author Stine s Pumpkinhead story. The synopsis reads: When [ ]
+For Michael Dowse, the filmmaker behind The Stunt Driver, there s a meta aspect to his journey with the Canadian sports comedy. The film, examining the dogged pursuit of a seemingly impossible dream, was in effect just that for him — a white whale that he chased for 12 years. And now, he s harpooned it: The film [ ]
 
-### Ben Silverman, Emmanuelle Chriqui, Keshet More On Advisory Board Of New Platform Connecting Jewish Creators With Investors TIFF Market
-Fri, 11 Sep 2026 12:54:56 +0000 — https://deadline.com/2026/09/ben-silverman-emmanuelle-chriqui-jewish-platform-shooq-1237098709/
+### ‘Before The War’, ‘Our Share Of Sand’ Scoop Top Venice Critics’ Week Prizes
+Fri, 11 Sep 2026 17:03:43 +0000 — https://deadline.com/2026/09/before-war-share-sand-venice-critics-week-1237099181/
 
-EXCLUSIVE: Former NBC Co-Chairman Ben Silverman, Micah Green (CEO of 30 West), Tanya Cohen (Co-CEO of Made by Us), actress Emmanuelle Chriqui (Entourage), producer Anthony Bregman (Eternal Sunshine Of The Spotless Mind) and Keshet International are among the advisory board members of new platform Shooq, which aims to connect Jewish creators with investors keen to [ ]
+Italian-French director Tommaso Usberti’s Before the War, a coming-of-age tale exploring contemporary masculinity, has scooped the Grand Prize at the 41st Venice International Film Critics Week. In other key feature film prizes, Chilean-Indian London-based director Shalini Adnani’s Our Share of Sand, a family drama reflecting on inequality and environmental crisis, won the Audience Award. Bibiana [ ]
 
-### Justin Trudeau Launching Production Company At TIFF
-Fri, 11 Sep 2026 12:36:44 +0000 — https://deadline.com/2026/09/justin-trudeau-production-company-tiff-1237098712/
+### Gary Oldman Clarifies James Bond Comments: I Do Not Know, But I m Hoping It s Jack
+Fri, 11 Sep 2026 16:38:45 +0000 — https://deadline.com/2026/09/gary-oldman-clarifies-james-bond-comments-jack-lowden-1237099055/
 
-Former Canadian Prime Minister Justin Trudeau is launching a production company with his former Chief of Staff Katie Telford, and it will be called Hope Hard Work. The pair will officially launch the company at this year’s Toronto Film Festival. They will be repped by 3 Arts. In their official announcement, Trudeau and Telford have [ ]
+Gary Oldman has reflected playfully on creating headlines around the world with his comments about the James Bond casting process. In an interview with Canadian broadcaster Global over the weekend, Oldman claimed that 007 had been selected. Oldman added that he hoped his Slow Horses co-star Jack Lowden would get the role. “It’s been rumored [ ]
 
-### Quiver Distribution Takes U.S. For Jérémy Comte’s Ghana Canada-Set Drama ‘Paradise’
-Fri, 11 Sep 2026 12:00:00 +0000 — https://deadline.com/2026/09/quiver-distribution-us-jeremy-comte-paradise-1237098691/
+### ‘Bling Empire’ Star Dorothy Wang Launching Wedding Series On YouTube
+Fri, 11 Sep 2026 16:29:00 +0000 — https://deadline.com/2026/09/bling-empire-dorothy-wang-wedding-series-youtube-1237076119/
 
-EXCLUSIVE: Quiver Distribution has acquired U.S. rights to Oscar-nominated Canadian director Jérémy Comte film feature Paradise. The Canada-France-Ghana co-production had its world premiere in the Panorama section of the Berlinale earlier this year. Quiver is planning to release the film in the U.S. this winter. WME and Global Constellation, a Vuelta company, negotiated the deal [ ]
+EXCLUSIVE: From Married At First Sight to Say Yes To The Dress, wedding shows remain a popular fixture on television. And now YouTube. Dorothy Wang, one of the stars of Netflix reality series Bling Empire: New York, is launching her own wedding on the Google-owned streaming service and has teamed up with Rich Kids of [ ]
 
-### The Gentlemen Season 2 Loses Half A Million Viewers In The UK
-Fri, 11 Sep 2026 10:40:52 +0000 — https://deadline.com/2026/09/the-gentlemen-season-2-loses-half-a-million-viewers-uk-1237098684/
+### Scott Kid Cudi Mescudi Stars Opposite Barbie Ferreira In His Next Directorial Feature Wrong Number
+Fri, 11 Sep 2026 16:25:52 +0000 — https://deadline.com/2026/09/kid-cudi-sets-wrong-number-movie-barbie-ferreira-1237099050/
 
-The blaze of Meghan Markle-shaped publicity around The Gentlemen appears to have done little for the show s UK ratings, according to official figures. Season 2 of Guy Ritchie s glossy crime drama premiered on September 3 on Netflix and, after seven days of streaming, the first episode was watched by 3 million British viewers. The Gentlemen s [ ]
+EXCLUSIVE: Scott Kid Cudi Mescudi has recently been teasing his second directorial effort in a year, on the heels of the addiction drama Doe. And we can now tell you that it s Wrong Number, a horror thriller where he stars opposite Barbie Ferreira (Mile End Kicks). Currently in production in Los Angeles, Wrong Number centers on Ibn (Mescudi), [ ]
 
 ## befores & afters
 
@@ -185,12 +185,42 @@ ILM VFX supe Russell Earl and ILM anim supe Kevin Martel examine the third act b
 
 ## IndieWire
 
+### The Housewife Review: Naomi Watts Stuns, but This True Story Flounders Under Its Own Weight
+Fri, 11 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/movies/the-housewife-review-naomi-watts-true-story-1235216304/
+
+TIFF: In the feature debut from Ben Shirinian and first-time screenwriter Alyssa Hill, an inherently chilling story about evil hiding within ordinary American life is done in by an uneven cast and script that connects too many dots.
+
+### ‘Makikiraan Po (Let Us Through, Dear Ancestors)’ Review: Lav Diaz and Isabel Sandoval Team Up for a Mournful, Modest Anti-Colonial Drama
+Fri, 11 Sep 2026 18:30:00 +0000 — https://www.indiewire.com/criticism/movies/let-us-through-dear-ancestors-review-lav-diaz-1235216132/
+
+Venice: The Filipino filmmaker’s swift return to his signature black-and-white converses thematically with last year’s bracing epic "Magellan."
+
+### American Hostage Review: Jon Hamm Anchors a Tepid Period Drama on Timely Threats to the Fourth Estate
+Fri, 11 Sep 2026 18:00:00 +0000 — https://www.indiewire.com/criticism/shows/american-hostage-review-jon-hamm-series-mgm-1235216097/
+
+Inspired by a true story, co-creators Shawn Ryan and Eileen Myers' eight-episode period drama follows Indianapolis radio reporter Fred Heckman (Jon Hamm) as he tries to cover a hostage crisis without compromising his ethics — or getting anyone killed.
+
+### ‘Lovers in the Blue Night’ Review: Anuparna Roy Returns with a Dreamy, Pained Drama About Desire and Displacement
+Fri, 11 Sep 2026 15:30:00 +0000 — https://www.indiewire.com/criticism/movies/lovers-in-the-blue-night-review-anuparna-roy-1235216099/
+
+Venice: Four restless migrants in Mumbai grapple with forbidden desires and lost futures in this compelling tale from the director of "Songs of Forgotten Trees."
+
+### A Bit of Light Review: Ali Asgari s Iranian Answer to It s a Wonderful Life Is a Bit of a Miracle
+Fri, 11 Sep 2026 15:15:00 +0000 — https://www.indiewire.com/criticism/movies/a-bit-of-light-review-ali-asgari-1235216265/
+
+Venice: On the eve of the current Iran war, a doctor prepares for suicide in a day-in-the-life drama that offers a mighty and coherent outlook on the big questions.
+
+### One Minute to Midnight Review: Melvil Poupaud Reckons with His Past in a Too-Talky Parisian Drama
+Fri, 11 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/criticism/movies/one-minute-to-midnight-review-melvil-poupaud-1235215912/
+
+Venice: Poupaud plays a former culture writer on an apology tour in a Nicolas Pariser film that could've been an article. Or a play.
+
 ### How Mark Zuckerberg s Doomsday Escape Plan and Eyes Wide Shut Inspired Florian Zeller to Create Bunker for Penélope Cruz and Javier Bardem
 Fri, 11 Sep 2026 14:30:00 +0000 — https://www.indiewire.com/features/interviews/how-mark-zuckerberg-eyes-wide-shut-inspired-bunker-1235216215/
 
 As "Bunker" prepares to premiere at TIFF, Florian Zeller admits one of his married cast members didn't like the comparison to Cruise and Kidman.
 
-### How Two Oscar Winners Are Charting New Paths for Indian Cinema at TIFF with Dorothy and Termite
+### How Two Oscars Breakouts Are Charting New Paths for Indian Cinema at TIFF with Dorothy and Termite
 Fri, 11 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/tiff-indian-movies-dorothy-termite-interviews-1235216067/
 
 TIFF: “Dorothy” director Karthik Subbaraj and producer Guneet Monga Kapoor hint at why this large-canvas Tamil gangster film is so special, while Shaunak Sen discusses “Termite,” his first foray into directing fiction, and a feature documentary he is co-producing with Joaquin Phoenix and Rooney Mara.
@@ -215,137 +245,107 @@ Fri, 11 Sep 2026 12:45:00 +0000 — https://www.indiewire.com/features/interview
 
 Venice: IndieWire talks to Jeon at the festival about reuniting with director Lee after his 2007 "Secret Sunshine" earned her a history-making Best Actress prize at Cannes.
 
-### Moonfish Review: This Existential Outer Space Abandonment Saga Is a Bizarro Project Hail Mary
-Fri, 11 Sep 2026 12:00:00 +0000 — https://www.indiewire.com/criticism/movies/moonfish-movie-review-1235216153/
-
-Venice: Daniel Zvereff writes and directs this sparse, gray film about what it means to grieve our own humanity in real time.
-
-### Being Heumann Review: Siân Heder s CODA Follow-Up Is an Essential Biopic That s Not Afraid to Have Some Fun
-Fri, 11 Sep 2026 03:44:41 +0000 — https://www.indiewire.com/criticism/movies/being-heumann-review-sian-heder-biopic-judy-1235213657/
-
-TIFF: Heder's look at a remarkable period in activist Judy Heumann's work is life-affirming in myriad ways, and boasts a star turn from Ruth Madeley.
-
-### The Criterion Collection Just Got Its First Physical Outpost in Toronto
-Thu, 10 Sep 2026 22:41:07 +0000 — https://www.indiewire.com/news/general-news/criterion-collection-physical-outpost-toronto-cinema-cellar-1235216142/
-
-For Toronto-based fans of the beloved physical media distributor, the just-opened Cinema Cellar is a must-shop. IndieWire stopped by on opening day.
-
-### Colin from Accounts Final Season Is for the F*ck-Ups
-Thu, 10 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/shows/colin-from-accounts-final-season-review-1235215748/
-
-The Australian romantic-comedy series returns with a third and final season that sees its central couple summoning the courage to decide what's right for them, even if it looks wrong to everyone else.
-
-### Tessa Blake Directed Over 50 Hours of Television Before Embarking on Her First Feature. The Experience Paid Off
-Thu, 10 Sep 2026 18:30:00 +0000 — https://www.indiewire.com/features/interviews/tessa-blake-on-if-i-tell-you-1235215941/
-
-The director of "If I Tell You" says years of training on shows as varied as "American Horror Story," "Matlock," and "NCIS: Hawai'i" helped her develop a clear, precise visual language for her powerful debut feature.
-
-### Cody Fern Wrote His Directing Debut Closing Night for Sarah Paulson: She s Like a Bugatti
-Thu, 10 Sep 2026 18:00:00 +0000 — https://www.indiewire.com/features/interviews/cody-fern-directorial-debut-closing-night-sarah-paulson-1235215928/
-
-Ahead of the Toronto International Film Festival, the "American Horror Story" star and first-time filmmaker talks directing a powerhouse coterie of actresses: not only Paulson, but also Naomi Watts and Dianne Wiest.
-
 ## The Wrap
 
-### 9/11 Watch Guide: Documentaries, TV Specials and Live Coverage Commemorating the 25th Anniversary
-Fri, 11 Sep 2026 14:09:31 +0000 — https://www.thewrap.com/creative-content/tv-shows/9-11-25th-anniversary-documentary-tv-specials-2026/
+### Megan Rapinoe Wanted Something Different for Her Documentary, and So Did the Director
+Fri, 11 Sep 2026 19:08:02 +0000 — https://www.thewrap.com/creative-content/movies/megan-rapinoe-documentary-tiff-2026-interview/
 
-This year marks the 25th anniversary of one of the most devastating events in U.S. history: the attacks on the Twin Towers in New York City on September 11, 2001 . To commemorate the day, there will be several options on TV and streaming. Each of the major networks is going all-in on their coverage, with live primetime programming from Ground Zero. These anchors will bring viewers first-hand accounts from the horrific day, speaking to first responders, survivors, family members of those lost, and more. But, there will also be pre-recorded specials, documentaries and more. You can find the breakdown by network and streamer below: ABC Good Morning America will commemorate the occasion live on Friday morning ABC News Live Prime ABC News Live will stream a one-hour special edition of “Prime” from ground zero, hosted by “World News Tonight” Sunday and “Prime” anchor Linsey Davis and WABC-TV anchors Sade Baderinwa and Mike Marza. 9/11 Tribute in Light: Live from Lower Manhattan (8 p.m. ET) David Muir, Robin Roberts and Diane Sawyer will host live coverage that culminates with Tribute in Light, a public art installation that s lit up the New York City skyline every 9/11 since the attacks 9/11: United We Stand – 25 Years Later After first airing on ABC on Sept. 1, the network will re-air the special hosted by Michael Strahan on Sept. 11 Disney+/Hulu 9/11 Reunited In this three part docuseries, survivors, first responders and witnesses reunite with the strangers, rescuers and everyday
+Megan Rapinoe wanted the documentary chronicling her early life through her prestigious soccer career to be something different. While speaking with TheWrap at the 2026 Toronto International Film Festival, the Rapinoe subject and director Rebeca Huntt explained their approach to the project. They both agreed early on that they wanted things to feel different, and Rapinoe knew that after years of being interviewed for her performances on the pitch and activism off it, that difference came in the time the pair spent together and by being prompted in the right way. The questions were different, Rapinoe said. I think that was the big thing. I think I was crying the first time that we talked. As soon as we met, I think we both wanted something different, and to go to a different level and talk about my career and my life in the ways that mattered to us the most. I know for me personally, I don t think the best things that I ve ever done and the most important things are what I ve done on the field. And I feel like for Rebecca, she looked at me and said, OK, that s the vehicle, but like there s other stuff here that I m interested in, and so right away I think we connected on that. She added: I feel like you were embedded in so many ways, and then I trusted you, and you trusted me, and I wanted to go there, but also you have to be prompted in the right way, and you have to have the right vision, and Rebecca had that. It made it really easy for me to tell just a really human, real s
 
-### Jimmy Fallon Says Trump s $5,000 Bribe Also Pays Out If You Laugh at All These Jokes Tonight
-Fri, 11 Sep 2026 13:44:02 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-trump-bribe-monologue-jokes/
+### Jimmy Kimmel and ABC Begin Talks to Renew Late Night Contract
+Fri, 11 Sep 2026 18:55:04 +0000 — https://www.thewrap.com/industry-news/business/jimmy-kimmel-contract-negotiations-abc/
 
-President Trump once again promised voters a dividend check this week despite not following through on others he s promised this time offering $5,000 to every person who helps Republicans keep their majority in this November s midterm elections. But, on Thursday night, Jimmy Fallon joked that there s another way to get that money: laugh at every punchline during The Tonight Show. The NBC host made the fake promise right at the top of his monologue, as he welcomed the audience to the show. Thank you for watching. And I just want to say quickly, if you laugh at all these jokes tonight, President Trump said he ll give everyone in the audience $5,000, Fallon quipped. The late night host then poked fun at Trump s 2-hour long address at the Republican midterm convention held this week for the first time ever. According to Fallon, two hours is not so much a speech, that s a residency. But eventually, he turned his attention back to Trump s dividend bait. Trump said that if Republicans win both the House and the Senate in the midterm elections, he will give every American adult $5,000. Now, I know that sounds like a bribe, Fallon said. In Trump s defense, he s never going to pay us, so technically it s not a bribe. It is true that the president has previously promised checks to Americans that he never followed through on. Throughout his campaign and presidency, Trump touted the idea of $5000 stimulus checks from DOGE , $2000 stimulus checks as tariff dividends, and $1000 from expirin
+ABC has entered negotiations with Jimmy Kimmel to renew his late night program, nearly one year after the network suspended production after his controversial remarks. Jimmy Kimmel Live! will continue through the 2026-2027 television season, but Kimmel and Disney executives are in talks about how the show will proceed at the network beyond that, TheWrap has learned. TheWrap has reached out to Kimmel. ABC declined to comment. The late night program was renewed for a one-year contract deal in 2025 as opposed to the show s typical three-year contract. The lessened contract comes as late night TV has seen major shifts with the cancellation of The Late Show with Stephen Colbert and as other shows like The Daily Show saw only one-year contract deals. Kimmel came under fire from the Trump administration and MAGA supporters in September 2025 for his remarks about the late Charlie Kirk and the man that killed him in his monologue. ABC suspended his show from the air from Sept. 17 through Sept. 22, leading to an outcry from political leaders, celebrities and unions alike. The single-year contract gives both Kimmel and the broadcaster greater flexibility about renewals or cancellations. Puck reported that Kimmel informed Disney and ABC that he was interested in renewing his contract for another season beyond the current deal’s end in May. More to come The post Jimmy Kimmel and ABC Begin Talks to Renew Late Night Contract appeared first on TheWrap .
 
-### River Review: This Macabre, Magnificent Horror Slasher Will Drown You in Pure Terror
-Fri, 11 Sep 2026 13:34:49 +0000 — https://www.thewrap.com/creative-content/movies/river-review-jane-levy-horror-movie/
+### How Duncan Jones Battled Tech Hurdles and Indie Movie Budgets to Bring His Animated War Movie ‘Rogue Trooper’ to Life
+Fri, 11 Sep 2026 18:54:34 +0000 — https://www.thewrap.com/creative-content/movies/rogue-trooper-director-duncan-jones-interview-2000-ad/
 
-In Joshua Giuliano s delightful horror gem “River,” three troubled siblings go on a trip down the river to mourn a recent loss. But they find only more death as they stumble upon a murderous force that will stop at nothing to kill them and send them to their final resting place at the bottom of the riverbed. It’s an aggressively simple premise, but one Giuliano executes with both visceral finesse and, when his feature debut increasingly calls for it, bloody flair. While initially refreshingly restrained, it s also willing to let everything rip once all the cards are on the table. This is a film that never once rests on its laurels, continually pushing things further and further without losing a handle on its craft. Imagine the killer from Tobe Hooper’s enduring genre classic Texas Chain Saw Massacre took to the water, and you’ve got a pretty good starting point for what’s unfolding here. It’s an energizing experience that marks Giuliano as a name to watch in horror. Kicking off the Midnight Madness section at the Toronto International Film Festival, the film centers on three siblings, played by the great trio of Jane Levy, Jessica Rothe, and Max Mattern, who are reuniting under sad, quite messy, circumstances. Their father, with whom each had a fraught relationship, has recently passed, so they’ve gathered to spread his ashes on the remote river where he used to drink and fish. This already strained procession will soon take a turn for the worse when they find themselves stra
+“Rogue Trooper,” Duncan Jones’ hellzapoppin’ animated sci-fi war movie , just had its North American premiere as part of the Toronto International Film Festival after debuting at the Annecy International Film Festival over the summer. No matter what you think about the movie, you can appreciate “Rogue Trooper” as an incredible achievement – an independent animated feature that looks as good as any Hollywood blockbuster, and marks the return of one of our most exciting filmmakers. And it only took 25 years. In 2001, Jones got a meeting with Jason and Chris Kingsley. The Kingsleys run Rebellion Developments, a successful videogame development company headquartered in Oxford, England. Rebellion had just purchased “2000 A.D.,” a hugely influential British sci-fi comic magazine that began in 1971 and is most famous for introducing the world to Judge Dredd, a character who has been the subject of two very different adaptations (first in 1995, with Sylvester Stallone wearing a costume designed by Jean-Paul Gautier, and again in 2012 with a much more taciturn Karl Urban). For the meeting, Jones shaved his head in the style of the titular character – a blue, genetically engineered grunt fighting an endless war on a poisonous planet, originally created in the early 1980s by Gerry Finley-Day and future “Watchmen” illustrator Dave Gibbons. That’s right – going into the meeting, Jones wore a comic book-accurate mohawk. “I go in and I say, ‘I want to make a Rogue Trooper movie.’ Their firs
 
-### Can MS NOW Harness Cable News Loyalty Into a Membership Business?
-Fri, 11 Sep 2026 13:15:00 +0000 — https://www.thewrap.com/media-platforms/streaming/ms-now-membership-strategy-explained/
+### Rich Greenfield on AI s Value in Investing — and Why Spotify Doesn t Get Enough Credit
+Fri, 11 Sep 2026 18:39:46 +0000 — https://www.thewrap.com/industry-news/business/rich-greenfield-interview-ai-lightshed/
 
-MS NOW viewers already spend an average of nine hours a week watching the network. Now it wants its most loyal fans to spend a little more: $7.99 a month. The left-leaning cable news network launched its first direct-to-consumer membership this week , offering live television, exclusive programming and a curated news feed. But its bigger bet comes from a playbook that YouTubers, podcasters and other independent creators have spent years refining: Pay for greater access to the personalities you follow — and join the community around them. So what does that members-only access actually provide? At noon each day, subscribers can participate in live Q&As with a rotating lineup of anchors : Rachel Maddow on Mondays, the “Morning Joe” team on Tuesdays, Ali Velshi and Stephanie Ruhle on Wednesdays, Michael Steele on Thursdays, Jen Psaki on Fridays, hosts from “The Weekend” on Saturdays and Al Sharpton on Sundays. Some members can appear by live video with Maddow and the “Morning Joe” hosts. A second daily session at 6 p.m. connects subscribers with reporters covering the day’s news. Members also receive moderated conversations, members-only events and original programming. That makes the service less a conventional streaming bundle than an attempt to turn cable news loyalty into a membership business. MS NOW s inside access puts a different spin on the standard subscription service at a time when consumers are growing weary of all of their monthly financial obligations. With the mid
+Artificial intelligence is fueling booms in startups and creating opportunities for investors looking to participate in seed and early round funding for companies that could reshape industries like media and entertainment. Analyst Rich Greenfield, known for aiming sharp questions at CEOs and proclaiming the end of traditional media, also wears an investor s hat with a venture capital fund. Think former Disney exec-turned-investor Bob Iger, but on a smaller scale. Greenfield talked to The Ledger about how AI powers some of the companies he’s invested in, plus names one public company he thinks is truly taking advantage of what the emerging technology has to offer. With football season starting, we also look at NFL valuations and watch as Lionel Messi adds to his portfolio of fútbol teams. Thanks for reading. Jon Lafayette (Send your tips and pitches to jon.lafayette@thewrap.com ) P.S. Money moves, companies change hands and the power map gets redrawn. At TheGrill on Sept. 30, the executives, investors and dealmakers behind those shifts get into what’s moving the business next. AI Creator Day is included on Sept. 29. Subscribers get 50% off through Sept. 8 with PROPERKS50. THE DEEP DIVE Rich Greenfield of LightShed Ventures (Photo courtesy of LightShed Ventures) How Analyst Rich Greenfield Sees Investing as a Venture Capitalist Rich Greenfield is best known as the LightShed Partners analyst often quoted about the difficulties traditional media companies face adapting to the str
 
-### Jimmy Kimmel Taunts the FCC With an Exceptionally Appropriate Round of Unnecessary Censorship
-Fri, 11 Sep 2026 13:05:29 +0000 — https://www.thewrap.com/media-platforms/tv/jimmy-kimmel-fcc-unnecessary-censorship-james-talarico/
+### Schitt s Creek Star Noah Reid to Headline Sheriff Country Medical Spinoff at CBS
+Fri, 11 Sep 2026 18:30:18 +0000 — https://www.thewrap.com/creative-content/tv-shows/sheriff-country-spinoff-cast-noah-reid-medical-drama/
 
-Jimmy Kimmel kept his Thursday night interview with James Talarico to YouTube, but that didn t stop him from trolling the FCC on his ABC late night show with what he called an exceptionally appropriate round of This Week in Unnecessary Censorship. This is an unusual program for us because in a few minutes I m going to interview James Talarico, the Democratic nominee for U.S. Senate in Texas. But you re not going to see it, Kimmel recapped. I mentioned last night, this interview will not be televised because of threats from the FCC led by Commissioner Brenda [sic] Carr, who says we do not have the right to interview whichever candidates we want to interview, which is something we ve been doing for 20-plus years. We will instead post this interview on our YouTube channel. This is yet another attack on free speech, something that has become all too familiar for us here at the show, for us in the country, he added. The FCC wants to make it impossible for me to interview candidates by requiring that I interview every candidate on the ballot who asks for equal time. So not only would I have to interview James Talarico s Republican opponent, Ken Paxton which, by the way, I would love to do, call me. I ll have many questions for you our affiliates in Texas would have to give equal time to as many candidates as there are on the ballot. So there s about 10 candidates on the ballot, the host further noted. But the White House, once again, is claiming that what I m saying, which is clear
+Noah Reid is scrubbing into Sheriff Country. The Schitt s Creek and Interview With the Vampire alum will guest star on Season 2 of the CBS police procedural, and potentially be a series regular in the medical drama spinoff in development at the broadcast network, TheWrap has learned. Reid will play Dr. Hudson “Hud” Henshaw, chief of emergency medicine at Edgewater Memorial Hospital, also known as “Edge Med. Charming and quick-witted but rough-around-the-edges, Hud was born and raised in the outlaw hinterland known as Deadwater. He is the proud son of convicted felons, yet refused to take the family’s drug money to pay for medical school. He is a passionate doctor who embodies his oath to first do no harm, yet is not one to shy away from a good bar fight. A man deeply committed to the community he grew up in, he is a restless soul all the same, per the official character description. The still-untitled medical drama would mark the third series in the CBS franchise that began with Fire Country, from co-creators Max Thieriot, Tony Phelan and Joan Rater. Jerry Bruckheimer and KristieAnne Reed also serve as executive producers on the CBS Studios-produced shows. Reid broke out as Patrick on the beloved comedy series Schitt s Creek. He received a Screen Actors Guild award alongside his castmates and was nominated three times for a Canadian Screen Award, winning the award for Best Supporting Actor/TV comedy once. He last starred in Brian Watkins Outer Range opposite Josh Brolin and I
 
-### Why Science and Education Videos Are Thriving on YouTube
-Fri, 11 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/culture-lifestyle/social-trends/stem-content-youtube-why-popular-mark-rober-cleo-abram/
+### Point Break TV Show Greenlit at AMC From Showrunners Dave Kalstein and Christopher C. Rogers
+Fri, 11 Sep 2026 18:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/point-break-tv-show-spinoff-amc/
 
-Cleo Abram went to Antarctica to discover the secrets lying beneath the ice. And she brought her millions of followers with her. The video journalist trekked down into the ice to show her Huge, If True audience a body of water that could contain living organisms, a discovery previously made by a team of Soviet scientists, and that had been sealed off from the rest of the world for 15 million years. The expedition became two videos, each less than 20 minutes long, packed with graphics, expert interviews and firsthand discoveries — the kind of highly produced science programming that once would have been at home on a network like National Geographic or Discovery. On YouTube, her videos garnered more than 6 million views each for her more than 12 million followers across platforms. Abram’s journey to Antarctica is emblematic of a much larger shift in how audiences consume science and educational content. YouTube, which helped make viral science experiments like the Diet Coke and Mentos geyser a cultural phenomenon in the platform’s early years, has evolved into a home for sophisticated STEM programming that can attract audiences in the tens of millions. They re the type of programs traditional media companies used to produce, but now individual creators have taken the baton. “There are way more creative, entrepreneurial, ambitious human beings than were ever going to be greenlit at any specific streamer, and that s awesome, Abram, the self-proclaimed optimist, told TheWrap. The 
+AMC will revive Point Break with a new series over three decades after the original film launched. AMC Global Media has greenlit a Point Break TV show for AMC and AMC+ set in present day, centered on a new heist crew with ties to the notorious Ex-Presidents gang. The series, which is produced by lead studio Alcon Television Group and co-producer StudioCanal, hails from showrunners and executive producers Dave Kalstein ( Treadstone, Quantico ) and Christopher C. Rogers ( Halt and Catch Fire, Sugar ). Set over 30 years after the events of the original 1991 film, a new heist crew has emerged and the FBI must rely on a mysterious ex-pro surfer with a checkered past to infiltrate them, per the logline. The first season, which consists of eight episodes, will go into production in early 2027. The series order comes several months after AMC announced the Point Break series was in development in late April, alongside a NASCAR show starring Dennis Quaid. Alcon co-founders and co-CEOs Andrew Kosove and Broderick Johnson also EP with Alcon Television Group head of television Ben Roberts and Julia Cohen. M-K Kennedy, Paul Gilbert and Daniel Gratton oversee Point Break for StudioCanal, which will handle international sales and worldwide distribution outside of the U.S. and Canada. Steven Johnson, Diego Piasek and Gene Hong will serve as co-executive producers, with Emily Yoshida and Ben Cook as supervising producers. “Start with one of the most entertaining and unforgettable action films 
 
-### CBS Moves to Dismiss Former Matlock Writer s Racism, Sexism Lawsuit
-Fri, 11 Sep 2026 05:52:33 +0000 — https://www.thewrap.com/media-platforms/tv/matlock-lawsuit-motion-to-dismiss-racism-sexism-cbs/
+### The Best Movies About 9/11
+Fri, 11 Sep 2026 18:22:43 +0000 — https://www.thewrap.com/creative-content/movies/best-movies-about-9-11/
 
-CBS Studios filed a motion to dismiss the June lawsuit filed by former Matlock writer John Lowe on Thursday, months after he accused producers of creating a hostile work environment with “sexually explicit and discriminatory conduct.” We take allegations of discrimination and harassment very seriously. Today, with the filing of our motion to strike, we took our first step toward challenging the baseless complaint filed by former Matlock writer John Lowe, a CBS Studios spokesperson said in a statement to TheWrap. As stated in the motion and following a thorough investigation, we are confident that Lowe’s accusations are demonstrably inaccurate and maliciously fabricated, and will not allow them to go unchallenged. False allegations are deeply damaging, both to those wrongly accused, and to anyone with a serious and legitimate claim of discrimination, they added. We stand firmly behind our producers and look forward to the truth coming to light. In his initial California filing, Lowe cited an alleged instance where he claims he was fired after reporting that his supervisor referred to Juneteenth as “C nteenth,” utilizing a racial slur; however, both the studio and the producers refuted this occurrence in their newly filed documents. Lowe further accused showrunner Jennie Snyder Urman and executive producers Nicki Renna and Jeffrey Lieber of using stereotyped comments against him and other Black cast and crew members. “There is no excuse for this blatant racism and harassment. C
+The 9/11 terrorist attacks 25 years ago marked one of the darkest days in American history. And like so much of American history, many tried to reckon with the loss, grief and anger of the time through art. For those who weren’t around then, it’s difficult to encapsulate the feeling of immense sadness that enveloped the country. A shadow loomed large for months, and in the immediate aftermath, we unsurprisingly turned to late night shows like “Saturday Night Live” and “The Daily Show With Jon Stewart” to start to usher in some semblance of entertainment normalcy, albeit with the still shaky sense that we weren’t quite sure how to operate like before. Indeed, there was no going back. The world was forever changed . There have been several films made about that time – some about the attacks themselves, some about the feelings we shared, and some about the United States’ military response. These are some of the best. United 93 United 93 (Universal Pictures) Perhaps the most visceral film made about 9/11, Paul Greengrass’ “United 93” came out in 2006, just a few years after the attacks. The film chronicles how the passengers of United Flight 93 learned of the World Trade Center attacks and stormed the cockpit of their plane, successfully thwarting the hijackers’ plans to head towards the White House. It was ultimately an act of immense bravery and sacrifice, as all aboard perished in a crash in a Pennsylvania field. Greengrass’ film takes a docudrama approach to the events, casti
 
-### Being Heumann Review: Disabled Actors Light Up Siân Heder s Crowd-Pleasing Drama
-Fri, 11 Sep 2026 03:30:18 +0000 — https://www.thewrap.com/creative-content/movies/being-heumann-review-sian-heder/
+### The Daily Show Roasts Trump s $5,000 Midterm Election Bribe as 2 Trips to the Grocery Store
+Fri, 11 Sep 2026 18:01:00 +0000 — https://www.thewrap.com/media-platforms/politics/the-daily-show-trump-5000-bribe-midterm-convention-groceries/
 
-The last time Siân Heder took a film to a festival, the year was 2021 and the festival was a largely virtual, Covid-era Sundance. The film was “CODA,” which landed a record deal with Apple TV, won the audience and the jury awards and went on to win the Oscar for Best Picture, knocking off Jane Campion’s “The Power of the Dog,” which had been considered the frontrunner for months. This time around, the Heder film is “Being Heumann,” the festival is Toronto and the deal with Apple is already in place. The new film can’t be the kind of underdog that “CODA” was, but it can be the same kind of movie: TheWrap called “CODA” “modest but thoroughly satisfying, corny but effective, never edgy and always likable,” and it’s safe to say that “Being Heumann” is more ambitious, just as satisfying, a little less corny, equally effective, occasionally edgy and, of course, very likable. A story from the life of Judy Heumann, a disability rights activist who led a 26-day sit-in in 1977 to protest the government’s failure to enact 1973 legislation, the film is focused on one woman and one specific struggle, but it gains strength from the way it reverberates in many directions. As Heder said when she introduced the movie before its premiere in the Visa Screening Room at the Princess of Wales Theatre, it is debuting in an era in which “a lot of people are being left behind,” and so many battles for justice are being waged on so many different fronts that you can wonder if organized protest even ma
+The Daily Show roasted President Trump over his promise this week to send $5,000 checks to every American adult if Republicans maintain control of the House and the Senate in this year s midterm elections, joking, $5,000?!? That s two trips to the grocery store! We re less than two months away from the midterms, which means you ve got just under 60 days to find out who your representative is and what Congress does, host Michael Kosta noted at the top of his Thursday night monologue. The comedian went on to roll a montage of news reports relaying that a majority of Americans disapprove of Trump s performance since retaking office. Americans are so unforgiving! You lose one war, you blow up one economy, you give people one explosive diarrhea? Get over it! Kosta joked. He then turned his attention to the Republican Party s first-ever midterm convention, which kicked off in Dallas on Wednesday. The convention featured an appearance from Ken Paxton, the Republican running in this year s Texas senate race. After watching a few clips from Paxton s convention speech, Kosta called the politician awful and a charisma black hole. However, as the host noted, Trump does not seem too worried about Paxton s mainstream appeal. You know what? Trump doesn t need Ken Paxton to keep the House and the Senate, Kosta said. He has a secret weapon, and it s called… a bribe. During his own speech, Trump promised to send $5,000 checks to American voters if — and only if — Republicans end up holding ont
 
-### Jimmy Kimmel Brings James Talarico to YouTube After Being Targeted by the FCC
-Fri, 11 Sep 2026 03:17:40 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-live-james-talarico-interview-youtube-fcc-threat/
+### Bleecker Street’s Crosswalk Acquires ‘Long Live Def Leppard’ Doc
+Fri, 11 Sep 2026 17:26:26 +0000 — https://www.thewrap.com/creative-content/movies/bleecker-street-crosswalk-long-live-def-leppard-documentary/
 
-Jimmy Kimmel welcomed Texas Senate hopeful James Talarico to the Jimmy Kimmel Live! stage on Thursday night, but their interview only aired in full on YouTube. I mentioned last night, we are being targeted by the FCC for the crime of interviewing political candidates, even though, for years, we and every other late night talk show have welcomed numerous candidates, including Donald Trump, Kimmel shared atop the 21-minute clip . When he was running, he was on this show two times. But now I guess he doesn t like me anymore or the First Amendment. And so, the FCC has threatened me or threatened my show, our network, even our local ABC stations, because they want to make our editorial decisions for us, which of course we cannot accept, he continued. So, tonight, we are bypassing the public airwaves and hosting this YouTube interview on YouTube, even though our government would clearly prefer that we not do it at all. During their interview, the Texas state representative spoke at length about his opponent Ken Paxton refusing to debate, as well as President Donald Trump and his RNC Midterm Convention. However, Kimmel also made sure to point out that Talarico was similarly demoted to YouTube back in February with Stephen Colbert ( The Late Show has since gone off the air). Well, they re worried that we re going to win this race in Texas, Talarico replied. But we are the underdogs until the last vote is counted. We re not just going up against the most corrupt politician in Texas, w
+Bleecker Street’s event cinema division Crosswalk has acquired the North American rights to the first-ever authorized feature length documentary on Def Leppard, the company announced Friday. Long Live Def Leppard is a complete and all-access account of the epic journey the band has taken from its humble beginnings in the U.K. to a global fandom that continues to today. The doc was directed by Jeff Feuerzeig ( The Devil and Daniel Johnston, Author: The JT LeRoy Story ), who also produced alongside Alice Rhodes and Sam Bridger for VICE Studios, Nicholas Ferrall and Jeanne Elfant Festa of White Horse Pictures, Danny Gabai of The Searchers Documentary Films, and Brian T. Nugent of Sobey Road Entertainment. The film is slated for an early 2027 release in theaters. With more than 110 million albums sold worldwide, two prestigious Diamond Awards in the U.S., and an induction into the Rock & Roll Hall of Fame, Def Leppard continues to make a lasting impact on rock music, pushing boundaries with their electrifying live shows. The official synopsis reads: After exploding onto the global rock scene with their hit albums Pyromania and Hysteria, the band faced two devastating chapters: drummer Rick Allen’s life-altering accident, which cost him his arm, and the loss of guitarist Steve Clark, whose anthemic and dynamic riffs earned him a permanent place among the guitar legends of all time. Those tragedies became defining moments in the band s history, as Def Leppard rebuilt themselves and
 
-### Erika Kirk Shares Tribute to Late Husband Charlie Kirk One Year Later
-Fri, 11 Sep 2026 02:33:27 +0000 — https://www.thewrap.com/culture-lifestyle/culture/erika-kirk-charlie-kirk-tribute-one-year-later/
+### Zooey Deschanel Says Trash Mountain Took Her to the Early Days of Her Career: What I Want to Get Back To
+Fri, 11 Sep 2026 17:17:14 +0000 — https://www.thewrap.com/creative-content/movies/zooey-deschanel-trash-mountain-wants-more-indie-roles/
 
-Erika Kirk honored her late husband Charlie Kirk on Thursday, one year after he was shot to death in a public assassination while speaking at Utah Valley University. until Heaven, the Turning Point USA co-founder s widow shared on Instagram alongside a black-and-white photo from their wedding day. Charlie and Erika shared two children together before his murder. She has since taken over his student organization as CEO, while his Charlie Kirk Show radio show/podcast continues to be co-hosted by Andrew Kolvet and Blake Neff. Earlier on Thursday, TPUSA shared its own tribute to Charlie, recognizing the day it says changed America’s history forever. He died at age 31 on Sept. 10, 2025. View this post on Instagram A post shared by E. (@mrserikakirk) There are no words that can adequately describe what this past year has been like, the group wrote on social media . We have had to learn how to carry on without the person at the center of everything we do. We have celebrated milestones Charlie should have been here to celebrate, stood on stages where his voice should have been heard, and watched his children grow without their father there to see it. Charlie’s faith was at the center of who he was. His faith in Christ was his armor, which no assassin could overcome. He believed in life everlasting, and that unshakable faith gave him a courage impossible to miss. He wanted others to know the hope and truth he had in Jesus. Charlie died a martyr for Christ, they continued. Charlie beli
+Zooey Deschanel has been professionally acting for nearly three decades now and, at this point, there s a certain kind of role that she s not seeing much anymore. Then Trash Mountain came around. According to the Almost Famous and (500) Days of Summer actress, it s exactly the type of thing she wants to get back to. Co-written by Caleb Hearon, who also stars as Deschanel s brother, Trash Mountain tells the story of two siblings who have to come back together after the death of their hoarder father. The siblings must sort through the baggage — both literal and emotional — in their father s home to find a crucial document, and along the way, figure out their relationship. It is directed by Kris Rey. I read the script, and I was just so touched by this story, Deschanel told TheWrap at TIFF following the film s world premiere. When I first started making films, it was all character-driven indie films, and there just wasn t a lot of this kind of stuff that I was getting to read for a really long time, she continued. And it took me back to the early days of my career, and made me think that is what I want to get back to. Granted, there were some bigger budget films in the early days of her career, like Elf, Failure to Launch and more, and she is best known at this point for starring in the TV series New Girl. After reading the script brought to her attention by producer Colin Trevorrow Deschanel actually met Hearon. According to the actors, the connection was immediate. Zooey is su
 
 ## Collider
 
-### Netflix's Flintstones Surge Is the Perfect Warm-Up for Ryan Gosling's Reboot
-Fri, 11 Sep 2026 13:30:11 GMT — https://collider.com/live-action-the-flintstones-streaming-success-netflix-september-2026/
+### The 10 Best Crime Shows With Less Than 20 Episodes, Ranked
+Fri, 11 Sep 2026 19:09:11 GMT — https://collider.com/perfect-crime-shows-shorter-than-20-episodes/
 
-A critically panned live-action adaptation of a beloved franchise has caught the attention of streaming audiences. While the feature was poorly received by fans and critics alike, it generated millions at the box office and sparked a prequel movie that was released a few years later. Over 30 years later, it has found a new audience.
+Crime is the most prevailing and popular genre on television, and has been for quite some time. There is no shortage of great crime shows that are worth recommending, but a vast majority of them also come with a hefty time investment that could seem intimidating. The Sopranos is a show that comes highly recommended, but its 86 episodes almost seem tame in comparison to the network procedurals that have libraries of hundreds.
 
-### 3 Elite Series to Binge on Netflix This Weekend (Sep 12-13)
-Fri, 11 Sep 2026 12:41:11 GMT — https://collider.com/netflix-shows-binge-weekend-september-12-2026/
+### It’s Officially the End of an Era for Apple TV’s Mind-Melting 3-Part Sci-Fi Series
+Fri, 11 Sep 2026 18:59:40 GMT — https://collider.com/apple-tv-invasion-ending-season-3-shamier-anderson/
 
-A true crime docuseries might be topping the charts in the U.S., but the global Netflix crown belongs to Guy Ritchie ' s best television series. A spin-off of his 2019 film of the same name, The Gentlemen was one of the biggest new hits on the world's largest streamer in 2024, as Eddie Horniman's ( Theo James ) evolution from reluctant recipient of a drug empire to criminal veteran had the world hooked. Back with Susie Glass ( Kaya Scodelario ) for an international second season, Eddie's return this month has dominated streaming conversation. But it isn't the only series worth watching. With that in mind, here are three shows you should binge-watch on Netflix this week .
+It’s no secret that Apple TV has become the go-to streaming platform for all the best sci-fi shows. The streamer has found genre-defining hits with shows like Severance and Pluribus , but it also has hidden gems like Foundation and For All Mankind . HBO Max may be the streaming service that first comes to mind when someone asks about prestige dramas, but Apple TV officially has the streaming crown right now when it comes to sci-fi. Another exceptionally popular sci-fi series that’s blossomed under the watchful eye of Apple TV is Invasion , which hails from writers Simon Kinberg and David Weil . The show first premiered in 2021, and it aired new seasons in 2023 and 2025.
 
-### Matt Damon’s Legal Thriller Officially Becomes a Must-Watch for ‘Lincoln Lawyer’ Fans
-Fri, 11 Sep 2026 12:30:11 GMT — https://collider.com/matt-damon-the-rainmaker-streaming-mgm-plus-september-2026/
+### Keanu Reeves' Best Crime Thriller Is Officially Getting a Sequel
+Fri, 11 Sep 2026 18:51:32 GMT — https://collider.com/point-break-sequel-series-amc/
 
-2026 has been a banner year for Matt Damon so far, but one of the most underrated projects of his career that’s nearly 30 years old has officially scored a new streaming home. While the first of Damon’s 2026 projects that comes to mind for nearly everyone is The Odyssey , and rightfully so, his year in 2026 began much earlier than his Christopher Nolan reunion. Back in January, Damon reunited with his long-time friend and collaborator Ben Affleck for the hit crime thriller, The Rip , which is still one of the most-watched Netflix movies of the year. Damon’s return to prestige filmmaking in The Odyssey is almost certainly going to earn him another Oscar nomination for his performance as Odysseus, and many experts are even predicting that he has a good chance at winning the award.
+Keanu Reeves may be known for his action roles now, but back in 1991, he was most famous as time-travelling slacker Ted "Theodore" Logan in the Bill and Ted movies. That all changed with a crime thriller that made him a force to be reckoned in high-octane action roles. And now, that movie is finally getting a sequel.
 
-### The Best Live-Action Version of Every Jane Austen Heroine
-Fri, 11 Sep 2026 12:23:11 GMT — https://collider.com/jane-austen-heroines-best-live-action-version/
+### Prime Video's New Space Opera Sci-Fi Is Officially Losing Its Chart-Topping Status
+Fri, 11 Sep 2026 18:34:27 GMT — https://collider.com/prime-video-sci-fi-masters-of-the-universe-streaming-drop-september-2026/
 
-Who doesn't love Jane Austen ? One of the most important and influential writers in the history of literature, Austen is an institution in the medium. Her books are laced with warmth, wit, biting humor, critiques of 18th- and 19th-century society, and an overall relatable and endlessly enchanting tone that makes them truly timeless. Logically, countless live-action adaptations exist of her six seminal novels, from straightforward takes that do their best to translate her words to either the big or small screens, to bold reinventions that place the action in modern or even genre settings. Indeed, we've seen Austen's work adapted into everything from classic Regency romances to teen comedies and even action-horror misfires.
+Sometimes, films that stumble at the box office can find a new audience. That seems to be the case with one of Amazon MGM Studios' most prominent releases of the summer movie season, which had a long string of streaming success. However, it seems to now be faltering, nearly two months after it hit Prime Video .
 
-### Netflix’s ‘Yellowstone’ Replacement Has Officially Been Cancelled
-Fri, 11 Sep 2026 12:18:52 GMT — https://collider.com/ransom-canyon-cancelled/
+### 'Fire Country's Medical Spin-Off Is Officially Happening
+Fri, 11 Sep 2026 18:24:21 GMT — https://collider.com/fire-country-medical-spin-off-cast-noah-reid/
 
-We’re now well past the turn of the year, and although Netflix has already released some of its most popular projects of all time, the streamer is moving full steam ahead into the final few months of 2026. The biggest eye-popping release for Netflix so far this year has been War Machine , the big-budget sci-fi thriller starring Alan Ritchson from Prime Video’s Reacher . In its search to replace Stranger Things after it ended at the start of the year, Netflix even enlisted its creators Matt and Ross Duffer to produce a new sci-fi show, The Boroughs , which dropped on the streamer earlier this summer. Despite strong viewership and mostly positive reviews, Netflix decided that the show would not get a second season — the streamer even announced this while the show was in the global top 10.
+CBS has shifted focus to expanding the universes of its current hits rather than developing new ideas from scratch each season. Many well-performing CBS shows have been considered for spin-offs, and one of the richest universes is that of Fire Country , the firefighter drama starring Max Thieriot . The series introduced viewers to Edgewater, a small town in Northern California with its own unique problems. It follows the members of Station 42, who are family in the broadest sense of the word.
 
-### Beloved Star Trek Guest Star Officially Returning "in a Big Way" [Exclusive]
-Fri, 11 Sep 2026 12:00:11 GMT — https://collider.com/star-trek-strange-new-worlds-season-4-christina-chong-dog-runa-guest-star/
+### 'Slow Horses' Star Officially Clarifies James Bond Comments
+Fri, 11 Sep 2026 18:14:30 GMT — https://collider.com/james-bond-rumors-explained-gary-oldman/
 
-Star Trek: Strange New Worlds has featured a variety of intriguing guest stars over its four-season run; for one, this season saw Days of Our Lives legend Deidre Hall drop in for the show's soap-opera-themed episode, "Like Chronitons Through the Hourglass." Now, one of the show's most beloved guest stars is set to return to the show in the future, as revealed by star Christina Chong at a panel at last weekend's Tampa Bay Comic Con moderated by Collider's Maggie Lovitt .
+The road to finding the next James Bond is in its final stretch, and things are getting tense. Rumors were already flying left and right about who was in the running to play the legendary 007 in Denis Villeneuve 's new film, but they soon went into overdrive when word of the official shortlist got out. Jack Barton , Jack Lowden , Callum Turner , Jacob Elordi , Paul Mescal , and Harris Dickinson are all the names currently attached to the coveted role, with Barton believed by some insiders to be the favorite after emerging from a global search for lesser-known stars. However, the race quickly took another sharp turn when Gary Oldman spoke up.
 
-### 8 Epic Video Games That Are Amazing From Start to Finish
-Fri, 11 Sep 2026 11:46:11 GMT — https://collider.com/epic-video-games-amazing-start-to-finish/
+### Marvel Officially Reveals the Hulk's Replacement
+Fri, 11 Sep 2026 17:47:57 GMT — https://collider.com/marvel-comics-the-hulk-replacement-reactor/
 
-Video games are one of the largest , most popular mediums of entertainment ever made. Some of the best come in the form of games with grand and epic adventures, landscapes, and worlds for players to invest themselves in. An epic video game takes the players on a journey that is grand in one way or another.
+Bruce Banner has spent decades trying to contain the monster waiting beneath his skin, but the Hulk has never been easy to suppress for long. Whether Banner views him as a curse, a separate personality, or an essential piece of himself , Marvel’s Green Goliath has always represented the destructive power that erupts when Bruce finally loses control .
 
-### The Near-Perfect Western That Helped Shape 'Avengers: Doomsday' Is Essential Viewing
-Fri, 11 Sep 2026 11:36:11 GMT — https://collider.com/avengers-doomsday-once-upon-a-time-in-the-west-essential-viewing/
+### ‘Marvel’s Wolverine’ Length Officially Makes Players Question $70 Price Tag
+Fri, 11 Sep 2026 17:46:11 GMT — https://collider.com/marvels-wolverine-players-canceling-preorders-reviews/
 
-In less than 100 days, Avengers: Doomsday will hit theaters, and the hype is building to a fever pitch. Part of that hype is that Doomsday will unite two generations of Avengers, the Fantastic Four, and the X-Men against Doctor Doom ( Robert Downey Jr .). Another major draw is that it adapts comic book storylines fans have wanted to see for years, particularly Jonathan Hickman 's work on the Avengers comics . What might surprise fans is that Doomsday was heavily inspired by an iconic Western , according to directors Joe and Anthony Russo .
+Marvel’s Wolverine has spent five years becoming one of PlayStation’s most anticipated exclusives, but its arrival may not be the victory lap some players expected. Reviews for Insomniac Games’ latest Marvel adventure dropped this week , with the game earning plenty of praise for its brutal combat and treatment of Logan while exposing some divisive design decisions. With its September 15 release now only days away, those criticisms are beginning to affect how certain players plan to experience Marvel's Wolverine .
 
-### Mark Wahlberg’s 2012 Crime Thriller Officially Charts a Streaming Comeback
-Fri, 11 Sep 2026 11:30:13 GMT — https://collider.com/mark-wahlberg-sicario-replacement-contraband-streaming-success-netflix-september-2026/
+### 'Hogwarts Legacy 2' Reveal Officially Divides Harry Potter Fans
+Fri, 11 Sep 2026 17:45:43 GMT — https://collider.com/hogwarts-legacy-2-announced-fan-reactions/
 
-With last week's By Any Means , Mark Wahlberg made a return to the big screen amid a phase of his career dominated by streaming movies. In recent years, Wahlberg has headlined three original films for Netflix, two each for Prime Video and Apple TV, and one for Paramount+. According to a Forbes report, he charges at least $20 million to work on these projects. A decade ago, however, Wahlberg was one of the most bankable action stars in the business, capable of catching the audience off-guard with movies such as The Departed and Pain & Gain . His packed 2010s began with an action thriller that is now seeing a sudden uptick in viewership after landing on Netflix.
+Hogwarts Legacy gave longtime Harry Potter fans the chance to attend classes, explore Hogsmeade, and cause an alarming amount of chaos throughout the Scottish Highlands. However, once its central mystery was solved, many players felt its enormous recreation of the Wizarding World had little left to offer . Three years later, Warner Bros. is preparing to send players back to Hogwarts .
 
-### 10 Fantasy Shows That Are the Perfect Weekend Binge
-Fri, 11 Sep 2026 11:22:11 GMT — https://collider.com/fantasy-shows-perfect-weekend-binge/
+### New James Bond Reboot Officially Scores Biggest Script Update Yet
+Fri, 11 Sep 2026 17:45:25 GMT — https://collider.com/new-james-bond-movie-script-complete-steven-knight/
 
-For a fantasy fan, there are few better weekend plans than sitting down with an incredible show and binge-watching the whole thing in just a couple of sittings. This is a genre that, at its best, can be incredibly addictive, and over the years, many TV creatives have taken advantage of that and delivered some of the most irresistibly entertaining genre shows the small screen has ever seen.
+Ever since Daniel Craig 's final bow as James Bond in No Time to Die in 2021, fans of the long-running action franchise have been waiting for the next installment. Five years later and counting, and they're still waiting. However, there is light at the end of the tunnel, courtesy of screenwriter Steven Knight : he has an encouraging update about the film's progress.
 

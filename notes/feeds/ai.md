@@ -1,6 +1,11 @@
-# AI — harvested 2026-09-11T14:37:07.593Z
+# AI — harvested 2026-09-11T19:17:04.176Z
 
 ## OpenAI
+
+### Rapidly scaling online storage to serve over 1 billion ChatGPT users
+Fri, 11 Sep 2026 10:00:00 GMT — https://openai.com/index/scaling-storage-one-billion-users-part-one
+
+Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.
 
 ### How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
 Thu, 10 Sep 2026 16:00:00 GMT — https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
@@ -32,18 +37,10 @@ Thu, 10 Sep 2026 00:00:00 GMT — https://openai.com/index/introducing-the-agent
 
 Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.
 
-### Paul Christiano joins OpenAI Foundation Board
-Wed, 09 Sep 2026 17:00:00 GMT — https://openai.com/index/paul-christiano-joins-openai-foundation-board
-
-Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.
-
 ## Hugging Face
 
 ### Rebuilding AUTOMATIC1111 with Gradio Workflow
 Thu, 10 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/gradio-workflow-1111
-
-### IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license
-Wed, 09 Sep 2026 15:36:24 GMT — https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series
 
 ## Google DeepMind
 

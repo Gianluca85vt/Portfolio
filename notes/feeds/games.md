@@ -1,6 +1,31 @@
-# Games — harvested 2026-09-11T14:37:07.593Z
+# Games — harvested 2026-09-11T19:17:04.176Z
 
 ## Eurogamer
+
+### After Sony tells fans they don't own digital games, one Consumer Rights group is tracking all the times PlayStation said the opposite
+Fri, 11 Sep 2026 19:07:38 +0000 — https://www.eurogamer.net/consumer-rights-tracking-playstation-digital-games-ownership
+
+Last month, Sony argued that "reasonable consumers" already know they don't really own the digital goods they paid for . The Consumer Rights wiki has now made a list collecting more than 30 examples where Sony told customers they do, in fact, own the digital games they paid for. Read more
+
+### Final Fantasy 7 Revelation director says Square Enix would have to compromise "the quality of the final chapter" to ship the game fully on disc
+Fri, 11 Sep 2026 18:08:06 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-compromise-quality-physical-disc
+
+Physical versions of Final Fantasy 7 Revelation require a download anyway because Square Enix would've had to compromise the game in some fashion to contain the entire mammoth adventure in a disc. At least, that's the reasoning series director Naoki Hamaguchi has given. Read more
+
+### More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs
+Fri, 11 Sep 2026 17:08:12 +0000 — https://www.eurogamer.net/xbox-game-pass-playstation-plus-nintendo-cancellations-rising-costs
+
+Players cancelling their subscriptions to video game services like Xbox Game Pass and PlayStation Plus are more likely to blame costs today than they were at the start of the year. Read more
+
+### "The more aroused the fly is the harder it tries to shoot" - Google's fully mapped fly brain is now playing Doom, Beat Saber, and more
+Fri, 11 Sep 2026 16:14:51 +0000 — https://www.eurogamer.net/google-fly-brain-doom-beat-saber
+
+It's science-fiction Friday as Google's fully mapped fly brain , which was revealed last week, has been engineered to play Doom and rhythm-action game Beat Saber . Read more
+
+### Sony reportedly ditched Hideo Kojima's Physint following missed deadlines, bloated budgets, and Death Stranding 1&2 missing sales expectations
+Fri, 11 Sep 2026 15:38:12 +0000 — https://www.eurogamer.net/sony-cancelled-physint-budget-profitability-exclusivity-missed-deadlines
+
+Following Sony's announcement earlier this week that it had "stepped away" from Kojima Production's previously PlayStation-exclusive "action espionage" Physint, a new report has claimed Sony's decision was the result of concerns over "budget, potential profitability and exclusivity." Read more
 
 ### Pokémon Go and EA FC could be "under one roof", as EA and Saudi-owned Savvy Games Group reportedly considering merger
 Fri, 11 Sep 2026 14:18:19 +0000 — https://www.eurogamer.net/ea-savvy-games-group-reported-merger-saudi-arabia-pif
@@ -37,32 +62,17 @@ Thu, 10 Sep 2026 14:50:43 +0000 — https://www.eurogamer.net/runescape-generati
 
 A clone of Old School RuneScape that appeared on the internet this week, and stoked the ire of the RuneScape community, has quickly been shut down. Read more
 
-### Ubisoft Steam games to no longer require the Connect launcher, in "initial step toward a smoother and more streamlined launch experience"
-Thu, 10 Sep 2026 14:45:48 +0000 — https://www.eurogamer.net/ubisoft-connect-steam-launcher-requirement-update
-
-UPDATE 11TH SEPTEMBER 9.30AM BST: Ubisoft has since made its statement about changing Connect public . Read more
-
-### "Today, we are fighting fear" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins
-Thu, 10 Sep 2026 12:25:25 +0000 — https://www.eurogamer.net/rockstar-employment-tribunal-fired-gta-6-employees-iwgb
-
-The final hearing in the Rockstar Games versus the 31 fired GTA 6 developers employment tribunal has begun in Scotland, and it's opened to rallies and rousing speeches from the people unceremoniously marched out of the company's offices last October. Read more
-
-### Until Dawn 2 is notably cheaper than most first-party PlayStation games, but is this anything to be worried about?
-Thu, 10 Sep 2026 12:23:40 +0000 — https://www.eurogamer.net/until-dawn-2-price-cheaper
-
-Choice-and-consequence horror game Until Dawn 2, which only just got a release date , has also gone up for pre-ordering on the PlayStation Store. And the revealing bit about this is that the PS5-exclusive title is priced &pound;45 on the UK PS Store (as spotted by Push Square ), which makes it a slightly cheaper offering than a full-priced game normally is. Read more
-
-### If you thought Final Fantasy 7 Rebirth was bloated, you're not going to like Revelation - but I'd much rather have too much to do than too little
-Thu, 10 Sep 2026 12:15:00 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-preview
-
-Settling into my demo of Final Fantasy 7 Revelation, I was slightly appalled by how many tutorial pop-ups I had to click through in order to just play the damn game. Granted, the slice I'm playing comes from 'a few hours' into the experience - our ragtag bunch of environmental terrorists-cum-saviours of the planet have just procured themselves an airship, and Square Enix needs to ensure we all understand the guide rails that keeping this wobbly demo in place. Fine. Read more
-
-### Here are our PS Plus Premium and Extra games for September
-Thu, 10 Sep 2026 10:29:50 +0000 — https://www.eurogamer.net/playstation-plus-september-2026-games
-
-Sony has revealed the games coming to PlayStation Plus Premium and Extra in September and there's some decent stuff, although it lacks a glitzy headliner like, say, Big Walk last month. Read more
-
 ## GamesIndustry.biz
+
+### Goodwill Hunting: Consoles’ brand value and loyalty is being tested | Opinion
+Fri, 11 Sep 2026 16:28:42 +0000 — https://www.gamesindustry.biz/goodwill-hunting-consoles-brand-value-and-loyalty-is-being-tested-opinion
+
+There&rsquo;s a really important piece of context that looms behind every decision, every announcement, and every news story about PlayStation or Xbox at the moment. It&rsquo;s a ticking clock; a countdown to the moment when Sony and Microsoft are going to have to start talking about their next-generation hardware &ndash; and begin the process of convincing the world that an almost certainly astronomical price point isn&rsquo;t a deal-breaker. Read more
+
+### State of the Unions: the rise of unionisation in games workplaces
+Fri, 11 Sep 2026 15:59:00 +0000 — https://www.gamesindustry.biz/state-of-the-unions-the-rise-of-unionisation-in-games-workplaces
+
+The rise of unions in the video games industry has been a hot topic over the past decade, as more and more workers seek protection for their rights in the face of harsh working conditions and management shortcomings around the world. Read more
 
 ### European studio expenditure on external talent rises 63% in 2025
 Fri, 11 Sep 2026 13:46:06 +0000 — https://www.gamesindustry.biz/european-studio-expenditure-on-external-talent-rises-63-in-2025
@@ -114,21 +124,16 @@ Thu, 10 Sep 2026 07:34:19 +0000 — https://www.gamesindustry.biz/xbox-to-publis
 
 Xbox will publish Kojima Productions' upcoming title Physint after the developer "unexpectedly received notice from PlayStation Studios that they would cancel the Physint project" in mid-June. Read more
 
-### Almost 1,900 Blizzard workers ratify first union contract with Microsoft
-Wed, 09 Sep 2026 20:14:39 +0000 — https://www.gamesindustry.biz/almost-1900-blizzard-workers-ratify-first-union-contract-with-microsoft
-
-Blizzard Entertainment has secured a first union contract with parent company Microsoft, ratified by a workforce vote covering just under 1,900 staff. Read more
-
-### Lego Digital Play acquires mobile studio Offroad Games
-Wed, 09 Sep 2026 18:56:51 +0000 — https://www.gamesindustry.biz/lego-digital-play-acquires-mobile-studio-offroad-games
-
-Lego Digital Play has acquired Offroad Games. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Multiplayer Shooter Wardogs Confirmed for PS5 as Early Access Launch Goes Nuclear
+Fri, 11 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/09/multiplayer-shooter-wardogs-confirmed-for-ps5-as-early-access-launch-goes-nuclear
+
+Boom. Publisher Team 17 and developer BULKHEAD have confirmed console versions of Wardogs , which is proving to be extremely popular in its early stages. The game launched into Early Access on Steam yesterday, 10th September 2026, and it has already sold more than 1.25 million copies. Read the full article on pushsquare.com
 
 ### Sony Stopped Physint Development Over Budget, Exclusivity Concerns
 Fri, 11 Sep 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/09/sony-stopped-physint-development-over-budget-exclusivity-concerns
@@ -185,11 +190,6 @@ Thu, 10 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/09/final-
 
 But they are coming eventually. Eyebrows were raised when Square Enix introduced 'Streamlined Progression' to both Final Fantasy 7 Remake and Final Fantasy 7 Rebirth post-release. Essentially in-game cheats, these options allow players to toggle things like infinite HP and MP, instant weapon mastery, and unlimited resources. Read the full article on pushsquare.com
 
-### It Might Be Crap, But the Bully Rip-Off Has a PS5 Release Date Now
-Thu, 10 Sep 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/09/it-might-be-crap-but-the-bully-rip-off-has-a-ps5-release-date-now
-
-Play it from 25th September. We'll never get a Bully sequel, so our best chance of a similar high school experience on PS5 is Agefield High: Rock the School . You'll be delighted to hear, then, that it's supposedly rubbish. We do at least have a release date now: 25th September 2026. Instead of Control Resonant or Silent Hill: Townfall , you can play this if you really want to — maybe it could be a new kind of humiliation ritual. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### An honest opinion or defamation? A solicitor outlines the legal nuance
@@ -231,16 +231,6 @@ Multiple people now claim that Valve has implemented proof-of-age verification f
 Wed, 09 Sep 2026 20:00:00 GMT — https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program
 
 The program, called Nova Games Foundation, aims to offer six-figure grants to 20 young game designers each year.
-
-### Planet Zoo maker Frontier Developments' adjusted operating profit jumps 62 percent
-Wed, 09 Sep 2026 18:24:38 GMT — https://www.gamedeveloper.com/business/planet-zoo-maker-frontier-developments-adjusted-operating-profit-jumps-62-percent
-
-Frontier reports multiple 'company records' as revenue grows 16 percent in FY2026.
-
-### Trump Administration takes down Tetris clone after company warns it takes copyright violation 'very seriously'
-Wed, 09 Sep 2026 15:36:38 GMT — https://www.gamedeveloper.com/business/trump-administration-takes-down-tetris-clone-after-company-warns-it-takes-copyright-violation-very-seriously-
-
-Build The Wall has been knocked down.
 
 ## VGC
 
@@ -296,62 +286,102 @@ A full guide on how to achieve each ending in The Blood of Dawnwalker… Source
 
 ## Polygon
 
-### The Best Star Wars Game in Years is Now on Amazon Prime
-Fri, 11 Sep 2026 14:34:35 GMT — https://www.polygon.com/amazon-gaming-luna-september-2026-star-wars-9-free-games/
+### Upcoming Rust Update Turns the Survival Game Into a Cozy One
+Fri, 11 Sep 2026 19:11:47 GMT — https://www.polygon.com/rust-animal-husbandry-livestock-update-preview/
 
-Each month, Amazon Prime members get two new batches of games: one batch to keep, and another batch to stream via its cloud gaming service, Luna. The Luna library includes some standout titles, like Control , Hollow Knight , and the Tomb Raider Survivor trilogy.
+Rust has several updates in the queue for the final quarter of the year, and among them are improvements to animal gameplay. According to an overhauled roadmap , future updates will introduce dogs, decorative animals, new animal types, improved animal AI, and animal breeding, which will allow players to herd their own livestock and become proper farmers. This will certainly have its uses, but it's a dream come true for role players, as they get to live out their cozy, farming sim fantasies in Rust .
 
-### Pokémon Go 'Mega Squads' event guide
-Fri, 11 Sep 2026 14:28:23 GMT — https://www.polygon.com/pokemon-go-mega-squads-event-maschiff/
+### Roblox Rolls Out Massive Updates at RDC 2026
+Fri, 11 Sep 2026 19:00:14 GMT — https://www.polygon.com/roblox-september-update-rdc-2026/
 
-Pokémon Go ’s "Mega Squads" event brings out upgraded Mega forms for Beedrill and Houndoom , as well as the debut of the dog Pokémon Maschiff and the shiny version of Flamigo . This event runs from Sept. 8-14 .
+This week marks the 12th annual Roblox Developers Conference (RDC), a private event held in the Bay Area for the platform's creator community. As part of the event, the San Mateo, California-based company unveiled updates that aim to expand access to user-made games, as well as give creators new development tools and modes of monetization.
 
-### Prison Break Is Officially Back as Hulu Reveals Series Reboot
-Fri, 11 Sep 2026 14:21:16 GMT — https://www.polygon.com/prison-break-sequel-black-creek-officially-confirmed/
+### New 'GTA 5' Mod Lets You Destroy Flock Cameras
+Fri, 11 Sep 2026 18:48:47 GMT — https://www.polygon.com/gta-5-flock-camera-mod-pc-download/
 
-One of Fox’s most popular TV shows of all time is coming back under Disney . Hulu revealed a first look at Prison Break: Black Creek , a spin-off series set in the same universe as the original. The series is now in production and is “coming soon” to Hulu and Disney Plus.
+Flock cameras have quickly become one of the most hated and controversial technologies in America. One Grand Theft Auto modder tapped into that anger, and the results are hilarious. Grand Theft Automated License Plate Reader (a spoof of Flock’s automated license plate recognition software) is a GTA 5 mod that places surveillance cameras all over Los Santos. These aren't just cosmetic either, because if you commit a crime in view of these cameras, it will raise your Wanted level. What’s more, there’s a 1 in 20 chance the cameras will trigger a police chase for no reason; the modder, WTTDOTM, explained that this is meant to represent Flock’s history of inaccurate reporting.
 
-### Stephen King Weighs in on Prime Video's New Carrie Miniseries
-Fri, 11 Sep 2026 14:09:51 GMT — https://www.polygon.com/carrie-prime-video-stephen-king-response/
+### Metroid Ravenous’ Surprise Reveal Was Secretly the Star of Nintendo’s Busy Week
+Fri, 11 Sep 2026 18:00:14 GMT — https://www.polygon.com/metroid-ravenous-nintendo-remakes/
 
-Amazon's upcoming adaptation of the 1974 horror novel Carrie isn't even out yet, but it already has one very important fan heaping praise on the series. Stephen King , the legendary horror author whose career began with Carrie , has shared his glowing first impressions of the latest take on the story. King's approval gives fans even more reason to get excited.
+It was quite the week for Nintendo. A pair of back-to-back Direct showcases gave fans a lot to talk about, even if not all the news was equally exciting . The headliner of the week, of course, was The Legend of Zelda: Ocarina of Time . We finally got a deep look at the upcoming Switch 2 remake, which sparked plenty of emotions thanks to its polarizing art style and introduction of a jump button . No matter how fans feel, it's bound to be the biggest game of the Switch 2 era so far.
 
-### 6 Upcoming Steam Games That Should Be on Your Wishlist
-Fri, 11 Sep 2026 14:00:14 GMT — https://www.polygon.com/wishlister-gamescom-september-11/
+### GTA 6's PS5 Controller Pre-Orders Are Already Getting Ruined by Scalpers
+Fri, 11 Sep 2026 17:55:10 GMT — https://www.polygon.com/gta-6-ps5-controller-preorder-ebay-dualsense-scalpers/
 
-Wishlister is a weekly newsletter bringing you a curated list of upcoming Steam games worth adding to your wishlist, sent on Tuesdays and published on the site on Fridays. You can subscribe here .
+Grand Theft Auto 6 and Sony have collaborated to create themed DualSense controllers and celebrate the launch of the game this November. However, the words "limited-edition controllers" immediately caught the attention of scalpers looking to profit. Although pre-orders are still available, scalpers have acted preemptively and listed them for twice the retail price on eBay.
 
-### 'The Heart Wants What It Wants' quest walkthrough in The Blood of Dawnwalker
-Fri, 11 Sep 2026 13:59:10 GMT — https://www.polygon.com/blood-of-dawnwalker-the-heart-wants-what-it-wants-quest-walkthrough-ocha/
+### How to fly helicopters in Wardogs
+Fri, 11 Sep 2026 17:12:21 GMT — https://www.polygon.com/wardogs-fly-helicopters-how-to/
 
-"The Heart Wants What It Wants" quest in The Blood of Dawnwalker is one of the most complicated quests in the game, as there are many ways to enter Andrei's hideout, defeat him, and decide Ocha's fate. The time of day, your strategic decisions, and your dialogue choices can either save the day or result in an innocent person's brutal murder.
+If you want to level up your pilot skill, you need to know how to fly a helicopter in Wardogs . The latest hit FPS game has a skill system that is all about actually doing actions, such as spotting enemies, healing allies, and ferrying passengers to the battlefield. Doing the latter in a helicopter will net you pilot experience, which in turn makes you a better pilot. The problem is, flying in Wardogs is hard as nails.
 
-### 'Blade Runner 2099' Showrunner Reveals the Sci-Fi Secrets She Learned from Ridley Scott
-Fri, 11 Sep 2026 13:00:14 GMT — https://www.polygon.com/blade-runner-2099-showrunner-interview-preview/
+### Star Wars' Andor Prequel Highlights Its Most Relentless Rebel in New Look
+Fri, 11 Sep 2026 17:00:14 GMT — https://www.polygon.com/star-wars-reign-of-the-empire-edge-by-of-the-abyss-excerpt/
 
-In other words, anyone trying to make a Blade Runner sequel is under enormous pressure, not just because it remains a beloved sci-fi classic, but because so many of the best movies and TV shows released in the half-century since might as well be Blade Runner sequels by another name. In 2017, Dune director Denis Villeneuve tried his hand with Blade Runner 2049 , delivering a well-regarded follow-up that failed to capture the popular imagination. Now, the franchise is returning once again, this time as a 10-episode miniseries coming to Prime Video on Nov. 25.
+The beauty of Star Wars is that there’s something for everyone — whether you’re a fan of the mystical Jedi and Sith or of the spies, soldiers, and mercenaries who make up the Republic and Imperial ground forces. There’s plenty of spin-off material on the former, but not so much on the latter, especially for older Star Wars fans seeking more texts like Rogue One and Andor .
 
-### Meet Gears of War's New Monster, the 'Flying Testicle' | Exclusive
-Fri, 11 Sep 2026 12:30:14 GMT — https://www.polygon.com/gears-war-e-day-spore-matron-reveal/
+### 'GTA 6' Fans Are Harassing The IRL Nudist Resort That Inspired The Game
+Fri, 11 Sep 2026 16:52:00 GMT — https://www.polygon.com/gta-6-nudist-resort-cypress-cove-florida-where-is-google-reviews/
 
-For a prequel, Gears of War: E-Day is going to tread a lot of new ground. One of the game’s innovations is a monster known as the “flying testicle,” for which Polygon is able to exclusively reveal a new image as part of our 2026 Fall Preview .
+Though Rockstar has not officially revealed Grand Theft Auto 6 's nudist camp , fans have been aware of it since the late August 2026 leaks of the game. For some, it wasn't enough to watch the unedited gameplay of the GTA 6 area where NPCs roam in the buff. Instead, they've tracked down the real-world location that may have inspired the raunchiest part of Rockstar's open-world game — and are now making one business owner's life a small nightmare.
 
-### Jessica Chastain's Bonkers New Horror Movie Just Keeps Getting Scarier
-Fri, 11 Sep 2026 12:00:14 GMT — https://www.polygon.com/other-mommy-preview-exclusive-image/
+### Supergirl Soars to No. 1 on Streaming After Bombing at Box Office
+Fri, 11 Sep 2026 16:38:50 GMT — https://www.polygon.com/supergirl-streaming-hbo-max/
 
-Move aside, Michael Myers. Take a hike, Jason Voorhees . Get a real job, Art the Clown. Horror has a new name in 2026, and it's... Mommy.
+Supergirl seems to be off to a strong start on streaming. After a lackluster theatrical showing, the latest DC Studios film is finally available on HBO Max , where it will look to recoup its losses from a dismal box-office run . Following a Sept. 10 debut on the streamer , Supergirl has landed at number one on HBO Max's U.S. movies chart. It’s currently beating out Practical Magic , Fuze , Band of Brothers: Legacy , and The Last Samurai .
 
-### 13 Horror Movies Coming Out This October
-Fri, 11 Sep 2026 09:00:14 GMT — https://www.polygon.com/13-horror-movies-coming-out-this-october/
+### PlayStation's Shock Cancelation of Kojima's New Game Now Makes Perfect Sense
+Fri, 11 Sep 2026 16:05:27 GMT — https://www.polygon.com/kojima-physint-why-playstation-canceled-budget-concerns-death-stranding/
 
-I’m sure you’ve heard, but it’s been a big year for horror movies. Over the past few months, there have been all sorts of releases for horror fans, from undersung gems like 28 Years Later: The Bone Temple to unexpected hits like Obsession and what seems to be the start of a booming new franchise in Backrooms .
+Earlier this week, Hideo Kojima revealed Kojima Productions' upcoming Physint had been dropped by PlayStation and found a new home at Xbox . In a post on X , he explained PlayStation had canceled Physint in June, leading the company to search for a new partner. "Please rest assured that development of PHYSINT , our genre-defining action-espionage title, is ongoing and will continue moving forward," he wrote.
 
 ## PC Gamer
 
-### Ex-Blizzard employee has 'vibe' coded a new game engine with backing from AMD: 'We're developing 93x faster than we ever did before with Unreal'
-Fri, 11 Sep 2026 14:23:40 +0000 — https://www.pcgamer.com/software/ai/ex-blizzard-employee-has-vibe-coded-a-new-game-engine-with-backing-from-amd-were-developing-93x-faster-than-we-ever-did-before-with-unreal/
+### Nightdive officially confirms Thief Remastered is coming with a new campaign, The Tarnished Mirror
+Fri, 11 Sep 2026 19:06:25 +0000 — https://www.pcgamer.com/games/fps/nightdive-officially-confirms-thief-remastered-is-coming-with-a-new-campaign-the-tarnished-mirror/
 
-An ex-Blizzard employee claims to have "vibe" coded an engine for their new game. The game is Em-8er and is "entirely 'vibe' coded" in the Kun-Zhi Engine . "I spent 6 months using AI to replace Unreal Engine from under our game Em-8ER. Now we're developing 93x faster than we ever did before with Unreal. Because our engine is developed to be 100% AI-first instead of tacked on." "The engine is called Kun-Zhi, the Tibetan word for 'Ground of all' that the world springs from. This engine will be released to the public, starting with backers first... Corporate sponsorships are available... Current partners include Razer and AMD." "This," the dev says, "is a ground up engine written mostly in C [and also with "some Elixir"] on top of Vulkan." The developer behind it is Mark Kern , a developer who worked for Blizzard on World of Warcraft (vanilla) and then helped found now-dead studio Red 5 Studios, makers of the equally dead game Firefall . This game is entirely "vibe" coded.I spent 6 months using AI to replace Unreal Engine from under our game Em-8ER. Now we're developing 93x faster than we ever did before with Unreal. Because our engine is developed to be 100% AI first instead of tacked on.It is not a toy… pic.twitter.com/SCIBlza1qv September 11, 2026 The eagle-eyed among you will notice that Kern puts "vibe" in scare quotes. This, he says, is "because it takes a lot more skill than just prompting. To be production ready you have to have knowledge of how games are put together an
+In a brief teaser on YouTube , Nightdive Studios acknowledged the new Thief campaign that was leaked in the recent Steam achievements fiasco. The studio confirmed its name, The Tarnished Mirror, and promised that we would learn more on November 2. The video is a bit of good natured "aw, shucks," showing a pileup of posts about the leaked campaign (including one of PC Gamer's). It ends with the remaster's new key art of Garrett by artist Alexandru "Dominus" Negoita and a logo for Thief: The Dark Project Remastered - The Tarnished Mirror paired with audio of Garrett saying "Huh, not so secret anymore." I'm 99.9% sure that this is a pre-existing line from the games, and not a new recording by legendary voice actor Stephen Russell. When achievement-tracking site Exophase somehow got its hands on a trove of 'cheevos for unreleased (even unannounced) games, most attention fell on the likes of Persona 6. But I lost my shit at the reveal of a number of Thief Remastered achievements referring to the yet-to-be-revealed Tarnished Mirror expansion. Exophase has since cleaned up the most spoilery stuff, but you can still see the original list in all its glory on The Wayback Machine . I was already excited for this remaster of one of my all-time favorite games, but the fact that it's coming with a new, official expansion after 28 years is next level. Granted, there are already more great fanmade levels for Thief than time to play them in this life or the next, and the best of the best, lik
+
+### Roblox games are escaping Roblox: Creators will soon be able to export standalone apps for PC, console, and mobile
+Fri, 11 Sep 2026 19:00:00 +0000 — https://www.pcgamer.com/software/platforms/roblox-games-are-escaping-roblox-creators-will-soon-be-able-to-export-standalone-apps-for-pc-console-and-mobile/
+
+Roblox, as we know, is a behemoth. Industry analyst Matthew Ball, now chief strategy officer at Xbox, said in 2025 that Roblox accounted for more player engagement and revenue growth than Steam, PlayStation, and Fortnite combined . Now it's looking to expand its reach even further by giving Roblox creators the ability to release their work as standalone games. Part of Roblox's immense popularity can be attributed to the fact that it's not just a game, it's a platform where people can create and share their own games, and earn money on them. That's a limiting factor—some games on Roblox are huge, but they're still fenced into that specific ecosystem—but the new initiative revealed during the Roblox Developers Conference called Roblox Everywhere aims to change that: "Soon, creators will have the option to make their games available as standalone apps across mobile, PC, and consoles, with Roblox powering the technology and services underneath." The first, most obvious question is whether these standalone creations can be offered on storefronts like Steam, Epic, and GOG, and details on that are still being nailed down. A Roblox rep told PC Gamer that having them available on storefronts across all platforms is the goal, but options are still being explored: "We will start with a select set of gaming developers and storefronts to test, and we will share more details soon." This is a significant move, with potentially major impact. Roblox is obviously the big dog but there are stil
+
+### 'We're not giving away pistols and cocaine to people': Miami Beach votes in favor of Grand Theft Auto 6 collab despite concerns
+Fri, 11 Sep 2026 18:35:30 +0000 — https://www.pcgamer.com/games/grand-theft-auto/were-not-giving-away-pistols-and-cocaine-to-people-miami-beach-votes-in-favor-of-grand-theft-auto-6-collab-despite-concerns/
+
+Despite vocal opposition from some commissioners, the city of Miami Beach has voted in favor of a Grand Theft Auto 6 promotional campaign that will see Rockstar drop a reported $3 million on the city in exchange for what looks to be some surprisingly light-touch advertising. The vote on the proposal was streamed on September 10 on the City of Miami Beach YouTube channel , and it was close, finishing at 4-3 in favor. Opposition to the campaign was rooted in familiar concerns about the nature of the GTA games themselves: Violent, criminal, and just a bad influence all around. "Grand Theft Auto is an adult videogame where players steal cars, deal drugs, commit robberies, murder civilians, and assassinate police officers," commissioner David Suarez said to kick things off. "That's their right. They can make it, they can sell it, and they can advertise it. But that doesn't mean that the city of Miami Beach has to help them do it. "We ask our police officers every day to put themselves in harm's way protecting this community. We spend enormous resources fighting drugs, violent crime, and disorder. And we've spent over a million dollars over the past three years on a spring break marketing campaign trying to move Miami Beach away from an image of chaos and lawlessness. Now, we're going to take our beaches, one of the most recognizable symbols of this city, and turn them into a space for Grand Theft Auto. What kind of message are we sending to the world?" Suarez also played a montage
+
+### If you use devcommands to cheat in Valheim but want your achievements anyway, you can get them by using the new devcommand 'yesiuseddevcommandsbutiwantmyachievementsanyway'
+Fri, 11 Sep 2026 17:35:37 +0000 — https://www.pcgamer.com/games/survival-crafting/if-you-use-devcommands-to-cheat-in-valheim-but-want-your-achievements-anyway-you-can-get-them-by-using-the-new-devcommand-yesiuseddevcommandsbutiwantmyachievementsanyway/
+
+After five years in early access, Valheim 1.0 finally launched this week with its final biome, a new boss, lots of extra weapons, armor, and monsters, and more than 50 achievements—though those cheevos were locked up tight if you used the command console to activate cheats. That just changed, at least for Steam users. Twin patches were released for Valheim today containing a handful of bug fixes and tweaks, and one big change to achievements. "The fixes include a function to let you opt into using achievements even though you have been blocked from doing so because of previous usage of devcommands," developer Iron Gate says. "We will leave it to your own judgement whether or not to activate this function–Oden will surely know if you use it dishonourably." This new command is just for players on Steam, and it rolls right off the tongue: "Achievements can now be opted into even if you have used devcommands or mods by the new devcommand 'yesiuseddevcommandsbutiwantmyachievementsanyway'." If you're new to using cheats in Valheim, by the way, we've got you covered with our Valheim console commands guide , which we updated for 1.0 so you can spawn new Deep North materials, weapons, foods, and items. And now you can use them while still earning achievements, even if it means Oden will be disappointed in you. Nice! Valheim biomes : Follow along zone by zone Valheim console commands : Godly shortcuts Valheim inventory upgrades : Deeper pockets Valheim battle idols : Upgrade your gear 
+
+### Shroom and Gloom is my new deckbuilder obsession thanks to its fantastic fights, beautiful artwork, and tasty mushrooms
+Fri, 11 Sep 2026 16:29:02 +0000 — https://www.pcgamer.com/games/roguelike/shroom-and-gloom-is-my-new-deckbuilder-obsession-thanks-to-its-fantastic-fights-beautiful-artwork-and-tasty-mushrooms/
+
+A fun fact about myself is that I love mushrooms. I love finding them in the wild, I love putting them on pizza (please don't put wild mushrooms on your pizza), but most of all I love seeing them in games. It's quite a niche passion to be sure, but that hasn't stopped me from running around as a little mushroom man in my current DnD campaign. And now, I get to run around fighting them in my latest roguelike deckbuilder obsession: Shroom and Gloom . Travelling through a subterranean dungeons full of vines, bones, and (crucially) shrooms, the aim here is to fight your way through areas to complete quests and unlock new characters, gather helpful items, and explore the different pathways. (Image credit: Devolver Digital) Pretty standard, right? Wrong. Because Shroom and Gloom isn't just any old deckbuilder, it's a deck builder with two decks. The first deck is for exploration, there's shovels to dig for new cards, lighters to start campfires for warmth, and tools to break through doors so you can progress onto the next area, among many, many other things. The catch is that you can only use so many of these in one go, thanks to your limited stamina. This means you have to be strategic with what you do and when. Early on I made the mistake of getting way too excited digging holes and breaking open treasure chests. I soon had no stamina left to break the lock on the door to progress and I was forced to take a rest. Devolver Digital Devolver Digital Devolver Digital Now, that doesn'
+
+### Framework cancels custom low profile keyboard module for its laptops: 'We weren’t able to bring costs to a place where the product economics worked'
+Fri, 11 Sep 2026 16:10:03 +0000 — https://www.pcgamer.com/hardware/gaming-keyboards/framework-cancels-custom-low-profile-keyboard-module-for-its-laptops-we-werent-able-to-bring-costs-to-a-place-where-the-product-economics-worked/
+
+It's easier than ever to make a gaming desktop feel all your own. The same is arguably much less true of gaming laptops, though Framework is one company hoping to expand the horizons of gaming-on-the-go through modular upgrades. However, sometimes even Framework has to call it quits when a design idea simply does not come together. The low-profile keyboard fiends are gathered here today to pour one out for the One Key Module Developer Program , which was first opened up in December 2025 . The initial aim of this was to develop "custom ultra-low-profile keyboards and Input Modules for Framework Laptop 16 ." Unfortunately, after three years total of prototyping and taking on developer feedback, Framework has shared that it isn't able to turn the keyboard module into "a sellable product". There's a few reasons for this, and I doubt number one will shock you: cost. Framework writes, "We weren’t able to bring material and assembly costs along with manufacturing yield to a place where the product economics worked. The per-key costs resulted in breakeven pricing too high to reasonably enable high volume sales, and neither we nor our suppliers can take on the overhead of manufacturing a product of this complexity at low volumes." To expand on that lattermost point about hardware complexity, apparently even "the expert DIYers and electronics tinkerers" that collaborated with Framework via the developer program had trouble "reliably assembling the One Key Module into their designs." Pa
+
+### Sony reportedly dropped Hideo Kojima's next game because it kept missing deadlines, was over budget, and would eventually come to other platforms
+Fri, 11 Sep 2026 16:03:31 +0000 — https://www.pcgamer.com/gaming-industry/sony-reportedly-dropped-hideo-kojimas-next-game-because-it-kept-missing-deadlines-was-over-budget-and-would-eventually-come-to-other-platforms/
+
+Earlier this week, it broke that Sony had dropped Physint, a videogame being developed by Hideo Kojima. Which is weird, given that Kojima's a bit of an auteur—his games are weird and ambitious in scope, but they're often viewed fondly, and the man made Metal Gear Solid, for crying out loud. Physint was meant to be a return to "tactical espionage action", a prodigal return to what he's known for—it seems wild to drop it, something Xbox decided to capitalise on, snapping up the project instantly . It's since broken, in a Bloomberg report , that Sony might've simply ran out of patience. And in fairness—as much fairness as you can give to a videogame giant in our current industry—some of these reasons do track, though, through the salt-pinched lens of anonymous sources: "[Physint] missed deadlines and was on track to be well over budget despite being years away from release," the report states. There was also the point of "Kojima’s previous two games, Death Stranding and its sequel, which didn’t meet PlayStation’s revenue expectations." Also potentially fair, though you've gotta wonder if "revenue expectations" are worth dropping someone like Kojima over—surely you're in it for the prestige brand , or whatever people who wear suits and talk about growth in the next quarter call it. The report also states, however, that "PlayStation was reluctant to invest hundreds of millions of dollars in another game that wouldn’t remain permanently exclusive to the company’s own hardware," whi
+
+### 'No fuss, no greater meaning, only fans': Corsair shares 3D print files for its April Fools mini fan cube
+Fri, 11 Sep 2026 15:34:04 +0000 — https://www.pcgamer.com/hardware/cooling/no-fuss-no-greater-meaning-only-fans-corsair-shares-3d-print-files-for-its-april-fools-mini-fan-cube/
+
+I don't usually cover the totally, completely, definitely hilarious April Fools jokes all these companies like to pull on April 1. But sometimes that comes back to bite me when the joke products actually get made. It seems that's what has happened here, as Corsair has released 3D print files for a cube that can house fans on each face—that's it, that's all it does. To be fair, I can't even seem to find evidence that this was an April Fools joke. But Corsair implies as much: From April Fools, to Computex, to Gamescom and beyond - here by popular demand: you can now print your own CORSAIR fan cube!Just a simple cube that holds 6 fans - no fuss, no greater meaning, only fans.https://t.co/7vAlBcSiJFWhat are some 3D prints the community wants to… pic.twitter.com/U9Uw4HRh76 September 10, 2026 "From April Fools, to Computex, to Gamescom and beyond - here by popular demand: you can now print your own Corsair fan cube! Just a simple cube that holds 6 fans—no fuss, no greater meaning, only fans." "No greater meaning," that's what I like to hear. In a world that seems to be collapsing around us in every direction, sometimes it's nice to have something pointless to grasp on to. At any rate, if you fancy making one, you can download the files from Printables . They include three main parts—the base and both sides of the cube—plus a connector, which you print four of. Apart from this, all you need is M4x14 mm screws to connect the base. Judging from the picture, it looks like the cube supp
+
+### 'Defying common wisdom', people have been buying more high-end graphics cards despite rising prices, with 12.5 million shipped last quarter alone
+Fri, 11 Sep 2026 14:56:31 +0000 — https://www.pcgamer.com/hardware/graphics-cards/defying-common-wisdom-people-have-been-buying-more-high-end-graphics-cards-despite-rising-prices-with-12-5-million-shipped-last-quarter-alone/
+
+If you've been keeping up with the headlines, then you know gaming hasn't been Nvidia's main priority for some time now. Given that its data centre segment made $89 billion in Q2 of 2026 —an eye-watering 93% of the company's total revenue that quarter—it's not super surprising that Nvidia is all-in on AI. What may be surprising though is that, even after this shift in focus, Nvidia is still king when it comes to consumer GPUs. That's according to the latest report from John Peddie Research ; even though Nvidia's market share did decrease by 0.01% last quarter, the company is still holding on to a 90% share of the graphics 'Add-in Board' (AIB) market. AMD has 8%, while Intel enjoys a 2% slice of the pie. For those a little unclear, an 'add-in board' (AIB) can mean anything you plug into your PC to improve performance, and GPUs definitely fall into that category. When companies refer to AIB GPUs, they're typically distinguishing them from integrated ones like you'll find in laptops, for instance. The JPR report adds that during the second quarter, the "growth of the global PC-based graphics add-in board market reached 12.5 million units." That's a 10% increase from the quarter before. Not only that, but the likelihood of someone picking up an 'add-in board' in addition to a desktop PC was up to 89%, a 23% quarter-over-quarter increase. Given that it has been genuinely more affordable for me to hop on an international flight to either QuakeCon or PAX West rather than buying one 
 
 ### Zach Cregger had to dial down the jokes in his upcoming Resident Evil film because test screeners 'thought it was too funny'
 Fri, 11 Sep 2026 11:40:03 +0000 — https://www.pcgamer.com/movies-tv/zach-cregger-had-to-dial-down-the-jokes-in-his-upcoming-resident-evil-film-because-test-screeners-thought-it-was-too-funny/
@@ -368,47 +398,22 @@ Fri, 11 Sep 2026 11:19:18 +0000 — https://www.pcgamer.com/games/final-fantasy/
 
 The games industry's been in an (understandable) fuss lately about the prophesied death of physical media from Sony, which has announced it'll be going discless for the foreseeable future. Players are really angry because it's not exactly great if the one place you can buy your games also controls the entirety of the pricing—as Sony hypothetically would on its PlayStation consoles. Things are a little easier for us over here on PC land, but this recent allergy to download-only games has had fans up in arms whenever they get a whiff of digital exclusivity. As is the case with Final Fantasy 7 Revelation which, even though it's getting a physical disc version, will require a digital download. Speaking with IGN , director Naoki Hamaguchi claims to be with gamers on the importance of physical media: "Personally, I'm very happy that we are able to release a physical disc version of FFVII Revelation considering how the entire gaming market, or the landscape, is veering towards the disc-less direction." Regarding the download requirement, however, Hamaguchi says it was there to avoid compromising on detail: "When we had an internal discussion with the development team about how we wanted to approach the physical discs and the physical releases of FFVII Revelation, initially there were conversations about using the same disc size as we did for, say, FFVII Rebirth. "But if we were to do that, it would mean that we would have to make a compromise in terms of the fidelity and the quality
 
-### PSA: Keep social media trends away from your laptops, unless you want broken hinges
-Fri, 11 Sep 2026 09:58:34 +0000 — https://www.pcgamer.com/hardware/gaming-laptops/psa-keep-social-media-trends-away-from-your-laptops-unless-you-want-broken-hinges/
-
-Hinge broke after using laptop upside down from r/Asustuf Listen, I've not always been a paragon of common sense; I once managed to bend pins on not one but two CPUs when upgrading my then-partner's PC and my own—a two-for-one in sheer-faced idiocy, all within the space of an hour. So don't consider this me preaching from on high. But seriously, not everything you see on social media needs to be tried. A case in point is something I had my attention reluctantly dragged towards by Wccftech : a Redditor who has broken their gaming laptop hinge by standing it upside down, per Instagram reel and video setups they'd seen. Whatever could go wrong? Snapping, that's what. Laptops aren't usually designed to support resting on the top of the screen. "The other hinge," the Redditor says, "also broke but it snapped back in. This one does not." Mind you, I'm not sure any of my pleas would have been listened to even if they were uttered beforehand. The Redditor explains: "People on Reddit on my last post were saying that the hinges could break, but I didn’t really pay attention to that. Yeah it might be ggs and this laptop ain’t even mine." The laptop is presumably an Asus TUF laptop of some kind, given it's on the Asus TUF subreddit. I use a TUF laptop every day, so seeing this gives me a particularly sharp pang of pain. Anyways, I won't belabour the point given it's a simple one: try not to do things you're not supposed to with your expensive devices. And if you do, don't be surprised if
-
-### How to increase your inventory in Valheim
-Fri, 11 Sep 2026 00:08:01 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-increase-inventory-size/
-
-Whether you're a Valheim veteran or playing for the first time, at some point you're going to stop and ask "Is there any way to increase the size of my inventory? And finally, as of Valheim 1.0, the answer is yes, you can! Inventory size in Valheim is famously small, with just eight hotbar slots and 24 inventory slots. Especially since worn armor takes up slots, your inventory is going to be full quickly and constantly, making it tough to haul back all the loot and resources you find in the world. At long last, there's something you can do about it. How to increase your inventory in Valheim (Image credit: Coffee Stain Publishing) Visit Haldor . The NPC merchant in the Black Forest now sells two inventory upgrades in exchange for coins, with each upgrade giving you an extra row in your inventory, meaning you can add a total of 16 extra slots. Here are the inventory expansions Haldor sells: Wider pockets (+8 slots): 1000 coins Deeper pockets (+8 slots): 2000 coins How to find Haldor If you're new to Valheim, you may not have run into Haldor yet, and he can be hard to find. The vendor will only appear in the Black Forest biome, and there's not many ways to find him besides just going out into the world and looking. To find Haldor in a Black Forest biome, you'll need to be at least 1,500 meters away from the center of the map. (There's a console command, "pos", that shows your coordinates and distance from the map's center—to learn how to use it, please visit our page on how to u
-
-### Star Wars Zero Company gets much-needed first patch so you won't miss shots with a 100% chance to hit any more
-Thu, 10 Sep 2026 23:08:51 +0000 — https://www.pcgamer.com/games/strategy/star-wars-zero-company-gets-much-needed-first-patch-so-you-wont-miss-shots-with-a-100-percent-chance-to-hit-any-more/
-
-The main thing preventing me from playing Star Wars Zero Company in its iron man "beskar" mode is cowardice, but the second thing preventing me from doing that has been the state of the game at launch. I've had it crash on me a few times, and the thought of my one and only run being lost because of a mid-save crash is enough to keep me playing with iron man off—even if Zero Company is much easier than XCOM and actually losing seems unlikely. Fortunately, a 1.1 patch is here , and the first patch note is "Fixed various crash issues." Following that, "Fixed an issue where Beskar saves were temporarily deleted" and "Fixed a crash issue for Beskar mode." There's also a fix for "an issue where shots can be missed, even when the chance to hit is 100%." I've been assuming that ZCOM was rounding up the numbers and actually I'd been missing 97% chance shots the several times I completely whiffed a point-blank sure thing in my playthrough, so it'll be nice to actually land those attacks instead. The other main bug I experienced was overwatch not triggering even when enemies jog through multiple targeting cones on their turn. That doesn't seem to have been addressed, although several other bugs involving overwatch triggering against units outside the targeting cone or behind solid objects have. Maybe I'll wait one more patch before turning on the beskar mode then. Bit Reactor, the studio that created Zero Company, reportedly furloughed most of its staff shortly before launch , and has b
-
-### Ubisoft is 'testing' making its games far less annoying to launch on Steam
-Thu, 10 Sep 2026 22:39:47 +0000 — https://www.pcgamer.com/gaming-industry/ubisoft-is-testing-making-its-games-far-less-annoying-to-launch-on-steam/
-
-Playing a Ubisoft game from Steam usually requires installing and running Ubisoft Connect, which is the publisher's own desktop launcher. It's annoying to use one launcher—Steam—to access another launcher—Ubisoft Connect—in order to play an Assassin's Creed game, but it's been that way for years, and Ubisoft isn't alone in insisting on it: EA and Rockstar both do it too. But it looks like Ubisoft is changing tack: starting with Prince of Persia: The Lost Crown, for some reason, the publisher is "testing" doing away with the launcher altogether, though software will still run in the background for "cross-progression, cross-play, player safety, challenges and rewards" via a new Ubisoft Connect Services Steam tool. "This first version is an initial step toward a smoother and more streamlined launch experience on Steam," the Steam announcement reads. "We will continue to iterate and improve Ubisoft Connect Services over time, with the goal of delivering the features and services players use and expect while making the Steam experience as seamless as possible." I don't think this means you won't need a Ubisoft Connect account: It'll likely operate more like Diablo 4, which requires a Battle.net account but doesn't require launching the Battle.net application. The post also promises that the new method will roll out to other Ubisoft games in the future. It'll be nice when it does: I've definitely resisted the spontaneous urge for a Rainbow Six Siege match due to the petty annoyance
-
-### How to use Battle Idols and Protection Idols in Valheim, and where to find the Forge of Potential
-Thu, 10 Sep 2026 22:34:16 +0000 — https://www.pcgamer.com/games/survival-crafting/how-to-use-battle-idols-and-protection-idols-in-valheim-and-where-to-find-the-forge-of-potential/
-
-If you've started a new character or world in Valheim 1.0 from the beginning (or are playing it for the first time ever), you may be wondering about the Battle Idols and Protection Idols you've found. While opening chests in Valhiem's various biomes, you will occasionally come across an item called a Battle Idol or Protection Idol made of wood, bronze, iron, or other materials. These Idols don't seem to serve an immediate purpose, but hang onto any you find because you'll eventually be able to use them to upgrade your weapons and armor . Valheim Idols: Where to find them (Image credit: Coffee Stain Publishing) Idols can randomly be found as loot in chests , and chests can spawn in various places in the world: abandoned houses, burial chambers, ruined towers, shipwrecks, Viking graveyards, and other points of interest. Which type of Idol you find will depend on what biome you're in: Wooden Idol: Meadows biome Bronze Idol: Black Forest biome Iron Idol: Swamp Biome Silver Idol: Mountains biome Black Metal Idol: Plains biome Black Marble Idol: Mistlands biome Flametal Idol: Ashlands biome Bloodgold Idol: Deep North biome The Idols will allow you to upgrade your weapons and armor: the Battle Idols are used to improve your weapons, and the Protection Idols are used to improve your armor. You can only use Idols at one place: the Forge of Potential . How to find the Forge of Potential To find Valheim's Forge of Potential, you'll need to search the Mountains biome . Since it's so cold
-
-### Dave the Diver has now sold more than 10 million copies, Mintrocket 'can't wait to share our future plans'
-Thu, 10 Sep 2026 21:52:16 +0000 — https://www.pcgamer.com/games/life-sim/dave-the-diver-has-now-sold-more-than-10-million-copies-mintrocket-cant-wait-to-share-our-future-plans/
-
-Deep sea exploration and restaurant management game Dave the Diver is still going deep: Developer Mintrocket says the game has now moved past 10 million copies sold across all platforms, while the In the Jungle expansion that came out in June has moved past one million sales of its own. Dave the Diver was an " out-of-nowhere hit " when it arrived in 2023, earning a whopping 91% review score at PC Gamer—a site that does not give out many 90+ scores—and selling more than a million copies in just 10 days. A nomination at the 2023 Game Awards in the Best Indie Game category led to a small spot of controversy : Mintrocket is a division of Nexon, and so very much not an indie studio. The overall impact seemed minimal, though, in part because Dave the Diver didn't win, but also because game director Jaeho Hwang has been pretty clear that he doesn't think of it as an indie game either. The fact that Dave the Diver is a really good game that continued to get better with post-launch updates and crossovers that actually made sense is also probably helpful in that regard. In the Jungle, the DLC that came out earlier this year, is a banger in its own right: PC Gamer's Chris Livingston scored it a 90%, declaring it " just as charming and surprising as the base game ." "Everyone here at Mintrocket continues to be blown away by the passion and love that Dave the Diver attracts even years after launch," Hwang said of the big sales milestone. "We are looking forward to expanding the Dave the D
-
-### Steam's latest beta brings 'Big Art' to Big Picture Mode and Steam Deck, and customizable screensavers too
-Thu, 10 Sep 2026 20:57:26 +0000 — https://www.pcgamer.com/games/steams-latest-beta-brings-big-art-to-big-picture-mode-and-steam-deck-and-customizable-screensavers-too/
-
-If you play on a Steam Deck, or just rock with Big Picture Mode on your PC, the latest Steam client beta will be of big interest: It adds a new "Big Art Mode" that makes your home screen look a whole lot prettier (this is a subjective evaluation, yes, but I think it's prettier), a new screensaver feature, and a range of performance improvements and bug fixes. The Big Art Mode is the big deal, so we'll start with that. Rather than the cluttered look of the standard interface, Big Art lowers the carousel of recently played games, and splashes, well, big art from the highlighted game across the backdrop. So instead of this (not the video, the image below it): (Image credit: Valve) You get this: (Image credit: Valve) It's not quite perfect: Some games, like The Merlies, don't really adapt to the system super well. (Image credit: Valve) Overall though, it's a cleaner and sexier look, ideal for those of you who prefer to keep things neat and tidy . And all the content offered through the old UI remains available, you just have to scroll down to see it now. The new screensaver option in Big Picture Mode is also entirely cosmetic but very cool. You can choose from a slideshow of art from your recently played games, with or without your own screenshots included, or a "retro inspired bouncing logo" that has the Steam logo slowly bouncing off the edges of the screen, just like your dad's old DVD player. With a little effort, you can also set up custom screensavers. Some of the less flas
-
-### Electronic Arts admits to using AI voices in NHL 27: 'This process allows us to bring more variety to the game'
-Thu, 10 Sep 2026 20:49:19 +0000 — https://www.pcgamer.com/software/ai/electronic-arts-admits-to-using-ai-voices-in-nhl-27-this-process-allows-us-to-bring-more-variety-to-the-game/
-
-Electronic Arts has copped to using "AI voice technology" in the upcoming NHL 27, saying that doing so will "bring more variety to the game" and allow it to react more quickly to changes and feedback. The use of generative AI in NHL 27 was first reported by ESPN sportscaster John Buccigross, who also serves as the play-by-play man for EA's NHL series. "They're using some AI stuff now," he said on the Chirping Zebras Podcast last week (via IGN). "They played me some stuff back in my voice. It's like, wow, that's pretty good. If it means less work and the same check, I'll take it." EA didn't respond to my inquiries about Buccigross' claim last week, but in a blog post shared today on the game's first update it confirmed that AI is in fact being used in the game. "We’ve been following the discussion around the new commentary team and want to clarify our approach," EA wrote. "The broadcast is built on a direct and ongoing partnership with John Buccigross and Darren Pang. With their full consent and active collaboration, we are using AI voice technology to expand on the 50+ recording sessions they have already completed. "This process allows us to bring more variety to the game, react faster to league changes, and incorporate player feedback more quickly. Update 1 is our first step in an ongoing commitment to improve authenticity, with fixes for player-name pronunciations and repetitive lines. We will continue to expand player and city-name coverage in future updates." The comment
-
 ## GameSpot
+
+### GTA 6 Developer Is Fighting Drones And Hackers To Keep The Game s Secrets Safe
+Fri, 11 Sep 2026 17:12:00 +0000 — https://www.gamespot.com/articles/gta-6-developer-is-fighting-drones-and-hackers-to-keep-the-games-secrets-safe/
+
+As the studio behind one of the most highly anticipated games of all time, GTA 6 developer Rockstar Games has divulged more details on how it keeps its secrets. As part of a hearing, which began yesterday at the Glasgow Employment Tribunal--in which Rockstar Games has been accused of unlawfully firing 34 GTA 6 developers based in the UK and Canada last year--the studio compared keeping a lid on GTA 6 to be on the same level as Apple or the Coca-Cola Company protecting its trade secrets. "Guarding the secrets of the unique gameplay and design are akin to Apple protecting the iPhone or Coke protecting its formula," Rockstar said in its opening note (via IGN ). "The standards and expectations regarding information security and privacy are exponentially beyond that of most employers." The company claims that people are so hell-bent on peeking behind the curtain that it was forced to coat its building windows with a privacy film after aerial drones were used to spy on employees and photograph the inside of the building. Because of that, Rockstar has had to implement numerous security measures, such as enforcing strict no-photography rules for visitors, banning external storage devices on office premises, and restricting remote work for employees. The developer also has a full-time team of five investigators and a director who keep an eye out for potential leaks. https://www.youtube.com/watch?v=V1c75QjeqrI All of those measures are designed to create a layer of secrecy between the 
+
+### EA s New Owners May Be Considering An Even Bigger Gaming Empire
+Fri, 11 Sep 2026 15:38:03 +0000 — https://www.gamespot.com/articles/eas-new-owners-may-be-considering-an-even-bigger-gaming-empire/
+
+EA has officially been sold, and with Saudi Arabia's Public Investment Fund now the majority shareholder in the video game company, talks are reportedly underway to merge it with Savvy Games Group, the gaming and esports holding company that's also owned by the PIF. Speaking to Bloomberg , sources said the PIF is aiming to foster "better coordination" between its gaming assets, and the merger could happen once it completes its plan to acquire Chinese mobile gaming company Moonton, a deal valued at $6 billion. The PIF also owns Pokemon Go developer Scopely and game publisher SNK, and it holds sizable stakes in video game publishers like Nintendo, Capcom, and Koei Tecmo. The move could face scrutiny from regulators across the globe, however, as this would place several of the biggest gaming franchises in the world under one roof, including EA Sports FC, Battlefield, and mobile juggernauts like Monopoly Go. While EA's acquisition is valued at $55 billion, the massive leveraged buyout has also saddled the game company with billions of debt that needs to be addressed. The PIF is the majority owner of EA Games, with a 93.4% stake in the company, while its partners Silver Lake and Donald Trump's son-in-law Jared Kushner's private equity firm, Affinity Partners, own 5.5% and 1.1% of the company, respectively. https://www.youtube.com/watch?v=4jsYBULf-qc Employees fear that massive cost-cutting, projected layoffs, studio closures, and game cancellations are on the horizon, as EA may be
+
+### Switch 2 Update Secretly Makes Digital Game Sharing Much Better
+Fri, 11 Sep 2026 15:04:40 +0000 — https://www.gamespot.com/articles/switch-2-update-secretly-makes-digital-game-sharing-much-better/
+
+Everyone is focused on VRR (variable refresh rate) support for Switch 2 while docked . But the latest system update just provided a notable quality-of-life improvement for people--especially families--who own multiple Switch 2 and Switch consoles. Nintendo now allows for you to play a virtual game card on one of your devices without both having to be online. Previously, you'd need both hybrid consoles connected to the internet if you tried to play a digital title while it was "stored" on another. For example, say your child is playing Super Mario Bros. Wonder on your old Switch OLED, but you want to play it on your Switch 2. You both can actually play the title simultaneously by turning off Wi-Fi on the original hybrid console. Then, on your Switch 2, you can utilize an online license to jump around as the mustached plumber, too. We tested this out successfully. This also helps a lot between manually sending virtual game cards back and forth between Switch and Switch 2 systems. Now I can just start say, Blasphemous , on either system without having to actually send it from the previous place to a new one. Sure, it's not as smooth as using apps across Apple devices, but it's a step in the right direction. Here's Nintendo's official language for the version 23.0.0 update, which incorporates Switch 2 and Switch. "When starting software, if a virtual game card cannot be ejected from another console because it is powered off or otherwise not connected to the internet, there will b
 
 ### Death Stranding Franchise Likely Barely Broke Even, Could Explain Sony Dropping Physint Analyst
 Fri, 11 Sep 2026 14:04:29 +0000 — https://www.gamespot.com/articles/death-stranding-franchise-likely-barely-broke-even-could-explain-sony-dropping-physint-analyst/
@@ -455,22 +460,22 @@ Thu, 10 Sep 2026 15:37:28 +0000 — https://www.gamespot.com/articles/gta-6-trai
 
 Netflix and Rockstar Games worked together on the recent 26-minute GTA 6 Extended Look trailer, and it seemingly paid off in multiple ways for the streaming company. After Netflix's own data showed that the Extended Look was incredibly popular with viewers , it's now been reported that the Extended Look drove more than 100,000 people to sign up to Netflix that day in the US alone. This is according to Ampere Analysis, which added that the Extended Look was the third-biggest Netflix event in 2026 for new subscriber sign-ups. The two bigger events were the final season of Stranger Things and the Ronda Rousey vs. Gina Carano MMA fight, Ampere said. https://www.youtube.com/watch?v=XpPpqZwUwl0 Ampere went on to say more than 5% of US Netflix members who hadn't watched any content on the service in the previous 30 days before the Extended Look came back to watch it "before anything else." Ampere said this "reactivation rate" was higher than any other show or movie on Netflix during that 30-day period. "More than 100,000 sign-ups from a six-hour exclusive window shows the pulling power of a major gaming event. For Netflix, it also offers a way to compete with YouTube for gamer attention and to bring lapsed viewers back to the platform. For Rockstar, Netflix opens GTA 6 up to audiences beyond the franchise’s traditional core," Ampere's Louise Wooldridge said. The Extended Look was indeed just that--offering the deepest look yet at Rockstar's big new game. The video showed off a varie
 
-### PlayStation Dropping Physint Has Fans Trying To Figure Out What Went Wrong
-Thu, 10 Sep 2026 15:14:14 +0000 — https://www.gamespot.com/articles/playstation-dropping-physint-has-fans-trying-to-figure-out-what-went-wrong/
-
-A decade ago, at its PlayStation E3 press conference, Sony introduced veteran game designer Hideo Kojima in grand fashion to show off the first trailer for Death Stranding. It's now 2026, and that partnership appears to have fizzled out, as Kojima's Metal Gear Solid spiritual successor, Physint , has found a new home at Xbox after Sony dropped it . The Metal Gear Solid creator has also confirmed that he received notice from the company that it intended to cancel Phsyint, leading to several months in which the project was shopped around before Microsoft stepped in to sign a publishing deal. It's yet another baffling decision made by Sony as it continues to set a new speedrunning record for jettisoning goodwill , and naturally, the Internet has a thing or two to say about its divorce from Kojima--including how his studio, Kojima Productions, is situated directly across the road from Sony. You can't make this stuff up! https://twitter.com/milktst/status/2097886264649490701 https://twitter.com/philiparola/status/2097938828204146875 https://twitter.com/ItsRyanHyett/status/2097944205138022833 https://bsky.app/profile/did:plc:hkkn5gfv3zwfzzeeqj3rssfn/post/3mv54aqbwg223 https://bsky.app/profile/did:plc:o5v2ehhranox5nubskub6424/post/3mv53vuhark23 https://twitter.com/FunSpeculation/status/2097886852174782611 https://twitter.com/slothsaretight3/status/2097881425408368750 https://twitter.com/realradec/status/2097906192198574122 https://twitter.com/TheVTran/status/2097902322257195516 http
-
-### Unofficial GTA 6 Worldwide Release Times Revealed, And The US Gets It Almost Last
-Thu, 10 Sep 2026 14:34:11 +0000 — https://www.gamespot.com/articles/unofficial-gta-6-worldwide-release-times-revealed-and-the-us-gets-it-almost-last/
-
-GTA 6 is one of the most-anticipated games ever, and it arrives on November 19. People naturally want to know when exactly that day it will be available to play, and now it looks the like first indication of that has come to light. GTA Vice scoured PlayStation Store listings for the game across 63 countries and regions, and discovered that the game will not have a global simultaneous release. It looks like the US will be among the last major markets to get it. https://www.youtube.com/watch?v=XpPpqZwUwl0 Again, this is all based on PlayStation Store listings and is not confirmed by Rockstar. GameSpot has followed up with the developer seeking comment. According to GTA Vice, GTA 6 will unlock--on the PlayStation Store, at least--at midnight local time. That means people in New Zealand and Australia will get in first and the US will be among the final major regions to get started. In short, GTA 6 will become available to play in New Zealand at midnight in the country, which works out to 5 AM PT / 8 AM ET on November 18. People in the US will then have to wait 16 hours to play GTA 6 where they live. If this is accurate, then people in the US will be in for a tough day as they see the game go live for other people and have to wait. If you're concerned about spoilers, that's another reason to be on guard that day. It is also worth mentioning again that this information may not be accurate, or that details could change, so people should wait to hear directly from Rockstar about laun
-
-### Nintendo s Latest Sale Is Made Possible By Tariff Refunds It s Not Giving You
-Thu, 10 Sep 2026 13:57:48 +0000 — https://www.gamespot.com/articles/nintendos-latest-sale-is-possible-due-to-the-tariff-refunds-it-wont-give-players/
-
-Nintendo of America has announced a "Customer Appreciation Sale," offering 30% off games and access, with Nintendo specifically citing its tariff refunds as the reason why it's running the sale, at least in part. "The Customer Appreciation Sale is our way of saying thank you to Nintendo players for their continued support and is made possible in part by tariff-related refunds. While Nintendo absorbed most tariff-related costs, the refunds helped make promotions like this one possible," the company said. Nintendo, like Sony and Microsoft, got money back from the US government related to tariffs, which were implemented by US President Donald Trump and later deemed illegal by the Supreme Court. All three companies argued in court that they should keep the money and give nothing back because that's just how capitalism works . The Customer Appreciation Sale runs September 13-26 on the Nintendo eShop, Nintendo Store, and select retailers. Items on sale vary by retailer, but shoppers can expect discounts on digital and physical games, DLC, accessories, Amiibo, and apparel. Not every gaming company is taking such a hard line on this topic. Panic, the company behind the Playdate gaming handheld, said it will pass its own refunds on to customers who paid more . People should get about $12 back. “It’s just not our money to keep, and it felt really good to give it back,” Panic’s Cabel Sasser told Game Developer . “That’s an easy way to know you made the right decision.” Many companies re
-
 ## Rock Paper Shotgun
+
+### "Why do we need more graphics?": 2010's Alan Wake was as photoreal as videogames ever needed to be, reckons original Thief designer
+Fri, 11 Sep 2026 16:29:41 +0000 — https://www.rockpapershotgun.com/why-do-we-need-more-graphics-2010s-alan-wake-was-as-photoreal-as-videogames-ever-needed-to-be-reckons-original-thief-designer
+
+Former Thief: The Dark Project designer, Ion Storm game director, and sometime Spielberg collaborator Randy Smith Evergreen has shared his probably-incendiary view that photorealistic videogame graphics need not have advanced any further than Remedy's original Alan Wake . For context, Alan Wake released back in 2010, when some of you people were screaming babies. Every touted breakthrough in visual fidelity since that golden year? A pointless indulgence and a reckless travesty. A middle finger jammed up the nose of god. Smith Evergreen is entirely wrong, of course: videogame graphics actually topped out with PS1's MediEvil, still definitively the most faithful and convincing portrayal of an incompetent walking skeleton known to science. That said, this is an OG Thief designer we're talking about. Let's hear the poor soul out. Read more
+
+### Rockstar had a mole in the union worker Discord server "for over two and a half years", GTA 6 company reveals during legal battle
+Fri, 11 Sep 2026 15:31:24 +0000 — https://www.rockpapershotgun.com/rockstar-had-a-mole-in-the-union-worker-discord-server-for-over-two-and-a-half-years-gta-6-company-reveals-during-legal-battle
+
+Back in October 2025, GTA 6 developers Rockstar fired a group of 34, mostly UK-based employees on a charge of "gross misconduct", alleging that they had risked the leaking of confidential information while posting on a Discord server set up by union organisers. The ousted UK workers and their representatives have since taken Rockstar to court, accusing the company of getting rid of them to stop their union gaining enough members to win official recognition under UK law. This week, both parties filed opening submissions at an employment tribunal in Glasgow , which Rockstar parent company Take-Two Interactive have emailed to RPS and Game Developer , among others. Taken together, the filings amount to over 100 pages of claims and counterclaims, with thousands of pages of evidence to be discussed in the coming weeks. Amongst other things, the docs give us more sense of events leading up to the dismissals, including the revelation that Rockstar had a mole or "whistleblower" passing them information on the people using the Discord server. Read more
+
+### PlayStation reportedly dumped Hideo Kojima spy action game Physint over exceeded budgets, missed deadlines, and Death Stranding sales
+Fri, 11 Sep 2026 14:59:37 +0000 — https://www.rockpapershotgun.com/playstation-reportedly-dumped-hideo-kojima-spy-action-game-physint-over-exceeded-budgets-missed-deadlines-and-death-stranding-sales
+
+Earlier this week, Hideo Kojima-helmed action espionage game Physint switched publishers from PlayStation to Xbox , a leap across the console divide which might make it more likely to get a PC port. At the time, Kojima claimed PlayStation had tried to can the game, while the console makers tried to paint the divorce as an amicable split. Now, a report's shed more light on why Sony decided to ditch Physint . Read more
 
 ### Wardogs presents a different kind of FPS power fantasy: making fat stacks as a pacifist rideshare driver
 Fri, 11 Sep 2026 13:57:31 +0000 — https://www.rockpapershotgun.com/wardogs-presents-a-different-kind-of-fps-power-fantasy-making-fat-stacks-as-a-pacifist-rideshare-driver
@@ -516,19 +521,4 @@ In this IP-obsessed world, it is quite easy to wonder if anything will ever actu
 Thu, 10 Sep 2026 17:00:00 +0000 — https://www.rockpapershotgun.com/skyrims-official-ikea-crossover-mod-might-be-the-most-deftly-assembled-elder-scrolls-gag-ever-if-not-an-ad-blueprint-other-corps-should-follow
 
 I didn&rsquo;t think, when I saw the other day that Swedish furniture sellers IKEA had commissioned a group of modders to stick an advert for their wares in Skyrim as an official Bethesda-approved Creation, that I&rsquo;d now be sitting here noting that I dug said creation&rsquo;s dungeon designs. Read more
-
-### Ubisoft games on Steam may soon no longer require the pesky Connect launcher, thanks to a new tool the publishers are testing
-Thu, 10 Sep 2026 16:17:00 +0000 — https://www.rockpapershotgun.com/ubisoft-games-on-steam-may-soon-no-longer-require-the-pesky-connect-launcher-according-to-an-announcement-post-thats-weirdly-tough-to-pin-down
-
-Update: Ubisoft have confirmed the Steam announcement post about them starting to test a new Ubisoft Connect Services Steam tool is genuine, and they've now stuck it in Prince of Persia The Lost Crown's regular Steam news feed so everyone can have a read. Original story follows: Ubisoft are planning to start testing a new tool that'll allow Prince of Persia The Lost Crown Steam players to access features only usually available via the publishers' Connect launcher without actually having to have said launcher installed. That's according to a Steam announcement post which only appears to be visible to folks who already own a copy of The Lost Crown on Valve's storefront. Read more
-
-### "We want to invite people into this big tent with this grimdark setting": Creative Assembly on how they plan to ease strategy newbies into Total War: Warhammer 40,000
-Thu, 10 Sep 2026 16:10:56 +0000 — https://www.rockpapershotgun.com/we-want-to-invite-people-into-this-big-tent-with-this-grimdark-setting-creative-assembly-on-how-they-plan-to-ease-strategy-newbies-into-total-war-warhammer-40000
-
-I remember once when I was a child, my uncle was visiting and completely unprompted (and kindly) he gave me a copy of one of the Total War games, I think the Rome one, you'll have to forgive my memory. I'd literally never played a strategy game in my life, but I gave it a go anyway, and quickly found myself thinking, "hey, where are the collectibles? Why's there no triple jump?" The onboarding process did not help me much, and after a failure of a battle where I lost everything, I soon gave up after. So it's because of not particularly strategic people like me that makes me understand why developer Creative Assembly want Total War: Warhammer 40,000 "approachable and accessible". Read more
-
-### Bargain with demons and boat with the dead in joyful RPG heist quest anthology Thousand Hells
-Thu, 10 Sep 2026 14:00:00 +0000 — https://www.rockpapershotgun.com/bargain-with-demons-and-boat-with-the-dead-in-joyful-rpg-heist-quest-anthology-thousand-hells
-
-You'd expect a game called Thousand Hells: The Underworld Heists to be on the depressing side, but this choose-your-own-adventure RPG anthology from the designers of King of Dragon Pass is an absolute tonic. It's a witty procession of Orphic descents, in which you assemble a crew of four garrulous weirdos and pitch them against quest scenarios that might involve talking trees, holy riddlers, and conduits of boiling blood. There's an infectious, venturesome lightness to the game, which somehow persists alongside dire blunders and supernatural calamities that may see members of your party being cursed, punctured or unhinged. I've only completed a couple of the 10 heists across two hours of play, which makes me reluctant to call this an official review, but it's got my provisional recommendation. Come, reader - get thee to Pandemonium apace. Read more
 

@@ -1,6 +1,26 @@
-# Manga — harvested 2026-09-11T14:37:07.593Z
+# Manga — harvested 2026-09-11T19:17:04.176Z
 
 ## Anime News Network
+
+### 'Harem Camp!' Anime's English Dub Releases on September 18
+Fri, 11 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/harem-camp-anime-english-dub-releases-on-september-18/.241668
+
+AnimeFesta anime based on Yuuki HB's manga premiered in October 2022
+
+### Madoka Magica -Walpurgisnacht: Rising- Anime Film Reveals Maaya Sakamoto's Role
+Fri, 11 Sep 2026 12:20:15 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/madoka-magica-walpurgisnacht-rising-anime-film-reveals-maaya-sakamoto-role/.241675
+
+Sakamoto plays unnamed upperclassman in film
+
+### Victoria of Many Faces Season 1 Anime Series Review
+Fri, 11 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/victoria-of-many-faces-season-1/anime-series/.241208
+
+The push and pull Victoria feels between her longing to settle down and the feeling that she must constantly be ready to flee are what bring intrigue to this show.
+
+### 'Sound! Euphonium, The Final Movie Part 2' Streams Video Featuring New Footage
+Fri, 11 Sep 2026 10:56:58 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/sound-euphonium-the-final-movie-part-2-streams-video-featuring-new-footage/.241674
+
+Film opened on Friday
 
 ### Thunder 3 ‒ Episode 10
 Fri, 11 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-10/.241671
@@ -42,31 +62,16 @@ Fri, 11 Sep 2026 08:19:45 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Character releases on September 15 for PS5, PC via Steam; releases for Switch on September 23
 
-### Voice Actor Kentarō Itō Goes on Hiatus Following Brain Hemorrhage, Surgery
-Fri, 11 Sep 2026 07:41:06 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/voice-actor-kentaro-ito-goes-on-hiatus-following-brain-hemorrhage-surgery/.241667
-
-Agency states his life is not in danger, he will focus on rehabilitation with goal of returning to work
-
-### Shakugan no Shana: Blaze Edge Browser Game Launches on September 14
-Fri, 11 Sep 2026 07:00:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/shakugan-no-shana-blaze-edge-browser-game-launches-on-september-14/.241660
-
-Free-to-play game with in-app purchases will be available in Japanese, English, Traditional Chinese, Korean
-
-### Black Torch TV Anime Reveals 'Final' Promo Video
-Fri, 11 Sep 2026 06:07:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/black-torch-tv-anime-reveals-final-promo-video/.241665
-
-Series debuted on July 4
-
-### Chitose Is in the Ramune Bottle Anime's 2nd Part Reveals October 13 Debut in Promo Video
-Fri, 11 Sep 2026 06:02:30 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/chitose-is-in-the-ramune-bottle-anime-2nd-part-reveals-october-13-debut-in-promo-video/.241662
-
-Cider Girl, aruma perform theme songs
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Jaadugar: A Witch in Mongolia Episode 12 (Finale) Preview and Synopsis Released
+Fri, 11 Sep 2026 15:22:36 GMT — https://animecorner.me/jaadugar-a-witch-in-mongolia-episode-12-finale-preview-and-synopsis-released/
+
+Jaadugar: A Witch in Mongolia anime released the synopsis and preview for Episode 12, which will be the finale of the Science SARU series.
 
 ### Press Conference: Sparks of Tomorrow ED Artist Ginger Root & Art Director Mao Takayama
 Fri, 11 Sep 2026 14:00:34 GMT — https://animecorner.me/press-conference-sparks-of-tomorrow-ed-artist-ginger-root-art-director-mao-takayama/
@@ -123,11 +128,6 @@ Fri, 11 Sep 2026 07:46:48 GMT — https://animecorner.me/sasaki-and-peeps-season
 
 Sasaki and Peeps Season 2 premieres on October 7 with a one-hour special, revealing a new main trailer and visual ahead of the release.
 
-### The Vermilion Mask Reveals Second Trailer, Key Visual, Theme Songs and 6 New Cast Members
-Thu, 10 Sep 2026 19:30:35 GMT — https://animecorner.me/the-vermilion-mask-reveals-second-trailer-key-visual-theme-songs-and-6-new-cast-members/
-
-The Vermilion Mask anime has revealed its second main trailer and key visual, along more cast and an October 10 premiere.
-
 ## MyAnimeList News
 
 ### Kyokou Suiri Author to Launch Vampire Juujikai Sequel in October 2026
@@ -174,11 +174,6 @@ Entertainment company Hakuhodo DY Music &amp; Pictures opened an official websit
 Thu, 10 Sep 2026 02:36:04 -0700 — https://myanimelist.net/news/74696432?_location=rss
 
 The official website for the television anime adaptation of Nana Mikoshiba s Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel unveiled supporting cast and the main promotional video for its second season on Thursday. The new season is scheduled to premiere on TBS on October 9 at 1.28 a.m., followed by BS11 at 11.00 p.m. at the same day. Cast Lucas Forst: Souichirou Hoshi (Mattaku Saikin no Tantei to Kitara) Lieselotte Eden: Haruka Shiraishi...
-
-### Webtoon SSS-Class Revival Hunter Gets TV Anime in Winter 2027
-Wed, 09 Sep 2026 11:00:25 -0700 — https://myanimelist.net/news/74693008?_location=rss
-
-Production company Hayate opened an official website for a television anime adaptation of Sinnoa and Bill K s SSS-Class Revival Hunter webtoon on Wednesday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. The anime is scheduled to premiere in January 2027. Voice actors Takeo Ootsuka ([Oshi no Ko]) and Satoshi Hino (Overlord) are starring as Gong-ja Kim and Bae Hu-ryeong, respectively. Staff Director: Hiroaki Sakurai (Machikado Mazoku) Script: Sayur...
 
 ## Otaku USA
 
