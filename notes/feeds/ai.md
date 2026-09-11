@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-11T09:08:50.103Z
+# AI — harvested 2026-09-11T14:37:07.593Z
 
 ## OpenAI
 
@@ -31,16 +31,6 @@ GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with 
 Thu, 10 Sep 2026 00:00:00 GMT — https://openai.com/index/introducing-the-agents-api
 
 Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.
-
-### The AI policy window is open. We need to act.
-Wed, 09 Sep 2026 13:00:00 GMT — https://openai.com/index/ai-policy-window
-
-Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.
-
-### GPT-6 Astra: The next generation in intelligence for work
-Wed, 09 Sep 2026 11:00:00 GMT — https://openai.com/index/gpt-6-astra-next-generation-work
-
-Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.
 
 ### Paul Christiano joins OpenAI Foundation Board
 Wed, 09 Sep 2026 17:00:00 GMT — https://openai.com/index/paul-christiano-joins-openai-foundation-board

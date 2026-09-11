@@ -1,72 +1,117 @@
-# Manga — harvested 2026-09-11T09:08:50.103Z
+# Manga — harvested 2026-09-11T14:37:07.593Z
 
 ## Anime News Network
 
-### Live-Action Ao to Midori BL Series Unveils Theme Song Artists, Visual
-Fri, 11 Sep 2026 00:06:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/live-action-ao-to-midori-bl-series-unveils-theme-song-artists-visual/.241648
+### Thunder 3 ‒ Episode 10
+Fri, 11 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-10/.241671
 
-ONE N' ONLY performs opening theme song "Crush On You"
+I won’t lie, though – the kids’ joy during the flying scenes is infectious.
 
-### My Sword Saint Master Is Too Cute to Live With! Anime Reveals Staff, New Visual
-Fri, 11 Sep 2026 00:02:01 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/my-sword-saint-master-is-too-cute-to-live-with-anime-reveals-staff-new-visual/.241653
+### Web Novel-Based Live-Action Series Take Charge of My Heart Sets October 9 Debut on Netflix
+Fri, 11 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/web-novel-based-live-action-series-take-charge-of-my-heart-sets-october-9-debut-on-netflix/.241651
 
-<cite>Makina-san's a Love Bot?!</cite> director Masayoshi Nishida directs anime at Wolfsbane, Lightbox
+Series follows 3rd-generation chaebol executive whose artificial heart battery is running out
 
-### 'Optimus Prime: Awakening' Animated Short's Clip Posted
-Thu, 10 Sep 2026 23:55:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/optimus-prime-awakening-animated-short-clip-posted/.241649
+### This Week in Games - Catching Up with Sony and Nintendo
+Fri, 11 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-09-11/catching-up-with-sony-and-nintendo/.241494
 
-Short debuts alongside <cite>The Transformers: The Movie</cite> 4K re-release
+Both Sony and Nintendo had showcases in the last week - did they have anything worth being excited about?
 
-### Muramasa: Revenant Blades Game Launches on February 4
-Thu, 10 Sep 2026 23:36:42 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/muramasa-revenant-blades-game-launches-on-february-4/.241647
+### Smoking Behind the Supermarket with You ‒ Episode 10
+Fri, 11 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-10/.241670
 
-New long gameplay video posted for game on PS5, Switch, Switch 2, Steam
+Even though this episode is plenty of fun, I would have liked it more if there was 50% less yelling.
 
-### Sasaki and Peeps 2nd Season Anime Reveals Main Trailer, 2 New Cast Members, Opening Theme Song, October 7 Debut
-Thu, 10 Sep 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/sasaki-and-peeps-2nd-season-anime-reveals-main-trailer-2-new-cast-members-opening-theme-song-/.241645
+### Webtoon-Based Live-Action Series Mousetrap Rises to No. 1 on Global Non-English Series on Netflix
+Fri, 11 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/webtoon-based-live-action-series-mousetrap-rises-to-no-1-on-global-non-english-series-on-netflix/.241652
 
-MADKID perform opening theme song "Unbroken"
+Series based on webtoon <i>Field Mouse</i> recorded 4.4 million views, appeared in Top 10 in 45 countries
 
-### Snack World Reloaded Remake Game's Trailer Reveals 2027 Release
-Thu, 10 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/snack-world-reloaded-remake-game-trailer-reveals-2027-release/.241625
+### Director Hiroshi Ikehata Aims for Big Laughs in Giant Ojō-sama Anime
+Fri, 11 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-09-11/director-hiroshi-ikehata-aims-for-big-laughs-in-giant-ojo-sama-anime/.241045
 
-Remake of <cite>Snack World: The Dungeon Crawl - Gold</cite> launches for Switch 2, PS5, PC
+We caught up with the experienced director to ask him a few questions about working on a project where the character is bigger than a skyscraper.
 
-### Decapolice Game's Trailer Reveals Another Delay to 2027
-Thu, 10 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/decapolice-game-trailer-reveals-another-delay-to-2027/.241635
+### Young Ladies Don't Play Fighting Games ‒ Episode 10
+Fri, 11 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-10/.241669
 
-Game was originally scheduled for release in 2023
+Not only are the girls falling in love with fighting games, but also, very much so, with each other.
 
-### The Vermilion Mask Anime's 2nd Main Trailer Reveals Theme Songs, More Cast, October 10 Premiere
-Thu, 10 Sep 2026 15:27:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/the-vermilion-mask-anime-2nd-main-trailer-reveals-theme-songs-more-cast-october-10-premiere/.241641
+### Under Night In-Birth II Sys:Celes Fighting Game Releases DLC Character Zohar The 'Doppelganger' on September 15
+Fri, 11 Sep 2026 08:19:45 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/under-night-in-birth-ii-sys-celes-fighting-game-releases-dlc-character-zohar-the-doppelganger-on-/.241666
 
-Video previews opening theme song by MAN WITH A MISSION, ending theme by yutori
+Character releases on September 15 for PS5, PC via Steam; releases for Switch on September 23
 
-### Ace Combat 8: Wings of Theve Game Gets 4-Episode Live-Action Prequel Series
-Thu, 10 Sep 2026 15:03:59 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/ace-combat-8-wings-of-theve-game-gets-4-episode-live-action-prequel-series/.241639
+### Voice Actor Kentarō Itō Goes on Hiatus Following Brain Hemorrhage, Surgery
+Fri, 11 Sep 2026 07:41:06 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/voice-actor-kentaro-ito-goes-on-hiatus-following-brain-hemorrhage-surgery/.241667
 
-1st episode of <cite>Ace Combat Hour Zero</cite> premieres on September 15 on YouTube
+Agency states his life is not in danger, he will focus on rehabilitation with goal of returning to work
 
-### Voice Actor Mike McFarland Dies at 56 (Updated)
-Thu, 10 Sep 2026 13:12:35 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/voice-actor-mike-mcfarland-dies-at-56/.241616
+### Shakugan no Shana: Blaze Edge Browser Game Launches on September 14
+Fri, 11 Sep 2026 07:00:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/shakugan-no-shana-blaze-edge-browser-game-launches-on-september-14/.241660
 
-McFarland had brain tumor removed in January 2025, was diagnosed with glioblastoma in August 2025
+Free-to-play game with in-app purchases will be available in Japanese, English, Traditional Chinese, Korean
 
-### Level 5's Holy Horror Mansion Game's Trailer Reveals 2027 Release for Switch 2, PS5, PC
-Thu, 10 Sep 2026 12:33:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-10/level-5-holy-horror-mansion-game-trailer-reveals-2027-release-for-switch-2-ps5-pc/.241630
+### Black Torch TV Anime Reveals 'Final' Promo Video
+Fri, 11 Sep 2026 06:07:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/black-torch-tv-anime-reveals-final-promo-video/.241665
 
-RPG features ghostly mechanics based on real-life performers
+Series debuted on July 4
 
-### The Demons Are Planning Something Good Volumes 1-2 Manga Review
-Thu, 10 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-demons-are-planning-something-good/volumes-1-2/.241062
+### Chitose Is in the Ramune Bottle Anime's 2nd Part Reveals October 13 Debut in Promo Video
+Fri, 11 Sep 2026 06:02:30 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/chitose-is-in-the-ramune-bottle-anime-2nd-part-reveals-october-13-debut-in-promo-video/.241662
 
-This naughty workplace comedy benefits from its delightful streak of camaraderie; demons they might be.
+Cider Girl, aruma perform theme songs
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Press Conference: Sparks of Tomorrow ED Artist Ginger Root & Art Director Mao Takayama
+Fri, 11 Sep 2026 14:00:34 GMT — https://animecorner.me/press-conference-sparks-of-tomorrow-ed-artist-ginger-root-art-director-mao-takayama/
+
+Sparks of Tomorrow is a bright and inventive contribution to this season's stacked list&hellip;
+
+### Katekyo Hitman Reborn! Anime Reveals Fourth Opening Featuring "88" by LM.C
+Fri, 11 Sep 2026 13:28:26 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-fourth-opening-featuring-88-by-lm-c/
+
+Katekyo Hitman REBORN! anime officially released the creditless version of its fourth opening, featuring the song "88" by LM.C.
+
+### Summer 2026 Anime Rankings – Week 10
+Fri, 11 Sep 2026 12:30:00 GMT — https://animecorner.me/summer-2026-anime-rankings-week-10/
+
+Mushoku Tensei Season 3 takes its first win of the Summer 2026 season in Week 10 with 15.03% of the vote, followed by Bleach and Inept Villainess.
+
+### Aizen Is Back in BLEACH: Thousand-Year Blood War Episode 48 Preview
+Fri, 11 Sep 2026 11:03:16 GMT — https://animecorner.me/aizen-is-back-in-bleach-thousand-year-blood-war-episode-48-preview/
+
+BLEACH: Thousand-Year Blood War (TYBW) Part 4 has revealed the preview for Episode 8 (Episode 48 overall).
+
+### Chitose Is in the Ramune Bottle Part 2 Trailer and October 13 Premiere Revealed, Sora Amamiya Joins Cast
+Fri, 11 Sep 2026 10:59:32 GMT — https://animecorner.me/chitose-is-in-the-ramune-bottle-part-2-trailer-and-october-13-premiere-revealed-sora-amamiya-joins-cast/
+
+Chitose Is in the Ramune Bottle revealed a new trailer for its Cour 2, along with the theme songs and an October 13, 2026 premiere.
+
+### A Wild Last Boss Appeared Season 2 Reveals New Trailer, Cast and September 26 Streaming Premiere
+Fri, 11 Sep 2026 10:43:58 GMT — https://animecorner.me/a-wild-last-boss-appeared-season-2-reveals-new-trailer-cast-and-september-26-streaming-premiere/
+
+A Wild Last Boss Appeared has revealed its second Season 2 trailer, confirming that&hellip;
+
+### BLACK TORCH Prepares For Final Episodes With New Trailer
+Fri, 11 Sep 2026 09:46:21 GMT — https://animecorner.me/black-torch-prepares-for-final-episodes-with-new-trailer/
+
+BLACK TORCH released a new “FINAL PV” trailer ahead of its concluding episodes, featuring footage from Episodes 11 and 12.
+
+### A Certain Item of Dark Side Anime Reveals Key Visual
+Fri, 11 Sep 2026 09:34:47 GMT — https://animecorner.me/a-certain-item-of-dark-side-anime-reveals-key-visual/
+
+A Certain ITEM of Dark Side anime has revealed a new key visual featuring the main characters ahead of the show's October 9, 2026.
+
+### Reincarnated as a Sword Season 2 Reveals Collaboration Visual With From Old Country Bumpkin to Master Swordsman, Episode 1 Preview
+Fri, 11 Sep 2026 09:23:18 GMT — https://animecorner.me/reincarnated-as-a-sword-season-2-reveals-collaboration-visual-with-from-old-country-bumpkin-to-master-swordsman-episode-1-preview/
+
+Reincarnated as a Sword Season 2 has revealed a new collaboration visual with From Old Country Bumpkin to Master Swordsman S2.
 
 ### PSYREN Anime Reveals New Visual, Trailer, Theme Song, Voice Cast
 Fri, 11 Sep 2026 09:00:09 GMT — https://animecorner.me/psyren-anime-reveals-new-visual-trailer-theme-song-voice-cast/
@@ -83,52 +128,27 @@ Thu, 10 Sep 2026 19:30:35 GMT — https://animecorner.me/the-vermilion-mask-reve
 
 The Vermilion Mask anime has revealed its second main trailer and key visual, along more cast and an October 10 premiere.
 
-### The Dangers in My Heart Manga Ends on September 15 After Eight and a Half Years
-Thu, 10 Sep 2026 15:38:24 GMT — https://animecorner.me/the-dangers-in-my-heart-manga-ends-on-september-15-after-eight-and-a-half-years/
-
-Norio Sakurai's The Dangers in My Heart (BokuYaba) manga will officially end with its final chapter on September 15, 2026.
-
-### One Piece Heads to CCXP26 in Brazil With Giant Gear 2, Gear 4 and Gear 5 Luffy Displays
-Thu, 10 Sep 2026 15:14:34 GMT — https://animecorner.me/one-piece-heads-to-ccxp26-in-brazil-with-giant-gear-2-gear-4-and-gear-5-luffy-displays/
-
-ONE PIECE will have an official presence at CCXP26 in Sao Paulo, Brazil, which will be held from December 3 to 6, 2026.
-
-### BanG Dream! Releases Yumemita x Our Notes Story Trailer
-Thu, 10 Sep 2026 14:41:42 GMT — https://animecorner.me/bang-dream-releases-yumemita-x-our-notes-story-trailer/
-
-A story link trailer for BanG Dream! YUME∞MITA has been released, announcing that the&hellip;
-
-### Witch on the Holy Night Anime Movie Hits Theaters Worldwide in January 2027, in North America on January 29
-Thu, 10 Sep 2026 13:07:13 GMT — https://animecorner.me/witch-on-the-holy-night-anime-movie-hits-theaters-worldwide-in-january-2027-in-north-america-on-january-29/
-
-Witch on the Holy Night anime movie will begin its worldwide theatrical release in January 2027, coming to North America on January 29.
-
-### Katekyo Hitman Reborn! Anime Reveals Special Episode 63 Ending Featuring "friend" by Kyoko and Haru
-Thu, 10 Sep 2026 11:13:20 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-special-episode-63-ending-featuring-friend-by-kyoko-and-haru/
-
-Katekyo Hitman REBORN! anime released the creditless version of its special Episode 63 ending, featuring "friend" by Kyoko and Haru.
-
-### Unnamed Memory -after the end- Light Novel Ending With 8th Volume
-Thu, 10 Sep 2026 10:14:06 GMT — https://animecorner.me/unnamed-memory-after-the-end-light-novel-ending-with-8th-volume/
-
-Dengeki Bunko (Kadokawa) has announced that Kuji Furumiya’s romance light novel, Unnamed Memory –after&hellip;
-
-### Eat-Man Announces New Anime Project After Nearly 30 Years
-Thu, 10 Sep 2026 10:02:06 GMT — https://animecorner.me/eat-man-announces-new-anime-project-after-nearly-30-years/
-
-EAT-MAN has officially announced a new anime project, coming nearly 30 years since the last installment in 1998.
-
-### The Apothecary Diaries Announces First Console Game for Early 2027, Original Story Supervised by Author
-Thu, 10 Sep 2026 09:38:00 GMT — https://animecorner.me/the-apothecary-diaries-announces-first-console-game-for-early-2027-original-story-supervised-by-author/
-
-The Apothecary Diaries is getting its first console game, titled The False Imperial Brother, with a release planned for early 2027.
-
-### XBOX to Publish Hideo Kojima's PHYSINT Game After PlayStation Ends Collaboration
-Thu, 10 Sep 2026 08:28:44 GMT — https://animecorner.me/xbox-to-publish-hideo-kojimas-physint-game-after-playstation-ends-collaboration/
-
-KOJIMA PRODUCTIONS has confirmed that XBOX will publish PHYSINT, expanding the studio's existing partnership&hellip;
-
 ## MyAnimeList News
+
+### Kyokou Suiri Author to Launch Vampire Juujikai Sequel in October 2026
+Fri, 11 Sep 2026 06:47:09 -0700 — https://myanimelist.net/news/74702759?_location=rss
+
+The official X account of Square Enix s Monthly Shounen Gangan announced on Friday that Kyokou Suiri (In/Spectre) author Kyou Shirodaira will launch a sequel manga of Vampire Juujikai, titled Vampire Juujikai: Inu ni wa Inu no Uta (Vampire Cross World: A Song for Dogs) featuring illustrations by Yuri Kimura in the November issue on October 9. Shiradora began serializing Vampire Juujikai (The Record of a Fallen Vampire) on Shonen Gangan magazine with illustrations by Kimura from August 2003...
+
+### Toaru Anbu no Item Announces Additional Staff
+Fri, 11 Sep 2026 03:52:14 -0700 — https://myanimelist.net/news/74702372?_location=rss
+
+The official website for the television anime adaptation of Kazuma Kamachi s Toaru Anbu no Item (A Certain Dark Side s Item) light novel revealed additional staff and a key visual (pictured) on Friday. The anime series is scheduled to premiere on October 9 at 10.30 p.m. on AT-X, followed by Tokyo MX and BS11 on October 10. Staff Series Composition: Shougo Yasukawa (Shokugeki no Souma) Animation Character Design Corporation: Kiyotaka Haimura (Dungeon ni Deai wo Motomeru no wa Machigatte...
+
+### Yasei no Last Boss ga Arawareta! 2nd Season Unveils Additional Cast, Ending Theme, Second Promo
+Fri, 11 Sep 2026 02:57:13 -0700 — https://myanimelist.net/news/74702269?_location=rss
+
+The official website for the television anime adaptation of Firehead s Yasei no Last Boss ga Arawareta! (A Wild Last Boss Appeared!) light novel unveiled additional cast, the ending theme, and second promotional video for the second season on Friday. The new season is scheduled to premiere on October 3 at 10:30 p.m. on Tokyo MX, followed by BS Asahi, and Kansai TV. Cast Sagittarius: Atsushi Miyauchi (Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou) Leon: Akio Ootsuka (Fate/Zero) M...
+
+### Psyren Reveals Additional Cast, Staff, Opening Theme, Main Promo
+Fri, 11 Sep 2026 02:21:31 -0700 — https://myanimelist.net/news/74702197?_location=rss
+
+The official website for the television anime adaptation of Toshiaki Iwashiro s Psyren manga revealed additional cast, staff, opening theme, key visual (pictured), and the main promotional video on Friday. The anime is scheduled to premiere on October 5 at 11.00 p.m. on Tokyo MX, followed by BS11 and Sun TV. Voice actors Yuuko Kaida (Spy x Family) and Nobuyuki Hiyama (Gachiakuta) are joining the cast as Matsuri Yagumo and Dholaki, respectively. Staff Creature Design: Yoshitaka Taniguchi (Se...
 
 ### Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu Announces Production Staff
 Thu, 10 Sep 2026 21:02:35 -0700 — https://myanimelist.net/news/74701299?_location=rss
@@ -159,11 +179,6 @@ The official website for the television anime adaptation of Nana Mikoshiba s Hyo
 Wed, 09 Sep 2026 11:00:25 -0700 — https://myanimelist.net/news/74693008?_location=rss
 
 Production company Hayate opened an official website for a television anime adaptation of Sinnoa and Bill K s SSS-Class Revival Hunter webtoon on Wednesday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. The anime is scheduled to premiere in January 2027. Voice actors Takeo Ootsuka ([Oshi no Ko]) and Satoshi Hino (Overlord) are starring as Gong-ja Kim and Bae Hu-ryeong, respectively. Staff Director: Hiroaki Sakurai (Machikado Mazoku) Script: Sayur...
-
-### Tensei Goblin dakedo Shitsumon Aru? Reveals Additional Staff, Theme Songs, Main Promo
-Wed, 09 Sep 2026 03:34:54 -0700 — https://myanimelist.net/news/74691262?_location=rss
-
-The official website for the television anime adaptation of Nazuna Miki s Tensei Goblin dakedo Shitsumon Aru? (So What s Wrong with Getting Reborn as a Goblin?) manga revealed additional staff, theme songs, the main visual (pictured), and promotional video on Wednesday. The anime is scheduled to premiere on October 5 at 10.00 p.m. on Tokyo MX, followed by broadcasts on BS11, Sun TV, and AT-X. Staff Art Director: Maika Hosoda (Mob kara Hajimaru Tansaku Eiyuutan) Color Design: Naomi Kiyo...
 
 ## Otaku USA
 

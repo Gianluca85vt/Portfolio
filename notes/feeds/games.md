@@ -1,6 +1,16 @@
-# Games — harvested 2026-09-11T09:08:50.103Z
+# Games — harvested 2026-09-11T14:37:07.593Z
 
 ## Eurogamer
+
+### Pokémon Go and EA FC could be "under one roof", as EA and Saudi-owned Savvy Games Group reportedly considering merger
+Fri, 11 Sep 2026 14:18:19 +0000 — https://www.eurogamer.net/ea-savvy-games-group-reported-merger-saudi-arabia-pif
+
+Saudi Arabia's Public Investment Fund (PIF) is reportedly considering combining EA - which it acquired in a $55bn leveraged buyout earlier this year - with its Savvy Games Group, all under one banner. Read more
+
+### 'It would have been insanity to take no action' - Fiery opening statements reveal Rockstar's culture of secrecy as tribunal over sacked GTA 6 employees begins
+Fri, 11 Sep 2026 14:16:10 +0000 — https://www.eurogamer.net/rockstar-gta-6-fired-employees-tribunal-statements
+
+Rockstar Games and the Independent Workers Union of Great Britain (IWGB) have traded blows in fiery opening statements during the final employment tribunal hearing, relating to the sudden firing of 31 Rockstar North employees nearly a year ago . Read more
 
 ### "I don't think it's worth any amount of money" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear "discreetly"
 Fri, 11 Sep 2026 08:56:27 +0000 — https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved
@@ -52,17 +62,22 @@ Thu, 10 Sep 2026 10:29:50 +0000 — https://www.eurogamer.net/playstation-plus-s
 
 Sony has revealed the games coming to PlayStation Plus Premium and Extra in September and there's some decent stuff, although it lacks a glitzy headliner like, say, Big Walk last month. Read more
 
-### I'm trying to untangle my response to how the Ocarina of Time remake looks
-Thu, 10 Sep 2026 10:03:50 +0000 — https://www.eurogamer.net/untangling-my-response-to-how-ocarina-of-time-remake-looks
-
-My first thought about the new art for The Legend of Zelda: Ocarina of Time remake was: Oh, we're seeing too much. That was my first thought, but not my first reaction. My first reaction was pure emotional response. A familiar character turned around in the trailer and I literally recoiled, a move that I didn't even know I had in my arsenal. Read more
-
-### "Everyone wants immediate gratification" - Project Zeta studio on making a new action-focused MOBA without all the fluff
-Thu, 10 Sep 2026 09:00:20 +0000 — https://www.eurogamer.net/project-zeta-preview-immediate-gratification-gamescom
-
-There's nothing quite like a good MOBA: the reliance on teamwork, the intricacy of a good build, the ability to pick a character and master them. I've lost many nights of my life to the genre and I regret few of them. Read more
-
 ## GamesIndustry.biz
+
+### European studio expenditure on external talent rises 63% in 2025
+Fri, 11 Sep 2026 13:46:06 +0000 — https://www.gamesindustry.biz/european-studio-expenditure-on-external-talent-rises-63-in-2025
+
+In 2025, European studios increased spending on external roles by 63%, outpacing the global growth rate of 55%. Read more
+
+### Marvel's Wolverine | Critical consensus
+Fri, 11 Sep 2026 13:19:37 +0000 — https://www.gamesindustry.biz/marvels-wolverine-critical-consensus
+
+Insomniac Games' take on Wolverine has had an eventful route to market. Read more
+
+### Saber Interactive's Tim Willits on generative AI, moving development out of North America, and embracing recognisable IP
+Fri, 11 Sep 2026 12:40:00 +0000 — https://www.gamesindustry.biz/saber-interactives-tim-willits-on-generative-ai-moving-development-out-of-north-america-and-embracing-recognisable-ip
+
+Saber Interactive has achieved a lot in the past few years, but the most noticeable recent news to come out of the the company was CEO Matthew Karch's unfiltered response to accusations that a writer had been replaced with ChatGPT . When we sit down at Gamescom for the second of two conversations with Saber Interactive's chief creative officer Tim Willits, it's the first thing we ask about. Read more
 
 ### Saudi Arabia's PIF reportedly considering to combine EA with Savvy Games Group
 Fri, 11 Sep 2026 08:29:50 +0000 — https://www.gamesindustry.biz/saudi-arabias-pif-reportedly-considering-to-combine-ea-with-savvy-games-group
@@ -109,26 +124,26 @@ Wed, 09 Sep 2026 18:56:51 +0000 — https://www.gamesindustry.biz/lego-digital-p
 
 Lego Digital Play has acquired Offroad Games. Read more
 
-### Epic Games Store to introduce age checks for R18+ games in Australia
-Wed, 09 Sep 2026 17:24:25 +0000 — https://www.gamesindustry.biz/epic-games-store-to-introduce-age-checks-for-r18-games-in-australia
-
-Epic Games will require Australian players to confirm they're 18 or older before downloading or buying R18+ rated titles on the Epic Games Store, starting September 9. Read more
-
-### Mark Cerny and Geoff Keighley launch Nova Games Foundation to fund young designers
-Wed, 09 Sep 2026 16:15:46 +0000 — https://www.gamesindustry.biz/mark-cerny-and-geoff-keighley-launch-nova-games-foundation-to-fund-young-designers
-
-Mark Cerny and Geoff Keighley have launched the Nova Games Foundation, a philanthropic fellowship program aimed at funding young game designers. Read more
-
-### Keywords Studios combines multiple marketing businesses into global creative agency FreeAnimal
-Wed, 09 Sep 2026 15:00:00 +0000 — https://www.gamesindustry.biz/keywords-studios-combines-existing-marketing-teams-into-global-creative-agency-freeanimal
-
-Keywords Studios has launched FreeAnimal, a new organisation combining seven of its creative agencies, to serve as a single point of contact for developers, publishers, and brands. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Sony Stopped Physint Development Over Budget, Exclusivity Concerns
+Fri, 11 Sep 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/09/sony-stopped-physint-development-over-budget-exclusivity-concerns
+
+Project missed deadlines and on track to go over budget. Missed deadlines, being on track to go over budget, and a lack of permanent exclusivity are reportedly the reasons Sony decided to stop development of Physint , a new Bloomberg report claims. Speaking to sources familiar with the project, journalist Jason Schreier also reports the sales performance of Kojima Productions' two Death Stranding games also played a large part in the decision. They haven't met PlayStation's own "revenue expectations", the article says. Read the full article on pushsquare.com
+
+### You Can Get Phantom Blade Zero s PS5 Platinum Trophy on Its Easiest Difficulty
+Fri, 11 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/09/you-can-get-phantom-blade-zeros-ps5-platinum-trophy-on-its-easiest-difficulty
+
+Hard mode optional. If you've been wondering about the Trophies for upcoming action game Phantom Blade Zero , it's been revealed it won't be as tough to complete as you may have thought. The PS5 console-exclusive will of course have a full set of trinkets to unlock, including the all-important platinum, and director Qiwei Liang (aka Soulframe) says you can obtain all of them on a single playthrough at any difficulty. Read the full article on pushsquare.com
+
+### This PS5 Gameplay Trailer Is Our Best Look Yet at Fairgames
+Fri, 11 Sep 2026 10:45:00 GMT — https://www.pushsquare.com/news/2026/09/this-ps5-gameplay-trailer-is-our-best-look-yet-at-fairgames
+
+Project Espresso playtest incoming. A trailer has been doing the rounds for a game known only as Project Espresso, which is the codename for Sony's live service multiplayer shooter, Fairgames . Fairgames — which might have changed its name to Break In — was announced during a State of Play years ago, but we've heard nothing about it since. Read the full article on pushsquare.com
 
 ### Wolverine PS5 Is One of the Lowest Rated First-Party Sony Games of the Generation
 Thu, 10 Sep 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/09/wolverine-ps5-is-one-of-the-lowest-rated-first-party-sony-games-of-the-generation
@@ -175,22 +190,17 @@ Thu, 10 Sep 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/09/it-mig
 
 Play it from 25th September. We'll never get a Bully sequel, so our best chance of a similar high school experience on PS5 is Agefield High: Rock the School . You'll be delighted to hear, then, that it's supposedly rubbish. We do at least have a release date now: 25th September 2026. Instead of Control Resonant or Silent Hill: Townfall , you can play this if you really want to — maybe it could be a new kind of humiliation ritual. Read the full article on pushsquare.com
 
-### Vanillaware s 4K Remaster of Stone-Cold Classic Muramasa Carves Out February Release Date on PS5
-Thu, 10 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/09/vanillawares-4k-remaster-of-stone-cold-classic-muramasa-carves-out-february-release-date-on-ps5
-
-New gameplay revealed. Announced for PS5 a few months back, Muramasa: Revenant Blades now has a confirmed 4th February release date. Yes, it's yet another game coming out in the first quarter of next year, but surely you can find the time for this Vanillaware masterpiece. Read the full article on pushsquare.com
-
-### Romancing SaGa 3 s PS5 Remake Looks Amazing, But Its Release Date Is a Problem
-Thu, 10 Sep 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/09/romancing-saga-3s-ps5-remake-looks-amazing-but-its-release-date-is-a-problem
-
-Romance is dead. Square Enix has announced a full-on 3D remake of Romancing SaGa 3, titled Romancing SaGa 3: Destinies United . Going by the above trailer and the associated press release, this is set to be a brilliant revival. It retains everything that made the 1995 original unique, while also bolstering the experience with modern design. Read the full article on pushsquare.com
-
-### Preview: Final Fantasy 7 Revelation on PS5 Is So Huge I Got Lost in Its Demo
-Thu, 10 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/previews/final-fantasy-7-revelation-on-ps5-is-so-huge-i-got-lost-in-its-demo
-
-Revelatory. I’ve touched Final Fantasy 7 Revelation on PS5 Pro, but I’ll be brutally honest with you: I’m not entirely sure how to approach this preview. At an event in London last week, Square Enix put me in control of the Highwind and set me free to explore the concluding instalment in its well-regarded remake trilogy. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### An honest opinion or defamation? A solicitor outlines the legal nuance
+Fri, 11 Sep 2026 13:27:31 GMT — https://www.gamedeveloper.com/business/an-honest-opinion-or-defamation-a-solicitor-outlines-the-legal-nuance
+
+Rockstar has accused a group of former workers of defaming the studio on Discord—but what does that term actually mean in a legal sense?
+
+### Rockstar and fired GTA developers outline core arguments during union busting tribunal
+Fri, 11 Sep 2026 10:26:10 GMT — https://www.gamedeveloper.com/production/rockstar-and-fired-gta-developers-outline-core-arguments-during-union-busting-tribunal
+
+Both parties have set out their stall in legal documents obtained by Game Developer.
 
 ### Xbox to publish Kojima Productions' Physint after PlayStation ditches project
 Thu, 10 Sep 2026 19:35:18 GMT — https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project
@@ -232,12 +242,27 @@ Wed, 09 Sep 2026 15:36:38 GMT — https://www.gamedeveloper.com/business/trump-a
 
 Build The Wall has been knocked down.
 
-### Blizzard union workers ratify historic contract covering 1,900 employees
-Wed, 09 Sep 2026 12:59:56 GMT — https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees
-
-Union members have secured guardrails around generative AI usage, layoff protections, remote and hybrid work benefits, and more.
-
 ## VGC
+
+### PlayStation reportedly cancelled Kojima’s Physint because Death Stranding failed to meet expectations
+Fri, 11 Sep 2026 14:25:49 +0000 — https://www.videogameschronicle.com/news/report-playstation-cancelled-hideo-kojimas-physint-because-death-stranding-and-its-sequel-did-meet-revenue-expectations/
+
+Death Stranding and Concord both factored into why PlayStation cancelled Physint… Source
+
+### Podcast: What is going on at PlayStation?
+Fri, 11 Sep 2026 13:35:56 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-what-is-going-on-at-playstation/
+
+Plus: What did we think of the Nintendo Direct? Source
+
+### Footage of PlayStation s Fairgames allegedly leaks via playtest
+Fri, 11 Sep 2026 12:11:02 +0000 — https://www.videogameschronicle.com/news/footage-of-playstations-fairgames-allegedly-leaks-via-playtest/
+
+A playtest could offer the first look at PlayStation's Fairgames in years… Source
+
+### The Blood of Dawnwalker complete walkthrough hub
+Fri, 11 Sep 2026 11:01:28 +0000 — https://www.videogameschronicle.com/guide/blood-of-dawnwalker-complete-walkthrough-hub/
+
+All the guides you need for romances, endings, rare crafting materials, quests, and more in The Blood of Dawnwalker… Source
 
 ### Starfield developer says it was not our forte and needed way more people to do it properly
 Fri, 11 Sep 2026 08:37:48 +0000 — https://www.videogameschronicle.com/news/starfield-developer-says-it-was-not-our-forte-and-needed-way-more-people-to-do-it-properly/
@@ -269,79 +294,84 @@ Thu, 10 Sep 2026 11:52:41 +0000 — https://www.videogameschronicle.com/guide/bl
 
 A full guide on how to achieve each ending in The Blood of Dawnwalker… Source
 
-### The first images of the Lego PlayStation s free pre-order Lego Astro Bot gift have been leaked
-Thu, 10 Sep 2026 11:06:59 +0000 — https://www.videogameschronicle.com/news/the-first-images-of-the-lego-playstations-free-pre-order-lego-astro-bot-gift-have-been-leaked/
-
-It will reportedly be free with purchases of the PS1 set from the Lego website… Source
-
-### Ikea has released a Skyrim mod where players are accompanied by a Kallax shelving unit voiced by Matt Berry
-Thu, 10 Sep 2026 10:17:00 +0000 — https://www.videogameschronicle.com/news/ikea-has-released-a-skyrim-mod-where-players-are-accompanied-by-a-kallax-shelving-unit-voiced-by-matt-berry/
-
-Your inventory woes end here," the Kallax Storageborn mod promises… Source
-
-### Project Dream, Rare s SNES prototype which evolved into Banjo-Kazooie, has leaked after 30+ years
-Thu, 10 Sep 2026 09:27:03 +0000 — https://www.videogameschronicle.com/news/project-dream-rares-snes-prototype-which-evolved-into-banjo-kazooie-has-leaked-after-30-years/
-
-The ROM has been shared online as a protest against Microsoft… Source
-
-### Switch 2 system update adds VRR support when docked, Switch 2 to Switch 2 system transfer and more
-Thu, 10 Sep 2026 08:32:44 +0000 — https://www.videogameschronicle.com/news/switch-2-system-update-adds-vrr-support-when-docked-switch-2-to-switch-2-system-transfer-and-more/
-
-Version 23.0.0's transfer feature arrives ahead of the new Zelda Switch 2 console… Source
-
 ## Polygon
+
+### The Best Star Wars Game in Years is Now on Amazon Prime
+Fri, 11 Sep 2026 14:34:35 GMT — https://www.polygon.com/amazon-gaming-luna-september-2026-star-wars-9-free-games/
+
+Each month, Amazon Prime members get two new batches of games: one batch to keep, and another batch to stream via its cloud gaming service, Luna. The Luna library includes some standout titles, like Control , Hollow Knight , and the Tomb Raider Survivor trilogy.
+
+### Pokémon Go 'Mega Squads' event guide
+Fri, 11 Sep 2026 14:28:23 GMT — https://www.polygon.com/pokemon-go-mega-squads-event-maschiff/
+
+Pokémon Go ’s "Mega Squads" event brings out upgraded Mega forms for Beedrill and Houndoom , as well as the debut of the dog Pokémon Maschiff and the shiny version of Flamigo . This event runs from Sept. 8-14 .
+
+### Prison Break Is Officially Back as Hulu Reveals Series Reboot
+Fri, 11 Sep 2026 14:21:16 GMT — https://www.polygon.com/prison-break-sequel-black-creek-officially-confirmed/
+
+One of Fox’s most popular TV shows of all time is coming back under Disney . Hulu revealed a first look at Prison Break: Black Creek , a spin-off series set in the same universe as the original. The series is now in production and is “coming soon” to Hulu and Disney Plus.
+
+### Stephen King Weighs in on Prime Video's New Carrie Miniseries
+Fri, 11 Sep 2026 14:09:51 GMT — https://www.polygon.com/carrie-prime-video-stephen-king-response/
+
+Amazon's upcoming adaptation of the 1974 horror novel Carrie isn't even out yet, but it already has one very important fan heaping praise on the series. Stephen King , the legendary horror author whose career began with Carrie , has shared his glowing first impressions of the latest take on the story. King's approval gives fans even more reason to get excited.
+
+### 6 Upcoming Steam Games That Should Be on Your Wishlist
+Fri, 11 Sep 2026 14:00:14 GMT — https://www.polygon.com/wishlister-gamescom-september-11/
+
+Wishlister is a weekly newsletter bringing you a curated list of upcoming Steam games worth adding to your wishlist, sent on Tuesdays and published on the site on Fridays. You can subscribe here .
+
+### 'The Heart Wants What It Wants' quest walkthrough in The Blood of Dawnwalker
+Fri, 11 Sep 2026 13:59:10 GMT — https://www.polygon.com/blood-of-dawnwalker-the-heart-wants-what-it-wants-quest-walkthrough-ocha/
+
+"The Heart Wants What It Wants" quest in The Blood of Dawnwalker is one of the most complicated quests in the game, as there are many ways to enter Andrei's hideout, defeat him, and decide Ocha's fate. The time of day, your strategic decisions, and your dialogue choices can either save the day or result in an innocent person's brutal murder.
+
+### 'Blade Runner 2099' Showrunner Reveals the Sci-Fi Secrets She Learned from Ridley Scott
+Fri, 11 Sep 2026 13:00:14 GMT — https://www.polygon.com/blade-runner-2099-showrunner-interview-preview/
+
+In other words, anyone trying to make a Blade Runner sequel is under enormous pressure, not just because it remains a beloved sci-fi classic, but because so many of the best movies and TV shows released in the half-century since might as well be Blade Runner sequels by another name. In 2017, Dune director Denis Villeneuve tried his hand with Blade Runner 2049 , delivering a well-regarded follow-up that failed to capture the popular imagination. Now, the franchise is returning once again, this time as a 10-episode miniseries coming to Prime Video on Nov. 25.
+
+### Meet Gears of War's New Monster, the 'Flying Testicle' | Exclusive
+Fri, 11 Sep 2026 12:30:14 GMT — https://www.polygon.com/gears-war-e-day-spore-matron-reveal/
+
+For a prequel, Gears of War: E-Day is going to tread a lot of new ground. One of the game’s innovations is a monster known as the “flying testicle,” for which Polygon is able to exclusively reveal a new image as part of our 2026 Fall Preview .
+
+### Jessica Chastain's Bonkers New Horror Movie Just Keeps Getting Scarier
+Fri, 11 Sep 2026 12:00:14 GMT — https://www.polygon.com/other-mommy-preview-exclusive-image/
+
+Move aside, Michael Myers. Take a hike, Jason Voorhees . Get a real job, Art the Clown. Horror has a new name in 2026, and it's... Mommy.
 
 ### 13 Horror Movies Coming Out This October
 Fri, 11 Sep 2026 09:00:14 GMT — https://www.polygon.com/13-horror-movies-coming-out-this-october/
 
 I’m sure you’ve heard, but it’s been a big year for horror movies. Over the past few months, there have been all sorts of releases for horror fans, from undersung gems like 28 Years Later: The Bone Temple to unexpected hits like Obsession and what seems to be the start of a booming new franchise in Backrooms .
 
-### Star Trek's 3 Versions Of Captain James T. Kirk: The Definitive Ranking
-Fri, 11 Sep 2026 08:00:14 GMT — https://www.polygon.com/all-captain-kirks-ranked/
-
-The easy way to rank the three live-action versions of Kirk would be to simply declare William Shatner the winner and move on. After all, he's the actor who delivered us one of science fiction's most enduring characters. But that would overlook what Chris Pine and Paul Wesley have each added to James T. Kirk over the years.
-
-### Gary Larson's 10 Best The Far Side Comics, Ranked
-Fri, 11 Sep 2026 04:30:14 GMT — https://www.polygon.com/10-best-far-side-gary-larson/
-
-What, exactly, is the measure of greatness when it comes to comic strips ? The daily newspaper comic is a very limiting art form, with only a few panels — and sometimes even just one panel — to express a joke or a sentiment. Because of its brevity, it's easy to trivialize the medium as simply the “funny papers,” a daily, disposable art form designed to pick you up after reading through the obituaries.
-
-### 33 Years Later, the Best Sci-Fi Show of the '90s Is Officially Streaming for Free
-Fri, 11 Sep 2026 04:00:19 GMT — https://www.polygon.com/x-files-streaming-free-pluto-tv/
-
-Created by Chris Carter , The X-Files is about a pair of FBI agents who investigate cases involving the paranormal — and Carter interpreted “paranormal” very broadly. The agents investigated everything from aliens to urban legends to ghosts to many other strange goings-on. The two agents were Agent Fox Mulder, played by David Duchovny, and Agent Dana Scully, played by Gillian Anderson.
-
-### 24 Years Later, the 220-Episode Action Classic That Defined a Generation Is Free to Stream on YouTube
-Fri, 11 Sep 2026 03:00:14 GMT — https://www.polygon.com/naruto-streaming-free-on-youtube/
-
-Some anime feel less like TV shows than cultural events woven into the fabric of our childhoods. Dragon Ball Z introduced generations of viewers to the idea that a fight could somehow last 12 episodes and still leave you breathless. Cowboy Bebop proved that anime could blend genres with effortless swagger, while Death Note turned a supernatural premise into a tense cat-and-mouse thriller. From Bleach and its stylish cast of Soul Reapers to One Piece and its story of pirates searching for long-lost treasure, these stories have endured because of their unforgettable characters and themes that resonate across generations.
-
-### 13 Years Later, Warframe is About to Be Bigger Than Ever
-Fri, 11 Sep 2026 03:00:14 GMT — https://www.polygon.com/warframe-iceblade-narin-interview-rebecca-ford/
-
-In late 2026, Warframe will take players to Tau, an entirely new solar system. But in what has become the norm for the long-running multiplayer game, creative director Rebecca Ford is looking backward and forward at the same time.
-
-### David Harbour's Santa Goes Full Hunger Games in Violent Night 2 (Exclusive)
-Fri, 11 Sep 2026 03:00:14 GMT — https://www.polygon.com/violent-night-2-exclusive-preview/
-
-Hollywood has given us pretty much every possible version of a Santa Claus movie over the years. We've had good Santa, Bad Santa , Tim Allen Santa, and even evil robot Santa. But in 2022, Violent Night managed to put a fresh spin on the character by combining Santa Claus with the gritty action-hero story of Die Hard and the expertly choreographed combat of the John Wick movies. Violent Night was a surprisingly delightful spin on the genre, and four years later, we're getting a sequel that takes the series in an even more surprising direction.
-
-### Steel Ball Run Director Says JoJo’s Bizarre Adventure Is About to Get Even Weirder
-Fri, 11 Sep 2026 01:00:14 GMT — https://www.polygon.com/netflix-steel-ball-run-anime-yasuhiro-kimura-interview/
-
-Steel Ball Run uses its 1890s setting to follow a grueling cross-continental horse race across North America with a $50 million grand prize attached to it. Paraplegic ex-jockey Johnny Joestar and the charismatic Gyro Zeppeli team up to win this multi-stage race, but the racetrack becomes a one-way highway to hell as a hidden national conspiracy unfolds.
-
-### The scariest survival thriller of 2026 was filmed on sacred land deep in the Amazon
-Thu, 10 Sep 2026 23:00:14 GMT — https://www.polygon.com/beware-boiuna-director-interview-mike-nelson/
-
-"Look at the giant snake movies that have come before us," Nelson tells Polygon. "With the exception of Anaconda , they're kind of jokes." (To be honest, even Anaconda is kind of a joke, to the point that Jack Black and Paul Rudd turned the concept into a meta-comedy in 2025 . And that's coming from someone who loves Anaconda .)
-
-### What's Free on Steam This Weekend (Sept. 11-14)
-Thu, 10 Sep 2026 21:17:01 GMT — https://www.polygon.com/free-on-steam-this-weekend-sept-11-2026-borderlands-4/
-
-Borderlands 4 is getting a major content drop this week , and Steam players have a convenient excuse to jump into the looter-shooter without paying a cent. The game is one of five PC titles available to play for free on Steam this weekend, giving PC players a pretty strong selection of games to check out before the offers expire.
-
 ## PC Gamer
+
+### Ex-Blizzard employee has 'vibe' coded a new game engine with backing from AMD: 'We're developing 93x faster than we ever did before with Unreal'
+Fri, 11 Sep 2026 14:23:40 +0000 — https://www.pcgamer.com/software/ai/ex-blizzard-employee-has-vibe-coded-a-new-game-engine-with-backing-from-amd-were-developing-93x-faster-than-we-ever-did-before-with-unreal/
+
+An ex-Blizzard employee claims to have "vibe" coded an engine for their new game. The game is Em-8er and is "entirely 'vibe' coded" in the Kun-Zhi Engine . "I spent 6 months using AI to replace Unreal Engine from under our game Em-8ER. Now we're developing 93x faster than we ever did before with Unreal. Because our engine is developed to be 100% AI-first instead of tacked on." "The engine is called Kun-Zhi, the Tibetan word for 'Ground of all' that the world springs from. This engine will be released to the public, starting with backers first... Corporate sponsorships are available... Current partners include Razer and AMD." "This," the dev says, "is a ground up engine written mostly in C [and also with "some Elixir"] on top of Vulkan." The developer behind it is Mark Kern , a developer who worked for Blizzard on World of Warcraft (vanilla) and then helped found now-dead studio Red 5 Studios, makers of the equally dead game Firefall . This game is entirely "vibe" coded.I spent 6 months using AI to replace Unreal Engine from under our game Em-8ER. Now we're developing 93x faster than we ever did before with Unreal. Because our engine is developed to be 100% AI first instead of tacked on.It is not a toy… pic.twitter.com/SCIBlza1qv September 11, 2026 The eagle-eyed among you will notice that Kern puts "vibe" in scare quotes. This, he says, is "because it takes a lot more skill than just prompting. To be production ready you have to have knowledge of how games are put together an
+
+### Zach Cregger had to dial down the jokes in his upcoming Resident Evil film because test screeners 'thought it was too funny'
+Fri, 11 Sep 2026 11:40:03 +0000 — https://www.pcgamer.com/movies-tv/zach-cregger-had-to-dial-down-the-jokes-in-his-upcoming-resident-evil-film-because-test-screeners-thought-it-was-too-funny/
+
+Zach Cregger has a brilliant track record of directing horror films that are both horrifying and hilarious (at times). Weapons and Barbarian had moments of levity which made each respective film so much more bearable to sit through. Cregger is trying to do the same with his upcoming survival horror film, Resident Evil , the only problem was he did too good of a job at first. Speaking to The Hollywood Reporter Cregger revealed that one change he made after Resident Evil was shown at test screens was to dial down the jokes. "I learned that people really liked the movie, but they thought it was too funny," Cregger explains. "So over the course of my testing, I stripped out as much of the jokes as possible." (Image credit: Sony Pictures Entertainment) Resident Evil isn't averse to a good quip or wise-crack—that's like 40% of Leon Kennedy's personality—but its humour only works so well because it happens infrequently. Leon's almost constant stream of action film-style one liners is one of the many reasons as to why I wouldn't class Resident Evil 4 as a horror game at all. And while there are certainly protagonists in other Resident Evil games who know how to joke around, like Ethan Winters, they are more serious than not. Too many jokes in a horror film wouldn't work for the same reason they don't when packed into games. The point of a light-hearted moment amidst the horror is to provide some respite for viewers who have had their nervous system stretched and strained almost beyon
+
+### Bribing medics to revive me first in Wardogs is one of my favorite shooter mechanics in ages
+Fri, 11 Sep 2026 11:30:11 +0000 — https://www.pcgamer.com/games/fps/bribing-medics-to-revive-me-first-in-wardogs-is-one-of-my-favorite-shooter-mechanics-in-ages/
+
+So you've just been shot in Battlefield and now you're lying in a mass of other players' bodies, all of you hammering the 'REVIVE MEEE' request button as medics buzz about, helping everyone but you. If only there was a way to show them how important you are, that your life is clearly worth more than Skidz69 over there. How about money ? Wardogs is a Battlefield-style shooter where you can pay for just about anything, from a fancy loadout, to a literal taxi ride to the conflict zone. Earning cash for doing what you want is a really smart way of incentivising the whole battlefield role fantasy, whether you're building fortifications and sure-ing up your faction's forward operating base, or dragging downed players out of the fire and rezzing them. Though factions can win and lose, Wardog's only true language of success is profitability , more cash to buy fancier hardware, which you use to earn more cash. It's a wonderfully fitting and nihilistic approach to all-out warfare—each life is an investment in what you're going to do that run. Whether it pays off is where the true play comes in. And since cash is king, you can use it to grease the wheels a little when you've been downed. Simply offer a bribe by tapping F1 when you're corpsified and you'll place a number over your head, showing how much extra money the medic will get if they prioritise rezzing you over your comrades. Come to papa (Image credit: Bulkhead) Personally, I love immediately maxing out the cash reward for my re
+
+### Final Fantasy 7 Revelation director defends its physical disk still needing a download: 'We didn't want to make any compromises for the game'
+Fri, 11 Sep 2026 11:19:18 +0000 — https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-defends-its-physical-disk-still-needing-a-download-we-didnt-want-to-make-any-compromises-for-the-game/
+
+The games industry's been in an (understandable) fuss lately about the prophesied death of physical media from Sony, which has announced it'll be going discless for the foreseeable future. Players are really angry because it's not exactly great if the one place you can buy your games also controls the entirety of the pricing—as Sony hypothetically would on its PlayStation consoles. Things are a little easier for us over here on PC land, but this recent allergy to download-only games has had fans up in arms whenever they get a whiff of digital exclusivity. As is the case with Final Fantasy 7 Revelation which, even though it's getting a physical disc version, will require a digital download. Speaking with IGN , director Naoki Hamaguchi claims to be with gamers on the importance of physical media: "Personally, I'm very happy that we are able to release a physical disc version of FFVII Revelation considering how the entire gaming market, or the landscape, is veering towards the disc-less direction." Regarding the download requirement, however, Hamaguchi says it was there to avoid compromising on detail: "When we had an internal discussion with the development team about how we wanted to approach the physical discs and the physical releases of FFVII Revelation, initially there were conversations about using the same disc size as we did for, say, FFVII Rebirth. "But if we were to do that, it would mean that we would have to make a compromise in terms of the fidelity and the quality
+
+### PSA: Keep social media trends away from your laptops, unless you want broken hinges
+Fri, 11 Sep 2026 09:58:34 +0000 — https://www.pcgamer.com/hardware/gaming-laptops/psa-keep-social-media-trends-away-from-your-laptops-unless-you-want-broken-hinges/
+
+Hinge broke after using laptop upside down from r/Asustuf Listen, I've not always been a paragon of common sense; I once managed to bend pins on not one but two CPUs when upgrading my then-partner's PC and my own—a two-for-one in sheer-faced idiocy, all within the space of an hour. So don't consider this me preaching from on high. But seriously, not everything you see on social media needs to be tried. A case in point is something I had my attention reluctantly dragged towards by Wccftech : a Redditor who has broken their gaming laptop hinge by standing it upside down, per Instagram reel and video setups they'd seen. Whatever could go wrong? Snapping, that's what. Laptops aren't usually designed to support resting on the top of the screen. "The other hinge," the Redditor says, "also broke but it snapped back in. This one does not." Mind you, I'm not sure any of my pleas would have been listened to even if they were uttered beforehand. The Redditor explains: "People on Reddit on my last post were saying that the hinges could break, but I didn’t really pay attention to that. Yeah it might be ggs and this laptop ain’t even mine." The laptop is presumably an Asus TUF laptop of some kind, given it's on the Asus TUF subreddit. I use a TUF laptop every day, so seeing this gives me a particularly sharp pang of pain. Anyways, I won't belabour the point given it's a simple one: try not to do things you're not supposed to with your expensive devices. And if you do, don't be surprised if
 
 ### How to increase your inventory in Valheim
 Fri, 11 Sep 2026 00:08:01 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-increase-inventory-size/
@@ -378,32 +408,22 @@ Thu, 10 Sep 2026 20:49:19 +0000 — https://www.pcgamer.com/software/ai/electron
 
 Electronic Arts has copped to using "AI voice technology" in the upcoming NHL 27, saying that doing so will "bring more variety to the game" and allow it to react more quickly to changes and feedback. The use of generative AI in NHL 27 was first reported by ESPN sportscaster John Buccigross, who also serves as the play-by-play man for EA's NHL series. "They're using some AI stuff now," he said on the Chirping Zebras Podcast last week (via IGN). "They played me some stuff back in my voice. It's like, wow, that's pretty good. If it means less work and the same check, I'll take it." EA didn't respond to my inquiries about Buccigross' claim last week, but in a blog post shared today on the game's first update it confirmed that AI is in fact being used in the game. "We’ve been following the discussion around the new commentary team and want to clarify our approach," EA wrote. "The broadcast is built on a direct and ongoing partnership with John Buccigross and Darren Pang. With their full consent and active collaboration, we are using AI voice technology to expand on the 50+ recording sessions they have already completed. "This process allows us to bring more variety to the game, react faster to league changes, and incorporate player feedback more quickly. Update 1 is our first step in an ongoing commitment to improve authenticity, with fixes for player-name pronunciations and repetitive lines. We will continue to expand player and city-name coverage in future updates." The comment
 
-### 10 beginner tips to not suck at Wardogs
-Thu, 10 Sep 2026 20:33:25 +0000 — https://www.pcgamer.com/games/fps/10-beginner-tips-to-not-suck-at-wardogs/
-
-Wardogs is pretty approachable for a milsim, but very complex for a military shooter. The 100-player king of the hill FPS is somewhere between Battlefield and Squad in terms of realism, but it's also got elements of Counter-Strike and extraction shooters. It's a weird game, but very fun. If you have experience in both, you're already ahead of the game, but if you've never played an FPS with dedicated driver and logistic roles, then let me ease you into it. These are my best beginner tips for understanding Wardogs, including its unique economy systems and transportation. When you're done reading them, it's also worth checking out my guide to making money fast in Wardogs . Never leave spawn without these If you're about to jump on a heli without any of these, turn around: Two extra magazines 3-5 bandages A dot sight (unless you really like iron sights) A class gadget, like binoculars, a hammer, or RPG Yea, it all costs a few extra hundred bucks, but you'll make that back by simply standing in the zone for a few minutes. Better to be prepared. Don't buy 5 magazines, buy loose ammo (Image credit: Bulkhead) Wardogs' streamlined vendor makes it easy to buy extra magazines, but it doesn't explain the value of loose ammo. Loose ammo can be purchased in stacks of 100 that only take up two inventory slots. When your magazines run empty, you can press C from the inventory screen to automatically replenish magazines from your stack of loose ammo. Filling magazines takes time, but the inv
-
-### Wardogs servers go down as over 300,000 people rush to play on launch day [Update: I think we're back]
-Thu, 10 Sep 2026 19:59:28 +0000 — https://www.pcgamer.com/games/fps/wardogs-servers-go-down-as-over-300-000-people-rush-to-play-on-launch-day/
-
-Wardogs , a 100-player milsim FPS that launched today in early access, is an immediate hit. It's currently Steam's global top seller and has so far peaked at over 300,000 players. Unfortunately, you might not be able to play it right now. Servers are getting slammed, players are stuck in the login queue, and as of this writing, developer Bulkhead has taken servers offline entirely to work on a fix. "We are actively working towards getting as many of you in game as soon as possible. Apologies for the disruption," the Wardogs account posted on X . "This is due to an issue that wasn't present in the previous beta." Trying to log in currently serves up an error, and when Wardogs does come back online, you should probably expect to be stuck in a login queue for a while. In a video posted today, Bulkhead CEO Joe Brammer seemed to suggest the long queues are partially due to being "rate-limited by Valve." "Ideally we'd be on a triple-A tier for some of this stuff, but we're not. So we're talking to them, trying to get that sorted out. It is what it is. I wouldn't leave the queue, I'd just stay in." The disruption isn't a huge surprise, given the Wardogs' popularity, but it is disappointing. Players had the impression that the numerous closed betas held right up to launch would mean a smooth launch day. Bulkhead seemed confident that they were in a good place, too: The final closed beta held this past weekend invited players to "obliterate our servers." Are you sure about that? from 
-
-### Saudi Arabia reportedly looking at merging Electronic Arts with Savvy Games Group
-Thu, 10 Sep 2026 18:52:48 +0000 — https://www.pcgamer.com/gaming-industry/saudi-arabia-reportedly-looking-at-merging-electronic-arts-with-savvy-games-group/
-
-With Electronic Arts now almost fully owned by Saudi Arabia's Public Investment Fund , a Bloomberg report says the wealth fund is now giving thought to merging it with the PIF's other gaming crown jewel, Savvy Games Group. No decisions have been made at this point, according to the report, which also says that any potential merger would likely wait until the completion of the PIF's acquisition of Chinese mobile gaming company Moonton for $6 billion, a deal that was announced in March . The proposed merger would also have to overcome various regulatory hurdles. From the perspective of the PIF, and by extension Saudi Arabia—the fund's chairman is Mohammed bin Salman, the de facto ruler of the nation—a merger would seem to make sense. Savvy Games Group is a behemoth in its own right, with subsidiaries including esports org ESL Faceit Group , Pokémon Go publisher Scopely , and—soon—Moonton. Bringing that and EA's own significant operations under one umbrella would presumably simplify the PIF's gaming strategy going forward. The PIF may also be motivated to make a merger by the fact that money, even for the ever-flush Saudi kingdom, is getting a bit tight . Mergers typically result in the elimination of duplicated operations and services, and their related expenses. As we've seen many times in the past, that means layoffs: EA employees are already bracing for deep cuts as the company moves to take on the $18 billion debt load incurred as a result of the PIF's acquisition of the co
-
-### Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into
-Thu, 10 Sep 2026 17:22:59 +0000 — https://www.pcgamer.com/gaming-industry/game-development/palworld-publishing-chief-worries-early-access-has-lost-its-meaning-as-the-rise-of-hyper-casual-gaming-culture-means-people-often-dont-understand-what-theyre-getting-into/
-
-Early access on Steam is a simple concept. You buy a game before it's finished, provide bug reports and feedback to developers, and help shape a project's direction and ambitions. Everybody wins: You get to play the game early, and developers earn money that helps them continue and finish their work. It's been a boon for numerous notable games over the years, including Baldur's Gate 3 and Palworld . In an interview with GamesRadar , though, Pocketpair communications and publishing chief John Buckley said that proposition is becoming increasingly difficult for developers, because the whole idea of early access has "lost its meaning." "Go back to the Steam Greenlight days, when Steam changed Greenlight to early access, there were a few years where it really was running and operating exactly the way I think Steam dreamed it," Buckley said. "I think everyone knew what they were in for. The kind of people who were buying early access games knew what they were in for. They were the kind of gamers who want to be involved, they want to give feedback, they want to talk to devs. It was this really beautiful golden era." Now, though, the rise of what Buckley called "hyper-casual mobile culture, and hyper-casual gaming culture, and live service gaming culture" has eroded that understanding, and the accord between developer and gamer that rose from it: "The culture has changed and early access, essentially, has lost its meaning. People just buy an early access game like they buy a normal 
-
-### Thief designer thinks the graphics arms race should have ended with 2010's Alan Wake: 'The fidelity curve has become outrageous'
-Thu, 10 Sep 2026 17:22:33 +0000 — https://www.pcgamer.com/games/sim/thief-designer-thinks-the-graphics-arms-race-should-have-ended-with-2010s-alan-wake-the-fidelity-curve-has-become-outrageous/
-
-Thief designer Randy Smith Evergreen, whose credits also include System Shock 2 and Dark Messiah: Might and Magic, thinks we need to chill out a bit when it comes to the graphics arms race. Specifically, he reckons the race should have stopped 16 years ago with Remedy's original Alan Wake, which was quite a looker back in the day. "The fidelity curve has become outrageous," he tells us. "It's become a spectacle. I remember it was back when Alan Wake came out that I was like, 'OK, this is relatively photoreal. I know 100% that I'm on a ferry. I see that I'm going to an island in the Pacific Northwest. Why do we need more graphics? Because they just cost a ton.' Like, I 100% get it. I've got the vibe. It feels right. What else are we doing with this graphics arms race, right?" Quite a lot, it turns out. We had high-fidelity graphics that started to look photorealistic, but then it was decided that we needed lighting and reflections that looked better than real. None of these things serve any practical purpose, but now most games that fall into the AA or AAA categories feature ray tracing and a level of fidelity that's not possible to enjoy—for most people—without DLSS trickery. "I think Alan Wake is the fidelity everything needs to hit," Smith Evergreen says. "Where you're like, I get it. I get your vibes. I can tell what's going on, and everything beyond that is gravy. Sure, would they prefer an immersive sim that's got insane spectacle and gorgeous, Arkane Lyon quality vistas
-
 ## GameSpot
+
+### Death Stranding Franchise Likely Barely Broke Even, Could Explain Sony Dropping Physint Analyst
+Fri, 11 Sep 2026 14:04:29 +0000 — https://www.gamespot.com/articles/death-stranding-franchise-likely-barely-broke-even-could-explain-sony-dropping-physint-analyst/
+
+With Sony no longer involved in the production of Hideo Kojima's Metal Gear Solid spiritual successor, Physint , people are wondering why the PlayStation company decided to part ways with the veteran game designer's upcoming game. Xbox has stepped in to rescue the project, resulting in a rare win for Sony's rival. At the same time, Sony is weathering a PR storm brought on by its decision to kill game discs, rising console prices, and more. Why would it take another loss in the court of public opinion? Reportedly, Kojima's recent games haven't been big earners for Sony, which could be why Sony decided to cease funding for Physint. According to a Bloomberg report , people familiar with the project have expressed concerns about Physint's development, as it has reportedly missed deadlines and could be going over budget. With Physint potentially being a timed exclusive for PlayStation, it's claimed that the company was reluctant to invest hundreds of millions of dollars in a game it would not own. Alinea Analytics' Rhys Elliott also weighed in on the situation, saying, "From a strictly financial perspective, though, I can understand Sony's position. In a vacuum, anyway. PR and optics still matter. Ballpark math: word on the street is that the first Death Stranding cost about $100 million to make, and the second somewhere in the $150 million – $200 million ballpark (longer dev cycle, COVID, and all that). Depending on marketing overhead and the opportunity cost of pulling those Gue
+
+### Hot Toys Marvel s Wolverine Figure Gets The Details Right, Right Down To The Hairy Silicone Arms
+Fri, 11 Sep 2026 12:30:49 +0000 — https://www.gamespot.com/articles/hot-toys-marvels-wolverine-figure-gets-the-details-right-right-down-to-the-hairy-silicone-arms/
+
+Logan is sporting a sharp look in Marvel's Wolverine , and if you're a fan of his latest video game incarnation's fashion sense , you can bring him home with this sixth-scale figure. Hot Toys has revealed its official Wolverine figure, which features Logan in his default black-and-yellow "Battle Reborn" battlesuit. As you'd expect, it's not going to be cheap, but you are getting plenty of extras with this figure. You'll have two options : either a $285 standard figure or a $375 deluxe edition. Both versions feature the same Wolverine body and design, which comes equipped with seamless silicone arms, an internal metal skeleton, and interchangeable components. There's no unmasked headsculpt, but you are getting alternate eye-plates and lower faces that allow you to change up Wolverine's expressions. You can also swap between two sets of cowl wing-flaps to show him off with varying stages of battle damage, and the textured suit is complemented by forearm gauntlets, a utility belt, and soft vinyl material boots. Looking sharp! You can even change up Logan's claws with sets of replica Adamantium, scarlet, and diamond blades, and they come with attachable translucent slashing motion effects. Finally, a carved katana ornament earned from the "Last Stand at Cold Pines" storyline mission is also included. If you're looking to create a diorama piece, then you'll want to grab the deluxe version, as it includes a statue bust of Omega Red in the display stand. While he doesn't have any ar
+
+### GTA 6 DualSense Controller Scalpers Are Already Cashing In
+Fri, 11 Sep 2026 11:15:52 +0000 — https://www.gamespot.com/articles/gta-6-dualsense-controller-scalpers-are-already-cashing-in/
+
+It feels like it's the 2021 PS5/Xbox Series X|S shortage all over again, as scalpers have once again begun targeting preorders for limited-edition consoles and accessories. After the 25th-anniversary Xbox Series X sold out within a minute and stock of the new Legend of Zelda-themed Switch 2 console was scooped up in record time, it looks like the next hot commodities are the GTA 6 DualSense controllers . These were recently unveiled, and while they aren't sold out yet, that hasn't stopped scalpers from heading to eBay to sell them at a drastically increased price. Currently, Sony has the two GTA 6 controller designs listed at an MSRP of $84 each. On eBay, listings have popped up for them, with prices averaging around $140 per sale . Believe it or not, people are actually buying the controllers before they're out, as the white model is currently out of stock. Sony is still listing the black version for preorder on its PlayStation Direct store, but it appears that the white limited-edition controller is the popular choice. What's also worth noting is that these eBay sales go against the site's terms of service, which specifically state that "presale listings must guarantee that the item will be shipped within 40 business days of purchase." Yes, people are paying above MSRP for a GTA 6 DualSense controller! These controllers will start shipping out on November 19--the launch day for GTA 6--so each listing is well above the threshold of eBay's sales terms. Of course, that fine te
 
 ### GTA 6 Is Going To Be Huge. So Why Is Take-Two s Stock Having Such A Bad Year?
 Fri, 11 Sep 2026 08:07:00 +0000 — https://www.gamespot.com/articles/gta-6-is-going-to-be-huge-so-why-is-take-twos-stock-having-such-a-bad-year/
@@ -420,15 +440,15 @@ Thu, 10 Sep 2026 18:03:59 +0000 — https://www.gamespot.com/articles/wardogs-ha
 
 Update: A hotfix has now been released for Wardogs that targets the ongoing server issues. If you're logged in and stuck in a queue, you'll need to close the game to download the update, which will then send you back into a queue once you log in again. Players will be allowed into the game in "controlled batches," the size of which were not specified, and might portend continued queues for the time being. More players will be let in as the issues are resolved, but no specific timetable is provided for how long that could take. Alongside the long queues, the patch targets issues with joining servers and an issue causing players to be kicked from matches. "We will be actively monitoring the ongoing situation post hotfix and will be working through the night to see this resolved," the developer wrote in a post on Steam . "We apologize for the inconvenience this has caused." Original story: A big new military FPS, Wardogs (not to be confused with the 2016 Jonah Hill/Miles Teller crime-comedy War Dogs) launched today in early access on Steam, and it's off to a hot start. The shooter reached 300,000 peak concurrent users on Steam right out of the gate and the $40 game is currently Steam's No. 1 best-seller. Pretty impressive for a game that the developer told you not to buy . Given the flood of players, developer Bulkhead instituted a server queue system, and this quickly became something of a meme on social media. Players shared screenshots of the queue and their place in it--some
 
-### Amazon Prime Members Get Doom Eternal And 10 More Games For Free In September
-Thu, 10 Sep 2026 17:00:00 +0000 — https://www.gamespot.com/articles/amazon-prime-members-get-doom-eternal-and-10-more-games-for-free-in-september/
-
-The next wave of monthly games for Amazon Luna has been revealed, and if you're a fan of first-person shooters, then you're in for a treat. The headline act is Doom Eternal , or if you'd prefer your guns to be chatterboxes, you can also grab the delightfully weird High on Life. Luna members can also stream Star Wars Outlaws later this month for open-world action set in a galaxy far (far!) away, or they can explore the alien world of Avatar: Frontiers of Pandora right now. Sign up for Amazon Prime Several new GameNight titles will also be available throughout the month, so if you're in the mood for some social gaming, you can check out kaiju-powered board game fun in King of Tokyo, test your general knowledge in Quiz Time: Guinness World Records, aim for a strike in Bowling Mayhem, and explore Cranium Planet. As part of its September update, Amazon Luna is also introducing a Remote Play feature . This will allow people to play games together--even if they aren’t in the same room--and it should work nicely with the multiplayer titles featured in the Luna streaming library. As a reminder, all of the free games that you claim through Amazon Luna are yours to keep forever, even if your subscription expires. If you aren’t a member, you can sign up for Amazon Luna for as little as $15 for one month to take advantage of the subscription and its freebies. As mentioned above, you can download some pretty good action games, and if you want to experience the formative years of Doom, you 
-
 ### Amazon Luna Introduces Its Most Ambitious Feature Yet In A Rough Month For Cloud Gaming
 Thu, 10 Sep 2026 17:00:00 +0000 — https://www.gamespot.com/articles/amazon-luna-introduces-its-most-ambitious-feature-yet-in-a-rough-month-for-cloud-gaming/
 
 As part of its September update, Amazon Luna introduced a Remote Play feature that lets people play games together, even if they aren't in the same room. If you haven't heard of it, Luna is Amazon's cloud gaming service for Prime subscribers that lets them access and play a catalog of games without the need for a console or PC. While some Luna games have had multiplayer features, you previously needed to be in the same room with others to play those titles. Remote Play intends to solve that by letting Amazon Prime and Luna Premium subscribers invite up to seven others into their sessions. These other players won't need an Amazon Prime subscription to use Remote Play, although they will need to use Luna's website or TV app. Of course, you'll now be relying on the smooth internet connections of even more players to comfortably use Remote Play, but the same goes for similar features on PS5 or Nintendo Switch 2. The logo for Amazon Luna To promote Remote Play, Amazon also released two new multiplayer-focused games today. One is a digital version of the board game King of Tokyo, while the other is It's Quiz Time: Guinness World Records, a competitive trivia game. Later in September, it will add the motion-controlled Bowling Mayhem and Pictionary-like Cranium Planet to the game catalog. Star Wars Outlaws and Avatar: Frontiers of Pandora were also added to the Luna Standard game lineup today, although those are single-player games. This Remote Play update is one of the most substant
+
+### Amazon Prime Members Get Doom Eternal And 10 More Games For Free In September
+Thu, 10 Sep 2026 17:00:00 +0000 — https://www.gamespot.com/articles/amazon-prime-members-get-doom-eternal-and-10-more-games-for-free-in-september/
+
+The next wave of monthly games for Amazon Luna has been revealed, and if you're a fan of first-person shooters, then you're in for a treat. The headline act is Doom Eternal , or if you'd prefer your guns to be chatterboxes, you can also grab the delightfully weird High on Life. Luna members can also stream Star Wars Outlaws later this month for open-world action set in a galaxy far (far!) away, or they can explore the alien world of Avatar: Frontiers of Pandora right now. Sign up for Amazon Prime Several new GameNight titles will also be available throughout the month, so if you're in the mood for some social gaming, you can check out kaiju-powered board game fun in King of Tokyo, test your general knowledge in Quiz Time: Guinness World Records, aim for a strike in Bowling Mayhem, and explore Cranium Planet. As part of its September update, Amazon Luna is also introducing a Remote Play feature . This will allow people to play games together--even if they aren’t in the same room--and it should work nicely with the multiplayer titles featured in the Luna streaming library. As a reminder, all of the free games that you claim through Amazon Luna are yours to keep forever, even if your subscription expires. If you aren’t a member, you can sign up for Amazon Luna for as little as $15 for one month to take advantage of the subscription and its freebies. As mentioned above, you can download some pretty good action games, and if you want to experience the formative years of Doom, you 
 
 ### GTA 6 Trailer Drove 100,000 Netflix Sign-Ups In The US Alone In One Day, Analyst Claims
 Thu, 10 Sep 2026 15:37:28 +0000 — https://www.gamespot.com/articles/gta-6-trailer-drove-100000-netflix-sign-ups-in-the-us-alone-in-one-day-analyst-claims/
@@ -450,22 +470,22 @@ Thu, 10 Sep 2026 13:57:48 +0000 — https://www.gamespot.com/articles/nintendos-
 
 Nintendo of America has announced a "Customer Appreciation Sale," offering 30% off games and access, with Nintendo specifically citing its tariff refunds as the reason why it's running the sale, at least in part. "The Customer Appreciation Sale is our way of saying thank you to Nintendo players for their continued support and is made possible in part by tariff-related refunds. While Nintendo absorbed most tariff-related costs, the refunds helped make promotions like this one possible," the company said. Nintendo, like Sony and Microsoft, got money back from the US government related to tariffs, which were implemented by US President Donald Trump and later deemed illegal by the Supreme Court. All three companies argued in court that they should keep the money and give nothing back because that's just how capitalism works . The Customer Appreciation Sale runs September 13-26 on the Nintendo eShop, Nintendo Store, and select retailers. Items on sale vary by retailer, but shoppers can expect discounts on digital and physical games, DLC, accessories, Amiibo, and apparel. Not every gaming company is taking such a hard line on this topic. Panic, the company behind the Playdate gaming handheld, said it will pass its own refunds on to customers who paid more . People should get about $12 back. “It’s just not our money to keep, and it felt really good to give it back,” Panic’s Cabel Sasser told Game Developer . “That’s an easy way to know you made the right decision.” Many companies re
 
-### Star Wars Zero Company Is Missing The Only Achievement I Wanted
-Thu, 10 Sep 2026 13:50:00 +0000 — https://www.gamespot.com/articles/star-wars-zero-company-is-missing-the-only-achievement-i-wanted/
-
-Star Wars Zero Company released late last month, and it became one of my favorite games of the year almost instantly. I recently finished it, and while I was very satisfied with how it all wrapped up, there was one thing--a certain achievement--that was missing, and it filled me with a rage I can only satiate by complaining about it online. You see, like the XCOM series it took so much inspiration from, Star Wars Zero Company features a permadeath mechanic. With the exception of main protagonist Hawks, any of the allies you take into battle will permanently disappear if they're killed in battle. Aside from accidentally knocking someone off the side of the map because I was still going through the tutorial segments in the first hour or so (I restarted the mission in this case), I managed to get through the entire game without losing anyone. Well, except for the poor fellow who automatically dies in the opening segment. The credits rolled and I waited for the achievement to pop up on my Xbox. https://www.youtube.com/watch?v=M5QGkOGZubQ Indeed. There are achievements for everyone from making an almost-impossible shot to changing some cosmetic items, but there is no achievement for making it through the game without losing a squad member. There is , however, an achievement for having a squad member die on your watch. If you're on PlayStation, it's a literal participation trophy. I'm not actually a big achievement guy, and this isn't that big of a deal--I'm much more interested in
-
-### A Top Boss At GTA 6 Company Take-Two Sold A Bunch Of Stock, But It s Not What You Think
-Thu, 10 Sep 2026 13:09:16 +0000 — https://www.gamespot.com/articles/a-top-boss-at-gta-6-company-take-two-sold-a-bunch-of-stock-but-its-not-what-you-think/
-
-With Rockstar's GTA 6 on the horizon, and poised for massive success, many people might be interested in buying stock of Rockstar's parent company, Take-Two, as opposed to selling it. One Take-Two executive, CFO Lainie Goldstein , recently sold a big chunk of shares, prompting some to theorize as to why. But the answer is not very exciting at all and doesn't speak to anything specific about her views on GTA 6 or the company's outlook generally going forward. A regulatory filing ( via The Motley Fool ) revealed that Goldstein sold 1,335 shares of Take-Two on September 2 at a price of $217.65. The total sale price worked out to $282,039. That's a fat stack of cash, but it was an automatic sell-to-cover sale to satisfy tax witholding obligations. Not very exciting stuff. Following the sale of these 1,335 shares, Goldstein continues to hold a whopping 282,039 shares of Take-Two, which are worth more than $60 million on the open market. The value of those shares could climb significantly, as numerous stock analysts at big banks are projecting Take-Two's stock to grow significantly , with some saying it could go beyond $300 per share. Take-Two currently trades at around $211/share, which is down more than 16% so far this year and down about 14% in the past 12 months. The company's share price got hammered in January after Google announced new AI tools for game development, and the stock price has not fully recovered. GTA 6 is set for release on November 19 on PS5 and Xbox Series X|
-
-### Kojima s Physint Dropped By PlayStation, Rescued By Xbox
-Thu, 10 Sep 2026 07:54:29 +0000 — https://www.gamespot.com/articles/kojimas-physint-dropped-by-playstation-rescued-by-xbox/
-
-Sony has revealed today that it will no longer be working with Kojima Productions on stealth action game Physint , while Kojima announced that Xbox has stepped up to rescue the project. The change in publishers means both of Kojima's upcoming projects are now being made in partnership with Xbox, a departure from his long history of developing games for the PlayStation. PlayStation's official statement didn't say why it chose to end its support of Physint, leaving gamers to speculate on the reasons behind its shock exit. "We continue to have great admiration for Hideo Kojima's vision for the game," Sony said, adding, "we look forward to continued close collaboration with Hideo Kojima and his award-winning independent studio in the future." https://twitter.com/PlayStation/status/2097875212427735146 Kojima posted from his personal account with more details, saying that PlayStation cancelled Physint as of mid-June this year, and the new collaboration with Xbox came as a result of the studio's determination to keep the project alive. https://twitter.com/HIDEO_KOJIMA_EN/status/2097877506401681753 "We're honored that Kojima-san has chosen Xbox to work with Kojima Productions on Physint," said Xbox CEO Asha Sharma in a statement. "His ambition to challenge conventions reflects the kind of creativity we want to support at Xbox." Though it may be surprising after Kojima's long history of collaborating with PlayStation, from his work at Konami to both Death Stranding games, Kojima also 
-
 ## Rock Paper Shotgun
+
+### Wardogs presents a different kind of FPS power fantasy: making fat stacks as a pacifist rideshare driver
+Fri, 11 Sep 2026 13:57:31 +0000 — https://www.rockpapershotgun.com/wardogs-presents-a-different-kind-of-fps-power-fantasy-making-fat-stacks-as-a-pacifist-rideshare-driver
+
+Because no-one entirely likes their job, I should be upfront about my issues with newly launched Early Access darling Wardogs , the mass-scale multiplayer shooter in which I&rsquo;ve just found employment. Its "Play like to you used to" tagline and Halo 3-aping trailer smell a bit of reactionary, stuck-in-the-past thinking. It&rsquo;s a mass-scale multiplayer shooter, so individual heroics rarely influence match outcomes. And, like pretty much everyone else who sucked down both those problems and tried playing on launch night regardless, I spent far too long attempting to communicate with server architecture that clearly had the resilience of overmilked cornflakes . Read more
+
+### GTA 6 online mode appears to receive Rockstar's first public acknowledgment, via mention of in-development "32 player format" in legal docs
+Fri, 11 Sep 2026 12:34:17 +0000 — https://www.rockpapershotgun.com/gta-6-online-mode-appears-to-receive-rockstars-first-public-acknowledgment-via-mention-of-in-development-32-player-format-in-legal-docs
+
+Up until now, Rockstar Games have kept mum about what plans they have for the future of Grand Theft Auto multiplayer once GTA 6 releases on consoles in November. Thanks to filings submitted by the studio as part of the final hearing in a legal battle over the firings of 34 developers last year, that silence appears to have been broken. Read more
+
+### EA's Saudi Arabian owners are reportedly considering forming an ubermegacorp by merging them with Savvy Games
+Fri, 11 Sep 2026 09:46:56 +0000 — https://www.rockpapershotgun.com/eas-saudi-arabian-owners-are-reportedly-considering-forming-an-ubermegacorp-by-merging-them-with-savvy-games
+
+Just over a month on from a consortium led by the Saudi Arabian government's Public Investment Fund taking over EA, in a buyout worth $55 billion , said new owners are reportedly considering merging the publishers with their existing gaming firm Savvy Games Group. The result would be an ubermegacorp to serve as a vehicle for all of the Saudi wealth fund's future video game-related biz. Read more
 
 ### Do a bit of visual programming and watch your party of heroes conquer an evil tower in Dungeon Automata
 Thu, 10 Sep 2026 21:54:53 +0000 — https://www.rockpapershotgun.com/do-a-bit-of-visual-programming-and-watch-your-party-of-heroes-conquer-an-evil-tower-in-dungeon-automata
@@ -497,10 +517,10 @@ Thu, 10 Sep 2026 17:00:00 +0000 — https://www.rockpapershotgun.com/skyrims-off
 
 I didn&rsquo;t think, when I saw the other day that Swedish furniture sellers IKEA had commissioned a group of modders to stick an advert for their wares in Skyrim as an official Bethesda-approved Creation, that I&rsquo;d now be sitting here noting that I dug said creation&rsquo;s dungeon designs. Read more
 
-### Ubisoft games on Steam may soon no longer require the pesky Connect launcher, according to an announcement post that's weirdly tough to pin down
+### Ubisoft games on Steam may soon no longer require the pesky Connect launcher, thanks to a new tool the publishers are testing
 Thu, 10 Sep 2026 16:17:00 +0000 — https://www.rockpapershotgun.com/ubisoft-games-on-steam-may-soon-no-longer-require-the-pesky-connect-launcher-according-to-an-announcement-post-thats-weirdly-tough-to-pin-down
 
-Ubisoft are planning to start testing a new tool that'll allow Prince of Persia The Lost Crown Steam players to access features only usually available via the publishers' Connect launcher without actually having to have said launcher installed. That's according to a Steam announcement post which only appears to be visible to folks who already own a copy of The Lost Crown on Valve's storefront. Read more
+Update: Ubisoft have confirmed the Steam announcement post about them starting to test a new Ubisoft Connect Services Steam tool is genuine, and they've now stuck it in Prince of Persia The Lost Crown's regular Steam news feed so everyone can have a read. Original story follows: Ubisoft are planning to start testing a new tool that'll allow Prince of Persia The Lost Crown Steam players to access features only usually available via the publishers' Connect launcher without actually having to have said launcher installed. That's according to a Steam announcement post which only appears to be visible to folks who already own a copy of The Lost Crown on Valve's storefront. Read more
 
 ### "We want to invite people into this big tent with this grimdark setting": Creative Assembly on how they plan to ease strategy newbies into Total War: Warhammer 40,000
 Thu, 10 Sep 2026 16:10:56 +0000 — https://www.rockpapershotgun.com/we-want-to-invite-people-into-this-big-tent-with-this-grimdark-setting-creative-assembly-on-how-they-plan-to-ease-strategy-newbies-into-total-war-warhammer-40000
@@ -511,19 +531,4 @@ I remember once when I was a child, my uncle was visiting and completely unpromp
 Thu, 10 Sep 2026 14:00:00 +0000 — https://www.rockpapershotgun.com/bargain-with-demons-and-boat-with-the-dead-in-joyful-rpg-heist-quest-anthology-thousand-hells
 
 You'd expect a game called Thousand Hells: The Underworld Heists to be on the depressing side, but this choose-your-own-adventure RPG anthology from the designers of King of Dragon Pass is an absolute tonic. It's a witty procession of Orphic descents, in which you assemble a crew of four garrulous weirdos and pitch them against quest scenarios that might involve talking trees, holy riddlers, and conduits of boiling blood. There's an infectious, venturesome lightness to the game, which somehow persists alongside dire blunders and supernatural calamities that may see members of your party being cursed, punctured or unhinged. I've only completed a couple of the 10 heists across two hours of play, which makes me reluctant to call this an official review, but it's got my provisional recommendation. Come, reader - get thee to Pandemonium apace. Read more
-
-### Castlevania: Belmont’s Curse proves Dead Cells' developers were the right fit for a revival in this blessing for the Belmonts
-Thu, 10 Sep 2026 13:00:00 +0000 — https://www.rockpapershotgun.com/castlevania-belmonts-curse-proves-dead-cells-developer-were-the-right-fit-for-a-revival-in-this-blessing-for-the-belmonts
-
-"You're not the last Belmont anymore", Trevor reminds his daughter Rose, as they gently sail into a Paris ablaze and ripped apart by monsters. Rose knows it well, as do indie developers Evil Empire. Following their success with roguelike Dead Cells (and its own Castlevania DLC), Konami gave them the keys to Dracula's kingdom, trusting the French team to bring the series back to life after a ten year slumber. It's a heavy holy cross to bear, but Castlevania: Belmont's Curse holds it up confidently. Read more
-
-### Steam beta update adds a new Big Picture view, screensavers, and a little treat for desktop Steam Machines
-Thu, 10 Sep 2026 11:30:51 +0000 — https://www.rockpapershotgun.com/steam-beta-update-adds-a-new-big-picture-view-screensavers-and-a-little-treat-for-desktop-steam-machines
-
-There&rsquo;s a new Steam client beta update out, and for SteamOS devices like the Steam Deck or Steam Machine &ndash; or just the Windows client's Big Picture Mode &ndash; it&rsquo;s meaty one, features-wise. Read more
-
-### As final hearing over GTA firings begins, Rockstar reiterate they "reject the claims" made by union and will defend themselves "vigorously"
-Thu, 10 Sep 2026 10:34:53 +0000 — https://www.rockpapershotgun.com/as-final-hearing-over-gta-firings-begins-rockstar-reiterate-they-reject-the-claims-made-by-union-and-will-defend-themselves-vigorously
-
-Rockstar Games have issued a statement making clear they're sticking to their guns, as the final hearing in the legal battle between them and a group of former staff they fired last year begins. The hearing's set to run from today, September 10th, until at least October 15th. The Independent Workers&rsquo; union of Great Britain (IWGB) and fired staff re-emphasised their stance earlier this week, announcing they'd be hosting a rally ouside the tribunal venue this morning. Read more
 
