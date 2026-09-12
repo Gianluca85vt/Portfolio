@@ -1,6 +1,41 @@
-# Tech — harvested 2026-09-11T19:17:04.176Z
+# Tech — harvested 2026-09-12T08:50:03.398Z
 
 ## Ars Technica
+
+### Some satellite companies still have an appetite for boutique launch services
+Fri, 11 Sep 2026 23:34:45 +0000 — https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/
+
+If you ask most satellite companies aside from SpaceX, they will tell you the world doesn't have enough capacity for launching payloads into orbit. This is despite the blistering launch cadence we've seen around the world in recent years, led by SpaceX's Falcon 9 rocket. Customers in any sector will, of course, usually welcome competition. Theoretically, competition will lead to lower prices and allow the best to rise to the top. It seems like the customers buying launch services were right. SpaceX is dialing back its Falcon 9 launch program , and there is no certainty about when SpaceX's reusable next-generation super-heavy-lift rocket, Starship, will carry anything to orbit besides the company's own Starlink satellites. So it's no surprise satellite operators are cheering the success of a new launch provider. This was especially the case a few days ago, when Germany's Isar Aerospace reached orbit for the first time with its Spectrum rocket. The launcher delivered a batch of CubeSats to low-Earth orbit from a spaceport in northern Norway, and Isar tasted success after its first test flight ended in failure last year. Read full article Comments ]]>
+
+### Random rewards enrich classic game-theory insights
+Fri, 11 Sep 2026 21:41:16 +0000 — https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/
+
+Games may be life with all the hard bits removed, but they provide a way to study why people make the choices they make. Traditional games are usually played against a static background: the rewards per outcome are constant. That limits their relevance to behavior because, in real life, the rewards and consequences of strategic choices are ever changing. Now, researchers have used a mathematical model to study a series of games that include evolving strategies and randomly varying returns. A bit of history Perhaps the most famous game-theory contest is the prisoner’s dilemma. In the prisoner’s dilemma, a pair of thieves have been captured and are being separately interrogated by the police. If both clam up, they will be punished for a lesser crime. If one prisoner makes a deal (defects) then that prisoner gets to go free and the other gets a heavier sentence. If both make a deal, they both get an in-between punishment. The person running the game can start it with different rewards for cooperating and defecting to explore how the optimum strategy varies with reward and risk, which the players can figure out by varying the strategies across multiple rounds. Depending on the balance between the reward for staying silent (cooperating) and betrayal, the game stabilizes with everyone betraying everyone. In this simple situation, everyone loses. Read full article Comments ]]>
+
+### Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland
+Fri, 11 Sep 2026 21:14:26 +0000 — https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/
+
+For a child bursting with energy, few things are more fun than hurtling through a bouncy castle, launching into the air, and ping-ponging between every surface. But that childhood buoyancy will quickly deflate when it turns out those surfaces are smeared with a hypervirulent, multidrug-resistant pathogen. That was the horrifying reality for a community in Ireland in fall 2025. Neighbors had gathered for an afternoon of merriment, complete with a barbecue, a sweets station, and three bouncy castles. Officials estimate that about 120 people joined the festivities, and around half of them were children and teens. Within a day, some children began developing signs of an infection. In all, 48 children in the community developed aggressive skin and soft-tissue infections. Of the 48 cases, 33 were treated by their regular doctor, and 15 sought emergency care. Four children ended up being hospitalized. Luckily, all of the children recovered. The results of the outbreak investigation were reported this week in the journal Eurosurveillance . Read full article Comments ]]>
+
+### Trump's forced coal plant extensions thrown out by judge
+Fri, 11 Sep 2026 20:32:59 +0000 — https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/
+
+The use of coal to generate electricity on the US grid has been plunging for nearly two decades, and the first Trump administration was unable to affect the trend. So his second administration has attempted more aggressive interventions to prop up coal use. One of its most direct means of doing so is to order coal plants that were scheduled to close to remain open , even if there is no need for them . The administration's justification for these orders is a statute that allows the Department of Energy (DOE) to declare an emergency in the case of wartime or a sudden shortfall in generation. A number of parties, including states where coal plants have been slated to close, have challenged this declaration. And on Friday, in the first of these cases to make its way through the courts, the declaration was judged to be contrary to the statute. While this only affects a single coal plant in Michigan, the reasoning of the decision will apply to every coal plant closure that has been blocked by the DOE. No emergency The decision was issued by a unanimous three-judge panel from the DC Circuit's Court of Appeals. It focuses on the J.H. Campbell Generating Plant, which was scheduled to close last year but has been kept open by a total of five emergency declarations by the DOE, each limited to 90 days by the Federal Power Act. At issue was section 202(c) of that Act, which allows the DOE to declare emergencies when the US is at war or when “an emergency exists by reason of a sudden incre
+
+### ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses
+Fri, 11 Sep 2026 19:34:09 +0000 — https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/
+
+The New Mexico Supreme Court held a ChatGPT-using lawyer in direct contempt of court for submitting a brief with "false testimony from wholly fabricated witnesses," including fake police testimony and other mistakes. The state's top court referred the lawyer to a disciplinary board for further proceedings and concluded that he "demonstrated a lack of remorse and a lack of concern for his client." Attorney Stephen Aarons "admitted to the Court that he did not verify the factual claims and legal authority in his AI-generated brief before signing it and filing it with the Court, and that he did not inform his client of this failure or that the brief in chief contained multiple factual and legal misrepresentations," the state Supreme Court said in an order on Wednesday. Aarons has been a criminal defense lawyer in New Mexico for over 40 years and was hired by a defendant's family members to appeal a murder conviction. Aaron's now-former client, Oscar Renee Sandoval, was sentenced to life in prison in February 2025 after being convicted of killing Shiereen Al-Jibury, who was his partner and the mother of his children. Read full article Comments ]]>
+
+### Scientists unlock secrets of ancient Egyptian materials with proteomics
+Fri, 11 Sep 2026 18:49:39 +0000 — https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/
+
+Credit: Museum of Mediterranean and Near Eastern Antiquities, Stockholm Credit: Museum of Mediterranean and Near Eastern Antiquities, Stockholm The precise composition of ancient Egyptian paints, binders, adhesives, and similar materials used to make artifacts is largely unknown, in part because a full analysis would require taking samples that would damage those valuable artifacts. The development of cutting-edge, non-destructive techniques has been helping to unlock those secrets, aiding conservation efforts. Most recently, researchers have used mass spectrometry-based proteomics to analyze the glues and adhesives in a broad set of Egyptian artifacts, according to a new paper published in the journal Science Advances. They found plenty of expected sources, such as animal collagens and egg proteins, but also plant proteins, specifically from sesame and drumstick tree (moringa) cereals. As previously reported , the ancient Egyptians had a highly formalized (and easily recognizable) painting style, and there has been considerable interest in gaining insights into the specific pigments and painting techniques employed. Common pigments included hematite and realgar for red; goethite and orpiment for yellow; Egyptian blue; Egyptian green; carbon-based black; and calcite, gypsum, anhydrite, and huntite for white. (Just last year, Washington State University researchers were able to re-create Egyptian blue by mixing together silicon dioxide, copper, calcium, and sodium carbonate in
+
+### Oracle tries to appease Stargate data center opponents with renewables push
+Fri, 11 Sep 2026 18:22:22 +0000 — https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/
+
+Oracle’s proposed investment in 2 gigawatts of renewable energy projects for New Mexico comes as local opposition could delay development of the Project Jupiter data center that Oracle is building for OpenAI. The two tech companies are developing the $165 billion Project Jupiter data center in Santa Teresa, New Mexico, as part of the broader Stargate AI infrastructure project announced by President Donald Trump in 2025. But Project Jupiter faces local protests and court battles over concerns about its environmental impacts—and the latest Oracle announcement on September 8 seeking proposals for renewable energy projects does not change the fact that the data center will be powered by fuel cells that consume natural gas. “Like all matching programs, this would be synthetic in the sense that 2 GW of renewables wouldn't directly power the data center,” wrote Michael Thomas, CEO of the Cleanview data platform that tracks renewable energy and data center projects, in a LinkedIn post . Read full article Comments ]]>
 
 ### NASA moving at warp speed to set up US Space Academy
 Fri, 11 Sep 2026 16:20:43 +0000 — https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/
@@ -27,47 +62,17 @@ Fri, 11 Sep 2026 11:00:44 +0000 — https://arstechnica.com/space/2026/09/could-
 
 Pretty much every rocket company in the United States, save one, has embraced two fundamental tenets: reusability and diversification. Most famously, SpaceX branched out from reusable rockets to pursue and dominate a growing spectrum of space services: cargo delivery, human spaceflight, satellite production, broadband, and, perhaps soon, orbital data centers and in-space manufacturing. Blue Origin is evolving from a pure rocket company into a satellite manufacturer, robotics developer, and, most recently, a potential competitor for SpaceX's Starlink network. Rocket Lab used a different approach to diversify after achieving success with its small Electron launch vehicle. The company relocated its headquarters from New Zealand to Southern California, started building spacecraft and payloads, and then went on a spree of corporate acquisitions to expand into satellite communications and take on a new role as a merchant supplier of satellite components and sensors. It's now in a stage of advanced development of its partially reusable next-generation Neutron launch vehicle. Read full article Comments ]]>
 
-### Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?
-Fri, 11 Sep 2026 11:00:30 +0000 — https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/
-
-Welcome to Edition 9.10 of the Rocket Report! This week we're celebrating a historic moment in Europe when a German rocket company successfully put its launch vehicle into orbit. Isar Aerospace became the first purely commercial European company to reach orbit, and impressively it did so on just its second launch attempt. How quickly can they scale up operations? How quickly will the second European launch firm reach this goal? Big questions, which for now we don't have answers to. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Isar Aerospace takes a huge step forward . Isar Aerospace, founded in 2018 by three students at a German university, successfully launched a privately developed rocket into low-Earth orbit on Saturday from a Norwegian spaceport inside the Arctic Circle. The two-stage rocket, Spectrum, became the first fully commercial launch vehicle in Europe to reach orbit, Ars reports . With Saturday’s success, Isar becomes the clear leader among a pack of several European launch startups vying to inject some competition into Europe’s stagnant launch market. Read full article Comments ]]>
-
-### Boy developed "toasted skin" condition from using a laptop every day
-Thu, 10 Sep 2026 22:16:05 +0000 — https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/
-
-Fears that modern electronic devices may harm children are nothing new. Gadgets with screens of any size have long been allegedly melting, rotting, and/or corrupting the brains of youths for decades. However, a medical case report published this week offers a new and alarming way our digital doodads may cause physical harm. In BMJ Case Reports , two UK doctors, Mara Znagoveanu and Edward Artley, report the case of a boy who came to an emergency department with alarming marks on his abdomen. The marks were described as being in a patch about 15 centimeters (6 inches) wide, made of flat, reddish-brown "interlacing lines forming irregular circles and a lace-like morphology." A picture of the marks is here . Mysterious marks The boy, whom they described only as being in "mid-childhood," was not in any pain, and the rash was not warm to the touch or tender. He and his parents said they couldn't think of any recent injuries or trauma that might explain the marks. He was otherwise healthy, hadn't recently been ill, and had no systemic symptoms, such as fever or fatigue. Everything about the boy's health, growth, and medical history looked normal. Read full article Comments ]]>
-
-### LinkedIn beats "BrowserGate" lawsuits over scanning users' Chrome extensions
-Thu, 10 Sep 2026 20:55:29 +0000 — https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/
-
-LinkedIn beat two lawsuits over its practice of scanning users’ browser extensions, with a judge granting the Microsoft subsidiary's motion to dismiss the cases. The users who sued LinkedIn failed to adequately allege that they have standing to sue because neither asserted that they "had browser extensions installed that conveyed private information to LinkedIn," ruled Judge Vince Chhabria in US District Court for the Northern District of California. In his ruling on Tuesday, Chhabria gave the plaintiffs leave to amend their complaints but said he doubts they can make a plausible case. "Given LinkedIn’s further arguments that users voluntarily download browser extensions, which by their nature intentionally expose data to websites, it seems unlikely that the plaintiffs will ever be able to allege a privacy violation, much less prevail at the end of the day," Chhabria wrote. California residents Nicholas Farrell and Jeff Ganan separately filed class actions against LinkedIn in April, seeking to represent themselves and other LinkedIn users. Ganan's attorney, J.R. Howell, said he is evaluating whether to bring the claims in a California state court, which has different requirements on standing, or to appeal the US district court ruling in the US Court of Appeals for the Ninth Circuit. Read full article Comments ]]>
-
-### Europe will go it alone on Venus mission after NASA yanks radar instrument
-Thu, 10 Sep 2026 19:09:29 +0000 — https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/
-
-The European Space Agency is moving "full steam ahead" with development of a robotic mission to Venus after NASA officials determined they were unlikely to fulfill a commitment to provide a US-built radar instrument for the spacecraft, the mission's project scientist said. The European orbiter, named Envision, will map the Venusian surface at 10 times higher resolution than the last radar mission sent to Venus by NASA in the 1990s. The planet is enshrouded in a blanket of thick clouds of sulfuric acid, rendering its mysterious surface unseen by optical cameras in orbit. Radar is the most effective way to penetrate the clouds of Venus to reveal the terrain below, and scientists will use Envision to look for signs of active volcanism. NASA and ESA signed a memorandum of understanding in 2024 outlining their partnership on Envision. NASA agreed to supply a US-made synthetic aperture radar instrument, Envision's primary means of mapping the surface of Venus, along with providing tracking and communications support through NASA's Deep Space Network. In exchange, ESA would include US researchers on Envision's science team. Europe would build the Envision spacecraft and the rest of its science instruments and provide the launch on an Ariane 6 rocket. Read full article Comments ]]>
-
-### Android can now securely migrate your logins between password managers
-Thu, 10 Sep 2026 18:41:09 +0000 — https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/
-
-As longer, more complex passwords have become a necessity, remembering all those strings of numbers, letters, and special characters has become nearly impossible. Password managers can solve that problem, but what happens when you want to move to a different login organizer? Sure, you could manually type all your logins into a new app, but now Android can do that for you without the tedium. Google designed the new login transfer process to happen entirely on your phone, so you need the corresponding apps installed with your credentials synced. To start the move, you'll have to find the import option in the app you want to use. The location of that feature will vary, but in Google Password Manager (built into Android), it's near the top under the settings tab. The import option in Google Password Manager will plug in to the new migration system, while export still just creates an unencrypted CSV with your passwords that can be dumped into any app. It will be similar in other apps, so make sure to start the process in the app you want to use. Currently, this works in Google's app, 1Password, Bitwarden, and Dashlane. Read full article Comments ]]>
-
-### Panic builds over bankrupt Spirit’s looming data sale to Google
-Thu, 10 Sep 2026 18:14:14 +0000 — https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/
-
-Doug Kreuzkamp was shocked when news outlets reported that Google won an auction to buy a huge amount of operational data as part of Spirit Airlines’ bankruptcy proceedings. Kreuzkamp founded a startup called Springshot in 2011, which created a widely used proprietary platform that helps humans and AI systems improve airline efficiency and quickly solve logistics problems so flights can stay on time and airlines can operate as smoothly as possible. Hundreds of airports use it globally. Springshot powered Spirit’s technology stack for the last three years, right up to the “very last flight,” Kreuzkamp told Ars. Yet his company got no notice when Spirit prepared to auction off a massive dataset that he thinks likely improperly includes a substantial amount of data and intellectual property (IP) that Springshot owns—not Spirit. Read full article Comments ]]>
-
-### Physicist does the math on Star Trek’s “Picard maneuver”
-Thu, 10 Sep 2026 17:54:33 +0000 — https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/
-
-It turns out Jean-Luc Picard was an even better starship helmsman than the writers knew. A physicist has gone through the details of a warp-speed trick from the first season of Star Trek: The Next Generation and found a subtlety the show missed. But instead of a plot hole, the detail he found actually makes the maneuver more impressive… as well as a great opportunity to teach about a lesser-known feature of the theory of relativity. Níckolas de Aguiar Alves, a physicist at the Federal University of ABC in Brazil, first watched Next Generation as a master’s student. When he got to the episode "The Battle" in the show’s first season, the plot reminded him of his relativity coursework. In "The Battle," a Ferengi leader reminds Picard of a battle he fought years ago as captain of a ship called the Stargazer . Under fire from a mysterious attacker, Picard’s ship’s shields were down. He had to get closer without taking a hit, so he made a gamble. Picard ordered the Stargazer to charge the enemy ship at warp speed (meaning faster than light), then stop abruptly and fire. By going faster than light, Picard anticipated that the other ship would see two images of the Stargazer : where it reached warp speed and where it stopped. If they fired on the wrong image, they would miss the Stargazer , and Picard could win the battle. Read full article Comments ]]>
-
 ## The Verge
 
-### Matt Mullenweg reportedly returns as Automattic CEO two days after getting booted
+### Lawyer fined $5K over AI-hallucinated witnesses in a murder case
+2026-09-11T16:44:02-04:00 — https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal
+
+New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters . In a filing on Wednesday , the court fined Stephen Aarons $5,000 and held him in contempt for failing to "verify the factual claims and legal authority in his AI-generated brief." The filing says the brief "contained false testimony from wholly fabricated witnesses," along with "false testimony" about the shooter's clothing and appearance. Justice C. Shannon Bacon questioned how Aarons wasn't aware of the risks posed by AI during an August hearing … Read the full story at The Verge. ]]>
+
+### Matt Mullenweg returns as Automattic CEO two days after getting booted
 2026-09-11T13:16:59-04:00 — https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return
 
-Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch . As 404 Media reported on Wednesday , Mullenweg had told staff in Slack that CFO Mark Davies "conspired" with the board of directors, who voted to "put me on a paid leave of absence." (Mullenweg said he voted against that.) He also told staff that the board had voted for Davies to become interim CEO. Davies, in a separate message, said that Mullenweg would still be a board member, according to 404 Media . An Automattic spokesperson told The Verge that Mullenweg was "currently … Read the full story at The Verge. ]]>
+Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch . WordPress Executive Director Mary Hubbard confirmed Mullenweg's return to the CEO role in a Friday post on X , which the official WordPress account shared and Mullenweg reposted. I'm relieved and pleased to see Matt Mullenweg return as CEO of Automattic, the largest financial contributor to the WordPress project. Having WordPress's Co-founder and Project Lead at the helm gives me confidence that their support will remain strong. Matt has my support. - Mary Hubbard (@4thhubba … Read the full story at The Verge. ]]>
 
 ### We unfolded the iPhone Duo
 2026-09-11T12:22:24-04:00 — https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms
@@ -108,11 +113,6 @@ On September 6th, YouTuber Nicholas Light posted a video to one of his channels 
 2026-09-11T10:43:26-04:00 — https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale
 
 Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgins’ rotation of earbuds for more than just taking calls; The Liberty 5 Pro have fantastic audio once you make some tweaks in their app, and they stand out thanks to an IP55 rating and LDAC high-res audio codec support on Android. What’s more, they’re typically cheaper than the competition at $169.99, but you can snag them for $149.99 at Amazon , Best Buy , and at Anker . They come in four colors (black, blue, white, pink), and include a screen-equipped charging case that lets you make adjustments to active noise cancellation, sound profiles, speak-to-chat and enabling Dolby Atmos head tracking. Your mileage may vary with the usefulness of the case, but it’s nice not to have to use the app for quick tweaks. Soundcore Liberty 5 Pro Where to Buy: $169.99 $149.99 at Amazon $169.99 $149.99 at Anker $169.99 $149.99 at B&H Photo I’ve been eagerly awaiting any sort of deal on the Liberty 5 Pro since John’s review dropped. Clearly, Anker caught wind of its success and kept them locked at $170 for months (not even a small price drop during June’s Prime Day sale). What could have lead to the price drop? Likely the debut of the AirPods 5 that start at $129 but have a more feature-rich version that’s $20 more — the same current price as Anker’s Liberty 5 Pro. Read our review . window.HYPE_DESK_CO
-
-### Meta says it s changing AI suggestions after posing invasive personal questions
-2026-09-11T10:25:21-04:00 — https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions
-
-Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism . In a statement to The Verge , Meta spokesperson Dina El-Kassaby says the company "missed the mark," adding that "the feature never should have prompted the individual with questions like that." Last week, Instagram user Kalie Robins posted a video explaining how Meta AI presented her with an invasive suggestion after cross-posting a clip to Facebook. The AI prompt, "Who is the child passenger?" appeared beneath a video of her and her child sin … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +178,11 @@ These days, AI companies directly or indirectly announcing how their respective 
 
 ## Phoronix
 
+### Gitte As Git Client For GNOME Continues Maturing Quite Nicely
+Fri, 11 Sep 2026 20:35:39 -0400 — https://www.phoronix.com/news/Gitte-0.10-Released
+
+For those in pursuit of a graphical Git client for GNOME or the Linux desktop at large, the GTK4-powered Gitte continues advancing rather well and out this week is its v0.10 release...
+
 ### New Cache Aware Scheduling Fixes Out For Testing
 Fri, 11 Sep 2026 14:00:14 -0400 — https://www.phoronix.com/news/Cache-Aware-Scheduling-4-Patch
 
@@ -233,74 +238,26 @@ Thu, 10 Sep 2026 20:55:29 -0400 — https://www.phoronix.com/news/Haiku-OS-Augus
 
 In addition to August bringing the long-awaited Haiku R1 Beta 6 release, there was also a lot of development progress on this BeOS-inspired operating system too during the course of the past month...
 
-### GIMP 3.2.6 Released With Some Early Preparations Toward Eventual GTK4 Port
-Thu, 10 Sep 2026 18:12:22 -0400 — https://www.phoronix.com/news/GIMP-3.2.6-Released
-
-The long-awaited GIMP 3.0 release for transitioning from GTK2 to GTK3 only saw its stable release last year. But with GTK4 already being out for years, GIMP developers have begun making some very early preparations toward an inevitable GTK4 port...
-
 ## The Register
 
-### Mars astronauts could live in houses made of yeast and jello, say scientists
-Fri, 11 Sep 2026 18:50:01 +0200 — https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931
-
-If humans ever make it to Mars - and that’s still a big IF - they will need to build shelters there. And they could build those shelters out of yeast and gelatin, if a method described by Hong Kong-based researchers makes it out of the lab. A paper published on Thursday by a group of researchers from The Hong Kong University of Science and Technology and The Hong Kong Polytechnic University describes a method for building structures on Mars that doesn’t rely on energy-intensive heating to turn regolith into building blocks. The team instead turned to bioengineered yeast and gelatin mixed with simulated Mars dirt to 3D print structures. "My inspiration came from freeze-dried fruits that become harder,” senior author Jishen Qiu, an associate professor at The Hong Kong University of Science and Technology, told Cell Press, the publisher of the paper. Qiu’s idea is a relatively simple one once you break it down: Take one part yeast bioengineered to produce adhesive proteins that bind the components. Combine with artificial gelatin hydrosol to serve as a growth medium for the yeast. Add plain old Martian dirt, and extrude the material through a 3D-printing nozzle. If everything works as intended, the recipe should create a foamy substance that, when exposed to the dry, cold Martian atmosphere, essentially freeze-dries. As the ice sublimates into vapor, you should be left with a light, porous, but incredibly strong material. According to the researchers, that’s exactly what they go
-
-### Disembodied fruit fly brain joins the crypto speculation swarm
-Fri, 11 Sep 2026 18:03:00 +0200 — https://www.theregister.com/offbeat/2026/09/11/disembodied-fruit-fly-brain-joins-the-crypto-speculation-swarm/5295914
-
-If you want to understand how 2026 is going, in March The Register reported that scientists had connected a simulated fruit fly brain to a virtual body and let it wander around a virtual world. Now another simulated fly nervous system is trading crypto. Behold Stonkfly, the brainchild of Coinbase software engineer Alex Wormuth. His X post boasted: "I gave the fly brain $100 to trade bitcoin. Dopamine neurons are stimulated when the fly makes profit. Neuron activity controls buy/sell decisions and makes trades on coinbase. Will the fly get rich?" Well, all we can say is Alex should question his life choices. But really, more stupid things have happened this year, like the US president suggesting he could bring in the military to correct a misbehaving bond market. Keen readers will recall that researchers at Eon Systems took several preexisting components: a fruit fly brain scan, a tool for modeling neurons, a model of some of the fly's muscles and body, and a very simple virtual environment. After connecting them, the team claimed that the result displayed some of the behavior of a real insect. Stonkfly is different. It uses a model of a male fly's brain and ventral nerve cord, rather than the female brain scan used in the earlier experiment. It has no body, and engineered interfaces feed it market information and translate neural activity into trading decisions. The explanation on GitHub – it is an open source project – makes clear that the model uses engineered reinforcement
-
-### AT&T store worker gets 16 months inside for SIM-swap side hustle
-Fri, 11 Sep 2026 17:16:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/11/att-store-worker-gets-16-months-inside-for-sim-swap-side-hustle/5295898
-
-A former AT&T retail worker who used his system access to hijack customers' phone numbers for cybercriminals has been sentenced to 16 months in federal prison. Kenneth Carter, 44, carried out the SIM swaps at a store in Portland, Oregon, , allowing the criminals to intercept authentication codes and raid victims' bank accounts. Court documents show that Carter worked with at least three other people in the scheme, which ran between May 2018 and November 2019, and caused nearly $600,000 in intended losses. Co-conspirator One, described in court documents as the operation's main "hacker," identified victims with online bank accounts, gathered their personal data, and sent it to Carter, who could reassign their phone numbers. Carter abused his access to AT&T's systems to transfer victims' phone numbers to devices controlled by the other criminals. His role was described as "instrumental to the scheme." Co-conspirator Two and Co-conspirator Three would walk into the store and impersonate the victim whose number they planned to SIM-swap, and Carter would reassign the number to a phone they controlled – usually a "cheap flip phone." Once the swap was complete, the criminals could use the flip phone to intercept SMS-based 2FA codes and password reset messages, take over the victim's bank account, and steal funds. The intercepted codes were relayed to Co-conspirator One, who used them to access the victims' bank accounts. Court documents also refer to "an unnamed family member" who h
-
-### Higher prices can't crimp server sales as AI drives demand
-Fri, 11 Sep 2026 16:27:00 +0200 — https://www.theregister.com/systems/2026/09/11/higher-prices-cant-crimp-server-sales-as-ai-drives-demand/5295827
-
-While high memory costs have hurt PC shipments, the server market continues to grow as AI infrastructure spending spreads beyond hyperscalers to corporate and government buyers. According to market intelligence firm IDC, the second quarter was a bumper one for the server sector, with vendor revenue reaching an all-time high of $166.3 billion. That was a 52 percent increase from the same period last year. The picture for servers therefore differs from that for laptops and desktops. There, unit shipments have fallen as buyers are discouraged by higher prices, driven by shortages of memory components. Yet higher prices have helped larger vendors sustain their revenue. In contrast, server shipments increased by 15.4 percent year-on-year in Q2, despite average selling prices being pushed up by elevated memory pricing and continued supply issues with other components. IDC said average selling prices increased across both GPU-accelerated and non-accelerated systems. Average selling prices for GPU-accelerated servers rose by nearly 44 percent to $170,200, even as GPU unit shipments fell 10.8 percent year-on-year. For non-accelerated systems, average pricing was up by more than 33 percent to nearly $13,000. AI infrastructure investment from hyperscalers and large cloud providers remains the largest source of demand, IDC observes. GPU-accelerated servers for the AI market made up nearly 53 percent of total revenue during Q2. However, it also says that AI server adoption is broadening b
-
-### Britain's technology brief is now everyone's job and nobody's responsibility
-Fri, 11 Sep 2026 15:12:00 +0200 — https://www.theregister.com/public-sector/2026/09/11/britains-technology-brief-is-now-everyones-job-and-nobodys-responsibility/5295849
-
-OPINION "Where do we put digital government? You know, all those billions we spend on consultants and legacy systems?" "Oh, that! Put it with sports and tourism. And something we're calling 'place'." It might be a fictional conversation between a SpAd* and a mandarin**, but in reality, the outcome is more or less the same. With the arrival of Andy Burnham as UK prime minister came a shake-up of responsibilities in Whitehall, leaving responsibility for science, technology, and government tech scattered across several departments and eliminating the dedicated technology ministerial role. Shortly after the changes were announced in July, Dame Chi Onwurah, chair of the House of Commons Science, Innovation and Technology Committee, wrote to the government asking for an explanation. The government had yet to confirm what the new roles and responsibilities meant in practice, and there was no news on ministerial portfolios, she said. Now a joint letter from the ministers leading three departments attempts to answer Onwurah's questions. It brings clarity only by laying bare the government's confused thinking and lack of credibility. Take space, for example. The letter says BIST aims to "support companies from breakthrough ideas and research excellence through to commercialization, scaling and exporting, and to fortify the UK's global leadership in this space." When it comes to literal space, however, responsibility falls to Baroness Lloyd of Effra. A law and history graduate, Lloyd wo
-
-### Ukrainian lawyer's second career as a Conti coder earns him 4 years behind bars
-Fri, 11 Sep 2026 14:15:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841
-
-A Ukrainian lawyer who wound up coding malware for the Conti ransomware gang has been sentenced to four years in a US prison. Oleksii Oleksiyovych Lytvynenko, 44, pleaded guilty in June to conspiracy to commit wire fraud over his role in Conti, the Russia-linked ransomware operation associated with more than 1,000 victims and at least $150 million in ransom payments. Lytvynenko took an unusual route into the ransomware business. The Ukrainian national, who later lived in Cork, Ireland, trained as a lawyer before joining Conti as an intruder and developer. According to his plea agreement [PDF], Lytvynenko operated under the handle "henry" and joined a team run by another Conti conspirator known as "silver" or "buza." He was recruited to help with coding and directed to work on a malware loader – software designed to get other malicious code running on a victim's machine. Prosecutors said his Google account showed he had also been doing some homework. Investigators found books and videos about malware and hacking alongside Conti malware, ransom notes, and stolen victim data. Prosecutors said he also used Google and ZoomInfo to research potential targets. Lytvynenko wasn't confined to writing code, according to the filing. Evidence from his online accounts showed that he possessed data stolen from eight US victims and four overseas, with the eight American victims reporting more than $1.5 million in losses. Court documents identify several Bitcoin transfers tied to his Conti wor
-
-### EU's Cyber Resilience Act starts the 24-hour vulnerability clock
-Fri, 11 Sep 2026 13:34:41 +0200 — https://www.theregister.com/security/2026/09/11/eus-cyber-resilience-act-starts-the-24-hour-vulnerability-clock/5295821
-
-Manufacturers selling products with digital elements in the EU must now report actively exploited vulnerabilities to cybersecurity authorities under the Cyber Resilience Act's mandatory reporting rules. The reporting duties set out in Article 14 of the CRA became applicable today. Subject to the regulation's exemptions, they apply to manufacturers of products with digital elements made available in the EU, regardless of where those manufacturers are based. Manufacturers must submit an early warning within 24 hours of becoming aware of an actively exploited vulnerability, followed by a more detailed notification within 72 hours. The same deadlines apply to severe incidents affecting the security of products with digital elements. The only difference in timing is related to the final report. Manufacturers must provide a final report on an actively exploited vulnerability within 14 days of making a corrective or mitigating measure available. For serious incidents, the final report is due one month after the first report. Darren Anstee, CTO for security at Netscout, said the reporting deadlines introduce much-needed urgency in working toward global cyber resilience. "The 24-hour window in which an initial warning must be reported creates a level of urgency, with subsequent deadlines ensuring that the gathering and release of additional information is prompt," he said. "Better, more rapid sharing of information helps organisations put defences and mitigating controls in place when
-
-### Union body tells UK government workers must get a say before AI clocks in
-Fri, 11 Sep 2026 12:35:22 +0200 — https://www.theregister.com/public-sector/2026/09/11/union-body-tells-uk-government-workers-must-get-a-say-before-ai-clocks-in/5295806
-
-Britain's biggest trade union body wants workers to have the right to negotiate over AI before employers decide which parts of their jobs to hand over to machines. The Trades Union Congress (TUC) has called on the government to give workers more say over how AI is introduced in the workplace, warning that its enthusiasm for the technology has yet to be matched by a practical plan for the people expected to work alongside it. In a letter to the new AI and Future of Work ministers, Kanishka Narayan and Kate Dearden, TUC general secretary Paul Nowak and assistant general secretary Kate Bell said the government's approach should be built around three principles: giving working people "a voice, rights, and a fair share." "The government is actively pursuing an AI strategy based on the assumption that these are transformative technologies," the pair wrote. "And you have acknowledged that AI technologies are changing the world of work, and that workers and their unions are key to shaping that change. "But we have not yet seen a practical plan that gives force to your acknowledgement that working people need to determine and benefit from AI-related change." Among the union body's demands is the right for workers to negotiate over the introduction of AI, including algorithmic and surveillance technologies that could affect their jobs or working conditions. TUC isn't arguing that employers should keep AI out of the workplace altogether. Its beef is with companies making those decisions
-
-### Digital Research's GEM opens a new window on Linux
-Fri, 11 Sep 2026 11:16:00 +0200 — https://www.theregister.com/software/2026/09/11/digital-researchs-gem-opens-a-new-window-on-linux/5295546
-
-Digital Research's GEM was one of the earliest graphical environments for PC compatibles, and an inspired hack has now resurrected it on Linux. GEM for Linux is a port of the Atari ST's graphical desktop, created by prolific Slovenian developer Tomaž Štih. Applications share a display server that can output directly through Linux's framebuffer or display the desktop in a window using Štih's SDL2-based Rasta framebuffer emulator. In his Linkedin post, he says that it is "derived from OpenGEM and FreeGEM – now secure, optimized, stabilized, and source-compatible with Atari ST GEM." It is derived from the Digital Research GEM source code released by Caldera in 1999, as the still-young Register reported at the time. GEM was among the first successful GUIs for MS-DOS PC compatibles. European readers may remember that it was the graphical desktop bundled with the Amstrad PC1512 and PC1640 – the first affordable mass-market PC compatibles on this side of the Atlantic. In 1985, Apple threatened legal action against Digital Research over GEM's similarity to the Macintosh interface. Digital Research agreed to make the PC version less Mac-like, removing desktop drive icons, overlapping windows, and other features. The lawsuit didn't affect Atari's version, however. That PC version is what Caldera released as open source. Since 1999, the FreeGEM community has enhanced it beyond the ST version, restoring the removed features and adding others. These include Bézier curve drawing from the r
-
-### BOFH: Oh no! The CMS ate 500 pages of corporate documentation
-Fri, 11 Sep 2026 10:31:00 +0200 — https://www.theregister.com/bofh/2026/09/11/bofh-oh-no-the-cms-ate-500-pages-of-corporate-documentation/5295201
-
-EPISODE 17 The new Boss is keen to acquire knowledge. So keen that he wants a quick rundown on our content management system so he can avail himself of our copious workplace documentation. "WELL," I say, bracing myself for a long session, "first things first, you'll need to get a strong coffee." "Why?" "Because our CMS is a place where documents go to die." "Surely it can't be that-" "Oh, it's bad. So bad that no one will ever admit to being on the selection committee that purchased it." "Were you on it?" the Boss asks pointedly. "What, put an IT person onto a project to select an IT system to store the entirety of our electronic data? Why would you want to do that? No, a selection committee for a project of that importance needs to be made up of people unencumbered by the intellectual weights of reliability, safe data management, and backupability." "Backupability?" "You know what I mean. Anyway, a selection committee needs to focus on the big decisions – like the highlight color of tags – and how many different tag colors there are. And whether you can add colors. Then there's the avatar facility." "Avatar facility?" "Yeah, you know, so your avatar appears next to any document you upload. Apparently, it encourages people to contribute." "It doesn't sound all that ba-" "Oh, it's bad. It doesn't have a proper index, because it uses AI to create tags and keywords dynamically." "That sounds like a pretty good ide-" "Yeah. Though it regenerates those tags every night, based on k
-
-### DeepSeek's new model sets a template for powerful LLMs that run lean
-Fri, 11 Sep 2026 09:15:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/11/deepseeks-new-model-sets-a-template-for-powerful-llms-that-run-lean/5295715
-
-Chinese AI darling DeepSeek unveiled an updated version of its cost-and-latency-optimized Flash model on Thursday, with a new version 4.1 that includes architectural improvements more significant than you would expect in a point release because the changes might open the door to larger, smarter, and less resource-intensive models. At 763 billion parameters, the point release is more than 2.5x the size of the model it replaces. In fact, the model is larger than the V3 and R1 models that put DeepSeek on the map back in early 2025. Despite its ginormous parameter count, DeepSeek V4.1 Flash’s memory requirements aren’t nearly as high as you’d expect for a model of its size. Under the hood, DeepSeek's devs have made numerous architectural changes that see the LLM become smarter while dramatically reducing the resources necessary to serve it. DeepSeek has managed this through two key improvements. First, it made significant changes to how the model handles the key-value (KV) caches used to track model state across multiple sessions. These so-called KV caches can be quite memory-hungry, particularly in high-throughput applications like chatbots. Updates to the model’s various attention mechanisms and the introduction of a new causal encoder-decoder (CED) enabled the devs to improve prompt processing performance while cutting KV cache consumption to between 13 percent and 25 percent of DeepSeek V4 Flash's requirements. In other words, the V4.1 release can support four to eight times 
-
-### On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix
-Fri, 11 Sep 2026 08:30:00 +0200 — https://www.theregister.com/personal-tech/2026/09/11/on-call-boss-wrongly-claimed-it-deleted-his-files-refused-to-learn-the-one-click-fix/5295448
-
-ON CALL Friday morning is The Register's home for tech support stories, which we showcase in On Call – the weekly column made possible by readers generously sharing their experience of what it takes to fix things for the furious, fatuous, or feebleminded users that infest every workplace. This week, meet a reader we'll Regomize as "Lucia," who was once ordered to report immediately to a company director's office. "All of my files have gone," the director fumed, before insisting this was all the fault of the IT team, who were all inept, incompetent, and unfit for duty. Lucia examined the director's PC and found an empty "Home" folder. "I saw that he had clicked on the 'Up' directory icon to get there," Lucia told On Call. "I casually clicked on the 'Documents' folder and his files magically reappeared." Guess how much gratitude the director showed Lucia. If you guessed zero, congratulations. When Lucia tried to impart a quick lesson in directory navigation, the director was having none of it. "He simply bundled me out of his office, yelling, 'And make sure it doesn't happen again!'" Have your users refused to learn a simple fix? If so, a single click here will speed your story to On Call, so we can share it on a future Friday. ®
+_Nothing in the last 48 hours._
 
 ## Engadget
+
+### Moss developer Polyarc has closed
+Fri, 11 Sep 2026 21:58:32 +0000 — https://www.engadget.com/2256562/moss-developer-polyarc-has-closed/
+
+The studio produced some early hits for the PSVR and Oculus Quest.
+
+### Lenovo's Googlebook 15 seems decidedly premium based on a new leak
+Fri, 11 Sep 2026 20:01:58 +0000 — https://www.engadget.com/2256453/lenovo-googlebook-15-seems-decidedly-premium-based-on-a-new-leak/
+
+The Lenovo Googlebook 15 will reportedly have a high-resolution, high-refresh rate display and an Intel Core Ultra 5 chip.
+
+### iPhone 18 Pro vs Pixel 11 Pro: How Apple and Google's flagships stack up
+Fri, 11 Sep 2026 19:17:46 +0000 — https://www.engadget.com/2256364/iphone-18-pro-vs-pixel-11-pro/
+
+Google and Apple's latest flagships feature more AI, better cameras and few reasons to switch ecosystems.
 
 ### Roblox will soon add offline and browser-based play modes
 Fri, 11 Sep 2026 19:00:00 +0000 — https://www.engadget.com/2255734/roblox-bringing-offline-browser-based-play/
@@ -347,22 +304,42 @@ Thu, 10 Sep 2026 21:04:54 +0000 — https://www.engadget.com/2255473/anthropic-c
 
 Anthropic produced an extensive collection of case studies covering the ways its current AI models have been misused.
 
-### Meta is testing Community Notes in Latin America. Fact checkers are worried.
-Thu, 10 Sep 2026 20:41:21 +0000 — https://www.engadget.com/2255433/meta-is-testing-community-notes-in-latin-america-fact-checkers-are-worried/
-
-The company is suggesting that its work with traditional fact checkers could come to an end.
-
-### Don't buy the 'regular' AirPods 5
-Thu, 10 Sep 2026 20:30:00 +0000 — https://www.engadget.com/2255399/dont-buy-the-regular-airpods-5/
-
-The first time you need to adjust volume, you'll wish you'd spent that extra $20.
-
-### IDScan is offering free credit monitoring and ID protection after leaking driver's licenses
-Thu, 10 Sep 2026 18:40:00 +0000 — https://www.engadget.com/2255209/idscan-is-offering-free-credit-monitoring-and-id-protection-after-leaking-drivers-licenses/
-
-The platform was linked to an FBI investigation into a dark web marketplace last week.
-
 ## TechCrunch
+
+### Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
+Fri, 11 Sep 2026 22:58:17 +0000 — https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/
+
+The round for the two-year-old startup is coming together months after Mecka announced its Series A.
+
+### Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road
+Fri, 11 Sep 2026 21:19:05 +0000 — https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/
+
+"It's actually allegedly being built out now," said Rabois, who has clearly dealt with a missed construction timeline or two.
+
+### Y Combinator s Garry Tan wants US open-weight AI labs to distill frontier models, too
+Fri, 11 Sep 2026 20:59:47 +0000 — https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/
+
+Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.
+
+### OpenAI s feud with mathematicians is only escalating
+Fri, 11 Sep 2026 20:57:36 +0000 — https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/
+
+Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
+
+### One week left to book your exhibit table at TechCrunch Disrupt 2026
+Fri, 11 Sep 2026 20:33:18 +0000 — https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/
+
+Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.
+
+### Final, final, final call for TechCrunch Disrupt 2026 Side Events
+Fri, 11 Sep 2026 20:30:17 +0000 — https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/
+
+The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.
+
+### Kimi-maker Moonshot AI targets $2B in annual revenue
+Fri, 11 Sep 2026 19:35:54 +0000 — https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/
+
+While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.
 
 ### Roblox is making it easier to build games with AI — and play them outside Roblox
 Fri, 11 Sep 2026 19:00:00 +0000 — https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/
@@ -388,39 +365,4 @@ In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees 
 Fri, 11 Sep 2026 13:32:54 +0000 — https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/
 
 This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.
-
-### Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play
-Thu, 10 Sep 2026 22:30:00 +0000 — https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/
-
-Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.
-
-### Jensen Huang explains why Nvidia will grow an astounding 70% next year
-Thu, 10 Sep 2026 21:51:59 +0000 — https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/
-
-Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.
-
-### Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
-Thu, 10 Sep 2026 21:35:00 +0000 — https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/
-
-Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.
-
-### OpenAI puts Pro subscriptions on hold due to Astra demand
-Thu, 10 Sep 2026 20:59:51 +0000 — https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/
-
-The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.
-
-### Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek
-Thu, 10 Sep 2026 20:57:30 +0000 — https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/
-
-A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.
-
-### Furo s founders left Silicon Valley — and it s paying off
-Thu, 10 Sep 2026 20:48:00 +0000 — https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/
-
-The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.
-
-### Meta s AI agent Muse is now the No. 2 app in the US
-Thu, 10 Sep 2026 19:50:04 +0000 — https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/
-
-Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.
 

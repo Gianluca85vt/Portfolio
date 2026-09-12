@@ -1,6 +1,41 @@
-# Manga — harvested 2026-09-11T19:17:04.176Z
+# Manga — harvested 2026-09-12T08:50:03.398Z
 
 ## Anime News Network
+
+### Yūsanchi! from Yū-hachi TV Anime Reveals October 5 Debut, Main Cast in Promo Video
+Sat, 12 Sep 2026 03:55:25 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/yusanchi-from-yu-hachi-tv-anime-reveals-october-5-debut-main-cast-in-promo-video/.241693
+
+Short anime to star Chiaki, Hina Kawata, more
+
+### Romelia War Chronicle Anime Reveals Theme Songs, October 3 Early Streaming Debut in Video
+Sat, 12 Sep 2026 03:03:05 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/romelia-war-chronicle-anime-reveals-theme-songs-october-3-early-streaming-debut-in-video/.241689
+
+New visual also revealed
+
+### Autism Society Japan Issues Statement on Mii-chan and Miss Yamada Manga
+Fri, 11 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-11/autism-society-japan-issues-statement-on-mii-chan-and-miss-yamada-manga/.241634
+
+ASJ: “We do not believe an anime adaptation is appropriate, even if it was age-restricted or restricted from freely available over-the-air television”
+
+### Melty Blood:Twi-Lumina 2D Fighter Game's Trailer Reveals April 22 Release, White Len
+Fri, 11 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/melty-blood-twi-lumina-2d-fighter-game-trailer-reveals-april-22-release-white-len/.241677
+
+Game launches for PS5, PS4, Switch 2, Switch, Xbox One, PC
+
+### Rilakkuma Short Anime Gets 3rd Season
+Fri, 11 Sep 2026 21:09:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/rilakkuma-short-anime-gets-3rd-season/.241683
+
+<i>Rilakkuma: Ki Mama ni Manpuku Biyori</i> announced after episode 24
+
+### Ryō Kurashina, Issaku Wake's Jotei Manga Gets New Live-Action TV Series
+Fri, 11 Sep 2026 20:48:01 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/ryo-kurashina-issaku-wake-jotei-manga-gets-new-live-action-tv-series/.241682
+
+Live-action <i>Oshi no Ko's</i> Nagisa Saitō stars as woman striving to be "Empress of Ginza"
+
+### North American Anime, Manga Releases, September 6-12
+Fri, 11 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/north-american-anime-manga-releases-september-6-12/.241539
+
+<cite>My Hero Academia: Vigilantes, Kaiju No. 8: Mission Recon</cite> anime; <cite>The Amazing Digital Circus, Say Hello to Mr. Wallaby!</cite> manga ship
 
 ### 'Harem Camp!' Anime's English Dub Releases on September 18
 Fri, 11 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/harem-camp-anime-english-dub-releases-on-september-18/.241668
@@ -27,46 +62,16 @@ Fri, 11 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/thun
 
 I won’t lie, though – the kids’ joy during the flying scenes is infectious.
 
-### Web Novel-Based Live-Action Series Take Charge of My Heart Sets October 9 Debut on Netflix
-Fri, 11 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/web-novel-based-live-action-series-take-charge-of-my-heart-sets-october-9-debut-on-netflix/.241651
-
-Series follows 3rd-generation chaebol executive whose artificial heart battery is running out
-
-### This Week in Games - Catching Up with Sony and Nintendo
-Fri, 11 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-09-11/catching-up-with-sony-and-nintendo/.241494
-
-Both Sony and Nintendo had showcases in the last week - did they have anything worth being excited about?
-
-### Smoking Behind the Supermarket with You ‒ Episode 10
-Fri, 11 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-10/.241670
-
-Even though this episode is plenty of fun, I would have liked it more if there was 50% less yelling.
-
-### Webtoon-Based Live-Action Series Mousetrap Rises to No. 1 on Global Non-English Series on Netflix
-Fri, 11 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/webtoon-based-live-action-series-mousetrap-rises-to-no-1-on-global-non-english-series-on-netflix/.241652
-
-Series based on webtoon <i>Field Mouse</i> recorded 4.4 million views, appeared in Top 10 in 45 countries
-
-### Director Hiroshi Ikehata Aims for Big Laughs in Giant Ojō-sama Anime
-Fri, 11 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-09-11/director-hiroshi-ikehata-aims-for-big-laughs-in-giant-ojo-sama-anime/.241045
-
-We caught up with the experienced director to ask him a few questions about working on a project where the character is bigger than a skyscraper.
-
-### Young Ladies Don't Play Fighting Games ‒ Episode 10
-Fri, 11 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-10/.241669
-
-Not only are the girls falling in love with fighting games, but also, very much so, with each other.
-
-### Under Night In-Birth II Sys:Celes Fighting Game Releases DLC Character Zohar The 'Doppelganger' on September 15
-Fri, 11 Sep 2026 08:19:45 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/under-night-in-birth-ii-sys-celes-fighting-game-releases-dlc-character-zohar-the-doppelganger-on-/.241666
-
-Character releases on September 15 for PS5, PC via Steam; releases for Switch on September 23
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Re:ZERO Emilia Birthday Event 2026 Reveals New Artwork and Tappei Nagatsuki Short Story Bonus
+Sat, 12 Sep 2026 08:13:07 GMT — https://animecorner.me/rezero-emilia-birthday-event-2026-reveals-new-artwork-and-tappei-nagatsuki-short-story-bonus/
+
+Re:ZERO -Starting Life in Another World- Emilia birthday event will return to Marui stores&hellip;
 
 ### Jaadugar: A Witch in Mongolia Episode 12 (Finale) Preview and Synopsis Released
 Fri, 11 Sep 2026 15:22:36 GMT — https://animecorner.me/jaadugar-a-witch-in-mongolia-episode-12-finale-preview-and-synopsis-released/
@@ -123,17 +128,12 @@ Fri, 11 Sep 2026 09:00:09 GMT — https://animecorner.me/psyren-anime-reveals-ne
 
 PSYREN anime revealed a new trailer, key visual, and cast ahead of the show's previously confirmed October 2026 premiere.
 
-### Sasaki and Peeps Season 2 Reveals Main Trailer and Visual, October 7 Premiere With 1-Hour Special
-Fri, 11 Sep 2026 07:46:48 GMT — https://animecorner.me/sasaki-and-peeps-season-2-reveals-main-trailer-and-visual-october-7-premiere-with-1-hour-special/
-
-Sasaki and Peeps Season 2 premieres on October 7 with a one-hour special, revealing a new main trailer and visual ahead of the release.
-
 ## MyAnimeList News
 
 ### Kyokou Suiri Author to Launch Vampire Juujikai Sequel in October 2026
 Fri, 11 Sep 2026 06:47:09 -0700 — https://myanimelist.net/news/74702759?_location=rss
 
-The official X account of Square Enix s Monthly Shounen Gangan announced on Friday that Kyokou Suiri (In/Spectre) author Kyou Shirodaira will launch a sequel manga of Vampire Juujikai, titled Vampire Juujikai: Inu ni wa Inu no Uta (Vampire Cross World: A Song for Dogs) featuring illustrations by Yuri Kimura in the November issue on October 9. Shiradora began serializing Vampire Juujikai (The Record of a Fallen Vampire) on Shonen Gangan magazine with illustrations by Kimura from August 2003...
+The official X account of Square Enix s Monthly Shounen Gangan announced on Friday that Kyokou Suiri (In/Spectre) author Kyou Shirodaira will launch a sequel manga of Vampire Juujikai. Titled Vampire Juujikai: Inu ni wa Inu no Uta (Vampire Cross World: A Song for Dogs). The manga featuring illustrations by Yuri Kimura will begin in the November issue on October 9. Shirodaira and Kimura serialized Vampire Juujikai (The Record of a Fallen Vampire) in Shounen Gangan magazine from August 2003 t...
 
 ### Toaru Anbu no Item Announces Additional Staff
 Fri, 11 Sep 2026 03:52:14 -0700 — https://myanimelist.net/news/74702372?_location=rss

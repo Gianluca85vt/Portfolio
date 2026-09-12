@@ -1,6 +1,11 @@
-# Games — harvested 2026-09-11T19:17:04.176Z
+# Games — harvested 2026-09-12T08:50:03.398Z
 
 ## Eurogamer
+
+### What we've been playing - "I don't think this is this game's biggest problem"
+Sat, 12 Sep 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-i-dont-think-this-is-this-games-biggest-problem
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Kelsey takes solace in assassination; Connor revisits a foundational Korean MMO; Chris has some more thoughts about Marvel's Wolverine; Bertie tries to get to the end of Big Walk and then realises he doesn't want to get to the end of Big Walk at all; and Marie plays Spyro again, because why not? Read more
 
 ### After Sony tells fans they don't own digital games, one Consumer Rights group is tracking all the times PlayStation said the opposite
 Fri, 11 Sep 2026 19:07:38 +0000 — https://www.eurogamer.net/consumer-rights-tracking-playstation-digital-games-ownership
@@ -56,11 +61,6 @@ Nintendo of America is currently facing a class action lawsuit for refusing to p
 Thu, 10 Sep 2026 15:00:15 +0000 — https://www.eurogamer.net/marvels-wolverine-review
 
 I've always thought there were a few characters out there who were the perfect match for video games. Batman is always my classic example: he beats up bad guys, does stealth takedowns, and has a built-in arsenal of gadgets that can be conveniently designed for any design obstacle; he has a cool car and cape for driving and/or gliding around an open world, and he has preternatural detective sensibilities to help him solve environmental puzzles - or, I dunno, press R3 to see where to go next. Read more
-
-### "What in the vibe-coded s*** is this" - RuneScape players revolt as gen-AI copycat game appears and eventually attracts the eye of Jagex
-Thu, 10 Sep 2026 14:50:43 +0000 — https://www.eurogamer.net/runescape-generative-ai-clone-taken-down
-
-A clone of Old School RuneScape that appeared on the internet this week, and stoked the ire of the RuneScape community, has quickly been shut down. Read more
 
 ## GamesIndustry.biz
 
@@ -119,16 +119,21 @@ Thu, 10 Sep 2026 12:22:19 +0000 — https://www.gamesindustry.biz/newzoo-most-es
 
 Live-service and evergreen titles were flat or declined year-over-year in the first half of 2026 compared to 2025, according to Newzoo data. Read more
 
-### Xbox to publish Kojima Productions' Physint after it "unexpectedly received notice" from PlayStation that it would cancel the project
-Thu, 10 Sep 2026 07:34:19 +0000 — https://www.gamesindustry.biz/xbox-to-publish-kojima-productions-physint-after-it-unexpectedly-received-notice-from-playstation-that-it-would-cancel-the-project
-
-Xbox will publish Kojima Productions' upcoming title Physint after the developer "unexpectedly received notice from PlayStation Studios that they would cancel the Physint project" in mid-June. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Talking Point: What Are You Playing This Weekend? - Issue 649
+Fri, 11 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-649
+
+Cool kids. There's loads to play on PS5 right now, and even more is right around the corner. Here are the games that are keeping all of us entertained this weekend. Jamie O'Neill I'm carving my way through UEP Systems' PS1 Cool Boarders on my PS Vita to belatedly celebrate the Japanese release's 30th anniversary, which landed recently during late August this year. Read the full article on pushsquare.com
+
+### Moss PSVR2 Dev Polyarc Closed After 12 Years of Games
+Fri, 11 Sep 2026 20:45:00 GMT — https://www.pushsquare.com/news/2026/09/moss-psvr2-dev-polyarc-closed-after-12-years-of-games
+
+"Our work is now finished". Polyarc, the studio behind PSVR classics Moss and its Book II sequel, has shut down as of today, 11th September 2026. The developer's LinkedIn page broke the news, stating: "After nearly 12 years riding the joyous rollercoaster of emotions that is making video games, our time together has come to an end. As we wind down active development, we are saying our farewells to each other." Read the full article on pushsquare.com
 
 ### Multiplayer Shooter Wardogs Confirmed for PS5 as Early Access Launch Goes Nuclear
 Fri, 11 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/09/multiplayer-shooter-wardogs-confirmed-for-ps5-as-early-access-launch-goes-nuclear
@@ -180,16 +185,6 @@ Thu, 10 Sep 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/09/lego-p
 
 Astro not. Sony finally announced the much-leaked LEGO PS1 set recently, and included in the purchase is a separate set that lets you build a LEGO Astro Bot . This extra comes at no additional cost. It's a nice bonus for PlayStation fans, but after new images of the Astro set have emerged online, some wish it could be bought on its own. Read the full article on pushsquare.com
 
-### Guide: Where to Pre-Order GTA 6 Controllers for PS5
-Thu, 10 Sep 2026 14:05:00 GMT — https://www.pushsquare.com/guides/where-to-pre-order-gta-6-controllers-for-ps5
-
-USA, UK links to pre-order GTA 6 limited edition PS5 controllers. Ahead of the title's release on 19th November 2026, Sony and Rockstar have teamed up to offer two PS5 limited-edition controllers themed around GTA 6 . There's a black one and a white one, with both sporting a blue / purple faceplate around the thumbsticks and touchpad. The GTA 6 logo is printed on the touchpad, and the two handles have palm tree indentations. Both launch on the same day as the game: 19th November 2026. Read the full article on pushsquare.com
-
-### Final Fantasy 7 Revelation Won t Have Remake and Rebirth s Cheats at Launch
-Thu, 10 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-wont-have-remake-and-rebirths-cheats-at-launch
-
-But they are coming eventually. Eyebrows were raised when Square Enix introduced 'Streamlined Progression' to both Final Fantasy 7 Remake and Final Fantasy 7 Rebirth post-release. Essentially in-game cheats, these options allow players to toggle things like infinite HP and MP, instant weapon mastery, and unlimited resources. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### An honest opinion or defamation? A solicitor outlines the legal nuance
@@ -226,11 +221,6 @@ The hearing is expected to conclude on October 16, 2026.
 Thu, 10 Sep 2026 09:24:59 GMT — https://www.gamedeveloper.com/pc/report-steam-now-requires-australian-users-to-verify-their-age-with-credit-cards
 
 Multiple people now claim that Valve has implemented proof-of-age verification for Australian Steam users to access games classified as R18+.
-
-### Mark Cerny and Geoff Keighley launch university-affiliated fellowship program
-Wed, 09 Sep 2026 20:00:00 GMT — https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program
-
-The program, called Nova Games Foundation, aims to offer six-figure grants to 20 young game designers each year.
 
 ## VGC
 
@@ -286,57 +276,77 @@ A full guide on how to achieve each ending in The Blood of Dawnwalker… Source
 
 ## Polygon
 
-### Upcoming Rust Update Turns the Survival Game Into a Cozy One
-Fri, 11 Sep 2026 19:11:47 GMT — https://www.polygon.com/rust-animal-husbandry-livestock-update-preview/
+### Paramount's Near-Perfect 3-Part Sci-Fi Series Officially Finds a New Streaming Home
+Sat, 12 Sep 2026 08:31:14 GMT — https://www.polygon.com/star-trek-reboot-trilogy-franchise-future/
 
-Rust has several updates in the queue for the final quarter of the year, and among them are improvements to animal gameplay. According to an overhauled roadmap , future updates will introduce dogs, decorative animals, new animal types, improved animal AI, and animal breeding, which will allow players to herd their own livestock and become proper farmers. This will certainly have its uses, but it's a dream come true for role players, as they get to live out their cozy, farming sim fantasies in Rust .
+The secret to Star Trek ’s longevity isn't that it has stayed the same for 60 years. In fact, it’s quite the opposite. Every era has reimagined Gene Roddenberry's universe for a new audience, from The Next Generation to the Kelvin Timeline to today's wave of streaming series. Some reinventions have been more controversial than others, but each has helped keep the franchise alive.
 
-### Roblox Rolls Out Massive Updates at RDC 2026
-Fri, 11 Sep 2026 19:00:14 GMT — https://www.polygon.com/roblox-september-update-rdc-2026/
+### Netflix’s 'Kpop Demon Hunters' Replacement Reimagines a Classic Disney Princess
+Sat, 12 Sep 2026 08:00:14 GMT — https://www.polygon.com/steps-netflix-interview/
 
-This week marks the 12th annual Roblox Developers Conference (RDC), a private event held in the Bay Area for the platform's creator community. As part of the event, the San Mateo, California-based company unveiled updates that aim to expand access to user-made games, as well as give creators new development tools and modes of monetization.
+Alyce Tzue always loved fairy tales, but growing up as the only Asian kid in a homogeneous community in New Jersey, she worried she would never find her happily ever after. Instead of seeing herself in Cinderella, Tzue wondered why her stepsisters didn’t get their own magic. Now she’s teaming up with Raya and the Last Dragon co-director John Ripa to tell their story as co-director of the Netflix animated movie Steps .
 
-### New 'GTA 5' Mod Lets You Destroy Flock Cameras
-Fri, 11 Sep 2026 18:48:47 GMT — https://www.polygon.com/gta-5-flock-camera-mod-pc-download/
+### 10 NES Games That Are Still Worth Playing From Start to Finish
+Sat, 12 Sep 2026 07:00:16 GMT — https://www.polygon.com/best-nintendo-nes-games/
 
-Flock cameras have quickly become one of the most hated and controversial technologies in America. One Grand Theft Auto modder tapped into that anger, and the results are hilarious. Grand Theft Automated License Plate Reader (a spoof of Flock’s automated license plate recognition software) is a GTA 5 mod that places surveillance cameras all over Los Santos. These aren't just cosmetic either, because if you commit a crime in view of these cameras, it will raise your Wanted level. What’s more, there’s a 1 in 20 chance the cameras will trigger a police chase for no reason; the modder, WTTDOTM, explained that this is meant to represent Flock’s history of inaccurate reporting.
+On October 18, 1985, the Nintendo Entertainment System launched in North America with a limited selection of games like Super Mario Bros. and Excitebike . Within a few years, it had a library of hundreds of titles, proving that rumors of the video game industry’s death throughout the early ‘80s were greatly exaggerated. Today, many of those early games feel like antiques. They’re not nearly as memorable as they once were, with so many generations of newer software to choose from. But there are some that still deserve your attention, even now. Here are 10 NES games that are still worth playing from start to finish.
 
-### Metroid Ravenous’ Surprise Reveal Was Secretly the Star of Nintendo’s Busy Week
-Fri, 11 Sep 2026 18:00:14 GMT — https://www.polygon.com/metroid-ravenous-nintendo-remakes/
+### Stephen King's Next Book is the Long-Awaited Conclusion To A 42-Year-Old Trilogy
+Sat, 12 Sep 2026 05:00:14 GMT — https://www.polygon.com/stephen-king-talisman-3-trilogy/
 
-It was quite the week for Nintendo. A pair of back-to-back Direct showcases gave fans a lot to talk about, even if not all the news was equally exciting . The headliner of the week, of course, was The Legend of Zelda: Ocarina of Time . We finally got a deep look at the upcoming Switch 2 remake, which sparked plenty of emotions thanks to its polarizing art style and introduction of a jump button . No matter how fans feel, it's bound to be the biggest game of the Switch 2 era so far.
+There aren't many parts of Stephen King 's bibliography that you can realistically call "obscure." As one of the most famous novelists on Earth, and perhaps the single most famous living horror novelist, even King's lesser-known works are usually best-sellers.
 
-### GTA 6's PS5 Controller Pre-Orders Are Already Getting Ruined by Scalpers
-Fri, 11 Sep 2026 17:55:10 GMT — https://www.polygon.com/gta-6-ps5-controller-preorder-ebay-dualsense-scalpers/
+### 34 Years Later, the Best 'Calvin and Hobbes’ Quote About the Meaning of Life Is Still Second to None
+Sat, 12 Sep 2026 04:30:14 GMT — https://www.polygon.com/calvin-and-hobbes-best-quote-meaning-of-life/
 
-Grand Theft Auto 6 and Sony have collaborated to create themed DualSense controllers and celebrate the launch of the game this November. However, the words "limited-edition controllers" immediately caught the attention of scalpers looking to profit. Although pre-orders are still available, scalpers have acted preemptively and listed them for twice the retail price on eBay.
+While I’m sure I read it earlier, it wasn’t until I was an adult that I learned to appreciate the open-ended beauty of the last Calvin and Hobbes comic, which features the titular duo sledding off into a snowy white wilderness, suggesting that, even though the strip has ended, Calvin and Hobbes’ adventures, and their friendship, endure.
 
-### How to fly helicopters in Wardogs
-Fri, 11 Sep 2026 17:12:21 GMT — https://www.polygon.com/wardogs-fly-helicopters-how-to/
+### 62 Years Later, Clint Eastwood's Genre-Redefining Western Is Officially Free on Streaming
+Sat, 12 Sep 2026 04:00:18 GMT — https://www.polygon.com/a-fistful-of-dollars-clint-eastwood-free-to-stream/
 
-If you want to level up your pilot skill, you need to know how to fly a helicopter in Wardogs . The latest hit FPS game has a skill system that is all about actually doing actions, such as spotting enemies, healing allies, and ferrying passengers to the battlefield. Doing the latter in a helicopter will net you pilot experience, which in turn makes you a better pilot. The problem is, flying in Wardogs is hard as nails.
+As the glory days of classic Westerns began to fade in the 1960s, so did some of the romance associated with it, bringing about the more complex, morally ambiguous “Revisionist Westerns.” One of the most important films from the early days of the Revisionist Western is 1964’s A Fistful of Dollars starring Clint Eastwood in his first major film role. It’s directed by Italian filmmaker Sergio Leone. A Fistful of Dollars is currently available for free on YouTube and is a can’t-miss for film fans — even those that aren’t so into Westerns. That’s mainly because A Fistful of Dollars is also a solid crime and action story that just so happens to take place in the Old West.
 
-### Star Wars' Andor Prequel Highlights Its Most Relentless Rebel in New Look
-Fri, 11 Sep 2026 17:00:14 GMT — https://www.polygon.com/star-wars-reign-of-the-empire-edge-by-of-the-abyss-excerpt/
+### Fallout 5 and Classic Fallout Remasters Coming from Bethesda and Obsidian
+Sat, 12 Sep 2026 01:02:44 GMT — https://www.polygon.com/new-fallout-games-remasters-bethesda-softworks/
 
-The beauty of Star Wars is that there’s something for everyone — whether you’re a fan of the mystical Jedi and Sith or of the spies, soldiers, and mercenaries who make up the Republic and Imperial ground forces. There’s plenty of spin-off material on the former, but not so much on the latter, especially for older Star Wars fans seeking more texts like Rogue One and Andor .
+Xbox wants more Fallout, and after a yearslong drought of new games, Bethesda Softworks is making it happen. Bethesda plans to release remasters of both Fallout 3 and Fallout: New Vegas for modern platforms, the company said in July in a massive roadmap of the developer's future.
 
-### 'GTA 6' Fans Are Harassing The IRL Nudist Resort That Inspired The Game
-Fri, 11 Sep 2026 16:52:00 GMT — https://www.polygon.com/gta-6-nudist-resort-cypress-cove-florida-where-is-google-reviews/
+### Pokémon Go Gible Community Day Classic event guide
+Sat, 12 Sep 2026 01:02:14 GMT — https://www.polygon.com/pokemon-go-gible-community-day-classic-shiny-garchomp-moveset/
 
-Though Rockstar has not officially revealed Grand Theft Auto 6 's nudist camp , fans have been aware of it since the late August 2026 leaks of the game. For some, it wasn't enough to watch the unedited gameplay of the GTA 6 area where NPCs roam in the buff. Instead, they've tracked down the real-world location that may have inspired the raunchiest part of Rockstar's open-world game — and are now making one business owner's life a small nightmare.
+Pokémon Go is having a Gible Community Day Classic event on Saturday, Sept. 12 from 2-5 p.m. in your local time.
 
-### Supergirl Soars to No. 1 on Streaming After Bombing at Box Office
-Fri, 11 Sep 2026 16:38:50 GMT — https://www.polygon.com/supergirl-streaming-hbo-max/
+### Supergirl Lands Official Streaming Date on HBO Max
+Sat, 12 Sep 2026 00:32:16 GMT — https://www.polygon.com/supergirl-hbo-max-streaming-date-announced/
 
-Supergirl seems to be off to a strong start on streaming. After a lackluster theatrical showing, the latest DC Studios film is finally available on HBO Max , where it will look to recoup its losses from a dismal box-office run . Following a Sept. 10 debut on the streamer , Supergirl has landed at number one on HBO Max's U.S. movies chart. It’s currently beating out Practical Magic , Fuze , Band of Brothers: Legacy , and The Last Samurai .
+DC Studios and Warner Bros. released Supergirl earlier this year in theaters as the second film in James Gunn's nascent cinematic DC Universe . Despite a solid star in the lead role and a story adapted from one of the character's most well-received comics, the movie failed to garner widespread critical and commercial success. Supergirl ended its theatrical run with just $126 million earned at the global box office.
 
-### PlayStation's Shock Cancelation of Kojima's New Game Now Makes Perfect Sense
-Fri, 11 Sep 2026 16:05:27 GMT — https://www.polygon.com/kojima-physint-why-playstation-canceled-budget-concerns-death-stranding/
+### The 17 Best Games of Gamescom 2026
+Fri, 11 Sep 2026 21:42:45 GMT — https://www.polygon.com/best-games-gamescom-2026/
 
-Earlier this week, Hideo Kojima revealed Kojima Productions' upcoming Physint had been dropped by PlayStation and found a new home at Xbox . In a post on X , he explained PlayStation had canceled Physint in June, leading the company to search for a new partner. "Please rest assured that development of PHYSINT , our genre-defining action-espionage title, is ongoing and will continue moving forward," he wrote.
+But what were the absolute best games we played while we were out in Cologne, Germany? Here's our list of the top 17 games we played at Gamescom 2026, in no particular order.
 
 ## PC Gamer
+
+### While still headquartered in the US, Saber exec Tim Willits says it has 'no real development in North America anymore'
+Fri, 11 Sep 2026 23:11:02 +0000 — https://www.pcgamer.com/gaming-industry/while-still-headquartered-in-the-us-saber-exec-tim-willits-says-it-has-no-real-development-in-north-america-anymore/
+
+In a Gamescom interview with GamesIndustry.biz , Saber Interactive CCO Tim Willits revealed that the company has "no real development in North America anymore," with only publishing operations continuing in the region, while game development occurs at a host of global subsidiaries. "We are not afraid of any territories," Willits said. "Some publishers are afraid to work in territories they don't understand, but we're like, let's go, let's find some people that are talented, let's give them what they need, and let's make awesomeness. You don't need to be in California to be a brilliant programmer or artist or animator." Willits expressed his disapproval of the "wasted money" he sees in many triple-A games, contrasting an unspecified recent release with Saber's own Space Marine 2. "It was a third [of the cost], and it sold 11 million more copies," Willits boasted. Baseless speculation lightning round What game do you think Willits was alluding to? Sound off in the comments. My best guesses are Halo: Campaign Evolved or Marathon, two North American triple-As with sales publicly reported at one million units at last call (to Space Marine's 12 at last check), and budgets well in excess of the 40K shooter's⁠—though difficult to pin down exactly. "The problem is stuff like this: big North American development studios, they run about $2 million+ in burn rate a month. A month ," said Willits. "SnowRunner, which has made hundreds of millions of dollars, costs us $6 million to make. Tha
+
+### Modder adds 235 destructible Flock cameras to GTA 5 so you can 'do whatever the flock you want' to them
+Fri, 11 Sep 2026 21:28:13 +0000 — https://www.pcgamer.com/games/action/modder-adds-235-destructible-flock-cameras-to-gta-5-so-you-can-do-whatever-the-flock-you-want-to-them/
+
+You've no doubt spent dozens of hours in GTA 5 doing millions of dollars of property damage with your fleet of speeding vehicles and arsenal of deadly weapons. But what if you could do something good for the city of Los Santos while still satisfying your insatiable bloodlust and appetite for destruction? For example, blowing up and running down a couple hundred Flock cameras. Thanks to the GTALPR mod (which stands for Grand Theft Automated License Plate Reader), you can! The mod adds 235 Flock cameras to GTA 5, and in the modder's words, you can "do whatever the flock you want" to 'em. Shoot 'em. Smash 'em. Take 'em out with cars and tanks and shotguns. And you can even make a tidy profit while fighting back against the surveillance state. What's especially cool about GTALPR, created by modder Morry, is that these cameras aren't just static props, they actually work. They'll photograph you as you drive past them, and you can save and format these photos for social media or your own scrapbook. The cameras will also alert the cops to your location, sometimes even if you're not breaking any laws—just like real Flock cameras are prone to do, because they suck. Destroying the Flock cameras drops a bundle of components you can sell for extra cash, a nice bonus at $600 a pop. And if you want to go on a rampage, "there is built-in speedrun functionality, with a stats screen tracking number of cameras destroyed, and fastest time to destroy 10, 50, or all cameras," Morry says. That's r
+
+### Wolverine review roundup: Frankly, we're starting to feel a little better about the whole 'PlayStation 5 exclusive' thing
+Fri, 11 Sep 2026 21:17:15 +0000 — https://www.pcgamer.com/games/action/wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better-about-the-whole-playstation-5-exclusive-thing/
+
+Insomniac's long-awaited Wolverine is out, and, well, it's not great. I mean that in the very literal sense: It's fine—good, even, at least in some ways—but it's not great , and that's a problem for a game that was positioned as one of Sony's biggest PlayStation 5 exclusives of the past few years. The bar was high, and the ol' Canucklehead didn't quite clear it. This is especially unwelcome news for PlayStation right now, given that its plate is already pretty full with other bad news. The platform's live service travails have gotten so far out of hand that it's managed to kill Destiny 2 , and there's a reasonable expectation that Bungie itself might not be too far behind. More recently, it pulled a massive botch with Hideo Kojima's Physint that led to the auteur partnering with Xbox on the project instead. Sony may have had its reasons for pulling the plug , but strictly from a PR perspective, that's the kind of self-own that leaves a deep scar. Similarly, the company is taking heat for its decision to end physical disc production in 2028, a move that may be rationally defensible but is nonetheless really pissing a lot of people off . And now, this: A major PS5 exclusive that's landed with all the grace of an egg chucked at a school bus. Because of its platform exclusivity, we can't tell you what we think of the game, except that we're feeling a little better about not getting it. We can, however, tell you what other sites think of it, so let's do that. "Missing that crucial
+
+### OpenAI employee takes down ChatGPT-coded RuneScape clone following Jagex cease-and-desist
+Fri, 11 Sep 2026 21:07:32 +0000 — https://www.pcgamer.com/software/ai/openai-employee-takes-down-chatgpt-coded-runescape-clone-following-jagex-cease-and-desist/
+
+OpenAI employee Rohan Varma has taken down the browser-based, AI-coded RuneScape clone called Elderwood following negative attention from the RuneScape community and a cease-and-desist request from developer Jagex. Varma did not post video footage of Elderwood in action, but screenshots on his X profile (via Eurogamer ) show a game with extremely similar graphics and UI to Old School RuneScape. Elderwood further had identical place names to OSRS, including the celebrated Lumbridge, and Varma explicitly described it as an OSRS clone in some of his posts. Varma is a developer on OpenAI's Codex project, a coding-focused AI tool he used to build Elderwood. Varma uploaded his first X post about Elderwood on September 6. On September 7, user Nutty103X shared a post to the OSRS subreddit calling attention to Elderwood. Nutty103X called for Jagex to C&D the clone game, and most commenters expressed similar sentiments or criticism of Elderwood's quality and originality. On the same day, Varma shared a post noting "a spike in users earlier today because we accidentally went viral on the OSRS subreddit." According to Eurogamer, Elderwood was taken down at some point on September 9, with the browser-based game replaced with a farewell message from Varma . "We received a notice from Jagex asking us to take down the website," the message reads. "Following that notice, we are discontinuing Elderwood’s operation, and the game is no longer available. "Elderwood began as a browser-based multip
 
 ### Nightdive officially confirms Thief Remastered is coming with a new campaign, The Tarnished Mirror
 Fri, 11 Sep 2026 19:06:25 +0000 — https://www.pcgamer.com/games/fps/nightdive-officially-confirms-thief-remastered-is-coming-with-a-new-campaign-the-tarnished-mirror/
@@ -378,27 +388,12 @@ Fri, 11 Sep 2026 15:34:04 +0000 — https://www.pcgamer.com/hardware/cooling/no-
 
 I don't usually cover the totally, completely, definitely hilarious April Fools jokes all these companies like to pull on April 1. But sometimes that comes back to bite me when the joke products actually get made. It seems that's what has happened here, as Corsair has released 3D print files for a cube that can house fans on each face—that's it, that's all it does. To be fair, I can't even seem to find evidence that this was an April Fools joke. But Corsair implies as much: From April Fools, to Computex, to Gamescom and beyond - here by popular demand: you can now print your own CORSAIR fan cube!Just a simple cube that holds 6 fans - no fuss, no greater meaning, only fans.https://t.co/7vAlBcSiJFWhat are some 3D prints the community wants to… pic.twitter.com/U9Uw4HRh76 September 10, 2026 "From April Fools, to Computex, to Gamescom and beyond - here by popular demand: you can now print your own Corsair fan cube! Just a simple cube that holds 6 fans—no fuss, no greater meaning, only fans." "No greater meaning," that's what I like to hear. In a world that seems to be collapsing around us in every direction, sometimes it's nice to have something pointless to grasp on to. At any rate, if you fancy making one, you can download the files from Printables . They include three main parts—the base and both sides of the cube—plus a connector, which you print four of. Apart from this, all you need is M4x14 mm screws to connect the base. Judging from the picture, it looks like the cube supp
 
-### 'Defying common wisdom', people have been buying more high-end graphics cards despite rising prices, with 12.5 million shipped last quarter alone
-Fri, 11 Sep 2026 14:56:31 +0000 — https://www.pcgamer.com/hardware/graphics-cards/defying-common-wisdom-people-have-been-buying-more-high-end-graphics-cards-despite-rising-prices-with-12-5-million-shipped-last-quarter-alone/
-
-If you've been keeping up with the headlines, then you know gaming hasn't been Nvidia's main priority for some time now. Given that its data centre segment made $89 billion in Q2 of 2026 —an eye-watering 93% of the company's total revenue that quarter—it's not super surprising that Nvidia is all-in on AI. What may be surprising though is that, even after this shift in focus, Nvidia is still king when it comes to consumer GPUs. That's according to the latest report from John Peddie Research ; even though Nvidia's market share did decrease by 0.01% last quarter, the company is still holding on to a 90% share of the graphics 'Add-in Board' (AIB) market. AMD has 8%, while Intel enjoys a 2% slice of the pie. For those a little unclear, an 'add-in board' (AIB) can mean anything you plug into your PC to improve performance, and GPUs definitely fall into that category. When companies refer to AIB GPUs, they're typically distinguishing them from integrated ones like you'll find in laptops, for instance. The JPR report adds that during the second quarter, the "growth of the global PC-based graphics add-in board market reached 12.5 million units." That's a 10% increase from the quarter before. Not only that, but the likelihood of someone picking up an 'add-in board' in addition to a desktop PC was up to 89%, a 23% quarter-over-quarter increase. Given that it has been genuinely more affordable for me to hop on an international flight to either QuakeCon or PAX West rather than buying one 
-
-### Zach Cregger had to dial down the jokes in his upcoming Resident Evil film because test screeners 'thought it was too funny'
-Fri, 11 Sep 2026 11:40:03 +0000 — https://www.pcgamer.com/movies-tv/zach-cregger-had-to-dial-down-the-jokes-in-his-upcoming-resident-evil-film-because-test-screeners-thought-it-was-too-funny/
-
-Zach Cregger has a brilliant track record of directing horror films that are both horrifying and hilarious (at times). Weapons and Barbarian had moments of levity which made each respective film so much more bearable to sit through. Cregger is trying to do the same with his upcoming survival horror film, Resident Evil , the only problem was he did too good of a job at first. Speaking to The Hollywood Reporter Cregger revealed that one change he made after Resident Evil was shown at test screens was to dial down the jokes. "I learned that people really liked the movie, but they thought it was too funny," Cregger explains. "So over the course of my testing, I stripped out as much of the jokes as possible." (Image credit: Sony Pictures Entertainment) Resident Evil isn't averse to a good quip or wise-crack—that's like 40% of Leon Kennedy's personality—but its humour only works so well because it happens infrequently. Leon's almost constant stream of action film-style one liners is one of the many reasons as to why I wouldn't class Resident Evil 4 as a horror game at all. And while there are certainly protagonists in other Resident Evil games who know how to joke around, like Ethan Winters, they are more serious than not. Too many jokes in a horror film wouldn't work for the same reason they don't when packed into games. The point of a light-hearted moment amidst the horror is to provide some respite for viewers who have had their nervous system stretched and strained almost beyon
-
-### Bribing medics to revive me first in Wardogs is one of my favorite shooter mechanics in ages
-Fri, 11 Sep 2026 11:30:11 +0000 — https://www.pcgamer.com/games/fps/bribing-medics-to-revive-me-first-in-wardogs-is-one-of-my-favorite-shooter-mechanics-in-ages/
-
-So you've just been shot in Battlefield and now you're lying in a mass of other players' bodies, all of you hammering the 'REVIVE MEEE' request button as medics buzz about, helping everyone but you. If only there was a way to show them how important you are, that your life is clearly worth more than Skidz69 over there. How about money ? Wardogs is a Battlefield-style shooter where you can pay for just about anything, from a fancy loadout, to a literal taxi ride to the conflict zone. Earning cash for doing what you want is a really smart way of incentivising the whole battlefield role fantasy, whether you're building fortifications and sure-ing up your faction's forward operating base, or dragging downed players out of the fire and rezzing them. Though factions can win and lose, Wardog's only true language of success is profitability , more cash to buy fancier hardware, which you use to earn more cash. It's a wonderfully fitting and nihilistic approach to all-out warfare—each life is an investment in what you're going to do that run. Whether it pays off is where the true play comes in. And since cash is king, you can use it to grease the wheels a little when you've been downed. Simply offer a bribe by tapping F1 when you're corpsified and you'll place a number over your head, showing how much extra money the medic will get if they prioritise rezzing you over your comrades. Come to papa (Image credit: Bulkhead) Personally, I love immediately maxing out the cash reward for my re
-
-### Final Fantasy 7 Revelation director defends its physical disk still needing a download: 'We didn't want to make any compromises for the game'
-Fri, 11 Sep 2026 11:19:18 +0000 — https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-defends-its-physical-disk-still-needing-a-download-we-didnt-want-to-make-any-compromises-for-the-game/
-
-The games industry's been in an (understandable) fuss lately about the prophesied death of physical media from Sony, which has announced it'll be going discless for the foreseeable future. Players are really angry because it's not exactly great if the one place you can buy your games also controls the entirety of the pricing—as Sony hypothetically would on its PlayStation consoles. Things are a little easier for us over here on PC land, but this recent allergy to download-only games has had fans up in arms whenever they get a whiff of digital exclusivity. As is the case with Final Fantasy 7 Revelation which, even though it's getting a physical disc version, will require a digital download. Speaking with IGN , director Naoki Hamaguchi claims to be with gamers on the importance of physical media: "Personally, I'm very happy that we are able to release a physical disc version of FFVII Revelation considering how the entire gaming market, or the landscape, is veering towards the disc-less direction." Regarding the download requirement, however, Hamaguchi says it was there to avoid compromising on detail: "When we had an internal discussion with the development team about how we wanted to approach the physical discs and the physical releases of FFVII Revelation, initially there were conversations about using the same disc size as we did for, say, FFVII Rebirth. "But if we were to do that, it would mean that we would have to make a compromise in terms of the fidelity and the quality
-
 ## GameSpot
+
+### BlizzCon 2026 Opening Ceremony: Start Time, How To Watch, And What To Expect
+Sat, 12 Sep 2026 05:30:00 +0000 — https://www.gamespot.com/articles/blizzcon-2026-opening-ceremony-start-time-how-to-watch-and-what-to-expect/
+
+It's almost time for the first BlizzCon event in two years, as Blizzard prepares to celebrate its past, present, and future with its traditional opening ceremony. This leads into two days of panels and interviews, as Blizzard talks about its biggest franchises, ranging from Warcraft to Overwatch. If you're not planning to make a trip to Anaheim to watch the show in person, the good news is that you can enjoy it from the comfort of your home. Here's a breakdown of when you can tune in for all the announcements. How to watch the BlizzCon 2026 opening ceremony You can watch a livestream of the BlizzCon 2026 opening ceremony through Blizzard's official YouTube, Twitch, and Battle.net channels. YouTube Twitch Battle.net When to watch the BlizzCon 2026 opening ceremony The show kicks off at the following times on September 12, and it'll run for roughly 75 minutes. 10:30 AM PT 1:30 PM ET 5:30 PM GMT 6:30 PM BST 7:30 PM CET 2:30 AM JST (September 13) 3:30 AM AEST (September 13) Will the BlizzCon 2026 musical performance be livestreamed? Nope, the musical performance will be exclusive to BlizzCon 2026 attendees. This year's headline act features K-pop group Le Sserafim, and international music duo Yoasobi will perform during BlizzCon's first-ever esports halftime show in the Overwatch World Cup Arena. What to expect We've got a detailed breakdown of our expectations for BlizzCon 2026 , but to sum it up, we're expecting Warcraft, StarCraft, Diablo, and Overwatch to be in the spotlight.
 
 ### GTA 6 Developer Is Fighting Drones And Hackers To Keep The Game s Secrets Safe
 Fri, 11 Sep 2026 17:12:00 +0000 — https://www.gamespot.com/articles/gta-6-developer-is-fighting-drones-and-hackers-to-keep-the-games-secrets-safe/
@@ -445,22 +440,22 @@ Thu, 10 Sep 2026 18:03:59 +0000 — https://www.gamespot.com/articles/wardogs-ha
 
 Update: A hotfix has now been released for Wardogs that targets the ongoing server issues. If you're logged in and stuck in a queue, you'll need to close the game to download the update, which will then send you back into a queue once you log in again. Players will be allowed into the game in "controlled batches," the size of which were not specified, and might portend continued queues for the time being. More players will be let in as the issues are resolved, but no specific timetable is provided for how long that could take. Alongside the long queues, the patch targets issues with joining servers and an issue causing players to be kicked from matches. "We will be actively monitoring the ongoing situation post hotfix and will be working through the night to see this resolved," the developer wrote in a post on Steam . "We apologize for the inconvenience this has caused." Original story: A big new military FPS, Wardogs (not to be confused with the 2016 Jonah Hill/Miles Teller crime-comedy War Dogs) launched today in early access on Steam, and it's off to a hot start. The shooter reached 300,000 peak concurrent users on Steam right out of the gate and the $40 game is currently Steam's No. 1 best-seller. Pretty impressive for a game that the developer told you not to buy . Given the flood of players, developer Bulkhead instituted a server queue system, and this quickly became something of a meme on social media. Players shared screenshots of the queue and their place in it--some
 
-### Amazon Luna Introduces Its Most Ambitious Feature Yet In A Rough Month For Cloud Gaming
-Thu, 10 Sep 2026 17:00:00 +0000 — https://www.gamespot.com/articles/amazon-luna-introduces-its-most-ambitious-feature-yet-in-a-rough-month-for-cloud-gaming/
-
-As part of its September update, Amazon Luna introduced a Remote Play feature that lets people play games together, even if they aren't in the same room. If you haven't heard of it, Luna is Amazon's cloud gaming service for Prime subscribers that lets them access and play a catalog of games without the need for a console or PC. While some Luna games have had multiplayer features, you previously needed to be in the same room with others to play those titles. Remote Play intends to solve that by letting Amazon Prime and Luna Premium subscribers invite up to seven others into their sessions. These other players won't need an Amazon Prime subscription to use Remote Play, although they will need to use Luna's website or TV app. Of course, you'll now be relying on the smooth internet connections of even more players to comfortably use Remote Play, but the same goes for similar features on PS5 or Nintendo Switch 2. The logo for Amazon Luna To promote Remote Play, Amazon also released two new multiplayer-focused games today. One is a digital version of the board game King of Tokyo, while the other is It's Quiz Time: Guinness World Records, a competitive trivia game. Later in September, it will add the motion-controlled Bowling Mayhem and Pictionary-like Cranium Planet to the game catalog. Star Wars Outlaws and Avatar: Frontiers of Pandora were also added to the Luna Standard game lineup today, although those are single-player games. This Remote Play update is one of the most substant
-
 ### Amazon Prime Members Get Doom Eternal And 10 More Games For Free In September
 Thu, 10 Sep 2026 17:00:00 +0000 — https://www.gamespot.com/articles/amazon-prime-members-get-doom-eternal-and-10-more-games-for-free-in-september/
 
 The next wave of monthly games for Amazon Luna has been revealed, and if you're a fan of first-person shooters, then you're in for a treat. The headline act is Doom Eternal , or if you'd prefer your guns to be chatterboxes, you can also grab the delightfully weird High on Life. Luna members can also stream Star Wars Outlaws later this month for open-world action set in a galaxy far (far!) away, or they can explore the alien world of Avatar: Frontiers of Pandora right now. Sign up for Amazon Prime Several new GameNight titles will also be available throughout the month, so if you're in the mood for some social gaming, you can check out kaiju-powered board game fun in King of Tokyo, test your general knowledge in Quiz Time: Guinness World Records, aim for a strike in Bowling Mayhem, and explore Cranium Planet. As part of its September update, Amazon Luna is also introducing a Remote Play feature . This will allow people to play games together--even if they aren’t in the same room--and it should work nicely with the multiplayer titles featured in the Luna streaming library. As a reminder, all of the free games that you claim through Amazon Luna are yours to keep forever, even if your subscription expires. If you aren’t a member, you can sign up for Amazon Luna for as little as $15 for one month to take advantage of the subscription and its freebies. As mentioned above, you can download some pretty good action games, and if you want to experience the formative years of Doom, you 
 
-### GTA 6 Trailer Drove 100,000 Netflix Sign-Ups In The US Alone In One Day, Analyst Claims
-Thu, 10 Sep 2026 15:37:28 +0000 — https://www.gamespot.com/articles/gta-6-trailer-drove-100000-netflix-sign-ups-in-the-us-alone-in-one-day-analyst-claims/
+### Amazon Luna Introduces Its Most Ambitious Feature Yet In A Rough Month For Cloud Gaming
+Thu, 10 Sep 2026 17:00:00 +0000 — https://www.gamespot.com/articles/amazon-luna-introduces-its-most-ambitious-feature-yet-in-a-rough-month-for-cloud-gaming/
 
-Netflix and Rockstar Games worked together on the recent 26-minute GTA 6 Extended Look trailer, and it seemingly paid off in multiple ways for the streaming company. After Netflix's own data showed that the Extended Look was incredibly popular with viewers , it's now been reported that the Extended Look drove more than 100,000 people to sign up to Netflix that day in the US alone. This is according to Ampere Analysis, which added that the Extended Look was the third-biggest Netflix event in 2026 for new subscriber sign-ups. The two bigger events were the final season of Stranger Things and the Ronda Rousey vs. Gina Carano MMA fight, Ampere said. https://www.youtube.com/watch?v=XpPpqZwUwl0 Ampere went on to say more than 5% of US Netflix members who hadn't watched any content on the service in the previous 30 days before the Extended Look came back to watch it "before anything else." Ampere said this "reactivation rate" was higher than any other show or movie on Netflix during that 30-day period. "More than 100,000 sign-ups from a six-hour exclusive window shows the pulling power of a major gaming event. For Netflix, it also offers a way to compete with YouTube for gamer attention and to bring lapsed viewers back to the platform. For Rockstar, Netflix opens GTA 6 up to audiences beyond the franchise’s traditional core," Ampere's Louise Wooldridge said. The Extended Look was indeed just that--offering the deepest look yet at Rockstar's big new game. The video showed off a varie
+As part of its September update, Amazon Luna introduced a Remote Play feature that lets people play games together, even if they aren't in the same room. If you haven't heard of it, Luna is Amazon's cloud gaming service for Prime subscribers that lets them access and play a catalog of games without the need for a console or PC. While some Luna games have had multiplayer features, you previously needed to be in the same room with others to play those titles. Remote Play intends to solve that by letting Amazon Prime and Luna Premium subscribers invite up to seven others into their sessions. These other players won't need an Amazon Prime subscription to use Remote Play, although they will need to use Luna's website or TV app. Of course, you'll now be relying on the smooth internet connections of even more players to comfortably use Remote Play, but the same goes for similar features on PS5 or Nintendo Switch 2. The logo for Amazon Luna To promote Remote Play, Amazon also released two new multiplayer-focused games today. One is a digital version of the board game King of Tokyo, while the other is It's Quiz Time: Guinness World Records, a competitive trivia game. Later in September, it will add the motion-controlled Bowling Mayhem and Pictionary-like Cranium Planet to the game catalog. Star Wars Outlaws and Avatar: Frontiers of Pandora were also added to the Luna Standard game lineup today, although those are single-player games. This Remote Play update is one of the most substant
 
 ## Rock Paper Shotgun
+
+### What are we all playing this weekend?
+Sat, 12 Sep 2026 07:01:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-399
+
+I&rsquo;m a big fan of these September weekends where I wake up and my bedroom has neither the humidity nor the ambient temperature of an Eden Project rainforest-o-dome. Autumn was previously my third favourite season at best, but I think we need to have a serious conversation about top two. The additional thermal headroom to comfortably run a toasty graphics card also makes this one of the better times to play games. Including these, and also, the ones you&rsquo;re going to tell us about in the comments. Read more
 
 ### "Why do we need more graphics?": 2010's Alan Wake was as photoreal as videogames ever needed to be, reckons original Thief designer
 Fri, 11 Sep 2026 16:29:41 +0000 — https://www.rockpapershotgun.com/why-do-we-need-more-graphics-2010s-alan-wake-was-as-photoreal-as-videogames-ever-needed-to-be-reckons-original-thief-designer
@@ -516,9 +511,4 @@ The nasal greenhorn strategy gamer understands "strategy" to be about mastery of
 Thu, 10 Sep 2026 17:08:35 +0000 — https://www.rockpapershotgun.com/were-going-to-become-the-new-legend-naoki-hamaguchi-on-making-final-fantasy-7-revelation-as-if-its-the-last-ever-final-fantasy-7-game
 
 In this IP-obsessed world, it is quite easy to wonder if anything will ever actually come to an end. Theoretically, the Final Fantasy 7 trilogy of remakes will be coming to an end next year with Final Fantasy 7 Revelation . Except that might not even be true because a couple of pieces of DLC, about Sephiroth and Vincent Valentine respectively, are also in the works , so who knows when the actual end date is. Whether this is actually the end of Final Fantasy 7 or not, however, doesn't matter, as its director is treating it that way. Read more
-
-### Skyrim’s official IKEA crossover mod might be the most deftly-assembled Elder Scrolls gag ever, if not an ad blueprint other corps should follow
-Thu, 10 Sep 2026 17:00:00 +0000 — https://www.rockpapershotgun.com/skyrims-official-ikea-crossover-mod-might-be-the-most-deftly-assembled-elder-scrolls-gag-ever-if-not-an-ad-blueprint-other-corps-should-follow
-
-I didn&rsquo;t think, when I saw the other day that Swedish furniture sellers IKEA had commissioned a group of modders to stick an advert for their wares in Skyrim as an official Bethesda-approved Creation, that I&rsquo;d now be sitting here noting that I dug said creation&rsquo;s dungeon designs. Read more
 

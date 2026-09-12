@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-11T19:17:04.176Z
+# Source feeds — harvested 2026-09-12T08:50:03.398Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -14,6 +14,7 @@ own feed: headline, link, date, and their summary.
 Already aired, so a round-up rather than a preview:
 
 - Eurogamer — Metroid Dread studio MercurySteam appears to confirm it's making Metroid Ravenous, addressing a lingering question from yesterday's Nintendo Direct
+- Polygon — The 17 Best Games of Gamescom 2026
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -35,13 +36,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Film & TV](film-tv.md) **owed** — 67 items
-- [Games](games.md) — 100 items
-- [Tech](tech.md) — 82 items
-- [3D](3d.md) — 19 items
-- [AI](ai.md) — 8 items
+- [Film & TV](film-tv.md) **owed** — 66 items
+- [Games](games.md) — 98 items
+- [Tech](tech.md) — 70 items
+- [3D](3d.md) — 17 items
+- [AI](ai.md) — 5 items
 - [Manga](manga.md) — 36 items
 
-Total: 312 items.
+Total: 292 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

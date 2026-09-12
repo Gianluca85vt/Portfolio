@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-11T19:17:04.176Z
+# Film & TV — harvested 2026-09-12T08:50:03.398Z
 
 ## Variety
 
-### After Taylor Frankie Paul s Bachelorette Scandal, The Secret Lives of Mormon Wives Just Isn t Fun Anymore
-Fri, 11 Sep 2026 19:05:07 +0000 — https://variety.com/2026/tv/columns/secret-lives-of-mormon-wives-season-5-column-1236858851/
+### Gary Oldman Predicts HBO s Harry Potter Series Will Be More Satisfying for Fans Than the Movies
+Sat, 12 Sep 2026 05:54:51 +0000 — https://variety.com/2026/tv/news/gary-oldman-hbo-harry-potter-series-more-satisfying-than-movies-1236859390/
 
-SPOILER WARNING: The following story contains plot details from Season 5 of The Secret Lives of Mormon Wives. From its very first moments, “The Secret Lives of Mormon Wives” has been inextricable from the toxic entanglement between #MomTok influencer Taylor Frankie Paul and her on-again, off-again boyfriend Dakota Mortensen. Two years ago, the show began [ ]
+Gary Oldman, who played Sirius Black in four Harry Potter movies, said he believes HBO s forthcoming TV series adaptation set in the Wizarding World will be a bigger crowd-pleaser than the Warner Bros. films. That s because the movies were significantly abridged from J.K. Rowling s original books, whereas HBO s Harry Potter is including far more of [ ]
 
-### ‘Le Faux Soir’ Review: Fake News Tells the Truth in an Earnest, Slow-Paced Period Piece
-Fri, 11 Sep 2026 19:04:29 +0000 — https://variety.com/2026/film/reviews/le-faux-soir-review-1236859013/
+### Paramount Argues States Antitrust Suit Will Collapse Under Scrutiny
+Sat, 12 Sep 2026 04:16:38 +0000 — https://variety.com/2026/film/news/paramount-answer-antitrust-case-1236859363/
 
-“Le Faux Soir” sources its high concept — hijacking state media propaganda’s fake news to tell the truth — from Second World War history. In 1943, disgruntled anarchist and poet Marc Aubrion (Arieh Worthalter) is recruited by the Belgian Resistance, which publishes its own underground newspaper. Marc’s brainwave is to reach outside the bubble of [ ]
+Paramount s lawyers filed a legal response to the states antitrust lawsuit against the Warner Bros. Discovery merger on Friday, sketching out arguments and defenses it may use at a trial next March. Among other defenses, Paramount s lawyers said they may claim that the coalition of 12 states lacks the authority to regulate the merger, which [ ]
 
-### Streaming Prices Continue to Balloon: Is Streamflation at a Breaking Point?
-Fri, 11 Sep 2026 19:01:47 +0000 — https://variety.com/2026/tv/news/streaming-price-increases-2026-streamflation-breaking-point-1236859025/
+### Jimmy Kimmel s Pulled TV Interview With James Talarico Hits 5 Million Views in 24 Hours on YouTube
+Sat, 12 Sep 2026 03:15:43 +0000 — https://variety.com/2026/tv/news/jimmy-kimmel-james-talarico-interview-youtube-views-1236857569/
 
-Death. Taxes. Price hikes on Netflix, HBO Max and more. It’s become an inevitable part of modern life: The major entertainment streaming services have been regularly upping their fees — for some, the increases have come once a year. The average price of ad-free streaming services increased 54% from 2021 to 2025, according to research [ ]
+Jimmy Kimmel s pulled TV interview with James Talarico, the Texan Democrat running for the U.S. Senate, has crossed 5 million views in the 24 hours since it was posted to YouTube. It was revealed during Wednesday night s episode of Jimmy Kimmel Live! that the interview would not air on his ABC show because of threats [ ]
 
-### Like ‘Amores Perros,’ I Hope My Film Will Also Transcend Time in Some Way,’ Says Gael García Bernal of His Third Directorial Outing, ‘Hombre al Agua’
-Fri, 11 Sep 2026 18:45:00 +0000 — https://variety.com/2026/film/global/amores-perros-gael-garcia-bernal-directing-hombre-al-agua-1236853666/
+### The Julia Set Review: Chase Infiniti Confirms Her Movie-Star Mettle in Niki Byrne s Riveting Math-Geek Bad Romance
+Sat, 12 Sep 2026 02:54:48 +0000 — https://variety.com/2026/film/reviews/the-julia-set-review-chase-infiniti-1236858794/
 
-Gael García Bernal is best known for his breakout roles in two of Mexico’s most consequential films, “Amores Perros” (2000) and “Y Tu Mama Tambien” (2001) but he’s also been directing these past years. Proof of his cachet is having his third feature, “Hombre al agua” world premiere at the Venice Biennale and have its [ ]
+In "The Julia Set," she portrays a numbers genius in the most convincing way possible — by wearing her virtuosity lightly and casually, as if it were second nature (which, for someone like Julia, it is). But she also makes Julia a highly focused and mature young woman who is still, by virtue of age and inexperience, just naïve enough to be poised between assertion and following the lead of a dude she should have steered clear of.
 
-### Stephanie Ahn s Seven-Year Road to Bedford Park : You Never Know What Can Make Your Film Better
-Fri, 11 Sep 2026 18:35:00 +0000 — https://variety.com/2026/film/festivals/stephanie-ahn-bedford-park-toronto-1236857340/
+### Lil Durk Acquitted in Murder-for-Hire Trial
+Sat, 12 Sep 2026 00:48:11 +0000 — https://variety.com/2026/music/news/lil-durk-acquitted-murder-for-hire-trial-1236859311/
 
-After winning the U.S. Dramatic Special Jury Award for Debut Feature at Sundance this year, Bedford Park has its international premiere at the Toronto Film Festival, ahead of a U.S. theatrical release by Sony Pictures Classics. Speaking with Variety, director Stephanie Ahn and lead actors Moon Choi ( Anarchist From Colony ) and Son Sukku ( Sense8, My [ ]
+A Los Angeles federal jury on Friday found Grammy-winning rapper Lil Durk not guilty of murder-for-hire, conspiracy and stalking resulting in death charges in the 2022 killing of rapper Quando Rondo’s cousin, according to the Los Angeles Times. Prosecutors alleged that rapper (real name: Durk Banks) directed hit men to target rapper Quando Rondo, born [ ]
 
-### Jimmy Kimmel in Talks to Renew Late-Night Show at ABC
-Fri, 11 Sep 2026 18:33:20 +0000 — https://variety.com/2026/tv/news/jimmy-kimmel-talks-renew-late-night-show-abc-1236858990/
+### ‘The Uprising’ Star Woody Norman on the Power Trip Playing King Richard II and Going Meatless at Age 10 After Working With Joaquin Phoenix
+Sat, 12 Sep 2026 00:36:21 +0000 — https://variety.com/2026/film/global/the-uprising-star-norman-playing-king-richard-ii-going-meatless-age-10-joaquin-phoenix-1236857404/
 
-Jimmy Kimmel and Disney s ABC have entered into negotiations about keeping the host in late-night after the new TV season, a process that might ordinarily be the most normal of business practices, but in the current climate is exceedingly fraught. Kimmel and executives at the Disney network are having talks about whether he might continue [ ]
+Filming “The Uprising” gave British actor Woody Norman, who plays 14-year-old King Richard II in the historical fiction drama, a massive headache. It turns out the only crown they had for him to use during the shoot got damaged the first day of filming. “So it didn t fit my head,” Norman, 17, tells me over [ ]
 
-### Point Break TV Series Greenlit at AMC, Canal+
-Fri, 11 Sep 2026 18:30:00 +0000 — https://variety.com/2026/tv/news/point-break-tv-series-amc-greenlight-1236858832/
+### Ocean Way Festival Featuring Killers, Olivia Dean and Jack White Is Canceled, as Santa Monica Blames Beach Damage From Hurricane Forces
+Sat, 12 Sep 2026 00:16:18 +0000 — https://variety.com/2026/music/news/ocean-way-festival-canceled-beach-killers-olivia-dean-1236859293/
 
-The Point Break followup series has officially been ordered at AMC and AMC+, Variety has learned. The modern update of the beloved 1991 action film was first reported to be in the works at the network back in December 2025. As reported at the time, the show hails from lead studio Alcon Television Group as [ ]
+Ocean Way is going away, at least for a year. Goldenvoice s inaugural Ocean Way Festival, which was scheduled to take place on the beach in Santa Monica Sept. 26-27, has been called off, with city officials saying the culprit is erosion along the shore caused by recent hurricane-level forces off the coast. A statement from [ ]
 
-### Sheriff Country Sets Backdoor Pilot for Medical Spinoff Starring Schitt s Creek Actor Noah Reid
-Fri, 11 Sep 2026 18:17:11 +0000 — https://variety.com/2026/tv/news/sheriff-country-medical-spinoff-noah-reid-1236858955/
+### Pink Explains Slamming Macklemore s Pro-Palestine Performances, Acknowledges Heavy Backlash: I’m Standing Up for My Own People, and I Thought I Knew How Lonely That Would Be. It’s Lonelier Than That
+Fri, 11 Sep 2026 23:15:42 +0000 — https://variety.com/2026/music/news/pink-explains-macklemore-social-media-post-palestine-jewish-1236859273/
 
-Noah Reid will guest star in two upcoming episodes of Sheriff Country, which will function as a backdoor pilot for a spinoff set in the same universe. Pending a decision from CBS, Reid would potentially be a series regular on a medical drama set in the same universe as Sheriff Country and Fire Country. If [ ]
+Pink had fallen silent in the face of backlash from many quarters following her reposting a call for Macklemore to be dropped from the Ed Sheeran tour in the wake of his nightly pro-Palestinian songs and statements. Now she has spoken up about the controversy and her part in it in a big way, with [ ]
 
-### Dolly Parton International Airport Moves Closer to Becoming a Reality, as Nashville Airport Board Votes Unanimously for Name Change
-Fri, 11 Sep 2026 18:11:23 +0000 — https://variety.com/2026/music/news/dolly-parton-nashville-airport-name-change-vote-unanimous-1236858896/
+### Sebastian Stan on Why Fjord Is Being Called a MAGA Movie and How Making The Batman 2 Feels Like F ing Godfather Part 2
+Fri, 11 Sep 2026 22:08:15 +0000 — https://variety.com/2026/film/awards/sebastian-stan-fjord-maga-the-batman-2-godfather-1236859214/
 
-The idea of renaming Nashville s airport for Dolly Parton was not just an easily forgotten pipe dream that popped up in the days following the superstar s death in August. The proposal moved a big step closer to reality Friday, as the Metropolitan Nashville Airport Authority voted 6-0 to officially start the process of changing the [ ]
+Sebastian Stan has been running around the city of Toronto. We’re sitting in a restaurant, having lunch between his multiple studio visits for various publications. It’s busy and bustling around us, the way TIFF tends to transform every hotel and restaurant over its 11-day period. Stan settles in at the table and digs into a [ ]
 
-### Maria Bartiromo Says More to Come in First Comments After Shock Fox News Exit: I Am So Grateful for the Outpouring of Love
-Fri, 11 Sep 2026 17:50:45 +0000 — https://variety.com/2026/tv/news/maria-bartiromo-first-comments-fox-news-departure-grateful-1236858901/
+### ‘Onwards and Sideways’ Director John Madden on Returning to TIFF After 16 Years With His Parkinson’s Romantic Drama Starring Laura Linney and Rhys Ifans
+Fri, 11 Sep 2026 22:05:00 +0000 — https://variety.com/2026/film/news/onwards-and-sideways-director-john-madden-1236859016/
 
-Maria Bartiromo shared her first public comments since her sudden exit from Fox News and Fox Business last week. In a post on social media, Bartiromo thanked all friends followers for their support, and shared a photo of a rainbow breaking through clouds. She also teased that there will be more to come in [ ]
+When director John Madden first read Paul Mayhew-Archer’s script that was based on his experience living with Parkinson’s disease, he knew it had a ways to go. But he recognized its potential. Now nearly a decade later, Madden is ready to show “Onwards and Sideways” to buyers at the Toronto Intl. Film Festival. What initially [ ]
 
 ## The Hollywood Reporter
 
-### Dior and A24 Strike Two-Year Partnership Across Film and Theater
-Fri, 11 Sep 2026 19:15:30 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/dior-and-a24-strike-two-year-partnership-across-film-and-theater-1236697985/
+### Sorry, Caleb Hearon Is Not Your Clown in ‘Trash Mountain’ Grief Dramedy
+Sat, 12 Sep 2026 02:32:19 +0000 — https://www.hollywoodreporter.com/movies/movie-news/caleb-hearon-trash-mountain-tiff-2026-1236698499/
 
-Dior will be the premier partner for A24’s Cherry Lane Theatre Off-Broadway.
+The comic and actor and co-star Zooey Deschanel helped unveil Kris Rey’s indie about love and death penned by Hearon and Ruby Caster during a world premiere at the Toronto Film Festival.
 
-### Why La Gradiva, the Surprise Sensation of Cannes, Is Now the Essential Debut of the Fall
-Fri, 11 Sep 2026 18:38:23 +0000 — https://www.hollywoodreporter.com/movies/movie-features/la-gradiva-marine-atlan-tiff-exclusive-1236697869/
+### Courteney Cox Says She Decided to Direct ‘Evil Genius’ After Chance Encounter at the Beverly Hills Hotel: “I Made a Lot of Deals There”
+Sat, 12 Sep 2026 02:25:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/courteney-cox-direct-evil-genius-beverly-hills-hotel-1236698506/
 
-The spellbinding teen drama makes its North American premiere at TIFF on Monday, the beginning of an underdog awards run for Marine Atlan's auspicious first feature.
+The 'Friends' alum reveals the role the iconic Beverly Hills property played in bringing the crime thriller to life.
 
-### Stars Hit New York Fashion Week, Brad Pitt Debuts Heart of the Beast and This Week s Best Events
-Fri, 11 Sep 2026 18:38:08 +0000 — https://www.hollywoodreporter.com/gallery/new-york-fashion-week-heart-of-the-beast-red-carpet-events-1236693655/
+### Sydney Sweeney Faces Backlash for Sexualized Novig Ad: Exactly Why Women in Sports Aren t Taken Seriously
+Sat, 12 Sep 2026 01:50:46 +0000 — https://www.hollywoodreporter.com/business/digital/sydney-sweeney-sports-ad-backlash-sexualization-women-1236698224/
 
-Inside this week's biggest Hollywood premieres, parties and openings.
+Many online users, including women who work in the sports industry, have shared their frustration with the actress' campaign for the sports trading app, which features multiple shots of her mostly naked body covered with different sports balls and uniforms.
 
-### Where to Stream 9/11 Tribute in Light TV Special With Performers Cyndi Lauper, Lainey Wilson and More
-Fri, 11 Sep 2026 18:33:39 +0000 — https://www.hollywoodreporter.com/tv/tv-news/stream-911-tribute-in-light-tv-special-sept-11-2026-hulu-1236697801/
+### Josh Hartnett Reveals He Was “Actively Not Looking to Do a TV Show” Before Joining ‘Below’
+Sat, 12 Sep 2026 01:25:44 +0000 — https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-not-looking-tv-show-before-below-1236698463/
 
-The one-hour televised event will be hosted live from New York City by 'World News Tonight' anchor David Muir, 'Good Morning America' co-anchor Robin Roberts and anchor Diane Sawyer.
+The actor says he wanted to star in "another movie" before accepting his role in the Netflix miniseries.
 
-### Magazine Review: A Keenly Observed Snapshot of a Young Woman s Coming of Age Within an Industry on the Brink
-Fri, 11 Sep 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/magazine-review-lily-mcinerny-jake-lacy-lukita-maxwell-1236684881/
+### Lady Gaga Welcomes First Child With Fiancé Michael Polansky
+Sat, 12 Sep 2026 01:22:05 +0000 — https://www.hollywoodreporter.com/music/music-news/lady-gaga-first-baby-1236698474/
 
-Lily McInerny stars with Jake Lacy and Lukita Maxwell in Alexandra Pechman's directorial debut, following an aspiring poet who interns at a prestigious literary mag in 2010s New York.
+The Oscar winner and the entrepreneur are parents.
 
-### Point Break Series Surfs to Green Light at AMC
-Fri, 11 Sep 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/point-break-series-amc-1236697873/
+### Pink Issues Statement Following Backlash for Critiquing Macklemore s Pro-Palestine Comments: Standing Up for My Own People
+Sat, 12 Sep 2026 01:08:33 +0000 — https://www.hollywoodreporter.com/music/music-news/pink-anti-macklemore-palestine-post-1236698412/
 
-The show is set in the same world as the 1991 movie starring Keanu Reeves and Patrick Swayze.
+Pink broke her silence a week after receiving extensive backlash for resharing a post calling for Macklemore to get dropped from Ed Sheeran's tour over his Free Palestine messaging.
 
-### Father Joe Review: Kiefer Sutherland and Al Pacino in a Holy Mess of an Action Flick
-Fri, 11 Sep 2026 18:16:04 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/father-joe-review-kiefer-sutherland-al-pacino-luc-besson-1236697260/
+### ‘60 Minutes’ to Tackle Trump Pardons in Season Premiere
+Fri, 11 Sep 2026 23:51:01 +0000 — https://www.hollywoodreporter.com/news/politics-news/cbs-60-minutes-segment-lesley-stahl-trump-pardons-1236698386/
 
-Luc Besson wrote and produced this high-concept, B-grade shoot-em-up about a gun-toting priest who takes on the New York crime world.
+Lesley Stahl will lead the segment, titled 'The Pardon Economy,' for the show's season 59 premiere.
 
-### Star Trek at 60: Strange New Worlds Co-Creator Akiva Goldsman on Why It Keeps Boldly Going
-Fri, 11 Sep 2026 18:05:22 +0000 — https://www.hollywoodreporter.com/tv/tv-features/star-trek-60th-anniversary-akiva-goldsman-1236697398/
+### Sebastian Stan Says Invitation to Be Negative in Society Starts at the Top : “It s Just So Lazy”
+Fri, 11 Sep 2026 23:39:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sebastian-stan-invitation-negative-starts-top-1236698355/
 
-The lifelong Trekkie talks to The Hollywood Reporter about the franchise's six-decade staying power, how its message of "interspecies collaboration" still matters and why he believes the next generation will keep tuning in (even though he can't get his own kids to watch).
+The ‘Fjord’ actor criticized the current climate while speaking at the Toronto International Film Festival.
 
-### Colman Domingo Says Men Should Be Locking Arms to Make Sure Women Have What They Need at Kering s Caring for Women Dinner
-Fri, 11 Sep 2026 18:04:45 +0000 — https://www.hollywoodreporter.com/lifestyle/style/colman-domingo-supporting-women-kering-dinner-1236697722/
+### Toronto Film Festival: THR s Studio With Gary Oldman, Michelle Yeoh, Naomi Watts, Ziwe and More
+Fri, 11 Sep 2026 23:29:54 +0000 — https://www.hollywoodreporter.com/gallery/tiff-2026-portrait-studio-photos-1236698283/
 
-Produced annually by the conglomerate that owns Gucci, Balenciaga, Boucheron and other celebrated brands, the event raised more than $5 million to support an end of violence against women and children.
+Other stars who stopped by the 1 Hotel space, sponsored by Canada Goose, include Sebastian Stan, Jodie Comer, Michael Imperioli, Martin Freeman and Buddy the dog.
 
-### Bill Kerby, Screenwriter on ‘The Rose,’ ‘The Last American Hero’ and ‘Hooper,’ Dies at 88
-Fri, 11 Sep 2026 18:00:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bill-kerby-dead-the-rose-last-american-hero-hooper-1236697827/
+### Ocean Way Festival Canceled Over Impact From Hurricane Marie
+Fri, 11 Sep 2026 23:08:32 +0000 — https://www.hollywoodreporter.com/music/music-news/ocean-way-festival-canceled-hurricane-marie-1236698282/
 
-He also “un-weirded” Terrence Malick’s script for ‘The Gravy Train’ and received an Emmy nomination for ‘Hatfields McCoys.’
+"Storm surf and runoff has caused significant beach erosion and the festival can no longer be safely held as planned," the festival said.
 
 ## Deadline
 
-### Jimmy Kimmel In Talks To Renew Deal At ABC
-Fri, 11 Sep 2026 19:10:01 +0000 — https://deadline.com/2026/09/jimmy-kimmel-talks-renew-deal-abc-1237099330/
+### Ocean Way Festival Canceled In Santa Monica Due To Beach Erosion Can No Longer Be Safely Held As Planned
+Sat, 12 Sep 2026 03:55:08 +0000 — https://deadline.com/2026/09/ocean-way-festival-canceled-beach-erosion-1237099766/
 
-Earlier this week, tabloid reports had Jimmy Kimmel standing down from his late-night ABC show after his contract ends in May. That was not true, as evidenced by the fact that it has emerged that Kimmel is, in fact, in talks to renew his deal for another year, Deadline has confirmed. Kimmel and Disney are [ ]
+Ocean Way Festival has been canceled because of beach erosion caused by Hurricane Marie. The two-day festival was scheduled for Saturday, September 26, and Sunday, September 27, with headliners The Killers and Olivia Dean, along with artists like Jack White, Sublime, Alvvays, Khruangbin, Durand Jones The Indications, and Hiatus Kaiyote. Due to the impacts [ ]
 
-### United Artists, Amazon MGM Steven Spielberg s Mandela Catalogue Sets Summer 2028 Release
-Fri, 11 Sep 2026 19:00:35 +0000 — https://deadline.com/2026/09/mandela-catalogue-release-date-1237098779/
+### Gary Oldman Says HBO s Harry Potter TV Series Will Be More Satisfying Than The Movies
+Sat, 12 Sep 2026 03:30:41 +0000 — https://deadline.com/2026/09/gary-oldman-hbo-harry-potter-tv-series-1237099755/
 
-EXCLUSIVE: The next big YouTube-born horror IP for the big screen we told you about, the Mandela Catalogue from the Scott Stuber-led United Artists, Amazon MGM Studios and Steven Spielberg s Amblin, is getting a summer release date of June 9, 2028. As Deadline reported, Mandela Catalogue creator Alex Kister is directing the feature off a screenplay [ ]
+Gary Oldman is weighing in on the HBO adaptation of the Harry Potter saga and says one key difference from the films will make it more satisfying for fans. In a new interview, the actor who played Sirius Black across multiple movies in the Harry Potter universe revealed why he thinks the TV series will [ ]
 
-### Onwards And Sideways Team Rhys Ifans, Laura Linney John Madden On Making A Parkinson s Story That Finds Laughter Love In The Unexpected Toronto
-Fri, 11 Sep 2026 18:47:20 +0000 — https://deadline.com/2026/09/rhys-ifans-laura-linney-john-madden-onwards-sideways-tiff-1237098935/
+### The View s Sunny Hostin Defends AI As New Art Form Amid Gatekeeping In Hollywood Around Black Brown Creative Content
+Sat, 12 Sep 2026 01:52:58 +0000 — https://deadline.com/2026/09/the-view-sunny-hostin-defends-ai-gatekeeping-hollywood-1237099723/
 
-When Rhys Ifans and Laura Linney boarded Onwards and Sideways, John Madden’s latest feature about two characters whose lives are turned upside down when they are diagnosed with Parkinson’s disease, the burden of responsibility was heavy. “I’ve never been so nervous in my life,” Linney tells Deadline in advance of the film’s premiere at the Toronto [ ]
+Sunny Hostin received pushback from her co-hosts on The View as she defended the use of AI in Hollywood. Hostin, who recently licensed her name and likeness to AI company Fountain 0, argued that generative AI should be considered a new art form, noting that it can help the entertainment industry show more Black and [ ]
 
-### Warner Bros Michael De Luca Pamela Abdy On Gen-Z Resurge, Credibility With Filmmakers Embracing The Unknown Toronto
-Fri, 11 Sep 2026 18:36:06 +0000 — https://deadline.com/2026/09/warner-bros-michael-de-luca-pamela-abdy-tiff-1237098726/
+### Toronto Film Festival 2026: Read All Of Deadline’s Reviews
+Sat, 12 Sep 2026 00:20:00 +0000 — https://deadline.com/2026/09/tiff-2026-movie-reviews-toronto-1237073927/
 
-While Paramount CEO David Ellison grapples to take control of Warner Bros Discovery, he should be mindful to remember the architects in addition to the architecture. In other words, in the pursuit of merging content, be careful not to throw out those who shepherded it. No, that wasn t the exact pitch nor message from Warner [ ]
+The 2026 Toronto Film Festival kicked off Thursday, September 10, and features a slew of world premieres including the official opening-night film Being Heumann, Oscar winner Siân Heder s follow-up to her Best Picture winner CODA. The event s 51st edition features 10 days of premieres, gala presentations and more as the third leg of the fall [ ]
 
-### Peter Luo’s Stars Collective, LH International Launch AI Joint Venture Prep $300M Fund
-Fri, 11 Sep 2026 18:34:52 +0000 — https://deadline.com/2026/09/peter-luo-stars-collective-lh-international-ai-300m-fund-1237099269/
+### Girl Group Review: Rebel Wilson’s Musical Comedy Is Fun Spiritual Sequel To ‘Pitch Perfect’ — Toronto Film Festival
+Sat, 12 Sep 2026 00:11:45 +0000 — https://deadline.com/2026/09/girl-group-review-rebel-wilson-tiff-1237099495/
 
-EXCLUSIVE: Peter Luo’s Stars Collective is launching a new AI joint venture and fund with Dubai-based LH International. The companies said they will select projects across film, TV and digital, establishing a fund “with a target size of $300M” that will provide development and production finance. The JV will utilize AI to develop, produce and [ ]
+Nearly 15 years after first stealing audiences’ funny bones as Fat Amy, Rebel Wilson has provided a new generation with a musical comedy that will have fans laughing and singing along just the same. In Girl Group, co-written and directed by Wilson, the Australian multihyphenate stars as popstar Tassie Young, who found fame with her [ ]
 
-### ‘Point Break’ Series Greenlit By AMC France’s Canal+ From Alcon
-Fri, 11 Sep 2026 18:30:00 +0000 — https://deadline.com/2026/09/point-break-series-greenlit-amc-france-canal-1237099164/
+### Russell Crowe Charms 1,400-Strong Venice Audience With ‘What Love Builds’ Doc Charting His Musical Career
+Sat, 12 Sep 2026 00:10:08 +0000 — https://deadline.com/2026/09/russell-crowe-charms-1400-venice-audience-love-builds-1237099686/
 
-AMC and French broadcaster Canal+ are going with God after greenlighting the Point Break television series. This comes after Deadline revealed in December that the Breaking Bad broadcaster was developing a series based on the iconic Patrick Swayze and Keanu Reeves surf heist thriller. The series is set in the present day, over thirty years [ ]
+Russell Crowe enjoyed an enthusiastic response to his bio-doc meets concert film What Love Builds as it premiered Out of Competition to a 1,400-strong crowd at the Venice Film Festival on Friday evening. The documentary sets out to show that music has been part of Crowes s life long before he decided to move to Sydney [ ]
 
-### Noah Reid To Headline Sheriff Country Medical Spinoff With Guest Starring Role On CBS Cop Drama
-Fri, 11 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/noah-reid-sheriff-country-medical-spinoff-cbs-1237098951/
+### International Insider: European TV In Peril; Venice TIFF Latest; Mercedes Ron Interview
+Sat, 12 Sep 2026 00:00:00 +0000 — https://deadline.com/2026/09/international-insider-european-tv-peril-venice-tiff-1237098577/
 
-EXCLUSIVE: Noah Reid is looking to join Max Thieriot and Morena Baccarin as the lead of a Fire Country Sheriff Country universe series. The Schitt s Creek alum has been tapped to appear in one episode of the upcoming second season of CBS cop drama Sheriff Country as Dr. Hudson “Hud” Henshaw. The guest star casting comes [ ]
+Welcome once again, Insiders. Jesse Whittock here to take you through the top film and TV stories from the international community, and you can sign up to the newsletter here. We re also taking a moment to pay our respects to the victims of 9/11, 25 years ago in New York. European TV In Peril Uneasy [ ]
 
-### Jay Baruchel Michael Dowse Talk Falling In Love With The Stunt Driver Ken Carter, Upcoming Sitcom Project, Baruchel s WWII Fighter Pilot Passion Project
-Fri, 11 Sep 2026 17:04:05 +0000 — https://deadline.com/2026/09/jay-baruchel-the-stunt-driver-interview-sitcom-ww2-movie-1237073655/
+### Minka Kelly Reacts To Ransom Canyon s Cancellation After Two Beautiful Seasons
+Fri, 11 Sep 2026 23:45:30 +0000 — https://deadline.com/2026/09/minka-kelly-reacts-ransom-canyon-cancellation-1237099675/
 
-For Michael Dowse, the filmmaker behind The Stunt Driver, there s a meta aspect to his journey with the Canadian sports comedy. The film, examining the dogged pursuit of a seemingly impossible dream, was in effect just that for him — a white whale that he chased for 12 years. And now, he s harpooned it: The film [ ]
+Minka Kelly is focusing at the positives as she bids farewell to Ransom Canyon, which was canceled by Netflix after two seasons. Kelly, who starred opposite Josh Duhamel in the Texas romantic drama, posted a video of her and Duhamel s characters Quinn and Staten s romantic journey, which saw plenty of ups and downs during the [ ]
 
-### ‘Before The War’, ‘Our Share Of Sand’ Scoop Top Venice Critics’ Week Prizes
-Fri, 11 Sep 2026 17:03:43 +0000 — https://deadline.com/2026/09/before-war-share-sand-venice-critics-week-1237099181/
+### Practical Magic 2 Conjuring $30M U.S. Opening Box Office Update
+Fri, 11 Sep 2026 23:25:00 +0000 — https://deadline.com/2026/09/box-office-practical-magic-2-weekend-1237098516/
 
-Italian-French director Tommaso Usberti’s Before the War, a coming-of-age tale exploring contemporary masculinity, has scooped the Grand Prize at the 41st Venice International Film Critics Week. In other key feature film prizes, Chilean-Indian London-based director Shalini Adnani’s Our Share of Sand, a family drama reflecting on inequality and environmental crisis, won the Audience Award. Bibiana [ ]
+FRIDAY PM: Warner Bros/Alcon s Practical Magic 2 is looking at a $12.5M Friday on its way to a $30M weekend opening stateside at 4,146 theaters. That opening isn t that far from Bullock s The Lost City ($30.4M opening, which wound up at $105.3M final in North America). It s also slightly under the opening of her 2009 [ ]
 
-### Gary Oldman Clarifies James Bond Comments: I Do Not Know, But I m Hoping It s Jack
-Fri, 11 Sep 2026 16:38:45 +0000 — https://deadline.com/2026/09/gary-oldman-clarifies-james-bond-comments-jack-lowden-1237099055/
+### Curry Barker Initially Planned To Get Tattoos If Obsession Opened To $20M; Inde Navarrette Has Plans To Direct TIFF
+Fri, 11 Sep 2026 22:57:56 +0000 — https://deadline.com/2026/09/obsession-curry-barker-inde-navarrette-tiff-1237099345/
 
-Gary Oldman has reflected playfully on creating headlines around the world with his comments about the James Bond casting process. In an interview with Canadian broadcaster Global over the weekend, Oldman claimed that 007 had been selected. Oldman added that he hoped his Slow Horses co-star Jack Lowden would get the role. “It’s been rumored [ ]
+All we can hope for is that it sustains That s what Curry Barker was first told by his reps and those around him about the domestic box office prospects for his horror pic Obsession. He wasn t expecting too much. Then the horror romance wound up making more than Star Wars: The Mandalorian and Grogu, $512.6M [ ]
 
-### ‘Bling Empire’ Star Dorothy Wang Launching Wedding Series On YouTube
-Fri, 11 Sep 2026 16:29:00 +0000 — https://deadline.com/2026/09/bling-empire-dorothy-wang-wedding-series-youtube-1237076119/
+### Amy Ryan Joins Emilia Jones In Netflix Drama Series ‘The Retrievals’ From Molly Smith Metzler
+Fri, 11 Sep 2026 22:10:37 +0000 — https://deadline.com/2026/09/amy-ryan-the-retrievals-netflix-series-molly-smith-metzler-1237099613/
 
-EXCLUSIVE: From Married At First Sight to Say Yes To The Dress, wedding shows remain a popular fixture on television. And now YouTube. Dorothy Wang, one of the stars of Netflix reality series Bling Empire: New York, is launching her own wedding on the Google-owned streaming service and has teamed up with Rich Kids of [ ]
+EXCLUSIVE: Amy Ryan (Birdman) is set to star opposite Emilia Jones in The Retrievals, Netflix s third series from Maid and Sirens creator/executive producer Molly Smith Metzler. Inspired by the Peabody-winning NYT podcast by Susan Burton, The Retrievals follows an unlikely community of IVF patients who come together to crusade against Yale University after they are [ ]
 
-### Scott Kid Cudi Mescudi Stars Opposite Barbie Ferreira In His Next Directorial Feature Wrong Number
-Fri, 11 Sep 2026 16:25:52 +0000 — https://deadline.com/2026/09/kid-cudi-sets-wrong-number-movie-barbie-ferreira-1237099050/
+### South Korean Monster Thriller Hope , Andrew Garfield In The Uprising , Doc Black Zombie Comedy On A String Specialty Preview
+Fri, 11 Sep 2026 21:18:25 +0000 — https://deadline.com/2026/09/indie-films-opening-monster-thriller-hope-the-uprising-1237099382/
 
-EXCLUSIVE: Scott Kid Cudi Mescudi has recently been teasing his second directorial effort in a year, on the heels of the addiction drama Doe. And we can now tell you that it s Wrong Number, a horror thriller where he stars opposite Barbie Ferreira (Mile End Kicks). Currently in production in Los Angeles, Wrong Number centers on Ibn (Mescudi), [ ]
+South Korean sci-fi thriller Hope joins actioner Runner, historical epic The Uprising and a handful of interesting limited releases this weekend, a few by new indie distributors. With fall festival season in full swing and eyes on the next crop of independent standouts, it s slower for new entrants in the specialty space. Wide: Neon is [ ]
 
 ## befores & afters
 
@@ -178,12 +178,37 @@ Thu, 10 Sep 2026 10:54:01 +0000 — https://beforesandafters.com/2026/09/10/hope
 
 Plus, how the creatures were designed for the film. South Korean filmmaker Na Hong-jin brings science fiction and action together in HOPE , set in a fictional harbor town near the Korean DMZ after the discovery of a mysterious extraterrestrial creature. As police, hunters and locals struggle to survive the escalating threat, Alicia Vikander and Michael Fassbender play alien characters J’aur and Ma’veyyo, with both actors performing their roles through motion capture. The film is packed with large-scale action, from police-car chases and gunfights to aliens running amok through the village and nearby forest, with characters even charging into the action on horseback. An alien rampaging through several buildings (and people) is just one highlight, as is the transformation of Fassbender’s character from a bidpedal creature into a horrific quadruped. Visual effects were crucial to creating the film’s creatures and integrating them into these sequences, but HOPE was equally committed to making the action feel physical and grounded, especially via its frenetic camera work. Here, befores & afters got to speak to Director Na about bringing the creatures to life and about the technical aspects of creating such a high-energy chase film. Designing the creatures The aliens featured in HOPE were designed to all look different from one another. They range in appearance from tentacled to humanoid-like forms, and they often appear injured and weathered (revealed to be from a crash-landing on
 
-### Building up a battle
-Wed, 09 Sep 2026 22:13:54 +0000 — https://beforesandafters.com/2026/09/10/building-up-a-battle/
-
-ILM VFX supe Russell Earl and ILM anim supe Kevin Martel examine the third act battle in The Electric State and a few robot Easter eggs to look out for. An excerpt from issue #65 of befores & afters magazine. b&a: For the amazing third act battle, what was the plan in terms of shooting plates? Russell Earl : The end battle was shot in Georgia. Having worked with the Russo brothers before, we knew what to expect. We ve done some of these big third act battles. We knew from the outset that we were going to have to be able to create any shot that could be imagined. We had this field to shoot at. We made sure that we LiDAR scanned it all. We did drone photography. We did the normal photo capture for everything, so that every blade of grass and every tree could be rebuilt if we needed it. In the end, almost every single shot is a fully digital shot, from close-ups on the grass to big wides. When we were out there, we did have a proper second unit out there, and we had some stunt performers. We would work through the different beats. There s a shot, for example, where the football bot throws Honeybear. We did have previs that we were working off of. We would look at the previs that we had and then we d talk with the stunt performers and try to come up with these little beats. Then we would shoot them with the Xsens MVN suits. And it grows from there. We also realized at a certain point that it was just a big empty field. We wanted to add some interest to it, and it was a great oppo
-
 ## IndieWire
+
+### The Face of Horror Review: Anna Biller Brings Her Brand of Technicolor Feminism to a Tale of Chivalry (or Lack Thereof)
+Sat, 12 Sep 2026 06:00:00 +0000 — https://www.indiewire.com/criticism/movies/the-face-of-horror-review-anna-biller-1235216164/
+
+TIFF: The medieval setting proves a perfect match for Biller's sensibilities, as she crafts a sophomore feature as visually striking and blunt in its messaging as "The Love Witch."
+
+### The Stunt Driver Review: Jay Baruchel Plays a Canadian Daredevil Trying to Pull Off an Impossible Stunt in a Fun 1970s Throwback
+Sat, 12 Sep 2026 02:45:00 +0000 — https://www.indiewire.com/criticism/movies/the-stunt-driver-movie-review-1235216178/
+
+TIFF: Michael Dowse’s tribute to Ken Carter mines comedy and tragedy from the stuntman’s unwavering dedication to jumping the Saint Lawrence River in a rocket car.
+
+### Trash Mountain Review: Caleb Hearon Turns Leading Man in This Gentle Coming-of-Age Dramedy
+Fri, 11 Sep 2026 23:45:00 +0000 — https://www.indiewire.com/criticism/movies/trash-mountain-review-caleb-hearon-kris-rey-1235214880/
+
+TIFF: Kris Rey directs a tender gem from Hearon's own script (written alongside Ruby Caster) about the pleasures and perils of returning home under duress.
+
+### Fall Festival Movies Sold So Far: Rapinoe About US Women s Soccer Icon Lands at HBO Documentary Films
+Fri, 11 Sep 2026 22:01:43 +0000 — https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/
+
+Rebecca Huntt directed the documentary about Megan Rapinoe that premiered at TIFF on Thursday.
+
+### Is Josh Giuliano the Next Curry Barker or Kane Parsons? Blumhouse Atomic Monster Seems to Think So
+Fri, 11 Sep 2026 20:18:20 +0000 — https://www.indiewire.com/news/breaking-news/josh-giuliano-next-curry-barker-kane-parsons-blumhouse-obsession-1235216344/
+
+After Giuliano's feature directing debut "River" premiered at TIFF, the horror company made a deal to produce his next film, "Occupant."
+
+### From Nathan Fielder s Buzzy Elizabeth Holmes Doc to Robert Pattinson s Divisive Primetime : Venice and Telluride s Winners and Losers
+Fri, 11 Sep 2026 19:37:43 +0000 — https://www.indiewire.com/features/podcast/fall-film-festival-winners-losers-telluride-venice-1235216317/
+
+"Screen Talk" co-hosts Anne Thompson and Ryan Lattanzio convene after seeing a ton of movies in Colorado and Italy. What played well, and what didn't?
 
 ### The Housewife Review: Naomi Watts Stuns, but This True Story Flounders Under Its Own Weight
 Fri, 11 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/movies/the-housewife-review-naomi-watts-true-story-1235216304/
@@ -215,137 +240,107 @@ Fri, 11 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/criticism/movies/o
 
 Venice: Poupaud plays a former culture writer on an apology tour in a Nicolas Pariser film that could've been an article. Or a play.
 
-### How Mark Zuckerberg s Doomsday Escape Plan and Eyes Wide Shut Inspired Florian Zeller to Create Bunker for Penélope Cruz and Javier Bardem
-Fri, 11 Sep 2026 14:30:00 +0000 — https://www.indiewire.com/features/interviews/how-mark-zuckerberg-eyes-wide-shut-inspired-bunker-1235216215/
-
-As "Bunker" prepares to premiere at TIFF, Florian Zeller admits one of his married cast members didn't like the comparison to Cruise and Kidman.
-
-### How Two Oscars Breakouts Are Charting New Paths for Indian Cinema at TIFF with Dorothy and Termite
-Fri, 11 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/tiff-indian-movies-dorothy-termite-interviews-1235216067/
-
-TIFF: “Dorothy” director Karthik Subbaraj and producer Guneet Monga Kapoor hint at why this large-canvas Tamil gangster film is so special, while Shaunak Sen discusses “Termite,” his first foray into directing fiction, and a feature documentary he is co-producing with Joaquin Phoenix and Rooney Mara.
-
-### Burgundy Review: A Warm, Witty Winemaking Vibe Documentary You ll Want to Pair with a Glass of Red
-Fri, 11 Sep 2026 13:30:00 +0000 — https://www.indiewire.com/criticism/movies/burgundy-review-michael-dweck-gregory-kershaw-wine-doc-1235216104/
-
-Venice: But you don't need to be wine-drunk to savor the "The Truffle Hunters" directors Michael Dweck and Gregory Kershaw's airy immersion into ancient French tradition.
-
-### One of the Year s Best Film Books Celebrates the Unsung Artists That Turned The Women Into a Classic
-Fri, 11 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/features/interviews/illeana-douglas-on-the-women-1235215874/
-
-The author of "Jungle Red: The Making of MGM's 'The Women'" tells IndieWire why she wanted to explore the making of the 1939 classic and how women both famous (Joan Crawford, Norma Shearer) and forgotten (screenwriter Jane Murfin) contributed to its greatness.
-
-### Def Leppard Documentary Coming to Theaters Courtesy of Bleecker Street and Crosswalk
-Fri, 11 Sep 2026 12:45:00 +0000 — https://www.indiewire.com/news/business/def-leppard-doc-theaters-2027-jeff-feuerzeig-1235216201/
-
-Metal fans rejoice! A new doc will look at the highs and lows of the legendary band.
-
-### Korean Star Jeon Do-yeon s Outstanding Possible Love Performance Could Earn Venice s Best Actress Prize — or Lee Chang-dong the Golden Lion
-Fri, 11 Sep 2026 12:45:00 +0000 — https://www.indiewire.com/features/interviews/possible-love-star-jeon-do-yeon-interview-lee-chang-dong-1235216210/
-
-Venice: IndieWire talks to Jeon at the festival about reuniting with director Lee after his 2007 "Secret Sunshine" earned her a history-making Best Actress prize at Cannes.
-
 ## The Wrap
 
-### Megan Rapinoe Wanted Something Different for Her Documentary, and So Did the Director
-Fri, 11 Sep 2026 19:08:02 +0000 — https://www.thewrap.com/creative-content/movies/megan-rapinoe-documentary-tiff-2026-interview/
+### Bill Maher Walks Comedy Tightrope With Pair of 9/11 Jokes on 25th Anniversary
+Sat, 12 Sep 2026 03:16:28 +0000 — https://www.thewrap.com/creative-content/tv-shows/bill-maher-september-11-jokes-trump-real-time-hbo/
 
-Megan Rapinoe wanted the documentary chronicling her early life through her prestigious soccer career to be something different. While speaking with TheWrap at the 2026 Toronto International Film Festival, the Rapinoe subject and director Rebeca Huntt explained their approach to the project. They both agreed early on that they wanted things to feel different, and Rapinoe knew that after years of being interviewed for her performances on the pitch and activism off it, that difference came in the time the pair spent together and by being prompted in the right way. The questions were different, Rapinoe said. I think that was the big thing. I think I was crying the first time that we talked. As soon as we met, I think we both wanted something different, and to go to a different level and talk about my career and my life in the ways that mattered to us the most. I know for me personally, I don t think the best things that I ve ever done and the most important things are what I ve done on the field. And I feel like for Rebecca, she looked at me and said, OK, that s the vehicle, but like there s other stuff here that I m interested in, and so right away I think we connected on that. She added: I feel like you were embedded in so many ways, and then I trusted you, and you trusted me, and I wanted to go there, but also you have to be prompted in the right way, and you have to have the right vision, and Rebecca had that. It made it really easy for me to tell just a really human, real s
+Bill Maher walked a comedy tightrope Friday night opening his latest Real Time monologue with a pair of 9/11 jokes, despite it being the attacks 25th anniversary. But considering they were at President Donald Trump s expense, the HBO host stuck the landing. His studio audience guffawed with laughter at Maher s first zinger, which he set up by pointing out that former presidents Barack Obama, Joe Biden, George W. Bush and Bill Clinton were all in attendance at the official Ground Zero ceremony in Lower Manhattan on Friday. Trump, meanwhile, stayed in Washington, D.C. and attended a Sept. 11 observance ceremony at the Pentagon. It s a somber day. This is the anniversary of one of the most important events in American history. This is the 25th anniversary when we were attacked, the World Trade Center and the Pentagon, Maher began. There were ceremonies commemorating it in New York. Four ex-presidents went. Trump and Pete Hegseth went to the Pentagon, which was also attacked, where Trump said, We will never forget who attacked us on this day: Canada.' The unexpected punchline earned a riotous enough response in studio that Maher held his hand to his face, smiling. All right, he said, bringing the crowd to a calm. He then took a jab at Secretary of Defense Hegseth. And Pete Hegseth, he was even more mad about it, Maher joked of his response to the 2001 terrorist attack on the capitol. He said, These terrorists tried to destroy the Pentagon, and that is my job!' Trump s ongoing tra
 
-### Jimmy Kimmel and ABC Begin Talks to Renew Late Night Contract
-Fri, 11 Sep 2026 18:55:04 +0000 — https://www.thewrap.com/industry-news/business/jimmy-kimmel-contract-negotiations-abc/
+### Girl Group Review: Rebel Wilson s Underwhelming Ode to Female Empowerment Falls Flat
+Sat, 12 Sep 2026 01:51:22 +0000 — https://www.thewrap.com/creative-content/movies/girl-group-review-rebel-wilson-tiff/
 
-ABC has entered negotiations with Jimmy Kimmel to renew his late night program, nearly one year after the network suspended production after his controversial remarks. Jimmy Kimmel Live! will continue through the 2026-2027 television season, but Kimmel and Disney executives are in talks about how the show will proceed at the network beyond that, TheWrap has learned. TheWrap has reached out to Kimmel. ABC declined to comment. The late night program was renewed for a one-year contract deal in 2025 as opposed to the show s typical three-year contract. The lessened contract comes as late night TV has seen major shifts with the cancellation of The Late Show with Stephen Colbert and as other shows like The Daily Show saw only one-year contract deals. Kimmel came under fire from the Trump administration and MAGA supporters in September 2025 for his remarks about the late Charlie Kirk and the man that killed him in his monologue. ABC suspended his show from the air from Sept. 17 through Sept. 22, leading to an outcry from political leaders, celebrities and unions alike. The single-year contract gives both Kimmel and the broadcaster greater flexibility about renewals or cancellations. Puck reported that Kimmel informed Disney and ABC that he was interested in renewing his contract for another season beyond the current deal’s end in May. More to come The post Jimmy Kimmel and ABC Begin Talks to Renew Late Night Contract appeared first on TheWrap .
+You look like you ate Sabrina Carpenter. As the great singer-songwriter Taylor Swift once sang, I think I ve seen this film before … and I didn t like the ending. So true is the sentiment when it comes to Rebel Wilson s newest movie, Girl Group, the audacious ensemble flick that premiered Friday at the Toronto International Film Festival. Wilson s sophomore directorial effort after 2024 s TIFF entry The Deb, this newest female-forward flick follows a ragtag group of girls, led by frontwoman Wilson, as they try to defy the odds and chase friendship and superstardom. Wilson stars as Tassie Young, a former 90s/2000s pop star gone solo, forced to confront her bad choices after a DUI lands her in community service. After being replaced in the reunion tour of Gurlfriends, the girl group she once belonged to, Tassie is assigned to mentor a group of aspiring teenage singers as part of court-ordered community service. Amid generational differences and clashing music tastes, they discover that what doesn t kill them might just make them stronger. The ensemble takes center stage as Tassie and company try their best to make this new girl group gel just in time for a record label competition that could change all of their lives. It feels a lot like Netflix s Girls5Eva, though that s an unfair comparison, seeing as that series is hilarious and this movie is downright underwhelming. Chalk it up to the fact that Wilson thrusts herself onto the screen at every available opportunity despite th
 
-### How Duncan Jones Battled Tech Hurdles and Indie Movie Budgets to Bring His Animated War Movie ‘Rogue Trooper’ to Life
-Fri, 11 Sep 2026 18:54:34 +0000 — https://www.thewrap.com/creative-content/movies/rogue-trooper-director-duncan-jones-interview-2000-ad/
+### ‘Slow Horses’ Season 6 Is ‘Darker and Heavier,’ but Gary Oldman Says It Packs the Same Old Punch
+Sat, 12 Sep 2026 01:49:23 +0000 — https://www.thewrap.com/creative-content/tv-shows/slow-horses-season-6-darker-gary-oldman-interview/
 
-“Rogue Trooper,” Duncan Jones’ hellzapoppin’ animated sci-fi war movie , just had its North American premiere as part of the Toronto International Film Festival after debuting at the Annecy International Film Festival over the summer. No matter what you think about the movie, you can appreciate “Rogue Trooper” as an incredible achievement – an independent animated feature that looks as good as any Hollywood blockbuster, and marks the return of one of our most exciting filmmakers. And it only took 25 years. In 2001, Jones got a meeting with Jason and Chris Kingsley. The Kingsleys run Rebellion Developments, a successful videogame development company headquartered in Oxford, England. Rebellion had just purchased “2000 A.D.,” a hugely influential British sci-fi comic magazine that began in 1971 and is most famous for introducing the world to Judge Dredd, a character who has been the subject of two very different adaptations (first in 1995, with Sylvester Stallone wearing a costume designed by Jean-Paul Gautier, and again in 2012 with a much more taciturn Karl Urban). For the meeting, Jones shaved his head in the style of the titular character – a blue, genetically engineered grunt fighting an endless war on a poisonous planet, originally created in the early 1980s by Gerry Finley-Day and future “Watchmen” illustrator Dave Gibbons. That’s right – going into the meeting, Jones wore a comic book-accurate mohawk. “I go in and I say, ‘I want to make a Rogue Trooper movie.’ Their firs
+Buckle up, “Slow Horses” fans. Season 6 of the beloved Apple TV spy series is a “darker” and “heavier” season than what’s come before, with the gang reckoning with the fallout from a plot to destabilize the entire country that involved a honeytrap for Roddy Ho (Christopher Chung). It is also the first season without longtime executive producer Will Smith overseeing the production, but in an interview with Jada Yuan at TheWrap’s studio at the Toronto International Film Festival, star and EP Gary Oldman explained Slow Horses has never had a traditional showrunner and the transition to Season 6 was seamless. “We have a team of creative producers that have never changed, and there hasn’t ever been an official showrunner,” he said. “The way that this show is made is it’s really collaborative.” When asked if it felt different without Lewis at the helm, Oldman pressed TheWrap’s interviewer if they d seen Season 6. “Yes,” Yuan replied. “What did you think?” Oldman asked. “It seems the same,” Yuan said. “Well, there’s your answer,” Oldman said with a laugh. But Season 6 is different in tone – both visually and thematically – than past seasons, as “Slow Horses” often does. Seasons will shift visual palettes based on the story at hand, and director and executive producer Adam Randall, who won an Emmy for his work on Season 4 and returned to the series for Season 6, wanted to set a darker tone rooted in the emotion of the characters. “I was lucky enough with Season 6 that I was involved 
 
-### Rich Greenfield on AI s Value in Investing — and Why Spotify Doesn t Get Enough Credit
-Fri, 11 Sep 2026 18:39:46 +0000 — https://www.thewrap.com/industry-news/business/rich-greenfield-interview-ai-lightshed/
+### Pink Doubles Down Against Macklemore for Free Palestine Show: I m Standing Up for My Own People
+Sat, 12 Sep 2026 01:19:01 +0000 — https://www.thewrap.com/creative-content/music/pink-criticizes-macklemore-free-palestine-performance/
 
-Artificial intelligence is fueling booms in startups and creating opportunities for investors looking to participate in seed and early round funding for companies that could reshape industries like media and entertainment. Analyst Rich Greenfield, known for aiming sharp questions at CEOs and proclaiming the end of traditional media, also wears an investor s hat with a venture capital fund. Think former Disney exec-turned-investor Bob Iger, but on a smaller scale. Greenfield talked to The Ledger about how AI powers some of the companies he’s invested in, plus names one public company he thinks is truly taking advantage of what the emerging technology has to offer. With football season starting, we also look at NFL valuations and watch as Lionel Messi adds to his portfolio of fútbol teams. Thanks for reading. Jon Lafayette (Send your tips and pitches to jon.lafayette@thewrap.com ) P.S. Money moves, companies change hands and the power map gets redrawn. At TheGrill on Sept. 30, the executives, investors and dealmakers behind those shifts get into what’s moving the business next. AI Creator Day is included on Sept. 29. Subscribers get 50% off through Sept. 8 with PROPERKS50. THE DEEP DIVE Rich Greenfield of LightShed Ventures (Photo courtesy of LightShed Ventures) How Analyst Rich Greenfield Sees Investing as a Venture Capitalist Rich Greenfield is best known as the LightShed Partners analyst often quoted about the difficulties traditional media companies face adapting to the str
+Pink reaffirmed her criticisms of Macklemore on social media Friday afternoon, slamming the rapper for calling for a Free Palestine and projecting images of the war in Gaza onstage while performing during Ed Sheeran s Loop tour. I’ve been quiet in my own words for a week, which you know isn’t like me. So here they are, the artist opened, writing a lenghty 1,300-word social media post explaining why Mackelmore s performances have offended her as a Jewish woman. Pink confirmed that she reposted a graphic that criticized Macklemore last week, but she added that the words in that post were not her own. She said that she would rather be hated for what she actually said than for someone else s words. Of course I don’t speak for Israel, or for any government. I never have. What I said in October 2023 is still exactly what I believe: Hamas is a terrorist organization, she wrote. Palestinians deserve a future that honors their humanity and their aspirations. Protecting innocent life comes first, everywhere, and nobody should ever celebrate the death of a child. Anybody’s child. She added that she has spent a decade as a UNICEF ambassador, meeting in person with children of war on both sides of that fence. I’m not going to litigate a complex war in an Instagram caption, and I’m not going to recite anybody’s slogan to earn back a follower, she said. The So What singer specifically stated that her feelings about Macklemore have evolved over the years. She said that she supported him when
 
-### Schitt s Creek Star Noah Reid to Headline Sheriff Country Medical Spinoff at CBS
-Fri, 11 Sep 2026 18:30:18 +0000 — https://www.thewrap.com/creative-content/tv-shows/sheriff-country-spinoff-cast-noah-reid-medical-drama/
+### Venice Film Festival s Muted Red Carpet Fashion Is a Sign of the Times
+Sat, 12 Sep 2026 01:11:09 +0000 — https://www.thewrap.com/culture-lifestyle/fashion/venice-film-festivals-muted-red-carpet-fashion/
 
-Noah Reid is scrubbing into Sheriff Country. The Schitt s Creek and Interview With the Vampire alum will guest star on Season 2 of the CBS police procedural, and potentially be a series regular in the medical drama spinoff in development at the broadcast network, TheWrap has learned. Reid will play Dr. Hudson “Hud” Henshaw, chief of emergency medicine at Edgewater Memorial Hospital, also known as “Edge Med. Charming and quick-witted but rough-around-the-edges, Hud was born and raised in the outlaw hinterland known as Deadwater. He is the proud son of convicted felons, yet refused to take the family’s drug money to pay for medical school. He is a passionate doctor who embodies his oath to first do no harm, yet is not one to shy away from a good bar fight. A man deeply committed to the community he grew up in, he is a restless soul all the same, per the official character description. The still-untitled medical drama would mark the third series in the CBS franchise that began with Fire Country, from co-creators Max Thieriot, Tony Phelan and Joan Rater. Jerry Bruckheimer and KristieAnne Reed also serve as executive producers on the CBS Studios-produced shows. Reid broke out as Patrick on the beloved comedy series Schitt s Creek. He received a Screen Actors Guild award alongside his castmates and was nominated three times for a Canadian Screen Award, winning the award for Best Supporting Actor/TV comedy once. He last starred in Brian Watkins Outer Range opposite Josh Brolin and I
+The Venice Film Festival serves up subdued style moments and loads of fashion parties. Sterling Point costume designer Marissa Schwartz chats about crafting the show s teen dream wardrobe of Chanel, Bode and thrifted finds for the Amazon show about summering in the Hamptons of the North. Plus, Buck Mason s executive vice president of womenswear design shares her vision for expanding the brand. Maggie Gyllenhaal attends the 15/18 (A Place to Heal) screening during the 83rd Venice International Film Festival on Sept. 4, 2026. Source: Getty The Venice Film Festival s Serious Fashion for Serious Times With fewer young Hollywood stars and studio blockbusters screening at the Venice Film Festival, there were fewer of the barely-there gowns and viral-bait fashion moments we ve come to expect. Perhaps it was a reflection of a more serious mood, befitting the politically charged times and the stunning lack of female representation in the competition, where only two of the 21 films are directed or co-directed by women, compared with six last year. The festival was presided over by a woman, at least. Jury president Maggie Gyllenhaal, a filmmaker herself, called the imbalance a systemic problem, adding, “It’s been such a short time that women have had the opportunity to make films at all. It will take some time to get used to the fact that many women make movies quite differently than men do.” Of course, women remain central to the glamour of the red carpet in Venice, even as they remain
 
-### Point Break TV Show Greenlit at AMC From Showrunners Dave Kalstein and Christopher C. Rogers
-Fri, 11 Sep 2026 18:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/point-break-tv-show-spinoff-amc/
+### The Housewife Director Says His Nazi Period Drama Echoes Today s Grossly Polarized World
+Sat, 12 Sep 2026 00:03:08 +0000 — https://www.thewrap.com/creative-content/movies/the-housewife-naomi-watts-ben-shirinian-tiff-interview/
 
-AMC will revive Point Break with a new series over three decades after the original film launched. AMC Global Media has greenlit a Point Break TV show for AMC and AMC+ set in present day, centered on a new heist crew with ties to the notorious Ex-Presidents gang. The series, which is produced by lead studio Alcon Television Group and co-producer StudioCanal, hails from showrunners and executive producers Dave Kalstein ( Treadstone, Quantico ) and Christopher C. Rogers ( Halt and Catch Fire, Sugar ). Set over 30 years after the events of the original 1991 film, a new heist crew has emerged and the FBI must rely on a mysterious ex-pro surfer with a checkered past to infiltrate them, per the logline. The first season, which consists of eight episodes, will go into production in early 2027. The series order comes several months after AMC announced the Point Break series was in development in late April, alongside a NASCAR show starring Dennis Quaid. Alcon co-founders and co-CEOs Andrew Kosove and Broderick Johnson also EP with Alcon Television Group head of television Ben Roberts and Julia Cohen. M-K Kennedy, Paul Gilbert and Daniel Gratton oversee Point Break for StudioCanal, which will handle international sales and worldwide distribution outside of the U.S. and Canada. Steven Johnson, Diego Piasek and Gene Hong will serve as co-executive producers, with Emily Yoshida and Ben Cook as supervising producers. “Start with one of the most entertaining and unforgettable action films 
+The Housewife director Ben Shirinian wanted to spotlight how hate can grow to be normalized in his new New York-set Nazi drama. While speaking in TheWrap’s studio at the Toronto International Film Festival on Friday, Shirinian broke down how his film – based on true events that took place in the 1960s – saw hate creeping out of the extraordinary and into everyday life. He added that today s grossly polarized world only emphasizes the parallels to the Naomi Watts-starring project s themes. I think we re living in a in a grossly polarized world right now, where we re seeing an upsurge of profound hatred of all kinds, including antisemitism and other forms of hate, Shirinian said. I was really interested in delving into the psychology of hate and how hatred could take hold, how we could become normalized, and what that could do to us. This became a story about how extraordinary evil can just hide behind this ordinary life, and I really took to some of the core themes in the story about how hate doesn t announce itself. It can hide behind familiarity until it slowly becomes ordinary. “The Housewife” is based on a true story from 1964 and “follows a determined young New York Times journalist (Ty Sheridan) as he tracks down a potential Nazi officer living secretly in Queens. But when he befriends the suspect’s elegant and charming wife (Naomi Watts), the implications of his investigation become much more unsettling.” As Shirinian worked with his cast on the film, he continued to re
 
-### The Best Movies About 9/11
-Fri, 11 Sep 2026 18:22:43 +0000 — https://www.thewrap.com/creative-content/movies/best-movies-about-9-11/
+### AI Creator Day Adds Adobe, Fox, IAB and More
+Fri, 11 Sep 2026 23:26:33 +0000 — https://www.thewrap.com/industry-news/business/ai-creator-day-adds-adobe-fox-iab/
 
-The 9/11 terrorist attacks 25 years ago marked one of the darkest days in American history. And like so much of American history, many tried to reckon with the loss, grief and anger of the time through art. For those who weren’t around then, it’s difficult to encapsulate the feeling of immense sadness that enveloped the country. A shadow loomed large for months, and in the immediate aftermath, we unsurprisingly turned to late night shows like “Saturday Night Live” and “The Daily Show With Jon Stewart” to start to usher in some semblance of entertainment normalcy, albeit with the still shaky sense that we weren’t quite sure how to operate like before. Indeed, there was no going back. The world was forever changed . There have been several films made about that time – some about the attacks themselves, some about the feelings we shared, and some about the United States’ military response. These are some of the best. United 93 United 93 (Universal Pictures) Perhaps the most visceral film made about 9/11, Paul Greengrass’ “United 93” came out in 2006, just a few years after the attacks. The film chronicles how the passengers of United Flight 93 learned of the World Trade Center attacks and stormed the cockpit of their plane, successfully thwarting the hijackers’ plans to head towards the White House. It was ultimately an act of immense bravery and sacrifice, as all aboard perished in a crash in a Pennsylvania field. Greengrass’ film takes a docudrama approach to the events, casti
+Hear directly from Fox on how a major studio is upskilling its creative teams for an AI-powered future, and from brands like Adobe and IAB shaping where the technology goes next, alongside voices from 11:11 Media, Fairground Entertainment and pocket.watch. Across conversations, workshops, live demos and creator showcases, they ll dig into the businesses forming around AI and the open questions of ownership, authorship and creative rights. The inaugural event in partnership with What’s Trending serves as the kickoff to TheGrill , TheWrap s flagship business and technology conference, taking place the following day at the DGA. Who You ll Hear From Conversation Who Decides What s Human? Karen Robinson, James Douglas and Rebecca Grone — moderated by Shira Lazar Platforms are under growing pressure to label AI-generated media, and creators are already seeing original work mislabeled — raising questions about authorship, consent, ownership and compensation. Karen Robinson, SVP and Deputy General Counsel at Adobe Inc., James Douglas, VP of the Experience Center for Creator Economy and Gaming at IAB, and Rebecca Grone, Head of Impact at 11:11 Media, take on whether content provenance offers a more reliable path to authenticity, what platforms and AI companies owe creators, and how to protect human work without shutting down experimentation. Moderated by Shira Lazar, host and co-founder of What s Trending. Conversation Rewriting the Studio Model: Upskilling Talent for an AI-Powered Fu
 
-### The Daily Show Roasts Trump s $5,000 Midterm Election Bribe as 2 Trips to the Grocery Store
-Fri, 11 Sep 2026 18:01:00 +0000 — https://www.thewrap.com/media-platforms/politics/the-daily-show-trump-5000-bribe-midterm-convention-groceries/
+### Trash Mountain Review: Caleb Hearon Finds Emotional Treasures in Moving, Mirthful Dramedy
+Fri, 11 Sep 2026 23:15:00 +0000 — https://www.thewrap.com/creative-content/movies/trash-mountain-review-caleb-hearon-movie/
 
-The Daily Show roasted President Trump over his promise this week to send $5,000 checks to every American adult if Republicans maintain control of the House and the Senate in this year s midterm elections, joking, $5,000?!? That s two trips to the grocery store! We re less than two months away from the midterms, which means you ve got just under 60 days to find out who your representative is and what Congress does, host Michael Kosta noted at the top of his Thursday night monologue. The comedian went on to roll a montage of news reports relaying that a majority of Americans disapprove of Trump s performance since retaking office. Americans are so unforgiving! You lose one war, you blow up one economy, you give people one explosive diarrhea? Get over it! Kosta joked. He then turned his attention to the Republican Party s first-ever midterm convention, which kicked off in Dallas on Wednesday. The convention featured an appearance from Ken Paxton, the Republican running in this year s Texas senate race. After watching a few clips from Paxton s convention speech, Kosta called the politician awful and a charisma black hole. However, as the host noted, Trump does not seem too worried about Paxton s mainstream appeal. You know what? Trump doesn t need Ken Paxton to keep the House and the Senate, Kosta said. He has a secret weapon, and it s called… a bribe. During his own speech, Trump promised to send $5,000 checks to American voters if — and only if — Republicans end up holding ont
+At first glance, Kris Rey’s Trash Mountain, the deeply felt dramedy about two siblings whose hoarder father dies and leaves them having to sort through the rubble of his life, could seem like countless other movies you’ve seen before. But the closer you look, the more you begin to see something quietly moving and mirthful emerge from within its familiar narrative beats. The key? Star and co-writer Caleb Hearon. For those who are unfamiliar, Hearon has steadily emerged as one of the funniest, most incisive voices in comedy working today. In addition to being a killer stand-up and storyteller — whose recent special, “ Model Comedian ,” was a true gem of the form — he’s also a naturally witty and earnest performer, making the most of a couple of moments in “ The Devil Wears Prada 2 .” But there has always been a sense that he’s deserving of bigger parts that make full use of his talents. That moment is now here with Trash Mountain. This film sees Hearon not just starring, but writing alongside his co-writer Ruby Caster, to wonderful results. Drawing from much of Hearon’s personal life surrounding the sudden death of his father , it has him bringing his same razor-sharp comedic voice and also stretching his writing muscles to tell a more sincerely bittersweet story of familial loss. Even as it can feel familiar in its broad narrative strokes, occasionally playing like a modern riff on Garden State, Hearon instills the film with such deep feeling and hilarious bite that you end up
 
-### Bleecker Street’s Crosswalk Acquires ‘Long Live Def Leppard’ Doc
-Fri, 11 Sep 2026 17:26:26 +0000 — https://www.thewrap.com/creative-content/movies/bleecker-street-crosswalk-long-live-def-leppard-documentary/
+### Josh Giuliano s Occupant Lands at Focus, Blumhouse Atomic Monster After Buzzy TIFF Debut River
+Fri, 11 Sep 2026 23:03:05 +0000 — https://www.thewrap.com/creative-content/movies/focus-blumhouse-josh-giuliano-film-tiff-premiere/
 
-Bleecker Street’s event cinema division Crosswalk has acquired the North American rights to the first-ever authorized feature length documentary on Def Leppard, the company announced Friday. Long Live Def Leppard is a complete and all-access account of the epic journey the band has taken from its humble beginnings in the U.K. to a global fandom that continues to today. The doc was directed by Jeff Feuerzeig ( The Devil and Daniel Johnston, Author: The JT LeRoy Story ), who also produced alongside Alice Rhodes and Sam Bridger for VICE Studios, Nicholas Ferrall and Jeanne Elfant Festa of White Horse Pictures, Danny Gabai of The Searchers Documentary Films, and Brian T. Nugent of Sobey Road Entertainment. The film is slated for an early 2027 release in theaters. With more than 110 million albums sold worldwide, two prestigious Diamond Awards in the U.S., and an induction into the Rock & Roll Hall of Fame, Def Leppard continues to make a lasting impact on rock music, pushing boundaries with their electrifying live shows. The official synopsis reads: After exploding onto the global rock scene with their hit albums Pyromania and Hysteria, the band faced two devastating chapters: drummer Rick Allen’s life-altering accident, which cost him his arm, and the loss of guitarist Steve Clark, whose anthemic and dynamic riffs earned him a permanent place among the guitar legends of all time. Those tragedies became defining moments in the band s history, as Def Leppard rebuilt themselves and
+Less than 24 hours after the world premiere of his buzzy feature debut River, writer-director Josh Giuliano already has his next horror movie lined up, TheWrap has learned. Giuliano s Occupant will be a collaboration between Focus Features (which has acquired worldwide rights), Blumhouse Atomic Monster, Divide/Conquer and Spooky Pictures. Plot details are being kept under wraps. The deal comes one year after the premiere of Obsession (another Focus/Blumhouse Atomic Monster collaboration) at last year s edition of Toronto International Film Festival. It s also the same day that Curry Barker and Inde Navarrette returned to the festival for an Obsession screening and on-stage conversation. Focus acquired Obsession out of TIFF last year, with the film going on to become the highest-grossing festival acquisition of all time at a $512 million global gross. While Giuliano s River already entered TIFF with IFC and Shudder attached for distribution, Focus and Blumhouse Atomic Monster will look to turn the filmmaker s coming sophomore feature into a horror hit. River opened TIFF s Midnight Madness section, which last year saw such films as Obsession and Nirvanna the Band the Show the Movie among its lineup. With all eyes on the section this year to find a prospective runaway hit, Midnight Madness programmer Peter Kuplowsky told TheWrap ahead of the festival that River was the one to watch. Josh is going to be a filmmaker that a lot of people are going to want to work with,” Kuplowsky s
 
-### Zooey Deschanel Says Trash Mountain Took Her to the Early Days of Her Career: What I Want to Get Back To
-Fri, 11 Sep 2026 17:17:14 +0000 — https://www.thewrap.com/creative-content/movies/zooey-deschanel-trash-mountain-wants-more-indie-roles/
+### Fjord Star Sebastian Stan Didn t Set Out to Play Another Conservative After Trump
+Fri, 11 Sep 2026 22:56:52 +0000 — https://www.thewrap.com/creative-content/movies/sebastian-stan-tiff-interview-donald-trump-conservative-characters/
 
-Zooey Deschanel has been professionally acting for nearly three decades now and, at this point, there s a certain kind of role that she s not seeing much anymore. Then Trash Mountain came around. According to the Almost Famous and (500) Days of Summer actress, it s exactly the type of thing she wants to get back to. Co-written by Caleb Hearon, who also stars as Deschanel s brother, Trash Mountain tells the story of two siblings who have to come back together after the death of their hoarder father. The siblings must sort through the baggage — both literal and emotional — in their father s home to find a crucial document, and along the way, figure out their relationship. It is directed by Kris Rey. I read the script, and I was just so touched by this story, Deschanel told TheWrap at TIFF following the film s world premiere. When I first started making films, it was all character-driven indie films, and there just wasn t a lot of this kind of stuff that I was getting to read for a really long time, she continued. And it took me back to the early days of my career, and made me think that is what I want to get back to. Granted, there were some bigger budget films in the early days of her career, like Elf, Failure to Launch and more, and she is best known at this point for starring in the TV series New Girl. After reading the script brought to her attention by producer Colin Trevorrow Deschanel actually met Hearon. According to the actors, the connection was immediate. Zooey is su
+Two years ago, Sebastian Stan starred as Donald Trump in The Apprentice, drawing reactions across the spectrum from fans and earning himself a Best Actor Oscar nomination in the process. Now, in his new movie Fjord, the actor is once again playing a conservative figure likely to draw criticism. But, according to the actor, he did not set out to play such divisive, conservative men back to back. In the film, Stan plays Mihai Gheorghiu, a conservative Christian who s relocated from Romania to an isolated Norwegian town with his wife (Renate Reinsve) and five children. The family is rigid in their beliefs and draws criticism from the town, especially when one of the kids has visible bruising, which Mihai owns up to being responsible for. Stopping by TheWrap s studio at the Toronto International Film Festival on Friday, Stan noted that there s not one specific draw that s pulled him toward playing controversial characters in the last few years. It s just how schedules worked out. To be honest, the timing of these movies was very serendipitous in a way, and then I m sometimes like, Look, how did this all happen?' he explained. You know, I ve been around trying to work with these guys, with these directors for so many years, and suddenly now is the time. I don t know! But I m grateful as an actor to be part of these important things that are happening right now, you know, these timely issues in Trump s America, Stan continued. We re living in crazy times, and again, I still think y
 
 ## Collider
 
-### The 10 Best Crime Shows With Less Than 20 Episodes, Ranked
-Fri, 11 Sep 2026 19:09:11 GMT — https://collider.com/perfect-crime-shows-shorter-than-20-episodes/
+### Russell Crowe's Star Studded Western Officially Hits a Bullseye on Free Streaming
+Sat, 12 Sep 2026 08:40:11 GMT — https://collider.com/russell-crowe-western-quick-and-the-dead-streaming-free-pluto-tv-september-2026/
 
-Crime is the most prevailing and popular genre on television, and has been for quite some time. There is no shortage of great crime shows that are worth recommending, but a vast majority of them also come with a hefty time investment that could seem intimidating. The Sopranos is a show that comes highly recommended, but its 86 episodes almost seem tame in comparison to the network procedurals that have libraries of hundreds.
+The Western genre was running on fumes by the 1990s, following a heyday that lasted several decades. That said, the '90s produced a handful of classics that are remembered to this day. Some of them, like Kevin Costner 's Dances with Wolves and Clint Eastwood 's Unforgiven , were both critically and commercially successful. Others, like the troubled Tombstone , did solid business at the box office and developed a cult following in the subsequent years. Even the costly misfire Wyatt Earp , which Costner developed as a rival project to Tombstone , has found an audience at home. One movie, however, remains the undisputed Western cult classic of the 1990s, and now it's streaming for free in the United States.
 
-### It’s Officially the End of an Era for Apple TV’s Mind-Melting 3-Part Sci-Fi Series
-Fri, 11 Sep 2026 18:59:40 GMT — https://collider.com/apple-tv-invasion-ending-season-3-shamier-anderson/
+### Chris Pratt’s $200M Sci-Fi Epic Is Officially a Prime Video Hit Ahead of Its Sequel
+Sat, 12 Sep 2026 08:20:11 GMT — https://collider.com/chris-pratt-sci-fi-the-tomorrow-war-streaming-success-prime-video-september-2026/
 
-It’s no secret that Apple TV has become the go-to streaming platform for all the best sci-fi shows. The streamer has found genre-defining hits with shows like Severance and Pluribus , but it also has hidden gems like Foundation and For All Mankind . HBO Max may be the streaming service that first comes to mind when someone asks about prestige dramas, but Apple TV officially has the streaming crown right now when it comes to sci-fi. Another exceptionally popular sci-fi series that’s blossomed under the watchful eye of Apple TV is Invasion , which hails from writers Simon Kinberg and David Weil . The show first premiered in 2021, and it aired new seasons in 2023 and 2025.
+2026 has been a roller-coaster of a year for Chris Pratt , who starred in one of the first big box office bombs of the year with Mercy . Pratt teamed up with Rebecca Ferguson for the AI sci-fi thriller, and although it underperformed at the box office, it did go on to become one of the most-watched movies of the year on Prime Video. Pratt swiftly found box office redemption with the release of The Super Mario Galaxy Movie , which was also the first feature film of 2026 to hit $1 billion at the global box office. He’s sticking to streaming projects in the second half of this year, as he returns to his role as James Reece in the second season of The Terminal List on Prime Video. He’s also starring in Way of the Warrior Kid on Apple TV.
 
-### Keanu Reeves' Best Crime Thriller Is Officially Getting a Sequel
-Fri, 11 Sep 2026 18:51:32 GMT — https://collider.com/point-break-sequel-series-amc/
+### Jon Bernthal’s 2025 Spy Thriller Is Officially Prime Video’s Biggest Sleeper Hit
+Sat, 12 Sep 2026 08:00:11 GMT — https://collider.com/the-amateur-streaming-hit-prime-video-september-2026/
 
-Keanu Reeves may be known for his action roles now, but back in 1991, he was most famous as time-travelling slacker Ted "Theodore" Logan in the Bill and Ted movies. That all changed with a crime thriller that made him a force to be reckoned in high-octane action roles. And now, that movie is finally getting a sequel.
+Although the likes of Tom Holland and Anne Hathaway are stealing the headlines, Jon Bernthal is quietly having the most impressive year of his career. In early 2026, Bernthal starred alongside Tessa Thompson in the surprise Netflix hit His & Hers , which became one of the streamer's most-watched original shows of all time, with more than 100 million views. Then came a quick string of must-watch performances in some of the biggest shows of the year, starting with a surprise prequel episode ahead of the return of Hulu and Christopher Storer ’s The Bear .
 
-### Prime Video's New Space Opera Sci-Fi Is Officially Losing Its Chart-Topping Status
-Fri, 11 Sep 2026 18:34:27 GMT — https://collider.com/prime-video-sci-fi-masters-of-the-universe-streaming-drop-september-2026/
+### Kyle Chandler's 'E.T.' Replacement Sci-Fi Hit Is Officially Streaming Free
+Sat, 12 Sep 2026 04:08:11 GMT — https://collider.com/kyle-chandler-lanterns-super-8-sci-fi-streaming-free-pluto-tv-september-2026/
 
-Sometimes, films that stumble at the box office can find a new audience. That seems to be the case with one of Amazon MGM Studios' most prominent releases of the summer movie season, which had a long string of streaming success. However, it seems to now be faltering, nearly two months after it hit Prime Video .
+Kyle Chandler , who first rose to fame with the 1996 CBS series Early Edition , is capturing viewer attention again with his unconventional turn as Hal Jordan in Lanterns . But it's not his first foray into the sci-fi genre, with a prominent role in the MonsterVerse franchise as Mark Russell in Godzilla: King of the Monsters and Godzilla vs. Kong , and a far, far less prominent one in the remake of The Day the Earth Stood Still . Most notably, three years after the latter (and 15 years before Lanterns ), Chandler starred in Super 8 , an underappreciated, Spielbergian sci-fi masterpiece that sees Chandler at his best . And it's currently streaming for free on Pluto TV.
 
-### 'Fire Country's Medical Spin-Off Is Officially Happening
-Fri, 11 Sep 2026 18:24:21 GMT — https://collider.com/fire-country-medical-spin-off-cast-noah-reid/
+### HBO's Underrated 'Sopranos' Episode Officially Put This 'Penguin' Star on the Map 20 Years Ago
+Sat, 12 Sep 2026 04:01:11 GMT — https://collider.com/hbo-sopranos-season-6-cristin-milioti-episode-steve-buscemi/
 
-CBS has shifted focus to expanding the universes of its current hits rather than developing new ideas from scratch each season. Many well-performing CBS shows have been considered for spin-offs, and one of the richest universes is that of Fire Country , the firefighter drama starring Max Thieriot . The series introduced viewers to Edgewater, a small town in Northern California with its own unique problems. It follows the members of Station 42, who are family in the broadest sense of the word.
+The big takeaway from The Penguin series was not the titular protagonist, but instead the character's criminal arch-rival, Sofia Falcone, played by Cristin Milioti . While she has been consistently exceptional, Milioti finally got the praise she deserves thanks to the HBO crime drama. It's hard to think of a more inspired beginning to one's career than Milioti, whose second screen credit saw her in a brief role in another HBO crime drama, The Sopranos . MIlioti appeared in an overlooked but remarkable episode, directed by Steve Buscemi , which displayed incredible insight into the show's thematic fabric.
 
-### 'Slow Horses' Star Officially Clarifies James Bond Comments
-Fri, 11 Sep 2026 18:14:30 GMT — https://collider.com/james-bond-rumors-explained-gary-oldman/
+### 'Ted Lasso' Season 4 Officially Rewrites the Show's Most Controversial Storyline
+Sat, 12 Sep 2026 03:48:11 GMT — https://collider.com/ted-lasso-season-4-episode-6-rewrites-michelle-controversial-storyline/
 
-The road to finding the next James Bond is in its final stretch, and things are getting tense. Rumors were already flying left and right about who was in the running to play the legendary 007 in Denis Villeneuve 's new film, but they soon went into overdrive when word of the official shortlist got out. Jack Barton , Jack Lowden , Callum Turner , Jacob Elordi , Paul Mescal , and Harris Dickinson are all the names currently attached to the coveted role, with Barton believed by some insiders to be the favorite after emerging from a global search for lesser-known stars. However, the race quickly took another sharp turn when Gary Oldman spoke up.
+Editor's note: The below contains spoilers for Ted Lasso Season 4 Episode 6.
 
-### Marvel Officially Reveals the Hulk's Replacement
-Fri, 11 Sep 2026 17:47:57 GMT — https://collider.com/marvel-comics-the-hulk-replacement-reactor/
+### HBO’s Near-Perfect 9-Episode Miniseries Became the Critics' Favorite When It Broke From the Formula
+Sat, 12 Sep 2026 03:41:11 GMT — https://collider.com/hbo-watchmen-miniseries-broke-formula/
 
-Bruce Banner has spent decades trying to contain the monster waiting beneath his skin, but the Hulk has never been easy to suppress for long. Whether Banner views him as a curse, a separate personality, or an essential piece of himself , Marvel’s Green Goliath has always represented the destructive power that erupts when Bruce finally loses control .
+There are certain IPs that you should only tackle if you're absolutely confident that what you deliver will be nothing less than a masterpiece. Watchmen is one of those. The original graphic novel is already an iconic comics story, so why would anyone ever mess with it? When HBO announced its own Watchmen series, fans were naturally worried for that exact reason . In the end, however, what Damon Lindelof did with the miniseries caught everyone by surprise, because it isn't an adaptation, nor a retelling, not even a proper sequel. Instead, it "remixes" the original similarly to how the graphic novel did to the real world back in 1985 , delivering an almost surrealist take on the modern zeitgeist that is damn near perfect.
 
-### ‘Marvel’s Wolverine’ Length Officially Makes Players Question $70 Price Tag
-Fri, 11 Sep 2026 17:46:11 GMT — https://collider.com/marvels-wolverine-players-canceling-preorders-reviews/
+### 10 Years Later, This Gritty Music Biopic Is One of the Biggest Streaming Hits in the World
+Sat, 12 Sep 2026 03:11:11 GMT — https://collider.com/straight-outta-compton-music-biopic-streaming-netflix-september-2026/
 
-Marvel’s Wolverine has spent five years becoming one of PlayStation’s most anticipated exclusives, but its arrival may not be the victory lap some players expected. Reviews for Insomniac Games’ latest Marvel adventure dropped this week , with the game earning plenty of praise for its brutal combat and treatment of Logan while exposing some divisive design decisions. With its September 15 release now only days away, those criticisms are beginning to affect how certain players plan to experience Marvel's Wolverine .
+Everyone bemoans the music biopic and its hackneyed tropes, but there's a reason why studios keep churning them out: As seen with Michael , which became the rare non-franchise/IP movie to gross over $1 billion , these films routinely print money. Globally beloved music artists like Michael Jackson and Queen are IP in their own right, and these films often draw a massive audience simply because they include hits from the artist's catalog. Every once in a while, though, audiences are blessed with a music biopic that hits like a great pop song you could listen to over and over again. Straight Outta Compton , released in 2015, didn't try to upend the genre notorious for its rigid archetypes; instead, director F. Gary Gray ( who, before helming studio blockbusters, directed countless '90s rap/R&B music videos, most notably Ice Cube's "It Was a Good Day") told the story of N.W.A. , and its star rappers Eazy-E , Dr. Dre , and Ice Cube , with integrity, pristine craft, and a genuine passion for the rap group's work and their importance to the music industry . Now available to stream on Netflix, where it's among the top 10 most-streamed films in the company's library, Straight Outta Compton still hasn't missed a beat.
 
-### 'Hogwarts Legacy 2' Reveal Officially Divides Harry Potter Fans
-Fri, 11 Sep 2026 17:45:43 GMT — https://collider.com/hogwarts-legacy-2-announced-fan-reactions/
+### Keanu Reeves' Bonkers 79% RT Fantasy Finds Redemption on Streaming
+Sat, 12 Sep 2026 03:09:11 GMT — https://collider.com/keanu-reeves-good-fortune-prime-video-streaming-september-2026/
 
-Hogwarts Legacy gave longtime Harry Potter fans the chance to attend classes, explore Hogsmeade, and cause an alarming amount of chaos throughout the Scottish Highlands. However, once its central mystery was solved, many players felt its enormous recreation of the Wizarding World had little left to offer . Three years later, Warner Bros. is preparing to send players back to Hogwarts .
+Keanu Reeves is one of those actors who's effectively beloved by everybody. In addition to being well-liked throughout his career and developing a reputation for being a down-to-earth person— as well as the source of the most wholesome meme of all time —he's also an iconic action star, with John Wick being a career-defining role, even after having plenty of other famous characters named John in his demo reel. However, while that's become the role modern audiences associate him with, it's easy to forget how funny Reeves can be when given the right material, especially as a reflection of his real-life persona. So it's welcome news that people are rediscovering his funny side with his most recent film, Good Fortune , which is currently among the top five most popular films streaming on Prime Video.
 
-### New James Bond Reboot Officially Scores Biggest Script Update Yet
-Fri, 11 Sep 2026 17:45:25 GMT — https://collider.com/new-james-bond-movie-script-complete-steven-knight/
+### After ‘Reacher’s Season 4 Finale, Start Binging Prime Video’s Stellar 4-Part Action Thriller
+Sat, 12 Sep 2026 02:44:11 GMT — https://collider.com/reacher-replacement-series-jack-ryan-prime-video-action-genre/
 
-Ever since Daniel Craig 's final bow as James Bond in No Time to Die in 2021, fans of the long-running action franchise have been waiting for the next installment. Five years later and counting, and they're still waiting. However, there is light at the end of the tunnel, courtesy of screenwriter Steven Knight : he has an encouraging update about the film's progress.
+Reacher is considered to be one of Prime Video's top TV shows, thanks to the brutal fight scenes that protagonist Jack Reacher ( Alan Ritchson ) finds himself embroiled in and the simple yet compelling idea of Reacher wandering the United States while delivering his own brutal brand of justice. The results speak for themselves: not only does Reacher top Prime Video's streaming charts with each new season , but the fourth season is now heading toward its finale. And while the end of Season 4 may leave fans wanting more, Prime Video isn't exactly leaving them empty-handed.
 
