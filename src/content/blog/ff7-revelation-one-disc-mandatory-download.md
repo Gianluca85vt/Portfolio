@@ -4,7 +4,6 @@ date: 2026-09-12
 category: Games
 excerpt: Square Enix is shipping the FF7 trilogy finale on a single Blu-ray you cannot play until it finishes downloading. The arithmetic is worth following.
 cover: /img/blog/ff7-revelation-one-disc-mandatory-download/shot-01.jpg
-draft: true
 ---
 
 Naoki Hamaguchi confirmed this week that the physical edition of Final Fantasy
