@@ -1,9 +1,14 @@
-# Manga — harvested 2026-09-12T16:30:32.331Z
+# Manga — harvested 2026-09-12T18:45:30.841Z
 
 ## Anime News Network
 
+### Japan's Video Game Rankings, August 31-September 6
+Sat, 12 Sep 2026 14:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/japan-video-game-rankings-august-31-september-6/.241658
+
+<cite>Onimusha: Way of the Sword</cite> PS5 version debuts at #1, Switch 2 version at #3
+
 ### Japanese Animation TV Ranking, August 31-September 6
-Sat, 12 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/japanese-animation-tv-ranking-august-31-september-6/.241659
+Sat, 12 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/japanese-animation-tv-ranking-august-31-september-6/.241659
 
 <cite>From Old Country Bumpkin to Master Swordsman</cite> season 2 earns 2.4% rating
 
@@ -57,16 +62,16 @@ Sat, 12 Sep 2026 06:50:33 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Takanori Nishikawa, DayRe perform theme songs for anime debuting on October 7
 
-### Please Excuse My Younger Brothers TV Anime Reveals New Opening Theme Artist, Special Promo Video
-Sat, 12 Sep 2026 06:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/please-excuse-my-younger-brothers-tv-anime-reveals-new-opening-theme-artist-special-promo-video/.241690
-
-Neguse performs new opening theme song for show's 2nd part
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Diablo Animated Series Announced for Netflix & Now in Development at Blizzard, Diablo V Set for Spring 2029
+Sat, 12 Sep 2026 18:44:30 GMT — https://animecorner.me/diablo-animated-series-netflix/
+
+Blizzard Entertainment and Netflix are developing a new animated series set in the world&hellip;
 
 ### BLEACH: Thousand-Year Blood War Delays Episodes 49 and 50 to October "to Improve Quality"
 Sat, 12 Sep 2026 14:40:59 GMT — https://animecorner.me/bleach-thousand-year-blood-war-delays-episodes-49-and-50-to-october-to-improve-quality/
@@ -123,12 +128,12 @@ Fri, 11 Sep 2026 15:22:36 GMT — https://animecorner.me/jaadugar-a-witch-in-mon
 
 Jaadugar: A Witch in Mongolia anime released the synopsis and preview for Episode 12, which will be the finale of the Science SARU series.
 
-### Press Conference: Sparks of Tomorrow ED Artist Ginger Root & Art Director Mao Takayama
-Fri, 11 Sep 2026 14:00:34 GMT — https://animecorner.me/press-conference-sparks-of-tomorrow-ed-artist-ginger-root-art-director-mao-takayama/
-
-Sparks of Tomorrow is a bright and inventive contribution to this season's stacked list&hellip;
-
 ## MyAnimeList News
+
+### Grotesqqque Reveals Supporting Cast, Trailer for "Yoroshiku★Shoujo" Segment
+Sat, 12 Sep 2026 10:55:08 -0700 — https://myanimelist.net/news/74709373?_location=rss
+
+The Aniplex One Focus 2026 event revealed supporting cast for the Grotesqqque original anime movie and a trailer for its Yoroshiku★Shoujo segment on Saturday. The three-story omnibus movie will premiere in Japanese theaters on November 6. Cast Mitoge: Youko Hikasa (Kaoru Hana wa Rin to Saku) Mimosa: Riho Sugiyama (Amagami-san Chi no Enmusubi) Kava: Ayaka Ohashi (Akame ga Kill!) Shouta Horie (Shiunji-ke no Kodomotachi), Yuyoyuppe (Mob Psycho 100), Ayato Shinozaki (Kage no Jitsuryokusha ni Naritak...
 
 ### Bless Reveals Main Cast, Character Promo, Winter 2027 Debut
 Sat, 12 Sep 2026 04:27:03 -0700 — https://myanimelist.net/news/74707781?_location=rss
@@ -186,13 +191,5 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-### ARRIETTY comes to IMAX® for the very first time in the UK and Ireland in October
-Thu, 10 Sep 2026 17:00:45 +0000 — https://animeuknews.net/2026/09/arrietty-comes-to-imax-for-the-very-first-time-in-the-uk-and-ireland-newly-remastered-in-4k-in-october/
-
-ARRIETTY will release in IMAX and cinemas both in the original Japanese with English subtitles and the 2011 English dub produced in the UK
-
-### Crunchyroll Announces Acquisition and Theatrical Dates for New Anime Feature Film WITCH ON THE HOLY NIGHT
-Thu, 10 Sep 2026 16:30:43 +0000 — https://animeuknews.net/2026/09/crunchyroll-announces-acquisition-and-theatrical-dates-for-new-anime-feature-film-witch-on-the-holy-night/
-
-Crunchyroll and Sony Pictures Entertainment will bring the latest project from famed animation studio ufotable to cinemas from 29th January, 2027
+_Nothing in the last 48 hours._
 

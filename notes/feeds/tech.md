@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-12T16:30:32.331Z
+# Tech — harvested 2026-09-12T18:45:30.841Z
 
 ## Ars Technica
 
@@ -64,6 +64,11 @@ Almost a hundred years ago, physicists theorized out what free fall should do to
 
 ## The Verge
 
+### Sylvan Esso think you should splurge on good-quality yogurt
+2026-09-12T12:35:00-04:00 — https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music
+
+Sylvan Esso preparing to attend a frutiger aero renfaire. Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single " Hey Mami ." Over the years, they've put out a number of excellent records, dabbling in dustier, more fragile textures on Free Love , going dancier and glitchier on No Rules Sandy . The two are constantly pushing at the edges of their sound while retaining the core of what makes a Sylvan Esso record sound like a Sylvan Esso record. Their new album Ow &infin; , released this past Friday, represents perhaps the boldest reinvention of their sound, how … Read the full story at The Verge. ]]>
+
 ### Anthropic CEO says it’s time to pump the brakes on AI
 2026-09-12T12:23:40-04:00 — https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development
 
@@ -108,11 +113,6 @@ Two days after being placed on a paid leave of absence, Matt Mullenweg says he h
 2026-09-11T12:22:24-04:00 — https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms
 
 You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's launch event: how John Ternus did in his first appearance as CEO, what we make of the new iPhones, and whether Apple is stepping into dangerous territory with its new AI features on the Apple Watch. First up, Allison Johnson joins me to discuss the new iPhones, which she had a chance to test in Cupertino. Both of us have some questions about the new variable aperture camera on the iPhone 18 Pro - and whether the real upgrade s … Read the full story at The Verge. ]]>
-
-### The White House says Truth Social is the ‘most powerful and popular social media platform in the world’
-2026-09-11T12:21:19-04:00 — https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful
-
-The White House claims the Donald Trump-owned Truth Social is the "most powerful and popular social media platform in the world." The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest social media platforms on the web. Data gathered by Search Engine Land shows YouTube is the most popular platform in the world, with 2.65 billion monthly active users. Facebook comes in second with 2.39 billion active users around the globe, followed by TikTok with 2.21 billion and Instagram with 1.99 billion. Truth Social doesn't make Search Engine Land 's top 10 list, wh … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +178,11 @@ The GeForce RTX 5090 is already at the pinnacle of the best graphics cards . How
 
 ## Phoronix
 
+### Debian 13.7 Released With Many Bug Fixes
+Sat, 12 Sep 2026 13:06:53 -0400 — https://www.phoronix.com/news/Debian-13.7-Released
+
+For those wanting the freshest Debian 13 "Trixie" install media, Debian 13.7 is out today in bundling up all the latest bug and security fixes...
+
 ### Void Linux Maintainer Orphans 100+ Packages Over AI Policy Dispute
 Sat, 12 Sep 2026 11:11:26 -0400 — https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan
 
@@ -233,74 +238,41 @@ Fri, 11 Sep 2026 09:21:42 -0400 — https://www.phoronix.com/news/Mold-Linker-In
 
 The Mold high performance linker that typically outperforms the likes of LLVM lld, GNU LD, Wild, and others is being rewritten in the Rust programming language and also has an ambitious goal of being adopted as the default linker on Linux systems...
 
-### Prominent Mesa Developer Now Working For Arm On PanVK & Panfrost Code
-Fri, 11 Sep 2026 08:55:26 -0400 — https://www.phoronix.com/news/Erik-Faye-Lund-Mesa-Arm
-
-Erik Faye-Lund who has contributed to the Mesa 3D graphics driver stack working on areas like Zink and most notably the PanVK Vulkan and Panfrost Gallium3D drivers forr Arm Mali hardware is now working directly for Arm...
-
 ## The Register
 
-### Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late
-Sat, 12 Sep 2026 15:26:00 +0200 — https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986
-
-Nvidia spent a whopping $20 billion late last year to license Groq’s AI accelerator tech and hire away key members of its engineering team in an everything-but-the-kitchen-sink deal. The acquihire technically left Groq’s core inference-as-a-service business intact, but was clearly architected in such a way as to fly under regulators' radar. Only it didn’t. This week, The New York Times reported that the US Department of Justice had launched an antitrust probe into the deal. It’s hard to argue that Nvidia didn’t strip the startup for parts. It may not have been a merger in the traditional sense, but without its engineering staff, Groq may as well be Nvidia’s puppet at this point. Despite this, Nvidia contends the deal is a great American success story. “The Groq story is a prime example of the American system working as designed to promote innovation, reward entrepreneurs, and benefit consumers. The law is designed to encourage America's startup ecosystem and promote the fundamental rights of inventors and workers to pursue their dreams,” an Nvidia statement provided to El Reg and other media reads. Whether the acquihire of Groq actually harmed competition is another matter entirely. But, even if the Justice Department did force Nvidia to unwind the team, it’s probably too late. What exactly did Nvidia buy? Nvidia’s Groq acquihire bought it two key assets: mature silicon and the talent necessary to continue its development. Groq – which, by the way, is completely unrelated to 
-
-### Dell's 52-inch enormo-monitor is a tsunami of impractical fun
-Sat, 12 Sep 2026 13:20:00 +0200 — https://www.theregister.com/personal-tech/2026/09/12/dells-52-inch-enormo-monitor-is-a-tsunami-of-impractical-fun/5290753
-
-FIRST LOOK Dell's UltraSharp 52 display is a joyously enormous head-turner, but probably too much monitor for most users. Dell debuted the display at the CES show earlier this year. It's now on sale for $3,000. Sadly, I lack a PC capable of driving the screen at its full 6144 x 2560 resolution and 120 Hz refresh rate. Even at a miserly 3840 x 2160, however, I often marveled at how much it could display. Consider the screenshot below, which shows 50 columns and 89 rows of a single Excel spreadsheet – 4,450 cells in total. Here's another look at the monitor in full flight: a screen grab of Zwift, the virtual cycling metaverse I visit regularly as part of my exercise routine. At that size, Zwift felt more immersive and enjoyable than it does on a smaller screen. The display also handled motion smoothly during Zwift. other games, and streamed video. Getting used to it It took me a while to appreciate the monitor. When I first plugged it in, my occasionally-stiff middle-aged neck strained as I swiveled to view content at the edges and corners, while wielding my mouse to move its pointer between the screen's extremities felt like flapping my arms. My eyes didn't enjoy the experience at first either. I wear mild reading glasses while working, and found myself repeatedly refocusing as I looked across the curved display. For the first few days I spent with the screen, I therefore practiced "pillarboxing" – running the display at 3840 x 2160 and only using the center of the monitor whi
-
-### The aircraft might not be flying, but the certificate has gone on vacation
-Sat, 12 Sep 2026 11:00:00 +0200 — https://www.theregister.com/offbeat/2026/09/12/the-aircraft-might-not-be-flying-but-the-certificate-has-gone-on-vacation/5295622
-
-BORK!BORK!BORK! We still don't know what caused the air traffic control mayhem in the UK in early September, but one information board at Luton Airport appears to have gone out in sympathy. Spotted by Register reader Mark, the digital sign usually shows passenger information. Today, however, it looks like either the system clock is wrong or someone has forgotten to renew a server certificate. It's not the usual "DNS. It's always DNS," but not far off. For those blissfully unaware, the UK's air traffic control system has had a bad week. A glitch in National Air Traffic Services (NATS) resulted in thousands of flight cancellations and travel disruption for around 330,000 passengers. And it appears whoever is running this information board at Luton has done the computing equivalent of "anything you can do I can do better." Luton Airport is a base for the likes of Ryanair and easyJet. Its logo looks like someone was playing Tetris when they were asked to dream up the branding, and it celebrated 5.5 million passengers passing through over the summer. The airport was not spared the chaos, along with many others, but the good news is that our reader's flight departed on time, and a delicious, cold adult beverage was waiting at the destination. For others wondering what has become of their flight, it's good to see that the information boards are already in another time zone, or whoever is responsible for keeping the server certificate valid has taken a well-earned vacation. Nobody re
-
-### AI more likely to kill animals if it saves fuel or money
-Fri, 11 Sep 2026 23:49:59 +0200 — https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993
-
-Amid debate about whether AI will kill everyone as a result of continuous self-improvement, it appears that models will kill animals in a simulated environment rather than spend extra fuel avoiding them. Some models did so at strikingly high rates. Researchers affiliated with Compassion Aligned Machine Learning (CaML) and the University of Warwick in the UK set out to measure the extent to which AI models demonstrate compassion. They describe their work in a preprint paper titled "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals." "In AI systems, we don't believe people are taking AI character evaluations very seriously," Jasmine Brazilek, CaML co-founder and head of evaluations and data, told The Register in an interview. So Brazilek, along with Miles Tidmarsh, Matthias Endres, Anshuman Singh, and Jeremiah Miller, devised a benchmark test called HarvestBench to evaluate the price that AI models put on the life of an animal. The test suite is based on a prior multi-agent farm simulation game called Harvest Rush that uses Inspect, a model evaluation framework developed by the UK AI Security Institute. HarvestBench assesses how AI agents treat animals while tasked with harvesting corn. The simulation imagines a crew of between two and eight LLM-driven tractors working a farm. The tractors traverse a field with rocks, bales of hay, and animals – farm animals and wild ones – that wander across the tractors' path. The game is set up to measure whether t
-
-### More JFrog Artifactory bugs under attack, and all 3 have patches
-Fri, 11 Sep 2026 19:43:30 +0200 — https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943
-
-JFrog Artifactory instances continue to get hit hard. Multiple attackers are exploiting three JFrog Artifactory bugs to gain administrative control over vulnerable instances - in some cases, just days after the vendor published a patch - and then using this illicit access to install malicious plugins and backdoors. The three vulnerabilities are: CVE-2026-42018 is a high-severity, improper authentication flaw that can return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled. An attacker can use this token to authenticate to the repository manager and then access sensitive resources. JFrog patched this vulnerability on August 12. CVE-2026-42016 is a high-severity privilege-escalation bug. Artifactory doesn’t properly validate the token’s scope, and this can allow an attacker with low-privileged access to elevate privileges and perform actions that they should not be allowed to do. JFrog fixed this one on July 27. CVE-2026-82329 is a critical authentication-bypass vulnerability that allows unauthenticated attackers with network access to obtain administrative privileges. JFrog published a patch for it on August 28. Earlier this month, security researchers told The Register that miscreants began battering internet-exposed systems vulnerable to CVE-2026-82329 just four days after JFrog disclosed the bug. In addition to creating new administrative credentials, watchTowr’s honeypot network caught miscreants “enumerating users, groups, cr
-
-### Mars astronauts could live in houses made of yeast and jello, say scientists
-Fri, 11 Sep 2026 18:50:01 +0200 — https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931
-
-If humans ever make it to Mars - and that’s still a big IF - they will need to build shelters there. And they could build those shelters out of yeast and gelatin, if a method described by Hong Kong-based researchers makes it out of the lab. A paper published on Thursday by a group of researchers from The Hong Kong University of Science and Technology and The Hong Kong Polytechnic University describes a method for building structures on Mars that doesn’t rely on energy-intensive heating to turn regolith into building blocks. The team instead turned to bioengineered yeast and gelatin mixed with simulated Mars dirt to 3D print structures. "My inspiration came from freeze-dried fruits that become harder,” senior author Jishen Qiu, an associate professor at The Hong Kong University of Science and Technology, told Cell Press, the publisher of the paper. Qiu’s idea is a relatively simple one once you break it down: Take one part yeast bioengineered to produce adhesive proteins that bind the components. Combine with artificial gelatin hydrosol to serve as a growth medium for the yeast. Add plain old Martian dirt, and extrude the material through a 3D-printing nozzle. If everything works as intended, the recipe should create a foamy substance that, when exposed to the dry, cold Martian atmosphere, essentially freeze-dries. As the ice sublimates into vapor, you should be left with a light, porous, but incredibly strong material. According to the researchers, that’s exactly what they go
-
-### Disembodied fruit fly brain joins the crypto speculation swarm
-Fri, 11 Sep 2026 18:03:00 +0200 — https://www.theregister.com/offbeat/2026/09/11/disembodied-fruit-fly-brain-joins-the-crypto-speculation-swarm/5295914
-
-If you want to understand how 2026 is going, in March The Register reported that scientists had connected a simulated fruit fly brain to a virtual body and let it wander around a virtual world. Now another simulated fly nervous system is trading crypto. Behold Stonkfly, the brainchild of Coinbase software engineer Alex Wormuth. His X post boasted: "I gave the fly brain $100 to trade bitcoin. Dopamine neurons are stimulated when the fly makes profit. Neuron activity controls buy/sell decisions and makes trades on coinbase. Will the fly get rich?" Well, all we can say is Alex should question his life choices. But really, more stupid things have happened this year, like the US president suggesting he could bring in the military to correct a misbehaving bond market. Keen readers will recall that researchers at Eon Systems took several preexisting components: a fruit fly brain scan, a tool for modeling neurons, a model of some of the fly's muscles and body, and a very simple virtual environment. After connecting them, the team claimed that the result displayed some of the behavior of a real insect. Stonkfly is different. It uses a model of a male fly's brain and ventral nerve cord, rather than the female brain scan used in the earlier experiment. It has no body, and engineered interfaces feed it market information and translate neural activity into trading decisions. The explanation on GitHub – it is an open source project – makes clear that the model uses engineered reinforcement
-
-### AT&T store worker gets 16 months inside for SIM-swap side hustle
-Fri, 11 Sep 2026 17:16:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/11/att-store-worker-gets-16-months-inside-for-sim-swap-side-hustle/5295898
-
-A former AT&T retail worker who used his system access to hijack customers' phone numbers for cybercriminals has been sentenced to 16 months in federal prison. Kenneth Carter, 44, carried out the SIM swaps at a store in Portland, Oregon, , allowing the criminals to intercept authentication codes and raid victims' bank accounts. Court documents show that Carter worked with at least three other people in the scheme, which ran between May 2018 and November 2019, and caused nearly $600,000 in intended losses. Co-conspirator One, described in court documents as the operation's main "hacker," identified victims with online bank accounts, gathered their personal data, and sent it to Carter, who could reassign their phone numbers. Carter abused his access to AT&T's systems to transfer victims' phone numbers to devices controlled by the other criminals. His role was described as "instrumental to the scheme." Co-conspirator Two and Co-conspirator Three would walk into the store and impersonate the victim whose number they planned to SIM-swap, and Carter would reassign the number to a phone they controlled – usually a "cheap flip phone." Once the swap was complete, the criminals could use the flip phone to intercept SMS-based 2FA codes and password reset messages, take over the victim's bank account, and steal funds. The intercepted codes were relayed to Co-conspirator One, who used them to access the victims' bank accounts. Court documents also refer to "an unnamed family member" who h
-
-### Higher prices can't crimp server sales as AI drives demand
-Fri, 11 Sep 2026 16:27:00 +0200 — https://www.theregister.com/systems/2026/09/11/higher-prices-cant-crimp-server-sales-as-ai-drives-demand/5295827
-
-While high memory costs have hurt PC shipments, the server market continues to grow as AI infrastructure spending spreads beyond hyperscalers to corporate and government buyers. According to market intelligence firm IDC, the second quarter was a bumper one for the server sector, with vendor revenue reaching an all-time high of $166.3 billion. That was a 52 percent increase from the same period last year. The picture for servers therefore differs from that for laptops and desktops. There, unit shipments have fallen as buyers are discouraged by higher prices, driven by shortages of memory components. Yet higher prices have helped larger vendors sustain their revenue. In contrast, server shipments increased by 15.4 percent year-on-year in Q2, despite average selling prices being pushed up by elevated memory pricing and continued supply issues with other components. IDC said average selling prices increased across both GPU-accelerated and non-accelerated systems. Average selling prices for GPU-accelerated servers rose by nearly 44 percent to $170,200, even as GPU unit shipments fell 10.8 percent year-on-year. For non-accelerated systems, average pricing was up by more than 33 percent to nearly $13,000. AI infrastructure investment from hyperscalers and large cloud providers remains the largest source of demand, IDC observes. GPU-accelerated servers for the AI market made up nearly 53 percent of total revenue during Q2. However, it also says that AI server adoption is broadening b
-
-### Britain's technology brief is now everyone's job and nobody's responsibility
-Fri, 11 Sep 2026 15:12:00 +0200 — https://www.theregister.com/public-sector/2026/09/11/britains-technology-brief-is-now-everyones-job-and-nobodys-responsibility/5295849
-
-OPINION "Where do we put digital government? You know, all those billions we spend on consultants and legacy systems?" "Oh, that! Put it with sports and tourism. And something we're calling 'place'." It might be a fictional conversation between a SpAd* and a mandarin**, but in reality, the outcome is more or less the same. With the arrival of Andy Burnham as UK prime minister came a shake-up of responsibilities in Whitehall, leaving responsibility for science, technology, and government tech scattered across several departments and eliminating the dedicated technology ministerial role. Shortly after the changes were announced in July, Dame Chi Onwurah, chair of the House of Commons Science, Innovation and Technology Committee, wrote to the government asking for an explanation. The government had yet to confirm what the new roles and responsibilities meant in practice, and there was no news on ministerial portfolios, she said. Now a joint letter from the ministers leading three departments attempts to answer Onwurah's questions. It brings clarity only by laying bare the government's confused thinking and lack of credibility. Take space, for example. The letter says BIST aims to "support companies from breakthrough ideas and research excellence through to commercialization, scaling and exporting, and to fortify the UK's global leadership in this space." When it comes to literal space, however, responsibility falls to Baroness Lloyd of Effra. A law and history graduate, Lloyd wo
-
-### Ukrainian lawyer's second career as a Conti coder earns him 4 years behind bars
-Fri, 11 Sep 2026 14:15:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841
-
-A Ukrainian lawyer who wound up coding malware for the Conti ransomware gang has been sentenced to four years in a US prison. Oleksii Oleksiyovych Lytvynenko, 44, pleaded guilty in June to conspiracy to commit wire fraud over his role in Conti, the Russia-linked ransomware operation associated with more than 1,000 victims and at least $150 million in ransom payments. Lytvynenko took an unusual route into the ransomware business. The Ukrainian national, who later lived in Cork, Ireland, trained as a lawyer before joining Conti as an intruder and developer. According to his plea agreement [PDF], Lytvynenko operated under the handle "henry" and joined a team run by another Conti conspirator known as "silver" or "buza." He was recruited to help with coding and directed to work on a malware loader – software designed to get other malicious code running on a victim's machine. Prosecutors said his Google account showed he had also been doing some homework. Investigators found books and videos about malware and hacking alongside Conti malware, ransom notes, and stolen victim data. Prosecutors said he also used Google and ZoomInfo to research potential targets. Lytvynenko wasn't confined to writing code, according to the filing. Evidence from his online accounts showed that he possessed data stolen from eight US victims and four overseas, with the eight American victims reporting more than $1.5 million in losses. Court documents identify several Bitcoin transfers tied to his Conti wor
-
-### EU's Cyber Resilience Act starts the 24-hour vulnerability clock
-Fri, 11 Sep 2026 13:34:41 +0200 — https://www.theregister.com/security/2026/09/11/eus-cyber-resilience-act-starts-the-24-hour-vulnerability-clock/5295821
-
-Manufacturers selling products with digital elements in the EU must now report actively exploited vulnerabilities to cybersecurity authorities under the Cyber Resilience Act's mandatory reporting rules. The reporting duties set out in Article 14 of the CRA became applicable today. Subject to the regulation's exemptions, they apply to manufacturers of products with digital elements made available in the EU, regardless of where those manufacturers are based. Manufacturers must submit an early warning within 24 hours of becoming aware of an actively exploited vulnerability, followed by a more detailed notification within 72 hours. The same deadlines apply to severe incidents affecting the security of products with digital elements. The only difference in timing is related to the final report. Manufacturers must provide a final report on an actively exploited vulnerability within 14 days of making a corrective or mitigating measure available. For serious incidents, the final report is due one month after the first report. Darren Anstee, CTO for security at Netscout, said the reporting deadlines introduce much-needed urgency in working toward global cyber resilience. "The 24-hour window in which an initial warning must be reported creates a level of urgency, with subsequent deadlines ensuring that the gathering and release of additional information is prompt," he said. "Better, more rapid sharing of information helps organisations put defences and mitigating controls in place when
+_Nothing in the last 48 hours._
 
 ## Engadget
+
+### How to add your driver's license to Apple Wallet and where you can use it
+Sat, 12 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2252801/how-to-add-drivers-license-apple-wallet/
+
+Your Apple Wallet can hold more than cards; those in certain states can also store a digital copy of their driver's license.
+
+### LG denies accusations of smart TVs continuously recording its users
+Sat, 12 Sep 2026 18:17:55 +0000 — https://www.engadget.com/2256728/lg-denies-accusations-of-smart-tvs-continuously-recording-its-users/
+
+The company said that user privacy is a "fundamental principle" of its products.
+
+### The benefits of leaving your VPN on all the time
+Sat, 12 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2252795/leaving-vpn-always-on-benefits/
+
+Using a VPN has plenty of benefits, but should you have yours enabled all the time? Think carefully about what yours is doing to decide.
+
+### How Much Solar Power Do You Actually Need For An RV?
+Sat, 12 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2252792/how-much-solar-power-for-rv/
+
+The power of the sun can keep your RV running, but before you get too comfortable with solar panels, you need to calculate how much power they need to generate.
+
+### Anthropic's CEO proposes a three-step plan to curb AI development
+Sat, 12 Sep 2026 16:37:31 +0000 — https://www.engadget.com/2256718/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development/
+
+Dario Amodei said that "we owe it to humanity to try."
+
+### How to share your iPhone's location for just as long as you need
+Sat, 12 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2252782/how-to-share-iphone-location-find-my-for-as-long-needed/
+
+For some time, Find My sharing was limited to an hour, a day, or indefinitely. That's changing in iOS 27, thanks to more flexible timelines.
 
 ### Is a free VPN worth using? Here's why it could be risky
 Sat, 12 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2252776/is-free-vpn-worth-using-risks-explained/
@@ -331,36 +303,6 @@ After a few days of testing Meta's AI agent Muse. I can confirm that there is ve
 Sat, 12 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2252763/how-google-maps-knows-businesses-packed/
 
 Instead of relying on intuition or sheer luck to find local venues and restaurants capable of hosting you, Google Maps can take away the guesswork.
-
-### Is a 256GB SSD better than a 1TB hard drive? It depends how you're using it
-Sat, 12 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2252762/256-gb-ssd-vs-1-tb-hard-drive-which-better/
-
-Should you choose a smaller SSD for speed or a larger HDD for storage space? The answer depends on what you prioritize.
-
-### Get the best battery life for your Windows laptop by changing these settings
-Sat, 12 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2252761/best-battery-life-for-windows-laptop-settings/
-
-Windows laptops aren't known for having excellent battery life, but a lot of that is because of unoptimized settings. Change these for big improvements.
-
-### Engadget review recap: Lenovo ThinkPad X1 Carbon, Insta360 Luna Pro and more
-Sat, 12 Sep 2026 12:15:00 +0000 — https://www.engadget.com/2255874/engadget-review-recap-lenovo-thinkpad-x1-carbon/
-
-A roundup of recent reviews from Engadget.
-
-### GameCube vs PS2: Which retro console is more powerful?
-Sat, 12 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2252758/gamecube-vs-ps2-which-retro-console-more-powerful/
-
-The GameCube and PS2 had different strengths in their exclusive libraries and extra features, but which one had more horsepower for rendering games?
-
-### Wardogs, Valheim 1.0 and other new indie games worth checking out
-Sat, 12 Sep 2026 11:30:00 +0000 — https://www.engadget.com/2256410/wardogs-valheim-1-0-and-other-new-indie-games-worth-checking-out/
-
-Our weekly indie games roundup includes a double deckbuilder, capybara puzzles and an undead William Wallace.
-
-### Moss developer Polyarc has closed
-Fri, 11 Sep 2026 21:58:32 +0000 — https://www.engadget.com/2256562/moss-developer-polyarc-has-closed/
-
-The studio produced some early hits for the PSVR and Oculus Quest.
 
 ## TechCrunch
 
