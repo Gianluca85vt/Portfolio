@@ -1,6 +1,16 @@
-# Games — harvested 2026-09-12T13:44:06.808Z
+# Games — harvested 2026-09-12T16:30:32.331Z
 
 ## Eurogamer
+
+### UK studio Bulkhead's Wardogs sells over a million copies and tops 350,000 concurrent players on launch day
+Sat, 12 Sep 2026 15:43:49 +0000 — https://www.eurogamer.net/wardogs-million-copies-sold-steam-early-access
+
+Wardogs, the new tactical shooter from Derby-based studio Bulkhead, has sold more than a million copies and passed 350,000 concurrent players within hours of launching into Steam early access. Read more
+
+### Scalpers are already reselling the sold-out Zelda 40th Anniversary Switch 2 for £700+
+Sat, 12 Sep 2026 15:14:54 +0000 — https://www.eurogamer.net/zelda-40th-anniversary-switch-2-scalpers-ebay-resale
+
+Nintendo's new Legend of Zelda 40th anniversary Switch 2 sold out within hours of preorders opening, and scalpers are already scalping, with dozens of orders popping up on eBay for close to double its retail price. Read more
 
 ### BlizzCon 2026 Opening Ceremony live report - all the news and announcements as Blizzard's convention returns
 Sat, 12 Sep 2026 11:41:58 +0000 — https://www.eurogamer.net/blizzcon-2026-announcements-live-report-starcraft-diablo-overwatch-wow
@@ -52,16 +62,6 @@ Fri, 11 Sep 2026 16:14:51 +0000 — https://www.eurogamer.net/google-fly-brain-d
 
 It's science-fiction Friday as Google's fully mapped fly brain , which was revealed last week, has been engineered to play Doom and rhythm-action game Beat Saber . Read more
 
-### Sony reportedly ditched Hideo Kojima's Physint following missed deadlines, bloated budgets, and Death Stranding 1&2 missing sales expectations
-Fri, 11 Sep 2026 15:38:12 +0000 — https://www.eurogamer.net/sony-cancelled-physint-budget-profitability-exclusivity-missed-deadlines
-
-Following Sony's announcement earlier this week that it had "stepped away" from Kojima Production's previously PlayStation-exclusive "action espionage" Physint, a new report has claimed Sony's decision was the result of concerns over "budget, potential profitability and exclusivity." Read more
-
-### Pokémon Go and EA FC could be "under one roof", as EA and Saudi-owned Savvy Games Group reportedly considering merger
-Fri, 11 Sep 2026 14:18:19 +0000 — https://www.eurogamer.net/ea-savvy-games-group-reported-merger-saudi-arabia-pif
-
-Saudi Arabia's Public Investment Fund (PIF) is reportedly considering combining EA - which it acquired in a $55bn leveraged buyout earlier this year - with its Savvy Games Group, all under one banner. Read more
-
 ## GamesIndustry.biz
 
 ### Goodwill Hunting: Consoles’ brand value and loyalty is being tested | Opinion
@@ -99,21 +99,16 @@ Fri, 11 Sep 2026 08:27:29 +0000 — https://www.gamesindustry.biz/saber-interact
 
 Saber Interactive's chief creative officer, Tim Willits, has said that the company has "no real development in North America any more." Read more
 
-### No More Robots' nine-year journey to releasing its first self-developed IP – "This sounds so naive and stupid, but somehow it's working"
-Thu, 10 Sep 2026 16:15:33 +0000 — https://www.gamesindustry.biz/no-more-robots-nine-year-journey-to-releasing-its-first-self-developed-ip-this-sounds-so-naive-and-stupid-but-somehow-its-working
-
-It's been nine years since Mike Rose set up the indie publisher No More Robots . Read more
-
-### GTA 6 Netflix preview drove more than 100,000 sign-ups during its six-hour exclusivity window
-Thu, 10 Sep 2026 13:50:35 +0000 — https://www.gamesindustry.biz/gta-6-netflix-preview-drove-more-than-100000-sign-ups-during-its-six-hour-exclusivity-window
-
-Rockstar's preview of Grand Theft Auto 6 on Netflix generated over 100,000 sign-ups in the US during its six-hour exclusivity window on August 27, making it the platform's third-largest subscriber spike in 2026, according to Ampere Analysis. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Poll: Are You Hyped for These 10 New PS Plus Games?
+Sat, 12 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games1
+
+Plus or minus? 10 new games are being added across PS Plus Extra and PS Plus Premium this month, but compared to August's super strong offering , I can see September's lineup being met with some criticism. Honestly I'm not quite sure what the headline act is for Extra this time around. Co-op survival RPG RuneScape: Dragonwilds launches straight onto the subscription service — and it's highly rated on PC — but I can't see it appealing to everyone. Read the full article on pushsquare.com
 
 ### Guide: These 25+ PS5 Games Are Coming Out Next Week (14th-20th September)
 Sat, 12 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-25plus-ps5-games-are-coming-out-next-week-14th-20th-september
@@ -170,11 +165,6 @@ Thu, 10 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/09/josh-h
 
 Lost in the clouds. Bandai Namco really is going all-out for Ace Combat 8: Wings of Theve . Not only is the title itself stepping things up with big jumps in visuals and the largest multiplayer component the series has ever seen, but the publisher is splashing the cash on things like this: a live action mini-series that acts as a prequel to the upcoming game's story. Read the full article on pushsquare.com
 
-### Review: Marvel s Wolverine (PS5) - The Ultimate Wolverine Simulator
-Thu, 10 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/reviews/ps5/marvels-wolverine
-
-Bloody nora, bub. Marvel’s Wolverine is a great video game. If such a thing could be looked up in the dictionary, you’d find Logan and his bared claws staring back. In fact, I can’t remember a time when our own review scoring policy has described a game better: Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### An honest opinion or defamation? A solicitor outlines the legal nuance
@@ -201,11 +191,6 @@ We sit down with Doom Eternal art director Tony Garza and fellow id alum Richard
 Thu, 10 Sep 2026 17:18:45 GMT — https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator
 
 EA says it's using the tech to expand on recording sessions with John Buccigross and Darren Pang's 'full consent and active collaboration.'
-
-### 'Justice at last feels within reach:' Fired Rockstar workers rally in Glasgow as union busting tribunal begins
-Thu, 10 Sep 2026 13:48:57 GMT — https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins
-
-The hearing is expected to conclude on October 16, 2026.
 
 ## VGC
 
@@ -244,17 +229,27 @@ Thu, 10 Sep 2026 18:22:02 +0000 — https://www.videogameschronicle.com/news/ama
 
 Amazon Prime subscribers can claim the games to keep via its Luna service… Source
 
-### Marvel’s Wolverine Review: Uninspired gameplay leaves Logan feeling declawed despite a strong narrative
-Thu, 10 Sep 2026 15:00:20 +0000 — https://www.videogameschronicle.com/review/marvels-wolverine-review-uninspired-gameplay-leaves-logan-feeling-declawed-despite-a-strong-narrative/
-
-Insomniac's latest is a visual stunner, but the gameplay doesn' Source
-
-### Nintendo announces a Customer Appreciation Sale in America, says its tariff refunds made it possible
-Thu, 10 Sep 2026 14:24:22 +0000 — https://www.videogameschronicle.com/news/nintendo-announces-a-customer-appreciation-sale-in-america-says-its-tariff-refunds-made-it-possible/
-
-The sale starts on Saturday and offers 30% off digital and physical products… Source
-
 ## Polygon
+
+### How to Watch BlizzCon 2026 and What to Expect
+Sat, 12 Sep 2026 16:12:16 GMT — https://www.polygon.com/blizzcon-2026-schedule-when-live-stream-start-time/
+
+This weekend, Blizzard will host BlizzCon 2026 , where fans can expect a plethora of announcements for franchises like World of Warcraft, StarCraft, Overwatch, and Diablo. While fans can attend the show in person, those not able to make it to the Anaheim Convention Center can tune in online to watch some of the convention's events.
+
+### Why Na Hong-jin Ditched Slow-Burn Horror for a Breakneck Monster Movie
+Sat, 12 Sep 2026 16:01:14 GMT — https://www.polygon.com/hope-director-interview-na-hong-jin/
+
+For the movie's U.S. release, Polygon hopped on a Zoom with Hong-jin to talk all things Hope — its breakneck pacing, the years-long process of designing its unique creatures, what it means to make an action spectacle after building one of the most distinctive thriller filmographies in modern cinema, and the director's emphasis on achieving a sense of "speed" above all else.
+
+### The ‘World’s First Soulslike FPS’ Is a Brutally Fun Take On the Apocalypse
+Sat, 12 Sep 2026 15:01:13 GMT — https://www.polygon.com/guns-of-eschaton-preview-gamescom-2026/
+
+Turning a first-person shooter into a Soulslike isn't just a matter of giving enemies more health. Sure, they'd be tougher to kill, and difficulty is synonymous with Soulslike games, but all you need to do is use more ammo to defeat them. Instead, Guns of Eschaton uses specific weak points on enemies that you're encouraged to target. Shooting them anywhere will deal a little damage, but if you hit a foe's weak point, indicated by makeshift bandages on various limbs, you'll deal considerably more damage.
+
+### Anne Hathaway's Next Movie Might Just Be the Sexiest Thriller of 2026
+Sat, 12 Sep 2026 14:00:14 GMT — https://www.polygon.com/verity-director-interview-preview/
+
+Based on the best-selling book by Colleen Hoover, Verity stars in Verity as an injured, best-selling writer whose husband, Jeremy (Josh Hartnett), hires a struggling writer, Lowen Ashleigh (Dakota Johnson) to help finish his wife's book. But the more Lowen learns about Verity, the scarier the situation becomes. Don't worry, this isn't some blood-soaked slasher. Director Michael Showalter describes it to Polygon as more of a "twisted, dirty thriller."
 
 ### Ace Combat 8’s Developers Are on a Mission To Create the Perfect Clouds
 Sat, 12 Sep 2026 13:00:15 GMT — https://www.polygon.com/ace-combat-8-wings-of-theve-cloud-interview/
@@ -286,27 +281,37 @@ Sat, 12 Sep 2026 08:00:14 GMT — https://www.polygon.com/steps-netflix-intervie
 
 Alyce Tzue always loved fairy tales, but growing up as the only Asian kid in a homogeneous community in New Jersey, she worried she would never find her happily ever after. Instead of seeing herself in Cinderella, Tzue wondered why her stepsisters didn’t get their own magic. Now she’s teaming up with Raya and the Last Dragon co-director John Ripa to tell their story as co-director of the Netflix animated movie Steps .
 
-### 10 NES Games That Are Still Worth Playing From Start to Finish
-Sat, 12 Sep 2026 07:00:16 GMT — https://www.polygon.com/best-nintendo-nes-games/
-
-On October 18, 1985, the Nintendo Entertainment System launched in North America with a limited selection of games like Super Mario Bros. and Excitebike . Within a few years, it had a library of hundreds of titles, proving that rumors of the video game industry’s death throughout the early ‘80s were greatly exaggerated. Today, many of those early games feel like antiques. They’re not nearly as memorable as they once were, with so many generations of newer software to choose from. But there are some that still deserve your attention, even now. Here are 10 NES games that are still worth playing from start to finish.
-
-### Stephen King's Next Book is the Long-Awaited Conclusion To A 42-Year-Old Trilogy
-Sat, 12 Sep 2026 05:00:14 GMT — https://www.polygon.com/stephen-king-talisman-3-trilogy/
-
-There aren't many parts of Stephen King 's bibliography that you can realistically call "obscure." As one of the most famous novelists on Earth, and perhaps the single most famous living horror novelist, even King's lesser-known works are usually best-sellers.
-
-### 34 Years Later, the Best 'Calvin and Hobbes’ Quote About the Meaning of Life Is Still Second to None
-Sat, 12 Sep 2026 04:30:14 GMT — https://www.polygon.com/calvin-and-hobbes-best-quote-meaning-of-life/
-
-While I’m sure I read it earlier, it wasn’t until I was an adult that I learned to appreciate the open-ended beauty of the last Calvin and Hobbes comic, which features the titular duo sledding off into a snowy white wilderness, suggesting that, even though the strip has ended, Calvin and Hobbes’ adventures, and their friendship, endure.
-
-### 62 Years Later, Clint Eastwood's Genre-Redefining Western Is Officially Free on Streaming
-Sat, 12 Sep 2026 04:00:18 GMT — https://www.polygon.com/a-fistful-of-dollars-clint-eastwood-free-to-stream/
-
-As the glory days of classic Westerns began to fade in the 1960s, so did some of the romance associated with it, bringing about the more complex, morally ambiguous “Revisionist Westerns.” One of the most important films from the early days of the Revisionist Western is 1964’s A Fistful of Dollars starring Clint Eastwood in his first major film role. It’s directed by Italian filmmaker Sergio Leone. A Fistful of Dollars is currently available for free on YouTube and is a can’t-miss for film fans — even those that aren’t so into Westerns. That’s mainly because A Fistful of Dollars is also a solid crime and action story that just so happens to take place in the Old West.
-
 ## PC Gamer
+
+### Square Enix scrambles to fix Final Fantasy 14 bug where new beastmaster could crash entire servers
+Sat, 12 Sep 2026 15:23:03 +0000 — https://www.pcgamer.com/games/mmo/square-enix-scrambles-to-fix-final-fantasy-14-bug-where-new-beastmaster-could-crash-entire-servers/
+
+Final Fantasy 14's latest job has just hit the proverbial shelves, and you know what that means: emergency maintenance to fix an extremely bizarre bug. On Sep. 8, the same day that the new beastmaster class dropped, Square Enix had to quickly patch out a bug where "if the player's character leaves the area due to a connection loss at the moment the pet uses a weapon skill that restores its master's HP, the server may crash." Yes, this bug wasn't crashing the player's own game, but the server. While it's a pretty fringe set of circumstances that have to line up, it's easily replicated with a cheeky pull of one's ethernet cable, so it makes sense that Square Enix scrambled to address this before it became a catastrophe. If you're unfamiliar with the beastmaster, it's one of the game's "limited jobs" along with the blue mage—basically, they are classes that can't be used to clear the main story quest or endgame dungeons, but they get a bunch of unconventional abilities to futz around with. They are broadly accessible side novelties, and with everyone piling in to check out the new one, it could have been a disaster had this bug been allowed to fester. It's not the first time Square Enix has had to tackle a bizarre bug in the MMO. Just last year it won the coveted " Most Specific Bug Fix in a MMO " award from PC Gamer's Harvey Randall. With that one, players could get disconnected from the server if they listed an auction house item in a specific zone with an asking price set "be
+
+### GTA: London 1961 is full of cockney innuendo and harder than a bobby’s helmet
+Sat, 12 Sep 2026 15:20:27 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-london-1961-is-full-of-cockney-innuendo-and-harder-than-a-bobbys-helmet/
+
+Weird Weekend Weird Weekend is our regular Saturday column where we celebrate PC gaming oddities: peculiar games, strange bits of trivia, forgotten history. Pop back every weekend to find out what Jeremy, Josh, Ted, and Rick have become obsessed with this time, whether it's the canon height of Thief's Garrett or that time someone in the Vatican pirated Football Manager . In the wake of GTA 6, series veterans will wax nostalgically about the era of Rockstar expansion packs. No sooner had you finished The Lost and Damned, they'll tell their nurse in between spoonfuls of prunes, The Ballad of Gay Tony landed on your hard drive. There was none of this 'waiting a decade for a new GTA' nonsense. Fewer will remember the first age of Grand Theft Auto, when even the expansion packs had expansion packs. Really—GTA birthed GTA: London, which in turn begat GTA: London 1961. The latter was released for free online in the summer of 1999, where only a subset of disc-spinning PC gamers were ever likely to find it. Which might have been for the best. Because GTA: London 1961 is perhaps the most punishing visit to the British capital ever conceived. Even including 28 Days Later, and the press reception of Meghan and Harry. (Image credit: Rockstar) The original Grand Theft Auto already demanded a lot from its players—splicing a nascent open world structure with the limited lives and scorechasing of the arcades. To pass a given level, you'd need to complete several back-to-back chains of mission
+
+### Final Fantasy 14's funky new roguelike mode has me hyped for Evercold's combat revamp, which'll be a winner if it's even half as weird
+Sat, 12 Sep 2026 15:20:20 +0000 — https://www.pcgamer.com/games/mmo/final-fantasy-14s-funky-new-roguelike-mode-has-me-hyped-for-evercolds-combat-revamp-whichll-be-a-winner-if-its-even-half-as-weird/
+
+Terminally Online (Image credit: Future) This is Terminally Online : PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive into mechanics we've all taken for granted, and, occasionally, bringing in guest writers to talk about their MMO of choice. I've had a little time to muck around with Final Fantasy 14 's new Beastmaster limited job—for the uninitiated, a limited job is sort of like a minigame. Not an actual class you can take into current raids or dungeons, but a side-activity that uses the game's combat system to create something new. The Beastmaster can tame and use creatures in combat. And for the first 30 levels, I was mostly just filling out my little book of monsters in a pleasant haze. I like the job's core combat mechanics, which involve pairing up axe strikes with specific monster abilities to form combos, but grinding in the overworld doesn't do much to show that off. Where the Beastmaster really shines is in the Crucible of the Unbroken, the limited job's roguelike mode. I was mostly expecting a straightforward list of bosses to push over via FF14 fun, but played-out combat mechanics, and there is some of that demand. But it's mixed with an overarching minigame of strategy and ability usage that has me watering at the mouth for whatever strange, eldritch things Evercold is cooking up. For context, Evercold will be introducing "Evolved" jobs —a means to escape the gam
+
+### The Blood of Dawnwalker is a good game, but one change would make it a great RPG
+Sat, 12 Sep 2026 15:00:00 +0000 — https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-is-a-good-game-but-one-change-would-make-it-a-great-rpg/
+
+Dungeon Master (Image credit: Future) Welcome to Dungeon Master , PC Gamer's regular RPG column, where Online Editor Fraser Brown delves into PC gaming's most beloved and enduring genre. Grab a seat in our badly-lit tavern and please ignore the goblin puke. The Blood of Dawnwalker is good stuff—over the course of a week I drank deeply and had a grand ol' time walking on walls and carving people up with my monstrous claws. But as a choice-laden RPG that promised a lot of agency, it ended up being a bit of a disappointment. There were plenty of choices to be made, but rarely did they leave an impact on either the world or the white bread protagonist, Coen of Laslea. Rebel Wolves made Coen in the mold of Geralt of Rivia, in that he's a defined character who you can nudge in different directions, but Coen is no Geralt. (Image credit: Rebel Wolves) By The Witcher 3 , CDPR had the two previous games to lean on, along with a boat-load of books, which helped the studio create a well-defined, consistent character no matter what choices you made. Coen, on the other hand, is just at the start of his journey , and in Dawnwalker, his defining feature is that he loves his family. Look, I don't mind Coen. Will de Renzy-Martin gave a good performance, but it's hard to do much with a character who's just a nice boy. And while the writers did some interesting stuff in regards to Coen's childhood trauma and his obligation to his family—is it love, or is he trapped in a prison of responsibility?
+
+### BlizzCon 2026 Opening Ceremony live coverage and how to watch—what's next for Warcraft, Overwatch, Diablo, and StarCraft
+Sat, 12 Sep 2026 14:37:21 +0000 — https://www.pcgamer.com/gaming-industry/news/live/blizzcon-2026-opening-ceremony-live-coverage-whats-next-for-warcraft-overwatch-diablo-and-starcraft/
+
+BlizzCon 2026 kicks off today with the Opening Ceremony at 10:30 am PT , where we're expecting major announcements about what the next several years hold for the developer. The festivities can be viewed in the player above, or on YouTube here. There are rumors that a new StarCraft game will be announced, and Blizzard has lightly teased the possibility. There's also been lots of chatter about possible a new spin on World of Warcraft: Classic, which players are referring to as "Classic Plus." Beyond that, expect news about Overwatch, Hearthstone, and Diablo. It's been three years since the last BlizzCon in 2023, so the developer has had some time to cook. I'm on scene at the convention in Anaheim, and will be reporting the big news from the Opening Ceremony in the live blog below, adding information I've gathered here wherever I have it. Look for deeper coverage on the big announcements throughout the coming week. September 12, 2026 – 10:36 AM RTS or FPS? A StarCraft FPS has been rumored for a bit now, but speculation has also gone on regarding the possibility of a new StarCraft RTS. If you can only have one, which are you picking? September 12, 2026 – 10:46 AM If there were any doubt... (Image credit: Future) ...That a StarCraft announcement is imminent, its presence on a huge banner among Blizzard's other major series may put that to rest. I was also handed this mini when I checked in: (Image credit: Blizzard) ]]>
+
+### Starfinder: Afterlight, a CRPG based on one of my favourite systems that pulled in almost $1 million on Kickstarter, is starting to look ship-shape
+Sat, 12 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/rpg/starfinder-afterlight-a-crpg-based-on-one-of-my-favourite-systems-that-pulled-in-almost-usd1-million-on-kickstarter-is-starting-to-look-ship-shape/
+
+I've been keeping a close eye on Starfinder: Afterlight for a few reasons—firstly, I'm a Pathfinder 2e sicko, and Starfinder 2e works on a ton of the same rules. Secondly, because I love a good CRPG, and thirdly, because this game has a surprising amount of financial and voice acting heft behind it. After getting a surprising €828,164 (around $960,000) funded out of a humble €75,000 ask on Kickstarter , the game managed to snag Red Dead Redemption's Arthur Morgan for its narration . It also just so happens to be getting voice direction from Neil Newbon, who you might know as Astarion from Baldur's Gate 3 —and the man's voicing an interstellar priest bug, which is as charming as it sounds. Alongside some promising key art, I was curious to see if Epicteller Game's debut game could put another solid CRPG on the market—and after going through the playtest, I was rendered… cautiously optimistic . What I played was very rough around the edges, missing features, customisation, and so on. I shan't say its official demo, which is now out on Steam , has quelled my apprehension completely. It has, however, left me feeling like Epictellers can pull this thing together with enough polish, given the marked improvement from the playtest I enjoyed in March. First up, the bad: It still runs terribly, and doesn't have any graphical settings at all yet, animations for combat are a touch clunky, and you can't make a custom character—which is a huge draw of any CRPG, though you can pick from thr
 
 ### CD Projekt wanted to put a chain weapon in The Witcher 3 years ago, but it's taken until Songs of the Past because it was 'impossible to do at the time'
 Sat, 12 Sep 2026 13:21:15 +0000 — https://www.pcgamer.com/games/the-witcher/cd-projekt-wanted-to-put-a-chain-weapon-in-the-witcher-3-years-ago-but-its-taken-until-songs-of-the-past-because-it-was-impossible-to-do-at-the-time/
@@ -338,42 +343,12 @@ Fri, 11 Sep 2026 21:28:13 +0000 — https://www.pcgamer.com/games/action/modder-
 
 You've no doubt spent dozens of hours in GTA 5 doing millions of dollars of property damage with your fleet of speeding vehicles and arsenal of deadly weapons. But what if you could do something good for the city of Los Santos while still satisfying your insatiable bloodlust and appetite for destruction? For example, blowing up and running down a couple hundred Flock cameras. Thanks to the GTALPR mod (which stands for Grand Theft Automated License Plate Reader), you can! The mod adds 235 Flock cameras to GTA 5, and in the modder's words, you can "do whatever the flock you want" to 'em. Shoot 'em. Smash 'em. Take 'em out with cars and tanks and shotguns. And you can even make a tidy profit while fighting back against the surveillance state. What's especially cool about GTALPR, created by modder Morry, is that these cameras aren't just static props, they actually work. They'll photograph you as you drive past them, and you can save and format these photos for social media or your own scrapbook. The cameras will also alert the cops to your location, sometimes even if you're not breaking any laws—just like real Flock cameras are prone to do, because they suck. Destroying the Flock cameras drops a bundle of components you can sell for extra cash, a nice bonus at $600 a pop. And if you want to go on a rampage, "there is built-in speedrun functionality, with a stats screen tracking number of cameras destroyed, and fastest time to destroy 10, 50, or all cameras," Morry says. That's r
 
-### Wolverine review roundup: Frankly, we're starting to feel a little better about the whole 'PlayStation 5 exclusive' thing
-Fri, 11 Sep 2026 21:17:15 +0000 — https://www.pcgamer.com/games/action/wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better-about-the-whole-playstation-5-exclusive-thing/
-
-Reviews for Insomniac's long-awaited Wolverine are out, and, well, it's not great. I mean that in the very literal sense: It's fine—good, even, at least in some ways—but it's not great , and that's a problem for a game that was positioned as one of Sony's biggest PlayStation 5 exclusives of the past few years. The bar was high, and the ol' Canucklehead didn't quite clear it. This is especially unwelcome news for PlayStation right now, given that its plate is already pretty full with other bad news. The platform's live service travails have gotten so far out of hand that it's managed to kill Destiny 2 , and there's a reasonable expectation that Bungie itself might not be too far behind. More recently, it pulled a massive botch with Hideo Kojima's Physint that led to the auteur partnering with Xbox on the project instead. Sony may have had its reasons for pulling the plug , but strictly from a PR perspective, that's the kind of self-own that leaves a deep scar. Similarly, the company is taking heat for its decision to end physical disc production in 2028, a move that may be rationally defensible but is nonetheless really pissing a lot of people off . And now, this: A major PS5 exclusive that's landed with all the grace of an egg chucked at a school bus. Because of its platform exclusivity, we can't tell you what we think of the game, except that we're feeling a little better about not getting it. We can, however, tell you what other sites think of it, so let's do that. "Missing
-
-### OpenAI employee takes down ChatGPT-coded RuneScape clone following Jagex cease-and-desist
-Fri, 11 Sep 2026 21:07:32 +0000 — https://www.pcgamer.com/software/ai/openai-employee-takes-down-chatgpt-coded-runescape-clone-following-jagex-cease-and-desist/
-
-OpenAI employee Rohan Varma has taken down the browser-based, AI-coded RuneScape clone called Elderwood following negative attention from the RuneScape community and a cease-and-desist request from developer Jagex. Varma did not post video footage of Elderwood in action, but screenshots on his X profile (via Eurogamer ) show a game with extremely similar graphics and UI to Old School RuneScape. Elderwood further had identical place names to OSRS, including the celebrated Lumbridge, and Varma explicitly described it as an OSRS clone in some of his posts. Varma is a developer on OpenAI's Codex project, a coding-focused AI tool he used to build Elderwood. Varma uploaded his first X post about Elderwood on September 6. On September 7, user Nutty103X shared a post to the OSRS subreddit calling attention to Elderwood. Nutty103X called for Jagex to C&D the clone game, and most commenters expressed similar sentiments or criticism of Elderwood's quality and originality. On the same day, Varma shared a post noting "a spike in users earlier today because we accidentally went viral on the OSRS subreddit." According to Eurogamer, Elderwood was taken down at some point on September 9, with the browser-based game replaced with a farewell message from Varma . "We received a notice from Jagex asking us to take down the website," the message reads. "Following that notice, we are discontinuing Elderwood’s operation, and the game is no longer available. "Elderwood began as a browser-based multip
-
-### Nightdive officially confirms Thief Remastered is coming with a new campaign, The Tarnished Mirror
-Fri, 11 Sep 2026 19:06:25 +0000 — https://www.pcgamer.com/games/fps/nightdive-officially-confirms-thief-remastered-is-coming-with-a-new-campaign-the-tarnished-mirror/
-
-In a brief teaser on YouTube , Nightdive Studios acknowledged the new Thief campaign that was leaked in the recent Steam achievements fiasco. The studio confirmed its name, The Tarnished Mirror, and promised that we would learn more on November 2. The video is a bit of good natured "aw, shucks," showing a pileup of posts about the leaked campaign (including one of PC Gamer's). It ends with the remaster's new key art of Garrett by artist Alexandru "Dominus" Negoita and a logo for Thief: The Dark Project Remastered - The Tarnished Mirror paired with audio of Garrett saying "Huh, not so secret anymore." I'm 99.9% sure that this is a pre-existing line from the games, and not a new recording by legendary voice actor Stephen Russell. When achievement-tracking site Exophase somehow got its hands on a trove of 'cheevos for unreleased (even unannounced) games, most attention fell on the likes of Persona 6. But I lost my shit at the reveal of a number of Thief Remastered achievements referring to the yet-to-be-revealed Tarnished Mirror expansion. Exophase has since cleaned up the most spoilery stuff, but you can still see the original list in all its glory on The Wayback Machine . I was already excited for this remaster of one of my all-time favorite games, but the fact that it's coming with a new, official expansion after 28 years is next level. Granted, there are already more great fanmade levels for Thief than time to play them in this life or the next, and the best of the best, lik
-
-### Roblox games are escaping Roblox: Creators will soon be able to export standalone apps for PC, console, and mobile
-Fri, 11 Sep 2026 19:00:00 +0000 — https://www.pcgamer.com/software/platforms/roblox-games-are-escaping-roblox-creators-will-soon-be-able-to-export-standalone-apps-for-pc-console-and-mobile/
-
-Roblox, as we know, is a behemoth. Industry analyst Matthew Ball, now chief strategy officer at Xbox, said in 2025 that Roblox accounted for more player engagement and revenue growth than Steam, PlayStation, and Fortnite combined . Now it's looking to expand its reach even further by giving Roblox creators the ability to release their work as standalone games. Part of Roblox's immense popularity can be attributed to the fact that it's not just a game, it's a platform where people can create and share their own games, and earn money on them. That's a limiting factor—some games on Roblox are huge, but they're still fenced into that specific ecosystem—but the new initiative revealed during the Roblox Developers Conference called Roblox Everywhere aims to change that: "Soon, creators will have the option to make their games available as standalone apps across mobile, PC, and consoles, with Roblox powering the technology and services underneath." The first, most obvious question is whether these standalone creations can be offered on storefronts like Steam, Epic, and GOG, and details on that are still being nailed down. A Roblox rep told PC Gamer that having them available on storefronts across all platforms is the goal, but options are still being explored: "We will start with a select set of gaming developers and storefronts to test, and we will share more details soon." This is a significant move, with potentially major impact. Roblox is obviously the big dog but there are stil
-
-### 'We're not giving away pistols and cocaine to people': Miami Beach votes in favor of Grand Theft Auto 6 collab despite concerns
-Fri, 11 Sep 2026 18:35:30 +0000 — https://www.pcgamer.com/games/grand-theft-auto/were-not-giving-away-pistols-and-cocaine-to-people-miami-beach-votes-in-favor-of-grand-theft-auto-6-collab-despite-concerns/
-
-Despite vocal opposition from some commissioners, the city of Miami Beach has voted in favor of a Grand Theft Auto 6 promotional campaign that will see Rockstar drop a reported $3 million on the city in exchange for what looks to be some surprisingly light-touch advertising. The vote on the proposal was streamed on September 10 on the City of Miami Beach YouTube channel , and it was close, finishing at 4-3 in favor. Opposition to the campaign was rooted in familiar concerns about the nature of the GTA games themselves: Violent, criminal, and just a bad influence all around. "Grand Theft Auto is an adult videogame where players steal cars, deal drugs, commit robberies, murder civilians, and assassinate police officers," commissioner David Suarez said to kick things off. "That's their right. They can make it, they can sell it, and they can advertise it. But that doesn't mean that the city of Miami Beach has to help them do it. "We ask our police officers every day to put themselves in harm's way protecting this community. We spend enormous resources fighting drugs, violent crime, and disorder. And we've spent over a million dollars over the past three years on a spring break marketing campaign trying to move Miami Beach away from an image of chaos and lawlessness. Now, we're going to take our beaches, one of the most recognizable symbols of this city, and turn them into a space for Grand Theft Auto. What kind of message are we sending to the world?" Suarez also played a montage
-
-### If you use devcommands to cheat in Valheim but want your achievements anyway, you can get them by using the new devcommand 'yesiuseddevcommandsbutiwantmyachievementsanyway'
-Fri, 11 Sep 2026 17:35:37 +0000 — https://www.pcgamer.com/games/survival-crafting/if-you-use-devcommands-to-cheat-in-valheim-but-want-your-achievements-anyway-you-can-get-them-by-using-the-new-devcommand-yesiuseddevcommandsbutiwantmyachievementsanyway/
-
-After five years in early access, Valheim 1.0 finally launched this week with its final biome, a new boss, lots of extra weapons, armor, and monsters, and more than 50 achievements—though those cheevos were locked up tight if you used the command console to activate cheats. That just changed, at least for Steam users. Twin patches were released for Valheim today containing a handful of bug fixes and tweaks, and one big change to achievements. "The fixes include a function to let you opt into using achievements even though you have been blocked from doing so because of previous usage of devcommands," developer Iron Gate says. "We will leave it to your own judgement whether or not to activate this function–Oden will surely know if you use it dishonourably." This new command is just for players on Steam, and it rolls right off the tongue: "Achievements can now be opted into even if you have used devcommands or mods by the new devcommand 'yesiuseddevcommandsbutiwantmyachievementsanyway'." If you're new to using cheats in Valheim, by the way, we've got you covered with our Valheim console commands guide , which we updated for 1.0 so you can spawn new Deep North materials, weapons, foods, and items. And now you can use them while still earning achievements, even if it means Oden will be disappointed in you. Nice! Valheim biomes : Follow along zone by zone Valheim console commands : Godly shortcuts Valheim inventory upgrades : Deeper pockets Valheim battle idols : Upgrade your gear 
-
 ## GameSpot
 
 ### BlizzCon 2026 Opening Ceremony: Start Time, How To Watch, And What To Expect
 Sat, 12 Sep 2026 05:30:00 +0000 — https://www.gamespot.com/articles/blizzcon-2026-opening-ceremony-start-time-how-to-watch-and-what-to-expect/
 
-It's almost time for the first BlizzCon event in two years, as Blizzard prepares to celebrate its past, present, and future with its traditional opening ceremony. This leads into two days of panels and interviews, as Blizzard talks about its biggest franchises, ranging from Warcraft to Overwatch. If you're not planning to make a trip to Anaheim to watch the show in person, the good news is that you can enjoy it from the comfort of your home. Here's a breakdown of when you can tune in for all the announcements. How to watch the BlizzCon 2026 opening ceremony You can watch a livestream of the BlizzCon 2026 opening ceremony through Blizzard's official YouTube, Twitch, and Battle.net channels. YouTube Twitch Battle.net When to watch the BlizzCon 2026 opening ceremony The show kicks off at the following times on September 12, and it'll run for roughly 75 minutes. 10:30 AM PT 1:30 PM ET 5:30 PM GMT 6:30 PM BST 7:30 PM CET 2:30 AM JST (September 13) 3:30 AM AEST (September 13) Will the BlizzCon 2026 musical performance be livestreamed? Nope, the musical performance will be exclusive to BlizzCon 2026 attendees. This year's headline act features K-pop group Le Sserafim, and international music duo Yoasobi will perform during BlizzCon's first-ever esports halftime show in the Overwatch World Cup Arena. What to expect We've got a detailed breakdown of our expectations for BlizzCon 2026 , but to sum it up, we're expecting Warcraft, StarCraft, Diablo, and Overwatch to be in the spotlight.
+It's almost time for the first BlizzCon event in two years, as Blizzard prepares to celebrate its past, present, and future with its traditional opening ceremony. This leads into two days of panels and interviews, as Blizzard talks about its biggest franchises, ranging from Warcraft to Overwatch. If you're not planning to make a trip to Anaheim to watch the show in person, the good news is that you can enjoy it from the comfort of your home. Here's a breakdown of when you can tune in for all the announcements. How to watch the BlizzCon 2026 opening ceremony https://youtube.com/live/LBt8q49qD8k?feature=share You can watch a livestream of the BlizzCon 2026 opening ceremony through Blizzard's official YouTube, Twitch, and Battle.net channels. YouTube Twitch Battle.net When to watch the BlizzCon 2026 opening ceremony The show kicks off at the following times on September 12, and it'll run for roughly 75 minutes. 10:30 AM PT 1:30 PM ET 5:30 PM GMT 6:30 PM BST 7:30 PM CET 2:30 AM JST (September 13) 3:30 AM AEST (September 13) Will the BlizzCon 2026 musical performance be livestreamed? Nope, the musical performance will be exclusive to BlizzCon 2026 attendees. This year's headline act features K-pop group Le Sserafim, and international music duo Yoasobi will perform during BlizzCon's first-ever esports halftime show in the Overwatch World Cup Arena. What to expect We've got a detailed breakdown of our expectations for BlizzCon 2026 , but to sum it up, we're expecting Warcraft, StarC
 
 ### GTA 6 Developer Is Fighting Drones And Hackers To Keep The Game s Secrets Safe
 Fri, 11 Sep 2026 17:12:00 +0000 — https://www.gamespot.com/articles/gta-6-developer-is-fighting-drones-and-hackers-to-keep-the-games-secrets-safe/

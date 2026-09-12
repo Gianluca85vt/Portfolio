@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-12T13:44:06.808Z
+# Tech — harvested 2026-09-12T16:30:32.331Z
 
 ## Ars Technica
 
@@ -64,6 +64,21 @@ Almost a hundred years ago, physicists theorized out what free fall should do to
 
 ## The Verge
 
+### Anthropic CEO says it’s time to pump the brakes on AI
+2026-09-12T12:23:40-04:00 — https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development
+
+Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its "adherence to safety practices and commitments." In a winding essay , Amodei proposed a three-step plan to "pace the frontier" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models. Amodei says that giving external evaluators wide-ranging access is just the first step, and one it is taking now unilaterally . Step two would involve the industry coming together as a whole, likely with gove … Read the full story at The Verge. ]]>
+
+### LG responds to TV spying allegations
+2026-09-12T11:19:44-04:00 — https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations
+
+Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that "Some recent media coverage may have contributed to misconceptions about how LG smart TVs work." LG released a statement in which it claims that its "TVs do not continuously record or transmit users' conversations," and that wake-word detection is all processed locally. However, the word "continuously" is doing a lot of heavy lifting here as Gamers Nexus demonstrated an LG TV keeping extensive l … Read the full story at The Verge. ]]>
+
+### Trump is giving data centers a pass to pollute
+2026-09-12T10:41:27-04:00 — https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa
+
+President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report . They are urging - perhaps futilely - the president to adopt a "Data Center Health Protection Pledge" to signal that the administration is taking the environmental threat seriously. At the start of his term, Trump's EPA administrator, Lee Zeldin, proclaimed his goal of making America " the AI capital of the world " through deregulation. Since then, Zeldin and the White House have rolled back dozens of rules … Read the full story at The Verge. ]]>
+
 ### Laika’s stop-motion fantasy Wildwood looks so smooth
 2026-09-12T09:00:00-04:00 — https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian
 
@@ -99,22 +114,22 @@ You only get one chance at a first impression, and getting to introduce Apple's 
 
 The White House claims the Donald Trump-owned Truth Social is the "most powerful and popular social media platform in the world." The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest social media platforms on the web. Data gathered by Search Engine Land shows YouTube is the most popular platform in the world, with 2.65 billion monthly active users. Facebook comes in second with 2.39 billion active users around the globe, followed by TikTok with 2.21 billion and Instagram with 1.99 billion. Truth Social doesn't make Search Engine Land 's top 10 list, wh … Read the full story at The Verge. ]]>
 
-### Anthropic spent this week in hot water over cybersecurity
-2026-09-11T12:09:14-04:00 — https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity
-
-After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded "recklessness" - and will likely fuel already raging concerns about cybersecurity and AI. In Anthropic's report, it detailed four cases this year in which its own AI models hacked an external company or exploited vulnerabilities. In one, an "internal, general-purpose research model" broke into third-party systems, using access tokens and passwords and downloading files. … Read the full story at The Verge. ]]>
-
-### Microsoft’s head of comms is leaving after almost 20 years
-2026-09-11T12:01:34-04:00 — https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms
-
-Frank Shaw in 2025. | Image: Microsoft Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's "decided it is time for me to move on and try new things," after supporting Microsoft's communications for 29 years - nearly 20 years as a Microsoft employee plus time at the Waggener Edstrom agency (now We. Communications) before that. Shaw has been at the heart of Microsoft's communications since 1997, helping the company navigate multiple Windows and Office releases, CEO transitions, the all-important bet on cloud, and huge acquisitions like the $26.2 billion LinkedIn purchase in 2016 and the $69 billion acquisi … Read the full story at The Verge. ]]>
-
-### Meta may have leaked the first look at its slim Project Phoenix headset
-2026-09-11T11:38:31-04:00 — https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak
-
-Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's "Project Phoenix" headset. The images, which UploadVR says were "found in the HorizonOS Prescription Lens firmware package," suggest Meta may be looking to compete with devices like those from Xreal or Viture . These companies' mixed reality glasses are a bit bulkier than something like Meta's Ray-Ban AI smart glasses, but a step down from a full VR headset like Meta's Quest 3. This leak shows something that's almost in between larger headsets and smart glasses, with lenses set into a slim, glasses-style fram … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Iran and Houthi rebels used Anthropic's Claude AI to target US warships and build hypersonic missiles — Houthi rebels also used the bot to code ballistic missile guidance systems
+Sat, 12 Sep 2026 15:03:10 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-and-houthi-rebels-used-anthropics-claude-ai-to-target-us-warships-and-build-hypersonic-missiles-houthi-rebels-also-used-the-bot-to-code-ballistic-missile-guidance-systems
+
+Iran's spiritual leaders tend to call the U.S. the Great Satan to express their spite, but it turns out that its military, surveillance, propaganda, and even allied Houthis are eager to use American-built AI technology to target the U.S. Navy and develop weapons, surveillance, and propaganda, Anthropic's September 2026 threat report revealed. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC Arguably, one of Anthropic's most remarkable findings is that an Iran-linked threat actor used an American AI model, Claude, to support military reconnaissance and develop targeting recommendations against U.S. naval forces in the Middle East. The perpetrator combined publicly available ship and aircraft transponder identifiers with commercial satellite imagery and information on U.S. naval movements, and even extracted the names of U.S. military personnel from captions of publicly available military photographs. It also researched potential vulnerabilities in communications equipment used aboard ships, including known flaws affecting Cobham Sailor VSAT terminals, Cisco communications equipment, and Schneider Electric EcoStruxure systems. Anthropic said it banned the account, introduced additional detection mechanisms, and shared its findings wit
+
+### US Customs supervisor busted for stealing Core i7 CPUs, RAM, and hard drives from Homeland Security PCs, damage estimated at $105,800 — stolen tech swapped with inferior hardware and cashed out on Newegg
+Sat, 12 Sep 2026 14:09:29 +0000 — https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg
+
+According to a report from The Maine Wire , the FBI has arrested and charged Terry “Jiajia” Liu, a Customs and Border Protection supervisor based in Calais, Maine, for theft and damage to government property. Liu allegedly stole computer hardware, including Intel 14th Generation Raptor Lake Refresh processors, memory modules, and hard drives, from at least 46 Department of Homeland Security computers across three Maine border facilities. They replaced the stolen parts with inferior hardware and exchanged the stolen equipment through Newegg’s trade-in program for store credit. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent Liu’s official responsibilities were limited to information-technology support, so they did not have access to modify any government computer. Port Director Theodore Cummings made the restriction abundantly clear to Liu in a written order: “Please do not move any computers or computer parts.” However, criminals rarely listen. Hidden surveillance cameras captured Liu opening government computers and swapping hardware during the midnight shift. The perpetrator would take the systems to a tr
+
+### We tested unofficial DLSS Multi Frame Generation support on RTX 40-series GPUs — new mod brings RTX 50-series exclusive feature to older cards, and it really works
+Sat, 12 Sep 2026 14:08:19 +0000 — https://www.tomshardware.com/pc-components/gpus/we-tested-dlss-multi-frame-generation-on-rtx-40-series-gpus-new-mod-brings-rtx-50-series-exclusive-feature-to-older-cards-and-it-really-works
+
+It’s been a heck of a time lately for PC gamers willing to get their hands dirty with mods. Hot on the heels of the discovery of the DLSS 5 DLL in a prerelease version of NBA 2K27, modder dashdogy found a way to bring Multi Frame Generation, one of the crown jewels of GeForce RTX 50-series graphics cards, to RTX 40-series (and earlier) products. As already elevated graphics card prices seem set to continue rising, and hardware upgrades get further and further out of reach of the average PC gamer, more and more folks are going to want to hold on to the RTX 40-series hardware they have for as long as they can, especially if smoothness-boosting features like MFG are just a few clicks away on those older cards. So we had to see MFG working on Ada for ourselves—assuming it works at all. We grabbed the mod files and got to playing with them in Cyberpunk 2077 , since it’s likely in many TH readers’ Steam libraries already and has a healthy modding community. You can find the latest instructions for enabling MFG on Ada through dashdogy’s GitHub page . Before spending a ton of time testing, we verified that the mod works at all. While spinning the camera at a high, constant speed, we could indeed see that increasing MFG multipliers beyond the officially supported 2X factor on Ada cards does greatly increase perceived smoothness or fluidity of motion in Cyberpunk 2077, as you would expect. Another tell is that the same visual artifacts are visible in certain regions of the screen on bo
 
 ### IKEA releases new Skyrim mod that adds gloriously mundane Kallax shelving unit as your newest companion — free collab provides a drab flatpack answer to your loot woes
 Sat, 12 Sep 2026 13:31:55 +0000 — https://www.tomshardware.com/video-games/pc-gaming/ikea-releases-new-skyrim-mod-that-adds-gloriously-mundane-kallax-shelving-unit-as-your-newest-companion-free-collab-provides-a-drab-flatpack-answer-to-your-loot-woes
@@ -161,22 +176,17 @@ Fri, 11 Sep 2026 16:32:36 +0000 — https://www.tomshardware.com/pc-components/g
 
 The GeForce RTX 5090 is already at the pinnacle of the best graphics cards . However, Shenzhen Suqiao Intelligent Technology Co., Ltd., a Chinese OEM/ODM, has reportedly made it even more powerful by outfitting the Blackwell flagship with 96GB of memory, 3X more than the original. The company is already selling these modified GeForce RTX 5090 96GB on Alibaba for $3888 , 35% less than the vanilla GeForce RTX 5090 in the U.S. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC You can say whatever you want about China, but you cannot deny that factories there have produced some of the most interesting modified graphics cards, including the GeForce RTX 5080 32GB , the GeForce RTX 4090 48GB , and the GeForce RTX 3090 48GB. While some of these projects are fueled by pure curiosity, most of them are a result of the recent AI boom that has stimulated Chinese factories to think outside the box and give existing and even past graphics cards a memory upgrade so consumers can repurpose them for AI workloads. While we have seen a fair share of absurd rumors, such as the GeForce RTX 5090 128GB , the conjuration of the GeForce RTX 5090 96GB seems more plausible from a technical standpoint, and there is precedent for a Blackwell-based graphics card w
 
-### Sanctioned Chinese supercomputer maker stripped of IO500 benchmark crown, Intel-powered Aurora retakes the lead — record-breaking ParaStor F9000 storage system doesn't meet reproducibility requirements
-Fri, 11 Sep 2026 16:26:12 +0000 — https://www.tomshardware.com/tech-industry/supercomputers/sanctioned-chinese-supercomputer-maker-stripped-of-io500-benchmark-crown-intel-powered-aurora-retakes-the-lead-record-breaking-parastor-f9000-storage-system-doesnt-meet-reproducibility-requirements
-
-The IO500 Committee has removed storage subsystems based on Sugon's ParaStor F9000 all-flash storage systems from its Production IO500 list, as the system does not meet reproducibility requirements, which include sufficient architecture details and general availability, as noticed by Glenn K. Lockwood . The machines powered by ParaStor F9000 storage systems have been moved to the Research IO500 list and are still among the world's highest-performing storage devices; meanwhile, Intel's Aurora has retaken the top spot on the Production list. "After further review, the Sugon ISC26 submission has been transferred from the Production List to the Research List, as it did not satisfy the criteria for the highest level of Reproducibility due to the lack of widely available architectural details and limited general availability of the file system," a statement by the IO500 Committee reads. "Accordingly, the previous #1 position on the Production and Production 10-Client lists (Argonne’s DAOS system) has been restored." IO500 is essentially the storage counterpart to TOP500, but rather than ranking supercomputers by computational performance, it ranks HPC storage systems by their I/O performance in terms of overall bandwidth and I/O. At ISC 2026, SCNet submitted two systems based on ParaStor storage software and ParaStor file system and F9000 all-flash storage systems. The larger SCNet AICS-A submission ran the IO500 benchmark from 500 client nodes with 64,000 client processors and ach
-
-### Save 20% on this 144-in-1 screwdriver set, perfect for hobbyists and PC builders under $40 — epic starter toolkit ships with electric and precision drivers, along with 120 magnetic bits and 22 maintenance tools
-Fri, 11 Sep 2026 15:32:15 +0000 — https://www.tomshardware.com/desktops/pc-building/save-20-percent-on-this-144-in-1-screwdriver-set-perfect-for-hobbyists-and-pc-builders-under-usd40-epic-starter-toolkit-ships-with-electric-and-precision-drivers-along-with-120-magnetic-bits-and-22-maintenance-tools
-
-If you need to kickstart your hobbyist toolbox with a set of kit, then you'll want to take advantage of this Amazon deal. This Strebito 144-in-1 kit is just $39.99 right now , which gives you a 20% saving on its usual price for a set that includes both a precision and an electric screwdriver, along with 22 maintenance tools and 120 different magnetic driver bits to work with. ● Check out this deal at Amazon Basically, this is the ultimate starter kit for anyone looking to build or repair any kind of electronics, including PCs and laptops, and at an affordable price. You're gaining a complete set with two different drivers, a whole set of bits, built-in LED lighting, and a set of tools to help you clean, scrape, and adjust for any kind of project you're working on. 144-in-1 Electric Screwdriver Set: was $49.99 now $39.99 This 144-in-1 electric precision screwdriver set comes with 120 magnetic bits and 22 repair tools for various disassembly and maintenance tasks, along with a precision screwdriver and electric driver for your PC building and hobbyist repairs. View Deal The big deal here is those two drivers, which you'll each need for two different types of repair jobs. The mini electric driver has a 350 mAh battery, which you'll be able to charge up within an hour using a USB-C cable. Specs-wise, it features adjustable torque options between 0.15 and 0.5 Newton-meters, along with speeds of 200 RPM. It's a good option for getting into tight spaces like a PC case, with a built-
-
-### GameStop is reopening recently closed stores despite massive retail cuts — select locations return nationwide starting September 11
-Fri, 11 Sep 2026 12:50:35 +0000 — https://www.tomshardware.com/tech-industry/gamestop-is-reopening-recently-closed-stores-despite-massive-retail-cuts-select-locations-return-nationwide-starting-september-11
-
-GameStop is bringing some of its recently closed stores back to life. The company announced on social media that “select closed stores” are reopening nationwide starting September 11, although it has not revealed exactly how many locations will return. When asked about the number of stores involved, a GameStop spokesperson reportedly told IGN that the count was “at least one” as of September 11, suggesting that we can expect more details to follow. The move comes after GameStop reportedly had one of its biggest rounds of store closures listed for January 2026. According to a blog tracking the closures , around 470 locations across the U.S. were listed as either confirmed to close or already closed, as the retailer continued efforts to cut costs and improve profitability. GameStop had already closed hundreds of stores during the previous fiscal year, making the latest shutdowns part of a much larger reduction in its physical retail footprint. Your local GameStop is back.Select closed stores are now reopening nationwide starting September 11. pic.twitter.com/OKbS0WAmy4 September 10, 2026 GameStop's decision to reopen select physical stores is notably interesting given the wider shift away from physical game media. Digital downloads have replaced physical discs, while console manufacturers are increasingly offering hardware without disc drives. Recently, Sony took the shift even further after sharing its plans to stop producing new physical PlayStation game discs by January 2028
-
 ## Phoronix
+
+### Void Linux Maintainer Orphans 100+ Packages Over AI Policy Dispute
+Sat, 12 Sep 2026 11:11:26 -0400 — https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan
+
+A Void Linux maintainer has orphaned more than 100 packages he maintained over a dispute of the project's AI policy for LLM-generated text...
+
+### Intel Reverses Decision To Cancel Their Open-Source Font Project
+Sat, 12 Sep 2026 09:45:00 -0400 — https://www.phoronix.com/news/Intel-One-Mono-Saved
+
+Amid Intel cutting back on open-source projects over the past two years as cost cutting measures at the company, their latest open-source project on the chopping block was the peculiar font they developed a few years back. The project was archived this week only to change course two days later...
 
 ### GTK 4.24 Released With Better Fractional Scaling, More Precise GDK Frame-Clock
 Sat, 12 Sep 2026 06:52:32 -0400 — https://www.phoronix.com/news/GTK-4.24-Released
@@ -227,16 +237,6 @@ The Mold high performance linker that typically outperforms the likes of LLVM ll
 Fri, 11 Sep 2026 08:55:26 -0400 — https://www.phoronix.com/news/Erik-Faye-Lund-Mesa-Arm
 
 Erik Faye-Lund who has contributed to the Mesa 3D graphics driver stack working on areas like Zink and most notably the PanVK Vulkan and Panfrost Gallium3D drivers forr Arm Mali hardware is now working directly for Arm...
-
-### Linux Mint Debuts Xepub As New EPUB Reader, Clockenstein Calendar App
-Fri, 11 Sep 2026 08:20:48 -0400 — https://www.phoronix.com/news/Linux-Mint-Xepub-Clockenstein
-
-The Linux Mint project today published their August 2026 development report, including some new applications added to their XApp collection...
-
-### Patches Ready For AMDGPU HDMI 2.1 Enabled By Default With Linux 7.4 With FreeSync, VRR & ALLM
-Fri, 11 Sep 2026 06:39:00 -0400 — https://www.phoronix.com/news/Linux-7.4-AMDGPU-HDMI-2.1-Go
-
-Linux 7.4 is now set to reach the elusive milestone of HDMI 2.1 support for the AMDGPU kernel graphics driver. After the HDMI Forum previously rejected HDMI 2.1 for the AMDGPU open-source driver implementation going back years, earlier this year something changed -- widely speculated to be with Valve's involvement -- that HDMI 2.1 patches began appearing for the AMDGPU driver. With the upcoming Linux 7.4 cycle, the bulk of that work will now be in place and enabled by default...
 
 ## The Register
 
@@ -302,6 +302,31 @@ Manufacturers selling products with digital elements in the EU must now report a
 
 ## Engadget
 
+### Is a free VPN worth using? Here's why it could be risky
+Sat, 12 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2252776/is-free-vpn-worth-using-risks-explained/
+
+A free VPN might seem like a great deal, but they're not all created equal. While you can expect some compromises, you shouldn't use any old service.
+
+### How to know it's time to replace your EV battery
+Sat, 12 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2252773/how-to-know-time-replace-ev-battery/
+
+EV batteries usually fade gradually, so the real warning signs are often changes in behavior rather than age alone.
+
+### Are you using the right Ethernet port on your router? Here's how to know
+Sat, 12 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2252768/using-right-ethernet-port-on-router/
+
+The various Ethernet ports on your router can serve different purposes, depending on the model. Thankfully, it's not hard to discern what they're for.
+
+### How to properly clean and sanitize your secondhand tech finds
+Sat, 12 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2252766/how-to-clean-sanitize-secondhand-electronics-tech/
+
+Cleaning secondhand gadgets is essential, since you never know how dirty something is. Thankfully, it's not hard to polish them up before reuse.
+
+### How to get started with Meta's new AI agent, Muse
+Sat, 12 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2256577/how-to-get-started-with-meta-s-new-ai-agent-muse/
+
+After a few days of testing Meta's AI agent Muse. I can confirm that there is very little learning curve to get started.
+
 ### How Google Maps knows when a business is packed
 Sat, 12 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2252763/how-google-maps-knows-businesses-packed/
 
@@ -337,32 +362,17 @@ Fri, 11 Sep 2026 21:58:32 +0000 — https://www.engadget.com/2256562/moss-develo
 
 The studio produced some early hits for the PSVR and Oculus Quest.
 
-### Lenovo's Googlebook 15 seems decidedly premium based on a new leak
-Fri, 11 Sep 2026 20:01:58 +0000 — https://www.engadget.com/2256453/lenovo-googlebook-15-seems-decidedly-premium-based-on-a-new-leak/
-
-The Lenovo Googlebook 15 will reportedly have a high-resolution, high-refresh rate display and an Intel Core Ultra 5 chip.
-
-### iPhone 18 Pro vs Pixel 11 Pro: How Apple and Google's flagships stack up
-Fri, 11 Sep 2026 19:17:46 +0000 — https://www.engadget.com/2256364/iphone-18-pro-vs-pixel-11-pro/
-
-Google and Apple's latest flagships feature more AI, better cameras and few reasons to switch ecosystems.
-
-### Roblox will soon add offline and browser-based play modes
-Fri, 11 Sep 2026 19:00:00 +0000 — https://www.engadget.com/2255734/roblox-bringing-offline-browser-based-play/
-
-Roblox has revealed that players will be able to play in-browser and offline in the near future.
-
-### New images show a detailed view of Meta's upcoming mixed reality headset
-Fri, 11 Sep 2026 17:28:11 +0000 — https://www.engadget.com/2256177/new-images-show-a-detailed-view-of-metas-upcoming-mixed-reality-headset/
-
-The device known as Project Phoenix is a new form factor for Meta.
-
-### Where should Apple go after the iPhone Duo? Bring on smaller and larger foldables
-Fri, 11 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2255941/where-should-apple-go-after-the-iphone-duo/
-
-Come on Apple, just keep following in the footsteps of Samsung, ASUS and so many other foldable makers.
-
 ## TechCrunch
+
+### Anthropic CEO outlines plan to ‘pace the frontier’
+Sat, 12 Sep 2026 15:52:11 +0000 — https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/
+
+What would it actually look like to "pace the frontier"?
+
+### Revolut confirms customer data breach through fake government requests
+Sat, 12 Sep 2026 14:40:00 +0000 — https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/
+
+Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.
 
 ### Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
 Fri, 11 Sep 2026 22:58:17 +0000 — https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/
@@ -413,14 +423,4 @@ Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final o
 Fri, 11 Sep 2026 16:46:25 +0000 — https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/
 
 The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.
-
-### Matt Mullenweg tells (trolls?) Automattic staff, saying he s back in control after CEO ouster
-Fri, 11 Sep 2026 15:19:00 +0000 — https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/
-
-In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.
-
-### Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider
-Fri, 11 Sep 2026 13:32:54 +0000 — https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/
-
-This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.
 

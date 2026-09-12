@@ -1,110 +1,130 @@
-# Film & TV — harvested 2026-09-12T13:44:06.808Z
+# Film & TV — harvested 2026-09-12T16:30:32.331Z
 
 ## Variety
 
-### Nishikawa Miwa Confronts Japan s Failure to Protect Its War Orphans in Toronto Platform Opener Children Untold
-Sat, 12 Sep 2026 13:30:00 +0000 — https://variety.com/2026/film/festivals/nishikawa-miwa-children-untold-toronto-war-orphans-1236858495/
+### Jeremy Thomas Remembered as a Filmmaker Full of Stories Who Made Great Movies : The Canon of His Work is Unmatched
+Sat, 12 Sep 2026 16:28:38 +0000 — https://variety.com/2026/film/global/jeremy-thomas-tributes-luca-guadagnino-1236859499/
 
-In the rubble left by the firebombing of Tokyo in WWII, a 12-year-old girl who once dreamed of a life in music learns to shine shoes, fall in with a band of orphaned boys sheltering under a local yakuza clan and, eventually, erase every trace of the person she used to be. That girl, Kotoko, [ ]
+Tributes have begun flowing from across the film world for Jeremy Thomas, the legendary British producer who passed away on Friday at the age of 77. He made great movies and was a loyal, dear friend, said producer and publisher Charles Finch. His father, Ralph, made a film with my father, Peter, called No Love [ ]
 
-### Sci-Fi Franchise Kri8 Universe Launches at Toronto Market (EXCLUSIVE)
-Sat, 12 Sep 2026 13:30:00 +0000 — https://variety.com/2026/film/markets-festivals/sci-fi-franchise-kri8-universe-toronto-market-1236858647/
+### Kling AI’s TIFF Market Panel Illuminates Tech Challenges and Human-Led Solutions in AI Filmmaking: The Script Is Still the Blueprint
+Sat, 12 Sep 2026 16:08:35 +0000 — https://variety.com/2026/film/asia/kling-ai-tiff-market-ai-film-panel-1236858840/
 
-Kri8 Universe, a five-world science-fiction IP ecosystem from production designer and filmmaker Uzair Merchant, will launch at TIFF: The Market, looking for global licensing, studio and strategic partnerships following 14 years of independent development. The universe consists of five interconnected worlds — Elixir of Life, Black Rose, the 8th Sin, Skye and Vault X — [ ]
+Kling AI hit the opening morning of the inaugural TIFF: The Market with a lively, well attended panel, “A New Creative Paradigm: Consistent, Cinematic AI Video Powered by Kling AI,” geared towards a Canadian industry audience of animation and live-action film creators eager for up-to-date insight into their roles and human skills in rapidly evolving [ ]
 
-### Female Bucking Bronc Riders Take Center Stage in Cheyenne, TIFF-Bound Doc Produced by Jenna Bush Hager (EXCLUSIVE)
-Sat, 12 Sep 2026 13:15:00 +0000 — https://variety.com/2026/film/news/jenna-bush-hager-cheyenne-documentary-cowgirls-broncs-1236859187/
+### The Odyssey Becomes Universal s Highest-Grossing Film of All Time
+Sat, 12 Sep 2026 16:00:42 +0000 — https://variety.com/2026/film/news/the-odyssey-universal-highest-grossing-film-of-all-time-1236859551/
 
-The TIFF-bound documentary Cheyenne follows a quartet of fearless cowgirls who compete at riding wild broncos on the rodeo circuit after nearly a century of being excluded because of their gender. Variety has a first look at the film, in which director Taimi Arvidson profiles four cowgirls when the American rodeo circuit opens up a [ ]
+On a box office voyage for less than two months, Christopher Nolan’s “The Odyssey” has become the highest-grossing film in the history of Universal Pictures. The 114-year-old film company announced the milestone on Saturday, when the Matt Damon-led epic’s weekend haul will bring its domestic earnings to $601.2 million, with an international tally of $1.083 [ ]
 
-### From ‘American Hostage’ to Podcasts, Hollywood Digs Deeper Into Digital IP — But Will the Same Stories Told on Different Platforms Hurt Business?
-Sat, 12 Sep 2026 13:05:00 +0000 — https://variety.com/2026/film/news/hollywood-ip-competing-projects-1236859296/
+### Courteney Cox on Her TIFF True-Crime Drama Evil Genius : The Story Is So Unbelievable
+Sat, 12 Sep 2026 16:00:00 +0000 — https://variety.com/2026/film/features/courteney-cox-evil-genius-tiff-1236856455/
 
-Watching the MGM+ limited anthology series American Hostage with exec producer and star Jon Hamm at its Sept. 12 Toronto fest premiere, you might be reminded of last year s Sept. 7 Toronto premiere, Gus Van Sant s thriller Dead Man s Wire, about the same 1977 Indianapolis hostage crisis. Or the 2022 podcast American Hostage with Jon [ ]
+Courteney Cox feels as if she was meant to be a director. “I notice everything,” she says. “I love actors, I love people, I love human stories.” Cox is best known for acting — including marquee roles in “Friends” and in the “Scream” franchise. But she’s long had a hand in directing, from episodes of [ ]
 
-### Jeremy Thomas, Legendary British Producer and Oscar Winner, Dies at 77
-Sat, 12 Sep 2026 12:42:35 +0000 — https://variety.com/2026/film/global/jeremy-thomas-dead-british-producer-oscar-winner-1236859473/
+### ‘Sámi Blood’ Director Amanda Kernell Explores Forgiveness in ‘Brace Your Heart’: ‘It Can Be a Matter of Survival’
+Sat, 12 Sep 2026 15:45:00 +0000 — https://variety.com/2026/film/global/sami-blood-amanda-kernell-brace-your-heart-tiff-1236853249/
 
-Jeremy Thomas, one of the film industry s most highly respected independent producers with a body of work spanning more than half a century, has died. He was 77 years old. In a statement, his team said that Thomas passed away peacefully at his country home in Oxfordshire late on Friday Sep 11, surrounded by his [ ]
+“Brace Your Heart” director Amanda Kernell is ready to talk about forgiveness. “What can be forgiven? And what if you live in a place where everything has to be, because it can be a matter of survival?,” she wonders. In Kernell’s new film — unspooling at TIFF and the San Sebastián Film Festival — young [ ]
 
-### Liam Neeson on the Rage Behind The Lost Children of Tuam and Turning Producer for First Time to Tell Story of Irish Scandal
-Sat, 12 Sep 2026 12:25:00 +0000 — https://variety.com/2026/film/global/liam-neeson-rage-the-lost-children-of-tuam-producer-1236858532/
+### Kamila Andini Says Anger Is Liberating as She Brings Furious Four Seasons in Java to Toronto
+Sat, 12 Sep 2026 15:45:00 +0000 — https://variety.com/2026/film/festivals/kamila-andini-four-seasons-in-java-toronto-1236857224/
 
-Liam Neeson was in his home in upstate New York in late 2017 when he was sent a link to a New York Times article about a shameful episode in Ireland s history. Almost a decade on and he tells Variety he s still coming to terms with my reaction to it. The piece, written by Dan [ ]
+Kamila Andini’s “Four Seasons in Java” is her fifth feature film, but this marks her third time at the Toronto Film Festival after “The Seen and the Unseen” (2017) and “Yuni” (2021) that won the Platform Prize and became Indonesia’s official Oscar entry. It follows Pertiwi, starring Putri Marino (“Cigarette Girl”), who comes back to [ ]
 
-### Maisie Williams Thriller Ignition Bought by Saban for North America (EXCLUSIVE)
-Sat, 12 Sep 2026 12:15:00 +0000 — https://variety.com/2026/film/global/maisie-williams-thriller-ignition-bought-by-saban-1236858634/
+### Box Office: Practical Magic 2 Conjures Up $13 Million on Friday as Spider-Man: Brand New Day Nears All-Time Domestic Box Office Record
+Sat, 12 Sep 2026 15:43:08 +0000 — https://variety.com/2026/film/box-office/box-office-practical-magic-2-spider-man-brand-new-day-1236856659/
 
-Ignition, the upcoming high-concept thriller led by Emmy-nominated Game of Thrones star Maisie Williams, has been acquired for North America. WestEnd Films — which launched the film in Cannes — has closed a domestic deal with Saban on the film, directed by Emmy-nominated filmmaker James Erskine ( Copa 71, Billie, Sachin: A Billion Dreams ). The deal comes following [ ]
+“Spider-Man: Brand New Day” will finally be dethroned after a six-week streak at No. 1, falling to Sandra Bullock and Nicole Kidman’s mystical sequel, “Practical Magic 2.” “Practical Magic 2” landed at No. 1 on Friday, making $13 million at 4,146 North American screens. By Sunday, the Warner Bros. dramedy should pull in around $30 [ ]
 
-### ‘On Behalf of My Son’ Director Gabriel Martins on Black Brazilian Representation in His Films: ‘It’s a Life Project To Me, Not Just Cinema’
-Sat, 12 Sep 2026 12:01:30 +0000 — https://variety.com/2026/film/global/on-behalf-of-my-son-gabriel-martins-black-representation-1236859408/
+### Jorge Alonso s Spanish Romance Drama All That We Never Were Sells to France and India (EXCLUSIVE)
+Sat, 12 Sep 2026 15:35:57 +0000 — https://variety.com/2026/film/global/filmsharks-all-that-we-never-were-warner-bros-spain-1236859517/
 
-In 2022, Gabriel Martins made waves at the Sundance Film Festival with “Mars One,” a sprawling ensemble drama chronicling the life of a Black Brazilian family. At that time, the industry was still wrestling with what a post-pandemic future would look like and, despite “Mars One” having a strong festival run, Martins struggled to secure [ ]
+Buenos Aires-based FilmSharks has closed deals announced at the Toronto Film Festival for Spanish romantic drama “All That We Never Were” (“Todo lo que nunca fuimos”). Based on the best-selling novel by Alice Kellen, the film sold to Swift for France and French-speaking territories and to MVP for India and the Indian subcontinent. A further [ ]
 
-### First Clip of ‘Club Kid’ Star Jordan Firstman as U.S. Voice Cast Lead in Cannes Breakout ‘Jim Queen’ (EXCLUSIVE)
-Sat, 12 Sep 2026 11:18:31 +0000 — https://variety.com/2026/film/global/jordan-firstman-jim-queen-first-clip-club-kid-toronto-1236859402/
+### Boatbuilders Review: A Mellow Maine Boatyard Study That Offers All the Quiet Rewards of Fine Craftsmanship in Action
+Sat, 12 Sep 2026 15:33:54 +0000 — https://variety.com/2026/film/reviews/boatbuilders-review-1236859475/
 
-Jordan Firstman, fresh off directorial debut “Club Kid” – acquired by A24 for release this November – leads the English-language voice cast of “Jim Queen.” Variety reveals the exclusive first clip here: The animated comedy, directed by Marco Nguyen and Nicolas Athané, premiered at Cannes to rave reviews. Variety’s Guy Lodge called it a “hilarious rare [ ]
+There are few things as calmingly enjoyable as the modest, closeup spectacle of an expert craftsman at work. Whether the trade is cooking or carpentry, watching them ply their trade with equal parts ease and intense concentration is both gratifyingly instructional and escapist: a hands-off education in something you ll never be able to do as [ ]
 
-### Dau Review: Ilya Khrzhanovsky s Vast Cinematic Experiment in Historical World-Building Remains More Impressive From a Distance
-Sat, 12 Sep 2026 10:49:39 +0000 — https://variety.com/2026/film/reviews/dau-review-1236857375/
+### Filmax Launches Mar Olid’s ‘The Wedding Hustlers’ (EXCLUSIVE)
+Sat, 12 Sep 2026 15:25:00 +0000 — https://variety.com/2026/film/markets-festivals/filmax-wedding-hustlers-mar-olid-tiff-1236858500/
 
-More than six years after Ilya Khrzhanovsky premiered “DAU. Natasha” and “DAU. Degeneration” at the Berlin Film Festival — right before the global COVID lockdown — to a politely muted reception and limited distributor interest, you might think the moment has passed for another missive from the DAU Cinematic Universe. Turns out, however, that you [ ]
+Filmax is launching Mar Olid’s romantic comedy “The Wedding Hustlers” (“Si te he visto no me acuerdo”) internationally with a first promo for buyers at TIFF, ahead of its Spanish theatrical release in 2027. The film is produced by Filmax, Bixagu Entertainment and Pompón AIE, with the participation of paybox Movistar Plus, pubcaster RTVE and [ ]
 
 ## The Hollywood Reporter
+
+### Practical Magic 2 Leads Box Office as Spider-Man Eyes All-Time Domestic Record
+Sat, 12 Sep 2026 16:26:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/
+
+Sandra Bullock and Nicole Kidman's sequel is set to end the six-week stretch at the top for 'Brand New Day,' as the frame also sees the debuts of 'Runner' and 'The Uprising.'
+
+### Barbara Kopple Returns to the Picket Line
+Sat, 12 Sep 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/barbara-kopple-returns-to-the-picket-line-union-town-toronto-1236698357/
+
+Fifty years after 'Harlan County, U.S.A.,' the Oscar winner's 'Union Town' follows Amazon, UPS and delivery app workers organizing in her own hometown — and finds hope even in their setbacks.
+
+### The Odyssey Conquers Jurassic World to Become Universal s Highest-Grossing Film Ever
+Sat, 12 Sep 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-universal-highest-grossing-box-office-jurassic-1236698827/
+
+Christopher Nolan's star-studded adaptation looks to make noise during awards season following its epic box office run.
+
+### In ‘Magazine’, Director Alexandra Pechman Brings a Bygone Era of Print Media (and the 2010s) to TIFF Audiences
+Sat, 12 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/in-magazine-director-alexandra-pechman-brings-a-bygone-era-of-print-media-and-the-2010s-to-tiff-audiences-1236696519/
+
+A veteran of 'Vogue’ and other glossies, the filmmaker talks about the joys and tumults of publishing and how the pre-iPhone era is appealing to Zoomer watchers.
+
+### Back to Buenos Aires Review: A Brooding Drama Revisits the Violent Days of Argentina’s Dictatorship, and the Traumas That Remained in Its Wake
+Sat, 12 Sep 2026 14:38:03 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/back-to-buenos-aires-review-1236698365/
+
+Director Marco Bechis drew from his experience as a survivor of the 1976 military coup for this story of a political prisoner who returns to the place of his torment 30 years later.
+
+### Ben Silverman, Micah Green Back New Platform for Jewish Filmmakers
+Sat, 12 Sep 2026 14:33:24 +0000 — https://www.hollywoodreporter.com/movies/movie-news/shooq-online-marketplace-jewish-platform-1236698821/
+
+SHOOQ launches to connect Jewish storytellers with investors and philanthropists, aiming to pool resources rather than compete for scarce funding.
+
+### Smudge the Blades Isn’t Your Heated Rivalry -Style Canadian Hockey Drama
+Sat, 12 Sep 2026 14:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toronto-smudge-the-blades-1236683760/
+
+Cody Lightning’s feature film is all business on the ice — an underdog dramedy about a struggling Indigenous team fighting racism outside the rink.
+
+### Club Kid , Wicker Producer on Cannes Sales and When Ikea Gets In on Your Trailer Launch: Sometimes the Internet Just Does Its Job
+Sat, 12 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/club-kid-wicker-producer-on-cannes-sales-and-when-ikea-gets-in-on-your-trailer-launch-sometimes-the-internet-just-does-its-job-1236698203/
+
+With both 'Club Kid‘ and ‘The Debut‘ set to screen at TIFF, Ryan Heller talks Topic Studios’ big year, including 'Wicker’s unexpected Internet virality.
+
+### The Family Stone Sequel Sets Returning Cast With Sarah Jessica Parker, Rachel McAdams, Luke Wilson and More
+Sat, 12 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-family-stone-sequel-returning-cast-1236698234/
+
+Searchlight Pictures' follow-up, titled 'The Families Stone,' picks up 20 years after the events of the 2005 holiday classic.
 
 ### Toronto: Purgatory Director Navigates Warring Parents and Girl Power in Dark Divorce Comedy
 Sat, 12 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toronto-2026-purgatory-film-director-interview-1236690774/
 
 Lindsey Lanzillotta's coming-of-age dramedy and debut feature stars J.K. Simmons, Ruby McGurrin, Abby Elliot and John Reynolds and is set for a world premiere at TIFF.
 
-### Carla Woodcock Joins Kate Beckinsale, Katherine McNamara in White (Exclusive)
-Sat, 12 Sep 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/carla-woodcock-joins-kate-beckinsale-shark-movie-white-1236698229/
-
-Highland Film racked up multiple pre-sales for Jake West's shark survival thriller at TIFF.
-
-### Canadian Auteur Matthew Rankin Had a Fever Dream About Canadian History
-Sat, 12 Sep 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/matthew-rankin-film-ladies-and-gentlemen-brian-mulroney-chat-1236683600/
-
-In the Toronto-premiering 'Ladies and Gentlemen, Brian Mulroney,' the 'Universal Language' director turns former Canadian PM Brian Mulroney’s rise to power into a surreal collage of archival footage, animation and TV propaganda.
-
-### Almodóvar s Deep Dive Into … Almodóvar
-Sat, 12 Sep 2026 09:25:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/pedro-almodovar-says-bitter-christmas-is-most-personal-film-1236698333/
-
-With the very meta 'Bitter Christmas,' the Spanish auteur goes further into autofiction than ever — and grapples with where to draw the line: "I really expose myself a lot."
-
-### Sorry, Caleb Hearon Is Not Your Clown in ‘Trash Mountain’ Grief Dramedy
-Sat, 12 Sep 2026 02:32:19 +0000 — https://www.hollywoodreporter.com/movies/movie-news/caleb-hearon-trash-mountain-tiff-2026-1236698499/
-
-The comic and actor and co-star Zooey Deschanel helped unveil Kris Rey’s indie about love and death penned by Hearon and Ruby Caster during a world premiere at the Toronto Film Festival.
-
-### Courteney Cox Says She Decided to Direct ‘Evil Genius’ After Chance Encounter at the Beverly Hills Hotel: “I Made a Lot of Deals There”
-Sat, 12 Sep 2026 02:25:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/courteney-cox-direct-evil-genius-beverly-hills-hotel-1236698506/
-
-The 'Friends' alum reveals the role the iconic Beverly Hills property played in bringing the crime thriller to life.
-
-### Sydney Sweeney Faces Backlash for Sexualized Novig Ad: Exactly Why Women in Sports Aren t Taken Seriously
-Sat, 12 Sep 2026 01:50:46 +0000 — https://www.hollywoodreporter.com/business/digital/sydney-sweeney-sports-ad-backlash-sexualization-women-1236698224/
-
-Many online users, including women who work in the sports industry, have shared their frustration with the actress' campaign for the sports trading app, which features multiple shots of her mostly naked body covered with different sports balls and uniforms.
-
-### Josh Hartnett Reveals He Was “Actively Not Looking to Do a TV Show” Before Joining ‘Below’
-Sat, 12 Sep 2026 01:25:44 +0000 — https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-not-looking-tv-show-before-below-1236698463/
-
-The actor says he wanted to star in "another movie" before accepting his role in the Netflix miniseries.
-
-### Lady Gaga Welcomes First Child With Fiancé Michael Polansky
-Sat, 12 Sep 2026 01:22:05 +0000 — https://www.hollywoodreporter.com/music/music-news/lady-gaga-first-baby-1236698474/
-
-The Oscar winner and the entrepreneur are parents.
-
-### Pink Issues Statement Following Backlash for Critiquing Macklemore s Pro-Palestine Comments: Standing Up for My Own People
-Sat, 12 Sep 2026 01:08:33 +0000 — https://www.hollywoodreporter.com/music/music-news/pink-anti-macklemore-palestine-post-1236698412/
-
-Pink broke her silence a week after receiving extensive backlash for resharing a post calling for Macklemore to get dropped from Ed Sheeran's tour over his Free Palestine messaging.
-
 ## Deadline
+
+### Iranian A Bit Of Light’ Filmmakers Discuss Timely Venice Contender: We Have To Talk About The Reality Of The Mass Killing That Happened
+Sat, 12 Sep 2026 16:30:10 +0000 — https://deadline.com/2026/09/iranian-a-bit-of-light-filmmakers-venice-1237100036/
+
+Iranian director Ali Asgari’s contemporary Tehran-set drama A Bit Of Light premiered at the Venice Film Festival on Friday evening as the penultimate competition screening. The raw, timely drama was shot in the immediate aftermath of the Islamic Republic’s brutal crackdown of pro-democracy protests in January 2026, in which thousands, if not tens of thousands, [ ]
+
+### ‘Being Heumann’ Producer Kevin Walsh Readies Star Vehicles For Paul Rudd Sam Rockwell, Series With Casey Affleck: TIFF
+Sat, 12 Sep 2026 16:15:00 +0000 — https://deadline.com/2026/09/kevin-walsh-paul-rudd-sam-rockwell-casey-affleck-1237100028/
+
+EXCLUSIVE: In the wake of a splashy Thursday night TIFF opening night premiere of the Sian Heder-directed Being Heumann, producer Kevin Walsh has two star vehicles happening quickly. He s next readying Reasonable People, a drama that Cory Finley will direct with Paul Rudd and Sam Rockwell starring. On the series side is The Hawk, which [ ]
+
+### The Odyssey Slays Jurassic World To Become Universal s Highest Grossing Movie Ever At Global Box Office With $1.68B
+Sat, 12 Sep 2026 16:00:00 +0000 — https://deadline.com/2026/09/box-office-the-odyssey-record-universal-1237100001/
+
+By the end of this weekend, The Odyssey will have crushed the ultimate record, becoming Universal s highest grossing movie ever at the global box office with $1.684 billion. The pic will sail above Universal s previous record-breaker, 2015 s Jurassic World which ended its run at $1.677 billion. By Sunday, The Odyssey will count $601.2M million domestic and [ ]
+
+### The Family Stone Sequel Set At Searchlight With Claire Danes, Rachel McAdams, Sarah Jessica Parker Many More Returning
+Sat, 12 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/the-family-stone-sequel-movie-returning-cast-1237099527/
+
+Some exciting news heading into the holiday season: Searchlight has announced a sequel to the beloved 2005 holiday film The Family Stone, with nearly the entire cast returning. This includes Claire Danes, Rachel McAdams, Dermot Mulroney, Craig T. Nelson, Sarah Jessica Parker, Luke Wilson, Tyrone Giordano, Elizabeth Reaser, Paul Schneider, and Brian White. The one big [ ]
 
 ### Brian Duckworth Dies: Country Musician, Member Of Taylor Made Band Was 56
 Sat, 12 Sep 2026 13:19:17 +0000 — https://deadline.com/2026/09/brian-duckworth-dead-1237099978/
@@ -146,26 +166,6 @@ Sat, 12 Sep 2026 00:20:00 +0000 — https://deadline.com/2026/09/tiff-2026-movie
 
 The 2026 Toronto Film Festival kicked off Thursday, September 10, and features a slew of world premieres including the official opening-night film Being Heumann, Oscar winner Siân Heder s follow-up to her Best Picture winner CODA. The event s 51st edition features 10 days of premieres, gala presentations and more as the third leg of the fall [ ]
 
-### Girl Group Review: Rebel Wilson’s Musical Comedy Is Fun Spiritual Sequel To ‘Pitch Perfect’ — Toronto Film Festival
-Sat, 12 Sep 2026 00:11:45 +0000 — https://deadline.com/2026/09/girl-group-review-rebel-wilson-tiff-1237099495/
-
-Nearly 15 years after first stealing audiences’ funny bones as Fat Amy, Rebel Wilson has provided a new generation with a musical comedy that will have fans laughing and singing along just the same. In Girl Group, co-written and directed by Wilson, the Australian multihyphenate stars as popstar Tassie Young, who found fame with her [ ]
-
-### Russell Crowe Charms 1,400-Strong Venice Audience With ‘What Love Builds’ Doc Charting His Musical Career
-Sat, 12 Sep 2026 00:10:08 +0000 — https://deadline.com/2026/09/russell-crowe-charms-1400-venice-audience-love-builds-1237099686/
-
-Russell Crowe enjoyed an enthusiastic response to his bio-doc meets concert film What Love Builds as it premiered Out of Competition to a 1,400-strong crowd at the Venice Film Festival on Friday evening. The documentary sets out to show that music has been part of Crowes s life long before he decided to move to Sydney [ ]
-
-### International Insider: European TV In Peril; Venice TIFF Latest; Mercedes Ron Interview
-Sat, 12 Sep 2026 00:00:00 +0000 — https://deadline.com/2026/09/international-insider-european-tv-peril-venice-tiff-1237098577/
-
-Welcome once again, Insiders. Jesse Whittock here to take you through the top film and TV stories from the international community, and you can sign up to the newsletter here. We re also taking a moment to pay our respects to the victims of 9/11, 25 years ago in New York. European TV In Peril Uneasy [ ]
-
-### Minka Kelly Reacts To Ransom Canyon s Cancellation After Two Beautiful Seasons
-Fri, 11 Sep 2026 23:45:30 +0000 — https://deadline.com/2026/09/minka-kelly-reacts-ransom-canyon-cancellation-1237099675/
-
-Minka Kelly is focusing at the positives as she bids farewell to Ransom Canyon, which was canceled by Netflix after two seasons. Kelly, who starred opposite Josh Duhamel in the Texas romantic drama, posted a video of her and Duhamel s characters Quinn and Staten s romantic journey, which saw plenty of ups and downs during the [ ]
-
 ## befores & afters
 
 ### Yes, this is how they animated the Arachnids
@@ -174,6 +174,31 @@ Fri, 11 Sep 2026 12:57:13 +0000 — https://beforesandafters.com/2026/09/11/yes-
 Go behind the scenes of the Warrior bugs by Tippett Studio in Starship Troopers. Buy WOAH! Great Moments in Effects History Vol. 1 by at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the @beforesmag Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post Yes, this is how they animated the Arachnids appeared first on befores & afters .
 
 ## IndieWire
+
+### After the Heartbreak of Blade, Your Mother Your Mother Your Mother Director Bassam Tariq Still Thanks Marvel for Helping Him Think Big
+Sat, 12 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/features/interviews/your-mother-your-mother-your-mother-bassam-tariq-interview-1235216274/
+
+TIFF: The filmmaker tells IndieWire how (and why) he re-teamed with star Mahershala Ali after they both exited "Blade," and how that experience influenced his latest feature, already picking up lots of buzz on the festival circuit.
+
+### On Lanterns, the Costumes Have a Bird s-Eye View of the Characters
+Sat, 12 Sep 2026 15:30:00 +0000 — https://www.indiewire.com/features/craft/lanterns-costumes-interview-1235216248/
+
+Costume designer Cynthia Ann Summers tells IndieWire about taking inspiration from Tippi Hedren and Anthony Bourdain for HBO's latest superpowered mystery series.
+
+### Jeremy Thomas, Oscar-Winning Producer for Bertolucci, Cronenberg, and Herzog s Bucking Fastard, Dead at 77
+Sat, 12 Sep 2026 14:40:50 +0000 — https://www.indiewire.com/news/breaking-news/jeremy-thomas-producer-dead-1235216471/
+
+Jeremy Thomas won the Best Picture Oscar in 1988 for Bernardo Bertolucci's "The Last Emperor." He's a key talking head in Luca Guadagnino's new documentary about the Italian filmmaker," "Joie de Vivre," which just premiered in Venice.
+
+### The Julia Set Review: Chase Infiniti Is a Genius in a Movie Lacking Serious Brain Power
+Sat, 12 Sep 2026 14:02:39 +0000 — https://www.indiewire.com/criticism/movies/the-julia-set-review-chase-infiniti-1235216332/
+
+TIFF: The "One Battle After Another" breakout heads to college in Niki Byrne's confounding mash-up of "Good Will Hunting" verve and "Sleeping with the Enemy" shlock.
+
+### ‘Iron Boy’ Review: A Beautifully Hand-Painted Coming-of-Age Story with a Dash of Magical Realism
+Sat, 12 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/criticism/movies/iron-boy-review-1235216358/
+
+TIFF: Former Pixar animator Louis Clichy delivers a lovely film about a boy in an iron corset and his family's struggles to keep their French farm afloat.
 
 ### Caleb Hearon Never Expected to Make Trash Mountain — or Play His First Starring Role in It
 Sat, 12 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/features/interviews/caleb-hearon-never-expected-trash-mountain-interview-1235216247/
@@ -210,32 +235,32 @@ Fri, 11 Sep 2026 19:37:43 +0000 — https://www.indiewire.com/features/podcast/f
 
 "Screen Talk" co-hosts Anne Thompson and Ryan Lattanzio convene after seeing a ton of movies in Colorado and Italy. What played well, and what didn't?
 
-### The Housewife Review: Naomi Watts Stuns, but This True Story Flounders Under Its Own Weight
-Fri, 11 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/movies/the-housewife-review-naomi-watts-true-story-1235216304/
-
-TIFF: In the feature debut from Ben Shirinian and first-time screenwriter Alyssa Hill, an inherently chilling story about evil hiding within ordinary American life is done in by an uneven cast and script that connects too many dots.
-
-### ‘Makikiraan Po (Let Us Through, Dear Ancestors)’ Review: Lav Diaz and Isabel Sandoval Team Up for a Mournful, Modest Anti-Colonial Drama
-Fri, 11 Sep 2026 18:30:00 +0000 — https://www.indiewire.com/criticism/movies/let-us-through-dear-ancestors-review-lav-diaz-1235216132/
-
-Venice: The Filipino filmmaker’s swift return to his signature black-and-white converses thematically with last year’s bracing epic "Magellan."
-
-### American Hostage Review: Jon Hamm Anchors a Tepid Period Drama on Timely Threats to the Fourth Estate
-Fri, 11 Sep 2026 18:00:00 +0000 — https://www.indiewire.com/criticism/shows/american-hostage-review-jon-hamm-series-mgm-1235216097/
-
-Inspired by a true story, co-creators Shawn Ryan and Eileen Myers' eight-episode period drama follows Indianapolis radio reporter Fred Heckman (Jon Hamm) as he tries to cover a hostage crisis without compromising his ethics — or getting anyone killed.
-
-### ‘Lovers in the Blue Night’ Review: Anuparna Roy Returns with a Dreamy, Pained Drama About Desire and Displacement
-Fri, 11 Sep 2026 15:30:00 +0000 — https://www.indiewire.com/criticism/movies/lovers-in-the-blue-night-review-anuparna-roy-1235216099/
-
-Venice: Four restless migrants in Mumbai grapple with forbidden desires and lost futures in this compelling tale from the director of "Songs of Forgotten Trees."
-
-### A Bit of Light Review: Ali Asgari s Iranian Answer to It s a Wonderful Life Is a Bit of a Miracle
-Fri, 11 Sep 2026 15:15:00 +0000 — https://www.indiewire.com/criticism/movies/a-bit-of-light-review-ali-asgari-1235216265/
-
-Venice: On the eve of the current Iran war, a doctor prepares for suicide in a day-in-the-life drama that offers a mighty and coherent outlook on the big questions.
-
 ## The Wrap
+
+### Everybody Wants to F k Me Review: Taron Egerton Lives a Performative Male’s Worst Nightmare
+Sat, 12 Sep 2026 16:24:47 +0000 — https://www.thewrap.com/creative-content/movies/everybody-wants-to-fuck-me-taron-egerton-review/
+
+What is going on with the straights and sex in the year 2026? It’s one of the first questions I had in mind after watching director Jonathan Schey’s feature directorial debut, “Everybody Wants to F k Me. Its bold title, which at first reads like a brag or complaint but then feels recontextualized as a threat, is a striptease for a climax that never comes, one that mistakes being different for being profound. You extract four separate movies from Schey’s film, and the problem is he swipes right on too many of these ideas for the result to feel like anything but disjointed mayhem. This is all despite leading man Taron Egerton delivering, if not one of his best performances, his most eclectic one, as Adam, a man who finds his identity in not being like other men, being a true ally, and being someone women can feel safe with. He prides himself on reading the right literature (Edna O Brien’s Country Girl in hand), dares not even to stare at fellow participants in his all-female yoga class, makes sure to listen more than he speaks (God gave us two ears and only one mouth after all), and if that’s not enough, he flashes around his MUBI tote bag to prop himself up as not just any cinephile but one with taste. But a clever opening sequence reveals he s no better than the toxic males he purports to be different from — when Adam and a woman (Mia McKenna-Bruce) have sex, he passively rejects her when she hints at a more substantial relationship. Just because he’s less obvious doesn’t mea
+
+### Practical Magic Opens to $28 Million as Post-Summer Box Office Faces Sluggish Start
+Sat, 12 Sep 2026 16:00:02 +0000 — https://www.thewrap.com/creative-content/movies/practical-magic-2-saturday-box-office/
+
+After six weeks, the reign of Spider-Man: Brand New Day atop the box office charts has come to an end as Warner Bros./Alcon s Practical Magic 2 has taken No. 1 on the first post-summer weekend. But the legacyquel starring Nicole Kidman and Sandra Bullock has work to do to ease Warner Bros. 2026 box office woes after earning a $13 million opening day from 4,146 locations, setting the $75 million-budgeted film for a lackluster $28-30 million domestic opening weekend. As with the first Practical Magic released by in 1998, critics aren t impressed by the film, giving it a 37% Rotten Tomatoes score. But the fans who make up the film s cult fanbase, who are primarily millennial women, have enjoyed the sequel, giving it an early 93% RT audience score and a B+ on CinemaScore, a grade that is an improvement on the B- of its predecessor. PostTrak scores came in at 4.5/5. The task now for Practical Magic 2 will be to expand interest beyond that fanbase and become a popular option for female moviegoers in a September landscape that will include movies like Sony s male-skewing Resident Evil and DreamWorks female-focused but family-leaning animated film Forgotten Island. When CinemaScore polls are broken down, opening night demos show that Practical Magic 2, as expected, got a Friday night crowd that was 75% female. But the highest grades came from the 35-49 demo with an A- while moviegoers under 35 gave the film a B. With 56% of the opening night crowd over the age of 35, Practical Magic 
+
+### The Odyssey Passes Jurassic World as Universal s Highest Grossing Film of All Time
+Sat, 12 Sep 2026 16:00:00 +0000 — https://www.thewrap.com/creative-content/movies/the-odyssey-breaks-universal-box-office-record-jurassic-world/
+
+After helping drive the summer box office to new heights, Christopher Nolan s The Odyssey has taken its place as Universal s highest grossing film of all time before inflation adjustment, passing the $1.67 billion global record set in 2015 by Jurassic World in its ninth weekend in theaters. The studio record joins a slew of other box office records that The Odyssey has set, including a career best for Nolan surpassing even the inflation-adjusted total of The Dark Knight Rises, the all-time R-rated box office record, and the highest grossing film ever for Imax. The Odyssey also stands as the first film that is not a sequel or remake since Avatar in early 2010 to gross more than $1 billion outside of the U.S. and Canada, proving how Nolan has become the most globally popular filmmaker working today. “What Chris and Emma [Thomas] have created will go down as one of the most ambitious and brilliantly executed films in cinematic history. A generational event that galvanizes moviegoing itself,” said Donna Langley, Chairman of NBCUniversal Entertainment. The Odyssey continues the fruitful relationship between Nolan and Universal that began five years ago when the filmmaker ended his decade-plus tenure at Warner Bros. and signed on with the Comcast studio to produce his 3-hour biopic Oppenheimer. At the time, studio sources told TheWrap that they would have seen a $550 million-plus global run for the film about the creation of the atomic bomb as a theatrical success. Instead, Oppenhe
+
+### The Stunt Driver Review: Jay Baruchel Delivers a Knockout Performance as Daredevil Ken Carter
+Sat, 12 Sep 2026 15:58:48 +0000 — https://www.thewrap.com/creative-content/movies/the-stunt-driver-jay-baruchel-review/
+
+Despite unbelievable performances as real-life men in Canadian movies like 2023 s BlackBerry and a fictionalized version of himself in This Is the End, actor Jay Baruchel has seemingly gone under the radar when it comes to movie stardom. Early comedic successes in Judd Apatow movies like Knocked Up suggested Baruchel s star was on the rise, but in recent years the performer has stuck to indie films that showcase his acting chops. Now he reteams with Goon writer-director Michael Dowse to elevate a different side of his Canadian roots: playing daredevil Ken Carter in The Stunt Driver. With a world premiere at the Toronto International Film Festival Friday ahead of its wider theatrical release later this month, The Stunt Driver is a hilarious, true-to-life story about heroics and self-importance in the face of lifelong goals. Baruchel stars as stuntman Ken Carter, known throughout the 1970s for his outrageous car stunts and dubbed The Mad Canadian by the press at the time. Growing up in the shadow of his contemporary Evel Knievel (Ben Foster), Carter attempts a years-long pursuit of launching a rocket-powered Lincoln Continental across the St. Lawrence River. But driving at speeds up to 280 mph and flying off a ramp that would take him from the Canadian side of the river to the American side may be the one jump that ends Ken s life. His long-suffering wife Gloria (Laurence Leboeuf) believes that Ken can accomplish anything he puts his crossed eyes to, though after many years of 
+
+### The Families Stone : Rachel McAdams, Claire Danes and Sarah Jessica Parker to Return for Sequel
+Sat, 12 Sep 2026 14:00:18 +0000 — https://www.thewrap.com/creative-content/movies/the-family-stone-sequel-cast-rachel-mcadams/
+
+Searchlight Pictures will release The Families Stone, a sequel to the 2005 holiday classic with the original returning cast, the company announced Saturday. Tom Bezucha, who wrote and directed the original 2005 film, returns as well in both capacities for The Families Stone. Producing are Michael London and Shannon Gaulding for Groundswell Productions, and Sarah Jessica Parker and Alison Benson for Pretty Matches Productions. The returning cast for The Families Stone is Claire Danes (“Julie Morton”), Rachel McAdams (“Amy Stone”), Dermot Mulroney (“Everett Stone”), Craig T. Nelson (“Kelly Stone”), Sarah Jessica Parker (“Meredith Morton”), and Luke Wilson (“Ben Stone”). Additional returning principal cast also includes Tyrone Giordano (“Thad Stone”), Elizabeth Reaser (“Susannah Stone”), Paul Schneider (“Brad Stevenson”), and Brian White (“Patrick Thomas”). The official logline reads: Twenty years after their mother’s passing, the Stone family reunites for Christmas only to face the season’s biggest surprise: their father has unexpectedly invited the woman he’s fallen in love with to meet the family. “The Family Stone” starred Diane Keaton as the family matriarch and became a perennial holiday favorite in the wake of its release. Taylor Friedman and Creative Executive Daniel Yu are overseeing the project for Searchlight Pictures, reporting to Heads of Production and Development DanTram Nguyen and Katie Goodson-Thomas. Bezucha is a producer and director, known for Let Him Go, Big
 
 ### Bill Maher Walks Comedy Tightrope With Pair of 9/11 Jokes on 25th Anniversary
 Sat, 12 Sep 2026 03:16:28 +0000 — https://www.thewrap.com/creative-content/tv-shows/bill-maher-september-11-jokes-trump-real-time-hbo/
@@ -262,80 +287,55 @@ Sat, 12 Sep 2026 01:11:09 +0000 — https://www.thewrap.com/culture-lifestyle/fa
 
 The Venice Film Festival serves up subdued style moments and loads of fashion parties. Sterling Point costume designer Marissa Schwartz chats about crafting the show s teen dream wardrobe of Chanel, Bode and thrifted finds for the Amazon show about summering in the Hamptons of the North. Plus, Buck Mason s executive vice president of womenswear design shares her vision for expanding the brand. Maggie Gyllenhaal attends the 15/18 (A Place to Heal) screening during the 83rd Venice International Film Festival on Sept. 4, 2026. Source: Getty The Venice Film Festival s Serious Fashion for Serious Times With fewer young Hollywood stars and studio blockbusters screening at the Venice Film Festival, there were fewer of the barely-there gowns and viral-bait fashion moments we ve come to expect. Perhaps it was a reflection of a more serious mood, befitting the politically charged times and the stunning lack of female representation in the competition, where only two of the 21 films are directed or co-directed by women, compared with six last year. The festival was presided over by a woman, at least. Jury president Maggie Gyllenhaal, a filmmaker herself, called the imbalance a systemic problem, adding, “It’s been such a short time that women have had the opportunity to make films at all. It will take some time to get used to the fact that many women make movies quite differently than men do.” Of course, women remain central to the glamour of the red carpet in Venice, even as they remain
 
-### The Housewife Director Says His Nazi Period Drama Echoes Today s Grossly Polarized World
-Sat, 12 Sep 2026 00:03:08 +0000 — https://www.thewrap.com/creative-content/movies/the-housewife-naomi-watts-ben-shirinian-tiff-interview/
-
-The Housewife director Ben Shirinian wanted to spotlight how hate can grow to be normalized in his new New York-set Nazi drama. While speaking in TheWrap’s studio at the Toronto International Film Festival on Friday, Shirinian broke down how his film – based on true events that took place in the 1960s – saw hate creeping out of the extraordinary and into everyday life. He added that today s grossly polarized world only emphasizes the parallels to the Naomi Watts-starring project s themes. I think we re living in a in a grossly polarized world right now, where we re seeing an upsurge of profound hatred of all kinds, including antisemitism and other forms of hate, Shirinian said. I was really interested in delving into the psychology of hate and how hatred could take hold, how we could become normalized, and what that could do to us. This became a story about how extraordinary evil can just hide behind this ordinary life, and I really took to some of the core themes in the story about how hate doesn t announce itself. It can hide behind familiarity until it slowly becomes ordinary. “The Housewife” is based on a true story from 1964 and “follows a determined young New York Times journalist (Ty Sheridan) as he tracks down a potential Nazi officer living secretly in Queens. But when he befriends the suspect’s elegant and charming wife (Naomi Watts), the implications of his investigation become much more unsettling.” As Shirinian worked with his cast on the film, he continued to re
-
-### AI Creator Day Adds Adobe, Fox, IAB and More
-Fri, 11 Sep 2026 23:26:33 +0000 — https://www.thewrap.com/industry-news/business/ai-creator-day-adds-adobe-fox-iab/
-
-Hear directly from Fox on how a major studio is upskilling its creative teams for an AI-powered future, and from brands like Adobe and IAB shaping where the technology goes next, alongside voices from 11:11 Media, Fairground Entertainment and pocket.watch. Across conversations, workshops, live demos and creator showcases, they ll dig into the businesses forming around AI and the open questions of ownership, authorship and creative rights. The inaugural event in partnership with What’s Trending serves as the kickoff to TheGrill , TheWrap s flagship business and technology conference, taking place the following day at the DGA. Who You ll Hear From Conversation Who Decides What s Human? Karen Robinson, James Douglas and Rebecca Grone — moderated by Shira Lazar Platforms are under growing pressure to label AI-generated media, and creators are already seeing original work mislabeled — raising questions about authorship, consent, ownership and compensation. Karen Robinson, SVP and Deputy General Counsel at Adobe Inc., James Douglas, VP of the Experience Center for Creator Economy and Gaming at IAB, and Rebecca Grone, Head of Impact at 11:11 Media, take on whether content provenance offers a more reliable path to authenticity, what platforms and AI companies owe creators, and how to protect human work without shutting down experimentation. Moderated by Shira Lazar, host and co-founder of What s Trending. Conversation Rewriting the Studio Model: Upskilling Talent for an AI-Powered Fu
-
-### Trash Mountain Review: Caleb Hearon Finds Emotional Treasures in Moving, Mirthful Dramedy
-Fri, 11 Sep 2026 23:15:00 +0000 — https://www.thewrap.com/creative-content/movies/trash-mountain-review-caleb-hearon-movie/
-
-At first glance, Kris Rey’s Trash Mountain, the deeply felt dramedy about two siblings whose hoarder father dies and leaves them having to sort through the rubble of his life, could seem like countless other movies you’ve seen before. But the closer you look, the more you begin to see something quietly moving and mirthful emerge from within its familiar narrative beats. The key? Star and co-writer Caleb Hearon. For those who are unfamiliar, Hearon has steadily emerged as one of the funniest, most incisive voices in comedy working today. In addition to being a killer stand-up and storyteller — whose recent special, “ Model Comedian ,” was a true gem of the form — he’s also a naturally witty and earnest performer, making the most of a couple of moments in “ The Devil Wears Prada 2 .” But there has always been a sense that he’s deserving of bigger parts that make full use of his talents. That moment is now here with Trash Mountain. This film sees Hearon not just starring, but writing alongside his co-writer Ruby Caster, to wonderful results. Drawing from much of Hearon’s personal life surrounding the sudden death of his father , it has him bringing his same razor-sharp comedic voice and also stretching his writing muscles to tell a more sincerely bittersweet story of familial loss. Even as it can feel familiar in its broad narrative strokes, occasionally playing like a modern riff on Garden State, Hearon instills the film with such deep feeling and hilarious bite that you end up
-
-### Josh Giuliano s Occupant Lands at Focus, Blumhouse Atomic Monster After Buzzy TIFF Debut River
-Fri, 11 Sep 2026 23:03:05 +0000 — https://www.thewrap.com/creative-content/movies/focus-blumhouse-josh-giuliano-film-tiff-premiere/
-
-Less than 24 hours after the world premiere of his buzzy feature debut River, writer-director Josh Giuliano already has his next horror movie lined up, TheWrap has learned. Giuliano s Occupant will be a collaboration between Focus Features (which has acquired worldwide rights), Blumhouse Atomic Monster, Divide/Conquer and Spooky Pictures. Plot details are being kept under wraps. The deal comes one year after the premiere of Obsession (another Focus/Blumhouse Atomic Monster collaboration) at last year s edition of Toronto International Film Festival. It s also the same day that Curry Barker and Inde Navarrette returned to the festival for an Obsession screening and on-stage conversation. Focus acquired Obsession out of TIFF last year, with the film going on to become the highest-grossing festival acquisition of all time at a $512 million global gross. While Giuliano s River already entered TIFF with IFC and Shudder attached for distribution, Focus and Blumhouse Atomic Monster will look to turn the filmmaker s coming sophomore feature into a horror hit. River opened TIFF s Midnight Madness section, which last year saw such films as Obsession and Nirvanna the Band the Show the Movie among its lineup. With all eyes on the section this year to find a prospective runaway hit, Midnight Madness programmer Peter Kuplowsky told TheWrap ahead of the festival that River was the one to watch. Josh is going to be a filmmaker that a lot of people are going to want to work with,” Kuplowsky s
-
-### Fjord Star Sebastian Stan Didn t Set Out to Play Another Conservative After Trump
-Fri, 11 Sep 2026 22:56:52 +0000 — https://www.thewrap.com/creative-content/movies/sebastian-stan-tiff-interview-donald-trump-conservative-characters/
-
-Two years ago, Sebastian Stan starred as Donald Trump in The Apprentice, drawing reactions across the spectrum from fans and earning himself a Best Actor Oscar nomination in the process. Now, in his new movie Fjord, the actor is once again playing a conservative figure likely to draw criticism. But, according to the actor, he did not set out to play such divisive, conservative men back to back. In the film, Stan plays Mihai Gheorghiu, a conservative Christian who s relocated from Romania to an isolated Norwegian town with his wife (Renate Reinsve) and five children. The family is rigid in their beliefs and draws criticism from the town, especially when one of the kids has visible bruising, which Mihai owns up to being responsible for. Stopping by TheWrap s studio at the Toronto International Film Festival on Friday, Stan noted that there s not one specific draw that s pulled him toward playing controversial characters in the last few years. It s just how schedules worked out. To be honest, the timing of these movies was very serendipitous in a way, and then I m sometimes like, Look, how did this all happen?' he explained. You know, I ve been around trying to work with these guys, with these directors for so many years, and suddenly now is the time. I don t know! But I m grateful as an actor to be part of these important things that are happening right now, you know, these timely issues in Trump s America, Stan continued. We re living in crazy times, and again, I still think y
-
 ## Collider
 
-### The Classic Quentin Tarantino Called “One of the Few Perfect Movies Ever Made” Is Officially Streaming
-Sat, 12 Sep 2026 13:30:11 GMT — https://collider.com/texas-chain-saw-massacre-prime-video-quentin-tarantino-perfect-movie/
+### ‘Saturday Night Live UK’ Is Officially Mastering the Most Important ‘SNL’ Formula
+Sat, 12 Sep 2026 16:30:11 GMT — https://collider.com/snl-uk-saturday-night-live-head-writer-jonno-johnson-interview/
 
-Director Quentin Tarantino frequently shares his list of favorite movies, ranging from broad best-of-the-year lists to breakdowns of more obscure genres. His favorite movie of 2026, for instance, is the Netflix crime-thriller The Rip , starring Matt Damon and Ben Affleck . His favorite spaghetti Western , on the other hand, is Sergio Leone 's epic The Good, the Bad and the Ugly . Tarantino has also made his love for grindhouse cinema quite apparent over the course of his career. Around two decades ago, he collaborated with Robert Rodriguez on a grindhouse double-bill released theatrically; his installment, Death Proof , is widely regarded as his most minor work. Unsurprisingly, Tarantino has a list of favorite grindhouse films, and the highest-rated movie on it is currently streaming on Prime Video and Shudder. In his book "Cinema Speculation," Tarantino described it as one of the few "perfect" movies ever made .
+After spending August performing his first-ever solo stand-up show Here Comes Mr Funny at the Edinburgh Festival Fringe and revealing the secrets behind launching SNL UK at the Edinburgh TV Festival , Johnson is back at “school” ready to start Second Year. The co-head writer, now sharing the role with Laura Claxton ( The Cleaner , Make That Movie ) , exclusively joined Collider on the Friday before Season 2’s premiere to lift the curtain on the UK’s buzziest comedy.
 
-### The 8 Most Exciting Thriller Movies of the 21st Century, Ranked
-Sat, 12 Sep 2026 13:23:11 GMT — https://collider.com/most-exciting-thriller-movies-21st-century-ranked/
+### Forget ‘The Rookie,' Nathan Fillion's 4-Season Sitcom Is His Most Overlooked Role
+Sat, 12 Sep 2026 16:28:11 GMT — https://collider.com/the-rookie-nathan-fillion-abc-two-guys-a-girl-and-a-pizza-place/
 
-There is no point in watching a great thriller if you’re not calculating all the time. You start calculating. Who has the gun? Who knows more than they are admitting? How long until somebody makes the choice that ruins everything? The room around you becomes irrelevant because the movie has quietly turned you into another nervous participant. That is the standard here. Not merely suspenseful. Not merely dark.
+Nathan Fillion has built a dedicated fanbase thanks to his long-running procedurals, cult classic sci-fi roles, and appearances in comic book adaptations. But the 55-year-old actually got his start in a largely forgotten sitcom. He starred as Johnny Donnelly in Two Guys, A Girl and a Pizza Place , an ABC series running from 1998 to 2001.
 
-### Netflix's Latest Release Officially Takes Over Streaming, and It's Not a Movie or Series
-Sat, 12 Sep 2026 12:46:11 GMT — https://collider.com/grand-theft-auto-6-extended-look-trending-netflix/
+### Steven Spielberg’s 10/10 WWII Series Is Officially Bigger Than Ever on Streaming
+Sat, 12 Sep 2026 16:15:11 GMT — https://collider.com/band-of-brothers-legacy-documentary-streaming-charts-september-2026/
 
-Netflix has a history of putting its finger on the pulse of what matters, from Stranger Things to Squid Game . The newest hot ticket item, however, is not a movie or television series. As everyone came down with Grand Theft Auto fever, the streamer followed suit. Grand Theft Auto VI is imminent after 13 years of waiting, and Netflix has just the thing to tide fans over before its release. The 23-minute-long featurette, Grand Theft Auto VI: An Extended Look , has exploded in the pop culture zeitgeist .
+The year just keeps getting better for fans of World War II-era storytelling. Perhaps the greatest WWII series of all time is celebrating its 25th anniversary this year, and it marked the occasion with a new special that fans are flocking toward in large numbers on streaming. These fans have been spoiled for choice in the last few months, with movies such as Nuremberg , Pressure , and more recently, Lucky Strike , doing tremendously on the PVOD market. At the same time, the History Channel's epic 20-episode documentary series World War II with Tom Hanks stayed in the top five of the domestic iTunes chart for the better part of two months.
 
-### 'Stranger Things' Star's Forgotten Superhero Misfire Soars Onto Free Streaming
-Sat, 12 Sep 2026 12:45:11 GMT — https://collider.com/seth-rogen-superhero-green-hornet-streaming-free-pluto-tv-september-2026/
+### Jodie Comer's 'Stuffed' Is Officially the Strangest Movie You'll Love This Year | TIFF Review
+Sat, 12 Sep 2026 15:37:39 GMT — https://collider.com/jodie-comer-harry-melling-stuffed-musical-movie-review/
 
-After the success of Tim Burton 's Batman in the late 1980s, studios across town dedicated themselves to producing movies based on other pulp comic strip characters from the 1930s and 1940s. One of the most prominent superheroes of that era had already been featured in a short-lived television series in the 1960s, around the same time as the Adam West and Burt Ward Batman series — in fact, both shows were created by the same man, William Dozier . However, the other property didn't get a proper film adaptation until much later, during the second wave of superhero cinema in the 2010s. The movie's production was riddled with problems, and its star later described the experience of making it as a "nightmare." Now, the movie is streaming for free in the United States, so if you haven't checked it out, now is your chance to do so.
+The expectations saddled on a movie musical are difficult to meet. There has to be spectacle, impeccable performances, and amazing music to carry the story until the credits roll. This typically requires massive sets and intricate costumes, all backed by a budget that could also fund an expedition to the moon. These are not easy endeavors, so to see a movie as original and distinct as Stuffed manage to tell a uniquely macabre musical love story so effectively is an achievement.
 
-### Nicolas Cage's Horrific Crime Thriller Officially Haunts a New Streaming Home
-Sat, 12 Sep 2026 12:30:11 GMT — https://collider.com/nicolas-cage-horror-longlegs-streaming-hulu-september-2026/
+### Forget ‘The Walking Dead,’ This 111-Minute Thriller Is a Paramount+ Sleeper Hit
+Sat, 12 Sep 2026 15:30:11 GMT — https://collider.com/homestead-paramount-plus-walking-dead-replacement-streaming-success-september-2026/
 
-Serial killer thrillers and supernatural horror don’t always make comfortable bedfellows, but Osgood Perkins found a particularly disturbing way to combine the two. Two years ago, Perkins made a film that paired the procedural hunt for a killer like Silence of the Lambs into something a lot more horrifying, while also burying Nicolas Cage beneath a mountain of prosthetics and, in doing so, giving him one of the best showcases of his career .
+The evolution of A24 from an indie outfit to a thriving studio that releases mid-budget genre movies has been well-documented. A24 is now gearing up to release its biggest movie yet, an adaptation of the Elden Ring video game, produced on a reported budget of more than $100 million. At the same time, another studio that specializes in niche programming has had its own journey. We're talking about Angel Studios, which initially limited itself to faith-based movies targeted at a largely neglected audience, but has now ventured into more mainstream fare. This week, Angel released the Alan Ritchson and Owen Wilson -led action movie Runner , and later this year, it will debut the biblical epic Zero A. D.: The Birth of Christ . In recent years, Angel witnessed box office success with animated movies such as The King of Kings and David .
 
-### 7 Rom-Coms That Are Secretly About Grief, Not Love
-Sat, 12 Sep 2026 12:20:11 GMT — https://collider.com/rom-coms-that-are-secretly-about-grief-not-love/
+### 'Succession's Best Line Is Still One of the Greatest Quotes in Drama History
+Sat, 12 Sep 2026 15:23:11 GMT — https://collider.com/succession-best-line-greatest-quote-logan-roy-drama-history/
 
-Romantic comedies often get reduced to their own surface mechanics, possibly more than any other genre. Aspects such as the meet-cute, the misunderstanding, the airport dash, the happy ending and countless others. But ironically, some of the most enduring entries in this category are not about falling in love at all. They are more about loss, the grief that comes with it , and losing a relationship, or a version of yourself and using romance as the vehicle to process it rather than the core driving force of the narrative. With two rom-com classics in About Time and Sleepless in Seattle hitting Netflix on September 1st, now feels like the right moment to revisit why films like these two have held up so much longer than their genre peers.
+Season 4 of Succession , which concluded the acclaimed series in 2023, was one for the ages. Consisting of 39 episodes in total, the dramedy created by Jesse Armstrong stands as one of the crowning achievements of the Peak TV era. Succession 's conclusion three years ago signaled the end of an era ushered in by HBO in the early 2000s, as no prestige drama has inspired as much discussion, analysis, and media buzz since. We knew we were in for an exceptional final season when it featured Succession 's most pressing and resonant line reading by the show's patriarch, Logan Roy ( Brian Cox ).
 
-### 5 Fantasy Books With Villains You’ll End Up Rooting For
-Sat, 12 Sep 2026 12:19:11 GMT — https://collider.com/fantasy-books-villains-to-root-for/
+### Guy Ritchie’s 2-Part Crime Series Is Officially Losing Steam on Netflix
+Sat, 12 Sep 2026 14:45:11 GMT — https://collider.com/the-gentlemen-season-2-netflix-viewership-drop/
 
-In fantasy , villains are beloved characters. All readers need is an evil sorcerer , a cruel king, or a tyrant who only wants to gain more power, and they have plenty of good reasons to hate any of them. Still, some of the most interesting villains in fantasy literature make their readers’ relationships with them complicated. This can happen when villains commit awful deeds but justify their actions; they may be cruel, but they have also suffered cruelty at the hands of others; or, in some cases, they are such unique personalities that readers feel sorry for them when they fail.
+Director Guy Ritchie 's spotty box-office record appears to have spilled over into streaming, an arena where he had been performing impeccably thus far. Ritchie's most recent theatrical movies haven't exactly set the box office on fire, but he was balancing things out with a trio of successful streaming shows. All three were renewed for a second season, and two of them have already secured Season 3 renewals as well. The first out of the gate to return was The Gentlemen , a spin-off of Ritchie's 2019 sleeper-hit dark comedy crime film of the same name. However, the series hasn't been performing as well as Netflix would've liked so far.
 
-### Say Goodbye to HBO Max's Most Intense Thriller of the 2020s
-Sat, 12 Sep 2026 12:14:12 GMT — https://collider.com/barbarian-horror-movie-leaving-hbo-max-september30/
+### 10 Greatest Superhero Movies Nobody Talks About, Ranked
+Sat, 12 Sep 2026 14:28:11 GMT — https://collider.com/greatest-superhero-movies-nobody-talks-about-ranked/
 
-The 2022 thriller film Barbarian is set to leave streaming on September 30th. Directed by Zach Cregger , the film found a new home on HBO Max but will soon be departing. Viewers only have a short time left to watch before it leaves. Fans of the horror genre won't want to miss out on this last opportunity to watch one of the most intense and shocking films from the last few years .
+One would need to be living under a rock not to notice that the superhero genre has absolutely taken over Hollywood in the last few decades. This fact has led to a surplus of superhero films over the years, but not every single one of them can be a Spider-Man or Iron Man kind of movie when it comes to success. That doesn't mean that they're not as good, however, as there are plenty of seemingly forgotten superhero flicks that are actually excellent .
 
-### ‘Sopranos’ Meets ‘Yellowstone’ in Hulu's 7-Part Crime Drama Now Climbing the Streaming Charts
-Sat, 12 Sep 2026 12:03:17 GMT — https://collider.com/sons-of-anarchy-sopranos-meets-yellowstone-hulu-streaming-charts/
+### Rooney and Kate Mara Officially Can't Save Werner Herzog's Bizarre Comeback Film | TIFF Review
+Sat, 12 Sep 2026 14:03:17 GMT — https://collider.com/rooney-mara-kate-mara-bucking-fastard-werner-herzog-review/
 
-If there’s one thing television has taught audiences time and time again, it’s to never mix family with business — especially when it involves crime . Back in the ’90s, The Sopranos showed the psychological toll being in the mob had on Tony Soprano ( James Gandolfini ) and how it nearly cost him his family. More recently, Yellowstone showed how past family demons can rise from the grave while the Duttons protect the legacy of their land.
+After seven years focused on making documentaries, Werner Herzog has finally returned to the world of narrative film with Bucking Fastard . Herzog, who serves as both writer and director, spotlights Kate Mara and Rooney Mara in this film, which is inspired by the real-life story of sisters Freda and Greta Chaplin. Kate plays Jean Holbrooke, while Rooney plays her sister, Joan—two characters who are so in sync with each other that they finish each other's sentences, speak in unison, fall in love with the same man, and struggle to find their own individual identity outside their duo. Caught in a scandal after falling for the wrong guy, Jean and Joan somehow find themselves digging a tunnel inside a cave in Ireland, in a bizarre and surreal tale that ultimately struggles to find its proper footing.
 
-### Forget ‘Reacher,’ Alan Ritchson’s Wild WWII Horror Movie Is Officially on Prime Video
-Sat, 12 Sep 2026 12:00:13 GMT — https://collider.com/alan-ritchson-ghosts-of-war-streaming-prime-video-september-2026/
+### ‘Avengers: Doomsday’ Officially Beats Marvel’s Worst Debut 3 Months Early
+Sat, 12 Sep 2026 14:00:11 GMT — https://collider.com/avengers-doomsday-50-million-box-office-presales/
 
-2026 has been the year of Alan Ritchson so far, and not just because he returned to his signature role of Jack Reacher in the fourth season of Prime Video ’s Reacher series. Ritchson took his talents to Netflix to star in one of the biggest sci-fi movies in the streamer’s history, War Machine , which did well enough to earn a spot on Netflix’s all-time top 10 most-watched movie list. Ritchson also teamed up with Shailene Woodley for the virtually silent action thriller, Motor City , which is now available to watch on VOD after grossing only a few million at the box office. Ritchson has a new action movie out now in theaters, Runner , starring Owen Wilson . Safe to say Ritchson has blossomed into one of the biggest action stars in the world in the last few years.
+The success of Spider-Man: Brand New Day , which is all set to become the highest-grossing movie in domestic box-office history, appears to have pulled off the improbable act of revitalizing the Marvel Cinematic Universe. The franchise has had a difficult few years, experiencing box-office blows for the first time in its history with movies such as Ant-Man and the Wasp: Quantumania and Thunderbolts* . Even big-ticket titles such as The Fantastic Four: First Steps fell short of expectations, delivering the kind of commercial results that would've been acceptable during Phase 2 of the franchise. However, the success of Spider-Man: Brand New Day encouraged Disney to open pre-sales for its big MCU tentpole for the year, Avengers: Doomsday . And the results so far have been nothing short of remarkable.
 

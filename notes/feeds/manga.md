@@ -1,6 +1,26 @@
-# Manga — harvested 2026-09-12T13:44:06.808Z
+# Manga — harvested 2026-09-12T16:30:32.331Z
 
 ## Anime News Network
+
+### Japanese Animation TV Ranking, August 31-September 6
+Sat, 12 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/japanese-animation-tv-ranking-august-31-september-6/.241659
+
+<cite>From Old Country Bumpkin to Master Swordsman</cite> season 2 earns 2.4% rating
+
+### MARRIAGETOXIN Volume 12-14 Manga Review
+Sat, 12 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/marriagetoxin-volume-12-14/manga/.241194
+
+You’ll be happy to know that the story is kicking things up a notch in the best way possible.
+
+### Bleach: Thousand-Year Blood War - The Calamity Anime Episodes 49, 50 Delayed to October 19, 26
+Sat, 12 Sep 2026 11:13:17 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/bleach-thousand-year-blood-war-the-calamity-anime-episodes-49-50-delayed-to-october-19-26/.241707
+
+Episodes 7, 28, 46, 48 to re-air in weeks before episodes 49, 50
+
+### Netflix Announces Cast for Webtoon-Based Live-Action Series Outback
+Sat, 12 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/netflix-announces-cast-for-webtoon-based-live-action-series-outback/.241650
+
+Series based on <cite>G'day</cite> webtoon follows man who travels to Australia after his older sister's sudden death
 
 ### CloverWorks' Omnibus Anime Film Grotesqqque Streams Trailer Highlighting "Yoroshiku★Girl" Segment
 Sat, 12 Sep 2026 08:32:19 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/cloverworks-omnibus-anime-film-grotesqqque-streams-trailer-highlighting-yoroshiku-girl-segment/.241704
@@ -42,31 +62,21 @@ Sat, 12 Sep 2026 06:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Neguse performs new opening theme song for show's 2nd part
 
-### Vertex Force Original Anime Reveals Theme Song Artists, More Cast in 2nd Promo Video
-Sat, 12 Sep 2026 06:10:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/vertex-force-original-anime-reveals-theme-song-artists-more-cast-in-2nd-promo-video/.241687
-
-Kazuki Ura, Nana Mizuki join cast; ClariS, Hashimero perform themes
-
-### Ascendance of a Bookworm Part 3 Anime Casts Kaede Hondo, Reveals Climax Promo Video
-Sat, 12 Sep 2026 06:09:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/ascendance-of-a-bookworm-part-3-anime-casts-kaede-hondo-reveals-climax-promo-video/.241696
-
-Kaede Hondo joins cast as character Charlotte
-
-### Fate/EXTRA Record Game Streams Character Video for Archer
-Sat, 12 Sep 2026 06:05:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/fate-extra-record-game-streams-character-video-for-archer/.241699
-
-Junichi Suwabe voices character in game launching on January 28
-
-### Inherit the Winds Anime's New Video Highlights 5 Characters
-Sat, 12 Sep 2026 05:53:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/inherit-the-winds-anime-new-video-highlights-5-characters/.241686
-
-Anime debuts 1st in theaters on November 13 before airing starting in January 2027
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### BLEACH: Thousand-Year Blood War Delays Episodes 49 and 50 to October "to Improve Quality"
+Sat, 12 Sep 2026 14:40:59 GMT — https://animecorner.me/bleach-thousand-year-blood-war-delays-episodes-49-and-50-to-october-to-improve-quality/
+
+BLEACH: Thousand-Year Blood War anime has delayed Episode 49 and Episode 50 to October 2026 in order to "improve quality."
+
+### BLEACH: TYBW Part 4 Features Renji Abarai Changes in Episode 8 Ending Video
+Sat, 12 Sep 2026 14:32:36 GMT — https://animecorner.me/bleach-tybw-part-4-features-renji-abarai-changes-in-episode-8-ending-video/
+
+BLEACH: Thousand-Year Blood War (TYBW) Part 4 The Calamity premiered Episode 8 "THE END TWO WORLD" on&hellip;
 
 ### Japanese Boy Group ONE OR EIGHT to Perform Special SHOW CASE 2026 in Singapore, Manila, and Bangkok This October
 Sat, 12 Sep 2026 11:43:14 GMT — https://animecorner.me/japanese-boy-group-one-or-eight-to-perform-special-show-case-2026-in-singapore-manila-and-bangkok-this-october/
@@ -117,16 +127,6 @@ Jaadugar: A Witch in Mongolia anime released the synopsis and preview for Episod
 Fri, 11 Sep 2026 14:00:34 GMT — https://animecorner.me/press-conference-sparks-of-tomorrow-ed-artist-ginger-root-art-director-mao-takayama/
 
 Sparks of Tomorrow is a bright and inventive contribution to this season's stacked list&hellip;
-
-### Katekyo Hitman Reborn! Anime Reveals Fourth Opening Featuring "88" by LM.C
-Fri, 11 Sep 2026 13:28:26 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-fourth-opening-featuring-88-by-lm-c/
-
-Katekyo Hitman REBORN! anime officially released the creditless version of its fourth opening, featuring the song "88" by LM.C.
-
-### Summer 2026 Anime Rankings – Week 10
-Fri, 11 Sep 2026 12:30:00 GMT — https://animecorner.me/summer-2026-anime-rankings-week-10/
-
-Mushoku Tensei Season 3 takes its first win of the Summer 2026 season in Week 10 with 15.03% of the vote, followed by Bleach and Inept Villainess.
 
 ## MyAnimeList News
 
