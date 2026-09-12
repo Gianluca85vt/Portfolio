@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-12T08:50:03.398Z
+# Source feeds — harvested 2026-09-12T13:44:06.808Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -9,13 +9,6 @@ own feed: headline, link, date, and their summary.
 > one outlet has the story, write it, keep `draft: true`, and say so in
 > the first line of the body. See notes/article-voice.md.
 
-## Broadcasts in the feeds
-
-Already aired, so a round-up rather than a preview:
-
-- Eurogamer — Metroid Dread studio MercurySteam appears to confirm it's making Metroid Ravenous, addressing a lingering question from yesterday's Nintendo Direct
-- Polygon — The 17 Best Games of Gamescom 2026
-
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
 > round-up an hour after it ends. Directs, State of Play, Xbox showcases,
@@ -24,10 +17,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Film & TV next.** 62 articles have gone out since the last one.
+**Write Film & TV next.** 63 articles have gone out since the last one.
 
-- **Film & TV** — BROKEN. 62 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 145.
-- **Manga and anime** — on track. 2 articles since the last one; quota is one in 6. 4 in the archive of 145.
+- **Film & TV** — BROKEN. 63 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 146.
+- **Manga and anime** — on track. 3 articles since the last one; quota is one in 6. 4 in the archive of 146.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -36,13 +29,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Film & TV](film-tv.md) **owed** — 66 items
-- [Games](games.md) — 98 items
-- [Tech](tech.md) — 70 items
-- [3D](3d.md) — 17 items
+- [Film & TV](film-tv.md) **owed** — 65 items
+- [Games](games.md) — 94 items
+- [Tech](tech.md) — 82 items
+- [3D](3d.md) — 16 items
 - [AI](ai.md) — 5 items
 - [Manga](manga.md) — 36 items
 
-Total: 292 items.
+Total: 298 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

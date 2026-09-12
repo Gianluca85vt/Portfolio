@@ -1,58 +1,78 @@
-# Film & TV — harvested 2026-09-12T08:50:03.398Z
+# Film & TV — harvested 2026-09-12T13:44:06.808Z
 
 ## Variety
 
-### Gary Oldman Predicts HBO s Harry Potter Series Will Be More Satisfying for Fans Than the Movies
-Sat, 12 Sep 2026 05:54:51 +0000 — https://variety.com/2026/tv/news/gary-oldman-hbo-harry-potter-series-more-satisfying-than-movies-1236859390/
+### Nishikawa Miwa Confronts Japan s Failure to Protect Its War Orphans in Toronto Platform Opener Children Untold
+Sat, 12 Sep 2026 13:30:00 +0000 — https://variety.com/2026/film/festivals/nishikawa-miwa-children-untold-toronto-war-orphans-1236858495/
 
-Gary Oldman, who played Sirius Black in four Harry Potter movies, said he believes HBO s forthcoming TV series adaptation set in the Wizarding World will be a bigger crowd-pleaser than the Warner Bros. films. That s because the movies were significantly abridged from J.K. Rowling s original books, whereas HBO s Harry Potter is including far more of [ ]
+In the rubble left by the firebombing of Tokyo in WWII, a 12-year-old girl who once dreamed of a life in music learns to shine shoes, fall in with a band of orphaned boys sheltering under a local yakuza clan and, eventually, erase every trace of the person she used to be. That girl, Kotoko, [ ]
 
-### Paramount Argues States Antitrust Suit Will Collapse Under Scrutiny
-Sat, 12 Sep 2026 04:16:38 +0000 — https://variety.com/2026/film/news/paramount-answer-antitrust-case-1236859363/
+### Sci-Fi Franchise Kri8 Universe Launches at Toronto Market (EXCLUSIVE)
+Sat, 12 Sep 2026 13:30:00 +0000 — https://variety.com/2026/film/markets-festivals/sci-fi-franchise-kri8-universe-toronto-market-1236858647/
 
-Paramount s lawyers filed a legal response to the states antitrust lawsuit against the Warner Bros. Discovery merger on Friday, sketching out arguments and defenses it may use at a trial next March. Among other defenses, Paramount s lawyers said they may claim that the coalition of 12 states lacks the authority to regulate the merger, which [ ]
+Kri8 Universe, a five-world science-fiction IP ecosystem from production designer and filmmaker Uzair Merchant, will launch at TIFF: The Market, looking for global licensing, studio and strategic partnerships following 14 years of independent development. The universe consists of five interconnected worlds — Elixir of Life, Black Rose, the 8th Sin, Skye and Vault X — [ ]
 
-### Jimmy Kimmel s Pulled TV Interview With James Talarico Hits 5 Million Views in 24 Hours on YouTube
-Sat, 12 Sep 2026 03:15:43 +0000 — https://variety.com/2026/tv/news/jimmy-kimmel-james-talarico-interview-youtube-views-1236857569/
+### Female Bucking Bronc Riders Take Center Stage in Cheyenne, TIFF-Bound Doc Produced by Jenna Bush Hager (EXCLUSIVE)
+Sat, 12 Sep 2026 13:15:00 +0000 — https://variety.com/2026/film/news/jenna-bush-hager-cheyenne-documentary-cowgirls-broncs-1236859187/
 
-Jimmy Kimmel s pulled TV interview with James Talarico, the Texan Democrat running for the U.S. Senate, has crossed 5 million views in the 24 hours since it was posted to YouTube. It was revealed during Wednesday night s episode of Jimmy Kimmel Live! that the interview would not air on his ABC show because of threats [ ]
+The TIFF-bound documentary Cheyenne follows a quartet of fearless cowgirls who compete at riding wild broncos on the rodeo circuit after nearly a century of being excluded because of their gender. Variety has a first look at the film, in which director Taimi Arvidson profiles four cowgirls when the American rodeo circuit opens up a [ ]
 
-### The Julia Set Review: Chase Infiniti Confirms Her Movie-Star Mettle in Niki Byrne s Riveting Math-Geek Bad Romance
-Sat, 12 Sep 2026 02:54:48 +0000 — https://variety.com/2026/film/reviews/the-julia-set-review-chase-infiniti-1236858794/
+### From ‘American Hostage’ to Podcasts, Hollywood Digs Deeper Into Digital IP — But Will the Same Stories Told on Different Platforms Hurt Business?
+Sat, 12 Sep 2026 13:05:00 +0000 — https://variety.com/2026/film/news/hollywood-ip-competing-projects-1236859296/
 
-In "The Julia Set," she portrays a numbers genius in the most convincing way possible — by wearing her virtuosity lightly and casually, as if it were second nature (which, for someone like Julia, it is). But she also makes Julia a highly focused and mature young woman who is still, by virtue of age and inexperience, just naïve enough to be poised between assertion and following the lead of a dude she should have steered clear of.
+Watching the MGM+ limited anthology series American Hostage with exec producer and star Jon Hamm at its Sept. 12 Toronto fest premiere, you might be reminded of last year s Sept. 7 Toronto premiere, Gus Van Sant s thriller Dead Man s Wire, about the same 1977 Indianapolis hostage crisis. Or the 2022 podcast American Hostage with Jon [ ]
 
-### Lil Durk Acquitted in Murder-for-Hire Trial
-Sat, 12 Sep 2026 00:48:11 +0000 — https://variety.com/2026/music/news/lil-durk-acquitted-murder-for-hire-trial-1236859311/
+### Jeremy Thomas, Legendary British Producer and Oscar Winner, Dies at 77
+Sat, 12 Sep 2026 12:42:35 +0000 — https://variety.com/2026/film/global/jeremy-thomas-dead-british-producer-oscar-winner-1236859473/
 
-A Los Angeles federal jury on Friday found Grammy-winning rapper Lil Durk not guilty of murder-for-hire, conspiracy and stalking resulting in death charges in the 2022 killing of rapper Quando Rondo’s cousin, according to the Los Angeles Times. Prosecutors alleged that rapper (real name: Durk Banks) directed hit men to target rapper Quando Rondo, born [ ]
+Jeremy Thomas, one of the film industry s most highly respected independent producers with a body of work spanning more than half a century, has died. He was 77 years old. In a statement, his team said that Thomas passed away peacefully at his country home in Oxfordshire late on Friday Sep 11, surrounded by his [ ]
 
-### ‘The Uprising’ Star Woody Norman on the Power Trip Playing King Richard II and Going Meatless at Age 10 After Working With Joaquin Phoenix
-Sat, 12 Sep 2026 00:36:21 +0000 — https://variety.com/2026/film/global/the-uprising-star-norman-playing-king-richard-ii-going-meatless-age-10-joaquin-phoenix-1236857404/
+### Liam Neeson on the Rage Behind The Lost Children of Tuam and Turning Producer for First Time to Tell Story of Irish Scandal
+Sat, 12 Sep 2026 12:25:00 +0000 — https://variety.com/2026/film/global/liam-neeson-rage-the-lost-children-of-tuam-producer-1236858532/
 
-Filming “The Uprising” gave British actor Woody Norman, who plays 14-year-old King Richard II in the historical fiction drama, a massive headache. It turns out the only crown they had for him to use during the shoot got damaged the first day of filming. “So it didn t fit my head,” Norman, 17, tells me over [ ]
+Liam Neeson was in his home in upstate New York in late 2017 when he was sent a link to a New York Times article about a shameful episode in Ireland s history. Almost a decade on and he tells Variety he s still coming to terms with my reaction to it. The piece, written by Dan [ ]
 
-### Ocean Way Festival Featuring Killers, Olivia Dean and Jack White Is Canceled, as Santa Monica Blames Beach Damage From Hurricane Forces
-Sat, 12 Sep 2026 00:16:18 +0000 — https://variety.com/2026/music/news/ocean-way-festival-canceled-beach-killers-olivia-dean-1236859293/
+### Maisie Williams Thriller Ignition Bought by Saban for North America (EXCLUSIVE)
+Sat, 12 Sep 2026 12:15:00 +0000 — https://variety.com/2026/film/global/maisie-williams-thriller-ignition-bought-by-saban-1236858634/
 
-Ocean Way is going away, at least for a year. Goldenvoice s inaugural Ocean Way Festival, which was scheduled to take place on the beach in Santa Monica Sept. 26-27, has been called off, with city officials saying the culprit is erosion along the shore caused by recent hurricane-level forces off the coast. A statement from [ ]
+Ignition, the upcoming high-concept thriller led by Emmy-nominated Game of Thrones star Maisie Williams, has been acquired for North America. WestEnd Films — which launched the film in Cannes — has closed a domestic deal with Saban on the film, directed by Emmy-nominated filmmaker James Erskine ( Copa 71, Billie, Sachin: A Billion Dreams ). The deal comes following [ ]
 
-### Pink Explains Slamming Macklemore s Pro-Palestine Performances, Acknowledges Heavy Backlash: I’m Standing Up for My Own People, and I Thought I Knew How Lonely That Would Be. It’s Lonelier Than That
-Fri, 11 Sep 2026 23:15:42 +0000 — https://variety.com/2026/music/news/pink-explains-macklemore-social-media-post-palestine-jewish-1236859273/
+### ‘On Behalf of My Son’ Director Gabriel Martins on Black Brazilian Representation in His Films: ‘It’s a Life Project To Me, Not Just Cinema’
+Sat, 12 Sep 2026 12:01:30 +0000 — https://variety.com/2026/film/global/on-behalf-of-my-son-gabriel-martins-black-representation-1236859408/
 
-Pink had fallen silent in the face of backlash from many quarters following her reposting a call for Macklemore to be dropped from the Ed Sheeran tour in the wake of his nightly pro-Palestinian songs and statements. Now she has spoken up about the controversy and her part in it in a big way, with [ ]
+In 2022, Gabriel Martins made waves at the Sundance Film Festival with “Mars One,” a sprawling ensemble drama chronicling the life of a Black Brazilian family. At that time, the industry was still wrestling with what a post-pandemic future would look like and, despite “Mars One” having a strong festival run, Martins struggled to secure [ ]
 
-### Sebastian Stan on Why Fjord Is Being Called a MAGA Movie and How Making The Batman 2 Feels Like F ing Godfather Part 2
-Fri, 11 Sep 2026 22:08:15 +0000 — https://variety.com/2026/film/awards/sebastian-stan-fjord-maga-the-batman-2-godfather-1236859214/
+### First Clip of ‘Club Kid’ Star Jordan Firstman as U.S. Voice Cast Lead in Cannes Breakout ‘Jim Queen’ (EXCLUSIVE)
+Sat, 12 Sep 2026 11:18:31 +0000 — https://variety.com/2026/film/global/jordan-firstman-jim-queen-first-clip-club-kid-toronto-1236859402/
 
-Sebastian Stan has been running around the city of Toronto. We’re sitting in a restaurant, having lunch between his multiple studio visits for various publications. It’s busy and bustling around us, the way TIFF tends to transform every hotel and restaurant over its 11-day period. Stan settles in at the table and digs into a [ ]
+Jordan Firstman, fresh off directorial debut “Club Kid” – acquired by A24 for release this November – leads the English-language voice cast of “Jim Queen.” Variety reveals the exclusive first clip here: The animated comedy, directed by Marco Nguyen and Nicolas Athané, premiered at Cannes to rave reviews. Variety’s Guy Lodge called it a “hilarious rare [ ]
 
-### ‘Onwards and Sideways’ Director John Madden on Returning to TIFF After 16 Years With His Parkinson’s Romantic Drama Starring Laura Linney and Rhys Ifans
-Fri, 11 Sep 2026 22:05:00 +0000 — https://variety.com/2026/film/news/onwards-and-sideways-director-john-madden-1236859016/
+### Dau Review: Ilya Khrzhanovsky s Vast Cinematic Experiment in Historical World-Building Remains More Impressive From a Distance
+Sat, 12 Sep 2026 10:49:39 +0000 — https://variety.com/2026/film/reviews/dau-review-1236857375/
 
-When director John Madden first read Paul Mayhew-Archer’s script that was based on his experience living with Parkinson’s disease, he knew it had a ways to go. But he recognized its potential. Now nearly a decade later, Madden is ready to show “Onwards and Sideways” to buyers at the Toronto Intl. Film Festival. What initially [ ]
+More than six years after Ilya Khrzhanovsky premiered “DAU. Natasha” and “DAU. Degeneration” at the Berlin Film Festival — right before the global COVID lockdown — to a politely muted reception and limited distributor interest, you might think the moment has passed for another missive from the DAU Cinematic Universe. Turns out, however, that you [ ]
 
 ## The Hollywood Reporter
+
+### Toronto: Purgatory Director Navigates Warring Parents and Girl Power in Dark Divorce Comedy
+Sat, 12 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toronto-2026-purgatory-film-director-interview-1236690774/
+
+Lindsey Lanzillotta's coming-of-age dramedy and debut feature stars J.K. Simmons, Ruby McGurrin, Abby Elliot and John Reynolds and is set for a world premiere at TIFF.
+
+### Carla Woodcock Joins Kate Beckinsale, Katherine McNamara in White (Exclusive)
+Sat, 12 Sep 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/carla-woodcock-joins-kate-beckinsale-shark-movie-white-1236698229/
+
+Highland Film racked up multiple pre-sales for Jake West's shark survival thriller at TIFF.
+
+### Canadian Auteur Matthew Rankin Had a Fever Dream About Canadian History
+Sat, 12 Sep 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/matthew-rankin-film-ladies-and-gentlemen-brian-mulroney-chat-1236683600/
+
+In the Toronto-premiering 'Ladies and Gentlemen, Brian Mulroney,' the 'Universal Language' director turns former Canadian PM Brian Mulroney’s rise to power into a surreal collage of archival footage, animation and TV propaganda.
+
+### Almodóvar s Deep Dive Into … Almodóvar
+Sat, 12 Sep 2026 09:25:06 +0000 — https://www.hollywoodreporter.com/movies/movie-news/pedro-almodovar-says-bitter-christmas-is-most-personal-film-1236698333/
+
+With the very meta 'Bitter Christmas,' the Spanish auteur goes further into autofiction than ever — and grapples with where to draw the line: "I really expose myself a lot."
 
 ### Sorry, Caleb Hearon Is Not Your Clown in ‘Trash Mountain’ Grief Dramedy
 Sat, 12 Sep 2026 02:32:19 +0000 — https://www.hollywoodreporter.com/movies/movie-news/caleb-hearon-trash-mountain-tiff-2026-1236698499/
@@ -84,27 +104,27 @@ Sat, 12 Sep 2026 01:08:33 +0000 — https://www.hollywoodreporter.com/music/musi
 
 Pink broke her silence a week after receiving extensive backlash for resharing a post calling for Macklemore to get dropped from Ed Sheeran's tour over his Free Palestine messaging.
 
-### ‘60 Minutes’ to Tackle Trump Pardons in Season Premiere
-Fri, 11 Sep 2026 23:51:01 +0000 — https://www.hollywoodreporter.com/news/politics-news/cbs-60-minutes-segment-lesley-stahl-trump-pardons-1236698386/
-
-Lesley Stahl will lead the segment, titled 'The Pardon Economy,' for the show's season 59 premiere.
-
-### Sebastian Stan Says Invitation to Be Negative in Society Starts at the Top : “It s Just So Lazy”
-Fri, 11 Sep 2026 23:39:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sebastian-stan-invitation-negative-starts-top-1236698355/
-
-The ‘Fjord’ actor criticized the current climate while speaking at the Toronto International Film Festival.
-
-### Toronto Film Festival: THR s Studio With Gary Oldman, Michelle Yeoh, Naomi Watts, Ziwe and More
-Fri, 11 Sep 2026 23:29:54 +0000 — https://www.hollywoodreporter.com/gallery/tiff-2026-portrait-studio-photos-1236698283/
-
-Other stars who stopped by the 1 Hotel space, sponsored by Canada Goose, include Sebastian Stan, Jodie Comer, Michael Imperioli, Martin Freeman and Buddy the dog.
-
-### Ocean Way Festival Canceled Over Impact From Hurricane Marie
-Fri, 11 Sep 2026 23:08:32 +0000 — https://www.hollywoodreporter.com/music/music-news/ocean-way-festival-canceled-hurricane-marie-1236698282/
-
-"Storm surf and runoff has caused significant beach erosion and the festival can no longer be safely held as planned," the festival said.
-
 ## Deadline
+
+### Brian Duckworth Dies: Country Musician, Member Of Taylor Made Band Was 56
+Sat, 12 Sep 2026 13:19:17 +0000 — https://deadline.com/2026/09/brian-duckworth-dead-1237099978/
+
+Brian Duckworth, the country musician who performed with his brother and sister as the band Taylor Made, died Monday, September 7, at his home in Clarksburg, W. Va. He was 56. His death was announced by family. A cause of death was not disclosed. Taylor Made, which featured Duckworth, his brother Greg Duckworth and sister [ ]
+
+### Jeremy Thomas Dies: Legendary UK Producer Of ‘The Last Emperor’ ‘Crash’ Was 77
+Sat, 12 Sep 2026 13:03:28 +0000 — https://deadline.com/2026/09/jeremy-thomas-dead-producer-77-1237099975/
+
+Jeremy Thomas, one of the UK’s most prominent independent film producers of the last 50 years, died on September 11. He was 77 years old. His family announced his death in a statement on Saturday. Jeremy Thomas, the celebrated British producer of The Last Emperor and of over 40 other films, has died, at the [ ]
+
+### Nashville Board Approves Renaming Airport For Dolly Parton
+Sat, 12 Sep 2026 12:49:07 +0000 — https://deadline.com/2026/09/dolly-parton-nashville-airport-1237099972/
+
+Nashville International Airport is a step closer to being renamed to honor the late country superstar Dolly Parton. The six-person board of the Metro Nashville Airport Authority voted unanimously on Friday to approve the proposed renaming. Details, such as the exact wording of the new name, are still to be hashed out in the coming [ ]
+
+### How Meditation, Hope And Hard Work Brought Rosalind Eleazar Her Long Shot Dream Lead In Chris Rock s Misty Green
+Sat, 12 Sep 2026 12:00:00 +0000 — https://deadline.com/2026/09/rosalind-eleazar-misty-green-chris-rock-toronto-interview-1237099465/
+
+Slow Horses star Rosalind Eleazar says she fights hard for roles that “people don’t immediately assume I could play. The latest example of this is her titular role in Misty Green, the new film from director-writer-producer Chris Rock, in which he also stars. Misty Green is a Hollywood actress who no longer has the town at her feet. [ ]
 
 ### Ocean Way Festival Canceled In Santa Monica Due To Beach Erosion Can No Longer Be Safely Held As Planned
 Sat, 12 Sep 2026 03:55:08 +0000 — https://deadline.com/2026/09/ocean-way-festival-canceled-beach-erosion-1237099766/
@@ -146,26 +166,6 @@ Fri, 11 Sep 2026 23:45:30 +0000 — https://deadline.com/2026/09/minka-kelly-rea
 
 Minka Kelly is focusing at the positives as she bids farewell to Ransom Canyon, which was canceled by Netflix after two seasons. Kelly, who starred opposite Josh Duhamel in the Texas romantic drama, posted a video of her and Duhamel s characters Quinn and Staten s romantic journey, which saw plenty of ups and downs during the [ ]
 
-### Practical Magic 2 Conjuring $30M U.S. Opening Box Office Update
-Fri, 11 Sep 2026 23:25:00 +0000 — https://deadline.com/2026/09/box-office-practical-magic-2-weekend-1237098516/
-
-FRIDAY PM: Warner Bros/Alcon s Practical Magic 2 is looking at a $12.5M Friday on its way to a $30M weekend opening stateside at 4,146 theaters. That opening isn t that far from Bullock s The Lost City ($30.4M opening, which wound up at $105.3M final in North America). It s also slightly under the opening of her 2009 [ ]
-
-### Curry Barker Initially Planned To Get Tattoos If Obsession Opened To $20M; Inde Navarrette Has Plans To Direct TIFF
-Fri, 11 Sep 2026 22:57:56 +0000 — https://deadline.com/2026/09/obsession-curry-barker-inde-navarrette-tiff-1237099345/
-
-All we can hope for is that it sustains That s what Curry Barker was first told by his reps and those around him about the domestic box office prospects for his horror pic Obsession. He wasn t expecting too much. Then the horror romance wound up making more than Star Wars: The Mandalorian and Grogu, $512.6M [ ]
-
-### Amy Ryan Joins Emilia Jones In Netflix Drama Series ‘The Retrievals’ From Molly Smith Metzler
-Fri, 11 Sep 2026 22:10:37 +0000 — https://deadline.com/2026/09/amy-ryan-the-retrievals-netflix-series-molly-smith-metzler-1237099613/
-
-EXCLUSIVE: Amy Ryan (Birdman) is set to star opposite Emilia Jones in The Retrievals, Netflix s third series from Maid and Sirens creator/executive producer Molly Smith Metzler. Inspired by the Peabody-winning NYT podcast by Susan Burton, The Retrievals follows an unlikely community of IVF patients who come together to crusade against Yale University after they are [ ]
-
-### South Korean Monster Thriller Hope , Andrew Garfield In The Uprising , Doc Black Zombie Comedy On A String Specialty Preview
-Fri, 11 Sep 2026 21:18:25 +0000 — https://deadline.com/2026/09/indie-films-opening-monster-thriller-hope-the-uprising-1237099382/
-
-South Korean sci-fi thriller Hope joins actioner Runner, historical epic The Uprising and a handful of interesting limited releases this weekend, a few by new indie distributors. With fall festival season in full swing and eyes on the next crop of independent standouts, it s slower for new entrants in the specialty space. Wide: Neon is [ ]
-
 ## befores & afters
 
 ### Yes, this is how they animated the Arachnids
@@ -173,12 +173,12 @@ Fri, 11 Sep 2026 12:57:13 +0000 — https://beforesandafters.com/2026/09/11/yes-
 
 Go behind the scenes of the Warrior bugs by Tippett Studio in Starship Troopers. Buy WOAH! Great Moments in Effects History Vol. 1 by at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the @beforesmag Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post Yes, this is how they animated the Arachnids appeared first on befores & afters .
 
-### The director of ‘HOPE’ breaks down those insane chase scenes, and working on mocap with Alicia Vikander and Michael Fassbender
-Thu, 10 Sep 2026 10:54:01 +0000 — https://beforesandafters.com/2026/09/10/hope/
-
-Plus, how the creatures were designed for the film. South Korean filmmaker Na Hong-jin brings science fiction and action together in HOPE , set in a fictional harbor town near the Korean DMZ after the discovery of a mysterious extraterrestrial creature. As police, hunters and locals struggle to survive the escalating threat, Alicia Vikander and Michael Fassbender play alien characters J’aur and Ma’veyyo, with both actors performing their roles through motion capture. The film is packed with large-scale action, from police-car chases and gunfights to aliens running amok through the village and nearby forest, with characters even charging into the action on horseback. An alien rampaging through several buildings (and people) is just one highlight, as is the transformation of Fassbender’s character from a bidpedal creature into a horrific quadruped. Visual effects were crucial to creating the film’s creatures and integrating them into these sequences, but HOPE was equally committed to making the action feel physical and grounded, especially via its frenetic camera work. Here, befores & afters got to speak to Director Na about bringing the creatures to life and about the technical aspects of creating such a high-energy chase film. Designing the creatures The aliens featured in HOPE were designed to all look different from one another. They range in appearance from tentacled to humanoid-like forms, and they often appear injured and weathered (revealed to be from a crash-landing on
-
 ## IndieWire
+
+### Caleb Hearon Never Expected to Make Trash Mountain — or Play His First Starring Role in It
+Sat, 12 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/features/interviews/caleb-hearon-never-expected-trash-mountain-interview-1235216247/
+
+TIFF: The rising comedian co-wrote the Kris Rey-directed dramedy, inspired by his own life. But as he tells IndieWire, long before there was a script or a movie, there was just a burning desire to get the story down on paper.
 
 ### The Face of Horror Review: Anna Biller Brings Her Brand of Technicolor Feminism to a Tale of Chivalry (or Lack Thereof)
 Sat, 12 Sep 2026 06:00:00 +0000 — https://www.indiewire.com/criticism/movies/the-face-of-horror-review-anna-biller-1235216164/
@@ -235,11 +235,6 @@ Fri, 11 Sep 2026 15:15:00 +0000 — https://www.indiewire.com/criticism/movies/a
 
 Venice: On the eve of the current Iran war, a doctor prepares for suicide in a day-in-the-life drama that offers a mighty and coherent outlook on the big questions.
 
-### One Minute to Midnight Review: Melvil Poupaud Reckons with His Past in a Too-Talky Parisian Drama
-Fri, 11 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/criticism/movies/one-minute-to-midnight-review-melvil-poupaud-1235215912/
-
-Venice: Poupaud plays a former culture writer on an apology tour in a Nicolas Pariser film that could've been an article. Or a play.
-
 ## The Wrap
 
 ### Bill Maher Walks Comedy Tightrope With Pair of 9/11 Jokes on 25th Anniversary
@@ -294,53 +289,53 @@ Two years ago, Sebastian Stan starred as Donald Trump in The Apprentice, drawing
 
 ## Collider
 
-### Russell Crowe's Star Studded Western Officially Hits a Bullseye on Free Streaming
-Sat, 12 Sep 2026 08:40:11 GMT — https://collider.com/russell-crowe-western-quick-and-the-dead-streaming-free-pluto-tv-september-2026/
+### The Classic Quentin Tarantino Called “One of the Few Perfect Movies Ever Made” Is Officially Streaming
+Sat, 12 Sep 2026 13:30:11 GMT — https://collider.com/texas-chain-saw-massacre-prime-video-quentin-tarantino-perfect-movie/
 
-The Western genre was running on fumes by the 1990s, following a heyday that lasted several decades. That said, the '90s produced a handful of classics that are remembered to this day. Some of them, like Kevin Costner 's Dances with Wolves and Clint Eastwood 's Unforgiven , were both critically and commercially successful. Others, like the troubled Tombstone , did solid business at the box office and developed a cult following in the subsequent years. Even the costly misfire Wyatt Earp , which Costner developed as a rival project to Tombstone , has found an audience at home. One movie, however, remains the undisputed Western cult classic of the 1990s, and now it's streaming for free in the United States.
+Director Quentin Tarantino frequently shares his list of favorite movies, ranging from broad best-of-the-year lists to breakdowns of more obscure genres. His favorite movie of 2026, for instance, is the Netflix crime-thriller The Rip , starring Matt Damon and Ben Affleck . His favorite spaghetti Western , on the other hand, is Sergio Leone 's epic The Good, the Bad and the Ugly . Tarantino has also made his love for grindhouse cinema quite apparent over the course of his career. Around two decades ago, he collaborated with Robert Rodriguez on a grindhouse double-bill released theatrically; his installment, Death Proof , is widely regarded as his most minor work. Unsurprisingly, Tarantino has a list of favorite grindhouse films, and the highest-rated movie on it is currently streaming on Prime Video and Shudder. In his book "Cinema Speculation," Tarantino described it as one of the few "perfect" movies ever made .
 
-### Chris Pratt’s $200M Sci-Fi Epic Is Officially a Prime Video Hit Ahead of Its Sequel
-Sat, 12 Sep 2026 08:20:11 GMT — https://collider.com/chris-pratt-sci-fi-the-tomorrow-war-streaming-success-prime-video-september-2026/
+### The 8 Most Exciting Thriller Movies of the 21st Century, Ranked
+Sat, 12 Sep 2026 13:23:11 GMT — https://collider.com/most-exciting-thriller-movies-21st-century-ranked/
 
-2026 has been a roller-coaster of a year for Chris Pratt , who starred in one of the first big box office bombs of the year with Mercy . Pratt teamed up with Rebecca Ferguson for the AI sci-fi thriller, and although it underperformed at the box office, it did go on to become one of the most-watched movies of the year on Prime Video. Pratt swiftly found box office redemption with the release of The Super Mario Galaxy Movie , which was also the first feature film of 2026 to hit $1 billion at the global box office. He’s sticking to streaming projects in the second half of this year, as he returns to his role as James Reece in the second season of The Terminal List on Prime Video. He’s also starring in Way of the Warrior Kid on Apple TV.
+There is no point in watching a great thriller if you’re not calculating all the time. You start calculating. Who has the gun? Who knows more than they are admitting? How long until somebody makes the choice that ruins everything? The room around you becomes irrelevant because the movie has quietly turned you into another nervous participant. That is the standard here. Not merely suspenseful. Not merely dark.
 
-### Jon Bernthal’s 2025 Spy Thriller Is Officially Prime Video’s Biggest Sleeper Hit
-Sat, 12 Sep 2026 08:00:11 GMT — https://collider.com/the-amateur-streaming-hit-prime-video-september-2026/
+### Netflix's Latest Release Officially Takes Over Streaming, and It's Not a Movie or Series
+Sat, 12 Sep 2026 12:46:11 GMT — https://collider.com/grand-theft-auto-6-extended-look-trending-netflix/
 
-Although the likes of Tom Holland and Anne Hathaway are stealing the headlines, Jon Bernthal is quietly having the most impressive year of his career. In early 2026, Bernthal starred alongside Tessa Thompson in the surprise Netflix hit His & Hers , which became one of the streamer's most-watched original shows of all time, with more than 100 million views. Then came a quick string of must-watch performances in some of the biggest shows of the year, starting with a surprise prequel episode ahead of the return of Hulu and Christopher Storer ’s The Bear .
+Netflix has a history of putting its finger on the pulse of what matters, from Stranger Things to Squid Game . The newest hot ticket item, however, is not a movie or television series. As everyone came down with Grand Theft Auto fever, the streamer followed suit. Grand Theft Auto VI is imminent after 13 years of waiting, and Netflix has just the thing to tide fans over before its release. The 23-minute-long featurette, Grand Theft Auto VI: An Extended Look , has exploded in the pop culture zeitgeist .
 
-### Kyle Chandler's 'E.T.' Replacement Sci-Fi Hit Is Officially Streaming Free
-Sat, 12 Sep 2026 04:08:11 GMT — https://collider.com/kyle-chandler-lanterns-super-8-sci-fi-streaming-free-pluto-tv-september-2026/
+### 'Stranger Things' Star's Forgotten Superhero Misfire Soars Onto Free Streaming
+Sat, 12 Sep 2026 12:45:11 GMT — https://collider.com/seth-rogen-superhero-green-hornet-streaming-free-pluto-tv-september-2026/
 
-Kyle Chandler , who first rose to fame with the 1996 CBS series Early Edition , is capturing viewer attention again with his unconventional turn as Hal Jordan in Lanterns . But it's not his first foray into the sci-fi genre, with a prominent role in the MonsterVerse franchise as Mark Russell in Godzilla: King of the Monsters and Godzilla vs. Kong , and a far, far less prominent one in the remake of The Day the Earth Stood Still . Most notably, three years after the latter (and 15 years before Lanterns ), Chandler starred in Super 8 , an underappreciated, Spielbergian sci-fi masterpiece that sees Chandler at his best . And it's currently streaming for free on Pluto TV.
+After the success of Tim Burton 's Batman in the late 1980s, studios across town dedicated themselves to producing movies based on other pulp comic strip characters from the 1930s and 1940s. One of the most prominent superheroes of that era had already been featured in a short-lived television series in the 1960s, around the same time as the Adam West and Burt Ward Batman series — in fact, both shows were created by the same man, William Dozier . However, the other property didn't get a proper film adaptation until much later, during the second wave of superhero cinema in the 2010s. The movie's production was riddled with problems, and its star later described the experience of making it as a "nightmare." Now, the movie is streaming for free in the United States, so if you haven't checked it out, now is your chance to do so.
 
-### HBO's Underrated 'Sopranos' Episode Officially Put This 'Penguin' Star on the Map 20 Years Ago
-Sat, 12 Sep 2026 04:01:11 GMT — https://collider.com/hbo-sopranos-season-6-cristin-milioti-episode-steve-buscemi/
+### Nicolas Cage's Horrific Crime Thriller Officially Haunts a New Streaming Home
+Sat, 12 Sep 2026 12:30:11 GMT — https://collider.com/nicolas-cage-horror-longlegs-streaming-hulu-september-2026/
 
-The big takeaway from The Penguin series was not the titular protagonist, but instead the character's criminal arch-rival, Sofia Falcone, played by Cristin Milioti . While she has been consistently exceptional, Milioti finally got the praise she deserves thanks to the HBO crime drama. It's hard to think of a more inspired beginning to one's career than Milioti, whose second screen credit saw her in a brief role in another HBO crime drama, The Sopranos . MIlioti appeared in an overlooked but remarkable episode, directed by Steve Buscemi , which displayed incredible insight into the show's thematic fabric.
+Serial killer thrillers and supernatural horror don’t always make comfortable bedfellows, but Osgood Perkins found a particularly disturbing way to combine the two. Two years ago, Perkins made a film that paired the procedural hunt for a killer like Silence of the Lambs into something a lot more horrifying, while also burying Nicolas Cage beneath a mountain of prosthetics and, in doing so, giving him one of the best showcases of his career .
 
-### 'Ted Lasso' Season 4 Officially Rewrites the Show's Most Controversial Storyline
-Sat, 12 Sep 2026 03:48:11 GMT — https://collider.com/ted-lasso-season-4-episode-6-rewrites-michelle-controversial-storyline/
+### 7 Rom-Coms That Are Secretly About Grief, Not Love
+Sat, 12 Sep 2026 12:20:11 GMT — https://collider.com/rom-coms-that-are-secretly-about-grief-not-love/
 
-Editor's note: The below contains spoilers for Ted Lasso Season 4 Episode 6.
+Romantic comedies often get reduced to their own surface mechanics, possibly more than any other genre. Aspects such as the meet-cute, the misunderstanding, the airport dash, the happy ending and countless others. But ironically, some of the most enduring entries in this category are not about falling in love at all. They are more about loss, the grief that comes with it , and losing a relationship, or a version of yourself and using romance as the vehicle to process it rather than the core driving force of the narrative. With two rom-com classics in About Time and Sleepless in Seattle hitting Netflix on September 1st, now feels like the right moment to revisit why films like these two have held up so much longer than their genre peers.
 
-### HBO’s Near-Perfect 9-Episode Miniseries Became the Critics' Favorite When It Broke From the Formula
-Sat, 12 Sep 2026 03:41:11 GMT — https://collider.com/hbo-watchmen-miniseries-broke-formula/
+### 5 Fantasy Books With Villains You’ll End Up Rooting For
+Sat, 12 Sep 2026 12:19:11 GMT — https://collider.com/fantasy-books-villains-to-root-for/
 
-There are certain IPs that you should only tackle if you're absolutely confident that what you deliver will be nothing less than a masterpiece. Watchmen is one of those. The original graphic novel is already an iconic comics story, so why would anyone ever mess with it? When HBO announced its own Watchmen series, fans were naturally worried for that exact reason . In the end, however, what Damon Lindelof did with the miniseries caught everyone by surprise, because it isn't an adaptation, nor a retelling, not even a proper sequel. Instead, it "remixes" the original similarly to how the graphic novel did to the real world back in 1985 , delivering an almost surrealist take on the modern zeitgeist that is damn near perfect.
+In fantasy , villains are beloved characters. All readers need is an evil sorcerer , a cruel king, or a tyrant who only wants to gain more power, and they have plenty of good reasons to hate any of them. Still, some of the most interesting villains in fantasy literature make their readers’ relationships with them complicated. This can happen when villains commit awful deeds but justify their actions; they may be cruel, but they have also suffered cruelty at the hands of others; or, in some cases, they are such unique personalities that readers feel sorry for them when they fail.
 
-### 10 Years Later, This Gritty Music Biopic Is One of the Biggest Streaming Hits in the World
-Sat, 12 Sep 2026 03:11:11 GMT — https://collider.com/straight-outta-compton-music-biopic-streaming-netflix-september-2026/
+### Say Goodbye to HBO Max's Most Intense Thriller of the 2020s
+Sat, 12 Sep 2026 12:14:12 GMT — https://collider.com/barbarian-horror-movie-leaving-hbo-max-september30/
 
-Everyone bemoans the music biopic and its hackneyed tropes, but there's a reason why studios keep churning them out: As seen with Michael , which became the rare non-franchise/IP movie to gross over $1 billion , these films routinely print money. Globally beloved music artists like Michael Jackson and Queen are IP in their own right, and these films often draw a massive audience simply because they include hits from the artist's catalog. Every once in a while, though, audiences are blessed with a music biopic that hits like a great pop song you could listen to over and over again. Straight Outta Compton , released in 2015, didn't try to upend the genre notorious for its rigid archetypes; instead, director F. Gary Gray ( who, before helming studio blockbusters, directed countless '90s rap/R&B music videos, most notably Ice Cube's "It Was a Good Day") told the story of N.W.A. , and its star rappers Eazy-E , Dr. Dre , and Ice Cube , with integrity, pristine craft, and a genuine passion for the rap group's work and their importance to the music industry . Now available to stream on Netflix, where it's among the top 10 most-streamed films in the company's library, Straight Outta Compton still hasn't missed a beat.
+The 2022 thriller film Barbarian is set to leave streaming on September 30th. Directed by Zach Cregger , the film found a new home on HBO Max but will soon be departing. Viewers only have a short time left to watch before it leaves. Fans of the horror genre won't want to miss out on this last opportunity to watch one of the most intense and shocking films from the last few years .
 
-### Keanu Reeves' Bonkers 79% RT Fantasy Finds Redemption on Streaming
-Sat, 12 Sep 2026 03:09:11 GMT — https://collider.com/keanu-reeves-good-fortune-prime-video-streaming-september-2026/
+### ‘Sopranos’ Meets ‘Yellowstone’ in Hulu's 7-Part Crime Drama Now Climbing the Streaming Charts
+Sat, 12 Sep 2026 12:03:17 GMT — https://collider.com/sons-of-anarchy-sopranos-meets-yellowstone-hulu-streaming-charts/
 
-Keanu Reeves is one of those actors who's effectively beloved by everybody. In addition to being well-liked throughout his career and developing a reputation for being a down-to-earth person— as well as the source of the most wholesome meme of all time —he's also an iconic action star, with John Wick being a career-defining role, even after having plenty of other famous characters named John in his demo reel. However, while that's become the role modern audiences associate him with, it's easy to forget how funny Reeves can be when given the right material, especially as a reflection of his real-life persona. So it's welcome news that people are rediscovering his funny side with his most recent film, Good Fortune , which is currently among the top five most popular films streaming on Prime Video.
+If there’s one thing television has taught audiences time and time again, it’s to never mix family with business — especially when it involves crime . Back in the ’90s, The Sopranos showed the psychological toll being in the mob had on Tony Soprano ( James Gandolfini ) and how it nearly cost him his family. More recently, Yellowstone showed how past family demons can rise from the grave while the Duttons protect the legacy of their land.
 
-### After ‘Reacher’s Season 4 Finale, Start Binging Prime Video’s Stellar 4-Part Action Thriller
-Sat, 12 Sep 2026 02:44:11 GMT — https://collider.com/reacher-replacement-series-jack-ryan-prime-video-action-genre/
+### Forget ‘Reacher,’ Alan Ritchson’s Wild WWII Horror Movie Is Officially on Prime Video
+Sat, 12 Sep 2026 12:00:13 GMT — https://collider.com/alan-ritchson-ghosts-of-war-streaming-prime-video-september-2026/
 
-Reacher is considered to be one of Prime Video's top TV shows, thanks to the brutal fight scenes that protagonist Jack Reacher ( Alan Ritchson ) finds himself embroiled in and the simple yet compelling idea of Reacher wandering the United States while delivering his own brutal brand of justice. The results speak for themselves: not only does Reacher top Prime Video's streaming charts with each new season , but the fourth season is now heading toward its finale. And while the end of Season 4 may leave fans wanting more, Prime Video isn't exactly leaving them empty-handed.
+2026 has been the year of Alan Ritchson so far, and not just because he returned to his signature role of Jack Reacher in the fourth season of Prime Video ’s Reacher series. Ritchson took his talents to Netflix to star in one of the biggest sci-fi movies in the streamer’s history, War Machine , which did well enough to earn a spot on Netflix’s all-time top 10 most-watched movie list. Ritchson also teamed up with Shailene Woodley for the virtually silent action thriller, Motor City , which is now available to watch on VOD after grossing only a few million at the box office. Ritchson has a new action movie out now in theaters, Runner , starring Owen Wilson . Safe to say Ritchson has blossomed into one of the biggest action stars in the world in the last few years.
 

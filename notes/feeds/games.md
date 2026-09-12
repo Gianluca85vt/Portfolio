@@ -1,6 +1,31 @@
-# Games — harvested 2026-09-12T08:50:03.398Z
+# Games — harvested 2026-09-12T13:44:06.808Z
 
 ## Eurogamer
+
+### BlizzCon 2026 Opening Ceremony live report - all the news and announcements as Blizzard's convention returns
+Sat, 12 Sep 2026 11:41:58 +0000 — https://www.eurogamer.net/blizzcon-2026-announcements-live-report-starcraft-diablo-overwatch-wow
+
+Blizzard's BlizzCon convention returns this weekend after two years' absence, and I'll be covering the news and announcements from today's opening ceremony live, here in this article. The show begins 6.30pm BST (UK time). Read more
+
+### Nightdive confirms Thief Remastered's leaked new campaign, The Tarnished Mirror, with a November reveal date
+Sat, 12 Sep 2026 11:02:48 +0000 — https://www.eurogamer.net/thief-remastered-tarnished-mirror-campaign-confirmed-nightdive
+
+Nightdive Studios has officially confirmed The Tarnished Mirror, a new campaign for its upcoming Thief: The Dark Project Remastered, days after the name leaked through a mass Steam achievements leak . Read more
+
+### Moss studio Polyarc shuts down, becoming the latest casualty of a brutal year for VR
+Sat, 12 Sep 2026 10:34:52 +0000 — https://www.eurogamer.net/polyarc-moss-studio-closure-vr-industry-2026
+
+Polyarc, the Seattle studio behind the acclaimed VR series Moss, has closed its doors after almost 12 years. Read more
+
+### Final Fantasy 7 Revelation director confirms his studio is also making Kingdom Hearts 4
+Sat, 12 Sep 2026 10:03:04 +0000 — https://www.eurogamer.net/kingdom-hearts-4-final-fantasy-7-revelation-creative-studio-1
+
+Final Fantasy 7 Revelation director Naoki Hamaguchi has confirmed that his own team, Creative Studio 1, is also the studio behind Kingdom Hearts 4 . Read more
+
+### With Chronicles Medieval, a team of "history nerds" is mixing authentic historical world-building and stimulating strategy to promising effect
+Sat, 12 Sep 2026 09:00:09 +0000 — https://www.eurogamer.net/chronicles-medieval-gamescom-history-nerds-hands-off-preview
+
+Growing up in the South of England, like I did, history is all around you. Castles and forts, both preserved and ruined, litter the countryside. I, like many children, have fond memories visiting such places and imagining the great battles that were fought there. Read more
 
 ### What we've been playing - "I don't think this is this game's biggest problem"
 Sat, 12 Sep 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-i-dont-think-this-is-this-games-biggest-problem
@@ -36,31 +61,6 @@ Following Sony's announcement earlier this week that it had "stepped away" from 
 Fri, 11 Sep 2026 14:18:19 +0000 — https://www.eurogamer.net/ea-savvy-games-group-reported-merger-saudi-arabia-pif
 
 Saudi Arabia's Public Investment Fund (PIF) is reportedly considering combining EA - which it acquired in a $55bn leveraged buyout earlier this year - with its Savvy Games Group, all under one banner. Read more
-
-### 'It would have been insanity to take no action' - Fiery opening statements reveal Rockstar's culture of secrecy as tribunal over sacked GTA 6 employees begins
-Fri, 11 Sep 2026 14:16:10 +0000 — https://www.eurogamer.net/rockstar-gta-6-fired-employees-tribunal-statements
-
-Rockstar Games and the Independent Workers Union of Great Britain (IWGB) have traded blows in fiery opening statements during the final employment tribunal hearing, relating to the sudden firing of 31 Rockstar North employees nearly a year ago . Read more
-
-### "I don't think it's worth any amount of money" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear "discreetly"
-Fri, 11 Sep 2026 08:56:27 +0000 — https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved
-
-The City of Miami Beach has approved negotiations with Rockstar Games for an upcoming marketing campaign. This would bring advertisements for Grand Theft Auto 6 to the seaside city in exchange for millions of dollars. Read more
-
-### Metroid Dread studio MercurySteam appears to confirm it's making Metroid Ravenous, addressing a lingering question from yesterday's Nintendo Direct
-Thu, 10 Sep 2026 16:27:10 +0000 — https://www.eurogamer.net/metroid-ravenous-mercury-steam-developer
-
-Spanish studio MercurySteam - the developer of Metroid Dread - seems to be the studio behind yesterday's Nintendo Direct showcase stopper, Metroid Ravenous . Read more
-
-### Nintendo of America thanks fans for dealing with tariff-related price hikes by encouraging them to spend more money in a new sale
-Thu, 10 Sep 2026 15:18:43 +0000 — https://www.eurogamer.net/nintendo-american-tarrif-refund-sale
-
-Nintendo of America is currently facing a class action lawsuit for refusing to pass tariff refunds onto customers, and it's against that backdrop it today announced a "Customer Appreciation Sale" apparently made possible by those rebates. Read more
-
-### Marvel's Wolverine review
-Thu, 10 Sep 2026 15:00:15 +0000 — https://www.eurogamer.net/marvels-wolverine-review
-
-I've always thought there were a few characters out there who were the perfect match for video games. Batman is always my classic example: he beats up bad guys, does stealth takedowns, and has a built-in arsenal of gadgets that can be conveniently designed for any design obstacle; he has a cool car and cape for driving and/or gliding around an open world, and he has preternatural detective sensibilities to help him solve environmental puzzles - or, I dunno, press R3 to see where to go next. Read more
 
 ## GamesIndustry.biz
 
@@ -109,21 +109,16 @@ Thu, 10 Sep 2026 13:50:35 +0000 — https://www.gamesindustry.biz/gta-6-netflix-
 
 Rockstar's preview of Grand Theft Auto 6 on Netflix generated over 100,000 sign-ups in the US during its six-hour exclusivity window on August 27, making it the platform's third-largest subscriber spike in 2026, according to Ampere Analysis. Read more
 
-### Saber Interactive's chief creative officer says "We've never replaced anybody with AI"
-Thu, 10 Sep 2026 13:11:44 +0000 — https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai
-
-Tim Willits, chief creative officer at Saber Interactive, has given his own take on CEO Matthew Karch's response to accusations that a writer at the company had been replaced with ChatGPT. Read more
-
-### Newzoo: Most established live-service and evergreen titles were flat or down year over year in H1 2026
-Thu, 10 Sep 2026 12:22:19 +0000 — https://www.gamesindustry.biz/newzoo-most-established-live-service-and-evergreen-titles-were-flat-or-down-year-over-year-in-h1-2026
-
-Live-service and evergreen titles were flat or declined year-over-year in the first half of 2026 compared to 2025, according to Newzoo data. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Guide: These 25+ PS5 Games Are Coming Out Next Week (14th-20th September)
+Sat, 12 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-25plus-ps5-games-are-coming-out-next-week-14th-20th-september
+
+Wolverine! RuneScape! Trails! We're properly in the thick of the September madness now. Next week on PS Store sees the release of another 25 or so games, coming off the back of last week's list of 20-odd titles. There are a couple of big ones in the crowd to watch out for, most notably Marvel's Wolverine , but there's also the likes of RuneScape: Dragonwilds , Aniimo , and Trails in the Sky 2nd Chapter . Read the full article on pushsquare.com
 
 ### Talking Point: What Are You Playing This Weekend? - Issue 649
 Fri, 11 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-649
@@ -180,11 +175,6 @@ Thu, 10 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/reviews/ps5/marvels
 
 Bloody nora, bub. Marvel’s Wolverine is a great video game. If such a thing could be looked up in the dictionary, you’d find Logan and his bared claws staring back. In fact, I can’t remember a time when our own review scoring policy has described a game better: Read the full article on pushsquare.com
 
-### LEGO PS1 s Freebie Astro Bot Set Revealed in New Images, and Everyone Wants It Standalone
-Thu, 10 Sep 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/09/lego-ps1s-freebie-astro-bot-set-revealed-in-new-images-and-everyone-wants-it-standalone
-
-Astro not. Sony finally announced the much-leaked LEGO PS1 set recently, and included in the purchase is a separate set that lets you build a LEGO Astro Bot . This extra comes at no additional cost. It's a nice bonus for PlayStation fans, but after new images of the Astro set have emerged online, some wish it could be bought on its own. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### An honest opinion or defamation? A solicitor outlines the legal nuance
@@ -217,12 +207,12 @@ Thu, 10 Sep 2026 13:48:57 GMT — https://www.gamedeveloper.com/production/-just
 
 The hearing is expected to conclude on October 16, 2026.
 
-### Report: Steam now requires Australian users to verify their age with credit cards
-Thu, 10 Sep 2026 09:24:59 GMT — https://www.gamedeveloper.com/pc/report-steam-now-requires-australian-users-to-verify-their-age-with-credit-cards
-
-Multiple people now claim that Valve has implemented proof-of-age verification for Australian Steam users to access games classified as R18+.
-
 ## VGC
+
+### A listing for Sonic Racing CrossWorlds Year One Edition has been spotted, suggesting a version with all DLC is coming
+Sat, 12 Sep 2026 10:40:33 +0000 — https://www.videogameschronicle.com/news/a-listing-for-sonic-racing-crossworlds-year-one-edition-has-been-spotted-suggesting-a-version-with-all-dlc-is-coming/
+
+Year one's paid DLC consisted of six crossover packs containing 18 extra racers… Source
 
 ### PlayStation reportedly cancelled Kojima’s Physint because Death Stranding failed to meet expectations
 Fri, 11 Sep 2026 14:25:49 +0000 — https://www.videogameschronicle.com/news/report-playstation-cancelled-hideo-kojimas-physint-because-death-stranding-and-its-sequel-did-meet-revenue-expectations/
@@ -264,17 +254,27 @@ Thu, 10 Sep 2026 14:24:22 +0000 — https://www.videogameschronicle.com/news/nin
 
 The sale starts on Saturday and offers 30% off digital and physical products… Source
 
-### Final Fantasy 7 Revelation left me with high hopes, even if it s doubling down on Rebirth s biggest weakness
-Thu, 10 Sep 2026 12:00:14 +0000 — https://www.videogameschronicle.com/features/final-fantasy-7-revelation-left-me-with-high-hopes-even-if-its-doubling-down-on-rebirths-biggest-weakness/
-
-Final Fantasy 7 Revelation's combat and characters shine, but its open-world bloat may be worse than Rebirth' Source
-
-### Blood of Dawnwalker: All endings and how to unlock them
-Thu, 10 Sep 2026 11:52:41 +0000 — https://www.videogameschronicle.com/guide/blood-of-dawnwalker-all-endings-and-how-to-unlock-them/
-
-A full guide on how to achieve each ending in The Blood of Dawnwalker… Source
-
 ## Polygon
+
+### Ace Combat 8’s Developers Are on a Mission To Create the Perfect Clouds
+Sat, 12 Sep 2026 13:00:15 GMT — https://www.polygon.com/ace-combat-8-wings-of-theve-cloud-interview/
+
+That’s the kind of hyper-specific conversation you’re bound to get into when talking about Ace Combat . The long-running flight simulation series is so meticulous that every little detail is approached scientifically. Wings of Theve is set to continue that tradition come Oct. 2, and take it to new heights. If you want proof of that, just look to the clouds. No, really.
+
+### Mario Fans Have A New Platforming Hero To Watch This Fall
+Sat, 12 Sep 2026 12:00:19 GMT — https://www.polygon.com/croak-video-game-2026-preview/
+
+We knew that we were more focused on precision platformers. We didn't want to have any power-ups and stuff. We wanted to have one core mechanic and push it to the maximum. That was kind of our idea. And we wanted to make sure it was accessible. Since the Kaizo community is really, really hard, we wanted something more accessible where you have small puzzles that you go through and you never lose your progression. So one particular puzzle can be really hard, but you already have that satisfaction of beating it right away. And if you die after, you don't lose your progression.
+
+### The Legend of Zelda: Ocarina of Time is Actually A Horror Game
+Sat, 12 Sep 2026 10:00:14 GMT — https://www.polygon.com/zelda-ocarina-of-time-horror-game/
+
+The Legend of Zelda: Ocarina of Time is a fairy tale, more so even than most other Zelda games. Recognizing this is key to understanding (if not necessarily liking) the visual approach Nintendo has taken for the remake of the 1998 classic, as I wrote when discussing its masterful take on Hyrule Field . I think it's supposed to look romantic, densely and lushly illustrated, like the painted cover of an old storybook.
+
+### Wallace & Gromit's Overlooked Spinoff Is Officially Switching Genres With Its Next Movie
+Sat, 12 Sep 2026 09:00:14 GMT — https://www.polygon.com/shaun-the-sheep-beast-of-mossy-bottom-preview-image/
+
+Beloved British stop-motion studio Aardman is best known as the home of Wallace and Gromit , but if you've been sleeping on the equally delightful Shaun the Sheep , you're sorely missing out. The ovine protagonist, voiced by Justin Fletcher, first appeared in the 1995 Wallace & Gromit short film, A Close Shave . A decade later, in 2007, Shaun got his own spinoff series, which ran for seven seasons across the BBC and Netflix, and may eventually return for season 8. In the meantime, there's also a budding Shaun the Sheep film series, which is set to return to theaters on Sept. 18 in both the U.S. and the U.K.
 
 ### Paramount's Near-Perfect 3-Part Sci-Fi Series Officially Finds a New Streaming Home
 Sat, 12 Sep 2026 08:31:14 GMT — https://www.polygon.com/star-trek-reboot-trilogy-franchise-future/
@@ -306,27 +306,27 @@ Sat, 12 Sep 2026 04:00:18 GMT — https://www.polygon.com/a-fistful-of-dollars-c
 
 As the glory days of classic Westerns began to fade in the 1960s, so did some of the romance associated with it, bringing about the more complex, morally ambiguous “Revisionist Westerns.” One of the most important films from the early days of the Revisionist Western is 1964’s A Fistful of Dollars starring Clint Eastwood in his first major film role. It’s directed by Italian filmmaker Sergio Leone. A Fistful of Dollars is currently available for free on YouTube and is a can’t-miss for film fans — even those that aren’t so into Westerns. That’s mainly because A Fistful of Dollars is also a solid crime and action story that just so happens to take place in the Old West.
 
-### Fallout 5 and Classic Fallout Remasters Coming from Bethesda and Obsidian
-Sat, 12 Sep 2026 01:02:44 GMT — https://www.polygon.com/new-fallout-games-remasters-bethesda-softworks/
-
-Xbox wants more Fallout, and after a yearslong drought of new games, Bethesda Softworks is making it happen. Bethesda plans to release remasters of both Fallout 3 and Fallout: New Vegas for modern platforms, the company said in July in a massive roadmap of the developer's future.
-
-### Pokémon Go Gible Community Day Classic event guide
-Sat, 12 Sep 2026 01:02:14 GMT — https://www.polygon.com/pokemon-go-gible-community-day-classic-shiny-garchomp-moveset/
-
-Pokémon Go is having a Gible Community Day Classic event on Saturday, Sept. 12 from 2-5 p.m. in your local time.
-
-### Supergirl Lands Official Streaming Date on HBO Max
-Sat, 12 Sep 2026 00:32:16 GMT — https://www.polygon.com/supergirl-hbo-max-streaming-date-announced/
-
-DC Studios and Warner Bros. released Supergirl earlier this year in theaters as the second film in James Gunn's nascent cinematic DC Universe . Despite a solid star in the lead role and a story adapted from one of the character's most well-received comics, the movie failed to garner widespread critical and commercial success. Supergirl ended its theatrical run with just $126 million earned at the global box office.
-
-### The 17 Best Games of Gamescom 2026
-Fri, 11 Sep 2026 21:42:45 GMT — https://www.polygon.com/best-games-gamescom-2026/
-
-But what were the absolute best games we played while we were out in Cologne, Germany? Here's our list of the top 17 games we played at Gamescom 2026, in no particular order.
-
 ## PC Gamer
+
+### CD Projekt wanted to put a chain weapon in The Witcher 3 years ago, but it's taken until Songs of the Past because it was 'impossible to do at the time'
+Sat, 12 Sep 2026 13:21:15 +0000 — https://www.pcgamer.com/games/the-witcher/cd-projekt-wanted-to-put-a-chain-weapon-in-the-witcher-3-years-ago-but-its-taken-until-songs-of-the-past-because-it-was-impossible-to-do-at-the-time/
+
+The Witcher 3 's recently revealed expansion Songs of the Past will bring more to CD Projekt's acclaimed fantasy adventure than a new region to explore and quests to pursue, it will also introduce a new weapon for Geralt of Rivia to wield—a gnarly silver chain. Well, "new" might not be a wholly appropriate term for it. Geralt's chain weapon—which appears in the novels—was originally seen in the opening cinematic for 2007's The Witcher, making it one of the earliest things players see in the trilogy. But it hasn't appeared as a tool players can use until now. Apparently though, CD Projekt has previously considered introducing the chain, having discussed it more than a decade ago during The Witcher 3's original development: "We were talking about implementing the chain even during the original Witcher 3." Jakob Rokosz, Songs of the Past's Game Director, told BBC News (via GamesRadar+ ). "But it was impossible to do at the time for various technological reasons and challenges, Rokosz didn't go into detail about what those challenges were. But reading between the lines, it sounds like they had to do with the chain's animations or physics engine. "A few things had to click together, because we were actually able to address those challenges and issues," Rokosz explained, noting that they did this during the remastering process for The Witcher 3. "Then we were able to implement a weapon that just feels natural and very fluid and basically realises the fantasy you either read in the 
+
+### All Genshin Impact 7.1 livestream codes
+Sat, 12 Sep 2026 12:04:33 +0000 — https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-1-livestream/
+
+The Genshin Impact 7.1 livestream codes are here, giving you a little Primogem bonus before we head into the new Snezhnaya update. For those new to this, Hoyoverse runs a livestream for each of its games every six weeks, showing off the new characters, events, and quests set to drop, but it also includes three currency codes as a little viewing incentive. In this version we have Vesna and Vodyanitsa, Anemo and Hydro characters respectively, as well as rumoured reruns for Skirk and Escoffier. As usual, I'll add the codes below as they drop during the stream—these usually expire within a day , so be sure to claim them if you want them. Genshin Impact codes: All current livestream Primogems Rekviem - 100 Primogems and 10 Mystic Enhancement Ore Vesna0923 - 100 Primogems and five Hero’s Wit PrimaDonna - 100 Primogems and 50,000 Mora How to redeem Genshin Impact codes You can redeem your Genshin livestream codes once you've reached Adventure Rank 10 by playing through the game's intro, but for most of you that won't be an issue unless you've literally just started. Otherwise, you can claim codes via two methods. The first is through the game itself:: Open Genshin Impact Enter the in-game menu Choose Settings and then Account Select Redeem Now and paste a code into the box Collect your Primogems from the in-game mailbox Or you can redeem codes online through the dedicated website: Head to the Genshin Impact code redemption website Input your info and select character region Add a co
+
+### Wardogs sold over 1 million copies in its first 24 hours, making its launch a bright spot in an otherwise tough year for multiplayer shooters
+Sat, 12 Sep 2026 11:15:11 +0000 — https://www.pcgamer.com/games/fps/wardogs-sold-over-1-million-copies-in-its-first-24-hours-making-its-launch-a-bright-spot-in-an-otherwise-tough-year-for-multiplayer-shooters/
+
+All signs have pointed to Wardogs being a hit for a while now. Its beta weekend in August was rapturously received, with half a million players lining up to check out its prerelease playtest. When the game launched into early access last week, so many people rushed to get on board that it collapsed the game's servers . Now, developer Bulkhead has released its initial sales figures for Wardogs, and they are unsurprisingly very strong. The multiplayer FPS sold 1.25 million copies within 24 hours, and that number is likely to be much higher by now. Bulkhead played it cool while announcing the milestone, simply thanking players and reassuring them that the studio is "watching everything, monitoring servers, and enjoying watching you play". That middle point is likely made in response to the flurry of negative reviews Wardogs received in the wake of its server troubles. Nonetheless, it's heartening to see an unambiguous hit in the multiplayer FPS sphere after what has been a difficult year for new competitive shooters. 2026 started badly when Highguard ran directly into a brick wall in January, launching to initially high player counts that quickly plummeted to an unsustainable level—resulting in the game shutting down mere weeks later. In March, Bungie released Marathon , which is one of my favourite games of this year and a real triumph of both art and game design. Yet despite its qualities, it's pretty clear that Marathon has not been the success that either Bungie or Sony hope
+
+### Polyarc, developer of the excellent VR platforming series Moss, is shutting down after 12 years: 'We are saying our farewells to each other'
+Sat, 12 Sep 2026 09:55:30 +0000 — https://www.pcgamer.com/games/action/polyarc-creators-of-the-excellent-vr-platforming-series-moss-is-shutting-down-after-12-years-we-are-saying-our-farewells-to-each-other/
+
+Polyarc, the studio behind the Moss series of VR platformers, has announced it is shutting down, three months on from releasing its latest game on Steam. "After nearly 12 years riding the joyous rollercoaster of emotions that is making video games, our time together has come to an end," the studio posted on LinkedIn (via IGN ). "As we wind down active development, we are saying our farewells to each other." Founded in 2015, Polyarc made its video game debut three years later with Moss (now known as Moss: VR). Initially released as a PSVR exclusive, Moss launched onto Steam in June 2018, quickly establishing itself as one of VR's best games. Unlike most VR games, which naturally focus on first person experiences. Moss took classic third-person platforming and infused it with the unique perspective of VR. Players simultaneously controlled Quill—the game's heroic mouse protagonist—using conventional action/adventure controls, while also overseeing the game's storybook 3D as the reader, VR touch controls to manipulate objects and assist Quill in solving puzzles. The result was an experience not quite like anything else—at least until the similarly excellent sequel arrived in 2022. Together, both games earned Polyarc over 160 awards and nominations, and were relatively commercially successful, especially on Meta platforms. In 2025, Polyarc released Glassbreakers: Champions of Moss , a PvP strategy spinoff set in the same universe. However, Glassbreakers seems to have failed to att
 
 ### While still headquartered in the US, Saber exec Tim Willits says it has 'no real development in North America anymore'
 Fri, 11 Sep 2026 23:11:02 +0000 — https://www.pcgamer.com/gaming-industry/while-still-headquartered-in-the-us-saber-exec-tim-willits-says-it-has-no-real-development-in-north-america-anymore/
@@ -341,7 +341,7 @@ You've no doubt spent dozens of hours in GTA 5 doing millions of dollars of prop
 ### Wolverine review roundup: Frankly, we're starting to feel a little better about the whole 'PlayStation 5 exclusive' thing
 Fri, 11 Sep 2026 21:17:15 +0000 — https://www.pcgamer.com/games/action/wolverine-review-roundup-frankly-were-starting-to-feel-a-little-better-about-the-whole-playstation-5-exclusive-thing/
 
-Insomniac's long-awaited Wolverine is out, and, well, it's not great. I mean that in the very literal sense: It's fine—good, even, at least in some ways—but it's not great , and that's a problem for a game that was positioned as one of Sony's biggest PlayStation 5 exclusives of the past few years. The bar was high, and the ol' Canucklehead didn't quite clear it. This is especially unwelcome news for PlayStation right now, given that its plate is already pretty full with other bad news. The platform's live service travails have gotten so far out of hand that it's managed to kill Destiny 2 , and there's a reasonable expectation that Bungie itself might not be too far behind. More recently, it pulled a massive botch with Hideo Kojima's Physint that led to the auteur partnering with Xbox on the project instead. Sony may have had its reasons for pulling the plug , but strictly from a PR perspective, that's the kind of self-own that leaves a deep scar. Similarly, the company is taking heat for its decision to end physical disc production in 2028, a move that may be rationally defensible but is nonetheless really pissing a lot of people off . And now, this: A major PS5 exclusive that's landed with all the grace of an egg chucked at a school bus. Because of its platform exclusivity, we can't tell you what we think of the game, except that we're feeling a little better about not getting it. We can, however, tell you what other sites think of it, so let's do that. "Missing that crucial
+Reviews for Insomniac's long-awaited Wolverine are out, and, well, it's not great. I mean that in the very literal sense: It's fine—good, even, at least in some ways—but it's not great , and that's a problem for a game that was positioned as one of Sony's biggest PlayStation 5 exclusives of the past few years. The bar was high, and the ol' Canucklehead didn't quite clear it. This is especially unwelcome news for PlayStation right now, given that its plate is already pretty full with other bad news. The platform's live service travails have gotten so far out of hand that it's managed to kill Destiny 2 , and there's a reasonable expectation that Bungie itself might not be too far behind. More recently, it pulled a massive botch with Hideo Kojima's Physint that led to the auteur partnering with Xbox on the project instead. Sony may have had its reasons for pulling the plug , but strictly from a PR perspective, that's the kind of self-own that leaves a deep scar. Similarly, the company is taking heat for its decision to end physical disc production in 2028, a move that may be rationally defensible but is nonetheless really pissing a lot of people off . And now, this: A major PS5 exclusive that's landed with all the grace of an egg chucked at a school bus. Because of its platform exclusivity, we can't tell you what we think of the game, except that we're feeling a little better about not getting it. We can, however, tell you what other sites think of it, so let's do that. "Missing
 
 ### OpenAI employee takes down ChatGPT-coded RuneScape clone following Jagex cease-and-desist
 Fri, 11 Sep 2026 21:07:32 +0000 — https://www.pcgamer.com/software/ai/openai-employee-takes-down-chatgpt-coded-runescape-clone-following-jagex-cease-and-desist/
@@ -367,26 +367,6 @@ Despite vocal opposition from some commissioners, the city of Miami Beach has vo
 Fri, 11 Sep 2026 17:35:37 +0000 — https://www.pcgamer.com/games/survival-crafting/if-you-use-devcommands-to-cheat-in-valheim-but-want-your-achievements-anyway-you-can-get-them-by-using-the-new-devcommand-yesiuseddevcommandsbutiwantmyachievementsanyway/
 
 After five years in early access, Valheim 1.0 finally launched this week with its final biome, a new boss, lots of extra weapons, armor, and monsters, and more than 50 achievements—though those cheevos were locked up tight if you used the command console to activate cheats. That just changed, at least for Steam users. Twin patches were released for Valheim today containing a handful of bug fixes and tweaks, and one big change to achievements. "The fixes include a function to let you opt into using achievements even though you have been blocked from doing so because of previous usage of devcommands," developer Iron Gate says. "We will leave it to your own judgement whether or not to activate this function–Oden will surely know if you use it dishonourably." This new command is just for players on Steam, and it rolls right off the tongue: "Achievements can now be opted into even if you have used devcommands or mods by the new devcommand 'yesiuseddevcommandsbutiwantmyachievementsanyway'." If you're new to using cheats in Valheim, by the way, we've got you covered with our Valheim console commands guide , which we updated for 1.0 so you can spawn new Deep North materials, weapons, foods, and items. And now you can use them while still earning achievements, even if it means Oden will be disappointed in you. Nice! Valheim biomes : Follow along zone by zone Valheim console commands : Godly shortcuts Valheim inventory upgrades : Deeper pockets Valheim battle idols : Upgrade your gear 
-
-### Shroom and Gloom is my new deckbuilder obsession thanks to its fantastic fights, beautiful artwork, and tasty mushrooms
-Fri, 11 Sep 2026 16:29:02 +0000 — https://www.pcgamer.com/games/roguelike/shroom-and-gloom-is-my-new-deckbuilder-obsession-thanks-to-its-fantastic-fights-beautiful-artwork-and-tasty-mushrooms/
-
-A fun fact about myself is that I love mushrooms. I love finding them in the wild, I love putting them on pizza (please don't put wild mushrooms on your pizza), but most of all I love seeing them in games. It's quite a niche passion to be sure, but that hasn't stopped me from running around as a little mushroom man in my current DnD campaign. And now, I get to run around fighting them in my latest roguelike deckbuilder obsession: Shroom and Gloom . Travelling through a subterranean dungeons full of vines, bones, and (crucially) shrooms, the aim here is to fight your way through areas to complete quests and unlock new characters, gather helpful items, and explore the different pathways. (Image credit: Devolver Digital) Pretty standard, right? Wrong. Because Shroom and Gloom isn't just any old deckbuilder, it's a deck builder with two decks. The first deck is for exploration, there's shovels to dig for new cards, lighters to start campfires for warmth, and tools to break through doors so you can progress onto the next area, among many, many other things. The catch is that you can only use so many of these in one go, thanks to your limited stamina. This means you have to be strategic with what you do and when. Early on I made the mistake of getting way too excited digging holes and breaking open treasure chests. I soon had no stamina left to break the lock on the door to progress and I was forced to take a rest. Devolver Digital Devolver Digital Devolver Digital Now, that doesn'
-
-### Framework cancels custom low profile keyboard module for its laptops: 'We weren’t able to bring costs to a place where the product economics worked'
-Fri, 11 Sep 2026 16:10:03 +0000 — https://www.pcgamer.com/hardware/gaming-keyboards/framework-cancels-custom-low-profile-keyboard-module-for-its-laptops-we-werent-able-to-bring-costs-to-a-place-where-the-product-economics-worked/
-
-It's easier than ever to make a gaming desktop feel all your own. The same is arguably much less true of gaming laptops, though Framework is one company hoping to expand the horizons of gaming-on-the-go through modular upgrades. However, sometimes even Framework has to call it quits when a design idea simply does not come together. The low-profile keyboard fiends are gathered here today to pour one out for the One Key Module Developer Program , which was first opened up in December 2025 . The initial aim of this was to develop "custom ultra-low-profile keyboards and Input Modules for Framework Laptop 16 ." Unfortunately, after three years total of prototyping and taking on developer feedback, Framework has shared that it isn't able to turn the keyboard module into "a sellable product". There's a few reasons for this, and I doubt number one will shock you: cost. Framework writes, "We weren’t able to bring material and assembly costs along with manufacturing yield to a place where the product economics worked. The per-key costs resulted in breakeven pricing too high to reasonably enable high volume sales, and neither we nor our suppliers can take on the overhead of manufacturing a product of this complexity at low volumes." To expand on that lattermost point about hardware complexity, apparently even "the expert DIYers and electronics tinkerers" that collaborated with Framework via the developer program had trouble "reliably assembling the One Key Module into their designs." Pa
-
-### Sony reportedly dropped Hideo Kojima's next game because it kept missing deadlines, was over budget, and would eventually come to other platforms
-Fri, 11 Sep 2026 16:03:31 +0000 — https://www.pcgamer.com/gaming-industry/sony-reportedly-dropped-hideo-kojimas-next-game-because-it-kept-missing-deadlines-was-over-budget-and-would-eventually-come-to-other-platforms/
-
-Earlier this week, it broke that Sony had dropped Physint, a videogame being developed by Hideo Kojima. Which is weird, given that Kojima's a bit of an auteur—his games are weird and ambitious in scope, but they're often viewed fondly, and the man made Metal Gear Solid, for crying out loud. Physint was meant to be a return to "tactical espionage action", a prodigal return to what he's known for—it seems wild to drop it, something Xbox decided to capitalise on, snapping up the project instantly . It's since broken, in a Bloomberg report , that Sony might've simply ran out of patience. And in fairness—as much fairness as you can give to a videogame giant in our current industry—some of these reasons do track, though, through the salt-pinched lens of anonymous sources: "[Physint] missed deadlines and was on track to be well over budget despite being years away from release," the report states. There was also the point of "Kojima’s previous two games, Death Stranding and its sequel, which didn’t meet PlayStation’s revenue expectations." Also potentially fair, though you've gotta wonder if "revenue expectations" are worth dropping someone like Kojima over—surely you're in it for the prestige brand , or whatever people who wear suits and talk about growth in the next quarter call it. The report also states, however, that "PlayStation was reluctant to invest hundreds of millions of dollars in another game that wouldn’t remain permanently exclusive to the company’s own hardware," whi
-
-### 'No fuss, no greater meaning, only fans': Corsair shares 3D print files for its April Fools mini fan cube
-Fri, 11 Sep 2026 15:34:04 +0000 — https://www.pcgamer.com/hardware/cooling/no-fuss-no-greater-meaning-only-fans-corsair-shares-3d-print-files-for-its-april-fools-mini-fan-cube/
-
-I don't usually cover the totally, completely, definitely hilarious April Fools jokes all these companies like to pull on April 1. But sometimes that comes back to bite me when the joke products actually get made. It seems that's what has happened here, as Corsair has released 3D print files for a cube that can house fans on each face—that's it, that's all it does. To be fair, I can't even seem to find evidence that this was an April Fools joke. But Corsair implies as much: From April Fools, to Computex, to Gamescom and beyond - here by popular demand: you can now print your own CORSAIR fan cube!Just a simple cube that holds 6 fans - no fuss, no greater meaning, only fans.https://t.co/7vAlBcSiJFWhat are some 3D prints the community wants to… pic.twitter.com/U9Uw4HRh76 September 10, 2026 "From April Fools, to Computex, to Gamescom and beyond - here by popular demand: you can now print your own Corsair fan cube! Just a simple cube that holds 6 fans—no fuss, no greater meaning, only fans." "No greater meaning," that's what I like to hear. In a world that seems to be collapsing around us in every direction, sometimes it's nice to have something pointless to grasp on to. At any rate, if you fancy making one, you can download the files from Printables . They include three main parts—the base and both sides of the cube—plus a connector, which you print four of. Apart from this, all you need is M4x14 mm screws to connect the base. Judging from the picture, it looks like the cube supp
 
 ## GameSpot
 

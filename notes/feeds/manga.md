@@ -1,72 +1,107 @@
-# Manga — harvested 2026-09-12T08:50:03.398Z
+# Manga — harvested 2026-09-12T13:44:06.808Z
 
 ## Anime News Network
 
-### Yūsanchi! from Yū-hachi TV Anime Reveals October 5 Debut, Main Cast in Promo Video
-Sat, 12 Sep 2026 03:55:25 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/yusanchi-from-yu-hachi-tv-anime-reveals-october-5-debut-main-cast-in-promo-video/.241693
+### CloverWorks' Omnibus Anime Film Grotesqqque Streams Trailer Highlighting "Yoroshiku★Girl" Segment
+Sat, 12 Sep 2026 08:32:19 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/cloverworks-omnibus-anime-film-grotesqqque-streams-trailer-highlighting-yoroshiku-girl-segment/.241704
 
-Short anime to star Chiaki, Hina Kawata, more
+Film opens on November 6 in Japan
 
-### Romelia War Chronicle Anime Reveals Theme Songs, October 3 Early Streaming Debut in Video
-Sat, 12 Sep 2026 03:03:05 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/romelia-war-chronicle-anime-reveals-theme-songs-october-3-early-streaming-debut-in-video/.241689
+### Madoka Magica -Walpurgisnacht: Rising- Anime Film Reveals New Promo Video, Visual
+Sat, 12 Sep 2026 08:20:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/madoka-magica-walpurgisnacht-rising-anime-film-reveals-new-promo-video-visual/.241705
 
-New visual also revealed
+Film opened in Japan on August 28
 
-### Autism Society Japan Issues Statement on Mii-chan and Miss Yamada Manga
-Fri, 11 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-11/autism-society-japan-issues-statement-on-mii-chan-and-miss-yamada-manga/.241634
+### Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance Anime Film Reveals New Video
+Sat, 12 Sep 2026 08:06:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/rakuen-tsuiho-expelled-from-paradise-kokoro-no-resonance-anime-film-reveals-new-video/.241700
 
-ASJ: “We do not believe an anime adaptation is appropriate, even if it was age-restricted or restricted from freely available over-the-air television”
+Rie Kugimiya reprises role as Angela Balzac
 
-### Melty Blood:Twi-Lumina 2D Fighter Game's Trailer Reveals April 22 Release, White Len
-Fri, 11 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/melty-blood-twi-lumina-2d-fighter-game-trailer-reveals-april-22-release-white-len/.241677
+### New Detective Conan 2-Hour Anime Special Reveals Promo Video, Theme Song Artist, Main Visual
+Sat, 12 Sep 2026 07:47:59 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/new-detective-conan-2-hour-anime-special-reveals-promo-video-theme-song-artist-main-visual/.241702
 
-Game launches for PS5, PS4, Switch 2, Switch, Xbox One, PC
+Mai Kuraki will perform opening theme song "Hallelujah" in September 25 anime special
 
-### Rilakkuma Short Anime Gets 3rd Season
-Fri, 11 Sep 2026 21:09:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/rilakkuma-short-anime-gets-3rd-season/.241683
+### 'Fall in Love, You False Angels' Anime Reveals Promo Video, Cast, Staff
+Sat, 12 Sep 2026 07:33:58 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/fall-in-love-you-false-angels-anime-reveals-promo-video-cast-staff/.241703
 
-<i>Rilakkuma: Ki Mama ni Manpuku Biyori</i> announced after episode 24
+Nao Ojika plays Otogi Katsura, Taito Ban plays Toki Ninomae in 2027 television anime
 
-### Ryō Kurashina, Issaku Wake's Jotei Manga Gets New Live-Action TV Series
-Fri, 11 Sep 2026 20:48:01 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/ryo-kurashina-issaku-wake-jotei-manga-gets-new-live-action-tv-series/.241682
+### Bless TV Anime Reveals Main Cast, January 2027 Debut
+Sat, 12 Sep 2026 07:19:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/bless-tv-anime-reveals-main-cast-january-2027-debut/.241697
 
-Live-action <i>Oshi no Ko's</i> Nagisa Saitō stars as woman striving to be "Empress of Ginza"
+Tomohiro Ōno, Chiyuki Miura star
 
-### North American Anime, Manga Releases, September 6-12
-Fri, 11 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/north-american-anime-manga-releases-september-6-12/.241539
+### Jyuо̄ Mujin Dandivine Original TV Anime's New Promo Video Previews Opening, Ending Themes
+Sat, 12 Sep 2026 06:50:33 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/jyu-mujin-dandivine-original-tv-anime-new-promo-video-previews-opening-ending-themes/.241701
 
-<cite>My Hero Academia: Vigilantes, Kaiju No. 8: Mission Recon</cite> anime; <cite>The Amazing Digital Circus, Say Hello to Mr. Wallaby!</cite> manga ship
+Takanori Nishikawa, DayRe perform theme songs for anime debuting on October 7
 
-### 'Harem Camp!' Anime's English Dub Releases on September 18
-Fri, 11 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/harem-camp-anime-english-dub-releases-on-september-18/.241668
+### Please Excuse My Younger Brothers TV Anime Reveals New Opening Theme Artist, Special Promo Video
+Sat, 12 Sep 2026 06:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/please-excuse-my-younger-brothers-tv-anime-reveals-new-opening-theme-artist-special-promo-video/.241690
 
-AnimeFesta anime based on Yuuki HB's manga premiered in October 2022
+Neguse performs new opening theme song for show's 2nd part
 
-### Madoka Magica -Walpurgisnacht: Rising- Anime Film Reveals Maaya Sakamoto's Role
-Fri, 11 Sep 2026 12:20:15 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/madoka-magica-walpurgisnacht-rising-anime-film-reveals-maaya-sakamoto-role/.241675
+### Vertex Force Original Anime Reveals Theme Song Artists, More Cast in 2nd Promo Video
+Sat, 12 Sep 2026 06:10:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/vertex-force-original-anime-reveals-theme-song-artists-more-cast-in-2nd-promo-video/.241687
 
-Sakamoto plays unnamed upperclassman in film
+Kazuki Ura, Nana Mizuki join cast; ClariS, Hashimero perform themes
 
-### Victoria of Many Faces Season 1 Anime Series Review
-Fri, 11 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/victoria-of-many-faces-season-1/anime-series/.241208
+### Ascendance of a Bookworm Part 3 Anime Casts Kaede Hondo, Reveals Climax Promo Video
+Sat, 12 Sep 2026 06:09:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/ascendance-of-a-bookworm-part-3-anime-casts-kaede-hondo-reveals-climax-promo-video/.241696
 
-The push and pull Victoria feels between her longing to settle down and the feeling that she must constantly be ready to flee are what bring intrigue to this show.
+Kaede Hondo joins cast as character Charlotte
 
-### 'Sound! Euphonium, The Final Movie Part 2' Streams Video Featuring New Footage
-Fri, 11 Sep 2026 10:56:58 -0400 — https://www.animenewsnetwork.com/news/2026-09-11/sound-euphonium-the-final-movie-part-2-streams-video-featuring-new-footage/.241674
+### Fate/EXTRA Record Game Streams Character Video for Archer
+Sat, 12 Sep 2026 06:05:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/fate-extra-record-game-streams-character-video-for-archer/.241699
 
-Film opened on Friday
+Junichi Suwabe voices character in game launching on January 28
 
-### Thunder 3 ‒ Episode 10
-Fri, 11 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-10/.241671
+### Inherit the Winds Anime's New Video Highlights 5 Characters
+Sat, 12 Sep 2026 05:53:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/inherit-the-winds-anime-new-video-highlights-5-characters/.241686
 
-I won’t lie, though – the kids’ joy during the flying scenes is infectious.
+Anime debuts 1st in theaters on November 13 before airing starting in January 2027
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Japanese Boy Group ONE OR EIGHT to Perform Special SHOW CASE 2026 in Singapore, Manila, and Bangkok This October
+Sat, 12 Sep 2026 11:43:14 GMT — https://animecorner.me/japanese-boy-group-one-or-eight-to-perform-special-show-case-2026-in-singapore-manila-and-bangkok-this-october/
+
+Japanese boy group ONE OR EIGHT has announced their upcoming three-day Southeast Asia tour,&hellip;
+
+### Katekyo Hitman Reborn! Anime Reveals Sixth Ending Featuring "STAND UP!" by Lead
+Sat, 12 Sep 2026 11:19:29 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-sixth-ending-featuring-stand-up-by-lead/
+
+Katekyo Hitman REBORN! anime released the creditless version of its sixth ending, featuring the song "STAND UP!" by Lead.
+
+### Madoka Magica: Walpurgisnacht Rising Reveals New Trailer and Third Key Visual by Ume Aoki
+Sat, 12 Sep 2026 11:05:07 GMT — https://animecorner.me/madoka-magica-walpurgisnacht-rising-reveals-new-trailer-and-third-key-visual-by-ume-aoki/
+
+Puella Magi Madoka Magica the Movie: Walpurgisnacht Rising revealed a new key visual and&hellip;
+
+### Fall in Love, You False Angels Anime Trailer Reveals Main Voice Cast
+Sat, 12 Sep 2026 10:45:10 GMT — https://animecorner.me/fall-in-love-you-false-angels-anime-trailer-reveals-main-voice-cast/
+
+Fall in Love, You False Angels anime revealed a new trailer and main voice cast ahead of its 2027 release date.
+
+### The Guy She Was Interested In Wasn't a Guy At All Reveals Mitsuki and Aya Character Visuals
+Sat, 12 Sep 2026 10:35:33 GMT — https://animecorner.me/the-guy-she-was-interested-in-wasnt-a-guy-at-all-reveals-mitsuki-and-aya-character-visuals/
+
+The Guy She Was Interested In Wasn’t a Guy At All anime revealed character visuals for Mitsuki Koga and Aya Osawa.
+
+### My Hero Academia to Announce New Project as Part of 10th Anniversary on September 20
+Sat, 12 Sep 2026 10:08:19 GMT — https://animecorner.me/my-hero-academia-to-announce-new-project-as-part-of-10th-anniversary-on-september-20/
+
+A new My Hero Academia anime 10th anniversary project will be announced during a special livestream on September 20, 2026.
+
+### Magical Explorer Reveals Kosuke Takioto Character Trailer Ahead of October Premiere
+Sat, 12 Sep 2026 09:36:54 GMT — https://animecorner.me/magical-explorer-reveals-kosuke-takioto-character-trailer-ahead-of-october-premiere/
+
+Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim anime revealed a a character trailer for the main character, Kosuke Takioto.
 
 ### Re:ZERO Emilia Birthday Event 2026 Reveals New Artwork and Tappei Nagatsuki Short Story Bonus
 Sat, 12 Sep 2026 08:13:07 GMT — https://animecorner.me/rezero-emilia-birthday-event-2026-reveals-new-artwork-and-tappei-nagatsuki-short-story-bonus/
@@ -93,42 +128,22 @@ Fri, 11 Sep 2026 12:30:00 GMT — https://animecorner.me/summer-2026-anime-ranki
 
 Mushoku Tensei Season 3 takes its first win of the Summer 2026 season in Week 10 with 15.03% of the vote, followed by Bleach and Inept Villainess.
 
-### Aizen Is Back in BLEACH: Thousand-Year Blood War Episode 48 Preview
-Fri, 11 Sep 2026 11:03:16 GMT — https://animecorner.me/aizen-is-back-in-bleach-thousand-year-blood-war-episode-48-preview/
-
-BLEACH: Thousand-Year Blood War (TYBW) Part 4 has revealed the preview for Episode 8 (Episode 48 overall).
-
-### Chitose Is in the Ramune Bottle Part 2 Trailer and October 13 Premiere Revealed, Sora Amamiya Joins Cast
-Fri, 11 Sep 2026 10:59:32 GMT — https://animecorner.me/chitose-is-in-the-ramune-bottle-part-2-trailer-and-october-13-premiere-revealed-sora-amamiya-joins-cast/
-
-Chitose Is in the Ramune Bottle revealed a new trailer for its Cour 2, along with the theme songs and an October 13, 2026 premiere.
-
-### A Wild Last Boss Appeared Season 2 Reveals New Trailer, Cast and September 26 Streaming Premiere
-Fri, 11 Sep 2026 10:43:58 GMT — https://animecorner.me/a-wild-last-boss-appeared-season-2-reveals-new-trailer-cast-and-september-26-streaming-premiere/
-
-A Wild Last Boss Appeared has revealed its second Season 2 trailer, confirming that&hellip;
-
-### BLACK TORCH Prepares For Final Episodes With New Trailer
-Fri, 11 Sep 2026 09:46:21 GMT — https://animecorner.me/black-torch-prepares-for-final-episodes-with-new-trailer/
-
-BLACK TORCH released a new “FINAL PV” trailer ahead of its concluding episodes, featuring footage from Episodes 11 and 12.
-
-### A Certain Item of Dark Side Anime Reveals Key Visual
-Fri, 11 Sep 2026 09:34:47 GMT — https://animecorner.me/a-certain-item-of-dark-side-anime-reveals-key-visual/
-
-A Certain ITEM of Dark Side anime has revealed a new key visual featuring the main characters ahead of the show's October 9, 2026.
-
-### Reincarnated as a Sword Season 2 Reveals Collaboration Visual With From Old Country Bumpkin to Master Swordsman, Episode 1 Preview
-Fri, 11 Sep 2026 09:23:18 GMT — https://animecorner.me/reincarnated-as-a-sword-season-2-reveals-collaboration-visual-with-from-old-country-bumpkin-to-master-swordsman-episode-1-preview/
-
-Reincarnated as a Sword Season 2 has revealed a new collaboration visual with From Old Country Bumpkin to Master Swordsman S2.
-
-### PSYREN Anime Reveals New Visual, Trailer, Theme Song, Voice Cast
-Fri, 11 Sep 2026 09:00:09 GMT — https://animecorner.me/psyren-anime-reveals-new-visual-trailer-theme-song-voice-cast/
-
-PSYREN anime revealed a new trailer, key visual, and cast ahead of the show's previously confirmed October 2026 premiere.
-
 ## MyAnimeList News
+
+### Bless Reveals Main Cast, Character Promo, Winter 2027 Debut
+Sat, 12 Sep 2026 04:27:03 -0700 — https://myanimelist.net/news/74707781?_location=rss
+
+The Aniplex One Focus 2026 event revealed the main cast, a teaser visual (pictured), and character promotional video for the television anime adaptation of Yukino Sonoyama s Bless manga on Saturday. The anime series is scheduled to premiere on Fuji TV s NoitaminA programming block at 11.30. p.m. in January 2027. Voice actors Tomohiro Ono (Tomodachi Game) and Chiyuki Miura (Shibou Yuugi de Meshi wo Kuu.) are starring as Aia Udagawa and Jun Sumisaki, respectively. Shoutarou Kitamura (Mak...
+
+### Koiseyo Mayakashi Tenshi-domo Unveils Main Cast, Additional Staff, Promo
+Sat, 12 Sep 2026 04:08:55 -0700 — https://myanimelist.net/news/74707678?_location=rss
+
+The Aniplex One Focus 2026 event unveiled the main cast, additional staff, and a cast announcement promotional video for the television anime adaptation of Coco Uzuki s Koiseyo Mayakashi Tenshi-domo (Fall in Love, You False Angels) manga on Saturday. The anime is scheduled to premiere in 2027. Voice actors Nao Ojika (Mahou no Shimai Lulutto Lilly) and Taito Ban (Ore dake Level Up na Ken) are starring the anime as Otogi Katsura and Toki Ninomae, respectively. Yuuki Kurihara (Haigakura) and Y...
+
+### Vertex Force Reveals Additional Cast, Theme Songs, Second Promo
+Sat, 12 Sep 2026 03:49:08 -0700 — https://myanimelist.net/news/74707563?_location=rss
+
+The Aniplex One Focus 2026 event revealed additional cast, theme songs, a key visual (pictured), and the second promotional video for the Vertex Force original television anime on Friday. The anime is scheduled to premiere on Tokyo MX, BS11, Gunma TV, and Tochigi TV at 11:30 p.m. on October 3. Voice actors Kazuki Ura (Bungou Stray Dogs 5th Season) and Nana Mizuki (Dandadan) are joining the cast as Alan and EDVA, respectively. Japanese pop music group ClariS (Lycoris Recoil) is performing the ope...
 
 ### Kyokou Suiri Author to Launch Vampire Juujikai Sequel in October 2026
 Fri, 11 Sep 2026 06:47:09 -0700 — https://myanimelist.net/news/74702759?_location=rss
@@ -165,16 +180,6 @@ Thu, 10 Sep 2026 12:59:36 -0700 — https://myanimelist.net/news/74699348?_locat
 
 The official website for the Shuiro no Kamen (The Vermilion Mask) television anime adaptation revealed additional cast, staff, second key visual (pictured), theme songs, and a second promotional video on Friday. The anime adapting Dr.Poro and Nabana Naba s action fantasy manga is scheduled to premiere on October 10 at 5:30 p.m. on Yoimiuri TV and Nippon TV. Cast Hien: Kenji Nojima (Banana Fish) Lasgarl: Aoi Koga (Kaguya-sama wa Kokurasetai) Clown: Yuuki Shin (Gachiakuta) Rinne: Akihisa Waka...
 
-### Manga Eat-Man Gets New Anime Adaptation
-Thu, 10 Sep 2026 03:27:25 -0700 — https://myanimelist.net/news/74696633?_location=rss
-
-Entertainment company Hakuhodo DY Music &amp; Pictures opened an official website for a new anime adaptation of Akihito Yoshitomi s Eat-Man manga, subtitled The Over Order, on Thursday, revealing the lead cast, main staff, a teaser visual (pictured), and announcement promo. Voice actor Masashi Ebara (Dark Gathering) is reprising his leading role as Bolt Crank. Staff Director: Shunji Ooga (Golgo 13 (TV) chief director) Original Design, Script: Akihito Yoshitomi Character Design: Satoshi Hira...
-
-### Hyouken no Majutsushi ga Sekai wo Suberu II Unveils Supporting Cast, Main Promo
-Thu, 10 Sep 2026 02:36:04 -0700 — https://myanimelist.net/news/74696432?_location=rss
-
-The official website for the television anime adaptation of Nana Mikoshiba s Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel unveiled supporting cast and the main promotional video for its second season on Thursday. The new season is scheduled to premiere on TBS on October 9 at 1.28 a.m., followed by BS11 at 11.00 p.m. at the same day. Cast Lucas Forst: Souichirou Hoshi (Mattaku Saikin no Tantei to Kitara) Lieselotte Eden: Haruka Shiraishi...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
@@ -190,9 +195,4 @@ ARRIETTY will release in IMAX and cinemas both in the original Japanese with Eng
 Thu, 10 Sep 2026 16:30:43 +0000 — https://animeuknews.net/2026/09/crunchyroll-announces-acquisition-and-theatrical-dates-for-new-anime-feature-film-witch-on-the-holy-night/
 
 Crunchyroll and Sony Pictures Entertainment will bring the latest project from famed animation studio ufotable to cinemas from 29th January, 2027
-
-### Don’t Confuse Me, Yamori-kun Volume 1 Review
-Thu, 10 Sep 2026 09:00:03 +0000 — https://animeuknews.net/2026/09/dont-confuse-me-yamori-kun-volume-1-review/
-
-High-schoolers Mori and Yamori decide to change their looks over summer break – but who could have expected Yamori to return to school in a skirt?!
 
