@@ -1,5 +1,5 @@
 ---
-title: "Mortal Shell II reviews: 8.5 across 15 outlets"
+title: "Mortal Shell II clears the original by a full grade"
 date: 2026-08-17
 category: Games
 cover: /img/blog/mortal-shell-2-reviews/shot-03.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Star Wars Zero Company reviews: an 87, and its camera"
+title: "Star Wars Zero Company nails the tactics, not the camera"
 date: 2026-08-27
 category: Games
 cover: /img/blog/star-wars-zero-company-review-tactics-camera/shot-01.jpg

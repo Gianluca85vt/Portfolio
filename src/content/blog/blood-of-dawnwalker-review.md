@@ -1,5 +1,5 @@
 ---
-title: "Blood of Dawnwalker review: an 8, and a wide gap"
+title: "Blood of Dawnwalker’s thirty-day clock splits the verdicts"
 date: 2026-08-31
 category: Games
 cover: /img/blog/blood-of-dawnwalker-review/shot-01.jpg

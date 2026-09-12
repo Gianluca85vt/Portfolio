@@ -1,5 +1,5 @@
 ---
-title: "Orbitals review: an 8, and 12fps on purpose"
+title: "Orbitals turns a low frame rate into style"
 date: 2026-09-04
 category: Games
 cover: /img/blog/orbitals-review/shot-01.jpg

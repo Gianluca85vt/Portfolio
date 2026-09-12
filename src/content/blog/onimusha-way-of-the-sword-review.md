@@ -1,5 +1,5 @@
 ---
-title: "Onimusha Way of the Sword review: an 8.5"
+title: "Onimusha: Way of the Sword and the flaw Capcom chose"
 date: 2026-08-31
 category: Games
 cover: /img/blog/onimusha-way-of-the-sword-review/shot-01.jpg

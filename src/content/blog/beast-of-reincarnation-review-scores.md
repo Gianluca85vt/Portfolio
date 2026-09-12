@@ -1,5 +1,5 @@
 ---
-title: "Beast of Reincarnation reviews: Game Freak lands a 7"
+title: "Beast of Reincarnation: something new, something unfinished"
 date: 2026-08-24
 category: Games
 cover: /img/blog/beast-of-reincarnation-review-scores/shot-01.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Hot Wheels Infinite Rush review: 7.5, from 6 to 9"
+title: "Hot Wheels Infinite Rush divides over its open-world turn"
 date: 2026-09-06
 category: Games
 cover: /img/blog/hot-wheels-infinite-rush-review/shot-01.jpg

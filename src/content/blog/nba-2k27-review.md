@@ -1,5 +1,5 @@
 ---
-title: "NBA 2K27 review: an 8.5 from three verdicts"
+title: "NBA 2K27 nails the defence broadcast cameras barely show"
 date: 2026-09-02
 category: Games
 cover: /img/blog/nba-2k27-review/shot-01.jpg

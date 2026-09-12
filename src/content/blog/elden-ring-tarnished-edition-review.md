@@ -1,5 +1,5 @@
 ---
-title: "Elden Ring Tarnished Edition review: a 9.5"
+title: "Elden Ring Tarnished Edition proves the doubters wrong"
 date: 2026-08-30
 category: Games
 excerpt: The Switch 2 port everyone wrote off after a 15fps demo is reviewing at 91. Six verdicts average 9.5, and almost nobody docked it for the cuts.

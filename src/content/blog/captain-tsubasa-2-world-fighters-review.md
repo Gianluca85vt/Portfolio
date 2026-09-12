@@ -1,5 +1,5 @@
 ---
-title: "Captain Tsubasa 2 review: an 8 made of cutscenes"
+title: "Captain Tsubasa 2 wins on spectacle, not football"
 date: 2026-08-28
 category: Games
 excerpt: Five published verdicts average 8/10. The high scores love the cinematic super-shots, the lower ones want the football back, and Tamsoft's answer is a parry.

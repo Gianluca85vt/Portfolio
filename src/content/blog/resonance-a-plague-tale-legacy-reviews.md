@@ -1,5 +1,5 @@
 ---
-title: "Resonance reviews: twenty scores from 7 to 9.5"
+title: "Resonance divides on how much a sequel can throw away"
 date: 2026-08-26
 category: Games
 cover: /img/blog/resonance-a-plague-tale-legacy-reviews/cover.jpg
