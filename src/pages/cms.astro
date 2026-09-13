@@ -162,6 +162,7 @@ export const prerender = false;
         <button class="ghost" id="f-drafts">Drafts</button>
         <button class="ghost" id="f-live">Published</button>
         <button class="ghost" id="new">New article</button>
+        <button class="ghost hidden" id="invite">Invite</button>
         <button class="ghost" id="out">Sign out</button>
       </header>
 
@@ -439,6 +440,7 @@ export const prerender = false;
         head = body.head;
         $('who').textContent = `${body.name} · ${body.role}`;
         $('publish').classList.toggle('hidden', body.role !== 'admin');
+        $('invite').classList.toggle('hidden', body.role !== 'admin');
         draw();
       }
 
@@ -713,6 +715,24 @@ export const prerender = false;
       $('f-drafts').onclick = () => { filter = 'drafts'; draw(); };
       $('f-live').onclick = () => { filter = 'live'; draw(); };
       $('new').onclick = blank;
+      // Admin only (the server checks the role too). Mints a one-time link for a
+      // new collaborator, who sets their own password and joins as an editor —
+      // drafts only, never publish. No password is ever sent; the link is.
+      $('invite').onclick = async () => {
+        const email = prompt('Collaborator’s email. They’ll set their own password.');
+        if (!email || !email.trim()) return;
+        const name = (prompt('Their name (optional):') ?? '').trim();
+        const { ok, body } = await api('/api/cms/auth', {
+          method: 'POST',
+          body: JSON.stringify({ action: 'create-invite', email: email.trim(), displayName: name }),
+        });
+        if (!ok) return say('msg', body.error ?? 'Could not create the invite.', 'bad');
+        try { await navigator.clipboard.writeText(body.link); } catch {}
+        say('msg', `Invite ready for ${body.email} — link copied. It works once.`, 'good');
+        // Fallback so the link is always retrievable even if the clipboard was
+        // blocked: it sits selectable in this box for copying.
+        prompt(`Send this one-time link to ${body.email} (already copied):`, body.link);
+      };
       $('save').onclick = save;
       $('publish').onclick = publish;
       $('out').onclick = async () => {

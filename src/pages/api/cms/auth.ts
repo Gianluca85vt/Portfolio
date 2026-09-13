@@ -1,11 +1,12 @@
 import type { APIRoute } from 'astro';
 import { env } from '../../../lib/env';
 import { passwordMatches } from '../../../lib/session';
-import { createCmsCookie, clearedCmsCookie, clearedHostOnlyCmsCookie } from '../../../lib/session';
+import { createCmsCookie, clearedCmsCookie, clearedHostOnlyCmsCookie, readCmsSession } from '../../../lib/session';
 import {
   accountsConfigured,
   countEditors,
   createEditor,
+  findEditorById,
   findEditorByEmail,
   passwordProblem,
   recordAttempt,
@@ -107,6 +108,35 @@ export const POST: APIRoute = async ({ request, url }) => {
 
     const cookie = await createCmsCookie({ id: made.editor.id, role: 'admin' }, secure, host);
     return json({ ok: true, role: 'admin' }, 200, withCleanup(cookie, secure));
+  }
+
+  /* -------------------------------------------------------- create-invite */
+
+  // An admin mints an invite link for a new collaborator. The link is returned
+  // for the admin to send however they like; no password is ever generated or
+  // emailed — the person on the other end sets their own through the `invite`
+  // action below. New accounts are always editors, and an editor can only save
+  // drafts (articles.ts refuses a non-admin any save without `draft: true`, and
+  // refuses publish outright), so an invite can never mint a second publisher.
+  if (action === 'create-invite') {
+    const session = await readCmsSession(request);
+    if (!session) return json({ error: 'Sign in first.' }, 401);
+    const admin = await findEditorById(session.id);
+    if (!admin || admin.disabled || admin.role !== 'admin') {
+      return json({ error: 'Only an admin can invite collaborators.' }, 403);
+    }
+
+    const email = String(payload.email ?? '');
+    const made = await createEditor({
+      email,
+      displayName: String(payload.displayName ?? '').trim() || email.split('@')[0],
+      role: 'editor',
+    });
+    if ('error' in made) return json({ error: made.error }, 400);
+
+    // The one-time link the collaborator opens to choose their own password.
+    const link = new URL(`/cms?invite=${made.inviteToken}`, url.origin).href;
+    return json({ ok: true, link, email: made.editor.email });
   }
 
   /* --------------------------------------------------------------- invite */
