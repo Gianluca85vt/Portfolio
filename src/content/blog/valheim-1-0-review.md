@@ -1,5 +1,5 @@
 ---
-title: "Valheim 1.0 review: a 9, from 8 to 10"
+title: "Valheim 1.0 ends five years of early access, near flawless"
 date: 2026-09-09
 category: Games
 cover: /img/blog/valheim-1-0-review/shot-01.jpg
