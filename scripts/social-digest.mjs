@@ -218,9 +218,11 @@ export async function drawAll(root = process.cwd()) {
   const lead = articles.find((a) => a.cover && !a.cover.endsWith('.svg')) ?? articles[0];
   const frames = [
     {
-      title: `${articles.length} ${articles.length === 1 ? 'story' : 'stories'} today`,
+      title: `${articles.length} ${articles.length === 1 ? 'article' : 'articles'} today`,
       category: lead.category,
-      cover: lead.cover,
+      // The opening frame is a mosaic of every cover of the day rather than a
+      // copy of the lead's, so it no longer duplicates frame one.
+      covers: articles.map((a) => a.cover),
       kicker: `Backdrop \u00b7 ${day}`,
     },
     ...articles,

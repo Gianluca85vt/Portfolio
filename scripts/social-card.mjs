@@ -316,28 +316,87 @@ ${items}
  * `index` and `total` drive the progress pips, so a viewer can see how many
  * taps are left before they decide to leave.
  */
+/**
+ * A cover built from the day's covers, for the opening frame.
+ *
+ * The opener used to borrow the lead article's cover, so the first two frames
+ * were the same photograph with different words on them. This tiles every real
+ * cover of the day edge to edge instead, so frame zero reads as all of it at
+ * once before the taps break it into one article each.
+ *
+ * Every row is filled: the last row's cells widen to span the full width, so a
+ * count that does not divide evenly leaves no gap. Columns stay few because the
+ * covers sit behind a masthead and a headline — this is a backdrop, not a
+ * contact sheet.
+ */
+async function buildMosaic(covers, root) {
+  const paths = [];
+  for (const c of covers) {
+    if (!c || c.endsWith('.svg')) continue;
+    const p = join(root, 'public', c.replace(/^\//, ''));
+    try {
+      await access(p);
+      paths.push(p);
+    } catch {
+      /* a cover with no file on disk yet is skipped rather than failing the frame */
+    }
+  }
+  if (!paths.length) return null;
+  if (paths.length === 1) {
+    return sharp(paths[0], { density: 300 })
+      .resize(STORY_W, STORY_H, { fit: 'cover', position: 'attention' })
+      .toBuffer();
+  }
+
+  const cols = paths.length <= 3 ? 1 : paths.length <= 8 ? 2 : 3;
+  const rows = Math.ceil(paths.length / cols);
+  const rowH = Math.ceil(STORY_H / rows);
+
+  const tiles = [];
+  let i = 0;
+  for (let r = 0; r < rows && i < paths.length; r++) {
+    const inRow = Math.min(cols, paths.length - i);
+    const cellW = Math.ceil(STORY_W / inRow);
+    for (let c = 0; c < inRow; c++, i++) {
+      const buf = await sharp(paths[i], { density: 300 })
+        .resize(cellW, rowH, { fit: 'cover', position: 'attention' })
+        .toBuffer();
+      tiles.push({ input: buf, left: c * cellW, top: r * rowH });
+    }
+  }
+
+  return sharp({
+    create: { width: STORY_W, height: STORY_H, channels: 3, background: '#18011F' },
+  })
+    .composite(tiles)
+    .jpeg()
+    .toBuffer();
+}
+
 export async function buildStoryFrame(
-  { title, category, cover, score, kicker },
+  { title, category, cover, covers, score, kicker },
   index,
   total,
   root = process.cwd()
 ) {
   const accent = COLOURS[category] ?? '#B600A8';
 
-  let background;
-  try {
-    if (!cover) throw new Error('no cover');
-    const p = join(root, 'public', cover.replace(/^\//, ''));
-    await access(p);
-    background = await sharp(p, { density: 300 })
-      .resize(STORY_W, STORY_H, { fit: 'cover', position: 'attention' })
-      .toBuffer();
-  } catch {
-    background = await sharp({
-      create: { width: STORY_W, height: STORY_H, channels: 3, background: '#18011F' },
-    })
-      .jpeg()
-      .toBuffer();
+  let background = covers && covers.length ? await buildMosaic(covers, root) : null;
+  if (!background) {
+    try {
+      if (!cover) throw new Error('no cover');
+      const p = join(root, 'public', cover.replace(/^\//, ''));
+      await access(p);
+      background = await sharp(p, { density: 300 })
+        .resize(STORY_W, STORY_H, { fit: 'cover', position: 'attention' })
+        .toBuffer();
+    } catch {
+      background = await sharp({
+        create: { width: STORY_W, height: STORY_H, channels: 3, background: '#18011F' },
+      })
+        .jpeg()
+        .toBuffer();
+    }
   }
 
   const size = title.length > 78 ? 62 : title.length > 48 ? 70 : 80;
