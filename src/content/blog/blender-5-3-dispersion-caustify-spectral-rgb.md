@@ -4,7 +4,6 @@ date: 2026-09-13
 category: 3D
 excerpt: Caustify carries a wavelength to CIE 1931 and converts once. Cycles samples one too, then hands it back to RGB. That gap is why dispersion renders slowly.
 cover: /img/blog/blender-5-3-dispersion-caustify-spectral-rgb/shot-01.jpg
-draft: true
 ---
 
 Hold a cut stone up to a window and the light coming out of it is white
