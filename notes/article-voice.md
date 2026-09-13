@@ -68,6 +68,21 @@ Two reasons. It is the line search engines read, so it should carry the subject
 somebody would type. And the first person landing in sentence one hits harder
 when the headline has not already spent it.
 
+**A review title never carries the score.** The number goes in the `score:`
+field and shows on the card; it does not go in the headline. Someone searching
+for a review may not want the verdict spoiled in the tab and the search result,
+so the title summarises the judgement in words instead. Keep the game's name at
+the front for search.
+
+- Right: `Elden Ring Tarnished Edition proves the doubters wrong`
+- Right: `Beast of Reincarnation: something new, something unfinished`
+- Wrong: `Elden Ring Tarnished Edition review: a 9.5`
+- Wrong: `Marvel's Wolverine review: a 7.5, from 5 to 10`
+
+The verdict still has to be honest — a 9.5 reads as near-universal acclaim, a 7
+as solid-but-divided — but said, not scored. This overrides any older
+instruction that a review headline may carry the number.
+
 ---
 
 ## The reader, and how it sounds
