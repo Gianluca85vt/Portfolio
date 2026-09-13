@@ -1,72 +1,87 @@
-# Manga — harvested 2026-09-12T18:45:30.841Z
+# Manga — harvested 2026-09-13T09:43:44.847Z
 
 ## Anime News Network
+
+### Overgeared Anime Reveals 3rd Trailer, 2 New Cast Members
+Sun, 13 Sep 2026 04:15:44 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/overgeared-anime-reveals-3rd-trailer-2-new-cast-members/.241725
+
+Yūki Murata, Yurika Hirayama join cast of October 2 series
+
+### Fatal Fury City of the Wolves Game Adds DLC Character Kim Kaphwan on September 24
+Sun, 13 Sep 2026 04:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/fatal-fury-city-of-the-wolves-game-adds-dlc-character-kim-kaphwan-on-september-24/.241712
+
+Playable characters joins season 3 DLC roster
+
+### Actor, Narrator Leo Morimoto Dies at 83
+Sun, 13 Sep 2026 03:05:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/actor-narrator-leo-morimoto-dies-at-83/.241723
+
+<cite>The Wings of Honnêamise</cite> star, <cite>Bartender</cite> show's narrator died on September 4
+
+### Kei Urana's Gachiakuta Manga Continues Hiatus
+Sun, 13 Sep 2026 02:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/kei-urana-gachiakuta-manga-continues-hiatus/.241715
+
+Kodansha published latest chapter on August 5, manga is on hiatus so author can do research
+
+### Level 5 CEO Akihiro Hino Addresses Use of AI in Latest Presentation
+Sat, 12 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-12/level-5-ceo-akihiro-hino-addresses-use-of-ai-in-latest-presentation/.241710
+
+Hino: “We incorporated cutting-edge AI that also served as an experiment, in our earnest desire to make a phenomenal presentation. We understand this may have offended some, and we sincerely apologize.”
+
+### The Oblivious Saint Can't Contain Her Power Manga Ends in Next Volume
+Sat, 12 Sep 2026 23:36:06 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/the-oblivious-saint-cant-contain-her-power-manga-ends-in-next-volume/.241716
+
+Manga adaptation debuted in April 2022
+
+### The Record of a Fallen Vampire Manga Gets New Series After 19 Years, Teases Announcement
+Sat, 12 Sep 2026 22:37:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/the-record-of-a-fallen-vampire-manga-gets-new-series-after-19-years-teases-announcement/.241709
+
+<i>In/Spectre</i> author Kyo Shirodaira, Yuri Kimura launch <cite>Vampire Jūjikai: Inu ni wa Inu no Uta</cite> on October 9
+
+### In the Clear Moonlit Dusk Manga to End in 12th Volume Next Spring
+Sat, 12 Sep 2026 22:03:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/in-the-clear-moonlit-dusk-manga-to-end-in-12th-volume-next-spring/.241708
+
+Series reaches 8.2 million copies globally
+
+### Star Detective Precure! Film Assembles You and Idol Precure, Wonderful Precure! in 2 Trailers
+Sat, 12 Sep 2026 21:42:25 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/star-detective-precure-film-assembles-you-and-idol-precure-wonderful-precure-in-2-trailers/.241718
+
+Precure girls from 3 series unite in film opening next Friday
+
+### Orb, 100 Meters Manga Creator Uoto to Launch 2 New Manga Series
+Sat, 12 Sep 2026 21:00:20 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/orb-100-meters-manga-creator-uoto-to-launch-2-new-manga-series/.241706
+
+Uoto to launch <cite>Hallucination Meat</cite>, also partners with Kyō Yoneshiro for <cite>Test Taker/Cheaters</cite>
+
+### Tokyopop Releases Can't Buy My Love, Romantically Challenged, 3 More Manga in 2027
+Sat, 12 Sep 2026 16:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/tokyopop-releases-cant-buy-my-love-romantically-challenged-3-more-manga-in-2027/.241694
+
+Company also licenses <cite>A Fangirl's Guide to Learning How to Date 3D Men, LOVE IS PAIN, How to Fall In Love with You Again</cite>
 
 ### Japan's Video Game Rankings, August 31-September 6
 Sat, 12 Sep 2026 14:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/japan-video-game-rankings-august-31-september-6/.241658
 
 <cite>Onimusha: Way of the Sword</cite> PS5 version debuts at #1, Switch 2 version at #3
 
-### Japanese Animation TV Ranking, August 31-September 6
-Sat, 12 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/japanese-animation-tv-ranking-august-31-september-6/.241659
-
-<cite>From Old Country Bumpkin to Master Swordsman</cite> season 2 earns 2.4% rating
-
-### MARRIAGETOXIN Volume 12-14 Manga Review
-Sat, 12 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/marriagetoxin-volume-12-14/manga/.241194
-
-You’ll be happy to know that the story is kicking things up a notch in the best way possible.
-
-### Bleach: Thousand-Year Blood War - The Calamity Anime Episodes 49, 50 Delayed to October 19, 26
-Sat, 12 Sep 2026 11:13:17 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/bleach-thousand-year-blood-war-the-calamity-anime-episodes-49-50-delayed-to-october-19-26/.241707
-
-Episodes 7, 28, 46, 48 to re-air in weeks before episodes 49, 50
-
-### Netflix Announces Cast for Webtoon-Based Live-Action Series Outback
-Sat, 12 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/netflix-announces-cast-for-webtoon-based-live-action-series-outback/.241650
-
-Series based on <cite>G'day</cite> webtoon follows man who travels to Australia after his older sister's sudden death
-
-### CloverWorks' Omnibus Anime Film Grotesqqque Streams Trailer Highlighting "Yoroshiku★Girl" Segment
-Sat, 12 Sep 2026 08:32:19 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/cloverworks-omnibus-anime-film-grotesqqque-streams-trailer-highlighting-yoroshiku-girl-segment/.241704
-
-Film opens on November 6 in Japan
-
-### Madoka Magica -Walpurgisnacht: Rising- Anime Film Reveals New Promo Video, Visual
-Sat, 12 Sep 2026 08:20:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/madoka-magica-walpurgisnacht-rising-anime-film-reveals-new-promo-video-visual/.241705
-
-Film opened in Japan on August 28
-
-### Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance Anime Film Reveals New Video
-Sat, 12 Sep 2026 08:06:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/rakuen-tsuiho-expelled-from-paradise-kokoro-no-resonance-anime-film-reveals-new-video/.241700
-
-Rie Kugimiya reprises role as Angela Balzac
-
-### New Detective Conan 2-Hour Anime Special Reveals Promo Video, Theme Song Artist, Main Visual
-Sat, 12 Sep 2026 07:47:59 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/new-detective-conan-2-hour-anime-special-reveals-promo-video-theme-song-artist-main-visual/.241702
-
-Mai Kuraki will perform opening theme song "Hallelujah" in September 25 anime special
-
-### 'Fall in Love, You False Angels' Anime Reveals Promo Video, Cast, Staff
-Sat, 12 Sep 2026 07:33:58 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/fall-in-love-you-false-angels-anime-reveals-promo-video-cast-staff/.241703
-
-Nao Ojika plays Otogi Katsura, Taito Ban plays Toki Ninomae in 2027 television anime
-
-### Bless TV Anime Reveals Main Cast, January 2027 Debut
-Sat, 12 Sep 2026 07:19:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/bless-tv-anime-reveals-main-cast-january-2027-debut/.241697
-
-Tomohiro Ōno, Chiyuki Miura star
-
-### Jyuо̄ Mujin Dandivine Original TV Anime's New Promo Video Previews Opening, Ending Themes
-Sat, 12 Sep 2026 06:50:33 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/jyu-mujin-dandivine-original-tv-anime-new-promo-video-previews-opening-ending-themes/.241701
-
-Takanori Nishikawa, DayRe perform theme songs for anime debuting on October 7
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Overgeared Anime Reveals Third Trailer and Key Visual, Adds Yuki Murata and Yurika Hirayama to Cast
+Sun, 13 Sep 2026 09:04:32 GMT — https://animecorner.me/overgeared-anime-reveals-third-trailer-and-key-visual-adds-yuki-murata-and-yurika-hirayama-to-cast/
+
+Overgeared anime revealed its third trailer and third key visual ahead of its October 2, 2026 premiere date.
+
+### Interview: THE SIXTH LIE on Golden Kamuy and A Certain Scientific Accelerator Song Inspirations
+Sat, 12 Sep 2026 22:49:13 GMT — https://animecorner.me/interview-the-sixth-lie-on-golden-kamuy-and-a-certain-scientific-accelerator-song-inspirations/
+
+We sat down with members Arata-san (vocals) and Reiji-san (guitar, keyboards), from THE SIXTH&hellip;
+
+### Interview: Attack on Titan and Kill la Kill Vocalist Mika Kobayashi
+Sat, 12 Sep 2026 22:48:33 GMT — https://animecorner.me/interview-attack-on-titan-and-kill-la-kill-vocalist-mika-kobayashi/
+
+We had the pleasure of interviewing singer-songwriter Mika Kobayashi during her seventh visit to&hellip;
 
 ### Diablo Animated Series Announced for Netflix & Now in Development at Blizzard, Diablo V Set for Spring 2029
 Sat, 12 Sep 2026 18:44:30 GMT — https://animecorner.me/diablo-animated-series-netflix/
@@ -113,22 +128,12 @@ Sat, 12 Sep 2026 10:08:19 GMT — https://animecorner.me/my-hero-academia-to-ann
 
 A new My Hero Academia anime 10th anniversary project will be announced during a special livestream on September 20, 2026.
 
-### Magical Explorer Reveals Kosuke Takioto Character Trailer Ahead of October Premiere
-Sat, 12 Sep 2026 09:36:54 GMT — https://animecorner.me/magical-explorer-reveals-kosuke-takioto-character-trailer-ahead-of-october-premiere/
-
-Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim anime revealed a a character trailer for the main character, Kosuke Takioto.
-
-### Re:ZERO Emilia Birthday Event 2026 Reveals New Artwork and Tappei Nagatsuki Short Story Bonus
-Sat, 12 Sep 2026 08:13:07 GMT — https://animecorner.me/rezero-emilia-birthday-event-2026-reveals-new-artwork-and-tappei-nagatsuki-short-story-bonus/
-
-Re:ZERO -Starting Life in Another World- Emilia birthday event will return to Marui stores&hellip;
-
-### Jaadugar: A Witch in Mongolia Episode 12 (Finale) Preview and Synopsis Released
-Fri, 11 Sep 2026 15:22:36 GMT — https://animecorner.me/jaadugar-a-witch-in-mongolia-episode-12-finale-preview-and-synopsis-released/
-
-Jaadugar: A Witch in Mongolia anime released the synopsis and preview for Episode 12, which will be the finale of the Science SARU series.
-
 ## MyAnimeList News
+
+### Tempal: Item no Chikara Unveils Additional Cast, Third Promo
+Sat, 12 Sep 2026 23:21:19 -0700 — https://myanimelist.net/news/74712551?_location=rss
+
+The official website for the television anime adaptation of Saenal Park and Team Argo s Tempal: Item no Chikara (Overgeared) webtoon unveiled a pair of additional cast, third key visual (pictured), and third promotional video on Saturday. The anime series is scheduled to premiere on October 2 at 11:30 p.m. on Tokyo MX and BS11. Voice actresses Yuki Murata and Yurika Hirayama (Tamon-kun Ima Docchi!?) are joining the cast as Irene and Isabel, respectively. Ayako Kouno (Sword Art Online: Progr...
 
 ### Grotesqqque Reveals Supporting Cast, Trailer for "Yoroshiku★Shoujo" Segment
 Sat, 12 Sep 2026 10:55:08 -0700 — https://myanimelist.net/news/74709373?_location=rss
@@ -164,26 +169,6 @@ The official website for the television anime adaptation of Kazuma Kamachi s Toa
 Fri, 11 Sep 2026 02:57:13 -0700 — https://myanimelist.net/news/74702269?_location=rss
 
 The official website for the television anime adaptation of Firehead s Yasei no Last Boss ga Arawareta! (A Wild Last Boss Appeared!) light novel unveiled additional cast, the ending theme, and second promotional video for the second season on Friday. The new season is scheduled to premiere on October 3 at 10:30 p.m. on Tokyo MX, followed by BS Asahi, and Kansai TV. Cast Sagittarius: Atsushi Miyauchi (Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou) Leon: Akio Ootsuka (Fate/Zero) M...
-
-### Psyren Reveals Additional Cast, Staff, Opening Theme, Main Promo
-Fri, 11 Sep 2026 02:21:31 -0700 — https://myanimelist.net/news/74702197?_location=rss
-
-The official website for the television anime adaptation of Toshiaki Iwashiro s Psyren manga revealed additional cast, staff, opening theme, key visual (pictured), and the main promotional video on Friday. The anime is scheduled to premiere on October 5 at 11.00 p.m. on Tokyo MX, followed by BS11 and Sun TV. Voice actors Yuuko Kaida (Spy x Family) and Nobuyuki Hiyama (Gachiakuta) are joining the cast as Matsuri Yagumo and Dholaki, respectively. Staff Creature Design: Yoshitaka Taniguchi (Se...
-
-### Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu Announces Production Staff
-Thu, 10 Sep 2026 21:02:35 -0700 — https://myanimelist.net/news/74701299?_location=rss
-
-WWWave Corporation s Deregula animation label opened an official website for the television anime adaptation of Kennoji and R_ringo s Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu (My Sword Saint Master Is Too Cute to Live With!) manga revealed the production staff and a key visual (pictured). Staff Director: Masayoshi Nishita (Kakushite! Makina-san!!) Series Director: Tokihiro Sasaki (Nobunaga-sensei no Osanazuma director) Series Composition: Youhei Kash...
-
-### Sasaki to Pii-chan Season 2 Unveils Additional Cast, Staff, Opening Theme, First Promo
-Thu, 10 Sep 2026 18:51:08 -0700 — https://myanimelist.net/news/74700557?_location=rss
-
-The official website for the television anime adaptation of Buncololi s Sasaki to Pii-chan (Sasaki and Peeps) light novel unveiled additional cast, staff, a second key visual (pictured), the opening theme, and first promotional video for the second season on Friday. The anime series is scheduled to premiere on October 7 at 10:00 p.m. on AT-X, followed by Tokyo MX and BS Nippon Television, with the first episode broadcasting as a one-hour special. Voice actors Tasuku Hatanaka (SK&infin;) and...
-
-### Shuiro no Kamen Reveals Additional Cast, Staff, Theme Songs, Second Promo
-Thu, 10 Sep 2026 12:59:36 -0700 — https://myanimelist.net/news/74699348?_location=rss
-
-The official website for the Shuiro no Kamen (The Vermilion Mask) television anime adaptation revealed additional cast, staff, second key visual (pictured), theme songs, and a second promotional video on Friday. The anime adapting Dr.Poro and Nabana Naba s action fantasy manga is scheduled to premiere on October 10 at 5:30 p.m. on Yoimiuri TV and Nippon TV. Cast Hien: Kenji Nojima (Banana Fish) Lasgarl: Aoi Koga (Kaguya-sama wa Kokurasetai) Clown: Yuuki Shin (Gachiakuta) Rinne: Akihisa Waka...
 
 ## Otaku USA
 

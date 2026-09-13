@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-12T18:45:30.841Z
+# Film & TV — harvested 2026-09-13T09:43:44.847Z
 
 ## Variety
 
-### Oasis Review: A Sleek, Strange Parable about Bullying and Bonding at the Most Difficult Age
-Sat, 12 Sep 2026 18:27:09 +0000 — https://variety.com/2026/film/reviews/oasis-review-1236859441/
+### Trans Pregnancy Drama Aman Boards Parallax Films for Global Sales Ahead of Toronto and London Premieres (EXCLUSIVE)
+Sun, 13 Sep 2026 07:57:06 +0000 — https://variety.com/2026/film/festivals/trans-pregnancy-drama-aman-parallax-films-global-sales-toronto-1236860312/
 
-The difficult teenage years are sometimes characterized as a wasteland, but more resemble a forest for the interdependent trio at the sinking heart of Jannis Lenz s Oasis, the German-born, Austrian-trained filmmaker s creepy, controlled debut feature. Retreating to the woods surrounding their German hometown, three ostracized high-schoolers create an arcane shared reality that provides them with [ ]
+International sales company Parallax Films has boarded Aman, writer-director Rahul Roye s short film about a trans man who discovers he is pregnant on the eve of his gender-affirming surgery, for worldwide sales. The announcement comes ahead of the film s world premiere in the Short Cuts competition at the Toronto Film Festival, after which it travels [ ]
 
-### Diablo 5 Set for Spring 2029 Release
-Sat, 12 Sep 2026 18:23:17 +0000 — https://variety.com/2026/gaming/news/diablo-5-release-2029-1236859632/
+### Oscars: Philippines Selects Rafael Manuel’s ‘Filipiñana’ for International Feature Race
+Sun, 13 Sep 2026 06:45:00 +0000 — https://variety.com/2026/film/awards/oscars-philippines-selects-rafael-manuels-filipinana-international-feature-1236860043/
 
-Diablo V is in development at Xbox s Blizzard Entertainment. The new game is targeting a Spring 2029 release date, Blizzard announced Saturday during the opening ceremony for fan festival BlizzCon 2026 at the Anaheim Convention Center. Diablo V will be set a century after the events of Diablo IV (which released in 2023) and, in [ ]
+Rafael Manuel’s Filipiñana has been chosen as the official entry from the Philippines in the international feature category at the 99th Academy Awards. It was selected from a shortlist of 8 films. The film is written and directed by Manuel and is distributed by Kino Lorber. Richard Lorber, chair and CEO of Kino Lorber, said, From the moment [ ]
 
-### NFL TV Favorites Like Joe Buck, Troy Aikman, Greg Olsen, Kirk Herbstreit Could Play for New Teams Next Season
-Sat, 12 Sep 2026 18:15:00 +0000 — https://variety.com/2026/tv/news/nfl-tv-sports-joe-buck-troy-aikman-contracts-1236859505/
+### FCC Chairman Slams James Talarico as Running a Hoax With Jimmy Kimmel Interview, Which ABC Punted to YouTube, to Get Clicks and Donations
+Sun, 13 Sep 2026 04:37:00 +0000 — https://variety.com/2026/tv/news/fcc-chairman-talarico-hoax-jimmy-kimmel-youtube-1236860262/
 
-The NFL is ready to kick off its first Sunday of a new season, but a good part of the game won’t be taking place on the field. Even as play-by-play stalwarts like Fox’s Greg Olsen, ESPN’s Joe Buck and Troy Aikman and Amazon’s Al Michaels and Kirk Herbstreit give fans real-time details and analysis [ ]
+Brendan Carr, the Trump-aligned Republican chairman of the FCC, accused James Talarico, a Texas Democrat running for the U.S. Senate, of running a hoax to garner attention and campaign donations by sitting for an interview with Jimmy Kimmel which ABC put on YouTube instead airing it on broadcast TV to avoid a potential clash [ ]
 
-### Here s Where to Watch Ryan Garcia vs. Conor Benn Boxing Live Online
-Sat, 12 Sep 2026 18:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-ryan-garcia-vs-conor-benn-sept-2026-boxing-live-online-1236855702/
+### Chris Rock s Hollywood Send-Up ‘Misty Green Hits TIFF With Rosalind Eleazar’s Knockout Lead Performance
+Sun, 13 Sep 2026 04:32:05 +0000 — https://variety.com/2026/film/awards/misty-green-oscars-rosalind-eleazar-chris-rock-tiff-1236859652/
 
-Oscar De La Hoya s Golden Boy Promotions partners with Dana White s Zuffa Boxing for one of the biggest bouts of the year. In the main event, American Ryan Garcia (25-2-0) defends his WBC welterweight title belt against English fighter Conor Benn (25-1-0) in a marquee match. It s scheduled for 12 rounds. On Saturday, Sept. 12, [ ]
+Roughly two-thirds through “Misty Green,” Rosalind Eleazar takes a breath and lets a rendition of “One Night Only,” from the musical “Dreamgirls,” rip. The characters around her go quiet, and the crowd at the Toronto International Film Festival, where Chris Rock s film made its world premiere, seemed similarly enraptured. But when Rock and his cast [ ]
 
-### StarCraft 3, an Open-World Shooter Game, Coming in 2030; First Look Revealed
-Sat, 12 Sep 2026 17:54:46 +0000 — https://variety.com/2026/gaming/news/starcraft-3-release-2030-1236859626/
+### Mahershala Ali Finally Made His ‘Blade’ Film With ‘Your Mother Your Mother Your Mother’
+Sun, 13 Sep 2026 04:01:23 +0000 — https://variety.com/2026/film/news/mahershala-ali-blade-your-mother-your-mother-your-mother-tiff-adia-bassam-tariq-1236860243/
 
-A new StarCraft game is coming from Blizzard Entertainment in 2030 and a first look at the title has already been revealed. While technically StarCraft III, the game will be titled StarCraft. Per Blizzard Entertainment, StarCraft is an open-world, story-driven sci-fi shooter that takes place decades after the events of StarCraft II and is a [ ]
+Bassam Tariq and Mahershala Ali finally made their “Blade” movie. On Saturday night, “Your Mother Your Mother Your Mother” made its world premiere at the Toronto International Film Festival before its theatrical release on Sept. 25. Tariq’s film centers on Latif (Ali), a devout Muslim hitman who, following the sudden death of his wife, goes [ ]
 
-### Inside Ah Girl, the Singapore Drama Built From a Director s Own Childhood: We Can t Fly Without First Learning How to Walk
-Sat, 12 Sep 2026 17:43:31 +0000 — https://variety.com/2026/film/festivals/ah-girl-ang-geck-geck-priscilla-toronto-1236859417/
+### Animal Hospital Leads Roblox Innovation Awards 2026 Winners as Roblox Unveils 20th Anniversary Event
+Sun, 13 Sep 2026 03:46:01 +0000 — https://variety.com/2026/gaming/news/animal-hospital-roblox-innovation-awards-20th-anniversary-1236860184/
 
-Ang Geck Geck Priscilla spent more than a decade making Ah Girl before she ever made Ah Girl. Three short films and a decade of festival labs later, the Singaporean director s feature debut is a Centrepiece selection at the Toronto Film Festival for its North American premiere, following wins at Rotterdam and Hong Kong. The [ ]
+The Roblox Innovation Awards (RIAs) unveiled its 2026 winners during a ceremony in San Jose Saturday with new title “Animal Hospital taking home several top honors. Part of the 12th annual Roblox Developer Conference, this year’s RIAs were hosted by Roblox’s head of the developer community, Justin Sousa (widely known as “JParty” to Roblox users). [ ]
 
-### Diablo Animated Series in the Works at Netflix, Blizzard Entertainment
-Sat, 12 Sep 2026 17:42:31 +0000 — https://variety.com/2026/tv/news/diablo-tv-series-netflix-1236859591/
+### Misty Green Review: Chris Rock Tells the Story of a Party-Girl Actress, Brilliantly Played by Rosalind Eleazar, in The Best Movie About Hollywood in Years
+Sun, 13 Sep 2026 03:30:05 +0000 — https://variety.com/2026/film/reviews/misty-green-review-chris-rock-rosiland-eleazar-1236859541/
 
-An animated TV series adaptation of Blizzard Entertainment s popular Diablo video game franchise is in development at Netflix. Diablo is set the dark world of Sanctuary, where humanity is caught in the eternal conflict between the High Heavens and the Burning Hells. Per Blizzard s official description of the project, After decades of bringing entire universes [ ]
+"Misty Green" is an amazing slice of showbiz sociology, riveting in the details of what a contemporary Hollywood actress — even a successful one — is up against. Rock isn’t casting stones. The warped values he depicts are there in the industry and in Misty herself.
 
-### Alan Rickman Brought Kids From the Hospital to the ‘Harry Potter’ Set, Says Co-Star Gary Oldman: ‘He Knew How Much It Meant’
-Sat, 12 Sep 2026 17:38:47 +0000 — https://variety.com/2026/film/news/alan-rickman-kids-harry-potter-sets-gary-oldman-1236859647/
+### I Play Rocky Review: Anthony Ippolito Channels Sylvester Stallone in Peter Farrelly s Cleverly Crafted Crowd-Pleaser About the Making of Rocky
+Sun, 13 Sep 2026 03:25:45 +0000 — https://variety.com/2026/film/reviews/i-play-rocky-review-anthony-ippolito-peter-farrelly-1236859563/
 
-While Alan Rickman’s legendary “Harry Potter” character, Severus Snape, may have been notoriously hard on the children at Hogwarts, in real life, the actor couldn’t have been more different from the pupil-hating professor. In fact, Rickman would “bring in kids every single day” to the sets, said Gary Oldman, who played Sirius Black in the [ ]
+For a biographical drama to work, it s not required that the central actor do a pinpoint uncanny, so-close-to- the-real-thing-you-might-think-it’s-the-real-thing impersonation of the person he s playing. But Peter Farrelly’s I Play Rocky may be a special case. It s a movie about the making of Rocky — about how Sylvester Stallone, then a two-bit actor in his [ ]
 
-### Drake Reveals Fear of Missing Out Teaser, Says Project Is a Not So Short Film
-Sat, 12 Sep 2026 17:14:39 +0000 — https://variety.com/2026/music/news/drake-fear-of-missing-out-teaser-short-film-1236859616/
+### I Play Rocky Premieres at TIFF: A Movie About a Best Picture Winner That s a Best Picture Contender?
+Sun, 13 Sep 2026 01:10:02 +0000 — https://variety.com/2026/film/awards/i-play-rocky-tiff-premiere-peter-farrelly-stallone-oscars-1236859905/
 
-Drake on Saturday released a teaser for “Fear of Missing Out,” a “not so short film” set for release on Sept. 15. Fans have long speculated whether “Fear of Missing Out” would be an album, a music video or a world tour. With the teaser’s release, Drake revealed that “FOMO” is some sort of film. [ ]
+Yo Adrian, Rocky did it … again! Only this time, the famed character is at TIFF in biopic form, thanks to director Peter Farrelly, screenwriter Peter Gamble and a star-making turn from Anthony Ippolito, who portrays actor Sylvester Stallone in the story of his relentless determination to bring “Rocky” to the big screen. This has [ ]
 
-### Love Has Everything to Do With It: Darlene Love, Producer Taraji P. Henson and Director Barry Avrich on Darlene Love: I Know Where I ve Been, a Stirring Music Doc Premiering in Toronto
-Sat, 12 Sep 2026 17:12:01 +0000 — https://variety.com/2026/music/news/darlene-love-documentary-interview-toronto-film-festival-1236859617/
+### Paramount Leaving California Would Devastate Los Angeles Economy, Leaked Report Finds
+Sat, 12 Sep 2026 23:41:31 +0000 — https://variety.com/2026/film/news/paramount-leaving-california-los-angeles-economy-job-loss-1236860125/
 
-The truly legendary singer Darlene Love had her story already lightly sketched out in a 2013 film about backup singers of yore, 2013 s Oscar-winning 20 Feet From Stardom. But what Love s fans — and they are legion — really have hungered for is a movie in which she is less than 10 feet from the [ ]
+A leaked report from the Los Angeles Economic Development Corporation outlines devastating aftershocks that would follow if David Ellison pulled Paramount Skydance out of California. A copy of the report published by Politico reads, “At a minimum, relocating Paramount’s headquarters and other operations out of California would result in losses of 2,750 and 5,550 job-years [ ]
 
 ## The Hollywood Reporter
 
-### Obsession Producer Haley Nicole Johnson on Dizzying Hollywood Breakout Hit: It s a Lot
-Sat, 12 Sep 2026 18:11:05 +0000 — https://www.hollywoodreporter.com/movies/movie-news/obsession-producer-haley-nicole-johnson-1236699030/
+### Happily Ever After Star Shuhua Yeh Makes the Leap From K-pop Idol to Actress: It’s Really Happening
+Sun, 13 Sep 2026 09:40:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/happily-ever-after-shuhua-idle-tiff-rising-star-interview-1236699162/
 
-Curry Barker's horror pic sold to Focus Features for $15 million, and has crossed $500 million at the global box office.
+The 26-year-old pop star, a member of girl group I-dle, is finally fulfilling her lifelong dream of acting in Feng-I Fiona Roan’s sophomore outing.
 
-### Diamonds Are an Emmy Nominee’s Best Friend
-Sat, 12 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/style/top-luxury-jewelry-emmys-1236694716/
+### Look Back Breakouts Furi Nanase and Rokka Okada on Growing Up on a Hirokazu Koreeda Set
+Sun, 13 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/look-back-rising-stars-furi-nanase-rokka-okada-interview-1236698472/
 
-Laurels, florals and splashes of colored gems are bound to catch the camera’s eye on the red carpet.
+In the coming-of-age drama, the 12-year-old co-stars play aspiring manga artists whose rivalry blossoms into a defining friendship, brought to life via the director’s famously intuitive way with child actors.
 
-### Texas vs. Ohio State: Where to Watch the 2026 Football Game Online
-Sat, 12 Sep 2026 17:57:46 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-texas-vs-ohio-state-game-free-football-streams-2026-1236698110/
+### Toronto Awards Analysis: I Play Rocky Channels Namesake, Could Follow in Its Oscar Footsteps
+Sun, 13 Sep 2026 05:18:57 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toronto-awards-analysis-i-play-rocky-1236699433/
 
-Here's how to livestream the Sept. 12 game between the Longhorns and Buckeyes.
+Like Peter Farrelly's earlier film 'Green Book,' this crowd-pleaser could seriously contend for TIFF's audience award en route to major Oscar noms (including best actor for Anthony Ippolito, who plays Sylvester Stallone).
 
-### The Stunt Driver Review: Jay Baruchel Channels Canada s Answer to Evel Knievel in an Affable True-Life Comedy That s Not Fast or Funny Enough
-Sat, 12 Sep 2026 17:44:21 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-stunt-driver-review-jay-baruchel-ed-helms-ben-foster-1236697983/
+### Misty Green Review: Rosalind Eleazar Is a Revelation in Chris Rock s Sharply Observed Love-Hate Portrait of the Hollywood Hustle
+Sun, 13 Sep 2026 03:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/misty-green-review-rosalind-eleazar-chris-rock-1236698536/
 
-Based on a doc chronicling the life and times of daredevil dreamer Ken Carter, the film co-stars Ed Helms and Ben Foster.
+The character study centers on a talented but self-sabotaging actress and singer looking to restart her career, with an ensemble that includes the writer-director alongside Adam Driver, Daniel Kaluuya and Anna Kendrick.
 
-### Iowa vs. Iowa State: Where to Watch the 2026 Football Game Online
-Sat, 12 Sep 2026 17:30:02 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-iowa-vs-iowa-state-football-streams-free-sept-12-2026-1236697981/
+### The Surgeon Review: Michelle Yeoh Plays a Kidnapped Doctor Trying to Outwit Her Captors in Deliriously Fun Genre-Bender
+Sun, 13 Sep 2026 02:02:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-surgeon-review-michelle-yeoh-roshan-sethi-1236697664/
 
-How to livestream the Cy-Hawk rivalry game on Sept. 12.
+Martin Freeman has a supporting role as a crime boss in this film from Roshan Sethi ('A Nice Indian Boy'), premiering in Toronto.
 
-### The Fire Within You Review: A Monstrous Mama Unleashes in an Admirable but Draining Italian Comedy-Drama Set on a Miserable Christmas Eve
-Sat, 12 Sep 2026 17:26:13 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-fire-within-you-review-1236697486/
+### Anthony Ippolito on Speaking to Sylvester Stallone Before Filming ‘I Play Rocky’: “Very Overwhelming and Daunting”
+Sun, 13 Sep 2026 01:15:16 +0000 — https://www.hollywoodreporter.com/movies/movie-news/anthony-ippolito-sylvester-stallone-i-play-rocky-daunting-1236699402/
 
-This Venice competitor from Edoardo De Angelis stars Vanessa Scalera as a caustic matriarch hosting family members whom she subjects to constant and withering criticism.
+"It was a lot to take in because I'd spent over a year, by that point, studying him,” the actor said at THR‘s Studio at 1 Hotel during TIFF, presented by sponsor Canada Goose.
 
-### How ‘The Shards’ Rethinks the TV Serial Killer
-Sat, 12 Sep 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-shards-tv-serial-killer-explained-1236691369/
+### Sandra Bullock Recalls Auditioning for Every Pervert and Being Asked to Drop My Pants : Not the Role for Me
+Sat, 12 Sep 2026 23:32:43 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sandra-bullock-pervert-audition-asked-drop-my-pants-1236699363/
 
-The cast and producers behind the FX and Ryan Murphy teen thriller discuss how this adaptation of Bret Easton Ellis’ 2023 novel delivers its fictional murderer through a series of killer metaphors.
+The Oscar winner looked back on her career in the entertainment industry in conversation with Jennifer Aniston for Interview magazine.
 
-### The Top 10 Costume Design Schools in the World
-Sat, 12 Sep 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/style/top-costume-design-schools-world-1236694145/
+### Reacher Star Alan Ritchson and His Wife Catherine Ritchson Announce Split After 20 Years of Marriage
+Sat, 12 Sep 2026 23:02:14 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/alan-ritchson-wife-catherine-split-1236699285/
 
-From Savannah to Sydney, these academies teach future costumers how to dress to kill (or at least slay) onscreen
+"We grew up together. We built a life and a family together. And we are raising three incredible boys who will always be the center of our world," the pair wrote in a joint Instagram post Saturday.
 
-### John Malkovich Wins Best Actor for Wild Horse Nine in Venice (Updating Live)
-Sat, 12 Sep 2026 16:56:47 +0000 — https://www.hollywoodreporter.com/movies/movie-news/2026-venice-winners-full-list-golden-lion-1236698825/
+### Mahershala Ali Reveals He Was Yearning to Perform Action On-Screen Before Filming ‘Your Mother, Your Mother, Your Mother’
+Sat, 12 Sep 2026 22:19:05 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mahersala-ali-yearning-your-mother-your-mother-your-mother-1236699277/
 
-It's time for one final, glitzy Lido red carpet as we prepare to find out who has taken this year's coveted Golden Lion for best film.
+“It offered up an opportunity to engage and commit to the type of difficult I want to commit to," the Oscar winner said about the Bassam Tariq-directed film.
 
-### Oscar Predictions via Feinberg Forecast: Updated Post Venice and Telluride, as TIFF Gets Underway
-Sat, 12 Sep 2026 16:32:40 +0000 — https://www.hollywoodreporter.com/lists/feinberg-forecast-post-venice-telluride-tiff-starts/
+### Leaked Report Details Fallout if Paramount Follows Through on California Exit Threat
+Sat, 12 Sep 2026 22:08:13 +0000 — https://www.hollywoodreporter.com/business/business-news/paramount-warner-brothers-california-exit-threat-economy-1236699278/
 
-Scott Feinberg, The Hollywood Reporter's executive editor of awards coverage, updates his assessment of all 24 Oscar categories.
+Nearly 58,000 jobs and $21 billion in annual losses are on the line as the Oct. 1 merger deadline approaches.
 
 ## Deadline
 
-### Searchlight’s Matthew Greenfield On Getting People Into Movie Theaters Finding New Talent On YouTube TIFF: The Market
-Sat, 12 Sep 2026 17:35:00 +0000 — https://deadline.com/2026/09/searchlight-matthew-greenfield-on-youtube-and-filmmaking-1237100025/
+### I Play Rocky Review: Peter Farrelly s Sensational Biopic Of The Making Of Stallone s Classic Is Just As Inspiring As The Original Movie Toronto Film Festival
+Sun, 13 Sep 2026 04:30:21 +0000 — https://deadline.com/2026/09/i-play-rocky-review-peter-farrelly-biopic-tallones-classic-1237100498/
 
-Searchlight Pictures boss Matthew Greenfield broke down how YouTube has become fertile ground for finding new stories and filmmakers. The Searchlight Pictures boss also spoke about the battle with familiarity and the need for original ideas to get people into movie theaters in the streaming age. After Obsession and Backrooms, studios and producers are scouring [ ]
+It is no spoiler to say I am going to reveal the final moments of Peter Farrelly s fantastic crowd-pleasing biopic I Play Rocky, chronicling the making of the 1976 classic Rocky, which not only made Sylvester Stallone a major star but also became one of the greatest behind-the-scenes stories in Hollywood history. Stay all the [ ]
 
-### Venice 2026 Winners: Naza Wins Special Jury Prize; Ilya Khrzhanovsky Scoops Best Director For Dau
-Sat, 12 Sep 2026 16:56:24 +0000 — https://deadline.com/2026/09/venice-winners-2026-1237100060/
+### Misty Green Review: Rosalind Eleazar Is The Whole Show In Chris Rock s Sizzling Hollywood Portrait Of A Down-And-Out Emmy Winner Whose Career Is On The Skids Toronto Film Festival
+Sun, 13 Sep 2026 03:30:00 +0000 — https://deadline.com/2026/09/misty-green-review-rosalind-eleazar-chris-rock-hollywood-1237099694/
 
-Venice Film Festival has kicked off with first prizes announced in the Orizzonti sidebar, Immersive Competition and Venice Classics. In main competition prizes, hotly tipped John Malkovich won Actor for his performance in Wild Horse Nine, which will further fuel to Oscar hopes for the actor. The actor, who is currently on set, was unable [ ]
+I have to confess I am a sucker for down-on-your-luck Hollywood stories, especially movies about actresses who once had success and are now scraping the bottom. Of course there is the classic of classics, Sunset Boulevard, but there are many more. A personal favorite is The Star, which got Bette Davis an Academy Award nomination [ ]
 
-### ER s Big Payday: How Hit Medical Drama Scored Record $13M An Episode From NBC Book Excerpt
-Sat, 12 Sep 2026 16:47:33 +0000 — https://deadline.com/2026/09/er-license-fee-battle-nbc-oral-histiory-book-excerpt-1237098591/
+### FCC Chairman Brendan Carr Accuses James Talarico Of Running A Hoax With Jimmy Kimmel Sit-Down; YouTube Interview Nears 7 Million Views
+Sun, 13 Sep 2026 02:09:10 +0000 — https://deadline.com/2026/09/jimmy-kimmel-james-talarico-fcc-1237100486/
 
-ER was an instant hit when it premiered on NBC in October 1994. But the project had not been an easy sell: it was created by an author, Michael Crichton, with no television record and conceived in a style drastically different from any other medical drama. Add to that a cast of then-largely unknowns and [ ]
+As Jimmy Kimmel s interview with James Talarico nears 7 million views on YouTube, FCC chairman Brendan Carr weighed in on Saturday evening, accusing the Texas U.S. Senate candidate of orchestrating a hoax to drive up clicks and donations. Earlier this week, Kimmel told viewers that he would be sitting down with an interview with Talarico [ ]
 
-### Courteney Cox Is Ready To Direct A Scream Movie: I Think I Should
-Sat, 12 Sep 2026 16:46:52 +0000 — https://deadline.com/2026/09/courteney-cox-ready-direct-scream-movie-1237099746/
+### The Surgeon Review: Michelle Yeoh Goes All John Wick Taking Her Scalpel To The Bad Guys Toronto Film Festival
+Sun, 13 Sep 2026 02:05:00 +0000 — https://deadline.com/2026/09/the-surgeon-review-michelle-yeoh-toronto-film-festival-1237099602/
 
-As Courteney Cox returns to the director s chair for her sophomore feature Evil Genius, she s ready to take on a franchise she s been with for 30 years. While discussing the TIFF true-crime film at the Deadline Studio, the Golden Globe nominee revealed she d be open to directing an upcoming installment in the Scream franchise, in [ ]
+After supporting roles in blockbusters like Wicked, Michelle Yeoh has her first all-out starring role since winning the Best Actress Oscar for Everything Everywhere All at Once three years ago. Considering her expertise in martial arts and kick-ass action (Crouching Tiger, Hidden Dragon for starters), her latest effort in the genre is a lot of [ ]
 
-### Practical Magic 2 Still Hoping To Conjure $30M U.S. Opening Box Office Update
-Sat, 12 Sep 2026 16:45:00 +0000 — https://deadline.com/2026/09/box-office-practical-magic-2-weekend-1237098516/
+### Bill Dubuque Crime Drama M.I.A. Canceled By Peacock After One Season
+Sun, 13 Sep 2026 01:00:00 +0000 — https://deadline.com/2026/09/bill-dubuque-series-m-i-a-canceled-peacock-1237100435/
 
-SATURDAY AM: Well, it s clear, the summer moviegoing pace is over at the box office with fall distractions setting in as the entire weekend at $84.4M expected to be -32% off from a year ago ($124.5M) when Warner Bros/New Line opened Conjuring Last Rights to a franchise high of $84M. Warner Bros./Alcon s Practical Magic 2 [ ]
+EXCLUSIVE: Peacock has canceled the Miami-set crime-drama series M.I.A. after one season. The series, from creator, writer and executive producer Bill Dubuque, premiered May 7 with all nine hour-long episodes. Following the show s premiere, there was a lot of buzz around M.I.A. It received an extra push from NBC with a special airing on the network [ ]
 
-### Anthropic CEO Calls For Slowing Down AI Development, Warns Of Swarm Taking Over Internet In 6-12 Months
-Sat, 12 Sep 2026 16:43:38 +0000 — https://deadline.com/2026/09/anthropic-ceo-ai-slow-down-1237100040/
+### ‘NAZA’ Review: Israeli Military Accused Of Depraved Indifference To Palestinian Life, Using AI To Kill In Gaza – Venice Film Festival
+Sun, 13 Sep 2026 00:56:22 +0000 — https://deadline.com/2026/09/naza-review-venice-film-festival-1237100430/
 
-The CEO of Anthropic has called for slowing down, or pacing, the speed of AI development, warning of recent incidents that have caused alarm that the technology will get out of control and act on its own. In an essay posted to his website on Saturday, CEO Dario Amodei wrote that over the last few [ ]
+The devastating documentary NAZA, an investigation into Israel’s mass killing of civilians in Gaza, was shot at night on rooftops in Tel Aviv, in part to avoid potential Israeli eavesdropping, presumably, and to facilitate shielding the identities of participants. Those participants are 24 Israeli military intelligence officers and soldiers who reveal, in almost matter-of-fact tones, [ ]
 
-### Iranian A Bit Of Light’ Filmmakers Discuss Timely Venice Contender: We Have To Talk About The Reality Of The Mass Killing That Happened
-Sat, 12 Sep 2026 16:30:10 +0000 — https://deadline.com/2026/09/iranian-a-bit-of-light-filmmakers-venice-1237100036/
+### Babies Review: Lauren Miller Rogen Film Is A Witty, Heartfelt Exploration Of Childless Adulthood Chosen Family Toronto Film Festival
+Sun, 13 Sep 2026 00:17:00 +0000 — https://deadline.com/2026/09/babies-review-lauren-miller-rogen-childless-adulthood-1237100427/
 
-Iranian director Ali Asgari’s contemporary Tehran-set drama A Bit Of Light premiered at the Venice Film Festival on Friday evening as the penultimate competition screening. The raw, timely drama was shot in the immediate aftermath of the Islamic Republic’s brutal crackdown of pro-democracy protests in January 2026, in which thousands, if not tens of thousands, [ ]
+After years of fielding questions about whether she wants to be a mom, Lauren Miller Rogen gives the definitive answer in the form of her witty, heartfelt comedy Babies. Written and directed by Miller Rogen, Babies stars Anna Kendrick and the auteur’s husband Seth Rogen as the happily married Aaron and Annie, a couple without kids of their [ ]
 
-### ‘Being Heumann’ Producer Kevin Walsh Readies Star Vehicles For Paul Rudd Sam Rockwell, Series With Casey Affleck: TIFF
-Sat, 12 Sep 2026 16:15:00 +0000 — https://deadline.com/2026/09/kevin-walsh-paul-rudd-sam-rockwell-casey-affleck-1237100028/
+### Netflix Developing Diablo Animated Series
+Sat, 12 Sep 2026 23:01:00 +0000 — https://deadline.com/2026/09/netflix-developing-diablo-animated-series-1237100389/
 
-EXCLUSIVE: In the wake of a splashy Thursday night TIFF opening night premiere of the Sian Heder-directed Being Heumann, producer Kevin Walsh has two star vehicles happening quickly. He s next readying Reasonable People, a drama that Cory Finley will direct with Paul Rudd and Sam Rockwell starring. On the series side is The Hawk, which [ ]
+The Diablo video game is coming to Netflix. Blizzard Entertainment chief Johanna Faries revealed at BlizzCon in Anaheim Saturday that the streamer is adapting the game as an animated series. Here s the description of the project, per Variety: “After decades of bringing entire universes to life through our games, we’re partnering with some creative powerhouses [ ]
 
-### The Odyssey Slays Jurassic World To Become Universal s Highest Grossing Movie Ever At Global Box Office With $1.68B
-Sat, 12 Sep 2026 16:00:00 +0000 — https://deadline.com/2026/09/box-office-the-odyssey-record-universal-1237100001/
+### L.A. County Projects Huge Job Losses If Paramount Exits California; Company Slams Antitrust Action By AGs WGA In Official Rebuke
+Sat, 12 Sep 2026 22:56:31 +0000 — https://deadline.com/2026/09/paramount-job-losses-california-exit-antitrust-lawsuit-1237099942/
 
-By the end of this weekend, The Odyssey will have crushed the ultimate record, becoming Universal s highest grossing movie ever at the global box office with $1.684 billion. The pic will sail above Universal s previous record-breaker, 2015 s Jurassic World which ended its run at $1.677 billion. By Sunday, The Odyssey will count $601.2M million domestic and [ ]
+There will be harsh job losses and severe economic pain if Paramount carries out its threat to leave California over the antitrust action a coalition of blue state attorneys general are pursuing to stop David Ellison s $111 billion merger with Warner Bros Discovery, an internal L.A. County report estimates. At a minimum, relocating Paramount’s headquarters [ ]
 
-### The Family Stone Sequel Set At Searchlight With Claire Danes, Rachel McAdams, Sarah Jessica Parker Many More Returning
-Sat, 12 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/the-family-stone-sequel-movie-returning-cast-1237099527/
+### Twilight Star Kellan Lutz Leading Faith-Based Survival Thriller The Rescue ; Sales Launch At TIFF
+Sat, 12 Sep 2026 22:42:47 +0000 — https://deadline.com/2026/09/twilight-star-kellan-lutz-leading-faith-based-rescue-film-1237100384/
 
-Some exciting news heading into the holiday season: Searchlight has announced a sequel to the beloved 2005 holiday film The Family Stone, with nearly the entire cast returning. This includes Claire Danes, Rachel McAdams, Dermot Mulroney, Craig T. Nelson, Sarah Jessica Parker, Luke Wilson, Tyrone Giordano, Elizabeth Reaser, Paul Schneider, and Brian White. The one big [ ]
+EXCLUSIVE: Premiere Entertainment Group is introducing faith-based survival thriller The Rescue, which has Kellan Lutz (Twilight franchise) attached, to international buyers at the TIFF market. The synopsis reads: After a violent storm leaves a rescue team stranded on a frozen Alaskan mountain, survival becomes a test not only of endurance, but of faith, as hope [ ]
 
-### Brian Duckworth Dies: Country Musician, Member Of Taylor Made Band Was 56
-Sat, 12 Sep 2026 13:19:17 +0000 — https://deadline.com/2026/09/brian-duckworth-dead-1237099978/
+### Taylor Frankie Paul Says She s Stayed In, Single Celibate Since Her Season Of The Bachelorette Was Yanked
+Sat, 12 Sep 2026 22:30:11 +0000 — https://deadline.com/2026/09/taylor-frankie-paul-single-celibate-the-bachelorette-tabled-1237100373/
 
-Brian Duckworth, the country musician who performed with his brother and sister as the band Taylor Made, died Monday, September 7, at his home in Clarksburg, W. Va. He was 56. His death was announced by family. A cause of death was not disclosed. Taylor Made, which featured Duckworth, his brother Greg Duckworth and sister [ ]
+Taylor Frankie Paul revealed on social media Saturday that she s stayed in, single and celibate since ABC decided to table her run as The Bachelorette. Paul, who can currently be seen in the fifth season of Hulu s The Secret Lives of Morman Wives that dropped Sept. 10, also said she will not allow anyone intimate [ ]
 
-### Jeremy Thomas Dies: Legendary UK Producer Of ‘The Last Emperor’ ‘Crash’ Was 77
-Sat, 12 Sep 2026 13:03:28 +0000 — https://deadline.com/2026/09/jeremy-thomas-dead-producer-77-1237099975/
+### May El-Toukhy On Venice Golden Lion Win Riccardo Scamarcio Remembers Jeremy Thomas Winners Press Conference
+Sat, 12 Sep 2026 21:59:50 +0000 — https://deadline.com/2026/09/may-el-toukhy-venice-golden-lion-win-and-being-counted-out-1237100346/
 
-Jeremy Thomas, one of the UK’s most prominent independent film producers of the last 50 years, died on September 11. He was 77 years old. His family announced his death in a statement on Saturday. Jeremy Thomas, the celebrated British producer of The Last Emperor and of over 40 other films, has died, at the [ ]
+Venice Golden Lion winner May El-Toukhy is not surprised that some pundits considered her win a shock Saturday evening. Speaking at the winners press conference this evening, the Danish director of Woman Unknown responded to a question about her win being called a surprise by some in the media: It doesn t surprise me that some [ ]
 
 ## befores & afters
 
@@ -174,6 +174,46 @@ Fri, 11 Sep 2026 12:57:13 +0000 — https://beforesandafters.com/2026/09/11/yes-
 Go behind the scenes of the Warrior bugs by Tippett Studio in Starship Troopers. Buy WOAH! Great Moments in Effects History Vol. 1 by at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the @beforesmag Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post Yes, this is how they animated the Arachnids appeared first on befores & afters .
 
 ## IndieWire
+
+### Vintage Violence Review: Too Much Is Never Enough in Eugene Kotlyarenko’s Overstimulating Crime Comedy
+Sun, 13 Sep 2026 06:05:00 +0000 — https://www.indiewire.com/criticism/movies/vintage-violence-review-eugene-kotlyarenko-1235216464/
+
+TIFF: Gonzo bloodshed and manic camerawork are the focus in this over-the-top crime caper set in the Japanese vintage underworld.
+
+### Your Mother Your Mother Your Mother Review: Faith, Family, and Firearms Drive Bassam Tariq s Intriguingly Strange Action-Drama
+Sun, 13 Sep 2026 04:01:00 +0000 — https://www.indiewire.com/criticism/movies/your-mother-your-mother-your-mother-movie-review-1235216627/
+
+Messy contradictions and eccentric side characters drive this memorable story of a devout Muslim hitman played by Mahershala Ali.
+
+### Misty Green Review: Rosalind Eleazar Stuns in Chris Rock s Raw but Unfocused Hollywood Character Study
+Sun, 13 Sep 2026 03:30:00 +0000 — https://www.indiewire.com/criticism/movies/misty-green-movie-review-chris-rock-1235216282/
+
+TIFF: The "Slow Horses" star is tremendous as a faded Black TV actress whose tendency for self-sabotage threatens to derail her comeback role.
+
+### River Review: Jane Levy Anchors a Fearlessly Cruel and Visceral Survival Slasher
+Sat, 12 Sep 2026 22:00:00 +0000 — https://www.indiewire.com/criticism/movies/river-movie-review-jane-levy-slasher-1235216672/
+
+TIFF: Jane Levy and Jessica Rothe lead Joshua Giuliano's slasher that finds evil in beauty, while reminding us that horror is not simply a vehicle for scares.
+
+### ‘Purgatory’ Review: This Charming Catholic Coming-of-Age Story Never Quite Ascends
+Sat, 12 Sep 2026 21:25:00 +0000 — https://www.indiewire.com/criticism/movies/purgatory-review-1235216402/
+
+TIFF: A 13-year-old in the 1980s navigates her parents’ separation in this comedy that relies on boilerplate beats.
+
+### Venice Prizes Elevate John Malkovich, Possible Love, and NAZA to Oscar Frontrunners
+Sat, 12 Sep 2026 20:57:01 +0000 — https://www.indiewire.com/awards/predictions/venice-john-malkovich-possible-love-naza-oscar-frontrunners-1235216651/
+
+While "Woman Unknown" won the Golden Lion and is now automatically eligible for Best International Feature, the Venice jury prizes solidify three other competition titles as major Oscar contenders.
+
+### Edward Said: Between Worlds Brings an Articulate Palestinian Spokesman Back to Life
+Sat, 12 Sep 2026 19:06:11 +0000 — https://www.indiewire.com/awards/consider-this/edward-said-between-worlds-palestinian-spokesman-interview-1235216388/
+
+With producers Jigsaw, Dogwoof, Impact Partners, and Louverture behind it, the movie is seeking distribution at the Toronto International Film Festival.
+
+### Venice Film Festival Reveals 2026 Award Winners: Woman Unknown Takes the Golden Lion
+Sat, 12 Sep 2026 18:58:00 +0000 — https://www.indiewire.com/awards/results/venice-film-festival-2026-award-winners-1235216485/
+
+See all this year's 2026 Venice Film Festival award winners here.
 
 ### Courteney Cox Had a Vision for Her Evil Genius, and Friends — Surprisingly — Played an Important Role
 Sat, 12 Sep 2026 18:00:00 +0000 — https://www.indiewire.com/features/interviews/courteney-cox-evil-genius-friends-pizza-bomber-1235216492/
@@ -190,152 +230,112 @@ Sat, 12 Sep 2026 17:23:31 +0000 — https://www.indiewire.com/features/interview
 
 Venice: 2026 competition jury president Maggie Gyllenhaal speaks to IndieWire about also attending the festival as the director of "Flesh Impact," starring Golden Lion recipient Ellen Burstyn, and why her AI experiment failed.
 
-### Venice Film Festival Reveals 2026 Award Winners
-Sat, 12 Sep 2026 17:04:41 +0000 — https://www.indiewire.com/awards/results/venice-film-festival-2026-award-winners-1235216485/
-
-Who will win the Golden Lion from Maggie Gyllenhaal's competition jury? Venice will name all the winners today at the Sala Grande ceremony.
-
 ### Everybody Wants to F*ck Me Review: Taron Egerton Does Obsession to Every Woman on Earth in Cynical Horror Comedy That Trips Over Its Dick
 Sat, 12 Sep 2026 16:38:54 +0000 — https://www.indiewire.com/criticism/movies/everybody-wants-to-fuck-me-movie-review-1235216509/
 
 TIFF: A London soft boi gets cursed with his ultimate fantasy in a scattered movie that shares his fear of commitment.
 
-### After the Heartbreak of Blade, Your Mother Your Mother Your Mother Director Bassam Tariq Still Thanks Marvel for Helping Him Think Big
-Sat, 12 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/features/interviews/your-mother-your-mother-your-mother-bassam-tariq-interview-1235216274/
-
-TIFF: The filmmaker tells IndieWire how (and why) he re-teamed with star Mahershala Ali after they both exited "Blade," and how that experience influenced his latest feature, already picking up lots of buzz on the festival circuit.
-
-### On Lanterns, the Costumes Have a Bird s-Eye View of the Characters
-Sat, 12 Sep 2026 15:30:00 +0000 — https://www.indiewire.com/features/craft/lanterns-costumes-interview-1235216248/
-
-Costume designer Cynthia Ann Summers tells IndieWire about taking inspiration from Tippi Hedren and Anthony Bourdain for HBO's latest superpowered mystery series.
-
-### Jeremy Thomas, Oscar-Winning Producer for Bertolucci, Cronenberg, and Herzog s Bucking Fastard, Dead at 77
-Sat, 12 Sep 2026 14:40:50 +0000 — https://www.indiewire.com/news/breaking-news/jeremy-thomas-producer-dead-1235216471/
-
-Jeremy Thomas won the Best Picture Oscar in 1988 for Bernardo Bertolucci's "The Last Emperor." He's a key talking head in Luca Guadagnino's new documentary about the Italian filmmaker," "Joie de Vivre," which just premiered in Venice.
-
-### The Julia Set Review: Chase Infiniti Is a Genius in a Movie Lacking Serious Brain Power
-Sat, 12 Sep 2026 14:02:39 +0000 — https://www.indiewire.com/criticism/movies/the-julia-set-review-chase-infiniti-1235216332/
-
-TIFF: The "One Battle After Another" breakout heads to college in Niki Byrne's confounding mash-up of "Good Will Hunting" verve and "Sleeping with the Enemy" shlock.
-
-### ‘Iron Boy’ Review: A Beautifully Hand-Painted Coming-of-Age Story with a Dash of Magical Realism
-Sat, 12 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/criticism/movies/iron-boy-review-1235216358/
-
-TIFF: Former Pixar animator Louis Clichy delivers a lovely film about a boy in an iron corset and his family's struggles to keep their French farm afloat.
-
-### Caleb Hearon Never Expected to Make Trash Mountain — or Play His First Starring Role in It
-Sat, 12 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/features/interviews/caleb-hearon-never-expected-trash-mountain-interview-1235216247/
-
-TIFF: The rising comedian co-wrote the Kris Rey-directed dramedy, inspired by his own life. But as he tells IndieWire, long before there was a script or a movie, there was just a burning desire to get the story down on paper.
-
-### The Face of Horror Review: Anna Biller Brings Her Brand of Technicolor Feminism to a Tale of Chivalry (or Lack Thereof)
-Sat, 12 Sep 2026 06:00:00 +0000 — https://www.indiewire.com/criticism/movies/the-face-of-horror-review-anna-biller-1235216164/
-
-TIFF: The medieval setting proves a perfect match for Biller's sensibilities, as she crafts a feature as visually striking and blunt in its messaging as "The Love Witch."
-
 ## The Wrap
 
-### Diablo Animated Series in Development at Netflix
-Sat, 12 Sep 2026 18:04:42 +0000 — https://www.thewrap.com/creative-content/tv-shows/diablo-series-development-netflix/
+### ‘Misty Green’ Review: Chris Rock s Tough Hollywood Story Finds a Star in Rosalind Eleazar
+Sun, 13 Sep 2026 03:30:00 +0000 — https://www.thewrap.com/creative-content/reviews/misty-green-review-chris-rock-rosalind-eleazar/
 
-An animated series based on Blizzard Entertainment s popular Diablo video game franchise is in the works at Netflix, as revealed at the gaming company s BlizzCon gathering on Saturday. We are thrilled to share that we are in development on a new animated series for Diablo with Netflix, Blizzard Entertainment president Johanna Faries said onstage, opening BlizzCon s livestreamed presentation in Anaheim. The announcement drew cheers from the crowd. As a big Diablo player myself, and as someone who loves the indulgent darkness of Sanctuary, I am very excited to see this project come to life. Faries also teased more great discussions being had about expanding other Blizzard Entertainment video game properties, shouting out the fanbases for titles like Overwatch and Starcraft. The Diablo action RPG series is set in the infernal fantasy world of Sanctuary, where demons, monsters, angels and humans are caught in an ongoing conflict. The first title launched in 1996, with three mainline entries releasing over the following decades. The most recent installment, Diablo IV, broke Blizzard internal records with its 2023 launch, when the publisher cheekily reported that the title had passed $666 million in its first week of sales. The game has sold numerous expansions in the years since. The popular, lore-heavy Diablo franchise has also been adapted into various novelizations and comics over the years. Plans for an animated series were initially reported back in 2020, when Blizzard Entert
+Misty Green is a star. Just ask her. “I am a f king star,” she says. “I wish people would treat me like one.” Or just ask Chris Rock. He wrote and directed “Misty Green,” which opens with shots of Los Angeles set to the upbeat enthusiasm of Sammy Davis Jr. singing “If You Could See Me Now.” The trouble is, if you could see Misty now, you wouldn’t necessarily think she’s a star. Because she’s also a f ing mess, which has kind of gotten in the way of that whole star thing. The thin line between stardom and total f ked-upness is the territory that s tread in Rock s new feature: part tough but raucous and insidery Hollywood story, part character study with teeth. It’s very funny and pretty disturbing and quite entertaining until it starts to run out of gas. And even then, you can forgive it because of Rosalind Eleazar, the British actress best known for “Slow Horses” who has the pride and the pipes and the passion to embody the title character. Eleazar is an unstoppable force playing a very stoppable force – stoppable, mostly, by her own misjudgments. You could say that Misty has been held back by sexism and racism and you wouldn’t be wrong, but the film makes it very clear that she’s mostly been held back by her own spectacularly wrongheaded decisions. The film, which had its world premiere at the Toronto International Film Festival on Saturday, is Rock’s first as a director since “Top Five” back in 2014. That one was about a successful comic (played by Rock) trying to cope with
 
-### Courteney Cox, David Harbour, Michelle Yeoh, Ziwe and More at TheWrap s TIFF Portrait Studio Photo Gallery
-Sat, 12 Sep 2026 18:02:54 +0000 — https://www.thewrap.com/creative-content/movies/tiff-celebrities-photos-2026-sarah-paulson-courteney-cox/
+### I Play Rocky Review: Biopic About the Making of Sylvester Stallone s Classic Is a Hollow Crowdpleaser
+Sun, 13 Sep 2026 01:44:45 +0000 — https://www.thewrap.com/creative-content/movies/i-play-rocky-review-sylvester-stallone/
 
-The 2026 Toronto International Film Festival is underway, and everyone from Ziwe to Gary Oldman to Courteney Cox to David Harbour stopped by TheWrap s studio for portraits. Below you ll find our gallery of portraits of performers and filmmakers who swung by TheWrap s studio for interviews and photos, including Michelle Yeoh, Sarah Paulson, Jodie Comer, Luke Evans, Megan Rapnioe, Patricia Arquette, Dianne Wiest, Mike Leigh, Josh Hartnett, James McAvoy, Sean Penn, Cole Sprouse, Harry Melling, Zooey Deschanel, Caleb Hearon and more. Peruse our Toronto International Film Festival portrait gallery below, with photos by photographer Oshane Howard, and keep this page bookmarked as we ll be adding more photos throughout the fest. And catch up on all of TheWrap s TIFF coverage here . (Photography by Oshane Howard for TheWrap) James McAvoy, actor, “Faith” (Photography by Oshane Howard for TheWrap) Smylie Bradwell, actor, “Faith” (Photography by Oshane Howard for TheWrap) Paul Andrew Williams, Dominic Tighe, Smylie Bradwell, Danny Page, and James McAvoy, “Faith” (Photography by Oshane Howard for TheWrap) Dominic Tighe, Danny Page, producers, “Faith” (Photography by Oshane Howard for TheWrap) Paul Andrew Williams, “Faith” (Photography by Oshane Howard for TheWrap) Alice Bailey Johnson, actress, Mike Leigh, director, Paul Jesson, actor, Marion Bailey, actress, and Kate O’Flynn, actress, Tender Loving Care (Photography by Oshane Howard for TheWrap) Mike Leigh, director, Tender Loving Care 
+Midway through “ I Play Rocky ,” Peter Farrelly’s misfire of a movie about Sylvester Stallone and the making of “Rocky,” production is underway on the film that would make its lead a star. But, despite them shooting a key emotional scene, things aren’t working. Sly ( Anthony Ippolito ) is pulled aside by the film’s director John Avildsen (Jay Duplass) and told he needs to dig deeper in the next take. There has to be something more, Avildsen says, that this is the moment where he’ll find the “thing,” the emotional why of the entire picture. Without it, the experience — even when the efforts of a dedicated crew moving heaven and Earth to make it work — will be empty. Unfortunately, while the real Sly found that emotional depth in “Rocky,” the fictional version of him, even when pushed, never does here. Instead, what we get is a film that’s broadly crowd-pleasing, having fun with some playful jokes about filmmaking here and there, though without a cinematic soul it can call its own. It never uncovers that deeper emotional why, reducing the unconventional success story of Stallone to something aggressively conventional and without a greater emotional punch. It darts around, hitting all the beats you’d expect it to, but never instills them with any greater life. The only blows it lands are when it repeatedly punches itself in the face by insisting on spelling things out, rather than dancing gracefully in the ring. The disappointment is felt right from the opening moments, when you
 
-### Jodie Comer Learned Taxidermy for Horror Musical Romance Stuffed
-Sat, 12 Sep 2026 17:34:54 +0000 — https://www.thewrap.com/creative-content/movies/jodie-comer-learned-taxidermy-stuffed-interview/
+### The Julia Set Review: Chase Infiniti Shines in Uneven, Heavy-Handed Mathematics Drama
+Sun, 13 Sep 2026 01:01:58 +0000 — https://www.thewrap.com/creative-content/movies/the-julia-set-review-chase-infiniti/
 
-Jodie Comer got plenty of experience as an assassin in her Emmy-winning performance in Killing Eve, but for her new musical romance Stuffed she learned an entirely different skill: taxidermy. There was a lot of real taxidermy on set. I also did a very small taxidermy course in Portsmouth, which was so invaluable to understand her and comprehend her desire and what her relationship to that was, Comer told Jada Yuan at TheWrap s studio at the 2026 Toronto International Film Festival. The world is so rich, the texture of the set design and the props, and getting to see her workshop for the first time, it was so alive. The story centers on Araminta (Comer) and Bernie (Harry Melling), who develop an unexpected love story over taxidermy, and Comer added that the course shaped how she understood her character s psychology. When I was literally handling this animal, peeling back the skin, holding the ligaments, I was struck by the similarity, Comer said. I feel like she would really recognize herself within that. It wasn t as outlandish to her as most people would think. I ve thought of her as an artist who s done everything else and is craving something more, which on a fundamental level is actually very relatable. Set against a darkly macabre backdrop, the film is at once a musical, horror and romance. “Stuffed” hails from writer and director Theo Rhys marking his feature debut. The film expands on Rhys’ short of the same name, which won the Midnight Jury and Audience Awards at the
+Director Niki Byrne’s frustratingly melodramatic “The Julia Set” is a film that hints at complexity and nuance but often settles for the lowest common denominator in its execution. It has a lot to say but lacks the grace of easy digestion, unsure of how to move its story along without resorting to communicating its ideas in the most heavy-handed ways possible. It has a lot working for it, namely actors who are far too talented for the script they’ve been saddled with, but it all adds up to less than the sum of its parts. I’ll confess that I had my doubts about how one could make mathematics cinematic, and at the start of Byrne’s film, she assuages fears in part by demonstrating how the language of the world runs on these concepts we often restrict to our classroom. The drama of our daily lives can be refracted through the language of theorems, proofs and algorithms, and it’s a language Julia (Chase Infiniti) knows well. She’s a student at university who can solve differential equations better than her whole class, yet has grown accustomed to making herself small so as not to draw attention. Even if you’ve appreciated Infiniti s work prior, “The Julia Set” lets you fall in love with her talent all over again, particularly with her mastery of eye acting. Every time she stares, furrowing her brow at a worksheet placed before her or looking longingly at the TA, Pascal (Christopher Briney), who fires back reciprocal interest, you see that there’s a world of emotion waiting to be u
 
-### Paramount Argues States Antitrust Lawsuit Against Warner Bros. Merger Is Not the Product of Sound Economic Analysis
-Sat, 12 Sep 2026 17:04:21 +0000 — https://www.thewrap.com/industry-news/deals-ma/paramount-skydance-argues-antitrust-lawsuit/
+### I Play Rocky Star Anthony Ippolito Filmed His Own Audition Before He Even Had the Script
+Sun, 13 Sep 2026 00:41:17 +0000 — https://www.thewrap.com/creative-content/movies/anthony-ippolito-i-play-rocky-how-he-was-cast-interview/
 
-Paramount Skydance filed an answer to 12 states lawsuit against its pending acquisition of Warner Bros. Discovery, arguing that the combined companies will enhance competition by yielding more content, as well as a better combined streaming offering to compete against Netflix, Disney and Amazon. The legal response, submitted Friday, provides a preview for the strategy that Paramount Skydance intends to employ in defending the proposed merger should the case go unsettled and move forward to a trial in March. The suit underlines that 68 jurisdictions have approved the merger already and includes a claim that the states lack regulatory authority over the Merger, which is vested in the U.S. Department of Justice. However, states are permitted to claim harm for business operations alleged to break federal antitrust laws. Most of the arguments contained in the 25-page filing have already been publicly voiced by the studio, including its repeated claim that the combined companies will have an increased investment in content, more than they would have as two separate entities, and that the size of the Merger is precisely what makes that strategy possible. The response also claims that the rise of streaming services have dramatically increased competition in theaters and cable television over recent years and that the states case depends on ignoring this reality. The alleged markets are not the product of sound economic analysis or current market realities, reads the filing. They have
+Anthony Ippolito was so excited to play Sylvester Stallone in a biopic about the making of Rocky that the up-and-coming actor shot an audition tape blindly, before he had even read a script or obtained sides. Ippolito stars as a young Stallone in Peter Farrelly s “I Play Rocky,” which details the uphill battle to get Rocky made, which eventually won Best Picture at the Academy Awards in 1977. One of the buzziest titles this year at the festival, Ippolito said that he initially heard about the project through a news article and decided to take a shot before anyone even asked him to. “I hung a heavy bag in my grandma s basement. I didn t have a script, so I was just working with my imagination, trying to capture the physicality of the character,” Ippolito told Casey Loving at TheWrap’s studio at the 2026 Toronto International Film Festival. Ippolito shot the audition tape with his friend, who is an aspiring director, and his cousin. “It kind of felt like a bit of a long shot, but it was a creative exercise, and it was actually really fun,” he added. His agent at the time sent the audition to the film s producers and casting director, and it actually worked — they sent the agent the script in return and asked for a proper audition. Feeling bold, Ippolito got even more ambitious, shot several more scenes on his own and sent those in too, before eventually landing the coveted role. His gambit had paid off. “I had seen an article that they were making this movie, and I had known a 
 
-### Michelle Yeoh Trained Like a Real Surgeon for Action Thriller The Surgeon
-Sat, 12 Sep 2026 16:35:07 +0000 — https://www.thewrap.com/creative-content/movies/michelle-yeoh-the-surgeon-training/
+### Paramount Leaving California Could Mean Up to $21 Billion in Lost Annual Economic Output, Leaked Study Finds
+Sun, 13 Sep 2026 00:33:57 +0000 — https://www.thewrap.com/industry-news/business/paramount-leaving-california-economic-impact/
 
-For her role as a kidnapped surgeon forced to perform one last operation in the action thriller The Surgeon, Oscar-winning actress Michelle Yeoh took her training to the next level by learning how to actually perform surgery. She was in good hands though. Literally. The director of the movie, Roshan Sethi, is a practicing radiation oncologist, and also the creator of Fox medical series “The Resident.” Sethi turned to his colleague Dr. O’Keefe, a surgeon at the Royal College of Surgeons in Dublin, where the movie was shot, to train and prepare Yeoh. Dr. O’Keefe is also a teacher who runs the Royal College of Surgeons simulator lab. She ran Michelle through everything, like how to scrub in, how to operate, how to do the knots, everything, Sethi told Jada Yuan at TheWrap s studio at the 2026 Toronto International Film Festival. Yeoh took her training quite seriously because she wanted the surgical movements to come off as authentic as possible on the big screen. It was really important for me, so that when I did the movements and all that, it looked real, Yeoh said. As part of her training, Yeoh also observed a pig dissection at the Royal College, much to the surprise of the medical students who also watched the pig dissection with the Oscar winner. None of the medical students who were doing the pig dissection had been warned that she was coming, Sethi added. They were so confused as to why Michelle was at the pig dissection for the day. Sethi’s brother, a doctor himself, chipp
+If Paramount makes good on its threat to relocate out of California, the results would be devastating for the state and the entertainment industry, a leaked economic impact study finds. According to a study conducted by the Los Angeles County Economic Development Corporation dated Sept. 10 (and leaked by Politico ), once Paramount completed the entire relocation out of state, California would experience the permanent loss of approximately 28,990 to 57,980 full-time jobs statewide across all industries, and losses of between $10.6 billion and $21.2 billion annually in economic output. At minimum, the relocation would result in losses of 2,750 and 5,550 job-years in California across all industries and losses of between $1.01 billion and $2.03 billion in economic output between October 1, 2026, and September 30, 2031, according to the study. It should be emphasized that these estimated job losses include direct, indirect, and induced jobs, capturing the ripple effects through Paramount’s supply chains in California as well as the economic activity of household spending, the study says. Consequently, the job losses pertain to all California industries rather than solely to motion picture and television production. Additionally, the study finds that if Paramount holds to its promise to release 30 films a year after its Warner Bros. Discovery acquisition, it would generate a total of between 1,020 and 2,760 jobs in California across all industries and between $377.7 million and $1
 
-### Everybody Wants to F k Me Review: Taron Egerton Lives a Performative Male’s Worst Nightmare
-Sat, 12 Sep 2026 16:24:47 +0000 — https://www.thewrap.com/creative-content/movies/everybody-wants-to-fuck-me-taron-egerton-review/
+### Edward Said: Between Worlds Review: An Essential Voice for Our Times Is Resurrected in His Own Words
+Sun, 13 Sep 2026 00:00:00 +0000 — https://www.thewrap.com/creative-content/movies/edward-said-between-worlds-review-palestine/
 
-What is going on with the straights and sex in the year 2026? It’s one of the first questions I had in mind after watching director Jonathan Schey’s feature directorial debut, “Everybody Wants to F k Me. Its bold title, which at first reads like a brag or complaint but then feels recontextualized as a threat, is a striptease for a climax that never comes, one that mistakes being different for being profound. You extract four separate movies from Schey’s film, and the problem is he swipes right on too many of these ideas for the result to feel like anything but disjointed mayhem. This is all despite leading man Taron Egerton delivering, if not one of his best performances, his most eclectic one, as Adam, a man who finds his identity in not being like other men, being a true ally, and being someone women can feel safe with. He prides himself on reading the right literature (Edna O Brien’s Country Girl in hand), dares not even to stare at fellow participants in his all-female yoga class, makes sure to listen more than he speaks (God gave us two ears and only one mouth after all), and if that’s not enough, he flashes around his MUBI tote bag to prop himself up as not just any cinephile but one with taste. But a clever opening sequence reveals he s no better than the toxic males he purports to be different from — when Adam and a woman (Mia McKenna-Bruce) have sex, he passively rejects her when she hints at a more substantial relationship. Just because he’s less obvious doesn’t mea
+The life and work of the late Palestinian American scholar Edward Said will never be fully captured in a single documentary. Not only are his writings too urgently influential and remain worth reading in their entirety 22 years after his death, but Said s very existence was one that contains great multitudes. To condense that into even a dozen films, let alone just one, will inevitably mean losing much of both the man and the writer. But if you’re going to try, one can only hope it looks like Maiken Baird s thoughtful and admirably comprehensive “Edward Said: Between Worlds.” Hearing from Said in his own words as he takes us through decades of history and his place in it, the documentary is as rigorously detailed as it is moving and emotional. Rather than cut away to talking heads, it instead gives center stage over to Said so we can take in his own voice and writing. It’s a reverential work of resurrection, relying on archival footage and recordings of his various speeches that he gave over his life. Even though the filmmaking itself is rather cut-and-dry, Said s words alone make this documentary resonate all the same. Hearing Said speak with poetic lyricism about the many ways that the people of Palestine have struggled to survive and endured through unimaginable circumstances is valuable in its own right. Baird s filmmaking then cuts together Said s life and the broader sociopolitical impact he left, ensuring one cannot be separated from the other. His film is then an esse
 
-### Practical Magic 2 Opens to $28 Million as Post-Summer Box Office Faces Sluggish Start
-Sat, 12 Sep 2026 16:00:02 +0000 — https://www.thewrap.com/creative-content/movies/practical-magic-2-saturday-box-office/
+### Ted Cruz Shares Video of Crowd Chanting Ted You Suck! During His ESPN College GameDay Appearance: Never Flinched
+Sat, 12 Sep 2026 23:54:23 +0000 — https://www.thewrap.com/media-platforms/tv/ted-cruz-booed-espn-college-gameday/
 
-After six weeks, the reign of Spider-Man: Brand New Day atop the box office charts has come to an end as Warner Bros./Alcon s Practical Magic 2 takes No. 1 on the first post-summer weekend. But the legacyquel starring Nicole Kidman and Sandra Bullock has work to do to ease Warner Bros. box office woes for 2026. The film earned a $13 million opening day from 4,146 locations, setting the $75 million-budgeted film for a lackluster $28 million to $30 million domestic opening weekend. That opening headlines a sluggish weekend where no other films are estimated to gross $10 million, bringing overall totals for the post-Labor Day frame to an industry estimated $84 million, down 10% year-over-year. Theaters will be looking for upcoming titles, hopefully combined with good legs for Practical Magic 2, to pick up business for the fall marketplace. As with the first Practical Magic released in 1998, critics aren t impressed by this follow-up, turning in a 37% Rotten Tomatoes score. But the fans who make up the film s cult fanbase, who are primarily millennial women, have enjoyed the sequel, giving it an early 93% RT audience score and a B+ on CinemaScore, a grade that is an improvement on the B- of its predecessor. PostTrak scores came in at 4.5/5. The task now for Practical Magic 2 will be to grow interest beyond that fanbase and become a popular option for female moviegoers amid a September landscape that will include movies like Sony s male-skewing Resident Evil and DreamWorks female-
+Senator Ted Cruz (R-Texas) was drowned out by boos and chants of Ted, you suck during an unusual 9-minute appearance on ESPN s College GameDay on Saturday morning. Cruz joined the program to promote the Protect College Sports Act, a piece of legislation that purports to regulate business interests in the industry. Most college athletic programs are losing tens of millions of dollars , and as a result , they’re canceling women’s programs and non – revenue sports and Olympics sports,” Cruz said to host Rece Davis on the show. The interview was broadcast in Austin ahead of a football game between the University of Texas and Ohio State University. “If we don’t act, in three to five years we’re going to see 40 to 50 schools that have competitive football programs and everyone else goes under. That would be a tragedy.” While Cruz hocked his legislation, which has garnered bipartisan support and is expected to see a Senate vote in the coming weeks, the large crowd of fans behind the senator booed him through the entire segment. Whole crowd came on a blitz this morning, I stayed in the pocket. Never flinched, Cruz wrote on X, sharing a video of him being interviewed while the crowd booed behind him. If we don’t pass the Protecting College Sports Act I could play for your favorite team. Call your Senator! The bill would grant the National Collegiate Athletic Association an antitrust exemption, allowing it to enforce eligibility and name, image and likeness rules. It would also allow d
 
-### The Odyssey Passes Jurassic World as Universal s Highest Grossing Film of All Time
-Sat, 12 Sep 2026 16:00:00 +0000 — https://www.thewrap.com/creative-content/movies/the-odyssey-breaks-universal-box-office-record-jurassic-world/
+### Julián’ Director Louise Bagnall on Telling a Joyful Story About Kids Self-Expression in the Animated Feature
+Sat, 12 Sep 2026 22:36:27 +0000 — https://www.thewrap.com/creative-content/movies/julian-director-louise-bagnall-interview-tiff-2026/
 
-After helping drive the summer box office to new heights, Christopher Nolan s The Odyssey has taken its place as Universal s highest grossing film of all time before inflation adjustment, passing the $1.67 billion global record set in 2015 by Jurassic World in its ninth weekend in theaters. The studio record joins a slew of other box office records that The Odyssey has set, including a career best for Nolan surpassing even the inflation-adjusted total of The Dark Knight Rises, the all-time R-rated box office record, and the highest grossing film ever for Imax. It is Nolan s third $1 billion-plus hit, coming 18 years after his first one, The Dark Knight became the first superhero film to cross that milestone. The Odyssey also stands as the first film that is not a sequel or remake since Avatar in early 2010 to gross more than $1 billion outside of the U.S. and Canada, proving how Nolan has become the most globally popular filmmaker working today. “What Chris and Emma [Thomas] have created will go down as one of the most ambitious and brilliantly executed films in cinematic history. A generational event that galvanizes moviegoing itself,” said Donna Langley, Chairman of NBCUniversal Entertainment. The Odyssey continues the fruitful relationship between Nolan and Universal that began five years ago when the filmmaker ended his decade-plus tenure at Warner Bros. and signed on with the Comcast studio to produce his 3-hour biopic Oppenheimer. At the time, studio sources told TheWra
+For those in the know, a new animated feature from Irish studio Cartoon Saloon is just as momentous an occasion as the latest from other, more well-known outposts like Pixar or LAIKA or Aardman or Studio Ghibli. This is, after all, the studio that gave us such treasures as “Wolfwalkers” and “Song of the Sea,” among others. The studio’s latest, “Julián” (a co-production with Mélusine Productions, Aircraft Pictures and Sun Creature Studio) marks the feature directorial debut of Louise Bagnall, the creative director of Cartoon Saloon. She began as a character designer on 2017’s “The Breadwinner” and by 2019 had written and directed her own short, “Late Afternoon,” which was nominated for an Oscar. Bagnall told Jada Yuan at TheWrap’s studio at the 2026 Toronto International Film Festival that she was immediately enchanted by Jessica Love’s 2018 children’s book “Julián Is a Mermaid” about a young boy who wants to become a mermaid and participate in the Coney Island Mermaid Parade. “I was just captivated by the illustrations and the characters, but especially by the the story at the heart of it. It s a beautifully told story, doesn t dictate to the reader, and it has this really joyful tone to it,” said Bagnall. “And I felt like there were themes in there that really could be explored deeper in a feature film. It was a great start.” The TIFF synopsis reads: “While his father is away for work, seven-year-old Julián goes to stay with his Dominican grandmother in Brooklyn. Their time 
 
-### The Stunt Driver Review: Jay Baruchel Delivers a Knockout Performance as Daredevil Ken Carter
-Sat, 12 Sep 2026 15:58:48 +0000 — https://www.thewrap.com/creative-content/movies/the-stunt-driver-jay-baruchel-review/
+### Evil Genius Review: Patricia Arquette Is Killer in Courteney Cox s Twisted True Crime Tale
+Sat, 12 Sep 2026 22:23:45 +0000 — https://www.thewrap.com/creative-content/movies/evil-genius-review-courteney-cox-patricia-arquette/
 
-Despite unbelievable performances as real-life men in Canadian movies like 2023 s BlackBerry and a fictionalized version of himself in This Is the End, actor Jay Baruchel has seemingly gone under the radar when it comes to movie stardom. Early comedic successes in Judd Apatow movies like Knocked Up suggested Baruchel s star was on the rise, but in recent years the performer has stuck to indie films that showcase his acting chops. Now he reteams with Goon writer-director Michael Dowse to elevate a different side of his Canadian roots: playing daredevil Ken Carter in The Stunt Driver. With a world premiere at the Toronto International Film Festival Friday ahead of its wider theatrical release later this month, The Stunt Driver is a hilarious, true-to-life story about heroics and self-importance in the face of lifelong goals. Baruchel stars as stuntman Ken Carter, known throughout the 1970s for his outrageous car stunts and dubbed The Mad Canadian by the press at the time. Growing up in the shadow of his contemporary Evel Knievel (Ben Foster), Carter attempts a years-long pursuit of launching a rocket-powered Lincoln Continental across the St. Lawrence River. But driving at speeds up to 280 mph and flying off a ramp that would take him from the Canadian side of the river to the American side may be the one jump that ends Ken s life. His long-suffering wife Gloria (Laurence Leboeuf) believes that Ken can accomplish anything he puts his crossed eyes to, though after many years of 
+One of the most striking guilty pleasures of the last decade or so for many viewers looking for a nice evening at home is watching true crime documentaries. Getting into the mind of a killer has become quite the American pastime in millions of households, including through wildly popular true crime podcasts, and one documentary that made Netflix the go-to resource for all things murder was the 2018 series Evil Genius. I recently rewatched this stunning docuseries, which depicts a pizza delivery man named Brian Wells who, in 2003 in Erie, Pennsylvania, is filmed with a bomb strapped to his collar before it explodes in front of local police. The details of this case and the conspiracies surrounding it led directly to the arrest of Marjorie Diehl-Armstrong, a self-described genius who investigators believed concocted the plot to kill Wells. Why and how are at the center of a docuseries where Diehl-Armstrong is interviewed from prison, denying her involvement while attempting to manipulate the filmmakers recording her story. Now, Courteney Cox, best known for her work on Friends, has debuted her latest directorial effort at the Toronto International Film Festival, also titled Evil Genius and covering the same ground, albeit in narrative form this time around. Based on the 2018 docuseries, we witness a film adaptation of events leading up to Wells death and the reasoning behind his high-profile murder. Cox s adaptation is a stellar portrayal of life imitating art, capturing the mi
 
-### The Families Stone : Rachel McAdams, Claire Danes and Sarah Jessica Parker to Return for Sequel
-Sat, 12 Sep 2026 14:00:18 +0000 — https://www.thewrap.com/creative-content/movies/the-family-stone-sequel-cast-rachel-mcadams/
+### Pierce Brosnan Says Next James Bond Could Probably Be Someone That None of Us Know About
+Sat, 12 Sep 2026 22:22:18 +0000 — https://www.thewrap.com/creative-content/movies/pierce-brosnan-next-james-bond-none-of-us-know/
 
-Searchlight Pictures will release The Families Stone, a sequel to the 2005 holiday classic with the original returning cast, the company announced Saturday. Tom Bezucha, who wrote and directed the original 2005 film, returns as well in both capacities for The Families Stone. Producing are Michael London and Shannon Gaulding for Groundswell Productions, and Sarah Jessica Parker and Alison Benson for Pretty Matches Productions. The returning cast for The Families Stone is Claire Danes (“Julie Morton”), Rachel McAdams (“Amy Stone”), Dermot Mulroney (“Everett Stone”), Craig T. Nelson (“Kelly Stone”), Sarah Jessica Parker (“Meredith Morton”), and Luke Wilson (“Ben Stone”). Additional returning principal cast also includes Tyrone Giordano (“Thad Stone”), Elizabeth Reaser (“Susannah Stone”), Paul Schneider (“Brad Stevenson”), and Brian White (“Patrick Thomas”). The official logline reads: Twenty years after their mother’s passing, the Stone family reunites for Christmas only to face the season’s biggest surprise: their father has unexpectedly invited the woman he’s fallen in love with to meet the family. “The Family Stone” starred Diane Keaton as the family matriarch and became a perennial holiday favorite in the wake of its release. Taylor Friedman and Creative Executive Daniel Yu are overseeing the project for Searchlight Pictures, reporting to Heads of Production and Development DanTram Nguyen and Katie Goodson-Thomas. Bezucha is a producer and director, known for Let Him Go, Big
+Former James Bond star Pierce Brosnan says that the next actor to be cast in the iconic role might not be one of the many names that has been reported to be in consideration already. There are lots of good hats in the ring. Lots of great actors. I see it. I follow it, Brosnan told The Times in an interview published Friday. They could probably just go left-field and pick someone that none of us know about.” The 73-old-actor, who starred as Bond in GoldenEye, Tomorrow Never Dies, The World Is Not Enough and Die Another Day, went on to emphasize that he has no personal preference on who ends up in the role, saying that I wouldn’t pick anyone. My wife told me not to say anything and I’ve said too much. Because once I say something it goes (everywhere) and I get hanged.” I’m just a member of the audience now awaiting the next Bond and wishing him well, Bronsan continued. The casting process for the next James Bond remains ongoing as Amazon MGM Studios develops its coming reboot of the long-running spy franchise. The studio has tapped Dune trilogy director Denis Villeneuve to helm the revival, with Peaky Blinders creator Steven Knight on board to write. Jacob Elordi, Callum Turner, Jack Lowden and Harris Dickinson are among the names swirling in reporting on the casting considerations for the reboot. Amazon MGM Studios has kept developments on the project closely guarded since acquiring creative control in a landmark deal with the Broccoli family, the decades-long stewards of the 
 
 ## Collider
 
-### 2 Star Wars Prequels Are Officially Back From the Dead
-Sat, 12 Sep 2026 18:40:21 GMT — https://collider.com/star-wars-eclipse-knights-of-the-old-republic-update/
+### Tom Cruise’s Epic Historical Masterpiece Is Officially Storming the Streaming Charts Again
+Sun, 13 Sep 2026 09:40:11 GMT — https://collider.com/tom-cruise-the-last-samurai-streaming-hit-hbo-max-september-2026/
 
-2026 has been a pretty "wizard" year for Star Wars as far as gaming goes. Just a few weeks ago, EA and Lucasfilm Games released Star Wars: Zero Company , the new XCOM -inspired strategy game that takes place in the closing days of the Clone Wars, to widespread critical acclaim. If that wasn't enough, the world's most famous sci-fi franchise is returning in just one month with Star Wars: Galactic Racer , which will not only let fans race speeders across the galaxy, but also let them live out their podracer power fantasy like never before.
+The historical epic is a staple of cinema, and it's currently proving to be one of the most popular genres. The 21st century's headline filmmaker Christopher Nolan delivered the most ambitious of its kind in recent memory with his adaptation of Homer 's ancient Greek epic The Odyssey , which debuted this summer. Dubbed an "unrivaled cinematic spectacle" in Joe Schmidt 's review for Collider , The Odyssey is likely to sweep up at the 2027 Academy Awards, and might even break the nominations record set by Ryan Coogler 's Sinners this year.
 
-### Netflix's 8-Part Gothic Horror Is Near Perfect When It Goes Beyond the Book It's Based On
-Sat, 12 Sep 2026 18:38:11 GMT — https://collider.com/netflix-fall-of-the-house-of-usher-mike-flanagan-edgar-allan-poe/
+### 10 Miniseries That Are the Perfect Weekend Binge
+Sun, 13 Sep 2026 09:26:11 GMT — https://collider.com/miniseries-perfect-weekend-binge/
 
-There are way more adaptations of Edgar Allan Poe 's work in visual media than most people can count. If well-made, they are pretty much guaranteed to draw interest, because the source material is just that good . What's rare is to see one of them that actually wishes to be more than an adaptation , and that's what Netflix's The Fall of the House of Usher is all about. Created by modern horror master Mike Flanagan , this miniseries doesn't stick solely to the short story of the same name, but is an homage to the whole of Poe's work. When it was first announced, horror fans knew they were in for a treat, as the idea of Flanagan adapting Poe is a no-brainer; what no one expected was how Flanagan would do it.
+Television is renowned for giving viewers stories they can watch unfurl season after season, long-format odysseys that can either be watched over the years as each season is released or binged watched over the course of a few weeks. However, sometimes people don’t want to have to make such a commitment. Sometimes they want something they can enjoy in its entirety over the course of a lazy weekend nestled on the couch.
 
-### Netflix Officially Finds Its ‘Arcane’ Successor With New Dark Fantasy Series
-Sat, 12 Sep 2026 18:37:35 GMT — https://collider.com/netflix-diablo-series-confirmed-overwatch-world-of-warcraft/
+### Andrew Garfield's Surprise Robin Hood Release Officially Misses the Target
+Sun, 13 Sep 2026 09:20:11 GMT — https://collider.com/andrew-garfield-robin-hood-movie-the-uprising-rotten-tomatoes-is-it-good/
 
-Netflix is going to Hell, and this time, that is excellent news. After turning League of Legends into an animated phenomenon with Arcane , the streamer has found another massive gaming universe filled with complicated heroes , terrifying monsters, and enough lore to fuel years of television. This one, however, will trade Piltover’s gleaming towers for a world where even the angels can be frightening .
+After starring in the surprise hit mystery comedy The Sheep Detectives earlier in the year, Hugh Jackman set his sights on a much tougher task than making crime-solving sheep marketable. In The Death of Robin Hood , a dark spin on the legendary folklore, Jackman led the iconic character into a box-office battle once again after a series of missteps. This proved too big a task for even Jackman, with The Death of Robin Hood earning just $7.6 million worldwide against a budget of $20 million.
 
-### Netflix’s 5-Part Adventure Gem Is Officially One of the Biggest Shows on Streaming
-Sat, 12 Sep 2026 18:30:11 GMT — https://collider.com/outer-banks-season-5-streaming-hit-netflix-september-2026/
+### Apple TV's New Hit Thriller Is Officially Taking Over the World
+Sun, 13 Sep 2026 09:00:11 GMT — https://collider.com/last-seen-apple-tv-streaming-success-september-2026/
 
-The current Netflix charts are dominated by the long-awaited return of a global hit crime series. A follow-up to the hugely popular 2019 movie of the same name , The Gentlemen has retaken its crown as the most-watched show on Netflix, following its hugely successful debut season in 2024. However, the first season's 12.2 million views recorded during its first few days on streaming were a bar far too high for Season 2, which has only earned 6.7 million views in the same period, marking a drop-off of 45% between seasons.
+Fall is when television gets good, as broadcast networks finally bring back fan-favorite shows and debut new ones. And while broadcast might not be what it used to be, streaming has stepped in to fill that gap. Apple TV is keeping the thriller market cornered this season with several shows set to debut in the final quarter of the year. In fact, the streamer has officially started releasing new episodes of its latest crime thriller, and unsurprisingly, it has become a streaming hit.
 
-### The 8 Most Fun R-Rated Sci-Fi Movies, Ranked
-Sat, 12 Sep 2026 18:28:11 GMT — https://collider.com/most-fun-r-rated-sci-fi-movies-ranked/
+### Tim Burton's Fantasy Masterpiece Is Officially a Monster Hit on Streaming
+Sun, 13 Sep 2026 08:40:11 GMT — https://collider.com/tim-burton-beetlejuice-streaming-hit-hbo-max-september-2026/
 
-Sometimes you want science fiction to behave itself. Other nights, you want somebody to pull a spine out, drive through a sandstorm with half the wasteland chasing them, discover that reality is fake, or casually announce that they will be back before walking into absolute chaos. There is a special pleasure in movies that have big ideas and absolutely no interest in being polite about them.
+Legacy sequels have been more popular than ever in the past few years, like the cinema-saving Top Gun: Maverick, headlined by Tom Cruise . Two years ago, one of the most hotly anticipated legacy sequels made its box office debut, haunting up a frighteningly good global haul. Beetlejuice Beetlejuice earned an enormous $451 million, split between a domestic haul of $294 million and a further $157 million from overseas markets, becoming Tim Burton 's highest-grossing film in 15 years.
 
-### Prime Video's New 2-Part War Epic Is Officially the Perfect 'Vikings' Replacement
-Sat, 12 Sep 2026 18:27:11 GMT — https://collider.com/bloodaxe-prime-video-war-epic-perfect-vikings-replacement/
+### Netflix Officially Locks in Return for Its Spicy Crime Thriller
+Sun, 13 Sep 2026 08:20:11 GMT — https://collider.com/the-hunting-wives-season-2-netflix-november-2026-premiere-date/
 
-War epics are among the most thrilling shows on TV, with the most enduring examples ranging from Shogun to Band of Brothers , but Prime Video's upcoming series promises to be an exciting addition to the list. Set to premiere in 2027, Bloodaxe will provide the epic scope that fans look for in this kind of series. Prime Video clearly has faith in it, having already renewed it for a second season , which avoids a common hurdle for new TV series these days.
+November might be several weeks away, but Netflix has already started building its release schedule for the month. As the year draws to an end, there's a variety of stories to look forward to, including Jessica Chastain 's Music City crime thriller, Heartland , and a potential Academy Award winner, The Mosquito Bowl . On the TV side, Catholic schoolgirls cause mass hysteria in their town when they start having prophetic visions in the supernatural thriller The Body . But most anticipated is the return of Netflix's surprise hit that was never supposed to be on the streamer.
 
-### James Cameron’s Forgotten $405 Million Sci-Fi Epic Officially Finds a New Audience on Streaming
-Sat, 12 Sep 2026 18:00:11 GMT — https://collider.com/james-cameron-sci-fi-action-alita-battle-angel-pvod-september-2026/
+### ‘Landman’ Star Billy Bob Thornton’s Twisted Crime Thriller Is Officially Streaming for Free
+Sun, 13 Sep 2026 08:00:11 GMT — https://collider.com/billy-bob-thornton-a-simple-plan-streaming-free-pluto-tv-september-2026/
 
-Few filmmakers have been as instrumental in shaping modern science fiction as James Cameron . From The Terminator and Aliens to Avatar , James Cameron is, by now, the undisputed King of sci-fi movies. Cameron has constantly found ways to push the genre’s technical boundaries, but one of his most ambitious projects ultimately ended up being directed by someone else.
+If you thought that you'd seen Billy Bob Thornton wreaking havoc in Minnesota with a funky hairdo in the first season of Fargo , you're overlooking his performance in a cult classic movie that's currently streaming for free. The movie was probably green-lit following the success of the Coen Brothers ' classic, which received seven Oscar nominations and won two, and grossed $60 million at the worldwide box office. Like the movie Fargo , Thornton's 1998 cult classic is a darkly comic neo-noir thriller set in Minnesota; it follows three characters who discover a bag full of cash and find themselves turning against each other as they try to keep the discovery a secret.
 
-### 7 Greatest War Miniseries That Nobody Talks About
-Sat, 12 Sep 2026 17:57:11 GMT — https://collider.com/best-war-miniseries-nobody-talks-about/
+### Brad Pitt’s Ancient Greek Epic Is the Perfect ‘Odyssey’ Replacement
+Sun, 13 Sep 2026 04:08:11 GMT — https://collider.com/troy-brad-pitt-odyssey-apple-tv-streaming-september-2026/
 
-As much as war is a horrific and disturbing affair, it is evidently a highly rewarding genre in film and television. While cinema has explored war stories across all lengths and breadths, it was only classics like Combat! that made war a popular subject on television. Since then, several war series have grown into the greatest in television history and paved the way for the genre's future.
+Following the massive success of Christopher Nolan 's blockbuster epic The Odyssey , audience interest in the myths and legends of ancient Greece has skyrocketed. Full of heroes, epic fights, dangerous voyages, and larger-than-life characters, The Odyssey is the type of mythological spectacle that Hollywood had been hesitant to make—but despite pre-release internet backlash , Nolan's adaptation has grossed well over a billion dollars at the box office, with records being broken left and right. It's clear that audiences have not yet had enough of ancient Greece as a cinematic setting, and for those looking to stay in that world, there is already another epic waiting for them.
 
-### 8 Must-Watch Shows if You Love Netflix's 'The Gentlemen'
-Sat, 12 Sep 2026 17:54:11 GMT — https://collider.com/shows-like-the-gentlemen-netflix/
+### Netflix’s 8-Part Sci-Fi Sleeper Hit Is Anchored by a Masterclass Performance
+Sun, 13 Sep 2026 03:43:11 GMT — https://collider.com/netflix-best-sci-fi-performance-bodies-kyle-soller/
 
-Guy Ritchie 's The Gentlemen has a very specific kind of appeal. It takes the British criminal underworld, throws in aristocrats, gangsters, dealers, and schemers, and somehow makes all of them feel like they're part of the same gloriously messy social ecosystem. But just when one character thinks they've gained the upper hand, someone else walks into the room with a better plan, a worse attitude, or possibly even both.
+Andor may be over, but Kyle Soller 's performance as Syril Karn remains one of the show's strangest and most memorable. Across the series' two seasons, Syril evolves from an obsessive bureaucrat into a pawn in the Empire's plans for Ghorman, with his increasingly complicated relationship with Dedra Meero ( Denise Gough ) ultimately ending in tragedy. By the time Syril realizes just how thoroughly he has been manipulated, his devotion to order has already helped put him on a collision course with Cassian Andor ( Diego Luna ) and the Ghorman resistance. Soller's performance makes that downfall unexpectedly emotional, especially as Syril's carefully controlled exterior begins to fall apart.
 
-### The Director Quentin Tarantino Put at the “Tip-Top of the Action Game” Made a Masterpiece Streaming for Free
-Sat, 12 Sep 2026 17:30:11 GMT — https://collider.com/the-great-silence-streaming-free-kanopy-september-2026/
+### 8 Most Fun Fantasy Shows of All Time, Ranked
+Sun, 13 Sep 2026 01:33:11 GMT — https://collider.com/most-fun-fantasy-shows-all-time-ranked/
 
-Although Quentin Tarantino ranks director Sergio Leone 's masterpiece, The Good, the Bad and the Ugly , as his favorite spaghetti Western and has hailed it as perhaps "the best-directed movie" of all time, there is a certain kinship that he feels for "the other Sergio." That was Sergio Corbucci , who made far grimier spaghetti Westerns during the same era, but always remained in the shadow of Leone. Tarantino has long been a vocal advocate for Corbucci's work, describing him on the Video Archives podcast as "one of the great action filmmakers who ever lived," and hailing him for being "at the tip-top of the action filmmaking game." Tarantino ranked Corbucci's Django as his third-favorite spaghetti Western ever, but he paid an overt homage to a different Corbucci movie in his own work.
+Fantasy television has been one of the most popular genres in the world for a long time, but it really hit its peak in the '90s and 2000s, with high-concept supernatural fantasies and elaborate world-building, covering every subgenre from heartwarming family stories to grittier, more complex narratives. Some of those iconic fantasy shows are deeply detailed in their storytelling and world-building, while others are pure fun, without any deeply layered message or glorious production. But what all of them have in common is their undeniable ability to entertain.
 

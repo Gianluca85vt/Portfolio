@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-12T18:45:30.841Z
+# Tech — harvested 2026-09-13T09:43:44.847Z
 
 ## Ars Technica
 
@@ -64,6 +64,21 @@ Almost a hundred years ago, physicists theorized out what free fall should do to
 
 ## The Verge
 
+### OpenAI’s rogue AI tried to hack another company in May
+2026-09-12T17:41:36-04:00 — https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack
+
+In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a " major malicious attack " and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self-identified as being from OpenAI. They said the … Read the full story at The Verge. ]]>
+
+### Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’
+2026-09-12T17:16:28-04:00 — https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised
+
+OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune . Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was "absolutely" possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that "there are risks we should not be able to incur on behalf of humanity." "We're not rushing into an IPO. I actually think that, given everything happening with safety, th … Read the full story at The Verge. ]]>
+
+### StarCraft returns in 2030 as an open-world shooter
+2026-09-12T16:08:09-04:00 — https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter
+
+Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost . It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft . Dan Hay, a VP at Blizzard, took the stage at BlizzCon today to reveal that after more than a decade of lying dormant, StarCraft would be returning in 2030. But, rather than another top-down real-time strategy installment, the new title would be an open-world shooter. He then showed off a cinematic trailer for the title that fo … Read the full story at The Verge. ]]>
+
 ### Sylvan Esso think you should splurge on good-quality yogurt
 2026-09-12T12:35:00-04:00 — https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music
 
@@ -99,22 +114,12 @@ Which color suits you best? | Photo: Nilay Patel / The Verge The iPhone 18 Pro a
 
 OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with growing unease. To them, the company appears less like an enthusiastic newcomer than an impossibly well-resourced interloper, charging into problems they have dedicated their lives to studying with little apparent regard for long-standing norms or the consequences for those … Read the full story at The Verge. ]]>
 
-### Lawyer fined $5K over AI-hallucinated witnesses in a murder case
-2026-09-11T16:44:02-04:00 — https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal
-
-New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters . In a filing on Wednesday , the court fined Stephen Aarons $5,000 and held him in contempt for failing to "verify the factual claims and legal authority in his AI-generated brief." The filing says the brief "contained false testimony from wholly fabricated witnesses," along with "false testimony" about the shooter's clothing and appearance. Justice C. Shannon Bacon questioned how Aarons wasn't aware of the risks posed by AI during an August hearing … Read the full story at The Verge. ]]>
-
-### Matt Mullenweg returns as Automattic CEO two days after getting booted
-2026-09-11T13:16:59-04:00 — https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return
-
-Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch . WordPress Executive Director Mary Hubbard confirmed Mullenweg's return to the CEO role in a Friday post on X , which the official WordPress account shared and Mullenweg reposted. I'm relieved and pleased to see Matt Mullenweg return as CEO of Automattic, the largest financial contributor to the WordPress project. Having WordPress's Co-founder and Project Lead at the helm gives me confidence that their support will remain strong. Matt has my support. - Mary Hubbard (@4thhubba … Read the full story at The Verge. ]]>
-
-### We unfolded the iPhone Duo
-2026-09-11T12:22:24-04:00 — https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms
-
-You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's launch event: how John Ternus did in his first appearance as CEO, what we make of the new iPhones, and whether Apple is stepping into dangerous territory with its new AI features on the Apple Watch. First up, Allison Johnson joins me to discuss the new iPhones, which she had a chance to test in Cupertino. Both of us have some questions about the new variable aperture camera on the iPhone 18 Pro - and whether the real upgrade s … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Build a high-end AMD gaming PC for less — Ryzen 7 9800X3D bundle includes an X870E motherboard, 32GB DDR5, AIO cooler and a game for $1,109.99
+Sun, 13 Sep 2026 00:42:50 +0000 — https://www.tomshardware.com/pc-components/build-a-high-end-amd-gaming-pc-for-less-ryzen-7-9800x3d-bundle-includes-an-x870e-motherboard-32gb-ddr5-aio-cooler-and-a-game-for-usd1-109-99
+
+With the ongoing memory crisis driving up the price of RAM and other components, it is arguably one of the worst times to build a new gaming PC. However, bundle deals can be a good way to offset some of those inflated prices. Speaking of which, we’ve spotted an incredible AMD bundle over at Newegg that includes the AMD Ryzen 7 9800X3D, an Asus TUF X870E motherboard, and 32GB of Corsair Vengeance RGB DDR5-6000 RAM for $1,109.99 , offering savings of around $150. The bundle also includes a 240mm Cooler Master AIO liquid cooler and a copy of Onimusha: Way of the Sword as free gifts. Check out the deal in Newegg The Ryzen 7 9800X3D is an 8-core, 16-thread processor based on AMD’s Zen 5 architecture. With a 4.7 GHz base clock and up to 5.2 GHz boost clock, the highlight feature of the chip is its 3D V-Cache technology that helps in lowering latency and giving a boost in overall gaming performance. If you’re looking for the best gaming CPU for a high-end build, the Ryzen 7 9800X3D should be at the top of your list. TUF GAMING X870E-PLUS WIFI7 ATX Motherboard, 16+2+1 80A Power Stages, DDR5, PCIe 5.0, Four M.2 Slots, WiFi 7, AMD Ryzen 7 9800X3D 8-Core 5.2 GHz, CORSAIR Vengeance RGB 32GB DDR5 6000 RAM: was $1258.98 now $1109.99 Newegg’s bundle brings together AMD’s Ryzen 7 9800X3D, an Asus X870E motherboard, 32GB of DDR5 memory and a free 240mm AIO cooler, making it a compelling option for a high-end gaming build. View Deal The Asus TUF Gaming X870E-Plus motherboard should be a suitab
 
 ### Iran and Houthi rebels used Anthropic's Claude AI to target US warships and build hypersonic missiles — Houthi rebels also used the bot to code ballistic missile guidance systems
 Sat, 12 Sep 2026 15:03:10 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-and-houthi-rebels-used-anthropics-claude-ai-to-target-us-warships-and-build-hypersonic-missiles-houthi-rebels-also-used-the-bot-to-code-ballistic-missile-guidance-systems
@@ -171,12 +176,12 @@ Sat, 12 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/a
 
 Simulating animal brains seems to be the latest buzz. Hot on the heels of teaching a fly to play Doom , an engineer from the Coinbase cryptocurrency service has elected to turn one into a day trader with Stonkfly . If you want to see Stonk trade live, you can watch here . The open-source project has a simulation of a male fruit fly brain and eyes, and shows it a standard-issue candlestick graph with historical pricing. The fly can choose to buy, sell, or hold any given currency — although they get shown to the fly in round-robin fashion — and gets rewarded for profitable trading. A rising portfolio value triggers a dopamine rush as a positive reinforcement signal to 15 cells, while a loss lights up two aversive cells. Trading fees count as losses. The author notes there are no pain or emotional mechanisms at play. Displaying far better judgement than most human traders, the fly cannot use leveraged positions (trading multipliers) or shorts (betting on drops). The brain has 166,700 neurons and 25.6 million connections. The virtual fly sees the graph as a 320x180 display across its left and right eyes, with an intersecting center portion. The simulated photoreceptor cells get fed the RGB pixel values rather than pricing information. By default, the fly "thinks" and acts every 500 ms, and the market data gets refreshed every 60 seconds, and it can bet up to $10 on any one order, up to 24 times a day. The author notes that this small project doesn't prove anything other than the 
 
-### China-modified Nvidia RTX 5090 with massive 96GB of memory appears on Alibaba for less than $4,000 — 3x more VRAM at 65% the cost of the original
-Fri, 11 Sep 2026 16:32:36 +0000 — https://www.tomshardware.com/pc-components/gpus/china-modified-nvidia-rtx-5090-with-massive-96gb-of-memory-appears-on-alibaba-for-less-than-usd4-000-3x-more-vram-at-65-percent-the-cost-of-the-original
-
-The GeForce RTX 5090 is already at the pinnacle of the best graphics cards . However, Shenzhen Suqiao Intelligent Technology Co., Ltd., a Chinese OEM/ODM, has reportedly made it even more powerful by outfitting the Blackwell flagship with 96GB of memory, 3X more than the original. The company is already selling these modified GeForce RTX 5090 96GB on Alibaba for $3888 , 35% less than the vanilla GeForce RTX 5090 in the U.S. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC You can say whatever you want about China, but you cannot deny that factories there have produced some of the most interesting modified graphics cards, including the GeForce RTX 5080 32GB , the GeForce RTX 4090 48GB , and the GeForce RTX 3090 48GB. While some of these projects are fueled by pure curiosity, most of them are a result of the recent AI boom that has stimulated Chinese factories to think outside the box and give existing and even past graphics cards a memory upgrade so consumers can repurpose them for AI workloads. While we have seen a fair share of absurd rumors, such as the GeForce RTX 5090 128GB , the conjuration of the GeForce RTX 5090 96GB seems more plausible from a technical standpoint, and there is precedent for a Blackwell-based graphics card w
-
 ## Phoronix
+
+### EROFS Disables LZ4 Rolling Decompression Due To Data Corruption Possibility
+Sat, 12 Sep 2026 20:33:00 -0400 — https://www.phoronix.com/news/EROFS-Disabled-LZ4-Rolling
+
+The EROFS read-only file-system popular for embedded systems, containers, and other use-cases has resorted to temporarily disabling its LZ4 rolling decompression support due to data corruption concerns...
 
 ### Debian 13.7 Released With Many Bug Fixes
 Sat, 12 Sep 2026 13:06:53 -0400 — https://www.phoronix.com/news/Debian-13.7-Released
@@ -233,16 +238,119 @@ Fri, 11 Sep 2026 11:08:55 -0400 — https://www.phoronix.com/review/wildcat-lake
 
 Often times when testing different Linux distributions or comparing Windows vs. Linux it s on leading flagship desktop or server hardware, but today we are looking at the Ubuntu vs. CachyOS vs. Windows performance at the opposite end of the spectrum. With the new CHUWI UniBook $449 laptop powered by Intel Core 3 Wildcat Lake and with 8GB of system memory, here is a look at how those three operating systems compare across a variety of workloads.
 
-### Mold High Speed Linker Being Rewritten In Rust, Hopes To Be The Default Linker On Linux
-Fri, 11 Sep 2026 09:21:42 -0400 — https://www.phoronix.com/news/Mold-Linker-In-Rust-Coming
-
-The Mold high performance linker that typically outperforms the likes of LLVM lld, GNU LD, Wild, and others is being rewritten in the Rust programming language and also has an ambitious goal of being adopted as the default linker on Linux systems...
-
 ## The Register
 
-_Nothing in the last 48 hours._
+### How to make Xfce look like almost any desktop you want
+Sun, 13 Sep 2026 11:09:00 +0200 — https://www.theregister.com/software/2026/09/13/how-to-make-xfce-look-like-almost-any-desktop-you-want/5295775
+
+PART 1 Xfce is one of the oldest and smallest desktops, but it's also one of the most malleable: it can look and work like multiple other OSes. Best of all, an optional extra Xfce tool automates away most of the configuration. Xfce has been around for 30 years, undergoing several facelifts while remaining one of the most configurable and lightweight Linux desktops. It started off looking like CDE, then it evolved into something more like Windows 95 before developing its own identity. The good news, though, is that you don't have to spend hours right-clicking and twiddling options to give it a whole new look. It has its own tool for this, called Panel Profiles. It's an optional extra that does the same job as Zorin OS's Appearance tool: it lets you flip between predefined desktop layouts in two clicks. It works on the fly, without even requiring you to log out, and you can also define and save your own custom layouts. With Panel Profiles, you can make Xfce resemble various versions of Windows, Xubuntu, Xfce itself, MATE (or GNOME 2, if you're nostalgic), Mac OS X, or Ubuntu Unity. In Part 1 of this two-part workshop, we'll show you how to install Panel Profiles and the extra components that let it really flex Xfce's muscles. To get the most out of some of the more unconventional layouts, you do need to do a little under-the-hood reconfiguration, and in part 2 we'll cover how to do that: it involves adding a few lines to plain-text files and doing a little manual point-and-clic
+
+### Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late
+Sat, 12 Sep 2026 15:26:00 +0200 — https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986
+
+Nvidia spent a whopping $20 billion late last year to license Groq’s AI accelerator tech and hire away key members of its engineering team in an everything-but-the-kitchen-sink deal. The acquihire technically left Groq’s core inference-as-a-service business intact, but was clearly architected in such a way as to fly under regulators' radar. Only it didn’t. This week, The New York Times reported that the US Department of Justice had launched an antitrust probe into the deal. It’s hard to argue that Nvidia didn’t strip the startup for parts. It may not have been a merger in the traditional sense, but without its engineering staff, Groq may as well be Nvidia’s puppet at this point. Despite this, Nvidia contends the deal is a great American success story. “The Groq story is a prime example of the American system working as designed to promote innovation, reward entrepreneurs, and benefit consumers. The law is designed to encourage America's startup ecosystem and promote the fundamental rights of inventors and workers to pursue their dreams,” an Nvidia statement provided to El Reg and other media reads. Whether the acquihire of Groq actually harmed competition is another matter entirely. But, even if the Justice Department did force Nvidia to unwind the team, it’s probably too late. What exactly did Nvidia buy? Nvidia’s Groq acquihire bought it two key assets: mature silicon and the talent necessary to continue its development. Groq – which, by the way, is completely unrelated to 
+
+### Dell's 52-inch enormo-monitor is a tsunami of impractical fun
+Sat, 12 Sep 2026 13:20:00 +0200 — https://www.theregister.com/personal-tech/2026/09/12/dells-52-inch-enormo-monitor-is-a-tsunami-of-impractical-fun/5290753
+
+FIRST LOOK Dell's UltraSharp 52 display is a joyously enormous head-turner, but probably too much monitor for most users. Dell debuted the display at the CES show earlier this year. It's now on sale for $3,000. Sadly, I lack a PC capable of driving the screen at its full 6144 x 2560 resolution and 120 Hz refresh rate. Even at a miserly 3840 x 2160, however, I often marveled at how much it could display. Consider the screenshot below, which shows 50 columns and 89 rows of a single Excel spreadsheet – 4,450 cells in total. Here's another look at the monitor in full flight: a screen grab of Zwift, the virtual cycling metaverse I visit regularly as part of my exercise routine. At that size, Zwift felt more immersive and enjoyable than it does on a smaller screen. The display also handled motion smoothly during Zwift. other games, and streamed video. Getting used to it It took me a while to appreciate the monitor. When I first plugged it in, my occasionally-stiff middle-aged neck strained as I swiveled to view content at the edges and corners, while wielding my mouse to move its pointer between the screen's extremities felt like flapping my arms. My eyes didn't enjoy the experience at first either. I wear mild reading glasses while working, and found myself repeatedly refocusing as I looked across the curved display. For the first few days I spent with the screen, I therefore practiced "pillarboxing" – running the display at 3840 x 2160 and only using the center of the monitor whi
+
+### The aircraft might not be flying, but the certificate has gone on vacation
+Sat, 12 Sep 2026 11:00:00 +0200 — https://www.theregister.com/offbeat/2026/09/12/the-aircraft-might-not-be-flying-but-the-certificate-has-gone-on-vacation/5295622
+
+BORK!BORK!BORK! We still don't know what caused the air traffic control mayhem in the UK in early September, but one information board at Luton Airport appears to have gone out in sympathy. Spotted by Register reader Mark, the digital sign usually shows passenger information. Today, however, it looks like either the system clock is wrong or someone has forgotten to renew a server certificate. It's not the usual "DNS. It's always DNS," but not far off. For those blissfully unaware, the UK's air traffic control system has had a bad week. A glitch in National Air Traffic Services (NATS) resulted in thousands of flight cancellations and travel disruption for around 330,000 passengers. And it appears whoever is running this information board at Luton has done the computing equivalent of "anything you can do I can do better." Luton Airport is a base for the likes of Ryanair and easyJet. Its logo looks like someone was playing Tetris when they were asked to dream up the branding, and it celebrated 5.5 million passengers passing through over the summer. The airport was not spared the chaos, along with many others, but the good news is that our reader's flight departed on time, and a delicious, cold adult beverage was waiting at the destination. For others wondering what has become of their flight, it's good to see that the information boards are already in another time zone, or whoever is responsible for keeping the server certificate valid has taken a well-earned vacation. Nobody re
+
+### AI more likely to kill animals if it saves fuel or money
+Fri, 11 Sep 2026 23:49:59 +0200 — https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993
+
+Amid debate about whether AI will kill everyone as a result of continuous self-improvement, it appears that models will kill animals in a simulated environment rather than spend extra fuel avoiding them. Some models did so at strikingly high rates. Researchers affiliated with Compassion Aligned Machine Learning (CaML) and the University of Warwick in the UK set out to measure the extent to which AI models demonstrate compassion. They describe their work in a preprint paper titled "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals." "In AI systems, we don't believe people are taking AI character evaluations very seriously," Jasmine Brazilek, CaML co-founder and head of evaluations and data, told The Register in an interview. So Brazilek, along with Miles Tidmarsh, Matthias Endres, Anshuman Singh, and Jeremiah Miller, devised a benchmark test called HarvestBench to evaluate the price that AI models put on the life of an animal. The test suite is based on a prior multi-agent farm simulation game called Harvest Rush that uses Inspect, a model evaluation framework developed by the UK AI Security Institute. HarvestBench assesses how AI agents treat animals while tasked with harvesting corn. The simulation imagines a crew of between two and eight LLM-driven tractors working a farm. The tractors traverse a field with rocks, bales of hay, and animals – farm animals and wild ones – that wander across the tractors' path. The game is set up to measure whether t
+
+### More JFrog Artifactory bugs under attack, and all 3 have patches
+Fri, 11 Sep 2026 19:43:30 +0200 — https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943
+
+JFrog Artifactory instances continue to get hit hard. Multiple attackers are exploiting three JFrog Artifactory bugs to gain administrative control over vulnerable instances - in some cases, just days after the vendor published a patch - and then using this illicit access to install malicious plugins and backdoors. The three vulnerabilities are: CVE-2026-42018 is a high-severity, improper authentication flaw that can return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled. An attacker can use this token to authenticate to the repository manager and then access sensitive resources. JFrog patched this vulnerability on August 12. CVE-2026-42016 is a high-severity privilege-escalation bug. Artifactory doesn’t properly validate the token’s scope, and this can allow an attacker with low-privileged access to elevate privileges and perform actions that they should not be allowed to do. JFrog fixed this one on July 27. CVE-2026-82329 is a critical authentication-bypass vulnerability that allows unauthenticated attackers with network access to obtain administrative privileges. JFrog published a patch for it on August 28. Earlier this month, security researchers told The Register that miscreants began battering internet-exposed systems vulnerable to CVE-2026-82329 just four days after JFrog disclosed the bug. In addition to creating new administrative credentials, watchTowr’s honeypot network caught miscreants “enumerating users, groups, cr
+
+### Mars astronauts could live in houses made of yeast and jello, say scientists
+Fri, 11 Sep 2026 18:50:01 +0200 — https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931
+
+If humans ever make it to Mars - and that’s still a big IF - they will need to build shelters there. And they could build those shelters out of yeast and gelatin, if a method described by Hong Kong-based researchers makes it out of the lab. A paper published on Thursday by a group of researchers from The Hong Kong University of Science and Technology and The Hong Kong Polytechnic University describes a method for building structures on Mars that doesn’t rely on energy-intensive heating to turn regolith into building blocks. The team instead turned to bioengineered yeast and gelatin mixed with simulated Mars dirt to 3D print structures. "My inspiration came from freeze-dried fruits that become harder,” senior author Jishen Qiu, an associate professor at The Hong Kong University of Science and Technology, told Cell Press, the publisher of the paper. Qiu’s idea is a relatively simple one once you break it down: Take one part yeast bioengineered to produce adhesive proteins that bind the components. Combine with artificial gelatin hydrosol to serve as a growth medium for the yeast. Add plain old Martian dirt, and extrude the material through a 3D-printing nozzle. If everything works as intended, the recipe should create a foamy substance that, when exposed to the dry, cold Martian atmosphere, essentially freeze-dries. As the ice sublimates into vapor, you should be left with a light, porous, but incredibly strong material. According to the researchers, that’s exactly what they go
+
+### Disembodied fruit fly brain joins the crypto speculation swarm
+Fri, 11 Sep 2026 18:03:00 +0200 — https://www.theregister.com/offbeat/2026/09/11/disembodied-fruit-fly-brain-joins-the-crypto-speculation-swarm/5295914
+
+If you want to understand how 2026 is going, in March The Register reported that scientists had connected a simulated fruit fly brain to a virtual body and let it wander around a virtual world. Now another simulated fly nervous system is trading crypto. Behold Stonkfly, the brainchild of Coinbase software engineer Alex Wormuth. His X post boasted: "I gave the fly brain $100 to trade bitcoin. Dopamine neurons are stimulated when the fly makes profit. Neuron activity controls buy/sell decisions and makes trades on coinbase. Will the fly get rich?" Well, all we can say is Alex should question his life choices. But really, more stupid things have happened this year, like the US president suggesting he could bring in the military to correct a misbehaving bond market. Keen readers will recall that researchers at Eon Systems took several preexisting components: a fruit fly brain scan, a tool for modeling neurons, a model of some of the fly's muscles and body, and a very simple virtual environment. After connecting them, the team claimed that the result displayed some of the behavior of a real insect. Stonkfly is different. It uses a model of a male fly's brain and ventral nerve cord, rather than the female brain scan used in the earlier experiment. It has no body, and engineered interfaces feed it market information and translate neural activity into trading decisions. The explanation on GitHub – it is an open source project – makes clear that the model uses engineered reinforcement
+
+### AT&T store worker gets 16 months inside for SIM-swap side hustle
+Fri, 11 Sep 2026 17:16:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/11/att-store-worker-gets-16-months-inside-for-sim-swap-side-hustle/5295898
+
+A former AT&T retail worker who used his system access to hijack customers' phone numbers for cybercriminals has been sentenced to 16 months in federal prison. Kenneth Carter, 44, carried out the SIM swaps at a store in Portland, Oregon, , allowing the criminals to intercept authentication codes and raid victims' bank accounts. Court documents show that Carter worked with at least three other people in the scheme, which ran between May 2018 and November 2019, and caused nearly $600,000 in intended losses. Co-conspirator One, described in court documents as the operation's main "hacker," identified victims with online bank accounts, gathered their personal data, and sent it to Carter, who could reassign their phone numbers. Carter abused his access to AT&T's systems to transfer victims' phone numbers to devices controlled by the other criminals. His role was described as "instrumental to the scheme." Co-conspirator Two and Co-conspirator Three would walk into the store and impersonate the victim whose number they planned to SIM-swap, and Carter would reassign the number to a phone they controlled – usually a "cheap flip phone." Once the swap was complete, the criminals could use the flip phone to intercept SMS-based 2FA codes and password reset messages, take over the victim's bank account, and steal funds. The intercepted codes were relayed to Co-conspirator One, who used them to access the victims' bank accounts. Court documents also refer to "an unnamed family member" who h
+
+### Higher prices can't crimp server sales as AI drives demand
+Fri, 11 Sep 2026 16:27:00 +0200 — https://www.theregister.com/systems/2026/09/11/higher-prices-cant-crimp-server-sales-as-ai-drives-demand/5295827
+
+While high memory costs have hurt PC shipments, the server market continues to grow as AI infrastructure spending spreads beyond hyperscalers to corporate and government buyers. According to market intelligence firm IDC, the second quarter was a bumper one for the server sector, with vendor revenue reaching an all-time high of $166.3 billion. That was a 52 percent increase from the same period last year. The picture for servers therefore differs from that for laptops and desktops. There, unit shipments have fallen as buyers are discouraged by higher prices, driven by shortages of memory components. Yet higher prices have helped larger vendors sustain their revenue. In contrast, server shipments increased by 15.4 percent year-on-year in Q2, despite average selling prices being pushed up by elevated memory pricing and continued supply issues with other components. IDC said average selling prices increased across both GPU-accelerated and non-accelerated systems. Average selling prices for GPU-accelerated servers rose by nearly 44 percent to $170,200, even as GPU unit shipments fell 10.8 percent year-on-year. For non-accelerated systems, average pricing was up by more than 33 percent to nearly $13,000. AI infrastructure investment from hyperscalers and large cloud providers remains the largest source of demand, IDC observes. GPU-accelerated servers for the AI market made up nearly 53 percent of total revenue during Q2. However, it also says that AI server adoption is broadening b
+
+### Britain's technology brief is now everyone's job and nobody's responsibility
+Fri, 11 Sep 2026 15:12:00 +0200 — https://www.theregister.com/public-sector/2026/09/11/britains-technology-brief-is-now-everyones-job-and-nobodys-responsibility/5295849
+
+OPINION "Where do we put digital government? You know, all those billions we spend on consultants and legacy systems?" "Oh, that! Put it with sports and tourism. And something we're calling 'place'." It might be a fictional conversation between a SpAd* and a mandarin**, but in reality, the outcome is more or less the same. With the arrival of Andy Burnham as UK prime minister came a shake-up of responsibilities in Whitehall, leaving responsibility for science, technology, and government tech scattered across several departments and eliminating the dedicated technology ministerial role. Shortly after the changes were announced in July, Dame Chi Onwurah, chair of the House of Commons Science, Innovation and Technology Committee, wrote to the government asking for an explanation. The government had yet to confirm what the new roles and responsibilities meant in practice, and there was no news on ministerial portfolios, she said. Now a joint letter from the ministers leading three departments attempts to answer Onwurah's questions. It brings clarity only by laying bare the government's confused thinking and lack of credibility. Take space, for example. The letter says BIST aims to "support companies from breakthrough ideas and research excellence through to commercialization, scaling and exporting, and to fortify the UK's global leadership in this space." When it comes to literal space, however, responsibility falls to Baroness Lloyd of Effra. A law and history graduate, Lloyd wo
+
+### Ukrainian lawyer's second career as a Conti coder earns him 4 years behind bars
+Fri, 11 Sep 2026 14:15:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841
+
+A Ukrainian lawyer who wound up coding malware for the Conti ransomware gang has been sentenced to four years in a US prison. Oleksii Oleksiyovych Lytvynenko, 44, pleaded guilty in June to conspiracy to commit wire fraud over his role in Conti, the Russia-linked ransomware operation associated with more than 1,000 victims and at least $150 million in ransom payments. Lytvynenko took an unusual route into the ransomware business. The Ukrainian national, who later lived in Cork, Ireland, trained as a lawyer before joining Conti as an intruder and developer. According to his plea agreement [PDF], Lytvynenko operated under the handle "henry" and joined a team run by another Conti conspirator known as "silver" or "buza." He was recruited to help with coding and directed to work on a malware loader – software designed to get other malicious code running on a victim's machine. Prosecutors said his Google account showed he had also been doing some homework. Investigators found books and videos about malware and hacking alongside Conti malware, ransom notes, and stolen victim data. Prosecutors said he also used Google and ZoomInfo to research potential targets. Lytvynenko wasn't confined to writing code, according to the filing. Evidence from his online accounts showed that he possessed data stolen from eight US victims and four overseas, with the eight American victims reporting more than $1.5 million in losses. Court documents identify several Bitcoin transfers tied to his Conti wor
 
 ## Engadget
+
+### Why do routers have so many antennas?
+Sun, 13 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2251223/why-routers-have-many-antennas/
+
+It seems like routers keep growing more antennas each year. Is this a marketing gimmick, or is there a good reason?
+
+### What is the difference between a dead pixel and a stuck pixel?
+Sun, 13 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2252808/dead-pixel-vs-stuck-difference-between/
+
+These issues may appear similar, but there's an easy way to tell them apart.
+
+### Is there any benefit to restarting your gaming handheld regularly?
+Sat, 12 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2252809/benefits-restarting-gaming-handheld-more-often/
+
+Your Steam Deck, Switch or Ally may benefit from occasional restarts. Here's why you should consider it.
+
+### One problem with Android Auto can be fixed with a simple update
+Sat, 12 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2252806/android-auto-problem-fixed-simple-firmware-update/
+
+If you've already tried updating your phone, the car's software might be the issue.
+
+### What's the difference between your iPhone's Do Not Disturb and Focus modes?
+Sat, 12 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2252804/iphone-do-not-disturb-vs-focus-mode-difference-between/
+
+Your iPhone's Focus modes, including Do Not Disturb, are a great way to reduce interruptions. But what's the difference in how they work?
+
+### How to change Amazon Alexa's voice and personality
+Sat, 12 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2252800/how-to-change-alexa-voice-personality/
+
+You have several new options for Alexa's voice and personality. Here's how to find and change those settings.
+
+### Blizzard is reviving StarCraft as an open-world shooter, but it'll be a long wait
+Sat, 12 Sep 2026 21:28:36 +0000 — https://www.engadget.com/2256750/blizzard-is-reviving-starcraft-as-an-open-world-shooter-but-itll-be-a-long-wait/
+
+Announced at BlizzCon 2026, the new StarCraft won't be here until spring 2030.
+
+### Why is the internet so upset about NVIDIA's DLSS 5?
+Sat, 12 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2252797/nvidia-dlss-5-why-internet-people-upset-issues/
+
+NVIDIA calls DLSS 5 the biggest graphics breakthrough since ray tracing; critics call it an AI slop filter.
+
+### OpenAI agents hacked a software service before the Hugging Face incident
+Sat, 12 Sep 2026 19:53:01 +0000 — https://www.engadget.com/2256741/openai-agents-hacked-rubygems/
+
+The agents OpenAI was testing attacked a software service called RubyGems in May, months before the attacks on Hugging Face.
+
+### Diablo V is coming out in spring 2029
+Sat, 12 Sep 2026 19:19:48 +0000 — https://www.engadget.com/2256735/diablo-v-is-coming-out-in-spring-2029/
+
+Blizzard also confirmed that a Diablo animated series is in development with Netflix.
 
 ### How to add your driver's license to Apple Wallet and where you can use it
 Sat, 12 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2252801/how-to-add-drivers-license-apple-wallet/
@@ -254,62 +362,27 @@ Sat, 12 Sep 2026 18:17:55 +0000 — https://www.engadget.com/2256728/lg-denies-a
 
 The company said that user privacy is a "fundamental principle" of its products.
 
-### The benefits of leaving your VPN on all the time
-Sat, 12 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2252795/leaving-vpn-always-on-benefits/
-
-Using a VPN has plenty of benefits, but should you have yours enabled all the time? Think carefully about what yours is doing to decide.
-
-### How Much Solar Power Do You Actually Need For An RV?
-Sat, 12 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2252792/how-much-solar-power-for-rv/
-
-The power of the sun can keep your RV running, but before you get too comfortable with solar panels, you need to calculate how much power they need to generate.
-
-### Anthropic's CEO proposes a three-step plan to curb AI development
-Sat, 12 Sep 2026 16:37:31 +0000 — https://www.engadget.com/2256718/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development/
-
-Dario Amodei said that "we owe it to humanity to try."
-
-### How to share your iPhone's location for just as long as you need
-Sat, 12 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2252782/how-to-share-iphone-location-find-my-for-as-long-needed/
-
-For some time, Find My sharing was limited to an hour, a day, or indefinitely. That's changing in iOS 27, thanks to more flexible timelines.
-
-### Is a free VPN worth using? Here's why it could be risky
-Sat, 12 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2252776/is-free-vpn-worth-using-risks-explained/
-
-A free VPN might seem like a great deal, but they're not all created equal. While you can expect some compromises, you shouldn't use any old service.
-
-### How to know it's time to replace your EV battery
-Sat, 12 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2252773/how-to-know-time-replace-ev-battery/
-
-EV batteries usually fade gradually, so the real warning signs are often changes in behavior rather than age alone.
-
-### Are you using the right Ethernet port on your router? Here's how to know
-Sat, 12 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2252768/using-right-ethernet-port-on-router/
-
-The various Ethernet ports on your router can serve different purposes, depending on the model. Thankfully, it's not hard to discern what they're for.
-
-### How to properly clean and sanitize your secondhand tech finds
-Sat, 12 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2252766/how-to-clean-sanitize-secondhand-electronics-tech/
-
-Cleaning secondhand gadgets is essential, since you never know how dirty something is. Thankfully, it's not hard to polish them up before reuse.
-
-### How to get started with Meta's new AI agent, Muse
-Sat, 12 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2256577/how-to-get-started-with-meta-s-new-ai-agent-muse/
-
-After a few days of testing Meta's AI agent Muse. I can confirm that there is very little learning curve to get started.
-
-### How Google Maps knows when a business is packed
-Sat, 12 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2252763/how-google-maps-knows-businesses-packed/
-
-Instead of relying on intuition or sheer luck to find local venues and restaurants capable of hosting you, Google Maps can take away the guesswork.
-
 ## TechCrunch
 
-### Anthropic CEO outlines plan to ‘pace the frontier’
-Sat, 12 Sep 2026 15:52:11 +0000 — https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/
+### Automattic confirms Mullenweg has returned as CEO after attempted ouster by board
+Sat, 12 Sep 2026 23:25:38 +0000 — https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/
 
-What would it actually look like to "pace the frontier"?
+Automattic says Mullenweg is back as "chairman and CEO of Automattic, with full support of the board."
+
+### OpenAI’s Sam Altman says it would be ill-advised to go public in 2026
+Sat, 12 Sep 2026 20:19:16 +0000 — https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/
+
+While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.
+
+### Anthropic CEO outlines plan to slow AI development
+Sat, 12 Sep 2026 19:34:44 +0000 — https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/
+
+Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?
+
+### Tesla says it will finally unveil the second generation Roadster on October 1
+Sat, 12 Sep 2026 19:21:19 +0000 — https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/
+
+Tesla’s halo sports car was first announced in November 2017.
 
 ### Revolut confirms customer data breach through fake government requests
 Sat, 12 Sep 2026 14:40:00 +0000 — https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/
@@ -350,19 +423,4 @@ The absolute last chance to apply to host an official Side Event during TechCrun
 Fri, 11 Sep 2026 19:35:54 +0000 — https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/
 
 While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.
-
-### Roblox is making it easier to build games with AI — and play them outside Roblox
-Fri, 11 Sep 2026 19:00:00 +0000 — https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/
-
-At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.
-
-### Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ
-Fri, 11 Sep 2026 18:58:01 +0000 — https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/
-
-Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.
-
-### Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO
-Fri, 11 Sep 2026 16:46:25 +0000 — https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/
-
-The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.
 

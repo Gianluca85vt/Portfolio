@@ -1,4 +1,4 @@
-# Review radar — updated 2026-09-12
+# Review radar — updated 2026-09-13
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,16 +20,16 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Train Sim World® 7 | Dovetail Games - TSW | 2026-09-15 | 3d | 2026-09-14 | €49.99 |
+| Train Sim World® 7 | Dovetail Games - TSW | 2026-09-15 | 2d | 2026-09-14 | €49.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| iRacing® Studios NASCAR 26 | iRacing.com Motorsport Simulations, LLC | 2026-09-17 | 5d | 2026-09-16 | €59.99 |
-| SILENT HILL: Townfall | KONAMI,  Annapurna Interactive | 2026-09-23 | 11d | 2026-09-22 | €49.99 |
-| EA SPORTS FC 27 | Electronic Arts | 2026-09-24 | 12d | 2026-09-23 | €69.99 |
-| CONTROL Resonant | Remedy Entertainment | 2026-09-24 | 12d | 2026-09-23 | €59.99 |
+| iRacing® Studios NASCAR 26 | iRacing.com Motorsport Simulations, LLC | 2026-09-17 | 4d | 2026-09-16 | €59.99 |
+| SILENT HILL: Townfall | KONAMI,  Annapurna Interactive | 2026-09-23 | 10d | 2026-09-22 | €49.99 |
+| EA SPORTS FC 27 | Electronic Arts | 2026-09-24 | 11d | 2026-09-23 | €69.99 |
+| CONTROL Resonant | Remedy Entertainment | 2026-09-24 | 11d | 2026-09-23 | €59.99 |
 
 ---
 
