@@ -21,7 +21,6 @@ scoreSources:
     score: 6
   - outlet: DualShockers
     score: 5
-draft: true
 ---
 
 The way most people found out that NHL 27 ships generative AI voice was a
