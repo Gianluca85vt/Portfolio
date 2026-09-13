@@ -4,7 +4,6 @@ date: 2026-09-13
 category: Games
 excerpt: Polyarc shut on 11 September with 29 people out. The art discipline Moss was built on was the right answer to a platform that stopped paying for it.
 cover: /img/blog/polyarc-closes-moss-vr-native-art/shot-01.jpg
-draft: true
 ---
 
 The closure notice went up on LinkedIn on 12 September, a day after the studio
