@@ -1,0 +1,10 @@
+{
+  "slug": "nhl-27-review",
+  "youtubeId": "OCIx-zOwCBc",
+  "urls": [
+    "https://i.ytimg.com/vi/OCIx-zOwCBc/maxresdefault.jpg"
+  ],
+  "credit": "EA Sports NHL, from the official NHL 27 Gameplay and Presentation Deep Dive",
+  "comparison": false,
+  "note": "NHL 27 is PS5 and Xbox Series X|S only, so there is no Steam page and no steamAppId. ea.com, news.ea.com, xbox.com and youtube.com are all blocked from the writing sandbox, and the YouTube oembed endpoint returned nothing, so no image URL or video id could be confirmed from here. OCIx-zOwCBc is the id whose title matches EA Sports NHL's own naming for the 25 August deep dive; a competing id (vaWu8EhmBKQ) carries the 'Official ... Trailer' phrasing that usually marks an outlet mirror, so it was not used. If OCIx-zOwCBc does not resolve, this article has no cover and must stay a draft until a press asset is sourced by hand. No review video was used because no reviewer channel could be verified from the sandbox."
+}
