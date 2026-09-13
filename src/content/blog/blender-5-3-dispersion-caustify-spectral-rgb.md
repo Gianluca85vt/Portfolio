@@ -27,6 +27,11 @@ converted through the CIE 1931 colour matching functions.
 
 ## The comparison everyone is making is out of date
 
+<figure>
+  <img src="/img/blog/blender-5-3-dispersion-caustify-spectral-rgb/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Dispersion prism, via Wikimedia Commons (Creative Commons)</figcaption>
+</figure>
+
 The framing going round with it is that Cycles fakes dispersion by nudging the
 IOR per RGB channel. That described what *artists* did, for about a decade:
 split the glass into three BSDFs, offset each one's IOR a hair, mix them back
