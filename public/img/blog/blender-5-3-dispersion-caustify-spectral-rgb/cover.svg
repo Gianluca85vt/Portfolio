@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#1F6F5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" fill="#7FE3C4" font-family="Helvetica,Arial,sans-serif" font-size="30" letter-spacing="6">DISPERSION</text>
+  <text x="80" y="345" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="170" font-weight="bold">380–780</text>
+  <text x="80" y="415" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="50" font-weight="bold">nanometres, one per path</text>
+  <text x="80" y="490" fill="#B9F2DF" font-family="Helvetica,Arial,sans-serif" font-size="34">Caustify converts at CIE 1931.</text>
+  <text x="80" y="540" fill="#B9F2DF" font-family="Helvetica,Arial,sans-serif" font-size="34">Cycles 5.3 hands it back to RGB.</text>
+</svg>
