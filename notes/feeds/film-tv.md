@@ -1,110 +1,150 @@
-# Film & TV — harvested 2026-09-13T14:40:30.438Z
+# Film & TV — harvested 2026-09-13T18:57:12.559Z
 
 ## Variety
 
-### TIFF 2026: 20 International Titles to Track, From Feng-I Fiona Roan’s Shuhua Starrer to a Taxidermy Musical and a John Madden Parkinson’s Rom-Com
-Sun, 13 Sep 2026 14:29:44 +0000 — https://variety.com/2026/film/global/tiff-2026-20-international-titles-to-track-1236860336/
+### ‘Diary of a Mad Old Man’ Review: Wayne Wang and Fan Bingbing Unintentionally Find the Boredom in Sex and Death
+Sun, 13 Sep 2026 18:57:04 +0000 — https://variety.com/2026/film/reviews/diary-of-a-mad-old-man-review-1236860647/
 
-Helen Mirren, Laura Linney, Rhys Ifans, Erin Doherty and James McAvoy star in three of the biggest U.K. titles world premiering at Toronto and making Variety’s 2026 selection of 20 International Titles to Track at this year’s Toronto.Jodie Comer sings (very creditably Variety suggests), in a fourth U.K. package, gothic rom-com “Stuffed” as romance takes [ ]
+Given its premise — a post-stroke retiree derives sexual pleasure from his daughter-in-law — the perverse qualities of Jun’ichirō Tanizaki’s classic “Diary of a Mad Old Man” are plentiful. But by the standards of contemporary mores, the 1961 novel isn’t particularly explicit; in his first feature since 2019, Wayne Wang initially takes a different approach, [ ]
 
-### ‘Your Mother Your Mother Your Mother’ Star Adia On Film Debut Opposite Mahershala Ali, Getting Certified as a Doula: ‘Birth Work Fills My Soul’
-Sun, 13 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/features/your-mother-your-mother-your-mother-adia-mahershala-ali-doula-1236859117/
+### Christian Bale Opens 11,000-Square-Foot Foster Care Facility in Palmdale: Turn Their Heartbreak and Their Pain into Love
+Sun, 13 Sep 2026 18:48:54 +0000 — https://variety.com/2026/film/actors/christian-bale-opens-foster-care-village-1236860641/
 
-Twenty-five-year-old newcomer Adia never really imagined becoming a movie star. Growing up, she was focused on becoming a professional dancer before a hip injury derailed that dream. That’s when the high school senior discovered acting. “I decided to take an acting class, just to try it out and see if that would be comparable or [ ]
+Christian Bale hung up his Batsuit in 2012, but “The Dark Knight” star is still saving lives with his Together California foster care village in Palmdale, California, which opened on Friday, according to ABC 7. The facility aims to keep siblings entering the foster care system together – a circumstance that is not always guaranteed. [ ]
 
-### Jeremy Thomas Remembered as a Filmmaker Full of Stories and a Rebel With Taste : The Canon of His Work Is Unmatched
-Sun, 13 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/global/jeremy-thomas-tributes-luca-guadagnino-1236859499/
+### ‘Crystal Lake’ Trailer: Linda Cardellini Stars in Peacock’s Spooky ‘Friday the 13th’ Prequel Series
+Sun, 13 Sep 2026 18:48:35 +0000 — https://variety.com/2026/film/news/crystal-lake-trailer-linda-cardellini-friday-the-13th-1236860648/
 
-Tributes have begun flowing from across the film world for Jeremy Thomas, the legendary British producer who passed away on Friday at the age of 77. Terry Gilliam, who worked with Thomas on Tideland and The Man Who Killed Don Quixote, told Variety, “Jeremy Thomas loved making movies. He loved every aspect of the business, [ ]
+Peacock has released a full trailer for the new Linda Cardellini-led series “Crystal Lake.” The show, a prequel to the events of “Friday the 13th,” is set to premiere on the streamer on Oct. 15. The trailer opens on Cardellini as Pamela Voorhees in 1971, transporting audiences back to the mother’s life before the events [ ]
 
-### Netflix s Scooby-Doo: Origins Wraps Production Ahead of 2027 Release
-Sun, 13 Sep 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/netflix-scooby-doo-origins-wraps-production-1236860065/
+### Chris Rock Says Scott Rudin’s ‘Hard Coaching’ Made Him a Better Filmmaker: Some Creatives Don’t ‘Respond to a Hug’
+Sun, 13 Sep 2026 18:29:13 +0000 — https://variety.com/2026/film/news/chris-rock-scott-rudin-better-director-misty-green-tiff-1236860573/
 
-Netflix’s “Scooby-Doo: Origins” has wrapped production, the company announced Sunday. The live-action series is set for a global release on the streamer in 2027. Per the series’ official logline, “Scooby-Doo: Origins” is a “modern reimagining of the iconic mystery-solving group of teens and their very special dog. During their final summer at camp, old friends [ ]
+Chris Rock believes that tough love from one of Hollywood’s most notorious, half-cancelled figures helped make him a better filmmaker. Following a triumphant Toronto International Film Festival premiere for his latest directorial effort “Misty Green,” Rock sat for a keynote chat on Sunday to discuss his expansive career. The comedian told the crowd his chops [ ]
 
-### Melissa Rivers on Her Glorious Return to the Emmys Carpet, Remembering Her Mom Joan and Why ‘It’s Been Really Hard’ to Watch ‘Hacks’
-Sun, 13 Sep 2026 13:25:36 +0000 — https://variety.com/2026/tv/features/melissa-rivers-emmys-2026-cnn-variety-1236858878/
+### Emmys Presenters: Matthew McConaughey, Shailene Woodley and ‘Baywatch’ Reboot Stars Join Lineup
+Sun, 13 Sep 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/emmys-matthew-mcconaughey-shailene-woodley-baywatch-1236860563/
 
-Melissa Rivers is returning to the red carpet. Fashion expert and author Rivers — who rose to fame reporting outside awards-shows with her late mother, the comedian Joan Rivers — will be joining Variety co-president and co-editor-in-chief Ramin Setoodeh and CNN correspondent Elizabeth Wagmeister at the two brands’ Emmys pre-show broadcast. On “CNN Variety [ ]
+Matthew McConaughey and Shailene Woodley — as well as a selection of Fox’s “Baywatch” reboot stars — are among the names set to present at Monday night’s 78th Emmys on NBC and Peacock. Also joining the Emmys presenters lineup are stars Jamie Lee Curtis, Stephen Amell, Awkwafina, Noah Beck, Jessica Belkin, Scott Caan, Emma D Arcy, [ ]
 
-### Much Ado About Nothing Gets Modern War-Zone Update From Lakeem Rose (EXCLUSIVE)
-Sun, 13 Sep 2026 13:15:00 +0000 — https://variety.com/2026/film/markets-festivals/much-ado-about-nothing-modern-war-zone-update-lakeem-rose-1236856995/
+### Seth Rogen Tells TIFF the Best Advice He’s Ever Received: ‘Less Semen, More Emotion!’
+Sun, 13 Sep 2026 16:58:16 +0000 — https://variety.com/2026/tv/news/seth-rogen-tiff-best-advice-semen-emotion-the-studio-judd-apatow-1236860532/
 
-British writer-director Lakeem Rose, is developing his feature debut, a contemporary adaptation of William Shakespeare s Much Ado About Nothing, with Canadian producers Plato Fountidakis and Paul Rapovski and Hong Kong-based producer and casting director Mike Leeder. In Rose s version, the story shifts to a world just after a modern-day war, centering on four returning soldiers [ ]
+It’s extraordinary just how prolific Seth Rogen has been. He began performing stand-up comedy at clubs around his native Vancouver at the age of 13 — around the time he and his buddy Evan Goldberg would write the first draft of “Superbad” — before featuring in the Judd Apatow shows “Freaks and Geeks” and “Undeclared,” [ ]
 
-### Variety and Chanel s Women in Film Dinner: Ayo Edebiri, Lily-Rose Depp, Michelle Yeoh, Courteney Cox and More Light Up TIFF
-Sun, 13 Sep 2026 12:15:00 +0000 — https://variety.com/2026/film/variety-events/variety-chanel-tiff-dinner-ayo-edebiri-lily-rose-depp-fala-chen-patricia-arquette-michelle-yeoh-courteney-cox-1236860124/
+### Teary-Eyed Kaley Cuoco Recalls Death of Her ‘8 Simple Rules’ TV Dad John Ritter: ‘One of the Worst Days of My Life’
+Sun, 13 Sep 2026 16:50:57 +0000 — https://variety.com/2026/tv/columns/kaley-cuoco-death-8-simple-rules-john-ritter-1236860467/
 
-Variety and Chanel s annual Women in Film dinner was the place to see and be chic at the Toronto Film Festival on Friday night. The hottest invite of the festival gathered prominent women and nonbinary filmmakers, where the legendary fashion house co-hosted an evening to remember with Variety co-presidents Ramin Setoodeh (also co-editor-in-chief) and Dea [ ]
+Kaley Cuoco stepped out Saturday night to pay tribute to her TV dad, John Ritter. She was starring as the television sitcom icon’s daughter on “8 Simple Rules” in 2003 when Ritter suffered a fatal thoracic aortic dissection – a tearing of the heart’s main artery — while on set. “I always cry when I [ ]
 
-### ‘The Stunt Driver’ Review: Jay Baruchel Takes a Leap into Tepid Biopic Territory
-Sun, 13 Sep 2026 12:12:46 +0000 — https://variety.com/2026/film/reviews/the-stunt-driver-review-1236860383/
+### Hollywood Ventures Group, Canada s Big Picture Cinema Group, and Morocco s Pink Sheep Team on Casablanca-Set Thriller The Final Bet (EXCLUSIVE)
+Sun, 13 Sep 2026 16:21:39 +0000 — https://variety.com/2026/film/markets-festivals/hollywood-ventures-big-picture-cinema-morocco-final-bet-1236859412/
 
-In The Stunt Driver, Jay Baruchel reteams with his “Goon” director Michael Dowse and takes on a showy lead part as stunt driver Ken Carter, who’s best remembered for a jump he didn’t make: a proposed mile-long leap over the St. Lawrence River in a rocket-powered car. The five years spent on that ill-fated project [ ]
+Hollywood Ventures Group (HVG), Canadian film finance and production outfit Big Picture Cinema Group, and Morocco’s Pink Sheep Productions are teaming up to bring bestselling Moroccan crime thriller The Final Bet to the big screen. The acclaimed Casablanca-set thriller by Moroccan author and award-winning screenwriter Abdelilah Hamdouchi was first published in 2001. It is touted as [ ]
 
-### ‘Girl Group’ Review: Rebel Wilson’s Bawdy Pop Comedy Is All Fizz and Little Substance
-Sun, 13 Sep 2026 11:52:33 +0000 — https://variety.com/2026/film/reviews/girl-group-review-rebel-wilson-1236860366/
+### Nike Unveils Alex Eala T-Shirt Inspired by Tennis Phenom s Filipino Heritage
+Sun, 13 Sep 2026 16:15:19 +0000 — https://variety.com/2026/shopping/news/nike-alexandra-eala-t-shirt-sampaguita-shop-online-1236860470/
 
-Toward the end of Rebel Wilson’s “Girl Group,” a fizzy, gaudy clone of “Pitch Perfect” sculpted from the mentor formula of “Bad News Bears,” the movie spirals into an interminable sequence of pop music performances. The song-and-dance numbers are so awkwardly endless that they call to mind the denouement of a very different pop spectacle: [ ]
+Nike is honoring rising tennis star Alexandra Eala with her very own T-shirt, inspired by her Filipino heritage. Fresh off her maiden WTA 500 title at the Washington Open, and a third-round appearance at the recent U.S. Open, the 21-year-old s name adorns the back of this unisex tee, surrounded by a sampaguita motif, paying homage [ ]
 
-### Tom Nicoll Looks Beyond Male Influencer Culture in TIFF Title ‘Salvation’: ‘I Don’t Think Anyone’s Ever Been Insulted Into Changing Their Mind’
-Sun, 13 Sep 2026 11:24:34 +0000 — https://variety.com/2026/film/features/tom-nicoll-tiff-salvation-liam-harkins-1236854531/
+### Box Office: Practical Magic 2 Fizzles With $30 Million Debut
+Sun, 13 Sep 2026 16:02:37 +0000 — https://variety.com/2026/film/box-office/practical-magic-2-box-office-opening-weekend-disappointment-1236860432/
 
-Scottish writer-director Tom Nicoll is unveling at Toronto his buzzy debut “Salvation.” It tracks an aspiring online life coach whose attempt to reinvent himself and then sell that transformation to others pulls him in increasingly desperate directions. The psychological and blackly comic thriller world premieres in TIFF’s Discovery section, having already been selected for the [ ]
+Whatever spell conjured by the witchy Owens sisters, played onscreen by Sandra Bullock and Nicole Kidman in two Practical Magic movies, wasn t powerful enough to lure audiences to theaters. Despite a first-place finish, Practical Magic 2 disappointed in its box office debut with $30 million from 4,146 North American theaters, arriving on the lower end [ ]
 
 ## The Hollywood Reporter
+
+### Top 5 New Power Restaurants For Toronto Film Fest Deal-Making, Dining
+Sun, 13 Sep 2026 18:51:23 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/power-restaurants-toronto-film-fest-1236699665/
+
+Arabic, Asian, Italian eats that reflect Toronto’s multicultural foodie scene offer a host of culinary choices for TIFF-goers.
+
+### Babies Review: Anna Kendrick Is a Comic Dynamo Alongside Seth Rogen in a Sparkling Portrait of a Couple Weighing the Pros and Cons of Parenthood
+Sun, 13 Sep 2026 18:06:05 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/babies-review-anna-kendrick-seth-rogen-lauren-miller-rogen-1236699421/
+
+A longtime couple reconsiders their choice to remain childless in this film written and directed by Rogen's real-life wife, Lauren Miller Rogen.
+
+### Paul Anthony Kelly, Shailene Woodley, Matthew McConaughey, Others Tapped to Present at 2026 Emmys
+Sun, 13 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/paul-anthony-kelly-shailene-woodley-present-2026-emmys-1236699660/
+
+The 78th Emmy Awards, hosted by Mariska Hargitay, air live Monday evening.
+
+### Toronto: Seth Rogen Shares Secret to Hollywood Success: “I Was Lucky Coming Up”
+Sun, 13 Sep 2026 17:24:48 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toronto-seth-rogen-secret-hollywood-success-1236699644/
+
+The Canadian actor, producer and writer gave a keynote Sunday at the Toronto Film Festival after premiering 'Babies,' directed by Lauren Miller Rogen, on Saturday night.
+
+### Nick Bilton, Bari Weiss, Tom Cibrowski Send Congratulatory 60 Minutes Memo to Staff Ahead of Season Premiere
+Sun, 13 Sep 2026 17:09:59 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nick-bilton-bari-weiss-60-minutes-staff-memo-ahead-premiere-1236699615/
+
+The memo comes after '60 Minutes' experienced a major staff overhaul in recent months.
+
+### THR and SAG-AFTRA Toast This Year s Top TV Talent at Emmy Nominees Night
+Sun, 13 Sep 2026 16:42:04 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/sag-aftra-top-tv-talent-emmy-nominees-night-party-1236699499/
+
+Stars from 'The Pitt,' 'Widow's Bay,' 'Pluribus,' 'Hacks' and 'Shrinking' came out for the Saturday night event, which was presented by Snapchat and Waymo.
+
+### Practical Magic 2 Summons $30M to End Spider-Man s Streak at No. 1
+Sun, 13 Sep 2026 16:17:18 +0000 — https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/
+
+Sandra Bullock and Nicole Kidman's sequel joined fellow newcomers 'Runner' and 'The Uprising' for the box office frame that was down more than 40 percent from the equivalent 2025 weekend.
+
+### Celine Dion Makes Tearful Return to the Stage in Paris For First Concert in Six Years
+Sun, 13 Sep 2026 15:42:34 +0000 — https://www.hollywoodreporter.com/music/music-news/celine-dion-return-stage-paris-residency-concert-1236699408/
+
+Dion opened her nearly 30-night residency at the Plenitude Arena on Saturday night, her first concert since revealing she'd been diagnosed with Stiff Person Syndrome back in 2022.
+
+### Crystal Lake Trailer Sends Linda Cardellini s Pam Voorhees Over the Edge
+Sun, 13 Sep 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/peacock-crystal-lake-trailer-linda-cardellini-1236697632/
+
+The 'Friday the 13th' prequel series premieres in October on Peacock.
 
 ### Kaelen Ohm Talks Bringing Inner Extreme Skier to Film Roles: I Want to Find the Steeper Hill to Go Down
 Sun, 13 Sep 2026 14:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/kaelen-ohm-talks-bringing-inner-extreme-skier-to-film-roles-1236689571/
 
 Star turns in 'Hit Run,' 'From' and 'The Betrayers' thriller this year at the Toronto Film Festival have got Ohm onto everyone's call sheets in Canada.
 
-### Your Mother Your Mother Your Mother Review: Mahershala Ali Is a Marvel in a Gripping Crime Film With a Big, Aching Heart
-Sun, 13 Sep 2026 14:28:36 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/your-mother-your-mother-your-mother-review-mahershala-ali-1236699560/
-
-The two-time Oscar winner plays a devout Muslim and contract killer forced to care for his three kids after his wife dies in Bassam Tyriq's Texas-set thriller.
-
-### How We Stand Director on Recasting 1950s American Indians Relocation Legacy: It s Such an Epic Story
-Sun, 13 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/how-we-stand-film-director-interview-toronto-2026-tiff-1236683328/
-
-Marie Clements' drama about a single mother and three daughters separated by tragedy after resettling for new lives in 1950s Los Angeles will world premiere at the Toronto Film Festival.
-
-### Israel, Palestine and the Films No One Will Buy
-Sun, 13 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/israel-palestine-films-no-one-will-buy-toronto-1236699243/
-
-From Palestinian-focused Watermelon Pictures to new Jewish financing platform Shooq, a parallel industry is forming around the films the majors won't touch.
-
-### Back in Black Director on Lovable Serial Killer Doing Bad Things for the Right Reasons in Christopher Walken-Starrer
-Sun, 13 Sep 2026 13:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/christopher-walken-back-in-black-film-tiff-2026-interview-1236693818/
-
-Jane Curtin and Ella Ballentine also feature in Ron Murphy's debut feature set for a world premiere at the Toronto Film Festival.
-
-### Fina Strazza to Star in, Produce Romantic Drama Any Way You Want Me (Exclusive)
-Sun, 13 Sep 2026 13:05:03 +0000 — https://www.hollywoodreporter.com/movies/movie-news/fina-strazza-romantic-drama-any-way-you-want-me-toronto-1236699547/
-
-The ‘Fear Street: Prom Queen’ star has nabbed the lead in the indie, written and directed by her mother Rana Strazza, which is being shopped to international buyers at TIFF: The Market.
-
-### Toronto: Irene Dionisio s IDDA Lands at FilmClub Distribuzione for Italy (Exclusive)
-Sun, 13 Sep 2026 12:31:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toronto-irene-dionisios-idda-1236699536/
-
-The Italian filmmaker’s second narrative feature had a world premiere at the Toronto Film Festival as part of the Platform competition.
-
-### Words Are Weapons : Michaël R. Roskam on Turning a WWII Fake-Newspaper Prank Into a Heist Movie
-Sun, 13 Sep 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/michael-r-roskam-on-ww2-film-le-faux-soir-first-media-hack-1236697485/
-
-The Belgian director of 'Bullhead' and 'The Drop' on 'Le Faux Soir,' his TIFF-bound period comedy thriller about the Resistance journalists who hijacked Belgium's biggest newspaper and printed a satirical fake edition mocking the Nazis.
-
-### Shaun the Sheep: The Beast of Mossy Bottom Review: The Third Time s Charming, Just Like the First and Second
-Sun, 13 Sep 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/shaun-the-sheep-the-beast-of-mossy-bottom-review-1236697667/
-
-The farmer becomes a Bigfoot-like creature roaming the countryside in this new big-screen installment of the hit Aardman Animations stop-motion franchise.
-
-### Inside NAZA, the Bombshell Exposé on IDF s War in Gaza
-Sun, 13 Sep 2026 10:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/inside-naza-bombshell-expose-documentary-on-idf-war-in-gaza-1236698734/
-
-The Guardian served as producer, and Jonathan Glazer as executive producer, on the documentary by Israeli directors Yuval Abraham and Rachel Szor, which won a special Jury at the Venice Film Festival.
-
 ## Deadline
+
+### Emmys Sets Reba McEntire For Dolly Parton Tribute; Adds Big Baywatch Contingent, McConaughey Harrelson, LL Cool J Caan, More As Presenters
+Sun, 13 Sep 2026 18:05:00 +0000 — https://deadline.com/2026/09/emmys-reba-mcentire-dolly-parton-tribute-baywatch-presnters-1237100936/
+
+More details are coming into light about the 78th Emmy Awards ahead of the September 14 ceremony which will be broadcast live from the Peacock Theater on NBC and Peacock. Jesse Collins confirmed on Thursday that the show will honor Dolly Parton, who died recently at the age of 80. Deadline hears that the tribute [ ]
+
+### Practical Magic 2 Opens To $30M U.S., On Par With Recent Sandra Bullock Pics Box Office Update
+Sun, 13 Sep 2026 17:34:00 +0000 — https://deadline.com/2026/09/box-office-practical-magic-2-weekend-1237098516/
+
+SUNDAY AM WRITETHRU, after Saturday AM post: Well, it s clear, the summer moviegoing pace is over at the box office with fall distractions setting in as the entire weekend at $83.4M (per Rentrak), -44% off from a year ago ($124.5M) when Warner Bros/New Line opened Conjuring Last Rights to a franchise high of $84M. Warner [ ]
+
+### Peacock Unveils Full Trailer First-Look Photos For Crystal Lake Series Starring Linda Cardellini
+Sun, 13 Sep 2026 17:10:00 +0000 — https://deadline.com/2026/09/crystal-lake-trailer-first-look-photos-release-date-1236981497/
+
+The full trailer for Peacock’s Friday the 13th prequel series Crystal Lake, which arrives Oct. 15 on the streamer, has been released. From A24 and creator Brad Caleb Kane, Crystal Lake stars Linda Cardellini as Pam Voorhees, a single mother who has been unable to shake her grief after her young, sickly son Jason tragically [ ]
+
+### Comedian Mojo Brookzz Bringing Debut Special I Know You Lying To Netflix In October
+Sun, 13 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/mojo-brookzz-netflix-special-premiere-date-1237076373/
+
+EXCLUSIVE: Comedian Dyon Mojo Brooks (aka Mojo Brookzz) has announced that his debut special, I Know You Lying, is set to premiere globally on Netflix on October 6. No word on what Brooks discusses in the special. Filmed at Atlanta s Center Stage Theatre in December 2025, it s directed by Mike Homeless Pimp Lavin and produced by 3 [ ]
+
+### ‘Your Mother Your Mother Your Mother’ Review: Mahershala Ali Is The Glue That Binds A Dour Texas-Set Action Drama – Toronto Film Festival
+Sun, 13 Sep 2026 16:52:10 +0000 — https://deadline.com/2026/09/your-mother-your-mother-your-mother-review-mahershala-ali-bassam-tariq-1237100666/
+
+Everything and nothing seems to happen in this curiously inert action drama, which stars Mahershala Ali as a philosophical Black Muslim hitman trying to raise three children after the death of his wife. The concept itself not without precedent — Forrest Whitaker calmly practised Tai Chi and composed haikus in between Mafia jobs in Jim [ ]
+
+### Practical Magic 2 Brews Up $46M WW In Global Opening
+Sun, 13 Sep 2026 15:52:09 +0000 — https://deadline.com/2026/09/box-office-practical-magic-2-global-1237100627/
+
+Warner Bros/Alcon s Practical Magic 2 wound up flying to a $46M global debut, with $16M overseas and $30M domestic. Note the sequel to this Sandra Bullock and Nicole Kidman 1990s property is stateside driven, so expect a bulk of the gross to come from there. However, the $16M start is under the $18M-$23M that the [ ]
+
+### Betty Thomas, Billy Crystal The Curious Case Of The Emmy-Thieving Imposter
+Sun, 13 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/betty-thomas-billy-crystal-barry-bremen-emmys-imposter-1237100046/
+
+On Sept. 22, 1985, the Pasadena Civic Auditorium was filled with 2,700 members of the year’s television elite, gathered together for the 37th Annual Primetime Emmy Awards. Hosted by Dynasty star John Forsythe, the ceremony was broadcast on ABC to 15.8 million homes – a staggering number today – and the stage was set to [ ]
+
+### Bertil Nilsson s TIFF Film Masc Explores Intersectionality Of Queer, Biracial, Autistic Experience — Clip
+Sun, 13 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/bertil-nilsson-tiff-masc-clip-1237100332/
+
+In Bertil Nillson s feature directorial debut Masc, the writer/director teams up with co-writer and star Joshua Griffin to share a story of intersectionality and self-love. Making its world premiere last night in TIFF s Next Wave Selects section, Masc stars Griffin as Robin, a queer, biracial man on the autism spectrum, who struggles over a year [ ]
 
 ### Vertical Saves Lily James Pierce Brosnan Starring Cliffhanger ; Spring 2027 U.S. Release Eyed TIFF
 Sun, 13 Sep 2026 14:01:08 +0000 — https://deadline.com/2026/09/cliffhanger-lily-james-vertical-acquisition-1237100608/
@@ -126,53 +166,43 @@ Sun, 13 Sep 2026 04:30:21 +0000 — https://deadline.com/2026/09/i-play-rocky-re
 
 It is no spoiler to say I am going to reveal the final moments of Peter Farrelly s fantastic crowd-pleasing biopic I Play Rocky, chronicling the making of the 1976 classic Rocky, which not only made Sylvester Stallone a major star but also became one of the greatest behind-the-scenes stories in Hollywood history. Stay all the [ ]
 
-### Misty Green Review: Rosalind Eleazar Is The Whole Show In Chris Rock s Sizzling Hollywood Portrait Of A Down-And-Out Emmy Winner Whose Career Is On The Skids Toronto Film Festival
-Sun, 13 Sep 2026 03:30:00 +0000 — https://deadline.com/2026/09/misty-green-review-rosalind-eleazar-chris-rock-hollywood-1237099694/
-
-I have to confess I am a sucker for down-on-your-luck Hollywood stories, especially movies about actresses who once had success and are now scraping the bottom. Of course there is the classic of classics, Sunset Boulevard, but there are many more. A personal favorite is The Star, which got Bette Davis an Academy Award nomination [ ]
-
-### FCC Chairman Brendan Carr Accuses James Talarico Of Running A Hoax With Jimmy Kimmel Sit-Down; YouTube Interview Nears 7 Million Views
-Sun, 13 Sep 2026 02:09:10 +0000 — https://deadline.com/2026/09/jimmy-kimmel-james-talarico-fcc-1237100486/
-
-As Jimmy Kimmel s interview with James Talarico nears 7 million views on YouTube, FCC chairman Brendan Carr weighed in on Saturday evening, accusing the Texas U.S. Senate candidate of orchestrating a hoax to drive up clicks and donations. Earlier this week, Kimmel told viewers that he would be sitting down with an interview with Talarico [ ]
-
-### The Surgeon Review: Michelle Yeoh Goes All John Wick Taking Her Scalpel To The Bad Guys Toronto Film Festival
-Sun, 13 Sep 2026 02:05:00 +0000 — https://deadline.com/2026/09/the-surgeon-review-michelle-yeoh-toronto-film-festival-1237099602/
-
-After supporting roles in blockbusters like Wicked, Michelle Yeoh has her first all-out starring role since winning the Best Actress Oscar for Everything Everywhere All at Once three years ago. Considering her expertise in martial arts and kick-ass action (Crouching Tiger, Hidden Dragon for starters), her latest effort in the genre is a lot of [ ]
-
-### Bill Dubuque Crime Drama M.I.A. Canceled By Peacock After One Season
-Sun, 13 Sep 2026 01:00:00 +0000 — https://deadline.com/2026/09/bill-dubuque-series-m-i-a-canceled-peacock-1237100435/
-
-EXCLUSIVE: Peacock has canceled the Miami-set crime-drama series M.I.A. after one season. The series, from creator, writer and executive producer Bill Dubuque, premiered May 7 with all nine hour-long episodes. Following the show s premiere, there was a lot of buzz around M.I.A. It received an extra push from NBC with a special airing on the network [ ]
-
-### ‘NAZA’ Review: Israeli Military Accused Of Depraved Indifference To Palestinian Life, Using AI To Kill In Gaza – Venice Film Festival
-Sun, 13 Sep 2026 00:56:22 +0000 — https://deadline.com/2026/09/naza-review-venice-film-festival-1237100430/
-
-The devastating documentary NAZA, an investigation into Israel’s mass killing of civilians in Gaza, was shot at night on rooftops in Tel Aviv, in part to avoid potential Israeli eavesdropping, presumably, and to facilitate shielding the identities of participants. Those participants are 24 Israeli military intelligence officers and soldiers who reveal, in almost matter-of-fact tones, [ ]
-
-### Babies Review: Lauren Miller Rogen Film Is A Witty, Heartfelt Exploration Of Childless Adulthood Chosen Family Toronto Film Festival
-Sun, 13 Sep 2026 00:17:00 +0000 — https://deadline.com/2026/09/babies-review-lauren-miller-rogen-childless-adulthood-1237100427/
-
-After years of fielding questions about whether she wants to be a mom, Lauren Miller Rogen gives the definitive answer in the form of her witty, heartfelt comedy Babies. Written and directed by Miller Rogen, Babies stars Anna Kendrick and the auteur’s husband Seth Rogen as the happily married Aaron and Annie, a couple without kids of their [ ]
-
-### Netflix Developing Diablo Animated Series
-Sat, 12 Sep 2026 23:01:00 +0000 — https://deadline.com/2026/09/netflix-developing-diablo-animated-series-1237100389/
-
-The Diablo video game is coming to Netflix. Blizzard Entertainment chief Johanna Faries revealed at BlizzCon in Anaheim Saturday that the streamer is adapting the game as an animated series. Here s the description of the project, per Variety: “After decades of bringing entire universes to life through our games, we’re partnering with some creative powerhouses [ ]
-
-### L.A. County Projects Huge Job Losses If Paramount Exits California; Company Slams Antitrust Action By AGs WGA In Official Rebuke
-Sat, 12 Sep 2026 22:56:31 +0000 — https://deadline.com/2026/09/paramount-job-losses-california-exit-antitrust-lawsuit-1237099942/
-
-There will be harsh job losses and severe economic pain if Paramount carries out its threat to leave California over the antitrust action a coalition of blue state attorneys general are pursuing to stop David Ellison s $111 billion merger with Warner Bros Discovery, an internal L.A. County report estimates. At a minimum, relocating Paramount’s headquarters [ ]
-
 ## befores & afters
 
 _Nothing in the last 48 hours._
 
 ## IndieWire
 
-### Beth de Araújo s Josephine Is About Childhood Trauma — Making It with a Real Kid Had to Be Nothing but Safe
+### From Tragedy to Everest : Inside Jimmy Chin and Chai Vasarhelyi’s Most Ambitious Film Yet
+Sun, 13 Sep 2026 18:40:02 +0000 — https://www.indiewire.com/awards/consider-this/everest-the-other-side-interview-telluride-jim-morrison-1235216416/
+
+Summiting the North Side of Everest and skiing down was a feat. So was filming it. In the NatGeo documentary "Everest: The Other Side," we not only witness ski-mountaineer Jim Morrison's athletic heroism, but also Jimmy Chin's filmmaking prowess. This could be an Oscar contender.
+
+### I Play Rocky Review: Sylvester Stallone s Wild Hollywood Underdog Story Gets a Punchy Crowdpleaser
+Sun, 13 Sep 2026 18:30:04 +0000 — https://www.indiewire.com/criticism/movies/i-play-rocky-review-sylvester-stallone-1235216617/
+
+TIFF: Peter Farrelly continues his reign of making audience-delighting hits for the TIFF crowd, but this one pulls its punches a bit.
+
+### Mr. Irrelevant Trailer: David Corenswet Toughs and Smiles His Way to the NFL as Last Draft Pick John Tuggle
+Sun, 13 Sep 2026 17:25:54 +0000 — https://www.indiewire.com/news/trailers/mr-irrelevant-trailer-david-corenswet-john-tuggle-1235216155/
+
+Jonathan Levine directs the inspiring sports story that opens in theaters from Paramount and Skydance Sports on Christmas Day.
+
+### Practical Magic 2, the Sequel to a 28-Year-Old Box Office Bomb, Opens to Lackluster $30 Million
+Sun, 13 Sep 2026 16:01:49 +0000 — https://www.indiewire.com/news/box-office/practical-magic-2-box-office-bomb-sandra-bullock-nicole-kidman-1235216664/
+
+Hey Hollywood, stop giving us sequels we didn't ask for to movies that opened way too long ago for us to care.
+
+### How Susanna White Brought Lauded One-Woman Play Prima Facie to the Big Screen (Casting Cynthia Erivo Helped)
+Sun, 13 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/features/interviews/prima-facie-movie-adaptation-susanna-white-cynthia-erivo-1235216255/
+
+TIFF: The director tells IndieWire that turning the celebrated one-woman play into a feature film with multiple locations, characters, and some extremely demanding scenes was exactly the kind of challenge she loves. Plus: a major star.
+
+### The Remotes Review: John Torres’ Sci-Fi Noir is an Unshakable Film About a Sinister Navigation App
+Sun, 13 Sep 2026 15:44:15 +0000 — https://www.indiewire.com/criticism/movies/the-remotes-movie-review-philippine-new-wave-1235216715/
+
+The Philippine New Wave filmmaker's first narrative feature is a gorgeous, frustrating, addictive mediation on grief and national history.
+
+### Why Making Beth de Araújo s Josephine with a Real Kid Had to Be Nothing but Safe
 Sun, 13 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/how-beth-de-araujo-josephine-was-made-safely-1235216361/
 
 TIFF: As the Sundance winner readies for its fall release, writer/director Araújo and star Gemma Chan tell IndieWire how they ensured their revelatory child star Mason Reeves had the best time possible making her first film.
@@ -202,137 +232,107 @@ Sun, 13 Sep 2026 03:30:00 +0000 — https://www.indiewire.com/criticism/movies/m
 
 TIFF: The "Slow Horses" star is tremendous as a faded Black TV actress whose tendency for self-sabotage threatens to derail her comeback role.
 
-### River Review: Jane Levy Anchors a Fearlessly Cruel and Visceral Survival Slasher
-Sat, 12 Sep 2026 22:00:00 +0000 — https://www.indiewire.com/criticism/movies/river-movie-review-jane-levy-slasher-1235216672/
-
-TIFF: Jane Levy and Jessica Rothe lead Joshua Giuliano's slasher that finds evil in beauty, while reminding us that horror is not simply a vehicle for scares.
-
-### ‘Purgatory’ Review: This Charming Catholic Coming-of-Age Story Never Quite Ascends
-Sat, 12 Sep 2026 21:25:00 +0000 — https://www.indiewire.com/criticism/movies/purgatory-review-1235216402/
-
-TIFF: A 13-year-old in the 1980s navigates her parents’ separation in this comedy that relies on boilerplate beats.
-
-### Venice Prizes Elevate John Malkovich, Possible Love, and NAZA to Oscar Frontrunners
-Sat, 12 Sep 2026 20:57:01 +0000 — https://www.indiewire.com/awards/predictions/venice-john-malkovich-possible-love-naza-oscar-frontrunners-1235216651/
-
-While "Woman Unknown" won the Golden Lion and is now automatically eligible for Best International Feature, the Venice jury prizes solidify three other competition titles as major Oscar contenders.
-
-### Edward Said: Between Worlds Brings an Articulate Palestinian Spokesman Back to Life
-Sat, 12 Sep 2026 19:06:11 +0000 — https://www.indiewire.com/awards/consider-this/edward-said-between-worlds-palestinian-spokesman-interview-1235216388/
-
-With producers Jigsaw, Dogwoof, Impact Partners, and Louverture behind it, the movie is seeking distribution at the Toronto International Film Festival.
-
-### Venice Film Festival Reveals 2026 Award Winners: Woman Unknown Takes the Golden Lion
-Sat, 12 Sep 2026 18:58:00 +0000 — https://www.indiewire.com/awards/results/venice-film-festival-2026-award-winners-1235216485/
-
-See all this year's 2026 Venice Film Festival award winners here.
-
-### Courteney Cox Had a Vision for Her Evil Genius, and Friends — Surprisingly — Played an Important Role
-Sat, 12 Sep 2026 18:00:00 +0000 — https://www.indiewire.com/features/interviews/courteney-cox-evil-genius-friends-pizza-bomber-1235216492/
-
-TIFF: Cox's first directorial outing didn't pan out how she wanted it to ("They probably burned it"), but as she tells IndieWire, her spin on the shocking real life "pizza bomber" story is her brand-new calling card.
-
 ## The Wrap
 
-### ‘Misty Green’ Review: Chris Rock s Tough Hollywood Story Finds a Star in Rosalind Eleazar
-Sun, 13 Sep 2026 03:30:00 +0000 — https://www.thewrap.com/creative-content/reviews/misty-green-review-chris-rock-rosalind-eleazar/
+### Emmys Reveal More Presenters, Including Matthew McConaughey, Woody Harrelson, Sofía Vergara and John Mulaney
+Sun, 13 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/emmys-presenters-matthew-mcconaughey-woody-harrelson/
 
-Misty Green is a star. Just ask her. “I am a f king star,” she says. “I wish people would treat me like one.” Or just ask Chris Rock. He wrote and directed “Misty Green,” which opens with shots of Los Angeles set to the upbeat enthusiasm of Sammy Davis Jr. singing “If You Could See Me Now.” The trouble is, if you could see Misty now, you wouldn’t necessarily think she’s a star. Because she’s also a f ing mess, which has kind of gotten in the way of that whole star thing. The thin line between stardom and total f ked-upness is the territory that s tread in Rock s new feature: part tough but raucous and insidery Hollywood story, part character study with teeth. It’s very funny and pretty disturbing and quite entertaining until it starts to run out of gas. And even then, you can forgive it because of Rosalind Eleazar, the British actress best known for “Slow Horses” who has the pride and the pipes and the passion to embody the title character. Eleazar is an unstoppable force playing a very stoppable force – stoppable, mostly, by her own misjudgments. You could say that Misty has been held back by sexism and racism and you wouldn’t be wrong, but the film makes it very clear that she’s mostly been held back by her own spectacularly wrongheaded decisions. The film, which had its world premiere at the Toronto International Film Festival on Saturday, is Rock’s first as a director since “Top Five” back in 2014. That one was about a successful comic (played by Rock) trying to cope with
+Matthew McConaughey, Woody Harrelson, Jamie Lee Curtis, Sofía Vergara, John Mulaney and recent Emmy winner Shailene Woodley are among the newly revealed batch of presenters for Monday s awards ceremony. The full list of additions, released Sunday, includes Stephen Amell, Awkwafina, Noah Beck, Jessica Belkin, Scott Caan, Emma D Arcy, Julia Garner, LL Cool J, Hassie Harrison, Paul Anthony Kelly, Thaddeus LaGrone, Brooks Nader and Emmy Rossum. That slate includes a bulk of names associated with Fox s upcoming reboot of Baywatch, which stars Amell, Beck, Belkin, Harrison and Nader. An onstage segment featuring all five names is likely in the cards to plug the series. Also notable, McConaughey and Harrelson will likely take the stage together, as the True Detective stars are reuniting for the Apple TV comedy series Brothers, which debuts Sept. 23. Woodley will be coming off of her Emmy win for outstanding guest actress in a drama series for her performance in Paradise. She took home the prize at the Creative Arts Emmys on Sept. 6. Meanwhile, Curtis was nominated for outstanding guest actress in a comedy series for her performance on The Bear. The new group joins a big slate of previously announced names, including Odessa A zion, Linda Cardellini, Macaulay Culkin, Alan Cumming, Sally Field, Jon Hamm, David Harbour, Marcello Hernández, Peter Krause, Dan Levy, Julianna Margulies, Annie Murphy, Niecy Nash-Betts, Keke Palmer, Amanda Peet, Amy Poehler, Florence Pugh, Rachel Sennott and 
 
-### I Play Rocky Review: Biopic About the Making of Sylvester Stallone s Classic Is a Hollow Crowdpleaser
-Sun, 13 Sep 2026 01:44:45 +0000 — https://www.thewrap.com/creative-content/movies/i-play-rocky-review-sylvester-stallone/
+### Onwards and Sideways Director John Madden on the Key Decision That Shaped the Parkinson s Drama
+Sun, 13 Sep 2026 17:34:05 +0000 — https://www.thewrap.com/creative-content/movies/onwards-and-sideways-john-madden-laura-linney-rhys-ifans-interview/
 
-Midway through “ I Play Rocky ,” Peter Farrelly’s misfire of a movie about Sylvester Stallone and the making of “Rocky,” production is underway on the film that would make its lead a star. But, despite them shooting a key emotional scene, things aren’t working. Sly ( Anthony Ippolito ) is pulled aside by the film’s director John Avildsen (Jay Duplass) and told he needs to dig deeper in the next take. There has to be something more, Avildsen says, that this is the moment where he’ll find the “thing,” the emotional why of the entire picture. Without it, the experience — even when the efforts of a dedicated crew moving heaven and Earth to make it work — will be empty. Unfortunately, while the real Sly found that emotional depth in “Rocky,” the fictional version of him, even when pushed, never does here. Instead, what we get is a film that’s broadly crowd-pleasing, having fun with some playful jokes about filmmaking here and there, though without a cinematic soul it can call its own. It never uncovers that deeper emotional why, reducing the unconventional success story of Stallone to something aggressively conventional and without a greater emotional punch. It darts around, hitting all the beats you’d expect it to, but never instills them with any greater life. The only blows it lands are when it repeatedly punches itself in the face by insisting on spelling things out, rather than dancing gracefully in the ring. The disappointment is felt right from the opening moments, when you
+Director John Madden returns to TIFF with Onwards and Sideways, 16 years after the Oscar-nominated filmmaker behind Shakespeare in Love was at the fest with his 2010 thriller The Debt. For Onwards and Sideways, which stars Laura Linney and Rhys Ifans as two strangers with Parkinson s disease, Madden knew exactly what would make the story work: the film’s two leads had to be diagnosed with Parkinson’s disease at the same clinic, on the same day. I suggested that the thing we should do is make them both be diagnosed at exactly the same moment, which is kind of an odd idea, but it s the idea that actually generates the whole story from that moment onwards, Madden told Steve Pond at TheWrap’s studio at the 2026 Toronto International Film Festival. Madden directs the film from a script by Paul Mayhew-Archer, who was diagnosed with Parkinson s in 2011. “That was his response to the illness, just to fight back and to make jokes about it,” Madden said. “ He s just got a very, very, very interesting sense of humor that s very humane.” Madden got involved with the project in 2018 through the film’s producer Hilary Bevan Jones, who was repped at the same agency as Madden. He worked with Mayhew-Archer and developed the script over nine months. “Onwards and Sideways” follows Emma Dretzin (Linney), a musician and composer, and single mother of two daughters, and Tony Evans (Ifans), deputy head of a primary school. Neither knows the other. Until a startling encounter changes the course of t
 
-### The Julia Set Review: Chase Infiniti Shines in Uneven, Heavy-Handed Mathematics Drama
-Sun, 13 Sep 2026 01:01:58 +0000 — https://www.thewrap.com/creative-content/movies/the-julia-set-review-chase-infiniti/
+### Read the 60 Minutes Memo Sent to Staff Ahead of Season Premiere Under New Leadership
+Sun, 13 Sep 2026 17:30:44 +0000 — https://www.thewrap.com/media-platforms/tv/60-minutesn-leadership-memo-season-premiere/
 
-Director Niki Byrne’s frustratingly melodramatic “The Julia Set” is a film that hints at complexity and nuance but often settles for the lowest common denominator in its execution. It has a lot to say but lacks the grace of easy digestion, unsure of how to move its story along without resorting to communicating its ideas in the most heavy-handed ways possible. It has a lot working for it, namely actors who are far too talented for the script they’ve been saddled with, but it all adds up to less than the sum of its parts. I’ll confess that I had my doubts about how one could make mathematics cinematic, and at the start of Byrne’s film, she assuages fears in part by demonstrating how the language of the world runs on these concepts we often restrict to our classroom. The drama of our daily lives can be refracted through the language of theorems, proofs and algorithms, and it’s a language Julia (Chase Infiniti) knows well. She’s a student at university who can solve differential equations better than her whole class, yet has grown accustomed to making herself small so as not to draw attention. Even if you’ve appreciated Infiniti s work prior, “The Julia Set” lets you fall in love with her talent all over again, particularly with her mastery of eye acting. Every time she stares, furrowing her brow at a worksheet placed before her or looking longingly at the TA, Pascal (Christopher Briney), who fires back reciprocal interest, you see that there’s a world of emotion waiting to be u
+CBS News leadership sent a memo to rally 60 Minutes staffers Sunday morning, hours ahead of the program s high-pressure Season 59 premiere. In the memo, obtained by TheWrap, CBS News president Tom Cibrowski, CBS News editor in chief Bari Weiss and her newly appointed 60 Minutes executive producer Nick Bilton touted the day as a big moment for 60 Minutes and CBS. The letter also highlighted stories to be featured in the season premiere, including an interview everyone s been chasing, as well as segments on an unnamed NFL coach and AI. A representative for CBS News did not immediately respond to TheWrap s request for comment. Sunday s premiere comes after months of overhaul to 60 Minutes staff and the installation of new leadership at the program. Last year, Weiss was appointed by David Ellison, who owns CBS after acquiring Paramount Global through Skydance Media, to lead CBS News. The proceeding months have proven a turbulent transition. In May, Weiss named Bilton, a former New York Times columnist and filmmaker with no prior experience in television, to lead the most-watched news program in the U.S. Several staffers and correspondents have also been fired or resigned since Weiss appointment. On Tuesday, former managing editor Guy Campanile claimed his and others exits happened because they refused to be accomplices in the destruction of the most prestigious news program on American television. Other former correspondents have accused Weiss of inserting political bias into the
 
-### I Play Rocky Star Anthony Ippolito Filmed His Own Audition Before He Even Had the Script
-Sun, 13 Sep 2026 00:41:17 +0000 — https://www.thewrap.com/creative-content/movies/anthony-ippolito-i-play-rocky-how-he-was-cast-interview/
+### Tim Blake Nelson Says It Has Never Been This Bad for Independent Filmmaking
+Sun, 13 Sep 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/movies/tim-blake-nelson-state-of-independent-film/
 
-Anthony Ippolito was so excited to play Sylvester Stallone in a biopic about the making of Rocky that the up-and-coming actor shot an audition tape blindly, before he had even read a script or obtained sides. Ippolito stars as a young Stallone in Peter Farrelly s “I Play Rocky,” which details the uphill battle to get Rocky made, which eventually won Best Picture at the Academy Awards in 1977. One of the buzziest titles this year at the festival, Ippolito said that he initially heard about the project through a news article and decided to take a shot before anyone even asked him to. “I hung a heavy bag in my grandma s basement. I didn t have a script, so I was just working with my imagination, trying to capture the physicality of the character,” Ippolito told Casey Loving at TheWrap’s studio at the 2026 Toronto International Film Festival. Ippolito shot the audition tape with his friend, who is an aspiring director, and his cousin. “It kind of felt like a bit of a long shot, but it was a creative exercise, and it was actually really fun,” he added. His agent at the time sent the audition to the film s producers and casting director, and it actually worked — they sent the agent the script in return and asked for a proper audition. Feeling bold, Ippolito got even more ambitious, shot several more scenes on his own and sent those in too, before eventually landing the coveted role. His gambit had paid off. “I had seen an article that they were making this movie, and I had known a 
+Over the course of his lengthy career, Tim Blake Nelson has seen it all. An actor, director, writer and producer whose latest film, “The Life and Deaths of Wilson Shedd,” is premiering at the 2026 Toronto International Film Festival, he’s seen the industry evolve dramatically over the decades. And although he’s continued to work through all of it, this hasn’t always been an easy undertaking — especially in independent film. As part of the TIFF Market Summit on Saturday, TheWrap presented a Director Spotlight panel in which Nelson had a candid and wide-ranging conversation with TheWrap’s Executive Editor, Awards Steve Pond. In that conversation, Nelson said that while he sees slivers of improvement, the state of play for independent filmmakers looking to get their film off the ground is more challenging than he’s ever seen. “We have hit a really bad moment for independent dramas. It has never been this bad,” Nelson said. “I think it’s getting better, however, so I don’t think the sky has fallen or is falling.” Indeed, it took Nelson 13 years to get his latest film off the ground. In Wilson Shedd, Scoot McNairy stars as the title character, a convicted murderer, and Amanda Seyfried plays a woman hired to teach writing to prison inmates. “It took over a dozen years to get this movie made. I wrote the first draft in about 2013,” Nelson said, recalling how he’s been thinking about it since he was inspired by the story of a female prisoner worker who helped two prisoners escape, a 
 
-### Paramount Leaving California Could Mean Up to $21 Billion in Lost Annual Economic Output, Leaked Study Finds
-Sun, 13 Sep 2026 00:33:57 +0000 — https://www.thewrap.com/industry-news/business/paramount-leaving-california-economic-impact/
+### Crew Girl Showrunner Unpacks That Finale Love Triangle Twist, Shares Hopes for More Seasons
+Sun, 13 Sep 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/crew-girl-season-1-finale-vivian-lin-showrunner-interview/
 
-If Paramount makes good on its threat to relocate out of California, the results would be devastating for the state and the entertainment industry, a leaked economic impact study finds. According to a study conducted by the Los Angeles County Economic Development Corporation dated Sept. 10 (and leaked by Politico ), once Paramount completed the entire relocation out of state, California would experience the permanent loss of approximately 28,990 to 57,980 full-time jobs statewide across all industries, and losses of between $10.6 billion and $21.2 billion annually in economic output. At minimum, the relocation would result in losses of 2,750 and 5,550 job-years in California across all industries and losses of between $1.01 billion and $2.03 billion in economic output between October 1, 2026, and September 30, 2031, according to the study. It should be emphasized that these estimated job losses include direct, indirect, and induced jobs, capturing the ripple effects through Paramount’s supply chains in California as well as the economic activity of household spending, the study says. Consequently, the job losses pertain to all California industries rather than solely to motion picture and television production. Additionally, the study finds that if Paramount holds to its promise to release 30 films a year after its Warner Bros. Discovery acquisition, it would generate a total of between 1,020 and 2,760 jobs in California across all industries and between $377.7 million and $1
+Note: This story contains spoilers from “Crew Girl” Season 1. Netflix s newest YA series “Crew Girl” introduced a situation prime for a love triangle, as rower Teagan Tao (Miku Martineau) joined the men s rowing team of an elite private school. Her father s white collar crimes had displaced Teagan and her mom, Ella (Jessica Paré), back to her mother s hometown in Massachusetts, and that was the only option for her to pursue her rowing aspirations. After establishing herself as coxswain thanks to the good will of the school s crew coach (Thomas Cadrot), Teagan found herself pulled between elitist and often arrogant Josh (Samuel Braun) — who let down his facade after he and Teagan start connecting — and down-to-earth scholarship student Cam (Kyle Clark), but by the finale, Josh took himself out of the game at least, for now. With his heart condition coming to a head, Josh told his family he will stop rowing to take care of his health and while his grandfather disapproved, in a surprise his father stood up for him, even if it meant losing favor with the Regis patriarch. He told Teagan he had a lot to work to do on himself, but when he s done, he hopes she gives him a second chance. Josh and his dad are now on the outs, they re in a whole new territory, a whole new world, but they do have each other, showrunner Vivian Lin told TheWrap. We love Josh he s got a lot to work on. He s got to build a better Josh. If he s ever going to be a worthy love triangle piece for Teagan some sel
 
-### Edward Said: Between Worlds Review: An Essential Voice for Our Times Is Resurrected in His Own Words
-Sun, 13 Sep 2026 00:00:00 +0000 — https://www.thewrap.com/creative-content/movies/edward-said-between-worlds-review-palestine/
+### Javier Bardem Swears He Didn’t Base His ‘The Beloved’ Director Character on Any of His Previous Collaborators
+Sun, 13 Sep 2026 17:16:01 +0000 — https://www.thewrap.com/creative-content/movies/the-beloved-javier-bardem-interview-tiff-2026/
 
-The life and work of the late Palestinian American scholar Edward Said will never be fully captured in a single documentary. Not only are his writings too urgently influential and remain worth reading in their entirety 22 years after his death, but Said s very existence was one that contains great multitudes. To condense that into even a dozen films, let alone just one, will inevitably mean losing much of both the man and the writer. But if you’re going to try, one can only hope it looks like Maiken Baird s thoughtful and admirably comprehensive “Edward Said: Between Worlds.” Hearing from Said in his own words as he takes us through decades of history and his place in it, the documentary is as rigorously detailed as it is moving and emotional. Rather than cut away to talking heads, it instead gives center stage over to Said so we can take in his own voice and writing. It’s a reverential work of resurrection, relying on archival footage and recordings of his various speeches that he gave over his life. Even though the filmmaking itself is rather cut-and-dry, Said s words alone make this documentary resonate all the same. Hearing Said speak with poetic lyricism about the many ways that the people of Palestine have struggled to survive and endured through unimaginable circumstances is valuable in its own right. Baird s filmmaking then cuts together Said s life and the broader sociopolitical impact he left, ensuring one cannot be separated from the other. His film is then an esse
+In Rodrigo Sorogoyen’s “The Beloved,” which has its North American premiere at the Toronto International Film Festival, Javier Bardem plays, in the words of the official program “a charismatic, world-renowned director,” who reconnects with his estranged daughter (Victoria Luengo) a role in his latest project. They haven’t seen each other in 13 years and he doesn’t admit to any wrongdoing. But hey, this is filmmaking. The show must go on. While talking to our own Steve Pond at TheWrap’s studio at the 2026 Toronto International Film Festival, Bardem swore that his character was not based on any of his previous collaborators – and that he hasn’t heard from any of them either. “I haven t had any direct feedback from any of them, but I m sure some of them are wondering, Is that… ? I honestly didn t really focus on anyone in particular, but it s more about situations that I ve been in or I ve seen. And even some of those I created myself out of a tension and fear and insecurity,” Bardem admitted. He said that sometimes he has gotten into a situation when you lose your cool and “you realize, What, why have I done that ? Thankfully I’m aware of it and I go, ‘I’m sorry,’ but the harm is done.” And he’s seen directors throw their weight around in unhelpful ways. “Those policies happen very often on a movie set, where the director is allowed to really have a tantrum, and people will understand,” Bardem said. “But I ve been in situations that were brutal sometimes back in the ‘90s. Mostl
 
-### Ted Cruz Shares Video of Crowd Chanting Ted You Suck! During His ESPN College GameDay Appearance: Never Flinched
-Sat, 12 Sep 2026 23:54:23 +0000 — https://www.thewrap.com/media-platforms/tv/ted-cruz-booed-espn-college-gameday/
+### River Cast and Director Marvel at Pulling Off Their Long Days in the Water: This Shoot Was Not Easy
+Sun, 13 Sep 2026 16:57:17 +0000 — https://www.thewrap.com/creative-content/movies/river-cast-shooting-on-water-jane-levy-jessica-rothe/
 
-Senator Ted Cruz (R-Texas) was drowned out by boos and chants of Ted, you suck during an unusual 9-minute appearance on ESPN s College GameDay on Saturday morning. Cruz joined the program to promote the Protect College Sports Act, a piece of legislation that purports to regulate business interests in the industry. Most college athletic programs are losing tens of millions of dollars , and as a result , they’re canceling women’s programs and non – revenue sports and Olympics sports,” Cruz said to host Rece Davis on the show. The interview was broadcast in Austin ahead of a football game between the University of Texas and Ohio State University. “If we don’t act, in three to five years we’re going to see 40 to 50 schools that have competitive football programs and everyone else goes under. That would be a tragedy.” While Cruz hocked his legislation, which has garnered bipartisan support and is expected to see a Senate vote in the coming weeks, the large crowd of fans behind the senator booed him through the entire segment. Whole crowd came on a blitz this morning, I stayed in the pocket. Never flinched, Cruz wrote on X, sharing a video of him being interviewed while the crowd booed behind him. If we don’t pass the Protecting College Sports Act I could play for your favorite team. Call your Senator! The bill would grant the National Collegiate Athletic Association an antitrust exemption, allowing it to enforce eligibility and name, image and likeness rules. It would also allow d
+Both the cast and the writer/director of River were in awe of how they pulled off the difficult days shooting the horror film out on the water. While talking to Casey Loving at TheWrap s studio at the 2026 Toronto International Film Festival, writer/direct Joshua Giuliano and stars Jane Levy, Jessica Roche, Dane DiLiegro, and Max Mattern recalled the experience of many night shoot days both on a real river and a man-made pond. This shoot was not easy, and I kept saying to [Joshua], When you do your next movie, you re gonna be like, Holy s t, I can t believe I had to do something this hard,' Levy said. Like just budgetarily and like being on a river, but he was really not freaked out when he would have to pivot, and you were very creative and flexible, and that was really cool to see. Giuliano had previously said that he learned the same lesson Steven Spielberg did shooting Jaws and that his next film would absolutely be on land. River follows three estranged siblings (Levy, Roche, and Mattern) who reunite to scatter their dad s ashes on a river and are hounded through the night by a masked killer (DiLiegro). Water slows you down, Giuliano said. It just cuts the amount of things you want to achieve on any given day in half, and so I plan everything, and yet we would show up multiple days and realize that we re not going to be able to do everything that we want to do, and so every day I got used to this, so it became part of the routine. I had to rethink the plan, and I had to 
 
-### Julián’ Director Louise Bagnall on Telling a Joyful Story About Kids Self-Expression in the Animated Feature
-Sat, 12 Sep 2026 22:36:27 +0000 — https://www.thewrap.com/creative-content/movies/julian-director-louise-bagnall-interview-tiff-2026/
+### Chase Infiniti Reveals Her Cheat Code for Playing a Math Prodigy in The Julia Set
+Sun, 13 Sep 2026 16:48:54 +0000 — https://www.thewrap.com/creative-content/movies/chase-infiniti-interview-the-julia-set/
 
-For those in the know, a new animated feature from Irish studio Cartoon Saloon is just as momentous an occasion as the latest from other, more well-known outposts like Pixar or LAIKA or Aardman or Studio Ghibli. This is, after all, the studio that gave us such treasures as “Wolfwalkers” and “Song of the Sea,” among others. The studio’s latest, “Julián” (a co-production with Mélusine Productions, Aircraft Pictures and Sun Creature Studio) marks the feature directorial debut of Louise Bagnall, the creative director of Cartoon Saloon. She began as a character designer on 2017’s “The Breadwinner” and by 2019 had written and directed her own short, “Late Afternoon,” which was nominated for an Oscar. Bagnall told Jada Yuan at TheWrap’s studio at the 2026 Toronto International Film Festival that she was immediately enchanted by Jessica Love’s 2018 children’s book “Julián Is a Mermaid” about a young boy who wants to become a mermaid and participate in the Coney Island Mermaid Parade. “I was just captivated by the illustrations and the characters, but especially by the the story at the heart of it. It s a beautifully told story, doesn t dictate to the reader, and it has this really joyful tone to it,” said Bagnall. “And I felt like there were themes in there that really could be explored deeper in a feature film. It was a great start.” The TIFF synopsis reads: “While his father is away for work, seven-year-old Julián goes to stay with his Dominican grandmother in Brooklyn. Their time 
+Chase Infiniti had a lot of nerves going into her role in “The Julia Set,” but it had more to do with the subject matter at hand than the acting challenge ahead of her. She d been cast as a math prodigy while, by her admission, math was never her thing. “I would not call myself a genius in any sense of anything,” Infiniti told Steve Pond at TheWrap’s studio at the 2026 Toronto International Film Festival. “I was telling my agent how nervous I was, because I was not good at math at school. That made me very anxious, because I was like, how am I going to portray somebody who s very good at math if I can t really do it myself.” Her agent, Gersh’s Rhonda Price, found a way in. “She told me, you have to just find something that you feel that you re very talented at. Take acting, you re passionate about it. Take that and bring it into Julia, and that s the way she feels about mathematics,” Infiniti said. “So that was my cheat code.” The coming-of-age film from Niki Byrne, in her feature debut, follows the One Battle After Another star as a college student who starts a relationship with her teacher’s assistant (“The Summer I Turned Pretty’s” Christopher Briney) as they’re preparing for a prestigious mathematics competition. Gillian Anderson, Jason Isaacs and Nina Hoss round out the rest of the cast. In his review for the film, TheWrap s Chase Hutchinson wrote : Even if you’ve appreciated Infiniti’s work prior, “The Julia Set” lets you fall in love with her talent all over again, par
 
-### Evil Genius Review: Patricia Arquette Is Killer in Courteney Cox s Twisted True Crime Tale
-Sat, 12 Sep 2026 22:23:45 +0000 — https://www.thewrap.com/creative-content/movies/evil-genius-review-courteney-cox-patricia-arquette/
+### Your Mother Your Mother Your Mother Review: Mahershala Ali Is Astounding in Revelatory Action Thriller
+Sun, 13 Sep 2026 16:26:33 +0000 — https://www.thewrap.com/creative-content/movies/your-mother-your-mother-your-mother-review-mahershala-ali/
 
-One of the most striking guilty pleasures of the last decade or so for many viewers looking for a nice evening at home is watching true crime documentaries. Getting into the mind of a killer has become quite the American pastime in millions of households, including through wildly popular true crime podcasts, and one documentary that made Netflix the go-to resource for all things murder was the 2018 series Evil Genius. I recently rewatched this stunning docuseries, which depicts a pizza delivery man named Brian Wells who, in 2003 in Erie, Pennsylvania, is filmed with a bomb strapped to his collar before it explodes in front of local police. The details of this case and the conspiracies surrounding it led directly to the arrest of Marjorie Diehl-Armstrong, a self-described genius who investigators believed concocted the plot to kill Wells. Why and how are at the center of a docuseries where Diehl-Armstrong is interviewed from prison, denying her involvement while attempting to manipulate the filmmakers recording her story. Now, Courteney Cox, best known for her work on Friends, has debuted her latest directorial effort at the Toronto International Film Festival, also titled Evil Genius and covering the same ground, albeit in narrative form this time around. Based on the 2018 docuseries, we witness a film adaptation of events leading up to Wells death and the reasoning behind his high-profile murder. Cox s adaptation is a stellar portrayal of life imitating art, capturing the mi
+Achingly rooted in the tribulations of this world, director Bassam Tariq’s “Your Mother Your Mother Your Mother” takes the trappings and tropes of the hitman story and baptizes it with spiritual sensibilities. The Islamic faith that defines Tariq’s assassin-for-hire protagonist Latif (Mahershala Ali) is not merely window dressing, nor is it just eclectic seasoning to separate it from other contract killer with haunted past unleashes vengeance films. This movie is a piece of art that seriously grapples with what it means to be a people of faith, to offer grace and to labor for a better world when the world that surrounds advocates for the opposite. It makes room for rumination while delivering the most thrilling set pieces you’ll see in a film of this type, making for a gritty, aching and riveting cinematic miracle. From the very start of the film, Tariq shows that sermonization and entertainment can go hand in hand. We see Latif brutally dispatch a man in a washroom, while we hear a Hadith recited from which the film gets its title: “A man came to the prophet and asked who deserves the best of me,” to which the prophet replied “your mother” three times before saying “your father.” That this not-so-subtle platforming of motherhood in the Islamic tradition is being repeated to us whilst we see Latif in the throes of his work is striking; even as he fights to provide for his family, he can’t help but feel a sense of inadequacy as he goes about his provision. When his wife dies i
 
-### Pierce Brosnan Says Next James Bond Could Probably Be Someone That None of Us Know About
-Sat, 12 Sep 2026 22:22:18 +0000 — https://www.thewrap.com/creative-content/movies/pierce-brosnan-next-james-bond-none-of-us-know/
+### ‘Pretenders’ Review: Chrissie Hynde Doesn’t Enjoy Telling Her Story, But You Might Enjoy Watching It
+Sun, 13 Sep 2026 16:17:00 +0000 — https://www.thewrap.com/creative-content/movies/pretenders-documentary-review-chrissie-hynde/
 
-Former James Bond star Pierce Brosnan says that the next actor to be cast in the iconic role might not be one of the many names that has been reported to be in consideration already. There are lots of good hats in the ring. Lots of great actors. I see it. I follow it, Brosnan told The Times in an interview published Friday. They could probably just go left-field and pick someone that none of us know about.” The 73-old-actor, who starred as Bond in GoldenEye, Tomorrow Never Dies, The World Is Not Enough and Die Another Day, went on to emphasize that he has no personal preference on who ends up in the role, saying that I wouldn’t pick anyone. My wife told me not to say anything and I’ve said too much. Because once I say something it goes (everywhere) and I get hanged.” I’m just a member of the audience now awaiting the next Bond and wishing him well, Bronsan continued. The casting process for the next James Bond remains ongoing as Amazon MGM Studios develops its coming reboot of the long-running spy franchise. The studio has tapped Dune trilogy director Denis Villeneuve to helm the revival, with Peaky Blinders creator Steven Knight on board to write. Jacob Elordi, Callum Turner, Jack Lowden and Harris Dickinson are among the names swirling in reporting on the casting considerations for the reboot. Amazon MGM Studios has kept developments on the project closely guarded since acquiring creative control in a landmark deal with the Broccoli family, the decades-long stewards of the 
+When “Pretenders” was announced as one of the galas at this year’s Toronto International Film Festival, the title appeared on the list without any advance word or details about what it was. The director, Joss Crowley, was best known for documentaries and music films, so it made sense that it might be a doc about the rock band of that name – but would Chrissie Hynde, the famously opinionated and press-shy leader of the band, really want to cooperate with a feature length portrait? Well yes, “Pretenders” really is a documentary about the Pretenders. And no, Hynde really didn’t want to cooperate with it. She admits as much late in the film, when Crowley asks her, during the last of three years’ worth of interviews, “Have you enjoyed talking?” “I wouldn’t say I’ve enjoyed it,” she says immediately. So there’s a built-in tension in “Pretenders,” the in-depth story of a pioneering rock ‘n’ roller who’d just as soon not go too in-depth. Hynde did interviews over the course of three years but only agreed to be filmed for the final session – and even that was done with her a little out of focus and partially obscured by a large microphone. Throughout, she somehow comes across as both wildly frank and thoroughly cautious. If she wants to talk about something, she’s open and blunt, but the film is also filled with moments in which she says things like “I don’t want to talk about it” or “that’s all I’m going to say about that.” The thing is, tension is an appropriate baseline for the sto
 
 ## Collider
 
-### Anya Taylor-Joy Officially Dominates Streaming With Stunning 550-Day Streak
-Sun, 13 Sep 2026 14:00:11 GMT — https://collider.com/anya-taylor-joy-the-gorge-lucky-apple-tv-streaming-streak-550-days/
+### 10 Greatest Books of the Last 20 Years, Ranked
+Sun, 13 Sep 2026 18:49:11 GMT — https://collider.com/best-books-last-20-years-ranked/
 
-Having featured in two of the summer's biggest hits, Spider-Man: Brand New Day and The Odyssey , actors Zendaya and Tom Holland have perhaps reached the peak of their respective careers. The two movies have broken numerous records and grossed a combined total of more than $4 billion worldwide. Spider-Man: Brand New Day is among the three biggest releases in global box-office history, and is poised to become the biggest domestic hit of all time. Meanwhile, The Odyssey was recently crowned the biggest Universal release of all time. There is, however, another actor who has had a tremendous year so far, and still has a trump card up her sleeve.
+When we watch films and TV , it can be a personal experience, but oftentimes, we share it with other people watching alongside us. Reading books , on the other hand, can be a bit more personal. The experience of holding a tactile work of art in our hands gives us the gift of escaping to a descriptive world where we can imagine the place on the page in our minds.
 
-### 'Buffy the Vampire Slayer' Reunites at 2026 Emmys
-Sun, 13 Sep 2026 13:41:11 GMT — https://collider.com/buffy-the-vampire-slayer-revival-reunion-2026-emmys/
+### The 10 Most Groundbreaking Movies of All Time, Ranked
+Sun, 13 Sep 2026 18:40:11 GMT — https://collider.com/most-groundbreaking-movies-all-time-ranked/
 
-Buffy the Vampire Slayer has had a tumultuous year so far . After rallying the original cast and securing Chloe Zhao as the director, the revival series seemed to be moving forwards in production. But earlier this year, it was announced that the revival was canceled and Buffy would not be returning. Fans have slowly come to terms with the lack of a reunion, but the Emmys might give audiences a little more Buffy content . Two stars are set to present at the September 14th awards show, encouraging excitement online among Buffy fans.
+It can take some time passing before you know for sure, but otherwise, it’s easy to know when something is groundbreaking or ahead of its time. If you can look back on a piece of entertainment and observe that it both holds up well beyond the time it came out, and can also see other comparable pieces of entertainment that’ve been inspired by it, then you're likely looking at something groundbreaking.
 
-### Jason Statham’s 95-Minute Action Thriller Is Officially Getting a Second Chance on Digital
-Sun, 13 Sep 2026 13:15:11 GMT — https://collider.com/mutiny-jason-statham-box-office-digital-streaming-release/
+### Ridley Scott’s Sci-Fi Horror Classic Officially Lands on Netflix
+Sun, 13 Sep 2026 18:30:11 GMT — https://collider.com/ridley-scott-sci-fi-horror-alien-streaming-netflix-september-2026/
 
-A disappointing box-office run isn't affecting the performance of Jason Statham 's latest movie on digital. If anything, the film's theatrical release created enough awareness about it among viewers. The movie was hit by a major setback ahead of its debut, when it was accidentally uploaded on Prime Video for a few hours, and then disseminated on illegal file-sharing sites by online pirates. This didn't appear to dent the film's box-office performance much, given how Statham's other 2026 release, Shelter , performed in its theatrical run this past January. Shelter made around $14 million domestically, against a reported budget of $50 million, falling drastically short of both A Working Man and The Beekeeper .
+It's hard to reinvent and transform one genre, let alone two. But that's exactly what Ridley Scott managed to do almost fifty years ago when he cross-bred the haunted house trope with a creature feature, stuck it in space and, in the process, introduced terrified audiences to one of cinema’s most terrifying creatures in the process. Five decades later, it still scares the life out of everyone.
 
-### 64 Years Later, John Wayne’s Classic War Movie Still Has the Greatest Quote
-Sun, 13 Sep 2026 12:56:11 GMT — https://collider.com/john-wayne-war-movie-the-longest-day-quote/
+### Hulu’s 4-Part ‘Godfather’-Style Crime Epic Has the Mob Boss Tony Soprano Could Never Be
+Sun, 13 Sep 2026 18:22:11 GMT — https://collider.com/hulu-godfather-of-harlem-the-sopranos-forest-whitaker-crime-epic/
 
-There are hundreds, if not thousands, of films depicting the gut-wrenching peril and horror of war. But there’s only one that can claim its rightful throne as the film that saved 20th Century Fox from complete financial ruin . The 1962 epic starring John Wayne , The Longest Day , captures the cinema icon as Lieutenant Colonel Benjamin Vandervoort, a real-life paratrooper in the 82nd Airborne Division during the D-Day invasion. Despite the heavy criticism from audiences regarding the historical accuracy of the film, half a century and some change later, one quote still rings particularly loud in the ears of fans and critics alike.
+In the world of crime dramas, very few have had the impact of The Sopranos . The late, great Michael Gandolfini plays Tony Soprano, a crime boss struggling to keep his empire and his family intact. Gandolfini's performance peeled back Tony's layers, revealing that beneath his tough-guy bravado is a front for dealing with deep depression. The Sopranos made HBO a pillar of primetime television and helped pave the way for other complex antiheroes like Mad Men 's Don Draper and Breaking Bad 's Walter White. However, a modern crime series features a protagonist who's more Machiavellian than Tony could ever hope to be .
 
-### Forget 'Heated Rivalry,' Prime Video's Steamy 8-Part Romance Is Officially a 100-Day Hit
-Sun, 13 Sep 2026 12:45:11 GMT — https://collider.com/off-campus-100-day-streaming-hit-prime-video-september-2026/
+### Tom Hardy’s Brutal Western Masterpiece Is Officially Conquering the Global Charts Again
+Sun, 13 Sep 2026 18:00:11 GMT — https://collider.com/tom-hardy-western-the-revenant-streaming-hit-hbo-max-september-2026/
 
-Late last year, viewers were stunned and enthralled when HBO delivered its steamiest series of the past year . A gripping, NSFW hockey-based drama, Heated Rivalry followed the secret long-term relationship between rivals Shane and Ilya ( Hudson Williams and Connor Storrie ) as it twisted and turned in romantic chaos. A six-episode adaptation of Rachel Reid 's Game Changers , the series earned an average of 10.6 million viewers per episode on HBO Max, which doubled following the December 26 finale, and eventually earned the green light for a second season .
+Following the return of the Theo James -led crime comedy The Gentlemen for a must-watch second season, Guy Ritchie 's other great modern TV series is ready to shoot back onto our screens. Set to officially begin streaming on September 18, MobLand Season 2 will see Pierce Brosnan ( Mamma Mia! ), Helen Mirren ( Gosford Park ), and Paddy Considine ( Doctor Sleep ) all return alongside Tom Hardy 's Harry Da Souza, following reports that he had been fired from the show amid off-screen conflicts, which were eventually squashed, and a third season starring Hardy greenlit.
 
-### 7 'GTA Clones' That Excelled Where Rockstar Couldn't
-Sun, 13 Sep 2026 12:34:11 GMT — https://collider.com/grand-theft-auto-clones-ranked/
+### Lovecraft Meets ‘Watchmen’ in HBO’s 88% RT Sci-Fi Horror Series
+Sun, 13 Sep 2026 17:58:11 GMT — https://collider.com/lovecraft-country-hbo-sci-fi-horror-series/
 
-There's no one in the industry who can create a crime-filled open-world sandbox quite like Rockstar Games, and it seems no one in the West is willing to even try anymore. Rockstar earned their monopoly honestly through obsessive attention to detail and by raising the technical bar with each release. Grand Theft Auto VI will surely raise that bar again when it launches November 19. But the genre they defined used to be a competitive one.
+Fans of horror have been treated to some great movies and series recently, but it's still rare to see stories in visual media adapting the works of H.P. Lovecraft . His writings are foundational for anyone who wants to explore the weird and cosmic side of horror, from his short stories to the Cthulhu mythos, but only one series has openly used his work to tell a fresh story: Lovecraft Country . This short-lived HBO series is still one of its best, applying Lovecraftian horror to a story set in the Jim Crow U.S. and tackling issues of race, segregation, and prejudice from a unique perspective. With an 88% score on Rotten Tomatoes , it remains one of television's best takes on Lovecraft and cosmic horror.
 
-### Russell Crowe's R-Rated Marvel Movie Officially Joins Spider-Man on Disney+
-Sun, 13 Sep 2026 12:30:11 GMT — https://collider.com/russell-crowe-kraven-the-hunter-streaming-disney-plus-september-2026/
+### Taron Egerton's Sharp New Horror-Comedy Flips the 'Obsession' Formula | TIFF Review
+Sun, 13 Sep 2026 17:54:40 GMT — https://collider.com/everybody-wants-to-fck-me-taron-egerton-review/
 
-Spider-Man as a character is interesting enough, and we want to see him interact with villains and defeat them. The baddies are far less compelling without, you know, a hero to fight and that's the battle that plagued Sony as they tried to build an interconnected superhero franchise without a... superhero. While the Venom trilogy became a major commercial success, Morbius and Madame Web were savaged by critics, leaving one more standing and waiting for its fate.
+In Jonathan Schey ’s debut feature, Everybody Wants to F*ck Me , Taron Egerton ’s charming and charismatic Adam would like you to know he’s a nice guy. He'd like everyone to know that, in fact; that's why he reads the right books, always makes sure he’s watching the right films, carries a Mubi tote bag wherever he goes , and knows exactly how to make a woman feel like she’s met one of the few decent men left in London. Despite his level of awareness of the type of guy he doesn’t want to be, Adam has spent so much of his time building up a convincing image of himself as a "nice guy" that he has never once stopped to ask whether any of it actually makes him a good person at the core. It's this question that powers one of the most surprising films of 2026 , which sees director Schey have plenty of fun poking at that idea with several threads.
 
-### 10 Crime TV Shows With Perfect Finales, Ranked
-Sun, 13 Sep 2026 12:21:11 GMT — https://collider.com/crime-shows-perfect-endings-ranked/
+### 'Being Heumann' Is a Worthy Follow-up to Oscar-Winning 'CODA' | TIFF Review
+Sun, 13 Sep 2026 17:43:59 GMT — https://collider.com/being-heumann-review-sian-heder-coda-mark-ruffalo/
 
-Over the last 30 years, crime television has delivered some of the best and most compelling stories the small screen has ever seen. It doesn’t matter whether the genre is tackling corruption and the abuse of authority within the police force, the frantic desperation of organized crime, or the horrific intricacies of a murder investigation; its appetite for absorbing drama has always been evident.
+From the opening scene of Being Heumann , it is clear that Ruth Madeley 's portrayal of the titular activist Judy Heumann is a force to be reckoned with. As she drives her wheelchair down a busy New York street during rush hour, forcing traffic to move at her speed because she has no access to the sidewalk, it's clear that she will not be deterred or compromise at the expense of others; after all, she's been forced to live at her own expense her entire life. And by the time the title card hits, it is clear why she's willing to take an impulsive step further in an effort to move her cause forward.
 
-### 'Ocarina of Time' Revolutionized Gaming. Nearly 20 Years Later, 'Breath of the Wild' Pulled It Off Again
-Sun, 13 Sep 2026 12:18:11 GMT — https://collider.com/the-legend-of-zelda-breath-of-the-wild-vs-ocarina-of-time/
+### Arnold Schwarzenegger’s Failed ‘Terminator’ Reboot Officially Gets a Second Chance on Free Streaming
+Sun, 13 Sep 2026 17:31:11 GMT — https://collider.com/arnold-schwarzenegger-terminator-genisys-streaming-free-pluto-tv-september-2026/
 
-In 1998, The Legend of Zelda: Ocarina of Time revolutionized a medium still figuring out the jump to 3D, handing the industry a blueprint that is still followed today. Nearly 20 years later, Nintendo did it again. Unlike OoT , The Legend of Zelda: Breath of the Wild entered the scene when the open-world genre had already matured. That didn't stop the 2017 Game of the Year winner from tearing the scaffolding down and turning the genre on its head. Most open-world games of its era, such as The Elder Scrolls or Far Cry , were locked in a never-ending battle to populate their worlds with more: more icons littering the map, more collectibles to distract you from your journey, more cloned NPCs providing a false sense of a living world. Nintendo's first attempt at a modern open-world Zelda opted for a surprising approach: It decided to give the players less .
+The one franchise that Hollywood refuses to leave alone and has tried every trick in the book to make work, is Terminator . Created by James Cameron decades ago, the franchise has seen it all over the years. At its peak, it had expanded across different media. However, the most recent theatrical films both fell short of expectations; one was a critical flop, and the other was a commercial bomb. With the rights to the series currently in the hands of David Ellison , it remains to be seen where he'll take it next, especially with the Warner Bros. merger in the works. In 2019, Ellison's Skydance worked with Cameron on a new reboot, Terminator: Dark Fate , which underperformed commercially and led to star Arnold Schwarzenegger seemingly admitting defeat. The star had previously criticized the writing of the franchise's 2015 reboot, which is currently streaming for free in the United States.
 
-### Denis Villeneuve's 10/10 Sci-Fi Sequel Has Officially Taken Over the World
-Sun, 13 Sep 2026 12:00:11 GMT — https://collider.com/denis-villeneuve-blade-runner-2049-streaming-hit-hbo-max-september-2026/
+### Nearly 60 Years Later, One ‘Peanuts’ Character Feels More Relevant Than Ever
+Sun, 13 Sep 2026 17:19:11 GMT — https://collider.com/peanuts-franklin-first-black-character-legacy/
 
-We are now less than 100 days away from the culmination of one of the century's best film trilogies. Released on the same date as another major blockbuster in Avengers: Doomsday , December 18, Dune: Part Three will provide one final flourish to Denis Villeneuve 's acclaimed trilogy adapting Frank Herbert 's Dune novels. So far in the series, both Dune and Dune: Part Two have risen to the status of "masterpiece," and all eyes are on the third to complete a perfect set.
+In 1968, with the introduction of Franklin in Peanuts , Charles M. Schulz wasn’t merely adding a new character to Charlie Brown ’s group. He was introducing a Black character in one of the most popular comic strips in America at a time when the nation was facing racial and civil rights tensions, as well as the assassination of Martin Luther King Jr.
 

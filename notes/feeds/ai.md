@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-13T14:40:30.438Z
+# AI — harvested 2026-09-13T18:57:12.559Z
 
 ## OpenAI
 
@@ -6,11 +6,6 @@
 Mon, 14 Sep 2026 00:00:00 GMT — https://openai.com/index/perplexity-improving-accuracy-with-astra
 
 Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.
-
-### Cognition helps Devin test its own work with GPT‑6 Astra
-Fri, 11 Sep 2026 16:00:00 GMT — https://openai.com/index/cognition-devin-testing-with-astra
-
-GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.
 
 ## Hugging Face
 

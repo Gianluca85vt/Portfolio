@@ -1,6 +1,16 @@
-# Manga — harvested 2026-09-13T14:40:30.438Z
+# Manga — harvested 2026-09-13T18:57:12.559Z
 
 ## Anime News Network
+
+### From Far Away Volumes 1-7 Manga Review
+Sun, 13 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/from-far-away/volumes-1-7/.241308
+
+Once upon a time, in the distant days of 1991, girls sent to another world didn't land there with cheat abilities.
+
+### The Idolm@ster SideM Franchise Gets Film, 1st Console Game
+Sun, 13 Sep 2026 11:08:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/the-idolm@ster-sidem-franchise-gets-film-1st-console-game/.241733
+
+Film to open on November 20, D3 Publisher & Bandai Namco plan game for Switch/Switch 2
 
 ### #I'm Looking For Zombie Anime's Main Trailer Reveals More Cast & Staff Members, Theme Songs, October 3 Debut
 Sun, 13 Sep 2026 07:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/im-looking-for-zombie-anime-main-trailer-reveals-more-cast-and-staff-members-theme-songs-october-3-/.241722
@@ -52,21 +62,16 @@ Sat, 12 Sep 2026 21:42:25 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Precure girls from 3 series unite in film opening next Friday
 
-### Orb, 100 Meters Manga Creator Uoto to Launch 2 New Manga Series
-Sat, 12 Sep 2026 21:00:20 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/orb-100-meters-manga-creator-uoto-to-launch-2-new-manga-series/.241706
-
-Uoto to launch <cite>Hallucination Meat</cite>, also partners with Kyō Yoneshiro for <cite>Test Taker/Cheaters</cite>
-
-### Tokyopop Releases Can't Buy My Love, Romantically Challenged, 3 More Manga in 2027
-Sat, 12 Sep 2026 16:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/tokyopop-releases-cant-buy-my-love-romantically-challenged-3-more-manga-in-2027/.241694
-
-Company also licenses <cite>A Fangirl's Guide to Learning How to Date 3D Men, LOVE IS PAIN, How to Fall In Love with You Again</cite>
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Mushoku Tensei: Jobless Reincarnation Season 3 Blu-ray Volume 2 Reveals Shirotaka Jacket Artwork Featuring Current and Future Rudeus
+Sun, 13 Sep 2026 15:59:36 GMT — https://animecorner.me/mushoku-tensei-jobless-reincarnation-season-3-blu-ray-volume-2-reveals-shirotaka-jacket-artwork-featuring-current-and-future-rudeus/
+
+Mushoku Tensei: Jobless Reincarnation Season 3 has revealed the jacket visual for its second&hellip;
 
 ### BanG Dream! Our Notes Announces September 24 Release Date, New Trailer Revealed
 Sun, 13 Sep 2026 12:17:11 GMT — https://animecorner.me/bang-dream-our-notes-announces-september-24-release-date-new-trailer-revealed/
@@ -122,11 +127,6 @@ Katekyo Hitman REBORN! anime released the creditless version of its sixth ending
 Sat, 12 Sep 2026 11:05:07 GMT — https://animecorner.me/madoka-magica-walpurgisnacht-rising-reveals-new-trailer-and-third-key-visual-by-ume-aoki/
 
 Puella Magi Madoka Magica the Movie: Walpurgisnacht Rising revealed a new key visual and&hellip;
-
-### Fall in Love, You False Angels Anime Trailer Reveals Main Voice Cast
-Sat, 12 Sep 2026 10:45:10 GMT — https://animecorner.me/fall-in-love-you-false-angels-anime-trailer-reveals-main-voice-cast/
-
-Fall in Love, You False Angels anime revealed a new trailer and main voice cast ahead of its 2027 release date.
 
 ## MyAnimeList News
 

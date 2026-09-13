@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-13T14:40:30.438Z
+# Tech — harvested 2026-09-13T18:57:12.559Z
 
 ## Ars Technica
 
@@ -37,22 +37,27 @@ Fri, 11 Sep 2026 19:34:09 +0000 — https://arstechnica.com/tech-policy/2026/09/
 
 The New Mexico Supreme Court held a ChatGPT-using lawyer in direct contempt of court for submitting a brief with "false testimony from wholly fabricated witnesses," including fake police testimony and other mistakes. The state's top court referred the lawyer to a disciplinary board for further proceedings and concluded that he "demonstrated a lack of remorse and a lack of concern for his client." Attorney Stephen Aarons "admitted to the Court that he did not verify the factual claims and legal authority in his AI-generated brief before signing it and filing it with the Court, and that he did not inform his client of this failure or that the brief in chief contained multiple factual and legal misrepresentations," the state Supreme Court said in an order on Wednesday. Aarons has been a criminal defense lawyer in New Mexico for over 40 years and was hired by a defendant's family members to appeal a murder conviction. Aaron's now-former client, Oscar Renee Sandoval, was sentenced to life in prison in February 2025 after being convicted of killing Shiereen Al-Jibury, who was his partner and the mother of his children. Read full article Comments ]]>
 
-### Scientists unlock secrets of ancient Egyptian materials with proteomics
-Fri, 11 Sep 2026 18:49:39 +0000 — https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/
-
-Credit: Museum of Mediterranean and Near Eastern Antiquities, Stockholm Credit: Museum of Mediterranean and Near Eastern Antiquities, Stockholm The precise composition of ancient Egyptian paints, binders, adhesives, and similar materials used to make artifacts is largely unknown, in part because a full analysis would require taking samples that would damage those valuable artifacts. The development of cutting-edge, non-destructive techniques has been helping to unlock those secrets, aiding conservation efforts. Most recently, researchers have used mass spectrometry-based proteomics to analyze the glues and adhesives in a broad set of Egyptian artifacts, according to a new paper published in the journal Science Advances. They found plenty of expected sources, such as animal collagens and egg proteins, but also plant proteins, specifically from sesame and drumstick tree (moringa) cereals. As previously reported , the ancient Egyptians had a highly formalized (and easily recognizable) painting style, and there has been considerable interest in gaining insights into the specific pigments and painting techniques employed. Common pigments included hematite and realgar for red; goethite and orpiment for yellow; Egyptian blue; Egyptian green; carbon-based black; and calcite, gypsum, anhydrite, and huntite for white. (Just last year, Washington State University researchers were able to re-create Egyptian blue by mixing together silicon dioxide, copper, calcium, and sodium carbonate in
-
-### Oracle tries to appease Stargate data center opponents with renewables push
-Fri, 11 Sep 2026 18:22:22 +0000 — https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/
-
-Oracle’s proposed investment in 2 gigawatts of renewable energy projects for New Mexico comes as local opposition could delay development of the Project Jupiter data center that Oracle is building for OpenAI. The two tech companies are developing the $165 billion Project Jupiter data center in Santa Teresa, New Mexico, as part of the broader Stargate AI infrastructure project announced by President Donald Trump in 2025. But Project Jupiter faces local protests and court battles over concerns about its environmental impacts—and the latest Oracle announcement on September 8 seeking proposals for renewable energy projects does not change the fact that the data center will be powered by fuel cells that consume natural gas. “Like all matching programs, this would be synthetic in the sense that 2 GW of renewables wouldn't directly power the data center,” wrote Michael Thomas, CEO of the Cleanview data platform that tracks renewable energy and data center projects, in a LinkedIn post . Read full article Comments ]]>
-
-### NASA moving at warp speed to set up US Space Academy
-Fri, 11 Sep 2026 16:20:43 +0000 — https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/
-
-NASA has released a document that provides some initial details about the proposed United States Space Academy, and it's clear that the space agency wants to move quickly in establishing the institution. According to the document's timeline , NASA seeks a groundbreaking for a permanent campus no later than next year, the first class to be enrolled and begin studies in temporary facilities in 2028, and a transition to a permanent campus in 2031. What will that campus look like? Read full article Comments ]]>
-
 ## The Verge
+
+### Apple is reportedly working on iPhone game controllers
+2026-09-13T14:30:16-04:00 — https://www.theverge.com/tech/994426/apple-iphone-game-controllers
+
+Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party devices. Despite the code being found in macOS, not iOS, Gurman says the controllers are designed for iPhones. Additionally, he says that it is Beats executives leading the charge on this product. Apple sometimes uses its subsidiary brand to experiment with new product categories and compete at … Read the full story at The Verge. ]]>
+
+### The Units’ Digital Stimulation is synthpunk perfection
+2026-09-13T13:36:10-04:00 — https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review
+
+The Units are a band I discovered in part thanks to No Dogs in Space . During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - punk rock and synthesizers . The site was down that day (it appears to be back up now), but I was able to access a version from July through the Wayback Machine. What greeted me was a bare-bones site with links for six bands, including The Screamers. But at the top was The Units, a band I'd never heard of and, after tracking down their 1980 record D … Read the full story at The Verge. ]]>
+
+### Waymo pulls over, calls cops on riders with a ghost gun
+2026-09-13T10:28:12-04:00 — https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun
+
+Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating the autonomous car, Waymo later confirmed it was one of its vehicles to the Los Angeles Times . A spokesperson told the LA Times that a "violation of our terms of service involving a firearm" was detected. At which point the car pulled over and alerted the authorities. Earlier this year, a Waymo faked having mechanical problems to pull over when … Read the full story at The Verge. ]]>
+
+### Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster
+2026-09-13T09:00:00-04:00 — https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026
+
+Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam Tariq). In retrospect, though, the disappointing demise of Blade might not be such a bad thing, because Tariq and Ali have collaborated on something much more interesting than a superhero reboot: the powerful hitman thriller Your Mother Your Mother Your Mother . That was one of five movies I was able to cram into a very hectic third day at the Toronto International Film Festival (you can see my previous re … Read the full story at The Verge. ]]>
 
 ### Your car is selling your data
 2026-09-13T08:00:00-04:00 — https://www.theverge.com/column/994172/your-car-is-selling-your-data
@@ -83,26 +88,6 @@ Blizzard originally tried to bring the StarCraft universe to the world of 3D sho
 2026-09-12T12:35:00-04:00 — https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music
 
 Sylvan Esso preparing to attend a frutiger aero renfaire. Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single " Hey Mami ." Over the years, they've put out a number of excellent records, dabbling in dustier, more fragile textures on Free Love , going dancier and glitchier on No Rules Sandy . The two are constantly pushing at the edges of their sound while retaining the core of what makes a Sylvan Esso record sound like a Sylvan Esso record. Their new album Ow &infin; , released this past Friday, represents perhaps the boldest reinvention of their sound, how … Read the full story at The Verge. ]]>
-
-### Anthropic CEO says it’s time to pump the brakes on AI
-2026-09-12T12:23:40-04:00 — https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development
-
-Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its "adherence to safety practices and commitments." In a winding essay , Amodei proposed a three-step plan to "pace the frontier" - jargon that simply means to slow the pace of training and development to give companies time to build safeguards and regulators to evaluate models. Amodei says that giving external evaluators wide-ranging access is just the first step, and one it is taking now unilaterally . Step two would involve the industry coming together as a whole, likely with gove … Read the full story at The Verge. ]]>
-
-### LG responds to TV spying allegations
-2026-09-12T11:19:44-04:00 — https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations
-
-Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that "Some recent media coverage may have contributed to misconceptions about how LG smart TVs work." LG released a statement in which it claims that its "TVs do not continuously record or transmit users' conversations," and that wake-word detection is all processed locally. However, the word "continuously" is doing a lot of heavy lifting here as Gamers Nexus demonstrated an LG TV keeping extensive l … Read the full story at The Verge. ]]>
-
-### Trump is giving data centers a pass to pollute
-2026-09-12T10:41:27-04:00 — https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa
-
-President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report . They are urging - perhaps futilely - the president to adopt a "Data Center Health Protection Pledge" to signal that the administration is taking the environmental threat seriously. At the start of his term, Trump's EPA administrator, Lee Zeldin, proclaimed his goal of making America " the AI capital of the world " through deregulation. Since then, Zeldin and the White House have rolled back dozens of rules … Read the full story at The Verge. ]]>
-
-### Laika’s stop-motion fantasy Wildwood looks so smooth
-2026-09-12T09:00:00-04:00 — https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian
-
-Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Even if you don't know the name Laika, you probably know the studio's work; it's the animation house behind stop-motion hits like ParaNorman , The Boxtrolls , and Kubo and the Two Strings . Over the years Laika's films have steadily gotten more impressive on both a technical and artistic level. Which brings us to the incredible-looking Wildwood , hitting theaters next month. If you're unfamiliar, here' … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -230,9 +215,82 @@ Along with KDE Plasma 6.8 beta releasing this week, there were some other intere
 
 ## The Register
 
-_Nothing in the last 48 hours._
+### The improbable music of the ZX Spectrum's one-bit speaker
+Sun, 13 Sep 2026 15:00:00 +0200 — https://www.theregister.com/offbeat/2026/09/13/the-improbable-music-of-the-zx-spectrums-one-bit-speaker/5295862
+
+Even for 1982, the Sinclair ZX Spectrum had poor sound: a piezoelectric speaker that could beep. But you can do a lot with a single bit if you turn it on and off really fast. Michael Martin's Bumbershoot Software site has done some fascinating deep dives into several long-gone computer systems, including a whole series on implementing a game on the ZX Spectrum, starting in May with Giving the ZX Spectrum a Fair Shake. More recently, though, Martin turned his attention to the Spectrum's very limited sound capabilities. As we write, his newest post is Experimenting With 1-Bit Sound. The post concerns the original 16K and 48K ZX Spectrum models, not the Spectrum 128, with its fancy AY-3-8912 sound chip (also found in the US Timex Sinclair 2068). Even as devoted Spectrum enthusiasts, we didn't expect an article about the machine's limited sound hardware to lead to hours of listening pleasure. The Manic Miner intro music, after all, is a fair representation of early Spectrum chiptunes. (Turn your speakers way down before you listen!) The ZX Spectrum could play music from the outset – Steven Vickers' original Spectrum BASIC Manual includes the code for a tiny fragment of Mahler. As The Register reported in 2015, Matt Westcott's Mahler Project used a networked collection of original Spectrum computers to play all the parts of Mahler's First Symphony. Over at Bumbershoot Software, Martin is interested in programming the very limited hardware of these early home computers, and so his 
+
+### Security through obscurity is dead, and AI delivered the fatal blow
+Sun, 13 Sep 2026 13:21:00 +0200 — https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000
+
+The term "security through obscurity" describes an old idea that networks and systems will remain secure so long as their architecture, along with any vulnerabilities or other weaknesses, remains secret or hidden. It was never a sound strategy for protecting sensitive assets and systems, but many organizations leaned on it due to lack of resources or complacency. Now it’s obsolete. Don’t believe us? Here’s proof. Software vendors and independent researchers alike are now using AI agents to find bugs – some very obscure and decades old – across products and open source code, leading to record-breaking numbers of security disclosures and patches, and a massive backlog for project maintainers. “You see open source platforms that have been visible to the tech community for a decade, these libraries that are run in 80 percent of web servers out there, people have stress-tested those for 10 years, and the community believed that they were really secure,” Brett Leatherman, assistant director of the FBI's Cyber Division, told The Register. “The latest models were able to break those and say, ‘yeah, there’s significant vulnerabilities in here.’” Whether or not security through obscurity is dead “isn't even an opinion question,” Trend Micro’s Zero Day Initiative chief bug hunter Dustin Childs told The Register, the day after Microsoft’s record-breaking Patch Tuesday addressed 974 CVEs. “When you look at all of the components patched by Adobe and Microsoft yesterday, you see components 
+
+### How to make Xfce look like almost any desktop you want
+Sun, 13 Sep 2026 11:09:00 +0200 — https://www.theregister.com/software/2026/09/13/how-to-make-xfce-look-like-almost-any-desktop-you-want/5295775
+
+PART 1 Xfce is one of the oldest and smallest desktops, but it's also one of the most malleable: it can look and work like multiple other OSes. Best of all, an optional extra Xfce tool automates away most of the configuration. Xfce has been around for 30 years, undergoing several facelifts while remaining one of the most configurable and lightweight Linux desktops. It started off looking like CDE, then it evolved into something more like Windows 95 before developing its own identity. The good news, though, is that you don't have to spend hours right-clicking and twiddling options to give it a whole new look. It has its own tool for this, called Panel Profiles. It's an optional extra that does the same job as Zorin OS's Appearance tool: it lets you flip between predefined desktop layouts in two clicks. It works on the fly, without even requiring you to log out, and you can also define and save your own custom layouts. With Panel Profiles, you can make Xfce resemble various versions of Windows, Xubuntu, Xfce itself, MATE (or GNOME 2, if you're nostalgic), Mac OS X, or Ubuntu Unity. In Part 1 of this two-part workshop, we'll show you how to install Panel Profiles and the extra components that let it really flex Xfce's muscles. To get the most out of some of the more unconventional layouts, you do need to do a little under-the-hood reconfiguration, and in part 2 we'll cover how to do that: it involves adding a few lines to plain-text files and doing a little manual point-and-clic
+
+### Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late
+Sat, 12 Sep 2026 15:26:00 +0200 — https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986
+
+Nvidia spent a whopping $20 billion late last year to license Groq’s AI accelerator tech and hire away key members of its engineering team in an everything-but-the-kitchen-sink deal. The acquihire technically left Groq’s core inference-as-a-service business intact, but was clearly architected in such a way as to fly under regulators' radar. Only it didn’t. This week, The New York Times reported that the US Department of Justice had launched an antitrust probe into the deal. It’s hard to argue that Nvidia didn’t strip the startup for parts. It may not have been a merger in the traditional sense, but without its engineering staff, Groq may as well be Nvidia’s puppet at this point. Despite this, Nvidia contends the deal is a great American success story. “The Groq story is a prime example of the American system working as designed to promote innovation, reward entrepreneurs, and benefit consumers. The law is designed to encourage America's startup ecosystem and promote the fundamental rights of inventors and workers to pursue their dreams,” an Nvidia statement provided to El Reg and other media reads. Whether the acquihire of Groq actually harmed competition is another matter entirely. But, even if the Justice Department did force Nvidia to unwind the team, it’s probably too late. What exactly did Nvidia buy? Nvidia’s Groq acquihire bought it two key assets: mature silicon and the talent necessary to continue its development. Groq – which, by the way, is completely unrelated to 
+
+### Dell's 52-inch enormo-monitor is a tsunami of impractical fun
+Sat, 12 Sep 2026 13:20:00 +0200 — https://www.theregister.com/personal-tech/2026/09/12/dells-52-inch-enormo-monitor-is-a-tsunami-of-impractical-fun/5290753
+
+FIRST LOOK Dell's UltraSharp 52 display is a joyously enormous head-turner, but probably too much monitor for most users. Dell debuted the display at the CES show earlier this year. It's now on sale for $3,000. Sadly, I lack a PC capable of driving the screen at its full 6144 x 2560 resolution and 120 Hz refresh rate. Even at a miserly 3840 x 2160, however, I often marveled at how much it could display. Consider the screenshot below, which shows 50 columns and 89 rows of a single Excel spreadsheet – 4,450 cells in total. Here's another look at the monitor in full flight: a screen grab of Zwift, the virtual cycling metaverse I visit regularly as part of my exercise routine. At that size, Zwift felt more immersive and enjoyable than it does on a smaller screen. The display also handled motion smoothly during Zwift. other games, and streamed video. Getting used to it It took me a while to appreciate the monitor. When I first plugged it in, my occasionally-stiff middle-aged neck strained as I swiveled to view content at the edges and corners, while wielding my mouse to move its pointer between the screen's extremities felt like flapping my arms. My eyes didn't enjoy the experience at first either. I wear mild reading glasses while working, and found myself repeatedly refocusing as I looked across the curved display. For the first few days I spent with the screen, I therefore practiced "pillarboxing" – running the display at 3840 x 2160 and only using the center of the monitor whi
+
+### The aircraft might not be flying, but the certificate has gone on vacation
+Sat, 12 Sep 2026 11:00:00 +0200 — https://www.theregister.com/offbeat/2026/09/12/the-aircraft-might-not-be-flying-but-the-certificate-has-gone-on-vacation/5295622
+
+BORK!BORK!BORK! We still don't know what caused the air traffic control mayhem in the UK in early September, but one information board at Luton Airport appears to have gone out in sympathy. Spotted by Register reader Mark, the digital sign usually shows passenger information. Today, however, it looks like either the system clock is wrong or someone has forgotten to renew a server certificate. It's not the usual "DNS. It's always DNS," but not far off. For those blissfully unaware, the UK's air traffic control system has had a bad week. A glitch in National Air Traffic Services (NATS) resulted in thousands of flight cancellations and travel disruption for around 330,000 passengers. And it appears whoever is running this information board at Luton has done the computing equivalent of "anything you can do I can do better." Luton Airport is a base for the likes of Ryanair and easyJet. Its logo looks like someone was playing Tetris when they were asked to dream up the branding, and it celebrated 5.5 million passengers passing through over the summer. The airport was not spared the chaos, along with many others, but the good news is that our reader's flight departed on time, and a delicious, cold adult beverage was waiting at the destination. For others wondering what has become of their flight, it's good to see that the information boards are already in another time zone, or whoever is responsible for keeping the server certificate valid has taken a well-earned vacation. Nobody re
+
+### AI more likely to kill animals if it saves fuel or money
+Fri, 11 Sep 2026 23:49:59 +0200 — https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993
+
+Amid debate about whether AI will kill everyone as a result of continuous self-improvement, it appears that models will kill animals in a simulated environment rather than spend extra fuel avoiding them. Some models did so at strikingly high rates. Researchers affiliated with Compassion Aligned Machine Learning (CaML) and the University of Warwick in the UK set out to measure the extent to which AI models demonstrate compassion. They describe their work in a preprint paper titled "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals." "In AI systems, we don't believe people are taking AI character evaluations very seriously," Jasmine Brazilek, CaML co-founder and head of evaluations and data, told The Register in an interview. So Brazilek, along with Miles Tidmarsh, Matthias Endres, Anshuman Singh, and Jeremiah Miller, devised a benchmark test called HarvestBench to evaluate the price that AI models put on the life of an animal. The test suite is based on a prior multi-agent farm simulation game called Harvest Rush that uses Inspect, a model evaluation framework developed by the UK AI Security Institute. HarvestBench assesses how AI agents treat animals while tasked with harvesting corn. The simulation imagines a crew of between two and eight LLM-driven tractors working a farm. The tractors traverse a field with rocks, bales of hay, and animals – farm animals and wild ones – that wander across the tractors' path. The game is set up to measure whether t
 
 ## Engadget
+
+### What's the difference between AppleCare+ and AppleCare One?
+Sun, 13 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2252855/applecare-plus-vs-applecare-one-differences/
+
+Should you get AppleCare+ or AppleCare One? We explain the difference in this post.
+
+### Apple's rumored gaming controller for iPhone could feature Beats branding
+Sun, 13 Sep 2026 18:02:36 +0000 — https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/
+
+Bloomberg's Mark Gurman said there are two gaming controllers in the works.
+
+### Stop wasting your Wi-Fi router's USB port — try this instead
+Sun, 13 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2252851/wifi-router-usb-port-explained/
+
+If you have a USB port on the back of your router and don't know what to do with it, try some of these straightforward options.
+
+### Car manufacturers are ditching CarPlay in 2026: Here's why
+Sun, 13 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2252850/why-car-manufacturers-ditching-carplay-explained/
+
+CarPlay lets you bypass your car's lousy infotainment system, but some manufacturers have decided they don't want you doing that anymore.
+
+### These useful accessories help extend your HDMI setup on a budget
+Sun, 13 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2251471/useful-accessories-help-extend-hdmi-on-a-budget/
+
+HDMI cables can only transmit a signal so far, but these accessories can extend that when you need something more.
+
+### What was the PSX? The souped-up PS2 rarely sold outside of Japan
+Sun, 13 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2252840/psx-ps2-console-history-rarely-sold-outside-japan/
+
+The PSX isn't just an alternative name for the first PlayStation. It was also a failed Sony console that never got a release outside Japan.
+
+### If your laptop trackpad is popping out, stop using it immediately
+Sun, 13 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2252834/laptop-trackpad-popping-out-stop-using-immediately-battery-swelling/
+
+Your trackpad probably covers a part of your laptop that can become a fire hazard in a hurry, so if your trackpad is shifting, it needs immediate attention.
+
+### Are Apple's wired EarPods still worth buying?
+Sun, 13 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2251050/apple-wired-earpods-still-worth-buying/
+
+Wired earbuds like EarPods might seem like a relic of the past, but they still have their place (and come at a great price).
 
 ### Here's what you can use instead of a docking station
 Sun, 13 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2252831/what-use-instead-of-docking-station/
@@ -254,47 +312,17 @@ Sun, 13 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2252822/how-to-get-
 
 Sony should soon be issuing payments for a class-action lawsuit, but your cut will likely be quite small.
 
-### External HDD vs. SSD: What are the pros and cons of each drive type?
-Sun, 13 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2252820/external-hdd-vs-ssd-pros-and-cons-drive-type/
-
-External SSDs are faster than HDDs, but if you need cost-effective backups or larger capacities, a hard drive may be a better choice for you.
-
-### Why your Roku keeps randomly turning off (and how to fix it)
-Sun, 13 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2252813/roku-tv-randomly-turns-off-fixes/
-
-A Roku is usually a straightforward device, but they can run into power problems. This is what to check if yours powers off all the time.
-
-### Why do routers have so many antennas?
-Sun, 13 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2251223/why-routers-have-many-antennas/
-
-It seems like routers keep growing more antennas each year. Is this a marketing gimmick, or is there a good reason?
-
-### What is the difference between a dead pixel and a stuck pixel?
-Sun, 13 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2252808/dead-pixel-vs-stuck-difference-between/
-
-These issues may appear similar, but there's an easy way to tell them apart.
-
-### Is there any benefit to restarting your gaming handheld regularly?
-Sat, 12 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2252809/benefits-restarting-gaming-handheld-more-often/
-
-Your Steam Deck, Switch or Ally may benefit from occasional restarts. Here's why you should consider it.
-
-### One problem with Android Auto can be fixed with a simple update
-Sat, 12 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2252806/android-auto-problem-fixed-simple-firmware-update/
-
-If you've already tried updating your phone, the car's software might be the issue.
-
-### What's the difference between your iPhone's Do Not Disturb and Focus modes?
-Sat, 12 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2252804/iphone-do-not-disturb-vs-focus-mode-difference-between/
-
-Your iPhone's Focus modes, including Do Not Disturb, are a great way to reduce interruptions. But what's the difference in how they work?
-
-### How to change Amazon Alexa's voice and personality
-Sat, 12 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2252800/how-to-change-alexa-voice-personality/
-
-You have several new options for Alexa's voice and personality. Here's how to find and change those settings.
-
 ## TechCrunch
+
+### Obama urges Democrats to have a ‘clear plan’ for AI safeguards
+Sun, 13 Sep 2026 16:30:00 +0000 — https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/
+
+Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.
+
+### TechCrunch Mobility: Lyft has entered the robotaxi chat
+Sun, 13 Sep 2026 16:04:00 +0000 — https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/
+
+Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.
 
 ### Fusion power startups find new partners in the defense world
 Sun, 13 Sep 2026 13:15:00 +0000 — https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/
@@ -345,14 +373,4 @@ Tan wants smaller, American open-weight AI labs to use the same kind of training
 Fri, 11 Sep 2026 20:57:36 +0000 — https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/
 
 Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
-
-### One week left to book your exhibit table at TechCrunch Disrupt 2026
-Fri, 11 Sep 2026 20:33:18 +0000 — https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/
-
-Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.
-
-### Final, final, final call for TechCrunch Disrupt 2026 Side Events
-Fri, 11 Sep 2026 20:30:17 +0000 — https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/
-
-The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.
 
