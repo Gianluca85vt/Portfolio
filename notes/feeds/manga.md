@@ -1,6 +1,11 @@
-# Manga — harvested 2026-09-13T09:43:44.847Z
+# Manga — harvested 2026-09-13T14:40:30.438Z
 
 ## Anime News Network
+
+### #I'm Looking For Zombie Anime's Main Trailer Reveals More Cast & Staff Members, Theme Songs, October 3 Debut
+Sun, 13 Sep 2026 07:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/im-looking-for-zombie-anime-main-trailer-reveals-more-cast-and-staff-members-theme-songs-october-3-/.241722
+
+Yōko Hikasa, Makoto Koichi, Tomoyo Takayanagi, Aino Shimada, Kōsuke Toriumi join anime's cast
 
 ### Overgeared Anime Reveals 3rd Trailer, 2 New Cast Members
 Sun, 13 Sep 2026 04:15:44 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/overgeared-anime-reveals-3rd-trailer-2-new-cast-members/.241725
@@ -57,16 +62,21 @@ Sat, 12 Sep 2026 16:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Company also licenses <cite>A Fangirl's Guide to Learning How to Date 3D Men, LOVE IS PAIN, How to Fall In Love with You Again</cite>
 
-### Japan's Video Game Rankings, August 31-September 6
-Sat, 12 Sep 2026 14:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/japan-video-game-rankings-august-31-september-6/.241658
-
-<cite>Onimusha: Way of the Sword</cite> PS5 version debuts at #1, Switch 2 version at #3
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### BanG Dream! Our Notes Announces September 24 Release Date, New Trailer Revealed
+Sun, 13 Sep 2026 12:17:11 GMT — https://animecorner.me/bang-dream-our-notes-announces-september-24-release-date-new-trailer-revealed/
+
+BanG Dream! Our Notes game is set to release globally on September 24. A&hellip;
+
+### Katekyo Hitman Reborn! Anime Reveals Seventh Ending Featuring "Ameato" by W-inds
+Sun, 13 Sep 2026 11:30:42 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-seventh-ending-featuring-ameato-by-w-inds/
+
+Katekyo Hitman REBORN! anime released the creditless version of its sixth ending, featuring "Ameato" by W-inds.
 
 ### Overgeared Anime Reveals Third Trailer and Key Visual, Adds Yuki Murata and Yurika Hirayama to Cast
 Sun, 13 Sep 2026 09:04:32 GMT — https://animecorner.me/overgeared-anime-reveals-third-trailer-and-key-visual-adds-yuki-murata-and-yurika-hirayama-to-cast/
@@ -118,17 +128,12 @@ Sat, 12 Sep 2026 10:45:10 GMT — https://animecorner.me/fall-in-love-you-false-
 
 Fall in Love, You False Angels anime revealed a new trailer and main voice cast ahead of its 2027 release date.
 
-### The Guy She Was Interested In Wasn't a Guy At All Reveals Mitsuki and Aya Character Visuals
-Sat, 12 Sep 2026 10:35:33 GMT — https://animecorner.me/the-guy-she-was-interested-in-wasnt-a-guy-at-all-reveals-mitsuki-and-aya-character-visuals/
-
-The Guy She Was Interested In Wasn’t a Guy At All anime revealed character visuals for Mitsuki Koga and Aya Osawa.
-
-### My Hero Academia to Announce New Project as Part of 10th Anniversary on September 20
-Sat, 12 Sep 2026 10:08:19 GMT — https://animecorner.me/my-hero-academia-to-announce-new-project-as-part-of-10th-anniversary-on-september-20/
-
-A new My Hero Academia anime 10th anniversary project will be announced during a special livestream on September 20, 2026.
-
 ## MyAnimeList News
+
+### #Zombie Sagashitemasu Unveils Additional Cast, Staff, Theme Songs, First Promo
+Sun, 13 Sep 2026 04:43:56 -0700 — https://myanimelist.net/news/74713683?_location=rss
+
+The special livestream presentation for the television anime adaptation of Katsuwo s #Zombie Sagashitemasu (#I m Looking for Zombie) manga unveiled additional cast, staff, a key visual (pictured right), the theme songs, and first promotional video on Sunday. The anime series is scheduled to premiere on October 3 at 11:30 p.m. on TV Asahi s IMAnimation programming block, followed by BS Asahi and AT-X. Cast: Mikazuki: Youko Hikasa (High School DxD) Touka: Makoto Koichi (Tensei shit...
 
 ### Tempal: Item no Chikara Unveils Additional Cast, Third Promo
 Sat, 12 Sep 2026 23:21:19 -0700 — https://myanimelist.net/news/74712551?_location=rss
@@ -154,21 +159,6 @@ The Aniplex One Focus 2026 event unveiled the main cast, additional staff, and a
 Sat, 12 Sep 2026 03:49:08 -0700 — https://myanimelist.net/news/74707563?_location=rss
 
 The Aniplex One Focus 2026 event revealed additional cast, theme songs, a key visual (pictured), and the second promotional video for the Vertex Force original television anime on Friday. The anime is scheduled to premiere on Tokyo MX, BS11, Gunma TV, and Tochigi TV at 11:30 p.m. on October 3. Voice actors Kazuki Ura (Bungou Stray Dogs 5th Season) and Nana Mizuki (Dandadan) are joining the cast as Alan and EDVA, respectively. Japanese pop music group ClariS (Lycoris Recoil) is performing the ope...
-
-### Kyokou Suiri Author to Launch Vampire Juujikai Sequel in October 2026
-Fri, 11 Sep 2026 06:47:09 -0700 — https://myanimelist.net/news/74702759?_location=rss
-
-The official X account of Square Enix s Monthly Shounen Gangan announced on Friday that Kyokou Suiri (In/Spectre) author Kyou Shirodaira will launch a sequel manga of Vampire Juujikai. Titled Vampire Juujikai: Inu ni wa Inu no Uta (Vampire Cross World: A Song for Dogs). The manga featuring illustrations by Yuri Kimura will begin in the November issue on October 9. Shirodaira and Kimura serialized Vampire Juujikai (The Record of a Fallen Vampire) in Shounen Gangan magazine from August 2003 t...
-
-### Toaru Anbu no Item Announces Additional Staff
-Fri, 11 Sep 2026 03:52:14 -0700 — https://myanimelist.net/news/74702372?_location=rss
-
-The official website for the television anime adaptation of Kazuma Kamachi s Toaru Anbu no Item (A Certain Dark Side s Item) light novel revealed additional staff and a key visual (pictured) on Friday. The anime series is scheduled to premiere on October 9 at 10.30 p.m. on AT-X, followed by Tokyo MX and BS11 on October 10. Staff Series Composition: Shougo Yasukawa (Shokugeki no Souma) Animation Character Design Corporation: Kiyotaka Haimura (Dungeon ni Deai wo Motomeru no wa Machigatte...
-
-### Yasei no Last Boss ga Arawareta! 2nd Season Unveils Additional Cast, Ending Theme, Second Promo
-Fri, 11 Sep 2026 02:57:13 -0700 — https://myanimelist.net/news/74702269?_location=rss
-
-The official website for the television anime adaptation of Firehead s Yasei no Last Boss ga Arawareta! (A Wild Last Boss Appeared!) light novel unveiled additional cast, the ending theme, and second promotional video for the second season on Friday. The new season is scheduled to premiere on October 3 at 10:30 p.m. on Tokyo MX, followed by BS Asahi, and Kansai TV. Cast Sagittarius: Atsushi Miyauchi (Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou) Leon: Akio Ootsuka (Fate/Zero) M...
 
 ## Otaku USA
 

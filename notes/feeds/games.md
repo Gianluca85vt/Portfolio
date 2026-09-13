@@ -1,6 +1,26 @@
-# Games — harvested 2026-09-13T09:43:44.847Z
+# Games — harvested 2026-09-13T14:40:30.438Z
 
 ## Eurogamer
+
+### Diablo 4's new season brings back Deckard Cain and all three Prime Evils as the game arrives on Switch 2
+Sun, 13 Sep 2026 13:45:19 +0000 — https://www.eurogamer.net/diablo-4-season-of-hells-legacy-switch-2-amazon-class
+
+Diablo 4 's next season, Season of Hell's Legacy, will go live on 15th September to celebrate the franchise's 30th anniversary and Nintendo Switch 2 debut. Read more
+
+### The World of Warcraft "Classic+" rumours were true and it's called World of Warcraft: Forever
+Sun, 13 Sep 2026 13:12:09 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-announced-blizzcon-2026-classic-plus
+
+Blizzard has officially confirmed World of Warcraft: Forever, the long-rumoured "Classic+" experience. Read more
+
+### StarCraft is back, but it's not the RTS you remember - it's an open-world shooter coming spring 2030
+Sun, 13 Sep 2026 11:57:23 +0000 — https://www.eurogamer.net/starcraft-open-world-shooter-announced-blizzcon-2026
+
+Blizzard's next StarCraft game will be an original open-world shooter and it's coming spring 2030. Read more
+
+### Diablo 5 is coming spring 2029, and a Netflix show is in development
+Sun, 13 Sep 2026 11:06:40 +0000 — https://www.eurogamer.net/diablo-5-announced-blizzcon-2026-spring-2029
+
+Blizzard has officially announced Diablo 5, confirming the next mainline entry in the series is expected to arrive in spring 2029. Read more
 
 ### The weird, wonderful world of Miles Buckle, Instagram's parallel universe of video games
 Sun, 13 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/the-weird-wonderful-world-of-miles-buckle-instagrams-parallel-universe-of-video-games
@@ -42,26 +62,6 @@ Sat, 12 Sep 2026 09:00:09 +0000 — https://www.eurogamer.net/chronicles-medieva
 
 Growing up in the South of England, like I did, history is all around you. Castles and forts, both preserved and ruined, litter the countryside. I, like many children, have fond memories visiting such places and imagining the great battles that were fought there. Read more
 
-### What we've been playing - "I don't think this is this game's biggest problem"
-Sat, 12 Sep 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-i-dont-think-this-is-this-games-biggest-problem
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Kelsey takes solace in assassination; Connor revisits a foundational Korean MMO; Chris has some more thoughts about Marvel's Wolverine; Bertie tries to get to the end of Big Walk and then realises he doesn't want to get to the end of Big Walk at all; and Marie plays Spyro again, because why not? Read more
-
-### After Sony tells fans they don't own digital games, one Consumer Rights group is tracking all the times PlayStation said the opposite
-Fri, 11 Sep 2026 19:07:38 +0000 — https://www.eurogamer.net/consumer-rights-tracking-playstation-digital-games-ownership
-
-Last month, Sony argued that "reasonable consumers" already know they don't really own the digital goods they paid for . The Consumer Rights wiki has now made a list collecting more than 30 examples where Sony told customers they do, in fact, own the digital games they paid for. Read more
-
-### Final Fantasy 7 Revelation director says Square Enix would have to compromise "the quality of the final chapter" to ship the game fully on disc
-Fri, 11 Sep 2026 18:08:06 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-compromise-quality-physical-disc
-
-Physical versions of Final Fantasy 7 Revelation require a download anyway because Square Enix would've had to compromise the game in some fashion to contain the entire mammoth adventure in a disc. At least, that's the reasoning series director Naoki Hamaguchi has given. Read more
-
-### More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs
-Fri, 11 Sep 2026 17:08:12 +0000 — https://www.eurogamer.net/xbox-game-pass-playstation-plus-nintendo-cancellations-rising-costs
-
-Players cancelling their subscriptions to video game services like Xbox Game Pass and PlayStation Plus are more likely to blame costs today than they were at the start of the year. Read more
-
 ## GamesIndustry.biz
 
 ### Goodwill Hunting: Consoles’ brand value and loyalty is being tested | Opinion
@@ -73,21 +73,6 @@ There&rsquo;s a really important piece of context that looms behind every decisi
 Fri, 11 Sep 2026 15:59:00 +0000 — https://www.gamesindustry.biz/state-of-the-unions-the-rise-of-unionisation-in-games-workplaces
 
 The rise of unions in the video games industry has been a hot topic over the past decade, as more and more workers seek protection for their rights in the face of harsh working conditions and management shortcomings around the world. Read more
-
-### European studio expenditure on external talent rises 63% in 2025
-Fri, 11 Sep 2026 13:46:06 +0000 — https://www.gamesindustry.biz/european-studio-expenditure-on-external-talent-rises-63-in-2025
-
-In 2025, European studios increased spending on external roles by 63%, outpacing the global growth rate of 55%. Read more
-
-### Marvel's Wolverine | Critical consensus
-Fri, 11 Sep 2026 13:19:37 +0000 — https://www.gamesindustry.biz/marvels-wolverine-critical-consensus
-
-Insomniac Games' take on Wolverine has had an eventful route to market. Read more
-
-### Saber Interactive's Tim Willits on generative AI, moving development out of North America, and embracing recognisable IP
-Fri, 11 Sep 2026 12:40:00 +0000 — https://www.gamesindustry.biz/saber-interactives-tim-willits-on-generative-ai-moving-development-out-of-north-america-and-embracing-recognisable-ip
-
-Saber Interactive has achieved a lot in the past few years, but the most noticeable recent news to come out of the the company was CEO Matthew Karch's unfiltered response to accusations that a writer had been replaced with ChatGPT . When we sit down at Gamescom for the second of two conversations with Saber Interactive's chief creative officer Tim Willits, it's the first thing we ask about. Read more
 
 ## VG247
 
@@ -125,34 +110,21 @@ Fri, 11 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/09/multip
 
 Boom. Publisher Team 17 and developer BULKHEAD have confirmed console versions of Wardogs , which is proving to be extremely popular in its early stages. The game launched into Early Access on Steam yesterday, 10th September 2026, and it has already sold more than 1.25 million copies. Read the full article on pushsquare.com
 
-### Sony Stopped Physint Development Over Budget, Exclusivity Concerns
-Fri, 11 Sep 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/09/sony-stopped-physint-development-over-budget-exclusivity-concerns
-
-Project missed deadlines and on track to go over budget. Missed deadlines, being on track to go over budget, and a lack of permanent exclusivity are reportedly the reasons Sony decided to stop development of Physint , a new Bloomberg report claims. Speaking to sources familiar with the project, journalist Jason Schreier also reports the sales performance of Kojima Productions' two Death Stranding games also played a large part in the decision. They haven't met PlayStation's own "revenue expectations", the article says. Read the full article on pushsquare.com
-
-### You Can Get Phantom Blade Zero s PS5 Platinum Trophy on Its Easiest Difficulty
-Fri, 11 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/09/you-can-get-phantom-blade-zeros-ps5-platinum-trophy-on-its-easiest-difficulty
-
-Hard mode optional. If you've been wondering about the Trophies for upcoming action game Phantom Blade Zero , it's been revealed it won't be as tough to complete as you may have thought. The PS5 console-exclusive will of course have a full set of trinkets to unlock, including the all-important platinum, and director Qiwei Liang (aka Soulframe) says you can obtain all of them on a single playthrough at any difficulty. Read the full article on pushsquare.com
-
-### This PS5 Gameplay Trailer Is Our Best Look Yet at Fairgames
-Fri, 11 Sep 2026 10:45:00 GMT — https://www.pushsquare.com/news/2026/09/this-ps5-gameplay-trailer-is-our-best-look-yet-at-fairgames
-
-Project Espresso playtest incoming. A trailer has been doing the rounds for a game known only as Project Espresso, which is the codename for Sony's live service multiplayer shooter, Fairgames . Fairgames — which might have changed its name to Break In — was announced during a State of Play years ago, but we've heard nothing about it since. Read the full article on pushsquare.com
-
 ## Game Developer
 
-### An honest opinion or defamation? A solicitor outlines the legal nuance
-Fri, 11 Sep 2026 13:27:31 GMT — https://www.gamedeveloper.com/business/an-honest-opinion-or-defamation-a-solicitor-outlines-the-legal-nuance
-
-Rockstar has accused a group of former workers of defaming the studio on Discord—but what does that term actually mean in a legal sense?
-
-### Rockstar and fired GTA developers outline core arguments during union busting tribunal
-Fri, 11 Sep 2026 10:26:10 GMT — https://www.gamedeveloper.com/production/rockstar-and-fired-gta-developers-outline-core-arguments-during-union-busting-tribunal
-
-Both parties have set out their stall in legal documents obtained by Game Developer.
+_Nothing in the last 48 hours._
 
 ## VGC
+
+### Level 5 boss admits using AI for Professor Layton, Yo-Kai Watch reveals
+Sun, 13 Sep 2026 12:16:34 +0000 — https://www.videogameschronicle.com/news/level-5-boss-admits-using-ai-for-professor-layton-yo-kai-watch-reveals/
+
+CEO apologises for using generative AI for recent Level 5 showcase… Source
+
+### Blizzard announced Diablo and StarCraft games that are years away ‘to show confidence’
+Sun, 13 Sep 2026 11:30:01 +0000 — https://www.videogameschronicle.com/news/blizzard-announced-diablo-and-starcraft-games-that-are-years-away-to-show-confidence/
+
+Blizzard’s president says the company will ship Diablo and StarCraft on time… Source
 
 ### BlizzCon 2026: Every announcement from Blizzard’s opening ceremony
 Sat, 12 Sep 2026 21:26:29 +0000 — https://www.videogameschronicle.com/news/blizzcon-2026-every-announcement-from-blizzards-opening-ceremony/
@@ -179,27 +151,37 @@ Sat, 12 Sep 2026 10:40:33 +0000 — https://www.videogameschronicle.com/news/a-l
 
 Year one's paid DLC consisted of six crossover packs containing 18 extra racers… Source
 
-### PlayStation reportedly cancelled Kojima’s Physint because Death Stranding failed to meet expectations
-Fri, 11 Sep 2026 14:25:49 +0000 — https://www.videogameschronicle.com/news/report-playstation-cancelled-hideo-kojimas-physint-because-death-stranding-and-its-sequel-did-meet-revenue-expectations/
-
-Death Stranding and Concord both factored into why PlayStation cancelled Physint… Source
-
-### Podcast: What is going on at PlayStation?
-Fri, 11 Sep 2026 13:35:56 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-what-is-going-on-at-playstation/
-
-Plus: What did we think of the Nintendo Direct? Source
-
-### Footage of PlayStation s Fairgames allegedly leaks via playtest
-Fri, 11 Sep 2026 12:11:02 +0000 — https://www.videogameschronicle.com/news/footage-of-playstations-fairgames-allegedly-leaks-via-playtest/
-
-A playtest could offer the first look at PlayStation's Fairgames in years… Source
-
-### The Blood of Dawnwalker complete walkthrough hub
-Fri, 11 Sep 2026 11:01:28 +0000 — https://www.videogameschronicle.com/guide/blood-of-dawnwalker-complete-walkthrough-hub/
-
-All the guides you need for romances, endings, rare crafting materials, quests, and more in The Blood of Dawnwalker… Source
-
 ## Polygon
+
+### Sony is the Bad Guy of 2026, but it’s Going to Win Anyway
+Sun, 13 Sep 2026 14:14:58 GMT — https://www.polygon.com/patch-notes-fall-preview-nintendo-sony-bad-guy/
+
+Patch Notes is a weekly newsletter bringing you the best of Polygon, sent on Fridays and published on the site on Sundays. You can subscribe here .
+
+### We Need More Games Like Echo Weaver
+Sun, 13 Sep 2026 14:00:14 GMT — https://www.polygon.com/echo-weaver-preview-interview/
+
+Echo Weaver is a platformer due to arrive next month from Moonlight Kids, known for 2021 hit The Wild at Heart . It’s also a Metroidvania that feels a bit like a roguelite, but with more emphasis on puzzles and hand-crafted stages. Put another way, it’s a comfortably familiar adventure that’s also a little different from anything you’ve played before.
+
+### Marvel's Wolverine Set To End Sony's Historic 11-Year GOTY Run
+Sun, 13 Sep 2026 13:00:14 GMT — https://www.polygon.com/marvels-wolverine-sony-goty-run/
+
+Reviews of Marvel's Wolverine were published this week, and they're on the lukewarm side . Currently, the Insomniac Games title sits at a middling 78 on Metacritic. Critics found its relentless combat action wears thin and were divided on the strength of its storytelling. Polygon's review called it "the biggest disappointment of the PS5 era."
+
+### Vivienne Medrano reveals her plan for Helluva Boss / Hazbin Hotel crossovers
+Sun, 13 Sep 2026 12:00:14 GMT — https://www.polygon.com/vivziepop-interview-helluva-boss-hazbin-hotel-crossover/
+
+When the news dropped in April 2025 that Vivienne Medrano 's adult animated musical series Helluva Boss would join its companion series Hazbin Hotel on Prime Video, Amazon released a video promising a few specific things. Medrano's animation studio Spindlehorse would retain full creative control. New Helluva Boss episodes would eventually be released free on YouTube, alongside the show's previous two seasons . And for the first time, the two shows would cross over in some way, apart from being set in the same shared universe .
+
+### 'Godzilla Minus Zero' Director Reveals How Steven Spielberg Inspired the Sci-Fi Sequel
+Sun, 13 Sep 2026 11:00:14 GMT — https://www.polygon.com/godzilla-minus-zero-director-interview/
+
+The most exciting sci-fi blockbuster that's set to conclude an epic story this year isn't Avengers: Doomsday . It isn't Dune: Part Three , either. And it definitely isn't Mortal Kombat II . The only cinematic spectacle of 2026 that truly matters is Godzilla Minus Zero , which promises to bring a conclusion to the story director Takashi Yamazaki launched three years earlier with Godzilla Minus One .
+
+### 75 Years Later, Disney's Bonkers Fantasy Masterpiece Officially Gets a New Sequel
+Sun, 13 Sep 2026 10:00:14 GMT — https://www.polygon.com/wondrous-exclusive-excerpt/
+
+Disney’s 1951 adaptation of Lewis Carrol’s Alice’s Adventures in Wonderland is a true masterpiece, a whimsical tale of a girl who tumbles into a rabbit hole and winds up in a strange world of mad tea parties, singing flowers, and size-changing mushrooms. The film ends with Alice waking up and heading home for tea, dismissing her journey as just a very strange dream. But an upcoming sequel Disney is releasing to celebrate the film’s 75th anniversary sends Alice back down the rabbit hole again.
 
 ### 5 Near-Perfect Action Shows That Are Streaming Online for Free
 Sun, 13 Sep 2026 08:30:14 GMT — https://www.polygon.com/best-action-shows-free-online-streaming/
@@ -221,37 +203,22 @@ Sun, 13 Sep 2026 04:31:14 GMT — https://www.polygon.com/twin-peaks-streaming-f
 
 Fall makes for a great setting. There’s something special about the thick foliage and heavy clouds as the backdrop for a mercurial town, especially when a story is set within the framework of genre. There’s a reason why so many TV shows – Widow’s Bay , Stranger Things , The X-Files , the list goes on – follow a cast of characters facing all manner of strange situations amidst their small-town daily lives.
 
-### 'Strange Things' Officially Returns to Netflix This Week with 10 New Episodes
-Sun, 13 Sep 2026 04:27:14 GMT — https://www.polygon.com/strange-things-tales-85-season-2-release-date-1-week/
-
-When Stranger Things premiered in 2016, it wasn't the Demogorgan we stuck around for (even though it was an original, unique-looking monster). Nor was it the story (even if it was superbly crafted). More than anything, it was the core cast of lovable nerdy D&D -playing kids (aka, The Party) that kept us coming back for each new season — along with that Stephen King/Stephen Spielberg/1980s-type vibe that came with them. Stranger Things concluded at the end of last year with the series finale, but those kids and that vibe will be returning in three weeks with 10 new episodes.
-
-### 63 Years Later, the Best 'Peanuts' Sally Quote Is Still an Iconic Comic Strip Line
-Sun, 13 Sep 2026 04:00:18 GMT — https://www.polygon.com/sally-brown-best-line-peanuts/
-
-In almost 50 years, however, despite taking more Ls than a stuck typewriter, Charlie Brown almost never actually got mad over it. His style is more of a world-weary acceptance, verging on Zen calm. It's left to other characters to rage, cry, and question their lot. That's usually Lucy or Linus , but Charlie's little sister Sally Brown gets in her own swings at the fundamental unfairnesses of childhood.
-
-### The 10 Best Tomb Raider Levels of All Time
-Sun, 13 Sep 2026 02:01:14 GMT — https://www.polygon.com/best-tomb-raider-levels/
-
-Tomb Raider: Legacy of Atlantis just gave the internet its first real look at the new St. Francis’ Folly — one of the best levels from the classic game Legacy of Atlantis reimagines. The new level comes complete with a fully-rebuilt Sword of Damocles room…that, now , will be a stunning traversal puzzle instead of an instant death trap. While rooms and levels from this franchise have gotten updates in the past, across three decades, the shape of a Tomb Raider level rarely changes. Tackle these ten Tomb Raider levels, and you’ll get a puzzle to figure out, something to shoot, a run against a closing wall or a draining pool of air, and at least one jump you will absolutely botch the first time.
-
-### Stranger Things Officially Returns Next Week With 10 New Episodes
-Sun, 13 Sep 2026 01:15:14 GMT — https://www.polygon.com/stranger-things-new-episodes-season-2-tales-from-85-release-date/
-
-Netflix's Stranger Things spinoff Stranger Things: Tales from ’85 will return much sooner than many fans may have guessed. The show’s second season drops on Sept. 17, just a few months after the first season, which aired on April 23. The news release announcing this return date provides the following description of what’s to come: “With Valentine’s Day on the way, the gang must uncover the truth behind ghostly apparitions and a swarm of strange creatures causing chaos around town.”
-
-### Diablo 4 On Switch 2: A Very Impressive Port That Supports Mouse Controls
-Sun, 13 Sep 2026 01:03:29 GMT — https://www.polygon.com/diablo-4-nintendo-switch-2-port-impressions/
-
-While Diablo 5 is still on the far-off horizon, a Nintendo Switch 2 port of Diablo 4 is arriving much more imminently. Titled the Diablo 4: Age of Hatred Collection , it bundles the base game with its expansions Vessel of Hatred and Lord of Hatred for Nintendo's latest system.
-
-### 10 Near-Perfect Fantasy Books Recommended by Brandon Sanderson
-Sun, 13 Sep 2026 01:01:14 GMT — https://www.polygon.com/brandon-sanderson-book-recommendations/
-
-Brandon Sanderson is such a prolific author that just getting through his bibliography could keep a reader busy for years. But Sanderson also teaches creative writing and has lectured on the works of J.R.R. Tolkien, often sharing his thoughts on the fantasy genre and its leading talent. He’s suggested his fans read Robin Hobb, George R.R. Martin, Anne McCaffery, and Mary Robinette Kowal. Sanderson has also made a host of specific recommendations spanning the novels that inspired him as a kid to brand new releases. If you’re looking for something to read while waiting for the next Cosmere book, here are 10 books Sanderson suggests picking up.
-
 ## PC Gamer
+
+### Upcoming vampire RPG Nighthawks has been removed from Steam search and delisted in certain countries as Valve classifies it Adults Only: 'It's very bad news for us'
+Sun, 13 Sep 2026 14:16:29 +0000 — https://www.pcgamer.com/games/rpg/upcoming-vampire-rpg-nighthawks-has-been-removed-from-steam-search-and-delisted-in-certain-countries-as-valve-classifies-it-adults-only-its-very-bad-news-for-us/
+
+Nighthawks , the long-in-development vampire RPG due to be released later this month, is the latest game to run afoul of Steam's increasingly stringent rules regarding adult content. According to publisher Wadjet Eye Games, the game has been labelled 'Adults Only'—causing it to be removed from Steam search and outright delisted in certain countries like Germany—despite claims from both developer and publisher that the RPG's depictions of sex and nudity are very mild. "We are aware that Steam has classified Nighthawks as an adult game and has excluded it from searches," Wadjet Eye boss Dave Gilbert wrote on Bluesky . "We are working on it. Valve is under the impression that this game is way sexier than it actually is." Gilbert further commented that "Valve is basically treating Nighthawks like a porn game!" in responding to a reply to his initial post. A game being labelled Adults Only can affect its visibility in several ways. Adults Only games will not appear in Steam searches by default, requiring users to log in, verify their age (which requires the use of a credit card in some countries) and adjust their preferred content settings before they become visible. In addition, the label can cause games to be delisted outright in certain countries. In a statement to PC Gamer, Nighthawks' creator Richard Cobbett (who, for the sake of transparency, is also a PC Gamer contributor) provided an overview of the situation, and how the Adults Only label is likely to affect Nighthawks' l
+
+### As an OG Crazy Taxi lover, its new remake might just not be crazy enough
+Sun, 13 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/racing/as-an-og-crazy-taxi-lover-its-new-remake-might-just-not-be-crazy-enough/
+
+I've played just about every damn iteration of Crazy Taxi there is. My first exposure to it was the PlayStation 2 EyeToy version included in Sega Superstars, which involved me wildly gesticulating and yelling in order to get Axel's attention. Yes, for some reason you are the passenger in the EyeToy version of Crazy Taxi. I don't know either. Then I spent a fair bit of time behind the wheel in both its Dreamcast and arcade versions—we don't talk about the myriad of mobile travesties—so I was pretty jazzed about the announcement of Crazy Taxi: World Tour. I was promptly un-jazzed by all the generative AI discourse that mired the hours following its reveal trailer, but you know. (Image credit: Sega) Allegedly its use remains firmly in the conceptual stages of development, which I still don't love, but I was determined to not let that cloud my opinion of the game as I sat down to give it a whirl at Gamescom. And honestly? After an hour, I kinda felt like that was all the time I needed with Crazy Taxi: World Tour. As much as I wanted to be sold on a modern-day iteration, I'm just not quite there yet. My time with the demo popped me behind the wheel as Crazy Taxi poster boy Axel, and dropped me into its thematically-appropriate Germany map. There'll be five cities with the full release, but I imagine most of what I saw in the game's amalgamation of various German cities will be true of the rest of the game. The traditional Crazy Taxi time-attack style of picking up and dropping off
+
+### This remarkable mod transforms the most frightening horror game of the decade into Mirror's Edge
+Sun, 13 Sep 2026 11:32:51 +0000 — https://www.pcgamer.com/games/horror/this-remarkable-mod-transforms-the-most-frightening-horror-game-of-the-decade-into-mirrors-edge/
+
+Amnesia: The Bunker is without a doubt the most frightening horror game I've played this decade. Its terrifying tale of being chased through a crumbling French bunker by a monster has the darkest, thickest, most unnerving atmosphere of any horror game I've played since Alien: Isolation . It's so intense that it's hard to imagine anyone making something light and airy out of its subterranean warrens, and it's downright inconceivable that someone might, say, turn Amnesia: The Bunker into Mirror's Edge. And yet, that's exactly what modder TiMan has done. Created for Frictional Games' 2026 modding jam —which ran with the theme of 'What is reality?'— Bunker's Edge sees the base game's protagonist Henri transported through a portal from the trenches of war-ravaged France to the pristine skyline of EA's free-running classic. The change of scenery alone is remarkable. The Bunker's HPL engine is purpose built to deliver darkness, shadows and murk, so seeing it handle such a bright and colourful environment is mightily impressive. But what's really interesting is how TiMan has implemented all of Mirror's Edge's free-running mechanics. Mantling, sliding, wall-running, pipe-climbing, runner's vision, that 180-degree wall-jump that I always struggled to perform in the base game, it's all here. Despite the breezier setting, Bunker's Edge is still a horror game. The Bunker's monster has followed Henri through the portal, and chases him across the rooftops just as relentlessly as it stalks h
 
 ### Beneath a Steel Sky review (1994)
 Sun, 13 Sep 2026 06:17:36 +0000 — https://www.pcgamer.com/games/adventure/beneath-a-steel-sky-review-1994/
@@ -297,21 +264,6 @@ For the first time since its Frozen Throne expansion in 2003, Warcraft 3 is gett
 Sat, 12 Sep 2026 18:40:05 +0000 — https://www.pcgamer.com/games/card-games/hearthstone-just-got-its-first-new-class-in-four-years-warcrafts-fire-breathing-panda-monk/
 
 At today's Blizzcon opening ceremony, it was announced that Hearthstone will receive a third post-launch class—the game's first since the Death Knight released in 2022. It's none other than the Monk, a class with origins you can trace all the way back to Warcraft 3's pandaren brewmaster. Represented by the playable Chen Stormstout, the Monk will get a full reveal next year. While not World of Warcraft's most popular class, it is perhaps its silliest, which fits Hearthstone's cartoonish sensibilities to a T. After this point, the Evoker will be the only class from Blizzard's titan MMO that isn't represented in card game form (unless you count the Night Elf Mohawk ). The expansion coming in the meantime, Reign of the Black Empire, is another old god-themed extravaganza, complete with bouncy electronic grooves all over the trailer. No goofy lyrics this time around, but what can you do? It also comes with a new keyword, "assemble," which allows players to merge cards for ludicrous combos. It sounds like the sort of shenanigan-magnet Hearthstone is known for. Reign of the Black Empire will land on Oct. 10, with the Monk class arriving March 2027. Follow the rest of today's Blizzcon news on our liveblog . 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
-
-### Diablo 5 is coming in 2029
-Sat, 12 Sep 2026 18:25:56 +0000 — https://www.pcgamer.com/games/rpg/diablo-5-is-coming-in-2029/
-
-The biggest surprise of BlizzCon might be Diablo 5, which Blizzard announced will release in spring 2029, six years after the 2023 launch of Diablo 4. The sequel will take place about a century after the events of Diablo 4. Sanctuary is no longer on the verge of apocalypse in Diablo 5: It's been fully apolcalpyted. The Lord of Terror—aka Diablo himself, absent in Diablo 4—is back, and he won. "The heroes are gone, Sanctuary has fallen, and Diablo has won," declared Diablo 4 director Joe Shely. "For the first time, you won't be fighting to stop Diablo from taking Sanctuary. You'll enter a world where he already has. There are no towns or safe places waiting to protect you." There's not a ton to go on in the trailer, but it is, fittingly, dark and grim: Everything's on fire, grubby peasant guys proselytize on behalf of the victorious demons, and angels are getting crucified. After the title drop, we get a brief view of the titular Diablo himself, out of focus and wreathed in fire. 2029 is still a ways off, but it's nevertheless surprising to hear news of a new numbered Diablo sequel. Given Diablo 4's live servicey shape, I expected another expansion roadmap rather than a full-blown sequel. For comparison, there was a 12 year wait between Diablos 2 and 3, and an 11-year gap between the initial launches of 3 and 4, both about double the projected wait between 4 and 5. Development times have been trending longer in the industry, not shorter, and I'm curious how Diablo players will
-
-### Blizzard announces animated Diablo show coming to Netflix
-Sat, 12 Sep 2026 18:18:01 +0000 — https://www.pcgamer.com/games/rpg/blizzard-announces-animated-diablo-show-coming-to-netflix/
-
-At BlizzCon 2026, Blizzard president Johanna Faries took to the stage to announce that a Diablo animated series is in production with Netflix. The announcement was light on details, and did not come with a trailer or release window, but Faries did note "great discussions being had" regarding adaptations of Overwatch and Warcraft. Faries also allowed that Blizzard's other properties could see similar treatments. “After decades of bringing entire universes to life through our games, we’re partnering with some creative powerhouses to tell even more stories beyond gaming across new screens," Blizzard wrote in a press release about the project. "A new animated series set in the world of ‘Diablo’ is in development with Netflix. More details will be shared in the future, but this is only the beginning, with even more taking shape across our universes.” It feels like the early 2020s gold rush of streaming TV videogame adaptations is cooling down—RIP, Halo show. But we also know what's worked really well. Netflix's animated adaptations of Cyberpunk and League of Legends, Edgerunners and Arkane respectively, are huge and much-beloved, with reaches well beyond their respective playerbases. An animated adaptation from the same outfit behind these other hit gaming adaptations strikes me as a slam dunk. We'll have to wait and see if the goliath partnership is able to land the plane. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best
-
-### New StarCraft game is an open world shooter coming in 2030
-Sat, 12 Sep 2026 17:58:10 +0000 — https://www.pcgamer.com/games/fps/new-starcraft-game-is-an-open-world-shooter-coming-in-2030/
-
-The rumors were true: A new StarCraft game is incoming. It's just called "StarCraft," it's an open world shooter, and Blizzard doesn't plan to release it until 2030. The game was revealed at BlizzCon with a cinematic trailer, but no gameplay was shown, which isn't surprising given how far off it is. The trailer showcases the training and gearing up of a Terran Dominion Space Marine, with an inspirational speech about killing Zerg over the montage. It ends with our anonymous hero doing battle with the Zerg, then a cut to his broken and bloody armor getting cleaned and repaired without him back on a Dominion ship. This isn't the first time Blizzard has attempted an action-forward StarCraft spinoff. StarCraft Ghost was a legendary, Duke Nukem Forever-tier bit of vaporware that Blizzard teased, demoed, and reworked for much of the 2000s. Its titular Ghost, Nova, eventually got the consolation prize of being a secondary character in StarCraft 2 and the protagonist of a few tie-in novels. This new shooter appears to borrow little, if anything, from that earlier effort by Blizzard. There was some speculation before the show that Blizzard might announce a new StarCraft RTS, but there's no sign of such a project, if it exists. It'll be interesting to see how fans react, as well as the esports scene. Excited for new StarCraft anything? Disappointed that it's not an RTS? 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS game
 
 ## GameSpot
 
@@ -377,6 +329,11 @@ Heroes of the Storm, Blizzard's MOBA mashup of its various franchises, has large
 
 ## Rock Paper Shotgun
 
+### The Sunday Papers
+Sun, 13 Sep 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-827
+
+Sundays are for realising that after playing The Blood of Dawnwalker , you've developed a craving for blackcurrant juice. There's none in the cupboard, so you venture out to get some, floating across the rooftops as a trail of mist as you go. You arrive at the supermarket, fangs bared and claws out. You parry and dodge attackers armed with trollies as you fight your way up the aisles. There it is. The sweet crimson nectar. You reach out to grab a bottle. A hand reaches out through the display and grips your wrist. Read more
+
 ### What are we all playing this weekend?
 Sat, 12 Sep 2026 07:01:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-399
 
@@ -396,19 +353,4 @@ Back in October 2025, GTA 6 developers Rockstar fired a group of 34, mostly UK-b
 Fri, 11 Sep 2026 14:59:37 +0000 — https://www.rockpapershotgun.com/playstation-reportedly-dumped-hideo-kojima-spy-action-game-physint-over-exceeded-budgets-missed-deadlines-and-death-stranding-sales
 
 Earlier this week, Hideo Kojima-helmed action espionage game Physint switched publishers from PlayStation to Xbox , a leap across the console divide which might make it more likely to get a PC port. At the time, Kojima claimed PlayStation had tried to can the game, while the console makers tried to paint the divorce as an amicable split. Now, a report's shed more light on why Sony decided to ditch Physint . Read more
-
-### Wardogs presents a different kind of FPS power fantasy: making fat stacks as a pacifist rideshare driver
-Fri, 11 Sep 2026 13:57:31 +0000 — https://www.rockpapershotgun.com/wardogs-presents-a-different-kind-of-fps-power-fantasy-making-fat-stacks-as-a-pacifist-rideshare-driver
-
-Because no-one entirely likes their job, I should be upfront about my issues with newly launched Early Access darling Wardogs , the mass-scale multiplayer shooter in which I&rsquo;ve just found employment. Its "Play like to you used to" tagline and Halo 3-aping trailer smell a bit of reactionary, stuck-in-the-past thinking. It&rsquo;s a mass-scale multiplayer shooter, so individual heroics rarely influence match outcomes. And, like pretty much everyone else who sucked down both those problems and tried playing on launch night regardless, I spent far too long attempting to communicate with server architecture that clearly had the resilience of overmilked cornflakes . Read more
-
-### GTA 6 online mode appears to receive Rockstar's first public acknowledgment, via mention of in-development "32 player format" in legal docs
-Fri, 11 Sep 2026 12:34:17 +0000 — https://www.rockpapershotgun.com/gta-6-online-mode-appears-to-receive-rockstars-first-public-acknowledgment-via-mention-of-in-development-32-player-format-in-legal-docs
-
-Up until now, Rockstar Games have kept mum about what plans they have for the future of Grand Theft Auto multiplayer once GTA 6 releases on consoles in November. Thanks to filings submitted by the studio as part of the final hearing in a legal battle over the firings of 34 developers last year, that silence appears to have been broken. Read more
-
-### EA's Saudi Arabian owners are reportedly considering forming an ubermegacorp by merging them with Savvy Games
-Fri, 11 Sep 2026 09:46:56 +0000 — https://www.rockpapershotgun.com/eas-saudi-arabian-owners-are-reportedly-considering-forming-an-ubermegacorp-by-merging-them-with-savvy-games
-
-Just over a month on from a consortium led by the Saudi Arabian government's Public Investment Fund taking over EA, in a buyout worth $55 billion , said new owners are reportedly considering merging the publishers with their existing gaming firm Savvy Games Group. The result would be an ubermegacorp to serve as a vehicle for all of the Saudi wealth fund's future video game-related biz. Read more
 
