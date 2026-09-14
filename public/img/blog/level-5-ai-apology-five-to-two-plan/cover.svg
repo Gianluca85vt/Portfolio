@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#2B6E8F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="90" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#8FD3E8" letter-spacing="6">LEVEL-5 · VISION 2026 II</text>
+  <text x="90" y="330" font-family="Helvetica, Arial, sans-serif" font-size="190" font-weight="700" fill="#FFFFFF">5 years</text>
+  <text x="90" y="440" font-family="Helvetica, Arial, sans-serif" font-size="120" font-weight="700" fill="#8FD3E8">down to 2</text>
+  <text x="90" y="530" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#D9E9F2">artwork converted to polygons, by machine</text>
+</svg>
