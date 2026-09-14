@@ -4,7 +4,6 @@ date: 2026-09-14
 category: 3D
 excerpt: Zerply shuts down on 28 September after sixteen years. Export requests close on the 21st, and no one site replaces what it did for VFX credits.
 cover: /img/blog/zerply-closing-export-your-work/shot-01.jpg
-draft: true
 ---
 
 Zerply goes dark at 16:00 UTC on Monday 28 September. The notice is up on the
