@@ -4,7 +4,6 @@ date: 2026-09-14
 category: Games
 excerpt: Nightdive confirmed the campaign its own Steam leak gave away. Three missions, five enemy types, full reveal 2 November, built on a 1998 engine.
 cover: /img/blog/thief-remastered-tarnished-mirror-dark-engine/shot-01.jpg
-draft: true
 ---
 
 Nightdive spent the weekend making a joke of its own leak. A mass Steam
