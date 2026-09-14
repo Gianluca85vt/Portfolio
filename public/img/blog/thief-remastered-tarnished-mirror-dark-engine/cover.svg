@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="90" y="200" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#F5E9F2" opacity="0.75" letter-spacing="6">THE TARNISHED MIRROR</text>
+  <text x="90" y="370" font-family="Helvetica,Arial,sans-serif" font-size="210" font-weight="700" fill="#FFFFFF">3</text>
+  <text x="90" y="450" font-family="Helvetica,Arial,sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">new missions</text>
+  <text x="90" y="520" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#F5E9F2" opacity="0.85">five enemy types, revealed 2 November</text>
+</svg>
