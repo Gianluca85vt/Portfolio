@@ -1,72 +1,97 @@
-# Manga — harvested 2026-09-14T10:07:28.494Z
+# Manga — harvested 2026-09-14T16:33:35.975Z
 
 ## Anime News Network
 
-### 'Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!' Anime's Video Reveals More Cast, Staff, Theme Songs, October 5 Debut
-Mon, 14 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-anime-video-reveals-more-cast-staff-/.241752
+### The World's Strongest Witch Volumes 1-2 Light Novel Review
+Mon, 14 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-world-strongest-witch/volumes-1-2/.241385
 
-Hiro Shimono, Akira Sekine join cast; Centimillimental performs opening song, Rainy. performs ending song
+In a world where only she can see the strategy guide, no one will be able to stand up to this witch’s skills, her weapons, her charisma, or her luck!
 
-### Fate/Extra Record Game Reveals Character Video for Caster
-Mon, 14 Sep 2026 04:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/fate-extra-record-game-reveals-character-video-for-caster/.241754
+### Producer Jeremy Thomas Dies at 77
+Mon, 14 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/producer-jeremy-thomas-dies-at-77/.241770
 
-Chiwa Saitō voices character in game launching on January 28
+Thomas produced <cite>The Last Emperor</cite>, <cite>Blade of the Immortal</cite> live-action films
 
-### Even a Replica Can Fall in Love Manga Ends with 7th Volume
-Mon, 14 Sep 2026 03:11:04 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/even-a-replica-can-fall-in-love-manga-ends-with-7th-volume/.241729
+### Ace Combat 8: Wings of Theve Game's Live-Action Prequel Series Previews Story in Trailer
+Mon, 14 Sep 2026 11:30:05 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/ace-combat-8-wings-of-theve-game-live-action-prequel-series-previews-story-in-trailer/.241773
 
-Momose Hanada's adaptation of Harunadon's novel series launched in April 2023
+4-episode series premieres on Tuesday with future episodes on September 17, 23, 29
 
-### You and I are Polar Opposites 2nd Season Anime's 12th Episode Airs on September 27
-Mon, 14 Sep 2026 02:51:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/you-and-i-are-polar-opposites-2nd-season-anime-12th-episode-airs-on-september-27/.241747
+### Chainsmoker Cat ‒ Episode 10
+Mon, 14 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/chainsmoker-cat/episode-10/.241713
 
-Anime's 2nd season debuted on July 5
+This week we must face the most dehumanizing torture of all: Being trapped in a car with an insufferable wannabe influencer who can't shut her godforsaken phone off for a single second and act like a normal person.
 
-### Gundam RG XARX-ZERO Anime 'Launches' in N. America, Japan in April 2027
-Mon, 14 Sep 2026 02:13:31 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-09-14/gundam-rg-xarx-zero-anime-launches-in-n-america-japan-in-april-2027/.241744
+### BanG Dream! Ave Mujica Film's Trailer Previews New Song
+Mon, 14 Sep 2026 11:22:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/bang-dream-ave-mujica-film-trailer-previews-new-song/.241772
 
-The official website for the Mobile Suit Gundam RG XARX-ZERO anime revealed on Monday that the anime will "launch" in North America and Japan...
+Video previews "A Song of Resonance" for film opening in Japan on October 16
 
-### Open Your Very Own Cat Café with Ranma 1/2 Tableware
-Sun, 13 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-13/open-your-very-own-cat-cafe-with-ranma-1-2-tableware/.241732
+### The Fable Season 2 TV Anime's Trailer Reveals January 2027 Premiere
+Mon, 14 Sep 2026 11:15:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/the-fable-season-2-tv-anime-trailer-reveals-january-2027-premiere/.241771
 
-You'll have to find your own wacky martial artists
+Season features returning cast/staff
 
-### The World's Strongest Witch Novels Listed to End in 6th Volume
-Sun, 13 Sep 2026 23:57:35 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/the-world-strongest-witch-novels-listed-to-end-in-6th-volume/.241736
+### Ushijima the Loan Shark Gets New 1-Shot Set 10 Years After Manga's End
+Mon, 14 Sep 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/ushijima-the-loan-shark-gets-new-1-shot-set-10-years-after-manga-end/.241756
 
-Manga adaptation launched in April 2023
+1-shot will be on display at manga's exhibition in Tokyo from September 19 - October 4
 
-### BanG Dream! Our Notes Mobile Game Streams New Trailer
-Sun, 13 Sep 2026 23:51:58 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/bang-dream-our-notes-mobile-game-streams-new-trailer/.241731
+### Latest Crayon Shin-chan Film Becomes Highest-Grossing in Franchise
+Mon, 14 Sep 2026 10:45:35 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/latest-crayon-shin-chan-film-becomes-highest-grossing-in-franchise/.241767
 
-Game to launch this year with Traditional Chinese, English, Korean language support
+Franchise's 2026 film has earned over 2.7 billion yen
 
-### Otomate Brand Unveils Hakuōki Shinkai Kiwame, Other New Game Releases
-Sun, 13 Sep 2026 22:50:10 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/otomate-brand-unveils-hakuoki-shinkai-kiwame-other-new-game-releases/.241726
+### KAIJU GIRL CARAMELISE ‒ Episodes 9-11
+Mon, 14 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/kaiju-girl-caramelise/episodes-9-11/.241711
 
-<cite>Hakuōki</cite> on Switch 2 commemorates Otomate's 20th anniversary next year
+The big fight scene picks up once the comedy comes into focus, with the audibly frightened and visibly crying Kuroe whipping Akae around by the tail like Bowser in <i>Super Mario 64</i>.
 
-### Kazuki Takahashi's Art Exhibit Gets Special Animated Yu-Gi-Oh! Video
-Sun, 13 Sep 2026 22:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/kazuki-takahashi-art-exhibit-gets-special-animated-yu-gi-oh-video/.241739
+### Hidari Yokoyama Launches Ayaru's Brush with Romance Manga
+Mon, 14 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/hidari-yokoyama-launches-ayaru-brush-with-romance-manga/.241738
 
-Exhibit takes place in Tokyo from December to February
+Manga available in English on Manga Plus
 
-### From Far Away Volumes 1-7 Manga Review
-Sun, 13 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/from-far-away/volumes-1-7/.241308
+### Tomb Raider King ‒ Episode 10
+Mon, 14 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/tomb-raider-king/episode-10/.241685
 
-Once upon a time, in the distant days of 1991, girls sent to another world didn't land there with cheat abilities.
+George pointing a gun in Jooheon’s face because he ripped him off and then telling him to stop talking like he knows everything is one of the most cathartic moments I’ve experienced all season.
 
-### The Idolm@ster SideM Franchise Gets Film, 1st Console Game
-Sun, 13 Sep 2026 11:08:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/the-idolm@ster-sidem-franchise-gets-film-1st-console-game/.241733
+### NYCC Hosts Voice Actor Hikaru Midorikawa, Shonen Jump+ EIC Yuta Momiyama, More Guests, Events, Anime Premieres
+Mon, 14 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/nycc-hosts-voice-actor-hikaru-midorikawa-shonen-jump-eic-yuta-momiyama-more-guests-events-anime-/.241730
 
-Film to open on November 20, D3 Publisher & Bandai Namco plan game for Switch/Switch 2
+New York Comic Con 2026 is taking place at the Javits Center on October 8-11
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Interview: Yusuke Kobayashi (Voice of Subaru Natsuki) and Konomi Suzuki (OP Artist) on Re:ZERO -Starting Life in Another World-
+Mon, 14 Sep 2026 15:03:50 GMT — https://animecorner.me/interview-yusuke-kobayashi-voice-of-subaru-natsuki-and-konomi-suzuki-op-artist-on-rezero-starting-life-in-another-world/
+
+Re:ZERO -Starting Life in Another World- has been very successful in our Spring and&hellip;
+
+### Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! Reveals Main Trailer, Visual, Theme Songs and New Cast
+Mon, 14 Sep 2026 14:57:39 GMT — https://animecorner.me/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-reveals-main-trailer-visual-theme-songs-and-new-cast/
+
+Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! anime revealed the main visual and trailer, October 5 premiere.
+
+### New Gundam TV Anime Mobile Suit Gundam RG XARX-ZERO Scheduled for April 2027
+Mon, 14 Sep 2026 12:46:14 GMT — https://animecorner.me/new-gundam-tv-anime-mobile-suit-gundam-rg-xarx-zero-scheduled-for-april-2027/
+
+Mobile Suit Gundam RG XARX-ZERO, the brand-new TV anime directed by Kenji Kamiyama, will officially premiere in April 2027.
+
+### Interview: VK Blanka on Black Clover and Fruits Basket Theme Songs
+Mon, 14 Sep 2026 12:33:14 GMT — https://animecorner.me/interview-vk-blanka-on-black-clover-and-fruits-basket-theme-songs/
+
+During his visit to the German convention AnimagiC, we sat down with singer and&hellip;
+
+### Katekyo Hitman Reborn! Anime Reveals Eight Ending Featuring "CYCLE" by CHERRYBLOSSOM
+Mon, 14 Sep 2026 11:10:33 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-eight-ending-featuring-cycle-by-cherryblossom/
+
+Katekyo Hitman REBORN! anime released the creditless version of its eight ending, featuring "CYCLE" by CHERRYBLOSSOM.
 
 ### Yu-Gi-Oh! Special New Animation by KONAMI Released for Kazuki Takahashi Art Exhibition
 Mon, 14 Sep 2026 09:58:49 GMT — https://animecorner.me/yu-gi-oh-special-new-animation-by-konami-released-for-kazuki-takahashi-art-exhibition/
@@ -101,34 +126,19 @@ BanG Dream! Our Notes game is set to release globally on September 24. A&hellip;
 ### Katekyo Hitman Reborn! Anime Reveals Seventh Ending Featuring "Ameato" by W-inds
 Sun, 13 Sep 2026 11:30:42 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-seventh-ending-featuring-ameato-by-w-inds/
 
-Katekyo Hitman REBORN! anime released the creditless version of its sixth ending, featuring "Ameato" by W-inds.
-
-### Overgeared Anime Reveals Third Trailer and Key Visual, Adds Yuki Murata and Yurika Hirayama to Cast
-Sun, 13 Sep 2026 09:04:32 GMT — https://animecorner.me/overgeared-anime-reveals-third-trailer-and-key-visual-adds-yuki-murata-and-yurika-hirayama-to-cast/
-
-Overgeared anime revealed its third trailer and third key visual ahead of its October 2, 2026 premiere date.
-
-### Interview: THE SIXTH LIE on Golden Kamuy and A Certain Scientific Accelerator Song Inspirations
-Sat, 12 Sep 2026 22:49:13 GMT — https://animecorner.me/interview-the-sixth-lie-on-golden-kamuy-and-a-certain-scientific-accelerator-song-inspirations/
-
-We sat down with members Arata-san (vocals) and Reiji-san (guitar, keyboards), from THE SIXTH&hellip;
-
-### Interview: Attack on Titan and Kill la Kill Vocalist Mika Kobayashi
-Sat, 12 Sep 2026 22:48:33 GMT — https://animecorner.me/interview-attack-on-titan-and-kill-la-kill-vocalist-mika-kobayashi/
-
-We had the pleasure of interviewing singer-songwriter Mika Kobayashi during her seventh visit to&hellip;
-
-### Diablo Animated Series Announced for Netflix & Now in Development at Blizzard, Diablo V Set for Spring 2029
-Sat, 12 Sep 2026 18:44:30 GMT — https://animecorner.me/diablo-animated-series-netflix/
-
-Blizzard Entertainment and Netflix are developing a new animated series set in the world&hellip;
-
-### BLEACH: Thousand-Year Blood War Delays Episodes 49 and 50 to October "to Improve Quality"
-Sat, 12 Sep 2026 14:40:59 GMT — https://animecorner.me/bleach-thousand-year-blood-war-delays-episodes-49-and-50-to-october-to-improve-quality/
-
-BLEACH: Thousand-Year Blood War anime has delayed Episode 49 and Episode 50 to October 2026 in order to "improve quality."
+Katekyo Hitman REBORN! anime released the creditless version of its seventh ending, featuring "Ameato" by W-inds.
 
 ## MyAnimeList News
+
+### Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. Reveals Additional Cast, Staff, Theme Songs, Main Promo
+Mon, 14 Sep 2026 04:25:55 -0700 — https://myanimelist.net/news/74719088?_location=rss
+
+The official website of the Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. (Hi, I m a Witch, and My Crush Wants Me to Make a Love Potion) television anime revealed additional cast, staff, theme songs, the main visual (pictured), and promotional video on Monday. The anime series adapting Eiko Mutsuhana s fantasy romance light novel will air on October 5 at 9.30 p.m. on AT-X, followed by Tokyo MX, BS Nippon TV, and MBS. Voice actors Hiro Shimono (Kimi to Koete Koi ni Naru) a...
+
+### Web Manga Funsou deshitara Hatta made Gets TV Anime
+Mon, 14 Sep 2026 04:20:59 -0700 — https://myanimelist.net/news/74719080?_location=rss
+
+Publishing company Kodansha announced a television anime adaptation of Motohiro Den s Funsou deshitara Hatta made (If It s a Conflict, Leave it to Hatta) web manga on Monday, revealing an announcement visual (pictured). Den began serializing the mystery seinen manga in the Morning magazine in November 2019 before transferring it on the D Morning web service in September 2021. Kodansha published the 19th volume on February 20, with the 20th volume scheduled for a September 18 release. F...
 
 ### Chi. Chikyuu no Undou ni Tsuite Creator Announces Two New Manga
 Sun, 13 Sep 2026 18:28:06 -0700 — https://myanimelist.net/news/74717598?_location=rss
@@ -149,21 +159,6 @@ The official website for the television anime adaptation of Saenal Park and Team
 Sat, 12 Sep 2026 10:55:08 -0700 — https://myanimelist.net/news/74709373?_location=rss
 
 The Aniplex One Focus 2026 event revealed supporting cast for the Grotesqqque original anime movie and a trailer for its Yoroshiku★Shoujo segment on Saturday. The three-story omnibus movie will premiere in Japanese theaters on November 6. Cast Mitoge: Youko Hikasa (Kaoru Hana wa Rin to Saku) Mimosa: Riho Sugiyama (Amagami-san Chi no Enmusubi) Kava: Ayaka Ohashi (Akame ga Kill!) Shouta Horie (Shiunji-ke no Kodomotachi), Yuyoyuppe (Mob Psycho 100), Ayato Shinozaki (Kage no Jitsuryokusha ni Naritak...
-
-### Bless Reveals Main Cast, Character Promo, Winter 2027 Debut
-Sat, 12 Sep 2026 04:27:03 -0700 — https://myanimelist.net/news/74707781?_location=rss
-
-The Aniplex One Focus 2026 event revealed the main cast, a teaser visual (pictured), and character promotional video for the television anime adaptation of Yukino Sonoyama s Bless manga on Saturday. The anime series is scheduled to premiere on Fuji TV s NoitaminA programming block at 11.30. p.m. in January 2027. Voice actors Tomohiro Ono (Tomodachi Game) and Chiyuki Miura (Shibou Yuugi de Meshi wo Kuu.) are starring as Aia Udagawa and Jun Sumisaki, respectively. Shoutarou Kitamura (Mak...
-
-### Koiseyo Mayakashi Tenshi-domo Unveils Main Cast, Additional Staff, Promo
-Sat, 12 Sep 2026 04:08:55 -0700 — https://myanimelist.net/news/74707678?_location=rss
-
-The Aniplex One Focus 2026 event unveiled the main cast, additional staff, and a cast announcement promotional video for the television anime adaptation of Coco Uzuki s Koiseyo Mayakashi Tenshi-domo (Fall in Love, You False Angels) manga on Saturday. The anime is scheduled to premiere in 2027. Voice actors Nao Ojika (Mahou no Shimai Lulutto Lilly) and Taito Ban (Ore dake Level Up na Ken) are starring the anime as Otogi Katsura and Toki Ninomae, respectively. Yuuki Kurihara (Haigakura) and Y...
-
-### Vertex Force Reveals Additional Cast, Theme Songs, Second Promo
-Sat, 12 Sep 2026 03:49:08 -0700 — https://myanimelist.net/news/74707563?_location=rss
-
-The Aniplex One Focus 2026 event revealed additional cast, theme songs, a key visual (pictured), and the second promotional video for the Vertex Force original television anime on Friday. The anime is scheduled to premiere on Tokyo MX, BS11, Gunma TV, and Tochigi TV at 11:30 p.m. on October 3. Voice actors Kazuki Ura (Bungou Stray Dogs 5th Season) and Nana Mizuki (Dandadan) are joining the cast as Alan and EDVA, respectively. Japanese pop music group ClariS (Lycoris Recoil) is performing the ope...
 
 ## Otaku USA
 

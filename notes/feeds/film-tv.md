@@ -1,176 +1,219 @@
-# Film & TV — harvested 2026-09-14T10:07:28.494Z
+# Film & TV — harvested 2026-09-14T16:33:35.975Z
 
 ## Variety
 
-### International Oscar Submissions: Nepal, Singapore, Israel, Romania, South Korea, Chile and More Join the List
-Mon, 14 Sep 2026 09:20:29 +0000 — https://variety.com/lists/international-oscar-submissions-2027/
+### From Youtube to TIFF: Brave Wilderness Host Mark Vins Debuts First Feature Film Reef to Ridge
+Mon, 14 Sep 2026 16:30:00 +0000 — https://variety.com/2026/film/festivals/brave-wilderness-mark-vins-first-feature-film-1236859090/
 
-The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec. 15, with 15 international films selected to be voted on by Academy members in all branches who commit to watch all 15 films. Oscar nominations will be revealed [ ]
+With almost 22 million subscribers on his Youtube channel, “Brave Wilderness” host Mark Vins is no stranger to making and sharing outdoor content with a global audience. Now, 14 years later, Vins has expanded from short form videos to debuting his first full-length documentary at the Toronto International Film Festival. Vins end goal as a [ ]
 
-### Hyun Bin, Lee Min-ho, Jung Woo-sung, Isabelle Huppert Headline Busan Open Talk and Outdoor Stage Greeting Lineup
-Mon, 14 Sep 2026 08:41:08 +0000 — https://variety.com/2026/film/festivals/hyun-bin-lee-min-ho-isabelle-huppert-busan-talks-1236860985/
+### Salma Hayek Pinault to Make Theatrical Directorial Debut With Arena, Co-Starring Yura Borisov and Cara Delevingne (EXCLUSIVE)
+Mon, 14 Sep 2026 16:30:00 +0000 — https://variety.com/2026/film/awards/salma-hayek-pinault-arena-directorial-debut-yura-borisov-cara-delevingne-1236860801/
 
-The 31st Busan International Film Festival (BIFF) has unveiled the lineup and schedule for three of its fan-facing programs: Open Talk, Outdoor Stage Greeting and Talk-to-Talk. Held at the Busan Cinema Center Roof Theater and the HANMAC Smooooth Lounge, the sessions give audiences a chance to meet directors and cast members from a wide range [ ]
+Oscar nominee Salma Hayek Pinault is stepping behind the camera. Variety can exclusively reveal that the Oscar-nominated actor of “Frida” and Emmy-nominated actress and producer of “Ugly Betty” will make her theatrical directorial debut with “Arena,” an epic romantic adventure she also wrote. The independently financed film pairs her with Yura Borisov, who earned an [ ]
 
-### Lee Chang-dong s Films Head to Netflix Worldwide After Possible Love Wins Silver Lion at Venice
-Mon, 14 Sep 2026 08:16:51 +0000 — https://variety.com/2026/tv/festivals/lee-chang-dong-netflix-films-possible-love-venice-1236860979/
+### Creator Economy Dynamo Steven Bartlett Partners With Authentic Brands to Launch OBSN Brand Development Venture
+Mon, 14 Sep 2026 16:30:00 +0000 — https://variety.com/2026/digital/news/steven-bartlett-obsn-steven-com-authentic-brands-creators-1236860849/
 
-Netflix will expand its lineup of Lee Chang-dong films worldwide, following the Silver Lion (Grand Jury Prize) win for Possible Love at the Venice Film Festival. The expansion will let viewers everywhere explore titles including Secret Sunshine and Peppermint Candy. Possible Love, Lee s first film in eight years, opens in South Korean theaters Sept. 23, [ ]
+Rising entrepreneur Steven Bartlett has teamed with Authentic Brands to launch OBSN, a business venture designed to support creators and facilitate the development of consumer products and services built around top creators. The deal calls for the partners to create a platform devoted to providing news, analysis and live experiences for the creator economy in [ ]
 
-### Korea Box Office: The Odyssey Secures Sixth Weekend Crown as Obsession Ascends
-Mon, 14 Sep 2026 06:38:53 +0000 — https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-obsession-1236860949/
+### Screen Brasil Launches Second Edition of Film Distribution Grant Initiative
+Mon, 14 Sep 2026 16:28:01 +0000 — https://variety.com/2026/film/global/screen-brasil-embratur-projeto-paradiso-lucky-number-1236861012/
 
-The Odyssey continued its voyage at the summit of the South Korean box office during the weekend of Sept. 11–13. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed tentpole generated $3.9 million from 449,474 admissions over the three-day frame across 1,648 screens, capturing 51.4% of the [ ]
+Distribution, by common consent, has become the weakest link in the whole of the film industry. If it weren’t for public-sector aid, it would hardly exist. Split right deals, replacing minimum guarantees, has eased the financial stress on distributors. Every single dollar still counts, however. In such a context, Screen Brasil, which closes its applications [ ]
 
-### China Box Office: Once Upon a Time in the Middle East Stays on Top as The Odyssey Crosses $100 Million
-Mon, 14 Sep 2026 06:20:42 +0000 — https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-the-odyssey-100-million-1236860945/
+### Creator Kat Sandler on Yaga. With Heated Rivalry Star Hudson Williams: ‘People Are Ready for a Witchy Wave’
+Mon, 14 Sep 2026 16:22:53 +0000 — https://variety.com/2026/global/markets-festivals/hudson-williams-carrie-anne-moss-yaga-series-premiere-tiff-1236860858/
 
-Dirty Monkeys’ war comedy-drama Once Upon a Time in the Middle East held the number one spot at the mainland China box office for the fifth straight frame, collecting RMB52.9 million ($7.8 million) over the Sept. 11–13 weekend, according to data from Artisan Gateway. Directed by Wen Muye ( Dying to Survive ) and starring Shen Teng, [ ]
+On the heels of global sensation “Heated Rivalry,” Canadian streamer Crave is bringing witchy back with “Yaga,” writer and showrunner Kat Sandler’s horror mystery series in which the ancient lore of Baba Yaga haunts the search for a missing local in a small coastal town. Greenlit in spring 2025, “Yaga” gained global buzz earlier this [ ]
 
-### Pretenders Review: A Superb Portrait of Chrissie Hynde and Her Legendary Band Captures Their Incandescence and Tragedy
-Mon, 14 Sep 2026 05:42:48 +0000 — https://variety.com/2026/film/reviews/pretenders-review-chrissie-hynde-tiff-1236860631/
+### Dave Chappelle Adds Tour Dates, Including Headlining Madison Square Garden for New York Comedy Festival
+Mon, 14 Sep 2026 16:19:41 +0000 — https://variety.com/2026/tv/news/dave-chappelle-tour-dates-new-york-comedy-festival-1236861300/
 
-Hynde, though she had the feelings of punk in her bones, was the most romantic songwriter of that entire scene. I don’t mean romantic as in "love songs," but as in conjuring the majestic romanticism of life. Just listen to "Kid," a song so happy and sad at the same time that it’s worthy of the Beatles.
+Dave Chappelle has announced a slew of new arena dates as the comic is added to New York Comedy Festival as a headliner. Chappelle will open the fest on Nov. 6 with a show at Madison Square Garden. He joins other headliners of New York Comedy Festival including Marc Maron, Ilana Glazer, Daniel Sloss and [ ]
 
-### All That She Wants Review: Annie Murphy and Cooper Raiff Are Well-Matched in a Generation-Gap Romcom
-Mon, 14 Sep 2026 03:30:00 +0000 — https://variety.com/2026/film/reviews/all-that-she-wants-review-1236860677/
+### Macklemore Speaks Out After Being Dropped From Ed Sheeran Tour, Says Singer Claimed That Saying Free Palestine Was Hurtful to a Lot of People
+Mon, 14 Sep 2026 16:01:49 +0000 — https://variety.com/2026/music/news/macklemore-defends-free-palestine-speech-fired-ed-sheeran-tour-1236861158/
 
-Millennials get their Mrs. Robinson moment with “All That She Wants,” an age-gap romcom titled after the 1992 Ace of Base hit. If you remember listening to that song on a cassingle, it’s time to ask your doctor about perimenopause. Professional dancer Emma (Annie Murphy) isn’t quite there yet, but in her early thirties, she’s [ ]
+Macklemore has responded to being dropped from the remaining U.S. dates of Ed Sheeran’s Loop Tour, after comments he made onstage about Palestine drew controversy. The rapper responded in a lengthy post on Instagram in which he seemed to place the blame for the ban on New England Patriots owner Robert Kraft, saying that the [ ]
 
-### Lanterns Star Poorna Jagannathan Breaks Down Zoe s Brutal Episode 5: It s a Faustian Play She Makes
-Mon, 14 Sep 2026 02:00:00 +0000 — https://variety.com/2026/tv/news/lanterns-episode-5-zoe-manhunter-john-kills-zoe-1236858961/
+### Bob Mackie, Renowned Fashion Designer to Cher, Tina Turner, Carol Burnett and More, Dies at 87
+Mon, 14 Sep 2026 15:57:33 +0000 — https://variety.com/2026/tv/news/bob-mackie-dead-fashion-designer-1236861284/
 
-SPOILER ALERT: This article contains spoilers for “Lanterns” Episode 5, titled “Lights Out,” now streaming on HBO Max. This week s episode of Lanterns finally unmasks the Manhunter, who s been at the heart of the mystery in Rushville throughout the season. As revealed at the end of Episode 4, the Manhunter is in fact Zoe Macon, [ ]
+Bob Mackie, the “Sultan of Sequins” known for creating flamboyant, show-stopping looks for divas like Cher and Diana Ross, died Monday. He was 87. It is with a heavy heart that we share the news that Mr. Bob Mackie passed away today, a statement on his Instagram read. He lived his 87 years to the [ ]
 
-### 60 Minutes Kicks Off Much-Scrutinized 59th Season With Old Ticks, Tricks
-Mon, 14 Sep 2026 01:11:14 +0000 — https://variety.com/2026/tv/news/60-minutes-season-59-launch-cbs-news-old-tricks-ticks-1236860783/
+### Crazy Taxi Comedy Movie Coming From Netflix and Sega, New Sonic TV Series and Stranger Than Heaven Film in the Works
+Mon, 14 Sep 2026 15:45:00 +0000 — https://variety.com/2026/film/news/crazy-taxi-movie-netflix-sega-sonic-stranger-than-heaven-1236861148/
 
-CBS News says it needs to push 60 Minutes into the future if the show is to survive, but the first telecast of the 59th season following a shocking overhaul of its on-air and behind-the-camera staff in May and June relied on many elements from the program s past. The new season of 60 Minutes burnished [ ]
+Netflix has hit the start button on multiple adaptations of Sega hit gaming franchises. The first project under the companies new multititle deal is a feature-film adaptation of Crazy Taxi, Sega s long-running racing game. The movie will be written by Dan Gregor and Doug Mand the writing duo behind the 2025 reboot of The [ ]
 
-### Cynthia Erivo’s Riveting ‘Prima Facie’ Performance Earns TIFF Standing Ovation
-Mon, 14 Sep 2026 01:00:18 +0000 — https://variety.com/2026/film/news/cynthia-erivo-prima-facie-tiff-standing-ovation-1236860782/
+### Stagecoach 2027 Lineup: Garth Brooks, Riley Green, Zach Top to Headline
+Mon, 14 Sep 2026 15:30:30 +0000 — https://variety.com/2026/music/news/stagecoach-2027-lineup-garth-brooks-riley-green-zach-top-headline-1236861248/
 
-Cynthia Erivo already earned two best actress Oscar nominations for portraying Harriet Tubman and the green-skinned Elphaba in Wicked — not to mention her Tony-winning work in The Color Purple — but her latest film, Prima Facie, might be her most challenging high-wire act yet. She pulled it off, according to the audience at the [ ]
+The annual Stagecoach festival will return to the Empire Polo Club in Indio, Calif. next April, and as usual it has a powerful set of headliners: Garth Brooks, Riley Green and Zach Top, with a reunited Florida Georgia Line set for a special late-night set at the festival, marking the duo’s first officially announced performance [ ]
 
 ## The Hollywood Reporter
 
-### Netflix to Stream Lee Chang-dong s Films Globally as ‘Possible Love’ Awards Campaign Heats Up
-Mon, 14 Sep 2026 08:03:42 +0000 — https://www.hollywoodreporter.com/movies/movie-news/netflix-lee-chang-dong-possible-love-awards-campaign-1236700399/
+### Bob Mackie, Ballyhooed Costume Designer for Cher and Carol Burnett, Dies at 87
+Mon, 14 Sep 2026 16:04:45 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bob-mackie-dead-cher-carol-burnett-costume-designer-1236700630/
 
-All six of the Korean auteur’s previous features, including ‘Burning,’ ‘Peppermint Candy’ and ‘Secret Sunshine,’ are rolling out across various territories ahead of the global streaming launch of ‘Possible Love’ on Nov. 6.
+The 'Sultan of Sequins' won nine Emmys and earned three Oscar noms. 'A woman who wears my clothes is not afraid to be noticed,' he once said.
 
-### A Bland ‘60 Minutes’ Season Premiere Suggests a Limited Bari Weiss Effect (So Far)
-Mon, 14 Sep 2026 06:29:55 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/60-minutes-season-premiere-review-bari-weiss-1236700346/
+### Oasis Sets 2027 Stadium Run: It Shall Be a Sight to Behold
+Mon, 14 Sep 2026 15:51:23 +0000 — https://www.hollywoodreporter.com/music/music-news/oasis-announce-2027-stadium-shows-1236700557/
 
-Led by familiar faces Lesley Stahl, Jon Wertheim and Norah O'Donnell, Sunday night's episode was often mediocre, but not in any shocking or dramatically different ways.
+The British rock group is following its historic Live '25 Tour with a nearly 40-show run beginning next May.
 
-### Zack Snyder s The Last Photograph : First Reactions
-Mon, 14 Sep 2026 04:10:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/zack-snyder-the-last-photograph-first-reactions-1236700218/
+### Netflix and Sega Set Crazy Taxi Game-to-Film Adaptation
+Mon, 14 Sep 2026 15:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-sega-crazy-taxi-game-film-1236700478/
 
-The film, Snyder's first indie production, debuted at the Toronto Film Festival.
+Their multi-title collaboration will also adapt the classic 'Sonic' video game as a new animated series, and 'Stranger Than Heaven' as a live-action film.
 
-### ‘All That She Wants’ Review: Annie Murphy Is All That in a Fizzy Rom-Com That Works Best When It Isn’t Trying Too Hard
-Mon, 14 Sep 2026 03:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/all-that-she-wants-review-annie-murphy-cooper-raiff-1236698118/
+### Macklemore Dropped From Ed Sheeran Tour After Pro-Palestine Comments During Performances
+Mon, 14 Sep 2026 15:34:26 +0000 — https://www.hollywoodreporter.com/music/music-news/macklemore-dropped-ed-sheeran-tour-pro-palestine-claims-1236700489/
 
-Toplining a feature for the first time, the ‘Schitt’s Creek’ star plays a 30-something who’s ready for motherhood, if not a relationship, in a comedy that also stars Zosia Mamet, Cooper Raiff and Christine Baranski.
+Sheeran's tour promoter Messina Touring Group said venues told the company they "will not allow a concert to take place with Macklemore on the lineup, which would result in the cancellation of the tour and impact hundreds of thousands of fans."
 
-### ‘Lemonade’ Review: Newcomer Lewis Brophy and Barry Keoghan Lead a Paint-by-Numbers Irish Drama About a Teen Caught in the System
-Mon, 14 Sep 2026 02:58:42 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/lemonade-review-barry-keoghan-1236697925/
+### Gerbil: Inside Hollywood’s Most Unkillable Rumor
+Mon, 14 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/richard-gere-gerbil-rumor-1236694157/
 
-Kim Bartley's TIFF-bowing film revolves around an Irish teenager navigating a multitude of problems all at once.
+What’s the first thing you think of when you hear the word ‘gerbil’? And why has the salacious urban legend — perhaps the first viral meme — burrowed so deeply into our … collective subconscious? A new podcast investigates.
 
-### Seth Rogen Surprised By Toronto Career Achievement Award at 44: You Got a Letter From My Doctors?
-Mon, 14 Sep 2026 02:54:49 +0000 — https://www.hollywoodreporter.com/movies/movie-news/2026-toronto-film-festival-tribute-awards-winners-list-1236700159/
+### The Last Photograph Review: Zack Snyder Tries Indie Filmmaking on for Size, With Painfully Ponderous Results
+Mon, 14 Sep 2026 14:22:39 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-last-photograph-review-zack-snyder-1236699771/
 
-Helen Mirren, Penelope Cruz and Isabelle Huppert were also honored at the Tribute Awards on Sunday night at the Toronto Film Festival.
+The DC filmmaker's passion project stars Stuart Martin as an ex-DEA operative who ventures into the mountains of South America to track down the abducted children of his murdered brother and sister-in-law.
 
-### Oscars: Philippines Picks Rafael Manuel’s ‘Filipiñana’ as Best International Feature Selection
-Mon, 14 Sep 2026 02:14:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/philippines-rafael-manuel-filipinana-2027-oscars-1236700190/
+### SkyShowtime May Be Sold or Shut Down, Board Warns In Memo Shared With Staff (Exclusive)
+Mon, 14 Sep 2026 14:15:07 +0000 — https://www.hollywoodreporter.com/business/business-news/comcast-paramount-review-strategic-options-skyshowtime-1236698105/
 
-The Sundance-winning debut is a sly class satire set inside an elite country club in Manila.
+Joint owners Comcast and Paramount have launched a "review of strategic options," according to a letter sent to the streaming service's CEO Monty Sarhan Monday.
 
-### Lucy Dacus on Closing Out the Forever Is a Feeling Chapter, Finding Fandom Boundaries and What s Next
-Mon, 14 Sep 2026 01:58:41 +0000 — https://www.hollywoodreporter.com/music/music-features/lucy-dacus-forever-is-a-feeling-hollywood-bowl-interview-1236699997/
+### Ridley Scott Reveals Directing Secrets to Fellow Helmer Jimmy Chin: Don t Listen to Anybody
+Mon, 14 Sep 2026 14:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ridley-scott-reveals-directing-secrets-jimmy-chin-1236698017/
 
-The 31-year-old singer-songwriter is set to play her final show for the album with the Hollywood Bowl Orchestra.
+In an unusually unguarded interview from Chin's new book of conversations, the 'Dog Stars' director looks back on what he's learned after half a century at the top of his craft.
 
-### CBS Warns Humanity May Have a Narrow Window to Avoid AI Calamity, Right After ChatGPT Sponsors Its NFL Broadcast
-Mon, 14 Sep 2026 01:41:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/chatgpt-cbs-nfl-ads-60-minutes-warning-1236700161/
+### Netflix, YouTube and Amazon Launch a Streaming Public Policy Group
+Mon, 14 Sep 2026 14:01:22 +0000 — https://www.hollywoodreporter.com/business/digital/netflix-youtube-amazon-launch-streaming-public-policy-saca-1236700459/
 
-ChatGPT was revealed as a surprise presenting sponsor of the 'NFL on CBS,' which was followed by '60 Minutes,' where one of its correspondents outlined a stark warning about the future if the technology remains unchecked.
+The Streaming Access and Choice Alliance (SACA) will represent the interests of streaming platforms in Washington.
 
-### Prima Facie Review: Cynthia Erivo Stars as a Lawyer Who Becomes a Rape Victim in This Misfire of an Adaptation
-Sun, 13 Sep 2026 23:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/prima-facie-review-cynthia-erivo-1236696972/
+### The 37 Top L.A. Real Estate Brokers of 2026
+Mon, 14 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/real-estate/top-los-angeles-real-estate-brokers-2026-1236694146/
 
-The Oscar nominee tackles the role originated by Jodie Comer on the West End and Broadway in Susanna White's film version of Suzie Miller's award-winning play.
+Braving wildfire recovery and market malaise, these superagents have made the most of a punishing year — and most say there’s nowhere to go but up.
 
 ## Deadline
 
-### House Of The Dragon Actress Maddie Evans Leads Brit Horror Pendle 1612 About Notorious Witch Trials
-Mon, 14 Sep 2026 10:06:31 +0000 — https://deadline.com/2026/09/house-of-the-dragon-actress-maddie-evans-horror-pendle-1612-1237101534/
+### Bleecker Street Moves Up ‘Musk’ Doc Theatrical Release Due To Overwhelming Demand
+Mon, 14 Sep 2026 16:30:03 +0000 — https://deadline.com/2026/09/musk-documentary-new-release-date-1237101825/
 
-EXCLUSIVE: Maddie Evans (House of the Dragon) is set to lead upcoming British horror feature Pendle 1612, alongside newcomer Ella Moss and Gemma Laurie (Shetland). Written and directed by Lancashire-born twin filmmakers Liam Bashford and Kyle Bashford, the film is a docu-horror inspired by the history surrounding the Pendle Witch Trials of 1612. Evans will [ ]
+EXCLUSIVE: Bleecker Street is moving up the theatrical release of Musk – to October 9 – in response to intense interest in the documentary about the world’s richest man. Alex Gibney’s film, which runs 3 hours and 45 minutes with a 10-minute intermission, holds its North American premiere later Monday at the Toronto Film Festival. [ ]
 
-### Nightsleeper Season 2: Colin Morgan, Madeleine Mantock Christian Cooke Lead Return Of BBC Thriller Drama
-Mon, 14 Sep 2026 10:00:00 +0000 — https://deadline.com/2026/09/nightsleeper-season-2-cast-bbc-thriller-drama-1237100524/
+### Cheri Oteri John Michael Higgins Round Out Cast Of Courtney Hoffman s Rom-Com Intimacy Party
+Mon, 14 Sep 2026 16:26:12 +0000 — https://deadline.com/2026/09/intimacy-party-movie-casts-cheri-oteri-john-michael-higgins-1237101830/
 
-EXCLUSIVE: Colin Morgan (The Boy That Never Was), Madeleine Mantock (The Long Song) and Christian Cooke (Frauds) will lead the cast of BBC real-time thriller Nightsleeper Season 2. The trio assume the mantle from Season 1 stars Joe Cole and Ruth Madeley, and will appear alongside the likes of Rupert Penry-Jones (Spooks), Ian McElhinney (Game [ ]
+EXCLUSIVE: Courtney Hoffman has wrapped production on her feature directorial debut, Intimacy Party, the ensemble romantic comedy led by Juno Temple, with SNL alum Cheri Oteri and John Michael Higgins (Licorice Pizza) rounding out the cast. Also new is UTA Independent Film Group s boarding of the film to oversee worldwide sales. Written by Hoffman and [ ]
 
-### Heated Rivalry Distributor Sphere Abacus Buys Digital Outfit Rocket Rights
-Mon, 14 Sep 2026 09:42:28 +0000 — https://deadline.com/2026/09/sphere-abacus-buys-rocket-rights-booster-heated-rivalry-1237101529/
+### Andrew Dice Clay Latest To Join Benny Safdie s Lizard Music
+Mon, 14 Sep 2026 16:03:57 +0000 — https://deadline.com/2026/09/lizard-music-movie-andrew-dice-clay-voice-role-1237101797/
 
-Canada s Heated Rivalry distributor Sphere Abacus has bought digital seller Rocket Rights/Rights Booster, renaming it Rocket Booster. Founder Matthew Frank has become executive director of the newly-named company while former COO Cat Davie is now MD. Both will report to Sphere Abacus boss Jonathan Ford. Founder by Frank with his late brother David in 2021, [ ]
+EXCLUSIVE: Andrew Dice Clay (A Star Is Born) is set for a voice role in Lizard Music, Benny Safdie s new live-action/CGI hybrid film for Amazon MGM Studios and United Artists. No word on the role Clay will play. He joins a cast led by 10-year-old Theo Clark Leber, which also includes Dwayne Johnson, Alicia Silverstone, [ ]
 
-### Emily Maitlis To Host Global Podcast Tracing Jeffrey Epstein s Links To The UK
-Mon, 14 Sep 2026 09:42:26 +0000 — https://deadline.com/2026/09/emily-maitlis-global-podcast-jeffrey-epstein-links-uk-1237101528/
+### Kennedy Center Warns Of Bankruptcy, Ties Donald Trump s Leadership Of Financial Rescue To Restoration Of His Name To Arts Institution
+Mon, 14 Sep 2026 16:03:03 +0000 — https://deadline.com/2026/09/kennedy-center-bankruptcy-trump-1237101778/
 
-EXCLUSIVE: After laying bare Andrew Mountbatten-Windsor s links to Jeffrey Epstein in a bombshell interview, Emily Maitlis is now delving deeper into the world of the deceased child sex offender. The former BBC presenter will host A Very British Epstein for UK audio company Global. It will trace Epstein s ties to the UK through exclusive interviews [ ]
+There is a new wrinkle in the ongoing saga over the Kennedy Center: Officials with the institution are warning of certain financial collapse and that restoring Donald Trump s name may be the only way to get him to lead the financial rescue of the center. A draft board resolution, outlined in court documents on Monday, [ ]
 
-### Adolescence Scribe Jack Thorne Claims Fellow Writers Are Using AI To Cheat Says Those Caught Should Be Punished
-Mon, 14 Sep 2026 08:51:03 +0000 — https://deadline.com/2026/09/adolescence-jack-thorne-ai-writer-cheat-1237101521/
+### Macklemore Dropped From Ed Sheeran Tour After “Free Palestine Remarks
+Mon, 14 Sep 2026 16:00:21 +0000 — https://deadline.com/2026/09/macklemore-dropped-ed-sheeran-tour-free-palestine-1237101792/
 
-Jack Thorne, one of the UK s most respected screenwriters, has alleged that some of his peers are using artificial intelligence to generate scripts. In a wide-ranging speech about AI on behalf of the Writers Guild of Great Britain (WGGB), the Adolescence and Lord of the Flies writer said he was aware of fellow creatives turning [ ]
+American rapper Macklemore will no longer be supporting Ed Sheeran‘s Loop Tour amid a backlash against his free Palestine pleas. As the 4x Grammy winner took the stage for Sheeran’s tour earlier this month at MetLife Stadium, he called for “safety and peace” for all before performing his protest song “Hind’s Hall. He later emphasized [ ]
 
-### The Life And Deaths Of Wilson Shedd Review: Amanda Seyfried s Complex Portrayal Enriches Tim Blake Nelson s Downbeat Prison Picture Toronto Film Festival
-Mon, 14 Sep 2026 08:25:48 +0000 — https://deadline.com/2026/09/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried-1237101506/
+### ‘My Undesirable Friends: Part II – Exile’ Trailer: Brave Russian Women Journalists Flee Tyranny In Film From Julia Loktev, EPs Meryl Streep, Laura Poitras
+Mon, 14 Sep 2026 16:00:00 +0000 — https://deadline.com/2026/09/my-undesirable-friends-part-ii-exile-trailer-1237101511/
 
-Amanda Seyfried s sad school teacher is the heart and confused soul of Tim Blake Nelson s latest directorial outing, The Life And Deaths Of Wilson Shedd. The movie itself appears to have had a lot of life and deaths itself along the way as Nelson has been trying to get it made for years, and finally [ ]
+EXCLUSIVE: Warsaw, Hamburg, Istanbul, New York – brave Russian journalists who dared to report the truth about their country have had to scatter across the globe to avoid imminent arrest. News anchors and reporters Anna Nemzer, Irina Dolinina, Ksenia Mironova and more turned My Undesirable Friends: Part I – Last Air in Moscow into a [ ]
 
-### Sydney Sweeney s Nude Sports Betting Ad Sparks Backlash Among Female Olympians: A Kick In The Face To Every Woman
-Mon, 14 Sep 2026 08:14:53 +0000 — https://deadline.com/2026/09/sydney-sweeney-novig-ad-backlash-female-olympians-1237101507/
+### Paramount Netflix End Animated Film Agreement
+Mon, 14 Sep 2026 16:00:00 +0000 — https://deadline.com/2026/09/paramount-netflix-animated-films-1237101666/
 
-Sydney Sweeney is no stranger to starring in a controversial ad — and her latest effort has infuriated female athletes, including Olympians. Sweeney posed for sports betting company Novig wearing just sports, meaning she was only covering her modesty with footballs, tennis rackets, and basketball hoops. The campaign dropped last week, prompting inevitable headlines about [ ]
+EXCLUSIVE: It has come to our attention that Paramount and Netflix are ending their animated film pact. There was a pre-existing agreement in place specifically between Netflix and Skydance Animation which was announced in 2023; that latter label ultimately falling under Paramount post merger. The two congloms remain committed to the upcoming animated features on [ ]
 
-### Former Sony, Endemol Talpa Exec Ziad Kebbi Takes The Reins At MForMedia As Dubai-Based Production Company Refocuses On Originals AI
-Mon, 14 Sep 2026 07:36:00 +0000 — https://deadline.com/2026/09/ziad-kebbi-joins-mformedia-dubai-producer-pivots-to-ip-ai-1237100669/
+### Netflix and Sega Set Crazy Taxi Film; Sonic Stranger Than Heaven Adaptations Also Part Of New Slate Partnership
+Mon, 14 Sep 2026 15:45:00 +0000 — https://deadline.com/2026/09/crazy-taxi-stranger-than-heaven-movies-netflix-sonic-1237101775/
 
-EXCLUSIVE: Industry vet Ziad Kebbi is taking charge at MForMedia with a remit to take the Dubai-based production biz in a new direction built on the ownership of IP. “The best stories from this region have not been told yet,” the exec said as he stepped into his new role. Kebbi becomes Managing Director at [ ]
+Netflix has set a new slate of projects with video game company Sega, including film adaptations of their titles Crazy Taxi and Stranger Than Heaven, and a new Sonic children s series. Dan Gregor Doug Mand, the screenwriting duo behind 2025 s reboot of The Naked Gun, are penning Crazy Taxi. First released in arcades in [ ]
 
-### All That She Wants Review: Annie Murphy And Cooper Raiff In Smart, Fun Romcom Where Gen Z And Millennial Meet Cute In Bed -Toronto Film Festival
-Mon, 14 Sep 2026 07:06:04 +0000 — https://deadline.com/2026/09/all-that-she-wants-review-annie-murphy-cooper-raiff-romcom-1237101323/
+### Paramount Comcast Streamer SkyShowtime Could Be Shut Down, Board Says
+Mon, 14 Sep 2026 15:39:42 +0000 — https://deadline.com/2026/09/skyshowtime-could-be-shut-down-board-says-paramount-comcast-1237101774/
 
-All That She Wants is one of those cutesy titles that I can never quite remember right after seeing a movie. The good news is this one is refreshingly smart and funny with actors you would like to see get together despite their age difference. Plus this film, which had its World Premiere Sunday night [ ]
+The future of Paramount and Comcast s international streamer SkyShowtime is in serious doubt amid the Paramount-Warner mega-merger. A note from the SkyShowtime board to CEO Monty Sarhan informed him that it has kicked off a strategic review, which includes the possibility of a wind-down. No decisions have been made, and all options remain under consideration, [ ]
 
-### ‘The Walsh Sisters’ Are Coming Back: RTÉ BBC Order Season 2 Of Comedy-Drama Based On Marian Keyes Novels
-Mon, 14 Sep 2026 07:01:00 +0000 — https://deadline.com/2026/09/the-walsh-sisters-renewed-for-season-2-rte-bbc-stan-1237100622/
+### Casket Girls : First Look At Gabrielle Union In Supernatural Horror TIFF Market
+Mon, 14 Sep 2026 15:35:00 +0000 — https://deadline.com/2026/09/gabrielle-union-casket-girls-first-look-horror-film-1237101575/
 
-EXCLUSIVE: The Walsh Sisters are coming back. Irish pubcaster RTÉ has greenlit a Season 2, which the BBC will once again show in the UK. The new series, based on Marian Keyes’ novels, will stream on Stan in Australia. Peter Coonan (Bad Sisters) joins the Season 2 cast, as do Aislín McGuckin (Normal People), Art [ ]
+EXCLUSIVE: Here s your first look at Gabrielle Union in supernatural horror-thriller Casket Girls, in which she stars with Mike Colter. The film follows Detective Shay Williams (Union) and her partner Galpin (Colter) as they investigate a child s supernatural encounter and accidentally release the legendary Casket Girls from beneath a centuries-old New Orleans church. Trapped inside, they and a handful of survivors must outwit [ ]
 
-### Netflix To Stream Lee Chang-Dong’s Previous Works Following ‘Possible Love’ Silver Lion Win In Venice
-Mon, 14 Sep 2026 04:52:33 +0000 — https://deadline.com/2026/09/netflix-venice-lee-chang-dong-possible-love-1237101493/
+### Amanda Brocato Promoted To President Of Rosenfield Media Group
+Mon, 14 Sep 2026 15:30:00 +0000 — https://deadline.com/2026/09/amanda-brocato-promotion-rosenfield-media-group-1237101763/
 
-Following the Silver Lion win for Lee Chang-dong’s Possible Love at this year’s Venice film festival, Netflix is set to stream more of the director’s work worldwide. Lee’s earlier films Green Fish and Secret Sunshine are already available on Netflix, streaming from August in Italy, the UK, France, Australia, and New Zealand. Peppermint Candy and [ ]
+Amanda Brocato has been promoted to President at Rosenfield Media Group. Brocato will now take on a larger role within RMG s business development and overall strategic direction, while continuing her work in client relations. She maintains her role alongside CEO Zach Rosenfield in corporate communications, as well as overseeing the company s national footprint of live [ ]
 
-### Steve Ballmer Apologizes To Fans, Says He Has Paid $30M NBA Fine, But Does Not Admit Guilt
-Mon, 14 Sep 2026 04:11:05 +0000 — https://deadline.com/2026/09/steve-ballmer-apologizes-does-not-admit-guilt-1237101424/
+### Pluto Film Boards Ida Star Agata Trzebuchowska’s Horror Feature ‘Sick’ Ahead Of Fantastic Fest Premiere + First Teaser
+Mon, 14 Sep 2026 15:09:56 +0000 — https://deadline.com/2026/09/pluto-ida-agata-trzebuchowska-horror-1237101704/
 
-Steve Ballmer seems to have gotten to the acceptance stage of grief. Less than two weeks after his word vehemently denying the results of a year-long NBA investigation that found the Clippers had circumvented the salary cap and paid superstar Kawhi Leonard millions through no-show deals with sponsors, the team s billionaire owner posted [ ]
+EXCLUSIVE: Pluto Film has boarded sales for Agata Trzebuchowska’s horror feature Sick ahead of its world premiere at Fantastic Fest in Austin in September, which will be followed by its European debut at the Sitges Film Festival. The unsettling film about the horrors of growing up is the feature directorial debut of Polish director, screenwriter [ ]
 
 ## befores & afters
 
-_Nothing in the last 48 hours._
+### VFX supervisor Eran Dinur discusses the big AI and ML changes that have impacted visual effects
+Mon, 14 Sep 2026 11:25:09 +0000 — https://beforesandafters.com/2026/09/14/vfx-supervisor-eran-dinur-discusses-the-big-ai-and-ml-changes-that-have-impacted-visual-effects/
+
+Dinur, who has been teaching courses on ComfyUI and GripTape, talks about the AI and ML landscape VFX artists are facing right now. Today on the befores & afters podcast we’re chatting about AI and machine learning. It’s obviously a hot topic right now in visual effects. I wanted to talk to someone who has been diving into the world of AI and machine in their work that is visual effects supervisor Eran Dinur. He’s also been teaching the latest AI and machine learning techniques, in particular with courses about ComfyUI and about GripTape. In the podcast, we discuss the current landscape for VFX artists in this new AI and ML world. It’s a really honest chat, I think, about the state of play in the industry. Then we dive into the different courses Eran’s been preparing. You can find links to them below, along with Eran s books on VFX. Eran s courses AIF203: Introduction to Griptape Nodes , at fxphd ComfyUI Generative AI Production for VFX – Course Bundle , at fxphd The VFX Supervisor Masterclass , at ActionVFX Academy Eran s books The Filmmaker s Guide to Visual Effects The Complete Guide to Photorealism for Visual Effects, Visualization, and Games Listen in to the podcast, above. The post VFX supervisor Eran Dinur discusses the big AI and ML changes that have impacted visual effects appeared first on befores & afters .
 
 ## IndieWire
+
+### The Last Photograph Review: Zack Snyder’s Shallow Two-Hander Is a Dull, Grotesquely Violent Revenge Thriller
+Mon, 14 Sep 2026 16:26:25 +0000 — https://www.indiewire.com/criticism/movies/the-last-photograph-review-zack-snyder-1235216876/
+
+TIFF: A superficial departure from his grandiose norm, Snyder’s homage to “The Searchers” purports to have morality on its mind, but mostly just wants to get back to killing.
+
+### Idiocracy at 20: How a Failed Comedy Became an Unlikely Metaphor for America
+Mon, 14 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/features/interviews/idiocracy-turns-20-how-failed-comedy-became-metaphor-1235216854/
+
+IndieWire talks to co-writer Etan Cohen, former 20th Century chairman Tom Rothman, and more about how Mike Judge's movie that once had a nonexistent theatrical release became one of the definitive films about the U.S.
+
+### Closing Night Review: Even Sarah Paulson and Naomi Watts Can t Save This Mangled Misfire of a Melodrama
+Mon, 14 Sep 2026 14:38:25 +0000 — https://www.indiewire.com/criticism/movies/closing-night-review-sarah-paulson-naomi-watts-1235216836/
+
+TIFF: Cody Fern's feature directorial debut lured a murderer's row of exceptional acting talents, but its wildly uneven tone and handle on tricky material do none of them any favors.
+
+### Ladies and Gentlemen, Brian Mulroney Review: Matthew Rankin’s Psychedelic Tour Through Mid-Century Canadian Conservative Politics
+Mon, 14 Sep 2026 14:08:13 +0000 — https://www.indiewire.com/criticism/movies/ladies-and-gentlemen-brian-mulroney-movie-review-1235216845/
+
+The story of Brian Mulroney’s political ascent doubles as a critique of televisual culture and a snapshot of a less extreme political era.
+
+### Evil Genius Review: Patricia Arquette and David Harbour Take on a Horrifying True Crime Story
+Mon, 14 Sep 2026 13:30:00 +0000 — https://www.indiewire.com/criticism/movies/evil-genius-review-patricia-arquette-david-harbour-bomber-1235216830/
+
+TIFF: Courteney Cox directs a grating, mean-spirited exercise in punching down based on the notorious 2003 case.
+
+### Minotaur Trailer: Thrilling, Cannes-Winning Russian Noir Updates Unfaithful for Even More Hopeless Times
+Mon, 14 Sep 2026 13:25:24 +0000 — https://www.indiewire.com/news/trailers/minotaur-trailer-zvyagintsev-1235216825/
+
+Andrey Zvyagintsev nearly died in the years between making Oscar nominee "Loveless" and his latest, "Minotaur," due to COVID complications. He's back in full miserable glory.
+
+### Andrew Scott Knew How to Play Hamlet, but Elsinore Required Him to Channel Another Actor
+Mon, 14 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/awards/consider-this/andrew-scott-elsinore-hamlet-ian-charleson-interview-1235216791/
+
+"Elsinore" is wowing audiences and critics on the fall festival circuit, with Scott now in the Best Actor race.
+
+### The Surgeon Review: Michelle Yeoh Doctors a Gang of Mobsters to Death in a Fun Little Action Movie That Gets by on Its Grossness
+Mon, 14 Sep 2026 12:10:31 +0000 — https://www.indiewire.com/criticism/movies/the-surgeon-movie-review-michelle-yeoh-1235216775/
+
+Roshan Sethi M.D.'s second feature is a "Taken" riff that trades guns for scalpels to great effect.
 
 ### The Life and Deaths of Wilson Shedd Review: Amanda Seyfried Falls for a Convicted Killer in Tim Blake Nelson s Sad and Sober Death Penalty Drama
 Mon, 14 Sep 2026 03:30:00 +0000 — https://www.indiewire.com/criticism/movies/the-life-and-deaths-of-wilson-shedd-movie-review-1235216620/
@@ -192,147 +235,107 @@ Mon, 14 Sep 2026 02:00:00 +0000 — https://www.indiewire.com/criticism/shows/la
 
 Hal's recklessness finally catches up to him, John's dubiousness pays hard-won dividends, and one case comes to a definitive, devastating end — leaving three full episodes to address that other investigation.
 
-### How We Stand Review: Amber Midthunder Stars in a Richly Drawn, Magical-Realist Indigenous Tale
-Sun, 13 Sep 2026 20:15:00 +0000 — https://www.indiewire.com/criticism/movies/how-we-stand-review-amber-midthunder-1235216754/
-
-TIFF: Marie Clements' "How We Stand" ambitiously seeks to examine hidden and violent sociopolitical aspects of recent Indigenous history through a deeply personal lens.
-
-### Why Do Men Keep Telling Anna Biller She s Camp ?
-Sun, 13 Sep 2026 19:33:11 +0000 — https://www.indiewire.com/features/interviews/anna-biller-interview-the-face-of-horror-tragedy-camp-1235216707/
-
-TIFF: After nearly quitting filmmaking, "The Love Witch" director returns with "The Face of Horror" — and tells IndieWire why she believes her bloody medieval tragedy is already being misunderstood.
-
-### The Uprising Bombs at Box Office Despite Last-Ditch Scramble to Market Film as Robin Hood Origin Story
-Sun, 13 Sep 2026 19:20:00 +0000 — https://www.indiewire.com/news/box-office/the-uprising-bombs-box-office-robin-hood-marketing-1235216733/
-
-Paul Greengrass's historical epic opens with an anemic $3.25 million, becoming the latest film about the outlaw to fall flat.
-
-### From Tragedy to Everest : Inside Jimmy Chin and Chai Vasarhelyi’s Most Ambitious Film Yet
-Sun, 13 Sep 2026 18:40:02 +0000 — https://www.indiewire.com/awards/consider-this/everest-the-other-side-interview-telluride-jim-morrison-1235216416/
-
-Summiting the North Side of Everest and skiing down was a feat. So was filming it. In the NatGeo documentary "Everest: The Other Side," we not only witness ski-mountaineer Jim Morrison's athletic heroism, but also Jimmy Chin's filmmaking prowess. This could be an Oscar contender.
-
-### I Play Rocky Review: Sylvester Stallone s Wild Hollywood Underdog Story Gets a Punchy Crowdpleaser
-Sun, 13 Sep 2026 18:30:04 +0000 — https://www.indiewire.com/criticism/movies/i-play-rocky-review-sylvester-stallone-1235216617/
-
-TIFF: Peter Farrelly continues his reign of making audience-delighting hits for the TIFF crowd, but this one pulls its punches a bit.
-
-### Mr. Irrelevant Trailer: David Corenswet Toughs and Smiles His Way to the NFL as Last Draft Pick John Tuggle
-Sun, 13 Sep 2026 17:25:54 +0000 — https://www.indiewire.com/news/trailers/mr-irrelevant-trailer-david-corenswet-john-tuggle-1235216155/
-
-Jonathan Levine directs the inspiring sports story that opens in theaters from Paramount and Skydance Sports on Christmas Day.
-
-### Practical Magic 2, the Sequel to a 28-Year-Old Box Office Bomb, Opens to Lackluster $30 Million
-Sun, 13 Sep 2026 16:01:49 +0000 — https://www.indiewire.com/news/box-office/practical-magic-2-box-office-bomb-sandra-bullock-nicole-kidman-1235216664/
-
-Hey Hollywood, stop giving us sequels we didn't ask for to movies that opened way too long ago for us to care.
-
-### How Susanna White Brought Lauded One-Woman Play Prima Facie to the Big Screen (Casting Cynthia Erivo Helped)
-Sun, 13 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/features/interviews/prima-facie-movie-adaptation-susanna-white-cynthia-erivo-1235216255/
-
-TIFF: The director tells IndieWire that turning the celebrated one-woman play into a feature film with multiple locations, characters, and some extremely demanding scenes was exactly the kind of challenge she loves. Plus: a major star.
-
 ## The Wrap
 
-### ‘The Life and Deaths of Wilson Shedd’ Review: Amanda Seyfried and Scoot McNairy Are Wrenching in Bold Drama
-Mon, 14 Sep 2026 04:40:46 +0000 — https://www.thewrap.com/creative-content/movies/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried/
+### Bob Mackie, Legendary Fashion Designer for Cher and Elton John, Dies at 87
+Mon, 14 Sep 2026 16:24:28 +0000 — https://www.thewrap.com/culture-lifestyle/culture/bob-mackie-dies-obit/
 
-At one point in the film “The Life and Deaths of Wilson Shedd,” a prison official played by Tim Blake Nelson sighs and says, “I will never understand people.” But Nelson is also the writer and director of “Wilson Shedd,” a dark and probing drama that you might consider an attempt to understand people, or at least the stories they tell. A bold indie production that draws from the real-life case that also inspired the 2018 miniseries “Escape at Dannemora,” the film from veteran character actor, playwright and novelist Nelson scrambles chronology, pulls Ernest Hemingway, Flannery O’Connor and even Emily Dickinson into a prison setting, invites the audience to sympathize with its central characters and then forces viewers to come to terms with the people to whom they re giving that sympathy. Watching it can be a troubling experience, and by the end a grueling one; it is also richly rewarding drama that doesn’t let anybody off the hook, characters or viewers. And if that sounds a little forbidding, it is also a showcase for two gripping performances, one from Scoot McNairy as a convict and one from Amanda Seyfried as a teacher, trapped in an abusive marriage, who takes a job teaching creative writing to inmates. The linear version of the story is that Seyfried’s character, Karen, finds something honest and shattering in the stories Wilson Shedd (McNairy) writes in her class, and he likes her because she doesn’t talk down to the convicts like all the other teachers do. The bond tha
+Legendary music and film fashion and costume designer Bob Mackie died Monday at the age of 87. His team confirmed his passing on his official Instagram page. The cause of death is still unconfirmed. It is with a heavy heart that we share the news that Mr. Bob Mackie passed away today, the post announced. He lived his 87 years to the fullest, fulfilling his dream of being a Fashion and Costume Designer, which is all he ever wanted to do. His genius and extraordinary designs will live on forever, continuing to bring beauty into this world. Born in 1939 in Monterey Park, California, Mackie is best known for designing iconic costumes for musical stars like Cher, Elton John, Diana Ross and Barbra Streisand. He was raised throughout most of his youth by his maternal grandparents after his parents divorced when he was just two years old. He eventually began living with his father after he moved to Rosemead, California, where he attended Rosemead High School. Mackie left Chouinard Art Institute early after he was hired to sketch for Frank Thompson at Paramount Studios. He spent part of the early 1960s working at the studio as an assistant designer under Ray Aghayan. More to come The post Bob Mackie, Legendary Fashion Designer for Cher and Elton John, Dies at 87 appeared first on TheWrap .
 
-### 60 Minutes Changed Its Look, Not Its Formula Analysis
-Mon, 14 Sep 2026 02:00:26 +0000 — https://www.thewrap.com/media-platforms/journalism/60-minutes-season-59-episode-1-review-analysis/
+### New York Times Comms Chief Danielle Rhoades Ha Leaves for Emerson Collective
+Mon, 14 Sep 2026 16:18:20 +0000 — https://www.thewrap.com/media-platforms/journalism/danielle-rhoades-ha-exits-new-york-times-emerson-collective/
 
-For months, the loudest “60 Minutes” story unfolded outside the broadcast. Sunday night, it spoke for itself. The Season 59 premiere was more evolution than revolution. CBS News editor in chief Bari Weiss and executive producer Nick Bilton refreshed the packaging without dismantling the formula. But its access-driven opener showed why independence questions persist. The 7:50 p.m. broadcast, delayed on the East and Central timezones by CBS’ NFL coverage, opened with its hardest test: Norah O’Donnell’s reconstruction of two U.S. Air Force officers’ rescue after their F-15E was shot down over Iran. Defense Secretary Pete Hegseth tells 60 Minutes that news of a U.S. fighter jet being shot down over Iran woke him in the middle of the night. His first thought: “S***.” pic.twitter.com/8Dt1iqZ91G &mdash; 60 Minutes (@60Minutes) September 13, 2026 Pilot “Alpha” was rescued within six hours. Weapons systems officer “Bravo” landed five miles away with a damaged parachute and broken bones. “It was the most terrifying thing I’ve ever seen,” Bravo said of looking up and seeing no parachute. He nevertheless climbed toward a 7,000-foot ridgeline as Iranian forces searched for him. Newly declassified footage showed his extraction. Interviews with Defense Secretary Pete Hegseth and commanders supplied remarkable access — and the hour’s largest complication. CNN’s Zachary Cohen reported Saturday that Pentagon political appointees had pushed both crew members to participate. Bravo agreed; Alpha 
+Danielle Rhoades Ha, a longtime New York Times communications executive and prominent figure in media public relations, is leaving the company to join Laurene Powell Jobs’ Emerson Collective. Details of her new title, responsibilities and start date were not immediately available. Brian Stelter first reported the move Monday in CNN’s Reliable Sources newsletter , with the Times subsequently confirming Rhoades Ha’s departure to TheWrap. The move places a veteran spokesperson for one of the country’s most powerful news organizations inside Powell Jobs’ influential media, investment and philanthropic operation. Emerson Collective is the majority owner of The Atlantic and has backed several media and technology companies. Rhoades Ha served as a senior vice president of communications at the Times. She was promoted in 2022 to lead its external communications, managing teams responsible for corporate, newsroom and issues communications. During more than 15 years at the Times, Rhoades Ha became one of the newspaper’s principal public representatives, regularly responding to criticism of its journalism, legal threats and attacks from political figures. She also helped shape the company’s messaging as the Times expanded beyond its core news product and grew its digital subscriber business. Her departure follows a broader change in the Times’ communications leadership. In May, the company hired Katie Hill as senior vice president and global head of communications and external affairs ,
 
-### Lanterns Burns It All Down: Episode 5 Director Explains John Stewart s Shocking Decision
-Mon, 14 Sep 2026 02:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/lanterns-episode-5-is-john-stewart-still-green-lantern-director-interview/
+### ‘Darlene Love: I Know Where I’ve Been’ Review: Classic Singer Gets a Movie Where She s Not in the Background
+Mon, 14 Sep 2026 16:17:00 +0000 — https://www.thewrap.com/creative-content/movies/darlene-love-documentary-review-barry-avrich/
 
-Note: This story contains spoilers from Lanterns Episode 5. Lanterns burned it all down in Episode 5, and there are still three hours left on the HBO show s clock. Sunday s installment brought Hal (Kyle Chandler) and John s (Aaron Pierre) 2016 investigation into the Manhunter s dealings in Rushville to an explosive head – all while things reached a point of no return for the Green Lantern and his trainee. Hal abandoned John to take on Zoe/Manhunter (Poorna Jagannathan) and Macon (Garrett Dillahunt) himself, all while Antaan (Paul Ben-Victor) arrived in town to throw a wrench in everything. Episode 5 director Geeta Vasant Patel told TheWrap that the fun from being a semi-finale where there s a lot of doors closed, and then a lot of doors opened was in finding the character moments in the chaos, as Rushville was turned into a smoking ruin. The marching orders are always to make sure that amid the action, there are emotional arcs happening, Patel said. The action is a given. However, to create action that really is no different than a dramatic scene is always a challenge in these situations when there is so much physicality, and there are explosions and things like that. So my marching order was to execute character, and on some level, character is fate in this episode. She added: It s tricky when you have so much happening. I think it s also tricky because you can t just stop and have a deep conversation about how someone s feeling. Episode 5 is a litmus test of all the episode
+To some music fans, one of the curious things about the Oscar-winning documentary “20 Feet From Stardom” was the decision to include Darlene Love in that film about background singers. Love, after all, was the lead singer on classic hits like “He’s a Rebel,” “A Fine, Fine Boy,” “He’s Sure the Boy I Love” and many others – she didn’t get the credit she deserved but she was one of the great lead singers in rock and soul history, so what was she doing in a doc about background vocalists? One answer to that question is that because she didn’t get credit, Love had to support herself singing backup for years. But the question has also become moot, because Love now has her own movie that puts her front and center: “Darlene Love: I Know Where I’ve Been,” which had its world premiere on Monday at the Toronto Film Festival. With Barry Avrich’s documentary assembled from the usual parts – testimonials from admirers, new talking-head interviews, archival footage and some new performance – the power of the film lies not in how it was made or what it does, but in who it’s about. Love is a magnificent singer who has a hell of a story to tell, and whose performance is riveting whether it comes from “Shindig!” in the 1960s, David Letterman’s show in the ’90s or filmed segments from the Power Station recording studio more recently. And if you need more than that, you’ve come to the wrong movie. Love is a force of nature, but one whose force was suppressed for much of her life. Her parents were
 
-### Léa Seydoux Was Worried She Wasn’t Going to Get Hired for ‘Gentle Monster’
-Mon, 14 Sep 2026 01:14:08 +0000 — https://www.thewrap.com/creative-content/movies/gentle-monster-lea-seydoux-interview-tiff-2026/
+### How ‘Tangles’ Paid Tribute to Cast and Crew Members Who Have Been Impacted by Alzheimer’s
+Mon, 14 Sep 2026 16:04:47 +0000 — https://www.thewrap.com/creative-content/movies/tangles-sarah-leavitt-leah-nelson-interview-tiff-2026/
 
-There are few actresses as fearless as Léa Seydoux. She anchored controversial 2017 Cannes-winner “Blue Is the Warmest Color,” appeared in David Cronenberg’s abrasive “Crimes of the Future” and popped in for a pair of Wes Anderson wonders (“The Grand Budapest Hotel” and “The French Dispatch”), while also co-starring in giant Hollywood blockbusters – a “Dune” movie (“Dune: Part Two”), two 007 movies (“Spectre” and “No Time to Die”) and “Mission: Impossible – Ghost Protocol.” At this year’s Toronto Film Festival she stars in “Gentle Monster,” a hot-button drama that premiered at this year’s Cannes Film Festival and will be on Netflix later this year. In the film, Seydoux plays an experimental musician married to filmmaker (Laurence Rupp), who, following a psychological episode, relocates from Munich to the countryside. “But their bucolic idyll collapses when a sex crimes unit, led by officer Else Kühn (Jella Haase), arrives to seize the family’s digital devices — and to arrest Philip. As the case against him becomes increasingly difficult to deny, her attention shifts to her son Johnny — and the terrifying possibility that he might be involved,” reads the official TIFF program. Seydoux told Jada Yuan at TheWrap’s studio at the 2026 Toronto International Film Festival that she was actually worried she might not get the role – not because she was anxious about the subject matter but because she had trouble scheduling a meeting with her writer-director Marie Kreutzer. “I was like,
+“Tangles” is one of the best movies – animated or otherwise – of 2026. The animated feature, based on Sarah Leavitt’s “Tangles: A Story About Alzheimer s, My Mother and Me” and directed by Leah Nelson, premiered earlier this year at the Cannes Film Festival, where it received a lengthy standing ovation. It later played at the Annecy International Animation Film Festival, where it was just as warmly received. Now it’s at the Toronto International Film Festival, where it is likely to garner a similar response – crying, mostly, but also laughing. (IFC picked up “Tangles” ahead of TIFF and will have it ready for an awards-qualifying run later this year.) The story follows a woman who returns to her hometown to care for her mother, whose Alzheimer s disease begins to worsen. Leavitt told Jada Yuan at TheWrap’s studio at the 2026 Toronto International Film Festival that the movie had been in development since 2013, just three years after the graphic novel was published. “I think a couple other people had approached my agent about film rights. But then, you know, I met Leah, and then we were working together and on a different project, and I just absolutely trusted her vision,” said Leavitt. “I still have this memory of sitting in a restaurant with our producer, waiting for Leah, and seeing her walk towards the restaurant. It was a meet cute.” Nelson said that by 2020 the script had gotten to a good enough place where they could reach out to Abbi Jacobson, who plays Sarah in the mov
 
-### Onwards and Sideways Review: Laura Linney and Rhys Ifans Are Devastatingly Great in Parkinson s Disease Tearjerker
-Mon, 14 Sep 2026 00:52:51 +0000 — https://www.thewrap.com/creative-content/movies/onwards-and-sideways-review-laura-linney-rhys-ifans/
+### Byron Allen s Local Now Adds 111 Gray Media Stations Exclusive
+Mon, 14 Sep 2026 16:00:00 +0000 — https://www.thewrap.com/media-platforms/streaming/byron-allen-local-now-gray-media-fast-channel-partnership/
 
-Anyone who has ever been afflicted with, or known a loved one afflicted with, a life-altering disease knows the pain of unexpected illnesses. It s often a loss of hope compounded with severe depression, medication side effects, and a dismissal of one s humanity. Parkinson s Disease can be debilitating, and when someone is diagnosed with the disease, it can be shocking, and it can change one s perspective on life. That is the case for widower Tony (Rhys Ifans) and single mother Emma (Laura Linney) in director John Madden s newest film about health and companionship, Onwards and Sideways. World premiering at the Toronto International Film Festival Sunday, the movie explores Tony and Emma s intertwining lives as they both learn they have Parkinson s at the same doctor s office. They confide in each other about their surprise and dismay while waiting in an office filled with pamphlets and little hope. Initially strangers, the two find that knowing they each have five good years left can change the course of how they live their lives. Composer Emma joins a ballet group designed to help Parkinson s patients cope with movement issues, giving her a sense of community with others in the same situation. Tony, an elementary school teacher, chooses to ignore his diagnosis, takes the required medication, but doesn t listen to his doctors, Emma, or his adult son about exercising or taking care of himself. Fearing he will lose his beloved job, Tony continues with his days acting like everyt
+Byron Allen s Local Now has added 111 free, ad-supported streaming channels to its lineup that will carry coverage from Gray Media s local stations across the U.S., TheWrap can reveal exclusively. The partnership solidifies the FAST service s position as the largest source of free local news and television coverage in the United States, with nearly 600 channels nationwide. Local Now, which has a presence in all 210 markets across the country, offers localized news, weather, sports, traffic, and entertainment, customized seamlessly by a user s device geolocation. It has 223 proprietary channels and 370 standalone local news channels from a network of 28 traditional broadcast television groups. “Our partnership with Gray Media ensures our viewers can stay connected to real-time news, weather, and sports that matter most to them wherever they may be, Local Now Chairman and CEO Byron Allen said in a statement. Between our broadcast partner network and our proprietary hyper-local technology, Local Now remains committed to delivering premium, trusted local journalism to every community in America, entirely for free.” The new partnership comes after Gray Media acquired 10 local stations from AMG for $171 million last year. It also comes after Allen acquired a majority stake in BuzzFeed back in March. At the time, he told TheWrap in an interview that he planned to bring BuzzFeed and Huffington Post to living rooms through a free “super app,” which would combine the brands with LocalN
 
-### ‘Carrie’ Creator Mike Flanagan Also Wasn’t Sure About the Streaming Series
-Mon, 14 Sep 2026 00:16:33 +0000 — https://www.thewrap.com/creative-content/tv-shows/carrie-mike-flanagan-asked-stephen-king-approval/
+### Netflix and Sega Join Forces for New Sonic Series, Crazy Taxi Movie and More
+Mon, 14 Sep 2026 15:45:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/netflix-sega-partnership-sonic-crazy-taxi-movie/
 
-“Carrie” is coming back. A new adaptation of Stephen King’s novel is set to premiere next month on Prime Video. But those at the Toronto International Film Festival got a blood-curdling preview, when the first two episodes of the series, created by Mike Flanagan, were screened for audiences. This isn’t the first time the novel has been adapted, of course. Brian De Palma’s brilliant 1976 movie was not only a watershed horror movie but helped catapult King to the mainstream. The original was given a long-in-the-tooth sequel in 1999 as “The Rage: Carrie 2,” and the novel was adapted as a standalone feature twice more – in 2002 as a TV movie written by future “Hannibal” creator Bryan Fuller and in 2013 as a theatrical feature by Kimberly Pierce. There was also an ill-fated Broadway musical that debuted in 1988 and was revived off-Broadway in 2012. Flanagan told Jada Yuan at TheWrap’s TIFF studio that he too was unsure about yet another adaptation of King’s novel. (Flanagan had previously adapted King in the features “Gerald’s Game,” “Doctor Sleep” and “The Life of Chuck.”) The director said that Amazon was keen on doing something with the property once they obtained the MGM library. “It was something they wanted to do very much,” Flanagan said. When Flanagan moved his overall deal from Netflix to Amazon, it was the first project the streamer brought to Flanagan. “My first reaction, I think, was the same as most everybody else, which was, why ? It s been done beautifully by De Pal
+Crazy Taxi, the beloved racing franchise about getting your passengers to their destination no matter the cost, is coming to Netflix . The title is getting a film adaptation as part of a new collaboration between the streamer and the video game company Sega. The partnership also includes adaptations of Sonic and Stranger Than Heaven, an upcoming action-adventure game that s a prequel in the Like a Dragon franchise. The slate of projects between Netflix and Sega will span genres, styles and formats, ranging from live action comedy and kids animation to live-action crime. Sonic the Hedghog will get a new preschool animated series from Carlos Stevens and Toru Nakahara, which will present Sonic and his friends as heroes for an upper pre-school audience — a high-voltage, comedic, yet emotionally grounded series built for kids who want to feel a little edge, a little attitude, and a lot of that’s my crew wish fulfillment. The new Sonic series is separate from Sonic Prime, which ran from 2022 to 2024 and spanned three seasons. As for the Crazy Taxi movie, that feature adaptation will be written by Dan Gregor and Doug Mand, the duo behind the critically-acclaimed 2025 reboot of The Naked Gun. Neal H. Moritz, Toby Ascher and Toru Nakahara, the producers behind the Sonic film series, are also producers on the project. Stranger Than Heaven is also being produced by Nakahara. Great games already have what every adaptation is chasing — characters people love, worlds they know by heart and
 
-### ‘Prima Facie’ Review: Cynthia Erivo Leads a Complex, Fascinating Adaptation of the Powerful One-Woman Show
-Sun, 13 Sep 2026 23:35:00 +0000 — https://www.thewrap.com/creative-content/movies/prima-facie-review-cynthia-erivo/
+### Diane Morgan s Cunk on Cinema Follow-Up to Feature Michael Bay, Benedict Cumberbatch
+Mon, 14 Sep 2026 15:29:09 +0000 — https://www.thewrap.com/culture-lifestyle/culture/diane-morgan-philomena-cunk-on-cinema-guest-stars/
 
-When James Hilton’s 1941 novel “Random Harvest” came to the big screen, just one year later, it was not the same. “Random Harvest,” the novel, concludes with a revelation that two characters — one the protagonist knew before he lost his memory, another he met only afterwards — had been the same person all along. The shocking twist was possible in prose, where the audience couldn’t see the person’s face and could share, in an oblique way, the hero’s obliviousness. But when “Random Harvest” became a movie, starring Ronald Colman and Greer Garson, there was no hiding it. The whole film had to be dramatically restructured around the audience seeing and knowing what the protagonist doesn’t. It was different, but it still mostly worked. Mostly. Suzie Miller’s 2019 one-woman play “Prima Facie” also makes a complicated transition to the silver screen. There aren’t any last-minute revelations to ruin, but the medium of live theater and the specific, powerful choice to frame the story from the protagonist’s perspective, with no other context, amplified the theatrical production’s vital message about believing victims of sexual assault even when there’s no other evidence. Now it’s on the big screen, where the immediacy and dynamism and fragility of its purely subjective framework has been altered, because as soon as other actors enter the scene, the story plays more like objective truth. “Prima Facie” may still be told from the protagonist’s perspective but now there are witnesses — you
+British comedian Diane Morgan is returning as mockumentarian Philomena Cunk and this time, she is turning her attention to the silver screen. On Monday, the BBC unveiled the first look at Morgan and Charlie Brooker s latest faux documentary, Cunk on Cinema. Touted as Cunk s most glamorous series to date, the new three-part doc will follow Morgan s obtuse interviewer as she investigates global culture s love affair with movies by speaking with a wide array of contemporary filmmaking voices. Among the Hollywood figures featured in Cunk on Cinema are Michael Bay ( Transformers ), Benedict Cumberbatch ( Doctor Strange ), composer Daniel Pemberton ( Project Hail Mary ), Die Hard screenwriter Steven E. de Souza, cinematographer Seamus McGarvey ( Atonement ), film critic Mark Kermode and former Academy president David Rubin. Morgan s conversations with her interviewees will reportedly cover everything from the invention of the camera to the French New Wave and a look toward how AI and CGI may continue to upset the filmmaking landscape in the future. Morgan and Brooker lead the Cunk on Cinema writing team, which also includes Ben Caudell, Erika Ehler, Eli Goldstone, Jason Hazeley, Dan Maier, Joel Morris, Michael Odewale, Kali Varghese and Sam Ward. Al Campbell ( Cunk on Life ) directs. Cunk on Cinema will mark Morgan s first reprisal of her most famous role since the 2024 one-off Cunk on Life. That special saw Morgan take on life s most profound questions, including the circumstances
 
-### Closing Night Review: A Ferocious Sarah Paulson Buoys Cody Fern s Directorial Debut
-Sun, 13 Sep 2026 22:51:20 +0000 — https://www.thewrap.com/creative-content/movies/closing-night-review-sarah-paulson-cody-fern/
+### Comcast, Paramount Exploring Strategic Options for SkyShowtime
+Mon, 14 Sep 2026 15:27:00 +0000 — https://www.thewrap.com/industry-news/business/comcast-paramount-skyshowtime-joint-venture-strategic-review/
 
-Director Cody Fern’s “Closing Night” offers up a foursome of powerhouse performances from its central actors, but does not know what to do with them — other than make them go to war. It’s a film that acts as a strong showcase for its actors to let loose, and once the finer points of this story lock into place, where it’s going won’t be a surprise to anyone. This “it’s about the journey not the destination” approach would work fine if said journey crescendoed more naturally rather than hobbled towards predictability. Then again, if you are to witness people crashing out, you won’t find a better coterie than the group Fern has assembled here, who all play fluctuating types of open wounds. The film’s inciting action takes place when renowned movie star Sandra Vale (Sarah Paulson) sends invitations to the members of her estranged family to attend the opening night of her Broadway play. When her sister April (Naomi Watts) and mother, Diane (Dianne Wiest), receive the invite, they react as if they’re hearing from the dead. April’s more open to seeing Sandra than their mother, but that’s not saying much. For Theo (Toby Wallace), April’s son, he sees the meet-up as a potential way to finally get to know the aunt that has been kept mysteriously at bay for his whole life. It is serendipitous timing, as he and his partner, Lucy (Odessa A’zion), have found out Lucy is pregnant, and could use the support of a wider family network as they navigate next steps. Is there a difference between 
+Comcast and Paramount are exploring strategic options for their European streaming joint venture SkyShowtime, including a possible winding down of the service. “SkyShowtime operates in one of the most competitive markets in our industry. Despite the excellent work of the team and the strength of what you and the team have built, the landscape continues to evolve rapidly, and remains highly challenging,” the SkyShowtime board wrote in a letter to CEO Monty Sarhan that was shared with staff on Monday. Against that backdrop, SkyShowtime’s shareholders are commencing a review of strategic options for the business, which includes the possibility of a wind down. No decisions have been made, and all options remain under consideration.” The letter emphasized that the update is the beginning of a dialogue, not the end of one” and that the service would continue to operate as normal for customers and partners. At this time, we ask that the team remain focused on bringing our audiences the quality of service and programming you have all expertly delivered over the years, and maintaining momentum of the operating business into 2027, the letter continued. “Where any proposal could affect employees, we will follow the information and consultation processes required in each of our markets. Final decisions will be made after those conversations have taken place.” Representatives for SkyShowtime and Paramount declined to comment. A spokesperson for Comcast did not immediately return TheWrap s
 
-### Israeli Culture Minister Vows to Revoke Citizenship of NAZA Directors After Venice Win
-Sun, 13 Sep 2026 22:30:44 +0000 — https://www.thewrap.com/creative-content/movies/israel-culture-minister-vows-revoke-naza-directors-citizenship/
+### Female Athletes Call Out Sydney Sweeney s Nude Ad: Can t Describe How Infuriated I Feel
+Mon, 14 Sep 2026 15:17:52 +0000 — https://www.thewrap.com/culture-lifestyle/culture/sydney-sweeney-sports-betting-ad-female-athletes-respond-novig/
 
-Israel s Culture Minister Miki Zohar vowed Sunday to act to revoke the Israeli citizenship of filmmakers Yuval Abraham and Rachel Szor. The statement comes after Abraham and Szor s documentary NAZA, which interviews Israel Defense Force soldiers about the ongoing killing of Palestinian civilians in Gaza, won the special jury prize at Venice Film Festival. The win of the vile film NAZA at the Venice Film Festival is shocking, Zohar wrote in a social media post on X. The self-loathing that burns in the creators, who are willing to harm their homeland just to get applause from antisemites around the world, is inconceivable and constitutes a betrayal of the state. This is exactly the reason I led the important reform in cinema so that Israeli citizens will no longer have to pay from their own pockets for the harm to IDF soldiers and the State of Israel. As Minister of Culture, I will act immediately to revoke the Israeli citizenship of these despicable creators for betraying the state, Zohar s statement ends. The post, originally written in Hebrew, has been translated by TheWrap using X s built-in translation tool. NAZA investigates the ongoing Gaza war, taking its title from a military acronym used by the IDF to measure the number of civilians expected to be killed as collateral damage in an airstrike. The feature reunites Israeli filmmakers Abraham and Szor, whose prior doc No Other Land tracked settler violence in the occupied West Bank and won the Oscar for best documentary f
+After days of facing backlash from sports fans for her nearly nude Novig ad, Sydney Sweeney is now facing backlash from proper female athletes, calling on the actress to do better. The ad spot, released last Wednesday, sees Sweeney strip down to virtually nothing, strategically covering herself with various pieces of sports equipment. Novig is a new sports trading and betting app, and in the ad, Sweeney notes that Novig is just sports: “No betting on wars or deaths and no politics,” she says, “just you, your takes and sports.” “I don’t know wtf Sydney Sweeney was doing, but it’s 2026,” British athlete Lucy Davis wrote in a post to Instagram . “Stop sexualizing women in sport.” We’ve got to always think about those young girls, always, she added in the caption. The Novig ad criticism comes after the actress American Eagle jeans ad went viral last year. Many called out the phrasing of Sydney Sweeney has great jeans as a play on genes, and called it a promotion of eugenics. Meanwhile, former Australian swimming champion and four-time Olympic gold medal winner Ariarne Titmus admitted that she “can’t describe how infuriated I feel when I watch this, further calling it a kick in the face to every woman who has dedicated her life to perfecting her craft. “I thought we were genuinely moving past this bulls t, she wrote. What is this teaching the young men and women of today? Sydney Sweeney, do better.” American gymnast Gracie Kramer posted a highlight reel of herself, similar to Davi
 
-### The 3 Best Movies to Watch on Prime Video This Week (Sept. 14 20)
-Sun, 13 Sep 2026 21:30:00 +0000 — https://www.thewrap.com/creative-content/movies/3-best-movies-prime-video-this-week-september-14-20/
+### Trump Says the Only AI Guardrail Needed Is A Strong and Smart President, Belittles Anthropic CEO
+Mon, 14 Sep 2026 14:49:12 +0000 — https://www.thewrap.com/industry-news/tech/ai-slowdown-trump-comments/
 
-Welcome to a new week, folks. What shall we watch on Prime Video for movie night? As always, we ve got some options for you. This week, our list includes two films you probably didn t get to theaters to see, if you ve even heard of them, and one that you definitely did. But with all three, you ll definitely recognize a lot of now-famous faces in them. So, let s get right into it, shall we? Here are the three best movies to watch on Prime Video this week. Damsels in Distress Back before she was directing massive hits like Barbie and Little Women, Greta Gerwig was and still technically is an actress. But, there s probably a decent chance that Damsels in Distress has never cracked your radar, which is a shame. The 2011 film stars Gerwig as Violet, the leader of a trio of girls who set out to change the male-dominated environment of their college campus, and to rescue their fellow students from depression, grunge and low standards of every kind. These girls are definitely arrogant, and know they re better than you, but they have legitimately good intentions (usually). It s kind of an odd duck of a film, and one that might either love or hate, no middle ground. For this writer, it was a fun time! It earnestly satirizes some of the worst people you meet in college, and somehow ends with a musical number featuring Adam Brody. There s also a stray Aubrey Plaza in there, at the peak of her weird girl roles, which always makes things more fun. Best Sellers Where Aubrey Plaza is only a 
+As the AI industry calls for a cooperative slowdown in development to prevent potential disaster, President Donald Trump threw cold water on governmental regulation on Monday morning with a Truth Social post insisting that he alone is the only guardrail needed. “The only control or “guardrails” that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades! The Trump Administration has stopped AI “people” from doing bad, or potentially bad, “things,“ like Dario (Anthropic!), who is now pretending to be a “perfect little angel” – and we will continue to do so! We already have tremendous CRIMINAL and REGULATORY power over these companies! He added: “There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so. Conspiracy Theorists, Treasonists, Traitors, and Leakers, BEWARE! Thank you for your attention to this matter!” If Trump s dig against Modei seems personal, it likely stems from Anthropic s refusal to remove safety restrictions for the Department of Defense, after which Trump ordered the government to phase out use of Anthropic products. Trump s post comes after a weekend of shocking unity among AI leaders. It began with Anthropic CEO Dario Amodei, who said in a nearly 4,000-word essay, “We must slow the pace at which we improve the capabilities of AI models. Progress will still seem fast, and we must m
 
 ## Collider
 
-### Prime Video Officially Revives the Western Quentin Tarantino Calls a Masterpiece
-Mon, 14 Sep 2026 10:00:11 GMT — https://collider.com/the-mercenary-streaming-prime-video-september-2026/
+### ‘Scooby-Doo' Officially Returns in 2027 With Netflix Reboot Update
+Mon, 14 Sep 2026 16:27:13 GMT — https://collider.com/netflix-scooby-doo-series-filming-wrapped-production-update/
 
-If Quentin Tarantino can have a top-five list of Filipino movies, you best be sure that he has a number-one, number-two, and even number-eight favorite spaghetti Western. Tarantino has often described The Good, the Bad and the Ugly as "the best-directed film" of all time. Helmed by Sergio Leone , the film starred Clint Eastwood and was largely responsible for bringing the spaghetti Western sub-genre to audiences across the world. Produced in Italy as an alternative to the more conventional American Westerns, these movies often dealt with political themes and toyed with Western tropes. Despite his love for Leone, however, Tarantino has long been a champion of "the other Sergio," a filmmaker who directed many of Tarantino's favorite spaghetti Westerns.
+Netflix has a penchant for reviving beloved franchises. Recently, the streamer brought the children's novels of Laura Ingalls Wilder back to life, as the new Western series Little House on the Prairie became an instant streaming hit. Not to be confused with the original series that ran between 1974 and 1983, this adaptation of the original novels was a fresh retelling that earned plenty of praise from critics, even being called a "masterpiece" in Maggie Lovitt 's review for Collider.
 
-### Guy Ritchie’s 2-Part Crime Masterpiece Is Officially One of the Biggest Series in the World
-Mon, 14 Sep 2026 09:30:11 GMT — https://collider.com/the-gentlemen-global-streaming-hit-netflix-september-2026/
+### The 8 Best James Ellroy Books, Ranked
+Mon, 14 Sep 2026 16:11:11 GMT — https://collider.com/best-james-ellroy-books-ranked/
 
-Guy Ritchie continues to be an unstoppable force in the streaming game, ahead of the return of his hugely popular Paramount+ hit MobLand . However, the road to Season 2 was anything but smooth, as social media erupted when it was reported that star Tom Hardy had been fired from the show amid off-screen conflicts. Thankfully, all was quickly resolved, and the show even earned a third season , with Hardy's Harry Da Souza returning alongside Pierce Brosnan ( Mamma Mia! ) and Helen Mirren ( Gosford Park ).
+It’s a shame people don’t call works of noir literature "book noir" the way "film noir" is the name of a genre (or movement) when you're talking about movies, but either way, noir books do exist. Plenty of them were adapted into film noir movies, if you're looking at the golden age of noir fiction, yet sticking to that period a little before – and then around – the middle of the 20th century means missing out on some great neo-noir movies, and also compelling noir books.
 
-### The 15 Best Low Fantasy Movies, Ranked
-Mon, 14 Sep 2026 09:11:11 GMT — https://collider.com/best-low-fantasy-movies-ranked/
+### Anne Hathaway’s Dinosaur Thriller Officially Scores a New Digital Release [Exclusive]
+Mon, 14 Sep 2026 16:00:12 GMT — https://collider.com/the-end-of-oak-street-behind-the-scenes-clip/
 
-Fantasy has been one of the most beloved movie genres ever since its inception. Ever since the work of artists like Georges Méliès , lauded as the father of fantasy cinema, the genre has seen great development over the decades. With its use of complex magic systems, mythical creatures, and inventive magical concepts, fantasy can delight and shock, bringing audiences to new worlds and drawing powerful parallels to the real one.
+Forget Jurassic World : This summer's wildest prehistoric adventure is The End of Oak Street , a new action thriller that sees a quiet suburban street transported back in time to when dinosaurs ruled the Earth. Now, after its theatrical run, the newest film from David Robert Mitchell ( It Follows ) is rampaging on to home video. Collider is proud to exclusively present a preview clip from The End of Oak Street 's digital release, which is now available on all major video on demand platforms.
 
-### ‘John Wick’ Meets ‘Jason Bourne’ in Jon Bernthal’s Spy Smash Officially on Prime Video
-Mon, 14 Sep 2026 09:00:11 GMT — https://collider.com/jon-bernthal-the-amateur-streaming-prime-video-september-2026/
+### Ben Affleck and Matt Damon Officially Return to ‘Millionaire’ With Supersized Episodes [Exclusive]
+Mon, 14 Sep 2026 16:00:12 GMT — https://collider.com/ben-affleck-matt-damon-who-wants-to-be-a-millionaire-episodes-release-date/
 
-2026 has been the year of Jon Bernthal so far, and he’s done way more than just add over $3 billion to his career box office total thanks to his roles in The Odyssey and Spider-Man: Brand New Day . Bernthal also took his talents to big TV shows like His & Hers (co-starring Tessa Thompson ) and The Bear (co-starring Ebon Moss-Bachrach ), but he didn’t return as Punisher in the second season of Daredevil: Born Again . However, that may be because he was too busy starring in his first solo MCU Punisher project, The Punisher: One Last Kill . Rumors indicate that Marvel is interested in bringing back Bernthal for more Punisher projects, which isn’t all that surprising after the overwhelmingly positive response to his role in Spider-Man: Brand New Day . Only time will tell how he’ll be used, though.
+Ben Affleck and Matt Damon have spent decades proving that friendship can survive almost anything, including Hollywood, the Oscars, and one seriously lopsided collection of Jimmy Kimmel jokes. Now, the longtime best friends are returning to one of television’s most intimidating hot seats , although they will not be sitting in it together. Both stars have previously competed on Who Wants to Be a Millionaire? , putting their celebrity status to good use while attempting to raise money for charity. Their respective appearances also delivered something especially rare for the game show : not one, but two trips to its top prize. Soon, viewers will be able to watch those victories unfold with even more footage than ABC originally aired.
 
-### The 8 Most Fun Shows of the 1990s, Ranked
-Mon, 14 Sep 2026 03:55:11 GMT — https://collider.com/most-fun-shows-1990s-ranked/
+### 'Breaking Bad' Meets 'Sex Education' in Netflix's 12-Part Comedy
+Mon, 14 Sep 2026 15:47:11 GMT — https://collider.com/breaking-bad-sex-education-replacement-series-feel-good/
 
-The nineties didn't have streaming, so if you wanted to watch your favorite show, you had to actually be home at eight o'clock on a Thursday or you just missed it, no rewatching until reruns came around months later. That kind of pressure made a hit show feel like an actual event every single week.
+Starring comedian Mae Martin playing a version of themself, Feel Good is the funniest, most heartfelt show streaming on Netflix , and it's only 12 episodes long. Uptight formerly-straight woman, George (played by Charlotte Ritchie of Call the Midwife ) falls hard for Mae Martin, who is recovering from a cocaine addiction. Martin's writing paints a witty, poignant portrait of addiction that somehow manages to be laugh-out-loud hilarious. The show tracks the development of Mae and George's relationship, finding the comedy in situations like coming out to homophobic loved ones, learning how to love without codependency, and reckoning with a difficult past. There's also a particularly gut-busting scene featuring a horny Alien reference (no spoilers—it's too good). Funnier than Friends or The Office , its runtime is under five hours, making Feel Good the best bang-for-your-buck comedy on streaming .
 
-### This 13-Episode ‘Harry Potter’ Replacement Series Was Cancelled for the Worst Reason
-Mon, 14 Sep 2026 03:32:11 GMT — https://collider.com/harry-potter-replacement-series-tower-prep-cancelled-too-many-female-viewers/
+### Prime Video's 'Reacher' Kicks Off a Whole New Era This Week
+Mon, 14 Sep 2026 15:27:11 GMT — https://collider.com/reacher-season-4-finale-neagley-premiere-prime-video/
 
-Sometimes, shows are canceled for the most absurd reasons and at the most heartbreaking times, leaving fans crusading for their renewal or stuck with unexplained cliffhangers. While some cancellations make sense, whether because of low viewership, high costs, or unexpected circumstances, one of the most jarring reasons a show was reportedly brought to the guillotine happened in 2010 with a live-action Cartoon Network series. With its mysterious boarding school, gifted young students, hidden rules, and an institution that clearly knows more than it lets on, Tower Prep had all the makings of a darker, more conspiratorial Harry Potter -style adventure.
+Reacher Season 4 is set to reach an explosive conclusion this week with the finale, "Cut," debuting on September 16. The premiere not only marks the end of an era, but the beginning of a new one for the globally successful franchise , as that same day features the premiere of Neagley , the Reacher franchise's first-ever spin-off — a bold swing that could potentially strike out or hit big.
 
-### 7 Fantasy Books About Dragons That Are 10/10, No Notes
-Mon, 14 Sep 2026 03:22:11 GMT — https://collider.com/fantasy-books-dragons-perfect-no-notes/
+### After 12 Years, Chris Rock Returns to Directing, With Disappointing Results | TIFF Review
+Mon, 14 Sep 2026 15:01:13 GMT — https://collider.com/misty-green-review-chris-rock-adam-driver/
 
-If there's one thing fantasy fans can't seem to get enough of, it's dragons. You know, large flying, fire-breathing lizards? They've been a staple of the fantasy genre for decades , if not centuries, as they stem from mythology. Many cultures all across the world feature some variation of dragons in their folklore, probably because they inspire such a sense of wonder and majesty.
+Nobody likes watching a movie about Hollywood quite as much as Hollywood does. At this year's Toronto International Film Festival alone, there have been several films about the industry and filmmaking — and Misty Green is one of them. Directed by comedian/actor Chris Rock , in his first time helming a feature since 2014's Top Five , the film follows the titular Misty Green ( Rosalind Eleazar ), an actress fading from the limelight and doing anything she can to keep her career going. Though it's marketed as a satire and a comedy, the film never quite lands the way that Rock intends. While Eleazar shines in the leading role, Misty Green is a messy, disjointed, and bloated story that long overstays its welcome .
 
-### ‘The Walking Dead: Dead City’ Star Confirms That Maggie and Negan’s Dynamic Will Shift in a Possible Season 4
-Mon, 14 Sep 2026 02:30:11 GMT — https://collider.com/the-walking-dead-dead-city-season-3-finale-maggie-negan-lauren-cohan/
+### Dustin Hoffman and Leo Woodall's Top-Rated Crime Thriller Officially Sets Streaming Debut
+Mon, 14 Sep 2026 15:00:11 GMT — https://collider.com/tuner-streaming-release-date-paramount-plus-september-2026/
 
-Editor's note: The following contains major spoilers for The Walking Dead: Dead City Season 3.
+Right now is a great time to hoard Leo Woodall stock, and not just because he recently starred in one of the most underrated Apple TV spy thrillers, Prime Target . Woodall has been tapped to star as an Elf named Halvard in The Lord of the Rings: The Hunt for Gollum , which is opening in theaters on December 17, 2027. He was originally rumored to be in the running to replace Viggo Mortensen as Aragorn, but that role went to Jamie Dornan . Woodall also recently teamed up with Russell Crowe for one of the most underrated WWII movies of the last few years, Nuremberg , which is now streaming on Netflix after grossing almost $75 million at the global box office. Another of his recent movies with an Oscar-winner that flew under the radar earlier this year is soon to seek redemption on one of the biggest streaming platforms in the world.
 
-### Netflix's New WWII Thriller Officially Sets 2026 Release Date
-Mon, 14 Sep 2026 02:15:11 GMT — https://collider.com/the-mosquito-bowl-netflix-japan-war-thriller-october-30-release-date/
+### 'Saw' Meets 'Buried' in 'Inglourious Basterds' Star's Tense New Survival Thriller Officially Releasing This Week [Exclusive]
+Mon, 14 Sep 2026 15:00:11 GMT — https://collider.com/the-barrel-trailer-release-date-september-18/
 
-Netflix has an impressive roster of films being submitted for an Academy Award this year. The streamer, known for releasing movies on its platform, is giving some films a theatrical release to make them eligible for an Oscar. Netflix has gone around the world in its search for heavyweights that can compete with traditional studios or other streaming services. Additionally, the streaming service will now begin reporting box office performances for movies released in theaters. One of them is a war thriller that has secured a limited release beginning next month.
+While most survival thrillers tell the stories of individuals battling the elements under dire circumstances , some of the best and most unnerving in the genre are manmade horrors. Buried , for instance, trapped Ryan Reynolds in a coffin with only a phone and a few rudimentary items to work with while rescuers raced to free him from terrorists, while Paul Greengrass ' Captain Phillips created similar life-or-death tension with Tom Hanks ' titular skipper as he navigated a hostage situation with Somali Pirates. In his return to the big screen, after Guy Ritchie 's The Ministry of Ungentlemanly Warfare in 2024, Til Schweiger is now taking part in a nightmare of a new film that will test the power of faith, forgiveness, and familial bonds under nightmarish circumstances. Better yet, it's just around the corner.
 
-### ‘The Walking Dead: Dead City’ Showrunner Officially Reveals Bold Plans for Season 4 and Maggie and Negan’s Future
-Mon, 14 Sep 2026 02:15:11 GMT — https://collider.com/the-walking-dead-dead-city-season-3-finale-season4-tease-showrunner/
+### New Horror Movie From the Writers of ‘Hellraiser’ Officially Brings a 'Weapons' Star Back [Exclusive]
+Mon, 14 Sep 2026 15:00:11 GMT — https://collider.com/weapons-star-luke-speakman-the-heretiks-fantastic-fest-first-look/
 
-Editor's note: The following contains major spoilers for The Walking Dead: Dead City Season 3.
+One of the most exciting, inventive horror hits of the past decade is Zach Cregger 's sensational Weapons . This chilling, unpredictable horror effort is quietly skin-crawling in moments and loudly terrifying in others. The highlight of the film for many is Amy Madigan 's standout performance as Aunt Gladys, a role for which she earned an unlikely Best Supporting Actress Oscar at this year's 98th Academy Awards.
 
