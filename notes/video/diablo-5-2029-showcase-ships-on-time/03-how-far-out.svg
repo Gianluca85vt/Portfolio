@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/><stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <text x="120" y="150" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="600" letter-spacing="10" fill="#B600A8">HOW FAR OUT, IN MONTHS</text>
+  <text x="120" y="286" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">Diablo 5 → spring 2029</text>
+  <rect x="120" y="300" width="951.6279069767442" height="46" rx="4" fill="rgba(244,241,246,0.22)"/>
+  <text x="1097.6279069767443" y="336" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="rgba(244,241,246,0.45)">~31 months</text>
+  <text x="120" y="436" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">StarCraft → 2030</text>
+  <rect x="120" y="450" width="1320" height="46" rx="4" fill="rgba(244,241,246,0.22)"/>
+  <text x="1466" y="486" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="rgba(244,241,246,0.45)">~43 months</text>
+  <text x="120" y="586" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">The Last Titan → announced Nov 2023</text>
+  <rect x="120" y="600" width="1043.720930232558" height="46" rx="4" fill="url(#accent)"/>
+  <text x="1189.720930232558" y="636" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="#F4F1F6">34 months, no date</text>
+  <text x="120" y="790" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" fill="rgba(244,241,246,0.45)">The Worldsoul Saga was announced as a trilogy at BlizzCon 2023. The third part still has no window.</text>
+</svg>

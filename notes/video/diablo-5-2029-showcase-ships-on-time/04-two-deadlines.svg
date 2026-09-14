@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/><stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <text x="120" y="150" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="600" letter-spacing="10" fill="#B600A8">WHICH ONE CAN BE LATE</text>
+  <text x="120" y="228" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="800" letter-spacing="6" fill="#F4F1F6">THE GAME</text>
+  <text x="1040" y="228" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="800" letter-spacing="6" fill="#BE4C00">THE SHOWCASE</text>
+  <line x1="980" y1="184" x2="980" y2="712" stroke="rgba(244,241,246,0.2)" stroke-width="2"/>
+  <text x="120" y="320" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">Ships when the third prototype works</text>
+  <text x="1040" y="320" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">Saturday at six</text>
+  <text x="120" y="428" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">QA, certification, years of support</text>
+  <text x="1040" y="428" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">No engine, no QA pass</text>
+  <text x="120" y="536" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">A melted window frame ships forever</text>
+  <text x="1040" y="536" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">A melted window frame breaks nothing</text>
+  <text x="120" y="644" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">The date fills a silence</text>
+  <text x="1040" y="644" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">The date is real</text>
+  <text x="120" y="802" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="600" fill="#B600A8">Which is why an experiment lands in a sizzle reel before it lands in a level.</text>
+</svg>

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "who-i-am",
+    "kind": "lower",
+    "name": "Gianluca Scattarella",
+    "role": "3D Environment & Technical Artist",
+    "handle": "gianlucascattarella.it — Backdrop, every Monday"
+  },
+  {
+    "id": "the-slate",
+    "kind": "beats",
+    "title": "BlizzCon 2026, in order of distance",
+    "items": [
+      "Warcraft 3 now",
+      "WoW Forever Nov",
+      "Diablo 5 · 2029",
+      "StarCraft · 2030"
+    ],
+    "note": "Two of these you can play this year. Two are three and four years out."
+  },
+  {
+    "id": "how-far-out",
+    "kind": "bars",
+    "title": "How far out, in months",
+    "rows": [
+      { "label": "Diablo 5 → spring 2029", "value": 31, "display": "~31 months" },
+      { "label": "StarCraft → 2030", "value": 43, "display": "~43 months" },
+      { "label": "The Last Titan → announced Nov 2023", "value": 34, "display": "34 months, no date" }
+    ],
+    "note": "The Worldsoul Saga was announced as a trilogy at BlizzCon 2023. The third part still has no window."
+  },
+  {
+    "id": "two-deadlines",
+    "kind": "compare",
+    "title": "Which one can be late",
+    "left": "The game",
+    "right": "The showcase",
+    "rows": [
+      ["Ships when the third prototype works", "Saturday at six"],
+      ["QA, certification, years of support", "No engine, no QA pass"],
+      ["A melted window frame ships forever", "A melted window frame breaks nothing"],
+      ["The date fills a silence", "The date is real"]
+    ],
+    "note": "Which is why an experiment lands in a sizzle reel before it lands in a level."
+  },
+  {
+    "id": "polyarc",
+    "kind": "beats",
+    "title": "Polyarc, 11 September",
+    "items": [
+      "12 years",
+      "2 Moss games",
+      "200k wishlists",
+      "29 people out"
+    ],
+    "note": "The studio's last act was publishing every name and portfolio link so somebody else would hire them."
+  },
+  {
+    "id": "the-meeting",
+    "kind": "timeline",
+    "title": "Where a trailer lands, four years later",
+    "stages": [
+      "Trailer",
+      "Green light",
+      "Blockout",
+      "Asset pass",
+      "Lighting",
+      "Memory budget",
+      "Cut it back"
+    ],
+    "markAt": 6,
+    "markLabel": "Why not the trailer?",
+    "note": "The trailer is still on YouTube with four million views. The density in it was never costed."
+  },
+  {
+    "id": "the-line",
+    "kind": "statement",
+    "text": "Confidence is the only thing in this industry still shipping on schedule.",
+    "attribution": "Architectures of the Void — the Monday editorial"
+  },
+  {
+    "id": "outro",
+    "kind": "statement",
+    "text": "Corrections are supposed to move money towards the things that work.",
+    "attribution": "New editorial every Monday · gianlucascattarella.it"
+  }
+]
