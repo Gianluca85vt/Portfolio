@@ -3,7 +3,7 @@ title: "Zerply closes 28 September: export by the 21st"
 date: 2026-09-14
 category: 3D
 excerpt: Zerply shuts down on 28 September after sixteen years. Export requests close on the 21st, and no one site replaces what it did for VFX credits.
-cover: /img/blog/zerply-closing-export-your-work/cover.svg
+cover: /img/blog/zerply-closing-export-your-work/shot-01.jpg
 draft: true
 ---
 
@@ -27,6 +27,11 @@ make it work. That's the whole story." Sixteen years of Zerply, twelve of them
 serving high-end VFX and animation.
 
 ## What a VFX profile has to carry, and why that is awkward
+
+<figure>
+  <img src="/img/blog/zerply-closing-export-your-work/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Big Buck Bunny, Blender Institute / Blender Foundation, Creative Commons, via Wikimedia Commons</figcaption>
+</figure>
 
 Losing this one stings in a way that losing a general portfolio host would not.
 If you are a concept artist or an environment artist, your work is a
