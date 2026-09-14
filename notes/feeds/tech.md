@@ -1,11 +1,31 @@
-# Tech — harvested 2026-09-14T16:33:35.975Z
+# Tech — harvested 2026-09-14T20:34:03.369Z
 
 ## Ars Technica
+
+### Prehistoric builders transported Devil's Arrows 11 miles
+Mon, 14 Sep 2026 17:10:54 +0000 — https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/
+
+Stonehenge is the most famous example of megalithic architecture across Britain and Ireland, but there are plenty of others, including Calanais, Newgrange, and Avebury, as well as the Devil's Arrows. The latter is Britain's tallest standing stone alignment, yet little is known about the provenance of its stones. Scientists have confirmed that the stones came from a site 18 kilometers (11 miles) away, transported by humans rather than glacial movement, according to a paper published in the Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. "Sites in southern England and Scotland receive considerable attention but monuments like the Devil's Arrows have remained comparatively understudied despite their significance," said co-author Jim Leary of the University of York. "We have now proved that Neolithic communities moved several 25-ton stones across Yorkshire, transforming a familiar site into an epic quest to create a sacred landscape." Stonehenge has been the focus of recent chemical analyses identifying where all the stones that make up the structure came from, revealing that many originated in quarries a significant distance away. For instance, a 2019 study concluded that the 42 bluestones that make up the inner ring came all the way from western Wales. The outer layer of sarsen stones hails from much closer to home: Marlborough Downs, an area of round, grassy hills 25 to 30 km (17 miles) north of Stonehenge, which has the largest concentrati
+
+### Steam Frame: The Ars Technica review
+Mon, 14 Sep 2026 17:00:07 +0000 — https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/
+
+In the 2010s, Valve was at the forefront of a virtual reality revolution that looked to some like it would upend the gaming industry. The Valve of six to ten years ago seemed committed to being a major player in the world of PC-connected VR headsets, first through its “strategic partnership” with HTC on the impressive-for-the-time Vive headset (plus the SteamVR platform standard that powered it) and then years later with its own Index headset (and proof-of-concept adventure Half-Life: Alyx ). Then came the Meta (previously Oculus) Quest , a low-powered, low-cost headset that proved the vast majority of VR-curious gamers didn’t want to bother with being literally tethered to a bulky, expensive gaming PC. As the Quest line carved out a modest niche through the 2020s, Valve seemed more or less satisfied to let its earlier VR hardware and software ambitions wither on the vine. Those years of Valve’s benign neglect of VR make the imminent release of the $1,049 Steam Frame—which starts taking reservations today—more than a little surprising. Now that virtual reality’s hype-fueled, revolutionary promises have decidedly not played out , Valve is somehow ready and willing to limp headfirst into the world of standalone VR headsets—today, in 2026. And after spending a week or so with Valve’s latest foray into gaming hardware, the Frame somehow feels simultaneously overengineered and underbaked, depending on how you look at it. Read full article Comments ]]>
+
+### "Offensively cheap": Solar power is looking up
+Mon, 14 Sep 2026 16:29:18 +0000 — https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/
+
+In the badlands of Chakwal, in north-central Pakistan, Bestway Cement is transforming plots of dry earth and olive and peach groves into a forest of solar panels. Its efforts will add 6.34 megawatts of generation capacity by the end of the year, the company says, in addition to the 26 MW of photovoltaic cells currently in place. Already, solar generates over a quarter of the electricity powering its cement plant. “It’s the only way we can compete,” says Abdul Waheed, the general manager at Chakwal, which produces over 3 million tonnes of cement per year. “Our rivals have already gone in this direction.” Read full article Comments ]]>
+
+### New corners, new lights for 2028 Volvo XC40
+Mon, 14 Sep 2026 15:46:06 +0000 — https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/
+
+Volvo provided flights from Washington, DC, to London, England, and accommodation so Ars could see its refreshed vehicles. Ars does not accept paid editorial content. Most cars get a midlife facelift about four years after first hitting the streets. It’s a chance for automakers to update the styling and introduce new features and engineering changes that are usually minor but can be quite dramatic—the Polestar 2 swapping from front- to rear-wheel drive comes readily to mind. I can’t think of too many cars that have gone on to have a second update, but here’s one: the 2028 Volvo XC40. First debuting in 2017, Volvo gave the XC40 a tweak for model year 2023. Rather than launch an all-new version, it has decided to give the popular crossover another update for MY28 with the aim of keeping things fresh. “By enhancing the XC40’s design, technology, and safety features, we've created the best version of the XC40 yet,” said Akhil Krishnan, interim lead for the 30 and 40 Series at Volvo Cars. “This already-popular model is now set to continue being one of our best-selling cars for years to come.” The most obvious changes are the new front and rear lights. Up front we still see the distinctive “Thor’s Hammer” daylight running light signature, but the new matrix LED light clusters appear more minimalist, hiding their details from view. The rear similarly gets new LEDs. But Volvo’s designers have been at work elsewhere, shaving away the corners of the car to make what was already a small
 
 ### F1 in Madrid: Like Monaco but twice as long and none of the glamour
 Mon, 14 Sep 2026 14:32:35 +0000 — https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/
 
-It’s been quite the couple of weeks for Formula 1. First, its annual visit to one of the oldest tracks on the calendar, the Italian temple of speed that is Monza, just outside Milan. Apologies for no Ars report, but your correspondent was on the ground, on vacation, learning the hard way that attempts to call the circuit “accessible by public transport” can still involve walking several miles. The place was packed with Tifosi—the hardcore Italian superfans—dressed in red, who had their hopes dashed almost immediately as Charles Leclerc first ruined his teammate’s race, then his own, all within the first two laps. Salvation came in the form of the first Italian title contender in my lifetime, Mercedes’ Kimi Antonelli. Opting to take a new engine and other power unit components meant Antonelli would start the race from 19th. But the kid is in fine form right now, and Monza’s long straights and slow corners make for several good overtaking spots. I declared to my race companions that morning that “he’s going to podium, easily,” but if anything, I was too cautious. By the time Leclerc’s heavy crash at Parabolica had stopped the race, Antonelli was already up to 12th. From the second standing start, on fresh medium tires and still needing a second pitstop, he made short work of the rest of the grid, including his teammate George Russell, who spent much of the race in the lead, on a theoretically faster one-stop strategy. Even a mistake from Antonelli that saw him make an excursion
+It’s been quite a couple of weeks for Formula 1. First, its annual visit to one of the oldest tracks on the calendar, the Italian temple of speed that is Monza, just outside Milan. Apologies for no Ars report, but your correspondent was on the ground, on vacation, learning the hard way that attempts to call the circuit “accessible by public transport” can still involve walking several miles. The place was packed with Tifosi—the hardcore Italian superfans—dressed in red, who had their hopes dashed almost immediately as Charles Leclerc first ruined his teammate’s race, then his own, all within the first two laps. Salvation came in the form of the first Italian title contender in my lifetime, Mercedes’ Kimi Antonelli. Opting to take a new engine and other power unit components meant Antonelli would start the race from 19th. But the kid is in fine form right now, and Monza’s long straights and slow corners make for several good overtaking spots. I declared to my race companions that morning that “he’s going to podium, easily,” but if anything, I was too cautious. By the time Leclerc’s heavy crash at Parabolica had stopped the race, Antonelli was already up to 12th. From the second standing start, on fresh medium tires and still needing a second pitstop, he made short work of the rest of the grid, including his teammate George Russell, who spent much of the race in the lead, on a theoretically faster one-stop strategy. Even a mistake from Antonelli that saw him make an excursion t
 
 ### Unvaccinated Pennsylvania woman died of measles complications, coroner says
 Sun, 13 Sep 2026 21:56:52 +0000 — https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/
@@ -19,57 +39,87 @@ There is something wrong with the tractor. The water-in-fuel sensor, a small dev
 
 ## The Verge
 
-### Volkswagen’s slippery new EV breaks a bunch of efficiency records
-2026-09-14T11:12:09-04:00 — https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record
+### Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world
+2026-09-14T16:03:37-04:00 — https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit
 
-No, that's not a Tesla Cybercab. That's Volkswagen's Mission Efficiency , the world's slipperiest electric vehicle. The near-production 2+2 seat electric coupe prototype was built on VW's MEB+ platform, incorporating front-wheel drive components from the upcoming ID. Polo and ID. Cross models. True to its name, the mission of Mission Efficiency is to break records. With a drag coefficient of a scant 0.158, the prototype claims to be the world's most aerodynamic road-approved vehicle. It also claims to have broken the record for energy efficiency, consuming 6.48kWh of energy per 100 kilometers during a constant-speed (68 km/h) test-drive on f … Read the full story at The Verge. ]]>
+NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his take on recent fears about AI development, which he called a "hoax," and told the crowd that "the robots will not be taking over." It's already a frothy week for AI news. The call with the president followed Anthropic CEO Dario Amodei's long essay published this weekend titled "We Must Pace the Frontier" where he argued for slowing … Read the full story at The Verge. ]]>
 
-### Google’s Pixel 11 is cheaper ahead of iPhone 18 Pro launch
-2026-09-14T11:10:27-04:00 — https://www.theverge.com/gadgets/994737/google-pixel-11-pro-10a-amazon-fire-tv-cube-game-deal-sale
+### Valve s virtual reality plans hit actual reality
+2026-09-14T15:48:06-04:00 — https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact
 
-Apple’s iPhone 18 Pro will release this Friday, September 18th, and it’s tough to see it as just a coincidence that Google’s latest Pixel phones are discounted. The Pixel 11 Pro carries the biggest discount, with its fog, olive, and obsidian color schemes selling for around $1,007 at Amazon , almost negating this year’s $100 price increase for the starter configuration despite having twice the storage (256GB). The standard Pixel 11 is cheaper, too, selling for about $840 at Amazon , $60 off its starting price. It’s nice to see the price come down, making it a little less pricey to get access to Google’s Pixel 11-exclusive features, including Camera Looks and Magic Capture. This model has the same processor and amount of RAM as the cheapest Pixel 11 Pro (the cameras are the biggest difference). The price drops continue all the way to the bottom of Google’s current Pixel series, the Pixel 10A . Originally $499 for the phone with the Pixel 9’s Tensor G4 processor, it’s back down to $424 at Amazon and Best Buy . We see this price return from time to time, and it’s worth considering whether you need an upgrade from an older A-series phone, or if you’re considering leaving the flagship phone lifestyle behind to save some money. Google Pixel 11 Pro Where to Buy: $1099 $1007 at Amazon $1099 at Google $1099 at Best Buy Google Pixel 11 Where to Buy: $899 $839 at Amazon $899 at Google Store $899 at Best Buy Google Pixel 10A Where to Buy: $499 $424 at Amazon (128GB) $499 $424 at Best Buy
+The Steam Frame headset is here , and it may not surprise you: it was supposed to cost less than $1,059 . "We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the same way they've impacted everybody," Valve developer Jeremy Selan told the BBC . "We fought hard to get it even to this price." I haven't yet seen Valve say whether it's selling the Steam Frame at cost, like the company confirmed it was doing with the $1,049 Steam Machine living room PC. But Valve developer Pierre-Loup Griffais hinted maybe so in an interview with Tom's Hardware : "there' … Read the full story at The Verge. ]]>
 
-### Adam Conover explains how YouTube ruined everything
-2026-09-14T11:00:00-04:00 — https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai
+### The best deals from Nintendo’s ‘customer appreciation’ sale
+2026-09-14T15:30:58-04:00 — https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale
 
-Today, I’m joined by comedian, podcast host, and YouTuber Adam Conover. Adam is a familiar face to anyone who’s spent time on the internet. He got his start, like so many successful comedy writers, at CollegeHumor back in the day. That was before transitioning into cable TV with Adam Ruins Everything , then onto Netflix, and all the way back to YouTube again, where he posts videos and hosts a podcast called Factually! That is exactly the kind of career path that fascinates me, and it also happens to touch on basically every major Decoder theme there is. You’ll hear upfront that Adam does not in fact like the word “creator” — he’s got a unique perspective on it that speaks to how he sees tech platforms and their leverage. Verge subscribers, don t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . We get deep into what Adam thinks really happened to the TV business — that Hollywood ceded whole categories of TV programming to YouTube in the chase to become Netflix and HBO. Adam also pushes back on the idea that any of this was democratizing — YouTube, he argues, is in fact a worse gatekeeper than the networks, because you can’t actually argue or negotiate with a recommendation algorithm. I think you re really going to enjoy this conversation, I know I did. Remember to please subscribe to our YouTube channel for new episodes every Monday and Thursday. Okay: comedian Adam Conover on YouTube, gatek
+Super Mario Odyssey is among the discounted games. | Image: Nintendo As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon , Best Buy , and Walmart , as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the US government, and it ends on September 26th at 8:59 PM PT. Nintendo games and accessories tend to stick close to their list price, so it’s nice to have some big discounts, especially this far ahead of the holiday season. Some of the company’s best titles for the original Switch are significantly marked down, with a few Switch 2 titles thrown in, too. The most notable inclusions include the Mario Kart 8 Deluxe digital bundle with the Booster Course pass for just under $60 ( Amazon , Nintendo ), The Legend of Zelda: Tears of the Kingdom for $49 ( Amazon , Nintendo , Best Buy ), and Animal Crossing: New Horizons with the DLC for $60 ( Nintendo ). The Switch 2 Editions aren’t currently discounted, but upgrade packs are fairly affordable, costing $9.99 for the Tears of the Kingdom ( Amazon ) or $4.99 for Animal Crossing: New Horizons ( Amazon ). We’ve gathered some more of our favorite picks down below, and Nintendo has a dedicated page for all of the discounts . The Legend of Zelda: Tears of the Kingdom (Physical) Tears of the Kingdom is the latest mainline installment in the Zelda franchise. The storyline and gameplay are similar to Breath of the Wild ’
 
-### The four-hour-long Elon Musk documentary might be preaching to the choir
-2026-09-14T09:50:00-04:00 — https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026
+### TIFF 2026: The latest movie reviews from Toronto
+2026-09-14T13:30:00-04:00 — https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews
 
-It makes sense that Musk is a long film. The latest from Alex Gibney, who has previously directed documentaries about Theranos and Steve Jobs , is an impressively thorough retelling of the story of Elon Musk, from his early days as a dot-com millionaire to " taking a wood chipper " to vital US government departments. In order to understand Musk's rise to power, you need to know the whole story. Musk tells it compellingly and convincingly, but doesn't offer much in the way of revelations if you're aware of Musk's catastrophic influence on the world. For everyone else, a demanding runtime just shy of four hours might prove too much of a barrier t … Read the full story at The Verge. ]]>
+If you want an idea of what s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be huge hits or awards contenders; the 2025 edition, for instance, included the likes of both Hamnet and Obsession . Covering a sprawling festival like TIFF solo is next to impossible, so I do my best to see as much as I can, and then write about everything with bite-sized reviews published each day. For 2026, that means exciting upcoming films like Your Mother Your Mother Your Mother , The Only Living Pickpocket in New York , and a gigantic Elon Musk documentary, and even a few streaming series, like Crystal Lake and Carrie . You can keep up with my thoughts on everything I watch right here. The four-hour-long Elon Musk documentary might be preaching to the choir Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster Laika’s stop-motion fantasy Wildwood looks so smooth New York City’s last pickpocket doesn’t need a smartphone ]]>
 
-### Microsoft says ‘people matter more than AI’ following safety concerns
-2026-09-14T09:00:00-04:00 — https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct
+### macOS 27 is available now
+2026-09-14T13:10:13-04:00 — https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now
 
-Microsoft is publishing a 37-page " humanist AI code of conduct " today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify and control the actions of AI agents. Microsoft's AI code of conduct makes it clear that "people matter more than AI," and that AI models are not conscious and "should not be designed to imitate consciousness." Microsoft also rejects "the pursuit of legal personhood, or the idea that m … Read the full story at The Verge. ]]>
+Apple released macOS 27 Golden Gate on Monday , which brings the new Siri AI assistant , Liquid Glass improvements, improved performance, and more. The update is compatible with all Macs with Apple Silicon, but not Intel Macs - Apple released its final big update for Intel-based Macs last year with macOS Tahoe . Siri AI is arguably the biggest feature in macOS 27, and it allows you to ask questions, search through things involving your personal context like photos and emails, and take actions in apps such as Messages and Reminders. There's a new dedicated Siri app that keeps an archive of your chats for easier reference. However, Siri AI will … Read the full story at The Verge. ]]>
 
-### What happens after a town de-Flocks
-2026-09-14T07:00:00-04:00 — https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy
+### Apple releases iOS 27 with Siri AI overhaul
+2026-09-14T13:08:49-04:00 — https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update
 
-Demonstrators hold a banner against Flock security cameras during a protest outside the G20 Innovation Ministerial in Chapel Hill, North Carolina, US, on Wednesday, Sept. 2, 2026. Photographer: Cornell Watson/Bloomberg via Getty Images | Bloomberg via Getty Images From Florida to Washington state , local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn't necessarily mean the cameras will come down immediately - or that the information they've gathered will be deleted anytime soon. Even as state and local governments decide to rein in their surveillance capabilities, uncertainty remains about what Flock can and will do with data that has already been collected. Each jurisdiction's contract is different, but many of them let Flock retain data long af … Read the full story at The Verge. ]]>
+The iOS 27 update arrives just in time for the iPhone 18 Pro release. | Photo by Allison Johnson / The Verge Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates, the delayed AI-powered overhaul of the Siri assistant. Siri AI is available as a beta today for English-only devices, and Apple says support for French, Japanese, Korean, Portuguese, and Spanish is coming in October. Siri AI isn't the only big feature in iOS 27 , though. Apple is adding a new Liquid Glass opacity slider that lets you pick between a clearer UI or a more frosty one. A lot of built-in apps are also getting new icon designs, with subtle twea … Read the full story at The Verge. ]]>
 
-### Trump and Mike Johnson think the AI industry is overreacting
-2026-09-13T15:41:48-04:00 — https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting
+### The Steam Frame is made for irresponsible hardware nerds like me
+2026-09-14T13:00:00-04:00 — https://www.theverge.com/tech/994267/steam-frame-review
 
-Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to "pace the frontier" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According to the Financial Times , Trump said "Look, we're leading China in AI … and, frankly, I want to keep it that way, because whoever wins AI, wins." Jo … Read the full story at The Verge. ]]>
+For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as much as similar-looking headsets from Meta. You should not write it off that way. The Steam Frame isn't just a VR headset. It's not even primarily a VR headset. And it's the most comfortable headset I've ever worn. It weighs just over 1 pound (469g) with its optional top head strap attached, and doesn't leave a mark on my face even after hours of use. The Steam Fram … Read the full story at The Verge. ]]>
 
-### Apple is reportedly working on iPhone game controllers
-2026-09-13T14:30:16-04:00 — https://www.theverge.com/tech/994426/apple-iphone-game-controllers
+### Valve’s Steam Frame costs $1,059
+2026-09-14T13:00:00-04:00 — https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date
 
-Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party devices. Despite the code being found in macOS, not iOS, Gurman says the controllers are designed for iPhones. Additionally, he says that it is Beats executives leading the charge on this product. Apple sometimes uses its subsidiary brand to experiment with new product categories and compete at … Read the full story at The Verge. ]]>
+Valve is finally releasing its Steam Frame headset , which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will come with a copy of Half-Life: Alyx , Valve's made-for-VR entry in the Half-Life franchise, and Valve has ported the game to run natively on the headset as well as via streaming. Here are the prices for the Frame across several different currencies for the two configurations: Steam Frame 256GB: $1,059 / $1,529 CAD / &euro;1,049 / &pound;889 / $1,609 AUD / 4,539 zlotys Steam Frame 1TB: $1,29 … Read the full story at The Verge. ]]>
 
-### The Units’ Digital Stimulation is synthpunk perfection
-2026-09-13T13:36:10-04:00 — https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review
+### Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame
+2026-09-14T13:00:00-04:00 — https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port
 
-The Units are a band I discovered in part thanks to No Dogs in Space . During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - punk rock and synthesizers . The site was down that day (it appears to be back up now), but I was able to access a version from July through the Wayback Machine. What greeted me was a bare-bones site with links for six bands, including The Screamers. But at the top was The Units, a band I'd never heard of and, after tracking down their 1980 record D … Read the full story at The Verge. ]]>
+Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great . Every Steam Frame comes with a copy of 2020's Half-Life: Alyx , one of the best VR games yet made and a good game, period , and you won't even need a desktop PC - because Valve has ported the entire game to ARM64 so it can run natively on the Frame's Qualcomm Snapdragon Gen 3 chip. That's no mean feat: This was a game that required a VR-ready Windows desktop or laptop with a midrange graphic … Read the full story at The Verge. ]]>
 
-### Waymo pulls over, calls cops on riders with a ghost gun
-2026-09-13T10:28:12-04:00 — https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun
+### I reviewed Valve’s Steam Frame, ask me anything
+2026-09-14T13:00:00-04:00 — https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered
 
-Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating the autonomous car, Waymo later confirmed it was one of its vehicles to the Los Angeles Times . A spokesperson told the LA Times that a "violation of our terms of service involving a firearm" was detected. At which point the car pulled over and alerted the authorities. Earlier this year, a Waymo faked having mechanical problems to pull over when … Read the full story at The Verge. ]]>
+Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame , Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an early glimpse at the future of games that run everywhere . At 4PM ET today (that's 1PM PT for West Coasters like me!), I will answer as many of your questions as humanly possible about this headset, its controllers, its ergonomic accessories kit, and the Arcturus Vision Camera in a subscriber-only AMA. If you want me to test something special for you , get your question in ASAP - I'll see if I can try it between now and then! W … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
+
+### Anthropic says AI can boost U.S. GDP by 32%, up to $44.4 trillion in four years — economics model predicts that displaced employees 'may have to switch to jobs like electrician and nurse'
+Mon, 14 Sep 2026 18:50:36 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-ai-can-boost-u-s-gdp-by-32-percent-up-to-usd44-4-trillion-in-four-years-economics-model-predicts-that-displaced-employees-may-have-to-switch-to-jobs-like-electrician-and-nurse
+
+Last week, Anthropic published its prediction of what the economic impact of AI on the U.S. economy is going to be for the next few years. The company thinks the U.S. can reach a $44.4 trillion GDP or higher by 2030, provided, of course, it conveniently adopts AI at a rapid pace. Having said that, Anthropic admits "the challenge is making sure that the gains are broadly shared." The interactive post has a simulator where readers can plug in their estimates on key factors and get their own future predictions, within the firm's analysis and perspective. That's definitely interesting to play around with, but perhaps the most relevant piece of information is the lens through which Anthropic views the world. Anthropic establishes its reasoning by first placing tasks in broad categories and using a nurse's workday as an example. They removed tasks, including those that will disappear naturally as technology progresses, like collecting data on paper or physically visiting the patient to collect basic vitals — neither happens anymore as remote monitoring becomes commonplace. However, some new tasks are added, like keeping an eye on dashboards for the aforementioned AI-powered monitoring. Then, there are naturally the tasks that a bot can't perform, like bathing a patient. Augmented tasks include those that require a human, but can be made more efficient with AI: helping with triage, planning schedules, and assisting with dashboard data. Some tasks may be fully automated, like keeping
+
+### Nvidia's RTX 5090 vanishes from online retail in the US — third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU
+Mon, 14 Sep 2026 17:41:01 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5090-vanishes-from-online-retail-in-the-us-third-party-sellers-now-demand-as-much-as-usd9-500-for-nvidias-fastest-gpu
+
+Nvidia's fastest gaming graphics card, the RTX 5090, has been on a tear of price increases over the past several weeks. However, over the past week, the available inventory has dwindled. Now, you can only find the RTX 5090 from third-party sellers at online retailers like Newegg and Amazon, commanding anywhere from $6,500 to $9,500 (or even higher) for Team Green's best GPU . Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC At Newegg, the cheapest RTX 5090 is the MSI Ventus 3X that's available from Slava Computers (a relatively new seller with 239 ratings and a 2.8 out of 5 rating at the time of writing) for $6,449. On Amazon, you can get the Asus TUF Gaming OC for $6,395 from Joes Tech Shop, a seller with an 81% positive rating. However, among the most recent reviews are a string of one-star reviews about orders never being fulfilled. The cost goes much higher, as well. The first result for "RTX 5090" on Newegg , for example, surfaces the MSI Ventus 3X OC for $8,699. In June, the median price for an RTX 5090 was $4,299. At the beginning of September, we logged the lowest online price at $5,199 in our GPU price tracker . Now, in less than two weeks, the available stock has completely disappeared online, and the options available fro
+
+### Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs
+Mon, 14 Sep 2026 17:39:09 +0000 — https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs
+
+The GeForce RTX 5090 is undeniably one of the best graphics cards money can buy. Banking on the fact that many already use it for AI, Nvidia has bolstered it with even more memory and launched it as the new RTX 5500 Pro Blackwell Workstation Edition. It offers comparable specifications to the GeForce RTX 5090 but distinguishes itself with 84GB of GDDR7 memory, 2.6X more than the Blackwell gaming flagship. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC The RTX Pro 5500 features the GB202 silicon, the powerhouse die that powers other high-end mainstream and professional Blackwell graphics cards, including the GeForce RTX 5090, RTX Pro 6000 , and RTX Pro 5000 . In fact, the RTX Pro 5500 uses the same die as the GeForce RTX 5090, which means 170 Streaming Multiprocessors (SMs) are enabled out of a possible 192. As a result, the RTX Pro 5500 has 21,760 CUDA cores and offers performance comparable to the GeForce RTX 5090. The differentiator is the memory subsystem, where the RTX Pro 5500 excels. Nvidia equipped the RTX Pro 5500 with 84GB of GDDR7 memory. This is the second time Nvidia has launched a graphics card with 84GB of memory, with the first being the China-exclusive RTX Pro 6000D . The RTX Pro 5500's memory capacity lets the Bla
+
+### Valve engineers discuss the duality of the Steam Frame and pricing — Valve's newest VR headset pivots SteamOS to Arm
+Mon, 14 Sep 2026 17:30:00 +0000 — https://www.tomshardware.com/virtual-reality/valve-engineers-discuss-the-duality-of-the-steam-frame-and-pricing-valves-newest-vr-headset-pivots-steamos-to-arm
+
+I spoke with Valve software developers Pierre-Loup Griffais and Jeff Leinbaugh about the Steam Frame launch, why the company is taking a two-pronged strategy with streaming and standalone support, and how the global memory/storage crunch affected development. You can read our review of the Steam Frame here , and the full transcript of our interview at Tom's Hardware Premium . Nearly a year after first revealing the Steam Frame VR headset, Valve is now ready to deliver the finished product to paying customers. Reservations for the headset have opened today, three months after the launch of the Steam Machine . Like the Steam Machine, the Steam Frame is launching amid absolute chaos in the tech industry. We're seeing higher prices across a wide range of PC hardware, especially memory and storage. Valve isn't operating in a vacuum, so those realities are reflected in the Steam Frame's pricing, which starts at $1,059. I began by asking about the headset's genesis and the team's goals for creating a next-generation VR headset. "Work started on Steam Frame basically as soon as we shipped the Index," explained Leinbaugh. “And so we did a lot of exploration into technologies and features and use cases to try to answer that question. And the goals that we aligned on for what became the Steam Frame was to make [it] much easier to use, which to us meant a lighter, more comfortable, easier to get into and out of VR headset." He added that with the previous Index headset, Valve was so lase
+
+### Valve Steam Frame interview — why it costs up to $1,300, Snapdragon power, and 10x foveated streaming
+Mon, 14 Sep 2026 17:28:23 +0000 — https://www.tomshardware.com/virtual-reality/valve-steam-frame-interview-why-it-costs-up-to-usd1-300-snapdragon-power-and-10x-foveated-streaming
+
+Prior to the official launch of the Steam Frame, Tom's Hardware Premium had a chance to talk with Valve software developers Jeff Leinbaugh and Pierre-Loup Griffais. We discussed the development process behind the Steam Frame, the standalone and streaming modes, networking strategy, and pricing, which you can read in its entirely here. You can read our review of the Steam Frame here. Like previous Valve launches, you can also read transcripts of our interviews with the company on the Steam Machine and Steam Controller . The transcript below has been lightly edited for clarity. Brandon Hill, Tom's Hardware : What were your goals in creating the Steam Frame and providing the framework necessary to support it, compared to legacy hardware like the Index ? Jeff Leinbaugh, Software Developer, Valve : Yeah, so the work started on Steam Frame basically as soon as we shipped the Index. And so we did a lot of exploration into technologies and features and use cases to try to answer that question. And the goals that we aligned on for what became the Steam Frame was to make [it] much easier to use, which to us meant a lighter, more comfortable, easier to get into and out of VR headset. That was a better way to interact with your whole Steam library than the goals we had for the Index. Where the Index was just: we wanted to make the best possible VR headset that we could make. And that came with a lot of compromises, which were worth it because they allowed us to have this really great VR 
+
+### Valve Steam Frame Review: Competent as a standalone VR, but wireless streaming remains the focus
+Mon, 14 Sep 2026 17:00:00 +0000 — https://www.tomshardware.com/virtual-reality/valve-steam-frame-review
+
+Valve has been ramping up its hardware releases during 2026, with the Steam Controller launching this past spring, followed by the Steam Machine earlier this summer. The 2026 hardware onslaught is now culminating in the Steam Frame, the company’s latest headset aimed at VR and non-VR gaming. Rather than being a streaming-only platform, like the preceding Valve Index, the Steam Frame has a powerful onboard Qualcomm Snapdragon 8 Gen 3 and up to 1TB of internal storage to play standalone games without the need for a PC. It’s an ambitious headset, which comes with an equally ambitious $1,000+ price tag. Design and Comfort of the Valve Steam Frame At first glance, the Steam Frame reminds me of oversized ski goggles, compared to the Daft Punk style of the preceding Valve Index headset. The overall design feels very organic, with soft curves and thin plastic to keep weight down. The thinner plastic drastically reduces weight compared to the Index (440 grams with the headstrap versus 809 grams for the Index). Two forward-facing cameras (which provide a monochrome passthrough of your environment) sit near the bottom of the front cover, while two additional cameras sit on the side of the Steam Frame, facing sideways and slightly upward. Together, the four cameras provide headset and controller tracking. The final two cameras are internal for eye-tracking purposes. The main unit also houses a cooling fan that helps remove warm air from the Snapdragon SoC and keeps your head from sweatin
 
 ### Nvidia, Palantir, and others restrict advanced AI model usage over privacy concerns, report claims — 'paranoia' rising over customer intellectual property
 Mon, 14 Sep 2026 15:58:32 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-palantir-and-others-restrict-advanced-ai-model-usage-over-privacy-concerns-report-claims-paranoia-rising-over-customer-intellectual-property
@@ -101,37 +151,22 @@ Mon, 14 Sep 2026 11:17:30 +0000 — https://www.tomshardware.com/3d-printing/met
 
 A software engineer and creative tinkerer has shown off a futuristic Meta Quest plus 3D printer workflow in a video shared on social media. Hank on X demonstrates modeling a 3D object on his computer, which he then picks up and throws to his 3D printing system across the room. “I've never felt more like Tony Stark,” joked the tech enthusiast. I've never felt more like Tony Stark than I do now. Using my Meta Quest, I can just throw 3D models at my 3D printers to have them start printing it😂 pic.twitter.com/xNTe4KAVM2 September 13, 2026 Let’s look more closely at the hardware in use before talking about the integration in play. The demonstration video clearly shows that Hank has a Bambu Lab P2S 3D printer with an AMS 2 multi-material system on top. We reviewed the Bambu Lab P2S with AMS2 last October, and gave it a pretty glowing 4.5/5 review score thanks to lots of features and factors in its favor. Hank has integrated this 3D printer with his Meta Quest 3 headset. We last reviewed one of these HMDs back in December 2024 when we tested the Quest 3S , and it was also a 4.5/5 star winner. So, these two great pieces of hardware don’t usually work together, but that didn’t deter Hank. Not much anyway. Later in the tweet thread, Hank reveals that “The Bambu Lab printers have an API that you can use to control them locally! [So I] Spun up a quick web server on my PC that glued everything together! (Android app -> PC -> 3D printer).” Of course, other Bambu Lab 3D printer users with 
 
-### Save $1,289 when you build an extreme PC with these top-tier components — combo deal features AMD's Ryzen 9 9950X3D2 processor along with an 8TB 9100 Pro SSD, MSI X870E motherboard, and 32GB of DDR5-6000 memory
-Mon, 14 Sep 2026 11:10:03 +0000 — https://www.tomshardware.com/pc-components/save-usd1-289-when-you-build-an-extreme-pc-with-these-top-tier-components-combo-deal-features-amds-ryzen-9-9950x3d2-processor-along-with-an-8tb-9100-pro-ssd-msi-x870e-motherboard-and-32gb-of-ddr5-6000-memory
-
-When money is no object, but you still want to be slightly frugal, combo bundles like today's Newegg offering might pique your interest. Featuring some of the most powerful and extreme consumer PC components on the market, this selection of parts will make for a very powerful gaming machine and an even more powerful productivity workhorse. Right now, you can save $1,289 when you spend $2,999 on an AMD Ryzen 9 9950X3D2 processor along with an 8TB Samsung 9100 Pro SSD, MSI X870E Gaming Plus WiFi motherboard, and 32GB of V-Color Manta XSkyDDR5-6000 memory at Newegg . The normal price for all of these components reaches $4,288, plus Newegg also throws in a free Cooler Master Elite Liquid 240mm AIO CPU cooler, and you get a copy of Capcom's latest Onimusha hit game with the purchase of select AMD products (Ryzen 9 9950X3D2). ● Check out this deal at Newegg This bundle includes most of the components you'll need to build a mightily impressive gaming and productivity PC. You'll still need to source a PC case, power supply, and graphics card to complete the build, though. This Newegg bundle includes AMD's halo processor - the Ryzen 9 9950X3D2 - stacking 3D V-cache on both the CCDs of the processor for some extreme cache memory performance. Ryzen 9 9950X3D2 processor along with an 8TB 9100 Pro SSD, MSI X870E motherboard, and 32GB of DDR5-6000 memory: was $4288.97 now $2999.00 This potent Newegg combo bundle pairs an AMD Ryzen 9 9950X3D2 processor along with an 8TB Samsung 9100 Pro SSD
-
-### Asus ROG Swift PG27UCWM gaming monitor review: Speed and pixel density in a premium package
-Mon, 14 Sep 2026 11:05:00 +0000 — https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg27ucwm-27-inch-4k-oled-gaming-monitor-review
-
-Asus has introduced some of the best OLED gaming monitors in recent years, and with each generation, it makes incremental improvements in performance, features, and technology. Its latest panel type is Tandem RGB Stripe, bringing higher brightness, a wide color gamut, sharper imagery, and lower power consumption. The latest ROG Swift display to hit my test bench is the PG27UCWM. It’s a 27-inch 4K panel with 240 Hz (480 Hz in FHD), HDR10, Dolby Vision, DisplayHDR 400, and Adaptive-Sync . Let’s take a look. Asus ROG Swift PG27UCWM Specs Panel Type / Backlight Tandem RGB Stripe OLED Screen Size / Aspect Ratio 27 inches / 16:9 Max Resolution and Refresh Rate 3840x2160 @ 240 Hz 1920x1080 @ 480 Hz FreeSync and G-Sync Compatible Native Color Depth and Gamut 10-bit / DCI-P3 DisplayHDR 400, HDR10 Dolby Vision Response Time (GTG) 0.03ms Brightness (mfr) 250 nits full screen 1,000 nits 3% window Contrast Unmeasurable Speakers None Video Inputs 1x DisplayPort 2.1 2x HDMI 2.1, 1x USB-C Audio 3.5mm headphone output USB 3.2 1x up, 3x down Power Consumption 48w, brightness @ 200 nits Panel Dimensions WxHxD w/base 23.9 x 17.1-21.5 x 10.1 inches (607 x 434-546 x 257mm) Panel Thickness 2.5 inches (64mm) Bezel Width Top/sides: 0.35 inch (9mm) Bottom: 0.43 inch (11mm) Weight 17.86 pounds (8.1kg) Warranty 3 years I’ve reviewed a few Tandem RGB Stripe OLEDs of late, most recently, Asus’ 32-inch version of this screen, the PG32UCWM. There’s no denying the extra sharpness that this tech brings. Thoug
-
-### Russian freelancers use Claude to program autonomous combat drone swarm — AI-enabled target selection and detonation without a human in the loop
-Mon, 14 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/russian-freelancers-use-claude-to-program-autonomous-combat-drone-swarm-ai-enabled-target-selection-and-detonation-without-a-human-in-the-loop
-
-Hit hard by sanctions and lacking resources, Russia is left to rely on foreign advanced technologies to compensate. Russia-linked agents appear to use Claude for a broad range of activities, from propaganda and espionage to the procurement of military/dual-use equipment and the development of autonomous drone swarms, according to Anthropic's September 2026 threat report . Go deeper with TH Premium: AI shortages (Image credit: Nvidia) AI data centers are swallowing the world's memory and storage supply Demand for data center CPUs has surged, and AI agents are responsible Chip scarcity assaults auto industry amid the worsening Nexperia and DRAM crisis The custom AI ASIC state of play Anthropic identified a small team of Russia-based freelance developers who used Claude to build software for an autonomous combat-drone swarm called DronDoc or Serafim. Claude helped develop swarm coordination, computer vision, terminal guidance, and other software that enabled drones to select targets—including people—and issue detonation commands without a human in the loop. The developers trained their computer-vision system on Ukrainian combat footage and used locations in Ukraine for simulated missions. Meanwhile, they loaded software onto real development boards for hardware-in-the-loop testing, though it is unclear whether they field-tested it. The developers used Claude Code extensively to build and test the swarm software, and they circumvented Anthropic's geographic restrictions by routin
-
-### Maryland data center developers offer residents biggest-ever US community benefits package as big tech seeks to quell fears — $110 million deal includes $30 million elementary school, water reclamation system, and more
-Mon, 14 Sep 2026 10:32:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/maryland-data-center-developers-offer-residents-biggest-ever-us-community-benefits-package-as-big-tech-seeks-to-quell-fears-usd110-million-deal-includes-usd30-million-elementary-school-water-reclamation-system-and-more
-
-Residents of Frederick County, Maryland, could be the beneficiaries of what is purported to be the biggest residential benefits package yet to be offered by data center developers, in a move a new report claims is a sign of a growing trend that Big Tech is trying to get ahead of fears and community pushback surrounding AI infrastructure. The $110 million deal includes new schools, water reclamation, and more, The Information reports . Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible According to the report, the Frederick Digital Campus offering could be a sign that data center developers like Amazon, Microsoft, and Oracle are wising up to growing residential pushback and concerns around the building of large AI data centers in their communities, with developers "sweetening financial offers to municipalities and regulators to gain approval for new facilities" while "getting smarter" about ensuring they shoulder the cost of utilities like electricity. The report says AI builders are turning towards tangible benefits, rather than rhetoric, to get their projects approved. The Maryland site, if approved, woul
-
-### Modders halve FSR 4 render times on AMD’s PS5-derived BC-250 mining APU — portable FidelityFX DLL cuts 1440p upscaling time from 11.51 ms to 5.92 ms
-Mon, 14 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/pc-components/modders-halve-fsr-4-render-times-on-amds-ps5-derived-bc-250-mining-apu-portable-fidelityfx-dll-cuts-1440p-upscaling-time-from-11-51-ms-to-5-92-ms
-
-Modders have slashed the cost of running FSR 4 on AMD’s RDNA 2-powered BC-250 by nearly half, with a new implementation cutting the upscaler’s processing time from 11.51 ms to 5.92 ms at 1440p. Detailed in a VideoCardz post , the latest work builds on the community’s ongoing effort to turn AMD’s unusual PlayStation 5-derived crypto-mining board into a capable Linux gaming machine, while moving the FSR 4 optimizations from a custom Mesa modification into a portable FidelityFX DLL. According to testing shared by the developer, FSR 4.1.1 running at 2560 x 1440 with a 1706 x 960 Quality input required 11.51 ms using the original shaders, compared with 5.92 ms using the latest v4.0.0-rc9 release. At 4K, processing time reportedly dropped from 25.72 ms to 12.08 ms, while 1080p fell from 7.13 ms to 3.93 ms. The developer also reports that the optimized implementation produced byte-identical images to the original shaders in controlled testing, suggesting that the performance improvement comes from executing the same workload more efficiently, and not reducing image quality. The BC-250 is particularly interesting in this context because it is based on much older RDNA 2 graphics hardware. FSR 4 relies heavily on machine-learning workloads and accelerated low-precision integer operations that are far better suited to newer AMD architectures. On the BC-250, those operations have to be handled through alternative instruction paths. Earlier community work tackled the problem in Mesa, opti
-
-### Dumpster diver builds home lab Proxmox server from weekly landfill runs for SSDs, HDDs, GPUs, and even RAM — weekly e-waste raids net multi-drive Proxmox server and Asus ROG laptop
-Mon, 14 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/desktops/pc-building/dumpster-diver-builds-home-lab-proxmox-server-from-weekly-landfill-runs-for-ssds-hdds-gpus-and-even-ram-weekly-e-waste-raids-net-multi-drive-proxmox-server-and-asus-rog-laptop
-
-A tech enthusiast says that they managed to put together a home lab-worthy Proxmox server using PC parts scavenged from the nearby county landfill. Furthermore, Tsuto told fellow Redditors that they now routinely raid the dump’s separate electronics recycling area once a week. We can’t blame them; their gallery of liberated hardware includes plenty of valuable trinkets like SSDs, HDDs, GPUs, even RAM, complete laptops, and more. The county landfill has a separate bin for electronics and I’ve taken to raiding it once a week to scavenge for parts for my labs. from r/homelab ‘It’s wild what people throw away these days,’ says the successful tech scavenger. Tsuto seems to admit that many of the bits and pieces are “on the older end,” but even folks paying cold, hard cash at retail in 2026 are competing for components like RTX 3060 s, AM4 motherboards/CPUs, and DDR4 . That’s how hard the components shortage is hitting folks. Tsuto also seems rather pleased with an Asus ROG laptop found at the landfill site. “The Asus ROG laptop just needed a $25 battery off Amazon and still has decent enough specs for casual gaming for my son,” they comment. Pixel peeping Tsuto’s gallery indicates that this portable gaming laptop packs an Intel Core i7-4710HQ (4C/8T) supported by 16GB of RAM, and allied with a GeForce GTX 860M 2GB GPU. It will be playing less demanding titles such as Stumble Guys, we see. In a follow-up post, the Redditor explains that one of their home lab projects that has been 
-
 ## Phoronix
+
+### AMD Preparing Linux For Enhanced SMT Protection "ESMTP" For EPYC VMs
+Mon, 14 Sep 2026 14:03:38 -0400 — https://www.phoronix.com/news/AMD-Enhanced-SMT-Protection
+
+AMD engineers today sent out patches on the Linux kernel mailing list for beginning to enable Enhanced SMT Protection "ESMTP" for better security with virtual machines running atop EPYC server processors with SEV-SNP...
+
+### GNU Coreutils 9.12 Released With Performance Optimizations, New uname Option
+Mon, 14 Sep 2026 13:45:05 -0400 — https://www.phoronix.com/news/GNU-Coreutils-9.12
+
+GNU Coreutils 9.12 released today with a mix of fixes, some new options, and various performance improvements to these widely-used set of core system utilities...
+
+### Valve s Steam Frame Now Available At $1059+ USD
+Mon, 14 Sep 2026 13:05:37 -0400 — https://www.phoronix.com/news/Valve-Steam-Frame-1059
+
+Valve just announced their long-awaited Steam Frame headset is now available...
 
 ### Rustls 0.23.45 Released To Fix Two Year Old Security Issue
 Mon, 14 Sep 2026 11:35:11 -0400 — https://www.phoronix.com/news/Rustls-0.23.45-Released
@@ -178,22 +213,22 @@ Sun, 13 Sep 2026 07:03:26 -0400 — https://www.phoronix.com/news/BFS-Filesystem
 
 The latest upstream file-system to be removed from the mainline Linux kernel is... BFS...
 
-### ARCTIC s Fan Controller Driver For Linux Being Dual-Licensed With BSD-2-Clause
-Sun, 13 Sep 2026 06:54:44 -0400 — https://www.phoronix.com/news/ARCTIC-Fan-Controller-BSD
-
-Earlier this year ARCTIC published a fan controller driver for Linux. Besides being rare for an enthusiast-oriented company to publish a Linux driver themselves where typically it's left up to the open-source community for driver support for such peripherals, it was all the more interesting as they published the Linux driver and got it mainlined before the product was even released. In the end the ARCTIC Fan Controller is the best desktop fan controller for Linux and less than $10 USD. That open-source driver is now being dual-licensed to help with in bringing it to more operating systems...
-
-### GNOME Shotwell 33 Photo Manager Released With GTK4 Port
-Sun, 13 Sep 2026 06:40:50 -0400 — https://www.phoronix.com/news/GNOME-Shotwell-33
-
-It's been quite some time since hearing any news out of the Shotwell photo manager project for GNOME, but out today is Shotwell 33 with the long-awaited GTK4 port...
-
-### EROFS Disables LZ4 Rolling Decompression Due To Data Corruption Possibility
-Sat, 12 Sep 2026 20:33:00 -0400 — https://www.phoronix.com/news/EROFS-Disabled-LZ4-Rolling
-
-The EROFS read-only file-system popular for embedded systems, containers, and other use-cases has resorted to temporarily disabling its LZ4 rolling decompression support due to data corruption concerns...
-
 ## The Register
+
+### Datacenter developers want your backyard. FAS says negotiate harder
+Mon, 14 Sep 2026 19:26:00 +0200 — https://www.theregister.com/on-prem/2026/09/14/datacenter-developers-want-your-backyard-fas-says-negotiate-harder/5296308
+
+Local authorities across the US often lack the negotiating power and know-how to work effectively with developers proposing new datacenters in their communities. The Federation of American Scientists (FAS) is trying to fill that gap by arming officials with the right questions to ask and the bargaining tools to use. The AI industry has triggered a surge in server farms construction, leaving many local governments to negotiate with developers over massive new facilities, often for the first time. To help, FAS has put together a report combining an overview of what local governments are already doing with a look at Community Benefits Agreements (CBA) between authorities and developers. The document, Before Breaking Ground: A Local Government Guide to Better Data Center Policy and Community Benefits, can be downloaded from the nonprofit think tank’s website. One key recommendation is that state and local governments should not allow for tax exemptions or provide economic incentives to datacenter operators without the provision of opening these up for negotiation beyond five years. This is because the property value of the site may increase substantially while the authority ends up out of pocket, as The Register has previously reported. Some states are losing more than $1 billion per year in tax abatementsand rebates offered as incentives to developers. CBAs have been used in numerous contexts to ensure local community groups obtain the benefit of the bargain when negotiating wit
+
+### Ex-FTC boss Khan urges Uncle Sam to break out the handcuffs for AI CEOs, citing 1934 precedent
+Mon, 14 Sep 2026 18:59:24 +0200 — https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325
+
+Former FTC chair Lina Khan wants the federal government to know that it doesn't need to wait for new laws to address AI threats. There are already laws and regulations on the books, including a 92-year-old Supreme Court precedent, that she argues could be used to hold AI companies and, in some circumstances, their executives accountable for their actions. Khan’s comments on X Sunday follow a flurry of activity from the leadership of OpenAI, Anthropic, Microsoft, and xAI aimed at doing what can only be described as trying to corner regulators into giving them their way. The former Biden administration trust buster pointed to numerous examples of current laws, and prior precedent, that could be used to hold frontier labs to account, even if they’re currently doing all in their power to change the conversation. “We shouldn’t let discussions about new legal regimes distract from the fact that there’s no AI exemption from laws already on the books,” Khan said. “Law enforcers already have authority to charge companies and their CEOs for creating and releasing dangerous, unvetted, or defective products.” As one example, Khan points to laws governing dangerous and defective products as an avenue to prosecute AI leaders. She notes that the release of unvetted models or agents can violate consumer protection laws, and that shipping tools “without implementing adequate measures to detect and stop rogue or defective AI agents” could be prosecuted under rules governing unfair and deceptiv
+
+### Ubuntu Noble's likely last point release lands, then loses its desktop download
+Mon, 14 Sep 2026 18:45:00 +0200 — https://www.theregister.com/os-platforms/2026/09/14/ubuntu-nobles-likely-last-point-release-lands-then-loses-its-desktop-download/5296292
+
+Ubuntu 24.04's likely final scheduled point release barely made it out the door before an installer bug sent its x86-64 desktop image back to the workshop. Meanwhile, October's interim release is approaching. 24.04.5 was released on September 10, but its x86-64 desktop installation image was withdrawn after a bug caused the installer to crash when users selected the extended installation option. Other images and official flavors are unaffected. For the time being, if you try to download the graphical desktop version, the "Noble Numbat" download page is serving the 24.04.4 ISO image instead. The other versions on that page – Server, WSL2 image, and the Netboot version – are not affected. The issue only affects fresh installations: if you already have 24.04 installed, a full system update will result in 24.04.5 in the usual way. Version 24.04.5 is very likely to be the last point release of the 2024 Ubuntu LTS. Ubuntu 26.04 is the latest LTS release, but 24.04 remains supported. As we reported when Resolute Raccoon launched in April, it uses Linux kernel 7.0, and that means that a new install of 24.04.5 comes with kernel 7.0 as well. This is part of Canonical's system of LTS Enablement stacks, also called Hardware Enablement or HWE, as we described back when 24.04.3 appeared in August 2025. The same applies if you upgrade an existing copy of 24.04. We upgraded one of our test laptops and it too got the new kernel version automatically. Kernel upgrades depend on which kernel tra
 
 ### Cyberattack sends International Meteor Organization crashing back to Earth
 Mon, 14 Sep 2026 18:00:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/14/cyberattack-sends-international-meteor-organization-crashing-back-to-earth/5296282
@@ -240,84 +275,104 @@ Mon, 14 Sep 2026 12:45:00 +0200 — https://www.theregister.com/devops/2026/09/1
 
 The maintainers of CPython have backed off from making Rust a required dependency for the Python reference implementation, focusing on the less intrusive task of building an optional Rust API for internal Python development. The move “sidesteps a lot of the concerns that people brought up,” Rust Programming Manager Tomáš Šedovič explained at RustConf, held in Montréal last week. Šedovič and others from Rust have been working with the CPython core developers to smooth the integration between the two environments. CPython’s revised approach eschews a more aggressive push to use Rust in Python, an approach that roiled the Linux kernel community’s adoption of Rust last year. The tasty dish is still rejected by the unwilling palate Last November, Python programmer Emma Smith floated the idea of incorporating Rust support into Python, initially for writing extension modules, but with the overall plan of making Rust a required dependency in CPython so it could be used throughout the CPython code base. This would have been similar to the relationship between Rust and the C programming language, upon which CPython is largely built (hence the name). C brings its share of security dangers when it comes to memory, which must be allocated and deallocated manually in code. The memory-safe Rust eliminates this entire class of errors at compile time, hence its interest to the CPythonistas. But, as fellow vulture Liam Proven noted at the time, the mandatory inclusion of Rust created a number 
 
-### The myth of killer AI is a self-serving attempt at regulatory capture
-Mon, 14 Sep 2026 12:00:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/14/the-myth-of-killer-ai-is-a-self-serving-attempt-at-regulatory-capture/5295978
-
-KETTLE Hey, did you hear? AI is going to kill us all and no one can is trying to do anything to stop it. You can listen to the latest episode of The Kettle right here on this page, as well as on Spotify, Apple Music, or YouTube. Those platforms also let you subscribe to The Kettle, so you are always notified when the latest episode goes live. This week, we're talking about the latest spate of fearmongering from AI industry insiders. Whether you believe we just have to sit back and let Skynet end civilization is another matter altogether. We at The Register's Kettle desk don't think so. Join host Brandon Vigliarolo, systems editor Tobias Mann, and senior reporter Tom Claburn to hear our thoughts on how we could stop the impending AI meteor hurtling toward us by, for starters, arresting the tech bros who keep letting it do bad stuff. We also get into how all of this is actually a self-serving attempt at regulatory capture, and how it's likely to backfire and let open models seize the reins. A lightly edited transcript is below: Brandon (00:01) Hi everyone and welcome to another episode of The Register's Kettle Podcast. I'm Reg reporter Brandon Vigliarolo, and this week, like so many weeks before, the biggest news in the tech industry is around AI and its potential impact on the world. Now we're not talking about jobs or education or even the economy this time around, though. We're talking about warnings of existential threats to the whole of humanity being issued by current and
-
-### UK.gov begins killing off passwords for 23 million users
-Mon, 14 Sep 2026 11:16:11 +0200 — https://www.theregister.com/security/2026/09/14/ukgov-begins-killing-off-passwords-for-23-million-users/5296088
-
-The UK government is giving more than 23 million people the chance to ditch passwords for passkeys – and could save itself a tidy sum on authentication texts in the process. Passkeys are being rolled out more widely across GOV.UK One Login following a trial involving more than 300,000 users, allowing people to sign in using a fingerprint, Face ID, or device PIN instead of entering a password and waiting for a two-factor authentication (2FA) code. The government says nearly one in ten daily One Login sign-ins are already being made using passkeys, which it claims are up to eight times faster than logging in with a username, password and 2FA code. There is also a less glamorous incentive for Whitehall: text messages cost money. The switch is already saving taxpayers nearly £600 a day in SMS costs, according to the government. Passkeys are designed to resist phishing. Rather than relying on a password that can be stolen, reused, or handed over to a convincing fake login page, a passkey uses cryptographic credentials tied to the website or app for which it was created. The biometric data or PIN used to unlock it remains on the user's device and isn't seen or stored by GOV.UK One Login. "Cyber criminals often look for the easiest route to access important accounts, which means login details remain a common target," said Jonathon Ellison, director for national resilience at the UK's National Cyber Security Centre (NCSC). "But passkeys offer a highly phishing-resistant alternative t
-
-### Europe's right-to-repair rules are broken, not beaten
-Mon, 14 Sep 2026 10:30:00 +0200 — https://www.theregister.com/columnists/2026/09/14/europes-right-to-repair-rules-are-broken-not-beaten/5295763
-
-Consumerism? Squint at it in the right light, and it looks a lot like communism. Certainly, that's how parts of the American political establishment seem to view Europe, the world's regulatory superpower. All those rules denying the God-given rights of free people to have their data protected, their privacy secured, and their phones recharged by USB-C. You know what the C in USB-C actually stands for? Communism! Wake up, sheeple! Having qualified itself for two hours on Joe Rogan, this column must reluctantly disqualify itself by introducing some actual facts. One of the EU's most recent regulatory moves to enforce the right to repair has been a thudding failure. It aimed to force mobile device makers to register full technical documentation and spare parts through online portals, only to be stymied by the subtle yet powerful strategy, well known to married couples, of saying "Yes, dear," and then doing whatever you want. After a year on the books, the registry has about 2,300 entries but only about 18 percent are anywhere near compliant. The rest are full of gaps, misdirections, or useless data. Deliciously, the manufacturers doing best from this attempt to foist socialism on the world are from its remaining nominally Marxist-Leninist superpower: the People's Republic of China. Don't panic. After all, according to the Black Duck 2026 Open Source Security and Risk Analysis Report, 68 percent of audited commercial codebases contain open source license conflicts that could crea
-
 ## Engadget
+
+### How to force quit on your Windows PC
+Mon, 14 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2254550/how-to-force-quit-windows-pc/
+
+If you're switching from a Mac or new to Windows, knowing how to 'force quit' an app can be confusing. Luckily, there are a number of ways to get the job done.
+
+### You can use Gemini to help you organize your files on Google Drive
+Mon, 14 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2253054/use-gemini-help-you-organize-files-google-drive/
+
+If your Google Drive has become a mess of files, folders and photos, Gemini can lend a hand by suggesting new ways to properly put them back in order.
+
+### Pre-orders for the Android-based Googlebook laptops open on September 21
+Mon, 14 Sep 2026 18:28:54 +0000 — https://www.engadget.com/2258035/pre-orders-for-the-android-based-googlebook-laptops-open-on-september-21/
+
+Gemini Intelligence is at the heart of the operating system powering Google's upcoming laptops.
+
+### Apple Wallet vs. Google Wallet: What are the differences between them?
+Mon, 14 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2254372/apple-wallet-vs-google-wallet-differences-between/
+
+Whether you use Apple Pay or Google Pay mostly depends on your device, but there are some small ways they differ that you might not notice at first.
+
+### Waymo's robotaxis are now available in Las Vegas
+Mon, 14 Sep 2026 17:59:37 +0000 — https://www.engadget.com/2257970/waymo-robotaxis-are-now-available-in-las-vegas/
+
+Waymo's fully autonomous rides will initially serve those around the city's main strip.
+
+### Elon Musk's X Corp and SpaceXAI just moved to dismiss their lawsuit against Apple
+Mon, 14 Sep 2026 17:49:07 +0000 — https://www.engadget.com/2257929/elon-musk-x-corp-and-spacexai-just-moved-to-dismiss-their-lawsuit-against-apple/
+
+A lawsuit from last year accused the iPhone-maker of suppressing apps like Grok on the App Store.
+
+### Netflix is making movies based on Crazy Taxi and Stranger than Heaven
+Mon, 14 Sep 2026 17:31:57 +0000 — https://www.engadget.com/2257893/netflix-is-making-movies-based-on-crazy-taxi-and-stranger-than-heaven/
+
+Netflix's deal with Sega includes a new Sonic animated series as well as movies based on Crazy Taxi and Stranger than Heaven.
+
+### How to know if your USB-C ports can support video
+Mon, 14 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2254118/how-to-know-if-usb-c-port-supports-video/
+
+Your USB-C port can do a lot, but it won't necessarily be able to transfer video. Understanding what yours can do makes it easy to choose the best video option.
+
+### Siri AI is here as Apple releases iOS 27, macOS Golden Gate and other major OS updates
+Mon, 14 Sep 2026 17:13:09 +0000 — https://www.engadget.com/2257834/siri-ai-is-here-as-apple-releases-ios-27-macos-golden-gate-and-other-major-os-updates/
+
+The kinks are still being worked out for users in the EU and China though.
+
+### Valve Steam Frame review: Solid standalone VR that's too little, too late
+Mon, 14 Sep 2026 17:00:00 +0000 — https://www.engadget.com/2257659/valve-steam-frame-review/
+
+The Steam Frame is a pretty great standalone VR headset, it's just too bad it costs over $1,000.
+
+### Valve's Steam Frame VR headset starts at $1,059 and ships with Half Life: Alyx
+Mon, 14 Sep 2026 17:00:00 +0000 — https://www.engadget.com/2257150/valves-steam-frame-vr-headset-starts-at-1059-and-ships-with-half-life-alyx/
+
+Valve has unveiled pricing for its new VR headset, and like the Steam Machine, it's bound to be controversial.
 
 ### What makes digital wallets safer than physical ones?
 Mon, 14 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2254024/are-digital-wallets-safe-than-physical/
 
 Digital wallets are convenient, but they also bring a ton of security features that help keep your cards protected.
 
-### How to fix Outlook's "Your message can't be displayed right now" error
-Mon, 14 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2253803/outlook-your-message-cant-be-displayed-right-now-error-fixes/
-
-When Outlook runs into issues, whether on the web or its desktop version, you can fix them and get back to your mail.
-
-### What's the biggest IMAX theater in the world? It depends who you ask
-Mon, 14 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2253781/biggest-imax-theater-in-world/
-
-Working out which movie theater hosts the world's biggest IMAX screen can be quite confusing. It all comes down to whether you want a true IMAX experience.
-
-### Phone makers ditched 3.5mm for USB-C, but which one offers better audio quality?
-Mon, 14 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2253607/usb-c-vs-3-5-mm-aux-cable-audio-quality/
-
-Working out whether to invest in headphones with a 3.5mm jack or USB-C connector can be tricky. Turns out, there's a lot more to it than how you plug them in.
-
-### Will GTA 6's Ultimate Edition be worth the extra cost? Here's what it'll come with
-Mon, 14 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2253053/gta-6-ultimate-edition-what-comes-with/
-
-Many have paid the extra $20 for the GTA6 , but there's no rush to join them.
-
-### What is MSI mode on Windows PCs and does it speed up your GPU?
-Mon, 14 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2253025/what-is-msi-mode-windows-pc-speed-up-gpu/
-
-This is a setting you probably won't want to mess around with.
-
-### How to prepare your iPhone for the iOS 27 update
-Mon, 14 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2252944/prepare-iphone-ios-27-update/
-
-It's not difficult to update to iOS 27, but you should prepare in a few ways to avoid common issues when moving to the new version.
-
-### What does background app refresh on iPhone actually do?
-Mon, 14 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2252907/what-background-apps-refresh-iphone-does/
-
-Here's what will happen if you turn off background app refresh on your iPhone, and which apps operate better with it on.
-
-### Music distributors agree to new anti-fraud measures
-Mon, 14 Sep 2026 12:56:36 +0000 — https://www.engadget.com/2257223/music-distributors-agree-to-new-anti-fraud-measures/
-
-Trade union IFPI brings together music groups like Universal and Sony to reduce music streaming fraud.
-
-### Is AppleCare really worth the extra cost?
-Mon, 14 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2250733/applecare-worth-extra-cost/
-
-AppleCare provides peace of mind against damaged devices, but it's an additional cost you have to weigh.
-
-### How to block time-wasting apps on iPhone using Screen Time
-Mon, 14 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2252754/how-to-block-time-wasting-apps-iphone-screen-time/
-
-If you want to stop using your phone at certain time and getting stuck into certain apps too much, Screen Time can help.
-
-### The GameCube games we still love, 25 years later
-Mon, 14 Sep 2026 11:00:00 +0000 — https://www.engadget.com/2256423/nintendo-gamecube-games-we-still-love-25-years-later/
-
-Here are some of the GameCube games that have held up best over the last 25 years.
-
 ## TechCrunch
+
+### AI infrastructure company Cornelis raises $205M to chip away at Nvidia s dominance
+Mon, 14 Sep 2026 20:07:37 +0000 — https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/
+
+The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.
+
+### Amazon Prime Video takes on TikTok with short-form news clips
+Mon, 14 Sep 2026 18:14:29 +0000 — https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/
+
+Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.
+
+### ClickFix attacks are tricking Mac and Windows users into hacking themselves
+Mon, 14 Sep 2026 18:08:43 +0000 — https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/
+
+If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising "ClickFix" security threat.
+
+### Volkswagen s crazy-efficient EV borrows an idea from Slate
+Mon, 14 Sep 2026 17:41:20 +0000 — https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/
+
+Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.
+
+### With iOS 27, I m actually using Siri again
+Mon, 14 Sep 2026 17:10:30 +0000 — https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/
+
+Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.
+
+### macOS 27: new Siri takes on AI productivity apps
+Mon, 14 Sep 2026 17:10:09 +0000 — https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/
+
+The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.
+
+### Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll
+Mon, 14 Sep 2026 17:00:00 +0000 — https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/
+
+Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.
 
 ### Microsoft s new AI code of conduct tells models not to hack systems or trick humans
 Mon, 14 Sep 2026 16:27:53 +0000 — https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/
@@ -343,39 +398,4 @@ If you're building an AI company, the question isn't whether foundation models w
 Mon, 14 Sep 2026 14:45:44 +0000 — https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/
 
 Fathom said that it has over 400,000 monthly active users.
-
-### Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026
-Mon, 14 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/
-
-Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it s the mission of a billion-dollar startup. Advances in artificial intelligence, genetics, and computational biology are changing what s possible in conservation research, raising questions that extend far beyond the laboratory. If technology can help revive extinct species, should it? And [ ]
-
-### 5 days left to exhibit at TechCrunch Disrupt 2026
-Mon, 14 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/
-
-The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.
-
-### A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting
-Mon, 14 Sep 2026 13:55:00 +0000 — https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/
-
-Former Spotify exec's company releases experimental "singles" that involves users in music making.
-
-### Insight Partners Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic
-Sun, 13 Sep 2026 21:30:00 +0000 — https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/
-
-Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.
-
-### Larry Ellison cancels $7.5 billion sale of Oracle stock
-Sun, 13 Sep 2026 20:49:38 +0000 — https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/
-
-Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.
-
-### The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs
-Sun, 13 Sep 2026 20:28:00 +0000 — https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/
-
-From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.
-
-### What s behind the AI industry’s latest warnings of doom?
-Sun, 13 Sep 2026 19:40:15 +0000 — https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/
-
-On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.
 

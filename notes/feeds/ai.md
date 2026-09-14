@@ -1,6 +1,11 @@
-# AI — harvested 2026-09-14T16:33:35.975Z
+# AI — harvested 2026-09-14T20:34:03.369Z
 
 ## OpenAI
+
+### How Fyxer built an AI executive assistant people trust
+Mon, 14 Sep 2026 12:00:00 GMT — https://openai.com/index/fyxer
+
+Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.
 
 ### Perplexity trusts GPT-6 Astra with end-to-end systems
 Mon, 14 Sep 2026 00:00:00 GMT — https://openai.com/index/perplexity-improving-accuracy-with-astra

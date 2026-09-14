@@ -1,6 +1,51 @@
-# Manga — harvested 2026-09-14T16:33:35.975Z
+# Manga — harvested 2026-09-14T20:34:03.369Z
 
 ## Anime News Network
+
+### You and I Are Polar Opposites Season 2 ‒ Episode 11
+Mon, 14 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-11/.241741
+
+Under different circumstances, I'd be more than happy to just watch these kids be kids, but now that we're running down to the wire, I'm more than a little concerned as to what all this stalling will actually lead to.
+
+### Lycoris Recoil Manga Ends in 2 Chapters
+Mon, 14 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/lycoris-recoil-manga-ends-in-2-chapters/.241734
+
+Manga adaptation debuted in September 2022
+
+### Draw This, Then Die! ‒ Episode 10
+Mon, 14 Sep 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/draw-this-then-die/episode-10/.241740
+
+Similar to how Hebichika is not the greatest boss, she's arguably not that great of a mother either, instilling Hikaru with this mentality that to be successful, she needs to see herself as above everybody else.
+
+### Fire Emblem: Fortune's Weave Game's Overview Trailer Previews Story, Gameplay
+Mon, 14 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/fire-emblem-fortune-weave-game-overview-trailer-previews-story-gameplay/.241775
+
+Game launches for Switch 2 on Thursday
+
+### The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3 ‒ Episode 35
+Mon, 14 Sep 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3/episode-35/.241737
+
+It reinforces how lethally cute Shizuka is, and propels Nano to go for it…as much as she needs to actively "go for it" with a girl she's already in a polycule with. Is that inefficient? I'm sure Nano has crunched the numbers.
+
+### Live-Action Look Back Film Wins Student Jury's UNIMED Award at Venice Int'l Film Fest
+Mon, 14 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/live-action-look-back-film-wins-student-jury-unimed-award-at-venice-intl-film-fest/.241776
+
+Film opened in Japan on September 11
+
+### The Elusive Samurai Season 2 ‒ Episode 9
+Mon, 14 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-9/.241714
+
+It's neat to see a grown-up mirror of Tokiyuki, and their crazed head-bobbing duel is the single funniest moment of the whole episode.
+
+### Netflix, Sega to Produce Live-Action Films for Crazy Taxi, Stranger Than Heaven Games; New Animated Children's Series for Sonic the Hedgehog
+Mon, 14 Sep 2026 12:53:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/netflix-sega-to-produce-live-action-films-for-crazy-taxi-stranger-than-heaven-games-new-animated-/.241778
+
+Dan Gregor, Doug Mand to write script for <cite>Crazy Taxi</cite> film
+
+### Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 21
+Mon, 14 Sep 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-21/.241717
+
+It's a little surprising to confirm that Ferdinand hadn't actually clocked Rosemyne's mana compression.
 
 ### The World's Strongest Witch Volumes 1-2 Light Novel Review
 Mon, 14 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-world-strongest-witch/volumes-1-2/.241385
@@ -17,56 +62,21 @@ Mon, 14 Sep 2026 11:30:05 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 4-episode series premieres on Tuesday with future episodes on September 17, 23, 29
 
-### Chainsmoker Cat ‒ Episode 10
-Mon, 14 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/chainsmoker-cat/episode-10/.241713
-
-This week we must face the most dehumanizing torture of all: Being trapped in a car with an insufferable wannabe influencer who can't shut her godforsaken phone off for a single second and act like a normal person.
-
-### BanG Dream! Ave Mujica Film's Trailer Previews New Song
-Mon, 14 Sep 2026 11:22:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/bang-dream-ave-mujica-film-trailer-previews-new-song/.241772
-
-Video previews "A Song of Resonance" for film opening in Japan on October 16
-
-### The Fable Season 2 TV Anime's Trailer Reveals January 2027 Premiere
-Mon, 14 Sep 2026 11:15:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/the-fable-season-2-tv-anime-trailer-reveals-january-2027-premiere/.241771
-
-Season features returning cast/staff
-
-### Ushijima the Loan Shark Gets New 1-Shot Set 10 Years After Manga's End
-Mon, 14 Sep 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/ushijima-the-loan-shark-gets-new-1-shot-set-10-years-after-manga-end/.241756
-
-1-shot will be on display at manga's exhibition in Tokyo from September 19 - October 4
-
-### Latest Crayon Shin-chan Film Becomes Highest-Grossing in Franchise
-Mon, 14 Sep 2026 10:45:35 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/latest-crayon-shin-chan-film-becomes-highest-grossing-in-franchise/.241767
-
-Franchise's 2026 film has earned over 2.7 billion yen
-
-### KAIJU GIRL CARAMELISE ‒ Episodes 9-11
-Mon, 14 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/kaiju-girl-caramelise/episodes-9-11/.241711
-
-The big fight scene picks up once the comedy comes into focus, with the audibly frightened and visibly crying Kuroe whipping Akae around by the tail like Bowser in <i>Super Mario 64</i>.
-
-### Hidari Yokoyama Launches Ayaru's Brush with Romance Manga
-Mon, 14 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/hidari-yokoyama-launches-ayaru-brush-with-romance-manga/.241738
-
-Manga available in English on Manga Plus
-
-### Tomb Raider King ‒ Episode 10
-Mon, 14 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/tomb-raider-king/episode-10/.241685
-
-George pointing a gun in Jooheon’s face because he ripped him off and then telling him to stop talking like he knows everything is one of the most cathartic moments I’ve experienced all season.
-
-### NYCC Hosts Voice Actor Hikaru Midorikawa, Shonen Jump+ EIC Yuta Momiyama, More Guests, Events, Anime Premieres
-Mon, 14 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/nycc-hosts-voice-actor-hikaru-midorikawa-shonen-jump-eic-yuta-momiyama-more-guests-events-anime-/.241730
-
-New York Comic Con 2026 is taking place at the Javits Center on October 8-11
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Naruto Non-Verbal Live Show Reveals Team 7 Key Visual and Character Visuals Starring Naruto, Sasuke, Sakura and Kakashi
+Mon, 14 Sep 2026 17:56:49 GMT — https://animecorner.me/naruto-non-verbal-live-show-reveals-team-7-key-visual-and-character-visuals-starring-naruto-sasuke-sakura-and-kakashi/
+
+A new key visual has been revealed for the upcoming NARUTO non-verbal live show,&hellip;
+
+### The Fragrant Flower Blooms with Dignity Manga Announces 5th Anniversary Exhibition in Tokyo, Osaka and Fukuoka
+Mon, 14 Sep 2026 16:50:41 GMT — https://animecorner.me/the-fragrant-flower-blooms-with-dignity-manga-announces-5th-anniversary-exhibition-in-tokyo-osaka-and-fukuoka/
+
+Saka Mikami's The Fragrant Flower Blooms with Dignity manga will celebrate its fifth serialization anniversary with a large-scale exhibition.
 
 ### Interview: Yusuke Kobayashi (Voice of Subaru Natsuki) and Konomi Suzuki (OP Artist) on Re:ZERO -Starting Life in Another World-
 Mon, 14 Sep 2026 15:03:50 GMT — https://animecorner.me/interview-yusuke-kobayashi-voice-of-subaru-natsuki-and-konomi-suzuki-op-artist-on-rezero-starting-life-in-another-world/
@@ -118,16 +128,6 @@ Sun, 13 Sep 2026 15:59:36 GMT — https://animecorner.me/mushoku-tensei-jobless-
 
 Mushoku Tensei: Jobless Reincarnation Season 3 has revealed the jacket visual for its second&hellip;
 
-### BanG Dream! Our Notes Announces September 24 Release Date, New Trailer Revealed
-Sun, 13 Sep 2026 12:17:11 GMT — https://animecorner.me/bang-dream-our-notes-announces-september-24-release-date-new-trailer-revealed/
-
-BanG Dream! Our Notes game is set to release globally on September 24. A&hellip;
-
-### Katekyo Hitman Reborn! Anime Reveals Seventh Ending Featuring "Ameato" by W-inds
-Sun, 13 Sep 2026 11:30:42 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-seventh-ending-featuring-ameato-by-w-inds/
-
-Katekyo Hitman REBORN! anime released the creditless version of its seventh ending, featuring "Ameato" by W-inds.
-
 ## MyAnimeList News
 
 ### Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. Reveals Additional Cast, Staff, Theme Songs, Main Promo
@@ -154,11 +154,6 @@ The special livestream presentation for the television anime adaptation of Katsu
 Sat, 12 Sep 2026 23:21:19 -0700 — https://myanimelist.net/news/74712551?_location=rss
 
 The official website for the television anime adaptation of Saenal Park and Team Argo s Tempal: Item no Chikara (Overgeared) webtoon unveiled a pair of additional cast, third key visual (pictured), and third promotional video on Saturday. The anime series is scheduled to premiere on October 2 at 11:30 p.m. on Tokyo MX and BS11. Voice actresses Yuki Murata and Yurika Hirayama (Tamon-kun Ima Docchi!?) are joining the cast as Irene and Isabel, respectively. Ayako Kouno (Sword Art Online: Progr...
-
-### Grotesqqque Reveals Supporting Cast, Trailer for "Yoroshiku★Shoujo" Segment
-Sat, 12 Sep 2026 10:55:08 -0700 — https://myanimelist.net/news/74709373?_location=rss
-
-The Aniplex One Focus 2026 event revealed supporting cast for the Grotesqqque original anime movie and a trailer for its Yoroshiku★Shoujo segment on Saturday. The three-story omnibus movie will premiere in Japanese theaters on November 6. Cast Mitoge: Youko Hikasa (Kaoru Hana wa Rin to Saku) Mimosa: Riho Sugiyama (Amagami-san Chi no Enmusubi) Kava: Ayaka Ohashi (Akame ga Kill!) Shouta Horie (Shiunji-ke no Kodomotachi), Yuyoyuppe (Mob Psycho 100), Ayato Shinozaki (Kage no Jitsuryokusha ni Naritak...
 
 ## Otaku USA
 
