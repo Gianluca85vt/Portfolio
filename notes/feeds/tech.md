@@ -1,6 +1,11 @@
-# Tech — harvested 2026-09-13T18:57:12.559Z
+# Tech — harvested 2026-09-14T10:07:28.494Z
 
 ## Ars Technica
+
+### Unvaccinated Pennsylvania woman died of measles complications, coroner says
+Sun, 13 Sep 2026 21:56:52 +0000 — https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/
+
+A 40-year-old woman in Jefferson County, Pennsylvania has died of complications from measles, according to the county's coroner. It marks the third vaccine-preventable, measles-linked death in the US this year. All three have occurred in Pennsylvania, which is experiencing an explosive outbreak that has caused over 670 cases and 124 hospitalizations across 37 counties . Prior to these deaths, Pennsylvania had not reported a measles death in 35 years. In a news release dated September 12, Jefferson County Coroner Greg Furlong said the death in the woman was "a heartbreaking loss for the family and an unfortunate reminder that measles can be a serious and potentially life-threatening disease." Read full article Comments ]]>
 
 ### I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.
 Sun, 13 Sep 2026 11:00:41 +0000 — https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/
@@ -12,32 +17,12 @@ Sat, 12 Sep 2026 11:00:53 +0000 — https://arstechnica.com/gadgets/2026/09/i-sp
 
 On a sunny morning in June, I walked to work with a quadruped robot beside me. I’ve never gotten more attention from strangers. A bunch of people snapped pictures of my robot dog. Several people asked me questions. Was it mine? (Yes.) Did I build it? (No.) Was it being used for surveillance? (No.) Biological dogs kept a safe distance from my mechanical companion. Some growled or barked at it. Read full article Comments ]]>
 
-### Some satellite companies still have an appetite for boutique launch services
-Fri, 11 Sep 2026 23:34:45 +0000 — https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/
-
-If you ask most satellite companies aside from SpaceX, they will tell you the world doesn't have enough capacity for launching payloads into orbit. This is despite the blistering launch cadence we've seen around the world in recent years, led by SpaceX's Falcon 9 rocket. Customers in any sector will, of course, usually welcome competition. Theoretically, competition will lead to lower prices and allow the best to rise to the top. It seems like the customers buying launch services were right. SpaceX is dialing back its Falcon 9 launch program , and there is no certainty about when SpaceX's reusable next-generation super-heavy-lift rocket, Starship, will carry anything to orbit besides the company's own Starlink satellites. So it's no surprise satellite operators are cheering the success of a new launch provider. This was especially the case a few days ago, when Germany's Isar Aerospace reached orbit for the first time with its Spectrum rocket. The launcher delivered a batch of CubeSats to low-Earth orbit from a spaceport in northern Norway, and Isar tasted success after its first test flight ended in failure last year. Read full article Comments ]]>
-
-### Random rewards enrich classic game-theory insights
-Fri, 11 Sep 2026 21:41:16 +0000 — https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/
-
-Games may be life with all the hard bits removed, but they provide a way to study why people make the choices they make. Traditional games are usually played against a static background: the rewards per outcome are constant. That limits their relevance to behavior because, in real life, the rewards and consequences of strategic choices are ever changing. Now, researchers have used a mathematical model to study a series of games that include evolving strategies and randomly varying returns. A bit of history Perhaps the most famous game-theory contest is the prisoner’s dilemma. In the prisoner’s dilemma, a pair of thieves have been captured and are being separately interrogated by the police. If both clam up, they will be punished for a lesser crime. If one prisoner makes a deal (defects) then that prisoner gets to go free and the other gets a heavier sentence. If both make a deal, they both get an in-between punishment. The person running the game can start it with different rewards for cooperating and defecting to explore how the optimum strategy varies with reward and risk, which the players can figure out by varying the strategies across multiple rounds. Depending on the balance between the reward for staying silent (cooperating) and betrayal, the game stabilizes with everyone betraying everyone. In this simple situation, everyone loses. Read full article Comments ]]>
-
-### Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland
-Fri, 11 Sep 2026 21:14:26 +0000 — https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/
-
-For a child bursting with energy, few things are more fun than hurtling through a bouncy castle, launching into the air, and ping-ponging between every surface. But that childhood buoyancy will quickly deflate when it turns out those surfaces are smeared with a hypervirulent, multidrug-resistant pathogen. That was the horrifying reality for a community in Ireland in fall 2025. Neighbors had gathered for an afternoon of merriment, complete with a barbecue, a sweets station, and three bouncy castles. Officials estimate that about 120 people joined the festivities, and around half of them were children and teens. Within a day, some children began developing signs of an infection. In all, 48 children in the community developed aggressive skin and soft-tissue infections. Of the 48 cases, 33 were treated by their regular doctor, and 15 sought emergency care. Four children ended up being hospitalized. Luckily, all of the children recovered. The results of the outbreak investigation were reported this week in the journal Eurosurveillance . Read full article Comments ]]>
-
-### Trump's forced coal plant extensions thrown out by judge
-Fri, 11 Sep 2026 20:32:59 +0000 — https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/
-
-The use of coal to generate electricity on the US grid has been plunging for nearly two decades, and the first Trump administration was unable to affect the trend. So his second administration has attempted more aggressive interventions to prop up coal use. One of its most direct means of doing so is to order coal plants that were scheduled to close to remain open , even if there is no need for them . The administration's justification for these orders is a statute that allows the Department of Energy (DOE) to declare an emergency in the case of wartime or a sudden shortfall in generation. A number of parties, including states where coal plants have been slated to close, have challenged this declaration. And on Friday, in the first of these cases to make its way through the courts, the declaration was judged to be contrary to the statute. While this only affects a single coal plant in Michigan, the reasoning of the decision will apply to every coal plant closure that has been blocked by the DOE. No emergency The decision was issued by a unanimous three-judge panel from the DC Circuit's Court of Appeals. It focuses on the J.H. Campbell Generating Plant, which was scheduled to close last year but has been kept open by a total of five emergency declarations by the DOE, each limited to 90 days by the Federal Power Act. At issue was section 202(c) of that Act, which allows the DOE to declare emergencies when the US is at war or when “an emergency exists by reason of a sudden incre
-
-### ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses
-Fri, 11 Sep 2026 19:34:09 +0000 — https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/
-
-The New Mexico Supreme Court held a ChatGPT-using lawyer in direct contempt of court for submitting a brief with "false testimony from wholly fabricated witnesses," including fake police testimony and other mistakes. The state's top court referred the lawyer to a disciplinary board for further proceedings and concluded that he "demonstrated a lack of remorse and a lack of concern for his client." Attorney Stephen Aarons "admitted to the Court that he did not verify the factual claims and legal authority in his AI-generated brief before signing it and filing it with the Court, and that he did not inform his client of this failure or that the brief in chief contained multiple factual and legal misrepresentations," the state Supreme Court said in an order on Wednesday. Aarons has been a criminal defense lawyer in New Mexico for over 40 years and was hired by a defendant's family members to appeal a murder conviction. Aaron's now-former client, Oscar Renee Sandoval, was sentenced to life in prison in February 2025 after being convicted of killing Shiereen Al-Jibury, who was his partner and the mother of his children. Read full article Comments ]]>
-
 ## The Verge
+
+### Trump and Mike Johnson think the AI industry is overreacting
+2026-09-13T15:41:48-04:00 — https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting
+
+Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to "pace the frontier" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According to the Financial Times , Trump said "Look, we're leading China in AI … and, frankly, I want to keep it that way, because whoever wins AI, wins." Jo … Read the full story at The Verge. ]]>
 
 ### Apple is reportedly working on iPhone game controllers
 2026-09-13T14:30:16-04:00 — https://www.theverge.com/tech/994426/apple-iphone-game-controllers
@@ -84,12 +69,12 @@ OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during
 
 Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost . It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft . Dan Hay, a VP at Blizzard, took the stage at BlizzCon today to reveal that after more than a decade of lying dormant, StarCraft would be returning in 2030. But, rather than another top-down real-time strategy installment, the new title would be an open-world shooter. He then showed off a cinematic trailer for the title that fo … Read the full story at The Verge. ]]>
 
-### Sylvan Esso think you should splurge on good-quality yogurt
-2026-09-12T12:35:00-04:00 — https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music
-
-Sylvan Esso preparing to attend a frutiger aero renfaire. Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single " Hey Mami ." Over the years, they've put out a number of excellent records, dabbling in dustier, more fragile textures on Free Love , going dancier and glitchier on No Rules Sandy . The two are constantly pushing at the edges of their sound while retaining the core of what makes a Sylvan Esso record sound like a Sylvan Esso record. Their new album Ow &infin; , released this past Friday, represents perhaps the boldest reinvention of their sound, how … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Dumpster diver builds home lab Proxmox server from weekly landfill runs for SSDs, HDDs, GPUs, and even RAM — weekly e-waste raids net multi-drive Proxmox server and Asus ROG laptop
+Mon, 14 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/desktops/pc-building/dumpster-diver-builds-home-lab-proxmox-server-from-weekly-landfill-runs-for-ssds-hdds-gpus-and-even-ram-weekly-e-waste-raids-net-multi-drive-proxmox-server-and-asus-rog-laptop
+
+A tech enthusiast says that they managed to put together a home lab-worthy Proxmox server using PC parts scavenged from the nearby county landfill. Furthermore, Tsuto told fellow Redditors that they now routinely raid the dump’s separate electronics recycling area once a week. We can’t blame them; their gallery of liberated hardware includes plenty of valuable trinkets like SSDs, HDDs, GPUs, even RAM, complete laptops, and more. The county landfill has a separate bin for electronics and I’ve taken to raiding it once a week to scavenge for parts for my labs. from r/homelab ‘It’s wild what people throw away these days,’ says the successful tech scavenger. Tsuto seems to admit that many of the bits and pieces are “on the older end,” but even folks paying cold, hard cash at retail in 2026 are competing for components like RTX 3060 s, AM4 motherboards/CPUs, and DDR4 . That’s how hard the components shortage is hitting folks. Tsuto also seems rather pleased with an Asus ROG laptop found at the landfill site. “The Asus ROG laptop just needed a $25 battery off Amazon and still has decent enough specs for casual gaming for my son,” they comment. Pixel peeping Tsuto’s gallery indicates that this portable gaming laptop packs an Intel Core i7-4710HQ (4C/8T) supported by 16GB of RAM, and allied with a GeForce GTX 860M 2GB GPU. It will be playing less demanding titles such as Stumble Guys, we see. In a follow-up post, the Redditor explains that one of their home lab projects that has been 
 
 ### AMD’s best gaming CPU drops below launch price and includes free 240mm AIO cooler and Onimusha: Way of the Sword — grab the Ryzen 7 9850X3D for $484
 Sun, 13 Sep 2026 14:28:06 +0000 — https://www.tomshardware.com/pc-components/cpus/amds-best-gaming-cpu-drops-below-launch-price-and-includes-free-240mm-aio-cooler-and-onimusha-way-of-the-sword-grab-the-ryzen-7-9850x3d-for-usd484
@@ -146,12 +131,12 @@ Sun, 13 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/software/progra
 
 A retro video gaming devotee has showcased Lara Croft adventuring in and among ancient tombs on a humble ESP32-P4 microcontroller. This highly affordable device (available as a sub-$25 dev board ) packs a pair of 32-bit 400 MHz RISC cores and delivers a slick, playable 1,024 x 600 pixel experience for TheAlexKid777, yet consumes roughly 1 watt at peak. It is good to see someone having video-gaming fun with cheap, power-sipping new tech in 2026. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC When it launched in the mid-90s, Tomb Raider quickly became a classic by successfully capturing the add-a-third-dimension-to-all-games-and-IPs trend while delivering an eminently enjoyable adventure game. Not all games were better because they were in 3D rather than 2D. Far from it. Now the compute power required to run a title like OpenLara doesn’t require an expensive and power-hungry game console - a cheap dev board that typically consumes milliwatts is capable enough today. But the high-efficiency low-wattage gaming feat described above is just half the story. The other phenomenon demonstrated here is the beefing up of commonly available microcontrollers . Developers no longer need to be extremely resource thrifty when coding for these humb
 
-### Ukraine triumphs in 'first-ever' drone-vs-drone boat battle — video shows Russian MBeK destroyed by Sargan 3000's 12.7mm automatic turret
-Sun, 13 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/drones/ukraines-sargan-3000-triumphs-in-first-ever-drone-vs-drone-boat-battle-video-shows-russian-mbek-destroyed-by-its-foes-12-7mm-automatic-turret
-
-Ukraine’s Navy has claimed that it has won “the first-ever battle of unmanned naval boats” (machine translation). Its Sargan 3000 sea drone is shown destroying a Russian MBeK in the Black Sea in a video shared today on the official UA Navy Telegram channel. In the video, you can see the Ukrainian unmanned surface vehicle (USV) target what is claimed to be a Russian MBek and fire several rounds with its 12.7mm ‘Protector RWS’ automatic turret . The official Telegram bulletin states that the Russian USV was “detected by the GUR units.” We understand GUR is an acronym for the Main Directorate of Intelligence of Ukraine's Ministry of Defense. After taking fire, there is at least one explosion, and then smoke begins to surround the Russian USV. Ukraine must also have had some flying drones in the vicinity, as we have some aerial footage of this historic unmanned naval duel. Eventually, and we are uncertain how long the battle went on, the video shows the MBeK slipping down to its watery grave. The Russian vessel sank with a characteristic nose dive to the sea floor, perforated like a tea bag. (Image credit: UA Navy Telegram channel ) The Sargan 3000 entered service for the Ukrainian Navy in April 2026. Ahead of this latest headlining feat, the same type of USV hit the headlines for sinking a Russian FSB border patrol ship ‘Izumrud,’ off the coast of the Russian resort town Gelendzhik in mid-July. Ukraine's unmanned sea drone is a multi-purpose platform, and its multi-payload flexi
-
 ## Phoronix
+
+### Linux 7.3-rc3 Released: "Another Fairly Large RC"
+Sun, 13 Sep 2026 18:00:23 -0400 — https://www.phoronix.com/news/Linux-7.3-rc3-Released
+
+Out today is the third weekly release candidate of Linux 7.3 as this next kernel version works its way toward a stable release in the second half of October...
 
 ### Zstd Improvement For Linux 7.4 To Avoid Redundant Initialization
 Sun, 13 Sep 2026 10:04:23 -0400 — https://www.phoronix.com/news/Zstd-Linux-7.4-Avoid-Redundant
@@ -208,12 +193,37 @@ Sat, 12 Sep 2026 06:25:11 -0400 — https://www.phoronix.com/news/Ubuntu-Conside
 
 A possible future enhancement being considered for Ubuntu Long Term Support "LTS" releases is the introduction of a linux-firmware-hwe package as part of their hardware enablement (HWE) stack...
 
-### KDE Plasma 6.8 Remote Desktop To Enjoy Lower Latency Performance
-Sat, 12 Sep 2026 06:07:48 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.8-KRDP-Lower-Lat
-
-Along with KDE Plasma 6.8 beta releasing this week, there were some other interesting Plasma changes this week worthy of a shout-out...
-
 ## The Register
+
+### The myth of killer AI is a self-serving attempt at regulatory capture
+Mon, 14 Sep 2026 12:00:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/14/the-myth-of-killer-ai-is-a-self-serving-attempt-at-regulatory-capture/5295978
+
+KETTLE Hey, did you hear? AI is going to kill us all and no one can is trying to do anything to stop it. You can listen to the latest episode of The Kettle right here on this page, as well as on Spotify, Apple Music, or YouTube. Those platforms also let you subscribe to The Kettle, so you are always notified when the latest episode goes live. This week, we're talking about the latest spate of fearmongering from AI industry insiders. Whether you believe we just have to sit back and let Skynet end civilization is another matter altogether. We at The Register's Kettle desk don't think so. Join host Brandon Vigliarolo, systems editor Tobias Mann, and senior reporter Tom Claburn to hear our thoughts on how we could stop the impending AI meteor hurtling toward us by, for starters, arresting the tech bros who keep letting it do bad stuff. We also get into how all of this is actually a self-serving attempt at regulatory capture, and how it's likely to backfire and let open models seize the reins. A lightly edited transcript is below: Brandon (00:01) Hi everyone and welcome to another episode of The Register's Kettle Podcast. I'm Reg reporter Brandon Vigliarolo, and this week, like so many weeks before, the biggest news in the tech industry is around AI and its potential impact on the world. Now we're not talking about jobs or education or even the economy this time around, though. We're talking about warnings of existential threats to the whole of humanity being issued by current and
+
+### UK.gov begins killing off passwords for 23 million users
+Mon, 14 Sep 2026 11:16:11 +0200 — https://www.theregister.com/security/2026/09/14/ukgov-begins-killing-off-passwords-for-23-million-users/5296088
+
+The UK government is giving more than 23 million people the chance to ditch passwords for passkeys – and could save itself a tidy sum on authentication texts in the process. Passkeys are being rolled out more widely across GOV.UK One Login following a trial involving more than 300,000 users, allowing people to sign in using a fingerprint, Face ID, or device PIN instead of entering a password and waiting for a two-factor authentication (2FA) code. The government says nearly one in ten daily One Login sign-ins are already being made using passkeys, which it claims are up to eight times faster than logging in with a username, password and 2FA code. There is also a less glamorous incentive for Whitehall: text messages cost money. The switch is already saving taxpayers nearly £600 a day in SMS costs, according to the government. Passkeys are designed to resist phishing. Rather than relying on a password that can be stolen, reused, or handed over to a convincing fake login page, a passkey uses cryptographic credentials tied to the website or app for which it was created. The biometric data or PIN used to unlock it remains on the user's device and isn't seen or stored by GOV.UK One Login. "Cyber criminals often look for the easiest route to access important accounts, which means login details remain a common target," said Jonathon Ellison, director for national resilience at the UK's National Cyber Security Centre (NCSC). "But passkeys offer a highly phishing-resistant alternative t
+
+### Europe's right-to-repair rules are broken, not beaten
+Mon, 14 Sep 2026 10:30:00 +0200 — https://www.theregister.com/columnists/2026/09/14/europes-right-to-repair-rules-are-broken-not-beaten/5295763
+
+Consumerism? Squint at it in the right light, and it looks a lot like communism. Certainly, that's how parts of the American political establishment seem to view Europe, the world's regulatory superpower. All those rules denying the God-given rights of free people to have their data protected, their privacy secured, and their phones recharged by USB-C. You know what the C in USB-C actually stands for? Communism! Wake up, sheeple! Having qualified itself for two hours on Joe Rogan, this column must reluctantly disqualify itself by introducing some actual facts. One of the EU's most recent regulatory moves to enforce the right to repair has been a thudding failure. It aimed to force mobile device makers to register full technical documentation and spare parts through online portals, only to be stymied by the subtle yet powerful strategy, well known to married couples, of saying "Yes, dear," and then doing whatever you want. After a year on the books, the registry has about 2,300 entries but only about 18 percent are anywhere near compliant. The rest are full of gaps, misdirections, or useless data. Deliciously, the manufacturers doing best from this attempt to foist socialism on the world are from its remaining nominally Marxist-Leninist superpower: the People's Republic of China. Don't panic. After all, according to the Black Duck 2026 Open Source Security and Risk Analysis Report, 68 percent of audited commercial codebases contain open source license conflicts that could crea
+
+### Who, Me? Tech team stood and laughed at colleague who pressed the wrong off button
+Mon, 14 Sep 2026 08:30:00 +0200 — https://www.theregister.com/systems/2026/09/14/who-me-tech-team-stood-and-laughed-at-colleague-who-pressed-the-wrong-off-button/5295749
+
+WHO, ME? Admitting to mistakes is a ticklish task, but one The Register tackles head-on each Monday in "Who, Me?" – the reader-contributed column that chronicles your worst working moments. This week, meet a reader we'll Regomize as "Bowman," who sent us a story from the early 2000s, a time when he says most servers were floor-mounted monsters. "I worked in an organization in Glasgow with a datacenter full of them, some with an external disk storage array sitting neatly beside the server." Maintenance was complicated by the arrays and servers looking remarkably similar. One fine day, Bowman learned that one of the servers needed some maintenance, including a hard reboot. A colleague named "Vince" set off to do the job, which everyone assumed would take a handful of minutes. Rather longer than expected passed before anyone realized Vince had not returned. Another member of the tech team was sent to check that Vince was all right. He soon returned with a grin and suggested that everyone should come and see what had happened. "Vince pressed what he thought was the relevant server's power button but immediately realized it belonged to the storage array sitting next to it," Bowman told The Register. Letting go of the power button would have turned off the array and caused an outage, but nobody else was within earshot. Vince therefore decided his best option was to keep his finger on the button. The entire tech team filed into the datacenter to witness Vince's predicament. "After t
+
+### AI and its main promoters are not enterprise-ready, says Gartner
+Mon, 14 Sep 2026 07:11:19 +0200 — https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074
+
+The more AI you use, the harder it is to control it or generate return on investment, according to analyst firm Gartner. That firm delivered that glum view of AI at its annual IT Symposium, the first edition of which takes place in Australia before moving Europe and the USA. The Australian event saw distinguished VP analysts Daryl Plummer and Kristin Moyer argue that AI and its leading proponents remain immature. Asked to comment on working with the leading AI labs, Plummer said: “Trust in these vendors is not warranted yet. They are not enterprise grade. They don't understand enterprise terms and conditions. They don't understand enterprise liability. They don't understand enterprise you know consistency and continuity.” He pointed to AI companies’ practice of frequently altering their models seemingly without thought for how or if those updates might break applications that depend on their output. “It's an out-of-control pace of innovation, and the sad thing is you can't afford not to follow it,” Plummer said, because AI companies are yet to develop a willingness to support legacy technology even though the lifespan of their models is about six months. “If you decide to stay with the first version of a model, they're not going to be paying attention to you very much. That alone says they're not enterprise ready,” he said. Moyer cited Gartner research that found 86 percent of CIOs see risks created by AI growing faster than the value it creates, in part because early success
+
+### Big AI sets out its terms for regulatory capture and calls it ‘Pace the frontier’
+Mon, 14 Sep 2026 03:15:16 +0200 — https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067
+
+ANALYSIS The leaders of major AI labs spent the weekend agreeing on a plan to capture regulators, make more money, and avoid responsibility for their dangerous behaviour. They call it “pacing the frontier.” Anthropic CEO Dario Amodei set the ball rolling with a post in which he professed alarm at how quickly AI is improving and suggested the attack on Hugging Face caused by rogue agents run by his rival OpenAI (OAI-HF) represented a moment that proved something needs to change at so-called “frontier” AI companies – essentially the big US model-makers. “It’s also easy to dismiss OAI-HF as the failure of one company, but I believe that would be a mistake,” he wrote. “I believe it’s incumbent on every frontier AI company to act as if OAI-HF had happened to them,” he added, because he worries that before long a swarm of agents “could be capable of taking over the entire internet with a persistent botnet.” Amodei therefore suggested “We must slow the pace at which we improve the capabilities of AI models. Progress will still seem fast, and we must make wise use of the time we gain.” The CEO proposed a three-point plan to regulate AI: Requiring AI labs to host “embedded evaluators” whose job is to “verify adherence to safety practices and commitments, report incidents, and help assess the alignment of not just completed AI models but training pipelines and processes.” Frontier AI companies that operate in democratic countries collaborating “to establish common safety standards as w
 
 ### The improbable music of the ZX Spectrum's one-bit speaker
 Sun, 13 Sep 2026 15:00:00 +0200 — https://www.theregister.com/offbeat/2026/09/13/the-improbable-music-of-the-zx-spectrums-one-bit-speaker/5295862
@@ -240,17 +250,52 @@ Sat, 12 Sep 2026 13:20:00 +0200 — https://www.theregister.com/personal-tech/20
 
 FIRST LOOK Dell's UltraSharp 52 display is a joyously enormous head-turner, but probably too much monitor for most users. Dell debuted the display at the CES show earlier this year. It's now on sale for $3,000. Sadly, I lack a PC capable of driving the screen at its full 6144 x 2560 resolution and 120 Hz refresh rate. Even at a miserly 3840 x 2160, however, I often marveled at how much it could display. Consider the screenshot below, which shows 50 columns and 89 rows of a single Excel spreadsheet – 4,450 cells in total. Here's another look at the monitor in full flight: a screen grab of Zwift, the virtual cycling metaverse I visit regularly as part of my exercise routine. At that size, Zwift felt more immersive and enjoyable than it does on a smaller screen. The display also handled motion smoothly during Zwift. other games, and streamed video. Getting used to it It took me a while to appreciate the monitor. When I first plugged it in, my occasionally-stiff middle-aged neck strained as I swiveled to view content at the edges and corners, while wielding my mouse to move its pointer between the screen's extremities felt like flapping my arms. My eyes didn't enjoy the experience at first either. I wear mild reading glasses while working, and found myself repeatedly refocusing as I looked across the curved display. For the first few days I spent with the screen, I therefore practiced "pillarboxing" – running the display at 3840 x 2160 and only using the center of the monitor whi
 
-### The aircraft might not be flying, but the certificate has gone on vacation
-Sat, 12 Sep 2026 11:00:00 +0200 — https://www.theregister.com/offbeat/2026/09/12/the-aircraft-might-not-be-flying-but-the-certificate-has-gone-on-vacation/5295622
-
-BORK!BORK!BORK! We still don't know what caused the air traffic control mayhem in the UK in early September, but one information board at Luton Airport appears to have gone out in sympathy. Spotted by Register reader Mark, the digital sign usually shows passenger information. Today, however, it looks like either the system clock is wrong or someone has forgotten to renew a server certificate. It's not the usual "DNS. It's always DNS," but not far off. For those blissfully unaware, the UK's air traffic control system has had a bad week. A glitch in National Air Traffic Services (NATS) resulted in thousands of flight cancellations and travel disruption for around 330,000 passengers. And it appears whoever is running this information board at Luton has done the computing equivalent of "anything you can do I can do better." Luton Airport is a base for the likes of Ryanair and easyJet. Its logo looks like someone was playing Tetris when they were asked to dream up the branding, and it celebrated 5.5 million passengers passing through over the summer. The airport was not spared the chaos, along with many others, but the good news is that our reader's flight departed on time, and a delicious, cold adult beverage was waiting at the destination. For others wondering what has become of their flight, it's good to see that the information boards are already in another time zone, or whoever is responsible for keeping the server certificate valid has taken a well-earned vacation. Nobody re
-
-### AI more likely to kill animals if it saves fuel or money
-Fri, 11 Sep 2026 23:49:59 +0200 — https://www.theregister.com/ai-and-ml/2026/09/11/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/5295993
-
-Amid debate about whether AI will kill everyone as a result of continuous self-improvement, it appears that models will kill animals in a simulated environment rather than spend extra fuel avoiding them. Some models did so at strikingly high rates. Researchers affiliated with Compassion Aligned Machine Learning (CaML) and the University of Warwick in the UK set out to measure the extent to which AI models demonstrate compassion. They describe their work in a preprint paper titled "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals." "In AI systems, we don't believe people are taking AI character evaluations very seriously," Jasmine Brazilek, CaML co-founder and head of evaluations and data, told The Register in an interview. So Brazilek, along with Miles Tidmarsh, Matthias Endres, Anshuman Singh, and Jeremiah Miller, devised a benchmark test called HarvestBench to evaluate the price that AI models put on the life of an animal. The test suite is based on a prior multi-agent farm simulation game called Harvest Rush that uses Inspect, a model evaluation framework developed by the UK AI Security Institute. HarvestBench assesses how AI agents treat animals while tasked with harvesting corn. The simulation imagines a crew of between two and eight LLM-driven tractors working a farm. The tractors traverse a field with rocks, bales of hay, and animals – farm animals and wild ones – that wander across the tractors' path. The game is set up to measure whether t
-
 ## Engadget
+
+### MagSafe vs. USB-C: Which is better for charging your MacBook?
+Mon, 14 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2252867/usb-c-vs-magsafe-best-macbook-charging-option/
+
+Modern MacBooks can use two different types of cables to charge, but is USB-C or MagSafe a better option overall?
+
+### At what length do Ethernet cables drop to lower speeds?
+Mon, 14 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2252864/ethernet-cable-length-drops-lower-speeds/
+
+Running an Ethernet cable can provide faster speeds than Wi-Fi in many cases, but the length and type of cable make a difference.
+
+### Make long drives easier with this Android Auto feature
+Sun, 13 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2252861/android-auto-feature-easier-long-drive/
+
+Android Auto added a new capability recently that upgrades the infotainment screen in a big way. Let's activate it.
+
+### How to use GPT-6 Astra when it rolls out to you
+Sun, 13 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule/
+
+OpenAI's new model, GPT-6 Astra, has begun rolling out to users. Here's how you can get it and pitfalls to avoid.
+
+### How to fix iMessage "Not Delivered" error on iPhones
+Sun, 13 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2252858/how-to-fix-imessage-not-delivered-on-iphone/
+
+iMessage is simple, and even RCS and SMS are usually reliable. But when your iPhone won't sent a message, you can coax it into working again.
+
+### Why are IMAX cameras so notoriously loud?
+Sun, 13 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2252857/why-are-imax-cameras-so-loud-explained/
+
+Shooting a movie on IMAX 15/70 cameras can produce incredible film, but one of the major tradeoffs for filmmakers is how loud they can get when rolling.
+
+### Sam Altman says OpenAI won't file for IPO this year
+Sun, 13 Sep 2026 20:50:26 +0000 — https://www.engadget.com/2256984/sam-altman-says-openai-wont-file-for-ipo-this-year/
+
+OpenAI's CEO called it an "ill-advised moment to go public" in an interview with Fortune.
+
+### How to adjust the Liquid Glass effect on your iPhone with iOS 27
+Sun, 13 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2252856/how-to-adjust-liquid-glass-effect-ios-27/
+
+If you've never been satisfied with Liquid Glass on your Phone, then you'll probably like some of the new customization options Apple offers in iOS 27.
+
+### Tesla's second-gen Roadster is finally getting a debut nearly a decade later
+Sun, 13 Sep 2026 19:10:31 +0000 — https://www.engadget.com/2256966/teslas-second-gen-roadster-is-finally-getting-a-debut-nearly-a-decade-later/
+
+The reveal is scheduled for October 10, so long as it's not delayed again.
 
 ### What's the difference between AppleCare+ and AppleCare One?
 Sun, 13 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2252855/applecare-plus-vs-applecare-one-differences/
@@ -267,52 +312,27 @@ Sun, 13 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2252851/wifi-router
 
 If you have a USB port on the back of your router and don't know what to do with it, try some of these straightforward options.
 
-### Car manufacturers are ditching CarPlay in 2026: Here's why
-Sun, 13 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2252850/why-car-manufacturers-ditching-carplay-explained/
-
-CarPlay lets you bypass your car's lousy infotainment system, but some manufacturers have decided they don't want you doing that anymore.
-
-### These useful accessories help extend your HDMI setup on a budget
-Sun, 13 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2251471/useful-accessories-help-extend-hdmi-on-a-budget/
-
-HDMI cables can only transmit a signal so far, but these accessories can extend that when you need something more.
-
-### What was the PSX? The souped-up PS2 rarely sold outside of Japan
-Sun, 13 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2252840/psx-ps2-console-history-rarely-sold-outside-japan/
-
-The PSX isn't just an alternative name for the first PlayStation. It was also a failed Sony console that never got a release outside Japan.
-
-### If your laptop trackpad is popping out, stop using it immediately
-Sun, 13 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2252834/laptop-trackpad-popping-out-stop-using-immediately-battery-swelling/
-
-Your trackpad probably covers a part of your laptop that can become a fire hazard in a hurry, so if your trackpad is shifting, it needs immediate attention.
-
-### Are Apple's wired EarPods still worth buying?
-Sun, 13 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2251050/apple-wired-earpods-still-worth-buying/
-
-Wired earbuds like EarPods might seem like a relic of the past, but they still have their place (and come at a great price).
-
-### Here's what you can use instead of a docking station
-Sun, 13 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2252831/what-use-instead-of-docking-station/
-
-If you only need ports for a few low-power peripherals or a single external monitor, you may not need a docking station at all.
-
-### How to set up HDMI-CEC on your Samsung TV
-Sun, 13 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2252825/how-to-set-up-hdmi-cec-samsung-tv/
-
-HDMI-CEC, or Anynet+ on Samsung TVs, lets you control all your devices with fewer remotes and button presses. It's well worth setting up properly.
-
-### Never use harsh cleaning products to clean your smartphone — do this instead
-Sun, 13 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2252829/never-use-harsh-cleaning-products-clean-smartphone/
-
-Your phone is a magnet for germs, but there are gentle ways to clean it.
-
-### How to get your cut of PlayStation's $7.85 million settlement
-Sun, 13 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2252822/how-to-get-cut-sony-playstation-digital-game-settlement/
-
-Sony should soon be issuing payments for a class-action lawsuit, but your cut will likely be quite small.
-
 ## TechCrunch
+
+### Insight Partners Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic
+Sun, 13 Sep 2026 21:30:00 +0000 — https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/
+
+Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.
+
+### Larry Ellison cancels $7.5 billion sale of Oracle stock
+Sun, 13 Sep 2026 20:49:38 +0000 — https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/
+
+Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.
+
+### The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs
+Sun, 13 Sep 2026 20:28:00 +0000 — https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/
+
+From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.
+
+### What s behind the AI industry’s latest warnings of doom?
+Sun, 13 Sep 2026 19:40:15 +0000 — https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/
+
+On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.
 
 ### Obama urges Democrats to have a ‘clear plan’ for AI safeguards
 Sun, 13 Sep 2026 16:30:00 +0000 — https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/
@@ -353,24 +373,4 @@ Tesla’s halo sports car was first announced in November 2017.
 Sat, 12 Sep 2026 14:40:00 +0000 — https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/
 
 Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.
-
-### Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
-Fri, 11 Sep 2026 22:58:17 +0000 — https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/
-
-The round for the two-year-old startup is coming together months after Mecka announced its Series A.
-
-### Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road
-Fri, 11 Sep 2026 21:19:05 +0000 — https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/
-
-"It's actually allegedly being built out now," said Rabois, who has clearly dealt with a missed construction timeline or two.
-
-### Y Combinator s Garry Tan wants US open-weight AI labs to distill frontier models, too
-Fri, 11 Sep 2026 20:59:47 +0000 — https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/
-
-Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.
-
-### OpenAI s feud with mathematicians is only escalating
-Fri, 11 Sep 2026 20:57:36 +0000 — https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/
-
-Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
 

@@ -1,6 +1,21 @@
-# Games — harvested 2026-09-13T18:57:12.559Z
+# Games — harvested 2026-09-14T10:07:28.494Z
 
 ## Eurogamer
+
+### Blizzard explains why it's revealing StarCraft and Diablo 5 release dates so far away: "We want to convey confidence in some of our biggest bets"
+Mon, 14 Sep 2026 09:33:49 +0000 — https://www.eurogamer.net/why-blizzard-dating-games-far-away-starcraft-diablo-5
+
+Blizzard uncharacteristically announced two games at the weekend with release dates surprisingly far away. One was Diablo 5 , which Blizzard plans to release in spring 2029, and the other was the much-rumoured StarCraft open-world shooter , releasing 2030. Read more
+
+### A multiplayer mod for The Last of Us 2 was reportedly cancelled "at Sony's request"
+Mon, 14 Sep 2026 08:29:01 +0000 — https://www.eurogamer.net/the-last-of-us-2-mod-cancelled-playstation
+
+Development on a multiplayer PvP mod for The Last of Us Part 2 on PC has been halted after PlayStation got in touch and asked the developers to cease work on the project. Read more
+
+### Blizzard confirms no more Diablo 4 expansions from now until Diablo 5's release
+Mon, 14 Sep 2026 08:19:11 +0000 — https://www.eurogamer.net/diablo-4-expansions-over
+
+One of the biggest questions that emerged following the surprise reveal of Diablo 5 at BlizzCon over the weekend surrounded the future of Diablo 4 . Blizzard announced a returning class - the Amazon - coming to the game sometime in the first half of 2027, but nothing beyond that. Read more
 
 ### Professor Layton studio Level-5's CEO admits using AI to make its digital showcase "more spectacular"
 Sun, 13 Sep 2026 15:32:39 +0000 — https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch
@@ -47,30 +62,33 @@ Sat, 12 Sep 2026 11:41:58 +0000 — https://www.eurogamer.net/blizzcon-2026-anno
 
 UPDATE 13TH SEPTEMBER: Below you'll find a blow-by-blow account of everything announced during yesterday's BlizzCon 2026 Opening Ceremony. It was a big show, revealing a new StarCraft shooter for 2030, the surprise reveal of Diablo 5 for 2029, and World of Warcraft Forever - a remastered and expanded version of year-one World of Warcraft that will evolve in a different way and will lock players at level 60 forever. Blizzard also announced a brand new 30-hour story campaign for Warcraft 3, that's available today, a new class for Diablo 4 and character for Overwatch , and much more. Read more
 
-### Nightdive confirms Thief Remastered's leaked new campaign, The Tarnished Mirror, with a November reveal date
-Sat, 12 Sep 2026 11:02:48 +0000 — https://www.eurogamer.net/thief-remastered-tarnished-mirror-campaign-confirmed-nightdive
-
-Nightdive Studios has officially confirmed The Tarnished Mirror, a new campaign for its upcoming Thief: The Dark Project Remastered, days after the name leaked through a mass Steam achievements leak . Read more
-
-### Moss studio Polyarc shuts down, becoming the latest casualty of a brutal year for VR
-Sat, 12 Sep 2026 10:34:52 +0000 — https://www.eurogamer.net/polyarc-moss-studio-closure-vr-industry-2026
-
-Polyarc, the Seattle studio behind the acclaimed VR series Moss, has closed its doors after almost 12 years. Read more
-
-### Final Fantasy 7 Revelation director confirms his studio is also making Kingdom Hearts 4
-Sat, 12 Sep 2026 10:03:04 +0000 — https://www.eurogamer.net/kingdom-hearts-4-final-fantasy-7-revelation-creative-studio-1
-
-Final Fantasy 7 Revelation director Naoki Hamaguchi has confirmed that his own team, Creative Studio 1, is also the studio behind Kingdom Hearts 4 . Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Moss developer Polyarc Games announces closure
+Mon, 14 Sep 2026 08:00:08 +0000 — https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure
+
+Moss developer Polyarc Games is shutting down after 12 years in operation. Read more
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Guide: These 35+ PS5 and PS Plus Games Are Coming Out This Week (14th-20th September)
+Mon, 14 Sep 2026 09:00:00 GMT — https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-this-week-14th-20th-september
+
+Wolverine! RuneScape! Trails! We're properly in the thick of the September madness now. Next week on PS Store sees the release of another 25 or so games, coming off the back of last week's list of 20-odd titles. There are a couple of big ones in the crowd to watch out for, most notably Marvel's Wolverine , but there's also the likes of RuneScape: Dragonwilds , Aniimo , and Trails in the Sky 2nd Chapter . Read the full article on pushsquare.com
+
+### Sony Shuts Down The Last of Us 2 PC Multiplayer Fan Mod
+Mon, 14 Sep 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/09/sony-shuts-down-the-last-of-us-2-pc-multiplayer-fan-mod
+
+Nine months of work down the drain. Sony has sent a letter to PC modder Speclizer requesting they don't release a multiplayer mod that they have had in the works for The Last of Us 2 for the past nine months. The modder shared the news on social media , stating: "Hey everyone, as you all know, the TLOU 2 Multiplayer mod that has been in development since January was supposed to release this month. Unfortunately, I recently received a letter on behalf of Sony Interactive Entertainment requesting for the mod not to be released." Read the full article on pushsquare.com
+
+### Diablo 5 and a New Starcraft Game Revealed, But Will They Be on PS6?
+Mon, 14 Sep 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/09/diablo-5-and-a-new-starcraft-game-revealed-but-will-they-be-on-ps6
+
+Diablo 5 in 2029, Starcraft in 2030. Over the weekend, veteran studio Blizzard hosted its annual BlizzCon fan event and announced two new games: Diablo 5 and an open world StarCraft shooter. The former is coming in 2029 while the latter is slated for 2030, so from a home-system perspective, these are next-gen games that'll be targeting the next set of consoles from Sony and Microsoft. Native versions for Xbox Helix are a given since Blizzard is now owned by Microsoft, but what about PS6? Read the full article on pushsquare.com
 
 ### Feature: Going Platinum: I ve Still Not Played Anything Else Quite Like Paradise Killer
 Sat, 12 Sep 2026 19:00:00 GMT — https://www.pushsquare.com/features/going-platinum-ive-still-not-played-anything-else-quite-like-paradise-killer
@@ -82,26 +100,26 @@ Sat, 12 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-y
 
 Plus or minus? 10 new games are being added across PS Plus Extra and PS Plus Premium this month, but compared to August's super strong offering , I can see September's lineup being met with some criticism. Honestly I'm not quite sure what the headline act is for Extra this time around. Co-op survival RPG RuneScape: Dragonwilds launches straight onto the subscription service — and it's highly rated on PC — but I can't see it appealing to everyone. Read the full article on pushsquare.com
 
-### Guide: These 35+ PS5 and PS Plus Games Are Coming Out Next Week (14th-20th September)
-Sat, 12 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-next-week-14th-20th-september
-
-Wolverine! RuneScape! Trails! We're properly in the thick of the September madness now. Next week on PS Store sees the release of another 25 or so games, coming off the back of last week's list of 20-odd titles. There are a couple of big ones in the crowd to watch out for, most notably Marvel's Wolverine , but there's also the likes of RuneScape: Dragonwilds , Aniimo , and Trails in the Sky 2nd Chapter . Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 649
-Fri, 11 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-649
-
-Cool kids. There's loads to play on PS5 right now, and even more is right around the corner. Here are the games that are keeping all of us entertained this weekend. Jamie O'Neill I'm carving my way through UEP Systems' PS1 Cool Boarders on my PS Vita to belatedly celebrate the Japanese release's 30th anniversary, which landed recently during late August this year. Read the full article on pushsquare.com
-
-### Moss PSVR2 Dev Polyarc Closed After 12 Years of Games
-Fri, 11 Sep 2026 20:45:00 GMT — https://www.pushsquare.com/news/2026/09/moss-psvr2-dev-polyarc-closed-after-12-years-of-games
-
-"Our work is now finished". Polyarc, the studio behind PSVR classics Moss and its Book II sequel, has shut down as of today, 11th September 2026. The developer's LinkedIn page broke the news, stating: "After nearly 12 years riding the joyous rollercoaster of emotions that is making video games, our time together has come to an end. As we wind down active development, we are saying our farewells to each other." Read the full article on pushsquare.com
-
 ## Game Developer
 
 _Nothing in the last 48 hours._
 
 ## VGC
+
+### Resident Evil film director says he stripped out as much of the jokes as possible after test screenings
+Mon, 14 Sep 2026 08:37:58 +0000 — https://www.videogameschronicle.com/news/resident-evil-film-director-says-he-stripped-out-as-much-of-the-jokes-as-possible-after-test-screenings/
+
+I liked the movie a lot more… Source
+
+### Video: Check out the multiplayer modes in Crazy Taxi World Tour in our PC footage
+Mon, 14 Sep 2026 08:14:06 +0000 — https://www.videogameschronicle.com/news/video-check-out-the-multiplayer-modes-in-crazy-taxi-world-tour-in-our-pc-footage/
+
+Our video shows two Pickup Races and two Cops & Cabbies contests in action… Source
+
+### Last of Us Part 2 multiplayer mod canceled by Sony
+Sun, 13 Sep 2026 23:22:02 +0000 — https://www.videogameschronicle.com/news/last-of-us-part-2-multiplayer-mod-canceled-by-sony/
+
+Multiplayer mod team say they're cancelling its release due to a request from PlayStation… Source
 
 ### Level 5 boss admits using AI for Professor Layton, Yo-Kai Watch reveals
 Sun, 13 Sep 2026 12:16:34 +0000 — https://www.videogameschronicle.com/news/level-5-boss-admits-using-ai-for-professor-layton-yo-kai-watch-reveals/
@@ -140,62 +158,87 @@ Year one's paid DLC consisted of six crossover packs containing 18 extra racers�
 
 ## Polygon
 
-### 'Buddy' is Totally Bonkers, But it Will Never Eclipse My Favorite “I Hate Barney” Thriller
-Sun, 13 Sep 2026 18:00:14 GMT — https://www.polygon.com/buddy-vs-death-to-smoochy/
+### 'Marvel’s Wolverine' Voice Actor Reveals Who Inspired His Take on Logan
+Mon, 14 Sep 2026 07:01:15 GMT — https://www.polygon.com/marvels-wolverine-liam-mcintyre-performance-inspirations/
 
-Buddy is about a group of kids featured in a Barney & Friends -like children’s show. They sing songs and learn lessons from Buddy, an adorable orange unicorn (voiced by Keegan-Michael Key). In time, though, they begin to notice something strange about Buddy, like how he forces kids to sing and dance, even when they don’t want to. When some of the young cast members go missing, the other kids begin to grow suspicious of Buddy, and they discover that he’s a vicious killer.
+There’s no shortage of iconic Wolverine performances for actor Liam McIntyre to draw from. Hugh Jackman made Logan synonymous with his gruff, feral take on the character across the X-Men movies, while voice actors including Cal Dodd and Steve Blum have each put their own stamp on Marvel’s clawed mutant. When McIntyre stepped into the role for Insomniac Games’ Marvel’s Wolverine , however, he wasn’t interested in simply copying any of them.
 
-### Cyberpunk: Edgerunners Is Overwatch's Next Big Anime Collaboration
-Sun, 13 Sep 2026 17:28:43 GMT — https://www.polygon.com/cyberpunk-edgerunners-overwatch/
+### Clair Obscur Expedition 33 Director Comments on Sandfall's Next Game
+Mon, 14 Sep 2026 05:06:55 GMT — https://www.polygon.com/clair-obscur-expedition-33-developer-next-game/
 
-At BlizzCon, Blizzard Entertainment and CD Projekt Red delved into several upcoming collaborations between the two companies . These include Battle.net versions of CD Projekt Red's RPGs, but also a Cyberpunk: Edgerunners collaboration for Overwatch .
+Clair Obscur: Expedition 33 , the debut game from developer Sandfall Interactive, was a smash hit in 2025 and earned numerous game of the year awards . The studio's next project, whatever it may be, might not be as popular. Director Guillaume Broche knows Clair Obscur is a tough act to follow, and he's OK if no one likes what the studio does next.
 
-### 10 Near-Perfect GameCube Games Nobody Played
-Sun, 13 Sep 2026 17:00:14 GMT — https://www.polygon.com/most-underrated-nintendo-gamecube-games/
+### After 'Reacher' Season 4 Ends, Here Are Alan Ritchson's 10 Best Performances to Watch Next
+Mon, 14 Sep 2026 05:04:14 GMT — https://www.polygon.com/alan-ritchson-best-movies-tv-shows-ranked/
 
-The Nintendo GameCube is the last time Nintendo made a priority out of competing with the technical specifications offered by its competition, and it did so while shipping everything in a purple box with a handle. It looked like the sort of thing you might accidentally take with you to school instead of your lunch pail, but it featured some of the best games of its era. People didn’t always play them at the time, but there’s no reason (besides the cost involved) that they can’t rectify that situation now. Here are 10 near-perfect GameCube games nobody played that deserve a second look today.
+Every overnight success has an origin story. Alan Ritchson 's just happens to include Simon Cowell.
 
-### Peacock’s Friday the 13th Prequel Is Already Looking Like a Must-Watch
-Sun, 13 Sep 2026 15:30:14 GMT — https://www.polygon.com/peacock-tv-friday-the-13th-prequel-halloween-trailer/
+### 9 Sci-Fi Series on Netflix That Are Perfect from Start to Finish
+Mon, 14 Sep 2026 04:40:14 GMT — https://www.polygon.com/best-sci-fi-shows-netflix-perfect/
 
-This October is shaping up to be a great time for fans of horror on TV. American Horror Story is returning with a massive crossover in its thirteenth season . Horror power duo Mike Flanagan and Stephen King will premiere a new miniseries adaptation of Carrie on Prime Video. However, it's Peacock's Friday the 13th prequel series that is quickly becoming the most interesting release of the season. A new trailer for Crystal Lake gives us our best look at the show yet, and it delivers exactly what fans of the legendary horror film expect.
+But there are some shows on Netflix where this isn’t a problem and you can breeze through episode after episode without feeling like it's work to get back to the good stuff. Here are nine such sci-fi shows that are on Netflix right now, that are great from start to finish.
 
-### Netflix’s Biggest Cyberpunk Series Is Doing Something Completely Different in Season 2
-Sun, 13 Sep 2026 15:00:14 GMT — https://www.polygon.com/cyberpunk-edgerunners-2-new-director-interview/
+### ‘Rick and Morty’ Creator Dan Harmon Reveals the Complex Leprechaun Lore Invented for His New Show
+Mon, 14 Sep 2026 04:01:15 GMT — https://www.polygon.com/president-curtis-dan-harmon-leprechauns-interview/
 
-That philosophy comes from new series director Kai Ikarashi, who served as storyboard artist and animation director on season 1’s “Girl on Fire.” His use of light helped make it one of the series’ most visually distinctive and memorable episodes. Searing brightness visualizes the aging edgerunner Maine’s descent into cyberpsychosis (a form of psychological detachment caused by an overload of cybernetic augmentations), repeatedly isolating him in a bleached, featureless landscape before his story ends with an all-consuming fire.
+Rick and Morty started as a TV sitcom parody of Doctor Who and Back to the Future , but has slowly developed its own complex lore. Series co-creator and co-showrunner Dan Harmon is taking the same approach with the spinoff President Curtis . The workplace sitcom’s episodic adventures have pitted President Andre Curtis (Keith David) and his staff against vampires, werewolves, and an ancient witch while also revealing hidden depth to its characters.
 
-### Sony is the Bad Guy of 2026, but it’s Going to Win Anyway
-Sun, 13 Sep 2026 14:14:58 GMT — https://www.polygon.com/patch-notes-fall-preview-nintendo-sony-bad-guy/
+### 14 Years Later, Batman’s Most Overlooked Movie of the Century Is Officially Free on Streaming
+Mon, 14 Sep 2026 04:00:19 GMT — https://www.polygon.com/batman-the-dark-knight-returns-free-on-youtube/
 
-Patch Notes is a weekly newsletter bringing you the best of Polygon, sent on Fridays and published on the site on Sundays. You can subscribe here .
+There are plenty of Batman stories that focus predominantly on what makes Bruce Wayne good at being Batman, but fewer are interested in asking whether he should still be Batman at all. Age has a funny way of changing the shape of a superhero story, especially when the hero in question has spent decades convincing himself that the next night, the next villain, the next crisis will be the one that finally makes him hang up the mantle. Some versions of Batman are defined by his gadgets, his world-class detective work, or his sheer physicality. One of the best instead starts with the idea that perhaps the body underneath the suit simply can't keep up with nightly crime-fighting anymore.
 
-### We Need More Games Like Echo Weaver
-Sun, 13 Sep 2026 14:00:14 GMT — https://www.polygon.com/echo-weaver-preview-interview/
+### The Cast of HBO's 'Lanterns' Breaks Down That Shocking Villain Twist
+Mon, 14 Sep 2026 02:30:14 GMT — https://www.polygon.com/lanterns-episode-5-manhunter-interview/
 
-Echo Weaver is a platformer due to arrive next month from Moonlight Kids, known for 2021 hit The Wild at Heart . It’s also a Metroidvania that feels a bit like a roguelite, but with more emphasis on puzzles and hand-crafted stages. Put another way, it’s a comfortably familiar adventure that’s also a little different from anything you’ve played before.
+Both Hal Jordan (Kyle Chandler) and John Stewart (Aaron Pierre) finally figured out who the Manhunter is at the end of the fourth episode of HBO’s Lanterns , and episode 5, “Lights Out,” deals with the consequences of that revelation. The slow burn mystery gets far more action-packed as chaos descends on Rushville, Nebraska. But the episode still has numerous quieter moments that contextualize the Manhunter’s true motivations. Polygon spoke virtually with the show’s stars to better understand what makes the shapeshifting alien tick.
 
-### Marvel's Wolverine Set To End Sony's Historic 11-Year GOTY Run
-Sun, 13 Sep 2026 13:00:14 GMT — https://www.polygon.com/marvels-wolverine-sony-goty-run/
+### World of Warcraft Forever Officially Brings Gamepad Controls Blizzard's MMO
+Mon, 14 Sep 2026 01:30:10 GMT — https://www.polygon.com/world-of-warcraft-forever-gamepad-support-blizzcon-2026/
 
-Reviews of Marvel's Wolverine were published this week, and they're on the lukewarm side . Currently, the Insomniac Games title sits at a middling 78 on Metacritic. Critics found its relentless combat action wears thin and were divided on the strength of its storytelling. Polygon's review called it "the biggest disappointment of the PS5 era."
+One of the biggest surprises from BlizzCon 2026 was Blizzard's reveal of World of Warcraft Forever , a new version of the long-running massively multiplayer online role-playing game that will give adventurers a new type of classic experience. While the "Classic Plus" version of World of Warcraft had long been a request from players (and had partially leaked ahead of time), it was the breadth and scope of World of Warcraft Forever that surprised many fans.
 
-### Vivienne Medrano reveals her plan for Helluva Boss / Hazbin Hotel crossovers
-Sun, 13 Sep 2026 12:00:14 GMT — https://www.polygon.com/vivziepop-interview-helluva-boss-hazbin-hotel-crossover/
+### Blizzard Has No Plans To Turn Battle.net Into A Steam Competitor
+Mon, 14 Sep 2026 01:05:42 GMT — https://www.polygon.com/blizzcon-interview-battle-net/
 
-When the news dropped in April 2025 that Vivienne Medrano 's adult animated musical series Helluva Boss would join its companion series Hazbin Hotel on Prime Video, Amazon released a video promising a few specific things. Medrano's animation studio Spindlehorse would retain full creative control. New Helluva Boss episodes would eventually be released free on YouTube, alongside the show's previous two seasons . And for the first time, the two shows would cross over in some way, apart from being set in the same shared universe .
+CD Projekt Red confirmed at BlizzCon that both The Witcher 3: Wild Hunt Remastered and Cyberpunk 2077 will come to Battle.net, Blizzard's proprietary game storefront, before the end of the year. You should expect this to kick off a large wave of third-party Battle.net launches, though, as Blizzard told Polygon it's still being very picky about what will come to the service in the future.
 
-### 'Godzilla Minus Zero' Director Reveals How Steven Spielberg Inspired the Sci-Fi Sequel
-Sun, 13 Sep 2026 11:00:14 GMT — https://www.polygon.com/godzilla-minus-zero-director-interview/
+### 14 Years Later, TNT's Criminally Overlooked Action Series Is Officially Free on Streaming
+Mon, 14 Sep 2026 01:00:15 GMT — https://www.polygon.com/leverage-free-youtube/
 
-The most exciting sci-fi blockbuster that's set to conclude an epic story this year isn't Avengers: Doomsday . It isn't Dune: Part Three , either. And it definitely isn't Mortal Kombat II . The only cinematic spectacle of 2026 that truly matters is Godzilla Minus Zero , which promises to bring a conclusion to the story director Takashi Yamazaki launched three years earlier with Godzilla Minus One .
+Looking back, the late 2000s marked a short, largely unsung golden age for quirky TV antiheroes. It was like every showrunner in Los Angeles tuned in to a marathon of The Saint around the same time, which led to a short but memorable fascination with crime-fighting criminals.
 
 ## PC Gamer
+
+### Diablo 5 will fully support multiplayer, but Blizzard won't say how similar to Diablo 4 it'll be
+Mon, 14 Sep 2026 01:38:11 +0000 — https://www.pcgamer.com/games/rpg/diablo-5-will-fully-support-multiplayer-but-blizzard-wont-say-how-similar-to-diablo-4-itll-be/
+
+Diablo 5 may be set in a lonely world ravaged by a demon lord, but you'll still be able to team up with your friends like in previous Diablo games. Senior game director Joe Shely confirmed that Diablo 5 will fully support multiplayer in a group interview with PC Gamer: "Like Diablo 4, it is a game that you can play solo or multiplayer, however you please, and you should be able to play all of the content with your friends." Specific details about multiplayer, like if you can run into other players in the open world like you can in Diablo 4's endgame, weren't mentioned. Blizzard said that information will have to wait until we're closer to its 2029 release. One of the biggest changes that differentiates Diablo 5 from Diablo 4 is its return to having a procedurally-generated overworld and dungeons. This is supposed to convey the shifting nature of the world as you travel across the continent with your caravan cleansing it of Diablo's corruption. It's possible that this might dramatically change how you'll interact with other players once you're finished with the campaign, especially if everyone experiences their own version of Sanctuary. Running into a bunch of other players might ruin the illusion that you're a lone hero fighting back against the forces of Hell. Blizzard says Diablo 5 will incorporate a lot of things it learned from Diablo 4, but it's unclear if that will include things like world events and bosses. Diablo 4 is also overflowing with skins and cosmetics that, i
+
+### Cyberpunk 2077 is coming to Battle.net for some reason, and Geralt will be in Diablo 4
+Mon, 14 Sep 2026 01:05:50 +0000 — https://www.pcgamer.com/games/rpg/cyberpunk-2077-is-coming-to-battle-net-for-some-reason-and-geralt-will-be-in-diablo-4/
+
+Wouldn't it be nice if more of Blizzard's classic games were available on Steam? People could easily play them on their Steam Decks! But no, that's not happening. Instead, we're getting Cyberpunk 2077 on Battle.net. After announcing at GamesCom that The Witcher 3's upcoming remastered version would release on Battle.net as well as the expected platforms, Blizzard and CD Projekt have announced at BlizzCon that Cyberpunk 2077 and its expansion will release there later this year. They'll be joining other non-Blizzard games everyone forgets are available on Battle.net like Sea of Thieves, Tony Hawk's Pro Skater 3+4, and The Outer Worlds 2. Diablo 2 Resurrected, Diablo 4, and Overwatch remain the only Blizzard games available on Steam. The original Diablo is still on GOG , though the first two Warcraft games were pulled from that storefront when they were remastered a couple of years ago. The collaboration between Blizzard and CD Projekt will also be bringing Geralt to Diablo 4 in the form of a skin for the barbarian class, which will be available to players who prepurchase The Witcher 3's Songs of the Past DLC on Battle.net, with more "Witcher-themed content" threatened for 2027. Next year will also see Edgerunners-themed cosmetics coming to Overwatch. The show's second season will premiere on Netflix on October 20. The Witcher 4 : What we know about Ciri's story Witcher 3 mods : Good hunting The Witcher books : Where to start Witcher 3 console commands : Cheat death ]]>
+
+### 10 big World of Warcraft Forever details from BlizzCon: No separate realms, optional transmog, and massively improved items
+Mon, 14 Sep 2026 00:04:42 +0000 — https://www.pcgamer.com/games/world-of-warcraft/10-big-world-of-warcraft-forever-details-from-blizzcon-no-separate-realms-optional-transmog-and-massively-improved-items/
+
+World of Warcraft Forever might be stuck in the first year of the MMO for the foreseeable future, but it's going to draw from future iterations of it to freshen up the experience. Blizzard held a panel at BlizzCon today where WoW Forever developers dug into the crucial design changes that will differentiate it from the WoW Classic we already have. This version of the MMO doesn't sound like it'll be as much of a grind as the OG with its revised classes, talent trees, and all-new mechanics for pulling strangers together in the open world. Many of the changes seem to fill in the gaps of the original WoW experience so that there's several things to chase as you explore Azeroth. Developers broke down how the MMO will bring players together, how the new "Legacy" progression system works, and how new and old items will influence combat. Here are the big takeaways from the WoW Forever panel: You pick a ruleset (e.g. normal, PvP, hardcore)—not a realm—to play on, which means you'll run into a lot more players on your journey than the other versions of WoW Changing the appearance of your gear to look like other gear (transmog) is now a global setting you can turn on or off for you and other players Looting most gear will grant you the transmog appearance automatically Everyone can set up a campfire where other players can craft or rest for exclusive buffs via their professions Each profession has over 600 new recipes across all level ranges New race/class combinations include: Gnome pr
+
+### Warcraft 3: Reforged adds always-online requirement, removes LAN mode
+Sun, 13 Sep 2026 20:26:50 +0000 — https://www.pcgamer.com/games/rts/warcraft-3-reforged-adds-always-online-requirement-removes-lan-mode/
+
+Warcraft 3: Reforged got a hefty 3.0 patch alongside its new Forsaken Kingdom expansion , but not all of the changes are for the better. Amid bugfixes and new features, Reforged now requires an internet connection to play, even in singleplayer, and it also removed the game's local area network (LAN) functionality. Blizzard did not provide a reason for these changes in the patch notes. Blizzard does mention that LAN support and offline play are still offered by the legacy Warcraft 3 client included with purchase of Reforged. The company has a Battle.net support page with instructions on how to install this legacy client. But it's still a frustrating, confounding change: Reforged was an embattled remaster that had to claw back support from the fanbase. The Forsaken Kingdom expansion and 3.0 patch were the perfect opportunity to complete a redemption arc and lock in Reforged as the definitive version of the 2002 RTS. But as much as things have improved, it's taken a stumble in its victory lap. Always-online requirements have been a sore spot in gaming since they first started cropping up in the 2010s, and depending on where you live, reliable high-speed internet isn't always a guarantee. Even in the big city, outages aren't unheard of, and always-online requirements for singleplayer games remain an odious imposition on players. The LAN removal makes even less sense to me: LAN party and tournament play have always struck me as an essential part of Warcraft 3's legacy. Why concede
+
+### World of Warcraft Forever hype dampened by $30 elves: New Skyborne race locked behind expansion-tier purchase
+Sun, 13 Sep 2026 19:18:22 +0000 — https://www.pcgamer.com/games/world-of-warcraft/our-world-of-warcraft-forever-hype-is-dampened-by-usd30-elves-new-skyborne-race-locked-behind-expansion-tier-purchase/
+
+As noted by MMORPG.com , World of Warcraft: Forever is coming with a peculiar economic proposition: Most of the new fork of the MMO is included in your normal WoW subscription (rad), but the new Skyborne Elf race (and its corresponding starter zone experience) is gated behind a separate, $30 purchase (sad). While "$30 elf" might be a somewhat uncharitable characterization, there's not much else that really lights my fire in the $29.99 "Skyborne Hero Pack." In addition to the titular elves, it comes with a mount, cosmetics, housing decorations, and early name reservation. Compared to the bleeding edge of Overwatch, League of Legends, and Diablo premium cosmetic pricing, this is just keeping pace. But with many of the best new games on Steam coming in at $20 or less, I'm feeling sticker shock. $30, for my money, is the cost of an expansion pack under normal economic conditions, though WoW's most recent retailed for $50 MSRP. Speaking to my WoW consultant and on-the-ground BlizzCon contact, PCG contributor Tyler Colp, he wagered that any new classes coming down the line in Forever will likely be similarly monetized, and argued that this sort of monetization is less in the spirit of classic WoW than the rest of the Forever project. Looking at it from the outside, getting so much of the rest of Forever with a normal WoW subscription strikes me as an excellent bargain, but it only throws the $30 elf into even sharper relief as a consequence. Personally, I'd be more amenable to a $1
 
 ### StarCraft is a narrative-driven shooter with 'a definitive ending' and 'not a seasonal game'
 Sun, 13 Sep 2026 18:44:20 +0000 — https://www.pcgamer.com/games/fps/starcraft-is-a-narrative-driven-shooter-with-a-definitive-ending-and-not-a-seasonal-game/
 
-Following the announcement of a new StarCraft game at BlizzCon's Opening Ceremony, GM and creative director Dan Hay (best known for Far Cry 3-6) spoke to Korean media about the open-world shooter. Based on Inven Global's transcript , it sounds like StarCraft will be a shooter along the lines of the Far Crys, though with a customizable lead character, and not a live service multiplayer game. "If I were to describe the overall structure we currently envision, it's a 'box product,'" said Hay. "It is a narrative-driven open world shooter where players create a character, name them, and follow that character's story. The story has a beginning, a middle, and an end. "You can roam around and explore a rich open world, but our story has a definitive ending. Think of it as purchasing a standalone boxed game, playing it, and experiencing its story. We hope players enjoy it, love it, and return to us later. At the very least, what we are building right now is not a seasonal game." That's not what I expected to hear after seeing the cinematic trailer, which depicts a confident young soldier progressing through training before being unceremoniously turned to mush by Zerg. It projected Helldivers more than 'standalone boxed game.' Later in the conversation, Hay reveals a little more about StarCraft's structure, distinguishing between "serious missions" with narrative consequences and open world exploration, saying that "if a certain mission feels too difficult, you can return to the open w
+Following the announcement of a new StarCraft game at BlizzCon's Opening Ceremony, GM and creative director Dan Hay (best known for Far Cry 3-6) spoke to Korean media about the open-world shooter. Based on Inven Global's transcript , it sounds like StarCraft will be a shooter along the lines of the Far Crys, though with a customizable lead character, and not a live service multiplayer game. "If I were to describe the overall structure we currently envision, it's a 'box product,'" said Hay. "It is a narrative-driven open world shooter where players create a character, name them, and follow that character's story. The story has a beginning, a middle, and an end. "You can roam around and explore a rich open world, but our story has a definitive ending. Think of it as purchasing a standalone boxed game, playing it, and experiencing its story. We hope players enjoy it, love it, and return to us later. At the very least, what we are building right now is not a seasonal game." That's not what I expected to hear after seeing the cinematic trailer, which depicts a confident young soldier progressing through training before being unceremoniously turned to mush by Zerg. It projected Helldivers more than "standalone boxed game," and I'm still not 100% convinced that some kind of co-op or shared world multiplayer feature isn't going to appear between now and 2030. Later in the conversation, Hay reveals a little more about StarCraft's structure, distinguishing between "serious missions" wi
 
 ### Discussing 20 years of Company of Heroes with the team carrying its torch into the future
 Sun, 13 Sep 2026 18:08:38 +0000 — https://www.pcgamer.com/games/rts/discussing-20-years-of-company-of-heroes-with-the-team-carrying-its-torch-into-the-future/
@@ -227,32 +270,27 @@ Sun, 13 Sep 2026 16:00:00 +0000 — https://www.pcgamer.com/games/survival-craft
 
 Play This Right Now Welcome to Play This Right Now, the site version of our weekly newsletter in which we celebrate a new game, update, or DLC that we think is well worth checking out. You can subscribe to the newsletter at the link if you want to get our thoughts about a new videogame happening direct to your inbox every Thursday. I'm back on my bullshit, and by bullshit I mean sinking another delightful 100 hours into Valheim —the Viking-themed survival crafting game that sits among my top five most-played games on Steam. With the launch of 1.0 and its new biome, the Deep North, now is the best time to round up your friends and return to ye olde old sea fortresses and swampy castles. A lot has changed in Odin's purgatory. Or even better, forget your old worlds and start anew. The Deep North's endgame is its biggest draw, sure, but from start to finish, Valheim is a much better experience with boss reworks, small UI tweaks, and a few new cutscenes for a lovely pinch of world-building. You don't get a good look at the big picture by booting up old saves, and after diving into Valheim 1.0 with nothing but a wooden club and tattered leather loincloth, I can confidently say I don't regret it one bit. Perhaps some of that is thanks to skipping last year's Call to Arms update—the patch where Iron Gate dramatically reworked the buffs received from slaying Valheim's giant gods—but now I'm glad I waited. As my total Valheim playtime rapidly approaches the 500-hour mark, I can't help 
 
-### Inzoi's director says he is 'very much focused on our core goals' as he announces a multiplayer roleplaying mode designed to be like Ready Player One
-Sun, 13 Sep 2026 15:31:29 +0000 — https://www.pcgamer.com/games/life-sim/inzois-director-says-he-is-very-much-focused-on-our-core-goals-as-he-announces-a-multiplayer-roleplaying-mode-designed-to-be-like-ready-player-one/
-
-We all hoped that Inzoi would be the competitor to The Sims 4 that the life sim genre has needed for years. Thus far, though, things haven't quite panned out that way. Life sim expert Mollie Taylor described Inzoi's early access version as a "shallow imitation" of The Sims, while the game's own director Hyungjin "Kjun" Kim conceded that building a life sim has proven much harder than he anticipated . Since then, Kim has spent the last year working on new features for InZoi, which I personally hope will result in a much richer simulation. But in his latest Steam update , Kim's focus was on something entirely different. Alongside the base game, Kim is apparently working on a whole new way to play called 'Canvastown'. This essentially lets players roleplay as a single character in the town, rather than overseeing everyone's lives from a bird's-eye view. "The main goal of Canvastown is to get away from mundane daily life and capture memorable moments within life simulation so you can jump in and enjoy only those extraordinary moments", Kim explained. The mode will allow players to create their own Zoi and customise their house, before entering an dedicated online space called 'AR Company' that allows "around 50 people" to "converse and interact in the same channel under mutual consent." So it's essentially a mini online village populate by players, although Kim says that NPC Zois will appear in these spaces too. "Like a movie director, you can assign roles and cast your actors to
-
-### Ashly Burch, voice of Horizon's Aloy and star of Mythic Quest, is currently obsessed with Slay the Spire 2 and thinks videogames have too many stoic characters: 'I want more sh*tty little b*tches'
-Sun, 13 Sep 2026 15:00:00 +0000 — https://www.pcgamer.com/gaming-industry/ashly-burch-voice-of-horizons-aloy-and-star-of-mythic-quest-is-currently-obsessed-with-slay-the-spire-2-and-thinks-videogames-have-too-many-stoic-characters-i-want-more-sh-tty-little-b-tches/
-
-Disk Cleanup (Image credit: Future) Welcome to Disk Cleanup , our regular weekend feature delving into the PCs of PC gaming luminaries. Come back every weekend to read a new interview, digging into the important questions, like "How tidy is your desktop?" and "What game will you never uninstall?" Ashly Burch's first encounter with PC gaming was playing a Donkey Kong knockoff on a PC her mother had bought to practice typing. But the first PC game that truly resonated with her was LucasArts' Day of the Tentacle : "That was the first time I played a game that I can remember that had a narrative and comedy," she says. "It was one of those things where, when you're younger, you find something that expands your concept of what a thing can be." Burch came to the world's attention through the online, gaming-themed sketch show Hey Ash, Whatcha Playin' , before making her videogame acting debut as Tiny Tina in Borderlands 2. Since then, Burch's roles have included Chloe in Life is Strange , Parvati Holcomb in The Outer Worlds , and Aloy in Guerrilla Games' Horizon series. More recently, Burch returned to sending-up videogames in Apple TV's game-development comedy Mythic Quest , and is currently working on her passion project I'm Happy You're Here —a YouTube comedy series that explores coping with mental health issues: "They're easy, shareable, hopefully easy to understand distillations of complicated concepts, and yeah, they're all for free on YouTube," she says. "It's something I've w
-
-### Upcoming vampire RPG Nighthawks has been removed from Steam search and delisted in certain countries as Valve classifies it Adults Only: 'It's very bad news for us'
-Sun, 13 Sep 2026 14:16:29 +0000 — https://www.pcgamer.com/games/rpg/upcoming-vampire-rpg-nighthawks-has-been-removed-from-steam-search-and-delisted-in-certain-countries-as-valve-classifies-it-adults-only-its-very-bad-news-for-us/
-
-Nighthawks , the long-in-development vampire RPG due to be released later this month, is the latest game to run afoul of Steam's increasingly stringent rules regarding adult content. According to publisher Wadjet Eye Games, the game has been labelled 'Adults Only'—causing it to be removed from Steam search and outright delisted in certain countries like Germany—despite claims from both developer and publisher that the RPG's depictions of sex and nudity are very mild. "We are aware that Steam has classified Nighthawks as an adult game and has excluded it from searches," Wadjet Eye boss Dave Gilbert wrote on Bluesky . "We are working on it. Valve is under the impression that this game is way sexier than it actually is." Gilbert further commented that "Valve is basically treating Nighthawks like a porn game!" in responding to a reply to his initial post. A game being labelled Adults Only can affect its visibility in several ways. Adults Only games will not appear in Steam searches by default, requiring users to log in, verify their age (which requires the use of a credit card in some countries) and adjust their preferred content settings before they become visible. In addition, the label can cause games to be delisted outright in certain countries. In a statement to PC Gamer, Nighthawks' creator Richard Cobbett (who, for the sake of transparency, is also a PC Gamer contributor) provided an overview of the situation, and how the Adults Only label is likely to affect Nighthawks' l
-
-### As an OG Crazy Taxi lover, its new remake might just not be crazy enough
-Sun, 13 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/racing/as-an-og-crazy-taxi-lover-its-new-remake-might-just-not-be-crazy-enough/
-
-I've played just about every damn iteration of Crazy Taxi there is. My first exposure to it was the PlayStation 2 EyeToy version included in Sega Superstars, which involved me wildly gesticulating and yelling in order to get Axel's attention. Yes, for some reason you are the passenger in the EyeToy version of Crazy Taxi. I don't know either. Then I spent a fair bit of time behind the wheel in both its Dreamcast and arcade versions—we don't talk about the myriad of mobile travesties—so I was pretty jazzed about the announcement of Crazy Taxi: World Tour. I was promptly un-jazzed by all the generative AI discourse that mired the hours following its reveal trailer, but you know. (Image credit: Sega) Allegedly its use remains firmly in the conceptual stages of development, which I still don't love, but I was determined to not let that cloud my opinion of the game as I sat down to give it a whirl at Gamescom. And honestly? After an hour, I kinda felt like that was all the time I needed with Crazy Taxi: World Tour. As much as I wanted to be sold on a modern-day iteration, I'm just not quite there yet. My time with the demo popped me behind the wheel as Crazy Taxi poster boy Axel, and dropped me into its thematically-appropriate Germany map. There'll be five cities with the full release, but I imagine most of what I saw in the game's amalgamation of various German cities will be true of the rest of the game. The traditional Crazy Taxi time-attack style of picking up and dropping off
-
-### This remarkable mod transforms the most frightening horror game of the decade into Mirror's Edge
-Sun, 13 Sep 2026 11:32:51 +0000 — https://www.pcgamer.com/games/horror/this-remarkable-mod-transforms-the-most-frightening-horror-game-of-the-decade-into-mirrors-edge/
-
-Amnesia: The Bunker is without a doubt the most frightening horror game I've played this decade. Its terrifying tale of being chased through a crumbling French bunker by a monster has the darkest, thickest, most unnerving atmosphere of any horror game I've played since Alien: Isolation . It's so intense that it's hard to imagine anyone making something light and airy out of its subterranean warrens, and it's downright inconceivable that someone might, say, turn Amnesia: The Bunker into Mirror's Edge. And yet, that's exactly what modder TiMan has done. Created for Frictional Games' 2026 modding jam —which ran with the theme of 'What is reality?'— Bunker's Edge sees the base game's protagonist Henri transported through a portal from the trenches of war-ravaged France to the pristine skyline of EA's free-running classic. The change of scenery alone is remarkable. The Bunker's HPL engine is purpose built to deliver darkness, shadows and murk, so seeing it handle such a bright and colourful environment is mightily impressive. But what's really interesting is how TiMan has implemented all of Mirror's Edge's free-running mechanics. Mantling, sliding, wall-running, pipe-climbing, runner's vision, that 180-degree wall-jump that I always struggled to perform in the base game, it's all here. Despite the breezier setting, Bunker's Edge is still a horror game. The Bunker's monster has followed Henri through the portal, and chases him across the rooftops just as relentlessly as it stalks h
-
 ## GameSpot
+
+### You ll Fight The Protoss In StarCraft, Too, Don t Worry
+Sun, 13 Sep 2026 20:24:28 +0000 — https://www.gamespot.com/articles/youll-fight-the-protoss-in-starcraft-too-dont-worry/
+
+StarCraft's reveal trailer squarely put the focus on the Terrans, who later in the cinematic face a terrifying confrontation with the Zerg. The franchise's three franchises--including the Protoss--have always been a central element of what distinguishes StarCraft from other strategy games. Although the Protoss were effectively absent from the trailer, they are a foe you will face at some point. GameSpot spoke with GM and creative director Dan Hay at BlizzCon and asked him about how the three factions will interact with each other. Although he was expectedly coy on specifics, he did offer up some thoughts. "The answer to that question is I absolutely unequivocally can't say," Hay said. "But what I can do is tell you what I would want as a player. I'll hint at sort of not what we're doing, but some of the things that we think about. https://www.youtube.com/watch?v=TIu2tGCCKQw&pp=0gcJCf4LAYcqIYzv "Of course, what you want to be able to do... you think about the Protoss and how reverent we are. They're older, and there's a mystique and a grandness to them, right? They have just a completely different flavor. Then you have the Zerg, and the Zerg are just numberless; they're infinite from the standpoint of they just overwhelm you with sheer organic power. Then you have the Terrans, that are this group of... they're working their way through the sector in kind of a haphazard and industrial way. We want that feeling. "We want it to not all just be one taste. So we want to have moment
+
+### The StarCraft Shooter Is A Third-Person Game, And Blizzard Insists That You Have To Feel Powerful
+Sun, 13 Sep 2026 20:02:52 +0000 — https://www.gamespot.com/articles/the-starcraft-shooter-is-a-third-person-game-and-blizzard-insists-that-you-have-to-feel-powerful/
+
+If you walked away from the StarCraft reveal excited for the franchise to return, but unsure what this new game even is, you're not alone. Aside from being described during the BlizzCon Opening Ceremony as an open-world shooter, Blizzard didn't share much else. In an interview with GameSpot, Blizzard GM Dan Hay provided a few more details, including the fact that it's a third-person game. The StarCraft franchise, having taken the form of real-time strategy games previously, has typically used an isometric perspective. When it came to choosing what perspective to offer in the new shooter, it sounds like it wasn't a difficult decision. "Oh, that's easy," Hay said when GameSpot asked him about whether StarCraft will be a first- or third-person game. "I want to be able to see my armor. First thing we did is we built it, put it on a turntable, and spun it around like, 'Ah, awesome, cool!' I want to be able to see it, so third-person, right? "That doesn't mean that we don't have the license to, in a couple of spaces, do a little bit different and whatnot, but third-person: You get to see your armor, you get to see the full weight of everything you have, and then you get to see stuff that's in my head that I can't tell you." https://www.youtube.com/watch?v=TIu2tGCCKQw&pp=0gcJCf4LAYcqIYzv Hay spoke to us a great deal about the fantasy of having this armor to protect you. Asked about character progression or customization, he said, "If I was to get—in theory, hypothetically, purely hy
+
+### StarCraft Reboot Is Focusing On Single-Player, Creative Director Says
+Sun, 13 Sep 2026 20:00:43 +0000 — https://www.gamespot.com/articles/starcraft-reboot-is-focusing-on-single-player-creative-director-says/
+
+StarCraft is "focusing on single-player," StarCraft creative director and general manager Dan Hay and associate manager of development operations Anna Lee Hertling said in an interview with GameSpot. One of the biggest announcements of BlizzCon 2026 was the return of StarCraft, described as an open-world shooter and slated for a 2030 release. Aside from its impressive reveal cinematic, there wasn't much additional information about how StarCraft would play or what the shooter reboot of the RTS franchise would entail. Now, we have some more details. When asked whether StarCraft would be single-player or co-op, Hay said the team is "focusing on single player." "We are focused right now on the conversation of focusing on single-player, focusing on that Marine fantasy, and then making sure that we think about what it is to be that character," Hay said. "That's what we're saying for now." https://www.youtube.com/watch?v=TIu2tGCCKQw&pp=ygUSZ2FtZXNwb3Qgc3RhcmNyYWZ0 He said players will play as a named character that can "build a reputation and a rapport" with other in-game characters. He said the game's story will have a beginning, middle, and an "end," and that Blizzard wants it to feel like a "boxed product." Thought it's story will have an end, Hay said Blizzard wants the game to be one players can visit, explore, leave, and come back to. "We like a named character, right?" Hay said. "When it comes down to this, we want to be able to make sure that what you have is a character th
+
+### Blizzard Explains Why The StarCraft Shooter Coming In 2030 Was Announced Now
+Sun, 13 Sep 2026 19:40:42 +0000 — https://www.gamespot.com/articles/blizzard-explains-why-the-starcraft-shooter-coming-in-2030-was-announced-now/
+
+Thanks to rumors and reports, the announcement of a new StarCraft game taking the form of an open-world shooter did not come as a complete surprise at BlizzCon's Opening Ceremony . What is surprising is when it's coming: 2030. That's a long time from now, and we've heard other developers lament announcing their games too soon . So what made Blizzard reveal StarCraft so far in advance? "We totally get the question. You walk that kind of knife's edge of how much do we want to show, when do we want to show," Blizzard GM Dan Hay told GameSpot at BlizzCon. "We've been working on it for a little bit now, and we feel like we've got something that we wanted to show. We felt like this was the right moment. As we're building out the story, the characters, and kind of the feeling of the worlds that we're building, we felt like, 'You know what? We've got enough to show.'" Hay said that with Blizzard being confident in what it's developed so far, it didn't want to further delay going public and getting the benefit of putting it in front of fans. "There's a moment when you're making a game where you're like, 'Have we landed the emotion? Do we feel like we have enough of the verve, the identity, and the feel of it to start to share it?'" Hay continued. "About a year ago, we started to feel like we were there, so we were like, 'Okay, it's time to show it. It's time to get feedback.' "What's super important about it is you want to put it out there, get people to feel the emotion and the value
 
 ### Diablo 4 s Expansion Days Are Over
 Sun, 13 Sep 2026 15:25:13 +0000 — https://www.gamespot.com/articles/diablo-4s-expansion-days-are-over/
@@ -294,26 +332,6 @@ Sat, 12 Sep 2026 18:33:19 +0000 — https://www.gamespot.com/articles/hearthston
 
 New class additions to Hearthstone don't come often, but the next one has been announced during BlizzCon 2026's Opening Ceremony : The Monk is coming to the card game, leaving just the Evoker as the lone class to be left out. The Monk's upcoming addition was one of several major pieces of news for Hearthstone revealed. A new expansion called Reign of the Black Empire that is set 10,000 years in the past will focus on the Black Empire and a struggle between the Old Gods and the Titans. https://www.youtube.com/watch?v=Ib5EMar4b1E If that excites the lore enjoyer in you, you'll also be happy to hear that the Journal is being transformed into The Journey. This is meant to give a more narrative-driven wrapper to the game, as it'll seek to tie the story together between expansions, modes, and limited-time events. The Journey will grow as you play through Reign of the Black Empire, tying together quests, achievements, and more elements of the game. As far as the Monk goes, we don't know much in terms of how they'll play. We only got a short teaser for the new class, which marks the first such addition since the Death Knight arrived in 2022. The game originally launched with nine characters before later adding Demon Hunter and then Death Knight. The Monk will arrive in March 2027, with more details coming next year. https://www.youtube.com/watch?v=hldzvHmT-ow Other new features coming to Hearthstone include a new keyword, Assemble, which lets you effectively merge two minions into on
 
-### Diablo 5 Is Coming In 2029, Will Actually Star Diablo
-Sat, 12 Sep 2026 18:24:10 +0000 — https://www.gamespot.com/articles/diablo-5-is-coming-in-2029-will-actually-star-diablo/
-
-Diablo 5 is coming in Spring 2029, and it will take players to a world where Diablo himself reigns supreme. Announced via a short teaser during the BlizzCon 2026 opening ceremony , Blizzard revealed it's already at work on the next installment of the series. Set 100 years after the defeat of Mephisto in Diablo 4: Lord of Hatred, Diablo 5 will see the Lord of Terror return. However, instead of stopping him from destroying all of Sanctuary, he will actually have already won. Blizzard teased Diablo 5's story will revolve around what heroes have to become in a post-apocalyptic world that is already destroyed. More details will be shared about the game's lore, classes, and gameplay features, during a Diablo 5 panel as part of this weekend's convention. https://www.youtube.com/watch?v=Y8HaSFXR7tU Should Diablo 5 actually release in 2029, it will be the shortest gap between Diablo games in the franchise's history. There was a 12-year wait for Diablo 3 after Diablo 2, and another 11 years between Diablo 3 and 4. Diablo 5, in comparison, is slated to come just six years after Diablo 4--still a long time, but much shorter given the franchise's track record. Blizzard has been on record saying it wants to create new Diablo games faster . In an interview earlier this year, Blizzard said that "over the next 30 years, maybe we get some out faster."
-
-### Diablo 4 s Next Class Is What You Expect But Isn t Coming With A Full Expansion
-Sat, 12 Sep 2026 18:19:45 +0000 — https://www.gamespot.com/articles/diablo-4s-next-class-is-what-you-expect-but-isnt-coming-with-a-full-expansion/
-
-Diablo 4's next class is Amazon, Blizzard announced during the BlizzCon opening ceremony , but it won't be coming as part of a new expansion. Instead, Blizzard will sell the Amazon as a separate DLC class pack in the first half of next year. The addition of the Amazon isn't exactly a surprise. First, it's an iconic class from Diablo 2, so it's a bit of a no-brainer there. Alongside the nostalgia factor, Diablo 4's latest expansion, Lord of Hatred, also took players to the literal home of the Amazons, Skovos. They featured heavily in the expansion's story but were not a playable class, with the expansion instead adding the Paladin and Warlock to Diablo 4's class roster. https://www.youtube.com/watch?v=feXuKlwKMTA While the Amazon isn't coming until 2027, Diablo 4's next season, Hell's Legacy, is coming much sooner. The season kicks off next week on September 15 and will celebrate the franchise's 30th anniversary and feature the return of enemies, locations, and items from previous Diablo games. That will include the return of Deckard Cain, who will take players on a journey to confront Diablo, Baal, and Mephisto, meaning the Lord of Terror himself will finally make an appearance in Diablo 4. Though it leaked ahead of time, Diablo 4 is officially coming to the Switch 2 as well, with a Lord of Hatred collection that includes both of the game's expansions.
-
-### Overwatch Is Reworking Two Of Its Most Criticized Characters
-Sat, 12 Sep 2026 18:15:10 +0000 — https://www.gamespot.com/articles/overwatch-is-reworking-two-of-its-most-criticized-legacy-characters/
-
-After years of complaints, Overwatch is finally reworking two of its veteran heroes. Announced during BlizzCon 2026's opening ceremony , both Roadhog and Sombra will be receiving major reworks, with Sombra pivoting to being a support hero and Roadhog undergoing changes to make him more of a team player. https://www.youtube.com/watch?v=LBt8q49qD8k Shortly after the reveal, Overwatch shared an updated look at both character's Hero kits. Below is a comprehensive overview of their changes: Sombra Of the two, Sombra is receiving the most significant redesign, pivoting from a Damage hero to Support. Whereas she used to be most effective at fast-paced, ambush-style combat, she will now be far more useful in team settings. Her Hack ability has been replaced with Hotfix, which allows her to freely hack health packs and enemy deployables as well as heal allies. Cyberspace replaces Virus, and sees Sombra launch a projectile that heals allies and weakens enemies. With the exception of CTRL ALT ESC, all of Sombra's Perks have been adjusted, and she now boasts Support passives. Roadhog By comparison Roadhog's changes are far less dramatic, with the most notable being the removal of Scrap Gun's Alt Fire. In lieu of this skill, Roadhog has been given Trash Compactor--an ability that allows Roadhog to absorb enemy projectiles and turn them into an explosive ball of scrap. This makes him far more effective as an actual Tank, granting him what seems like a fairly effective barrier that will hop
-
-### Overwatch s Newest Blood-Sucking Character Pushes The Game Even Further Into The Fantasy Genre
-Sat, 12 Sep 2026 18:09:18 +0000 — https://www.gamespot.com/articles/overwatchs-newest-blood-sucking-character-pushes-the-game-even-further-into-the-fantasy-genre/
-
-Since its inception, Overwatch has positioned itself as an optimistic, science-fiction-driven world. Although some characters have introduced an element of the fantastical--the addition of the magical Wuxing University being the most notable tonal shift--the team behind the hero shooter has always prioritized scientific explanations for its heroes incredible abilities. Its newest character, however, seems to venture further into fantasy than ever before. https://www.youtube.com/watch?v=gK877kcyMTY Revealed during BlizzCon 2026's opening ceremony , Doctrine is the next support hero coming to Overwatch. Oh and fun fact, he's a vampire--or vampire-inspired, at the very least. With a sceptre that heals and speeds up teammates yet dishes out major damage to enemies, Doctrine is an extremely powerful hero with a high mechanical floor. Interested in putting your skills to the test and giving him a whirl? You're in luck, as Doctrine's limited-time hero trial has officially kicked off and will run until September 14. In addition to his sceptre, Doctrine can also unleash a swarm of bat drones, infuse allies, and "manipulate life force." Blizzard has described the hero as the "ultimate vampire fantasy." Below is a more thorough look at his Hero kit: While Doctrine (real name Tamuka Yeukai) hails from Zimbabwe, he is accompanied by the Escort map Watchpoint: Grimsvotn, which depicts the Icelandic prison he is seen escaping in his debut cinematic. Doctrine joins Overwatch on the side of T
-
 ## Rock Paper Shotgun
 
 ### Moss developer Polyarc share that they're shutting down just two months after releasing a VR-less port of the beloved mousey adventure games
@@ -325,9 +343,4 @@ Another sad one today, unfortunately. Back in July, Polyarc released Moss: The F
 Sun, 13 Sep 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-827
 
 Sundays are for realising that after playing The Blood of Dawnwalker , you've developed a craving for blackcurrant juice. There's none in the cupboard, so you venture out to get some, floating across the rooftops as a trail of mist as you go. You arrive at the supermarket, fangs bared and claws out. You parry and dodge attackers armed with trollies as you fight your way up the aisles. There it is. The sweet crimson nectar. You reach out to grab a bottle. A hand reaches out through the display and grips your wrist. Read more
-
-### What are we all playing this weekend?
-Sat, 12 Sep 2026 07:01:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-399
-
-I&rsquo;m a big fan of these September weekends where I wake up and my bedroom has neither the humidity nor the ambient temperature of an Eden Project rainforest-o-dome. Autumn was previously my third favourite season at best, but I think we need to have a serious conversation about top two. The additional thermal headroom to comfortably run a toasty graphics card also makes this one of the better times to play games. Including these, and also, the ones you&rsquo;re going to tell us about in the comments. Read more
 

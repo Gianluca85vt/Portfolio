@@ -1,6 +1,56 @@
-# Manga — harvested 2026-09-13T18:57:12.559Z
+# Manga — harvested 2026-09-14T10:07:28.494Z
 
 ## Anime News Network
+
+### 'Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!' Anime's Video Reveals More Cast, Staff, Theme Songs, October 5 Debut
+Mon, 14 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-anime-video-reveals-more-cast-staff-/.241752
+
+Hiro Shimono, Akira Sekine join cast; Centimillimental performs opening song, Rainy. performs ending song
+
+### Fate/Extra Record Game Reveals Character Video for Caster
+Mon, 14 Sep 2026 04:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/fate-extra-record-game-reveals-character-video-for-caster/.241754
+
+Chiwa Saitō voices character in game launching on January 28
+
+### Even a Replica Can Fall in Love Manga Ends with 7th Volume
+Mon, 14 Sep 2026 03:11:04 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/even-a-replica-can-fall-in-love-manga-ends-with-7th-volume/.241729
+
+Momose Hanada's adaptation of Harunadon's novel series launched in April 2023
+
+### You and I are Polar Opposites 2nd Season Anime's 12th Episode Airs on September 27
+Mon, 14 Sep 2026 02:51:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/you-and-i-are-polar-opposites-2nd-season-anime-12th-episode-airs-on-september-27/.241747
+
+Anime's 2nd season debuted on July 5
+
+### Gundam RG XARX-ZERO Anime 'Launches' in N. America, Japan in April 2027
+Mon, 14 Sep 2026 02:13:31 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-09-14/gundam-rg-xarx-zero-anime-launches-in-n-america-japan-in-april-2027/.241744
+
+The official website for the Mobile Suit Gundam RG XARX-ZERO anime revealed on Monday that the anime will "launch" in North America and Japan...
+
+### Open Your Very Own Cat Café with Ranma 1/2 Tableware
+Sun, 13 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-13/open-your-very-own-cat-cafe-with-ranma-1-2-tableware/.241732
+
+You'll have to find your own wacky martial artists
+
+### The World's Strongest Witch Novels Listed to End in 6th Volume
+Sun, 13 Sep 2026 23:57:35 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/the-world-strongest-witch-novels-listed-to-end-in-6th-volume/.241736
+
+Manga adaptation launched in April 2023
+
+### BanG Dream! Our Notes Mobile Game Streams New Trailer
+Sun, 13 Sep 2026 23:51:58 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/bang-dream-our-notes-mobile-game-streams-new-trailer/.241731
+
+Game to launch this year with Traditional Chinese, English, Korean language support
+
+### Otomate Brand Unveils Hakuōki Shinkai Kiwame, Other New Game Releases
+Sun, 13 Sep 2026 22:50:10 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/otomate-brand-unveils-hakuoki-shinkai-kiwame-other-new-game-releases/.241726
+
+<cite>Hakuōki</cite> on Switch 2 commemorates Otomate's 20th anniversary next year
+
+### Kazuki Takahashi's Art Exhibit Gets Special Animated Yu-Gi-Oh! Video
+Sun, 13 Sep 2026 22:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/kazuki-takahashi-art-exhibit-gets-special-animated-yu-gi-oh-video/.241739
+
+Exhibit takes place in Tokyo from December to February
 
 ### From Far Away Volumes 1-7 Manga Review
 Sun, 13 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/from-far-away/volumes-1-7/.241308
@@ -12,61 +62,31 @@ Sun, 13 Sep 2026 11:08:52 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Film to open on November 20, D3 Publisher & Bandai Namco plan game for Switch/Switch 2
 
-### #I'm Looking For Zombie Anime's Main Trailer Reveals More Cast & Staff Members, Theme Songs, October 3 Debut
-Sun, 13 Sep 2026 07:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/im-looking-for-zombie-anime-main-trailer-reveals-more-cast-and-staff-members-theme-songs-october-3-/.241722
-
-Yōko Hikasa, Makoto Koichi, Tomoyo Takayanagi, Aino Shimada, Kōsuke Toriumi join anime's cast
-
-### Overgeared Anime Reveals 3rd Trailer, 2 New Cast Members
-Sun, 13 Sep 2026 04:15:44 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/overgeared-anime-reveals-3rd-trailer-2-new-cast-members/.241725
-
-Yūki Murata, Yurika Hirayama join cast of October 2 series
-
-### Fatal Fury City of the Wolves Game Adds DLC Character Kim Kaphwan on September 24
-Sun, 13 Sep 2026 04:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/fatal-fury-city-of-the-wolves-game-adds-dlc-character-kim-kaphwan-on-september-24/.241712
-
-Playable characters joins season 3 DLC roster
-
-### Actor, Narrator Leo Morimoto Dies at 83
-Sun, 13 Sep 2026 03:05:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/actor-narrator-leo-morimoto-dies-at-83/.241723
-
-<cite>The Wings of Honnêamise</cite> star, <cite>Bartender</cite> show's narrator died on September 4
-
-### Kei Urana's Gachiakuta Manga Continues Hiatus
-Sun, 13 Sep 2026 02:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-13/kei-urana-gachiakuta-manga-continues-hiatus/.241715
-
-Kodansha published latest chapter on August 5, manga is on hiatus so author can do research
-
-### Level 5 CEO Akihiro Hino Addresses Use of AI in Latest Presentation
-Sat, 12 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-12/level-5-ceo-akihiro-hino-addresses-use-of-ai-in-latest-presentation/.241710
-
-Hino: “We incorporated cutting-edge AI that also served as an experiment, in our earnest desire to make a phenomenal presentation. We understand this may have offended some, and we sincerely apologize.”
-
-### The Oblivious Saint Can't Contain Her Power Manga Ends in Next Volume
-Sat, 12 Sep 2026 23:36:06 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/the-oblivious-saint-cant-contain-her-power-manga-ends-in-next-volume/.241716
-
-Manga adaptation debuted in April 2022
-
-### The Record of a Fallen Vampire Manga Gets New Series After 19 Years, Teases Announcement
-Sat, 12 Sep 2026 22:37:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/the-record-of-a-fallen-vampire-manga-gets-new-series-after-19-years-teases-announcement/.241709
-
-<i>In/Spectre</i> author Kyo Shirodaira, Yuri Kimura launch <cite>Vampire Jūjikai: Inu ni wa Inu no Uta</cite> on October 9
-
-### In the Clear Moonlit Dusk Manga to End in 12th Volume Next Spring
-Sat, 12 Sep 2026 22:03:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/in-the-clear-moonlit-dusk-manga-to-end-in-12th-volume-next-spring/.241708
-
-Series reaches 8.2 million copies globally
-
-### Star Detective Precure! Film Assembles You and Idol Precure, Wonderful Precure! in 2 Trailers
-Sat, 12 Sep 2026 21:42:25 -0400 — https://www.animenewsnetwork.com/news/2026-09-12/star-detective-precure-film-assembles-you-and-idol-precure-wonderful-precure-in-2-trailers/.241718
-
-Precure girls from 3 series unite in film opening next Friday
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Yu-Gi-Oh! Special New Animation by KONAMI Released for Kazuki Takahashi Art Exhibition
+Mon, 14 Sep 2026 09:58:49 GMT — https://animecorner.me/yu-gi-oh-special-new-animation-by-konami-released-for-kazuki-takahashi-art-exhibition/
+
+A new Yu-Gi-Oh! special animation has been released to commemorate the first original art exhibition dedicated to the series creator.
+
+### The Ramparts of Ice Season 2 New Trailer Previews Opening Theme by THE BEAT GARDEN
+Mon, 14 Sep 2026 09:28:21 GMT — https://animecorner.me/the-ramparts-of-ice-season-2-new-trailer-previews-opening-theme-by-the-beat-garden/
+
+The Ramparts of Ice Season 2 has released its second trailer, previewing the opening theme “Escort” by THE BEAT GARDEN.
+
+### Ave Mujica prima aurora Movie Releases Official Trailer
+Mon, 14 Sep 2026 09:17:03 GMT — https://animecorner.me/ave-mujica-prima-aurora-movie-releases-official-trailer/
+
+The official trailer for the upcoming Ave Mujica prima aurora movie has been released on Monday.&hellip;
+
+### Ranma 1/2 Season 3 Reveals Third Trailer, Opening and Ending Theme Songs
+Mon, 14 Sep 2026 09:09:29 GMT — https://animecorner.me/ranma-1-2-season-3-reveals-third-trailer-opening-and-ending-theme-songs/
+
+Ranma 1/2 Season 3 revealed its third trailer, previewing the opening and ending theme songs ahead of the anime's October 3 return.
 
 ### Mushoku Tensei: Jobless Reincarnation Season 3 Blu-ray Volume 2 Reveals Shirotaka Jacket Artwork Featuring Current and Future Rudeus
 Sun, 13 Sep 2026 15:59:36 GMT — https://animecorner.me/mushoku-tensei-jobless-reincarnation-season-3-blu-ray-volume-2-reveals-shirotaka-jacket-artwork-featuring-current-and-future-rudeus/
@@ -108,27 +128,12 @@ Sat, 12 Sep 2026 14:40:59 GMT — https://animecorner.me/bleach-thousand-year-bl
 
 BLEACH: Thousand-Year Blood War anime has delayed Episode 49 and Episode 50 to October 2026 in order to "improve quality."
 
-### BLEACH: TYBW Part 4 Features Renji Abarai Changes in Episode 8 Ending Video
-Sat, 12 Sep 2026 14:32:36 GMT — https://animecorner.me/bleach-tybw-part-4-features-renji-abarai-changes-in-episode-8-ending-video/
-
-BLEACH: Thousand-Year Blood War (TYBW) Part 4 The Calamity premiered Episode 8 "THE END TWO WORLD" on&hellip;
-
-### Japanese Boy Group ONE OR EIGHT to Perform Special SHOW CASE 2026 in Singapore, Manila, and Bangkok This October
-Sat, 12 Sep 2026 11:43:14 GMT — https://animecorner.me/japanese-boy-group-one-or-eight-to-perform-special-show-case-2026-in-singapore-manila-and-bangkok-this-october/
-
-Japanese boy group ONE OR EIGHT has announced their upcoming three-day Southeast Asia tour,&hellip;
-
-### Katekyo Hitman Reborn! Anime Reveals Sixth Ending Featuring "STAND UP!" by Lead
-Sat, 12 Sep 2026 11:19:29 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-sixth-ending-featuring-stand-up-by-lead/
-
-Katekyo Hitman REBORN! anime released the creditless version of its sixth ending, featuring the song "STAND UP!" by Lead.
-
-### Madoka Magica: Walpurgisnacht Rising Reveals New Trailer and Third Key Visual by Ume Aoki
-Sat, 12 Sep 2026 11:05:07 GMT — https://animecorner.me/madoka-magica-walpurgisnacht-rising-reveals-new-trailer-and-third-key-visual-by-ume-aoki/
-
-Puella Magi Madoka Magica the Movie: Walpurgisnacht Rising revealed a new key visual and&hellip;
-
 ## MyAnimeList News
+
+### Chi. Chikyuu no Undou ni Tsuite Creator Announces Two New Manga
+Sun, 13 Sep 2026 18:28:06 -0700 — https://myanimelist.net/news/74717598?_location=rss
+
+Uoto, the creator of Chi. Chikyuu no Undou ni Tsuite (Orb: On the Movements of the Earth), announced two new manga on their X (formerly Twitter) account on Friday and Saturday. The first title, Hallucination Meat, is expected to begin in Shogakukan s Weekly Big Comic Spirits within this year. Test Taker/Cheaters, the second title, will be written by Uoto with artwork by Kyou Yoneshiro. The manga is expected to launch in Kodansha s monthly Afternoon magazine at the beginning of 2027. U...
 
 ### #Zombie Sagashitemasu Unveils Additional Cast, Staff, Theme Songs, First Promo
 Sun, 13 Sep 2026 04:43:56 -0700 — https://myanimelist.net/news/74713683?_location=rss
@@ -166,5 +171,8 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-_Nothing in the last 48 hours._
+### The Credits Roll Into the Sea Volume 1 Review
+Mon, 14 Sep 2026 09:00:01 +0000 — https://animeuknews.net/2026/09/the-credits-roll-into-the-sea-volume-1-review/
+
+A love of cinema brings widowed Umiko and young film student Kai together. Will Kai’s work inspire Umiko to try her hand at making her own movies?
 
