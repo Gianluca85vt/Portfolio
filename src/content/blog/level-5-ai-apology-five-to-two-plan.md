@@ -4,7 +4,6 @@ date: 2026-09-14
 category: AI
 excerpt: "Akihiro Hino apologised for AI in Level-5's Vision 2026 II broadcast, then restated the plan: turn artwork into polygons, five-year projects into two."
 cover: /img/blog/level-5-ai-apology-five-to-two-plan/video-thumb.jpg
-draft: true
 ---
 
 Level-5 streamed VISION 2026 II "Dream" on Thursday 10 September at 21:00 Japan
