@@ -14,7 +14,6 @@ sources:
     url: https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch
   - outlet: Push Square
     url: https://www.pushsquare.com/news/2026/09/moss-psvr2-dev-polyarc-closed-after-12-years-of-games
-draft: true
 ---
 
 I know what a date three years out is worth to the people who will have to hit
