@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Zerply closes on 28 September 2026 — export requests close on the 21st">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#1E2547"/>
+      <stop offset="100%" stop-color="#2E6BA8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5FA8FF"/>
+      <stop offset="100%" stop-color="#A6D8FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="start">
+    <text x="80" y="140" font-size="28" letter-spacing="8" fill="#FFFFFF" fill-opacity="0.6" font-weight="bold">ZERPLY · SIXTEEN YEARS</text>
+
+    <text x="80" y="320" font-size="128" font-weight="900" fill="#FFFFFF">28 September</text>
+    <text x="80" y="450" font-size="128" font-weight="900" fill="url(#accent)">16:00 UTC</text>
+
+    <text x="80" y="540" font-size="40" fill="#FFFFFF" fill-opacity="0.85">export requests close on the 21st</text>
+  </g>
+
+  <!-- a profile card dissolving into nothing, lower right -->
+  <g stroke="#FFFFFF" fill="none" stroke-width="4">
+    <rect x="720" y="640" width="380" height="170" rx="10" stroke-opacity="0.55"/>
+    <circle cx="790" cy="700" r="26" stroke-opacity="0.5"/>
+    <path d="M840 690H1060" stroke-opacity="0.45"/>
+    <path d="M840 726H1000" stroke-opacity="0.3"/>
+    <path d="M760 770H960" stroke-opacity="0.18"/>
+    <path d="M760 790H880" stroke-opacity="0.08"/>
+  </g>
+</svg>
