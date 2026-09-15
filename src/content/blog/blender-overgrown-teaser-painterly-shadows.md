@@ -3,7 +3,7 @@ title: "Blender's OVERGROWN teaser: painterly shadows"
 date: 2026-09-15
 category: 3D
 excerpt: Blender Studio's first OVERGROWN footage landed on 14 September. The painterly shadows in it are solved in the geometry that casts them.
-cover: /img/blog/blender-overgrown-teaser-painterly-shadows/cover.svg
+cover: /img/blog/blender-overgrown-teaser-painterly-shadows/shot-01.jpg
 draft: true
 ---
 
@@ -20,6 +20,11 @@ Blender Studio put out the first OVERGROWN teaser on 14 September, and the
 shadows in it are the part worth pausing on.
 
 ## Where they put the fix
+
+<figure>
+  <img src="/img/blog/blender-overgrown-teaser-painterly-shadows/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Blender Studio, from its own OVERGROWN announcement video</figcaption>
+</figure>
 
 The obvious place to attack this is compositing. Grab the shadow pass, push it
 through some noise, break the edge up with a texture, call it done. It works on
