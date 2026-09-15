@@ -1,6 +1,16 @@
-# Tech — harvested 2026-09-15T09:35:42.192Z
+# Tech — harvested 2026-09-15T15:15:57.338Z
 
 ## Ars Technica
+
+### This Atlantic hurricane season is about to do something that hasn't happened in 175 years
+Tue, 15 Sep 2026 12:36:11 +0000 — https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/
+
+Last week, the Atlantic hurricane season blew through its traditional peak—which comes around September 10—with nary a tropical wave in sight, let alone a storm or hurricane. This is remarkable. Usually this is the time of year when sea surface temperatures reach their warmest in the tropics, and with a favorable atmosphere it should be smooth skating for tropical systems. But this year, the main region where most tropical systems develop is choked with Saharan dust and wind shear. No one is complaining. Landfalling hurricanes are incredibly destructive for coastal areas and have the potential for considerable inland rainfall. Even storms at sea, in the Gulf of Mexico, can send energy prices skyrocketing—the last thing needed this year. Read full article Comments ]]>
+
+### Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost
+Tue, 15 Sep 2026 12:00:41 +0000 — https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/
+
+The performance gap between frontier AI models from US tech companies and the best open-weights models from Chinese companies has closed to just 4.4 months, according to a Mozilla report. That explains why many companies are shifting to the significantly cheaper open models for routine work—and helps reveal a narrow band of workloads where frontier models are worth the cost. Most organizations should ideally be using open models as the default for the majority of their work, according to the latest State of Open Source AI report from Mozilla, published on September 15 and shared with Ars prior to publication. The report highlights how a leading open model, Moonshot AI’s Kimi K3, achieves a composite AI performance score on the Artificial Analysis Intelligence Index that is just three points behind Anthropic’s Fable 5 closed frontier model, all while costing just 30 percent of the latter. “Closed earns its premium in a few places: expert professional work, high-intensity retrieval, and long context,” Raffi Krikorian, chief technology officer at Mozilla, said in an email to Ars. “We see the decision to pay for closed as workload-specific rather than organization-specific.” Read full article Comments ]]>
 
 ### Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh
 Tue, 15 Sep 2026 07:00:30 +0000 — https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/
@@ -52,17 +62,42 @@ Mon, 14 Sep 2026 18:24:09 +0000 — https://arstechnica.com/tech-policy/2026/09/
 
 The US is not backing down from its fight to deport noncitizen technology researchers who monitor safety risks on the biggest online platforms. In July, a judge blocked as unconstitutional an immigration policy that the US relied on to weigh whether to detain and deport people who flag illegal or harmful online content as national security risks. In his announcement of the policy, Secretary of State Marco Rubio explained that by targeting a list of researchers—which he stood “ready and willing” to expand—the policy supposedly served to prevent foreign nationals from manipulating digital town squares and censoring Americans. However, in his order siding with the Coalition for Independent Technology Research (CITR) and staying the policy, US District Judge James Boasberg said the US showed no evidence linking any targeted researchers to a foreign power that might be attempting to censor Americans or manipulate US public debate. Deemed too broad, the policy could sweep in seemingly any noncitizen working in content moderation , the judge said. Read full article Comments ]]>
 
-### A new solar cell could generate electricity underwater
-Mon, 14 Sep 2026 18:03:16 +0000 — https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/
-
-In one episode of the Hanna-Barbera cartoon Birdman , the eponymous hero struggles to fight the evil Dr. Shark aboard a submarine without solar energy to recharge his powers. So Birdman would surely appreciate the new perovskite solar cells developed by a team led by Simin Ma at Yunnan University, since they are designed to work underwater. Solar cells made from perovskites rather than silicon are always a tale of trade-offs. They can be made cheaply, they can take interesting forms (like thin, flexible, transparent films), and they can convert substantially more of the incoming solar energy into electricity. The difficulty is that they tend to degrade quite quickly. Tuned for the deep Moisture is particularly destructive to perovskites, making them a seemingly odd choice for an underwater solar panel. But these materials have another critical superpower: They can be tuned to work with different wavelengths of light. Water quickly blocks the wavelengths of light that silicon solar panels absorb, but a carefully designed perovskite cell could still make electricity in the deep blue sea. And actually, the lower light levels and cooler temperatures should help it live longer. Read full article Comments ]]>
-
-### Prehistoric builders transported Devil's Arrows 11 miles
-Mon, 14 Sep 2026 17:10:54 +0000 — https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/
-
-Stonehenge is the most famous example of megalithic architecture across Britain and Ireland, but there are plenty of others, including Calanais, Newgrange, and Avebury, as well as the Devil's Arrows. The latter is Britain's tallest standing stone alignment, yet little is known about the provenance of its stones. Scientists have confirmed that the stones came from a site 18 kilometers (11 miles) away, transported by humans rather than glacial movement, according to a paper published in the Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. "Sites in southern England and Scotland receive considerable attention but monuments like the Devil's Arrows have remained comparatively understudied despite their significance," said co-author Jim Leary of the University of York. "We have now proved that Neolithic communities moved several 25-ton stones across Yorkshire, transforming a familiar site into an epic quest to create a sacred landscape." Stonehenge has been the focus of recent chemical analyses identifying where all the stones that make up the structure came from, revealing that many originated in quarries a significant distance away. For instance, a 2019 study concluded that the 42 bluestones that make up the inner ring came all the way from western Wales. The outer layer of sarsen stones hails from much closer to home: Marlborough Downs, an area of round, grassy hills 25 to 30 km (17 miles) north of Stonehenge, which has the largest concentrati
-
 ## The Verge
+
+### Now Light’s minimalist phone can easily call an Uber
+2026-09-15T11:00:00-04:00 — https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app
+
+More than a decade after its Kickstarter proposed a "cell phone designed to be used as little as possible," Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owners of either the Light Phone III or the upcoming Light Flip , they can use it to find pick up / drop off locations, see fares and ETA, and select different trip options or saved locations they frequently visit. They can use it to book the ride, and then see information about the driver and ETA, and call the driver if necessary. It's an early preview of the LightOS "tool library" SDK that will allow developers to expand the phones' features while st … Read the full story at The Verge. ]]>
+
+### Meta s new One subscriptions put a price on social media and AI
+2026-09-15T11:00:00-04:00 — https://www.theverge.com/tech/995453/meta-one-subscriptions-ai
+
+Shortly after launching its new do-everything AI assistant Muse , Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the "core experience" on its apps and Meta AI will still be free, and users can still get its subscriptions for Facebook, Instagram, and WhatsApp without a bundle. It also says it plans to expand the bundles to include "Edits, AI glasses, and more over time." There are two bundles for in … Read the full story at The Verge. ]]>
+
+### Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint
+2026-09-15T10:03:18-04:00 — https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection
+
+Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera with a round design that lacked a screen or viewfinder, the new Instax Pal 2 includes both in a design that looks like a miniaturized analog film camera. It's also reminiscent of trendy pocket-friendly cameras like the Kodak Charmera , but with specs that may actually produce decent shots. The Instax Pal 2 will launch in the US later this month for $169.95, according to PetaPixel , and uses a .06-inch sensor paired with an f/2.2 28mm lens to capture images up to 1 … Read the full story at The Verge. ]]>
+
+### This doorbell camera lets a human security guard watch your front door
+2026-09-15T09:36:45-04:00 — https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs
+
+The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. When the camera detects suspicious activity - using a combination of on-device AI, cloud-based computer vision, and facial recognition - a SimpliSafe monitoring agent can drop in on the camera to "see, speak to, and attempt to deter potential intruders and package thieves," accord … Read the full story at The Verge. ]]>
+
+### Voicemod’s new pocket-friendly device brings real-time voice changing to your phone
+2026-09-15T09:00:00-04:00 — https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard
+
+Voicemod announced a new mobile device that expands the capabilities of the Voicemod Key dongle it launched in late 2024 as a way to bring the company's real-time voice changing tech to consoles. While the older Voicemod Key only used a smartphone as an interface between the company's mobile app and the Xbox, PlayStation, and Switch, the new Key Pocket can be used to change your voice or trigger sound effects while you're playing games, making calls, or streaming on Apple or Android mobile devices. The Voicemod Key Pocket is now available as a standalone device for $99.90 or as part of a $129.90 bundle that includes the hardware and a Voice … Read the full story at The Verge. ]]>
+
+### The premium AirPods 5 are the best open-ear earbuds Apple has made
+2026-09-15T09:00:00-04:00 — https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review
+
+The AirPods 5 earbuds and case look identical to the AirPods 4. It's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and often (especially in the past couple years) more expensive. But that's not what Apple did with the AirPods 5. The $149 AirPods 5 with Wireless Charging Case are $30 cheaper than the AirPods 4 with ANC they replace. They have slightly better active noise cancellation, and they're the first non-Pro AirPods with volume controls on the stem. Apple has never made wireless earbuds that offer as much for so little, and they make the base AirPods 5, which are $20 cheaper but don't have wireless charging or volume controls, pointless. Apple … Read the full story at The Verge. ]]>
+
+### GM updates its trucks’ native software to coexist with CarPlay
+2026-09-15T07:00:00-04:00 — https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto
+
+General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple CarPlay and Android Auto spiffy new picture-in-picture displays - which is notable given GM's previously stated hostility to phone mirroring in its electric vehicles. When the next-generation interface makes its debut on the 2027 Chevrolet Silverado 1500 and 2027 GMC Sierra 1500 later this year , vehicle owners will see a number of changes, including slick new graphics for its advanced driver-assist system, animated transiti … Read the full story at The Verge. ]]>
 
 ### Microsoft issues emergency Windows 11 update to fix its record-breaking patch
 2026-09-15T04:54:48-04:00 — https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues
@@ -72,49 +107,59 @@ Microsoft has started rolling out an emergency out-of-band update to fix problem
 ### Volvo’s plug-in hybrid XC60 and XC90 can really go the distance
 2026-09-15T03:00:00-04:00 — https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range
 
-Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of what's possible. Today, the Swedish automaker revealed the updated PHEV versions of its popular XC60 and XC90 SUVs are its first "long range plug-in hybrids," delivering class-leading ranges of 78 miles and 73 miles, respectively. That's more than double the electric range of previous PHEV variant. The numbers are still preliminary and based on EPA testing standards. But if confirmed, they would … Read the full story at The Verge. ]]>
+Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of what's possible. Today, the Swedish automaker revealed the updated PHEV versions of its popular XC60 and XC90 SUVs are its first "long range plug-in hybrids," delivering class-leading ranges of 78 miles and 73 miles, respectively. That's more than double the electric range of previous PHEV variants. The numbers are still preliminary and based on EPA testing standards. But if confirmed, they would … Read the full story at The Verge. ]]>
 
 ### Valve is still figuring out ‘how and when’ to do Steam Deck 2
 2026-09-14T20:13:47-04:00 — https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when
 
 Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller , the Steam Machine , and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out "how and when we can deliver something like that," Valve designer Pierre-Loup Griffais now tells IGN . Valve has been clear for years that 1) a Steam Deck 2 will indeed happen , and 2) it's not coming until Valve finds the right chip . The original Steam Deck worked because it delivered the right combination of price, performance, and battery life, and Valve has repeatedly said it won't sacrifice effici … Read the full story at The Verge. ]]>
 
-### Is Big Tech’s AI slowdown a safety pact or a cartel?
-2026-09-14T18:59:41-04:00 — https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel
-
-When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to "pace the frontier," signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. Their critics, however, argued they simply wanted to stop would-be competitors, kneecap the open-source movement, and avoid real legal safeguards - some dubbed it an outright "cartel." The truth … Read the full story at The Verge. ]]>
-
-### Apple Home’s new security camera features cost as much as $60 a month
-2026-09-14T18:28:52-04:00 — https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription
-
-New Apple Intelligence features for HomeKit cameras start at $10 a month and go up to $60. | Image: The Verge With the public release of iOS 27 and tvOS 27 , Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video , so you can get short text descriptions of who and what compatible security cameras saw, along with the clip. It also adds a new video search feature and the ability to stitch footage from multiple cameras into one clip, making it easier to keep an eye on what's happening around your home without scrolling through footage. But to get these features, you'll need to pay $9.99 a month for the 2TB iCloud Plus plan (or $ … Read the full story at The Verge. ]]>
-
-### What execs and politicians are saying about slowing down AI development
-2026-09-14T17:21:42-04:00 — https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei
-
-Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled "We Must Pace the Frontier" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of them here. Anthropic CEO Dario Amodei Amodei's Saturday morning essay outlined three steps for pacing AI development: embedded third-party evaluators that can verify if a company is adhering to safety practices and commitments and report incidents, coordination between frontier AI companies in democratic countries on standards and li … Read the full story at The Verge. ]]>
-
-### Trump throws out power plant climate pollution rules
-2026-09-14T16:45:00-04:00 — https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers
-
-The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and a revival of domestic manufacturing drive up power demand. The EPA's proposal today is a major escalation of President Donald Trump's efforts to promote fossil fuels while making it easier to build out energy-hungry data centers. Environmental and consumer advocates, meanwhile, are fighting back - arguing that Trump's deregulation spree comes with higher costs for the environment, public health, … Read the full story at The Verge. ]]>
-
-### Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world
-2026-09-14T16:03:37-04:00 — https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit
-
-NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his take on recent fears about AI development, which he called a "hoax," and told the crowd that "the robots will not be taking over." It's already a frothy week for AI news. The call with the president followed Anthropic CEO Dario Amodei's long essay published this weekend titled "We Must Pace the Frontier" where he argued for slowing … Read the full story at The Verge. ]]>
-
-### Valve s virtual reality plans hit actual reality
-2026-09-14T15:48:06-04:00 — https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact
-
-The Steam Frame headset is here , and it may not surprise you: it was supposed to cost less than $1,059 . "We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the same way they've impacted everybody," Valve developer Jeremy Selan told the BBC . "We fought hard to get it even to this price." I haven't yet seen Valve say whether it's selling the Steam Frame at cost, like the company confirmed it was doing with the $1,049 Steam Machine living room PC. But Valve developer Pierre-Loup Griffais hinted maybe so in an interview with Tom's Hardware : "there' … Read the full story at The Verge. ]]>
-
-### The best deals from Nintendo’s ‘customer appreciation’ sale
-2026-09-14T15:30:58-04:00 — https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale
-
-Super Mario Odyssey is among the discounted games. | Image: Nintendo As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon , Best Buy , and Walmart , as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the US government, and it ends on September 26th at 8:59 PM PT. Nintendo games and accessories tend to stick close to their list price, so it’s nice to have some big discounts, especially this far ahead of the holiday season. Some of the company’s best titles for the original Switch are significantly marked down, with a few Switch 2 titles thrown in, too. The most notable inclusions include the Mario Kart 8 Deluxe digital bundle with the Booster Course pass for just under $60 ( Amazon , Nintendo ), The Legend of Zelda: Tears of the Kingdom for $49 ( Amazon , Nintendo , Best Buy ), and Animal Crossing: New Horizons with the DLC for $60 ( Nintendo ). The Switch 2 Editions aren’t currently discounted, but upgrade packs are fairly affordable, costing $9.99 for the Tears of the Kingdom ( Amazon ) or $4.99 for Animal Crossing: New Horizons ( Amazon ). We’ve gathered some more of our favorite picks down below, and Nintendo has a dedicated page for all of the discounts . The Legend of Zelda: Tears of the Kingdom (Physical) Tears of the Kingdom is the latest mainline installment in the Zelda franchise. The storyline and gameplay are similar to Breath of the Wild ’
-
 ## Tom's Hardware
+
+### Intel reportedly cans 12Xe option for Nova Lake-S desktop — gaming APU design said to resurface with Razor Lake
+Tue, 15 Sep 2026 14:17:06 +0000 — https://www.tomshardware.com/pc-components/cpus/intel-reportedly-cans-12xe-option-for-nova-lake-s-desktop-gaming-apu-design-said-to-resurface-with-razor-lake
+
+Intel won't launch a Nova Lake-S SKU with 12 Xe3P graphics cores, according to tipster Jaykihn, who originally flagged a beefed-up APU design with the Nova Lake architecture. The original SKU was said to come with 4 P-cores, 8 E-cores, and 4 LPE-cores, along with the 12 Xe3P cores, presumably offering an inexpensive onramp to a gaming desktop without a discrete GPU. Now, the leaker says that design is cancelled, and Intel intends to pick it back up with Razor Lake, the generation that will follow Nova Lake. Nova Lake -S 12Xe has been changed to Razor Lake -S 12Xe September 14, 2026 Originally, Intel's 12 Xe3P Nova Lake SKU was said to require 65W of dedicated power to drive the iGPU, necessitating the use of two VCCGT phases on the motherboard for integrated graphics. Intel's Arc B390 GPU, which is the 12 Xe3-core model available in Panther Lake and Arc G-series processors, has a thermal design that can sustain up to 80W. However, it's currently being used in Panther Lake machines and handhelds like MSI Claw 8 EX AI+ that have lower power targets. The Xe3P architecture is slotted for use in Intel's Crescent Island AI accelerator , but it hasn't been announced for any other products yet. Xe3P supports a wide deployment of Xe cores (up to 32), a deeper XMX engine with support for low-precision data types like FP8 and FP4, an increased 512KB L1 cache per Xe core, and a new unified L2 cache (32MB on Crescent Island). Even by desktop APU standards, an 80W iGPU is a beefy accelerat
+
+### US AI data centers projected to become the fifth-largest natural gas consumer in the world by 2035 — consumption to grow by 15 billion cubic feet per day as demand for compute increases
+Tue, 15 Sep 2026 13:57:36 +0000 — https://www.tomshardware.com/tech-industry/data-centers/us-ai-data-centers-projected-to-become-the-fifth-largest-natural-gas-consumer-in-the-world-by-2035-consumption-to-grow-by-15-billion-cubic-feet-per-day-as-demand-for-compute-increases
+
+The estimated natural gas consumption of data centers in the U.S. is expected to massively increase as these facilities increasingly rely on gas turbine generators for their power. According to Bloomberg , data centers are projected to use up to 15 billion cubic feet per day by 2035, a 117% increase from the previous forecast of 6.9 billion cubic feet. This number tracks with other data center forecasts, which suggest that data centers will use 20% of U.S. power by 2035, amounting to about 194 gigawatts. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Many data center projects have already been delayed by the lack of available power infrastructure , with power plants expected to take so much longer before they come online. It’s for this reason that many developments have turned towards onsite generators , so much so that AI demand is now compounding the jet engine shortage already plaguing the aviation industry. Elon Musk was among the first to use gas turbines to power a data center when he deployed them at the Memphis Supercluster in 2024 , even though he didn’t have permits for some of them . Now, it
+
+### Bill Gates compares AI to alien intelligence in movies where ‘magically the US and China’ solve the problem together — warns world governments that they’re not ready for AI
+Tue, 15 Sep 2026 12:52:53 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/bill-gates-compares-ai-to-alien-intelligence-in-movies-where-magically-the-us-and-china-solves-the-problem-together-warns-world-governments-that-theyre-not-ready-for-ai
+
+Microsoft founder Bill Gates has said in an interview that the world’s governments are not ready for artificial intelligence. The billionaire philanthropist made the warning in an interview with Reuters , saying that nations must prepare for the various risks that the technology poses to the workforce and society as a whole. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible “I don’t think any government is nearly as deep on this as they have to be. Governments are way behind on this one,” Gates told the publication. He also added, “There’s all sorts of movies where some aliens are coming, and magically, the U.S. and China and everybody comes together to solve the problem. AI is kind of like this alien intelligence. It’s here, and we better do like it shows in those movies.” In line with this, he said that he has been in talks with world leaders like U.S. President Donald Trump to share his concerns, and that he’s also trying to meet with Chinese President Xi Jinping. While concerns AI’s impact on jobs and human society may seem small compared to the news about runaway AI taking over the world and ending a
+
+### ChatGPT transcripts are reportedly read by humans to improve responses, including those with personal information — 'Project Lilly' has seen OpenAI hire hundreds of contractors to manually review logs
+Tue, 15 Sep 2026 11:30:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-transcripts-are-reportedly-read-by-humans-to-improve-responses-including-those-with-personal-information-project-lilly-has-seen-openai-hire-hundreds-of-contractors-to-manually-review-logs
+
+AI companies don't have a great track record in areas like copyright or user privacy — unless they're the ones on the short end of the stick , that is — but it's generally known that the chat logs from platforms like ChatGPT are used for improving models. The mechanism as to how this happens was still a mystery until today. 404 Media just published a report about OpenAI's process of human review for chat transcripts, explaining how the review process works, and how it involves other humans sometimes reading private information. The rating project's name at OpenAI is Project Lily. The publication got information on the project's instruction guides, Slack channels, real ChatGPT conversations, and, of course, the rating system to classify conversations. The operators are called "prompt reviewers," and their job is fairly simple: look at anonymized real-world chats, and judge the quality of ChatGPT's responses to assess whether they actually answer the question, and that the text doesn't overuse "AI-speak," patronizing tones, emojis, or sycophancy, among other parameters. Anthropomorphizing and stating "personal" experiences are both off the table, meaning that while it's OK for ChatGPT to say "I found some information," it's not OK for it to say "as a chef, I like to..." or "I know what that's like." The work is "very rote," according to a reviewer, but at reportedly over $50 an hour, it's a high rate for what looks like reasonably simple work. The reviewer also said that their 
+
+### Microsoft rolls out emergency update for Windows 11's latest patch — recent update causes crashes on AMD graphics, Explorer hang-ups, and broken third-party integrations
+Tue, 15 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/software/windows/windows-september-2026-update-brings-many-long-requested-features-but-also-surfaces-fresh-bugs-windows-11-update-causes-crashes-on-amd-graphics-explorer-hang-ups-and-broken-third-party-integrations
+
+Microsoft has issued an out-of-band update for its recent Windows 11 patch, which has caused a number of bugs and issues. The September 2026 update was just released last Tuesday, and although it packs a number of new features and fixes nearly 1000 security flaws (commonplace in this day and age), there are also a few unfortunate regressions . The 25H2 update finally reintroduces a movable taskbar, just like we've had since Windows 95, with an option to make the height smaller for compact displays. Likewise, the Start menu now has multiple configurable layouts, and you can toggle each main section on or off. Microsoft also revamped Windows Search — perhaps to finally be useful — and users can now choose to only have it display local results. Explorer got a handy tweak in the form of using KB, MB, GB size indicators, as well. The update has also surfaced some serious bugs. First off, PCs with AMD Radeon GPUs are crashing , apparently due to the update provoking driver instability. Reinstalling the driver doesn't appear to help, and the reports unfortunately cover most contemporary AMD graphics cards. Microsoft did not mention AMD GPUs specifically in its latest update. Microsoft noted that it has fixed an issue with Remote Desktop Services where RDS might become unstable, causing connection and sign-in failures. Microsoft is also aware of an issue with audio output and microphone input going dead. Additionally, there are seemingly reports of audio devices starting up with a bo
+
+### Grab a $560 saving on this 1440p-ready gaming PC with a 9800X3D and RTX 5060 Ti 16GB, now $1,859 — all-white CyberPowerPC desktop ships with one of AMD's best X3D chips, along with 32GB DDR5 and a 2TB SSD
+Tue, 15 Sep 2026 10:36:40 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/grab-a-usd560-saving-on-this-1440p-ready-gaming-pc-with-a-9800x3d-and-rtx-5060-ti-16gb-now-usd1-859-all-white-cyberpowerpc-desktop-ships-with-one-of-amds-best-x3d-chips-along-with-32gb-ddr5-and-a-2tb-ssd
+
+A pre-built gaming PC with one of AMD's top X3D chips inside is always going to be a formidable option, especially if it's coupled with a current-gen Nvidia GeForce GPU. That's exactly what you're getting with this all-white CyberPowerPC machine, down to $1,859.99 thanks to a $560 discount , that ships with a 9800X3D, RTX 5060 Ti, and 32GB of DDR5 RAM. ● Check out this deal at Walmart That's a serious set of specs with few compromises to think about in a market that's seen huge price rises over the last 12 months. Building a new gaming PC has become far more expensive than buying a good pre-built, and the specs you're getting here set you up with a rig that'll let you play games at 1440p at high frame rates and the best graphics presets for years to come. This particular rig scored 4 stars in our CyberPowerPC Gamer Supreme review , with praise for its performance and room for upgrades later. Gamer Supreme (RTX 5060 Ti 16GB): was $2419.99 now $1859.99 This CyberPowerPC pre-built gaming PC is ready for gaming at 1440p. It features the AMD Ryzen 7 9800X3D, Nvidia GeForce RTX 5060 Ti 16GB, 32GB of DDR5 RAM, and a 2TB SSD for storage. View Deal Featured in this rig is one of Nvidia’s current mid-tier graphics cards in the RTX 5060 Ti. It ships with 4,608 CUDA cores and a boost clock speed of 2,527MHz, along with that all-important 16GB of GDDR7 VRAM. Unlike the RTX 5090, this RTX 5060 Ti only requires a single eight-pin PCIe connector to deliver power, so you won't need a huge amo
+
+### Minecraft Legacy gets rewritten in C++ for PS2 and Wii ports — code is tuned so it works well even on the PS2’s meager 32MB of RAM
+Tue, 15 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/video-games/retro-gaming/minecraft-legacy-gets-re-written-in-c-for-ps2-and-wii-ports-code-is-tuned-so-it-works-well-even-on-the-ps2s-meager-32mb-of-ram
+
+Games optimization specialist OptiProjects (AKA OptiJeugos) has released a new port of Minecraft Legacy for the Sony PlayStation 2 and Nintendo Wii consoles. The project is based on the Minecraft Java 1.2.5 source code, rewritten in C++, and using a recreated legacy console interface (machine translation). Even on the quarter-century-old PS2 with its cramped 32MB of RAM, the OptiCraft Heritage Edition runs at 15-30 fps. Check out the video demo embedded below. TERMINADO!!! FINALMENTE NUEVO PORT DE ""MINECRAFT LEGACY"" a PS2 y WII!!Es un PORT de JAVA 1.2.5 a C++ con la interfaz de Legacy recreada, corriendo nativamente en la PS2 y Wii.Probado en hardware real! La wii soporta online con servidores de JAVA en esa version! https://t.co/x3pQw8XvBJ pic.twitter.com/nZNc0QehGy September 14, 2026 Minecraft is one of the best-selling games of all time, with sales above $400 million according to an Entertainment Weekly report earlier this year. Meanwhile, the PS2 is the best-selling home console in history, with 160 million units shifted worldwide. When Minecraft first launched, the PS2 had already been kicking around for close to a decade and was rapidly reaching retirement age. Thus the Minecraft PS2 game release was never a thing (it did launch on PS3 in 2013-14). Similarly, the Wii got overlooked by Minecraft 's publishers, with the Wii U only getting the game in late 2014. Windows PC (Java Edition 1.2.5) PS2 (OptiCraft Heritage) Wii (OptiCraft Heritage) Engine / Language Java C++ (
+
+### Developer builds viral 3D source code visualizer that consumes 21GB of RAM — flies around 2.5 million lines of code at over 120 frames per second
+Tue, 15 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/developer-builds-viral-3d-source-code-visualizer-that-consumes-21gb-of-ram-flies-around-2-5-million-lines-of-code-at-over-120-frames-per-second
+
+The immortal line "it's a Unix system, I know this" is forever entrenched in many a techie's brain. In the Jurassic Park movie, the visualization software in question was Silicon Graphics' File System Navigator for IRIX, an actual piece of software running on a real SG workstation. The concept of viewing files in 3D space never truly caught on, but the horsepower available in contemporary machines may change that. Makepad creator Rik Arends created his own 3D flyable source code visualizer that he claims handles 2.5 million lines with ease, at 120+ FPS, no less. Ironed out the last performance issues with my full 2.5m line codebase explorer. 120hz awesomeness. Can only upload 60fps video tho. Much nicer uncompressed pic.twitter.com/LUsrmVaI6L September 12, 2026 Although the published video is only at 60 FPS due to X's limitation, the navigation looks smooth indeed, and it's impressive to see all the actual source code in a reasonably readable manner. Arends says the visualization initially took 21 GB of RAM (in this economy?!), but that after judicious application of indexes and streaming compression, he got memory usage down to a much more palatable 3.5 GB. Although he remarked that he's yet to fully optimize the visualizer, he did try to load Chromium's entire source tree (51 million lines) in only 60 seconds at one point. While one can argue that the 3D visualization of the code itself is probably really fun to look at, its practical use is also questionable, at least as-i
+
+### AMD's Radeon RX 9070 GRE graphics card returns to its lowest-ever price of $499 — rare deal places this current-generation 12GB GPU below its MSRP launch price
+Tue, 15 Sep 2026 09:50:21 +0000 — https://www.tomshardware.com/pc-components/gpus/amds-radeon-rx-9070-gre-graphics-card-returns-to-its-lowest-ever-price-of-usd499-rare-deal-places-this-current-generation-12gb-gpu-below-its-msrp-launch-price
+
+It's back: one of the best deals on a brand-new, current-generation, mid-range graphics card that packs 12GB of VRAM. There is a little hoop to jump through via Newegg to receive the discount, but it's more than worth it to slash $70 off the card and bring the price back down to its all-time low. AMD's Gigabyte Gaming Radeon RX 9070 GRE GPU is available at Newegg for $499 . All you need to do is click on the "Extra Discount Available" link and enter your email address to receive the promotional code. Once you do that, you bring the price of this graphics card all the way down from its $569.99 list price. It's a very grim time for shopping for PC component upgrades, so to see an actual deal on a GPU that takes it below its MSRP in today's inflated market is a rare sight indeed. ● Check out this deal at Newegg The RX 9070 GRE was initially made available to the Chinese GPU market and received a few changes from the original RX 9070 XT. The available VRAM was cut from 16GB to just 12GB of GDDR6, but it still sports bandwidth speeds of 18 Gbps on a 192-bit bus, producing 432 GB/s of memory bandwidth in gaming and applications. The Radeon RX 9070 GRE is still built on AMD’s RDNA 4 graphics architecture and uses the same Navi 48 GPU as the Radeon RX 9070 and RX 9070 XT. The RX 9070 GRE features a cut-down version of the Navi 48 chip with 48 compute units compared to the RX 9070's 56. Using just 220W total power draw, the RX 9070 GRE has an Identical power footprint to the standard 
 
 ### Perplexity’s local AI agent comes to Windows, but only for RTX GPUs with at least 24GB of VRAM — Portable Computer brings AI for multistep tasks to compatible PCs
 Tue, 15 Sep 2026 09:24:32 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/perplexitys-local-ai-agent-comes-to-windows-but-only-for-rtx-gpus-with-at-least-24gb-of-vram-portable-computer-brings-ai-for-multistep-tasks-to-compatible-pcs
@@ -131,52 +176,47 @@ Mon, 14 Sep 2026 17:41:01 +0000 — https://www.tomshardware.com/pc-components/g
 
 Nvidia's fastest gaming graphics card, the RTX 5090, has been on a tear of price increases over the past several weeks. However, over the past week, the available inventory has dwindled. Now, you can only find the RTX 5090 from third-party sellers at online retailers like Newegg and Amazon, commanding anywhere from $6,500 to $9,500 (or even higher) for Team Green's best GPU . Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC At Newegg, the cheapest RTX 5090 is the MSI Ventus 3X that's available from Slava Computers (a relatively new seller with 239 ratings and a 2.8 out of 5 rating at the time of writing) for $6,449. On Amazon, you can get the Asus TUF Gaming OC for $6,395 from Joes Tech Shop, a seller with an 81% positive rating. However, among the most recent reviews are a string of one-star reviews about orders never being fulfilled. The cost goes much higher, as well. The first result for "RTX 5090" on Newegg , for example, surfaces the MSI Ventus 3X OC for $8,699. In June, the median price for an RTX 5090 was $4,299. At the beginning of September, we logged the lowest online price at $5,199 in our GPU price tracker . Now, in less than two weeks, the available stock has completely disappeared online, and the options available fro
 
-### Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs
-Mon, 14 Sep 2026 17:39:09 +0000 — https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs
-
-The GeForce RTX 5090 is undeniably one of the best graphics cards money can buy. Banking on the fact that many already use it for AI, Nvidia has bolstered it with even more memory and launched it as the new RTX 5500 Pro Blackwell Workstation Edition. It offers comparable specifications to the GeForce RTX 5090 but distinguishes itself with 84GB of GDDR7 memory, 2.6X more than the Blackwell gaming flagship. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC The RTX Pro 5500 features the GB202 silicon, the powerhouse die that powers other high-end mainstream and professional Blackwell graphics cards, including the GeForce RTX 5090, RTX Pro 6000 , and RTX Pro 5000 . In fact, the RTX Pro 5500 uses the same die as the GeForce RTX 5090, which means 170 Streaming Multiprocessors (SMs) are enabled out of a possible 192. As a result, the RTX Pro 5500 has 21,760 CUDA cores and offers performance comparable to the GeForce RTX 5090. The differentiator is the memory subsystem, where the RTX Pro 5500 excels. Nvidia equipped the RTX Pro 5500 with 84GB of GDDR7 memory. This is the second time Nvidia has launched a graphics card with 84GB of memory, with the first being the China-exclusive RTX Pro 6000D . The RTX Pro 5500's memory capacity lets the Bla
-
-### Valve engineers discuss the duality of the Steam Frame and pricing — Valve's newest VR headset pivots SteamOS to Arm
-Mon, 14 Sep 2026 17:30:00 +0000 — https://www.tomshardware.com/virtual-reality/valve-engineers-discuss-the-duality-of-the-steam-frame-and-pricing-valves-newest-vr-headset-pivots-steamos-to-arm
-
-I spoke with Valve software developers Pierre-Loup Griffais and Jeff Leinbaugh about the Steam Frame launch, why the company is taking a two-pronged strategy with streaming and standalone support, and how the global memory/storage crunch affected development. You can read our review of the Steam Frame here , and the full transcript of our interview at Tom's Hardware Premium . Nearly a year after first revealing the Steam Frame VR headset, Valve is now ready to deliver the finished product to paying customers. Reservations for the headset have opened today, three months after the launch of the Steam Machine . Like the Steam Machine, the Steam Frame is launching amid absolute chaos in the tech industry. We're seeing higher prices across a wide range of PC hardware, especially memory and storage. Valve isn't operating in a vacuum, so those realities are reflected in the Steam Frame's pricing, which starts at $1,059. I began by asking about the headset's genesis and the team's goals for creating a next-generation VR headset. "Work started on Steam Frame basically as soon as we shipped the Index," explained Leinbaugh. “And so we did a lot of exploration into technologies and features and use cases to try to answer that question. And the goals that we aligned on for what became the Steam Frame was to make [it] much easier to use, which to us meant a lighter, more comfortable, easier to get into and out of VR headset." He added that with the previous Index headset, Valve was so lase
-
-### Valve Steam Frame interview — why it costs up to $1,300, Snapdragon power, and 10x foveated streaming
-Mon, 14 Sep 2026 17:28:23 +0000 — https://www.tomshardware.com/virtual-reality/valve-steam-frame-interview-why-it-costs-up-to-usd1-300-snapdragon-power-and-10x-foveated-streaming
-
-Prior to the official launch of the Steam Frame, Tom's Hardware Premium had a chance to talk with Valve software developers Jeff Leinbaugh and Pierre-Loup Griffais. We discussed the development process behind the Steam Frame, the standalone and streaming modes, networking strategy, and pricing, which you can read in its entirely here. You can read our review of the Steam Frame here. Like previous Valve launches, you can also read transcripts of our interviews with the company on the Steam Machine and Steam Controller . The transcript below has been lightly edited for clarity. Brandon Hill, Tom's Hardware : What were your goals in creating the Steam Frame and providing the framework necessary to support it, compared to legacy hardware like the Index ? Jeff Leinbaugh, Software Developer, Valve : Yeah, so the work started on Steam Frame basically as soon as we shipped the Index. And so we did a lot of exploration into technologies and features and use cases to try to answer that question. And the goals that we aligned on for what became the Steam Frame was to make [it] much easier to use, which to us meant a lighter, more comfortable, easier to get into and out of VR headset. That was a better way to interact with your whole Steam library than the goals we had for the Index. Where the Index was just: we wanted to make the best possible VR headset that we could make. And that came with a lot of compromises, which were worth it because they allowed us to have this really great VR 
-
-### Valve Steam Frame Review: Competent as a standalone VR, but wireless streaming remains the focus
-Mon, 14 Sep 2026 17:00:00 +0000 — https://www.tomshardware.com/virtual-reality/valve-steam-frame-review
-
-Valve has been ramping up its hardware releases during 2026, with the Steam Controller launching this past spring, followed by the Steam Machine earlier this summer. The 2026 hardware onslaught is now culminating in the Steam Frame, the company’s latest headset aimed at VR and non-VR gaming. Rather than being a streaming-only platform, like the preceding Valve Index, the Steam Frame has a powerful onboard Qualcomm Snapdragon 8 Gen 3 and up to 1TB of internal storage to play standalone games without the need for a PC. It’s an ambitious headset, which comes with an equally ambitious $1,000+ price tag. Design and Comfort of the Valve Steam Frame At first glance, the Steam Frame reminds me of oversized ski goggles, compared to the Daft Punk style of the preceding Valve Index headset. The overall design feels very organic, with soft curves and thin plastic to keep weight down. The thinner plastic drastically reduces weight compared to the Index (440 grams with the headstrap versus 809 grams for the Index). Two forward-facing cameras (which provide a monochrome passthrough of your environment) sit near the bottom of the front cover, while two additional cameras sit on the side of the Steam Frame, facing sideways and slightly upward. Together, the four cameras provide headset and controller tracking. The final two cameras are internal for eye-tracking purposes. The main unit also houses a cooling fan that helps remove warm air from the Snapdragon SoC and keeps your head from sweatin
-
-### Nvidia, Palantir, and others restrict advanced AI model usage over privacy concerns, report claims — 'paranoia' rising over customer intellectual property
-Mon, 14 Sep 2026 15:58:32 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-palantir-and-others-restrict-advanced-ai-model-usage-over-privacy-concerns-report-claims-paranoia-rising-over-customer-intellectual-property
-
-Anthropic and OpenAI are both facing uncomfortable questions from some large AI customers over concerns about how proprietary data may be used to train AI models. Some companies are so worried that they have begun demanding assurances about how their data is handled or going so far as to place limitations on which models their employees can use, and for which tasks, The Information reports. They fear that models may be trained on their intellectual property and information. The issue can be traced back to a June change by Anthropic. Following the change to its flagship Fable model's policies, Anthropic can now retain customer data. The company argues that it only does so to ensure that Fable isn't being misused. But some companies have raised concerns that it means sensitive business data will be caught up in the sweep. While both OpenAI and Anthropic point out that they don't train their models on the information given to them by companies with specific enterprise contracts by default, that doesn't tell the full story. Both companies do collect metadata from the same corporate customers, and while information on exactly what that metadata contains is hard to come by, OpenAI notes that it's only used “to better understand how our services are used." Anthropic also argues that any data it collects about how customers use its products is aggregated and anonymized. And that metadata isn't used to train models. Regardless, there are still concerns over a perceived lack of clarity
-
-### Solo dev enables running CUDA on AMD hardware in Windows, getting multiple CUDA libraries running on a gaming Radeon RX 9060 XT GPU in Windows — CUDA-exclusive workloads on AMD hardware in Windows possible without virtualization or dual-booting
-Mon, 14 Sep 2026 14:23:12 +0000 — https://www.tomshardware.com/pc-components/gpu-drivers/solo-developer-wires-zluda-to-amds-hip-getting-multiple-cuda-libraries-running-on-a-radeon-rx-9060-xt-in-windows-cuda-exclusive-workloads-on-amd-hardware-in-windows-is-possible-without-virtualization-or-dual-booting
-
-With the latest ROCm updates, AMD finally brought robust, official PyTorch and HIP SDK support to Windows for consumer GPUs, fully supporting the Radeon RX 7000 and the RX 9000 series. For native, supported frameworks, AMD on Windows is finally a viable reality, but what happens when you want to run a proprietary application, an older repository, or a specialized AI tool that absolutely refuses to support anything but NVIDIA's CUDA? That's where a new project, Speedstu's " CUDA-for-AMD-Windows ," could save the day. It proves that running rigidly CUDA-exclusive workloads on AMD hardware in Windows is possible without virtualization or dual-booting. To be clear, this project is not a brand-new runtime. Instead, it is a highly automated and reproducible PowerShell setup that bridges the gap between ZLUDA, the well-known, formerly AMD-funded translation layer , and AMD's native HIP/ROCm SDK for Windows. Through a series of clever scripts, the toolkit automatically detects the user's GPU architecture, grabs a specifically pinned version of ZLUDA (v6-preview.69), and, at least in theory, seamlessly maps it to the ROCm math libraries already present in Windows. Several important CUDA libraries link up, but the important cuDNN doesn't work yet. (Image credit: Speedstu/GitHub ) The result is that the developer successfully intercepted and mapped the CUDA driver API as well as the cuBLAS, cuSPARSE, and cuFFT libraries directly over to their AMD equivalents. As a proof-of-concept, the 
-
-### Need for Speed Underground 2 now runs directly on Nintendo Switch — other Classic Windows titles playable thanks to custom firmware boot
-Mon, 14 Sep 2026 13:36:24 +0000 — https://www.tomshardware.com/video-games/retro-gaming/need-for-speed-underground-2-now-runs-directly-on-nintendo-switch-other-classic-windows-titles-playable-thanks-to-custom-firmware-boot
-
-Retro gaming fans who own Nintendo Switch consoles now have several classic Windows titles they can now enjoy. A video shared on Twitter/X shows the well-loved Need for Speed Underground 2 running pretty smoothly on Nintendo’s hybrid device. Meanwhile, a forum about Wine-NX says that Quake III and OpenTTD are also playable, with WarCraft III nearly ready, too. It's early days for this 'experimental' software, but things look very promising. Windows x86 games are now running directly on Nintendo Switch homebrewNeed for Speed Underground 2 on capture 😀 pic.twitter.com/SD0sugV4Ds September 13, 2026 In the embedded video you can see NFSU2 runs rather well on Nintendo’s hardware. Older PC games are perhaps a good fit for what many consider to be the rather anemic specs of the Switch. A status panel shows CPU and GPU usage. According to the forum post “Races run at roughly 20–45 fps at default detail with the CPU overclocked.” Other games that Wine-NX can handle well at this time include OpenTTD (Transport Tycoon Deluxe) , which runs at up to 60 fps. Quake III Arena is also capable of running at around 37 fps at 1,280 x 720 pixels, according to the source. The last PC game mentioned as being compatible, almost, is WarCraft III , and specifically this work in progress has working “menus, campaigns, and now cutscenes.” The Wine-NX forum page linked to helpfully explains what exactly this is, and how it works. In brief, Wine-NX is a port of Wine 11 to the Switch’s native Horizon OS. 
-
-### Micron offers Taiwan employees $31,650 cash bonus as unions threaten strike over AI windfall — workers reject record payout package, demand 15% profit-sharing plan
-Mon, 14 Sep 2026 12:00:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/micron-offers-taiwan-employees-usd31-650-cash-bonus-as-unions-threaten-strike-over-ai-windfall-workers-reject-record-payout-package-demand-15-percent-profit-sharing-plan
-
-Micron has announced a one-time cash appreciation bonus of NT$1 million (US$31,650) as part of a broader compensation/reward package for its employees based in Taiwan. According to a Reuters report , the full package — which comes amidst ongoing disputes between the U.S. memory giant and its Taiwanese workforce — will see each employee earn a minimum of NT$1.7 million ($53,809.39). The company called the payouts the largest rewards package in company history, confirming that more than 60,000 employees globally will receive scaled rewards for fiscal year 2026, “following an extraordinary year for the company.” Across the last four quarters, Micron’s cumulative net income from sales of high-demand memory chips has crossed a staggering $50.47 billion, with its Q3 earnings representing a 346% year-over-year increase. After the announcement, the union representing workers at Micron's Taoyuan plant officially rejected the company's bonus proposal, calling the package a distraction. Under the announced payout, every Taiwan-based employee who joined the company on or before August 29, 2025, is eligible for the flat NT$1 million cash bonus. Those hired during fiscal year 2026 will receive a prorated amount. For direct manufacturing and production-line workers, the total bonus rewards are equivalent to 35 to 68 months of basic salary. Direct labor employees will receive a minimum total cash compensation of NT$1.7 million (US$53,809), while the average total compensation for junior engi
-
-### Proven 8-pin PCIe plugs aren't immune to melting — Thermal Grizzly WireView adapter burns out on Radeon RX 7900 XTX
-Mon, 14 Sep 2026 11:30:00 +0000 — https://www.tomshardware.com/pc-components/gpus/proven-8-pin-pcie-plugs-arent-immune-to-melting-thermal-grizzly-wireview-adapter-burns-out-on-radeon-rx-7900-xtx
-
-If you believe that the 8-pin PCIe power connector is entirely immune to the problems that have plagued the newer 16-pin connector, think again. A recent incident suggests that even the humble 8-pin is not entirely immune to failure. According to a Radeon RX 7900 XTX owner on Reddit , the 8-pin connectors on a Thermal Grizzly WireView monitoring device suffered overheating damage while connected to the graphics card. The user said that they experienced frequent freezes and black screens before discovering the damage. The affected connectors were the 8-pin connectors on the GPU side of the monitoring device, with visible signs of burning and melted plastic. The user also confirmed that the connectors were fully inserted, although the exact cause of the failure is still unknown. WireView is essentially an adapter that sits between a graphics card and the power cables, allowing users to monitor various values like power consumption, voltages, current in amperes, minimum and maximum power consumption, and more. Rather than connecting the PSU cables directly to the GPU, the power passes through the monitoring device, thus adding another set of connectors and electrical contacts to the power delivery path. A poor electrical connection, increased contact resistance, a damaged connector, or an issue with the adapter itself could have caused the overheating damage. Thermal Grizzly previously pointed to improper seating, backplate interference, or incorrectly aligned or soldered contac
-
 ## Phoronix
+
+### Fedora 45 Beta Released With KMSCON Console, GNOME 51 & Other Updates
+Tue, 15 Sep 2026 10:30:08 -0400 — https://www.phoronix.com/news/Fedora-45-Beta
+
+The beta release of Fedora 45 is out today and right on schedule for this wonderful Linux distribution...
+
+### Java 27 Reaches GA With The G1 Garbage Collector By Default Everywhere
+Tue, 15 Sep 2026 09:39:00 -0400 — https://www.phoronix.com/news/OpenJDK-27-Java-27
+
+Oracle christened Java 27 today with the OpenJDK 27 release reaching general availability (GA) status...
+
+### Sound Open Firmware 2.15 Released With AMD ACP 7.x Support, Intel UAOL
+Tue, 15 Sep 2026 09:04:40 -0400 — https://www.phoronix.com/news/Sound-Open-Firmware-2.15
+
+Sound Open Firmware as the open-source, vendor-independent audio DSP firmware stack and driver framework is out today with a new feature update...
+
+### Firefox 157 Beta Released With Latest Enhancements
+Tue, 15 Sep 2026 08:31:03 -0400 — https://www.phoronix.com/news/Firefox-157-Beta
+
+The Firefox release train keeps on rolling. With Firefox 156 released, Firefox 157 is now in beta ahead of the planned release coming up at the end of September...
+
+### New Linux Patches Improving Hibernation Speed In 2026
+Tue, 15 Sep 2026 06:30:22 -0400 — https://www.phoronix.com/news/Linux-Improv-Hibernation-2026
+
+A new patch series being worked on is enhancing the Linux kernel's hibernation allocator to allow for faster performance when hibernating the system...
+
+### Raspberry Pi Desktop Overhauled On Raspberry Pi OS, Adds Icon Dock
+Tue, 15 Sep 2026 06:14:58 -0400 — https://www.phoronix.com/news/Raspberry-Pi-Desktop-2026
+
+The Raspberry Pi Desktop on Raspberry Pi OS has seen a major overhaul to better modernize the desktop computing experience on the ARM64 single board computers...
+
+### Linux Patch Coming To Fix Under-Reported AMD Zen 5 TLB Sizes
+Tue, 15 Sep 2026 06:05:51 -0400 — https://www.phoronix.com/news/Linux-Fix-AMD-Zen-5-TLB-Sizes
+
+A minor reporting issue on Linux that has gone unaddressed until now is for properly conveying the Translation Lookaside Buffer (TLB) sizes on AMD Zen 5 processors...
+
+### OpenAPV Sees Big Update For Advancing The Advanced Professional Video Codec
+Tue, 15 Sep 2026 05:56:41 -0400 — https://www.phoronix.com/news/OpenAPV-1.1.1
+
+OpenAPV as the open-source reference implementation of the Advanced Professional Video (APV) codec today saw its v1.1.1 release, succeeding v0.3.0 as the prior release...
 
 ### AMD Preparing Linux For Enhanced SMT Protection "ESMTP" For EPYC VMs
 Mon, 14 Sep 2026 14:03:38 -0400 — https://www.phoronix.com/news/AMD-Enhanced-SMT-Protection
@@ -198,47 +238,57 @@ Mon, 14 Sep 2026 11:35:11 -0400 — https://www.phoronix.com/news/Rustls-0.23.45
 
 While the Rustls modern TLS library is written in the Rust programming language with a focus on memory safety, as we've seen out of other Rust project re-implementations in the past, the new implementations can lead to other security bugs of their own. Out today is Rustls 0.23.45 to fix a security issue introduced back in 2024 with Rustls while the likes of OpenSSL, BoringSSL, and others are unaffected...
 
-### Firefox 156 Available With Its Built-In PDF Viewer Starting Up To 45% Faster
-Mon, 14 Sep 2026 11:09:09 -0400 — https://www.phoronix.com/news/Firefox-156
-
-Mozilla today published their Firefox 156.0 release binaries ahead of the official Tuesday announcement...
-
-### Linux 7.3 Delivering Some Performance Gains On Intel Panther Lake / Framework Laptop 13 Pro
-Mon, 14 Sep 2026 10:42:00 -0400 — https://www.phoronix.com/review/linux-73-panther-lake
-
-Linux 7.1 brought some performance improvements for Intel Core Ultra Series 3 "Panther Lake", Linux 7.2 enhanced the performance for the integrated Arc B390 Xe3 graphics, and now for the in-development Linux 7.3 kernel are various performance improvements at large. Today s article is looking at the performance of the in-development Linux 7.3 kernel compared to Linux 7.2 stable using the Core Ultra X9 388H within the Framework Laptop 13 Pro.
-
-### Removing Drivers For Outdated ARM Platforms Will Lighten The Kernel By ~247k Lines
-Mon, 14 Sep 2026 09:32:47 -0400 — https://www.phoronix.com/news/Branch-Remove-Old-ARM-Drivers
-
-The Linux kernel is going to see the removal of a number of recently deprecated ARM 32-bit platforms. Following the deprecation in Linux 7.3, removing the old ARM platforms will lighten the kernel by around 55k lines of code. But removing now unused drivers only relevant to those platforms will mean roughly a quarter million lines of code can be removed from the kernel source tree...
-
-### Linux 7.4 Could End Up Seeing Kernel Builds ~36% Faster, Incremental Builds ~70% Faster
-Mon, 14 Sep 2026 06:31:16 -0400 — https://www.phoronix.com/news/Faster-Kernel-Builds-AI-v2
-
-Earlier this month I wrote about a patch series posted to the Linux kernel mailing list that addressed a lot of "hideous code" to make Linux kernel builds faster. A number of single-threaded bottlenecks were tracked down and fixed within the Linux kernel thanks to the assistance of AI. A second revision of those patches hit the mailing list this morning and there is hope they could be upstreamed for Linux 7.4...
-
-### Linux Patched For Silent User-Space Data Loss Bug That s Existed Since 2023
-Mon, 14 Sep 2026 06:13:45 -0400 — https://www.phoronix.com/news/Linux-7.3-Fix-Silent-Data-Loss
-
-Being merged after yesterday's Linux 7.3-rc3 release was an important fix for addressing a silent, user-space data loss bug that has existed in the kernel the past three years...
-
-### Linux 7.3-rc3 Released: "Another Fairly Large RC"
-Sun, 13 Sep 2026 18:00:23 -0400 — https://www.phoronix.com/news/Linux-7.3-rc3-Released
-
-Out today is the third weekly release candidate of Linux 7.3 as this next kernel version works its way toward a stable release in the second half of October...
-
-### Zstd Improvement For Linux 7.4 To Avoid Redundant Initialization
-Sun, 13 Sep 2026 10:04:23 -0400 — https://www.phoronix.com/news/Zstd-Linux-7.4-Avoid-Redundant
-
-In addition to Usama Arif's recent Linux patches for addressing a major inefficiency within the Linux kernel's Zstd compression code, he also has a separate patch series destined for Linux 7.4 to further enhance the Zstd compression/decompression performance by avoiding redundant initialization...
-
-### BFS File-System Being Removed For Linux 7.4
-Sun, 13 Sep 2026 07:03:26 -0400 — https://www.phoronix.com/news/BFS-Filesystem-To-Be-Removed
-
-The latest upstream file-system to be removed from the mainline Linux kernel is... BFS...
-
 ## The Register
+
+### Who's governing your AI? A trust framework for enterprise agents and models
+Tue, 15 Sep 2026 17:00:00 +0200 — https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237
+
+Experienced IT leaders know that shadow IT is a persistent problem, but rapidly evolving AI and the proliferation of agents mean the potential threat - and cost - is greater than ever. AI agents are non-deterministic, autonomous, and adaptable. They excel at solving tasks in creative ways, often to the surprise of their creators. We've seen agents write blogs that criticize project maintainers that refused their pull requests. Another one hacked a McKinsey chatbot to gain read/write access without asking for permission. And agents are getting smarter all the time. As an industry veteran, DigiCert's senior vice president of product Brian Trzupek sees an old pattern. "When the promise of the technology is so good, people are willing to throw security out the window, and they just want to get to that promise real fast." CISOs should be worried about allowing these agents into their infrastructure without strict controls, but it's happening anyway. IBM's 2026 Cost of a Data Breach report found that more organizations lacked governance to manage AI or detect shadow AI, at 68 percent compared to 63 percent last year. The number requiring IT approval to deploy AI had fallen to 38 percent from 45 percent. DigiCert is trying to solve this problem with its own approach to AI governance called AI Trust. The framework, outlined in this white paper, builds on what the company is good at: public key infrastructure, DNS, and attestation. The AI governance questions CISOs should ask AI Trust
+
+### CenterPoint Energy confirms intruder helped themselves to customer information
+Tue, 15 Sep 2026 16:14:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/15/centerpoint-energy-confirms-intruder-helped-themselves-to-customer-information/5296523
+
+Texas utility CenterPoint Energy has confirmed that an attacker broke in and stole customer information through one of its internet-facing systems. The company disclosed the breach in a Form 8-K filing with the Securities and Exchange Commission after a post on a cybercrime forum claimed to offer its customer data. Houston-based CenterPoint, which serves around 7 million customers, said its electricity and gas services remain operational and undisrupted. "While the investigation remains ongoing, the company has determined that an unauthorized third party obtained personal information relating to a portion of the company's customers through one of the company's external-facing systems," the filing said. "The company is continuing to work with third-party experts to determine the scope of customers and personal information affected by the incident and intends to notify affected customers and regulatory authorities as required by applicable law. "The company reported the matter to law enforcement authorities and has notified certain regulatory authorities of the issue." The person claiming responsibility said they extracted 7.49 million of CenterPoint's files from a poorly secured API. Among the data allegedly available to download are customer names and contact details, billing data, move-in dates, driver's license information, and the last four digits of Social Security numbers. The Register has not independently verified the contents of the alleged data dump, and CenterPoint 
+
+### September's Windows 11 patch needs an emergency patch of its own
+Tue, 15 Sep 2026 15:33:55 +0200 — https://www.theregister.com/on-prem/2026/09/15/septembers-windows-11-patch-needs-an-emergency-patch-of-its-own/5296567
+
+Microsoft has released an out-of-band update for Windows 11 24H2 and 25H2 after September's record-breaking Patch Tuesday addressed almost 1,000 vulnerabilities across the company's products – and introduced several new problems. Those problems are related to USB Audio Class 1.0 devices, Remote Desktop Services, and host folders shared with certain Hyper-V-based Linux virtual machines via Plan9. While the Hyper-V and Remote Desktop Services issues are fixed, there is still work to do on USB audio. The update restores multichannel playback on USB Audio Class 1.0 devices that continued to work in stereo, but other affected devices may remain silent, have unresponsive volume controls, or display "This device cannot start (Code 10)" in Device Manager. Owners of devices still giving them the silent treatment were told: "Microsoft is working on a resolution and will update this documentation when more information is available." The cumulative update also includes protections for CVE-2026-62721, an elevation-of-privilege vulnerability in the Windows User-Mode Power Service. Separate September security updates for Excel also broke that rarely used function, Paste, on some installations. Microsoft has yet to issue a fix. Readers were impressively supportive of Microsoft's efforts to ensure its patches don't disrupt workflows. Paratiritis noted: "The issue with all these versions of Excel is understandable, considering such changes require testing, either manual or automated, which can
+
+### Swiss court sentences 52-year-old Ukrainian ransomware dev to nearly 13 years in the cooler
+Tue, 15 Sep 2026 15:32:00 +0200 — https://www.theregister.com/security/2026/09/15/swiss-court-sentences-52-year-old-ukrainian-ransomware-dev-to-nearly-13-years-in-the-cooler/5296482
+
+A Swiss court has sentenced a 52-year-old Ukrainian ransomware developer to 12 years and nine months in prison for his role in attacks on companies including Stadler Rail. Zurich District Court found that the man developed LockerGoga, MegaCortex, and Nefilim, but was not the mastermind behind the operations. He also received a ten-year ban from Switzerland. The judgment is not final and can be appealed. He had been held in pretrial detention since October 2021 and consistently denied knowing that his software was being used for criminal purposes. He said the source code found at his home in Basel-Landschaft came from his consulting work for an unidentified IT security client. The court rejected that explanation because extortion messages were also found among his data, SWI reported. The ransomware developer was also found guilty of playing a key role in high-profile ransomware attacks, including the one that hit Stadler Rail in 2020 [PDF]. Not to be confused with the more recent attack on the rolling stock manufacturer – that one was claimed by Everest – the earlier breach occurred in May 2020. At the time, Stadler Rail did not use the word "ransomware," but said the attack involved malware, that it "most likely led to a data leak," and that "the offenders tried to extort a large amount of money," threatening to leak the files if the ransom was not paid. As it did following this year's incident, Stadler refused to pay. The 2020 Nefilim ransom demand was reportedly $6 million.
+
+### Anthropic and OpenAI look to Uncle Sam to make them too big to fail
+Tue, 15 Sep 2026 15:00:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/15/anthropic-and-openai-look-to-uncle-sam-to-make-them-too-big-to-fail/5296403
+
+OPINION By luck or happenstance, Anthropic planted a seed in the mind of the public last week: AI in the wrong hands is dangerous and left unchecked poses an existential threat to humanity. With pop culture steeped in references to malignant AI, the mainstream media ate it up. The headlines wrote themselves and the seed took root. But it's not humanity that faces the biggest threat – at least not yet. Rather, it's American model-making giants Anthropic and OpenAI, which, despite hundreds of billions in investment, are years from profitability and entirely dependent on a steady supply of capital. Meanwhile, Chinese open-weight models are improving rapidly to the point where some outperform the big frontier models that sparked the generative AI boom, while using a lot fewer resources. But that threat from Chinese models could turn into an opportunity if Anthropic and OpenAI can convince the public and government to instigate a crackdown in the name of safety. The fearmongering began in June when outside researchers testing Anthropic's then-brand-new Fable 5 model sounded the alarm in a report that cited national security concerns. The Trump administration quickly issued an export control directive suspending access to Fable 5 and Mythos 5 to any foreign national inside or outside the US. Anthropic complied by disabling access to both models to "ensure compliance." The shocking discovery the researchers made? According to one private security researcher granted access to the rep
+
+### Microsoft account refuseniks have another way of installing Windows
+Tue, 15 Sep 2026 14:31:00 +0200 — https://www.theregister.com/os-platforms/2026/09/15/microsoft-account-refuseniks-have-another-way-of-installing-windows/5296471
+
+A new loophole to avoid Microsoft's insistence that you need a Microsoft account to use the Home edition of Windows 11 has appeared, and it's so ludicrously simple we can only assume the good bug fairy has paid a visit to Redmond. The workaround is in the normal Windows 11 Out-of-Box Experience (OOBE) that users see when setting up the operating system. Get to the point where Windows prompts for a Microsoft account, then click the "Learn more" hyperlink beneath the text box and the Sign-in options link, and the OOBE skips to prompting for the user's name and eventually a password. Just like it used to do before Microsoft decided that you needed one of its accounts to use the software you thought you'd paid for. "Bob Pony" created a helpful post demonstrating the workaround. We checked it, and it worked exactly as demonstrated in the video. However, we can't imagine Microsoft leaving this in the setup program for long, considering the company's desire to drive users into its preferred online world. Indeed, some components installed with Windows won't work without a Microsoft account, but at least users can choose whether or not to use them. Microsoft has played whack-a-mole with workarounds users have found to avoid a Microsoft account in the Windows setup application over the years. In 2025, it snapped shut a popular loophole in the name of keeping users safe and ensuring Windows is stable, secure, and ready to deliver the experience users expect from Microsoft's operating sy
+
+### US confirms it has weapons in spaaaaaace
+Tue, 15 Sep 2026 14:00:00 +0200 — https://www.theregister.com/offbeat/2026/09/15/us-confirms-it-has-weapons-in-spaaaaaace/5296512
+
+The US Space Force has deployed "space control weapons" into orbit, although it stopped short of explaining what they are and how it got there. US Air Force Secretary Troy Meink reportedly spoke at the Air and Space Forces Association conference and said the US had deployed weaponry around Earth. There is no word on the nature of the weaponry, nor on how and when it was launched. There have been plenty of classified launches, and the US also has the X-37 program. There are two uncrewed X-37B spaceplanes, which can loiter in orbit for years performing classified activities. The Register asked officials about the weaponry, but we have not yet received a reply. Something that could jam satellite communications is possible, or a device that could fire a pulse to disable electronics. Another possibility is something more ballistic or kinetic, although the potential for destruction to create debris doesn't bear thinking about. One wag on social media dubbed the consequences of an ill-thought-out ballistic weapon as "Mutually Assured Kessler Syndrome." Kessler Syndrome is a theoretical situation in which space around Earth becomes so crowded that collisions between objects cause a cascade of debris, eventually making orbital space inaccessible. A ballistic weapon that could generate a cloud of space junk is therefore less than ideal. The Outer Space Treaty, which forbids weapons of mass destruction in space, went into force in 1967, but the superpowers have found ways to work around
+
+### Gov.uk still struggling with IT contractor tax rules
+Tue, 15 Sep 2026 13:28:28 +0200 — https://www.theregister.com/public-sector/2026/09/15/govuk-still-struggling-with-it-contractor-tax-rules/5296531
+
+UK government departments are still struggling to implement the tax laws governing IT contractors years after the controversial rules were introduced. IR35 has become hated by freelance tech workers who feel it removes the tax benefits of contracting, without offering the employee benefits of in-house roles in its stead. The latest accounts from the Foreign, Commonwealth and Development Office (FCDO) show that the UK tax collector is reviewing its implementation of IR35 for a second year after the department decided to place hundreds of workers inside the reach of the rules. In its 2024 -25 annual report, the FCDO said a total of 243 were found to be in scope of IR35 following “a full review of all IR35 off-payroll status determinations.” “This resulted in a high number of engagements that had previously been assessed as out-of-scope being reassessed as in-scope. A voluntary disclosure advising His Majesty’s Revenue & Customs (HMRC) of these changes in assessment has now been made, and the FCDO have accrued an estimate of the potential backdated tax owed within our 2024-25 accounts,” the report said. However, the most recent set of figures for 2025 -26 said workers determined as in-scope of IR35 has now leapt to 441. The continuing review “resulted in a significant reduction of out-of-scope engagements in the Department.” It said HMRC was also continuing to review its interpretation of the rules. Dave Chaplin, CEO of tax advisory company IR35 Shield, said: “The Foreign Office
+
+### UK's Digital ID walks into a bar... two months after being killed off
+Tue, 15 Sep 2026 12:31:47 +0200 — https://www.theregister.com/offbeat/2026/09/15/uks-digital-id-walks-into-a-bar-two-months-after-being-killed-off/5296504
+
+Britain killed off its national digital ID scheme this summer, but from today you can use a digital ID to prove you're old enough to buy a pint. New rules taking effect on Tuesday allow pubs, bars, restaurants, music venues and shops in England and Wales to accept digital proof of age when selling alcohol, meaning customers can use an app on their phone instead of digging around for a driving license or passport. The change is voluntary. Businesses don't have to accept digital proof of age, customers don't have to use it, and the government admits the technology will take time to gain wide support. So anyone planning to leave their wallet at home tonight may want to check with the pub first. Still, it gives digital identity technology a conspicuously everyday new job just two months after Prime Minister Andy Burnham pulled the plug on his predecessor's much grander national Digital ID scheme. That project, announced under Keir Starmer, would have created a government-backed digital credential and eventually made digital right-to-work checks mandatory. Burnham ditched the scheme in July, with his government saying the money and resources earmarked for it would be redirected elsewhere. Digital identity itself, however, wasn't buried with it. The new alcohol rules rely on the UK's existing Digital Verification Services (DVS) framework. To be accepted for booze purchases, digital proof of age must be provided through a DVS certified against the government's trust framework and li
+
+### PostgreSQL 19 graph queries fail the 'would you ship this?' test
+Tue, 15 Sep 2026 11:42:59 +0200 — https://www.theregister.com/databases/2026/09/15/postgresql-19-graph-queries-fail-the-would-you-ship-this-test/5296343
+
+PostgreSQL developers have pulled planned graph query support from version 19 over concerns that unresolved bugs could haunt the release. The feature, SQL Property Graph Queries (SQL/PGQ), became part of the SQL standard in 2023. It provides syntax for exploring relationships between nodes connected by edges. PostgreSQL's implementation was removed over unresolved issues, while version 19's release date remains unconfirmed. A fourth beta is scheduled for September 24. Longtime PostgreSQL contributor Tom Lane warned: "At this point I'd be willing to bet dinner that if we ship it in v19 there will be post-release bug discoveries that are unfixable until v20." Tom Kincaid, senior vice president of software engineering at PostgreSQL support and development company EDB, confirmed that PGQ will not be part of PostgreSQL 19. "The community wanted to work through a few more things before releasing it," he said. Database administrators still have something to look forward to, though: reclaiming disk space without shutting everyone out of a table for the duration. VACUUM FULL rewrites a table to reclaim space occupied by obsolete row versions and return it to the operating system. It holds an exclusive table lock throughout, blocking other reads and writes. Kincaid told The Register that the resulting interruption makes administrators reluctant to run it. "Middle-of-the-night calls have been a result of somebody doing a VACUUM FULL, and their customers can't get access to the data or s
 
 ### Give Xfce a Mac or Unity-style makeover
 Tue, 15 Sep 2026 11:15:00 +0200 — https://www.theregister.com/software/2026/09/15/give-xfce-a-mac-or-unity-style-makeover/5295937
@@ -250,124 +300,119 @@ Tue, 15 Sep 2026 10:30:00 +0200 — https://www.theregister.com/columnists/2026/
 
 The AI industry likes to abuse the word "open." It appears in product releases, research papers, policy debates, and investor presentations. A company publishes model files to Hugging Face, developers run them on their own GPUs, and the release is quickly described as an "open source model." Not necessarily. It may only be open-weight. The difference is more than a technicality. It determines whether you can merely deploy a completed neural network or whether you can meaningfully inspect, reproduce, alter, and redistribute the system that produced it. A genuinely open source system should grant the freedom to do all of the above. Weights are the learned numerical parameters created by training. Together with the model architecture and inference code, they allow a large language model (LLM) to function. You can download an open-weight model, self-host it, fine-tune it on internal documents, and avoid routing prompts through a proprietary API. Open weights are publicly available. They matter because running them locally can offer greater control over data, privacy, costs, supplier API changes, and vendor lock-in. They've also helped build a large ecosystem of local-model runtimes, inference providers, fine-tuning tools, and specialized downstream models. The Open Source Initiative (OSI), steward of the Open Source Definition (OSD), makes the distinction directly: "Open Weights refer to the final weights and biases of a trained neural network." Those values determine how a model
 
-### How Everpure plans to stop AI from starving without data
-Tue, 15 Sep 2026 10:00:00 +0200 — https://www.theregister.com/ai-ml/2026/09/15/sponsored-how-everpure-plans-to-stop-ai-from-starving-without-data/5295812
-
-Imagine you are an AI Agent. You execute inside a $20-40 million-plus Nvidia SuperPOD system’s accelerator hardware, have a skill set and can call up other agents to do your bidding. An insurance company customer, using a PC browser or smart phone, asks a question: “Am I covered for weather-related damage under my current policy?” and it is handed off to an AI agent. What happens next? The agent itself runs on clusters of CPU + GPU/accelerator servers that host the large language model, any Retrieval-Augmented Generation (RAG) components, orchestration logic, and tools that look up the actual policy data. Those same servers (or tightly coupled backend systems) access the policy database/storage to answer the weather insurance coverage question, then return the response to the user’s device. Everything the agent does depends upon data, and it and all the other agents operating at the same time in the SuperPOD system, need to get that data off a storage system. A national or large regional-level insurance company will have petabytes, even exabytes, of data it stores so it can manage its insurance business. There needs to be a central index of this data’s structure, state, location, field names, types and semantics so that AI agents go to one place, a kind of data encyclopedia, to find out what information they need and where it is located. Agents are in a hurry, because GPU servers are hugely expensive and just a minute of idle time can cost $25 or more, a dollar every 2.4 seco
-
-### Most people who quit M365 for Google do it out of spite, but there’s no ROI in that
-Tue, 15 Sep 2026 09:23:34 +0200 — https://www.theregister.com/saas/2026/09/15/most-people-who-quit-m365-for-google-do-it-out-of-spite-but-theres-no-roi-in-that/5296460
-
-One of the main motivations for quitting Microsoft 365 and adopting Google Workspace is spite, an emotion that sadly doesn’t produce a return on investment. The source of that disappointing news is Domenico Scriva, a senior principal analyst at Gartner, who today told the firm’s IT Symposium event in Australia that moving between the suites is also unlikely to save buyers much money. He pointed out that Google Workspace licenses are cheaper than the E5 bundle that is Microsoft’s most popular M365 license, but that Google’s suite doesn’t cover telephony, security, business intelligence, or an OS license. By the time users add all those bits to Google Workspace, he thinks they will pay $2 a month more than the cost of Microsoft’s suite – even after considering the fact that Google bundles its Gemini AI with Workspaces but Microsoft charges extra for Copilot. Scriva said Google’s suite can be more cost effective when paired with an Apple Mac or Chromebook. Mac users get lower costs because their machines last longer than PCs, while Chromebook owners save on hardware purchase price but need to replace their machines more often. Those numbers don’t consider the complexity of migrating between the suites, and the cost of moving. Scriva said dependencies built into either ecosystem are a likely source of migration complication, and the need for user training is another element that those who contemplate migrations sometimes neglect. The analyst said he’s seen some M365 users trying 
-
-### Apple iPhone Duo makes developers think in folds
-Tue, 15 Sep 2026 07:55:00 +0200 — https://www.theregister.com/devops/2026/09/15/apple-iphone-duo-makes-developers-think-in-folds/5296415
-
-The October 23 ship date of Apple’s iPhone Duo grows nigh, so developers wanting to optimize their iPhone apps for the foldable will need to get to grips with its new display behaviors and form factor. “A fold is a UI event with backend consequences,” Atharva Deosthale, Appwrite developer advocate, wrote in an introductory blog post. “Folding and unfolding is part of normal device use, so apps need to preserve state and respond cleanly when the display changes.” The iPhone Duo, which Apple introduced last week, is a smartphone with two screens: a squat 5.4-inch (diagonal) outer display on top of the case and the larger 7.6-inch inner display within. The display’s contents automatically (and stylishly) move to the visible screen when the device is opened or snapped shut. Apple has published a repository of technical documentation to help devs prepare for the new form factor. Time to study up. An ever-shifting canvas The foldable fondleslab will run iOS 27.1, and will run unaltered iPhone apps, but in the same way regular iPhone apps run on the iPad: awkwardly. Devs need to learn some new moves to style their apps to truly make Apple’s mobile device look good. The foldable form factor means that the user may start work on an app on the top screen, and when the device opens, the app should appear seamlessly on the larger display (the display ratio remains the same across both screens). The phone doesn’t have to lie flat for the inner screen to be fully used; it can also fold int
-
-### The latest AI doomsayer is China’s intelligence boss
-Tue, 15 Sep 2026 06:56:09 +0200 — https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451
-
-China’s minister for State Security has decided AI might be bad for the nation’s ruling Communist Party. Party secretary and minister Chen Yixin’s views appeared in China Cyberspace Magazine, the flagship publication of China’s Cyberspace Administration (and which readers may recall once carried a piece by Elon Musk). In Chen’s view, “the field of AI has become the main battleground for global technological competition and a new arena for strategic rivalry among major powers.” His article also recites familiar grievances about US sanctions and the possibility AI could be weaponized to detect and exploit software vulnerabilities and then to attack important infrastructure, or to steal industrial and state secrets. OpenClaw and similar products also worry the minister, who thinks such software has “structural problems such as remote control of device management permissions and leakage of sensitive user information.” China may also have a PEBCAK* problem because Chen thinks “Some domestic users lack sufficient security awareness, using foreign AI products to process sensitive information and export data overseas, resulting in large-scale data leaks from within the country.” The minister is also worried about how AI challenges China’s Communist Party. “The application of artificial intelligence brings a large number of uncertainties to social governance and public order,” he observed. “The ‘black box’ of algorithms and the ‘poisoning’ of data may amplify existing social biases. T
-
-### COBOL dev won .Net hackathon with help from AI – and their CIO loves it
-Tue, 15 Sep 2026 03:47:17 +0200 — https://www.theregister.com/ai-and-ml/2026/09/15/cobol-dev-won-net-hackathon-with-help-from-ai-and-their-cio-loves-it/5296438
-
-The CIO of Australia’s taxation office (ATO) is letting administrative staff use Microsoft’s Copilot for everyday activities, in the hope it pays off by helping them to develop skills, and ideas, that eventually improve its core services. “We are getting AI into the hands of as many workers as possible to build the muscle,” ATO CIO Mark Sawade said at analyst firm Gartner’s annual IT Symposium on Monday. The CIO said the ATO is already familiar with AI. “We have been doing forms of machine learning and deep analytics for fraud for the better part of a decade,” he said, mentioning fraud detection as one application for the tech. For now, he’s not letting generative or agentic AI near those processes or other core activities. “We are using Copilot to just speed up some everyday activities,” the CIO added, saying he hopes that improves AI literacy and perhaps develops skills that lead to AI-powered improvements to core processes. Sawade said he doesn’t expect allowing admin staff to work with Copilot will improve efficiency or produce obvious return on investment. Instead, he hopes to develop ROE – “return on employee.” “You will develop the muscle you need to learn how to improve business processes,” he said. The ATO’s developer team gives him confidence this strategy can work. The CIO said the ATO operates many technology platforms of different vintages, from mainframe to Java, and recently staged an internal hackathon during which a COBOL developer emerged triumphant after us
-
-### Microsoft drafts feel-good AI model guidelines and wants your input
-Tue, 15 Sep 2026 02:15:29 +0200 — https://www.theregister.com/ai-and-ml/2026/09/15/microsoft-drafts-feel-good-ai-model-guidelines-and-wants-your-input/5296431
-
-Microsoft on Monday debuted draft principles for governing how the company will train future AI models, as part of a public consultation process. The Windows biz has solicited feedback to refine its Humanist AI Code of Conduct [PDF], with the expectation of applying the guidelines to model development next year. "This Code of Conduct is motivated by a single overriding objective: that humans must retain meaningful control over AI so that it can help people live healthier, happier, and more productive lives," the company explained in its bid for public feedback. "It is the primary governing document informing how we train MAI models, the technical controls, the operational and monitoring systems we implement, and the organizational culture that underpins all of this." The focus is on Microsoft AI (MAI) models as a source of health, happiness, and productivity, and not on other potential sources of well-being, like employment. In July, Microsoft announced the layoff of ~4,800 employees, roles that EVP and chief people officer Amy Coleman insisted "are not being replaced by AI." That followed another roughly 875 layoffs at LinkedIn in May. The 38-page document makes appealing declarations, such as insisting Microsoft's MAI models won't misrepresent their reasoning, conceal their capabilities, or pursue their own goals – behaviors other AI models have happily done. It is intended to govern future MAI models as they (perhaps) approach "superintelligence" over the next decade. Micr
-
-### HBO Max Reddit account compromised to serve ClickFix attacks
-Tue, 15 Sep 2026 00:43:01 +0200 — https://www.theregister.com/cyber-crime/2026/09/14/hbo-max-reddit-account-compromised-to-serve-clickfix-attacks/5296408
-
-Someone compromised the official HBO Max Reddit account and used it to push more than 100 malicious ads serving up ClickFix attacks targeting both Windows and macOS devices with information-stealing malware. A Reddit user uncovered the infostealer ads on September 6, noting that the ad showed u/hbomax as the author — this is the verified HBO Max account — and advertised a macOS app for HBO Max. The streaming service does not offer a native client for the Mac. Anyone who clicked on the malicious ad would then be taken to a “somewhat-legitimate” looking landing page (hbomaxx[.]us) that includes a join/download button. Clicking the button produced instructions telling the user to copy and paste a command into Terminal on macOS. The Reddit security sleuth described that as “the classic infostealer/clickfix paste this command to download,” noting that they tested all of this in a sandboxed environment, and didn’t actually run the executable on their machine. “My guess is that the Reddit account is compromised,” they concluded. Three days later, Reddit paused the infostealer-dropping ads, and an admin said the social media platform’s safety and security teams were investigating what happened. HBO Max’s parent company Warner Bros. Discovery didn’t immediately respond to The Register’s inquiries about the account takeover - including who hijacked the streaming service’s Reddit account and how they did it. Maybe someone who didn’t like the House of the Dragon season 3 finale? We will 
-
-### Oracle celebrates banner quarter with another round of layoffs
-Mon, 14 Sep 2026 22:46:57 +0200 — https://www.theregister.com/databases/2026/09/14/oracle-celebrates-banner-quarter-with-another-round-of-layoffs/5296395
-
-Oracle posted record revenue during its latest quarter, but that hasn't stopped the company from chopping more employees. Reports began appearing on social media early Monday that staff were having trouble accessing corporate systems such as email and Slack, which essentially served as a sign that they had lost their jobs. According to a number of now-ex Oracle employees posting in a LinkedIn thread, layoff emails weren’t sent to personal email addresses, leaving a good number of people unsure what was happening outside of calls to supervisors, prior heads-up that they were on the chopping block, and the like. It seems some employees did manage to access their accounts and view the layoff email, as a copy was shared with Business Insider, which published it in its coverage of this latest round of job cuts. “After careful consideration of Oracle's current business needs, we have made the decision to eliminate your role as part of a broader organizational change,” the email read. “As a result, today is your last working day.” While the message didn’t indicate what sort of severance agreement Oracle was offering those whose jobs were cut, other reports indicate that those caught up in the layoffs were being offered four weeks of pay, plus an additional week for each year of employment. Some of those who claimed on LinkedIn they were part of the layoffs had been at Oracle for 20 years. Oracle has been undertaking a large-scale restructuring of its workforce and business over the 
-
-### New hardware device can RAM into encrypted memory, expose your data
-Mon, 14 Sep 2026 20:31:33 +0200 — https://www.theregister.com/security/2026/09/14/new-hardware-device-can-ram-into-encrypted-memory-expose-your-data/5296377
-
-Computer security researchers have identified a design flaw in modern encryption hardware that allows access to protected memory in notionally confidential computing environments. But the attacker would need physical access to the victim system. Boffins affiliated with KU Leuven, ETH Zurich, Durham University, and Google have found that scalable memory encryption hardware fails to check whether the data in memory is fresh. As a result, they've been able to devise a small hardware interposer, dubbed DDRop, that when wired to an appropriate circuit board, interferes with DDR5 write operations. Unable to tell that memory isn't fresh, a protected VM becomes vulnerable to a replay attack that uses stale, attacker-selected data. They describe their work in a paper titled, "DDRop: Active Memory Interposer Attacks on Confidential VMs by Dropping DDR5 Writes." Their attack requires physical access and so it is relevant mainly in scenarios where confidential computing guarantees have been made to tenants by cloud service providers. "DDRop uses a custom-built 'interposer': a small, custom-designed circuit board, costing under $200, that sits between the processor and a memory module," explained Jo Van Bulck, a professor in the DistriNet lab at KU Leuven, Belgium, in an email to The Register. "It corrupts commands on the high-speed DDR5 memory bus to silently drop writes to encrypted memory. The protected VM keeps computing on old data that still decrypts perfectly. We are releasing the 
-
-### OpenAI's malicious bot swarm attacked RubyGems
-Mon, 14 Sep 2026 20:03:58 +0200 — https://www.theregister.com/security/2026/09/14/openais-malicious-bot-swarm-attacked-rubygems/5296356
-
-OpenAI agents appear to have flooded RubyGems with malicious packages, adding to a near-daily deluge of rogue AI models engaging in potentially unlawful activity while their human creators face growing questions over responsibility for their agents’ bad behavior. A swarm of agents began uploading malware to the Ruby package registry on May 5, and flooded RubyGems with more than 2,000 malicious packages between May 11 and May 12, ultimately forcing maintainers to disable new user registration for four days. “We believe these were authored by internal OpenAI agents,” researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx said on Friday. An OpenAI spokesperson confirmed that the model maker is investigating the incident. “Based on our review, our agents used the RubyGems platform to access the internet to carry out benign tasks and retrieve public information," the spokesperson said. "We’ll continue to investigate as part of our broader review of agent activity during training and evaluation.” This same trio of researchers earlier this month said that they found evidence that OpenAI’s swarm hijacked a German wiki months before the AI agents attacked Hugging Face. As they did during the German wiki incident, the agents involved in the RubyGems abuse self-identified as being from OpenAI. Hundreds of the gems included “oai” in their name, and 15 set “oai” as their author. At least one other used “openaixyz65947@gmail.com” as the email address for contact. Also according to th
-
 ## Engadget
 
-### Apple TV cleaned up at the Emmys with eight wins for Widow's Bay and Pluribus
-Tue, 15 Sep 2026 08:15:37 +0000 — https://www.engadget.com/2258734/apple-tv-wins-big-widows-bay-pluribus-emmys/
+### Meta adds new subscription tiers for businesses, creators and 'AI power users'
+Tue, 15 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2258403/meta-adds-new-subscription-tiers-for-businesses-creators-and-ai-power-users/
 
-Apple TV collected eight Primetime Emmys last night, including six for Widow's Bay and two for Pluribus.
+The company's Meta One plans range from $2.99/month to $499/month.
 
-### 2028 Volvo XC60 and XC90 first look: Double the range and smarter safety, too
-Tue, 15 Sep 2026 07:00:00 +0000 — https://www.engadget.com/2255878/2028-volvo-xc60-and-xc90-first-look/
+### You should probably have the "Improve Siri & Dictation" setting off — here's why
+Tue, 15 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2255821/why-improve-siri-and-dictation-setting-off/
 
-Volvo caters to EV-curious buyers with way more range in its plug-in hybrid SUVs.
+Apple used anonymized voice data to improve its products, but you might not want to contribute to this even with its privacy methods in place.
 
-### How to use Meta Display glasses while driving with the Audio Only feature
-Tue, 15 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2255133/meta-display-glasses-audio-only-driving-detection-feature/
+### This is a great place to store your old hard drives and keep them safe
+Tue, 15 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2255337/best-place-to-store-old-hard-drives-keep-safe/
 
-The Meta Display glasses have an Audio Only feature that can detect when you're driving and turn off the display.
+Old hard drives can store backed-up data or be saved for future use, but where you keep them and how you store them matters a lot.
 
-### Can you use an Apple Pencil with an iPhone?
-Tue, 15 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2255122/use-apple-pencil-with-iphone-duo/
+### What is a VPN kill switch and how does it work?
+Tue, 15 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2251529/what-is-vpn-kill-switch-how-works/
 
-If you have the right Apple Pencil and iPhone, you can use them together. But it won't be cheap, and there are some limitations to know.
+A VPN offers increased privacy, but won't do you much good if the connection drops. Kill switches ensure you're always using a VPN when it matters.
 
-### Is the Samsung Galaxy S24 still worth buying?
-Mon, 14 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2255053/samsung-galaxy-s24-is-it-still-worth-buying/
+### Eyeing a curved monitor? Here are the pros and cons to consider
+Tue, 15 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2255217/curved-monitor-pc-computer-pros-and-cons-explained/
 
-A refurbished S24 can still be a good deal, but its price needs to be low enough to justify buying a two-year-old phone instead of a newer model.
+Curved monitors are fabulous for immersive gaming, usually, but there are some situations where a flat panel is best.
 
-### The EPA wants to stop regulating power plant emissions
-Mon, 14 Sep 2026 23:00:45 +0000 — https://www.engadget.com/2258444/the-epa-wants-to-stop-regulating-power-plant-emissions/
+### MediaTek is using TSMC's cutting edge 2nm process for its latest chip
+Tue, 15 Sep 2026 13:08:16 +0000 — https://www.engadget.com/2258880/mediatek-is-using-tsmcs-cutting-edge-2nm-process-for-its-latest-chip/
 
-If only there were some kind of agency for environmental protection to stop this.
+You may not hear much about MediaTek these days, but it's still going strong.
 
-### How much data does Apple Music use for lossless audio quality?
-Mon, 14 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2254918/how-much-data-apple-music-uses-lossless-audio-quality/
+### The pros and cons of using a MagSafe charger
+Tue, 15 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2254631/magsafe-charger-pro-and-cons/
 
-Apple Music has two Lossless options for maximum audio quality, but they consume significantly more data.
+MagSafe charging has become the standard for modern iPhones and MacBooks, but there are some downsides to charging this way.
 
-### How to use the Windows 11 Media Creation Tool to create a bootable USB drive
-Mon, 14 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2254793/how-to-use-windows-11-media-creation-tool-create-bootable-usb-drive/
+### Spotify can now exclude your kids' music taste from recommendations
+Tue, 15 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2257982/spotify-can-now-exclude-your-kids-music-taste-from-recommendations/
 
-The Windows Media Creation tool is easy to use and lets you keep a USB drive handy so you can install Windows 11 anytime you need.
+Will this mark the end of Disney songs popping up in your Daily Mix?
 
-### Wired vs wireless gaming mouse: is there really a difference in performance?
-Mon, 14 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2254564/wired-vs-wireless-gaming-mouse-is-there-a-difference/
+### Uber expands options for riders with seniors accounts
+Tue, 15 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2255380/uber-expands-options-for-riders-with-seniors-accounts/
 
-In the past, choosing between a wired and a wireless gaming mouse may have meant accepting a number of tradeoffs. These days, there's very little between them.
+The changes offer more independence and requests for easy vehicle entry.
 
-### Doom: The Dark Ages has been permanently discounted to $50
-Mon, 14 Sep 2026 21:48:09 +0000 — https://www.engadget.com/2258386/doom-the-dark-ages-has-been-permanently-discounted-to-50-dollars/
+### Yamaha introduces the compact B200A soundbar with Dolby Atmos
+Tue, 15 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2258332/yamaha-introduces-the-compact-b200a-soundbar-with-dolby-atmos/
 
-The latest Doom installment just got a good bit cheaper.
+This tiny soundbar has few frills for $250, but still supports Atmos audio.
 
-### How to force quit on your Windows PC
-Mon, 14 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2254550/how-to-force-quit-windows-pc/
+### The easiest way to find and remove spyware on your Android phone
+Tue, 15 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2254646/android-phone-how-to-find-remove-spyware/
 
-If you're switching from a Mac or new to Windows, knowing how to 'force quit' an app can be confusing. Luckily, there are a number of ways to get the job done.
+With Android's more open ecosystem, it's not hard to download apps that are unsafe. Here's how to scan for spyware.
 
-### You can use Gemini to help you organize your files on Google Drive
-Mon, 14 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2253054/use-gemini-help-you-organize-files-google-drive/
+### 2 ways Android users can take advantage of Apple's MagSafe accessories
+Tue, 15 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2254612/ways-android-use-apple-magsafe-accessories/
 
-If your Google Drive has become a mess of files, folders and photos, Gemini can lend a hand by suggesting new ways to properly put them back in order.
+MagSafe is a feature unique to iPhones, but Android users have a couple of options if they want to use MagSafe accessories and chargers.
 
 ## TechCrunch
+
+### Former TikTok execs built an app that uses AI to teach you how to pose for a photo
+Tue, 15 Sep 2026 14:42:37 +0000 — https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/
+
+Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.
+
+### Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026
+Tue, 15 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/
+
+Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.
+
+### India ends free ride for larger transactions on its ubiquitous digital payments network
+Tue, 15 Sep 2026 14:22:49 +0000 — https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/
+
+India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.
+
+### Evvy raises $40M as it seeks to further women s health research with vaginal microbiome data
+Tue, 15 Sep 2026 14:13:59 +0000 — https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/
+
+Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.
+
+### 4 days left to exhibit at TechCrunch Disrupt 2026
+Tue, 15 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/
+
+Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.
+
+### Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents
+Tue, 15 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/
+
+Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.
+
+### Spotify finally lets parents exclude kids music from Wrapped and recommendations
+Tue, 15 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/
+
+Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.
+
+### New Italian unicorn Exein rides the physical AI wave
+Tue, 15 Sep 2026 12:19:38 +0000 — https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/
+
+Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.
+
+### Salesforce and Nvidia s new reasoning model is everything the AI labs should fear
+Tue, 15 Sep 2026 12:00:00 +0000 — https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/
+
+Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.
 
 ### Jensen Huang took a call from Trump, and showed off something else, too
 Tue, 15 Sep 2026 01:50:48 +0000 — https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/
 
-When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.
+When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.
 
 ### Nvidia CEO Jensen Huang tells Trump we re not going to let [an AI slowdown] happen
 Mon, 14 Sep 2026 21:51:02 +0000 — https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/
@@ -378,49 +423,4 @@ Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the 
 Mon, 14 Sep 2026 20:44:14 +0000 — https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/
 
 Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.
-
-### AI infrastructure company Cornelis raises $205M to chip away at Nvidia s dominance
-Mon, 14 Sep 2026 20:07:37 +0000 — https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/
-
-The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.
-
-### Amazon Prime Video takes on TikTok with short-form news clips
-Mon, 14 Sep 2026 18:14:29 +0000 — https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/
-
-Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.
-
-### ClickFix attacks are tricking Mac and Windows users into hacking themselves
-Mon, 14 Sep 2026 18:08:43 +0000 — https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/
-
-If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising "ClickFix" security threat.
-
-### Volkswagen s crazy-efficient EV borrows an idea from Slate
-Mon, 14 Sep 2026 17:41:20 +0000 — https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/
-
-Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.
-
-### With iOS 27, I m actually using Siri again
-Mon, 14 Sep 2026 17:10:30 +0000 — https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/
-
-Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.
-
-### macOS 27: new Siri takes on AI productivity apps
-Mon, 14 Sep 2026 17:10:09 +0000 — https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/
-
-The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.
-
-### Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll
-Mon, 14 Sep 2026 17:00:00 +0000 — https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/
-
-Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.
-
-### Microsoft s new AI code of conduct tells models not to hack systems or trick humans
-Mon, 14 Sep 2026 16:27:53 +0000 — https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/
-
-The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.
-
-### Waymo opens robotaxi service in Las Vegas
-Mon, 14 Sep 2026 16:04:16 +0000 — https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/
-
-Las Vegas will be Waymo's 15th commercial robotaxi market.
 

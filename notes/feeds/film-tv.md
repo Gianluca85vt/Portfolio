@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-15T09:35:42.192Z
+# Film & TV — harvested 2026-09-15T15:15:57.338Z
 
 ## Variety
 
-### Alma Pöysti, William Spetz, Pekka Strang Join Jon Blahed s Romantic Comedy The Bottom Line (EXCLUSIVE)
-Tue, 15 Sep 2026 09:17:24 +0000 — https://variety.com/2026/film/global/jon-blahed-the-bottom-line-finnish-film-affair-1236861611/
+### Ed Sheeran Says Dropping Macklemore From Tour Was Promoter s Decision, Not Mine, Explains Why He s Not Speaking Out on Israel and Palestine
+Tue, 15 Sep 2026 15:10:52 +0000 — https://variety.com/2026/music/news/ed-sheeran-speaks-out-macklemore-1236861174/
 
-Actors Alma Pöysti, William Spetz and Pekka Strang are attached to Jon Blåhed s romantic comedy The Bottom Line, with Pöysti set to play the lead role of Iris. The project will be pitched at the Finnish Film Affair (Sept. 23-25), which is the industry program of the Helsinki Intl. Film Festival. Pöysti is best known [ ]
+Ed Sheeran has commented on the decision to drop Macklemore from his U.S. Loop tour after the rapper made forceful “free Palestine” comments on stage during a political speech during the rapper s performances opening for the singer at MetLife Stadium in New Jersey on Sept. 4 and 5. I am appalled by the conflict between [ ]
 
-### San Sebastian and Busan Title In My Father s Room Sells Wide for Bitters End (EXCLUSIVE)
-Tue, 15 Sep 2026 09:01:17 +0000 — https://variety.com/2026/film/festivals/san-sebastian-busan-in-my-fathers-room-bitters-end-sales-1236862753/
+### Magic: The Gathering s Reality Fracture Designers Unveil New What If Set Details as Four Cards Debut (EXCLUSIVE)
+Tue, 15 Sep 2026 15:01:35 +0000 — https://variety.com/2026/gaming/news/magic-the-gatherings-reality-fracture-spoiler-cards-interview-1236862973/
 
-Bitters End has sold In My Father s Room to France, Korea, Taiwan and Hong Kong ahead of the film s world premiere in competition at the San Sebastian Film Festival, with several more territories still in negotiation. After San Sebastian, the film will travel to the Busan International Film Festival. Art House Films has picked up [ ]
+The world of Magic: The Gathering will break with the upcoming release of new mainline set Reality Fracture, something Magic maker Wizards of the Coast says fans have been asking for for a long time. Doing another what if set is a frequent player request, so it was something I’ve been on the lookout to [ ]
 
-### Barcelona’s Serielizados Pro Reveals Program and Mind the Gap Co-Pro Pitch: Carlos Marques-Marcet, Vilapuig Sisters Make the Cut (EXCLUSIVE)
-Tue, 15 Sep 2026 07:47:06 +0000 — https://variety.com/2026/tv/global/serielizados-pro-mind-the-gap-mubi-movistar-plus-beta-arte-1236862596/
+### Emmy Producers on Recruiting Taylor Swift, the Ideas She Brought to the Show and How This Year’s Telecast Wound Up Short
+Tue, 15 Sep 2026 15:00:41 +0000 — https://variety.com/2026/tv/news/taylor-swift-emmy-producers-show-behind-the-scenes-mariska-1236862920/
 
-Acclaimed Catalan filmmaker Carlos Marques-Marcet (“10,000 km,” TIFF Platform winner “They Will Be Dust”), with his first showrunning gig, and sisters Mireia and Joana Vilapuig (“Selftape”) will rub shoulders with creators from Galicia, Finland, Iceland, Latvia, Mexico and Portugal at the second edition of iSerielizados Mind the Gap co-pro series contest. The international series pitch, [ ]
+When you hire Mariska Hargitay to host the Emmys, the fact that she has a few friends in high places pays off. And that starts with Taylor Swift. “They’re genuine friends,” executive producer Dionne Harmon said. “She’s like, ‘lemme hit Tay Tay!’” Emmy executive producers Jesse Collins, Harmon and Janae Rouzon-Clay from Jesse Collins Entertainment [ ]
 
-### Finland’s Gutsy Pictures Pacts With MTV, Germany’s Zeitsprung, Sweden’s Götafilm on Zaida Bergroth’s ‘Dangerous Woman’ (EXCLUSIVE)
-Tue, 15 Sep 2026 07:00:00 +0000 — https://variety.com/2026/tv/global/gutsy-pictures-mtv-zeitsprung-gotafilm-dangerous-woman-1236861400/
+### Harry Potter HBO Series Casts Its Arthur Weasley, Moaning Myrtle, Colin Creevey
+Tue, 15 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/harry-potter-hbo-cast-arthur-weasley-moaning-myrtle-1236862281/
 
-Value-driven Finnish outfit Gutsy Pictures headed by Marika Makaroff (“Moominvalley,” “L/Over”) has secured a greenlight from MTV Finland and added co-producers Zeitsprung in Germany and Götafilm in Sweden for the psycho-thriller “Dangerous Woman.” Already pre-bought by TV4 in Sweden, the six-parter created by Makaroff will be directed by the established Zaida Bergroth, credited for the [ ]
+Season 2 of HBO s Harry Potter series has cast three key roles. Rafe Spall ( Trying, Life of Pi ) has joined the show as Arthur Weasley, with Molly Hewitt-Richards ( Code of Silence, Casualty ) as Moaning Myrtle, and Jasper Ambrose ( Bridget Jones: Mad About the Boy, The Sheep Detectives ) as Colin Creevey. As previously announced, Season 2 [ ]
 
-### Practical Magic 2 Casts a Spell Over U.K., Ireland Box Office as Oasis Doc Rocks No. 2
-Tue, 15 Sep 2026 06:43:44 +0000 — https://variety.com/2026/film/box-office/practical-magic-2-uk-ireland-box-office-1236862589/
+### Israeli Filmmakers Among 1,500 Names to Sign Petition Defending ‘NAZA’ Directors After Their Citizenship Is Threatened Over Gaza Doc
+Tue, 15 Sep 2026 14:49:11 +0000 — https://variety.com/2026/film/global/naza-israeli-filmmakers-sign-petition-support-directors-1236862865/
 
-Warner Bros. Practical Magic 2 cast a winning spell over the U.K. and Ireland box office, dethroning Spider-Man: Brand New Day after a six-week reign to claim the top spot with an opening weekend of £2.7 million ($3.7 million). Disney followed closely in second position with the cinema rollout of Oasis: Don t Look Back in [ ]
+Prominent Israeli filmmakers are among 1,500 industry names that signed a petition launched on Monday expressing solidarity with NAZA directors Yuval Abraham and Rachel Szor, who have faced backlash from authorities at home after the hot-button documentary premiered at Venice Film Festival last week. In recent days, we have witnessed an unprecedented campaign of incitement [ ]
 
-### Kore-eda Hirokazu to Receive Cinema Honorary Award From Singapore Film Festival, Yim Soon-rye to Head Asian Competition Jury
-Tue, 15 Sep 2026 06:01:45 +0000 — https://variety.com/2026/film/festivals/kore-eda-hirokazu-honorary-award-singapore-film-festival-1236862585/
+### Faith Review: Enigmatic, Increasingly Unmoored Grief Drama Isn t Equal to Erin Doherty s Gut-Wrenching Performance
+Tue, 15 Sep 2026 14:48:42 +0000 — https://variety.com/2026/film/reviews/faith-review-2-1236862102/
 
-The Singapore International Film Festival (SGIFF) will honor Japanese filmmaker Kore-eda Hirokazu with its Cinema Honorary Award and has named Korean director Yim Soon-rye jury head of its Asian Feature Film Competition. The 37th edition of SGIFF runs Oct. 21 to Nov. 1. Kore-eda will attend a special presentation of Look Back on Oct. 24, [ ]
+Twenty years on from his debut feature London to Brighton, Paul Andrew Williams remains a tough talent to pigeonhole on the British indie film scene. His filmography veers from kitchen-sink realism to wild genre storytelling, sometimes with a supernatural bent; from the visceral, stomach-churning severity of Bull to the untrammelled sentimentality of Song for Marion. [ ]
 
-### Stephen Colbert Says ‘Free Speech Is Alive and Well’ After Emmy Win Despite CBS Cancellation: Late Night Is ‘Just as Vital as it Ever Has Been’
-Tue, 15 Sep 2026 04:36:14 +0000 — https://variety.com/2026/tv/news/stephen-colbert-free-speech-emmy-win-cbs-cancellation-1236862571/
+### ‘70 Up’ Producer on How the Series Survived Six Decades and Became the ‘Definitive Longitudinal Documentary’: ‘To See a Whole Life Change in Front of You Is a Mindf ’
+Tue, 15 Sep 2026 14:38:54 +0000 — https://variety.com/2026/tv/global/70-up-definitive-longitudinal-documentary-1236854131/
 
-“The Late Show With Stephen Colbert” may have been canceled by CBS, but after taking home the award for outstanding variety series at Monday night’s Emmy Awards, Stephen Colbert is still optimistic about the state of late-night television. Speaking with CNN correspondent Elizabeth Wagmeister and Variety co-president and co-editor-in-chief Ramin Setoodeh following the Emmy Awards, [ ]
+In 1964, Canadian director Paul Almond filmed a group of 14 British schoolchildren aged seven years-old for a documentary called “Seven Up!” examining the lives of kids across class divides. Seven years later, the children were filmed again, this time by British director Michael Apted, for “14 Up.” Apted went on to revisit them every [ ]
 
-### The Life and Deaths of Wilson Shedd Review: Amanda Seyfried and Scoot McNairy Are Powerful in Tim Blake Nelson s Twisty Dark-Side Prison Saga
-Tue, 15 Sep 2026 04:21:56 +0000 — https://variety.com/2026/film/reviews/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried-1236861069/
+### MPA Projects Federal Film Incentive Would Double U.S. Production and Create 143,500 Jobs
+Tue, 15 Sep 2026 14:30:00 +0000 — https://variety.com/2026/film/news/mpa-federal-film-incentive-jobs-production-report-1236861764/
 
-Tim Blake Nelson’s "The Life and Deaths of Wilson Shedd" is a gripping, wrenching, dark-as-midnight crime drama that taps into a phenomenon many might view as an underground secret (or maybe they just don’t know anything about it): the relationship that develops, more often than you’d think, between violent incarcerated criminals and civilians who fall in love with them.
+The Motion Picture Association issued a report on Tuesday estimating that U.S. film and TV production would double by 2032 if Congress passes a federal film incentive. The report, prepared by Olsberg SPI, also projects that a 20% federal credit would create about 143,500 production jobs per year. The MPA is working with a coalition [ ]
 
-### Mariska Hargitay Leads a Brisk Yet Celebratory Emmys in a Return to Form: TV Review
-Tue, 15 Sep 2026 03:59:16 +0000 — https://variety.com/2026/tv/reviews/emmys-2026-review-1236862540/
+### Kate Beckinsale, Ryan Phillippe Psychological Thriller The Patient Acquired by Buffalo 8 (EXCLUSIVE)
+Tue, 15 Sep 2026 14:29:32 +0000 — https://variety.com/2026/film/markets-festivals/kate-beckinsale-ryan-phillippe-the-patient-buffalo-8-1236862952/
 
-Last year, the Emmys bet on an unorthodox host in Nate Bargatze and the result was an unmitigated disaster. This year, the Emmys bet on an unorthodox host and were rewarded with an effusive, yet efficient tribute to television at its best. Watching “Law Order: Special Victims Unit” star — and “My Mom Jayne” [ ]
+Buffalo 8 Distribution has acquired North American distribution rights to The Patient, a psychological thriller starring Kate Beckinsale and Ryan Phillippe, with the deal struck at the Toronto Film Festival market. The company will release the film across major VOD platforms in December, followed by a physical media release. Phillippe plays a man who comes [ ]
 
-### Apple TV Wins 28 Emmys Thanks to Widow s Bay Sweep, HBO Max Takes Second Place With Help From The Pitt and DTF St. Louis
-Tue, 15 Sep 2026 03:36:24 +0000 — https://variety.com/2026/tv/news/apple-tv-wins-emmys-widows-bay-hbo-max-1236861206/
+### The Diplomat Season 4 Trailer Brings Keri Russell to Brink of War With the White House
+Tue, 15 Sep 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/the-diplomat-season-4-trailer-keri-russell-1236861536/
 
-Widow s Bay was the most-awarded show at the Emmys this year, winning 14 trophies total. The Apple TV comedy already had eight wins under its belt at the start of Monday night s ceremony, having picked up awards including guest comedy actress (Betty Gilpin), comedy casting and music supervision at last week s Creative Arts Emmys. At [ ]
+The Diplomat Season 4 has released its first full-length trailer, and Keri Russell s Kate Wyler is back in political hot seat. Following the events of Season 3, Kate is forced to deal with the fallout of President Grace Penn (Allison Janney) and Vice President Hal Wyler s (Rufus Sewell) covert action against both the Russian and [ ]
 
 ## The Hollywood Reporter
 
-### Massih Parsaei s San Sebastian-Bound Debut Lovers Sleep Alone Chronicles a Queer Man in Exile (Exclusive Clip)
-Tue, 15 Sep 2026 09:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/massih-parsaei-san-sebastian-bound-lovers-sleep-alone-film-1236701994/
+### John Mulaney Steals the Show at the 2026 Emmys With Men Being Men Bit
+Tue, 15 Sep 2026 15:15:34 +0000 — https://www.hollywoodreporter.com/tv/tv-news/john-mulaney-2026-emmys-men-being-men-1236702089/
 
-The Berlin-set feature, following the isolated life of an Iranian man named Iman, will earn its world premiere at the Spanish film festival.
+“This award is for the guys. Just men being men. Finally, something for the fellas,“ he said when taking the stage to introduce the best actor in a drama series category.
 
-### Charlie s Angels Stars Jaclyn Smith, Kate Jackson and Cheryl Ladd Reunite at 2026 Emmys to Honor Farrah Fawcett: Shiniest Angel of All
-Tue, 15 Sep 2026 07:21:33 +0000 — https://www.hollywoodreporter.com/tv/tv-news/charlies-angels-cast-reunion-emmys-2026-1236701477/
+### Chopard Drafts Bella Hadid and Liu Wen for 50th Anniversary of Happy Diamonds Collection
+Tue, 15 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/style/chopard-bella-hadid-liu-wen-happy-diamonds-campaign-1236659854/
 
-The show is celebrating 50 years since its 1976 debut.
+"Through this campaign, we wanted to celebrate that movement, both intimate and universal, that animates both the diamonds and those who wear them," said Chopard's Caroline Scheufele.
 
-### The Michael J. Fox Tribute, Mariska Hargitay Singing, and Other Highs and Lows From an Ungainly, Ill-Flowing Emmys Telecast
-Tue, 15 Sep 2026 06:49:08 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/2026-emmys-critics-analysis-michael-j-fox-mariska-hargitay-1236701868/
+### Emmy Producers Reveal How They Pulled Off That Taylor Swift Cameo
+Tue, 15 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/emmys-2026-taylor-swift-mariska-hargitay-1236701852/
 
-Producers stuffed the first half of the night with awards and attempted to fill the second half with emotional moments, resulting in a strange lopsided effect.
+"When you make a promise to Captain Benson, you've got to keep it," Jesse Collins, Jeannae Rouzan-Clay and Dionne Harmon tell THR of the surprise 'SVU' sketch with Emmys host Mariska Hargitay coming together.
 
-### Inside Zendaya s 2026 Emmys: Date Night With Tom Holland, Surprise Dinner Invite and That Pixie Cut
-Tue, 15 Sep 2026 06:06:02 +0000 — https://www.hollywoodreporter.com/tv/tv-news/zendaya-tom-holland-pixie-haircut-2026-emmys-1236701643/
+### Sam Pinkleton to Direct Broadway Revival of Annie
+Tue, 15 Sep 2026 14:46:12 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/sam-pinkleton-broadway-revival-annie-1236702091/
 
-The actress was both a presenter and a nominee Monday night, where she was nominated for the third and final season of 'Euphoria.'
+The 'Oh, Mary' director will helm the revival which is set to come to Broadway in fall 2027.
 
-### Emmy Awards Snubs and Surprises: Hacks Comes Up Short; John Oliver Shut Out; Allison Janney Scores Unexpected Diplomat Win
-Tue, 15 Sep 2026 05:48:35 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-snubs-surprises-john-oliver-allison-janney-1236701932/
+### The Julia Set Review: Chase Infiniti Leads a Strong Ensemble as a College Math Genius in Algebra That Doesn t Quite Balance the Equation
+Tue, 15 Sep 2026 14:46:02 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-julia-set-review-chase-infiniti-christopher-briney-1236701755/
 
-Elsewhere, the star-studded second installment of 'Beef' failed to win in the major limited series categories after dominating in season one, with 'Love Story and 'All Her Fault' also missing out on major awards.
+Christopher Briney, Jason Isaacs and Gillian Anderson also star in Niki Byrne’s debut about a gifted student too unwise about the world to subtract herself from a toxic relationship.
 
-### Emmys Analysis: On the Widow s Bay Sweep, Sally Field Surprise and Weird Variety Series Situation
-Tue, 15 Sep 2026 05:21:04 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-analysis-scott-feinberg-1236701561/
+### Why Should Hollywood Get a Federal Tax Credit? Nearly $250 Billion Is On the Table, Study Says
+Tue, 15 Sep 2026 14:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/nearly-250-b-federal-film-tax-credit-study-1236700785/
 
-The Hollywood Reporter's executive editor of awards coverage dissects Monday night's results.
+A report commissioned by the studio trade group the Motion Picture Association projected that a federal tax credit could sustain roughly 143,500 full-time equivalent jobs annually.
 
-### Most Memorable Moments at 2026 Emmys, From Taylor Swift s Cameo to Mariska Hargitay Recreating Nicole Kidman’s AMC Ad
-Tue, 15 Sep 2026 05:00:41 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-best-worst-moments-1236701728/
+### Microdrama Producers Voice Cautious Optimism on the Sector Despite AI Worries
+Tue, 15 Sep 2026 14:27:00 +0000 — https://www.hollywoodreporter.com/business/digital/hollywood-microdramas-boom-1236702034/
 
-From Jean Smart and Matthew Rhys' history-making wins to Marcello Hernández's special invites for Zendaya and Harrison Ford, here are some of the highlights from the 78th Emmy Awards on Monday.
+The future of premium mobile storytelling was discussed at Access Canada Summit powered by The Hollywood Reporter on Tuesday.
 
-### Matthew Rhys Says Keri Russell Is Always Really the Winner After His Historic 2026 Emmy Wins
-Tue, 15 Sep 2026 04:55:57 +0000 — https://www.hollywoodreporter.com/tv/tv-news/matthew-rhys-keri-russell-always-winner-2026-emmys-1236701813/
+### Savannah Guthrie So Touched by Allison Janney s Words About Mom Nancy Guthrie at Emmys
+Tue, 15 Sep 2026 14:18:06 +0000 — https://www.hollywoodreporter.com/tv/tv-news/savannah-guthrie-allison-janney-nancy-emmys-1236702029/
 
-Social media users joked that the 'Widow's Bay' actor did not shout out his wife during his two acting acceptance speeches, but the actor spoke about her backstage at the awards ceremony, sharing his hopes that she'll earn an Emmy next year.
+"I honestly can say, I think about [Nancy] every day," the 'Diplomat' star told reporters backstage.
 
-### Noah Wyle Says He Received Very Encouraging Update About Federal Film and TV Tax Incentive
-Tue, 15 Sep 2026 04:55:57 +0000 — https://www.hollywoodreporter.com/tv/tv-news/noah-wyle-encouraging-update-federal-film-tv-tax-credit-1236701842/
+### Keri Russell Confronts a Culture of Consistent Lawlessness in The Diplomat Season 4 Trailer
+Tue, 15 Sep 2026 14:01:17 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-diplomat-season-4-trailer-keri-russell-allison-janney-1236702047/
 
-The 'Pitt' actor has been a vocal advocate from bringing productions back to Los Angeles.
+The latest preview for the Netflix political thriller, set to return Oct. 15, ratchets up the tension as Russell's American ambassador to the U.K. confronts her vice president husband (Rufus Sewell) and president Grace Penn (Allison Janney) about their possibly "over the line," approach to foreign policy.
 
-### Marcello Hernández Had a Special Invite for Zendaya and Tom Holland at the 2026 Emmys
-Tue, 15 Sep 2026 04:48:09 +0000 — https://www.hollywoodreporter.com/tv/tv-news/marcello-hernandez-invite-dinner-zendaya-2026-emmys-1236701824/
+### Slow Horses Renewed for Season 8 at Apple TV
+Tue, 15 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/slow-horses-renewed-season-8-apple-tv-gary-oldman-series-1236698180/
 
-The 'Saturday Night Live' star attended TV's biggest night to present the award for best directing for a comedy series.
+Apple announced the new installment, based on Mick Herron's latest book 'Clown Town,' fresh off the show's Emmy win.
 
 ## Deadline
 
-### PBS Buys Dutch Dementia Doc Human Forever , Which Follows The Greta Thunberg Of Healthcare
-Tue, 15 Sep 2026 09:10:44 +0000 — https://deadline.com/2026/09/pbs-buys-human-forever-dementia-documentary-1237103721/
+### Nick Nolte Milo Gibson Starring In Indie Horror Film Vested , First Look Revealed
+Tue, 15 Sep 2026 15:05:00 +0000 — https://deadline.com/2026/09/nick-nolte-milo-gibson-starring-in-horror-film-vested-1237103926/
 
-EXCLUSIVE: PBS has picked up a Dutch documentary that follows Teun Toebes, a humanitarian activist known as the Greta Thunberg of healthcare. Human Forever comes from indie Dutch producer Super7even Productions, which struck the deal directly with PBS. Other buyers unveiled today are SBS in Australia and RUV in Iceland, who joins the likes of [ ]
+EXCLUSIVE: Three-time Oscar nominee Nick Nolte (48 Hrs) and Milo Gibson (Hacksaw Ridge) are leading horror film Vested, which recently wrapped production in British Columbia, Canada. The synopsis reads: Set in a remote, decaying mountain town, Vested follows a fractured family bound by an inherited legacy of violence and secrecy. When a series of brutal [ ]
 
-### Snäxx Launches As Europe s Latest Microdrama App Player
-Tue, 15 Sep 2026 08:37:03 +0000 — https://deadline.com/2026/09/snaxx-launches-europe-microdrama-app-1237103706/
+### HBO s Harry Potter Series Casts Arthur Weasley, Moaning Myrtle Colin Creevey
+Tue, 15 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/harry-potter-series-hbo-arthur-weasley-moaning-myrtle-1237103685/
 
-Europe has its latest microdrama platform, Snäxx. The service, which has been in the works for some time, has the backing of Germany vertical video business Black Forest Studios and a board of top-level media, entertainment, technology and investment industry execs. Earlier this year, we reported Station 19 actor Boris Kodjoe was among the app s [ ]
+Hogwarts has three new additions. HBO s Harry Potter TV series has cast Rafe Spall as Arthur Weasley, Molly Hewitt-Richards as Moaning Myrtle, and Jasper Ambrose as Colin Creevey. The trio of actors will join the cast for Season 2, with filming currently underway at Warner Bros. Studios Leavesden in the UK. Spall will take up [ ]
 
-### Goodfellas Boards World Sales On Kamila Andini’s ‘Four Seasons In Java’ Ahead Of Toronto Premiere
-Tue, 15 Sep 2026 05:34:18 +0000 — https://deadline.com/2026/09/goodfellas-kamila-andini-putri-marino-four-seasons-in-java-1237103639/
+### Emmys Producers Dish On Taylor Swift SVU Sketch (Including The Easter Eggs), Mariska Hargitay s Hosting Chops, Dolly Parton Tribute More
+Tue, 15 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/emmys-2026-producers-explain-telecast-taylor-swift-svu-reunions-1237103705/
 
-Goodfellas has picked up international sales rights to Indonesian filmmaker Kamila Andini’s Four Seasons In Java ahead of its world premiere in the Centrepiece programme at Toronto International Film Festival. Produced by Ifa Isfansyah through Indonesian production company Forka Films, the film stars Putri Marino as Pertiwi, a woman who returns to her village after [ ]
+That Taylor Swift cameo at the Emmys was actually filmed on the Law Order: SVU set, by the way. After Monday night s telecast of the 78th annual Emmy awards, producers Jesse Collins, Dionne Harmon and Jeannae Rouzan-Clay joined NBCUniversal s EVP of Live Events Specials Jen Neal to break down the biggest moments from [ ]
 
-### Apple Takes Victory Lap After Emmy Bonanza: “You Can’t Predict These Things”
-Tue, 15 Sep 2026 05:17:20 +0000 — https://deadline.com/2026/09/apple-emmy-reaction-wins-eddy-cue-interview-1237103594/
+### The Coven Boards French Legalized Cannibalism Horror ‘Sunnyside’ As Filming Begins
+Tue, 15 Sep 2026 14:45:44 +0000 — https://deadline.com/2026/09/coven-french-legalized-cannibalism-horror-sunnysid-1237103946/
 
-Eddy Cue joined Apple in 1989, the year that shows such as Cheers and L.A. Law were dominating the Emmys. Fast forward 37 years and it is Apple that dominated the ceremony with a record-breaking night for Widow’s Bay and an assist from the likes of Pluribus and Slow Horses. The tech giant landed 28 [ ]
+EXCLUSIVE: Terrifier 3 sales outfit The Coven has boarded French- language horror picture Sunnyside as principal photograph begins in the Auvergne-Rhone-Alpes region of France. The debut feature of Yoann Luis, Sunnyside is set in a dystopian world where humans are raised for food. “Sunnyside is part of the tradition of socially conscious genre cinema, where [ ]
 
-### The Pitt Celebrates Wins With Season 3 Update; Noah Wyle On Enjoying Latest Success Years After ER Emmys Backstage
-Tue, 15 Sep 2026 04:41:20 +0000 — https://deadline.com/2026/09/the-pitt-emmy-win-season-2-2026-outstanding-drama-1237103303/
+### Screamfest To Open With ‘The Night Driver’ Starring Josh Lucas, David Arquette Alyssa Milano
+Tue, 15 Sep 2026 14:38:29 +0000 — https://deadline.com/2026/09/screamfest-the-night-driver-2026-1237103945/
 
-For a second year in a row, The Pitt has been honored with the Emmy Award for Outstanding Drama Series. The hit HBO Max medical drama scored five additional wins this year: Outstanding Lead Actor in a Drama Series for Noah Wyle, Outstanding Casting in a Drama Series, Outstanding Guest Actor in a Drama Series [ ]
+EXCLUSIVE: The 2026 Screamfest Horror Film Festival will open with Jeremy Weiss’s latest feature, The Night Driver, starring Josh Lucas, David Arquette, and Alyssa Milano. The festival, which runs October 6-15 at the TCL Chinese Theatre, announced its first wave of titles today. The lineup features 8 world premieres, 6 North American premieres, 1 US [ ]
 
-### Pluribus Creator Vince Gilligan Reveals That Season 2 Is Already Mapped Out Emmys Backstage
-Tue, 15 Sep 2026 04:24:47 +0000 — https://deadline.com/2026/09/emmys-pluribus-season-2-vince-gilligan-rhea-seehorn-1237103471/
+### Industry Unites Behind U.S. Production Incentive As New Study Predicts Windfall In Jobs And Spending
+Tue, 15 Sep 2026 14:30:42 +0000 — https://deadline.com/2026/09/entertainment-industry-film-tv-production-incentive-jobs-1237103806/
 
-Rhea Seehorn was the first to tell the press backstage at the Primetime Emmys on Monday that Pluribus creator Vince Gilligan has completed the first two scripts of Season 2. I don t have anything, the Best Actress for Drama Series winner said, meaning she hasn t seen the scripts. Gilligan, who won tonight for Drama Series [ ]
+Film and television studios, unions, guilds, film commissioners and entertainment industry groups have launched the U.S. Film TV Production Coalition, a united front as a U.S production incentive begins to take shape. The group launched Tuesday along with a new study by consultancy Olsberg SPI commissioned by the Motion Picture Association laying out substantial [ ]
 
-### Sally Field Reflects On Filming Remarkably Bright Creatures In Canada: Let s Keep Our Neighbors Close — Emmys Backstage
-Tue, 15 Sep 2026 03:54:20 +0000 — https://deadline.com/2026/09/sally-field-remarkably-bright-creatures-filming-canada-emmys-1237103305/
+### Isabelle Huppert Comedy All About Corinne Sells To U.S. Ahead Of Toronto North American Premiere
+Tue, 15 Sep 2026 14:30:00 +0000 — https://deadline.com/2026/09/isabelle-huppert-comedy-all-about-corinne-sells-us-cohen-1237103825/
 
-Sally Field would like the United States to play nice with its neighbors to the north. After winning an Emmy award on Monday night for Netflix s Remarkably Bright Creatures, the actress used some of her time backstage with press to advocate for a friendly relationship with Canada, where the film adaptation was shot. I do [ ]
+EXCLUSIVE: Cohen Media Group has bought U.S. rights to Isabelle Huppert comedy All About Corinne ahead of its North American bow tomorrow at TIFF. In Marc Fitoussi s (Call My Agent!) film, screen legend and Oscar nominee Huppert stars alongside a stacked French and European cast including Sandrine Kiberlain, Anne Marivin, Emmanuelle Bercot, Diane Kruger, Ana [ ]
 
-### Emmys: What You Didn t See On TV; Tom Holland, Zendaya, Charlie Hunnam, Nicole Kidman More
-Tue, 15 Sep 2026 03:37:07 +0000 — https://deadline.com/2026/09/emmys-2026-off-camera-moments-behind-the-scenes-1237102313/
+### The Diplomat Season 4 Trailer: Keri Russell Confronts Over The Line White House
+Tue, 15 Sep 2026 14:27:19 +0000 — https://deadline.com/2026/09/the-diplomat-season-4-trailer-keri-russell-1237103859/
 
-There were plenty of memorable moments on camera at Monday night s 78th Emmy Awards, but much went on off-camera as well. Emmy history was made tonight by Matthew Rhys, who became the first actor to win across all three lead categories (Comedy, Drama Limited Series/Movie) and is the first man to win two lead [ ]
+Netflix has released the explosive main trailer for Season 4 of The Diplomat, which sees tensions rising to a fever pitch between Kate (Keri Russell), her husband Hal (Rufus Sewall) and President Grace Penn (Alison Janney). “The Russian sub that ran aground off this coast was carrying an apocalypse weapon. You stole it,” says a [ ]
 
-### Emmy Analysis Scorecards: Apple Breaks Records Leads Honors With Huge Night For ‘Widow’s Bay’
-Tue, 15 Sep 2026 03:12:31 +0000 — https://deadline.com/2026/09/emmy-scorecards-apple-records-top-honors-widows-bay-1237103340/
+### Tom Cruise Pokes Fun At His Self-Serious Persona In Rare Feature Interview: “I Don’t Know What To Say. I Am Intense”
+Tue, 15 Sep 2026 14:05:50 +0000 — https://deadline.com/2026/09/tom-cruise-digger-persona-intense-1237103844/
 
-From the moment that “Lancashire lass” Kate O’Flynn won the Emmy for Outstanding Supporting Actress in a Comedy Series for her role as “sassy broad” Patricia, it was clear that Apple and Widow’s Bay were going to have a big night. The cast of the horror comedy and the streamer will certainly be celebrating at [ ]
+“I don’t know what to say. I am intense,” Tom Cruise concluded in a rare sit-down video interview published today by GQ Magazine. The veteran actor was speaking with the magazine as he gears up for the release of Alejandro González Iñárritu’s Digger next month. During the conversation, Cruise was asked about the lessons he [ ]
 
-### Emmy TV Review: Host Mariska Hargitay Let Down By Skits, Script Taylor Swift Cameo Way Below Law Order: SVU Star s Pay Grade
-Tue, 15 Sep 2026 03:05:41 +0000 — https://deadline.com/2026/09/emmys-review-broadcast-2026-ceremony-nbc-1237102392/
+### Hammond @ The Emmys: A Record-Setting Night As The Once Repetitive TV Academy Proves It Likes To Shake Things Up
+Tue, 15 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/2026-emmys-analysis-widows-bay-1237103690/
 
-The 78th Primetime Emmy Awards had a distinct bicoastal approach Monday night, and let’s be honest, something truly got lost along the way, to put it politely. Sorry, Stephen Colbert, but “if you like the comedy tonight, my old writers wrote it” may be part of the Variety Series-winning Late Show’s legacy we all want [ ]
+There s a simple way to sum up Monday night s Primetime Emmy Awards: As we ve seen in the past few years, there may be 24,000-plus voters in the Television Academy membership, but they only watch a handful of shows, and that membership has grown increasingly fickle as the Emmys near 80. To paraphrase the famous Oscar [ ]
 
-### Emotional Tributes To Catherine O Hara And Rob Reiner Bookend Emmys In Memoriam Segment
-Tue, 15 Sep 2026 03:05:34 +0000 — https://deadline.com/2026/09/emmys-in-memoriam-2026-catherine-ohara-1237102549/
+### Slow Horses Renewed For Season 8 At Apple TV
+Tue, 15 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/slow-horses-renewed-season-8-apple-tv-emmys-1237103708/
 
-The Primetime Emmys In Memoriam segment hit harder than usual at Monday night s ceremony, bookending its 10 minutes of airtime with heartfelt tributes to Catherine O Hara and Rob Reiner. Macaulay Culkin, who appeared in the first two Home Alone movies with O Hara, joined her Schitt s Creek co-stars Annie Murphy and Dan Levy in the opening [ ]
+Fresh off yet another Emmy win, Slow Horses will be returning for an eighth season. Season 8 of the hit Apple TV show starring Gary Oldman will begin production shortly and will be based on the ninth book of Mick Herron s Slough House series, titled Clown Town. The news comes with Season 6 of one [ ]
 
-### Charlie s Angels Stars Kate Jackson, Jaclyn Smith Cheryl Ladd Reunite At Emmys, Remember Farrah Fawcett
-Tue, 15 Sep 2026 03:05:02 +0000 — https://deadline.com/2026/09/charlies-angels-reunion-2026-emmys-kate-jackson-jaclyn-smith-1237099553/
+### Estate Of Former UCLA Film School Dean Robert Rosen Financing Indie Feature ‘Charred Remains Of Heaven’
+Tue, 15 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/robert-rosen-ucla-charred-remains-of-heaven-1237103748/
 
-As Charlie s Angels marks its 50th anniversary since its launch in 1976, stars Kate Jackson, Jaclyn Smith and Cheryl Ladd reunited Monday night at the 78th Primetime Emmy Awards to present the Outstanding Drama Series Emmy. The three took the stage and first off, paid tribute to their fallen angel, original series star Farrah Fawcett, [ ]
+EXCLUSIVE: Cameron Cowperthwaite (Fallout) and Patricia De Leon (The Cleaning Lady) have completed production on Charred Remains of Heaven, an independent feature fully financed by the estate of former UCLA Film School Dean Robert Bob Rosen. Sundance alum Christopher Bradley (Billy s Hollywood Screen Kiss) wrote and directed the film, and lead creative producer Michael J. [ ]
 
 ## befores & afters
 
@@ -179,6 +179,36 @@ Mon, 14 Sep 2026 11:25:09 +0000 — https://beforesandafters.com/2026/09/14/vfx-
 Dinur, who has been teaching courses on ComfyUI and GripTape, talks about the AI and ML landscape VFX artists are facing right now. Today on the befores & afters podcast we’re chatting about AI and machine learning. It’s obviously a hot topic right now in visual effects. I wanted to talk to someone who has been diving into the world of AI and machine in their work that is visual effects supervisor Eran Dinur. He’s also been teaching the latest AI and machine learning techniques, in particular with courses about ComfyUI and about GripTape. In the podcast, we discuss the current landscape for VFX artists in this new AI and ML world. It’s a really honest chat, I think, about the state of play in the industry. Then we dive into the different courses Eran’s been preparing. You can find links to them below, along with Eran s books on VFX. Eran s courses AIF203: Introduction to Griptape Nodes , at fxphd ComfyUI Generative AI Production for VFX – Course Bundle , at fxphd The VFX Supervisor Masterclass , at ActionVFX Academy Eran s books The Filmmaker s Guide to Visual Effects The Complete Guide to Photorealism for Visual Effects, Visualization, and Games Listen in to the podcast, above. The post VFX supervisor Eran Dinur discusses the big AI and ML changes that have impacted visual effects appeared first on befores & afters .
 
 ## IndieWire
+
+### Hollywood’s Next Revolution Will Be Independent, Say Aisha Tyler and Kirsten Vangsness
+Tue, 15 Sep 2026 15:14:10 +0000 — https://www.indiewire.com/features/interviews/aisha-tyler-kirsten-vangsness-emmys-indie-revolution-1235217216/
+
+On the Emmys carpet, the “Criminal Minds: Evolution” stars said artists should stop asking permission.
+
+### Glaxo Review: Benjamín Naishtat’s Period Drama Revisits Argentina’s Dirty War In a Not-Quite-There Period Drama
+Tue, 15 Sep 2026 14:30:00 +0000 — https://www.indiewire.com/criticism/movies/glaxo-movie-review-1235217151/
+
+Though handsome enough, the writer-director’s fifth film is a disappointment after his previous two films.
+
+### Rose Abdoo Can’t Wait for the Gilmore Girls Documentary — and Says It ‘Gets Greater Later’ at 63
+Tue, 15 Sep 2026 13:41:45 +0000 — https://www.indiewire.com/features/interviews/rose-abdoo-gilmore-girls-documentary-interview-1235217218/
+
+For the 2026 Emmys, the "Hacks" actress talked about her legacy in Stars Hollow, reflected on sharing the screen with Jean Smart, and discussed embarking on a new chapter with CBS’s “Eternally Yours.”
+
+### Michelle Khare Says YouTube s Upload Button Is Changing Who Gets to Make Prestige TV
+Tue, 15 Sep 2026 13:30:00 +0000 — https://www.indiewire.com/features/interviews/michelle-khare-says-youtube-changing-who-gets-to-make-tv-1235217217/
+
+The 2026 IndieWire Honors Pulse Award winner caught up with us on the Emmys carpet to chat about her next stunt — and the wave of ambitious storytellers bypassing Hollywood gatekeepers.
+
+### Neil Jordan on Making His Homoerotic Interview with the Vampire for a Major Studio with A-List Stars
+Tue, 15 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/features/interviews/neil-jordan-tom-cruise-interview-with-the-vampire-1235216930/
+
+On the occasion of a new 4K UHD release, the director of "Mona Lisa" and "The Crying Game" looks back on one of his boldest projects: a sensual, provocative vampire film he made with Tom Cruise, Brad Pitt, and a young Kirsten Dunst.
+
+### ‘Edward Said: Between Worlds’ Review: A Straightforward Archival Documentary Pays Tribute to the Academic in His Own Words
+Tue, 15 Sep 2026 12:30:00 +0000 — https://www.indiewire.com/criticism/movies/edward-said-between-worlds-documentary-movie-review-1235217122/
+
+Maiken Baird seeks to locate the famous Palestinian-American activist and cultural critic within a torrid political present.
 
 ### The Emmys Gave TV Fans Winners Worth Cherishing — and a Ceremony for Somebody Else
 Tue, 15 Sep 2026 04:37:04 +0000 — https://www.indiewire.com/criticism/shows/emmys-2026-review-mariska-hargitay-host-1235216913/
@@ -210,137 +240,107 @@ Tue, 15 Sep 2026 02:55:51 +0000 — https://www.indiewire.com/awards/results/wid
 
 No two episodes of Katie Dippold's genre-bending series were alike, and the TV Academy recognized the creativity.
 
-### The Pitt Wins Second Consecutive Emmy for Outstanding Drama Series
-Tue, 15 Sep 2026 02:42:09 +0000 — https://www.indiewire.com/awards/results/the-pitt-wins-emmy-outstanding-drama-series-1235216383/
-
-The HBO Max medical drama secured another victory in the category, cementing itself as the show to beat at future ceremonies.
-
-### Bad Lieutenant: Tokyo Review: Takashi Miike Can t Elevate an Uneven Entry Into an Unlikely Franchise
-Tue, 15 Sep 2026 02:30:00 +0000 — https://www.indiewire.com/criticism/movies/bad-lieutenant-tokyo-review-takashi-miike-1235216996/
-
-TIFF: The Japanese genre legend brings some, but not enough, of his signature style to this yakuza neo-noir.
-
-### DTF St. Louis Wins Emmy for Outstanding Limited Series
-Tue, 15 Sep 2026 02:17:14 +0000 — https://www.indiewire.com/awards/results/dtf-st-louis-wins-emmy-best-limited-series-1235216849/
-
-Steven Conrad's HBO series aced the top category at Monday night's Emmy Awards, besting fellow nominees "Beef" and "Love Story" — both of which were once considered frontrunners.
-
-### The Late Show with Stephen Colbert Wins Emmy for 2026 Outstanding Variety Series
-Tue, 15 Sep 2026 01:41:49 +0000 — https://www.indiewire.com/awards/results/colbert-wins-emmy-variety-series-1235216118/
-
-The Variety Series in 2026 was an "area award" able to recognize multiple nominees that received at least 90 percent of the vote.
-
-### Matthew Rhys Wins Emmy for Best Actor in a Comedy for Widow s Bay
-Tue, 15 Sep 2026 01:18:15 +0000 — https://www.indiewire.com/awards/results/matthew-rhys-wins-emmy-best-actor-comedy-widows-bay-1235215845/
-
-The star of the smash hit Apple TV series is no stranger to Emmys glory (he had even won earlier in the night), but this win marks his first triumph in a Comedy category. Sunset cocktails for all!
-
-### Rhea Seehorn Wins Emmy for Lead Actress in a Drama Series
-Tue, 15 Sep 2026 00:31:35 +0000 — https://www.indiewire.com/awards/results/rhea-seehorn-wins-emmy-lead-actress-drama-series-pluriubus-1235216396/
-
-The "Pluribus" star finally broke an Emmy shutout streak that lasted for the entirety of "Better Call Saul."
-
 ## The Wrap
 
-### Jimmy Fallon Mocks Trump for Suggesting He s the Solution to AI Concerns: I Don t Think He Can Beat Wordle
-Tue, 15 Sep 2026 04:24:22 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-reacts-trump-dismissing-ai-concerns/
+### Andrew Haigh on How His Father s Death Shaped New Film A Long Winter
+Tue, 15 Sep 2026 15:15:07 +0000 — https://www.thewrap.com/creative-content/movies/andrew-haigh-a-long-winter-interview-fred-hechinger/
 
-Jimmy Fallon mocked Donald Trump for dismissing concerns about AI while calling the president’s intelligence into question. During Monday s monologue for The Tonight Show, Fallon called out Trump for claiming on Truth Social that the only guardrails AI needs is a strong and smart (High IQ!) president . Well, I feel better, Fallon sarcastically quipped. Trump was like, I d like to see ChatGPT pick out a zebra on a cognitive test. I don t think so, buddy.' He added: We’re relying on Trump to beat AI?! I don’t think Trump can beat Wordle. You know what I m saying? Trump s handling it, which means he s gonna change it from artificial intelligence to American intelligence. As Fallon continued to rib Trump, the late night host suggested that the president thought AI stood for American Idol,' adding in his best Trump voice: I ve spoken with Ryan Seacrest and we re perfectly safe. On Trump s decision to double down on his stance, Fallon indicated he wasn t too surprised. For some reason, Trump s not eager to stop something that let s him make photos of himself as Jesus riding a bald eagle, he said. Yep, Trump s said that concerns about AI have been exaggerated by very negative forces. And then he announced plans to fight those forces with a new military branch called, The Very Negative Force Force.' Watch Fallon s full monologue below. Fallon s commentary came amid a growing conversation around a need for AI regulation, which sparked last week when ex-Anthropic researcher Jacob Coxon
+English filmmaker Andrew Haigh didn t realize “A Long Winter” was about his own grief until after he d already made the film. “My dad died quite recently after All of Us Strangers came out,” Haigh told Casey Loving at TheWrap s studio at the 2026 Toronto International Film Festival. “I think in a weird sense, I look at A Long Winter and think, Oh, I think that is a sort of conversation with myself about that event somehow. ” Haigh had wanted to make “A Long Winter” for roughly 20 years. He couldn t explain at the time why it felt like the right film to make next, right after 2023 s “All of Us Strangers,” another film centered on loss and grief. “A Long Winter” is based on the Colm Tóibín short story of the same name but moves the action from Spain to the American West in the 1950s. Fred Hechinger stars as Mike, a young man whose family falls apart after his mother disappears into a snowstorm. Caitríona Balfe, Ebon Moss-Bachrach and Kit Connor also star. Haigh admitted that after the success of All of Us Strangers, he had a hard time deciding what to do next. “It s funny, whenever you make a film that broke through in a way some of my other films haven t quite as much, there s always a strange thing to know what to follow it up with,” Haigh said. “But this was a film I wanted to make for a long time, and I can t really tell you why it felt like the exact right moment, but it did. I think you can only really tell after you ve made the film why you made it.” Haigh wrote a letter
 
-### How Widow s Bay Sucked All the Suspense Out of Emmy Night
-Tue, 15 Sep 2026 03:52:30 +0000 — https://www.thewrap.com/industry-news/awards/emmys-analysis-2026-widows-bay-wins-explained/
+### Refurbished ‘60 Minutes’ Debuts to a 19% Ratings Drop
+Tue, 15 Sep 2026 15:13:39 +0000 — https://www.thewrap.com/creative-content/tv-shows/60-minutes-season-59-premiere-ratings-decline/
 
-It’s all about the momentum, and boy did “Widow’s Bay” have it. Katie Dippold’s horror-comedy series entered the Emmy race so late that its final three episodes weren’t even eligible for this year’s awards, but it didn’t even need a full season to dominate the 78th Primetime Emmy Awards and break the record for comedy-series wins. On paper, the Outstanding Comedy Series award looked like a real race between “Widow’s Bay,” which came into this year’s Emmys with 19 nominations, and the final season of “Hacks,” which set a new record for comedies with 24 noms. In fact, the running order of Monday night’s show suggested that the Television Academy and the show’s producers thought the Outstanding Comedy Series category had more suspense than the Emmys’ typical final award, Outstanding Drama Series, in which “The Pitt” was a prohibitive favorite to beat “Pluribus” and win its second consecutive Outstanding Drama Series Emmy. But that’s not exactly how it worked out. Voters made their intentions clear when they gave the first award of the night to Kate O’Flynn for “Widow’s Bay” over Hannah Einbinder for “Hacks.” Then they gave the third award to “Widow’s Bay” star Matthew Rhys for his other 2025 role in the limited series “The Beast in Me.” Then they gave the sixth award to “Widow’s Bay’s Stephen Root over Harrison Ford, and the 10th award to Rhys again, this time for “Widow’s Bay,” then the 11th one to Dippold for writing “Widow’s Bay,” a category that had probably been the best sh
+The refurbished “60 Minutes” suffered double-digit ratings declines with its Season 59 premiere. Sunday’s episode brought in 7.7 million viewers on CBS, down 19% from last season’s premiere, according to preliminary Nielsen panel data provided to TheWrap. The broadcast drew 1.5 million viewers among adults ages 25–54, a steeper 33% year-over-year decline in the key demographic. The figures are subject to change when Nielsen releases final ratings after 4 p.m. ET Tuesday. The newest season of the CBS newsmagazine had been highly anticipated after CBS News editor in chief Bari Weiss and her newly appointed “60 Minutes” executive producer Nick Bilton overhauled the program over the past few months. Sunday’s premiere followed NFL coverage that drew approximately 18.4 million viewers, according to preliminary data. That was down roughly 22% from the 23.8 million viewers delivered by the NFL broadcast preceding last season’s premiere—a slightly steeper decline than the 19% year-over-year drop for “60 Minutes.” The episode led with Norah O’Donnell’s interview with a U.S. Air Force weapons systems officer who survived roughly 50 hours behind enemy lines after his F-15E was shot down over Iran. The White House promoted the segment Monday as a testament to President Donald Trump’s military agenda. More to come … The post Refurbished ‘60 Minutes’ Debuts to a 19% Ratings Drop appeared first on TheWrap .
 
-### The Best and Worst Moments From the 2026 Emmys
-Tue, 15 Sep 2026 03:31:42 +0000 — https://www.thewrap.com/creative-content/tv-shows/emmys-2026-best-worst-moments/
+### Ari Emanuel Reveals the $44 Million Power Play Behind WME
+Tue, 15 Sep 2026 15:01:05 +0000 — https://www.thewrap.com/industry-news/business/ari-emanuel-wme-takeover/
 
-It all went down at the 78th Primetime Emmy Awards on Monday night. Lots of wins, even more losses and many moments we never could have predicted (like two musical numbers from host Mariska Hargitay and a cameo from Taylor Swift!) The latest Emmy Awards hit plenty of highs and lows through the night s festivities. Matthew Rhys made history as the first lead actor to win leading actor recognitions in two different categories – Actor in a Limited Series and Actor in a Comedy Series – in the same night; John Mulaney hilariously roasted the Best Drama actors; and again, two musical numbers from our host. Here are the best and worst moments from the 2026 Emmy Awards. Mariska Hargitay opens the 2026 Primetime Emmy Awards. (Photo by Chloe Kern/WireImage) Worst: The Opening Music Number The 2026 Emmys didn t really start off with a bang. Host Mariska Hargitay began the show with a musical number where she riffed on I Love Rock n Roll as she made the rushed journey from New York to Los Angeles to host the show. The cross country bit has been done time and time again and the musical opening was filled with do-nothing cameos of the various nominees. It was flat from start to finish but luckily Hargitay s opening monologue buoyed things from there. Jean Smart accepts the Outstanding Lead Actress in a Comedy Series Award for Hacks onstage during the 78th Primetime Emmy Awards at Peacock Theater. (Photo by Chloe Kern/WireImage) Best: Jean Smart’s Emmys sweep Jean Smart made history Monday 
+If it sounds like a plotline from HBO’s “Entourage,” there’s a reason: Ari Emanuel inspired the show’s famously ruthless superagent Ari Gold. Emanuel has now revealed how he engineered Endeavor’s takeover of the William Morris Agency by secretly plotting to remove its CEO, making a promise to another executive he never intended to keep and spending roughly $44 million to buy out both men. In an excerpt from his forthcoming memoir published Tuesday by The Wall Street Journal , Emanuel offers a strikingly candid account of the power play that created William Morris Endeavor in 2009 and reshaped Hollywood’s talent-agency business. Emanuel writes that he persuaded William Morris chief operating officer Irv Weintraub to surrender his seat on the combined company’s board by assuring him the move was temporary. Weintraub would be reinstated after William Morris CEO Jim Wiatt was removed, Emanuel promised. But after Wiatt agreed to leave, Emanuel and fellow Endeavor executive Patrick Whitesell called Weintraub and forced him out too. The double-cross, according to Emanuel, was always part of the plan. The pursuit began in 2003, when Emanuel concluded that Endeavor needed a merger to gain enough scale to compete against CAA. Harvard Business School professor Nitin Nohria provided the principle that would guide his strategy: “No such thing as a merger.” Every combination ultimately has a dominant party and a subordinate one, Nohria told the Endeavor executives, according to Emanuel. Th
 
-### Trump Commerce Secretary Shares Kennedy Center Ceiling Collapse Footage, Calls for Closure and ‘Major’ Fundraising
-Tue, 15 Sep 2026 03:19:34 +0000 — https://www.thewrap.com/media-platforms/politics/kennedy-center-ceiling-collapse-video-trump-commerce-secretary/
+### HBO s Harry Potter Series Finds Its Arthur Weasley in Trying Star Rafe Spall
+Tue, 15 Sep 2026 15:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/hbo-harry-potter-series-arthur-weasley-moaning-myrtle-colin-creevey-cast/
 
-Secretary of Commerce Howard Lutnick made a case for closing and renovating the Kennedy Center by sharing footage of the venue s ceiling collapsing. On Monday, Lutnick took to X and posted security footage from inside the Kennedy Center in Washington, D.C., which saw a piece of the ceiling come crashing down in the lobby. Here is the video of the ceiling of the Kennedy Center crashing violently onto the main Lobby floor. Failing roofing, collapsing concrete supports and steel that is rotting have created completely unsafe conditions, Trump s commerce secretary wrote. It was caught on security video, missing one of the Center’s security guards by just minutes. If a performance had been underway, patrons could have been killed. As Lutnick went on, he noted that the entire building is in this kind of shape. Lutnick s wife Allison serves on the Kennedy Center board. People cannot be allowed to go into this building any longer, he added. It must be closed and reconstructed, and a major fundraising effort must take place to cover the Kennedy Center’s operating expenses. Like many other Centers, it operates at a huge loss. For the Kennedy Center, that has historically been $80-$100 million a year. Before concluding his note, Lutnick suggested that President Trump was the only person who would be able to deliver the renovation on time and on budget, as well as raise the money to keep the Center out of bankruptcy. Trump appeared to c0-sign this sentiment by sharing Lutnick s post on T
+HBO s Harry Potter series has found its Weasley patriarch in Trying star Rafe Spall, the studio shared Tuesday. HBO revealed Tuesday morning that Spall, who is best known for his work in the aforementioned Apple TV comedy, as well as 2012 s Life of Pi and 2015 s The Big Short, is set to play Arthur Weasley in Season 2 of the Harry Potter series, which will be based on J.K. Rowling s Harry Potter and the Chamber of Secrets novel. Spall wasn t the only new addition announced, however. Molly Hewitt-Richards joins the cast as Moaning Myrtle, the teenage ghost that haunts a girls restroom at Hogwarts School of Witchcraft and Wizardry. Additionally, Jasper Ambrose is set to star in Harry Potter Season 2 as Colin Creevey, a first-year Gryffindor student that s a big fan of the titular wizard. Spall, Hewitt-Richards and Ambrose join fellow Harry Potter series newcomers Bonnie Hill, Lenny Rush and Billy Barratt , who were confirmed to be playing Ginny Weasley, house-elf Dobby and Tom Riddle, respectively, earlier in September. Kit Harington was also named a Season 2 recruit in August, taking over the role of Gilderoy Lockhart after Nicholas Hoult exited the project due to scheduling conflicts. The Harry Potter series, which received an early renewal from HBO months before its Christmas series launch, is slated to begin filming its second season this fall. The new series stars Dominic McLaughlin as Harry Potter, Arabella Stanton as Hermione Granger and Alastair Stout as Ron Weasley, wi
 
-### Everest: The Other Side Directors on Why the Climb Came Before the Documentary
-Tue, 15 Sep 2026 03:05:24 +0000 — https://www.thewrap.com/creative-content/movies/everest-the-other-side-directors-interview-tiff/
+### Emmys Producers Tell All on That Taylor Swift Cameo, Catherine O Hara and Dolly Parton Tributes and More
+Tue, 15 Sep 2026 15:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/taylor-swift-emmys-cameo-mariska-hargitay-idea-producers-interview/
 
-Oscar-winning filmmakers Elizabeth Chai Vasarhelyi and Jimmy Chin, who last attended TIFF with 2018’s “Free Solo,” return to the festival with “Everest: The Other Side,” where documenting an expedition as dangerous as skiing down Everest’s north face meant accepting one hard rule from the start: The movie could never come first. “Our teams handpick world-class climbers, skiers and cinematographers, so they all understand the risks,” Chin told TheWrap. “The directive from myself is that we re his friends, we re his supporters, we re his teammates and climbers first, and the needs of the film never supersede the needs of the subject or the objective. It s not the same as a normal production.” The TIFF guide for “Everest: The Other Side” reads: Thousands of people have ascended Mount Everest from the southeast ridge in Nepal. But only five had ever summited from the more daunting direct North Face route from China. This became a quest for Jim Morrison and Hilaree Nelson, who sought not only to summit, but then to ski down through the near vertical Hornbein Couloir. It’s a test of athleticism that only a few have attempted with a zero success rate. The last person to try disappeared on the descent. Morrison said that having cameras on the mountain didn’t compromise the expedition. If anything, it actually helped. “I was actually able to talk to the camera people and say, Hey, can you go up there and get a shot of this and show me the crux from this angle,” Morrison said. “If we c
+The 78th Emmys pulled off the ultimate cameo as it welcomed Taylor Swift for a meta Law & Order: SVU sketch alongside host Mariska Hargitay — a collaboration that telecast producers revealed came up not too long after Hargitay was selected as a host. It was always in the first meeting we wanted to come up with something for Taylor to do, Jesse Collins told press just minutes after the show ended on Monday, with EP Dionne Harmon adding, She was like, Let me get Tay Tay.' They had their whole conversation about [how] she was gonna make it great and comfortable for her, Collins said to a group of reporters, including TheWrap. If you re gonna do [an SVU sketch] we all felt like you have to one-up what everyone s thinking, and I can t think of anything better than to throw Taylor in an SVU sketch, EP Jeannae Rouzan-Clay said. Swift sparked to the sketch idea — whose writing was headed up by several writers from The Late Show With Stephen Colbert — but, in the popstar s true fashion, wanted to ensure all of the SVU Easter Eggs made it in. She wanted it to be really official, Clay said. The sketch was shot on the SVU set in New York in late August, but getting the other Olivia Benson — Swift s cat named after Hargitay s character — was a last-minute idea from Swift. The night before, she s like, What if I put the cat in the scene? And we were like That would be awesome,' Collins said. And the cat delivered, Harmon added. The EPs only told a small group about Swift s cameo in the hop
 
-### Widow s Bay Is First Horror Show to Win Outstanding Comedy Series Emmy
-Tue, 15 Sep 2026 03:00:20 +0000 — https://www.thewrap.com/industry-news/awards/widows-bay-emmy-first-horror-show-outstanding-comedy-series/
+### Federal Film Tax Incentive Would Double Annual US Production Spending by 2035, MPA Study Says
+Tue, 15 Sep 2026 14:30:00 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/federal-film-tax-incentive-to-double-annual-us-production-spending-study-finds/
 
-For the first time in Emmys history, Outstanding Comedy Series is getting spooky. “ Widow’s Bay ” wrapped up Emmys night by dethroning the reigning champ, “Hacks,” in its final season to win Outstanding Comedy Series — making it the first horror show in Emmys history to win the award. Other creepy comedies have been represented in the category before. Netflix’s “Wednesday” picked up several key nominations across its two seasons, including Outstanding Comedy Series and Outstanding Lead Actress in a Comedy Series (Jenna Ortega) for Season 1 (notably, the original The Addams Family scored zero nominations at the Emmys, as did The Munsters around the same time). Wednesday s nominations overlapped with the run of What We Do in the Shadows, Jemaine Clement s vampire comedy that nabbed 35 nods in total, including Outstanding Comedy Series nominations in 2020, 2022, 2024 and 2025. And then there are the early contenders that were bringing a horror tinge to the comedy Emmys long before the quirky show about the next Martha s Vineyard came about. Bewitched picked up 22 nominations from 1964-1972, including four series nominations. The Ghost and Mrs. Muir got six nominations in 1969 and 1970, with two wins for leading actress Hope Lange. But none of these shows ever managed to get the top prize. In fact, there s a case to be made that no horror series has ever won Outstanding Series across Comedy, Drama and Limited/Anthology — depending on how you would categorize a few potential spoil
+The Motion Picture Association has released a new commissioned study by Olsberg•SPI that argues that production spending in the United States could double by 2035 and add 143,500 jobs annually nationwide if Congress and President Donald Trump sign a federal film tax incentive into law. The report, unveiled on Tuesday morning, marks the start of an all-in lobbying push by the newly formed U.S. Film and Television Production Coalition, a group whose members include the MPA; Hollywood unions like the Writers Guild, DGA, SAG-AFTRA, IATSE and Teamsters; and Oscar-winning actor Jon Voight, who is credited with building the needed momentum for the tax incentive by convincing President Trump to give his public support. A federal incentive would be a gamechanger for our industry, said Charles Rivkin, chairman and CEO of the Motion Picture Association. This study tells us that we can bring more opportunities to life for people in all 50 states who bring great stories to life — the casts and crews, the set builders, construction workers, truck drivers, caterers and more. That s precisely what s bringing President Trump, Republicans and Democrats in Congress, studios and unions and all of us together: the need to leave a positive and enduring imprint on American creativity and America s economy. “America should be producing American movies. And American workers should be doing the work. President Trump has called on Republicans and Democrats to come together on a new federal film and tel
 
-### Widow s Bay Makes Emmys History With Most Wins for a Comedy Ever, Breaking The Studio Record With 14
-Tue, 15 Sep 2026 02:58:40 +0000 — https://www.thewrap.com/creative-content/tv-shows/widows-bay-emmys-record-most-wins-for-a-comedy/
+### Guy Pearce Reveals How He Unlocked Rupert Murdoch for Danny Boyle’s ‘Ink’
+Tue, 15 Sep 2026 14:13:21 +0000 — https://www.thewrap.com/creative-content/movies/guy-pearce-jack-oconnell-ink-interview-tiff-2026/
 
-Apple TV s Widow s Bay broke the record for the most Emmy wins for a comedy series on a single night, scoring 14 wins including Best Comedy Series. Emmy s history is short. The record for comedy wins has been set four times since 2020: Schitt s Creek set it with 9 in 2020, The Bear reset it at 10 in January 2024, The Bear broke its own record with 11 in September 2024, and The Studio broke that record with 13 last year. Widow s Bay, an original horror-comedy series from the mind of Katie Dippold, stars Matthew Rhys as the mayor of a small New England town who is working to prove it s not haunted. Nevertheless, spooky goings-on plague the town and the mayor. Hacks set the record for the most Emmy nominations for a comedy series with 24 nods this year, but Widow s Bay took the winner s record. Here are all the Emmy awards that Widow s Bay won this year: Outstanding Comedy Series Outstanding Actor in a Comedy Matthew Rhys Outstanding Supporting Actress in a Comedy Kate O Flynn Outstanding Supporting Actor in a Comedy Stephen Root Outstanding Writing for a Comedy Katie Dippold Outstanding Directing for a Comedy Hiro Murai Outstanding Guest Actress in a Comedy Betty Gilpin Casting for a Series (Half-Hour) Music Composition for a Series (Original Dramatic Score) Music Supervision Production Design for a Narrative Program (Half-Hour) Sound Editing for a Comedy or Drama Series (Half-Hour) or Animation Sound Mixing for a Comedy or Drama Series (Half-Hour) or Animation The Studio will 
+“Ink” has not dried yet. The Danny Boyle-directed adaptation of the celebrated stage play that charts the formation and rise of the British tabloid The Sun is headed to Netflix later this year in the United States, but before then, Ink is screening as part of this year s Toronto International Film Festival. In the film, Jack O’Connell, who recently starred in the two new “28 Years Later” movies for Boyle, plays editor Larry Lamb and Guy Pearce is Rupert Murdoch, the Australian magnate who becomes the Sun’s new owner. But how do you tap into these well-known, modern-day personalities? (The real-life Lamb died in 2000 at the age of 70; Murdoch of course is still alive at the ripe old age of 95.) O’Connell told Casey Loving at TheWrap’s studio at the 2026 Toronto International Film Festival that he would have conversations with Boyle about who Lamb was in the lead-up to production. “He said something about how all these little sins eventually coming home to roost – all these little sins that you accumulate over the time,” O’Connell explained. “He also said that it s Larry s obsession with this newspaper, with the sales board – it s that obsession that, as an audience, you ll invest in. That was massive to hear that from the director saying, Okay, there s your focal point, that s your destination . I got that information early on and that provided a real a real target.” For Pearce, he discussed with Boyle who Murdoch has become, what people think of him and “the scandals that he’
 
-### Sally Field Calls Out Trump s Canada Trade War and Paramount Merger in Emotional Emmys Speech
-Tue, 15 Sep 2026 02:36:39 +0000 — https://www.thewrap.com/industry-news/awards/sally-field-emmys-speech-trump-canada-trade-war-paramount-wbd-merger/
+### Tom Cruise Says He s Blunt About His Intensity to New Co-Workers: Trust Me, the Rumors Are True
+Tue, 15 Sep 2026 13:52:57 +0000 — https://www.thewrap.com/creative-content/movies/tom-cruise-warns-coworkers-about-his-intensity-rumors-are-true/
 
-Sally Field used her acceptance speech at the 2026 Emmy Awards to call out both the Trump administration s trade war with Canada and Paramount s plan to merge with Warner Bros. Discovery, arguing that Hollywood voices cannot be compromised or merged. Field took home the Primetime Emmy Award Monday night for Outstanding Actress in a TV Movie/Limited Series for her lead turn in the Netflix drama Remarkably Bright Creatures, which was released on the streaming platform in May. During her emotional acceptance speech at the the Peacock Theater in Downtown Los Angeles, Field shouted out Remarkably Bright Creatures co-star Lewis Pullman and cinematographer Ashley Connor. Field praised Connor for turning the film s Pacific Northwest setting into another character in the drama, before noting that the movie was actually shot in Canada. Blessed Canada! Our neighbors, our friends, Field pointedly said, in a clear reference to the tensions that have been stoked in recent months between Canada and the U.S. by the Trump administration s aggressive tariff policies. Her comments also come at a time when President Trump, Dennis Quaid and others have bemoaned the number of Hollywood productions shot overseas in foreign countries like Canada. The America-Canada trade war was not the only high-stakes matter that Field addressed during her Emmys speech Monday night. In the closing moments of her remarks, the two-time Oscar winner also alluded to the ongoing discourse surrounding Paramount s propos
+If you ve ever heard any kind of rumor or story about Tom Cruise s intensity on a movie set, just know, it s true. In fact, the actor himself says he warns new colleagues about that when they start working together. Cruise admitted as much in a new interview with GQ , published on Tuesday morning. It s a rare long-form sit-down with the actor, in which he reflects on his career, how he decides on new projects, and more. During the conversation, he zeroed in on his approach to making films, and noted that he s always seeking as much information as possible, and devoted to getting it exactly right. Look, I work hard, and people that work with me, they know, Cruise said. I expect a lot and I’m up-front about it. It’s like: The rumors are true. And do you want this?' We’re there. I’m like, Trust me, the rumors are true. I’ll be here before you. What experience do you want?' he added. And I’m very open. It’s not like we don’t have a plan. We have scripts, we have plans, we’re going through it. But I also feel that level of responsibility for—I guess, for everyone. The actor admitted that he s been intense since he was a kid, and would even get called out for it then. But, he embraced that. I’m like, I don’t know what to say. I am intense,' he said with a laugh. I got a very good sense of humor about it, but it was like: When I’m interested in something, I want to learn it. I want to understand it. At the moment, Cruise s intensity is being channeled into Digger, his next film, dir
 
-### Hiro Murai Becomes First Asian Director to Win Emmy for Comedy Directing With Apple TV s ‘Widow’s Bay’
-Tue, 15 Sep 2026 02:18:19 +0000 — https://www.thewrap.com/industry-news/awards/hiro-murai-first-asian-emmy-winner-best-comedy-directing-widows-bay/
+### Hot Docs, Primetime Fever and More Lessons From the Fall Film Festivals
+Tue, 15 Sep 2026 13:22:37 +0000 — https://www.thewrap.com/creative-content/movies/tiff-telluride-venice-film-festival-takeaways-buzzy-movies/
 
-Hiro Murai made Emmys history Monday after becoming the first Asian director to win in the Outstanding Directing for a Comedy Series category for Apple TV s Widow s Bay. Murai is also the third Asian director to win in any Emmy category, following Lee Sung Jin for the first season of “Beef” and Hwang Dong-hyuk for the first season of “Squid Game.” Other nominees in the category included Randall Einhorn (“Abbott Elementary”), Christopher Storer (“The Bear”), Andrew DeYoung (“The Chair Company”), Lucia Aniello (“Hacks”) and Mary Lou Belli (“The Ms. Pat Show”). Over the course of his career, Murai has been nominated for a total of 10 Emmys, including direction for Atlanta and Station Eleven. In addition to his comedy directing win for Widow s Bay, Murai previously won as an executive producer on the first season of “The Bear. In total, Widow s Bay won a total of 14 Emmys and was nominated for 19 awards. Other wins include Outstanding Comedy Series, Matthew Rhys for Outstanding Lead Actor , Kate O Flynn for Outstanding Supporting Actress, Stephen Root for Outstanding Supporting Actor and Betty Gilpin for Outstanding Guest Actress. “Katie Dippold, thank you for being brilliant and letting me ride shotgun,” Murai said in his acceptance speech. “I’m so proud of everything we did. And most of all, I just want to thank my family and my partner Emma. I love you. Thank you.” Check out the full winners list here. The post Hiro Murai Becomes First Asian Director to Win Emmy for Comedy Dir
+Tweets are flowing, hot takes abound and there are news stories about how long audiences clapped their hands (not from this outlet!). That s right, fall film festival season is here. So what does the reaction to films at Venice, Telluride and Toronto tell us about the moviegoing season to come? Here are a few takeaways: Primetime Could Be Big There was already heavy buzz for A24 s movie about Chris Hansen s quest for ratings glory — and the moral quandaries it created — with To Catch a Predator, but reviews for Robert Pattinson s performance in Primetime out of Venice were absolutely glowing. Add in the fact that Hansen is threatening a legal battle that keeps bumping this to the top of headlines, and Lance Oppenheim s film could be a sizeable box office hit when it opens on Sept. 25. Especially given how well the Pattinson-starrer The Drama did this spring. Docs Are Hot Is there an appetite for documentaries in the theater? Three super buzzy docs will put that to the test. First, there s You Can See Everything, Nathan Fielder and Lance Oppenheim s filmed-in-secret documentary about Theranos founder Elizabeth Holmes, with unfettered access to her and her new partner in the month before she went to prison for fraud. Reviews were rapturous out of Telluride, and Fielder is tremendously popular with Gen Z, so this could very well break containment when A24 unleashes it in October. There s also Alex Gibney s four-hour Elon Musk doc Musk, which already has the richest man in the wo
 
-### Stephen Colbert Uses The Late Show Emmy Win to Make a Plea for His Staff: Hire Them
-Tue, 15 Sep 2026 01:57:07 +0000 — https://www.thewrap.com/industry-news/awards/stephen-colbert-emmys-speech-2026/
+### Savannah Guthrie Thanks Allison Janney for Heartfelt Nancy Guthrie Shoutout After Emmys Win
+Tue, 15 Sep 2026 13:21:06 +0000 — https://www.thewrap.com/culture-lifestyle/culture/savannah-guthrie-mom-nancy-missing-allison-janney-emmys-win/
 
-To no one s surprise, Stephen Colbert s The Late Show took home the Emmy for Outstanding Variety Series at the 78th Primetime Emmy Awards. What was surprising was that Colbert used the public victory to make the case that the writers and staff of The Late Show should be hired, pronto. I just want to point out that if you like the comedy tonight, my old writers wrote it, Colbert said at the beginning of his acceptance speech. He then thanked the over 200 people who worked on The Late Show with Stephen Colbert for the past 11 years. The thing about these late shows is that — besides being a really good steady job — they require so many people that they re a fantastic incubator for young people to come in to learn to work professionally on a deadline in cooperation, in collaboration. That is the future of our business that we have to look after, Colbert said. I want you to know I got some great news. They are all tech avail. Hire them. They will make your show better, and they will make your day easier. Colbert then thanked the many celebrities in the room on Monday night. Over the last 21 years, I ve interviewed at least a thousand of you, he joked. Thank you for coming on to talk to this idiot. I want you to know that you are the perfect guest, the segment went great and I m sorry I forgot to play your clip. But Colbert s biggest thank you of the night went to his wife, Evelyn McGee Colbert, whom he called Evie McGee. Thank you, darling. Thank you for being my only crew and my
+Allison Janney won an Emmy on Monday night for Outstanding Supporting Actress in a Drama Series for her work in The Diplomat. On Tuesday morning, Savannah Guthrie thanked the star for using her platform to bring attention to the Today show host s missing mother , Nancy Guthrie. I honestly can say I think about her every day and think about the loss and what Savannah and her family are going through. It truly, it just took over, Janney told reporters in the press room. And I don t think I m alone, too. I think all of America was thinking about her. Beautiful expression of sympathy in that moment of her holding her trophy to think of you there, NBC co-host Willie Geist then noted after the clip played. View this post on Instagram A post shared by TODAY (@todayshow) I was so touched to see her do that. It s her moment of her triumph, and for her to sit and just take a moment and think about our family, Savannah shared. I never let a moment pass if I get one to talk about my mom and how much we miss her and love her and my whole family my sister and my brother and I and all of our extended families are in such pain. We just need help. So thank you Allison Janney for remembering us and for giving an opportunity for me to renew that call, she continued. We just want our mom home, give her a proper goodbye. Nancy was kidnapped from her Tucson-area home nearly eight months ago in the early morning hours of Feb. 1. Savannah has since offered a $1 million reward , in addition to the FB
 
 ## Collider
 
-### ‘Stranger Things’ Officially Brings Eleven Back This Week
-Tue, 15 Sep 2026 09:30:11 GMT — https://collider.com/stranger-things-tales-from-85-season-2-netflix-september-17/
+### Original 'Inspector Lynley' Star Officially Returns to British Crime TV in New Trailer
+Tue, 15 Sep 2026 15:00:11 GMT — https://collider.com/maigret-season-2-trailer-release-date-pbs-masterpiece/
 
-Stranger Things was the definition of a cultural phenomenon for a decade as it evolved from a niche Netflix hit into one of the biggest television shows of all time. And of course, that would mean that Netflix isn't just going to let the golden goose slip back into the upside down. The franchise has found a clever way around saying goodbye to Eleven, Mike, Dustin, Lucas, Will, and Max, and all of them are returning this week .
+There's no shortage of British detective drama these days, that's for sure, so for one to distinguish itself from the pack during its first season? That takes a particular skill, and yet this one managed it. Based on the enormously successful novels by Belgian author Georges Simenon, MASTERPIECE PBS struck gold with their latest adaptation, with Benjamin Wainwright ( Belgravia: The Next Chapter ) taking over a character previously played by actors including Rowan Atkinson , Michael Gambon , and Richard Harris .
 
-### Mahershala Ali Officially Moves On From Marvel’s Cancelled ‘Blade’ Movie
-Tue, 15 Sep 2026 09:00:11 GMT — https://collider.com/mahershala-ali-blade-comments-your-mother-your-mother-your-mother/
+### Fantastic Fest’s New Witch Horror Movie Gets a Bloody First Look [Exclusive]
+Tue, 15 Sep 2026 15:00:11 GMT — https://collider.com/new-horror-movie-the-heretiks-poster-creepy-duck/
 
-Two-time Oscar-winner Mahershala Ali reiterated that he has officially moved on from the Blade movie at Marvel Studios, after expressing frustration about how the project was handled . Ali, promoting his new movie at the Toronto International Film Festival, added with a hint of sarcasm that he's grateful to Marvel because the studio indirectly funded the upcoming project. He was still attached to Blade when he met director Bassam Tariq ; they came up with their new original movie during that time. It was also during the development for Blade that Ali was sent to undergo training for the lead role, which ended up coming in handy for his new movie with Tariq.
+A chill is creeping in the air, heralding the start of fall and the season of the witch. That's the perfect time for the new film The Heretiks , which combines spooky Halloween fun with home invasion horror and wicked witchcraft, to make its festival debut this week. Collider is proud to exclusively debut the new poster for The Heretiks , by famed poster artist Creepy Duck .
 
-### 15 Movies To Watch if You Love 'Spirited Away'
-Tue, 15 Sep 2026 08:58:11 GMT — https://collider.com/movies-like-spirited-away/
+### Forget ‘Parks and Recreation,’ Rob Lowe Is Officially Heading Back to School [Exclusive]
+Tue, 15 Sep 2026 15:00:11 GMT — https://collider.com/the-musical-rob-lowe-will-brill-sneak-peek/
 
-Hayao Miyazaki is perhaps Japan's best-known director of animated films, having made 12 so far in his legendary career. Most agree that his best film is Spirited Away , which was the first foreign film to win the Academy Award for Best Animated Feature. It focuses on a young girl who winds up in the spirit world while moving to a new home and must survive working at a bathhouse run by an evil witch to save her parents — who were transformed into pigs — and ensure they can all escape.
+Theatre can feel like life or death. When you are part of a production, it is the only thing that matters. Or at least that's how it feels at the time. The new film The Musical captures that feeling in the new exclusive sneak peek that Collider is thrilled to bring you today. Directed by Giselle Bonilla and written by Alexander Heller , the film stars Parks and Recreation star Rob Lowe , Community actress Gillian Jacobs , and Broadway star (and star of the play Stereophonic ), Will Brill . Our sneak peek will take you right back into doing theatre as a child.
 
-### Every Jane Austen Book, Ranked
-Tue, 15 Sep 2026 04:18:11 GMT — https://collider.com/jane-austen-books-ranked/
+### ‘Foundation’ Star Officially Goes Dark in Brutal First Look at New Horror Film [Exclusive]
+Tue, 15 Sep 2026 15:00:11 GMT — https://collider.com/bloody-tennis-image-sandra-guldberg-kampp-fantastic-fest/
 
-Jane Austen wrote six novels, which feels like a small number considering how often her work pops up in a contemporary setting . Her books have been adapted into prestige films, miniseries, loose Hollywood reimaginings, and at least one zombie mashup. They've shaped how novelists from the Brontës to Sally Rooney think about interiority and dialogue, and the way two people in a room can say one thing and mean another. Even unfinished fragments like Sanditon and The Watsons have made their way mainstream.
+Sports and horror are a rare pairing, yet Fantastic Fest is about to give genre fans their second combination of the two in as many years. In 2025, Him took the field , mixing football and the macabre in a story about an up-and-coming quarterback being invited to train with an aging superstar at his isolated compound, where the methods employed are more than a little sinister . Neither critics nor audiences were big fans of the film in the end, though, despite interesting ideas and strong performances from the starring duo of Tyriq Withers and Marlon Wayans . Now, Bloody Tennis will attempt to take the niche subgenre and serve up a winner in its North American premiere at the country's most prestigious event for genre filmmaking.
 
-### 23 Years Later, The Lord of the Rings' Final Line Still Defines the Fantasy Trilogy
-Tue, 15 Sep 2026 04:05:11 GMT — https://collider.com/lord-of-the-rings-return-of-the-king-best-final-quote-fantasy-film/
+### HBO Officially Casts ‘Harry Potter’s Arthur Weasley Replacement Ahead of Season 2
+Tue, 15 Sep 2026 14:59:11 GMT — https://collider.com/harry-potter-season-2-cast-arthur-weasley-moaning-myrtle-colin-creevey/
 
-Peter Jackson ’s Lord of the Rings trilogy represents some of the finest blockbuster filmmaking of the 21st century. The director’s vision balanced the epic scale of J. R. R. Tolkien ’s fantasy saga with a light, humanist touch (as well as plenty of the gross-out jump scares that Jackson mastered with early films like his Muppets parody Meet the Feebles ). In the trilogy, the human element is closely tied with the story of the four hobbits who leave their home in the cozy, provincial Shire to face certain death in exchange for defeating the great evils that haunt Middle Earth. The first film of the trilogy, 2001’s Fellowship of the Ring , sets its opening moments in the Shire, and those scenes become very important the further the characters get from home. As the movies go on, the hobbits face monsters, enter war zones, and find themselves spiritually tormented, leaving the Shire as just a memory.
+HBO's mammoth adaptation of Harry Potter has added yet another intriguing name for the show's second season . The adaptation of Harry Potter and the Philosopher's Stone is set to premiere on HBO Max on December 25 but this series is flying at a rapid pace and Season 2 is already aiming to begin production imminently. Now, we have a key member of the Order of the Phoenix.
 
-### The 20 Best Feel-Good Songs Guaranteed to Turn That Frown Upside Down
-Tue, 15 Sep 2026 03:56:11 GMT — https://collider.com/best-feel-good-songs/
+### Apple TV's Genius 10/10 Spy Series Officially Renewed for Rare Season 8
+Tue, 15 Sep 2026 14:00:11 GMT — https://collider.com/slow-horses-season-8-renewed/
 
-What's got you down, champ? Did you wake up on the wrong side of the bed? Maybe even under it? Did your partner leave you, or – no judgment – did they decide to stay? Did you pour scalding coffee on yourself, because your mug doesn't have that "Caution - contents may be hot" warning, causing you to jump up and hit the nearby radio, inadvertently changing it to a station that plays John Mellencamp 's "Jack and Diane" on repeat 24/7, and you couldn't stop it so you threw it out the window where it hit a bus, forcing it off the road to hit a streetlight, injuring all the orphans and nuns aboard? Hey, I've been there. But don't be glum, chum – we here at Collider want to turn your frown upside down, and to that end we've got a list of 20 tunes, in no particular order, guaranteed to do the job .
+The return of Apple TV's flagship series, Ted Lasso , has dominated the streaming charts for the last few weeks. Ted ( Jason Sudeikis ) and Coach Beard ( Brendan Hunt ) have joined Alice Chilton ( Tanya Reynolds ) in coaching the new Lady Greyhounds, and viewers have been watching in record-breaking numbers, with 296.6 million viewing minutes during its two-day launch, which marks an official record for Apple TV. But if the reign of Ted Lasso is to be stopped, it will most likely be by the return of Apple TV's best spy series.
 
-### 8 Must-Watch Shows To Binge While You Wait for 'The Pitt' Season 3
-Tue, 15 Sep 2026 03:55:11 GMT — https://collider.com/the-pitt-season-3-shows-to-watch/
+### Baz Luhrmann's 'Romeo + Juliet' Officially Returns 30 Years Later With a Brand-New Release
+Tue, 15 Sep 2026 14:00:11 GMT — https://collider.com/romeo-plus-juliet-in-concert-on-sale-date/
 
-When a TV series has already won nine Primetime Emmys and is only two seasons in, you know it has to be good. The Pitt is not only good, but exemplary. The hit series starring Noah Wyle centers around a 15-hour shift at the fictional Pittsburgh Trauma Medical Center , nicknamed "The Pitt." Having a time constraint on the action creates an immediate sense of urgency and gives the show unparalleled momentum.
+30 years ago, cinematic visionary Baz Luhrmann brought the worlds of William Shakespeare to life like never before in Romeo + Juliet . Now, you can experience that movie like never before: in concert. In 2027, the film is coming to the stage in a unique combination of cinema and music, courtesy of GEA Live, in collaboration with Disney Concerts and Luhrmann, with tickets going on sale this week.
 
-### Jason Statham’s $28 Million Action Flop Is Officially a Streaming Hit
-Tue, 15 Sep 2026 03:45:11 GMT — https://collider.com/jason-statham-mutiny-amazon-number-one-streaming-hit/
+### Netflix’s Best Political Thriller Since 'House of Cards' Officially Releases New Trailer
+Tue, 15 Sep 2026 14:00:11 GMT — https://collider.com/the-diplomat-season-4-trailer/
 
-Jason Statham is an undisputed action icon. The actor has given us some amazing high-octane thrillers, heist movies, and ensemble action franchises, including The Transporter , The Meg , Fast X , Expendables , and newer entries like The Beekeeper , A Working Man , and more. He has a filmography where he excels at playing a “lone wolf” kind of character, who is sucked back into a violent life usually to avenge a loved one. Fans love to see him go all out on the bad guys, increasing his kill count with each film.
+International and interpersonal tensions are rising in season 4 of The Diplomat . The new season of the Netflix political thriller series is set to premiere next month. Before all eight episodes drop on October 15, we've got a new look at season 4 in its first trailer, showing us what trans-Atlantic trouble and trickery Emmy nominee Keri Russell is getting into this time.
 
-### Netflix’s 11-Season Streaming Favorite Is Officially Leaving
-Tue, 15 Sep 2026 03:30:11 GMT — https://collider.com/netflix-removing-shameless-october-2026/
+### 'The Ministry of Ungentlemanly Warfare' Stars Officially Reunite in New Horror Thriller [Exclusive]
+Tue, 15 Sep 2026 14:00:11 GMT — https://collider.com/the-lost-ones-trailer-henry-golding-alex-pettyfer/
 
-Netflix has had a huge year when it comes to original programming, both with movies and TV shows. The biggest feature film of the year for the streamer so far has been War Machine , the big-budget sci-fi thriller starring Alan Ritchson from Prime Video’s Reacher . The film reached the all-time Netflix top 10, and the streamer has already confirmed that a sequel is officially in the works. Netflix also found a massively successful TV show thanks to Harlan Coben with I Will Find You , the new kidnapping thriller starring Britt Lower ( Severance ) and Sam Worthington ( Avatar: Fire and Ash ). I Will Find You scored over 100 million views during its initial viewing period, and it was even seen in the top 10 as recently as a few weeks ago, several months removed from its global premiere.
+Henry Golding has been an action star in films like Snake Eyes and The Old Guard 2 , brought the laughter in Crazy Rich Asians , and even explored his romantic side in a somber sci-fi way with Daniela Forever . However, one thing his varied resume lacks is a proper horror role of any kind. As the spooky season approaches, that's finally about to change with the release of The Lost Ones , an eerie, violent new thriller that will creep onto digital platforms next month. In anticipation of its arrival, Collider can exclusively share the official trailer , which shows Golding's usual charm twisted into a stern, fatherly nature with a hint of darkness as he's confronted by his suspicious new neighbor, played by fellow The Ministry of Ungentlemanly Warfare star Alex Pettyfer .
 
-### The Emotional Paul McCartney Track That Was His Last Conversation With John Lennon
-Tue, 15 Sep 2026 03:16:34 GMT — https://collider.com/paul-mccartney-here-today-john-lennon/
+### Prime Video's 'Neagley' Is a 'Reacher'-Lite Spin-Off That's Officially Worth Your Time | Review
+Tue, 15 Sep 2026 13:00:11 GMT — https://collider.com/neagley-season-1-review-prime-video-reacher-spinoff/
 
-When John Lennon was murdered outside his home in New York City in 1980, the shock and grief was felt worldwide. Sometimes, when a public figure is so large and universal, it's hard to remember that he was also a person with loved ones who mourned him even more that fans did around the world. Paul McCartney was one of them. When Lennon died, The Beatles had been broken up for ten years, and he and McCartney's bitter feud was fresh in people's minds . So, a lot of people speculated that there was no love lost between them.
+Reacher is one of Prime Video's best and most popular shows, currently wrapping up its brutal fourth season and already confirmed to return for a fifth. The flagship series reintroduced audiences to Jack Reacher, played by Alan Ritchson , a self-described nomad who wanders around the U.S. solving crimes and collecting allies. One of Reacher's few close friends is Frances Neagley ( Maria Sten ), a corporate security professional and PI who became an instant breakout character , stealing every scene she was in, and it didn't take long for Prime Video to give her a show of her own.
 

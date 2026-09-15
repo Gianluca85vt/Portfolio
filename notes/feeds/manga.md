@@ -1,6 +1,51 @@
-# Manga — harvested 2026-09-15T09:35:42.192Z
+# Manga — harvested 2026-09-15T15:15:57.338Z
 
 ## Anime News Network
+
+### Goodbye, Lara ‒ Episode 11
+Tue, 15 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/goodbye-lara/episode-11/.241774
+
+What is a witch but a woman with more power and knowledge than the world is comfortable with?
+
+### This Week in Anime - Journey to the Past
+Tue, 15 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-15/.241758
+
+You know what they say about people who fail to learn from history.
+
+### Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 22
+Tue, 15 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-22/.241768
+
+Team Devimuse changed their look, their song style, and their performance before switching back to their classic. Gyari’s basically just loud.
+
+### Daemons of the Shadow Realm ‒ Episode 23
+Tue, 15 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-23/.241745
+
+We are so disconnected from the time and the politics of the Sengoku era that restarting that war seems laughably insane.
+
+### A Returner's Magic Should Be Special Season 2's New Video Reveals October 7 Debut
+Tue, 15 Sep 2026 08:02:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/a-returner-magic-should-be-special-season-2-new-video-reveals-october-7-debut/.241801
+
+Trailer also previews opening song "Sorrow" by rock band FLOW
+
+### Sparks of Tomorrow ‒ Episode 11
+Tue, 15 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-11/.241742
+
+It’s more than clear to me at this point that <i>Sparks of Tomorrow</i> is limping to its predictable conclusion, and I very much look forward to not watching what’s likely to go down as Kyoto Animation’s worst work.
+
+### Nia Liston: The Merciless Maiden Anime Adds 2 More Cast Members
+Tue, 15 Sep 2026 06:27:25 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/nia-liston-the-merciless-maiden-anime-adds-2-more-cast-members/.241799
+
+Tomoyo Takayanagi, Yūki Urushiyama join cast of October 6 anime
+
+### Ace of Diamond Act II Second Season's 2nd Part Unveils Theme Songs in New Video
+Tue, 15 Sep 2026 06:09:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/ace-of-diamond-act-ii-second-season-2nd-part-unveils-theme-songs-in-new-video/.241798
+
+GLAY performs "NEVER SAY NEVER AGAIN" opening, OxT performs ending song "ROAD TO BE BLUE"
+
+### Jujutsu Kaisen Rumble: Survivaton Game Delayed to 2027
+Tue, 15 Sep 2026 05:00:09 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/jujutsu-kaisen-rumble-survivaton-game-delayed-to-2027/.241796
+
+Game initially slated for this year
 
 ### Yuka Ōshima's 'Haru to Gen ~70-sai, Hajimete Kosodate~' Manga Gets Short TV Anime
 Tue, 15 Sep 2026 03:57:26 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/yuka-oshima-haru-to-gen-~70-sai-hajimete-kosodate~-manga-gets-short-tv-anime/.241794
@@ -17,56 +62,21 @@ Mon, 14 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/20
 
 Not made from real Pokémon
 
-### We Are Aliens Film's New Trailer Highlights Heroine Konatsu
-Mon, 14 Sep 2026 22:11:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/we-are-aliens-film-new-trailer-highlights-heroine-konatsu/.241788
-
-Film opens in Japan on September 25
-
-### Cyberpunk: Edgerunners Joins Overwatch, Fortnite Battle Royale Games
-Mon, 14 Sep 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-14/cyberpunk-edgerunners-joins-overwatch-fortnite-battle-royale-games/.241766
-
-Just don't go cyberpsycho with all that chrome
-
-### Silent Hill f Game Gets Manga Based on Fox Mask Character
-Mon, 14 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/silent-hill-f-game-gets-manga-based-on-fox-mask-character/.241785
-
-Manga tells character's origin story
-
-### Arata Aki Launches New Enma Note Demon Idol Manga
-Mon, 14 Sep 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/arata-aki-launches-new-enma-note-demon-idol-manga/.241782
-
-<cite>Enma Note: Jigoku Idol Project</cite> debuts on September 15
-
-### 2027 Doraemon Film's Teaser Unveils March 5 Opening in Japan
-Mon, 14 Sep 2026 18:51:01 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/2027-doraemon-film-teaser-unveils-march-5-opening-in-japan/.241749
-
-<cite>Eiga Doraemon: Nobita no Jōki Jikansha</cite> film set in 19th century Victorian London
-
-### Atsushi Kaneko Launches New MISH/MASH Manga
-Mon, 14 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/atsushi-kaneko-launches-new-mish-mash-manga/.241781
-
-<cite>MISH/MASH</cite> debuts on September 28
-
-### Mushoku Tensei: Jobless Reincarnation III ‒ Episode 12
-Mon, 14 Sep 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-12/.241743
-
-More than just a simple call to adventure, this episode of <i>Mushoku Tensei</i> feels like the defining moment for the entire rest of the story.
-
-### Suikoden Star Leap Manga Ends
-Mon, 14 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/suikoden-star-leap-manga-ends/.241735
-
-Manga launched in November 2025
-
-### You and I Are Polar Opposites Season 2 ‒ Episode 11
-Mon, 14 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-11/.241741
-
-Under different circumstances, I'd be more than happy to just watch these kids be kids, but now that we're running down to the wire, I'm more than a little concerned as to what all this stalling will actually lead to.
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### A Returner's Magic Should Be Special Season 2 Reveals New Trailer, Main Key Visual, October 7 Premiere
+Tue, 15 Sep 2026 14:10:52 GMT — https://animecorner.me/a-returners-magic-should-be-special-season-2-reveals-new-trailer-main-key-visual-october-7-premiere/
+
+A Returner's Magic Should Be Special Season 2 revealed a new trailer and main key visual, along with an October 7 premiere date.
+
+### Katekyo Hitman Reborn! Reveals Fifth Opening Featuing "last cross" by Masami Mitsuoka
+Tue, 15 Sep 2026 11:29:40 GMT — https://animecorner.me/katekyo-hitman-reborn-reveals-fifth-opening-featuing-last-cross-by-masami-mitsuoka/
+
+Katekyo Hitman REBORN! anime released the creditless version of its fifth opening, featuring "last cross" by Masami Mitsuoka.
 
 ### Julius Faces Reid Again in Re:ZERO Season 4 Episode 17 Preview
 Tue, 15 Sep 2026 08:59:57 GMT — https://animecorner.me/julius-faces-reid-again-in-rezero-season-4-episode-17-preview/
@@ -118,17 +128,17 @@ Mon, 14 Sep 2026 12:33:14 GMT — https://animecorner.me/interview-vk-blanka-on-
 
 During his visit to the German convention AnimagiC, we sat down with singer and&hellip;
 
-### Katekyo Hitman Reborn! Anime Reveals Eight Ending Featuring "CYCLE" by CHERRYBLOSSOM
-Mon, 14 Sep 2026 11:10:33 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-eight-ending-featuring-cycle-by-cherryblossom/
-
-Katekyo Hitman REBORN! anime released the creditless version of its eight ending, featuring "CYCLE" by CHERRYBLOSSOM.
-
-### Yu-Gi-Oh! Special New Animation by KONAMI Released for Kazuki Takahashi Art Exhibition
-Mon, 14 Sep 2026 09:58:49 GMT — https://animecorner.me/yu-gi-oh-special-new-animation-by-konami-released-for-kazuki-takahashi-art-exhibition/
-
-A new Yu-Gi-Oh! special animation has been released to commemorate the first original art exhibition dedicated to the series creator.
-
 ## MyAnimeList News
+
+### Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai Unveils Additional Cast, Staff, Theme Songs, First Promo
+Tue, 15 Sep 2026 04:59:05 -0700 — https://myanimelist.net/news/74722593?_location=rss
+
+The official website for the television anime adaptation of Ryuto s Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai (Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!) light novel unveiled a pair of additional cast, staff, key visual (pictured), the theme songs, and first promotional video on Tuesday. The anime series is scheduled to premiere on October 4 at 9:30 p.m. on Tokyo MX, followed by AT-X, BS11, and other...
+
+### Kyouran Reijou Nia Liston Announces Additional Cast Pair
+Tue, 15 Sep 2026 04:08:22 -0700 — https://myanimelist.net/news/74722530?_location=rss
+
+The official website for the television anime adaptation of Umikaze Minamino s Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei naru Musouroku (Nia Liston: The Merciless Maiden) light novel unveiled additional cast pair and situational visual (pictured above) on Tuesday. The anime will air for two consecutive cours, beginning on October 6 at 9.25 p.m. on Tokyo MX, followed by BS Nippon TV, and MBS. The series will hold a special stage event and advan...
 
 ### Spin-off Manga Puchimas!: Petit iDOLM@STER Concludes 18-Year Serialization
 Mon, 14 Sep 2026 21:07:50 -0700 — https://myanimelist.net/news/74721441?_location=rss
@@ -149,11 +159,6 @@ Publishing company Kodansha announced a television anime adaptation of Motohiro 
 Sun, 13 Sep 2026 18:28:06 -0700 — https://myanimelist.net/news/74717598?_location=rss
 
 Uoto, the creator of Chi. Chikyuu no Undou ni Tsuite (Orb: On the Movements of the Earth), announced two new manga on their X (formerly Twitter) account on Friday and Saturday. The first title, Hallucination Meat, is expected to begin in Shogakukan s Weekly Big Comic Spirits within this year. Test Taker/Cheaters, the second title, will be written by Uoto with artwork by Kyou Yoneshiro. The manga is expected to launch in Kodansha s monthly Afternoon magazine at the beginning of 2027. U...
-
-### #Zombie Sagashitemasu Unveils Additional Cast, Staff, Theme Songs, First Promo
-Sun, 13 Sep 2026 04:43:56 -0700 — https://myanimelist.net/news/74713683?_location=rss
-
-The special livestream presentation for the television anime adaptation of Katsuwo s #Zombie Sagashitemasu (#I m Looking for Zombie) manga unveiled additional cast, staff, a key visual (pictured right), the theme songs, and first promotional video on Sunday. The anime series is scheduled to premiere on October 3 at 11:30 p.m. on TV Asahi s IMAnimation programming block, followed by BS Asahi and AT-X. Cast: Mikazuki: Youko Hikasa (High School DxD) Touka: Makoto Koichi (Tensei shit...
 
 ## Otaku USA
 
