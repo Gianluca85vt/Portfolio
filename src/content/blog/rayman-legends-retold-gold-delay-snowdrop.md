@@ -4,7 +4,6 @@ date: 2026-09-15
 category: Games
 excerpt: Ubisoft moved Retold from 1 October to 3 December on 14 September, after the build had already gone gold. A Snowdrop rebuild is why that reads oddly.
 cover: /img/blog/rayman-legends-retold-gold-delay-snowdrop/shot-01.jpg
-draft: true
 ---
 
 Going gold used to be the end of the conversation. The build is final, it goes
