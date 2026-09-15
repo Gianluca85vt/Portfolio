@@ -4,7 +4,6 @@ date: 2026-09-15
 category: 3D
 excerpt: Blender Studio's first OVERGROWN footage landed on 14 September. The painterly shadows in it are solved in the geometry that casts them.
 cover: /img/blog/blender-overgrown-teaser-painterly-shadows/shot-01.jpg
-draft: true
 ---
 
 The shadow is what gives away a painterly render, every time.
