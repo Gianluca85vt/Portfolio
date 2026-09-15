@@ -77,7 +77,7 @@ stacks are expensive in a way that does not show up in a screenshot. Full-screen
 post is a tax you pay 144 times a second, per eye.
 
 Which is the same discipline VR-native studios have always worked under, and the
-reason the craft is so specific. Polyarc built three Moss games inside those
+reason the craft is so specific. Polyarc built the Moss games inside those
 limits, and [the art discipline that took](/blog/polyarc-closes-moss-vr-native-art/)
 is worth reading next to a launch like this — the studio closed on 11 September,
 three days before Valve put a $1,059 headset on sale.
