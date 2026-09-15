@@ -4,7 +4,6 @@ date: 2026-09-15
 category: Tech
 excerpt: Valve's standalone headset went on sale at $1,059. The 16GB of LPDDR5X inside it is the one component Valve could not shrink to hit a cheaper number.
 cover: /img/blog/steam-frame-1059-ram-market/shot-01.jpg
-draft: true
 ---
 
 Valve opened Steam Frame orders yesterday, 14 September, at $1,059 for the 256GB
