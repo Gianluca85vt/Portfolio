@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-15T15:15:57.338Z
+# Film & TV — harvested 2026-09-15T19:49:47.472Z
 
 ## Variety
 
-### Ed Sheeran Says Dropping Macklemore From Tour Was Promoter s Decision, Not Mine, Explains Why He s Not Speaking Out on Israel and Palestine
-Tue, 15 Sep 2026 15:10:52 +0000 — https://variety.com/2026/music/news/ed-sheeran-speaks-out-macklemore-1236861174/
+### Netflix Pride and Prejudice Series Sets Release Date, Drops First-Look Photos (TV News Roundup)
+Tue, 15 Sep 2026 19:48:23 +0000 — https://variety.com/2026/tv/news/tv-news-roundup-week-of-september-14-1236862035/
 
-Ed Sheeran has commented on the decision to drop Macklemore from his U.S. Loop tour after the rapper made forceful “free Palestine” comments on stage during a political speech during the rapper s performances opening for the singer at MetLife Stadium in New Jersey on Sept. 4 and 5. I am appalled by the conflict between [ ]
+Mr. and Mrs. Darcy will most ardently return to screens on Netflix in a new limited series adaptation of “Pride and Prejudice.” Netflix has announced that the limited series adaptation of the iconic novel will debut on Dec. 3. Netflix has also unveiled first look photos, which can be seen below. The official logline for [ ]
 
-### Magic: The Gathering s Reality Fracture Designers Unveil New What If Set Details as Four Cards Debut (EXCLUSIVE)
-Tue, 15 Sep 2026 15:01:35 +0000 — https://variety.com/2026/gaming/news/magic-the-gatherings-reality-fracture-spoiler-cards-interview-1236862973/
+### Kennedy Center Board Votes to Shut Down Facility Immediately After Judge Blocks Trump Again From Adding His Name to Building
+Tue, 15 Sep 2026 19:32:31 +0000 — https://variety.com/2026/music/news/kennedy-center-shutdown-donald-trump-name-cannot-be-added-judge-1236863156/
 
-The world of Magic: The Gathering will break with the upcoming release of new mainline set Reality Fracture, something Magic maker Wizards of the Coast says fans have been asking for for a long time. Doing another what if set is a frequent player request, so it was something I’ve been on the lookout to [ ]
+President Donald Trump said the board of the Kennedy Center voted Tuesday to shut down the building for safety reasons, coming shortly after a federal judge again ruled that the performing arts center was legally prohibited from adding Trump s name in any way. In a post on Truth Social, Trump said the board of the [ ]
 
-### Emmy Producers on Recruiting Taylor Swift, the Ideas She Brought to the Show and How This Year’s Telecast Wound Up Short
-Tue, 15 Sep 2026 15:00:41 +0000 — https://variety.com/2026/tv/news/taylor-swift-emmy-producers-show-behind-the-scenes-mariska-1236862920/
+### Ed Sheeran Opener Aaron Rowe Pulls Out of Tour After Macklemore Dropped: I Cannot Allow Billionaires to Silence Rightful Voices
+Tue, 15 Sep 2026 19:11:46 +0000 — https://variety.com/2026/music/news/ed-sheeran-opener-aaron-rowe-pulls-out-tour-macklemore-1236863316/
 
-When you hire Mariska Hargitay to host the Emmys, the fact that she has a few friends in high places pays off. And that starts with Taylor Swift. “They’re genuine friends,” executive producer Dionne Harmon said. “She’s like, ‘lemme hit Tay Tay!’” Emmy executive producers Jesse Collins, Harmon and Janae Rouzon-Clay from Jesse Collins Entertainment [ ]
+Singer-songwriter Aaron Rowe has dropped out as an opener on the North American leg of Ed Sheeran s Loop tour after fellow supporting act Macklemore was dismissed for voicing his support for Palestine. In a post on Instagram, the Irish musician also expressed his support for Palestine while explaining why he decided to leave the trek. [ ]
 
-### Harry Potter HBO Series Casts Its Arthur Weasley, Moaning Myrtle, Colin Creevey
-Tue, 15 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/harry-potter-hbo-cast-arthur-weasley-moaning-myrtle-1236862281/
+### Karina Longworth on The Bisexuals,’ the Latest Season of Her ‘You Must Remember This Podcast: ‘Even Progressive People’ Say ‘Bisexuality is a Myth’
+Tue, 15 Sep 2026 19:09:42 +0000 — https://variety.com/2026/film/features/karina-longworth-you-must-remember-this-bisexuals-2-1236862335/
 
-Season 2 of HBO s Harry Potter series has cast three key roles. Rafe Spall ( Trying, Life of Pi ) has joined the show as Arthur Weasley, with Molly Hewitt-Richards ( Code of Silence, Casualty ) as Moaning Myrtle, and Jasper Ambrose ( Bridget Jones: Mad About the Boy, The Sheep Detectives ) as Colin Creevey. As previously announced, Season 2 [ ]
+Karina Longworth isn t that interested in modern Hollywood anymore. After 18 seasons of her “You Must Remember This” podcast, former film critic Longworth says she doesn’t pay much attention to the industry. She’s too busy digging up stories from old Hollywood, from gossip and feuds to controversies and murders. The latest season, “The Bisexuals,” launches [ ]
 
-### Israeli Filmmakers Among 1,500 Names to Sign Petition Defending ‘NAZA’ Directors After Their Citizenship Is Threatened Over Gaza Doc
-Tue, 15 Sep 2026 14:49:11 +0000 — https://variety.com/2026/film/global/naza-israeli-filmmakers-sign-petition-support-directors-1236862865/
+### Quentin Tarantino to Publish Cliff Booth Novel Before Brad Pitt and David Fincher s Movie Streams on Netflix
+Tue, 15 Sep 2026 18:18:24 +0000 — https://variety.com/2026/film/news/quentin-tarantino-cliff-booth-novel-brad-pitt-david-fincher-movie-1236863181/
 
-Prominent Israeli filmmakers are among 1,500 industry names that signed a petition launched on Monday expressing solidarity with NAZA directors Yuval Abraham and Rachel Szor, who have faced backlash from authorities at home after the hot-button documentary premiered at Venice Film Festival last week. In recent days, we have witnessed an unprecedented campaign of incitement [ ]
+Quentin Tarantino is writing a novel version of his Once Upon a Time in Hollywood spinoff Cliff Booth. It will debut later this year, timed to the release of the forthcoming film starring Brad Pitt, who reprises his Oscar-winning role as a longtime stuntman. Tarantino s book is titled The Adventures of Cliff Booth, which differs [ ]
 
-### Faith Review: Enigmatic, Increasingly Unmoored Grief Drama Isn t Equal to Erin Doherty s Gut-Wrenching Performance
-Tue, 15 Sep 2026 14:48:42 +0000 — https://variety.com/2026/film/reviews/faith-review-2-1236862102/
+### Thailand Film and Tourist Officials on the Rise of Thai Cinema, Global Productions and the Impact of ‘The White Lotus’
+Tue, 15 Sep 2026 18:08:08 +0000 — https://variety.com/2026/film/news/thailand-global-conversation-tiff-1236861651/
 
-Twenty years on from his debut feature London to Brighton, Paul Andrew Williams remains a tough talent to pigeonhole on the British indie film scene. His filmography veers from kitchen-sink realism to wild genre storytelling, sometimes with a supernatural bent; from the visceral, stomach-churning severity of Bull to the untrammelled sentimentality of Song for Marion. [ ]
+Following a spike in popularity for Thailand’s film and TV industry, the country’s filmmakers and tourism officials want to make sure it lasts. Nithee Seeprae, Cod Satrusayang, Raymond Phathanavirangoon and Banjong Pisanthanakun joined Variety at the Toronto International Film Festival to discuss Thailand’s growing presence in the global film industry, both in the original work [ ]
 
-### ‘70 Up’ Producer on How the Series Survived Six Decades and Became the ‘Definitive Longitudinal Documentary’: ‘To See a Whole Life Change in Front of You Is a Mindf ’
-Tue, 15 Sep 2026 14:38:54 +0000 — https://variety.com/2026/tv/global/70-up-definitive-longitudinal-documentary-1236854131/
+### Netflix’s ‘The Murder of JonBenét Ramsey’ Sets Release Date, First Look at Melissa McCarthy and Clive Owen
+Tue, 15 Sep 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/netflix-murder-of-jonbenet-ramsey-release-date-1236861705/
 
-In 1964, Canadian director Paul Almond filmed a group of 14 British schoolchildren aged seven years-old for a documentary called “Seven Up!” examining the lives of kids across class divides. Seven years later, the children were filmed again, this time by British director Michael Apted, for “14 Up.” Apted went on to revisit them every [ ]
+The Netflix limited series “The Murder of JonBenét Ramsey” will premiere on Dec. 10, with the streaming platform also releasing a first look photo of Melissa McCarthy and Clive Owen as Patsy and John Bennett Ramsey. The series explores the unsolved murder of JonBenét, who died Christmas night in 1996. Her body was found in [ ]
 
-### MPA Projects Federal Film Incentive Would Double U.S. Production and Create 143,500 Jobs
-Tue, 15 Sep 2026 14:30:00 +0000 — https://variety.com/2026/film/news/mpa-federal-film-incentive-jobs-production-report-1236861764/
+### Here’s How to Get an ‘On T-Mobile’ Apple iPhone 18 Pro
+Tue, 15 Sep 2026 17:38:23 +0000 — https://variety.com/2026/shopping/news/t-mobile-postpaid-on-us-apple-iphone-18-pro-sponsored-online-1236858739/
 
-The Motion Picture Association issued a report on Tuesday estimating that U.S. film and TV production would double by 2032 if Congress passes a federal film incentive. The report, prepared by Olsberg SPI, also projects that a 20% federal credit would create about 143,500 production jobs per year. The MPA is working with a coalition [ ]
+With the announcement of the new Apple iPhone 18 Pro, it s now the best time of the year to switch to T-Mobile. The U.S. carrier has wireless savings for new customers, especially for those looking for real value for mobile internet, phone calls and text messages. T-Mobile is introducing its newest promotion iPhone 18 Pro [ ]
 
-### Kate Beckinsale, Ryan Phillippe Psychological Thriller The Patient Acquired by Buffalo 8 (EXCLUSIVE)
-Tue, 15 Sep 2026 14:29:32 +0000 — https://variety.com/2026/film/markets-festivals/kate-beckinsale-ryan-phillippe-the-patient-buffalo-8-1236862952/
+### Israel s Oscar Entry Tell Me Everything Finds International Distribution as Paradise City Sales Unveils Trailer (EXCLUSIVE)
+Tue, 15 Sep 2026 17:35:53 +0000 — https://variety.com/2026/film/global/israel-oscar-entry-tell-me-everything-trailer-sales-1236863172/
 
-Buffalo 8 Distribution has acquired North American distribution rights to The Patient, a psychological thriller starring Kate Beckinsale and Ryan Phillippe, with the deal struck at the Toronto Film Festival market. The company will release the film across major VOD platforms in December, followed by a physical media release. Phillippe plays a man who comes [ ]
+Moshe Rosenthal’s Tell Me Everything continues to build momentum after winning 10 Ophir Awards, including best picture, best director and best screenplay, from a record-breaking 16 nominations. Israel’s submission for the international feature Oscar, the father-son drama has secured a string of international sales, including France (Maverick), as well as Australia and New Zealand (Moving [ ]
 
-### The Diplomat Season 4 Trailer Brings Keri Russell to Brink of War With the White House
-Tue, 15 Sep 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/the-diplomat-season-4-trailer-keri-russell-1236861536/
+### Creator-Media Entrepreneur Hopes to Help Influencers Expand Appearances in Ads
+Tue, 15 Sep 2026 17:30:00 +0000 — https://variety.com/2026/tv/news/creator-media-entrepreneur-influencers-expand-commercials-1236862897/
 
-The Diplomat Season 4 has released its first full-length trailer, and Keri Russell s Kate Wyler is back in political hot seat. Following the events of Season 3, Kate is forced to deal with the fallout of President Grace Penn (Allison Janney) and Vice President Hal Wyler s (Rufus Sewell) covert action against both the Russian and [ ]
+Why dispatch replications of Amish farmers, wise elderly doctors or financial gurus to various TikToks and other short-form videos when real people can do the exact same thing? A technology company that builds products for media users has introduced a new platform that gives advertisers and creators the ability to license individuals’ likenesses for use [ ]
 
 ## The Hollywood Reporter
 
-### John Mulaney Steals the Show at the 2026 Emmys With Men Being Men Bit
-Tue, 15 Sep 2026 15:15:34 +0000 — https://www.hollywoodreporter.com/tv/tv-news/john-mulaney-2026-emmys-men-being-men-1236702089/
+### Ed Sheeran Opener Aaron Rowe Departs Tour in Solidarity With Macklemore
+Tue, 15 Sep 2026 19:41:57 +0000 — https://www.hollywoodreporter.com/music/music-news/ed-sheeran-opener-aaron-rowe-departs-tour-macklemore-palestine-1236702494/
 
-“This award is for the guys. Just men being men. Finally, something for the fellas,“ he said when taking the stage to introduce the best actor in a drama series category.
+“I cannot stand by and allow billionaires to use their position of power to silence the rightful voices of those who speak up against Israeli genocide and who highlight the savage murder of children," Rowe wrote on Instagram.
 
-### Chopard Drafts Bella Hadid and Liu Wen for 50th Anniversary of Happy Diamonds Collection
-Tue, 15 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/style/chopard-bella-hadid-liu-wen-happy-diamonds-campaign-1236659854/
+### Broadway Box Office: Hamilton Hits $2.5M As Chris Jackson Returns, School Girls Starts Previews
+Tue, 15 Sep 2026 19:35:10 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-hamilton-chris-jackson-1236702450/
 
-"Through this campaign, we wanted to celebrate that movement, both intimate and universal, that animates both the diamonds and those who wear them," said Chopard's Caroline Scheufele.
+Meg Stalter also played her final week of performances in 'Oh, Mary!'
 
-### Emmy Producers Reveal How They Pulled Off That Taylor Swift Cameo
-Tue, 15 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/emmys-2026-taylor-swift-mariska-hargitay-1236701852/
+### Quentin Tarantino to Release The Adventures of Cliff Booth Book in December
+Tue, 15 Sep 2026 19:22:57 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/quentin-tarantino-the-adventures-of-cliff-booth-book-1236702412/
 
-"When you make a promise to Captain Benson, you've got to keep it," Jesse Collins, Jeannae Rouzan-Clay and Dionne Harmon tell THR of the surprise 'SVU' sketch with Emmys host Mariska Hargitay coming together.
+“Hollywood, 1977. The Swinging Sixties are long gone — but Clifford Booth keeps on keeping on,“ the synopsis reads of the upcoming book centered on the character played by Brad Pitt in the 2019 film.
 
-### Sam Pinkleton to Direct Broadway Revival of Annie
-Tue, 15 Sep 2026 14:46:12 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/sam-pinkleton-broadway-revival-annie-1236702091/
+### The Shards Star Jordan Roth on the Beautiful Irony of His Acting Debut and Leaning Into His Dark Side
+Tue, 15 Sep 2026 19:16:36 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-shards-jordan-roth-season-finale-interview-1236702417/
 
-The 'Oh, Mary' director will helm the revival which is set to come to Broadway in fall 2027.
+The Tony-winning producer unpacks the poetic parallels and critical divergences between himself and his character in his first on-screen role: “Ryan Murphy gave me an opportunity to prove myself.”
 
-### The Julia Set Review: Chase Infiniti Leads a Strong Ensemble as a College Math Genius in Algebra That Doesn t Quite Balance the Equation
-Tue, 15 Sep 2026 14:46:02 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-julia-set-review-chase-infiniti-christopher-briney-1236701755/
+### Streaming Ratings: Fauda Scores Its Best Netflix Chart Position to Date
+Tue, 15 Sep 2026 19:14:38 +0000 — https://www.hollywoodreporter.com/tv/tv-news/fauda-season-5-netflix-chart-ranking-1236702404/
 
-Christopher Briney, Jason Isaacs and Gillian Anderson also star in Niki Byrne’s debut about a gifted student too unwise about the world to subtract herself from a toxic relationship.
+The Israeli series' fifth season debuted on Sept. 8.
 
-### Why Should Hollywood Get a Federal Tax Credit? Nearly $250 Billion Is On the Table, Study Says
-Tue, 15 Sep 2026 14:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/nearly-250-b-federal-film-tax-credit-study-1236700785/
+### Emmys 2026: Seen and Heard at Every Star-Studded Party
+Tue, 15 Sep 2026 19:13:10 +0000 — https://www.hollywoodreporter.com/lists/emmys-2026-inside-star-studded-parties/
 
-A report commissioned by the studio trade group the Motion Picture Association projected that a federal tax credit could sustain roughly 143,500 full-time equivalent jobs annually.
+A who's who of Hollywood (and approximately 1,873 nominated cast members of 'The Pitt') celebrated TV's biggest night for the better part of a week.
 
-### Microdrama Producers Voice Cautious Optimism on the Sector Despite AI Worries
-Tue, 15 Sep 2026 14:27:00 +0000 — https://www.hollywoodreporter.com/business/digital/hollywood-microdramas-boom-1236702034/
+### Melissa McCarthy and Clive Owen Are JonBenét Ramsey s Parents in First Look at Netflix Series on Enduring True-Crime Case
+Tue, 15 Sep 2026 18:43:59 +0000 — https://www.hollywoodreporter.com/tv/tv-news/melissa-mccarthy-clive-owen-jonbenet-ramsey-parents-netflix-1236702373/
 
-The future of premium mobile storytelling was discussed at Access Canada Summit powered by The Hollywood Reporter on Tuesday.
+'The Murder of JonBenét Ramsey' releases in December.
 
-### Savannah Guthrie So Touched by Allison Janney s Words About Mom Nancy Guthrie at Emmys
-Tue, 15 Sep 2026 14:18:06 +0000 — https://www.hollywoodreporter.com/tv/tv-news/savannah-guthrie-allison-janney-nancy-emmys-1236702029/
+### South Park s South America Rebrand Isn t Going Anywhere in Season 29 Premiere
+Tue, 15 Sep 2026 18:40:41 +0000 — https://www.hollywoodreporter.com/tv/tv-news/south-park-season-29-south-america-season-29-1236702354/
 
-"I honestly can say, I think about [Nancy] every day," the 'Diplomat' star told reporters backstage.
+The latest run of episodes kicks off with the Donald Trump-baiting rebrand intact — and with a fresh Emmy in tow.
 
-### Keri Russell Confronts a Culture of Consistent Lawlessness in The Diplomat Season 4 Trailer
-Tue, 15 Sep 2026 14:01:17 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-diplomat-season-4-trailer-keri-russell-allison-janney-1236702047/
+### Ryan Gosling s Blade Runner 2049 Coat Among 300 Items Set for Auction From Sequel (Exclusive)
+Tue, 15 Sep 2026 18:24:39 +0000 — https://www.hollywoodreporter.com/movies/movie-news/blade-runner-2049-ryan-gosling-harrison-ford-auction-1236702304/
 
-The latest preview for the Netflix political thriller, set to return Oct. 15, ratchets up the tension as Russell's American ambassador to the U.K. confronts her vice president husband (Rufus Sewell) and president Grace Penn (Allison Janney) about their possibly "over the line," approach to foreign policy.
+The blaster used by Harrison Ford's Rick Deckard in Denis Villeneuve's 2017 feature is also heading to the block from Propstore and Alcon Entertainment.
 
-### Slow Horses Renewed for Season 8 at Apple TV
-Tue, 15 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/slow-horses-renewed-season-8-apple-tv-gary-oldman-series-1236698180/
+### Emmys: Nine Things the TV Cameras Missed
+Tue, 15 Sep 2026 18:20:51 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-best-unseen-moments-1236702203/
 
-Apple announced the new installment, based on Mick Herron's latest book 'Clown Town,' fresh off the show's Emmy win.
+From John Mulaney's bleeped speech to executives bitching about Apple's winning streak with 'Widow's Bay,' here’s what didn’t make it onto the broadcast Monday night inside the Peacock Theater.
 
 ## Deadline
 
-### Nick Nolte Milo Gibson Starring In Indie Horror Film Vested , First Look Revealed
-Tue, 15 Sep 2026 15:05:00 +0000 — https://deadline.com/2026/09/nick-nolte-milo-gibson-starring-in-horror-film-vested-1237103926/
+### Harvey Keitel, Britt Robertson, Dean Norris Tom Berenger Wrap On Psychological Thriller Minute Mark
+Tue, 15 Sep 2026 19:24:34 +0000 — https://deadline.com/2026/09/harvey-keitel-britt-robertson-tom-berenger-minute-mark-1237104409/
 
-EXCLUSIVE: Three-time Oscar nominee Nick Nolte (48 Hrs) and Milo Gibson (Hacksaw Ridge) are leading horror film Vested, which recently wrapped production in British Columbia, Canada. The synopsis reads: Set in a remote, decaying mountain town, Vested follows a fractured family bound by an inherited legacy of violence and secrecy. When a series of brutal [ ]
+EXCLUSIVE: Harvey Keitel (Pulp Fiction), Britt Robertson (Tomorrowland), Dean Norris (Breaking Bad) and Tom Berenger (Platoon) have wrapped roles opposite Kit Lang (Night of Violence) in Minute Mark, a psychological thriller from Renegade Motion Pictures. Directed by up-and-comers Illya Konstantin Geoffrey Cowper, Minute Mark takes place in real time across a single day in [ ]
 
-### HBO s Harry Potter Series Casts Arthur Weasley, Moaning Myrtle Colin Creevey
-Tue, 15 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/harry-potter-series-hbo-arthur-weasley-moaning-myrtle-1237103685/
+### Chicago Sells Out With Arrival Of Ex-Cowboys Cheerleader Reece Weaver Broadway Box Office
+Tue, 15 Sep 2026 19:18:04 +0000 — https://deadline.com/2026/09/broadway-box-office-reece-weaver-chicago-1237103937/
 
-Hogwarts has three new additions. HBO s Harry Potter TV series has cast Rafe Spall as Arthur Weasley, Molly Hewitt-Richards as Moaning Myrtle, and Jasper Ambrose as Colin Creevey. The trio of actors will join the cast for Season 2, with filming currently underway at Warner Bros. Studios Leavesden in the UK. Spall will take up [ ]
+Could Reece Weaver, breakout star of the Netflix series America’s Sweethearts: Dallas Cowboys Cheerleaders, be following in Whitney Leavitt s tap-dancing shoes in bringing crowds to Broadway s Chicago? The box office figures from last week suggest yes. Weaver s first week as Roxie Hart and her Broadway debut saw attendance for Chicago jump to 100% [ ]
 
-### Emmys Producers Dish On Taylor Swift SVU Sketch (Including The Easter Eggs), Mariska Hargitay s Hosting Chops, Dolly Parton Tribute More
-Tue, 15 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/emmys-2026-producers-explain-telecast-taylor-swift-svu-reunions-1237103705/
+### Alix Earle s Reality Series ‘Earle Meets World’ Finds More Viewers In Week Two
+Tue, 15 Sep 2026 19:17:55 +0000 — https://deadline.com/2026/09/earle-meets-world-netflix-ratings-1237104400/
 
-That Taylor Swift cameo at the Emmys was actually filmed on the Law Order: SVU set, by the way. After Monday night s telecast of the 78th annual Emmy awards, producers Jesse Collins, Dionne Harmon and Jeannae Rouzan-Clay joined NBCUniversal s EVP of Live Events Specials Jen Neal to break down the biggest moments from [ ]
+Alix Earle’s reality series Earle Meets World made headlines with all sorts of revelations and semi-confessions involving the likes of Alex Cooper and Tom Brady. It didn’t come out of the gate particularly strong, only narrowly entering Netflix’s top ten list with 1.8M views across its first three days. However, the power of social media [ ]
 
-### The Coven Boards French Legalized Cannibalism Horror ‘Sunnyside’ As Filming Begins
-Tue, 15 Sep 2026 14:45:44 +0000 — https://deadline.com/2026/09/coven-french-legalized-cannibalism-horror-sunnysid-1237103946/
+### Starz Black Rodeo Drama Casts Five Recurring Cast
+Tue, 15 Sep 2026 19:09:32 +0000 — https://deadline.com/2026/09/starz-black-rodeo-drama-casts-recurring-cast-1237104369/
 
-EXCLUSIVE: Terrifier 3 sales outfit The Coven has boarded French- language horror picture Sunnyside as principal photograph begins in the Auvergne-Rhone-Alpes region of France. The debut feature of Yoann Luis, Sunnyside is set in a dystopian world where humans are raised for food. “Sunnyside is part of the tradition of socially conscious genre cinema, where [ ]
+EXCLUSIVE: Starz s upcoming Black rodeo drama has cast 5 actors in recurring roles: John Gabriel Rodriquez (Sweet Magnolias, Fantasy Island), SteVonté Hart (Little Fires Everywhere, Bel-Air), Gabrielle Byndloss (Little Fires Everywhere, Bel-Air), Samuel-Taylor (The Summer I Turned Pretty, Only Murders in the Building), and Aaron Smalls (Candy, The Best of Enemies). The as-yet-untitled series is [ ]
 
-### Screamfest To Open With ‘The Night Driver’ Starring Josh Lucas, David Arquette Alyssa Milano
-Tue, 15 Sep 2026 14:38:29 +0000 — https://deadline.com/2026/09/screamfest-the-night-driver-2026-1237103945/
+### Donald Trump Says Kennedy Center Will Close Immediately And No Renovations Will Take Place Unless His Name Is Restored To Facade
+Tue, 15 Sep 2026 19:02:56 +0000 — https://deadline.com/2026/09/kennedy-center-to-close-trump-1237104360/
 
-EXCLUSIVE: The 2026 Screamfest Horror Film Festival will open with Jeremy Weiss’s latest feature, The Night Driver, starring Josh Lucas, David Arquette, and Alyssa Milano. The festival, which runs October 6-15 at the TCL Chinese Theatre, announced its first wave of titles today. The lineup features 8 world premieres, 6 North American premieres, 1 US [ ]
+UPDATED: President Donald Trump said that the board of the Kennedy Center has voted to immediately close the main complex, while adding that no renovations would take place unless his name is restored to the institution. In a Truth Social post on Tuesday, Trump wrote, The Board of The Kennedy Center today agreed, almost unanimously, [ ]
 
-### Industry Unites Behind U.S. Production Incentive As New Study Predicts Windfall In Jobs And Spending
-Tue, 15 Sep 2026 14:30:42 +0000 — https://deadline.com/2026/09/entertainment-industry-film-tv-production-incentive-jobs-1237103806/
+### Robert De Niro In Talks To Play Dodgers Hall Of Famer Tommy Lasorda In Skydance Sports Pic Tommy Me ; Reid Carolin Directing
+Tue, 15 Sep 2026 18:45:00 +0000 — https://deadline.com/2026/09/robert-de-niro-to-play-tommy-lasorda-tommy-me-dodgers-1237104300/
 
-Film and television studios, unions, guilds, film commissioners and entertainment industry groups have launched the U.S. Film TV Production Coalition, a united front as a U.S production incentive begins to take shape. The group launched Tuesday along with a new study by consultancy Olsberg SPI commissioned by the Motion Picture Association laying out substantial [ ]
+EXCLUSIVE: With Paramount Pictures Mr. Irrelevant already gaining buzz prior to its holiday opening, Skydance Sports is looking to hit a home run with its next big pic on one of the more iconic baseball figures in the past 50 years. Sources tell Deadline that Oscar winner Robert De Niro is in talks to play [ ]
 
-### Isabelle Huppert Comedy All About Corinne Sells To U.S. Ahead Of Toronto North American Premiere
-Tue, 15 Sep 2026 14:30:00 +0000 — https://deadline.com/2026/09/isabelle-huppert-comedy-all-about-corinne-sells-us-cohen-1237103825/
+### Amazon Prime Video Debuts $30-A-Month Bundle With AMC+, BritBox, MGM+, PBS Masterpiece Starz
+Tue, 15 Sep 2026 18:20:01 +0000 — https://deadline.com/2026/09/amazon-prime-video-streaming-bundle-amc-britbox-mgm-pbs-starz-1237104285/
 
-EXCLUSIVE: Cohen Media Group has bought U.S. rights to Isabelle Huppert comedy All About Corinne ahead of its North American bow tomorrow at TIFF. In Marc Fitoussi s (Call My Agent!) film, screen legend and Oscar nominee Huppert stars alongside a stacked French and European cast including Sandrine Kiberlain, Anne Marivin, Emmanuelle Bercot, Diane Kruger, Ana [ ]
+In the latest addition to the bulging category of streaming bundles, Amazon Prime Video is launching a package including AMC+, BritBox, MGM+, PBS Masterpiece and Starz. The $29.99-a-month U.S. offering is priced 39% below the cost of each of the five individual services. In recent years, dozens of combinations of streaming have hit the market, [ ]
 
-### The Diplomat Season 4 Trailer: Keri Russell Confronts Over The Line White House
-Tue, 15 Sep 2026 14:27:19 +0000 — https://deadline.com/2026/09/the-diplomat-season-4-trailer-keri-russell-1237103859/
+### Comedians Steve Furey Willie Simon Set Courtroom Comedy Podcast Petty Cases With Almost Friday Media
+Tue, 15 Sep 2026 18:10:09 +0000 — https://deadline.com/2026/09/petty-cases-steve-furey-willie-simon-almost-friday-media-1237104331/
 
-Netflix has released the explosive main trailer for Season 4 of The Diplomat, which sees tensions rising to a fever pitch between Kate (Keri Russell), her husband Hal (Rufus Sewall) and President Grace Penn (Alison Janney). “The Russian sub that ran aground off this coast was carrying an apocalypse weapon. You stole it,” says a [ ]
+EXCLUSIVE: Almost Friday Media is bringing the absurdity of classic 90s courtroom television into the modern digital age with Petty Cases, a new video podcast hosted by stand-ups Willie Simon and Steve Furey that premieres on YouTube and wherever you get your podcasts on Tuesday, September 22. Set to air weekly, Petty Cases premise is [ ]
 
-### Tom Cruise Pokes Fun At His Self-Serious Persona In Rare Feature Interview: “I Don’t Know What To Say. I Am Intense”
-Tue, 15 Sep 2026 14:05:50 +0000 — https://deadline.com/2026/09/tom-cruise-digger-persona-intense-1237103844/
+### ‘The Murder Of JonBenét Ramsey’ Gets December Release Date On Netflix First-Look Photo Of Melissa McCarthy Clive Owen As Girl s Parents
+Tue, 15 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/the-murder-of-jonbenet-ramsey-release-date-netflix-photo-1237102045/
 
-“I don’t know what to say. I am intense,” Tom Cruise concluded in a rare sit-down video interview published today by GQ Magazine. The veteran actor was speaking with the magazine as he gears up for the release of Alejandro González Iñárritu’s Digger next month. During the conversation, Cruise was asked about the lessons he [ ]
+As expected, Netflix will tie the premiere of The Murder Of JonBenét Ramsey to the 30th anniversary of the six-year-old beauty queen’s killing on Dec. 25, 1996. The true-crime limited series will debut globally December 10th, 2026. Along with the date, the streamer released an official first-look photo featuring Melissa McCarthy and Clive Owen as [ ]
 
-### Hammond @ The Emmys: A Record-Setting Night As The Once Repetitive TV Academy Proves It Likes To Shake Things Up
-Tue, 15 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/2026-emmys-analysis-widows-bay-1237103690/
+### Amazon In Talks To Take Over Emmys TV Deal
+Tue, 15 Sep 2026 17:33:47 +0000 — https://deadline.com/2026/09/amazon-talks-take-over-emmys-tv-deal-1237104208/
 
-There s a simple way to sum up Monday night s Primetime Emmy Awards: As we ve seen in the past few years, there may be 24,000-plus voters in the Television Academy membership, but they only watch a handful of shows, and that membership has grown increasingly fickle as the Emmys near 80. To paraphrase the famous Oscar [ ]
+The Emmys is set to leave broadcast television for the first time in its history after it emerged that Amazon was in talks to strike a rights deal with the TV Academy. Deadline has confirmed that the streamer is in talks with the organization behind the annual television ceremony after the broadcast wheel, which sees [ ]
 
-### Slow Horses Renewed For Season 8 At Apple TV
-Tue, 15 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/slow-horses-renewed-season-8-apple-tv-emmys-1237103708/
+### Carol Kane, Fiona Gubelmann Marco Grazzini To Headline An Angel In My Stocking Movie At Hallmark Channel
+Tue, 15 Sep 2026 17:30:00 +0000 — https://deadline.com/2026/09/carol-kane-cast-an-angel-in-my-stock-hallmark-channel-movie-1237099036/
 
-Fresh off yet another Emmy win, Slow Horses will be returning for an eighth season. Season 8 of the hit Apple TV show starring Gary Oldman will begin production shortly and will be based on the ninth book of Mick Herron s Slough House series, titled Clown Town. The news comes with Season 6 of one [ ]
+EXCLUSIVE: Fiona Gubelmann (The Good Doctor, A Royal Montana Christmas), Marco Grazzini (Virgin River, Haunted Harmony Mysteries) and Oscar nominee and two-time Emmy winner Carol Kane (Star Trek: Strange New Worlds, Anxious People) have been cast in An Angel in My Stocking, a new original Hallmark Channel movie set to premiere during its annual Countdown [ ]
 
-### Estate Of Former UCLA Film School Dean Robert Rosen Financing Indie Feature ‘Charred Remains Of Heaven’
-Tue, 15 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/robert-rosen-ucla-charred-remains-of-heaven-1237103748/
+### ‘American Idol’ Moving Production To Georgia As ABC Series Becomes Latest To Leave California
+Tue, 15 Sep 2026 17:16:00 +0000 — https://deadline.com/2026/09/american-idol-moving-production-georgia-1237101843/
 
-EXCLUSIVE: Cameron Cowperthwaite (Fallout) and Patricia De Leon (The Cleaning Lady) have completed production on Charred Remains of Heaven, an independent feature fully financed by the estate of former UCLA Film School Dean Robert Bob Rosen. Sundance alum Christopher Bradley (Billy s Hollywood Screen Kiss) wrote and directed the film, and lead creative producer Michael J. [ ]
+EXCLUSIVE: The volume of reality TV production in Los Angeles has been falling over the last five years and the situation is set to worsen as one of the biggest music competition shows is set to leave the city. Deadline understands that American Idol is moving production from Los Angeles to the Atlanta area in [ ]
 
 ## befores & afters
 
@@ -179,6 +179,41 @@ Mon, 14 Sep 2026 11:25:09 +0000 — https://beforesandafters.com/2026/09/14/vfx-
 Dinur, who has been teaching courses on ComfyUI and GripTape, talks about the AI and ML landscape VFX artists are facing right now. Today on the befores & afters podcast we’re chatting about AI and machine learning. It’s obviously a hot topic right now in visual effects. I wanted to talk to someone who has been diving into the world of AI and machine in their work that is visual effects supervisor Eran Dinur. He’s also been teaching the latest AI and machine learning techniques, in particular with courses about ComfyUI and about GripTape. In the podcast, we discuss the current landscape for VFX artists in this new AI and ML world. It’s a really honest chat, I think, about the state of play in the industry. Then we dive into the different courses Eran’s been preparing. You can find links to them below, along with Eran s books on VFX. Eran s courses AIF203: Introduction to Griptape Nodes , at fxphd ComfyUI Generative AI Production for VFX – Course Bundle , at fxphd The VFX Supervisor Masterclass , at ActionVFX Academy Eran s books The Filmmaker s Guide to Visual Effects The Complete Guide to Photorealism for Visual Effects, Visualization, and Games Listen in to the podcast, above. The post VFX supervisor Eran Dinur discusses the big AI and ML changes that have impacted visual effects appeared first on befores & afters .
 
 ## IndieWire
+
+### Alden Ehrenreich Has a Lot of Opinions About His Career — and About Steve Urkel
+Tue, 15 Sep 2026 19:15:00 +0000 — https://www.indiewire.com/features/interviews/alden-ehrenreich-opinions-career-talent-for-murder-1235217284/
+
+TIFF: As the newly-minted Tony winner introduces "A Talent for Murder" to festival audiences, he goes long with IndieWire on everything from "Beautiful Creatures" to "Oppenheimer," "Solo" to "Hail, Caesar!," and never taking any of it for granted.
+
+### Watch Brit Rock Legends Get Introspective in PULP: What Do You Do for an Encore? — Exclusive Clip
+Tue, 15 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/news/trailers/pulp-what-do-you-do-for-an-encore-exclusive-clip-1235217262/
+
+Catch an exclusive look at “PULP: What Do You Do For An Encore?" before the MUBI concert film heads to U.S. theaters for one night only on September 24.
+
+### The Color of the Sun Review: Teen Angst and Alienation Get a Sensuous Study in Okinawa
+Tue, 15 Sep 2026 18:45:00 +0000 — https://www.indiewire.com/criticism/movies/the-color-of-the-sun-review-jeremy-o-harris-1235216500/
+
+Venice: Xavier Tera's alternatingly unsettling and languorous debut lingers on a Japanese teen's fixation on a more self-assured American military brat. Both understand each other's language, but neither speaks it.
+
+### Inside the 2026 Emmys, Where TV s Brightest Talents Shared the Spotlight with Its Long-Term Challenges
+Tue, 15 Sep 2026 18:35:00 +0000 — https://www.indiewire.com/awards/industry/inside-emmys-parties-2026-best-worst-times-for-tv-1235217271/
+
+The 2026 Emmys provided much to celebrate at the ceremony and after parties, with several records broken. It also highlighted some unfortunate changes that have happened in the TV space.
+
+### A Federal Tax Incentive for Filming Could Bring in Extra $125 Billion in Production Spend — and Impact Without It Could Be Devastating
+Tue, 15 Sep 2026 18:24:06 +0000 — https://www.indiewire.com/news/business/federal-tax-incentive-filming-study-mpa-1235217277/
+
+An MPA-commissioned study estimated 143,500 new jobs added through 2035 if President Trump puts in place filming incentives on a federal level.
+
+### The Liberation Review: Carrie Coon Joins a Cult, and One of Her Best Performances Follows
+Tue, 15 Sep 2026 17:17:11 +0000 — https://www.indiewire.com/criticism/movies/the-liberation-review-carrie-coon-cult-guy-nattiv-1235217246/
+
+TIFF: Guy Nattiv's film draws on his grandmother's horrifying experiences, giving the actress a role she can really sink her teeth into. The rest of the film could benefit from that bite, though.
+
+### JustWatch, Which Tells You Where Things Are Streaming, Is Launching Its Own Streaming Service
+Tue, 15 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/news/general-news/justwatch-launches-streaming-service-1235216279/
+
+JustWatch TV launches next month for TVOD, AVOD, and SVOD viewing with content partnerships with Paramount, New Regency, Fremantle, Bleecker Street, and Vortex Media.
 
 ### Hollywood’s Next Revolution Will Be Independent, Say Aisha Tyler and Kirsten Vangsness
 Tue, 15 Sep 2026 15:14:10 +0000 — https://www.indiewire.com/features/interviews/aisha-tyler-kirsten-vangsness-emmys-indie-revolution-1235217216/
@@ -205,142 +240,107 @@ Tue, 15 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/features/interview
 
 On the occasion of a new 4K UHD release, the director of "Mona Lisa" and "The Crying Game" looks back on one of his boldest projects: a sensual, provocative vampire film he made with Tom Cruise, Brad Pitt, and a young Kirsten Dunst.
 
-### ‘Edward Said: Between Worlds’ Review: A Straightforward Archival Documentary Pays Tribute to the Academic in His Own Words
-Tue, 15 Sep 2026 12:30:00 +0000 — https://www.indiewire.com/criticism/movies/edward-said-between-worlds-documentary-movie-review-1235217122/
-
-Maiken Baird seeks to locate the famous Palestinian-American activist and cultural critic within a torrid political present.
-
-### The Emmys Gave TV Fans Winners Worth Cherishing — and a Ceremony for Somebody Else
-Tue, 15 Sep 2026 04:37:04 +0000 — https://www.indiewire.com/criticism/shows/emmys-2026-review-mariska-hargitay-host-1235216913/
-
-Kate O'Flynn, Rhea Seehorn, and Matthew Rhys (twice!) comprised a field of Emmy winners tailor-made to thrill die-hard TV fans, but the telecast meant to honor them had other priorities.
-
-### John Mulaney s Bleeped Oral Sex Joke to Colman Domingo Dancing with Mariska Hargitay, 5 Emmy Moments Not Seen (or Heard) on TV
-Tue, 15 Sep 2026 03:37:34 +0000 — https://www.indiewire.com/awards/results/2026-emmys-what-you-missed-on-tv-john-mulaney-oral-sex-joke-1235217014/
-
-The lengthy In Memoriam segment also confused a few attendees at the 2026 Emmys.
-
-### Emmy Awards Snubs and Surprises: Harrison Ford s Shocking Loss, Allison Janney s Upset Win, and Matthew Rhys Record-Breaking Night
-Tue, 15 Sep 2026 03:10:19 +0000 — https://www.indiewire.com/awards/results/emmy-awards-snubs-surprises-harrison-ford-allison-janney-1235217076/
-
-"Beef" Season 2 was clearly sacrificed to the eldritch power that haunts "Widow's Bay."
-
-### Wild Wild East Review: Jan Holoubek s Nazi-Era Noir Western from Poland Loses Its Nerve
-Tue, 15 Sep 2026 03:00:00 +0000 — https://www.indiewire.com/criticism/movies/wild-wild-east-review-jan-holoubek-1235217019/
-
-TIFF: The Polish director’s latest sets up a compelling moral morass but settles for easy answers to its thorny questions.
-
-### Primetime Emmy Award 2026 Winners Revealed (Full List)
-Tue, 15 Sep 2026 02:56:00 +0000 — https://www.indiewire.com/awards/results/emmy-winners-list-2026-1235216883/
-
-See all the winners of tonight's Emmy Awards, dominated by "The Pitt," "DTF St. Louis," and "Widow's Bay."
-
-### Widow s Bay Wins Emmy for Outstanding Comedy Series
-Tue, 15 Sep 2026 02:55:51 +0000 — https://www.indiewire.com/awards/results/widows-bay-wins-emmy-outstanding-comedy-series-1235216400/
-
-No two episodes of Katie Dippold's genre-bending series were alike, and the TV Academy recognized the creativity.
-
 ## The Wrap
 
-### Andrew Haigh on How His Father s Death Shaped New Film A Long Winter
-Tue, 15 Sep 2026 15:15:07 +0000 — https://www.thewrap.com/creative-content/movies/andrew-haigh-a-long-winter-interview-fred-hechinger/
+### Robert De Niro in Talks to Play Dodgers Manager Tommy Lasorda in Biopic Tommy Me
+Tue, 15 Sep 2026 19:48:50 +0000 — https://www.thewrap.com/creative-content/movies/robert-de-niro-tommy-lasorda-biopic-skydance-sports/
 
-English filmmaker Andrew Haigh didn t realize “A Long Winter” was about his own grief until after he d already made the film. “My dad died quite recently after All of Us Strangers came out,” Haigh told Casey Loving at TheWrap s studio at the 2026 Toronto International Film Festival. “I think in a weird sense, I look at A Long Winter and think, Oh, I think that is a sort of conversation with myself about that event somehow. ” Haigh had wanted to make “A Long Winter” for roughly 20 years. He couldn t explain at the time why it felt like the right film to make next, right after 2023 s “All of Us Strangers,” another film centered on loss and grief. “A Long Winter” is based on the Colm Tóibín short story of the same name but moves the action from Spain to the American West in the 1950s. Fred Hechinger stars as Mike, a young man whose family falls apart after his mother disappears into a snowstorm. Caitríona Balfe, Ebon Moss-Bachrach and Kit Connor also star. Haigh admitted that after the success of All of Us Strangers, he had a hard time deciding what to do next. “It s funny, whenever you make a film that broke through in a way some of my other films haven t quite as much, there s always a strange thing to know what to follow it up with,” Haigh said. “But this was a film I wanted to make for a long time, and I can t really tell you why it felt like the exact right moment, but it did. I think you can only really tell after you ve made the film why you made it.” Haigh wrote a letter
+Robert De Niro is in talks to star as Tommy Lasorda, the late two-time World Series champion manager for the Los Angeles Dodgers and Hall of Famer, in the working title “Tommy & Me” at Skydance Sports, TheWrap has learned. “Magic Mike s Last Dance” filmmaker Reid Carolin is attached to direct. The script is written by George Gallo, Cambron Clark and Carolin. Plot details are being kept under wraps. On the producer s side, Skydance Sports is serving as lead studio (with Jesse Sisgold, Jason T. Reed, Sandino Moya-Smith producing); Mandalay Pictures (Peter Guber); Intuition Productions (Keri Selig, Diane Galardi); and Free Association (Reid and Garret Livetz). Born in Pennsylvania to Italian immigrants, Lasorda got his start in baseball as a free agent signed by the Philadelphia Phillies in 1945. Four years later, his pitching got the attention of the Brooklyn Dodgers, who signed him to a minor league contract. He only made one start for the Dodgers in May 1955, getting hooked after one inning in which he threw three wild pitches. But while his career as a player was full of struggles, his legacy truly began once he hung up his glove. In 1960, the newly minted Los Angeles Dodgers hired him as a scout, and he began working his way up the ranks and developing his skills as a manager in the minors and in overseas leagues. In 1973, Dodgers manager Walter Alston hired him as the team’s third base coach, grooming him to be his replacement. Sure enough, four years later, Lasorda became
 
-### Refurbished ‘60 Minutes’ Debuts to a 19% Ratings Drop
-Tue, 15 Sep 2026 15:13:39 +0000 — https://www.thewrap.com/creative-content/tv-shows/60-minutes-season-59-premiere-ratings-decline/
+### Werner Herzog Recruited His Bucking Fastard Cast With Letters and Zoom Calls
+Tue, 15 Sep 2026 19:34:42 +0000 — https://www.thewrap.com/creative-content/movies/werner-herzog-bucking-fastard-cast-tiff/
 
-The refurbished “60 Minutes” suffered double-digit ratings declines with its Season 59 premiere. Sunday’s episode brought in 7.7 million viewers on CBS, down 19% from last season’s premiere, according to preliminary Nielsen panel data provided to TheWrap. The broadcast drew 1.5 million viewers among adults ages 25–54, a steeper 33% year-over-year decline in the key demographic. The figures are subject to change when Nielsen releases final ratings after 4 p.m. ET Tuesday. The newest season of the CBS newsmagazine had been highly anticipated after CBS News editor in chief Bari Weiss and her newly appointed “60 Minutes” executive producer Nick Bilton overhauled the program over the past few months. Sunday’s premiere followed NFL coverage that drew approximately 18.4 million viewers, according to preliminary data. That was down roughly 22% from the 23.8 million viewers delivered by the NFL broadcast preceding last season’s premiere—a slightly steeper decline than the 19% year-over-year drop for “60 Minutes.” The episode led with Norah O’Donnell’s interview with a U.S. Air Force weapons systems officer who survived roughly 50 hours behind enemy lines after his F-15E was shot down over Iran. The White House promoted the segment Monday as a testament to President Donald Trump’s military agenda. More to come … The post Refurbished ‘60 Minutes’ Debuts to a 19% Ratings Drop appeared first on TheWrap .
+Kate Mara said she and her sister Rooney Mara found out they had booked their roles in “Bucking Fastard,” a film from Werner Herzog, the way only he would tell them: with a letter. “We got a letter from him,” Kate Mara told Jada Yuan at TheWrap’s studio at the 2026 Toronto International Film Festival. “It was a joint letter, and I was so excited. It was like, Dear Mara Sisters, and then it described his movie. It s just so rare to get sent something from one of your creative heroes.” “Bucking Fastard” stars the Mara sisters as “siblings who speak as one, fall in love with the same person, and eventually spiral” (with Orlando Bloom and Domhnall Gleeson along for the ride). This marks Herzog’s first narrative feature since 2019’s “Family Romance, LLC,” and the Mara sisters’ first time sharing the big screen. The sisters read the script separately, then each met with Herzog one-on-one before signing on. Rooney Mara said meeting Herzog alone lived up to the hype. “He just lives up to everything you could imagine, and then some,” Rooney Mara said. “He told me a lot about his love story with him and Lena. We talked about the script. I remember bringing up how I felt about the end of the film. I was like, it feels like it ends pretty abruptly, and he was like, Not abruptly enough. ” “He s just so clear on what he wants and what story he s telling that it really gives you such confidence,” Kate Mara added. “I just think that takes away like 80% of the questions or the concerns that y
 
-### Ari Emanuel Reveals the $44 Million Power Play Behind WME
-Tue, 15 Sep 2026 15:01:05 +0000 — https://www.thewrap.com/industry-news/business/ari-emanuel-wme-takeover/
+### Kennedy Center Board Votes to Close After Judge Blocks Trump Name Addition
+Tue, 15 Sep 2026 19:06:59 +0000 — https://www.thewrap.com/media-platforms/politics/kennedy-center-board-close-venue/
 
-If it sounds like a plotline from HBO’s “Entourage,” there’s a reason: Ari Emanuel inspired the show’s famously ruthless superagent Ari Gold. Emanuel has now revealed how he engineered Endeavor’s takeover of the William Morris Agency by secretly plotting to remove its CEO, making a promise to another executive he never intended to keep and spending roughly $44 million to buy out both men. In an excerpt from his forthcoming memoir published Tuesday by The Wall Street Journal , Emanuel offers a strikingly candid account of the power play that created William Morris Endeavor in 2009 and reshaped Hollywood’s talent-agency business. Emanuel writes that he persuaded William Morris chief operating officer Irv Weintraub to surrender his seat on the combined company’s board by assuring him the move was temporary. Weintraub would be reinstated after William Morris CEO Jim Wiatt was removed, Emanuel promised. But after Wiatt agreed to leave, Emanuel and fellow Endeavor executive Patrick Whitesell called Weintraub and forced him out too. The double-cross, according to Emanuel, was always part of the plan. The pursuit began in 2003, when Emanuel concluded that Endeavor needed a merger to gain enough scale to compete against CAA. Harvard Business School professor Nitin Nohria provided the principle that would guide his strategy: “No such thing as a merger.” Every combination ultimately has a dominant party and a subordinate one, Nohria told the Endeavor executives, according to Emanuel. Th
+The Kennedy Center’s board voted Tuesday to immediately close the performing arts venue’s main building, hours after a federal judge blocked its latest attempt to add President Donald Trump’s name to the institution. The closure cannot take effect unless U.S. District Judge Christopher Cooper lifts an existing injunction, the Los Angeles Times reported . Democratic Rep. Joyce Beatty of Ohio, an ex-officio board member, is seeking emergency relief to prevent the shutdown. The Trump-appointed board approved the closure as part of a planned two-year, $250 million renovation. It cited the institution’s worsening financial condition and structural problems that it said threatened staff and public safety. A resolution circulated before the vote warned that the Kennedy Center was in such a precarious financial position that it could become unable to meet payroll or pay for routine maintenance within weeks. Beatty’s attorneys disputed the board’s justification, arguing that it misrepresented the findings of consultants who assessed the building. They said Delta Consulting Group had expressly declined to conclude that the main building was “unsafe for continued occupancy.” The safety debate intensified Monday when Commerce Secretary Howard Lutnick shared footage of part of the center’s ceiling collapsing . Lutnick said failing roofing, concrete supports and steel had created “completely unsafe conditions” and argued that the building needed to close. The board’s resolution also tied t
 
-### HBO s Harry Potter Series Finds Its Arthur Weasley in Trying Star Rafe Spall
-Tue, 15 Sep 2026 15:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/hbo-harry-potter-series-arthur-weasley-moaning-myrtle-colin-creevey-cast/
+### Tyler Perry s Why Did I Get Married Again? Debuts as Week s Top Netflix Movie With Over 19 Million Views
+Tue, 15 Sep 2026 19:00:17 +0000 — https://www.thewrap.com/creative-content/tv-shows/tyler-perry-why-did-i-get-married-again-netflix-ratings/
 
-HBO s Harry Potter series has found its Weasley patriarch in Trying star Rafe Spall, the studio shared Tuesday. HBO revealed Tuesday morning that Spall, who is best known for his work in the aforementioned Apple TV comedy, as well as 2012 s Life of Pi and 2015 s The Big Short, is set to play Arthur Weasley in Season 2 of the Harry Potter series, which will be based on J.K. Rowling s Harry Potter and the Chamber of Secrets novel. Spall wasn t the only new addition announced, however. Molly Hewitt-Richards joins the cast as Moaning Myrtle, the teenage ghost that haunts a girls restroom at Hogwarts School of Witchcraft and Wizardry. Additionally, Jasper Ambrose is set to star in Harry Potter Season 2 as Colin Creevey, a first-year Gryffindor student that s a big fan of the titular wizard. Spall, Hewitt-Richards and Ambrose join fellow Harry Potter series newcomers Bonnie Hill, Lenny Rush and Billy Barratt , who were confirmed to be playing Ginny Weasley, house-elf Dobby and Tom Riddle, respectively, earlier in September. Kit Harington was also named a Season 2 recruit in August, taking over the role of Gilderoy Lockhart after Nicholas Hoult exited the project due to scheduling conflicts. The Harry Potter series, which received an early renewal from HBO months before its Christmas series launch, is slated to begin filming its second season this fall. The new series stars Dominic McLaughlin as Harry Potter, Arabella Stanton as Hermione Granger and Alastair Stout as Ron Weasley, wi
+Tyler Perry s Why Did I Get Married Again? scored a strong debut on Netflix, landing as the top movie of the week. The third movie in the dramedy movie series brought in 19.3 million views for the week of Sept. 7, landing in the No. 1 spot on the English-language films list for the week. Viewership for Why Did I Get Married Again? soared past The Whisper Man, which scored an impressive 33.4 million views last week, but cooled down to 12.7 million views in its third week. Perry s collection of TV and movies have been scoring big on Netflix of late, with Beauty in Black Season 3 also standing as the week s No. 6 most-watched TV show with 3.3 million views. Beauty in Black, which came in the No. 2 spot on the list for the past two weeks, has already been renewed for the fourth season. Overall, however, the week s TV list was dominated by The Gentlemen Season 2 with 9.9 million views, growing from its viewership of 6.7 million views during its debut week. The attention for Season 2 also brought Season 1 into the top 10, where it landed in the No. 3 spot on the list with 5.5 million views. In between the seasons of The Gentlemen in the No. 2 spot was true crime docuseries Death of the Pastor’s Wife with 6 million views after previously taking the top TV spot for two weeks in a row. Behind The Gentlemen Season 2 on the top 10 TV list was Netflix s newest YA show Crew Girl, which landed in the No. 4 spot on the list with 5.2 million views. After Alix Earle s reality show Earle Meets
 
-### Emmys Producers Tell All on That Taylor Swift Cameo, Catherine O Hara and Dolly Parton Tributes and More
-Tue, 15 Sep 2026 15:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/taylor-swift-emmys-cameo-mariska-hargitay-idea-producers-interview/
+### Pluribus Creator Vince Gilligan Shares Promising Update on Show s Return: We Figured Out Season 2
+Tue, 15 Sep 2026 18:47:28 +0000 — https://www.thewrap.com/creative-content/tv-shows/pluribus-vince-gilligan-season-2-update/
 
-The 78th Emmys pulled off the ultimate cameo as it welcomed Taylor Swift for a meta Law & Order: SVU sketch alongside host Mariska Hargitay — a collaboration that telecast producers revealed came up not too long after Hargitay was selected as a host. It was always in the first meeting we wanted to come up with something for Taylor to do, Jesse Collins told press just minutes after the show ended on Monday, with EP Dionne Harmon adding, She was like, Let me get Tay Tay.' They had their whole conversation about [how] she was gonna make it great and comfortable for her, Collins said to a group of reporters, including TheWrap. If you re gonna do [an SVU sketch] we all felt like you have to one-up what everyone s thinking, and I can t think of anything better than to throw Taylor in an SVU sketch, EP Jeannae Rouzan-Clay said. Swift sparked to the sketch idea — whose writing was headed up by several writers from The Late Show With Stephen Colbert — but, in the popstar s true fashion, wanted to ensure all of the SVU Easter Eggs made it in. She wanted it to be really official, Clay said. The sketch was shot on the SVU set in New York in late August, but getting the other Olivia Benson — Swift s cat named after Hargitay s character — was a last-minute idea from Swift. The night before, she s like, What if I put the cat in the scene? And we were like That would be awesome,' Collins said. And the cat delivered, Harmon added. The EPs only told a small group about Swift s cameo in the hop
+Pluribus creator Vince Gilligan shared a promising update on the Apple TV show s Season 2, revealing Monday night at the Emmys that he and the writers figured out the next installment. It took us a while, but we figured out Season 2, Gilligan told press following his drama series writing Emmy win. It s technically not all written — we have broken it, which is a hard part. We figured out, in other words, the plot of all the episodes. The first two were written; the rest of them were doing various stages of being written, but we know what the whole season is. Gilligan added he and the writers will soon be sharing Season 2 with Rhea Seehorn, who won her first Emmy for outstanding lead actress in a drama series on Monday night. Sometimes the actors — and Karolina [Wydra] and [Carlos Manuel] Vesga and Samba [Schutte] — sometimes they don t necessarily want to know — they kind of want to be surprised, which I kind of like that, Gilligan said. [ Breaking Bad actors ] Bryan Cranston was the same way and Aaron Paul kind of wanted to wait and see. But we ll be happy to share once we got it figured out, and we re getting close to having it figured out. Seehorn, who visited the press room with her Emmy just before Gilligan, revealed she didn t know anything about Season 2, encouraging media to ask Gilligan about its status. I hear that they have outlined them, but not written all of them, Seehorn said. With Gilligan and Seehorn s win, Pluribus officially scored 18 Emmy nominations and si
 
-### Federal Film Tax Incentive Would Double Annual US Production Spending by 2035, MPA Study Says
-Tue, 15 Sep 2026 14:30:00 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/federal-film-tax-incentive-to-double-annual-us-production-spending-study-finds/
+### Irish Actor Lewis Brophy Went From Being Compared to Barry Keoghan to Working With Him in Lemonade
+Tue, 15 Sep 2026 18:46:54 +0000 — https://www.thewrap.com/creative-content/movies/lewis-brophy-barry-keoghan-lemonade-tiff-interview/
 
-The Motion Picture Association has released a new commissioned study by Olsberg•SPI that argues that production spending in the United States could double by 2035 and add 143,500 jobs annually nationwide if Congress and President Donald Trump sign a federal film tax incentive into law. The report, unveiled on Tuesday morning, marks the start of an all-in lobbying push by the newly formed U.S. Film and Television Production Coalition, a group whose members include the MPA; Hollywood unions like the Writers Guild, DGA, SAG-AFTRA, IATSE and Teamsters; and Oscar-winning actor Jon Voight, who is credited with building the needed momentum for the tax incentive by convincing President Trump to give his public support. A federal incentive would be a gamechanger for our industry, said Charles Rivkin, chairman and CEO of the Motion Picture Association. This study tells us that we can bring more opportunities to life for people in all 50 states who bring great stories to life — the casts and crews, the set builders, construction workers, truck drivers, caterers and more. That s precisely what s bringing President Trump, Republicans and Democrats in Congress, studios and unions and all of us together: the need to leave a positive and enduring imprint on American creativity and America s economy. “America should be producing American movies. And American workers should be doing the work. President Trump has called on Republicans and Democrats to come together on a new federal film and tel
+While rising in the Irish theater scene, Lewis Brophy was always compared to fellow Dubliner Barry Keoghan . When I started off, I remember thinking, You know what? I don t know how I m gonna do this. I don t know how far I m gonna go. But then I see Barry, and I said If he could do it, I could do it. And then turns out a couple of years later, we re both starting a film together, Brophy told TheWrap in our TIFF 2026 interview and portrait studio. That film is Lemonade, a drama from director Kim Bartley in which Brophy takes a role that Keoghan himself might have taken a decade ago as Danny, an 18-year-old who is struggling immensely to integrate into society after leaving the foster care system and who makes a mistake that could ruin his future. But then he unexpectedly reconnects with a social worker named Josh, played by Keoghan, who had previously tried to help Danny but fell by the wayside due to his own mistakes. Bartley said she first approached Keoghan to be an executive producer for the film, but found out to her surprise that he was interested in not only producing, but playing Josh as well. There s a lot of parallels in the story with his own life, and I think that s probably why it it resonated with him. But it s also a very different role for him. It s a very mature, gentle kind of part. Very different to the kind of parts that he tends to do. I think it was interesting, challenging and very emotional and personal for him as well, Bartley said. For Bartley, Lemon
 
-### Guy Pearce Reveals How He Unlocked Rupert Murdoch for Danny Boyle’s ‘Ink’
-Tue, 15 Sep 2026 14:13:21 +0000 — https://www.thewrap.com/creative-content/movies/guy-pearce-jack-oconnell-ink-interview-tiff-2026/
+### Antonio Banderas Had a Really Paranoid Crisis Before Filming Up Against It
+Tue, 15 Sep 2026 18:37:11 +0000 — https://www.thewrap.com/creative-content/movies/antonio-banderas-trudie-styler-up-against-it-tiff/
 
-“Ink” has not dried yet. The Danny Boyle-directed adaptation of the celebrated stage play that charts the formation and rise of the British tabloid The Sun is headed to Netflix later this year in the United States, but before then, Ink is screening as part of this year s Toronto International Film Festival. In the film, Jack O’Connell, who recently starred in the two new “28 Years Later” movies for Boyle, plays editor Larry Lamb and Guy Pearce is Rupert Murdoch, the Australian magnate who becomes the Sun’s new owner. But how do you tap into these well-known, modern-day personalities? (The real-life Lamb died in 2000 at the age of 70; Murdoch of course is still alive at the ripe old age of 95.) O’Connell told Casey Loving at TheWrap’s studio at the 2026 Toronto International Film Festival that he would have conversations with Boyle about who Lamb was in the lead-up to production. “He said something about how all these little sins eventually coming home to roost – all these little sins that you accumulate over the time,” O’Connell explained. “He also said that it s Larry s obsession with this newspaper, with the sales board – it s that obsession that, as an audience, you ll invest in. That was massive to hear that from the director saying, Okay, there s your focal point, that s your destination . I got that information early on and that provided a real a real target.” For Pearce, he discussed with Boyle who Murdoch has become, what people think of him and “the scandals that he’
+A paranoid Antonio Banderas nearly unraveled before “Up Against It” started filming. It happened during the table read. “My crisis actually was right before shooting, it was in the reading,” Banderas told Casey Loving at TheWrap’s studio at the 2026 Toronto International Film Festival. “When I did the reading, I got really paranoid about everything about myself, basically.” Director Trudie Styler handled Banderas and calmed him down. “She got the temper to just fall down and just listen and just caress me in a way that wasn t hard,” Banderas said. “She gave me a lot of confidence, and that is very important. I need sometimes that from my director.” In Up Against It, Banderas plays Alvaro, a divorced father. His ex-wife, Saffron, played by Eva Birthistle, becomes his reluctant partner again after their daughter Rose s cancer returns. Doctors tell them a new sibling could be Rose s best chance at finding a stem cell donor. Styler said the story took her seven years to develop. She moved its setting from New York to England during the pandemic to explore Britain s National Health Service. Styler s connection to the material runs deeper than research, as both of her sisters are nurses. Much of the film unfolds inside a hospital. Getting the tone right, moving between comedy and heavy medical drama, was Styler s biggest concern going in and something she and Banderas discussed on their first Zoom call together. “To get it right in the first instance, I think you have to choose a c
 
-### Tom Cruise Says He s Blunt About His Intensity to New Co-Workers: Trust Me, the Rumors Are True
-Tue, 15 Sep 2026 13:52:57 +0000 — https://www.thewrap.com/creative-content/movies/tom-cruise-warns-coworkers-about-his-intensity-rumors-are-true/
+### Jamie Bell and Andrew Garfield Recall the Awkward Dinner They Shared During Spider-Man Casting Competition
+Tue, 15 Sep 2026 18:35:43 +0000 — https://www.thewrap.com/culture-lifestyle/culture/jamie-bell-andrew-garfield-spider-man-casting-story/
 
-If you ve ever heard any kind of rumor or story about Tom Cruise s intensity on a movie set, just know, it s true. In fact, the actor himself says he warns new colleagues about that when they start working together. Cruise admitted as much in a new interview with GQ , published on Tuesday morning. It s a rare long-form sit-down with the actor, in which he reflects on his career, how he decides on new projects, and more. During the conversation, he zeroed in on his approach to making films, and noted that he s always seeking as much information as possible, and devoted to getting it exactly right. Look, I work hard, and people that work with me, they know, Cruise said. I expect a lot and I’m up-front about it. It’s like: The rumors are true. And do you want this?' We’re there. I’m like, Trust me, the rumors are true. I’ll be here before you. What experience do you want?' he added. And I’m very open. It’s not like we don’t have a plan. We have scripts, we have plans, we’re going through it. But I also feel that level of responsibility for—I guess, for everyone. The actor admitted that he s been intense since he was a kid, and would even get called out for it then. But, he embraced that. I’m like, I don’t know what to say. I am intense,' he said with a laugh. I got a very good sense of humor about it, but it was like: When I’m interested in something, I want to learn it. I want to understand it. At the moment, Cruise s intensity is being channeled into Digger, his next film, dir
+The Uprising co-stars Jamie Bell and Andrew Garfield stopped by Monday night s episode of Watch What Happens Live! and opened up for the first time about their experiences auditioning against each other to play Spider-Man. During a Q&A segment, one member of the Watch What Happens Live! studio audience asked Bell if he and Garfield had ever talked about the fact that they were both in the running to play Spider-Man after Tobey Maguire s tenure as the character ended. Garfield ended up landing the role and went on to play Marvel s wise-cracking webhead in 2012 s The Amazing Spider-Man, 2014 s The Amazing Spider-Man 2 and 2021 s Spider-Man: No Way Home. Much to the surprise of WWHL host Andy Cohen, Bell revealed that he and Garfield had actually started talking about their shared Spider-Man experience for the first time just a few seconds before the audience member asked their question. Cohen confirmed that he had heard Garfield and Bell mention it during a commercial break but asked, That can t have been the first time you discussed it? I think it was, yeah, Bell replied. He went on to note that there was one brief moment during the Spider-Man audition process when his and Garfield s shared competition for the role was indirectly acknowledged. There was a dinner while [Sony] were kind of [still] deciding, Bell revealed. There was a big table with a lot of people and a salt shaker fell off the table and me and Andrew both kind of reached for it, and everyone was like, Whoa, spi
 
-### Hot Docs, Primetime Fever and More Lessons From the Fall Film Festivals
-Tue, 15 Sep 2026 13:22:37 +0000 — https://www.thewrap.com/creative-content/movies/tiff-telluride-venice-film-festival-takeaways-buzzy-movies/
+### Why Tenzing Director Jennifer Peedom Made the Leap From Docs to Narrative With the Climbing Drama
+Tue, 15 Sep 2026 18:00:58 +0000 — https://www.thewrap.com/creative-content/movies/tenzing-jennifer-peedom-interview-tiff-2026/
 
-Tweets are flowing, hot takes abound and there are news stories about how long audiences clapped their hands (not from this outlet!). That s right, fall film festival season is here. So what does the reaction to films at Venice, Telluride and Toronto tell us about the moviegoing season to come? Here are a few takeaways: Primetime Could Be Big There was already heavy buzz for A24 s movie about Chris Hansen s quest for ratings glory — and the moral quandaries it created — with To Catch a Predator, but reviews for Robert Pattinson s performance in Primetime out of Venice were absolutely glowing. Add in the fact that Hansen is threatening a legal battle that keeps bumping this to the top of headlines, and Lance Oppenheim s film could be a sizeable box office hit when it opens on Sept. 25. Especially given how well the Pattinson-starrer The Drama did this spring. Docs Are Hot Is there an appetite for documentaries in the theater? Three super buzzy docs will put that to the test. First, there s You Can See Everything, Nathan Fielder and Lance Oppenheim s filmed-in-secret documentary about Theranos founder Elizabeth Holmes, with unfettered access to her and her new partner in the month before she went to prison for fraud. Reviews were rapturous out of Telluride, and Fielder is tremendously popular with Gen Z, so this could very well break containment when A24 unleashes it in October. There s also Alex Gibney s four-hour Elon Musk doc Musk, which already has the richest man in the wo
+“Tenzing” is one of those based-on-a-real-story adventures whose basis in historical fact doesn’t make the story any less thrilling. It recounts the expedition of New Zealand mountaineer Sir Edmund Hillary (played in the film by Tom Hiddleston) and his Nepalese-Indian sherpa guide Tenzing Norgay (Genden Phuntsok), who became the first two people to summit Mount Everest, back in 1953. The Apple Studios film will be on Apple TV later this year, although you’ll probably want to seek out its limited theatrical run. The movie looks big . (You might want to skip if you’re afraid of heights.) “Tenzing” marks the debut narrative feature from documentarian Jennifer Peedom, an Australian filmmaker whose credits include 2008’s “Solo” (with David Michôd), 2015’s “Sherpa” (filmed during a 2014 avalanche at Mount Everest) and 2017’s “Mountain” (which was narrated by Willem Dafoe, who appears in “Tenzing”). Given the subject of her previous films, “Tenzing” seems like a natural progression, and she said she was spurred by the story at the heart of the film to make her narrative debut. “It was the story, really. In this particular story about Tenzing, Norway, it s a very interior journey. I made a documentary feature called ‘Sherpa’ 10 years ago that was at TIFF, and which followed an Everest expedition from the Sherpas point of view, and for many years I d been fascinated by Tenzing and his story,” Peedom told Steve Pond at TheWrap’s studio at the 2026 Toronto International Film Festival. “
 
-### Savannah Guthrie Thanks Allison Janney for Heartfelt Nancy Guthrie Shoutout After Emmys Win
-Tue, 15 Sep 2026 13:21:06 +0000 — https://www.thewrap.com/culture-lifestyle/culture/savannah-guthrie-mom-nancy-missing-allison-janney-emmys-win/
+### The Murder of JonBenét Ramsey Offers First Look at Melissa McCarthy and Clive Owen for Netflix
+Tue, 15 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/the-murder-of-jonbenet-ramsey-netflix-release-date-melissa-mccarthy-first-look/
 
-Allison Janney won an Emmy on Monday night for Outstanding Supporting Actress in a Drama Series for her work in The Diplomat. On Tuesday morning, Savannah Guthrie thanked the star for using her platform to bring attention to the Today show host s missing mother , Nancy Guthrie. I honestly can say I think about her every day and think about the loss and what Savannah and her family are going through. It truly, it just took over, Janney told reporters in the press room. And I don t think I m alone, too. I think all of America was thinking about her. Beautiful expression of sympathy in that moment of her holding her trophy to think of you there, NBC co-host Willie Geist then noted after the clip played. View this post on Instagram A post shared by TODAY (@todayshow) I was so touched to see her do that. It s her moment of her triumph, and for her to sit and just take a moment and think about our family, Savannah shared. I never let a moment pass if I get one to talk about my mom and how much we miss her and love her and my whole family my sister and my brother and I and all of our extended families are in such pain. We just need help. So thank you Allison Janney for remembering us and for giving an opportunity for me to renew that call, she continued. We just want our mom home, give her a proper goodbye. Nancy was kidnapped from her Tucson-area home nearly eight months ago in the early morning hours of Feb. 1. Savannah has since offered a $1 million reward , in addition to the FB
+The Murder of JonBenét Ramsey, the upcoming limited series starring Melissa McCarthy and Clive Owen, is coming to Netflix on Dec. 10. The streamer debuted a first-look image on Tuesday along with the release date announcement. The show focuses on one of the most infamous murder cases in American history. On Dec. 25, 1996, six-year-old JonBenét Ramsey was killed in her family home; the cause of death was later determined to be strangulation and ruled a homicide. No one was ever convicted or formally tried in connection to Ramsey s death, but there have been several prominent theories over the years. District Attorney Mary Lacy proposed the theory that an intruder was responsible for the murder, but one of the most pervasive conspiracies among true crime obsessives is that Ramsey s brother, Burke Ramsey, was responsible for the death and that their parents covered up the crime. That could also be big reason why The Murder of JonBenét Ramsey is on Netflix in the first place. The scripted limited series was originally developed for Paramount+ by 101 Studios, a frequent Paramount collaborator that s behind shows like The Agency, Yellowstone, Landman and Lioness. But after the Paramount-Skydance merger last summer, the new owners decided to not move forward with the completed show. This was reportedly due in part to a settlement between CBS and Burke Ramsey over the docuseries The Case of: JonBenét Ramsey, which theorized Burke Ramsey killed his sister. Netflix then acquired the fu
 
 ## Collider
 
-### Original 'Inspector Lynley' Star Officially Returns to British Crime TV in New Trailer
-Tue, 15 Sep 2026 15:00:11 GMT — https://collider.com/maigret-season-2-trailer-release-date-pbs-masterpiece/
+### 5 Best Comic Strips of All Time, Ranked
+Tue, 15 Sep 2026 19:44:11 GMT — https://collider.com/best-comic-strips-all-time-ranked/
 
-There's no shortage of British detective drama these days, that's for sure, so for one to distinguish itself from the pack during its first season? That takes a particular skill, and yet this one managed it. Based on the enormously successful novels by Belgian author Georges Simenon, MASTERPIECE PBS struck gold with their latest adaptation, with Benjamin Wainwright ( Belgravia: The Next Chapter ) taking over a character previously played by actors including Rowan Atkinson , Michael Gambon , and Richard Harris .
+Calling them the funny pages has always undermined what comic strips are capable of. The medium has always had little space to work with, yet some of the most ambitious and popular art of the 20th century was created within these very limitations. Cartoonists managed to build entire worlds inside tiny boxes, a handful of panels, and a few speech bubbles. In doing so, they told stories that resonated with readers for years. That is because comic strips occupy a pretty unique place in everyday life.
 
-### Fantastic Fest’s New Witch Horror Movie Gets a Bloody First Look [Exclusive]
-Tue, 15 Sep 2026 15:00:11 GMT — https://collider.com/new-horror-movie-the-heretiks-poster-creepy-duck/
+### DC’s The Flash Officially Returns Ahead of DCU Reboot
+Tue, 15 Sep 2026 19:42:34 GMT — https://collider.com/dc-the-flash-ring-collectible-images/
 
-A chill is creeping in the air, heralding the start of fall and the season of the witch. That's the perfect time for the new film The Heretiks , which combines spooky Halloween fun with home invasion horror and wicked witchcraft, to make its festival debut this week. Collider is proud to exclusively debut the new poster for The Heretiks , by famed poster artist Creepy Duck .
+James Gunn 's DCU has slowly built up its roster, with its most recent addition being the Green Lanterns, Hal Jordan ( Kyle Chandler ) and John Stewart ( Aaron Pierre ), in the HBO series Lanterns . With Superman ( David Corenswet ) and Supergirl ( Milly Alcock ) already having made their appearances, and the Batman DCU movie still in the works, there are a few more Justice League members who have yet to be confirmed to enter this rebooted cinematic universe. Perhaps this latest product may hint at who comes next to make their DCU debut.
 
-### Forget ‘Parks and Recreation,’ Rob Lowe Is Officially Heading Back to School [Exclusive]
-Tue, 15 Sep 2026 15:00:11 GMT — https://collider.com/the-musical-rob-lowe-will-brill-sneak-peek/
+### Peacock’s Highest-Rated Sitcom Is Officially Dominating the Competition on Streaming
+Tue, 15 Sep 2026 19:36:11 GMT — https://collider.com/the-paper-peacock-highest-rated-sitcom-the-office-spinoff/
 
-Theatre can feel like life or death. When you are part of a production, it is the only thing that matters. Or at least that's how it feels at the time. The new film The Musical captures that feeling in the new exclusive sneak peek that Collider is thrilled to bring you today. Directed by Giselle Bonilla and written by Alexander Heller , the film stars Parks and Recreation star Rob Lowe , Community actress Gillian Jacobs , and Broadway star (and star of the play Stereophonic ), Will Brill . Our sneak peek will take you right back into doing theatre as a child.
+A ceiling was always going to hang over The Paper . Any comedy that follows The Office will be compared to it, especially with Greg Daniels back at the helm and Oscar Nuñez reprising his role, but after two seasons, Peacock ’s newspaper sitcom has made a convincing case that it doesn’t need to live in Dunder Mifflin’s shadow. In fact, The Paper has become one of the streamer’s strongest comedies, combining the awkward workplace dynamics of its predecessor with a sharper interest in journalism, failing institutions, and the increasingly ridiculous ways people try to keep their jobs.
 
-### ‘Foundation’ Star Officially Goes Dark in Brutal First Look at New Horror Film [Exclusive]
-Tue, 15 Sep 2026 15:00:11 GMT — https://collider.com/bloody-tennis-image-sandra-guldberg-kampp-fantastic-fest/
+### 10 Brilliant Streaming Movies No One Is Talking About
+Tue, 15 Sep 2026 19:24:11 GMT — https://collider.com/brilliant-streaming-movies-no-one-is-talking-about/
 
-Sports and horror are a rare pairing, yet Fantastic Fest is about to give genre fans their second combination of the two in as many years. In 2025, Him took the field , mixing football and the macabre in a story about an up-and-coming quarterback being invited to train with an aging superstar at his isolated compound, where the methods employed are more than a little sinister . Neither critics nor audiences were big fans of the film in the end, though, despite interesting ideas and strong performances from the starring duo of Tyriq Withers and Marlon Wayans . Now, Bloody Tennis will attempt to take the niche subgenre and serve up a winner in its North American premiere at the country's most prestigious event for genre filmmaking.
+We tend to head to the cinema to see a film in all its glory, but in the age of streaming, how we consume movies has changed drastically. Not every movie made today is designed for the big screen; some are designed solely for streaming services, and while they don’t get a wide release like their counterparts, they are often equally brilliant . We are here to celebrate ten of the very best streaming movies that no one is talking about.
 
-### HBO Officially Casts ‘Harry Potter’s Arthur Weasley Replacement Ahead of Season 2
-Tue, 15 Sep 2026 14:59:11 GMT — https://collider.com/harry-potter-season-2-cast-arthur-weasley-moaning-myrtle-colin-creevey/
+### The 10 Greatest Rock One-Hit Wonders of All Time, Ranked
+Tue, 15 Sep 2026 19:11:11 GMT — https://collider.com/best-rock-one-hit-wonders-all-time-ranked/
 
-HBO's mammoth adaptation of Harry Potter has added yet another intriguing name for the show's second season . The adaptation of Harry Potter and the Philosopher's Stone is set to premiere on HBO Max on December 25 but this series is flying at a rapid pace and Season 2 is already aiming to begin production imminently. Now, we have a key member of the Order of the Phoenix.
+Although rock music is released on albums, it was the radio single which, for so long, and still to an extent today, got the attention of music fans and allowed bands to break out and become legends. Who would Nirvana be, for example, if not for their hit "Smells Like Teen Spirit"? Then there are those bands who never quite became all-time greats, but who still had fifteen minutes of fame thanks to one song which broke through on the radio charts or on MTV. For a moment, these bands became just as big as anyone else, only to disappear when the song they were known from faded away from constant radio and TV airplay. Although they were never able to recapture the magic with another huge hit, these 10 acts will live on forever thanks to the wonders of their one big song .
 
-### Apple TV's Genius 10/10 Spy Series Officially Renewed for Rare Season 8
-Tue, 15 Sep 2026 14:00:11 GMT — https://collider.com/slow-horses-season-8-renewed/
+### Quentin Tarantino Officially Announces Rare Sequel for 2026
+Tue, 15 Sep 2026 19:01:37 GMT — https://collider.com/quentin-tarantino-once-upon-a-time-in-hollywood-sequel-cliff-booth/
 
-The return of Apple TV's flagship series, Ted Lasso , has dominated the streaming charts for the last few weeks. Ted ( Jason Sudeikis ) and Coach Beard ( Brendan Hunt ) have joined Alice Chilton ( Tanya Reynolds ) in coaching the new Lady Greyhounds, and viewers have been watching in record-breaking numbers, with 296.6 million viewing minutes during its two-day launch, which marks an official record for Apple TV. But if the reign of Ted Lasso is to be stopped, it will most likely be by the return of Apple TV's best spy series.
+The Further Mis-Adventures of Cliff Booth is set to hit theaters, and then Netflix, this fall. It's the first-ever sequel to a Quentin Tarantino -directed film, but Tarantino himself won't be directing it. However, he does have his own version of the sequel coming out this holiday season.
 
-### Baz Luhrmann's 'Romeo + Juliet' Officially Returns 30 Years Later With a Brand-New Release
-Tue, 15 Sep 2026 14:00:11 GMT — https://collider.com/romeo-plus-juliet-in-concert-on-sale-date/
+### 6 Perfect Sitcoms Worth Watching Over and Over
+Tue, 15 Sep 2026 18:41:11 GMT — https://collider.com/perfect-sitcoms-worth-watching-over-and-over-ranked/
 
-30 years ago, cinematic visionary Baz Luhrmann brought the worlds of William Shakespeare to life like never before in Romeo + Juliet . Now, you can experience that movie like never before: in concert. In 2027, the film is coming to the stage in a unique combination of cinema and music, courtesy of GEA Live, in collaboration with Disney Concerts and Luhrmann, with tickets going on sale this week.
+Sitcoms make for the perfect rewatches, because they are still just as enjoyable to watch when you already know what's going to happen. Knowing about plot points ahead of the watch doesn't take away from the fun of rewatching, in the way that it could with drama series. Sitcoms are the best shows to watch over and over again for those looking for laughs, a mental escape, and the opportunity to see their favorite characters again.
 
-### Netflix’s Best Political Thriller Since 'House of Cards' Officially Releases New Trailer
-Tue, 15 Sep 2026 14:00:11 GMT — https://collider.com/the-diplomat-season-4-trailer/
+### The 10 Best Book Sequels of All Time, Ranked
+Tue, 15 Sep 2026 18:41:11 GMT — https://collider.com/best-book-sequels-all-time-ranked/
 
-International and interpersonal tensions are rising in season 4 of The Diplomat . The new season of the Netflix political thriller series is set to premiere next month. Before all eight episodes drop on October 15, we've got a new look at season 4 in its first trailer, showing us what trans-Atlantic trouble and trickery Emmy nominee Keri Russell is getting into this time.
+Writing a great novel is difficult enough. Writing a sequel that expands the original, deepens its themes, rewards returning readers, and justifies its own existence is an even bigger challenge. Too many sequels merely repeat familiar ideas or exist simply because the first book was a hit.
 
-### 'The Ministry of Ungentlemanly Warfare' Stars Officially Reunite in New Horror Thriller [Exclusive]
-Tue, 15 Sep 2026 14:00:11 GMT — https://collider.com/the-lost-ones-trailer-henry-golding-alex-pettyfer/
+### Netflix Officially Sets Release Date for New 'Pride & Prejudice' Reboot
+Tue, 15 Sep 2026 17:31:00 GMT — https://collider.com/netflix-pride-and-prejudice-reboot-images-release-date-december-2026/
 
-Henry Golding has been an action star in films like Snake Eyes and The Old Guard 2 , brought the laughter in Crazy Rich Asians , and even explored his romantic side in a somber sci-fi way with Daniela Forever . However, one thing his varied resume lacks is a proper horror role of any kind. As the spooky season approaches, that's finally about to change with the release of The Lost Ones , an eerie, violent new thriller that will creep onto digital platforms next month. In anticipation of its arrival, Collider can exclusively share the official trailer , which shows Golding's usual charm twisted into a stern, fatherly nature with a hint of darkness as he's confronted by his suspicious new neighbor, played by fellow The Ministry of Ungentlemanly Warfare star Alex Pettyfer .
+Pride and Prejudice , Jane Austen 's most beloved novel, is headed to Netflix. The romantic 1813 tale is getting a new six-episode miniseries adaptation from the mega-streamer, and now we have a new look at it. Netflix also announced that the series is arriving much quicker than anyone expected.
 
-### Prime Video's 'Neagley' Is a 'Reacher'-Lite Spin-Off That's Officially Worth Your Time | Review
-Tue, 15 Sep 2026 13:00:11 GMT — https://collider.com/neagley-season-1-review-prime-video-reacher-spinoff/
+### Daniel Craig Is Officially Returning to Theaters as James Bond
+Tue, 15 Sep 2026 17:12:21 GMT — https://collider.com/daniel-craig-james-bond-return-casino-royale-re-release-october-2026/
 
-Reacher is one of Prime Video's best and most popular shows, currently wrapping up its brutal fourth season and already confirmed to return for a fifth. The flagship series reintroduced audiences to Jack Reacher, played by Alan Ritchson , a self-described nomad who wanders around the U.S. solving crimes and collecting allies. One of Reacher's few close friends is Frances Neagley ( Maria Sten ), a corporate security professional and PI who became an instant breakout character , stealing every scene she was in, and it didn't take long for Prime Video to give her a show of her own.
+James Bond ’s future on the big screen remains one of Hollywood’s biggest unanswered questions, but audiences, as it turns out, are going to see a very familiar face as the legendary MI6 agent in theaters again. Twenty years after Daniel Craig ( Knives Out ) made his debut as Bond, the movie that completely reinvented the character for a new generation is heading back to the big screen.
 

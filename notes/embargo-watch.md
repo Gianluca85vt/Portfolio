@@ -20,7 +20,6 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Train Sim World® 7 | Dovetail Games - TSW | 2026-09-15 | today | 2026-09-14 | €49.99 |
 | iRacing® Studios NASCAR 26 | iRacing.com Motorsport Simulations, LLC | 2026-09-17 | 2d | 2026-09-16 | €59.99 |
 
 ## Further out, within 14 days
@@ -35,7 +34,7 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ---
 
-*1200 upcoming titles scanned, 949 with a firm date inside
-14 days, 7 above the price line. Titles showing
+*1500 upcoming titles scanned, 937 with a firm date inside
+14 days, 6 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-15T15:15:57.338Z
+# AI — harvested 2026-09-15T19:49:47.472Z
 
 ## OpenAI
 
@@ -14,11 +14,13 @@ Perplexity uses Astra to write communications, change software, and monitor prod
 
 ## Hugging Face
 
-_Nothing in the last 48 hours._
+### Your Agent Aced the Task. Will It Do It Again?
+Tue, 15 Sep 2026 16:00:44 GMT — https://huggingface.co/blog/ibm-research/altk-evolve-consistency
 
 ## Google DeepMind
 
-_Nothing in the last 48 hours._
+### Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking
+Tue, 15 Sep 2026 17:05:57 +0000 — https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/
 
 ## VentureBeat AI
 

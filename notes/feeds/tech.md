@@ -1,6 +1,26 @@
-# Tech — harvested 2026-09-15T15:15:57.338Z
+# Tech — harvested 2026-09-15T19:49:47.472Z
 
 ## Ars Technica
+
+### Boston dumps Flock, says it shared data nationwide in violation of contract
+Tue, 15 Sep 2026 18:14:11 +0000 — https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/
+
+The Boston city government abandoned Flock Safety's license-plate reader cameras after the company shared data nationwide in violation of a contract provision, according to city officials. "We have actually abandoned Flock," Boston Mayor Michelle Wu said in her monthly "Ask the Mayor" segment on GBH News last week. Wu made the comment a few days before the release of Boston's annual surveillance technology report , which said a Flock "vendor error" resulted in nationwide data sharing. The report, which covers 2025, describes how the Boston Police Department deployed about 45 Automated License Plate Reader (ALPR) cameras in a trial with Flock from April to September last year. The unauthorized data sharing occurred during the first few days of the pilot, the report said: Read full article Comments ]]>
+
+### Demand for EV chargers is outstripping supply, says ChargePoint report
+Tue, 15 Sep 2026 17:58:09 +0000 — https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/
+
+There might not be the same degree of optimism regarding electric vehicle adoption as a few short years ago, but the transition toward battery-electric vehicles continues nevertheless. More than 1.8 million EVs had already been sold between the start of this year and the end of August, according to analysts. And in the US, there has been a large uptick in drivers considering EVs that they might have written off last year, due to escalating fuel prices with no clear end in sight. Despite this, charging infrastructure continues to lag, according to a new report from ChargePoint. “All in all, things are moving forward. I think the North American market has been better shaped than a lot of the press reports,” said ChargePoint CEO Rick Wilmer. “Part of it is just the data we see in terms of the amount of RFPs that we receive for charging solutions. They haven't slowed down. We reported quarter over quarter growth in the last quarter we reported. And you look at the data around used EVs going up in price because the demand is so high. I saw a recent report … EV retention rates are 96 percent. So those folks that are putting their leased cars on the used market, they're not going back to gas, they're going to another EV,” he said. Beyond that, cheap electric trucks from Slate and Ford indicate further future demand for charging. “When you look at how much interest there is in the used EVs that are at parity with an equivalent gas vehicle, that tells you the appetite is there for EVs
+
+### Trump EPA moves to wipe out climate rules for power plants
+Tue, 15 Sep 2026 13:43:51 +0000 — https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/
+
+On the heels of the hottest summer on record and a United Nations report warning that global temperatures are likely to push climate risks to “increasingly dangerous heights,” the Trump administration overturned most of a Biden-era rule limiting climate pollution from power plants, the second-largest source of greenhouse gas emissions. The Environmental Protection Agency announced a final plan Monday that guts the 2024 Carbon Pollution Standards, which the agency said exceeds its authority under the Clean Air Act by requiring control technologies “that are not adequately demonstrated.” The agency also proposed revoking “all remaining GHG emissions requirements for power plants,” arguing their emissions “have no material impact on climate change.” The plan to revoke the Carbon Pollution Standards was initially revealed last spring . Read full article Comments ]]>
+
+### GM gives its most important trucks a new UI—and includes CarPlay
+Tue, 15 Sep 2026 13:27:57 +0000 — https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/
+
+General Motors is about to launch new versions of its bestselling Chevrolet Silverado and GMC Sierra pickup trucks for model year 2027, and among the changes are new user interfaces for the trucks’ digital displays. The automaker has gone for a more minimalist approach than we’ve seen from it in the past, and after a demo yesterday, it seems like it has been listening to constructive feedback to improve the products. And yes, unlike GM’s electric vehicles, these trucks still let you cast your Apple or Android phone to the infotainment system. Although GM showed us video of the main instrument cluster—the gauges and info that’s presented to the driver—we don’t have any screenshots we can show you. But I was impressed with the restraint and lack of visual noise; instead, the background is always black, which should be dark even at night thanks to local dimming technology. There are a number of different views. One with simple half-moon dials for speed and engine rpm; on the right side of the display is a user-configurable zone, where you can browse your music or audio feeds, display trip info, or turn-by-turn directions. Another is a driver assist display, with green as the highlight color to show when Super Cruise is active; this shows you a representation of what the car’s fused sensors are seeing around it. A third is for off-road driving, with your various angles and diff settings, and a fourth is for towing. Read full article Comments ]]>
 
 ### This Atlantic hurricane season is about to do something that hasn't happened in 175 years
 Tue, 15 Sep 2026 12:36:11 +0000 — https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/
@@ -10,7 +30,7 @@ Last week, the Atlantic hurricane season blew through its traditional peak—whi
 ### Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost
 Tue, 15 Sep 2026 12:00:41 +0000 — https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/
 
-The performance gap between frontier AI models from US tech companies and the best open-weights models from Chinese companies has closed to just 4.4 months, according to a Mozilla report. That explains why many companies are shifting to the significantly cheaper open models for routine work—and helps reveal a narrow band of workloads where frontier models are worth the cost. Most organizations should ideally be using open models as the default for the majority of their work, according to the latest State of Open Source AI report from Mozilla, published on September 15 and shared with Ars prior to publication. The report highlights how a leading open model, Moonshot AI’s Kimi K3, achieves a composite AI performance score on the Artificial Analysis Intelligence Index that is just three points behind Anthropic’s Fable 5 closed frontier model, all while costing just 30 percent of the latter. “Closed earns its premium in a few places: expert professional work, high-intensity retrieval, and long context,” Raffi Krikorian, chief technology officer at Mozilla, said in an email to Ars. “We see the decision to pay for closed as workload-specific rather than organization-specific.” Read full article Comments ]]>
+The performance gap between frontier AI models from US tech companies and the best open-weights models from Chinese companies has closed to just 4.4 months, according to a Mozilla report. That explains why many companies are shifting to the significantly cheaper open models for routine work—and helps reveal a narrow band of workloads where frontier models are worth the cost. Most organizations should ideally be using open models as the default for the majority of their work, according to the latest State of Open Source AI report from Mozilla, published on September 15 and shared with Ars prior to publication. The report highlights how a leading open model, Moonshot AI’s Kimi K3, achieves a composite AI performance score on the Artificial Analysis Intelligence Index that is just three points behind Anthropic’s Fable 5 closed frontier model, all while costing just 30 percent of the latter. “[A Closed model] earns its premium in a few places: expert professional work, high-intensity retrieval, and long context,” Raffi Krikorian, chief technology officer at Mozilla, said in an email to Ars. “We see the decision to pay for closed [models] as workload-specific rather than organization-specific.” Read full article Comments ]]>
 
 ### Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh
 Tue, 15 Sep 2026 07:00:30 +0000 — https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/
@@ -42,27 +62,27 @@ Mon, 14 Sep 2026 19:45:13 +0000 — https://arstechnica.com/tech-policy/2026/09/
 
 Elon Musk is seemingly done attacking Apple over its decision to integrate ChatGPT into iPhone features. Back in 2024, when the partnership was first announced, Musk slammed the integration as an agreement from Apple to let OpenAI install “creepy spyware” on users’ devices. The next year, he sued , claiming the partnership gave the firms a “monopoly” on Apple users’ AI prompts, which allegedly harmed competition in both smartphone and chatbot markets. For Musk, the fight with Apple seemingly escalated after he believed that his chatbot, Grok, was perhaps being illegally blocked from topping Apple’s App Store rankings. Last August, he claimed that “Apple is behaving in a manner that makes it impossible for any AI company besides OpenAI to reach #1 in the App Store, which is an unequivocal antitrust violation.” Read full article Comments ]]>
 
-### Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots
-Mon, 14 Sep 2026 19:38:46 +0000 — https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/
-
-China leads the world in churning out humanoid robots and four-legged robot dogs that also happen to be the most affordable on the market—and Unitree Robotics’ founder Wang Xingxing is arguably one of the people most responsible for that Chinese lead. The introverted founder, who prominently appeared at a 2025 business symposium hosted by Chinese President Xi Jinping, became phenomenally wealthy after Unitree launched an initial public offering on the Shanghai Stock Exchange STAR Market on August 19. But extensive reporting by Beijing-based Caijing Magazine suggests Unitree’s success so far has been driven by Wang’s extreme micromanagement leadership style—an approach that may be more suited to a small startup than a fast-growing robotics company. Caijing’s interviews with Unitree employees and investors paint a picture of Wang as someone who personally decides nearly every aspect of corporate strategy or product design, including the colors of materials and lengths of individual screws. The Caijing Magazine feature published on August 31, titled “The King of Unitree,” was translated into English by ChinaTalk , a US-based think tank and media organization, on September 10. Read full article Comments ]]>
-
-### Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements
-Mon, 14 Sep 2026 19:28:42 +0000 — https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/
-
-As previously announced, Apple has today released 2026's major annual updates for its operating systems, including iOS 27, macOS 27 Golden Gate, watchOS 27, visionOS 27, and tvOS 27. Siri AI—a large language model-based and context-aware overhaul of the company's Siri voice and text assistant—is the flagship feature across all these releases except one (tvOS). Read full article Comments ]]>
-
-### AI leaders want to hit the brakes after years of reckless speed
-Mon, 14 Sep 2026 19:06:13 +0000 — https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/
-
-For years now, the major frontier AI labs have all been acting as if they're in an all-out, winner-take-all race with control of world-changing machine superintelligence (or at least market-changing artificial general intelligence ) at the finish line. This weekend, the industry as a whole rapidly started turning away from that posture, urging coordination on slowing down the development of frontier AI that they say could soon be too dangerous and unknowable to control. Anthropic's Dario Amodei was at the forefront of this change in tone, arguing in a nearly 4,000-word essay this weekend that "we must slow the pace at which we improve the capabilities of AI models" to avoid "a race to the bottom, spurred by commercial incentives, [that] can make [catastrophic] risks more acute." Within hours, other AI leaders were echoing the same call. OpenAI co-founder and CEO Sam Altman posted his agreement on social media and said similar pacing discussions had been taking place at OpenAI. Alphabet Chief Scientist and Google DeepMind cofounder and chair Demis Hassabis said that Amodei's essay "points towards the right path forward," and renewed his own recent call for an industry-wide standards body . Microsoft CEO Satya Nadella posted that the company "welcome[s] the research, focus, and deliberate pacing needed to get alignment right as the design goal," ahead of the release of a lengthy "humanist AI" code of conduct for its models . Read full article Comments ]]>
-
-### Online hate researcher keeps hammering X despite deportation threat
-Mon, 14 Sep 2026 18:24:09 +0000 — https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/
-
-The US is not backing down from its fight to deport noncitizen technology researchers who monitor safety risks on the biggest online platforms. In July, a judge blocked as unconstitutional an immigration policy that the US relied on to weigh whether to detain and deport people who flag illegal or harmful online content as national security risks. In his announcement of the policy, Secretary of State Marco Rubio explained that by targeting a list of researchers—which he stood “ready and willing” to expand—the policy supposedly served to prevent foreign nationals from manipulating digital town squares and censoring Americans. However, in his order siding with the Coalition for Independent Technology Research (CITR) and staying the policy, US District Judge James Boasberg said the US showed no evidence linking any targeted researchers to a foreign power that might be attempting to censor Americans or manipulate US public debate. Deemed too broad, the policy could sweep in seemingly any noncitizen working in content moderation , the judge said. Read full article Comments ]]>
-
 ## The Verge
+
+### Kia’s electric van lineup is getting more interesting with reveal of PV7
+2026-09-15T14:39:44-04:00 — https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale
+
+You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025 , suggesting that the humble minivan is shaking off its "uncool" stigma and finding new fans among an SUV-weary public. I'm here for it. One of the companies currently carrying the torch for minivans is Kia, which has sold its popular Carnival minivan here since 2021. Kia is also one of the few automakers making all-electric vans. This week, the Korean automaker rolled out its new PV7 at IAA Transportation in Germany . This is the second electric van from Kia's Pla … Read the full story at The Verge. ]]>
+
+### One of the best 3D printers for beginners is almost $100 off
+2026-09-15T14:02:30-04:00 — https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale
+
+The Centauri Carbon 2 stores the filament on the outside to fit the bowden tube in the build space. | Image: The Verge If the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual price of $449. This capable 3D printer can handle four filament rolls at once, with a fully enclosed printing area, auto-leveling bed, and big touchscreen for easy project management. It’s altogether very capable 3D printer for beginners, or just anyone who doesn’t want to spend a lot of time tinkering with settings just to print occasional trinkets and brackets. Elegoo Centauri Carbon 2 Combo Where to Buy: $449 $369 at Elegoo The Centauri Carbon 2 is fast and capable right out of the box, though first-time setup is a little involved (I found it tough to get the upper shield and filament hub to fit together, for example). But I really like its fully-enclosed build area, which results in consistent prints, and the auto-leveling bed checks that everything is locked in the right place before each print. It’s worth noting that the filament rolls are stored externally, so if you’re in a particularly humid environment and don’t print often, you may want to remove them between uses. window.HYPE_DESK_CONFIG = { productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ChatGPT-Image-Sep-3-2026-10_19_50-AM.png", productImageAlt: "HOTO Pulse 4-in-
+
+### How The Oregon Trail became a generational icon
+2026-09-15T12:18:10-04:00 — https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon
+
+Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail . On the season 5 premiere of Version History, our fearless wagon leader David Pierce is joined by gaming journalist Chris Grant and Philip Bouchard, the designer and team leader of the game's most iconic version. They talk about the academic origins of The Oregon Trail, the game's complicated legacy, and whether anyone ever really died of dysentery. This is the first episode of the fifth season of Version History , and this time we're going back to school. In the week … Read the full story at The Verge. ]]>
+
+### Vintage Violence is an absurdist crime thriller for phone addicts
+2026-09-15T12:00:00-04:00 — https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster
+
+There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-style horror flick Deadstream . But the most chaotic to date might just be Vintage Violence , an absurd crime thriller with lots of blood, jokes, and screentime. I was able to catch Vintage Violence , the latest from director Eugene Kotlyarenko, on my fifth day at the Toronto International Film Festival. Kotlyarenko has previously explored our hyper-connected culture in 2020's Spree , a movie in which Stranger Things ' Joe Keery pl … Read the full story at The Verge. ]]>
 
 ### Now Light’s minimalist phone can easily call an Uber
 2026-09-15T11:00:00-04:00 — https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app
@@ -94,27 +114,17 @@ Voicemod announced a new mobile device that expands the capabilities of the Voic
 
 The AirPods 5 earbuds and case look identical to the AirPods 4. It's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and often (especially in the past couple years) more expensive. But that's not what Apple did with the AirPods 5. The $149 AirPods 5 with Wireless Charging Case are $30 cheaper than the AirPods 4 with ANC they replace. They have slightly better active noise cancellation, and they're the first non-Pro AirPods with volume controls on the stem. Apple has never made wireless earbuds that offer as much for so little, and they make the base AirPods 5, which are $20 cheaper but don't have wireless charging or volume controls, pointless. Apple … Read the full story at The Verge. ]]>
 
-### GM updates its trucks’ native software to coexist with CarPlay
-2026-09-15T07:00:00-04:00 — https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto
-
-General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple CarPlay and Android Auto spiffy new picture-in-picture displays - which is notable given GM's previously stated hostility to phone mirroring in its electric vehicles. When the next-generation interface makes its debut on the 2027 Chevrolet Silverado 1500 and 2027 GMC Sierra 1500 later this year , vehicle owners will see a number of changes, including slick new graphics for its advanced driver-assist system, animated transiti … Read the full story at The Verge. ]]>
-
-### Microsoft issues emergency Windows 11 update to fix its record-breaking patch
-2026-09-15T04:54:48-04:00 — https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues
-
-Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected businesses, developers, and gamers. The September patch Tuesday affected folder shares on Hyper-V-based Linux virtual machines, Remote Desktop Services sessions, and some USB audio devices. Microsoft's out-of-band update, released yesterday , addresses these issues across Windows 11 versions 26h1, 25H2, and 24H2. Microsoft has also released updates for Windows Server 202 … Read the full story at The Verge. ]]>
-
-### Volvo’s plug-in hybrid XC60 and XC90 can really go the distance
-2026-09-15T03:00:00-04:00 — https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range
-
-Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of what's possible. Today, the Swedish automaker revealed the updated PHEV versions of its popular XC60 and XC90 SUVs are its first "long range plug-in hybrids," delivering class-leading ranges of 78 miles and 73 miles, respectively. That's more than double the electric range of previous PHEV variants. The numbers are still preliminary and based on EPA testing standards. But if confirmed, they would … Read the full story at The Verge. ]]>
-
-### Valve is still figuring out ‘how and when’ to do Steam Deck 2
-2026-09-14T20:13:47-04:00 — https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when
-
-Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller , the Steam Machine , and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out "how and when we can deliver something like that," Valve designer Pierre-Loup Griffais now tells IGN . Valve has been clear for years that 1) a Steam Deck 2 will indeed happen , and 2) it's not coming until Valve finds the right chip . The original Steam Deck worked because it delivered the right combination of price, performance, and battery life, and Valve has repeatedly said it won't sacrifice effici … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### AI leaders clash over safety fears after Anthropic whistleblower says AI could 'kill us all' by 2030 — OpenAI, Anthropic and xAI figureheads call for external governance, while Jensen Huang says worries are 'made up'
+Tue, 15 Sep 2026 17:19:36 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-leaders-clash-over-safety-fears-after-anthropic-whistleblower-says-ai-could-kill-us-all-by-2030-openai-anthropic-and-xai-figureheads-call-for-external-governance-while-jensen-huang-says-worries-are-made-up
+
+This past week, employees and key figures at leading AI companies have called for a slowdown in the development of frontier AI models , citing warnings from their own teams and other AI researchers that the risk stemming from a super-intelligent AI could endanger the human race. However, while the top Western firms have shown solidarity on this issue, others have urged caution or downright denied their claims, but there's a deeper story within the calls for a slowdown, namely the tension between open-source and closed-source AI models. Nvidia CEO Jensen Huang said the safety fears were "made up," and that there was no need for a slowdown. Chinese officials called the claims "fearmongering," and an effort to stymie international AI development efforts, while President Trump waded in with characteristic bombast and said that he was enough of an AI safeguard on his own, and that it was in the interests of China to enact a frontier AI slowdown Meanwhile, other countries are reacting to the news and taking independent efforts to investigate AI safety, with the UK's King Charles setting a meeting with leading AI figureheads to discuss how to better develop AI for the benefit of humanity. Why now? If you ask most workers who've been scared into believing their livelihoods were in jeopardy, the time for AI slowdowns came and went years ago. Indeed, many are nostalgic for the time before AI. But why are so many tech leaders only now raising the alarm? They claim it's entirely based ar
+
+### Asus' ludicrous 20th anniversary bundle is now the cheapest way to buy an RTX 5090 — Nvidia's flagship GPU stock is so limited that this $10,850 bundle with a 3000W PSU, X870E board, and open-frame case is actually cheaper than some scalper listings
+Tue, 15 Sep 2026 15:13:16 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/asus-ludicrous-20th-anniversary-bundle-is-now-the-cheapest-way-to-buy-an-rtx-5090-nvidias-flagship-gpu-stock-is-so-limited-that-this-usd10-850-bundle-with-a-3000w-psu-x870e-board-and-open-frame-case-is-actually-cheaper-than-some-scalper-listings
+
+We've reviewed Asus' ROG Edition 20 anniversary kit. We've built a PC with it. It's about as premium as a gaming PC build can get. Right now, you can pick up the same kit for a whopping $10,849.96 on Newegg in a combo deal . To put it mildly, this is one expensive deal, but it's actually hiding a secret gem: it's the cheapest RTX 5090 graphics card on sale right now. ● Check out this deal at Newegg Writing up a near-$11,000 combo set as a deal might seem silly, but one of the core components here is the Asus ROG Astral GeForce RTX 5090 Edition 20 that is priced as part of this deal at $5,999. You can't buy this Astral card on sale individually right now. In fact, you can barely buy an RTX 5090 anywhere. RTX 5090 stock has almost completely disappeared in the United States, with only sketchy third-party sellers offering it at prices approaching $10,000. This premium GPU is now ultra premium and, for the time being, ultra rare. Does that make this $10,849.96 Newegg combo deal a good option? If money is no object, you're perversely getting some value for your money, as long as you don't think too hard about the RTX 5090's original $1,999 MSRP. ROG Edition 20 combo: $10849.96 This frankly ridiculous bundle includes all of Asus' ROG Edition 20 kit, including the ROG Astral RTX 5090, ROG Crosshair X870E, ROG Thor Titanium III 3000W PSU, and the ROG GR20 open-frame PC case. No discount, but the RTX 5090 is the cheapest you'll find it, in the oddest way. View Deal Yes, the GPU is an 
 
 ### Intel reportedly cans 12Xe option for Nova Lake-S desktop — gaming APU design said to resurface with Razor Lake
 Tue, 15 Sep 2026 14:17:06 +0000 — https://www.tomshardware.com/pc-components/cpus/intel-reportedly-cans-12xe-option-for-nova-lake-s-desktop-gaming-apu-design-said-to-resurface-with-razor-lake
@@ -166,17 +176,22 @@ Tue, 15 Sep 2026 09:24:32 +0000 — https://www.tomshardware.com/tech-industry/a
 
 Perplexity has released Portable Computer for Windows , in partnership with Nvidia , via the existing Perplexity app for Windows. Previously, this functionality was only available on Linux-based operating systems. The hardware requirements remain, meaning the host system must have at least 24GB of VRAM with a GeForce RTX or RTX PRO GPU. Likewise, a Pro or Max Perplexity subscription is required. Portable Computer was originally launched on the DGX Spark as a fully local AI agent platform. Portable Computer, launched originally for Linux on Aug. 25, is a local version of Perplexity Computer, which is the company’s agent for multistep tasks. Perplexity Computer can plan, run subtasks through connectors and tools, and produce a result other than a simple chat response. This runs in Perplexity’s cloud and consumes Computer credits. Portable Computer is the same agent but with features running on your local PC instead of in the cloud. Local work does not consume credits, but the agent can send tasks to cloud models with explicit permission if necessary, the company said. Nvidia said on Sept. 3 that Windows support was coming soon. (Image credit: Perplexity) Portable Computer for Windows comes with some new features. These include scheduled recurring tasks and local MCP servers for desktop apps, according to Perplexity. Nvidia listed connectors for Microsoft Word, Google Drive, Gmail, Slack, and GitHub. The app also includes a dropdown for downloading a local model with one click. 
 
-### Anthropic says AI can boost U.S. GDP by 32%, up to $44.4 trillion in four years — economics model predicts that displaced employees 'may have to switch to jobs like electrician and nurse'
-Mon, 14 Sep 2026 18:50:36 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-ai-can-boost-u-s-gdp-by-32-percent-up-to-usd44-4-trillion-in-four-years-economics-model-predicts-that-displaced-employees-may-have-to-switch-to-jobs-like-electrician-and-nurse
-
-Last week, Anthropic published its prediction of what the economic impact of AI on the U.S. economy is going to be for the next few years. The company thinks the U.S. can reach a $44.4 trillion GDP or higher by 2030, provided, of course, it conveniently adopts AI at a rapid pace. Having said that, Anthropic admits "the challenge is making sure that the gains are broadly shared." The interactive post has a simulator where readers can plug in their estimates on key factors and get their own future predictions, within the firm's analysis and perspective. That's definitely interesting to play around with, but perhaps the most relevant piece of information is the lens through which Anthropic views the world. Anthropic establishes its reasoning by first placing tasks in broad categories and using a nurse's workday as an example. They removed tasks, including those that will disappear naturally as technology progresses, like collecting data on paper or physically visiting the patient to collect basic vitals — neither happens anymore as remote monitoring becomes commonplace. However, some new tasks are added, like keeping an eye on dashboards for the aforementioned AI-powered monitoring. Then, there are naturally the tasks that a bot can't perform, like bathing a patient. Augmented tasks include those that require a human, but can be made more efficient with AI: helping with triage, planning schedules, and assisting with dashboard data. Some tasks may be fully automated, like keeping
-
-### Nvidia's RTX 5090 vanishes from online retail in the US — third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU
-Mon, 14 Sep 2026 17:41:01 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5090-vanishes-from-online-retail-in-the-us-third-party-sellers-now-demand-as-much-as-usd9-500-for-nvidias-fastest-gpu
-
-Nvidia's fastest gaming graphics card, the RTX 5090, has been on a tear of price increases over the past several weeks. However, over the past week, the available inventory has dwindled. Now, you can only find the RTX 5090 from third-party sellers at online retailers like Newegg and Amazon, commanding anywhere from $6,500 to $9,500 (or even higher) for Team Green's best GPU . Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC At Newegg, the cheapest RTX 5090 is the MSI Ventus 3X that's available from Slava Computers (a relatively new seller with 239 ratings and a 2.8 out of 5 rating at the time of writing) for $6,449. On Amazon, you can get the Asus TUF Gaming OC for $6,395 from Joes Tech Shop, a seller with an 81% positive rating. However, among the most recent reviews are a string of one-star reviews about orders never being fulfilled. The cost goes much higher, as well. The first result for "RTX 5090" on Newegg , for example, surfaces the MSI Ventus 3X OC for $8,699. In June, the median price for an RTX 5090 was $4,299. At the beginning of September, we logged the lowest online price at $5,199 in our GPU price tracker . Now, in less than two weeks, the available stock has completely disappeared online, and the options available fro
-
 ## Phoronix
+
+### AMD P-State Driver For Linux 7.4 Will Tune For Zen 6 Client CPUs
+Tue, 15 Sep 2026 15:03:22 -0400 — https://www.phoronix.com/news/Linux-7.4-AMD-P-State-Zen-6
+
+Linux 7.4 looks like it will be a very exciting kernel update for AMD customers. On the AMD Radeon graphics side HDMI 2.1 is being enabled by default with the AMDGPU driver with the HDMI FreeSync, VRR, and ALLM features in tow. On the AMD Ryzen client CPU side, there will be Zen 6 tuning with the AMD P-State CPU frequency scaling driver...
+
+### SDL3 Ported To HarmonyOS / OpenHarmony
+Tue, 15 Sep 2026 12:54:08 -0400 — https://www.phoronix.com/news/SDL3-Ported--To-HarmonyOS
+
+The SDL3 library commonly used for games and applications for cross-platform hardware and software abstractions now has upstream support for Huawei's HarmonyOS and OpenHarmony...
+
+### Ubuntu 26.10 Set To Deliver Better Performance For Intel Core 3 Wildcat Lake
+Tue, 15 Sep 2026 11:34:07 -0400 — https://www.phoronix.com/review/ubuntu-2610-wildcat-lake
+
+While Ubuntu 26.04 LTS is working fine out-of-the-box on new Intel Core 3 "Wildcat Lake" laptops like the CHUWI UniBook, next month s release of Ubuntu 26.10 will help deliver better performance out of these low-cost laptop options.
 
 ### Fedora 45 Beta Released With KMSCON Console, GNOME 51 & Other Updates
 Tue, 15 Sep 2026 10:30:08 -0400 — https://www.phoronix.com/news/Fedora-45-Beta
@@ -223,22 +238,22 @@ Mon, 14 Sep 2026 14:03:38 -0400 — https://www.phoronix.com/news/AMD-Enhanced-S
 
 AMD engineers today sent out patches on the Linux kernel mailing list for beginning to enable Enhanced SMT Protection "ESMTP" for better security with virtual machines running atop EPYC server processors with SEV-SNP...
 
-### GNU Coreutils 9.12 Released With Performance Optimizations, New uname Option
-Mon, 14 Sep 2026 13:45:05 -0400 — https://www.phoronix.com/news/GNU-Coreutils-9.12
-
-GNU Coreutils 9.12 released today with a mix of fixes, some new options, and various performance improvements to these widely-used set of core system utilities...
-
-### Valve s Steam Frame Now Available At $1059+ USD
-Mon, 14 Sep 2026 13:05:37 -0400 — https://www.phoronix.com/news/Valve-Steam-Frame-1059
-
-Valve just announced their long-awaited Steam Frame headset is now available...
-
-### Rustls 0.23.45 Released To Fix Two Year Old Security Issue
-Mon, 14 Sep 2026 11:35:11 -0400 — https://www.phoronix.com/news/Rustls-0.23.45-Released
-
-While the Rustls modern TLS library is written in the Rust programming language with a focus on memory safety, as we've seen out of other Rust project re-implementations in the past, the new implementations can lead to other security bugs of their own. Out today is Rustls 0.23.45 to fix a security issue introduced back in 2024 with Rustls while the likes of OpenSSL, BoringSSL, and others are unaffected...
-
 ## The Register
+
+### America is building datacenters faster than the grid can power them
+Tue, 15 Sep 2026 18:37:00 +0200 — https://www.theregister.com/on-prem/2026/09/15/america-is-building-datacenters-faster-than-the-grid-can-power-them/5296608
+
+Financial service biz Moody's says the availability of power is still a major constraint on US datacenter growth as the pace of construction exceeds the speed at which the nation's grid infrastructure can add the requisite capacity. America is the epicenter of the datacenter construction boom, driven by the AI craze and demand for compute capacity to train ever-larger foundation models. The latest report from Moody's estimates the power needed by all those bit barns will reach 426 terawatt-hours (TWh) in 2030, citing data from the International Energy Agency (IEA). That is almost double the 2025 figure. It falls on the power sector to develop new resources to meet this extra demand as traditional power generation is struggling to keep pace. Moody's calculates that building the additional generation capacity will cost about $110 billion, adding an estimated $25 billion to $30 billion a year to electricity system costs. Yet efforts to supply the rapidly growing number of cloud and AI server farms are running up against lengthy permitting processes and long lead times for key equipment and materials, causing delays of up to seven years in some cases. Management consultancy Bain & Company highlighted the problem nearly two years ago when it warned that energy companies needed to significantly boost their generation capacity, reversing years of flat or declining demand. Transmission buildout is a parallel bottleneck, with $80 billion to $115 billion in grid investment through 2030
+
+### Cisco email security boxes can be rooted by... an email
+Tue, 15 Sep 2026 18:01:00 +0200 — https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604
+
+Criminals are exploiting a critical Cisco Secure Email Gateway flaw that can turn a malicious email into root access. The vulnerability, tracked as CVE-2026-76461, carries a 9.8 CVSS score and affects physical and virtual Secure Email Gateway appliances regardless of their configuration. Cisco says there are no workarounds, so patching is the only fix. The bug lies in how Cisco's AsyncOS software handles incoming email. An attacker doesn't need to log in: they can send a booby-trapped message through a vulnerable gateway and, if the exploit works, run commands as root. Which is not exactly what you want from the box tasked with keeping nasty emails out. Cisco's Product Security Incident Response Team said it became aware of active exploitation in September, although the networking giant hasn't said who is behind the attacks, how long they have been going on, or how many organizations have been compromised. Cisco uncovered the bug while resolving a Technical Assistance Center support case. Signs suggest at least some Cisco cloud customers were caught up in the attacks. Cisco said it investigated devices belonging to its Secure Email Cloud service and directly contacted customers whose appliances showed indicators of possible compromise. It is now carrying out remediation and recovery work and says all of its Secure Email Cloud devices have been upgraded to AsyncOS 16.5.0-780. Admins running their own appliances have a little more work to do. Cisco recommends checking logs for 
+
+### Twitter workaround worked around again: X's lawyers cancel XCancel again
+Tue, 15 Sep 2026 17:12:59 +0200 — https://www.theregister.com/personal-tech/2026/09/15/twitter-workaround-worked-around-again-xs-lawyers-cancel-xcancel-again/5296581
+
+Nitter and XCancel, a pair of social media services which let you view posts on X without an X account, are down again after the latest round of legal wrangling. While the XCancel site now displays the message "Unfortunately, due to a new development in the ongoing legal proceedings, we are required to suspend this service again until further notice," Nitter's site is offline, and the code repository was archived on September 11, 2026. Things were not looking good in August for the services, which allowed a user to view posts on X (formerly Twitter) without an account or having to endure adverts and accept trackers. X's lawyers fired off a cease-and-desist letter, and the services acquiesced, going offline while the implications were digested. A few weeks later, the services were back up and running. At the time, zedeus, Nitter's maintainer, wrote, "an announcement will be made within a week, once we're able to reveal more information." Alas, that "more information" appears to be another cessation. XCancel wrote simply, "We can't share more details," and added a link to X for users keen for content. It is difficult to say for sure if and when the services might be back, or if users have headed elsewhere for their microblogging fix. Users not wishing to sign up for an X account have plenty of alternatives – Mastodon and Bluesky, for example. X has considerable form when it comes to rolling out the lawyers to fend off perceived threats or alleged abuses of its services, and is 
 
 ### Who's governing your AI? A trust framework for enterprise agents and models
 Tue, 15 Sep 2026 17:00:00 +0200 — https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237
@@ -248,7 +263,7 @@ Experienced IT leaders know that shadow IT is a persistent problem, but rapidly 
 ### CenterPoint Energy confirms intruder helped themselves to customer information
 Tue, 15 Sep 2026 16:14:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/15/centerpoint-energy-confirms-intruder-helped-themselves-to-customer-information/5296523
 
-Texas utility CenterPoint Energy has confirmed that an attacker broke in and stole customer information through one of its internet-facing systems. The company disclosed the breach in a Form 8-K filing with the Securities and Exchange Commission after a post on a cybercrime forum claimed to offer its customer data. Houston-based CenterPoint, which serves around 7 million customers, said its electricity and gas services remain operational and undisrupted. "While the investigation remains ongoing, the company has determined that an unauthorized third party obtained personal information relating to a portion of the company's customers through one of the company's external-facing systems," the filing said. "The company is continuing to work with third-party experts to determine the scope of customers and personal information affected by the incident and intends to notify affected customers and regulatory authorities as required by applicable law. "The company reported the matter to law enforcement authorities and has notified certain regulatory authorities of the issue." The person claiming responsibility said they extracted 7.49 million of CenterPoint's files from a poorly secured API. Among the data allegedly available to download are customer names and contact details, billing data, move-in dates, driver's license information, and the last four digits of Social Security numbers. The Register has not independently verified the contents of the alleged data dump, and CenterPoint 
+Texas utility CenterPoint Energy has confirmed that an attacker broke in and stole customer information through one of its internet-facing systems. The company disclosed the breach in a Form 8-K filing with the Securities and Exchange Commission after a post on a cybercrime forum claimed to offer its customer data. Houston-based CenterPoint, which serves around 7 million customers, said its electricity and gas services remain operational and undisrupted. "While the investigation remains ongoing, the company has determined that an unauthorized third party obtained personal information relating to a portion of the company's customers through one of the company's external-facing systems," the filing said. "The company is continuing to work with third-party experts to determine the scope of customers and personal information affected by the incident and intends to notify affected customers and regulatory authorities as required by applicable law. "The company reported the matter to law enforcement authorities and has notified certain regulatory authorities of the issue." The person claiming responsibility said they extracted 7.49 million of CenterPoint's files from a poorly secured API. Among the data allegedly available to download are customer names and contact details, billing data, move-in dates, driver's license information, and the last four digits of Social Security numbers. The Register has not independently verified the contents of the alleged data dump. When we asked Ce
 
 ### September's Windows 11 patch needs an emergency patch of its own
 Tue, 15 Sep 2026 15:33:55 +0200 — https://www.theregister.com/on-prem/2026/09/15/septembers-windows-11-patch-needs-an-emergency-patch-of-its-own/5296567
@@ -285,142 +300,127 @@ Tue, 15 Sep 2026 12:31:47 +0200 — https://www.theregister.com/offbeat/2026/09/
 
 Britain killed off its national digital ID scheme this summer, but from today you can use a digital ID to prove you're old enough to buy a pint. New rules taking effect on Tuesday allow pubs, bars, restaurants, music venues and shops in England and Wales to accept digital proof of age when selling alcohol, meaning customers can use an app on their phone instead of digging around for a driving license or passport. The change is voluntary. Businesses don't have to accept digital proof of age, customers don't have to use it, and the government admits the technology will take time to gain wide support. So anyone planning to leave their wallet at home tonight may want to check with the pub first. Still, it gives digital identity technology a conspicuously everyday new job just two months after Prime Minister Andy Burnham pulled the plug on his predecessor's much grander national Digital ID scheme. That project, announced under Keir Starmer, would have created a government-backed digital credential and eventually made digital right-to-work checks mandatory. Burnham ditched the scheme in July, with his government saying the money and resources earmarked for it would be redirected elsewhere. Digital identity itself, however, wasn't buried with it. The new alcohol rules rely on the UK's existing Digital Verification Services (DVS) framework. To be accepted for booze purchases, digital proof of age must be provided through a DVS certified against the government's trust framework and li
 
-### PostgreSQL 19 graph queries fail the 'would you ship this?' test
-Tue, 15 Sep 2026 11:42:59 +0200 — https://www.theregister.com/databases/2026/09/15/postgresql-19-graph-queries-fail-the-would-you-ship-this-test/5296343
-
-PostgreSQL developers have pulled planned graph query support from version 19 over concerns that unresolved bugs could haunt the release. The feature, SQL Property Graph Queries (SQL/PGQ), became part of the SQL standard in 2023. It provides syntax for exploring relationships between nodes connected by edges. PostgreSQL's implementation was removed over unresolved issues, while version 19's release date remains unconfirmed. A fourth beta is scheduled for September 24. Longtime PostgreSQL contributor Tom Lane warned: "At this point I'd be willing to bet dinner that if we ship it in v19 there will be post-release bug discoveries that are unfixable until v20." Tom Kincaid, senior vice president of software engineering at PostgreSQL support and development company EDB, confirmed that PGQ will not be part of PostgreSQL 19. "The community wanted to work through a few more things before releasing it," he said. Database administrators still have something to look forward to, though: reclaiming disk space without shutting everyone out of a table for the duration. VACUUM FULL rewrites a table to reclaim space occupied by obsolete row versions and return it to the operating system. It holds an exclusive table lock throughout, blocking other reads and writes. Kincaid told The Register that the resulting interruption makes administrators reluctant to run it. "Middle-of-the-night calls have been a result of somebody doing a VACUUM FULL, and their customers can't get access to the data or s
-
-### Give Xfce a Mac or Unity-style makeover
-Tue, 15 Sep 2026 11:15:00 +0200 — https://www.theregister.com/software/2026/09/15/give-xfce-a-mac-or-unity-style-makeover/5295937
-
-PART 2 Xfce's Panel Profiles app can rearrange your desktop, but getting every layout working properly still takes some manual tinkering. In part 1 of this two-part feature, we covered how to install Xfce's Panel Profiles tool and all the extra plugins it needs for its dozen alternative layouts: macOS, Unity, MATE or GNOME 2, several different Windows-like layouts, and half a dozen different generations of both Xfce and Xubuntu. However, as our screenshots showed, the "Cupertino" (Mac-style) and "Unity" layouts are not ideal. For instance, the Unity layout's global menu is immediately followed by the status icons, when they ought to be over on the right. Some of these issues are easy to resolve with the built-in tools, while some need a little more work. Fixing the menu bar In the Unity layout, it's easy to push the status icons and session controls over to the right, where they belong. Customizing Xfce panels is easy. Choose the panel you want to change, find a blank part of the panel, and right-click it. Go into the Panel submenu, then click Panel preferences. In the Panel Preferences dialog box, the first two lines are a backup button, then a listbox to choose which panel you're editing. Under those, there's a line of three tabs: Display, Appearance, and Items. Click on the last tab, Items. This lists all the plugins the panel currently contains, and on the right of the list, there are buttons labeled with up and down arrows to change what order they show in. To fix the Un
-
-### Open weights are not open source: Why AI's favorite label is under dispute
-Tue, 15 Sep 2026 10:30:00 +0200 — https://www.theregister.com/columnists/2026/09/15/open-weights-are-not-open-source-why-ais-favorite-label-is-under-dispute/5295436
-
-The AI industry likes to abuse the word "open." It appears in product releases, research papers, policy debates, and investor presentations. A company publishes model files to Hugging Face, developers run them on their own GPUs, and the release is quickly described as an "open source model." Not necessarily. It may only be open-weight. The difference is more than a technicality. It determines whether you can merely deploy a completed neural network or whether you can meaningfully inspect, reproduce, alter, and redistribute the system that produced it. A genuinely open source system should grant the freedom to do all of the above. Weights are the learned numerical parameters created by training. Together with the model architecture and inference code, they allow a large language model (LLM) to function. You can download an open-weight model, self-host it, fine-tune it on internal documents, and avoid routing prompts through a proprietary API. Open weights are publicly available. They matter because running them locally can offer greater control over data, privacy, costs, supplier API changes, and vendor lock-in. They've also helped build a large ecosystem of local-model runtimes, inference providers, fine-tuning tools, and specialized downstream models. The Open Source Initiative (OSI), steward of the Open Source Definition (OSD), makes the distinction directly: "Open Weights refer to the final weights and biases of a trained neural network." Those values determine how a model
-
 ## Engadget
 
-### Meta adds new subscription tiers for businesses, creators and 'AI power users'
-Tue, 15 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2258403/meta-adds-new-subscription-tiers-for-businesses-creators-and-ai-power-users/
+### The safety and privacy concerns of storing your driver's license in a digital wallet
+Tue, 15 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2256059/safety-privacy-concerns-digital-wallet-storing-drivers-license/
 
-The company's Meta One plans range from $2.99/month to $499/month.
+A digital driver's license kept in Apple Wallet or Google Wallet is convenient, but you should be aware of its implications on your privacy.
+
+### Google's latest Pixel drop will keep you more connected to your VIPs
+Tue, 15 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2258821/google-pixel-update-vip-contacts-scam-detection-gesture-controls/
+
+Google has revealed the updates coming with the latest Pixel drop.
+
+### DOJ says companies used Binance to funnel $1.5 billion in crypto to Iran
+Tue, 15 Sep 2026 17:51:45 +0000 — https://www.engadget.com/2259323/doj-says-companies-used-binance-to-funnel-dollar15-billion-in-crypto-to-iran/
+
+Hardly the first time Binance has been a vector for illegal transfers of funds.
+
+### X-viewing services Nitter and XCancel shut down after threats of legal action
+Tue, 15 Sep 2026 17:46:33 +0000 — https://www.engadget.com/2259317/x-viewing-services-nitter-and-xcancel-shut-down-after-threats-of-legal-action/
+
+Press X to pay respects.
+
+### A Googlebook 'celebration' event is set for October 5
+Tue, 15 Sep 2026 17:43:21 +0000 — https://www.engadget.com/2259313/a-googlebook-celebration-event-is-set-for-october-5/
+
+Preorders start September 21.
+
+### What is IMAX Enhanced and do you really need it?
+Tue, 15 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2255987/what-is-imax-enhanced/
+
+IMAX has a certification for content you view at home as well as in the cinema.
+
+### Are older MacBooks still worth buying in 2026?
+Tue, 15 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2255893/older-macbook-still-worth-buying-2026/
+
+You'll probably want to avoid Intel-powered MacBooks, but Apple Silicon models are solid.
+
+### Amazon's Prime Big Deal Days sale returns in October
+Tue, 15 Sep 2026 16:01:55 +0000 — https://www.engadget.com/2259124/amazons-prime-big-deal-days-sale-returns-in-october/
+
+Expect big discounts on Amazon's own products, of course.
+
+### Refurbished vs. pre-owned phones: What's the difference and which is better?
+Tue, 15 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2255880/refurbished-vs-pre-owned-differences-which-is-better/
+
+Pre-owned and refurbished devices have various quality standards across marketplaces, so understanding what you're getting is critical.
+
+### The biggest issues with delivery robots are exactly what you'd think
+Tue, 15 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2255845/delivery-robots-biggest-issues/
+
+Too often, delivery robots just don't understand the rules of the road (or sidewalk).
+
+### GM finds splitscreen solution for CarPlay and Android Auto
+Tue, 15 Sep 2026 15:29:26 +0000 — https://www.engadget.com/2259077/gm-finds-splitscreen-solution-for-carplay-and-android-auto/
+
+That should keep these infotainment systems from hogging all the important screen real estate.
 
 ### You should probably have the "Improve Siri & Dictation" setting off — here's why
 Tue, 15 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2255821/why-improve-siri-and-dictation-setting-off/
 
 Apple used anonymized voice data to improve its products, but you might not want to contribute to this even with its privacy methods in place.
 
-### This is a great place to store your old hard drives and keep them safe
-Tue, 15 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2255337/best-place-to-store-old-hard-drives-keep-safe/
-
-Old hard drives can store backed-up data or be saved for future use, but where you keep them and how you store them matters a lot.
-
-### What is a VPN kill switch and how does it work?
-Tue, 15 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2251529/what-is-vpn-kill-switch-how-works/
-
-A VPN offers increased privacy, but won't do you much good if the connection drops. Kill switches ensure you're always using a VPN when it matters.
-
-### Eyeing a curved monitor? Here are the pros and cons to consider
-Tue, 15 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2255217/curved-monitor-pc-computer-pros-and-cons-explained/
-
-Curved monitors are fabulous for immersive gaming, usually, but there are some situations where a flat panel is best.
-
-### MediaTek is using TSMC's cutting edge 2nm process for its latest chip
-Tue, 15 Sep 2026 13:08:16 +0000 — https://www.engadget.com/2258880/mediatek-is-using-tsmcs-cutting-edge-2nm-process-for-its-latest-chip/
-
-You may not hear much about MediaTek these days, but it's still going strong.
-
-### The pros and cons of using a MagSafe charger
-Tue, 15 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2254631/magsafe-charger-pro-and-cons/
-
-MagSafe charging has become the standard for modern iPhones and MacBooks, but there are some downsides to charging this way.
-
-### Spotify can now exclude your kids' music taste from recommendations
-Tue, 15 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2257982/spotify-can-now-exclude-your-kids-music-taste-from-recommendations/
-
-Will this mark the end of Disney songs popping up in your Daily Mix?
-
-### Uber expands options for riders with seniors accounts
-Tue, 15 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2255380/uber-expands-options-for-riders-with-seniors-accounts/
-
-The changes offer more independence and requests for easy vehicle entry.
-
-### Yamaha introduces the compact B200A soundbar with Dolby Atmos
-Tue, 15 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2258332/yamaha-introduces-the-compact-b200a-soundbar-with-dolby-atmos/
-
-This tiny soundbar has few frills for $250, but still supports Atmos audio.
-
-### The easiest way to find and remove spyware on your Android phone
-Tue, 15 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2254646/android-phone-how-to-find-remove-spyware/
-
-With Android's more open ecosystem, it's not hard to download apps that are unsafe. Here's how to scan for spyware.
-
-### 2 ways Android users can take advantage of Apple's MagSafe accessories
-Tue, 15 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2254612/ways-android-use-apple-magsafe-accessories/
-
-MagSafe is a feature unique to iPhones, but Android users have a couple of options if they want to use MagSafe accessories and chargers.
-
 ## TechCrunch
 
-### Former TikTok execs built an app that uses AI to teach you how to pose for a photo
-Tue, 15 Sep 2026 14:42:37 +0000 — https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/
+### The AI graveyard: a running list of projects and startups that didn t make it
+Tue, 15 Sep 2026 19:00:00 +0000 — https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
 
-Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.
+From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.
 
-### Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026
-Tue, 15 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/
+### US data centers could consume more natural gas than Germany and Japan combined by 2035
+Tue, 15 Sep 2026 18:29:20 +0000 — https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/
 
-Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.
+The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.
 
-### India ends free ride for larger transactions on its ubiquitous digital payments network
-Tue, 15 Sep 2026 14:22:49 +0000 — https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/
+### SpaceX will try to put Starship in orbit for the first time on September 22
+Tue, 15 Sep 2026 18:16:07 +0000 — https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/
 
-India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.
+Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.
 
-### Evvy raises $40M as it seeks to further women s health research with vaginal microbiome data
-Tue, 15 Sep 2026 14:13:59 +0000 — https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/
+### AI agents now have a place to snitch
+Tue, 15 Sep 2026 17:42:59 +0000 — https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/
 
-Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.
+The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.
 
-### 4 days left to exhibit at TechCrunch Disrupt 2026
-Tue, 15 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/
+### US military confirms it launched space weapons into Earth s orbit
+Tue, 15 Sep 2026 17:09:06 +0000 — https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/
 
-Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.
+This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.
 
-### Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents
-Tue, 15 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/
+### Meta expands subscription push with new AI-focused plans
+Tue, 15 Sep 2026 17:05:24 +0000 — https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/
 
-Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.
+Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.
 
-### Spotify finally lets parents exclude kids music from Wrapped and recommendations
-Tue, 15 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/
+### Health benefits platform Thatch reaches $1B valuation as healthcare costs surge
+Tue, 15 Sep 2026 17:02:04 +0000 — https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/
 
-Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.
+Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one company-wide plan.
 
-### New Italian unicorn Exein rides the physical AI wave
-Tue, 15 Sep 2026 12:19:38 +0000 — https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/
+### Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far
+Tue, 15 Sep 2026 16:00:00 +0000 — https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/
 
-Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.
+From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.
 
-### Salesforce and Nvidia s new reasoning model is everything the AI labs should fear
-Tue, 15 Sep 2026 12:00:00 +0000 — https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/
+### Nitter and XCancel are dead (again) after X s latest legal actions
+Tue, 15 Sep 2026 15:49:18 +0000 — https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/
 
-Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.
+The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.
 
-### Jensen Huang took a call from Trump, and showed off something else, too
-Tue, 15 Sep 2026 01:50:48 +0000 — https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/
+### OpenAI, Anthropic, Google have been in talks on AI safety for weeks
+Tue, 15 Sep 2026 15:47:03 +0000 — https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/
 
-When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.
+OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.
 
-### Nvidia CEO Jensen Huang tells Trump we re not going to let [an AI slowdown] happen
-Mon, 14 Sep 2026 21:51:02 +0000 — https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/
+### AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round
+Tue, 15 Sep 2026 15:22:48 +0000 — https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/
 
-Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.
+Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.
 
-### OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says
-Mon, 14 Sep 2026 20:44:14 +0000 — https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/
+### Wonder scores a $425 million partnership with DoorDash as it builds its food empire
+Tue, 15 Sep 2026 15:21:10 +0000 — https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/
 
-Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.
+Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.
 

@@ -1,6 +1,56 @@
-# Manga — harvested 2026-09-15T15:15:57.338Z
+# Manga — harvested 2026-09-15T19:49:47.472Z
 
 ## Anime News Network
+
+### Jujutsu Kaisen Ranks #2 on Bookscan's August Adult Graphic Novel List in U.S.
+Tue, 15 Sep 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/jujutsu-kaisen-ranks-no.2-on-bookscan-august-adult-graphic-novel-list-in-u.s/.241800
+
+16 manga volumes including <cite>Kagurabachi, The Summer Hikaru Died, Gachiakuta, Dandadan</cite> make list
+
+### Goodbye, Lara Anime Gets Manga
+Tue, 15 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/goodbye-lara-anime-gets-manga/.241817
+
+<cite>Citrus</cite> creator Saburouta debuts manga in October
+
+### Higurashi: When They Cry Mahjong Game Gets Remaster for Switch, PS5, PC
+Tue, 15 Sep 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/higurashi-when-they-cry-mahjong-game-gets-remaster-for-switch-ps5-pc/.241810
+
+<cite>Higurashi no Naku Koro ni Jong Remaster</cite> launches in Japan in 2027
+
+### Crunchyroll Announces Release Schedule for Fall 2026 Season
+Tue, 15 Sep 2026 13:52:07 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811
+
+<cite>Magic Knight Rayearth</cite>, <cite>Overgeared</cite>, <cite>Black Clover Season 2</cite>, <cite>The Apothecary Diaries Season 3</cite>, <cite>PSYREN</cite>, more
+
+### Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 8
+Tue, 15 Sep 2026 13:35:21 -0400 — https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-8/.241815
+
+After going through all the trouble of bringing Aizen back, this is all we got?
+
+### JoJo's Bizarre Adventure: Part 7--Steel Ball Run Volumes 6-8 Manga Review
+Tue, 15 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/jojo-bizarre-adventure/part-7-steel-ball-run/volumes-6-8/.241387
+
+Steel Ball Run is Hirohiko Araki at his most untethered to reality, and you should be equal parts excited and horrified.
+
+### Though I Am an Inept Villainess ‒ Episode 10
+Tue, 15 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-10/.241779
+
+The Inner Palace is essentially a human kodoku – or at least, I’d bet that’s how Shu Gabi sees it.
+
+### Beyblade X Anime's Visual Reveals New 'Bey Kingdom Arc' for October 9
+Tue, 15 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/beyblade-x-anime-visual-reveals-new-bey-kingdom-arc-for-october-9/.241809
+
+Anime premiered in October 2023
+
+### One Piece: Grand Gourmet Cooking Management Simulation Game's Trailer Previews Cooking, Interior Design, Characters
+Tue, 15 Sep 2026 10:57:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/one-piece-grand-gourmet-cooking-management-simulation-game-trailer-previews-cooking-interior-design-/.241808
+
+Game launches for Switch 2, Switch, PC, iOS, Android on October 23
+
+### Reborn as a Space Mercenary TV Anime Unveils Promo Video, More Cast, Visual
+Tue, 15 Sep 2026 10:38:13 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/reborn-as-a-space-mercenary-tv-anime-unveils-promo-video-more-cast-visual/.241806
+
+Trailer previews FLOW's opening theme song for October 4 anime
 
 ### Goodbye, Lara ‒ Episode 11
 Tue, 15 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/goodbye-lara/episode-11/.241774
@@ -11,56 +61,6 @@ What is a witch but a woman with more power and knowledge than the world is comf
 Tue, 15 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-15/.241758
 
 You know what they say about people who fail to learn from history.
-
-### Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 22
-Tue, 15 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-22/.241768
-
-Team Devimuse changed their look, their song style, and their performance before switching back to their classic. Gyari’s basically just loud.
-
-### Daemons of the Shadow Realm ‒ Episode 23
-Tue, 15 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-23/.241745
-
-We are so disconnected from the time and the politics of the Sengoku era that restarting that war seems laughably insane.
-
-### A Returner's Magic Should Be Special Season 2's New Video Reveals October 7 Debut
-Tue, 15 Sep 2026 08:02:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/a-returner-magic-should-be-special-season-2-new-video-reveals-october-7-debut/.241801
-
-Trailer also previews opening song "Sorrow" by rock band FLOW
-
-### Sparks of Tomorrow ‒ Episode 11
-Tue, 15 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-11/.241742
-
-It’s more than clear to me at this point that <i>Sparks of Tomorrow</i> is limping to its predictable conclusion, and I very much look forward to not watching what’s likely to go down as Kyoto Animation’s worst work.
-
-### Nia Liston: The Merciless Maiden Anime Adds 2 More Cast Members
-Tue, 15 Sep 2026 06:27:25 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/nia-liston-the-merciless-maiden-anime-adds-2-more-cast-members/.241799
-
-Tomoyo Takayanagi, Yūki Urushiyama join cast of October 6 anime
-
-### Ace of Diamond Act II Second Season's 2nd Part Unveils Theme Songs in New Video
-Tue, 15 Sep 2026 06:09:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/ace-of-diamond-act-ii-second-season-2nd-part-unveils-theme-songs-in-new-video/.241798
-
-GLAY performs "NEVER SAY NEVER AGAIN" opening, OxT performs ending song "ROAD TO BE BLUE"
-
-### Jujutsu Kaisen Rumble: Survivaton Game Delayed to 2027
-Tue, 15 Sep 2026 05:00:09 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/jujutsu-kaisen-rumble-survivaton-game-delayed-to-2027/.241796
-
-Game initially slated for this year
-
-### Yuka Ōshima's 'Haru to Gen ~70-sai, Hajimete Kosodate~' Manga Gets Short TV Anime
-Tue, 15 Sep 2026 03:57:26 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/yuka-oshima-haru-to-gen-~70-sai-hajimete-kosodate~-manga-gets-short-tv-anime/.241794
-
-Kōdai Satō directs anime about 70-year-old man raising his young granddaughter at Imagica Infos/Imageworks Studio
-
-### Funbarus Posture Support Plush Toys Get Short TV Anime
-Tue, 15 Sep 2026 03:01:06 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/funbarus-posture-support-plush-toys-get-short-tv-anime/.241792
-
-Anime debuts on October 3; uses "2D x AI hybrid" animation production process
-
-### Get Your Very Own Pokémon Spam in South Korea
-Mon, 14 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-14/get-your-very-own-pokemon-spam-in-south-korea/.241764
-
-Not made from real Pokémon
 
 ## Crunchyroll News
 
@@ -129,6 +129,11 @@ Mon, 14 Sep 2026 12:33:14 GMT — https://animecorner.me/interview-vk-blanka-on-
 During his visit to the German convention AnimagiC, we sat down with singer and&hellip;
 
 ## MyAnimeList News
+
+### Fall 2026 Preview
+Tue, 15 Sep 2026 10:24:18 -0700 — https://myanimelist.net/news/74723259?_location=rss
+
+In this thread, you ll find a comprehensive list of Fall 2026 titles with an accompanying promotional video, commercial, teaser, or trailer. This post will be updated to include a video for titles that are missing one, leading up to the start of the season. Titles that already have a video embedded will instead have their newly released videos added to the video tab in their respective entries. For convenience, the video tab can be accessed via the additional videos link next to the embedde...
 
 ### Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai Unveils Additional Cast, Staff, Theme Songs, First Promo
 Tue, 15 Sep 2026 04:59:05 -0700 — https://myanimelist.net/news/74722593?_location=rss
