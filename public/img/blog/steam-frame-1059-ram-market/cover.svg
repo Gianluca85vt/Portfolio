@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Steam Frame costs $1,059 because of RAM prices">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#3B1060"/>
+      <stop offset="100%" stop-color="#7621B0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C77DFF"/>
+      <stop offset="100%" stop-color="#EBD4FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <text x="90" y="150" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="6" fill="#C77DFF" opacity="0.85">VALVE STEAM FRAME</text>
+
+  <text x="90" y="345" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="180" font-weight="700" fill="url(#accent)">$1,059</text>
+
+  <text x="90" y="425" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#F3E8FF" opacity="0.92">256GB · 14 September 2026</text>
+
+  <rect x="90" y="480" width="170" height="4" fill="#C77DFF" opacity="0.7"/>
+
+  <text x="90" y="565" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="600" fill="#FFFFFF">16GB LPDDR5X, unified</text>
+  <text x="90" y="625" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" font-weight="400" fill="#E6D2F5" opacity="0.88">the one component Valve could not shrink</text>
+</svg>
