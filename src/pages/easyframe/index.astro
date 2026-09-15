@@ -524,7 +524,7 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
   <div class="grid-bg"></div>
   <div class="wrap">
     <div style="text-align:center">
-      <span class="badge"><span class="dot"></span> Version 0.1.0 &middot; Windows 10 and 11 &middot; Italian interface</span>
+      <span class="badge"><span class="dot"></span> Version 0.1.0 &middot; Windows 10 and 11 &middot; macOS beta &middot; Italian interface</span>
       <h1>We tell you what it costs<span class="g prima">BEFORE</span>you click.</h1>
       <p class="lede" style="margin-left:auto;margin-right:auto">
         AI images and video, on your own graphics card or in the cloud. EasyFrame shows
@@ -912,7 +912,7 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
 
     <details class="limits-box">
       <summary class="limits-toggle">
-        <span class="apri">Show the nine limits</span>
+        <span class="apri">Show the ten limits</span>
         <span class="chiudi">Hide the limits</span>
       </summary>
       <div class="limits">
@@ -964,6 +964,13 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
         <p>The installer is not code-signed yet, so SmartScreen shows &ldquo;Windows protected
         your PC&rdquo;. Click More info, then Run anyway.</p>
       </div>
+      <div class="limit">
+        <b>macOS is in beta</b>
+        <p>The Apple Silicon build passes the automated tests on macOS, but nobody has used it with
+        ComfyUI on a real Mac yet: some fp8 models may fail to load on Metal. It isn&rsquo;t signed by
+        Apple, so the first time you open it from System Settings &rarr; Privacy &amp; Security &rarr;
+        Open Anyway, and ComfyUI is installed separately with ComfyUI Desktop.</p>
+      </div>
       </div>
     </details>
   </div>
@@ -988,7 +995,7 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
         <p class="once">No subscription, no expiring credits, no generation cap.</p>
 
         <ul class="plist">
-          <li><svg viewBox="0 0 24 24"><path d="M5 12l4 4L19 6"/></svg>The application for Windows 10 and 11</li>
+          <li><svg viewBox="0 0 24 24"><path d="M5 12l4 4L19 6"/></svg>The application for Windows 10 and 11, plus the beta for Apple Silicon Macs</li>
           <li><svg viewBox="0 0 24 24"><path d="M5 12l4 4L19 6"/></svg>Fourteen presets and twelve ready workflows</li>
           <li><svg viewBox="0 0 24 24"><path d="M5 12l4 4L19 6"/></svg>Prompt from an image: it reads the picture and writes the prompt for the preset</li>
           <li><svg viewBox="0 0 24 24"><path d="M5 12l4 4L19 6"/></svg>Verified downloads for all ten model bundles</li>
@@ -1057,8 +1064,10 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
       </details>
       <details>
         <summary>Which operating systems does it run on?</summary>
-        <div class="ans">Windows 10 and 11. The code is written for macOS and Linux as well, but
-        installable packages for those systems don&rsquo;t exist yet, so buy it only if you use Windows.</div>
+        <div class="ans">Windows 10 and 11. Apple Silicon Macs (M1 and later) get a <b>beta</b>:
+        built and checked automatically on macOS, not yet tried on a real Mac with ComfyUI, and not
+        signed by Apple. On a Mac, ComfyUI is installed separately with ComfyUI Desktop. There is no
+        Linux package.</div>
       </details>
       <details>
         <summary>How do refunds work?</summary>
