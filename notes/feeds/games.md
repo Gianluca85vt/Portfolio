@@ -1,6 +1,11 @@
-# Games — harvested 2026-09-14T20:34:03.369Z
+# Games — harvested 2026-09-15T09:35:42.192Z
 
 ## Eurogamer
+
+### Injustice 3 is seemingly the mysterious, unannounced fighting game that's been hosting playtests in California
+Tue, 15 Sep 2026 08:35:05 +0000 — https://www.eurogamer.net/injustice-3-playtests-leak
+
+NetherRealm's next project has yet to be officially announced, but many believe it to be the third entry in the studio's superhero fighting game series Injustice. Now, there are new signs that select few outside the studio are playing Injustice 3. Read more
 
 ### GTA 6's first confirmed actor is King of the Hill's Stephen Root: "It's an amazing thing to look at"
 Mon, 14 Sep 2026 19:04:43 +0000 — https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root
@@ -57,12 +62,12 @@ Mon, 14 Sep 2026 08:29:01 +0000 — https://www.eurogamer.net/the-last-of-us-2-m
 
 Development on a multiplayer PvP mod for The Last of Us Part 2 on PC has been halted after PlayStation got in touch and asked the developers to cease work on the project. Read more
 
-### Blizzard confirms no more Diablo 4 expansions from now until Diablo 5's release
-Mon, 14 Sep 2026 08:19:11 +0000 — https://www.eurogamer.net/diablo-4-expansions-over
-
-One of the biggest questions that emerged following the surprise reveal of Diablo 5 at BlizzCon over the weekend surrounded the future of Diablo 4 . Blizzard announced a returning class - the Amazon - coming to the game sometime in the first half of 2027, but nothing beyond that. Read more
-
 ## GamesIndustry.biz
+
+### Curve Games partners with Wayfinder Studios to publish online co-op RPG Wyldheart
+Tue, 15 Sep 2026 07:44:48 +0000 — https://www.gamesindustry.biz/curve-games-partners-with-wayfinder-studios-to-publish-online-co-op-rpg-wyldheart
+
+Curve Games has partnered with independent developer Wayfinder Studios to publish Wyldheart, its online co-op RPG. Read more
 
 ### Level-5 CEO admits using generative AI in recent showcase
 Mon, 14 Sep 2026 20:10:38 +0000 — https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase
@@ -115,6 +120,16 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### 4 New September 2026 PS Plus Extra, Premium Games Available to Download Now
+Tue, 15 Sep 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/09/4-new-september-2026-ps-plus-extra-premium-games-available-to-download-now
+
+Full lineup outside of UK, USA, and Japan. PS Plus Extra and PS Plus Premium members have at least some fresh subscription titles to play as of today, with the main September 2026 refresh dropping now. If you're in the UK, USA, or Japan, you only get the four listed below today, as the rest are being saved for the coming weeks. If you live anywhere else in the world, you get the entire September 2026 PS Plus Extra and PS Plus Premium lineup today. Read the full article on pushsquare.com
+
+### Guide: Marvel s Wolverine Guide: 100% Collectibles Walkthrough
+Tue, 15 Sep 2026 04:00:00 GMT — https://www.pushsquare.com/guides/marvels-wolverine-guide-100percent-collectibles-walkthrough
+
+The ultimate Wolverine PS5 collectibles resource. In this Marvel's Wolverine guide , we will reveal a 100% collectibles walkthrough that documents where to find all of the Nightmare Doors , Material Crates , and Whisky Bottles in every Mission. We'll highlight all Suits and how to get them as well as all Missions and Chapters in the game too. <toc expand="none"> Read the full article on pushsquare.com
+
 ### Marathon s Future Questioned as Bungie Delays Big Update and Scraps Seasonal Schedule
 Mon, 14 Sep 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule
 
@@ -165,16 +180,6 @@ Mon, 14 Sep 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/09/lies-o
 
 It'll follow through on that ending tease. The name of the Lies of P sequel Round8 Studio has in the works may have made its way online from a trademark filing made by publisher Neowiz. For those who have finished the excellent Souls-like title, what the follow-up might be about has already been teased in an ending cutscene, so the name of the sequel is somewhat of a spoiler. Read the full article on pushsquare.com
 
-### Here s Your First Look at Kingdom Hearts Sora as He Joins Fortnite This Week
-Mon, 14 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/09/heres-your-first-look-at-kingdom-hearts-sora-as-he-joins-fortnite-this-week
-
-What the heart wants. Fortnite's current season, entitled Override , is celebrating numerous games and characters with many crossovers, and a major player in the season is Kingdom Hearts . Epic Games has now officially unveiled how Sora will look in its massively popular shooter with the below video: Read the full article on pushsquare.com
-
-### Mini Review: Mewgenics (PS5) - The Best Roguelike Since The Binding of Isaac
-Mon, 14 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/reviews/ps5/mewgenics
-
-"Can I pet your kitties?". In this day and age with the large AAA game budgets, you'd never expect a team of just two developers to come out with a GOTY-contending indie title. Mewgenics , from The Binding of Isaac creator Edmund McMillen and The End Is Nigh programmer Tyler Glaiel, is a 100+ hour, cat breeding, turn-based, roguelike strategy game that exceeds all expectation. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Valve's Steam Frame pricing starts at $1,059
@@ -194,104 +199,124 @@ The Goodbye Volcano High and Young Suns developer has eliminated 13 roles.
 
 ## VGC
 
+### Phantasy Star Online is now fully playable in your web browser via PSO Reborn
+Tue, 15 Sep 2026 09:13:56 +0000 — https://www.videogameschronicle.com/news/phantasy-star-online-is-now-fully-playable-in-your-web-browser-via-pso-reborn/
+
+Phantasy Star Online is unofficially playable via browser thanks to emulation and vibe coding… Source
+
+### Lies of P studio Neowiz has filed a trademark for Wonders of O, an apparent Wizard of Oz themed sequel
+Tue, 15 Sep 2026 06:28:33 +0000 — https://www.videogameschronicle.com/news/lies-of-p-studio-neowiz-has-filed-a-trademark-for-wonders-of-o-an-apparent-wizard-of-oz-themed-sequel/
+
+All signs point to an Oz-based game being in in the works… Source
+
+### Asha Sharma has been personally responding to Xbox users support tickets
+Tue, 15 Sep 2026 02:32:45 +0000 — https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/
+
+The Xbox CEO reportedly spends hours every month personally solving player issues… Source
+
+### Fan PS5 boycott over discs seemingly has little impact in US
+Tue, 15 Sep 2026 02:08:05 +0000 — https://www.videogameschronicle.com/news/fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us/
+
+There was "no significant change at all” in player count during PS5 boycott… Source
+
+### Marvel s Wolverine Greased Trophy Guide: Read Callisto’s journal in her Vancouver garage
+Tue, 15 Sep 2026 01:49:58 +0000 — https://www.videogameschronicle.com/guide/marvels-wolverine-greased-trophy-guide-read-callistos-journal-in-her-vancouver-garage/
+
+Wondering where Callisto's journal is in Marvel's Wolverine? Read this guide to find out… Source
+
+### Fans deserve this : Sega is turning more of its games into movies with Netflix
+Tue, 15 Sep 2026 01:40:11 +0000 — https://www.videogameschronicle.com/news/fans-deserve-this-sega-is-turning-more-of-its-games-into-movies-with-netflix/
+
+Crazy Taxi and Stranger Than Heaven are getting the movie treatment… Source
+
+### Marvel s Wolverine Poseidon s Kiss Trophy Guide: Activate the kissing toilet in the Tokyo bar bathroom
+Tue, 15 Sep 2026 01:31:39 +0000 — https://www.videogameschronicle.com/guide/marvels-wolverine-poseidons-kiss-trophy-guide-activate-the-kissing-toilet-in-the-tokyo-bar-bathroom/
+
+Wondering how to Activate the kissing toilet in the Tokyo bar bathroom? This guide explains how… Source
+
+### Ubisoft delays Rayman Legends Retold weeks before planned release
+Tue, 15 Sep 2026 01:22:00 +0000 — https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/
+
+The Rayman Legends remake has been pushed to the end of the year… Source
+
+### Marvel s Wolverine All Whisky Bottle Locations: Find every Whisky Bottle in Marvel s Wolverine
+Tue, 15 Sep 2026 01:13:58 +0000 — https://www.videogameschronicle.com/guide/marvels-wolverine-all-whisky-bottle-locations-find-every-whisky-bottle-in-marvels-wolverine/
+
+Looking for every Whisky Bottle in Marvel's Wolverine? We' Source
+
 ### You can now sign up to order Valve’s Steam Frame VR headset, it costs over $1,000 but includes Half-Life: Alyx
 Mon, 14 Sep 2026 17:32:33 +0000 — https://www.videogameschronicle.com/news/you-can-now-sign-up-to-order-valves-steam-frame-vr-headset-it-costs-over-1000-but-includes-half-life-alyx/
 
 Fans can now sign up for a waiting list to order Valve’s new Steam Frame … Source
 
-### The Blizzard X CD Projekt Red collaboration continues with Cyberpunk outfits in Overwatch
-Mon, 14 Sep 2026 13:04:28 +0000 — https://www.videogameschronicle.com/news/the-blizzard-x-cd-projekt-red-collaboration-continues-with-cyberpunk-outfits-in-overwatch/
-
-Cyberpunk: Edgerunners skins are coming to Overwatch and Geralt in Diablo 4 is revealed… Source
-
-### The other Xbox 360 exclusive JRPG from the creator of Final Fantasy now has a PC port
-Mon, 14 Sep 2026 12:17:50 +0000 — https://www.videogameschronicle.com/news/the-other-xbox-360-exclusive-jrpg-from-the-creator-of-final-fantasy-now-has-a-pc-port/
-
-Lost Odyssey is now playable on PC thanks to a fan-made static recompilation port… Source
-
-### Resident Evil film director says he stripped out as much of the jokes as possible after test screenings
-Mon, 14 Sep 2026 08:37:58 +0000 — https://www.videogameschronicle.com/news/resident-evil-film-director-says-he-stripped-out-as-much-of-the-jokes-as-possible-after-test-screenings/
-
-I liked the movie a lot more… Source
-
-### Video: Check out the multiplayer modes in Crazy Taxi World Tour in our PC footage
-Mon, 14 Sep 2026 08:14:06 +0000 — https://www.videogameschronicle.com/news/video-check-out-the-multiplayer-modes-in-crazy-taxi-world-tour-in-our-pc-footage/
-
-Our video shows two Pickup Races and two Cops & Cabbies contests in action… Source
-
-### Last of Us Part 2 multiplayer mod canceled by Sony
-Sun, 13 Sep 2026 23:22:02 +0000 — https://www.videogameschronicle.com/news/last-of-us-part-2-multiplayer-mod-canceled-by-sony/
-
-Multiplayer mod team say they're cancelling its release due to a request from PlayStation… Source
-
-### Level 5 boss admits using AI for Professor Layton, Yo-Kai Watch reveals
-Sun, 13 Sep 2026 12:16:34 +0000 — https://www.videogameschronicle.com/news/level-5-boss-admits-using-ai-for-professor-layton-yo-kai-watch-reveals/
-
-CEO apologises for using generative AI for recent Level 5 showcase… Source
-
-### Blizzard announced Diablo and StarCraft games that are years away ‘to show confidence’
-Sun, 13 Sep 2026 11:30:01 +0000 — https://www.videogameschronicle.com/news/blizzard-announced-diablo-and-starcraft-games-that-are-years-away-to-show-confidence/
-
-Blizzard’s president says the company will ship Diablo and StarCraft on time… Source
-
-### BlizzCon 2026: Every announcement from Blizzard’s opening ceremony
-Sat, 12 Sep 2026 21:26:29 +0000 — https://www.videogameschronicle.com/news/blizzcon-2026-every-announcement-from-blizzards-opening-ceremony/
-
-From Diablo V, to StarCraft… Source
-
 ## Polygon
 
-### 'Spider-Man: Brand New Day' Has Been Officially Dethroned at the Box Office
-Mon, 14 Sep 2026 20:31:01 GMT — https://www.polygon.com/spider-man-brand-new-day-box-office-domestic-record-practical-magic-2/
+### 007 First Light Significantly Delayed on Nintendo Switch 2
+Tue, 15 Sep 2026 09:21:42 GMT — https://www.polygon.com/007-first-light-nintendo-switch-2-delayed/
 
-Spider-Man's reign at the box office is over — kind of. Spider-Man: Brand New Day has been the top-grossing film at the domestic box office since its release on July 31, but that streak came to an end over the weekend. Nicole Kidman and Sandra Bullock's new legacy sequel Practical Magic 2 raked in $30 million over the weekend, taking the top spot. Brand New Day had to settle for the number two spot with $8.4 million.
+007 First Light was initially set to release on all platforms simultaneously, but things did not go according to plan. Although the game has been out since late May on PlayStation 5, Xbox Series X/S, and Windows Pc, it is still not available on Nintendo Switch 2. Unfortunately for those who were waiting eagerly, 007 First Light 's Switch 2 launch date has been pushed back again.
 
-### Magic’s 10 Best Alchemy Cards, Ranked Worst to Best
-Mon, 14 Sep 2026 20:30:15 GMT — https://www.polygon.com/magic-the-gatherings-10-best-alchemy-cards-ever-ranked/
+### 5 Near-Perfect PS2 Games Nobody Played
+Tue, 15 Sep 2026 08:30:14 GMT — https://www.polygon.com/ps2-games-no-one-played/
 
-Love it or hate it, Alchemy fundamentally expanded Magic ’s mechanical lexicon. It proved a digital platform that could just as easily test ideas physically impossible on cardboard as much as it simulated paper play. Drafting the Power Nine from thin air, altering card stats permanently across zones, and directly patching first-player win-rate disparities horrified MTG purists, yet it also gave digital players a hyper-evolving metagame that embraced software's speed.
+Few video game consoles have a game library as deep as the PlayStation 2 . Sony’s console was a megahit in the early 2000s, and every developer wanted a piece of it. Over 4,000 games were made for the PS2, and nearly 2,000 of those were exclusive to the platform. For the time, that was an astronomical number of games.
 
-### Nintendo Opens the Zelda: Ocarina of Time Pre-orders Fans Were Waiting For
-Mon, 14 Sep 2026 19:59:35 GMT — https://www.polygon.com/switch-2-zelda-ocarina-of-time-instrument-preorders-price-release-date/
+### 7 Best Classic Noir Movies to Watch if You Loved 'Spider-Noir'
+Tue, 15 Sep 2026 08:00:14 GMT — https://www.polygon.com/best-classic-film-noir-movies-to-watch-if-you-loved-spider-noir/
 
-Nintendo concluded the official gameplay reveal of The Legend of Zelda: Ocarina of Time with pre-orders for items like the 40th Anniversary Switch 2 console and the foil cover variant of the game. Conspicuously missing from this lineup was the musical instrument that the Zelda remake centers on: the actual ocarina. Nintendo didn't share a price, nor did it say when the blue accessory would release. Now, the Japanese publisher has surprised fans with an Ocarina of Time pre-order shadow drop.
+Spider-Noir may have been unceremoniously canceled after a compelling first season, but Nicolas Cage's turn as the spider hero will forever remain a classic and authentic entry in the noir genre. Truly, the Prime Video series is nothing like the live-action Spider-Man films that have preceded it. The show is much more similar to the films it’s inspired by (minus the web-slinging , of course). Being a hard-boiled detective story with morally ambiguous characters, all accented by moody lighting and a running inner monologue, Spider-Noir draws heavily from the genre known as “film noir.” Coming into prominence in the 1940s and 1950s, film noir covers a range of genres, but the movies that fit the bill are mostly crime dramas, often with a detective or private eye at the center. They're also fairly cynical in nature, as they depict a corrupt world informed by the desperation of the Great Depression and the horrors of World War II.
 
-### World of Warcraft Forever Will be the Easiest Way into WoW in 20 Years
-Mon, 14 Sep 2026 18:30:14 GMT — https://www.polygon.com/world-of-warcraft-forever-wow-approachable-casual-new-players/
+### 22 Years Later, Jason Momoa's Overlooked Sc-Fi Series Is Officially Free on YouTube
+Tue, 15 Sep 2026 08:00:14 GMT — https://www.polygon.com/jason-momoa-overlooked-sci-fi-adventure-is-now-streaming-for-free/
 
-Forever , which was wished into being by fans who conceived it as "Classic Plus," has new content: new zones, quests, dungeons, a new playable race. It's got some quality-of-life improvements, new features, upgraded visuals. And while it ignores most of the improvements and changes in design philosophy made over the last 20 years in the main game, it also has a few radical modernizations which have yet to come to "modern" WoW , including one which probably never will.
+In 1994, director Roland Emmerich released Stargate , a sci-fi adventure meant to be the first in a planned trilogy. Although these plans fell through (don't worry, Emmerich followed that up with Independence Day ), it wasn't the end of the story. A few years later, Brad Wright and Jonathan Glassner expanded the film’s universe with Stargate SG-1 , which went on to run for 10 successful seasons on the Sci-Fi Channel (now SyFy).
 
-### Valve's VR Headset Costs $1,000+, and Reservations Are Open Now
-Mon, 14 Sep 2026 17:50:02 GMT — https://www.polygon.com/steam-machine-valve-vr-headset-price-availability-how-to-preorder/
+### Walton Goggins's Performance is a Standout in HBO's Overlooked, Near-Perfect Comedy
+Tue, 15 Sep 2026 07:03:14 GMT — https://www.polygon.com/walton-goggins-righteous-gemstones-overlooked/
 
-Last fall, Valve revealed a new lineup of hardware , including a GameCube-shaped gaming PC, called the Steam Machine , and a new controller. Also announced was the Steam Frame, Valve's VR headset. While price and release details for the Steam Machine were revealed in late June , VR gamers have been waiting for Valve to say just how much the Steam Frame would cost. On Monday, Valve officially announced the Steam Frame's price, and it's going to run you a pretty penny.
+Walton Goggins is an actor's actor, slipping from one genre to the next. There seems to be no shortage of his range. From Fallout to The White Lotus , Goggins easily disappears into each role, despite being recognizable. He's the kind of actor that has a knack for knowing just how to tap in, even when — and sometimes especially when — the material is absolutely bonkers.
 
-### Sega and Netflix Announce an Official Crazy Taxi Movie
-Mon, 14 Sep 2026 17:31:41 GMT — https://www.polygon.com/crazy-taxi-movie-announced-sega-netflix-sonic-stranger-than-fiction/
+### Fourth Wing Officially Returns in 2 Weeks — But There's a Catch
+Tue, 15 Sep 2026 07:00:15 GMT — https://www.polygon.com/threshing-day-empyrean-series-comes-out-2-weeks/
 
-Netflix and Sega just announced a multi-title collaboration that will bring Crazy Taxi to the big screen. The film adaptation will be written by Dan Gregor and Doug Mand, who previously wrote the screenplay for The Naked Gun ’s 2025 reboot. Several producers from the Sonic franchise — Neal H. Moritz, Toby Ascher, and Toru Nakahara — are producing the movie.
+Rebecca Yarros is one of the biggest names in publishing . As the author of The Empyrean Series, Yarros is a part of a pop culture phenomenon that’s akin to Harry Potter and the Twilight Saga when it comes to its sales and reach. The book series, which began with 2023’s Fourth Wing , follows Violet Sorrengail, a young woman whose dreams of leading a scholarly life are dashed by her mother, who enrolls her in a dangerous academy for dragon riders. There, she meets her rival and love interest, Xaden Riorson.
 
-### New Walmart promo is the safest way to buy 'Pokémon' 30th anniversary TCG on release day
-Mon, 14 Sep 2026 17:28:07 GMT — https://www.polygon.com/walmart-pokemon-30th-anniversary-tcg-card-release-raffle-drawing-when-what/
+### 27 Years Later, 1 of the Best Detective Thriller Series of All Time is Officially Free on Streaming
+Tue, 15 Sep 2026 04:41:14 GMT — https://www.polygon.com/angel-streaming-rec-tubi/
 
-We are merely days away from the grand release of the Pokémon 30th anniversary trading card game set, which means that fans everywhere are formulating an attack plan to secure the new products. While some were lucky enough to pre-order at retailers like The Pokémon Center or Target, just as many — if not more — are heading into September 16 with nothing but uncertainty. Thanks to a new Walmart initiative, however, fans have a great option for buying the 30th anniversary set that doesn't involve lining up outside a store or badgering poor retail employees on the phone.
+Buffy: The Vampire Slayer is widely considered to be one of the best and most influential TV shows of all time. Series creator Joss Whedon crafted such a rich mythology for vampires, demons, witches, and mad gods that it provided material for seven seasons of escalating threats for Buffy Summers (Sarah Michelle Gellar) and her friends, aka the Scooby Gang. That world building also paid off in one of the best TV spinoffs of all time – which is now streaming for free on Tubi.
 
-### Rayman Legends Retold Officially Delayed Less Than a Month Before Release
-Mon, 14 Sep 2026 17:26:00 GMT — https://www.polygon.com/rayman-legends-retold-ubisoft-delay/
+### All bosses in Marvel's Wolverine
+Tue, 15 Sep 2026 04:01:15 GMT — https://www.polygon.com/marvels-wolverine-bosses-list/
 
-This fall is going to be one of the busiest seasons for game releases in recent memory. Grand Theft Auto 6 is the biggest title, but hardly the only one. Yet among the dozens of games set to launch in the coming months, only one is from Ubisoft. That would be Rayman Legends Retold , a remake of the 2013 original. Now, the game has been delayed.
+There are quite a few bosses in Marvel's Wolverine , but that's hardly a surprise because you can't have a superhero game without some boss fights now, can you? Each of them takes place against a classic Marvel character, and every boss fight is a fantastic set piece with the level of polish you'd expect from Insomniac Games.
 
-### Lies of P Leak All but Confirms Where the Series Goes Next
-Mon, 14 Sep 2026 17:15:52 GMT — https://www.polygon.com/lies-of-p-2-sequel-title-leaked/
+### Marvel's Wolverine mission list and length, explained
+Tue, 15 Sep 2026 04:01:15 GMT — https://www.polygon.com/marvels-wolverine-missions-list-length-how-long/
 
-Lies of P is one of the most successful non-FromSoftware Soulslikes, having sold more than 4 million copies since its 2023 release. A post-credits scene hinted at where the series might go next, and a new trademark filing has all but confirmed what classic story the sequel will adapt.
+Marvel's Wolverine has dozens of missions to complete, and can take a long time to finish depending on how you play. Insomniac Games' latest superhero blockbuster is a much more linear experience than its previous Spider-Man games, and while that means there's less exploration to do, there's still plenty of no-nonsense, classic combat here in Marvel's Wolverine .
 
-### Jason Statham's 95-minute Action Thriller Officially Redeems Itself on Streaming
-Mon, 14 Sep 2026 17:09:44 GMT — https://www.polygon.com/jason-statham-mutiny-streaming-hit-amazon-apple-tv-september-2026/
+### All whisky bottle locations in Marvel's Wolverine
+Tue, 15 Sep 2026 04:01:15 GMT — https://www.polygon.com/marvels-wolverine-whisky-bottle-locations-collectibles-where-to-find/
 
-Jason Statham has never been particularly interested in proving he can do everything. From The Transporter and Crank to The Mechanic , Wrath of Man , and The Beekeeper , the actor has built a career out of playing variations on the same basic idea: give Statham a dangerous man with a mysterious past, put some bad guys in front of him, and let him solve the problem with his fists.
+There are 20 whisky bottles in Marvel's Wolverine , spread throughout the game's many levels. Thanks to Logan's heightened sense of smell, a blue trail will appear whenever he's near one, leading him directly to a bottle of his favorite beverage, but even with this assist, some of them are easy to miss. If you want to ensure you don't miss a single whisky bottle collectible throughout Marvel's Wolverine , we're here to help.
 
 ## PC Gamer
+
+### Here's the Aniimo release time for your region
+Tue, 15 Sep 2026 02:00:00 +0000 — https://www.pcgamer.com/games/rpg/aniimo-release-date-launch-times/
+
+The Aniimo release time is almost here, unveiling the world of Idyll and its many creatures for you to catch. This game certainly seems to be trying to tap into that Palworld vein of an open world filled with recruitable monsters, though admittedly with fewer guns and survival crafting elements. Aniimo is also free-to-play, though apparently not a gacha game, so expect some slightly different monetisation. All that said, here's when you can play Aniimo. Aniimo release times for each region The Aniimo release date is September 15 or 16 depending on your timezone. For folks in the US, it'll be the former, while for those in Europe and the UK, it'll be the latter. Here's exactly when you can load in: September 15 West Coast US : 7 pm PST East Coast US : 10 pm EST September 16 UK : 3 am BST Europe : 4 pm CEST Australia : 12 pm AEST New Zealand : 3 pm NZST If you're unsure whether you can run Aniimo, you can find its specifications on the Steam page . Can you preload Aniimo? Yes, the Aniimo preload unlocks on September 14 at 10 am (UTC+8), which means it's already available. You can download the Aniimo launcher from the official website and then preload the game itself—the size is about 40gb, though the actual download was only 28 for me. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
+
+### Arc Raiders Expeditions may not come back: 'Maybe we'll scrap the whole system'
+Mon, 14 Sep 2026 21:42:00 +0000 — https://www.pcgamer.com/games/fps/arc-raiders-expeditions-may-not-come-back-maybe-well-scrap-the-whole-system/
+
+Embark Studios announced a "pause" on Expeditions in Arc Raiders until early 2027 so it can rework the system to address longstanding issues and complaints that can't be handled with "incremental fixes." In a recent interview with PCGamesN , though, Arc Raiders executive producer Aleksander Grøndal said the studio might go even further by ditching Expeditions entirely. Expeditions are essentially Arc's equivalent of prestiging in Call of Duty: High-level players invest time and resources into a "caravan" that ultimately—within the context of the game's fiction—enables their character to leave the Rust Belt forever. Practically speaking, it's a full reset of levels, skills, and inventory, in exchange for certain unique benefits conferred upon the player's new character. It's a major undertaking, and many Arc players haven't been happy with the amount of grind involved for a relatively minor payoff. Announcing the pause in August, Embark said many of the issues raised by players, "like the tight departure windows, the reward structure, and accessibility for new players, need more than incremental fixes. They call for bigger changes." The fifth Expedition, set to depart at the end of September, will be the last until Embark has the overhaul finished—or just cans the whole thing, as the case may be. "Was the system perfect? No, probably not," Grøndal told PCGN at Gamescom. "We want to make some significant changes to the Expedition system. But I think right now we're focused on, 
+
+### After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest
+Mon, 14 Sep 2026 20:48:15 +0000 — https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/
+
+It's been just about a year since Kingmakers , the game about bringing a gun to a knife fight, was delayed just ahead of its planned launch , and we've heard nothing about it since. Today developer Redemption Road finally broke that extended silence with a new "deep dive" trailer detailing everything players will be doing in the game, and also opened the door to signups for an upcoming playtest. First things first: I would be remiss if I didn't at least acknowledge the awkward cinematic interludes. They're really not great, and all I can say is that hopefully they're just bits of exposition built specifically for the trailer and not actually part of the game. That aside, there's a lot going on here. Fighting large numbers of hopelessly outclassed enemies is still the central hook in Kingmakers, but you're also going to be leading armies on a strategic scale, building and managing settlements, and collecting resources so you can buy better equipment. I'm really not sure how I feel about all that. Rolling into Bannockburn behind the wheel of a Leopard 2 has obvious appeal, but do I really want to be worrying about placing farms and erecting fortifications when I could be punching 120mm HEAT-sized holes in some peasant's hovel? But on the other side of that coin, what happens when the novelty of 'you have a sword, I have a SAW' wears off? Sooner or later it might be nice to have other things to do, especially if you're the kind of gamer who occasionally asks questions like, 'Why
 
 ### Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'
 Mon, 14 Sep 2026 20:16:07 +0000 — https://www.pcgamer.com/games/fps/wardogs-players-are-actively-avoiding-one-team-in-particular-they-are-literally-the-dumbest-people-on-the-planet/
@@ -333,25 +358,10 @@ Mon, 14 Sep 2026 17:10:00 +0000 — https://www.pcgamer.com/hardware/vr-hardware
 
 The Valve Index might be outdated in many ways today, but it still holds a special place in my heart for its excellent audio solution: twin speakers that deliver impressive spatial properties without actually touching your ears. The Steam Frame doesn't take the same approach, sadly, but word from Valve is that it's working on a first-party accessory that'll add a set of Index-like speakers to the compact Frame. The Steam Frame is modular. Three small switches are all it takes to completely remove the core module, containing the chip, RAM, storage, optics and more, from the strap. The strap also includes the battery, SD card slot, and speakers. "So the battery, the thermals; I think those will be the ultimate limits of the device," said Jeremy Selan, software engineer at Valve during a pre-launch chat. "We thought of that early. It's no surprise. So that's why we were very proud of making a modular design where the core module is separate from the rear. "And in fact, you might say, 'Hey, what is Valve going to do with this?' We're working on a future first-party accessory where it will plug in and replace the existing [strap]. That head strap will include a hot-swappable battery, and then premium Index-style off-ear audio." When pushed for a date as to when this accessory might be available, Selan joked that he was one of the people who was confident that the Steam Frame would land in early '26, and no longer felt like a credible source on these things. Fair enough. He ended u
 
-### Steam Frame review
-Mon, 14 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/hardware/vr-hardware/valve-steam-frame-review/
-
-The Steam Frame is a great way to game in virtual reality. I've been testing it for three weeks and I've played more VR games in that time than I have in many months. That's because, above all else, it's convenient. What used to slow me down with other headsets is mostly a thing of the past. I place the Steam Frame on my head and pick a game to play; VR has never been easier. But I haven't always been sold on the Steam Frame. I spent the week prior to its arrival playing on the Pimax Dream Air , which includes the most spectacular Micro-OLED displays. That is a tough act to follow for any VR headset, let alone one with optics not dissimilar from the three-year-old Quest 3 . As a long-term VR user and someone that's been privileged to play most of the best VR headsets in recent years, the Steam Frame felt too familiar an experience out of the box. Over many weeks of testing, I've noticed more how the Steam Frame has eased a few of my fundamental gripes with virtual reality; things that cause me to leave my other headsets to gather dust on the shelf. Like how often I need to set up my playspace, set the floor height, peer out from my headset at my computer, adjust the strap, or untangle myself from a cable. A wireless dongle included with the Frame takes care of the cable, delivering a seamless and reliable connection between it and a gaming PC. The fully-featured SteamOS means the first step upon donning the headset is choosing a game, and the second step playing it. The inclu
-
 ### Steam Frame starts at $1,059 and you'll want to enter the stock lottery before September 17 for a higher chance of getting one this year
 Mon, 14 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/hardware/vr-hardware/steam-frame-starts-at-usd1-059-with-reservation-lottery-open-now-enter-before-september-17-for-best-chance-of-getting-one-this-year/
 
 The Steam Frame is ready for launch, and Valve has finally announced pricing and availability for its streaming/standalone VR headset. There are two models of the Steam Frame available: Steam Frame (256 GB) w/ VR controllers: 1,059 USD/ 1,529 CAD/ 1,049 EUR/ 889 GBP/ 1,609 AUD/ 4,539 PLN Steam Frame (1 TB) w/ VR controllers: 1,299 USD/ 1,859 CAD/ 1,279 EUR/ 1,089 GBP/ 1,969 AUD/ 5,549 PLN Valve has two additional purchase available alongside the Steam Frame at launch. There's the Ergonomic Accessories Kit. This costs 49 USD/ 69 CAD/ 59 EUR/ 49 GBP/ 89 AUD/ 229 PLN and includes two hand straps (similar to the Valve Index's), over-the-head strap, and extended light blocker. There's also a power adapter, which costs 29 USD/49 CAD/39 EUR/29 GBP/49 AUD. There's not one included in the box, though any USB Type-C charger of 45 W should cut it if you want to save the cash. (Image credit: Future) How to sign up for a Steam Frame at launch If you don't mind the price, signups for a Steam Frame reservation can be made anytime between now and September 17 at 10 am Pacific Time on the product page . Valve will be doing a one-time randomisation to determine who has a unit reserved for them and who is stuck on the waitlist. This takes place on September 17. From this, Valve will determine who has a unit reserved in their name and who is stuck on the waitlist. Here's Valve on how the reservation system works: Folks can sign up for the model they’d like to purchase between September 14 and Se
-
-### Someone made a copper gaming PC Frankensteined out of an old blowtorch and other assorted parts and is 'just going to let it tarnish over time'
-Mon, 14 Sep 2026 16:43:04 +0000 — https://www.pcgamer.com/hardware/gaming-pcs/someone-made-a-copper-gaming-pc-frankensteined-out-of-an-old-blowtorch-and-other-assorted-parts-and-is-just-going-to-let-it-tarnish-over-time/
-
-Custom Copper 9070xt, 9800x3d Build from r/pcmasterrace There's being into PC hardware and then there's crafting a glorious custom loop. Every time I see the latter I'm hit with a pang of jealousy, and it's no different here with Old-Mate-Fetus' custom copper build on Reddit . We highlighted a similarly impressive different custom copper PC a few months ago. This latest copper build looks a little more extravagant to my eyes, and I'm not sure which I prefer. In the centre is an Alphacool Core RX 9070 XT cooling block. Presumably it is the Aorus Elite version , given the Redditor says the motherboard is a Gigabyte B650M Aurous Elite Wifi. Here's the full list of components (with perhaps slight variations from the specific models linked, which I have added): " Gigabyte 9070 XT Gaming OC AMD Ryzen 7 9800X3D Gigabyte B650M Aorus Elite 32 GB Klevv DDR5-6000 Alphacool GPU cooling block Heatkiller IV CPU cooling block Alphacool DDC pump with custom enclosure Reservoir made from an old Primus blowtorch with sight gauge fitted to it Custom Wooden case Custom cables made from a Corsair 850W SFX power supply Noctua Industrial 120mm fans " According to Old-Mate-Fetus, the build weighs close to 20 kg. The most eye-catching part of the build for me, and what sets it apart from other copper builds I've seen, is that blowtorch. Reminiscent of one of those handheld oil drippers mechanics use, but with a glorious copper sheen, plus a bunch of pipes poking out of it. It makes the whole thing lo
-
-### YouTuber gets classic Tomb Raider running on a chip that sips a mere 1 W of power
-Mon, 14 Sep 2026 16:09:25 +0000 — https://www.pcgamer.com/hardware/youtuber-gets-classic-tomb-raider-running-on-a-chip-that-sips-a-mere-1-w-of-power/
-
-Modern PC gaming may not be the most energy efficient hobby. Even as someone who would sooner play yesteryear's favourite over this month's shiniest new game, I dread to think just how much smaller my electricity bill might be if it wasn't for my gaming rig. Thankfully for retro gaming fiends, energy efficient hardware isn't hard to come by. Case in point, hardware creator Alejandro Villegas Alonso shared a clip of classic Tomb Raider running from a low-power chip . The SoC in question is the ESP32-P4 microcontroller, a lightweight 32-bit RISC-V processor featuring two 400 MHz cores which sips a mere 1 watt of energy according to the data sheet (via Tom's Hardware ). It's not the kind of chip that would usually be used for anything like gaming, rather more for simple tasks in embedded devices such as cameras—that makes it all the more impressive that Alonso has got Tomb Raider up and running on it. It's particularly appealing given you can pick one of these up for very little cash . The chip is running a port of OpenLara, a version of the original Tomb Raider that can be played in your browser with unlocked FPS . This version recreates the classic game in an open source engine so, no, this isn't a teeny tiny original PlayStation emulator or anything like that. Alejandro Villegas Alonso explains via the project's GitHub that this port "runs the classic Tomb Raider 1 engine with software rendering, audio, and USB HID keyboard input on Espressif's latest RISC-V SoC." The project
 
 ## GameSpot
 
@@ -420,7 +430,7 @@ Diablo 5 will launch with more classes than any other game in the franchise, acc
 ### The King Is Watching devs are making The Crab is Walking, this journalist is writing
 Mon, 14 Sep 2026 20:00:00 +0000 — https://www.rockpapershotgun.com/the-king-is-watching-devs-are-making-the-crab-is-walking-this-journalist-is-writing
 
-The King Is Watching developers Hypnohead have announced The Crab Is Walking, a roguelite city-builder in which you alternate between arranging tetronimo-shaped city districts on the back of a colossal crustacean, and sending out armies of Mad Maxalots to slaughter wasteland insects. Unlike in The King Is Watching, you do not have to actively train your gaze on your crab metropolis to stop it slacking off. Read more
+The King Is Watching developers Hypnohead have announced The Crab Is Walking, a roguelite city-builder in which you alternate between arranging tetromino-shaped city districts on the back of a colossal crustacean, and sending out armies of Mad Maxalots to slaughter wasteland insects. Unlike in The King Is Watching, you do not have to actively train your gaze on your crab metropolis to stop it slacking off. Read more
 
 ### "We track every server you enter": the Wardogs devs are "coming down hard" on XP farms and cash exploits, even as they encourage people to grind
 Mon, 14 Sep 2026 19:00:00 +0000 — https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind
@@ -455,7 +465,7 @@ Happy new week all! Over the weekend I banished all thought of rocks, paper or s
 ### "Valve is under the impression that this game is way sexier": Nighthawks devs claim vampire RPG has erroneously been slapped with Steam adult content label
 Mon, 14 Sep 2026 14:38:54 +0000 — https://www.rockpapershotgun.com/valve-is-under-the-impression-that-this-game-is-way-sexier-nighthawks-devs-claim-vampire-rpg-has-erroneously-been-slapped-with-steam-adult-content-label
 
-Disclosure: Nighthawks writer Richard Cobbett has contributed articles to RPS, with his most recent as of writing being a Fable-themed feature from 2018. Vampire RPG Nighthawks has been slapped with a mature content label just as its release beckons, in the latest high-profile instance of Valve's determination of what constitutes an adult game proving controversial. Developers Richard Cobbett and Wadjet Eye Games say they're working on convincing Valve to reverse the decision, which would allow the game to once again show up in Steam searches and no longer be banished to horny jail in some countries. Read more
+Update: Wadjet Eye's Dave Gilbert has confirmed on Bluesky that Nighthawks' "Adults Only" Steam label has been removed, meaning it's no longer locked in horny jail. "Everything is set for launch on the 22nd," he added. "Phew. What a roller coaster. Thank you everyone for your amazing support while we got this sorted." Original story follows: Disclosure: Nighthawks writer Richard Cobbett has contributed articles to RPS, with his most recent as of writing being a Fable-themed feature from 2018. Vampire RPG Nighthawks has been slapped with a mature content label just as its release beckons, in the latest high-profile instance of Valve's determination of what constitutes an adult game proving controversial. Developers Richard Cobbett and Wadjet Eye Games say they're working on convincing Valve to reverse the decision, which would allow the game to once again show up in Steam searches and no longer be banished to horny jail in some countries. Read more
 
 ### Sony letter spells the end for unreleased The Last of Us Part 2 multiplayer mod, its creator says
 Mon, 14 Sep 2026 12:14:56 +0000 — https://www.rockpapershotgun.com/sony-letter-spells-the-end-for-unreleased-the-last-of-us-part-2-multiplayer-mod-its-creator-says

@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-09-14T20:34:03.369Z
+# Film & TV — harvested 2026-09-15T09:35:42.192Z
 
 ## Variety
 
-### Robert Kraft Defends Banning Macklemore From Ed Sheeran Tour After Free Palestine Comments: We Do Not Provide a Platform for Hate Speech
-Mon, 14 Sep 2026 20:25:17 +0000 — https://variety.com/2026/music/news/robert-kraft-macklemore-ed-sheeran-tour-palestine-1236861621/
+### Alma Pöysti, William Spetz, Pekka Strang Join Jon Blahed s Romantic Comedy The Bottom Line (EXCLUSIVE)
+Tue, 15 Sep 2026 09:17:24 +0000 — https://variety.com/2026/film/global/jon-blahed-the-bottom-line-finnish-film-affair-1236861611/
 
-New England Patriots owner Robert Kraft has issued a statement defending his decision to create what amounts to a ban on rapper Macklemore performing in support of Ed Sheeran at a number of stadiums following the rapper’s comments regarding Palestine, which took place at concerts in New Jersey on Sept. 4 and 5. In his [ ]
+Actors Alma Pöysti, William Spetz and Pekka Strang are attached to Jon Blåhed s romantic comedy The Bottom Line, with Pöysti set to play the lead role of Iris. The project will be pitched at the Finnish Film Affair (Sept. 23-25), which is the industry program of the Helsinki Intl. Film Festival. Pöysti is best known [ ]
 
-### Josh Giuliano s TIFF Slasher River Selling to Universal and Blumhouse Atomic Monster for North of $10 Million
-Mon, 14 Sep 2026 20:20:17 +0000 — https://variety.com/2026/film/news/josh-giuliano-river-universal-blumhouse-atomic-monster-1236861599/
+### San Sebastian and Busan Title In My Father s Room Sells Wide for Bitters End (EXCLUSIVE)
+Tue, 15 Sep 2026 09:01:17 +0000 — https://variety.com/2026/film/festivals/san-sebastian-busan-in-my-fathers-room-bitters-end-sales-1236862753/
 
-In the first major deal of the Toronto Film Festival, Joshua Giuliano’s slasher film “River” is in talks to be acquired by Universal Pictures and Blumhouse Atomic Monster, Variety has confirmed. Giuliano’s film was originally backed by Independent Film Company and Shudder, but the companies are now closing a deal to sell distribution rights to [ ]
+Bitters End has sold In My Father s Room to France, Korea, Taiwan and Hong Kong ahead of the film s world premiere in competition at the San Sebastian Film Festival, with several more territories still in negotiation. After San Sebastian, the film will travel to the Busan International Film Festival. Art House Films has picked up [ ]
 
-### How British Comedy Show ‘Mock the Week’ Found New Life on TLC After BBC Cancellation: ‘Absence Makes the Heart Grow Fonder
-Mon, 14 Sep 2026 20:10:33 +0000 — https://variety.com/2026/tv/global/mock-the-week-new-life-tlc-bbc-cancellation-1236861160/
+### Barcelona’s Serielizados Pro Reveals Program and Mind the Gap Co-Pro Pitch: Carlos Marques-Marcet, Vilapuig Sisters Make the Cut (EXCLUSIVE)
+Tue, 15 Sep 2026 07:47:06 +0000 — https://variety.com/2026/tv/global/serielizados-pro-mind-the-gap-mubi-movistar-plus-beta-arte-1236862596/
 
-When long-running BBC comedy show “Mock the Week” returned to television screens after a three-year hiatus this past spring, fans may have noticed some changes: not only was the show longer and “looser” but it was also airing on TLC, the Warner Bros. Discovery-owned network. “It was also a surprise for me that it was [ ]
+Acclaimed Catalan filmmaker Carlos Marques-Marcet (“10,000 km,” TIFF Platform winner “They Will Be Dust”), with his first showrunning gig, and sisters Mireia and Joana Vilapuig (“Selftape”) will rub shoulders with creators from Galicia, Finland, Iceland, Latvia, Mexico and Portugal at the second edition of iSerielizados Mind the Gap co-pro series contest. The international series pitch, [ ]
 
-### Tribeca Award Winner Labrador – Autopsy of Silence Sells to TLA Releasing for the U.S. and the U.K. (EXCLUSIVE)
-Mon, 14 Sep 2026 19:35:07 +0000 — https://variety.com/2026/film/global/tribeca-labrador-autopsy-of-silence-tla-releasing-1236861553/
+### Finland’s Gutsy Pictures Pacts With MTV, Germany’s Zeitsprung, Sweden’s Götafilm on Zaida Bergroth’s ‘Dangerous Woman’ (EXCLUSIVE)
+Tue, 15 Sep 2026 07:00:00 +0000 — https://variety.com/2026/tv/global/gutsy-pictures-mtv-zeitsprung-gotafilm-dangerous-woman-1236861400/
 
-International sales house H264 has sold Rodrigue Jean’s “Labrador – Autopsy of Silence” to TLA Releasing for the U.S. and the U.K. The deal follows the film’s world premiere at the Tribeca Festival, where it won three awards, including best international narrative feature. At Tribeca, the film also received the awards for best cinematography, presented [ ]
+Value-driven Finnish outfit Gutsy Pictures headed by Marika Makaroff (“Moominvalley,” “L/Over”) has secured a greenlight from MTV Finland and added co-producers Zeitsprung in Germany and Götafilm in Sweden for the psycho-thriller “Dangerous Woman.” Already pre-bought by TV4 in Sweden, the six-parter created by Makaroff will be directed by the established Zaida Bergroth, credited for the [ ]
 
-### Emmy Winners: Complete List (Updating Live)
-Mon, 14 Sep 2026 19:00:00 +0000 — https://variety.com/lists/emmy-winners-complete-list/
+### Practical Magic 2 Casts a Spell Over U.K., Ireland Box Office as Oasis Doc Rocks No. 2
+Tue, 15 Sep 2026 06:43:44 +0000 — https://variety.com/2026/film/box-office/practical-magic-2-uk-ireland-box-office-1236862589/
 
-Law Order: SVU star Mariska Hargitay is hosting the TV industry s biggest night as the Emmy Awards are underway Monday evening. HBO s medical drama The Pitt leads all nominees with a huge 25 nominations, including outstanding drama, lead actor and drama director for Noah Wyle and seven performers across supporting actor and actress. The [ ]
+Warner Bros. Practical Magic 2 cast a winning spell over the U.K. and Ireland box office, dethroning Spider-Man: Brand New Day after a six-week reign to claim the top spot with an opening weekend of £2.7 million ($3.7 million). Disney followed closely in second position with the cinema rollout of Oasis: Don t Look Back in [ ]
 
-### Will Poulter to Be Honored at Heartland Film Festival (EXCLUSIVE)
-Mon, 14 Sep 2026 19:00:00 +0000 — https://variety.com/2026/film/columns/will-poulter-honored-heartland-film-festival-1236861479/
+### Kore-eda Hirokazu to Receive Cinema Honorary Award From Singapore Film Festival, Yim Soon-rye to Head Asian Competition Jury
+Tue, 15 Sep 2026 06:01:45 +0000 — https://variety.com/2026/film/festivals/kore-eda-hirokazu-honorary-award-singapore-film-festival-1236862585/
 
-Will Poulter is heading to Indianapolis to be honored at the 35th annual Heartland Film Festival. The actor will attend a special presentation of his recent drama “Union County” from Oscilloscope Laboratories on Oct. 17. Poulter and Noah Centineo play brothers Cody and Jack Parsons who are navigating a court-mandated drug rehabilitation program in a [ ]
+The Singapore International Film Festival (SGIFF) will honor Japanese filmmaker Kore-eda Hirokazu with its Cinema Honorary Award and has named Korean director Yim Soon-rye jury head of its Asian Feature Film Competition. The 37th edition of SGIFF runs Oct. 21 to Nov. 1. Kore-eda will attend a special presentation of Look Back on Oct. 24, [ ]
 
-### Why How Long Gone Created Their Own Awards Show — and Squashed the Beef With Bowen Yang
-Mon, 14 Sep 2026 19:00:00 +0000 — https://variety.com/2026/awards/news/how-long-gone-awards-show-bowen-yang-1236861490/
+### Stephen Colbert Says ‘Free Speech Is Alive and Well’ After Emmy Win Despite CBS Cancellation: Late Night Is ‘Just as Vital as it Ever Has Been’
+Tue, 15 Sep 2026 04:36:14 +0000 — https://variety.com/2026/tv/news/stephen-colbert-free-speech-emmy-win-cbs-cancellation-1236862571/
 
-Tonight in Los Angeles, Hollywood is buzzing ahead of the biggest night in television, as stars of the small screen storm the Emmys. But across the country, a different crowd is preparing for a new awards show, one with performances from indie cult heroes like Nirosta Steel and categories like Ally of the Year “For [ ]
+“The Late Show With Stephen Colbert” may have been canceled by CBS, but after taking home the award for outstanding variety series at Monday night’s Emmy Awards, Stephen Colbert is still optimistic about the state of late-night television. Speaking with CNN correspondent Elizabeth Wagmeister and Variety co-president and co-editor-in-chief Ramin Setoodeh following the Emmy Awards, [ ]
 
-### Adults Season 2 Jumps 40% in Viewership From Season 1
-Mon, 14 Sep 2026 18:47:29 +0000 — https://variety.com/2026/tv/news/adults-season-2-ratings-increase-1236861504/
+### The Life and Deaths of Wilson Shedd Review: Amanda Seyfried and Scoot McNairy Are Powerful in Tim Blake Nelson s Twisty Dark-Side Prison Saga
+Tue, 15 Sep 2026 04:21:56 +0000 — https://variety.com/2026/film/reviews/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried-1236861069/
 
-FX s ensemble comedy series Adults has seen significant growth with its second season. Though Disney did not provide exact metrics, the company reports that Season 2 saw a 40% increase compared to Season 1, accounting for viewers across Hulu and Disney+ globally after 12 days of viewing. Much of the growth coming from outside of [ ]
+Tim Blake Nelson’s "The Life and Deaths of Wilson Shedd" is a gripping, wrenching, dark-as-midnight crime drama that taps into a phenomenon many might view as an underground secret (or maybe they just don’t know anything about it): the relationship that develops, more often than you’d think, between violent incarcerated criminals and civilians who fall in love with them.
 
-### La Gradiva Review: A Brutally Tender Study of Teenage Promise and Fragility That Marks the Arrival of a Major New Filmmaker
-Mon, 14 Sep 2026 18:34:44 +0000 — https://variety.com/2026/film/reviews/la-gradiva-review-1236842930/
+### Mariska Hargitay Leads a Brisk Yet Celebratory Emmys in a Return to Form: TV Review
+Tue, 15 Sep 2026 03:59:16 +0000 — https://variety.com/2026/tv/reviews/emmys-2026-review-1236862540/
 
-At 2 hours 25 minutes, Marine Atlan s stunning debut, La Gradiva, is long if you run a stopwatch. But by any other measure it is as quick as a breath — a deep, ragged but restorative breath — of seasalty, basalty air. It s the first sniff of adulthood and the last gasp of childhood for [ ]
+Last year, the Emmys bet on an unorthodox host in Nate Bargatze and the result was an unmitigated disaster. This year, the Emmys bet on an unorthodox host and were rewarded with an effusive, yet efficient tribute to television at its best. Watching “Law Order: Special Victims Unit” star — and “My Mom Jayne” [ ]
 
-### Sydney Sweeney Loses More Than 200,000 Instagram Followers Amid Growing Backlash Over Her Nude Sports-Betting Ad
-Mon, 14 Sep 2026 18:33:17 +0000 — https://variety.com/2026/digital/news/sydney-sweeney-loses-instagram-followers-nude-ad-backlash-1236861401/
+### Apple TV Wins 28 Emmys Thanks to Widow s Bay Sweep, HBO Max Takes Second Place With Help From The Pitt and DTF St. Louis
+Tue, 15 Sep 2026 03:36:24 +0000 — https://variety.com/2026/tv/news/apple-tv-wins-emmys-widows-bay-hbo-max-1236861206/
 
-Thousands of Instagram users have smashed the unfollow button on Sydney Sweeney’s profile after the actress was featured in and promoted a controversial sports-betting app in which she appears nude with sports equipment obscuring parts of her anatomy. Last Wednesday, Sweeney shared the ad promoting sports-prediction market app Novig on Instagram where it has [ ]
+Widow s Bay was the most-awarded show at the Emmys this year, winning 14 trophies total. The Apple TV comedy already had eight wins under its belt at the start of Monday night s ceremony, having picked up awards including guest comedy actress (Betty Gilpin), comedy casting and music supervision at last week s Creative Arts Emmys. At [ ]
 
 ## The Hollywood Reporter
 
-### Where to Watch the 2026 Emmy Awards Live Online
-Mon, 14 Sep 2026 20:30:45 +0000 — https://www.hollywoodreporter.com/tv/tv-news/how-to-watch-emmys-2026-online-free-live-stream-awards-show-1236700724/
+### Massih Parsaei s San Sebastian-Bound Debut Lovers Sleep Alone Chronicles a Queer Man in Exile (Exclusive Clip)
+Tue, 15 Sep 2026 09:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/massih-parsaei-san-sebastian-bound-lovers-sleep-alone-film-1236701994/
 
-Hosted for the first time by Mariska Hargitay, TV's biggest night will air live on Sept. 14 — here's how to stream both the ceremony and red carpet coverage.
+The Berlin-set feature, following the isolated life of an Iranian man named Iman, will earn its world premiere at the Spanish film festival.
 
-### Lanterns Stars Poorna Jagannathan and Garret Dillahunt Break Down Episode 5’s Fireworks: It s a Game-Recognizes-Game Situation
-Mon, 14 Sep 2026 20:23:50 +0000 — https://www.hollywoodreporter.com/news/general-news/lanterns-poorna-jagannathan-and-garret-dillahunt-episode-5-1236700851/
+### Charlie s Angels Stars Jaclyn Smith, Kate Jackson and Cheryl Ladd Reunite at 2026 Emmys to Honor Farrah Fawcett: Shiniest Angel of All
+Tue, 15 Sep 2026 07:21:33 +0000 — https://www.hollywoodreporter.com/tv/tv-news/charlies-angels-cast-reunion-emmys-2026-1236701477/
 
-The onscreen married couple go deep on a twist neither saw coming until they read it on the page.
+The show is celebrating 50 years since its 1976 debut.
 
-### Israeli Army Chief Orders Legal Review of NAZA Documentary
-Mon, 14 Sep 2026 20:11:47 +0000 — https://www.hollywoodreporter.com/movies/movie-news/israeli-army-chief-orders-legal-review-naza-documentary-1236700856/
+### The Michael J. Fox Tribute, Mariska Hargitay Singing, and Other Highs and Lows From an Ungainly, Ill-Flowing Emmys Telecast
+Tue, 15 Sep 2026 06:49:08 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/2026-emmys-critics-analysis-michael-j-fox-mariska-hargitay-1236701868/
 
-IDF Chief of Staff Eyal Zamir said the documentary, in which IDF soldiers outline what they claim are Israel's tactics of deliberately targeting civilians in Gaza, constitutes "an attack on the State of Israel."
+Producers stuffed the first half of the night with awards and attempted to fill the second half with emotional moments, resulting in a strange lopsided effect.
 
-### Canadian Culture Minister Marc Miller: “In a Crisis, Fortune Favors the Bold” Amid U.S. Trade Tensions
-Mon, 14 Sep 2026 20:00:25 +0000 — https://www.hollywoodreporter.com/tv/tv-news/canadian-film-co-productions-u-s-trade-tensions-1236700845/
+### Inside Zendaya s 2026 Emmys: Date Night With Tom Holland, Surprise Dinner Invite and That Pixie Cut
+Tue, 15 Sep 2026 06:06:02 +0000 — https://www.hollywoodreporter.com/tv/tv-news/zendaya-tom-holland-pixie-haircut-2026-emmys-1236701643/
 
-The Canadian politician told The Hollywood Reporter’s industry conference at TIFF that Canada was pivoting to the world amid a cross-border tariff and trade war with the Trump administration.
+The actress was both a presenter and a nominee Monday night, where she was nominated for the third and final season of 'Euphoria.'
 
-### A Talent for Murder Review: Helen Mirren Is Cranky Crime Author Patricia Highsmith in Anton Corbijn s Deliciously Twisty Psychological Thriller
-Mon, 14 Sep 2026 19:16:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/a-talent-for-murder-review-helen-mirren-alden-ehrenreich-1236698230/
+### Emmy Awards Snubs and Surprises: Hacks Comes Up Short; John Oliver Shut Out; Allison Janney Scores Unexpected Diplomat Win
+Tue, 15 Sep 2026 05:48:35 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-snubs-surprises-john-oliver-allison-janney-1236701932/
 
-Alden Ehrenreich and Olivia Cooke also star in this TIFF premiere from the director of 'Control' and 'A Most Wanted Man.'
+Elsewhere, the star-studded second installment of 'Beef' failed to win in the major limited series categories after dominating in season one, with 'Love Story and 'All Her Fault' also missing out on major awards.
 
-### The Shards Releasing Soundtrack With Star Hayes Warner, Troye Sivan (Exclusive)
-Mon, 14 Sep 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/music/music-news/the-shards-soundtrack-hayes-warner-troye-sivan-1236696771/
+### Emmys Analysis: On the Widow s Bay Sweep, Sally Field Surprise and Weird Variety Series Situation
+Tue, 15 Sep 2026 05:21:04 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-analysis-scott-feinberg-1236701561/
 
-The buzzy FX and Hulu adaptation wrapped its first season with a Sept. 9 finale, and now a 16-track original playlist is coming in October.
+The Hollywood Reporter's executive editor of awards coverage dissects Monday night's results.
 
-### Brie Larson Film Adaptation of One Italian Summer Sets Spring 2028 Release From Paramount
-Mon, 14 Sep 2026 18:51:42 +0000 — https://www.hollywoodreporter.com/movies/movie-news/one-italian-summer-brie-larson-release-bradbeer-paramount-1236700819/
+### Most Memorable Moments at 2026 Emmys, From Taylor Swift s Cameo to Mariska Hargitay Recreating Nicole Kidman’s AMC Ad
+Tue, 15 Sep 2026 05:00:41 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-best-worst-moments-1236701728/
 
-Harry Bradbeer helms the feature take on Rebecca Serle's best-selling novel.
+From Jean Smart and Matthew Rhys' history-making wins to Marcello Hernández's special invites for Zendaya and Harrison Ford, here are some of the highlights from the 78th Emmy Awards on Monday.
 
-### Love of Your Life Review: Margaret Qualley Eats, Grieves and Loves in an Unpersuasive Romantic Travelogue
-Mon, 14 Sep 2026 18:14:23 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/love-of-your-life-review-margaret-qualley-rachel-morrison-1236700696/
+### Matthew Rhys Says Keri Russell Is Always Really the Winner After His Historic 2026 Emmy Wins
+Tue, 15 Sep 2026 04:55:57 +0000 — https://www.hollywoodreporter.com/tv/tv-news/matthew-rhys-keri-russell-always-winner-2026-emmys-1236701813/
 
-The actress stars alongside Patrick Schwarzenegger, Aaron Pierre and Gabriel Basso in the Rachel Morrison-directed drama premiering in Toronto.
+Social media users joked that the 'Widow's Bay' actor did not shout out his wife during his two acting acceptance speeches, but the actor spoke about her backstage at the awards ceremony, sharing his hopes that she'll earn an Emmy next year.
 
-### Inside Snapchat’s Growing Role in Hollywood’s Awards Season Playbook
-Mon, 14 Sep 2026 18:06:06 +0000 — https://www.hollywoodreporter.com/business/digital/snapchats-role-in-awards-season-1236689939/
+### Noah Wyle Says He Received Very Encouraging Update About Federal Film and TV Tax Incentive
+Tue, 15 Sep 2026 04:55:57 +0000 — https://www.hollywoodreporter.com/tv/tv-news/noah-wyle-encouraging-update-federal-film-tv-tax-credit-1236701842/
 
-From global AR activations to experiences built around live moments, Snapchat offers TV marketers a unique way to connect with Gen Z.
+The 'Pitt' actor has been a vocal advocate from bringing productions back to Los Angeles.
 
-### Adults Defies Sophomore Slump With Ratings Growth
-Mon, 14 Sep 2026 18:00:42 +0000 — https://www.hollywoodreporter.com/tv/tv-news/adults-ratings-season-2-growth-fx-1236700729/
+### Marcello Hernández Had a Special Invite for Zendaya and Tom Holland at the 2026 Emmys
+Tue, 15 Sep 2026 04:48:09 +0000 — https://www.hollywoodreporter.com/tv/tv-news/marcello-hernandez-invite-dinner-zendaya-2026-emmys-1236701824/
 
-The FX show's streaming viewing has grown 40 percent compared to season one in 2025.
+The 'Saturday Night Live' star attended TV's biggest night to present the award for best directing for a comedy series.
 
 ## Deadline
 
-### Mikayla Matthews Quits Secret Lives Of Mormon Wives : There s No Amount Of Money Worth Going Against My Morals
-Mon, 14 Sep 2026 20:30:00 +0000 — https://deadline.com/2026/09/mikayla-matthews-quits-secret-lives-of-mormon-wives-hulu-1237102328/
+### PBS Buys Dutch Dementia Doc Human Forever , Which Follows The Greta Thunberg Of Healthcare
+Tue, 15 Sep 2026 09:10:44 +0000 — https://deadline.com/2026/09/pbs-buys-human-forever-dementia-documentary-1237103721/
 
-Mikayla Matthews is leaving The Secret Lives of Mormon Wives amid turmoil in MomTok. The influencer and Hulu star shared the news in a social media post as the cast was recently seen in Italy filming Season 6 of the reality series. I made my decision over a week ago, after hearing some news, that [ ]
+EXCLUSIVE: PBS has picked up a Dutch documentary that follows Teun Toebes, a humanitarian activist known as the Greta Thunberg of healthcare. Human Forever comes from indie Dutch producer Super7even Productions, which struck the deal directly with PBS. Other buyers unveiled today are SBS in Australia and RUV in Iceland, who joins the likes of [ ]
 
-### IFC Unloads Midnight Madness Movie River For $10M+ To Blumhouse Universal TIFF
-Mon, 14 Sep 2026 20:23:41 +0000 — https://deadline.com/2026/09/river-blumhouse-universal-tiff-1237100328/
+### Snäxx Launches As Europe s Latest Microdrama App Player
+Tue, 15 Sep 2026 08:37:03 +0000 — https://deadline.com/2026/09/snaxx-launches-europe-microdrama-app-1237103706/
 
-The first big sale out of the festival is an odd duck. IFC came in with Joshua Guiliano s River in Midnight Madness. The response was so rabid that other distributors wanted it including Jason Blum (who has his Blumhouse Atomic Monster deal at Universal) and Sony. Sony looked to be the last studio standing this [ ]
+Europe has its latest microdrama platform, Snäxx. The service, which has been in the works for some time, has the backing of Germany vertical video business Black Forest Studios and a board of top-level media, entertainment, technology and investment industry execs. Earlier this year, we reported Station 19 actor Boris Kodjoe was among the app s [ ]
 
-### Toronto Film Festival 2026: Read All Of Deadline’s Reviews
-Mon, 14 Sep 2026 20:05:14 +0000 — https://deadline.com/2026/09/tiff-2026-movie-reviews-toronto-1237073927/
+### Goodfellas Boards World Sales On Kamila Andini’s ‘Four Seasons In Java’ Ahead Of Toronto Premiere
+Tue, 15 Sep 2026 05:34:18 +0000 — https://deadline.com/2026/09/goodfellas-kamila-andini-putri-marino-four-seasons-in-java-1237103639/
 
-The 2026 Toronto Film Festival kicked off Thursday, September 10, and features a slew of world premieres including the official opening-night film Being Heumann, Oscar winner Siân Heder s follow-up to her Best Picture winner CODA. The event s 51st edition features 10 days of premieres, gala presentations and more as the third leg of the fall [ ]
+Goodfellas has picked up international sales rights to Indonesian filmmaker Kamila Andini’s Four Seasons In Java ahead of its world premiere in the Centrepiece programme at Toronto International Film Festival. Produced by Ifa Isfansyah through Indonesian production company Forka Films, the film stars Putri Marino as Pertiwi, a woman who returns to her village after [ ]
 
-### Ms. Pat VH1 To Team On America s Funniest People As Ms. Pat Settles It Renewed For Season 4
-Mon, 14 Sep 2026 19:45:03 +0000 — https://deadline.com/2026/09/ms-pat-americas-funniest-people-paramount-partnersnip-1237102167/
+### Apple Takes Victory Lap After Emmy Bonanza: “You Can’t Predict These Things”
+Tue, 15 Sep 2026 05:17:20 +0000 — https://deadline.com/2026/09/apple-emmy-reaction-wins-eddy-cue-interview-1237103594/
 
-EXCLUSIVE: Patricia Ms. Pat Williams-Lee is expanding her relationship with Paramount under her new deal with BET Studios, spanning producing, writing, and performing across BET and Paramount platforms. VH1 has ordered America’s Funniest People from the producers of America s Funniest Videos, V10 Entertainment. The show is a comedy competition with Ms. Pat starring. Each episode will feature [ ]
+Eddy Cue joined Apple in 1989, the year that shows such as Cheers and L.A. Law were dominating the Emmys. Fast forward 37 years and it is Apple that dominated the ceremony with a record-breaking night for Widow’s Bay and an assist from the likes of Pluribus and Slow Horses. The tech giant landed 28 [ ]
 
-### Adults Streaming Viewership Grows 40% In Season 2, Per FX
-Mon, 14 Sep 2026 19:42:00 +0000 — https://deadline.com/2026/09/adults-streaming-viewership-growth-season-2-rating-fx-1237102135/
+### The Pitt Celebrates Wins With Season 3 Update; Noah Wyle On Enjoying Latest Success Years After ER Emmys Backstage
+Tue, 15 Sep 2026 04:41:20 +0000 — https://deadline.com/2026/09/the-pitt-emmy-win-season-2-2026-outstanding-drama-1237103303/
 
-FX’s Adults is posting rare Season 2 viewership gains amid a sophomore slump impacting most streaming series recently. Citing Disney internal streaming data, FX has revealed that Adults viewership has grown more than 40% season over season across Hulu in the U.S. and Disney+ internationally over the first 12 days of release. (Both seasons were [ ]
+For a second year in a row, The Pitt has been honored with the Emmy Award for Outstanding Drama Series. The hit HBO Max medical drama scored five additional wins this year: Outstanding Lead Actor in a Drama Series for Noah Wyle, Outstanding Casting in a Drama Series, Outstanding Guest Actor in a Drama Series [ ]
 
-### Bob Mackie Dies: Fashion Designer To The Stars Who Dressed Cher, Carol Burnett And Many More Was 87
-Mon, 14 Sep 2026 19:41:00 +0000 — https://deadline.com/2026/09/bob-mackie-dead-fashion-designer-cher-1237102136/
+### Pluribus Creator Vince Gilligan Reveals That Season 2 Is Already Mapped Out Emmys Backstage
+Tue, 15 Sep 2026 04:24:47 +0000 — https://deadline.com/2026/09/emmys-pluribus-season-2-vince-gilligan-rhea-seehorn-1237103471/
 
-Bob Mackie, the Oscar-nominated and Tony- and Emmy-winning fashion designer who dressed Cher in her most eye-popping costumes, Barbra Streisand in her batwing gown in Funny Lady and sketched the design for Marilyn Monroe s beaded white dress she wore to sing Happy Birthday to JFK, died Monday. He was 87. The news was announced on [ ]
+Rhea Seehorn was the first to tell the press backstage at the Primetime Emmys on Monday that Pluribus creator Vince Gilligan has completed the first two scripts of Season 2. I don t have anything, the Best Actress for Drama Series winner said, meaning she hasn t seen the scripts. Gilligan, who won tonight for Drama Series [ ]
 
-### ‘Alpha Gang’ Review: The Zellner Brothers’ Gleefully Gonzo All-Star Sci-Fi Comedy Is A Big Blast Of All Kinds Of Crazy – Toronto Film Festival
-Mon, 14 Sep 2026 19:13:29 +0000 — https://deadline.com/2026/09/alpha-gang-review-david-zellner-nathan-zellner-dave-bautista-1237102158/
+### Sally Field Reflects On Filming Remarkably Bright Creatures In Canada: Let s Keep Our Neighbors Close — Emmys Backstage
+Tue, 15 Sep 2026 03:54:20 +0000 — https://deadline.com/2026/09/sally-field-remarkably-bright-creatures-filming-canada-emmys-1237103305/
 
-Fun comes with a big F.U. in this outrageous and frequently pant-wettingly funny aliens-are-among-us comedy Alpha Gang from David and Nathan Zellner. Their last film, Sasquatch Sunset (2024), seemed hard to top, taking two high-profile indie stars — Jesse Eisenberg and Riley Keough — and rendering them entirely unrecognizable under head-to-foot Bigfoot costumes, with a [ ]
+Sally Field would like the United States to play nice with its neighbors to the north. After winning an Emmy award on Monday night for Netflix s Remarkably Bright Creatures, the actress used some of her time backstage with press to advocate for a friendly relationship with Canada, where the film adaptation was shot. I do [ ]
 
-### Copperhead Rounds Out Cast With Shea Whigham, Jamie Chung, Bobby Soto, Alejandro Speitzer, Michael Raymond-James Thad Luckinbill
-Mon, 14 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/copperhead-film-rounds-out-cast-1237102097/
+### Emmys: What You Didn t See On TV; Tom Holland, Zendaya, Charlie Hunnam, Nicole Kidman More
+Tue, 15 Sep 2026 03:37:07 +0000 — https://deadline.com/2026/09/emmys-2026-off-camera-moments-behind-the-scenes-1237102313/
 
-EXCLUSIVE: Shea Whigham (Joker, Take Shelter), Jamie Chung (Lovecraft Country, Dexter: New Blood), Bobby Soto (A Million Miles Away, Flamin’ Hot), Alejandro Speitzer (Oscuro Deseo, Me Gusta), Michael Raymond-James (Godfather of Harlem, See) and Thad Luckinbill (Lioness) round out the cast of the Black Label thriller feature Copperhead. Production kicks off today in Oklahoma City. [ ]
+There were plenty of memorable moments on camera at Monday night s 78th Emmy Awards, but much went on off-camera as well. Emmy history was made tonight by Matthew Rhys, who became the first actor to win across all three lead categories (Comedy, Drama Limited Series/Movie) and is the first man to win two lead [ ]
 
-### Brie Larson Bound For One Italian Summer From Paramount Director Harry Bradbeer; Pic Set For Mother s Day Weekend 2028
-Mon, 14 Sep 2026 18:30:00 +0000 — https://deadline.com/2026/09/brie-larson-one-italian-summer-1237101824/
+### Emmy Analysis Scorecards: Apple Breaks Records Leads Honors With Huge Night For ‘Widow’s Bay’
+Tue, 15 Sep 2026 03:12:31 +0000 — https://deadline.com/2026/09/emmy-scorecards-apple-records-top-honors-widows-bay-1237103340/
 
-EXCLUSIVE: Room Best Actress Oscar winner Brie Larson is set to star as Katy Silver and executive produce Paramount Pictures feature adaptation of Rebecca Serle s New York Times bestselling novel One Italian Summer. Enola Holmes franchise filmmaker, Harry Bradbeer, is set to helm the Temple Hill Entertainment production. A theatrical release for Mother s Day weekend, [ ]
+From the moment that “Lancashire lass” Kate O’Flynn won the Emmy for Outstanding Supporting Actress in a Comedy Series for her role as “sassy broad” Patricia, it was clear that Apple and Widow’s Bay were going to have a big night. The cast of the horror comedy and the streamer will certainly be celebrating at [ ]
 
-### Yaga Sets U.S. Release Date On AMC+; Watch Sneak Peek Ahead Of TIFF World Premiere
-Mon, 14 Sep 2026 18:07:09 +0000 — https://deadline.com/2026/09/yaga-us-release-date-amc-hudson-williams-noah-reid-teaser-1237102044/
+### Emmy TV Review: Host Mariska Hargitay Let Down By Skits, Script Taylor Swift Cameo Way Below Law Order: SVU Star s Pay Grade
+Tue, 15 Sep 2026 03:05:41 +0000 — https://deadline.com/2026/09/emmys-review-broadcast-2026-ceremony-nbc-1237102392/
 
-Yaga, the upcoming contemporary mystery thriller series which reimagines the myth of Baba Yaga, is set to premiere Friday, October 23 exclusively in the U.S. on AMC+. The series will launch with two episodes followed a new episode each Friday up to the two-episode finale on Friday, November 27. You can watch a sneak peek [ ]
+The 78th Primetime Emmy Awards had a distinct bicoastal approach Monday night, and let’s be honest, something truly got lost along the way, to put it politely. Sorry, Stephen Colbert, but “if you like the comedy tonight, my old writers wrote it” may be part of the Variety Series-winning Late Show’s legacy we all want [ ]
 
-### SPE Taps Jamie Kampel To Run Consumer Products Licensing In Expanded Role
-Mon, 14 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/sony-pictures-jamie-kampel-consumer-products-licensing-1237101662/
+### Emotional Tributes To Catherine O Hara And Rob Reiner Bookend Emmys In Memoriam Segment
+Tue, 15 Sep 2026 03:05:34 +0000 — https://deadline.com/2026/09/emmys-in-memoriam-2026-catherine-ohara-1237102549/
 
-Sony Pictures Entertainment has set former Amazon MGM Studios executive Jamie Kampel as EVP, Head of Consumer Products Licensing, Her appointment follows the recent exit of Jamie Stevens as EVP of Worldwide Consumer Products at Sony Pictures but Kampel s role appears to be broader. She reports to Jay Levine, EVP, Chief Strategy Officer and [ ]
+The Primetime Emmys In Memoriam segment hit harder than usual at Monday night s ceremony, bookending its 10 minutes of airtime with heartfelt tributes to Catherine O Hara and Rob Reiner. Macaulay Culkin, who appeared in the first two Home Alone movies with O Hara, joined her Schitt s Creek co-stars Annie Murphy and Dan Levy in the opening [ ]
 
-### Tisha Campbell Returns to Lifetime In New Film One Last Shot
-Mon, 14 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/tisha-campbell-lifetime-film-one-last-shot-1237101812/
+### Charlie s Angels Stars Kate Jackson, Jaclyn Smith Cheryl Ladd Reunite At Emmys, Remember Farrah Fawcett
+Tue, 15 Sep 2026 03:05:02 +0000 — https://deadline.com/2026/09/charlies-angels-reunion-2026-emmys-kate-jackson-jaclyn-smith-1237099553/
 
-EXCLUSIVE: Tisha Campbell is returning to Lifetime as the star, executive producer, and writer of One Last Shot, an original movie premiering Saturday, November 14, at 8/7c as part of the network’s 2026 Love of a Lifetime slate. She is joined on the cast by Charles Malik Whitfield, Jaden Lucas Miller and AJ Johnson. Campbell [ ]
+As Charlie s Angels marks its 50th anniversary since its launch in 1976, stars Kate Jackson, Jaclyn Smith and Cheryl Ladd reunited Monday night at the 78th Primetime Emmy Awards to present the Outstanding Drama Series Emmy. The three took the stage and first off, paid tribute to their fallen angel, original series star Farrah Fawcett, [ ]
 
 ## befores & afters
+
+### On The Set Pic: Dune: Part Three
+Tue, 15 Sep 2026 09:34:40 +0000 — https://beforesandafters.com/2026/09/15/on-the-set-pic-dune-part-three/
+
+Director/Writer/Producer Denis Villeneuve and Zendaya on the set of Dune: Part Three. Photo by Niko Tavernise. © 2026 Warner Bros. Ent. All Rights Reserved The post On The Set Pic: Dune: Part Three appeared first on befores & afters .
 
 ### VFX supervisor Eran Dinur discusses the big AI and ML changes that have impacted visual effects
 Mon, 14 Sep 2026 11:25:09 +0000 — https://beforesandafters.com/2026/09/14/vfx-supervisor-eran-dinur-discusses-the-big-ai-and-ml-changes-that-have-impacted-visual-effects/
@@ -175,167 +180,167 @@ Dinur, who has been teaching courses on ComfyUI and GripTape, talks about the AI
 
 ## IndieWire
 
-### Universal Pictures and Blumhouse Atomic Monster Closing Huge Deal for Joshua Giuliano s Slasher Film River
-Mon, 14 Sep 2026 19:36:12 +0000 — https://www.indiewire.com/news/breaking-news/universal-pictures-blumhouse-atomic-monster-slasher-film-river-tiff-1235216868/
+### The Emmys Gave TV Fans Winners Worth Cherishing — and a Ceremony for Somebody Else
+Tue, 15 Sep 2026 04:37:04 +0000 — https://www.indiewire.com/criticism/shows/emmys-2026-review-mariska-hargitay-host-1235216913/
 
-Exclusive: The horror film could sell for more than $10 million, making it one of TIFF's biggest pacts.
+Kate O'Flynn, Rhea Seehorn, and Matthew Rhys (twice!) comprised a field of Emmy winners tailor-made to thrill die-hard TV fans, but the telecast meant to honor them had other priorities.
 
-### A Talent for Murder Review: Helen Mirren and Alden Ehrenreich Face Off in This Punchy Twist on Patricia Highsmith
-Mon, 14 Sep 2026 19:16:00 +0000 — https://www.indiewire.com/criticism/movies/a-talent-for-murder-review-helen-mirren-alden-ehrenreich-1235213279/
+### John Mulaney s Bleeped Oral Sex Joke to Colman Domingo Dancing with Mariska Hargitay, 5 Emmy Moments Not Seen (or Heard) on TV
+Tue, 15 Sep 2026 03:37:34 +0000 — https://www.indiewire.com/awards/results/2026-emmys-what-you-missed-on-tv-john-mulaney-oral-sex-joke-1235217014/
 
-TIFF: Anton Corbijn directs the pair in a two-hander with real bite, as adapted by Joanna Murray-Smith from her devilish play "Switzerland."
+The lengthy In Memoriam segment also confused a few attendees at the 2026 Emmys.
 
-### How to Watch the 2026 Primetime Emmys
-Mon, 14 Sep 2026 19:09:43 +0000 — https://www.indiewire.com/news/general-news/2026-emmys-how-to-watch-stream-1235216903/
+### Emmy Awards Snubs and Surprises: Harrison Ford s Shocking Loss, Allison Janney s Upset Win, and Matthew Rhys Record-Breaking Night
+Tue, 15 Sep 2026 03:10:19 +0000 — https://www.indiewire.com/awards/results/emmy-awards-snubs-surprises-harrison-ford-allison-janney-1235217076/
 
-TV's biggest night has arrived. Here's how to make sure you don't miss a moment.
+"Beef" Season 2 was clearly sacrificed to the eldritch power that haunts "Widow's Bay."
 
-### Prima Facie Review: Cynthia Erivo Stars in Tonally Confused Screen Treatment of Provocative #MeToo Stage Play
-Mon, 14 Sep 2026 18:16:47 +0000 — https://www.indiewire.com/criticism/movies/prima-facie-movie-review-cynthia-erivo-1235216900/
+### Wild Wild East Review: Jan Holoubek s Nazi-Era Noir Western from Poland Loses Its Nerve
+Tue, 15 Sep 2026 03:00:00 +0000 — https://www.indiewire.com/criticism/movies/wild-wild-east-review-jan-holoubek-1235217019/
 
-TIFF: Erivo plays a formidable barrister who is forced to confront the system she once trusted in this disappointing screen version of the celebrated production.
+TIFF: The Polish director’s latest sets up a compelling moral morass but settles for easy answers to its thorny questions.
 
-### Anchors Aweigh Review: One Man s Alt-Comedy Millennial Meltdown Gets a Hybrid Documentary Gloss in Matt Barats’ Second Feature
-Mon, 14 Sep 2026 17:30:00 +0000 — https://www.indiewire.com/criticism/movies/anchors-aweigh-movie-review-matt-barats-1235216838/
+### Primetime Emmy Award 2026 Winners Revealed (Full List)
+Tue, 15 Sep 2026 02:56:00 +0000 — https://www.indiewire.com/awards/results/emmy-winners-list-2026-1235216883/
 
-Finally, a (very funny) movie that dares to ask: "What if Ross McElwee were an idiot?"
+See all the winners of tonight's Emmy Awards, dominated by "The Pitt," "DTF St. Louis," and "Widow's Bay."
 
-### The Last Photograph Review: Zack Snyder’s Shallow Two-Hander Is a Dull, Grotesquely Violent Revenge Thriller
-Mon, 14 Sep 2026 16:26:25 +0000 — https://www.indiewire.com/criticism/movies/the-last-photograph-review-zack-snyder-1235216876/
+### Widow s Bay Wins Emmy for Outstanding Comedy Series
+Tue, 15 Sep 2026 02:55:51 +0000 — https://www.indiewire.com/awards/results/widows-bay-wins-emmy-outstanding-comedy-series-1235216400/
 
-TIFF: A superficial departure from his grandiose norm, Snyder’s homage to “The Searchers” purports to have morality on its mind, but mostly just wants to get back to killing.
+No two episodes of Katie Dippold's genre-bending series were alike, and the TV Academy recognized the creativity.
 
-### Idiocracy at 20: How a Failed Comedy Became an Unlikely Metaphor for America
-Mon, 14 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/features/interviews/idiocracy-turns-20-how-failed-comedy-became-metaphor-1235216854/
+### The Pitt Wins Second Consecutive Emmy for Outstanding Drama Series
+Tue, 15 Sep 2026 02:42:09 +0000 — https://www.indiewire.com/awards/results/the-pitt-wins-emmy-outstanding-drama-series-1235216383/
 
-IndieWire talks to co-writer Etan Cohen, former 20th Century chairman Tom Rothman, and more about how Mike Judge's movie that once had a nonexistent theatrical release became one of the definitive films about the U.S.
+The HBO Max medical drama secured another victory in the category, cementing itself as the show to beat at future ceremonies.
 
-### Closing Night Review: Even Sarah Paulson and Naomi Watts Can t Save This Mangled Misfire of a Melodrama
-Mon, 14 Sep 2026 14:38:25 +0000 — https://www.indiewire.com/criticism/movies/closing-night-review-sarah-paulson-naomi-watts-1235216836/
+### Bad Lieutenant: Tokyo Review: Takashi Miike Can t Elevate an Uneven Entry Into an Unlikely Franchise
+Tue, 15 Sep 2026 02:30:00 +0000 — https://www.indiewire.com/criticism/movies/bad-lieutenant-tokyo-review-takashi-miike-1235216996/
 
-TIFF: Cody Fern's feature directorial debut lured a murderer's row of exceptional acting talents, but its wildly uneven tone and handle on tricky material do none of them any favors.
+TIFF: The Japanese genre legend brings some, but not enough, of his signature style to this yakuza neo-noir.
 
-### Ladies and Gentlemen, Brian Mulroney Review: Matthew Rankin’s Psychedelic Tour Through Mid-Century Canadian Conservative Politics
-Mon, 14 Sep 2026 14:08:13 +0000 — https://www.indiewire.com/criticism/movies/ladies-and-gentlemen-brian-mulroney-movie-review-1235216845/
+### DTF St. Louis Wins Emmy for Outstanding Limited Series
+Tue, 15 Sep 2026 02:17:14 +0000 — https://www.indiewire.com/awards/results/dtf-st-louis-wins-emmy-best-limited-series-1235216849/
 
-The story of Brian Mulroney’s political ascent doubles as a critique of televisual culture and a snapshot of a less extreme political era.
+Steven Conrad's HBO series aced the top category at Monday night's Emmy Awards, besting fellow nominees "Beef" and "Love Story" — both of which were once considered frontrunners.
 
-### Evil Genius Review: Patricia Arquette and David Harbour Take on a Horrifying True Crime Story
-Mon, 14 Sep 2026 13:30:00 +0000 — https://www.indiewire.com/criticism/movies/evil-genius-review-patricia-arquette-david-harbour-bomber-1235216830/
+### The Late Show with Stephen Colbert Wins Emmy for 2026 Outstanding Variety Series
+Tue, 15 Sep 2026 01:41:49 +0000 — https://www.indiewire.com/awards/results/colbert-wins-emmy-variety-series-1235216118/
 
-TIFF: Courteney Cox directs a grating, mean-spirited exercise in punching down based on the notorious 2003 case.
+The Variety Series in 2026 was an "area award" able to recognize multiple nominees that received at least 90 percent of the vote.
 
-### Minotaur Trailer: Thrilling, Cannes-Winning Russian Noir Updates Unfaithful for Even More Hopeless Times
-Mon, 14 Sep 2026 13:25:24 +0000 — https://www.indiewire.com/news/trailers/minotaur-trailer-zvyagintsev-1235216825/
+### Matthew Rhys Wins Emmy for Best Actor in a Comedy for Widow s Bay
+Tue, 15 Sep 2026 01:18:15 +0000 — https://www.indiewire.com/awards/results/matthew-rhys-wins-emmy-best-actor-comedy-widows-bay-1235215845/
 
-Andrey Zvyagintsev nearly died in the years between making Oscar nominee "Loveless" and his latest, "Minotaur," due to COVID complications. He's back in full miserable glory.
+The star of the smash hit Apple TV series is no stranger to Emmys glory (he had even won earlier in the night), but this win marks his first triumph in a Comedy category. Sunset cocktails for all!
 
-### Andrew Scott Knew How to Play Hamlet, but Elsinore Required Him to Channel Another Actor
-Mon, 14 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/awards/consider-this/andrew-scott-elsinore-hamlet-ian-charleson-interview-1235216791/
+### Rhea Seehorn Wins Emmy for Lead Actress in a Drama Series
+Tue, 15 Sep 2026 00:31:35 +0000 — https://www.indiewire.com/awards/results/rhea-seehorn-wins-emmy-lead-actress-drama-series-pluriubus-1235216396/
 
-"Elsinore" is wowing audiences and critics on the fall festival circuit, with Scott now in the Best Actor race.
+The "Pluribus" star finally broke an Emmy shutout streak that lasted for the entirety of "Better Call Saul."
 
 ## The Wrap
 
-### Musk Documentary Moves Release Date Up a Week Amid Rave Reviews and Legal Threats
-Mon, 14 Sep 2026 20:22:07 +0000 — https://www.thewrap.com/industry-news/business/musk-release-date-alex-gibney-documentary/
+### Jimmy Fallon Mocks Trump for Suggesting He s the Solution to AI Concerns: I Don t Think He Can Beat Wordle
+Tue, 15 Sep 2026 04:24:22 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-reacts-trump-dismissing-ai-concerns/
 
-Bleecker Street has moved up the release of Alex Gibney s searing, 225-minute documentary Musk by one week, putting it in theaters in New York and Los Angeles on October 9 with a nationwide expansion one week later. The release date comes after the film received widespread acclaim upon its premiere at the Venice Film Festival. With a 10-minute intermission included, Musk explores the rise of the world s richest man from the son of an emerald mine investor to a Silicon Valley giant and, later, the owner of Twitter/X and Donald Trump s onetime confidante as he shut down government agencies and fired thousands of federal employees through the government agency DOGE. At the center of the documentary, which Musk did not participate in, are interviews with his former romantic partners, most notably ex-wife Justine Musk and former conservative influencer Ashley St. Clair, the latter of whom called Musk a nuke. Here is work meant less for us than for posterity, an ongoing obituary for a world and a global order in palliative care, TheWrap s Ben Croll wrote in his review. The doc s premiere prompted a lengthy rant from Musk on X as well as a letter sent from his attorney , Alex Spiro, to Gibney s Jigsaw Productions claiming that Musk s team had reached out to Gibney multiple times to present his side of the story in the doc and was refused. The doc, which says it was denied a direct interview with Musk, instead uses an animated avatar of Musk that speaks actual quotes he has made in p
+Jimmy Fallon mocked Donald Trump for dismissing concerns about AI while calling the president’s intelligence into question. During Monday s monologue for The Tonight Show, Fallon called out Trump for claiming on Truth Social that the only guardrails AI needs is a strong and smart (High IQ!) president . Well, I feel better, Fallon sarcastically quipped. Trump was like, I d like to see ChatGPT pick out a zebra on a cognitive test. I don t think so, buddy.' He added: We’re relying on Trump to beat AI?! I don’t think Trump can beat Wordle. You know what I m saying? Trump s handling it, which means he s gonna change it from artificial intelligence to American intelligence. As Fallon continued to rib Trump, the late night host suggested that the president thought AI stood for American Idol,' adding in his best Trump voice: I ve spoken with Ryan Seacrest and we re perfectly safe. On Trump s decision to double down on his stance, Fallon indicated he wasn t too surprised. For some reason, Trump s not eager to stop something that let s him make photos of himself as Jesus riding a bald eagle, he said. Yep, Trump s said that concerns about AI have been exaggerated by very negative forces. And then he announced plans to fight those forces with a new military branch called, The Very Negative Force Force.' Watch Fallon s full monologue below. Fallon s commentary came amid a growing conversation around a need for AI regulation, which sparked last week when ex-Anthropic researcher Jacob Coxon
 
-### Léa Seydoux Says She Didn t Want Her Body-Swap Role in The Unknown to Be a Performance
-Mon, 14 Sep 2026 20:18:57 +0000 — https://www.thewrap.com/creative-content/movies/lea-seydoux-the-unknown-tiff-interview/
+### How Widow s Bay Sucked All the Suspense Out of Emmy Night
+Tue, 15 Sep 2026 03:52:30 +0000 — https://www.thewrap.com/industry-news/awards/emmys-analysis-2026-widows-bay-wins-explained/
 
-Body-swap stories are always a challenge, just based on the fantastical premise itself, and Léa Seydoux knew that, heading into The Unknown. The actress shared with TheWrap during our TIFF interview and portrait studio that it would be impossible to embody her character fully, but even so, she didn t want the film to be a performance. Seydoux stars alongside Niels Schneider in the film, written and directed by Arthur Harari. It centers on David (Schneider), a photographer who takes a mysterious pill at a party, hooks up with a woman he vaguely recognizes (Seydoux), and then wakes up in her body. To make matters more confusing, she s not in his body, but rather, a terrified young woman named Malia (Lilith Grasmug) is. That meant that Seydoux had to play a man in a woman s body, but the actress explained alongside her co-star and director that she didn t overthink trying to tap into Schneider s mannerisms. When I was walking and standing, we wanted something off, she explained. So that s why I have this way of walking that is a bit clumsy. But I didn t really try to impersonate Nils. Not really. Because I was not looking for I didn t want this to be like a performance, you know? I didn t. I just wanted it to be more incarnated and embodied in a way, Seydoux continued. You know, it s not something even like in films when I watch, it s true, most of actors, they love to be performative in a way. But it s not really what I m looking for. I m looking for things to be, yeah, incarna
+It’s all about the momentum, and boy did “Widow’s Bay” have it. Katie Dippold’s horror-comedy series entered the Emmy race so late that its final three episodes weren’t even eligible for this year’s awards, but it didn’t even need a full season to dominate the 78th Primetime Emmy Awards and break the record for comedy-series wins. On paper, the Outstanding Comedy Series award looked like a real race between “Widow’s Bay,” which came into this year’s Emmys with 19 nominations, and the final season of “Hacks,” which set a new record for comedies with 24 noms. In fact, the running order of Monday night’s show suggested that the Television Academy and the show’s producers thought the Outstanding Comedy Series category had more suspense than the Emmys’ typical final award, Outstanding Drama Series, in which “The Pitt” was a prohibitive favorite to beat “Pluribus” and win its second consecutive Outstanding Drama Series Emmy. But that’s not exactly how it worked out. Voters made their intentions clear when they gave the first award of the night to Kate O’Flynn for “Widow’s Bay” over Hannah Einbinder for “Hacks.” Then they gave the third award to “Widow’s Bay” star Matthew Rhys for his other 2025 role in the limited series “The Beast in Me.” Then they gave the sixth award to “Widow’s Bay’s Stephen Root over Harrison Ford, and the 10th award to Rhys again, this time for “Widow’s Bay,” then the 11th one to Dippold for writing “Widow’s Bay,” a category that had probably been the best sh
 
-### Universal and Blumhouse in Talks to Nab TIFF Slasher River From IFC and Shudder
-Mon, 14 Sep 2026 20:09:17 +0000 — https://www.thewrap.com/creative-content/movies/universal-blumhouse-in-talks-to-acquire-river-ifc-shudder/
+### The Best and Worst Moments From the 2026 Emmys
+Tue, 15 Sep 2026 03:31:42 +0000 — https://www.thewrap.com/creative-content/tv-shows/emmys-2026-best-worst-moments/
 
-Universal Pictures and Blumhouse Atomic Monster are closing a deal to acquire Josh Giuliano’s feature debut River from IFC/Shudder, TheWrap has learned. This follows the film s world premiere at the Toronto International Film Festival. According to Indiewire, which first reported the news, the horror film could sell for more than $10 million. Written and directed by Giuliano, the film stars Jane Levy (“Evil Dead”), Jessica Rothe (“Happy Death Day”) and Max Mattern (“Devil in Disguise: John Wayne”) as three estranged siblings who reunite in their hometown after the death of their father. They set out to scatter his ashes at his favorite spot on a remote river, but when their boat breaks down, the trip devolves into a waking nightmare. Dane DiLiegro (“Prey”) also stars in the film. “River” opened TIFF’s Midnight Madness section, which last year saw such films as “Obsession” and “Nirvanna the Band the Show the Movie” among its lineup. With all eyes on the section this year to find a prospective runaway hit, Midnight Madness programmer Peter Kuplowsky told TheWrap ahead of the festival that “River” was the one to watch. “Josh is going to be a filmmaker that a lot of people are going to want to work with,” Kuplowsky said, praising the film as “one of the most suspenseful slashers I’ve seen in years.” Audiences seem to agree, with the film scoring positive reviews and receiving a rowdy, cheer-filled reception at its midnight premiere. When leaving TheWrap’s studio the morning after
+It all went down at the 78th Primetime Emmy Awards on Monday night. Lots of wins, even more losses and many moments we never could have predicted (like two musical numbers from host Mariska Hargitay and a cameo from Taylor Swift!) The latest Emmy Awards hit plenty of highs and lows through the night s festivities. Matthew Rhys made history as the first lead actor to win leading actor recognitions in two different categories – Actor in a Limited Series and Actor in a Comedy Series – in the same night; John Mulaney hilariously roasted the Best Drama actors; and again, two musical numbers from our host. Here are the best and worst moments from the 2026 Emmy Awards. Mariska Hargitay opens the 2026 Primetime Emmy Awards. (Photo by Chloe Kern/WireImage) Worst: The Opening Music Number The 2026 Emmys didn t really start off with a bang. Host Mariska Hargitay began the show with a musical number where she riffed on I Love Rock n Roll as she made the rushed journey from New York to Los Angeles to host the show. The cross country bit has been done time and time again and the musical opening was filled with do-nothing cameos of the various nominees. It was flat from start to finish but luckily Hargitay s opening monologue buoyed things from there. Jean Smart accepts the Outstanding Lead Actress in a Comedy Series Award for Hacks onstage during the 78th Primetime Emmy Awards at Peacock Theater. (Photo by Chloe Kern/WireImage) Best: Jean Smart’s Emmys sweep Jean Smart made history Monday 
 
-### Tim Blake Nelson Almost Didn t Make The Life and Deaths of Wilson Shedd Ending So Dark
-Mon, 14 Sep 2026 19:41:50 +0000 — https://www.thewrap.com/creative-content/movies/tim-blake-nelson-tiff-interview-the-life-and-deaths-of-wilson-shedd/
+### Trump Commerce Secretary Shares Kennedy Center Ceiling Collapse Footage, Calls for Closure and ‘Major’ Fundraising
+Tue, 15 Sep 2026 03:19:34 +0000 — https://www.thewrap.com/media-platforms/politics/kennedy-center-ceiling-collapse-video-trump-commerce-secretary/
 
-“The Life and Deaths of Wilson Shedd” filmmaker and star Tim Blake Nelson played with the idea of shooting two versions of the ending of “The Life and Deaths of Wilson Shedd” before sticking to the version he d written from the start. “I did initially intend to shoot two endings, one considerably less dark than the other, but still somewhat dark,” Nelson told Steve Pond at TheWrap’s studio at the 2026 Toronto International Film Festival. “After working with these two actors, as well as a group of extraordinary department heads and an ensemble of supporting actors, once we got to shooting the final scene of the movie, I felt that I would be doing everyone, especially Amanda and Scoot, a disservice by not going all the way as the script prescribed.” In “The Life and Deaths of Wilson Shedd,” Scoot McNairy stars as the title character, a convicted murderer, and Amanda Seyfried plays Karen, a woman hired to teach writing to inmates who eventually develops a personal relationship with Wilson and aids him in an escape effort. Seyfried said her character had to be handled with care. “I was playing a woman who is so vulnerable and so desperate,” Seyfried said. “You have to be very delicate and very precise.” According to Nelson, the final scene was shot at the very end of the production schedule, and took place across four connected rooms built on a single composite set. “We rehearsed the entire sequence as if it were a play on a cutout proscenium, where you could see into each room,”
+Secretary of Commerce Howard Lutnick made a case for closing and renovating the Kennedy Center by sharing footage of the venue s ceiling collapsing. On Monday, Lutnick took to X and posted security footage from inside the Kennedy Center in Washington, D.C., which saw a piece of the ceiling come crashing down in the lobby. Here is the video of the ceiling of the Kennedy Center crashing violently onto the main Lobby floor. Failing roofing, collapsing concrete supports and steel that is rotting have created completely unsafe conditions, Trump s commerce secretary wrote. It was caught on security video, missing one of the Center’s security guards by just minutes. If a performance had been underway, patrons could have been killed. As Lutnick went on, he noted that the entire building is in this kind of shape. Lutnick s wife Allison serves on the Kennedy Center board. People cannot be allowed to go into this building any longer, he added. It must be closed and reconstructed, and a major fundraising effort must take place to cover the Kennedy Center’s operating expenses. Like many other Centers, it operates at a huge loss. For the Kennedy Center, that has historically been $80-$100 million a year. Before concluding his note, Lutnick suggested that President Trump was the only person who would be able to deliver the renovation on time and on budget, as well as raise the money to keep the Center out of bankruptcy. Trump appeared to c0-sign this sentiment by sharing Lutnick s post on T
 
-### Robert Kraft Defends Blocking Macklemore Shows After He Advocated for Palestine At the Expense of the Jewish Community
-Mon, 14 Sep 2026 19:26:02 +0000 — https://www.thewrap.com/culture-lifestyle/culture/robert-kraft-macklemore-free-palestine-ed-sheeran-loop-tour/
+### Everest: The Other Side Directors on Why the Climb Came Before the Documentary
+Tue, 15 Sep 2026 03:05:24 +0000 — https://www.thewrap.com/creative-content/movies/everest-the-other-side-directors-interview-tiff/
 
-Robert Kraft explained why he chose to block Macklemore from performing with Ed Sheeran at Gillette Stadium later this month, a decision which the pro-Palestine rapper says led to his removal from the Loop Tour entirely. Based on Macklemore’s recent actions, material shared from the stage during Ed Sheeran’s shows in New Jersey, and a broader history of antisemitic rhetoric and imagery that we believe has been deeply offensive and hurtful to the Jewish community, we determined that his participation in the Sept. 25 and 26 concerts at Gillette Stadium would cross that line, the New England Patriots billionaire shared in a Monday statement. I agree with Macklemore. Too many lives have been lost and there has been too much suffering, but only sharing selective information and ignoring the actions of Hamas is not honest and only advances more divisiveness and hate, Kraft added. I would welcome the opportunity to sit down with Macklemore and discuss the facts, because ultimately our goal is the same – peace for all people, an end to suffering, and an end to all hate. His comments came after Macklemore defended his public Free Palestine stance while sharing his side of the story, noting that his friend Sheeran instead chose to not pick a side and remove him as opening act on Monday following criticism from fellow musician Pink over the weekend. Last Monday, in the middle of all the media attention surrounding Pink and what I said at MetLife, Ed told me that Robert Kraft called him.
+Oscar-winning filmmakers Elizabeth Chai Vasarhelyi and Jimmy Chin, who last attended TIFF with 2018’s “Free Solo,” return to the festival with “Everest: The Other Side,” where documenting an expedition as dangerous as skiing down Everest’s north face meant accepting one hard rule from the start: The movie could never come first. “Our teams handpick world-class climbers, skiers and cinematographers, so they all understand the risks,” Chin told TheWrap. “The directive from myself is that we re his friends, we re his supporters, we re his teammates and climbers first, and the needs of the film never supersede the needs of the subject or the objective. It s not the same as a normal production.” The TIFF guide for “Everest: The Other Side” reads: Thousands of people have ascended Mount Everest from the southeast ridge in Nepal. But only five had ever summited from the more daunting direct North Face route from China. This became a quest for Jim Morrison and Hilaree Nelson, who sought not only to summit, but then to ski down through the near vertical Hornbein Couloir. It’s a test of athleticism that only a few have attempted with a zero success rate. The last person to try disappeared on the descent. Morrison said that having cameras on the mountain didn’t compromise the expedition. If anything, it actually helped. “I was actually able to talk to the camera people and say, Hey, can you go up there and get a shot of this and show me the crux from this angle,” Morrison said. “If we c
 
-### Netflix’s Rams-49ers Australia Game Touches Down With 18.5 Million US Viewers
-Mon, 14 Sep 2026 19:19:08 +0000 — https://www.thewrap.com/media-platforms/tv/rams-49ers-australia-nfl-game-netflix-ratings/
+### Widow s Bay Is First Horror Show to Win Outstanding Comedy Series Emmy
+Tue, 15 Sep 2026 03:00:20 +0000 — https://www.thewrap.com/industry-news/awards/widows-bay-emmy-first-horror-show-outstanding-comedy-series/
 
-The NFL s expansion to Australia paid off handsomely for Netflix, with the Rams-49ers matchup bringing in an average of 18.5 million viewers in the U.S. and 21.7 million globally, according to viewership data from the streamer and Nielsen. The game, which kicked off on Thursday, Sept. 10, in the U.S. and Sept. 11 in Australia, ranks among the Top 3 most-streamed Thursday primetime NFL matchups. Viewership in the U.S. peaked at 21.3 million viewers between 9:30 p.m. and 9:45 p.m. ET. In the 18 to 34 year old demo, the game averaged 4 million viewers, the highest non-Christmas streaming delivery for an NFL regular-season game. In Australia, 49ers-Rams was the most-watched football game ever in the country. Netflix now holds the Top 4 highest-rated regular-season streamed NFL games among 18 to 34 year olds, including Christmas. For comparison, Netflix’s Christmas Gameday saw its presentation of the Detroit Lions vs. the Minnesota Vikings become the most-streamed game in U.S. history at the time with 27.5 million viewers in the U.S. The Christmas Day game between the Dallas Cowboys vs the Washington Commanders averaged 19.9 million U.S. viewers. On social, meanwhile, the 49ers vs. Rams generated over 340 million social impressions and 14.5 million engagements across Netflix and NFL social channels. The rival West coast teams played on Melbourne Cricket Ground, and the San Francisco 49ers emerged victorious as they scored 27-7 against the Los Angeles Rams. The game marked the NFL 
+For the first time in Emmys history, Outstanding Comedy Series is getting spooky. “ Widow’s Bay ” wrapped up Emmys night by dethroning the reigning champ, “Hacks,” in its final season to win Outstanding Comedy Series — making it the first horror show in Emmys history to win the award. Other creepy comedies have been represented in the category before. Netflix’s “Wednesday” picked up several key nominations across its two seasons, including Outstanding Comedy Series and Outstanding Lead Actress in a Comedy Series (Jenna Ortega) for Season 1 (notably, the original The Addams Family scored zero nominations at the Emmys, as did The Munsters around the same time). Wednesday s nominations overlapped with the run of What We Do in the Shadows, Jemaine Clement s vampire comedy that nabbed 35 nods in total, including Outstanding Comedy Series nominations in 2020, 2022, 2024 and 2025. And then there are the early contenders that were bringing a horror tinge to the comedy Emmys long before the quirky show about the next Martha s Vineyard came about. Bewitched picked up 22 nominations from 1964-1972, including four series nominations. The Ghost and Mrs. Muir got six nominations in 1969 and 1970, with two wins for leading actress Hope Lange. But none of these shows ever managed to get the top prize. In fact, there s a case to be made that no horror series has ever won Outstanding Series across Comedy, Drama and Limited/Anthology — depending on how you would categorize a few potential spoil
 
-### Brie Larson to Star in and EP One Italian Summer Adaptation at Paramount
-Mon, 14 Sep 2026 18:39:23 +0000 — https://www.thewrap.com/industry-news/business/brie-larson-one-italian-summer-paramount/
+### Widow s Bay Makes Emmys History With Most Wins for a Comedy Ever, Breaking The Studio Record With 14
+Tue, 15 Sep 2026 02:58:40 +0000 — https://www.thewrap.com/creative-content/tv-shows/widows-bay-emmys-record-most-wins-for-a-comedy/
 
-Brie Larson will star in an adaptation of Rebecca Serle s time-bending novel One Italian Summer for Paramount, which has set the release of the film for May 12, 2028. Larson plays Katy, a young woman whose long-awaited trip to the Amalfi Coast is shattered by an unimaginable loss. But as she travels through Italy, she finds an extraordinary opportunity to reconnect with her mother in a new light, leading to unexpected discoveries and a deeper understanding of love, life and herself. Harry Bradbeer, Emmy-winning director and executive producer of Fleabag, will direct the film with Larson as an executive producer. Serle will also EP alongside David Stone of TFC Productions, with Temple Hill Entertainment producing the film. Larson, who won an Oscar in 2016 for her work in the film Room, most recently appeared in Apple TV s Lessons in Chemistry in an Emmy-nominated performance and as the voice of Princess Rosalina in The Super Mario Galaxy Movie. Her upcoming projects include FX’s Cry Wolf, Amazon MGM Studios’ Close Personal Friends and Sony’s Skeletons. She is repped by WME, 2PM Sharp and Sloane Offer. Bradbeer, who made his feature film directorial debut with Netflix s Enola Holmes, is currently in post-production on Netflix s A Matter of Time starring Ben Stiller and Nicholas Galitzine. He is repped by UTA and United Agents. Temple Hill is repped by UTA. The project was first reported by Deadline. The post Brie Larson to Star in and EP One Italian Summer Adaptation at Paramou
+Apple TV s Widow s Bay broke the record for the most Emmy wins for a comedy series on a single night, scoring 14 wins including Best Comedy Series. Emmy s history is short. The record for comedy wins has been set four times since 2020: Schitt s Creek set it with 9 in 2020, The Bear reset it at 10 in January 2024, The Bear broke its own record with 11 in September 2024, and The Studio broke that record with 13 last year. Widow s Bay, an original horror-comedy series from the mind of Katie Dippold, stars Matthew Rhys as the mayor of a small New England town who is working to prove it s not haunted. Nevertheless, spooky goings-on plague the town and the mayor. Hacks set the record for the most Emmy nominations for a comedy series with 24 nods this year, but Widow s Bay took the winner s record. Here are all the Emmy awards that Widow s Bay won this year: Outstanding Comedy Series Outstanding Actor in a Comedy Matthew Rhys Outstanding Supporting Actress in a Comedy Kate O Flynn Outstanding Supporting Actor in a Comedy Stephen Root Outstanding Writing for a Comedy Katie Dippold Outstanding Directing for a Comedy Hiro Murai Outstanding Guest Actress in a Comedy Betty Gilpin Casting for a Series (Half-Hour) Music Composition for a Series (Original Dramatic Score) Music Supervision Production Design for a Narrative Program (Half-Hour) Sound Editing for a Comedy or Drama Series (Half-Hour) or Animation Sound Mixing for a Comedy or Drama Series (Half-Hour) or Animation The Studio will 
 
-### Block the Merger Coalition to Launch Billboards in New York City, California
-Mon, 14 Sep 2026 17:29:10 +0000 — https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-block-the-merger-billboards-nyc-california/
+### Sally Field Calls Out Trump s Canada Trade War and Paramount Merger in Emotional Emmys Speech
+Tue, 15 Sep 2026 02:36:39 +0000 — https://www.thewrap.com/industry-news/awards/sally-field-emmys-speech-trump-canada-trade-war-paramount-wbd-merger/
 
-The Block the Merger coalition is ramping up the pressure against Paramount with plans to launch billboards in New York City and California calling for $110 billion deal with Warner Bros. Discovery to be blocked. The billboards, which are paid for by the More Perfect Union Foundation, are aimed at educating the public about the negative effects of the merger, a press release reads. “We need the American public to speak out against the oligarchs seeking to take even more control over our media platforms,” More Perfect Union Foundation Executive Director Faiz Shakir said in a statement. “After Trump caved to the Ellison family and compelled the Department of Justice to approve the merger, the last line of defense left is our nation’s courageous Attorneys General. They need to know that the public wants them to take action and block the merger. The effort comes after the coalition launched a petition last month calling on 12 state attorneys general to hold strong in their antitrust lawsuit against the deal. Separately, over 5,000 Hollywood voices, including Mark Ruffalo, Jane Fonda, Joaquin Phoenix, Ben Stiller and Pedro Pascal, have expressed their concern and opposition to the merger. The coalition also held a rally in front of Paramount earlier this month, which included speeches from writer, actress and Committee for the First Amendment member Elyssa Phillips and Burbank city councilmembers Konstantine Anthony and Nikki Perez, who warned that the merger would lead to fewer e
+Sally Field used her acceptance speech at the 2026 Emmy Awards to call out both the Trump administration s trade war with Canada and Paramount s plan to merge with Warner Bros. Discovery, arguing that Hollywood voices cannot be compromised or merged. Field took home the Primetime Emmy Award Monday night for Outstanding Actress in a TV Movie/Limited Series for her lead turn in the Netflix drama Remarkably Bright Creatures, which was released on the streaming platform in May. During her emotional acceptance speech at the the Peacock Theater in Downtown Los Angeles, Field shouted out Remarkably Bright Creatures co-star Lewis Pullman and cinematographer Ashley Connor. Field praised Connor for turning the film s Pacific Northwest setting into another character in the drama, before noting that the movie was actually shot in Canada. Blessed Canada! Our neighbors, our friends, Field pointedly said, in a clear reference to the tensions that have been stoked in recent months between Canada and the U.S. by the Trump administration s aggressive tariff policies. Her comments also come at a time when President Trump, Dennis Quaid and others have bemoaned the number of Hollywood productions shot overseas in foreign countries like Canada. The America-Canada trade war was not the only high-stakes matter that Field addressed during her Emmys speech Monday night. In the closing moments of her remarks, the two-time Oscar winner also alluded to the ongoing discourse surrounding Paramount s propos
 
-### Darlene Love Finally Gets Her Moment to Shine in New Doc I Know Where I ve Been : It s My Turn
-Mon, 14 Sep 2026 17:18:35 +0000 — https://www.thewrap.com/industry-news/business/darlene-love-documentary-interview/
+### Hiro Murai Becomes First Asian Director to Win Emmy for Comedy Directing With Apple TV s ‘Widow’s Bay’
+Tue, 15 Sep 2026 02:18:19 +0000 — https://www.thewrap.com/industry-news/awards/hiro-murai-first-asian-emmy-winner-best-comedy-directing-widows-bay/
 
-In 2013, Darlene Love became one of the breakout stars of the acclaimed backup singer music doc 20 Feet From Stardom, winning a Grammy for her work in the film. Thirteen years later, she s closing that 20-foot gap and getting her own doc with Darlene Love: I Know Where I ve Been, which premiered at TIFF this weekend. When you think about her voice and you think about her career, it s the alchemy of the greats, director Barry Avrich told TheWrap s Steve Pond before the premiere. From Aretha to Diana to Sarah Vaughan, it s just all there. Who can sing all of that? And at 85 years old, to still make the wallpaper roll down off the walls, and that s what s going to happen at our premiere. I Know Where I ve Been follows the highs and lows of Love s long career, going back to the 60s when she got her start under producer Phil Spector with the song He s a Rebel before providing her voice on a variety of songs including The Ronettes Be My Baby and Boris Pickett s Halloween classic Monster Mash. But after she put her career on hold to raise a family and ended up cleaning homes in Beverly Hills to make ends meet, she made a comeback in the 1980s and has since worked with the likes of Bruce Springsteen, Cher, Paul Shaffer and Taraji P. Henson, who is an executive producer on this doc. All the odds were stacked against her, and she still prevailed. That s inspiration. That s a story that is needed now, and I think the universe lined it up this way, Henson said. She s a fan of mine. I m a
+Hiro Murai made Emmys history Monday after becoming the first Asian director to win in the Outstanding Directing for a Comedy Series category for Apple TV s Widow s Bay. Murai is also the third Asian director to win in any Emmy category, following Lee Sung Jin for the first season of “Beef” and Hwang Dong-hyuk for the first season of “Squid Game.” Other nominees in the category included Randall Einhorn (“Abbott Elementary”), Christopher Storer (“The Bear”), Andrew DeYoung (“The Chair Company”), Lucia Aniello (“Hacks”) and Mary Lou Belli (“The Ms. Pat Show”). Over the course of his career, Murai has been nominated for a total of 10 Emmys, including direction for Atlanta and Station Eleven. In addition to his comedy directing win for Widow s Bay, Murai previously won as an executive producer on the first season of “The Bear. In total, Widow s Bay won a total of 14 Emmys and was nominated for 19 awards. Other wins include Outstanding Comedy Series, Matthew Rhys for Outstanding Lead Actor , Kate O Flynn for Outstanding Supporting Actress, Stephen Root for Outstanding Supporting Actor and Betty Gilpin for Outstanding Guest Actress. “Katie Dippold, thank you for being brilliant and letting me ride shotgun,” Murai said in his acceptance speech. “I’m so proud of everything we did. And most of all, I just want to thank my family and my partner Emma. I love you. Thank you.” Check out the full winners list here. The post Hiro Murai Becomes First Asian Director to Win Emmy for Comedy Dir
 
-### Malin Akerman, Megan Follows Join This Summer Will Be Different Netflix Series
-Mon, 14 Sep 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/this-summer-will-be-different-netflix-cast-malin-akerman-megan/
+### Stephen Colbert Uses The Late Show Emmy Win to Make a Plea for His Staff: Hire Them
+Tue, 15 Sep 2026 01:57:07 +0000 — https://www.thewrap.com/industry-news/awards/stephen-colbert-emmys-speech-2026/
 
-Malin Akerman, Megan Follows and more join the Netflix series adaptation of Carley Fortune s latest BookTok favorite This Summer Will Be Different. The series has wrapped filming on Prince Edward Island, a central setting from the novel, and is now shooting in Toronto, TheWrap has learned. Akerman ( The Hunting Wives ) will play Aunt Stacy, the lead character Lucy Ashby s aunt and mentor, and Follows ( Anne of Green Gables ) joins as Cheryl. Nadine Bhabha ( Heated Rivalry ) and Matias Lucas ( The Order ) will also star in the Netflix TV show. They join the previously announced cast led by Sophie Nélisse (Lucy), Roby Attal (Felix) and Francesca Reale (Bridget). This Summer Will Be Different was created by Dane Clark ( Suze, One More Time ) and Linsey Stewart ( Workin Moms ) based on Fortune s bestselling novel of the same name. The series will follow Lucy as she navigates her 20s and her first real love with her best friend s brother, the one person she was never supposed to fall for, the logline states. The adaptation adds on to Netflix s growing Canadian slate. Previous Canadian series included North of North, Wayward and The Granville Girls. Clark, Stewart and Fortune will all executive produce the series. Jennifer Kawaja ( Wayward ), Elise Cousineau ( Cardinal ) and Samantha Levine will execuitve produce for Sphere Media. This is the latest Fortune adaptation in the works. Her book Every Summer After was adapted into a YA series Every Year After at Amazon this summer. Her 
+To no one s surprise, Stephen Colbert s The Late Show took home the Emmy for Outstanding Variety Series at the 78th Primetime Emmy Awards. What was surprising was that Colbert used the public victory to make the case that the writers and staff of The Late Show should be hired, pronto. I just want to point out that if you like the comedy tonight, my old writers wrote it, Colbert said at the beginning of his acceptance speech. He then thanked the over 200 people who worked on The Late Show with Stephen Colbert for the past 11 years. The thing about these late shows is that — besides being a really good steady job — they require so many people that they re a fantastic incubator for young people to come in to learn to work professionally on a deadline in cooperation, in collaboration. That is the future of our business that we have to look after, Colbert said. I want you to know I got some great news. They are all tech avail. Hire them. They will make your show better, and they will make your day easier. Colbert then thanked the many celebrities in the room on Monday night. Over the last 21 years, I ve interviewed at least a thousand of you, he joked. Thank you for coming on to talk to this idiot. I want you to know that you are the perfect guest, the segment went great and I m sorry I forgot to play your clip. But Colbert s biggest thank you of the night went to his wife, Evelyn McGee Colbert, whom he called Evie McGee. Thank you, darling. Thank you for being my only crew and my
 
 ## Collider
 
-### Alan Ritchson’s New Action Thriller Officially Becomes a Top-5 Box Office Hit
-Mon, 14 Sep 2026 20:21:55 GMT — https://collider.com/alan-ritchson-action-movie-runner-box-office-debut-andrew-garfield-the-uprising/
+### ‘Stranger Things’ Officially Brings Eleven Back This Week
+Tue, 15 Sep 2026 09:30:11 GMT — https://collider.com/stranger-things-tales-from-85-season-2-netflix-september-17/
 
-Boosted by favorable reviews from critics and audiences, the new action movie Runner outperformed the less favorably received period thriller The Uprising at the domestic box office. Both movies debuted in roughly the same number of theaters this past week, although Runner is playing in around 500 more locations nationwide. The action movie, starring Alan Ritchson , arrives the same week as the Season 4 finale of Ritchson's career-defining Prime Video series Reacher , whose spin-off, Neagley , is also slated to debut on the same day . Earlier this year, Ritchson starred in the record-breaking sci-fi thriller War Machine , which went on to become one of Netflix's most-watched originals ever. In other words, Ritchson is most definitely one of the biggest stars around, even if he hasn't exactly proven himself on the big screen just yet.
+Stranger Things was the definition of a cultural phenomenon for a decade as it evolved from a niche Netflix hit into one of the biggest television shows of all time. And of course, that would mean that Netflix isn't just going to let the golden goose slip back into the upside down. The franchise has found a clever way around saying goodbye to Eleven, Mike, Dustin, Lucas, Will, and Max, and all of them are returning this week .
 
-### The 8 Most Disturbing Non-Horror Movies of All Time, Ranked
-Mon, 14 Sep 2026 19:41:11 GMT — https://collider.com/most-disturbing-non-horror-movies-all-time-ranked/
+### Mahershala Ali Officially Moves On From Marvel’s Cancelled ‘Blade’ Movie
+Tue, 15 Sep 2026 09:00:11 GMT — https://collider.com/mahershala-ali-blade-comments-your-mother-your-mother-your-mother/
 
-Horror horrifies, just like thrillers thrill, and fantasy… fantasizes? No, it’s mostly just the horror and thriller genres that you don’t really need to define, because the word more or less summarizes it. But it’s not just the horror genre that can be frightening, obviously, because some of the most disturbing movies of all time can’t accurately be labeled works of horror in the traditional sense.
+Two-time Oscar-winner Mahershala Ali reiterated that he has officially moved on from the Blade movie at Marvel Studios, after expressing frustration about how the project was handled . Ali, promoting his new movie at the Toronto International Film Festival, added with a hint of sarcasm that he's grateful to Marvel because the studio indirectly funded the upcoming project. He was still attached to Blade when he met director Bassam Tariq ; they came up with their new original movie during that time. It was also during the development for Blade that Ali was sent to undergo training for the lead role, which ended up coming in handy for his new movie with Tariq.
 
-### ‘For All Mankind’ Season 6 Officially “Sticks the Landing” [Exclusive]
-Mon, 14 Sep 2026 19:30:11 GMT — https://collider.com/for-all-mankind-season-6-update-mireille-enos/
+### 15 Movies To Watch if You Love 'Spirited Away'
+Tue, 15 Sep 2026 08:58:11 GMT — https://collider.com/movies-like-spirited-away/
 
-Apple TV is best known for its sci-fi catalog, establishing itself as the leading streamer for all things otherworldly. Including the likes of Dan Erickson ’s genius Severance , Alexander Skarsgård 's must-watch Murderbot , and hidden gems like Foundation and For All Mankind , the best of modern sci-fi can be found on Apple TV. Right now on the streamer, the third season of Rebecca Ferguson 's Silo is dominating the global charts as the dust settles on a mind-bending finale.
+Hayao Miyazaki is perhaps Japan's best-known director of animated films, having made 12 so far in his legendary career. Most agree that his best film is Spirited Away , which was the first foreign film to win the Academy Award for Best Animated Feature. It focuses on a young girl who winds up in the spirit world while moving to a new home and must survive working at a bathhouse run by an evil witch to save her parents — who were transformed into pigs — and ensure they can all escape.
 
-### 3 Movies Taking Over Netflix This Week (#1 Is a Taylor Sheridan Thriller)
-Mon, 14 Sep 2026 19:19:11 GMT — https://collider.com/best-netflix-movies-watch-september-14-2026/
+### Every Jane Austen Book, Ranked
+Tue, 15 Sep 2026 04:18:11 GMT — https://collider.com/jane-austen-books-ranked/
 
-For the first time since its late-July debut, Spider-Man: Brand New Day lost its place at the top of the box office charts this past weekend. The Owens sisters, Sally and Gillian, were back to welcome the fall as Sandra Bullock and Nicole Kidman reprised their roles from 1998's Practical Magic . Practical Magic 2 , although it has faced a mixed reception from critics , managed to outperform Brand New Day and take the #1 spot at the box office with a $46 million global haul. But aside from the newest legacy sequel in theaters, what else should you be watching? To help you decide, here's a list of three movies you should stream on Netflix this week .
+Jane Austen wrote six novels, which feels like a small number considering how often her work pops up in a contemporary setting . Her books have been adapted into prestige films, miniseries, loose Hollywood reimaginings, and at least one zombie mashup. They've shaped how novelists from the Brontës to Sally Rooney think about interiority and dialogue, and the way two people in a room can say one thing and mean another. Even unfinished fragments like Sanditon and The Watsons have made their way mainstream.
 
-### 'Sunrise on the Reaping' Officially Changes Major Hunger Games Character [Exclusive]
-Mon, 14 Sep 2026 19:07:13 GMT — https://collider.com/hunger-games-sunrise-on-the-reaping-beetee-jeffrey-wright-replacement-kelvin-harrison-jr/
+### 23 Years Later, The Lord of the Rings' Final Line Still Defines the Fantasy Trilogy
+Tue, 15 Sep 2026 04:05:11 GMT — https://collider.com/lord-of-the-rings-return-of-the-king-best-final-quote-fantasy-film/
 
-Returning to Panem decades before Katniss Everdeen volunteered as tribute has required The Hunger Games: Sunrise on the Reaping to recast several of the franchise’s most recognizable characters. The upcoming prequel introduces younger versions of Haymitch, Effie, Plutarch, Wiress, and Beetee, each played by an actor tasked with honoring an established performance without simply imitating it. For Kelvin Harrison Jr. , following Jeffrey Wright came with an unexpected advantage.
+Peter Jackson ’s Lord of the Rings trilogy represents some of the finest blockbuster filmmaking of the 21st century. The director’s vision balanced the epic scale of J. R. R. Tolkien ’s fantasy saga with a light, humanist touch (as well as plenty of the gross-out jump scares that Jackson mastered with early films like his Muppets parody Meet the Feebles ). In the trilogy, the human element is closely tied with the story of the four hobbits who leave their home in the cozy, provincial Shire to face certain death in exchange for defeating the great evils that haunt Middle Earth. The first film of the trilogy, 2001’s Fellowship of the Ring , sets its opening moments in the Shire, and those scenes become very important the further the characters get from home. As the movies go on, the hobbits face monsters, enter war zones, and find themselves spiritually tormented, leaving the Shire as just a memory.
 
-### 'Silo's Final Season Needs To Address These 10 Important Mysteries
-Mon, 14 Sep 2026 18:22:11 GMT — https://collider.com/silo-season-4-mysteries/
+### The 20 Best Feel-Good Songs Guaranteed to Turn That Frown Upside Down
+Tue, 15 Sep 2026 03:56:11 GMT — https://collider.com/best-feel-good-songs/
 
-Spoiler Alert: This list contains spoilers for Silo Season 3. Drones. A battle of wits. A reveal of the truth. The trailer for Season 4 of Silo , which is scheduled for release on July 27, 2027, is epic. It answers some of the most pressing questions we have after watching the Season 3 finale, including if Juliette ( Rebecca Ferguson ) and Daniel/Troy ( Ashley Zukerman ) will actually meet. (Spoiler alert: the answer is yes!) There are a few familiar faces as well, confirming characters that will be returning.
+What's got you down, champ? Did you wake up on the wrong side of the bed? Maybe even under it? Did your partner leave you, or – no judgment – did they decide to stay? Did you pour scalding coffee on yourself, because your mug doesn't have that "Caution - contents may be hot" warning, causing you to jump up and hit the nearby radio, inadvertently changing it to a station that plays John Mellencamp 's "Jack and Diane" on repeat 24/7, and you couldn't stop it so you threw it out the window where it hit a bus, forcing it off the road to hit a streetlight, injuring all the orphans and nuns aboard? Hey, I've been there. But don't be glum, chum – we here at Collider want to turn your frown upside down, and to that end we've got a list of 20 tunes, in no particular order, guaranteed to do the job .
 
-### This Sci-Fi Cult Classic Was Officially Cancelled for Costing $1 Million Per Episode
-Mon, 14 Sep 2026 18:18:11 GMT — https://collider.com/farscape-cancelled-one-million-per-episode-budget/
+### 8 Must-Watch Shows To Binge While You Wait for 'The Pitt' Season 3
+Tue, 15 Sep 2026 03:55:11 GMT — https://collider.com/the-pitt-season-3-shows-to-watch/
 
-Many television series have been cancelled before they could fulfill their potential , with low ratings usually taking the blame for their unfortunate fate. Failing to capture audience interest was never quite the problem for Farscape . The reasons behind the science fiction show's controversially abrupt ending were more complicated than diminishing returns – not unlike how the show itself evolved into an underrated yet landmark genre work . The brainchild of Rockne S. O'Bannon and Brian Henson , Farscape became one of Syfy's — then known as the Sci-Fi Channel — flagship programs of the early 2000s.
+When a TV series has already won nine Primetime Emmys and is only two seasons in, you know it has to be good. The Pitt is not only good, but exemplary. The hit series starring Noah Wyle centers around a 15-hour shift at the fictional Pittsburgh Trauma Medical Center , nicknamed "The Pitt." Having a time constraint on the action creates an immediate sense of urgency and gives the show unparalleled momentum.
 
-### David Oyelowo Officially Makes History as ‘Treasure Island’s Long John Silver [Exclusive]
-Mon, 14 Sep 2026 18:03:47 GMT — https://collider.com/treasure-island-remake-mgm-plus-david-oyelowo-long-john-silver/
+### Jason Statham’s $28 Million Action Flop Is Officially a Streaming Hit
+Tue, 15 Sep 2026 03:45:11 GMT — https://collider.com/jason-statham-mutiny-amazon-number-one-streaming-hit/
 
-Treasure Island 's Long John Silver is the most iconic pirate in the literary canon; all of his buccaneer successors stand in his tall shadow. Now, a fresh take on Robert Louis Stevenson 's salty sea dog is headed to streaming this fall in a new miniseries, courtesy of David Oyelowo . Collider's Perri Nemiroff caught up with Oyelowo at the Toronto International Film Festival , where he's promoting his new film, Clarissa . One of Stevenson's most iconic creations, Long John Silver introduced many elements of the canonical ur-pirate, from his squawking pet parrot to his peg leg. Walt Disney's live-action adaptation of the novel, released in 1950, likewise influenced the popular image of the pirate; actor Robert Newton exaggerated his own native West Country accent for the role of Silver, creating what is now popularly known as the " pirate accent ."
+Jason Statham is an undisputed action icon. The actor has given us some amazing high-octane thrillers, heist movies, and ensemble action franchises, including The Transporter , The Meg , Fast X , Expendables , and newer entries like The Beekeeper , A Working Man , and more. He has a filmography where he excels at playing a “lone wolf” kind of character, who is sucked back into a violent life usually to avenge a loved one. Fans love to see him go all out on the bad guys, increasing his kill count with each film.
 
-### Forget 'Law & Order: SVU', This 105-Episode Police Procedural Is Officially Your Next Netflix Binge
-Mon, 14 Sep 2026 17:57:11 GMT — https://collider.com/major-crimes-netflix-police-procedural-105-episodes/
+### Netflix’s 11-Season Streaming Favorite Is Officially Leaving
+Tue, 15 Sep 2026 03:30:11 GMT — https://collider.com/netflix-removing-shameless-october-2026/
 
-If you’ve ever spent time browsing Netflix for something to watch that’s both familiar and exciting, Major Crimes showing up will be good news for you. Major Crimes is a police series that aired on TNT for six seasons between 2012 and 2018 and is now available on Netflix for binge-watching, with all 105 episodes.
+Netflix has had a huge year when it comes to original programming, both with movies and TV shows. The biggest feature film of the year for the streamer so far has been War Machine , the big-budget sci-fi thriller starring Alan Ritchson from Prime Video’s Reacher . The film reached the all-time Netflix top 10, and the streamer has already confirmed that a sequel is officially in the works. Netflix also found a massively successful TV show thanks to Harlan Coben with I Will Find You , the new kidnapping thriller starring Britt Lower ( Severance ) and Sam Worthington ( Avatar: Fire and Ash ). I Will Find You scored over 100 million views during its initial viewing period, and it was even seen in the top 10 as recently as a few weeks ago, several months removed from its global premiere.
 
-### Anya Taylor-Joy Officially Returns to Netflix for ‘Queen’s Gambit’ Follow-Up in 1 Month
-Mon, 14 Sep 2026 17:45:11 GMT — https://collider.com/anya-taylor-joy-new-netflix-movie-sacrifice-release-date-october-2026/
+### The Emotional Paul McCartney Track That Was His Last Conversation With John Lennon
+Tue, 15 Sep 2026 03:16:34 GMT — https://collider.com/paul-mccartney-here-today-john-lennon/
 
-Anya Taylor-Joy has already added well over $1 billion to her career box office total in 2026, and as the year goes along, this total is only going to grow with more new releases. Taylor-Joy headlined the first $1 billion movie of 2026 with The Super Mario Galaxy Movie (co-starring Chris Pratt ), but she then took her talents to streaming to star in one of the biggest Apple TV shows of the year, Lucky (co-starring Timothy Olyphant ). ATJ previously starred in one of the most successful Apple TV sci-fi movies of all time in The Gorge , which is billed as a mash-up of John Wick and The Last of Us . Later this year, Taylor-Joy will return to the sands of Arrakis in Dune: Part Three , which is expected to be one of the highest-grossing movies of the year, despite opening on the same day as Avengers: Doomsday .
+When John Lennon was murdered outside his home in New York City in 1980, the shock and grief was felt worldwide. Sometimes, when a public figure is so large and universal, it's hard to remember that he was also a person with loved ones who mourned him even more that fans did around the world. Paul McCartney was one of them. When Lennon died, The Beatles had been broken up for ten years, and he and McCartney's bitter feud was fresh in people's minds . So, a lot of people speculated that there was no love lost between them.
 

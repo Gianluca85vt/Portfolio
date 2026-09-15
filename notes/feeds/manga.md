@@ -1,72 +1,92 @@
-# Manga — harvested 2026-09-14T20:34:03.369Z
+# Manga — harvested 2026-09-15T09:35:42.192Z
 
 ## Anime News Network
+
+### Yuka Ōshima's 'Haru to Gen ~70-sai, Hajimete Kosodate~' Manga Gets Short TV Anime
+Tue, 15 Sep 2026 03:57:26 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/yuka-oshima-haru-to-gen-~70-sai-hajimete-kosodate~-manga-gets-short-tv-anime/.241794
+
+Kōdai Satō directs anime about 70-year-old man raising his young granddaughter at Imagica Infos/Imageworks Studio
+
+### Funbarus Posture Support Plush Toys Get Short TV Anime
+Tue, 15 Sep 2026 03:01:06 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/funbarus-posture-support-plush-toys-get-short-tv-anime/.241792
+
+Anime debuts on October 3; uses "2D x AI hybrid" animation production process
+
+### Get Your Very Own Pokémon Spam in South Korea
+Mon, 14 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-14/get-your-very-own-pokemon-spam-in-south-korea/.241764
+
+Not made from real Pokémon
+
+### We Are Aliens Film's New Trailer Highlights Heroine Konatsu
+Mon, 14 Sep 2026 22:11:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/we-are-aliens-film-new-trailer-highlights-heroine-konatsu/.241788
+
+Film opens in Japan on September 25
+
+### Cyberpunk: Edgerunners Joins Overwatch, Fortnite Battle Royale Games
+Mon, 14 Sep 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-14/cyberpunk-edgerunners-joins-overwatch-fortnite-battle-royale-games/.241766
+
+Just don't go cyberpsycho with all that chrome
+
+### Silent Hill f Game Gets Manga Based on Fox Mask Character
+Mon, 14 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/silent-hill-f-game-gets-manga-based-on-fox-mask-character/.241785
+
+Manga tells character's origin story
+
+### Arata Aki Launches New Enma Note Demon Idol Manga
+Mon, 14 Sep 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/arata-aki-launches-new-enma-note-demon-idol-manga/.241782
+
+<cite>Enma Note: Jigoku Idol Project</cite> debuts on September 15
+
+### 2027 Doraemon Film's Teaser Unveils March 5 Opening in Japan
+Mon, 14 Sep 2026 18:51:01 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/2027-doraemon-film-teaser-unveils-march-5-opening-in-japan/.241749
+
+<cite>Eiga Doraemon: Nobita no Jōki Jikansha</cite> film set in 19th century Victorian London
+
+### Atsushi Kaneko Launches New MISH/MASH Manga
+Mon, 14 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/atsushi-kaneko-launches-new-mish-mash-manga/.241781
+
+<cite>MISH/MASH</cite> debuts on September 28
+
+### Mushoku Tensei: Jobless Reincarnation III ‒ Episode 12
+Mon, 14 Sep 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-12/.241743
+
+More than just a simple call to adventure, this episode of <i>Mushoku Tensei</i> feels like the defining moment for the entire rest of the story.
+
+### Suikoden Star Leap Manga Ends
+Mon, 14 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/suikoden-star-leap-manga-ends/.241735
+
+Manga launched in November 2025
 
 ### You and I Are Polar Opposites Season 2 ‒ Episode 11
 Mon, 14 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-11/.241741
 
 Under different circumstances, I'd be more than happy to just watch these kids be kids, but now that we're running down to the wire, I'm more than a little concerned as to what all this stalling will actually lead to.
 
-### Lycoris Recoil Manga Ends in 2 Chapters
-Mon, 14 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/lycoris-recoil-manga-ends-in-2-chapters/.241734
-
-Manga adaptation debuted in September 2022
-
-### Draw This, Then Die! ‒ Episode 10
-Mon, 14 Sep 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/draw-this-then-die/episode-10/.241740
-
-Similar to how Hebichika is not the greatest boss, she's arguably not that great of a mother either, instilling Hikaru with this mentality that to be successful, she needs to see herself as above everybody else.
-
-### Fire Emblem: Fortune's Weave Game's Overview Trailer Previews Story, Gameplay
-Mon, 14 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/fire-emblem-fortune-weave-game-overview-trailer-previews-story-gameplay/.241775
-
-Game launches for Switch 2 on Thursday
-
-### The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3 ‒ Episode 35
-Mon, 14 Sep 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3/episode-35/.241737
-
-It reinforces how lethally cute Shizuka is, and propels Nano to go for it…as much as she needs to actively "go for it" with a girl she's already in a polycule with. Is that inefficient? I'm sure Nano has crunched the numbers.
-
-### Live-Action Look Back Film Wins Student Jury's UNIMED Award at Venice Int'l Film Fest
-Mon, 14 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/live-action-look-back-film-wins-student-jury-unimed-award-at-venice-intl-film-fest/.241776
-
-Film opened in Japan on September 11
-
-### The Elusive Samurai Season 2 ‒ Episode 9
-Mon, 14 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-9/.241714
-
-It's neat to see a grown-up mirror of Tokiyuki, and their crazed head-bobbing duel is the single funniest moment of the whole episode.
-
-### Netflix, Sega to Produce Live-Action Films for Crazy Taxi, Stranger Than Heaven Games; New Animated Children's Series for Sonic the Hedgehog
-Mon, 14 Sep 2026 12:53:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/netflix-sega-to-produce-live-action-films-for-crazy-taxi-stranger-than-heaven-games-new-animated-/.241778
-
-Dan Gregor, Doug Mand to write script for <cite>Crazy Taxi</cite> film
-
-### Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 21
-Mon, 14 Sep 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-21/.241717
-
-It's a little surprising to confirm that Ferdinand hadn't actually clocked Rosemyne's mana compression.
-
-### The World's Strongest Witch Volumes 1-2 Light Novel Review
-Mon, 14 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-world-strongest-witch/volumes-1-2/.241385
-
-In a world where only she can see the strategy guide, no one will be able to stand up to this witch’s skills, her weapons, her charisma, or her luck!
-
-### Producer Jeremy Thomas Dies at 77
-Mon, 14 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/producer-jeremy-thomas-dies-at-77/.241770
-
-Thomas produced <cite>The Last Emperor</cite>, <cite>Blade of the Immortal</cite> live-action films
-
-### Ace Combat 8: Wings of Theve Game's Live-Action Prequel Series Previews Story in Trailer
-Mon, 14 Sep 2026 11:30:05 -0400 — https://www.animenewsnetwork.com/news/2026-09-14/ace-combat-8-wings-of-theve-game-live-action-prequel-series-previews-story-in-trailer/.241773
-
-4-episode series premieres on Tuesday with future episodes on September 17, 23, 29
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Julius Faces Reid Again in Re:ZERO Season 4 Episode 17 Preview
+Tue, 15 Sep 2026 08:59:57 GMT — https://animecorner.me/julius-faces-reid-again-in-rezero-season-4-episode-17-preview/
+
+Re:ZERO Season 4 has revealed the Episode 17 (Episode 83 overall) preview ahead of its September 16, 2026 premiere.
+
+### The Dangers in My Heart Manga Has Officially Ended After 8 Years of Serialization
+Tue, 15 Sep 2026 08:21:34 GMT — https://animecorner.me/the-dangers-in-my-heart-manga-has-officially-ended-after-8-years-of-serialization/
+
+Norio Sakurai's The Dangers in My Heart (BokuYaba) manga officially ended today, with its final chapter released on Akita Shoten's Champion Cross website.
+
+### Even a Replica Can Fall in Love Manga Concludes With 7th Volume
+Tue, 15 Sep 2026 07:09:59 GMT — https://animecorner.me/even-a-replica-can-fall-in-love-manga-concludes-with-7th-volume/
+
+The Even a Replica Can Fall in Love manga is approaching its end. Kadokawa&hellip;
+
+### Lycoris Recoil Manga To Conclude in Two Chapters
+Tue, 15 Sep 2026 01:57:52 GMT — https://animecorner.me/lycoris-recoil-manga-to-conclude-in-two-chapters/
+
+Monthly Comic Flapper announced that the Lycoris Recoil manga will end in two chapters.&hellip;
 
 ### Naruto Non-Verbal Live Show Reveals Team 7 Key Visual and Character Visuals Starring Naruto, Sasuke, Sakura and Kakashi
 Mon, 14 Sep 2026 17:56:49 GMT — https://animecorner.me/naruto-non-verbal-live-show-reveals-team-7-key-visual-and-character-visuals-starring-naruto-sasuke-sakura-and-kakashi/
@@ -108,27 +128,12 @@ Mon, 14 Sep 2026 09:58:49 GMT — https://animecorner.me/yu-gi-oh-special-new-an
 
 A new Yu-Gi-Oh! special animation has been released to commemorate the first original art exhibition dedicated to the series creator.
 
-### The Ramparts of Ice Season 2 New Trailer Previews Opening Theme by THE BEAT GARDEN
-Mon, 14 Sep 2026 09:28:21 GMT — https://animecorner.me/the-ramparts-of-ice-season-2-new-trailer-previews-opening-theme-by-the-beat-garden/
-
-The Ramparts of Ice Season 2 has released its second trailer, previewing the opening theme “Escort” by THE BEAT GARDEN.
-
-### Ave Mujica prima aurora Movie Releases Official Trailer
-Mon, 14 Sep 2026 09:17:03 GMT — https://animecorner.me/ave-mujica-prima-aurora-movie-releases-official-trailer/
-
-The official trailer for the upcoming Ave Mujica prima aurora movie has been released on Monday.&hellip;
-
-### Ranma 1/2 Season 3 Reveals Third Trailer, Opening and Ending Theme Songs
-Mon, 14 Sep 2026 09:09:29 GMT — https://animecorner.me/ranma-1-2-season-3-reveals-third-trailer-opening-and-ending-theme-songs/
-
-Ranma 1/2 Season 3 revealed its third trailer, previewing the opening and ending theme songs ahead of the anime's October 3 return.
-
-### Mushoku Tensei: Jobless Reincarnation Season 3 Blu-ray Volume 2 Reveals Shirotaka Jacket Artwork Featuring Current and Future Rudeus
-Sun, 13 Sep 2026 15:59:36 GMT — https://animecorner.me/mushoku-tensei-jobless-reincarnation-season-3-blu-ray-volume-2-reveals-shirotaka-jacket-artwork-featuring-current-and-future-rudeus/
-
-Mushoku Tensei: Jobless Reincarnation Season 3 has revealed the jacket visual for its second&hellip;
-
 ## MyAnimeList News
+
+### Spin-off Manga Puchimas!: Petit iDOLM@STER Concludes 18-Year Serialization
+Mon, 14 Sep 2026 21:07:50 -0700 — https://myanimelist.net/news/74721441?_location=rss
+
+The official X (formerly Twitter) account of the Dengeki Maoh magazine announced on Monday that the Puchimas!: Petit iDOLM@STER spin-off manga will end with its 200th and final chapter in the issue releasing on December 25. Akane began serializing the four-panel comedy manga, based on Bandai-Namco s The iDOLM@STER franchise, in Dengeki Maoh in July 2008. Kadokawa published the 15th volume in December 2024, with the 16th and final volume scheduled for a February 2027 release. A 64-episode ne...
 
 ### Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. Reveals Additional Cast, Staff, Theme Songs, Main Promo
 Mon, 14 Sep 2026 04:25:55 -0700 — https://myanimelist.net/news/74719088?_location=rss
@@ -149,11 +154,6 @@ Uoto, the creator of Chi. Chikyuu no Undou ni Tsuite (Orb: On the Movements of t
 Sun, 13 Sep 2026 04:43:56 -0700 — https://myanimelist.net/news/74713683?_location=rss
 
 The special livestream presentation for the television anime adaptation of Katsuwo s #Zombie Sagashitemasu (#I m Looking for Zombie) manga unveiled additional cast, staff, a key visual (pictured right), the theme songs, and first promotional video on Sunday. The anime series is scheduled to premiere on October 3 at 11:30 p.m. on TV Asahi s IMAnimation programming block, followed by BS Asahi and AT-X. Cast: Mikazuki: Youko Hikasa (High School DxD) Touka: Makoto Koichi (Tensei shit...
-
-### Tempal: Item no Chikara Unveils Additional Cast, Third Promo
-Sat, 12 Sep 2026 23:21:19 -0700 — https://myanimelist.net/news/74712551?_location=rss
-
-The official website for the television anime adaptation of Saenal Park and Team Argo s Tempal: Item no Chikara (Overgeared) webtoon unveiled a pair of additional cast, third key visual (pictured), and third promotional video on Saturday. The anime series is scheduled to premiere on October 2 at 11:30 p.m. on Tokyo MX and BS11. Voice actresses Yuki Murata and Yurika Hirayama (Tamon-kun Ima Docchi!?) are joining the cast as Irene and Isabel, respectively. Ayako Kouno (Sword Art Online: Progr...
 
 ## Otaku USA
 
