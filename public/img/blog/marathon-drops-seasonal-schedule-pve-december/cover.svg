@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#1F5F5B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="170" fill="#8FE3D8" font-family="Helvetica,Arial,sans-serif" font-size="34" letter-spacing="6">MARATHON</text>
+  <text x="80" y="330" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="150" font-weight="bold">+77 days</text>
+  <text x="80" y="410" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="46">22 September becomes 8 December</text>
+  <text x="80" y="480" fill="#8FE3D8" font-family="Helvetica,Arial,sans-serif" font-size="36">and the season calendar goes with it</text>
+</svg>
