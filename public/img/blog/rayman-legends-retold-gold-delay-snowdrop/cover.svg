@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#1E5F8C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#9FD2F0" letter-spacing="6">RAYMAN LEGENDS RETOLD</text>
+  <text x="80" y="330" font-family="Helvetica, Arial, sans-serif" font-size="210" font-weight="bold" fill="#FFFFFF">GOLD</text>
+  <text x="80" y="420" font-family="Helvetica, Arial, sans-serif" font-size="56" fill="#FFFFFF">then delayed two months</text>
+  <text x="80" y="500" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#9FD2F0">1 October &#8594; 3 December 2026</text>
+</svg>
