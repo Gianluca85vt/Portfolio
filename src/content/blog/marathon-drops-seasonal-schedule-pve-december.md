@@ -4,7 +4,6 @@ date: 2026-09-15
 category: Games
 excerpt: Bungie pushed Marathon's September update to 8 December and dropped the season calendar. What that calendar was doing upstream, in the art pipeline.
 cover: /img/blog/marathon-drops-seasonal-schedule-pve-december/shot-01.jpg
-draft: true
 ---
 
 Bungie posted the news on 14 September. Marathon's seasonal update was due on the
