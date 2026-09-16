@@ -1,72 +1,87 @@
-# Manga — harvested 2026-09-15T19:49:47.472Z
+# Manga — harvested 2026-09-16T09:31:47.467Z
 
 ## Anime News Network
 
-### Jujutsu Kaisen Ranks #2 on Bookscan's August Adult Graphic Novel List in U.S.
-Tue, 15 Sep 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/jujutsu-kaisen-ranks-no.2-on-bookscan-august-adult-graphic-novel-list-in-u.s/.241800
+### Entergram Announces Vtuber Azusa Honami's Azure Memoria Game
+Wed, 16 Sep 2026 04:45:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/entergram-announces-vtuber-azusa-honami-azure-memoria-game/.241842
 
-16 manga volumes including <cite>Kagurabachi, The Summer Hikaru Died, Gachiakuta, Dandadan</cite> make list
+Azusa supervises console game
 
-### Goodbye, Lara Anime Gets Manga
-Tue, 15 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/goodbye-lara-anime-gets-manga/.241817
+### Hi Score Girl's Rensuke Oshikiri, Etrange Overlord's Roman Kitayama Present Noroi Ayashi Horror RPG
+Wed, 16 Sep 2026 03:48:58 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/hi-score-girl-rensuke-oshikiri-etrange-overlord-roman-kitayama-present-noroi-ayashi-horror-rpg/.241840
 
-<cite>Citrus</cite> creator Saburouta debuts manga in October
+Clover Lab's game slated for Switch, Switch 2, PC via Steam in Q2 2027
 
-### Higurashi: When They Cry Mahjong Game Gets Remaster for Switch, PS5, PC
-Tue, 15 Sep 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/higurashi-when-they-cry-mahjong-game-gets-remaster-for-switch-ps5-pc/.241810
+### Crunchyroll Acquires 7.03% of Japanese Media Company Link-U
+Wed, 16 Sep 2026 03:31:05 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/crunchyroll-acquires-7.03-percent-of-japanese-media-company-link-u/.241834
 
-<cite>Higurashi no Naku Koro ni Jong Remaster</cite> launches in Japan in 2027
+Crunchyroll invests 917 million yen in firm working on Crunchyroll Manga service
 
-### Crunchyroll Announces Release Schedule for Fall 2026 Season
-Tue, 15 Sep 2026 13:52:07 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811
+### Asaka Performs 'Tetsuryō! meet with Tetsudō Musume' Anime's Opening Song
+Wed, 16 Sep 2026 02:43:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/asaka-performs-tetsuryo-meet-with-tetsudo-musume-anime-opening-song/.241839
 
-<cite>Magic Knight Rayearth</cite>, <cite>Overgeared</cite>, <cite>Black Clover Season 2</cite>, <cite>The Apothecary Diaries Season 3</cite>, <cite>PSYREN</cite>, more
+Asaka performs "GO! GO! RAILWAY!!" opening for October 8 series
 
-### Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 8
-Tue, 15 Sep 2026 13:35:21 -0400 — https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-8/.241815
+### Shogakukan Launches 'Rumiko Takahashi Fantasy Manga Awards'
+Wed, 16 Sep 2026 02:32:42 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/shogakukan-launches-rumiko-takahashi-fantasy-manga-awards/.241830
 
-After going through all the trouble of bringing Aizen back, this is all we got?
+Takahashi to head judging panel with 1st entries accepted until January 11
 
-### JoJo's Bizarre Adventure: Part 7--Steel Ball Run Volumes 6-8 Manga Review
-Tue, 15 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/jojo-bizarre-adventure/part-7-steel-ball-run/volumes-6-8/.241387
+### Mazenchu Food Characters Get TV Anime on October 7
+Wed, 16 Sep 2026 02:04:38 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/mazenchu-food-characters-get-tv-anime-on-october-7/.241833
 
-Steel Ball Run is Hirohiko Araki at his most untethered to reality, and you should be equal parts excited and horrified.
+Anime daily life in school for food ingredients
 
-### Though I Am an Inept Villainess ‒ Episode 10
-Tue, 15 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-10/.241779
+### Pragmata's Diana & Mega Man Join Forces on Social Media
+Tue, 15 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-15/pragmata-diana-and-mega-man-join-forces-on-social-media/.241803
 
-The Inner Palace is essentially a human kodoku – or at least, I’d bet that’s how Shu Gabi sees it.
+Is this the start of a new Rock & Roll duo?
 
-### Beyblade X Anime's Visual Reveals New 'Bey Kingdom Arc' for October 9
-Tue, 15 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/beyblade-x-anime-visual-reveals-new-bey-kingdom-arc-for-october-9/.241809
+### Witch and Mercenary Anime's New Video Unveils More Cast & Staff, April 2027 Debut
+Tue, 15 Sep 2026 23:38:43 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/witch-and-mercenary-anime-new-video-unveils-more-cast-and-staff-april-2027-debut/.241831
 
-Anime premiered in October 2023
+Yuri Noguchi, Hiromu Mineta, Haruka Shiraishi join cast
 
-### One Piece: Grand Gourmet Cooking Management Simulation Game's Trailer Previews Cooking, Interior Design, Characters
-Tue, 15 Sep 2026 10:57:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/one-piece-grand-gourmet-cooking-management-simulation-game-trailer-previews-cooking-interior-design-/.241808
+### Bayonetta Joins Godzilla, Evangelion in Sonic Racing CrossWorlds Game's Year 2
+Tue, 15 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-15/bayonetta-joins-godzilla-evangelion-in-sonic-racing-crossworlds-game-year-2/.241825
 
-Game launches for Switch 2, Switch, PC, iOS, Android on October 23
+World Championship Finals livestream to offer more details on October 9
 
-### Reborn as a Space Mercenary TV Anime Unveils Promo Video, More Cast, Visual
-Tue, 15 Sep 2026 10:38:13 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/reborn-as-a-space-mercenary-tv-anime-unveils-promo-video-more-cast-visual/.241806
+### Val x Love's Ryōsuke Asakura Launches New Manga Series
+Tue, 15 Sep 2026 22:33:53 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/val-x-love-ryosuke-asakura-launches-new-manga-series/.241824
 
-Trailer previews FLOW's opening theme song for October 4 anime
+<cite>Evangeline Puts on Shoes</cite> about popular actress, aspiring shoemaker in high school debuted on Wednesday
 
-### Goodbye, Lara ‒ Episode 11
-Tue, 15 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/goodbye-lara/episode-11/.241774
+### Puchimas! -Petit Idolm@ster- Manga to End on December 25
+Tue, 15 Sep 2026 21:49:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/puchimas-petit-idolm@ster-manga-to-end-on-december-25/.241822
 
-What is a witch but a woman with more power and knowledge than the world is comfortable with?
+Akane launched series in 2008
 
-### This Week in Anime - Journey to the Past
-Tue, 15 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-15/.241758
+### Sekina Aoi's Asobi no Kankei Novels Get Manga Adaptation
+Tue, 15 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/sekina-aoi-asobi-no-kankei-novels-get-manga-adaptation/.241786
 
-You know what they say about people who fail to learn from history.
+Manga launches on September 25
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Shangri-La Frontier Season 3 Key Visual Revealed, Two Consecutive Cours Starting on January 10, 2027
+Wed, 16 Sep 2026 09:03:56 GMT — https://animecorner.me/shangri-la-frontier-season-3-key-visual-revealed-two-consecutive-cours-starting-on-january-10-2027/
+
+Shangri-La Frontier Season 3 revealed the first key visual, confirming two consecutive cours and a January 10, 2027 premiere.
+
+### The Apothecary Diaries Season 3 Reveals 11 Character Posters Ahead of October Premiere
+Wed, 16 Sep 2026 04:19:42 GMT — https://animecorner.me/the-apothecary-diaries-season-3-reveals-11-character-posters-ahead-of-october-premiere/
+
+The Apothecary Diaries Season 3 has revealed a new set of 11 character posters ahead of its October 2, 2026 premiere.
+
+### Witch and the Mercenary Anime Reveals First Trailer, New Cast, April 2027 Release
+Wed, 16 Sep 2026 03:28:52 GMT — https://animecorner.me/witch-and-the-mercenary-anime-reveals-first-trailer-new-cast-april-2027-release/
+
+Witch and the Mercenary anime revealed the first trailer, two new visuals, three cast members, and an April 2027 release.
 
 ### A Returner's Magic Should Be Special Season 2 Reveals New Trailer, Main Key Visual, October 7 Premiere
 Tue, 15 Sep 2026 14:10:52 GMT — https://animecorner.me/a-returners-magic-should-be-special-season-2-reveals-new-trailer-main-key-visual-october-7-premiere/
@@ -113,22 +128,17 @@ Mon, 14 Sep 2026 15:03:50 GMT — https://animecorner.me/interview-yusuke-kobaya
 
 Re:ZERO -Starting Life in Another World- has been very successful in our Spring and&hellip;
 
-### Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! Reveals Main Trailer, Visual, Theme Songs and New Cast
-Mon, 14 Sep 2026 14:57:39 GMT — https://animecorner.me/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-reveals-main-trailer-visual-theme-songs-and-new-cast/
-
-Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! anime revealed the main visual and trailer, October 5 premiere.
-
-### New Gundam TV Anime Mobile Suit Gundam RG XARX-ZERO Scheduled for April 2027
-Mon, 14 Sep 2026 12:46:14 GMT — https://animecorner.me/new-gundam-tv-anime-mobile-suit-gundam-rg-xarx-zero-scheduled-for-april-2027/
-
-Mobile Suit Gundam RG XARX-ZERO, the brand-new TV anime directed by Kenji Kamiyama, will officially premiere in April 2027.
-
-### Interview: VK Blanka on Black Clover and Fruits Basket Theme Songs
-Mon, 14 Sep 2026 12:33:14 GMT — https://animecorner.me/interview-vk-blanka-on-black-clover-and-fruits-basket-theme-songs/
-
-During his visit to the German convention AnimagiC, we sat down with singer and&hellip;
-
 ## MyAnimeList News
+
+### The Road to Redemption: Unmasking The Vermilion Mask
+Tue, 15 Sep 2026 21:27:35 -0700 — https://myanimelist.net/news/74725112?_location=rss
+
+Combining dark fantasy, action, and an unconventional approach to the shounen genre, Shuiro no Kamen (The Vermilion Mask) is set to bring its striking world and mysterious masks to television this October. From its first chapters, the manga stands out for its willingness to place its protagonist in situations rarely seen in shounen stories, forcing him to confront guilt, loss, and the consequences of his actions rather than simply growing stronger. At Anime Expo 2026, we had the opportunity to...
+
+### Majo to Youhei Reveals Additional Cast, Staff, First Promo for Spring 2027
+Tue, 15 Sep 2026 20:29:44 -0700 — https://myanimelist.net/news/74725001?_location=rss
+
+The official website for the television anime adaptation of Kaeru Chouhoukiteki s Majo to Youhei (Witch and Mercenary) light novel revealed additional cast, start, a second teaser visual (pictured), and the first promotional video on Wednesday. The anime series will premiere on 30 NTV stations and BS NTV in April 2027. Cast Isana Gayhone: Yuri Noguchi (Ryza no Atelier) Alan Clows: Hiromu Mineta (Katainaka no Ossan, Kensei ni Naru) Elsia Armet: Haruka Shiraishi (Clevatess) Staff Assistant S...
 
 ### Fall 2026 Preview
 Tue, 15 Sep 2026 10:24:18 -0700 — https://myanimelist.net/news/74723259?_location=rss
@@ -160,19 +170,14 @@ Mon, 14 Sep 2026 04:20:59 -0700 — https://myanimelist.net/news/74719080?_locat
 
 Publishing company Kodansha announced a television anime adaptation of Motohiro Den s Funsou deshitara Hatta made (If It s a Conflict, Leave it to Hatta) web manga on Monday, revealing an announcement visual (pictured). Den began serializing the mystery seinen manga in the Morning magazine in November 2019 before transferring it on the D Morning web service in September 2021. Kodansha published the 19th volume on February 20, with the 20th volume scheduled for a September 18 release. F...
 
-### Chi. Chikyuu no Undou ni Tsuite Creator Announces Two New Manga
-Sun, 13 Sep 2026 18:28:06 -0700 — https://myanimelist.net/news/74717598?_location=rss
-
-Uoto, the creator of Chi. Chikyuu no Undou ni Tsuite (Orb: On the Movements of the Earth), announced two new manga on their X (formerly Twitter) account on Friday and Saturday. The first title, Hallucination Meat, is expected to begin in Shogakukan s Weekly Big Comic Spirits within this year. Test Taker/Cheaters, the second title, will be written by Uoto with artwork by Kyou Yoneshiro. The manga is expected to launch in Kodansha s monthly Afternoon magazine at the beginning of 2027. U...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-### The Credits Roll Into the Sea Volume 1 Review
-Mon, 14 Sep 2026 09:00:01 +0000 — https://animeuknews.net/2026/09/the-credits-roll-into-the-sea-volume-1-review/
+### Deep-Sea Aquarium Magmell Volume 1 Review
+Wed, 16 Sep 2026 09:00:59 +0000 — https://animeuknews.net/2026/09/deep-sea-aquarium-magmell-volume-1-review/
 
-A love of cinema brings widowed Umiko and young film student Kai together. Will Kai’s work inspire Umiko to try her hand at making her own movies?
+200 metres below Tokyo is Magmell, the world's first deep-sea aquarium where Kotaro spends his days working as a janitor and dreaming of becoming a caretaker.
 

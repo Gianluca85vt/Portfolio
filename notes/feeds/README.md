@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-15T19:49:47.472Z
+# Source feeds — harvested 2026-09-16T09:31:47.467Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -14,6 +14,7 @@ own feed: headline, link, date, and their summary.
 Already aired, so a round-up rather than a preview:
 
 - Eurogamer — Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode
+- Push Square — Feature: 50+ PS5, PS4 Games to Buy in PS Store s Tokyo Game Show Sale (North America/Europe)
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -23,10 +24,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Film & TV next.** 74 articles have gone out since the last one.
+**Write Film & TV next.** 75 articles have gone out since the last one.
 
-- **Film & TV** — BROKEN. 74 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 157.
-- **Manga and anime** — BROKEN. 14 articles since the last one; quota is one in 6. 4 in the archive of 157.
+- **Film & TV** — BROKEN. 75 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 158.
+- **Manga and anime** — BROKEN. 15 articles since the last one; quota is one in 6. 4 in the archive of 158.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -35,13 +36,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 32 items
+- [Manga](manga.md) **owed** — 33 items
 - [Film & TV](film-tv.md) **owed** — 66 items
-- [Games](games.md) — 99 items
+- [Games](games.md) — 100 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 14 items
-- [AI](ai.md) — 4 items
+- [3D](3d.md) — 12 items
+- [AI](ai.md) — 3 items
 
-Total: 297 items.
+Total: 296 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

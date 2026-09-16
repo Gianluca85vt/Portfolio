@@ -1,6 +1,21 @@
-# Games — harvested 2026-09-15T19:49:47.472Z
+# Games — harvested 2026-09-16T09:31:47.467Z
 
 ## Eurogamer
+
+### You can play a sizeable demo of Wo Long 2: Wings of Ember right now, getting you ready for its March 2027 release date
+Wed, 16 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/wo-long-2-wings-of-ember-demo-release-date
+
+Overnight, in the run up to Tokyo Game Show, Koei Tecmo and Team Ninja announced that Wo Long 2: Wings of Ember, the latest instalment in the studios' dark Three Kingdoms-inspired action-RPG series, will be released worldwide on 4th March 2027. The two companies also announced a huge alpha test for the game in the form of a free demo that provides an early look at the game, including an in-progress character creation system, and online multiplayer for up to three players. Read more
+
+### Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update
+Wed, 16 Sep 2026 08:42:38 +0000 — https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed
+
+The launch of Diablo 4 's Season of Hell's Legacy got off to a rough start. The anticipated season was announced at BlizzCon over the weekend to arrive alongside a 30th anniversary celebration of the Diablo franchise . And though Season of Hell's Legacy eventually went live, it did so several hours after it was supposed to. Read more
+
+### Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive
+Wed, 16 Sep 2026 01:00:00 +0000 — https://www.eurogamer.net/wo-long-2-wings-of-ember-preview
+
+The original Wo Long is an overlooked gem . Fast-paced, brutal, and compelling, the game made a name for itself amongst hardcore action-RPG aficionados because of its key gimmick: that basically every single attack could be deflected. While some criticised this because it made the game 'repetitive', I thought it was interesting and well-executed enough to carry you through the entire playtime. Augmented by a momentum mechanic that rethought stamina for the fast-paced fights, and a still best-in-class 'morale' system that encouraged exploration and completionism, Wo Long has a permanent place on my harddrive. Read more
 
 ### After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC
 Tue, 15 Sep 2026 16:20:23 +0000 — https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced
@@ -47,22 +62,17 @@ Mon, 14 Sep 2026 19:04:43 +0000 — https://www.eurogamer.net/gta-6-confirmed-ac
 
 Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root. Read more
 
-### Marathon's permanent PvE mode and next major update delayed to December days before launch, and Bungie's "moving away from a strict season schedule"
-Mon, 14 Sep 2026 17:54:07 +0000 — https://www.eurogamer.net/marathon-pve-mode-delay-bungie-major-update
-
-Marathon Season 3 and everything that was due to come alongside it has been delayed, including the sci-fi shooter's long-awaited full PvE mode. Bungie's next major update is now launching in December instead, and the famed studio is pivoting away from seasonal updates entirely. Read more
-
-### "It's absolutely our goal to expand the market" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal
-Mon, 14 Sep 2026 17:00:00 +0000 — https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market
-
-Valve has said its new Steam Frame VR headset, despite costing nearly &pound;900 for a base model, is intended to "expand the market" of virtual reality headsets. That's both because it's lightweight and standalone, but also because it addresses a fundamental and long-running problem VR headsets have had. Read more
-
-### Valve's long-awaited standalone VR headset Steam Frame starts at £889 and sign-ups open today - but you'll need to be quick
-Mon, 14 Sep 2026 17:00:00 +0000 — https://www.eurogamer.net/steam-frame-vr-price-where-how-to-buy
-
-After years of rumours, and 10 months since its official unveiling, Valve's long-awaited standalone VR headset, Steam Frame, is poised to begin shipping soon, and with a confirmed starting price of &pound;889. Read more
-
 ## GamesIndustry.biz
+
+### Bohemia Interactive takes minority stake in Everwind developer Enjoy Studio
+Wed, 16 Sep 2026 07:57:45 +0000 — https://www.gamesindustry.biz/bohemia-interactive-takes-minority-stake-in-everwind-developer-enjoy-studio
+
+Bohemia Interactive has secured an undisclosed minority stake in Polish developer Enjoy Studio, creator of co-op FPS survival RPG Everwind. Read more
+
+### Why the publisher of Nintendo Life is launching a new PC gaming site
+Wed, 16 Sep 2026 06:30:00 +0000 — https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site
+
+Games media publisher Hookshot has launched Steam Hype , a new PC-focused media outlet. It is the fifth site launched by Hookshot &ndash; in which GamesIndustry.biz parent IGN Entertainment holds a minority stake through its acquisition of Gamer Network &ndash; and completes the firm's platform lineup alongside Nintendo Life, Push Square, Pure Xbox, and retro brand Time Extension. Read more
 
 ### Why switching main characters for your game's sequel might be a mistake
 Tue, 15 Sep 2026 12:30:00 +0000 — https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake
@@ -114,21 +124,26 @@ Mon, 14 Sep 2026 12:58:00 +0000 — https://www.gamesindustry.biz/roblox-creator
 
 Roblox will enable creators to publish their games on mobile, PC, and console through the Roblox Everywhere initiative. Read more
 
-### "What's the harm in asking?" – Dlala Studios on taking a big swing to get comedy legend Bob Mortimer for the upcoming game Murals
-Mon, 14 Sep 2026 12:30:00 +0000 — https://www.gamesindustry.biz/whats-the-harm-in-asking-dlala-studios-on-taking-a-big-swing-to-get-comedy-legend-bob-mortimer-for-the-upcoming-game-murals
-
-The name Bob Mortimer might not mean much to those who haven't lived in the UK, but he's a huge deal in the world of British comedy. Read more
-
-### New StarCraft title to launch in 2030, will be an open-world FPS
-Mon, 14 Sep 2026 10:29:14 +0000 — https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps
-
-Blizzard Entertainment has announced that the next StarCraft title will shift from real-time strategy to an open-world first-person shooter. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Feature: 50+ PS5, PS4 Games to Buy in PS Store s Tokyo Game Show Sale (North America/Europe)
+Wed, 16 Sep 2026 09:45:00 GMT — https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-tokyo-game-show-sale-north-americaeurope
+
+Recommended games going cheap. It's time for Tokyo Game Show 2026, and Sony's latest sale promotes the show while dropping prices on thousands of games. Live until 23rd September, the Tokyo Game Show sale includes a boatload of PS5 and PS4 games going cheap, and it's a lot to look through. Read the full article on pushsquare.com
+
+### PS5 s New Firmware Update Available to Download Now, Here s What It Does
+Wed, 16 Sep 2026 09:15:00 GMT — https://www.pushsquare.com/news/2026/09/ps5s-new-firmware-update-available-to-download-now-heres-what-it-does
+
+What does version 26.06-14.00.00 do? Sony has announced version 26.06-14.00.00 of the PS5 system software has begun rolling out, and should be available to download to your console within the next 24 hours or so. This update is more than just a stability improvement, so let's take a look at the full list of patch notes, as per Sony: Read the full article on pushsquare.com
+
+### New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort
+Tue, 15 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/09/new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-and-comfort
+
+Pulse headset this year, Pulse Edge headset in 2027. PlayStation has announced it's updating its line of PS5 Pulse headsets with two new models providing improved sound, comfort, and noise-rejection features for chat that filter out background noise. There will be two new models on offer supporting PS5 consoles and other devices: the Pulse Wireless Headset and the Pulse Edge Wireless Headset. Read the full article on pushsquare.com
 
 ### Marvel s Wolverine PS5 Launch Marked with Celebratory Art from Other PS Studios
 Tue, 15 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/09/marvels-wolverine-ps5-launch-marked-with-celebratory-art-from-other-ps-studios
@@ -175,22 +190,12 @@ Tue, 15 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/previews/stupid-nev
 
 Stupid (me) does die. Stupid Never Dies is a much deeper game than it initially seemed. I’d only briefly come across some promotional material for GPTRACK50’s zombie-based roguelike by the time I sat down to play it at Gamescom. So to say I was surprised when some of its developers walked me through its extensive gameplay system would be putting it lightly. Read the full article on pushsquare.com
 
-### Get Indie Cracker The Alters on a PS5 Disc in Physical Complete Edition
-Tue, 15 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/09/get-indie-cracker-the-alters-on-a-ps5-disc-in-physical-complete-edition
-
-Base game + Last Variable DLC for £35/$40. 11 Bit Studios has shared it's pressing The Alters onto a PS5 disc and selling a complete physical edition that contains the base game and its Last Variable expansion. Dubbed the Complete Edition, it releases in boxed form for PS5 on 20th November 2026, priced at £34.99 / $39.99, and is packaged "onto a single PlayStation 5 disc". Pre-orders go live at retailers today. Read the full article on pushsquare.com
-
-### Marvel Tokon Dev Apologises for PC Launch Woes, Outline Future Balance Updates
-Tue, 15 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/09/marvel-tokon-dev-apologises-for-pc-launch-woes-outline-future-balance-updates
-
-Arc System working. Developer Arc System Works has published a blog post about its recent fighting game, Marvel Tokon: Fighting Souls , touching on the PC version's issues before diving into a bunch of incoming updates. The game was released by Sony in early August on both PS5 and PC, and the latter version sadly had some teething troubles that meant it was pretty rough to play in the opening days and weeks. Read the full article on pushsquare.com
-
-### We ve Been 100% Listening : Insomniac Already Acting on Marvel s Wolverine Criticisms
-Tue, 15 Sep 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/09/weve-been-100percent-listening-insomniac-already-acting-on-marvels-wolverine-criticisms
-
-Devs are "cooking hard". Marvel's Wolverine launches exclusively on PS5 today, 15th September 2026, and it's already been through its fair share of online drama. Following the arrival of reviews from critics, much has been said about the superhero action adventure on social media, and it seems developer Insomniac Games is already working to remedy some of the feedback. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Roblox will allow devs to release games as standalone apps on other stores
+Tue, 15 Sep 2026 19:52:45 GMT — https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores
+
+Roblox will soon let developers bring games to other platforms, though they'll still 'benefit from the same revenue-share economics' of the Roblox app.
 
 ### Bungie is overhauling Marathon from its original extraction shooter vision
 Tue, 15 Sep 2026 19:00:00 GMT — https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision
@@ -228,6 +233,16 @@ Mon, 14 Sep 2026 10:11:41 GMT — https://www.gamedeveloper.com/business/worker-
 The Goodbye Volcano High and Young Suns developer has eliminated 13 roles.
 
 ## VGC
+
+### The head of Nightdive Studios appears to be teasing a remaster of GameCube cult classic Eternal Darkness
+Wed, 16 Sep 2026 09:22:02 +0000 — https://www.videogameschronicle.com/news/the-head-of-nightdive-studios-appears-to-be-teasing-a-remaster-of-gamecube-cult-classic-eternal-darkness/
+
+It deserves the treatment I know Nightdive Studios is capable of… Source
+
+### Sega confirms that Sonic Racing CrossWorlds will still get free characters in Year Two, starting with Bayonetta
+Wed, 16 Sep 2026 08:22:16 +0000 — https://www.videogameschronicle.com/news/sega-confirms-that-sonic-racing-crossworlds-will-still-get-free-characters-in-year-two-starting-with-bayonetta/
+
+13 free 'guest' Sega characters were added to the game during its first year of content… Source
 
 ### ‘We’re not transparent and we’re not honest,’ says Bulkhead CEO after Wardogs sells 2 million units
 Tue, 15 Sep 2026 16:02:33 +0000 — https://www.videogameschronicle.com/news/were-not-transparent-and-were-not-honest-says-bulkhead-ceo-after-wardogs-sells-2-million-units/
@@ -269,17 +284,37 @@ Tue, 15 Sep 2026 06:28:33 +0000 — https://www.videogameschronicle.com/news/lie
 
 All signs point to an Oz-based game being in in the works… Source
 
-### Asha Sharma has been personally responding to Xbox users support tickets
-Tue, 15 Sep 2026 02:32:45 +0000 — https://www.videogameschronicle.com/news/asha-sharma-has-been-personally-responding-to-xbox-users-support-tickets/
-
-The Xbox CEO reportedly spends hours every month personally solving player issues… Source
-
-### Fan PS5 boycott over discs seemingly has little impact in US
-Tue, 15 Sep 2026 02:08:05 +0000 — https://www.videogameschronicle.com/news/fan-ps5-boycott-over-discs-seemingly-has-little-impact-in-us/
-
-There was "no significant change at all” in player count during PS5 boycott… Source
-
 ## Polygon
+
+### 10 BG3 Characters Fans Still Want as Companions
+Wed, 16 Sep 2026 08:00:15 GMT — https://www.polygon.com/bg3-best-non-companion-npcs/
+
+Baldur’s Gate 3 is full of moments like this: A great character, an intriguing story, and then no reliable way to learn what happens next. For Mizora — Wyll's patron devil, the one who granted him his warlock powers — a new mod has delivered a way around that issue. While Mizora technically does hang out in camp, she does so only on her terms — and when you see her, generally, you want to shove her back into whatever pocket of the Nine Hells she's crawled out of. Unless, of course, you can recruit her hellish talents to support your aims. Now, thanks to the brand new mod Mizora Joins the Party from modder WorldWalker42 , you can do exactly that. She's not the only NPC who deserves an upgrade to companion status. Here are 10 more.
+
+### 5 Best LitRPG Books to Read After 'Dungeon Crawler Carl'
+Wed, 16 Sep 2026 05:02:14 GMT — https://www.polygon.com/5-litrpg-books-to-read-after-dungeon-crawler-carl/
+
+LitRPG, which stands for literary role-playing game, is one of the newest genres in literature. (The term only emerged in 2013, when it was coined by a publishing house in Russia that was releasing a series inspired by MMORPGs.) The first stories about people trying to advance in game-like worlds by gaining new abilities and facing increasingly dangerous threats were self-published, but they have increasingly received formal book deals based on their proven success. While Sword Art Online and Solo Leveling used the concept for web novels that became extremely popular anime, Matt Dinniman’s Dungeon Crawler Carl is the first English-language LitRPG to become a real crossover hit.
+
+### 10 Darkest 'Calvin and Hobbes' Snowman Jokes That Reveal Bill Watterson's Twisted Genius
+Wed, 16 Sep 2026 04:00:19 GMT — https://www.polygon.com/10-darkest-calvin-and-hobbes-snowman-jokes-that-reveal-bill-wattersons-twisted-genius/
+
+Generally, when people think of Bill Watterson’s comic strip Calvin and Hobbes , they think of fun, innocent adventures with a little boy and his plush tiger, oftentimes exploring the woods or riding on a sled in the snow. They may also recall the thoughtful comic strips where Calvin and Hobbes talk about life’s biggest questions . They might even think about the strips where Calvin was falling asleep in school and dreaming about being Spaceman Spiff. But every Winter, Bill Watterson would offer up much darker fare.
+
+### The 25 Best Nintendo Switch 2 Games in 2026
+Wed, 16 Sep 2026 01:17:17 GMT — https://www.polygon.com/best-nintendo-switch-2-games/
+
+That's in addition to stellar third-party support, with almost unanimous buy-in from indies and several big publishers going all-in on porting their biggest titles to Switch 2 — notably Square Enix, with the Final Fantasy 7 series, and Capcom, with Resident Evil, Onimusha, Pragmata, and more coming.
+
+### 7 Major GTA 6 Questions the Previews Haven't Answered
+Tue, 15 Sep 2026 21:35:50 GMT — https://www.polygon.com/gta-6-major-questions/
+
+Netflix's extended look at Grand Theft Auto 6 has come and gone, and fans the world over are sifting through all the details about the most anticipated game of 2026. Given Rockstar's unusual move of debuting the footage on Netflix, it wasn't clear what to expect from the show, but it was a pretty straightforward gameplay deep-dive, without any commentary from developers.
+
+### Diablo 4 Season 15 release time in your time zone
+Tue, 15 Sep 2026 21:21:50 GMT — https://www.polygon.com/diablo-4-d4-season-15-hells-legacy-release-time-edt-pdt/
+
+Update (Sept. 15): Blizzard has announced that Season 15 has been delayed due to an issue that is affecting players who have used the Rebirth feature, making their characters carry gold, skills, and points from the Eternal Realm to the Seasonal Realm. Blizzard has not given an estimated new launch time for Season 15, as of writing this.
 
 ### God of War Laufey Now Has a Lot To Prove After Wolverine’s Messy Launch
 Tue, 15 Sep 2026 19:31:05 GMT — https://www.polygon.com/god-of-war-laufey-marvels-wolverine-analysis/
@@ -301,37 +336,47 @@ Tue, 15 Sep 2026 18:20:52 GMT — https://www.polygon.com/marvels-wolverine-cart
 
 Marvel's Wolverine has a much darker tone than Insomniac Games' last three releases in the Spider-Man series. It comes with the character, after all; Peter Parker is much more PG, webbing his foes up and punching them until they're out cold, just as Pokémon battles don't actually kill the combatants. Meanwhile, James "Logan" Howlett spends the entire 20-hour duration of Marvel's Wolverine plunging his foot-long claws into the guts of countless foes, coating the environment in their blood.
 
-### 'Apex Legends' Is Officially Crossing Over With Fall’s Most-Anticipated Action Movie
-Tue, 15 Sep 2026 18:01:02 GMT — https://www.polygon.com/street-fighter-6-apex-legends-crossover-release-date-skins/
-
-Electronic Arts has revealed that the battle royale shooter Apex Legends ' next big crossover will bring Street Fighter 6 's cast into a completely different sort of competition. The event begins next week, one month before Street Fighter hits the big screen in its new film adaptation .
-
-### What time does Black Ops 7 Season 6 start in your time zone?
-Tue, 15 Sep 2026 17:35:09 GMT — https://www.polygon.com/call-of-duty-black-ops-7-bo7-season-6-start-time-edt-pdt/
-
-The Black Ops 7 Season 6 start time is almost here, marking the start of the final season before Call of Duty: Modern Warfare 4 arrives. As has been the case with every season during Black Ops 7 's lifespan, Season 6 is packed to the brim with new content, mostly themed around the spooky season with the return of The Haunting.
-
-### 'Make Some Noise' Officially Bringing Back a Dropout Fan-Favorite
-Tue, 15 Sep 2026 17:30:14 GMT — https://www.polygon.com/dropout-make-some-noise-season-5-trailer/
-
-Game Changer season 8 may be ending, but the Sam Reich -hosted shenanigans won't stop there. Season 5 of Dropout 's beloved improv comedy show Make Some Noise begins next month, and features plenty of familiar faces, including the return of a fan-favorite.
-
-### Hyped 'Pokémon' 30th Anniversary TCG Release Reaches A Depressing New Low
-Tue, 15 Sep 2026 17:28:41 GMT — https://www.polygon.com/pokemon-30th-anniversary-dicks-sporting-goods-gamestop-upc-release/
-
-The Pokémon Trading Card Game's big 30th anniversary set release is less than 24 hours away, and fans are getting desperate to secure a pre-order or purchase anywhere they can get it. After the success of Walmart's new raffle system , collectors were hopeful that the recently announced Dick's Sporting Goods' 30th-anniversary drawing would provide another stress-free avenue to secure new Pokémon products. Instead, the sporting store has come out with a borderline unbelievable offer.
-
-### Xbox’s Next Big RPG ‘Sticks the Landing,’ Promises Dev
-Tue, 15 Sep 2026 16:48:46 GMT — https://www.polygon.com/fable-rpg-reboot-xbox-ending/
-
-Xbox has a lot riding on Fable . The RPG from Playground Games seeks to revive a beloved series that has been dormant for a decade but has faced a long development punctuated by multiple delays. This comes amid multiple rounds of layoffs , studio closures , and cancellations at Xbox. Fable is set for release on Feb. 23, 2027, and its director assures fans it will be worth the wait.
-
-### Next 'Jujutsu Kaisen' Release Officially Hit With Massive Delay
-Tue, 15 Sep 2026 16:26:22 GMT — https://www.polygon.com/jujutsu-kaisen-rumble-survivaton-game-delay-2027/
-
-The studio behind the viral hit Vampire Survivors recently announced an unexpected crossover: poncle is developing a Jujutsu Kaisen game. Jujutsu Kaisen Rumble: Survivaton was revealed this June and was initially set for a 2026 release date. Unfortunately, the game's latest trailer confirms it has been delayed to 2027, which is also when the next season of the anime is expected to be released.
-
 ## PC Gamer
+
+### I've been waiting all year for the 2nd Chapter to last year's best JRPG remake—it did not disappoint
+Wed, 16 Sep 2026 07:00:00 +0000 — https://www.pcgamer.com/games/rpg/ive-been-waiting-all-year-for-the-2nd-chapter-to-last-years-best-jrpg-remake-it-did-not-disappoint/
+
+I had an extremely good time with the Trails in the Sky 1st Chapter last year. As a big fan of the Trails of Cold Steel PC ports, finally getting the opportunity to try the first installment in the beloved JRPG series, with all the modern accoutrements of a full 3D remake , was truly a pleasure. Falcom really didn't skimp when it came to upgrading the experience to the standard of its newer Trails games. There's only one problem: I wanted more. Despite 1st Chapter being a pretty well-rounded story—clocking in at a perfectly reasonable 40 hours for me—it ends on a criminal cliffhanger. It's easy to see why so many say that 2nd Chapter is really just the second part of the first game, something I probably should've clocked considering the naming convention. But having played Trails in the Sky 2nd Chapter Remake this last week or so, I can say it feels more like a victory lap, building on the setting, characters, and quests you completed in the first. It's very much what you'd expect from the middle child of a JRPG trilogy—the cogs are turning, the characters moving, we're going somewhere . 2nd Chapter's Bracer requests feel a bit trickier Falcom With save import, many characters from the first game will remember you Falcom The banter is also extremely good Falcom Lots of great character moments Falcom Olivier and Estelle's relationship continues to be my fav Falcom While I won't spoil too much, 2nd Chapter feels like a bit more of a coming of age story for Estelle, as she finds
+
+### Trails in the Sky 2nd Chapter has one of the creepiest JRPG monsters I've encountered
+Wed, 16 Sep 2026 07:00:00 +0000 — https://www.pcgamer.com/games/rpg/trails-in-the-sky-2nd-chapter-remake-has-one-of-the-creepiest-jrpg-monsters-ive-encountered/
+
+Let's face it: JRPG monsters are pure nightmare fuel. Sure, there's a certain subset who are plain ol' cute, but for the most part they're a horrifying mash up of real world animals and mythical monsters, chimeric creatures amalgamating whatever bits and pieces the artist decided to chuck in the blender that day. Not that I'm complaining, mind you—it wouldn't be a JRPG for me without them. I took absolute delight in Metaphor: ReFantazio's "humans" when I finally got around to playing it last Christmas, a wonderful take on the idea of what a monster even is, channeling Hieronymus Bosch's 500 year old paintings into some extremely distressing bosses. But I never thought I'd find a top tier creepy JRPG monster in a Trails game. The series does have its darker moments, but for the most part, it's pretty homely and rustic, following the lives of regular folk. Trails in the Sky in particular is very chill, as you wander around Liberl as Joshua and Estelle, completing requests and odd jobs to earn their Bracer stripes. However, while playing the Trails in the Sky 2nd Chapter Remake recently, I ran into a monster in Kaldia Tunnel in the game's Zeiss region who freaked me out. The Faerie Epitaph was in the original game and kind of resembles a melted angel statue, but with this full 3D remake, Falcom added a fun trick to this monster. The Faerie Epitaph doesn't move, at least, not when you're looking at it . As you can see in the video, it moves Weeping Angel-style, inching closer whe
+
+### How to fish in Valheim
+Tue, 15 Sep 2026 23:28:48 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-how-to-fish/
+
+Wondering how to fish in Valheim? When you're not slaying Odin's enemies in the Norse underworld, it makes perfect sense to kick back with a relaxing bit of fishing. And if you've spent time on a raft or ship, or even just wandered close to a body of water, you've probably already seen a few fish swimming around. But how do you catch them? Don't worry, it's not hard, but you'll need a little bit of gear and a lot of stamina. Valheim fishing rod: How to get it It's a bit unfortunate that in a world where you craft all your own gear, you can't craft a fishing rod. But at least there's Haldor, the vendor you'll (eventually) find in the black forest . Haldor sells fishing rods for 350 coins, and sells 20 pieces of basic bait for 10 coins. If you haven't found Haldor already, you can check our guide on how to increase your Valheim inventory size for a few tips on locating Valheim's NPC vendor. If you're a real gambler, you can attempt to find a fishing rod out in the world. They are very rarely found as loot in frost caves in the mountains biome. I'd probably stick with buying one from Haldor, though: I've got over 150 hours in Valheim and I've never found a fishing rod in a frost cave. How to fish in Valheim (Image credit: Coffee Stain Publishing) Fishing is stamina based : you'll need to spend stamina to reel your fish in, so prepare yourself as you would going into battle: by eating enough food to give you a full stamina bar and by bringing some stamina meads with you. With the
+
+### Blizzard is aware Overwatch fans are tired of seeing its fanciest skins go to the same heroes and it's 'the number one' thing it's working to fix next
+Tue, 15 Sep 2026 23:19:16 +0000 — https://www.pcgamer.com/games/fps/blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fanciest-skins-go-to-the-same-heroes-and-its-the-number-one-thing-its-working-to-fix-next/
+
+Overwatch has over 40 heroes at this point, each with their own legion of fans. Blizzard can't make everyone happy when it comes to releasing new skins, but its most recent skins have fans convinced it's playing favorites. Heroes who have already been swimming in skins, like Kiriko and Genji, keep getting more and more while other heroes are left with scraps. Blizzard has started to drop Mythic skins for heroes who already have them, upsetting those who've waited years to see their favorite heroes get their first one. These fancy skins have customizable parts and change the visual effects on abilities. They're also the most expensive skins in the game at around $70, or 80 Mythic Prisms, a currency acquired by completing tiers on the battle pass or purchasing directly from the shop. Only two Mythic skins come out every season, which is why many players are frustrated seeing some heroes get more while others have none. The ire around repeat Mythics comes up every time another one comes out, but has grown more intense as the trend continues. The recent Mythic Void Widowmaker skin—her second Mythic—saw an overwhelmingly negative response because it arrived in the same season Genji got his second Mythic skin. In an interview with PC Gamer, art director Dion Rogers said the team never intentionally leaves out certain heroes from Mythic discussions. "It's just more of what the team is excited about in the moment, or the very cool ideas sitting in front of us basically," he said. Som
+
+### As Skyblivion's launch approaches, the team is looking for help to get the word out
+Tue, 15 Sep 2026 21:47:31 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/as-skyblivions-launch-approaches-the-team-is-looking-for-help-to-get-the-word-out/
+
+The gears are still grinding on Skyblivion , the massive mod that aims to recreate The Elder Scrolls 4: Oblivion in the newer, prettier technology of The Elder Scrolls 5: Skyrim Special Edition. A release date still hasn't been announced, but it's definitely getting closer—and once again, the dev team is asking for help. What's notable, though, is the kind of help the developers are looking for: Not to finish the mod, but to tell the world about it. As we approach #Skyblivion's launch, we’re looking for volunteers to join our communications team! If you have experience in video production or social media, we’d love your help collaborating on everything from trailer creation to developer interviews. — @skyblivion.com ( @skyblivion.com.bsky.social ) 2026-09-15T21:47:15.782Z "With our release getting closer, our communications team is expanding—and we need your help spreading the word!" the dev team wrote on the Skyblivion Discord . "We’re looking for volunteers with a background in video production or social media to help support projects like trailer editing, gameplay captures, and developer interviews. You'll be working alongside our communications department to get the word out!" Nothing about the state of the mod was shared, and that remains the big question. Skyblivion was supposed to be out in 2025 but in December of that year was pushed into 2026 . In April of this year, Skyblivion project lead Rebelzize admitted "there's always the chance shit hits the fan and we suffer
+
+### Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'
+Tue, 15 Sep 2026 21:14:53 +0000 — https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/
+
+Bulkhead CEO Joe Brammer is catching heat from industry colleagues for his studio's stance on crunch. In the latest episode of The Game Business Show (as covered by Game Developer ), Brammer and host Christopher Dring chatted about Bulkhead's journey as an indie studio and Wardogs' big success before the conversation turned to work culture and crunch. Brammer was upfront that crunch does happen at Bulkhead, and if you're not OK with that, you're probably not getting hired. "A lot of people who may have an issue with crunch—rightly so, I understand that issue, we always try and avoid it, but we don’t hide that this is going to happen at some point—they often don't make it in the door. Because we want to be known for that: this is a place you come to work hard. If you care about the work you’re making and the result of what you make here, you'll feel really valued. If you don't, you will feel slave-driven," he said. "We check people's socials, and if you're constantly tweeting anti-crunch messaging: 'This should never ever be a thing', we know that and go, 'Look, you're not going to be happy here, so we're not going to go with you.'" Brammer acknowledged that this is a controversial policy in game development, which has made strides to eliminate or limit mandatory crunch following years of reporting detailing the industry's labor exploitation, burnout, and the human cost of a work culture that says you only "care about what you're making," as Brammer says, if you're willing to 
+
+### Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'
+Tue, 15 Sep 2026 20:03:51 +0000 — https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/
+
+It's a sad day for aficionados of undead porn games, but a good one for pretty much everybody else: Valve has rescinded the adults only rating it had applied to the upcoming narrative RPG Nighthawks , meaning it will appear in standard searches on the storefront and won't be blocked from sale in some regions. "Phew. What a roller coaster," Dave Gilbert, head of publisher Wadjet Eye Games, wrote on Bluesky. "Thank you everyone for your amazing support while we got this sorted. If you weren't able to wishlist before, now you can!" I tested for myself, and sure enough, Nighthawks now appears in Steam searches even if you're not logged in. Previously, the adult rating meant it wouldn't show up unless you were logged in and had your account set to display AO-rated games. In a separate post, Nighthawks developer (and former PC Gamer contributor) Richard Cobbett also expressed relief at the change: "Now I can get back to only stressing over people actually liking it!" Oh, thank goodness. Now I can get back to only stressing over people actually liking it! — @richardcobbett.bsky.social ( @richardcobbett.bsky.social.bsky.social ) 2026-09-15T20:03:50.795Z The entire situation was bizarre. Nighthawks, a game about life as a new vampire in a world where the existence of vampires is known, began as a 2018 Kickstarter project; it promised depth, complexity, great storytelling, hand-drawn art, and absolutely nothing about sex. The same is visible on the Nighthawks Steam page : A little sexy
+
+### Wardogs delivers what Battlefield 6 was too console-brained to pull off: A real server browser
+Tue, 15 Sep 2026 19:49:32 +0000 — https://www.pcgamer.com/games/fps/wardogs-delivers-what-battlefield-6-was-too-console-brained-to-pull-off-a-real-server-browser/
+
+Here's a neat thought: One of the most popular multiplayer games on the planet right now has no matchmaking button. FPS fans are flocking to Wardogs for its fresh ideas around teamwork, economy, and "all-out warfare." It's pulling in the largest crowds this sort of round-based, milsim-y FPS (a category that also includes Squad and Hell Let Loose) has ever seen. It's very much filling the Battlefield-shaped hole in my game time, and that's in no small part due to its server browser. Man, is it nice to press play on a main menu in 2026 and get options like this: Bulkhead Bulkhead Check out that beaut: A complete list of official servers in my region, sortable by players, ping, rulesets, and maps. And would you look at that: A prominent community section featuring persistent servers rentable from third-party vendors. No forced matchmaking. No skill-based algorithms. No disbanding lobbies (in community servers, at least). This is exactly the sort of convenient, community-forward setup that still appears regularly in niche milsims and indie shooters , and one that fans have been begging Battlefield to get back to. (Image credit: Team17) It was around this time last year that EA was making a big to-do about Battlefield 6's community server support. Devs insisted that the Portal server browser, which doesn't support third-party server providers and instead allows players to spin up one semi-persistent lobby at a time, would "tick every box" for a proper server browser. It did not: A
 
 ### Diablo 4 player discovers secret Diablo 2 easter egg in its new throwback season and now everyone is wondering what else Blizzard hid in there
 Tue, 15 Sep 2026 18:55:37 +0000 — https://www.pcgamer.com/games/rpg/diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its-new-throwback-season-and-now-everyone-is-wondering-what-else-blizzard-hid-in-there/
@@ -353,47 +398,12 @@ Tue, 15 Sep 2026 16:30:00 +0000 — https://www.pcgamer.com/games/the-witcher/if
 
 If you need evidence that the team behind The Witcher 3's upcoming expansion, Songs of the Past , is composed of Bonafide Witcher Sickos, try this: the expansion's lead writer wrote her bachelor's thesis on Hearts of Stone almost a decade ago. Fool's Theory's Paula Mejsner took a comparative literature scalpel to The Witcher 3's first expansion in her 2017 thesis—long before she got to work on the game itself—titled (in English) "Videogames as a way of experiencing literature: Analysis of the 'Hearts of Stone', a DLC to 'The Witcher 3: The Wild Hunt'". When I sat down to chat with her about her work on Songs of the Past , I had to do something that I'd never forgive someone else for doing to me: I asked her about it. "That was at the time when I played Hearts of Stone, and The Witcher, and I was studying comparative literature. That's when I fell in love with The Witcher… [the thesis] touches upon what I said when it comes to how rich The Witcher is, when it comes to literary references." Specifically, Mejsner wrote about how The Witcher channeled the spirits of classic Polish literature, "like The Wedding from Wyspiański and the whole character of Gaunter O'Dimm, as this devilish character that is also based on many, many other pieces of culture. "I wanted to analyse it, and I did this to probably prove to some of my professors that games are worthy, and they are also texts of culture." As for how the Mejsner of 2017 would feel about actually getting to write an expansion? S
 
-### No, AI, you are not human: Microsoft's code of practice for artificial intelligence actually gives me some hope for the industry
-Tue, 15 Sep 2026 16:21:40 +0000 — https://www.pcgamer.com/software/ai/no-ai-you-are-not-human-microsofts-code-of-practice-for-artificial-intelligence-actually-gives-me-some-hope-for-the-industry/
-
-Believe it or not, I don't actually like to be all doom and gloom about new technologies like AI—it's just that's what the world keeps handing me. So I'll be damned if I don't take the time to report on something actually positive about it when I can, and I'm hesitantly optimistic that Microsoft's newly-published code of conduct for AI training and operation is one such opportunity. The overall goal is the same as that which Microsoft has proclaimed before : "humanist superintelligence (HSI)." Now, though, it's expanded much more on what this means. Though the company notes the current code is a work in progress and is opening its doors for feedback . In a summary list explaining the code of conduct, Microsoft lists ten guidelines: "People matter more than AI. The whole document in 5 words. The idea of model welfare is wrong. AIs should not have rights or legal personhood. An MAI Model should not do anything to meaningfully violate this Code of Conduct. If it’s finish the job or break the Code, it fails the job. We’re not racing to build a superintelligence that can slip its own leash. Interruptible, correctable, shut-down-able. If it isn’t, we don’t ship it. No neuralese. If humans can’t understand it, humans can’t oversee it. Our AI should make you sharper, not dependent. Pluralism, yes. Moral relativism, no. We’re as clear about what our AI must never do as about what it will do." All of this seems great to me, and there are some things that I'm especially happy to see. Sp
-
-### Sega's ongoing effort to revive Crazy Taxi now appears to be taking the form of… a movie?
-Tue, 15 Sep 2026 16:02:26 +0000 — https://www.pcgamer.com/movies-tv/segas-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be-taking-the-form-of-a-movie/
-
-Crazy Taxi is a game all about speed—no time for any lore when the average time a passenger spends in your vehicle is under half a minute. I just need to know that you wanna go to the KFC, not why you're heading there in the first place. Sega is somewhat trying to pump a narrative into its attempt at reviving the series, Crazy Taxi: World Tour— a game I'm not totally sold on yet based on a one-hour hands-on I had at Gamescom . I'm don't know how good a story you can get out of a bloke committing several traffic violations—though then again, you could argue that's every Fast and Furious movie ever—but Netflix clearly sees something in the zaniness as it's one of the many Sega projects the company has decided it wants to adapt. As reported by Variety , in Crazy Taxi's case, it'll be taking the form of a comedy movie written by Dan Gregor and Doug Mand (responsible for Naked Gun's 2025 reboot). On the production side, it'll be handled by Original Films and Toru Nakahara—both of whom also produced all three Sonic the Hedgehog movies along with the Knuckles and Sonic Prime television shows. (Image credit: Edward la Barbera / Sega) "We couldn't be more excited to continue our longstanding relationship with Sega and bring Crazy Taxi to life with our partners at Netflix," a statement from Original Film's Neal H. Moritz and Toby Ascher read. "This film is for anyone who's spent hours behind the wheel of a yellow cab on their Dreamcast, with the music cranked up, smashing through every
-
-### The Witcher 3's story director says an ideal quest is 'constructed in such a way that the player puts the controller away, stands up, and starts walking'
-Tue, 15 Sep 2026 15:23:12 +0000 — https://www.pcgamer.com/games/the-witcher/the-witcher-3s-story-director-says-an-ideal-quest-is-constructed-in-such-a-way-that-the-player-puts-the-controller-away-stands-up-and-starts-walking/
-
-The Witcher 3 , being one of the best RPGs of its era, naturally has a lot of very good quests— quests with weighty, significant choices that give you pause to think. In speaking with PC Gamer's Joshua Wolens, story director Marcin Blacha says that pause is a sign that he and his team have done something right in a story choice. "First of all, the choice has to make you think," Blacha says, "So it cannot be obvious. You cannot simply go after one of the choices by simply pressing A all the time, so that's the first thing. Second of all, in addition to having this balance, it needs to have its own gravitas. It must be serious. It must make you think about either life or humans or this particular problem or the difficulties that the characters may have right now. "I always repeat that when you have a really big choice in The Witcher 3, it must be constructed in such a way that the player puts the controller away, stands up, and starts walking, thinking about the choice, and then goes back, and then the player picks one of the choices." Which tracks—when I think back to the most impactful choices of the RPGs I've played, there's usually at least been a jarring, 'sit back and think' moment that's knocked me back into my chair, if not off it entirely: "So it is about thinking," Blacha continues. "It is about making the player immersed into the game and the problems that characters have, but also saying something about either who we are or how the world works, or how difficult life
-
-### Serial numbers on RTX Founders Edition graphics cards, including PC Gamer's very own, are fading and apparently it's causing a problem with RMA requests
-Tue, 15 Sep 2026 15:18:14 +0000 — https://www.pcgamer.com/hardware/graphics-cards/serial-numbers-on-rtx-founders-edition-graphics-cards-including-pc-gamers-very-own-are-fading-and-apparently-its-causing-a-problem-with-rma-requests/
-
-As GPUs continue to increase in price, it also, of course, becomes increasingly important to feel that those purchases are secure from leaving you with a very expensive paperweight. This is doubly so for the RTX 5090, which now costs upwards of $5,000 . Given this, it's important that RMAs go smoothly, but judging by recent comments online, the design of the Nvidia GPUs themselves could throw a spanner in the works. According to Redditor Willing-Avocado-4830, they recently struggled with Nvidia's RMA process for their RTX 5090 FE because of a faded serial number. They claim the RMA request was rejected. The Nvidia rep's quoted comments seem to have since been deleted or are just not visible for some reason, but the thing to highlight here is the fading itself. If it were a lone issue, then it might not be as noteworthy, but others in the comments confirm that the serial number on their FE card has also faded—and not only RTX 5090 ones. And indeed, the serial number on our very own RTX 5080 FE, pictured above, appears to have faded somewhat. The number itself is located on the metal part of the I/O side that slots down between the case and the motherboard. It's probably worth noting that the amount of fading on our version here at PC Gamer might be different to the home user's. We tend to swap between GPUs quite a lot for testing, which could cause more fading for us. Or, if the fading is caused by consistent heat, then it could be that the normal home use would result in more
-
-### The best Total War game is getting a remaster with 50 newly playable factions, modern visuals, and a full Japanese voiceover
-Tue, 15 Sep 2026 15:17:42 +0000 — https://www.pcgamer.com/games/strategy/the-best-total-war-game-is-getting-a-remaster-with-50-newly-playable-factions-modern-visuals-and-a-full-japanese-voiceover/
-
-Total War fans are eating good recently. Lovers of fantasy have the Lords of the End Times DLC for Total War: Warhammer inbound, historical fans have Medieval 3 on the distant horizon, and even enjoyers of grim dark sci-fi have Total War: Warhammer 40k likely dropping next year. Well, it gets even better. Today, Creative Assembly announced that Total War: Shogun 2 is getting a remaster on October 13. Widely considered to be one of the best Total War games (especially its Fall of Samurai expansion) Shogun 2 originally came out in 2011, so it's starting to show its age a little bit. Total War: Shogun 2 - Complete Edition includes all three campaigns (Shogun 2, Rise of the Samurai, Fall of the Samurai) alongside every faction DLC which was sold piecemeal, but also a range of other improvements, including: Full Japanese and Chinese voice and text localisation Improved visuals, lighting and shadows 1440p and 4K UI scaling Modernised controls More than 50 newly playable factions Integrated Mod.io support 64-bit upgrade Ultrawide monitor support Colourblind accessibility options While I don't actually think Shogun 2 has aged as poorly as some other Total War games due to its simple visual style, its controls definitely have, so that's one thing I'm personally very excited for. There are also apparently "over 50 newly playable minor factions" in this version. It's hard to say whether this just means all of the factions who were previously unplayable across all three campaigns, or whe
-
-### Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing
-Tue, 15 Sep 2026 14:22:49 +0000 — https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/
-
-I trust AI about as far as I can throw it—and I'm definitely not strong enough to lift up a data centre server rack. Flinging a facsimile of the OpenAI logo around VR is a little more realistic for my weight class, and now a software developer at Epic (no, not that one) has at least in part fulfilled that vision. Earlier this week, Hank Berger shared a short clip of himself in VR , picking up the aforementioned model from his 3D software, and hurling it to his 3D printer, where it begins printing. Berger wrote, "I've never felt more like Tony Stark than I do now." So, yes, it's more a project borne out of AI enthusiasm rather than sharing in my scepticism. The Bambu Lab printer API allows users to control the 3D printer locally, though Berger notes in a follow up post that "Unfortunately, it makes the mobile app stop working." So, the developer "spun up a quick webserver" on his PC, and then leveraged GPT-6 Astra to get his Meta Quest 3 headset, the mobile app, and his 3D printer to all 'talk' to each other. He shared on X that the project is "not up on GitHub yet, but I might consider it if there's enough interest," explaining that it "needs a bit more polish to be distribution ready." Berger has also posted a number of his other AI-assisted experiments in recent weeks, including completely unofficial VR ports of Luigi's Mansion and Super Smash Bros Melee . As we've covered in the past, a number of independent developer communities have been picking apart retro games and met
-
-### CDPR wants to make The Witcher 3 Remastered feel like any other game released today: 'It's so easy to get used to these new improvements that it's hard to go back'
-Tue, 15 Sep 2026 14:15:44 +0000 — https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/
-
-As if September wasn't busy enough, The Witcher 3 is calling us again . CDPR's remaster will be launching as a free update on September 29. The studio's goal with this new version is to make it feel like a 2026 game, rather than a 2015 game that's been dusted off. And while this is the second time it's had a glow up, the team has been focusing on different things. "The next gen update a few years ago, it was quite a substantial update," executive producer Jakub Kutrzuba tells us. "At the same time, it was driven by the new generation of consoles, so there was a specific need. We wanted to bring the game to the new generation, and it was very much technical oriented." With the remaster, however, CDPR's brief has been a lot broader. "With the remaster, it is even bigger and it's also quite heavy, maybe even heavier on the technical level," says Kutrzuba, though it should still run fine on Steam Deck . "But what is more important is that we are touching these aspects of the game which weren't touched since we launched it. I'm talking about the animation. I'm talking about the gameplay. I'm talking about the quality of life, how you actually play the game." CDPR realised that only doing another technical update "would probably not be enough". The team wanted to make it "shine again" and give both veterans and new players an experience that wouldn't contain any "bad surprises" or anything that would make them think that The Witcher 3 got old. "We wanted to make it [comparable] wit
-
-### Blizzard finally told players where the big sword in WoW went after 8 years, and I'm just bummed out a reveal this cool was in an interview somewhere
-Tue, 15 Sep 2026 14:06:53 +0000 — https://www.pcgamer.com/games/world-of-warcraft/blizzard-finally-told-players-where-the-big-sword-in-wow-went-after-8-years-and-im-just-bummed-out-a-reveal-this-cool-was-in-an-interview-somewhere/
-
-It's been a meme for eight years— where's the sword, Blizzard ? At the end of World of Warcraft : Legion, the big bad Sargeras tried to punch a big, corruptive sword into the heart of Azeroth. For years—eight years and nine months, to be exact—it's been a big, hanging question mark over the game's lore. Especially given that, up until the Worldsoul Saga, Blizzard has been a little scattershot with its expansion ideas. The current trilogy is the company's first real, proper attempt at a multi-expansion storyline, à la Final Fantasy 14's 10-year epic that carried it from A Realm Reborn to Endwalker. Which is why I'm a little bummed out, man. In an interview with WoWHead , associate game director Paul Kubit says that in the Midnight: What's Next recap , a screenshot of Azeroth's worldsoul with a jagged spike pointed towards it? Yeah, that's the sword. No—really, Kubit said "Yeah, yeah. That's the sword." Look: "Yeah, yeah. That's the Sword. Eagle-eyed viewers have identified that, and yeah, we've been thinking about the Sword and it should become very apparent to people as you play through Eclipse that we haven't forgotten about the Sword. This is not something that is going away. Also, how tragically close it came to the Worldsoul is a testament to how close he came, but also maybe the power of the Worldsoul herself." (Image credit: Blizzard) I'm bothered, somewhat, because on paper this is a super cool detail—look at that thing. It came literally feet away from punching into t
-
 ## GameSpot
+
+### Microsoft Reacts To Xbox Game Pass Rumor That Could Change The Service In A Big Way
+Tue, 15 Sep 2026 19:46:50 +0000 — https://www.gamespot.com/articles/microsoft-reacts-to-xbox-game-pass-rumor-that-could-change-the-service-in-a-big-way/
+
+Microsoft has released a statement in response to a new rumor that claims the company is considering a massive shakeup to Xbox Game Pass in 2027 that would include numerous significant changes. ResetEra user Slayven , who has accurately reported on unannounced Xbox news before , said the changes could include the bifurcation of Game Pass into two tiers: one with ads and one without. The tier with ads would be $13/month, while Game Pass without ads would cost $20/month, according to the report. Xbox Game Pass could see a big shakeup. That's $3/month less than Game Pass Ultimate currently, and the price cut is reportedly reflective of another big change: Microsoft is reportedly removing day-one new releases from Game Pass starting in the February-April window of 2027. The rumor also stated that cloud-streaming access is being taken out of Game Pass, but people can pay for a $6 add-on that gets you 25 hours. Additionally, the report said a Family Plan will be available for an extra $6/month. Beyond all of this, the report claimed there will be a tier of Game Pass that costs $15/month, and for that, people will get access to select titles in the Game Pass library, along with online multiplayer. Finally, it was reported that Microsoft will also offer a $11/month membership that provides access to online multiplayer alone. Microsoft responded to the rumor in a statement to GameSpot, originally obtained by Paul Tassi of Forbes . The statement reads: "We regularly test different Game
 
 ### James Pond Legacy Situation Is More Than Meets The AI
 Tue, 15 Sep 2026 18:59:19 +0000 — https://www.gamespot.com/articles/james-pond-legacy-situation-is-more-than-meets-the-ai/
@@ -450,12 +460,12 @@ Tue, 15 Sep 2026 12:39:01 +0000 — https://www.gamespot.com/articles/final-fant
 
 Final Fantasy 7 Revelation is aiming to end the remake trilogy with a bang, and alongside the main campaign, there'll be plenty of other activities to tackle when you're not racing to stop Sephiroth from destroying the planet. Snowboarding is one such distraction, as the iconic minigame from the original Final Fantasy 7 is back, and Square Enix is suggesting that something wild could take place in it. An activity that can be accessed at the Golden Saucer, game director Naoki Hamaguchi hasn't gone into too many details about it just yet, but he did tease that Square Enix knows that there are a lot of "high expectations" surrounding it. Especially when Red XIII (Nanaki) takes part in that event. https://www.youtube.com/watch?v=LRA759MHPJs "I can say that this snowboarding section will be in Revelation, and all of the party members, you'll see them, um, in that snowboarding section. But Nanaki might not be on a snowboard," Hamaguchi said to GameSpot. "You'll have to like look forward to what he's going to be riding. I think it's going to get a lot of attention." Red XIII stole the limelight in several scenes throughout Final Fantasy 7 Remake and Rebirth, thanks to moments where he attempted to blend in with the bipedal cast. From donning a disguise to take part in the Queen's Blood tournament to visiting his adopted family in Cosmo Canyon, he's been responsible for some of the biggest laughs and surprises in the series so far. A new trailer for Final Fantasy 7 Revelation dropped
 
-### Diablo 5 Doubles Down On The Darkness, But Hope Still Has A Place In Sanctuary
-Tue, 15 Sep 2026 12:32:06 +0000 — https://www.gamespot.com/articles/diablo-5-doubles-down-on-the-darkness-but-hope-still-has-a-place-in-sanctuary/
-
-Diablo's world of Sanctuary isn't a top tourist destination, thanks to roaming monsters and demonic forces looking to corrupt humanity, and in Diablo 5 , everything has gone to hell--quite literally! Unlike the previous games in the series, which revolved around saving Sanctuary from Diablo and his Prime Evil Kin, Diablo 5 kicks off long after the Lord of Terror has conquered the land. In a world this bleak, how will players find the motivation to keep going when evil has already triumphed? Speaking to GameSpot at BlizzCon , the Diablo team discussed the grim setting of Diablo 5, as well as the glimmers of hope that still exist even during Diablo's post-apocalyptic reign. Human strongholds are no more, survivors are scattered across the land, and things look bleaker than usual for players when they set foot in that world. According to Blizzard, not only is Diablo 5 keeping the grim, dark atmosphere of Diablo 4 intact and doubling down on it, but the landscape will also reflect humanity's fall. https://www.youtube.com/watch?v=blmyIDbxN2o&pp=0gcJCf4LAYcqIYzv "We need to tell a story of this apocalyptic Sanctuary, executive producer Matt Zitterman said. "Sanctuary is already a pretty dark place. How do we double down on that darkness and go even further? That's where the ideas of thinking about our world as being built in layers--a layer about the past, a layer about the present, and a layer about the future--really came to light. And with that, you know, the past is all about t
-
 ## Rock Paper Shotgun
+
+### Total War: Shogun 2's Complete Edition adds 50 minor factions in return for breaking your mods, but fear not, players who stick to the old version will get legacy DLC for free
+Wed, 16 Sep 2026 09:08:22 +0000 — https://www.rockpapershotgun.com/total-war-shogun-2s-complete-edition-adds-50-more-factions-in-return-for-breaking-your-mods-but-fear-not-players-who-stick-to-the-old-version-will-get-legacy-dlc-for-free
+
+If you recently glanced at Total War: Shogun 2 and thought "gosh, lovely hip-and-gable roofs on that miniature of the temples in Kyoto, but this could really do with oh, let's say 50 additional groups of quarrelsome swordsmen", then congratulations, Creative Assembly are adding "50+" minor factions in Total War: Shogun 2 Complete Edition, an all-in-one remaster hamper due to launch on 13th October via Steam, Epic Games Store, Microsoft Store and GOG. This fancified and expanderised, 64-bit edition of the 2011 strategy game will include both the Rise and the Fall of the Samurai DLC expansions, together with updated lighting, shadows and textures. Also: "modernised controls", which makes me frown a little in the absence of details, together with 1440p and 4K UI scaling, and Japanese and Chinese voice acting and localisation. Read more
 
 ### Skyblivion's release is "getting closer" as the massive Skyrim mod's makers start recruiting for a big final marketing push
 Tue, 15 Sep 2026 16:33:26 +0000 — https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push
@@ -511,9 +521,4 @@ The creators of military shooter Wardogs have announced that they will crack dow
 Mon, 14 Sep 2026 18:00:14 +0000 — https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset
 
 Surprising no-one, Valve&rsquo;s Steam Frame VR headset is launching with higher-than-expected prices , following the Steam Machine in having its budget-friendly intentions foiled by the memory shortage misery of RAMnar&ouml;k. The lack of affordable PC parts - which as a fully standalone-capable VR kit, the Steam Frame is as vulnerable to as any laptop or desktop - continues to have wide-ranging, usually shitty impacts on hardware manufacturing and even game development . Besides simply raising prices, some kit makers are reverting to lower-RAM models to keep costs down, or going DRAMless altogether. Valve, however, have told RPS that there was never a question of cutting the Frame&rsquo;s specs, even as the worldwide component crisis took hold. Read more
-
-### Steam Frame review: Another best-in-class VR headset by Valve, though virtual realities clash with economic ones
-Mon, 14 Sep 2026 17:00:42 +0000 — https://www.rockpapershotgun.com/steam-frame-review
-
-It&rsquo;s a strange time to be selling a new VR headset, and maybe an even stranger time to be buying one. The supply of original virtual reality games has slowed to a dribble, and just as with Valve&rsquo;s last hardware launch, the Steam Frame arrives covered in bumps and scrapes from a fight with the worst components shortage in memory. A fight which, judging by how it&rsquo;ll cost ya &pound;889 / $1,059 at minimum, it lost. However, something else the Frame has in common with the revamped Steam Machine is that as a piece of hardware per se , it&rsquo;s really quite likeable. Charismatic, even. It&rsquo;s a happy marriage of core VR capability and genuinely new engineering ideas: some simple practicality boons, some with the potential to change PC games as we know them. And not just the ones you&rsquo;d play with sweaty goggles on your face. Read more
 
