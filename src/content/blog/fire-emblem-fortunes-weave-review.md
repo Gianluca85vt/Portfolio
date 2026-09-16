@@ -25,7 +25,6 @@ scoreSources:
     score: 8
   - outlet: Giant Bomb
     score: 7
-draft: true
 ---
 
 The embargo went up this morning, 16 September, a day ahead of the Switch 2
