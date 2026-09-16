@@ -42,11 +42,11 @@
 <meta property="og:url" content="https://www.gianlucascattarella.it/easyframe/">
 <meta property="og:title" content="EasyFrame — AI images and video that tell you the cost first">
 <meta property="og:description" content="AI images and video on your GPU or in the cloud. EasyFrame shows the price, the VRAM it needs and the missing models before you click. Windows, €29 once.">
-<meta property="og:image" content="https://www.gianlucascattarella.it/easyframe/app-clean.png">
+<meta property="og:image" content="https://www.gianlucascattarella.it/easyframe/app-clean-en.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="EasyFrame — AI images and video that tell you the cost first">
 <meta name="twitter:description" content="AI images and video on your GPU or in the cloud. EasyFrame shows the price, the VRAM it needs and the missing models before you click. Windows, €29 once.">
-<meta name="twitter:image" content="https://www.gianlucascattarella.it/easyframe/app-clean.png">
+<meta name="twitter:image" content="https://www.gianlucascattarella.it/easyframe/app-clean-en.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
@@ -524,7 +524,7 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
   <div class="grid-bg"></div>
   <div class="wrap">
     <div style="text-align:center">
-      <span class="badge"><span class="dot"></span> Version 0.1.1 &middot; Windows 10 and 11 &middot; macOS beta &middot; Italian interface</span>
+      <span class="badge"><span class="dot"></span> Version 0.2.0 &middot; Windows 10 and 11 &middot; macOS beta &middot; English and Italian</span>
       <h1>We tell you what it costs<span class="g prima">BEFORE</span>you click.</h1>
       <p class="lede" style="margin-left:auto;margin-right:auto">
         AI images and video, on your own graphics card or in the cloud. EasyFrame shows
@@ -543,7 +543,7 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
 
     <div class="shot reveal">
       <div class="frame">
-        <img src="/easyframe/app-clean.png" alt="The EasyFrame window: controls on the left, the result preview on the right">
+        <img src="/easyframe/app-clean-en.png" alt="The EasyFrame window: controls on the left, the result preview on the right">
       </div>
       <p class="shot-cap">The real application window, captured from the app.<span class="only-mobile"> Scroll sideways to see all of it.</span></p>
     </div>
@@ -688,8 +688,7 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
     <p class="lede">
       Steps, CFG and sampler come from ComfyUI&rsquo;s official template for that checkpoint.
       They are <b style="color:var(--text)">locked</b>: the sliders switch off and tell you why.
-      Prompt, resolution, seed and variants stay yours. The names below are translated;
-      in the app they appear in Italian.
+      Prompt, resolution, seed and variants stay yours.
     </p>
 
     <div class="presets">
@@ -780,7 +779,7 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
 
     <div class="split">
       <div class="figure reveal">
-        <img src="/easyframe/app-models-card.png" alt="The EasyFrame models panel: name, size, licence, purpose and install state for each bundle">
+        <img src="/easyframe/app-models-card-en.png" alt="The EasyFrame models panel: name, size, licence, purpose and install state for each bundle">
       </div>
       <div>
         <ol class="rules reveal">
@@ -885,7 +884,7 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
       <div class="guard reveal">
         <span class="no">no spending</span>
         <b>The cloud starts switched off</b>
-        <p>Turn it on with <span class="mono">--consenti-cloud</span> and a spending cap in euros.
+        <p>Turn it on with <span class="mono">--allow-cloud</span> and a spending cap in euros.
         Past the cap, generation is refused before the provider is ever called.</p>
       </div>
       <div class="guard reveal">
@@ -912,15 +911,10 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
 
     <details class="limits-box">
       <summary class="limits-toggle">
-        <span class="apri">Show the ten limits</span>
+        <span class="apri">Show the nine limits</span>
         <span class="chiudi">Hide the limits</span>
       </summary>
       <div class="limits">
-      <div class="limit">
-        <b>The interface is in Italian</b>
-        <p>Menus, buttons and messages are in Italian. Prompts work in English, and the
-        prompt-building menus write the English terms for you.</p>
-      </div>
       <div class="limit">
         <b>Text inside images</b>
         <p>It renders text well only when you ask for it explicitly, and best with the
@@ -1030,8 +1024,9 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
       </details>
       <details>
         <summary>Is the app in English?</summary>
-        <div class="ans">The interface is in Italian: menus, buttons and messages. Prompts can be
-        written in English, and the menus that build them write English terms for you.</div>
+        <div class="ans">Yes. The interface is in English and Italian: it follows your system
+        language, and you can switch it in Settings. Prompts work best in English, and the menus
+        that build them write the English terms for you.</div>
       </details>
       <details>
         <summary>Which graphics card do I need?</summary>
@@ -1100,7 +1095,7 @@ footer{border-top:1px solid var(--border-soft); padding:44px 0 60px; color:var(-
 
 <footer>
   <div class="wrap foot-row">
-    <div class="brand" style="font-size:15px"><span class="mark"></span>EasyFrame&nbsp;<span style="color:var(--faint); font-weight:400">0.1.1</span></div>
+    <div class="brand" style="font-size:15px"><span class="mark"></span>EasyFrame&nbsp;<span style="color:var(--faint); font-weight:400">0.2.0</span></div>
     <div>1,520 automated checks on every release &middot; cloud prices checked in September 2026</div>
   </div>
 </footer>
