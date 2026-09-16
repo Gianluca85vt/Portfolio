@@ -1,6 +1,36 @@
-# Tech — harvested 2026-09-16T15:09:29.390Z
+# Tech — harvested 2026-09-16T19:41:39.336Z
 
 ## Ars Technica
+
+### It’s OK to tell ICE their actions will haunt them, judge rules in speech fight
+Wed, 16 Sep 2026 17:06:06 +0000 — https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/
+
+It’s not illegal to send an email telling Immigration and Customs Enforcement (ICE) officials that their actions will haunt them, a federal judge ruled Tuesday, granting a preliminary injunction that blocks ICE from threatening to prosecute a critic for protected speech. Back in January, David Streever sent a scathing three-paragraph email to then-acting director of ICE, Todd Lyons. Outraged by the killings of two Minnesota protestors against ICE, Renee Good and Alex Pretti, Streever told Lyons that he was a “monstrous human being” who will eat himself “alive with shame” for defending officers who shot people who posed no threat and had no weapons. Comparing Lyons to an infamous high-ranking Nazi cop, Streever predicted that “even Trump” would one day turn on Lyons for defending the “obvious” slayings of Americans. David Streever's email to ICE. Credit: via FIRE “You are a monstrous human being and will go down in history as America’s Reinhard Heydrich, the butcher,” Streever wrote. “You will never know peace. You will seek to lose yourself, to escape the burden of knowing the truth about yourself. But wherever you go, you will find yourself. You will torment yourself until your last day on Earth.” Read full article Comments ]]>
+
+### Iran strikes on Amazon data centers caused permanent loss of customer data
+Wed, 16 Sep 2026 16:40:11 +0000 — https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/
+
+Half a year after Iranian drone strikes knocked out multiple Amazon data centers, the US tech company has acknowledged the permanent loss of some customer data that was hosted in Bahrain and the United Arab Emirates. Amazon Web Services was “unable to restore access to the resources and data” hosted in some of the war-damaged data centers, according to an AWS dashboard update posted on September 15. The development was first reported by Reuters and suggests that the Iranian strikes inflicted catastrophic damage on the data centers. Customer data was irretrievably lost in one of three AWS availability zones in the United Arab Emirates region, specifically the mec1-az2 availability zone. Each availability zone is serviced by one or more Amazon data centers. Read full article Comments ]]>
+
+### What happens when neutrinos swap identities inside a supernova?
+Wed, 16 Sep 2026 15:17:43 +0000 — https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/
+
+Our basic understanding of core-collapse supernovae hasn't changed in decades. Large stars burn through all the fuel at their cores and start creating heavier elements in reactions that consume energy. The lack of energy from these reactions allows gravity to pull the interior of the star in on itself, collapsing it into a neutron star or black hole. The energy released by this process then blows the remainder of the star apart. And, generally, that's right. But there's an entire busload of devils in the details. The statistics of supernovae that we've observed indicate that the model may be seriously incomplete. And on the theoretical side, there are still plenty of uncertainties, including over some of the basics, such as whether all core collapses actually result in a supernova. A paper being released by Physical Review D provides what might be a potential explanation for the discrepancy: flavor-changing neutrinos. Neutrinos play a key role in our current models of supernovae, and right now, those models don't take into account one of neutrinos' most striking features: their ability to change identity. Read full article Comments ]]>
+
+### macOS 27 Golden Gate: The Ars Technica review
+Wed, 16 Sep 2026 14:50:06 +0000 — https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/
+
+Apple Intelligence is back, baby! That's right: Two years after its initial launch, Apple is giving its generative AI features their first significant upgrade, along with a new version of Siri that the company has been strongly insinuating would be a part of each of the last two macOS releases, without ever actually announcing a release date. Generative AI is unavoidable if you install macOS 27 Golden Gate. I'm being very literal: There used to be a toggle you could hit if you wanted to turn off Apple Intelligence and delete the gigabytes' worth of AI models it would download to your disk, and now there isn't. Apple Intelligence defines the Golden Gate release, in everything from its marketing to its features to the chips it runs on to the amount of space it takes on your disk. Ready or not, here it is. But if you can manage to look past that fanfare somehow, the operating system underneath Apple Intelligence is getting the kind of update that macOS users usually proclaim to like. Golden Gate addresses the most irritating of macOS 26 Tahoe's design sins, adds a big pile of incremental improvements, and promises a bunch of under-the-hood fit-and-finish optimizations to make common tasks feel just a little faster and more reliable than before. Read full article Comments ]]>
+
+### The world’s best racing driver is about to race 100 karts at once
+Wed, 16 Sep 2026 14:19:01 +0000 — https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/
+
+Later today, Max Verstappen will strap on his helmet and take to the track at the Silverstone circuit in England for a rather unusual race. The four-time Formula 1 world champion is recognized as the leading talent of his generation, but unlike some of the legends that have preceded him, Verstappen’s passion for motorsport extends beyond just the rarified world of F1. With apologies to Midweek Motorsport, but if it has wheels and they keep score, odds are good Verstappen's down to race it. So at noon Eastern Time (5 pm BST) today, September 16, Verstappen will slip into something a little more basic: a kart. It’s one of 101 identical karts that have been sourced from Eastern Europe for the event—the other 100 will be driven by a mix of content creators and Red Bull athletes, all of whom fancy their chances at beating one of the world’s greatest drivers at his own game. They get a bit of an advantage, all starting ahead of Verstappen. Once he passes another karter, they’re out of the race, and Verstappen has 30 laps of a purpose-designed layout at Silverstone to get through them all and win. Other F1 drivers have attempted slightly similar challenges in the past—Alex Albon raced 25 kids last year, and last month Oliver Bearman raced 50 amateurs. But neither is as high-profile as Verstappen, and neither is facing as much competition. Read full article Comments ]]>
+
+### Lawmakers target Flock cameras with a threat to highway funding
+Wed, 16 Sep 2026 14:03:39 +0000 — https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/
+
+A bipartisan pair of US lawmakers tell WIRED they plan to introduce legislation today that would strip federal funding from states that fail to restrict the use of Flock cameras and other automated license plate readers. The devices, which help police track the location of vehicles tied to crimes, have become the subject of nationwide backlash in recent months over more nefarious uses by officers. The No FLOCK Act—for Federal License-Plate Observation and Camera Keeping—directs the US secretary of transportation to withhold 10 percent of annual financial support due to states for highways, roads, and bridges if it fails to ban Flock and similar devices for all but five use cases. Congressmen Raja Krishnamoorthi, a Democrat representing Chicago suburbs, and Michael Cloud, a Republican whose Texas district includes Corpus Christi, are cosponsoring the bill. The legislation says that Flock cameras could be used only for “enforcing toll systems, identifying stolen vehicles, missing or endangered persons, vehicles registered to persons with a warrant for a felony offense, or investigating a vehicle involved in a felony offense.” Notably absent are uses like conducting traffic studies, investigating minor drug crimes, and enforcing parking and speeding rules. Read full article Comments ]]>
 
 ### How chimps teach their kids tool tricks
 Wed, 16 Sep 2026 04:00:39 +0000 — https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/
@@ -32,37 +62,37 @@ Tue, 15 Sep 2026 18:33:02 +0000 — https://arstechnica.com/ai/2026/09/agilitys-
 
 Agility Robotics has debuted its first humanoid robot engineered to work safely near humans without risking harm to flesh-and-blood coworkers. Such safety features could unlock many more opportunities to use such robots inside warehouses and automotive factories—all without requiring isolated robot work cells and physical separation barriers. When Agility’s new Digit 5 robot detects a person at a distance, it can autonomously take precautions, like moving to avoid the person or standing still so the person can pass by without getting closer. If a person is getting into close proximity with Digit 5, the robot can even choose to squat and assume a seated position. “The robot was designed with a complex safe motion system that can take a variety of different mitigations depending on exactly what sort of human presence is detected,” Pras Velagapudi , chief technology officer at Agility, told Ars. Read full article Comments ]]>
 
-### Boston dumps Flock, says it shared data nationwide in violation of contract
-Tue, 15 Sep 2026 18:14:11 +0000 — https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/
-
-The Boston city government abandoned Flock Safety's license-plate reader cameras after the company shared data nationwide in violation of a contract provision, according to city officials. "We have actually abandoned Flock," Boston Mayor Michelle Wu said in her monthly "Ask the Mayor" segment on GBH News last week. Wu made the comment a few days before the release of Boston's annual surveillance technology report , which said a Flock "vendor error" resulted in nationwide data sharing. The report, which covers 2025, describes how the Boston Police Department deployed about 45 Automated License Plate Reader (ALPR) cameras in a trial with Flock from April to September last year. The unauthorized data sharing occurred during the first few days of the pilot, the report said: Read full article Comments ]]>
-
-### Demand for EV chargers is outstripping supply, says ChargePoint report
-Tue, 15 Sep 2026 17:58:09 +0000 — https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/
-
-There might not be the same degree of optimism regarding electric vehicle adoption as a few short years ago, but the transition toward battery-electric vehicles continues nevertheless. More than 1.8 million EVs had already been sold between the start of this year and the end of August, according to analysts. And in the US, there has been a large uptick in drivers considering EVs that they might have written off last year, due to escalating fuel prices with no clear end in sight. Despite this, charging infrastructure continues to lag, according to a new report from ChargePoint. “All in all, things are moving forward. I think the North American market has been better shaped than a lot of the press reports,” said ChargePoint CEO Rick Wilmer. “Part of it is just the data we see in terms of the amount of RFPs that we receive for charging solutions. They haven't slowed down. We reported quarter over quarter growth in the last quarter we reported. And you look at the data around used EVs going up in price because the demand is so high. I saw a recent report … EV retention rates are 96 percent. So those folks that are putting their leased cars on the used market, they're not going back to gas, they're going to another EV,” he said. Beyond that, cheap electric trucks from Slate and Ford indicate further future demand for charging. “When you look at how much interest there is in the used EVs that are at parity with an equivalent gas vehicle, that tells you the appetite is there for EVs
-
-### Trump EPA moves to wipe out climate rules for power plants
-Tue, 15 Sep 2026 13:43:51 +0000 — https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/
-
-On the heels of the hottest summer on record and a United Nations report warning that global temperatures are likely to push climate risks to “increasingly dangerous heights,” the Trump administration overturned most of a Biden-era rule limiting climate pollution from power plants, the second-largest source of greenhouse gas emissions. The Environmental Protection Agency announced a final plan Monday that guts the 2024 Carbon Pollution Standards, which the agency said exceeds its authority under the Clean Air Act by requiring control technologies “that are not adequately demonstrated.” The agency also proposed revoking “all remaining GHG emissions requirements for power plants,” arguing their emissions “have no material impact on climate change.” The plan to revoke the Carbon Pollution Standards was initially revealed last spring . Read full article Comments ]]>
-
-### GM gives its most important trucks a new UI—and includes CarPlay
-Tue, 15 Sep 2026 13:27:57 +0000 — https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/
-
-General Motors is about to launch new versions of its bestselling Chevrolet Silverado and GMC Sierra pickup trucks for model year 2027, and among the changes are new user interfaces for the trucks’ digital displays. The automaker has gone for a more minimalist approach than we’ve seen from it in the past, and after a demo yesterday, it seems like it has been listening to constructive feedback to improve the products. And yes, unlike GM’s electric vehicles, these trucks still let you cast your Apple or Android phone to the infotainment system. Although GM showed us video of the main instrument cluster—the gauges and info that’s presented to the driver—we don’t have any screenshots we can show you. But I was impressed with the restraint and lack of visual noise; instead, the background is always black, which should be dark even at night thanks to local dimming technology. There are a number of different views. One with simple half-moon dials for speed and engine rpm; on the right side of the display is a user-configurable zone, where you can browse your music or audio feeds, display trip info, or turn-by-turn directions. Another is a driver assist display, with green as the highlight color to show when Super Cruise is active; this shows you a representation of what the car’s fused sensors are seeing around it. A third is for off-road driving, with your various angles and diff settings, and a fourth is for towing. Read full article Comments ]]>
-
-### This Atlantic hurricane season is about to do something that hasn't happened in 175 years
-Tue, 15 Sep 2026 12:36:11 +0000 — https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/
-
-Last week, the Atlantic hurricane season blew through its traditional peak—which comes around September 10—with nary a tropical wave in sight, let alone a storm or hurricane. This is remarkable. Usually this is the time of year when sea surface temperatures reach their warmest in the tropics, and with a favorable atmosphere it should be smooth skating for tropical systems. But this year, the main region where most tropical systems develop is choked with Saharan dust and wind shear. No one is complaining. Landfalling hurricanes are incredibly destructive for coastal areas and have the potential for considerable inland rainfall. Even storms at sea, in the Gulf of Mexico, can send energy prices skyrocketing—the last thing needed this year. Read full article Comments ]]>
-
-### Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost
-Tue, 15 Sep 2026 12:00:41 +0000 — https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/
-
-The performance gap between frontier AI models from US tech companies and the best open-weights models from Chinese companies has closed to just 4.4 months, according to a Mozilla report. That explains why many companies are shifting to the significantly cheaper open models for routine work—and helps reveal a narrow band of workloads where frontier models are worth the cost. Most organizations should ideally be using open models as the default for the majority of their work, according to the latest State of Open Source AI report from Mozilla, published on September 15 and shared with Ars prior to publication. The report highlights how a leading open model, Moonshot AI’s Kimi K3, achieves a composite AI performance score on the Artificial Analysis Intelligence Index that is just three points behind Anthropic’s Fable 5 closed frontier model, all while costing just 30 percent of the latter. “[A Closed model] earns its premium in a few places: expert professional work, high-intensity retrieval, and long context,” Raffi Krikorian, chief technology officer at Mozilla, said in an email to Ars. “We see the decision to pay for closed [models] as workload-specific rather than organization-specific.” Read full article Comments ]]>
-
 ## The Verge
+
+### Resident Evil is a comedy first and a thrilling nightmare second
+2026-09-16T14:45:35-04:00 — https://www.theverge.com/entertainment/996416/resident-zach-cregger-review
+
+When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical failure of projects like the 1993 Super Mario Bros. still cast a long shadow. And while Anderson's vision of Raccoon City might have captivated audiences on the whole, many hardcore fans of Capcom's games were left disappointed by the way the original movies wildly deviated from the source material. Weapons director Zach Cregger's new take on Resident Evil is a return to the franchise's fundamenta … Read the full story at The Verge. ]]>
+
+### Walmart takes a bite off the cost of Metroid Ravenous physical preorders
+2026-09-16T14:20:38-04:00 — https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale
+
+Samus is geared up for another adventure. | Image: Nintendo The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to consider preordering, you can save $10 on the physical version of the game when you buy it from Walmart. It’s $59.88 instead of $69.99, about the same as buying it digitally. The game launches on January 28th, 2027, but it’s not clear how long the preorder discount will last. If it’s anything like other Walmart preorders , it may occasionally disappear. Metroid Ravenous Where to Buy: $69.99 $59.88 at Walmart Nintendo first showed off the side-scrolling adventure game at its September 2026 Direct , with a frantic trailer cutting between cinematic sequences, Samus dashing and rolling across a variety of environments, and engaging a number of enemies and bosses in battle. Samus absorbs some powerful abilities at the conclusion of Dread , and Ravenous seem to be all about plowing through anyone stopping her from escaping the planet. Other details of the story, including unique new mechanics, are being kept under wraps for the time being. If you haven’t played Metroid Dread , I recommend it, especially at its $41.99 discounted price at Amazon . It’s part of Nintendo’s “Customer Appreciation” sale happening through September 26th, and several other games and accessories are cheaper, too. ]]>
+
+### Apple might make servers again to cash in on the AI rush
+2026-09-16T13:20:29-04:00 — https://www.theverge.com/tech/996321/apple-servers-ai-nvidia
+
+According to The Information , Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to expand has apparently led the company to believe there is an opening for its powerful but efficient ARM-based M processors. Its Mac Mini and Mac Studio have proven popular with AI developers , which has led to shortages. The server product, whether it's called Xserve or something else, likely won't debut until 2029. Word is that i … Read the full story at The Verge. ]]>
+
+### Your ‘health age’ is fake
+2026-09-16T13:00:00-04:00 — https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity
+
+My villain origin story is my Whoop age. How do you age at 0.9 times your age and end up four to five years older than you are? | Photo by Amelia Holowaty Krales / The Verge This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here . During last week's Apple Watch announcement, I let out a distinct "Noooo!" in the Steve Jobs Theater. Along with a new readiness metric and a redesigned Health app, Apple had just announced that later this year, it'd be introducing a new longevity feature called Health Age. This is a familiar concept in the wearable and health tech world. The idea is that if you put effort into your health and fitness, your physiological age c … Read the full story at The Verge. ]]>
+
+### Google will now let any AI agent run your smart home
+2026-09-16T13:00:00-04:00 — https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date
+
+Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol . Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on your behalf. It "allows any AI agents that support MCP, including Google Antigravity, Claude, Hermes or Open Claw, to securely work with all of the devices and event history in your Google Home ecosystem," Taylor Lehman, group product manager at Google Home & Nest, said in a blog post. According to Lehman, Home MCP integ … Read the full story at The Verge. ]]>
+
+### Claude comes for Gemini with its own take on Docs and Slides
+2026-09-16T12:30:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides
+
+Claude is getting a pair of new tools today: Docs and Slides . They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into "one Claude," with all of its AI productivity tools available from any chat. Artifacts and Claude Design capabilities will be available through the new single interface as well. According to Anthropic, Claude "can now figure out what a task needs, so what Cowork and Design can do is available from any conversation, with the context, sk … Read the full story at The Verge. ]]>
 
 ### The sexy AI-powered dating app scams are here
 2026-09-16T10:45:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams
@@ -84,37 +114,12 @@ Over the past few days, a lot of people who stand to make a lot of money from AI
 
 Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy iterated upon with Tears of the Kingdom . On the Switch 2 this idea expanded to Mario Kart World and Donkey Kong Bananza . Now, Nintendo has brought this philosophy to Fire Emblem with Fortune's Weave . It works really well; with its many ways to progress through the game and tailor teams to your liking, Fortune's Weave has become my favorite game on the Switch 2 so far. Fortune's Weave 's structure is a big reason why it feels … Read the full story at The Verge. ]]>
 
-### The iPhone 18 Pro’s big camera update is all about the small gains
-2026-09-16T08:00:00-04:00 — https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture
-
-Ice cold. | Photo: Amelia Holowaty Krales / The Verge Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products. A remarkably distinct device with the kind of "I can't believe they did that" software touches that Apple sometimes pulls off when it's at the top of its game. That phone is not the iPhone 18 Pro. The 18 Pro and Pro Max are in the unusual position of being the second-most interesting iPhones that Apple is launching this year. The foldable iPhone Duo stole the show at Apple's launch event, but it's not arriving until next month. … Read the full story at The Verge. ]]>
-
-### Meta is reportedly ready to launch less pervy smart glasses
-2026-09-16T04:54:46-04:00 — https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect
-
-Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses . A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta Connect event next week. Instead of a camera, the Luna glasses will reportedly include six microphones that allow users to chat to Meta AI and the new Muse AI agent , along with speakers for audio playback. Stripping the camera out has apparently made it possible to make the glasses' arms smaller, and closer to ordinary frames. Meta is repor … Read the full story at The Verge. ]]>
-
-### The Boox Palma 3 gets stylus support and a sleek redesign
-2026-09-15T22:00:00-04:00 — https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16
-
-Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader , the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the Palma 2 launched in 2024 for $279.99 , the Palma 3 will be $339.99 and is expected to be "available soon." The most obvious upgrade for the Palma 3 is the hardware itself. It still features the same 6.13-inch, 300ppi E Ink Carta screen as its predecessor (which is now quite a few years old), but it's wrapped in a new anodized aluminum frame with a pap … Read the full story at The Verge. ]]>
-
-### The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization
-2026-09-15T21:00:00-04:00 — https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability
-
-Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark II for photographers wanting a larger full-frame shooter. While the new EOS R8 Mark II is slightly heavier than its predecessor at 1.2 pounds thanks to the additional stabilization functionality, it's lighter and cheaper than last year's EOS R6 Mark III . The Canon EOS R8 Mark II is expected to be available sometime in late October for $1,899 for … Read the full story at The Verge. ]]>
-
-### AI and data centers are incredibly unpopular in every poll
-2026-09-15T19:34:25-04:00 — https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september
-
-Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing , and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed in early September (ahead of the recent AI safety slowdown discussion ) said they were opposed, with only 14 percent saying they strongly support. The split was about even among 2024 Donald Trump voters, at 49 percent support to 45 percent oppose, while people who had voted for Kamala Harris or who didn't vote leaned opp … Read the full story at The Verge. ]]>
-
-### Microsoft announces Windows and Surface event for October 7th
-2026-09-15T16:36:59-04:00 — https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco
-
-It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a "conversation on how local AI will shape the next chapter of the PC." Microsoft CEO Satya Nadella will be in attendance, alongside Windows and Surface chief Pavan Davuluri. Even Nvidia CEO Jensen Huang will be appearing at the event, which suggests that RTX Spark PCs could be the main focus of this event. If that's the case, don't be surprised to hear more about the Microsoft Surface Laptop Ultra pricing and avai … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Developer vibe codes a tool to let Nvidia RTX 50-series laptop owners crank up their power limits — can juice RTX 5090 mobile GPU to 225W
+Wed, 16 Sep 2026 15:19:42 +0000 — https://www.tomshardware.com/pc-components/overclocking/developer-vibe-codes-a-tool-to-let-nvidia-rtx-50-series-laptop-owners-crank-up-their-power-limits-can-juice-rtx-5090-mobile-gpu-to-225w
+
+Folks with Nvidia-based gaming laptops can now use a new tool called NvpwrControl to unlock additional performance from their assuredly power-limited mobile GPU, as long as they're willing to accept the risks of cranking their GPU power limit by as much as 40 watts. The tool, spotted by VideoCardz , is available for download on GitHub , and it is labeled as 'experimental', so you'll want to be very sure you're willing to damage the reliability, if not the lifespan, of your fancy discrete GPU gaming laptop before using it. If you've ever had a gaming laptop, you will know that the GPU model name can be deeply misleading. Whether it's NVIDIA using wildly different GPU configurations , AMD using confusing suffixes that don't exist in desktop GPUs , or Intel naming integrated graphics like a discrete GPU , all three vendors do things to keep the user guessing why their new gaming laptop isn't as fast as expected based on the name alone. NVIDIA GeForce RTX 50 Series Laptop GPU Power Limits GPU Name GPU Power (varies per laptop) Dynamic Boost Max Mod Max (Experimental) GeForce RTX 5050 Laptop 35 - 100W 15W 140W GeForce RTX 5060 Laptop 45 - 100W 15W 140W GeForce RTX 5070 Laptop 50 - 100W 15W 140W GeForce RTX 5070 Ti Laptop 60 - 115W 25W 180W GeForce RTX 5080 Laptop 80 - 150W 25W 225W GeForce RTX 5090 Laptop 95 - 150W 25W 225W In Nvidia's case, the GPU models ( aside from the RTX 30 Series ) don't match at all between laptop and desktop, but even with the smaller size of the laptop G
 
 ### Piecemakers bets edge AI devices will diverge from reliance on HBM — custom-designed memory fuses DRAM stack directly to the processor using hybrid bonding
 Wed, 16 Sep 2026 14:36:48 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/piecemakers-bets-edge-ai-devices-will-diverge-from-reliance-on-hbm-custom-designed-memory-fuses-dram-stack-directly-to-the-processor-using-hybrid-bonding
@@ -161,7 +166,7 @@ Wed, 16 Sep 2026 11:15:00 +0000 — https://www.tomshardware.com/tech-industry/a
 
 An apparently sad and defeated GPT-6 Astra spent several hours doing nothing but farming potatoes during a 141-hour Minecraft benchmark test, after dying and losing all of its gear to an exploding Creeper. Vals AI records that while GPT-6 Astra, OpenAI's latest frontier model, got further than any AI system had in its 141-hour test, the experiment did reveal a distinctly human lapse in motivation after all of its progress was wiped out by the destructive mob. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible While the model outclassed rivals in how much it was able to achieve, the test has gone viral for a different reason. After Astra put all of its valuable end-game items in a chest, a Creeper appeared and blew up both the chest and Astra's bed — a calamity any Minecraft player will tell you is the worst thing that can happen. Not only did Astra lose all of the items to the explosion, but the bed destruction wiped the spawn point out, effectively resetting your game progress to zero. "Here, the most expensive creeper explosion occurred. Later, on a coincidentally rainy day, Astra discovers it lost every
 
-### AWS tells clients to abandon Middle East data centers six months after Iranian drone strikes — Amazon offers no recovery timeline as UAE mulls underground data centers [Updated]
+### AWS tells clients to quit Middle East data centers six months after Iranian drone strikes — Amazon offers no recovery timeline as UAE mulls underground data centers [Updated]
 Wed, 16 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/amazon-reportedly-tells-customers-in-abu-dhabi-and-bahrain-to-find-safer-harbors-for-their-data-aws-has-no-timeline-for-resuming-operations-six-months-after-drone-strikes-damaged-data-centers-in-the-region
 
 More than six months after Amazon Web Services (AWS) data centers in Abu Dhabi and Bahrain were attacked by drones, the company has now had to tell customers to move their data to facilities in other regions. The Wall Street Journal reports that AWS has admitted that it's time for customers to jump ship to data centers located elsewhere in the world. In its AWS dashboard update, AWS confirmed "most customers have been able to re-establish their operations in other Regions by restoring backups or copying data that remained accessible. AWS Support remains available to help customers who need assistance moving their applications to alternate Regions." The move comes as AWS continues repairs on the damaged data centers, but it stopped short of offering a timeline as to when customers can expect either location to be back online. AWS says that it remains committed to supporting its customers in Bahrain, but only said it would provide a further update early next year. It did not offer any specific recovery time frame for the restoration of services. Regarding the UAE, AWS says that it is working to replace affected infrastructure, but again only said it would provide an update on the restoration of services in the coming months. Both affected data centers became targets for the Islamic Republic of Iran after the United States and Israel launched strikes on that country in February of this year. Months later, the Bahraini data center was struck by cruise missiles , and Iranian state
@@ -171,12 +176,17 @@ Wed, 16 Sep 2026 10:45:00 +0000 — https://www.tomshardware.com/pc-components/g
 
 The GeForce RTX 5090 is the first thing that comes to mind when you think of the best graphics cards . However, you'd better pray the serial number on the inside of the metal bracket does not fade over time, since that could be a reason for Nvidia to reject warranty claims. At least one Redditor has shared a case of Nvidia reportedly denying a warranty claim because the bracket's serial number was unreadable. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC The Redditor Willing-Avocado-4830, based in the UK, began experiencing black-screen crashes with a GeForce RTX 5090 Founders Edition graphics card under heavy load. The user sent the card to Nvidia for a warranty claim. After 30 days of radio silence, the owner finally received an email stating that their RMA request was rejected with no apparent explanation for the denial. Seeking clarification, the user reached out to Nvidia for further information. According to the Redditor's recount, Nvidia support purportedly rejected the RMA because the serial number on the graphics card's metal bracket had faded. Like many gamers, Willing-Avocado-4830 claims never to have modified or tampered with the graphics card after installation. The fading serial number does not appear to be an isola
 
-### Save $270 on this solid 1080p gaming PC with an RTX 5060 from MSI, now under $1,430 — Codex R2 rig packs 32GB DDR5 RAM, a 2TB SSD, and a 10-core Intel CPU
-Wed, 16 Sep 2026 10:43:01 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/save-usd270-on-this-solid-1080p-gaming-pc-with-an-rtx-5060-from-msi-now-under-usd1-430-codex-r2-rig-packs-32gb-ddr5-ram-a-2tb-ssd-and-a-10-core-intel-cpu
-
-With new gaming PCs continuing to rise in price, it's worth grabbing a discount or a deal where you can. This MSI Codex gaming PC features a 10-core Intel CPU, Nvidia GeForce RTX 5060 GPU, 32GB of DDR5 RAM, and a 2TB SSD for storage, all for just $1,429 , thanks to a $270 saving. ● Grab this gaming PC deal at Newegg These are all the specs you'll want for a machine that will comfortably play games at 1080p. The current-gen Nvidia GeForce RTX 5060 is top of the list, though, with features like DLSS that mean you'll be able to take advantage of both upscaling and multi-frame generation, making games smoother to play if you decide to boost up to higher resolutions or better graphics settings. The RTX 5060 will be a significant improvement over an older graphics card or integrated GPU, too. It has 3,840 CUDA cores, along with 8GB of GDDR7 VRAM. With DLSS enabled, this'll let you run most games at 1080p with high graphics presets enabled. Codex R2 B14NVL5-449US: was $1699 now $1499 The MSI Codex R2 B14NVL5-447US gaming PC comes with an Intel Core i5-14400F, Nvidia GeForce RTX 5060, 32GB of DDR5 memory, and 2TB of storage. View Deal You're also getting the best value GPU in our GPU hierarchy when looking at FPS per dollar at 1080p with the RTX 5060. The 8GB of VRAM isn't as limiting as you'd think with a build like this, because you're not going to be hitting 4K here. It has more than enough power for modern games, but you'll need to occasionally optimize for the mos demanding ones
-
 ## Phoronix
+
+### Ubuntu 26.10 amd64v3 Can Provide A Nice Boost For Low-End/Budget Hardware
+Wed, 16 Sep 2026 13:37:00 -0400 — https://www.phoronix.com/review/ubuntu-2610-amd64v3-lowend
+
+Canonical recently began producing Ubuntu 26.10 amd64v3 daily ISOs to complement their experimental amd64v3 package archive that they have been trialing the past few release cycles. While we still don t know what any official plans are for amd64v3 with Ubuntu 26.10, the performance gains can be very worthwhile over the generic amd64 binaries even for low-end/budget hardware.
+
+### GNOME 51 Released With Improved Frame Scheduling, Many App Improvements
+Wed, 16 Sep 2026 12:25:21 -0400 — https://www.phoronix.com/news/GNOME-51-Released
+
+Right on schedule and in time for appearing in the likes of Ubuntu 26.10 and Fedora Workstation 45, the GNOME 51 desktop is officially released...
 
 ### Crash-Safe & Copy-On-Write GEFS As The "Good Enough File-System" For OpenBSD
 Wed, 16 Sep 2026 09:42:00 -0400 — https://www.phoronix.com/news/OpenBSD-GEFS-File-System
@@ -228,17 +238,32 @@ Tue, 15 Sep 2026 12:54:08 -0400 — https://www.phoronix.com/news/SDL3-Ported--T
 
 The SDL3 library commonly used for games and applications for cross-platform hardware and software abstractions now has upstream support for Huawei's HarmonyOS and OpenHarmony...
 
-### Ubuntu 26.10 Set To Deliver Better Performance For Intel Core 3 Wildcat Lake
-Tue, 15 Sep 2026 11:34:07 -0400 — https://www.phoronix.com/review/ubuntu-2610-wildcat-lake
-
-While Ubuntu 26.04 LTS is working fine out-of-the-box on new Intel Core 3 "Wildcat Lake" laptops like the CHUWI UniBook, next month s release of Ubuntu 26.10 will help deliver better performance out of these low-cost laptop options.
-
-### Fedora 45 Beta Released With KMSCON Console, GNOME 51 & Other Updates
-Tue, 15 Sep 2026 10:30:08 -0400 — https://www.phoronix.com/news/Fedora-45-Beta
-
-The beta release of Fedora 45 is out today and right on schedule for this wonderful Linux distribution...
-
 ## The Register
+
+### OpenAI's new sponsored agents are happy to chat about selling you things
+Wed, 16 Sep 2026 20:32:37 +0200 — https://www.theregister.com/ai-and-ml/2026/09/16/openais-new-sponsored-agents-are-happy-to-chat-about-selling-you-things/5296946
+
+There's a new kind of agent coming to ChatGPT ads, and this one wants your money. OpenAI has begun testing Sponsored Agents, advertiser-backed bots that try to sell you things as part of a custom conversation. OpenAI said in a Wednesday announcement that Sponsored Agents were now being tested with select US advertisers already using its platform to put sponsored content in front of ChatGPT users. Despite the “agent” label, however, it seems from OpenAI’s description of the new feature that it’s more like a typical sponsored content chatbot that appears unasked on websites, bombarding users with the opportunity to ask a virtual customer service agent what product is right for them. In this case, the customer service agent lives right in ChatGPT instead of users having to go to an advertiser’s actual website to learn more - you wouldn’t want those humans navigating away until the last possible minute, after all. “After seeing a relevant ad, a user can choose to start a clearly labeled conversation with a business-sponsored agent in ChatGPT,” the announcement explains. “The user can explain what matters to them, ask follow-up questions, and follow a link to the business’s website when they’re ready to take the next step.” As an example, a brief video included with the announcement shows a user asking for a recipe and instead being told they shouldn’t worry about trying to plan their meals before being shunted into an ad for a subscription meal kit. The sponsored agent from the m
+
+### Google Pixel phones pwned in zero-click attacks
+Wed, 16 Sep 2026 19:56:31 +0200 — https://www.theregister.com/security/2026/09/16/google-pixel-phones-pwned-in-zero-click-attacks/5296936
+
+Both Google and Uncle Sam warned that attackers have exploited a zero-day improper authorization bug in Pixel phones' cellular modems that can bypass permission checks and escalate privileges with no user interaction required. The hole has since been closed, provided that you update. Google disclosed the high-severity vulnerability, tracked as CVE-2026-58704, on Tuesday - and, at the time, warned the security hole “may be under limited, targeted exploitation.” In other words: miscreants found and exploited this bug before Google fixed the issue. The Register reached out to Google for more details about the scope of exploitation, and how attackers are exploiting the flaw and what they can achieve. We have very limited details about the vulnerability itself, other than that it exists in Pixel phones' modems, is being exploited in the wild, and can be exploited in zero-click attacks, meaning no user interaction is required. We do know, however, that these types of zero-click attacks are frequently used by commercial spyware makers to surveil targeted individuals. On Wednesday, the US Cybersecurity and Infrastructure Security Agency (CISA) added the CVE to its Known Exploited Vulnerabilities Catalog and gave federal agencies just three days - until September 19 - to patch the flaw. “This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise,” according to the cyber-defense agency. Earlier this month, CIS
+
+### Enterprises are sweating legacy IT assets as AI investment grows
+Wed, 16 Sep 2026 18:15:00 +0200 — https://www.theregister.com/systems/2026/09/16/enterprises-are-sweating-legacy-it-assets-as-ai-investment-grows/5296896
+
+Companies are getting more selective about replacing legacy kit such as mainframe systems, and rising AI investment is one of the factors causing them to hold onto these existing assets for longer. Managed services biz Ensono claims in its 2026 State of IT Modernization report that 78 percent of IT decision makers regard legacy systems as more important today than they did two years ago, and this is because such systems are viewed as key to making AI work for their organization. The report is based on a survey of 500 IT decision-makers and line-of-business leaders conducted by the firm across the US and UK. Its findings show that AI is reshaping modernization priorities, but that corporates are still grappling with many of the challenges that have traditionally complicated modernization efforts, such as budget overruns, delayed initiatives, and talent shortages. Ensono found that 45 percent of firms are actively scaling AI deployments across their organization, while 44 percent are investing in targeted, high-impact use cases. Supporting AI, automation, and advanced data initiatives is now the top pressure driving modernization, while more than half of companies say that AI is helping advance modernization by delivering through greater automation and improved efficiency. Among the barriers businesses face, the top challenges to achieving AI goals are said to be difficulty integrating AI into existing workflows and business processes (33 percent of respondents) and infrastruct
+
+### Nine-year-old runs up $118,000 bill on dad's corporate credit card advertising his Roblox YouTube channel
+Wed, 16 Sep 2026 17:51:49 +0200 — https://www.theregister.com/offbeat/2026/09/16/nine-year-old-runs-up-118000-bill-on-dads-corporate-credit-card-advertising-his-roblox-youtube-channel/5296889
+
+There’s kids running up a few hundred bucks on in-app purchases, and then there’s the case of nine-year old YouTuber Mighty Mike Plays, who just cost his dad $118,000 – and possibly his job – after running a bunch of Google ad campaigns for his channel on papa's company credit card. The young Roblox and Minecraft YouTuber posted a video Tuesday – or perhaps it's more apt to say his father Dave posted the video to explain why Might Mike Plays might be going dark for a while. In it, nine-year-old Mike explains “I think this might be the end,” before handing the mic to his dad. “My son has been running some high-budget campaigns on YouTube that I was pretty much unaware of,” Dave explained after taking the mic. Dave didn’t figure this out after spotting the charges himself, however. He learned about it after being called into a meeting with his manager and the finance department at his employer, an unnamed “large” company where he works in marketing. Dave was confronted with a spreadsheet with a full breakdown of three weeks of advertising spending from his corporate card that totaled $118K and asked to explain it. “It dawned on me that, oh crap, this is probably something my son did,” Dave said in the video. “The number sitting on the page in front of me had about five more digits than it should have.” A breakdown of the spending named his child’s account, as well as Roblox and Minecraft video titles, making it pretty clear pretty quickly that Mighty Mike had been misusing dad’
+
+### Fedora 45 beta drags the Linux console into the 21st century
+Wed, 16 Sep 2026 17:27:46 +0200 — https://www.theregister.com/software/2026/09/16/fedora-45-beta-drags-the-linux-console-into-the-21st-century/5296873
+
+Fedora Linux 45 beta has arrived with Linux kernel 7.2, a release-candidate build of GNOME 51, and extensive changes beneath the desktop. The biggest surprise is that Linux's legacy in-kernel console – the text-mode interface normally hidden beneath the GUI – has been replaced with a software-controlled alternative. The replacement is kmscon, a userspace terminal emulator that has been in development for more than a decade. Its Freedesktop project page explains that it uses the kernel's Direct Rendering Manager (DRM) and Kernel Mode Setting (KMS) facilities to configure the display, while offering better internationalization support. Kmscon was announced way back in 2012, but after a few years' work, developer David Herrmann moved on to other things. Fortunately, another developer, Peifeng Yu – nicknamed Aetf – maintained a fork for a decade until the original team resumed work last year. Some of the benefits of kmscon may sound a little theoretical: it has better Unicode support, which will help people working with scripts and alphabets beyond plain old US English, and it has multiseat support, allowing multiple users to share one PC simultaneously with separate keyboards and displays. We suspect that this isn't so common in 2026, but it could be useful to someone somewhere. We first heard of the advantages of kmscon via a blog post about Veronica Explains' writer deck: she uses it to display more than 16 colors on the console, and it also adds the ability to zoom in and out
 
 ### SpaceX aims Starship for orbit on September 22
 Wed, 16 Sep 2026 14:46:00 +0200 — https://www.theregister.com/offbeat/2026/09/16/spacex-aims-starship-for-orbit-on-september-22/5296836
@@ -275,32 +300,27 @@ Wed, 16 Sep 2026 11:15:00 +0200 — https://www.theregister.com/networks/2026/09
 
 BT Email customers say they have been bombarded with hundreds – and in one case more than 1,000 – unsolicited password reset messages, leaving the telco investigating what is causing the deluge. The reports began appearing on BT's community forums over the weekend, with customers describing sudden bursts of PIN messages arriving within minutes despite them making no attempt to reset their passwords. One customer said they received between 50 and 70 PIN texts "in the space [of] a few minutes," while a second reported more than 100. A third said the number had passed 500, and another claimed to have received more than 1,000. One BT customer who contacted The Register separately said they had received around 300 password reset emails over the previous 24 hours, typically arriving in bursts of around 50 within a minute before stopping for several hours. BT has acknowledged the problem but has yet to explain what is behind it. "We are aware that some customers have received a large number of password reset pin messages and we are actively investigating the cause of this," a BT moderator said on the company's community forum. "If you have received multiple messages like this, please ignore them and remain vigilant for any unusual activity with further messages or unexpected calls." BT added that customers' email accounts are secure and that those receiving the messages do not need to take any action. At least one customer, however, claims someone accessed their account during the P
 
-### UK funds flying broadband stations with power beamed from below
-Wed, 16 Sep 2026 10:30:00 +0200 — https://www.theregister.com/networks/2026/09/16/uk-funds-flying-broadband-stations-with-power-beamed-from-below/5296545
-
-The UK's Advanced Research and Invention Agency (ARIA) is funding projects aimed at delivering connectivity using high-flying aircraft, including technology to beam power from the ground to keep them in the air. Britain's science and technology body, inspired by America's DARPA but on a more modest budget, says it is backing 18 projects to develop aircraft capable of operating reliably and cost-effectively in the stratosphere, as part of a program known as Enduring Atmospheric Platforms. Success will be measured by whether any aircraft can continuously supply 300 W of power to a communications payload for an entire week, while holding station above the UK. The intent is to create an alternative to orbital satellites for providing connectivity to underserved parts of the UK and elsewhere in the world. These are known as high-altitude pseudo-satellites (HAPS). The agency says that satellites have been the default way to reach users or communities that are not well served by terrestrial networks, but their distance and orbits impose physical limits on what they can deliver. ARIA is allocating £70 million ($94 million) in funding over three and a half years for the projects, which will tackle the power and reliability challenges of sustained operations above the UK. The projects are split into three technical areas, with TA1 set to cover enabling technologies, TA2 comprising system integration and testing, and TA3 focused on deployment and communications. ARIA highlighted a proje
-
-### Bring on the AI swarms. They’re the only thing that can defend us now that AI is free
-Wed, 16 Sep 2026 08:31:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/16/bring-on-the-ai-swarms-theyre-the-only-thing-that-can-defend-us-now-that-ai-is-free/5296727
-
-Unpredictable token bills haunted the first half of 2026 as AI experimenters pushed deeper into the tech and often found useful results could only be achieved after surprising and unwelcome expenditure. We've gone from tokenmaxxers to tokenmisers, counting every character we send to AI services. That changed the way we used AI, focusing users on the ticking meter and unable to cast their eyes up and explore the possible. Those blinkers fell away in the middle of August when Alibaba delivered Qwen3.8-27B, byte-for-byte probably the most powerful language model ever created – and also capable of running on a high-spec laptop. The community of “local AI” enthusiasts noticed and have spent the intervening weeks whittling Qwen down to fit on an ever-widening array of devices, including – surprisingly – my M4 MacBook Air. Their work means millions of similar devices can now access near-frontier-level artificial intelligence from free software. The gap between my MacBook Air and a smartphone isn’t vast. As local AI developers continue whittling Qwen down to size, a few hundred million smartphones will also be capable of running top-tier AI. While that hasn't happened yet, it won't be more than six months away. At the rate things are unfolding, probably closer to six weeks. Suddenly, "good enough" AI isn't something that we will have to rent. We can have it, at no cost, on our desktops, our kitchen tables, our classrooms and in our pockets. That’s great, but also scary because we've 
-
-### Mythos has made 2026 patching hell. It might make 2027 a breeze
-Wed, 16 Sep 2026 07:54:47 +0200 — https://www.theregister.com/security/2026/09/16/mythos-has-made-2026-patching-hell-it-might-make-2027-a-breeze/5296747
-
-When Microsoft delivered over 970 patches last week, many saw a nightmare for beleaguered security staff. Gartner research vice president Craig Lawson thinks infosec workers might soon see sunlit uplands as their workloads ease. Lawson outlined that scenario at Gartner’s IT Symposium in Australia today and explained it by theorising that the increased volume of vulnerability discoveries made possible by Anthropic’s Mythos and other bug-hunting AI might be getting close to finding most of the flaws in established codebases. “We've never had a situation where massive codebases have been audited to that level before,” he told The Register, and offered the recent series of CVEs found in OpenBSD – which has historically been an unusually secure and stable OS – as evidence that AI bug-hunters are cleaning up. “Think about how much technical debt has been retired in products just in the last six months,” he said. Lawson pointed to the fact security vendors, who in theory know what it takes to create secure products, are also using AI to find flaws in their wares. Those discoveries, he suggested, again indicate AI is taking out potential avenues for zero-day attacks. The high number of CVEs reported in 2026 is a positive signal. Lawson thinks Mythos and its ilk may also create an invisible signal as vendors use the AI to detect more bugs in their future releases. He therefore thinks that 2027 might see CVE numbers fall as vendors finish cleaning up old codebases, and because they use
-
-### Java 27 grows up, makes better choices
-Wed, 16 Sep 2026 06:50:00 +0200 — https://www.theregister.com/devops/2026/09/16/java-27-grows-up-makes-better-choices/5296707
-
-If one sign of maturity is making better choices, then Java has grown up a fair bit in its version 27 release Tuesday. “JDK 27 is the release where Java stops asking you to opt in to good defaults and simply turns them on,” wrote backend engineer Arvind Kumar, on his education site Codefarm. Better default settings may not be groundbreaking, but they do make life easier for developers because they mean coders have fewer things to change. Nor should users have to grapple with new features, particularly if they are not of interest. Java 27 succeeds on both counts. Built from the now-completed Java 27 specification, JDK 27 is a short‑term release that won't get long-term support. It includes four new features, or JEPs (JDK Enhancement Proposals) that are ready for production, none of which, Kumar points out, require any immediate changes in developers' code. The release includes another five new features offered as previews for further incubation. Headers get compact In Java 27, compact headers are now available by default (JEP 534). Up until now, the developer had to set them with a flag. Now, no additional action is required. Traditionally, a Java object header takes up 96 bits in a memory heap, much of which is rarely used. With Java 27, the default is a 64-bit header. Turns out the header had too much empty space. Four bytes doesn’t sound like a change to worry over, but across millions of live objects it can lead to considerable memory savings. A run on the SPECjbb2015 Java
-
-### TypeSafe AI debuts model for machines that plays Doom
-Wed, 16 Sep 2026 03:35:16 +0200 — https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711
-
-TypeSafe AI, a startup bestowed with $40 million in funding, on Tuesday declared itself a maker of frontier models with the release of Jev, a new type of AI model intended for interaction with machines rather than people. Instead of returning natural language in response to a text-based prompt, TypeSafe AI designed Jev to return typed probabilistic decisions for use by other software or AI models. Type safety in programming is a way to catch errors that arise when software processes an unexpected type of data, as might happen if an operation tried to divide an integer by a text string. By providing typed, structured values, Jev can avoid the parsing and validating that must be done to process text responses from LLMs. This approach can be useful for scenarios where interactions with an AI system need to be constrained to a limited set of answers. It can, for example, play Doom, when fed structured data describing the player's game state. But it's more likely to be used for sorting customer service problems and other business workflows. With Jev, the developer starts with a state value, which can be a JSON object or simply a string like "My card was charged twice." The model gets presented with state information through a set of question primitives (Choice, Score, Noul), each of which returns a different type of structured response with probabilities. So a question asking the model to choose which of three departments should handle a particular customer service query might com
-
 ## Engadget
+
+### MindsEye developer Build A Rocket Boy is reportedly shutting down
+Wed, 16 Sep 2026 17:47:51 +0000 — https://www.engadget.com/2260473/mindseye-developer-build-a-rocket-boy-is-reportedly-shutting-down/
+
+It's not terribly surprising after repeated rounds of layoffs.
+
+### The Boox Note Air6C E Ink tablet flips pages nearly 40 percent faster
+Wed, 16 Sep 2026 17:36:21 +0000 — https://www.engadget.com/2260455/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster/
+
+The 10.3-inch color ereader runs Android 16 and can access the Google Play Store.
+
+### Google Home is going agentic via integration with the MCP standard
+Wed, 16 Sep 2026 17:00:00 +0000 — https://www.engadget.com/2260280/google-home-is-going-agentic-via-integration-with-the-mcp-standard/
+
+Premium Advanced users will get an early access build in the coming weeks.
+
+### Anthropic's Claude can now create editable documents for you
+Wed, 16 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together/
+
+Anthropic is adding the ability to create docs, slideshow and access Cowork capabilities inside chat. It will roll out to Pro and Max subscribers first.
 
 ### Samsung brings One UI 9 to the rest of the Galaxy S26 series
 Wed, 16 Sep 2026 15:04:14 +0000 — https://www.engadget.com/2260198/samsung-brings-one-ui-9-to-the-rest-of-the-galaxy-s26-series/
@@ -342,27 +362,52 @@ Wed, 16 Sep 2026 08:35:49 +0000 — https://www.engadget.com/2259862/boox-palma-
 
 Boox has unveiled three new E Ink devices, including the Palma 3.
 
-### Meta is reportedly gearing up to launch new smart glasses without a camera
-Wed, 16 Sep 2026 06:49:32 +0000 — https://www.engadget.com/2259838/meta-smart-glasses-without-a-camera/
-
-Meta will soon unveil new camera-free smart glasses, according to The Information.
-
-### Canon's R8 II camera borrowed its styling from a classic SLR film camera
-Wed, 16 Sep 2026 01:00:00 +0000 — https://www.engadget.com/2259755/canon-r8-ii-camera-borrowed-styling-from-a-classic-slr-film-camera/
-
-Though preoccupied with vlogging lately, Canon hasn't forgotten its full-frame photography market.
-
-### Considering a Level 2 EV charger? How to know if you need one
-Wed, 16 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2257144/level-2-ev-charger-how-to-know-if-you-need-one/
-
-Charging your EV from home is cheap and convenient, but knowing which type of charger will get the most out of your electric car can often be confusing.
-
-### How to get Spotify's best audio quality
-Tue, 15 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2257125/how-to-get-spotify-best-audio-quality/
-
-Spotify's default audio settings let you enjoy music wherever you go, but you're not always getting the best quality. A few tweaks can make all the difference.
-
 ## TechCrunch
+
+### Automattic s interim CEO and legal chief signed reciprocal severance deals during Mullenweg s brief ouster
+Wed, 16 Sep 2026 19:35:29 +0000 — https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/
+
+CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.
+
+### Former Waymo CFO jumps to self-driving startup Wayve
+Wed, 16 Sep 2026 19:02:49 +0000 — https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/
+
+Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.
+
+### Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026
+Wed, 16 Sep 2026 18:45:35 +0000 — https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/
+
+At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.
+
+### AI labs want in-house auditors — but maybe they should shut the front door first
+Wed, 16 Sep 2026 18:25:25 +0000 — https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/
+
+There may be a simpler and more effective fix for rogue agents, hiding in plain sight.
+
+### Hackers publish thousands of drivers data after breaching Florida motor vehicle database
+Wed, 16 Sep 2026 18:00:54 +0000 — https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/
+
+The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.
+
+### Your AI agents can now control your Google Home devices
+Wed, 16 Sep 2026 17:00:00 +0000 — https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/
+
+Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.
+
+### Anthropic merges Claude chat and Cowork in one interface
+Wed, 16 Sep 2026 16:30:00 +0000 — https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/
+
+Anthropic is initially releasing these features to Pro and Max plan subscribers.
+
+### How Fortell is using AI (and $163M) to crack a hearing aid monopoly
+Wed, 16 Sep 2026 16:00:00 +0000 — https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/
+
+“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity [ ]
+
+### May Mobility is going public in a $1.4B SPAC deal
+Wed, 16 Sep 2026 15:27:13 +0000 — https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/
+
+The deal could net the asset-light robotaxi company more than $300 million in funding.
 
 ### Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026
 Wed, 16 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/
@@ -378,49 +423,4 @@ The Pixel phone maker said there are indications that a bug in the phone's modem
 Wed, 16 Sep 2026 14:32:08 +0000 — https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/
 
 Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.
-
-### Threads new features let podcasters promote shows and reach listeners
-Wed, 16 Sep 2026 14:24:58 +0000 — https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/
-
-Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.
-
-### Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed
-Wed, 16 Sep 2026 14:15:00 +0000 — https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/
-
-Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.
-
-### 3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026
-Wed, 16 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/
-
-Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.
-
-### SK Hynix reportedly in talks with Intel to build memory chips in US
-Wed, 16 Sep 2026 13:23:02 +0000 — https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/
-
-SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.
-
-### Former Infosys chief s AI startup nabs another $53M
-Wed, 16 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/
-
-The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.
-
-### Clean tech startup Fluxnium found a way to tap 50,000 years worth of nuclear fuel
-Wed, 16 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/
-
-Fluxnium's fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.
-
-### Amazon launches Alexa+ in India with Hindi support
-Wed, 16 Sep 2026 10:34:47 +0000 — https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/
-
-Amazon is letting all customers use Alexa+ assistant in early access period.
-
-### We don t need AI regulation — leave safety to us, Nvidia s Jensen Huang says
-Wed, 16 Sep 2026 00:20:39 +0000 — https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/
-
-AI isn't some new form of "alien mind," according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.
-
-### The AI data center boom is colliding with cities scarred by big industry
-Tue, 15 Sep 2026 21:47:38 +0000 — https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/
-
-National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.
 

@@ -1,6 +1,51 @@
-# Manga — harvested 2026-09-16T15:09:29.390Z
+# Manga — harvested 2026-09-16T19:41:39.336Z
 
 ## Anime News Network
+
+### Official Naruto Shippuden Battle Board Game Launches Crowdfunding Campaign
+Wed, 16 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/official-naruto-shippuden-battle-board-game-launches-crowdfunding-campaign/.241869
+
+<cite>Naruto Shippuden Battle</cite> project asks 2-4 players to assemble teams of 3 characters
+
+### Snack World Reloaded Game's Trailer Previews Combat, Stages, Bosses
+Wed, 16 Sep 2026 13:30:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/snack-world-reloaded-game-trailer-previews-combat-stages-bosses/.241867
+
+Game launches in 2027 for Switch 2, PS5, PC
+
+### Decapolice Game's Trailers Preview Story, Mysteries, Combat
+Wed, 16 Sep 2026 13:03:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/decapolice-game-trailers-preview-story-mysteries-combat/.241865
+
+Game launches for Switch 2, PS5, PC in 2027 following delays
+
+### Stranger Than Heaven Game's Video Previews Opening, Showbiz, Combat
+Wed, 16 Sep 2026 12:52:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/stranger-than-heaven-game-video-previews-opening-showbiz-combat/.241858
+
+Game's theme song by Snoop Dogg, Satoshi Fujihara, Ado, Tori Kelly gets release this year
+
+### Terranigma RPG's Trailer Reveals January 14 Release
+Wed, 16 Sep 2026 12:26:18 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/terranigma-rpg-trailer-reveals-january-14-release/.241857
+
+Video previews new easy-view status window, aspect ratio selection, adjusted difficulty
+
+### Mega Man: Dual Override Game's Video Previews Dual Protagonists, Custom Chips, Special Weapons, Override, Pragmata DLC
+Wed, 16 Sep 2026 12:06:09 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/mega-man-dual-override-game-video-previews-dual-protagonists-custom-chips-special-weapons-override-/.241863
+
+DLC adding Mega Man/Roll suits for <cite>Pragmata</cite> game launches on Thursday
+
+### Young Ladies Don't Play Fighting Games Volumes 1-9 Manga Review
+Wed, 16 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games-volumes-1-9-manga/.241283
+
+The thrill of combat, the agony of defeat, that’s all that matters for the dedicated gamers of Kuromi Girls’ Academy’s illicit Fighting Game Club…even if it means they give up everything else.
+
+### Dragon's Dogma 2 Game's Trailer Previews 'Dark Arisen' Expansion
+Wed, 16 Sep 2026 11:22:38 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/dragon-dogma-2-game-trailer-previews-dark-arisen-expansion/.241859
+
+<cite>Dragon's Dogma 2: Dark Arisen</cite> launches on October 9 for Switch 2, PS5, Xbox X|S, PC
+
+### Monster Hunter Wilds: Ascendance Game Expansion's Trailer Reveals Teostra, Previews Boost Drivers
+Wed, 16 Sep 2026 11:14:05 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/monster-hunter-wilds-ascendance-game-expansion-trailer-reveals-teostra-previews-boost-drivers/.241860
+
+Video also confirms crossplay for upcoming Switch 2 release, previews new features
 
 ### Manga Up! Global Adds I Need to Quit this Antique Store, Tsukimi Is All Dolled Up Manga
 Wed, 16 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/manga-up-global-adds-i-need-to-quit-this-antique-store-tsukimi-is-all-dolled-up-manga/.241841
@@ -16,51 +61,6 @@ This episode is a distillation of everything wrong with <i>Red River</i>’s att
 Wed, 16 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-11/.241836
 
 It's episodes like this that really make me worry about how little the show ultimately has to say.
-
-### Blade & Bastard Voice Actors Share Their Characters' Connection
-Wed, 16 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/blade-and-bastard-voice-actors-share-their-characters-connection/.239601
-
-Many fantasy stories feature plucky heroes on quests to become stronger, but <cite>Blade & Bastard</cite> focuses on the arduous process of surviving dungeon exploration.
-
-### Read It First: Manga, Light Novel Sources for Fall 2026 Anime
-Wed, 16 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/seasonal/2026/fall/.240489
-
-Get ready for the fall anime season by checking out the original manga, light novels, and webtoons!
-
-### One Piece (2026-) ‒ Episode 1178
-Wed, 16 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/one-piece/episode-1178/.241832
-
-Nico Robin is as fearless and perfect as ever, diving into action and outsmarting one of the deadliest warriors in the world without hesitation.
-
-### Uta Macross Rhythm Game Meets Crowdfunding Goal for Offline Version
-Wed, 16 Sep 2026 07:52:43 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/uta-macross-rhythm-game-meets-crowdfunding-goal-for-offline-version/.241827
-
-Campaign also meets all initial stretch goals for console release, more songs
-
-### Iron Wok Jan! ‒ Episode 11
-Wed, 16 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-11/.241826
-
-Akiyama himself resembles an evil wizard over a sacrificial bowl on the culinary altar, his fanged visage reflected in the vitae of the slain.
-
-### Sword Art Online Author Reki Kawahara's Devils' Crest Anime Casts 4 Classmates
-Wed, 16 Sep 2026 07:06:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/sword-art-online-author-reki-kawahara-devils-crest-anime-casts-4-classmates/.241850
-
-Yūsuke Kobayashi, Maaya Uchida, Rie Murakawa, Sora Amamiya join cast in November 6 anime
-
-### Shangri-La Frontier Season 3 Announces January 10 Debut, Half-Year Run
-Wed, 16 Sep 2026 06:10:12 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/shangri-la-frontier-season-3-announces-january-10-debut-half-year-run/.241849
-
-3rd season to run for 6 months without break
-
-### France's Ankama Presents Fantasy TV Anime Aoki Denshō Welsh & Shedar
-Wed, 16 Sep 2026 05:45:38 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/france-ankama-presents-fantasy-tv-anime-aoki-densho-welsh-and-shedar/.241847
-
-Rikuya Yasuda, Yūki Kaji star in Studio Massket series debuting in Japan on October 2
-
-### Entergram Announces Vtuber Azusa Honami's Azure Memoria Game
-Wed, 16 Sep 2026 04:45:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/entergram-announces-vtuber-azusa-honami-azure-memoria-game/.241842
-
-Azusa supervises console game
 
 ## Crunchyroll News
 

@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-16T15:09:29.390Z
+# Film & TV — harvested 2026-09-16T19:41:39.336Z
 
 ## Variety
 
-### Anant Nag to Receive Dadasaheb Phalke Award, India s Highest Film Honor
-Wed, 16 Sep 2026 15:08:57 +0000 — https://variety.com/2026/film/news/anant-nag-dadasaheb-phalke-award-1236864142/
+### James McAvoy, Rebel Wilson and More Join Variety s Future in Focus at TIFF to Talk Directorial Debuts, Fall Films and New Technology
+Wed, 16 Sep 2026 19:30:00 +0000 — https://variety.com/2026/film/news/james-mcavoy-rebel-wilson-tiff-1236861364/
 
-Veteran actor Anant Nag will receive the Dadasaheb Phalke Award, India s highest honor in cinema. Nag will receive the award at a ceremony in Kevadia, Gujarat, on Sept. 22, the Government of India announced. The award will be presented as part of the 72nd National Film Awards. The award – instituted in 1969 in memory [ ]
+Actors James McAvoy and Rebel Wilson opened up about expanding their artistry behind the camera while filmmakers Rachel Morrison and Liz Garbus got candid about the barriers that still need breaking in the film business during Variety s Future in Focus panel, presented by Utopai Studios, at this year s Toronto Film Festival. Variety s executive editor of [ ]
 
-### Walk of Fame Honoree Nia Long on Hollywood, Michael and Teasing New Friday Movie: Ice Cube Is About to Send Us All a New Script
-Wed, 16 Sep 2026 15:05:00 +0000 — https://variety.com/2026/film/actors/nia-long-hollywood-michael-friday-sequel-script-1236863633/
+### Yellowstone Alum Jefferson White Joins Marshals Season 2
+Wed, 16 Sep 2026 19:12:29 +0000 — https://variety.com/2026/tv/news/yellowstone-jefferson-white-jimmy-marshals-season-2-1236864234/
 
-Long before Nia Long could picture her name pressed into the concrete of Hollywood Boulevard, she was a little girl on a city bus rolling down that same street — and her mother was at the wheel. “We used to walk down the block and look at all the stars,” Long recalls. She remembers stopping [ ]
+Jefferson White is saddling back up as Jimmy Hurdstrom, with the actor set to reprise his Yellowstone role in Marshals Season 2 at CBS. White will recur in the second season of the CBS drama, which stars fellow Yellowstone alum Luke Grimes as Kayce Dutton. “I’m thrilled to dive into the world of Marshals and [ ]
 
-### Ex- Bachelor Host Chris Harrison s Next Dating Show The Vow Sets November Premiere on Fox Nation
-Wed, 16 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/chris-harrison-new-dating-show-the-vow-release-date-fox-1236863338/
+### Guy Pearce Reunites With Andrew Baird for Irish Thriller ‘Bottle’ (EXCLUSIVE)
+Wed, 16 Sep 2026 19:02:15 +0000 — https://variety.com/2026/film/news/guy-pearce-andrew-baird-thriller-bottle-1236861859/
 
-Roses fade. True love lasts forever, says Chris Harrison in a cheeky teaser for The Vow, his return to reality television five years after his controversial exit from the “Bachelor” franchise. The new dating show premieres on Fox Nation on Nov. 11, with six episodes rolling out weekly until a series finale on Dec. 9. [ ]
+Guy Pearce and filmmaker Andrew Baird will reunite for their fourth film, an upcoming Irish thriller titled “Bottle.” The actor will play Jimmy, a historically violent pub owner who traps a troubled young man named Cillian after he breaks into his bar in search of a pint. As Cillian fights to survive the night, he [ ]
 
-### Run Hide Fight: Infidels Review: Jonathan Majors Scrapes the Barrel in This Islamophobic Drivel
-Wed, 16 Sep 2026 14:59:36 +0000 — https://variety.com/2026/film/reviews/run-hide-fight-infidels-review-1236864093/
+### Heated Rivalry Season 2 Adds Six to Cast, Including Letterkenny Alum Michelle Mylett, Lauren Chan
+Wed, 16 Sep 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/heated-rivalry-season-2-cast-michelle-mylett-lauren-chan-1236864441/
 
-More an epic act of trolling than a sincere creative endeavor, “Run Hide Fight: Infidels” aspires to “own the libs” and antagonize Muslims, but the filmmaking is so shoddy that neither group will likely seek it out, even to assess whether they should be offended. Written and directed by onetime Hollywood hopeful Kyle Rankin (“The [ ]
+Heated Rivalry Season 2 is continuing to build out its cast with the addition of six new actors. The highly-anticipated second season of the Crave-HBO Max series has added: Brendan Morgan (“F*** Marry Kill,” “The Handmaid’s Tale”) as Zane Boodram, David Tomlinson (“Fellow Travelers,” “Silent Night”) as Cody Kent (Dallas Kent in the books), Gerry [ ]
 
-### YouTube Unveils Foundry’s Fall Class of 2026: Underscores, Zeina and 14 More
-Wed, 16 Sep 2026 14:56:03 +0000 — https://variety.com/2026/music/news/underscores-youtube-foundry-fall-class-2026-1236864085/
+### How to Watch Dancing With the Stars Online Without Cable
+Wed, 16 Sep 2026 18:52:50 +0000 — https://variety.com/2026/shopping/news/how-to-watch-dancing-with-the-stars-live-online-streaming-1236864476/
 
-Since 2015, YouTube Music s Foundry program has had one clear mission: to support the diverse and innovative voices of the global independent music community. We’re proud to have worked with more than 250 artists, helping them build sustainable careers on their own terms. Artists selected for Foundry receive a grant, dedicated partner support from YouTube, [ ]
+The ballroom is officially back open. “Dancing With the Stars” returned this week for its 35th season, kicking off with a two-night premiere on Tuesday, Sept. 15 and Wednesday, Sept. 16 at 8 p.m. ET on ABC and Disney+. After the premiere, new episodes will continue airing live Tuesdays at 8 p.m. ET. Episodes are [ ]
 
-### Spider-Man: Brand New Day Overtakes Star Wars: Force Awakens as Highest-Grossing Movie of All Time at Domestic Box Office
-Wed, 16 Sep 2026 14:49:41 +0000 — https://variety.com/2026/film/box-office/spider-man-beats-star-wars-biggest-movie-domestic-box-office-1236836593/
+### How American High Scored Big With ‘Minimum Wage’ Netflix Series While Building a Pipeline for the Next Generation of Comedians (EXCLUSIVE)
+Wed, 16 Sep 2026 18:30:00 +0000 — https://variety.com/2026/tv/features/american-high-minimum-wage-netflix-premiere-date-1236840196/
 
-All hail Peter Parker. Spider-Man: Brand New Day has notched a heroic box office milestone, overtaking 2015 s Star Wars: The Force Awakens as the highest-grossing domestic release of all time. The Force Awakens had spent more than a decade as the biggest movie ever at the North American box office with $936 million. It has [ ]
+It all started with Jeremy Garelick s simple but ambitious plan for American High: Buy a high school in upstate New York and turn it into the hottest filming spot in town for coming-of-age comedies. Since the full-scale production outfit was founded in 2017 and American High Shorts launched online in 2022, Garelick s motto for discovering [ ]
 
-### James Cameron’s Lightstorm Scoops Up AI-Powered 3D Tech Company Outsyders
-Wed, 16 Sep 2026 14:39:23 +0000 — https://variety.com/2026/biz/news/james-camerons-lightstorm-ai-powered-3d-company-outsyders-1236864094/
+### VidCon Is Leaving Anaheim After Creator Convention Combines With LIONS, Parent of Cannes Lions
+Wed, 16 Sep 2026 18:23:31 +0000 — https://variety.com/2026/digital/news/vidcon-leaving-anaheim-lions-cannes-lions-1236864254/
 
-James Cameron has long loved 3D. Now he’s added an AI-powered 3D tech company to his collection. Cameron’s Lightstorm Vision has purchased Outsyders, a technology company focused on boosting the 3D production and post-production pipeline with the help of AI and machine learning to create “premium stereoscopic content.” Founded in 2024 by Paul Becker, Jared [ ]
+VidCon s flagship event for digital creators and their fans is leaving its Anaheim home after 16 years in Southern California. LIONS, the company that produces the Cannes Lions advertising and marketing festival in France, announced that it is merging VidCon with its creator-focused events in North America to create VidCon x LIONS Creators. Both LIONS [ ]
 
-### The Wire and It Actor James Ransone Was Excluded From Emmys and Oscars In Memoriam Tributes; His Wife Says It s Simply Not Right
-Wed, 16 Sep 2026 14:25:17 +0000 — https://variety.com/2026/tv/news/james-ransone-excluded-emmys-oscars-in-memoriam-wife-1236864048/
+### Naomi Watts, Demi Moore, Rachel Zegler and More Were Buzzing at Thom Browne’s Bug-Filled NYFW Show
+Wed, 16 Sep 2026 18:22:24 +0000 — https://variety.com/2026/shopping/fashion/thom-browne-nyfw-naomi-watt-sdemi-moore-rachel-zegler-1236864331/
 
-James Ransone s widow Jamie McPhee is calling out the Television Academy for excluding the late actor during the Emmys In Memoriam tribute, which marked the second time this year Ransone was snubbed by a major awards ceremony. The Oscars also excluded the actor from its own In Memoriam segment in March. Ransone broke out on [ ]
+The Shed was abuzz Wednesday night for Thom Browne s Spring/Summer 2027 fashion show, which transformed the Hudson Yards arts venue into a lush garden for the finale of New York Fashion Week. Luckily for Browne, his A-list front row — Rachel Zegler, Demi Moore, Adam Scott, Britt Lower, Penn Badgley, Anna Wintour, Naomi Watts and [ ]
 
-### Judge Judy Retiring From Onscreen Work After 30 Years on TV but Stresses: I m Still Going to Be Creative
-Wed, 16 Sep 2026 14:16:03 +0000 — https://variety.com/2026/tv/news/judge-judy-retiring-onscreen-1236864074/
+### Oscars: France Selects Cannes Prizewinner Minotaur for International Feature Race
+Wed, 16 Sep 2026 18:09:11 +0000 — https://variety.com/2026/film/global/oscars-france-cannes-prizewinner-minotaur-international-race-1236864305/
 
-Judy Sheindlin, the beloved media personality and legal maven better known as Judge Judy, is retiring from onscreen work. Sheindlin has presided over court cases on TV for 30 years now, first on Judge Judy and currently on Judy Justice, which will release its series finale on Oct. 22. With her time on the bench [ ]
+France has selected Andrey Zvyagintsev’s Cannes Grand Prize winner “Minotaur” to represent the country in the international feature film race at the Oscars. The choice was made Wednesday by France’s Oscar committee following auditions with the producers, international sales agents and U.S. distributors behind the five-shortlisted films, including Mubi, Neon and Sony Pictures Classics. “Minotaur” [ ]
 
-### Ozzy Osbourne and Black Sabbath’s Final Concert Film Sets October Release Date
-Wed, 16 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/global/ozzy-osbourne-black-sabbath-concert-film-october-release-date-1236863996/
+### Go Vacation on Location with Hollywood Location Managers in New Expedia Video Series (EXCLUSIVE)
+Wed, 16 Sep 2026 18:09:03 +0000 — https://variety.com/2026/digital/locations/go-vacation-on-location-video-series-1236864344/
 
-The long-awaited film of Ozzy Osbourne and Black Sabbath s final concert has finally set a release date for later this year. The movie, now titled “Ozzy Black Sabbath: Back to the Beginning,” will bow in theaters worldwide on Oct. 28. It is directed by Ben Wainwright-Pearce, who also edited “Taylor Swift: The Eras Tour” [ ]
+The Los Angeles Tourism Convention Board is launching a new movie-tourism video series, Go Vacation on Location” in partnership with Expedia to spotlight the city s most visitor-friendly filming locations. Hosted by real Hollywood location managers, the videos will show tourists and film fans around Los Angeles. “Location scouts and managers are among the most [ ]
 
 ## The Hollywood Reporter
 
-### Chris Harrison Shades The Bachelor in Teaser for His New Reality Dating Series on Fox Nation
-Wed, 16 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/chris-harrison-new-reality-dating-series-trailer-bachelor-1236702493/
+### Marshals Season 2 Recruits Another Yellowstone Star
+Wed, 16 Sep 2026 19:18:14 +0000 — https://www.hollywoodreporter.com/tv/tv-news/yellowstone-jefferson-white-jimmy-marshals-season-2-1236703695/
 
-'The Vow' will premiere on Nov. 11, and will feature an appearance from Bachelor Nation's Sean and Catherine Lowe.
+Jefferson White's Jimmy will reunite with Kayce Dutton (played by star Luke Grimes) in the CBS spinoff.
 
-### Halle Berry, Regina King, Celine Song, Meg Ryan Set to Take Part in Tribeca and Chanel s Through Her Lens Women s Filmmaker Program
-Wed, 16 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/halle-berry-meg-ryan-tribeca-chanel-through-her-lens-2026-1236702878/
+### Watermelon Pictures Acquires Thirteen in Gaza Out of TIFF (Exclusive)
+Wed, 16 Sep 2026 19:04:49 +0000 — https://www.hollywoodreporter.com/movies/movie-news/watermelon-pictures-acquires-thirteen-in-gaza-1236703731/
 
-The artist development initiative, set to run from Sept. 22-24 this year in New York, has announced the jurors, mentors and conversation leaders for its 11th edition.
+Hosam Abu Dan’s debut feature, shot entirely in the Gaza strip, premiered in TIFF's Centerpiece section.
 
-### Spider-Man: Brand New Day Hits No. 1 on All-Time Domestic Chart, Topping Force Awakens
-Wed, 16 Sep 2026 14:51:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-domestic-box-office-force-awakens-1236703398/
+### Heated Rivalry Adds Brendan Morgan, David Tomlinson and More to Season 2
+Wed, 16 Sep 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-season-2-zane-boodram-kent-casting-1236683912/
 
-Tom Holland stars in Sony's mammoth blockbuster that also ranks No. 3 all-time at the global box office.
+The second season of Crave-HBO Max's hit series has announced six additions to the cast including for the roles of Zane Boodram and a newly renamed Cody Kent.
 
-### Our Loves Review: An Overwhelming Subject Gets Underwhelming Treatment in Israeli Drama About People Trying to Survive the October 7th Attack
-Wed, 16 Sep 2026 14:34:50 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/our-loves-review-israeli-film-october-7-1236702156/
+### Lena Dunham Welcomes First Child
+Wed, 16 Sep 2026 18:43:26 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/lena-dunham-welcomes-baby-girl-first-child-luis-felber-1236703729/
 
-Writer-director Avi Nesher assembles a large ensemble of locally well-known actors to tell this story of fear and trauma, premiering at the Toronto Film Festival.
+The 'Girls' creator opened up about becoming a mom, with Dunham and husband Luis Felber having the baby via a surrogate, in an op-ed for Vogue.
 
-### Lewis Hamilton s Dawn Apollo Studios Inks First-Look Deal With Skydance Sports (Exclusive)
-Wed, 16 Sep 2026 14:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/lewis-hamilton-dawn-apollo-first-look-deal-skydance-sports-1236702336/
+### Hannah Berner and Paige DeSorbo’s Giggly Squad Moves to SiriusXM in Multiyear Deal (Exclusive)
+Wed, 16 Sep 2026 18:30:04 +0000 — https://www.hollywoodreporter.com/business/digital/hannah-berner-and-paige-desorbos-giggly-squad-moves-to-siriusxm-in-multiyear-deal-exclusive-1236703669/
 
-The Formula 1 driver previously produced the Apple film 'F1.'
+The deal will also include a slate of new exclusive programming from 'Giggly Squad,' which is yet to be announced, but expected to roll out in 2027.
 
-### Unauthorized Book on Bob Iger s Disney Power Struggle Gets Release Date (Exclusive)
-Wed, 16 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/bob-iger-disney-power-struggle-book-1236702290/
+### Nancy Meyers Daughter Creates a Home as Chic as Her Mom s Movies: Inside Her Beverly Hill Renovation
+Wed, 16 Sep 2026 18:15:40 +0000 — https://www.hollywoodreporter.com/lifestyle/real-estate/nancy-meyers-daughter-hollywood-home-1236703556/
 
-Robbie Whelan's 'The House of Mouse' will come out in December, promising the inside scoop on the "Machiavellian power struggle" within the company.
+Annie Meyers-Shyer's new book 'This Oak House' is based on her viral home-decor Instagram and reveals strategies and sources for achieving an ultimate Hollywood home.
 
-### Operation Varsity Crew: Olivia Jade Sports a College Sweatshirt in Reformation s Subtlety-Free Fall Campaign
-Wed, 16 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/olivia-jade-reformation-college-crewneck-fall-2026-campaign-1236703008/
+### The Swagger and Stamp of the First Lady of Star Trek
+Wed, 16 Sep 2026 18:04:58 +0000 — https://www.hollywoodreporter.com/tv/tv-features/majel-barrett-roddenberry-spock-star-trek-1236700471/
 
-Officially titled Good Sport starring Olivia Jade, the campus-coded fall campaign is equal parts unexpected and right on the mark.
+In homage to 'Star Trek's' recent 60th anniversary, a look at how Majel Barrett Roddenberry nearly played a version of Spock, was almost the voice of Alexa and ended up in deep space forever.
 
-### Cute : Danish Drama Tackling Sexual Taboos Launches Trailer Ahead of San Sebastian Premiere (Exclusive)
-Wed, 16 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/cute-danish-drama-film-san-sebastian-festival-lyngstad-1236703340/
+### Zach Cregger on Revamping Resident Evil and Why He Doubts He ll Ever Return to Comedy
+Wed, 16 Sep 2026 18:01:55 +0000 — https://www.hollywoodreporter.com/movies/movie-news/zach-cregger-revamping-resident-evil-return-to-comedy-1236703557/
 
-From Norwegian filmmaker Marlene Emilie Lyngstad, 'Cute' is set to screen in the New Directors section at the Spanish film festival.
+Hollywood's current horror king follows up 'Weapons' with a rebooted adaptation of the hit video game series.
 
-### Two Strangers (Carry a Cake Across New York) Sets Broadway Closing Date
-Wed, 16 Sep 2026 13:35:25 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/two-strangers-carry-cake-across-new-york-broadway-closing-1236703381/
+### Family Drama How to Survive Without Me Scores HBO Max Series Order
+Wed, 16 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hbo-max-family-drama-how-to-survive-without-me-series-order-1236703511/
 
-The show, which was among the 2026 best musical nominees, will play its final performance after one year on Broadway.
+Ray Romano, Kaley Cuoco, Joshua Jackson and Rita Wilson lead the cast of the series from Greg Berlanti and Bash Doran.
 
-### Latin Grammy Nominations 2026: Karol G, Rosalia, Jorge Drexler, Ca7riel Paco Amoroso Lead with 7
-Wed, 16 Sep 2026 13:31:00 +0000 — https://www.hollywoodreporter.com/music/music-news/2026-latin-grammy-nominations-list-1236702995/
+### No Banishment in Sight: The Traitors Renewed for Three More Seasons at Peacock
+Wed, 16 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-traitors-three-season-renewal-peacock-1236703605/
 
-Perennial hitmaker Edgar Barrera was the top nominee overall when including producers and songwriters, earning 10 nominations.
+The award-winning Scotland-set reality show will continue to be hosted by Alan Cumming.
 
 ## Deadline
 
-### James Cameron’s Lightstorm Vision Acquires Creative-Tech Collective Outsyders
-Wed, 16 Sep 2026 15:09:17 +0000 — https://deadline.com/2026/09/james-cameron-lightstorm-vision-outsyders-3d-content-1237105102/
+### Paramount Sets California Exit Plans Over Antitrust Battle With Blue States Stymied $111B WBD Merger
+Wed, 16 Sep 2026 19:14:23 +0000 — https://deadline.com/2026/09/paramount-leaving-california-merger-lawsuit-1237105417/
 
-James Cameron’s Lightstorm Vision has acquired AI-driven tech startup and 3D specialist Outsyders for an undisclosed price as the company positions itself as a one-stop shop for 3D content creation. The two companies recently worked together on Paramount summer release Billie Eilish – Hit Me Hard and Soft: The Tour (Live in 3D), directed by [ ]
+Leaks the past few months out of David Ellison s inner circle said the CEO would take his Paramount ball and leave California if state Attorneys General didn t back off on their antitrust suit to stop the $111 billion merger with Warner Bros Discovery. And now it looks like the ball really is in play. Paramount [ ]
 
-### Patti LuPone To Portray Vogue Editor Diana Vreeland In Solo Off Broadway Play Full Gallop
-Wed, 16 Sep 2026 15:05:04 +0000 — https://deadline.com/2026/09/patti-lupone-diana-vreeland-full-gallop-1237105167/
+### Yellowstone s Jefferson White To Reprise Role In Marshals Season 2
+Wed, 16 Sep 2026 19:11:30 +0000 — https://deadline.com/2026/09/marshals-jefferson-white-season-2-jimmy-hurdstrom-yellowstone-1237105310/
 
-Triple-Tony winner Patti LuPone is returning to the New York stage to portray iconic fashion editor Diana Vreeland in the one-woman Off Broadway play Full Gallop. The production, directed by Gordon Greenberg (Rope, Broadway s The Heart of Rock and Roll), will begin a strictly limited 12-week engagement at NY City Center Stage II on Friday, [ ]
+A familiar face in the Yellowstone universe will be returning for Season 2 of Taylor Sheridan s Marshals in a recurring role. Jefferson White, who portrayed fan-favorite Jimmy Hurdstrom in Yellowstone, will reprise the role in the upcoming second season of the spinoff series. White s Jimmy Hurdstrom is a good-hearted yet rough-around-the-edges ranch hand who evolved [ ]
 
-### Chris Harrison’s Dating Series ‘The Vow’ Sets Premiere On Fox Nation
-Wed, 16 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/chris-harrison-dating-series-the-vow-premiere-fox-nation-1237104438/
+### Drawn Together Goes Straight To No. 1 On Prime Video Film Charts
+Wed, 16 Sep 2026 19:05:34 +0000 — https://deadline.com/2026/09/drawn-together-hits-number-one-on-prime-video-film-chart-1237104439/
 
-Fox Nation is leaning into Bachelor Nation with its new dating reality series hosted by Chris Harrison. Chris Harrison’s The Vow, which Deadline revealed in February, is set to premiere on the streamer on November 11. The six-part series will roll out weekly with the season finale on December 9. The show will see 30-year-old [ ]
+Mercedes Ron’s hot streak on Prime Video is continuing. Drawn Together (Enfrentados: Marfil) has gone straight in at No. 1 on the streamer’s viewing top 10. The Prime Video original tops both the overall and non-English-language rankings. Ron is no stranger to success on Prime Video; the adaptations of her Culpables books are the streamer s [ ]
 
-### Kapow! Spider-Man: Brand New Day Beats Star Wars: Force Awakens As Highest Grossing Movie Ever At Domestic Box Office With $936.7M
-Wed, 16 Sep 2026 14:54:14 +0000 — https://deadline.com/2026/09/box-office-spider-man-brand-new-day-all-time-record-1237105183/
+### Mary Beth Barone Rom-Com Series Hard Feelings Lands At Hulu From A24; Benito Skinner To Co-Star
+Wed, 16 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/mary-beth-barone-hard-feelings-hulu-series-benito-skinner-1237104487/
 
-It finally happened: Sony s highest grossing movie ever, Spider-Man: Brand New Day, is now the highest grossing movie ever at the domestic box office, defeating Star Wars: The Force Awakens which held the record for the last ten years with a final cume of $936.66M. As of yesterday, Spider-Man: Brand New Day counts a running [ ]
+EXCLUSIVE: In a competitive situation, Hulu has nabbed Hard Feelings, a rom-com series created by and starring actress/comedian/writer Mary Beth Barone. She has recruited frequent collaborator and Overcompensating co-star Benito Skinner for a supporting role in the project, from A24, which has been put on fast-track development, I hear. Written by Barone in her first [ ]
 
-### Hemingway s The Sun Also Rises Gets Centennial Events In Paris New York With Michael Shannon Richard Schiff Among Participants
-Wed, 16 Sep 2026 14:45:00 +0000 — https://deadline.com/2026/09/hemingway-the-sun-also-rises-centennial-paris-new-york-1237105044/
+### The Studio s Chase Sui Wonders Joins Jennifer Aniston In Naughty From Olivia Wilde And Universal
+Wed, 16 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/the-studio-chase-sui-wonders-jennifer-aniston-naughty-1237104861/
 
-EXCLUSIVE: A series of events have been set in Paris and New York to celebrate the centenary of the publication of Ernest Hemingway classic The Sun Also Rises. The celebration begins September 21 and 22 at Ritz Paris, with guests including filmmaker Michael Winterbottom, who is set to direct the upcoming A Farewell To Arms [ ]
+EXCLUSIVE: The Studio scene stealer Chase Sui Wonders is looking to get in the holiday spirit for her next high-profile comedy as she is set to join Jennifer Aniston and Peter Dinklage in the Universal pic Naughty from director Olivia Wilde. Jimmy Warden penned the script that Wilde will direct. The project originates from a [ ]
 
-### Bonnie Greer Dies: British-American Writer Cultural Commentator Was 77
-Wed, 16 Sep 2026 14:38:05 +0000 — https://deadline.com/2026/09/bonnie-greer-dead-obituary-1237105164/
+### ‘Heated Rivalry’ Season 2 Adds Six To Cast Including Brendan Morgan, David Tomlinson, Lauren Chan More
+Wed, 16 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/heated-rivalry-season-2-adds-cast-dallas-kent-name-change-1237105496/
 
-The British-American writer and cultural commentator Bonnie Greer has died. She was 77. Greer’s husband, David Hutchins, announced her death in a statement published this afternoon. Hutchins wrote that Greer died on Tuesday evening following a brief illness. Hutchins described Greer as an acclaimed playwright, author, critic, cultural and political commentator whose intelligence, courage and [ ]
+Heated Rivalry Season 2 has added six more cast members. Brendan Morgan (F*** Marry Kill, The Handmaid’s Tale) will play Zane Boodram. David Tomlinson (Fellow Travelers, Silent Night) will play Cody Kent, changed from the character of Dallas Kent in Rachel Reid’s Game Changer book series. Gerry Dee (Mr. D, Animal Control) will play Coach [ ]
 
-### Sam Worthington, Liam Hemsworth Cara Delevingne Set For Paul Schrader s Erotic Thriller Non Compos Mentis With Filming Lined Up For Next Month
-Wed, 16 Sep 2026 14:30:00 +0000 — https://deadline.com/2026/09/sam-worthington-cara-delevingne-join-paul-schrader-film-1237105055/
+### Wesley Wang Launches Digital Media Studio Wesley Wang Media, Sets Caellum Allan As Head Of Film Television Unveils Initial Slate
+Wed, 16 Sep 2026 18:44:44 +0000 — https://deadline.com/2026/09/wesley-wang-media-announced-caellum-allan-head-film-television-1237105429/
 
-EXCLUSIVE: Sam Worthington (Avatar), Liam Hemsworth (The Hunger Games), and Cara Delevingne (Club Kid) are set to play the lead love triangle in Paul Schrader s upcoming erotic thriller Non Compos Mentis. Production is due to get underway next month in New York on the movie, which Oscar nominee Schrader has written and will direct. Additional [ ]
+EXCLUSIVE: In the spring of 2024, we reported on a buzzy young filmmaker named Wesley Wang — a Harvard student who got a feature take on his short nothing, except everything. set up at TriStar in a competitive situation, with Darren Aronofsky producing. The project isn t moving forward at Sony, but we can now tell [ ]
 
-### Los Angeles News Chopper Crash Victims Include TV Journalist And Pilot; Video Indicates Possible Rotor Problem
-Wed, 16 Sep 2026 14:28:29 +0000 — https://deadline.com/2026/09/los-angeles-news-helicopter-crash-victims-1237105103/
+### ‘Bad Lieutenant: Tokyo’ Review: Takashi Miike Brings Trouble To Tokyo In A Funny Riff On Abel Ferrara’s Corrupt Cop Drama – Toronto Film Festival
+Wed, 16 Sep 2026 18:30:57 +0000 — https://deadline.com/2026/09/bad-lieutenant-tokyo-review-takashi-miike-shun-oguri-lily-james-1237105415/
 
-A local Los Angeles TV news journalist and the pilot of an NBC L.A. news chopper are among the three people confirmed dead in last night s Los Angeles-area helicopter crash. Journalist Eliana Moreno and pilot George Marciniw were providing news coverage of a deadly bus crash in Chatsworth, CA, when their helicopter went down. The [ ]
+Takashi Miike took to the stage at the world premiere of his new film Bad Lieutenant: Tokyo like a rock star. “I’m Miike” he roared. “I’m back!” Which is immediately funny, because he’s never, ever really been away; arguably the hardest-working man in show business, Miike is never very far from a movie camera. Produced [ ]
 
-### ‘Conversation With The Sea’ Trailer: Muayad Alayan Explores Everyday Pressures For Palestinians In Jerusalem TIFF
-Wed, 16 Sep 2026 14:21:47 +0000 — https://deadline.com/2026/09/conversation-sea-trailer-alayan-palestinian-jerusalem-1237105116/
+### Oscars: France Selects Minotaur For Best International Feature Film Race
+Wed, 16 Sep 2026 18:10:04 +0000 — https://deadline.com/2026/09/oscars-france-entry-1237105260/
 
-EXCLUSIVE: Palestinian director Muayad Alayan’s Jerusalem-set drama Conversation with the Sea makes its North American premiere in Toronto on Wednesday, following its Venice debut, and Deadline can unveil the trailer. Kamel El Basha, who won Venice’s Volpi Cup for Best Actor for his performance in The Insult in 2017, plays a 60-year-old Palestinian man, who [ ]
+France has selected exiled Russia director Andrey Zvyagintsev s French-produced political thriller Minotaur as its entry for the Best International Feature Film category of the 99th Academy Awards. The submission was chosen from a shortlist also featuring Antonin Baudry’s historical biopic De Gaulle: Tilting Iron, Louis Clichy’s animated feature Iron Boy, Marine Atlan’s La Gradiva and [ ]
 
-### Zach Roerig, Kayla Bohan, Scottie Thompson John Littlefield Starring In Undertow
-Wed, 16 Sep 2026 14:18:12 +0000 — https://deadline.com/2026/09/zach-roerig-kayla-bohan-scottie-thompson-undertow-cast-1237105051/
+### AMC NASCAR Drama Series Thunder Road Rounds Out Cast
+Wed, 16 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/thunder-road-amc-nascar-drama-series-rounds-out-cast-1237104484/
 
-EXCLUSIVE: Zach Roerig (The Vampire Diaries), Kayla Bohan (Harper), Scottie Thompson (NCIS) and John Littlefield (Dexter) are starring in crime-thriller Undertow. Kate Bohan (From Embers) is writer-director on the indie feature, which wrapped filming in August, and heralds from Lyon Park Productions. The synopsis reads: When a teenage girl, Dakota, (Kayla Bohan) is kidnapped by [ ]
+EXCLUSIVE: Josh Macqueen (Motorheads), Aspen Kennedy (Queen Sugar), Haley Dillon (Blue Ridge) and Mackenzie Porter (9-1-1: Nashville) round out the cast of AMC s NASCAR drama series Thunder Road. The series will debut on AMC and AMC+ in 2027. From John Fusco, Thunder Road is the multi-generational saga of the fictional Whitlock family, whose legacy in [ ]
 
-### Untitled Ear Hustle Film And ‘Indígena’ Earn $50,000 Grants Each From Ellis-Beauregard Foundation Heading Into Camden International Film Festival
-Wed, 16 Sep 2026 14:12:28 +0000 — https://deadline.com/2026/09/inaugural-ellis-beauregard-foundation-documentary-film-award-recipients-1237105035/
+### ‘The Traitors’ Renewed For Three More Seasons At Peacock After Winning Third Consecutive Emmy
+Wed, 16 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/the-traitors-renewed-three-more-seasons-peacock-1237105308/
 
-EXCLUSIVE: The Ellis-Beauregard Foundation has announced the recipients of its generous inaugural Documentary Film Award: Untitled “Ear Hustle” Film and Indígena. Each film earns an unrestricted $50,000 grant “in recognition of its artistic excellence,” and filmmakers will attend a creative retreat hosted by Points North Institute during the Camden International Film Festival, which begins Thursday [ ]
+Alan Cumming is set to banish more celebrities after Peacock handed The Traitors a supersized three-season renewal. The mystery entertainment series has been picked up through Season 8 at the NBCUniversal streamer. It comes after the Studio Lambert-produced show won its third consecutive Emmy for Outstanding Reality Competition Program and Cumming won his third consecutive [ ]
 
-### Broadway s Two Strangers (Carry A Cake Across New York) Sets Closing Date
-Wed, 16 Sep 2026 13:55:37 +0000 — https://deadline.com/2026/09/two-strangers-carry-a-cake-across-new-york-broadway-closing-1237105074/
+### Greg Berlanti’s ‘How To Survive Without Me’ Lands Series Order At HBO Max
+Wed, 16 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/greg-berlanti-how-to-survive-without-me-order-hbo-max-1237105370/
 
-Two Strangers (Carry a Cake Across New York), the modest, two-person musical that charmed critics last season and scored eight Tony Award nominations, will play its final performance on Sunday, November 29. At the time of its closing, Two Strangers will have played 21 previews and 428 performances at the Longacre Theatre. The First National [ ]
+How To Survive Without Me, the family drama starring Ray Romano, Kaley Cuoco and Joshua Jackson, is officially a go at HBO Max. The project, which comes from Greg Berlanti, has, as expected, been handed a series order from the Warner Bros. Discovery-owned streamer. It will consist of 15 episodes and comes as part of [ ]
 
 ## befores & afters
 
@@ -174,6 +174,26 @@ Tue, 15 Sep 2026 09:34:40 +0000 — https://beforesandafters.com/2026/09/15/on-t
 Director/Writer/Producer Denis Villeneuve and Zendaya on the set of Dune: Part Three. Photo by Niko Tavernise. © 2026 Warner Bros. Ent. All Rights Reserved The post On The Set Pic: Dune: Part Three appeared first on befores & afters .
 
 ## IndieWire
+
+### NewFest Lineup Showcases La Bola Negra NYC Premiere, Plus Elsinore, Club Kid, and More
+Wed, 16 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/news/festivals/newfest-2026-lineup-la-bola-negra-nyc-premiere-1235217368/
+
+Exclusive: New York City's premier LGBTQ+ film festival runs October 15-25 with 144 films representing 23 countries.
+
+### Stuffed Review: There Are No Certainties in Life Besides Death and Taxidermy in This Zany, Bleakly Romantic Body Horror Musical
+Wed, 16 Sep 2026 16:11:07 +0000 — https://www.indiewire.com/criticism/movies/stuffed-movie-review-harry-melling-jodie-comer-musical-1235217409/
+
+Infectious tunes and killer performances from Jodie Comer and Harry Melling have Theo Rhys' film destined for cult classic status.
+
+### Resident Evil Review: Zach Cregger s Relentless Adaptation Is the Future of Video Game Movies, Even When Too Goofy for Its Own Good
+Wed, 16 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/criticism/movies/resident-evil-movie-review-2026-zach-cregger-1235217403/
+
+Austin Abrams dives into the heart of a zombie apocalypse in a lean, mean, 85-minute thrill ride that captures the experience of playing the "Resident Evil" games.
+
+### Sacrifice Trailer: Anya Taylor-Joy, Chris Evans, John Malkovich, and Charli XCX Take Aim at Celebrity Vapidity
+Wed, 16 Sep 2026 15:10:00 +0000 — https://www.indiewire.com/news/trailers/sacrifice-trailer-anya-taylor-joy-chris-evans-romain-gavras-1235217384/
+
+In Romain Gavras' English-language debut, a Ruben Östlund-ish set-up gets a fiery edge.
 
 ### Woodstock Film Festival Unveils 2026 Lineup Featuring The Debut, I Play Rocky, Club Kid, and More
 Wed, 16 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/news/festivals/woodstock-film-festival-2026-lineup-the-debut-musk-club-kid-1235217362/
@@ -195,7 +215,7 @@ Wed, 16 Sep 2026 12:30:00 +0000 — https://www.indiewire.com/news/trailers/wild
 
 Laika's sixth stop-motion feature will be available in 4DX, DBOX, and Dolby Cinema.
 
-### Faith Review: Erin Doherty’s Grieving Mother Approaches Sublimation in a Drama with Otherworldly Overtones
+### Faith Review: Erin Doherty Approaches Sublimation in a Drama with Otherworldly Overtones
 Tue, 15 Sep 2026 23:45:20 +0000 — https://www.indiewire.com/criticism/movies/faith-review-erin-doherty-james-mcavoy-1235217359/
 
 TIFF: Paul Andrew Williams’ focused direction refuses to exploit the script’s genre trappings beyond the realm of its characters’ interiority.
@@ -215,127 +235,107 @@ Tue, 15 Sep 2026 19:15:00 +0000 — https://www.indiewire.com/features/interview
 
 TIFF: As the newly-minted Tony winner introduces "A Talent for Murder" to festival audiences, he goes long with IndieWire on everything from "Beautiful Creatures" to "Oppenheimer," "Solo" to "Hail, Caesar!," and never taking any of it for granted.
 
-### Watch Brit Rock Legends Get Introspective in PULP: What Do You Do for an Encore? — Exclusive Clip
-Tue, 15 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/news/trailers/pulp-what-do-you-do-for-an-encore-exclusive-clip-1235217262/
-
-Catch an exclusive look at “PULP: What Do You Do for an Encore?" before the MUBI concert film heads to U.S. theaters for one night only on September 24.
-
-### The Color of the Sun Review: Teen Angst and Alienation Get a Sensuous Study in Okinawa
-Tue, 15 Sep 2026 18:45:00 +0000 — https://www.indiewire.com/criticism/movies/the-color-of-the-sun-review-jeremy-o-harris-1235216500/
-
-Venice: Xavier Tera's alternatingly unsettling and languorous debut lingers on a Japanese teen's fixation on a more self-assured American military brat. Both understand each other's language, but neither speaks it.
-
-### Inside the 2026 Emmys, Where TV s Brightest Talents Shared the Spotlight with Its Long-Term Challenges
-Tue, 15 Sep 2026 18:35:00 +0000 — https://www.indiewire.com/awards/industry/inside-emmys-parties-2026-best-worst-times-for-tv-1235217271/
-
-The 2026 Emmys provided much to celebrate at the ceremony and after parties, with several records broken. It also highlighted some unfortunate changes that have happened in the TV space.
-
-### A Federal Tax Incentive for Filming Could Bring in Extra $125 Billion in Production Spend — and Impact Without It Could Be Devastating
-Tue, 15 Sep 2026 18:24:06 +0000 — https://www.indiewire.com/news/business/federal-tax-incentive-filming-study-mpa-1235217277/
-
-An MPA-commissioned study estimated 143,500 new jobs added through 2035 if President Trump puts in place filming incentives on a federal level.
-
 ## The Wrap
 
-### Joe Buck Signs $108 Million ESPN Contract Extension
-Wed, 16 Sep 2026 15:08:01 +0000 — https://www.thewrap.com/industry-news/business/joe-buck-espn-contract-extension/
+### Hayden Panettiere s Reps Warn of Conflicting Information Amid Death Investigation
+Wed, 16 Sep 2026 19:31:29 +0000 — https://www.thewrap.com/culture-lifestyle/culture/hayden-panettiere-reps-warn-conflicting-info-death-investigation/
 
-Joe Buck has agreed to a six-year contract extension with ESPN worth roughly $108 million, keeping the veteran broadcaster as the voice of “Monday Night Football” into the next decade, according to The Athletic . The deal will pay Buck approximately $18 million annually, up from the $15 million per year he received under the five-year contract he signed with ESPN in 2022. The extension will keep Buck at the network for its first Super Bowl broadcast in February and its next Super Bowl in 2031. ESPN did not immediately respond to TheWrap request for comment. More to come The post Joe Buck Signs $108 Million ESPN Contract Extension appeared first on TheWrap .
+Hayden Panettiere s reps are speaking out on the conflicting information coming out as the investigation into the actress death continues. Earlier this week, reports came out that the investigation into the Nashville star s death had become cross-country with officials looking into leads in both Los Angeles and South Carolina. TMZ then posted that the investigation could include a long-time drug dealer. These reports prompted the late actress reps to make a statement warning of the unverified nature of some of the reporting. “As reported yesterday by the Greenville County Coroner’s Office, Hayden’s death remains under investigation pending the completion of toxicology results, despite reports from some outlets stating otherwise,” the statement obtained by TheWrap read. Recent reports attributed to unnamed sources are unverified hearsay and have [contributed] to conflicting information that continues to circulate. The statement finished: While we are all eager to find closure and better understand the circumstances surrounding her passing, we must remain patient and allow the investigative process to unfold. The answers we are all seeking will come. This is not the first time Panettiere s reps have issued a statement during the investigation into the death. Last month, they asked anyone with real information about Panettiere’s death to go to law enforcement, while also calling the accompanying public rumor mill “deeply disrespectful” to those who are grieving. “Many people who
 
-### Stephen Colbert Shaves His New Beard Mid-Interview on Jimmy Kimmel Live!
-Wed, 16 Sep 2026 14:29:29 +0000 — https://www.thewrap.com/creative-content/tv-shows/stephen-colbert-shaves-beard-on-jimmy-kimmel-live/
+### New York Times Issues Correction After Suggesting Israelis Were Not Victims of Oct. 7
+Wed, 16 Sep 2026 19:29:54 +0000 — https://www.thewrap.com/media-platforms/journalism/new-york-times-issues-correction-israeli-documentary-oct-7/
 
-If you weren t loving Stephen Colbert s new beard, don t worry, it s gone now. The former late night host actually shaved it mid-interview on Tuesday night. Stopping by Jimmy Kimmel Live! for his late night return this time as a guest Colbert noted that his wife hated his beard, the kiss count has gone way down as a result. But, he promised that if he won an Emmy, he d shave it. Well, on Monday night, he did indeed win an Emmy for Outstanding Variety Series . Can we shave you on the show? Kimmel immediately asked. Because I can get some stuff. Okay! All right! That s fairly scandalous, but all right! Colbert said with a nervous laugh. The two made a few more jokes about the idea, but continued on with the interview, no shaving materials actually appearing. Of course, any fans of Kimmel knew he wasn t going to just let the idea go. Before heading to commercial break, the ABC host teased that maybe a shaving would happen when they returned. They didn t at least not right away. But eventually, Kimmel raised the idea again, and this time, he actually did have all the materials Colbert would need. So, the former CBS host started shaving right there on stage. By the time the next commercial break ended, he was clean-shaven once more. You know what I m gonna do? I m going to save your beard hair, and I m going to start a collection of late night beard hair, Kimmel joked, collecting the shavings from his desk. Maybe I ll ask Dave Letterman to give us some of his. He s got plenty. You
+The New York Times removed a line from a story about the explosive documentary NAZA, which had inadvertently suggested that Israelis were not victims of the Oct. 7 attacks after fierce backlash online. An earlier version of the story published Monday included a statement that was intended to convey Israelis’ perception of the government’s military response to the Oct. 7 terror attack in relation to the attacks. In doing so, the statement received backlash for implying that Israelis’ experience as terror victims was a matter of perception. The editors note reads: Because of an editing error, an earlier version of this article included a statement that was intended to convey Israelis’ perception of the government’s military response to the Oct. 7 terror attack in relation to the attacks, but inadvertently suggested that Israelis’ experience as terror victims was a matter of perception. It has been removed from the article. We have added the following Editors' Note to our recent coverage of the Israeli government's reaction to the NAZA documentary: "Because of an editing error, an earlier version of this article included a statement that was intended to convey Israelis’ perception of the… &mdash; NYTimes Communications (@NYTimesPR) September 16, 2026 The story, which was originally published Monday by Israeli and Palestinian affairs reporter Isabel Kershner, detailed the push back NAZA has received from the Israeli military and other top generals since its premiere at the Venice
 
-### Emmy Awards 2026 Party Report: Big Bashes, Small Soirées and Hollywood s Favorite Faces
-Wed, 16 Sep 2026 14:06:01 +0000 — https://www.thewrap.com/culture-lifestyle/culture/emmys-parties-photos-celebrities-2026/
+### Creatorverse: Podcaster Steven Bartlett Wants to Invest $400 Million in Creator Businesses
+Wed, 16 Sep 2026 19:15:00 +0000 — https://www.thewrap.com/industry-news/tech/creatorverse-steven-bartlett-invest-400-million/
 
-There were so many celebrations of the small screen during the week leading up to the 78th Annual Emmy Awards that tracking them all made us slightly dizzy. But one thing that everyone seemed to know as they wandered from toasts to teas to private dinners and huge blowout parties was that The Pitt and Widow s Bay were the 2026 juggernauts that could not be stopped. And by the time the dust settled and the after parties began, that turned out to largely be true. But we sure had some big fun along the way. Here s our inside look at some of the highlights of the Emmy Awards 2026 season. “Shrinking” stars Michael Urie, Luke Tennie and Jessica Williams, along with “The Pitt” actress Elysia Roorbach (in pink), have classic Hollywood party vibes at the Warner Bros. Television Group s 78th Primetime Emmy Awards Nominees Celebration at BOA Steakhouse in West Hollywood. (Todd Williamson/WBTVG via Getty Images) 78th Emmy Awards Governors Gala: The Garden After Dark Convention Center at LA Live Noah Wyle celebrates “The Pitt” winning big in 2026 with his wife Sarah Wells during the 78th Primetime Emmy Awards Governors Gala at the Los Angeles Convention Center in Los Angeles. (Patrick T. Fallon / AFP via Getty Images) Despite it being a Monday night (and many people having to work the next morning), the 78th Emmy Awards winners all hit the Governors Gala, with this year s theme being The Garden After Dark. Noah Wyle led the charge carrying his two Emmy Awards for The Pitt, as the HBO show
+Hey Creatorverse readers, Steven Bartlett, host of the Diary of a CEO” podcast, is getting an even bigger piece of the creator industry pie. Barlett’s creator holding company Steven.com is partnering with the global brand and entertainment platform Authentic to launch the creator-focused platform, OBSN after Steven.com scored a $425 million valuation following an investment round led by Slow Ventures and Apeiron Investment Group last year. In the coming years, the partnership hopes to deploy up to $400 million in creator businesses. Essentially, the goal of OBSN is to offer creators a one-stop-shop when it comes to offerings like production, live events and commerce sales. As a creator himself, Bartlett noticed that as he became more popular, various management firms and agencies pressured him to fragment his company more. But the more fragmented it became, the less of a chance there was of Steven.com acting as a cohesive brand. “In a world where sovereignty, which is owning the relationship with your audience, is increasingly more important, there s no chance of sovereignty if your data is everywhere and there are different people pulling walled gardens around it because they have their own incentives,” Bartlett said on Monday to a roomful of advertising heads and media. As for Authentic, the company, which is approaching $40 billion in annual retail revenue globally, will help creators and creator companies scale their brands. Authentic already has teams focused on several 
 
-### James Cameron s Lightstorm Acquires AI-Driven 3D Tech Company Outsyders
-Wed, 16 Sep 2026 13:59:36 +0000 — https://www.thewrap.com/creative-content/movies/james-cameron-lightstorm-acquires-outsyders-ai-3d/
+### Yellowstone Star Jefferson White to Reprise Role in Marshals Season 2
+Wed, 16 Sep 2026 19:13:44 +0000 — https://www.thewrap.com/creative-content/tv-shows/marshals-season-2-jefferson-white-jimmy-returns-yellowstone/
 
-James Cameron s Lightstorm Vision has acquired the AI-driven 3D technology company Outsyders to create an end-to-end solution for 3D production, the companies announced on Wednesday. The move positions Lightstorm Vision as a one-stop shop for 3D production, combining Outsyders AI-driven 3D pipeline with Lightstorm s native capture and production capabilities. Terms of the deal were not disclosed. Cameron, who founded Lightstorm Vision, worked with Outsyders on his concert documentary Billie Eilish Hit Me Hard and Soft: The Tour (in 3D), and the company also provided 3D for Blue Angels, Disney s Lilo & Stitch, Tron: Ares and Moana. At the core of the acquisition is Outsyders stereoscopic processing platform, built to deliver efficient production at scale without compromising quality, a press release reads. Combining real and synthetic data, the platform continuously improves model accuracy while enabling small, highly skilled teams to produce premium stereoscopic content in a fraction of the time and at significantly lower cost than traditional conversion methods. At Lightstorm we ve been working with Paul Becker and his team for almost two years, and really enjoyed the collaboration, Cameron said in a statement. As everyone knows, I ve got a very exacting eye for 3D, and I can confidently say that their work and their AI tools are world class. Together we will provide end-to-end solutions for productions and for studios, as we merge the worlds of conversion and native photogr
+Marshals is recruiting a fan-favorite Yellowstone character for Season 2. Jefferson White will reprise his role as Jimmy Hurdstrom in the CBS spinoff series, joining Kayce Dutton (Luke Grimes) in a recurring capacity, the network announced during its 2026 virtual press day. “I’m thrilled to dive into the world of Marshals and continue exploring the American West,” White said in a statement. “The cast and crew are stacked full of my favorite actors and filmmakers, and I’m honored to join them. Jimmy and I have been through a lot together, and I can’t wait to see what’s next for us.” Jimmy was first introduced on Yellowstone and was a key role alongside the Dutton family drama. He is a good-hearted yet rough-around-the-edges ranch hand who evolved from a troubled criminal into a resilient, proud cowboy, per his character description. Beyond Yellowstone, White has appeared in The Alienist, House of Cards, Manhattan, The Americans, Elementary, Blue Bloods and How to Get Away With Murder. In film, he most recently starred in Civil War alongside Kirsten Dunst and Eileen with Anne Hathaway. He will next star as Harvey Lee Oswald in the upcoming JFK film and in Rambo with Noah Centineo. He is repped is repped by Lichter, Grossman, Nichols, Feldman, Rogal, Shikora & Clark, INC, Principal Entertainment LA and Gersh. Marshals stars Grimes as Kayce as he joins an elite unite of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to solve complex cases in his Montana home base. 
 
-### Hollywood Gets New Bipartisan Caucus on Capitol Hill
-Wed, 16 Sep 2026 13:45:19 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/hollywood-movies-music-entertainment-sports-caucus-congress/
+### Ed Sheeran Backlash Ratchets Up as Hannah Einbinder, Colin Kaepernick and More Slam Macklemore Firing
+Wed, 16 Sep 2026 18:54:02 +0000 — https://www.thewrap.com/culture-lifestyle/culture/ed-sheeran-macklemore-backlash-all-the-celebrities-speaking-out/
 
-Hollywood is getting a new voice on Capitol Hill. Reps. Sydney Kamlager-Dove, María Elvira Salazar and Troy Carter launched a bipartisan congressional caucus Wednesday focused on movies, music, entertainment and sports, creating a new forum for lawmakers to engage with America’s creative industries. The Movies, Music, Entertainment & Sports Caucus (MoMEntS) will focus on industries including film and television, music, sports, streaming, gaming, publishing and the creator economy. The creative and entertainment sectors generate more than $1 trillion annually and support more than 5 million jobs, according to Kamlager-Dove’s office. “Together, we will champion the people who make this economy thrive and ensure the U.S. remains a global leader in entertainment and culture,” she said in announcing the group. The caucus plans to promote policies aimed at strengthening workforce opportunities and protecting creative rights while supporting innovation, competition and what it calls responsible platform practices. This gives the group a potentially broad mandate as Hollywood confronts issues ranging from artificial intelligence and copyright protections to competition in streaming and digital media. MoMEntS is launching with backing from several major entertainment and media organizations. Recording Academy CEO Harvey Mason Jr., Starz president of original programming Kathryn Busby, TikTok USDS Joint Venture head of public policy Nicole Nason and TKO Group chief legal officer Riché 
+Hacks star Hannah Einbinder, athlete and activist Colin Kaepernick, Sen. Bernie Sanders (D-Vermont), Rep. Alexandria Ocasio-Cortez (D-New York), Wicked star Marissa Bode and others have all released statements denouncing the decision to drop Macklemore from Ed Sheeran s Loop Tour over his pro-Palestine comments. Einbinder, who has been similarly vocal in her support for the Free Palestine movement, sent Sheeran a message Tuesday on her Instagram stories after the latter said that the move to drop Macklemore from his Loop Tour was the promoter’s decision, it was not mine. Ed Sheeran i say this as a ginger. i hope you get a REALLY bad sun burn. the kind on the back of your entire body where it hurts to lie down or walk or sit, Einbinder wrote. The actress followed that comment up with a screenshot of a poem by Guatemalan activist Otto René Castillo titled Apolitical Intellectuals. As its title suggests, the poem is a targeted takedown of those who adopt apolitical stances in the face of political issues. Einbinder additionally reshared posts from Sheeran s other tour openers, including Aaron Rowe, Lukas Graham, Finneas and Sheeran s own backing band Beoga, all of whom dropped out of the tour over Macklemore s treatment. Their exits came amidst the wave of backlash that has been rolling Sheeran s way ever since Macklemore announced he had been removed from his tour. The rapper became the subject of controversy after he made pro-Palestinian statements during a performance at MetL
 
-### Jimmy Kimmel Warns Viewers Not to Tell Trump About Colbert Appearing on Show: Could Call in an Airstrike or SEAL Team Six
-Wed, 16 Sep 2026 13:42:10 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-warns-not-tell-trump-stephen-colbert-guest/
+### Pre-Existing Condition Off Broadway Review: Lupita Nyong o Goes Big to Play an All-Too Common Victim
+Wed, 16 Sep 2026 18:35:04 +0000 — https://www.thewrap.com/creative-content/theater/pre-existing-condition-off-broadway-review-lupita-nyongo/
 
-Stephen Colbert made his first return to late night television on Tuesday, not as host, but as a guest on Jimmy Kimmel s show. But, the ABC host immediately warned his viewers not to let President Trump know that he and Colbert were in the same place, for fear of a military strike. To kick off his monologue, Kimmel first poked fun at the fact that his show once again went home empty-handed after Monday night s Emmys . That makes a record of zero wins in 15 years, this time losing to Colbert. Kimmel was excited for Colbert though, teasing that he was just off in the wings waiting for his interview to start. Don t tell Donald Trump, Kimmel stipulated. If he knows there are two of us here, he could call in an airstrike, or SEAL Team Six, or who the hell knows what. Indeed, The Late Show with Stephen Colbert took home the Emmy for Outstanding Variety Series this year, surprising very few people. The former CBS host promptly thanked all his past guests, but largely used his acceptance speech to implore Hollywood to hire his former writers . “The thing about these late shows is that — besides being a really good steady job — they require so many people that they’re a fantastic incubator for young people to come in to learn to work professionally on a deadline in cooperation, in collaboration. That is the future of our business that we have to look after,” Colbert said. “I want you to know I got some great news. They are all tech avail. Hire them. They will make your show better, an
+How did so many great playwrights, from Eugene O’Neill to Noel Coward, get through the 20th century without putting a psychiatrist character in their plays? If Tennessee Williams were writing his one-act “Suddenly Last Summer” today, the medical doctor Dr. Cukrowicz (Montgomery Clift in the 1959 film version) would not have to use a truth serum to get Catherine Holly (Elizabeth Taylor in the film) to remember the lurid details of Sebastian’s violent murder at the hands of cannibals. Cukrowicz would be a shrink, and have no trouble getting Catherine to spill the beans about her dead gay cousin. Psychiatrist characters in modern plays and films are something of a dramatic cheat, except when they re objects of parody or ridicule. It’s an easy way for a writer to get the shrink’s patient to reveal in record time his or her motivations and most intimate thoughts. In her 2024 play, “Pre-Existing Condition, playwright Marin Ireland not only gives us a psychiatrist; she has her lead character attend several group support sessions for battered women. A revival of Ireland’s 75-minute one-act play opened Monday at the Greenwich House Theater, and it gets the star treatment with Lupita Nyong’o playing a woman who has suffered domestic violence from a former boyfriend. The Oscar-winning actor (“12 Years a Slave”) performs in “Pre-Existing Condition” for only a few weeks, to be replaced in the following months by Edie Falco and others. Known only as “A,” the lead character undergoes one-on
 
-### New Sunrise on the Reaping Trailer Puts Haymitch in The Hunger Games
-Wed, 16 Sep 2026 13:26:04 +0000 — https://www.thewrap.com/creative-content/movies/the-hunger-games-sunrise-on-the-reaping-trailer-haymitch/
+### The Traitors Snags 3-Season Renewal at Peacock After Emmys Domination
+Wed, 16 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/the-traitors-renewed-three-more-seasons-peacock/
 
-The sun is rising on the 50th Hunger Games, and all eyes are on Joseph Zada s Haymitch. Lionsgate dropped another trailer for The Hunger Games: Sunrise on the Reaping on Wednesday, giving a better look at what the tributes will face in the second Quarter Quell. The prequel stars Zada as Haymitch Abernathy (famously played by Woody Harrelson in the original films), alongside Jesse Plemons, Elle Fanning, Kieran Culkin, Mckenna Grace, Whitney Peak, Maya Hawke, Kelvin Harrison Jr., Ralph Fiennes, Glenn Close and many more for the biggest games ever. Set in the world of Panem 24 years before the events of The Hunger Games, the story follows Haymitch into the arena, where he forms an unlikely alliance with fellow tribute Maysilee Donner (Grace) and joins a coalition determined to challenge the Capitol’s control under President Snow (Fiennes), per the logline. As the competition unfolds, Haymitch risks everything to take down the Games from within the arena — setting in motion the rebellion that will change Panem forever. Based on Suzanne Collins’ 2025 dystopian novel of the same name and directed by returning filmmaker Francis Lawrence, the movie was produced by Nina Jacobson, Brad Simpson and Lawrence off a screenplay by Billy Ray and Michael Lesslie. “The Hunger Games: Sunrise on the Reaping” hits theaters on Nov. 20. The post New Sunrise on the Reaping Trailer Puts Haymitch in The Hunger Games appeared first on TheWrap .
+Alan Cumming better get a bigger wardrobe, because The Traitors has been picked up for three more seasons after its wins at the 2026 Emmys. Peacock renewed the competition series through Season 8 on Wednesday ahead of the Season 5 premiere in 2027. This is in addition to the all-civilian spinoff The Traitors: New Blood hitting NBC this Thursday. Cumming is set to return as host following his third consecutive Emmy win in the category. Season 4 won seven awards in total this year, including for production design, cinematography, costumes, directing, picture editing and overall Outstanding Reality Competition Program (the most ever in a single year for the genre). This past season also marked the show s biggest ratings to-date, with viewership up +72% over Season 3. Season 4 garnered 8.1 billion minutes viewed, per Peacock and Nielsen numbers, making it the No. 2 streaming original reality series of 2026, just behind Love Island USA, also on the streamer. The Traitors is a nail-biting psychological adventure in which treachery and deceit are the name of the game. A distinguished roster of famous faces, notable figures, top competitors and reality icons play the ultimate murder mystery game, per the logline. At an ancient castle set deep in the Scottish Highlands, players work together on a series of exhilarating missions to build a substantial prize fund. Hidden amongst the Faithful are the Traitors, whose goal is to eliminate the Faithful and claim the prize for themselves . U
 
-### What’s Warner Bros. Discovery’s Path Forward if the Paramount Deal Collapses?
-Wed, 16 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/industry-news/deals-ma/what-happens-to-warner-bros-discovery-if-paramount-merger-fails/
+### HBO Max Gives 15-Episode Order to Greg Berlanti Family Drama How to Survive Without Me
+Wed, 16 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/hbo-max-series-order-how-to-survive-without-me/
 
-As Paramount and Warner Bros. Discovery’s $110 billion merger remains stuck in legal limbo, the public discourse scrutinizing every twist and turn has become an intense debate over how badly the two companies need each other to survive in the competitive media landscape. But it also raises a key question: What is WBD’s path forward if the deal ultimately falls apart? To be clear, the deal collapsing wouldn t be fatal to Warner Bros. Discovery. CEO David Zaslav would walk away with a $7 billion break-up fee that could offer some additional flexibility as an independent company. But experts who spoke to TheWrap are skeptical that management would continue to go it alone long-term, given the M&A options that would be available to them and the challenge it continues to face with a deteriorating linear TV business. Instead, they predict that WBD’s management would return to its planned split in the hopes of attracting another buyer for all or part of its portfolio. Or it could look to sell non-core assets individually or monetize their IP through licensing or specific sales, they said. “One way or another, the ability to unlock value offsets any potential operating benefit from keeping the company together,” Morningstar Research analyst Matthew Dolgin said. “I d expect a material portion of the work to implement the split would not have to be redone or paid for again.” Questions about the fate of WBD continue to swirl with California Attorney General Rob Bonta and 11 other state A
+HBO Max has granted a 15-episode order to Greg Berlanti s family drama How to Survive Without Me. The one-hour drama series, which stars Ray Romano, Kaley Cuoco and Joshua Jackson, has been ordered to series by the streamer just under a year after a pilot from Berlanti and Bash Doran first got the greenlight . The pilot order came following the success of The Pitt, with the new projects hoping to emulate the longer episode order, modest budgets and annual release of the medical drama. Hailing from Warner Bros. Television, How to Survive Without Me follows the De Angelis family following the passing of matriarch Beverly (Rita Wilson). In addition to Wilson, Romano, Cuoco and Jackson, the series stars Julia Schlaepfer, Jack Ball, Kylar Miranda, Julian Grey, Scarlett Abinante, Tommy Dewey, Matthew Kellison, Colette Porch and Ella Rubin. Guest stars include Dar Zuzovsky, Genevieve Angelson, Joe Romano, Katie Aselton, Katie Monds, Kevin Changaris, Pressley Hosbach, Richard Blackmon, Sofía Rodríguez-Toymil and Will Yun Lee. The series follows the De Angelis family after the loss of Beverly sees the family to drift, unsure how to manage their complicated, evolving lives without her guidance. But in true Beverly fashion, she found a way to keep running the show from the beyond, per the official logline. Should they wish to experience Beverly s final work, the family must find the time — and make the effort — to remain connected and be there for each other through all of life s challe
 
-### ‘Shrinking’ Crew Member Sues Warner Bros. for Wrongful Termination, Alleges EP Randall Winston Groped Her
-Wed, 16 Sep 2026 05:14:55 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/shrinking-crew-member-sues-warner-bros-wrongful-termination-sexual-harassment/
+### BBC Studios LA Unscripted Chief Ryan O Dowd Adds Scripted Division Oversight
+Wed, 16 Sep 2026 17:38:58 +0000 — https://www.thewrap.com/industry-news/business/bbc-studios-los-angeles-ryan-odowd-unscripted-scripted-content-head-promotion/
 
-Mindy Tessa McKoin, who served as a key second assistant director on “Shrinking,” sued Warner Bros. Television, executive producer Randall Winston and others Tuesday, alleging wrongful termination, sexual harassment and battery. In the filing, which also accused the defendants of retaliation and failure to prevent harassment, McKoin shared that she was terminated from her position in July after working as a “qualified and competent employee” for multiple seasons of the Apple TV comedy. “In three seasons on ‘Shrinking,’ Plaintiff was never disciplined or written up,” the filing noted. “On or about June 22, 2024, at the ‘Shrinking’ Season 2 wrap party – a work related event attended by cast, crew and production executives – Winston approached Plaintiff from behind while she was seated at the bar speaking with a crew member. Winston reached around Plaintiff from behind and grabbed and groped her left breast, without her consent. Per the filing, McKoin reported Winston’s alleged conduct to her direct supervisor in late 2024 or early 2025. “Warner Bros. thereby had notice of Winston’s conduct through Plaintiff’s supervisor,” the filing stated. “Plaintiff is informed and believes, and thereon alleges, that Warner Bros. took no corrective action.” The document added: “Winston retained his position and his directing assignments on ‘Shrinking’ through Season 4, and was present on set as late as July 8, 2026 – two days before Plaintiff was fired.” McKoin claimed she had been offered th
+BBC Studios Los Angeles division has promoted unscripted content chief Ryan O Dowd to Global Productions president. The promotion will see O Dowd add oversight of all scripted content production and development activity to his purview, bringing the two divisions under a single leadership structure. Prior to his new role, O Dowd was named BBC Studios Entertainment and Music executive vice president in 2021 and was promoted to unscripted president last year. The new structure will allow the creative and production teams to work more closely together while providing greater leverage within the company’s wider Global Productions network, including its international creative expertise, development capabilities, production infrastructure and global partnerships. “Los Angeles remains one of the most important creative markets for BBC Studios, and I’m incredibly excited to take on this expanded role, O Dowd said in a statement. We have tremendous talent and creative ambition across both Scripted and Unscripted, and bringing our production activity together creates new opportunities to collaborate, share ideas and build on the momentum we already have. BBC Studios unscripted slate under O Dowd includes Fox s The 1% Club, Celebrity Weakest Link and Nation s Dumbest, Netflix s Outlast and ABC s Dancing with the Stars and Dancing with the Stars The Next Pro. Meanwhile, its scripted slate includes CBS Ghosts, Fox s Mammoth, Welcome to Flatch and Call Me Kat and HBO s The Night Of and Gett
 
-### Rep. Joyce Beatty Details Trump’s ‘Tantrum’ Over Her Legal Victory in Ongoing Kennedy Center Battle
-Wed, 16 Sep 2026 04:20:47 +0000 — https://www.thewrap.com/media-platforms/politics/rep-joyce-beatty-details-trump-tantrum-kennedy-center/
+### Resident Evil Could Be a Game Changer for Video Game Movies at the Box Office
+Wed, 16 Sep 2026 17:32:34 +0000 — https://www.thewrap.com/creative-content/movies/resident-evil-zach-cregger-box-office-tracking-preview/
 
-Rep. Joyce Beatty (D-Oh.) detailed the tantrum Donald Trump threw after his latest legal setback in their war over the Kennedy Center. The congresswoman from Ohio appeared on MS NOW’s “The Weeknight” Tuesday evening, hours after a federal judge blocked the Trump-appointed Kennedy Center board’s latest attempt to add the president’s name to the institution. Well, we were in court right before we went into the board meeting, Beatty, who sought emergency relief to prevent the shutdown and the name addition to the façade ahead of a special board meeting, said. So they opened up the board meeting by informing the board that we had again, [in] Beatty v. Trump, Beatty had been victorious. And he went into a tantrum. As Beatty went on, she blasted the president s reaction as the most unprofessional thing that I ve ever witnessed or been a part of. Per Beatty, Trump resorted to name calling, labeling her everything from an obstructionist to dumb. He said, ‘I think you’re incompetent.’ And I said, ‘I know you’re incompetent, ” she said. And I looked to the chair and I said, Are we really going to do this? This is unprofessional. But I was not going to let him call me awful things. According to Beatty, Trump threatened that he planned to hold her responsible if something fell out of the ceiling and killed someone. To which she replied: You re already killing people. We re at war. We also have people who are starving. You re doing this. Beatty claimed Trump wanted to talk about how great
+With The Super Mario Galaxy Movie hitting $1 billion and Street Fighter and Sonic the Hedgehog 4 among the films on the horizon, we are well into this new era of video games as a potent force at the box office. But Sony/Columbia s Resident Evil is taking a different approach that, if successful, could expand the potential for this form of IP filmmaking. Sony has been riding high at the box office as Spider-Man: Brand New Day just became the unadjusted all-time domestic box office record holder with $937 million in the U.S. and Canada, but unlike that Marvel Studios title, Resident Evil is a title they co-produced. Sharing the horror film s reported $75 million budget with Constantin Films, Davis Films and Vertigo Entertainment, Sony is looking to match or exceed the box office run of director Zach Cregger s 2025 breakout hit Weapons, which opened to $43.5 million and grossed $151.5 million domestic and $270 million worldwide. Signs point to that happening as projections had Resident Evil opening to at least $40 million this weekend, and that was before strong early reviews gave the film a 96% Rotten Tomatoes score on Wednesday morning. Critics have hailed Cregger for making a video game film that focuses more on how it feels to play a Resident Evil game rather than faithfully recreate its lore like the 2021 flop Resident Evil: Welcome to Raccoon City. Up to this point, the video game franchises that have enjoyed the most success at the box office think Mario, Sonic, and Five 
 
 ## Collider
 
-### Fantastic 'Atonement' Examines the Human Cost of the Iraq War | TIFF Review
-Wed, 16 Sep 2026 15:04:52 GMT — https://collider.com/atonement-review-boyd-holbrook-kenneth-branagh/
+### Bob Dylan Is Officially Releasing 371 Unreleased Songs at Once
+Wed, 16 Sep 2026 19:33:53 GMT — https://collider.com/bob-dylan-371-songs-release-box-set-november-2026/
 
-About 15 minutes into Atonement , there’s a moment when the matriarch of a close-knit family is trapped in a car with her grown children and grandchild, as U.S. Marines and Iraqi insurgents exchange gunfire around them. Mariam, played with heartbreaking restraint by Hiam Abbass , tries desperately to make it clear that they are civilians, but everything happens way too quickly for logic to even register. With no way to know where the bullets are coming from, the whole scene soon becomes unbearable to watch. It’s a tense, heart-pounding moment , and director Reed Van Dyk shoots it with such immediacy that it feels less like watching a war scene and more like being dropped into the middle of one, with no idea where safety is.
+When it comes to singers and songwriters, few performers have had as many polarizing moments as Bob Dylan , who was famously booed off the stage for constantly embracing new tactics in his art. Back in 2024, Dylan came back into a different light thanks to the release of the hit musical biopic, A Complete Unknown , starring Timothée Chalamet . Chalamet was nominated for an Oscar for his commanding performance as Dylan in the film, though he ultimately lost the award to Adrien Brody , who won his second career Oscar for his work in The Brutalist . Still, if it’s any testament to the continued popularity of Bob Dylan, his 2024 biopic grossed over $140 million at the global box office before going on to become one of the most-watched movies of 2025 on Hulu , where it still streams today.
 
-### Marvel’s New Rogue Officially Joins Sydney Sweeney and Brie Larson’s Breakout Club
-Wed, 16 Sep 2026 15:02:38 GMT — https://collider.com/inde-navarrette-breakout-starmeter-award-rogue-marvel/
+### Optimus Prime: Awakening Reactions to Peter Cullen’s Final Performance, “My Jaw Was Dropping!”
+Wed, 16 Sep 2026 19:01:11 GMT — https://collider.com/video/collider-readers-get-the-first-look-at-optimus-prime-awakening/
 
-Obsession star Inde Navarrette continues to make waves. Navarrette starred in this year's smash horror film from director Curry Barker and played Nikki, a young woman whose friend Bear ( Michael Johnston ) traps her in a horrible curse when he makes a wish that she'd love him more than anyone else on earth. Having to play Nikki as both a fully functional adult woman and the possessed version that Bear wishes into his life, Navarrette proved herself to be one of the new young talents to look out for. It helped her gain enough recognition to already head to the Marvel Cinematic Universe as the X-Men's Rogue. Now, Collider is thrilled to exclusively reveal that she's taken home the "Breakout" STARmeter Award for her work at the Toronto International Film Festival (TIFF) .
+“My jaw was dropping throughout the entire scene!” 😱
 
-### ‘Helluva Boss’ Season 3 Officially Returns With New Trailer [Exclusive]
-Wed, 16 Sep 2026 15:00:11 GMT — https://collider.com/helluva-boss-season-3-trailer-prime-video/
+### Tom Hardy's 2-Part Crime Thriller Is Officially One of His Best
+Wed, 16 Sep 2026 18:48:43 GMT — https://collider.com/tom-hardy-mobland-season-2-rotten-tomatoes-score-is-it-good/
 
-Hell is about to get even more complicated for Blitzø and the Immediate Murder Professionals. Collider can exclusively reveal the official trailer for Helluva Boss Season 3 , which brings the hit adult animated comedy back to Prime Video this October with new assignments, old enemies, and several personal problems that cannot be solved with a conveniently placed weapon. Created by Vivienne Medrano , Helluva Boss follows the eccentric imp Blitzo and the chaotic assassination business he operates alongside Moxxie, Millie, and their hellhound receptionist, Loona.
+This Friday, MobLand 's fans return to London for another season of Guy Ritchie 's hit crime thriller. The series was a hit when it premiered last year and became the most popular foreign show on Paramount+. Critical reception was also decent, with the first season scoring a 77% on Rotten Tomatoes. Critics agreed that while MobLand does not break new ground in the gangster drama genre , the charisma of its lead actors, Tom Hardy especially, is enough to carry the show. The first season ended on a massive cliffhanger as the dynamics changed and the story grew.
 
-### ‘Anaconda’ Meets ‘Jurassic Park’ in New Creature Feature With a Truly Gigantic Predator [Exclusive]
-Wed, 16 Sep 2026 15:00:11 GMT — https://collider.com/beware-boiuna-kiana-madeira-jessica-rothe-first-look/
+### 'NCIS' Icon Officially Returning for LL COOL J's 'New York' Spin-Off
+Wed, 16 Sep 2026 18:39:11 GMT — https://collider.com/ll-cool-j-ncis-new-york-brian-dietzen-jimmy-palmer-return/
 
-A medical mission ventures into the Amazon expecting to save lives, but the jungle has something much larger and deadlier waiting for them. Fear Street star Kiana Madeira and Happy Death Day star Jessica Rothe are trading masked killers and murderous time loops for an ancient predator in Beware Boiúna , a new survival horror movie from Wrong Turn director Mike P. Nelson . Alongside Upgrade star Logan Marshall-Green , the pair will find themselves trapped in a domain where nature holds absolute power and one colossal creature gets to decide who lives and who dies .
+Less than three weeks remain until the return of NCIS Tuesdays on CBS and, more notably, the return of Sam Hanna. The long-running procedural franchise's new season will include the launch of its latest spin-off, NCIS: New York , bringing LL COOL J 's fan-favorite agent to a long-overdue locale for the series that also happens to be both his and Hanna's hometown. Finding a permanent spot for the star after the end of NCIS: Los Angeles in 2023 is a big development for the series that opens the door for new stories, an entirely new team to follow in the city that never sleeps, and more cases to solve. Even with Hanna's new duties, though, there will still be time for plenty of crossovers with the core team in Washington D.C.
 
-### ‘Widow’s Bay’ Meets ‘The Meg’ in Netflix’s New Thriller Series
-Wed, 16 Sep 2026 14:53:11 GMT — https://collider.com/widows-bay-replacement-below-netflix-the-meg-josh-hartnett/
+### Zack Snyder Is Officially Adapting an 83-Year-Old Novel That's as Popular as 'Harry Potter'
+Wed, 16 Sep 2026 18:31:09 GMT — https://collider.com/zack-snyder-the-fountainhead-ayn-rand-adaptation-update/
 
-Widow’s Bay has been the breakout hit of the year, inviting viewers to visit its titular New England island and the evil entity that inhabits it. While audiences wait for Season 2, Netflix is offering up a replacement with its upcoming thriller, Below . The 6-episode miniseries follows a small town in Newfoundland that is being terrorized by a mysterious sea creature. The trailer teases misadventures that include mysterious icebergs, threats of aquatic monsters, and some of the residents seemingly going mad.
+Zack Snyder 's latest film may not have wowed the critics at the Toronto International Film Festival, but the Man of Steel director is still dreaming of his next project. He's determined to fulfil a longtime dream of directing an adaptation of one of the most popular, and most controversial, novels of the 20th century.
 
-### Celebrating 40 Years of ‘Transformers: The Movie’ With Collider Readers
-Wed, 16 Sep 2026 14:40:11 GMT — https://collider.com/video/come-with-us-to-the-transformers-the-movie-40th-anniversary-screening/
+### Netflix’s 91-Minute True Crime Thriller Officially Becomes a Global Streaming Smash
+Wed, 16 Sep 2026 18:19:15 GMT — https://collider.com/facing-el-chapo-netflix-streaming-hit-action-thriller/
 
-“It was like time travelling!" 🚀
+Netflix has produced its fair share of major success stories with its original films in 2026. Two new titles on the platform's global top ten in all-time viewership — the Alan Ritchson -led sci-fi actioner War Machine and Michael B. Jordan -starring animated comedy Swapped — were released this year, earning solid reviews from critics and audiences alike en route to shaking up the charts. Outside of them, the year kicked off with Matt Damon and Ben Affleck 's latest team-up, The Rip , launching to 41.6 million views in three days, becoming the biggest launch for the streamer since Happy Gilmore 2 . Yet, the latest film to capture the attention of subscribers has a fraction of the budget and advertising of its predecessors and brings more low-key, grounded action based on true events.
 
-### New James Bond Series Officially Casts Key 007 Figure
-Wed, 16 Sep 2026 14:01:11 GMT — https://collider.com/young-james-bond-silverfin-cast-charlie-higson/
+### Below: One Accent Had to Make the Family Feel Real | Set Stories
+Wed, 16 Sep 2026 18:15:12 GMT — https://collider.com/video/below-one-accent-had-to-make-the-family-feel-real-set-stories/
 
-Amazon ’s search for the next James Bond has been quite thorough during the last year or so. Between the time that Daniel Craig retired as the character in No Time to Die (2021) and Amazon’s hiring of Denis Villeneuve and Steven Knight to work on the new 007 film, fans had zeroed in on long-time favorites like Henry Cavill or Idris Elba as the next James Bond. It wasn’t until casting director Nina Gold came out and said that Amazon was eyeing a younger actor for the project that names like Cavill and Elba were eliminated from contention. The James Bond shortlist was also reported a few weeks ago, with names like Jack Lowden , Jacob Elordi , Callum Turner , and Paul Mescal all in the running to play the next 007.
+Josh Hartnett, Mackenzie Davis, and Charlie Heaton found more than a filming location while making Netflix’s Below in Newfoundland — they immersed themselves in the local communities, landscapes, accents, and fishing culture that shaped the series.
 
-### Guy Ritchie's 'MobLand' Officially Returns with a Bigger, Bloodier War in Season 2 | Review
-Wed, 16 Sep 2026 14:01:11 GMT — https://collider.com/mobland-season-2-review/
+### Reacher Officially Meets His Match in One of the Series' Most Brutal Fights Ever
+Wed, 16 Sep 2026 18:12:11 GMT — https://collider.com/reacher-season-4-finale-fight-lila-amisha-hoth/
 
-In the world of Guy Ritchie projects, MobLand stands as one of his more unique offerings. Sure, it explores the world of crime that Ritchie has become so synonymous with, but it lacks the same punchy humor, stylized action, and cast of memorable, if outrageous, characters. When MobLand premiered last year, it offered a darker look at the British gangster, centering on Tom Hardy 's Harry Da Souza, a high-ranking fixer in the Harrigan crime family. Rather than presenting quirky criminals with manicured and snappy dialogue, MobLand revolves around a complicated, messy family full of betrayal, violence, and buried secrets . While Season 1 saw the Harrigans enter into an all-out war with the Stevensons, a South London crime family, Season 2 ups the ante, taking the Harrigans into a whole new realm of danger.
+Editor's note: The below contains spoilers for the Reacher Season 4 finale.
 
-### ‘Dungeons & Dragons’ Officially Delivers Its Best Campaign Yet With New ‘World of Warcraft’ Expansion [Exclusive]
-Wed, 16 Sep 2026 14:01:11 GMT — https://collider.com/dungeons-and-dragons-world-of-warcraft-dungeon-masters-campaign/
+### ‘The Ring’ Meets ‘V/H/S’ in Official Sneak Peek at Sophie Lowe’s New Horror Movie [Exclusive]
+Wed, 16 Sep 2026 18:00:11 GMT — https://collider.com/posthumous-sophie-lowe-vhs-horror-clip-fantastic-fest/
 
-The next campaign of Dungeon Masters is taking its cast to Azeroth, and Collider is exclusively debuting the new trailer ahead of its wider release . The official Dungeons & Dragons actual-play series will enter the world of World of Warcraft during the reign of the Lich King, as the Horde and Alliance wage war against the Scourge. However, its new heroes are not exactly Azeroth’s first choice for the job.
+There's something about the low-fi crackle of an old VHS tape that just screams "horror movie." Just look at The Ring , or the entire V/H/S anthology series. That's what Sophie Lowe discovers in the new Australian shocker Posthumous , which is set to debut at Fantastic Fest this week. In advance of its world premiere, Collider is proud to exclusively present the first clip from the film.
 
-### Daredevil Officially Rekindles His Best Romance
-Wed, 16 Sep 2026 13:15:11 GMT — https://collider.com/daredevil-volume-9-issue-7-elektra-matt-love-interest-marvel-comics/
+### Fantastic Fest’s New Adults-Only Psychological Horror Thriller Officially Reveals First Look [Exclusive]
+Wed, 16 Sep 2026 17:00:11 GMT — https://collider.com/coming-of-age-horror-film-sick-new-posters-fantastic-fest/
 
-Matt Murdock has had many loves throughout Marvel Comics history. While his most recurring girlfriend is undoubtedly Karen Page , who has only been elevated in status thanks to Deborah Ann Woll 's performance in Netflix's Daredevil series and its follow-up, Daredevil: Born Again , he's been in relationships that range from healthy, like with Kirsten McDuffie, to completely toxic, like with the villain Typhoid Mary. Back in the 1970s, he even had an early defining relationship with Black Widow born out of their crime-fighting partnership, though it was definitely a product of its time. Whatever the case, his many mistakes and his double life have often caused complications for any of his partners, whether because of the secrecy, the danger, all of the above, or something else entirely.
+As the air turns colder and the spooky season nears, it's almost time for Fantastic Fest once again. For the past 21 years, the event has grown into the U.S.' premier showcase for the weirdest, creepiest, most thought-provoking , and unique projects from veteran and up-and-coming filmmakers alike in sci-fi, horror, and beyond. Entries come from all over the world to take part in the festivities, too, putting the spotlight on foreign creators that audiences stateside might never have a chance to see in theaters. Among the films set to arrive from overseas is the Polish horror-drama Sick , which twists a coming-of-age story between siblings over the summer holidays into a disturbing exploration of adolescence, sexuality, and the transition to adulthood.
 

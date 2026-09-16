@@ -1,6 +1,31 @@
-# Games — harvested 2026-09-16T15:09:29.390Z
+# Games — harvested 2026-09-16T19:41:39.336Z
 
 ## Eurogamer
+
+### Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who "constantly tweet anti-crunch messaging"
+Wed, 16 Sep 2026 19:15:25 +0000 — https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement
+
+Joe Brammer, CEO of Bulkhead, the developer behind The Turing Test, Battalion 1944 , and now the hugely successful new release Wardogs, has found himself in somewhat hot water, following a revealing interview where he discussed work culture at the UK studio. Read more
+
+### More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down
+Wed, 16 Sep 2026 18:49:00 +0000 — https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down
+
+Another round of layoffs is seemingly sweeping through Build A Rocket Boy, the studio responsible for MindsEye and founded by GTA veteran Leslie Benzies. The studio's future is now uncertain. Read more
+
+### Monster Hunter Wilds will soon stop charging players to edit their characters as Capcom scraps the game's worst microtransaction
+Wed, 16 Sep 2026 17:47:52 +0000 — https://www.eurogamer.net/monster-hunter-wilds-edit-characters-capcom-microtransaction
+
+Arguably Monster Hunter Wilds ' most egregious microtransaction is being retired, and, soon, you'll be able to edit your hunters and cat-friend Palicos whenever you like, as many times as you like. Read more
+
+### Vampire RPG escapes Steam's 'Adult Only' jail just in time for launch: "At the risk of disappointing some players, Nighthawks is not porn"
+Wed, 16 Sep 2026 16:59:46 +0000 — https://www.eurogamer.net/vampire-rpg-steam-adult-only-game-jail-nighthawks
+
+Nighthawks just got a happy ending. Developers of the vampiric RPG have successfully removed the game's 'Adult Only' rating on Steam - a label that would have otherwise hidden the game from most players. Read more
+
+### The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says
+Wed, 16 Sep 2026 16:24:36 +0000 — https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-sequels
+
+The Blood of Dawnwalker director Konrad Tomaszkiewicz has told me the game's divisive time mechanic - which gives you a limited amount of time to save your family, and attaches a time-cost to every quest and notable action you do in the game - won't necessarily feature in a sequel. Read more
 
 ### Xbox's Fable reboot was allowed a 10-year development because the RPG series is "vital to the DNA of the platform", developer Playground Games says
 Wed, 16 Sep 2026 13:57:29 +0000 — https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games
@@ -37,32 +62,17 @@ Wed, 16 Sep 2026 08:42:38 +0000 — https://www.eurogamer.net/diablo-4-season-of
 
 The launch of Diablo 4 's Season of Hell's Legacy got off to a rough start. The anticipated season was announced at BlizzCon over the weekend to arrive alongside a 30th anniversary celebration of the Diablo franchise . And though Season of Hell's Legacy eventually went live, it did so several hours after it was supposed to. Read more
 
-### Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive
-Wed, 16 Sep 2026 01:00:00 +0000 — https://www.eurogamer.net/wo-long-2-wings-of-ember-preview
-
-The original Wo Long is an overlooked gem . Fast-paced, brutal, and compelling, the game made a name for itself amongst hardcore action-RPG aficionados because of its key gimmick: that basically every single attack could be deflected. While some criticised this because it made the game 'repetitive', I thought it was interesting and well-executed enough to carry you through the entire playtime. Augmented by a momentum mechanic that rethought stamina for the fast-paced fights, and a still best-in-class 'morale' system that encouraged exploration and completionism, Wo Long has a permanent place on my harddrive. Read more
-
-### After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC
-Tue, 15 Sep 2026 16:20:23 +0000 — https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced
-
-Well this made me chuckle. After starting out with Two Point Hospital - a spiritual successor to developer Bullfrog Productions' classic sick-fixing sim Theme Hospital, Two Point Studios is now going even further into the past. Its newly announced Rides & Relics DLC for the excellent Two Point Museum is paying it back to Theme Hospital's much-loved predecessor, Theme Park - and you can even build your own coasters! Read more
-
-### "What would a WoW 2 give you that World of Warcraft: Forever isn't already giving you?" - Blizzard addresses the MMO elephant in the room
-Tue, 15 Sep 2026 15:45:02 +0000 — https://www.eurogamer.net/blizzard-wow-2-sequel-forever
-
-Blizzard's decision to reveal far-away release dates for Diablo 5 (2029) and the new open-world StarCraft shooter (2030) at this year's BlizzCon represented an uncharacteristically transparent look at its future plans. So much so, there was a moment when the spotlight turned on World of Warcraft and it seemed we might get a monumental reveal there too. Read more
-
-### Steam Deck 2 plans aren't affected by ongoing component crisis, Valve maintains, as Steam Frame arrives later and more expensive than expected
-Tue, 15 Sep 2026 13:21:04 +0000 — https://www.eurogamer.net/valve-steam-deck-2-plans-component-crisis
-
-Valve is in the news again thanks to the impending launch of its Steam Frame VR headset. The developer recently opened up pre-order registration for the &pound;889 / $1,059 standalone headset following months of wait. Read more
-
-### Alien Deathstorm's intense, relentless FPS action was a surprise Gamescom highlight - even if it nearly made my brain explode
-Tue, 15 Sep 2026 13:00:46 +0000 — https://www.eurogamer.net/alien-deathstorm-gamescom-preview
-
-Let me paint a picture: it is day three of Gamescom; I have seen dozens of fantastic games, spoken to many enthusiastic developers. I am excited and energised by it all, but also at the point of slightly delirious fatigue (not helped by the Gamescom flu determinedly setting in). It is, in other words, a less than ideal time to be seeing a game as relentlessly, overwhelmingly intense as Alien Deathstorm. But play it I did - and half an hour later I found myself walking away thinking I might just have seen one of my favourite demos of the show. Read more
-
 ## GamesIndustry.biz
+
+### MindsEye developers report new round of layoffs at Build A Rocket Boy
+Wed, 16 Sep 2026 17:32:12 +0000 — https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy
+
+Scottish studio Build a Rocket Boy has reportedly initiated another round of job cuts. Read more
+
+### Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK
+Wed, 16 Sep 2026 16:08:21 +0000 — https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk
+
+We are thrilled to reveal the finalists for the special awards at the UK GamesIndustry.biz Best Places To Work Awards 2026. Read more
 
 ### 1312 Interactive raises $1m in seed funding round
 Wed, 16 Sep 2026 13:25:18 +0000 — https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round
@@ -109,26 +119,36 @@ Mon, 14 Sep 2026 20:10:38 +0000 — https://www.gamesindustry.biz/level-5-ceo-ad
 
 Level-5 president and CEO Akihiro Hino has apologized after confirming that generative AI was used in the studio's recent digital showcase. Read more
 
-### Valve opens waiting list for Steam Frame, starting at $1059
-Mon, 14 Sep 2026 18:03:34 +0000 — https://www.gamesindustry.biz/valve-opens-waiting-list-for-steam-frame-starting-at-1059
-
-Valve has opened a waiting list for its new VR system, Steam Frame. Read more
-
-### More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs
-Mon, 14 Sep 2026 17:30:55 +0000 — https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs
-
-Cost is increasingly blamed for gamers choosing to cancel their Xbox Game Pass, PlayStation Plus, and Nintendo Switch Online subscriptions. Read more
-
-### Rockstar and IWGB outline arguments at start of tribunal
-Mon, 14 Sep 2026 16:22:08 +0000 — https://www.gamesindustry.biz/rockstar-and-iwgb-outline-arguments-at-start-of-tribunal
-
-Rockstar and the Independent Workers' Union of Great Britain have set out their arguments at an ongoing employment tribunal expected to run until October 16. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### The Disastrous MindsEye Saga Comes to a Close as Studio Is Reportedly Shutting Down
+Wed, 16 Sep 2026 18:30:00 GMT — https://www.pushsquare.com/news/2026/09/the-disastrous-mindseye-saga-comes-to-a-close-as-studio-is-reportedly-shutting-down
+
+MindsEye for an eye. MindsEye , the deeply troubled PS5 action-shooter that launched back in June of last year, will soon be laid to rest. That's according to a number of new reports from people who very recently lost their jobs at developer Build A Rocket Boy, which is said to be on the cusp of shutting down completely. Read the full article on pushsquare.com
+
+### Dragon Quest Reaches 100 Million Total Sales, 40 Years on from the Iconic Series Debut
+Wed, 16 Sep 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/09/dragon-quest-reaches-100-million-total-sales-40-years-on-from-the-iconic-series-debut
+
+The quest continues. One of the most iconic and timeless properties in gaming, Dragon Quest has officially topped 100 million total sales. This is across all Dragon Quest titles — both mainline and spin-off, including remakes and remasters — dating back to the very first game's release over four decades ago in 1986. Read the full article on pushsquare.com
+
+### Preview: Crazy Taxi: World Tour s Beta Test Transported Me Back to a Bygone Era of Online Multiplayer
+Wed, 16 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/previews/crazy-taxi-world-tours-beta-test-transported-me-back-to-a-bygone-era-of-online-multiplayer
+
+It's a fare cop. This past weekend, SEGA hosted a closed network test for its upcoming arcade driving game, Crazy Taxi: World Tour . This was my first opportunity to get my hands on it — a revival of a true arcade classic, and exactly the kind of game I want to see making a return. Read the full article on pushsquare.com
+
+### This New Community Activity Widget Tells You What s Hot Right Now on PS5
+Wed, 16 Sep 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/09/this-new-community-activity-widget-tells-you-whats-hot-right-now-on-ps5
+
+Let's take a look. In case you missed it, today saw the arrival of a new PS5 system software update , and one of the more interesting additions is the Community Activity widget for the console's Welcome page. Basically, it gives you a small glimpse at what is trending on Sony's machine, providing a little bit of insight as to what the general public is playing. Read the full article on pushsquare.com
+
+### Dragon s Dogma 2 Fans Will Froth at the Mouth with This New Look at Dark Arisen
+Wed, 16 Sep 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/09/dragons-dogma-2-fans-will-froth-at-the-mouth-with-this-new-look-at-dark-arisen
+
+The dark before dawn. Capcom has granted us rabid Dragon's Dogma 2 fanatics a fresh look at Dark Arisen — the expansion that's coming out in just under a month, on the 9th October. Although it's a fairly short trailer, there's an awful lot to see. New enemy types can be spotted throughout — including the returning Evil Eye! — alongside new weapons, armour, and enhanced vocation skills. Read the full article on pushsquare.com
 
 ### Review: Trails in the Sky 2nd Chapter (PS5) - Quite Possibly One of the Best RPG Sequels Ever Made
 Wed, 16 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/reviews/ps5/trails-in-the-sky-2nd-chapter
@@ -165,32 +185,17 @@ Tue, 15 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/09/marvel
 
 Congrats, bub. What's that? A new first-party game from PS Studios has arrived? That must mean it's time for some fun launch day art work! As is the case with all games from Sony's developers, the launch of Marvel's Wolverine from Insomniac Games has been celebrated with fun art pieces from the studio's stablemates. Read the full article on pushsquare.com
 
-### 7 PS Plus Extra Game Removals for October 2026 Confirmed
-Tue, 15 Sep 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/09/7-ps-plus-extra-game-removals-for-october-2026-confirmed
-
-All leaving on 20th October. Sony has today updated the Last Chance to Play section of the PS Plus tab on PS5 to reveal what games will be leaving PS Plus Extra and PS Plus Premium in October 2026. The following PS5, PS4 titles will leave the membership service on 20th October 2026: Read the full article on pushsquare.com
-
-### Poll: Are You Playing Marvel s Wolverine on PS5?
-Tue, 15 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-playing-marvels-wolverine-on-ps5
-
-The claws are out. Marvel's Wolverine is out today on PS5, and if it feels like we've waited an age for this one to arrive, it's because it really has been a long time coming. Those of you with good memories may recall Insomniac's action game being announced all the way back in 2021 , courtesy of a very brief teaser trailer centred around character's iconic claws. Read the full article on pushsquare.com
-
-### Multiple Music Artists Tease GTA 6 Collaborations
-Tue, 15 Sep 2026 15:45:00 GMT — https://www.pushsquare.com/news/2026/09/multiple-music-artists-tease-gta-6-collaborations
-
-Probably part of the radio station playlists. Travis Scott has teased some kind of collaboration he has in the works with GTA 6 and Rockstar in an Instagram post . Scott has posted an image in the style of GTA 6 of a woman's feet in purple high heels that seem to be wrapped around a pole. The text accompanying the picture reads: Read the full article on pushsquare.com
-
-### Give Barbie s Dreamhouse a Deep Clean in PowerWash Simulator 2 s Next DLC Pack
-Tue, 15 Sep 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/09/give-barbies-dreamhouse-a-deep-clean-in-powerwash-simulator-2s-next-dlc-pack
-
-Doll it up. One of the many things to love about the PowerWash Simulator series is that you can never really predict what its next crossover DLC pack will be, and I won't lie, I never expected Barbie. Alas, we are where we are; FuturLab has announced the Barbie pack for PowerWash Simulator 2 , launching in late 2026. Read the full article on pushsquare.com
-
-### Control Resonant Designed Around 60fps Gameplay on PS5 and PS5 Pro
-Tue, 15 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/09/control-resonant-designed-around-60fps-gameplay-on-ps5-and-ps5-pro
-
-Remedy details all graphics modes. Now less than 10 days away from release, Remedy has taken to the PlayStation Blog to announce what graphics modes you can choose from in Control Resonant . First and foremost, the Finnish studio reveals the follow-up was built around 60 frames-per-second gameplay "from the beginning" and that the experience's "feel and responsiveness" took top priority. There'll be strong support for the PS5's DualSense controller features and 3D Audio, and you can track your progress through the Activities feature. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs
+Wed, 16 Sep 2026 18:00:00 GMT — https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs
+
+Multiple staff on the studio have written farewell posts on social media over the past 24 hours.
+
+### Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards
+Wed, 16 Sep 2026 16:31:40 GMT — https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards
+
+Goichi Suda will be presenting the award to the Resident Evil director.
 
 ### Activision Blizzard sued by former employee over sexual harassment
 Wed, 16 Sep 2026 13:20:17 GMT — https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment
@@ -222,12 +227,17 @@ Tue, 15 Sep 2026 13:19:00 GMT — https://www.gamedeveloper.com/business/bohemia
 
 'We want to make the best games we can together.'
 
-### Valve's Steam Frame pricing starts at $1,059
-Mon, 14 Sep 2026 18:04:06 GMT — https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059
-
-Valve is also rolling out a developer kit for VR developers targeting its new headset.
-
 ## VGC
+
+### Disney Dreamlight Valley s next expansion The Keepsake Sea plunges new depths, but in the best way possible
+Wed, 16 Sep 2026 18:31:47 +0000 — https://www.videogameschronicle.com/features/disney-dreamlight-valleys-next-expansion-the-keepsake-sea-plunges-new-depths-but-in-the-best-way-possible/
+
+VGC got an early look at the game's underwater themed DLC, and it looks like another winner… Source
+
+### MindsEye studio Build a Rocket Boy may be closing down, according to reports
+Wed, 16 Sep 2026 17:04:14 +0000 — https://www.videogameschronicle.com/news/mindseye-studio-build-a-rocket-boy-may-be-closing-down-according-to-reports/
+
+An HR employee says he is looking for work but "will be seeing BARB through till the very end" Source
 
 ### I m definitely cooked : A 9-year-old Minecraft YouTuber ran up a $118,000 ad bill using his dad s company credit card
 Wed, 16 Sep 2026 14:38:10 +0000 — https://www.videogameschronicle.com/news/im-definitely-cooked-a-9-year-old-minecraft-youtuber-ran-up-a-118000-ad-bill-using-his-dads-company-credit-card/
@@ -269,69 +279,89 @@ Wed, 16 Sep 2026 08:22:16 +0000 — https://www.videogameschronicle.com/news/seg
 
 13 free 'guest' Sega characters were added to the game during its first year of content… Source
 
-### ‘We’re not transparent and we’re not honest,’ says Bulkhead CEO after Wardogs sells 2 million units
-Tue, 15 Sep 2026 16:02:33 +0000 — https://www.videogameschronicle.com/news/were-not-transparent-and-were-not-honest-says-bulkhead-ceo-after-wardogs-sells-2-million-units/
-
-Don’t buy us if you want to play Call of Duty," Bulkhead CEO tells FPS fans… Source
-
-### Steam Deck 2 plans still on track despite RAM crisis and higher prices
-Tue, 15 Sep 2026 15:15:45 +0000 — https://www.videogameschronicle.com/news/steam-deck-2-plans-still-on-track-despite-ram-crisis-and-higher-prices/
-
-Steam Deck 2 still on track to release when there is a "very delineated performance improvement" Source
-
 ## Polygon
 
-### HBO Officially Confirms Knight of the Seven Kingdoms Season 2 Release Window
-Wed, 16 Sep 2026 15:09:13 GMT — https://www.polygon.com/game-of-thrones-knight-of-the-seven-kingdoms-hbo-season-2-release-window/
+### Guy Ritchie’s 128-minute Action Movie Is Officially the Biggest Detective Thriller on Streaming
+Wed, 16 Sep 2026 19:26:06 GMT — https://www.polygon.com/guy-ritchie-sherlock-holmes-streaming-hit-apple-tv-september-2026/
 
-With the first season of A Knight of the Seven Kingdoms and the third season of House of the Dragon airing this year, Game of Thrones fans could potentially be left out in the cold in 2027. Sure, The Mad King stage play will have a production in London next year, but what about television audiences? Luckily, HBO has just given fans an exciting update on A Knight of the Seven Kingdoms ' future.
+Guy Ritchie has never been particularly interested in making polite British movies about polite British people.
 
-### Pokémon Go 'Pokémon Horizons The Series Celebration' 2026 event guide
-Wed, 16 Sep 2026 14:59:27 GMT — https://www.polygon.com/pokemon-go-horizons-the-series-celebration-2026-event-charmander-goggles/
+### Bloodborne Is Officially Back with a New Release — but There's a Catch
+Wed, 16 Sep 2026 19:20:46 GMT — https://www.polygon.com/bloodborne-sequel-super-groupies-new-collaboration-umbrella-fashion-merchandise/
 
-Pokémon Go is hosting yet another anime tie-in event, " Pokémon Horizons: The Series Celebration ." The 2026 version focuses on Charmander wearing Friede's iconic goggles , but you can find some other Pokémon featured in the anime during this event, too. This event runs from Sept. 16-22 .
+Despite being a PlayStation 4 exclusive released more than 11 years ago, Bloodborne still maintains an impassioned fanbase. All those good hunters are hungry for a sequel, or even just a remastered PS5 version at this point. Instead, they have had to dine on comics , soundtrack represses , and other "not quite what I was looking for" releases instead.
 
-### How Blizzard Quietly Revived Heroes of the Storm
-Wed, 16 Sep 2026 14:30:15 GMT — https://www.polygon.com/heroes-of-the-storm-interview-blizzcon-2026/
+### How a wellness craze inspired Pokemon
+Wed, 16 Sep 2026 19:06:30 GMT — https://www.polygon.com/video/how-a-wellness-craze-inspired-pokemon/
 
-In 2015, Blizzard developer James Yen, who got his start helping players as a World of Warcraft game master, joined the Heroes of the Storm team as his “first foray” into true game development. Blizzard had finally launched something to take on Dota 2 and League of Legends , games that spawned from a mode created during the heyday of Warcraft 3 custom games, and James Yen wanted to contribute. Unfortunately, Blizzard was late to the MOBA trend, and Heroes of the Storm didn’t become a genre-defining game like World of Warcraft and Overwatch .
+Pokemon came from a surprisingly sad period of Japan's history — the healing boom following an economic crisis. But that inspiration made the game what it is today. Find out how a late '90s wellness craze created Pokemon.
 
-### MindsEye Developer Seemingly Shutting Down after New Round of Layoffs
-Wed, 16 Sep 2026 14:17:45 GMT — https://www.polygon.com/mindseye-developer-build-a-rocket-boy-layoffs-studio-shutdown/
+### Epic X-Men Villain Is Absolutely Terrorizing Marvel’s Wolverine Players
+Wed, 16 Sep 2026 18:00:14 GMT — https://www.polygon.com/marvels-wolverine-omega-red-first-boss/
 
-Over a year after MindsEye 's disastrous launch, its developer appears to be going through another round of layoffs. Based on social media posts from former Build a Rocket Boy employees, it's possible the studio is getting shut down entirely.
+James "Logan" Howlett, also known as the superhero Wolverine, loves himself good whiskey. I, too, poured myself some whiskey the other night while fighting Omega Red, the startlingly challenging first boss in Marvel's Wolverine . It seems I'm far from alone here: As players start diving into the game, many seem surprised at just how much of a skill check Omega Red poses.
 
-### 'The Ring' quest walkthrough in The Blood of Dawnwalker
-Wed, 16 Sep 2026 14:05:04 GMT — https://www.polygon.com/blood-of-dawnwalker-the-ring-quest-walkthrough-farkas/
+### 'Spider-Man: Brand New Day' Is Officially the Highest Grossing Film in Domestic Box Office History
+Wed, 16 Sep 2026 17:16:15 GMT — https://www.polygon.com/spider-man-brand-new-day-highest-grossing-film-domestic-box-office/
 
-To complete "The Ring" quest in The Blood of Dawnwalker , you must decide whether to give Farkas his family heirloom or not. He'll be very upset if you don't… But then again, the amethyst ring does look a bit suspicious. Although you've just defeated Boyar Bakir, deciding his fate is nothing compared to this dilemma.
+Spider-Man is on top of the world. After 47 days in theaters, Spider-Man: Brand New Day has overtaken Star Wars: The Force Awakens to become the highest-grossing film in domestic box office history. Spidey reached $936.773 million on Tuesday, overtaking The Force Awakens ’ 936 million. The Star Wars film had held the title for more than a decade, having been released on Dec. 18, 2015.
 
-### HBO’s the Last of Us Is Officially Ending With Season 3
-Wed, 16 Sep 2026 14:00:07 GMT — https://www.polygon.com/last-of-us-hbo-season-3-ending/
+### Dragon Quest Celebrates 40th Anniversary by Passing a Huge Milestone
+Wed, 16 Sep 2026 17:13:34 GMT — https://www.polygon.com/dragon-quest-rpg-40th-anniversary-100-million-units-sold/
 
-It's the end of the road for The Last of Us at HBO. While the upcoming third season was already set to conclude the show's adaptation of the second game in Naughty Dog's acclaimed series, there was some hope it could continue on after. Those hopes have now been squashed by HBO's boss.
+On May 27, 1986, a company called Enix released a game called Dragon Quest in Japan. 40 years later, that company is now Square Enix and Dragon Quest has become one of the most popular and influential RPG series of all time. On this big anniversary, it is only fitting that the series crosses another major sales milestone.
 
-### Fire Emblem: Fortune's Weave Reviews Just Gave Nintendo Another Massive 2026 Win
-Wed, 16 Sep 2026 13:51:16 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-review-roundup/
+### New Resident Evil Movie Debuts to Near-perfect Rotten Tomatoes Score
+Wed, 16 Sep 2026 17:13:32 GMT — https://www.polygon.com/resident-evil-zach-creggers-rotten-tomatoes-review-roundup/
 
-Critics are almost unanimous in declaring that Fire Emblem: Fortune's Weave is superb, and a new high point for the long-running series of tactical role-playing games from Intelligent Systems and Nintendo. And they're 100% unanimous in saying that the game is absolutely enormous.
+Anticipation for Zach Cregger's Resident Evil movie adaptation has been through the roof leading up to its release. The director of Barbarian and Weapons has made some of the best horror movies of the decade, and both moviegoers and fans of the Resident Evil video games have hoped he could revitalize the horror franchise on-screen with an actual, honest-to-god good movie. Because while we've gotten a handful of Resident Evil movies over the years, none of them have actually been decent.
 
-### 'Coraline' Studio's New Film Is Already the Fantasy Movie Event of 2026
-Wed, 16 Sep 2026 12:30:14 GMT — https://www.polygon.com/wildwood-laika-behind-the-scenes-interviews/
+### 2025 Best Kart Racer Just Got Even Better, Thanks to This New Free Character
+Wed, 16 Sep 2026 17:12:02 GMT — https://www.polygon.com/sonic-racing-crossworlds-bayonetta-year-two-free-character/
 
-Earlier this year, Polygon was invited on a press trip to Laika headquarters for an early look at Wildwood , which releases in theaters on Oct. 23. Based on the bestselling children's fantasy novel by Colin Meloy, Wildwood tells the story of a young girl named Prue (Peyton Elizabeth Lee) who leaves her home in Portland and travels into a fantasy world to rescue her baby brother after he's kidnapped by a murder of crows. (That scene is in the trailer, and it's terrifying.) The film is directed by Travis Knight ( Masters of the Universe, Bumblebee, Kubo and the Two Strings ), who also serves as CEO of Laika.
+Sonic Racing: CrossWorlds came for Mario Kart's throne last year. Where Mario Kart World disappointed some with its underbaked open world and long straightaways, CrossWorlds was a tight, traditional kart racer whose races, ya know, went fast. In a year full of great kart racers , it was the one I returned to again and again, and its steady influx of new racers was certainly a factor. Several were added for free, and that strategy will continue in the game's second year of updates.
 
-### Critical Role Officially Gets a New Dungeon Master for Upcoming Video Game Crossover
-Wed, 16 Sep 2026 12:29:14 GMT — https://www.polygon.com/critical-role-daggerheart-control-resonant-new-game-master-zachery-renauldo/
+### Blizzard is Playing 4D Chess with Diablo 5's Early Reveal
+Wed, 16 Sep 2026 16:30:14 GMT — https://www.polygon.com/diablo-5-early-reveal-blizzard-diablo-4-future/
 
-One of the best things about Critical Role is that, even with a weekly program, you never really know what surprises the multimedia company has in store. They've had Magic: The Gathering battles, a 24-hour Sam Riegel livestream, and even how-to guides for the latest Daggerheart expansion, Hope & Fear .
+Talking about a project this early is not, currently, the done thing in the game industry. Blizzard knows better than most how early reveals can lead to overextended PR campaigns, delays, and frustrated fans, and has shied away from the tactic more recently. Bethesda's Todd Howard has admitted that he regrets announcing The Elder Scrolls 6 so early.
 
-### Fire Emblem Fortune's Weave Review: Nintendo's Best Game in Decades
-Wed, 16 Sep 2026 12:00:14 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-review/
+### Wardogs CEO Officially Addresses Crunch Allegations With ‘The Other Side'
+Wed, 16 Sep 2026 16:04:28 GMT — https://www.polygon.com/wardogs-ceo-joe-brammer-crunch-bulkhead-response/
 
-Not for the first time, I wondered why I decided to play on hard mode with a deadline looming. Not for the last time, my admiration for Fortune's Weave rose even further.
+In an interview with Chris Dring on The Game Business , Bulkhead CEO and Wardogs executive producer Joe Brammer made a statement about crunch culture at the studio. It was subsequently reported on by Game Developer , and later picked up by other outlets such as PC Gamer and IGN . In response, Brammer has addressed the "out of context articles" by laying out the "facts" in a post on X. See below:
 
 ## PC Gamer
+
+### MindsEye developer Build a Rocket Boy may finally be closing
+Wed, 16 Sep 2026 18:22:31 +0000 — https://www.pcgamer.com/gaming-industry/mindseye-developer-build-a-rocket-boy-may-finally-be-closing/
+
+MindsEye developer Build a Rocket Boy (BARB) appears to have undergone another round of layoffs, and these latest cuts could be fatal, as multiple people have indicated that all remaining employees are being let go. BARB has been struggling since the release of its startlingly bad (yet still strangely entertaining ) action-thriller MindsEye in 2025, a situation made outright bizarre by the studio's repeated claims that it was the victim of a sabotage campaign . The insistence on that narrative seemed to drive a wedge between BARB and original MindsEye publisher IO Interactive, which ultimately washed its hands of the whole thing ; updates continued to flow, including an execrable expansion that promised (and utterly failed to deliver) "evidence of the sabotage" that brought MindsEye low, but so did multiple rounds of layoffs and employee allegations of gross mismanagement and unauthorized employee surveillance . Taken altogether, and particularly given the unforgiving nature of the videogame industry, a bad ending for BARB seemed inevitable, and that point may now have been reached. "Unfortunately, along with the rest of my colleagues at Build a Rocket Boy, I am facing redundancy and now looking for a new opportunity," lead weapon and prop artist Adam Ridsdale wrote on LinkedIn . Principal talent acquisition partner Dan Hawkins shared a similar message , writing, "With a very heavy heart I raise my green banner, along with the rest of my colleagues at Build a Rocket Boy. I am
+
+### World of Warcraft: Forever beta launch times: How to sign up and play Blizzard's twist on WoW Classic
+Wed, 16 Sep 2026 17:20:51 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-beta-launch-times-how-to-sign-up-and-play-blizzards-twist-on-wow-classic/
+
+World of Warcraft: Forever is a new branch of the MMO that's making its debut this week in a month-long beta before the whole thing drops in November. It will be the first opportunity to experience some of the new quests, dungeons, and class abilities that Blizzard has added to a version of the MMO that will never move on past the original game. Here's everything you need to know about the WoW: Forever beta, how to get access, and what's available in it. When does the World of Warcraft: Forever beta start? The WoW: Forever beta begins on Thursday, September 17 on PC. Anyone who has preordered the Skyborne Epic Pack or the Warcraft Forever Collection will have access as soon as it opens. Blizzard hasn't posted exact times yet, but it typically launches WoW betas between 11 am PT to 3 pm PT. I'll update this post with the exact times as soon as they're available. You'll have about a month to try the game out before the beta ends on October 21. How to access the World of Warcraft: Forever beta There are two ways to get into the WoW: Forever beta. The first requires purchasing one of the two premium versions of the game from Blizzard's store . Both the Skyborne Epic Pack ($59.99) and the Warcraft Forever Collection ($79.99) will grant you beta access. Alternatively, you can leave it to chance and sign up for it on the WoW: Forever website by clicking the "Beta Opt-in" button at the top of the page. You can check if you have access to the WoW: Forever beta by opening the Battle.ne
+
+### GTA 5's 'Become a celebrity' mod is almost weirdly fully featured
+Wed, 16 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-5s-become-a-celebrity-mod-is-almost-weirdly-fully-featured/
+
+Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . You might have heard that I am Mark Zuckerberg now. This is true. Indisputable, even. But something isn't right—wherever he went, Zuckerberg Cool Original was recognised . He was a famous, or infamous man. When I stroll around Los Santos in Grand Theft Auto 5, even as the enormously wealthy owner of its barely-disguised Facebook parody, no one recognises me. No longer. I have installed the Become a Celebrity mod (coincidentally, from the same author as the LifeInvader Business Mod), with the aim of becoming a prominent man about town. As with the LifeInvader mod, it's actually rather impressive in its feature set: the mod measures your public approval and your overall fame on separate axes, and allows you to undertake little repeatable quests to change both. You start out, naturally, at zero fame, and the only things you can do to improve it are so-called "Z-lister" gigs. This means: busking. This means: busking upwards of 20 times at disparate locations scattered around Los Santos, each performance netting you about $500 and 0.5 fame points (which is not many fame points). This is fairly arduous, and made harder by all the flying cars , gang warfare , etcetera. Also, people don't seem to appreciate it. As Franklin stood on t
+
+### Balatro developer LocalThunk turns up on Discord to talk about the 1.1 update and life after burnout: 'I truly am having the best time making the game now'
+Wed, 16 Sep 2026 16:01:08 +0000 — https://www.pcgamer.com/games/card-games/balatro-developer-localthunk-turns-up-on-discord-to-talk-about-the-1-1-update-and-life-after-burnout-i-truly-am-having-the-best-time-making-the-game-now/
+
+It's been a good while since we last heard about Balatro's big 1.1 update—a year, almost to the day, since developer LocalThunk delayed it into 2026 . There's still no sign of it, but the community did catch sight of LocalThunk yesterday when he popped into the Balatro Discord to let everyone know that everything is going fine. "I'm happy the leaks are going over so well," LocalThunk wrote, referring to teases about the 1.1 update that he's been posting himself. For instance: (Image credit: Localthunk (Discord)) "I know you guys want to know as much as possible about 1.1 but I can't give away too much. I know it's taken a very long time and I've completely blown past the 2025 time frame but I promise I'm cooking in the way that is both best for me and ultimately for the game." That tracks back to LocalThunk's 2025 message about the 1.1 delay, in which he said he became "well and truly burned out" after going too hard for too long on Balatro's development. After taking an extended break, he "very slowly" eased back into the work and was approaching more like a hobby developer, avoiding deadlines and not "trying to force things creatively." He also expressed regret for announcing the then-2025 release target for the 1.1 update, a point he reiterated in his new message. "I understand how frustrating that must be and I wish I could go back in time and slap some sense into myself," Localtnunk continued. "At the time it was still go-go-go and I never even considered that I could al
+
+### Ex-MS engineer reveals the story behind the infamous 'FCKGW' Windows XP key: 'Pirates started baking the key into images or just writing it on the CD with a Sharpie'
+Wed, 16 Sep 2026 15:33:56 +0000 — https://www.pcgamer.com/software/windows/ex-ms-engineer-reveals-the-story-behind-the-infamous-fckgw-windows-xp-key-pirates-started-baking-the-key-into-images-or-just-writing-it-on-the-cd-with-a-sharpie/
+
+Ex-Microsoft engineer David Plummer has revealed that he was the "primary author" of Windows XP's Product Activation system on the OS side, and so he's got some inside details on the workings behind the infamous "FCKGW" product key . You know, the one that seemed to be written on every pirated, home-burnt CD copy of the OS back in the day. No clue? Me neither. I'm completely unaware of such illicit activity, and I reject any accusation otherwise. Anyway, the famous (and now defunct) key was, in its entirety, FCKGW-RHQQ2-YXRKT-8TG6W-2B7Q8—and Plummer thinks it may well have been leaked by an OEM or similar with early access to Microsoft's then-new, all-blue XP operating system. "As you likely recall, Product Activation required that you have a key, and you’d have to activate it online or over the phone," Plummer begins. "But Microsoft had large corporate customers... and those customers did not want to have to activate every offline PC." Said customers would be given a Volume Media disc image, which could then be unlocked with a Volume Key. To confirm the legitimacy of such an install, the product activation system would inspect the disc image to find a secret 10 MB "binary blob" which was only present on the Volume Media. As a fun aside, this data blob just happened to be an encrypted version of Microsoft Bob . "I took their disc data and compressed and encrypted it several times," says Plummer. "Rest assured it’s encrypted and even in the AI age no one has extracted it yet. 
+
+### Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director
+Wed, 16 Sep 2026 15:30:47 +0000 — https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/
+
+Microsoft, at this point, drips gore from head to toe. The megacorp has made a hobby of shuttering studios and laying off thousands of devs , in attempt after attempt to right the listing ship of its games business. No luck yet, on that front. You might wonder how Playground's upcoming Fable reboot, in the works for a decade now, has evaded its parent company's reign of terror. In a chat with The Guardian , Playground co-founder and Fable director Ralph Fulton offered up a pretty simple explanation: Fable's just that important. "I genuinely think Fable is an important game," said Fulton. "What has protected us over a long development cycle is that so many people within Xbox view Fable as vital to the DNA of the platform." That is to say, Fable is a potent Xbox brand, like Halo or Gears of War, and that's protected it from the chop. It fits the pattern of Microsoft's studio closures. Though the end of studios like Arkane Austin (rest in peace), Tango Gameworks (before it was picked up by Krafton ) and others felt brutal, they didn't strike at the heart of that amorphous thing you might call the Xbox brand. It did not claim the life of any character you might see plastered on a banner or standee at a Microsoft Gamescom booth. Honestly? I might not have instinctually put Fable in that bracket, but I can see why you might, and in that light I can believe that Xbox execs would be timid about hurting it. Fulton, mind you, doesn't just think Fable's importance starts and stops at Xb
 
 ### How to watch the PC Gaming Show Tokyo Direct 2026
 Wed, 16 Sep 2026 15:02:23 +0000 — https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/
@@ -363,37 +393,47 @@ Wed, 16 Sep 2026 11:34:37 +0000 — https://www.pcgamer.com/software/ai/we-cant-
 
 The great AI debate has heated up in recent weeks, amid calls from some industry figures for a slowdown in development—although others, like Nvidia CEO Jensen Huang, seem keen to dismiss many of those calls as simple doomsaying . Now, former US president Barack Obama has posted his thoughts on X regarding the issue, and it's something of a balanced take. "I was encouraged this week to see the leaders of the frontier labs agree on the need for them to slow down the pace of AI development. Given the stakes, it’s a good and necessary first step," said the former US commander in chief . "But I’m even more encouraged by the growing recognition that how this powerful new technology develops should be at the center of our public debate." While the former president said that it's clear to him "the potential impact of this technology is not overhyped," he also recognised that the industry is moving "at lightning speed—even faster than those who are engineering it can keep up with." "I’m not an AI accelerationist who believes it will lead to some techno-utopia, and I’m not a doomer who thinks it will inevitably lead to humanity’s destruction," Obama continued. "But whether this technology results in amazing breakthroughs in medicine, energy and education or unleashes huge economic disruptions, greater inequality, and potential catastrophe will depend on the choices that we make right now—choices that should be made not just by the companies involved, but by all of us." I was encouraged
 
-### Relic thought Company of Heroes 3's ambitious dynamic campaign would eventually come together, but it didn't: 'We bit off more than we could chew'
-Wed, 16 Sep 2026 11:29:21 +0000 — https://www.pcgamer.com/games/strategy/relic-thought-company-of-heroes-3s-ambitious-dynamic-campaign-would-eventually-come-together-but-it-didnt-we-bit-off-more-than-we-could-chew/
-
-When I got to play a sliver of Company of Heroes 3 's dynamic Italian campaign for the first time, it was hard not to be impressed. The team had taken all the best parts of Company of Heroes 2: Ardennes Assault, expanded it, and then added all sorts of novel new ideas. It felt like I was playing Total War: World War 2. A year later, once I'd been given unfettered access to the campaign for my review, I was less impressed. Player feedback had inspired Relic to remove one of the new features I dug the most—controllable detatchments—but there was a larger, more fundamental problem: the dynamic campaign wasn't dynamic. The fascists largely sat back and let me liberate Italy. The RTS battles remained incredible, and the second more traditional campaign was excellent, leading to me giving it a score of 82% in my Company of Heroes 3 review , calling it a "failed experiment but a great game". Broadly, though, the player reception was not great, and user reviews on Steam continue to sit at Mixed. "We set out to build the biggest Company of Heroes game ever," Relic CEO Justin Dowdeswell tells us. "More factions at launch. Two full campaigns playable at launch. I think it was an ambitious goal we set, and that showed up in some of the issues of launch around the level of polish and some of the bugs that the players were encountering. We didn't quite land it." The Italian campaign was conceived early in the game's development, but actually getting it to work was a "stumbling block" that 
-
-### Looks like SK hynix wants to make memory chips on US soil and it could work with Intel to do it
-Wed, 16 Sep 2026 11:14:14 +0000 — https://www.pcgamer.com/hardware/looks-like-sk-hynix-wants-to-make-memory-chips-on-us-soil-and-it-could-work-with-intel-to-do-it/
-
-It's no secret that the US administration, under President Trump, has been keen to get foreign chip manufacturing migrated closer to home. There are also benefits for Taiwanese and Korean chipmakers manufacturing in the US; of course, the least of which is avoiding the threat of tariffs. And now it seems SK hynix could be considering joining the likes of Samsung and TSMC by setting up shop to make chips on US soil. Specifically, this could be thanks to talks with Intel, Reuters says, according to "three people familiar with the discussions." This would either mean leasing some of Intel's planned Ohio fab or forming a joint venture with the company and cloud firms. This latter option is one that analyst Jukan reckons is the more important detail here: "Not many people are paying attention, but what matters in the Hynix and Intel news is that Hynix and Intel could form a JV with hyperscalers hungry for memory supply. That's more important than the Hynix and Intel news itself." If it did come in the form of a joint venture, it could bode well for both Intel and SK, as there would be shared risk and an entire shared infrastructure. It's not the first we've heard of this, as only a couple of weeks ago there were reports that SK could be considering using Intel Foundry to produce its base dies . Now there's just a lot more credence to these rumours, even if they are indeed still just rumours. It's also worth noting that SK hynix already has some production set up in the US, but tha
-
-### Full body tracking could come to Steam Frame courtesy of this supercharged Base Station-like device that doesn't require headset support
-Wed, 16 Sep 2026 11:12:57 +0000 — https://www.pcgamer.com/hardware/vr-hardware/full-body-tracking-could-come-to-steam-frame-courtesy-of-this-supercharged-base-station-like-device-that-doesnt-require-headset-support/
-
-The Steam Frame uses inside-out tracking to map your movements in virtual reality. That means it no longer requires any external setup to get you into VR. Great, right? But what if, instead of just the controllers and headsets, you want to track your entire body in virtual reality? That's what Soulart is looking to solve. Valve had previously relied on Base Stations to track the Valve Index. They are still in use today for a bunch of headsets from Bigscreen Beyond and Pimax, too. These Base Stations, made by both Valve and HTC, use infrared to track the absolute position of objects, namely headsets and controllers, and they can be used with trackers attached to objects or a person to track their movements in VR or on stream. There are other ways to track a user's body on stream, ie for VTubers, but Soulart's solution looks pretty neat for VR gaming. The company's device is a motion tracker, similar to a Base Station, except it runs independently of a PC using its own NPU. This can then be hooked into SteamVR to be used in any game that supports this level of motion tracking. VRChat is the main target. "With Soulart’s Motion Intelligence system, Station & App will transform your actions into a wide range of applications, such as VR games, motion-captures, simulations, and many more." The device, simply called Station, maps up to 50m2 and runs up to 120 Hz. It does admit that using machine learning can lead to "slightly higher latency and error." The company says only one is re
-
-### Warlock: Dungeons & Dragons won't have waypoints, so that players can figure things out without 'blindly trusting' a UI
-Wed, 16 Sep 2026 10:42:58 +0000 — https://www.pcgamer.com/games/action/warlock-dungeons-and-dragons-wont-have-waypoints-so-that-players-can-figure-things-out-without-blindly-trusting-a-ui/
-
-I have shifted from a position of 'really? A third-person action D&D game?' to cautiously optimistic about the upcoming Warlock: Dungeons & Dragons. Partially because of a really solid showing at Gamescom , actually leveraging the prospect of playing a spellcaster with a bunch of interesting interactions and some swanky-looking combat. My optimism continues to grow after an interview with IGN , in which general manager Dominic Guay tells the site that the game will be getting rid of traditional quest markers—there's a compass you can turn off, but that's about it: "We wanted them to engage with the world, to figure things out and feel that when they found things, it was based on their actions and not just blindly trusting a waypoint." While I'm not always opposed to a waypoint—it really depends on the kind of game—I can say that a surplus of hand-holding is always irritating. Developer Invoke Studios has lucked into a topical time to talk about this stuff, too, since such obnoxious waypointery has made us feel a lot better about not getting the PS5 exclusive Wolverine anytime soon. Guay continues that "the core team on this game have worked on other open world games before and we've done the, let's say, the heavy-handed guiding approach before. What ends up happening at some point—and it's normal—a lot of players will just [blindly follow] the waypoint, and then you lose that agency, you lose that feeling of curiosity because you're like, well, why even bother? And so we didn
-
-### Where have all the RTX 5090s gone? Stock of the high-end GPU is disappearing from US online retailers
-Wed, 16 Sep 2026 09:48:50 +0000 — https://www.pcgamer.com/hardware/graphics-cards/where-have-all-the-rtx-5090s-gone-stock-of-the-high-end-gpu-is-disappearing-from-us-online-retailers/
-
-Alas, my series 'I'd do anything for an Nvidia RTX 5090 at MSRP, but I won't do that' has been cancelled after one episode, on account of the fact the card has seemingly disappeared from most major US retailers. What remains are online listings from third-party sellers, often asking for a price even higher above MSRP, as spotted by Tom's Hardware . Previously, it's been cheaper for me to hop on an international flight to PAX West or QuakeCon , and pick up an RTX 5090 at the event for the $1,999/£1,939 MSRP than buy it anywhere else. This will come as no surprise for those who have been keeping track of our graphics card price watch , where we've seen the RTX 5090 go up 83% in price and even breach the $6,000 sound barrier. What our Dave most recently recommended as the cheapest option, this Gigabyte Windforce RTX 5090 from Newegg was $5,700 just last Thursday. Now it's a frankly offensive $9050 from a third-party reseller. The same card is sold out on Amazon and Best Buy . But the cheapest new RTX 5090 I've been able to find is the Asus TUF, again from a reseller, for $6,800 . Don't even get me started on how things are looking in the UK—though, for those curious, Dave's tireless efforts did find the Zotac RTX 5090 going for £3,940 from Scan . That's still too rich for my cup of tea. So, where is all the stock going? Well, some deep-pocketed consumers are definitely snapping up at least a few cards. Recent research suggests a trend that 'defies common wisdom', with folks buyi
-
-### Trails in the Sky 2nd Chapter has one of the creepiest JRPG monsters I've encountered
-Wed, 16 Sep 2026 07:00:00 +0000 — https://www.pcgamer.com/games/rpg/trails-in-the-sky-2nd-chapter-remake-has-one-of-the-creepiest-jrpg-monsters-ive-encountered/
-
-Let's face it: JRPG monsters are pure nightmare fuel. Sure, there's a certain subset who are plain ol' cute, but for the most part they're a horrifying mash up of real world animals and mythical monsters, chimeric creatures amalgamating whatever bits and pieces the artist decided to chuck in the blender that day. Not that I'm complaining, mind you—it wouldn't be a JRPG for me without them. I took absolute delight in Metaphor: ReFantazio's "humans" when I finally got around to playing it last Christmas, a wonderful take on the idea of what a monster even is, channeling Hieronymus Bosch's 500 year old paintings into some extremely distressing bosses. But I never thought I'd find a top tier creepy JRPG monster in a Trails game. The series does have its darker moments, but for the most part, it's pretty homely and rustic, following the lives of regular folk. Trails in the Sky in particular is very chill, as you wander around Liberl as Joshua and Estelle, completing requests and odd jobs to earn their Bracer stripes. However, while playing the Trails in the Sky 2nd Chapter Remake recently, I ran into a monster in Kaldia Tunnel in the game's Zeiss region who freaked me out. The Faerie Epitaph was in the original game and kind of resembles a melted angel statue, but with this full 3D remake, Falcom added a fun trick to this monster. The Faerie Epitaph doesn't move, at least, not when you're looking at it . As you can see in the video, it moves Weeping Angel-style, inching closer whe
-
 ## GameSpot
+
+### Metroid Ravenous Logo Memes Make Phrases Like Girl Dinner And They Took My Ass Look So Metal
+Wed, 16 Sep 2026 19:16:04 +0000 — https://www.gamespot.com/articles/metroid-ravenous-logo-memes-make-phrases-like-girl-dinner-and-they-took-my-ass-look-so-metal/
+
+Hype emanating from the reveal of Metroid Ravenous has translated into an onslaught of memes after a logo generator circulated online. If you're on Reddit or Bluesky, you may have seen the instantly iconic image of Samus Aran aggressively pinning down a mysterious enemy for consumption, but now accompanied by stupid text like "I ASKED FOR NO PICKLES" in the Metroid Ravenous font. The Pixelframe Design website unveiled a tool that lets anyone input any text and style it to look like the grainy and jagged Metroid Ravenous logo, with four options for the image background. Pixelframe Design previously made similar logo generators for games like GTA 6 , The Duskbloods , and famously, Pokopia . https://bsky.app/profile/pixelframe.bsky.social/post/3mvlab7xqde2o The apparent hook of Metroid Ravenous is Samus's need to kill and consume her enemies to survive. Naturally, that has led to food-related memes like a riff on the "55 burgers" scene from I Think You Should Leave, a reference to the viral concept of "girl dinner," or a simple but effective "Om Nom Nom" joke . Literally any wording you put into the generator will look more badass in this font. https://www.reddit.com/r/Metroid/comments/1whfq4q/hungry_samus_thats_it_thats_the_joke/ It's also been amusing to see other video game titles like Hello Kitty Island Adventure in the Ravenous font face, and several other of these memes are just vulgar and gross enough to be hilarious . Don't expect any of this to become official Nintendo 
+
+### Resident Evil Director Was In Horrible Pain Making The Movie
+Wed, 16 Sep 2026 19:15:13 +0000 — https://www.gamespot.com/articles/resident-evil-director-was-in-horrible-pain-making-the-movie/
+
+Resident Evil director Zach Cregger has revealed he was going through hell while making the movie, which is about a man going through hell. He told The Hollywood Reporter that he had pneumonia for the first half of filming on Resident Evil. For the second half of production, he had Campylobacter jejuni. This causes diarrhea, and man, that sucks for anyone, but especially if you're trying to film a big-budget, highly anticipated film based on a property with legions of fans and great expectations creatively and commercially. "So I was very, very ill for the whole production, and everything felt so barely in control because my body was failing me," Cregger explained. https://www.youtube.com/watch?v=mNd1gb19A-c Cregger said he credits his "wonderful, talented" department leads to help him through, while he also praised Resident Evil star Austin Abrams for going above and beyond. He said Abrams is "one of the most can-do, positive people I’ve ever met. I was spoiled by the people around me." Not only was Cregger physically sick while making Resident Evil, he had to deal with freezing-cold conditions in the north of the Czech Republic where the movie was filmed. "We froze our asses off," he said. This wasn't the first time Cregger was dealing with physical turmoil while making a movie. On his last film, Weapons, it was so hot and humid that he needed an IV and directed scenes remotely . Resident Evil releases on September 18, and it's expected to have a huge, record-setting openin
+
+### Resident Evil Is Now The Highest-Rated Gaming Movie Ever
+Wed, 16 Sep 2026 18:44:16 +0000 — https://www.gamespot.com/articles/resident-evil-is-now-the-highest-rated-gaming-movie-ever/
+
+The Resident Evil movie from Weapons and Barbarian director Zach Cregger releases in theaters on September 18. Reviews from critics went live today, and the movie is earning high scores. GameSpot's Resident Evil review scored it an 8 and said it successfully captures the breathless terror of the games. In fact, it's now the highest-rated video game movie ever. It boasts a mightily impressive 96% on Rotten Tomatoes from 71 reviews and an equally impressive 80 on GameSpot sister site Metacritic. According to Metacritic , Resident Evil is the highest-rated video game movie ever, well ahead of another 2026 movie, Exit 8, which has a 71 Metascore. https://www.youtube.com/watch?v=mNd1gb19A-c The six Resident Evil movies that Paul W.S. Anderson made did not score very high with critics, with 2016's The Final Chapter topping them all at 49% on Metacritic. The latest Resident Evil movie before Cregger's, 2021's Welcome to Raccoon City from director Johannes Roberts, scored a 44% on Metacritic. After that movie came out, Constantin, which has owned the movie rights to Resident Evil since the '90s, intended to put the franchise on hiatus . However, Cregger, coming off the success of Barbarian, pitched Constantin on his new, original take, and Constantin loved it so much that they put it into production. Video game movies had a track record of mediocrity at best for years, but the tide is turning in recent times. This could be for many different reasons, but some have theorized that part
+
+### Lego Batman: Legacy Of The Dark Knight Gives Harley Quinn An Arkham Asylum Makeover
+Wed, 16 Sep 2026 17:00:00 +0000 — https://www.gamespot.com/articles/lego-batman-legacy-of-the-dark-knight-gives-harley-quinn-an-arkham-asylum-makeover/
+
+Lego Batman: Legacy of the Dark Knight was a fun tribute to the Caped Crusader when it launched earlier this year, but if you're tired of saving Gotham, you can embrace chaos with two of the city's greatest villains: Harley Quinn and the Joker. The duo are headlining the game's Mayhem Collection expansion, and just like Batman, they're dressing in style with multiple outfits that you can unlock during their caper. GameSpot can exclusively reveal one of them: a classic costume for Harley Quinn, pulled directly from 2009's Batman: Arkham Asylum. And still one of Harley's best outfits. While Harley Quinn predominantly wore a jester's outfit throughout her appearances in Batman: The Animated Series and related comic books, Rocksteady's Arkham Asylum game saw her switch up her look dramatically for what can best be described as a doctor-themed dominatrix. Out with the spandex onesie, in with a repurposed doctor's outfit, leather corset, domino mask, and other elements that paid homage to her roots. In Lego Batman: Legacy of the Dark Knight, this costume is described as having prankster pigtails and a "chaotic" corset. https://www.youtube.com/shorts/2Gu8dw37ri4?feature=share In case you missed it, the Mayhem Collection draws heavily from Batman: The Animated Series, with developer TT Games calling the expansion a love letter to the landmark '90s show that introduced Harley Quinn as the Joker's sidekick. Fans can find several references to the series in the Mayhem Collection, along 
+
+### Fire Emblem: Fortune s Weave s Fantastic Reviews Have Me Feeling FOMO
+Wed, 16 Sep 2026 16:37:50 +0000 — https://www.gamespot.com/articles/fire-emblem-fortunes-weaves-fantastic-reviews-have-me-feeling-fomo/
+
+Here we go again: A new Fire Emblem game is garnering glowing reviews, and I'm thinking this could be the one that finally clicks with me. Launching tomorrow on Switch 2, Fire Emblem: Fortune's Weave sits at a fantastic 89 metascore (at the time of publication) on GameSpot's sister site Metacritic . That's good enough to place it No. 13 currently on Metacritic's list for best games of 2026 . In addition, GameSpot's Fire Emblem: Fortune's Weave review says this is "the new high point to beat for future entries." As someone who didn't plan to buy the strategy RPG, I'm now second-guessing myself. I have a history of buying well-reviewed Fire Emblem games, trying them out for maybe five hours, and then bouncing off them for something else. That was especially true of Fire Emblem: Three Houses on Switch in 2019. Before that, my first foray into the series came in 2013 with Fire Emblem Awakening on the Nintendo 3DS, if you don’t consider me maining Marth in Super Smash Bros. Melee. This is a game I still have downloaded on my 3DS XL, which sits in the drawer of my bedside table. I've tried so many times to engage with the game, only to stop after a couple of hours. Once again, I don't dislike the turn-based action, but for some reason, it never fully connects. I'm obviously in the minority, because Fire Emblem Awakening basically saved the entire series . Those previous encounters with the Fire Emblem franchise had me ignoring Fortune's Weave, until now. I see the high praise for t
+
+### Call Of Duty: Black Ops Dev Teases Something That Nobody s Ever Experienced Before
+Wed, 16 Sep 2026 16:10:32 +0000 — https://www.gamespot.com/articles/call-of-duty-black-ops-dev-teases-something-that-nobodys-ever-experienced-before/
+
+Veteran Call of Duty developer Treyarch is finishing up its work on Black Ops 7 and shifting to its next project, but what will that be? That remains to be seen, but Treyarch design director Kevin Drew said in a new Dev Talk video that it might not be what you expect. Drew said Treyarch has "learned a lot" working on 2024's Black Ops 6 and 2025's Black Ops 7 and "tried a lot of things in our current era." "But we're ready to make something new and something that nobody's ever experienced before," he said. That sounds hyperbolic and extreme, and Call of Duty studios are definitely known for grandiose claims. Treyarch created the Black Ops series, which debuted in 2010, and it remains one of the most popular brands within the franchise. In an unusual move, back-to-back Black Ops games came out in 2024 and 2025, and Treyarch itself admitted it did worry about franchise fatigue . EA's Battlefield 6 outsold Black Ops 7 in 2025 , with Black Ops 7 falling down to the No. 5 spot for the year, at least in the US. In another big shakeup for Call of Duty, and seemingly in a bid to sell more units, Microsoft announced that Call of Duty games will no longer be included with Xbox Game Pass at launch, beginning with this year's Call of Duty: Modern Warfare 4. Infinity Ward is leading development on Modern Warfare 4, though, as usual, Activision's network of Call of Duty studios, including Treyarch, are expected to contribute to the game's overall development. An interesting rumor making the
+
+### Fable Being Vital To The DNA Of Xbox Helped Shield The Game From Hardship, Director Says
+Wed, 16 Sep 2026 15:43:43 +0000 — https://www.gamespot.com/articles/fable-being-vital-to-the-dna-of-xbox-helped-shield-the-game-from-hardship-director-says/
+
+The Fable reboot in development at Playground Games has been in the works for a long, long time, and part of what's "protected" the game during the lengthy development cycle was that the franchise is so closely associated with Xbox. That's according to Fable game director Ralph Fulton, who told The Guardian , "I genuinely think Fable is an important game." "What has protected us over a long development cycle is that so many people within Xbox view Fable as vital to the DNA of the platform,” Fulton said. “I would go a step further and say it’s important to video games as a whole. It offers a combination of elements that simply doesn’t exist anywhere else.” https://www.youtube.com/watch?v=eUMgrbdTOLc While Fable may have been "protected," other Xbox games and studios cannot say the same. Throughout Fable's development period, Xbox shuttered studios, canceled games, and laid off staff. The latest round of cuts came this year, with Microsoft trimming 1,600 jobs, with another 1,600 layoffs still to come . Another dormant Xbox franchise, Perfect Dark, attempted its own reboot, but Microsoft canceled the game and shuttered its developer . Microsoft acquired Playground in 2018 . The studio worked on Forza Horizon racing games exclusively, and Fable is the studio's first non-Forza game. Playground created a second team internally to work on Fable, and Fulton said, "Building a team from scratch is the hardest thing you can do in video games." Playground is taking over for Lionhead, whi
+
+### Bloodborne May Not Be Getting A Sequel Or Remaster, But How About An Umbrella?
+Wed, 16 Sep 2026 15:11:45 +0000 — https://www.gamespot.com/articles/bloodborne-may-not-be-getting-a-sequel-or-remaster-but-how-about-an-umbrella/
+
+It never rains, but it does pour for Bloodborne fans holding out hope for some news on From Software's beloved game. Fortunately, you can take some shelter from that storm of disappointment with an official Bloodborne umbrella, and a few items for anyone wanting some souls-like couture in their wardrobe. Announced by the SuperGroupies fashion label , the Bloodborne collection includes an umbrella, necktie & tie clip set, card holder, laptop sleeve, and book cover. The "Childhood's Beginning" umbrella features illustrations of the Caryll Runes on the exterior and a silhouette of the Moon Presence floating in front of the red moon over a field of white flowers on the interior. Even though it's the most pointless piece of clothing ever designed, if you really need a necktie, you can get the Lady Maria-inspired tie and gaze at patterns inspired by the fan-favorite hunter. The matching tie clip is modeled after the lumenflower brooch from her cravat. For the Bloodborne accessories, you can round out your look with a book cover that reflects the Vileblood Register, a card holder embossed with Caryll Runes, and a laptop sleeve that features a flap shape and studs that subtly reference the iconic Hunter Hat. Preorders start on September 15, and these items are expected to ship out in mid-April 2027. Here's a breakdown of how much they'll cost: Childhood's Beginning Model Umbrella -- $126 Lady Maria of the Astral Clocktower Model Necktie & Tie Clip Set -- $126 Vileblood Register Model
 
 ### Resident Evil Director On Who Should Play Lady Dimitrescu In A Resident Evil Village Movie
 Wed, 16 Sep 2026 14:28:30 +0000 — https://www.gamespot.com/articles/resident-evil-director-on-who-should-play-lady-dimitrescu-in-a-resident-evil-village-movie/
@@ -413,54 +453,29 @@ After a successful rebrand earlier this year, the mood around Overwatch has been
 ### Zero Parades: Director s Cut Revealed And PS5 Edition Release Date Announced
 Wed, 16 Sep 2026 13:00:31 +0000 — https://www.gamespot.com/articles/zero-parades-directors-cut-revealed-and-ps5-edition-release-date-announced/
 
-Following the release of Zero Parades in May, developer ZA/UM Studio has announced a Director's Cut version, and it's coming soon as a free update for everyone, while the game's console edition is launching in November. The Director's Cut will release on October 1, while the PS4 version will release on November 3. The game has not been confirmed for Xbox or Switch, however. Coming soon. Representing the end of post-launch support on PC, the Director's Cut is free for all existing owners of Zero Parades, featuring "substantial new material" that the developer says makes the game feel "tangibly different" from the OG release. The centerpiece of the free Director's Cut update adds the Quisach Roundabout, which is a new Dramatic Encounter for Zero Parades. "Hershel Wilk and her old friend Ramses find themselves stoned out of their minds, behind the wheel of a hijacked tuk-tuk and seemingly unable to escape the Quisach Roundabout late at night. The objective seems simple enough. Take the right exit and head home," reads a line from the game's description. "Fail to do so, and well… things might get existential. And possibly fatal." The Director's Cut includes about 40,000 words of new material. Also coming in the Director's Cut is the "Backstage," which allows players to experience earlier versions of select levels from Zero Parades. Players will be able to explore these locations and see how they changed for the finished game. The Backstage will also highlight examples of the "tec
-
-### This Is How Blizzard Is Reducing Toxicity In Overwatch
-Wed, 16 Sep 2026 11:22:42 +0000 — https://www.gamespot.com/articles/this-is-how-blizzard-is-reducing-toxicity-in-overwatch/
-
-For years, Overwatch had an infamous player toxicity problem. A few years after its successful 2016 debut, the problem became especially bad whenever a new hero was added to the game, and that was an issue Blizzard wanted to solve. How did it do that? By simultaneously dropping five heroes into the game earlier this year, as part of Overwatch 2's rebuild. Alongside the game's first year-long story arc, The Reign of Talon, this gamble paid off when Blizzard discovered that toxicity within the player community dropped significantly as users focused more on curiosity and experimentation. "[At the] start of 2026, we announced 10 heroes, and five of them launched in Season 1," game director Aaron Keller said to GameSpot at BlizzCon . "People were like, 'how do you how do you play all these heroes, you know, like what's this game, what's the meta going to be, what's it going to turn into?' We even saw toxicity went down measurably in the game when those five heroes went in, because people were just having fun trying to experience all of that. "This year also we're releasing a new hero every single season, so you get that moment again where there's a little bit more to learn. [The] start of this year, we had a big moment. We have these little ones over the course of the year, and then we're going to do it all again at the start of 2027, and we're just going to like keep going that way in the future." https://www.youtube.com/watch?v=1RAY6jF8DoI Overwatch's next hero , Doctrine, was r
-
-### New PS5 Update Is Out Now, And Sony Actually Added Some New Features
-Wed, 16 Sep 2026 10:11:40 +0000 — https://www.gamespot.com/articles/new-ps5-update-is-out-now-and-sony-actually-added-some-new-features/
-
-A new PS5 firmware update has arrived, and it's upgrading the console with more than just extra stability. Firmware update version 26.06-14.00.00 offers a new tweak for the PS5 Pro console, voice chat improvements, and tweaks to longstanding features. Here's a breakdown of everything. For PS5 Pro owners, the update will now see the option for enhanced PlayStation Spectral Super Resolution (PSSR) turned on by default. When this is active, it will allow games to run with sharper, smoother visuals, and it also works with games that support the previous version of PSSR. If you're feeling social, you can also see who's talking when a voice chat group is active--which should come in very handy for games like Big Walk . You'll need to turn this option on, but it's easy to do, and the instructions are listed below. Additionally, new widgets have been added to the home screen. These include a trending tab for new game releases or games with major content updates, as well as multiplayer games and popular multiplayer modes. Bluetooth features for PS5 consoles have been changed depending on which country you reside in, and to cap things off, system software performance and stability have been further improved. This is easily the biggest PS5 firmware update since March , when PS5 Pro consoles received the enhanced version of PSSR . This week's enhancements arrive ahead of a very busy gaming season, as the PS5 exclusive Marvel's Wolverine has launched and other big games on the horizon inc
-
-### Microsoft Reacts To Xbox Game Pass Rumor That Could Change The Service In A Big Way
-Tue, 15 Sep 2026 19:46:50 +0000 — https://www.gamespot.com/articles/microsoft-reacts-to-xbox-game-pass-rumor-that-could-change-the-service-in-a-big-way/
-
-Microsoft has released a statement in response to a new rumor that claims the company is considering a massive shakeup to Xbox Game Pass in 2027 that would include numerous significant changes. ResetEra user Slayven , who has accurately reported on unannounced Xbox news before , said the changes could include the bifurcation of Game Pass into two tiers: one with ads and one without. The tier with ads would be $13/month, while Game Pass without ads would cost $20/month, according to the report. Xbox Game Pass could see a big shakeup. That's $3/month less than Game Pass Ultimate currently, and the price cut is reportedly reflective of another big change: Microsoft is reportedly removing day-one new releases from Game Pass starting in the February-April window of 2027. The rumor also stated that cloud-streaming access is being taken out of Game Pass, but people can pay for a $6 add-on that gets you 25 hours. Additionally, the report said a Family Plan will be available for an extra $6/month. Beyond all of this, the report claimed there will be a tier of Game Pass that costs $15/month, and for that, people will get access to select titles in the Game Pass library, along with online multiplayer. Finally, it was reported that Microsoft will also offer a $11/month membership that provides access to online multiplayer alone. Microsoft responded to the rumor in a statement to GameSpot, originally obtained by Paul Tassi of Forbes . The statement reads: "We regularly test different Game
-
-### James Pond Legacy Situation Is More Than Meets The AI
-Tue, 15 Sep 2026 18:59:19 +0000 — https://www.gamespot.com/articles/james-pond-legacy-situation-is-more-than-meets-the-ai/
-
-Last month, System 3 Software released a trailer for James Pond Legacy, a four-game collection for Nintendo Switch 2. But the gameplay footage was largely overshadowed by accusations its developer used generative AI to create the game's promotional artwork and cover. System 3 followed this trailer up with a blog post asserting that generative AI was not used in the development process for James Pond Legacy, but some wires were evidently crossed. https://www.youtube.com/watch?v=CFggndxGZk0 If you go back and watch that trailer, it's not difficult to see why viewers pointed out the AI-like quality of the 3D characters adorning the game's box art and other promotional material. When System 3 responded to the accusations with the assertion that "no generative AI was used in the creation of the artwork," referring specifically to the Bovine Bomber character, this was based on the information it was given at the time by Antstream, the studio that handled the collection's actual development. "That was the statement that we were given at the time by Antstream," System 3 CEO Mark Cale told GameSpot during a call. "We weren't involved in the process. They supplied all of the artwork and they supplied, in the process, the [work-in-progress] illustration. All of that was given to us." Cale later provided GameSpot with the statement it received back in December from Antstream, well before the trailer was made public. "The art pipeline on some non-in-game assets includes algorithm-assisted
-
-### The Last Of Us Season 3 Is Probably The Final Season, HBO Says Yet Again
-Tue, 15 Sep 2026 18:07:06 +0000 — https://www.gamespot.com/articles/the-last-of-us-season-3-is-probably-the-final-season-hbo-says-yet-again/
-
-HBO boss Casey Bloys has once again said that the upcoming third season of The Last of Us is expected to be its last. He told Deadline that Season 3 is coming in 2027, though did not confirm when in the year. Asked if he still think it's the final season, Bloys said he believes showrunner Craig Mazin "has planned it as the final season." In January this year, Bloys was asked if Season 3 is going to be the last, and he said, "It certainly seems that way." However, at the time, Bloys admitted that a decision like that would come down to Mazin. https://www.youtube.com/watch?v=uLtkt8BonwM Before this, Mazin said that Season 4 was essential to bring the show to a conclusion. However, Bloys has indicated that the show may wrap up its run with Season 3 , which could be a longer season. “Craig is still working it out whether it will be two more seasons or one more long season. It hasn’t been decided yet, and I’m following Craig’s lead on that,” Bloys said in 2025. In a big shift for the series, franchise creator Naughty Dog is not involved creatively in Season 3 , and Neil Druckmann dropped out as a writer/director. People have speculated about what this could mean, but Druckmann, for his part, said he left the show to focus on his work on Naughty Dog's games. He is currently directing Intergalactic: The Heretic Prophet , and if it's true that Naughty Dog is also making The Last of Us 3 , he's probably involved in that, too.
-
-### Xbox Game Pass Gets 12 More Games In September
-Tue, 15 Sep 2026 16:19:19 +0000 — https://www.gamespot.com/articles/xbox-game-pass-gets-12-more-games-in-september/
-
-The second wave of games coming to Xbox Game Pass in September has been revealed, and we've also gotten a sneak peek at what's coming in early October. In total, there'll be 12 games headed to Xbox and PC Game Pass libraries, joining September's wave of new arrivals. A few games are also leaving Game Pass on September 30 , so you only have a few more weeks to check out some gems like Atomfall and Sifu. Here's a closer look at what you can download soon. Several day-one games are launching this month, and Game Pass subscribers can check them out, starting with Kernel Hearts on September 17. This magical adventure should scratch several genre itches, as it's billed as an action-RPG with roguelike elements and optional multiplayer co-op. The dark fairy-tale metroidvania Well Dweller arrives on September 22, and you can enter a new dimension in Minecraft Dungeons II when it arrives on September 29. Between those games, there are a few legacy releases to check out. If you need pure action, Ninja Gaiden 4 is an easy recommendation, and Marvel Cosmic Invasion joins Game Pass Premium this month if you want an old-school arcade brawler to play. Another notable release is Dune: Awakening , as the open-world survival game launches in full on PC and console on September 22. This version includes all the enhancements from its early-access journey, as well as a full single-player mode to experience. https://www.youtube.com/watch?v=EGq8TEZ5XQM&pp=0gcJCf4LAYcqIYzv Xbox Game Pass September Wa
-
-### Xbox Game Pass Removes 8 More Games Very Soon
-Tue, 15 Sep 2026 16:24:58 +0000 — https://www.gamespot.com/articles/xbox-game-pass-removes-8-more-games-very-soon/
-
-Microsoft has announced the second wave of removals from Xbox Game Pass this month, and eight more games are heading out soon. Earlier this month, Microsoft removed 10 games from Game Pass , so a total of 18 games are being removed this month alone. Titles set for removal on September 30 include Atomfall, Lara Croft and the Guardian of Light, Sifu, and Little Nightmares 2 Enhanced Edition. Other games getting dumped include SOPA Tale of the Stolen Potato, Sworn, Little Rocket Lab, and Terminull Brigade. In terms of new additions to Game Pass for September and early October , there are many on the way, including big-name day-one new releases Minecraft Dungeons II (September 29) and Gears of War: E-Day (October 6). Another Call of Duty game joins the service in September as well, with 2024's Call of Duty: Black Ops 6 coming to Game Pass on September 25. Atomfall is leaving Game Pass at the end of September. Game Pass removals for September 30 Atomfall (Cloud, Console, and PC) Lara Croft and the Guardian of Light (Cloud, Console, and PC) Little Nightmares 2 Enhanced Edition (Cloud, Console, and PC) Little Rocket Lab (Cloud, Console, and PC) Sifu (Cloud, Console, and PC) SOPA Tale of the Stolen Potato (Cloud, Console, and PC) Sworn (Cloud, Console, and PC) Terminull Brigade (Cloud, Console, and PC)
-
-### Big GTA 6 News Could Be Coming Up Soon
-Tue, 15 Sep 2026 15:58:42 +0000 — https://www.gamespot.com/articles/big-gta-6-news-could-be-coming-up-soon/
-
-It appears some GTA 6 news is coming up soon, and it could be focused on the game's music. A variety of musicians have released GTA-inspired teasers, and people are theorizing it's tied to some kind of music reveal for the game. Country pop singer Morgan Wallen released an image showing GTA-inspired visuals of a pool with no water in it. Rapper Travis Scott, meanwhile, shared his own GTA-inspired image of high heels on a pole . He wrote, "See yall soon," and tagged Rockstar Games in his post. Before this, fans thought they spotted GTA 6 references in own of Scott's music videos . The record label Freebandz, meanwhile, posted its own image of a car with the Leonida license plate "VCE BBY." You can see all the teasers below, and we'll any additional ones if they come. Keith Richards of the Rolling Stones released a teaser as well. https://twitter.com/MorganWallen/status/2099880521727635464 https://www.instagram.com/p/DdT73c5ubnj/ https://www.instagram.com/freebandz/p/DdUC6hqtkEI/?hl=en https://twitter.com/officialKeef/status/2099891055814734185 https://www.instagram.com/p/DdUFuFeuzOI/ Music has always been a big part of the GTA series, and that trend is expected to continue with GTA 6. The franchise is known for its numerous in-game radio stations featuring real, licensed music from world-famous artists. It was previously rumored that GTA 6 will feature people like DJ Khaled hosting his own in-game radio station . Drake, meanwhile, may have his own station, too . GTA 6 launches
+Following the release of Zero Parades in May, developer ZA/UM Studio has announced a Director's Cut version, and it's coming soon as a free update for everyone, while the game's console edition is launching in November. The Director's Cut will release on October 1, while the PS5 version will release on November 3. The game has not been confirmed for Xbox or Switch, however. Coming soon. Representing the end of post-launch support on PC, the Director's Cut is free for all existing owners of Zero Parades, featuring "substantial new material" that the developer says makes the game feel "tangibly different" from the OG release. The centerpiece of the free Director's Cut update adds the Quisach Roundabout, which is a new Dramatic Encounter for Zero Parades. "Hershel Wilk and her old friend Ramses find themselves stoned out of their minds, behind the wheel of a hijacked tuk-tuk and seemingly unable to escape the Quisach Roundabout late at night. The objective seems simple enough. Take the right exit and head home," reads a line from the game's description. "Fail to do so, and well… things might get existential. And possibly fatal." The Director's Cut includes about 40,000 words of new material. Also coming in the Director's Cut is the "Backstage," which allows players to experience earlier versions of select levels from Zero Parades. Players will be able to explore these locations and see how they changed for the finished game. The Backstage will also highlight examples of the "tec
 
 ## Rock Paper Shotgun
+
+### "15 years ago, people understood it was an unfinished game": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed
+Wed, 16 Sep 2026 16:57:25 +0000 — https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed
+
+Amplitude have always used early access for their games, even before Steam Early Access was a thing. Ahead of Endless Space 's release in July 2012, players who preordered the game got immediate access to an alpha build that was steadily patched and updated on the lead up to launch. To this day, the studio still uses its Games2Gether program, where they discuss design issues with players and poll them for thoughts on how to proceed. Right now, there are a small group of players giving feedback on the recently announced Humankind 2. However, as Amplitude prepare to launch Endless Legend 2 after a year in early access , co-founder and CEO Romain de Waubert de Genlis readily admits "The whole thing has changed over time." Read more
+
+### Low poly horror Tumblebee combines the joy of tumbling bees with the not-joy of being chased by huge spiders
+Wed, 16 Sep 2026 16:13:56 +0000 — https://www.rockpapershotgun.com/low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees-with-the-not-joy-of-being-chased-by-huge-spiders
+
+For the last few years I've been labouring to transform my terror of spiders into guarded appreciation, even wonder. I've been drawing pictures of spiders, and writing stories about them. When I spy a spyder (spider) in the wild, I make a strenuous display of hunkering down to utter words like "ooh, what a beautiful False Widow, such poetry of form". Then the spider moves a fraction, and I hoot and holler on out of there, pawing imaginary silk strands from my face. Videogames like Tumblebee are not helping with this endeavour. Read more
+
+### Dog in the Machine reinvents the domino tactics of Into The Breach as a mecha dog show, with players teaching their hounds tricks
+Wed, 16 Sep 2026 15:20:00 +0000 — https://www.rockpapershotgun.com/dog-in-the-machine-reinvents-the-domino-tactics-of-into-the-breach-as-a-mecha-dog-show-with-players-teaching-their-hounds-tricks
+
+If the organisers of Crufts ever have to produce a season of Robot Wars, the results probably won't be a million miles away from Dog in the Machine - a new turn-based tactics puzzler that's sort of Into The Breach but with a greater emphasis on props and tricks. Read more
 
 ### MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's "helping wrap things up here in the HR department"
 Wed, 16 Sep 2026 14:50:26 +0000 — https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department
 
-Build a Rocket Boy (BARB), makers of panned futuristic action game/massive minigame platform MindsEye , appear to be making more staff redundant or able to seek other work. As part of a LinkedIn post indicating he's seeking opportunities elsewhere, a principal talent acquisition partner at the studio has written that he "will be seeing BARB through till the very end, helping wrap things up here in the HR department", which doesn't exactly paint a rosy picture of the company's future. Read more
+Update: The IWGB Games Worker Union have issued the following statement to RPS from vice-chair Ben Newbon: We cannot add any further insight into the heartbreaking job losses at BARB, a company that we think has been slowly spiralling for a long time. We came together to fight tooth and nail to prevent the hardworking people working there from such a fate after pouring their heart and soul into Minds Eye. We are proud of what we built there but still hearing of redundancies is always an injustice. We offer nothing but solidarity and support to everyone impacted by any job losses and remain committed to getting justice for BARB management&rsquo;s treatment of workers and organising to root these practices out of the video games industry. Only by joining and becoming active in a trade union can we achieve these goals. Original story follows: Build a Rocket Boy (BARB), makers of panned futuristic action game/massive minigame platform MindsEye , appear to be making more staff redundant or able to seek other work. As part of a LinkedIn post indicating he's seeking opportunities elsewhere, a principal talent acquisition partner at the studio has written that he "will be seeing BARB through till the very end, helping wrap things up here in the HR department", which doesn't exactly paint a rosy picture of the company's future. Read more
 
 ### "A dried husk of a product": former Doom producer berates Microsoft for making Halo a "mid-tier" game and mourns the "financialisation" of AAA
 Wed, 16 Sep 2026 13:30:00 +0000 — https://www.rockpapershotgun.com/a-dried-husk-of-a-product-former-doom-producer-berates-microsoft-for-making-halo-a-mid-tier-game-and-mourns-the-financialisation-of-aaa
@@ -501,19 +516,4 @@ A few weeks ago, when I spoke with Tim Willits, chief creative officer at Saber 
 Tue, 15 Sep 2026 15:25:04 +0000 — https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule
 
 Bungie have announced that the Marathon update originally slated to arrive on September 22nd will not be doing so. Instead, it'll rock up in December as part of a major update dubbed Symbiosis, which'll introduce a new permanent PvE mode. Bungie are pegging it as "the first major step in Marathon &rsquo;s next chapter" and have decided to ditch their established seasonal cadence for additions as part of this raft of changed plans. Read more
-
-### Paradox's grand strategy game Afterworld hasn't got a fixed history, it changes with every playthrough
-Tue, 15 Sep 2026 15:00:00 +0000 — https://www.rockpapershotgun.com/paradoxs-grand-strategy-game-afterworld-hasnt-got-a-fixed-history-it-changes-with-every-playthrough
-
-Each time you start a new campaign in Afterworld, Paradox's upcoming post-apocalyptic grand strategy game , a tiny virtual historian cracks their knuckles and gets to work writing a new 200-year history for what happened to North America in the dying days of the great war. They will decide where the great powers fired their nuclear-tipped missiles, where they released their clouds of flesh-eating nanites, where they dropped their lung-bubbling chemical weapons, and they will decide who survived and who died. These procedural changes should mean that each time you start a new game of Afterworld, the map will be dramatically different from the last. That flexibility to rewrite the surface of Afterworld is vital, game director Dan Lind tells me, "Otherwise it undermines a lot of the exploration". Read more
-
-### European Commission's proposed EU Kids Act could see online games forced to enact stricter age verification amid new rules around accounts for under 15s
-Tue, 15 Sep 2026 14:30:00 +0000 — https://www.rockpapershotgun.com/european-commissions-proposed-eu-kids-act-could-see-online-games-forced-to-enact-stricter-age-verification-amid-new-rules-around-accounts-for-under-15s
-
-The European Commission are reportedly set to propose new rules around how under 15s access the likes of social media, AI chatbots, and online video games. Dubbed the EU Kids Act, the proposed legislation in its current form demands the setting up of a tiered system governing the types of accounts children under 15 can create to access such services. As with the UK's Online Safety Act , that'd result in the rolling out of age verification hoops everyone has to jump through to access these allegedly risky platforms. Read more
-
-### Lies of P's sequel is a Wizard of Oz homage called Wonders of O, going by a Neowiz trademark, and probably not a videogame based on a famous work of French erotica
-Tue, 15 Sep 2026 13:57:24 +0000 — https://www.rockpapershotgun.com/lies-of-ps-sequel-is-a-wizard-of-oz-homage-called-wonders-of-o-going-by-a-neowiz-trademark-and-probably-not-a-videogame-based-on-a-famous-work-of-french-erotica
-
-Earlier this week, trademarks were spotted over at the European Union Intellectual Property Office for a videogame or videogame-related Something called 'Wonders of O'. The trademarks were registered by South Korean company Neowiz, who also happen to be the publishers of excellent puppet-powered soulslike Lies of P . Given the shared title format, online sleuthyfolks have wasted no time identifying the project as the Lies of P sequel developers Round 8 teased back in 2024 , alongside an untitled horror game. Read more
 
