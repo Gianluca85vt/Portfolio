@@ -4,7 +4,6 @@ date: 2026-09-16
 category: Games
 excerpt: Team Ninja's alpha demo runs to 30 September and says outright that the character creator is in progress. That is the last cheap moment to move a body rig.
 cover: /img/blog/wo-long-2-alpha-demo-character-creator/shot-01.jpg
-draft: true
 ---
 
 Koei Tecmo dated Wo Long 2: Wings of Ember for 4 March 2027 and, in the same
