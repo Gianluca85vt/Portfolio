@@ -127,46 +127,79 @@ export async function buildCard(slug, root = process.cwd()) {
       .toBuffer();
   }
 
-  const size = title.length > 70 ? 62 : title.length > 45 ? 72 : 84;
-  const lines = wrap(title, size, W - 130);
-  const lineHeight = size * 1.12;
+  // A news card now, not a title over a photo: the summary is on the image so
+  // it says something on its own in the feed, and a line at the foot sends the
+  // reader to the blog. The summary is the article's own excerpt, capped at 250
+  // characters — long enough to inform, short enough to stay legible at the
+  // size Instagram renders a feed image.
+  const rawSummary = (data.excerpt ?? '').replace(/\s+/g, ' ').trim();
+  const summary =
+    rawSummary.length > 250
+      ? `${rawSummary.slice(0, 249).replace(/\s+\S*$/, '')}…`
+      : rawSummary;
 
-  // The text block sits low, so the crop keeps whatever the cover put in the
-  // middle. It is laid out from its last baseline upward.
-  const blockBottom = H - 190;
-  const firstBaseline = blockBottom - (lines.length - 1) * lineHeight;
+  const M = 72; // left margin
+  const size = title.length > 70 ? 56 : title.length > 45 ? 64 : 74;
+  const titleLH = size * 1.1;
+  const titleLines = wrap(title, size, W - M * 2);
+
+  const sumSize = 33;
+  const sumLH = 45;
+  const summaryLines = summary ? wrap(summary, sumSize, W - M * 2) : [];
+
+  // The call to action lives under a hairline at the foot; the headline and
+  // summary are a single block sitting just above it, laid out bottom-up.
+  const ruleY = H - 138;
+  const gap = summaryLines.length ? 28 : 0;
+  const titleH = titleLines.length * titleLH;
+  const totalH = titleH + gap + summaryLines.length * sumLH;
+  const blockTop = ruleY - 48 - totalH;
+
+  const titleFrom = blockTop + size;
+  const sumFrom = blockTop + titleH + gap + sumSize;
 
   const overlay = Buffer.from(`
 <svg width="${W}" height="${H}" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#18011F" stop-opacity="0.10"/>
-      <stop offset="40%"  stop-color="#18011F" stop-opacity="0.42"/>
-      <stop offset="68%"  stop-color="#18011F" stop-opacity="0.90"/>
-      <stop offset="100%" stop-color="#18011F" stop-opacity="0.98"/>
+      <stop offset="0%"   stop-color="#0C0510" stop-opacity="0.30"/>
+      <stop offset="38%"  stop-color="#0C0510" stop-opacity="0.52"/>
+      <stop offset="60%"  stop-color="#0C0510" stop-opacity="0.90"/>
+      <stop offset="100%" stop-color="#0C0510" stop-opacity="0.98"/>
     </linearGradient>
   </defs>
 
   <rect width="${W}" height="${H}" fill="url(#shade)"/>
 
-  <rect x="65" y="${firstBaseline - size - 78}" width="86" height="7" fill="${accent}"/>
-  <text x="65" y="${firstBaseline - size - 34}"
-        font-family="DejaVu Sans, Verdana, sans-serif" font-size="30" font-weight="bold"
-        letter-spacing="5" fill="#D7E2EA" fill-opacity="0.85">${esc(category.toUpperCase())}</text>
+  <text x="${M}" y="88" font-family="DejaVu Sans, Verdana, sans-serif" font-size="32"
+        font-weight="bold" letter-spacing="9" fill="#FFFFFF" fill-opacity="0.94">BACKDROP</text>
 
-  ${lines
+  <rect x="${M}" y="${blockTop - 70}" width="78" height="6" fill="${accent}"/>
+  <text x="${M}" y="${blockTop - 30}"
+        font-family="DejaVu Sans, Verdana, sans-serif" font-size="28" font-weight="bold"
+        letter-spacing="5" fill="#D7E2EA" fill-opacity="0.9">${esc(category.toUpperCase())}</text>
+
+  ${titleLines
     .map(
       (l, i) =>
-        `<text x="65" y="${firstBaseline + i * lineHeight}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="${size}" font-weight="bold" fill="#FFFFFF">${esc(l)}</text>`
+        `<text x="${M}" y="${titleFrom + i * titleLH}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="${size}" font-weight="bold" fill="#FFFFFF">${esc(l)}</text>`
     )
     .join('\n  ')}
 
-  <text x="65" y="${H - 92}"
-        font-family="DejaVu Sans, Verdana, sans-serif" font-size="34" font-weight="bold"
-        letter-spacing="9" fill="#FFFFFF" fill-opacity="0.92">BACKDROP</text>
-  <text x="65" y="${H - 52}"
-        font-family="DejaVu Sans, Verdana, sans-serif" font-size="24"
-        letter-spacing="1" fill="#D7E2EA" fill-opacity="0.5">gianlucascattarella.it</text>
+  ${summaryLines
+    .map(
+      (l, i) =>
+        `<text x="${M}" y="${sumFrom + i * sumLH}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="${sumSize}" fill="#D7E2EA" fill-opacity="0.92">${esc(l)}</text>`
+    )
+    .join('\n  ')}
+
+  <line x1="${M}" y1="${ruleY}" x2="${W - M}" y2="${ruleY}" stroke="#D7E2EA" stroke-opacity="0.26" stroke-width="2"/>
+  <text x="${M}" y="${ruleY + 52}"
+        font-family="DejaVu Sans, Verdana, sans-serif" font-size="27" font-weight="bold"
+        letter-spacing="2" fill="#FFFFFF" fill-opacity="0.95">Read the full piece — link in bio</text>
+  <text x="${M}" y="${ruleY + 90}"
+        font-family="DejaVu Sans, Verdana, sans-serif" font-size="23"
+        letter-spacing="1" fill="#D7E2EA" fill-opacity="0.55">gianlucascattarella.it/blog</text>
 </svg>`);
 
   const out = join(root, 'public/img/blog', slug, 'social.jpg');

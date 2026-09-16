@@ -82,20 +82,29 @@ async function graphGet(path, params = {}) {
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function postToFacebook(article) {
+  const tags = (TAGS[article.category] ?? []).join(' ');
+  // Facebook shows the whole thing and its links are clickable, so the summary
+  // goes in the post itself, with the hashtags under it.
+  const message = [article.title, '', article.excerpt, '', tags]
+    .filter((line, i) => line !== '' || i > 0)
+    .join('\n')
+    .trim();
+
   return graph(`${process.env.META_PAGE_ID}/feed`, {
-    message: `${article.title}\n\n${article.excerpt}`,
+    message,
     link: article.url,
   });
 }
 
 async function postToInstagram(article) {
   const tags = (TAGS[article.category] ?? []).join(' ');
+  // The card already carries the headline and the summary, so the caption does
+  // not repeat them — it points at the blog (Instagram makes no link
+  // clickable, hence "link in bio") and carries the hashtags.
   const caption = [
     article.title,
     '',
-    article.excerpt,
-    '',
-    'Full piece at gianlucascattarella.it — link in bio.',
+    'Read the full piece on the blog — link in bio.',
     '',
     tags,
   ].join('\n');
