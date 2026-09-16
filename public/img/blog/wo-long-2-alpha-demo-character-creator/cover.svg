@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Wo Long 2 alpha demo, character creator in progress">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#3A0F1E"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- slider rows, standing in for a character creator panel -->
+  <g stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="5" stroke-linecap="round">
+    <line x1="150" y1="120" x2="640" y2="120"/>
+    <line x1="150" y1="180" x2="640" y2="180"/>
+    <line x1="150" y1="240" x2="640" y2="240"/>
+    <line x1="150" y1="300" x2="640" y2="300"/>
+  </g>
+  <g fill="#FFFFFF" fill-opacity="0.55">
+    <circle cx="410" cy="120" r="14"/>
+    <circle cx="540" cy="180" r="14"/>
+    <circle cx="255" cy="240" r="14"/>
+    <circle cx="470" cy="300" r="14"/>
+  </g>
+
+  <!-- a rough body silhouette on the right -->
+  <g fill="#FFFFFF" fill-opacity="0.14">
+    <circle cx="910" cy="120" r="46"/>
+    <path d="M910 176 C 820 186, 790 250, 800 330 L 1020 330 C 1030 250, 1000 186, 910 176 Z"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="470" font-size="28" letter-spacing="9" fill="#FFFFFF" fill-opacity="0.55" font-weight="bold">ALPHA DEMO, TO 30 SEPTEMBER</text>
+    <text x="600" y="590" font-size="104" font-weight="900" fill="#FFFFFF">IN PROGRESS</text>
+    <text x="600" y="665" font-size="42" font-weight="bold" fill="#FFFFFF" fill-opacity="0.80">Wo Long 2 ships 4 March 2027</text>
+  </g>
+</svg>
