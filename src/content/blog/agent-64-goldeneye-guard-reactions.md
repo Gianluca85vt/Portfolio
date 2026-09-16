@@ -4,7 +4,6 @@ date: 2026-09-16
 category: Games
 excerpt: Rare's N64 guards felt clever because of how they fell over. Agent 64 rebuilt the reaction animations and treats readability as the design goal.
 cover: /img/blog/agent-64-goldeneye-guard-reactions/shot-01.jpg
-draft: true
 ---
 
 Shoot a GoldenEye guard in the arm and he drops his rifle. Shoot him in the leg and he goes
