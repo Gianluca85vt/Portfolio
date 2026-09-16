@@ -1,72 +1,97 @@
-# Manga — harvested 2026-09-16T09:31:47.467Z
+# Manga — harvested 2026-09-16T15:09:29.390Z
 
 ## Anime News Network
+
+### Manga Up! Global Adds I Need to Quit this Antique Store, Tsukimi Is All Dolled Up Manga
+Wed, 16 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/manga-up-global-adds-i-need-to-quit-this-antique-store-tsukimi-is-all-dolled-up-manga/.241841
+
+Also: <cite>The Journey of the Half-Elf Dwarven Master Blacksmith</cite> manga
+
+### Red River ‒ Episode 11
+Wed, 16 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-11/.241856
+
+This episode is a distillation of everything wrong with <i>Red River</i>’s attempt to live up to its manga.
+
+### I Want to Love You Till Your Dying Day ‒ Episode 11
+Wed, 16 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-11/.241836
+
+It's episodes like this that really make me worry about how little the show ultimately has to say.
+
+### Blade & Bastard Voice Actors Share Their Characters' Connection
+Wed, 16 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/blade-and-bastard-voice-actors-share-their-characters-connection/.239601
+
+Many fantasy stories feature plucky heroes on quests to become stronger, but <cite>Blade & Bastard</cite> focuses on the arduous process of surviving dungeon exploration.
+
+### Read It First: Manga, Light Novel Sources for Fall 2026 Anime
+Wed, 16 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/seasonal/2026/fall/.240489
+
+Get ready for the fall anime season by checking out the original manga, light novels, and webtoons!
+
+### One Piece (2026-) ‒ Episode 1178
+Wed, 16 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/one-piece/episode-1178/.241832
+
+Nico Robin is as fearless and perfect as ever, diving into action and outsmarting one of the deadliest warriors in the world without hesitation.
+
+### Uta Macross Rhythm Game Meets Crowdfunding Goal for Offline Version
+Wed, 16 Sep 2026 07:52:43 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/uta-macross-rhythm-game-meets-crowdfunding-goal-for-offline-version/.241827
+
+Campaign also meets all initial stretch goals for console release, more songs
+
+### Iron Wok Jan! ‒ Episode 11
+Wed, 16 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-11/.241826
+
+Akiyama himself resembles an evil wizard over a sacrificial bowl on the culinary altar, his fanged visage reflected in the vitae of the slain.
+
+### Sword Art Online Author Reki Kawahara's Devils' Crest Anime Casts 4 Classmates
+Wed, 16 Sep 2026 07:06:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/sword-art-online-author-reki-kawahara-devils-crest-anime-casts-4-classmates/.241850
+
+Yūsuke Kobayashi, Maaya Uchida, Rie Murakawa, Sora Amamiya join cast in November 6 anime
+
+### Shangri-La Frontier Season 3 Announces January 10 Debut, Half-Year Run
+Wed, 16 Sep 2026 06:10:12 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/shangri-la-frontier-season-3-announces-january-10-debut-half-year-run/.241849
+
+3rd season to run for 6 months without break
+
+### France's Ankama Presents Fantasy TV Anime Aoki Denshō Welsh & Shedar
+Wed, 16 Sep 2026 05:45:38 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/france-ankama-presents-fantasy-tv-anime-aoki-densho-welsh-and-shedar/.241847
+
+Rikuya Yasuda, Yūki Kaji star in Studio Massket series debuting in Japan on October 2
 
 ### Entergram Announces Vtuber Azusa Honami's Azure Memoria Game
 Wed, 16 Sep 2026 04:45:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/entergram-announces-vtuber-azusa-honami-azure-memoria-game/.241842
 
 Azusa supervises console game
 
-### Hi Score Girl's Rensuke Oshikiri, Etrange Overlord's Roman Kitayama Present Noroi Ayashi Horror RPG
-Wed, 16 Sep 2026 03:48:58 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/hi-score-girl-rensuke-oshikiri-etrange-overlord-roman-kitayama-present-noroi-ayashi-horror-rpg/.241840
-
-Clover Lab's game slated for Switch, Switch 2, PC via Steam in Q2 2027
-
-### Crunchyroll Acquires 7.03% of Japanese Media Company Link-U
-Wed, 16 Sep 2026 03:31:05 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/crunchyroll-acquires-7.03-percent-of-japanese-media-company-link-u/.241834
-
-Crunchyroll invests 917 million yen in firm working on Crunchyroll Manga service
-
-### Asaka Performs 'Tetsuryō! meet with Tetsudō Musume' Anime's Opening Song
-Wed, 16 Sep 2026 02:43:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/asaka-performs-tetsuryo-meet-with-tetsudo-musume-anime-opening-song/.241839
-
-Asaka performs "GO! GO! RAILWAY!!" opening for October 8 series
-
-### Shogakukan Launches 'Rumiko Takahashi Fantasy Manga Awards'
-Wed, 16 Sep 2026 02:32:42 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/shogakukan-launches-rumiko-takahashi-fantasy-manga-awards/.241830
-
-Takahashi to head judging panel with 1st entries accepted until January 11
-
-### Mazenchu Food Characters Get TV Anime on October 7
-Wed, 16 Sep 2026 02:04:38 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/mazenchu-food-characters-get-tv-anime-on-october-7/.241833
-
-Anime daily life in school for food ingredients
-
-### Pragmata's Diana & Mega Man Join Forces on Social Media
-Tue, 15 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-15/pragmata-diana-and-mega-man-join-forces-on-social-media/.241803
-
-Is this the start of a new Rock & Roll duo?
-
-### Witch and Mercenary Anime's New Video Unveils More Cast & Staff, April 2027 Debut
-Tue, 15 Sep 2026 23:38:43 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/witch-and-mercenary-anime-new-video-unveils-more-cast-and-staff-april-2027-debut/.241831
-
-Yuri Noguchi, Hiromu Mineta, Haruka Shiraishi join cast
-
-### Bayonetta Joins Godzilla, Evangelion in Sonic Racing CrossWorlds Game's Year 2
-Tue, 15 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-15/bayonetta-joins-godzilla-evangelion-in-sonic-racing-crossworlds-game-year-2/.241825
-
-World Championship Finals livestream to offer more details on October 9
-
-### Val x Love's Ryōsuke Asakura Launches New Manga Series
-Tue, 15 Sep 2026 22:33:53 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/val-x-love-ryosuke-asakura-launches-new-manga-series/.241824
-
-<cite>Evangeline Puts on Shoes</cite> about popular actress, aspiring shoemaker in high school debuted on Wednesday
-
-### Puchimas! -Petit Idolm@ster- Manga to End on December 25
-Tue, 15 Sep 2026 21:49:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/puchimas-petit-idolm@ster-manga-to-end-on-december-25/.241822
-
-Akane launched series in 2008
-
-### Sekina Aoi's Asobi no Kankei Novels Get Manga Adaptation
-Tue, 15 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-15/sekina-aoi-asobi-no-kankei-novels-get-manga-adaptation/.241786
-
-Manga launches on September 25
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Re:ZERO Reveals Daisuke Ono as the Voice of Divine Dragon Volcanica in Episode 83 (Season 4 Episode 17)
+Wed, 16 Sep 2026 14:48:53 GMT — https://animecorner.me/rezero-reveals-daisuke-ono-as-the-voice-of-divine-dragon-volcanica-in-episode-83-season-4-episode-17/
+
+Re:ZERO announced Daisuke Ono as the voice of Volcanica, a new character introduced in Episode 83 (Season 4 Episode 17).
+
+### BanG Dream! Releases "Tuning" Special Music Video
+Wed, 16 Sep 2026 13:49:41 GMT — https://animecorner.me/bang-dream-releases-tuning-special-music-video/
+
+BanG Dream! released a "Tuning" special music video that features scenes from the recently&hellip;
+
+### BanG Dream's millsage Covers "Pretender" by Official Hige Dandism
+Wed, 16 Sep 2026 13:25:50 GMT — https://animecorner.me/bang-dreams-millsage-covers-pretender-by-official-hige-dandism/
+
+One of BanG Dream!'s bands, millsage, covered the song "Pretender" by Official Hige Dandism.&hellip;
+
+### Re:ZERO Looks Back at Season 1 Through 4 in New Lyric Video Featuring "Recollect" by Konomi Suzuki and Ashnikko
+Wed, 16 Sep 2026 12:16:11 GMT — https://animecorner.me/rezero-looks-back-at-season-1-through-4-in-new-lyric-video-featuring-recollect-by-konomi-suzuki-and-ashnikko/
+
+Re:ZERO released a special lyric video for "Recollect" by Konomi Suzuki feat. Ashnikko looking back at the anime from Season 1 to 4.
+
+### Katekyo Hitman Reborn! Anime Reveals Ninth Ending Featuing "Suberidai" by Mori Tsubasa
+Wed, 16 Sep 2026 11:06:27 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-ninth-ending-featuing-suberidai-by-mori-tsubasa/
+
+Katekyo Hitman REBORN! anime released the creditless version of its ninth ending, featuring "Suberidai" by Mori Tsubasa.
 
 ### Shangri-La Frontier Season 3 Key Visual Revealed, Two Consecutive Cours Starting on January 10, 2027
 Wed, 16 Sep 2026 09:03:56 GMT — https://animecorner.me/shangri-la-frontier-season-3-key-visual-revealed-two-consecutive-cours-starting-on-january-10-2027/
@@ -103,32 +128,17 @@ Tue, 15 Sep 2026 08:21:34 GMT — https://animecorner.me/the-dangers-in-my-heart
 
 Norio Sakurai's The Dangers in My Heart (BokuYaba) manga officially ended today, with its final chapter released on Akita Shoten's Champion Cross website.
 
-### Even a Replica Can Fall in Love Manga Concludes With 7th Volume
-Tue, 15 Sep 2026 07:09:59 GMT — https://animecorner.me/even-a-replica-can-fall-in-love-manga-concludes-with-7th-volume/
-
-The Even a Replica Can Fall in Love manga is approaching its end. Kadokawa&hellip;
-
-### Lycoris Recoil Manga To Conclude in Two Chapters
-Tue, 15 Sep 2026 01:57:52 GMT — https://animecorner.me/lycoris-recoil-manga-to-conclude-in-two-chapters/
-
-Monthly Comic Flapper announced that the Lycoris Recoil manga will end in two chapters.&hellip;
-
-### Naruto Non-Verbal Live Show Reveals Team 7 Key Visual and Character Visuals Starring Naruto, Sasuke, Sakura and Kakashi
-Mon, 14 Sep 2026 17:56:49 GMT — https://animecorner.me/naruto-non-verbal-live-show-reveals-team-7-key-visual-and-character-visuals-starring-naruto-sasuke-sakura-and-kakashi/
-
-A new key visual has been revealed for the upcoming NARUTO non-verbal live show,&hellip;
-
-### The Fragrant Flower Blooms with Dignity Manga Announces 5th Anniversary Exhibition in Tokyo, Osaka and Fukuoka
-Mon, 14 Sep 2026 16:50:41 GMT — https://animecorner.me/the-fragrant-flower-blooms-with-dignity-manga-announces-5th-anniversary-exhibition-in-tokyo-osaka-and-fukuoka/
-
-Saka Mikami's The Fragrant Flower Blooms with Dignity manga will celebrate its fifth serialization anniversary with a large-scale exhibition.
-
-### Interview: Yusuke Kobayashi (Voice of Subaru Natsuki) and Konomi Suzuki (OP Artist) on Re:ZERO -Starting Life in Another World-
-Mon, 14 Sep 2026 15:03:50 GMT — https://animecorner.me/interview-yusuke-kobayashi-voice-of-subaru-natsuki-and-konomi-suzuki-op-artist-on-rezero-starting-life-in-another-world/
-
-Re:ZERO -Starting Life in Another World- has been very successful in our Spring and&hellip;
-
 ## MyAnimeList News
+
+### Japan-French Co-Production Aoki Denshou Welsh & Shedar Announced for Fall 2026
+Wed, 16 Sep 2026 07:58:20 -0700 — https://myanimelist.net/news/74727107?_location=rss
+
+An official website opened for an original television anime co-produced by Japan and France titled Aoki Denshou Welsh &amp; Shedar, and it revealed the main cast, staff, and a key visual (pictured) on Wednesday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Voice actors Rikuya Yasuda (Mayonaka Heart Tune) and Yuuki Kaji (Shingeki no Kyojin) are starring as Welsh and Shedar, respectively. Staff Director: Naoki Horiuchi (Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemash...
+
+### Demons Crest Announces Additional Cast
+Wed, 16 Sep 2026 02:33:37 -0700 — https://myanimelist.net/news/74725906?_location=rss
+
+The official website for the original net anime adaptation of Reki Kawahara s Demons Crest light novel announced additional cast on Wednesday. The anime is scheduled to premiere on Amazon Prime Video on November 6. Cast Teruki Sugamo: Yuusuke Kobayashi (Re:Zero kara Hajimeru Isekai Seikatsu) Aria Misono: Maaya Uchida (Kaya-chan wa Kowakunai) Kai Kisanuki: Rie Murakawa (Komi-san wa, Comyushou desu.) Sumika Watamaki: Sora Amamiya (Kono Subarashii Sekai ni Shukufuku wo!) Kenichirou Komay...
 
 ### The Road to Redemption: Unmasking The Vermilion Mask
 Tue, 15 Sep 2026 21:27:35 -0700 — https://myanimelist.net/news/74725112?_location=rss
@@ -159,16 +169,6 @@ The official website for the television anime adaptation of Umikaze Minamino s K
 Mon, 14 Sep 2026 21:07:50 -0700 — https://myanimelist.net/news/74721441?_location=rss
 
 The official X (formerly Twitter) account of the Dengeki Maoh magazine announced on Monday that the Puchimas!: Petit iDOLM@STER spin-off manga will end with its 200th and final chapter in the issue releasing on December 25. Akane began serializing the four-panel comedy manga, based on Bandai-Namco s The iDOLM@STER franchise, in Dengeki Maoh in July 2008. Kadokawa published the 15th volume in December 2024, with the 16th and final volume scheduled for a February 2027 release. A 64-episode ne...
-
-### Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. Reveals Additional Cast, Staff, Theme Songs, Main Promo
-Mon, 14 Sep 2026 04:25:55 -0700 — https://myanimelist.net/news/74719088?_location=rss
-
-The official website of the Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. (Hi, I m a Witch, and My Crush Wants Me to Make a Love Potion) television anime revealed additional cast, staff, theme songs, the main visual (pictured), and promotional video on Monday. The anime series adapting Eiko Mutsuhana s fantasy romance light novel will air on October 5 at 9.30 p.m. on AT-X, followed by Tokyo MX, BS Nippon TV, and MBS. Voice actors Hiro Shimono (Kimi to Koete Koi ni Naru) a...
-
-### Web Manga Funsou deshitara Hatta made Gets TV Anime
-Mon, 14 Sep 2026 04:20:59 -0700 — https://myanimelist.net/news/74719080?_location=rss
-
-Publishing company Kodansha announced a television anime adaptation of Motohiro Den s Funsou deshitara Hatta made (If It s a Conflict, Leave it to Hatta) web manga on Monday, revealing an announcement visual (pictured). Den began serializing the mystery seinen manga in the Morning magazine in November 2019 before transferring it on the D Morning web service in September 2021. Kodansha published the 19th volume on February 20, with the 20th volume scheduled for a September 18 release. F...
 
 ## Otaku USA
 

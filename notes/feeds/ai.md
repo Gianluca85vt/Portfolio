@@ -1,11 +1,11 @@
-# AI — harvested 2026-09-16T09:31:47.467Z
+# AI — harvested 2026-09-16T15:09:29.390Z
 
 ## OpenAI
 
-### How Fyxer built an AI executive assistant people trust
-Mon, 14 Sep 2026 12:00:00 GMT — https://openai.com/index/fyxer
+### Reimagining advertising with AI
+Wed, 16 Sep 2026 13:00:00 GMT — https://openai.com/index/reimagining-advertising-with-ai
 
-Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.
+Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.
 
 ## Hugging Face
 

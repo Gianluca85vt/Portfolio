@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-16T09:31:47.467Z
+# Source feeds — harvested 2026-09-16T15:09:29.390Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -10,6 +10,13 @@ own feed: headline, link, date, and their summary.
 > the first line of the body. See notes/article-voice.md.
 
 ## Broadcasts in the feeds
+
+**A preview is owed on this.** Write it before the show airs, with the start time in Italian time and the
+stream embedded, then the round-up an hour after it ends. See
+notes/event-coverage.md.
+
+- **PC Gamer** — How to watch the PC Gaming Show Tokyo Direct 2026
+  https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/
 
 Already aired, so a round-up rather than a preview:
 
@@ -24,10 +31,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Film & TV next.** 75 articles have gone out since the last one.
+**Write Film & TV next.** 76 articles have gone out since the last one.
 
-- **Film & TV** — BROKEN. 75 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 158.
-- **Manga and anime** — BROKEN. 15 articles since the last one; quota is one in 6. 4 in the archive of 158.
+- **Film & TV** — BROKEN. 76 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 159.
+- **Manga and anime** — BROKEN. 16 articles since the last one; quota is one in 6. 4 in the archive of 159.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -37,12 +44,12 @@ silently skipping it.
 ## Feeds
 
 - [Manga](manga.md) **owed** — 33 items
-- [Film & TV](film-tv.md) **owed** — 66 items
-- [Games](games.md) — 100 items
+- [Film & TV](film-tv.md) **owed** — 65 items
+- [Games](games.md) — 99 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 12 items
+- [3D](3d.md) — 15 items
 - [AI](ai.md) — 3 items
 
-Total: 296 items.
+Total: 297 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).
