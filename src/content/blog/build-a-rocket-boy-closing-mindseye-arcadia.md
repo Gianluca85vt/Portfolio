@@ -4,7 +4,6 @@ date: 2026-09-17
 category: Games
 cover: /img/blog/build-a-rocket-boy-closing-mindseye-arcadia/shot-01.jpg
 excerpt: Staff posted farewells on 16 September and Kotaku's sources say the studio is finished. MindsEye was built to prove a creation platform that never arrived.
-draft: true
 ---
 
 You learn that a studio has died from LinkedIn now. On 16 September a run of
