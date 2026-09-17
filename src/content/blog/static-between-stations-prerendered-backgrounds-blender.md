@@ -4,7 +4,6 @@ date: 2026-09-17
 category: 3D
 excerpt: Static Between Stations renders its rooms in Blender and plays them as video — path-traced, scan-heavy, nothing the engine has to optimise.
 cover: /img/blog/static-between-stations-prerendered-backgrounds-blender/shot-01.jpg
-draft: true
 ---
 
 The developer of Static Between Stations put in-engine footage out this week,
