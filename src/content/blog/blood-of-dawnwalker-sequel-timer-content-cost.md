@@ -4,7 +4,6 @@ date: 2026-09-17
 category: Games
 excerpt: Rebel Wolves will keep the 30-day clock in a sequel only where a story fits it. That clock is also what paid for a world no single player finishes seeing.
 cover: /img/blog/blood-of-dawnwalker-sequel-timer-content-cost/shot-01.jpg
-draft: true
 ---
 
 Konrad Tomaszkiewicz was asked this week whether the thirty-day clock at the
