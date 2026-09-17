@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#7A1020"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="90" y="150" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#E9B6C2" letter-spacing="6">RESIDENT EVIL (2026)</text>
+  <text x="90" y="310" font-family="Helvetica,Arial,sans-serif" font-size="180" font-weight="700" fill="#FFFFFF">98%</text>
+  <text x="90" y="370" font-family="Helvetica,Arial,sans-serif" font-size="38" fill="#E9B6C2">fresh on Rotten Tomatoes</text>
+  <text x="640" y="310" font-family="Helvetica,Arial,sans-serif" font-size="180" font-weight="700" fill="#FFFFFF">7.5</text>
+  <text x="640" y="370" font-family="Helvetica,Arial,sans-serif" font-size="38" fill="#E9B6C2">mean of seven scores</text>
+  <text x="90" y="470" font-family="Helvetica,Arial,sans-serif" font-size="32" fill="#C89AA6">Five eights, two sixes, range 6 to 8</text>
+</svg>
