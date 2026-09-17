@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-17T15:18:12.033Z
+# AI — harvested 2026-09-17T19:51:23.996Z
 
 ## OpenAI
 
@@ -29,13 +29,11 @@ New OpenAI Economic Research shows how workers use AI beyond traditional roles a
 
 ## Hugging Face
 
-### Your Agent Aced the Task. Will It Do It Again?
-Tue, 15 Sep 2026 16:00:44 GMT — https://huggingface.co/blog/ibm-research/altk-evolve-consistency
+_Nothing in the last 48 hours._
 
 ## Google DeepMind
 
-### Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking
-Tue, 15 Sep 2026 17:05:57 +0000 — https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/
+_Nothing in the last 48 hours._
 
 ## VentureBeat AI
 

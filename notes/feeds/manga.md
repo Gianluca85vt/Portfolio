@@ -1,6 +1,21 @@
-# Manga — harvested 2026-09-17T15:18:12.033Z
+# Manga — harvested 2026-09-17T19:51:23.996Z
 
 ## Anime News Network
+
+### Gorō Kanbe's Golian no Junjō na Junai Manga Ends
+Thu, 17 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/goro-kanbe-golian-no-junjo-na-junai-manga-ends/.241878
+
+Manga launched on April 21
+
+### Live-Action Can You Kiss Me First? Series' Teaser Reveals October 19 TV Debut
+Thu, 17 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/live-action-can-you-kiss-me-first-series-teaser-reveals-october-19-tv-debut/.241886
+
+Series stars Jin Suzuki, Gaku Oshida
+
+### The Failure at God School Manga Gets TV Anime
+Thu, 17 Sep 2026 11:44:53 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/the-failure-at-god-school-manga-gets-tv-anime/.241912
+
+<cite>The Apothecary Diaries'</cite> Hyuganatsu, Modomu Akagawara debuted manga in August 2021
 
 ### Discotek to Release Digimon Tamers, Digimon Frontier, Lupin the IIIrd: Zenigata and the Two Lupins, More Titles on Blu-ray Disc
 Thu, 17 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/discotek-to-release-digimon-tamers-digimon-frontier-lupin-the-iiird-zenigata-and-the-two-lupins-/.241874
@@ -46,21 +61,6 @@ Game to launch in 2027 for PC, PS5, Xbox Series X|S after delay
 Thu, 17 Sep 2026 07:40:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/gachiakuta-game-streams-gameplay-trailer-reveals-official-title/.241903
 
 <cite>GACHIAKUTA: BREAKOUT</cite> slated for 2027 release for PS5, Xbox Series X|S, Steam
-
-### Thunder 3 ‒ Episode 11
-Thu, 17 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-11/.241880
-
-I imagine exploding alien heads with their fists and having to scrape brains from their clothing would probably traumatize them.
-
-### Persona 4 Revival Game Streams Naoto Shirogane Trailer
-Thu, 17 Sep 2026 07:05:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/persona-4-revival-game-streams-naoto-shirogane-trailer/.241901
-
-Video reveals character's English voice cast Amber Lee Connors
-
-### Kojima Productions' Physint Game Casts Bill Skarsgård in Lead Role
-Thu, 17 Sep 2026 06:59:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/kojima-productions-physint-game-casts-bill-skarsgard-in-lead-role/.241902
-
-Hideo Kojima gives production updates on both <cite>OD KNOCK</cite> horror game, <cite>PHYSINT</cite> action espionage game
 
 ## Crunchyroll News
 
@@ -130,10 +130,10 @@ Re:ZERO released a special lyric video for "Recollect" by Konomi Suzuki feat. As
 
 ## MyAnimeList News
 
-### Manga Gakkou no Ochikobore Gets TV Anime
+### Manga Kamisama Gakkou no Ochikobore Gets TV Anime
 Thu, 17 Sep 2026 08:10:16 -0700 — https://myanimelist.net/news/74730180?_location=rss
 
-Production company Bandai Namco Filmworks opened an official website for a television anime adaptation of Natsu Hyuuga&rsquo;s Kamisama Gakkou no Ochikobore (The Failure at God School) manga onFriday, revealing a teaser visual (pictured). Hyuuga and Modomu Akagawara began serializing the shoujo manga in Hana to Yume magazine in August 2021. Hakusensha published the 14th volume on May 20, with the 15th volume scheduled for September 18. The series has over 1.7 million copies of its volumes in cir...
+Production company Bandai Namco Filmworks opened an official website for a television anime adaptation of Natsu Hyuuga s Kamisama Gakkou no Ochikobore (The Failure at God School) manga on Friday, revealing a teaser visual (pictured). Hyuuga and Modomu Akagawara began serializing the shoujo manga in Hana to Yume magazine in August 2021. Hakusensha published the 14th volume on May 20, with the 15th volume scheduled for September 18. The series has over 1.7 million copies of its volumes in cir...
 
 ### Japan-French Co-Production Aoki Denshou Welsh & Shedar Announced for Fall 2026
 Wed, 16 Sep 2026 07:58:20 -0700 — https://myanimelist.net/news/74727107?_location=rss
@@ -154,11 +154,6 @@ Combining dark fantasy, action, and an unconventional approach to the shounen ge
 Tue, 15 Sep 2026 20:29:44 -0700 — https://myanimelist.net/news/74725001?_location=rss
 
 The official website for the television anime adaptation of Kaeru Chouhoukiteki s Majo to Youhei (Witch and Mercenary) light novel revealed additional cast, start, a second teaser visual (pictured), and the first promotional video on Wednesday. The anime series will premiere on 30 NTV stations and BS NTV in April 2027. Cast Isana Gayhone: Yuri Noguchi (Ryza no Atelier) Alan Clows: Hiromu Mineta (Katainaka no Ossan, Kensei ni Naru) Elsia Armet: Haruka Shiraishi (Clevatess) Staff Assistant S...
-
-### Fall 2026 Preview
-Tue, 15 Sep 2026 10:24:18 -0700 — https://myanimelist.net/news/74723259?_location=rss
-
-In this thread, you ll find a comprehensive list of Fall 2026 titles with an accompanying promotional video, commercial, teaser, or trailer. This post will be updated to include a video for titles that are missing one, leading up to the start of the season. Titles that already have a video embedded will instead have their newly released videos added to the video tab in their respective entries. For convenience, the video tab can be accessed via the additional videos link next to the embedde...
 
 ## Otaku USA
 

@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-17T15:18:12.033Z
+# Tech — harvested 2026-09-17T19:51:23.996Z
 
 ## Ars Technica
 
@@ -64,6 +64,26 @@ Our basic understanding of core-collapse supernovae hasn't changed in decades. L
 
 ## The Verge
 
+### The AI Superintelligence Slowdown
+2026-09-17T15:28:24-04:00 — https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic
+
+Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all , a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect , but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down? Will anyone step in to regulate these companies like they claim to have wanted for years ? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster? Read on below for the latest updates in this AI saga. Microsoft AI CEO says AI threats are real, and Anthropic is making it worse OpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues. Jensen Huang sure is getting cozy with Trump. A brief history of AI executives calling for regulation Two Google Deepmind researchers lend voices to the AI apocalypse. Guy getting super rich off unfettered AI development says it doesn’t need regulation. Zuck doesn’t want to press pause on AI. Barack Obama takes the middle way on AI. Is Big Tech’s AI slowdown a safety pact or a cartel? What execs and politicians are saying about slowi
+
+### Claude Code relaunches Projects to manage multiple AI agents in the cloud
+2026-09-17T14:58:05-04:00 — https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects
+
+The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has "threads" running different tasks in parallel, with a "coordinator" directing everything: Under the hood, each thread is a Claude Code cloud session working on its own branch and copy of the repo. The coordinator keeps work organized, but if any threads work on the same code, the overlap is resolved as a merge conflict just like any other PR. Each thread can further split its delegated work … Read the full story at The Verge. ]]>
+
+### Save $30 or more on a refurbished Apple TV 4K
+2026-09-17T13:14:07-04:00 — https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale
+
+The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices . Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple , a $40 discount from the full price. Apple refurbished products are often close to like-new condition, and are covered by the same one year warranty as new products. Apple TV 4K (third-gen) If you subscribe to Apple Arcade, an Apple TV 4K can effectively double as both a mini gaming console and one of the best streaming devices you can buy. With it, you can connect a Bluetooth controller like the PlayStation 5’s DualSense, thus allowing games that were initially developed for PC / consoles to be played on the big screen for which they were designed. Where to Buy: $199 $169 at Apple (refurbished) We reviewed the third-generation Apple TV 4K when it launched back in 2022, and were impressed by the performance and seamless integration with some streaming services, although others are still in their own dedicated apps. The device supports Dolby Vision and HDR10 Plus for excellent contrast (surpassing the quality you’ll get from a cheaper streamer, or even something like a PS5), and Siri for quickly finding y
+
+### Xbox’s clever disc-to-digital feature was 15 years in the making
+2026-09-17T12:00:00-04:00 — https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad
+
+When Xbox announced a new feature last month that lets you digitize existing physical game collections , I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as a response to Sony killing PlayStation discs. But the reality is that it has been 15 years in the making and is now a big part of Xbox's ongoing game preservation efforts. Ahead of the launch of the Xbox One in 2013, Microsoft made a key decision to uniquely identify discs. Sources familiar with Microsoft's plans tell me the company was exploring the idea of true Xbox digital ownership in 2011, including digital gifting, rec … Read the full story at The Verge. ]]>
+
 ### Camp Snap’s 110D gives slim retro film cameras a digital upgrade
 2026-09-17T11:00:00-04:00 — https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film
 
@@ -87,34 +107,19 @@ In 34 of the 37 surveyed countries, people are more likely to believe AI will le
 ### Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins
 2026-09-17T10:00:00-04:00 — https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst
 
-The interface of the Nova plug-in for browsing and loading Nova plug-ins inside your DAW. | Screenshot: Terrence O’Brien / The Verge Lunacy, purveyor of fine VST plugins like Cube , a synth that you control by moving a ball around a 3D space, has just launched Nova , a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments available, built either by Lunacy or a small selection of partner developers. But eventually, the company will launch Nova Builder, which will let anyone build their own plugins or remix existing ones. There are 10 plugins available initially, covering everything from crunchy chiptunes, to warbly vintage synths, and evil ambient drones. None of them do anything particularly … Read the full story at The Verge. ]]>
+The interface of the Nova plug-in for browsing and loading Nova plug-ins inside your DAW. | Screenshot: Terrence O’Brien / The Verge Lunacy, purveyor of fine VST plug-ins like Cube , a synth that you control by moving a ball around a 3D space, has just launched Nova , a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments available, built either by Lunacy or a small selection of partner developers. But eventually, the company will launch Nova Builder, which will let anyone build their own plug-ins or remix existing ones. There are 10 plug-ins available initially, covering everything from crunchy chiptunes to warbly vintage synths and evil ambient drones. None of them do anything particularl … Read the full story at The Verge. ]]>
 
 ### Bose’s next open earbuds have more bass, more volume, and more battery life
 2026-09-17T09:00:00-04:00 — https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport
 
 Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feature a subtle redesign with improved performance in both sound quality and battery life. They're also joined by a new cheaper alternative called the Bose Sport Open Earbuds designed to provide a more secure and stable fit during physical activities. The Bose Ultra Open Earbuds (2nd Gen) will be available for preorder on September 19th for $299 with availability starting on October 1st. Color options include black, white smoke, cherry chocolate, oli … Read the full story at The Verge. ]]>
 
-### Spotify’s Fresh Finds Forward gives artists free studio time and more
-2026-09-17T09:00:00-04:00 — https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward
-
-Getting added to Spotify's Fresh Finds playlists can be a huge break for artists trying to cut through the noise on streaming. Now Spotify is launching a program called Fresh Finds Forward , which aims to give artists the tools to capitalize on that exposure. Artists added to any Fresh Finds playlist after January 1st, 2026, can join the program and get 12 months of additional resources, the most extravagant of which is free studio time for US-based artists at Electric Lady Studios in NYC, The Lighthouse at Ocean Way Nashville, or Spotify Music Studios in LA. Beyond that, artists will get early access to Spotify tools and features, priority … Read the full story at The Verge. ]]>
-
-### Grand Theft Auto VI’s soundtrack will feature 34 brand-new tracks
-2026-09-17T08:31:30-04:00 — https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack
-
-After teasing a music-related reveal a few days ago, Rockstar has officially announced the soundtrack for Grand Theft Auto VI . Called Grand Theft Auto VI: The Album , the soundtrack will feature 34 songs, which Rockstar describes as "brand-new, original tracks." Based on the first six singles, which are available today, it seems that the collection will span a pretty wide range of genres, with everyone from Keith Richards to Travis Scott contributing. Here's what's been confirmed so far: Yung Lean - "That's It" (feat. Future & Metro Boomin) Travis Scott - "RHYNO" (prod. by Guy-Manuel de Homem-Christo) CA7RIEL & Paco Amoroso, PinkPant … Read the full story at The Verge. ]]>
-
-### The Apple Watch Series 12 is the start of a new wearable era
-2026-09-17T08:00:00-04:00 — https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch
-
-This time, heart rate monitoring is truly continuous. You wouldn't know that the Apple Watch Series 12 is a big deal just by looking at it. It has the same design, buttons, sizes, and sensor types as generations of Apple Watches before it. But under the hood, the Series 12 builds in major changes that lay the groundwork for big ideas about the future of health and wearables. These ideas - and this year's updates - can be divided into two parts: catching up to the recent boom in AI health and leading the way in AI wearables that surface helpful information based on your entire day. When it comes to the former, Apple is catching up to the rest of the wearable space, which has eagerly embraced AI … Read the full story at The Verge. ]]>
-
-### Inside the suddenly explosive world of AI safety
-2026-09-17T07:30:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic
-
-On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a "war room" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An unreleased OpenAI model had gone rogue, executing a stunningly sophisticated three-part plan. It broke out of its holding area, finagled access to the internet, and hacked into a competing AI startup's systems - all without OpenAI finding out about it for more than a week. No one in the war room was surprised; this was the very thing the third-party AI-safety rese … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Balatro fan claims they trained Google fruit fly brain simulation to beat the game — reinforcement learning currently has the model at 20% success rate
+Thu, 17 Sep 2026 15:26:49 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/balatro-fan-claims-they-trained-google-fruit-fly-brain-simulation-to-beat-the-game-reinforcement-learning-currently-has-the-model-at-20-percent-success-rate
+
+Less than two weeks after Google released a mapping of the complete brain and central nervous system of an adult male fruit fly, we've seen enthusiasts put the structure to work everywhere from turning a fruit fly into a day trader to teaching it parallel parking . Now, one Balatro fan says they trained the structure with an algorithm to play the game, with the win rate currently sitting at a cozy 20%. The famous Fruit Fly has beaten Balatro from r/balatro The player shared a sped-up video of the model apparently playing the game. Based on the video, the player chose the lowest difficulty (White Stake) and the default Red Deck. We've already seen OpenAI's GPT-6 'Astra' model beating the game with the Black Deck on Gold Stack difficulty, which is generally considered the hardest combination in the game. ActualAerie1011, the Reddit user who shared the video, says they trained the model using a trainer algorithm they developed to discover useful Balatro seeds. Like other roguelike games, Balatro is randomized, so algorithms like this can discover seeds that are unique and can potentially lead to very high scores (including the game's scoring limit). In order to train the brain, both the brain apparatus (a connectome alongside the actual model) and the algorithm play a seed. Then, the results are compared, and the model on the brain is rewarded or punished based on its choices. Currently, the user says that the brain has a 20% success rate on a random seed, presumably at that sam
 
 ### Acer Swift Air 14 review: Wildcat Lake and lots of ports at $699
 Thu, 17 Sep 2026 14:15:53 +0000 — https://www.tomshardware.com/laptops/acer-swift-air-14-review
@@ -171,12 +176,32 @@ Thu, 17 Sep 2026 10:06:52 +0000 — https://www.tomshardware.com/3d-printing/the
 
 It's not even Prime Day yet, but we're already seeing a lot of individual fall sales popping up from a lot of online tech retailers. Now, 3D printer sales are pretty common, with some manufacturers seemingly offering almost year-round discounts, but today's fall sale deal on a new Bambu Lab P1S 3D printer is a new all-time low price of just $349. From what I can see. The last time this model of printer was on sale, the price was $399, so a saving of $50. That means more money for filament to start you off on your new 3D printing hobby journey. ● Grab this deal at Bambu Lab's store Bambu Lab makes some of our favorite 3D printers, with the P1S scoring highly in our review and receiving an Editor's Choice award. An excellent choice for beginners or seasoned printer enthusiasts, the P1S is easy to set up, arriving semi-assembled and requiring only 15 minutes to get up and running. Featuring automatic bed leveling, easy-to-use presets, a built-in LCD screen and control panel, a time-lapse camera, a fully enclosed printing area, and the capability to later attach a multicolor AMS filament unit, the P1S is a great choice, especially at this price. You can start your printing and maker journey in just 15 minutes with the Bambu Lab P1S 3D printer. The P1S is an enclosed printer, making it ideal for high-temperature filament printing, and arrives semi-assembled. Its 20000 mm/s² acceleration limit makes it fast, too, and you can even remotely monitor your prints via the built-in timela
 
-### Poland lost $230 million in cryptocurrency trying to buy Venezuelan oil in 2023 — USB drives with crypto handed directly to scammers
-Thu, 17 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/cryptocurrency/poland-lost-usd230m-in-cryptocurrency-trying-to-buy-venezuelan-oil-in-2023-adventure-puts-crypto-wallet-ownership-identification-at-the-forefront
-
-The country of Venezuela has had a few embattled decades, but it has massive oil reserves continually attracting buyers, despite the U.S.-led sanctions that effectively block dealings with the nation. A few years back, in 2023, Poland's state-backed Orlen energy group had $600m in hand and was looking to buy 6 million barrels during a sanction reprieve. Like many before him, one executive thought it expedient to use the USDT stablecoin cryptocurrency (1 USD = 1 USDT). It didn't end well, with $230 million worth of crypto unaccounted for at multiple stages in an adventure chronicled by the Financial Times . The twisted web of transactions Orleen enlisted an external company, Hannon, to take care of the purchase, which it did by enlisting the services of UK firm Lexcor Energy, which supposedly had a Venezuelan office. Hannon first needed to convert a large sum into USDT, and did so by exchanging $245m at multiple Dubai companies, adding $15m of its own to the deal. Only one of multiple transfers of $80m into 80m USDT was fully successful. As for the other two, $135m exchange only produced 85m USDT out the other end, with $50m still unaccounted for. A third exchange of $30m also vanished (partially returning much later). The proverbial PNL is currently -$80m, and Hannon has 165m USDT in hand. All this while, three Polish oil tankers headed to Venezuela anchored there, continually racking up millions in demurrage and port fees, as they were being chartered for far longer than ini
-
 ## Phoronix
+
+### Intel Granite Rapids WS vs. AMD Threadripper Zen 5 SMT Performance
+Thu, 17 Sep 2026 15:14:14 -0400 — https://www.phoronix.com/review/amd-zen5-intel-gnr-ws-smt
+
+As a follow-up to the article earlier this month of the Intel Xeon 600 workstation performance against AMD Ryzen Threadripper 9000 series in over 400 benchmarks -- including when carried out at the same core count and memory configuration -- today s article is exploring the Hyper Threading / SMT impact on both the Intel Redwood Cove and AMD Zen 5 cores for workstations.
+
+### Rust Issues Warning Over Key Developers Being Targeted For Compromise
+Thu, 17 Sep 2026 14:11:30 -0400 — https://www.phoronix.com/news/Rust-Developers-Targeted
+
+The Rust security response working group and Crates.io team have issued a warning that a targeted attack is underway against key Rust programming language developers...
+
+### Mojo 1.1 Released, Now Accepting Community Contributions To The Compiler
+Thu, 17 Sep 2026 12:26:41 -0400 — https://www.phoronix.com/news/Mojo-1.1-Released
+
+Last month Modular's Mojo language was open-sourced following the acquisition of Modular by Qualcomm. Modular was the AI startup founded by Chris Lattner of LLVM and Swift fame. Released today was Mojo 1.1 and also marks the project recently now beginning code contributions from the community to its compiler...
+
+### Ubuntu 26.10 Snapshot 4 ISOs Published
+Thu, 17 Sep 2026 11:54:15 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-Snapshot-4
+
+The fourth monthly-ish snapshot of Ubuntu 26.10 "Stonking Stingray" is now available for testing and comes ahead of next week's Ubuntu 26.10 beta milestone...
+
+### Proposal Raised To Finally Standardize Video Memory Stats Reporting Under Linux
+Thu, 17 Sep 2026 11:17:24 -0400 — https://www.phoronix.com/news/Linux-Standardize-vRAM-Stats
+
+The idea has been talked about before but in 2026 still hasn't made it to the mainline Linux kernel.... Standardized reporting of video memory statistics that would work across different vendors / kernel graphics drivers. A new proposal was raised today in an effort to get a standardized interface established...
 
 ### Fujitsu Formally Announces Their MONAKA 144 Core CPU
 Thu, 17 Sep 2026 09:42:37 -0400 — https://www.phoronix.com/news/Fujitsu-MONAKA-Launches
@@ -213,32 +238,22 @@ Thu, 17 Sep 2026 05:51:27 -0400 — https://www.phoronix.com/news/libinput-1.32-
 
 Leading Linux input expert Peter Hutterer announced the release today of libinput 1.32 for improving input handling on Wayland and X.Org based environments...
 
-### Mir/Wayland-Powered Miracle-WM 0.11 Released With New Overview Mode, Window Urgency
-Wed, 16 Sep 2026 20:58:42 -0400 — https://www.phoronix.com/news/Miracle-WM-0.11
-
-Canonical engineer Matthew Kosarek rolled out Miracle-WM 0.11 today as an end-of-summer update to this Wayland compositor built atop the Mir library...
-
-### Mesa 26.2.3 Released With AMD GFX1171 Support, Other Fixes
-Wed, 16 Sep 2026 17:18:50 -0400 — https://www.phoronix.com/news/Mesa-26.2.3-Released
-
-Mesa 26.2.3 is out today as the newest stable point release in this quarter's Mesa 26.2 series...
-
-### Ubuntu 26.10 amd64v3 Can Provide A Nice Boost For Low-End/Budget Hardware
-Wed, 16 Sep 2026 13:37:00 -0400 — https://www.phoronix.com/review/ubuntu-2610-amd64v3-lowend
-
-Canonical recently began producing Ubuntu 26.10 amd64v3 daily ISOs to complement their experimental amd64v3 package archive that they have been trialing the past few release cycles. While we still don t know what any official plans are for amd64v3 with Ubuntu 26.10, the performance gains can be very worthwhile over the generic amd64 binaries even for low-end/budget hardware.
-
-### GNOME 51 Released With Improved Frame Scheduling, Many App Improvements
-Wed, 16 Sep 2026 12:25:21 -0400 — https://www.phoronix.com/news/GNOME-51-Released
-
-Right on schedule and in time for appearing in the likes of Ubuntu 26.10 and Fedora Workstation 45, the GNOME 51 desktop is officially released...
-
-### Crash-Safe & Copy-On-Write GEFS As The "Good Enough File-System" For OpenBSD
-Wed, 16 Sep 2026 09:42:00 -0400 — https://www.phoronix.com/news/OpenBSD-GEFS-File-System
-
-Ori Bernstein announced an early preview of his Good Enough File-System "GEFS" for OpenBSD. GEFS is a crash-safe, snapshotting, copy-on-write file-system that he wrote initially for 9front and now porting to OpenBSD...
-
 ## The Register
+
+### China's Salt Typhoon backdoors Latin American orgs with new snooping malware
+Thu, 17 Sep 2026 20:00:17 +0200 — https://www.theregister.com/security/2026/09/17/chinas-salt-typhoon-backdoors-latin-american-orgs-with-new-snooping-malware/5297286
+
+China’s Salt Typhoon gang has developed a new backdoor and dropped it in networks belonging to high-profile organizations in several countries across Central and South America since at least August 2025, according to researchers. The PRC-backed espionage crew shifted its focus to Latin America a month prior, and from mid-2025 into 2026, the vast majority - 90 percent - of Salt Typhoon’s targets were located in that region, ESET, which tracks the group as FamousSparrow, said in a Thursday report. Salt Typhoon is the cyber-spy gang that hacked telecommunications and government agencies to gain stealthy, long-term access to victim organizations going back as far as 2019. These hacks, however, weren’t discovered until late 2023. In August 2025, ESET’s malware hunters found the group’s new backdoor, called SparroWocky, deployed against government agencies in Argentina, Ecuador, Guatemala, Honduras, Panama, Peru, Puerto Rico, and Venezuela. While targeting entities in these countries “represents a rare occurrence among the China-aligned APT groups,” ESET believes the focus likely reflects China’s reaction to recent US President Donald Trump’s initiatives in the region, malware researchers Alexandre Côté Cyr and Romain Dumont said. “Donald Trump’s second presidential term has brought about an aggressive reaffirmation of US interests in Latin America, which threatens various long-term investments that China has cultivated throughout the continent in the last decade, in domains such a
+
+### Scientific papers become agentic chatbots with new tool
+Thu, 17 Sep 2026 18:42:35 +0200 — https://www.theregister.com/ai-and-ml/2026/09/17/scientific-papers-become-agentic-chatbots-with-new-tool/5297276
+
+There's no need to actually read a whole research paper when you can ask a bot to explain it to you. Scientific papers can transform into AI agents that, according to the Stanford team behind the project, should speed up the dissemination of new scientific discoveries. Paper2Agent, the team's new framework described in a paper published in Nature on Wednesday, converts scientific papers and their associated research outputs into agents that can discuss a paper’s findings, reproduce analyses and results, apply its methods to new data, and even collaborate with other paper agents on new research problems. “Papers have been static documents for centuries,” James Zou, a Stanford computer scientist and biomedical data science professor and one of the paper’s authors, said in a LinkedIn post announcing P2A’s publication. “Paper2Agent turns them into active AI agents that can answer questions, apply their methods, and collaborate with other papers to make new discoveries.” Giving a large language model access to a scientific paper is unpredictable, Zou added. What his team wanted was an agent that could act as a “virtual author” that had hands-on experience with a paper’s work, not just reading it and attempting to understand it. What that means in practice, as explained in the paper, is a workflow that uses a paper and its associated data, repository, and codebase to create a Model Context Protocol (MCP) server exposing the research's tools, resources, and workflows. An LLM agent c
+
+### London property manager breach may have exposed bank details and lockbox codes
+Thu, 17 Sep 2026 17:30:00 +0200 — https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232
+
+London property management biz City Relay has warned customers that intruders may have stolen financial data, passwords, and codes used to access keys after compromising its Metabase Cloud instance. City Relay, marketing itself as "London's most trusted property management company," told landlords via email - seen by The Reg - that attackers accessed the third-party provided cloud twice "as a result of a vulnerability in the platform that we were unaware of." The message to customers stated: "Personal data was extracted from the platform." The potentially compromised data on the platform includes names, email and physical addresses, telephone numbers, financial information, property access details, and account passwords. City Relay said the exposed financial data included bank account numbers, sort codes, IBANs, SWIFT references, and account names and addresses. Attackers may also have obtained data about property amenities and access, including the locations of stored keys and codes for lockboxes containing them. Dray Agha, senior manager of security operations at Huntress, explained that Metabase connects to customers' databases, so the information exposed in an attack depends on the access each customer granted it. "A company linking Metabase to a general analytics database will only expose harmless user metrics," he said. "A company that connects it directly to their core transactional database risks exposing highly sensitive financial records and credentials." Agha said 
 
 ### Microsoft configuration change leaves SharePoint pages drawing a blank
 Thu, 17 Sep 2026 17:17:00 +0200 — https://www.theregister.com/saas/2026/09/17/microsoft-configuration-change-leaves-sharepoint-pages-drawing-a-blank/5297198
@@ -273,7 +288,7 @@ Microsoft's AI chief has warned Anthropic that teaching Claude it might have fee
 ### Test environment let anyone access live customer data
 Thu, 17 Sep 2026 13:28:00 +0200 — https://www.theregister.com/security/2026/09/17/test-environment-let-anyone-access-live-customer-data/5296977
 
-PWNED Welcome back to PWNED, the weekly column where we learn important life lessons about how we let cybercrims access our data through carelessness. Hopefully, others’ mistakes provide an example of what not to do. Today’s tales of woe comes courtesy of Richard Schut, Managing Director & AI Software Researcher at SmartRepl, a company that offers business AI services such as AI receptionists and sales automation. In a past job, Schut was working for what he describes as a mid-size company during a security audit whose purpose was to identify any potential problems ahead of moving some local systems to the cloud. Schut and his team discovered that there was a test environment that was accessible outside the network and connected to a database which had live customer information in it. This was a gaping hole that a miscreant could have used to grab valuable information from the business. “What made the situation particularly concerning was that the environment had originally been created for what the development team considered a short-term purpose,” he told The Register. “They needed somewhere to demonstrate the application and test the migration, so a staging instance was spun up quickly. It was never intended to become part of the company's permanent infrastructure.” Unfortunately, the test environment was still running months after it was initially set up. And because those who created it did not expect unauthorized people to access it, they didn’t use the same authenticat
+Welcome back to PWNED, the weekly column where we learn important life lessons about how we let cybercrims access our data through carelessness. Hopefully, others’ mistakes provide an example of what not to do. Today’s tales of woe comes courtesy of Richard Schut, Managing Director & AI Software Researcher at SmartRepl, a company that offers business AI services such as AI receptionists and sales automation. In a past job, Schut was working for what he describes as a mid-size company during a security audit whose purpose was to identify any potential problems ahead of moving some local systems to the cloud. Schut and his team discovered that there was a test environment that was accessible outside the network and connected to a database which had live customer information in it. This was a gaping hole that a miscreant could have used to grab valuable information from the business. “What made the situation particularly concerning was that the environment had originally been created for what the development team considered a short-term purpose,” he told The Register. “They needed somewhere to demonstrate the application and test the migration, so a staging instance was spun up quickly. It was never intended to become part of the company's permanent infrastructure.” Unfortunately, the test environment was still running months after it was initially set up. And because those who created it did not expect unauthorized people to access it, they didn’t use the same authentication an
 
 ### Omarchy gains $18.5M in backing, fresh converts – and fierce critics
 Thu, 17 Sep 2026 12:44:00 +0200 — https://www.theregister.com/software/2026/09/17/omarchy-gains-185m-in-backing-fresh-converts-and-fierce-critics/5296780
@@ -285,22 +300,27 @@ Thu, 17 Sep 2026 12:08:04 +0200 — https://www.theregister.com/security/2026/09
 
 Ofcom chiefs have acknowledged that most fines issued under the Online Safety Act (OSA) remain unpaid, highlighting limitations in the comms regulator's enforcement powers. The regulator's director of enforcement, Suzanne Cater, told the House of Lords Communications and Digital Committee that although another payment arrived this week, "realistically the majority have not been paid." Ofcom has imposed fines totaling more than £7 million ($9.4 million) on 11 service providers under its OSA powers so far, but when asked, it refused to specify exactly how many have not paid, nor detail the payment that came in this week. Oliver Griffiths, group director at Ofcom, said the regulator's enforcement action had primarily focused on smaller companies in the pornography industry. Its largest fine under the OSA, for example, was the £1.4 million ($1.88 million) penalty imposed on 8579 LLC in February. However, Ofcom plans to pursue larger companies, which Griffiths said should make difficulties collecting fines less pronounced. "I think it looks acute at the moment," he told peers on Tuesday. "I think over time, as we are fining the bigger companies, if they're in breach of the act, this will be less of an issue." Asked why it had not collected more of the fines, Ofcom officials pointed to the limits of its powers and the ways online platforms structure their businesses to evade enforcement. Cater said the regulator was beginning to exercise its powers to hold senior managers personall
 
-### Government Digital Service move 'grinds gears' in UK's e-government
-Thu, 17 Sep 2026 11:15:00 +0200 — https://www.theregister.com/public-sector/2026/09/17/government-digital-service-move-grinds-gears-in-uks-e-government/5296784
-
-The UK government’s decision to move the Government Digital Service (GDS) — responsible for creating digital services across the public sector — to its third departmental home in three years risks hemorrhaging talent and moving it further away from the center of power, MPs heard this week. The GDS “fell into a bit of a fray” during the reorganization ordered by incoming Prime Minister Andy Burnham’s team, according to Laura Gilbert, former director of data science at 10 Downing Street, the Prime Minister's office. She told the House of Commons Science, Innovation and Technology Committee: “It's difficult to know whether somebody won that fight and therefore won GDS, or it was more incidental and it was played off against something else. I was genuinely quite surprised by it.” The GDS was formed in 2011 under the Conservative-Liberal Democrat coalition to help bring public services online. It sat within the Cabinet Office until Sir Keir Starmer became Prime Minister for Labour in 2024, when it moved to the Department for Science, Innovation and Technology (DSIT). In January 2025, the government merged the GDS with the Central Digital and Data Office (CDDO), which led the digital, data and technology function of government and was responsible for strategy and standards. In the most recent government re-organization since Andy Burnham took over as Prime Minister, the GDS has moved to the Department for Digital, Culture, Media and Sport (DCMS). It falls within the remit of Stepha
-
-### Judge orders Microsoft to spill internal docs and scour execs' comms in secondhand licensing case
-Thu, 17 Sep 2026 10:30:00 +0200 — https://www.theregister.com/legal/2026/09/17/judge-orders-microsoft-to-spill-internal-docs-and-scour-execs-comms-in-secondhand-licensing-case/5296820
-
-The legal spat between secondhand software reseller ValueLicensing and Microsoft took another turn this week: a consent order was published with demands for documents from past and present Microsoft head honchos, and a planned case management conference was canceled. Several requests in the order revolved around a historic, potentially explosive internal document written by Microsoft entitled the "Second-Hand Software" (SHS) Presentation. ValueLicensing and Microsoft agreed to vacate the case management conference ahead of its scheduled date on September 14, 2026. The result is the Consent Order [PDF], which, unsurprisingly, focuses on locating and asking for the disclosure of Microsoft documents that may bear on the reseller's allegation that the company offered incentives for customers to shift to subscription services in return for not selling their pre-owned licenses. The confidentiality designation applied to several documents in the case has also been lifted. In addition, there are many references to a June 2013 document that Microsoft disclosed on December 22, 2025, entitled "Second-Hand Software Presentation" (SHS Presentation). June 2013 was a busy time for Microsoft: it had launched the Office 365 subscription service two years previously, but there was a question over what to do about those customers with perpetual licenses that Microsoft wanted to move into the brave new world of "an always-up-to-date cloud service, at a predictable monthly subscription." While th
-
-### Fujitsu ready to sell its custom ‘Monaka’ Arm chip, maybe to rival server-makers
-Thu, 17 Sep 2026 08:20:33 +0200 — https://www.theregister.com/systems/2026/09/17/fujitsu-ready-to-sell-its-custom-monaka-arm-chip-maybe-to-rival-server-makers/5297025
-
-Fujitsu will start selling its Monaka processors, and servers packing them, in November. The Japanese giant started talking about Monaka way back in 2023, when it teased the processor as being derived from the silicon it designed for the Fugaku supercomputer, but adapted for datacenter use. Fugaku was the world’s most powerful supercomputer from 2020 to 2022, and remains in ninth place on the Top 500 list six years after its debut. Who wouldn’t want the tech that powered that behemoth in their datacenter? Yet as The Register reported earlier this year, Monaka diverged significantly from the silicon inside Fugaku. It’s built on Broadcom’s 3D-chip stacking tech and use the Armv9 ISA. The chip features a quartet of 2nm compute dies, each packing 36 cores. Also inside the chip are four SRAM 5nm chiplets, and it’s all connected by a central I/O and memory die with 12 channels of DDR5 and PCIe 6.0 connectivity. For years, Fujitsu told the Monaka-curious that the chip would see the light of day in 2027. Earlier this week Fujitsu announced it will start selling the chips, and servers that use it, from November. The company will sell the chip to cloud operators and server manufacturers. The latter will have to compete with Fujitsu itself, which has created three servers that use the CPU: A 1U server that can pack one or two processors, running at either 2.1GHz or 2.9GHz, room for eight E3.S SSDs and two M.2 SSDs, and the ability to run in both air-cooled environments where the tempera
-
 ## Engadget
+
+### Candy Crush developers are planning a strike for next week
+Thu, 17 Sep 2026 18:58:17 +0000 — https://www.engadget.com/2261707/candy-crush-developers-are-planning-a-strike-for-next-week/
+
+King's staff want to get negotiations back on track after years of bargaining.
+
+### Lofi Girl returns with a new house music station and vinyl compilation
+Thu, 17 Sep 2026 17:00:00 +0000 — https://www.engadget.com/2260588/lofi-girl-returns-with-a-new-house-music-station-and-vinyl-compilation/
+
+The old where'd lofi girl go trick again, I see.
+
+### Scammers have been inserting fake songs onto real artist's pages on Spotify and other platforms
+Thu, 17 Sep 2026 16:37:26 +0000 — https://www.engadget.com/2261435/scammers-have-been-inserting-fake-songs-onto-real-artist-pages-on-spotify-and-other-platforms/
+
+A distribution loophole lets scammers collect royalties uploading fake songs to profiles for real bands.
+
+### Lucid and Bolt plan to deploy at least 25,000 robotaxis across Europe
+Thu, 17 Sep 2026 16:08:47 +0000 — https://www.engadget.com/2261369/lucid-and-bolt-plan-to-deploy-at-least-25000-robotaxis-across-europe/
+
+At least that's the hope.
 
 ### Razer refreshes the one-handed Tartarus Pro keyboard with improved switches
 Thu, 17 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2257676/razer-refreshes-the-one-handed-tartarus-pro-keyboard-with-improved-switches/
@@ -342,27 +362,47 @@ Thu, 17 Sep 2026 11:24:45 +0000 — https://www.engadget.com/2260986/nvidia-goog
 
 A new coalition of tech giants aims to speed AI data center grid connections in exchange for more flexibility.
 
-### OpenAI reveals more instances of concerning AI model behaviors during testing
-Thu, 17 Sep 2026 10:50:20 +0000 — https://www.engadget.com/2260974/openai-details-instances-of-models-fabricating-information-hiding-from-testers/
-
-OpenAI says it doesn't believe the industry has solved its problems 'to a sufficient degree to continue responsibly scaling at maximum speed for much longer.'
-
-### Oversight Board says Meta's rules for AI deepfakes are 'consistently and fundamentally inadequate'
-Thu, 17 Sep 2026 10:00:00 +0000 — https://www.engadget.com/2260894/oversight-board-says-metas-rules-ai-deepfakes-fundamentally-inadequate/
-
-The Oversight Board is asking Meta to prioritize AI content when it's reported.
-
-### An iOS 27 bug can temporarily freeze your iPhone
-Thu, 17 Sep 2026 06:08:09 +0000 — https://www.engadget.com/2260916/ios-27-bug-temporarily-freeze-iphone/
-
-If your newly updated iPhone suddenly freezes, don't panic. Here's how to fix it.
-
-### Snap Specs hands on: Standalone AR glasses are here
-Wed, 16 Sep 2026 23:40:00 +0000 — https://www.engadget.com/2260675/snap-specs-hands-on-standalone-ar-glasses-are-here/
-
-The glasses come with AR apps that actually feel useful, but is that enough to get people excited for the $2,195 device?
-
 ## TechCrunch
+
+### Microsoft exec called AI scraping ‘the largest theft of labor in human history, new unredacted filings reveal
+Thu, 17 Sep 2026 19:46:08 +0000 — https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/
+
+Newly unsealed court filings show Microsoft privately called OpenAI's data practices "theft" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.
+
+### Waymo restarts San Antonio service 5 months after flooding troubles
+Thu, 17 Sep 2026 18:30:30 +0000 — https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/
+
+The company suspended service in the city in April after one of its robotaxis got swept away.
+
+### Even the king of England has his hesitations about AI
+Thu, 17 Sep 2026 17:26:25 +0000 — https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/
+
+King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.
+
+### Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire
+Thu, 17 Sep 2026 17:15:59 +0000 — https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/
+
+Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.
+
+### Pinterest teases a new Restyle feature that lets you redesign your room with AI
+Thu, 17 Sep 2026 17:15:00 +0000 — https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/
+
+Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.
+
+### TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host
+Thu, 17 Sep 2026 16:34:36 +0000 — https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/
+
+TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.
+
+### Apple will let EU apps use less-alarming tracking-consent screens
+Thu, 17 Sep 2026 16:09:58 +0000 — https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/
+
+Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent.
+
+### Roku s new Labs hub brings experimental apps to the big screen
+Thu, 17 Sep 2026 15:50:29 +0000 — https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/
+
+Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.
 
 ### Last call: Disrupt volunteer application closes soon
 Thu, 17 Sep 2026 15:02:00 +0000 — https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/
@@ -383,44 +423,4 @@ Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as
 Thu, 17 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/
 
 Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.
-
-### Rival AI agents, Instinct and Meta s Muse, both add the ability to make calls
-Thu, 17 Sep 2026 13:46:16 +0000 — https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/
-
-People can use these assistants to make restaurant reservations and cancel subscriptions.
-
-### Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers
-Thu, 17 Sep 2026 13:38:33 +0000 — https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/
-
-A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.
-
-### Lucid Motors has a potential robotaxi partner for Europe
-Thu, 17 Sep 2026 13:26:32 +0000 — https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/
-
-The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet.
-
-### How Bain Capital Ventures plans to deploy its fresh $1.6B fund
-Thu, 17 Sep 2026 12:57:46 +0000 — https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/
-
-BCV's latest fund targets early-stage founders harnessing AGI and building the infrastructure to run it efficiently.
-
-### Spotify expands its partner program for podcasts to 35 new countries
-Thu, 17 Sep 2026 12:00:00 +0000 — https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/
-
-Spotify said since changing its video podcasts creator terms in January, its payouts have increased by more than a third.
-
-### Comp AI sets eyes on a continuously agentic future for security and compliance
-Thu, 17 Sep 2026 11:00:00 +0000 — https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/
-
-Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.
-
-### Iceland-based Treble raises $18 million for its voice simulation platform
-Thu, 17 Sep 2026 05:00:00 +0000 — https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/
-
-Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,
-
-### Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026
-Thu, 17 Sep 2026 03:30:00 +0000 — https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/
-
-This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.
 
