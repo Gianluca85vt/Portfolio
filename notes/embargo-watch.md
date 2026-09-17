@@ -1,4 +1,4 @@
-# Review radar — updated 2026-09-16
+# Review radar — updated 2026-09-17
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,21 +20,21 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| iRacing® Studios NASCAR 26 | iRacing.com Motorsport Simulations, LLC | 2026-09-17 | 1d | 2026-09-16 | €59.99 |
+| iRacing® Studios NASCAR 26 | iRacing.com Motorsport Simulations, LLC | 2026-09-17 | today | 2026-09-16 | €59.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| SILENT HILL: Townfall | KONAMI,  Annapurna Interactive | 2026-09-23 | 7d | 2026-09-22 | €49.99 |
-| EA SPORTS FC 27 | Electronic Arts | 2026-09-24 | 8d | 2026-09-23 | €69.99 |
-| CONTROL Resonant | Remedy Entertainment | 2026-09-24 | 8d | 2026-09-23 | €59.99 |
-| Transport Fever 3 | Paradox Interactive | 2026-09-29 | 13d | 2026-09-28 | €49.99 |
-| Minecraft Dungeons II | Xbox Game Studios | 2026-09-29 | 13d | 2026-09-28 | €29.99 |
+| SILENT HILL: Townfall | KONAMI,  Annapurna Interactive | 2026-09-23 | 6d | 2026-09-22 | €49.99 |
+| EA SPORTS FC 27 | Electronic Arts | 2026-09-24 | 7d | 2026-09-23 | €69.99 |
+| CONTROL Resonant | Remedy Entertainment | 2026-09-24 | 7d | 2026-09-23 | €59.99 |
+| Transport Fever 3 | Paradox Interactive | 2026-09-29 | 12d | 2026-09-28 | €49.99 |
+| Minecraft Dungeons II | Xbox Game Studios | 2026-09-29 | 12d | 2026-09-28 | €29.99 |
 
 ---
 
-*1500 upcoming titles scanned, 889 with a firm date inside
+*1000 upcoming titles scanned, 878 with a firm date inside
 14 days, 6 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

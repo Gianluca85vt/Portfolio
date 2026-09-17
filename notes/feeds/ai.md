@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-16T19:41:39.336Z
+# AI — harvested 2026-09-17T09:39:18.853Z
 
 ## OpenAI
 
@@ -16,6 +16,11 @@ Explore new AI-powered advertising experiences from OpenAI, including Sponsored 
 Wed, 16 Sep 2026 12:00:00 GMT — https://openai.com/index/how-to-connect-ai-usage-to-business-value
 
 Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.
+
+### Our framework for reporting model misalignment
+Wed, 16 Sep 2026 17:00:00 GMT — https://openai.com/index/model-misalignment-reporting-framework
+
+OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.
 
 ### How workers are unlocking new ways of working
 Wed, 16 Sep 2026 09:00:00 GMT — https://openai.com/index/unlocking-new-ways-of-working

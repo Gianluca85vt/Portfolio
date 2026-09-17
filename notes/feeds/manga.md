@@ -1,72 +1,77 @@
-# Manga — harvested 2026-09-16T19:41:39.336Z
+# Manga — harvested 2026-09-17T09:39:18.853Z
 
 ## Anime News Network
 
-### Official Naruto Shippuden Battle Board Game Launches Crowdfunding Campaign
-Wed, 16 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/official-naruto-shippuden-battle-board-game-launches-crowdfunding-campaign/.241869
+### Solo Leveling: Karma Game Unveils Gameplay Overview, Cinematic Story Trailer
+Thu, 17 Sep 2026 04:47:17 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/solo-leveling-karma-game-unveils-gameplay-overview-cinematic-story-trailer/.241897
 
-<cite>Naruto Shippuden Battle</cite> project asks 2-4 players to assemble teams of 3 characters
+Game launches this year
 
-### Snack World Reloaded Game's Trailer Previews Combat, Stages, Bosses
-Wed, 16 Sep 2026 13:30:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/snack-world-reloaded-game-trailer-previews-combat-stages-bosses/.241867
+### New Lollipop Chainsaw Game Announced for 2027 Release on PS5
+Thu, 17 Sep 2026 04:37:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/new-lollipop-chainsaw-game-announced-for-2027-release-on-ps5/.241894
 
-Game launches in 2027 for Switch 2, PS5, PC
+<cite>Final Fantasy XV's</cite> Hajime Tabata directs new <cite>Lollipop Chainsaw 2 Back2Back</cite> game
 
-### Decapolice Game's Trailers Preview Story, Mysteries, Combat
-Wed, 16 Sep 2026 13:03:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/decapolice-game-trailers-preview-story-mysteries-combat/.241865
+### Live-Action Series The Remarried Empress Releases Main Trailer, Key Visual
+Thu, 17 Sep 2026 03:58:45 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/live-action-series-the-remarried-empress-releases-main-trailer-key-visual/.241888
 
-Game launches for Switch 2, PS5, PC in 2027 following delays
+Trailer introduces show's 4 main characters through their dialogue, highlighting their personalities, relationships
 
-### Stranger Than Heaven Game's Video Previews Opening, Showbiz, Combat
-Wed, 16 Sep 2026 12:52:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/stranger-than-heaven-game-video-previews-opening-showbiz-combat/.241858
+### Entergram Announces Koyo -RE-Nium Visual Novel Starring Hololive VTuber Hakui Koyori
+Thu, 17 Sep 2026 03:40:17 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/entergram-announces-koyo-re-nium-visual-novel-starring-hololive-vtuber-hakui-koyori/.241889
 
-Game's theme song by Snoop Dogg, Satoshi Fujihara, Ado, Tori Kelly gets release this year
+Hakui also supervises game
 
-### Terranigma RPG's Trailer Reveals January 14 Release
-Wed, 16 Sep 2026 12:26:18 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/terranigma-rpg-trailer-reveals-january-14-release/.241857
+### Dragon Quest Monsters: The Withered World Game Posts Gameplay Trailer
+Wed, 16 Sep 2026 23:59:09 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/dragon-quest-monsters-the-withered-world-game-posts-gameplay-trailer/.241884
 
-Video previews new easy-view status window, aspect ratio selection, adjusted difficulty
+Game launches on December 3
 
-### Mega Man: Dual Override Game's Video Previews Dual Protagonists, Custom Chips, Special Weapons, Override, Pragmata DLC
-Wed, 16 Sep 2026 12:06:09 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/mega-man-dual-override-game-video-previews-dual-protagonists-custom-chips-special-weapons-override-/.241863
+### McDonald's Japan Streams Opening for Tsukimi Burger Anime You Never Knew Existed
+Wed, 16 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-16/mcdonald-japan-streams-opening-for-tsukimi-burger-anime-you-never-knew-existed/.241835
 
-DLC adding Mega Man/Roll suits for <cite>Pragmata</cite> game launches on Thursday
+McDonald's Japan: “Since Tabemi and Mochiko were satisfied with the opening being made, the series will not go into production!”
 
-### Young Ladies Don't Play Fighting Games Volumes 1-9 Manga Review
-Wed, 16 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games-volumes-1-9-manga/.241283
+### FuRyu Streams Crymelight Game's Opening Video
+Wed, 16 Sep 2026 23:56:34 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/furyu-streams-crymelight-game-opening-video/.241883
 
-The thrill of combat, the agony of defeat, that’s all that matters for the dedicated gamers of Kuromi Girls’ Academy’s illicit Fighting Game Club…even if it means they give up everything else.
+Video reveals November 5 game's theme song "Love and Guilt by Hitomi Sekine
 
-### Dragon's Dogma 2 Game's Trailer Previews 'Dark Arisen' Expansion
-Wed, 16 Sep 2026 11:22:38 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/dragon-dogma-2-game-trailer-previews-dark-arisen-expansion/.241859
+### Un:Me Game's Trailer Reveals 2027 Delay, Yumiri Hanamori Casting
+Wed, 16 Sep 2026 23:52:33 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/un-me-game-trailer-reveals-2027-delay-yumiri-hanamori-casting/.241882
 
-<cite>Dragon's Dogma 2: Dark Arisen</cite> launches on October 9 for Switch 2, PS5, Xbox X|S, PC
+Game previously slated for this year on Switch 2, PS5, PC
 
-### Monster Hunter Wilds: Ascendance Game Expansion's Trailer Reveals Teostra, Previews Boost Drivers
-Wed, 16 Sep 2026 11:14:05 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/monster-hunter-wilds-ascendance-game-expansion-trailer-reveals-teostra-previews-boost-drivers/.241860
+### Wo Long 2: Wings of Ember Game Launches on March 4
+Wed, 16 Sep 2026 23:48:06 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/wo-long-2-wings-of-ember-game-launches-on-march-4/.241875
 
-Video also confirms crossplay for upcoming Switch 2 release, previews new features
+Playable demo available now
 
-### Manga Up! Global Adds I Need to Quit this Antique Store, Tsukimi Is All Dolled Up Manga
-Wed, 16 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/manga-up-global-adds-i-need-to-quit-this-antique-store-tsukimi-is-all-dolled-up-manga/.241841
+### Uma Musume Revs Motorcycles with Moto GP Grand Prix of Japan 2026
+Wed, 16 Sep 2026 23:30:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-16/uma-musume-revs-motorcycles-with-moto-gp-grand-prix-of-japan-2026/.241846
 
-Also: <cite>The Journey of the Half-Elf Dwarven Master Blacksmith</cite> manga
+Horse-girl racing meets motorcycle racing
 
-### Red River ‒ Episode 11
-Wed, 16 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-11/.241856
+### Final Fantasy Resonance Game's TGS Trailer Previews Theme Song
+Wed, 16 Sep 2026 23:18:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/final-fantasy-resonance-game-tgs-trailer-previews-theme-song/.241881
 
-This episode is a distillation of everything wrong with <i>Red River</i>’s attempt to live up to its manga.
+WurtS performs theme song "Inside" for October 22 game
 
-### I Want to Love You Till Your Dying Day ‒ Episode 11
-Wed, 16 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-11/.241836
+### Tank Chair Anime Reveals 2nd Main Promo Video, Megumi Ogata as Sensei
+Wed, 16 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/tank-chair-anime-reveals-2nd-main-promo-video-megumi-ogata-as-sensei/.241870
 
-It's episodes like this that really make me worry about how little the show ultimately has to say.
+Anime premieres on October 4
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Umamusume To Sponsor the 2026 Motul Grand Prix of Japan
+Thu, 17 Sep 2026 08:55:58 GMT — https://animecorner.me/umamusume-to-sponsor-the-2026-motul-grand-prix-of-japan/
+
+Umamusume: Pretty Derby has announced a sponsor partnership with MotoGP™ ahead of the 2026&hellip;
 
 ### Re:ZERO Reveals Daisuke Ono as the Voice of Divine Dragon Volcanica in Episode 83 (Season 4 Episode 17)
 Wed, 16 Sep 2026 14:48:53 GMT — https://animecorner.me/rezero-reveals-daisuke-ono-as-the-voice-of-divine-dragon-volcanica-in-episode-83-season-4-episode-17/
@@ -118,16 +123,6 @@ Tue, 15 Sep 2026 11:29:40 GMT — https://animecorner.me/katekyo-hitman-reborn-r
 
 Katekyo Hitman REBORN! anime released the creditless version of its fifth opening, featuring "last cross" by Masami Mitsuoka.
 
-### Julius Faces Reid Again in Re:ZERO Season 4 Episode 17 Preview
-Tue, 15 Sep 2026 08:59:57 GMT — https://animecorner.me/julius-faces-reid-again-in-rezero-season-4-episode-17-preview/
-
-Re:ZERO Season 4 has revealed the Episode 17 (Episode 83 overall) preview ahead of its September 16, 2026 premiere.
-
-### The Dangers in My Heart Manga Has Officially Ended After 8 Years of Serialization
-Tue, 15 Sep 2026 08:21:34 GMT — https://animecorner.me/the-dangers-in-my-heart-manga-has-officially-ended-after-8-years-of-serialization/
-
-Norio Sakurai's The Dangers in My Heart (BokuYaba) manga officially ended today, with its final chapter released on Akita Shoten's Champion Cross website.
-
 ## MyAnimeList News
 
 ### Japan-French Co-Production Aoki Denshou Welsh & Shedar Announced for Fall 2026
@@ -164,11 +159,6 @@ The official website for the television anime adaptation of Ryuto s Mezametara S
 Tue, 15 Sep 2026 04:08:22 -0700 — https://myanimelist.net/news/74722530?_location=rss
 
 The official website for the television anime adaptation of Umikaze Minamino s Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei naru Musouroku (Nia Liston: The Merciless Maiden) light novel unveiled additional cast pair and situational visual (pictured above) on Tuesday. The anime will air for two consecutive cours, beginning on October 6 at 9.25 p.m. on Tokyo MX, followed by BS Nippon TV, and MBS. The series will hold a special stage event and advan...
-
-### Spin-off Manga Puchimas!: Petit iDOLM@STER Concludes 18-Year Serialization
-Mon, 14 Sep 2026 21:07:50 -0700 — https://myanimelist.net/news/74721441?_location=rss
-
-The official X (formerly Twitter) account of the Dengeki Maoh magazine announced on Monday that the Puchimas!: Petit iDOLM@STER spin-off manga will end with its 200th and final chapter in the issue releasing on December 25. Akane began serializing the four-panel comedy manga, based on Bandai-Namco s The iDOLM@STER franchise, in Dengeki Maoh in July 2008. Kadokawa published the 15th volume in December 2024, with the 16th and final volume scheduled for a February 2027 release. A 64-episode ne...
 
 ## Otaku USA
 

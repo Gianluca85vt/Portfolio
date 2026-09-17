@@ -1,6 +1,16 @@
-# Games — harvested 2026-09-16T19:41:39.336Z
+# Games — harvested 2026-09-17T09:39:18.853Z
 
 ## Eurogamer
+
+### Monster Hunter Wilds upcoming expansion, Ascendance, reveals an infamous returning monster - and it looks like it'll address the difficulty complaints
+Thu, 17 Sep 2026 08:36:26 +0000 — https://www.eurogamer.net/monster-hunter-ascendance-teostra-reveal
+
+Brace yourselves, everyone: the Monster Hunter Wilds Ascendance marketing machine is spinning up. Today, at Tokyo Game Show, Capcom released the an extended cut of the first official trailer for Ascendance, revealing the explosion-loving leonine monster, Teostra, as a huntable foe. Read more
+
+### PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature
+Thu, 17 Sep 2026 08:16:11 +0000 — https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature
+
+A new PlayStation 5 firmware update has officially arrived for everyone, after about a month of testing. The change log for firmware version 26.06-14.00.00 has changed in one major way since the beta first went live in August . Read more
 
 ### Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who "constantly tweet anti-crunch messaging"
 Wed, 16 Sep 2026 19:15:25 +0000 — https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement
@@ -52,17 +62,17 @@ Wed, 16 Sep 2026 11:40:31 +0000 — https://www.eurogamer.net/xbox-game-pass-big
 
 Xbox could be planning another major shake-up of its Game Pass subscription service, this time removing key benefits the service is known for. That's according to a new leak from ResetEra user Slayven, who in 2025 revealed Microsoft's plans to raise Game Pass prices and change tier offerings, some of which turned out to be true . Read more
 
-### You can play a sizeable demo of Wo Long 2: Wings of Ember right now, getting you ready for its March 2027 release date
-Wed, 16 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/wo-long-2-wings-of-ember-demo-release-date
-
-Overnight, in the run up to Tokyo Game Show, Koei Tecmo and Team Ninja announced that Wo Long 2: Wings of Ember, the latest instalment in the studios' dark Three Kingdoms-inspired action-RPG series, will be released worldwide on 4th March 2027. The two companies also announced a huge alpha test for the game in the form of a free demo that provides an early look at the game, including an in-progress character creation system, and online multiplayer for up to three players. Read more
-
-### Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update
-Wed, 16 Sep 2026 08:42:38 +0000 — https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed
-
-The launch of Diablo 4 's Season of Hell's Legacy got off to a rough start. The anticipated season was announced at BlizzCon over the weekend to arrive alongside a 30th anniversary celebration of the Diablo franchise . And though Season of Hell's Legacy eventually went live, it did so several hours after it was supposed to. Read more
-
 ## GamesIndustry.biz
+
+### Heart Machine faces possible closure after publishing deal falls through; majority of staff laid off
+Thu, 17 Sep 2026 08:39:10 +0000 — https://www.gamesindustry.biz/heart-machine-faces-possible-closure-after-publishing-deal-falls-through-majority-of-staff-laid-off
+
+Hyper Light Drifter developer Heart Machine is at risk of shutting down after a publishing deal collapsed. Read more
+
+### Shinji Mikami to be inducted into the AIAS Hall of Fame later this week
+Wed, 16 Sep 2026 20:21:48 +0000 — https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week
+
+The Academy of Interactive Arts and Sciences (AIAS) has announced that Resident Evil creator, Shinji Mikami, will be inducted into its Hall of Fame next year. Read more
 
 ### MindsEye developers report new round of layoffs at Build A Rocket Boy
 Wed, 16 Sep 2026 17:32:12 +0000 — https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy
@@ -109,21 +119,21 @@ Tue, 15 Sep 2026 09:43:03 +0000 — https://www.gamesindustry.biz/team17-owner-e
 
 Team17 owner Everplay expects strong full-year results, as Bulkhead's Wardogs and Expression Games' Hell Let Loose: Vietnam are outperforming expectations. Read more
 
-### Curve Games partners with Wayfinder Studios to publish online co-op RPG Wyldheart
-Tue, 15 Sep 2026 07:44:48 +0000 — https://www.gamesindustry.biz/curve-games-partners-with-wayfinder-studios-to-publish-online-co-op-rpg-wyldheart
-
-Curve Games has partnered with independent developer Wayfinder Studios to publish Wyldheart, its online co-op RPG. Read more
-
-### Level-5 CEO admits using generative AI in recent showcase
-Mon, 14 Sep 2026 20:10:38 +0000 — https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase
-
-Level-5 president and CEO Akihiro Hino has apologized after confirming that generative AI was used in the studio's recent digital showcase. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Rumour: Media Molecule s Next Game Is Out Next Year and Unlike Anything It s Made Before
+Thu, 17 Sep 2026 09:15:00 GMT — https://www.pushsquare.com/news/2026/09/rumour-media-molecules-next-game-is-out-next-year-and-unlike-anything-its-made-before
+
+New horizons. If you're anything like me, you'll have been dying to know what's going on over at Media Molecule since it wound down active development on Dreams . Well, a new report from MP1st claims to know what it's making, and when it's coming. Read the full article on pushsquare.com
+
+### Preview: Silver Palace Is a Gorgeous Gothic PS5 RPG, But So Far I ve Played It Before
+Wed, 16 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/previews/silver-palace-is-a-gorgeous-gothic-ps5-rpg-but-so-far-ive-played-it-before
+
+London's burning. Oh no, here I am again writing about another upcoming free-to-play RPG that’s sure to attract some sensible comments. Well, look, I pressed pause on Silver Palace for over a week so you’ve had plenty of time to recover from my Ananta and Honkai: Nexus Anima reports. Read the full article on pushsquare.com
 
 ### The Disastrous MindsEye Saga Comes to a Close as Studio Is Reportedly Shutting Down
 Wed, 16 Sep 2026 18:30:00 GMT — https://www.pushsquare.com/news/2026/09/the-disastrous-mindseye-saga-comes-to-a-close-as-studio-is-reportedly-shutting-down
@@ -175,17 +185,12 @@ Wed, 16 Sep 2026 09:15:00 GMT — https://www.pushsquare.com/news/2026/09/ps5s-n
 
 What does version 26.06-14.00.00 do? Sony has announced version 26.06-14.00.00 of the PS5 system software has begun rolling out, and should be available to download to your console within the next 24 hours or so. This update is more than just a stability improvement, so let's take a look at the full list of patch notes, as per Sony: Read the full article on pushsquare.com
 
-### New PS5 Pulse Headsets Revealed by Sony with Better Sound and Comfort
-Tue, 15 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/09/new-ps5-pulse-headsets-revealed-by-sony-with-better-sound-and-comfort
-
-Pulse headset this year, Pulse Edge headset in 2027. PlayStation has announced it's updating its line of PS5 Pulse headsets with two new models providing improved sound, comfort, and noise-rejection features for chat that filter out background noise. There will be two new models on offer supporting PS5 consoles and other devices: the Pulse Wireless Headset and the Pulse Edge Wireless Headset. Read the full article on pushsquare.com
-
-### Marvel s Wolverine PS5 Launch Marked with Celebratory Art from Other PS Studios
-Tue, 15 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/09/marvels-wolverine-ps5-launch-marked-with-celebratory-art-from-other-ps-studios
-
-Congrats, bub. What's that? A new first-party game from PS Studios has arrived? That must mean it's time for some fun launch day art work! As is the case with all games from Sony's developers, the launch of Marvel's Wolverine from Insomniac Games has been celebrated with fun art pieces from the studio's stablemates. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Hyper Light Drifter developer Heart Machine has laid off the majority of staff
+Thu, 17 Sep 2026 09:13:32 GMT — https://www.gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff
+
+The studio has downsized significantly in recent years and has now reached an existential crossroads.
 
 ### Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs
 Wed, 16 Sep 2026 18:00:00 GMT — https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs
@@ -229,6 +234,26 @@ Tue, 15 Sep 2026 13:19:00 GMT — https://www.gamedeveloper.com/business/bohemia
 
 ## VGC
 
+### Aniimo Gift Code Redemption: All codes to redeem in Aniimo
+Thu, 17 Sep 2026 09:17:27 +0000 — https://www.videogameschronicle.com/guide/all-codes-to-redeem-in-aniimo/
+
+All Gift Codes to redeem for rewards in Aniimo… Source
+
+### Monster Hunter Wilds will stop charging players to change their character s appearance
+Thu, 17 Sep 2026 09:06:46 +0000 — https://www.videogameschronicle.com/news/monster-hunter-wilds-will-stop-charging-players-to-change-their-characters-appearance/
+
+Character Edit Vouchers are being scrapped when the Ascendance expansion is released… Source
+
+### Sony responds after PC games including Helldivers 2 disappear in UK
+Wed, 16 Sep 2026 22:34:38 +0000 — https://www.videogameschronicle.com/news/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk/
+
+PlayStation says it’s working to reinstate Steam games including Helldivers… Source
+
+### The War Thunder team looks back on 14 years of service: from planes and ponies to tanks, choppers, and even frontline infantry
+Wed, 16 Sep 2026 20:56:36 +0000 — https://www.videogameschronicle.com/news/the-war-thunder-team-looks-back-on-14-years-of-service-from-planes-and-ponies-to-tanks-choppers-and-even-frontline-infantry/
+
+With War Thunder gearing up to add infantry FPS gameplay after over a decade, here's why (and how) we got here… Source
+
 ### Disney Dreamlight Valley s next expansion The Keepsake Sea plunges new depths, but in the best way possible
 Wed, 16 Sep 2026 18:31:47 +0000 — https://www.videogameschronicle.com/features/disney-dreamlight-valleys-next-expansion-the-keepsake-sea-plunges-new-depths-but-in-the-best-way-possible/
 
@@ -259,79 +284,84 @@ Wed, 16 Sep 2026 11:59:08 +0000 — https://www.videogameschronicle.com/guide/an
 
 Elemental strengths, weaknesses, and counters for all types in Aniimo… Source
 
-### Video: Here s a look at the Wo Long 2 alpha demo, which is available today to mark its release date announcement
-Wed, 16 Sep 2026 10:37:09 +0000 — https://www.videogameschronicle.com/news/video-heres-a-look-at-the-wo-long-2-alpha-demo-which-is-available-today-to-mark-its-release-date-announcement/
-
-Koei Tecmo has announced that Wo Long 2 will release in March 2027… Source
-
-### Two Point Museum is getting Rides Relics DLC, which looks like a new Theme Park game in all but name
-Wed, 16 Sep 2026 09:59:40 +0000 — https://www.videogameschronicle.com/news/two-point-museum-is-getting-rides-relics-dlc-which-looks-like-a-new-theme-park-game-in-all-but-name/
-
-The Rides & Relics DLC lets players make their own amusement park and build rollercoasters… Source
-
-### The head of Nightdive Studios appears to be teasing a remaster of GameCube cult classic Eternal Darkness
-Wed, 16 Sep 2026 09:22:02 +0000 — https://www.videogameschronicle.com/news/the-head-of-nightdive-studios-appears-to-be-teasing-a-remaster-of-gamecube-cult-classic-eternal-darkness/
-
-It deserves the treatment I know Nightdive Studios is capable of… Source
-
-### Sega confirms that Sonic Racing CrossWorlds will still get free characters in Year Two, starting with Bayonetta
-Wed, 16 Sep 2026 08:22:16 +0000 — https://www.videogameschronicle.com/news/sega-confirms-that-sonic-racing-crossworlds-will-still-get-free-characters-in-year-two-starting-with-bayonetta/
-
-13 free 'guest' Sega characters were added to the game during its first year of content… Source
-
 ## Polygon
 
-### Guy Ritchie’s 128-minute Action Movie Is Officially the Biggest Detective Thriller on Streaming
-Wed, 16 Sep 2026 19:26:06 GMT — https://www.polygon.com/guy-ritchie-sherlock-holmes-streaming-hit-apple-tv-september-2026/
+### 20 Years Ago, Sega Introduced the World to Its Greatest Hero of All Time
+Thu, 17 Sep 2026 08:00:14 GMT — https://www.polygon.com/yakuza-1-20th-anniversary-north-america/
 
-Guy Ritchie has never been particularly interested in making polite British movies about polite British people.
+Even if you’ve never played a single one of Sega’s Yakuza games, you’ve undoubtedly seen the memes — the chicken in the bowling alley, the Friday night boogie at the disco, the profoundly earnest karaoke , the perils of mahjong . These days, there’s no denying that Kazuma Kiryu, the stoic but sweet prince of Tokyo’s underworld, is one of the most iconic characters in video games. And it all started back in September 2006, when the original Yakuza was first released outside Japan on the PlayStation 2.
 
-### Bloodborne Is Officially Back with a New Release — but There's a Catch
-Wed, 16 Sep 2026 19:20:46 GMT — https://www.polygon.com/bloodborne-sequel-super-groupies-new-collaboration-umbrella-fashion-merchandise/
+### Konami's Castlevania: Belmont's Curse Plays Like.a Dream
+Thu, 17 Sep 2026 07:57:35 GMT — https://www.polygon.com/castlevania-belmonts-curse-impressions-tgs-2026/
 
-Despite being a PlayStation 4 exclusive released more than 11 years ago, Bloodborne still maintains an impassioned fanbase. All those good hunters are hungry for a sequel, or even just a remastered PS5 version at this point. Instead, they have had to dine on comics , soundtrack represses , and other "not quite what I was looking for" releases instead.
+Konami's welcome revival of its most beloved franchises, including Silent Hill and Metal Gear Solid , is coming for Castlevania. The next game in the franchise, Castlevania: Belmont's Curse , looks to bring back the series' side-scrolling exploration and 2D platforming combat in the style of Symphony of the Night , but with refined, modernized sensibilities, thanks to the developers behind Dead Cells .
 
-### How a wellness craze inspired Pokemon
-Wed, 16 Sep 2026 19:06:30 GMT — https://www.polygon.com/video/how-a-wellness-craze-inspired-pokemon/
+### 60 Years Ago, the Best Charlie Brown Quote Was So Perfect It Made It Into the Movie
+Thu, 17 Sep 2026 05:12:14 GMT — https://www.polygon.com/peanuts-best-charlie-brown-quote/
 
-Pokemon came from a surprisingly sad period of Japan's history — the healing boom following an economic crisis. But that inspiration made the game what it is today. Find out how a late '90s wellness craze created Pokemon.
+Lucy’s quote, “Happiness is a warm puppy,” is another great one that touches on life’s simple joys on a really deep level. But to determine the best quote ever uttered by Charlie Brown, I didn't want accidental brilliance, I wanted something that he understands as much as the audience does. Something where he’s telling you who he is with complete self awareness. I wanted the character's philosophy on life. To me, that’s the difference between a brilliant Charlie Brown quote and brilliant Charles Schulz quote, if that makes sense.
 
-### Epic X-Men Villain Is Absolutely Terrorizing Marvel’s Wolverine Players
-Wed, 16 Sep 2026 18:00:14 GMT — https://www.polygon.com/marvels-wolverine-omega-red-first-boss/
+### 33 Years Ago, 'X-Files' Introduced Its Weirdest Character in the Most Perfect Way Possible
+Thu, 17 Sep 2026 04:02:15 GMT — https://www.polygon.com/x-files-deep-throat-33-years-later/
 
-James "Logan" Howlett, also known as the superhero Wolverine, loves himself good whiskey. I, too, poured myself some whiskey the other night while fighting Omega Red, the startlingly challenging first boss in Marvel's Wolverine . It seems I'm far from alone here: As players start diving into the game, many seem surprised at just how much of a skill check Omega Red poses.
+The scene takes place in the office of FBI Division Chief Scott Blevins (Charles Cioffi) and it contains four characters: Blevins, Scully, another man who asks her questions along with Blevins (Ken Camroux), and a silent man who only stands in the corner, puffing away on a cigarette.
 
-### 'Spider-Man: Brand New Day' Is Officially the Highest Grossing Film in Domestic Box Office History
-Wed, 16 Sep 2026 17:16:15 GMT — https://www.polygon.com/spider-man-brand-new-day-highest-grossing-film-domestic-box-office/
+### 23 Fire Emblem Fortune's Weave beginner tips to help you defy fate
+Thu, 17 Sep 2026 04:01:15 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-beginner-tips-tricks/
 
-Spider-Man is on top of the world. After 47 days in theaters, Spider-Man: Brand New Day has overtaken Star Wars: The Force Awakens to become the highest-grossing film in domestic box office history. Spidey reached $936.773 million on Tuesday, overtaking The Force Awakens ’ 936 million. The Star Wars film had held the title for more than a decade, having been released on Dec. 18, 2015.
+Fire Emblem: Fortune's Weave is a gigantic, overwhelming game, and even with all its tutorials, it's impossible to learn everything there is to know without some trial and error. Things like the build stat — new to Fire Emblem, if you skipped Engage — and the importance of paralogues, or how to fast travel on the world map are left for you to figure out on yourown. Or they would be without this guide.
 
-### Dragon Quest Celebrates 40th Anniversary by Passing a Huge Milestone
-Wed, 16 Sep 2026 17:13:34 GMT — https://www.polygon.com/dragon-quest-rpg-40th-anniversary-100-million-units-sold/
+### Where to find giants' meat in Fire Emblem Fortune's Weave
+Thu, 17 Sep 2026 04:01:15 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-giants-meat-how-to-get-location-goliath/
 
-On May 27, 1986, a company called Enix released a game called Dragon Quest in Japan. 40 years later, that company is now Square Enix and Dragon Quest has become one of the most popular and influential RPG series of all time. On this big anniversary, it is only fitting that the series crosses another major sales milestone.
+Giants' meat in Fire Emblem: Fortune's Weave is a cooking material, but instead of feeding it to your characters, you may want to consider keeping a stock of it. You will need three pieces of giants' meat to recruit Goliath to your party . The gladiator's request is a difficult one, as finding this material will require you to spend some time hunting giants.
 
-### New Resident Evil Movie Debuts to Near-perfect Rotten Tomatoes Score
-Wed, 16 Sep 2026 17:13:32 GMT — https://www.polygon.com/resident-evil-zach-creggers-rotten-tomatoes-review-roundup/
+### Best Boons of Salvation to unlock early in Fire Emblem Fortune's Weave
+Thu, 17 Sep 2026 04:01:15 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-boons-of-salvation-unlock-early/
 
-Anticipation for Zach Cregger's Resident Evil movie adaptation has been through the roof leading up to its release. The director of Barbarian and Weapons has made some of the best horror movies of the decade, and both moviegoers and fans of the Resident Evil video games have hoped he could revitalize the horror franchise on-screen with an actual, honest-to-god good movie. Because while we've gotten a handful of Resident Evil movies over the years, none of them have actually been decent.
+Boons of Salvation is a system in Fire Emblem: Fortune's Weave that rewards you for putting more hours into the game. Divided into four initial paths that eventually converge in later chapters, this game's design will require hours and hours of gameplay. Although this might discourage some people, the process can become smoother by unlocking these bonuses.
 
-### 2025 Best Kart Racer Just Got Even Better, Thanks to This New Free Character
-Wed, 16 Sep 2026 17:12:02 GMT — https://www.polygon.com/sonic-racing-crossworlds-bayonetta-year-two-free-character/
+### Which character should you pick first in Fire Emblem: Fortune's Weave?
+Thu, 17 Sep 2026 04:01:15 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-which-character-route-first/
 
-Sonic Racing: CrossWorlds came for Mario Kart's throne last year. Where Mario Kart World disappointed some with its underbaked open world and long straightaways, CrossWorlds was a tight, traditional kart racer whose races, ya know, went fast. In a year full of great kart racers , it was the one I returned to again and again, and its steady influx of new racers was certainly a factor. Several were added for free, and that strategy will continue in the game's second year of updates.
+Deciding which route to play first in Fire Emblem: Fortune's Weave seems like a big choice, and that's because it is. Each of the four playable heroes, or Flame Lords as Fortune's Weave calls them, follows a drastically different path from the others, with unique storylines and battles, mechanics no other hero can take advantage of, and even some classes specific to them. There's no wrong choice here, though, and you can clear the first act for all four heroes before moving on with the game — no restarting or fresh playthroughs required. The "right" decision just depends what kind of experience you want first.
 
-### Blizzard is Playing 4D Chess with Diablo 5's Early Reveal
-Wed, 16 Sep 2026 16:30:14 GMT — https://www.polygon.com/diablo-5-early-reveal-blizzard-diablo-4-future/
+### How long is Fire Emblem Fortune's Weave and how many chapters are there?
+Thu, 17 Sep 2026 04:01:15 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-chapter-list-how-long-to-beat/
 
-Talking about a project this early is not, currently, the done thing in the game industry. Blizzard knows better than most how early reveals can lead to overextended PR campaigns, delays, and frustrated fans, and has shied away from the tactic more recently. Bethesda's Todd Howard has admitted that he regrets announcing The Elder Scrolls 6 so early.
+During the quests in Fire Emblem: Fortune's Weave , you will follow the journey of the Flame Lords. Starting by playing as either Cai, Theodora, Leda, or Dietrich, you make your way through the Heroic Games and see how these characters become entangled in world-changing events.
 
-### Wardogs CEO Officially Addresses Crunch Allegations With ‘The Other Side'
-Wed, 16 Sep 2026 16:04:28 GMT — https://www.polygon.com/wardogs-ceo-joe-brammer-crunch-bulkhead-response/
+### All recruitable characters in Fire Emblem Fortune's Weave
+Thu, 17 Sep 2026 04:01:15 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-recruitable-characters-all-support-level/
 
-In an interview with Chris Dring on The Game Business , Bulkhead CEO and Wardogs executive producer Joe Brammer made a statement about crunch culture at the studio. It was subsequently reported on by Game Developer , and later picked up by other outlets such as PC Gamer and IGN . In response, Brammer has addressed the "out of context articles" by laying out the "facts" in a post on X. See below:
+Recruiting characters in Fire Emblem: Fortune's Weave is an important feature in the early game — but a crucial one in later chapters. Regardless of the path you choose to play in Part 1, you'll have a starting group of characters to play with. However, to win the Heroic Games, the protagonists of each path will need all the allies they can get.
 
 ## PC Gamer
+
+### Endless Legend 2 review
+Wed, 16 Sep 2026 23:12:07 +0000 — https://www.pcgamer.com/games/strategy/endless-legend-2-review/
+
+Need to know What is it? Rule-breaking sci-fantasy 4X Release date: September 17, 2026 (1.0 version) Expect to pay: $50/£45 Developer: Amplitude Studios Publisher: Hooded Horse Reviewed on: Radeon RX 6800 XT, Ryzen 9 5900, 32GB RAM Steam Deck: Verified Link: Official site There has been no drought of good 4X games over the past decade. Part of that has been the steady work of Amplitude, whose Endless series has become a stalwart part of the strategy scene. Endless Legend 2 further cements Amplitude's legacy as a great 4X developer, delivering the studio's trademark creativity and standout visual design in a modernized package. The original Endless Legend was a shot in the arm for a 4X genre that had gotten pretty stale. If you'd asked me in the years afterward if I wanted more Endless Legend, I'd have said yes. In the years since, many of its innovations—and those from sibling series Endless Space—have become standards in the genre. You might expect that to have dulled some of the charm. 12 years later, though, I still want more Endless Legend. Sciences fantastical I wanted more Endless Legend because there's never enough good science fantasy. Not the Star Wars kind, though that's fun too, but the kind where it's sword and sorcery with a technological flavor. Where it's mostly monsters and wizards. Bows, not blasters. So I'm glad that we're back to Endless Legend's worlds of crashed starship survivors building robotic golems and battling with titanium swords and wielding magi
+
+### Get a good look at Control Resonant's otherworldly bosses in a PC Gaming Show exclusive extended interview
+Wed, 16 Sep 2026 21:44:39 +0000 — https://www.pcgamer.com/games/action/get-a-good-look-at-control-resonants-otherworldly-bosses-in-a-pc-gaming-show-exclusive-extended-interview/
+
+Back in May, myself and some of the fantastic PC Gaming Show team went to Finland to interview the brilliant creative minds at Remedy. We learned a lot about Control Resonant, the upcoming ARPG sequel to 2019's Control. We showed you a snippet of those interviews in our June PC Gaming Show, but now, we've declassified the full video. In case you need a refresher, Resonant follows Dylan Faden, brother of newly-appointed FBC director Jesse Faden, who spent most of the original Control locked in a cell because of his dangerously powerful abilities and possession by the Hiss. After waking from a coma, he discovers the Hiss have escaped the Oldest House and are running rampant in Manhattan, New York. Simultaneously, or maybe because of their incursion, the island is being affected by an otherworldly threat called the Patterning. It's turning people into monsters and making everything look weird . "It's not simply a matter of ordering things in a predictable way, it's affecting the people," says creative director Mikael Kasurinen. "It affects time, it affects light." Everything in the city is topsy turvy: Fortunately, Dylan has the ability to flip the gravity and walk on walls and ceilings—or are those ceilings and walls? It's hard to tell. Remedy didn't look to other videogames for inspiration. Instead, the work of M.C. Escher was used for inspiration, as were films like A Field in England (a real trip that I'd encourage everyone to watch) and Paprika. But why not games? "There's 
+
+### Hyper Light studio Heart Machine lays off 'nearly everyone' after publishing deal for unannounced game falls through
+Wed, 16 Sep 2026 21:01:30 +0000 — https://www.pcgamer.com/gaming-industry/hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publisher-deal-for-unannounced-game-falls-through/
+
+Heart Machine, the developer of the Hyper Light games and Possessor(s), has laid off "nearly everyone at the studio" following the collapse of a deal with an unnamed publisher for funding of its next project. "I have very difficult news today," studio founder Alx Preston wrote on LinkedIn . "We had been working on an unannounced title, funded by a publisher. This week, they decided to no longer move forward with it. Without this key income for the studio, any other immediate prospects or other funds, nearly everyone at the studio had to be laid off. It's devastating. "Everyone will be provided with as much support as possible, including assisting with placement. If you know of any roles for extraordinarily talented, kind people, please reach out and we will coordinate." Heart Machine's debut game, Hyper Light Drifter , launched to critical and commercial success in 2016; the studio's follow-up, Solar Ash , didn't meet quite the same acclaim when it arrived in 2022, and Heart Machine ran into trouble a few years later, ending development of Hyper Light Breaker while it was still in early access and laying off employees. Released just after those layoffs were imposed, the action-platformer Possessor(s) earned "mostly positive" reviews on Steam, but not very many of them. It's not clear what comes next for Heart Machine. Preston said the studio will "keep pushing to find a path," but also warned that at this point, he's "not sure yet what's next for Heart Machine to survive." 20
+
+### Marathon creative director shoots down rumored merge with Destiny 2: 'Please don't believe everything you read online'
+Wed, 16 Sep 2026 20:20:16 +0000 — https://www.pcgamer.com/games/fps/marathon-creative-director-shoots-down-rumored-merge-with-destiny-2-please-dont-believe-everything-you-read-online/
+
+Have you heard the rumor that Bungie is looking to somehow merge Destiny and Marathon into a single series? I'll admit that I hadn't, until Marathon creative director Julia Nardin took to X to say flat-out that it's not true. "As someone who's worked on both Destiny and Marathon, I can confirm that the 'leak' about us merging the two IPs is fake," Nardin wrote. "They share a lot of the same Bungie DNA, but like siblings they're also their own independent entities. Please don't believe everything you read online." (Image credit: Julia Nardin (Twitter)) Nardin should know: Prior to taking up the creative director mantle on Marathon earlier this year, she worked on the narrative for multiple Destiny 2 expansions , and served as associate narrative director on the free-to-play mobile shooter Destiny: Rising. Nardin's message was also reposted by Bungie comms lead Dylan Gafner, better known to the community as dmg04 . The message appeared to be in response to a lengthy "leaks" post on 4chan, subsequently posted on the Marathon subreddit , which makes claims ranging from basic gameplay changes to a move to a free to play—and, of course, the merge: "There has been some vague testing the waters internally to rework Marathon and Destiny into a single IP with Marathon representing the beginning of Mankind's Golden Age and to foreshadow more threats to be used in a future Destiny project." I suppose that would be workable—it's not too much of a chore to mash up disparate properties via 
+
+### 'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing
+Wed, 16 Sep 2026 19:42:30 +0000 — https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/
+
+Zach Cregger's Resident Evil movie comes out this week on September 18, and the early reviews have just dropped. It's good news for games and horror fans: it sounds like just about everyone likes it, with more than one reviewer calling it the best videogame adaptation ever made. (That's a pretty low bar, but still.) Granted, early reviewers are hand-picked by studios, so it pays to take these first batch of glowing reviews with a grain of salt—and speaking of salty, PC Gamer (despite asking nicely a number of times!) wasn't granted a press screening, so we can't offer our own take. I know, boo hoo, poor us. In the meantime, until we get a chance to see it ourselves, you can get hyped by what a bunch of other outlets have said about the latest Resident Evil flick: GamesRadar+ (4/5) : "Turns out eighth time's a charm, as despite much pre-release griping over the absence of iconic game characters like Leon S. Kennedy and Claire Redfield, director Zach Cregger's Resident Evil isn't just the best Resi movie by a distance; it's the best video game movie full stop," says Jordan Farley. Polygon (91/100) : "Cregger takes his love for both the franchise and the genre and channels them into something we've never really seen before," says Jake Kleinman. "Resident Evil is funny, scary, gross, and beautiful. Above all else, it captures the fight-or-flight experience of actually playing a Resident Evil game." Gamespot (8/10) : "By backing away from the stories and characters of the video ga
 
 ### MindsEye developer Build a Rocket Boy may finally be closing
 Wed, 16 Sep 2026 18:22:31 +0000 — https://www.pcgamer.com/gaming-industry/mindseye-developer-build-a-rocket-boy-may-finally-be-closing/
@@ -341,7 +371,7 @@ MindsEye developer Build a Rocket Boy (BARB) appears to have undergone another r
 ### World of Warcraft: Forever beta launch times: How to sign up and play Blizzard's twist on WoW Classic
 Wed, 16 Sep 2026 17:20:51 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-beta-launch-times-how-to-sign-up-and-play-blizzards-twist-on-wow-classic/
 
-World of Warcraft: Forever is a new branch of the MMO that's making its debut this week in a month-long beta before the whole thing drops in November. It will be the first opportunity to experience some of the new quests, dungeons, and class abilities that Blizzard has added to a version of the MMO that will never move on past the original game. Here's everything you need to know about the WoW: Forever beta, how to get access, and what's available in it. When does the World of Warcraft: Forever beta start? The WoW: Forever beta begins on Thursday, September 17 on PC. Anyone who has preordered the Skyborne Epic Pack or the Warcraft Forever Collection will have access as soon as it opens. Blizzard hasn't posted exact times yet, but it typically launches WoW betas between 11 am PT to 3 pm PT. I'll update this post with the exact times as soon as they're available. You'll have about a month to try the game out before the beta ends on October 21. How to access the World of Warcraft: Forever beta There are two ways to get into the WoW: Forever beta. The first requires purchasing one of the two premium versions of the game from Blizzard's store . Both the Skyborne Epic Pack ($59.99) and the Warcraft Forever Collection ($79.99) will grant you beta access. Alternatively, you can leave it to chance and sign up for it on the WoW: Forever website by clicking the "Beta Opt-in" button at the top of the page. You can check if you have access to the WoW: Forever beta by opening the Battle.ne
+World of Warcraft: Forever is a new branch of the MMO that's making its debut this week in a month-long beta before the whole thing drops in November. It will be the first opportunity to experience some of the new quests, dungeons, and class abilities that Blizzard has added to a version of the MMO that will never move on past the original game. Here's everything you need to know about the WoW: Forever beta, how to get access, and what's available in it. When does the World of Warcraft: Forever beta start? The WoW: Forever beta begins on Thursday, September 17 on PC. Anyone who has preordered the Skyborne Epic Pack or the Warcraft Forever Collection will have access as soon as it opens. Blizzard says the WoW: Forever beta will go live after the live Q&A at 10:30 am PT . It's unclear how long the stream will go, but I'd expect it to last around 30 minutes. Here are the stream times across regions on September 17: 10:30 am PDT (Los Angeles) 1:30 pm EDT (New York) 6:30 pm BST (London) 7:30 pm CEST (Berlin) 3:30 am August 29 AEST (Sydney) 5:30 am August 29 NZST (Auckland) You'll have about a month to try the game out before the beta ends on October 21. How to access the World of Warcraft: Forever beta There are two ways to get into the WoW: Forever beta. The first requires purchasing one of the two premium versions of the game from Blizzard's store . Both the Skyborne Epic Pack ($59.99) and the Warcraft Forever Collection ($79.99) will grant you beta access. Alternatively, you ca
 
 ### GTA 5's 'Become a celebrity' mod is almost weirdly fully featured
 Wed, 16 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-5s-become-a-celebrity-mod-is-almost-weirdly-fully-featured/
@@ -351,7 +381,7 @@ Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it
 ### Balatro developer LocalThunk turns up on Discord to talk about the 1.1 update and life after burnout: 'I truly am having the best time making the game now'
 Wed, 16 Sep 2026 16:01:08 +0000 — https://www.pcgamer.com/games/card-games/balatro-developer-localthunk-turns-up-on-discord-to-talk-about-the-1-1-update-and-life-after-burnout-i-truly-am-having-the-best-time-making-the-game-now/
 
-It's been a good while since we last heard about Balatro's big 1.1 update—a year, almost to the day, since developer LocalThunk delayed it into 2026 . There's still no sign of it, but the community did catch sight of LocalThunk yesterday when he popped into the Balatro Discord to let everyone know that everything is going fine. "I'm happy the leaks are going over so well," LocalThunk wrote, referring to teases about the 1.1 update that he's been posting himself. For instance: (Image credit: Localthunk (Discord)) "I know you guys want to know as much as possible about 1.1 but I can't give away too much. I know it's taken a very long time and I've completely blown past the 2025 time frame but I promise I'm cooking in the way that is both best for me and ultimately for the game." That tracks back to LocalThunk's 2025 message about the 1.1 delay, in which he said he became "well and truly burned out" after going too hard for too long on Balatro's development. After taking an extended break, he "very slowly" eased back into the work and was approaching more like a hobby developer, avoiding deadlines and not "trying to force things creatively." He also expressed regret for announcing the then-2025 release target for the 1.1 update, a point he reiterated in his new message. "I understand how frustrating that must be and I wish I could go back in time and slap some sense into myself," Localtnunk continued. "At the time it was still go-go-go and I never even considered that I could al
+It's been a good while since we last heard about Balatro's big 1.1 update—a year, almost to the day, since developer LocalThunk delayed it into 2026 . There's still no sign of it, but the community did catch sight of LocalThunk yesterday when he popped into the Balatro Discord to let everyone know that everything is going fine. "I'm happy the leaks are going over so well," LocalThunk wrote, referring to teases about the 1.1 update that he's been posting himself. For instance: (Image credit: Localthunk (Discord)) "I know you guys want to know as much as possible about 1.1 but I can't give away too much. I know it's taken a very long time and I've completely blown past the 2025 time frame but I promise I'm cooking in the way that is both best for me and ultimately for the game." That tracks back to LocalThunk's 2025 message about the 1.1 delay, in which he said he became "well and truly burned out" after going too hard for too long on Balatro's development. After taking an extended break, he "very slowly" eased back into the work and was approaching more like a hobby developer, avoiding deadlines and not "trying to force things creatively." He also expressed regret for announcing the then-2025 release target for the 1.1 update, a point he reiterated in his new message. "I understand how frustrating that must be and I wish I could go back in time and slap some sense into myself," LocalThunk continued. "At the time it was still go-go-go and I never even considered that I could al
 
 ### Ex-MS engineer reveals the story behind the infamous 'FCKGW' Windows XP key: 'Pirates started baking the key into images or just writing it on the CD with a Sharpie'
 Wed, 16 Sep 2026 15:33:56 +0000 — https://www.pcgamer.com/software/windows/ex-ms-engineer-reveals-the-story-behind-the-infamous-fckgw-windows-xp-key-pirates-started-baking-the-key-into-images-or-just-writing-it-on-the-cd-with-a-sharpie/
@@ -367,31 +397,6 @@ Microsoft, at this point, drips gore from head to toe. The megacorp has made a h
 Wed, 16 Sep 2026 15:02:23 +0000 — https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/
 
 It's that time of year again, folks. The PC Gaming Show Tokyo Direct is nearly upon us. We sent a crew out to Japan to film exciting moments from the show floor, and we'll be giving you more information on over 30 games. We'll have world premieres, shadowdrops, DLC, release dates, and more. This year's show will be hosted by the fantastic Frankie Ward , an award-winning presenter, frequent PC Gaming Show host, and all-round esports legend. You'll also see our wonderful senior editor Wesley Fenlon delivering vox pop interviews straight from the event itself. Here's how to watch it live, so you can be among the first to see everything we're showing off for you. How to watch the PC Gaming Show Tokyo Direct 2026 The PC Gaming Show Tokyo Direct 2026 airs Sunday, September 20, 2026 at 9 am PT, 12 noon ET, 5 pm BST, and 1 am JST —this will technically air Monday, September 21 if you're watching from Japan. You've got your pick of the litter when it comes to where you watch. The show will be airing on YouTube , Twitch , X , GamesRadar+ , Steam, Bilibili , eCLUTCH , Ginx.tv , ESR Network , and Kuaishou . Grab your snacks and a drink, because the show will be around 90 minutes long and feature games from Arcane Ermine, Caldera Interactive, Chorus Worldwide, City From Naught, Clear River Games, Devolver Digital, Firefly Studios, Fireshine Games, HABBY.FUN, KO_OP, Loftia, Megabit, New Tales, Skystone Games, The Game Bakers, Total Mayhem Games, Veewo Games, and WuselFaktory. We've got mor
-
-### Bad news for shaman tank hopefuls—World of Warcraft: Forever won't have Season of Discovery's zany class design just yet: 'But never say never, y'know'
-Wed, 16 Sep 2026 15:01:26 +0000 — https://www.pcgamer.com/games/world-of-warcraft/bad-news-for-shaman-tank-hopefuls-world-of-warcraft-forever-wont-have-season-of-discoverys-zany-class-design-just-yet-but-never-say-never-yknow/
-
-World of Warcraft: Forever 's an interesting pitch—instead of no changes, it's an all- changes version of vanilla WoW. Updated talent trees, new quests, essentially an envisioning of the OG game where, save for the new sky elves , all of the fresh additions are horizontal. New dungeons and raids all packaged within that original level 60 cap in good ol' Azeroth. But given Blizzard just did Season of Discovery, at least one question was brewing in my mind—would the developer add some of the wilder class designs, like healing mages and shaman tanks, as optional skill trees or playstyles? Sadly not, says senior game designer Josh Greenfield in a recent GameSpot interview : "[Season of Discovery] was always meant to be ephemeral, and it allowed us to take some risks that we probably wouldn't really take in a 'forever' game. A lot of the changes, I think, in spirit—a lot of the lessons we learned—are carried over. But some of the more out there things that weren't originally in original WoW, we toned them back a little bit." I already had a feeling, given a lot of the preemptively put together talent calculators —but these were assembled from a beta version of the game, gathered together in snippets at Blizzcon. By no means were its prophesied talents final. However, what I did see had me leaning in the way of playing it safe. Aside from a few very cool additions and redesigned specs, a lot of the changes were simply bringing class design elements from modern WoW back into its van
-
-### All active Aniimo codes for launch, September 2026
-Wed, 16 Sep 2026 14:54:32 +0000 — https://www.pcgamer.com/games/rpg/aniimo-codes/
-
-Aniimo codes can help you buy items to alter the stats or appearance of your adorable (only occasionally intimidating) Aniimo companions, or just straight up give you the items to do so. Whatever gift codes contain, they're free! So even if you don't need the rewards right now, it's best to redeem Aniimo codes as soon as pawsible, before they expire and your rewards are gone furever. All active Aniimo codes ANIIMOGIFT - 10 Glimmer, 20,000 Credits, 10 Growth Flower, 5 Aniipod Pro Aniimo2026 - 20 Glimmer How to Redeem Aniimo codes Find the Settings menu by pressing Esc Pawprint Studio Navigate to the "Account" tab and click "Gift code redemption" Pawprint Studio Enter an active code and press "Redeem" Pawprint Studio Open your in-game mail from the Esc menu and click "Claim" to receive rewards. Pawprint Studio Aniimo codes are redeemed in-game from the settings menu, which is accessed from the main phone menu. You also need to complete "Chasing The Clouds" with Dr. Lewis to unlock the in-game mail menu to receive your rewards, though. To save you getting lost in the tabs, here's step-by-step instructions on how to redeem codes in Aniimo: Press ESC to bring up the phone main menu Click the cog symbol in the column on the right to go to Settings Select the Account tab on the left Click the Gift Code Redemption option Input the code and press Redeem Open your in-game mail in the Esc menu Press "Claim" to receive rewards Your reward will then be sent to your in-game mailbox. It sho
-
-### Is Aniimo a gacha game?
-Wed, 16 Sep 2026 13:45:55 +0000 — https://www.pcgamer.com/games/rpg/aniimo-is-it-gacha-monetization-explained/
-
-Aniimo smooshes cute creature capturing and open world exploration together to serve us a meal with notes of Genshin Impact, Infinity Nikki, and the grandaddy of trapping critters in balls: Pokemon. But although it may look like developer Pawprint Studio has included a side of gacha with that meal, it's actually a little more complicated than that. Is Aniimo a gacha game? (Image credit: Pawprint Studio) Is Aniimo a gacha? No, Aniimo is not a gacha game . Despite having all the bells and whistles a gacha usually throws at us—including about a thousand currencies and menus to stress over—Aniimo doesn't have any banner systems that gacha games like Genshin Impact or Infinity Nikki do. All Aniimo, their equipment, Aniimo eggs, and anything related to cute critter combat and fashion is not linked to random odds, or reaching an arbitrary "pity" number that eventually guarantees something after enough pulls. You get Aniimo (and most other items) just by playing the game, seriously, and instead most (but not all) cosmetics are linked to coughing up a fixed amount of cash in the store. I swear I heard Animmo was a gacha though (Image credit: Pawprint Studio) That's because Aniimo did have a gacha system, but only during its final beta. The Rift Exploration event—AKA a banner—was a very sneaky inclusion, because these rifts involved spending a premium currency for the chance to catch a Legendary Aniimo by filling up a bar, not pulling on a banner with a button press. It didn't look lik
-
-### The Witcher 3 producer says it's scary to work with another studio on the game's expansion: 'I also think twice about leaving my baby with someone'
-Wed, 16 Sep 2026 13:35:48 +0000 — https://www.pcgamer.com/games/the-witcher/the-witcher-3-producer-says-its-scary-to-work-with-another-studio-on-the-games-expansion-i-also-think-twice-about-leaving-my-baby-with-someone/
-
-The Witcher 3 is getting an expansion, Songs of the Past, over a decade after its release—along with a pretty hefty remaster. And you might think hey, how is CD Projekt Red working on all of this and The Witcher 4 at the same time? The answer, like many studios, is that it's not doing it alone. The studio's partnering up with Fool's Theory, a studio led by former CDPR folks, in a sort of cousinly collaboration. When speaking to PC Gamer's Joshua Wolens, Jakub Kutrzuba, an executive producer at CDPR, was asked if it was at all intimidating or scary to share The Witcher 3 with outside studios: "Yes, yes it is, because we care very much about what we are doing here. Using this analogy of a baby? This is very correct. As a parent, I also think twice about leaving my baby with someone. But I know that there are people over there who are not me, who take the best care ever of them, and I think this is the case here. " It helps that, as mentioned, Fool's Theory has former CDPR developers on its leadership (the studio was founded by Jakub Rokosz, a senior quest designer at the company). Kutrzuba says: "the fact that we have a really long history with many people from Fool's Theory … that helped a lot, because it's not like we needed to really understand the mindset and philosophy, make sure that we operate on the same level and we have the same aspirations. "That was [already] clear, so that helped a lot. But it's never easy. Especially when we are thinking about collaborating on som
-
-### 'We can't stuff AI back in a box' says former US president Barack Obama, confirming he's 'not a doomer' while still calling for more government AI regulation
-Wed, 16 Sep 2026 11:34:37 +0000 — https://www.pcgamer.com/software/ai/we-cant-stuff-ai-back-in-a-box-says-former-us-president-barack-obama-confirming-hes-not-a-doomer-while-still-calling-for-more-government-ai-regulation/
-
-The great AI debate has heated up in recent weeks, amid calls from some industry figures for a slowdown in development—although others, like Nvidia CEO Jensen Huang, seem keen to dismiss many of those calls as simple doomsaying . Now, former US president Barack Obama has posted his thoughts on X regarding the issue, and it's something of a balanced take. "I was encouraged this week to see the leaders of the frontier labs agree on the need for them to slow down the pace of AI development. Given the stakes, it’s a good and necessary first step," said the former US commander in chief . "But I’m even more encouraged by the growing recognition that how this powerful new technology develops should be at the center of our public debate." While the former president said that it's clear to him "the potential impact of this technology is not overhyped," he also recognised that the industry is moving "at lightning speed—even faster than those who are engineering it can keep up with." "I’m not an AI accelerationist who believes it will lead to some techno-utopia, and I’m not a doomer who thinks it will inevitably lead to humanity’s destruction," Obama continued. "But whether this technology results in amazing breakthroughs in medicine, energy and education or unleashes huge economic disruptions, greater inequality, and potential catastrophe will depend on the choices that we make right now—choices that should be made not just by the companies involved, but by all of us." I was encouraged
 
 ## GameSpot
 
@@ -457,6 +462,11 @@ Following the release of Zero Parades in May, developer ZA/UM Studio has announc
 
 ## Rock Paper Shotgun
 
+### Helldivers 2 and Horizon Forbidden West delisted from Steam in the UK, Sony say they're "working with Valve to address the issue"
+Thu, 17 Sep 2026 09:03:28 +0000 — https://www.rockpapershotgun.com/helldivers-2-and-horizon-forbidden-west-delisted-from-steam-in-the-uk-sony-say-theyre-working-with-valve-to-address-the-issue
+
+Helldivers 2 and Horizon Forbidden West have disappeared from the Steam store in the UK, something that's happened rather out of nowhere and looks like it might've even taken publishers PlayStation by surprise. Said publishers have issued a statement noting that they've already reached out to Valve to get the games back up. Read more
+
 ### "15 years ago, people understood it was an unfinished game": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed
 Wed, 16 Sep 2026 16:57:25 +0000 — https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed
 
@@ -511,9 +521,4 @@ Skyblivion , that massive Oblivion remake mod which was originally set to releas
 Tue, 15 Sep 2026 16:00:00 +0000 — https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation
 
 A few weeks ago, when I spoke with Tim Willits, chief creative officer at Saber Interactive, makers of games like Space Marine 2, SnowRunner , and World War Z, the company was dealing with the shitstorm that ensued from their announcement of Rideshare Stimulator. The game's basically an Uber simulator, with you driving a car around town picking up fares, but Saber drew all kinds of bad attention when a former writer on the game revealed the game featured generative AI ( something left undisclosed on the game's Steam page until recently ) and CEO Matt Karch responded by attacking the writer in statements to the press. Something he has since apologised for. So, naturally, we talked about generative AI and the reputational damage &ndash; or lack of &ndash; when getting caught out using it. Read more
-
-### Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their "strict seasonal schedule"
-Tue, 15 Sep 2026 15:25:04 +0000 — https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule
-
-Bungie have announced that the Marathon update originally slated to arrive on September 22nd will not be doing so. Instead, it'll rock up in December as part of a major update dubbed Symbiosis, which'll introduce a new permanent PvE mode. Bungie are pegging it as "the first major step in Marathon &rsquo;s next chapter" and have decided to ditch their established seasonal cadence for additions as part of this raft of changed plans. Read more
 
