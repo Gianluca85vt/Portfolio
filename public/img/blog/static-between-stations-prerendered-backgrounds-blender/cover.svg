@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Pre-rendered backgrounds, from 320x224 bitmaps to path-traced Blender video">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#1E2547"/>
+      <stop offset="100%" stop-color="#2E6BA8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5FA8FF"/>
+      <stop offset="100%" stop-color="#A6D8FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- coarse scan lines, standing in for a low-res plate -->
+  <g stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="3">
+    <path d="M0 120H1200M0 168H1200M0 216H1200M0 264H1200M0 312H1200M0 360H1200"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="150" font-size="34" fill="#A6D8FF" letter-spacing="7" font-weight="600">PRE-RENDERED</text>
+    <text x="600" y="330" font-size="150" fill="#FFFFFF" font-weight="700">320x224</text>
+    <text x="600" y="410" font-size="42" fill="#C9D4EE">bitmaps, hand-ordered per tile</text>
+  </g>
+
+  <rect x="380" y="470" width="440" height="3" fill="url(#accent)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="570" font-size="42" fill="#C9D4EE">now: path-traced Blender video,</text>
+    <text x="600" y="628" font-size="42" fill="#C9D4EE">depth pass does the occlusion</text>
+  </g>
+</svg>
