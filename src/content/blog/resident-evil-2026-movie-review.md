@@ -14,7 +14,6 @@ scoreSources:
   - { outlet: Collider, score: 8 }
   - { outlet: Empire, score: 6 }
   - { outlet: Time Out, score: 6 }
-draft: true
 ---
 
 Seven outlets have put a number on Zach Cregger's Resident Evil. Five of them
