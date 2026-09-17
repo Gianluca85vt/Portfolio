@@ -1,72 +1,107 @@
-# Manga — harvested 2026-09-17T09:39:18.853Z
+# Manga — harvested 2026-09-17T15:18:12.033Z
 
 ## Anime News Network
 
-### Solo Leveling: Karma Game Unveils Gameplay Overview, Cinematic Story Trailer
-Thu, 17 Sep 2026 04:47:17 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/solo-leveling-karma-game-unveils-gameplay-overview-cinematic-story-trailer/.241897
+### Discotek to Release Digimon Tamers, Digimon Frontier, Lupin the IIIrd: Zenigata and the Two Lupins, More Titles on Blu-ray Disc
+Thu, 17 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/discotek-to-release-digimon-tamers-digimon-frontier-lupin-the-iiird-zenigata-and-the-two-lupins-/.241874
 
-Game launches this year
+Discotek announces final Deep Dives titles
 
-### New Lollipop Chainsaw Game Announced for 2027 Release on PS5
-Thu, 17 Sep 2026 04:37:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/new-lollipop-chainsaw-game-announced-for-2027-release-on-ps5/.241894
+### Takeshobo to Release 3 BL Manga Titles Digitally in English
+Thu, 17 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/takeshobo-to-release-3-bl-manga-titles-digitally-in-english/.241893
 
-<cite>Final Fantasy XV's</cite> Hajime Tabata directs new <cite>Lollipop Chainsaw 2 Back2Back</cite> game
+Publisher releases Emi Mitsuki's <cite>A Man Who Never Says No</cite> manga, its spinoff <cite>A Golden Someday</cite>, complete 2 volumes of Unohana's <cite>Enveloped by the Fever of Guilt</cite>
 
-### Live-Action Series The Remarried Empress Releases Main Trailer, Key Visual
-Thu, 17 Sep 2026 03:58:45 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/live-action-series-the-remarried-empress-releases-main-trailer-key-visual/.241888
+### This Week in Anime - Made in Japan
+Thu, 17 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-17/.241848
 
-Trailer introduces show's 4 main characters through their dialogue, highlighting their personalities, relationships
+Just because it was animated in Japan, does that automatically make it anime?
 
-### Entergram Announces Koyo -RE-Nium Visual Novel Starring Hololive VTuber Hakui Koyori
-Thu, 17 Sep 2026 03:40:17 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/entergram-announces-koyo-re-nium-visual-novel-starring-hololive-vtuber-hakui-koyori/.241889
+### A Mark Against Thee Webtoon Gets Stage Musical Adaptation
+Thu, 17 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/a-mark-against-thee-webtoon-gets-stage-musical-adaptation/.241887
 
-Hakui also supervises game
+Full-length reading showcase scheduled for October 5 at Seoul's Sowol Art Hall
 
-### Dragon Quest Monsters: The Withered World Game Posts Gameplay Trailer
-Wed, 16 Sep 2026 23:59:09 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/dragon-quest-monsters-the-withered-world-game-posts-gameplay-trailer/.241884
+### Nobuhiko Okamoto Joins Bless Anime's Cast
+Thu, 17 Sep 2026 08:52:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/nobuhiko-okamoto-joins-bless-anime-cast/.241908
 
-Game launches on December 3
+Okamoto voices Ginga Yoyogi in anime debuting in January 2027
 
-### McDonald's Japan Streams Opening for Tsukimi Burger Anime You Never Knew Existed
-Wed, 16 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-16/mcdonald-japan-streams-opening-for-tsukimi-burger-anime-you-never-knew-existed/.241835
+### Netmarble Reveals Bloomwalker Game is Part of Ni no Kuni Universe in New Trailer
+Thu, 17 Sep 2026 08:42:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/netmarble-reveals-bloomwalker-game-is-part-of-ni-no-kuni-universe-in-new-trailer/.241907
 
-McDonald's Japan: “Since Tabemi and Mochiko were satisfied with the opening being made, the series will not go into production!”
+"Cozy crafting adventure" game to launch for Xbox Series X|S, PS5, Switch, Switch 2, PC via Steam
 
-### FuRyu Streams Crymelight Game's Opening Video
-Wed, 16 Sep 2026 23:56:34 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/furyu-streams-crymelight-game-opening-video/.241883
+### Atelier Karia Game Streams Character Video for Rutger, Lenja
+Thu, 17 Sep 2026 08:01:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/atelier-karia-game-streams-character-video-for-rutger-lenja/.241905
 
-Video reveals November 5 game's theme song "Love and Guilt by Hitomi Sekine
+<cite>Atelier Yumia</cite> characters return for game launching on February 25
 
-### Un:Me Game's Trailer Reveals 2027 Delay, Yumiri Hanamori Casting
-Wed, 16 Sep 2026 23:52:33 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/un-me-game-trailer-reveals-2027-delay-yumiri-hanamori-casting/.241882
+### Bloodstained: The Scarlet Engagement Game's New Gameplay Trailer Streamed
+Thu, 17 Sep 2026 07:47:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/bloodstained-the-scarlet-engagement-game-new-gameplay-trailer-streamed/.241904
 
-Game previously slated for this year on Switch 2, PS5, PC
+Game to launch in 2027 for PC, PS5, Xbox Series X|S after delay
 
-### Wo Long 2: Wings of Ember Game Launches on March 4
-Wed, 16 Sep 2026 23:48:06 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/wo-long-2-wings-of-ember-game-launches-on-march-4/.241875
+### Gachiakuta Game Streams Gameplay Trailer, Reveals Official Title
+Thu, 17 Sep 2026 07:40:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/gachiakuta-game-streams-gameplay-trailer-reveals-official-title/.241903
 
-Playable demo available now
+<cite>GACHIAKUTA: BREAKOUT</cite> slated for 2027 release for PS5, Xbox Series X|S, Steam
 
-### Uma Musume Revs Motorcycles with Moto GP Grand Prix of Japan 2026
-Wed, 16 Sep 2026 23:30:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-16/uma-musume-revs-motorcycles-with-moto-gp-grand-prix-of-japan-2026/.241846
+### Thunder 3 ‒ Episode 11
+Thu, 17 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-11/.241880
 
-Horse-girl racing meets motorcycle racing
+I imagine exploding alien heads with their fists and having to scrape brains from their clothing would probably traumatize them.
 
-### Final Fantasy Resonance Game's TGS Trailer Previews Theme Song
-Wed, 16 Sep 2026 23:18:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/final-fantasy-resonance-game-tgs-trailer-previews-theme-song/.241881
+### Persona 4 Revival Game Streams Naoto Shirogane Trailer
+Thu, 17 Sep 2026 07:05:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/persona-4-revival-game-streams-naoto-shirogane-trailer/.241901
 
-WurtS performs theme song "Inside" for October 22 game
+Video reveals character's English voice cast Amber Lee Connors
 
-### Tank Chair Anime Reveals 2nd Main Promo Video, Megumi Ogata as Sensei
-Wed, 16 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-16/tank-chair-anime-reveals-2nd-main-promo-video-megumi-ogata-as-sensei/.241870
+### Kojima Productions' Physint Game Casts Bill Skarsgård in Lead Role
+Thu, 17 Sep 2026 06:59:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/kojima-productions-physint-game-casts-bill-skarsgard-in-lead-role/.241902
 
-Anime premieres on October 4
+Hideo Kojima gives production updates on both <cite>OD KNOCK</cite> horror game, <cite>PHYSINT</cite> action espionage game
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Apothecary Diaries Author's The Failure at God School Manga Gets Anime Adaptation
+Thu, 17 Sep 2026 15:03:01 GMT — https://animecorner.me/the-apothecary-diaries-authors-the-failure-at-god-school-manga-gets-anime-adaptation/
+
+The Apothecary Diaries' creator Natsu Hyuga's The Failure at God School manga is officially getting a TV anime adaptation.
+
+### Gachiakuta Game Reveals Official Title and First Gameplay Trailer, 2027 Release
+Thu, 17 Sep 2026 13:09:32 GMT — https://animecorner.me/gachiakuta-game-reveals-official-title-and-first-gameplay-trailer-2027-release/
+
+Gachiakuta game has been titled GACHIAKUTA: BREAKOUT, revealing its first gameplay trailer and a 2027 release date.
+
+### Mugendai MewType (Yumemita) Covers Ado's "Show"
+Thu, 17 Sep 2026 12:56:42 GMT — https://animecorner.me/mugendai-mewtype-yumemita-covers-ados-show/
+
+Mugendai MewType released a cover of the song "Show" by Ado. Check out more&hellip;
+
+### Katekyo Hitman Reborn! Anime Reveals Sixth Opening Featuring "EASY GO" by Kazuki Kato
+Thu, 17 Sep 2026 11:04:47 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-sixth-opening-featuring-easy-go-by-kazuki-kato/
+
+Katekyo Hitman REBORN! anime released the creditless version of its sixth opening, featuring "EASY GO" by Kazuki Kato.
+
+### Japanese Voice Actor Taihi Kimura on Voicing Chihiro in The Anime Kagurabachi
+Thu, 17 Sep 2026 10:47:54 GMT — https://animecorner.me/japanese-voice-actor-taihi-kimura-on-voicing-chihiro-in-the-anime-kagurabachi/
+
+The anime KAGURABACHI made a major impact at this year's Anime Expo 2026, bringing fans&hellip;
+
+### Man-God Laughs at Rudy in Mushoku Tensei Season 3 Episode 13 Preview
+Thu, 17 Sep 2026 10:08:58 GMT — https://animecorner.me/man-god-laughs-at-rudy-in-mushoku-tensei-season-3-episode-13-preview/
+
+Mushoku Tensei: Jobless Reincarnation Season 3 revealed the Episode 13 preview images and synopsis ahead of its September 20 premiere.
+
+### Devils’ Crest Anime Unveils Additional Voice Cast Members
+Thu, 17 Sep 2026 09:59:10 GMT — https://animecorner.me/devils-crest-anime-unveils-additional-voice-cast-members/
+
+The production team for the upcoming Devils’ Crest anime has revealed the voice actors&hellip;
 
 ### Umamusume To Sponsor the 2026 Motul Grand Prix of Japan
 Thu, 17 Sep 2026 08:55:58 GMT — https://animecorner.me/umamusume-to-sponsor-the-2026-motul-grand-prix-of-japan/
@@ -93,37 +128,12 @@ Wed, 16 Sep 2026 12:16:11 GMT — https://animecorner.me/rezero-looks-back-at-se
 
 Re:ZERO released a special lyric video for "Recollect" by Konomi Suzuki feat. Ashnikko looking back at the anime from Season 1 to 4.
 
-### Katekyo Hitman Reborn! Anime Reveals Ninth Ending Featuing "Suberidai" by Mori Tsubasa
-Wed, 16 Sep 2026 11:06:27 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-ninth-ending-featuing-suberidai-by-mori-tsubasa/
-
-Katekyo Hitman REBORN! anime released the creditless version of its ninth ending, featuring "Suberidai" by Mori Tsubasa.
-
-### Shangri-La Frontier Season 3 Key Visual Revealed, Two Consecutive Cours Starting on January 10, 2027
-Wed, 16 Sep 2026 09:03:56 GMT — https://animecorner.me/shangri-la-frontier-season-3-key-visual-revealed-two-consecutive-cours-starting-on-january-10-2027/
-
-Shangri-La Frontier Season 3 revealed the first key visual, confirming two consecutive cours and a January 10, 2027 premiere.
-
-### The Apothecary Diaries Season 3 Reveals 11 Character Posters Ahead of October Premiere
-Wed, 16 Sep 2026 04:19:42 GMT — https://animecorner.me/the-apothecary-diaries-season-3-reveals-11-character-posters-ahead-of-october-premiere/
-
-The Apothecary Diaries Season 3 has revealed a new set of 11 character posters ahead of its October 2, 2026 premiere.
-
-### Witch and the Mercenary Anime Reveals First Trailer, New Cast, April 2027 Release
-Wed, 16 Sep 2026 03:28:52 GMT — https://animecorner.me/witch-and-the-mercenary-anime-reveals-first-trailer-new-cast-april-2027-release/
-
-Witch and the Mercenary anime revealed the first trailer, two new visuals, three cast members, and an April 2027 release.
-
-### A Returner's Magic Should Be Special Season 2 Reveals New Trailer, Main Key Visual, October 7 Premiere
-Tue, 15 Sep 2026 14:10:52 GMT — https://animecorner.me/a-returners-magic-should-be-special-season-2-reveals-new-trailer-main-key-visual-october-7-premiere/
-
-A Returner's Magic Should Be Special Season 2 revealed a new trailer and main key visual, along with an October 7 premiere date.
-
-### Katekyo Hitman Reborn! Reveals Fifth Opening Featuing "last cross" by Masami Mitsuoka
-Tue, 15 Sep 2026 11:29:40 GMT — https://animecorner.me/katekyo-hitman-reborn-reveals-fifth-opening-featuing-last-cross-by-masami-mitsuoka/
-
-Katekyo Hitman REBORN! anime released the creditless version of its fifth opening, featuring "last cross" by Masami Mitsuoka.
-
 ## MyAnimeList News
+
+### Manga Gakkou no Ochikobore Gets TV Anime
+Thu, 17 Sep 2026 08:10:16 -0700 — https://myanimelist.net/news/74730180?_location=rss
+
+Production company Bandai Namco Filmworks opened an official website for a television anime adaptation of Natsu Hyuuga&rsquo;s Kamisama Gakkou no Ochikobore (The Failure at God School) manga onFriday, revealing a teaser visual (pictured). Hyuuga and Modomu Akagawara began serializing the shoujo manga in Hana to Yume magazine in August 2021. Hakusensha published the 14th volume on May 20, with the 15th volume scheduled for September 18. The series has over 1.7 million copies of its volumes in cir...
 
 ### Japan-French Co-Production Aoki Denshou Welsh & Shedar Announced for Fall 2026
 Wed, 16 Sep 2026 07:58:20 -0700 — https://myanimelist.net/news/74727107?_location=rss
@@ -150,21 +160,16 @@ Tue, 15 Sep 2026 10:24:18 -0700 — https://myanimelist.net/news/74723259?_locat
 
 In this thread, you ll find a comprehensive list of Fall 2026 titles with an accompanying promotional video, commercial, teaser, or trailer. This post will be updated to include a video for titles that are missing one, leading up to the start of the season. Titles that already have a video embedded will instead have their newly released videos added to the video tab in their respective entries. For convenience, the video tab can be accessed via the additional videos link next to the embedde...
 
-### Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai Unveils Additional Cast, Staff, Theme Songs, First Promo
-Tue, 15 Sep 2026 04:59:05 -0700 — https://myanimelist.net/news/74722593?_location=rss
-
-The official website for the television anime adaptation of Ryuto s Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai (Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!) light novel unveiled a pair of additional cast, staff, key visual (pictured), the theme songs, and first promotional video on Tuesday. The anime series is scheduled to premiere on October 4 at 9:30 p.m. on Tokyo MX, followed by AT-X, BS11, and other...
-
-### Kyouran Reijou Nia Liston Announces Additional Cast Pair
-Tue, 15 Sep 2026 04:08:22 -0700 — https://myanimelist.net/news/74722530?_location=rss
-
-The official website for the television anime adaptation of Umikaze Minamino s Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei naru Musouroku (Nia Liston: The Merciless Maiden) light novel unveiled additional cast pair and situational visual (pictured above) on Tuesday. The anime will air for two consecutive cours, beginning on October 6 at 9.25 p.m. on Tokyo MX, followed by BS Nippon TV, and MBS. The series will hold a special stage event and advan...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Crunchyroll Announces Autumn/Fall 2026 Anime Season
+Thu, 17 Sep 2026 14:40:11 +0000 — https://animeuknews.net/2026/09/crunchyroll-announces-autumn-fall-2026-anime-season/
+
+The Apothecary Diaries Season 3, Black Clover Season 2, Firefly Wedding, Overgeared, PSYREN, The Vermillion Mask and more are coming to the platform this Autumn.
 
 ### Deep-Sea Aquarium Magmell Volume 1 Review
 Wed, 16 Sep 2026 09:00:59 +0000 — https://animeuknews.net/2026/09/deep-sea-aquarium-magmell-volume-1-review/

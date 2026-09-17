@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-17T09:39:18.853Z
+# Source feeds — harvested 2026-09-17T15:18:12.033Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -11,16 +11,8 @@ own feed: headline, link, date, and their summary.
 
 ## Broadcasts in the feeds
 
-**A preview is owed on this.** Write it before the show airs, with the start time in Italian time and the
-stream embedded, then the round-up an hour after it ends. See
-notes/event-coverage.md.
-
-- **PC Gamer** — How to watch the PC Gaming Show Tokyo Direct 2026
-  https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/
-
 Already aired, so a round-up rather than a preview:
 
-- Push Square — Feature: 50+ PS5, PS4 Games to Buy in PS Store s Tokyo Game Show Sale (North America/Europe)
 - PC Gamer — Get a good look at Control Resonant's otherworldly bosses in a PC Gaming Show exclusive extended interview
 
 > **A dated showcase gets two articles, not one.** A preview before it
@@ -31,10 +23,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Film & TV next.** 78 articles have gone out since the last one.
+**Write Manga and anime next.** 20 articles have gone out since the last one.
 
-- **Film & TV** — BROKEN. 78 articles since the last one; quota is one in 8, never worse than one in 10. 10 in the archive of 161.
-- **Manga and anime** — BROKEN. 18 articles since the last one; quota is one in 6. 4 in the archive of 161.
+- **Manga and anime** — BROKEN. 20 articles since the last one; quota is one in 6. 4 in the archive of 163.
+- **Film & TV** — on track. 0 articles since the last one; quota is one in 8, never worse than one in 10. 11 in the archive of 163.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -43,13 +35,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 31 items
-- [Film & TV](film-tv.md) **owed** — 65 items
+- [Manga](manga.md) **owed** — 32 items
 - [Games](games.md) — 100 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 14 items
+- [3D](3d.md) — 15 items
 - [AI](ai.md) — 7 items
+- [Film & TV](film-tv.md) — 66 items
 
-Total: 299 items.
+Total: 302 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

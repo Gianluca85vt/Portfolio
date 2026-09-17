@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-09-17T09:39:18.853Z
+# Film & TV — harvested 2026-09-17T15:18:12.033Z
 
 ## Variety
 
-### King Charles Denies Bombshell Book Claim That He Said World Would ‘Forget’ Princess Diana
-Thu, 17 Sep 2026 09:27:07 +0000 — https://variety.com/2026/global/global/king-charles-princess-diana-book-forget-after-death-1236865202/
+### India-Canada Screen Industry Corridor Takes Shape as NFDC, SASC Sign Pact at Toronto Market
+Thu, 17 Sep 2026 15:02:49 +0000 — https://variety.com/2026/film/markets-festivals/india-canada-screen-industry-corridor-nfdc-sasc-pact-1236865640/
 
-King Charles III has issued a rare statement regarding a new book about his ex-wife, the late Princess Diana. Written by Diana’s brother, Charles Spencer, the book claims (according to reports) that after Diana’s sudden death in a car crash in 1997, Spencer got into a heated argument with Charles, then still heir to the [ ]
+India s National Film Development Corporation and the South Asian Screen Council of Canada put their names to a Letter of Intent at the Toronto Film Festival market, launching a plan to connect Indian and South Asian filmmakers with fresh openings across Canada s screen business. The signing was witnessed by the Consul General of India in [ ]
 
-### Lasse Hallström, Lena Olin, Trine Dyrholm, Fares Fares, Ólafur Darri Ólafsson Among Awardees at The Freyas
-Thu, 17 Sep 2026 09:24:47 +0000 — https://variety.com/2026/film/global/lasse-hallstrom-lena-olin-trine-dyrholm-the-freyas-1236865236/
+### ‘SNL’ Season 52 Cast: Who Left, Who Joined and Who Stayed
+Thu, 17 Sep 2026 15:00:00 +0000 — https://variety.com/lists/snl-cast-season-52/
 
-The Freyas, also known as the Nordic Film and TV Awards, has revealed its first honorees and award-winners. They are Lasse Hallström, Lena Olin, Trine Dyrholm, Ólafur Darri Ólafsson, Fares Fares, Thea Sofie Loch Næss, Laura Birn and Ebba Katrín Finnsdóttir. The first-ever edition will be held in Helsinki on Sept. 22, bringing together leading [ ]
+Live from New York, it s Season 52! The summer of Saturday Night Live casting announcements has come to a close, with the ensemble for this year s season finally solidified (less than two weeks before the Sept. 26 premiere). This year s cast has remained largely intact compared to last year s shakeup. Bowen Yang left midway through [ ]
 
-### Sonia Rovai Appointed Disney Italy VP of Original Production (EXCLUSIVE)
-Thu, 17 Sep 2026 09:16:01 +0000 — https://variety.com/2026/tv/global/sonia-rovai-disney-italy-original-production-1236865201/
+### People Are Still Terrified of Me : Sharon Stone on Thriving for 46 Years in Hollywood and Why My Lane Was Never Going to Be Sex Psychos
+Thu, 17 Sep 2026 15:00:00 +0000 — https://variety.com/2026/film/features/sharon-stone-interview-sydney-sweeney-pay-sex-psychos-1236860361/
 
-Sonia Rovai, one of Italy s most respected TV and film production executives, has been appointed VP of original production at the Italian unit of The Walt Disney Company. Rovai, who since 2024 served as CEO of Fremantle-owned Wildside — the Rome-based company behind My Brilliant Friend and, more recently, Netflix s hit series The Monster of [ ]
+Sharon Stone has every reason to be tough. It’s not just that her father hung the carcasses of the animals he shot on the clothesline during her childhood in rural Pennsylvania and her mother once pulled a huge nail out of Stone’s foot that had gone straight through, wrapped it up and then sent her [ ]
 
-### Avengers Studio AGBO s Chris Brearton, Dominic Hughes to Keynote Tokyo Market on Artist-Led AI in Storytelling
-Thu, 17 Sep 2026 08:24:58 +0000 — https://variety.com/2026/film/markets-festivals/avengers-agbo-tokyo-market-keynote-ai-1236865186/
+### ‘The Boulet Brothers’ Dragula’ Season 7 Sets October Release Date on Shudder (EXCLUSIVE)
+Thu, 17 Sep 2026 15:00:00 +0000 — https://variety.com/2026/streaming/news/boulet-brothers-dragula-season-7-october-release-shudder-1236864696/
 
-TIFFCOM, the content market held in coordination with the Tokyo International Film Festival, will host a keynote presentation by Chris Brearton and Dominic Hughes, partner and chief scientific Officer, respectively, of AGBO, the studio founded by Anthony and Joe Russo. The session, titled Technology and Storytelling, takes place Oct. 29 and will be moderated by [ ]
+Emmy-nominated “The Boulet Brothers’ Dragula” returns for its seventh season Oct. 27 on Shudder and AMC+. The series was renewed in April as part of drag stars Dracmorda and Swanthula Boulet’s multi-project deal with Shudder. The show is the platform s highest-performing unscripted original franchise and one of its most popular series. The seventh season marks [ ]
 
-### Jujutsu Kaisen Vaults MAPPA to Anime Studio Lead as Streaming Shifts From Licensing to Ownership, Media Partners Asia Report Finds
-Thu, 17 Sep 2026 06:55:13 +0000 — https://variety.com/2026/tv/news/jujutsu-kaisen-mappa-anime-lead-streaming-1236865122/
+### War Trailer: Sienna Miller and Dominic West Endure a Bitter Divorce Battle in HBO and Sky s Legal Drama
+Thu, 17 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/global/war-trailer-sienna-miller-dominic-west-hbo-sky-legal-drama-1236865525/
 
-Anime drew a larger monthly audience than any other genre on Asian streaming platforms between July 2025 and August 2026, and viewing on Netflix grew nine times faster than the service overall, according to a new report from Media Partners Asia (MPA). The Anime Economy report draws on ampd audience panels MPA runs across eight [ ]
+Sienna Miller and Dominic West are at the center of an intense divorce trial in the trailer for HBO and Sky s upcoming series War. Hailing from Lupin and Hijack creator George Kay, War is a high-stakes, legal drama following the lives of London’s most powerful lawyers as firms Cathcarts Sons and Taylor Byrne [ ]
 
-### Eddie Cahyono s Busan Competition Title Ibuku, Starring Christine Hakim, Boarded by Asian Shadows for World Sales (EXCLUSIVE)
-Thu, 17 Sep 2026 06:23:42 +0000 — https://variety.com/2026/film/news/eddie-cahyono-busan-ibuku-christine-hakim-asian-shadows-1236865115/
+### Rose Hill Amazon Series Adds Siobhan McGroarty, Sophia Reid-Gantzert, West Mulholland
+Thu, 17 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/rose-hill-amazon-series-cast-series-regulars-1236865540/
 
-Asian Shadows has boarded international sales rights to Eddie Cahyono s Ibuku, starring Christine Hakim and Ayushita Nugraha, which the Busan International Film Festival has selected for its Competition lineup. Ibuku centers on Sumiati (Hakim), a widow in her 60s isolated in a small Javanese village since her husband took his own life. Her daughter, Sri [ ]
+The series adaptation of Elsie Silver s Rose Hill novels at Amazon Prime Video has added three series regulars and two recurring guest stars, Variety has learned. Siobhan McGroarty ( Law Order, VHS: Kidprint ), Sophia Reid-Gantzert ( Free Bert, The Babysitters Club ), and West Mulholland ( Presence, Little Fires Everywhere ) will appear as series regulars, with Gigi Zumbado [ ]
 
-### Zhang Yimou to Lead Busan Competition Jury
-Thu, 17 Sep 2026 05:53:18 +0000 — https://variety.com/2026/film/festivals/zhang-yimou-busan-competition-jury-1236865108/
+### Americana Award Winners Include Molly Tuttle, Brandi Carlile, Gillian Welch and Tyler Childers, as Robert Plant and Others Receive Lifetime Honors
+Thu, 17 Sep 2026 14:21:07 +0000 — https://variety.com/2026/music/news/americana-awards-winners-molly-tuttle-brandi-carlile-1236865132/
 
-The 31st Busan International Film Festival (BIFF) has confirmed seven jurors for its Competition section, with Chinese director Zhang Yimou serving as jury president for the section s second edition. Zhang has won prizes at each of the three major European festivals: the Golden Bear at Berlin for his 1987 debut Red Sorghum, the Golden Lion [ ]
+Wednesday night s Americana Music Honors Awards in Nashville found the love being spread among a handful of the Americana s brightest lights — among them Brandi Carlile, Molly Tuttle, Tyler Childers and the duo of Gillian Welch and David Rawlings — on top of some high-profile and highly emotional honorary awards or tributes being afforded [ ]
 
-### Virender Sehwag s Rise Fall Season 2 Sets September Launch on Prime Video, Reveals First Four Contestants (EXCLUSIVE)
-Thu, 17 Sep 2026 05:25:00 +0000 — https://variety.com/2026/tv/news/virender-sehwag-rise-and-fall-season-2-prime-video-september-1236864206/
+### Hallmark s Countdown to Christmas 2026 Schedule: 34 New Holiday Movies Starring Lori Loughlin, Tamera Mowry-Housley, Lacey Chabert, Christy Carlson Romano and More
+Thu, 17 Sep 2026 14:15:00 +0000 — https://variety.com/lists/hallmark-countdown-to-christmas-2026-schedule-new-movies/
 
-Virender Sehwag-hosted reality series Rise Fall Season 2 is heading to Prime Video this September, with the first four of 15 contestants set to compete across the 42-day run confirmed. The Banijay Asia production will be available free of charge on Prime Video and the MX Player Android app – the latter now operating [ ]
+Hallmark Channel s Countdown to Christmas is back with more new holiday movies than ever. Ahead of the 17th annual event, Hallmark has unveiled a supersized lineup of 34 original movies featuring Lori Loughlin, Janel Parrish, Tamera Mowry-Housley, Rachael Leigh Cook, Daniella Monet, Lacey Chabert, Christy Carlson Romano, Richard Kind, Andie MacDowell, Ian Harding, Jonathan Bennett [ ]
 
-### Paul Walter Hauser Explains Mystery Pin He Wore to Resident Evil Premiere
-Thu, 17 Sep 2026 04:13:13 +0000 — https://variety.com/2026/politics/columns/paul-walter-hauser-explains-mystery-pin-wore-resident-evil-premiere-jeffrey-epstein-zorro-ranch-1236864875/
+### The Old New Hollywood Guard Wielding AI’s Might
+Thu, 17 Sep 2026 14:01:00 +0000 — https://variety.com/2026/film/news/ai-hollywood-particle-6-higgsfield-innovative-runway-1236865085/
 
-Paul Walter Hauser spoke out about the Epstein files with a pin he wore to the “Resident Evil” premiere on Tuesday night in Los Angeles. The numbers on the pin affixed to his black T-shirt were the coordinates of the Zorro Ranch in New Mexico. “It was at one point owned by Jeffrey Epstein,” Hauser [ ]
+The AI gold rush has hit showbiz, even as the tech-fueled race to riches remains fraught. Morphing at a mind-bendingly fast pace, artificial intelligence technology has roiled the entertainment industry, which remains split between those convinced that it can be a powerful tool for creative expression and those wary of its potential to introduce “cinema [ ]
 
-### Singer Duncan Sheik Hospitalized, in ‘Critical But Stable Condition’
-Thu, 17 Sep 2026 03:47:31 +0000 — https://variety.com/2026/music/news/duncan-sheik-hospitalized-1236865061/
+### Luke Bryan to Perform Exclusive Concert in Roku City
+Thu, 17 Sep 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/luke-bryan-concert-roku-city-1236863206/
 
-Duncan Sheik, the singer behind hits like the Grammy-nominated “Barely Breathing,” has been hospitalized and is currently receiving medical treatment, per a statement shared on his Instagram page on Wednesday. “We would like to share an update with Duncan’s fans and the public,” the statement read. “Duncan is currently receiving medical care and remains in [ ]
+Luke Bryan s next tour stop? Roku City, the virtual cityscape on Roku devices. On Saturday, Sept. 19 one day after the release of his ninth studio album, “Signs the country star will be featured in an exclusive concert inside Roku City. Live From Roku City: Luke Bryan will be available on the Roku [ ]
 
 ## The Hollywood Reporter
+
+### Siobhan McGroarty, Sophia Reid-Gantzert and West Mulholland Join Prime Video s Rose Hill Adaptation
+Thu, 17 Sep 2026 15:11:35 +0000 — https://www.hollywoodreporter.com/tv/tv-news/rose-hill-adds-five-new-cast-members-prime-video-1236704121/
+
+Gigi Zumbado and Curtis Hamilton also join the romance adaptation as reoccurring guest stars.
+
+### After Lakers Sale, Mark Walter Also Offloads Stake In Chelsea F.C.
+Thu, 17 Sep 2026 14:45:05 +0000 — https://www.hollywoodreporter.com/business/business-news/lakers-sale-mark-walter-chelsea-dodgers-1236704452/
+
+The Dodgers mogul's company TWG Global has said it's complying with Justice Dept. and SEC inquiries after claims of fraud at insurance firms in his empire.
+
+### Tiny Fugitives Review: Alternately Tiresome and Amusing, Johnny Knoxville s Chaotic Jewish Camp Comedy Is Essentially What You d Expect
+Thu, 17 Sep 2026 14:33:33 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/tiny-fugitives-review-johnny-knoxville-1236702463/
+
+The 'Jackass' star plays a counselor desperately trying to retrieve some of his charges, who've made a break for it, in Michael Lewen's new film.
+
+### The Life and Deaths of Wilson Shedd Review: Amanda Seyfried and Scoot McNairy Bring Raw Intensity to Tim Blake Nelson s Death Row Drama
+Thu, 17 Sep 2026 14:03:35 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried-1236704277/
+
+The director also appears in a stacked ensemble that includes Missi Pyle, Devyn Tyler, Elizabeth Marvel, Grant Harvey, William Jackson Harper and Wunmi Mosaku.
+
+### MLW Finally Gets Its Tubi Deal (Exclusive)
+Thu, 17 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/mlw-fusion-tubi-deal-exclusive-major-league-wrestling-1236704436/
+
+Major League Wrestling's flagship series 'Fusion' will stream live on Tubi starting tonight.
+
+### Elf Movie to Come to Life With Immersive Experience at NYC s Rockefeller Center (Exclusive)
+Thu, 17 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/elf-movie-immersive-experience-nyc-rockefeller-center-hero-1236704437/
+
+Starting Nov. 14, 'The Elf Experience' will transform the venue HERO into an adventure that spans the North Pole and Gimbels.
+
+### Inside NYFF s Splashy Lineup: Landing Artificial, Weighing a Secret Screening and Opening on the Miraculous Paper Tiger (Exclusive)
+Thu, 17 Sep 2026 13:50:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/nyff-2026-preview-artificial-you-can-see-everything-14th-1236704101/
+
+It’s a major year for the New York Film Festival, with world premieres from Luca Guadagnino, Tony Gilroy, Ava DuVernay and more. Here’s what to expect from the buzzy program.
+
+### Cary Joji Fukunaga, Sine Plambech Named Zurich Film Festival s Feature and Documentary Jury Presidents
+Thu, 17 Sep 2026 13:40:54 +0000 — https://www.hollywoodreporter.com/movies/movie-news/cary-joji-fukunaga-sine-plambech-zurich-film-festival-jury-1236704419/
+
+Swiss-French actress Ella Rumpf will join the 'No Time to Die' filmmaker on the feature competition jury.
 
 ### King Charles Makes Rare Statement Over Bombshell Memoir Claim He Told Diana s Brother: We ll Forget Her Soon Enough
 Thu, 17 Sep 2026 08:57:29 +0000 — https://www.hollywoodreporter.com/news/general-news/king-charles-statement-earl-spencer-diana-memoir-book-royal-1236704403/
 
-The royal family has, as the British press put it, been dragged into a war of words with Charles Spencer, the younger brother of the beloved Princess Diana.
+The royal family has, as the British press put it, been dragged into a war of words with Charles Spencer, the younger brother of the late Princess Diana.
 
 ### South Park Returns as South America as Plot Stays Local and Trump-Free
 Thu, 17 Sep 2026 04:50:38 +0000 — https://www.hollywoodreporter.com/tv/tv-features/south-park-returns-south-america-plot-stays-local-trump-free-1236704264/
 
 Trey Parker and Matt Stone leave the White House behind for a more localized — but no less pointed — satire.
 
-### Bleachers Bring Out The Chicks to End Five Nights of Underplays at the Troubadour
-Thu, 17 Sep 2026 03:11:31 +0000 — https://www.hollywoodreporter.com/music/music-news/bleachers-concert-review-troubador-1236703808/
-
-The Jack Antonoff-fronted indie pop band played a mixture of older classics and new songs off their latest album, 'everyone for ten minutes.'
-
-### Universal Is Getting Cold Feet on Releasing the Elon Musk Documentary (Exclusive)
-Thu, 17 Sep 2026 02:44:20 +0000 — https://www.hollywoodreporter.com/news/politics-news/elon-musk-movie-gibney-canceled-universal-1236704232/
-
-The Comcast-owned studio is not yet committing to rolling out Alex Gibney's movie that it paid millions to acquire for non-North American release before the political winds shifted.
-
-### Matthew Lillard Says He s Embarrassed About Returning for Scream 7 After Melissa Barrera s Firing
-Thu, 17 Sep 2026 02:24:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/matthew-lillard-embarrassed-scream-7-return-melissa-barreras-firing-1236704224/
-
-Barrera was dropped from the seventh installment in the slasher franchise after expressing support for Palestinians in 2023.
-
-### Boasting Record-Breaking Sales and a Spider-Man Spot, Samsung s Galaxy Z Fold8 Gets Limited-Time Discount
-Thu, 17 Sep 2026 01:42:24 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/samsung-galaxy-z-fold-8-buy-spider-man-2026-foldable-phone-1236704175/
-
-How to secure the promo on Samsung's buzziest launch to date — no trade-in required.
-
-### Re/Pair Review: David Schwimmer, W. Kamau Bell and Van Jones Lead Pragmatic Doc About the Past and Present of Black-Jewish Relations
-Thu, 17 Sep 2026 00:35:56 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/re-pair-review-black-jewish-relations-documentary-1236702418/
-
-Lacey Schwartz Delgado's TIFF-premiering documentary explores the shifting dynamic between Blacks and Jews in America via 19 paired conversations.
-
-### Robert Kraft Responds After Macklemore Invites Him to Match His $1M Donation to Support Palestinian People
-Thu, 17 Sep 2026 00:29:51 +0000 — https://www.hollywoodreporter.com/music/music-news/macklemore-invites-robert-kraft-match-donation-palestine-1236704156/
-
-"I will be donating the entire $1 million of my net earnings from Ed Sheeran’s Loop Tour to six organizations working directly to support the Palestinian people. And I invite Robert Kraft to match my donation," the rapper wrote in a statement after being dropped from Ed Sheeran‘s tour over his pro-Palestine speeches.
-
-### Biopic About Gambling Influencer Vegas Matt in the Works From Filmmaker Mike Young (Exclusive)
-Thu, 17 Sep 2026 00:01:32 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gambling-influencer-vegas-matt-the-chop-mike-young-1236702695/
-
-'The Chop' is inspired by the real-life path of Stephen Matt Morrow, a dedicated father who became a gambler and YouTube personality.
-
-### Dancing With the Stars Caps Off Season 35 Premiere With the Female Celebrities and an Elimination: See the Scores, Who Went Home
-Wed, 16 Sep 2026 23:58:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-premiere-recap-female-celebs-scores-elimination-1236703772/
-
-Closing out the two-night premiere, which kicked off on Tuesday, Sept. 15, the female stars performed a dance to a No. 1 song from the year they were born.
-
 ## Deadline
 
-### STV Studios Ups Stake In Patrick Melrose Army Of Shadows Producer Two Cities Once Again
-Thu, 17 Sep 2026 09:25:10 +0000 — https://deadline.com/2026/09/stv-stake-two-cities-upped-patrick-melrose-blue-lights-1237106246/
+### Dubai International Film Festival To Return In December 2027, As 2026 Edition Of Saudi Arabia s Red Sea Film Festival Looks Uncertain
+Thu, 17 Sep 2026 15:14:05 +0000 — https://deadline.com/2026/09/dubai-film-festival-return-saudi-red-sea-film-uncertain-1237106423/
 
-EXCLUSIVE: STV Studios has once again upped its stake in Patrick Melrose and Blue Lights producer Two Cities Television. The Scottish production giant has shifted its ownership from 51% to 75%, according to a recent Companies House filing. STV, which owns Criminal Record maker STV Studios, confirmed the move. As was the plan from the [ ]
+The United Arab Emirates’ Dubai International Film Festival (DIFF) is being revived following a 10-year hiatus, although not in the same format as the original event. Mona Ghanem Al Marri, Vice Chairperson and Managing Director of the Dubai Media Council and President of the Dubai Press Club announced the event’s return in at the Arab [ ]
 
-### Princess Diana Documentary Featuring Unheard Tapes Set For International Launch At MIPCOM
-Thu, 17 Sep 2026 08:13:49 +0000 — https://deadline.com/2026/09/princess-diana-unheard-tapes-documentary-sales-cineflix-1237106198/
+### War Trailer: Dominic West Sienna Miller Do Battle In HBO/Sky Divorce Drama
+Thu, 17 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/war-trailer-dominic-west-sienna-miller-hbo-sky-drama-1237027476/
 
-EXCLUSIVE: Diana Unheard, a new documentary series featuring previously unheard audio recordings of the Princess candidly discussing her life, loves and the royal family, is getting an international launch. Cineflix has landed the rights and the show will be a big launch at MIPCOM in Cannes. The three-part doc was made by Love Monday TV, [ ]
+UPDATE 08.00 a.m. PT: HBO and Sky legal War has now released full trailer. As the two transatlantic players build buzz in time for October launch, the full-length featuring Dominic West, Sienna Miller and an ensemble cast can now be watched above. PREVIOUS: You are the wronged party here. That s the message ringing in the [ ]
 
-### Audiences Flocking To Anime On Netflix At 10 Times The Rate Of Other Genres, Report Reveals
-Thu, 17 Sep 2026 08:08:46 +0000 — https://deadline.com/2026/09/netflix-anime-viewing-rising-fast-mpa-report-reveals-1237106192/
+### ‘Kikuyu Land’ Trailer: A Man Fights To Reclaim Stolen Ancestral Land Worth Billions Of Dollars
+Thu, 17 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/kikuyu-land-trailer-exclusive-1237106134/
 
-Viewing to anime on Netflix has rocketed at almost 10 times the rate of the streamer s total viewing numbers over the past three years. A Media Partners Asia (MPA) report into anime shone a spotlight on audiences love for the genre on the U.S. streaming behemoth, which has anime hits like Blue Eye Samurai, Cyberpunk: [ ]
+EXCLUSIVE: The award-winning nonfiction feature Kikuyu Land documents a case of cultural erasure and land theft on a massive scale. The documentary directed by Andrew H. Brown and Bea Wangondu unfolds in the tea highlands of Kenya, fertile lands that were seized from local people by the British during their colonial rule over the country. [ ]
 
-### CJ ENM Sells Hotel Del Luna , Signal Other Hit K-Dramas To CME Slovakia Czech Channels
-Thu, 17 Sep 2026 07:59:30 +0000 — https://deadline.com/2026/09/hotel-del-luna-signal-cj-enm-cme-central-eastern-europe-1237106124/
+### Prime Video s Rose Hill Adds 5 To Cast
+Thu, 17 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/prime-video-rose-hill-cast-1237106266/
 
-Korean studio CJ ENM has signed partnerships with TV Markíza in Slovakia and TV Nova in the Czech Republic, both owned by European media giant Central European Media Enterprises (CME), as part of an expansion of its K-Content distribution efforts in Central and Eastern Europe. The deals cover a total of 10 scripted titles including [ ]
+Prime Video s Rose Hill series has added 5 to its cast, including Siobhan McGroarty, Sophia Reid-Gantzert, West Mulholland, Gigi Zumbado, and Curtis Hamilton. Rose Hill, based on the best-selling book series from Elsie Silver, follows best friends and neighbors West Belmont (Jake Weary), a rancher with commitment issues, and brooding record label owner Ford Grant [ ]
 
-### Matthew Rhys, Ruth Wilson, Phoebe Dynevor Harriet Walter Set For Audible Thriller All She Wants For Christmas
-Thu, 17 Sep 2026 07:01:00 +0000 — https://deadline.com/2026/09/matthew-rhys-ruth-wilson-phoebe-dynevor-audible-cast-1237105149/
+### Heather McMahan Sets Hulu Launch For Third Stand-Up Special By A Thread
+Thu, 17 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/heather-mcmahan-new-special-hulu-premiere-date-by-a-thread-1237106421/
 
-EXCLUSIVE: Matthew Rhys, fresh off his double Emmy win, Ruth Wilson, Phoebe Dynevor and Harriet Walter have been set to star in Lisa Jewell s Audible Original, All She Wants for Christmas, which will launch November 2. Described as a chilling tale of obsession, ambition, and the dangerous space between truth and fiction , the synopsis reads: [ ]
+EXCLUSIVE: Comedian Heather McMahan has announced that her third special, By a Thread, will premiere on Hulu on October 16. In the new hour, filmed across two sold-out nights at The Bijou Theatre in Knoxville, TN, the Southern comic leaves no stone unturned, from being canceled by golf and the MAGA-sphere attempting to claim her [ ]
 
-### Jacki Weaver Replacing Judy Davis In ITV Stan Drama Two Birds
-Thu, 17 Sep 2026 07:00:00 +0000 — https://deadline.com/2026/09/two-birds-jacki-weaver-replacing-judy-davis-itv-stan-1237105053/
+### Trump Warns Kennedy Center May Be Ripped Down Without His Recognition Renovations; Institution Official Says Current Closure Is Temporary
+Thu, 17 Sep 2026 14:41:00 +0000 — https://deadline.com/2026/09/kennedy-center-closes-emergency-hearing-1237105690/
 
-EXCLUSIVE: Two-time Oscar nominee Jacki Weaver has replaced Judy Davis in Two Birds, the upcoming thriller from the UK s ITV and Australia s Stan. First look images are above and below. Davis has dropped out due to scheduling conflicts, we understand. Her place playing the formidable Mrs Baxter is taken by Weaver, who has starred in [ ]
+UPDATE: President Donald Trump told reporters that the Kennedy Center may be ripped down unless a renovation plan is carried out and his administration gets recognition for it. Speaking to reporters on Wednesday, Trump cited the center s financial woes and need for repairs and revitalization. For me to get involved, and to take on long [ ]
 
-### Stan Sets McLeod s Daughters Revival, Rachel Griffiths-Starrer Slander Angourie Rice s Pride Prejudice Reimagining
-Thu, 17 Sep 2026 06:00:00 +0000 — https://deadline.com/2026/09/stan-mcleods-daughters-revival-angourie-rice-stuck-up-stupid-1237104979/
+### ‘The Trial of Alec Baldwin’ Goes Global With Blue Ant
+Thu, 17 Sep 2026 14:23:44 +0000 — https://deadline.com/2026/09/the-trial-of-alec-baldwin-international-blue-ant-1237106390/
 
-EXCLUSIVE: Australia s Stan is remaking iconic rural series McLeod s Daughters and has greenlit shows starring Rachel Griffiths, Angourie Rice and Anna Friel. The revival of Nine Network s McLeod s Daughters comes 25 years after the original, an early 2000s drama about sisters who take over a cattle ranch in South Australia. A lot has happened since [ ]
+EXCLUSIVE: Rory Kennedy’s feature documentary The Trial of Alec Baldwin is heading to the international market after Blue Ant Media acquired the global licensing rights. The move comes two weeks after Abramorama acquired the U.S. domestic rights to the film about the aftermath of the fallout of the Rust shooting and set an October theatrical [ ]
 
-### Zhang Yimou To Head Seven-Member Competition Jury At Busan International Film Festival
-Thu, 17 Sep 2026 03:56:15 +0000 — https://deadline.com/2026/09/zhang-yimou-busan-competition-jury-bi-gan-moon-choi-1237105937/
+### CBS News Expands The Takeout Segments, Partners With VoteHub In Advance Of Midterms
+Thu, 17 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/cbs-news-midterms-votehub-1237105861/
 
-Chinese director Zhang Yimou has been named as Jury President for the main competition section at this year’s Busan International Film Festival (October 6-15). Joining him are fellow Chinese filmmaker Bi Gan, whose 2025 film Resurrection played in Busan competition last year; Korean actress Moon Choi, who produced and acted in Bedford Park, which is [ ]
+With about six weeks until the midterms, CBS News 24/7 s The Takeout with Major Garrett is adding new recurring reporting segments, while the network is partnering with VoteHub. The Takeout, which airs at 5 p.m. ET, is the signature politics show on the streaming channel. The new segments include the features State by State, focusing [ ]
 
-### Duncan Sheik Hospitalized In Critical But Stable Condition Weeks Before Two Major Off Broadway Musicals Set To Begin
-Thu, 17 Sep 2026 02:56:24 +0000 — https://deadline.com/2026/09/duncan-sheik-hospitalized-1237106068/
+### José Luis Rebordinos Reflects On His Final Year At San Sebastián: “What Surprises Me The Most Is How Much The Festival Has Grown”
+Thu, 17 Sep 2026 13:13:17 +0000 — https://deadline.com/2026/09/jose-luis-rebordinos-final-year-san-sebastian-festival-1237106317/
 
-Duncan Sheik, the singer and composer whose new musical Memoirs of Amorous Gentlemen is set to begin performances Off Broadway later this month and whose 2006 Broadway musical Spring Awakening is being revived for a major Off Broadway production in November, has been hospitalized and is in critical but stable condition for undisclosed reasons. The [ ]
+As the San Sebastián International Film Festival kicks into gear this weekend, it will be a bittersweet moment for José Luis Rebordinos. The longtime festival director is stepping down after what will be his 17th edition this year with deputy director Maialen Beloki taking over in January 2027. “Maialen is a highly qualified professional with [ ]
 
-### South Park Back With Fellatio Shout-Outs Galore, No Trump, Lots Of Chinese Sh*tty E-Bikes South America Re-Branding
-Thu, 17 Sep 2026 02:48:32 +0000 — https://deadline.com/2026/09/south-park-recap-season-debut-south-america-maga-paramount-1237106057/
+### Dhar Mann, Sean Atkins Set For MIPCOM’s First-Ever Pre-Opening Keynote
+Thu, 17 Sep 2026 13:00:57 +0000 — https://deadline.com/2026/09/dhar-mann-studios-sean-atkins-mipcom-cannes-appearance-1237106226/
 
-South Park is back for its 29th season and while Trey Parker and Matt Stone s satire is now called South America in homage to Donald Trump s mastery of geography, the Comedy Central show s bite is still stars-and-stripes sharp on or off Chinese sh*tty e-bikes. Yep, it was the kids status symbol of damn e-bikes [ ]
+EXCLUSIVE: Dhar Mann is headed to Cannes for MIPCOM. The powerhouse digital producer will take a headline slot alongside Sean Atkins, CEO of Dhar Mann Studios. The pair will speak on Sunday, October 11, the day before the MIPCOM market opens. It marks the first time MIPCOM organizers have scheduled a pre-opening keynote in this [ ]
 
-### Rodney Charters Dies: ‘24, Shameless Cinematographer Was 80
-Thu, 17 Sep 2026 02:40:13 +0000 — https://deadline.com/2026/09/rodney-charters-dead-24-cinematographer-1237106046/
+### Chris Pratt Is Done Running In The Terminal List Season 2 Trailer
+Thu, 17 Sep 2026 13:00:00 +0000 — https://deadline.com/2026/09/the-terminal-list-season-2-trailer-1237106251/
 
-Rodney Charters, the cinematographer who shot 184 episodes of 24 and helped craft the show s distinct look, died suddenly in Amsterdam on September 13. The news was announced by the ASC, of which he was a longtime member. He was 80. Charters work on the Kiefer Sutherland-starring thriller was structured to capture the energy and [ ]
+Chris Pratt returns as Navy SEAL Commander James Reece in the first trailer (above) for The Terminal List s second season, premiering with all 8-episodes on Wednesday, October 21. From the best-selling novels by Jack Carr of the same name, The Terminal List centers on Navy SEAL Commander James Reece as he battles unknown conspiratorial forces [ ]
 
-### Dancing With The Stars Recap: Season 35 Kick Off Continues With Ladies Night Another Elimination
-Thu, 17 Sep 2026 02:02:32 +0000 — https://deadline.com/2026/09/dancing-with-the-stars-season-35-premiere-night-2-recap-1237105401/
+### San Sebastián Film Festival Director José Luis Rebordinos On This Year s Line-Up Why Festivals “Have To Speak About Human Rights”
+Thu, 17 Sep 2026 12:52:28 +0000 — https://deadline.com/2026/09/san-sebastian-jose-luis-rebordinos-1237103820/
 
-SPOILER ALERT! This post contains details from the second of ABC s two-night Dancing with the Stars Season 35 premiere. Why have one night of Dancing with the Stars when you can have two? Fresh off the news that last night’s premiere was the most watched in six years, the kickoff continued Wednesday night with the [ ]
+With the fall festival season underway, the international film community is now turning its head to Spain’s Basque Coast as the San Sebastian International Film Festival kicks off its 74th edition on September 18. With 263 projects from 47 countries in the official lineup, the program looks set to bring together a mix of established [ ]
 
 ## befores & afters
+
+### The art of BAMF ING in X2
+Thu, 17 Sep 2026 11:42:59 +0000 — https://beforesandafters.com/2026/09/17/the-art-of-bamfing-in-x2/
+
+How those incredible Nightcrawler BAMF ING VFX shots by Cinesite in X2 were made. Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the befores afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post The art of BAMF ING in X2 appeared first on befores & afters .
 
 ### Hybride showcases its VFX for The Mandalorian and Grogu
 Wed, 16 Sep 2026 21:58:24 +0000 — https://beforesandafters.com/2026/09/17/hybride-showcases-its-vfx-for-the-mandalorian-and-grogu/
@@ -174,6 +179,16 @@ Wed, 16 Sep 2026 21:58:24 +0000 — https://beforesandafters.com/2026/09/17/hybr
 The post Hybride showcases its VFX for The Mandalorian and Grogu appeared first on befores & afters .
 
 ## IndieWire
+
+### The Life of Jorge Luis Borges Review: A Playful Five-Hour Documentary Turns the Argentinian Writer Inside Out
+Thu, 17 Sep 2026 13:49:16 +0000 — https://www.indiewire.com/criticism/movies/the-life-of-jorge-luis-borges-movie-review-1235217498/
+
+"La flor" director Mariano Llinás veteran with a sprawling and self-reflexive picaresque that is fascinating but frequently dull, for better or worse.
+
+### How a Sequel to a Movie Barely Anyone Saw Became a Sensational (and Originally X-Rated) 1980s Indie
+Thu, 17 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/features/commentary/patti-rocks-x-rated-indie-movie-blu-ray-1235216681/
+
+In 1988, "Patti Rocks" stood alongside Jim Jarmusch's "Stranger Than Paradise" and Spike Lee's "She's Gotta Have It" as an indie sensation, but has been largely unavailable for decades. A new Blu-ray from Fun City Editions brings it back to glorious life.
 
 ### As the Digger Awards Campaign Launches, Will Tom Cruise Do What it Takes to Win an Oscar?
 Wed, 16 Sep 2026 22:17:41 +0000 — https://www.indiewire.com/awards/industry/tom-cruise-digger-oscar-campaign-box-office-problems-1235217421/
@@ -225,17 +240,42 @@ Tue, 15 Sep 2026 23:45:20 +0000 — https://www.indiewire.com/criticism/movies/f
 
 TIFF: Paul Andrew Williams’ focused direction refuses to exploit the script’s genre trappings beyond the realm of its characters’ interiority.
 
-### At Night Review: A Feminist Feature Debut Refutes the Idea of Monolithic Womanhood
-Tue, 15 Sep 2026 21:00:00 +0000 — https://www.indiewire.com/criticism/movies/at-night-review-1235217342/
-
-TIFF: First-time feature filmmaker Beatrice Gibson adapts the poetry of Alice Notley into a spellbinding work of autofiction.
-
-### About a Hero, AI-Generated Docu-Mystery Featuring Synthetic Werner Herzog, Debuts Trailer — Watch
-Tue, 15 Sep 2026 20:00:00 +0000 — https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217264/
-
-Exclusive: Director Piotr Winiewicz and the AI that was trained on Herzog’s body of work, with his permission, will do Q As when the film screens.
-
 ## The Wrap
+
+### Zack Snyder Weighs in on AI in Film: I Think the Humans Need to Be Human
+Thu, 17 Sep 2026 15:00:37 +0000 — https://www.thewrap.com/creative-content/movies/zack-snyder-opinion-ai-in-film/
+
+As Hollywood continues to try and figure out how AI programs will be integrated into the industry, Zack Snyder is offering his take. And for the director, the answer is somewhat simplified : he thinks humans need to be human. Snyder weighed in on the topic in the newest episode of Josh Horowitz s Happy Sad Confused podcast, recorded at this year s Toronto International Film Festival. The director initially hemmed and hawed as he found how to articulate his thoughts, and admitted that he does use AI programs in his daily life. Do I have ChatGPT on my phone? I do, he admitted. Right now, how [AI s] going to be used in cinema in the future, I just hope we re not making, you know, full AI images that are being sold as like, you know I think that once the humans are AI, I m a little concerned, how s that? I know that feels simplified, but I think it s the most I think the humans need to be human, he continued. When it comes to visual effects though, Snyder didn t draw as hard of a line on the use of AI. I know that it s going to get muddy, and it s going to get you know, because visual effects, it s such a slippery slope, he said. Because visual effects, you know, traditional CG visual effects, and now AI visual effects, are very, you know, the line between those two things is very, it s blurry. And it s hard to put your finger on it. But you can always say that humans need to be human. Snyder also made it clear that he doesn t think AI should be used to design and set up entire s
+
+### Dolly Parton Posthumously Accepts Another Lifetime Achievement Award Weeks After Her Death
+Thu, 17 Sep 2026 14:48:00 +0000 — https://www.thewrap.com/creative-content/music/dolly-parton-music-lifetime-achievement-award-after-death/
+
+Dolly Parton has been posthumously honored with the Americana Music Association s Lifetime Achievement Award for 2026 and she recorded a thank you message prior to her death at age 80 last month. I am so honored to receive the Lifetime Achievement Award from the Americana Music Association. I mean, Roots Music or what is now called Americana Music is what I grew up playing back in the Smoky Mountains, the country music icon said in Thursday s clip. It s that same music that drew me back to East Tennessee back in 1997 to write and record my album Hungry Again. That project really opened the door to a series of bluegrass and acoustic albums that changed the course of my career in so many ways. Now, new fans discover these albums; new Americana music communities embrace them; and now, looking back at it all, I see this era of my career as a musical renaissance of sorts, she added. I want to thank everybody at the AMA for recognizing me with this award. It s a great honor, truly, and just know that I will always love you. Parton died on Aug. 25 following a brief battle with cancer. Throughout her illustrious career, she was also the recipient of 11 Grammys (including another Lifetime Achievement Award), an Emmy, 10 Country Music Association Awards, 13 Academy of Country Music Awards and even a 2025 Jean Hersholt Humanitarian Award from the Academy Awards. Dolly opened doors not just for me, but for her entire family to reach the potential we didn t even know was possible. Dolly a
+
+### Benedict Cumberbatch Breaks Bad in Guy Ritchie’s ‘Wife and Dog’ Trailer
+Thu, 17 Sep 2026 14:00:00 +0000 — https://www.thewrap.com/creative-content/movies/wife-and-dog-benedict-cumberbatch-guy-ritchie-trailer/
+
+Guy Ritchie is unstoppable. The British filmmaker, known for his tough guy characters, crackling dialogue and expertly staged action, has made six movies since 2021, including “In the Grey” from earlier this year. His latest, “Wife and Dog,” starring Benedict Cumberbatch, Rosamund Pike, Paddy Considine and Anthony Hopkins, arrives in theaters next year but we’ve got the brand-new trailer, which promises some classic Ritchie business. Watch it below. The synopsis for “Wife and Dog” reads, simply: “The relentless greed of the Fairbank family and their associates fuels betrayal and murder in the battle for succession.” Cosmo Jarvis and James Norton also star. And the trailer looks like a true return-to-form for the filmmaker, who has occasionally gotten lost in his relentless output. This looks like it has all the Ritchie hallmarks, with bursts of violence and a twisty script that will keep us all on our toes. Ritchie’s insane productivity also includes several television shows including “MobLand,” “Young Sherlock” and “The Gentlemen,” based on Ritchie’s own 2019 feature. The second season of “The Gentlemen” just premiered on Netflix and “MobLand” returns this week. Incredibly, Ritchie has another feature in post-production – “Viva La Madness,” which reunites him with frequent collaborator Jason Statham. “Viva La Madness” actually serves as a sequel to “Layer Cake,” which Ritchie was meant to direct before his producer Matthew Vaughn stepped in to helm. Statham plays the charact
+
+### Atlanta Journal-Constitution Eliminates 5 Executive Roles in Leadership Shake-Up
+Thu, 17 Sep 2026 13:42:02 +0000 — https://www.thewrap.com/media-platforms/journalism/atlanta-journal-constitution-eliminates-executive-roles/
+
+The Atlanta Journal-Constitution is eliminating five senior executive roles in what its publisher called the “first step” toward a streamlined operating model for 2027. The Cox-owned publication is parting ways with Chief Financial and Strategy Officer Sharmi Gandhi, Chief Marketing Officer Amie Green, Chief Operating Officer Erin Malone, Head of Content Development and Production Samantha Stamler and Head of People Lindsey Robbins, according to an internal memo obtained by TheWrap. Status first reported the leadership shake-up Wednesday. Gandhi, Green, Malone and Stamler will remain at the AJC through Dec. 31 to help with the transition. Robbins will depart Oct. 1. “These changes are a first step toward defining a more simplified model for the AJC — one that continues to sharpen our focus on content, products and revenue growth while also aligning with the business realities facing the media industry and local news,” president and publisher Paul Curran told employees. The company will determine how work will be organized under its 2027 operating model during the next six to eight weeks, Curran said. More information about the restructuring and its effects is expected at a Sept. 30 employee town hall. An AJC spokesperson declined to comment on whether broader reductions are planned. Curran told staff that the changes were not a reflection of the five executives’ performance. Leroy Chapman, Samira Jafari, Zack McGhee and Kim Yates will remain on the senior leadership team and 
+
+### Hasan Piker Stands by Calling America the ‘Top Dog in Terrorism’ in Contentious Interview
+Thu, 17 Sep 2026 13:19:20 +0000 — https://www.thewrap.com/media-platforms/journalism/hasan-piker-us-terrorism-al-qaeda-abdul-el-sayed-response/
+
+Hasan Piker said the United States has caused more terrorism around the world than al-Qaeda “pound for pound,” prompting Michigan Democratic Senate nominee Abdul El-Sayed to reject the comparison. “I do not agree with this statement, nor do I give much weight to the statements made by a social media streamer,” El-Sayed said in a statement to Axios. “I am more concerned with the dangerous policies of Donald Trump and Mike Rogers that are raising the prices of gas, groceries and healthcare for Michiganders.” Piker made the remarks in an exclusive interview with “The Axios Show” published Thursday. When asked whether America commits more terrorism than the organization behind the Sept. 11 attacks, he answered, “Pound for pound as far as the number of deaths, yes.” “We have caused tremendous terror all around the world,” Piker added. The left-wing Twitch streamer cited a U.S. missile strike that hit an elementary school in Minab, Iran, earlier this year. “If you’re killing 140 schoolgirls, that is an act of terror,” Piker said. “This doesn’t mean that all Americans are terrorists, but the reality of the matter is we have to create an environment of accountability to ensure things like that never happen again.” The Associated Press found evidence that at least one U.S. missile struck the school . The Trump administration has not released the findings of a Pentagon investigation, and the exact death toll remains unknown. Piker’s support for El-Sayed during Michigan’s Democratic pri
+
+### Paramount s Threat to Leave California Is a Page Out of Larry Ellison s Playbook — and It Usually Works
+Thu, 17 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/industry-news/deals-ma/paramount-moving-threat-california-larry-david-ellison-analysis/
+
+Paramount CEO David Ellison ratcheted up the pressure in his merger battle on Wednesday by hinting that he s ready to pack up and leave California. If history — and his father — are any indication, things could go his way. The company informed the offices of Los Angeles Mayor Karen Bass and California Attorney General Rob Bonta that it is prepared to formally announce its plans to leave the state . This comes with the prospect of a $7 million daily ticking fee starting on Oct. 1, two weeks before settlement talks were originally scheduled to begin. The big question is whether Paramount is truly prepared to pick up stakes and move. Or if this is Ellison upping the ante in hopes that Bonta will blink and move to settle. It reads as a pressure play. Companies don t tell the mayor and the attorney general they re leaving unless they want that message delivered, regulatory attorney Braden Perry told TheWrap. A company that just wants out announces it and goes. Telling the other side first is a bargaining move. It s a game plan ripped straight out of the playbook of Oracle co-founder Larry Ellison, David s father, who over decades has built a reputation as an aggressive negotiator willing to play hardball. Historically, Larry Ellison has viewed negotiations as a competition where absolute victory is a must. And with Paramount, both he and David understand they hold a lot of cards. Paramount CEO David Ellison walks through Statuary Hall to the State of the Union address at the U.S. 
+
+### Netflix Animation’s ‘Steps’ Trailer Looks Positively Magical
+Thu, 17 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/movies/steps-trailer-ali-wong-amanda-seyfriend-netflix-animation/
+
+Ready to take some fresh “Steps?” Netflix Animation Studios’ fractured fairy tale, its first end-to-end production, arrives on the streaming service in time for Thanksgiving. And we’ve got the brand-new trailer for the film, which stars Ali Wong, Amanda Seyfried, Stephanie Hsu, Bette Midler, Nikki Glaser and Peter Dinklage. Watch it below. https://www.youtube.com/watch?v=Y0RW8EW08Dk In “Steps, Cinderella’s supposedly wicked step-sisters take center stage. “Sick of living in Cinderella’s shadow, Lilith (Wong) steals the Fairy Godmother (Midler)’s magic wand and hijacks the Royal Ball with her sister Margot (Hsu), breaking the Cinderella story as we know it and dooming the kingdom to the tyrannical rule of Priscilla (Glaser), a villainous schemer who swoops in and snatches the throne,” reads the official synopsis. “Now, Lilith must team up with Cinderella (Seyfried) to fight biker trolls, outrun evil henchmen and escape the Screaming Woods on an epic quest to save the kingdom, but most importantly, their relationship.” The movie has an ornate, frosted-cake aesthetic that was previewed earlier this summer at the Annecy International Film Festival, where Netflix did a work-in-progress session that left us very impressed . What makes the project even more exciting is that it’s Netflix’s first end-to-end production with its Animation Studios, which means that it didn’t rely on any partner studios or vendor studios, like Sony Pictures Animation (a frequent Netflix partner) or Skydan
 
 ### Jimmy Fallon Roasts Trump for Shutting Down Kennedy Center Because It Lacks His Name — Unlike His Failed Casinos
 Thu, 17 Sep 2026 05:21:36 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-reacts-trump-kennedy-center-closure/
@@ -252,90 +292,55 @@ Thu, 17 Sep 2026 03:16:44 +0000 — https://www.thewrap.com/creative-content/the
 
 Duncan Sheik, the Tony-winning composer behind Spring Awakening, has been hospitalized and is in critical but stable condition. The singer-songwriter s family issued a statement on his health status Wednesday evening, but did not share specifics surrounding what caused Sheik s hospitalization. “We would like to share an update with Duncan’s fans and the public,” a statement on the composer’s Instagram read. “Duncan is currently receiving medical care and remains in critical but stable condition. Out of respect for Duncan and our family, we will not be sharing any further medical details at this time.” The statement added: “We kindly ask for privacy during this incredibly difficult time and will provide updates when appropriate. Thank you for the continued love and support.” Sheik’s hospitalization comes as his new musical, “Memoirs of Amorous Gentlemen,” is slated to begin its Off-Broadway run later in September. Additionally, an Off-Broadway revival of the aforementioned musical “Spring Awakening,” which launched Lea Michele, Jonathan Groff and John Gallagher Jr. to stardom on the Broadway scene, is set for a November debut. Specifically, director Danya Taymor is helming the 2026 Off-Broadway revival, which will start previews at Studio Seaview in November and open on December 17. As for Memoirs of Amorous Gentlemen, previews for this new musical are set to begin on Sept. 25 at The Night Egg at the Culture Club with Sophia Anne Caruso starring. Outside of his work on Broadwa
 
-### Josh Johnson Leaves ‘Daily Show’ Audience Stunned With MLK Jr. Death Joke
-Thu, 17 Sep 2026 02:54:33 +0000 — https://www.thewrap.com/creative-content/tv-shows/josh-johnson-stuns-daily-show-audience-fbi-mlk-jr-death-joke/
-
-Josh Johnson stunned The Daily Show studio audience Wednesday evening with a joke claiming the FBI was to blame for the death of civil rights activist Martin Luther King Jr. The comedian s jab came as he recapped the FBI Director Kash Patel s recent Senate Judiciary Committee oversight hearing , where he struggled to answer questions regarding the agency s lowered hiring standards, including a softer stance on bestiality. I m sorry, the what now? Did I miss an episode? Johnson quipped during the segment. You know, things have gone off the rails when someone has to ask, What about the bestiality?' He continued: But apparently, what happened was, earlier in the hearing, Democratic Senator Dick Durbin wanted to ask Patel about a recent decision to loosen standards for FBI recruits. And I guess one particularly loose new standard kind of jumped out. As Johnson went on, he roasted the new standard, suggesting it should ve been only needs to do 20 push-ups, and not, can t go to a petting zoo wearing gym shorts. He further mocked Patel for trying to explain that the original standard, automatically disqualified any individual who participated on either side of it, leaving Johnson to wonder if there was a big problem from the animal s side. How is the head of the FBI losing an interrogation about animal sex? he said, What a fall from grace for the FBI, you know? Like, y all used to be the cream of the crop. The Bureau was the Dream Team and America s finest law enforcement agency. He
-
-### South Park Prays Grand Theft Auto VI Saves America as Town Battles E-Bike Epidemic
-Thu, 17 Sep 2026 02:44:57 +0000 — https://www.thewrap.com/creative-content/tv-shows/south-park-season-29-episode-1-name-change-grand-theft-auto/
-
-“South Park” returned for Season 29 Wednesday and committed to its Trump-inspired name change, “South America.” But last season s direct attacks on the President were not on the menu in the season premiere, as the show hoped the launch of Grand Theft Auto VI in November is what saves America — rather than the upcoming midterm elections. The season premiere saw Kenny, Cartman and Stanley go behind their parents backs and get e-bikes. Their parents said the bikes were unsafe and too expensive. The bikes also came with lots of rules and restrictions that the parents did not believe their sons were ready for. But the boys went down to the Chinese e-bike shop anyway, because they did not have enough money to buy regular e-bikes. They bought three for $200, but the risky bikes had a 92% chance of blowing up. They formed their own e-biker gang, where they sped around the neighborhood and wore masked face coverings. The dads in the neighborhood were not fans and took the issue all the way to their local government. “Many local residents are furious about kids on their e-bikes,” one of the dads said. “They travel in groups. Many conceal their faces, and with powerful electric motors, these kids are starting to form biker gangs.” The dads tried to bribe the local government officials with cash and cigars, but they stood firm on the electric bike laws. “We d love to have the things regulated, but we can t get the government to care. If you ask me, this whole country s gone to sh-t. But 
-
-### DWTS Premiere Night 2: Maura Higgins Stuns Judges With Traitors -Inspired Foxtrot
-Thu, 17 Sep 2026 02:03:12 +0000 — https://www.thewrap.com/creative-content/tv-shows/dancing-with-the-stars-season-35-premiere-night-2-results-dwts/
-
-“Dancing With the Stars” continued its two-night premiere event with the ladies of Season 35 before one contestant was sent home. The women danced a variety of ballroom styles, performing a routine to a song of their choice from their birth year. Night Two included music from Dolly Parton, Whitney Houston and Avril Lavigne. The Pros opened the show with a captivating number to “Love Sensation” by Madonna, which was choreographed by Mandy Moore. Hosts Julianne Hough and Alfonso Ribeiro revealed that Tuesday night was the series’ highest rated premiere in six years with nearly 7 million viewers . The judges reminded everyone that scores are going to start lower so that there is room to grow before dishing out their scores for the night’s dances. One woman was sent home after the night of dancing. Sarah Jane Nader and her partner Hailey Bills were eliminated on Night Two of competition. The episode also included an introduction to the Season 35 troupe, a number from judge Derek Hough s national tour and a tease of what’s to come for the men’s dances next week. Night Two was immediately followed by the DWTS After Party hosted by former Mirrorball Champion Robert Irwin with Dylan Efron serving as a correspondent. For a full recap of all of the night’s dances, keep reading. Tatyana Ali kicked off Ladies’ Night with a few bumps in her jive. She performed with her partner Jan Ravnik to the 1979 hit “Knock on Wood” by Amii Stewart. The “Fresh Prince of Bel-Air” alum reunited with her 
-
-### How to Watch the South Park Season 29 Premiere on TV and Streaming
-Thu, 17 Sep 2026 01:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/how-to-watch-south-park-season-29-tv-streaming/
-
-South Park is back with new jokes, new episodes and a new name. The 29th season of Trey Parker and Matt Stone s adult comedy — now retitled South America in a dig at the Trump administration s repeated renaming efforts — premieres on TV and streaming on Wednesday. This comes hot on the heels of Season 27 winning Outstanding Animated Series at the Creative Arts Emmys (the season started in July 2025, while Season 28 ran from October to December). The show won five Emmys from 2005 to 2013, but had gotten eight nominations with zero wins from 2013 to this year s ceremony. This latest win was quite the statement from the Emmys, rewarding the show for the first time in over a decade for a politically charged season that took aim at Donald Trump (portraying him as being literally in bed with Satan), JD Vance and more. The South Park team then mocked Trump on social media , congratulating the two-time Emmy loser for finally bringing a statue home. With all that in mind, Season 29 is sure to be a barnburner. But when do new episodes premiere, and where can you watch them? Read on to find out. When does South Park Season 29 premiere? South Park Season 29 premieres Wednesday, Sept. 16, at 10 p.m. ET/PT with a new episode titled South American Biker Gangs. Where can you watch South Park Season 29? South Park Season 29 will premiere on Comedy Central every other Wednesday through Nov. 25. All episodes will stream the day after their premiere on Paramount+. What is the South Park premiere
-
-### Whoopi Goldberg Has Complicated Feelings About Filming Documentary on Her Life: ‘I Don’t Remember a Lot’
-Thu, 17 Sep 2026 00:58:18 +0000 — https://www.thewrap.com/creative-content/movies/whoopi-goldberg-complicated-feelings-about-documentary-on-her-life-video/
-
-These days, when you reach a certain level of fame, it seems like a celebrity documentary is sure to follow. Whoopi Goldberg certainly reached that level of celebrity long ago. But now, with her own documentary in the works, even she has complicated feelings about the project. It s been odd, Goldberg said of looking back on her life on Wednesday s The View: Behind the Table podcast. Because all the people I want to talk to, like my mom and my brother, you know, they re, they re not here, so I feel a little bit that I am I m sort of going into stuff blindly because I don t remember a lot of that. Podcast host and the The View executive producer Brian asked about the documentary project that was announced in March. The doc, which expands on Goldberg s autobiography “Bits and Pieces: My Mother, My Brother and Me, will be directed by Geeta Gandbhir, who was nominated in 2026 for both Best Documentary Feature (for The Perfect Neighbor ) and Best Documentary Short Film (for The Devil Is Busy, which she co-directed with Christalyn Hampton) in 2026. I m interested in the decision to allow this to be done, because I feel like that probably, I feel like you might ve had to be talked into that a little bit, Teta said on the podcast. Yes, it wasn t, you know, it hadn t occurred to me really, Goldberg responded. You can watch the full video below. Teta pointed out that Goldberg doesn t look back a lot, adding to his surprise that the accomplished performer — who became an EGOT winner afte
-
-### Netanyahu to Introduce Bills Revoking NAZA Directors Israeli Citizenship: Their Place Is Not Among Us
-Thu, 17 Sep 2026 00:58:01 +0000 — https://www.thewrap.com/creative-content/movies/netanyahu-introduces-bills-revoking-naza-directors-citizenship/
-
-Israel Prime Minister Benjamin Netanyahu has joined in on the calls to revoke citizenship from Yuval Abraham and Rachel Szor, the Oscar-winning filmmakers whose latest film, NAZA, exposes how the Israeli Defense Forces have killed thousands of Palestinian civilians. We will stand by our heroic warriors. We will revoke citizenship from anyone who defames IDF soldiers abroad and hit them hard in the pocket, Netanyahu declared in a social media post released Wednesday. The PM announced that he would introduce two bills in the Knesset, one that would revoke the citizenship of anyone who slanders IDF soldiers and another that would [raise] the defamation damages they can be sued for twentyfold.” His comments, translated by news agency Anadolu, come after condemnation of the film by Israel s culture minister Miki Zohar, who also called for the filmmakers citizenship to be revoked. Abraham and Szor received Academy Awards in 2025 for their documentary No Other Land, which was filmed almost entirely before the Oct. 7 attacks and showed the destruction of the West Bank Palestinian community Masafer Yatta after an Israeli firing zone was declared on their land. The Israeli filmmakers directed the film alongside Palestinian filmmakers Basel Adra and Hamdan Ballal. In NAZA, Abraham and Szor spoke with two dozen anonymous Israeli military and intelligence insiders about the titular military term, which is used in the IDF with regards to the level of acceptable civilian deaths when plannin
-
-### How Kenneth Branagh and Boyd Holbrook Approached Playing Real-Life People in ‘Atonement’
-Wed, 16 Sep 2026 23:44:40 +0000 — https://www.thewrap.com/creative-content/movies/kenneth-branagh-boyd-holbrook-atonement-tiff-interview/
-
-“Atonement” is a movie steeped in real tragedy. “In Baghdad, in 2003, U.S. Marine Lou D’Alessandro (Boyd Holbrook) and his unit open fire on two ostensibly hostile vehicles. Three passengers are killed before it’s revealed that those vehicles were carrying three generations of a civilian family. A decade later, following a dishonorable discharge, Lou is back in San Diego, haunted by the incident, unsupported by Veterans Affairs, and unable to continue the life he started before the war,” reads the official synopsis. The multilayered story, based on a 2012 New Yorker article by Dexter Filkins, also follows Mariam (Hiam Abbass), the matriarch of the family that was torn apart by that shooting, as she begins a new life in California with her daughter and her young family. She’s profiled by journalist Michael Reid (Kenneth Branagh), who was also in Baghdad when the tragedy unfolded, the synopsis continues. Desperate to explain his side of the story, Lou asks Michael to broker a meeting with Mariam.” The film marks the feature debut of writer-director Reed Van Dyk, who was nominated for an Oscar in 2018 for his live-action short film DeKalb Elementary. Abbass, Branagh and Holbrook joined Executive Awards Editor Steve Pond at TheWrap’s studio at the 2026 Toronto International Film Festival and opened up about their approach to playing actual people as opposed to fictional characters. “Certainly I try not to meet them because for me it s much more interesting to bring my sensitivity
-
 ## Collider
 
-### Taylor Sheridan’s Forgotten Jon Bernthal Western Officially Charts Netflix Comeback
-Thu, 17 Sep 2026 09:30:11 GMT — https://collider.com/taylor-sheridan-jon-bernthal-those-who-wish-me-dead-streaming-success-netflix-september-2026/
+### The Adams Family Officially Reveals Their Bloody New Apocalypse Horror [Exclusive]
+Thu, 17 Sep 2026 15:00:11 GMT — https://collider.com/the-glorious-dead-image-adams-family-fantastic-fest/
 
-Taylor Sheridan is best-known for creating some of the biggest shows of the last decade, especially his magnum opus, the Paramount+ series Yellowstone . His work for the big screen, however, is just as formidable. Sheridan is known for his American Frontier trilogy , comprising three neo-Westerns — Sicario , Hell or High Water , and Wind River . While the first two were directed by other filmmakers — Denis Villeneuve and David Mackenzie , to be precise — Sheridan considers Wind River to be his directorial debut. He has directed two other movies as well. The first was a low-budget horror film that he has mostly disowned, and the second was a neo-Western that became a victim of Warner Bros.' infamous Project Popcorn.
+At last, the time has arrived. After 20 previews highlighting twenty entries in the annual genre festival, Fantastic Fest opens today with a collection of some of the most unique horror, sci-fi, and other cinema from established and up-and-coming filmmakers around the world. In celebration of the 21st anniversary of the event in Austin, though, we have one more image to share as part of Collider's Exclusive Preview series, and it comes from a regular attendee of the festival — The Adams Family . The shot comes from the macabre collective's next ghoulish feature, The Glorious Dead , and is a deliciously bloody sneak peek of the apocalyptic events to come later today.
 
-### ‘The Last of Us’ Offshoot Officially Killed Off by Sony
-Thu, 17 Sep 2026 09:00:11 GMT — https://collider.com/last-of-us-part-2-multiplayer-mod-canceled-sony/
+### 'Stranger Things: Tales From '85' Is Officially Losing Its Edge in Season 2 | Review
+Thu, 17 Sep 2026 15:00:11 GMT — https://collider.com/stranger-things-tales-from-85-season-2-review/
 
-T he Last of Us Part II was initially supposed to continue the original game’s popular Factions multiplayer mode, but Naughty Dog ultimately separated that experience from the sequel before transforming it into a far more ambitious standalone project. That game was officially canceled in 2023, leaving fans without a new multiplayer experience and Naughty Dog free to continue developing the single-player games for which the studio is best known.
+It may be 1985, but Flower Power has hit Stranger Things — and, in true Hawkins style, all is not as it seems. These “flowers” actually glow in the dark and mutate into large demo-wasps. After the festive season hunting “goblins” but only finding raccoons or “Mrs Kingsley’s Pekingese,” Dustin ( Braxton Quinney ) and the rest of the Hawkins Investigators Club are back to solve an active case in Season 2 of Tales From ‘85 , complete with skeletons, seances, and yet more spores.
 
-### Hulu's 11-Part Sitcom Came to the End of an Era After One Major Episode
-Thu, 17 Sep 2026 04:06:11 GMT — https://collider.com/modern-family-sitcom-joe-jay-gloria-bringing-up-baby-episode/
+### Ashley Benson’s New Crime Thriller Officially Gets First Look [Exclusive]
+Thu, 17 Sep 2026 15:00:11 GMT — https://collider.com/stranglehold-trailer-ashley-benson-jake-lacy-ron-perlman/
 
-Modern Family is one of the best modern-day sitcoms. There’s no arguing it. The blend of personalities in the Dunphy-Pritchett-Tucker clan creates a hilarious, colorful viewing experience in every episode. Each episode is special in its own right, and it can be hard to narrow down which episode changed the show for the better, but the show took a big risk with the Season 4 premiere "Bringing Up Baby," one that ultimately paid off not just by helping one character grow, but by bringing the show into a new era.
+Christmas movies are typically made to spread cheer , explore the meaning of the holiday, and have some jolly fun along the way. Yet, in between every all-time favorite , like Rudolph the Red-Nosed Reindeer , Home Alone , and Elf , are more unconventional seasonal classics that are decidedly less family-friendly, like Terrifier 3 , Violent Night , and the argument-inducing Die Hard . This October, Kick-Ass actor-turned-director Clark Duke is now taking his own stab at a darker Christmas feature with his black comedy crime thriller, Stranglehold , which is finally set to release over two years after it wrapped production. Before its arrival on digital platforms and VOD, Collider can exclusively share the official trailer, teasing a holiday heist led by Pretty Little Liars star Ashley Benson and The White Lotus Emmy nominee Jake Lacy that spirals horribly out of control.
 
-### 16 Years Later, ‘Criminal Minds’ Most Devastating Episode Remains the Best 42 Minutes on TV
-Thu, 17 Sep 2026 03:52:11 GMT — https://collider.com/criminal-minds-100-saddest-episode-hotch-haley-death/
+### Dune Sets Massive Expansion Just Days Before New Release
+Thu, 17 Sep 2026 14:49:59 GMT — https://collider.com/dune-awakening-single-player-mode-ps5-xbox-console-launch/
 
-Many Criminal Minds episodes are difficult to watch. Some are gruesome, some are genuinely frightening, and others leave viewers staring at the credits in stunned silence, but Season 5, Episode 9, “100,” manages something far more painful: It makes the people hunting monsters feel completely helpless.
+Right now is an electric time to be a Dune fan, and not just due to the looming release of the third and final installment in Denis Villeneuve ’s sci-fi trilogy. Warner Bros and Legendary have already announced that Dune: Part Three , which will adapt Frank Herbert ’s Dune: Messiah , will be released in theaters on December 18. The film will go head-to-head with Avengers: Doomsday in the biggest theatrical weekend since Barbenheimer. Dune fans also have the second season of Dune: Prophecy to be excited about, and while it’s still without an official release date, it’s heavily speculated that it will return in the first half of next year. Production on Dune: Prophecy Season 2 wrapped earlier in the year, so an official update regarding release should be coming any day now.
 
-### 7 Horror Films to Prepare You for Zach Cregger's Resident Evil
-Thu, 17 Sep 2026 03:03:12 GMT — https://collider.com/must-see-horror-films-to-prepare-you-for-zach-creggers-resident-evil/
+### ‘The Love Hypothesis’ Author Officially Reveals New Romance
+Thu, 17 Sep 2026 14:46:55 GMT — https://collider.com/ali-hazelwood-bad-in-bed-audible-original-release-date/
 
-Zach Cregger 's Resident Evil hits theaters September 18th, and after Weapons and Barbarian, expectations could not be higher. Cregger has quickly become one of the most exciting creative voices in modern horror, someone who understands terror as a slow, patient build built on expectation rather than the jump scares that dominated the genre for quite some time. Sony clearly believes he's the right person to finally crack a franchise that has struggled to translate its video game roots into a quality theatrical experience. This new take follows Bryan ( Austin Adams ), a medical courier who stumbles into an outbreak at a remote hospital and is forced to fight his way out through hordes of infected creatures over one nightmarish night. Cregger is fresh off of 2025's Weapons , a critical and commercial smash that grossed over $269 million worldwide and earned Amy Madigan an Oscar. He arrives with more industry goodwill and creative leverage than almost any other horror director stepping into a video game adaptation ever has. That combination of proven craft and creative trust and license is exactly why this particular reboot feels different from the franchise's prior attempts.
+There are bad breakups, and then there are breakups where your ex decides to publicly review your bedroom abilities on the way out. That’s the particularly brutal starting point for a new romance from one of the genre’s biggest authors, although humiliation isn’t going to be the end of the story. If anything, it’s about to lead to a rather unconventional research project.
 
-### 9 Essential Mick Herron Books You Must Read at Least Once
-Thu, 17 Sep 2026 03:01:11 GMT — https://collider.com/mick-herron-essential-books/
+### Hans Zimmer Reveals the A-List Stars Who "Bullied" Him Into Going on Tour [Exclusive]
+Thu, 17 Sep 2026 14:00:11 GMT — https://collider.com/hans-zimmer-stage-fright-pharrell-williams-johnny-marr-live/
 
-If you're a fan of Apple TV 's critically acclaimed series Slow Horses , you probably already know that the show is based on the Slough House novel series. Their author, Mick Herron , has been writing spy fiction since 2010, and what began as a cult favorite has grown into one of the most acclaimed thriller series of the 21st century, earning comparisons to John le Carré while doing something entirely unique: satirizing British intelligence with wit so dry it could sand furniture. The BBC described him as "the le Carré of the future." The New Yorker described the series as " the best in a generation , by some estimates, and unquestionably the funniest."
+It's hard to believe, given that the man now regularly fills some of the world's biggest arenas, but Hans Zimmer , one of the greatest composers of our time , may actually have a touch of stage fright. The composer behind some of the most famous scores to ever grace the big screen was perfectly comfortable letting his music speak for itself in multiplexes, but when it came to performing for audiences? That was a different matter entirely. In fact, getting him onto a stage required something approaching an intervention, and two of his extremely famous friends had some ideas.
 
-### 22 Years Later, This Sci-Fi Series Doesn't Have a Single Bad Episode
-Thu, 17 Sep 2026 02:56:11 GMT — https://collider.com/the-4400-perfect-sci-fi-series/
+### The Supernatural Horror Movie Stephen King Called the Best of All Time Is Officially Streaming
+Thu, 17 Sep 2026 13:46:23 GMT — https://collider.com/https/collidercom/stephen-king-the-changeling-streaming-free-tubi-september-2026/
 
-In the era before streaming, many series may have slipped under the radar. The 2004 series The 4400 certainly falls into this category, but just like its characters, it has a hidden ability. It also happens to be one of the best sci-fi shows on television. A predecessor to the strange yet perfect sci-fi world of Fringe , The 4400 was an interesting combination of The X-Files and X-Men . Implementing an early role for Mahershala Ali , the series follows the strange circumstances of 4400 people arriving in a beam of light at the same place and time.
+Iconic author Stephen King has no shortage of opinions on pretty much anything, some more controversial than others. But it's his opinions on pop culture — television shows, movies, books, and so on — that tend to have more weight, even if they don't always jibe with popular opinion. Still, when Stephen King speaks on such topics, it’s best to take heed. And one great resource for his top picks is a 2017 interview with BFI , where King listed off his ten favorite films. One entry on that list earned King's praise as the best supernatural horror of all time, and it's available now to stream, for free, on Tubi: 1980's The Changeling .
 
-### 'House' Fans Have To Watch ABC’s 7-Part Bonkers Medical Series
-Thu, 17 Sep 2026 01:42:19 GMT — https://collider.com/abc-good-doctor-medical-series-house/
+### Netflix’s "Anti-Cinderella" Animated Fantasy Officially Drops First Trailer
+Thu, 17 Sep 2026 13:00:11 GMT — https://collider.com/steps-trailer-netflix/
 
-Medical dramas are a dime a dozen, largely thanks to a tried-and-true formula that has captivated viewers from 1954's Medic to pop-culture phenom The Pitt . As a result, it's hard for a series to stand out from the crowd. If you can't do it, it's a one-and-done, like the fate that befell 2022's Good Sam . But if you can, the results can be rewarding. Take House , for example. The series, which debuted in 2004, brought something new to the table: a misanthropic genius doctor whose manner is prickly, to say the least, and was rewarded with a healthy 8-season run.
+Almost everyone knows the story of Cinderella . The tale of a young girl oppressed by her evil stepmother and stepsisters who becomes the belle of the ball with a little help from her Fairy Godmother and marries the charming prince has forever been immortalized through countless retellings and adaptations , including Disney's animated classic . However, since it first spread as a folk tale back in Ancient Greece, the focus has always been on the titular Cinderella's side of the story. What if there's more to her supposedly wicked family than has been told? A new Netflix animated original is about to show another perspective and upend the fairytale as old as time in bombastic fashion.
 
-### Before Zach Cregger's 'Resident Evil,' It's Officially Time to Revisit the Franchise's Best Entry
-Thu, 17 Sep 2026 01:03:11 GMT — https://collider.com/resident-evil-retribution-best-video-game-adaptation-netflix-streaming-september-2026/
+### Chris Pratt Officially Returns to Prime Video's 'Reacher' Meets 'Lioness' Thriller
+Thu, 17 Sep 2026 13:00:11 GMT — https://collider.com/the-terminal-list-season-2-trailer-release-date/
 
-The Resident Evil franchise has been scoffed at for years, with several extremely clever and fun, genuinely idiosyncratic films caught in the crossfire. While Paui W. S. Anderson 's initial film is decently regarded, Alexander Witt' s attempt at a follow-up is widely, and correctly, viewed as a disaster. And the less said about Johannes Roberts' reboot attempt or the Netflix series, the better. The series got back on track when Anderson retook the reins in 2010 and directed Resident Evil: Afterlife , though, and an absurdly under-rated trio of genre thrill-rides followed .
+When you spend your whole life chasing revenge, you'll run out of people to kill. One of TV's most relentless Navy SEALs suddenly doesn't have a to-list left. Fortunately for anyone who enjoys a combination of delightfully picturesque locales and a lust for vengeance rivalled only by Arya Stark, retirement isn’t on the cards for this fella and one of Prime Video 's biggest series is back for more.
 
-### 9 Greatest Superhero Shows With Fewer Than 40 Episodes
-Thu, 17 Sep 2026 00:06:11 GMT — https://collider.com/best-superhero-shows-under-40-episodes/
+### ‘Supernatural’ Just Pulled Off Its Best Reunion Since the Series Ended
+Thu, 17 Sep 2026 12:39:12 GMT — https://collider.com/supernatural-the-boys-jared-padalecki-jensen-ackles-reunion/
 
-In an era where the Marvel Cinematic Universe has changed not just superheroes but filmmaking forever, there are more comic book-inspired adaptations now than there ever have been. Superheroes have been the bread and butter of Hollywood for over a decade, but that doesn't mean every series goes beyond 40 episodes . In fact, we've put together a list of the best shows with fewer episode counts than that.
+Supernatural is one of the longest-running television series, spanning 15 seasons and over 300 episodes. That's longer than Smallville , The Vampire Diaries , or any other fantasy/sci-fi show that aired on the CW, and much of what makes the series so engaging isn't the deep mythology or the monsters that pop up each episode. It's the dynamic between the leading men, Jared Padalecki and Jensen Ackles , who play Sam and Dean Winchester. Padalecki and Ackles make the Winchesters feel like distinct characters, and their on- and off-screen dynamic feels like watching two brothers interact.
 
