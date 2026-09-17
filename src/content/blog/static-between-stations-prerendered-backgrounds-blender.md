@@ -22,6 +22,11 @@ The trick has come back for the opposite reason it was invented.
 
 ## What the old version actually was
 
+<figure>
+  <img src="/img/blog/static-between-stations-prerendered-backgrounds-blender/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Static Between Stations, via the official Steam store page</figcaption>
+</figure>
+
 Square built FF7's backgrounds on SGI Onyx hardware and squashed the output
 down to 320x224 — a bitmap roughly the size of a modern app icon, holding a
 room that had been lit and rendered at whatever quality a room full of
