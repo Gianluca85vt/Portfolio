@@ -1,6 +1,51 @@
-# Manga — harvested 2026-09-17T19:51:23.996Z
+# Manga — harvested 2026-09-18T09:12:03.575Z
 
 ## Anime News Network
+
+### Butt Detective TV Anime Gets New Episodes Starting on October 3
+Fri, 18 Sep 2026 00:02:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/butt-detective-tv-anime-gets-new-episodes-starting-on-october-3/.241932
+
+Previous batch of new episodes debuted on April 4
+
+### Suikoden Anime's New Video Reveals Ending Song, October 3 TV Debut
+Thu, 17 Sep 2026 23:35:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/suikoden-anime-new-video-reveals-ending-song-october-3-tv-debut/.241930
+
+Koji Nakamura performs ending song "closed eye sun" featuring Honoka Takahashi
+
+### Dark Machine the Animation Series Reveals 3rd Promo Video, Ending Theme Song, Manga Adaptation
+Thu, 17 Sep 2026 23:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/dark-machine-the-animation-series-reveals-3rd-promo-video-ending-theme-song-manga-adaptation/.241918
+
+Sandaime J Soul Brothers perform ending theme song "Galaxy Mode" for October 13 anime
+
+### Patlabor: The Case Files is Clunky as All Hell—And That's The Point
+Thu, 17 Sep 2026 23:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/patlabor-the-case-files-is-clunky-as-all-hell-and-that-the-point/.241929
+
+A fun, fluid combat system would make for a much more enjoyable game to play… but it wouldn’t feel like <cite>Patlabor</cite> either.
+
+### Edia Re-Releases Falcom's Dragon Slayer: The Legend of Heroes I & II Games
+Thu, 17 Sep 2026 23:24:35 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/edia-re-releases-falcom-dragon-slayer-the-legend-of-heroes-i-and-ii-games/.241926
+
+Edia will re-release PC-98 versions of games
+
+### The Diary of a Middle-Aged Sage's Carefree Life in Another World Anime's Teaser Unveils Tomokazu Sugita in Cast, January Debut
+Thu, 17 Sep 2026 23:17:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/the-diary-of-a-middle-aged-sage-carefree-life-in-another-world-anime-teaser-unveils-tomokazu-sugita-/.241928
+
+Sugita plays protagonist Zelos Merlin
+
+### AnimeJapan Opens Entry Submissions for 'New Creator Awards 2027' on October 1
+Thu, 17 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/animejapan-opens-entry-submissions-for-new-creator-awards-2027-on-october-1/.241898
+
+Deadline of entries until February 6, 2027; winners to be announced at AnimeJapan 2027 event
+
+### Firefly Wedding TV Anime's Promo Video Reveals Iri's Opening Theme Song
+Thu, 17 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/firefly-wedding-tv-anime-promo-video-reveals-iri-opening-theme-song/.241915
+
+Iri performs "Period" for anime debuting on October 9
+
+### 7th Be Forever Yamato: Rebel 3199 Film Unveils Main Trailer
+Thu, 17 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/7th-be-forever-yamato-rebel-3199-film-unveils-main-trailer/.241890
+
+7th, final film opens in Japan on October 30
 
 ### Gorō Kanbe's Golian no Junjō na Junai Manga Ends
 Thu, 17 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/goro-kanbe-golian-no-junjo-na-junai-manga-ends/.241878
@@ -17,56 +62,16 @@ Thu, 17 Sep 2026 11:44:53 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 <cite>The Apothecary Diaries'</cite> Hyuganatsu, Modomu Akagawara debuted manga in August 2021
 
-### Discotek to Release Digimon Tamers, Digimon Frontier, Lupin the IIIrd: Zenigata and the Two Lupins, More Titles on Blu-ray Disc
-Thu, 17 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/discotek-to-release-digimon-tamers-digimon-frontier-lupin-the-iiird-zenigata-and-the-two-lupins-/.241874
-
-Discotek announces final Deep Dives titles
-
-### Takeshobo to Release 3 BL Manga Titles Digitally in English
-Thu, 17 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/takeshobo-to-release-3-bl-manga-titles-digitally-in-english/.241893
-
-Publisher releases Emi Mitsuki's <cite>A Man Who Never Says No</cite> manga, its spinoff <cite>A Golden Someday</cite>, complete 2 volumes of Unohana's <cite>Enveloped by the Fever of Guilt</cite>
-
-### This Week in Anime - Made in Japan
-Thu, 17 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-17/.241848
-
-Just because it was animated in Japan, does that automatically make it anime?
-
-### A Mark Against Thee Webtoon Gets Stage Musical Adaptation
-Thu, 17 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/a-mark-against-thee-webtoon-gets-stage-musical-adaptation/.241887
-
-Full-length reading showcase scheduled for October 5 at Seoul's Sowol Art Hall
-
-### Nobuhiko Okamoto Joins Bless Anime's Cast
-Thu, 17 Sep 2026 08:52:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/nobuhiko-okamoto-joins-bless-anime-cast/.241908
-
-Okamoto voices Ginga Yoyogi in anime debuting in January 2027
-
-### Netmarble Reveals Bloomwalker Game is Part of Ni no Kuni Universe in New Trailer
-Thu, 17 Sep 2026 08:42:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/netmarble-reveals-bloomwalker-game-is-part-of-ni-no-kuni-universe-in-new-trailer/.241907
-
-"Cozy crafting adventure" game to launch for Xbox Series X|S, PS5, Switch, Switch 2, PC via Steam
-
-### Atelier Karia Game Streams Character Video for Rutger, Lenja
-Thu, 17 Sep 2026 08:01:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/atelier-karia-game-streams-character-video-for-rutger-lenja/.241905
-
-<cite>Atelier Yumia</cite> characters return for game launching on February 25
-
-### Bloodstained: The Scarlet Engagement Game's New Gameplay Trailer Streamed
-Thu, 17 Sep 2026 07:47:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/bloodstained-the-scarlet-engagement-game-new-gameplay-trailer-streamed/.241904
-
-Game to launch in 2027 for PC, PS5, Xbox Series X|S after delay
-
-### Gachiakuta Game Streams Gameplay Trailer, Reveals Official Title
-Thu, 17 Sep 2026 07:40:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/gachiakuta-game-streams-gameplay-trailer-reveals-official-title/.241903
-
-<cite>GACHIAKUTA: BREAKOUT</cite> slated for 2027 release for PS5, Xbox Series X|S, Steam
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Firefly Wedding Main Trailer Featuring Opening Theme Song by iri Revealed
+Fri, 18 Sep 2026 08:32:47 GMT — https://animecorner.me/firefly-wedding-main-trailer-featuring-opening-theme-song-by-iri-revealed/
+
+Firefly Wedding TV anime revealed the main trailer with the opening theme “Period,” a new song written by iri for the series.
 
 ### The Apothecary Diaries Author's The Failure at God School Manga Gets Anime Adaptation
 Thu, 17 Sep 2026 15:03:01 GMT — https://animecorner.me/the-apothecary-diaries-authors-the-failure-at-god-school-manga-gets-anime-adaptation/
@@ -123,17 +128,27 @@ Wed, 16 Sep 2026 13:25:50 GMT — https://animecorner.me/bang-dreams-millsage-co
 
 One of BanG Dream!'s bands, millsage, covered the song "Pretender" by Official Hige Dandism.&hellip;
 
-### Re:ZERO Looks Back at Season 1 Through 4 in New Lyric Video Featuring "Recollect" by Konomi Suzuki and Ashnikko
-Wed, 16 Sep 2026 12:16:11 GMT — https://animecorner.me/rezero-looks-back-at-season-1-through-4-in-new-lyric-video-featuring-recollect-by-konomi-suzuki-and-ashnikko/
-
-Re:ZERO released a special lyric video for "Recollect" by Konomi Suzuki feat. Ashnikko looking back at the anime from Season 1 to 4.
-
 ## MyAnimeList News
+
+### Silent Witch Author and Mushoku Tensei Artist Begin New Light Novel
+Thu, 17 Sep 2026 22:15:11 -0700 — https://myanimelist.net/news/74732075?_location=rss
+
+Silent Witch: Chinmoku no Majo no Kakushigoto (Secrets of the Silent Witch) author Matsuri Isora and Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation) illustrator Sirotaka will begin a new light novel titled Boukyaku no Curse Knight (The Curse Knight of Oblivion), the official X account of the series announced on Thursday. Earth Star Entertainment will publish the first volume under its Earth Star Novel imprint on November 13. Isora began penning the Silent Witch l...
+
+### Kyoufu Collector Reveals Main Cast, Staff, Teaser Promo
+Thu, 17 Sep 2026 21:48:10 -0700 — https://myanimelist.net/news/74732013?_location=rss
+
+The official website for the television anime adaptation of Midori Satou s Kyoufu Collector (Horror Collector) novel revealed the main cast, staff, a key visual (pictured), and teaser promotional video on Friday. The anime series is scheduled to premiere on October 10 at 11:45 p.m. on NHK-G. Cast Fushigi Senno: Hiiro Ishibashi (Tenmaku no Jaadugar) Jimmy: Jun Fukuyama (Nippon Sangoku) Himitsu: Saori Hayami (Bad Girl) Blue Umbrella Man: Nobuhiko Okamoto (Dead Account) Staff Director, Series...
+
+### Hotaru no Yomeiri Reveals Additional Staff, Opening Theme, First Promo
+Thu, 17 Sep 2026 17:49:53 -0700 — https://myanimelist.net/news/74731610?_location=rss
+
+The official website for the television anime adaptation of Oreco Tachibana s Hotaru no Yomeiri (Firefly Wedding) web manga revealed additional staff, the opening theme, and first promotional video on Friday. The anime series is scheduled to premiere on October 9 at 11.30 p.m. on Fuji TV noitaminA. Staff Concept Art: Yasufumi Soejima (JoJo no Kimyou na Bouken (TV) art design) Sub-Character Design: Mikio (Mayonaka Heart Tune) Prop Design: Ryou Hirata (Marriagetoxin), Tsuyama Kyohiko, Yutaka...
 
 ### Manga Kamisama Gakkou no Ochikobore Gets TV Anime
 Thu, 17 Sep 2026 08:10:16 -0700 — https://myanimelist.net/news/74730180?_location=rss
 
-Production company Bandai Namco Filmworks opened an official website for a television anime adaptation of Natsu Hyuuga s Kamisama Gakkou no Ochikobore (The Failure at God School) manga on Friday, revealing a teaser visual (pictured). Hyuuga and Modomu Akagawara began serializing the shoujo manga in Hana to Yume magazine in August 2021. Hakusensha published the 14th volume on May 20, with the 15th volume scheduled for September 18. The series has over 1.7 million copies of its volumes in cir...
+Production company Bandai Namco Filmworks opened an official website for a television anime adaptation of Natsu Hyuuga and Modomu Akagawara s Kamisama Gakkou no Ochikobore (The Failure at God School) manga on Friday, revealing a teaser visual (pictured). Hyuuga and Akagawara began serializing the fantasy shoujo manga in Hana to Yume magazine in August 2021. Hakusensha published the 14th volume on May 20, with the 15th volume scheduled for a September 18 release. The manga has a cumulative 1...
 
 ### Japan-French Co-Production Aoki Denshou Welsh & Shedar Announced for Fall 2026
 Wed, 16 Sep 2026 07:58:20 -0700 — https://myanimelist.net/news/74727107?_location=rss
@@ -145,29 +160,19 @@ Wed, 16 Sep 2026 02:33:37 -0700 — https://myanimelist.net/news/74725906?_locat
 
 The official website for the original net anime adaptation of Reki Kawahara s Demons Crest light novel announced additional cast on Wednesday. The anime is scheduled to premiere on Amazon Prime Video on November 6. Cast Teruki Sugamo: Yuusuke Kobayashi (Re:Zero kara Hajimeru Isekai Seikatsu) Aria Misono: Maaya Uchida (Kaya-chan wa Kowakunai) Kai Kisanuki: Rie Murakawa (Komi-san wa, Comyushou desu.) Sumika Watamaki: Sora Amamiya (Kono Subarashii Sekai ni Shukufuku wo!) Kenichirou Komay...
 
-### The Road to Redemption: Unmasking The Vermilion Mask
-Tue, 15 Sep 2026 21:27:35 -0700 — https://myanimelist.net/news/74725112?_location=rss
-
-Combining dark fantasy, action, and an unconventional approach to the shounen genre, Shuiro no Kamen (The Vermilion Mask) is set to bring its striking world and mysterious masks to television this October. From its first chapters, the manga stands out for its willingness to place its protagonist in situations rarely seen in shounen stories, forcing him to confront guilt, loss, and the consequences of his actions rather than simply growing stronger. At Anime Expo 2026, we had the opportunity to...
-
-### Majo to Youhei Reveals Additional Cast, Staff, First Promo for Spring 2027
-Tue, 15 Sep 2026 20:29:44 -0700 — https://myanimelist.net/news/74725001?_location=rss
-
-The official website for the television anime adaptation of Kaeru Chouhoukiteki s Majo to Youhei (Witch and Mercenary) light novel revealed additional cast, start, a second teaser visual (pictured), and the first promotional video on Wednesday. The anime series will premiere on 30 NTV stations and BS NTV in April 2027. Cast Isana Gayhone: Yuri Noguchi (Ryza no Atelier) Alan Clows: Hiromu Mineta (Katainaka no Ossan, Kensei ni Naru) Elsia Armet: Haruka Shiraishi (Clevatess) Staff Assistant S...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### The Otaku Love Connection Volumes 3 and 4 Review
+Fri, 18 Sep 2026 09:00:25 +0000 — https://animeuknews.net/2026/09/the-otaku-love-connection-volumes-3-and-4-review/
+
+Summer is approaching in the world of The Otaku Love Connection, but first our two main characters must weather a storm of emotions as they realise they ship their favourite pair differently!
+
 ### Crunchyroll Announces Autumn/Fall 2026 Anime Season
 Thu, 17 Sep 2026 14:40:11 +0000 — https://animeuknews.net/2026/09/crunchyroll-announces-autumn-fall-2026-anime-season/
 
 The Apothecary Diaries Season 3, Black Clover Season 2, Firefly Wedding, Overgeared, PSYREN, The Vermillion Mask and more are coming to the platform this Autumn.
-
-### Deep-Sea Aquarium Magmell Volume 1 Review
-Wed, 16 Sep 2026 09:00:59 +0000 — https://animeuknews.net/2026/09/deep-sea-aquarium-magmell-volume-1-review/
-
-200 metres below Tokyo is Magmell, the world's first deep-sea aquarium where Kotaro spends his days working as a janitor and dreaming of becoming a caretaker.
 

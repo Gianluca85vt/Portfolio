@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-17T19:51:23.996Z
+# Source feeds — harvested 2026-09-18T09:12:03.575Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -8,6 +8,13 @@ own feed: headline, link, date, and their summary.
 > links to the same publication, which is one source read twice. If only
 > one outlet has the story, write it, keep `draft: true`, and say so in
 > the first line of the body. See notes/article-voice.md.
+
+## Broadcasts in the feeds
+
+Already aired, so a round-up rather than a preview:
+
+- Game Developer — gamescom
+- Game Developer — Tokyo Game Show (TGS)
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -29,13 +36,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 31 items
-- [Games](games.md) — 99 items
+- [Manga](manga.md) **owed** — 32 items
+- [Games](games.md) — 104 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 14 items
-- [AI](ai.md) — 5 items
-- [Film & TV](film-tv.md) — 66 items
+- [3D](3d.md) — 15 items
+- [AI](ai.md) — 6 items
+- [Film & TV](film-tv.md) — 67 items
 
-Total: 297 items.
+Total: 306 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

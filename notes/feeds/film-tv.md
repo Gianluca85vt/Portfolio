@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-09-17T19:51:23.996Z
+# Film & TV — harvested 2026-09-18T09:12:03.575Z
 
 ## Variety
 
-### Halle Berry, Regina King and Meg Ryan Announced as Jurors for Tribeca and Chanel’s Through Her Lens Filmmaker Program
-Thu, 17 Sep 2026 19:47:37 +0000 — https://variety.com/2026/film/news/halle-berry-meg-ryan-tribeca-chanel-through-her-lens-jurors-1236866066/
+### Best of the Best Director Lena Khan on Making a Bollywood Fusion Dance Movie for Netflix, Working With Hasan Minhaj and Telling Maitreyi Ramakrishnan to Bring Channing Tatum Energy
+Fri, 18 Sep 2026 08:41:04 +0000 — https://variety.com/2026/film/news/bollywood-dance-netflix-movie-lena-khan-best-of-the-best-1236866559/
 
-Halle Berry, Regina King and Meg Ryan are putting their eyes on Hollywood’s next generation of filmmakers. The three actors will serve on the jury for the 11th edition of Through Her Lens: The Tribeca Chanel Women’s Filmmaker Program, the annual artist-development initiative from Tribeca Enterprises and Chanel supporting emerging women and non-binary filmmakers. Cinematographer [ ]
+Competitive Bollywood fusion dance has thrived on American college campuses for decades, but it has rarely been the subject of a scripted feature film. Lena Khan s Best of the Best, premiering Friday on Netflix, follows childhood best friends Maya and Anjali as they join UCLA s competitive dance team, only to discover that the road to [ ]
 
-### Kim Kardashian Taps Olympians Chloe Kim, Jutta Leerdam and More for New NikeSKIMS Campaign
-Thu, 17 Sep 2026 19:27:21 +0000 — https://variety.com/2026/shopping/news/kim-kardashian-olympians-chloe-kim-nikeskims-campaign-1236866038/
+### Alfonso Cuaron to Make First Korea Visit at Busan as Festival Also Spotlights European Women+ Filmmakers
+Fri, 18 Sep 2026 06:43:45 +0000 — https://variety.com/2026/film/festivals/alfonso-cuaron-busan-film-festival-1236866555/
 
-Nike and Kim Kardashian are keeping the momentum going on one of the sportswear giant’s biggest celebrity partnerships. NikeSKIMS, the performance-wear brand created with Kardashian’s Skims, has unveiled its Fall 2026 “Edit 01” campaign, starring Olympians Jutta Leerdam, Chloe Kim, Anna Cockrell and Stephanie Au. The drop, available to shop Sept. 17 on both brands [ ]
+The 31st Busan International Film Festival (BIFF) has announced the first-ever Korea visit by Alfonso Cuarón, alongside a dedicated spotlight on nine films from European women and genderqueer filmmakers. Cuarón, who has won the Academy Award for best director twice, for Gravity (2013) and Roma (2018), also holds the Venice Film Festival s best screenplay prize [ ]
 
-### Barbra Streisand Condemns Trump s Unchecked Ego Over Kennedy Center Name Battle: Galling and Painful to Witness
-Thu, 17 Sep 2026 19:17:28 +0000 — https://variety.com/2026/politics/news/barbra-streisand-trump-kennedy-center-name-battle-1236865993/
+### Tenzing Actor Tenzin Dalha Unveiled as Male Lead in Bengali Thriller Chheledhora (EXCLUSIVE)
+Fri, 18 Sep 2026 06:08:11 +0000 — https://variety.com/2026/film/news/tenzing-actor-tenzin-dalha-male-lead-chheledhora-1236866549/
 
-Barbra Streisand is speaking out against Pres. Donald Trump’s controversial handling of the Kennedy Center . “In 2008, I was deeply honored to be included in the 31st annual class of Kennedy Center Honorees,” Streisand wrote in a statement posted Thursday on her official website. “For me, and for so many artists, that honor represented [ ]
+Tenzin Dalha, at the Toronto Film Festival with Jennifer Peedom s Apple original Film Tenzing, has been revealed as the male lead in Bengali-language thriller Chheledhora, opposite Swastika Mukherjee. His casting had been withheld when the Indo-American production was first announced earlier this year, with producers naming only Mukherjee at that point. Tenzing, a gala presentation [ ]
 
-### Sony TV Chief Keith Le Goy on Why PlayStation 5 FAST Channels Are Set Up for Success: 40-50 Million People Incredibly Engaged With That Platform
-Thu, 17 Sep 2026 19:03:29 +0000 — https://variety.com/2026/tv/news/ps5-live-channels-sony-tv-chief-1236865920/
+### San Sebastián 2026: Les Mis, Los Javis, Brad Pitt, Penélope Cruz and Much More
+Fri, 18 Sep 2026 05:11:16 +0000 — https://variety.com/2026/film/global/les-mis-los-javis-brad-pitt-penelope-cruz-san-sebastian-1236847674/
 
-Sony struck synergy gold last month with the introduction of “Live TV on PS5,” an offering of more than 100 free ad-supported video channels available via the PlayStation 5 video game console. Backed by Sony Pictures Television, the venture is a chance to get the IP available to Sony TV (and the ads that can [ ]
+Ten takes on this year’s San Sebastián Film Festival, which runs Sept. 18-26 at the picturesque Basque Country resort: Brad Pitt, Penelope Cruz, Naomi Watts and More Last in San Sebastián way back then with “Inglourious Basterds,” Brad Pitt returns for “Heart of the Beast.” Busiest star of the festival? Penelope Cruz, fresh off a [ ]
 
-### Fan Bingbing, Pedro Pascal, John Malkovich, Javier Bardem Films Lead Tokyo Festival s Gala Selection
-Thu, 17 Sep 2026 19:00:00 +0000 — https://variety.com/2026/film/festivals/fan-bingbing-pedro-pascal-tokyo-film-festival-galas-1236865197/
+### ‘The Traitors: New Blood’ EPs Break Down NBC Premiere, Sweetening the Pot for the Faithful and Why the Civilian Cast ‘Played Hard Straight Away’
+Fri, 18 Sep 2026 02:01:00 +0000 — https://variety.com/2026/tv/news/the-traitors-new-blood-game-changes-nbc-civilian-version-1236865874/
 
-The Tokyo International Film Festival has named its 15-title Gala selection, headlined by Fan Bingbing in Wayne Wang s Diary of a Mad Old Man, Pedro Pascal in Tony Gilroy s Behemoth!, John Malkovich in Martin McDonagh s Wild Horse Nine and Javier Bardem in Rodrigo Sorogoyen s The Beloved. Wang s film adapts Tanizaki Junichiro s novel of the same [ ]
+SPOILER ALERT: This post contains spoilers for the two-hour series premiere of NBC’s “The Traitors: New Blood,” now streaming on Peacock. “The Traitors” castle isn’t just for the rich and famous anymore. Peacock’s Emmy-winning franchise has arrived on NBC, with “The Traitors: New Blood,” a new season composed entirely of civilian players in the game [ ]
 
-### Dr. Orna Guralnik Gives Ciara Miller, Dylan Efron and Carl Schmidt a Couples Therapy’ Session in New Samsung Galaxy Spot
-Thu, 17 Sep 2026 18:59:32 +0000 — https://variety.com/2026/shopping/news/orna-guralnik-ciara-miller-dylan-efron-samsung-galaxy-ad-1236866000/
+### Universal Still Plans Overseas Release for Alex Gibney s Musk Documentary Despite Mogul s Legal Threats
+Fri, 18 Sep 2026 01:27:40 +0000 — https://variety.com/2026/film/news/universal-release-alex-gibney-musk-documentary-1236866395/
 
-Samsung is taking its latest Galaxy campaign to therapy. The tech giant has tapped “Couples Therapy” star Dr. Orna Guralnik to lead “Switchers,” a new campaign that centers a counseling session on the anxieties around ditching a longtime smartphone. The branded spots pair Guralnik with pairs of contrived couples such as “Summer House” star Ciara [ ]
+Contrary to a recent report, Universal is moving forward as planned with the international release of Alex Gibney s Elon Musk documentary Musk, sources familiar with the project told Variety. Though a release date has not yet been set for the overseas rollout, that s not unusual for a film like Musk, a nearly 4-hour long documentary [ ]
 
-### Greta Gerwig Says Narnia Is Inspired by David Bowie, Confirms Meryl Streep Is Voicing Aslan: I Wanted Someone Profound but Not Pretentious
-Thu, 17 Sep 2026 18:36:53 +0000 — https://variety.com/2026/film/news/greta-gerwig-narnia-david-bowie-meryl-streep-aslan-1236865755/
+### Nick Kroll Delivers Heartfelt Appeal for Productions to Shoot in L.A.: It Will Bring Life Back to the City
+Fri, 18 Sep 2026 00:54:29 +0000 — https://variety.com/2026/tv/news/nick-kroll-la-productions-a-hundred-percent-1236866162/
 
-Greta Gerwig is reuniting with her “Little Women” star Meryl Streep on “Narnia,” the director s adaptation of the C.S. Lewis fantasy series. Streep is voicing Aslan, the mythical lion who creates the mystical world of Narnia. “I wanted someone who was profound but not pretentious, who had gravitas but not morose self-seriousness. Someone who could [ ]
+Nick Kroll said upcoming Netflix comedy series A Hundred Percent, which he co-created and stars in, is a love letter to Los Angeles and he expressed hope that a thriving entertainment production community will bring vitality to the city. The comedian, writer, producer, director and actor was a featured keynote speaker at the Variety [ ]
 
-### The Simpsons Casting Director Scott Muller to Recruit Voices for Animated Film The Most Serious Fart
-Thu, 17 Sep 2026 18:29:29 +0000 — https://variety.com/2026/film/news/casting-director-scott-muller-the-most-serious-fart-1236864768/
+### Battling Misconceptions and Figuring Out Use Cases: Entertainment Leaders Navigate AI’s Place in the Industry
+Fri, 18 Sep 2026 00:45:21 +0000 — https://variety.com/2026/biz/news/battling-misconceptions-and-figuring-out-ai-entertainment-1236866336/
 
-“The Simpsons” casting director Scott Muller will oversee voice casting for “The Most Serious Fart,” Utopai s animated feature based on Mike Bender’s bestselling children’s book, which wafts into theaters in 2027. “The Most Serious Fart” follows Siegfried, an uptight fart who is ashamed of who he is and determined to change farts into something respectable. [ ]
+In a world where AI is capturing every conversation, a series of experts is trying to figure out what it actually means for the world of entertainment. “I think the word ‘AI’ is doing too much right now,” says Mira Line, Google’s vice president of technology and society. ”One of the things that we re doing, [ ]
 
-### A Generation Raised by Judge Judy : Judith Sheindlin Reflects on Her Long Run in TV, Shifting to Producing and Revving a Baby Judy Series
-Thu, 17 Sep 2026 18:21:40 +0000 — https://variety.com/2026/tv/news/judge-judy-sheindlin-baby-judy-meme-adam-levy-adams-law-1236865819/
+### Resident Evil Video Game References: All the Zombies, Weapons and Easter Eggs in Zach Cregger s Reboot
+Fri, 18 Sep 2026 00:30:00 +0000 — https://variety.com/lists/resident-evil-video-game-references-easter-eggs/
 
-If Judge Judith Sheindlin had never been profiled in a “60 Minutes” segment that caught the eye of a TV producer, and if she’d never made the segue into TV jurisprudence with “Judge Judy,” Sheindlin has no doubt what she would have done in the second half of her professional life. “I was comfortable. I [ ]
+SPOILER ALERT: This article contains major spoilers for Resident Evil, now playing in theaters. Resident Evil is one of the longest-running horror video game series, and for a time it was the highest-grossing film series based on a game (until Universal s Super Mario movies dethroned them). The games started out as scary, third-person shooters that [ ]
 
-### Empowering Content Libraries with AI is the New Future for Communal Fan Experiences, Execs Reveal: ‘You Have Companies Sitting on Crown Jewels’
-Thu, 17 Sep 2026 18:21:37 +0000 — https://variety.com/2026/biz/news/content-ai-future-fan-experiences-variety-ent-tech-1236865849/
+### Top Marketers on How Creators, TikTok, Spotify and Pinterest Help Fuel Fandom
+Thu, 17 Sep 2026 23:55:32 +0000 — https://variety.com/2026/tv/news/creators-marketers-tiktok-spotify-pintrest-lionsgate-amc-1236866303/
 
-Artificial intelligence has already made its mark on the screen. For some of the entertainment industry s players, AI’s next playground is the real world. Such was the focus on Thursday morning at the panel “Beyond the Screen: How AI is the Catalyst for Next-Gen Experiences” during Variety’s Entertainment Technology Summit presented by EY. The session’s [ ]
+The era of AI and social media platforms has blown open the marketing playbook for bringing audiences to entertainment and experiences. That was the sentiment shared by six top marketers who spoke Thursday at Variety s Entertainment and Technology Summit in Los Angeles. The subject of the creator economy and its impact on selling everything from [ ]
 
 ## The Hollywood Reporter
 
-### When and Where to Watch The Traitors: New Blood Online
-Thu, 17 Sep 2026 19:32:02 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-traitors-new-blood-civilian-season-1-free-1236704553/
+### Resident Evil : What Critics Are Saying About Zach Cregger s New Horror Film
+Fri, 18 Sep 2026 07:09:03 +0000 — https://www.hollywoodreporter.com/movies/movie-news/resident-evil-review-roundup-critics-zach-cregger-horror-1236704042/
 
-The latest installment brings 22 everyday Americans to Ardross Castle for a new game of deception.
+The video game franchise reboot from the 'Weapons' filmmaker, starring Austin Abrams, is now playing in theaters.
 
-### Universal, Facing Backlash Over Musk, Now Holds Internal Talks to Keep Alex Gibney s Doc
-Thu, 17 Sep 2026 19:02:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/universal-alex-gibney-musk-1236704726/
+### Macklemore Alleged to Have Repeated Palestine Comments Despite Promoter Assurances to NFL Stadium Owners (Report)
+Fri, 18 Sep 2026 05:18:25 +0000 — https://www.hollywoodreporter.com/music/music-news/ed-sheeran-macklemore-robert-kraft-phonecall-1236705181/
 
-The studio, which paid millions in 2023 to acquire the doc for overseas release, had gone silent about distribution plans of late and the filmmakers were girding for it to be dropped.
+The Wall Street Journal reported that Ed Sheeran and New England Patriots owner Robert Kraft held a 40-minute phone call over the controversy.
 
-### Rob Bonta on Paramount s Threat to Leave California: They Own It. It Lies at Their Feet
-Thu, 17 Sep 2026 18:56:39 +0000 — https://www.hollywoodreporter.com/business/business-news/rob-bonta-paramount-threat-to-leave-california-1236704736/
+### Monster: The Lizzie Borden Story Review: Ryan Murphy s Latest Netflix Serial Killer Saga Is Faux-Feminist Nonsense
+Fri, 18 Sep 2026 04:30:54 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/monster-the-lizzie-borden-story-review-netflix-ryan-murphy-1236705084/
 
-The California AG spoke on a panel at The Atlantic Festival Thursday, where he addressed the current status of the Paramount antitrust suit.
+Charlie Hunnam, Rebecca Hall and Vicky Krieps join lead Ella Beatty in co-creator Murphy and showrunner Ian Brennan's take on the infamous axe murderess.
 
-### Strange Neighbors Review: A Pretty but Familiar-Feeling Environmental Doc Portrays Natural Beauty Jostled by Man-Made Ugliness
-Thu, 17 Sep 2026 18:18:15 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/strange-neighbors-review-oldenburg-1236704521/
+### Bad Lieutenant: Tokyo Review: Shun Oguri and Lily James in a Meandering Franchise Entry From Takashi Miike That s Semi-Coherent at Best
+Fri, 18 Sep 2026 04:05:14 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/bad-lieutenant-tokyo-review-shun-oguri-lily-james-1236705118/
 
-Mi Steinbach's Oldenburg Fest world premiere examines the disparity between the wildlife on a small island and the factories, ships, and refineries closely adjacent to it.
+The Japanese cult director follows Abel Ferrara and Werner Herzog in charting the downward spiral of a corrupt detective with a drug habit, this time navigating the yakuza underworld.
 
-### Law Crime Signs With WME (Exclusive)
-Thu, 17 Sep 2026 17:53:54 +0000 — https://www.hollywoodreporter.com/tv/tv-news/law-and-crime-signs-with-wme-exclusive-dan-abrams-court-tv-1236704660/
+### Barbra Streisand Slams Trump s Unchecked Ego Amid His Kennedy Center Demolition Threats
+Fri, 18 Sep 2026 02:35:21 +0000 — https://www.hollywoodreporter.com/news/general-news/barbra-streisand-slams-trump-kennedy-center-demolition-threats-1236705117/
 
-The Dan Abrams-led media company acquired Court TV in February.
+"You can easily imagine my indignation at seeing this revered institution become the subject of such a bitter struggle over one man’s name and unchecked ego," she wrote in a lengthy statement.
 
-### Millie Bobby Brown and Jake Bongiovi Reportedly Welcome Second Child Through Adoption
-Thu, 17 Sep 2026 17:52:20 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/millie-bobby-brown-jake-bongiovi-second-child-adoption-1236704639/
+### Resident Evil Racing Toward Healthy Box Office Haul for Zach Cregger s Reboot
+Fri, 18 Sep 2026 01:38:49 +0000 — https://www.hollywoodreporter.com/movies/movie-news/resident-evil-box-office-zach-cregger-reboot-opening-1236705092/
 
-The news comes just over a year after the young couple — Brown, 22, and Bongiovi, 24 — welcomed their first child, a daughter, also via adoption.
+Austin Abrams stars in Sony's latest feature adaptation of the video game franchise, with the new movie becoming the first in the series to impress critics.
 
-### Monster: The Lizzie Borden Story Team on Painting a Portrait of Female Rage — and Leaning into Lesbian Theories
-Thu, 17 Sep 2026 17:45:44 +0000 — https://www.hollywoodreporter.com/tv/tv-news/monster-lizzie-borden-story-female-rage-lesbian-theories-1236704571/
+### Tokyo Film Festival Unveils Gala and Anime Selections, Featuring Cate Blanchett, Tony Gilroy, ‘Wild Horse Nine’ and ‘Grotesqqque’
+Fri, 18 Sep 2026 01:10:43 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-gala-anime-cate-blanchett-tony-gilroy-1236705102/
 
-Ella Beatty stars in the fourth season of Ryan Murphy's crime anthology series and the first one with a woman at the center.
+The festival’s high-profile sidebar will also showcase new films from Cristian Mungiu, Wayne Wang, Jane Schoenbrun and Yukiko Sode, while its animation program spotlights new work from CloverWorks, Madhouse and DreamWorks.
 
-### ’99 Nights in the Forest’: Josh Cooley to Pen 20th Century Studios Adaptation of Survival Horror Video Game (Exclusive)
-Thu, 17 Sep 2026 17:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/99-nights-in-the-forest-josh-cooley-20th-century-studios-film-1236704624/
+### 39 True-Crime Series to Binge Right Now
+Fri, 18 Sep 2026 00:40:45 +0000 — https://www.hollywoodreporter.com/lists/best-true-crime-shows-stream/
 
-The popular game is already the seventh-most-played game of all time on Roblox.
+From 'Monster: The Lizzie Borden Story' to 'The Twisted Tale of Amanda Knox' and much more, here are some of the most popular true-crime shows of the last few years.
 
-### Edie Falco to Star in Fox Legal Drama
-Thu, 17 Sep 2026 17:33:58 +0000 — https://www.hollywoodreporter.com/tv/tv-news/edie-falco-fox-legal-drama-katie-greaves-1236704659/
+### Former Disney Star Debby Ryan Recalls Suffering a Life-Altering Brain Injury
+Fri, 18 Sep 2026 00:25:13 +0000 — https://www.hollywoodreporter.com/news/general-news/former-disney-star-debby-ryan-life-altering-brain-injury-1236705009/
 
-The Emmy winner will play the title role in 'Katie Greaves,' a former public defender who returns to the courtroom.
+The actress said that "after the fifth concussion, the brain injury made things significantly worse."
 
-### JAŸ-Z in 8 Review: Rick Rubin s Handsomely Made HBO Docuseries Impresses and Exasperates in Equal Measure
-Thu, 17 Sep 2026 17:27:30 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/jay-z-in-8-review-hbo-rick-rubin-1236704066/
+### Alfonso Cuarón to Make First Korea Visit for Busan Film Festival
+Fri, 18 Sep 2026 00:23:56 +0000 — https://www.hollywoodreporter.com/movies/movie-news/alfonso-cuaron-korea-visit-busan-film-festival-1236705078/
 
-The artist and his friend/collaborator/series director make their way through Carter's highlights, song by song, in eight beautifully shot black-and-white episodes.
+The two-time Oscar winner will give a master class and support the Asian premiere of his son Jonás Cuarón's new feature ‘Campeón Gabacho.’
 
 ## Deadline
 
-### Everything We Know About The ‘Hunger Games: Sunrise On The Reaping’ Movie So Far
-Thu, 17 Sep 2026 19:48:17 +0000 — https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-movie-news-updates-1236376406/
+### ZDF Boards BBC Drama Shy Lola Featuring Harry Potter Night Manager Stars
+Fri, 18 Sep 2026 08:13:35 +0000 — https://deadline.com/2026/09/zdf-bbc-shy-and-lola-bel-powley-hayley-squires-1237107346/
 
-Suzanne Collins gave her readers a huge gift in returning to the world of The Hunger Games series, the first three books of which she wrote in 2008, 2009 and 2010, for the prequel story of one Haymitch Abernathy. Haymitch, portrayed by Woody Harrelson in the quartet of films based on Collins’ original book trilogy, [ ]
+EXCLUSIVE: German network ZDF has boarded the BBC s upcoming drama Shy Lola starring Harry Potter s Bel Powley and The Night Manager s Hayley Squires. ZDFneo is now aboard in association with the series from Baby Reindeer maker Clerkenwell Films and Amanda Coe, which stars Squires and Powley as the titular characters. They are two very [ ]
 
-### Obsession Star Megan Lawless Boards Indie Romantic Comedy Crushed
-Thu, 17 Sep 2026 19:24:08 +0000 — https://deadline.com/2026/09/obsession-megan-lawless-crushed-1237106798/
+### A+E Global Media Backs Lifetime Korea Series Oh! My Guard Starring K-Pop Performer Jung Yong-hwa Hong Seung-hee
+Fri, 18 Sep 2026 07:00:00 +0000 — https://deadline.com/2026/09/a-and-e-backs-oh-my-guard-lifetime-jung-yong-hwa-1237106305/
 
-EXCLUSIVE: We re getting word that Obsession star Megan Lawless is taking the lead in director Stephanie Donnelly s feature directorial debut, Crushed. In the romantic comedy, Lawless plays Joss, who is a romantic at heart. But she never seems to have crushes who feel the same way about her. Joss sets on a quest to find [ ]
+EXCLUSIVE: A+E Global Media is backing Lifetime Korea series Oh! My Guard starring K-pop performer Jung Yong-hwa and rising star Hong Seung-hee. With A+E prioritizing Korea, the studio is investing in and globally distributing Oh! My Guard, which has been licensed for release in 83 countries including to Asian streamer Viu. Launching next month on [ ]
 
-### The Kardashians Sets Season 8 Release Date; Unveils Trailer Which Reveals Kim In A Hospital Bed More
-Thu, 17 Sep 2026 19:02:03 +0000 — https://deadline.com/2026/09/the-kardashians-season-8-release-date-trailer-1237106720/
+### Resident Evil Scaring Up Franchise Best Previews With $8M-$9M Rotten Tomatoes 91% Audience Score
+Fri, 18 Sep 2026 05:28:35 +0000 — https://deadline.com/2026/09/box-office-resident-evil-1237107316/
 
-We re getting the first extended look at Season 8 of The Kardashians ahead of its fall return. The new season premieres Thursday, October 8 on Hulu, Hulu+ for bundle subscribers in the U.S. and Disney+ internationally. The official trailer opens with a question posed to Kris. How are your daughters getting along this season? , to [ ]
+Buckle up your 4DX seat because it s gonna be a fun weekend as out of the gate, Zach Cregger s take on Resident Evil is already posting the best previews ever for the franchise with tonight north of $8M and maybe even north of $9M. The outlook going into the weekend was $40M-$50M. Those who are [ ]
 
-### The JLO Show: Live In Las Vegas Teaser: Jennifer Lopez s Residency Concert Film Debuting Thanksgiving On CBS, Paramount+
-Thu, 17 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/the-jlo-show-teaser-jennifer-lopez-vegas-residency-film-1237106107/
+### Barbra Streisand Decries Trump s Unchecked Ego Amid His Assertion That The Kennedy Center May Be Torn Down
+Fri, 18 Sep 2026 02:23:07 +0000 — https://deadline.com/2026/09/barbra-streisand-trumps-ego-kennedy-center-1237107274/
 
-Jennifer Lopez is spending this Thanksgiving in fans living rooms, with the release of her Las Vegas residency concert film. On Thursday, CBS and Paramount+ released the teaser for The JLO Show: Live in Las Vegas, premiering Thursday, November 26 at 8 p.m. ET/PT with an extended version exclusively available on the streaming platform, featuring [ ]
+You can easily imagine my indignation at seeing this revered institution become the subject of such a bitter struggle over one man’s name and unchecked ego, wrote Kennedy Center honoree Barbra Streisand. She was referring to President Donald Trump s attempts to close down or, in his words, issue a warning that the center would be [ ]
 
-### Meghann Fahy Set For Limited Series Smokeshow From SK Global, David E. Kelley
-Thu, 17 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/meghann-fahy-to-star-smokeshow-david-e-kelley-sk-global-1237106751/
+### UTA Partner Josh Katz Exits Agency After 30-Year Run
+Fri, 18 Sep 2026 02:21:34 +0000 — https://deadline.com/2026/09/josh-katz-exits-uta-after-30-years-1237107278/
 
-EXCLUSIVE: Meghann Fahy, the two-time Emmy-nominated star of Sirens and The White Lotus, has inked a deal to star in Smokeshow, a new limited series based on the upcoming novel by Catriona Stewart, which has landed with SK Global and David E. Kelley Productions following a highly competitive bidding war. The package is set to [ ]
+EXCLUSIVE: Josh Katz, a longtime UTA Partner and Motion Picture Talent Agent, has left the company after a 30-year run. Sources close to the agency indicated that Katz left of his own accord. The veteran rep himself declined to comment when contacted by Deadline. No next destination was given. It s expected that Katz will remain [ ]
 
-### The Mafia Nanny Series Based On Webtoon Action Romance In Works At Hulu; Charlize Theron To EP
-Thu, 17 Sep 2026 18:59:12 +0000 — https://deadline.com/2026/09/the-mafia-nanny-series-hulu-webtoon-charlize-theron-ep-1237106169/
+### Big Brother Season 28, Week 10 Results: Double Eviction Night Reveals Final 5
+Fri, 18 Sep 2026 01:45:18 +0000 — https://deadline.com/2026/09/big-brother-season-28-week-10-double-eviction-final-five-1237107108/
 
-EXCLUSIVE: Hulu is developing The Mafia Nanny, a drama series based on Webtoon s popular action romance title. It comes from executive producer Charlize Theron and 20th Television. This is believed to be the first English-language live-action series adaptation of Webtoon IP, which has been popular source material in Korean and Japanese television. (Webtoon and sibling [ ]
+SPOILER ALERT: This post contains details on Big Brother Season 28, Episode 35, which aired on Thursday, September 17. Big Brother Season 28 is down to its final weeks, and the latest episode featured a double eviction, the last Block Buster challenge, and two more housemates joining jury. In Week 10 of the competition, Yash Patel [ ]
 
-### Brillstein Entertainment Partners Signs Uruguayan Filmmaker Rodo Sayagues
-Thu, 17 Sep 2026 18:48:55 +0000 — https://deadline.com/2026/09/rodo-sayagues-signs-brillstein-entertainment-partners-1237105980/
+### Vintage Violence Review: Eugene Kotlyarenko s Blood-Splattered Rom-Com Is A Fun Crime-Fueled Trip Through Japan s Denim Trade — Toronto Film Festival
+Fri, 18 Sep 2026 01:40:20 +0000 — https://deadline.com/2026/09/vintage-violence-review-eugene-kotlyarenko-bloody-rom-com-1237104286/
 
-EXCLUSIVE: Brillstein has signed writer-director Rodo Sayagues for management in all areas. Sayagues most recently co-wrote Alien: Romulus alongside frequent collaborator Fede Álvarez for 20th Century Studios and Ridley Scott s Scott Free Productions. With the film grossing more than $350 million worldwide, the duo recently completed the script for a sequel. A native Uruguayan, Sayagues [ ]
+Six years after his unhinged social media age horror Spree, writer/director Eugene Kotlyarenko takes a more optimistic approach with his action-packed rom-com out of Japan. In Vintage Violence, Carter (Cole Sprouse) is an urban explorer who finds a haul of rare denim in a mineshaft. When Izumi (Kiko Mizuhara) invites him to offload the merchandise [ ]
 
-### Fabien Frankel Will Harrison Latest To Join Netflix Drama Series The Retrievals
-Thu, 17 Sep 2026 18:24:19 +0000 — https://deadline.com/2026/09/the-retrievals-tv-series-cast-fabien-frankel-will-harrison-1237106719/
+### Stuart Fails To Save The Universe Creators Wanted Green Lantern For Their DC Crossover Episode But Had To Settle For The Flash
+Fri, 18 Sep 2026 01:30:00 +0000 — https://deadline.com/2026/09/stuart-fails-to-save-the-universe-dc-crossover-explained-1237099922/
 
-EXCLUSIVE: Netflix continues to round out its cast for drama series The Retrievals, with the addition today of Fabien Frankel (Task) and Will Harrison (A Complete Unknown). Frankel plays Ian, the older brother and protector of Emilia Jones lead character, Gabby Clemente. A father of three who is 10 years sober, Ian is an expert [ ]
+SPOILER ALERT! This post contains details from Thursday night s episode of HBO Max s Stuart Fails to Save the Universe. As the title of this week s episode ( Spoiler: We Couldn t Get Green Lantern ) suggests, the creators of Stuart Fails to Save the Universe really did want the Green Lantern to be at the center of the [ ]
 
-### Josh Cooley Sam Raimi Teaming To Develop ‘99 Nights In The Forest For 20th Century Studios
-Thu, 17 Sep 2026 17:55:00 +0000 — https://deadline.com/2026/09/99-nights-in-the-forest-movie-josh-cooley-sam-raimi-20th-1237106669/
+### Dekanalog Takes North American Rights To Tan Siyou s Festival Hit ‘Amoeba’
+Fri, 18 Sep 2026 01:28:05 +0000 — https://deadline.com/2026/09/dekanalog-north-america-amoeba-singapore-tan-siyou-1237107256/
 
-After directing the animated Transformers One to a worldwide gross of more than $129 million, Josh Cooley has inked a deal to pen 99 Nights in the Forest, an adaptation of the popular video game for 20th Century Studios, Deadline has confirmed. Sources said the studio landed rights in a competitive situation. There s no director [ ]
+EXCLUSIVE: Bangkok-based sales agent Diversion has licensed Tan Siyou s festival hit Amoeba to Dekanalog for North America. Tan’s debut feature premiered in the Discovery section of Toronto International Film Festival in 2025 and went on to win a slew of awards including Best Youth Film at the Asia Pacific Screen Awards and prizes at several [ ]
 
-### John Leguizamo To Play Villain In Miami Vice 85 Starring Michael B. Jordan And Austin Butler
-Thu, 17 Sep 2026 17:01:58 +0000 — https://deadline.com/2026/09/miami-vice-85-john-leguizamo-michael-b-jordan-austin-butler-1237106102/
+### Criminal’ Creator Ed Brubaker’s Accuser Is “Opportunist, Not A Victim,” Amazon MGM Says Of Ex-Crew Member Claiming Sexual Racial Harassment
+Fri, 18 Sep 2026 00:48:19 +0000 — https://deadline.com/2026/09/ed-brubaker-lawsuit-amazon-response-criminal-1237107215/
 
-Universal and Joseph Kosinski s upcoming Miami Vice 85 looks to have found its potential bad guy as sources tell Deadline that John Leguizamo is on board to join the movie. Austin Butler and Michael B. Jordan are set to star, with Kosinski directing. Whitney Peak, Alden Ehrenreich, Camila Morrone and Danny Ramirez co-star. Miami Vice [ ]
+Amazon MGM may not have had anything to say publicly when Criminal creator Ed Brubaker was first accused by a former production assistant of sexual and racial harassment, but today the studio and all the other defendants in the matter spoke very loudly. While Noohu’s allegations must be treated as true on demurrer, the evidence [ ]
 
-### Bokeem Woodbine Joins James Marsden s Apple TV Series Disavowed
-Thu, 17 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/bokeem-woodbine-disavowed-apple-tv-series-1237105873/
+### Toronto Film Festival 2026: Read All Of Deadline’s Reviews
+Fri, 18 Sep 2026 00:05:00 +0000 — https://deadline.com/2026/09/tiff-2026-movie-reviews-toronto-1237073927/
 
-EXCLUSIVE: Bokeem Woodbine (Fargo) has been tapped as series regular on Apple TV s new action thriller series Disavowed, starring and executive produced by James Marsden. Written by Art Marcum and Matt Holloway based on their original idea, Disavowed follows legendary CIA Case Officer Brad Griffin (Marsden), who is abruptly fired in the middle of a [ ]
+The 2026 Toronto Film Festival kicked off Thursday, September 10, and features a slew of world premieres including the official opening-night film Being Heumann, Oscar winner Siân Heder s follow-up to her Best Picture winner CODA. The event s 51st edition features 10 days of premieres, gala presentations and more as the third leg of the fall [ ]
 
-### CAA Signs Bonding Creator, Down Low Filmmaker Rightor Doyle
-Thu, 17 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/rightor-doyle-signs-caa-1237105934/
+### Curry Barker, Alex Gibney, Siân Heder, Rachel Morrison Bassam Tariq On Taking Chances Conquering Obstacles Deadline DGA’s Art Of Directing At TIFF
+Thu, 17 Sep 2026 23:57:25 +0000 — https://deadline.com/2026/09/deadline-dga-art-of-directing-tiff-2026-panel-1237106718/
 
-EXCLUSIVE: Rightor Doyle has signed with CAA for representation. Doyle is a filmmaker and actor made his feature directorial debut with Down Low, a comedy financed and produced by FilmNation that world premiered at SXSW in 2023. Zachary Quinto, Lukas Gage, Judith Light, and Audra McDonald starred. Doyle is otherwise best known for the Emmy-nominated [ ]
+Bold decisions during filming, biggest challenges and first Directors Guild of America cards were among some of the topics we that came up during Deadline and the DGA s Art of Directing panel at the Toronto Film Festival that featured a conversation with Curry Barker, Siân Heder, Alex Gibney, Rachel Morrison and Bassam Tariq. Check out [ ]
 
 ## befores & afters
+
+### Watch this VFX breakdown by DNEG for Coyote Vs. ACME
+Thu, 17 Sep 2026 21:20:09 +0000 — https://beforesandafters.com/2026/09/18/watch-this-vfx-breakdown-by-dneg-for-coyote-vs-acme/
+
+Lots of fun befores/afters, animation and CG work here. The post Watch this VFX breakdown by DNEG for Coyote Vs. ACME appeared first on befores & afters .
 
 ### The art of BAMF ING in X2
 Thu, 17 Sep 2026 11:42:59 +0000 — https://beforesandafters.com/2026/09/17/the-art-of-bamfing-in-x2/
@@ -179,6 +184,31 @@ Wed, 16 Sep 2026 21:58:24 +0000 — https://beforesandafters.com/2026/09/17/hybr
 The post Hybride showcases its VFX for The Mandalorian and Grogu appeared first on befores & afters .
 
 ## IndieWire
+
+### Up Against It Review: An Uneven Medical Dramedy Relies on Sincerity to Mask Its Flaws
+Fri, 18 Sep 2026 00:00:00 +0000 — https://www.indiewire.com/criticism/movies/up-against-it-review-1235217625/
+
+TIFF: Broad beats and narrative contrivances nearly bury the glimmers of emotional truth in this ludicrous (but well-meaning) blended family story.
+
+### Half Review: A Grisly Indian Vampire Western Tumbles Into Excess
+Thu, 17 Sep 2026 23:32:00 +0000 — https://www.indiewire.com/criticism/movies/half-review-tiff-1235217459/
+
+TIFF: Samjad’s unique saga of invulnerable, vengeful twins quickly builds and loses steam.
+
+### Best of the Best Review: Maitreyi Ramakrishnan and Priyanka Kedia Dazzle in Bollywood-Fusion Comedy
+Thu, 17 Sep 2026 23:14:51 +0000 — https://www.indiewire.com/criticism/movies/best-of-the-best-netflix-film-review-1235217597/
+
+Director Lena Khan’s exuberant third feature pairs collegiate charm and sparkling production design with satire from Hasan Minhaj and his "Patriot Act" co-writer, Prashanth Venkataramanujam.
+
+### Marcus Theatres and A24 End Months-Long Standoff Over Film Terms
+Thu, 17 Sep 2026 21:21:28 +0000 — https://www.indiewire.com/news/business/marcus-theatres-a24-end-standoff-film-terms-1235216983/
+
+"Onslaught," "Tony," and "The Invite" haven't played at the Midwest-based fourth-largest theater chain, but tickets are imminently going on sale for "Primetime."
+
+### Why John Wilson Used a 3D-Printed Starbucks to Critique Capitalism (and Documentary Cliché) in History of Concrete
+Thu, 17 Sep 2026 21:00:00 +0000 — https://www.indiewire.com/features/craft/the-history-of-concrete-john-wilson-director-interview-1235217501/
+
+Documentarian John Wilson also tells IndieWire about how documentaries need to avoid looking like AI while telling human stories.
 
 ### MobLand Season 2 Is Wasting Tom Hardy s Time (and Ours)
 Thu, 17 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/shows/mobland-season-2-review-tom-hardy-series-1235217392/
@@ -215,132 +245,107 @@ Thu, 17 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/features/commentar
 
 In 1988, "Patti Rocks" stood alongside Jim Jarmusch's "Stranger Than Paradise" and Spike Lee's "She's Gotta Have It" as an indie sensation, but has been largely unavailable for decades. A new Blu-ray from Fun City Editions brings it back to glorious life.
 
-### As the Digger Awards Campaign Launches, Will Tom Cruise Do What It Takes to Win an Oscar?
-Wed, 16 Sep 2026 22:17:41 +0000 — https://www.indiewire.com/awards/industry/tom-cruise-digger-oscar-campaign-box-office-problems-1235217421/
-
-Warners is going all in to promote Hollywood's last movie star, but "Digger" faces box office hurdles and a star unaccustomed to navigating the awards season gauntlet.
-
-### NewFest Lineup Showcases La Bola Negra NYC Premiere, Plus Elsinore, Club Kid, and More
-Wed, 16 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/news/festivals/newfest-2026-lineup-la-bola-negra-nyc-premiere-1235217368/
-
-Exclusive: New York City's premier LGBTQ+ film festival runs October 15-25 with 144 films representing 23 countries.
-
-### Stuffed Review: There Are No Certainties in Life Besides Death and Taxidermy in This Zany, Bleakly Romantic Body Horror Musical
-Wed, 16 Sep 2026 16:11:07 +0000 — https://www.indiewire.com/criticism/movies/stuffed-movie-review-harry-melling-jodie-comer-musical-1235217409/
-
-Infectious tunes and killer performances from Jodie Comer and Harry Melling have Theo Rhys' film destined for cult classic status.
-
-### Resident Evil Review: Zach Cregger s Relentless Adaptation Is the Future of Video Game Movies, Even When Too Goofy for Its Own Good
-Wed, 16 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/criticism/movies/resident-evil-movie-review-2026-zach-cregger-1235217403/
-
-Austin Abrams dives into the heart of a zombie apocalypse in a lean, mean, 85-minute thrill ride that captures the experience of playing the "Resident Evil" games.
-
-### Sacrifice Trailer: Anya Taylor-Joy, Chris Evans, John Malkovich, and Charli XCX Take Aim at Celebrity Vapidity
-Wed, 16 Sep 2026 15:10:00 +0000 — https://www.indiewire.com/news/trailers/sacrifice-trailer-anya-taylor-joy-chris-evans-romain-gavras-1235217384/
-
-In Romain Gavras' English-language debut, a Ruben Östlund-ish set-up gets a fiery edge.
-
 ## The Wrap
 
-### Joe Rogan Rails Against F king Nuts Trump Supporters for Boycotting Jelly Roll Over Late Night Jokes
-Thu, 17 Sep 2026 19:36:27 +0000 — https://www.thewrap.com/media-platforms/journalism/joe-rogan-rails-against-trump-supporters-jelly-roll/
+### The Traitors: New Blood EPs Explain Civilian Season s Tonal Shift and That Twisty Selection
+Fri, 18 Sep 2026 02:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-traitors-new-blood-sam-rees-jones-rosie-franks-interview/
 
-Joe Rogan rose to Jelly Roll s defense on Wednesday s The Joe Rogan Experience podcast, railing against fucking nuts supporters of President Donald Trump who took issue with the country s star s late night jokes while guest hosting Jimmy Kimmel Live! last month. “Trump supporters are f king nuts man, they’re rabid, Rogan told his guest, comedian Ron White. He represents something other than just a person to them. He represents something, a leader they wish they had. Which is a real problem in our society in general with leaders. We look to them as if they’re something different than every other person that’s ever been a leader before. Like, This is the one that’s gonna save us. ” White said that he s always been careful about what he says about the president for that very reason. You know, don t be stupid Ron. Don t be stupid. He s saying jokes. I shouldn t even say he s saying stupid things, Rogan added. I m just saying like if you want people to like you, like, going after Trump and especially from his perspective as a country guy, that s a giant chunk of your crowd. I wouldn t have advised him to say that there. Jelly Roll came under fire while hosting Jimmy Kimmel Live! the last week of August and making jokes at the president s expense comparing his own 300-pound weight loss to Trump s cratering approval ratings, teasing the president for being a fellow fat pig, and saying Trump is the pot calling the kettle fat whenever he goes after his political enemies for their weig
+As Peacock competition sensation “The Traitors” heads to NBC for a civilian season this fall, fans can expect all the same treachery and deceit, with a slight tonal shift. There is a nuanced tonal shift, EP Sam Rees-Jones told TheWrap, noting its 8 p.m. primetime broadcast placement. It is obviously a program about murder and betrayal, but weirdly enough, because it s tongue in cheek, it is a multi-generational viewing experience. Much of that shift, of course, is coming from the reality competition show being filled with everyday people, rather than the reality stars and celebrities who have made up the cast of the Emmy-winning Peacock version of the show. We ve seen that in the U.K. — you can watch it from all generations and enjoy it together as a family, Rees-Jones said. But it might also be felt as the civilian cast boards a steam train right out of Harry Potter through the Scottish Highlands to get to the castle, rather than arriving in the dead of night to hooded figures. And while the slightly shorter episodes on broadcast mean cliffhangers are in different places, EP Rosie Franks ensured actual nuts and bolts of the game will stay the same. It s the same game — It s Alan s castle, Rees-Jones said. It s all the things that we know and love about The Traitors, but it s with people that we don t know and the other players don t know, and we re all learning about them at the same time. And speaking of Harry Potter, the EPs recruited Harry Potter alum Oliver and James Phe
 
-### Peter Krause Sounds Off on ‘9-1-1’ Exit and Betting on Broadcast Again With NBC’s ‘Line of Fire’
-Thu, 17 Sep 2026 19:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/peter-krause-911-exit-line-of-fire-interview/
+### ‘Love of Your Life’ Review: Margaret Qualley Navigates From Rhapsody to Grief
+Fri, 18 Sep 2026 01:39:14 +0000 — https://www.thewrap.com/creative-content/movies/love-of-your-life-review-margaret-qualley-rachel-morrison-tiff/
 
-Peter Krause has been a TV staple for almost four decades. On Monday, he adds an alluring new character to that legacy. He plays Mike Hollingsworth on NBC’s “Line of Fire,” a secret service agent with a deliciously messy family of fellow law enforcement officers working across agencies like the U.S. Marshals, the FBI and the Department of Justice. Life throws a wrench at the typical, politically adjacent Hollingsworth family drama when they become targets of a trained serial killer. And Mike was days away from retiring, not necessarily by choice. It’s the latest complex role for an actor who’s built an impressive repertoire, with leading roles in shows like ABC’s “Sports Night” in the 1990s, HBO’s “Six Feet Under” in the 2000s, NBC’s “Parenthood” in the 2010s and most recently on eight seasons of ABC’s “9-1-1.” His character in the first responder drama, Fire Capt. Bobby Nash, was killed off with a heroic sacrifice in Season 8 that reshaped the show’s identity and left fans in shambles. Peter Krause played Captain Bobby Nash from 2018-2025. (Disney/Christopher Willard) “It was hard. I loved Bobby Nash and the audience did too,” Krause told TheWrap. “It was a great eight years. We did things that had never been done before on TV.” For countless interviews, Krause touted the Fox-turned-ABC action drama as a TV version of a comic book, where the lead firefighters and paramedics face impossible emergencies and are seemingly invincible. The Ryan Murphy-produced drama series has pr
+Within its first few minutes, Rachel Morrison’s “Love of Your Life” has all the setups of a romantic comedy: Maya and Charlie meet cute when she buys a small desk from him with a stuck drawer; some mild flirtation takes place; Maya drags the desk home, unsticks the drawer, discovers a cassette tape and sticks it in her Walkman and is intrigued by the atmospheric music. Note: This is taking place in 2020. Charlie still saves cassette tapes, and Maya still has a cassette Walkman. Could a romance be far off? Well, no, it couldn’t. But that’s pretty much the last rom-commy thing that happens in “Love of Your Life,” which jumps into the relationship so quickly that you can’t help but feel a sense of foreboding that lurks beneath the perfect romance. And sure enough, the film spends most of its time dealing with the aftermath of loss and the slow process of rebuilding a person wracked with grief. It’s not a rom-com; it’s a tragedy in which the lead character isn’t sure whether to surrender to that tragedy or try to recover from it. Morrison, the first woman every nominated for an Oscar for cinematography, made her directorial debut with “The Fire Inside” in 2024. Her followup is gentler and more disquieting; she’s skilled at capturing the rhapsodic moments in a life, but then backing off from the rhapsody. “Love of Your Life” shows us beauty and then suggests that we don’t trust it. Maya is played by Margaret Qualley with a light touch through the opening stretch of the film as her
 
-### Former Olympian Mary Mazzio on How Her New Documentary ‘Mighty Mary’ Connects to Past Triumphs
-Thu, 17 Sep 2026 19:00:00 +0000 — https://www.thewrap.com/creative-content/movies/office-with-a-view-mary-mazzio-mighty-mary-skydance-sports/
+### Miley Cyrus Details Final Conversation With Dolly Parton: She Was Always Right
+Fri, 18 Sep 2026 01:30:14 +0000 — https://www.thewrap.com/creative-content/music/miley-cyrus-details-final-dolly-parton-conversation/
 
-Mary Mazzio is a person who really has done it all. She’s a former Olympian (she was a rower for the United States in the 1992 Olympics in Barcelona), lawyer and a documentary filmmaker. She’s the founder and CEO of 50 Eggs, described as “an independent film production company dedicated to making socially impactful films.” Her latest film is one that is close to her heart – “Mighty Mary,” which charts the effort of the first all-women’s sailing team to compete for the America’s Cup (back in 1995), led by Dawn Riley. Narrated by Elizabeth Banks and Hugh Jackman, produced by Skydance Sports and featuring interviews with many of the original crew members (and those around them), it’s one of the most thrilling sports documentaries you’re likely to see, particularly because the story of a group of ragtag, highly skilled underdogs seems like the kind of thing Hollywood probably should make into a narrative feature. (It’s easy to imagine every major Hollywood actress jockeying to play one of these real-life heroes – you are almost casting it as you watch.) “Mighty Mary” is at AMC theaters now and Mazzio spoke to Office With a View about the journey of the film, it’s starry narrators and whether or not she’d be interested in a narrative version of the movie. The following is our conversation, slightly edited for clarity and brevity. This column is called Office with a View. What does your daily routine look like these days? It s like dealing with QC. “Oh God, shit! We need Italian su
+Miley Cyrus detailed her final conversation with godmother Dolly Parton in a heartwrenching interview Thursday, saying that the country music legend was always right. Parton was the Flowers singer s godmother in real life and appeared as her Aunt Dolly on her Disney Channel show Hannah Montana. The duo had a very close bond and mentorship relationship until the end of her life. The time that we talked, which was the last time we would talk, it was actually me telling her about this record, Cyrus told Lowe. She shared that even though her and Parton were different in many ways they bonded in how the performance persona they shared with the world was a sliver of who they really were. She s known for the faux, the fake, the hair, the makeup, the show of it, but there s a part of her that s just what I think what everyone gravitates towards is how real she is and how authentic she is, Cyrus shared. Even though we are so different, that s what made us so perfect for each other. The Bass Persuades singer said that she mimicked Parton s journey by separating her art from her personal life. Another piece of advice Parton gave Cyrus was to keep her emotions in during her performances and let the audience do the crying for her. I always cry. I can t help it, Cyrus said. She [Parton] was like, Music is escapism. Let them cry. You need to get through it. And I said, I know, but this is who I am. And she loved me for it. She shared that during their performance of I Will Always Love You a
 
-### All the Songs in Monster: The Lizzie Borden Story
-Thu, 17 Sep 2026 18:55:30 +0000 — https://www.thewrap.com/creative-content/tv-shows/monster-lizzie-borden-story-soundtrack-songs/
+### New York Times Staffers Protest 175th Anniversary Gala Over AI, Health Care Contract Disputes
+Fri, 18 Sep 2026 01:30:00 +0000 — https://www.thewrap.com/media-platforms/journalism/new-york-times-guild-protest-175th-anniversary-gala-ai-health-care/
 
-The latest installment of Netflix s hit serial killer anthology Monster landed Thursday on the streamer — this time covering Lizzie Borden — and boasts a number of stellar needle drops. Monster: The Lizzie Borden Story is intercut with plenty of anachronistic tunes, mostly from the punk and riot girl genres. Among the highlights in the new season of the show is Cherry Bomb by The Runaways and mangeout by Wet Leg. Look below for a list of all the songs in “Monster: The Lizzie Borden Story.” Episode 1 Cherry Bomb by The Runaways Hounds of Love by Kate Bush Episode 2 mangeout by Wet Leg Cuntology 101 by Lambrini Girls Episode 3 Today by Jefferson Airplane The End by The Doors Episode 4 Stumblin In by Suzi Quatro and Chris Norman I m on Fire by Chromatics Episode 6 Smalltown Boy by Bronski Beat Episode 7 The Rolling Stones The Last Time by Andrew Oldham Orchestra Episode 8 Carnival by Natalie Merchant Monster: The Lizzie Borden Story is now streaming in full on Netflix. Ella Beatty stars as the titular killer. She is joined in the series by Vicky Krieps, Sarah Paulson, Charlie Hunnam , Rebecca Hall, Billie Lourd, Joey Pollari and Jessica Barden. “When the repressed daughter of a wealthy New England family and her rebellious maid find themselves trapped in a house built on humiliation and cruelty, they escape into a fantasy of sex, power and revenge,” a synopsis of the series reads. “The gruesome unsolved murders that follow don’t just shock the world — they give birth to an icon 
+Unionized New York Times employees gathered to protest outside the company’s 175th anniversary gala Thursday night, using the celebration to pressure management over health care costs and protections governing artificial intelligence. Times Guild members distributed fliers to arriving guests outside Spring Studios in Manhattan while a digital billboard truck displayed messages about the contract dispute near the venue. A digital billboard truck displays a Times Guild message near Spring Studios during the New York Times’ 175th anniversary gala. (Courtesy of the NewsGuild of New York) “Tonight the Times is celebrating its 175th anniversary,” Times Guild unit chair Jim Luttrell told TheWrap. “We’re here to remind the execs throwing this big bash that we are a crucial part of the company’s success and they should commit today to agreeing to a fair contract.” Times Guild members gather outside Spring Studios in Manhattan during the New York Times’ 175th anniversary gala on Sept. 17, 2026. (Courtesy of the NewsGuild of New York) The union said it represents more than 1,500 Times journalists, business employees and other workers and has been bargaining with management since January. Health care is among the remaining points of contention. Employees and the company both contribute to a self-funded health benefit fund, and the Guild said management wants workers to shoulder more of the fund’s rising costs. Union representatives were told during Wednesday’s bargaining session that emp
 
-### Is Shaking Up the Emmys Telecast a Losing Battle?
-Thu, 17 Sep 2026 18:30:00 +0000 — https://www.thewrap.com/media-platforms/tv/emmys-2026-ratings-categories-analysis/
+### Mellody Hobson Exits LA28 Olympics Board Amid Calls for Reform
+Fri, 18 Sep 2026 00:55:08 +0000 — https://www.thewrap.com/culture-lifestyle/culture/mellody-hobson-steps-down-from-la-olympics-board/
 
-The Primetime Emmy Awards are stuck between a rock and a hard place. In an effort to keep TV s biggest night tighter and more engaging, the Television Academy moved seven categories from the primetime telecast to the Creative Arts Emmys, which take place the weekend prior to the main show. The telecast often extends past its three-hour mark, so on paper, it sounded like a reasonable solution. But the switch, which TV Academy chair Cris Abrego told TheWrap had been in the works for 20 years, sparked backlash across Hollywood. The DGA, the WGA and SAG-AFTRA wrote in a joint statement that cutting the categories devalues the contributions of the talented people the Academy is meant to honor. The TV Academy held firm to its decision, but the switch didn t help move the ratings needle for the show. Viewership for Monday s Emmys slid down to 6.7 million viewers across NBC and Peacock, according to preliminary Nielsen figures. That s down 11.7% from the 7.6 million viewers brought in by the 77th ceremony last year, even if we compared it to last year s early viewership numbers, the show would still be down nearly 10%. The Emmys stark ratings declines show that shaking up a telecast to attract a bigger crowd is a losing battle, with the biggest winners over the last few years beloved by critics more than audiences. The changes only ended up alienating tradition-loving audiences who do tune in and watch, and the extra time spent on cheesy jokes, skits and a surprise Taylor Swift cameo
+Mellody Hobson, wife of George Lucas and co-founder of the Lucas Museum of Narrative Art, stepped down from the Los Angeles Olympics board Thursday. The news came just days before the museum s Sept. 22 public opening. Her exit marked the latest struggle faced by the 35-person LA28 Olympics board, led by Casey Wasserman . Hobson privately cited the demands and responsibilities to the Lucas Museum as the reason for her departure, according to an internal email reviewed by LAist . Hobson and the Lucas Museum had come under fire from the Fair Games Coalition, which has sought to meet with her to address concerns with the 2028 world sporting event. These concerns are related to both housing stability and union jobs, with the Fair Games Coalition seeking to ensure that the massive global event helps serve working-class Angelenos. This includes providing union jobs and affordable housing, placing a moratorium on short-term rentals like AirBNB and protecting immigrants during the event. Such mega events and the massive investments required to make them happen should have a positive impact for the city’s residents, including the workers that make the games possible. But in recent decades, in country after country, global sporting events have failed to produce lasting benefits for host communities, the coalition said in a statement to media on Thursday. While corporate sponsors have enriched themselves, the games have left local communities indebted for years, with five of the past six
 
-### Morning Joe Slams Trump s Kennedy Center Threats: This Is Extortion
-Thu, 17 Sep 2026 18:05:22 +0000 — https://www.thewrap.com/media-platforms/journalism/morning-joe-trump-kennedy-center-name-threats-video/
+### Greta Gerwig Reveals Why She Cast Meryl Streep as Bowie-Inspired Aslan in Narnia
+Fri, 18 Sep 2026 00:38:02 +0000 — https://www.thewrap.com/creative-content/movies/greta-gerwig-narnia-casting-meryl-streep-aslan-explained/
 
-The hosts of MS NOW s Morning Joe slammed President Trump s warning that the Kennedy Center could be ripped down without his help, calling his veiled threats extortion. Put my name on monuments or I m going to tear down the cultural landmark of Washington, D.C. Boy, that s a great message to send to American voters right before an election, host Joe Scarborough said of Trump s stance on the Kennedy Center , adding, It s literally hard to believe that the American president would ever do something like this. On Tuesday, a federal judge blocked the Kennedy Center from placing Trump s name on its building or grounds. Speaking with reporters this week, Trump said that his administration deserves recognition because only he has the power to fix the Center s renovation and financial problems. If we don’t do that, it’s going to close. It’ll end up being ripped down, Trump said. This is clearly in the works — that he will knock that building down if they don t put his name on it. This is extortion, Morning Joe co-host Jonathan Lemire said. The administration is gambling, as they did with the ballroom, [that] if they move fast enough, they get ahead of the courts. Nothing can stop them. So put his name on the building or he knocks down the premier cultural institution in America s capital named after its slain, martyred leader, Scarborough recapped. You can watch the Morning Joe segment yourself below. Scarborough continued to express his frustration and befuddlement over Trump s obse
+Greta Gerwig knew she needed a commanding presence to voice her Christ-like talking lion Aslan in Narnia: The Magician s Nephew. She had a hard time thinking of a better fit than Meryl Streep. “I wanted someone who was profound but not pretentious, who had gravitas but not morose self-seriousness. Someone who could communicate depth and pathos as well as joy and delight,” Gerwig told Empire in an interview published Thursday about her forthcoming fantasy feature. I wanted someone who was older than 70, so there was a wisdom of experience, but who also had the capacity of fresh wonder, like a child. Aslan occupies a crucial role in both The Magician s Nephew and C. S. Lewis The Chronicles of Narnia series as a whole. On top of all of the other criteria already laid out, Gerwig added that she wanted one of the greatest actors to ever do it. That list is not a long one, she admitted. Enter: Streep, who previously collaborated with Gerwig in her previous literary adaptation, 2019 s Little Women. Empire shared a piece from concept artist Jaime Jones of Streep s Aslan creating Narnia, as well as an image of the talking lion with a red face stripe and different-colored eyes — an homage to legendary artist David Bowie, per Gerwig, who said she wanted her take on the franchise to feel like a rock opera. “Narnia is literally a world made out of music,” she told Empire. “It is a world sung to life by Aslan, and rock ’n’ roll to me felt like a world made out of music.” Empire also reveal
 
-### ‘Miami Vice ’85’: John Leguizamo to Play the Villian in Joseph Kosinski Reboot
-Thu, 17 Sep 2026 18:00:29 +0000 — https://www.thewrap.com/creative-content/movies/miami-vice-85-john-leguizamo-to-play-the-villian-in-joseph-kosinski-reboot/
+### Barbra Streisand Blasts Trump s Unchecked Ego After He Threatens to Demolish Kennedy Center
+Fri, 18 Sep 2026 00:26:07 +0000 — https://www.thewrap.com/culture-lifestyle/culture/barbra-streisand-trump-unchecked-ego-kennedy-center-threat/
 
-John Leguizamo, who is in the generating chatter in the awards race for his turn in The Odyssey, will play heavy in Joseph Kosinski’s “Miami Vice ’85,” Universal’s upcoming film revival of the hit ’80s TV series, TheWrap has learned. Michael B. Jordan and Austin Butler star. Other cast include Alden Ehrenreich, Whitney Peak, Camila Morrone and Danny Ramirez. The film, written by “Nightcrawler” Oscar nominee Dan Gilroy, will be based on characters created by Anthony Yerkovich for the series, which was executive produced by Yerkovich and Michael Mann. Eric Warren Singer wrote an earlier draft of the screenplay. The original 1984 “Miami Vice” pilot episode marked the beginning of the partnership between Sonny Crockett and Rico Tubbs, now played by Butler and Jordan, as they take on drug lords and other criminals on the streets of Miami Beach. The Hollywood Reporter first reported the news. More to come The post ‘Miami Vice ’85’: John Leguizamo to Play the Villian in Joseph Kosinski Reboot appeared first on TheWrap .
+Barbra Streisand expressed disdain for President Donald Trump s unchecked ego on Thursday following his threat to demolish the Kennedy Center amid the ongoing legal battle to mount his name on its exterior. You can easily imagine my indignation at seeing this revered institution become the subject of such a bitter struggle over one man’s name and unchecked ego, the legendary entertainer, who was recognized at the 31st annual Kennedy Center Honors in 2008, wrote on her website . The Oscar winner s lengthy, heartfelt missive, which charted the history of Trump s effort to rename the historic performing arts center built as a monument to President John F. Kennedy all the way through his suggestion it could be ripped down if he couldn t do as he pleased, ultimately acted as a call to vote in November s midterms. The Kennedy Center was meant to pay tribute to a beloved president, and to advance his philosophy that artistic achievement was proof of a free society. He believed that when the creative impulse cannot flourish freely, a society loses its vitality, Streisand wrote. Yet another reason why it is so important that Americans exercise their right to vote in the upcoming midterm elections! On Tuesday, after a judge s federal order to block the president s effort to have his name on the exterior of the performing arts center, the Trump-approved board for the organization voted to close it , citing renovations and financial instability. Oddly, when Trump’s name was still on the 
 
-### Monster: The Lizzie Borden Story : Your Guide to Vicky Krieps Character, Bridget Sullivan
-Thu, 17 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/bridget-sullivan-monster-the-lizzie-borden-story-vicky-krieps/
+### Monster : Lizzie Borden s Disgusting Dinner Scene Actually Happened
+Fri, 18 Sep 2026 00:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/monster-the-lizzie-borden-story-dinner-scene-explained/
 
-Whatever you think you know about the Lizzie Borden case, you re not prepared for Monster. That s especially true when it comes to Bridget Sullivan, the housemaid played by Vicky Krieps in Season 4 of the Netflix thriller. In Ian Brennan s show, Bridget — callously referred to as Maggie — sweeps into the Borden household like a punk Mary Poppins, bringing with her feminist literature, 1890s hair dye and plans for murder. In reality, Bridget Sullivan was far less dynamic and is largely believed to be a young woman who was in the wrong place at the wrong time. Here s what to know before you press play. Who does Vicky Krieps play in Monster ? Krieps plays Bridget Sullivan, the Borden family s live-in maid. Who was Bridget Sullivan? An immigrant from Ireland, the real Sullivan was 25 years old when Abby and Andrew Borden were murdered. Sullivan and Lizzie Borden were the only two in the house when the Bordens bodies were found. As the series portrays, the Bordens did call Sullivan Maggie. Unlike Krieps take on the character, the real Sullivan wasn t excessively well-traveled and only lived in Ireland and the United States throughout her life. By all accounts, she was a quiet and competent housekeeper who managed to avoid the tensions of the Borden household, even serving meals at different times to account for the divided household. Prior to the murders, Abby and Andrew Borden became violently ill. The incident prompted Abby to consult a doctor about the matter, and she confided 
+Note: This story contains spoilers from Monster: The Lizzie Borden Story Episode 2 Don t eat anything during the first two episodes of Monster: The Lizzie Borden Story. Your stomach will thank you. Every season of Monster is filled with horrific moments, whether they be grisly murders via power tools or furniture made of human skin. But you don t really expect Monster to make fart and poop jokes. Yet that s exactly what happens in the most memorable dinner scene of the season. What s most shocking about this meal isn t that Ryan Murphy, Ian Brennan and Max Winkler put this stomach-turning scene on screen. It s that this gross-out moment is based on real life. Did the Borden family really get sick? As shocking as the dinner scene may be, it s actually based in reality. Two days before Abby and Andrew Borden were murdered, the married couple became violently ill. Andrew s brother-in-law John V. Morse also got sick as did the family s live-in maid Bridget Sullivan. The illness was so severe that Abby Borden consulted a doctor about the incident the following morning and expressed her fear that someone had poisoned the family. Later, doctors and the authorities traced the sickness to a swordfish and mutton broth that had been made days earlier and was improperly stored in a pantry. Rumors emerged that the sickness was actually an attempt from Lizzie Borden to poison her family. A pharmacist testified during the trial that she attempted to buy prussic acid at his drug store, claim
 
-### Edie Falco to Lead Fox Legal Drama Katie Greaves
-Thu, 17 Sep 2026 17:38:35 +0000 — https://www.thewrap.com/creative-content/tv-shows/edie-falco-fox-legal-drama-katie-greaves/
+### MobLand Season 2 Release Schedule
+Thu, 17 Sep 2026 23:30:00 +0000 — https://www.thewrap.com/media-platforms/streaming/mobland-season-2-episode-release-schedule/
 
-Edie Falco is making her way back to television, this time as a lawyer. The Nurse Jackie and The Sopranos star will lead the cast of Katie Greaves (working title), a new character-driven legal drama that landed a series order at Fox . Falco stars as the titular character, a whip-smart, fiercely committed attorney who stepped away from the New Hampshire Public Defender’s office following a devastating personal tragedy. Now raising her two young granddaughters with her husband and trying to piece together a life she never expected, Katie is drawn back to the work that once defined her. Each case tests Katie’s instincts, wit, and deeply held belief that everyone deserves a second chance … and someone to fight for them, per the character description. The series comes from executive producer Sharr White ( Presumed Innocent, Palm Royale, The Affair ), who also serves as showrunner, and Ridley Scott via his Scott Free Productions. It is produced by Fox Entertainment Studios. “Sharr has created an extraordinary character in Katie Greaves: funny, formidable, deeply human, and driven to fight for people who might otherwise be overlooked, including her own family. The incredibly talented Edie Falco brings all of that strength, wit, and vulnerability to the screen, and there is no one we’d rather have at the center of this story,” Fox Network President Michael Thorn said in a statement. “Together with Sharr’s singular voice and the incredible creative pedigree of Ridley Scott, David Zuck
+Following some alleged off-season behind-the-scenes drama, MobLand is back for Season 2. And don t worry, it ll be back for even more after that. Tom Hardy, Helen Mirren, Pierce Brosnan and the crew are all back, and of course, there s drama on-screen. This season, the Harrigans struggle to show a unified front as rising rivals threaten their fractured criminal empire and have a lot to deal with. Here s what you need to know headed into Season 2. When does MobLand premiere? Season 2 of MobLand kicks off on Friday, Sept. 18. What happens this season? According to the official synopsis: In the upcoming season, the Harrigans struggle to show a unified front as rising rivals threaten their fractured criminal empire – and Harry Da Souza, their street-smart and formidable ‘fixer,’ must walk a dangerous tightrope when tensions within the family intensify. As violence spills into every corner of their lives, loyalties snap, safety proves temporary, and the battle for power leaves no room for mercy. How many episodes are there? There will be 10 episodes total in the second season of MobLand. When do new episodes come out? Following the premiere on Sept. 18, new episodes of the second season will be available to stream weekly on Fridays, culminating in the season finale on Friday, Nov. 20. Will there be a Season 3? Yes, there will. The series scored an early Season 3 renewal at the start of September. So, at least for now, you don t have to worry about the story getting cut off by an u
 
-### ‘The Traitors: New Blood’ Review: Peacock’s Emmy Darling Gets More Real Than Ever With NBC Civilian Spinoff
-Thu, 17 Sep 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/reviews/the-traitors-new-blood-review-nbc/
+### ‘Best of the Best’ Review: If You Loved ‘Step Up 2: The Streets,’ This Is the Next Best Thing
+Thu, 17 Sep 2026 23:12:29 +0000 — https://www.thewrap.com/creative-content/movies/best-of-the-best-review-netflix/
 
-Reality TV gets a big injection of authenticity with “The Traitors: New Blood,” NBC’s all-civilian spinoff of the hit Scottish castle-set, fake-kill-or-be-fake-killed Peacock competition show and Emmy magnet . The “Traitors” casting team pulled off a coup in this 2026 cultural landscape by finding 22 “everyday Americans” who appear free of the usual reality-contestant guile — at least judging by the two episodes made available to the press. They aren’t babes in the Highlands. The newbies appear familiar with “Traitors,” and some posture in that “I am not here to make friends” way. Or they clamor to become “traitors,” the secret chosen few who don cloaks and “Eyes Wide Shut” masks to target non-traitors, known as “faithfuls,” to eliminate. The faithfuls’ role is to root out traitors so they don’t steal away with the $250,000 prize. Tomica Adams in The Traitors: New Blood. (Euan Cherry/NBC) But nary a serious alliance nor strategy is attempted in the first two episodes. Camaraderie seems to outweigh cunning. When one player beelines for an immunity shield before assisting others in a group challenge, the sense of communal disappointment is palpable. Maybe they are here to make friends? Either way, the civilians’ emotional transparency is refreshing. They appear incapable of the artifice that comes second nature to the “Survivor” and “Real Housewives” veterans who populate the “Traitors” mothership. For viewers, knowing there will not be a Boston Rob or Lisa Rinna around the nex
+I think it’s fair to say the last great, beautiful light in Hollywood died when they stopped making the “Step Up” movies. They were simple films full of simple joys, in which any problem could be solved by popping and/or locking, sometimes with lasers. Are you and your lover from different sides of the tracks? Dance will fix that. Is your millionaire hotel-tycoon father gentrifying Florida? Dance will fix that. If the “Step Up” movies had kept going, undeterred, they probably would have stopped global warming by now. There’s a great, big “Step Up”-sized hole in our hearts, but fortunately, there’s a new film that solves the problem. All it took was great dancing (obviously), an ensemble of winsome characters and sharp storytelling. It’s called “Best of the Best,” and the title is only slightly hyperbolic. Maitreyi Ramakrishnan (“Never Have I Ever”) and Priyanka Kedia (“Disclosure Day”) star as Maya and Anjali, two fantastic dancers whose high school talent show concluded — as they always do if they’re at the beginning of the movie, instead of the end — in public humiliation. Now they’re at UCLA and determined to buckle down and put the past behind them. Which lasts about one day, since UCLA has a Bollywood dance club filled with kooky but spectacularly talented students. Maya is a free-thinking rebel who can’t take direction, while Anjali barely squeaked her way into college and can’t afford to get distracted. But they love dancing, and the club’s president, Ronak (Ankur Rath
 
 ## Collider
 
-### ‘Superbad’ Meets ‘Almost Famous’ in New Pop-Punk Movie [Exclusive]
-Thu, 17 Sep 2026 19:45:11 GMT — https://collider.com/final-destination-bloodlines-kaitlyn-santa-juana-the-jam-van-first-look/
+### Anne Hathaway's 'American Sniper' Replacement Officially Sets Release Date
+Fri, 18 Sep 2026 09:00:11 GMT — https://collider.com/anne-hathaway-alone-at-dawn-release-date-december-2027/
 
-Kaitlyn Santa Juana survived Death’s latest design in Final Destination Bloodlines , but her next movie will force her to contend with a different kind of disaster: life on the road with a dysfunctional band . The rising horror star has joined an ensemble of familiar young actors for a new Canadian indie dramedy that promises strained relationships, uncomfortable silences, and enough early 2000s pop-punk to fill a battered touring van.
+Not only is she currently pregnant with her third child, but Hollywood royalty Anne Hathaway is also having the busiest year of her career. After starting 2026 with David Lowery 's underrated psychological drama Mother Mary , Hathaway turned her attention to one of her biggest movies in years in the spring, as she rejoined Meryl Streep , Stanley Tucci , and Emily Blunt for The Devil Wears Prada 2 , which was called "a near-perfect blend of nostalgia and newness" by Collider's own Taylor Gates .
 
-### 10 Adventure Movies So Great They Became the Blueprint
-Thu, 17 Sep 2026 19:33:11 GMT — https://collider.com/adventure-movie-masterpieces-became-the-blueprint/
+### 5 Best Snoopy Comics of All Time, Ranked
+Fri, 18 Sep 2026 04:51:11 GMT — https://collider.com/best-snoopy-comics-all-time-ranked/
 
-Cinema has a proud history full of adventures . The most exciting and prominent genre in arguably all of entertainment, adventure has captivated us for generations and delivered endless fun. Some of our greatest achievements in cinema were grand tales of inspiring characters going on epic quests or daring journeys to seek fame, fortune, or a noble cause. They've forever shaped our modern entertainment industry and are still riding high, topping most yearly box office charts.
+Snoopy is a comic-strip character who somehow became bigger than the strip itself. Part of that comes from how easily Charles M. Schulz could reinvent him without ever making him feel inconsistent. The cartoonist used the beagle’s wild imagination to give him hilarious personalities and storylines that continue to define Peanuts .
 
-### ‘The Wheel of Time Officially Returns for New 2027 Release
-Thu, 17 Sep 2026 19:06:41 GMT — https://collider.com/the-wheel-of-time-war-of-the-dragon-release-date-june-2027/
+### 5 Mystery Books That Deserve a TV Adaptation
+Fri, 18 Sep 2026 04:07:11 GMT — https://collider.com/mystery-books-deserve-tv-adaptation/
 
-In the last few years, Prime Video has become one of the go-to streaming platforms in the world for fans looking for interesting fantasy shows. The streamer has invested over $1 billion into the making of its most popular fantasy series, The Lord of the Rings: The Rings of Power , which is set to return for Season 3 in November. Prime Video has invested so much in shows like The Rings of Power that many fans now believe it’s coming at the expense of other popular fantasy shows like The Wheel of Time . The first season of The Wheel of Time arrived in 2021, and after airing one season every other year until 2025, the show was ultimately canceled after its third season.
+Mystery novels are among the most popular today, but a good mystery isn't all that easy to write. The earliest noted example of the modern, typical detective novel is The Moonstone by Wilkie Collins , which established many of the modern tropes of crime and mystery storytelling , but that boundary is constantly pushed by new writers who understand the genre's conventions and add their own twist to it.
 
-### Before ‘Game of Thrones,’ George R. R. Martin Worked on This Forgotten 56-Episode Fantasy Series
-Thu, 17 Sep 2026 18:58:18 GMT — https://collider.com/george-rr-martin-forgotten-fantasy-series-beauty-and-the-beast/
+### 12 Years Later, Jimmy Fallon’s ‘Tonight Show’ Has Officially Found an Unexpected Ratings Boost
+Fri, 18 Sep 2026 03:35:11 GMT — https://collider.com/jimmy-fallon-tonight-show-ratings-sports-nfl-nba/
 
-It's safe to say Ron Perlman has solidified himself as an icon of pop culture through some seriously imposing roles. He's played Slade in Teen Titans , The Lich in Adventure Time , Clay Morrow in Sons of Anarchy , and, of course, Hellboy. He's also been a longtime collaborator of Guillermo del Toro , appearing in films including Cronos , Pacific Rim , and the Hellboy movies. But one of Perlman's most surprising roles came long before Hellboy — on a fantasy series that also counted future Game of Thrones author George R. R. Martin among its writers and producers.
+The longest-running late-night talk show quietly found a winning formula, and it's rooted in an unexpected place. Rather than using sports as a punchline, The Tonight Show Starring Jimmy Fallon made them a part of the show's strategy. And with sports viewership surging, especially among the youngest and most coveted audiences , it's created a powerful engine for ratings and cultural reach .
 
-### 'Doctor Who' Officially Begins a New Era With New Sci-Fi Reboot
-Thu, 17 Sep 2026 18:31:01 GMT — https://collider.com/doctor-who-season-16-reboot-confirmed/
+### 'Star Trek: The Original Series' Lost One of Its Most Important Characters in This Game-Changing Move
+Fri, 18 Sep 2026 03:04:11 GMT — https://collider.com/star-trek-original-series-jeffrey-hunter-captain-pike/
 
-Regeneration has always been a handy way of keeping one particular British sci-fi institution alive. Change the Doctor, change the companions, occasionally change the TARDIS, and off you go for another adventure through space and time. This time, however, the BBC isn’t just regenerating its leading character, it’s effectively regenerating the entire show and maybe hoping we all forget what happened. Worth a shot.
+It might not seem like it now, but in its early days, Star Trek was an underdog. Despite earning a dedicated fanbase with younger demographics during its three-year run, the original 1960s series wasn’t a ratings smash. NBC cancelled the ambitious sci-fi excursion after three seasons, and there's a good chance Star Trek wouldn't have made it that far without a combination of good luck and powerful behind-the-scenes allies (like entertainment powerhouse Lucille Ball ). Trek 's evolution into a franchise powerhouse was a tenuous undertaking from the beginning: although supportive of creator Gene Roddenberry 's " Western in space " concept, NBC ordered a second pilot after deeming Roddenberry's first offering "too cerebral" (not to mention the episode's roughly $500,000 budget, a whopping price tag for the time). In this inaugural attempt, titled "The Cage," film actor Jeffrey Hunter played Christopher Pike, the captain of the Enterprise and the series' leading man. However, when the second pilot hit the airwaves, Pike was nowhere to be found . Instead, viewers were greeted by the swaggering charm of franchise staple Captain James T. Kirk ( William Shatner ). Why didn't Trek 's main performer return for the full series?
 
-### New 'Lincoln Lawyer' Rival Officially Casts a Taylor Sheridan Legend
-Thu, 17 Sep 2026 18:13:07 GMT — https://collider.com/edie-falco-lincoln-lawyer-replacement-crime-thriller-katie-greaves/
+### Kit Harington Officially Breaks Silence on ‘Harry Potter’ Casting
+Fri, 18 Sep 2026 02:00:21 GMT — https://collider.com/kit-harington-hbo-harry-potter-backlash-response/
 
-Presumed Innocent is one of the most acclaimed TV legal thrillers in recent years; the Apple TV series is now headed into its second season with an all-new cast. Now, one of its writers and producers is taking his talents to network television with Katie Greaves , a new legal thriller series that's just been green-lit at Fox to premiere during the 2027-28 TV season. It's set to star a small-screen legend who'll be headlining her first network TV series in a decade.
+Star Kit Harington probably knew that he'd be questioned about his decision to join the cast of HBO's upcoming Harry Potter series , and he got an opportunity to break out his defense in a recent interview. Nearly every notable cast member of the upcoming show has been called out by critics of Harry Potter creator J.K. Rowling , whose transphobic views have sullied her reputation in recent years and soured many die-hard fans of the series. Rowling remains closely involved with the show, HBO boss Casey Bloys confirmed in a separate interview. Meanwhile, Harington explained why he decided to join the franchise despite the blowback his decision would definitely bring.
 
-### 'Prey' Star Officially Reveals First Details About New Mike Flanagan-Backed Original Horror
-Thu, 17 Sep 2026 18:11:10 GMT — https://collider.com/rot-amber-midthunder-mike-flanagan-horror-role-alexandra-magistro/
+### Green Lantern's 26-Episode Series Is So Good, It's Perfect for HBO 'Lanterns' Fans
+Fri, 18 Sep 2026 01:57:11 GMT — https://collider.com/green-lantern-animated-series-tubi-streaming-free/
 
-There are some creative teams you follow anywhere, no matter how little you know about the project. Mike Flanagan has assembled one of those teams across Carrie , The Exorcist , and now Rot , an upcoming psychological body horror movie starring Prey ’s Amber Midthunder . The new project also puts one of Flanagan’s longtime collaborators in the director’s chair for the first time.
+If you want more science fiction beyond what Lanterns currently offers and you have no interest in revisiting the 2011 Green Lantern movie ( despite making waves again on streaming ), we have some good news for you. For no cost at all, you can watch the very best GL adaptation out there in the form of Green Lantern: The Animated Series — which can now be streamed on Tubi! If you haven't given this 26-episode gem a try yet, consider this your summoning to Oa.
 
-### ‘John Wick’ Meets ‘The Equalizer’ in Jon Bernthal’s 10/10 Action Sleeper Hit Officially on Apple TV
-Thu, 17 Sep 2026 18:00:11 GMT — https://collider.com/jon-bernthal-the-accountant-streaming-apple-tv-september/
+### ‘Outlander: Blood of My Blood’ Recap: What To Remember Before the Prequel Officially Returns for Season 2
+Fri, 18 Sep 2026 01:36:11 GMT — https://collider.com/outlander-blood-of-my-blood-recap-before-season-2/
 
-2026 has been a huge year for Jon Bernthal , who plays a key role in one of the biggest movies of the year, The Odyssey . After already grossing over $650 million at the box office in less than two weeks, The Odyssey is expected to finish its run with north of $1.3 billion globally, making it the biggest Christopher Nolan movie of all time. Bernthal co-stars in the historical epic with Tom Holland , but it’s not the only big movie of the summer the two star in together. The duo can be seen headlining Spider-Man: Brand New Day , which opened in theaters this weekend and is eyeing a historic box office opening. Bernthal recently starred in the first solo MCU Punisher project of his career, The Punisher: One Last Kill , the Disney Plus special now streaming around the world.
+No television series can fully replicate the Outlander phenomenon. That might sound like hyperbole, but Starz's adaptation of author Diana Gabaldon 's historical fantasy romance series is a pristine example of the magic that happens when the right project and people assemble at the right cultural time. Outlander 's spirit , however (passionate star-crossed lovers, period drama intrigue, breathtaking Scottish landscapes) , lives on through Outlander: Blood of My Blood .
 
-### Legendary James Bond Villain Officially Joins New Call of Duty
-Thu, 17 Sep 2026 17:51:04 GMT — https://collider.com/call-of-duty-modern-warfare-4-trailer-mads-mikkelsen/
+### ‘Star Trek’ Officially Confirms Captain Kirk’s New Love Interest
+Fri, 18 Sep 2026 01:30:11 GMT — https://collider.com/star-trek-captain-kirk-the-last-starship-love-interest/
 
-The name Mads Mikkelsen has become practically synonymous with villains who are far too charismatic for their own good. Whether he is tormenting James Bond in Casino Royale , serving up something deeply unsettling in Hannibal , or trying to replace magic with science in Doctor Strange , Mikkelsen knows how to make an antagonist impossible to look away from . Now, he is bringing that particular talent back to video games.
+Star Trek icon James T. Kirk has a somewhat undeserved reputation as a ladies' man. Across Star Trek: The Original Series and six feature films starring the show's original cast, he did find time amidst interplanetary crises for romance. Now, he's back in action and finding love among the stars once more, and possibly for the last time, in Star Trek: The Last Starship .
 
-### New Survival Sci-Fi Movie Officially Named Highest-Rated Video Game Adaptation of All Time
-Thu, 17 Sep 2026 17:45:25 GMT — https://collider.com/resident-evil-reboot-rotten-tomatoes-score-highest-rated-video-game-adaptation/
+### Longtime John Carpenter Producer Declares "Nothing's as Frightening as Reality" in Modern Horror [Exclusive]
+Fri, 18 Sep 2026 01:00:11 GMT — https://collider.com/john-carpenter-producer-sandy-king-modern-america-reality-horror/
 
-The last few years have come up all Zach Cregger after Weapons made history at the Oscars, but his new movie coming to theaters this weekend is already breaking records. Cregger first arrived on the scene back in 2022 with his work on Barbarian , the hit horror thriller starring Bill Skarsgård and Justin Long . After the film grossed over $46 million at the box office against a $5 million budget, Cregger took a few years off before returning to the big screen in 2025 for the aforementioned Weapons , starring Josh Brolin and Julia Garner . Cregger also guided Amy Madigan to the strongest performance of her career, and she shocked the world by winning the Oscar for Best Supporting Actor earlier this year at the Academy Awards — horror is often left out of the ceremony.
+John Carpenter has made a career out of exposing the monsters hiding beneath ordinary life. Halloween brought evil to suburbia, The Thing turned mistrust into a creature, and They Live found horror within the systems controlling American society. His latest project, John Carpenter’s Cathedral , sends readers beneath Los Angeles, where an ancient evil has been allowed to grow undisturbed.
 

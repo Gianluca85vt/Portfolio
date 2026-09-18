@@ -1,6 +1,16 @@
-# AI — harvested 2026-09-17T19:51:23.996Z
+# AI — harvested 2026-09-18T09:12:03.575Z
 
 ## OpenAI
+
+### How Cooley is accelerating IPO work with ChatGPT
+Thu, 17 Sep 2026 12:00:00 GMT — https://openai.com/index/cooley-gopublic
+
+Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.
+
+### Introducing Astra for Law
+Thu, 17 Sep 2026 00:00:00 GMT — https://openai.com/index/astra-for-law
+
+OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.
 
 ### Helping older adults use AI in everyday life
 Wed, 16 Sep 2026 16:00:00 GMT — https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
@@ -21,11 +31,6 @@ Learn how ChatGPT Work and Codex analytics help teams understand AI usage and sp
 Wed, 16 Sep 2026 17:00:00 GMT — https://openai.com/index/model-misalignment-reporting-framework
 
 OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.
-
-### How workers are unlocking new ways of working
-Wed, 16 Sep 2026 09:00:00 GMT — https://openai.com/index/unlocking-new-ways-of-working
-
-New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.
 
 ## Hugging Face
 
