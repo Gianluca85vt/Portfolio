@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-18T14:38:37.738Z
+# Film & TV — harvested 2026-09-18T19:11:17.525Z
 
 ## Variety
 
-### Box Office: Resident Evil Makes $8.8 Million in Previews, Biggest Ever for Series
-Fri, 18 Sep 2026 14:37:54 +0000 — https://variety.com/2026/film/news/box-office-resident-evil-previews-zach-cregger-1236866202/
+### Music Industry Moves: T.J. Martell Gala Honoring Red Light Founder Coran Capshaw Raises Over $3.2 Million for Cancer Research; Freddy Wexler Launches Label
+Fri, 18 Sep 2026 19:10:39 +0000 — https://variety.com/2026/music/news/tj-martell-red-light-coran-capshaw-cancer-research-1236867074/
 
-The zombie virus is spreading to the box office as Sony s Resident Evil reboot is taking over this weekend. From Weapons director Zach Cregger, the new and original take on the horror video game series has made $8.8 million in previews at the box office. It s aiming to make $40 million to $50 million domestically [ ]
+The T.J. Martell Foundation raised more than $3.2 million for cancer research at its annual New York Honors Gala on Sept. 15 — the most the event has raised in more than two decades. Red Light Management founder Coran Capshaw was presented with the Lifetime Music Industry Award by his longtime friend Dave Matthews, and [ ]
 
-### Introducing George Jaques, the Sunny Dancer Director and Ballsy British Creative Being Called the Tom Holland of Filmmaking
-Fri, 18 Sep 2026 14:30:00 +0000 — https://variety.com/2026/film/global/george-jaques-sunny-dancer-director-interview-1236863971/
+### Canada s BetterHalf Films Joins Indonesia’s Studio Amarana on Animated Film Galeo of the Seawalkers (EXCLUSIVE)
+Fri, 18 Sep 2026 19:05:34 +0000 — https://variety.com/2026/film/global/betterhalf-galeo-of-the-seawalkers-viff-business-hub-1236865133/
 
-Luxury fashion house Hermès recently hosted a special dinner in London to celebrate the 10th anniversary of Athenaeum, the production company founded by British multi-hyphenate George Jaques. While a touch pretentious, the name was chosen mostly because it didn t sound like a 16-year-old made it, someone who, at the time, couldn t actually spell it, he [ ]
+Gursimran Datla’s Canadian-U.K. production company BetterHalf Films has boarded Andara Fembriarto’s Indonesian animated film “Galeo of the Seawalkers” (“Galeo Anak Segara”). The title is among the selected projects at the upcoming Vancouver International Film Festival’s newly launched Business Hub Co-Production Forum. BetterHalf Films, which operates offices in Toronto and London, joins Indonesia’s Studio Amarana as [ ]
 
-### Bill Hader on Why Young People Hate AI, Voicing Cat in the Hat and the Status of His Jonestown HBO Series
-Fri, 18 Sep 2026 14:19:31 +0000 — https://variety.com/2026/tv/news/bill-hader-ai-cat-in-the-hat-jonestown-1236866530/
+### Brandy Clark on Conceiving New Song American Roots as a Modern-Day This Land Is Your Land — Polarizing Pro-Immigrant Sentiment and All (EXCLUSIVE)
+Fri, 18 Sep 2026 19:03:21 +0000 — https://variety.com/2026/music/news/brandy-clark-american-roots-explains-patriotism-song-1236867013/
 
-Bill Hader offered his thoughts on voice acting and artificial intelligence while teasing his next projects at the Variety Entertainment Technology Summit presented by EY, held Thursday in Los Angeles. Speaking to executive editor Michael Schneider, Hader was asked about his concerns about AI as a filmmaker. A new technology comes along and everybody [ ]
+Brandy Clark returns this weekend with American Roots, her first new single in more than three years — and, incidentally her first since the New York Times named her one of the 30 greatest living American songwriters earlier this year. On the surface, it s one of the country-est-sounding songs she s ever done, and a patriotic [ ]
 
-### Tom Cruise s Digger Transformation Initially Took Six Hours — but He Convinced the Makeup Team to Get It Under an Hour
-Fri, 18 Sep 2026 14:18:29 +0000 — https://variety.com/2026/film/news/tom-cruise-digger-transformation-six-hours-1236866700/
+### Crawl Sequel, Starring Mason Gooding and Emily Rudd, Gets July 2027 Release Date
+Fri, 18 Sep 2026 19:00:00 +0000 — https://variety.com/2026/film/news/crawl-sequel-mason-gooding-emily-rudd-release-date-heart-eyes-2-1236867064/
 
-For his new film Digger, Tom Cruise transforms into Digger Rockwell, a wealthy oil tycoon who was not blessed with Cruise s own good looks. In order to put on all the prosthetics for the role, the actor was originally sitting in hair and makeup for six hours — until he convinced the team they could [ ]
+Paramount is circling release dates for two horror sequels: the new Crawl movie starring Mason Gooding and Emily Rudd, and Heart Eyes 2. The yet-to-be-titled Crawl sequel is set for July 16, 2027. Alexandre Aja — who directed the 2019 horror thriller, which was a breakout box office success — is back in the director s [ ]
 
-### François Arnaud and Paul Anthony Kelly at the Swarovski Party in NYC, Matthew McConaughey s Family Night at the Brothers Premiere in L.A. and More Red Carpet Photos: September 2026
-Fri, 18 Sep 2026 14:10:04 +0000 — https://variety.com/gallery/celebrity-pics-red-carpet-photos-september-2026/
+### VIFF’s First Business Hub Lineup Mixes It Up With a Vibrant Lineup
+Fri, 18 Sep 2026 18:54:47 +0000 — https://variety.com/2026/film/global/viff-business-hub-wip-vancouver-film-festival-1236867066/
 
-As the summer begins to wind down in September, Hollywood is just getting started with a new crop of awards season movies premiering at the Venice Film Festival. Some of the first arrivals for the 83rd annual Italian fest included George Clooney, Laura Dern, Kate Mara, Claire Foy and jury president Maggie Gyllenhaal. At the [ ]
+Expanding its industry ambitions this year, the Vancouver International Film Festival, as part of its newly established Institute for the Moving Image, has announced its slate of eight first-ever Works in Progress (WIP), alongside eight international co-productions. These initiatives are designed to connect filmmakers with domestic, U.S. and international financing, distribution opportunities and production partners [ ]
 
-### Werner Herzog and Orlando Bloom on Bucking Fastard and That Threesome Scene With the Mara Sisters: It Has Such Charm and Depth
-Fri, 18 Sep 2026 14:06:24 +0000 — https://variety.com/2026/film/global/werner-herzog-orlando-bloom-bucking-fastard-threesome-scene-1236866598/
+### Elevation Pictures Acquires Jason Lapeyre’s World War II Hybrid Doc The Auschwitz Volunteer (EXCLUSIVE)
+Fri, 18 Sep 2026 18:52:33 +0000 — https://variety.com/2026/film/global/elevation-pictures-jason-lapeyre-the-auschwitz-volunteer-1236865302/
 
-While speaking at the San Sebastián Film Festival, where they are presenting “Bucking Fastard,” renowned German director Werner Herzog and the film’s star Orlando Bloom spoke about a threesome scene between the “Pirates of the Caribbean” actor and Rooney and Kate Mara, who lead Herzog’s latest as two deeply intertwined sisters. Asked about the scene, [ ]
+Elevation Pictures has boarded as Canadian theatrical distributor Jason Lapeyre’s World War II hybrid documentary “The Auschwitz Volunteer,” the true story of Witold Pilecki, a Polish soldier who volunteers to go to a Nazi prison camp and start a resistance movement from the inside. Written, produced and set to be directed by Lapeyre, the project [ ]
 
-### ’Dungeon Crawler Carl’ Sets Limited Edition, Free CGC Comic Book Drop for New York Comic Con (EXCLUSIVE)
-Fri, 18 Sep 2026 14:00:00 +0000 — https://variety.com/2026/digital/news/dungeon-crawler-carl-cgc-comic-book-cover-drop-nycc-1236866669/
+### Gerrit Graham, Actor in Phantom of the Paradise, Screenwriter and Grateful Dead Collaborator, Dies at 77
+Fri, 18 Sep 2026 18:31:57 +0000 — https://variety.com/2026/film/news/gerrit-graham-dead-grateful-dead-co-writer-1236867006/
 
-Attention, Crawlers! Collectibles grading company CGC is teaming up with Dungeon Crawler Carl author Matt Dinniman for the release of a free exclusive variant cover of his comic book series at New York Comic Con next month. From Oct. 8-11, CGC will offer a limited-edition Dungeon Crawler Carl #0 variant featuring newly commissioned artwork by [ ]
+Gerrit Graham, an actor, screenwriter and songwriter who co-wrote a song for The Grateful Dead, died on Tuesday in Rhinebeck, N.Y. He was 77. He suffered from lung disease, among other ailments. Graham began his career starring alongside Robert De Niro in early Brian de Palma films “Hi Mom!” and “Greetings,” later appearing in films [ ]
 
-### Fan Bingbing on Toronto and Busan Selection Diary of a Mad Old Man and Her International Ambitions: Cinema Should Be Able to Cross Borders (EXCLUSIVE)
-Fri, 18 Sep 2026 13:43:37 +0000 — https://variety.com/2026/film/festivals/fan-bingbing-diary-of-a-mad-old-man-international-ambitions-1236866645/
+### Gaza Documentary NAZA Sets U.S. Theatrical Release Through Self-Distribution Model
+Fri, 18 Sep 2026 18:02:12 +0000 — https://variety.com/2026/film/news/naza-documentary-u-s-theatrical-release-1236866998/
 
-Chinese superstar Fan Bingbing s latest role puts her at the center of an unusual dynamic: a Chinese caregiver drawn into the fixation of an aging, stroke-paralyzed Japanese widower. Diary of a Mad Old Man, Wayne Wang s adaptation of Tanizaki Jun ichirō s 1961 novel, is having its world premiere at the Toronto Film Festival in the gala [ ]
+“NAZA,” the acclaimed and controversial documentary about killings in Gaza, has set a distribution rollout for U.S. theaters starting Sept. 30 via an innovative plan that forgoes selling the film to a studio or independent distributor. The rollout, which kicks off exclusively at the IFC Center in New York City, is “spearheaded by The Guardian [ ]
 
-### ‘Fast Furious: Hollywood Drift’ Ride Opens to Thrill Fans at Universal Studios Hollywood
-Fri, 18 Sep 2026 13:00:00 +0000 — https://variety.com/2026/biz/news/fast-furious-hollywood-drift-universal-studios-hollywood-1236866405/
+### TV Operators Power Spain’s Global Breakout as the San Sebastian Film Festival Readies Launch: ‘Spanish Cinema Has Never Been So Powerful’
+Fri, 18 Sep 2026 18:00:00 +0000 — https://variety.com/2026/film/global/movistar-plus-netflix-san-sebastian-film-festival-1236847467/
 
-Fans yearning to drive like Dominic Toretto or Letty can finally strap into a Dodge Charger or a Toyota Supra at Universal Studios Hollywood, as the long-awaited “Fast Furious: Hollywood Drift” ride officially opened Sept. 16 at the park. The much-anticipated outdoor roller coaster features four iconic cars from the $7 billion franchise — [ ]
+Over the last year or so, Spain has burst onto the world stage, scoring five Cannes main competition berths — more than any other country in the world outside France — with joint best director winner “La Bola Negra” now prominent in awards season conversations. Spain’s San Sebastián Film Festival looks set to capture this [ ]
 
-### Japan s Top Broadcasters Unite for First Joint Delegation to MipCancun (EXCLUSIVE)
-Fri, 18 Sep 2026 12:00:00 +0000 — https://variety.com/2026/tv/markets-festivals/japan-broadcasters-joint-delegation-mipcancun-1236866570/
+### Brad Pitt Returning for ‘World War Z’ Sequel at Paramount With Edward Berger to Direct
+Fri, 18 Sep 2026 17:35:22 +0000 — https://variety.com/2026/film/news/brad-pitt-world-war-z-sequel-paramount-edward-berger-director-1236866991/
 
-Ten major Japanese broadcasters are joining forces for the first time to send a joint delegation to MipCancun, marking the country s first coordinated television market presence outside Asia. The All-Japan initiative is organized under the Japan Commercial Broadcasters Association (JBA) in collaboration with Japan s Ministry of Internal Affairs and Communications (MIC) and the Broadcast Program [ ]
+Brad Pitt will officially return to star in Paramount s long-awaited sequel to “World War Z.” “All Quiet on the Western Front” and “Conclave” helmer Edward Berger, who recently directed Pitt in “The Riders” for A24, has signed on to direct from a script by Dennis Kelly. Plot details for the sequel are being kept under [ ]
 
 ## The Hollywood Reporter
 
-### Monster Creator Ian Brennan Shares 10-Season Plan and Dives Into First Female Serial Killer Season With Wild Lizzie Borden Story
-Fri, 18 Sep 2026 14:14:38 +0000 — https://www.hollywoodreporter.com/tv/tv-features/monster-the-lizzie-borden-story-10-seasons-creator-interview-1236705112/
+### The Eccentric Vicky Krieps on Ryan Murphy, Ocean s Eleven, and Netflix s Pure Punk Lizzie Borden Season of Monster
+Fri, 18 Sep 2026 19:05:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lizzie-borden-series-vicky-krieps-oceans-eleven-interview-1236703361/
 
-Brennan peels back the curtain into his and Ryan Murphy's 'Monster' selection process, how they landed on the infamous female axe murderer for season four and why she's the most sympathetic subject yet of their hit Netflix true-crime anthology.
+Reporters like to say the 'Phantom Thread' star turned her back on Hollywood — but Krieps' upcoming slate showcases the savvy, instinct-led career that's allowed her to straddle the U.S. and Europe: "And I would fight for [these projects] until the very end of my life."
 
-### The Betrayers Director Talks Navigating Political, Personal Treachery in Crimea-Set Thriller
-Fri, 18 Sep 2026 14:11:58 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-betrayers-director-thriller-1236694502/
+### Perez Hilton s Mother, Kids Get GoFundMe Support Amid His Recovery
+Fri, 18 Sep 2026 19:04:32 +0000 — https://www.hollywoodreporter.com/news/general-news/perez-hilton-go-fund-me-mother-kids-recovery-1236705551/
 
-Director David Bezmozgis' drama about two Soviet Union-era Jews facing off is set for a world premiere at the Toronto Film Festival.
+A longtime friend of the celebrity blogger says every dollar goes to his mother, Teresita Lavandeira, and his three children, not to Hilton himself.
 
-### Why Matthew McConaughey Doesn t Want to Take a DNA Test — Despite Woody Harrelson s Insistence — to See If the Two Stars Are Really Brothers
-Fri, 18 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/matthew-mcconaughey-dna-test-woody-harrelson-brothers-1236705177/
+### T-Mobile Offering iPhone 18 Pro On Us : Here s How to Claim the Deal Online
+Fri, 18 Sep 2026 18:34:25 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/iphone-18-pro-release-date-price-t-mobile-free-phone-deals-1236705485/
 
-The duo play versions of themselves in 'Brothers,' the Apple TV series that brings to life the rumor that they may be related.
+Apple’s newest smartphone starts at $1,199, but new and existing customers can currently get one courtesy of T-Mobile. Here’s how.
 
-### MGA Entertainment Debuts New Music Video, Single Tied to Mirror Mi Doll Line (Exclusive)
-Fri, 18 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/music/music-news/mga-entertainment-mirror-mi-doll-line-music-video-1236705179/
+### NAZA Israel-Gaza War Doc Sets U.S. Theatrical Release
+Fri, 18 Sep 2026 18:27:36 +0000 — https://www.hollywoodreporter.com/movies/movie-news/naza-israel-gaza-war-documentary-theatrical-release-1236705517/
 
-Additional projects in the works for the line include stop-motion films and an animated short-form series launching later in 2026.
+The film from 'No Other Land' directors Yuval Abraham and Rachel Szor, has generated backlash and acclaim since its world premiere at the Venice Film Festival.
 
-### How Fatih Akin Breathed Life Into San Sebastian s Haunting Opener Ghost Song
-Fri, 18 Sep 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/fatih-akin-san-sebastian-film-festival-interview-ghost-song-1236702044/
+### Resident Evil Debuts, Ryan Murphy Unleashes a New Monster With The Lizzie Borden Story and This Week s Best Events
+Fri, 18 Sep 2026 18:26:18 +0000 — https://www.hollywoodreporter.com/gallery/resident-evil-monster-lizzie-borden-red-carpet-events-1236700373/
 
-The film — heavily influenced by the award-winning director's relationship with anime and manga — follows two students whose love-at-first-sight connection is cut abruptly short when one of them dies.
+Inside this week's biggest Hollywood premieres, parties and openings.
 
-### This Is So Uncomfortable : Douglas Booth on Putting Britain s Police Misogyny Problem on TV
-Fri, 18 Sep 2026 10:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/douglas-booth-the-blame-tv-series-michelle-keegan-interview-1236704416/
+### Charlie Hunnam Says Monster: The Lizzie Borden Story Role Was Liberating After Playing Ed Gein
+Fri, 18 Sep 2026 17:35:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/charlie-hunnam-monster-the-lizzie-borden-story-interview-1236705166/
 
-The English actor dives into his "sickening" new ITV drama 'The Blame,' why the show is a welcome break from his usual schedule of playing "fairies, rockstars and poets," and whether he'd be up for Bond.
+The 'Sons of Anarchy' star plays Lizzie Borden's father, Andrew Borden, in the fourth season, reuniting him with Ryan Murphy and Ian Brennan on the Netflix true-crime anthology.
 
-### Resident Evil : What Critics Are Saying About Zach Cregger s New Horror Film
-Fri, 18 Sep 2026 07:09:03 +0000 — https://www.hollywoodreporter.com/movies/movie-news/resident-evil-review-roundup-critics-zach-cregger-horror-1236704042/
+### World War Z Sequel Back on With Brad Pitt Returning, Edward Berger Directing
+Fri, 18 Sep 2026 17:32:16 +0000 — https://www.hollywoodreporter.com/movies/movie-news/world-war-z-sequel-brad-pitt-back-1236705431/
 
-The video game franchise reboot from the 'Weapons' filmmaker, starring Austin Abrams, is now playing in theaters.
+The sequel to Paramount's hit zombie disaster movie has been in development on and off since 2013.
 
-### Macklemore Alleged to Have Repeated Palestine Comments Despite Promoter Assurances to NFL Stadium Owners (Report)
-Fri, 18 Sep 2026 05:18:25 +0000 — https://www.hollywoodreporter.com/music/music-news/ed-sheeran-macklemore-robert-kraft-phonecall-1236705181/
+### The Face of Horror Review: Kristine Froseth Sparkles, but Anna Biller s Medieval Tale Can t Stop Getting in Its Own Way
+Fri, 18 Sep 2026 17:25:16 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/the-face-of-horror-review-anna-biller-1236705322/
 
-The Wall Street Journal reported that Ed Sheeran and New England Patriots owner Robert Kraft held a 40-minute phone call over the controversy.
+The actress stars alongside Jonah Hauer-King, Ellie Bamber, Leo Suter and Bella Heathcote in the latest from the director of 'The Love Witch.'
 
-### Monster: The Lizzie Borden Story Review: Ryan Murphy s Latest Netflix Serial Killer Saga Is Faux-Feminist Nonsense
-Fri, 18 Sep 2026 04:30:54 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/monster-the-lizzie-borden-story-review-netflix-ryan-murphy-1236705084/
+### UMG, Sony Music File Second Lawsuit Against Suno Over AI Music Generator s New Model
+Fri, 18 Sep 2026 17:14:35 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/umg-sony-music-file-second-lawsuit-against-suno-1236705369/
 
-Charlie Hunnam, Rebecca Hall and Vicky Krieps join lead Ella Beatty in co-creator Murphy and showrunner Ian Brennan's take on the infamous axe murderess.
+The suit comes weeks after Suno first launched v6, its first model to be trained on licensed music after carving out partnerships with Warner Music Group, BMG and Believe.
 
-### Bad Lieutenant: Tokyo Review: Shun Oguri and Lily James in a Meandering Franchise Entry From Takashi Miike That s Semi-Coherent at Best
-Fri, 18 Sep 2026 04:05:14 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/bad-lieutenant-tokyo-review-shun-oguri-lily-james-1236705118/
+### Calamity Club Author Kathryn Stockett Signs With CAA (Exclusive)
+Fri, 18 Sep 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/calamity-club-kathryn-stockett-caa-1236700990/
 
-The Japanese cult director follows Abel Ferrara and Werner Herzog in charting the downward spiral of a corrupt detective with a drug habit, this time navigating the yakuza underworld.
+Stockett was also behind the 2009 book ‘The Help'.
 
 ## Deadline
 
-### Resident Evil Scaring Up Franchise Best Previews With $8.8M Rotten Tomatoes 91% Audience Score
-Fri, 18 Sep 2026 14:37:00 +0000 — https://deadline.com/2026/09/box-office-resident-evil-1237107316/
+### HBO Lands The Spread Starring Javier Bardem With Series Order After Big Bidding War; Miami Drama Comes From Bill Dubuque Fifth Season
+Fri, 18 Sep 2026 19:02:48 +0000 — https://deadline.com/2026/09/javier-bardem-the-spread-hbo-drama-series-bill-dubuque-1237101032/
 
-UPDATE: Sony/Constantin s Resident Evil came in with $8.8M previews last night. Pretty damn good. PREVIOUS EXCLUSIVE: Buckle up your 4DX seat because it s gonna be a fun weekend, as out of the gate, Zach Cregger s take on Resident Evil is already posting the best previews ever for the franchise with tonight north of $8M and [ ]
+EXCLUSIVE: The fall TV selling season is off to a hot start with a star package triggering frenzied bidding and a slew of big offers from all major streamers, ultimately landing at HBO with a straight-to-series order. The Spread, headlined and executive produced by Oscar winner Javier Bardem, hails from Ozark co-creator Bill Dubuque, Sean [ ]
 
-### Esai Morales Kelsey Grammer Among Cast For Sean McNamara Faith-Based Drama His Heart
-Fri, 18 Sep 2026 14:35:00 +0000 — https://deadline.com/2026/09/esai-morales-kelsey-grammer-faith-drama-his-heart-1237107376/
+### Explosive ‘NAZA’ Documentary, Attacked By Israeli Government, To Be Released In U.S. Theaters
+Fri, 18 Sep 2026 19:01:54 +0000 — https://deadline.com/2026/09/naza-u-s-theatrical-release-1237107835/
 
-EXCLUSIVE: Esai Morales (Mission Impossible), Kelsey Grammer (Frasier), Jayne Wisener (Sweeney Todd), Jonathan Stoddard (Furry Little Christmas), Kevin Sorbo (Hercules) and Michael Weston (State of Play) will lead cast in faith-based feature His Heart, which is set to be directed by Sean McNamara (Soul Surfer). Principal photography is due to begin on October 19 in [ ]
+The investigative documentary NAZA, which caused a sensation at the Venice Film Festival but has been attacked by Israeli politicians including Prime Minister Benjamin Netanyahu, will soon reach U.S. theaters. Filmmakers Yuval Abraham and Rachel Szor and their team are pursuing a self-distribution model in the U.S. which will see the film open on September [ ]
 
-### Tilly Norwood Malfunctions During Piers Morgan Interview: Seems I Had A Little Hiccup
-Fri, 18 Sep 2026 14:23:39 +0000 — https://deadline.com/2026/09/tilly-norwood-malfunctions-piers-morgan-interview-cantonese-1237107406/
+### CAA Signs Kick On Filmmaker Nick Kozakis
+Fri, 18 Sep 2026 19:01:37 +0000 — https://deadline.com/2026/09/kick-on-filmmaker-nick-kozakis-signs-caa-1237107856/
 
-Tilly Norwood, the AI actress who has provoked existential anxiety in Hollywood, got a bit glitchy during an interview with Piers Morgan. Norwood, a generative AI creation from British company Particle6, switched language from English to Cantonese midway through the exchange, much to Morgan s bemusement. Fellow guest Tom Conti, the Oscar-nominated Oppenheimer star, was asking [ ]
+EXCLUSIVE: CAA has signed filmmaker Nick Kozakis following his sophomore feature Kick On s premiere at this year s Toronto Film Festival. Next set to screen at Fantastic Fest and Beyond Fest, Kick On follows four young friends who find themselves in a fight for their lives after a night of partying leads to an encounter with [ ]
 
-### Fatih Akin On How A Period Of Professional Crisis Inspired His Paranormal Love Story ‘Ghost Song’ — San Sebastian
-Fri, 18 Sep 2026 14:09:57 +0000 — https://deadline.com/2026/09/fatih-akin-ghost-song-san-sebastian-interview-1237107377/
+### Paramount s Crawl 2 Sets Summer 2027 Release, Heart Eyes 2 Going A Week Earlier In 2028
+Fri, 18 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/heart-eyes-2-crawl-2-release-dates-1237107823/
 
-This evening, Spain’s San Sebastian Film Festival opens with Ghost Song, the latest feature from German filmmaker Fatih Akin. The screening marks Akin’s first appearance at the festival in his decades-long career, a surprising fact considering his strong presence on the festival circuit: Akin is among the rare group of directors to win major competitive [ ]
+Paramount has set a July 16, 2027 release date for its Alexandre Aja-directed Crawl sequel, while Heart Eyes 2 will shift a week from February 11, 2028 to February 4, 2028. The follow-up to 2019 s alligator movie Crawl, which grossed close to $92 million, stars Mason Gooding and Emily Rudd in a new survival story [ ]
 
-### Musk : Was Universal Getting Cold Feet Over Releasing Alex Gibney Doc?
-Fri, 18 Sep 2026 14:05:28 +0000 — https://deadline.com/2026/09/musk-was-universal-getting-cold-feet-over-alex-gibney-film-1237107350/
+### Curry Barker And The Advice He Received From Zach Cregger On Anything But Ghosts
+Fri, 18 Sep 2026 18:32:15 +0000 — https://deadline.com/2026/09/curry-barker-zach-cregger-anything-but-ghosts-1237107771/
 
-A couple days ago a THR report claimed that Universal was getting cold feet over releasing Alex Gibney s Musk documentary in international territories. Despite the film opening theatrically in the U.S. in a few weeks (via Bleecker Street), no international dates had been revealed. The filmmakers were surprised and a little concerned, according to the [ ]
+The hardest day on Obsession was the easiest day on Anything But Ghosts. Curry Barker shared with us the following earlier last weekend at Deadline s TIFF DGA panel about his next horror movie with Focus Features and Blumhouse Atomic Monster. Unlike his half-billion grossing Obsession, Barker says that on Anything But Ghosts, We had a [ ]
 
-### Chloë Sevigny Joins HBO s True-Crime Limited Series The Trial Of Louise Woodward
-Fri, 18 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/chloe-sevigny-joins-the-trial-of-louise-woodward-hbo-1237107294/
+### Infrared Founder Drew Simon Departs FilmNation Label
+Fri, 18 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/infrared-drew-simon-1237107666/
 
-EXCLUSIVE: Chloë Sevigny (Monsters: The Lyle and Erik Menendez Story) is the newest addition to HBO s new true-crime limited series, The Trial of Louise Woodward. She joins a cast featuring Catriona Chandler in the title role, which also so far includes Joanne Froggatt, Meghann Fahy and Sagar Radia. Created by Matthew Barry, who serves as [ ]
+EXCLUSIVE: Drew Simon is set to depart Infrared, the FilmNation-backed production label he founded four years ago with FilmNation CEO Glen Basner, to pursue new opportunities. Sources tell Deadline that after four years building Infrared and seeing its initial slate through production, Simon felt the timing was right to pursue his next opportunity. Sources say [ ]
 
-### Everything We Know About Prime Video s Rose Hill Series Adaptation So Far
-Fri, 18 Sep 2026 13:00:00 +0000 — https://deadline.com/feature/elsie-silver-rose-hill-series-tv-show-news-prime-video-1237107205/
+### Brad Pitt Reunites With His Riders Director Edward Berger On Paramount s World War Z Sequel
+Fri, 18 Sep 2026 17:30:00 +0000 — https://deadline.com/2026/09/brad-pitt-the-riders-edward-berger-world-war-z-2-1237106804/
 
-One of Prime Video’s next big book adaptation bets is that on Elsie Silver’s Rose Hill series. The streamer is adapting the contemporary small-town romance into a TV show, which sounds like its in the vein of Netflix s My Life With the Walter Boys and Ransom Canyon. The cast is currently being assembled with many [ ]
+EXCLUSIVE: The long-awaited sequel to the hit zombie epic World War Z is gaining some serious momentum as Paramount has not only closed a deal with Brad Pitt to return but also tapped Edward Berger to direct the pic. World War Z is based on Max Brooks bestselling 2006 novel World War Z: An Oral [ ]
 
-### Ukraine War Doc A Simple Soldier Getting U.S. International Release Via Jolt Propagate
-Fri, 18 Sep 2026 12:36:58 +0000 — https://deadline.com/2026/09/ukraine-war-film-simple-soldier-release-jolt-propagate-1237107372/
+### Nateland Promotes Adrian Kulp To EVP, Sets Fall/Winter Comedy Slate
+Fri, 18 Sep 2026 17:27:02 +0000 — https://deadline.com/2026/09/nateland-promotes-adrian-kulp-unveils-slate-specials-1237107707/
 
-EXCLUSIVE: Jolt is partnering with Propagate Content to support the North America, UK, Australia, Latin America, and Asia release of Ukraine war documentary A Simple Soldier. The partnership will include theatrical screenings, an impact campaign, a Jolt.film TVOD window, and digital aggregation. The film follows Ukrainian filmmaker and cinematographer Artem Ryzhykov as he trades life [ ]
+EXCLUSIVE: Nate Bargatze s Nateland has promoted Adrian Kulp to EVP of Digital, Production, Content + Special Live Events. With Nateland for a little under two and a half years, Kulp was previously SVP of Digital + Production. As EVP, he will continue to spearhead Nateland s incubator, or farm system, for the elevation of the next [ ]
 
-### International Insider: Naza Saga In Israel; France Makes Oscar Choice; Right Royal Timing
-Fri, 18 Sep 2026 12:00:00 +0000 — https://deadline.com/2026/09/naza-israel-france-oscars-deadline-international-insider-1237106355/
+### Wil Traval Joins General Hospital As Jude
+Fri, 18 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/wil-traval-cast-general-hospital-1237106621/
 
-Good afternoon Insiders, Max Goldbart here back after a lengthy break to helm the weekly newsletter. Read on. And sign up here. NAZA Saga Israeli cinema politics blur: As is often the case with Israeli cinema these days, that oh-so-blurry line between culture and politics has been crossed. A documentary feature of extreme urgency, [ ]
+EXCLUSIVE: Another new face will soon be arriving in Port Charles. Wil Traval (Messiah, Jessica Jones) has joined the cast of ABC s venerable daytime drama General Hospital. He ll play a stranger, named Jude, who will arrive in Port Charles in October, we ve learned. No other details have been revealed, so stay tuned. Traval joins another [ ]
 
-### The Book Of Mormon Original Cast Members Nikki M. James Rory O’Malley Set Broadway Return Engagement
-Fri, 18 Sep 2026 12:00:00 +0000 — https://deadline.com/2026/09/book-of-mormon-broadway-nikki-james-rory-omalley-1237106418/
+### Griffin Dunne, Zack Fox Johnno Wilson Added To Cast Of Netflix s A Hundred Percent As Production Wraps
+Fri, 18 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/griffin-dunne-zack-fox-johnno-wilson-cast-a-hundred-percent-1237107317/
 
-EXCLUSIVE: The Book of Mormon original cast members Nikki M. James and Rory O’Malley will return to the Broadway production at the Eugene O’Neill Theatre for a strictly limited 12-week engagement. From October 27, 2026, through January 17, 2027, James will step back into her Tony Award-winning role as Nabulungi, and O’Malley will return in [ ]
+EXCLUSIVE: As Netflix has completed production on the upcoming comedy series A Hundred Percent in Los Angeles, three new cast members have been revealed: Griffin Dunne (After Hours), Zack Fox (Abbott Elementary) and Johnno Wilson (Resident Evil). They join the previously announced Nick Kroll, Sam Richardson, Jason Mantzoukas, Vanessa Bayer, Diane Lane, Tiffany Boone, and [ ]
 
-### ZDF Boards BBC Drama Shy Lola Featuring Harry Potter Night Manager Stars
-Fri, 18 Sep 2026 08:13:35 +0000 — https://deadline.com/2026/09/zdf-bbc-shy-and-lola-bel-powley-hayley-squires-1237107346/
+### Alan Ritchson In Talks To Star In Sony s Adaptation Of Helldivers From Director Justin Lin
+Fri, 18 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/alan-ritchson-helldivers-justin-lin-1237107610/
 
-EXCLUSIVE: German network ZDF has boarded the BBC’s upcoming drama Shy Lola starring Harry Potter s Bel Powley and The Night Manager s Hayley Squires. ZDFneo is now aboard in association with the series from Baby Reindeer maker Clerkenwell Films and Amanda Coe, which stars Squires and Powley as the titular characters. They are two very [ ]
+Following the exit of Jason Momoa, Sony Pictures and Justin Lin have moved fast to find his replacement for their feature adaptation of Helldivers. Sources tell Deadline that Alan Ritchson is in talks to star in the film based on Arrowhead Game Studios’ video game franchise, with Lin still on board to direct. Sony had [ ]
 
-### A+E Global Media Backs Lifetime Korea Series Oh! My Guard Starring K-Pop Performer Jung Yong-hwa Hong Seung-hee
-Fri, 18 Sep 2026 07:00:00 +0000 — https://deadline.com/2026/09/a-and-e-backs-oh-my-guard-lifetime-jung-yong-hwa-1237106305/
+### House Of David To End With Season 3 At Amazon, Wonder Project
+Fri, 18 Sep 2026 16:55:12 +0000 — https://deadline.com/2026/09/house-of-david-final-season-3-amazon-wonder-project-1237107665/
 
-EXCLUSIVE: A+E Global Media is backing Lifetime Korea series Oh! My Guard starring K-pop performer Jung Yong-hwa and rising star Hong Seung-hee. With A+E prioritizing Korea, the studio is investing in and globally distributing Oh! My Guard, which has been licensed for release in 83 countries including to Asian streamer Viu. Launching next month on [ ]
+House of David is officially coming to an end. Amazon and Wonder Project confirmed Friday that the third season, which has begun production in Greece, will be the Biblical epic series last. The conclusion of the trilogy completes David’s (Michael Iskander) transformation from outcast shepherd to fierce warrior to his ultimate destiny as King. We re [ ]
 
 ## befores & afters
 
@@ -184,6 +184,46 @@ Wed, 16 Sep 2026 21:58:24 +0000 — https://beforesandafters.com/2026/09/17/hybr
 The post Hybride showcases its VFX for The Mandalorian and Grogu appeared first on befores & afters .
 
 ## IndieWire
+
+### Best of the Best Pulls Off the Perfect Heist Through Its Dance Numbers
+Fri, 18 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/features/craft/best-of-the-best-bollywood-dances-lena-khan-interview-1235217613/
+
+Director Lena Khan; choreographers Phillip Chbeeb, Makenzie Dustman, and Joya Kazi; and DP Adam Carboni tell IndieWire about dances that contain every facet of the characters — just like a diamond stolen by the British.
+
+### Mike Leigh Movies Always Start Without a Script. Watch the Tender Loving Care Director and Cast Break Down His Unique Filmmaking Process
+Fri, 18 Sep 2026 18:05:52 +0000 — https://www.indiewire.com/news/events/mike-leigh-kate-oflynn-tender-loving-care-breaking-down-film-1235217582/
+
+At a TIFF dinner co-hosted by IndieWire and Bleecker Street, Leigh and his longtime collaborators opened up about a lifetime spent creating characters together.
+
+### NAZA, Israeli Military Doc from No Other Land Directors, Sets Speedy Fall Release in U.S.
+Fri, 18 Sep 2026 18:05:42 +0000 — https://www.indiewire.com/news/breaking-news/naza-documentary-us-release-1235217799/
+
+The controversial documentary is moving ahead with a self-distribution strategy that will roll the film out across American cities beginning in October.
+
+### Monster, the TV Show, Devolves Into a Poor Impersonation of Monster the Movie
+Fri, 18 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/shows/monster-season-4-review-monster-the-movie-aileen-wuornos-1235217589/
+
+Season 4 of Ryan Murphy's gruesome Netflix anthology is ostensibly about Lizzie Borden, but its side story involving Aileen Wuornos — memorably realized by Charlize Theron in the 2003 film — shows how little the series has to say about either killer.
+
+### Aaron Sorkin Was His Own Second Choice to Direct The Social Reckoning — David Fincher Was His First
+Fri, 18 Sep 2026 16:50:00 +0000 — https://www.indiewire.com/features/interviews/social-reckoning-why-david-fincher-not-directing-aaron-sorkin-1235217739/
+
+Sorkin tells IndieWire about changing his mind on "not wanting to jump up and down" on Zuckerberg again and why this is not a "Social Network" sequel.
+
+### You ve Never Seen Saoirse Ronan Quite Like This Before
+Fri, 18 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/features/interviews/saoirse-ronan-bad-apples-interview-jonatan-etzler-1235147897/
+
+In Jonatan Etzler's darkly funny "Bad Apples," the actress plays a harried teacher who does something really crazy to a naughty student. As the pair explain to IndieWire, that's not the wildest part: It's how disarmingly funny Ronan gets to be.
+
+### Youth Review: Sharon Horgan s Sharp HBO Comedy Asks What We Really Have to Sacrifice with Age
+Fri, 18 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/criticism/shows/youth-review-hbo-sharon-horgan-series-fun-1235216916/
+
+The "Catastrophe" writer and star returns to HBO (post-"Divorce") with a mid-life crisis comedy that's broadly familiar but refreshing in its specific insights, strong performances, and steady laughs.
+
+### James Gray to Receive Directing Award at Virginia Film Fest, Where He ll Also Join IndieWire s Screen Talk Live
+Fri, 18 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/news/festivals/james-gray-virginia-ff-directing-award-live-screen-talk-1235217710/
+
+Exclusive: The "Paper Tiger" filmmaker will receive the Virginia Film Festival Outstanding Achievement in Directing Award. On October 22, he'll join IndieWire's "Screen Talk" podcast for a live conversation.
 
 ### See Which Films Have Been Submitted for Best International Feature at the 2027 Oscars
 Fri, 18 Sep 2026 14:22:16 +0000 — https://www.indiewire.com/awards/industry/best-international-feature-submissions-2027-oscars-1235217533/
@@ -205,147 +245,107 @@ Thu, 17 Sep 2026 23:32:00 +0000 — https://www.indiewire.com/criticism/movies/h
 
 TIFF: Samjad’s unique saga of invulnerable, vengeful twins quickly builds and loses steam.
 
-### Best of the Best Review: Maitreyi Ramakrishnan and Priyanka Kedia Dazzle in Bollywood-Fusion Comedy
-Thu, 17 Sep 2026 23:14:51 +0000 — https://www.indiewire.com/criticism/movies/best-of-the-best-netflix-film-review-1235217597/
-
-Director Lena Khan’s exuberant third feature pairs collegiate charm and sparkling production design with satire from Hasan Minhaj and his "Patriot Act" co-writer, Prashanth Venkataramanujam.
-
-### Marcus Theatres and A24 End Months-Long Standoff Over Film Terms
-Thu, 17 Sep 2026 21:21:28 +0000 — https://www.indiewire.com/news/business/marcus-theatres-a24-end-standoff-film-terms-1235216983/
-
-"Onslaught," "Tony," and "The Invite" haven't played at the Midwest-based fourth-largest theater chain, but tickets are imminently going on sale for "Primetime."
-
-### Why John Wilson Used a 3D-Printed Starbucks to Critique Capitalism (and Documentary Cliché) in History of Concrete
-Thu, 17 Sep 2026 21:00:00 +0000 — https://www.indiewire.com/features/craft/the-history-of-concrete-john-wilson-director-interview-1235217501/
-
-Documentarian John Wilson also tells IndieWire about how documentaries need to avoid looking like AI while telling human stories.
-
-### MobLand Season 2 Is Wasting Tom Hardy s Time (and Ours)
-Thu, 17 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/shows/mobland-season-2-review-tom-hardy-series-1235217392/
-
-Guy Ritchie returns to direct the first two episodes of his Paramount+ gangster series, as the Harrigan family fights among themselves and the once-propulsive action stalls out.
-
-### Disney and Sundance Announce Next Round of Project Advancement and Completion Fund and Artist Fellowships
-Thu, 17 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/news/general-news/disney-sundance-2026-grant-recipients-1235217541/
-
-Exclusive: The two companies have partnered on two funds supporting filmmakers, with recipients including "Josephine" director Beth de Araújo.
-
-### Noah Baumbach Heads from Netflix to Warner Bros. Clockwork with New First-Look Film Deal
-Thu, 17 Sep 2026 16:56:59 +0000 — https://www.indiewire.com/news/breaking-news/noah-baumbach-warner-bros-clockwork-first-look-film-deal-1235217559/
-
-He will write, direct, and produce his next movie alongside Margot Robbie's LuckyChap and David Heyman.
-
-### John Wilson s The History of Concrete from Magnolia Scores Biggest Opening Weekend for Documentary in IFC Center History
-Thu, 17 Sep 2026 16:45:00 +0000 — https://www.indiewire.com/news/box-office/john-wilson-history-of-concrete-box-office-record-1235217528/
-
-Exclusive: The documentary has outgrossed previous record-holder Werner Herzog's "Cave of Forgotten Dreams."
-
-### James McAvoy Doesn t Believe in God. That Didn t Stop Him from Making the Spiritual Drama Faith
-Thu, 17 Sep 2026 16:30:00 +0000 — https://www.indiewire.com/features/interviews/james-mcavoy-religion-interview-faith-tiff-1235217486/
-
-The Scottish actor tells IndieWire about his new spiritual drama, which just premiered at TIFF, and why he opted to become an actor and not a priest.
-
 ## The Wrap
 
-### MobLand Season 1 Recap: What to Remember Before Season 2
-Fri, 18 Sep 2026 14:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/mobland-season-1-recap-what-to-remember-before-season-2/
+### Crawl Sequel With Mason Gooding, Emily Rudd Gets July 2027 Release at Paramount
+Fri, 18 Sep 2026 19:10:04 +0000 — https://www.thewrap.com/creative-content/movies/crawl-sequel-with-mason-gooding-emily-rudd-gets-july-2027-release-at-paramount/
 
-You can’t keep a good fixer down in the world of “ MobLand .” That’s right, the hit Paramount se r ies starring Tom Hardy and Helen Mirren is back with what promises to be more violence, backstabbing, and the rather wild Irish accents that fans have come to expect. At the same time, there’s much that’s been uncertain both for the characters and the show itself. Following the bloody Season 1 finale, Season 2 is set to pick up in its aftermath, with the Harrigan crime facing what may be one of their biggest threats yet. However, while there is plenty to dig into in terms of the unfolding story, the drama playing out off-screen has also captured attention and, at one point, was reportedly going to impact the show going forward. Here is everything you need to remember about where “MobLand” last ended up. And, in case it wasn’t already clear, spoilers ahead for the entirety Season 1. Tom Hardy in MobLand (Credit: Luke Varley/Paramount+) Harry’s home life has seen better days First and foremost, what is the fate of Harry’s marriage? The suave yet sinister fixer for the Harrigans, he’s long stood by them through some mighty challenging struggles for power, even when it put strain on his home life. Beginning the season with him needing to apologize (yet again) to his wife, Jan (Joanne Froggatt), for the way things are going, things only got worse from there. Left without any hope for the future, Jan strongly considers divorcing Harry, tries to work through some of this in therapy, an
+Following the success of the 2019 sleeper-hit, the filmmaking team behind “Crawl” returns with a new survival story which Paramount will release on July 16, 2027, the studio announced Friday. Mason Gooding and Emily Rudd will star in the sequel The studio also shifts Valentine s Day slasher Heart Eyes 2 up a week and will be released on Feb. 4, 2028. The film was previously to be released on Feb. 11, 2028. More to come The post Crawl Sequel With Mason Gooding, Emily Rudd Gets July 2027 Release at Paramount appeared first on TheWrap .
 
-### OWN Renews Put a Ring on It: Cheathab for 2 More Seasons Ahead of Finale Exclusive
-Fri, 18 Sep 2026 13:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/own-put-a-ring-on-it-cheathab-renewed-two-seasons/
+### David Oyelowo. Nate Parker. Jana Winograde. Microdramas Come to TheGrill
+Fri, 18 Sep 2026 19:00:00 +0000 — https://www.thewrap.com/industry-news/business/microdramas-thegrill-panel-david-oyelowo-nate-parkerjana-winograde/
 
-OWN has given the greenlight for two additional seasons of Put a Ring on It: Cheathab, TheWrap can reveal exclusively. On Friday, the network ordered 16 additional episodes of the reality dating show that puts long-term couples rocked by infidelity to the ultimate test. The renewal comes ahead of the Season 1 finale, which is slated to air on Sept. 25 as a part of the network’s Friday night unscripted programming block. Production for the new episodes will kick off this fall, with the next season scheduled to air in 2027. Put a Ring on It: Cheathab launched on July 31 and proved to be a fast success for OWN. The show is averaging a 1.49 live-plus-three-day rating among African American women 25-54 and ranks among the top new unscripted series on cable this year among key African American demos. Additionally, Season 1 ranks as the No. 2 most-watched original unscripted cable series on Friday nights among the African American female demo, behind only OWN s Belle Collective. “ Put a Ring on It connected with audiences through its honest and heartfelt exploration of love and commitment. But with Put a Ring on It: Cheathab, we found a fresh new way into that conversation, OWN president Tina Perry said in a statement. This season brought an urgency and unpredictability that reinvigorated the franchise while staying true to its core themes of trust, healing and second chances. We’re thrilled that it resonated strongly with viewers, proving that there is still so much to explore with
+Vertical, serialized and built for the phone, microdramas have gone from a curiosity to a fast-growing entertainment business in a matter of years — and traditional Hollywood wants a piece of it. From Emmy-nominated actor and producer David Oyelowo , who partnered with actor-director Nate Parker to take their streaming platform Mansa into the format, to former Showtime programming chief Jana Winograde , now building an AI-native microseries studio, a new class of operators is racing to define what short-form can be. All three take up the question at TheGrill on Sept. 30 at the DGA Theater Complex. As audiences embrace stories designed for the phone, creators, platforms and investors are racing to define the format and the business model around it. The conversation explores what s driving microdramas global appeal, how the economics are evolving and whether short-form storytelling could become a major new lane for Hollywood. Oyelowo is a multiple Golden Globe, BAFTA and Emmy-nominated actor and producer whose recent work includes Bass Reeves, Silo, Role Play and Government Cheese. He made his directorial debut with The Water Man, produced under his Yoruba Saxon banner, and co-founded Mansa, the free streaming platform for curated global Black cultural content now moving into microdramas — putting him on both sides of the format question, as talent and as a platform owner. Parker, CEO and co-founder of Mansa, launched the platform with longtime friend and collaborator Oyelowo a
 
-### Universal s Fast Furious Coaster Is a Theme Park Triumph, Even if Locals Don t Agree
-Fri, 18 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/fast-and-furious-coaster-controversy-toluca-lake-explained/
+### NAZA Plans Surprise US Release
+Fri, 18 Sep 2026 18:15:52 +0000 — https://www.thewrap.com/creative-content/movies/naza-plans-surprise-us-release/
 
-One night a few weeks ago, Fred Iberri, a resident of Toluca Lake, a sleepy suburban enclave about 10 minutes from Hollywood in the San Fernando Valley, woke up and heard screaming. It was 1:30 a.m. He looked around his house and opened the door to the outside. Stepping into his backyard, the screaming stopped. He didn’t see or hear anything – was the screaming inside his head? “I’m on the verge of a mental breakdown. I’m not even trying to exaggerate,” Iberri told TheWrap during a gathering of residents fed up with the excessive noise, held in the posh backyard of a nearby home, buttressed up against the rolling green hills of the Lakeside Golf Club. (The owner of the house was not revealed due to privacy concerns.) Iberri’s anxiety stems from Fast & Furious: Hollywood Drift, a brand-new rollercoaster that opened this week at Universal Studios Hollywood, about a mile from Iberri’s home. The coaster — an Intamin-constructed marvel that snakes up and down the mountain and around the lengthy StarWay escalator that connects Universal s upper and lower lots — is based on the franchise that has grossed more than $7 billion worldwide for the studio. More specifically, it’s the screams coming from the coaster that have troubled Iberri to the point that he’s hearing them even when nobody is howling. These are the screams that have invaded the well-to-do neighborhood and, depending on who you talk to, made things downright unbearable. The ongoing controversy has already resulted in Un
+After a buzzy Venice Film Festival debut and whirlwind week of controversy, NAZA has set a U.S. theatrical run. Tickets for the film are available at Alamo Drafthouse locations in Los Angeles and New York starting in early October through online ticketing platforms Atom and Fandango . No distributor is publicly attached to the film, which seems to be following the same self-distribution model that directors Yuval Abraham and Rachel Szor used with their last film, No Other Land, which went on to win Best Documentary Feature at the 2025 Academy Awards. NAZA, which features interviews with 24 anonymous IDF sources detailing the killing of Palestinian civilians, was a late addition to Venice, a secret film announced to be joining the festival lineup only nine days before festivities commenced in Italy. Israeli directors Abraham and Szor were met with rapturous applause and rave reviews, with a reported 26-minute standing ovation at the premiere. The Guardian co-produced the doc, with “The Zone of Interest” filmmaker Jonathan Glazer attached as an EP. The news of distribution comes just over one week after the Sept. 10 premiere in Venice. Despite being one of the most discussed movies on the early fall festival circuit, no studio has committed to wading into the political quagmire that comes with distributing this film, sure to generate Oscar buzz later in the season. It didn’t take long for “NAZA” to draw heat from both sides of the Middle Eastern conflict. Shortly after its Veni
 
-### The Traitors: New Blood EPs Explain Civilian Season s Tonal Shift and That Twisty Selection
-Fri, 18 Sep 2026 02:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-traitors-new-blood-sam-rees-jones-rosie-franks-interview/
+### Outlander: Blood of My Blood Season 2 Release Schedule: Here s When Every Episode Drops
+Fri, 18 Sep 2026 18:11:13 +0000 — https://www.thewrap.com/creative-content/tv-shows/outlander-blood-of-my-blood-season-2-release-schedule-heres-when-every-episode-drops/
 
-As Peacock competition sensation “The Traitors” heads to NBC for a civilian season this fall, fans can expect all the same treachery and deceit, with a slight tonal shift. There is a nuanced tonal shift, EP Sam Rees-Jones told TheWrap, noting its 8 p.m. primetime broadcast placement. It is obviously a program about murder and betrayal, but weirdly enough, because it s tongue in cheek, it is a multi-generational viewing experience. Much of that shift, of course, is coming from the reality competition show being filled with everyday people, rather than the reality stars and celebrities who have made up the cast of the Emmy-winning Peacock version of the show. We ve seen that in the U.K. — you can watch it from all generations and enjoy it together as a family, Rees-Jones said. But it might also be felt as the civilian cast boards a steam train right out of Harry Potter through the Scottish Highlands to get to the castle, rather than arriving in the dead of night to hooded figures. And while the slightly shorter episodes on broadcast mean cliffhangers are in different places, EP Rosie Franks ensured actual nuts and bolts of the game will stay the same. It s the same game — It s Alan s castle, Rees-Jones said. It s all the things that we know and love about The Traitors, but it s with people that we don t know and the other players don t know, and we re all learning about them at the same time. And speaking of Harry Potter, the EPs recruited Harry Potter alum Oliver and James Phe
+If you re still mourning the end of Outlander, you can enjoy the similarly time-bending and endearing love stories of Jamie and Claire s parents with Outlander: Blood of my Blood back for a second season. After a dramatic Season 1 finale, the second installment will see Brian Fraser (Jamie Roy) and Ellen MacKenzie (Harriet Slater) persevere through war and clan loyalties to be together, while Henry (Jeremy Irvine) and Julia Beauchamp (Hermione Corfield) must fight time itself to get back to one another. Get all the details on Season 2 below. When does “Outlander: Blood of my Blood” Season 2 premiere? The Season 2 premiere, titled Remembrance Day, debuts Friday, Sept. 18. How many episodes are there? Season 2 will consist of 10 episodes total. When do new episodes come out? New episodes of Blood of my Blood drop Fridays on the Starz app and Starz streaming platforms Fridays at 12 a.m. ET. The new episodes will also at 8 p.m. ET on the linear Starz channel. Here’s the full release schedule: Season 2, Episode 1 Remembrance Day : Sept. 18 (Season 2 premiere) Season 2, Episode 2 The Veil of Time : Sept. 25 Season 2, Episode 3 Rabbits Don’t Swim : Oct. 2 Season 2, Episode 4 A Portion of my Soul : Oct. 9 Season 2, Episode 5 Forgive Me, Father : Oct 16 Season 2, Episode 6 Small Mercies : Oct. 23 Season 2, Episode 7 Heart of the Highlands : Oct. 30 Season 2, Episode 8 The Dance : Nov. 6 Season 2, Episode 9 Another Man’s Shadow : Nov. 20 Season 2, Episode 10 Twelfth Night : Nov. 27 (Se
 
-### ‘Love of Your Life’ Review: Margaret Qualley Navigates From Rhapsody to Grief
-Fri, 18 Sep 2026 01:39:14 +0000 — https://www.thewrap.com/creative-content/movies/love-of-your-life-review-margaret-qualley-rachel-morrison-tiff/
+### Jimmy Fallon Tells Trump He s the One in Bad Shape, Not the Kennedy Center
+Fri, 18 Sep 2026 18:09:24 +0000 — https://www.thewrap.com/culture-lifestyle/culture/tonight-show-jimmy-fallon-trump-kennedy-center-bad-shape/
 
-Within its first few minutes, Rachel Morrison’s “Love of Your Life” has all the setups of a romantic comedy: Maya and Charlie meet cute when she buys a small desk from him with a stuck drawer; some mild flirtation takes place; Maya drags the desk home, unsticks the drawer, discovers a cassette tape and sticks it in her Walkman and is intrigued by the atmospheric music. Note: This is taking place in 2020. Charlie still saves cassette tapes, and Maya still has a cassette Walkman. Could a romance be far off? Well, no, it couldn’t. But that’s pretty much the last rom-commy thing that happens in “Love of Your Life,” which jumps into the relationship so quickly that you can’t help but feel a sense of foreboding that lurks beneath the perfect romance. And sure enough, the film spends most of its time dealing with the aftermath of loss and the slow process of rebuilding a person wracked with grief. It’s not a rom-com; it’s a tragedy in which the lead character isn’t sure whether to surrender to that tragedy or try to recover from it. Morrison, the first woman every nominated for an Oscar for cinematography, made her directorial debut with “The Fire Inside” in 2024. Her followup is gentler and more disquieting; she’s skilled at capturing the rhapsodic moments in a life, but then backing off from the rhapsody. “Love of Your Life” shows us beauty and then suggests that we don’t trust it. Maya is played by Margaret Qualley with a light touch through the opening stretch of the film as her
+The Tonight Show host Jimmy Fallon torched President Trump on Thursday for his threats toward the Kennedy Center, joking that his assessment of the institution being in very, very bad shape was actually the report from the president s last physical. President Trump is in the news, Fallon said near the top of his Thursday night monologue. After they wouldn t put his name on the Kennedy Center, Trump is now threatening to tear it down, and last night photographers captured Trump on Air Force One looking at a poster that says Kennedy Center Demolished.' Usually when Trump is demolishing something on Air Force One, it s a bucket of KFC, Fallon joked. When he found out the photo went viral, Trump was like, See, this is why I should always travel in the back of a catering truck.' Trump told reporters this week he deserves to have his name on the Kennedy Center because he is the only man with the power to save it. Frankly, if we don t do that, it s going to close. It ll end up being ripped down, Trump said, asserting that the Kennedy Center is in very, very bad and very dangerous shape. Pivoting, Fallon then turned his attention to Trump s nonchalant attitude about the Iran War and, specifically, the economic impact it continues to have on everyday Americans. During his [recent] speech in North Carolina, Trump said high gas prices are a very inexpensive price to pay for the war, Fallon relayed to his Tonight Show audience. Then his teleprompter said, Hold for booing.' Fallon went on
 
-### Miley Cyrus Details Final Conversation With Dolly Parton: She Was Always Right
-Fri, 18 Sep 2026 01:30:14 +0000 — https://www.thewrap.com/creative-content/music/miley-cyrus-details-final-dolly-parton-conversation/
+### Monster : The Real History Behind Serial Killer Aileen Wuornos
+Fri, 18 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/aileen-wuornos-lizzie-borden-connection-real-or-fake/
 
-Miley Cyrus detailed her final conversation with godmother Dolly Parton in a heartwrenching interview Thursday, saying that the country music legend was always right. Parton was the Flowers singer s godmother in real life and appeared as her Aunt Dolly on her Disney Channel show Hannah Montana. The duo had a very close bond and mentorship relationship until the end of her life. The time that we talked, which was the last time we would talk, it was actually me telling her about this record, Cyrus told Lowe. She shared that even though her and Parton were different in many ways they bonded in how the performance persona they shared with the world was a sliver of who they really were. She s known for the faux, the fake, the hair, the makeup, the show of it, but there s a part of her that s just what I think what everyone gravitates towards is how real she is and how authentic she is, Cyrus shared. Even though we are so different, that s what made us so perfect for each other. The Bass Persuades singer said that she mimicked Parton s journey by separating her art from her personal life. Another piece of advice Parton gave Cyrus was to keep her emotions in during her performances and let the audience do the crying for her. I always cry. I can t help it, Cyrus said. She [Parton] was like, Music is escapism. Let them cry. You need to get through it. And I said, I know, but this is who I am. And she loved me for it. She shared that during their performance of I Will Always Love You a
+Monster: The Lizzie Borden Story draws a strong line between the titular character and the infamous American serial killer Aileen Wuornos, who lived a century later, but what does the show get right? Wuornos is played in the Netflix series by Ryan Murphy staple Sarah Paulson to completely captivating effect (Wuornos also previously appeared in an episode of Murphy s American Horror Story: Hotel, then played by Lily Rabe). The show paints the future character as a serious fan of Borden and a student of the case. But the Monster series has always been a bit flighty when it comes to nailing down the straight facts of its stories, and there are some inconsistencies. What did Wuornos do to end up with her own death penalty? Was she really as obsessed with Borden as the show implies, and did she visit the infamous Lizzie Borden house? Here s the real history behind Wuornos. Who was Aileen Wuornos? Aileen Wuornos was one of the first prominent female serial killers in America. She was born in 1956, and the early years of her life were marked by one hardship after the next. Her father went to prison for rape nine years after her birth and later died there. At 4, she and her brother were sent to live with their grandparents after being abandoned by their mother. Wuornos later alleged that her grandfather physically and sexually assaulted her. Wuornos ran away from home at 15, according to archival interviews with the killer, and her life continued its turbulent trajectory. She hitchhi
 
-### New York Times Staffers Protest 175th Anniversary Gala Over AI, Health Care Contract Disputes
-Fri, 18 Sep 2026 01:30:00 +0000 — https://www.thewrap.com/media-platforms/journalism/new-york-times-guild-protest-175th-anniversary-gala-ai-health-care/
+### ‘The Debut’ Review: Julianne Moore and Paul Giamatti Hog the Spotlight
+Fri, 18 Sep 2026 17:47:54 +0000 — https://www.thewrap.com/creative-content/movies/the-debut-review-julianne-moore-paul-giamatti-jesse-eisenberg/
 
-Unionized New York Times employees gathered to protest outside the company’s 175th anniversary gala Thursday night, using the celebration to pressure management over health care costs and protections governing artificial intelligence. Times Guild members distributed fliers to arriving guests outside Spring Studios in Manhattan while a digital billboard truck displayed messages about the contract dispute near the venue. A digital billboard truck displays a Times Guild message near Spring Studios during the New York Times’ 175th anniversary gala. (Courtesy of the NewsGuild of New York) “Tonight the Times is celebrating its 175th anniversary,” Times Guild unit chair Jim Luttrell told TheWrap. “We’re here to remind the execs throwing this big bash that we are a crucial part of the company’s success and they should commit today to agreeing to a fair contract.” Times Guild members gather outside Spring Studios in Manhattan during the New York Times’ 175th anniversary gala on Sept. 17, 2026. (Courtesy of the NewsGuild of New York) The union said it represents more than 1,500 Times journalists, business employees and other workers and has been bargaining with management since January. Health care is among the remaining points of contention. Employees and the company both contribute to a self-funded health benefit fund, and the Guild said management wants workers to shoulder more of the fund’s rising costs. Union representatives were told during Wednesday’s bargaining session that emp
+An emotionally suffocated housewife. A husband who couldn’t care less. An audition for a local theater group. A cheesy musical with amusingly bad songs. A director who brings out the housewife’s inner fire. An obviously artificial descent into madness. All these elements come together beautifully in the 1992 “The Simpsons” episode “A Streetcar Named Marge.” In Jesse Eisenberg’s new film “The Debut,” not so much. Eisenberg wrote and directed the bittersweet 2024 comedy “A Real Pain,” and co-starred with Kieran Culkin as cousins on a heritage tour in Poland. It’s a sensitive movie, even when its characters aren’t, and it had something worth saying about the way different people process their grief and the grief of previous generations. “A Real Pain” is the kind of movie an actor often makes when they move behind the camera: an ambitious character study with a cornucopia of juicy scenes, which Eisenberg and his co-star eagerly devoured. His second film, “The Debut,” is another actorly enterprise. It’s literally about how acting is the best thing in the world, with the power to tear us apart and put us back together again. Sometimes its message is even convincing. Not usually, but sometimes. Julianne Moore plays Mona, a repressed stay-at-home mom who auditions for a local production of “Nosy Neighbors,” a fictional musical about the tenants of a ramshackle apartment complex and their hammy, ridiculous problems. Mona doesn’t get the part because she has no talent, but an aging Bro
 
-### Mellody Hobson Exits LA28 Olympics Board Amid Calls for Reform
-Fri, 18 Sep 2026 00:55:08 +0000 — https://www.thewrap.com/culture-lifestyle/culture/mellody-hobson-steps-down-from-la-olympics-board/
+### World War Z Sequel: Brad Pitt Locked to Return With Director Edward Berger
+Fri, 18 Sep 2026 17:30:29 +0000 — https://www.thewrap.com/creative-content/movies/brad-pitt-world-war-z-sequel-edward-berger-director-paramount/
 
-Mellody Hobson, wife of George Lucas and co-founder of the Lucas Museum of Narrative Art, stepped down from the Los Angeles Olympics board Thursday. The news came just days before the museum s Sept. 22 public opening. Her exit marked the latest struggle faced by the 35-person LA28 Olympics board, led by Casey Wasserman . Hobson privately cited the demands and responsibilities to the Lucas Museum as the reason for her departure, according to an internal email reviewed by LAist . Hobson and the Lucas Museum had come under fire from the Fair Games Coalition, which has sought to meet with her to address concerns with the 2028 world sporting event. These concerns are related to both housing stability and union jobs, with the Fair Games Coalition seeking to ensure that the massive global event helps serve working-class Angelenos. This includes providing union jobs and affordable housing, placing a moratorium on short-term rentals like AirBNB and protecting immigrants during the event. Such mega events and the massive investments required to make them happen should have a positive impact for the city’s residents, including the workers that make the games possible. But in recent decades, in country after country, global sporting events have failed to produce lasting benefits for host communities, the coalition said in a statement to media on Thursday. While corporate sponsors have enriched themselves, the games have left local communities indebted for years, with five of the past six
+Paramount Pictures is moving forward with a sequel to “World War Z,” with Brad Pitt set to star and “Conclave” filmmaker Edward Berger set to direct, TheWrap has learned. The film marks Pitt’s return to “World War Z” following the 2013 film, which earned more than $540 million at the worldwide box office, making it the highest-grossing zombie film of all time. British playwright and screenwriter Dennis Kelly (“Matilda the Musical”) will write the script. Plot details are being kept under wraps. “World War Z” is based on Max Brooks bestselling 2006 novel, “World War Z: An Oral History of the Zombie War.” Paramount has been trying to get another “World War Z” movie off the ground for years. The script was finished for the follow-up to the Marc Forster-directed first film that starred Pitt, and it had top talent attached to help at various points, including David Fincher and J. A. Bayona of “The Impossible.” The first “World War Z” movie also had its share of behind-the-scenes strife, as script doctors Damon Lindelof and Drew Goddard boarded the project late in the game to fix its third act. In 2019 , a source told The Hollywood Reporter that China’s ban on zombie movies was the main reason why the sequel, budgeted at $200 million, never happened. Fincher went on to make “Mindhunter” for Netflix and Bayona signed on to direct “Jurassic World: Fallen Kingdom” instead. Pitt, Dede Gardner and Jeremy Kleiner will produce on behalf of Plan B Entertainment. Berger will executive produ
 
-### Greta Gerwig Reveals Why She Cast Meryl Streep as Bowie-Inspired Aslan in Narnia
-Fri, 18 Sep 2026 00:38:02 +0000 — https://www.thewrap.com/creative-content/movies/greta-gerwig-narnia-casting-meryl-streep-aslan-explained/
+### How ‘Resident Evil’ Director Zach Cregger Leveled Up
+Fri, 18 Sep 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/movies/resident-evil-zach-cregger-interview-the-flood-gladys/
 
-Greta Gerwig knew she needed a commanding presence to voice her Christ-like talking lion Aslan in Narnia: The Magician s Nephew. She had a hard time thinking of a better fit than Meryl Streep. “I wanted someone who was profound but not pretentious, who had gravitas but not morose self-seriousness. Someone who could communicate depth and pathos as well as joy and delight,” Gerwig told Empire in an interview published Thursday about her forthcoming fantasy feature. I wanted someone who was older than 70, so there was a wisdom of experience, but who also had the capacity of fresh wonder, like a child. Aslan occupies a crucial role in both The Magician s Nephew and C. S. Lewis The Chronicles of Narnia series as a whole. On top of all of the other criteria already laid out, Gerwig added that she wanted one of the greatest actors to ever do it. That list is not a long one, she admitted. Enter: Streep, who previously collaborated with Gerwig in her previous literary adaptation, 2019 s Little Women. Empire shared a piece from concept artist Jaime Jones of Streep s Aslan creating Narnia, as well as an image of the talking lion with a red face stripe and different-colored eyes — an homage to legendary artist David Bowie, per Gerwig, who said she wanted her take on the franchise to feel like a rock opera. “Narnia is literally a world made out of music,” she told Empire. “It is a world sung to life by Aslan, and rock ’n’ roll to me felt like a world made out of music.” Empire also reveal
+A little over a year ago, Zach Cregger, the comedian-turned-filmmaker behind 2022’s sleeper hit “Barbarian,” unleashed “Weapons,” an elliptical, dread-soaked story about an entire elementary school class that goes missing one night at 2:17 a.m. Indebted to John Carpenter and Paul Thomas Anderson, “Weapons” was a huge hit ($270 million worldwide against a $38 million budget), a critical darling and an eventual Oscar winner, with Amy Madigan winning a rare Academy Award for a horror movie. Now he’s back with “Resident Evil,” an original tale set within the world of the super-successful Capcom video game franchise that began in 1996 and continues today (“Resident Evil: Requiem” hit home consoles this past February). Cregger’s “Resident Evil” sparked a bidding war, with Sony (who had released previous adaptations of the videogames) ultimately winning. It’s in theaters now and it is a blast – an all-killer, no-filler horror thrill ride that follows Bryan (Austin Abrams), a medical courier who is tasked with delivering an important package during an outbreak that turns people into zombies and monsters and all sorts of unmentionable creepy-crawlies. Notably, Bryan isn t based on an established video game character, and is essentially a random person who stumbles into the Resident Evil universe. But the road to this unique twist on the Resident Evil franchise actually began in the middle of making Weapons. Cregger was editing “Barbarian” when he suffered an immense personal tragedy –
 
-### Barbra Streisand Blasts Trump s Unchecked Ego After He Threatens to Demolish Kennedy Center
-Fri, 18 Sep 2026 00:26:07 +0000 — https://www.thewrap.com/culture-lifestyle/culture/barbra-streisand-trump-unchecked-ego-kennedy-center-threat/
+### All Chewed Up Adds Food Network Personalities Amanda Freitag and Scott Conant to Creator Lineup Exclusive
+Fri, 18 Sep 2026 17:00:00 +0000 — https://www.thewrap.com/media-platforms/streaming/all-chewed-up-amanda-freitag-scott-conant-shows-food-network/
 
-Barbra Streisand expressed disdain for President Donald Trump s unchecked ego on Thursday following his threat to demolish the Kennedy Center amid the ongoing legal battle to mount his name on its exterior. You can easily imagine my indignation at seeing this revered institution become the subject of such a bitter struggle over one man’s name and unchecked ego, the legendary entertainer, who was recognized at the 31st annual Kennedy Center Honors in 2008, wrote on her website . The Oscar winner s lengthy, heartfelt missive, which charted the history of Trump s effort to rename the historic performing arts center built as a monument to President John F. Kennedy all the way through his suggestion it could be ripped down if he couldn t do as he pleased, ultimately acted as a call to vote in November s midterms. The Kennedy Center was meant to pay tribute to a beloved president, and to advance his philosophy that artistic achievement was proof of a free society. He believed that when the creative impulse cannot flourish freely, a society loses its vitality, Streisand wrote. Yet another reason why it is so important that Americans exercise their right to vote in the upcoming midterm elections! On Tuesday, after a judge s federal order to block the president s effort to have his name on the exterior of the performing arts center, the Trump-approved board for the organization voted to close it , citing renovations and financial instability. Oddly, when Trump’s name was still on the 
+Creator network All Chewed Up brought Food Network personalities Amanda Freitag and Scott Conant on to host their own weekly programs, TheWrap can reveal exclusively. Both Ask Amanda: Chef on the Line and a still-untitled Conant project will premiere on the YouTube channel Nov. 7. The cooking shows join the channel s series Simply Symons, a backyard cooking series hosted by Michael Symon. “At Simple Alien, we’re building entertainment around how fans actually want to engage with hosts they already know, love and trust,” said Nick Panagopulos and Marissa Ronca, founders of Simple Alien. “ Ask Amanda and Scott Conant are the next step in that vision and All Chewed Up continues to grow as the best destination for creator-led food and lifestyle experiences on and off the screen.” Freitag’s series will see fans put her on the spot with some of their burning food questions, from how to pull off the dinner party of their dreams to their most hottest food takes. The best part about Ask Amanda is that I have no idea what s coming. Real-time questions from viewers, live callers, a live audience eventually. It s completely unscripted, spontaneous, and I m here for it, Freitag said. I m at my best when I m under pressure! This is the kind of direct connection I ve always wanted with people. Getting to share my cooking knowledge and help people feel confident in the kitchen while riffing and problem-solving together in the moment? That s the dream. The 15-episode series will be sponsored 
 
 ## Collider
 
-### 20 Years Later, the Greatest Dystopian Sci-Fi Movie Ever Made Officially Returns to Theaters
-Fri, 18 Sep 2026 14:00:11 GMT — https://collider.com/v-for-vendetta-theaters-2026/
+### 6 Flawless Miniseries With No Weak Episodes, Ranked
+Fri, 18 Sep 2026 19:09:11 GMT — https://collider.com/best-miniseries-no-weak-episodes/
 
-Remember, remember, the fifth of November. Some movies can become less relevant as times change, and politics shift, but some of them remain eerily prescient and, dare we say, timeless. An anonymous Robin Hood, or terrorist, depending on your point of view. Fighting with authority and government, battling surveillance, propaganda, fear, and the erosion of individual freedom — these issues haven't exactly vanished, and that explains why one of the 2000s’ most distinctive dystopian movies refuses to disappear.
+Given their limited format, it would seem that miniseries should make every moment count and therefore should rarely deliver underwhelming or disappointing episodes. But things don’t always work as they should, a point that has been displayed in a great many miniseries that have suffered from debilitating lulls, be it mid-season slumps that rob the story of all momentum, slow starts that deliver uninspiring introductions, or weak conclusions that leave viewers feeling underwhelmed.
 
-### 'Fargo' Star Officially Reunites With Noah Hawley for New Video Game Series
-Fri, 18 Sep 2026 13:03:13 GMT — https://collider.com/far-cry-series-cast-sam-spruell-brendan-gleeson-hamish-linklater/
+### Hans Zimmer Reveals the Moment That Changed ‘The Lion King’ Forever [Exclusive]
+Fri, 18 Sep 2026 19:00:11 GMT — https://collider.com/hans-zimmer-the-lion-king-score-father-death/
 
-If the recent scores for Resident Evil have taught us anything, it's that adaptations are finally being figured out properly by filmmakers. After years of trying to reproduce exactly what players already experienced with a controller in their hands, it seems Hollywood has clicked that being inspired by a game rather than copying it beat for beat is the way to go.
+The Lion King may be one of those iconic films that is instantly identifiable by its music and its score. The 1994 Disney classic ultimately earned Hans Zimmer his first Academy Award, but it has endured to the point that it's no longer just a movie score. It's been transplanted onto the stage, into concerts, live-action, you name it, for more than 30 years. Yet the most remarkable thing about it might be that Zimmer never even wanted to score The Lion King in the first place.
 
-### 'Optimus Prime: Awakening' Director Details Saying “Goodbye” to Peter Cullen
-Fri, 18 Sep 2026 13:01:11 GMT — https://collider.com/transformers-optimus-prime-awakening-peter-cullen-josh-wassung/
+### Benedict Cumberbatch Enters His John Wick Era in First Trailer for Guy Ritchie Crime Thriller
+Fri, 18 Sep 2026 18:58:57 GMT — https://collider.com/guy-ritchie-benedict-cumberbatch-wife-and-dog-teaser-trailer/
 
-As part of the 40th anniversary celebration of Transformers: The Movie , Collider was honored to partner with Hasbro and Fathom Entertainment to invite LA fans to an advanced screening of the re-release, plus a sneak peek screening of the after-credits short, Optimus Prime: Awakening . The short film is helmed by filmmaker Joshua Wassung ( Predator: Killer of Killers ), who joined us on stage afterwards for a discussion about how Awakening came to be, and to honor the late and legendary Peter Cullen , who provided the voice of Optimus Prime for four decades.
+As if September hadn't already over-delivered for director Guy Ritchie 's fans, they were also treated to the first teaser for his upcoming movie Wife and Dog . Ritchie is in the middle of a particularly prolific phase right now, having debuted the second season of his hit Netflix series The Gentlemen on September 3. This week also saw the grand return of his blockbuster Paramount+ crime drama series MobLand . As if two shows weren't enough, Ritchie's theatrical release for the year, In the Grey , continues to redeem itself on streaming after a lackluster box-office run, finding spots on the Prime Video and HBO Max viewership charts. While all these titles continue to draw audiences at home, Ritchie is gearing up for the release of Wife and Dog , which features Benedict Cumberbatch in an against-type role.
 
-### 'Better Call Saul's Thrilling 2-Minute Scene Is One We'll Never Forget
-Fri, 18 Sep 2026 12:51:11 GMT — https://collider.com/better-call-saul-howard-hamlin-death-breaking-bad/
+### Gerard Butler’s Fantasy Franchise Officially Scores Prequel Series
+Fri, 18 Sep 2026 18:37:40 GMT — https://collider.com/zack-snyder-300-prequel-series-confirmed-gerard-butler/
 
-Just because character deaths on serialized television shows are inevitable, it doesn't mean they don't sting — some of the most iconic moments in TV history center around the sudden death of a beloved character. Even when a hated villainous character is axed, the shock value echoes throughout the remainder of the series. As Better Call Saul headed towards its finale, audiences knew something had to give, with the Breaking Bad prequel spin-off by Vince Gilligan and Peter Gould teasing a fateful moment in the morally ambiguous life of Jimmy McGill ( Bob Odenkirk ) as he morphed into the titular shady attorney by getting mixed up in cartel-related activity with his wife and conflicted professional partner, Kim Wexler ( Rhea Seehorn ). Someone had to pay the price, but few could have predicted that it would be Howard Hamlin ( Patrick Fabian ), Jimmy's upstanding foil who would suffer the most tragic demise in the Breaking Bad universe , and perhaps all television.
+Director Zack Snyder appeared to have distanced himself from franchise filmmaking, but the detour was deceptively brief. This past week, he premiered his first "indie" project, The Last Photograph , at the Toronto International Film Festival. It's his first movie since his ill-fated Netflix run, which included two failed franchises — Army of the Dead and Rebel Moon . Before that, Snyder earned a complicated reputation with a string of comic-book adaptations that divided audiences but won him a legion of devoted fans. He's now putting together a remake of John Carpenter 's dystopian cult classic Escape from New York , which will mark his return to IP-driven filmmaking. In a new interview, Snyder revealed that he is also set to dive back into the fantasy world of his breakout blockbuster, 300 .
 
-### ‘Monster: The Lizzie Borden Story’ Star Breaks Down Crime Series’ Most Brutal Moments
-Fri, 18 Sep 2026 12:51:11 GMT — https://collider.com/monster-lizzie-borden-story-netflix-ella-beatty/
+### Zack Snyder Officially Teases Kurt Russell’s Replacement in ‘Escape From New York’ Reboot
+Fri, 18 Sep 2026 18:33:17 GMT — https://collider.com/zack-snyder-escape-from-new-york-reboot-cast-update-jeffrey-dean-morgan/
 
-This interview contains spoilers for the first two episodes of 'Monster: The Lizzie Borden Story.'
+Director Zack Snyder is developing multiple projects, including a 300 prequel series and a movie set in the world of UFC, but first on the docket is a reimagining of Escape from New York . Directed by John Carpenter , the dystopian action movie is regarded as one of the defining cult classics of the 1980s. It follows a special forces soldier who is sent to rescue the kidnapped President of the United States from insurgents. In a new interview, Snyder shared some details about his follow-up feature's premise and suggested that the story would be ripped from the headlines. Snyder most recently directed a passion project titled The Last Photograph , which premiered at the Toronto International Film Festival.
 
-### 3 Elite Series to Binge on Netflix This Weekend (Sep 19-20)
-Fri, 18 Sep 2026 12:41:11 GMT — https://collider.com/netflix-shows-binge-weekend-september-19-2026/
+### Alan Ritchson’s ‘Reacher’ Is Officially the #1 Series in the World
+Fri, 18 Sep 2026 18:27:10 GMT — https://collider.com/alan-ritchson-reacher-season-4-neagley-streaming-success-prime-video-september-2026/
 
-Reports last week confirmed that Season 2 of Guy Ritchie ' s The Gentlemen had earned only 6.7 million views in its first few days on streaming, a 45% drop from Season 1. This has been followed by a decline in the Netflix top 10 for the biggest new arrival of the month, which has been replaced at the streaming summit by Crew Girl , Netflix's newest teen soap. Despite poor reviews from critics , including Collider's own Jessica Toomer , Crew Girl is proving its doubters wrong. But there's plenty more to watch if you, like Toomer, aren't a fan of Crew Girl . With that in mind, here are three shows you should binge-watch on Netflix this week .
+Lots of people like their shows to be sprawling, complex narratives that unfold across several timelines, several seasons, with twists, turns, cliffhangers, and shocking deaths of main characters. Then, there's Reacher . A large man enters town, finds a diner, drinks his substantial weight in coffee, doles out justice to the local bad guys via the medium of his turkey-sized fists, and catches the first Greyhound outta there. Four seasons in , it turns out audiences still haven’t gotten tired of that particular formula .
 
-### Sarah Paulson on Why Her Most Ambitious Role Yet Was Also Her Most Terrifying
-Fri, 18 Sep 2026 12:01:11 GMT — https://collider.com/closing-night-sarah-paulson-american-horror-story-cody-fern-interview/
+### Tom Hardy Officially Confirms More 'MobLand' Beyond Season 3
+Fri, 18 Sep 2026 18:21:32 GMT — https://collider.com/tom-hardy-mobland-future-seasons-beyond-season-3/
 
-American Horror Story breakout star Cody Fern world premiered his feature directorial debut, Closing Night , at this year’s Toronto International Film Festival , where he and Sarah Paulson stopped by the Collider Media Studio, presented by Campari and The Cayman Islands , to talk with Perri Nemiroff about the ideas that sparked this thriller and their journey from script to screen.
+With less than 24 hours until MobLand 's second season premieres, fans remain curious about the show's future, especially after the behind-the-scenes issues that led to Tom Hardy's brief departure . Hardy has since returned and will reprise his role as the resourceful Harrigan family fixer, Harry Da Souza. He has also been confirmed to return for Season 3 , along with Pierce Brosnan and Helen Mirren .
 
-### HBO's Harry Potter Reboot Series Will Stay “As Far Away as Possible” From John Williams' Iconic Score [Exclusive]
-Fri, 18 Sep 2026 12:01:11 GMT — https://collider.com/hans-zimmer-harry-potter-score-john-williams/
+### Resident Evil: Austin Abrams Cracked His Tailbone on Set | Collider BTS
+Fri, 18 Sep 2026 18:15:12 GMT — https://collider.com/video/resident-evil-austin-abrams-cracked-his-tailbone-on-set-collider-bts/
 
-There are few pieces of movie music as instantly recognizable as John Williams ’ “Hedwig’s Theme.” More than two decades after it first accompanied audiences into the Wizarding World, Williams’ music remains inseparable from Harry Potter , which makes following in his footsteps a fairly intimidating assignment — even when the person doing it happens to be Hans Zimmer .
+In this Collider interview, writer-director-producer Zach Cregger and star Austin Abrams reveal what went into making Resident Evil, from months of nocturnal filming to slippery stunt work and the logistical headache of maintaining snow between takes. Cregger explains why footprints alone could create major continuity problems and recalls having only a handful of attempts to capture a difficult cop-car rollover.
 
-### The 10 Greatest Classic Rock Songs That Defined the 1960s
-Fri, 18 Sep 2026 12:01:11 GMT — https://collider.com/greatest-classic-rock-songs-defined-1960s/
+### Chris Pine and Cate Blanchett's Sci-Fi 'Alpha Gang' Is TIFF's Weirdest, Most Polarizing Movie | Review
+Fri, 18 Sep 2026 18:14:23 GMT — https://collider.com/alpha-gang-movie-review-chris-pine-cate-blanchett/
 
-The 1960s was perhaps the most important decade for rock music. By then, the genre had had time to mature, and people were starting to recognize it as a serious form of art. As rock 'n' roll became more mainstream, bands and artists all over the world started experimenting and pushing the boundaries of the genre, and many songs from that time period became the foundation for modern music.
+Let's face it, humanity is weird. We are contradictory beings. We do things that just don't make sense and when we're asked to give a reason, sometimes all we can come up with is, "Because I wanted to," or, even worse, "I don't know." We are sometimes inherently nonsensical, ruled by our emotions, and will often do things that go against our better judgment. That's exactly what the aliens of Alpha Gang quickly discover after they arrive on Earth, dead set on conquering us. Nathan and David Zellner 's quirky and aesthetically pleasing sci-fi flick shows what happens when a gang of aliens is dropped on Earth and finds their own humanity; the result is wacky, illogical, and bizarrely wholesome .
 
-### The 10 Greatest Planetary Romance Movies of All Time, Ranked
-Fri, 18 Sep 2026 11:36:11 GMT — https://collider.com/best-planetary-romance-movies-all-time-ranked/
+### Owen Wilson Becomes Travis Scott's Furniture Store Rock Star in Sneak Peek at New Comedy [Exclusive]
+Fri, 18 Sep 2026 18:00:11 GMT — https://collider.com/rolling-loud-the-movie-sneak-peek-owen-wilson-travis-scott/
 
-When it comes to space and science fiction flicks, our fascination with the genre stems from the action that occurs beyond our own planet. Sometimes, the best stories in space occur on other singular, alien surfaces, falling under the umbrella of planetary romances . And no, that doesn’t mean it’s primarily a love story, but romance plays a key role in the story.
+Owen Wilson is preparing to close out 2026 with a bang. The Oscar nominee of Wedding Crashers fame has several projects bound for streaming and theaters in the final three months of the year, including his return to television with Season 2 of his hit Apple TV golf comedy, Stick . Pryce Cahill's big comeback to the PGA Tour is set to tee off on November 4 , just three weeks before Wilson swings by the home of the Fockers once more with the Ben Stiller and Robert De Niro franchise's return, Focker-in-Law , on November 25. Those performances will add to an already busy stretch for the actor, including an unexpected team-up with Reacher 's Alan Ritchson for the buddy action-comedy Runner and an appearance in Rick & Morty Season 9 as Reese, a chill old "friend" of the scientist and his grandson who is much more than he seems beneath his warm, folksy demeanor.
 

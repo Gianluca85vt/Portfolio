@@ -1,6 +1,16 @@
-# Games — harvested 2026-09-18T14:38:37.738Z
+# Games — harvested 2026-09-18T19:11:17.525Z
 
 ## Eurogamer
+
+### New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work
+Fri, 18 Sep 2026 18:19:10 +0000 — https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6
+
+Rockstar Games ' latest leak seemingly includes a nearly 200GB version of GTA 5 's source code, suggesting the developer started and then scrapped plans for a Liberty City DLC, alongside very early files related to GTA 6 . Read more
+
+### Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical
+Fri, 18 Sep 2026 16:52:24 +0000 — https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews
+
+Marvel's Wolverine has been in the hot seat over the last week or so, but mixed reviews and internet memes seemingly haven't put a dent in the superhero game's adamantium frame. A new report states the latest from Insomniac Games has already sold almost 2m copies, with more than a fifth coming from physical sales. Read more
 
 ### Final Fantasy 7 Revelation will be "around 200GB" says game director, as he details Sephiroth and Vincent Valentine DLC plans
 Fri, 18 Sep 2026 13:04:26 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-200gb-file-size-dlc
@@ -52,17 +62,22 @@ Thu, 17 Sep 2026 10:44:36 +0000 — https://www.eurogamer.net/wardogs-marathon-r
 
 Wardogs is already one of the year's biggest PC hits on Steam, but new data has revealed how its success compares to other mega-hits like Arc Raiders and Helldivers 2 , as well as struggling titles like Marathon . This isn't that surprising, given Wardogs managed to sell over 1 million copies within hours of launch . Read more
 
-### Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to "address the issue" with Valve
-Thu, 17 Sep 2026 09:52:50 +0000 — https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve
-
-Yesterday, Helldivers 2 and Horizon Forbidden West mysteriously disappeared from the Steam store in the UK. There was no announcement about this move, nor any indication it would happen before players began noticing that neither game was listed on the digital storefront. Users that did not own the games were left unable to purchase them, however people that already had the Sony Interactive Entertainment-published titles in their libraries were still able to boot and play the games. Read more
-
-### Monster Hunter Wilds upcoming expansion, Ascendance, reveals an infamous returning monster - and it looks like it'll address the difficulty complaints
-Thu, 17 Sep 2026 08:36:26 +0000 — https://www.eurogamer.net/monster-hunter-ascendance-teostra-reveal
-
-Brace yourselves, everyone: the Monster Hunter Wilds Ascendance marketing machine is spinning up. Today, at Tokyo Game Show, Capcom released the an extended cut of the first official trailer for Ascendance, revealing the explosion-loving leonine monster, Teostra, as a huntable foe. Read more
-
 ## GamesIndustry.biz
+
+### Control Resonant | Critical Consensus
+Fri, 18 Sep 2026 16:15:36 +0000 — https://www.gamesindustry.biz/control-resonant-critical-consensus
+
+Seven years after launching Control, Remedy returns to a paranatural Manhattan with Control Resonant. Read more
+
+### "They've watched so many people lose their jobs, that has an impact" – Managing morale in the wake of layoffs
+Fri, 18 Sep 2026 15:52:17 +0000 — https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs
+
+With tens of thousands of jobs lost across industry in the past few years, to say this is a demoralising time to be working in video games would be something of an understatement. Read more
+
+### Sessions on managing AI impact, neurodivergent teams and personal resilience confirmed for GamesIndustry.biz HR Summit
+Fri, 18 Sep 2026 15:44:15 +0000 — https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit
+
+We are delighted to confirm the first round of facilitated discussion sessions at this year's GamesIndustry.biz HR Summit, sponsored by Amiqus , which will be held next month at the Royal Institution in London. Read more
 
 ### Pulling focus: Must AAA pander to the distracted? | Opinion
 Fri, 18 Sep 2026 13:45:12 +0000 — https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distracted-opinion
@@ -109,26 +124,26 @@ Thu, 17 Sep 2026 10:29:52 +0000 — https://www.gamesindustry.biz/remedys-arhi-m
 
 Control Resonant releases on September 24, some seven years after 2019's Control. Much has changed for the sequel, notably a switch of main character from Jesse Faden to Dylan Faden, her brother. The new game also places a focus on melee combat &ndash; a first for Remedy &ndash; and the tight confines of The Oldest House have been swapped for the open streets of Manhattan. Read more
 
-### Heart Machine faces possible closure after publishing deal falls through; majority of staff laid off
-Thu, 17 Sep 2026 08:39:10 +0000 — https://www.gamesindustry.biz/heart-machine-faces-possible-closure-after-publishing-deal-falls-through-majority-of-staff-laid-off
-
-Hyper Light Drifter developer Heart Machine is at risk of shutting down after a publishing deal collapsed. Read more
-
-### Shinji Mikami to be inducted into the AIAS Hall of Fame later this week
-Wed, 16 Sep 2026 20:21:48 +0000 — https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week
-
-The Academy of Interactive Arts and Sciences (AIAS) has announced that Resident Evil creator, Shinji Mikami, will be inducted into its Hall of Fame next year. Read more
-
-### MindsEye developers report new round of layoffs at Build A Rocket Boy
-Wed, 16 Sep 2026 17:32:12 +0000 — https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy
-
-Scottish studio Build a Rocket Boy has reportedly initiated another round of job cuts. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Former Sony Suits Recreate Infamous PS4 Game Sharing Skit, Only without the Disc
+Fri, 18 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/09/former-sony-suits-recreate-infamous-ps4-game-sharing-skit-only-without-the-disc
+
+Hits different these days. Back in 2013, then-PlayStation executives Shuhei Yoshida and Adam Boyes made history with a silly little video that made a mockery of Xbox One's much-maligned DRM plans. 13 years later, a lot has changed , and the video has a completely different effect — but it's still an iconic gag. Read the full article on pushsquare.com
+
+### The Last of Us Game Director Apologises for Dragging God of War Laufey into Boring AAA Game Discussion
+Fri, 18 Sep 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/09/the-last-of-us-game-director-apologises-for-dragging-god-of-war-laufey-into-boring-aaa-game-discussion
+
+Bruce Straley weighs in on big budget titles. Bruce Straley, formerly a key senior staff member at Naughty Dog, has aired his grievances with modern AAA games. In a feature from Edge magazine, which examines the "broken" state of the industry's big budget productions, he shares his distaste for how risk-averse they tend to be. Read the full article on pushsquare.com
+
+### Final Fantasy 7 Revelation on PS5 Will Be a Mammoth 200GB, Director Says
+Fri, 18 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-will-be-a-mammoth-200gb-director-says
+
+Best clear some space then. Planning on playing Final Fantasy 7 Revelation ? You'd best be ready to get your PS5's SSD in order. Naoki Hamaguchi, director of the upcoming third and final entry in the FF7 remake project, has estimated the game will amount to a whopping 200GB, or thereabouts. Read the full article on pushsquare.com
 
 ### Review: Control Resonant (PS5) - A Wildly Inventive and Drop-Dead Gorgeous Sequel
 Fri, 18 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/reviews/ps5/control-resonant
@@ -175,22 +190,12 @@ Thu, 17 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/09/its-ha
 
 CDPR wants it to "shine again". The Witcher 3 Remastered's announcement took everyone by surprise at Gamescom, especially since CD Projekt Red appears to be packing it with so many improvements (while also making it a free upgrade for existing owners). The developer's already detailed most of these additions and adjustments, but why has the team decided to essentially re-release The Witcher 3 for a second time? Indeed, an enhanced PS5 version of the RPG — The Witcher 3 Complete Edition — launched back in 2022. Read the full article on pushsquare.com
 
-### Movie Review: Resident Evil - The Best Resident Evil Film Ever
-Thu, 17 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/features/movie-review-resident-evil-the-best-resident-evil-film-ever
-
-Barbarian Biohazard. I already know what you're thinking: after six Milla Jovovich-led movies and Welcome to Raccoon City , calling something "the best Resident Evil film ever" isn't exactly saying very much. The flicks based on Capcom's iconic horror series have been fun but ultimately poor for almost 25 years now. As the games have only gotten better, the films went in the opposite direction. Read the full article on pushsquare.com
-
-### There s a New Ni no Kuni Game, Kind of, and It s Now Confirmed for PS5
-Thu, 17 Sep 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/09/theres-a-new-ni-no-kuni-game-kind-of-and-its-now-confirmed-for-ps5
-
-Bloomwalker drops Xbox exclusivity. Bloomwalker , a Studio Ghibli-looking adventure from South Korean developer Netmarble, was announced for Xbox and PC last year — and now we've got confirmation that it's also coming to PS5. The game's a mix of exploration and crafting, as you clean away a kind of corruption from its open world. You'll also enlist the help of magical allies as you progress, and you can customise your abode, which just so happens to be a cosy wee house with legs. Read the full article on pushsquare.com
-
-### GTA 6: The Album Announced, Pre-Orders Available Now
-Thu, 17 Sep 2026 12:20:00 GMT — https://www.pushsquare.com/news/2026/09/gta-6-the-album-announced-pre-orders-available-now
-
-Several tracks revealed. Rockstar Games has announced the official GTA 6 album, and it's now available for pre-order via Atlantic Records. Via the official site , you can pre-purchase the album on CD or vinyl, with the latter available in two options — a standard edition and a limited edition. You can also pre-save the album on music services like Apple Music, Spotify, and so on. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters
+Fri, 18 Sep 2026 15:15:39 GMT — https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters
+
+A Shanghai court ruling may signal how Chinese courts will rule on genAI usage.
 
 ### How toolmakers like ARM work with devs, ft. Peter Hodges
 Fri, 18 Sep 2026 14:35:00 GMT — https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges
@@ -229,12 +234,22 @@ no date — https://www.gamedeveloper.com/events/tokyo-game-show-tgs-
 ### PAX West
 no date — https://www.gamedeveloper.comwest.paxsite.com
 
-### Take-Two CEO Strauss Zelnick says GTA VI needs to be 'marketed aggressively' despite global brand awareness
-Thu, 17 Sep 2026 17:49:42 GMT — https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness
-
-Take-Two Interactive CEO Strauss Zelnick says 'we cannot convince people something that something that's bad is good.'
-
 ## VGC
+
+### Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest
+Fri, 18 Sep 2026 16:11:24 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/
+
+How to find the Wonder Leaves for Leda's Elegant Drink Recipes quest in Fire Emblem: Fortune's Weave… Source
+
+### EA Sports FC review: The first major new mode in years makes EA s latest more than a typical annual update
+Fri, 18 Sep 2026 16:00:42 +0000 — https://www.videogameschronicle.com/review/ea-sports-fc-27/
+
+The Grounds has the potential to add a viable new pillar to the long-running football series… Source
+
+### Fire Emblem Fortune’s Weave: Pepper and Bitter Leaves location for Captains’ and Popular Drink Recipes quests
+Fri, 18 Sep 2026 14:39:13 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-pepper-and-bitter-leaves-location-for-captains-and-popular-drink-recipes-quests/
+
+Complete two quests at once by getting Bitter Leaves and Pepper Leaves in one place in Fire Emblem: Fortune's Weave… Source
 
 ### Control Resonant review: Remedy gambles on a genre change in one of its most impressive games ever
 Fri, 18 Sep 2026 13:00:55 +0000 — https://www.videogameschronicle.com/review/control-resonant/
@@ -271,74 +286,84 @@ Fri, 18 Sep 2026 08:50:54 +0000 — https://www.videogameschronicle.com/news/cd-
 
 The dream of the company was never to make technology… Source
 
-### FF7 Revelation director Hamaguchi discusses the game s 200GB size, DLC plans, and a new Tifa detail
-Fri, 18 Sep 2026 03:51:43 +0000 — https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/
-
-Final Fantasy 7 Revelation's director isn't concerned it's too big… Source
-
-### Don t sleep on No Law: It has the potential to be one of 2027 s most stunning games
-Thu, 17 Sep 2026 16:43:46 +0000 — https://www.videogameschronicle.com/features/dont-sleep-on-no-law-it-has-the-potential-to-be-one-of-2027s-most-stunning-games/
-
-The open-world cyberpunk FPS impressed us more than any other title at Gamescom… Source
-
-### Fire Emblem Fortune’s Weave: Should you skip Part 2?
-Thu, 17 Sep 2026 16:09:39 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-should-you-skip-part-2/
-
-Why you should and shouldn't skip Part 2 in Fire Emblem: Fortune's Weave… Source
-
 ## Polygon
 
-### Massive GTA 5 Leak Reveals Cut DLC Plans and Early GTA 6 Assets
-Fri, 18 Sep 2026 14:37:15 GMT — https://www.polygon.com/gta-5-leak-cut-dlc-gta-6-assets/
+### Marvel’s Wolverine’s Secret Ending Officially Sets up New X-Men Game
+Fri, 18 Sep 2026 19:01:14 GMT — https://www.polygon.com/marvels-wolverine-ending-secret-explained/
 
-Weeks after the steady stream of Grand Theft Auto 6 leaks prior to the game's big extended look on Netflix , Rockstar Games has another leak problem on its hands. This time, a massive amount of data has surfaced from Grand Theft Auto 5 , giving people plenty of canceled DLC plans, scrapped assets, and more to dig through.
+For all of Marvel's Wolverine's flaws , many of which are outlined in our review , the wider implications of its story for hardcore Marvel fans is not one of them. While players unfamiliar with the canonical universe may find the narrative hooks don't latch on until the later missions, longtime X-Men aficionados will see faces such as Bolivar Trask, Nathaniel Essex, and Omega Red during the game's opening mission and know they're in for an authentic ride.
 
-### Far Cry TV Show Taps Widow’s Bay Actor and More
-Fri, 18 Sep 2026 14:33:05 GMT — https://www.polygon.com/far-cry-tv-show-fx-cast-widows-bay-hamish-linklater-brendan-gleeson/
+### 'Reacher' Star in Talks to Lead 'Helldivers' Movie
+Fri, 18 Sep 2026 18:35:29 GMT — https://www.polygon.com/helldivers-movie-alan-ritchinson-reacher-starring/
 
-While video game adaptations are nothing new in television and film, it feels like it has become the hot thing in recent years. Part of that might be due to the overwhelmingly positive reaction to HBO's The Last of Us , at least the first season. Now we have Zach Cregger's Resident Evil movie also being well-received by critics and fans alike. Ubisoft and FX are trying to get in on the action with their adaptation of the Far Cry games , which just added even more cast members to a list that includes Steve Buscemi.
+It seems that Reacher star Alan Ritchson is ready to lay down his life for Super Earth. According to Variety, the actor is in talks with Sony to star in a film adaptation of the dystopian sci-fi game series Helldivers . Jason Momoa was previously tapped to headline the flick, but exited the project in early June over “creative differences.”
 
-### Control Resonant Reviews Say Remedy Has Another Hit, but Not Its Best Game
-Fri, 18 Sep 2026 14:24:02 GMT — https://www.polygon.com/control-resonant-review-roundup/
+### 13 Years Later, Brad Pitt is Officially Back for Sequel to His 2013 Zombie Apocalypse Hit
+Fri, 18 Sep 2026 18:31:27 GMT — https://www.polygon.com/world-war-z-sequel-brad-pitt-starring-new-director/
 
-After Remedy's fantastic Alan Wake 2 , expectations were sky-high in the lead up to Control Resonant . The sequel to 2019's Control looked to continue the studio's hot streak with a mind-bending open-world action RPG just in time for an awards season that favors that kind of game. After all that hype, the reviews are finally in, and Remedy did not disappoint, even if it didn't quite leap over the bar set by Alan Wake 2 .
+Brad Pitt is ready for more zombie-filled adventures. On Friday, Paramount Pictures officially announced Pitt will return for a sequel to World War Z , the 2013 zombie apocalypse movie that made over $540 million at the worldwide box office. Edward Berger (All Quiet on the Western Front , Conclave ) has signed on to direct.
 
-### An Oscar-Winning Director and Sam Raimi Are Now Attached to the Roblox Movie
-Fri, 18 Sep 2026 13:17:58 GMT — https://www.polygon.com/99-nights-in-the-forest-movie-sam-raimi-josh-cooley/
+### Is there romance in Fire Emblem Fortune's Weave?
+Fri, 18 Sep 2026 18:19:46 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-romance-paired-endings/
 
-Roblox 's horror survival hit game 99 Nights in the Forest is getting its own movie. While details about the upcoming movie are still scarce, some big names have just been revealed to be attached to the project: Josh Cooley and Sam Raimi.
+Romance in Fire Emblem: Fortune's Weave sounds like a reasonable idea considering the vast roster you can recruit. In the game, the relationship between characters is represented by their support level. As they fight and spend time together in the city, characters' support levels will increase, indicating how intimate they are.
 
-### Control Resonant Fails At Nearly All of Its Ambitions | Review
-Fri, 18 Sep 2026 13:00:15 GMT — https://www.polygon.com/control-resonant-review/
+### Final Fantasy 14 Is Bringing Back a Fan-Favorite Crossover for the First Time in Over Two Years
+Fri, 18 Sep 2026 18:01:23 GMT — https://www.polygon.com/final-fantasy-14-15-crossover-event-nocturne-for-heroes/
 
-As Jesse Faden, players explored the depths of The Oldest House, a government facility filled with supernatural phenomena pulled straight from the X-Files , and staffed by even stranger bureaucrats who study them. The action was serviceable and Jesse's motivations were weak, but the labyrinthian building it all took place in was one of the finest pieces of environmental level design and storytelling in recent years. You were compelled to dig deeper, perhaps by something as paranatural as the objects within The Oldest House.
+It's official, Noctis is returning to Eorzea. Square Enix has officially announced that the Nocturne for Heroes event will once again be available in Final Fantasy 14 for a limited time. Players last experienced the Final Fantasy 15 crossover in 2024.
 
-### Giancarlo Esposito Reveals His Dream 'X-Men' Role After Professor X Casting
-Fri, 18 Sep 2026 12:00:15 GMT — https://www.polygon.com/fans-cast-giancarlo-esposito-as-professor-x-but-hed-rather-be-magneto/
+### 41 Wardogs tips the FPS game doesn't teach you
+Fri, 18 Sep 2026 17:58:04 GMT — https://www.polygon.com/wardogs-tips-tricks-beginners-guide/
 
-In 2022, X-Men fans began circulating photoshopped images of Giancarlo Esposito as Professor Charles Xavier. They imagined the actor best known for villainous roles in Breaking Bad, The Mandalorian and The Gentlemen instead using his gravitas to lead the X-Men. Esposito expressed some enthusiasm for the idea at the time, but now he tells Polygon he's not disappointed that the role in the 2028 X-Men movie instead went to Catch-22 star Christopher Abbott.
+There are countless Wardogs tips and tricks you can incorporate into your playstyle in this brand-new FPS game that is dominating Steam Early Access. This is mostly because the game lets you play in so many different ways. Despite it being a shooter, you can contribute to your team's success and make huge profits without firing a single bullet.
 
-### GTA 6 Will Get Multiplayer After All, According to Twitch CEO
-Fri, 18 Sep 2026 10:53:57 GMT — https://www.polygon.com/gta-6-multiplayer-online-coming-2027-twitch-ceo/
+### Matthew Mercer Officially Reveals His 8 Greatest Critical Role Moments of All Time
+Fri, 18 Sep 2026 17:29:45 GMT — https://www.polygon.com/matthew-mercer-best-critical-role-moments/
 
-Among the many questions still surrounding the most-hyped game of the decade, Grand Theft Auto 6, the one at the forefront of fans' minds is whether they'll be able to play Rockstar's upcoming Florida life-simulation game with their friends. In June, when Rockstar shared GTA 6 's pricing and preorder details, the company emphasized that the game is a "single-player experience." But given how much money GTA Online still makes for them, few people doubt that some form of multiplayer experience will come to the new game too.
+Ask a Critter for their favorite moment in Critical Role , and you're guaranteed a variety of answers across numerous campaigns, miniseries, one-shots, and even live shows. That’s the beauty of Critical Role: there’s so much of it that every fan has beloved moments unique to their experience.
 
-### Every Mainline Resident Evil Game, Ranked From Worst to Best
-Fri, 18 Sep 2026 10:00:14 GMT — https://www.polygon.com/resident-evil-games-ranked/
+### 'Wolverine' Is Sony’s Bestselling Game of 2026, Despite Massive Criticism
+Fri, 18 Sep 2026 17:13:21 GMT — https://www.polygon.com/wolverine-sales-2-million-criticism-controversy/
 
-After decades of misses, we’re finally getting a truly great video game movie adaptation. Well, sort of. Zach Cregger’s take on Resident Evil is a hit among critics who have praised the horror movie for its delightfully playful tone. The only catch is that it doesn’t have much to do with the established lore and characters of the actual Resident Evil games . Instead, it tells its own story in the universe, which is probably for the better considering how complicated the game saga gets.
+Marvel's Wolverine has been getting roasted online. Detractors have mocked the game for its “fart trail” UI hints, overrliance on quick-time events, mind-numbing platforming, and so-so combat. However, despite sitting at 77 on Metacritic, one of the lowest scores for a Sony first-party game in years , it still seems to have sold well out of the gate.
 
-### Solo Leveling's Big 2026 Project Will Explore a Massive Gap in Jinwoo's Life
-Fri, 18 Sep 2026 09:55:41 GMT — https://www.polygon.com/solo-leveling-karma-trailer-story-monarch-war/
+### 9 Years Ago, One Dating Sim Taught Me to Never Trust Dating Sims
+Fri, 18 Sep 2026 17:00:16 GMT — https://www.polygon.com/ddlc-9-years-never-trust-dating-sims/
 
-Few properties have taken the world of entertainment by storm like Solo Leveling . The Korean fantasy web novel written by Chugong was first adapted into a record-breaking webtoon with hundreds of millions of views, and then into an anime produced by A-1 Pictures. The anime's two seasons turned Solo Leveling into a true global entertainment phenomenon, and a follow-up movie is in the works . But while a date for Sung Jinwoo's next on-screen appearance hasn't been announced yet, Solo Leveling's next video game, Solo Leveling: Karma, is coming soon.
+You join a school club at a friend’s invitation. Three girls welcome you in, each a familiar type: the sweet one, the standoffish one, the shy bookworm. You write poems to get closer to whichever one catches your eye, adorable chibi sprites blink and smile, and a gentle piano loop plays underneath as everyone giggles. This is the expected setup for anime dating sims — which are good, and there are many of them! But you’ll soon learn that this is not one of those games. Nine years ago, one title taught its players to stop trusting games like this. Doki Doki Literature Club fooled us all. Be honest: If you’ve played it, have you been able to look at a cute dating sim the same way ever since?
 
-### 53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s
-Fri, 18 Sep 2026 08:30:14 GMT — https://www.polygon.com/53-years-later-roadside-picnic-still-ends-with-one-of-sci-fis-most-enduring-lines/
+### Netflix’s Narnia Reboot Shows First Official Look at Daniel Craig’s Magician
+Fri, 18 Sep 2026 16:51:07 GMT — https://www.polygon.com/chronicles-of-narnia-reboot-netflix-daniel-craig-greta-gerwig/
 
-Every once in a while, I come across a line that feels bigger than the book that birthed it. Of course, there are classics with years of literary study behind them that speak volumes on the nature of society, technology, or the world writ large. But few are quite as elegant or as profoundly humanistic as the final moments of Arkady and Boris Strugatsky’s Roadside Picnic . The 1972 novel offers a very different kind of sci-fi ending than its myriad predecessors and successors.
+After giving audiences their first look at Aslan (who will be played by Meryl Streep), Netflix is sharing even more insight into its Chronicles of Narnia reboot. This time, it has shown off the first official look at Daniel Craig , confirming that he will be playing Andrew Ketterley.
 
 ## PC Gamer
+
+### 'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6
+Fri, 18 Sep 2026 18:22:26 +0000 — https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/
+
+Grand Theft Auto 6 is coming! Not to us on Team PC, mind: It will eventually, but right now it's a strict console exclusive. Why? Hard to say: Publisher Take-Two Interactive has taken pains to reassure PC gamers that they're very important and loved, but also, y'know, not now . The latest reassurance to gamers on personal computers came during Take-Two's annual shareholders meeting, held yesterday, during which Take-Two chairman and CEO Strauss Zelnick was asked about the potential impact of PlayStation 5 Pro shortages —ironically, driven at least in part by the looming launch of GTA 6—on the company's plans for releasing the game on PC. After clarifying that the question is really about "the cadence of PC launches," Zelnick continued, "The strategy of the company is over time, generally speaking, to launch for any platforms for which there's a meaningful audience. But that isn't always the case, and certainly if platforms were no longer viable, we would change that strategy. And I would note that the PC platform is becoming more and more important to our company over time." So, what does that mean? Essentially, that Zelnick doesn't want to talk about it: GTA 6, for better or worse, is a console exclusive, and that's clearly where the studio's focus is. Which isn't to say Zelnick's response isn't confusing, but that's something of an ongoing pattern: In May he said PC can account for up to half the total sales of major game releases, but that GTA 6 is debuting on consoles bec
+
+### I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance
+Fri, 18 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/
+
+Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . In a previous life, long before I began making millions writing about videogames professionally, I wrote marketing copy for a finance firm I still don't really understand. Do you know the fine art of embedding payment iframes in customer payment gateways? I did. Once. Do you know the riotous history of the SWIFT international banking system? What about SEPA? No? What a sheltered life you must lead. My point is this: absolutely nothing is more interesting, cooler, or sexier than finance and banking. We all know it. There was a whole song that was pretty much about just that. And now, I have integrated this glamour into Grand Theft Auto 5. I have installed Realistic Bank System – San Andreas ONE . Exciting times: I can get into debt now. The thrill of thrills is that San Andreas ONE lets you apply for lines of credit in ways that are fascinatingly reminiscent of real life. GTA 5's protagonists even get actual, meaningful credit scores (based on… something) that impact their eligibility to open new lines of the stuff. Franklin's was 680 (Good), in case you're wondering. That gave him a positive soft eligibility for getting a loan. Yes, this thing has soft and hard credit checks. Anyway, I got a $30,000 line of credit and set it 
+
+### I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it
+Fri, 18 Sep 2026 16:05:46 +0000 — https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/
+
+If you're like me, you've probably become increasingly disheartened almost by the day at just how hard it's becoming to distinguish real photos from fake, AI-generated ones. It does not bode well for the future. There are plenty of suggested solutions, but I like one I just learnt about in particular, in the form of the upcoming CAIM1 camera . The company, Caim, says it "is the world's first camera that attests human origin of your moments the second you press record and gives physical and open verifiable proof." Even more surprising than this, though, is where I heard about the camera: Noctua's X page . Yes, the maker of the absolute best fans for your gaming PC apparently also makes the little fan that goes inside this camera. I suppose that explains the colour scheme. The photo on Noctua's X post shows the little fan inside—the sensor that sits in front of it has been removed. It seems the camera itself doesn't come with a lens, either. The company says it's a "BYOL: bring your own lens" kind of deal. Noctua has a separate page explaining how it keeps the camera cool and why it went with the specifc fan it did. The fan in question is the NF-A4x10 5V PWM , which Noctua says "provides a combination of compact dimensions, strong airflow and pressure performance, low-noise operation and precise PWM speed control." "Using a conventional 12 V fan," the company says, "would have required an additional step-up converter." But this would of course take up more room and chew through
+
+### Control Resonant is one of the best-looking games at low graphics settings I've ever seen
+Fri, 18 Sep 2026 16:01:50 +0000 — https://www.pcgamer.com/hardware/graphics-cards/control-resonant-is-one-of-the-best-looking-games-at-low-graphics-settings-ive-ever-seen/
+
+I'll admit it, I'm normally a bit of a graphics settings snob. 25+ years of PC gaming has conditioned me to think that "Low" is an option to be avoided on everything but the most budget of rigs, or the most demanding of games. But I've just finished my early performance and image quality testing of Control Resonant , and it's remarkable how good the open world looks in motion with everything turned down to the minimum. The clip below was recorded at 1080p, Low graphics preset, with ray tracing turned off: I appreciate you're likely viewing this on a phone screen, so it's difficult to get a bead on the details. And the video compression does the clip no favours once you fullscreen it. But those Manhattan streets still look pretty good with all the options cranked down. I think what we're looking at here, more than anything else, is a very strong art style. The details of the buildings remain distinct, the contrast between light and shade as I wind my way around the corners is prominent, and the non-ray traced shimmering puddles still look good. There's a real sense of scale here, too. While the buildings in the background are shrouded in haze to obscure any uglies, they work with the lighting to create a very evocative, atmospheric effect. Here's an image taken at 1440p Low (again, with ray tracing off), to show how the graphics scale with the resolution at these settings. (Image credit: Remedy) And my eye is continually drawn towards the reactivity of the environment. Control
+
+### Unbiased Monster Hunter producer predicts one weapon will climb the popularity rankings in Ascendance, has no agenda: 'Hammer should definitely go up a place or two'
+Fri, 18 Sep 2026 15:00:00 +0000 — https://www.pcgamer.com/games/action/unbiased-monster-hunter-producer-predicts-one-weapon-will-climb-the-popularity-rankings-in-ascendance-has-no-agenda-hammer-should-definitely-go-up-a-place-or-two/
+
+Over the last two weeks, Capcom dropped a parade of weapon breakdown videos showcasing the new Boost Bracer mechanics coming in the Monster Hunter Wilds: Ascendance expansion. Serving as a sort of on-demand sicko mode, the Boost Bracer lets hunters juice their combat actions with additional speed and impact, and adds some deliciously over-the-top attacks to the existing weapon movesets. PC Gamer spoke to some of the lead Monster Hunter developers at TGS to pick their brains about how the Boost Bracer evolves the flow of Monster Hunter combat—and which weapon they expected to gain the most fans with its new moves. Asked what weapon they'd stake 10,000 yen on climbing the popularity rankings in Ascendance, one of the developers had an immediate answer. "Hammer," series producer Ryozo Tsujimoto said without hesitation. "I think the hammer should definitely go up a place or two." As a hammer main myself, my natural inclination is to cosign Tsujimoto's objective appraisal of the weapon's self-evident efficacy, utility, and inherent nobility. But I'm obligated as a journalist to acknowledge that there might be some slight favoritism in play. Tsujimoto, who's worked as Monster Hunter series producer since the release of Monster Hunter Freedom 2 in 2007, has a decades-long record as an avowed hammer diehard. At the 2023 Justdan Game Festival in Taiwan, he revealed his Monster Hunter Rise guild card , which confirmed that he'd used the hammer in each and every one of his 895 completed
 
 ### After 894 hours in Slay the Spire 2, these are our 12 strongest opinions
 Fri, 18 Sep 2026 14:17:30 +0000 — https://www.pcgamer.com/games/card-games/slay-the-spire-2-opinions/
@@ -375,32 +400,47 @@ Fri, 18 Sep 2026 02:44:17 +0000 — https://www.pcgamer.com/gaming-industry/even
 
 PAX Australia returns to the Melbourne Convention and Exhibition Centre in October, and this year's Expo Floor promises to be packed with playable games. For starters Sega will have four games to try including Total War: Warhammer 40,000 with three playable scenarios, as well as Alien: Isolation 2, Persona 4 Revival, and Yakuza's noir prequel Stranger Than Heaven. Call of Duty: Modern Warfare 4's multiplayer will also be playable ahead of its October 23 launch. Square Enix's booth will have a hands-on opportunity for players to try Final Fantasy 14 on Switch 2, then create a bracelet and take a themed photo. FF14's localization director Michael-Christopher Koji Fox and global community producer Toshio 'Foxclon' Murouchi will be taking part in a behind-the-scenes panel where they endure a hot sauce challenge while sharing war stories. Attendees will get an early peak at Final Fantasy 7 Revelation at a special showcase too. The Ubisoft Community Esports stages will host Rainbow Six Siege competitions, an Assassin's Creed sea shanty singalong, the Ubisoft Cosplay Runway, and a Just Dance-Along, among other events. PAX Australia runs from October 9–11, and badges are on sale at the official website . I'll be spending most of the weekend at the PAX Rising indie showcase trying to play as many of the more than 90 indie games on show as I can. There's plenty more worth checking out on the full schedule . Best Warhammer games : Fantasy epics Best Warhammer 40K games : The complete ra
 
-### GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray
-Fri, 18 Sep 2026 01:19:18 +0000 — https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/
-
-Judging by the November release schedule, few publishers will dare release within spitting distance of GTA 6. Which is understandable, but it's caused a massive bottleneck in October: Ace Combat 8, Gears of War: E-Day, Star Wars: Galactic Racer and Modern Warfare 4 will all release next month. And that's not including all the other anticipated games not under the wings of a major publisher. I'm talking about a new Hellraiser game, Silver Pines, Jonathan Blow's next one, Planet Zoo 2, a remaster of Tales of Eternia, and the 1.0 launch of Enshrouded. There's even a new Final Fantasy 2D-HD remake. Joining this fray will be Valor Mortis, a new first-person soulsike ( their words ) by the creators of the Ghostrunner series. It looks better than the concept sounds: a recent demo was well-received, mostly because it seems to nail first-person melee combat, which is famously hard to get right. I wouldn't dare predict how well or otherwise Valor Mortis will sell when it releases on October 13, but it certainly has its work cut out for it. Its publisher Lyrical Games is well aware of this, as CEO Blake Rochkind told The Game Business in a recent interview. "By virtue of the development schedule, the cards we’ve been dealt is that we are one of the only new IPs launching this fall," Rochkind said. "We are pretty confident in Valor Mortis. But ultimately, the worst thing we could do is not push our chips in and say, ‘We want this to be a game that you can pick up alongside these other gr
-
-### PSA: You can customize Valheim sign text for color-coded storage chests without downloading a single mod
-Fri, 18 Sep 2026 00:55:56 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-sign-text-codes/
-
-Much to my embarrassment, while I was mid-complaint about my new wall of Valheim storage chests, a fellow Viking hit me with, "You know you can color code those signs, right?" Duh , of course I know that. Well, I swear I did, but totally forgot about the handy feature that doesn't require a single mod. In case you forgot too, I'm here to remind you—or teach you a quick tip for organizing Valheim storage with colorful text codes for signs . Codes for sign colors (Image credit: Iron Gate Studios) You can change a sign's text color in Valheim through markup codes. For those even vaguely familiar with traditional HTML, you won't need to close these style commands, but keep in mind you still have limited text space on a sign, so keep them short. Color Hex Value Code Red #ff0000ff Red sign Green #008000ff Green sign Blue #0000ffff Blue sign Dark Blue #0000a0ff Dark Blue sign Navy #000080ff Navy sign Aqua #00ffffff Aqua sign Lime #00ff00ff Lime sign Yellow #ffff00ff Yellow sign Orange #ffa500ff Orange sign Magenta #ff00ffff Magenta sign Brown #a52a2aff Brown sign Maroon #800000ff Maroon sign Purple #800080ff Purple sign Silver #c0c0c0ff Silver sign Grey #808080ff Grey sign White #ffffffff White sign You can use any 6-digit hex value, so check out the color code calculator on W3 Docs to find more, or reference the table I used from Unity . It's a fairly straightforward process, but I'll leave you with a few extra color-changing tips: Some of the color names listed above work in place
-
-### Magic: The Gathering's next big crossover is with itself
-Thu, 17 Sep 2026 23:00:31 +0000 — https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-big-crossover-is-with-itself/
-
-Over the last three years, since the Wilds of Eldraine set, Magic: The Gathering's core expansions have been building to a climactic storyline. It's very comic book, a multiverse-threatening crossover that's been set off by the planeswalker Jace Beleren trying to create a new multiverse, one that's free of all the threats Magic's setting has faced in recent years—Phyrexians, Eldrazi, etcetera—but which will overwrite the existing multiverse once it's complete. This sets up a bunch of mirror matches where famous planeswalkers face off against their doppelgangers: the pyromantic Chandra versus a cryomantic version of herself while none-more-goth necromancer Liliana is up against a version of herself who practices life magic and, horrifyingly, wears white. Of course, not everyone playing Magic knows who all these characters are. Tomik Vrona, for instance, is a member of the shady Orzhov Syndicate who excels in finding legal loopholes. If you know him as a lawyer for the magic Mafia, seeing him in Reality Fracture as a sparkmage who delights in breaking not only the laws of the legal system but also physics comes as a bit of a shock. If you don't know all that Tomik lore, it's not going to land as hard. Which is why Reality Fracture's booster packs will give you an echoed pair together. You'll be able to see both versions of Tomik, or Ajani, or whoever at the same time and understand the contrast between them. Wizards of the Coast Wizards of the Coast For me, Magic is often a soc
-
-### If you can't get enough of record-breaking Emmy winner Matthew Rhys, his newest TV series is based on an '80s Sega game, and is out now
-Thu, 17 Sep 2026 22:46:35 +0000 — https://www.pcgamer.com/movies-tv/if-you-cant-get-enough-of-record-breaking-emmy-winner-matthew-rhys-his-newest-tv-series-is-based-on-an-80s-sega-game-and-is-out-now/
-
-Matthew Rhys is having quite a moment. The actor cleaned up at the Emmys on Monday, making history by becoming the first man to win two Emmys for a leading role on the same night (for comedy series Widow's Bay and limited series The Beast in Me). And in doing that, he actually set another record by becoming the only person to receive a lead actor Emmy for all three genres—he'd already won one for drama series The Americans back in 2018. And his moment continues: Rhys actually has yet another new show out this week. Golden Axe is an animated comedy based on the Golden Axe video game series made by Sega way back in 1989. All 10 episodes are streaming now on Paramount+. Joining Rhys, who plays dwarf warrior Gilius Thunderhead, is Danny Pudi (of Community and Mythic Quest) and Liam McIntyre (he played JD Fenix in Gears of War 4). Improv comedy fans will also be thrilled to hear the voice of Lisa Gilroy, playing sorceress Tyris, and Cart Tart, who voices… let me see if I've got this right… a humanoid panther. "In an homage to Sega's iconic 1989 video game, Golden Axe follows legendary warriors Ax Battler, Tyris Flare and Gilius Thunderhead as they reunite to save Yuria from the evil giant Death Adder, who just won't seem to stay dead," says Paramount+. "Their quest is complicated by Hampton Squib, an inexperienced and wildly underprepared adventurer whose dream of heroism far exceeds his abilities. Forced to work together despite their flaws, they must find a way to stop Death Add
-
-### Hideo Kojima announces Bill Skarsgård will star in stealth-action Physint, legendary designer Yoji Shinkawa also confirmed for character design
-Thu, 17 Sep 2026 21:28:59 +0000 — https://www.pcgamer.com/games/action/hideo-kojima-announces-bill-skarsgard-will-star-in-stealth-action-physint-legendary-designer-yoji-shinkawa-also-confirmed-for-character-design/
-
-Hideo Kojima took to his social media channels earlier today to announce Bill Skarsgård as the new lead for his upcoming stealth-action game, Physint. He also reaffirmed some of the game's casting announcements from before it changed hands from PlayStation to Xbox after a seemingly messy split with Sony. Physint's top-billed cast are: Bill Skarsgård Charlee Fraser Don Lee Minami Hambe Alongside the casting announcement, Kojima shared a new poster for Physint featuring Skarsgård, Fraser, and the new tagline "The Next Cold War Begins." Tucked away at the bottom is, perhaps, the most exciting news for me personally: Third-billed on production behind Hideo Kojima and Hideo Kojima is the GOAT, Yoji Shinkawa, on "character and mechanical design." The longtime Kojima collaborator and Metal Gear character artist also worked at Kojima Productions on Death Stranding, but it's comforting to get confirmation he was unaffected by the recent production dust-up. Speaking of Physint's continuity, Fraser, Lee, and Hamabe had all been confirmed in a prior Kojima Productions announcement about Physint's cast. Skarsgård as leading man John Physint (working name) is the only new casting info⁠—though, like with Shinkawa, it's probably worth clarifying after everything that's happened. I was initially disappointed. Based on John Physint's shadowy appearance in the game's first teaser, I was hoping Kojima would spring for Robert Pattinson in the role. He's a known gamer on a bit of an all-time caree
-
 ## GameSpot
+
+### Ex-Naughty Dog Dev Apologizes To God Of War Studio For What He Said About Laufey
+Fri, 18 Sep 2026 18:15:44 +0000 — https://www.gamespot.com/articles/ex-naughty-dog-dev-apologizes-to-god-of-war-studio-for-what-he-said-about-laufey/
+
+Bruce Straley, best known for his work at Naughty Dog on the Uncharted and The Last of Us franchises, has apologized to God of War: Laufey studio Santa Monica Studio, after he said he was "not excited" about what the game was offering, at least in some respects. Straley told Edge that he thinks "every pixel" in Laufey looks "mindblowing and that he is "blown away" by the lengths Santa Monica Studio went to. However, Straley said he is "not excited" by "what you're doing in the game." Beyond Laufey, Straley said he feels there is "no opportunity to inject fresh, innovative ideas" in AAA games generally. A scene from Straley's new game, Coven of the Chickenfoot. In a new statement shared on social media , Straley said, "I want to apologize to the Laufey team for dragging you all into this uninvited and unnecessary negative attention." He said he was trying to make a point about his concerns about the AAA games industry generally, and acknowledged that he made a mistake by naming Laufey specifically. "I have thoughts about what’s wrong & the possible serious harm done to our industry & how we might be able to fix it. But in trying to have a thoughtful conversation I stuck my foot in my mouth & mentioned Laufey, and that was my mistake," he said. Straley said games like Half-Life 2, Gears of War, and BioShock--along with games he worked on, including Uncharted 2 and The Last of Us--"set the 'modern AAA' mold." He said these games felt like "they were trying to creative a new expe
+
+### Very Large Man Could Join Helldivers Movie After A Different Very Large (Aqua)Man Dropped Out
+Fri, 18 Sep 2026 18:14:58 +0000 — https://www.gamespot.com/articles/very-large-man-could-join-helldivers-movie-after-a-different-very-large-aquaman-dropped-out/
+
+Sony's upcoming Helldivers movie remains in development, and now a key piece of news has surfaced. According to Deadline , Reacher star Alan Ritchson will replace Jason Momoa as the lead, following Momoa's departure earlier this year . Justin Lin, known for his work on the Fast & Furious and Star Trek franchises, remains attached to the Helldivers movie as director. Alan Ritchson in Reacher. The movie is set for release in theaters on November 10, 2027. Ritchson is reportedly going to play one of the helldivers, with other cast to be revealed later. Shams Jorjani, the CEO of Helldivers developer Arrowhead, has said he hopes the movie violently kills off celebrities . Beyond the Helldivers movie, Ritchson has said he's a big fan of Activision's Call of Duty franchise and would be up for a role in the upcoming movie . While Momoa won't be in the Helldivers movie, he is set to appear in October's Street Fighter movie as Blanka . Momoa is also coming back for the A Minecraft Movie sequel in 2027 , so he's not hurting for roles in video game movies. Helldivers 2 was released in 2024 and became an enormous success, reportedly selling more than 20 million copies . Arrowhead Studios has said it doesn't, and shouldn't , have final say in how the movie turns out.
+
+### Final Fantasy 7 Revelation Could Take 100 Hours To Beat, And Its Director Has Done It 46 Times
+Fri, 18 Sep 2026 17:33:41 +0000 — https://www.gamespot.com/articles/final-fantasy-7-revelation-could-take-100-hours-to-beat-and-its-director-has-done-it-46-times/
+
+Final Fantasy 7 Revelation is shaping up to be the biggest entry in the remake trilogy by a considerable margin, as game director Naoki Hamaguchi estimates that a complete playthrough of everything that the game has to offer could take up to 100 hours. That includes the campaign, side activities, and endgame content--something that Hamaguchi has experienced dozens of times for himself throughout the development of Revelation. This is all part of the job; to ensure that players enjoy a smooth experience, the developers have to check every part of the game for any potential issues. "In a standard playthrough from beginning to end, if I were to review and check every single asset and element in the game, it'll easily take over a hundred hours," Hamaguchi said to GameSpot. "Obviously, I can't do that in each and every single playthrough. As the director, I don't have enough time for that, so sometimes I would just skip combat and focus on checking the main story. In different playthroughs, I focus on different elements." In total, Hamaguchi said he had completed 46 playthroughs by the time he was interviewed. So how do you get so many game completions under your belt, when the game in question is so lengthy? Hamaguchi explained that he'd devoted all his time to playtesting the game, and he even slipped in a few testing sessions between interviews on the current Final Fantasy 7 Revelation press tour. https://www.youtube.com/watch?v=LRA759MHPJs "I will try to do these playthroughs 
+
+### People Can’t Stop Talking About Mario’s New Tiny Pockets
+Fri, 18 Sep 2026 17:05:12 +0000 — https://www.gamespot.com/articles/people-cant-stop-talking-about-marios-new-tiny-pockets/
+
+Nintendo recently held two Direct presentations back to back, with fans hoping that the company would reveal a new Mario game of some kind. While that didn't happen, what we did get was the reveal that Mario Kart World is getting some new tracks. Now, though, it seems the company has some more Mario news for us: new logos and renders for everyone's favorite mustachioed plumber. It seems that over the last day or so, Nintendo quietly updated the look of the "Super Mario" logo. Honestly, the change is subtle . The colors are the same, just a little less vibrant and a little more gradient. The logo is also on one line instead of stacked, as it has been for the last 30 years or so. The big "change," though, is in Mario's look. In a passing glance, you might not notice anything different. The mustache is still there. The gloves haven't gone anywhere. The hat looks the same. Everything appears to be in order. But look closer. https://twitter.com/Swag_K1RBY/status/2100773081853608419 It's tiny, but on his waist is a ... pocket? Yes, Nintendo added functional pockets to the red plumber's overalls, which is great! I always wondered where those flowers and mushrooms went, and now it makes sense. He just stores them in his small pockets. Unfortunately, if he had a Kingdom Phone--or whatever the smartphone equivalent would be in the Mushroom Kingdom--I'm sure that wouldn't fit in these pockets, especially if it was a foldable device like the newly announced iPhone Duo. I guess Mario can'
+
+### Sony s Iconic PS4 Game-Sharing Meme Has Been Recreated To Capture Our Depressing Future
+Fri, 18 Sep 2026 16:34:11 +0000 — https://www.gamespot.com/articles/sony-iconic-ps4-game-sharing-meme-has-been-recreated-to-capture-our-depressing-future/
+
+Thirteen years ago, Sony "won" E3 with a simple public service announcement that dunked on Microsoft's controversial Xbox One DRM plans. All it took was 22 seconds for Sony's Shuhei Yoshida and Adam Boyes to show how game sharing would work on the PS4, resulting in a huge PR win for the company. Fast-forward to 2026, and at the Tokyo Game Show, Yoshida and Boyes reunited to recreate that meme, but with a big difference: This time, there's no disc to pass between friends. https://twitter.com/yosp/status/2100797688271012195 The original video from Sony--which was infamously put together at the last second--showed just how easy it was for PS4 owners to share physical games, compared with the frequent DRM checks that were initially planned for Xbox One games. Boyes left Sony in 2016, while Yoshida said he was "fired" from his role as SIE worldwide president in 2019, and he departed in 2025 after several years of leading Sony's Independent Developer Initiative. https://youtu.be/kWSIFh8ICaA Things have changed drastically since the two left, as Sony announced several months ago that it would cease production of game discs , an announcement that has not gone over well with its users and third-party partners. Sony's reasoning is that with the lion's share of game sales being digital, it can afford to move toward an all-digital future, which also has several positive knock-on effects for its business. By making its PlayStation Store the only game in town, it can earn more from first-p
+
+### A Lot Of People Are Seemingly Taking Time Off Work To Play GTA 6. Are You?
+Fri, 18 Sep 2026 16:01:31 +0000 — https://www.gamespot.com/articles/a-lot-of-people-are-seemingly-taking-time-off-work-to-play-gta-6-are-you/
+
+BambooHR , a human resources company that provides software-as-a-service for more than 30,000 companies, has released data that suggests people are taking time off to play GTA 6 this November. You might have seen anecdotes online, or even stories from people you know in real life, about skipping work on November 19 to play GTA 6. BambooHR's data, though, shows a more concrete trend. Why work when you can play GTA 6? Using paid time off (PTO) data from active employees in the US, BambooHR found that PTO requests for the third Thursday of November this year--the day that GTA 6 launches--are running 9-17% above historical averages from recent years. This data is consistent "at every checkpoint we can measure," the company said in a memo sent to GameSpot. GTA 6 launches on a Thursday. There is no word on PTO data for the following day, but who wants to go back to work on a Friday? I would theorize people might book that day off, too, but BambooHR didn't share any data for this. A playthrough of the game can take 80 hours to complete , so it's good at least that people can roll right into the weekend and keep playing. BambooHR acknowledged that it cannot definitively say that GTA 6 is the reason for the increased PTO for November 19. However, the company said the data does show a "real, reproducible signal." Who knows? Maybe people are booking time off from work to play Witch the Showdown in early access, which is also releasing that day. Or perhaps people are taking time off work
+
+### Nintendo Says We re Still At The Beginning Of The Switch 2 Story
+Fri, 18 Sep 2026 15:10:59 +0000 — https://www.gamespot.com/articles/nintendo-says-were-still-at-the-beginning-of-the-switch-2-story/
+
+The Switch 2 is a little over a year old, and unsurprisingly, Nintendo says that its console is just getting started. In a new interview, Nintendo of America president and COO Devon Pritchard teased a multiyear plan for the company, revolving not only around producing video games but also expanding its IP into other forms of entertainment. "We're at the beginning of Nintendo Switch 2," Pritchard said to Variety . "This is just beginning, and we've already had some really wonderful experiences, both ours and third-party, come to the table, and I can't wait to see what the system is going to do and what our talented developers will bring to the table. But again, those partnerships and touchpoints with companies like Sony and Sony Pictures around how we can bring those experiences more broadly to not only our current players and fans but to new ones, I think that's one of the most exciting things for us over the next few years." While video game hardware from Nintendo and its competitors typically had a shelf life of around five years, those days are long gone. The Switch launched in 2017 and was around well into the 2020s before the Switch 2 arrived in mid-2025. Nintendo was aware of the potential longevity of its console as far back as 2018, and in 2022, Nintendo president Shuntaro Furukawa said that the Switch had only reached the halfway point of its life-cycle. https://www.youtube.com/watch?v=O3ksQeOLW6A The console is still being sold alongside the Switch 2, and thanks to 
+
+### Sony Says Free TV On PS5 Is One Plus One Equaling A Lot More Than Two
+Fri, 18 Sep 2026 14:43:44 +0000 — https://www.gamespot.com/articles/sony-says-free-tv-on-ps5-is-one-plus-one-equaling-a-lot-more-than-two/
+
+Sony recently launched "Live TV on PS5," an offering that gives all PlayStation 5 owners access to 100+ channels of free ad-supported TV and movies. Keith Le Goy, the chairman of Sony Pictures TV, recently discussed the reasoning behind launching the service and why he believes it represents "one plus one equaling a lot more than two." Speaking to Variety , Le Goy said PS5 already has 40-50 million people who are "incredibly engaged" with gaming, but also love movies and TV shows. Therefore, he said the company saw an opportunity to target these people, who might not otherwise watch linear TV. He said this is a "very hard-to-reach audience," and also one that is "very attractive" to advertisers. https://www.youtube.com/watch?v=txpaWqfcFFU People can watch anything on the Live TV on PS5 platform for free, in exchange for sitting through ads. It works similarly to other free ad-supported streaming television (FAST) services, including Tubi, Roku, and Pluto. As with most things in life, Live TV on PS5 came about in part to make money, and Le Goy said he believes Sony can achieve big success here, if it executes. “So if we can give that audience something that they’re going to like in an environment that they are comfortable with, give our channel partners an audience that they are going to be going after and give their advertisers an audience that’s valuable for them," he said. "That is one plus one equaling a lot more than two." The executive went on to say Sony is uniquely pos
 
 ### Blacksmiths Discover Control Resonant s Massive Hammer Is Simply Too Much Hammer
 Fri, 18 Sep 2026 13:58:45 +0000 — https://www.gamespot.com/articles/blacksmiths-discover-control-resonant-massive-hammer-is-simply-too-much-hammer/
@@ -422,47 +462,27 @@ Fri, 18 Sep 2026 09:58:00 +0000 — https://www.gamespot.com/articles/new-gta-5-
 
 A huge batch of previously leaked Rockstar files has resurfaced online, giving players a new look at Grand Theft Auto 5' s canceled content, including a surprisingly massive Liberty City expansion and the long-rumored Agent Trevor DLC. The files reportedly total around 192GB, dwarfing the roughly 4GB collection of GTA 5 source code material that surfaced publicly in 2023. GTA modder TJGM has been digging through the newly accessible files and has already highlighted several discoveries, including cut dialogue, canceled missions, development tools, and assets from Rockstar's planned single-player expansions. One of the biggest discoveries so far is a look at the Liberty City expansion that Rockstar had planned for GTA 5, but ultimately was canned. TJGM shared an outline of the Liberty City expansion, reconstructed using shoreline data contained in the files. The map appears substantially larger than the Liberty City featured in GTA 4. "The outline of this map is drawn based on where shorelines are," TJGM explained, noting that the files also contain zones associated with shoreline audio. The discovery provides a clearer picture of how ambitious Rockstar's plans were for bringing Liberty City into GTA 5. Trevor could have had a James Bond-style mission. Another file reportedly contains a development zone that suggests Rockstar had begun setting up additional terrain for the expansion. The presence of the map outline and audio zones could indicate that development progressed con
 
-### GTA 6 Will Feature The Next Evolution Of In-Game Radio, Rockstar Says
-Thu, 17 Sep 2026 19:17:49 +0000 — https://www.gamespot.com/articles/gta-6-will-feature-the-next-evolution-of-in-game-radio-rockstar-says/
-
-Tucked away at the bottom of Rockstar's blog post today announcing GTA 6: The Album was a line about other updates to come for the game regarding its sound and music. Rockstar said fans should "stay tuned for more details about the music of GTA 6," and specifically the game's "dynamic score." Additionally, Rockstar teased that GTA 6 will feature the "next evolution of in-game radio, and more." This does not tell us a whole lot. However, it was previously rumored that GTA 6 will feature people like DJ Khaled hosting his own in-game radio station . Drake, meanwhile, may have his own station, too . Beyond this, another unconfirmed rumor claimed that Rockstar will allow Spotify subscribers to import their own playlists into GTA 6. A previous trailer for GTA 6 showed Lucia wearing earbuds. People theorized that this could mean players will be able to listen to music while walking around, instead of only while driving. Lucia and Jason in GTA 6. Spotify has been heavily promoting GTA 6 already , so the two companies are clearly already working together, but it remains to be seen how deep the partnership might be. In any event, the GTA series is known for its music and artist collaborations, so it would be no surprise to see Rockstar up the ante with GTA 6. The upcoming GTA 6 album features 34 songs written for GTA 6, including new music from Keith Richards and Travis Scott . GTA 6 launches on November 19 for PS5 and Xbox Series X|S, with a PC edition expected to follow sometime late
-
-### Scientists Discovered A New Cat Before Rockstar Could Finish GTA 6
-Thu, 17 Sep 2026 18:53:17 +0000 — https://www.gamespot.com/articles/scientists-discovered-a-new-cat-before-rockstar-could-finish-gta-6/
-
-Rockstar's Grand Theft Auto 6 has been in development since 2015 , and a lot of things have happened since then, including the recent discovery a new species of cat. The scientific journal Current Biology disclosed the discovery of Leopardus tilcayo--known as the tilcayo tiger cat--this week. The adorable little creature is smaller than your typical housecat, featuring spots and round ears. According to the discovery, the cat species was found in the Bolivian Yungas forest. The tilcayo tiger cat is the first new cat species discovered in over 100 years. https://twitter.com/NatGeo/status/2100601922168209413 Paola Nogales-Ascarrunz, a co-author of the report, told NBC News that it is currently unknown how many of the cats remain in the wild. She said she discovered the cat basically by accident. She volunteers at a wildlife rehab facility close to La Paz, Bolivia and noticed a tiny cat that she thought was a kitten. The cat was brought to the facility by a man who was caring for it, feeding it rice and eggs, and later giving it up when he was unable to care for it. Genetic testing was undertaken, and it was discovered that it was indeed a brand-new species of cat never before discovered or documented. As for more gaming-related things that have happened since GTA 5 came out, GameSpot recently assembled a collection of some of the biggest news stories, including Halo coming to PlayStation, the release of 15+ Call of Duty games, the entire run of Phil Spencer as Xbox CEO , and mo
-
-### Roblox Movie 99 Nights In The Forest Brings On Oscar-Winning Toy Story 4 Director
-Thu, 17 Sep 2026 18:22:15 +0000 — https://www.gamespot.com/articles/roblox-movie-99-nights-in-the-forest-brings-on-oscar-winning-toy-story-4-director/
-
-The upcoming 99 Nights in the Forest movie, based on the super-popular Roblox survival-horror game, has reportedly brought on a very big name. According to The Hollywood Reporter , 20th Century Studios--which is owned by Disney--has hired Josh Cooley to write the script. Cooley directed the Oscar-winning Pixar movie Toy Story 4. He also earned an Academy Award nomination for Inside Out. Beyond Disney movies, Cooley directed Transformers One. 99 Nights in the Forest is coming to the big screen. 99 Nights in the Forest is developed by Grandma's Favourite Games and exists on the Roblox platform. It remains one of the platform's most popular games , boasting nearly 150,000 players right this moment. 20th Century bought the rights earlier this year following what was reported to have been a "competitive" dealmaking process. A survival game, 99 Nights in the Forest has players trying to survive for 99 nights in a haunted forest as they fight monsters and save missing children. The developers behind the game–Alec Kieft, Matthew Hufton, and Cameron Angland–will be executive producers for the movie. 20th Century was also behind the Hitman and Assassin's Creed movies, so 99 Nights in the Forest is not the studio's first video game film. 99 Nights in the Forest is also not the first game hosted on Roblox to get a movie deal, as Grow a Garden and Steal a Brainrot also landed Hollywood development deals.
-
-### Street Fighter Movie s Popcorn Bucket Is Absolutely Perfect. No Notes.
-Thu, 17 Sep 2026 17:55:30 +0000 — https://www.gamespot.com/articles/street-fighter-movies-popcorn-bucket-is-absolutely-perfect-no-notes/
-
-Popcorn buckets for movies are all the rage today. Basically every big movie has one. But they aren't all created equally. One popcorn bucket that looks like it could be the best one yet is for this October's Street Fighter movie. Revealed today by Cody Rhodes, the Street Fighter popcorn bucket, which will be exclusive to AMC locations, is modeled after his character Guile's epic hair. The popcorn goes in the bucket, and then you can put it on your head and grab the popcorn from up there. Or you can plop it in your lap and eat the popcorn normally. In a word, the popcorn bucket is perfect . If you need three words, Rhodes said the popcorn bucket is "aerodynamic, ergonomic, delicious." Check out the glorious announcement video for the Street Fighter popcorn bucket below. https://twitter.com/CodyRhodes/status/2100619500072686014 Tickets for the Street Fighter movie go on sale this coming Monday, September, 21. Presumably that's also when people can reserve one of these popcorn buckets, so the price should be revealed soon. The Street Fighter movie releases in theaters on October 16. In addition to Rhodes as Guile, the film features Noah Centineo as Ken, Andrew Koji as Ryu, Roman Reigns as Akuma, Jason Momoa as Blanka, 50 Cent as Balrog, David Dastmalchian as M. Bison, and Eric Andre as Don Sauvage. The film is directed by Kitao Sakurai, who is known for his work on The Eric Andre Show, Twisted Metal, and Beef. While the Street Fighter movie isn't releasing until October, the ne
-
-### Gears Of War: E-Day On PC Won t Let You Play Without A Ray Tracing-Capable GPU
-Thu, 17 Sep 2026 17:17:52 +0000 — https://www.gamespot.com/articles/gears-of-war-e-day-on-pc-wont-let-you-play-without-a-ray-tracing-capable-gpu/
-
-Ahead of its release next month, the official PC specs for Gears of War: E-Day have been revealed. The next game in the series has looked good in recent previews, and if you're aiming to reach a high level of fidelity, you're going to need some fairly chunky PC hardware for 4K gibs and perfect reloads. The good news is that no matter which graphics preset you choose, you'll only need 16GB of RAM--welcome news considering just how much memory costs in the current tech climate. One thing worth pointing out is that graphics cards without dedicated ray-tracing hardware aren't supported. It's not the first time this has been the case--Indiana Jones and the Great Circle being a prime example--but it does create a hard generational lock for interested players. By making ray-tracing hardware a baseline requirement, the game completely phases out massively popular GPUs like the GTX 1060 or AMD's RX 5000 series, making the RTX 2060 the absolute minimum threshold for playing the new Gears of War. Developer The Coalition says it has continued to iterate and improve PC stability and performance across a wide range of hardware configurations since July, and if you're aiming to run the game at 1080p and 60fps, you'll need a GPU like an Nvidia GeForce RTX 2060, an entry-level RTX 5050, or an AMD Radeon RX 6600 with 6GB of VRAM. Hitting the 1440p 60fps sweet spot increases the hardware requirements to GPUs with 8GB of VRAM, while running the game at 4K 60fps means you'll need a GeForce RTX 50
-
-### I Played WoW: Forever On A Controller, And That s Big News
-Thu, 17 Sep 2026 15:59:04 +0000 — https://www.gamespot.com/articles/i-played-wow-forever-on-a-controller-and-thats-big-news/
-
-World of Warcraft: Forever , Blizzard's next evolution of WoW Classic that will see significant changes and content additions, is fully playable on controller. I got to experience WoW: Forever's new Skyborne elf starting zone with the control scheme during a hands-on demo at BlizzCon 2026 . A prompt outlining the controls noted controller support was in an "alpha" state, but despite supposedly still being in early development, it worked surprisingly well. That's a first for Blizzard's MMORPG. Though Blizzard has added barebones support for controllers in recent years, an entirely mouse-and-keyboard-free setup relies on unofficial, player-made add-ons like ConsolePort to deliver a true console-like experience. https://www.youtube.com/watch?v=uQuKE0KDgiM From what I played at BlizzCon, Blizzard adding a fully featured controller option could be a game-changer. Despite having played WoW on a mouse and keyboard for 22 years, I was shocked at how natural it felt. Cycling through friendly or enemy NPCs is done with the shoulder buttons. Interacting and jumping are done with the face buttons. Abilities and spells are bound to both the d-pad and the face buttons, with additional keybinds accessible by pressing one or both triggers. Each trigger provides access to eight keybinds, with another eight from holding down both triggers at the same time. Combined with the d-pad, you have 28 buttons at your fingertips. That sounds like a lot of buttons, but in some scenarios, particularly in 
-
-### GTA 6 Multiplayer Could Launch In 2027, Twitch CEO Says
-Thu, 17 Sep 2026 15:42:53 +0000 — https://www.gamespot.com/articles/gta-6-multiplayer-could-launch-in-2027-twitch-ceo-says/
-
-Rockstar has described GTA 6 as a "single-player experience," but everyone expects the game to eventually include a multiplayer element given the enormous success of the existing GTA Online. But when could GTA 6's online multiplayer release? According to Twitch CEO Dan Clancy, fans can expect it sometime in 2027. He said this in an interview with Bloomberg ( via IGN ), saying Twitch spent "a lot of time talking with Rockstar about their plans." He said Twitch stands to benefit from GTA 6's release, too, because content creators will flock to it and stream footage on Twitch. But Clancy theorized an "even bigger" bump to Twitch numbers could come in 2027 "when they launch multiplayer." GTA 6 launches in November. To be sure, Rockstar has not announced anything at all related to multiplayer support for GTA 6. Given that Clancy said his teams had been engaged with Rockstar, his comments come across as more than just random guesswork. GTA 5 also did not launch with multiplayer support. The game released on September 17, 2013, with GTA Online debuting a few weeks later . What Clancy is suggesting is a longer period between the single-player and multiplayer releases. GTA Online has been enormously successful, bringing in lots of money from microtransactions over the years. The game has a dedicated fanbase of passionate players, which might make it challenging for Rockstar to convince people to move on to a new version . GTA 6 releases on November 19 for PS5 and Xbox Series X|S. A PC
-
-### GTA 6 Boss Says PC Is Becoming More And More Important
-Thu, 17 Sep 2026 15:23:56 +0000 — https://www.gamespot.com/articles/gta-6-boss-says-pc-is-becoming-more-and-more-important/
-
-Rockstar's Grand Theft Auto 6 launches in November for PlayStation 5 and Xbox Series X|S, but is it also going to release on PC? It won't at launch, but history suggests it will come to PC further down the track. Now, Take-Two boss Strauss Zelnick has commented on the company's approach to PC releases generally. At the company's virtual shareholder meeting today , as reported by GamesRadar , Zelnick said Take-Two's general approach is that the company will put out games "for any platforms for which there is a meaningful audience." Intriguingly, Zelnick went on to say that, "the PC is becoming more and more important to our company over time." Again, he was not talking about GTA 6 here, but rather Take-Two's approach to PC generally. In any event, these comments only further the idea that it's a matter of when, not if, GTA 6 comes to PC (of course). Historical precedent for Rockstar's PC releases Rockstar's latest releases, including Red Dead Redemption 2 (2018) and Grand Theft Auto 5 (2013) launched first on console and later came to PC. GTA 5 came to PC in April 2015, which was 18 months after the game originally launched on console in September 2013. Red Dead Redemption 2, meanwhile, came to PC faster. The game's PC edition released in November 2019, which was just about a year after the game debuted on console in October 2018. What does it all mean for GTA 6? We don't know, but it's a safe bet that GTA 6 will eventually come to PC, and people should likely expect to wait a
-
 ## Rock Paper Shotgun
+
+### In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch
+Fri, 18 Sep 2026 16:43:02 +0000 — https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch
+
+From the buzzing tube lights of TGS 2026 emerges Tokyo Walled City, a (deep breath) "stealth action retro-cyberpunk immersive sim with survival horror and RPG elements" in development at indie outfit Grim Ronin. Hey, I like most of those things, and I like rainy, neon Japanese streets , so let&rsquo;s have a crack at covering an independent imsim without mentioning Gloomwood . Ah, dammit. Read more
+
+### Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month
+Fri, 18 Sep 2026 16:04:09 +0000 — https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month
+
+Brendy (RPS in peace) liked Keep Driving . Nic (RPS in peace) liked Keep Driving. I (RPS still alive) liked Keep Driving. Julian (RPS currently boss) liked Keep Driving. You, reader, should play road trip RPG Keep Driving if you haven't already. A good excuse to do so is the fact that it's getting official mod support via the Steam Workshop on September 28th. Read more
+
+### Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser
+Fri, 18 Sep 2026 15:30:00 +0000 — https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser
+
+The European Commission proposed new rules around how under-15s access the likes of social media, AI chatbots, and online video games earlier this week . The draft legislation is called the EU Kids Act and calls for the setting up of a tiered system governing the types of accounts children under 15 can create to access such services, enforced by mandatory age verification for all users. The documents laying out the proposal have been officially released, and based on the current wording the Commission have used to define what they class as an online game, it seems single player games that rely on online platforms like Steam for updates, distribution, or even a one-time authentication could be caught in the crossfire. That is, unless the definition is tightened up before the law is set in stone, if it indeed it makes it that far. Read more
+
+### Roman Sands RE:Build review: A unique and obliterating blend of resort sim, engineering horror and alchemic ritual
+Fri, 18 Sep 2026 15:00:00 +0000 — https://www.rockpapershotgun.com/roman-sands-rebuild-review
+
+I completed Roman Sands RE:Build late last night, and haven't had nearly enough time to digest it, but I'm keen to help get the word out and energise whatever algorithmic chicanery might contribute to this gorgeous, ugly thing making money. So! Roman Sands RE:Build is two exquisitely grim games locked in a collapsing binary orbit. You should play it, preferably before reading the rest of this review, which is only going to spoil and dilute its squalid magic. Read more
 
 ### Denuvo are suing a prolific cracker for bypassing their DRM on 26 videogames, despite not knowing their real identity
 Fri, 18 Sep 2026 13:58:39 +0000 — https://www.rockpapershotgun.com/denuvo-are-suing-a-prolific-cracker-for-bypassing-their-drm-on-26-videogames-despite-not-knowing-their-real-identity
@@ -503,24 +523,4 @@ Despite Rockstar Games' silence on the matter, the cat rather seems to be out of
 Thu, 17 Sep 2026 14:26:54 +0000 — https://www.rockpapershotgun.com/three-different-4x-strategy-games-three-different-solutions-to-that-inherent-problem-of-disappearing-exploration
 
 There is an issue in 4X games. In fact, it's so persistent, that Amplitude Studios' co-founder and CEO Romain de Waubert de Genlis describes it as an "inherent problem", one his team have been attempting to solve since the first Endless Legend released back in 2014. "One of the X's, 'explore', disappears after a while," de Waubert de Genlis explains. You've discovered the map for one thing, so there is no more world to uncover. But 'explore' can also refer to something more abstract, your strategy becomes fixed. Because you can see the lands, and you can see the resources, and you can see the enemies you face, you must decide on a course of action and there will rarely be much reason to change it. But spotting the problematic 'X' is far simpler than fixing it. Read more
-
-### "If the player trusts you enough, they are not going to savescum": Why the makers of some of the best RPGs on PC want you to get used to failing
-Thu, 17 Sep 2026 13:00:00 +0000 — https://www.rockpapershotgun.com/if-the-player-trusts-you-enough-they-are-not-going-to-savescum-why-the-makers-of-some-of-the-best-rpgs-on-pc-want-you-to-get-used-to-failing
-
-When it comes to RPGs, I am an irredeemable savescummer. I admit it. I'll slam F9 at the drop of a hat (perhaps the hat was dropped as a result of a failed dexterity roll. Unacceptable. Reload). So when I recently found myself reloading a Divinity 2 save for the umpteenth time in a single session, I started to wonder - in a genre that's supposedly about storytelling first and foremost, why am I viewing botched persuasion checks as something to be studiously avoided? And why is it that I feel totally different about making a horrible mess of things in tabletop roleplaying games? After all, some of my fondest memories of real-life roleplaying are moments of extravagant failure: sometimes of the bathetic stepping-on-a-rake-instead-of-slaying-the-necromancer variety, and sometimes of the much more grounded, human, and affecting type. It all got me thinking: how do RPG developers think about player failure? Would they recognise the distinction between digital and tabletop that I'm describing? And can they convince a savescummer like me to renounce my ways? Read more
-
-### "We will not force it": The Blood of Dawnwalker's sequel might drop the timer mechanics, says director, but I hope they stick around
-Thu, 17 Sep 2026 10:34:18 +0000 — https://www.rockpapershotgun.com/we-will-not-force-it-the-blood-of-dawnwalkers-sequel-might-drop-the-timer-mechanics-says-director-but-i-hope-they-stick-around
-
-If you've given The Blood of Dawnwalker a go, odds are you've got thoughts about the 30-day and 3-night timer it applies to Coen's quest to save his family from fate most vampy. Devs Rebel Wolves are very much aware of how divisive the feature's proven, and now the game's director's made clear that it's not guaranteed to return in future entries unless it can be made to mesh with the story being told. Read more
-
-### Guild Wars 3 dev wants you to be able to take a break for months at a time and know you're "not going to be left behind"
-Thu, 17 Sep 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/guild-wars-3-dev-wants-you-to-be-able-to-take-a-break-for-months-at-a-time-and-know-youre-not-going-to-be-left-behind
-
-Colin Johanson doesn't think the MMO is dying. He would say that: he's the studio head of Arenanet, the team behind the Guild Wars series. He's also talking to me directly after showing off combat and movement in the team's next MMO, Guild Wars 3. That said, what is more unexpected is that he says the genre is "as big as it's ever been." You just need to expand your definition of an MMO. Read more
-
-### Helldivers 2 and Horizon Forbidden West delisted from Steam in the UK, Sony say they're "working with Valve to address the issue"
-Thu, 17 Sep 2026 09:03:28 +0000 — https://www.rockpapershotgun.com/helldivers-2-and-horizon-forbidden-west-delisted-from-steam-in-the-uk-sony-say-theyre-working-with-valve-to-address-the-issue
-
-Helldivers 2 and Horizon Forbidden West have disappeared from the Steam store in the UK, something that's happened rather out of nowhere and looks like it might've even taken publishers PlayStation by surprise. Said publishers have issued a statement noting that they've already reached out to Valve to get the games back up. Read more
 

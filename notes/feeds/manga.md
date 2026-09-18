@@ -1,14 +1,34 @@
-# Manga — harvested 2026-09-18T14:38:37.738Z
+# Manga — harvested 2026-09-18T19:11:17.525Z
 
 ## Anime News Network
 
+### Viz Media, Japan Society Screen World Premiere of Hirayasumi Anime on October 7
+Fri, 18 Sep 2026 14:45:58 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/viz-media-japan-society-screen-world-premiere-of-hirayasumi-anime-on-october-7/.241950
+
+Anime's 1st episode screens in NYC ahead of January 2027 premiere
+
+### Announcing ANN in Japan 2027 Tour
+Fri, 18 Sep 2026 13:56:04 -0400 — https://www.animenewsnetwork.com/site-news/2026-09-18/announcing-ann-in-japan-2027-tour/.241949
+
+Anime News Network is going to Japan again, and we want to bring you with us. Join us as we weave through the greater Tokyo/Kanto area, visiting many of the same spots anime producers and manga editors have visited to create the setting for their projects. Not enough? We'll be going to Kyoto, Kobe, Osaka and more!
+
+### Your Anime Rankings - Best of Summer 2026, Sep 9-15
+Fri, 18 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.241948
+
+<cite>Goodbye, Lara</cite> finally grabs the #1 spot this week after hovering near it all season. Meanwhile, <cite>Iruma-kun</cite> and <cite>Iron Wok Jan</cite> have come a long way since the beginning of the season.
+
+### My Anime 3.0 Public Beta Released
+Fri, 18 Sep 2026 10:51:17 -0400 — https://www.animenewsnetwork.com/site-news/2026-09-18/my-anime-3.0-public-beta-released/.241777
+
+ANN is happy to announce the public release of My Anime 3.0 Beta. We would love your feedback on what we've built so far, as well as suggestions for new features we should add.
+
 ### Five Anime Based on Adult Games You Should Watch
-Fri, 18 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-16/five-anime-based-on-adult-games-you-should-watch/.241449
+Fri, 18 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-18/five-anime-based-on-adult-games-you-should-watch/.241449
 
 Did you know some of your favorite anime got their start as adult games?
 
 ### This Week in Games - Level-5 CEO's Stands by Generative AI, and a Preview of Harvest Moon: Echoes of Teradea
-Fri, 18 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-09-17/level-5-ceo-stands-by-generative-ai-and-a-preview-of-harvest-moon-echoes-of-teradea/.241829
+Fri, 18 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-09-18/level-5-ceo-stands-by-generative-ai-and-a-preview-of-harvest-moon-echoes-of-teradea/.241829
 
 It's time to go back to the farm with the new <i>Harvest Moon</i> game, which is mercifully free of the AI controversy over at Level-5.
 
@@ -41,26 +61,6 @@ Updated game to launch for PS5, to include newly added enhancements for console
 Fri, 18 Sep 2026 08:01:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/even-the-student-council-has-its-holes-tv-anime-reveals-ending-theme-in-2nd-main-promo-video/.241945
 
 Akari Nanawo performs ending theme for series debuting on October 3
-
-### Fate/Extra Record Feels Like Persona Meets Slay the Spire
-Fri, 18 Sep 2026 08:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/fate-extra-record-feels-like-persona-meets-slay-the-spire/.241602
-
-If card-based battle systems and heroes from myth and legend are your jam, have I got the game for you.
-
-### The Salty Koharu Has a Soft Spot for Me TV Anime Reveals October 6 Debut in Video
-Fri, 18 Sep 2026 07:56:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/the-salty-koharu-has-a-soft-spot-for-me-tv-anime-reveals-october-6-debut-in-video/.241944
-
-Masayoshi Ōishi, HoneyWorks feat. Hoshikawa Sara perform theme songs
-
-### 'Are You a Landmine, Chihara-san?' TV Anime's Teaser Trailer Streamed
-Fri, 18 Sep 2026 07:05:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/are-you-a-landmine-chihara-san-tv-anime-teaser-trailer-streamed/.241943
-
-Anime debuts in January 2027 following delayu
-
-### Relive Your FF7 Trauma in Tokyo Game Show Photo Op
-Fri, 18 Sep 2026 07:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-18/relive-your-ff7-trauma-in-tokyo-game-show-photo-op/.241940
-
-Or try to change the fate of Gaia and protect Aerith from Sephiroth
 
 ## Crunchyroll News
 
@@ -149,11 +149,6 @@ The official website for the television anime adaptation of Oreco Tachibana s Ho
 Thu, 17 Sep 2026 08:10:16 -0700 — https://myanimelist.net/news/74730180?_location=rss
 
 Production company Bandai Namco Filmworks opened an official website for a television anime adaptation of Natsu Hyuuga and Modomu Akagawara s Kamisama Gakkou no Ochikobore (The Failure at God School) manga on Friday, revealing a teaser visual (pictured). Hyuuga and Akagawara began serializing the fantasy shoujo manga in Hana to Yume magazine in August 2021. Hakusensha published the 14th volume on May 20, with the 15th volume scheduled for a September 18 release. The manga has a cumulative 1...
-
-### Japan-French Co-Production Aoki Denshou Welsh & Shedar Announced for Fall 2026
-Wed, 16 Sep 2026 07:58:20 -0700 — https://myanimelist.net/news/74727107?_location=rss
-
-An official website opened for an original television anime co-produced by Japan and France titled Aoki Denshou Welsh &amp; Shedar, and it revealed the main cast, staff, and a key visual (pictured) on Wednesday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Voice actors Rikuya Yasuda (Mayonaka Heart Tune) and Yuuki Kaji (Shingeki no Kyojin) are starring as Welsh and Shedar, respectively. Staff Director: Naoki Horiuchi (Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemash...
 
 ## Otaku USA
 

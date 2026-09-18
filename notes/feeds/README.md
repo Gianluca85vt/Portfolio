@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-18T14:38:37.738Z
+# Source feeds — harvested 2026-09-18T19:11:17.525Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -15,7 +15,6 @@ Already aired, so a round-up rather than a preview:
 
 - Game Developer — gamescom
 - Game Developer — Tokyo Game Show (TGS)
-- Anime News Network — Relive Your FF7 Trauma in Tokyo Game Show Photo Op
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -37,13 +36,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 31 items
+- [Manga](manga.md) **owed** — 30 items
 - [Games](games.md) — 104 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 15 items
-- [AI](ai.md) — 4 items
+- [3D](3d.md) — 16 items
+- [AI](ai.md) — 2 items
 - [Film & TV](film-tv.md) — 67 items
 
-Total: 303 items.
+Total: 301 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

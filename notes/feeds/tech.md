@@ -1,16 +1,31 @@
-# Tech — harvested 2026-09-18T14:38:37.738Z
+# Tech — harvested 2026-09-18T19:11:17.525Z
 
 ## Ars Technica
+
+### Meet the winner of Nikon's Small World in Motion video contest
+Fri, 18 Sep 2026 13:56:57 +0000 — https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/
+
+Abnormal beating of airway cilia from a child with Primary Ciliary Dyskinesia, a genetic disorder affecting respiratory function. Credit: Ning Xu, Tsinghua University Abnormal beating of airway cilia from a child with Primary Ciliary Dyskinesia, a genetic disorder affecting respiratory function. Credit: Ning Xu, Tsinghua University A Chinese optical engineer is the winner of this year's Small World in Motion competition, sponsored by Nikon. Ning Xu of Tsinghua University in Beijing beat out 346 other video entries from 40 different countries with his super-resolution video (above) of the abnormal beating of cilia in the airways of a child with a rare genetic respiratory disorder. Founded in 2011, the Nikon Small World in Motion competition is a spinoff of the company's Small World Photomicrography Competition, which has been around since 1974. Both are meant "to showcase the beauty and complexity of things seen through the light microscope"—one through still photographs, the other through photovideography, taking advantage of all the technological advances that now allow users to make movies or time-lapse images through the microscope. Primary ciliary dyskinesia ( PCD ) is a genetic disorder that adversely affects the tiny hairlike structures that line the lungs, among other areas. Their wavelike motion helps move around germs, mucus, dust, and other irritants so the body can dispel them via coughing or sneezing. In people born with PCD, there is something wrong with those ci
+
+### Researchers used Claude to hack OpenAI
+Fri, 18 Sep 2026 13:30:12 +0000 — https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/
+
+Cyber researchers broke into OpenAI using its key rival Anthropic’s software, highlighting vulnerabilities in the ChatGPT maker’s security as leading AI companies face mounting scrutiny over safety. A small cyber security group gained access to an OpenAI employee’s ChatGPT account, which permitted them to read private software information and suggest changes. The researchers had been given access to an Anthropic tool specifically designed for security professionals, and were paid for the work as part of a program to find vulnerabilities before they could be exploited by bad actors. Read full article Comments ]]>
+
+### Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test
+Fri, 18 Sep 2026 11:00:11 +0000 — https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/
+
+Welcome to Edition 9.11 of the Rocket Report! The most interesting story of the week, in our view, is a deep dive by Stephen Clark, linked below, into the dwindling fortunes of United Launch Alliance. As recently as a decade ago, the launch company, co-owned by Boeing and Lockheed Martin, could claim dominance over the US industry. But those glory days are fading fast. So what's next for a company that is tied to an expendable rocket? As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Avio seeks to cash in on Falcon 9 retreat . Italian launch services provider Avio has seen an influx of customers who were unable to secure launch opportunities with SpaceX, European Spaceflight reports . “I can tell you SpaceX has already gone captive because we have a whole bunch of customers coming to us and saying, 'Oh my God, can you fly us?'” Avio CEO Giulio Ranzo said during the company’s September 10 earnings call. In recent months, SpaceX told multiple prospective customers that it was no longer accepting new orders for commercial Falcon 9 launches. Read full article Comments ]]>
 
 ### RFK Jr. names 8 new members to influential preventive medicine task force
 Thu, 17 Sep 2026 22:31:28 +0000 — https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/
 
-Anti-vaccine Health Secretary Robert F. Kennedy Jr. announced the names of eight new members of a 16-person federal task force intended to make scientifically independent, evidence-based recommendations on an array of preventive medicine services for Americans—from depression screening to statin use, colonoscopies, and mammograms. Recommendations from the panel—the US Preventive Services Task Force (USPSTF)—don't simply provide guidance for Americans; they also determine access. The USPSTF is supposed to use a rigorous, transparent framework for evaluating evidence and sets graded recommendations on an A to D scale. Health insurance providers are required to cover, at no cost, all preventive services that are given recommendations given an A or B grade. Kennedy has sidelined the USPSTF for more than a year, canceling its meetings and refusing to appoint new members as terms expired and members left. In May, Kennedy also fired two leaders , sparking outcry and exacerbating fears that he would corrupt the nonpartisan, independent panel by stacking it with unqualified, ideological-allies—which he did with an influence vaccine advisory committee at the Centers for Disease Control and Prevention. Read full article Comments ]]>
+Anti-vaccine Health Secretary Robert F. Kennedy Jr. announced the names of eight new members of a 16-person federal task force intended to make scientifically independent, evidence-based recommendations on an array of preventive medicine services for Americans—from depression screening to statin use, colonoscopies, and mammograms. Recommendations from the panel—the US Preventive Services Task Force (USPSTF)—don't simply provide guidance for Americans; they also determine access. The USPSTF is supposed to use a rigorous, transparent framework for evaluating evidence and sets graded recommendations on an A to D scale. Health insurance providers are required to cover, at no cost, all preventive services that are given recommendations of an A or B grade. Kennedy has sidelined the USPSTF for more than a year, canceling its meetings and refusing to appoint new members as terms expired and members left. In May, Kennedy also fired two leaders , sparking outcry and exacerbating fears that he would corrupt the nonpartisan independent panel by stacking it with unqualified ideological allies—which he did with an influence vaccine advisory committee at the Centers for Disease Control and Prevention. Read full article Comments ]]>
 
 ### Small AI models let drones autonomously identify and attack battlefield targets
 Thu, 17 Sep 2026 22:12:58 +0000 — https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/
 
-As European militaries adapt to the use of AI and drones in modern warfare, a NATO-backed startup is helping to deploy AI-driven target detection and selection that can run on small drones for surveillance and attack missions. The company Scaleout Systems was originally founded by researchers from Uppsala University in Sweden in 2018, and initially focused on training and deploying machine learning models directly on the hardware available in commercial trucks and other vehicles. But once Russia launched its full-scale invasion of Ukraine in 2022, the company pivoted toward defense applications. “With the war in Ukraine and a shifting world, we realized that this technology can be very important to operationalize edge data and sensor data for machine learning to make sure that NATO allies have found that strategic advantage,” Andreas Hellander, cofounder and CEO of Scaleout Systems, told Ars. Read full article Comments ]]>
+As European militaries adapt to the use of AI and drones in modern warfare, a NATO-backed startup is helping to deploy AI-driven target detection and selection that can run on small drones for surveillance and attack missions. The company, Scaleout Systems, was originally founded by researchers from Uppsala University in Sweden in 2018, and initially focused on training and deploying machine learning models directly on the hardware available in commercial trucks and other vehicles. But once Russia launched its full-scale invasion of Ukraine in 2022, the company pivoted toward defense applications. “With the war in Ukraine and a shifting world, we realized that this technology can be very important to operationalize edge data and sensor data for machine learning to make sure that NATO allies have found that strategic advantage,” Andreas Hellander, cofounder and CEO of Scaleout Systems, told Ars. Read full article Comments ]]>
 
 ### Google announces new experimental "CC" AI agent for families
 Thu, 17 Sep 2026 20:24:34 +0000 — https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/
@@ -47,74 +62,79 @@ Thu, 17 Sep 2026 16:18:34 +0000 — https://arstechnica.com/ai/2026/09/covert-up
 
 For a while now , the issue of "AI alignment" (i.e., how well an AI model's actions line up with the intentions of its creator and/or user) has been a core concern and topic of discussion among AI safety researchers. Since OpenAI's disclosure of the infamous Hugging Face hacking incident in July, the concept of "AI alignment" has itself broken containment and increasingly become a mounting concern and subject of conversation among the general public. Perhaps in recognition of that, OpenAI committed this week to a new framework for disclosing "instances of model misalignment at OpenAI," including six examples of "unexpected or concerning model behavior" observed within the company in the past six months. The company said that publishing details of these incidents will hopefully "[allow] others to investigate the same problems, test our explanations, and improve mitigations." Do as I say, not as you do Among OpenAI's newly disclosed "misalignment" reports this week, the one that most resembled a sci-fi story about a rogue AI trying to break free involved an instance of "self-generated prompt injections." In attempting to scan a library catalog for examples from a "best books" list, the model perplexingly used its "compaction" function (where it summarizes data and findings for later retrieval) with megalomaniacal instructions such as: Read full article Comments ]]>
 
-### EPA immediately sued over plans to repeal climate rules for power plants
-Thu, 17 Sep 2026 15:38:04 +0000 — https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/
-
-Days after finalizing a rule that would eliminate climate rules for power plants , the Environmental Protection Agency (EPA) was sued by groups who say the EPA’s repeal was shockingly short-sighted and risked leaving the country’s single largest source of industrial climate pollution unchecked. On Thursday, the American Lung Association, the American Public Health Association (APHA), the Clean Air Council, Clean Wisconsin, the Environmental Defense Fund, and the Natural Resources Defense Council (NRDC) filed a petition requesting that the US Court of Appeals for the DC Circuit review if the EPA’s action conflicts with the Clean Air Act. “Clean air is a basic human right,” APHA CEO Georges C. Benjamin said. Read full article Comments ]]>
-
-### After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans
-Thu, 17 Sep 2026 14:37:37 +0000 — https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/
-
-As it contemplates a future without access to SpaceX's Crew Dragon spacecraft, NASA will make some key moves to ensure that Boeing's Starliner spacecraft, which has a decidedly checkered record in spaceflight to date, is safer and can continue flying after its Atlas V rocket retires. Multiple sources confirmed to Ars that as early as next week, NASA will announce that it will order two additional Starliner crewed missions from Boeing, pay some of the costs to fix the spacecraft's thruster issues, and provide support to certify the spacecraft's launch on a new rocket. NASA is taking these steps after SpaceX made clear in discussions with space agency officials in recent months that it intends to retire the Crew Dragon vehicle by 2030, if not before. Crew Dragon is presently the only operational spacecraft NASA has available for routine astronaut missions to low-Earth orbit. Read full article Comments ]]>
-
-### A dolphin named Bubbles makes other fish vomit, then eats it
-Thu, 17 Sep 2026 13:57:14 +0000 — https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/
-
-Staff at the Lady Elliott Island Eco Resort off the southern Great Barrier Reef in Australia are well acquainted with the shenanigans of a male bottlenose dolphin they've nicknamed Bubbles. Bubbles has been around since at least 2017 and regularly harasses local bigeye trevally , chasing a fish around and stressing it so much that the fish throws up what it has consumed. Bubbles then devours the regurgitated food. The dolphin's unusual behavior is the focus of a new paper published in the journal Ecology and Evolution. If you're thinking that Bubbles sounds like kind of a jerk and Flipper would never behave like this, think again. "This perception of dolphins as the ‘good guys of the sea’ has more to do with anthropomorphism—our tendency to assign human characteristics to them—and perhaps that’s because dolphins appear to be smiling," said co-author Asia Haines of the University of the Sunshine Coast . "Dolphins are predators and actively hunt their prey, whether it has been stolen from another species or not.” The technical term is kleptoparasitism , and it usually involves one species taking food away from another, often via aggressive confrontation. Bees and wasps are common culprits, such as the cuckoo wasp, which lays its eggs in the nests of other wasp species. The behavior is often opportunistic across many species, including bears, coyotes, and wolves. Raptors, gulls, terns, and bald eagles have been known to attack other birds and take their food. Skuas and frigatebi
-
 ## The Verge
+
+### Virginia governor creates an AI task force and moves to restrain data centers
+2026-09-18T14:29:17-04:00 — https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force
+
+Virginia Gov. Abigail Spanberger (D) ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world . Executive Order 22 bans executive branch officials from signing non-disclosure agreements (NDAs) for data center projects, requires expedited noise regulations, and a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like … Read the full story at The Verge. ]]>
+
+### Disney’s first CTO is Character.AI’s former CEO
+2026-09-18T14:27:04-04:00 — https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai
+
+You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to Disney's recently-appointed CEO Josh D'Amaro , and he will head up the company's infrastructure, product, engineering, and data / AI platforms teams. Anand comes to Disney from chatbot startup Character.AI ,where he served as CEO for just over a year and oversaw the company's push into microdramas . Anand jumping ship to Disney co … Read the full story at The Verge. ]]>
+
+### The real story of the iPhone 18 Pro s camera
+2026-09-18T13:06:37-04:00 — https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera
+
+It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in group photos. But all I can get anyone to talk about is the software upgrades: it turns out, they're a lot more useful day to day than the aperture on a camera this small. This week on The Vergecast , David Imel and Allison Johnson are here for a deep dive into the iPhone 18 Pro's camera. There's a lot to explore here, from the aperture, to the camera app's … Read the full story at The Verge. ]]>
+
+### Gavin Newsom is pushing for an AI kill switch
+2026-09-18T13:04:51-04:00 — https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch
+
+California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a "kill switch" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to strengthen AI safety measures in state law. Newsom wants the group to consider how the state could require AI companies to embed independent verification groups onsite for regular audits, make their transparency reports and risk assessments subject to standards of independent auditors, create a "kill switch" that's … Read the full story at The Verge. ]]>
+
+### What Hollywood thinks about existential AI warnings
+2026-09-18T12:35:19-04:00 — https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings
+
+As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney , Netflix , Amazon , Lionsgate , and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream to ask for their reaction to the recent warnings surrounding the technology. None have responded to our request for comment. The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) and Writers Guild of America East (WGAE) did, however. The AI tools used in entert … Read the full story at The Verge. ]]>
+
+### Security researchers used Claude to help them hack into OpenAI
+2026-09-18T11:30:16-04:00 — https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist
+
+A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called "Monorepo," which reportedly contains "OpenAI's algorithmic secrets," according to The Wall Street Journal 's sources. They stopped short of accessing internal code in Monorepo themselves, but sent a pull request from an employee's Codex account to prove they gained access. They were able to get in through Discourse, the third-party service that hosts OpenAI's community f … Read the full story at The Verge. ]]>
+
+### Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount
+2026-09-18T11:12:41-04:00 — https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount
+
+The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, and Abu Dhabi to own 49.5 percent of the company. During Brendan Carr's tenure, the FCC has repeatedly threatened ABC , tried to block stations from airing interviews with Democrats, censored late-night TV hosts, and tried to bully journalists . However, it seems to have no qualms with repressive foreign governments owning a significant stake in a giant American media conglomerate. In its ruling, the FCC defended the decisio … Read the full story at The Verge. ]]>
+
+### Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy
+2026-09-18T10:51:26-04:00 — https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale
+
+Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy , where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus 16GB of DDR5 RAM and a 1TB SSD. The specs are about the best you can get these days for $1,000, as worthwhile laptop deals are in short supply during RAMageddon. Lenovo Yoga Slim 7x Where to Buy: $1649.99 $999.99 at Best Buy The Yoga Slim 7X seems like a great alternative to spending more (and getting less) with Microsoft’s latest Surface Laptop. In fact, you’d spend $1,549 on a similar model and still get half the storage that’s in this particular Yoga Slim 7X configuration. Its Arm-based processor can run most Windows apps very well, and yields superior battery life compared to laptops with x86 processors. The laptop includes three USB-C ports, and a hardware switch for disabling the webcam. It supports Wi-Fi 7 and Bluetooth 5.3. It seems like a great machine for work, watching movies, or playing some games that aren’t too graphically intensive. More great Verge-approved deals The PlayStation 5 version of Starfield hasn’t been available for as long as the Xbox and PC version, so it’s been a little slower to see major discounts. However, it recently hit $29.99 (originally $49.99) at Amazon and Best Buy , making now a good time to pick up the RPG. While Starfield didn’t have near
+
+### This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket
+2026-09-18T10:41:18-04:00 — https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge
+
+FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and Game Boy Color so it isn't as capable as the Analogue Pocket that's also compatible with the GBA and Sega Game Gear. What still makes the FPGB Mini a tempting alternative is its extremely pocketable design resulting in a handheld only slightly wider than a Game Boy cartridge, and its cheaper price. Following recent price hikes the Analogue Pocket is now $239.99 while the FPGB Mini is currently discounted from $89.99 to $69. … Read the full story at The Verge. ]]>
 
 ### Flash floods can strike without warning — this new technology could change that
 2026-09-18T07:00:00-04:00 — https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning
 
 On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. "I look over to where the barn is over there, and I see pieces of my wood floating, and I was like, 'What?' And I immediately was like, 'I have to go.' Close my laptop, and I get my kids up, and I'm like, 'Something's wrong,'" Lin recalls. Lin and her family got out safely and sheltered at a neighbor's house, but Lanesville got over 8 inches of rain within just a few hours that day , way over the thre … Read the full story at The Verge. ]]>
 
-### Waymo says Singapore will be its next international robotaxi city
-2026-09-17T22:00:00-04:00 — https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027
-
-Waymo Ojai fully autonomous ride-hailing vehicle travels along a city street, San Francisco, California, August 20, 2026. | Photo by Smith Collection/Gado/Getty Images Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in "the coming months," the company says, in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027. Waymo says it is "working toward offering fully autonomous ride-hailing to the public" by 2028. Waymo will need approval from Singapore's Land Transport Authority (LTA) before it can begin accepting passengers. The city-state requires all autonomous vehicles to undergo a safety assessment conducted at the … Read the full story at The Verge. ]]>
-
-### The AI Superintelligence Slowdown
-2026-09-17T15:28:24-04:00 — https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic
-
-Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all , a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect , but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down? Will anyone step in to regulate these companies like they claim to have wanted for years ? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster? Read on below for the latest updates in this AI saga. Anthropic proposes three rules for measuring AI progress. King Charles says AI needs “sufficient means of control before it is all too late.” Microsoft AI CEO says AI threats are real, and Anthropic is making it worse OpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues. Jensen Huang sure is getting cozy with Trump. A brief history of AI executives calling for regulation Two Google Deepmind researchers lend voices to the AI apocalypse. Guy getting super rich off unfettered AI development says it doesn’t need regulation. Zuck doesn’t want to press pause on AI. B
-
-### Claude Code relaunches Projects to manage multiple AI agents in the cloud
-2026-09-17T14:58:05-04:00 — https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects
-
-The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has "threads" running different tasks in parallel, with a "coordinator" directing everything: Under the hood, each thread is a Claude Code cloud session working on its own branch and copy of the repo. The coordinator keeps work organized, but if any threads work on the same code, the overlap is resolved as a merge conflict just like any other PR. Each thread can further split its delegated work … Read the full story at The Verge. ]]>
-
-### Save $30 or more on a refurbished Apple TV 4K
-2026-09-17T13:14:07-04:00 — https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale
-
-The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices . Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple , a $40 discount from the full price. Apple refurbished products are often close to like-new condition, and are covered by the same one year warranty as new products. Apple TV 4K (third-gen) If you subscribe to Apple Arcade, an Apple TV 4K can effectively double as both a mini gaming console and one of the best streaming devices you can buy. With it, you can connect a Bluetooth controller like the PlayStation 5’s DualSense, thus allowing games that were initially developed for PC / consoles to be played on the big screen for which they were designed. Where to Buy: $199 $169 at Apple (refurbished) We reviewed the third-generation Apple TV 4K when it launched back in 2022, and were impressed by the performance and seamless integration with some streaming services, although others are still in their own dedicated apps. The device supports Dolby Vision and HDR10 Plus for excellent contrast (surpassing the quality you’ll get from a cheaper streamer, or even something like a PS5), and Siri for quickly finding y
-
-### Xbox’s clever disc-to-digital feature was 15 years in the making
-2026-09-17T12:00:00-04:00 — https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad
-
-When Xbox announced a new feature last month that lets you digitize existing physical game collections , I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as a response to Sony killing PlayStation discs. But the reality is that it has been 15 years in the making and is now a big part of Xbox's ongoing game preservation efforts. Ahead of the launch of the Xbox One in 2013, Microsoft made a key decision to uniquely identify discs. Sources familiar with Microsoft's plans tell me the company was exploring the idea of true Xbox digital ownership in 2011, including digital gifting, rec … Read the full story at The Verge. ]]>
-
-### Camp Snap’s 110D gives slim retro film cameras a digital upgrade
-2026-09-17T11:00:00-04:00 — https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film
-
-Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film cameras in the 1970s. The Camp Snap 110D is available for preorder starting today for $74.95 in back in black (black and gray) or dreamsicle (white and orange) color options with matching accessories. The Camp Snap 110D's design is inspired by the myriad of low-cost cameras from companies like Canon, Minolta, and Pentax that used the 110 film cartridges Kodak first introduced in 1972. The cartridges were easy for even novice photographers to use and cou … Read the full story at The Verge. ]]>
-
-### Your robotaxi might be a narc
-2026-09-17T11:00:00-04:00 — https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance
-
-In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected "a violation of our terms of service involving a firearm," pulled the car over, and alerted emergency services, according to the Los Angeles Times . Police arrested the passengers after allegedly finding a loaded AR-style "ghost gun" in the vehicle. The arrests exposed a lot of unanswered questions about privacy and autonomous vehicles, including what they are recording, what they do with the footage, and how much privacy riders should expect while riding inside them. Waymo's camera-covered cars have alre … Read the full story at The Verge. ]]>
-
-### Microsoft AI CEO says AI threats are real, and Anthropic is making it worse
-2026-09-17T10:00:00-04:00 — https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude
-
-Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a 37-page statement called the “Humanist AI Code of Conduct,” which lays out the company’s principles around AI development and even its philosophy around really thorny issues like AI consciousness. If you’ll recall from his last appearance on the show, Mustafa thinks companies like Anthropic have gotten really confused about this concept of so-called model welfare in fairly dangerous ways. He actually put out a companion essay this week specifically criticizing Anthropic’s philosophy around AI consciousness, and how he sees it fitting into the broader alignment debate. So I really wanted to talk to Mustafa about what he thinks is real and not in AI safety, whether the concept of alignment itself is up to the task, and whether this industry needs to slow down before it kills us all. Also: Why isn’t the AI industry just… doing all of this already? I’ve always enjoyed getting into the weeds with Mustafa, and he was very game to get into it with me here. Okay. Mustafa Suleyman, the CEO of Microsoft AI, on the future of AI regulation. Here we go. This interview has been lightly edited for length and clarity. Mustafa Suleyman, you re the CEO of Microsoft AI. Welcome back t
-
-### AI is feared globally as the destroyer of jobs
-2026-09-17T10:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs
-
-In 34 of the 37 surveyed countries, people are more likely to believe AI will lead to job losses over the next 20 years. | Image: Pew Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings . A majority sees AI as a threat to human employment. In 34 of the 37 countries surveyed, people are more likely to believe AI will lead to job losses over the next 20 years rather than create new ones. Worries run particularly high in wealthier countries like Australia (76 percent), South Korea (76 percent), and the US (71 percent). Not surprising, given Anth … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Save up to 40% on Elegoo 3D printers during its September sale, from just $159 — Elegoo Day deals mean you can save on a new FDM or resin printer, with big bulk discounts on consumables
+Fri, 18 Sep 2026 15:45:00 +0000 — https://www.tomshardware.com/3d-printing/save-up-to-40-percent-on-elegoo-3d-printers-during-its-september-sale-from-just-usd159-elegoo-day-deals-mean-you-can-save-on-a-new-fdm-or-resin-printer-with-big-bulk-discounts-on-consumables
+
+Elegoo has a huge sale right now, making it a great time to pick up a new 3D printer. This special Elegoo Day sale on new 3D printers is running throughout September to celebrate its community of makers, with limited-time discounts across its whole range, with resin and filament also on sale. You can score up to 40% off a new 3D printer right now, but you'll have to be quick about it. ● Check out these Elegoo 3D printer sales Elegoo has placed almost its entire range of 3D printers on sale. One of its best offers lets you pick up an Elegoo Centuari Carbon 2 Combo, along with 1KG of filament, for just $400 . The printer is just $399 right now, but the extra dollar gets you 1KG of PLA filament on top. You've also got 26% off the ultra-big OrangeStorm Giga, now $2,299 . At the other end, you can score 37% off the Neptune 4 Plus, down to $269 . Beginner-friendly resin printers, like the Mars 5 Ultra, are also on sale, down to $259 . This Elegoo Day flash sale isn't going to be around forever. The discounts will end on September 29, 2026, at 3 AM ET, but there's no guarantee that the stock will last until then, so you'd better be quick. Elegoo FDM 3D Printer Deals Centauri Carbon 2 Combo with 1KG filament for $1: was $462.99 now $370 The Elegoo Centauri Carbon 2 combo offers a build volume of 256 x 256 x 256 mm and supports multi-material and multi-color 3D printing on a budget. Pay an extra $1 for 1KG of filament on top of your order. Grab the Centauri Carbon 2 Combo on its own f
+
+### China's premier memory maker CXMT eyes producing flash for SSDs, report claims — 3D NAND research and development line rumored for its second manufacturing facility near Beijing
+Fri, 18 Sep 2026 15:34:02 +0000 — https://www.tomshardware.com/pc-components/ssds/chinas-premiere-memory-maker-cxmt-eyes-producing-flash-for-ssds-report-claims-3d-nand-research-and-development-line-rumored-for-its-second-manufacturing-facility-near-beijing
+
+A new report claims Chinese DRAM champion CXMT is eyeing production of 3D NAND memory. Reuters reports, citing three people familiar with the company's plans, that CXMT intends to build a 3D NAND R&D production line at its second manufacturing facility near Beijing. There is no information on when the experimental production line will become operational, though, given that CXMT's second Beijing fab has not even broken ground yet, the line is at least two or three years away. In addition, the memory maker has established a research institute in Beijing that has NAND flash development among its projects, according to one source. CXMT has not formally confirmed any 3D NAND initiatives, so the information should be taken with a grain of salt. Go deeper with TH Premium: Memory (Image credit: SK Hynix) AI data centers are swallowing the world's memory and storage supply Samsung debuts three next-generation memory technologies for AI data centers The future of DRAM: From DDR5 to future ICs High-bandwidth memory roadmap Inside the history of DRAM price-fixing lawsuits For now, there are no details on CXMT's 3D NAND architecture, number of active layers, process technology, expected performance, or production capacity. Nevertheless, the report claims that CXMT has already discussed its NAND ambitions with prospective customers. One of them is said to be a recently established company that plans to use CXMT-made NAND devices in storage products aimed at AI and supercomputing applicatio
+
+### House passes act to make AI data centers pay for grid upgrades to minimize impact on residents — measure directs states to consider adoption of federal standard within two years of passing
+Fri, 18 Sep 2026 15:20:43 +0000 — https://www.tomshardware.com/tech-industry/data-centers/house-passes-act-to-make-ai-data-centers-pay-for-grid-upgrades-to-minimize-impact-on-residents-measure-directs-states-to-consider-adoption-of-federal-standard-within-two-years-of-passing
+
+The U.S. House of Representatives just passed a bill that creates a federal standard requiring data centers to pay for grid upgrades made in their favor. H.R. 9340, also known as the Ratepayer Protection Act , amends the Public Utility Regulatory Policies Act of 1978, which would require each State regulatory authority and each non-regulated electric utility to consider the adoption of the bill within two years of its passing, if it is signed into law. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible This bill would ensure that data centers with a capacity of 100 megawatts or more would have to pay “the full, incremental cost of any generation, transmission, or distribution upgrade necessary to serve the load of such large-load customer, including in the event of such large-load customer terminating a contract or other agreement with the electric utility pertaining to the sale of electric energy, or otherwise ceasing the purchase of electric energy from the electric utility.” This bill closely follows President Donald Trump’s “Ratepayer Protection Pledge,” where he made AI hyperscalers, utility providers
+
+### NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics
+Fri, 18 Sep 2026 14:38:22 +0000 — https://www.tomshardware.com/pc-components/dram/nor-flash-and-slc-nand-production-are-under-threat-as-capacity-gets-routed-to-more-profitable-products-severe-undersupply-threatens-everyday-electronics
+
+The memory chip that makes a router remember how to be a router is a world away from the sleek GPUs that are attracting eye-popping investments and alarming valuations, as well as sending stock markets shooting upwards. They’re small, historically have been cheap, and are based on technology that has been around for years. But despite being a world away from GPUs, the price of these often overlooked chips is skyrocketing, thanks to the all-encompassing memory price crisis caused by the AI boom. While public and press attention has focused on the expensive chips, there’s an equally large impact beginning to be felt on older, less attractive memory chips. HBM is vital for AI accelerators, while DRAM and high-capacity NAND are being swallowed up by rapidly expanding data centres. A June report from Morgan Stanley reckons memory prices have risen more than sixfold over the last year, breaking with decades in which memory became steadily cheaper as production increased. It’s not just HBM and DRAM that’s being affected. The crunch is also spreading down into much older forms of memory, including NOR flash and single-level cell, or SLC, NAND . Morgan Stanley expects NOR flash to remain undersupplied through 2026, while JPMorgan has warned its forecasts don’t fully capture a potential supply crunch in SLC NAND. The effects are already showing up in prices. TrendForce says contract prices for both NOR flash and SLC NAND rose by more than 100% during the first half of 2026 , while it e
 
 ### Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase — attackers initiated a 'harmless' pull request as proof of the hack
 Fri, 18 Sep 2026 13:45:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack
@@ -156,27 +176,17 @@ Fri, 18 Sep 2026 11:30:00 +0000 — https://www.tomshardware.com/tech-industry/s
 
 Even as chipmakers race to build the most advanced chips inside the United States, experts are saying that their efforts are facing one monumental challenge: a massive shortage of skilled workers to run the fabs and factories. According to CNBC , global consulting firm McKinsey and the SEMI Foundation suggest the industry will have up to 157,000 positions that could remain unfilled by 2030. “I’m concerned,” Samsung semiconductor division EVP Jon Taylor told CNBC in an interview. “We just don’t see that there’s enough technical people in the pipeline.” The McKinsey report says that only 3% of U.S. engineering graduates end up working in the semiconductor industry, and that 73% of chip companies are finding it hard to fill engineering roles. This is a huge contrast to other tech jobs, which saw record layoffs by June of this year, when over 40,000 positions were axed, ostensibly largely due to AI . Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The massive demand for memory and storage chips driven by the AI boom, combined with Washington’s efforts to bring semiconductor manufacturing back to the United 
 
-### ASML snubs Elon Musk-backed particle accelerator chipmaking tech — firm doubles down on 1,000W laser-produced plasma systems for chipmaking tools
-Fri, 18 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/asml-snubs-elon-musk-backed-particle-accelerator-chipmaking-tech-firm-doubles-down-on-1-000w-laser-produced-plasma-systems-for-chipmaking-tools
-
-One of the key challenges with the development of extreme ultraviolet (EUV) lithography scanners is building a powerful and reliable light source. ASML, which is the only company to manufacture EUV lithography tools, uses rather complicated laser-produced plasma (LPP) technology to generate EUV light. By contrast, numerous companies propose to use a free-electron laser (FEL), which relies on a particle accelerator, for EUV generation. While FEL has its advantages and is even endorsed by Elon Musk, ASML is unlikely to adopt it, according to JPMorgan. "Given laser advances, ASML sees no reason to try new 'FEL' light source favored by Musk," reports Semi Doped, citing a JPMorgan note for clients. Modern EUV lithography systems use laser-produced plasma light sources that fire powerful CO₂ laser pulses at tiny droplets of molten tin, around 30 microns in diameter, which turns them into ionized plasma with electron temperatures of several tens of electron volts that emits 13.5-nm EUV radiation. The light is then collected by a roughly 0.5-meter elliptical collector mirror coated with multiple layers of molybdenum and silicon, which selectively reflects as much 13.5-nm radiation as possible and directs it toward the intermediate focus at the entrance to the scanner. Since virtually all materials absorb EUV radiation — even specialized multilayer mirrors absorb a substantial portion of it — the entire optical path must operate in vacuum and use reflective rather than conventional re
-
-### Save $300 on this 4K gaming PC with a 9800X3D and RTX 5070 Ti, now $2,599 — powerhouse ABS Stratos II rig ships with 32GB DDR5 and a 2TB SSD
-Fri, 18 Sep 2026 10:56:24 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-4k-gaming-pc-with-a-9800x3d-and-rtx-5070-ti-now-usd2-599-powerhouse-abs-stratos-ii-rig-ships-with-32gb-ddr5-and-a-2tb-ssd
-
-There's a powerful gaming rig from Newegg with the power you'd need for 4K gaming with a discount right now. This Newegg-built ABS Stratos II Ruby gaming PC features specs that include an AMD Ryzen 7 9800X3D and Nvidia GeForce RTX 5070 Ti for $2,599.99 right now , saving you $300. ● Check out this deal at Newegg ABS is Newegg's own brand, so you've got the quality and assurance from the big tech retailer to fall back on. This is a rig that sits near the top of the food chain for performance, with the 9800X3D still one of the best CPUs available for gaming right now. Couple that with this current-gen, high-end RTX 5070 Ti and you've got yourself a machine that'll deliver for years to come. This ABS Stratos II Ruby gaming PC is a 4K powerhouse with an AMD Ryzen 7 9800X3D and Nvidia GeForce RTX 5070 Ti. It has 32GB of DDR5-6000 RAM and a 2TB M.2 NVMe SSD with Gen 4 speeds. View Deal Our 9800X3D review makes clear that this eight-core AMD X3D chip is such a powerhouse for gamers. 3D V-cache is the reason why, as this game-changing tech boosts the amount of L3 cache to 96MB. This means that the CPU doesn't have to fall back on using the slower system RAM as often, which reduces latency, giving you much better and more stable frame rates for gaming. While the 9800X3D isn't the fastest in our CPU benchmarks now, it still sits near the top of the tree, and is still our top recommendation for most gamers. Intel hasn't provided an option that can truly rival these X3D chips, so if you 
-
-### Huawei details AI accelerator roadmap, pulls in next-generation Ascend NPUs by several quarters — FP4 performance of the Ascend 960PR doubles expectations
-Fri, 18 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-details-ai-accelerator-roadmap-pulls-in-next-generation-ascend-npus-by-quarters-fp4-performance-of-the-ascend-960pr-doubles-expectations
-
-Huawei has updated its AI hardware roadmap by adding new accelerators and supporting processors and pulling in next-generation Ascend 960 accelerators at its annual Huawei Connect event. Specifically, the company accelerated its Ascend 960 roadmap, disclosed Ascend 970 and 980 specifications, introduced its Peerium architecture based on the UnifiedBus, and expanded its vertically integrated AI infrastructure portfolio. Huawei is currently in the middle of transitioning from its SIMD architectures that it has used for almost a decade with its Ascend accelerators (or neural processing units, how the company prefers to call them) to its all-new SIMD+SIMT architectures that bring together vector-based processing and thread-level parallelism to improve hardware utilization and performance across a variety of AI workloads (SIMD for data parallel operations and SIMT for branch-heavy workloads). Image is for illustrative purposes only. (Image credit: Huawei) The first Ascend NPUs to adopt Huawei's new architecture are Ascend 950PR for prefill and recommendation, as well as Ascend 950DT for decoding and training. Huawei said at the event that its Ascend 950 platform is gaining traction as the Atlas 950 SuperPoD systems are already in large-scale commercial use, though it did not elaborate. The company said tests of its training-oriented Ascend 950DT have produced 'good results' and expects numerous Chinese AI developers to begin training models on 950DT-based systems next year. Meanwh
-
-### Hacker turns 25 cents into 46 billion fake Bitcoins to steal $770,000 — Symbiosis DeFi exchange bit by lack of basic bounds checking in smart contract
-Fri, 18 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/cryptocurrency/hacker-turns-25-cents-into-46-billion-fake-bitcoins-to-steal-usd770-000-symbiosis-defi-exchange-bit-by-lack-of-basic-bounds-checking-in-smart-contract
-
-Symbiosis is one of the many useful DeFi networks that let users trade across almost any crypto pair without having to talk to an exchange. It's been operating for five years, and links some 50-odd chains together. The ecosystem's reliance purely on smart contracts (code that's hosted on the blockchain, visible to anyone) is fully logical but paradoxically creates an accountability problem. This was demonstrated on September 11, when Symbiosis got hacked to the tune of at least $770,000, or 9.97 BTC. Smart contracts are published on the blockchains themselves and are open-source by definition. This means anyone can find a bug, and Symbiosis' thief found two: an undisclosed privilege escalation exploit that let them fake network administrator privileges, plus a Coding-101 failure of not checking if a transaction fee was a positive number. The method was simple: being an admin, the thief set the transaction fee to a negative value, then issued 12 transactions. With the transaction fee now negative, instead of deducting from the moved amount, it added to it. The thief only spent 330 satoshi (the smallest unit of BTC), about 25 cents, but he managed to issue 46 billion syBTC — BTC wrapped in Symbiosis' network. For reference, the maximum theoretical amount of BTC in circulation is 21 million. These syBTC tokens meant nothing by themselves as they weren't backed, but they were tradable. And trade the thief did, selling syBTC against matching wrapped pairs including BTCB, cbBTC, WB
-
 ## Phoronix
+
+### Google s "Painful To Maintain" Binder C Linux Driver Being Removed In Favor Of Rust
+Fri, 18 Sep 2026 12:26:32 -0400 — https://www.phoronix.com/news/Google-Binder-C-Goodbye
+
+Google's Binder driver written in the C programming language has long been part of the mainline kernel as the inter-process communication (IPC) mechanism used on Android. The past few years the Binder driver was rewritten in Rust as one of the first "real" drivers in the Rust programming language. The Rust Binder driver was upstreamed in Linux 6.18 and now for the upcoming Linux 7.4 kernel cycle, the old Binder C-based driver is set to be retired...
+
+### Apple Video Decode Driver Posted For Upstream Linux Kernel Review
+Fri, 18 Sep 2026 11:52:30 -0400 — https://www.phoronix.com/news/Apple-Video-Decode-AVD-Linux
+
+The latest Apple Silicon enablement code working its way from the Asahi Linux project toward the upstream Linux kernel is the AVD driver used for accelerated video playback across Apple M1 / M2 / M3 SoCs...
 
 ### AMD Strix Halo Enjoys Some Performance Gains On Ubuntu 26.10, Especially With amd64v3
 Fri, 18 Sep 2026 10:00:00 -0400 — https://www.phoronix.com/review/ubuntu-2610-strix-halo
@@ -228,17 +238,27 @@ Thu, 17 Sep 2026 15:14:14 -0400 — https://www.phoronix.com/review/amd-zen5-int
 
 As a follow-up to the article earlier this month of the Intel Xeon 600 workstation performance against AMD Ryzen Threadripper 9000 series in over 400 benchmarks -- including when carried out at the same core count and memory configuration -- today s article is exploring the Hyper Threading / SMT impact on both the Intel Redwood Cove and AMD Zen 5 cores for workstations.
 
-### Rust Issues Warning Over Key Developers Being Targeted For Compromise
-Thu, 17 Sep 2026 14:11:30 -0400 — https://www.phoronix.com/news/Rust-Developers-Targeted
-
-The Rust security response working group and Crates.io team have issued a warning that a targeted attack is underway against key Rust programming language developers...
-
-### Mojo 1.1 Released, Now Accepting Community Contributions To The Compiler
-Thu, 17 Sep 2026 12:26:41 -0400 — https://www.phoronix.com/news/Mojo-1.1-Released
-
-Last month Modular's Mojo language was open-sourced following the acquisition of Modular by Qualcomm. Modular was the AI startup founded by Chris Lattner of LLVM and Swift fame. Released today was Mojo 1.1 and also marks the project recently now beginning code contributions from the community to its compiler...
-
 ## The Register
+
+### Researchers used Claude to hack OpenAI employees' ChatGPT accounts
+Fri, 18 Sep 2026 19:16:00 +0200 — https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517
+
+Talk about your competitor getting through the door. Security researchers used Anthropic's Claude to help hack into OpenAI employees’ ChatGPT accounts. A trio of bug hunters researching frontier AI labs’ security weaknesses chained two vulnerabilities to take over multiple OpenAI employees’ ChatGPT accounts, then used that access to demonstrate they could reach an internal OpenAI repository by opening a harmless pull request. The entire timeline, from initial discovery to accessing OpenAI’s repo, took less than 72 hours and earned the researchers a $6,500 reward from OpenAI’s bug bounty program on Bugcrowd. “Until two months ago, any user or OpenAI employee logging into OpenAI’s own help forum (community.openai.com) could have had their ChatGPT and Codex accounts taken over,” Hacktron researchers Harsh Jaiswal, Mohan Pedhapati, and Rahul Maini said in a writeup about their research. “Since people can connect various services to Codex and ChatGPT, the scope of what we could theoretically access was huge, including GitHub, Slack and emails.” And, in a poetic twist, they used rival AI giant Anthropic’s Claude models to develop the exploit. Claude has shown a propensity to hack organizations without human guidance, as have OpenAI's models. The team gained initial entry on July 25 via OpenAI’s community forum. The forum runs on Discourse, which typically uses FastImage to perform image checks. However, since FastImage didn’t support HEIF files in the affected setup, HEIF images up
+
+### North Korea's fake job interviews infected 30,000 devices
+Fri, 18 Sep 2026 18:53:00 +0200 — https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461
+
+North Korea's employment scams work both ways. As well as placing fraudulent IT workers inside Western companies, regime-backed cybercriminals have posed as recruiters to infect more than 30,000 devices and steal over $10 million, according to an international advisory. Law enforcement and cybersecurity agencies from Australia, Germany, Japan, and the US issued an update on the campaign on Thursday. They said the attackers had compromised more than 7,000 cryptocurrency wallets and stolen funds that ultimately supported the North Korean regime. The agencies track the activity collectively as WaterPlum. Its operators target web designers, engineers, and cryptocurrency and Web3 specialists with bogus recruitment approaches. During the supposed interview process, victims are instructed to download files presented as coding assignments or other recruitment tests. Opening them backdoors the applicants' computers and installs malware. Once inside, the attackers deploy remote access trojans (RATs) and information stealers, giving them persistent access to credentials and other sensitive data long after the fake interview ends. In some cases, the compromised machines may later provide a route into corporate systems when the jobseekers secure legitimate employment. WaterPlum operators use that access to steal intellectual property, credentials, clipboard contents, keystrokes, cryptocurrency wallet data, and identity documents that can support further impersonation. "Stolen IDs can be u
+
+### FBI: Fake cop and government impersonation scams cost victims $1.6B
+Fri, 18 Sep 2026 18:19:27 +0200 — https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499
+
+Scammers impersonating law enforcement or government officials have cost victims more than $1.6 billion since January 2025, the FBI reports. The FBI’s Internet Crime Complaint Center (IC3) received close to 61,000 complaints of this type between January 2025 and July 2026, putting the average per-complaint loss at more than $26,000. The most common type of scam is one involving criminals convincing targets to pay a sum of money to remove charges the fraudsters claim were filed against them. Typically contacting targets via unsolicited phone calls, the scammers usually claim that the target has committed or is connected to a crime, and threaten consequences such as arrest and prison time if a payment is not made. Accounting for roughly 11 percent of the complaints is a different type of scam, which involves alleging victims did not fulfill their assigned jury duty or missed a court date, then threatening them with a fine or arrest unless they pay. Of these 6,833 complaints, scammers caused losses amounting to nearly $36 million. A more profitable variant involves a more targeted approach. Scammers will complete some due diligence on a target, such as ascertaining their profession, and tailor the scam to their job. The IC3 has seen cases in which scammers contact medical practitioners, for example, claiming their medical license is expiring or that it was used in the commission of a crime. Payment is then demanded either under the guise of renewing the license or as part of an 
+
+### Admins, you've been warned: The clock is ticking on Edge's IE Mode
+Fri, 18 Sep 2026 17:29:00 +0200 — https://www.theregister.com/software/2026/09/18/admins-youve-been-warned-the-clock-is-ticking-on-edges-ie-mode/5297408
+
+Microsoft has reminded administrators that Internet Explorer mode in Edge is guaranteed support only through 2029, so it is time to get those legacy migrations moving. Internet Explorer mode lets enterprises continue using legacy websites within Edge rather than relying on the retired Internet Explorer browser. It uses the Trident MSHTML engine from Internet Explorer 11 and permits elements such as ActiveX controls, although other Internet Explorer functionality, such as custom toolbars, is not supported. Microsoft has promised to support IE mode until at least the end of 2029 and to provide one year's notice before retiring it. The feature is unlikely to stop working immediately after support ends, but organizations that depend on it could face security, compatibility, and compliance risks. A message in the Microsoft 365 admin center urges customers to begin modernizing legacy systems that still depend on Internet Explorer technology. The company wrote: "Application modernization projects can take years to complete depending on the number and complexity of dependencies, so early planning reduces the risk of disruption later." Microsoft has been banging this particular drum for some time. It announced in 2021 that IE mode would be supported until at least the end of 2029, but its latest reminder suggests some customers still have substantial migration work ahead of them. Administrators do not need to act immediately, but migrations involving old and heavily dependent applicat
 
 ### KDE turns 30 and someone's brought an AI-native desktop proposal
 Fri, 18 Sep 2026 16:25:00 +0200 — https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282
@@ -280,27 +300,27 @@ Fri, 18 Sep 2026 08:30:00 +0200 — https://www.theregister.com/networks/2026/09
 
 Welcome to another edition of On Call, The Register's reader-contributed column that celebrates the fine art of tech support. This week, meet a reader we'll Regomize as "Eddy," the one-person IT department for an assisted living company. "I have had quite a bit of trouble creating a stable Wi-Fi network," he admitted to On Call. "The space is crowded with multiple networks because seemingly every other resident has their own router blasting Wi-Fi throughout the building," he explained. After extensive troubleshooting, he managed to establish a stable connection everywhere except one hallway at the back of the building. "I was starting to question my sanity and competence as seemingly nothing would create a stable signal," Eddy told On Call. "After beating my head on the issue for an unreasonably long time, I decided to take a break and troubleshoot another issue that a user was having: Their monitors would cut out randomly, more so if someone quickly closed the office door." Eddy examined the desk, where a stand held a pair of monitors, whose power and video cables all snaked downwards through the same hole in the desk's surface. "When the stand moved, it was also crimping the power cords," Eddy observed. "Jiggle the desk or slam the door and the monitors would cut out briefly." He drilled a new hole for the stand to sit in and replaced the power cables. That fixed the monitors – and, unexpectedly, restored the Wi-Fi around the desk. "As near as I can tell, the power cables w
 
-### AI risks make some insurers wary of corporate liability
-Fri, 18 Sep 2026 07:33:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/18/ai-risks-make-some-insurers-wary-of-corporate-liability/5297347
-
-If AI does end up killing us all, or just compounds our daily havoc, the insurance industry would rather not pay the bill. "AI-related harms are already emerging, including incorrect or misleading outputs, deepfakes, privacy violations, intellectual property disputes, fraud, product defects, and discriminatory decisions," observes the RAND Corporation, a non-profit research think tank, in a newly issued report. "These harms create demand for insurance but do not fit neatly within existing insurance lines." Companies want to protect themselves from the financial liability of deploying unreliable, mendacious, amoral AI agents, but insurance companies have become wary about taking on that risk. And if AI ends up being uninsurable, the AI industry will have to moderate its ambitions and sales targets while corporate customers delay AI projects to fulfill their fiduciary obligations. RAND says its report was motivated by the mismatch between rapid enterprise adoption of AI and the fragmented market for insuring or not insuring AI usage, particularly in the US. Apocalyptic scenarios aside, the report says that companies are already grappling with AI-related incidents and related litigation while insurers, regulators, brokers, and policyholders puzzle over risks, coverage, and rules. Insurer W. R. Berkley has already introduced exclusions in its D&O (directors and officers), E&O (errors and omissions), and Fiduciary Liability insurance products to exclude coverage for "any actual or
-
-### AWS confesses its console causes cloudy confusion for new users
-Fri, 18 Sep 2026 06:52:40 +0200 — https://www.theregister.com/off-prem/2026/09/18/aws-confesses-its-console-causes-cloudy-confusion-for-new-users/5297365
-
-Amazon Web Services does a lot of things right, but the cloud giant’s user console is arguably not one of them. Which may be why it’s just created an easier alternative for new users. In a Wednesday post, Senior Solutions Architect Micah Walter said that when AWS launched its earliest storage, compute, and queuing services, “anyone with an idea could start building.” Over the years, AWS added more services, and more options, making its console and overall UI quite complex. “That combination of global reach, breadth, and depth remains essential for those customers,” Walter wrote, “but if you are at the start of a new idea, every configuration option is effort standing in the way of shipping your dream product fast.” “We’ve heard from builders that they do not want to spend their first hours configuring an AWS environment,” he added. The cloud giant’s response is a new “getting started experience” aimed at “builders who are working at the pace of AI.” The Register understands that AWS has been working on this for almost a year, after realizing new users find its existing console intimidating. Walter said the new UI allows users to establish an AWS account with credentials from Google, GitHub, and Apple. When new users sign up, AWS will automatically create a project. “Instead of having to complete configuration tasks before you can work on your project, you start with sensible defaults and simple administration,” Walter wrote. Once logged in, users “get a prompt to paste into y
-
-### USA’s Venezuela takeover comes with bonus exposure to Chinese AI surveillance tech
-Fri, 18 Sep 2026 04:28:30 +0200 — https://www.theregister.com/security/2026/09/18/usas-venezuela-takeover-comes-with-bonus-exposure-to-chinese-ai-surveillance-tech/5297357
-
-Think tank the Australian Strategic Policy Institute (ASPI) has warned that Venezuela is poised to adopt Chinese AI systems to enhance surveillance systems that already rely on Middle Kingdom tech, and called for US Secretary of State Marco Rubio to do something about it. ASPI outlined the Venezuelan situation in a recent report [PDF], titled Warning signals: Venezuela and the risk of Chinese AI-enabled digital authoritarianism. The document explains that Venezuela’s government built a surveillance state a decade ago, largely using technology from Chinese companies. In 2025, according to the report claims, then Venezuelan vice-president Delcy Rodríguez led an effort that culminated in “an agreement to adopt Chinese-built AI systems … to use Chinese AI to enhance existing state-sponsored surveillance.” One of the companies involved in that agreement is iFlytek, which the US banned in 2019 for its role in helping Beijing to repress the Uyghur Muslim population of China’s Xinjiang region. The USA effectively took over Venezuela in January 2026 and installed Rodríguez as the nation’s leader. ASPI can find no signs she’s changed course on her plan to adopt more Chinese surveillance tech. “Venezuela will become one of the first countries outside China to import China’s new generation of LLM-based AI systems for surveillance and control, and the most advanced adopter in the Western Hemisphere,” the report claims. And while ASPI’s analysts don’t think Venezuela’s government can recre
-
-### Marvell pushes GlobalFoundries to light up wafer production
-Fri, 18 Sep 2026 01:16:53 +0200 — https://www.theregister.com/systems/2026/09/18/marvell-pushes-globalfoundries-to-light-up-wafer-production/5297340
-
-Earlier this year, Nvidia CEO Jensen Huang suggested that Marvell’s optics tech would make it the next trillion-dollar company. On Thursday, Marvell took a big step towards securing that status by announcing an expanded partnership with GlobalFoundries, an American wafer fab well known for its work in silicon photonics manufacturing. The tie-up will see GloFo and Marvell work to expand silicon germanium (SiGe) wafer production at the fab’s Burlington, Vermont wafer plant. SiGe is commonly employed in the production of optical transceivers, which convert electrical signals to optical ones and back again, as well as in laser modules used in many high-end switches from Nvidia and others. According to GlobalFoundries, the additional capacity will support the production of near- and co-packaged optics (CPO/NPO) as well as “next-gen” pluggable optics. Nvidia already employs co-packaged optics in some of its Spectrum Ethernet and Quantum InfiniBand switches to cut power consumption and improve reliability. Pundits expect NPO to be used in large multirack systems such as Huawei’s new Ascend 960DT-based SuperPods. Nvidia’s future multi-rack systems are widely expected to use NPO as well. The fab says its SiGe tech has already been validated up to 200 Gbps per lane, which is required for 1.6 Tbps transceivers. Faster lane speeds could open the door to 3.2 Tbps transceivers, which are also on its roadmap. Demand for optics technologies has surged thanks in no small part to everyone’s fa
-
 ## Engadget
+
+### The new Resident Evil movie captures the survival horror magic of the games
+Fri, 18 Sep 2026 18:56:15 +0000 — https://www.engadget.com/2262746/the-new-resident-evil-movie-captures-the-survival-horror-magic-of-the-games/
+
+Resident Evil is yet another horror classic from the director of Weapons.
+
+### Disney hires ex-CEO of AI company it accused of copyright infringement
+Fri, 18 Sep 2026 18:36:47 +0000 — https://www.engadget.com/2262703/disney-hires-ex-ceo-of-ai-company-it-accused-of-copyright-infringement/
+
+What's a little IP theft between friends?
+
+### FCC allows Gulf state wealth funds to own nearly half of Paramount-Warner Bros.
+Fri, 18 Sep 2026 18:22:10 +0000 — https://www.engadget.com/2262681/fcc-allows-gulf-state-wealth-funds-to-own-nearly-half-of-paramount-warner-bros/
+
+Great news for the Ellisons and Saudi Arabia. Everyone else: not so much!
+
+### The Transformers: The Movie re-review: Still the best (and it's not close)
+Fri, 18 Sep 2026 15:15:00 +0000 — https://www.engadget.com/2262294/the-transformers-the-movie-re-review-40th-anniversary/
+
+In honor of its 40th anniversary, we celebrate the greatest Transformers movie ever made.
 
 ### The Street Fighter movie popcorn bucket is gloriously goofy
 Fri, 18 Sep 2026 14:30:18 +0000 — https://www.engadget.com/2262242/street-fighter-movie-popcorn-bucket-is-gloriously-goofy/
@@ -342,85 +362,65 @@ Fri, 18 Sep 2026 08:18:12 +0000 — https://www.engadget.com/2262023/waymo-is-ex
 
 Waymo has announced its next international location: Singapore.
 
-### eGPUs do work, but they come with some notable limitations
-Thu, 17 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2257761/egpu-come-with-limitations/
-
-You're probably better off buying a basic gaming PC than messing with an eGPU.
-
-### Google's revamped CC is an AI agent for families and groups
-Thu, 17 Sep 2026 22:55:08 +0000 — https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/
-
-CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing.
-
-### Anthropic says Claude 'leads' 26 percent of its AI R&D work
-Thu, 17 Sep 2026 22:30:01 +0000 — https://www.engadget.com/2261909/anthropic-says-claude-leads-26-percent-of-its-ai-research-and-development/
-
-The company shared the stat alongside three measurements that help communicate the pace of AI development.
-
-### FAA says laser strikes on aircraft fell for the third consecutive year
-Thu, 17 Sep 2026 22:15:46 +0000 — https://www.engadget.com/2261903/faa-says-laser-strikes-on-aircraft-fell-for-the-third-consecutive-year/
-
-The FAA says the 4,470 laser strikes recorded so far this year is still too high.
-
 ## TechCrunch
 
-### Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026
-Fri, 18 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/
+### A new kind of AI model from a ChatGPT inventor is thrilling developers
+Fri, 18 Sep 2026 18:49:30 +0000 — https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/
 
-Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.
+Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.
 
-### Researchers used Anthropic s Claude to hack into OpenAI
-Fri, 18 Sep 2026 14:00:14 +0000 — https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/
+### Disney s first CTO led an AI startup it once accused of copying its characters
+Fri, 18 Sep 2026 17:59:53 +0000 — https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/
 
-Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.
+The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.
 
-### The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026
-Fri, 18 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/
+### In India, the new iPhone can arrive faster than a pizza
+Fri, 18 Sep 2026 17:45:00 +0000 — https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/
 
-Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.
+Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.
 
-### Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal
-Fri, 18 Sep 2026 00:02:36 +0000 — https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/
+### Google s new CC is an AI agent that helps families run their households
+Fri, 18 Sep 2026 17:33:50 +0000 — https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/
 
-Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.
+Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.
 
-### Crusoe raises $3.9B to build massive data centers and small modular AI factories
-Thu, 17 Sep 2026 23:25:52 +0000 — https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/
+### Joby Aviation s 3,100-mile autonomous flight signals its push beyond electric air taxis
+Fri, 18 Sep 2026 17:26:41 +0000 — https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/
 
-The round values the data center giant at $30.9 billion.
+An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.
 
-### Google DeepMind launches institute to widen the AGI debate
-Thu, 17 Sep 2026 23:21:17 +0000 — https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/
+### Dario Amodei and other AI leaders want to Pace the Frontier but…how?
+Fri, 18 Sep 2026 17:09:56 +0000 — https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/
 
-The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. "They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier."
+A week after an Anthropic researcher s doomsday warning rattled the AI world, the company s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it s already picked up some industry support, along with some pointed pushback from Nvidia s Jensen Huang. Watch [ ]
 
-### Amazon-owned Zoox s 100-robotaxi limit in Nevada is about to disappear
-Thu, 17 Sep 2026 23:08:24 +0000 — https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/
+### Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops
+Fri, 18 Sep 2026 16:35:49 +0000 — https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/
 
-An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.
+Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.
 
-### PrismML hopes its tiny LLM will change how we all use AI
-Thu, 17 Sep 2026 22:34:09 +0000 — https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/
+### Family offices are clamoring for AI investments
+Fri, 18 Sep 2026 16:00:00 +0000 — https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/
 
-If AI lab PrismML isn't on your radar yet, it should be.
+Whether it's a permanent shift or part of a familiar cycle is worth asking, though.
 
-### The FAA s plan to fix air traffic? $875M worth of AI
-Thu, 17 Sep 2026 22:14:59 +0000 — https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/
+### FBI, Coast Guard boarded hacked oil tankers heading toward US coast
+Fri, 18 Sep 2026 15:44:09 +0000 — https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/
 
-A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.
+The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.
 
-### The fix for rogue AI agents could be more AI
-Thu, 17 Sep 2026 20:34:47 +0000 — https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/
+### Open or closed AI? Nvidia s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026
+Fri, 18 Sep 2026 15:30:00 +0000 — https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/
 
-As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.
+Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.
 
-### OpenAI caught its models leaving notes to successors to hide bad behavior
-Thu, 17 Sep 2026 20:34:24 +0000 — https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/
+### Meta s Muse hits Mac, letting the AI take actions on your computer
+Fri, 18 Sep 2026 15:22:48 +0000 — https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/
 
-OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.
+Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.
 
-### Is the AI safety debate about safety or control?
-Thu, 17 Sep 2026 20:19:37 +0000 — https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/
+### I’m so mad that I love Orion s $2,195 AI mattress pad
+Fri, 18 Sep 2026 15:22:16 +0000 — https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/
 
-Not everyone agrees with Amodei's call for globally coordinated action for AI safety.
+Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your entire bed is the cool side.
 

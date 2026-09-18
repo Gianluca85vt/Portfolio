@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-18T14:38:37.738Z
+# AI — harvested 2026-09-18T19:11:17.525Z
 
 ## OpenAI
 
@@ -11,16 +11,6 @@ Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO proces
 Thu, 17 Sep 2026 00:00:00 GMT — https://openai.com/index/astra-for-law
 
 OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.
-
-### Helping older adults use AI in everyday life
-Wed, 16 Sep 2026 16:00:00 GMT — https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
-
-OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.
-
-### Our framework for reporting model misalignment
-Wed, 16 Sep 2026 17:00:00 GMT — https://openai.com/index/model-misalignment-reporting-framework
-
-OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.
 
 ## Hugging Face
 
