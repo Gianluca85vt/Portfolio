@@ -1,72 +1,87 @@
-# Manga — harvested 2026-09-18T09:12:03.575Z
+# Manga — harvested 2026-09-18T14:38:37.738Z
 
 ## Anime News Network
 
-### Butt Detective TV Anime Gets New Episodes Starting on October 3
-Fri, 18 Sep 2026 00:02:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/butt-detective-tv-anime-gets-new-episodes-starting-on-october-3/.241932
+### Five Anime Based on Adult Games You Should Watch
+Fri, 18 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-16/five-anime-based-on-adult-games-you-should-watch/.241449
 
-Previous batch of new episodes debuted on April 4
+Did you know some of your favorite anime got their start as adult games?
 
-### Suikoden Anime's New Video Reveals Ending Song, October 3 TV Debut
-Thu, 17 Sep 2026 23:35:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/suikoden-anime-new-video-reveals-ending-song-october-3-tv-debut/.241930
+### This Week in Games - Level-5 CEO's Stands by Generative AI, and a Preview of Harvest Moon: Echoes of Teradea
+Fri, 18 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-09-17/level-5-ceo-stands-by-generative-ai-and-a-preview-of-harvest-moon-echoes-of-teradea/.241829
 
-Koji Nakamura performs ending song "closed eye sun" featuring Honoka Takahashi
+It's time to go back to the farm with the new <i>Harvest Moon</i> game, which is mercifully free of the AI controversy over at Level-5.
 
-### Dark Machine the Animation Series Reveals 3rd Promo Video, Ending Theme Song, Manga Adaptation
-Thu, 17 Sep 2026 23:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/dark-machine-the-animation-series-reveals-3rd-promo-video-ending-theme-song-manga-adaptation/.241918
+### Bandai Namco Cross Store and THE GUNDAM BASE Opening at Mall of America
+Fri, 18 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/press-release/2026-09-18/bandai-namco-cross-store-and-the-gundam-base-opening-at-mall-of-america/.241892
 
-Sandaime J Soul Brothers perform ending theme song "Galaxy Mode" for October 13 anime
+Second U.S. locations of both retail concepts to open September 30, bringing GUNPLA, collectibles, toys, games, and more to fans across the Midwest.
 
-### Patlabor: The Case Files is Clunky as All Hell—And That's The Point
-Thu, 17 Sep 2026 23:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/patlabor-the-case-files-is-clunky-as-all-hell-and-that-the-point/.241929
+### Dragon Ball Xenoverse 3 Feels Like a Game a Decade Out of Time
+Fri, 18 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/dragon-ball-xenoverse-3-feels-like-a-game-a-decade-out-of-time/.241931
 
-A fun, fluid combat system would make for a much more enjoyable game to play… but it wouldn’t feel like <cite>Patlabor</cite> either.
+Everything in <cite>Xenoverse 3</cite>'s Tokyo Game Show demo felt horribly dated.
 
-### Edia Re-Releases Falcom's Dragon Slayer: The Legend of Heroes I & II Games
-Thu, 17 Sep 2026 23:24:35 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/edia-re-releases-falcom-dragon-slayer-the-legend-of-heroes-i-and-ii-games/.241926
+### The Misfit Class Takes to the Stage: An Interview with Makoto Moriwaki and Setsuo Ito
+Fri, 18 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/the-misfit-class-takes-to-the-stage-an-interview-with-makoto-moriwaki-and-setsuo-ito/.241123
 
-Edia will re-release PC-98 versions of games
+The series has four seasons for a reason. Jairus Taylor talks to the anime's chief director, Makoto Moriwaki, and voice actor Setsuo Itō.
 
-### The Diary of a Middle-Aged Sage's Carefree Life in Another World Anime's Teaser Unveils Tomokazu Sugita in Cast, January Debut
-Thu, 17 Sep 2026 23:17:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/the-diary-of-a-middle-aged-sage-carefree-life-in-another-world-anime-teaser-unveils-tomokazu-sugita-/.241928
+### I'm in Love With Ace Combat 8's Focus on Characters
+Fri, 18 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/im-in-love-with-ace-combat-8-focus-on-characters/.241895
 
-Sugita plays protagonist Zelos Merlin
+<cite>Ace Combat 8</cite> works hard to make your fellow pilots more than faceless voices on the comms channel.
 
-### AnimeJapan Opens Entry Submissions for 'New Creator Awards 2027' on October 1
-Thu, 17 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/animejapan-opens-entry-submissions-for-new-creator-awards-2027-on-october-1/.241898
+### Earth Defense Force 6.2 Invaders From Another World Game Launches on March 18
+Fri, 18 Sep 2026 08:17:05 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/earth-defense-force-6.2-invaders-from-another-world-game-launches-on-march-18/.241942
 
-Deadline of entries until February 6, 2027; winners to be announced at AnimeJapan 2027 event
+Updated game to launch for PS5, to include newly added enhancements for console
 
-### Firefly Wedding TV Anime's Promo Video Reveals Iri's Opening Theme Song
-Thu, 17 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/firefly-wedding-tv-anime-promo-video-reveals-iri-opening-theme-song/.241915
+### Even the Student Council Has its Holes! TV Anime Reveals Ending Theme in 2nd Main Promo Video
+Fri, 18 Sep 2026 08:01:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/even-the-student-council-has-its-holes-tv-anime-reveals-ending-theme-in-2nd-main-promo-video/.241945
 
-Iri performs "Period" for anime debuting on October 9
+Akari Nanawo performs ending theme for series debuting on October 3
 
-### 7th Be Forever Yamato: Rebel 3199 Film Unveils Main Trailer
-Thu, 17 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/7th-be-forever-yamato-rebel-3199-film-unveils-main-trailer/.241890
+### Fate/Extra Record Feels Like Persona Meets Slay the Spire
+Fri, 18 Sep 2026 08:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/fate-extra-record-feels-like-persona-meets-slay-the-spire/.241602
 
-7th, final film opens in Japan on October 30
+If card-based battle systems and heroes from myth and legend are your jam, have I got the game for you.
 
-### Gorō Kanbe's Golian no Junjō na Junai Manga Ends
-Thu, 17 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/goro-kanbe-golian-no-junjo-na-junai-manga-ends/.241878
+### The Salty Koharu Has a Soft Spot for Me TV Anime Reveals October 6 Debut in Video
+Fri, 18 Sep 2026 07:56:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/the-salty-koharu-has-a-soft-spot-for-me-tv-anime-reveals-october-6-debut-in-video/.241944
 
-Manga launched on April 21
+Masayoshi Ōishi, HoneyWorks feat. Hoshikawa Sara perform theme songs
 
-### Live-Action Can You Kiss Me First? Series' Teaser Reveals October 19 TV Debut
-Thu, 17 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/live-action-can-you-kiss-me-first-series-teaser-reveals-october-19-tv-debut/.241886
+### 'Are You a Landmine, Chihara-san?' TV Anime's Teaser Trailer Streamed
+Fri, 18 Sep 2026 07:05:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/are-you-a-landmine-chihara-san-tv-anime-teaser-trailer-streamed/.241943
 
-Series stars Jin Suzuki, Gaku Oshida
+Anime debuts in January 2027 following delayu
 
-### The Failure at God School Manga Gets TV Anime
-Thu, 17 Sep 2026 11:44:53 -0400 — https://www.animenewsnetwork.com/news/2026-09-17/the-failure-at-god-school-manga-gets-tv-anime/.241912
+### Relive Your FF7 Trauma in Tokyo Game Show Photo Op
+Fri, 18 Sep 2026 07:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-18/relive-your-ff7-trauma-in-tokyo-game-show-photo-op/.241940
 
-<cite>The Apothecary Diaries'</cite> Hyuganatsu, Modomu Akagawara debuted manga in August 2021
+Or try to change the fate of Gaia and protect Aerith from Sephiroth
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Summer 2026 Anime Rankings – Week 11
+Fri, 18 Sep 2026 12:30:00 GMT — https://animecorner.me/summer-2026-anime-rankings-week-11/
+
+Mushoku Tensei Season 3 stays on top of the Summer 2026 anime rankings in Week 11 with 15.61% of the vote, followed by Though I Am an Inept Villainess and Jaadugar: A Witch in Mongolia.
+
+### Suikoden Anime Reveals Third Trailer, Ending Theme Song and October 3 Premiere
+Fri, 18 Sep 2026 11:06:00 GMT — https://animecorner.me/suikoden-anime-reveals-third-trailer-ending-theme-song-and-october-3-premiere/
+
+Suikoden: The Anime, the anime adaptation of Suikoden II, revealed the ending song and an October 3 premiere in a third trailer.
+
+### Are You a Landmine, Chihara-san? Anime Teaser Trailer Revealed
+Fri, 18 Sep 2026 10:50:03 GMT — https://animecorner.me/are-you-a-landmine-chihara-san-anime-teaser-trailer-revealed/
+
+The first teaser trailer for the anime Are You a Landmine, Chihara-san? has released ahead of its January 2027 release date.
 
 ### Firefly Wedding Main Trailer Featuring Opening Theme Song by iri Revealed
 Fri, 18 Sep 2026 08:32:47 GMT — https://animecorner.me/firefly-wedding-main-trailer-featuring-opening-theme-song-by-iri-revealed/
@@ -113,21 +128,6 @@ Thu, 17 Sep 2026 08:55:58 GMT — https://animecorner.me/umamusume-to-sponsor-th
 
 Umamusume: Pretty Derby has announced a sponsor partnership with MotoGP™ ahead of the 2026&hellip;
 
-### Re:ZERO Reveals Daisuke Ono as the Voice of Divine Dragon Volcanica in Episode 83 (Season 4 Episode 17)
-Wed, 16 Sep 2026 14:48:53 GMT — https://animecorner.me/rezero-reveals-daisuke-ono-as-the-voice-of-divine-dragon-volcanica-in-episode-83-season-4-episode-17/
-
-Re:ZERO announced Daisuke Ono as the voice of Volcanica, a new character introduced in Episode 83 (Season 4 Episode 17).
-
-### BanG Dream! Releases "Tuning" Special Music Video
-Wed, 16 Sep 2026 13:49:41 GMT — https://animecorner.me/bang-dream-releases-tuning-special-music-video/
-
-BanG Dream! released a "Tuning" special music video that features scenes from the recently&hellip;
-
-### BanG Dream's millsage Covers "Pretender" by Official Hige Dandism
-Wed, 16 Sep 2026 13:25:50 GMT — https://animecorner.me/bang-dreams-millsage-covers-pretender-by-official-hige-dandism/
-
-One of BanG Dream!'s bands, millsage, covered the song "Pretender" by Official Hige Dandism.&hellip;
-
 ## MyAnimeList News
 
 ### Silent Witch Author and Mushoku Tensei Artist Begin New Light Novel
@@ -154,11 +154,6 @@ Production company Bandai Namco Filmworks opened an official website for a telev
 Wed, 16 Sep 2026 07:58:20 -0700 — https://myanimelist.net/news/74727107?_location=rss
 
 An official website opened for an original television anime co-produced by Japan and France titled Aoki Denshou Welsh &amp; Shedar, and it revealed the main cast, staff, and a key visual (pictured) on Wednesday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Voice actors Rikuya Yasuda (Mayonaka Heart Tune) and Yuuki Kaji (Shingeki no Kyojin) are starring as Welsh and Shedar, respectively. Staff Director: Naoki Horiuchi (Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemash...
-
-### Demons Crest Announces Additional Cast
-Wed, 16 Sep 2026 02:33:37 -0700 — https://myanimelist.net/news/74725906?_location=rss
-
-The official website for the original net anime adaptation of Reki Kawahara s Demons Crest light novel announced additional cast on Wednesday. The anime is scheduled to premiere on Amazon Prime Video on November 6. Cast Teruki Sugamo: Yuusuke Kobayashi (Re:Zero kara Hajimeru Isekai Seikatsu) Aria Misono: Maaya Uchida (Kaya-chan wa Kowakunai) Kai Kisanuki: Rie Murakawa (Komi-san wa, Comyushou desu.) Sumika Watamaki: Sora Amamiya (Kono Subarashii Sekai ni Shukufuku wo!) Kenichirou Komay...
 
 ## Otaku USA
 

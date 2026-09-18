@@ -1,6 +1,26 @@
-# Games — harvested 2026-09-18T09:12:03.575Z
+# Games — harvested 2026-09-18T14:38:37.738Z
 
 ## Eurogamer
+
+### Final Fantasy 7 Revelation will be "around 200GB" says game director, as he details Sephiroth and Vincent Valentine DLC plans
+Fri, 18 Sep 2026 13:04:26 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-200gb-file-size-dlc
+
+We're still about six months out from the release of Final Fantasy 7 Revelation, the final part of the FF7 Remake trilogy. But, already, there is a lot of discussion about the size of the game; whether it's all the divisive side activities on offer in the title, or the fact it won't be shipping totally on-disc at launch thanks to the amount of stuff it'll feature, director Naoki Hamaguchi is already fielding a lot of questions about 'size versus quality' in the last game in the Remake series. Read more
+
+### Control Resonant review
+Fri, 18 Sep 2026 13:00:00 +0000 — https://www.eurogamer.net/control-resonant-review
+
+The first time I ate mold was like something out of a Victorian morality play. It was in boarding school, when fuzzy blue-grey discs would sometimes appear on the bottom of a quiche, or after I saw one of the kitchen ladies use a cleaning rag to cover a tray of cauliflower cheese. We were told it was a good source of protein, and because I complained, I had to collect rubbish for a weekend in my school uniform. Outside the realm of edible mushrooms and respectable fungi and polite society, the idea of eating mold is kinda gross. But here I am, in Control Resonant, faced with the Temptation of Saint Mycology, while my handler screams in my ear for me to put the mold down. I will not. I'm Dylan Faden, and this is Jackass. Read more
+
+### Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: "This is just the beginning"
+Fri, 18 Sep 2026 11:55:42 +0000 — https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning
+
+Nintendo is having a pretty good time of it at the moment. Last year, we learned that the Switch 2 became the fastest selling video game hardware device in US history, usurping the PS4's golden record . Then, earlier this year, we learned that Switch 2 sales reached nearly 20m almost one year after release , making it the second-fastest selling console in US history . Buoyed by the runaway successes of games like Pokopia and other first-party hits, not even the reality of a hardware price rise seems to be hobbling Nintendo's momentum. Read more
+
+### Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year
+Fri, 18 Sep 2026 10:15:25 +0000 — https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo
+
+Rockstar has remained very tight-lipped about GTA 6 's multiplayer component, the potential successor to GTA 5 's incredibly popular Grand Theft Auto Online , not yet commenting on whether it will even launch one. All we know currently is that when Grand Theft Auto 6 arrives on 19th November , it'll only include the single-player campaign. Read more
 
 ### Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert
 Fri, 18 Sep 2026 09:08:43 +0000 — https://www.eurogamer.net/japan-game-development-layoffs-exec-money
@@ -42,27 +62,22 @@ Thu, 17 Sep 2026 08:36:26 +0000 — https://www.eurogamer.net/monster-hunter-asc
 
 Brace yourselves, everyone: the Monster Hunter Wilds Ascendance marketing machine is spinning up. Today, at Tokyo Game Show, Capcom released the an extended cut of the first official trailer for Ascendance, revealing the explosion-loving leonine monster, Teostra, as a huntable foe. Read more
 
-### PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature
-Thu, 17 Sep 2026 08:16:11 +0000 — https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature
-
-A new PlayStation 5 firmware update has officially arrived for everyone, after about a month of testing. The change log for firmware version 26.06-14.00.00 has changed in one major way since the beta first went live in August . Read more
-
-### Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who "constantly tweet anti-crunch messaging"
-Wed, 16 Sep 2026 19:15:25 +0000 — https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement
-
-Joe Brammer, CEO of Bulkhead, the developer behind The Turing Test, Battalion 1944 , and now the hugely successful new release Wardogs, has found himself in somewhat hot water, following a revealing interview where he discussed work culture at the UK studio. Read more
-
-### More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down
-Wed, 16 Sep 2026 18:49:00 +0000 — https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down
-
-Another round of layoffs is seemingly sweeping through Build A Rocket Boy, the studio responsible for MindsEye and founded by GTA veteran Leslie Benzies. The studio's future is now uncertain. Read more
-
-### Monster Hunter Wilds will soon stop charging players to edit their characters as Capcom scraps the game's worst microtransaction
-Wed, 16 Sep 2026 17:47:52 +0000 — https://www.eurogamer.net/monster-hunter-wilds-edit-characters-capcom-microtransaction
-
-Arguably Monster Hunter Wilds ' most egregious microtransaction is being retired, and, soon, you'll be able to edit your hunters and cat-friend Palicos whenever you like, as many times as you like. Read more
-
 ## GamesIndustry.biz
+
+### Pulling focus: Must AAA pander to the distracted? | Opinion
+Fri, 18 Sep 2026 13:45:12 +0000 — https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distracted-opinion
+
+There's been a lot of talk in recent years about the effect that the inflation of development budgets has had on the industry. As budgets in the hundreds of millions of dollars have become common, cracks have emerged in the foundations of the entire model for funding new games. Attitudes to risk have been warped in strange ways under the weight of those financial expectations; a desire for the certainty of proven IP, twisted around by a reckless willingness to take huge swings at incredibly slim chances of equally huge rewards . Read more
+
+### Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: "You always have to go out and create enthusiasm"
+Fri, 18 Sep 2026 10:22:40 +0000 — https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm
+
+Some may argue Grand Theft Auto 6 does not require a marketing campaign, but Take-Two Interactive president Strauss Zelnick emphasised that established brands need to maintain awareness. Read more
+
+### King workers to strike in Sweden following rejection of collective bargaining agreement
+Fri, 18 Sep 2026 09:51:27 +0000 — https://www.gamesindustry.biz/king-workers-to-strike-in-sweden-following-rejection-of-collective-bargaining-agreement
+
+Swedish trade unions Unionen and Sveriges Ingenj&ouml;rer have issued a strike notice against King after executives rejected a proposed collective bargaining agreement last month . Read more
 
 ### Dredge maker Black Salt Games establishes indie studio Team Trifold under new Saltworks Entertainment label
 Fri, 18 Sep 2026 08:04:19 +0000 — https://www.gamesindustry.biz/black-salt-games-establishes-indie-studio-team-trifold-under-new-saltworks-entertainment-label
@@ -79,15 +94,15 @@ Thu, 17 Sep 2026 14:29:58 +0000 — https://www.gamesindustry.biz/draft-of-new-e
 
 The EU Commission has published a draft for the proposed EU KIDS Act . While the most controversial stipulations &ndash; namely a ban for under 13's and restrictions for under 15 year old kids &ndash; only apply to social networks and video sharing platforms &ndash; others also apply to online games. If approved, the rules would apply to all online games sold in EU territories, and introduce significant restrictions to common online features - the definition is extremely broad and could be held to cover everything from Roblox to the multiplayer mode of a disc-based game. Here is a first analysis. Read more
 
-### "Every major publisher has approached us to review their old Kinect and Wii catalogue" – Nex Playground is spoilt for choice as its international rollout continues
-Thu, 17 Sep 2026 13:00:00 +0000 — https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalogue-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues
-
-With over a million units sold, and approaching a million paying subscribers using them, the next step in Nex Playground's global expansion &ndash; backed by fresh investmnent and an expanded leadership team including EA founder Bing Gordon and former Niantic and Zynga CFO Jeff Shouger &ndash; is Germany. The family-friendly micro-console will officially release in the territory later this year, retailing at &euro;319. Read more
-
 ### Nex Playground announces $150m in new funding as hardware sales pass one million
 Thu, 17 Sep 2026 13:00:00 +0000 — https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million
 
 Nex has secured $150 million in funding as sales of its family-oriented active console, Nex Playground, exceed one million units. Read more
+
+### "Every major publisher has approached us to review their old Kinect and Wii catalogue" – Nex Playground is spoilt for choice as its international rollout continues
+Thu, 17 Sep 2026 13:00:00 +0000 — https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalogue-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues
+
+With over a million units sold, and approaching a million paying subscribers using them, the next step in Nex Playground's global expansion &ndash; backed by fresh investmnent and an expanded leadership team including EA founder Bing Gordon and former Niantic and Zynga CFO Jeff Shouger &ndash; is Germany. The family-friendly micro-console will officially release in the territory later this year, retailing at &euro;319. Read more
 
 ### Remedy's Arhi Makkonen on designing the "biggest world we have ever done" for Control Resonant
 Thu, 17 Sep 2026 10:29:52 +0000 — https://www.gamesindustry.biz/remedys-arhi-makkonen-on-designing-the-biggest-world-we-have-ever-done-for-control-resonant
@@ -109,26 +124,21 @@ Wed, 16 Sep 2026 17:32:12 +0000 — https://www.gamesindustry.biz/mindseye-devel
 
 Scottish studio Build a Rocket Boy has reportedly initiated another round of job cuts. Read more
 
-### Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK
-Wed, 16 Sep 2026 16:08:21 +0000 — https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk
-
-We are thrilled to reveal the finalists for the special awards at the UK GamesIndustry.biz Best Places To Work Awards 2026. Read more
-
-### 1312 Interactive raises $1m in seed funding round
-Wed, 16 Sep 2026 13:25:18 +0000 — https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round
-
-Publishing house 1312 Interactive has secured $1 million in a seed funding round. Read more
-
-### "I really want Criterion to be considered the best studio in the UK" – why the home of Burnout has a future with Battlefield
-Wed, 16 Sep 2026 13:07:10 +0000 — https://www.gamesindustry.biz/i-really-want-criterion-to-be-considered-the-best-studio-in-the-uk-why-the-home-of-burnout-has-a-future-with-battlefield
-
-Criterion's future is not like its past. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Review: Control Resonant (PS5) - A Wildly Inventive and Drop-Dead Gorgeous Sequel
+Fri, 18 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/reviews/ps5/control-resonant
+
+You mustn't be afraid to dream a little bigger, darling. I’m fighting a possessed bus with a weapon that morphs from an axe to a whip whilst the skyscrapers of Manhattan fold in on themselves like I’m in a dream from Inception. Nowhere else could this be the case than in a Remedy game. Releasing its third entry in the Remedy Connected Universe, Control Resonant has the Finnish developer’s DNA all over it. It’s inventive, weird, gorgeous, and as far as sequels go, a pretty hefty step up from the 2019 original – although I still have my issues. Read the full article on pushsquare.com
+
+### Preview: I Ferried a Soba Noodles Fan Around Tokyo in Crazy Taxi: World Tour, But I Have a Lingering Nitpick with This PS5 Revival
+Fri, 18 Sep 2026 11:30:00 GMT — https://www.pushsquare.com/previews/i-ferried-a-soba-noodles-fan-around-tokyo-in-crazy-taxi-world-tour-but-i-have-a-lingering-nitpick-with-this-ps5-revival
+
+Shibuya cross. SEGA’s really giving us unprecedented pre-release access to Crazy Taxi: World Tour , the 2027 revival of AM3’s all-time classic arcade ferry-’em-up. Back at Gamescom I spoke to director Kenji Kanno before getting my hands on the new Germany map , while my colleague Stephen Tailby tested out the closed beta test this weekend – and likened it to a nostalgic era of PS3 multiplayer modes. Read the full article on pushsquare.com
 
 ### Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds
 Thu, 17 Sep 2026 20:15:00 GMT — https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds
@@ -180,17 +190,17 @@ Thu, 17 Sep 2026 12:20:00 GMT — https://www.pushsquare.com/news/2026/09/gta-6-
 
 Several tracks revealed. Rockstar Games has announced the official GTA 6 album, and it's now available for pre-order via Atlantic Records. Via the official site , you can pre-purchase the album on CD or vinyl, with the latter available in two options — a standard edition and a limited edition. You can also pre-save the album on music services like Apple Music, Spotify, and so on. Read the full article on pushsquare.com
 
-### It s Devastating : Hyper Light Drifter Dev Lays Off Nearly All Staff After Publisher Pulls Funding
-Thu, 17 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/09/its-devastating-hyper-light-drifter-dev-lays-off-nearly-all-staff-after-publisher-pulls-funding
-
-Future of Heart Machine uncertain. Alx Preston, head of developer Heart Machine, has announced some unfortunate news for the studio. Via a post on LinkedIn , he has shared that "nearly everyone" at Heart Machine has been laid off, and the developer's future is uncertain. Read the full article on pushsquare.com
-
-### Feature: PlayStation Is the Only Platform Holder at TGS 2026, and It s Putting on a Show
-Thu, 17 Sep 2026 11:30:00 GMT — https://www.pushsquare.com/features/playstation-is-the-only-platform-holder-at-tgs-2026-and-its-putting-on-a-show
-
-Inside Sony's enormous booth. Ever since it broke up with E3 , lodging one nail in the convention’s coffin, Sony has shied away from big public displays of affection. The cynics among you would perhaps say it’s reflective of this modern era of PlayStation, where it wants as little to do with its community as possible – but it’s had this approach for quite some time. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### How toolmakers like ARM work with devs, ft. Peter Hodges
+Fri, 18 Sep 2026 14:35:00 GMT — https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges
+
+ARM's Peter Hodges joins us for a conversation about game development tools and the 1969 7-minute short film Lemon.
+
+### King workers call strike after collective agreement negotiations stall
+Fri, 18 Sep 2026 12:03:39 GMT — https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall
+
+Unionized employees at the Candy Crush studio will down tools on September 25 if the impasse cannot be overcome.
 
 ### Game Conference MX (GCMX)
 no date — https://www.gamedeveloper.com/events/untitled
@@ -224,17 +234,37 @@ Thu, 17 Sep 2026 17:49:42 GMT — https://www.gamedeveloper.com/marketing/straus
 
 Take-Two Interactive CEO Strauss Zelnick says 'we cannot convince people something that something that's bad is good.'
 
-### Nex Playground maker secures over $150 million to expand globally
-Thu, 17 Sep 2026 13:00:00 GMT — https://www.gamedeveloper.com/business/nex-playround-maker-secures-over-150-million-to-expand-globally
-
-'This investment gives us the resources to bring active play to millions more families around the world.'
-
-### Hyper Light Drifter developer Heart Machine has laid off the majority of staff
-Thu, 17 Sep 2026 09:13:32 GMT — https://www.gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff
-
-The studio has downsized significantly in recent years and has now reached an existential crossroads.
-
 ## VGC
+
+### Control Resonant review: Remedy gambles on a genre change in one of its most impressive games ever
+Fri, 18 Sep 2026 13:00:55 +0000 — https://www.videogameschronicle.com/review/control-resonant/
+
+The studio behind VGC's 2023 Game of the Year returns with its next single-player epic… Source
+
+### Fire Emblem Fortune’s Weave: Sweet Leaves location for Simple Drink Recipes quest
+Fri, 18 Sep 2026 13:00:11 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-sweet-leaves-location-for-simple-drink-recipes-quest/
+
+Where to find Sweet Leaves to complete Simple Drink Recipes in Fire Emblem: Fortune's Weave… Source
+
+### Fire Emblem Fortune’s Weave: The Missing Granddaughter quest guide
+Fri, 18 Sep 2026 12:36:26 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-the-missing-granddaughter-quest-guide/
+
+Everything you need to complete The Missing Granddaughter Kindness quest in Fire Emblem: Fortune's Weave… Source
+
+### Twitch CEO says Grand Theft Auto 6 s multiplayer mode will launch next year
+Fri, 18 Sep 2026 11:18:55 +0000 — https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/
+
+Dan Clancy says he's "spent a lot of time talking with Rockstar about their plans" Source
+
+### Fire Emblem Fortune’s Weave: Monster in the Night quest guide
+Fri, 18 Sep 2026 10:53:11 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-monster-in-the-night-quest-guide/
+
+Everything you need to complete the Monster in the Night quest in Fire Emblem: Fortune's Weave… Source
+
+### Denuvo sues game hacker for releasing cracks for 26 games that remove its DRM protection
+Fri, 18 Sep 2026 09:57:55 +0000 — https://www.videogameschronicle.com/news/denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-that-remove-its-drm-protection/
+
+Voices38 has been releasing patches that directly target Denuvo's DRM checks… Source
 
 ### CD Projekt Red s move from REDengine to UE5 for The Witcher 4 wasn t because of Cyberpunk s launch, co-CEO says
 Fri, 18 Sep 2026 08:50:54 +0000 — https://www.videogameschronicle.com/news/cd-projekt-reds-move-from-redengine-to-ue5-for-the-witcher-4-wasnt-because-of-cyberpunks-launch-co-ceo-says/
@@ -256,89 +286,89 @@ Thu, 17 Sep 2026 16:09:39 +0000 — https://www.videogameschronicle.com/guide/fi
 
 Why you should and shouldn't skip Part 2 in Fire Emblem: Fortune's Weave… Source
 
-### Fire Emblem Fortune’s Weave: Best story protagonist to choose first, ranked
-Thu, 17 Sep 2026 14:56:24 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-best-story-protagonist-to-choose-first-ranked/
-
-Which of the four Flame Lord protagonist stories you should play first in Fire Emblem: Fortune's Weave… Source
-
-### How progress works in Fire Emblem: Fortune’s Weave in each part
-Thu, 17 Sep 2026 14:34:15 +0000 — https://www.videogameschronicle.com/guide/how-progress-works-in-fire-emblem-fortunes-weave-in-each-part/
-
-You don't need to play Fortune's Weave four times, as we explain in this progress guide… Source
-
-### Fire Emblem Fortune’s Weave FAQ: The biggest questions answered
-Thu, 17 Sep 2026 14:05:46 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-faq-the-biggest-questions-answered/
-
-Is there romance? Paired endings? Do you need to play Three Houses first? All of that answered and more… Source
-
-### What time does EA Sports FC 27 go live? Digital release time in your region and New Zealand trick
-Thu, 17 Sep 2026 13:57:54 +0000 — https://www.videogameschronicle.com/news/what-time-does-ea-sports-fc-27-go-live-digital-release-time-in-your-region-and-new-zealand-trick/
-
-Find out the Early Access and Standard Edition release date and time for EA FC 27… Source
-
-### How long to beat Fire Emblem: Fortune’s Weave and Part lengths
-Thu, 17 Sep 2026 12:51:33 +0000 — https://www.videogameschronicle.com/guide/how-long-to-beat-fire-emblem-fortunes-weave-and-part-lengths/
-
-How long to beat each part of Fire Emblem: Fortune's Weave… Source
-
-### Grand Theft Auto 6 is getting a vinyl, CD and streaming soundtrack with 34 original tracks
-Thu, 17 Sep 2026 12:11:45 +0000 — https://www.videogameschronicle.com/news/grand-theft-auto-6-is-getting-a-vinyl-cd-and-streaming-soundtrack-with-34-original-tracks/
-
-Musicians including Travis Scott and Keith Richards were teasing it this week… Source
-
 ## Polygon
+
+### Massive GTA 5 Leak Reveals Cut DLC Plans and Early GTA 6 Assets
+Fri, 18 Sep 2026 14:37:15 GMT — https://www.polygon.com/gta-5-leak-cut-dlc-gta-6-assets/
+
+Weeks after the steady stream of Grand Theft Auto 6 leaks prior to the game's big extended look on Netflix , Rockstar Games has another leak problem on its hands. This time, a massive amount of data has surfaced from Grand Theft Auto 5 , giving people plenty of canceled DLC plans, scrapped assets, and more to dig through.
+
+### Far Cry TV Show Taps Widow’s Bay Actor and More
+Fri, 18 Sep 2026 14:33:05 GMT — https://www.polygon.com/far-cry-tv-show-fx-cast-widows-bay-hamish-linklater-brendan-gleeson/
+
+While video game adaptations are nothing new in television and film, it feels like it has become the hot thing in recent years. Part of that might be due to the overwhelmingly positive reaction to HBO's The Last of Us , at least the first season. Now we have Zach Cregger's Resident Evil movie also being well-received by critics and fans alike. Ubisoft and FX are trying to get in on the action with their adaptation of the Far Cry games , which just added even more cast members to a list that includes Steve Buscemi.
+
+### Control Resonant Reviews Say Remedy Has Another Hit, but Not Its Best Game
+Fri, 18 Sep 2026 14:24:02 GMT — https://www.polygon.com/control-resonant-review-roundup/
+
+After Remedy's fantastic Alan Wake 2 , expectations were sky-high in the lead up to Control Resonant . The sequel to 2019's Control looked to continue the studio's hot streak with a mind-bending open-world action RPG just in time for an awards season that favors that kind of game. After all that hype, the reviews are finally in, and Remedy did not disappoint, even if it didn't quite leap over the bar set by Alan Wake 2 .
+
+### An Oscar-Winning Director and Sam Raimi Are Now Attached to the Roblox Movie
+Fri, 18 Sep 2026 13:17:58 GMT — https://www.polygon.com/99-nights-in-the-forest-movie-sam-raimi-josh-cooley/
+
+Roblox 's horror survival hit game 99 Nights in the Forest is getting its own movie. While details about the upcoming movie are still scarce, some big names have just been revealed to be attached to the project: Josh Cooley and Sam Raimi.
+
+### Control Resonant Fails At Nearly All of Its Ambitions | Review
+Fri, 18 Sep 2026 13:00:15 GMT — https://www.polygon.com/control-resonant-review/
+
+As Jesse Faden, players explored the depths of The Oldest House, a government facility filled with supernatural phenomena pulled straight from the X-Files , and staffed by even stranger bureaucrats who study them. The action was serviceable and Jesse's motivations were weak, but the labyrinthian building it all took place in was one of the finest pieces of environmental level design and storytelling in recent years. You were compelled to dig deeper, perhaps by something as paranatural as the objects within The Oldest House.
+
+### Giancarlo Esposito Reveals His Dream 'X-Men' Role After Professor X Casting
+Fri, 18 Sep 2026 12:00:15 GMT — https://www.polygon.com/fans-cast-giancarlo-esposito-as-professor-x-but-hed-rather-be-magneto/
+
+In 2022, X-Men fans began circulating photoshopped images of Giancarlo Esposito as Professor Charles Xavier. They imagined the actor best known for villainous roles in Breaking Bad, The Mandalorian and The Gentlemen instead using his gravitas to lead the X-Men. Esposito expressed some enthusiasm for the idea at the time, but now he tells Polygon he's not disappointed that the role in the 2028 X-Men movie instead went to Catch-22 star Christopher Abbott.
+
+### GTA 6 Will Get Multiplayer After All, According to Twitch CEO
+Fri, 18 Sep 2026 10:53:57 GMT — https://www.polygon.com/gta-6-multiplayer-online-coming-2027-twitch-ceo/
+
+Among the many questions still surrounding the most-hyped game of the decade, Grand Theft Auto 6, the one at the forefront of fans' minds is whether they'll be able to play Rockstar's upcoming Florida life-simulation game with their friends. In June, when Rockstar shared GTA 6 's pricing and preorder details, the company emphasized that the game is a "single-player experience." But given how much money GTA Online still makes for them, few people doubt that some form of multiplayer experience will come to the new game too.
+
+### Every Mainline Resident Evil Game, Ranked From Worst to Best
+Fri, 18 Sep 2026 10:00:14 GMT — https://www.polygon.com/resident-evil-games-ranked/
+
+After decades of misses, we’re finally getting a truly great video game movie adaptation. Well, sort of. Zach Cregger’s take on Resident Evil is a hit among critics who have praised the horror movie for its delightfully playful tone. The only catch is that it doesn’t have much to do with the established lore and characters of the actual Resident Evil games . Instead, it tells its own story in the universe, which is probably for the better considering how complicated the game saga gets.
+
+### Solo Leveling's Big 2026 Project Will Explore a Massive Gap in Jinwoo's Life
+Fri, 18 Sep 2026 09:55:41 GMT — https://www.polygon.com/solo-leveling-karma-trailer-story-monarch-war/
+
+Few properties have taken the world of entertainment by storm like Solo Leveling . The Korean fantasy web novel written by Chugong was first adapted into a record-breaking webtoon with hundreds of millions of views, and then into an anime produced by A-1 Pictures. The anime's two seasons turned Solo Leveling into a true global entertainment phenomenon, and a follow-up movie is in the works . But while a date for Sung Jinwoo's next on-screen appearance hasn't been announced yet, Solo Leveling's next video game, Solo Leveling: Karma, is coming soon.
 
 ### 53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s
 Fri, 18 Sep 2026 08:30:14 GMT — https://www.polygon.com/53-years-later-roadside-picnic-still-ends-with-one-of-sci-fis-most-enduring-lines/
 
 Every once in a while, I come across a line that feels bigger than the book that birthed it. Of course, there are classics with years of literary study behind them that speak volumes on the nature of society, technology, or the world writ large. But few are quite as elegant or as profoundly humanistic as the final moments of Arkady and Boris Strugatsky’s Roadside Picnic . The 1972 novel offers a very different kind of sci-fi ending than its myriad predecessors and successors.
 
-### 15 Years Later, Doctor Who's Darkest Matt Smith Episode Still Has the Greatest Twist
-Fri, 18 Sep 2026 07:00:15 GMT — https://www.polygon.com/doctor-who-the-god-complex-anniversary-matt-smith/
-
-“The God Complex,” which first aired almost exactly 15 years ago, isn’t the scariest TV episode of Doctor Who ever, but it’s up there. It has that unsettling quality many episodes have where the TARDIS crew is suddenly trapped somewhere with no idea how they got there. And because the layout of this hotel is constantly changing, they can’t find the TARDIS to escape either. The only way out is through, and the consequences of this episode are far more profound than most fans seem to remember.
-
-### Gundam Rogue Orbit Could Be the Next Great Mech-Action Game
-Fri, 18 Sep 2026 05:58:28 GMT — https://www.polygon.com/gundam-rogue-orbit-impressions-tokyo-game-show-2026/
-
-Bandai Namco's new spin on the Gundam franchise is going big on style. Gundam Rogue Orbit is a high-mobility action game that is meant to be a new entry point for players , thanks to a new setting that doesn't require familiarity with five decades of Gundam lore. After playing a build of Rogue Orbit at Tokyo Game Show this week, it's also clear that the new Gundam game doesn't require hardcore action game expertise; it's a surprisingly friendly action game, not an overly challenging Soulslike.
-
-### Lollipop Chainsaw 2 is Officially Bringing Back the Zombie-Slaying Cheerleader Cheesecake Franchise
-Fri, 18 Sep 2026 04:55:31 GMT — https://www.polygon.com/lollipop-chainsaw-2-tokyo-game-show-2026/
-
-More than 14 years after the zombie hack-and-slash game Lollipop Chainsaw was released, Juliet the undead slayer returns for an official sequel. While many of the original game's creators — namely DC Studios co-CEO James Gunn and Grasshopper Manufacture's Goichi Suda — don't appear to be involved in the sequel, the new game's style and substance feel authentic and familiar, at least on the surface.
-
-### Stephen King's 10/10 Sci-Fi Detective Series Is Officially Free to Watch on YouTube
-Fri, 18 Sep 2026 04:00:20 GMT — https://www.polygon.com/stephen-king-procedural-adaptation-streaming-free/
-
-In 1979, Stephen King introduced the world to Castle Rock, a picturesque Maine town that hides evil within. But while plenty of King's stories in the years since have returned to Castle Rock, none have ever recaptured the experience of that very first trip.
-
-### ABC's Legendary 49-Episode Sci-Fi Anthology Series is Officially Free on Streaming
-Fri, 18 Sep 2026 03:00:15 GMT — https://www.polygon.com/the-outer-limits-free-to-stream/
-
-Created by Leslie Stevens, The Outer Limits was simply ABC’s attempt to replicate CBS’s success with The Twilight Zone . Both shows were high-concept series with different casts and ideas every week carried out by some impressive writers and a wide array of actors who would become well known later. Like the Twilight Zone , the show leaned heavily into science fiction elements with deeper human messages underneath that were often laced with irony.
-
-### 8 Best Social Deception Games Every Traitors Fan Must Play
-Fri, 18 Sep 2026 00:00:14 GMT — https://www.polygon.com/best-games-like-the-traitors/
-
-Video games have been running this exact experiment for many years. These are the eight worth playing if you can’t get enough of The Traitors this season.
-
-### 'Fourth Wing' Author Officially Reveals Four New Characters from Her Next Book
-Thu, 17 Sep 2026 23:49:17 GMT — https://www.polygon.com/fourth-wing-empyrean-series-threshing-day-characters-revealed/
-
-Threshing Day is the next entry in Rebecca Yarros' Empyrean series. This novella will feature threshing day stories from 13 characters mentioned in the Fourth Wing books . Despite the book coming out this month, not much is known about it, as it was only announced a few months before release. Thankfully, Yarros has decided to satisfy our curiosity and reveal which characters will get a story in Threshing Day .
-
-### 10 Near-Perfect PS4 Games Nobody Played
-Thu, 17 Sep 2026 23:00:15 GMT — https://www.polygon.com/underrated-ps4-games/
-
-Released: Mar. 21, 2014
-
-### 'Resident Evil' Ending Explained: How Zach Cregger Quietly Sets Up a Sequel
-Thu, 17 Sep 2026 22:31:18 GMT — https://www.polygon.com/resident-evil-ending-explained/
-
-After spending most of its runtime moving at a frankly ridiculous pace, Resident Evil tapers into what is inarguably one of the best video game movie endings ever and arrives at the exact place you might expect a Resident Evil story to end. There are plenty of skin-dripping zombies, grotesque mutations, and blood (quite literally) everywhere.
-
 ## PC Gamer
+
+### After 894 hours in Slay the Spire 2, these are our 12 strongest opinions
+Fri, 18 Sep 2026 14:17:30 +0000 — https://www.pcgamer.com/games/card-games/slay-the-spire-2-opinions/
+
+Slay the Spire 2 isn't just one of the most popular new games of 2026, it's the most popular deckbuilder ever. 574,638 people were playing the game simultaneously at launch, which vaporizes the genre's record on Steam. It's the first mainstream-ish deckbuilder, and still the most-played card game on Steam by far (Magic: The Gathering Arena has about 1/7th as many people playing it on average). With several months of time with its substantial early access release, we've brought together a panel of editors to share their sharpest thoughts on Slay the Spire 2's design, cards, best bits, and annoyances. Evan Lahti - Strategic Director, PC Gamer: 426 hours, 441 runs as Silent, Monster Train 2 evangelist, 30-minute wins with every character, plays fast and loose Harvey Randall - Staff Writer, PC Gamer: 212 hours, won at least once at A10 on every character Austin Wood - Senior Writer, GamesRadar+: 256 hours, won an A10 streak of every character, one by one Act 1 is too punishing and too boring The easiest way to clear Act 1 reliably is just to rest at every opportunity. This is the main reason that the Miniature Tent relic is the absolute turbo nuts in Act 1 but just good later on. The entire act is a health check, throwing tons of unavoidable damage at you immediately and forcing you to either high-roll a monstrous build within 10 cards or top up for the HP tax of the final boss. Act 1 almost feels balanced around Ironclad, leaving the other characters to just take their lumps. Th
+
+### Gears of War: E-Day system requirements require ray tracing-capable graphics card to play, alongside 115 GB of free space on an SSD
+Fri, 18 Sep 2026 13:46:09 +0000 — https://www.pcgamer.com/games/action/gears-of-war-e-day-system-requirements-require-ray-tracing-capable-graphics-card-to-play-alongside-115-gb-of-free-space-on-an-ssd/
+
+Gears of War: E-Day is set to launch on October 6, though there's early access available before then. In the lead up to launch, The Coalition has posted expanded system requirements for the upcoming bug blast. These include what the game asks of your rig for top performance on the top settings—it's not easygoing, to say the least—but providing your GPU is at least capable of ray tracing, most should get by fine on medium settings. An RTX 5070 Ti or RX 7900 XT will be required in order to run the game at 4K with the Ultra preset enabled. This is targeting a steady 60 fps, and I would assume, from the 12 GB of VRAM noted in the table below, that one should be able to swing it on a lower-end card with some assistance from upscaling. Gears of War: E-Day supports DLSS 4.5, AMD FSR 4, and Intel XeSS 3.0 at launch, so we're not short of options there. MINIMUM RECOMMENDED ULTRA Graphic preset Medium High Ultra Performance 1080p 60 fps (DLSS / FSR / TSR / XeSS) 1440p 60+ fps (DLSS / FSR / TSR / XeSS) 4K 60+ FPS (DLSS / FSR / TSR / XeSS) GPU Nvidia GeForce RTX 5050 / Nvidia GeForce RTX 2060 / AMD Radeon RX 6600 / Radeon RX 9060 Nvidia GeForce RTX 5060 / Nvidia GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT / Radeon RX 9060 XT Nvidia GeForce RTX 5070 Ti / AMD Radeon RX 7900 XT CPU AMD Ryzen 5 2600X / Intel i7 6850K / i5 10400 AMD Ryzen 5 5600 / Intel i5 11600K AMD Ryzen 7 7800X3D / Intel i7 14700K VRAM 6 GB 8 GB 12 GB RAM 12 GB 16 GB 16 GB Storage 115 GB 115 GB 115 GB Otherwise, GPU demand
+
+### Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too
+Fri, 18 Sep 2026 13:01:00 +0000 — https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/
+
+I've spent the past couple of days tinkering with Remedy's latest supernatural action-a-thon, Control Resonant . I've been testing it on my home PC, a fairly powerful (but not outrageous) rig, and I've got some good news: when it comes to balancing image quality with performance, I reckon there's very little reason to stress your own machine out with the top whack settings. My PC is an RTX 5070 Ti -equipped, AMD Ryzen 7 7700X -toting rig with 32 GB of DDR5. It's no slouch, that's for sure—but neither is it a $3,000+ firebreather. And at 1440p, Control Resonant runs smoothly on this machine at nearly every setting, with zero stutters and decent frame rates even with frame generation turned off. You should still prepare your graphics card for a workout if you use the Ultra presets, as Control Resonant features full path tracing at the very tippy top. I've got some image comparisons below, but for now I'll say this: I'm really not going to bother with maximum settings for the rest of my playthrough. This game still looks grand with the graphics options pared back, and when it comes to the ray tracing, you can gain a decent amount of performance by dropping things down. Remedy Remedy Remedy In terms of those graphics options, my goodness do you get a lot of them. The ray tracing can be adjusted independently of the regular graphics presets, which in turn have a full-featured whack of settings to tweak to your hearts content. There's also a choice between DLSS 4.5 and an older, CN
+
+### Control Resonant review
+Fri, 18 Sep 2026 13:00:00 +0000 — https://www.pcgamer.com/games/action/control-resonant-review/
+
+In the first minutes of Control Resonant, Dylan Faden—prototypical sadboy, perpetually kicked puppy, and regretful mass murderer (he got better)—is thrust into a metaphysical war when Jesse, his psychokinetic former protagonist sister, wakes him from a seven year coma by stabbing a magical shape into his chest. She promptly disappears, leaving the Federal Bureau of Control directorless, outgunned, and forced to rely on the man who once killed hundreds of its staff to confront the cataclysm of interdimensional forces violently reshaping Manhattan into a labyrinth of otherworldly logics. Need to Know What is it? Melee action in an open world being ripped apart by interdimensional forces. Release date September 24, 2026 Expect to pay $60/£50 Developer Remedy Entertainment Publisher Remedy Entertainment Reviewed on Geforce RTX 4070 Super, Intel i7-14700K, 32GB DDR5 Steam Deck Unverified Link Steam Dylan and the FBC might be going through it, but Remedy is flexing all its finest talents: sculpting uncanny hellscapes, placing tactical redactions in bureaucratic lore collectibles, and capturing endearingly human performances in circumstances beyond human comprehension. Unfortunately, melee combat isn't on that list of strong suits—and Resonant's open world expects you to do a lot of it. New weird Remedy's environmental artists and lighting tech specialists are at the height of their powers in Resonant: The stark, brutalist surrealism that saturated the Oldest House in the first game
+
+### Over 35,000 people say they signed up for a Steam Frame, and less than half have one reserved
+Fri, 18 Sep 2026 12:37:40 +0000 — https://www.pcgamer.com/hardware/vr-hardware/over-35-000-people-say-they-signed-up-for-a-steam-frame-and-less-than-half-have-one-reserved/
+
+If you signed up for a Steam Frame , it's time to check your inbox for an email from Valve. The company has run its 'one-time randomisation' to decide who gets a unit from the first batch and who is left on the waitlist. Once you know where you land, head over to this community reporting website; we're already getting a good idea of the odds of buying a Steam Frame from the results so far. The odds were stacked against us. That's the picture I get from this tremendous website by coah80 that asks the community, 'Did you get a reservation?' Users can respond with: waitlisted, reserved, or no email yet. With 35,000 (and counting) results so far, it looks like around 44.7% of respondents were lucky enough to get a reservation, and 51.6% are on the waitlist. 3.8% say they haven't received an email yet. A quick reminder of how this works: those of us who signed up for a Steam Frame via the Store page were entered into a one-time raffle that took place on September 17. This determines who has a unit reserved for them and who was added to the waitlist. The reserved units are offered up first, and if someone doesn't buy theirs, the unit moves to the next person on the list. Once those reservations are sorted, Valve will start working through the waitlist. If you sign up for a Steam Frame today, you'll join the back of the waitlist. That's at least 18,254 customers long, at time of writing, though you have to assume that many of the people who signed up for a Steam Frame have no idea t
+
+### World of Warcraft: Forever's devs have fixed EU players suffering major lag, though if you're still having trouble, there is a workaround
+Fri, 18 Sep 2026 10:46:34 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-lag-how-to-fix/
+
+I've been getting stuck into World of Warcraft: Forever 's beta—though I'm a little less levelled up than I'd like to be. Initially, I just chalked this up to launch-day queue problems, but as it turns out, there's a little more to it than that. See, I live in the UK, and Blizzard rarely does beta testing with EU-region players in mind. Forever's no different, the servers appear to be located solely in the US. Which isn't too much trouble, mind, I can deal with playing on 100+ ping for a beta test. What I can't deal with is logging in, having 300 ping, suddenly spiking to 2000 world MS, and then disconnecting. The solution? A VPN . The moment I set my VPN to a US region, I received a cosy 100 ping and zero disconnection issues. As I quested through Durotar during EU times, I was able to corroborate the fix with plenty of other EU players who were experiencing the exact same thing with the exact same solution. The EU WoW Forever beta forums are on fire with (understandable, though perhaps overexpressed ) outrage: "We shouldn’t need a VPN service just to get a playable connection to a game we already paid €60 for," writes one player . "Can confirm VPN fixes it, I have adds another . If this were, say, simply a closed-invite beta, I wouldn't even blink at this issue. But the fact of the matter is that Blizzard has used the beta to sell the Skyborne Epic Pack, it's pretty rough. Here's the store page for the EU: While the pack is keen to mention beta access, I can't find any ment
 
 ### Total War: Warhammer 40,000, Alien: Isolation 2, Modern Warfare 4, and more will be playable ahead of release at PAX Australia next month
 Fri, 18 Sep 2026 02:44:17 +0000 — https://www.pcgamer.com/gaming-industry/events-conferences/total-war-warhammer-40-000-alien-isolation-2-modern-warfare-4-and-more-will-be-playable-ahead-of-release-at-pax-australia-next-month/
@@ -370,37 +400,27 @@ Thu, 17 Sep 2026 21:28:59 +0000 — https://www.pcgamer.com/games/action/hideo-k
 
 Hideo Kojima took to his social media channels earlier today to announce Bill Skarsgård as the new lead for his upcoming stealth-action game, Physint. He also reaffirmed some of the game's casting announcements from before it changed hands from PlayStation to Xbox after a seemingly messy split with Sony. Physint's top-billed cast are: Bill Skarsgård Charlee Fraser Don Lee Minami Hambe Alongside the casting announcement, Kojima shared a new poster for Physint featuring Skarsgård, Fraser, and the new tagline "The Next Cold War Begins." Tucked away at the bottom is, perhaps, the most exciting news for me personally: Third-billed on production behind Hideo Kojima and Hideo Kojima is the GOAT, Yoji Shinkawa, on "character and mechanical design." The longtime Kojima collaborator and Metal Gear character artist also worked at Kojima Productions on Death Stranding, but it's comforting to get confirmation he was unaffected by the recent production dust-up. Speaking of Physint's continuity, Fraser, Lee, and Hamabe had all been confirmed in a prior Kojima Productions announcement about Physint's cast. Skarsgård as leading man John Physint (working name) is the only new casting info⁠—though, like with Shinkawa, it's probably worth clarifying after everything that's happened. I was initially disappointed. Based on John Physint's shadowy appearance in the game's first teaser, I was hoping Kojima would spring for Robert Pattinson in the role. He's a known gamer on a bit of an all-time caree
 
-### The Blood of Dawnwalker sequel may not have the divisive time mechanic that so many players dislike: 'We will not force it,' game director says
-Thu, 17 Sep 2026 20:58:56 +0000 — https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sequel-may-not-have-the-divisive-time-mechanic-that-so-many-players-dislike-we-will-not-force-it-game-director-says/
-
-The Blood of Dawnwalker is a pretty excellent RPG, but there's one aspect of it that not everyone loves: Time. Simply put, it's a limited resource in the game, which restricts what Coen—that's you—can do. Our reviewer, Australian editor Shaun Prescott, found it injected a sense of urgency into the game , at least in the early going, but said he'd "also like to pick some nirnroot and play some Gwent, thank you very much"—that is, have the time to relax and fiddle with non-essential tasks on his own terms, at his own pace. Other players clearly felt the same way: One of the first mods to come out for The Blood of Dawnwalker is the " Better Story Timer ," which effectively eliminates the impact of the ticking clock entirely—and which has since become, by far, the most popular Dawnwalker mod on Nexus Mods. How much of an impact that reaction has had over at developer Rebel Wolves is impossible to say, but in an interview with Eurogamer , studio CEO and game director Konrad Tomaszkiewicz said it might not be used for the game's sequel. "We will play with it. If we will have parts of the story, or the whole story, to which it fits, then we will use it," Tomaszkiewicz said. "If we will have stories where it does not fit, we will not force it. We will play with this system and we will try to use it to boost the urgency of some events in the game. But I'm not saying that in every game we will have the same scheme or loop—it's not like this." Tomaszkiewicz acknowledged complaints about
-
-### Wardogs is the only FPS where I actually expect to get revived
-Thu, 17 Sep 2026 20:54:51 +0000 — https://www.pcgamer.com/games/fps/wardogs-is-the-only-fps-where-i-actually-expect-to-get-revived/
-
-There exists in classed-based military shooters an understanding: Never count on a random medic to care about you. You'd think in games where players have to opt into the support role, it'd be as simple as "There's a medic nearby, they'll try to get me," but any Battlefield player will tell you how often trained doctors trample over their corpse, more hungry to end a life than save one. So you learn to assume that you're on your own, and when a real medic does go out of their way to help you, they're the exception that proves the rule. Wardogs is different. Help is so abundant in this 100-player, three-team milsim that, when I die, I can be confident a second, third, or even a fourth chance is coming. It's the only FPS I've played where multiple medics will actually race to give me first-aid, drag my body to safety, or pop a smoke grenade to cover a revive. I've also played shooters where support play is taken more seriously than in Battlefield—Squad, Hell Let Loose, Isonzo, Arma, and other games on the "milsim" spectrum come to mind—but Bulkhead has successfully crafted a medic role so accessible and appealing that damn near everyone in Wardogs wants to help. Official stats from Wardogs' first weekend reveal that players earned 123 million kills and 61 million revives for an overall resurrection rate of nearly 50%. As a lifelong medic main, that's astounding. How does Wardogs do it? I think a lot of factors contribute: (Image credit: Bulkhead) Money, obviously The big one is
-
-### World of Warcraft: Forever players are reliving 2004 with hour-long queue times to get into the highly-anticipated beta
-Thu, 17 Sep 2026 20:43:06 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-are-reliving-2004-with-hour-long-queue-times-to-get-into-the-highly-anticipated-beta/
-
-WoW: Forever , Blizzard's modernized twist on WoW Classic, launched a beta today, but most people have only experienced a login screen so far. Following a live Q&A, Blizzard turned the WoW: Forever beta servers on. The queue times weren't too bad to start: I had about a nine-minute wait when I first logged in. But once it finished, I was disconnected and kicked to the back of the line for another, even longer queue. It appears I'm not the only one who has made it past the queue only to be disconnected and prompted to start the whole process over again. Players and streamers are all reporting similar issues, although some people have successfully made it in. Blizzard acknowledged the issues on X : "We're working through some final issues, and we expect the doors to open soon." Thank you to everyone waiting to get into the WoW: Forever Beta.We're working through some final issues, and we expect the doors to open soon.Thank you for your patience! September 17, 2026 There doesn't seem to be any trick to the queue. You just need to wait it out and pray that it lets you past the initial login screen. WoW: Forever is the first version of WoW that doesn't use realms, or servers, in the same way as the others. Instead of picking a realm, you pick a ruleset (normal, PvP, or Roleplay) and join the same server as everyone else. Blizzard did it this way to help preserve the social aspect of the original MMO. This might also be why the queue times are so rough. Wowhead and others have been
-
-### Denuvo is on the hunt for DRM cracker 'voices38' as the company attempts to take one of its biggest foes to court
-Thu, 17 Sep 2026 20:22:42 +0000 — https://www.pcgamer.com/gaming-industry/denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-company-attempts-to-take-one-of-its-biggest-foes-to-court/
-
-As reported by TorrentFreak , the ubiquitous DRM producer, Denuvo, is attempting to take one of its biggest foes to court over their work circumventing the antipiracy measures on games like Hogwarts Legacy and Black Myth: Wukong. The case is unique in that it comes from Denuvo and not one of the individual copyright-holders of an affected game. The target of the lawsuit, who goes by "voices38" on various channels, is particularly prolific when it comes to putting out DRM-circumventing patches or "cracks" for games that license Denuvo's copy protection software. Denuvo is suing voices38 under the anti-circumvention provisions of the Digital Millennium Copyright Act (DMCA), which prohibits tampering with digital protections. While voices38 is an anonymous actor, Denuvo lists a number of social and gaming services accounts associated with them in its filing, an indication that the company will likely subpoena Valve, Reddit, and/or Discord for identifying information. We saw a similar move from Rockstar recently as it attempted to uncover the identity of GTA6 leaker Cyberleek. "On information and belief, Defendant is an individual who has circumvented Denuvo’s technological measures that effectively control access to copyrighted works," Denuvo wrote in its filing with the Northern District of California. "Defendant has further announced, posted, or disclosed online, including through Reddit, how to circumvent Denuvo's technological measures that effectively control access to copy
-
-### Zero Parades: Director's Cut will challenge you to drive a stolen truck through a busy roundabout while stoned out of your mind
-Thu, 17 Sep 2026 19:21:58 +0000 — https://www.pcgamer.com/games/rpg/zero-parades-directors-cut-will-challenge-you-to-drive-a-stolen-truck-through-a-busy-roundabout-while-stoned-out-of-your-mind/
-
-Just four months after the release of Zero Parades: For Dead Spies , and two months after laying off a significant number of employees, Studio ZA/UM has announced Zero Parades: Director's Cut, a major update that will add roughly 40,000 words of new content, a new encounter, and other improvements and fixes. From the announcement on Steam : "Zero Parades: Director's Cut is the definitive edition of our espionage RPG, bringing more story, scenery and mind-fuckery to discover during your bid to reunite The Whole Sick Crew. And yes, we heard you: that includes more Melita." All due respect to Melita, but the real centerpiece of the Director's Cut appears to be Quisach Roundabout, a new "dramatic encounter" about escaping the titular roundabout. As someone who lives in a country where roundabouts are still relatively new and rare, I'd say that sounds relatable, but apparently this adventure runs a little deeper than just having to figure out which lane you're supposed to be in. "Hershel and her old friend Ramses find themselves stoned out of their minds, behind the wheel of a hijacked tuk-tuk and seemingly unable to escape the Quisach Roundabout late at night. The objective seems simple enough: take the right exit and head home. Fail to do so, and well... things might get existential. And possibly fatal." The Director's Cut also offers a new "backstage mode," providing a look at technical insights into the game's development, cut content, and stories from art director Kaspar Tams
-
-### Diablo 4's anniversary event brings back the game's most iconic location, and boy that music is sending me
-Thu, 17 Sep 2026 18:31:37 +0000 — https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/
-
-Diablo 4's current Season of Hell's Legacy is focused on celebrating the 30th anniversary of the series, which debuted all the way back in 1997. As part of that effort, Blizzard has been reaching back into the past to bring back iconic characters and enemies like Deckard Cain, Baal, Mephisto, and of course the Big D himself. The recent discovery of Rune word recipes from Diablo 2 had players wondering if maybe Blizzard has any other blasts from the past stashed away in the new season , and as discovered by redditor JT99-FirstBallot, the answer is a very big yes. I found Diablo 1 Old Tristram! from r/diablo4 Tristram, of course, is the village that serves as the home base of the original Diablo, where players go to buy and sell items, and interact with a range of sadly doomed NPCs like Griswold, Ogden, Pepin, and Wirt. But it's more than just that: As the hub of what is arguably gaming's most influential action RPG, Tristram is a seminal piece of digital landscape, burned into the memories of old-time Diablo fans—and its destruction sometime prior to the events of Diablo 2 (sorry, mild spoiler there) was a genuine bummer. What's particularly impressive here is how faithful this recreation of Tristram is. The visuals are obviously dramatically improved (although it looks just as I remember it—isn't the human mind a wonderful thing?) but the layout is spot on, and all the characters are there, doing what they do. What really lands for me, though, is the audio: I'm not a Diablo f
-
 ## GameSpot
+
+### Blacksmiths Discover Control Resonant s Massive Hammer Is Simply Too Much Hammer
+Fri, 18 Sep 2026 13:58:45 +0000 — https://www.gamespot.com/articles/blacksmiths-discover-control-resonant-massive-hammer-is-simply-too-much-hammer/
+
+The best tool you can own in life is a hammer, and in Control Resonant , fixing Manhattan requires a VERY big one to perform some percussive maintenance. The Aberrant is the melee weapon that you'll wield in battle, and while it can take a variety of forms, it looks especially satisfying to morph it into a gigantic hammer that wouldn't look out of place in a Looney Tunes cartoon if Rob Zombie were directing it. But what would that version of the Aberrant look like in real life? Pretty intimidating and impractical, it turns out. Ahead of Control Resonant's release next week, the blacksmiths of Man at Arms took a stab at building the Aberrant. In an episode of their YouTube series--and sponsored by Control Resonant developer Remedy Entertainment--the team put together a solid replica, but for the hammerhead itself, they used hollow steel panels and advanced welding techniques to recreate the Aberrant. It's not hard to see why, because having a solid chunk of metal the size of an armchair would make it challenging to work with, let alone wield. Even with the finished hammer employing a few techniques to keep its overall weight under control, it was still too heavy for even the burliest blacksmith to pick up or even swing around for a few test smashes. For now, it's the world's coolest-looking paperweight. https://youtu.be/YtrZWU_S62c Launching on September 24-- or September 22 if you spring for the PS5 Deluxe Edition--Control Resonant is already earning high reviews. On GameSpot
+
+### The Resident Evil Movie Is Already Breaking Records
+Fri, 18 Sep 2026 13:55:12 +0000 — https://www.gamespot.com/articles/the-resident-evil-movie-is-already-breaking-records/
+
+The Resident Evil movie from Weapons and Barbarian director Zach Cregger officially releases today, September 18, but like many big movies, it actually debuted the night prior. The movie made $9 million or more in the US for its Thursday previews, according to Deadline , and that's a record for the series. Experts predict the movie will make between $40 million and $50 million for its first weekend in the US, and now it could go higher, the report said. Austin Abrams in Resident Evil. The previous record for a first-weekend Thursday-night haul in the Resident Evil series was $1 million for 2016's Resident Evil: The Final Chapter. No other entry in the series eclipsed $1 million for Thursday previews. Resident Evil's Thursday previews are pacing well ahead of Cregger's last movie, Weapons, which made $5.75 million in previews and went on to earn $43.5 million for its first weekend in the US. According to Deadline, the Resident Evil movie had a budget of $75 million, but that does not count marketing expenses. Also worth mentioning is that the Thursday numbers for Resident Evil are based on Deadline's "distribution sources," and not official numbers from the studio. The Resident Evil movie is getting rave reviews, including an 8/10 from GameSpot . In fact, Resident Evil is now the highest-rated video game adaptation ever . Cregger has said he has ideas for more Resident Evil movies , but he's also mentioned how he's done with franchise films . He has said he did not fully appre
+
+### Far Cry TV Series Adds Batman, Knuckles McGinty, And More Big Names
+Fri, 18 Sep 2026 10:42:42 +0000 — https://www.gamespot.com/articles/far-cry-tv-series-adds-batman-knuckles-mcginty-and-more-big-names/
+
+The Far Cry TV series for FX is starting to take shape, as new cast members for the anthology series have been announced. Joining Rob Mac (who is also a co-showrunner alongside Noah Hawley) are Lizzy Caplan and Steve Buscemi, along with several new faces, including Brendan Gleeson, Jennifer Jason Leigh, Hamish Linklater, Jamie Demetriou, and Sam Spruell. According to FX, all of those actors will appear in the first season of Far Cry, making for a pretty stacked cast. Leigh earned acclaim for her roles in Hateful Eight and Fargo, Spruell was recently seen in Game of Thrones: A Knight of the Seven Kingdoms, Demetriou will be a familiar face to anyone who is a fan of Only Murders in the Building, and Linklater's distinctive voice can be heard in Batman: Caped Crusader, where he plays the Dark Knight. Gleeson is also a big name, having recently starred in Spider-Noir and The Banshees of Inisherin, but if we're talking absolute cinema, you'll know him best for his role as Knuckles McGinty in Paddington 2. Like the games the FX series is adapting, the Far Cry TV series aims to introduce new settings and characters in each season, so you likely won't want to get too attached to any of the actors in the show's first batch of episodes. As for the Far Cry game series, things have been very quiet since 2021, following the release of Far Cry 6. Ubisoft is reportedly working on Far Cry 7, with the IP now falling under the umbrella of Creative House 1 AKA Vantage Studios . Alongside other 
+
+### New GTA 5 Source Code Leak Is Uncovering A Ton Of Cut Content
+Fri, 18 Sep 2026 09:58:00 +0000 — https://www.gamespot.com/articles/new-gta-5-source-code-leak-is-uncovering-a-ton-of-cut-content/
+
+A huge batch of previously leaked Rockstar files has resurfaced online, giving players a new look at Grand Theft Auto 5' s canceled content, including a surprisingly massive Liberty City expansion and the long-rumored Agent Trevor DLC. The files reportedly total around 192GB, dwarfing the roughly 4GB collection of GTA 5 source code material that surfaced publicly in 2023. GTA modder TJGM has been digging through the newly accessible files and has already highlighted several discoveries, including cut dialogue, canceled missions, development tools, and assets from Rockstar's planned single-player expansions. One of the biggest discoveries so far is a look at the Liberty City expansion that Rockstar had planned for GTA 5, but ultimately was canned. TJGM shared an outline of the Liberty City expansion, reconstructed using shoreline data contained in the files. The map appears substantially larger than the Liberty City featured in GTA 4. "The outline of this map is drawn based on where shorelines are," TJGM explained, noting that the files also contain zones associated with shoreline audio. The discovery provides a clearer picture of how ambitious Rockstar's plans were for bringing Liberty City into GTA 5. Trevor could have had a James Bond-style mission. Another file reportedly contains a development zone that suggests Rockstar had begun setting up additional terrain for the expansion. The presence of the map outline and audio zones could indicate that development progressed con
 
 ### GTA 6 Will Feature The Next Evolution Of In-Game Radio, Rockstar Says
 Thu, 17 Sep 2026 19:17:49 +0000 — https://www.gamespot.com/articles/gta-6-will-feature-the-next-evolution-of-in-game-radio-rockstar-says/
@@ -425,7 +445,7 @@ Popcorn buckets for movies are all the rage today. Basically every big movie has
 ### Gears Of War: E-Day On PC Won t Let You Play Without A Ray Tracing-Capable GPU
 Thu, 17 Sep 2026 17:17:52 +0000 — https://www.gamespot.com/articles/gears-of-war-e-day-on-pc-wont-let-you-play-without-a-ray-tracing-capable-gpu/
 
-Ahead of its release next month, the official PC specs for Gears of War: E-Day have been revealed. The next game in the series has looked good in recent previews, and if you're aiming to reach a high level of fidelity, you're going to need some fairly chunky PC hardware for 4K gibs and perfect reloads. The good news is that no matter which graphics preset you choose, you'll only need 16GB of RAM--welcome news considering just how much memory costs in the current tech climate. One thing worth pointing out is that graphics cards without dedicated ray-tracing hardware aren't supported. It's not the first time this has been the case--Indiana Jones and the Great Circle being a prime example--but it does create a hard generational lock for interested players. By making ray-tracing hardware a baseline requirement, the game completely phases out massively popular GPUs like the GTX 1060 or AMD's RX 5000 series, making the RTX 2060 the absolute minimum threshold for playing the new Gears of War. Developer The Coalition says it has continued to iterate and improve PC stability and performance across a wide range of hardware configurations since July, and if you're aiming to run the game at 1080p and 60fps, you'll need a GPU like an Nvidia GeForce RTX 2060, an entry-level RTX 5050, or an AMD Radeon RX 6600 with 6GB of VRAM. Hitting the 1440p 60fps sweet spot increases the hardware requirements to GPUs with 8GB of VRAM, while running the game at 4K 60fps means you'll need a 12GB GeForce R
+Ahead of its release next month, the official PC specs for Gears of War: E-Day have been revealed. The next game in the series has looked good in recent previews, and if you're aiming to reach a high level of fidelity, you're going to need some fairly chunky PC hardware for 4K gibs and perfect reloads. The good news is that no matter which graphics preset you choose, you'll only need 16GB of RAM--welcome news considering just how much memory costs in the current tech climate. One thing worth pointing out is that graphics cards without dedicated ray-tracing hardware aren't supported. It's not the first time this has been the case--Indiana Jones and the Great Circle being a prime example--but it does create a hard generational lock for interested players. By making ray-tracing hardware a baseline requirement, the game completely phases out massively popular GPUs like the GTX 1060 or AMD's RX 5000 series, making the RTX 2060 the absolute minimum threshold for playing the new Gears of War. Developer The Coalition says it has continued to iterate and improve PC stability and performance across a wide range of hardware configurations since July, and if you're aiming to run the game at 1080p and 60fps, you'll need a GPU like an Nvidia GeForce RTX 2060, an entry-level RTX 5050, or an AMD Radeon RX 6600 with 6GB of VRAM. Hitting the 1440p 60fps sweet spot increases the hardware requirements to GPUs with 8GB of VRAM, while running the game at 4K 60fps means you'll need a GeForce RTX 50
 
 ### I Played WoW: Forever On A Controller, And That s Big News
 Thu, 17 Sep 2026 15:59:04 +0000 — https://www.gamespot.com/articles/i-played-wow-forever-on-a-controller-and-thats-big-news/
@@ -442,27 +462,22 @@ Thu, 17 Sep 2026 15:23:56 +0000 — https://www.gamespot.com/articles/gta-6-boss
 
 Rockstar's Grand Theft Auto 6 launches in November for PlayStation 5 and Xbox Series X|S, but is it also going to release on PC? It won't at launch, but history suggests it will come to PC further down the track. Now, Take-Two boss Strauss Zelnick has commented on the company's approach to PC releases generally. At the company's virtual shareholder meeting today , as reported by GamesRadar , Zelnick said Take-Two's general approach is that the company will put out games "for any platforms for which there is a meaningful audience." Intriguingly, Zelnick went on to say that, "the PC is becoming more and more important to our company over time." Again, he was not talking about GTA 6 here, but rather Take-Two's approach to PC generally. In any event, these comments only further the idea that it's a matter of when, not if, GTA 6 comes to PC (of course). Historical precedent for Rockstar's PC releases Rockstar's latest releases, including Red Dead Redemption 2 (2018) and Grand Theft Auto 5 (2013) launched first on console and later came to PC. GTA 5 came to PC in April 2015, which was 18 months after the game originally launched on console in September 2013. Red Dead Redemption 2, meanwhile, came to PC faster. The game's PC edition released in November 2019, which was just about a year after the game debuted on console in October 2018. What does it all mean for GTA 6? We don't know, but it's a safe bet that GTA 6 will eventually come to PC, and people should likely expect to wait a
 
-### Game s Price Is Lower Because This Fall Is So Packed, Dev Admits
-Thu, 17 Sep 2026 14:23:19 +0000 — https://www.gamespot.com/articles/games-price-is-lower-because-this-fall-is-so-packed-dev-admits/
-
-October is going to be a tough month for anyone on a budget, as a ton of big games are coming up. Sandwiched between an already-packed September and the November release of GTA 6 , how does any game stand out from the pack? In the case of Valor Mortis, a launch price of $40--and day-one availability via Xbox Game Pass--might be a winning combination to help it shift units. "We've had many discussions over the past year about the price of Valor Mortis," developer One More Level and publisher Lyrical Games wrote in a statement. "We believe the game has the quality, fidelity, and playtime in its 20-hour story to go toe-to-toe with many 'full price' titles. Still, this fall is stacked, and there's high demand for your time and money." https://twitter.com/ValorMortis/status/2100570811677770189 One More Level added that cosmetic packs will also be released in the next few months, and if players want to support the studio, they can purchase a Deluxe Edition that includes unique weapon skins alongside the base game and a "major" story expansion arriving in 2027. Speaking to The Game Business , Lyrical Games boss Blake Rochkind said the decision to price Valor Mortis at $40 came from confidence in the game. "We find ourselves as one of the only new IPs launching in what is objectively the craziest fall in the history of this business," Rochkind said. "Not only do you have GTA looming large in November, now you have the Zelda remake, Control coming out in a couple of weeks, Silent Hill
-
-### GTA Is Like Barbie, Take-Two Boss Says
-Thu, 17 Sep 2026 13:59:47 +0000 — https://www.gamespot.com/articles/gta-is-like-barbie-take-two-boss-says/
-
-Rockstar's Grand Theft Auto 6 is one of the most-anticipated game releases ever, and despite the enormous hype, Rockstar and owner Take-Two are going to market the game aggressively. Why does the game even need a marketing push? According to Take-Two boss Strauss Zelnick, just because a franchise is popular and well known, that doesn't mean the company behind it can take their foot off the pedal in terms of spending time and money on marketing. Zelnick said 2023's The Barbie Movie is a good example of this. “All of us saw the Barbie movie, and they marketed the living daylights out of that picture. Even though the IP is very well known. Secondly, it was out there for a while. We all got the joke of what it was going to be. They did a phenomenal marketing campaign. It was really everywhere, and, by the way, it worked," he told GamesBeat . Lucia and Jason in GTA 6. For any "broad-based entertainment" property, companies "don't have a choice" but to spend significantly to push a new release, and GTA 6 is no exception, Zelnick said. "You always have to go out and create enthusiasm. So, awareness is one thing; enthusiasm is another thing. And we have to show people what they’re going to get," Zelnick said. He said Take-Two's investors have asked him why the company needs to aggressively push GTA 6 when it's a game everyone on Earth knows about. Zelnick said he learned from his time as a movie executive years ago that if your product is no good, "you can market the living sh** out 
-
-### Physint Release Date-Estimate, Gameplay, And Everything We Know
-Thu, 17 Sep 2026 13:33:19 +0000 — https://www.gamespot.com/articles/physint-release-date-estimate-gameplay-and-everything-we-know/
-
-After touring the wastelands of extinction-level events in Death Stranding, what's next for Hideo Kojima? The veteran game designer is keeping busy with two projects that Xbox will publish, and one of them is a return to his roots of tactics, espionage, and action: Physint. Still years away, Physint is already building buzz ahead of its eventual release, with new details slowly trickling out as development continues. First revealed during the PlayStation State of Play January 2024 showcase , here's everything that we know about it so far. Physint release date Physint doesn't have a release date yet, and don't expect it to be out for quite some time. Kojima himself has said as much, as the earliest release window for the game could be as far away as 2030. Back in 2025, Kojima said he'd just started work on his horror game OD and that Physint was in a "conceptual" stage of development . Physint platforms With the game so far away, we could be looking at a next-gen release when it does eventually arrive. Now that Xbox has stepped in to publish and help develop it, it's a safe bet that it'll launch for PC and whatever form the next-gen Xbox console, Project Helix, eventually takes. Physint cast Meet the cast of Physint Death Stranding 1 and 2 saw Kojima team up with several famous faces to play characters in his post-apocalyptic world, and for Physint, he already has several big names attached to it. Swedish actor Bill Skarsgard (It, Boy Kills World) will play the lead role in th
-
-### MS Flight Sim Adds New Plane That Costs More Than The Game, And It Includes Waste Simulation
-Thu, 17 Sep 2026 13:20:51 +0000 — https://www.gamespot.com/articles/ms-flight-sim-adds-new-plane-that-costs-more-than-the-game-and-it-includes-waste-simulation/
-
-Microsoft has announced the next DLC for Microsoft Flight Simulator 2024, and it's a plane that costs more than the game itself. The Airbus A380 is now in the game, and you can get it for $74.50. For comparison, the game itself costs $70. It is a digital version of the "superjumbo," four-engine, wide-body airliner made by Airbus. For people who aren't up to date with this kind of the thing, the A380 is the world's biggest commercial passenger plane, with 10 airlines operating them, including Emirates, British Airways, Qantas, and Lufthansa. There are fewer than 200 in service around the world. https://www.youtube.com/watch?v=xpjx_tQLgPo The developers worked with longtime partners iniBuilds to make the A380 for Microsoft Flight Simulator. It's part of the game's "Exclusive Series," which means it will only be available for three months. According to the developers, the in-game A380 is a highly detailed, carefully crafted virtual version of the plane, featuring "full fight deck modeling" and "extensive interactive controls, displays, and aircraft systems." The plane features a long list of details to mirror its real-life counterpart, even including "potable water and waste simulation." Here's to hoping the pee and poop simulation systems aren't too realistic. The plane also has "functional on-board showers" for its digital recreation in Microsoft Flight Simulator. Check out the extensive blog post to learn more.
-
 ## Rock Paper Shotgun
+
+### Denuvo are suing a prolific cracker for bypassing their DRM on 26 videogames, despite not knowing their real identity
+Fri, 18 Sep 2026 13:58:39 +0000 — https://www.rockpapershotgun.com/denuvo-are-suing-a-prolific-cracker-for-bypassing-their-drm-on-26-videogames-despite-not-knowing-their-real-identity
+
+Digital rights management software provider Denuvo are taking a prolific anonymous game cracker to court in the USA, accusing them of violating the Digital Millennium Copyright Act by circumventing the anti-tamper technology on 26 games, including Black Myth: Wukong , Resident Evil Requiem and Doom: The Dark Ages . Read more
+
+### Control Resonant review: A superbly strange action-RPG that'll make you feel tiny and godly at once
+Fri, 18 Sep 2026 13:00:49 +0000 — https://www.rockpapershotgun.com/control-resonant-review
+
+Control Resonant , much like the inside-out, interdimensional cryptids it has you bashing with a shapeshifting stick, probably shouldn&rsquo;t exist. At least not in the risk-averse, pennypinching reality that sometimes seems to have enveloped the art of gamesmaking, and that may have installed some scepticism into my own head . The sequel to a liked yet slow-selling shooter, which replaces both the original&rsquo;s player character and its instantly recognisable, bureauca-brutalist setting, while violently pirouetting into open-world RPG melee brawling. Five words that Remedy, in all their thirty years of existence, have never previously let pass their lips. Read more
+
+### Baldur's Gate 3 Act Two Expansion mod, out now in beta, adds a whole new region to explore after dealing with the Shadow Curse
+Fri, 18 Sep 2026 09:29:57 +0000 — https://www.rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse
+
+An ambitious Baldur's Gate 3 custom campaign mod which adds a whole new region to explore between the RPG's second and third acts is finally out in beta. This extra adventure midway through BG3's main quest is the result of nearly two years of work from modder SquallyDaBeanz, who's put together a trip to The Chionthar Wilds full of new missions and dungeons. Read more
 
 ### "Publishers are afraid of certain parts of the world": Saber Interactive's message to North American studios is to get their head out of their own geography
 Fri, 18 Sep 2026 08:15:00 +0000 — https://www.rockpapershotgun.com/publishers-are-afraid-of-certain-parts-of-the-world-saber-interactives-message-to-north-american-studios-is-to-get-their-head-out-of-their-own-geography
@@ -508,19 +523,4 @@ Colin Johanson doesn't think the MMO is dying. He would say that: he's the studi
 Thu, 17 Sep 2026 09:03:28 +0000 — https://www.rockpapershotgun.com/helldivers-2-and-horizon-forbidden-west-delisted-from-steam-in-the-uk-sony-say-theyre-working-with-valve-to-address-the-issue
 
 Helldivers 2 and Horizon Forbidden West have disappeared from the Steam store in the UK, something that's happened rather out of nowhere and looks like it might've even taken publishers PlayStation by surprise. Said publishers have issued a statement noting that they've already reached out to Valve to get the games back up. Read more
-
-### "15 years ago, people understood it was an unfinished game": As Endless Legend 2 hits 1.0, Amplitude reflect on how early access has changed
-Wed, 16 Sep 2026 16:57:25 +0000 — https://www.rockpapershotgun.com/15-years-ago-people-understood-it-was-an-unfinished-game-as-endless-legend-2-hits-10-amplitude-reflect-on-how-early-access-has-changed
-
-Amplitude have always used early access for their games, even before Steam Early Access was a thing. Ahead of Endless Space 's release in July 2012, players who preordered the game got immediate access to an alpha build that was steadily patched and updated on the lead up to launch. To this day, the studio still uses its Games2Gether program, where they discuss design issues with players and poll them for thoughts on how to proceed. Right now, there are a small group of players giving feedback on the recently announced Humankind 2. However, as Amplitude prepare to launch Endless Legend 2 after a year in early access , co-founder and CEO Romain de Waubert de Genlis readily admits "The whole thing has changed over time." Read more
-
-### Low poly horror Tumblebee combines the joy of tumbling bees with the not-joy of being chased by huge spiders
-Wed, 16 Sep 2026 16:13:56 +0000 — https://www.rockpapershotgun.com/low-poly-horror-tumblebee-combines-the-joy-of-tumbling-bees-with-the-not-joy-of-being-chased-by-huge-spiders
-
-For the last few years I've been labouring to transform my terror of spiders into guarded appreciation, even wonder. I've been drawing pictures of spiders, and writing stories about them. When I spy a spyder (spider) in the wild, I make a strenuous display of hunkering down to utter words like "ooh, what a beautiful False Widow, such poetry of form". Then the spider moves a fraction, and I hoot and holler on out of there, pawing imaginary silk strands from my face. Videogames like Tumblebee are not helping with this endeavour. Read more
-
-### Dog in the Machine reinvents the domino tactics of Into The Breach as a mecha dog show, with players teaching their hounds tricks
-Wed, 16 Sep 2026 15:20:00 +0000 — https://www.rockpapershotgun.com/dog-in-the-machine-reinvents-the-domino-tactics-of-into-the-breach-as-a-mecha-dog-show-with-players-teaching-their-hounds-tricks
-
-If the organisers of Crufts ever have to produce a season of Robot Wars, the results probably won't be a million miles away from Dog in the Machine - a new turn-based tactics puzzler that's sort of Into The Breach but with a greater emphasis on props and tricks. Read more
 
