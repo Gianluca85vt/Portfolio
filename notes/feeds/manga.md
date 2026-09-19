@@ -1,6 +1,51 @@
-# Manga — harvested 2026-09-19T13:59:19.137Z
+# Manga — harvested 2026-09-19T18:54:16.235Z
 
 ## Anime News Network
+
+### The Elusive Samurai Season 2 ‒ Episode 10
+Sat, 19 Sep 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-10/.241994
+
+I love how the show uses its signature dips into abstract phantasmagoria to demonstrate just how terrifying and dangerous Takauji truly is.
+
+### Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 23
+Sat, 19 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-23/.241992
+
+What changed in him to make him turn down Baal's offer? The easy answer is “Iruma.”
+
+### Smoking Behind the Supermarket with You ‒ Episode 11
+Sat, 19 Sep 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-11/.241981
+
+It’s rare for a piece of media to feel so hyperrelevant to my personal and professional life; I needed the little nudge this episode gave me to get my work-life balance back in order.
+
+### Marvel Tokon Fighting Souls Game Review
+Sat, 19 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/playstation-5-pc/steam/marvel-tokon-fighting-souls/.241499
+
+It's a tour de force that looks like nothing you've seen before, while also rooted in a profound appreciation for Marvel characters and broader fighting games as a culture.
+
+### Daemons of the Shadow Realm Anime Gets 2nd Season
+Sat, 19 Sep 2026 11:43:09 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/daemons-of-the-shadow-realm-anime-gets-2nd-season/.241990
+
+First season's part 2 ended on Sunday
+
+### The Resident Evil Remake Switch 2 Ports Look and Feel Great
+Sat, 19 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/the-resident-evil-remake-switch-2-ports-look-and-feel-great/.241965
+
+You might be worried about how these <cite>Resident Evil</cite> games run on the Switch 2. Don't be.
+
+### Young Ladies Don't Play Fighting Games ‒ Episode 11
+Sat, 19 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-11/.241980
+
+Arisa is exactly the type of player—an all too real type of player, unfortunately—with no respect for people she doesn’t perceive as taking the game seriously.
+
+### Chainsmoker Cat ‒ Episode 11
+Sat, 19 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/chainsmoker-cat/episode-11/.241966
+
+This week sees the show dramatically paring down its raunchy excess to provide an experience that is almost — dare I say it? — <i>normal</i>.
+
+### Final Fantasy VII Revelation and Beyond: An Interview with Director Naoki Hamaguchi
+Sat, 19 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/final-fantasy-vii-revelation-and-beyond-an-interview-with-director-naoki-hamaguchi/.241962
+
+We spoke about lessons learned, how things will change in <cite>Revelation</cite>, and the delicate dance of putting a new twist on one of the most beloved games of all time.
 
 ### Tomb Raider King ‒ Episode 11
 Sat, 19 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/tomb-raider-king/episode-11/.241947
@@ -17,56 +62,21 @@ Sat, 19 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/clev
 
 For all of the body-shredding violence Alicia has had to endure as Clevatess' vassal, I don't think any strike has cut quite as deep as this vision of the peaceful life she might have shared with her loved ones.
 
-### Go on a 3-in-1 Hunt in Monster Hunter Wilds: Ascendance
-Sat, 19 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/go-on-a-3-in-1-hunt-in-monster-hunter-wilds-ascendance/.241964
-
-Apha Araketa is a whole different kind of monster than you're used to.
-
-### Sanrio's Fragaria Memories: Color of Wishes Smartphone Game Gets Worldwide Release in Fall 2027
-Sat, 19 Sep 2026 07:17:33 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/sanrio-fragaria-memories-color-of-wishes-smartphone-game-gets-worldwide-release-in-fall-2027/.241978
-
-New promo video streamed
-
-### ATASHIn'CHI Next Net Anime Gets New Episodes
-Sat, 19 Sep 2026 06:59:26 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/atashinchi-next-net-anime-gets-new-episodes/.241973
-
-Chainsmoker Cat director Taku Kimura will direct new episodes
-
-### Poll: 86% of Game Developer Event's Attendees Say They Use Generative AI
-Sat, 19 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-19/poll-86-percent-of-game-developer-event-attendees-say-they-use-generative-ai/.241899
-
-40% of CEDEC respondents said they do not use generative AI in released products, services
-
-### Tokyo Game Show 2026 Cancels Final Day on Monday Due to Approaching Typhoon
-Sat, 19 Sep 2026 03:29:36 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/tokyo-game-show-2026-cancels-final-day-on-monday-due-to-approaching-typhoon/.241974
-
-Event was planned for 5 days for 1st time
-
-### Tougen Anki: Nikko Kegon Falls Arc Anime Reveals More Cast, October 2 Debut
-Sat, 19 Sep 2026 03:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/tougen-anki-nikko-kegon-falls-arc-anime-reveals-more-cast-october-2-debut/.241963
-
-New English trailer, theme song artists, streaming platforms also revealed
-
-### 'With Vengeance, Sincerely, Your Broken Saintess' Season 2 Light Anime Reveals Theme Song in 3rd Teaser Video
-Sat, 19 Sep 2026 02:57:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/with-vengeance-sincerely-your-broken-saintess-season-2-light-anime-reveals-theme-song-in-3rd-teaser-/.241972
-
-Juice=Juice performs theme for new season debuting on October 1
-
-### Oishinbo Gourmet Manga Gets New TV Anime
-Sat, 19 Sep 2026 02:32:44 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/oishinbo-gourmet-manga-gets-new-tv-anime/.241971
-
-Manga previously inspired TV anime from 1988-1992
-
-### Inherit the Winds Anime Reveals Theatrical Screening Trailer, Theme Songs, Additional Cast
-Sat, 19 Sep 2026 02:20:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/inherit-the-winds-anime-reveals-theatrical-screening-trailer-theme-songs-additional-cast/.241953
-
-Quruli, Hitsujibungaku collaborate for theme songs
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Daemons of the Shadow Realm Season 2 Announced With Teaser Video
+Sat, 19 Sep 2026 15:03:51 GMT — https://animecorner.me/daemons-of-the-shadow-realm-season-2/
+
+Daemons of the Shadow Realm Season 2 was officially announced immediately after the first season's finale finished airing in Japan.
+
+### BLEACH FES Announced for February 2027 With 15 Voice Actors to Celebrate Anime's Conclusion
+Sat, 19 Sep 2026 14:51:06 GMT — https://animecorner.me/bleach-fes-announced-for-february-2027-with-15-voice-actors-to-celebrate-animes-conclusion/
+
+BLEACH FES, a two-day event celebrating the conclusion of the BLEACH anime, will take&hellip;
 
 ### Katekyo Hitman Reborn! Anime Reveals Eleventh Ending Featuring "Smile for..." by Ueto Aya
 Sat, 19 Sep 2026 12:39:14 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-eleventh-ending-featuring-smile-for-by-ueto-aya/
@@ -118,17 +128,12 @@ Sat, 19 Sep 2026 07:05:07 GMT — https://animecorner.me/the-salty-koharu-has-a-
 
 The production committee for the TV anime adaptation of The Salty Koharu Has a&hellip;
 
-### TOUGEN ANKI Season 2 Reveals New Key Visual, English Trailer, Additional Cast, October 2 Premiere
-Sat, 19 Sep 2026 06:59:59 GMT — https://animecorner.me/tougen-anki-season-2-reveals-new-key-visual-english-trailer-additional-cast-october-2-premiere/
-
-TOUGEN ANKI Season 2, titled the Nikko Kegon Falls Arc, revealed a new key visual, trailer, cast, and an October 2 premiere.
-
-### Asteroid Daianji Makes the First Three Volumes of Asteroid in Love Free To Read
-Sat, 19 Sep 2026 02:53:43 GMT — https://animecorner.me/asteroid-daianji-makes-the-first-three-volumes-of-asteroid-in-love-free-to-read/
-
-Manga Time Kirara Carat has announced that Asteroid in Love's first three volumes will&hellip;
-
 ## MyAnimeList News
+
+### Yomi no Tsugai Second Season in Production
+Sat, 19 Sep 2026 08:22:25 -0700 — https://myanimelist.net/news/74736072?_location=rss
+
+The official website of the television anime adaptation of Hiromu Arakawa s Yomi no Tsugai (Daemons of the Shadow Realm) manga announced a second season on Sunday, revealing the announcement visual (pictured) and promotional video. Produced by Bones Film, the first season aired for 24 episodes beginning in Spring 2026. Crunchyroll streamed the anime with multiple subtitles and dubs. Arakawa began serializing the manga in Shounen Gangan in December 2021. Square Enix published the 13th volume...
 
 ### Neko to Ryuu Second Season Announced for 2027
 Sat, 19 Sep 2026 06:14:49 -0700 — https://myanimelist.net/news/74735782?_location=rss
@@ -165,11 +170,6 @@ Thu, 17 Sep 2026 17:49:53 -0700 — https://myanimelist.net/news/74731610?_locat
 
 The official website for the television anime adaptation of Oreco Tachibana s Hotaru no Yomeiri (Firefly Wedding) web manga revealed additional staff, the opening theme, and first promotional video on Friday. The anime series is scheduled to premiere on October 9 at 11.30 p.m. on Fuji TV noitaminA. Staff Concept Art: Yasufumi Soejima (JoJo no Kimyou na Bouken (TV) art design) Sub-Character Design: Mikio (Mayonaka Heart Tune) Prop Design: Ryou Hirata (Marriagetoxin), Tsuyama Kyohiko, Yutaka...
 
-### Manga Kamisama Gakkou no Ochikobore Gets TV Anime
-Thu, 17 Sep 2026 08:10:16 -0700 — https://myanimelist.net/news/74730180?_location=rss
-
-Production company Bandai Namco Filmworks opened an official website for a television anime adaptation of Natsu Hyuuga and Modomu Akagawara s Kamisama Gakkou no Ochikobore (The Failure at God School) manga on Friday, revealing a teaser visual (pictured). Hyuuga and Akagawara began serializing the fantasy shoujo manga in Hana to Yume magazine in August 2021. Hakusensha published the 14th volume on May 20, with the 15th volume scheduled for a September 18 release. The manga has a cumulative 1...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
@@ -180,9 +180,4 @@ _Nothing in the last 48 hours._
 Fri, 18 Sep 2026 09:00:25 +0000 — https://animeuknews.net/2026/09/the-otaku-love-connection-volumes-3-and-4-review/
 
 Summer is approaching in the world of The Otaku Love Connection, but first our two main characters must weather a storm of emotions as they realise they ship their favourite pair differently!
-
-### Crunchyroll Announces Autumn/Fall 2026 Anime Season
-Thu, 17 Sep 2026 14:40:11 +0000 — https://animeuknews.net/2026/09/crunchyroll-announces-autumn-fall-2026-anime-season/
-
-The Apothecary Diaries Season 3, Black Clover Season 2, Firefly Wedding, Overgeared, PSYREN, The Vermillion Mask and more are coming to the platform this Autumn.
 

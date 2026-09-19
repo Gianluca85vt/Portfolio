@@ -1,4 +1,4 @@
-# Games — harvested 2026-09-19T13:59:19.137Z
+# Games — harvested 2026-09-19T18:54:16.235Z
 
 ## Eurogamer
 
@@ -52,11 +52,6 @@ Fri, 18 Sep 2026 09:08:43 +0000 — https://www.eurogamer.net/japan-game-develop
 
 It's been a pretty grim year for video games. Aside from the "return of Xbox" new CEO Asha Sharma promised awhen taking over, which enacted the announcement of 3,200 layoffs and four studio departures , we've also seen mass layoffs in other studios, too: Bungie , EA , PUBG Productions , Take-Two , Warner Bros ., Epic , and many, many more have been impacted this year so far. Read more
 
-### Valor Mortis is only $40 because its developer knows you'll be choosing from a lot of big games over this "stacked" autumn
-Thu, 17 Sep 2026 14:22:34 +0000 — https://www.eurogamer.net/valor-mortis-40-usd-price-stacked-autumn-season
-
-The Valor Mortis developer has announced the game's price and offered an explanation as to why the team picked this particular price point. Valor Mortis costs $40 / &euro;40, which is notably cheaper than other games releasing around the same time. We've asked for clarification on UK price. Read more
-
 ## GamesIndustry.biz
 
 ### Control Resonant | Critical Consensus
@@ -99,16 +94,26 @@ Fri, 18 Sep 2026 07:36:32 +0000 — https://www.gamesindustry.biz/gdc-festival-o
 
 GDC Festival of Gaming has appointed four new members to its advisory board. Read more
 
-### Draft of new EU law proposes sweeping restrictions on online games
-Thu, 17 Sep 2026 14:29:58 +0000 — https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games
-
-The EU Commission has published a draft for the proposed EU KIDS Act . While the most controversial stipulations &ndash; namely a ban for under 13's and restrictions for under 15 year old kids &ndash; only apply to social networks and video sharing platforms &ndash; others also apply to online games. If approved, the rules would apply to all online games sold in EU territories, and introduce significant restrictions to common online features - the definition is extremely broad and could be held to cover everything from Roblox to the multiplayer mode of a disc-based game. Here is a first analysis. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan
+Sat, 19 Sep 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan
+
+Safety first. This year’s Tokyo Game Show was scheduled to be the biggest in the long-running event’s history, with activities scheduled to run for a full five days, as opposed to its usual four. But a typhoon warning in Japan has curtailed activities , and in the interest of public safety, organisers have cancelled Monday’s event. Read the full article on pushsquare.com
+
+### Wolverine PS5 Tones Down Fart Trails as Title Tipped to Be a Huge Sales Success
+Sat, 19 Sep 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/09/wolverine-ps5-tones-down-fart-trails-as-title-tipped-to-be-a-huge-sales-success
+
+May add toggle to remove it entirely. As it promised , Marvel’s Wolverine dev Insomniac has already started responding to the intense criticism aimed at its latest PS5 exclusive – as sales analysts predict the title is on track to be a major Sony success. A new hotfix , available to download now, reduces the opacity and intensity of the title’s controversial ‘Scent Trails’, which have been used as a lightning rod for robust feedback on the foray. Read the full article on pushsquare.com
+
+### Preview: Ascendance Has Me Hyped to Obsess Over Monster Hunter Wilds Again
+Sat, 19 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again
+
+Mmm, so tasty! When Capcom announced Monster Hunter Wilds’ upcoming expansion, Ascendance , would be playable at Tokyo Game Show, it immediately became the top title on my list to get my claws into. Monster Hunter has been one of my favourite video game series since Monster Hunter 3 Ultimate launched back in 2013, and it’s been incredible seeing the franchise's popularity grow while Capcom continues to innovate with each new release. Read the full article on pushsquare.com
 
 ### Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)
 Sat, 19 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september
@@ -154,21 +159,6 @@ Shibuya cross. SEGA’s really giving us unprecedented pre-release access to Cra
 Thu, 17 Sep 2026 20:15:00 GMT — https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds
 
 A massive surge since 2025. The mere mention of generative AI prompts an immediate backlash these days, but there's no escaping the reality that it's now a recognised tool across the video game industry. The fingerprints of gen-AI have been found throughout numerous projects over the last few years, sparking all kinds of discussions about creative freedoms and artistic integrity. Read the full article on pushsquare.com
-
-### Preview: I m One of the First People in the World to Play Lollipop Chainsaw 2 on PS5, But You Don t Need to Be Jealous
-Thu, 17 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/previews/im-one-of-the-first-people-in-the-world-to-play-lollipop-chainsaw-2-on-ps5-but-you-dont-need-to-be-jealous
-
-Bittersweet. Even though I don’t think its PS5 re-release is very good , I’ll always have a soft spot for Lollipop Chainsaw on the PS3. Written by James Gunn and directed by Suda51, the crass Grasshopper Manufacture bubblegum beat-’em-up had an intoxicating identity – with an inexplicable budget from Warner Bros to match its ambitions. Read the full article on pushsquare.com
-
-### With the Quality, Fidelity, and Play Time of a $70 PS5 Game, Valor Mortis Asks for $40
-Thu, 17 Sep 2026 15:45:00 GMT — https://www.pushsquare.com/news/2026/09/with-the-quality-fidelity-and-play-time-of-a-usd70-ps5-game-valor-mortis-asks-for-usd40
-
-Recognises the competition for your cash. Valor Mortis team One More Level believes it's created a first-person Soulslike with the "quality, fidelity, and play time" of a full-priced PS5 release, so it's decided to price its upcoming game at $39.99 instead. In a statement posted to social media, the developer talks up the quality of Valor Mortis, but also recognises it's putting the title out during a busy period with a lot of other PS5 releases. It was already delayed once — out of this month and to 13th October 2026 — because of the crowded release calendar. Read the full article on pushsquare.com
-
-### Zero Parades Lands on PS5 in Director s Cut Form on 3rd November
-Thu, 17 Sep 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/09/zero-parades-lands-on-ps5-in-directors-cut-form-on-3rd-november
-
-Extra story, dialogue, modes, and more. ZA/UM has shared the PS5 version of Zero Parades: For Dead Spies will launch on 3rd November 2026 as an expanded Director's Cut containing new content, dialogue, modes, and additional improvements. This will build on the well-received original version, which in itself was one of many spiritual successors to Disco Elysium . Of course, ZA/UM did develop that game, but the team that made Zero Parades is essentially unrecognisable from that of Disco Elysium. A lot of turmoil and departures at the studio meant many creative leads on Disco Elysium didn't stick around for Zero Parades. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -268,6 +258,46 @@ Voices38 has been releasing patches that directly target Denuvo's DRM checks… 
 
 ## Polygon
 
+### Maitreyi Ramakrishnan Will Destroy You at Super Smash Bros.
+Sat, 19 Sep 2026 18:00:15 GMT — https://www.polygon.com/maitreyi-ramakrishnan-shelf-quest/
+
+Maitreyi Ramakrishnan grew up a Nintendo kid, through and through. Growing up, the breakout star of Netflix's Never Have I Ever — and of the new movie, Best of the Best — wasn't allowed to play violent games like Call of Duty or GTA on Xbox and PlayStation. The Ramakrishnan home was one where the DS and GameCube reigned supreme. Her list of all-time faves is replete with mid-00s bangers straight outta Kyoto: Super Smash Bros. Ultimate, Paper Mario: The Thousand Year Door, Kirby Superstar Ultra, Legend of Zelda: Phantom Hourglass, Super Princess Peach, Pokémon Pearl, Luigi’s Mansion , and Super Paper Mario .
+
+### How Zach Cregger Pulled Off Resident Evil’s Most Disgusting Scenes
+Sat, 19 Sep 2026 17:00:17 GMT — https://www.polygon.com/resident-evil-behind-the-scenes/
+
+Last year, Polygon was part of a press trip that provided a behind-the-scenes look at the making of Resident Evil . I followed in the footsteps of hapless medical courier Bryan (Austin Abrams), exploring the horrors the t-virus wrought across a series of sets. Now that the movie has finally arrived, I can reveal everything I learned about its creation, with a focus on three of the film’s scariest scenes.
+
+### The Sims 4's Next Update Will Make Your Sims Act a Lot More Naturally
+Sat, 19 Sep 2026 16:50:36 GMT — https://www.polygon.com/the-sims-4-autonomy-gallery-fix-update-september-2026/
+
+The next Sims 4 update is just around the corner, and it looks like it'll be a game-changer for Sims' autonomy. The official EA Laundry List for the next update lets us in on some of the changes being made this week, and its quality-of-life changes have certainly been a long time coming.
+
+### Star Wars Zero Company Unofficially Gets A Real Endgame
+Sat, 19 Sep 2026 16:16:58 GMT — https://www.polygon.com/star-wars-zero-company-aftermath-dlc-mod-endgame/
+
+Star Wars Zero Company is a fantastic strategy game, but it lacks a real endgame. Once you roll credits, you're simply encouraged to start a new save where you have some additional customization options and can recruit clone troopers from the start. While no official endgame update for Star Wars Zero Company is in sight, a fan took matters into their own hands and added a lengthy endgame mod.
+
+### Nintendo Just Demolished Everyone’s Free Time
+Sat, 19 Sep 2026 16:01:15 GMT — https://www.polygon.com/switchboard-fire-emblem-fortunes-weave-diablo-4/
+
+Switchboard is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can subscribe here .
+
+### Xbox May Finally Get Its Own Version Of PlayStation Platinum Trophies
+Sat, 19 Sep 2026 14:59:16 GMT — https://www.polygon.com/xbox-platinum-trophy-equivalent-mythic-achievement/
+
+When players unlock all trophies on PlayStation, they receive a Platinum Trophy. On Xbox , players earn achievements instead, but there is currently no reward for getting all of a game's achievements. This might all be about to change, as an Xbox Insider reported that he recently saw a "Mythic Achievement" filter.
+
+### Lollipop Chainsaw Is Getting An Official Live-Action Movie Prequel
+Sat, 19 Sep 2026 14:22:30 GMT — https://www.polygon.com/lollipop-chainsaw-movie/
+
+Following the announcement of a new Lollipop Chainsaw video game , Dragami Games has also confirmed that a live-action prequel movie is in the works. James Gunn, the filmmaker who worked on the original game, doesn't appear to be involved in the adaptation as he continues to work on his new rendition of the DCU .
+
+### Paramount's New High Fantasy Epic is Already the Streaming Sleeper Hit of 2026
+Sat, 19 Sep 2026 14:00:14 GMT — https://www.polygon.com/paramount-golden-axe-showrunner-interview-season-2/
+
+Sega has been making video games since 1973 and owns the rights to everything from modern hit franchises like Yakuza and Persona to arcade mainstays like Crazy Taxi and Streets of Rage . The possibilities were endless. McMahan didn't hesitate. He chose Golden Axe .
+
 ### Marvel's Wolverine Update Tones Down Its Most Controversial Feature
 Sat, 19 Sep 2026 13:22:42 GMT — https://www.polygon.com/wolverine-scent-trails-update/
 
@@ -278,47 +308,37 @@ Sat, 19 Sep 2026 13:00:16 GMT — https://www.polygon.com/action-games-wolverine
 
 Gaming is a trend-based medium. Often, when a hit game turns into a generational success story, you can see it shape the industry in real-time as studios try to copy its notes. In recent history, we’ve seen that with an influx of two types of games: open-world games and Soulslikes.
 
-### Batman Producers Reveal Warner Bros. Told Them to Burn a Criminal's Face Off
-Sat, 19 Sep 2026 12:00:16 GMT — https://www.polygon.com/batman-knightfall-producers-interview/
-
-Batman: Knightfall is one of the most iconic Batman stories ever told. The 1993 comic arc introduced the brilliant steroid-enhanced villain Bane, who immediately established himself as an S-Tier supervillain by brutally breaking Batman’s back. Christopher Nolan adapted part of the plot of Knightfall in his 2012 film The Dark Knight Rises , but Warner Bros. Animation is currently in the middle of a far more faithful adaptation, and the first movie in the Batman: Knightfall trilogy is available now on VOD.
-
-### Crunchyroll’s Detective Series With a 93% RT Score Is About to Have Its ‘Biggest Year Yet’
-Sat, 19 Sep 2026 11:38:14 GMT — https://www.polygon.com/apothecary-diaries-season-3-movie-producer-interview/
-
-Since premiering in 2023, The Apothecary Diaries has become one of Crunchyroll’s most popular series. That's thanks largely to its intricate palace conspiracies and the slow-burning relationship between the rapturously curious apothecary, Maomao, and the enigmatic imperial official, Jinshi. Season 2 revealed more about Jinshi’s true identity while a series of isolated incidents that Maomao investigated exposed an ongoing conspiracy that threatens the entire imperial family.
-
-### Every Star Wars Zero Company Hero, Ranked From Worst to Best
-Sat, 19 Sep 2026 09:00:14 GMT — https://www.polygon.com/star-wars-zero-company-characters-ranked/
-
-Star Wars Zero Company , also known as ZCOM, understands one of its genre's commandments: a good tactics game isn't just about playing chess. It's about playing chess with characters you actually care about.
-
-### The 9 Best Anime You Can Stream on HBO Max
-Sat, 19 Sep 2026 08:00:14 GMT — https://www.polygon.com/best-anime-to-stream-on-hbo-max/
-
-The first thing you’ll notice is that HBO Max’s anime catalog leans heavily toward movies. The service carries nearly every Studio Ghibli film, including Kiki’s Delivery Service — which is getting the live-action treatment — and Nausicaä of the Valley of the Wind . Several Makoto Shinkai movies are available as well, among them the deeply moving Your Name and the devastating 5 Centimeters Per Second . With all that in mind, here are nine of the best anime you can stream on HBO Max.
-
-### The 5 Best Charlie Brown Football Comic Strips in 'Peanuts' History
-Sat, 19 Sep 2026 08:00:14 GMT — https://www.polygon.com/best-charlie-brown-football-jokes-peanuts-comic-strip/
-
-It's one of the most famous running jokes in Peanuts' 50-year run: Lucy holds a football for Charlie Brown to run up and kick, only to pull it away at the last second. Despite years of attempts to move faster than Lucy could react, Charlie Brown always misses the kick and lands flat on his back. Like much of Peanuts , it's a story about hope. No matter what happens, Charlie Brown keeps trying.
-
-### Dwayne Johnson's Forgotten Box-office Juggernaut is Officially Conquering the Streaming World
-Sat, 19 Sep 2026 07:00:15 GMT — https://www.polygon.com/dwayne-johnson-hercules-netflix-streaming-hit-september-2026/
-
-Dwayne Johnson has come a long way from the days when his biggest selling point was simply being an absolutely enormous man who could beat the hell out of people. Early in his acting career, The Rock built his movie persona around hulking action roles in films like Walking Tall , Doom , and Faster , usually playing some variation of the intimidating guy you absolutely did not want to make angry.
-
-### 39 Years Later, the Most Important Sci-Fi Series of the '80s Is Officially Free on Stream
-Sat, 19 Sep 2026 06:00:14 GMT — https://www.polygon.com/star-trek-next-generation-streaming-free/
-
-Star Trek fans had plenty of reasons to be skeptical in 1987 as Star Trek: The Next Generation changed almost everything audiences knew about the franchise. Kirk, Spock and McCoy were gone. The show jumped nearly a century into the future, put a Klingon on the bridge and handed command of the Enterprise to a very different kind of captain.
-
-### 5 Near-Perfect Psychological Thriller Movies Streaming for Free
-Sat, 19 Sep 2026 05:01:14 GMT — https://www.polygon.com/best-psychological-thriller-movies-free-streaming/
-
-Most psychological thriller movies online are locked behind a paid subscription to Netflix, HBO Max, or Prime Video, but some choice titles are available to stream for free. With that in mind, we’ve compiled a list of five fantastic psychological thrillers that you can watch at no cost whatsoever.
-
 ## PC Gamer
+
+### An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development
+Sat, 19 Sep 2026 18:14:04 +0000 — https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/
+
+Baldur's Gate 3 is pretty great right out of the box, but it could be argued that its second act lacks some variety. If you aren't endlessly dazzled by shadowy forests and J.K. Simmons, you might have wished you could hang out after the family drama in the Shadow-Cursed Lands is sorted and explore some less gloomy vistas before arriving in the game's eponymous metropolis. As always, modders have you covered. An ambitious mod for BG3, simply called " Baldur's Gate 3: Act Two Expansion " just released after "almost two years in development," according to modder SquallyDaBeanz. As the description states, the expansion implements a custom zone called The Chionthar Wilds—"a whole new region to experience that is similar in scope to the Act 1 Wilderness." With the mod installed, you can start adventuring in the new region (ideally with a party that's around level 8 or higher) after wrapping up in the Shadow-Cursed Lands, or via a quickstart button that takes you straight to the new stuff with options for equipment and hirelings. Once there, the mod packs in new creatures to fight in over 30 new encounters, over 70 new items to collect, as well as new quests, NPCs, and cutscenes. EXP in the new zones is "artificially reduced," so clearing all this custom stuff shouldn't completely invalidate Act 3's difficulty if you're doing a full playthrough. The new characters aren't voiced, and some of BG3's more ambitious aspects aren't accounted for (you can't speak with dead or animals, and 
+
+### Japanese devs aren't facing the same layoff crisis because their executives are paid an order of magnitude less, 'they didn’t get swept up in the live-service trend,' and their teams are smaller, says industry expert
+Sat, 19 Sep 2026 18:13:42 +0000 — https://www.pcgamer.com/gaming-industry/japanese-devs-arent-facing-the-same-layoff-crisis-because-their-executives-are-paid-an-order-of-magnitude-less-they-didnt-get-swept-up-in-the-live-service-trend-and-their-teams-are-smaller-says-industry-expert/
+
+In an interview first published in Edge Magazine issue 428 and shared online via its Knowledge newsletter , former Tencent Games business development director and inaugural Game Awards Game Changer Amir Satvat offered his take on why the now-yearslong games industry layoff crisis has been so uneven in its geographic distribution. There's been a lot of debate whether the past three years have matched the infamous '83 videogame crash⁠— Brenda Romero says yes , Tim Cain argues not quite (both saw it firsthand). "I think this is as bad as the '83 crash if you’re a game developer based in North America or Western Europe, in a traditional triple-A studio," said Satvat. "That is ground zero for the destruction." Satvat expanded on this particular observation in a recent post on LinkedIn . "Japan is a completely different ballgame," Satvat said, praising its industry-wide tendency to retain staff, even if sacrifices are required in short-term profit or executive compensation. "Everyone calls out Nintendo, but you can look at Konami or Capcom⁠—these companies all have staff retention of 97%+." "My understanding is that, generally, Japanese teams tend to be much smaller and leaner," Satvat added. "They didn’t get swept up in the live-service trend, or into these mega-blockbusters with 500-person teams." He also pointed to one of the great crazy-making contradictions of the ongoing crisis: "The executive salaries. [Japanese executives] still make great money, but it’s two or three milli
+
+### 'The largest theft of labor in human history:' Court docs reveal Microsoft exec predicted AI 'doom loops' could hollow out the internet
+Sat, 19 Sep 2026 15:59:49 +0000 — https://www.pcgamer.com/software/ai/the-largest-theft-of-labor-in-human-history-court-docs-reveal-microsoft-exec-predicted-ai-doom-loops-could-hollow-out-the-internet/
+
+In Dec. 2023, The New York Times filed one of the biggest copyright lawsuits in recent memory against OpenAI and Microsoft, alleging that its AI models heisted ludicrous amounts of journalistic work from the Times. Two days ago, a court filing (hosted and analyzed by Ars Technica ) was newly unsealed with all sorts of revealing quotes from higher-ups at Microsoft and OpenAI (thanks, Tech Crunch ). Perhaps the most shocking sentiments are from Microsoft's director of applied science, Brent Hecht, who wrote in an internal presentation that Copilot's answer engine would "hurt the performance of our models and the entire web at the same time." Internal data from Microsoft suggests that the engine caused click-through rates for The New York Times search results to drop at rates between 87% to 93% compared to standard Bing searches. For Ziff Davis domains—the company that owns Eurogamer and IGN—click-through rates dropped between 51% and 94%. Hecht called this dynamic, where AI scrapes written work for its economic value and then stuffs it into easily accessed AI answers, a "doom loop … It is highly unusual that an end-product threatens the economic foundations of its essential suppliers, but that is the situation we have created for our LLM business with respect to its 'content supply chain.'" The filing also reveals that when a researcher for OpenAI, Nick Ryder, told OpenAI president Greg Brockman about "a hack to get around nytimes paywall" to help scrape its writing, Brockman r
+
+### I played the adventure game so scandalous that it was physically destroyed by UK customs
+Sat, 19 Sep 2026 14:56:26 +0000 — https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/
+
+Weird Weekend Weird Weekend is our regular Saturday column where we celebrate PC gaming oddities: peculiar games, strange bits of trivia, forgotten history. Pop back every weekend to find out what Jeremy, Josh, Rick and Ted have become obsessed with this time, whether it's the canon height of Thief's Garrett or that time someone in the Vatican pirated Football Manager . Videogames have been banned and censored for all manner of reasons, and at least one game was so notoriously terrible that it was buried in the desert . But I've never heard of a game being so repellent that it was physically destroyed before. I've played some rotten games in my time, but I've never felt a desire to eradicate any of them from existence. Yet this is exactly what happened to Sex Vixens from Space, a lewd graphic adventure developed by Free Spirit Software and released in 1988. Initially launched in the US, Sex Vixens from Space was meant to arrive in the UK the following year. But it never did—at least, not officially, because the shipment was intercepted and destroyed by UK Customs. (Image credit: Free Spirit) Everything we know about Sex Vixens' destruction derives from a few brief news stories from a handful of computer magazines in the '80s. In January 1989, the US Commodore magazine .info reported that 75 copies of the game were seized and destroyed by UK customs. Apparently it was part of a larger shipment that included other games—meaning it was singled out for annihilation. Some publicat
+
+### World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design
+Sat, 19 Sep 2026 14:50:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/
+
+Terminally Online (Image credit: Future) This is Terminally Online : PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive into mechanics we've all taken for granted, and, occasionally, bringing in guest writers to talk about their MMO of choice. I've been having a jolly old time with World of Warcraft: Forever—for the most part, it really does just feel like an alternate universe where the Cataclysm world revamp never happened and, instead, Blizzard simply funnelled more quests into the old world. There's still plenty here that's familiar, but there's just enough new stuff to do to smooth over the levelling and questing experience. A questing experience that is otherwise unchanged. If anything, the oldschool-ness of it is actually elevated by the changes, reflecting some of WoW's best questing areas. It's as though every single zone has become The Barrens, flooded with lots of little tasks for your dopamine-starved brain nugget. And let me tell you, I've been staggered at how much fun I'm having. Not just in a "nostalgic oldschool rose-tinted goggles" sort of way (although I'll concede that is part of it) but from a genuine perspective of someone playing a modern videogame. Because the quest design that captured an entire generation of MMO players back in the early 2000s? It holds up. Not in terms of the "collect five bear arses" thing, but in terms of how it's all structured. See
+
+### It rules that a 27-year-old RPG, one of the greatest of all time, is still getting patches
+Sat, 19 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/
+
+A lamentable fact of our hobby is this: time marches on. Because our games have to be rendered in real-time by whatever tech we load them onto, they inevitably end up harder to run as the years wear on, and the gap grows between the tech we have and the tech the games were designed to run on. On PC, the task of keeping those games running tends to end up in the hands of dedicated fans—and god bless them. You can't expect devs to maintain games in perpetuity. Unless, I guess, they happen to be the stewards of the Baldur's Gate and Planescape: Torment Enhanced Editions, which are still getting patches almost three decades after the original games released. Most recently (September 15), Planescape got a beta update to its, uh, beta update: a release candidate for an upcoming patch that will bring the game in line with the 2.7 patches some of Beamdog's other Enhanced Edition games already have. As with those other games, the new Planescape beta (itself an addition to a previous beta from August) makes Steam Cloud saves work how they ought to: toggleable through the Steam client itself rather than via in-game options. GOG cloud saves now actually work, too and—this is probably the biggest thing—Planescape now has a UI scaling option in its settings. Leave it off and the game will keep its UI at god's own resolution, 1024x768, but if you flick it on it will adapt to better fit modern monitors. Like yours! Aside from that? Mobile fixes and "significantly easier" dialog.tlk modding. 
 
 ### This unofficial engine patch for Thief: The Dark Project adds a huge new feature that won't be in Nightdive's upcoming remaster
 Sat, 19 Sep 2026 13:29:34 +0000 — https://www.pcgamer.com/games/sim/this-unofficial-engine-patch-for-thief-the-dark-project-adds-a-huge-new-feature-that-wont-be-in-nightdives-upcoming-remaster/
@@ -349,36 +369,6 @@ The Last of Us game director Bruce Straley has apologized for singling out God o
 Fri, 18 Sep 2026 22:04:14 +0000 — https://www.pcgamer.com/movies-tv/the-resident-evil-film-should-be-more-concerned-with-understanding-the-roots-of-its-survival-horror-than-adhering-to-strict-lore-accuracy/
 
 It's impossible to gauge a wider community's feelings towards something, thanks to the simple problem of 'the angriest usually shout the loudest', and even if they're the minority, it usually doesn't sound like it. I've had this problem with a lot of things, but Zach Cregger's upcoming Resident Evil film is the latest victim. Despite some promising trailers, some fans just can't get behind this film. People have complained about it existing outside of the games— running parallel to the events of Resident Evil 2 instead of a shot for shot imitation. The fact that it will include some liberal interpretations of what the T-virus is capable of has also ruffled some feathers. To which I say, Tolstoy got it right—If you look for perfection, you'll never be content. (Image credit: Sony Pictures Entertainment) I'm going to get crucified for saying this, but here it goes: some fans get too caught up in 'lore accuracy'. Yes I'd be pissed if Zach Cregger started trying to drastically change iconic elements of Resident Evil, like erasing Umbrella from the records or renaming Raccoon City to Badger Town (even though that kind of slaps). But I think we need to have more faith in Cregger, given his clear love of the games and outstanding filmography, which includes bangers like Barbarian and Weapons—bro knows how to make an outstanding horror film. Lore-abiding citizens (Image credit: Sony Pictures Entertainment) I'm not convinced by the argument that this film will just be a good horror mo
-
-### Final Fantasy 7 Revelation is apparently a super heavyweight 200GB installation: 'We need to overcome the hardware to a certain extent'
-Fri, 18 Sep 2026 21:55:19 +0000 — https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-is-apparently-a-super-heavyweight-200gb-installation-we-need-to-overcome-the-hardware-to-a-certain-extent/
-
-In a new VGC interview, Final Fantasy 7 Revelation director Naoki Hamaguchi revealed that the upcoming JRPG is looking at a 200GB install size, bigger than almost any game out there, and certainly an outlier among singleplayer RPGs. Hamaguchi was responding to a question about Revelation's retail, physical version. It was previously disclosed that Revelation would require additional downloads alongside the two blu-ray discs that come in the box. We're not even part of that particular conversation on PC⁠—we're lucky to get a download code in a plastic box these days. "Things are still getting worked out, but it’s probably going to be around 200GB of game," Hamaguchi said. "I understand there are a lot of opinions about this topic, but at the end of the day, the fact is we need to overcome the hardware to a certain extent." That's one big boy. For context, FF7 Remake requires 100GB of available hard drive space on Steam, while Rebirth demands 155⁠—Revelation's full system specs are not yet up on its own page. All told, the FF7 Remake trilogy will weigh in at 455 GB of space. While the original PS1 game was quite the contender in its time, shipping on three CDs, at the end of the day it consisted of about a gig and a half of data⁠—1.3 according to TheGamer , and 1.7 according to GamingBolt . I think the biggest install I've ever tolerated was 150GB of Destiny 2, but I'm a different person now. Call of Duty has grown infamous as a hard drive hog, but it's also relatively modular.
-
-### Industry vets behind Dishonored, Ultima Online, Her Story and more agree the games industry crisis goes beyond games: 'Ultimately, to fix what’s broken in the videogame industry, we might have to fix reality'
-Fri, 18 Sep 2026 21:35:14 +0000 — https://www.pcgamer.com/gaming-industry/industry-vets-behind-dishonored-ultima-online-her-story-and-more-agree-the-games-industry-crisis-goes-beyond-games-ultimately-to-fix-whats-broken-in-the-videogame-industry-we-might-have-to-fix-reality/
-
-It's generally agreed that this is a very bad time for the videogame industry . There's some disagreement on just how bad it is—Tim Cain says it's not as bad as the infamous crash of the early 1980s, Brenda Romero says it's worse —but the bottom line is that if you're comparing your current situation to that very specific moment in time, the situation is definitely not good. In a new Knowledge newsletter , originally published in Edge magazine, numerous veterans of the game biz shared their thoughts on the industry's troubles, and what might be done to address them. It's a very interesting discussion, but also a bit disheartening to some extent, because several make the point that the real problem goes way beyond just videogames. "It's impossible for me to look at this as a game industry problem, when really it’s the result of this much bigger, complex system that we’ve allowed to be captured by greedy, rapacious forces," former Arkane Studios creative director Harvey Smith said. Pointing to Redfall, the game that preceded the closure of Arkane Austin in 2024, Smith continued, "Instead of just being crushed and thrown to the wind, maybe those people would have figured it out and then, another cycle along, they would have had another Dishonored. "And, even if they just made the occasional hit—one out of every three or whatever—wouldn’t you want to hold onto that? I guess the answer is no. You wouldn’t want to do that, if there’s an opportunity cost where instead you could put 
-
-### 'Players got better than we expected': Monster Hunter Wilds DLC director says Capcom is retuning its difficulty standards for the expansion's endgame
-Fri, 18 Sep 2026 21:02:43 +0000 — https://www.pcgamer.com/games/action/players-got-better-than-we-expected-monster-hunter-wilds-dlc-director-says-capcom-is-retuning-its-difficulty-standards-for-the-expansions-endgame/
-
-While Monster Hunter Wilds' performance issues dominated the conversation about its reception on PC, one of the other ongoing sources of player frustration was the entry's approach to difficulty. Initially, a number of players thought the game was too much of a sleepwalk —but once later updates started amping up the threat level, many of those same players thought Capcom's solutions were inelegant, relying on arbitrary increases to monster damage. In an interview with PC Gamer at this year's Tokyo Game Show, Monster Hunter Wilds: Ascendance director Takuro Hiraoka said Capcom's goal for the base game was to avoid driving away newer players—but he's working to ensure the expansion's endgame will satisfy players who thought its approach to difficulty missed the mark. (Image credit: Capcom) Speaking via translator, Hiraoka said balancing difficulty is "one of the most challenging things to get right in a game," and his objective—first and foremost—is to prevent a situation where players don't feel like they can finish the game they've purchased, because it's not likely that those players will ever come back. "In my mind, that's where the difficulty curve should be for Wilds, and I think we achieved that—but the player base was so good and so skilled. We had a bit of a gap in expectations. Maybe players got better than we expected in the intervening years," Hiraoka said. "We've grown the audience greatly since Monster Hunter: World, and that was a game where a lot of players drop
-
-### Reacher star Alan Ritchson is in talks to replace Jason Momoa on the Helldivers movie
-Fri, 18 Sep 2026 19:44:36 +0000 — https://www.pcgamer.com/movies-tv/reacher-star-alan-ritchson-is-in-talks-to-replace-jason-momoa-on-the-helldivers-movie/
-
-The Hollywood Reporter says noted huge guy Alan Ritchson, best known as the star of the popular Prime series Reacher, is in talks to take the lead on Sony's upcoming Helldivers movie. If negotiations are successful, Ritchson will step into the role left behind by fellow huge guy Jason Momoa, who dropped out of the project in June. The Helldivers film was first announced in February , with Momoa starring and Justin Lin, known for his work on the Fast and Furious films, set to direct. Reasons for Momoa's withdrawal just a few months later weren't provided, but given his star power, it was a blow. But his departure also represents a big opportunity for Ritchson, whose own star has risen rapidly following the debut of Reacher in 2022. Ritchson has appeared in numerous movies in the past—more than I realized, frankly, I'd never heard of the guy before he started wandering into small towns and breaking bad guys in half like they were dry twigs— but according to THR this would be his first time actually headlining a major feature film. I'm kind of torn on the casting, frankly. I'm sure he'll be fine in the role—along with being huge, he's also got easy on-screen charisma—and action is definitely his thing. But I can't help wondering if maybe he's a little off for the role, too. To me, Helldivers is about unremarkable, anonymous guys being fed into the meatgrinder of fascist imperialism, and Ritchson comes off as a little too heroic (and beefy) for that. I may be assuming too much ab
-
-### 'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6
-Fri, 18 Sep 2026 18:22:26 +0000 — https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/
-
-Grand Theft Auto 6 is coming! Not to us on Team PC, mind: It will eventually, but right now it's a strict console exclusive. Why? Hard to say: Publisher Take-Two Interactive has taken pains to reassure PC gamers that they're very important and loved, but also, y'know, not now . The latest reassurance to gamers on personal computers came during Take-Two's annual shareholders meeting, held yesterday, during which Take-Two chairman and CEO Strauss Zelnick was asked about the potential impact of PlayStation 5 Pro shortages —ironically, driven at least in part by the looming launch of GTA 6—on the company's plans for releasing the game on PC. After clarifying that the question is really about "the cadence of PC launches," Zelnick continued, "The strategy of the company is over time, generally speaking, to launch for any platforms for which there's a meaningful audience. But that isn't always the case, and certainly if platforms were no longer viable, we would change that strategy. And I would note that the PC platform is becoming more and more important to our company over time." So, what does that mean? Essentially, that Zelnick doesn't want to talk about it: GTA 6, for better or worse, is a console exclusive, and that's clearly where the studio's focus is. Which isn't to say Zelnick's response isn't confusing, but that's something of an ongoing pattern: In May he said PC can account for up to half the total sales of major game releases, but that GTA 6 is debuting on consoles bec
-
-### I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance
-Fri, 18 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/
-
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . In a previous life, long before I began making millions writing about videogames professionally, I wrote marketing copy for a finance firm I still don't really understand. Do you know the fine art of embedding payment iframes in customer payment gateways? I did. Once. Do you know the riotous history of the SWIFT international banking system? What about SEPA? No? What a sheltered life you must lead. My point is this: absolutely nothing is more interesting, cooler, or sexier than finance and banking. We all know it. There was a whole song that was pretty much about just that. And now, I have integrated this glamour into Grand Theft Auto 5. I have installed Realistic Bank System – San Andreas ONE . Exciting times: I can get into debt now. The thrill of thrills is that San Andreas ONE lets you apply for lines of credit in ways that are fascinatingly reminiscent of real life. GTA 5's protagonists even get actual, meaningful credit scores (based on… something) that impact their eligibility to open new lines of the stuff. Franklin's was 680 (Good), in case you're wondering. That gave him a positive soft eligibility for getting a loan. Yes, this thing has soft and hard credit checks. Anyway, I got a $30,000 line of credit and set it 
 
 ## GameSpot
 
@@ -488,19 +478,4 @@ An ambitious Baldur's Gate 3 custom campaign mod which adds a whole new region t
 Fri, 18 Sep 2026 08:15:00 +0000 — https://www.rockpapershotgun.com/publishers-are-afraid-of-certain-parts-of-the-world-saber-interactives-message-to-north-american-studios-is-to-get-their-head-out-of-their-own-geography
 
 Layoffs have been a constant drumbeat in gaming industry news since 2022. Even if the cadence of layoffs seems to have slowed in 2026, the severity of those cuts has not lessened. In July, Microsoft made 1600 staff redundant as part of its great reset , and promised investors they would let 1600 more staff go in the next 12 months. Cuts like those and the ongoing economic pressures plaguing the industry &ndash; rising debt rates, a cost of living crisis, and a memory shortage that is making every aspect of making and playing video games pricier &ndash; should have the head of any large studio examining their plans for the future. Especially when games are taking longer to make, costing more to make, and up against a much greater volume of competition than even two years ago. With all that in mind, when I wasn't talking to Saber Interactive's chief creative officer Tim Willits about generative AI , I wanted to know what he would do if he ran one of those 200-people big-budget game studios. Because say what you like about Saber (and there's a lot of things people like to say about Saber), but the developer is doing well at a time when a lot of other studios and publishers are struggling. Read more
-
-### "Nearly everyone" laid off at Hyper Light Drifter devs Heart Machine after publisher drops unannounced game
-Thu, 17 Sep 2026 17:00:00 +0000 — https://www.rockpapershotgun.com/nearly-everyone-laid-off-at-hyper-light-drifter-devs-heart-machine-after-publisher-drops-unannounced-game
-
-Heart Machine, the US-based makers of Hyper Light Drifter , its multiplayer spinoff Hyper Light Breaker , and last year&rsquo;s Possessor(s) , have laid off "nearly everyone" on staff after an unnamed publisher pulled funding for their next, unannounced game. Read more
-
-### Escape a roundabout as a stoned tuk-tuk driver in Zero Parades' free Director’s Cut update, which will add about 40,000 new words to the RPG next month
-Thu, 17 Sep 2026 16:17:32 +0000 — https://www.rockpapershotgun.com/escape-a-roundabout-as-a-stoned-tuk-tuk-driver-in-zero-parades-free-directors-cut-update-which-will-add-about-40000-new-words-to-the-rpg-next-month
-
-As many reservations as I had going into ZA/UM's Zero Parades: For Dead Spies earlier this year, what with all of the drama and upset that's surrounded the studio since Disco Elysium 's release, it pleasantly surprised me . I don't think I rate it more highly than its brilliant predecessor, but it offered a throughly fun time that felt like it was riding the coattails of Disco, but not in a way that left it any way unable to create its own magic. Now, it's getting a free Director's Cut update to coincide with its console release, with a bunch of new additions and tweaks coming to the PC version. Read more
-
-### Twitch CEO expects GTA 6 online multiplayer will launch next year, which if accurate would leave only the PC port's arrival point up in the air
-Thu, 17 Sep 2026 15:02:50 +0000 — https://www.rockpapershotgun.com/twitch-ceo-expects-gta-6-online-multiplayer-will-launch-next-year-which-if-accurate-would-leave-only-the-pc-ports-arrival-point-up-in-the-air
-
-Despite Rockstar Games' silence on the matter, the cat rather seems to be out of the bag about GTA 6 getting its own online component that'll doubtless serve as GTA Online has for GTA 5 . Court docs the studio themselves filed as part of the ongoing final hearing in a legal battle over the firings of 34 developers last year are partly to thank, but now so is the boss of streaming platform Twitch just blurting out when he expects GTA 6 to get a big multiplayer bump. Read more
 

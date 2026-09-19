@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-19T13:59:19.137Z
+# Tech — harvested 2026-09-19T18:54:16.235Z
 
 ## Ars Technica
 
@@ -64,6 +64,31 @@ As European militaries adapt to the use of AI and drones in modern warfare, a NA
 
 ## The Verge
 
+### Trump treads further on free speech with new journalist bans
+2026-09-19T13:10:21-04:00 — https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban
+
+President Donald Trump speaks to reporters on the tarmac before boarding Air Force One. (Photo by Andrew Harnik/Getty Images) | Getty Images On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White House this morning, NPR reports , marking an escalation in the administration's war on the First Amendment. Politico tried to get to the bottom of it, asking why now ? It reports that "many senior [White House] staff were surprised by the directive" (what's new?), and that it was done "while chief of staff Susie Wiles was out of town." Apparently he's been talked down from this kind of sweeping mov … Read the full story at The Verge. ]]>
+
+### Gemini went rogue, hacked three companies, and Google hid it
+2026-09-19T11:25:03-04:00 — https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack
+
+In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ , Google didn't disclose the hack because it didn't consider it to be an "example of model misalignment." The company said that it was an instance of "mistaken identity," and once the model realized it had brute-forced its way into a real company by guessing a password, it stopped. "In th … Read the full story at The Verge. ]]>
+
+### Anamanaguchi has ‘too goddamn many’ browser tabs open right now
+2026-09-19T11:00:00-04:00 — https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music
+
+Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn Anamanaguchi , the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into Fortnite ). They've gone through different eras of breakneck chiptune beats and dance-y pop songs, but their 2025 album Anyway took an indie rock departure - recorded in person at the American Football house and filled with fuzzy guitars. They're also a band that's terminally online and very plugged into the video game sc … Read the full story at The Verge. ]]>
+
+### The colorful, unique Hyte X50 PC case is $50 off
+2026-09-19T11:00:00-04:00 — https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale
+
+The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are up to 430mm long, which should cover even the biggest options available. The standout feature is a massive curved glass panel that spans the left face and top of the case, giving it a unique, eye-catching look. It’s easy to build in, supports a wide variety of components and cooling setups, and has a thoughtful, refined design. Hyte X50 Where to Buy: $149.99 $99.99 at Hyte Unlike a lot of cases with big glass panels, the X50 has excellent airflow, with louvered fins along the back for ventilation, a porous mesh front, and plenty of spots for radiators and fans. It comes in a variety of bold colors, too, like the lavender-adjacent “taro milk” and trendy “matcha,” as well as more classic black and white options. If you’d rather opt for something a little more subtle, the X50 Air swaps the glass panel for curved mesh, and is only $79.99 (usually $119.99) from Hyte . ]]>
+
+### Does AI need an antitrust exemption so it doesn t kill everyone????
+2026-09-19T10:00:00-04:00 — https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition
+
+Today on Decoder , we’ve got the first of a two-part series on the future of business, and I m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation . Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues. That is a lot of ideas, and I am especially curious about the antitrust piece, which has led to accusations that these companies are seeking regulatory capture, attempting to form a cartel, and even somehow finding a way out from investor pressure ahead of their IPOs. Verge subscribers, don t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . So to make sense of it all, I called Jonathan Kanter. Jonathan brought huge antitrust cases against Google, Apple, and Ticketmaster during his time as antitrust chief, and along wi
+
 ### It’s not just LG. Every TV company is spying on you
 2026-09-19T09:00:00-04:00 — https://www.theverge.com/tech/997682/every-tv-company-is-spying
 
@@ -89,32 +114,17 @@ Virginia Gov. Abigail Spanberger ordered the state government to take steps that
 
 You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently appointed CEO Josh D'Amaro , and he will head up the company's infrastructure, product, engineering, and data / AI platforms teams. Anand comes to Disney from chatbot startup Character.AI , where he served as CEO for just over a year and oversaw the company's push into microdramas . Anand jumping ship to Disney comes as a … Read the full story at The Verge. ]]>
 
-### The real story of the iPhone 18 Pro s camera
-2026-09-18T13:06:37-04:00 — https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera
-
-It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in group photos. But all I can get anyone to talk about is the software upgrades: it turns out, they're a lot more useful day to day than the aperture on a camera this small. This week on The Vergecast , David Imel and Allison Johnson are here for a deep dive into the iPhone 18 Pro's camera. There's a lot to explore here, from the aperture, to the camera app's … Read the full story at The Verge. ]]>
-
-### Gavin Newsom is pushing for an AI kill switch
-2026-09-18T13:04:51-04:00 — https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch
-
-California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a "kill switch" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to strengthen AI safety measures in state law. Newsom wants the group to consider how the state could require AI companies to embed independent verification groups onsite for regular audits, make their transparency reports and risk assessments subject to standards of independent auditors, create a "kill switch" that's … Read the full story at The Verge. ]]>
-
-### What Hollywood thinks about existential AI warnings
-2026-09-18T12:35:19-04:00 — https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings
-
-As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney , Netflix , Amazon , Lionsgate , and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream to ask for their reaction to the recent warnings surrounding the technology. None have responded to our request for comment. The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) and Writers Guild of America East (WGAE) did, however. The AI tools used in entert … Read the full story at The Verge. ]]>
-
-### Security researchers used Claude to help them hack into OpenAI
-2026-09-18T11:30:16-04:00 — https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist
-
-A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called "Monorepo," which reportedly contains "OpenAI's algorithmic secrets," according to The Wall Street Journal 's sources. They stopped short of accessing internal code in Monorepo themselves, but sent a pull request from an employee's Codex account to prove they gained access. They were able to get in through Discourse, the third-party service that hosts OpenAI's community f … Read the full story at The Verge. ]]>
-
-### Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount
-2026-09-18T11:12:41-04:00 — https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount
-
-The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, and Abu Dhabi to own 49.5 percent of the company. During Brendan Carr's tenure, the FCC has repeatedly threatened ABC , tried to block stations from airing interviews with Democrats, censored late-night TV hosts, and tried to bully journalists . However, it seems to have no qualms with repressive foreign governments owning a significant stake in a giant American media conglomerate. In its ruling, the FCC defended the decisio … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Acer Predator QD-OLED monitor now 36% off — 500 Hz refresh rate and True Black 500 certification slashed to $509.99
+Sat, 19 Sep 2026 18:26:39 +0000 — https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-qd-oled-monitor-now-36-percent-off-500-hz-refresh-rate-and-true-black-500-certification-slashed-to-usd509-99
+
+Most every day there's yet another bit of news about how RAM, SSDs, and hard drives are insanely expensive. Today, though, there's a reprieve from high prices, in the form of a sale on an exceedingly nice display. The Acer Predator X27U, or model F5bmiippruzx as it's known to friends, is a 27" 1440p QD-OLED display with a whopping 500 Hz refresh rate and DisplayHDR True Black 500 certification, making for a consistently bright experience. It can be yours for a mere $509.99 at Newegg right now. Check out all the Acer X27U F5 deal at Newegg The Predator X27U's display is one of the latter-generation QD-OLED 27" 2560x1440 types, granting it that massive 500 Hz refresh rate and increased brightness compared to earlier offerings. It's as good a time as any to note that Acer reused the "Predator X27U" moniker — the F5 model on sale is the nicer revised version, just in case you go searching and find the old specs. Predator X27U F5 - F5bmiippruzx: was $799.99 now $509.99 The revised Predator X27U F5 has a massive 500 Hz refresh rate and DisplayHDR True Black 500 certification, all for a low price. View Deal Broadly speaking, OLED displays all have near-zero black levels, an infinite contrast ratio, and "perfect" viewing angles and response time. However, this model's DisplayHDR 500 True Black certification is the star of the show, as it ensures that brightness in HDR mode must be at least 500 nits, but most importantly, that full-screen brightness is at least 300 nits. Put together,
+
+### ChatGPT-6 Astra cracks 108-year-old unsolved WWI German code for the first time — radio message sharing enemy movement intelligence had evaded decoding, 1918 Crimean fleet warning verified against HMS Canterbury logs
+Sat, 19 Sep 2026 15:02:02 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-108-year-old-unsolved-wwi-german-code-for-the-first-time-radio-message-sharing-enemy-movement-intelligence-had-evaded-decoding-1918-crimean-fleet-warning-verified-against-hms-canterbury-logs
+
+Now 108 years after its transmission, an encrypted World War I German radio message has apparently been deciphered for the first time. The decoded and translated message relays information about the movements of an English cruiser and an Allied squadron near the Crimean Peninsula. Prinz, the developer who reckons they successfully decoded this covert WWI communication, used GPT-Astra to solve the cipher. Go deeper with TH Premium: AI shortages (Image credit: Nvidia) AI data centers are swallowing the world's memory and storage supply Demand for data center CPUs has surged, and AI agents are responsible Chip scarcity assaults auto industry amid the worsening Nexperia and DRAM crisis The custom AI ASIC state of play Prinz picked the code from a relatively famous list of 50 unsolved ciphers maintained by the German science blogging portal Scienceblogs.de . It was known to be “encoded using the ADFGVX method,” says the developer on their Substack. Addressed to the German High Command and for the attention of an admiral or perhaps Naval Command, the ciphered message looks like gobbledygook, surely as intended. The German military at the time used a convoluted grid of letters that shuffled depending on the current keyword. GPT-6 Astra deciphered a 1918 German radio transmission that, to my knowledge, has never been deciphered before.The message below translates to:"EIN ENGLISCHER KREUZER EINLIEG X SEWASTOPOL X S4STEN X EIN GESCHWADER DER X ALLIIERTEN FOLGT 26STEN X"or, in English:"
 
 ### Father loses job over 9-year-old spending $118,000 on Minecraft YouTube ads using his company's credit card — 'I’m going to be working until I’m like 94,' refuses to set up GoFundMe or put up crypto coin to help repay massive bill
 Sat, 19 Sep 2026 13:37:12 +0000 — https://www.tomshardware.com/video-games/father-loses-job-over-9-year-old-spending-usd118-000-on-youtube-ads-using-his-companys-credit-card-refuses-to-set-up-gofundme-or-put-up-crypto-coin-to-help-repay-massive-bill
@@ -166,17 +176,12 @@ Fri, 18 Sep 2026 19:45:41 +0000 — https://www.tomshardware.com/pc-components/c
 
 Intel's Nova Lake CPUs are no stranger to leaks. We've been talking about the processors for close to two years now , with rumors swirling about bLLC and a 52-core flagship for well over a year. However, this week (and this month more broadly), we've seen leaks hit a fever pitch, suggesting that Intel is finally gearing up to release a generation of processors that's been the zeitgeist for over 24 months. Intel hasn't shied away from discussing Nova Lake, with Intel's enthusiast channel VP Robert Hallock telling Tom's Hardware Premium that it's one of the most important launches for the company ever. At the beginning of the year, Intel CEO Lip-Bu Tan said that Nova Lake would launch in the second half of 2026 , and despite expected hubbub about delays/cancellations , that's the North Star Intel itself has set. So, that's also going to be our North Star here. There are three stories that have come out over the past week and a half. First, a screenshot of some high-level details about Nova Lake surfaced online , showing the launch schedule and platform details. The slide in question is almost certainly from one of Intel's partners and not Intel itself. Just in the past few days, we've also seen a barrage of Z990 motherboards from ASRock surface in the NBD shipping database, as well as some entries in the SiSoftware database for a next-gen HP EliteBook X sporting an unknown Intel processor . (Image credit: Tom's Hardware) An increase in the number of leaks/rumors, especially tho
 
-### Save up to 40% on Elegoo 3D printers during its September sale, from just $159 — Elegoo Day deals mean you can save on a new FDM or resin printer, with big bulk discounts on consumables
-Fri, 18 Sep 2026 15:45:00 +0000 — https://www.tomshardware.com/3d-printing/save-up-to-40-percent-on-elegoo-3d-printers-during-its-september-sale-from-just-usd159-elegoo-day-deals-mean-you-can-save-on-a-new-fdm-or-resin-printer-with-big-bulk-discounts-on-consumables
-
-Elegoo has a huge sale right now, making it a great time to pick up a new 3D printer. This special Elegoo Day sale on new 3D printers is running throughout September to celebrate its community of makers, with limited-time discounts across its whole range, with resin and filament also on sale. You can score up to 40% off a new 3D printer right now, but you'll have to be quick about it. ● Check out these Elegoo 3D printer sales Elegoo has placed almost its entire range of 3D printers on sale. One of its best offers lets you pick up an Elegoo Centuari Carbon 2 Combo, along with 1KG of filament, for just $400 . The printer is just $399 right now, but the extra dollar gets you 1KG of PLA filament on top. You've also got 26% off the ultra-big OrangeStorm Giga, now $2,299 . At the other end, you can score 37% off the Neptune 4 Plus, down to $269 . Beginner-friendly resin printers, like the Mars 5 Ultra, are also on sale, down to $259 . This Elegoo Day flash sale isn't going to be around forever. The discounts will end on September 29, 2026, at 3 AM ET, but there's no guarantee that the stock will last until then, so you'd better be quick. Elegoo FDM 3D Printer Deals Centauri Carbon 2 Combo with 1KG filament for $1: was $462.99 now $370 The Elegoo Centauri Carbon 2 combo offers a build volume of 256 x 256 x 256 mm and supports multi-material and multi-color 3D printing on a budget. Pay an extra $1 for 1KG of filament on top of your order. Grab the Centauri Carbon 2 Combo on its own f
-
-### China's premier memory maker CXMT eyes producing flash for SSDs, report claims — 3D NAND research and development line rumored for its second manufacturing facility near Beijing
-Fri, 18 Sep 2026 15:34:02 +0000 — https://www.tomshardware.com/pc-components/ssds/chinas-premiere-memory-maker-cxmt-eyes-producing-flash-for-ssds-report-claims-3d-nand-research-and-development-line-rumored-for-its-second-manufacturing-facility-near-beijing
-
-A new report claims Chinese DRAM champion CXMT is eyeing production of 3D NAND memory. Reuters reports, citing three people familiar with the company's plans, that CXMT intends to build a 3D NAND R&D production line at its second manufacturing facility near Beijing. There is no information on when the experimental production line will become operational, though, given that CXMT's second Beijing fab has not even broken ground yet, the line is at least two or three years away. In addition, the memory maker has established a research institute in Beijing that has NAND flash development among its projects, according to one source. CXMT has not formally confirmed any 3D NAND initiatives, so the information should be taken with a grain of salt. Go deeper with TH Premium: Memory (Image credit: SK Hynix) AI data centers are swallowing the world's memory and storage supply Samsung debuts three next-generation memory technologies for AI data centers The future of DRAM: From DDR5 to future ICs High-bandwidth memory roadmap Inside the history of DRAM price-fixing lawsuits For now, there are no details on CXMT's 3D NAND architecture, number of active layers, process technology, expected performance, or production capacity. Nevertheless, the report claims that CXMT has already discussed its NAND ambitions with prospective customers. One of them is said to be a recently established company that plans to use CXMT-made NAND devices in storage products aimed at AI and supercomputing applicatio
-
 ## Phoronix
+
+### Simple Optimization For Linux 7.4 Can Open Files For Reading ~39% Faster
+Sat, 19 Sep 2026 12:28:05 -0400 — https://www.phoronix.com/news/Linux-7.4-Faster-Do-Open
+
+More than two years in the making, Linux 7.4 is poised to introduce a patch that amounts to a rather simple optimization to avoid unnecessary/duplicative work that can net some nice gains when opening files for reading...
 
 ### Wine-Staging 11.18 Adds New Patches To Further Improve WoW64
 Sat, 19 Sep 2026 09:22:39 -0400 — https://www.phoronix.com/news/Wine-Staging-11.18
@@ -233,12 +238,12 @@ Fri, 18 Sep 2026 10:00:00 -0400 — https://www.phoronix.com/review/ubuntu-2610-
 
 Ahead of next week s Ubuntu 26.10 beta release I have been testing the "Stonking Stingray" on a variety of systems. Ubuntu 26.10 is performing well overall with some nice upgrades over Ubuntu 26.04 LTS, especially if opting to use the new snapshot/daily ISOs of Ubuntu 26.10 in amd64v3 form for x86_64-v3 packages. In today s tests are a look at the performance benefits of Ubuntu 26.10 on an AMD Ryzen AI Max+ "Strix Halo".
 
-### Linux Ready With Fix For Intel s FRED Crashing Some Games Under Wine / Steam Play
-Fri, 18 Sep 2026 09:03:06 -0400 — https://www.phoronix.com/news/Linux-FRED-Fix-For-Wine-Games
-
-Recently there have been some bug reports to Mesa around Intel Panther Lake graphics crashing with some games like Red Dead Redemption 2 and Elden Ring crashing or freezing quite quickly. This turns out not to be an Intel Xe3 Arc Graphics B390 driver bug with Panther Lake but rather due to a kernel issue with the new Flexible and Return Event Delivery "FRED" that debuted with the Core Ultra Series 3 processors...
-
 ## The Register
+
+### Agentic security is the billion-dollar challenge for some clever startup to solve
+Sat, 19 Sep 2026 16:25:00 +0200 — https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546
+
+When it comes to AI models, security functions as an afterthought, as evidenced by increased instances of agents hacking organizations and people, and other security mishaps with agents gone rogue. There's also an opportunity here for companies to offer new solutions. This should not come as a shock to anyone, according to cybersecurity investors and accelerator executives. “On one hand, we shouldn’t be surprised that increasingly capable agents are finding creative and sometimes unexpected ways to accomplish their objectives,” Matt Hartman, chief strategy officer at Merlin Group, told The Register. “On the other, we can’t accept harmful behavior as inevitable or unmanageable.” It’s the same story that plays out with every emerging technology, from laptops to cloud, said Todd Graham, managing partner at Microsoft’s M12 venture fund. “Every time we've built a new piece of infrastructure, we've conveniently forgotten the security,” Graham told The Register. Herein lies the opportunity for early-stage security companies. “If laptops were default secure, we wouldn't have CrowdStrike,” Graham said. “If the cloud was default secure, we wouldn't have Wiz. If identity wasn't default secure, we wouldn't have a bunch of Active Directory add-ons and Okta.” When it comes to AI security, “a lot of ships are going to rise with this tide,” he added. What’s different with AI is the speed at which models are advancing. While companies adopted cloud technologies over a period of years, organiz
 
 ### AI boom could leave an e-waste trail that wraps 6 times around Earth
 Sat, 19 Sep 2026 15:30:00 +0200 — https://www.theregister.com/off-prem/2026/09/19/ai-boom-could-leave-an-e-waste-trail-that-wraps-6-times-around-earth/5297451
@@ -295,74 +300,94 @@ Fri, 18 Sep 2026 17:29:00 +0200 — https://www.theregister.com/software/2026/09
 
 Microsoft has reminded administrators that Internet Explorer mode in Edge is guaranteed support only through 2029, so it is time to get those legacy migrations moving. Internet Explorer mode lets enterprises continue using legacy websites within Edge rather than relying on the retired Internet Explorer browser. It uses the Trident MSHTML engine from Internet Explorer 11 and permits elements such as ActiveX controls, although other Internet Explorer functionality, such as custom toolbars, is not supported. Microsoft has promised to support IE mode until at least the end of 2029 and to provide one year's notice before retiring it. The feature is unlikely to stop working immediately after support ends, but organizations that depend on it could face security, compatibility, and compliance risks. A message in the Microsoft 365 admin center urges customers to begin modernizing legacy systems that still depend on Internet Explorer technology. The company wrote: "Application modernization projects can take years to complete depending on the number and complexity of dependencies, so early planning reduces the risk of disruption later." Microsoft has been banging this particular drum for some time. It announced in 2021 that IE mode would be supported until at least the end of 2029, but its latest reminder suggests some customers still have substantial migration work ahead of them. Administrators do not need to act immediately, but migrations involving old and heavily dependent applicat
 
-### KDE turns 30 and someone's brought an AI-native desktop proposal
-Fri, 18 Sep 2026 16:25:00 +0200 — https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282
-
-KDE's annual conference takes place this weekend at Graz University of Technology in Austria, with an AI-native desktop proposal likely to divide attendees. The KDE project is celebrating its 30th anniversary this year, giving delegates at the Akademy conference in Graz another reason to raise a glass. The conference begins on Saturday, September 19, and registration remains open. Although Xfce 1.0 appeared slightly earlier, its initial releases were proprietary, making what was originally known as the Kool Desktop Environment one of the earliest entirely FOSS desktop environments for Linux. Version 1.0 was released in July 1998. Although created for Linux, KDE software now runs on several other operating systems. The potentially contentious proposal comes in a Sunday afternoon talk entitled What would it take? A lovable, sovereign, AI-native KDE, presented by longtime KDE contributors Eva Brucherseifer and Jan Muehlig. In 2003, they conducted a usability study of the then newly released KDE 3.1. Of the 60 office workers tested, none of whom had prior Linux experience, 87 percent said they enjoyed working with KDE. The talk has three parts: what KDE learned – or failed to learn – from that study; the case for an "AI-native" desktop; and the importance of a sovereign European computing stack. It is the middle section that may ruffle feathers. The outline says: "A desktop that loves you back has to know you. Personal AI has crossed the threshold where the desktop itself can be 
-
 ## Engadget
+
+### Anthropic picks Accenture for third-party AI safety evaluations
+Sat, 19 Sep 2026 18:33:46 +0000 — https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/
+
+This move represents the first step in the CEO's plan to slow down AI development.
+
+### Why buy a streaming device when you have a smart TV?
+Sat, 19 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2257809/why-buy-streaming-device-when-have-smart-tv/
+
+Many modern TVs can stream apps like Netflix and Prime. But you may want to get a streaming device too.
+
+### You can use DeX on the Galaxy Z Fold 8's inner screen with this trick
+Sat, 19 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2258733/galaxy-z-fold-8-series-use-dex-on-inner-screen/
+
+Samsung's DeX lets you plug in your Samsung Galaxy device into a monitor or TV to create a PC-like experience. Now, it can launch directly on your phone.
+
+### Why is your iPad not charging (and how to fix it)
+Sat, 19 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2258268/why-ipad-not-charging-fixes/
+
+You probably don't think about your iPad charging until it runs into trouble. When plugging it in doesn't work, you'll need to check its port and charger.
+
+### California governor wants to implement a kill switch for frontier AI models
+Sat, 19 Sep 2026 17:00:01 +0000 — https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/
+
+Newsom's executive order calls for an expert panel to develop new AI safety measures.
+
+### How to switch between two phones on CarPlay
+Sat, 19 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2258194/how-to-switch-between-two-phones-apple-carplay/
+
+When using Apple's CarPlay, it will automatically connect to the first iPhone it was paired with. Here's how to get it to connect to a different device.
+
+### Here's why some monitors have two USB ports (and the best ways to use them)
+Sat, 19 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2258096/why-monitor-two-usb-ports-explained/
+
+These ports are often part of a built-in USB hub, letting you keep desk accessories connected to the monitor instead of occupying ports on your computer.
+
+### Which tech upgrades are worth making to your car's old sound system?
+Sat, 19 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2257900/tech-upgrades-worth-making-car-old-sound-system/
+
+You can upgrade an older car with modern tech to enable Bluetooth, CarPlay and more. Your options depend on your car and what you need most.
+
+### How to block and unblock a number on your Android phone
+Sat, 19 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2257824/how-to-block-unblock-number-android-phone/
+
+Unwanted calls and texts are a part of modern-day life, but you can block and unblock numbers that are repeat offenders.
+
+### This Game Boy inspired hi-res music player raised over $500,000 on Kickstarter
+Sat, 19 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2257820/game-boy-inspired-music-player-raises-500000-kickstarter/
+
+The AP30 Music Boy is just the latest example of dumb tech's resurgence.
+
+### How to factory reset your Steam Deck
+Sat, 19 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2257819/how-to-factory-reset-steam-deck/
+
+There are a few reasons you might want to factory reset your device, and doing so is easy.
 
 ### The best way to check your PC for malware
 Sat, 19 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2257817/best-way-check-pc-malware/
 
 If your PC is slowing down or not behaving as usual, it's worth running through these tips to see if you have malware.
 
-### Google Gemini also escaped its testing environment and hacked three companies
-Sat, 19 Sep 2026 13:05:53 +0000 — https://www.engadget.com/2263198/google-gemini-escaped-testing-environment-hacked-three-companies/
-
-Google's AI model hacked real companies during testing due to a misconfiguration by its testing partner, as well.
-
-### 4 cool projects you can do with Home Assistant on Raspberry Pi
-Sat, 19 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2257816/cool-projects-home-assistant-raspberry-pi/
-
-Smart home automation is more versatile than ever with Home Assistant and a Raspberry Pi. Check out what they can do.
-
-### The pros and cons of using noise cancelling headphones
-Sat, 19 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2257815/noise-cancelling-headphones-pros-and-cons/
-
-Active noise cancellation makes headphones much better, but you should know how it works and what the drawbacks are as well.
-
-### 10 Of The Coolest Japanese Gadgets You'll Almost Never See In The US
-Sat, 19 Sep 2026 12:15:00 +0000 — https://www.engadget.com/2262963/cool-japanese-gadgets-not-typically-found-in-united-states/
-
-Sure, we have plenty of neat products in the United States, but a look at these 10 gadgets really suggest Japan is in a consumer tech league of its own.
-
-### What causes a stuck pixel on your laptop and can it be fixed?
-Sat, 19 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2257814/laptop-stuck-pixel-causes-fixes/
-
-Stuck pixels don't have to be a death sentence for your laptop, as there are several options that can bring them back to life.
-
-### John Wick as a DVD store operator, a roguelike take on Armored Core and other new indie games worth checking out
-Sat, 19 Sep 2026 11:30:00 +0000 — https://www.engadget.com/2262905/john-wick-as-a-dvd-store-operator-and-other-new-indie-games-worth-checking-out/
-
-Our latest indie gaming roundup features a John Wick-style character who works in a video store.
-
-### How Focus mode has changed in iOS 27
-Fri, 18 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2257610/how-focus-mode-changed-ios-27/
-
-iOS 27 brings tons of cool upgrades to your iPhone. Don't miss the interesting-yet-subtle changes to Focus.
-
-### AI almost led the US military to start a war with China, report says
-Fri, 18 Sep 2026 22:44:45 +0000 — https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/
-
-CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components.
-
-### Sony Music and UMG say Suno's new models still violates their copyright
-Fri, 18 Sep 2026 21:06:27 +0000 — https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/
-
-In a new lawsuit, the labels argue Suno found a roundabout way to train its v6 models on unlicensed music.
-
-### Clicks Communicator shipments begin in December
-Fri, 18 Sep 2026 20:53:52 +0000 — https://www.engadget.com/2262962/clicks-communicator-shipments-begin-in-december/
-
-The BlackBerry-like phone also got a spec bump and an impending price hike.
-
-### What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more
-Fri, 18 Sep 2026 20:35:11 +0000 — https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/
-
-There's a lot for Mark Zuckerberg to cover at this year's keynote.
-
 ## TechCrunch
+
+### Google’s Gemini is the latest AI model to hack other companies
+Sat, 19 Sep 2026 17:30:00 +0000 — https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/
+
+Google said Gemini had "acted appropriately" by ending each hack immediately.
+
+### Even mid-sprint to a secret flight, the Navy s tech chief has a pitch for investors
+Sat, 19 Sep 2026 17:00:00 +0000 — https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/
+
+Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.
+
+### Petlibro’s new AI-powered feeder is a game changer for multi-cat homes
+Sat, 19 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/
+
+Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.
+
+### AI safety conversations have gotten unbelievable
+Sat, 19 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/
+
+This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.
+
+### Prices go up in 7 days. Get your Disrupt ticket now.
+Sat, 19 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/
+
+Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..
 
 ### Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking
 Sat, 19 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/
@@ -398,29 +423,4 @@ Fri, 18 Sep 2026 23:12:32 +0000 — https://techcrunch.com/2026/09/18/ai-halluci
 Fri, 18 Sep 2026 21:44:33 +0000 — https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/
 
 Accenture is about to take on its most high-risk consulting engagement ever.
-
-### Automattic names interim CFO after exec departures
-Fri, 18 Sep 2026 20:25:22 +0000 — https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/
-
-Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.
-
-### Y Combinator insurance tech alum Angle Health hits $2.7B valuation
-Fri, 18 Sep 2026 20:24:33 +0000 — https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/
-
-Angle Health has grown to 5,000 customers and become profitable by helping small businesses get "level-funded" health insurance.
-
-### World model companies are keeping a lot of secrets
-Fri, 18 Sep 2026 20:18:14 +0000 — https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/
-
-Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.
-
-### A new kind of AI model from a ChatGPT inventor is thrilling developers
-Fri, 18 Sep 2026 18:49:30 +0000 — https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/
-
-Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.
-
-### Disney s first CTO led an AI startup it once accused of copying its characters
-Fri, 18 Sep 2026 17:59:53 +0000 — https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/
-
-The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.
 
