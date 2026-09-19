@@ -1,6 +1,31 @@
-# Tech — harvested 2026-09-18T19:11:17.525Z
+# Tech — harvested 2026-09-19T08:58:35.649Z
 
 ## Ars Technica
+
+### AI hallucination of Chinese nuclear components almost led to US military attack
+Fri, 18 Sep 2026 20:26:33 +0000 — https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/
+
+The US narrowly avoided boarding a Chinese ship based on an "entirely false" US intelligence report generated with the help of AI tools, according to a CNN report . That erroneous intelligence, submitted by a US Special Operations Command analyst, suggested the Chinese ship was transporting nuclear arms program components through the Middle East, according to "four sources familiar with the episode" cited by CNN. The US military was preparing to intercept and board the ship, with air support, before officials discovered a chatbot used in generating the report had "inaccurately identified the material the ship was carrying." One source told CNN the AI-powered fiasco "almost started a war." Read full article Comments ]]>
+
+### FAA tees up $875M AI tool to help manage air traffic congestion
+Fri, 18 Sep 2026 19:20:50 +0000 — https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/
+
+An AI tool is set to start advising air traffic controllers on managing air traffic in the congested airspace above the Washington, DC, area. The expected launch would be the first step toward a planned nationwide rollout covering the 29 million square miles of US national airspace overseen by the Federal Aviation Administration. The FAA describes the SMART system as using AI models to predict air traffic flows and identify potential conflicts based on operational factors like airline schedules, weather, airport capacity, and airspace conditions. US government and industry officials told The Wall Street Journal that SMART could debut for the three major airports in the Washington, DC, area as soon as Monday, September 21. The decision to launch SMART in a limited scope before going nationwide is the “right call,” said Philip Mann, principal consultant at Vector Strategic Consulting LLC, where he advises on aviation safety and AI governance. Mann previously worked at the FAA in multiple roles for 17 years. Read full article Comments ]]>
+
+### FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar
+Fri, 18 Sep 2026 17:57:41 +0000 — https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/
+
+The Federal Communications Commission yesterday approved Paramount Skydance's plan to sell large equity stakes to the sovereign wealth funds of Saudi Arabia, the United Arab Emirates, and Qatar. Under US law , companies with licenses to run broadcast stations need FCC approval to have direct or indirect foreign ownership exceeding 25 percent of the company's stock. Paramount says its indirect foreign ownership will reach 49.5 percent after it receives investments from the sovereign wealth funds and filed a petition asking the FCC to waive the foreign ownership limit. Paramount, the owner of CBS, holds FCC licenses for the 28 local CBS stations that it owns and operates. Paramount is buying Warner Bros. Discovery in a $111 billion deal that is being partially financed with foreign investment but hasn't completed the acquisition because US states filed a lawsuit that aims to block the merger. Trump's Department of Justice approved the merger. Read full article Comments ]]>
+
+### Finding the cells that put our brain to sleep
+Fri, 18 Sep 2026 17:49:50 +0000 — https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/
+
+For a long time, sleep research has treated the cerebral cortex as a passive follower reacting to signals from the deep brain. “Usually, sleep is associated with being controlled by subcortical regions,” said Geoffrey Terral, a neuroscientist at the Albert Einstein College of Medicine in New York. The cortex is where the slow rhythms of deep sleep can be seen, but researchers assumed the signals that triggered them originated elsewhere. In a recent Nature study, Terral and Renata Batista-Brito, who runs the lab, report a population of cortical cells that challenges that assumption. These cortical cells make up only around one percent of the cortex's inhibitory neurons, and switching them on in a mouse puts the animal to sleep. “What our work shows is that the cortex can not only see this rhythm but also initiate it by itself, and this is sufficient to promote sleep,” Terral said. Read full article Comments ]]>
+
+### US government website used Chinese model the FBI called "malicious"
+Fri, 18 Sep 2026 17:28:50 +0000 — https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/
+
+On Wednesday, US government officials removed a Chinese AI search tool that was briefly deployed on the Federal Register website, Reuters reported . The change came after social media users noticed an apparent contradiction: The National Archives was using one of Alibaba’s Qwen AI models, even as top US law enforcement claimed that such models illegally copy US frontier models. Earlier this month, the Federal Bureau of Investigation (FBI) named Alibaba among six leading Chinese firms allegedly conducting “industrial-scale distillation” that the agency says is helping America’s biggest competitor cut costs and development time in the race for global AI leadership. It’s unclear when exactly the National Archives, which runs the Federal Register website, began offering visitors the option to use a Qwen model to search public comments on proposed regulations. So far, the independent agency tasked with increasing public access to federal government documents has not commented on the removal and did not respond to Ars’ request for comment. The White House and the FBI have also not commented. Read full article Comments ]]>
 
 ### Meet the winner of Nikon's Small World in Motion video contest
 Fri, 18 Sep 2026 13:56:57 +0000 — https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/
@@ -37,42 +62,22 @@ Thu, 17 Sep 2026 20:10:41 +0000 — https://arstechnica.com/tech-policy/2026/09/
 
 For years, Microsoft and OpenAI have fought to keep certain information out of the public eye in their fight with news organizations that have accused the AI firms of teaming up to violate copyright laws by stealing tons of news content to train AI. However, now the details that should never have been marked confidential are starting to leak. In a motion for summary judgment that was unsealed Thursday from news plaintiffs led by The New York Times, internal documents are exposed that news groups alleged show exactly how Microsoft and OpenAI viewed the threat to news before unleashing new AI products like ChatGPT and Copilot. Perhaps most explosively, Microsoft Director of Applied Science Brent Hecht repeatedly warned in documents that scraping news for AI training was “an astonishing theft of unprecedented proportions,” calling it perhaps the “largest theft of labor in human history,” news orgs said. In another document, Hecht contradicted Microsoft and OpenAI’s argument that training AI on news content is fair use, suggesting that the plan to widely scrape news made “a complete mockery of the idea of ‘fair use.’” Read full article Comments ]]>
 
-### Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites
-Thu, 17 Sep 2026 19:07:28 +0000 — https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/
-
-US Rep. Darrell Issa (R-Calif.) has proposed a law that would require Internet service providers and other network operators to block foreign piracy websites. Issa's bill would help copyright holders obtain judicial blocking orders to be served to ISPs, domain name resolution services, and virtual private networks. Issa, who is retiring from the House at the end of this year, is the latest in a string of Republican and Democratic lawmakers to propose a site-blocking regime that's been sought by the Motion Picture Association (MPA). He submitted the bill this week, after indicating in a June 30 hearing that he planned to introduce site-blocking legislation. "While millions of listings for copyright-infringing content are removed every day under [the] notice-and-takedown process set forth in the Digital Millennium Copyright Act, right-holders have raised concerns with the speed," Issa said at the hearing. Issa asked, "Can we do it at the speed of sound? Can we do it at the speed of light? More importantly, in a 45-minute or sometimes a fraction of that live sports broadcast, can we do it soon enough to make it no longer profitable for those who pop up and sell their clandestine wares?" Read full article Comments ]]>
-
-### LLMs respond differently to harmful prompts when AI watermarking is used
-Thu, 17 Sep 2026 18:33:13 +0000 — https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/
-
-In response to a new European Union law, AI platforms are implementing new schemes for watermarking the content they generate. Anthropic recently disclosed its future Claude models will use SynthID-Text , an approach Google created and released as open source. It uses a secret key that subtly changes the process a model uses for choosing the next word in a sentence. Whereas a top next word choice might be “cloudy,” the key might change it to “overcast.” Anyone who knows the key can determine if it was generated by the platform using it. New research shows that SynthID-Text can change not just word selection but also the tools a model invokes and the chances it will adhere to or disregard safety guardrails it has been trained to follow. The threat can become greater in the face of an adversarial prompt, in which an attacker attempts to cause a model to carry out a harmful action, such as revealing a password or other sensitive information. Instructions that normally wouldn’t be followed will, in some cases, be performed once the watermarking is deployed. The finding underscores the need for developers to thoroughly test how their LLMs and agents behave when watermarking is in place. Changing safety behavior “As compared to the same models without watermarking, it is definitely going to change their behavior, especially when we place it under adversarial conditions, or we make these models call tools when they’re powering an agent,” Andrea Siposova, an AI security researcher at
-
-### IV drips used for "detoxification" actually filled with toxins; dozens poisoned
-Thu, 17 Sep 2026 17:43:50 +0000 — https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/
-
-Over 30 people across four states have been poisoned by bacterial toxins after getting intravenous (IV) drips at wellness clinics, according to the Centers for Disease Control and Prevention and the Food and Drug Administration . The people had received IV drips containing glutathione, which is sold—without evidence—for purposes like detoxification, immune support, increased energy, and skin brightening. Glutathione is an antioxidant that's found naturally in the body. It has been studied as a potential treatment for various ailments, but so far there is little to no evidence-backed use for the tripeptide; there are no FDA-approved glutathione products in the US. Nevertheless, it's commonly used as a supplement and promoted as having various benefits. It's most often used in supplement pills, taken by mouth. But popular wellness clinics offering IV drips of vitamins and other supplements have also been offering glutathione. According to the CDC and FDA, the problem is that specialty drug makers, called compounding pharmacies, are making these IV drips using glutathione powders that are graded for dietary supplements taken orally. This grading is critically different from that of purified products graded for use in sterile injectable drugs. Read full article Comments ]]>
-
-### 2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us
-Thu, 17 Sep 2026 17:30:30 +0000 — https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/
-
-When we first drove the Hyundai Ioniq 5 at the end of 2021 , it didn’t take much exposure to the angular electric vehicle to find much about it appealing. Back then, an 800 V architecture had only really been seen in expensive high-end EVs from Porsche, but here was a mainstream model with that same technology—and even faster fast-charging, taking just 18 minutes to go from 10–80 percent. The retro looks didn’t hurt either, channeling the boxy hatches styled by Giorgetto Giugiaro in the 1970s and '80s. But five years is a long time in the car world, and the compact electric crossover segment is far more competitive than it was when the Ioniq 5 debuted. We figured it was worth spending some more time with one to see how it still stacks up. Although the Ioniq 5 range starts at $35,000 for the standard range model, our test car was a 2026 Ioniq 5 AWD Limited, which has an 84 kWh battery pack—part of the lifecycle refresh in early 2025 that also swapped in a NACS (J3400) charge port in place of the CCS1 port you’d find on earlier cars. Among the other additions that arrived as part of the 2025 refresh was a rear windshield wiper, which was sorely needed at launch. This range-topping trim starts at $45,075, with an extra $3,900 for the addition of the front electric motor that gives the AWD version a combined output of 320 hp (239 kW) and 446 lb-ft (605 Nm). The added traction of AWD (when you have grip) is desired by many, but you do trade something for it: efficiency. The AWD ve
-
-### Covert uploads and megalomania: OpenAI details new "misaligned" agent incidents
-Thu, 17 Sep 2026 16:18:34 +0000 — https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/
-
-For a while now , the issue of "AI alignment" (i.e., how well an AI model's actions line up with the intentions of its creator and/or user) has been a core concern and topic of discussion among AI safety researchers. Since OpenAI's disclosure of the infamous Hugging Face hacking incident in July, the concept of "AI alignment" has itself broken containment and increasingly become a mounting concern and subject of conversation among the general public. Perhaps in recognition of that, OpenAI committed this week to a new framework for disclosing "instances of model misalignment at OpenAI," including six examples of "unexpected or concerning model behavior" observed within the company in the past six months. The company said that publishing details of these incidents will hopefully "[allow] others to investigate the same problems, test our explanations, and improve mitigations." Do as I say, not as you do Among OpenAI's newly disclosed "misalignment" reports this week, the one that most resembled a sci-fi story about a rogue AI trying to break free involved an instance of "self-generated prompt injections." In attempting to scan a library catalog for examples from a "best books" list, the model perplexingly used its "compaction" function (where it summarizes data and findings for later retrieval) with megalomaniacal instructions such as: Read full article Comments ]]>
-
 ## The Verge
+
+### OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web
+2026-09-18T17:07:24-04:00 — https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero
+
+Recently unsealed court documents in the New York Times ' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a "doom loop" that would damage the web, characterized its scraping of data to train its models as the "largest theft of labor in human history," and that it made a "complete mockery of the idea of fair use." Many of the most eye-catching quotes from the document come from Microsoft's Director of Applied Science, Brent Hecht. Though, the company has tried to distance itself from Hecht's assertions. Microsoft spokesperson Alex Haurek told The Verge that "These comments ref … Read the full story at The Verge. ]]>
 
 ### Virginia governor creates an AI task force and moves to restrain data centers
 2026-09-18T14:29:17-04:00 — https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force
 
-Virginia Gov. Abigail Spanberger (D) ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world . Executive Order 22 bans executive branch officials from signing non-disclosure agreements (NDAs) for data center projects, requires expedited noise regulations, and a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like … Read the full story at The Verge. ]]>
+Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world . Executive Order 22 bans executive branch officials from signing nondisclosure agreements for data center projects, requires expedited noise regulations, and requires a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like wo … Read the full story at The Verge. ]]>
 
 ### Disney’s first CTO is Character.AI’s former CEO
 2026-09-18T14:27:04-04:00 — https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai
 
-You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to Disney's recently-appointed CEO Josh D'Amaro , and he will head up the company's infrastructure, product, engineering, and data / AI platforms teams. Anand comes to Disney from chatbot startup Character.AI ,where he served as CEO for just over a year and oversaw the company's push into microdramas . Anand jumping ship to Disney co … Read the full story at The Verge. ]]>
+You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently appointed CEO Josh D'Amaro , and he will head up the company's infrastructure, product, engineering, and data / AI platforms teams. Anand comes to Disney from chatbot startup Character.AI , where he served as CEO for just over a year and oversaw the company's push into microdramas . Anand jumping ship to Disney comes as a … Read the full story at The Verge. ]]>
 
 ### The real story of the iPhone 18 Pro s camera
 2026-09-18T13:06:37-04:00 — https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera
@@ -109,12 +114,17 @@ Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy ,
 
 FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and Game Boy Color so it isn't as capable as the Analogue Pocket that's also compatible with the GBA and Sega Game Gear. What still makes the FPGB Mini a tempting alternative is its extremely pocketable design resulting in a handheld only slightly wider than a Game Boy cartridge, and its cheaper price. Following recent price hikes the Analogue Pocket is now $239.99 while the FPGB Mini is currently discounted from $89.99 to $69. … Read the full story at The Verge. ]]>
 
-### Flash floods can strike without warning — this new technology could change that
-2026-09-18T07:00:00-04:00 — https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning
-
-On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. "I look over to where the barn is over there, and I see pieces of my wood floating, and I was like, 'What?' And I immediately was like, 'I have to go.' Close my laptop, and I get my kids up, and I'm like, 'Something's wrong,'" Lin recalls. Lin and her family got out safely and sheltered at a neighbor's house, but Lanesville got over 8 inches of rain within just a few hours that day , way over the thre … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### AMD shares first official benchmarks for EPYC 'Venice' CPUs, targets Nvidia — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core
+Fri, 18 Sep 2026 21:51:29 +0000 — https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core
+
+Following the launch of AMD's EPYC 'Venice' CPUs in July , AMD extended the performance claims for its upcoming generation of server chips on Friday. The high-level claim hasn't changed. AMD still says a 96-core, high-frequency Venice chip is around 20% faster than Nvidia's 88-core Vera in SPEC CPU 2026's Integer Rate test. However, the company went into far greater detail about the benchmarks in a new white paper . Tom's Hardware Premium Roadmaps (Image credit: Future) Leading-edge foundry roadmaps Nvidia Enterprise GPU and CPU roadmap AMD's Enterprise GPU and CPU roadmap Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push Co-Packaged Optics (CPO) foundry roadmaps There are several configuration differences depending on the benchmark throughout AMD's white paper, and although we'll call out those differences here to the best of our ability, we don't have all of the details. For the Vera comparison, in particular, AMD is mixing data from different sources, and in some cases, using different major releases of the GNU Compiler Collection (GCC). That can have a substantial impact on performance, so keep your salt shaker handy. (Image credit: AMD) First up are results in SPEC CPU 2026 with the intrate test, looking at total throughput. These are older numbers, gathered in July with GCC 15.2. The intrate test runs multiple copies of an application on the same CPU, and the SOP is to run one copy per thread. Presumably, that's what AMD did here, but the 
+
+### Details about Intel's next-gen Nova Lake CPUs keep leaking — an attempt to establish a timeline based on what we know so far
+Fri, 18 Sep 2026 19:45:41 +0000 — https://www.tomshardware.com/pc-components/cpus/details-about-intels-next-gen-nova-lake-cpus-keep-leaking-an-attempt-to-establish-a-timeline-based-on-what-we-know-so-far
+
+Intel's Nova Lake CPUs are no stranger to leaks. We've been talking about the processors for close to two years now , with rumors swirling about bLLC and a 52-core flagship for well over a year. However, this week (and this month more broadly), we've seen leaks hit a fever pitch, suggesting that Intel is finally gearing up to release a generation of processors that's been the zeitgeist for over 24 months. Intel hasn't shied away from discussing Nova Lake, with Intel's enthusiast channel VP Robert Hallock telling Tom's Hardware Premium that it's one of the most important launches for the company ever. At the beginning of the year, Intel CEO Lip-Bu Tan said that Nova Lake would launch in the second half of 2026 , and despite expected hubbub about delays/cancellations , that's the North Star Intel itself has set. So, that's also going to be our North Star here. There are three stories that have come out over the past week and a half. First, a screenshot of some high-level details about Nova Lake surfaced online , showing the launch schedule and platform details. The slide in question is almost certainly from one of Intel's partners and not Intel itself. Just in the past few days, we've also seen a barrage of Z990 motherboards from ASRock surface in the NBD shipping database, as well as some entries in the SiSoftware database for a next-gen HP EliteBook X sporting an unknown Intel processor . (Image credit: Tom's Hardware) An increase in the number of leaks/rumors, especially tho
 
 ### Save up to 40% on Elegoo 3D printers during its September sale, from just $159 — Elegoo Day deals mean you can save on a new FDM or resin printer, with big bulk discounts on consumables
 Fri, 18 Sep 2026 15:45:00 +0000 — https://www.tomshardware.com/3d-printing/save-up-to-40-percent-on-elegoo-3d-printers-during-its-september-sale-from-just-usd159-elegoo-day-deals-mean-you-can-save-on-a-new-fdm-or-resin-printer-with-big-bulk-discounts-on-consumables
@@ -166,22 +176,32 @@ Fri, 18 Sep 2026 12:20:00 +0000 — https://www.tomshardware.com/tech-industry/a
 
 The U.S. government and American AI developers are growing increasingly concerned about the effectiveness of so-called distillation attacks against Western Frontier AI models, as Bloomberg reports . This may be helping China and Russia develop AI models with similar capabilities, but at a fraction of the cost and compute requirements. China has publicly rejected these claims, but pledged to enact "countermeasures" if America used the pretext of these allegations to "contain" Chinese developments. Efforts to combat distillation attacks have been ongoing for much of 2026 already, with major Western AI labs pledging to work together against such efforts earlier this year. But even with attempts to detect and prevent distillation, foreign actors have also been purchasing logs of third-party conversations made using legitimate accounts, making it hard to halt the practice entirely. What is a distillation attack? Distillation is an effective method of training smaller language models by feeding them prompts and responses from a more advanced model. By analyzing the outputs of a model and comparing them with the inputs from the user, smaller models can learn to emulate the capabilities and responses of the more intelligent model, without the need to train them in quite the same way. It's speculated that distillation is how Chinese AI developers made such great leaps with Deepseek in 2025 and Kimi K3 in 2026 . They weren't quite as capable as frontier models from Anthropic and OpenAI
 
-### Modder gets Nvidia's DLSS 5 working in a web browser using WebGPU — 147MB browser port runs on non-Nvidia GPUs and macOS but takes two seconds per render
-Fri, 18 Sep 2026 12:00:00 +0000 — https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-in-a-web-browser-using-webgpu-147mb-browser-port-runs-on-non-nvidia-gpus-and-macos-but-takes-two-seconds-per-render
-
-A modder by the name of MAAN has reportedly gotten Nvidia DLSS 5 working in a browser window with an interactive demo, according to a report by VideoCardz . The developer said the technique also works on macOS. The demo is hosted on Cloudflare Workers with some default scenes, starting with "Cowboy Gramps," with a variety of adjustable settings and a comparison view. DLSS 5 running in the browser with #webgpu And yes it works on MacOS too. Try the the live demo here https://t.co/frqdwHzeDv You can also try it with your own models #WebDev #AI #threejs September 16, 2026 DLSS 5 is Nvidia's neural rendering feature used to improve graphical quality using AI. Nvidia launched it earlier this month for NBA 2K27, the first game with official support for the technology. DLSS 5 is officially RTX 50-series only, aside from GeForce NOW. The DLSS 5 DLL file has since been pushed onto RTX 40- and RTX 30-series , and even AMD hardware . There is also a mod to unlock it for RTX 20-series hardware. (Image credit: 2K) According to MAAN, the demo uses model weights extracted from a leaked DLSS 5 library file. They did not know whether this file differs from the official one. Normally, Nvidia offers DLSS through its NGX interface or the Streamline SDK on DirectX and Vulkan. The documentation does not list WebGL or WebGPU, the outlet noted. MAAN plans to publish the source code on GitHub this weekend. In our quick test of the demo on an RTX 40-series desktop, the 3D viewer was smooth to rotate, 
-
-### US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking — despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians
-Fri, 18 Sep 2026 11:30:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030
-
-Even as chipmakers race to build the most advanced chips inside the United States, experts are saying that their efforts are facing one monumental challenge: a massive shortage of skilled workers to run the fabs and factories. According to CNBC , global consulting firm McKinsey and the SEMI Foundation suggest the industry will have up to 157,000 positions that could remain unfilled by 2030. “I’m concerned,” Samsung semiconductor division EVP Jon Taylor told CNBC in an interview. “We just don’t see that there’s enough technical people in the pipeline.” The McKinsey report says that only 3% of U.S. engineering graduates end up working in the semiconductor industry, and that 73% of chip companies are finding it hard to fill engineering roles. This is a huge contrast to other tech jobs, which saw record layoffs by June of this year, when over 40,000 positions were axed, ostensibly largely due to AI . Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The massive demand for memory and storage chips driven by the AI boom, combined with Washington’s efforts to bring semiconductor manufacturing back to the United 
-
 ## Phoronix
+
+### Ubuntu 26.10 Switches To The Linux 7.3 Kernel
+Fri, 18 Sep 2026 20:50:25 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-With-Linux-7.3
+
+As a very pleasant surprise, the upcoming Ubuntu 26.10 release will now be powered by the Linux 7.3 kernel rather than their original plans and switch over to the Linux 7.2 kernel...
+
+### Wine 11.18 Continues Building Out Its NTOSKRNL Implementation
+Fri, 18 Sep 2026 17:24:50 -0400 — https://www.phoronix.com/news/Wine-11.18-Released
+
+Wine 11.18 is out today as the newest bi-weekly development release of this open-source software for running Windows games and apps on Linux, macOS, and other platforms...
+
+### Steam Frame Making Use Of Zink For OpenGL On Vulkan
+Fri, 18 Sep 2026 16:13:08 -0400 — https://www.phoronix.com/news/Steam-Frame-Uses-Zink
+
+Valve's Steam Frame VR headset that makes use of a Qualcomm Snapdragon 8 Gen 3 SoC with Adreno graphics is using the open-source "Turnip" Vulkan driver from Mesa as reported last year. For OpenGL it turns out that the Mesa Zink driver is being used on the Steam Frame for OpenGL atop the Vulkan API...
 
 ### Google s "Painful To Maintain" Binder C Linux Driver Being Removed In Favor Of Rust
 Fri, 18 Sep 2026 12:26:32 -0400 — https://www.phoronix.com/news/Google-Binder-C-Goodbye
 
 Google's Binder driver written in the C programming language has long been part of the mainline kernel as the inter-process communication (IPC) mechanism used on Android. The past few years the Binder driver was rewritten in Rust as one of the first "real" drivers in the Rust programming language. The Rust Binder driver was upstreamed in Linux 6.18 and now for the upcoming Linux 7.4 kernel cycle, the old Binder C-based driver is set to be retired...
+
+### Help Linux Hardware Testing & Reviews Continue While Enjoying Phoronix Without Ads
+Fri, 18 Sep 2026 12:00:00 -0400 — https://www.phoronix.com/news/Phoronix-Oktoberfest-2026
+
+If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused hardware testing...
 
 ### Apple Video Decode Driver Posted For Upstream Linux Kernel Review
 Fri, 18 Sep 2026 11:52:30 -0400 — https://www.phoronix.com/news/Apple-Video-Decode-AVD-Linux
@@ -192,11 +212,6 @@ The latest Apple Silicon enablement code working its way from the Asahi Linux pr
 Fri, 18 Sep 2026 10:00:00 -0400 — https://www.phoronix.com/review/ubuntu-2610-strix-halo
 
 Ahead of next week s Ubuntu 26.10 beta release I have been testing the "Stonking Stingray" on a variety of systems. Ubuntu 26.10 is performing well overall with some nice upgrades over Ubuntu 26.04 LTS, especially if opting to use the new snapshot/daily ISOs of Ubuntu 26.10 in amd64v3 form for x86_64-v3 packages. In today s tests are a look at the performance benefits of Ubuntu 26.10 on an AMD Ryzen AI Max+ "Strix Halo".
-
-### Help Linux Hardware Testing & Reviews Continue While Enjoying Phoronix Without Ads
-Fri, 18 Sep 2026 09:30:00 -0400 — https://www.phoronix.com/news/Phoronix-Oktoberfest-2026
-
-If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused hardware testing...
 
 ### Linux Ready With Fix For Intel s FRED Crashing Some Games Under Wine / Steam Play
 Fri, 18 Sep 2026 09:03:06 -0400 — https://www.phoronix.com/news/Linux-FRED-Fix-For-Wine-Games
@@ -223,22 +238,37 @@ Fri, 18 Sep 2026 05:54:22 -0400 — https://www.phoronix.com/news/Intel-Bug-Boun
 
 Amid a boom of bug reporting in general due to AI/LLMs across the entire software ecosystem, Intel this week appears to have ended its paid bug bounty program. They have (re)launched a new bug reporting program but with the bounties removed...
 
-### OpenCL 3.1.2 Released With cl_khr_command_buffer Promoted
-Thu, 17 Sep 2026 20:33:22 -0400 — https://www.phoronix.com/news/OpenCL-3.1.2-Released
-
-The Khronos Group today released the newest revision of the OpenCL specification with a handful of changes...
-
-### Jemalloc 5.4 Released With Portability Improvements, Code Cleanups
-Thu, 17 Sep 2026 18:37:11 -0400 — https://www.phoronix.com/news/Jemalloc-5.4
-
-Earlier this year Meta announced a renewed investment into the jemalloc memory allocator that's been popular for server and HPC use among various desktop use-cases too. After stagnating a bit in recent years, Jemalloc has been off to seeing new developments since Meta's announcement and out today is Jemalloc 5.4 as the latest step forward...
-
-### Intel Granite Rapids WS vs. AMD Threadripper Zen 5 SMT Performance
-Thu, 17 Sep 2026 15:14:14 -0400 — https://www.phoronix.com/review/amd-zen5-intel-gnr-ws-smt
-
-As a follow-up to the article earlier this month of the Intel Xeon 600 workstation performance against AMD Ryzen Threadripper 9000 series in over 400 benchmarks -- including when carried out at the same core count and memory configuration -- today s article is exploring the Hyper Threading / SMT impact on both the Intel Redwood Cove and AMD Zen 5 cores for workstations.
-
 ## The Register
+
+### Firefox 156 arrives with a forest of forks in its wake
+Sat, 19 Sep 2026 09:28:00 +0200 — https://www.theregister.com/software/2026/09/19/firefox-156-arrives-with-a-forest-of-forks-in-its-wake/5297194
+
+Mozilla and MZLA have delivered the latest releases in their new fortnightly cycle, but users who dislike the faster pace have alternatives. Firefox 156 is trickling out to users. The release notes only mention two new features: for Mac users, there's now an option in Settings to automatically launch the app at login. This vulture has received criticism for saying this in some of the product's forums before, but since pretty much every OS has a built-in facility for this, we don't really see the point – though it's harmless and could be handy. Users who have chosen French, German or Italian will now find suggestions from Wikipedia in their own languages – along with potentially less welcome ads from Mozilla partners. If you don't want such suggestions, you can turn them off in Firefox Suggest settings. As with the previous release of both apps, the changes in Thunderbird sound slightly more useful – but again, they are small. Thunderbird 156 offers more troubleshooting info in the event of problems with OpenPGP, and more options for OAuth authorization for POP3 and IMAP accounts. There are also additional enterprise policies for controlling filters and user customizations. As we said last time, though, users who want to get off the rapid-upgrade train have several options. The most obvious comes directly from Mozilla: the Firefox ESR and Thunderbird ESR versions only get security fixes, with full new versions only coming annually. Currently, both are on version 153, which app
+
+### Anthropic decides to support OpenAI's markdown instructions spec
+Fri, 18 Sep 2026 23:33:16 +0200 — https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588
+
+Anthropic on Friday surprised the developer community by supporting rival OpenAI's mechanism for passing marching orders to AI agents. This makes life easier for folks who use both platforms. "We're adding support for AGENTS.md to Claude Code," said Claude Code engineer Thariq Shihipar in a social media post. "Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md." Claude Code users can toggle this behavior, he said, with the /config command. Until now, developers who use Claude Code alongside OpenAI Codex or other non-Anthropic tools have had to maintain two sets of Markdown instructions for their AI agents: CLAUDE.md and AGENTS.md, not to mention project-specific versions of these files. These documents get read by coding agents with every request. They outline expected behavior, preferred tool usage, coding conventions, and so on. They lay the foundation of the agent's context. The two formats are similar but not identical – CLAUDE.md may contain Claude-specific instructions while AGENTS.md is intended to be tool agnostic. Because these documents can change, those working with AI agents have implemented various workarounds, like creating symlinks to keep CLAUDE.md and AGENTS.md in sync. Last year, OpenAI contributed AGENTS.md to the Agentic AI Foundation, under the Linux Foundation, in a bid to build support for its standard. As of December 2025, more than 60,000 open source projects implemented AGENTS.md. The popu
+
+### Microsoft agentically ports Copilot runtime to Rust for $120K
+Fri, 18 Sep 2026 23:11:05 +0200 — https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549
+
+The software engine underpinning GitHub Copilot and a growing number of Microsoft products is now written entirely in Rust, with AI agents doing most of the porting work. The migration cost about $120,000 in AI token usage plus about three weeks of a developer's time. However, managers also had to grapple with a few dozen regressions in the resulting code, pointing to AI’s ongoing challenges in understanding Rust. The effort updated the runtime module-by-module until the job was completed, spanning over 135 releases across a 14.5-week time period. Roughly 1.3 port pull requests were opened per day. Overall, agents converted 430,000 lines of TypeScript into 800,000 lines of production Rust. To keep the port as simple as possible, the port only replaced TypeScript modules on a case-by-case basis. It didn’t look to optimize the structure of the runtime itself. That work is next. And Rust, known for its lean performance, did not disappoint. One benchmark measured how quickly the runtime could complete 1,000 one-turn session lifecycles, using a shared client and 100 concurrent pipelines. The original TypeScript implementation completed 7.55 of those lifecycles per second, while Rust running in-process managed 120 per second - representing a 15.9x speedup on that particular workload. In terms of memory, a 10-client batch of agents consumed 1,383 MB with TypeScript while the Rust rewrite consumed only 126 MB serving the same swarm. Within Rust, the work remained in-process instead o
+
+### Virginia governor wakes up to fact datacenters have become political cancer
+Fri, 18 Sep 2026 22:16:57 +0200 — https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561
+
+Virginia is not just for lovers, but is also for datacenters, hosting more than anywhere else in the world. However, the growth could be slowing as Governor Abigail Spanberger issued an executive order on Friday cracking down on bit barn builds in the state. “In the years before I took office, datacenters came to Virginia and the Commonwealth did not have a clear or coordinated plan to address their impacts on Virginians … That changes today,” Spanberger said in a statement. The executive order is part of a broader datacenter accountability framework that calls for greater transparency, a ban on nondisclosure agreements, limits on permitting, and more stringent environmental controls. Spanberger argues that existing policy lacked the precision necessary to hold bit barn builders accountable, and that the order is necessary to protect residents. In addition to greater transparency, the broader framework would require local approval for datacenters exceeding 25 megawatts and remove future large datacenters from the expedited permitting process, while the order calls on government officials to establish criteria to distinguish between responsible datacenter developments and those that would negatively impact residents or the environment. Speaking of the environment, the order would limit the use of water-intensive cooling towers in areas suffering from water scarcity, and encourage datacenter operators to either retrofit existing backup generators to reduce emissions or switch t
+
+### Compsci grads facing recession-like job prospects thanks to AI
+Fri, 18 Sep 2026 21:48:22 +0200 — https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537
+
+Thanks to AI, computer science majors are finding themselves in a tougher spot than they might have expected. Jobs are harder to come by, and more graduates are ending up in lower-paying sectors like retail and food service. That’s according to a new working paper by three US Census Bureau economists examining how college graduates from majors with the highest exposure to AI have fared since ChatGPT came onto the scene in late 2022 and helped kick off the generative AI boom. The results don’t look good for those in the most exposed fields, with career and earnings prospects for the top decile (i.e., the top ten percent of majors most exposed to AI) looking as bad as those of older Millennials who graduated during the Great Recession. “The most AI-exposed decile of college majors saw their likelihood of initial employment decline by five percentage points, while full-quarter initial earnings declined by 13 percent,” a trio of Census Bureau economists wrote in the paper. “This earnings decline is comparable in magnitude to the earnings losses associated with graduating into a large recession.” And why are those earnings declining? Well, part of the answer is where the AI-affected graduates are ending up: With job prospects worsening, more are turning to lower-wage sectors like restaurants and retail, with the researchers finding that shifts into lower-paying industries account for about half of the earnings decline. The one big difference between your usual recession and what’s
+
+### Claude Code revamps projects so you can work and pay in parallel
+Fri, 18 Sep 2026 21:15:39 +0200 — https://www.theregister.com/ai-and-ml/2026/09/18/claude-code-revamps-projects-so-you-can-work-and-pay-in-parallel/5297532
+
+Claude Code customers have a new reason to give Anthropic more of their money. The tool now allows you to launch multiple sessions related to a single project, burning through more resources and cash at once. Appropriately enough, the feature is called projects and can be accessed from the Claude.ai sidebar. It's not the old version of projects, capitalized in some reference material, which allowed for the creation of self-contained workspaces with separate chat histories and knowledge bases. The new implementation is technically in beta, though that term hardly means anything anymore amid the constant code iteration. Anthropic describes projects as a way to let Claude manage multiple related tasks. "Claude scopes the request, delegates the work, coordinates parallel threads, reviews the outputs, and assembles the finished result," the company explains in a blog post. "You can steer progress throughout, even from your phone, and it keeps working after you step away from your computer." It's the sort of capability that might be useful if you are prompting the model to begin a large coding project and you want to get several essential components like authorization, databases, caching, and containers up and running at the same time. Essentially, a project spins up each task as its own Claude Code cloud session thread that works on its own git branch and its own copy of the relevant repo. A coordinator directs the threads; if they touch the same code, overlaps surface as merge co
 
 ### Researchers used Claude to hack OpenAI employees' ChatGPT accounts
 Fri, 18 Sep 2026 19:16:00 +0200 — https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517
@@ -270,37 +300,32 @@ Fri, 18 Sep 2026 15:22:00 +0200 — https://www.theregister.com/software/2026/09
 
 Microsoft has issued a partial fix for the Excel bug that causes paste operations to fail. The hotfix applies only to Excel 2016, and Microsoft warns that pasting may still fail in workbooks containing conditional formatting. Earlier in September, Microsoft released a security update for Excel to address remote code execution and information disclosure vulnerabilities. It later acknowledged that the update had introduced another problem: "In Microsoft Excel 2024, 2021, 2019, and 2016, the paste operation might fail silently. "Although users try to paste content, the source remains selected and the destination is unmodified. When this issue occurs, users receive no indication of the failure, such as a beep or error message." Some users could work around the problem with Paste Special, but others had to wait for Microsoft to act. A fix has now arrived – for Excel 2016 only – and it continues to hover rather nervously in the doorway. September has not been kind to Microsoft, its updates, or the emergency updates needed to repair them. The September Windows security update required an out-of-band release to address several problems, but even that left some work unfinished. Certain USB audio devices, for example, could remain silent after the emergency update. Microsoft has since added another problem involving domain-joined devices to its known issues list. While users of newer Excel releases continue to wait, Microsoft has at least repaired another problem introduced by an Augus
 
-### The ideal database for AI agents doesn't exist yet, says Percona CEO
-Fri, 18 Sep 2026 14:34:00 +0200 — https://www.theregister.com/databases/2026/09/18/the-ideal-database-for-ai-agents-doesnt-exist-yet-says-percona-ceo/5296906
-
-INTERVIEW Percona CEO Peter Farkas reckons AI caught the database industry off guard and that agentic workloads may eventually require a new kind of database – once anyone works out what those workloads actually need. Farkas spoke to The Register at the company's Percona Live event in Amsterdam, where members of the often-fractious open source database community gathered to discuss best practices, case studies, and the future. Percona provides software and support across a growing range of open source database technologies. Over its 20-year history, it has worked with MySQL, MongoDB, PostgreSQL, Valkey, and Redis. MySQL's first release arrived in 1995. The PostgreSQL project marked its 30th anniversary in July 2026, although its roots in the POSTGRES project stretch back further. Both databases therefore have decades behind them and represent mature, stable options – just as the conservative world of database administration prefers. The surge in AI services, however, is introducing workloads that these systems were not designed around, and Farkas believes none of the current choices are ideal. Of the current selection, Farkas said: "It's definitely not the best that we can have. It's the thing that we have right now." "I think AI definitely caught the industry off guard," he said. Farkas pointed to "iteration-focused workloads" in which an agent might make 150 attempts before a person or another system selects the best result. "A human would probably not push 150 options just
-
-### Former Labour deputy Tom Watson joins Palantir as £330M NHS deal nears break point
-Fri, 18 Sep 2026 13:48:15 +0200 — https://www.theregister.com/public-sector/2026/09/18/former-labour-deputy-tom-watson-joins-palantir-as-330m-nhs-deal-nears-break-point/5297426
-
-Former Labour deputy leader Tom Watson has taken a senior UK role at Palantir as the government considers whether to invoke a break clause in the US spy-tech company's controversial £330 million National Health Service (NHS) contract. The appointment is the latest high-profile example of Palantir recruiting from British politics and public service as it seeks to expand its government business. Palantir chief executive Alex Karp said in a statement: "This is just the latest chapter of Tom's 40-year fight for better public services. We are fortunate to have him guide us as we help the British government to deliver for the British public." Watson, who has advised Palantir since 2024, will become its UK senior vice president and work alongside Louis Mosley, executive vice president for the UK and Europe. In a statement shared on social media, Mosley said: "Tom will lead our work on what Palantir owes this country. That means answering the Prime Minister's challenge to companies holding public contracts: support British jobs, invest in skills, deliver in every postcode. It also means helping people prepare for what AI does to work and to the services they rely on." Mosley said Watson had been on leave from the House of Lords since March and would remain so while working for Palantir. He has also surrendered his parliamentary pass and the access that accompanies it. "Tom has joined Palantir to build things, not to open doors," he added. The assurances anticipate concerns about the 
-
-### KPMG tech cuts come with a severance sum some staff call insulting
-Fri, 18 Sep 2026 12:32:00 +0200 — https://www.theregister.com/channel/2026/09/18/kpmg-tech-cuts-come-with-a-severance-sum-some-staff-call-insulting/5296942
-
-KPMG UK is laying off staff from the Tech and Data areas of its Advisory division and offering severance terms that one affected employee described as "insulting and disgraceful." The job cuts, affecting about 4 percent of the Advisory staff, were announced internally in July. Affected workers in the AI, Cyber, SAP, and Testing teams are scheduled to leave the consulting business next month. Insiders have now shared with The Register details of the payments offered to those set to depart. The proposed redundancy package, subject to consultation and the employee signing a settlement agreement, combines statutory redundancy pay with several enhancements. The document helpfully advises staff to divide their annual salary by 52 to calculate their weekly pay. The number of weeks to which each employee is entitled depends on their age during each full year of service: half a week's pay for each year worked while under 22, one week's pay for each year worked from age 22 to 40, and 1.5 weeks' pay for each year worked from age 41. "If you turned 41 while working at KPMG, the higher rate of 1.5 weeks' pay only applies to the full year of service completed after you turned 41," KPMG's missive states. "Redundancy pay is calculated based on the individual's number of years' service (up to a maximum of 20 years' service). If you've been at KPMG for more than 20 years, your most recent 20 years of service are considered when determining the number of weeks' pay you will be entitled to." KPM
-
-### British Army spends £16M on 1,000 pocket-sized eyes in the sky
-Fri, 18 Sep 2026 11:29:00 +0200 — https://www.theregister.com/offbeat/2026/09/18/british-army-spends-16m-on-1000-pocket-sized-eyes-in-the-sky/5297248
-
-The British Army is buying more than 1,000 small drones for battlefield surveillance and training under contracts worth £16 million ($21 million). The Ministry of Defence (MoD) says the new portfolio of "spy" drones will give soldiers better battlefield intelligence and protection. The MoD is procuring the drones through three UK-based small and medium-sized companies, although some of the technology comes from overseas. Two models are intended for surveillance, while the third will prepare soldiers to use similar systems on operations. Most of the order consists of 670 Skydio X10 quadcopters. Each weighs about 2.49 kg (5.5 lb), can reach 45 mph, and has a flight time of up to 40 minutes. Surrey-based Marlborough Communications Limited is supplying the drones to the MoD, although their manufacturer, Skydio, is based in California. Evolve Dynamics, based in Hampshire, England, is providing 245 FOXE-NATO drones for intelligence, surveillance and reconnaissance roles. The company describes the FOXE-NATO as a pouch-deployable quadcopter weighing less than 250 g (0.55 lb), designed for rapid deployment and ease of use. "This contract marks an important step in strengthening the Army's sovereign UAS (Unmanned Aerial System) capability. Our ambition is to see small, reliable uncrewed systems become standard equipment at the lowest tactical level, rather than a limited or specialist resource," Evolve Dynamics CEO Tom Redman said in a statement. The remaining 110 units are SONORA dron
-
-### Royal Society slams UK.gov science shake-up
-Fri, 18 Sep 2026 10:30:00 +0200 — https://www.theregister.com/public-sector/2026/09/18/royal-society-slams-ukgov-science-shake-up/5296913
-
-The president of the Royal Society has slammed the government’s decision to move science policy from the department also covering technology to the business department. In changes announced after Andy Burnham became UK Prime Minister in July, the government abolished the Department for Science, Innovation and Technology (DSIT) – created by former Conservative Prime Minister Rishi Sunak – and split its responsibilities among other ministries. The Department for Culture, Media and Sport (DCSM) became Department for Digital, Culture, Media and Sport (DCMS) while the Science in DSIT went to the new Department for Business, Innovation, Science and Trade (BIST). Jonathan Reynolds was named Secretary of State for the department. Kanishka Narayan has been given a Cabinet-attending role of Minister for Artificial Intelligence, working jointly in the Cabinet Office and BIST. Chris McDonald, Minister of State for Science, Innovation and Investment is work jointly across BIST and the Department for Health and Social Care with no Cabinet role. Speaking to MPs this week, Sir Paul Nurse, the President of the prestigious Royal Society, said moving science to the business department was a mistake… “actually quite a big mistake”. Nurse, whose main research was in genetics, argued that science cuts across business, health, defense, transport, energy, and the environment. “The future of our country depends on what science can put into all that we do. Giving it just to business — there are ways t
-
-### Techie fixed Wi-Fi dead zone with a drill
-Fri, 18 Sep 2026 08:30:00 +0200 — https://www.theregister.com/networks/2026/09/18/techie-fixed-wi-fi-dead-zone-with-a-drill/5297036
-
-Welcome to another edition of On Call, The Register's reader-contributed column that celebrates the fine art of tech support. This week, meet a reader we'll Regomize as "Eddy," the one-person IT department for an assisted living company. "I have had quite a bit of trouble creating a stable Wi-Fi network," he admitted to On Call. "The space is crowded with multiple networks because seemingly every other resident has their own router blasting Wi-Fi throughout the building," he explained. After extensive troubleshooting, he managed to establish a stable connection everywhere except one hallway at the back of the building. "I was starting to question my sanity and competence as seemingly nothing would create a stable signal," Eddy told On Call. "After beating my head on the issue for an unreasonably long time, I decided to take a break and troubleshoot another issue that a user was having: Their monitors would cut out randomly, more so if someone quickly closed the office door." Eddy examined the desk, where a stand held a pair of monitors, whose power and video cables all snaked downwards through the same hole in the desk's surface. "When the stand moved, it was also crimping the power cords," Eddy observed. "Jiggle the desk or slam the door and the monitors would cut out briefly." He drilled a new hole for the stand to sit in and replaced the power cables. That fixed the monitors – and, unexpectedly, restored the Wi-Fi around the desk. "As near as I can tell, the power cables w
-
 ## Engadget
+
+### How Focus mode has changed in iOS 27
+Fri, 18 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2257610/how-focus-mode-changed-ios-27/
+
+iOS 27 brings tons of cool upgrades to your iPhone. Don't miss the interesting-yet-subtle changes to Focus.
+
+### AI almost led the US military to start a war with China, report says
+Fri, 18 Sep 2026 22:44:45 +0000 — https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/
+
+CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components.
+
+### Sony Music and UMG say Suno's new models still violates their copyright
+Fri, 18 Sep 2026 21:06:27 +0000 — https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/
+
+In a new lawsuit, the labels argue Suno found a roundabout way to train its v6 models on unlicensed music.
+
+### Clicks Communicator shipments begin in December
+Fri, 18 Sep 2026 20:53:52 +0000 — https://www.engadget.com/2262962/clicks-communicator-shipments-begin-in-december/
+
+The BlackBerry-like phone also got a spec bump and an impending price hike.
+
+### What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more
+Fri, 18 Sep 2026 20:35:11 +0000 — https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/
+
+There's a lot for Mark Zuckerberg to cover at this year's keynote.
 
 ### The new Resident Evil movie captures the survival horror magic of the games
 Fri, 18 Sep 2026 18:56:15 +0000 — https://www.engadget.com/2262746/the-new-resident-evil-movie-captures-the-survival-horror-magic-of-the-games/
@@ -337,32 +362,52 @@ Fri, 18 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2260026/samsung-gal
 
 It's tough times for the midrange phone.
 
-### Anthropic has set up a bio research lab for physical experiments
-Fri, 18 Sep 2026 12:21:57 +0000 — https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/
-
-Anthropic now has its own bio research lab in San Francisco.
-
-### Apple Watch Ultra 4 vs. Galaxy Watch Ultra 2: Comparing their features, durability and displays
-Fri, 18 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2261803/apple-watch-ultra-4-vs-galaxy-watch-ultra-2-comparison/
-
-Here's everything you'll get with Apple and Samsung's latest high-end smartwatches.
-
-### NASA's moon orbiter has spotted an impact crater that only happens once a century
-Fri, 18 Sep 2026 11:26:23 +0000 — https://www.engadget.com/2262061/nasa-moon-orbiter-finds-largest-impact-crater-in-the-solar-system/
-
-Images taken by the Lunar Reconnaissance Orbiter led to the discovery of a moon crater that's 728 feet wide. Impacts like that only happen once a century.
-
-### Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history'
-Fri, 18 Sep 2026 11:22:31 +0000 — https://www.engadget.com/2262055/microsoft-openai-internet-scraping-largest-theft-of-labor/
-
-Executives from OpenAI and Microsoft were reportedly worried about ChatGPT training that scraped millions of news articles.
-
-### Waymo is expanding to Singapore
-Fri, 18 Sep 2026 08:18:12 +0000 — https://www.engadget.com/2262023/waymo-is-expanding-to-singapore/
-
-Waymo has announced its next international location: Singapore.
-
 ## TechCrunch
+
+### India forces caller-ID apps to feed spam reports to telcos
+Sat, 19 Sep 2026 01:00:00 +0000 — https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/
+
+Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.
+
+### Tilly Norwood s press tour is going about as well as you d expect for an AI
+Sat, 19 Sep 2026 00:12:07 +0000 — https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/
+
+In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.
+
+### A startup that builds other startups raised $100M and is all-in on physical AI
+Fri, 18 Sep 2026 23:25:01 +0000 — https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/
+
+UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.
+
+### Anthropic is operating a lab that conducts biology experiments
+Fri, 18 Sep 2026 23:13:31 +0000 — https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/
+
+AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.
+
+### AI hallucination nearly triggers US military operation
+Fri, 18 Sep 2026 23:12:32 +0000 — https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/
+
+“It’s important for service members to understand the uncertainty inherent to LLMs," a GovAI research scholar warns.
+
+### Anthropic s first embedded evaluator is … Accenture?
+Fri, 18 Sep 2026 21:44:33 +0000 — https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/
+
+Accenture is about to take on its most high-risk consulting engagement ever.
+
+### Automattic names interim CFO after exec departures
+Fri, 18 Sep 2026 20:25:22 +0000 — https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/
+
+Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.
+
+### Y Combinator insurance tech alum Angle Health hits $2.7B valuation
+Fri, 18 Sep 2026 20:24:33 +0000 — https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/
+
+Angle Health has grown to 5,000 customers and become profitable by helping small businesses get "level-funded" health insurance.
+
+### World model companies are keeping a lot of secrets
+Fri, 18 Sep 2026 20:18:14 +0000 — https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/
+
+Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.
 
 ### A new kind of AI model from a ChatGPT inventor is thrilling developers
 Fri, 18 Sep 2026 18:49:30 +0000 — https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/
@@ -378,49 +423,4 @@ The former CEO of Character.AI, which Disney previously sent a cease-and-desist 
 Fri, 18 Sep 2026 17:45:00 +0000 — https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/
 
 Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.
-
-### Google s new CC is an AI agent that helps families run their households
-Fri, 18 Sep 2026 17:33:50 +0000 — https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/
-
-Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.
-
-### Joby Aviation s 3,100-mile autonomous flight signals its push beyond electric air taxis
-Fri, 18 Sep 2026 17:26:41 +0000 — https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/
-
-An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.
-
-### Dario Amodei and other AI leaders want to Pace the Frontier but…how?
-Fri, 18 Sep 2026 17:09:56 +0000 — https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/
-
-A week after an Anthropic researcher s doomsday warning rattled the AI world, the company s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it s already picked up some industry support, along with some pointed pushback from Nvidia s Jensen Huang. Watch [ ]
-
-### Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops
-Fri, 18 Sep 2026 16:35:49 +0000 — https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/
-
-Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.
-
-### Family offices are clamoring for AI investments
-Fri, 18 Sep 2026 16:00:00 +0000 — https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/
-
-Whether it's a permanent shift or part of a familiar cycle is worth asking, though.
-
-### FBI, Coast Guard boarded hacked oil tankers heading toward US coast
-Fri, 18 Sep 2026 15:44:09 +0000 — https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/
-
-The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.
-
-### Open or closed AI? Nvidia s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026
-Fri, 18 Sep 2026 15:30:00 +0000 — https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/
-
-Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.
-
-### Meta s Muse hits Mac, letting the AI take actions on your computer
-Fri, 18 Sep 2026 15:22:48 +0000 — https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/
-
-Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.
-
-### I’m so mad that I love Orion s $2,195 AI mattress pad
-Fri, 18 Sep 2026 15:22:16 +0000 — https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/
-
-Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your entire bed is the cool side.
 

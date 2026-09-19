@@ -1,72 +1,97 @@
-# Manga — harvested 2026-09-18T19:11:17.525Z
+# Manga — harvested 2026-09-19T08:58:35.649Z
 
 ## Anime News Network
 
-### Viz Media, Japan Society Screen World Premiere of Hirayasumi Anime on October 7
-Fri, 18 Sep 2026 14:45:58 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/viz-media-japan-society-screen-world-premiere-of-hirayasumi-anime-on-october-7/.241950
+### Tokyo Game Show 2026 Cancels Final Day on Monday Due to Approaching Typhoon
+Sat, 19 Sep 2026 03:29:36 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/tokyo-game-show-2026-cancels-final-day-on-monday-due-to-approaching-typhoon/.241974
 
-Anime's 1st episode screens in NYC ahead of January 2027 premiere
+Event was planned for 5 days for 1st time
 
-### Announcing ANN in Japan 2027 Tour
-Fri, 18 Sep 2026 13:56:04 -0400 — https://www.animenewsnetwork.com/site-news/2026-09-18/announcing-ann-in-japan-2027-tour/.241949
+### Tougen Anki: Nikko Kegon Falls Arc Anime Reveals More Cast, October 2 Debut
+Sat, 19 Sep 2026 03:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/tougen-anki-nikko-kegon-falls-arc-anime-reveals-more-cast-october-2-debut/.241963
 
-Anime News Network is going to Japan again, and we want to bring you with us. Join us as we weave through the greater Tokyo/Kanto area, visiting many of the same spots anime producers and manga editors have visited to create the setting for their projects. Not enough? We'll be going to Kyoto, Kobe, Osaka and more!
+New English trailer, theme song artists, streaming platforms also revealed
 
-### Your Anime Rankings - Best of Summer 2026, Sep 9-15
-Fri, 18 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.241948
+### 'With Vengeance, Sincerely, Your Broken Saintess' Season 2 Light Anime Reveals Theme Song in 3rd Teaser Video
+Sat, 19 Sep 2026 02:57:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/with-vengeance-sincerely-your-broken-saintess-season-2-light-anime-reveals-theme-song-in-3rd-teaser-/.241972
 
-<cite>Goodbye, Lara</cite> finally grabs the #1 spot this week after hovering near it all season. Meanwhile, <cite>Iruma-kun</cite> and <cite>Iron Wok Jan</cite> have come a long way since the beginning of the season.
+Juice=Juice performs theme for new season debuting on October 1
 
-### My Anime 3.0 Public Beta Released
-Fri, 18 Sep 2026 10:51:17 -0400 — https://www.animenewsnetwork.com/site-news/2026-09-18/my-anime-3.0-public-beta-released/.241777
+### Oishinbo Gourmet Manga Gets New TV Anime
+Sat, 19 Sep 2026 02:32:44 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/oishinbo-gourmet-manga-gets-new-tv-anime/.241971
 
-ANN is happy to announce the public release of My Anime 3.0 Beta. We would love your feedback on what we've built so far, as well as suggestions for new features we should add.
+Manga previously inspired TV anime from 1988-1992
 
-### Five Anime Based on Adult Games You Should Watch
-Fri, 18 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-18/five-anime-based-on-adult-games-you-should-watch/.241449
+### Inherit the Winds Anime Reveals Theatrical Screening Trailer, Theme Songs, Additional Cast
+Sat, 19 Sep 2026 02:20:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/inherit-the-winds-anime-reveals-theatrical-screening-trailer-theme-songs-additional-cast/.241953
 
-Did you know some of your favorite anime got their start as adult games?
+Quruli, Hitsujibungaku collaborate for theme songs
 
-### This Week in Games - Level-5 CEO's Stands by Generative AI, and a Preview of Harvest Moon: Echoes of Teradea
-Fri, 18 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-09-18/level-5-ceo-stands-by-generative-ai-and-a-preview-of-harvest-moon-echoes-of-teradea/.241829
+### Yaiba: Samurai Legend Anime's 2nd Season Debuts on January 9
+Sat, 19 Sep 2026 00:41:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/yaiba-samurai-legend-anime-2nd-season-debuts-on-january-9/.241967
 
-It's time to go back to the farm with the new <i>Harvest Moon</i> game, which is mercifully free of the AI controversy over at Level-5.
+New season covering "Kaguya Arc" reveals visual
 
-### Bandai Namco Cross Store and THE GUNDAM BASE Opening at Mall of America
-Fri, 18 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/press-release/2026-09-18/bandai-namco-cross-store-and-the-gundam-base-opening-at-mall-of-america/.241892
+### Dengeki Daisy TV Anime Reveals January 2027 Debut, Half-Year Run in Main Promo Video
+Fri, 18 Sep 2026 23:59:37 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/dengeki-daisy-tv-anime-reveals-january-2027-debut-half-year-run-in-main-promo-video/.241961
 
-Second U.S. locations of both retail concepts to open September 30, bringing GUNPLA, collectibles, toys, games, and more to fans across the Midwest.
+4 more cast members announced including Tomokazu Sugita, Yuka Terasaki
 
-### Dragon Ball Xenoverse 3 Feels Like a Game a Decade Out of Time
-Fri, 18 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/dragon-ball-xenoverse-3-feels-like-a-game-a-decade-out-of-time/.241931
+### Live-Action Lollipop Chainsaw Film Announced
+Fri, 18 Sep 2026 21:33:05 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/live-action-lollipop-chainsaw-film-announced/.241960
 
-Everything in <cite>Xenoverse 3</cite>'s Tokyo Game Show demo felt horribly dated.
+<i>The Hurt Locker's</i> Kirk Shaw, <i>Concordia's</i> Robert Franke produce project separate from anime plans
 
-### The Misfit Class Takes to the Stage: An Interview with Makoto Moriwaki and Setsuo Ito
-Fri, 18 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/the-misfit-class-takes-to-the-stage-an-interview-with-makoto-moriwaki-and-setsuo-ito/.241123
+### Fate/Extra Record Feels Like Persona Meets Slay the Spire
+Fri, 18 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/fate-extra-record-feels-like-persona-meets-slay-the-spire/.241602
 
-The series has four seasons for a reason. Jairus Taylor talks to the anime's chief director, Makoto Moriwaki, and voice actor Setsuo Itō.
+If card-based battle systems and heroes from myth and legend are your jam, have I got the game for you.
 
-### I'm in Love With Ace Combat 8's Focus on Characters
-Fri, 18 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/im-in-love-with-ace-combat-8-focus-on-characters/.241895
+### North American Anime, Manga Releases, September 13-19
+Fri, 18 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/north-american-anime-manga-releases-september-13-19/.241784
 
-<cite>Ace Combat 8</cite> works hard to make your fellow pilots more than faceless voices on the comms channel.
+<cite>Shirobako</cite> anime; <cite>Aoashi, Sound of a Blink, Casshan</cite> manga ship
 
-### Earth Defense Force 6.2 Invaders From Another World Game Launches on March 18
-Fri, 18 Sep 2026 08:17:05 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/earth-defense-force-6.2-invaders-from-another-world-game-launches-on-march-18/.241942
+### BAND-MAID Perform New Ending Theme Song for Beyblade X Anime's Beykingdom Arc
+Fri, 18 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/band-maid-perform-new-ending-theme-song-for-beyblade-x-anime-beykingdom-arc/.241954
 
-Updated game to launch for PS5, to include newly added enhancements for console
+BAND-MAID's song "SPIN" debuts with new arc on October 9
 
-### Even the Student Council Has its Holes! TV Anime Reveals Ending Theme in 2nd Main Promo Video
-Fri, 18 Sep 2026 08:01:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/even-the-student-council-has-its-holes-tv-anime-reveals-ending-theme-in-2nd-main-promo-video/.241945
+### Titan Manga Licenses Break Blade Manga
+Fri, 18 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/titan-manga-licenses-break-blade-manga/.241952
 
-Akari Nanawo performs ending theme for series debuting on October 3
+Special anniversary edition launches in English on December 15
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Witch on the Holy Night Final Trailer to Be Revealed on September 30
+Sat, 19 Sep 2026 07:56:00 GMT — https://animecorner.me/witch-on-the-holy-night-final-trailer-to-be-revealed-on-september-30/
+
+Witch on the Holy Night anime movie has announced a special program for new information, including a final 90-second trailer.
+
+### The Salty Koharu Has a Soft Spot for Me Released a New PV and Visual
+Sat, 19 Sep 2026 07:05:07 GMT — https://animecorner.me/the-salty-koharu-has-a-soft-spot-for-me-released-a-new-pv-and-visual/
+
+The production committee for the TV anime adaptation of The Salty Koharu Has a&hellip;
+
+### TOUGEN ANKI Season 2 Reveals New Key Visual, English Trailer, Additional Cast, October 2 Premiere
+Sat, 19 Sep 2026 06:59:59 GMT — https://animecorner.me/tougen-anki-season-2-reveals-new-key-visual-english-trailer-additional-cast-october-2-premiere/
+
+TOUGEN ANKI Season 2, titled the Nikko Kegon Falls Arc, revealed a new key visual, trailer, cast, and an October 2 premiere.
+
+### Asteroid Daianji Makes the First Three Volumes of Asteroid in Love Free To Read
+Sat, 19 Sep 2026 02:53:43 GMT — https://animecorner.me/asteroid-daianji-makes-the-first-three-volumes-of-asteroid-in-love-free-to-read/
+
+Manga Time Kirara Carat has announced that Asteroid in Love's first three volumes will&hellip;
+
+### Fortnite x Kingdom Hearts Collaboration Launches With Sora, Riku, Kairi and Roxas, Trailer Revealed
+Fri, 18 Sep 2026 21:00:35 GMT — https://animecorner.me/fortnite-x-kingdom-hearts-collaboration-launches-with-sora-riku-kairi-and-roxas-trailer-revealed/
+
+The Fortnite x Kingdom Hearts collaboration is now officially live, bringing Sora, Riku, Kairi and Roxas to the game.
 
 ### Summer 2026 Anime Rankings – Week 11
 Fri, 18 Sep 2026 12:30:00 GMT — https://animecorner.me/summer-2026-anime-rankings-week-11/
@@ -103,32 +128,22 @@ Thu, 17 Sep 2026 12:56:42 GMT — https://animecorner.me/mugendai-mewtype-yumemi
 
 Mugendai MewType released a cover of the song "Show" by Ado. Check out more&hellip;
 
-### Katekyo Hitman Reborn! Anime Reveals Sixth Opening Featuring "EASY GO" by Kazuki Kato
-Thu, 17 Sep 2026 11:04:47 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-sixth-opening-featuring-easy-go-by-kazuki-kato/
-
-Katekyo Hitman REBORN! anime released the creditless version of its sixth opening, featuring "EASY GO" by Kazuki Kato.
-
-### Japanese Voice Actor Taihi Kimura on Voicing Chihiro in The Anime Kagurabachi
-Thu, 17 Sep 2026 10:47:54 GMT — https://animecorner.me/japanese-voice-actor-taihi-kimura-on-voicing-chihiro-in-the-anime-kagurabachi/
-
-The anime KAGURABACHI made a major impact at this year's Anime Expo 2026, bringing fans&hellip;
-
-### Man-God Laughs at Rudy in Mushoku Tensei Season 3 Episode 13 Preview
-Thu, 17 Sep 2026 10:08:58 GMT — https://animecorner.me/man-god-laughs-at-rudy-in-mushoku-tensei-season-3-episode-13-preview/
-
-Mushoku Tensei: Jobless Reincarnation Season 3 revealed the Episode 13 preview images and synopsis ahead of its September 20 premiere.
-
-### Devils’ Crest Anime Unveils Additional Voice Cast Members
-Thu, 17 Sep 2026 09:59:10 GMT — https://animecorner.me/devils-crest-anime-unveils-additional-voice-cast-members/
-
-The production team for the upcoming Devils’ Crest anime has revealed the voice actors&hellip;
-
-### Umamusume To Sponsor the 2026 Motul Grand Prix of Japan
-Thu, 17 Sep 2026 08:55:58 GMT — https://animecorner.me/umamusume-to-sponsor-the-2026-motul-grand-prix-of-japan/
-
-Umamusume: Pretty Derby has announced a sponsor partnership with MotoGP™ ahead of the 2026&hellip;
-
 ## MyAnimeList News
+
+### Tougen Anki: Nikko Kegon no Taki-hen Reveals Additional Cast, Theme Songs, First Promo, Split Cours
+Sat, 19 Sep 2026 01:35:58 -0700 — https://myanimelist.net/news/74735385?_location=rss
+
+The official website for the Tougen Anki: Nikko Kegon no Taki-hen (Tougen Anki: Nikko Kegon Falls Arc) television anime revealed additional cast members, a key visual (pictured), the theme songs, and first promotional video on Saturday. The second season adapting Yura Urushibara s action fantasy manga will air in split cours, with the first part debuting on October 2 at 11:30 p.m. on Nippon Television s Friday Anime Night programming block, followed by BS Nippon Television on October 5...
+
+### Shin Oishinbo New TV Anime Announced
+Fri, 18 Sep 2026 23:48:04 -0700 — https://myanimelist.net/news/74735216?_location=rss
+
+A new television anime adaptation of Tetsu Kariya s Oshinbo manga, titled Shin Oishinbo was announced at the Shin-Ei Animation 50th Anniversary special stage at ABEMA Anime Festival 2026 on Saturday, revealing the announcement promotional video. Kariya began writing Oishinbo in Shogakukan s Big Comic Spirits magazine in 1983, featuring art by Akira Hanazaki. Shogakukan published the 111th and latest volume in December 2014. The manga has been on hiatus since May 2014. VIZ Media licens...
+
+### Dengeki Daisy Unveils Additional Cast, Staff, First Promo, 2 Consecutive Cours for Winter 2027
+Fri, 18 Sep 2026 21:54:13 -0700 — https://myanimelist.net/news/74735069?_location=rss
+
+The stage event for the television anime adaptation of Kyousuke Motomi s Dengeki Daisy manga at the Kyoto International Manga Anime Fair 2026 revealed additional cast, staff, a key visual (pictured), and the first promotional video on Saturday. The anime series will air in two consecutive cours beginning January 2027. Cast Souichirou Kurebayashi: Tomokazu Sugita (Sakamoto Days) Riko Onizuka: Yuka Terasaki (Chihayafuru) Masuda: Setsuji Satou (Urusei Yatsura (2022)) Akira: Kouhei Amasaki (Tok...
 
 ### Silent Witch Author and Mushoku Tensei Artist Begin New Light Novel
 Thu, 17 Sep 2026 22:15:11 -0700 — https://myanimelist.net/news/74732075?_location=rss
