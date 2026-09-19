@@ -1,6 +1,41 @@
-# Manga — harvested 2026-09-19T08:58:35.649Z
+# Manga — harvested 2026-09-19T13:59:19.137Z
 
 ## Anime News Network
+
+### Tomb Raider King ‒ Episode 11
+Sat, 19 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/tomb-raider-king/episode-11/.241947
+
+And the sheer novelty and hilarious imagery of the earth worm being showered with money got a big laugh out of me.
+
+### The Cat and the Dragon Anime Gets 2nd Season in 2027
+Sat, 19 Sep 2026 09:08:17 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/the-cat-and-the-dragon-anime-gets-2nd-season-in-2027/.241986
+
+Announced after first season ended on Saturday
+
+### Clevatess Season 2 ‒ Episode 11
+Sat, 19 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/clevatess-season-2/episode-11/.241925
+
+For all of the body-shredding violence Alicia has had to endure as Clevatess' vassal, I don't think any strike has cut quite as deep as this vision of the peaceful life she might have shared with her loved ones.
+
+### Go on a 3-in-1 Hunt in Monster Hunter Wilds: Ascendance
+Sat, 19 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/go-on-a-3-in-1-hunt-in-monster-hunter-wilds-ascendance/.241964
+
+Apha Araketa is a whole different kind of monster than you're used to.
+
+### Sanrio's Fragaria Memories: Color of Wishes Smartphone Game Gets Worldwide Release in Fall 2027
+Sat, 19 Sep 2026 07:17:33 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/sanrio-fragaria-memories-color-of-wishes-smartphone-game-gets-worldwide-release-in-fall-2027/.241978
+
+New promo video streamed
+
+### ATASHIn'CHI Next Net Anime Gets New Episodes
+Sat, 19 Sep 2026 06:59:26 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/atashinchi-next-net-anime-gets-new-episodes/.241973
+
+Chainsmoker Cat director Taku Kimura will direct new episodes
+
+### Poll: 86% of Game Developer Event's Attendees Say They Use Generative AI
+Sat, 19 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-19/poll-86-percent-of-game-developer-event-attendees-say-they-use-generative-ai/.241899
+
+40% of CEDEC respondents said they do not use generative AI in released products, services
 
 ### Tokyo Game Show 2026 Cancels Final Day on Monday Due to Approaching Typhoon
 Sat, 19 Sep 2026 03:29:36 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/tokyo-game-show-2026-cancels-final-day-on-monday-due-to-approaching-typhoon/.241974
@@ -27,46 +62,51 @@ Sat, 19 Sep 2026 02:20:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Quruli, Hitsujibungaku collaborate for theme songs
 
-### Yaiba: Samurai Legend Anime's 2nd Season Debuts on January 9
-Sat, 19 Sep 2026 00:41:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/yaiba-samurai-legend-anime-2nd-season-debuts-on-january-9/.241967
-
-New season covering "Kaguya Arc" reveals visual
-
-### Dengeki Daisy TV Anime Reveals January 2027 Debut, Half-Year Run in Main Promo Video
-Fri, 18 Sep 2026 23:59:37 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/dengeki-daisy-tv-anime-reveals-january-2027-debut-half-year-run-in-main-promo-video/.241961
-
-4 more cast members announced including Tomokazu Sugita, Yuka Terasaki
-
-### Live-Action Lollipop Chainsaw Film Announced
-Fri, 18 Sep 2026 21:33:05 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/live-action-lollipop-chainsaw-film-announced/.241960
-
-<i>The Hurt Locker's</i> Kirk Shaw, <i>Concordia's</i> Robert Franke produce project separate from anime plans
-
-### Fate/Extra Record Feels Like Persona Meets Slay the Spire
-Fri, 18 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/fate-extra-record-feels-like-persona-meets-slay-the-spire/.241602
-
-If card-based battle systems and heroes from myth and legend are your jam, have I got the game for you.
-
-### North American Anime, Manga Releases, September 13-19
-Fri, 18 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/north-american-anime-manga-releases-september-13-19/.241784
-
-<cite>Shirobako</cite> anime; <cite>Aoashi, Sound of a Blink, Casshan</cite> manga ship
-
-### BAND-MAID Perform New Ending Theme Song for Beyblade X Anime's Beykingdom Arc
-Fri, 18 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/band-maid-perform-new-ending-theme-song-for-beyblade-x-anime-beykingdom-arc/.241954
-
-BAND-MAID's song "SPIN" debuts with new arc on October 9
-
-### Titan Manga Licenses Break Blade Manga
-Fri, 18 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-18/titan-manga-licenses-break-blade-manga/.241952
-
-Special anniversary edition launches in English on December 15
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Katekyo Hitman Reborn! Anime Reveals Eleventh Ending Featuring "Smile for..." by Ueto Aya
+Sat, 19 Sep 2026 12:39:14 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-eleventh-ending-featuring-smile-for-by-ueto-aya/
+
+Katekyo Hitman REBORN! anime released the creditless version of its eleventh ending, featuring "Smile for..." by Ueto Aya.
+
+### The Cat and the Dragon Season 2 Announced for 2027
+Sat, 19 Sep 2026 12:37:28 GMT — https://animecorner.me/the-cat-and-the-dragon-season-2-announced-for-2027/
+
+The Cat and the Dragon (Neko to Ryu) is officially getting a second TV anime season, scheduled to air in 2027. A trailer was released.
+
+### Dengeki Daisy Reveals Main Trailer, Key Visual and 4 New Cast Members Ahead of January 2027 Release
+Sat, 19 Sep 2026 12:23:06 GMT — https://animecorner.me/dengeki-daisy-reveals-main-trailer-key-visual-and-4-new-cast-members-ahead-of-january-2027-release/
+
+Dengeki Daisy anime revealed its first main trailer and key visual, four additional cast members, and a January 2027 release date.
+
+### You and I Are Polar Opposites Reveals Graduation Day Visual Ahead of Season 2 Finale
+Sat, 19 Sep 2026 12:11:03 GMT — https://animecorner.me/you-and-i-are-polar-opposites-reveals-graduation-day-visual-ahead-of-season-2-finale/
+
+You and I Are Polar Opposites anime has revealed a new Graduation Day visual as Season 2 approaches its final episodes.
+
+### Mushoku Tensei Season 3 Tops Weekly Summer Ranking for Second Time in a Row After Episode 12
+Sat, 19 Sep 2026 11:56:56 GMT — https://animecorner.me/mushoku-tensei-season-3-tops-weekly-summer-ranking-for-second-time-in-a-row-after-episode-12/
+
+Mushoku Tensei Season 3 topped the Summer 2026 weekly ranking for the second time in a row after its Episode 12.
+
+### YAIBA: Samurai Legend Season 2 Reveals Main Visual and January 9 Premiere Date
+Sat, 19 Sep 2026 11:44:03 GMT — https://animecorner.me/yaiba-samurai-legend-season-2-reveals-main-visual-and-january-9-premiere-date/
+
+YAIBA: Samurai Legend Season 2, the Kaguya Arc, revealed the main anime visual and a January 9, 2027 premiere date.
+
+### Made in Abyss: Awakening Mystery New Images Reveal First Look at Nishagora
+Sat, 19 Sep 2026 10:44:10 GMT — https://animecorner.me/made-in-abyss-awakening-mystery-new-images-reveal-first-look-at-nishagora/
+
+Made in Abyss: Awakening Mystery film, revealed new scene stills, including the first look at the new character Nishagora.
+
+### Katekyo Hitman Reborn! Anime Reveals Tenth Ending Featuring "Sakura Rock" by CHERRYBLOSSOM
+Sat, 19 Sep 2026 10:37:59 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-tenth-ending-featuring-sakura-rock-by-cherryblossom/
+
+Katekyo Hitman REBORN! anime released the creditless version of its tenth ending, featuring "Sakura Rock" by CHERRYBLOSSOM.
 
 ### Witch on the Holy Night Final Trailer to Be Revealed on September 30
 Sat, 19 Sep 2026 07:56:00 GMT — https://animecorner.me/witch-on-the-holy-night-final-trailer-to-be-revealed-on-september-30/
@@ -88,47 +128,12 @@ Sat, 19 Sep 2026 02:53:43 GMT — https://animecorner.me/asteroid-daianji-makes-
 
 Manga Time Kirara Carat has announced that Asteroid in Love's first three volumes will&hellip;
 
-### Fortnite x Kingdom Hearts Collaboration Launches With Sora, Riku, Kairi and Roxas, Trailer Revealed
-Fri, 18 Sep 2026 21:00:35 GMT — https://animecorner.me/fortnite-x-kingdom-hearts-collaboration-launches-with-sora-riku-kairi-and-roxas-trailer-revealed/
-
-The Fortnite x Kingdom Hearts collaboration is now officially live, bringing Sora, Riku, Kairi and Roxas to the game.
-
-### Summer 2026 Anime Rankings – Week 11
-Fri, 18 Sep 2026 12:30:00 GMT — https://animecorner.me/summer-2026-anime-rankings-week-11/
-
-Mushoku Tensei Season 3 stays on top of the Summer 2026 anime rankings in Week 11 with 15.61% of the vote, followed by Though I Am an Inept Villainess and Jaadugar: A Witch in Mongolia.
-
-### Suikoden Anime Reveals Third Trailer, Ending Theme Song and October 3 Premiere
-Fri, 18 Sep 2026 11:06:00 GMT — https://animecorner.me/suikoden-anime-reveals-third-trailer-ending-theme-song-and-october-3-premiere/
-
-Suikoden: The Anime, the anime adaptation of Suikoden II, revealed the ending song and an October 3 premiere in a third trailer.
-
-### Are You a Landmine, Chihara-san? Anime Teaser Trailer Revealed
-Fri, 18 Sep 2026 10:50:03 GMT — https://animecorner.me/are-you-a-landmine-chihara-san-anime-teaser-trailer-revealed/
-
-The first teaser trailer for the anime Are You a Landmine, Chihara-san? has released ahead of its January 2027 release date.
-
-### Firefly Wedding Main Trailer Featuring Opening Theme Song by iri Revealed
-Fri, 18 Sep 2026 08:32:47 GMT — https://animecorner.me/firefly-wedding-main-trailer-featuring-opening-theme-song-by-iri-revealed/
-
-Firefly Wedding TV anime revealed the main trailer with the opening theme “Period,” a new song written by iri for the series.
-
-### The Apothecary Diaries Author's The Failure at God School Manga Gets Anime Adaptation
-Thu, 17 Sep 2026 15:03:01 GMT — https://animecorner.me/the-apothecary-diaries-authors-the-failure-at-god-school-manga-gets-anime-adaptation/
-
-The Apothecary Diaries' creator Natsu Hyuga's The Failure at God School manga is officially getting a TV anime adaptation.
-
-### Gachiakuta Game Reveals Official Title and First Gameplay Trailer, 2027 Release
-Thu, 17 Sep 2026 13:09:32 GMT — https://animecorner.me/gachiakuta-game-reveals-official-title-and-first-gameplay-trailer-2027-release/
-
-Gachiakuta game has been titled GACHIAKUTA: BREAKOUT, revealing its first gameplay trailer and a 2027 release date.
-
-### Mugendai MewType (Yumemita) Covers Ado's "Show"
-Thu, 17 Sep 2026 12:56:42 GMT — https://animecorner.me/mugendai-mewtype-yumemita-covers-ados-show/
-
-Mugendai MewType released a cover of the song "Show" by Ado. Check out more&hellip;
-
 ## MyAnimeList News
+
+### Neko to Ryuu Second Season Announced for 2027
+Sat, 19 Sep 2026 06:14:49 -0700 — https://myanimelist.net/news/74735782?_location=rss
+
+The 12th and final episode of Neko to Ryuu (The Cat and the Dragon) ended with an announcement on Saturday that a second season is in production. The series director, Jin-koo Oh drew an illustrations to commemorate the announcement (pictured). The anime series will premiere in 2027. Produced by OLM, the first anime season adapting Amara s fantasy light novel aired in 12 episodes on July 4. Crunchyroll simulcasted the anime with subtitles in multiple languages. Amara began writing the fantas...
 
 ### Tougen Anki: Nikko Kegon no Taki-hen Reveals Additional Cast, Theme Songs, First Promo, Split Cours
 Sat, 19 Sep 2026 01:35:58 -0700 — https://myanimelist.net/news/74735385?_location=rss

@@ -1,6 +1,11 @@
-# Games — harvested 2026-09-19T08:58:35.649Z
+# Games — harvested 2026-09-19T13:59:19.137Z
 
 ## Eurogamer
+
+### HoYoverse's Nodusfall might look like Elden Ring, but there's a promising dark fantasy action game here that took me by surprise
+Sat, 19 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/nodusfall-gamescom-preview
+
+Nodusfall, aesthetically at least, is about as far from a typical HoYoverse game as you can get. Gone are the bright colours, cute creatures, and bountiful anime women. In their place, we get all the familiar trappings of dark fantasy: mysterious magics, vicious monsters, and a dingier kind of realism that - and I'm sure we've all thought it - feels a little bit Elden Ring . But from what I played at Gamescom, Nodusfall has the potential to shake off those FromSoftware comparisons and come into its own. Read more
 
 ### What we've been playing - "the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out"
 Sat, 19 Sep 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral
@@ -52,16 +57,6 @@ Thu, 17 Sep 2026 14:22:34 +0000 — https://www.eurogamer.net/valor-mortis-40-us
 
 The Valor Mortis developer has announced the game's price and offered an explanation as to why the team picked this particular price point. Valor Mortis costs $40 / &euro;40, which is notably cheaper than other games releasing around the same time. We've asked for clarification on UK price. Read more
 
-### Following wide-ranging leaks, Bungie says Marathon is not 'merging' with Destiny
-Thu, 17 Sep 2026 13:29:20 +0000 — https://www.eurogamer.net/marathon-destiny-merger-bungie-response
-
-Destiny being reborn within Marathon sounds like one of those ridiculous ideas fans come up with to keep their hope alive, but it's one of several "leaked" plans Bungie supposedly has, which recently made their way online. Bungie has now responded, shooting down what may be the most outlandish part of the leak. Read more
-
-### GTA 6 is getting a 34-song original soundtrack, with music from multiple real-world artists - and you can stream six tracks today
-Thu, 17 Sep 2026 12:57:37 +0000 — https://www.eurogamer.net/gta-6-original-soundtrack-six-track-preview
-
-Grand Theft Auto 6 's original soundtrack was partially revealed today. The full album contains 34 original tracks made for the upcoming open-world crime game. Read more
-
 ## GamesIndustry.biz
 
 ### Control Resonant | Critical Consensus
@@ -109,26 +104,16 @@ Thu, 17 Sep 2026 14:29:58 +0000 — https://www.gamesindustry.biz/draft-of-new-e
 
 The EU Commission has published a draft for the proposed EU KIDS Act . While the most controversial stipulations &ndash; namely a ban for under 13's and restrictions for under 15 year old kids &ndash; only apply to social networks and video sharing platforms &ndash; others also apply to online games. If approved, the rules would apply to all online games sold in EU territories, and introduce significant restrictions to common online features - the definition is extremely broad and could be held to cover everything from Roblox to the multiplayer mode of a disc-based game. Here is a first analysis. Read more
 
-### Nex Playground announces $150m in new funding as hardware sales pass one million
-Thu, 17 Sep 2026 13:00:00 +0000 — https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million
-
-Nex has secured $150 million in funding as sales of its family-oriented active console, Nex Playground, exceed one million units. Read more
-
-### "Every major publisher has approached us to review their old Kinect and Wii catalogue" – Nex Playground is spoilt for choice as its international rollout continues
-Thu, 17 Sep 2026 13:00:00 +0000 — https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalogue-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues
-
-With over a million units sold, and approaching a million paying subscribers using them, the next step in Nex Playground's global expansion &ndash; backed by fresh investmnent and an expanded leadership team including EA founder Bing Gordon and former Niantic and Zynga CFO Jeff Shouger &ndash; is Germany. The family-friendly micro-console will officially release in the territory later this year, retailing at &euro;319. Read more
-
-### Remedy's Arhi Makkonen on designing the "biggest world we have ever done" for Control Resonant
-Thu, 17 Sep 2026 10:29:52 +0000 — https://www.gamesindustry.biz/remedys-arhi-makkonen-on-designing-the-biggest-world-we-have-ever-done-for-control-resonant
-
-Control Resonant releases on September 24, some seven years after 2019's Control. Much has changed for the sequel, notably a switch of main character from Jesse Faden to Dylan Faden, her brother. The new game also places a focus on melee combat &ndash; a first for Remedy &ndash; and the tight confines of The Oldest House have been swapped for the open streets of Manhattan. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)
+Sat, 19 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september
+
+Silent Hill! Control Resonant! Dune! September continues to be ridiculous; next week sees the arrival of another 26 games on PS5 and PS4. As we often say in our staff chat, there are simply too many games. Among the chaos are a handful of bigger titles to look out for. They include the likes of Control Resonant , Silent Hill: Townfall , and Dune: Awakening . Read the full article on pushsquare.com
 
 ### Preview: Don t Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise
 Sat, 19 Sep 2026 00:00:00 GMT — https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise
@@ -185,11 +170,6 @@ Thu, 17 Sep 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/09/zero-p
 
 Extra story, dialogue, modes, and more. ZA/UM has shared the PS5 version of Zero Parades: For Dead Spies will launch on 3rd November 2026 as an expanded Director's Cut containing new content, dialogue, modes, and additional improvements. This will build on the well-received original version, which in itself was one of many spiritual successors to Disco Elysium . Of course, ZA/UM did develop that game, but the team that made Zero Parades is essentially unrecognisable from that of Disco Elysium. A lot of turmoil and departures at the studio meant many creative leads on Disco Elysium didn't stick around for Zero Parades. Read the full article on pushsquare.com
 
-### Fortnite s Kingdom Hearts Crossover Is Live Now, and There s Plenty for Fans to Discover
-Thu, 17 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/09/fortnites-kingdom-hearts-crossover-is-live-now-and-theres-plenty-for-fans-to-discover
-
-What the heart wants. Fortnite's current season, entitled Override , is celebrating numerous games and characters with many crossovers, and a major player in the season is Kingdom Hearts . Epic Games has now officially unveiled how Sora will look in its massively popular shooter with the below video: Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters
@@ -236,6 +216,11 @@ no date — https://www.gamedeveloper.comwest.paxsite.com
 
 ## VGC
 
+### The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are boring
+Sat, 19 Sep 2026 11:15:46 +0000 — https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/
+
+Bruce Straley says his words about Santa Monica Studio's game are "being used out of context" Source
+
 ### Fire Emblem Fortune’s Weave: Wonder Leaves location for Elegant Drink Recipes quest
 Fri, 18 Sep 2026 16:11:24 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wonder-leaves-location-for-elegant-drink-recipes-quest/
 
@@ -281,12 +266,32 @@ Fri, 18 Sep 2026 09:57:55 +0000 — https://www.videogameschronicle.com/news/den
 
 Voices38 has been releasing patches that directly target Denuvo's DRM checks… Source
 
-### CD Projekt Red s move from REDengine to UE5 for The Witcher 4 wasn t because of Cyberpunk s launch, co-CEO says
-Fri, 18 Sep 2026 08:50:54 +0000 — https://www.videogameschronicle.com/news/cd-projekt-reds-move-from-redengine-to-ue5-for-the-witcher-4-wasnt-because-of-cyberpunks-launch-co-ceo-says/
-
-The dream of the company was never to make technology… Source
-
 ## Polygon
+
+### Marvel's Wolverine Update Tones Down Its Most Controversial Feature
+Sat, 19 Sep 2026 13:22:42 GMT — https://www.polygon.com/wolverine-scent-trails-update/
+
+Compared to the typical big-budget, PlayStation-exclusive video game, the reception to Marvel's Wolverine has been much more muted. One of the biggest complaints is how much Marvel's Wolverine hand-holds players when directing them where to go next. To address that, Insomniac Games has toned down the opacity of scent trails in the game's first significant post-launch update.
+
+### Forget Your 100-Hour RPGs, Action Games Are Having a Moment
+Sat, 19 Sep 2026 13:00:16 GMT — https://www.polygon.com/action-games-wolverine-pragmata-2026/
+
+Gaming is a trend-based medium. Often, when a hit game turns into a generational success story, you can see it shape the industry in real-time as studios try to copy its notes. In recent history, we’ve seen that with an influx of two types of games: open-world games and Soulslikes.
+
+### Batman Producers Reveal Warner Bros. Told Them to Burn a Criminal's Face Off
+Sat, 19 Sep 2026 12:00:16 GMT — https://www.polygon.com/batman-knightfall-producers-interview/
+
+Batman: Knightfall is one of the most iconic Batman stories ever told. The 1993 comic arc introduced the brilliant steroid-enhanced villain Bane, who immediately established himself as an S-Tier supervillain by brutally breaking Batman’s back. Christopher Nolan adapted part of the plot of Knightfall in his 2012 film The Dark Knight Rises , but Warner Bros. Animation is currently in the middle of a far more faithful adaptation, and the first movie in the Batman: Knightfall trilogy is available now on VOD.
+
+### Crunchyroll’s Detective Series With a 93% RT Score Is About to Have Its ‘Biggest Year Yet’
+Sat, 19 Sep 2026 11:38:14 GMT — https://www.polygon.com/apothecary-diaries-season-3-movie-producer-interview/
+
+Since premiering in 2023, The Apothecary Diaries has become one of Crunchyroll’s most popular series. That's thanks largely to its intricate palace conspiracies and the slow-burning relationship between the rapturously curious apothecary, Maomao, and the enigmatic imperial official, Jinshi. Season 2 revealed more about Jinshi’s true identity while a series of isolated incidents that Maomao investigated exposed an ongoing conspiracy that threatens the entire imperial family.
+
+### Every Star Wars Zero Company Hero, Ranked From Worst to Best
+Sat, 19 Sep 2026 09:00:14 GMT — https://www.polygon.com/star-wars-zero-company-characters-ranked/
+
+Star Wars Zero Company , also known as ZCOM, understands one of its genre's commandments: a good tactics game isn't just about playing chess. It's about playing chess with characters you actually care about.
 
 ### The 9 Best Anime You Can Stream on HBO Max
 Sat, 19 Sep 2026 08:00:14 GMT — https://www.polygon.com/best-anime-to-stream-on-hbo-max/
@@ -313,32 +318,22 @@ Sat, 19 Sep 2026 05:01:14 GMT — https://www.polygon.com/best-psychological-thr
 
 Most psychological thriller movies online are locked behind a paid subscription to Netflix, HBO Max, or Prime Video, but some choice titles are available to stream for free. With that in mind, we’ve compiled a list of five fantastic psychological thrillers that you can watch at no cost whatsoever.
 
-### 31 Years Later, the Final 'Calvin and Hobbes' Comic Strip is Still a Perfect Sendoff
-Sat, 19 Sep 2026 04:00:20 GMT — https://www.polygon.com/calvin-and-hobbes-last-comic-strip-lets-go-exploring/
-
-On November 18, 1985, the very first comic strip of Calvin and Hobbes appeared in newspapers. “So long, pop! I’m off to check my tiger trap!” Calvin, wearing a safari helmet, said to his dad in the first panel. Calvin went on to explain that he rigged the trap with a tuna fish sandwich, something a tiger cannot resist. In the last panel, Hobbes is seen for the first time, hanging upside down in a tree, eating the sandwich.
-
-### 3 Netflix Shows You Need to Binge This Weekend (Sept. 18-20)
-Sat, 19 Sep 2026 03:53:15 GMT — https://www.polygon.com/netflix-weekend-binge-september-2026-shows/
-
-It’s September, and depending on where you live, still hot. Summer is almost over, but a heat wave in New York has us cranking the AC and binging Netflix inside. Apple picking or whatver can wait until next week. Fall isn't going anywhere... yet.
-
-### 5 Near-Perfect Time Travel Movies Where the Science Actually Makes Sense
-Sat, 19 Sep 2026 02:15:15 GMT — https://www.polygon.com/time-travel-movies-that-make-sense/
-
-Most time travel movies don’t sweat the math — or, more accurately, the quantum physics of how time travel might actually work. The writers and directors include the time-travel concepts that will help their story and ignore the ones that won’t. For example, when Doc Brown takes Marty and Jennifer to the future in Back to the Future Part II , they can’t meet their kids because Marty and Jennifer would have been absent from the timeline for the past 30 years. Wait. What?
-
-### Should you skip the War Arc (Act 2) in Fire Emblem: Fortune's Weave?
-Fri, 18 Sep 2026 21:35:53 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-war-arc-skip-act-2/
-
-You can skip the War Arc in Fire Emblem: Fortune's Weave , but while it's not necessarily the best choice, it's not a terrible one either. Whether it's the right one for you depends on where you're at in the game and what you're hoping to get from this part of it. You have the option to do this when you interact with the Strife Obelisk, which appears after you complete Act 1 as any of the Flame Lords. You can also ignore the obelisk and go to the door, though if you do that, you won't bring any of your other units to the final campaign.
-
-### Where to find wonder leaves in Fire Emblem Fortune's Weave
-Fri, 18 Sep 2026 21:26:24 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-wonder-leaves-location-where-to-find/
-
-Wonder leaves are common materials you can find in Fire Emblem: Fortune's Weave . You need one of these plants to complete one of Leda's perform quests called "Elegant Drink Recipes." To collect plants in the game, you need to visit specific nodes on the world map and use the command "Search," but some plants are more difficult to find because you can collect them from only a few nodes.
-
 ## PC Gamer
+
+### This unofficial engine patch for Thief: The Dark Project adds a huge new feature that won't be in Nightdive's upcoming remaster
+Sat, 19 Sep 2026 13:29:34 +0000 — https://www.pcgamer.com/games/sim/this-unofficial-engine-patch-for-thief-the-dark-project-adds-a-huge-new-feature-that-wont-be-in-nightdives-upcoming-remaster/
+
+Thief: The Dark Project is one of my favourite games of all time, so naturally I am very excited for Nightdive Studios' upcoming remaster . But it's worth remembering that the community has done an excellent job supporting the game up until this point. Unofficial patches like NewDark have ensured that Looking Glass' landmark stealth game can run in high resolutions and with support for widescreen and multi-monitor functionalities for years. And if you thought an official remaster might put such efforts to an end, think again. Not to be outdone by Nightdive, NewDark's creator just released a new version of the overhaul which adds a radical new feature to Thief—dynamic shadows. Yep, NewDark 1.29 introduces hardware transform & lighting to the Dark Engine, opening the door to GPU-driven effects in Thief's gothic steampunk world. Chief among these is shadows that are dynamically cast by moving objects—guards, doors, even master thief Garrett himself. The update's effects were shown off in a YouTube video by Thief fan Bentraxx . What's particularly interesting about the dynamic shadows is not simply how they look, but the mechanical implications they have. For example, opening a door between a dark corridor and a well-lit room will flood the former with light, while opened doors create shadows behind them, meaning Garrett can now use doors to create hiding spaces. At the same time, shadows can be a hindrance to Garrett too. According to Bentraxx, NPCs now have awareness of Garrett
+
+### CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'
+Sat, 19 Sep 2026 11:21:27 +0000 — https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/
+
+We still don't know a huge amount about The Witcher 4 . But we do know it represents two big changes for the series thus far. The first change is, of course, that Ciri will replace Geralt as the lead character. The second is that CD Projekk will replace its in-house REDengine with Unreal Engine 5. There's been considerable speculation as to why CDP is abandoning tech that's delivered some of the most cutting-edge visuals of the last decade, with some fans suggesting that Cyberpunk 2077 's difficult development and compromised initial release might be a factor. But the studio's co-CEO Michał Nowakowski has formally dismissed this suggestion, stating the decision had more to do with CD Projekt's general ambitions than Cyberpunk specifically. Speaking on the Deconstructor of Fun podcast (via GamesRadar+ ), Nowakowski addressed the claim that Cyberpunk was the straw that broke REDengine's back: "A lot of people think like this, but this is a bit of a false assumption," he explained. "Because the issue with Cyberpunk was not really REDengine itself. Instead, Nowakowski said that CD Projekt never really wanted to be an engine developer in the first place, stating that. "The dream of the company was actually never to make technology." He conceded that CD Projekt did want to make "visually and technically cutting edge games", for which in-house tech seemed to be the optimal solution for the studio. But what ultimately drives the company is "telling the stories in the most convincing 
+
+### Dune Awakening now has a solo mode for players put off by its MMO leanings, while Funcom has adjusted progression so 'you don't have to lose things anymore'
+Sat, 19 Sep 2026 10:09:00 +0000 — https://www.pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore/
+
+Dune Awakening was lauded for its survivalist take on Frank Herbert's sci-fi epic when it was released last year, but there's one element of Funcom's sci-fi adventure that's proved consistently controversial, and that's its MMO-adjacent elements. Players seemingly love constructing bases and braving the many dangers lurking in Arrakis' deserts, but are less keen on sharing that experience with other players, especially when the game becomes more competitive in its PvP focussed Deep Desert. Now though, in a move that would please Harkonnens galaxy-wide, Funcom has made it so you can keep Arrakis all to yourself. Dune Awakening's long-sought after single-player mode has arrived. Update 1.5 introduces a tweaked version of Awakening suitable for solo play, while also adjusting Arrakis in a bunch of other ways to make it generally more accessible and less punishing. Funcom has changed several core mechanics to make solo mode work, chiefly retooling multiplayer-reliant systems so they can work independently. The player-driven market known as the Exchange now functions as a sci-fi supermarket offering a wide-array of items for players to pick up as they please. Meanwhile, its Landsraad political system simulates rival guilds automatically, ensuring it "progresses even without player participation". Finally, while not player-driven, Coriolis storms have been softened so that players can maintain progress in the Deep Desert, though Function cautions that these storms remain "very dang
 
 ### Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical
 Fri, 18 Sep 2026 22:51:54 +0000 — https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/
@@ -384,21 +379,6 @@ Grand Theft Auto 6 is coming! Not to us on Team PC, mind: It will eventually, bu
 Fri, 18 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/
 
 Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . In a previous life, long before I began making millions writing about videogames professionally, I wrote marketing copy for a finance firm I still don't really understand. Do you know the fine art of embedding payment iframes in customer payment gateways? I did. Once. Do you know the riotous history of the SWIFT international banking system? What about SEPA? No? What a sheltered life you must lead. My point is this: absolutely nothing is more interesting, cooler, or sexier than finance and banking. We all know it. There was a whole song that was pretty much about just that. And now, I have integrated this glamour into Grand Theft Auto 5. I have installed Realistic Bank System – San Andreas ONE . Exciting times: I can get into debt now. The thrill of thrills is that San Andreas ONE lets you apply for lines of credit in ways that are fascinatingly reminiscent of real life. GTA 5's protagonists even get actual, meaningful credit scores (based on… something) that impact their eligibility to open new lines of the stuff. Franklin's was 680 (Good), in case you're wondering. That gave him a positive soft eligibility for getting a loan. Yes, this thing has soft and hard credit checks. Anyway, I got a $30,000 line of credit and set it 
-
-### I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it
-Fri, 18 Sep 2026 16:05:46 +0000 — https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/
-
-If you're like me, you've probably become increasingly disheartened almost by the day at just how hard it's becoming to distinguish real photos from fake, AI-generated ones. It does not bode well for the future. There are plenty of suggested solutions, but I like one I just learnt about in particular, in the form of the upcoming CAIM1 camera . The company, Caim, says it "is the world's first camera that attests human origin of your moments the second you press record and gives physical and open verifiable proof." Even more surprising than this, though, is where I heard about the camera: Noctua's X page . Yes, the maker of the absolute best fans for your gaming PC apparently also makes the little fan that goes inside this camera. I suppose that explains the colour scheme. The photo on Noctua's X post shows the little fan inside—the sensor that sits in front of it has been removed. It seems the camera itself doesn't come with a lens, either. The company says it's a "BYOL: bring your own lens" kind of deal. Noctua has a separate page explaining how it keeps the camera cool and why it went with the specifc fan it did. The fan in question is the NF-A4x10 5V PWM , which Noctua says "provides a combination of compact dimensions, strong airflow and pressure performance, low-noise operation and precise PWM speed control." "Using a conventional 12 V fan," the company says, "would have required an additional step-up converter." But this would of course take up more room and chew through
-
-### Control Resonant is one of the best-looking games at low graphics settings I've ever seen
-Fri, 18 Sep 2026 16:01:50 +0000 — https://www.pcgamer.com/hardware/graphics-cards/control-resonant-is-one-of-the-best-looking-games-at-low-graphics-settings-ive-ever-seen/
-
-I'll admit it, I'm normally a bit of a graphics settings snob. 25+ years of PC gaming has conditioned me to think that "Low" is an option to be avoided on everything but the most budget of rigs, or the most demanding of games. But I've just finished my early performance and image quality testing of Control Resonant , and it's remarkable how good the open world looks in motion with everything turned down to the minimum. The clip below was recorded at 1080p, Low graphics preset, with ray tracing turned off: I appreciate you're likely viewing this on a phone screen, so it's difficult to get a bead on the details. And the video compression does the clip no favours once you fullscreen it. But those Manhattan streets still look pretty good with all the options cranked down. I think what we're looking at here, more than anything else, is a very strong art style. The details of the buildings remain distinct, the contrast between light and shade as I wind my way around the corners is prominent, and the non-ray traced shimmering puddles still look good. There's a real sense of scale here, too. While the buildings in the background are shrouded in haze to obscure any uglies, they work with the lighting to create a very evocative, atmospheric effect. Here's an image taken at 1440p Low (again, with ray tracing off), to show how the graphics scale with the resolution at these settings. (Image credit: Remedy) And my eye is continually drawn towards the reactivity of the environment. Control
-
-### Unbiased Monster Hunter producer predicts one weapon will climb the popularity rankings in Ascendance, has no agenda: 'Hammer should definitely go up a place or two'
-Fri, 18 Sep 2026 15:00:00 +0000 — https://www.pcgamer.com/games/action/unbiased-monster-hunter-producer-predicts-one-weapon-will-climb-the-popularity-rankings-in-ascendance-has-no-agenda-hammer-should-definitely-go-up-a-place-or-two/
-
-Over the last two weeks, Capcom dropped a parade of weapon breakdown videos showcasing the new Boost Bracer mechanics coming in the Monster Hunter Wilds: Ascendance expansion. Serving as a sort of on-demand sicko mode, the Boost Bracer lets hunters juice their combat actions with additional speed and impact, and adds some deliciously over-the-top attacks to the existing weapon movesets. PC Gamer spoke to some of the lead Monster Hunter developers at TGS to pick their brains about how the Boost Bracer evolves the flow of Monster Hunter combat—and which weapon they expected to gain the most fans with its new moves. Asked what weapon they'd stake 10,000 yen on climbing the popularity rankings in Ascendance, one of the developers had an immediate answer. "Hammer," series producer Ryozo Tsujimoto said without hesitation. "I think the hammer should definitely go up a place or two." As a hammer main myself, my natural inclination is to cosign Tsujimoto's objective appraisal of the weapon's self-evident efficacy, utility, and inherent nobility. But I'm obligated as a journalist to acknowledge that there might be some slight favoritism in play. Tsujimoto, who's worked as Monster Hunter series producer since the release of Monster Hunter Freedom 2 in 2007, has a decades-long record as an avowed hammer diehard. At the 2023 Justdan Game Festival in Taiwan, he revealed his Monster Hunter Rise guild card , which confirmed that he'd used the hammer in each and every one of his 895 completed
 
 ## GameSpot
 

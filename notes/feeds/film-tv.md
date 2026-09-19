@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-09-19T08:58:35.649Z
+# Film & TV — harvested 2026-09-19T13:59:19.137Z
 
 ## Variety
+
+### White House Blocks MS NOW Journalists From Entry and Confiscates Their Badges After Donald Trump Bans Network, Along With CNN and Politico
+Sat, 19 Sep 2026 13:10:07 +0000 — https://variety.com/2026/tv/news/white-house-blocks-ms-now-journalist-trump-ban-cnn-politico-1236867650/
+
+President Donald Trump doesn t like the coverage of him by MS NOW, CNN and Politico and as of Saturday, the White House started enforcing the president s ban on those news organizations from accessing the facility. MS NOW said some of its journalists were denied access to the White House grounds on Saturday morning. The [ ]
+
+### Spain’s SETT Drives $521 Million Investment Push to Build Global Audiovisual Players
+Sat, 19 Sep 2026 09:55:02 +0000 — https://variety.com/2026/global/global/sett-spain-audiovisual-hub-anima-kitchent-good-films-1236846260/
+
+No Spanish industry initiative is likely to drive more conversation at this year’s San Sebastián Festival than the latest moves by the Spanish Society for Technological Transformation (SETT). Over the past 12 months, state-backed venture capital fund SETT, the investment driver of the Spain Audiovisual Hub, has plowed €215.6 million ($252.3 million) into Spain’s film, [ ]
+
+### Naomi Watts Believes Standards Have Changed for Older Women in the Industry: ‘Look at the Emmys Last Week… That’s Heartening to See’
+Sat, 19 Sep 2026 09:48:43 +0000 — https://variety.com/2026/film/global/naomi-watts-older-women-in-the-industry-emmys-san-sebastian-1236867602/
+
+British actor Naomi Watts, at the San Sebastián Film Festival to receive this year’s prestigious Donostia Award, spoke about opportunities in the industry for women over 50. Talking a week after Sarah Paulson told Variety about the lack of film offers following her spellbinding portrait of Marcia Clark in “The People v. O.J. Simpson: American [ ]
 
 ### Writer-Star Berto Romero, Director Javier Ruiz Caldera Unpack San Sebastian Buzz Title 5 More Minutes : Characters and Audience Should Feel Every Second s Weight’
 Sat, 19 Sep 2026 08:38:13 +0000 — https://variety.com/2026/film/global/5-more-minutes-berto-romero-javier-camara-san-sebastian-1236855174/
@@ -37,22 +52,17 @@ Fri, 18 Sep 2026 23:30:00 +0000 — https://variety.com/2026/shopping/news/how-t
 
 It s week two in the NFL season and we re already seeing a big rivalry game between two NFC North teams. Although both the Vikings and the Bears are 1-0 on the season, this game has a little more weight since it s a division matchup. Whichever teams wins this Sunday, they re one step closer to winning [ ]
 
-### Angelina Jolie and Salma Hayek Pinault on Their New Film ‘Without Blood’ and Spending ‘A Lot of Time Talking About Our Pain, Our Losses, Our Traumas’
-Fri, 18 Sep 2026 23:12:13 +0000 — https://variety.com/2026/film/columns/angelina-jolie-salma-hayek-without-blood-pain-losses-traumas-1236867367/
-
-In “Without Blood,” written and directed by Angelina Jolie, Salma Hayek plays Nina, a woman who spends her adult life looking for the three men responsible for the wartime murder of her father and brother when she was just a child. In two of the cases, her revenge is fatal. But then she meets the [ ]
-
-### Paramount and California AG Bonta Reportedly in Advanced Talks to Settle Antitrust Suit
-Fri, 18 Sep 2026 22:43:27 +0000 — https://variety.com/2026/film/news/paramount-california-ag-bonta-advanced-talks-settle-antitrust-suit-1236867326/
-
-David Ellison s Paramount Skydance is in advanced talks with California Attorney General Rob Bonta to settle the 12-state antitrust suit that s holding up its takeover of Warner Bros. Discovery, the Wall Street Journal reported Friday, citing anonymous sources. A Paramount spokesperson declined to comment. A rep for Bonta s office said, Potential settlement talks are confidential. [ ]
-
-### Oscar Predictions: Best Adapted Screenplay — Epics, Trilogies and a Wild Dinner Party Could Define the Race
-Fri, 18 Sep 2026 22:35:00 +0000 — https://variety.com/feature/2027-oscars-best-adapted-screenplay-predictions-1236834275/
-
-Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
-
 ## The Hollywood Reporter
+
+### MS NOW Reporters Denied Access to White House as Trump Follows Through on Threat to Ban Outlets
+Sat, 19 Sep 2026 13:20:11 +0000 — https://www.hollywoodreporter.com/news/politics-news/ms-now-denied-access-white-house-trump-follows-through-ban-1236706029/
+
+Trump said Friday that CNN and Politico would also be denied access to the grounds.
+
+### When Hollywood s Major Studios Threatened to Leave California — For Florida
+Sat, 19 Sep 2026 13:15:00 +0000 — https://www.hollywoodreporter.com/business/business-news/hollywood-major-studios-threatened-california-florida-1236705867/
+
+A Democratic Socialist was running for California governor and the studio chiefs balked and said they'd pack up their moving trucks and leave. They were bluffing in 1934. Now...
 
 ### Hudson Williams Shares How Surreal It Was for Him and Connor Storrie to Return to Heated Rivalry Set
 Sat, 19 Sep 2026 05:06:27 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hudson-williams-heated-rivalry-tiff-conversation-1236705982/
@@ -94,19 +104,24 @@ Fri, 18 Sep 2026 23:20:53 +0000 — https://www.hollywoodreporter.com/business/b
 
 Per the Wall Street Journal, the two sides are in “advanced talks” to resolve the case. A spokesperson for California Attorney General Rob Bonta's office said the discussions are “confidential.”
 
-### Sweet Magnolias Canceled at Netflix After Five Seasons
-Fri, 18 Sep 2026 23:05:04 +0000 — https://www.hollywoodreporter.com/tv/tv-news/sweet-magnolias-canceled-five-seasons-netflix-1236705797/
-
-Showrunner Sheryl J. Anderson and star JoAnna Garcia Swisher, however, are prepping a new series called 'Ladies of the House.'
-
-### Nick Reiner Pushes for Release of Trust Money to Fund Criminal Trial in New Court Filings
-Fri, 18 Sep 2026 22:58:11 +0000 — https://www.hollywoodreporter.com/business/business-news/nick-reiner-trust-lawsuit-update-1236705763/
-
-He's suing his trust's fiduciary, who previously served as Britney Spears' conservator after her father was removed from the role.
-
 ## Deadline
 
-### Gerrit Graham Dead: Star Trek Phantom of the Paradise Actor Was 76
+### MS NOW Journalists Denied White House Entry Following Donald Trump s Announced Ban
+Sat, 19 Sep 2026 13:40:57 +0000 — https://deadline.com/2026/09/ms-now-journalists-denied-white-house-entry-following-donald-trumps-announced-ban-1237108359/
+
+President Donald Trump is following through on pledge to ban journalists he doesn t like from the White House: This morning, MS NOW, formerly MSNBC, announced that its journalists had been denied access to the White House grounds. In a statement posted on social media today, the news network wrote, “Earlier this morning, MS NOW journalists [ ]
+
+### Anthony Page Dies: Tony-Winning, Emmy-Nominated Director Of Stage Screen Was 90
+Sat, 19 Sep 2026 13:11:46 +0000 — https://deadline.com/2026/09/anthony-page-dead-1237108346/
+
+Anthony Page, the prolific British stage, film and TV director who won a Tony Award for his 1997 Broadway production of A Doll s House and was twice Emmy-nominated for acclaimed TV movies in the 1970s, died September 11 at a London residential care home. He was 90. Page s death has been confirmed by press representative [ ]
+
+### Naomi Watts Says She’d Like To Work With Paul Thomas Anderson Praises The Advancements Older Women Have Made In Hollywood — San Sebastián
+Sat, 19 Sep 2026 09:26:10 +0000 — https://deadline.com/2026/09/naomi-watts-paul-thomas-anderson-san-sebastian-1237108327/
+
+“I started, by Hollywood standards, quite late,” Naomi Watts began this morning when quizzed on whether the treatment of older women in Hollywood has improved during a press conference at the San Sebastián Film Festival. The British-Aussie actor is at the Spanish festival to receive an honorary Donostia Award for career achievement. “I launched with [ ]
+
+### Gerrit Graham Dies: Star Trek Phantom Of The Paradise Actor Was 76
 Sat, 19 Sep 2026 03:28:21 +0000 — https://deadline.com/2026/09/gerrit-graham-dead-1237108310/
 
 Gerrit Graham, the actor known for roles in Phantom of the Paradise (1974) and Star Trek, has died. He was 76. The actor died of lung disease and other health complications on Tuesday in Rhinebeck, NY, according to Variety. Born Nov. 27, 1949 in New York City, Graham trained at Columbia University, where he was [ ]
@@ -151,21 +166,6 @@ Fri, 18 Sep 2026 22:43:02 +0000 — https://deadline.com/2026/09/magazine-review
 
 Perhaps the title of this Toronto Film Festival premiere says it all. Magazine is a period piece set in a pre-digital world as the long proud tradition of print publications is about to end in favor of quick hits and screen-reading in a new and strange universe ruled by social media, not the once smart [ ]
 
-### Resident Evil Scaring Up $50M+ U.S. Franchise Record Opening Update
-Fri, 18 Sep 2026 22:33:00 +0000 — https://deadline.com/2026/09/box-office-resident-evil-1237107316/
-
-FRIDAY PM UPDATE: Zach Cregger s Resident Evil is bound for the best opening this franchise has ever seen in its 24 years of feature existence; this weekend armed up with at least $50M, and a chance for more. It s also the best domestic start ever for Cregger as a filmmaker, unloading Weapons ($43.5M). Today plus [ ]
-
-### Everything We Know About Netflix s New Pride Prejudice Series So Far
-Fri, 18 Sep 2026 22:20:27 +0000 — https://deadline.com/feature/netflix-pride-amp-prejudice-series-news-updates-1236968654/
-
-The misty moors will be back on the screen — the small screen this time — in a new version of Pride Prejudice by Jane Austen. Headed to Netflix this fall, the series stars a cast of some familiar and some young up and comers, with some well known creative names attached. For everything [ ]
-
-### Cody Fern Recalls Filming House Of Cards When The Kevin Spacey Nuclear Bomb Hit
-Fri, 18 Sep 2026 22:14:43 +0000 — https://deadline.com/2026/09/cody-fern-house-of-cards-kevin-spacey-nuclear-bomb-1237108089/
-
-Nearly eight years later, Cody Fern is looking back on his time on Netflix s final season of House of Cards, amid the firing of Kevin Spacey. While discussing his feature directorial debut Closing Night at TIFF, the actor recalled playing the main villain on the sixth and final season, before the nuclear bomb hit the [ ]
-
 ## befores & afters
 
 ### A great conversation about VFX in stop-mo with LAIKA s Steve Emerson and ILM veteran Jeff Mann
@@ -183,12 +183,12 @@ Thu, 17 Sep 2026 21:20:09 +0000 — https://beforesandafters.com/2026/09/18/watc
 
 Lots of fun befores/afters, animation and CG work here. The post Watch this VFX breakdown by DNEG for Coyote Vs. ACME appeared first on befores & afters .
 
-### The art of BAMF ING in X2
-Thu, 17 Sep 2026 11:42:59 +0000 — https://beforesandafters.com/2026/09/17/the-art-of-bamfing-in-x2/
-
-How those incredible Nightcrawler BAMF ING VFX shots by Cinesite in X2 were made. Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the befores afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post The art of BAMF ING in X2 appeared first on befores & afters .
-
 ## IndieWire
+
+### The Daughters of Abraham Review: Individualism and Community Test Each Other s Limits in an Interfaith Friendship Drama
+Sat, 19 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/criticism/movies/the-daughters-of-abraham-review-1235217809/
+
+TIFF: Hanaël El Yousfi's feature debut follows the ongoing relationship between a Jewish woman and her Muslim friend, illustrating how the conflicting desires for independence and family connection are universal.
 
 ### Trying to Picture Doomsday? 1983 s WarGames Already Showed Us One Way AI Could End the World
 Sat, 19 Sep 2026 03:59:00 +0000 — https://www.indiewire.com/news/general-news/wargames-rewatch-1983-apocalypse-ai-thriller-1235216407/
@@ -245,11 +245,6 @@ Fri, 18 Sep 2026 14:22:16 +0000 — https://www.indiewire.com/awards/industry/be
 
 In addition to all the countries submitting films to represent them in the Best International Feature category at the 2027 Oscars, there are several films in contention for winning the top prize at festivals like Sundance, Cannes, and Venice.
 
-### Can Being a Crowdpleaser Carry ‘I Play Rocky’ All the Way to the Oscars?
-Fri, 18 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/awards/predictions/i-play-rocky-crowdpleaser-oscars-1235217663/
-
-Although Peter Farrelly's latest film, about the making of "Rocky," is a TIFF People's Choice Awards contender, various aspects of the film fall short in the overall Oscar race.
-
 ## The Wrap
 
 ### Duncan Sheik Remembered: Lea Michele, Melissa Barrera and More Pay Tribute to Late Musician
@@ -304,53 +299,53 @@ September is here! And while the fall weather hasn t quite arrived, it s still t
 
 ## Collider
 
-### 10 Best Pikachu Designs for Pokémon’s 30th Celebration, Ranked
-Sat, 19 Sep 2026 08:50:10 GMT — https://collider.com/best-pikachu-cards-pokemon-30th-anniversary/
+### 6 Upcoming Network TV Shows, Ranked by Hype
+Sat, 19 Sep 2026 13:39:11 GMT — https://collider.com/upcoming-network-tv-shows-ranked-hype/
 
-Pikachu has appeared on hundreds of Pokémon cards since the Trading Card Game began, but even the franchise’s mascot has never received a collection quite like this. The newly released Pokémon TCG: 30th Celebration expansion contains 30 Pikachu rare cards , each featuring a completely different artist’s interpretation of the Electric-type icon . Every booster pack guarantees one of the designs, making Pikachu the centerpiece of the entire anniversary set.
+After a summer off, the start of the next network TV season is officially around the corner. Starting this week and going into next month, all of the hit network shows that took the last month will be getting ready to return. For the Fall lineup, procedurals, reality competition shows, and sitcoms alike will be starting their latest seasons, or premiering for the first time. Other hit shows won't be returning yet, but they will be airing their new seasons as part of the Spring lineup for their respective networks.
 
-### Netflix Officially Sets a New Release for Its Harrowing Survival Story
-Sat, 19 Sep 2026 08:40:11 GMT — https://collider.com/beyond-society-of-the-snow-netflix-december-2026/
+### Guy Ritchie’s ‘MobLand’ Season 2 Officially Defeats Taylor Sheridan on Paramount+
+Sat, 19 Sep 2026 13:15:11 GMT — https://collider.com/tom-hardy-guy-ritchie-mobland-season-2-streaming-success-paramount-plus-september-2026/
 
-Some stories are simply unbelievable, and none is quite as confounding as the one dramatized in the 2023 film Society of the Snow . It tells the story of a Uruguayan rugby team that crashes in the Andes Mountains in 1972 during a trip to Chile. The Uruguayan Air Force Flight 571 crash claimed 16 of the 45 lives on board. Trapped in one of the most hostile and inaccessible places on Earth , the remaining 29 passengers are forced to resort to extreme measures to stay alive. Directed by J.A. Bayona , the film was one of the best movies of 2023 and was submitted for two Oscars.
+A recent study found that audiences were more likely to lose interest in a television series if it took more than a year to return. HBO boss Casey Bloys would be acutely aware of this statistic, which is why the aim is for the hotly anticipated Harry Potter series to take as little time between seasons as possible, even though Bloys recently admitted that making the annual target is quite impossible. A few weeks ago, Guy Ritchie 's hit Netflix crime series The Gentlemen returned with a second season after an extended two-year break, and the proof was in the pudding. The show debuted with around 45% lower viewership in its sophomore season, and it continues to struggle to meet the high bar set by the first batch of episodes. This week, Ritchie's other crime mega-hit, MobLand , returned with a second season as well. And while it's too early to gauge exactly how well it did upon its return, the smaller gap between seasons appears to be paying off as the show managed to displace the reigning king of Paramount+.
 
-### Netflix Officially Loses Tom Hanks' Most Beloved Streaming Gem
-Sat, 19 Sep 2026 08:20:11 GMT — https://collider.com/a-beautiful-day-in-the-neighborhood-leaving-netflix-october-2026/
+### The 6 Most Universally Loved Games Released Since 2020, Ranked
+Sat, 19 Sep 2026 12:46:11 GMT — https://collider.com/most-universally-loved-video-games-since-2000-ranked/
 
-Tom Hanks is never far from a box office hit. This year, the Hollywood veteran has already delivered one of the highest-grossing blockbusters in the form of Toy Story 5 . Woody, Buzz ( Tim Allen ), and Jessie ( Joan Cusack ) returned with the rest of the toys to great success, returning Pixar's biggest franchise to their best after a disappointing Toy Story 4 . Called "a necessary response to how much the world has changed in the past three decades" by Collider's Taylor Gates in her review , the film stole hearts and earned heaps in ticket sales, becoming one of 2026's first billion-dollar hits.
+If there is one thing everyone can agree on, it is that nothing is perfect, especially with video games , as more gamers and opinions flood the community, which will hate even the best titles. Legendary games like The Legend of Zelda: Ocarina of Time or modern classics such as God of War aren’t spared hate, criticism, or discourse, proving that there isn’t a single video game that everyone can say is perfect.
 
-### Taylor Sheridan's Failed Tom Clancy Adaptation Officially Finds Success on Prime Video
-Sat, 19 Sep 2026 08:00:11 GMT — https://collider.com/taylor-sheridan-tom-clancy-without-remorse-streaming-success-prime-video-september-2026/
+### Christopher Nolan Almost Cut 'Inception's Most Crucial Element
+Sat, 19 Sep 2026 12:45:12 GMT — https://collider.com/hans-zimmer-inception-edith-piaf-song-marion-cotillard/
 
-Taylor Sheridan has released a handful of successful new projects already this year, but as his TV empire at Paramount continues to grow, he’s still pushing to make great movies. While most modern fans know Taylor Sheridan through his work on Yellowstone , he began his career writing (and sometimes even directing) legendary neo-Western thrillers like Sicario . After also writing other epic Westerns like Hell or High Water and Wind River , Sheridan decided to shift his focus to TV, but he’s finally returning to the world of movies next year with F.A.S.T. , which is being hailed as a Sicario -style action thriller. Sheridan is also penning the script for Paramount’s highly anticipated Call of Duty movie, with Peter Berg tapped to direct. The film will be one of the biggest blockbusters in theaters in summer 2028.
+Christopher Nolan ’s Inception is a movie obsessed with time. Every tick of the clock is one step closer to disaster; seconds become minutes, become hours, become days, months, and years, as its characters descend through layers of dreams, and Hans Zimmer miraculously translated that concept into the music itself. One of the movie’s most ingenious tricks connects Zimmer’s thunderous score to Édith Piaf ’s “Non, je ne regrette rien,” the song used to warn Nolan’s dreamers that their “kick” is approaching.
 
-### Netflix's 2-Part Unhinged Docuseries Will Actually Give You Nightmares
-Sat, 19 Sep 2026 03:41:11 GMT — https://collider.com/netflix-worst-ex-ever-true-crime-docuseries/
+### Netflix Officially Loses Steven Spielberg's Ambitious 2-Part Sci-Fi Series
+Sat, 19 Sep 2026 12:31:11 GMT — https://collider.com/steven-spielberg-sci-fi-series-halo-leaving-netflix-october-2026/
 
-Netflix 's docuseries, Worst Ex Ever , details the stories of terrifying abuse at the hands of significant others. Significant others who, once professed love, only to flip the script to something far darker and contemptible. And what the brave survivors have to say is the stuff of nightmares . From the same team that brought Worst Roommate Ever to Netflix, Worst Ex Ever shifts the focus from roommates to lovers, "from chilling betrayals to murder plots, this true-crime docuseries dissects the dark side of love through eyewitness testimonies." Each episode interviews survivors, their families, and investigators to provide a thorough account of each horrifying case.
+Over the years, several shows with huge potential have had to wait to be discovered by larger audiences on Netflix. Breaking Bad was famously struggling until it found mainstream success on the streamer, which AMC used to divert viewers back to the source for later seasons. More recently, the TNT sci-fi series The Last Ship has found considerable success on Netflix, eight years after its final season. The same cannot be said for another TNT title that was added to Netflix around the same time — the far more acclaimed cop drama Southland , which remains a cult favorite. Now, a mega-budget title designed as a platform-defining tentpole for Paramount+ is on its last legs on Netflix.
 
-### HBO Max Officially Says Goodbye to One of Cinema’s Greatest Directorial Debuts
-Sat, 19 Sep 2026 03:25:12 GMT — https://collider.com/satyajit-ray-pather-panchali-greatest-directorial-debuts-leaving-hbo-max-september-2026/
+### The 10 Best Books in Brandon Sanderson's Cosmere Universe, Ranked
+Sat, 19 Sep 2026 12:20:11 GMT — https://collider.com/best-cosmere-books-brandon-sanderson-ranked/
 
-Do you know what unites Orson Welles , David Lynch , Sidney Lumet , and Jordan Peele ? Each of them made their directorial debuts with movies that are now considered all-time classics. More recently, this list can easily be expanded to include Ari Aster , Celine Song , Charlotte Wells , and Emerald Fennell . However, one filmmaker is often overlooked in discussions on this topic, or, on other occasions, is treated like a token candidate from an exotic foreign land. The filmmaker in question made his directorial debut in 1955, and his work has been hugely influential on the careers of directors such as Wes Anderson . His first movie was also the first installment of a trilogy, and it is currently streaming in the United States on HBO Max.
+The Cosmere is a shared literary universe of fantasy literature created by acclaimed author Brandon Sanderson . The ongoing series debuted in 2005 with Elantris , Sanderson's debut novel. The series currently consists of approximately 30 short stories, novellas, novels, and even a graphic novel. It's super popular and is still ongoing, with the conclusion not expected for at least a few decades. Clearly, it's quite a massive project that Sanderson has planned.
 
-### Narnia Officially Returns for 2026 Release Ahead of Netflix Reboot
-Sat, 19 Sep 2026 02:30:12 GMT — https://collider.com/chronicles-of-narnia-trilogy-blu-ray-release-date-october-2026/
+### This 110-Minute 'Quiet Place' Replacement Is a Streaming Smash
+Sat, 19 Sep 2026 12:05:12 GMT — https://collider.com/homestead-neal-mcdonough-a-quiet-place-streaming-paramount-plus-september-2026/
 
-Fantasy stories have long held a special place in popular culture. Their sprawling magical worlds, mythical creatures, heroes, and epic battles give audiences an escape into captivating worlds where their imaginations come alive. Franchises like Harry Potter , The Lord of the Rings , and George R.R. Martin 's A Song of Ice and Fire have created some of the most memorable fantasy worlds in literature. With their rich worlds and endless storytelling possibilities, fantasy has continued to evolve, giving newer generations fresh takes on beloved classics. Fantasy lovers are particularly in for a treat in the not-too-distant future as several classics are getting new reimaginings. Among them is an underrated yet beloved title getting a Netflix reboot.
+For those hoping to see more crossover between the neo-Western genre and post-apocalyptic survival flicks, head on over to Paramount+. Not only is the streamer the best outlet for modern horse operas these days, but its connection to Showtime means that it offers some additional content that would otherwise be difficult to find on digital platforms. The Neal McDonough -led feature Homestead is one such film that was just added to the streaming outlet, where it has found streaming success , trending at the #4 spot in the Top 10 Movies just this week — and fans have seemingly noticed.
 
-### Harlan Coben’s New Netflix Thriller Officially Sets New Record
-Sat, 19 Sep 2026 02:15:11 GMT — https://collider.com/harlan-coben-i-will-find-you-netflix-record-september-2026/
+### 10 Whodunit Books That Are Page-Turners From Start to Finish
+Sat, 19 Sep 2026 12:02:11 GMT — https://collider.com/whodunit-books-page-turners-start-to-finish/
 
-In Harlan Coben 's latest Netflix thriller, a father takes a massive risk for a big reward. David Borroughs ( Sam Worthington ) has been serving a sentence for the murder of his son. Many believe he's guilty, but his sister-in-law Rachel ( Britt Lower ) has never bought that narrative and has been working to prove that her nephew is alive. And when she brings evidence that David's son might be alive, it lights a fire under the father, who breaks out of prison to find him. David's journey puts him in the crosshairs of shadowy organizations, and not only must he survive them, but law enforcement is also in tow.
+Your phone lights up on your nightstand, revealing the time: 12:48 a.m. You’d planned to sleep hours earlier, but you can’t. The sliding of one page over another is the only sound stabbing through the night’s silence. Adrenaline is pulsing in your ears. Just a few more pages , a recycled lie you tell yourself as you glance at the time. When you hit the end of the chapter, the airtight alibi that’s driven the last 50 pages is now singing with the wind. And you realize the writer has manipulated you once again to continue on.
 
-### Netflix Officially Has a New Global Hit on Their Hands
-Sat, 19 Sep 2026 02:00:21 GMT — https://collider.com/netflix-thriller-gandhari-streaming-success-september-2026/
+### Tom Hardy's Bonkers Sci-Fi Thriller Officially Surges on Streaming
+Sat, 19 Sep 2026 12:00:11 GMT — https://collider.com/tom-hardy-inception-streaming-success-vod-september-2026/
 
-Tapsee Pannu has become an undisputed face for Bollywood on Netflix . She has starred in around 40 titles, and of that total career filmography, about 12 of her major titles have been hosted on Netflix globally or regionally over the years. This includes her direct-to-OTT Netflix Originals like Haseen Dillruba, Phir Aayi Hasseen Dillruba, Looop Lapeta, and her latest action thriller that has now raked in 9.6 million views on Netflix within its first two weeks.
+Tom Hardy has built an unshakable name for himself as one of the most formidable action stars in Hollywood, and one of his most notable thrillers is taking off on streaming yet again. Hardy has become widely known and loved in the last few years for his performance as Eddie Brock in the Venom movies, but after Venom: The Last Dance in 2024, it appears that he has left the Spider-Man character behind. Hardy is also famous for his work starring in one of the most celebrated sci-fi movies of all time, Mad Max: Fury Road , which recently received a prequel film, Furiosa , starring Anya Taylor-Joy . Tom Hardy fans have a lot to be excited about this week, also, with the premiere of MobLand Season 2, co-starring Pierce Brosnan and Helen Mirren .
 
-### 'Merlin' Meets 'Percy Jackson and the Olympians' in Hulu's 2-Part Fantasy Thriller
-Sat, 19 Sep 2026 01:55:11 GMT — https://collider.com/atlantis-bbc-merlin-meets-percy-jackson-and-the-olympians/
+### 'Furious' Scene-Stealer Teams Up With Gillian Anderson for an Emotional and Ambitious Miniseries | Review
+Sat, 19 Sep 2026 12:00:11 GMT — https://collider.com/trespasses-review-lola-petticrew-gillian-anderson/
 
-Fantasy is more prevalent on TV now than ever, with fan-favorite series ranging from A Knight of the Seven Kingdoms to One Piece expanding the genre. Yet, while these releases are exciting, many older series deserve just as much attention, including those too often forgotten. Among such shows is the 2013 BBC series Atlantis . Combining Merlin ' s humor with Percy Jackson and the Olympians ' unique take on Greek mythology, Atlantis is an unforgettable series for those looking for something new. The story features a lovable trio, constant adventure, and plenty of laughs. With only 25 episodes, Atlantis is an easy watch and perfect for fantasy fans who want a more lighthearted story for a change.
+After almost a decade of playing supporting parts in lesser-known projects, Lola Petticrew's career has picked up speed with the propulsive intensity of a rocket launched into space . The past two years saw Petticrew first garner widespread praise and award nominations for their exceptional starring turn in 2024's historical miniseries Say Nothing . Prominent acclaim again followed their co-leading role in this summer's Furious , to the point that the Hulu show's first season seems poised to become the actor's mainstream breakout.
 

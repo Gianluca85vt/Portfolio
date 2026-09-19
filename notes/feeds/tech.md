@@ -1,6 +1,16 @@
-# Tech — harvested 2026-09-19T08:58:35.649Z
+# Tech — harvested 2026-09-19T13:59:19.137Z
 
 ## Ars Technica
+
+### Learning another language may be one of the best ways to keep your brain healthy
+Sat, 19 Sep 2026 11:10:43 +0000 — https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/
+
+Learning another language is a highly complex mental activity . It requires people to remember words, distinguish unfamiliar sounds, recognize patterns, work out grammatical rules, and retrieve the right expression at the right moment. All of this happens while listening, interpreting, and preparing a response. Could all this mental activity also help keep an aging brain healthier ? Research suggests it can . Concerns about memory and dementia can send aging adults looking for ways to exercise their brain and maintain cognitive function, whether it is solving crossword puzzles or playing a musical instrument. Language learning might not seem like the same kind of brain exercise, but it is a complex activity that engages several mental processes at once. Read full article Comments ]]>
+
+### Rings around a tiny body have changed over the past decade
+Sat, 19 Sep 2026 10:00:06 +0000 — https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/
+
+For decades, astronomers thought rings were something only giant planets had. That changed in 2013, when a small, dark body orbiting between Saturn and Uranus passed in front of a star and blinked twice on either side of the main event, revealing two narrow rings around an object barely 250 kilometers across. “It was a surprise,” says Pablo Santos-Sanz, an astronomer at the Instituto de Astrofísica de Andalucía in Granada, Spain. Ever since, the question has been what such rings are made of and how long they can last. In a recent study, Santos-Sanz and his colleagues used the James Webb Space Telescope to watch the same body, now known as Chariklo, pass in front of a background star again. They found one of its rings had grown denser and the other had almost vanished. We don’t know exactly why. Shadowing a star The technique behind the observation is simple. “We predict when a Solar System object passes in front of a star,” Santos-Sanz said. The starlight dims for a moment, and the shape of that dip reveals the size, shape, and surroundings of the object that caused it. “This is particularly challenging for minor bodies, and more challenging for distant minor bodies,” he said. Read full article Comments ]]>
 
 ### AI hallucination of Chinese nuclear components almost led to US military attack
 Fri, 18 Sep 2026 20:26:33 +0000 — https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/
@@ -52,17 +62,17 @@ Thu, 17 Sep 2026 22:12:58 +0000 — https://arstechnica.com/ai/2026/09/nato-back
 
 As European militaries adapt to the use of AI and drones in modern warfare, a NATO-backed startup is helping to deploy AI-driven target detection and selection that can run on small drones for surveillance and attack missions. The company, Scaleout Systems, was originally founded by researchers from Uppsala University in Sweden in 2018, and initially focused on training and deploying machine learning models directly on the hardware available in commercial trucks and other vehicles. But once Russia launched its full-scale invasion of Ukraine in 2022, the company pivoted toward defense applications. “With the war in Ukraine and a shifting world, we realized that this technology can be very important to operationalize edge data and sensor data for machine learning to make sure that NATO allies have found that strategic advantage,” Andreas Hellander, cofounder and CEO of Scaleout Systems, told Ars. Read full article Comments ]]>
 
-### Google announces new experimental "CC" AI agent for families
-Thu, 17 Sep 2026 20:24:34 +0000 — https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/
-
-Google's AI models may not be in the lead by most measures right now, but the company does have one key advantage: your data. If you're deep in the Google ecosystem, Gemini models have a lot of context on you already. Google's latest Google Labs experiment, known as CC , aims to expand that kind of customization to the whole family. CC is an evolution of something that Google announced in 2025. The original CC eventually became Gemini's Daily Brief, which churns through the data in your Google account to offer daily action items and suggestions. The new CC has a similar goal, but it's designed to be a shared resource for up to six users in a family. Google says that CC has its own Google account, allowing each family member to interact with it (or not) as they choose. For example, CC only sees emails from its connected users if they are explicitly shared. You can do that by designating certain addresses as always available to the agent—something like school scheduling emails. You can also send content to CC via email or Google Chat. The agent can even monitor a shared Google Drive folder, into which you can dump invitations, documents, and other content. Read full article Comments ]]>
-
-### Microsoft exec called AI scraping the “largest theft of labor in human history”
-Thu, 17 Sep 2026 20:10:41 +0000 — https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/
-
-For years, Microsoft and OpenAI have fought to keep certain information out of the public eye in their fight with news organizations that have accused the AI firms of teaming up to violate copyright laws by stealing tons of news content to train AI. However, now the details that should never have been marked confidential are starting to leak. In a motion for summary judgment that was unsealed Thursday from news plaintiffs led by The New York Times, internal documents are exposed that news groups alleged show exactly how Microsoft and OpenAI viewed the threat to news before unleashing new AI products like ChatGPT and Copilot. Perhaps most explosively, Microsoft Director of Applied Science Brent Hecht repeatedly warned in documents that scraping news for AI training was “an astonishing theft of unprecedented proportions,” calling it perhaps the “largest theft of labor in human history,” news orgs said. In another document, Hecht contradicted Microsoft and OpenAI’s argument that training AI on news content is fair use, suggesting that the plan to widely scrape news made “a complete mockery of the idea of ‘fair use.’” Read full article Comments ]]>
-
 ## The Verge
+
+### It’s not just LG. Every TV company is spying on you
+2026-09-19T09:00:00-04:00 — https://www.theverge.com/tech/997682/every-tv-company-is-spying
+
+The TV in your living room knows more about you than you realize. | Photo by John Higgins / The Verge The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everything you watch, and could even be hacked remotely and turned into covert surveillance devices. LG TV owners, and tech enthusiasts in general, are furious, and a hurried response from LG has done little to calm the situation. Some of the claims in the video may be based on speculation and assumptions, but many of the core concerns are real and pervasive. While LG was the focus of the video, every TV company … Read the full story at The Verge. ]]>
+
+### The AI regulation smackdown isn’t over
+2026-09-19T09:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over
+
+At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge. ]]>
 
 ### OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web
 2026-09-18T17:07:24-04:00 — https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero
@@ -104,19 +114,49 @@ A team of three independent security researchers at Hacktron says it took less t
 
 The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, and Abu Dhabi to own 49.5 percent of the company. During Brendan Carr's tenure, the FCC has repeatedly threatened ABC , tried to block stations from airing interviews with Democrats, censored late-night TV hosts, and tried to bully journalists . However, it seems to have no qualms with repressive foreign governments owning a significant stake in a giant American media conglomerate. In its ruling, the FCC defended the decisio … Read the full story at The Verge. ]]>
 
-### Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy
-2026-09-18T10:51:26-04:00 — https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale
-
-Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy , where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus 16GB of DDR5 RAM and a 1TB SSD. The specs are about the best you can get these days for $1,000, as worthwhile laptop deals are in short supply during RAMageddon. Lenovo Yoga Slim 7x Where to Buy: $1649.99 $999.99 at Best Buy The Yoga Slim 7X seems like a great alternative to spending more (and getting less) with Microsoft’s latest Surface Laptop. In fact, you’d spend $1,549 on a similar model and still get half the storage that’s in this particular Yoga Slim 7X configuration. Its Arm-based processor can run most Windows apps very well, and yields superior battery life compared to laptops with x86 processors. The laptop includes three USB-C ports, and a hardware switch for disabling the webcam. It supports Wi-Fi 7 and Bluetooth 5.3. It seems like a great machine for work, watching movies, or playing some games that aren’t too graphically intensive. More great Verge-approved deals The PlayStation 5 version of Starfield hasn’t been available for as long as the Xbox and PC version, so it’s been a little slower to see major discounts. However, it recently hit $29.99 (originally $49.99) at Amazon and Best Buy , making now a good time to pick up the RPG. While Starfield didn’t have near
-
-### This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket
-2026-09-18T10:41:18-04:00 — https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge
-
-FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and Game Boy Color so it isn't as capable as the Analogue Pocket that's also compatible with the GBA and Sega Game Gear. What still makes the FPGB Mini a tempting alternative is its extremely pocketable design resulting in a handheld only slightly wider than a Game Boy cartridge, and its cheaper price. Following recent price hikes the Analogue Pocket is now $239.99 while the FPGB Mini is currently discounted from $89.99 to $69. … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
 
-### AMD shares first official benchmarks for EPYC 'Venice' CPUs, targets Nvidia — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core
+### Father loses job over 9-year-old spending $118,000 on Minecraft YouTube ads using his company's credit card — 'I’m going to be working until I’m like 94,' refuses to set up GoFundMe or put up crypto coin to help repay massive bill
+Sat, 19 Sep 2026 13:37:12 +0000 — https://www.tomshardware.com/video-games/father-loses-job-over-9-year-old-spending-usd118-000-on-youtube-ads-using-his-companys-credit-card-refuses-to-set-up-gofundme-or-put-up-crypto-coin-to-help-repay-massive-bill
+
+A 9-year-old Minecraft player called MightyMikePLays67 unknowingly spent a massive $118,000 on their dad’s company credit card to promote their YouTube channel. The father, Dave, gave a lengthy update on the YouTube channel , saying he’s lost his job and has to pay the amount within 30 days. Interestingly, he’s had no issues with losing work, saying that “jobs come and go. I’ve worked my whole life; I’ll find another job… I’ve got two hands, I’m healthy, I’m capable of working. So, if losing my job was the worst that came out of this, I’d honestly probably be okay.” Unfortunately, he’s still on the hook for the massive bill, and it's gotten to the point where he and his wife are talking about selling their home to help pay for it. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC Despite the depressing development, Dave and Mike were still about to joke around a bit about it. After Dave thanked his son for bringing him some water, Mike answered, “67.” He then asked, “Mike, do you even know what 67 means?” To which the kid replied, “To say the least, I do not know what it means, but I think it doesn’t mean anything. It’s just something that makes people laugh and smile.” The dad then replied, “Yeah, I would have to agree with that, Mi
+
+### Acer Nitro XV273U F5 gaming monitor review: One of the fastest LCDs on the planet
+Sat, 19 Sep 2026 13:00:00 +0000 — https://www.tomshardware.com/monitors/gaming-monitors/acer-nitro-xv273u-f5-27-inch-qhd-540-hz-gaming-monitor-review
+
+The number 1,000 is a benchmark goal in many disciplines. You know a car is special when it has 1,000 horsepower. An amplifier reaches a different level when it can output 1,000 watts. In computer monitor parlance, 1,000 Hz or 1 kHz is also a plateau. Remember that TVs and most displays max out at 60 Hz. But the best gaming monitors , in pursuit of higher frame rates and smoother motion, have been getting faster with each new generation. I’ve reviewed several 500 Hz monitors, mostly LCDs, with a few OLEDs sprinkled in. But currently on my desk is Acer’s Nitro XV273U F5, which has a 1,000 Hz mode. And before I get to the caveat, know that it can refresh its screen at 540 Hz in QHD 2560x1440 resolution, so even without trickery, it’s one of the fastest flat panels you can buy. This 27-inch IPS display also features Adaptive-Sync , HDR 600, and wide gamut color. Let’s take a look. Acer Nitro XV273U F5 Specs Panel Type / Backlight IPS / W-LED, edge array Screen Size / Aspect Ratio 27 inches / 16:9 Max Resolution and Refresh Rate 2560x1440 @ 540 Hz 1280x720 @ 1,000 Hz FreeSync and G-Sync Compatible Native Color Depth and Gamut 10-bit (8-bit+FRC) / DCI-P3 Response Time (GTG) 1ms Brightness (mfr) 400 nits, 600 nits peak HDR Contrast (mfr) 1,000:1 Speakers 2x 2w Video Inputs 2x DisplayPort 1.4 2x HDMI 2.1 Audio 3.5mm headphone output USB None Power Consumption 36.5w, brightness @ 200 nits Panel Dimensions WxHxD w/base 24.3 x 15.6-21.5 x 8.3 inches (617 x 396-546 x 211mm) Panel Thickn
+
+### Researchers create DNA computer that performs 100-bit calculations without electricity — molecular system uses self-assembling strands to perform computing
+Sat, 19 Sep 2026 12:30:00 +0000 — https://www.tomshardware.com/tech-industry/researchers-create-dna-computer-that-performs-100-bit-calculations-without-electricity-molecular-system-uses-self-assembling-strands-to-perform-computing
+
+A team of researchers at Maynooth University, Ireland, has created a “first-of-its-kind” DNA molecular computer that uses DNA strands to perform complex mathematical operations without electricity. Detailed in the journal Nature on September 16, the system — called a Scaffolded DNA Computer (SDC) — is one of the most complex and fastest molecular computers, and “points to new possibilities for long-term data storage, energy-efficient computation and, in time, molecular systems that could operate inside cells for applications such as disease detection,” according to the researchers. The system successfully executed 10 different molecular programs, including complex 100-bit calculations. The researchers designed the computer via a technique known as DNA origami. Using specialized software, they mapped out a long primary DNA strand and hundreds of shorter, custom-synthesized “staple” strands. They then added the physical DNA strands to a test tube containing a drop of water and salt. When they heated and then cooled the mixture, the strands self-assembled into a highly organized, microscopic computing grid, with the long strand acting as a structural scaffold. Traditional silicon computers use transistors to switch electrical voltages between 1 and 0. On the other hand, the molecular computer uses the binding and unbinding of genetic base pairs (A, T, C, and G) to process information. The researchers write the program into the DNA sequences themselves before putting them into th
+
+### This week on Tom's Hardware Premium: September 19, 2026 — Steam Frame interview, killer AI models, and the DRAM crisis deepens
+Sat, 19 Sep 2026 12:00:00 +0000 — https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-september-19-2026-steam-frame-interview-killer-ai-models-and-the-dram-crisis-deepens
+
+It's been quite a week over on Tom's Hardware Premium : let's go through all of the articles that we've published throughout this week so far. Kicking things off with a bang, Valve officially released the Steam Frame, its latest VR headset, which adds functionality that allows the headset to act as both a standalone and PC VR headset. Our VR expert Brandon Hill reviewed the headset itself and managed to interview the engineers at Valve about their efforts on the new hardware and the software powering the company's next generation of Virtual Reality. Valve Steam Frame interview — why it costs up to $1,300, Snapdragon power, and 10x foveated streaming Reporter Chris Stokel-Walker investigated the deepening DRAM and NAND crisis, honing in on how SLC and NOR Flash are the next products that have been affected by the ongoing demand for AI. Featuring expert interviews and a grim outlook on the electronics the world relies on, he explored how the ongoing data center gold rush is leaving other supply chains decimated in its wake. NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics Nanya-backed company PieceMakers debuted on Taiwan's stock market this week, making a bold bet that it's not just HBM that's useful for integration in AI devices. Instead, the company offers a different look at how hybrid-bonded chips might also be useful for inference chips. We've broken down exactly ho
+
+### Fully custom copper PC features upcycled blowtorch reservoir — antique wooden pedestal complements steampunk design hiding a Ryzen 7 9800X3D, RX 9070 XT
+Sat, 19 Sep 2026 11:30:00 +0000 — https://www.tomshardware.com/desktops/pc-building/fully-custom-copper-pc-features-upcycled-blowtorch-reservoir-antique-wooden-pedestal-complements-steampunk-design-hiding-a-ryzen-7-9800x3d-rx-9070-xt
+
+A PC enthusiast has showcased their new all-AMD build on social media, packing a Ryzen 7 9800X3D and Radeon RX 9070 XT . That’s an awesome combo to behold, paired with 32GB DDR5-6000 during the AI-RAM-pocalypse . However, this build has become headlineworthy entirely due to its steampunk-inspired aesthetics. If Thomas Edison and George Stephenson had teamed up to build a gaming PC, it might have looked like this. Meanwhile, the weight of Redditor voting suggests that most think it looks like some kind of espresso coffee machine. Custom Copper 9070xt, 9800x3d Build from r/pcmasterrace The crafty PC builder behind this new battlestation is Old-Mate-Fetus. Key to its visual appeal is the extensive use of copper cooling apparatus and wood. The images clearly show this open-build PC made with a custom liquid loop using copper pipes, elbow joints, and welds. These pipes meander around the build, feeding the Alphacool GPU block, the Heatkiller IV CPU block, and circulating around a large radiator up top. A copper design feature that really stands out, though, is the “reservoir made from an old Primus Blowtorch with sight gauge fitted to it.” Nice. Old-Mate-Fetus sits the PC on a base/backing frame they also handmade using a dark hardwood with an antique finish, and brass screws. We can’t see it in the photos, so it's probably pretty safe to guess that the Corsair 850W SFX power supply is hidden in the wood base. The builder says that they also made custom cables from the PSU to the 
+
+### Elon Musk's Terafab hits a roadblock before making a single chip, receives cease-and-desist order — firm files trademark lawsuit, has sold Tera-Fab-branded lithography tools for over a decade
+Sat, 19 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-hits-a-roadblock-before-making-a-single-chip-receives-cease-and-desist-order-firm-files-trademark-lawsuit-has-sold-tera-fab-branded-lithography-tools-for-over-a-decade
+
+In an unexpected turn of events, Terafab has faced an odd roadblock as a small U.S.-based company called Tera-Print sent a cease-and-desist letter to SpaceX and Tesla back in May to stop using the Terafab name. The company with tera-scale ambitions has run into a tabletop-sized problem because the Tera-Fab name has already been used for about a decade by Tera-Print, according to PCMag . As it turns out, Tera-Print sells tabletop-sized Tera-Fab-branded beam pen lithography (BPL) tools primarily aimed at bioengineering and prototyping of microfluidic devices and has used the brand for about a decade. The U.S. Department of Defense appears to be a client of Tera-print, which uses Tera-Fab. While Tera-print claims that the Terafab name could be confused with its Tera-Fab product family, Tesla, SpaceX, and SpaceXAI counter that the operations are fundamentally different: Terafab is set to produce chips in extremely high volumes to serve AI, automotive, robotics, and eventually (at least some) space applications, whereas Tera-print's Tera-Fab is a compact lithography tool that can be used for bioengineering or prototyping of electronic or optical devices. Formally, the trademark coverage puts both names into the same semiconductor technology bucket, albeit with different descriptions: Tesla's Terafab covers 'custom manufacture of semiconductor chips, memory chips, integrated circuits, and wafers' (IC 040) as well as 'distribution services, namely, delivery of semiconductor chips, c
+
+### Intel suspends bug bounty program that paid up to $100,000 per flaw — new Intigriti disclosure program offers no rewards
+Sat, 19 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/intel-suspends-bug-bounty-program-that-paid-up-to-usd100-000-per-flaw-new-intigriti-disclosure-program-offers-no-rewards
+
+Phoronix reported that Intel appears to have suspended its bounty program that once paid up to $100,000 per bug. Intel’s replacement for the Intigriti program offers no rewards, and no reason was given for the change. The Intigriti site states that it “is a responsible disclosure program without bounties,” confirming the report. A check of the site shows that the bounty board is still up but lists the program as suspended. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent Intel’s site still lists details on the bug bounty program with awards that range “from $500 up to $100,000, based on quality of the report” and other factors. This program launched, invite-only, in 2017, and became open to all researchers in 2018, covering software, hardware, firmware, and open-source projects. Almost half of the CVEs Intel addressed in 2020, 105 out of 231, arrived through the bounty program, Intel said. The old bounty board split vulnerabilities into four tiers, which were priced accordingly: Tier 1 from $2,000 to $100,000, Tier 2 $1,000 to $30,000, Tier 3 $500 to $10,000, and Tier 4 $250 to $5,000. Intel expanded the pro
+
+### Enthusiast digs into CPU substrate for surgery to replace ripped-off data pin — resurrected chip boots and hits 33% overclock
+Sat, 19 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/pc-components/cpus/enthusiast-digs-into-cpu-substrate-to-replace-ripped-off-data-pin-resurrected-chip-boots-and-hits-33-percent-overclock
+
+An Intel Celeron 1200 ( Tualatin ) was revived from the dead following an intricate bit of repair work by Bits und Bolts. The quarter-century-old chip looked like it had a fatal injury, with one of the pins missing and the underlying pad ripped off. As things stood, a system with this close relative of the Pentium III installed simply wouldn’t boot. However, thanks to careful digging “deep into the substrate” and some delicate preparation work, the enthusiast managed to solder on a donor pin and get this CPU running again – and then overclocked it by 33%. As the Celeron 1200’s missing pin was a data pin (D47), this was a definite fix-or-be-damned situation. Sometimes CPUs can have a pin or two missing, and they will work anyway. I’ve seen CPUs shrug off such missing connections when several remaining pins duplicate a function – power or ground pins, for example. Bits und Bolts started the repair process with a close-up of the serious-looking damage. Then we see the missing pin area after they have apparently “dug a hole” so that the work/issue can be seen more clearly. Zoomed-in images show that there were several layers of copper exposed from under the green surface. The new pin must be connected solely to the central circular area you can see, and not accidentally connect with any of the copper planes surrounding it. Thus, the TechTuber started by applying solder mask to this area. Remember, these pins are very small, and it would have been an intricate job to mask the surr
+
+### AMD targets Nvidia with first official benchmarks for EPYC 'Venice' CPUs — company claims 256-core chip is more than twice as fast as Nvidia Vera, 96-core model 20% faster per-core
 Fri, 18 Sep 2026 21:51:29 +0000 — https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core
 
 Following the launch of AMD's EPYC 'Venice' CPUs in July , AMD extended the performance claims for its upcoming generation of server chips on Friday. The high-level claim hasn't changed. AMD still says a 96-core, high-frequency Venice chip is around 20% faster than Nvidia's 88-core Vera in SPEC CPU 2026's Integer Rate test. However, the company went into far greater detail about the benchmarks in a new white paper . Tom's Hardware Premium Roadmaps (Image credit: Future) Leading-edge foundry roadmaps Nvidia Enterprise GPU and CPU roadmap AMD's Enterprise GPU and CPU roadmap Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push Co-Packaged Optics (CPO) foundry roadmaps There are several configuration differences depending on the benchmark throughout AMD's white paper, and although we'll call out those differences here to the best of our ability, we don't have all of the details. For the Vera comparison, in particular, AMD is mixing data from different sources, and in some cases, using different major releases of the GNU Compiler Collection (GCC). That can have a substantial impact on performance, so keep your salt shaker handy. (Image credit: AMD) First up are results in SPEC CPU 2026 with the intrate test, looking at total throughput. These are older numbers, gathered in July with GCC 15.2. The intrate test runs multiple copies of an application on the same CPU, and the SOP is to run one copy per thread. Presumably, that's what AMD did here, but the 
@@ -136,47 +176,32 @@ Fri, 18 Sep 2026 15:34:02 +0000 — https://www.tomshardware.com/pc-components/s
 
 A new report claims Chinese DRAM champion CXMT is eyeing production of 3D NAND memory. Reuters reports, citing three people familiar with the company's plans, that CXMT intends to build a 3D NAND R&D production line at its second manufacturing facility near Beijing. There is no information on when the experimental production line will become operational, though, given that CXMT's second Beijing fab has not even broken ground yet, the line is at least two or three years away. In addition, the memory maker has established a research institute in Beijing that has NAND flash development among its projects, according to one source. CXMT has not formally confirmed any 3D NAND initiatives, so the information should be taken with a grain of salt. Go deeper with TH Premium: Memory (Image credit: SK Hynix) AI data centers are swallowing the world's memory and storage supply Samsung debuts three next-generation memory technologies for AI data centers The future of DRAM: From DDR5 to future ICs High-bandwidth memory roadmap Inside the history of DRAM price-fixing lawsuits For now, there are no details on CXMT's 3D NAND architecture, number of active layers, process technology, expected performance, or production capacity. Nevertheless, the report claims that CXMT has already discussed its NAND ambitions with prospective customers. One of them is said to be a recently established company that plans to use CXMT-made NAND devices in storage products aimed at AI and supercomputing applicatio
 
-### House passes act to make AI data centers pay for grid upgrades to minimize impact on residents — measure directs states to consider adoption of federal standard within two years of passing
-Fri, 18 Sep 2026 15:20:43 +0000 — https://www.tomshardware.com/tech-industry/data-centers/house-passes-act-to-make-ai-data-centers-pay-for-grid-upgrades-to-minimize-impact-on-residents-measure-directs-states-to-consider-adoption-of-federal-standard-within-two-years-of-passing
-
-The U.S. House of Representatives just passed a bill that creates a federal standard requiring data centers to pay for grid upgrades made in their favor. H.R. 9340, also known as the Ratepayer Protection Act , amends the Public Utility Regulatory Policies Act of 1978, which would require each State regulatory authority and each non-regulated electric utility to consider the adoption of the bill within two years of its passing, if it is signed into law. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible This bill would ensure that data centers with a capacity of 100 megawatts or more would have to pay “the full, incremental cost of any generation, transmission, or distribution upgrade necessary to serve the load of such large-load customer, including in the event of such large-load customer terminating a contract or other agreement with the electric utility pertaining to the sale of electric energy, or otherwise ceasing the purchase of electric energy from the electric utility.” This bill closely follows President Donald Trump’s “Ratepayer Protection Pledge,” where he made AI hyperscalers, utility providers
-
-### NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics
-Fri, 18 Sep 2026 14:38:22 +0000 — https://www.tomshardware.com/pc-components/dram/nor-flash-and-slc-nand-production-are-under-threat-as-capacity-gets-routed-to-more-profitable-products-severe-undersupply-threatens-everyday-electronics
-
-The memory chip that makes a router remember how to be a router is a world away from the sleek GPUs that are attracting eye-popping investments and alarming valuations, as well as sending stock markets shooting upwards. They’re small, historically have been cheap, and are based on technology that has been around for years. But despite being a world away from GPUs, the price of these often overlooked chips is skyrocketing, thanks to the all-encompassing memory price crisis caused by the AI boom. While public and press attention has focused on the expensive chips, there’s an equally large impact beginning to be felt on older, less attractive memory chips. HBM is vital for AI accelerators, while DRAM and high-capacity NAND are being swallowed up by rapidly expanding data centres. A June report from Morgan Stanley reckons memory prices have risen more than sixfold over the last year, breaking with decades in which memory became steadily cheaper as production increased. It’s not just HBM and DRAM that’s being affected. The crunch is also spreading down into much older forms of memory, including NOR flash and single-level cell, or SLC, NAND . Morgan Stanley expects NOR flash to remain undersupplied through 2026, while JPMorgan has warned its forecasts don’t fully capture a potential supply crunch in SLC NAND. The effects are already showing up in prices. TrendForce says contract prices for both NOR flash and SLC NAND rose by more than 100% during the first half of 2026 , while it e
-
-### Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase — attackers initiated a 'harmless' pull request as proof of the hack
-Fri, 18 Sep 2026 13:45:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack
-
-A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools. In an X post on September 18, the team claimed they breached OpenAI's internal codebase on July 25 and gained access to the ChatGPT and Codex accounts of some OpenAI employees. They established proof of the hack via a pull request to OpenAI's private repository before reporting the vulnerabilities to OpenAI. The company reportedly fixed the issue within 14 hours of the report and paid the researchers a $6,500 bounty. On July 25, our team hacked OpenAI. It took us less than 72 hours.Two vulnerabilities chained together gave us access to ChatGPT and Codex accounts belonging to OpenAI employees. We demonstrated the impact with a harmless PR in OpenAI’s internal monorepo.The full chain:… September 18, 2026 Operating as hackers under OpenAI’s bug bounty program, Hacktron researchers uncovered critical vulnerabilities that granted them access to internal employee tools and the ability to compromise private software repositories. The researchers exploited a single sign-on (SSO) misconfiguration and a Remote Code Execution (RCE) flaw in Discourse, a third-party platform that powers OpenAI’s community discussion forum. The chain of attack was as follows: HEIF upload → libheif heap overflow → RCE → OpenAI SSO flaw → ChatGPT/Codex takeover → connected GitHub → internal PR. First, the researchers uploaded a malicious HEIF (High Efficiency Image File) image to the forum as 
-
-### AI developer vibe codes DLSS 5 onto Intel CPU's integrated graphics — Intel Arc 140T runs neural rendering in 360p at 10 frames per second
-Fri, 18 Sep 2026 13:15:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-vibe-codes-dlss-5-onto-intel-arc-140t-integrated-graphics-run-neural-rendering-in-360p-at-10-frames-per-second
-
-A new project on GitHub, simply titled " dlss-nr-on-intel ", purports to provide exactly that: a port of NVIDIA's DLSS 5 Neural Rendering to Intel's Xe architecture. Specifically, the author (who goes by "Uzbekunknown") focused on porting the technology to the Intel Arc 140V graphics in his Lunar Lake system, and they seem to have succeeded, at least insofar as he's getting outputs that look reasonably like those of DLSS 5 on other hardware . AI is at the center of this project, beyond the DLSS 5 neural rendering technique itself. Uzbekunknown credits Anthropic's Claude as well as OpenAI's GPT-6 Astra with the code and says that they "supplied the machine, the binary, and the direction, and made the decisions", while the AI agents did everything else. Amusingly, they note that "the wrong turns are in the notes, too, deliberately," including a hallucinated driver bug that does not exist and shaped three phases of development. The end result, rather than being a wrapper around the DLSS 5 DLL as many other hacks have been , fully reimplements the 71-block U-Net that DLSS 5 uses and then runs it on the Intel Xe XMX units through a Vulkan extension called VK_KHR_cooperative_matrix. It's entirely run in FP16 with FP32 accumulate, because Xe2 doesn't support FP8. You can run the model on anything presenting its output through Vulkan, and the user presents proof-of-concept results from three fighting games: Dead or Alive 5 Last Round , Tekken 7 , and Mortal Kombat 1 . While DLSS 5 ad
-
-### Control Resonant PC performance tested: 28 GPUs take us back to the Oldest House and a warped Manhattan cityscape
-Fri, 18 Sep 2026 13:01:36 +0000 — https://www.tomshardware.com/video-games/pc-gaming/control-resonant-pc-performance-tested-28-gpus-take-us-back-to-the-oldest-house-and-a-warped-manhattan-cityscape
-
-2019’s Control followed Jesse Faden into the ever-shifting, paranormally corrupted brutalist innards of the Oldest House, the headquarters of the Federal Bureau of Control, where she became the new FBC director, fought the invading forces of the Hiss, and sought the truth about the fate of her kidnapped brother Dylan. Control Resonant marks the next chapter in the siblings’ story, as Dylan reawakens to discover that Jesse has gone missing and that the Hiss threat has escaped the Oldest House and corrupted Manhattan. Using his own powers and guided by the mysterious Board, Dylan sets out to find Jesse, combat the Hiss incursion, and uncover the mysteries of a new paranormal entity at work in the twisted Manhattan cityscape. We’ve had access to Control Resonant for the past few days, and we’ve been exploring its performance and image quality across a range of hardware and settings. Control was one of the first games to show off the capabilities of GeForce RTX 20-series graphics cards and their ray-tracing capabilities, and it was also one of the first titles to incorporate DLSS upscaling. It’s only fitting, then, that Resonant is a technical showcase of its own. It features path-traced lighting effects bolstered by Nvidia’s RTX Mega Geometry tech, as well as support for the full suite of DLSS 4.5 features: Super Resolution (aka upscaling), Ray Reconstruction, and Multi Frame Generation. With that extensive spread of cutting-edge rendering tech at its disposal, I expected Resona
-
-### Prusa CORE One L+ review: More precise
-Fri, 18 Sep 2026 13:00:00 +0000 — https://www.tomshardware.com/3d-printing/prusa-core-one-l-plus-review
-
-How do you make a really good printer even better? How about a $25 upgrade kit? Recently, Prusa Research rolled out a series of upgrades to the big three : the CORE One, CORE One L, and the XL 3D printers. Since the CORE One L is the newest printer of the batch, it only needed a tweak rather than a full overhaul to earn a “+” designation. No one was surprised by this update, as Josef Prusa has a reputation for upgrading his machines rather than letting them fall by the wayside. In fact, the CORE One L is only the third major variation of Prusa-designed printers since the company was founded in 2012. As we were wrapping up this review, Prusa Research announced the CORE One L+ is now compatible with the Prusa INDX conversion kit , which is $799 for four tools, or $1,079 for eight. We’re currently reviewing the INDX on a standard-size CORE One + (Gen 2), and spoiler alert: it’s running spectacularly. The Prusa CORE One L never left my workshop since its introduction nearly a year ago. In over 1000 hours of hard use, it’s been quietly printing abrasives like carbon and glass fiber, and even a pinch of Prusa Ultra Glow, with no problems. It’s been a real workhorse for practical prints. The “plus” upgrade removes a super annoying flaw that has spoiled an otherwise perfect machine: nozzle wiping failures. Before this upgrade, all Prusa machines would clean the nozzle before bed leveling by tapping the bed, leaving little dots of filament on the plate. When you’re running higher-temp
-
-### Microsoft director called AI scraping ‘the largest theft of labor in human history,’ while OpenAI head brands ChatGPT an ‘existential threat’ to publishers — revelations come from legal briefs filed in NYT lawsuit
-Fri, 18 Sep 2026 12:49:14 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit
-
-The New York Times sued OpenAI and Microsoft for copyright infringement in late 2023, with the case apparently still ongoing almost three years later. Now, the publication’s legal team has asked the court for a summary judgment after it filed a revealing legal brief based on statements and documents from the defendants. According to 404 Media , these documents remain sealed or redacted at the request of both companies, with the revelations showing potentially damaging statements from their leadership, including claims AI scraping is the biggest theft of labor in human history and an existential threat to publishers. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible The brief cited an internal memo dated January 2023 by Microsoft director of Applied Science Brent Hecht, where he allegedly said, “Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions” and also called it “the largest theft of labor in human history.” Another Microsoft document was cited saying, “almost no one intended for content they created t
-
-### US frontier AI companies warn authorities over sophisticated distillation attacks — China warns of 'countermeasures' if America tries to constrain domestic AI models
-Fri, 18 Sep 2026 12:20:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/us-frontier-ai-companies-warn-authorities-over-sophisticated-distillation-attacks-china-warns-of-countermeasures-if-america-tries-to-constrain-domestic-ai-models
-
-The U.S. government and American AI developers are growing increasingly concerned about the effectiveness of so-called distillation attacks against Western Frontier AI models, as Bloomberg reports . This may be helping China and Russia develop AI models with similar capabilities, but at a fraction of the cost and compute requirements. China has publicly rejected these claims, but pledged to enact "countermeasures" if America used the pretext of these allegations to "contain" Chinese developments. Efforts to combat distillation attacks have been ongoing for much of 2026 already, with major Western AI labs pledging to work together against such efforts earlier this year. But even with attempts to detect and prevent distillation, foreign actors have also been purchasing logs of third-party conversations made using legitimate accounts, making it hard to halt the practice entirely. What is a distillation attack? Distillation is an effective method of training smaller language models by feeding them prompts and responses from a more advanced model. By analyzing the outputs of a model and comparing them with the inputs from the user, smaller models can learn to emulate the capabilities and responses of the more intelligent model, without the need to train them in quite the same way. It's speculated that distillation is how Chinese AI developers made such great leaps with Deepseek in 2025 and Kimi K3 in 2026 . They weren't quite as capable as frontier models from Anthropic and OpenAI
-
 ## Phoronix
+
+### Wine-Staging 11.18 Adds New Patches To Further Improve WoW64
+Sat, 19 Sep 2026 09:22:39 -0400 — https://www.phoronix.com/news/Wine-Staging-11.18
+
+Building off yesterday's Wine 11.18 bi-weekly development release is now Wine-Staging 11.18. This experimental flavor of Wine is presently carrying 273 extra patches over that upstream Git state, including some new patches for helping enhance the WoW64 support...
+
+### GNOME OS Turns To Zswap To Deal With OOM Issues, Progress On Geary Email Client Fork
+Sat, 19 Sep 2026 06:38:08 -0400 — https://www.phoronix.com/news/GNOME-OS-Goes-Zswap
+
+In addition to this week's GNOME 51 release were several other exciting developments in the GNOME desktop space...
+
+### Intel Xe Driver For Linux 7.4 Adds vRAM Health Check, Degraded Memory Handling
+Sat, 19 Sep 2026 06:24:15 -0400 — https://www.phoronix.com/news/Intel-Xe-vRAM-Health-Check
+
+Sent out this week were more Intel Xe kernel graphics driver changes targeting the upcoming Linux 7.4 kernel cycle. The theme this week was around dealing with video memory health and also being able to better deal with hardware degraded video RAM...
+
+### KDE Plasma 6.8 Seeing More Polishing & Fixes, Plasma 6.9 Begins Seeing More Activity
+Sat, 19 Sep 2026 06:10:34 -0400 — https://www.phoronix.com/news/Plasma-6.8-Post-Beta-Fixes
+
+Following last week's Plasma 6.8 beta release, KDE desktop developers have spent this week mostly working on bug fixes as well as some early changes toward Plasma 6.9...
+
+### Help Linux Hardware Testing & Reviews Continue While Enjoying Phoronix Without Ads
+Fri, 18 Sep 2026 21:00:00 -0400 — https://www.phoronix.com/news/Phoronix-Oktoberfest-2026
+
+If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused hardware testing...
 
 ### Ubuntu 26.10 Switches To The Linux 7.3 Kernel
 Fri, 18 Sep 2026 20:50:25 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-With-Linux-7.3
@@ -198,11 +223,6 @@ Fri, 18 Sep 2026 12:26:32 -0400 — https://www.phoronix.com/news/Google-Binder-
 
 Google's Binder driver written in the C programming language has long been part of the mainline kernel as the inter-process communication (IPC) mechanism used on Android. The past few years the Binder driver was rewritten in Rust as one of the first "real" drivers in the Rust programming language. The Rust Binder driver was upstreamed in Linux 6.18 and now for the upcoming Linux 7.4 kernel cycle, the old Binder C-based driver is set to be retired...
 
-### Help Linux Hardware Testing & Reviews Continue While Enjoying Phoronix Without Ads
-Fri, 18 Sep 2026 12:00:00 -0400 — https://www.phoronix.com/news/Phoronix-Oktoberfest-2026
-
-If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused hardware testing...
-
 ### Apple Video Decode Driver Posted For Upstream Linux Kernel Review
 Fri, 18 Sep 2026 11:52:30 -0400 — https://www.phoronix.com/news/Apple-Video-Decode-AVD-Linux
 
@@ -218,27 +238,12 @@ Fri, 18 Sep 2026 09:03:06 -0400 — https://www.phoronix.com/news/Linux-FRED-Fix
 
 Recently there have been some bug reports to Mesa around Intel Panther Lake graphics crashing with some games like Red Dead Redemption 2 and Elden Ring crashing or freezing quite quickly. This turns out not to be an Intel Xe3 Arc Graphics B390 driver bug with Panther Lake but rather due to a kernel issue with the new Flexible and Return Event Delivery "FRED" that debuted with the Core Ultra Series 3 processors...
 
-### Ubuntu 26.10 Desktop Adjusting Its Behavior Under Memory Pressure
-Fri, 18 Sep 2026 06:40:00 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-OOM-Adjustments
-
-The Ubuntu 26.10 desktop is adjusting its default out-of-memory (OOM) daemon behavior when dealing with memory pressure on the system...
-
-### Linux Kernel Build Times Ready To Be Significantly Reduced With Latest Patches
-Fri, 18 Sep 2026 06:26:22 -0400 — https://www.phoronix.com/news/Linux-Kbuild-Faster-v3
-
-The past few weeks we have eagerly been following a Linux kernel patch series after AI found some major bottlenecks in the Linux kernel build code. With AI helping to address these bottlenecks, Linux kernel build times are substantially reduced. These optimizations might be ready in time for Linux 7.4 for reducing incremental kernel build times as much as around 70%. This week the latest iteration of these patches were posted by Arm engineer Lorenzo Stoakes...
-
-### AMD Sends In More HDMI FRL Updates For Linux 7.4, Fixes For Upcoming Hardware
-Fri, 18 Sep 2026 06:06:39 -0400 — https://www.phoronix.com/news/More-AMDGPU-For-Linux-7.4
-
-Linux 7.4 is set to be a very exciting holiday gift for AMD Radeon graphics customers. As covered last week on Phoronix, with this next kernel AMD Is enabling HDMI 2.1 support by default now that FreeSync, VRR, and ALLM support is included too. This week another round of AMDGPU kernel graphics driver updates were sent out ahead of the Linux 7.4 merge window in October...
-
-### Intel Appears To End Its Bug Bounty Program
-Fri, 18 Sep 2026 05:54:22 -0400 — https://www.phoronix.com/news/Intel-Bug-Bounty-Program-Ends
-
-Amid a boom of bug reporting in general due to AI/LLMs across the entire software ecosystem, Intel this week appears to have ended its paid bug bounty program. They have (re)launched a new bug reporting program but with the bounties removed...
-
 ## The Register
+
+### AI boom could leave an e-waste trail that wraps 6 times around Earth
+Sat, 19 Sep 2026 15:30:00 +0200 — https://www.theregister.com/off-prem/2026/09/19/ai-boom-could-leave-an-e-waste-trail-that-wraps-6-times-around-earth/5297451
+
+AI infrastructure could generate enough electronic waste by 2050 to fill a line of shipping containers stretching around Earth six times, according to a report that argues existing estimates drastically understate the problem. Previous estimates have focused chiefly on servers and accelerators such as GPUs, which account for just 13 percent of a datacenter's equipment by weight, the report says. Once power, networking, cooling, and other infrastructure are included, the total could be 40 to 60 times higher than the most widely cited academic projections. The report identifies five equipment categories comprising networking, power distribution, backup power systems, servers plus accelerators, and cooling. Together, these add up to about 7,000 metric tons for a reference 100 MW AI bit barn, much of which will have to be replaced when the facility is upgraded, it argues. The report, How Big Is the AI Waste Wave? [PDF], comes from the Basel Action Network (BAN), a nonprofit organization named after the Basel Convention, which controls international movements of hazardous waste and seeks to prevent its transfer from developed to developing countries. BAN's model starts with what the industry says it intends to build and calculates the potential waste implied by that expansion. It estimates that AI infrastructure will generate between 395 million and 617 million tonnes of e-waste from 2025 to 2050. The report says that would fill between 15 million and 23 million shipping container
 
 ### Firefox 156 arrives with a forest of forks in its wake
 Sat, 19 Sep 2026 09:28:00 +0200 — https://www.theregister.com/software/2026/09/19/firefox-156-arrives-with-a-forest-of-forks-in-its-wake/5297194
@@ -295,12 +300,42 @@ Fri, 18 Sep 2026 16:25:00 +0200 — https://www.theregister.com/software/2026/09
 
 KDE's annual conference takes place this weekend at Graz University of Technology in Austria, with an AI-native desktop proposal likely to divide attendees. The KDE project is celebrating its 30th anniversary this year, giving delegates at the Akademy conference in Graz another reason to raise a glass. The conference begins on Saturday, September 19, and registration remains open. Although Xfce 1.0 appeared slightly earlier, its initial releases were proprietary, making what was originally known as the Kool Desktop Environment one of the earliest entirely FOSS desktop environments for Linux. Version 1.0 was released in July 1998. Although created for Linux, KDE software now runs on several other operating systems. The potentially contentious proposal comes in a Sunday afternoon talk entitled What would it take? A lovable, sovereign, AI-native KDE, presented by longtime KDE contributors Eva Brucherseifer and Jan Muehlig. In 2003, they conducted a usability study of the then newly released KDE 3.1. Of the 60 office workers tested, none of whom had prior Linux experience, 87 percent said they enjoyed working with KDE. The talk has three parts: what KDE learned – or failed to learn – from that study; the case for an "AI-native" desktop; and the importance of a sovereign European computing stack. It is the middle section that may ruffle feathers. The outline says: "A desktop that loves you back has to know you. Personal AI has crossed the threshold where the desktop itself can be 
 
-### Microsoft fixes the fix that broke Excel paste – partly
-Fri, 18 Sep 2026 15:22:00 +0200 — https://www.theregister.com/software/2026/09/18/microsoft-fixes-the-fix-that-broke-excel-paste-partly/5297467
-
-Microsoft has issued a partial fix for the Excel bug that causes paste operations to fail. The hotfix applies only to Excel 2016, and Microsoft warns that pasting may still fail in workbooks containing conditional formatting. Earlier in September, Microsoft released a security update for Excel to address remote code execution and information disclosure vulnerabilities. It later acknowledged that the update had introduced another problem: "In Microsoft Excel 2024, 2021, 2019, and 2016, the paste operation might fail silently. "Although users try to paste content, the source remains selected and the destination is unmodified. When this issue occurs, users receive no indication of the failure, such as a beep or error message." Some users could work around the problem with Paste Special, but others had to wait for Microsoft to act. A fix has now arrived – for Excel 2016 only – and it continues to hover rather nervously in the doorway. September has not been kind to Microsoft, its updates, or the emergency updates needed to repair them. The September Windows security update required an out-of-band release to address several problems, but even that left some work unfinished. Certain USB audio devices, for example, could remain silent after the emergency update. Microsoft has since added another problem involving domain-joined devices to its known issues list. While users of newer Excel releases continue to wait, Microsoft has at least repaired another problem introduced by an Augus
-
 ## Engadget
+
+### The best way to check your PC for malware
+Sat, 19 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2257817/best-way-check-pc-malware/
+
+If your PC is slowing down or not behaving as usual, it's worth running through these tips to see if you have malware.
+
+### Google Gemini also escaped its testing environment and hacked three companies
+Sat, 19 Sep 2026 13:05:53 +0000 — https://www.engadget.com/2263198/google-gemini-escaped-testing-environment-hacked-three-companies/
+
+Google's AI model hacked real companies during testing due to a misconfiguration by its testing partner, as well.
+
+### 4 cool projects you can do with Home Assistant on Raspberry Pi
+Sat, 19 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2257816/cool-projects-home-assistant-raspberry-pi/
+
+Smart home automation is more versatile than ever with Home Assistant and a Raspberry Pi. Check out what they can do.
+
+### The pros and cons of using noise cancelling headphones
+Sat, 19 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2257815/noise-cancelling-headphones-pros-and-cons/
+
+Active noise cancellation makes headphones much better, but you should know how it works and what the drawbacks are as well.
+
+### 10 Of The Coolest Japanese Gadgets You'll Almost Never See In The US
+Sat, 19 Sep 2026 12:15:00 +0000 — https://www.engadget.com/2262963/cool-japanese-gadgets-not-typically-found-in-united-states/
+
+Sure, we have plenty of neat products in the United States, but a look at these 10 gadgets really suggest Japan is in a consumer tech league of its own.
+
+### What causes a stuck pixel on your laptop and can it be fixed?
+Sat, 19 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2257814/laptop-stuck-pixel-causes-fixes/
+
+Stuck pixels don't have to be a death sentence for your laptop, as there are several options that can bring them back to life.
+
+### John Wick as a DVD store operator, a roguelike take on Armored Core and other new indie games worth checking out
+Sat, 19 Sep 2026 11:30:00 +0000 — https://www.engadget.com/2262905/john-wick-as-a-dvd-store-operator-and-other-new-indie-games-worth-checking-out/
+
+Our latest indie gaming roundup features a John Wick-style character who works in a video store.
 
 ### How Focus mode has changed in iOS 27
 Fri, 18 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2257610/how-focus-mode-changed-ios-27/
@@ -327,42 +362,12 @@ Fri, 18 Sep 2026 20:35:11 +0000 — https://www.engadget.com/2262932/what-to-exp
 
 There's a lot for Mark Zuckerberg to cover at this year's keynote.
 
-### The new Resident Evil movie captures the survival horror magic of the games
-Fri, 18 Sep 2026 18:56:15 +0000 — https://www.engadget.com/2262746/the-new-resident-evil-movie-captures-the-survival-horror-magic-of-the-games/
-
-Resident Evil is yet another horror classic from the director of Weapons.
-
-### Disney hires ex-CEO of AI company it accused of copyright infringement
-Fri, 18 Sep 2026 18:36:47 +0000 — https://www.engadget.com/2262703/disney-hires-ex-ceo-of-ai-company-it-accused-of-copyright-infringement/
-
-What's a little IP theft between friends?
-
-### FCC allows Gulf state wealth funds to own nearly half of Paramount-Warner Bros.
-Fri, 18 Sep 2026 18:22:10 +0000 — https://www.engadget.com/2262681/fcc-allows-gulf-state-wealth-funds-to-own-nearly-half-of-paramount-warner-bros/
-
-Great news for the Ellisons and Saudi Arabia. Everyone else: not so much!
-
-### The Transformers: The Movie re-review: Still the best (and it's not close)
-Fri, 18 Sep 2026 15:15:00 +0000 — https://www.engadget.com/2262294/the-transformers-the-movie-re-review-40th-anniversary/
-
-In honor of its 40th anniversary, we celebrate the greatest Transformers movie ever made.
-
-### The Street Fighter movie popcorn bucket is gloriously goofy
-Fri, 18 Sep 2026 14:30:18 +0000 — https://www.engadget.com/2262242/street-fighter-movie-popcorn-bucket-is-gloriously-goofy/
-
-The Street Figher popcorn bucket could make things easier for anyone planning to dress as Guile for Halloween.
-
-### Apple AirPods 5 review: The choice is clear
-Fri, 18 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2261751/apple-airpods-5-review/
-
-The most notable AirPods 5 upgrades are available on both models, but you'll be happier with the pricier one.
-
-### Samsung Galaxy S26 FE review: An incremental price hike for incremental updates
-Fri, 18 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2260026/samsung-galaxy-s26-fe-review/
-
-It's tough times for the midrange phone.
-
 ## TechCrunch
+
+### Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking
+Sat, 19 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/
+
+Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.
 
 ### India forces caller-ID apps to feed spam reports to telcos
 Sat, 19 Sep 2026 01:00:00 +0000 — https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/
@@ -418,9 +423,4 @@ Jev, a new kind of AI model, is showing developers a cheaper and faster path to 
 Fri, 18 Sep 2026 17:59:53 +0000 — https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/
 
 The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.
-
-### In India, the new iPhone can arrive faster than a pizza
-Fri, 18 Sep 2026 17:45:00 +0000 — https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/
-
-Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.
 
