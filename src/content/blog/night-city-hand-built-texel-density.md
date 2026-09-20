@@ -4,7 +4,6 @@ date: 2026-09-20
 category: 3D
 excerpt: CD PROJEKT RED's art directors say every building, advert and piece of litter in Night City was placed by hand. First person is why it had to be.
 cover: /img/blog/night-city-hand-built-texel-density/shot-01.jpg
-draft: true
 ---
 
 Twice the texel density of The Witcher 3. That is the number CD PROJEKT RED's
