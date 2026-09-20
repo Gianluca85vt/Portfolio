@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-09-20T09:27:20.493Z
+# Film & TV — harvested 2026-09-20T14:20:49.354Z
 
 ## Variety
+
+### Paramount Settlement Talks With State AGs Reach Critical Stage as Merger Opponents Rally and Urge Rob Bonta Do Not Cave
+Sun, 20 Sep 2026 14:15:00 +0000 — https://variety.com/2026/film/news/paramount-merger-settlement-rob-bonta-not-cave-warner-bros-1236869739/
+
+Paramount Skydance is moving closer to the finish line of its yearlong pursuit of Warner Bros. Discovery as the company s weekend settlement negotiations with the state attorneys general reach a critical stage. Meanwhile, opponents of the merger are rallying to protest what it warns is shaping up to be a “cave” by the 12-state coalition [ ]
+
+### How to Watch Patrick Clancy s 60 Minutes Interview Online
+Sun, 20 Sep 2026 13:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-patrick-clancy-60-minutes-interview-online-1236867210/
+
+Patrick Clancy is sitting down for his first television interview since the murder trial of his ex-wife, Lindsay Clancy, ended in a mistrial earlier this month. The interview will air on CBS’ 60 Minutes on Sunday, Sept. 20 at 7 p.m. ET/PT, with CBS News correspondent Ross Douthat speaking with Clancy about the deaths of [ ]
+
+### SNL U.K. Brings Back Princess Diana as King Charles AI Assistant: It s That Woman From the 90s!
+Sun, 20 Sep 2026 12:28:58 +0000 — https://variety.com/2026/tv/global/snl-uk-princess-diana-king-charles-ai-assistant-1236870092/
+
+SNL U.K. brought back Jack Shep s fan-favorite Princess Diana impression on Saturday night, this time in a cold open starring Lady Di as King Charles personal AI assistant. The sketch riffed on the King s AI summit in Scotland on Thursday, where he met with several tech executives, as well as the drama over the new [ ]
 
 ### Ready, SETT, Go: SETT Execs Drill Down on the Spanish Sovereign Venture Capital Fund That Will Drive Industry Conversation at San Sebastián
 Sun, 20 Sep 2026 05:43:25 +0000 — https://variety.com/2026/tv/global/sett-javier-ponce-maria-coronado-how-sett-works-and-why-1236869707/
@@ -37,22 +52,17 @@ Sat, 19 Sep 2026 21:19:27 +0000 — https://variety.com/2026/tv/news/sweet-magno
 
 Following the news that “Sweet Magnolias” has been canceled at Netflix, creator and showrunner Sheryl J. Anderson is looking back on the romantic drama’s 5 Season run. “Living in Serenity for five seasons has been a privilege and a blessing,” Anderson shared in the caption of an Instagram post Saturday. “The people I’ve met and [ ]
 
-### Here s How to Watch Isaac Cruz vs. Nestor Bravo Boxing Live Online
-Sat, 19 Sep 2026 21:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-isaac-cruz-vs-nestor-bravo-boxing-live-sept-2026-online-1236867642/
-
-Premier Boxing Champions travels to Southern California for a prime title bout between two elite fighters for the interim WBC Super Lightweight championship. Mexican boxer Isaac Pitbull Cruz goes head-to-head against Puerto Rican fighter Nestor Bravo in a scheduled for 12 rounds. On Saturday, Sept. 19, Cruz (28-3-2) vs. Bravo (24-1-0) takes place at Pechanga [ ]
-
-### Henry Winkler Says His Name Was Cut From ‘Scream’ Poster Because ‘You Were the Fonz’ and It Would ‘Knock the Balance of Horror Off’
-Sat, 19 Sep 2026 20:38:34 +0000 — https://variety.com/2026/film/news/henry-winkler-scream-movie-poster-1236869640/
-
-Finding out his name wouldn’t be used on the “Scream” poster wasn’t one of Henry Winkler’s happier days. The “Happy Days” star played Principal Arthur Himbry in the original Scream film, which went on to become one of the most successful horror franchises. But despite his character’s entrance receiving applause during screen tests for the [ ]
-
-### Pete Davidson and Colin Jost Were Clowned for Buying the Staten Island Ferry. They Just Proved Everyone Wrong.
-Sat, 19 Sep 2026 20:23:46 +0000 — https://variety.com/2026/scene/news/pete-davidson-colin-jost-snapple-island-ferry-comedy-show-1236867593/
-
-“There’s an epidemic affecting our nation’s young people. The epidemic is fear.” As I scrolled through Instagram on my ride downtown to the Snapple Island Ferry Comedy Show, a reel from The Free Press popped up. Professor Arthur Brooks was making the case that “Gen Z is perhaps the most risk-averse generation in history.” Now, [ ]
-
 ## The Hollywood Reporter
+
+### Minnesota Vikings vs. Chicago Bears: Where to Watch the NFL Week 2 Game Online
+Sun, 20 Sep 2026 13:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-minnesota-vikings-vs-chicago-bears-nfl-game-free-2026-1236705980/
+
+The Sept. 20 matchup kicks off a jam-packed Sunday of football.
+
+### Big Night : THR s 1996 Review
+Sun, 20 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/big-night-review-movie-stanley-tucci-1236615735/
+
+On Sept. 20, 1996, the Stanley Tucci and Tony Shalhoub restaurant drama hit theaters.
 
 ### The Traitors Cast: Kristin Chenoweth, Chloe Kim, Rashad Jennings, Whitney Leavitt and More Join Peacock Hit
 Sun, 20 Sep 2026 04:51:39 +0000 — https://www.hollywoodreporter.com/lists/the-traitors-season-5-cast-list/
@@ -93,16 +103,6 @@ At the San Sebastian Film Festival Saturday night, Watts also shouted out her 'T
 Sat, 19 Sep 2026 20:00:07 +0000 — https://www.hollywoodreporter.com/news/general-news/tilly-norwood-glitches-piers-morgan-switches-languages-1236706114/
 
 While speaking with journalist and fellow guest Tom Conti on 'Piers Morgan Uncensored,' the AI actor malfunctioned and switched from English to Cantonese.
-
-### LSU vs. Ole Miss: Where to Watch the 2026 Football Game Online
-Sat, 19 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-lsu-vs-ole-miss-football-game-free-ncaa-streams-2026-1236705945/
-
-Here's how to livestream the Sept. 19 college football game between the Tigers and the Rebels.
-
-### CA Gov. Gavin Newsom Signs Bill Addressing Catch in $750M Tax Credit for Hollywood
-Sat, 19 Sep 2026 17:34:54 +0000 — https://www.hollywoodreporter.com/business/business-news/gov-gavin-newsom-bill-hollywood-tax-credit-catch-1236705453/
-
-The new law exempts indie projects from caps on the use of state tax credits and offers productions enhanced monetization of their incentives.
 
 ## Deadline
 
@@ -180,6 +180,11 @@ ILM s Jay Cooper also showcases use of AR app. The post New The End of Oak Stree
 
 ## IndieWire
 
+### Box Office: John Wilson s The History of Concrete from Magnolia Becomes IFC Center s Second Biggest Debut
+Sun, 20 Sep 2026 12:59:00 +0000 — https://www.indiewire.com/news/box-office/box-office-john-wilson-history-of-concrete-ifc-center-record-1235217860/
+
+The offbeat documentary earned $90,000, second only to "Parasite."
+
 ### The Other Bennet Sister Fans, Rejoice! Dónal Finn Will Be Back for Three-Part Christmas Special
 Sat, 19 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/news/breaking-news/the-other-bennet-sister-donal-finn-return-christmas-special-1235217829/
 
@@ -235,11 +240,6 @@ Fri, 18 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/features/interview
 
 In Jonatan Etzler's darkly funny "Bad Apples," the actress plays a harried teacher who does something really crazy to a naughty student. As the pair explain to IndieWire, that's not the wildest part: It's how disarmingly funny Ronan gets to be.
 
-### Youth Review: Sharon Horgan s Sharp HBO Comedy Asks What We Really Have to Sacrifice with Age
-Fri, 18 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/criticism/shows/youth-review-hbo-sharon-horgan-series-fun-1235216916/
-
-The "Catastrophe" writer and star returns to HBO (post-"Divorce") with a mid-life crisis comedy that's broadly familiar but refreshing in its specific insights, strong performances, and steady laughs.
-
 ## The Wrap
 
 ### Ed Sheeran Addresses Macklemore Fallout at First Concert Since Rapper’s Loop Tour Removal: I ve Had to Make Difficult Decisions
@@ -294,53 +294,53 @@ Amidst the best critical and audience reception ever received for a film bearing
 
 ## Collider
 
-### The 5 Greatest 3-Season HBO Shows of All Time, Ranked
-Sun, 20 Sep 2026 09:26:11 GMT — https://collider.com/best-hbo-shows-3-seasons-ranked/
+### Pierce Brosnan’s Best James Bond Movie Officially Makes Streaming Comeback
+Sun, 20 Sep 2026 14:00:11 GMT — https://collider.com/pierce-brosnan-james-bond-goldeneye-streaming-success-vudu-september-2026/
 
-Three seasons can be a strange amount of television. It is long enough for a show to establish clear stakes and get the audience attached to its characters, but short enough for every single episode to matter. HBO seems to have mastered the art of the three-season format because the network has proven, time and again, that a show does not need endless time on air to remain memorable.
+Fans are waiting with bated breath for Amazon MGM Studios to announce which actor has been cast as the new James Bond ; the latest shortlist includes frontrunners Jack Lowden , Callum Turner , Jacob Elordi , Jack O'Connell , and Jack Barton . Gary Oldman , who stars alongside Lowden in the hit Apple TV series Slow Horses , recently let slip that the studio may have already finalized the actor for the role, but is waiting for the right time to announce his name to the world. Meanwhile, former Bond star Pierce Brosnan had nothing but positive vibes for whoever will play the iconic character next. Brosnan starred as Bond in four movies , and recently returned with the second season of his blockbuster Paramount+ crime drama series MobLand . The show's return nudged audiences to revisit one of Brosnan's four Bond movies, which recently surged up the streaming charts.
 
-### Jon Bernthal's Forgotten 'Sopranos' Spin-Off Officially Surges on Streaming
-Sun, 20 Sep 2026 09:20:11 GMT — https://collider.com/jon-bernthal-sopranos-spin-off-the-many-saints-of-newark-streaming-success-vod-september-2026/
+### Forget 'Parasite,' This 128-Minute Crime Thriller Is Officially Taking Over YouTube
+Sun, 20 Sep 2026 13:55:11 GMT — https://collider.com/mother-bong-joon-ho-parasite-crime-thriller-free-movie-streaming-youtube/
 
-Few stars are having as successful a year as Jon Bernthal , who has headlined some of the biggest movies and TV shows on streaming and in theaters. Bernthal began 2026 by teaming up with Tessa Thompson for the Netflix original series, His & Hers , which earned millions of views during its initial period on streaming. He then reprised his role as Frank Castle in The Punisher: One Last Kill before returning to the role in Spider-Man: Brand New Day , which has grossed well over $2 billion at the global box office. The fourth MCU Spider-Man movie wasn’t the first box office hit of the summer for Bernthal, though. Two weeks before its premiere, he made his debut in a Christopher Nolan movie by starring as Menelaus in The Odyssey , which is set to arrive on digital platforms in November.
+Parasite (2019), written and directed by Korean filmmaker Bong Joon Ho , took the world by storm upon its release, captivating audiences and critics alike with its gripping story, social commentary, and eye-catching cinematography. It cemented its status as one of the most significant films of the 2010s when it became the first non-English language film, as well as the first South Korean film, to win Best Picture at the 2020 Academy Awards . While Parasite may be his most recognizable and accoladed film, Joon Ho has actually delved into the mystery, thriller, and crime genres before.
 
-### Netflix Is Officially Losing the Coen Brothers' Crime Masterpiece Next Month
-Sun, 20 Sep 2026 09:00:11 GMT — https://collider.com/frances-mcdormand-fargo-leaving-netflix-october-2026/
+### Alan Ritchson's 'Reacher' Officially Loses Streaming Crown on Prime Video
+Sun, 20 Sep 2026 13:15:11 GMT — https://collider.com/alan-ritchson-reacher-spin-off-neagley-streaming-hit-prime-video-september-2026/
 
-After several years pursuing their own projects, the Coen Brothers are reportedly working together again on a new film. The duo has already worked on unproduced scripts, and fans can rest assured that another Coen Brothers feature seems likely in the near future. But the fact remains that it's been eight years since the brothers last teamed up on a film, when they brought to life the 2018 American Western black comedy The Ballad of Buster Scruggs , an anthology of six shorts that take place within the American Wild West.
+A major week for television saw Netflix deliver one of its most anticipated new shows of the year, Monster: The Lizzie Borden Story , the fourth installment of Ryan Murphy 's controversial anthology series about infamous American killers. Unsurprisingly, Monster topped the global Netflix streaming chart immediately upon its debut. Meanwhile, Paramount+ welcomed Guy Ritchie 's blockbuster crime drama series MobLand for a second season, which instantly climbed to the number-one spot as well. Prime Video, on the other hand, expanded arguably its biggest hit with a brand-new spin-off title. The new show's launch coincided with the Season 4 finale of the main series, which surrendered the streamer's top position to its follow-up.
 
-### Martin Scorsese's Favorite 1963 Classic Officially Departs HBO Max
-Sun, 20 Sep 2026 08:40:11 GMT — https://collider.com/federico-fellini-8-and-a-half-1963-classic-leaving-hbo-max-september-2026/
+### 5 Books Under 200 Pages That Are Perfect From Beginning to End
+Sun, 20 Sep 2026 12:57:12 GMT — https://collider.com/books-under-200-pages-perfect-start-to-finish/
 
-James Cameron 's The Terminator is immensely influential on movie-making as a whole, but do you know which other film has left an even bigger stamp on cinema over the years? We're talking about a 1963 Italian-language classic that has inspired everyone from Woody Allen to Ridley Scott , and became one of Martin Scorsese 's all-time favorites. It inspired a movie that served as Daniel Day-Lewis ' follow-up to his Oscar-winning performance in There Will Be Blood , and was paid homage to in a sex spoof film about the inner workings of the porn industry. As you can tell, the classic's impact was felt far and wide. It's currently streaming on HBO Max in the United States, but only for a little while longer.
+Sometimes a novella-length book can be even more impactful than a 600-page marathon read . The official line between a short novel and a novella is a bit hazy, but both forms make the most of 200 pages or less. The sweet spot for your typical adult fiction book is 300 to 350 pages, according to Penguin Random House . These books , because of their relative brevity, are especially impressive literary feats, tackling enduring themes of mortality , friendship , human agency, heroism , and corruption.
 
-### Ryan Reynolds’ $176M Action Smash Is Officially Making Its Last Stand on Netflix
-Sun, 20 Sep 2026 08:20:11 GMT — https://collider.com/ryan-reynolds-hitmans-bodyguard-leaving-netflix-october-2026/
+### Disney’s 3-Part Sci-Fi Saga Officially Becomes a Streaming Smash Hit
+Sun, 20 Sep 2026 12:45:11 GMT — https://collider.com/disney-guardians-of-the-galaxy-movies-streaming-success-september-2026/
 
-It seems everyone with even the slightest association with the MCU is joining the team for the upcoming Avengers: Doomsday . However, one name is still missing from the official lineup: Ryan Reynolds . Although it has been heavily teased by the man himself and reports from different outlets offer conflicting stories, there is not yet any official word about Deadpool's involvement following the huge billion-dollar success of Deadpool & Wolverine .
+Marvel has mostly focused on TV shows this year, but the franchise made a splash on the big screen with the debut of Spider-Man: Brand New Day . The fourth Tom Holland solo Spider-Man movie has earned well over $2 billion at the global box office, and it’s already one of the highest-grossing movies of all time with more left to give. Marvel will seek continued box office success later this year with the premiere of Avengers: Doomsday , which opens in theaters on December 18, the same day as Dune: Part Three . Marvel opened the year with the highly popular TV show, Wonder Man , which was initially renewed for a second season before Marvel later changed its mind and decided that it wouldn’t come back. This news came out around the same time that the Blade movie was officially canceled as well.
 
-### Anya Taylor-Joy's $168M Sci-Fi Masterpiece Is Officially the Best Movie Nobody Watched
-Sun, 20 Sep 2026 08:00:11 GMT — https://collider.com/furiosa-anya-taylor-joy-sci-fi-thriller-masterpiece-mad-max/
+### Forget Black Widow, 12 Years Later Scarlett Johansson's Best Role is Still in This Sci-Fi Thriller
+Sun, 20 Sep 2026 12:34:11 GMT — https://collider.com/forget-black-widow-scarlett-johanssons-best-role-is-under-the-skin/
 
-There are those who are meant to die historic on the Fury Road and those who aren’t. Ultimately, that is the big difference between George Miller ’s high-octane thrill ride, Mad Max: Fury Road , and the slow-burn and more fruitful prequel, Furiosa: A Mad Max Saga . The title says it all. Anya Taylor-Joy ’s underrated movie, Furiosa , was set in the world of Mad Max , but it would be something else entirely.
+Scarlett Johansson may be best known for her appearance as Black Widow , but her talent doesn't end within the boundaries of Marvel's multiverse . Certainly, as Black Widow, she brings life and energy to her action sequences, and has surprisingly good comedic timing when it comes to delivering a withering stare. But 12 years later, Under the Skin still showcases Johansson's most intimate, chilling performance.
 
-### Jason Statham’s $760 Million Sci-Fi Action Blockbuster Officially Lands on Hulu
-Sun, 20 Sep 2026 08:00:11 GMT — https://collider.com/jason-statham-fast-and-furious-hobbs-and-shaw-streaming-hulu-september-2026/
+### Netflix Officially Says Goodbye to a ‘Tulsa King’ Favorite’s Action Hit
+Sun, 20 Sep 2026 12:30:11 GMT — https://collider.com/black-and-blue-leaving-netflix-october-2026/
 
-Have you ever wondered what would happen if a host of Angelenos stole some DVD players and, ten movies later , ended up being given the keys to the planet? Nope, nobody else did. But it worked, and it worked very well. As a result, we ended up with the weirdest, most intriguing spin-off that nobody ever asked for.
+We're never far from the end of a Taylor Sheridan series and the start of another on Paramount+. This weekend marks the end of the spy series Lioness for another year, as Zoe Saldaña 's Joe McNamara and her team of female operatives face an explosive last chapter of the season. But the wait for more Sheridan streaming won't be long, as Tulsa King 's fourth season debuts on Friday, October 16. Sylvester Stallone 's Dwight "The General" Manfredi will return for his most important season yet, as he "fights to legitimize his empire while facing corrupt politicians and new enemies."
 
-### 27 Years Later, The Greatest Action Sci-Fi Movie's Final Line Still Officially Defines the Genre
-Sun, 20 Sep 2026 04:08:11 GMT — https://collider.com/the-matrix-final-quote-sci-fi-action-movie/
+### 10 Thriller Shows That Feel Completely Different After the Big Reveal
+Sun, 20 Sep 2026 12:21:11 GMT — https://collider.com/thriller-shows-big-plot-twist-different/
 
-27 years ago, the sci-fi action classic The Matrix hit theaters, kickstarting not just a new franchise, but a new subgenre . The movie beautifully showcases the story of Thomas Anderson, aka Neo ( Keanu Reeves ), and his journey of self-discovery as he transforms from an idle, stagnant office worker and black-market hacker who is "unplugged" from a false simulation, into a freedom fighter for humanity. Over the course of the movie, Neo then evolves from a would-be freedom fighter into a savior who perhaps holds the key to liberating the human race from machine oppressors . Neo's journey becomes complete in the movie's final moments.
+The following article contains spoilers. A good thriller gives the audience an unexpected answer, but a great one makes them realize that they misunderstood the question in the first place. The genre depends on withholding information, planting subtle clues until the truth finally comes out. However, shock value alone can only take a story so far.
 
-### 5 Thriller Series That Are Perfect From Beginning to End
-Sun, 20 Sep 2026 03:39:11 GMT — https://collider.com/thriller-shows-perfect-beginning-to-end/
+### 5 Funniest ‘Calvin and Hobbes’ Sci-Fi Comics, Ranked
+Sun, 20 Sep 2026 12:11:11 GMT — https://collider.com/calvin-and-hobbes-5-funniest-sci-fi-comics-ranked/
 
-Starting a thriller is the easy part. All it takes is one intriguing mystery or terrible decision, and the audience is hooked for a couple of episodes at the very least. The real challenge is holding onto that same tension. The longer a story runs, the more chances it has to overcomplicate things, or worse, lose all momentum.
+Calvin and Hobbes is a comic strip unlike any other. Part of what makes it special is that its creator, Bill Watterson, ended the strip at the height of its popularity, giving it a timeless quality . Its humor is also grounded in deep truths about the world, which you wouldn't expect from a comic about a six-year-old boy and his talking stuffed tiger. But the main draw of Calvin and Hobbes remains its ability to shift between different genres based on Calvin's flights of fancy. The most prominent of those genres is science fiction , which has led to some iconic moments in the strip's history.
 
-### 'The Matrix' Meets 'Resident Evil' in This Streaming Hit Action Thriller
-Sun, 20 Sep 2026 03:09:11 GMT — https://collider.com/underworld-franchise-matrix-resident-evil-streaming-starz-september-2026/
+### Courteney Cox Officially Reveals David Fincher’s Secret Role in Her New Crime Thriller ‘Evil Genius’
+Sun, 20 Sep 2026 12:01:11 GMT — https://collider.com/david-fincher-role-courteney-cox-evil-genius-crime-thriller/
 
-The 2000s saw many movies that capitalized on the success of The Matrix – in almost every genre there was an homage, or pastiche, of the popular sci-fi’s bullet time sequences, kung fu action, or futuristic aesthetic. One film, however, harnessed that momentum rather than copying it: 2003’s Underworld . Kate Beckinsale led the movie that would spark a franchise, which years later is now climbing the charts on Starz, where three volumes of the series are currently among the top 10 most-streamed films. So, is it simply imitation that made it a success? Far from it, because the movies and their lead changed the way we looked at women in action movies forever.
+Courteney Cox ’s sophomore feature as director, Evil Genius , explores the stranger-than-fiction story of the infamous 2003 “Pizza Bomber,” with Stranger Things ’ David Harbour and Academy Award winner Patricia Arquette headlining the dark comedy. At this year’s Toronto International Film Festival , where the movie World premiered, Collider’s Steve Weintraub had the pleasure of sitting down with the trio to discuss the making of the raucous film.
 

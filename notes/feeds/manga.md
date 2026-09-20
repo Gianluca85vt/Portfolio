@@ -1,6 +1,26 @@
-# Manga — harvested 2026-09-20T09:27:20.493Z
+# Manga — harvested 2026-09-20T14:20:49.354Z
 
 ## Anime News Network
+
+### 2026 World Webtoon Awards Announces 20 Finalists, Opens Global Reader Vote
+Sun, 20 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/2026-world-webtoon-awards-announces-20-finalists-opens-global-reader-vote/.242010
+
+Now in their 3rd year, awards will accept online votes from readers worldwide from September 17 to October 19
+
+### NieR's Yokō Tarō, Evangelion's Yoko Takahashi Collaborate on The Weeknd's Latest Tour
+Sun, 20 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-20/nier-yoko-taro-evangelion-yoko-takahashi-collaborate-on-the-weeknd-latest-tour/.242019
+
+Featuring visuals from legendary anime series Neon Genesis Evangelion
+
+### Persona 4 Revival Game Recasts Ryōtarō Dōjima
+Sun, 20 Sep 2026 07:53:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/persona-4-revival-game-recasts-ryotaro-dojima/.242017
+
+Ryōtarō Okiayu replaces Unshō Ishizuka, who died in 2018
+
+### The Reincarnated Elf Left on a Journey to Master His Magic Anime Unveils 1st 2 Minutes, January Debut
+Sun, 20 Sep 2026 05:02:16 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/the-reincarnated-elf-left-on-a-journey-to-master-his-magic-anime-unveils-1st-2-minutes-january-debut/.242016
+
+Daiki Yamashita, Hana Hishikawa star in upcoming series
 
 ### So What's Wrong with Getting Reborn as a Goblin? Anime Reveals More Cast, Character Visuals
 Sun, 20 Sep 2026 04:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/so-what-wrong-with-getting-reborn-as-a-goblin-anime-reveals-more-cast-character-visuals/.241993
@@ -42,31 +62,26 @@ Sat, 19 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/welc
 
 What changed in him to make him turn down Baal's offer? The easy answer is “Iruma.”
 
-### Smoking Behind the Supermarket with You ‒ Episode 11
-Sat, 19 Sep 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-11/.241981
-
-It’s rare for a piece of media to feel so hyperrelevant to my personal and professional life; I needed the little nudge this episode gave me to get my work-life balance back in order.
-
-### Marvel Tokon Fighting Souls Game Review
-Sat, 19 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/playstation-5-pc/steam/marvel-tokon-fighting-souls/.241499
-
-It's a tour de force that looks like nothing you've seen before, while also rooted in a profound appreciation for Marvel characters and broader fighting games as a culture.
-
-### Daemons of the Shadow Realm Anime Gets 2nd Season
-Sat, 19 Sep 2026 11:43:09 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/daemons-of-the-shadow-realm-anime-gets-2nd-season/.241990
-
-First season's part 2 ended on Sunday
-
-### The Resident Evil Remake Switch 2 Ports Look and Feel Great
-Sat, 19 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/the-resident-evil-remake-switch-2-ports-look-and-feel-great/.241965
-
-You might be worried about how these <cite>Resident Evil</cite> games run on the Switch 2. Don't be.
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Katekyo Hitman Reborn! Anime Reveals Twelfth Ending Featuring "Aoi Yume" by Mori Tsubasa
+Sun, 20 Sep 2026 11:34:55 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-twelfth-ending-featuring-aoi-yume-by-mori-tsubasa/
+
+Katekyo Hitman REBORN! anime released the creditless version of its twelfth ending, featuring "Aoi Yume" by Mori Tsubasa.
+
+### My Hero Academia Announces ULTRA EXPO Event for April 2027 to Conclude Anime's 10th Anniversary
+Sun, 20 Sep 2026 11:21:09 GMT — https://animecorner.me/my-hero-academia-announces-ultra-expo-event-for-april-2027-to-conclude-animes-10th-anniversary/
+
+New My Hero Academia anime 10th anniversary project was revealed to be MHA ULTRA EXPO, a new event set to be held in 2027 in Japan.
+
+### Ram Fights Lye in Re:ZERO Season 4 Episode 18 Preview
+Sun, 20 Sep 2026 11:06:29 GMT — https://animecorner.me/ram-fights-lye-in-rezero-season-4-episode-18-preview/
+
+Re:ZERO Season 4 has revealed the Episode 18 (Episode 84 overall) preview ahead of its September 23 2026 premiere.
 
 ### Magic Knight Rayearth 2026 Unveils New Trailer Featuring Theme Songs, Additional Cast
 Sun, 20 Sep 2026 05:27:31 GMT — https://animecorner.me/magic-knight-rayearth-2026-unveils-new-trailer-featuring-theme-songs-additional-cast/
@@ -112,21 +127,6 @@ You and I Are Polar Opposites anime has revealed a new Graduation Day visual as 
 Sat, 19 Sep 2026 11:56:56 GMT — https://animecorner.me/mushoku-tensei-season-3-tops-weekly-summer-ranking-for-second-time-in-a-row-after-episode-12/
 
 Mushoku Tensei Season 3 topped the Summer 2026 weekly ranking for the second time in a row after its Episode 12.
-
-### YAIBA: Samurai Legend Season 2 Reveals Main Visual and January 9 Premiere Date
-Sat, 19 Sep 2026 11:44:03 GMT — https://animecorner.me/yaiba-samurai-legend-season-2-reveals-main-visual-and-january-9-premiere-date/
-
-YAIBA: Samurai Legend Season 2, the Kaguya Arc, revealed the main anime visual and a January 9, 2027 premiere date.
-
-### Made in Abyss: Awakening Mystery New Images Reveal First Look at Nishagora
-Sat, 19 Sep 2026 10:44:10 GMT — https://animecorner.me/made-in-abyss-awakening-mystery-new-images-reveal-first-look-at-nishagora/
-
-Made in Abyss: Awakening Mystery film, revealed new scene stills, including the first look at the new character Nishagora.
-
-### Katekyo Hitman Reborn! Anime Reveals Tenth Ending Featuring "Sakura Rock" by CHERRYBLOSSOM
-Sat, 19 Sep 2026 10:37:59 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-tenth-ending-featuring-sakura-rock-by-cherryblossom/
-
-Katekyo Hitman REBORN! anime released the creditless version of its tenth ending, featuring "Sakura Rock" by CHERRYBLOSSOM.
 
 ## MyAnimeList News
 

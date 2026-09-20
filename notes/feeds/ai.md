@@ -1,11 +1,8 @@
-# AI — harvested 2026-09-20T09:27:20.493Z
+# AI — harvested 2026-09-20T14:20:49.354Z
 
 ## OpenAI
 
-### Introducing the Australian Youth Safety Blueprint
-Fri, 18 Sep 2026 12:00:00 GMT — https://openai.com/index/australian-youth-safety-blueprint
-
-OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.
+_Nothing in the last 48 hours._
 
 ## Hugging Face
 

@@ -1,6 +1,26 @@
-# Games — harvested 2026-09-20T09:27:20.493Z
+# Games — harvested 2026-09-20T14:20:49.354Z
 
 ## Eurogamer
+
+### Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still "loves Sony" despite collapse of publishing deal
+Sun, 20 Sep 2026 14:00:05 +0000 — https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint
+
+Last week, we learned that Sony "stepped away" from Kojima Production's previously PlayStation-exclusive "action espionage" game Physint. Following the announcement, which saw Xbox take over publishing duties for the in-development title, a new report has claimed Sony's decision was the result of concerns over "budget, potential profitability and exclusivity". Read more
+
+### Blizzard developer says World of Warcraft: Forever's beta numbers are the "craziest" he's seen in 17 years
+Sun, 20 Sep 2026 13:09:13 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-beta-craziest-numbers-blizzard
+
+World of Warcraft: Forever, Blizzard's vanilla-flavoured spin-off built by the WoW Classic team, has already pulled in far more players than the studio expected. Read more
+
+### Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch
+Sun, 20 Sep 2026 11:03:08 +0000 — https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer
+
+Clive Barker's Hellraiser: Revival has a new playable demo out now on Steam ahead of its full launch on 8th October. Read more
+
+### The Last of Us director apologises for calling out Sony Santa Monica's God of War Laufey after saying he was "not excited"
+Sun, 20 Sep 2026 10:41:45 +0000 — https://www.eurogamer.net/last-of-us-director-apologises-god-of-war-laufey-not-excited
+
+The Last of Us director Bruce Straley has apologised to the God of War Laufey team at Sony Santa Monica for saying he was "not excited" about the upcoming game's gameplay. Read more
 
 ### Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign
 Sun, 20 Sep 2026 09:20:36 +0000 — https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign
@@ -32,26 +52,6 @@ Fri, 18 Sep 2026 16:52:24 +0000 — https://www.eurogamer.net/marvel-wolverine-s
 
 Marvel's Wolverine has been in the hot seat over the last week or so, but mixed reviews and internet memes seemingly haven't put a dent in the superhero game's adamantium frame. A new report states the latest from Insomniac Games has already sold almost 2m copies, with more than a fifth coming from physical sales. Read more
 
-### Final Fantasy 7 Revelation will be "around 200GB" says game director, as he details Sephiroth and Vincent Valentine DLC plans
-Fri, 18 Sep 2026 13:04:26 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-200gb-file-size-dlc
-
-We're still about six months out from the release of Final Fantasy 7 Revelation, the final part of the FF7 Remake trilogy. But, already, there is a lot of discussion about the size of the game; whether it's all the divisive side activities on offer in the title, or the fact it won't be shipping totally on-disc at launch thanks to the amount of stuff it'll feature, director Naoki Hamaguchi is already fielding a lot of questions about 'size versus quality' in the last game in the Remake series. Read more
-
-### Control Resonant review
-Fri, 18 Sep 2026 13:00:00 +0000 — https://www.eurogamer.net/control-resonant-review
-
-The first time I ate mold was like something out of a Victorian morality play. It was in boarding school, when fuzzy blue-grey discs would sometimes appear on the bottom of a quiche, or after I saw one of the kitchen ladies use a cleaning rag to cover a tray of cauliflower cheese. We were told it was a good source of protein, and because I complained, I had to collect rubbish for a weekend in my school uniform. Outside the realm of edible mushrooms and respectable fungi and polite society, the idea of eating mold is kinda gross. But here I am, in Control Resonant, faced with the Temptation of Saint Mycology, while my handler screams in my ear for me to put the mold down. I will not. I'm Dylan Faden, and this is Jackass. Read more
-
-### Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: "This is just the beginning"
-Fri, 18 Sep 2026 11:55:42 +0000 — https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning
-
-Nintendo is having a pretty good time of it at the moment. Last year, we learned that the Switch 2 became the fastest selling video game hardware device in US history, usurping the PS4's golden record . Then, earlier this year, we learned that Switch 2 sales reached nearly 20m almost one year after release , making it the second-fastest selling console in US history . Buoyed by the runaway successes of games like Pokopia and other first-party hits, not even the reality of a hardware price rise seems to be hobbling Nintendo's momentum. Read more
-
-### Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year
-Fri, 18 Sep 2026 10:15:25 +0000 — https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo
-
-Rockstar has remained very tight-lipped about GTA 6 's multiplayer component, the potential successor to GTA 5 's incredibly popular Grand Theft Auto Online , not yet commenting on whether it will even launch one. All we know currently is that when Grand Theft Auto 6 arrives on 19th November , it'll only include the single-player campaign. Read more
-
 ## GamesIndustry.biz
 
 ### Control Resonant | Critical Consensus
@@ -68,21 +68,6 @@ With tens of thousands of jobs lost across industry in the past few years, to sa
 Fri, 18 Sep 2026 15:44:15 +0000 — https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit
 
 We are delighted to confirm the first round of facilitated discussion sessions at this year's GamesIndustry.biz HR Summit, sponsored by Amiqus , which will be held next month at the Royal Institution in London. Read more
-
-### Pulling focus: Must AAA pander to the distracted? | Opinion
-Fri, 18 Sep 2026 13:45:12 +0000 — https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distracted-opinion
-
-There's been a lot of talk in recent years about the effect that the inflation of development budgets has had on the industry. As budgets in the hundreds of millions of dollars have become common, cracks have emerged in the foundations of the entire model for funding new games. Attitudes to risk have been warped in strange ways under the weight of those financial expectations; a desire for the certainty of proven IP, twisted around by a reckless willingness to take huge swings at incredibly slim chances of equally huge rewards . Read more
-
-### Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: "You always have to go out and create enthusiasm"
-Fri, 18 Sep 2026 10:22:40 +0000 — https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm
-
-Some may argue Grand Theft Auto 6 does not require a marketing campaign, but Take-Two Interactive president Strauss Zelnick emphasised that established brands need to maintain awareness. Read more
-
-### King workers to strike in Sweden following rejection of collective bargaining agreement
-Fri, 18 Sep 2026 09:51:27 +0000 — https://www.gamesindustry.biz/king-workers-to-strike-in-sweden-following-rejection-of-collective-bargaining-agreement
-
-Swedish trade unions Unionen and Sveriges Ingenj&ouml;rer have issued a strike notice against King after executives rejected a proposed collective bargaining agreement last month . Read more
 
 ## VG247
 
@@ -140,16 +125,6 @@ Fri, 18 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/09/final-
 
 Best clear some space then. Planning on playing Final Fantasy 7 Revelation ? You'd best be ready to get your PS5's SSD in order. Naoki Hamaguchi, director of the upcoming third and final entry in the FF7 remake project, has estimated the game will amount to a whopping 200GB, or thereabouts. Read the full article on pushsquare.com
 
-### Review: Control Resonant (PS5) - A Wildly Inventive and Drop-Dead Gorgeous Sequel
-Fri, 18 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/reviews/ps5/control-resonant
-
-You mustn't be afraid to dream a little bigger, darling. I’m fighting a possessed bus with a weapon that morphs from an axe to a whip whilst the skyscrapers of Manhattan fold in on themselves like I’m in a dream from Inception. Nowhere else could this be the case than in a Remedy game. Releasing its third entry in the Remedy Connected Universe, Control Resonant has the Finnish developer’s DNA all over it. It’s inventive, weird, gorgeous, and as far as sequels go, a pretty hefty step up from the 2019 original – although I still have my issues. Read the full article on pushsquare.com
-
-### Preview: I Ferried a Soba Noodles Fan Around Tokyo in Crazy Taxi: World Tour, But I Have a Lingering Nitpick with This PS5 Revival
-Fri, 18 Sep 2026 11:30:00 GMT — https://www.pushsquare.com/previews/i-ferried-a-soba-noodles-fan-around-tokyo-in-crazy-taxi-world-tour-but-i-have-a-lingering-nitpick-with-this-ps5-revival
-
-Shibuya cross. SEGA’s really giving us unprecedented pre-release access to Crazy Taxi: World Tour , the 2027 revival of AM3’s all-time classic arcade ferry-’em-up. Back at Gamescom I spoke to director Kenji Kanno before getting my hands on the new Germany map , while my colleague Stephen Tailby tested out the closed beta test this weekend – and likened it to a nostalgic era of PS3 multiplayer modes. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### MiHoYo awarded $112,000 by Chinese court after AI voice service dupes Genshin Impact characters
@@ -161,11 +136,6 @@ A Shanghai court ruling may signal how Chinese courts will rule on genAI usage.
 Fri, 18 Sep 2026 14:35:00 GMT — https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges
 
 ARM's Peter Hodges joins us for a conversation about game development tools and the 1969 7-minute short film Lemon.
-
-### King workers call strike after collective agreement negotiations stall
-Fri, 18 Sep 2026 12:03:39 GMT — https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall
-
-Unionized employees at the Candy Crush studio will down tools on September 25 if the impasse cannot be overcome.
 
 ### Game Conference MX (GCMX)
 no date — https://www.gamedeveloper.com/events/untitled
@@ -194,7 +164,25 @@ no date — https://www.gamedeveloper.com/events/tokyo-game-show-tgs-
 ### PAX West
 no date — https://www.gamedeveloper.comwest.paxsite.com
 
+### gamescom latam
+no date — https://www.gamedeveloper.comlatam.gamescom.global
+
 ## VGC
+
+### Terrifying phenomenon seen in New York City
+Sun, 20 Sep 2026 13:27:40 +0000 — https://www.videogameschronicle.com/news/terrifying-phenomenon-seen-in-new-york-city/
+
+FBC video leaked in the wake of mass unexplained events… Source
+
+### Kojima Productions asks players to treat report on why it switched from PlayStation to Xbox with a dose of scepticism
+Sun, 20 Sep 2026 11:35:36 +0000 — https://www.videogameschronicle.com/news/kojima-productions-asks-players-to-treat-report-on-why-it-switched-from-playstation-to-xbox-with-a-dose-of-scepticism/
+
+None of the claims written came from any official or on-the-record source" Source
+
+### A demo of Castlevania Belmont s Curse has been officially announced
+Sun, 20 Sep 2026 10:37:13 +0000 — https://www.videogameschronicle.com/news/a-demo-of-castlevania-belmonts-curse-has-been-officially-announced/
+
+Save data from the the demo will be transferred to the full version… Source
 
 ### The Last of Us director apologises to God of War Laufey team for citing it while saying AAA experiences are boring
 Sat, 19 Sep 2026 11:15:46 +0000 — https://www.videogameschronicle.com/news/the-last-of-us-director-apologises-to-god-of-war-laufey-team-for-citing-it-while-saying-aaa-experiences-are-boring/
@@ -216,37 +204,32 @@ Fri, 18 Sep 2026 14:39:13 +0000 — https://www.videogameschronicle.com/guide/fi
 
 Complete two quests at once by getting Bitter Leaves and Pepper Leaves in one place in Fire Emblem: Fortune's Weave… Source
 
-### Control Resonant review: Remedy gambles on a genre change in one of its most impressive games ever
-Fri, 18 Sep 2026 13:00:55 +0000 — https://www.videogameschronicle.com/review/control-resonant/
-
-The studio behind VGC's 2023 Game of the Year returns with its next single-player epic… Source
-
-### Fire Emblem Fortune’s Weave: Sweet Leaves location for Simple Drink Recipes quest
-Fri, 18 Sep 2026 13:00:11 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-sweet-leaves-location-for-simple-drink-recipes-quest/
-
-Where to find Sweet Leaves to complete Simple Drink Recipes in Fire Emblem: Fortune's Weave… Source
-
-### Fire Emblem Fortune’s Weave: The Missing Granddaughter quest guide
-Fri, 18 Sep 2026 12:36:26 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-the-missing-granddaughter-quest-guide/
-
-Everything you need to complete The Missing Granddaughter Kindness quest in Fire Emblem: Fortune's Weave… Source
-
-### Twitch CEO says Grand Theft Auto 6 s multiplayer mode will launch next year
-Fri, 18 Sep 2026 11:18:55 +0000 — https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/
-
-Dan Clancy says he's "spent a lot of time talking with Rockstar about their plans" Source
-
-### Fire Emblem Fortune’s Weave: Monster in the Night quest guide
-Fri, 18 Sep 2026 10:53:11 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-monster-in-the-night-quest-guide/
-
-Everything you need to complete the Monster in the Night quest in Fire Emblem: Fortune's Weave… Source
-
-### Denuvo sues game hacker for releasing cracks for 26 games that remove its DRM protection
-Fri, 18 Sep 2026 09:57:55 +0000 — https://www.videogameschronicle.com/news/denuvo-sues-game-hacker-for-releasing-cracks-for-26-games-that-remove-its-drm-protection/
-
-Voices38 has been releasing patches that directly target Denuvo's DRM checks… Source
-
 ## Polygon
+
+### Disney Plus Just Proved You Won't Be Able to Escape Ads On Any Tier
+Sun, 20 Sep 2026 13:51:02 GMT — https://www.polygon.com/disney-plus-subscriber-agreement-ads-every-plan/
+
+Disney Plus has updated its subscriber agreement, and it's not looking good for Premium subscribers. The subscriber agreement now states that ads and promotional content can play for subscribers, regardless of their Disney Plus tier.
+
+### Kojima Productions Confirms The Studio Is Alright After Concerning Physint Report
+Sun, 20 Sep 2026 13:36:59 GMT — https://www.polygon.com/physint-report-skepticism-kojima-productions-statement/
+
+Following reporting about the rocky development of Physint , Kojima Productions stated the studio is in a "healthy, profitable state" on X. Kojima Productions is also asking players to take any unofficial statements about Physint's publisher switch "with a dose of scepticism," although it doesn't outright disprove Bloomberg's reporting.
+
+### Wit Studio President George Wada Is Ready to Bring One Piece to a New Generation
+Sun, 20 Sep 2026 13:00:17 GMT — https://www.polygon.com/one-piece-remake-wit-studio-president-george-wada-interview/
+
+Wit Studio has built its stellar reputation over the past 15 years with popular series like Attack on Titan , Vinland Saga , and Spy x Family . These anime all garnered international success and praise, but the Japanese studio now faces perhaps its biggest challenge: bringing another masterpiece manga to the screen as an anime remake: One Piece .
+
+### Resident Evil and Silent Hill Are Just as Cozy as Animal Crossing, According to Science
+Sun, 20 Sep 2026 12:00:17 GMT — https://www.polygon.com/cozy-horror-games-explained/
+
+You can feel it in the air, can’t you? We’re in the last couple weeks of summer, and spooky season is just around the corner. Zach Cregger’s new Resident Evil movie is getting rave reviews — including from us ! So long swimming pools and barbecues, the people demand thrills and chills.
+
+### 13 Years Later, 'President Curtis' is Repeating 'Rick and Morty’s Biggest Mistake
+Sun, 20 Sep 2026 11:00:15 GMT — https://www.polygon.com/president-curtis-repeating-rick-and-morty-biggest-mistake/
+
+On the Rick and Morty spin-off President Curtis last Sunday, we finally learned a bit more about O’Doyle’s mysterious past. Special Agent Francis O'Doyle (Jim Rash) is the top Secret Service agent guarding President Curtis (Keith David), and while we know he’s a half-leprechaun, most of the other details about his background have been kept quiet. That all changed in the episode “Knox,” when O’Doyle’s mom steals all the gold in Fort Knox and frames him for the crime. O’Doyle then goes on the run and, with help from the White House Chief of Staff Rho Banks (Stephanie Beatriz), works to clear his name.
 
 ### 8 Years Ago, Critical Role Changed Forever with Its Most Shocking Character Death
 Sun, 20 Sep 2026 09:00:15 GMT — https://www.polygon.com/8-years-ago-critical-role-mollymauk-death/
@@ -273,32 +256,27 @@ Sun, 20 Sep 2026 07:09:42 GMT — https://www.polygon.com/the-legend-of-zelda-mo
 
 Nintendo is attempting something it hasn't done in more than 30 years : make a live-action adaptation of its video games. The Legend of Zelda from Sony Pictures and Nintendo is slated for release in April 2027, bringing the fantasy role-playing game franchise to life in a way never seen before. (Well, except for that one Japanese commercial for The Legend of Zelda: A Link to the Past with a rappin' Link.)
 
-### 16 Years Later, the Best Kingdom Hearts Game Is More Essential Than Ever
-Sun, 20 Sep 2026 07:00:15 GMT — https://www.polygon.com/kingdom-hearts-birth-by-sleep-best-game/
-
-Sixteen years ago this month, Square Enix and Disney delivered the best Kingdom Hearts game — by finally putting Kingdom Hearts ahead of Disney.
-
-### 5 Near-Perfect Psychological Thriller Shows That are Streaming For Free
-Sun, 20 Sep 2026 06:00:14 GMT — https://www.polygon.com/best-psychological-thriller-shows-free-streaming/
-
-Some psychological thriller shows use the time-tested procedural format to keep things interesting, while others draw out a central mystery by layering shocking reveals. The end goal is to impress and entertain by exploring the darkest recesses of the human mind.
-
-### David Hasselhoff's Iconic 90-Episode Sci-Fi Action Series Is Officially Free on Streaming
-Sun, 20 Sep 2026 05:00:14 GMT — https://www.polygon.com/knight-rider-streaming-free/
-
-Subtlety wasn't exactly a hallmark of 1980s television . This was the decade of private investigators in Ferraris, soldiers of fortune building tanks out of spare parts, ridiculously wealthy families fighting over oil and enough explosions to keep stuntmen employed for years. TV was big, colorful and often completely ridiculous. It was also a lot more forward-thinking than we gave it credit for.
-
-### 43 Years Ago, Peanuts' Best Schroeder Joke Broke the Comic Strip's Biggest Rule
-Sun, 20 Sep 2026 04:34:17 GMT — https://www.polygon.com/best-schroeder-bits-peanuts/
-
-If you ever do a deep dive into Charles Schulz's Peanuts , you'll find a lot that's remarkable about the first decade of the strip's run. Like many American newspaper comics, there's a lot of what modern fans might call "early installment weirdness," as both Schulz's art style and characterization hadn't yet settled down. Everyone's a little off-model, and most of them act quite differently from who they'd eventually turn out to be.
-
-### The 5 Best 'Twilight Zone' Episodes of All Time, Ranked
-Sun, 20 Sep 2026 04:00:19 GMT — https://www.polygon.com/5-best-twilight-zone-episodes/
-
-With some TV shows , you’ve got to start at the beginning. If you’ve never watched Breaking Bad , then randomly tuned into the season 4 episode “End Times” is a terrible idea. You’re going to have a lot of questions, not the least of which would be why everyone seems to love the guy who just poisoned a little kid.
-
 ## PC Gamer
+
+### The latest co-op indie game to take over the internet is like one of my favourite board games, just with bombs
+Sun, 20 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/puzzle/the-latest-co-op-indie-game-to-take-over-the-internet-is-like-one-of-my-favourite-board-games-just-with-bombs/
+
+They say if you give a monkey an infinite amount of time to randomly hit keys on a typewriter it will almost surely write Shakespeare's complete works, word for word. But what happens when you give three monkeys with restricted access to their senses a limited amount of time to defuse a bomb? It explodes, the bomb almost always explodes. This is the terrifying reality you must face in Bombanana, the new co-op bomb disposal game where you and three friends play as monkeys. The monkey part is fun, but not as crucial to the set up as the fact that one of you can't see, one can't hear, and one can't speak; that really throws a spanner in the works. It's like Team 3, the co-op building game which is also based on the three wise monkeys. (Image credit: TARK) I rounded up some friends and started as the monkey who can't see, who also happens to be the monkey that has to defuse the bomb. It's as tricky as you'd expect. None of us had any clue what was going on or how to communicate with one another. The person who had the instruction manual couldn't speak, the only person who could see what they were doing couldn't hear instructions or questions, and I couldn't see what the hell was going on—plus I'm pretty bad under pressure. In the end we just sat back, threw bananas at each other, and waited for the bomb to put us all out of our misery so we could regroup, strategise, and try again. We soon came up with a vague strategy. The middle monkey, who could see but not hear, would work th
+
+### Hideo Kojima says he was 'shocked' after Sony cut ties with Physint over a Zoom call: 'Nothing could’ve prepared me for their decision to step away from the project'
+Sun, 20 Sep 2026 13:21:11 +0000 — https://www.pcgamer.com/gaming-industry/hideo-kojima-says-he-was-shocked-after-sony-cut-ties-with-physint-over-a-zoom-call-nothing-couldve-prepared-me-for-their-decision-to-step-away-from-the-project/
+
+Sony's recent decision to cut ties with Kojima Productions's Physint is one of the more unexpected turns of 2026. Even with the industry's many struggles, and speculation that Death Stranding 2 didn't sell as well as Sony hoped, the PlayStation studio shutting the door on one of the industry's most famed and respected designers was a huge surprise. While Kojima Productions would eventually find a new publisher for Physint in Microsoft , it took a frantic three months of pitching for that happen. This is partly because Kojima himself was similarly blindsided by Sony's decision, as the veteran designer revealed in the first interview he's given since switching publishers. Speaking to IGN , Kojima revealed that in June, Sony contacted him saying they wanted to have a Zoom call, which he agreed to. It was during that call when Sony broke the bad news: "They said they can no longer fund development for Physint. I was shocked and I said 'What did you say?'" Kojima explained. "I couldn't quite process what they had said. I wasn't sure because I was in such shock." Kojima told IGN that he understood "the situation in the industry as a whole", with many studios being shut down and projects being cancelled. But he genuinely believed Physint "was safe" from the industry's broader turbulence. "I was surprised, but not just surprised. We didn't understand the reason. I didn't have any anger or sadness; my first thought was 'What am I going to do with my studio?"' Indeed, Kojima Production
+
+### I urge you to check out this hidden object game where you play as the world's most helpful sniper
+Sun, 20 Sep 2026 12:00:08 +0000 — https://www.pcgamer.com/games/fps/i-urge-you-to-check-out-this-hidden-object-game-where-you-play-as-the-worlds-most-helpful-sniper/
+
+On the list of activities that could feasibly be described as "wholesome", sniping is probably close to the bottom. While I enjoy ventilating skulls from improbably long distances in games like Battlefield 6 and Wardogs , it wouldn't be the first activity that I would consider sharing with the family. Which is why I so admire Sniper Dan 's attempt to turn sharpshooting into a positive experience on both sides of the scope. Developed by Autonauts creators Denki, Sniper Dan smashes together hidden-object games and first-person shooting, and in doing so produces a surprisingly effective symbiotic relationship. The loose premise sees Dan—a crack-shot armed with a hunting rifle and an entrepreneurial spirit, venture out into his local community hellbent upon projectile-based problem solving. Each mission is like a 3D, animated wimmelbilderbuch , scattered with dozens of people, animals, and inanimate objects which may or may not require bullet-based assistance. In play, Sniper Dan couldn't be simpler. You spy a problem, shoot the problem, and solve the problem. What makes it interesting is the wacky array of problems that require your assistance. You might be asked to help blow away piles of leaves in the local park, open a jammed suitcase by shooting the lock, or plant a seed by blasting it into the ground, shooting the pile of soil to cover it, and puncturing the watering can to ensure the soil is sufficiently doused. I took Sniper Dan for a quick spin this morning, and it's a s
+
+### Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life
+Sun, 20 Sep 2026 10:01:30 +0000 — https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/
+
+It's been more than a decade since the last Deus Ex game, and it's unlikely we'll see another one any time soon. Yet while Adam Jensen's story remains frustratingly unfinished thanks to the cliffhanger ending of Deus Ex: Mankind Divided , the indie scene has offered fresh hope for fans of sneaking through moody cyberpunk cityscapes in the form of newly revealed immersive sim Tokyo Walled City . Unveiled at TGS 2026 , Tokyo Walled City is described by developer Grim Ronin as a "stealth action retro-cyberpunk immersive sim with survival horror and RPG elements". So, Deus Ex with scary bits, basically. You play as Reiko Kimura, a mercenary who is trapped in a dense, fortified district of Japan's capital, the name of which implies it is inspired by the Internet's favourite historic enclave Kowloon Walled City. Blade Runner is another clear inspiration, with the opening shot of the game's trailer showing a cityscape that directly references Blade Runner's "Coke billboard" scene. The rest of the trailer offers a montage of all the classic immersive sim tropes. Vent crawling, disabling security cameras, hacking into computers, 0451, shooting out lights, leaning around corners. But TWC isn't a straight Deus Ex knockoff. There are shades of Dishonored in here too. Reiko is considerably nimbler than JC Denton, able to skip across rooftops with ease and perform drop assassinations with a blade. What stands out to me is how sleek the whole thing looks. Making immersive sims as an indie d
 
 ### Over 10 years later, Gabe Newell's advice to devs still holds up
 Sun, 20 Sep 2026 04:31:29 +0000 — https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/
@@ -339,26 +317,6 @@ Terminally Online (Image credit: Future) This is Terminally Online : PC Gamer's 
 Sat, 19 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/rpg/it-rules-that-a-27-year-old-rpg-one-of-the-greatest-of-all-time-is-still-getting-patches/
 
 A lamentable fact of our hobby is this: time marches on. Because our games have to be rendered in real-time by whatever tech we load them onto, they inevitably end up harder to run as the years wear on, and the gap grows between the tech we have and the tech the games were designed to run on. On PC, the task of keeping those games running tends to end up in the hands of dedicated fans—and god bless them. You can't expect devs to maintain games in perpetuity. Unless, I guess, they happen to be the stewards of the Baldur's Gate and Planescape: Torment Enhanced Editions, which are still getting patches almost three decades after the original games released. Most recently (September 15), Planescape got a beta update to its, uh, beta update: a release candidate for an upcoming patch that will bring the game in line with the 2.7 patches some of Beamdog's other Enhanced Edition games already have. As with those other games, the new Planescape beta (itself an addition to a previous beta from August) makes Steam Cloud saves work how they ought to: toggleable through the Steam client itself rather than via in-game options. GOG cloud saves now actually work, too and—this is probably the biggest thing—Planescape now has a UI scaling option in its settings. Leave it off and the game will keep its UI at god's own resolution, 1024x768, but if you flick it on it will adapt to better fit modern monitors. Like yours! Aside from that? Mobile fixes and "significantly easier" dialog.tlk modding. 
-
-### This unofficial engine patch for Thief: The Dark Project adds a huge new feature that won't be in Nightdive's upcoming remaster
-Sat, 19 Sep 2026 13:29:34 +0000 — https://www.pcgamer.com/games/sim/this-unofficial-engine-patch-for-thief-the-dark-project-adds-a-huge-new-feature-that-wont-be-in-nightdives-upcoming-remaster/
-
-Thief: The Dark Project is one of my favourite games of all time, so naturally I am very excited for Nightdive Studios' upcoming remaster . But it's worth remembering that the community has done an excellent job supporting the game up until this point. Unofficial patches like NewDark have ensured that Looking Glass' landmark stealth game can run in high resolutions and with support for widescreen and multi-monitor functionalities for years. And if you thought an official remaster might put such efforts to an end, think again. Not to be outdone by Nightdive, NewDark's creator just released a new version of the overhaul which adds a radical new feature to Thief—dynamic shadows. Yep, NewDark 1.29 introduces hardware transform & lighting to the Dark Engine, opening the door to GPU-driven effects in Thief's gothic steampunk world. Chief among these is shadows that are dynamically cast by moving objects—guards, doors, even master thief Garrett himself. The update's effects were shown off in a YouTube video by Thief fan Bentraxx . What's particularly interesting about the dynamic shadows is not simply how they look, but the mechanical implications they have. For example, opening a door between a dark corridor and a well-lit room will flood the former with light, while opened doors create shadows behind them, meaning Garrett can now use doors to create hiding spaces. At the same time, shadows can be a hindrance to Garrett too. According to Bentraxx, NPCs now have awareness of Garrett
-
-### CD Projekt says abandoning its in-house engine for The Witcher 4 had nothing to do with Cyberpunk 2077's technical woes: 'The dream of the company was actually never to make technology'
-Sat, 19 Sep 2026 11:21:27 +0000 — https://www.pcgamer.com/games/the-witcher/cd-projekt-says-abandoning-its-in-house-engine-for-the-witcher-4-had-nothing-to-do-with-cyberpunk-2077s-technical-woes-the-dream-of-the-company-was-actually-never-to-make-technology/
-
-We still don't know a huge amount about The Witcher 4 . But we do know it represents two big changes for the series thus far. The first change is, of course, that Ciri will replace Geralt as the lead character. The second is that CD Projekk will replace its in-house REDengine with Unreal Engine 5. There's been considerable speculation as to why CDP is abandoning tech that's delivered some of the most cutting-edge visuals of the last decade, with some fans suggesting that Cyberpunk 2077 's difficult development and compromised initial release might be a factor. But the studio's co-CEO Michał Nowakowski has formally dismissed this suggestion, stating the decision had more to do with CD Projekt's general ambitions than Cyberpunk specifically. Speaking on the Deconstructor of Fun podcast (via GamesRadar+ ), Nowakowski addressed the claim that Cyberpunk was the straw that broke REDengine's back: "A lot of people think like this, but this is a bit of a false assumption," he explained. "Because the issue with Cyberpunk was not really REDengine itself. Instead, Nowakowski said that CD Projekt never really wanted to be an engine developer in the first place, stating that. "The dream of the company was actually never to make technology." He conceded that CD Projekt did want to make "visually and technically cutting edge games", for which in-house tech seemed to be the optimal solution for the studio. But what ultimately drives the company is "telling the stories in the most convincing 
-
-### Dune Awakening now has a solo mode for players put off by its MMO leanings, while Funcom has adjusted progression so 'you don't have to lose things anymore'
-Sat, 19 Sep 2026 10:09:00 +0000 — https://www.pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore/
-
-Dune Awakening was lauded for its survivalist take on Frank Herbert's sci-fi epic when it was released last year, but there's one element of Funcom's sci-fi adventure that's proved consistently controversial, and that's its MMO-adjacent elements. Players seemingly love constructing bases and braving the many dangers lurking in Arrakis' deserts, but are less keen on sharing that experience with other players, especially when the game becomes more competitive in its PvP focussed Deep Desert. Now though, in a move that would please Harkonnens galaxy-wide, Funcom has made it so you can keep Arrakis all to yourself. Dune Awakening's long-sought after single-player mode has arrived. Update 1.5 introduces a tweaked version of Awakening suitable for solo play, while also adjusting Arrakis in a bunch of other ways to make it generally more accessible and less punishing. Funcom has changed several core mechanics to make solo mode work, chiefly retooling multiplayer-reliant systems so they can work independently. The player-driven market known as the Exchange now functions as a sci-fi supermarket offering a wide-array of items for players to pick up as they please. Meanwhile, its Landsraad political system simulates rival guilds automatically, ensuring it "progresses even without player participation". Finally, while not player-driven, Coriolis storms have been softened so that players can maintain progress in the Deep Desert, though Function cautions that these storms remain "very dang
-
-### Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical
-Fri, 18 Sep 2026 22:51:54 +0000 — https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/
-
-As reported by Automaton , the 2026 CESA Videogame Industry Report, a survey-based assessment of the Japanese games business, shows a sharp uptick in AI adoption by Japanese developers: 85.8% in 2026, up from 51% just last year . In July, a separate survey covering just online game devs showed a 100% rate of AI adoption . Breaking things down further, 63% of total respondents claim to use generative AI tools on a daily basis, while 22.8% turn to them more irregularly. The survey did not distinguish between disciplines or different forms of generative AI output like code, concept art, in-game assets, or text. Developers cited benefits including improved efficiency and reduced cost and development time, while "human verification" and avoiding the use of generated material in player-facing circumstances are commonly-deployed safety measures. The Japanese industry has been far quicker to adopt AI tools than its North American counterpart: Just 36% of respondents to a similar GDC 2026 survey reported using AI tools as part of their job, while 52% of survey respondents believe generative AI is negatively impacting the industry . One thing I'm curious about is whether Japanese gamers are as vocally hostile to generative AI use as their anglosphere counterparts. Even if there isn't the same social stigma amongst developers, it just looks tacky and cheap when AI-generated assets sneak into a retail game. The Japanese industry certainly appears to be in a healthier place overall compar
 
 ## GameSpot
 
@@ -417,11 +375,6 @@ Fri, 18 Sep 2026 14:43:44 +0000 — https://www.gamespot.com/articles/sony-says-
 
 Sony recently launched "Live TV on PS5," an offering that gives all PlayStation 5 owners access to 100+ channels of free ad-supported TV and movies. Keith Le Goy, the chairman of Sony Pictures TV, recently discussed the reasoning behind launching the service and why he believes it represents "one plus one equaling a lot more than two." Speaking to Variety , Le Goy said PS5 already has 40-50 million people who are "incredibly engaged" with gaming, but also love movies and TV shows. Therefore, he said the company saw an opportunity to target these people, who might not otherwise watch linear TV. He said this is a "very hard-to-reach audience," and also one that is "very attractive" to advertisers. https://www.youtube.com/watch?v=txpaWqfcFFU People can watch anything on the Live TV on PS5 platform for free, in exchange for sitting through ads. It works similarly to other free ad-supported streaming television (FAST) services, including Tubi, Roku, and Pluto. As with most things in life, Live TV on PS5 came about in part to make money, and Le Goy said he believes Sony can achieve big success here, if it executes. “So if we can give that audience something that they’re going to like in an environment that they are comfortable with, give our channel partners an audience that they are going to be going after and give their advertisers an audience that’s valuable for them," he said. "That is one plus one equaling a lot more than two." The executive went on to say Sony is uniquely pos
 
-### Blacksmiths Discover Control Resonant s Massive Hammer Is Simply Too Much Hammer
-Fri, 18 Sep 2026 13:58:45 +0000 — https://www.gamespot.com/articles/blacksmiths-discover-control-resonant-massive-hammer-is-simply-too-much-hammer/
-
-The best tool you can own in life is a hammer, and in Control Resonant , fixing Manhattan requires a VERY big one to perform some percussive maintenance. The Aberrant is the melee weapon that you'll wield in battle, and while it can take a variety of forms, it looks especially satisfying to morph it into a gigantic hammer that wouldn't look out of place in a Looney Tunes cartoon if Rob Zombie were directing it. But what would that version of the Aberrant look like in real life? Pretty intimidating and impractical, it turns out. Ahead of Control Resonant's release next week, the blacksmiths of Man at Arms took a stab at building the Aberrant. In an episode of their YouTube series--and sponsored by Control Resonant developer Remedy Entertainment--the team put together a solid replica, but for the hammerhead itself, they used hollow steel panels and advanced welding techniques to recreate the Aberrant. It's not hard to see why, because having a solid chunk of metal the size of an armchair would make it challenging to work with, let alone wield. Even with the finished hammer employing a few techniques to keep its overall weight under control, it was still too heavy for even the burliest blacksmith to pick up or even swing around for a few test smashes. For now, it's the world's coolest-looking paperweight. https://youtu.be/YtrZWU_S62c Launching on September 24-- or September 22 if you spring for the PS5 Deluxe Edition--Control Resonant is already earning high reviews. On GameSpot
-
 ## Rock Paper Shotgun
 
 ### The Sunday Papers
@@ -453,19 +406,4 @@ The European Commission proposed new rules around how under-15s access the likes
 Fri, 18 Sep 2026 15:00:00 +0000 — https://www.rockpapershotgun.com/roman-sands-rebuild-review
 
 I completed Roman Sands RE:Build late last night, and haven't had nearly enough time to digest it, but I'm keen to help get the word out and energise whatever algorithmic chicanery might contribute to this gorgeous, ugly thing making money. So! Roman Sands RE:Build is two exquisitely grim games locked in a collapsing binary orbit. You should play it, preferably before reading the rest of this review, which is only going to spoil and dilute its squalid magic. Read more
-
-### Denuvo are suing a prolific cracker for bypassing their DRM on 26 videogames, despite not knowing their real identity
-Fri, 18 Sep 2026 13:58:39 +0000 — https://www.rockpapershotgun.com/denuvo-are-suing-a-prolific-cracker-for-bypassing-their-drm-on-26-videogames-despite-not-knowing-their-real-identity
-
-Digital rights management software provider Denuvo are taking a prolific anonymous game cracker to court in the USA, accusing them of violating the Digital Millennium Copyright Act by circumventing the anti-tamper technology on 26 games, including Black Myth: Wukong , Resident Evil Requiem and Doom: The Dark Ages . Read more
-
-### Control Resonant review: A superbly strange action-RPG that'll make you feel tiny and godly at once
-Fri, 18 Sep 2026 13:00:49 +0000 — https://www.rockpapershotgun.com/control-resonant-review
-
-Control Resonant , much like the inside-out, interdimensional cryptids it has you bashing with a shapeshifting stick, probably shouldn&rsquo;t exist. At least not in the risk-averse, pennypinching reality that sometimes seems to have enveloped the art of gamesmaking, and that may have installed some scepticism into my own head . The sequel to a liked yet slow-selling shooter, which replaces both the original&rsquo;s player character and its instantly recognisable, bureauca-brutalist setting, while violently pirouetting into open-world RPG melee brawling. Five words that Remedy, in all their thirty years of existence, have never previously let pass their lips. Read more
-
-### Baldur's Gate 3 Act Two Expansion mod, out now in beta, adds a whole new region to explore after dealing with the Shadow Curse
-Fri, 18 Sep 2026 09:29:57 +0000 — https://www.rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse
-
-An ambitious Baldur's Gate 3 custom campaign mod which adds a whole new region to explore between the RPG's second and third acts is finally out in beta. This extra adventure midway through BG3's main quest is the result of nearly two years of work from modder SquallyDaBeanz, who's put together a trip to The Chionthar Wilds full of new missions and dungeons. Read more
 

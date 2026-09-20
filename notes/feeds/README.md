@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-20T09:27:20.493Z
+# Source feeds — harvested 2026-09-20T14:20:49.354Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -16,6 +16,7 @@ Already aired, so a round-up rather than a preview:
 - Push Square — Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan
 - Game Developer — gamescom
 - Game Developer — Tokyo Game Show (TGS)
+- Game Developer — gamescom latam
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -38,12 +39,12 @@ silently skipping it.
 ## Feeds
 
 - [Manga](manga.md) **owed** — 33 items
-- [Games](games.md) — 93 items
+- [Games](games.md) — 81 items
 - [Tech](tech.md) — 80 items
 - [3D](3d.md) — 13 items
-- [AI](ai.md) — 1 items
+- [AI](ai.md) — 0 items
 - [Film & TV](film-tv.md) — 66 items
 
-Total: 286 items.
+Total: 273 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).
