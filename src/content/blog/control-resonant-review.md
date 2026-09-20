@@ -23,7 +23,6 @@ scoreSources:
     score: 6
   - outlet: ComicBook
     score: 4
-draft: true
 ---
 
 Remedy let reviews for Control Resonant out on 18 September, six days before the
