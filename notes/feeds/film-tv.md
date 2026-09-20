@@ -1,58 +1,98 @@
-# Film & TV — harvested 2026-09-19T18:54:16.235Z
+# Film & TV — harvested 2026-09-20T09:27:20.493Z
 
 ## Variety
 
-### Singer Aaron Rowe Defends Ed Sheeran After Dropping Out of Tour: ‘It Was Human F—ing Error’
-Sat, 19 Sep 2026 18:22:19 +0000 — https://variety.com/2026/music/news/aaron-rowe-defends-ed-sheeran-macklemore-1236869645/
+### Ready, SETT, Go: SETT Execs Drill Down on the Spanish Sovereign Venture Capital Fund That Will Drive Industry Conversation at San Sebastián
+Sun, 20 Sep 2026 05:43:25 +0000 — https://variety.com/2026/tv/global/sett-javier-ponce-maria-coronado-how-sett-works-and-why-1236869707/
 
-Aaron Rowe, who was one of the opening acts on Ed Sheeran’s tour before pulling out after Macklemore’s dismissal over his support for Palestine, has now issued an impassioned defense of the singer. “I think you are all focusing on the wrong person here. All I keep hearing is Ed Sheeran this, Ed Sheeran that. [ ]
+One of the major industry narratives at this year’s San Sebastián Festival, running Sept. 18-26, will be the presentation of SETT, the venture capital fund of Spain’s Ministry for Digital Transformation.SETT director general Javier Ponce and its audiovisual director María Coronado deliver a practical guide to Spain’s governmental investment drive powering up companies in Spain: [ ]
 
-### UFC 331 Livestream: Here s How to Watch Joshua Van vs. Alexandre Pantoja 2 Online
-Sat, 19 Sep 2026 18:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-ufc-331-van-vs-pantoja-2-mma-live-sept-2026-online-free-1236862856/
+### Mark Ruffalo Tells Rob Bonta Don t You Dare Settle the Antitrust Lawsuit Against Paramount: Do Not Cave
+Sun, 20 Sep 2026 01:24:48 +0000 — https://variety.com/2026/film/news/mark-ruffalo-rob-bonta-dont-settle-lawsuit-paramount-1236869774/
 
-After Islam Makhachev defended his welterweight title against Ian Machado Garry during UFC 330 in August, the Ultimate Fighting Championship travels from Philadelphia to Los Angeles for UFC 331. For the main event, Burmese fighter Joshua Van (17-2-0) defends his flyweight title belt against Brazilian Alexandre Pantoja (30-6-0) in a marquee match. It s scheduled for [ ]
+Mark Ruffalo is encouraging California attorney general Rob Bonta and his coalition of 11 other state AGs not to settle their lawsuit against Paramount Skydance and keep David Ellison from acquiring Warner Bros. Discovery. “Don’t you dare, [Rob Bonta], do not cave,” Ruffalo wrote on X. “5,670 filmmakers put their necks on the line for [ ]
 
-### Orville Peck Dedicates Performance to All the Gay Cowboys : We Exist, We Walk Among You
-Sat, 19 Sep 2026 17:35:38 +0000 — https://variety.com/2026/music/columns/orville-peck-dedicates-willie-nelson-duet-gay-cowboys-hollywood-bowl-1236869602/
+### ‘Ride or Die’ Canceled by Prime Video After One Season
+Sun, 20 Sep 2026 00:55:07 +0000 — https://variety.com/2026/tv/news/ride-or-die-canceled-prime-video-1236869768/
 
-Orville Peck made his headlining debut at the Hollywood Bowl on Friday night. But it wasn t the first time the country singer performed at the legendary amphitheater. He performed at the outdoor venue during Willie Nelson’s 90th birthday celebration in 2023. About a year later, Peck, who is openly gay, and Nelson duetted on a [ ]
+“Ride or Die” has been canceled by Prime Video after one season, Variety can confirm. The streamer’s Hannah Waddingham and Octavia Spencer-led buddy dramedy premiered in July of this year. It was first reported that Spencer and Waddingham were teaming up for the series in December 2023. Per the show’s official logline, “‘Ride or Die’ [ ]
 
-### Spain’s National Film Prize Honoree Carmen Machi: ‘Acting Has Been the Driving Force of My Happiness and Also a Balm for My Darkest Moments’
-Sat, 19 Sep 2026 17:27:48 +0000 — https://variety.com/2026/film/global/carmen-machi-spain-national-film-prize-honoree-1236868201/
+### Ed Sheeran Addresses Macklemore Controversy While on Stage at First Concert Since Rapper Dropped From Tour: What Is Happening in Gaza Is Catastrophic and Unjustifiable
+Sun, 20 Sep 2026 00:29:07 +0000 — https://variety.com/2026/music/news/ed-sheeran-addresses-macklemore-on-stage-philadelphia-show-1236869614/
 
-Actor Carmen Machi, best known for her role as Aida in the wildly popular Spanish series “7 Lives” and spin-off “Aida” as well as her pivotal roles in Almodóvar classics “Talk to Her” and “Broken Embraces,” received the 2026 National Film Prize at the San Sebastian Festival, a prestigious honor that has been granted to [ ]
+Ed Sheeran addressed the controversy surrounding Macklemore’s removal from his Loop Tour on Saturday night, speaking from the stage at Philadelphia’s Lincoln Financial Field during his first concert since the rapper was dropped from the trek. Before I play some songs tonight, I hope it s okay if I say a few words about this last [ ]
 
-### Miley s Bass Persuades Is Pretty and Passable, but Surprisingly Light on Bass or Persuasion: Album Review
-Sat, 19 Sep 2026 17:26:27 +0000 — https://variety.com/2026/music/news/miley-bass-persuades-album-review-1236868564/
+### Ruby Rose Remembers ‘Best Friend’ Hayden Panettiere: ‘All That She Ever Wanted Was to Have Her Story Told
+Sat, 19 Sep 2026 23:21:53 +0000 — https://variety.com/2026/film/news/ruby-rose-remembers-hayden-panettiere-1236869723/
 
-The title track and first single from Miley Cyrus Bass Persuades was a classic act of misdirection, we now learn. Released two and a half weeks prior to the album, the song promised a tenth album full of bangers (with an S or Z, take your pick), mildly scolding the young people for not being [ ]
+Ruby Rose got emotional when asked about her friend, Hayden Panettiere, who died Aug. 16 at 36. Rose told Entertainment Tonight that Panettiere was her best friend and that they spoke every day for five years. “I didn’t even think we were going to be friends,” Rose said, tearing up. “I didn’t know if I [ ]
 
-### Cate Blanchett Tells Audience To Stop Recording Her London Play: ‘It Spoils It for The Next Group of People’
-Sat, 19 Sep 2026 17:09:56 +0000 — https://variety.com/2026/theater/news/cate-blanchett-tells-audience-stop-recording-1236869611/
+### Protestors March Outside Ed Sheeran Concert After Macklemore Was Dropped From Tour: ‘It s Not Going to Stop Until Palestine is Free’
+Sat, 19 Sep 2026 23:01:02 +0000 — https://variety.com/2026/music/news/palestine-protestors-ed-sheeran-concert-macklemore-1236869617/
 
-Cate Blanchett asked audience members to stop recording her performance in the London play Electra/Persona per a video shared on Instagram Friday. “There are few places on this planet where we can simply be together and be present,” the actress said on stage. “I understand you like filming the curtain call, and it is kind [ ]
+Pro-Palestinian protesters gathered outside Ed Sheeran’s concert at Philadelphia’s Lincoln Financial Field on Saturday night as the singer returned to the stage for the first time since Macklemore was dropped from his Loop Tour following his onstage remarks in support of Palestine. For attendee Jodi Rhoden, an organizer at Writers Against the War in Gaza, [ ]
 
-### John Wilson on The History of Concrete and What s Wrong With the Documentary Space: People Are Retelling Stories That Have Already Happened
-Sat, 19 Sep 2026 16:30:00 +0000 — https://variety.com/2026/film/news/john-wilson-history-of-concrete-1236867369/
+### ‘Sweet Magnolias’ Creator Reacts to Netflix Cancellation: ‘I Hope Serenity Will Always Have a Place in Your Heart’
+Sat, 19 Sep 2026 21:19:27 +0000 — https://variety.com/2026/tv/news/sweet-magnolias-netflix-cancellation-1236869711/
 
-SPOILER ALERT: This story contains minor spoilers for “The History of Concrete,” now in theaters. John Wilson’s new documentary “The History of Concrete” is, of course, about the history of concrete. But it’s also about selling a documentary titled “The History of Concrete,” which, it turns out, is almost as hard as concrete. It sees [ ]
+Following the news that “Sweet Magnolias” has been canceled at Netflix, creator and showrunner Sheryl J. Anderson is looking back on the romantic drama’s 5 Season run. “Living in Serenity for five seasons has been a privilege and a blessing,” Anderson shared in the caption of an Instagram post Saturday. “The people I’ve met and [ ]
 
-### Box Office: Zach Cregger s Resident Evil Scares Up $26 Million on Opening Day
-Sat, 19 Sep 2026 16:06:01 +0000 — https://variety.com/2026/film/box-office/box-office-resident-evil-zach-cregger-1236869586/
+### Here s How to Watch Isaac Cruz vs. Nestor Bravo Boxing Live Online
+Sat, 19 Sep 2026 21:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-isaac-cruz-vs-nestor-bravo-boxing-live-sept-2026-online-1236867642/
 
-With fall right around the corner, movie theater-goers are ready to be spooked — and Sony’s zombie horror “Resident Evil” has arrived at the perfect time. “Resident Evil” earned $26.3 million domestically across 3,684 screens on opening day, making it far and away the No. 1 new release on Friday. By Sunday, Sony’s new take [ ]
+Premier Boxing Champions travels to Southern California for a prime title bout between two elite fighters for the interim WBC Super Lightweight championship. Mexican boxer Isaac Pitbull Cruz goes head-to-head against Puerto Rican fighter Nestor Bravo in a scheduled for 12 rounds. On Saturday, Sept. 19, Cruz (28-3-2) vs. Bravo (24-1-0) takes place at Pechanga [ ]
 
-### Resident Evil Star Austin Abrams on His Tragic Transformation, Not Trying to Look Cool While Screaming and the One Scene He Wasn’t Allowed to Shoot
-Sat, 19 Sep 2026 15:30:00 +0000 — https://variety.com/2026/film/features/resident-evil-austin-abrams-ending-monster-transformation-1236867004/
+### Henry Winkler Says His Name Was Cut From ‘Scream’ Poster Because ‘You Were the Fonz’ and It Would ‘Knock the Balance of Horror Off’
+Sat, 19 Sep 2026 20:38:34 +0000 — https://variety.com/2026/film/news/henry-winkler-scream-movie-poster-1236869640/
 
-SPOILER ALERT: This article contains major spoilers for Resident Evil, now playing in theaters. There s not a moment in Resident Evil where star Austin Abrams isn t making you laugh, scream or feel bad for the zombie-infested nightmare his character Bryan finds himself in. For almost the entire 95-minute runtime, he s either running, shooting or getting [ ]
+Finding out his name wouldn’t be used on the “Scream” poster wasn’t one of Henry Winkler’s happier days. The “Happy Days” star played Principal Arthur Himbry in the original Scream film, which went on to become one of the most successful horror franchises. But despite his character’s entrance receiving applause during screen tests for the [ ]
 
-### ‘Vintage Violence’ Review: Cole Sprouse Heads Up a Hyper-Online Gonzo Freakout in Japan
-Sat, 19 Sep 2026 15:04:40 +0000 — https://variety.com/2026/film/reviews/vintage-violence-review-1236869473/
+### Pete Davidson and Colin Jost Were Clowned for Buying the Staten Island Ferry. They Just Proved Everyone Wrong.
+Sat, 19 Sep 2026 20:23:46 +0000 — https://variety.com/2026/scene/news/pete-davidson-colin-jost-snapple-island-ferry-comedy-show-1236867593/
 
-Eugene Kotlyarenko has built a career on drawing upon his widely-viewed cinephilic base of knowledge to consider more contemporary forms of hyper-online, of-the-moment provocation, and “Vintage Violence” is no exception. As with Kotlyarenko’s arguably best-known film, 2020’s “Spree,” live-streaming is key: “Vintage Violence” introduces obnoxious social media celebrity Carter (Cole Sprouse) mid-stream before quickly spinning [ ]
+“There’s an epidemic affecting our nation’s young people. The epidemic is fear.” As I scrolled through Instagram on my ride downtown to the Snapple Island Ferry Comedy Show, a reel from The Free Press popped up. Professor Arthur Brooks was making the case that “Gen Z is perhaps the most risk-averse generation in history.” Now, [ ]
 
 ## The Hollywood Reporter
+
+### The Traitors Cast: Kristin Chenoweth, Chloe Kim, Rashad Jennings, Whitney Leavitt and More Join Peacock Hit
+Sun, 20 Sep 2026 04:51:39 +0000 — https://www.hollywoodreporter.com/lists/the-traitors-season-5-cast-list/
+
+The reality television hit, which was just renewed for three additional seasons, is set to return in 2027.
+
+### Mark Ruffalo Urges California AG to Not Settle Antitrust Suit Against Paramount-Warner Bros. Merger: Do Not Cave
+Sun, 20 Sep 2026 04:11:56 +0000 — https://www.hollywoodreporter.com/business/business-news/mark-ruffalo-urges-california-ag-to-not-settle-antitrust-suit-against-paramount-warner-bros-merger-do-not-cave-1236706258/
+
+The Wall Street Journal reported Friday that Paramount and the states are closing in on a deal to settle the lawsuit.
+
+### Ruby Rose Remembers Hayden Panettiere: We Had Everything in Common
+Sun, 20 Sep 2026 02:02:05 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ruby-rose-mourns-hayden-panettiere-tribute-1236706180/
+
+"All that she ever wanted was to have her story told her way, on her terms," the 'Orange Is the New Black' star said of the 'Heroes' actress.
+
+### Ed Sheeran Addresses Macklemore Backlash During Philadelphia Tour Stop: “This Wasn’t The Easy Option”
+Sun, 20 Sep 2026 00:57:25 +0000 — https://www.hollywoodreporter.com/music/music-news/ed-sheeran-macklemore-controversy-palestine-protests-concert-1236706177/
+
+"What happened in Israel and at the Nova Music Festival on October 7th was horrific and compounded centuries of Jewish pain. What is happening in Gaza is catastrophic and unjustifiable, and disproportionate," Sheeran said during the first concert he played following Macklemore’s removal as an opener for pro-Palestinian comments.
+
+### Melissa Barrera Says It s Beautiful to See Macklemore Receive Support After Ed Sheeran Tour Firing: I Didn’t Get That When It Happened to Me
+Sat, 19 Sep 2026 23:24:51 +0000 — https://www.hollywoodreporter.com/music/music-news/melissa-barrera-macklemore-palestine-ed-sheeran-1236706164/
+
+The actress was fired from the 'Scream' franchise in 2023 after sharing her support for Palestine.
+
+### Tom Cruise Reveals How He Cut Digger Transformation Time From Six Hours to Under One
+Sat, 19 Sep 2026 22:22:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-transformation-makeup-cut-time-1236706159/
+
+Alejandro G. Iñárritu’s dark comedy with an unrecognizable Cruise as the lead opens in theaters Oct. 2.
+
+### Naomi Watts Dedicates Donostia Award to Her Mulholland Drive Director David Lynch: I Miss You
+Sat, 19 Sep 2026 21:19:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/naomi-watts-san-sebastian-donostia-award-david-lynch-film-1236706124/
+
+At the San Sebastian Film Festival Saturday night, Watts also shouted out her 'The Impossible' co-star Tom Holland and explained why she was grateful to be getting opportunities "as a woman of my age."
+
+### AI Actor Tilly Norwood Glitches During Piers Morgan Interview, Suddenly Switches Languages
+Sat, 19 Sep 2026 20:00:07 +0000 — https://www.hollywoodreporter.com/news/general-news/tilly-norwood-glitches-piers-morgan-switches-languages-1236706114/
+
+While speaking with journalist and fellow guest Tom Conti on 'Piers Morgan Uncensored,' the AI actor malfunctioned and switched from English to Cantonese.
 
 ### LSU vs. Ole Miss: Where to Watch the 2026 Football Game Online
 Sat, 19 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-lsu-vs-ole-miss-football-game-free-ncaa-streams-2026-1236705945/
@@ -64,107 +104,67 @@ Sat, 19 Sep 2026 17:34:54 +0000 — https://www.hollywoodreporter.com/business/b
 
 The new law exempts indie projects from caps on the use of state tax credits and offers productions enhanced monetization of their incentives.
 
-### Gov. Gavin Newsom Signs CA Postproduction Tax Credit Into Law
-Sat, 19 Sep 2026 17:16:51 +0000 — https://www.hollywoodreporter.com/business/business-news/gavin-newsom-signs-ca-postproduction-tax-credit-into-law-1236705548/
-
-The bill, AB 2319, rewards productions that locate their scoring, editing or other kinds of post work in the state.
-
-### San Sebastián Chief José Luis Rebordinos on His Final Year at the Helm — and Being the Only Top Film Festival to Take a Political Stance
-Sat, 19 Sep 2026 16:43:54 +0000 — https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-film-festival-jose-luis-rebordinos-gaza-1236706043/
-
-The Spaniard has made this Basque seaside town a can't-miss stop on the festival circuit. Here, he reflects on that legacy and explains the decision to make an official statement on the Israel-Gaza war.
-
-### Resident Evil Feasting at Box Office as Zach Cregger s Reboot Races Toward $55M Opening
-Sat, 19 Sep 2026 15:22:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/resident-evil-box-office-zach-cregger-reboot-1236706041/
-
-Austin Abrams stars in Sony's video game adaptation that marks the year's best-reviewed horror title.
-
-### American Hostage Review: Jon Hamm and Giovanni Ribisi in an MGM+ Kidnapping Thriller With Lots of Potential but Little Payoff
-Sat, 19 Sep 2026 14:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/american-hostage-review-jon-hamm-mgm-1236705847/
-
-Shawn Ryan and Eileen Myers ('The Night Agent') adapt the podcast focusing on a 1977 kidnapping in Indianapolis and the trusted radio host caught in the middle.
-
-### CNN, MS NOW Reporters Denied Access to White House as Trump Follows Through on Threat to Ban Outlets
-Sat, 19 Sep 2026 13:20:11 +0000 — https://www.hollywoodreporter.com/news/politics-news/ms-now-denied-access-white-house-trump-follows-through-ban-1236706029/
-
-Trump said Friday that CNN and Politico would also be denied access to the grounds.
-
-### When Hollywood s Major Studios Threatened to Leave California — For Florida
-Sat, 19 Sep 2026 13:15:00 +0000 — https://www.hollywoodreporter.com/business/business-news/hollywood-major-studios-threatened-california-florida-1236705867/
-
-A Democratic Socialist was running for California governor and the studio chiefs balked and said they'd pack up their moving trucks and leave. They were bluffing in 1934. Now...
-
-### Hudson Williams Shares How Surreal It Was for Him and Connor Storrie to Return to Heated Rivalry Set
-Sat, 19 Sep 2026 05:06:27 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hudson-williams-heated-rivalry-tiff-conversation-1236705982/
-
-The 26-year-old actor also teased what fans can expect in season two of the hit hockey romance drama: "If season one/book one is the yearning season, book two is external adversity and [relationship] communication problems."
-
-### Murderous Review: Neil LaBute s New Film Is Undone by Its Overly Familiar Premise and Obvious Plot Machinations
-Sat, 19 Sep 2026 02:57:57 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/murderous-review-neil-labute-thomas-sadoski-1236705377/
-
-A successful filmmaker receives an unwelcome visit from a former collaborator in this thriller receiving its world premiere at the Oldenburg International Film Festival.
-
 ## Deadline
+
+### Princess Di Returns To SNL UK As Deeply Intelligent, Autonomous, Neurokinetic Android In Cold Open Skewering King Charles, Ed Sheeran AI
+Sun, 20 Sep 2026 07:30:03 +0000 — https://deadline.com/2026/09/snl-uk-cold-open-princess-diana-king-charles-ed-sheeran-1237108671/
+
+Princess Diana made a royal return to SNL UK – only this time as a Deeply Intelligent, Autonomous, Neurokinetic Android. Jack Shep s celebrated impression of the late royal was back in episode two of the Sky show last night, in a cold open that skewered her former husband, King Charles III, Ed Sheeran and artificial [ ]
+
+### Alan Ritchson On The Reacher Season That Was Canceled After Someone Got Re-Elected
+Sun, 20 Sep 2026 04:03:58 +0000 — https://deadline.com/2026/09/alan-ritchson-reacher-season-canceled-trump-re-elected-1237108646/
+
+With a fifth season of Reacher underway, Alan Ritchson is still waiting to adapt his favorite book in the Lee Child series. The Jack Reacher actor recently revealed that was almost able to adapt the 1998 novel Die Trying for a season of the Prime Video series, as a fan on social media expressed their [ ]
+
+### Ed Sheeran Admits To Making Mistakes With Macklemore, Calls Out Systemic Injustice In Gaza: I m So, So Sorry
+Sun, 20 Sep 2026 01:12:16 +0000 — https://deadline.com/2026/09/ed-sheeran-mistakes-macklemore-systemic-injustice-gaza-1237108554/
+
+As Ed Sheeran returns to the stage amid the fallout from dropping Macklemore as his tour opener, he s addressing the controversy head-on. On Saturday, while beginning his Loop Tour stop at Philadelphia s Lincoln Financial Field, the 4x Grammy winner apologized for making mistakes in his handling of the situation after pressure from Gillette Stadium owner [ ]
+
+### Mark Ruffalo Urges AG Bonta Do Not Cave On Paramount Deal, Suggests Protest Outside Oakland Office: The People Don t Want It!
+Sun, 20 Sep 2026 00:46:27 +0000 — https://deadline.com/2026/09/mark-ruffalo-urges-ag-bonta-do-not-cave-paramount-deal-1237108548/
+
+As attorneys general meet with Paramount this weekend over a potential deal in the Warner Bros. Discovery merger, Mark Ruffalo is continuing to apply pressure. On Saturday, the 4x Oscar nominee called on Rob Bonta to reject the deal that he and other AGs are currently negotiating with the Ellison-run Paramount ahead of a scheduled [ ]
+
+### Sweet Magnolias Creator Bids Farewell To Serenity, S.C. After Netflix Show Ends: Keep Pouring It Out!
+Sun, 20 Sep 2026 00:09:21 +0000 — https://deadline.com/2026/09/sweet-magnolias-creator-bids-farewell-after-show-ends-1237108545/
+
+As Sweet Magnolias comes to an end on Netflix, Sheryl J. Anderson is bidding farewell to Serenity, South Carolina. On Saturday, the series creator thanked fans for their passion for our characters in a statement after Netflix canceled the romantic drama based on Sherryl Woods books after five seasons. Living in Serenity for five seasons [ ]
+
+### Ed Sheeran Met With Pro-Palestine Protest Outside Philadelphia Concert: F*ck Your Concert, F*ck Your Fans. Palestine Is Our Demand!
+Sat, 19 Sep 2026 23:46:48 +0000 — https://deadline.com/2026/09/ed-sheeran-pro-palestine-protest-philadelphia-concert-1237108537/
+
+Ed Sheeran s return to the Loop Tour drew protesters to the City of Brotherly Love amid ongoing fallout. After the 4x Grammy winner dropped Macklemore from his tour over pressure around the Hind s Hall artist s Palestinian onstage remarks, Sheeran s Saturday stop at Philadelphia s Lincoln Financial Field was met with pro-Palestine protesters. The fact of the [ ]
+
+### Ride Or Die Canceled By Prime Video After One Season, Being Shopped By Paramount TV Studios
+Sat, 19 Sep 2026 23:02:06 +0000 — https://deadline.com/2026/09/ride-or-die-canceled-prime-video-shopped-1237108506/
+
+EXCLUSIVE: This is a shocker one of the streaming hits of the summer will be no more, at least on its original platform. Prime Video has opted not to renew Ride Or Die starring Hannah Waddingham and Octavia Spencer for a second season. The lead studio behind the buddy spy comedy, Paramount Television Studios, [ ]
+
+### Aaron Rowe Defends Ed Sheeran After Dropping Out Of Tour: Human F*cking Error
+Sat, 19 Sep 2026 21:47:53 +0000 — https://deadline.com/2026/09/aaron-rowe-defends-ed-sheeran-1237108505/
+
+Although Ed Sheeran has no more openers on his Loop Tour, at least one artist is coming to his defense after dropping Macklemore over his pro-Palestine remarks. On Friday, after departing the tour, Aaron Rowe defended Sheeran for his human f*cking error in caving to Gillette Stadium owner Robert Kraft s demand that he remove Macklemore [ ]
+
+### Melissa Barrera Says It s So Beautiful To See Support For Macklemore Speaking Up On Palestine: I Didn t Get That When It Happened To Me
+Sat, 19 Sep 2026 21:08:08 +0000 — https://deadline.com/2026/09/melissa-barrera-beautiful-support-macklemore-palestine-1237108502/
+
+Nearly three years after she was fired from the Scream franchise for speaking up in support of Palestinians, Melissa Barrera sees the tides changing. The actress recently expressed how emotional it made her to see Fennias and Ed Sheeran s other openers dropping out of his Loop Tour in support of Macklemore, who was dropped from [ ]
+
+### Rose Friedman Dies: NPR Arts Editor Books We Love Co-Creator Was 38
+Sat, 19 Sep 2026 20:02:52 +0000 — https://deadline.com/2026/09/rose-friedman-dead-1237108488/
+
+Rose Friedman, an NPR editor and reporter who shaped the public radio network s arts culture coverage and co-created its popular reading guide Books We Love, died of cancer Thursday, September 17, at her home in New York City. She was 38. Her death was announced on-air by NPR s Elizabeth Blair, who called Friedman one [ ]
+
+### Block The Merger Elizabeth Warren Call Out AGs For Betrayal In Deal Talks With Paramount: A Win Only For David Ellison
+Sat, 19 Sep 2026 19:22:26 +0000 — https://deadline.com/2026/09/paramount-settlement-opposition-1237108466/
+
+Whatever the true state of settlement talks this weekend among Paramount, a coalition of state Attorneys General and the Writers Guild of America to end the antitrust action over the $111 billion Warner Bros Discovery merger, the people against the deal from the beginning are not going quietly. As Trump tries to ban CNN from [ ]
 
 ### Cate Blanchett Asks London Audience To Stop Filming Play, Says Stage Is Place Where We Can Simply Be Together And Be Present
 Sat, 19 Sep 2026 18:41:42 +0000 — https://deadline.com/2026/09/cate-blanchett-london-stage-cellphones-1237108459/
 
 Enjoying the show? Then please put away your cellphone. That was the message delivered by Cate Blachett from the London stage of National Theatre’s Lyttelton Theatre after the curtain call of Electra/Persona, the new play written and directed by Benedict Andrews that combines the Sophocles tragedy Electra with Ingmar Bergman’s Persona. Still in her stage [ ]
-
-### Editors Guild Praises California s New Post-Production Tax Credit Law As Historic
-Sat, 19 Sep 2026 18:06:48 +0000 — https://deadline.com/2026/09/editors-guild-california-post-production-tax-credit-newsom-1237108455/
-
-The Motion Picture Editors Guild is praising California s bill offering tax incentives for productions that shoot outside the state but bring their post work to California. The bill, signed by Gov. Gavin Newsom yesterday, expands the state s film and television tax credit program and creates a new tax credit to support workers in all areas [ ]
-
-### BritBox Reveals First Look At The Other Bennet Sister Christmas Special
-Sat, 19 Sep 2026 16:20:19 +0000 — https://deadline.com/2026/09/britbox-other-bennet-sister-christmas-special-1237108434/
-
-BritBox is giving a first look at the three-part Christmas special The Other Bennet Sister starring Ella Bruccoleri and Dónal Finn. Check out the photo above. The Other Bennet Sister continues the story of Mary Bennet following the events of the first 10 episodes. Produced by Bad Wolf for the BBC and BritBox North America, [ ]
-
-### Resident Evil s Austin Abrams Recalls Harrowing Stunt Shoot For Zach Cregger s Video Game Adaptation: You Don t Wanna F*ck Up
-Sat, 19 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/resident-evil-austin-abrams-harrowing-stunt-shoots-1237108267/
-
-As Zach Cregger puts audiences in the player s POV with Resident Evil, Austin Abrams had to begin with Level One. The actor admitted he wasn t familiar with the Resident Evil video games or movies before taking the lead in Cregger s adaptation, now playing in theaters, explaining the horror gaming genre really goddamn rocks your nervous [ ]
-
-### As Fall Approaches, Camden International Film Festival Spends Time With ‘The Illusion Of An Everlasting Summer’
-Sat, 19 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/camden-film-festival-the-illusion-of-an-everlasting-summer-1237108335/
-
-The 2026 Camden International Film Festival in mid-coast Maine has reached its midway point. The prestigious all-documentary festival continues Saturday with the world premieres of Sierra Pettengill’s Argonauts at the End of History and Nicole Costa’s No Money No Honey. Friday saw the world premieres of two other nonfiction features: Dependence, directed by Grace Harper [ ]
-
-### Resident Evil Reviving Fall With $53M-$60M U.S. Opening: Best Ever For Zach Cregger Franchise Box Office Update
-Sat, 19 Sep 2026 14:55:00 +0000 — https://deadline.com/2026/09/box-office-resident-evil-1237107316/
-
-SATURDAY AM: Zach Cregger s R-rated Resident Evil is giving the fall box office a blood transfusion with an opening that could approach $60M per rivals, this after last weekend s less robust start of Practical Magic 2. As of this AM, Sony is calling the 3-day at $53M-$55M. I don t know what slowdown they re seeing, but [ ]
-
-### CNN, MS NOW And Politico Journalists Denied White House Entry; Colleagues Condemn Trump s Ban
-Sat, 19 Sep 2026 13:40:57 +0000 — https://deadline.com/2026/09/ms-now-journalists-denied-white-house-entry-following-donald-trumps-announced-ban-1237108359/
-
-UPDATED, with additional statements: President Donald Trump is following through on pledge to ban journalists he doesn t like from the White House: This morning, CNN and MS NOW, formerly MSNBC, as well as Politico announced that their journalists had been denied access to the White House grounds. Both networks announced this morning that their journalists [ ]
-
-### Anthony Page Dies: Tony-Winning, Emmy-Nominated Director Of Stage Screen Was 90
-Sat, 19 Sep 2026 13:11:46 +0000 — https://deadline.com/2026/09/anthony-page-dead-1237108346/
-
-Anthony Page, the prolific British stage, film and TV director who won a Tony Award for his 1997 Broadway production of A Doll s House and was twice Emmy-nominated for acclaimed TV movies in the 1970s, died September 11 at a London residential care home. He was 90. Page s death has been confirmed by press representative [ ]
-
-### Naomi Watts Says She’d Like To Work With Paul Thomas Anderson Praises The Advancements Older Women Have Made In Hollywood — San Sebastián
-Sat, 19 Sep 2026 09:26:10 +0000 — https://deadline.com/2026/09/naomi-watts-paul-thomas-anderson-san-sebastian-1237108327/
-
-“I started, by Hollywood standards, quite late,” Naomi Watts began this morning when quizzed on whether the treatment of older women in Hollywood has improved during a press conference at the San Sebastián Film Festival. The British-Aussie actor is at the Spanish festival to receive an honorary Donostia Award for career achievement. “I launched with [ ]
-
-### Gerrit Graham Dies: Star Trek Phantom Of The Paradise Actor Was 76
-Sat, 19 Sep 2026 03:28:21 +0000 — https://deadline.com/2026/09/gerrit-graham-dead-1237108310/
-
-Gerrit Graham, the actor known for roles in Phantom of the Paradise (1974) and Star Trek, has died. He was 76. The actor died of lung disease and other health complications on Tuesday in Rhinebeck, NY, according to Variety. Born Nov. 27, 1949 in New York City, Graham trained at Columbia University, where he was [ ]
-
-### Deadline s L.A. Law Summit: Nina Shaw Patricia Glaser Honored On Day Of Big Ideas, Big Insights; Watch The Video Presentations
-Sat, 19 Sep 2026 02:17:31 +0000 — https://deadline.com/2026/09/patricia-glaser-nina-west-honored-1237107005/
-
-Deadline s inaugural L.A. Law Summit honored two powerhouses of the profession with awards Thursday for Patricia Glaser and Nina Shaw If you re perceived, and underline the word perceived, as good, the sky s the limit in Los Angeles, Glaser told a packed house at Deadline s L.A. Law Summit on Thursday at the conference with Los Angeles [ ]
-
-### Lollipop Chainsaw : Cult Japanese Video Game Getting The Live Action Feature Treatment
-Sat, 19 Sep 2026 01:30:00 +0000 — https://deadline.com/2026/09/lollipop-chainsaw-cult-japanese-video-game-feature-film-1237107425/
-
-EXCLUSIVE: Cult Japanese video game Lollipop Chainsaw is heading to the big screen. Deadline can reveal that a live action feature version is in the works as the game s creators look to establish a new model for building globally recognized entertainment franchises from Asia. The latest Lollipop Chainsaw video game launches soon alongside an animated [ ]
 
 ## befores & afters
 
@@ -177,11 +177,6 @@ A great conversation that includes a hands-on-demo. The post A great conversatio
 Sat, 19 Sep 2026 00:14:04 +0000 — https://beforesandafters.com/2026/09/19/new-the-end-of-oak-street-featurette-highlights-ilms-spinosaur/
 
 ILM s Jay Cooper also showcases use of AR app. The post New The End of Oak Street featurette highlights ILM s Spinosaur appeared first on befores & afters .
-
-### Watch this VFX breakdown by DNEG for Coyote Vs. ACME
-Thu, 17 Sep 2026 21:20:09 +0000 — https://beforesandafters.com/2026/09/18/watch-this-vfx-breakdown-by-dneg-for-coyote-vs-acme/
-
-Lots of fun befores/afters, animation and CG work here. The post Watch this VFX breakdown by DNEG for Coyote Vs. ACME appeared first on befores & afters .
 
 ## IndieWire
 
@@ -247,10 +242,35 @@ The "Catastrophe" writer and star returns to HBO (post-"Divorce") with a mid-lif
 
 ## The Wrap
 
+### Ed Sheeran Addresses Macklemore Fallout at First Concert Since Rapper’s Loop Tour Removal: I ve Had to Make Difficult Decisions
+Sun, 20 Sep 2026 03:17:35 +0000 — https://www.thewrap.com/creative-content/music/ed-sheeran-addresses-macklemore-fallout/
+
+Ed Sheeran returned to the stage Saturday night and addressed the fallout stemming from Macklemore’s removal from his Loop Tour after the rapper made pro-Palestinian comments during the Sept. 4 and 5 shows at MetLife Stadium in New Jersey. Sheeran took the stage alone at Lincoln Financial Field in Philadelphia on Saturday night after all of the tour’s supporting acts withdrew in solidarity with Macklemore. The rapper was removed from the U.S. leg after several stadium owners notified tour promoter Messina Touring Group that they would not allow concerts with Macklemore on the lineup, according to the promoter. Speaking to the crowd, Sheeran said he had never wanted to be an activist musician but felt compelled to address the controversy, including questions about his views on the Israel-Palestine conflict and concerns over venues pre-approving the content of artists’ performances. “Before I play some songs tonight, I hope it’s okay if I say a few words about this last week,” Sheeran said at the start the show . “I’m used to my music being criticized, and I’m always happy to take that because I’m lucky. A lot of you like my stuff, and to be honest, I’m surprised. I’m not surprised that I’ve even done it. You know, it’s normal. But this week, the criticism was about something much more important, and I’ve had to take and make difficult decisions, and I am making mistakes, and I’m so, so sorry.” You can watch the full speech in the video below. BREAKING: Ed Sheeran breaks silenc
+
+### Hannah Waddingham and Octavia Spencer s Ride or Die Canceled at Prime Video After One Season
+Sun, 20 Sep 2026 00:17:33 +0000 — https://www.thewrap.com/creative-content/tv-shows/ride-or-die-canceled-amazon-prime-video/
+
+The ride is over. The Hannah Waddingham and Octavia Spencer adventure comedy series Ride or Die is over at Prime Video and will not return to the Amazon streamer after one season, TheWrap can confirm. The news comes just over two months after Ride or Die premiered all eight episodes of its first season on the service. The series earned positive reviews. It also topped the service s public top 10 rankings after its debut and charted on Nielsen s weekly top 10. The series was initially being developed and produced at Skydance Television before being moved to Paramount Television follow Skydance Media s acquisition of Paramount Global. Amazon MGM Studios, Spring Tide, Double Dream and Orit Entertainment were also producers. Deadline s report, which was first on the cancellation , also suggested that Paramount Television would be shopping a second season for the series. A representative for Paramount did not immediately respond to a request for comment. Ride or Die was created by Tessa Coates and followed best friends Debbie and Judith (Spencer and Waddingham) traveling abroad, until Judith s secret job as a high-class assassin causes unexpected complications to their travels. The series also starred Ed Skrein, Calam Lynch, Savannah Steyn, Jamie Parker, Jacky Ido, Sylvia Hoeks and Bill Nighy. The news also comes three months after Amazon MGM Studios bumped Kara Smith to head of drama along with restructuring other leadership roles in its television department. The moves led to fi
+
+### Mark Ruffalo Urges California AG Rob Bonta to Reject Paramount Settlement: The People Don t Want It!
+Sat, 19 Sep 2026 22:56:40 +0000 — https://www.thewrap.com/industry-news/deals-ma/mark-ruffalo-slams-paramount-settlement-talks/
+
+Mark Ruffalo added his voice to the group urging California Attorney General Rob Bonta to reject a settlement deal in its regulatory lawsuit against Paramount Skydance s pending acquisition of Warner Bros. Discovery. Do not cave, Ruffalo wrote, tagging Bonta in a message posted to social media . 5670 film makers put their necks on the line for you to fight this merger. Another 75,000+ and counting have signed to tell you not to concede in just 3 weeks. You work for the people the very people who will be hurt if you let this lousy deal filled with empty promises go forward. Please sign to send a message to the AG’s and Paramount. Reject the deal. The people don’t want it! Ruffalo s posts directs his followers to the website for No Paramount Concessions, which features a petition calling on the 12 states suing Paramount-Skydance to hold the line and block the merger. The website states that it has garnered more than 77,000 signatures. In a later post, Ruffalo called on his friends in the Bay Area asking them to show up outside his AG office in Oakland tomorrow at 5 p.m. to reject this backroom deal. Ruffalo has been one of the entertainment industry s most visible critics of Paramount s pending acquisition of Warner Bros. In August, he voiced objections to the business relationship between Larry Ellison s tech giant Oracle, which is backstopping more than $40 billion of the Warner Bros. Discovery acquisition, and Israel s ongoing military activity in Gaza. The comments proved d
+
+### Elizabeth Warren Blasts Paramount Merger Settlement Talks: ‘Massive Mistake to Cave’
+Sat, 19 Sep 2026 21:07:05 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/elizabeth-warren-paramount-merger-settlement-massive-mistake/
+
+Sen. Elizabeth Warren (D-Mass.) issued a warning Saturday that it would be a massive mistake to cave on 12 states lawsuit against Paramount Skydance s pending acquisition of Warner Bros. Discovery. Warren s statement comes amid reports that California Attorney General Rob Bonta is in advanced talks on a potential settlement with the company, which would remove the only remaining regulatory hurdle impending the transaction. As Trump tries to ban CNN from the White House, it would be a massive mistake to cave on the Paramount merger, Warren wrote in a statement posted to social media. The last thing we need is another Trump-controlled media conglomerate abusing its power to stomp out competition. This is a dangerous merger. The senator s post cites Trump s recent ban of certain outlets from the White House press pool, which includes the WBD-owned CNN as well as MS NOW and Politico. Reporters for all three outlets were turned away from the White House on Saturday. Block the Merger, a campaign backed by the Future Film Coalition, also released a statement against the settlement talks Saturday: The rumored ‘deal’ to usher the Paramount-Warner Bros. merger forward is an insult to everyone who has stood up against this harmful transaction and to the hundreds of thousands of workers, journalists and consumers who will be hurt if it goes forward. Let’s be very clear: an agreement based on unenforceable concessions is a win only for David Ellison. It is an L for everyone else. Thousand
+
+### Ed Sheeran Defended by Former Opener Aaron Rowe, Who Exited Tour in Solidarity With Macklemore
+Sat, 19 Sep 2026 20:38:08 +0000 — https://www.thewrap.com/industry-news/business/aaron-rowe-defends-ed-sheeran-macklemore/
+
+Singer-songwriter Aaron Rowe defended Ed Sheeran on social media Friday, telling his fans that criticism should be pointed at other figures behind the decision to remove Macklemore from Sheeran s tour over the rapper s onstage advocacy for Palestine. Rowe s statement comes after he also exited his dates as a Sheeran opener in solidarity with Macklemore. “You are all focusing on the wrong person here,” Rowe said in an edited, front-facing video posted to his Instagram . “All I keep hearing is Ed Sheeran this, Ed Sheeran that — when you really should be focusing on the likes of [Gillette Stadium owner] Robert Kraft. You really should be focusing on the Zionist lobbies that are trying to silence the voices of people who are shouting about genocide, the genocide that is happening in Palestine right now by Israel.” Rowe went on to say that Sheeran s statement could have been a lot better, and I do think that Macklemore shouldn t have been pulled from the tour. In a social media statement posted Tuesday, Sheeran said that Macklemore s removal was the promoter s decision and not mine. I fully believe it was panic station over there, and they f king rushed the decision because they didn’t know what to f king do because they were getting it from all angles. That’s a mistake … I haven’t had a chance to f ing talk to Ed too much, but I fully believe he knows that was a mistake, Rowe continued. You should be using this opportunity to plaster Robert Kraft’s face everywhere. Someone who tr
+
 ### Gov. Newsom Signs Bill Creating California s First Standalone Tax Credit for Post-Production Work
 Sat, 19 Sep 2026 18:15:07 +0000 — https://www.thewrap.com/industry-news/business/newsom-signs-bill-post-production-tax-credit-california/
 
-California Governor Gavin Newsom signed a bill that creates a new tax credit for post-production work in California, the governor s office announced Friday. The bill, AB 2319, provides a 35% to 50% tax credit for qualifying expenses related to editing, sound, music, visual effects, finishing and other post-production processes completed in state. The bill was carried by state Assemblymember Nick Schultz (D-Burbank). Productions do not need to shoot in California to qualify for the incentive. The pre-existing parameters for California program s for film and television tax credits had already included post-production work, but only if 75% of filming or overall spending occurred in the state. The budget agreement in AB 2319 includes $10 million as startup funding for the program. The original formulation of the bill sought a $100 million allocation for the credit. Schutlz s office shared that the assemblymember would look to increase funding in next year s budget. Other state film and television programs already included tax incentives for post-production work, including those in New York, New Jersey, Georgia and New Mexico. Additionally, similar incentives also existed abroad, luring work overseas away from Hollywood over the years. Along with AB 2319, Newsom also signed Bill 186, which goes into effect in 2027 and expands California s film and television tax credit program by enhancing refundability for credits and exempting certain independent productions from temporary credi
+California Gov. Gavin Newsom signed a bill that creates a new tax credit for post-production work in California, the governor s office announced Friday. The bill, AB 2319, provides a 35% to 50% tax credit for qualifying expenses related to editing, sound, music, visual effects, finishing and other post-production processes completed in state. The bill was carried by state Assemblymember Nick Schultz (D-Burbank). Productions do not need to shoot in California to qualify for the incentive. The pre-existing parameters for California program s for film and television tax credits had already included post-production work, but only if 75% of filming or overall spending occurred in the state. The budget agreement in AB 2319 includes $10 million as startup funding for the program. The original formulation of the bill sought a $100 million allocation for the credit. Schutlz s office shared that the assemblymember would look to increase funding in next year s budget. Other state film and television programs already included tax incentives for post-production work, including those in New York, New Jersey, Georgia and New Mexico. Additionally, similar incentives also existed abroad, luring work overseas away from Hollywood over the years. Along with AB 2319, Newsom also signed Bill 186, which goes into effect in 2027 and expands California s film and television tax credit program by enhancing refundability for credits and exempting certain independent productions from temporary credit. C
 
 ### The 3 Best New Movies to Watch on Paramount+ This Week
 Sat, 19 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/movies/best-new-movies-to-watch-on-paramount-this-week-september-19/
@@ -272,80 +292,55 @@ Sat, 19 Sep 2026 14:51:07 +0000 — https://www.thewrap.com/creative-content/mov
 
 Amidst the best critical and audience reception ever received for a film bearing the name of Capcom s horror video game series, Sony Pictures Resident Evil has earned a $26.3 million opening day from 3,684 locations, setting a new franchise record. From this start, Sony is projecting a domestic opening weekend of $53-55 million while industry estimates and theatrical sources are predicting that stronger Saturday and Sunday totals will bring a $60 million weekend. Either result is a career record for director Zach Cregger and a franchise record for Resident Evil, passing the $26.6 million mark set by Paul W.S. Anderson s Resident Evil: Afterlife in 2010, which equates roughly to $40.9 million after inflation adjustment. Through the 2000s, Resident Evil at the box office was associated with the Milla Jovovich series of films that made decent money amidst weak reviews. That s not the case with Cregger s film, which holds a strong 96% critics and 91% audience Rotten Tomatoes score alongside a B+ on CinemaScore and 4.5/5 on PostTrak. That word-of-mouth, combined with Cregger s growing popularity among horror fans, should give Resident Evil a chance to leg out well into October and possibly serve as a seasonal Halloween offering for moviegoers even with competition from Universal/Blumhouse s Other Mommy and Warner Bros./DC s Clayface next month. Resident Evil carried a $75 million budget from TriStar Pictures, Constantin Films and Davis Films, with Vertigo Entertainment as a co-pro
 
-### Duncan Sheik Remembered: Lea Michele, Melissa Barrera and More Pay Tribute to Late Musician
-Sat, 19 Sep 2026 04:41:56 +0000 — https://www.thewrap.com/creative-content/theater/duncan-sheik-tributes-lea-michele-melissa-barrera-more/
-
-Duncan Sheik s colleagues and friends paid tribute to the Tony and Grammy-winning singer-songwriter following word of his death on Friday. Among those to pay tribute to Sheik, who co-created Broadway s Spring Awakening alongside Steven Sater, was Glee alum Lea Michele. I met Duncan when I was 14 years old,” Michele, who rose to fame by originating the leading role of Wendla in Spring Awakening, wrote on her Instagram Story. “I listened to a demo on tape of him singing songs from Spring Awakening outside of my middle school before my first audition. She continued: I’m at a loss for words. This one hurts and does not seem real. Thank you for everything you gave us. And for the time we had together. Sending all my love and prayers now to Nora, Ines, and Duncan’s family.” Michele s message came hours after Sheik s mother confirmed that the “Barely Breathing” singer died Thursday at 56 due to organ failure. He had been hospitalized in Manhattan earlier in the week. Michele was not alone in paying tribute to Sheik on social media, as many in the Broadway scene remembered the artist for his talent and dedication to family. Orange Is the New Black star Kimiko Glenn, who starred in the first U.S. national tour of Spring Awakening, shared a series of photos of herself and Sheik, writing in the comments: The world really could’ve benefited from a couple more decades of your music, but life has a way of doing its own thing. For better or for worse. Your legacy will live on forever, Dunca
-
-### Comedian Carrot Top Hospitalized Following Suicide Attempt
-Sat, 19 Sep 2026 03:57:21 +0000 — https://www.thewrap.com/culture-lifestyle/culture/comedian-carrot-top-hospitalized-following-suicide-attempt/
-
-Comedian Carrot Top, also known as Scott Christopher Thompson, has been hospitalized in Las Vegas, Nevada following a reported suicide attempt. “Mr. Thompson is recovering in the hospital and is receiving the care and support he needs, his rep, Jami Schlicher, told TheWrap Friday evening. His family and those closest to him are deeply grateful for the concern, prayers and respectfully ask for privacy.” Earlier on Friday, TMZ reported that 61-year-old Thompson had been rushed to the hospital in Las Vegas, resulting in the cancelation of his show at the Luxor hotel. The outlet reported that Thompson had attempted suicide Friday. While speaking with TheWrap, Thompson s rep did not address the specifics surrounding his hospitalization. Thompson, now known for his over-the-top prop comedy, vibrant hair and long-running presence in Las Vegas, got his big break in 1991, when he performed on the comedy showcase series Comic Strip Live and Star Search. In 2003, he recorded the popular comedy special Carrot Top Rocks Las Vegas at the MGM Grand in Las Vegas. He went on to have a number of appearances in TV shows and specials, including Scrubs, Larry the Cable Guy s Christmas Spectacular, Space Ghost Coast to Coast, Reno 911! and George Lopez. Additionally, Thompson served as the producer and star of Comedy Central s Carrot Top s AM Mayhem between 1994 and 1996. The cartoon programming block saw classic cartoons aired alongside Thompson s notable prop comedy. However, Thompson s best kno
-
-### Bill Maher Revives Macklemore’s Antisemitic Costume Controversy Amid Ed Sheeran Fallout
-Sat, 19 Sep 2026 03:04:01 +0000 — https://www.thewrap.com/creative-content/tv-shows/bill-maher-calls-out-macklemore-antisemitic-costume-controversy-after-ed-sheeran-drama/
-
-Bill Maher took aim at Macklemore after the rapper was dropped from Ed Sheeran’s tour over pro-Palestinian remarks, reminding viewers of his controversial past. Specifically, during his monologue for Friday s Real Time, Maher appeared to make reference to the 2014 concert where Macklemore wore a Jewish caricature costume, which perpetuated antisemitic tropes. Everyone s paying more. Macklemore had to pay an arm and a leg for a giant fake prosthetic Jew nose, Maher said, seemingly referencing the onstage ensemble where Macklemore wore a dark wig, beard and a fake nose. Are you not following that story? I see people, What is he talking about? Is that insulting? Is he right?' Apparently, [Ed Sheeran] is old buddies with Macklemore from 15 years ago, back when Macklemore had his one hit, he continued, recapping the controversy. So, Ed Sheeran let Macklemore be his opening act on his tour. And when I say, act, he goes out there and repeats lies about how Gaza is a genocide. Maher then went on a brief tangent, where he stated that he disproved it last week with facts and figures. He added: Not that they care, but that s a lie. Ok, so Robert Kraft, who is a rich guy owns the Patriots, owns the stadium where this concert was about to take place, he was understandably offended by this and said, You can t play my stadium,' Maher said. So, now Macklemore s fans hate Ed Sheeran. Ed Sheeran s own band won t play with him. And Ed Sheeran needs a new opening act. So, today, Britney Spears s
-
-### White House Correspondents Association Condemns Trump s Journalist Ban as a Constitutional Breach
-Sat, 19 Sep 2026 02:00:32 +0000 — https://www.thewrap.com/media-platforms/journalism/white-house-correspondents-association-condemns-trump-ban/
-
-The White House Correspondents Association responded to Donald Trump s plan to ban journalists from CNN, MS NOW and Politico from the White House press pool, calling out the move as a Constitutional breach. The president said it plainly in the Oval Office, describing his own planned action as a ban on the free press,' WHCA President Jacqui Heinrich said in a Friday statement. The Constitution protects the freedom of the press from government interference. That protection does not depend on whether the president likes a news organization’s coverage, agrees with its reporting, or approves of the questions its journalists ask. Heinrich, a Fox News senior White House correspondent and co-anchor of “The Sunday Briefing, released the statement hours after Trump went on Truth Social to share his plans to revoke the press rights of journalists from the select three organizations. The president also warned that other similar bans were soon on the way. “Media Outlets shouldn’t be able to constantly write or report FICTION and LIES when they’re covering the President of the United States, the Trump Administration, or the United States of America,” Trump wrote on Truth Social . “Other Fake News Media Outlets to follow.” This is about more than the rights of journalists, Heinrich wrote. It is about the right of the American people to receive a full and independent account of the activities, policies and decisions of whoever occupies the nation’s highest office. The WHCA stands in defense 
-
-### Hundreds Form Human Chain Around Kennedy Center in Protest of Trump s Plans: Hands Off
-Sat, 19 Sep 2026 01:46:11 +0000 — https://www.thewrap.com/media-platforms/politics/kennedy-center-human-chain-protest-trump/
-
-Hundreds of protesters used their bodies to form a human chain around the Kennedy Center Friday, protesting President Donald Trump’s plans for the famed venue. In video footage obtained by C-SPAN, rows of protesters locked hands while blocking the entrance to the main building of the Kennedy Center, which abruptly closed on Tuesday following a board vote. Keep your tiny hands off, the crowd at the rally repeatedly chanted as the sun set in Washington, D.C. Friday night. The chant soon pivoted to a more simple demand of: Hands off! Watch the footage below. "Hands off!" "Hands Around the Kennedy Center" rally in Washington, DC. pic.twitter.com/o2g10JJNAz &mdash; CSPAN (@cspan) September 19, 2026 The protest event, called “Hands Around the Kennedy Center” and organized by the Hands Off the Arts advocacy group, took place Friday after Trump threatened to demolish the storied institution named for late President John F. Kennedy Jr. The president’s threats came after a federal judge blocked the latest attempt to add his name to the facade, prompting the Trump-appointed board to vote to close the venue citing structural safety concerns . While a federal judge ordered Thursday that the Trump administration needed to provide at least 30 days’ notice before making any changes to the center, the president stood his ground, calling the venue “a dump” in the Oval Office Friday. “The place is a dump. It’s been a dump for years. It’s lost money for years. I can turn it around, fix it,” Trum
-
 ## Collider
 
-### The 10 Best Closing Lines in Book History, Ranked
-Sat, 19 Sep 2026 18:53:11 GMT — https://collider.com/best-book-closing-lines-ranked/
+### The 5 Greatest 3-Season HBO Shows of All Time, Ranked
+Sun, 20 Sep 2026 09:26:11 GMT — https://collider.com/best-hbo-shows-3-seasons-ranked/
 
-You'd think it would be simple to rank off some of the best closing lines in book history, but it’s necessary to set up some rules regarding what counts as a closing line. And this is before getting to the difficulty involved with not being able to read everything, and also the struggle of likely spoiling some books by doing a ranking like this, but oh well.
+Three seasons can be a strange amount of television. It is long enough for a show to establish clear stakes and get the audience attached to its characters, but short enough for every single episode to matter. HBO seems to have mastered the art of the three-season format because the network has proven, time and again, that a show does not need endless time on air to remain memorable.
 
-### Anya Taylor-Joy's Genre-Defining Horror Hit Is Officially Leaving Netflix
-Sat, 19 Sep 2026 18:30:11 GMT — https://collider.com/anya-taylor-joy-horror-the-witch-leaving-netflix-october-2026/
+### Jon Bernthal's Forgotten 'Sopranos' Spin-Off Officially Surges on Streaming
+Sun, 20 Sep 2026 09:20:11 GMT — https://collider.com/jon-bernthal-sopranos-spin-off-the-many-saints-of-newark-streaming-success-vod-september-2026/
 
-Director M. Night Shyamalan 's career-saving blockbuster Split is generally regarded as Anya Taylor-Joy 's grand introduction as a future star, but the film's success was supplemented by another influential hit that debuted a few days later. Split was released in January 2016, and Taylor-Joy's other hit was released in February, after having premiered at the Sundance Film Festival a year earlier. The second movie was a critical and commercial hit, albeit on a different scale compared to Split . Shyamalan's movie grossed a massive $280 million worldwide against a reported budget of under $10 million, while the second film featuring Taylor-Joy grossed around $40 million against a $4 million budget. It's now streaming on Netflix, but only for a little while longer.
+Few stars are having as successful a year as Jon Bernthal , who has headlined some of the biggest movies and TV shows on streaming and in theaters. Bernthal began 2026 by teaming up with Tessa Thompson for the Netflix original series, His & Hers , which earned millions of views during its initial period on streaming. He then reprised his role as Frank Castle in The Punisher: One Last Kill before returning to the role in Spider-Man: Brand New Day , which has grossed well over $2 billion at the global box office. The fourth MCU Spider-Man movie wasn’t the first box office hit of the summer for Bernthal, though. Two weeks before its premiere, he made his debut in a Christopher Nolan movie by starring as Menelaus in The Odyssey , which is set to arrive on digital platforms in November.
 
-### Netflix Officially Has a Major Viewership Problem
-Sat, 19 Sep 2026 18:27:12 GMT — https://collider.com/netflix-viewership-long-gaps-between-seasons-cancellation-2026-report/
+### Netflix Is Officially Losing the Coen Brothers' Crime Masterpiece Next Month
+Sun, 20 Sep 2026 09:00:11 GMT — https://collider.com/frances-mcdormand-fargo-leaving-netflix-october-2026/
 
-In a new era for TV, streamers must push out content that will keep viewers tuning in. Netflix used to be the clear victor in this war, but the competition has been surging in recent years. Disney+ and Hulu have merged into one option and are close to surpassing Netflix in total usage, and Prime Video is creeping up on Netflix's overall number of subscribers. Even Apple TV, a fairly new option, has asserted itself in prestige, setting a record at the recent Emmy Awards for most wins by a network in a single night. Netflix has a problem retaining viewers, and a new report confirms why .
+After several years pursuing their own projects, the Coen Brothers are reportedly working together again on a new film. The duo has already worked on unproduced scripts, and fans can rest assured that another Coen Brothers feature seems likely in the near future. But the fact remains that it's been eight years since the brothers last teamed up on a film, when they brought to life the 2018 American Western black comedy The Ballad of Buster Scruggs , an anthology of six shorts that take place within the American Wild West.
 
-### Bad Apples: Saoirse Ronan Left Set Ready to Direct | Set Stories
-Sat, 19 Sep 2026 18:15:11 GMT — https://collider.com/video/bad-apples-saoirse-ronan-left-set-ready-to-direct-set-stories/
+### Martin Scorsese's Favorite 1963 Classic Officially Departs HBO Max
+Sun, 20 Sep 2026 08:40:11 GMT — https://collider.com/federico-fellini-8-and-a-half-1963-classic-leaving-hbo-max-september-2026/
 
-Saoirse Ronan reveals how Bad Apples helped crystallize her desire to direct, after taking a hands-on approach to supporting young actors Nia and Eddie during filming.
+James Cameron 's The Terminator is immensely influential on movie-making as a whole, but do you know which other film has left an even bigger stamp on cinema over the years? We're talking about a 1963 Italian-language classic that has inspired everyone from Woody Allen to Ridley Scott , and became one of Martin Scorsese 's all-time favorites. It inspired a movie that served as Daniel Day-Lewis ' follow-up to his Oscar-winning performance in There Will Be Blood , and was paid homage to in a sex spoof film about the inner workings of the porn industry. As you can tell, the classic's impact was felt far and wide. It's currently streaming on HBO Max in the United States, but only for a little while longer.
 
-### Marvel's Most Important Sci-Fi Reboot Is Officially Leaving Netflix
-Sat, 19 Sep 2026 18:00:11 GMT — https://collider.com/spider-man-homecoming-leaving-netflix-october-2026/
+### Ryan Reynolds’ $176M Action Smash Is Officially Making Its Last Stand on Netflix
+Sun, 20 Sep 2026 08:20:11 GMT — https://collider.com/ryan-reynolds-hitmans-bodyguard-leaving-netflix-october-2026/
 
-Last weekend at the box office saw the unthinkable finally happen, as the all-conquering Spider-Man: Brand New Day lost its spot at the top of the domestic ranks. After almost two months of defeating any and all competitors, Tom Holland 's Friendly Neighborhood Spidey was bewitched by the long-awaited return of Sandra Bullock and Nicole Kidman in Practical Magic 2 , which dispelled poor reviews to top the box office charts. However, a weekend haul of $8.4 million was enough to edge Brand New Day to its most important box office milestone yet.
+It seems everyone with even the slightest association with the MCU is joining the team for the upcoming Avengers: Doomsday . However, one name is still missing from the official lineup: Ryan Reynolds . Although it has been heavily teased by the man himself and reports from different outlets offer conflicting stories, there is not yet any official word about Deadpool's involvement following the huge billion-dollar success of Deadpool & Wolverine .
 
-### The Greatest Action Movie From Every Year of the Past Decade
-Sat, 19 Sep 2026 17:57:12 GMT — https://collider.com/greatest-action-movie-every-year-2015-2025/
+### Anya Taylor-Joy's $168M Sci-Fi Masterpiece Is Officially the Best Movie Nobody Watched
+Sun, 20 Sep 2026 08:00:11 GMT — https://collider.com/furiosa-anya-taylor-joy-sci-fi-thriller-masterpiece-mad-max/
 
-From 2015 until today, we've had the chance to see some amazing (and not so amazing) action movies. Fans of the genre have been enjoying a surge of creative new action flicks that are becoming more genre-bending and focus on giving the characters a good story , rather than just participating in glorified action and violence.
+There are those who are meant to die historic on the Fury Road and those who aren’t. Ultimately, that is the big difference between George Miller ’s high-octane thrill ride, Mad Max: Fury Road , and the slow-burn and more fruitful prequel, Furiosa: A Mad Max Saga . The title says it all. Anya Taylor-Joy ’s underrated movie, Furiosa , was set in the world of Mad Max , but it would be something else entirely.
 
-### The 10 Worst Romantic Movies in Film History
-Sat, 19 Sep 2026 17:52:11 GMT — https://collider.com/worst-romantic-movies-film-history/
+### Jason Statham’s $760 Million Sci-Fi Action Blockbuster Officially Lands on Hulu
+Sun, 20 Sep 2026 08:00:11 GMT — https://collider.com/jason-statham-fast-and-furious-hobbs-and-shaw-streaming-hulu-september-2026/
 
-Though the overall market presence of romantic movies in theaters has somewhat declined over the course of the last couple of decades, one thing is undeniable: This remains one of the most historically important, beloved, and influential genres in the history of cinema, one which has given us several of the greatest motion pictures the big screen has ever seen. For every great romance film, however, there's at least one other one out there that's... not quite as good.
+Have you ever wondered what would happen if a host of Angelenos stole some DVD players and, ten movies later , ended up being given the keys to the planet? Nope, nobody else did. But it worked, and it worked very well. As a result, we ended up with the weirdest, most intriguing spin-off that nobody ever asked for.
 
-### ‘Widow’s Bay’ Star’s New Fantasy Series Was Inspired by ‘Sonic the Hedgehog’ and ‘Dragon’s Lair’
-Sat, 19 Sep 2026 17:38:40 GMT — https://collider.com/golden-axe-paramount-plus-matthew-rhys-liam-mcintyre-lisa-gilroy-danny-pudi/
+### 27 Years Later, The Greatest Action Sci-Fi Movie's Final Line Still Officially Defines the Genre
+Sun, 20 Sep 2026 04:08:11 GMT — https://collider.com/the-matrix-final-quote-sci-fi-action-movie/
 
-It’s a golden year for actor Matthew Rhys , who just recently made history at the 2026 Emmy Awards . He’s dominated screens this year in Apple TV’s Widow’s Bay and The Beast in Me , and now, Paramount+ has dropped all 10 episodes of its SEGA adaptation, Golden Axe , where Rhys plays the battle axe-wielding dwarf, Gilius Thunderhead. Just in time for its streaming debut, Collider’s Steve Weintraub had the immense pleasure of moderating a Q&A for our advanced screening of the first two episodes, “The Legend of the Emerald Blade” and “Rideable Beasts.”
+27 years ago, the sci-fi action classic The Matrix hit theaters, kickstarting not just a new franchise, but a new subgenre . The movie beautifully showcases the story of Thomas Anderson, aka Neo ( Keanu Reeves ), and his journey of self-discovery as he transforms from an idle, stagnant office worker and black-market hacker who is "unplugged" from a false simulation, into a freedom fighter for humanity. Over the course of the movie, Neo then evolves from a would-be freedom fighter into a savior who perhaps holds the key to liberating the human race from machine oppressors . Neo's journey becomes complete in the movie's final moments.
 
-### Netflix Is Officially Losing One of Tom Cruise’s Most Powerful Movies
-Sat, 19 Sep 2026 17:30:11 GMT — https://collider.com/tom-cruise-born-on-the-fourth-of-july-leaving-netflix-october-2026/
+### 5 Thriller Series That Are Perfect From Beginning to End
+Sun, 20 Sep 2026 03:39:11 GMT — https://collider.com/thriller-shows-perfect-beginning-to-end/
 
-It's not long before Tom Cruise returns to the big screen, after blessing last summer's box office with his final outing as Ethan Hunt in Mission: Impossible - The Final Reckoning . In his first non-franchise film since 2017's American Made , the satirical black comedy Digger promises to be a huge hit, although those rumors of it being a musical have since been squashed.
+Starting a thriller is the easy part. All it takes is one intriguing mystery or terrible decision, and the audience is hooked for a couple of episodes at the very least. The real challenge is holding onto that same tension. The longer a story runs, the more chances it has to overcomplicate things, or worse, lose all momentum.
 
-### Guillermo del Toro Officially Settles the Debate Over ‘Pan’s Labyrinth’s Ending
-Sat, 19 Sep 2026 17:30:11 GMT — https://collider.com/pans-labyrinth-ending-guillermo-del-toro-interview/
+### 'The Matrix' Meets 'Resident Evil' in This Streaming Hit Action Thriller
+Sun, 20 Sep 2026 03:09:11 GMT — https://collider.com/underworld-franchise-matrix-resident-evil-streaming-starz-september-2026/
 
-Not every movie has the honor of receiving the longest recorded standing ovation at the Cannes Film Festival — a whole 22 minutes, in fact. But that distinction belongs to the 2006 dark fantasy Pan's Labyrinth , directed by Guillermo del Toro . At San Diego Comic-Con this year, the filmmaker, actors Ivana Baquero and Doug Jones , and cinematographer Guillermo Navarro gathered for a panel commemorating the film's 20th anniversary, coinciding with its upcoming 3D and 4K re-release by Barco. The re-released version is set to premiere on October 9, 2026 — del Toro's birthday.
+The 2000s saw many movies that capitalized on the success of The Matrix – in almost every genre there was an homage, or pastiche, of the popular sci-fi’s bullet time sequences, kung fu action, or futuristic aesthetic. One film, however, harnessed that momentum rather than copying it: 2003’s Underworld . Kate Beckinsale led the movie that would spark a franchise, which years later is now climbing the charts on Starz, where three volumes of the series are currently among the top 10 most-streamed films. So, is it simply imitation that made it a success? Far from it, because the movies and their lead changed the way we looked at women in action movies forever.
 

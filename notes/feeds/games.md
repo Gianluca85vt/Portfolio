@@ -1,6 +1,11 @@
-# Games — harvested 2026-09-19T18:54:16.235Z
+# Games — harvested 2026-09-20T09:27:20.493Z
 
 ## Eurogamer
+
+### Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign
+Sun, 20 Sep 2026 09:20:36 +0000 — https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign
+
+Wolverine developer Insomniac has denied using generative AI after fans jumped on social media to share screenshots of a bizarre restroom sign. Read more
 
 ### HoYoverse's Nodusfall might look like Elden Ring, but there's a promising dark fantasy action game here that took me by surprise
 Sat, 19 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/nodusfall-gamescom-preview
@@ -47,11 +52,6 @@ Fri, 18 Sep 2026 10:15:25 +0000 — https://www.eurogamer.net/gta-6-online-relea
 
 Rockstar has remained very tight-lipped about GTA 6 's multiplayer component, the potential successor to GTA 5 's incredibly popular Grand Theft Auto Online , not yet commenting on whether it will even launch one. All we know currently is that when Grand Theft Auto 6 arrives on 19th November , it'll only include the single-player campaign. Read more
 
-### Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert
-Fri, 18 Sep 2026 09:08:43 +0000 — https://www.eurogamer.net/japan-game-development-layoffs-exec-money
-
-It's been a pretty grim year for video games. Aside from the "return of Xbox" new CEO Asha Sharma promised awhen taking over, which enacted the announcement of 3,200 layoffs and four studio departures , we've also seen mass layoffs in other studios, too: Bungie , EA , PUBG Productions , Take-Two , Warner Bros ., Epic , and many, many more have been impacted this year so far. Read more
-
 ## GamesIndustry.biz
 
 ### Control Resonant | Critical Consensus
@@ -84,21 +84,16 @@ Fri, 18 Sep 2026 09:51:27 +0000 — https://www.gamesindustry.biz/king-workers-t
 
 Swedish trade unions Unionen and Sveriges Ingenj&ouml;rer have issued a strike notice against King after executives rejected a proposed collective bargaining agreement last month . Read more
 
-### Dredge maker Black Salt Games establishes indie studio Team Trifold under new Saltworks Entertainment label
-Fri, 18 Sep 2026 08:04:19 +0000 — https://www.gamesindustry.biz/black-salt-games-establishes-indie-studio-team-trifold-under-new-saltworks-entertainment-label
-
-Dredge creator Black Salt Games has launched a new studio, Team Trifold, alongside a new white-label publisher called Saltworks Entertainment which will provide services to both studios along with fellow New Zealand indie Disc 2 Games. Read more
-
-### GDC Festival of Gaming appoints four members to advisory board
-Fri, 18 Sep 2026 07:36:32 +0000 — https://www.gamesindustry.biz/gdc-festival-of-gaming-appoints-four-members-to-advisory-board
-
-GDC Festival of Gaming has appointed four new members to its advisory board. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Feature: Going Platinum: Unpacking s Obsession with Possessions Makes Me Think of All My Random Stuff
+Sat, 19 Sep 2026 19:00:00 GMT — https://www.pushsquare.com/features/going-platinum-unpackings-obsession-with-possessions-makes-me-think-of-all-my-random-stuff
+
+There arose such a clutter. Platinum Trophy #37: Unpacking Date Earned: 14th May 2022 Read the full article on pushsquare.com
 
 ### Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan
 Sat, 19 Sep 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/09/longest-ever-tokyo-game-show-curtailed-due-to-typhoon-warning-in-japan
@@ -154,11 +149,6 @@ You mustn't be afraid to dream a little bigger, darling. I’m fighting a posses
 Fri, 18 Sep 2026 11:30:00 GMT — https://www.pushsquare.com/previews/i-ferried-a-soba-noodles-fan-around-tokyo-in-crazy-taxi-world-tour-but-i-have-a-lingering-nitpick-with-this-ps5-revival
 
 Shibuya cross. SEGA’s really giving us unprecedented pre-release access to Crazy Taxi: World Tour , the 2027 revival of AM3’s all-time classic arcade ferry-’em-up. Back at Gamescom I spoke to director Kenji Kanno before getting my hands on the new Germany map , while my colleague Stephen Tailby tested out the closed beta test this weekend – and likened it to a nostalgic era of PS3 multiplayer modes. Read the full article on pushsquare.com
-
-### Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds
-Thu, 17 Sep 2026 20:15:00 GMT — https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds
-
-A massive surge since 2025. The mere mention of generative AI prompts an immediate backlash these days, but there's no escaping the reality that it's now a recognised tool across the video game industry. The fingerprints of gen-AI have been found throughout numerous projects over the last few years, sparking all kinds of discussions about creative freedoms and artistic integrity. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -258,57 +248,67 @@ Voices38 has been releasing patches that directly target Denuvo's DRM checks… 
 
 ## Polygon
 
-### Maitreyi Ramakrishnan Will Destroy You at Super Smash Bros.
-Sat, 19 Sep 2026 18:00:15 GMT — https://www.polygon.com/maitreyi-ramakrishnan-shelf-quest/
+### 8 Years Ago, Critical Role Changed Forever with Its Most Shocking Character Death
+Sun, 20 Sep 2026 09:00:15 GMT — https://www.polygon.com/8-years-ago-critical-role-mollymauk-death/
 
-Maitreyi Ramakrishnan grew up a Nintendo kid, through and through. Growing up, the breakout star of Netflix's Never Have I Ever — and of the new movie, Best of the Best — wasn't allowed to play violent games like Call of Duty or GTA on Xbox and PlayStation. The Ramakrishnan home was one where the DS and GameCube reigned supreme. Her list of all-time faves is replete with mid-00s bangers straight outta Kyoto: Super Smash Bros. Ultimate, Paper Mario: The Thousand Year Door, Kirby Superstar Ultra, Legend of Zelda: Phantom Hourglass, Super Princess Peach, Pokémon Pearl, Luigi’s Mansion , and Super Paper Mario .
+The cast of Critical Role has brought plenty of laughter and joy throughout their many Dungeons & Dragons campaigns, one-shots, and miniseries adventures. We’ve had shopping episodes going wrong, pretending to film a pornographic movie to get out of a fight, and one instance where Travis Willingham rolled three natural 1s in a row.
 
-### How Zach Cregger Pulled Off Resident Evil’s Most Disgusting Scenes
-Sat, 19 Sep 2026 17:00:17 GMT — https://www.polygon.com/resident-evil-behind-the-scenes/
+### The GTA Timeline Is Completely Irrelevant
+Sun, 20 Sep 2026 08:30:14 GMT — https://www.polygon.com/gta-timeline-doesnt-matter/
 
-Last year, Polygon was part of a press trip that provided a behind-the-scenes look at the making of Resident Evil . I followed in the footsteps of hapless medical courier Bryan (Austin Abrams), exploring the horrors the t-virus wrought across a series of sets. Now that the movie has finally arrived, I can reveal everything I learned about its creation, with a focus on three of the film’s scariest scenes.
+I understand that fans — humans, honestly — have a natural instinct to unify and organize things, especially the things they love. When it comes to stories, we've been trained into it by the commercial business of serialized storytelling, on TV, in comics, in movie sequels. We join them together to make new histories populated by our favorite characters.
 
-### The Sims 4's Next Update Will Make Your Sims Act a Lot More Naturally
-Sat, 19 Sep 2026 16:50:36 GMT — https://www.polygon.com/the-sims-4-autonomy-gallery-fix-update-september-2026/
+### Lord and Miller's Near-Perfect 21 Jump Street Revival is Officially Returning
+Sun, 20 Sep 2026 07:25:41 GMT — https://www.polygon.com/21-jump-street-movie-sequel-spider-verse-creators/
 
-The next Sims 4 update is just around the corner, and it looks like it'll be a game-changer for Sims' autonomy. The official EA Laundry List for the next update lets us in on some of the changes being made this week, and its quality-of-life changes have certainly been a long time coming.
+It's been 12 years since the release of 22 Jump Street , the sequel to Phil Lord and Christopher Miller's R-rated action-comedy reimagining of the late-'80s TV drama 21 Jump Street . But Lord and Miller, alongside stars Channing Tatum, Jonah Hill, and Ice Cube, appear to be ready to finally make good on 22 Jump Street 's hilarious post-credits sequence.
 
-### Star Wars Zero Company Unofficially Gets A Real Endgame
-Sat, 19 Sep 2026 16:16:58 GMT — https://www.polygon.com/star-wars-zero-company-aftermath-dlc-mod-endgame/
+### Persona is Coming to TV with a New Netflix Series
+Sun, 20 Sep 2026 07:17:39 GMT — https://www.polygon.com/persona-streaming-tv-series-netflix/
 
-Star Wars Zero Company is a fantastic strategy game, but it lacks a real endgame. Once you roll credits, you're simply encouraged to start a new save where you have some additional customization options and can recruit clone troopers from the start. While no official endgame update for Star Wars Zero Company is in sight, a fan took matters into their own hands and added a lengthy endgame mod.
+Netflix is developing a live-action TV series based on Atlus' Persona role-playing game franchise, according to a new report. The series is being developed by production company Story Kitchen , which produces the Sonic the Hedgehog film franchise for Sega, and 21 Laps, the production company founded by Shawn Levy ( Deadpool & Wolverine , Free Guy ), who produced Stranger Things .
 
-### Nintendo Just Demolished Everyone’s Free Time
-Sat, 19 Sep 2026 16:01:15 GMT — https://www.polygon.com/switchboard-fire-emblem-fortunes-weave-diablo-4/
+### The Legend of Zelda Movie cast: all confirmed roles and actors
+Sun, 20 Sep 2026 07:09:42 GMT — https://www.polygon.com/the-legend-of-zelda-movie-cast-confirmed/
 
-Switchboard is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can subscribe here .
+Nintendo is attempting something it hasn't done in more than 30 years : make a live-action adaptation of its video games. The Legend of Zelda from Sony Pictures and Nintendo is slated for release in April 2027, bringing the fantasy role-playing game franchise to life in a way never seen before. (Well, except for that one Japanese commercial for The Legend of Zelda: A Link to the Past with a rappin' Link.)
 
-### Xbox May Finally Get Its Own Version Of PlayStation Platinum Trophies
-Sat, 19 Sep 2026 14:59:16 GMT — https://www.polygon.com/xbox-platinum-trophy-equivalent-mythic-achievement/
+### 16 Years Later, the Best Kingdom Hearts Game Is More Essential Than Ever
+Sun, 20 Sep 2026 07:00:15 GMT — https://www.polygon.com/kingdom-hearts-birth-by-sleep-best-game/
 
-When players unlock all trophies on PlayStation, they receive a Platinum Trophy. On Xbox , players earn achievements instead, but there is currently no reward for getting all of a game's achievements. This might all be about to change, as an Xbox Insider reported that he recently saw a "Mythic Achievement" filter.
+Sixteen years ago this month, Square Enix and Disney delivered the best Kingdom Hearts game — by finally putting Kingdom Hearts ahead of Disney.
 
-### Lollipop Chainsaw Is Getting An Official Live-Action Movie Prequel
-Sat, 19 Sep 2026 14:22:30 GMT — https://www.polygon.com/lollipop-chainsaw-movie/
+### 5 Near-Perfect Psychological Thriller Shows That are Streaming For Free
+Sun, 20 Sep 2026 06:00:14 GMT — https://www.polygon.com/best-psychological-thriller-shows-free-streaming/
 
-Following the announcement of a new Lollipop Chainsaw video game , Dragami Games has also confirmed that a live-action prequel movie is in the works. James Gunn, the filmmaker who worked on the original game, doesn't appear to be involved in the adaptation as he continues to work on his new rendition of the DCU .
+Some psychological thriller shows use the time-tested procedural format to keep things interesting, while others draw out a central mystery by layering shocking reveals. The end goal is to impress and entertain by exploring the darkest recesses of the human mind.
 
-### Paramount's New High Fantasy Epic is Already the Streaming Sleeper Hit of 2026
-Sat, 19 Sep 2026 14:00:14 GMT — https://www.polygon.com/paramount-golden-axe-showrunner-interview-season-2/
+### David Hasselhoff's Iconic 90-Episode Sci-Fi Action Series Is Officially Free on Streaming
+Sun, 20 Sep 2026 05:00:14 GMT — https://www.polygon.com/knight-rider-streaming-free/
 
-Sega has been making video games since 1973 and owns the rights to everything from modern hit franchises like Yakuza and Persona to arcade mainstays like Crazy Taxi and Streets of Rage . The possibilities were endless. McMahan didn't hesitate. He chose Golden Axe .
+Subtlety wasn't exactly a hallmark of 1980s television . This was the decade of private investigators in Ferraris, soldiers of fortune building tanks out of spare parts, ridiculously wealthy families fighting over oil and enough explosions to keep stuntmen employed for years. TV was big, colorful and often completely ridiculous. It was also a lot more forward-thinking than we gave it credit for.
 
-### Marvel's Wolverine Update Tones Down Its Most Controversial Feature
-Sat, 19 Sep 2026 13:22:42 GMT — https://www.polygon.com/wolverine-scent-trails-update/
+### 43 Years Ago, Peanuts' Best Schroeder Joke Broke the Comic Strip's Biggest Rule
+Sun, 20 Sep 2026 04:34:17 GMT — https://www.polygon.com/best-schroeder-bits-peanuts/
 
-Compared to the typical big-budget, PlayStation-exclusive video game, the reception to Marvel's Wolverine has been much more muted. One of the biggest complaints is how much Marvel's Wolverine hand-holds players when directing them where to go next. To address that, Insomniac Games has toned down the opacity of scent trails in the game's first significant post-launch update.
+If you ever do a deep dive into Charles Schulz's Peanuts , you'll find a lot that's remarkable about the first decade of the strip's run. Like many American newspaper comics, there's a lot of what modern fans might call "early installment weirdness," as both Schulz's art style and characterization hadn't yet settled down. Everyone's a little off-model, and most of them act quite differently from who they'd eventually turn out to be.
 
-### Forget Your 100-Hour RPGs, Action Games Are Having a Moment
-Sat, 19 Sep 2026 13:00:16 GMT — https://www.polygon.com/action-games-wolverine-pragmata-2026/
+### The 5 Best 'Twilight Zone' Episodes of All Time, Ranked
+Sun, 20 Sep 2026 04:00:19 GMT — https://www.polygon.com/5-best-twilight-zone-episodes/
 
-Gaming is a trend-based medium. Often, when a hit game turns into a generational success story, you can see it shape the industry in real-time as studios try to copy its notes. In recent history, we’ve seen that with an influx of two types of games: open-world games and Soulslikes.
+With some TV shows , you’ve got to start at the beginning. If you’ve never watched Breaking Bad , then randomly tuned into the season 4 episode “End Times” is a terrible idea. You’re going to have a lot of questions, not the least of which would be why everyone seems to love the guy who just poisoned a little kid.
 
 ## PC Gamer
+
+### Over 10 years later, Gabe Newell's advice to devs still holds up
+Sun, 20 Sep 2026 04:31:29 +0000 — https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/
+
+In 2013, Valve head honcho Gabe Newell spoke to students at the LBJ School of Public Affairs in Austin about "Productivity, Economics, Political Institutions & The Future of Corporations." It was a much more interesting topic than that makes it sounds, and has been doing the rounds again thanks to being sliced up into shorts by the Webknower channel . One clip that's been going around is Newell's response to being asked about how easy it is for hackers to get into game worlds and do things the creators don't want them to do: "One of the biggest mistakes game developers make is to mistake hacking, or to mistake a genuinely entertaining action by a player as hacking. So the example game developers tell each other is when Lord British was killed during his first speech in Ultima Online they rolled the world back rather than recognizing that it was the coolest thing that had ever happened in Ultima Online." In the early singleplayer Ultima games, Lord British had huge amounts of hit points and other defenses to discourage players from attacking him, which of course made some of those players see it as a challenge. Blasting him from offshore with a shipboard cannon or using a magic artifact called the Skull of Mondain were a couple of the classic techniques. In Ultima Online, where Lord British was controlled by Ultima creator Richard Garriott, his murder also took some doing. A player named Rainz waited for Lord British to give a speech, and used his high-level pickpocketing skil
+
+### Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online
+Sat, 19 Sep 2026 19:47:25 +0000 — https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/
+
+As reported by IGN , a trove of data from Rockstar has made its way online, with the big ticket items being Grand Theft Auto 5's source code, remnants of canceled GTA5 singleplayer DLC, as well as an early version of GTA6's map that can be loaded into the prior game. It's unclear how or why the data is making the rounds now, but the consensus appears to be that it was first extracted from Rockstar in the infamous 2022 Lapsus hack that revealed GTA6 to the world. GTA YouTuber TJGM has a video and a number of posts on X covering the long-rumored Liberty City project . The gameplay in the video comes from a canceled mod, and not the leaked material. The most notable thing TJGM showed off is a map of audio loading zones contained in the leak: The demarcation for coastal ambient audio could be turned into an effective map of the multi-island city. This iteration of Liberty City would have been larger, and possessed a different layout from its most recent predecessor in GTA4. User affmal on Twitter has been sharing screenshots and findings mostly focused on the Agent Trevor files, which appear to be more intact and substantial than the Liberty City stuff. Affmal has shared a full mission list , and has been loading map and model data into GTA5 to explore. The coolest thing affmal has shown off, for my money, is an underwater base map like something out of Deus Ex. TJGM has a few posts showing screenshots of an early version of GTA6's map loaded into GTA5, with markers (unclear if f
 
 ### An ambitious fanmade expansion for Baldur's Gate 3 is out after almost two years in development
 Sat, 19 Sep 2026 18:14:04 +0000 — https://www.pcgamer.com/games/baldurs-gate/an-ambitious-fanmade-expansion-for-baldurs-gate-3-is-out-after-almost-two-years-in-development/
@@ -359,16 +359,6 @@ Dune Awakening was lauded for its survivalist take on Frank Herbert's sci-fi epi
 Fri, 18 Sep 2026 22:51:54 +0000 — https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/
 
 As reported by Automaton , the 2026 CESA Videogame Industry Report, a survey-based assessment of the Japanese games business, shows a sharp uptick in AI adoption by Japanese developers: 85.8% in 2026, up from 51% just last year . In July, a separate survey covering just online game devs showed a 100% rate of AI adoption . Breaking things down further, 63% of total respondents claim to use generative AI tools on a daily basis, while 22.8% turn to them more irregularly. The survey did not distinguish between disciplines or different forms of generative AI output like code, concept art, in-game assets, or text. Developers cited benefits including improved efficiency and reduced cost and development time, while "human verification" and avoiding the use of generated material in player-facing circumstances are commonly-deployed safety measures. The Japanese industry has been far quicker to adopt AI tools than its North American counterpart: Just 36% of respondents to a similar GDC 2026 survey reported using AI tools as part of their job, while 52% of survey respondents believe generative AI is negatively impacting the industry . One thing I'm curious about is whether Japanese gamers are as vocally hostile to generative AI use as their anglosphere counterparts. Even if there isn't the same social stigma amongst developers, it just looks tacky and cheap when AI-generated assets sneak into a retail game. The Japanese industry certainly appears to be in a healthier place overall compar
-
-### The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation
-Fri, 18 Sep 2026 22:18:52 +0000 — https://www.pcgamer.com/gaming-industry/the-last-of-us-game-director-apologizes-for-god-of-war-laufey-criticism-points-finger-at-industry-leaders-for-triple-a-stagnation/
-
-The Last of Us game director Bruce Straley has apologized for singling out God of War Laufey in a comment about lack of innovation in triple-A games. "God Of War Laufey, I look at that game, and every pixel is mindblowing," Straley said in a recent Edge magazine feature . "The amount of work and skill that's gone into every single frame… I've made those kinds of games, and I'm still blown away. But when I actually look at what you're doing in the game? I'm not excited. And that's nothing against the God Of War team. Just, across the board in triple-A, it feels like there's no opportunity to inject fresh, innovative ideas." In his apology, posted on X , Laufey said that his comment is being used for "clickbait." "I want to apologize to the Laufey team for dragging you all into this uninvited & unnecessary negative attention," the director wrote. "I was trying to illustrate an industry concern & my mistake of naming your game is being used out of context & for clickbait. You don't need this. I'm sorry." Straley didn't take back the central thrust of his remark, however, expanding on his position in a series of posts which place blame on industry leaders for the lack of "clear direction and conviction" he perceives in today's big budget development scene. I want to apologize to the Laufey team for dragging you all into this uninvited & unnecessary negative attention. I was trying to illustrate an industry concern & my mistake of naming your game is being used out of context & fo
-
-### The Resident Evil film should be more concerned with understanding the roots of its survival horror than adhering to strict lore accuracy
-Fri, 18 Sep 2026 22:04:14 +0000 — https://www.pcgamer.com/movies-tv/the-resident-evil-film-should-be-more-concerned-with-understanding-the-roots-of-its-survival-horror-than-adhering-to-strict-lore-accuracy/
-
-It's impossible to gauge a wider community's feelings towards something, thanks to the simple problem of 'the angriest usually shout the loudest', and even if they're the minority, it usually doesn't sound like it. I've had this problem with a lot of things, but Zach Cregger's upcoming Resident Evil film is the latest victim. Despite some promising trailers, some fans just can't get behind this film. People have complained about it existing outside of the games— running parallel to the events of Resident Evil 2 instead of a shot for shot imitation. The fact that it will include some liberal interpretations of what the T-virus is capable of has also ruffled some feathers. To which I say, Tolstoy got it right—If you look for perfection, you'll never be content. (Image credit: Sony Pictures Entertainment) I'm going to get crucified for saying this, but here it goes: some fans get too caught up in 'lore accuracy'. Yes I'd be pissed if Zach Cregger started trying to drastically change iconic elements of Resident Evil, like erasing Umbrella from the records or renaming Raccoon City to Badger Town (even though that kind of slaps). But I think we need to have more faith in Cregger, given his clear love of the games and outstanding filmography, which includes bangers like Barbarian and Weapons—bro knows how to make an outstanding horror film. Lore-abiding citizens (Image credit: Sony Pictures Entertainment) I'm not convinced by the argument that this film will just be a good horror mo
 
 ## GameSpot
 
@@ -434,6 +424,11 @@ The best tool you can own in life is a hammer, and in Control Resonant , fixing 
 
 ## Rock Paper Shotgun
 
+### The Sunday Papers
+Sun, 20 Sep 2026 09:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-828
+
+Sundays - well, very early Sunday mornings - are for watching a whole queue of hungry wild animals pass your kitchen window, because a neighbour has decided to leave a bollard-sized catfood dispenser outside the block entrance while they're away on holiday. I'm pretty sure the neighbour's cat wouldn't eat from the dispenser even if there wasn't a badger wedged eagerly inside it. She's an aloof and disdainful creature, who hates going near the front door because that's where those stinky humans come from. Will I try to feed the poor moggy, denied her dinner by a bunch of Farthing Wood rejects? No I will not, because I'm too busy reading articles about videogames, and things that are vaguely in the orbit of videogames. Here are a few of those articles. Look, please stop fretting about the cat. She's perfectly plump and glossy, whereas that badger looks like he hasn't had a square meal since August. Read more
+
 ### What are we all playing this weekend?
 Sat, 19 Sep 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-400
 
@@ -473,9 +468,4 @@ Control Resonant , much like the inside-out, interdimensional cryptids it has yo
 Fri, 18 Sep 2026 09:29:57 +0000 — https://www.rockpapershotgun.com/baldurs-gate-3-act-two-expansion-mod-out-now-in-beta-adds-a-whole-new-region-to-explore-after-dealing-with-the-shadow-curse
 
 An ambitious Baldur's Gate 3 custom campaign mod which adds a whole new region to explore between the RPG's second and third acts is finally out in beta. This extra adventure midway through BG3's main quest is the result of nearly two years of work from modder SquallyDaBeanz, who's put together a trip to The Chionthar Wilds full of new missions and dungeons. Read more
-
-### "Publishers are afraid of certain parts of the world": Saber Interactive's message to North American studios is to get their head out of their own geography
-Fri, 18 Sep 2026 08:15:00 +0000 — https://www.rockpapershotgun.com/publishers-are-afraid-of-certain-parts-of-the-world-saber-interactives-message-to-north-american-studios-is-to-get-their-head-out-of-their-own-geography
-
-Layoffs have been a constant drumbeat in gaming industry news since 2022. Even if the cadence of layoffs seems to have slowed in 2026, the severity of those cuts has not lessened. In July, Microsoft made 1600 staff redundant as part of its great reset , and promised investors they would let 1600 more staff go in the next 12 months. Cuts like those and the ongoing economic pressures plaguing the industry &ndash; rising debt rates, a cost of living crisis, and a memory shortage that is making every aspect of making and playing video games pricier &ndash; should have the head of any large studio examining their plans for the future. Especially when games are taking longer to make, costing more to make, and up against a much greater volume of competition than even two years ago. With all that in mind, when I wasn't talking to Saber Interactive's chief creative officer Tim Willits about generative AI , I wanted to know what he would do if he ran one of those 200-people big-budget game studios. Because say what you like about Saber (and there's a lot of things people like to say about Saber), but the developer is doing well at a time when a lot of other studios and publishers are struggling. Read more
 

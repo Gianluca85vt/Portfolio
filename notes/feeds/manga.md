@@ -1,6 +1,36 @@
-# Manga — harvested 2026-09-19T18:54:16.235Z
+# Manga — harvested 2026-09-20T09:27:20.493Z
 
 ## Anime News Network
+
+### So What's Wrong with Getting Reborn as a Goblin? Anime Reveals More Cast, Character Visuals
+Sun, 20 Sep 2026 04:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/so-what-wrong-with-getting-reborn-as-a-goblin-anime-reveals-more-cast-character-visuals/.241993
+
+Junko Takeuchi, Mariya Ise, Rin Mizuki, Momoko Seto, more join cast of October 5 series
+
+### 'Tetsuryō! meet with Tetsudō Musume' Anime's New Trailer Previews Opening Song
+Sun, 20 Sep 2026 03:24:31 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/tetsuryo-meet-with-tetsudo-musume-anime-new-trailer-previews-opening-song/.242014
+
+Asaka performs "GO! GO! RAILWAY!!" opening for October 8 series
+
+### New Magic Knight Rayearth Anime's 2nd Main Trailer Reveals More Cast, Theme Songs
+Sun, 20 Sep 2026 01:27:15 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/new-magic-knight-rayearth-anime-2nd-main-trailer-reveals-more-cast-theme-songs/.242011
+
+Mamiko Noto, Ayumu Murase, Hitomi Ueda, Hiroki Yasumoto join cast of October 7 anime
+
+### Alya Sometimes Hides Her Feelings in Russian TV Anime's 2nd Season Reveals Teaser Video
+Sat, 19 Sep 2026 23:20:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/alya-sometimes-hides-her-feelings-in-russian-tv-anime-2nd-season-reveals-teaser-video/.242003
+
+Original book franchise has 5.5 million copies in circulation worldwide
+
+### Tokyo Int'l Film Fest to Screen Cherry and Virgin, ghost – end of night, More Anime
+Sat, 19 Sep 2026 21:12:37 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/tokyo-intl-film-fest-to-screen-cherry-and-virgin-ghost-end-of-night-more-anime/.241946
+
+<i>Grotesqqque, We Are Aliens</i> to also play at October 26-November 4 festival
+
+### 10 Things I Want to Do Before I Turn 40 Boys-Love Manga Also Gets Live-Action Film
+Sat, 19 Sep 2026 20:41:28 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/10-things-i-want-to-do-before-i-turn-40-boys-love-manga-also-gets-live-action-film/.242000
+
+Live-action series' cast, staff return for January 22 film
 
 ### The Elusive Samurai Season 2 ‒ Episode 10
 Sat, 19 Sep 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-10/.241994
@@ -32,41 +62,21 @@ Sat, 19 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/convention/
 
 You might be worried about how these <cite>Resident Evil</cite> games run on the Switch 2. Don't be.
 
-### Young Ladies Don't Play Fighting Games ‒ Episode 11
-Sat, 19 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-11/.241980
-
-Arisa is exactly the type of player—an all too real type of player, unfortunately—with no respect for people she doesn’t perceive as taking the game seriously.
-
-### Chainsmoker Cat ‒ Episode 11
-Sat, 19 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/chainsmoker-cat/episode-11/.241966
-
-This week sees the show dramatically paring down its raunchy excess to provide an experience that is almost — dare I say it? — <i>normal</i>.
-
-### Final Fantasy VII Revelation and Beyond: An Interview with Director Naoki Hamaguchi
-Sat, 19 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/final-fantasy-vii-revelation-and-beyond-an-interview-with-director-naoki-hamaguchi/.241962
-
-We spoke about lessons learned, how things will change in <cite>Revelation</cite>, and the delicate dance of putting a new twist on one of the most beloved games of all time.
-
-### Tomb Raider King ‒ Episode 11
-Sat, 19 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/tomb-raider-king/episode-11/.241947
-
-And the sheer novelty and hilarious imagery of the earth worm being showered with money got a big laugh out of me.
-
-### The Cat and the Dragon Anime Gets 2nd Season in 2027
-Sat, 19 Sep 2026 09:08:17 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/the-cat-and-the-dragon-anime-gets-2nd-season-in-2027/.241986
-
-Announced after first season ended on Saturday
-
-### Clevatess Season 2 ‒ Episode 11
-Sat, 19 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/clevatess-season-2/episode-11/.241925
-
-For all of the body-shredding violence Alicia has had to endure as Clevatess' vassal, I don't think any strike has cut quite as deep as this vision of the peaceful life she might have shared with her loved ones.
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Magic Knight Rayearth 2026 Unveils New Trailer Featuring Theme Songs, Additional Cast
+Sun, 20 Sep 2026 05:27:31 GMT — https://animecorner.me/magic-knight-rayearth-2026-unveils-new-trailer-featuring-theme-songs-additional-cast/
+
+The upcoming Magic Knight Rayearth anime remake unveiled a new trailer that features the&hellip;
+
+### Roshidere Season 2 Reveals Teaser Trailer
+Sun, 20 Sep 2026 03:59:42 GMT — https://animecorner.me/roshidere-season-2-reveals-teaser-trailer/
+
+Alya Sometimes Hides Her Feelings in Russian (Roshidere) Season 2 revealed a teaser trailer on Sunday.&hellip;
 
 ### Daemons of the Shadow Realm Season 2 Announced With Teaser Video
 Sat, 19 Sep 2026 15:03:51 GMT — https://animecorner.me/daemons-of-the-shadow-realm-season-2/
@@ -118,22 +128,27 @@ Sat, 19 Sep 2026 10:37:59 GMT — https://animecorner.me/katekyo-hitman-reborn-a
 
 Katekyo Hitman REBORN! anime released the creditless version of its tenth ending, featuring "Sakura Rock" by CHERRYBLOSSOM.
 
-### Witch on the Holy Night Final Trailer to Be Revealed on September 30
-Sat, 19 Sep 2026 07:56:00 GMT — https://animecorner.me/witch-on-the-holy-night-final-trailer-to-be-revealed-on-september-30/
-
-Witch on the Holy Night anime movie has announced a special program for new information, including a final 90-second trailer.
-
-### The Salty Koharu Has a Soft Spot for Me Released a New PV and Visual
-Sat, 19 Sep 2026 07:05:07 GMT — https://animecorner.me/the-salty-koharu-has-a-soft-spot-for-me-released-a-new-pv-and-visual/
-
-The production committee for the TV anime adaptation of The Salty Koharu Has a&hellip;
-
 ## MyAnimeList News
+
+### Tensei Goblin dakedo Shitsumon Aru? Announces Supporting Cast
+Sun, 20 Sep 2026 01:43:55 -0700 — https://myanimelist.net/news/74738383?_location=rss
+
+The official website for the television anime adaptation of Nazuna Miki s Tensei Goblin dakedo Shitsumon Aru? (So What s Wrong with Getting Reborn as a Goblin?) manga announced supporting cast on Sunday. The anime series is scheduled to premiere on October 5 at 10.00 p.m. on Tokyo MX, followed by broadcasts on BS11, Sun TV, and AT-X. Cast Sandaime Hanzou: Junko Takeuchi (Haigakura) Nanadaime Hanzou: Mariya Ise (Made in Abyss) Rokudaime Masamune: Rin Mizuki (Tomodachi no Imouto ga Ore...
+
+### New Magic Knight Rayearth Unveils Additional Cast, Theme Songs, Second Promo, 2 Consecutive Cours
+Sat, 19 Sep 2026 22:08:35 -0700 — https://myanimelist.net/news/74738043?_location=rss
+
+The stage event for the new television anime adaptation of CLAMP s Magic Knight Rayearth at the Kyoto International Manga Anime Fair 2026 unveiled additional cast, the theme songs, and a second promotional video on Sunday. The new anime series will run for two consecutive cours beginning on October 7 at 11.45 p.m. on TV Asahi s "IMAnimation W" programming block. Cast Alcyone: Mamiko Noto (Kimi ni Todoke) Ascot: Ayumu Murase (Chainsaw Man) Caldina: Hitomi Ueda (Kekkon Yubiwa...
+
+### Winners of Next Manga Award 2026 Announced
+Sat, 19 Sep 2026 14:29:52 -0700 — https://myanimelist.net/news/74737075?_location=rss
+
+The winners of Kadokawa s annual Next Manga Award were announced on Wednesday. The awards ceremony was streamed on Niconico on the same day. Out of the 7,952 titles that were submitted for the award, 100 titles (40 print manga, 60 web manga) were nominated by a special commitee for the final round of voting. A total of 382,581 votes were cast by fans this year. Print Manga &ensp;1. Someone Hertz &ensp;2. Futari Bus &ensp;3. Register! &ensp;4. Parashoppers &ensp;5. Silver Mountain &ensp;6. M...
 
 ### Yomi no Tsugai Second Season in Production
 Sat, 19 Sep 2026 08:22:25 -0700 — https://myanimelist.net/news/74736072?_location=rss
 
-The official website of the television anime adaptation of Hiromu Arakawa s Yomi no Tsugai (Daemons of the Shadow Realm) manga announced a second season on Sunday, revealing the announcement visual (pictured) and promotional video. Produced by Bones Film, the first season aired for 24 episodes beginning in Spring 2026. Crunchyroll streamed the anime with multiple subtitles and dubs. Arakawa began serializing the manga in Shounen Gangan in December 2021. Square Enix published the 13th volume...
+The 24th and final episode of the Yomi no Tsugai (Daemons of the Shadow Realm) television anime ended with a second season announcement on Sunday, revealing an announcement promo, visual (pictured), and additional cast pair. Voice actors Jin Urayama (Summertime Render), as well as Hikaru Tanaka (Skip to Loafer) and Hayata Ookawa, are joining the cast as Shachou and Saishin, respectively. Produced by Bones Film, the anime series adapting Hiromu Arakawa s action fantasy manga began airing on...
 
 ### Neko to Ryuu Second Season Announced for 2027
 Sat, 19 Sep 2026 06:14:49 -0700 — https://myanimelist.net/news/74735782?_location=rss
@@ -155,29 +170,14 @@ Fri, 18 Sep 2026 21:54:13 -0700 — https://myanimelist.net/news/74735069?_locat
 
 The stage event for the television anime adaptation of Kyousuke Motomi s Dengeki Daisy manga at the Kyoto International Manga Anime Fair 2026 revealed additional cast, staff, a key visual (pictured), and the first promotional video on Saturday. The anime series will air in two consecutive cours beginning January 2027. Cast Souichirou Kurebayashi: Tomokazu Sugita (Sakamoto Days) Riko Onizuka: Yuka Terasaki (Chihayafuru) Masuda: Setsuji Satou (Urusei Yatsura (2022)) Akira: Kouhei Amasaki (Tok...
 
-### Silent Witch Author and Mushoku Tensei Artist Begin New Light Novel
-Thu, 17 Sep 2026 22:15:11 -0700 — https://myanimelist.net/news/74732075?_location=rss
-
-Silent Witch: Chinmoku no Majo no Kakushigoto (Secrets of the Silent Witch) author Matsuri Isora and Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation) illustrator Sirotaka will begin a new light novel titled Boukyaku no Curse Knight (The Curse Knight of Oblivion), the official X account of the series announced on Thursday. Earth Star Entertainment will publish the first volume under its Earth Star Novel imprint on November 13. Isora began penning the Silent Witch l...
-
-### Kyoufu Collector Reveals Main Cast, Staff, Teaser Promo
-Thu, 17 Sep 2026 21:48:10 -0700 — https://myanimelist.net/news/74732013?_location=rss
-
-The official website for the television anime adaptation of Midori Satou s Kyoufu Collector (Horror Collector) novel revealed the main cast, staff, a key visual (pictured), and teaser promotional video on Friday. The anime series is scheduled to premiere on October 10 at 11:45 p.m. on NHK-G. Cast Fushigi Senno: Hiiro Ishibashi (Tenmaku no Jaadugar) Jimmy: Jun Fukuyama (Nippon Sangoku) Himitsu: Saori Hayami (Bad Girl) Blue Umbrella Man: Nobuhiko Okamoto (Dead Account) Staff Director, Series...
-
-### Hotaru no Yomeiri Reveals Additional Staff, Opening Theme, First Promo
-Thu, 17 Sep 2026 17:49:53 -0700 — https://myanimelist.net/news/74731610?_location=rss
-
-The official website for the television anime adaptation of Oreco Tachibana s Hotaru no Yomeiri (Firefly Wedding) web manga revealed additional staff, the opening theme, and first promotional video on Friday. The anime series is scheduled to premiere on October 9 at 11.30 p.m. on Fuji TV noitaminA. Staff Concept Art: Yasufumi Soejima (JoJo no Kimyou na Bouken (TV) art design) Sub-Character Design: Mikio (Mayonaka Heart Tune) Prop Design: Ryou Hirata (Marriagetoxin), Tsuyama Kyohiko, Yutaka...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-### The Otaku Love Connection Volumes 3 and 4 Review
-Fri, 18 Sep 2026 09:00:25 +0000 — https://animeuknews.net/2026/09/the-otaku-love-connection-volumes-3-and-4-review/
+### The Devil’s in the Lunch Deals Volume 1 Review
+Sun, 20 Sep 2026 09:00:10 +0000 — https://animeuknews.net/2026/09/the-devils-in-the-lunch-deals-volume-1-review/
 
-Summer is approaching in the world of The Otaku Love Connection, but first our two main characters must weather a storm of emotions as they realise they ship their favourite pair differently!
+Every day Lainey sells her delicious box lunches in the plaza; who would guess that she was once a terrifying goddess, now punished for her past crimes to live as a human?
 

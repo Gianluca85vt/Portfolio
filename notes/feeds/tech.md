@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-19T18:54:16.235Z
+# Tech — harvested 2026-09-20T09:27:20.493Z
 
 ## Ars Technica
 
@@ -52,17 +52,12 @@ Fri, 18 Sep 2026 11:00:11 +0000 — https://arstechnica.com/space/2026/09/rocket
 
 Welcome to Edition 9.11 of the Rocket Report! The most interesting story of the week, in our view, is a deep dive by Stephen Clark, linked below, into the dwindling fortunes of United Launch Alliance. As recently as a decade ago, the launch company, co-owned by Boeing and Lockheed Martin, could claim dominance over the US industry. But those glory days are fading fast. So what's next for a company that is tied to an expendable rocket? As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Avio seeks to cash in on Falcon 9 retreat . Italian launch services provider Avio has seen an influx of customers who were unable to secure launch opportunities with SpaceX, European Spaceflight reports . “I can tell you SpaceX has already gone captive because we have a whole bunch of customers coming to us and saying, 'Oh my God, can you fly us?'” Avio CEO Giulio Ranzo said during the company’s September 10 earnings call. In recent months, SpaceX told multiple prospective customers that it was no longer accepting new orders for commercial Falcon 9 launches. Read full article Comments ]]>
 
-### RFK Jr. names 8 new members to influential preventive medicine task force
-Thu, 17 Sep 2026 22:31:28 +0000 — https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/
-
-Anti-vaccine Health Secretary Robert F. Kennedy Jr. announced the names of eight new members of a 16-person federal task force intended to make scientifically independent, evidence-based recommendations on an array of preventive medicine services for Americans—from depression screening to statin use, colonoscopies, and mammograms. Recommendations from the panel—the US Preventive Services Task Force (USPSTF)—don't simply provide guidance for Americans; they also determine access. The USPSTF is supposed to use a rigorous, transparent framework for evaluating evidence and sets graded recommendations on an A to D scale. Health insurance providers are required to cover, at no cost, all preventive services that are given recommendations of an A or B grade. Kennedy has sidelined the USPSTF for more than a year, canceling its meetings and refusing to appoint new members as terms expired and members left. In May, Kennedy also fired two leaders , sparking outcry and exacerbating fears that he would corrupt the nonpartisan independent panel by stacking it with unqualified ideological allies—which he did with an influence vaccine advisory committee at the Centers for Disease Control and Prevention. Read full article Comments ]]>
-
-### Small AI models let drones autonomously identify and attack battlefield targets
-Thu, 17 Sep 2026 22:12:58 +0000 — https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/
-
-As European militaries adapt to the use of AI and drones in modern warfare, a NATO-backed startup is helping to deploy AI-driven target detection and selection that can run on small drones for surveillance and attack missions. The company, Scaleout Systems, was originally founded by researchers from Uppsala University in Sweden in 2018, and initially focused on training and deploying machine learning models directly on the hardware available in commercial trucks and other vehicles. But once Russia launched its full-scale invasion of Ukraine in 2022, the company pivoted toward defense applications. “With the war in Ukraine and a shifting world, we realized that this technology can be very important to operationalize edge data and sensor data for machine learning to make sure that NATO allies have found that strategic advantage,” Andreas Hellander, cofounder and CEO of Scaleout Systems, told Ars. Read full article Comments ]]>
-
 ## The Verge
+
+### Meta’s Muse is creepy, but maybe not for the reasons you think
+2026-09-19T16:44:40-04:00 — https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy
+
+Meta's Muse is apparently an effective AI assistant , but one that's a little creepy. Part of that is because of its new Mac app , which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine , posted on Threads screenshots of an interaction he had with Muse in which the assistant asks him some questions about a conversation he was having in Messages. The problem is that Aten says he didn't give Muse access to his messages. When asked how it knew about the contents of his messages, Muse replied, "I saw the notification previews, not … Read the full story at The Verge. ]]>
 
 ### Trump treads further on free speech with new journalist bans
 2026-09-19T13:10:21-04:00 — https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban
@@ -77,7 +72,7 @@ In May, Gemini broke containment and hacked three different companies, but Googl
 ### Anamanaguchi has ‘too goddamn many’ browser tabs open right now
 2026-09-19T11:00:00-04:00 — https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music
 
-Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn Anamanaguchi , the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into Fortnite ). They've gone through different eras of breakneck chiptune beats and dance-y pop songs, but their 2025 album Anyway took an indie rock departure - recorded in person at the American Football house and filled with fuzzy guitars. They're also a band that's terminally online and very plugged into the video game sc … Read the full story at The Verge. ]]>
+Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn Anamanaguchi , the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into Fortnite ). They've gone through different eras of breakneck chiptune beats and dance-y pop songs, but their 2025 album Anyway took an indie rock departure - written at the American Football house and filled with fuzzy guitars. They're also a band that's terminally online and very plugged into the video game scene as well … Read the full story at The Verge. ]]>
 
 ### The colorful, unique Hyte X50 PC case is $50 off
 2026-09-19T11:00:00-04:00 — https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale
@@ -108,11 +103,6 @@ Recently unsealed court documents in the New York Times ' case against OpenAI an
 2026-09-18T14:29:17-04:00 — https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force
 
 Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world . Executive Order 22 bans executive branch officials from signing nondisclosure agreements for data center projects, requires expedited noise regulations, and requires a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like wo … Read the full story at The Verge. ]]>
-
-### Disney’s first CTO is Character.AI’s former CEO
-2026-09-18T14:27:04-04:00 — https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai
-
-You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently appointed CEO Josh D'Amaro , and he will head up the company's infrastructure, product, engineering, and data / AI platforms teams. Anand comes to Disney from chatbot startup Character.AI , where he served as CEO for just over a year and oversaw the company's push into microdramas . Anand jumping ship to Disney comes as a … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +168,11 @@ Intel's Nova Lake CPUs are no stranger to leaks. We've been talking about the pr
 
 ## Phoronix
 
+### Linux 7.3-rc4 To Address Two Unfortunate Bugs With Btrfs
+Sat, 19 Sep 2026 20:26:58 -0400 — https://www.phoronix.com/news/Btrfs-Fixes-For-Linux-7.3-rc4
+
+Merged today were this week's set of Btrfs file-system fixes for the Linux 7.3-rc4 kernel, which include two notable bug fixes...
+
 ### Simple Optimization For Linux 7.4 Can Open Files For Reading ~39% Faster
 Sat, 19 Sep 2026 12:28:05 -0400 — https://www.phoronix.com/news/Linux-7.4-Faster-Do-Open
 
@@ -233,12 +228,12 @@ Fri, 18 Sep 2026 11:52:30 -0400 — https://www.phoronix.com/news/Apple-Video-De
 
 The latest Apple Silicon enablement code working its way from the Asahi Linux project toward the upstream Linux kernel is the AVD driver used for accelerated video playback across Apple M1 / M2 / M3 SoCs...
 
-### AMD Strix Halo Enjoys Some Performance Gains On Ubuntu 26.10, Especially With amd64v3
-Fri, 18 Sep 2026 10:00:00 -0400 — https://www.phoronix.com/review/ubuntu-2610-strix-halo
-
-Ahead of next week s Ubuntu 26.10 beta release I have been testing the "Stonking Stingray" on a variety of systems. Ubuntu 26.10 is performing well overall with some nice upgrades over Ubuntu 26.04 LTS, especially if opting to use the new snapshot/daily ISOs of Ubuntu 26.10 in amd64v3 form for x86_64-v3 packages. In today s tests are a look at the performance benefits of Ubuntu 26.10 on an AMD Ryzen AI Max+ "Strix Halo".
-
 ## The Register
+
+### How Windows turned months of inactivity into a 7-hour update hostage situation
+Sun, 20 Sep 2026 10:14:00 +0200 — https://www.theregister.com/os-platforms/2026/09/20/how-windows-turned-months-of-inactivity-into-a-7-hour-update-hostage-situation/5297478
+
+Microsoft has a problem not entirely of its own making: The time it takes to bring a system back up to date after a few months of slumber. The company is keen to talk up how efficient it plans to make Windows. Not a day goes by without either a Microsoft representative or a fan insisting that Windows 11 is a lot snappier now than it used to be. (Usually they skirt the unfortunate truth that the Windows of yesteryear generally flies on modern hardware compared with the lumbering of today's software). Microsoft recently claimed that it is working to shrink Windows' footprint to the point where 8 GB would be enough to run things acceptably. We can only hope that one shard of light piercing the gloom of today's memory shortages and rising prices is that developers might prioritize efficient RAM use alongside slinging more ads or adding features few users require. However, this vulture's experience this week indicates that there is another area that needs addressing, and that is the number of updates slung out by vendors, and not just Microsoft. A few days ago, I wrote a story about a new way to skip the Microsoft account requirement during setup for the Home edition of Windows 11. At The Register, we like to test these claims thoroughly, so I fired up an x64 Windows laptop to check them out on real hardware, which is where the problems began. We've written before about the curse of updates, but this machine was running Windows 11 and had been up to date less than a year ago. How 
 
 ### Agentic security is the billion-dollar challenge for some clever startup to solve
 Sat, 19 Sep 2026 16:25:00 +0200 — https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546
@@ -295,12 +290,52 @@ Fri, 18 Sep 2026 18:19:27 +0200 — https://www.theregister.com/cyber-crime/2026
 
 Scammers impersonating law enforcement or government officials have cost victims more than $1.6 billion since January 2025, the FBI reports. The FBI’s Internet Crime Complaint Center (IC3) received close to 61,000 complaints of this type between January 2025 and July 2026, putting the average per-complaint loss at more than $26,000. The most common type of scam is one involving criminals convincing targets to pay a sum of money to remove charges the fraudsters claim were filed against them. Typically contacting targets via unsolicited phone calls, the scammers usually claim that the target has committed or is connected to a crime, and threaten consequences such as arrest and prison time if a payment is not made. Accounting for roughly 11 percent of the complaints is a different type of scam, which involves alleging victims did not fulfill their assigned jury duty or missed a court date, then threatening them with a fine or arrest unless they pay. Of these 6,833 complaints, scammers caused losses amounting to nearly $36 million. A more profitable variant involves a more targeted approach. Scammers will complete some due diligence on a target, such as ascertaining their profession, and tailor the scam to their job. The IC3 has seen cases in which scammers contact medical practitioners, for example, claiming their medical license is expiring or that it was used in the commission of a crime. Payment is then demanded either under the guise of renewing the license or as part of an 
 
-### Admins, you've been warned: The clock is ticking on Edge's IE Mode
-Fri, 18 Sep 2026 17:29:00 +0200 — https://www.theregister.com/software/2026/09/18/admins-youve-been-warned-the-clock-is-ticking-on-edges-ie-mode/5297408
-
-Microsoft has reminded administrators that Internet Explorer mode in Edge is guaranteed support only through 2029, so it is time to get those legacy migrations moving. Internet Explorer mode lets enterprises continue using legacy websites within Edge rather than relying on the retired Internet Explorer browser. It uses the Trident MSHTML engine from Internet Explorer 11 and permits elements such as ActiveX controls, although other Internet Explorer functionality, such as custom toolbars, is not supported. Microsoft has promised to support IE mode until at least the end of 2029 and to provide one year's notice before retiring it. The feature is unlikely to stop working immediately after support ends, but organizations that depend on it could face security, compatibility, and compliance risks. A message in the Microsoft 365 admin center urges customers to begin modernizing legacy systems that still depend on Internet Explorer technology. The company wrote: "Application modernization projects can take years to complete depending on the number and complexity of dependencies, so early planning reduces the risk of disruption later." Microsoft has been banging this particular drum for some time. It announced in 2021 that IE mode would be supported until at least the end of 2029, but its latest reminder suggests some customers still have substantial migration work ahead of them. Administrators do not need to act immediately, but migrations involving old and heavily dependent applicat
-
 ## Engadget
+
+### How long can you expect your old cassette tapes to last?
+Sun, 20 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2259220/how-long-old-cassette-tapes-last-lifespan/
+
+Controlling the environmental conditions where your tapes are stored is key to their longevity.
+
+### How to record audio on your iPhone
+Sun, 20 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2259179/how-to-record-audio-iphone/
+
+You don't need to record unnecessary video to capture a meeting, song or personal memo on your iPhone. Recording audio is simple.
+
+### What is the difference between Apple CarPlay and CarPlay Ultra?
+Sat, 19 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2259087/apple-carplay-vs-ultra-differences-explained/
+
+CarPlay provides a great iOS-like experience in your vehicle. CarPlay Ultra expands that, but isn't widely available yet.
+
+### The pros and cons of using wired vs. wireless Xbox controllers
+Sat, 19 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2258987/wired-vs-wireless-xbox-controllers-pros-cons/
+
+A wireless Xbox controller lets you move around freely, but you have to worry about batteries. Wired controllers can pose a hazard, but never run out of charge.
+
+### Common problems with Google Wallet and how to fix them
+Sat, 19 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2258792/how-to-fix-common-google-wallet-problems/
+
+Google Wallet is great for storing payment cards, tickets and digital IDs, but it doesn't always work how you want it to. Here's what to do if it doesn't.
+
+### What are the downsides of robot vacuums?
+Sat, 19 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2258772/robot-vacuum-downsides/
+
+Robot vacuums save a lot of time and effort with their ability to clean autonomously. However, there are a number of reasons why they might not work for you.
+
+### The Slate Truck is cheap, but its battery range can't compete
+Sat, 19 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2258757/slate-truck-lower-battery-range-than-average/
+
+Slate's electric truck is built specifically for affordability and efficiency, which means it comes with compromises. One of the biggest could be its battery.
+
+### SpaceX targets September 28 for Starship's first orbital flight
+Sat, 19 Sep 2026 19:45:00 +0000 — https://www.engadget.com/2263238/spacex-targets-september-28-for-the-starships-first-orbital-flight/
+
+For Starship's 14th test flight, it will orbit our planet multiple times for 10 hours.
+
+### Now Trump says he's creating an AI Force
+Sat, 19 Sep 2026 19:22:20 +0000 — https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/
+
+The president said he will soon announce an AI czar to run this newly made-up agency.
 
 ### Anthropic picks Accenture for third-party AI safety evaluations
 Sat, 19 Sep 2026 18:33:46 +0000 — https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/
@@ -317,59 +352,24 @@ Sat, 19 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2258733/galaxy-z-fo
 
 Samsung's DeX lets you plug in your Samsung Galaxy device into a monitor or TV to create a PC-like experience. Now, it can launch directly on your phone.
 
-### Why is your iPad not charging (and how to fix it)
-Sat, 19 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2258268/why-ipad-not-charging-fixes/
-
-You probably don't think about your iPad charging until it runs into trouble. When plugging it in doesn't work, you'll need to check its port and charger.
-
-### California governor wants to implement a kill switch for frontier AI models
-Sat, 19 Sep 2026 17:00:01 +0000 — https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/
-
-Newsom's executive order calls for an expert panel to develop new AI safety measures.
-
-### How to switch between two phones on CarPlay
-Sat, 19 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2258194/how-to-switch-between-two-phones-apple-carplay/
-
-When using Apple's CarPlay, it will automatically connect to the first iPhone it was paired with. Here's how to get it to connect to a different device.
-
-### Here's why some monitors have two USB ports (and the best ways to use them)
-Sat, 19 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2258096/why-monitor-two-usb-ports-explained/
-
-These ports are often part of a built-in USB hub, letting you keep desk accessories connected to the monitor instead of occupying ports on your computer.
-
-### Which tech upgrades are worth making to your car's old sound system?
-Sat, 19 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2257900/tech-upgrades-worth-making-car-old-sound-system/
-
-You can upgrade an older car with modern tech to enable Bluetooth, CarPlay and more. Your options depend on your car and what you need most.
-
-### How to block and unblock a number on your Android phone
-Sat, 19 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2257824/how-to-block-unblock-number-android-phone/
-
-Unwanted calls and texts are a part of modern-day life, but you can block and unblock numbers that are repeat offenders.
-
-### This Game Boy inspired hi-res music player raised over $500,000 on Kickstarter
-Sat, 19 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2257820/game-boy-inspired-music-player-raises-500000-kickstarter/
-
-The AP30 Music Boy is just the latest example of dumb tech's resurgence.
-
-### How to factory reset your Steam Deck
-Sat, 19 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2257819/how-to-factory-reset-steam-deck/
-
-There are a few reasons you might want to factory reset your device, and doing so is easy.
-
-### The best way to check your PC for malware
-Sat, 19 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2257817/best-way-check-pc-malware/
-
-If your PC is slowing down or not behaving as usual, it's worth running through these tips to see if you have malware.
-
 ## TechCrunch
+
+### Flock reportedly tries to shrink workforce with employee buyouts
+Sat, 19 Sep 2026 20:39:13 +0000 — https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/
+
+Without buyouts, Flock would "almost certainly" need to lay off staff.
+
+### Trump says it s time to rebrand AI with a new name — and he s also creating an AI Force
+Sat, 19 Sep 2026 19:57:47 +0000 — https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/
+
+Trump claimed, without evidence, that the AI backlash is a Democratic hoax.
 
 ### Google’s Gemini is the latest AI model to hack other companies
 Sat, 19 Sep 2026 17:30:00 +0000 — https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/
 
 Google said Gemini had "acted appropriately" by ending each hack immediately.
 
-### Even mid-sprint to a secret flight, the Navy s tech chief has a pitch for investors
+### The US Navy just told us what s on its tech wish list for the next several years
 Sat, 19 Sep 2026 17:00:00 +0000 — https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/
 
 Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.
@@ -413,14 +413,4 @@ UP.Labs, now doing business under the name Vantora, is building startups for ind
 Fri, 18 Sep 2026 23:13:31 +0000 — https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/
 
 AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.
-
-### AI hallucination nearly triggers US military operation
-Fri, 18 Sep 2026 23:12:32 +0000 — https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/
-
-“It’s important for service members to understand the uncertainty inherent to LLMs," a GovAI research scholar warns.
-
-### Anthropic s first embedded evaluator is … Accenture?
-Fri, 18 Sep 2026 21:44:33 +0000 — https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/
-
-Accenture is about to take on its most high-risk consulting engagement ever.
 
