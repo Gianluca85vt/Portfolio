@@ -1,4 +1,10 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "ignoreCommand": "node scripts/vercel-ignore.mjs"
+  "ignoreCommand": "node scripts/vercel-ignore.mjs",
+  "rewrites": [
+    {
+      "source": "/img/blog/:percorso*",
+      "destination": "https://cdn.jsdelivr.net/gh/Gianluca85vt/Portfolio@main/public/img/blog/:percorso*"
+    }
+  ]
 }
