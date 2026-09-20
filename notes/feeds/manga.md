@@ -1,6 +1,41 @@
-# Manga — harvested 2026-09-20T14:20:49.354Z
+# Manga — harvested 2026-09-20T19:02:55.241Z
 
 ## Anime News Network
+
+### RESIDENT EVIL (2026) Live-Action Film Review
+Sun, 20 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/review/resident-evil/live-action-film/.241991
+
+This movie has earned the right to carve the name of RESIDENT EVIL in jagged letters onto its very bones.
+
+### Japan's Video Game Rankings, September 7-13
+Sun, 20 Sep 2026 14:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/japan-video-game-rankings-september-7-13/.241937
+
+<cite>Onimusha: Way of the Sword</cite> PS5 game ranks at #2 in 2nd week
+
+### Japanese Animation TV Ranking, September 7-13
+Sun, 20 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/japanese-animation-tv-ranking-september-7-13/.241938
+
+<cite>Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke</cite> earns 3.1% rating
+
+### Tokyo Game Show 2026 Draws 257,642 Attendees
+Sun, 20 Sep 2026 12:13:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/tokyo-game-show-2026-draws-257642-attendees/.242021
+
+Attendance numbers slightly lower than last year's numbers
+
+### Hans Christian Andersen's The Little Mermaid Anime Film Review
+Sun, 20 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/hans-christian-andersen-the-little-mermaid/anime-film/.241633
+
+No matter how you feel about the story, as a piece of anime history, this is more than worthwhile.
+
+### Though I am an Inept Villainess Anime's 2nd Part Unveils Cast, Key Visual, January 2027 Debut
+Sun, 20 Sep 2026 11:35:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/though-i-am-an-inept-villainess-anime-2nd-part-unveils-cast-key-visual-january-2027-debut/.241998
+
+Yuichi Nakamura, Shunichi Toki, Chiaki Kobayashi join cast
+
+### Bushiroad Streams Ghost Meets Gal Anime on YouTube
+Sun, 20 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/bushiroad-streams-ghost-meets-gal-anime-on-youtube/.241999
+
+3-episode series available with English subtites
 
 ### 2026 World Webtoon Awards Announces 20 Finalists, Opens Global Reader Vote
 Sun, 20 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/2026-world-webtoon-awards-announces-20-finalists-opens-global-reader-vote/.242010
@@ -27,46 +62,16 @@ Sun, 20 Sep 2026 04:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Junko Takeuchi, Mariya Ise, Rin Mizuki, Momoko Seto, more join cast of October 5 series
 
-### 'Tetsuryō! meet with Tetsudō Musume' Anime's New Trailer Previews Opening Song
-Sun, 20 Sep 2026 03:24:31 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/tetsuryo-meet-with-tetsudo-musume-anime-new-trailer-previews-opening-song/.242014
-
-Asaka performs "GO! GO! RAILWAY!!" opening for October 8 series
-
-### New Magic Knight Rayearth Anime's 2nd Main Trailer Reveals More Cast, Theme Songs
-Sun, 20 Sep 2026 01:27:15 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/new-magic-knight-rayearth-anime-2nd-main-trailer-reveals-more-cast-theme-songs/.242011
-
-Mamiko Noto, Ayumu Murase, Hitomi Ueda, Hiroki Yasumoto join cast of October 7 anime
-
-### Alya Sometimes Hides Her Feelings in Russian TV Anime's 2nd Season Reveals Teaser Video
-Sat, 19 Sep 2026 23:20:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/alya-sometimes-hides-her-feelings-in-russian-tv-anime-2nd-season-reveals-teaser-video/.242003
-
-Original book franchise has 5.5 million copies in circulation worldwide
-
-### Tokyo Int'l Film Fest to Screen Cherry and Virgin, ghost – end of night, More Anime
-Sat, 19 Sep 2026 21:12:37 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/tokyo-intl-film-fest-to-screen-cherry-and-virgin-ghost-end-of-night-more-anime/.241946
-
-<i>Grotesqqque, We Are Aliens</i> to also play at October 26-November 4 festival
-
-### 10 Things I Want to Do Before I Turn 40 Boys-Love Manga Also Gets Live-Action Film
-Sat, 19 Sep 2026 20:41:28 -0400 — https://www.animenewsnetwork.com/news/2026-09-19/10-things-i-want-to-do-before-i-turn-40-boys-love-manga-also-gets-live-action-film/.242000
-
-Live-action series' cast, staff return for January 22 film
-
-### The Elusive Samurai Season 2 ‒ Episode 10
-Sat, 19 Sep 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-10/.241994
-
-I love how the show uses its signature dips into abstract phantasmagoria to demonstrate just how terrifying and dangerous Takauji truly is.
-
-### Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 23
-Sat, 19 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-23/.241992
-
-What changed in him to make him turn down Baal's offer? The easy answer is “Iruma.”
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Though I Am an Inept Villainess Cour 2 Reveals First Look, January 2027 Return With The First Royal Outing Arc
+Sun, 20 Sep 2026 15:35:00 GMT — https://animecorner.me/though-i-am-an-inept-villainess-cour-2-reveals-first-look-january-2027-return-with-the-first-royal-outing-arc/
+
+Toho announced that Though I Am an Inept Villainess will receive a second part&hellip;
 
 ### Katekyo Hitman Reborn! Anime Reveals Twelfth Ending Featuring "Aoi Yume" by Mori Tsubasa
 Sun, 20 Sep 2026 11:34:55 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-twelfth-ending-featuring-aoi-yume-by-mori-tsubasa/
@@ -123,12 +128,12 @@ Sat, 19 Sep 2026 12:11:03 GMT — https://animecorner.me/you-and-i-are-polar-opp
 
 You and I Are Polar Opposites anime has revealed a new Graduation Day visual as Season 2 approaches its final episodes.
 
-### Mushoku Tensei Season 3 Tops Weekly Summer Ranking for Second Time in a Row After Episode 12
-Sat, 19 Sep 2026 11:56:56 GMT — https://animecorner.me/mushoku-tensei-season-3-tops-weekly-summer-ranking-for-second-time-in-a-row-after-episode-12/
-
-Mushoku Tensei Season 3 topped the Summer 2026 weekly ranking for the second time in a row after its Episode 12.
-
 ## MyAnimeList News
+
+### Futsutsuka na Akujo dewa Gozaimasu ga Second Part Announced for Winter 2027
+Sun, 20 Sep 2026 08:44:02 -0700 — https://myanimelist.net/news/74739206?_location=rss
+
+The 11th and final episode of Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (Though I Am an Inept Villainess) ended with an announcement on Monday that a second part, titled Hajimete no Gaiyuu-hen, is in production. The official website also revealed three additional cast members and a key visual (pictured). The anime series will premiere in January 2027. Cast Keikou: Yuuichi Nakamura (Jujutsu Kaisen) Keishou: Shunichi Toki (Tokyo Revengers) Unran: Chiaki Kobayashi (Sousou no...
 
 ### Tensei Goblin dakedo Shitsumon Aru? Announces Supporting Cast
 Sun, 20 Sep 2026 01:43:55 -0700 — https://myanimelist.net/news/74738383?_location=rss

@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-20T14:20:49.354Z
+# Tech — harvested 2026-09-20T19:02:55.241Z
 
 ## Ars Technica
 
@@ -37,22 +37,17 @@ Fri, 18 Sep 2026 19:20:50 +0000 — https://arstechnica.com/ai/2026/09/faa-tees-
 
 An AI tool is set to start advising air traffic controllers on managing air traffic in the congested airspace above the Washington, DC, area. The expected launch would be the first step toward a planned nationwide rollout covering the 29 million square miles of US national airspace overseen by the Federal Aviation Administration. The FAA describes the SMART system as using AI models to predict air traffic flows and identify potential conflicts based on operational factors like airline schedules, weather, airport capacity, and airspace conditions. US government and industry officials told The Wall Street Journal that SMART could debut for the three major airports in the Washington, DC, area as soon as Monday, September 21. The decision to launch SMART in a limited scope before going nationwide is the “right call,” said Philip Mann, principal consultant at Vector Strategic Consulting LLC, where he advises on aviation safety and AI governance. Mann previously worked at the FAA in multiple roles for 17 years. Read full article Comments ]]>
 
-### FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar
-Fri, 18 Sep 2026 17:57:41 +0000 — https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/
-
-The Federal Communications Commission yesterday approved Paramount Skydance's plan to sell large equity stakes to the sovereign wealth funds of Saudi Arabia, the United Arab Emirates, and Qatar. Under US law , companies with licenses to run broadcast stations need FCC approval to have direct or indirect foreign ownership exceeding 25 percent of the company's stock. Paramount says its indirect foreign ownership will reach 49.5 percent after it receives investments from the sovereign wealth funds and filed a petition asking the FCC to waive the foreign ownership limit. Paramount, the owner of CBS, holds FCC licenses for the 28 local CBS stations that it owns and operates. Paramount is buying Warner Bros. Discovery in a $111 billion deal that is being partially financed with foreign investment but hasn't completed the acquisition because US states filed a lawsuit that aims to block the merger. Trump's Department of Justice approved the merger. Read full article Comments ]]>
-
-### Finding the cells that put our brain to sleep
-Fri, 18 Sep 2026 17:49:50 +0000 — https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/
-
-For a long time, sleep research has treated the cerebral cortex as a passive follower reacting to signals from the deep brain. “Usually, sleep is associated with being controlled by subcortical regions,” said Geoffrey Terral, a neuroscientist at the Albert Einstein College of Medicine in New York. The cortex is where the slow rhythms of deep sleep can be seen, but researchers assumed the signals that triggered them originated elsewhere. In a recent Nature study, Terral and Renata Batista-Brito, who runs the lab, report a population of cortical cells that challenges that assumption. These cortical cells make up only around one percent of the cortex's inhibitory neurons, and switching them on in a mouse puts the animal to sleep. “What our work shows is that the cortex can not only see this rhythm but also initiate it by itself, and this is sufficient to promote sleep,” Terral said. Read full article Comments ]]>
-
-### US government website used Chinese model the FBI called "malicious"
-Fri, 18 Sep 2026 17:28:50 +0000 — https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/
-
-On Wednesday, US government officials removed a Chinese AI search tool that was briefly deployed on the Federal Register website, Reuters reported . The change came after social media users noticed an apparent contradiction: The National Archives was using one of Alibaba’s Qwen AI models, even as top US law enforcement claimed that such models illegally copy US frontier models. Earlier this month, the Federal Bureau of Investigation (FBI) named Alibaba among six leading Chinese firms allegedly conducting “industrial-scale distillation” that the agency says is helping America’s biggest competitor cut costs and development time in the race for global AI leadership. It’s unclear when exactly the National Archives, which runs the Federal Register website, began offering visitors the option to use a Qwen model to search public comments on proposed regulations. So far, the independent agency tasked with increasing public access to federal government documents has not commented on the removal and did not respond to Ars’ request for comment. The White House and the FBI have also not commented. Read full article Comments ]]>
-
 ## The Verge
+
+### Kojima Productions disputes reports the studio is in trouble
+2026-09-20T14:15:10-04:00 — https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation
+
+After it was announced that Sony was dropping Hideo Kojima's Physint , and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg reported that the decision was driven by a number of factors, including missed deadlines, budget and profitability concerns, and its timed exclusivity. In an interview with IGN , Kojima said that, considering the broader state of the industry, which has seen a number of studios close, he was worried about the future of Kojima Productions: I know there's a lot of news in the game industry that many studios are closing down, … Read the full story at The Verge. ]]>
+
+### Trump now says he wants to form an ‘AI Force’
+2026-09-20T11:39:22-04:00 — https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar
+
+The president posted on Truth Social that he wanted to appoint an "AI czar" to lead a new "AI force." He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration "will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!" In the rambling post, Trump said that data centers were "wealthy and prestigious" and claimed without evidence that they raised salaries, lowered taxes, and made for safer streets in the communities in which they were … Read the full story at The Verge. ]]>
 
 ### A24’s reputation is on the line with the SCP Foundation movie
 2026-09-20T08:45:48-04:00 — https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license
@@ -94,17 +89,17 @@ President Donald Trump speaks to reporters on the tarmac before boarding Air For
 
 In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ , Google didn't disclose the hack because it didn't consider it to be an "example of model misalignment." The company said that it was an instance of "mistaken identity," and once the model realized it had brute-forced its way into a real company by guessing a password, it stopped. "In th … Read the full story at The Verge. ]]>
 
-### Anamanaguchi has ‘too goddamn many’ browser tabs open right now
-2026-09-19T11:00:00-04:00 — https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music
-
-Band members Luke Silas, Ary Warnaar, Peter Burkman, and James DeVito (left to right). Maybe their next album will be recorded entirely in a windmill? | Image: Joshua Tarn Anamanaguchi , the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into Fortnite ). They've gone through different eras of breakneck chiptune beats and dance-y pop songs, but their 2025 album Anyway took an indie rock departure - written at the American Football house and filled with fuzzy guitars. They're also a band that's terminally online and very plugged into the video game scene as well … Read the full story at The Verge. ]]>
-
-### The colorful, unique Hyte X50 PC case is $50 off
-2026-09-19T11:00:00-04:00 — https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale
-
-The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are up to 430mm long, which should cover even the biggest options available. The standout feature is a massive curved glass panel that spans the left face and top of the case, giving it a unique, eye-catching look. It’s easy to build in, supports a wide variety of components and cooling setups, and has a thoughtful, refined design. Hyte X50 Where to Buy: $149.99 $99.99 at Hyte Unlike a lot of cases with big glass panels, the X50 has excellent airflow, with louvered fins along the back for ventilation, a porous mesh front, and plenty of spots for radiators and fans. It comes in a variety of bold colors, too, like the lavender-adjacent “taro milk” and trendy “matcha,” as well as more classic black and white options. If you’d rather opt for something a little more subtle, the X50 Air swaps the glass panel for curved mesh, and is only $79.99 (usually $119.99) from Hyte . ]]>
-
 ## Tom's Hardware
+
+### Dell Pro 7 Webcam 4K Review: Sounds surprisingly great
+Sun, 20 Sep 2026 15:11:14 +0000 — https://www.tomshardware.com/peripherals/webcams/dell-pro-7-webcam-4k-review
+
+The best webcams are getting smaller, cheaper, and faster, apparently — Dell's newest premium webcam is a 4K webcam that streams video at a maximum resolution of 4K / 60fps, which is definitely a faster and smoother frame rate than your typical Dell webcam buyer needs. There's not much you can really do with those numbers if you're not a content creator — and especially not in a professional setting, as most video conferencing apps limit your outgoing stream to 1080p or lower. Luckily, the Dell Pro 7 has more than just smooth, high-res video going for it — it also features Windows Hello compatibility, presence detection, smart image enhancements, and built-in dual beam-forming mics that might be the first built-in webcam mics we can actually recommend. At $199.99, it's priced right alongside 4K webcams such as the Logitech MX Brio and the Insta360 Link 2 4K, which means it has some pretty tough competition. Design The Dell Pro 7 webcam is a 4K / 60fps webcam with a solid, sturdy fabric-covered chassis and a glass lens cover. It features a large Sony STARVIS CMOS sensor, an auto-focus lens, 4x digital zoom, and it has a maximum aperture of f/2.0. It has a built-in physical privacy shutter and comes with a detachable USB-C cable and monitor mount. (Image credit: Tom's Hardware) The Dell Pro 7 is similar in design to the cheaper Dell Pro 5 Webcam 2K — it features the same low-profile oval-shaped body, though the Dell Pro 7 is quite a bit larger and heavier than the Dell Pro 5. T
+
+### Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’
+Sun, 20 Sep 2026 14:48:57 +0000 — https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving
+
+Four plaintiffs subscribed to ChatGPT, Claude, Grok, or Gemini filed a proposed class-action lawsuit alleging that the developers of these AI models violated antitrust laws when they agreed to slow AI development . According to the Associated Press , the lawsuit argues that this agreement would “reduce the value consumers get for paid AI subscriptions” and that this coordination started in July 2026 after the leading AI labs signed a statement admitting there is “intense competitive pressure not to unilaterally slow” development. The plaintiffs recognize the need for AI development to slow for the sake of safety, but they say that Anthropic founder Dario Amodei’s cooperation proposal is a “shortcut” that “substitutes collective restraint for individual accountability.” Attorney Nick Rowley, the lead counsel for the plaintiffs, says, “AI will quickly spin out of human control and could kill us all if we allow AI safety and protocol … to be controlled by private self-serving agreements between the world’s most powerful ‘for profit’ technology companies.” Amodei’s essay acknowledged the antitrust risk and indicated he was hoping that the government would make an exception. OpenAI’s Sam Altman responded to this call on X, saying, “We welcome a federal framework that sets consistent safety requirements for frontier AI. But we do not believe we need to wait for an antitrust exemption or legislation to begin the work of providing this confidence.” However, the Trump administration s
 
 ### The PC gaming ray tracing obsession began with the first RTX 20 graphics cards released on this day in 2018 — the GeForce RTX 2080 and 2080 Ti led the charge, but games were thin on the ground
 Sun, 20 Sep 2026 14:05:31 +0000 — https://www.tomshardware.com/pc-components/gpus/the-pc-gaming-ray-tracing-obsession-began-with-the-first-rtx-20-graphics-cards-released-on-this-day-in-2018-the-geforce-rtx-2080-and-2080-ti-led-the-charge-but-games-were-thin-on-the-ground
@@ -151,22 +146,22 @@ Sun, 20 Sep 2026 11:45:00 +0000 — https://www.tomshardware.com/tech-industry/a
 
 FBI Director Kash Patel just stated in an interview that he's responsible for a "605% increase" in the bureau's usage of AI. The problem is that while the pattern-recognition abilities of AI models make them an ideal candidate for use in law enforcement agencies, and It's a reasonable expectation that entities like the FBI would leverage the technology, it's hard to pin down what the 605% figure refers to. The statement came up in an interview on Fox News, where Patel also said that AI, "when used lawfully, is a critical tool to triage data," remarking that the technology can be invaluable to assist in protecting children from school shootings. He credits AI as being instrumental in following up a lead to stop a shooting in North Carolina and "a half dozen other states" since his swearing-in. It's hard to tell what Patel's seven-fold increase in AI could be referring to, as there appears to be little hard data about how much, and in what ways, AI is integrated into the bureau. Yet, there are a few leads that may help corroborate his claim. The most recent details come from a February 2026 report about the DOJ's AI use case inventory in 2025, showing 50 of those attributed to the FBI, with nine marked as "high-impact." However, a more recent statement by the agency's Chief AI Officer Katie Noyes, in August, pinned approved use cases at 139, or close to three times the January amount. Last year, the U.S. General Services Administration approved Claude, Gemini, and ChatGPT as ap
 
-### Autonomous strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms
+### Autonomous NATO strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms
 Sun, 20 Sep 2026 11:20:00 +0000 — https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms
 
 Drones built with small, non-frontier computer-vision models autonomously identified and attacked targets in a recent demo, Ars Technica reports. Scaleout Systems, a Swedish AI startup, used a low-cost loitering munition from BAE Systems Bofors to strike a target as part of the Affordable Loitering Modular Ammunition (ALMA) program. BAE’s Winter Demo 2026 had the drone detecting and geolocating targets before ranking an armored engineering vehicle highest, autonomously flying to it, and dropping an explosive. Scaleout’s demo video, “Technical Demo: Onboard Edge Intelligence for Autonomous UAV Missions,” shows the company’s drone spotting potential threats with AI, with all processing handled onboard. Beyond a button press to start the system, manual input is optional; the designated pilot remained a failsafe controller. The mission flew under human-set parameters to engage an armored engineering vehicle and required about 200 seconds of recon, with the full mission completed in under 320 seconds. The mission completed without needing communication, supporting Scaleout’s claim of resilience against electronic warfare. The report referred to the munition as a “ kamikaze drone ,” but the program’s own term, “loitering munition,” is more descriptive. Most of the mission is spent searching, ranking targets, and waiting to strike. The company combines Scaleout Edge and “federated learning” in a “Tactical Computer Vision Network (TCVN).” Devices train AI locally and share model upda
 
-### Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations
-Sun, 20 Sep 2026 10:55:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-there-is-0-percent-chance-ai-destroys-the-world-by-2030-we-should-go-as-fast-as-we-can-irrespective-of-anyone-else-dismisses-anthropic-doom-warnings-and-rejects-new-regulations
-
-Jensen Huang, the chief executive of Nvidia, said artificial intelligence will not destroy humanity by the end of the decade, Bloomberg reports , citing a CBS interview. Huang contends that while AI is developing at an extremely rapid pace, doomsday scenarios because of AI are largely unsubstantiated, and it makes no sense to 'stir fear across America.' Go deeper with TH Premium: AI shortages (Image credit: Nvidia) AI data centers are swallowing the world's memory and storage supply Demand for data center CPUs has surged, and AI agents are responsible Chip scarcity assaults auto industry amid the worsening Nexperia and DRAM crisis The custom AI ASIC state of play "I completely disagree that AI will destroy the world by 2030," Huang said in an interview with CBS Sunday Morning (set to be aired on Sunday). "I believe the claims of the end of the world, stirring fear across America, and doing it by people who are doing it makes no sense to me. So, they must be doing it for ulterior reasons. Maybe it is political, maybe it is otherwise, maybe it is just attention-grabbing […]. However this is characterized, 2030 is not going to be the end of the world. There is 0% chance that is going to be the end of the world." Huang, who leads the company that leads the market in AI hardware sales, is responding to Evan Hubinger, the former Alignment Science organization lead at Anthropic, who said there was an over 10% chance that AI would destroy humanity within the next decade. "We really d
-
-### Putin casts online vote using unlicensed Windows on an American Dell PC — 'Activate Windows' watermark visible in official Kremlin clip, uses foreign Dell PC despite Russian tech mandate
-Sun, 20 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/software/windows/putin-casts-online-vote-using-unlicensed-windows-on-an-american-dell-pc-activate-windows-watermark-visible-in-official-kremlin-clip-uses-foreign-dell-pc-despite-russian-tech-mandate
-
-Russian president Vladimir Putin voted online in the State Duma elections on Friday. That’s a pretty ordinary-sounding thing for any president to do, but this filmed-for-the-press event has been widely shared outside of Russia. Why? The official video appears to show Putin voting on a PC using an unlicensed copy of Windows on a Dell PC. The president then comments, “You can’t go wrong,” as he clicks on his choice of candidate. Moreover, folks are throwing scorn at the aging Russian president’s mouse skills. If this were an audition for an eSports team, it would have been a clear fail. Putin’s computer is running an unlicensed copy of WindowsIn the video of his online vote, the “Activate Windows” watermark is clearly visible.A legal copy of Windows 11 starts at $139. https://t.co/YPsNaIIM3K pic.twitter.com/2ebw3feLKv September 18, 2026 The above embed comes via the nonprofit Central European news aggregator Visegrad24. The magnified section of the video shows a screen effect that looks very similar to the Windows activation reminder watermark. However, the other overlay on the screen is obviously from a different computer, and it’s dated 2018. We found some established Russian media sources with the video recording, like Komsomolskaya Pravda, and there does indeed appear to be a watermark present shown on Putin's computer screen at the end of the voting clip. Russian state media source TASS explains that the vote was to elect deputies to the 9 th State Duma. It says that over 
-
 ## Phoronix
+
+### Important x86 Fixes Merged Ahead Of Linux 7.3-rc4
+Sun, 20 Sep 2026 14:19:12 -0400 — https://www.phoronix.com/news/Linux-7.3-rc4-x86-Fixes
+
+Ahead of the Linux 7.3-rc4 kernel release due out in the coming hours, an important batch of x86/x86_64 fixes have been merged to address a few outstanding issues...
+
+### Gzip 1.15 Released With Many Bug Fixes For Issues Present Since Its Inception
+Sun, 20 Sep 2026 10:32:12 -0400 — https://www.phoronix.com/news/Gzip-1.15-Released
+
+Gzip 1.15 is out today for succeeding the Gzip 1.14 release from April 2025. With this release comes a number of fixes for bugs present since the beginning of Gzip...
 
 ### KDE To Focus On Next-Gen Styling, Better Documentation & KDE For Enterprise
 Sun, 20 Sep 2026 08:32:29 -0400 — https://www.phoronix.com/news/KDE-Goals-To-2028
@@ -218,16 +213,6 @@ Sat, 19 Sep 2026 06:10:34 -0400 — https://www.phoronix.com/news/Plasma-6.8-Pos
 
 Following last week's Plasma 6.8 beta release, KDE desktop developers have spent this week mostly working on bug fixes as well as some early changes toward Plasma 6.9...
 
-### Help Linux Hardware Testing & Reviews Continue While Enjoying Phoronix Without Ads
-Fri, 18 Sep 2026 21:00:00 -0400 — https://www.phoronix.com/news/Phoronix-Oktoberfest-2026
-
-If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused hardware testing...
-
-### Ubuntu 26.10 Switches To The Linux 7.3 Kernel
-Fri, 18 Sep 2026 20:50:25 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-With-Linux-7.3
-
-As a very pleasant surprise, the upcoming Ubuntu 26.10 release will now be powered by the Linux 7.3 kernel rather than their original plans and switch over to the Linux 7.2 kernel...
-
 ## The Register
 
 ### How Windows turned months of inactivity into a 7-hour update hostage situation
@@ -275,22 +260,52 @@ Fri, 18 Sep 2026 21:15:39 +0200 — https://www.theregister.com/ai-and-ml/2026/0
 
 Claude Code customers have a new reason to give Anthropic more of their money. The tool now allows you to launch multiple sessions related to a single project, burning through more resources and cash at once. Appropriately enough, the feature is called projects and can be accessed from the Claude.ai sidebar. It's not the old version of projects, capitalized in some reference material, which allowed for the creation of self-contained workspaces with separate chat histories and knowledge bases. The new implementation is technically in beta, though that term hardly means anything anymore amid the constant code iteration. Anthropic describes projects as a way to let Claude manage multiple related tasks. "Claude scopes the request, delegates the work, coordinates parallel threads, reviews the outputs, and assembles the finished result," the company explains in a blog post. "You can steer progress throughout, even from your phone, and it keeps working after you step away from your computer." It's the sort of capability that might be useful if you are prompting the model to begin a large coding project and you want to get several essential components like authorization, databases, caching, and containers up and running at the same time. Essentially, a project spins up each task as its own Claude Code cloud session thread that works on its own git branch and its own copy of the relevant repo. A coordinator directs the threads; if they touch the same code, overlaps surface as merge co
 
-### Researchers used Claude to hack OpenAI employees' ChatGPT accounts
-Fri, 18 Sep 2026 19:16:00 +0200 — https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517
-
-Talk about your competitor getting through the door. Security researchers used Anthropic's Claude to help hack into OpenAI employees’ ChatGPT accounts. A trio of bug hunters researching frontier AI labs’ security weaknesses chained two vulnerabilities to take over multiple OpenAI employees’ ChatGPT accounts, then used that access to demonstrate they could reach an internal OpenAI repository by opening a harmless pull request. The entire timeline, from initial discovery to accessing OpenAI’s repo, took less than 72 hours and earned the researchers a $6,500 reward from OpenAI’s bug bounty program on Bugcrowd. “Until two months ago, any user or OpenAI employee logging into OpenAI’s own help forum (community.openai.com) could have had their ChatGPT and Codex accounts taken over,” Hacktron researchers Harsh Jaiswal, Mohan Pedhapati, and Rahul Maini said in a writeup about their research. “Since people can connect various services to Codex and ChatGPT, the scope of what we could theoretically access was huge, including GitHub, Slack and emails.” And, in a poetic twist, they used rival AI giant Anthropic’s Claude models to develop the exploit. Claude has shown a propensity to hack organizations without human guidance, as have OpenAI's models. The team gained initial entry on July 25 via OpenAI’s community forum. The forum runs on Discourse, which typically uses FastImage to perform image checks. However, since FastImage didn’t support HEIF files in the affected setup, HEIF images up
-
-### North Korea's fake job interviews infected 30,000 devices
-Fri, 18 Sep 2026 18:53:00 +0200 — https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461
-
-North Korea's employment scams work both ways. As well as placing fraudulent IT workers inside Western companies, regime-backed cybercriminals have posed as recruiters to infect more than 30,000 devices and steal over $10 million, according to an international advisory. Law enforcement and cybersecurity agencies from Australia, Germany, Japan, and the US issued an update on the campaign on Thursday. They said the attackers had compromised more than 7,000 cryptocurrency wallets and stolen funds that ultimately supported the North Korean regime. The agencies track the activity collectively as WaterPlum. Its operators target web designers, engineers, and cryptocurrency and Web3 specialists with bogus recruitment approaches. During the supposed interview process, victims are instructed to download files presented as coding assignments or other recruitment tests. Opening them backdoors the applicants' computers and installs malware. Once inside, the attackers deploy remote access trojans (RATs) and information stealers, giving them persistent access to credentials and other sensitive data long after the fake interview ends. In some cases, the compromised machines may later provide a route into corporate systems when the jobseekers secure legitimate employment. WaterPlum operators use that access to steal intellectual property, credentials, clipboard contents, keystrokes, cryptocurrency wallet data, and identity documents that can support further impersonation. "Stolen IDs can be u
-
-### FBI: Fake cop and government impersonation scams cost victims $1.6B
-Fri, 18 Sep 2026 18:19:27 +0200 — https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499
-
-Scammers impersonating law enforcement or government officials have cost victims more than $1.6 billion since January 2025, the FBI reports. The FBI’s Internet Crime Complaint Center (IC3) received close to 61,000 complaints of this type between January 2025 and July 2026, putting the average per-complaint loss at more than $26,000. The most common type of scam is one involving criminals convincing targets to pay a sum of money to remove charges the fraudsters claim were filed against them. Typically contacting targets via unsolicited phone calls, the scammers usually claim that the target has committed or is connected to a crime, and threaten consequences such as arrest and prison time if a payment is not made. Accounting for roughly 11 percent of the complaints is a different type of scam, which involves alleging victims did not fulfill their assigned jury duty or missed a court date, then threatening them with a fine or arrest unless they pay. Of these 6,833 complaints, scammers caused losses amounting to nearly $36 million. A more profitable variant involves a more targeted approach. Scammers will complete some due diligence on a target, such as ascertaining their profession, and tailor the scam to their job. The IC3 has seen cases in which scammers contact medical practitioners, for example, claiming their medical license is expiring or that it was used in the commission of a crime. Payment is then demanded either under the guise of renewing the license or as part of an 
-
 ## Engadget
+
+### Retroid Pocket unexpectedly expands its Duo lineup with a Lite Plus version
+Sun, 20 Sep 2026 18:07:02 +0000 — https://www.engadget.com/2263442/retroid-pocket-unexpectedly-expands-its-duo-lineup-with-a-lite-plus-version/
+
+The handheld maker is offering free exchanges for any Duo Lite customers who want to upgrade.
+
+### The benefits of using an E Ink tablet over an iPad
+Sun, 20 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2259639/using-e-ink-tablets-over-ipad-benefits/
+
+E Ink excels for tasks like reading and note-taking.
+
+### How to customize the side button on your Samsung Galaxy phone
+Sun, 20 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2259632/how-to-customize-samsung-side-button/
+
+The side button on Samsung's Galaxy phones has performed different functions over the years, but you can really make it do whatever you want.
+
+### Joby Aviation completed a fully autonomous flight from California to North Carolina
+Sun, 20 Sep 2026 16:32:47 +0000 — https://www.engadget.com/2263406/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina/
+
+The startup is looking to expand beyond electric air taxi rides in major cities.
+
+### What's the 30-degree rule for TVs?
+Sun, 20 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2256385/whats-the-30-degree-rule-for-tvs/
+
+The Society of Motion Picture and Television Engineers has a simple method for calculating the ideal viewing distance based on your TV size.
+
+### How to use your phone as a remote for any smart TV
+Sun, 20 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2259523/how-to-use-phone-smart-tv-remote/
+
+Some phones have IR blasters to enable remote functions, but even if yours doesn't, you can do quite a lot over Bluetooth and Wi-Fi.
+
+### How to set up your Sonos speakers using the app
+Sun, 20 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2259348/how-to-set-up-sonos-speakers-using-app/
+
+Whether you just got a Sonos speaker or you're adding one to your current setup, you'll need to use the app.
+
+### Before you throw out your old laptop, do this first
+Sun, 20 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2259329/how-to-wipe-old-laptop/
+
+Giving away or recycling your old laptop is great, but you need to make sure all your data is fully removed before it finds a new home.
+
+### These small changes can improve your home surround sound in a big way
+Sun, 20 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2259266/tips-to-improve-home-surround-sound-quality/
+
+If you've just set up your speakers wherever they fit, you're probably not getting the best sound from your surround system.
 
 ### Is the original Nintendo Switch still worth buying in 2026?
 Sun, 20 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2259238/is-original-nintendo-switch-still-worth-buying/
@@ -307,52 +322,37 @@ Sun, 20 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2259233/how-to-impr
 
 Try this simple menu tweak to restore crisp audio.
 
-### Here's what you should look for when buying an Android phone for gaming
-Sun, 20 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2259047/gaming-android-phone-what-to-look-for-when-buying/
-
-If you like gaming on your Android phone, you need a phone that can handle the graphics and processing required.
-
-### Wired vs. wireless charging: Which is better for battery health?
-Sun, 20 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2258952/wired-vs-wireless-charging-better-battery-health/
-
-Wireless charging offers convenience, to be sure, but how does it affect your battery over time? And is it a problem if your phone heats up?
-
-### How long can you expect your old cassette tapes to last?
-Sun, 20 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2259220/how-long-old-cassette-tapes-last-lifespan/
-
-Controlling the environmental conditions where your tapes are stored is key to their longevity.
-
-### How to record audio on your iPhone
-Sun, 20 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2259179/how-to-record-audio-iphone/
-
-You don't need to record unnecessary video to capture a meeting, song or personal memo on your iPhone. Recording audio is simple.
-
-### What is the difference between Apple CarPlay and CarPlay Ultra?
-Sat, 19 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2259087/apple-carplay-vs-ultra-differences-explained/
-
-CarPlay provides a great iOS-like experience in your vehicle. CarPlay Ultra expands that, but isn't widely available yet.
-
-### The pros and cons of using wired vs. wireless Xbox controllers
-Sat, 19 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2258987/wired-vs-wireless-xbox-controllers-pros-cons/
-
-A wireless Xbox controller lets you move around freely, but you have to worry about batteries. Wired controllers can pose a hazard, but never run out of charge.
-
-### Common problems with Google Wallet and how to fix them
-Sat, 19 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2258792/how-to-fix-common-google-wallet-problems/
-
-Google Wallet is great for storing payment cards, tickets and digital IDs, but it doesn't always work how you want it to. Here's what to do if it doesn't.
-
-### What are the downsides of robot vacuums?
-Sat, 19 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2258772/robot-vacuum-downsides/
-
-Robot vacuums save a lot of time and effort with their ability to clean autonomously. However, there are a number of reasons why they might not work for you.
-
-### The Slate Truck is cheap, but its battery range can't compete
-Sat, 19 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2258757/slate-truck-lower-battery-range-than-average/
-
-Slate's electric truck is built specifically for affordability and efficiency, which means it comes with compromises. One of the biggest could be its battery.
-
 ## TechCrunch
+
+### Is the AI industry really ready to slow down?
+Sun, 20 Sep 2026 18:56:04 +0000 — https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/
+
+On Equity, we debated whether Ai executives are serious about wanting to slow down.
+
+### Vocci s ring adds a new form factor to meeting note-taking
+Sun, 20 Sep 2026 18:32:52 +0000 — https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/
+
+Vocci's lightweight ring costs $249, and might pose some privacy questions
+
+### ScrollEd wants to turn textbooks into TikTok
+Sun, 20 Sep 2026 18:00:00 +0000 — https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/
+
+ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.
+
+### New California law will penalize influencers who don t disclose political ads
+Sun, 20 Sep 2026 16:30:00 +0000 — https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/
+
+The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.
+
+### TechCrunch Mobility: How do we know when an AV is safe enough?
+Sun, 20 Sep 2026 16:02:00 +0000 — https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/
+
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!
+
+### A small but growing number of founders are betting on bringing people together offline
+Sun, 20 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/
+
+Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon for $500 million in cash less than three years later. [ ]
 
 ### 6 days left to get ahead at TechCrunch Disrupt 2026
 Sun, 20 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/
@@ -383,34 +383,4 @@ Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding earl
 Sat, 19 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/
 
 Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.
-
-### AI safety conversations have gotten unbelievable
-Sat, 19 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/
-
-This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.
-
-### Prices go up in 7 days. Get your Disrupt ticket now.
-Sat, 19 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/
-
-Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.
-
-### Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking
-Sat, 19 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/
-
-Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.
-
-### India forces caller-ID apps to feed spam reports to telcos
-Sat, 19 Sep 2026 01:00:00 +0000 — https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/
-
-Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.
-
-### Tilly Norwood s press tour is going about as well as you d expect for an AI
-Sat, 19 Sep 2026 00:12:07 +0000 — https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/
-
-In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.
-
-### A startup that builds other startups raised $100M and is all-in on physical AI
-Fri, 18 Sep 2026 23:25:01 +0000 — https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/
-
-UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.
 
