@@ -29,7 +29,6 @@ scoreSources:
     score: 7
   - outlet: Cultura Geek
     score: 6
-draft: true
 ---
 
 Konami let the Townfall verdicts out early. The radar had the embargo pencilled
