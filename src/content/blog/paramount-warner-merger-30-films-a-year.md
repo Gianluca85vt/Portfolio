@@ -4,7 +4,6 @@ date: 2026-09-21
 category: Film & TV
 excerpt: Twelve state attorneys general settled on Monday, clearing the $110bn Warner Bros. Discovery deal. The reported terms put a number on how many films get made.
 cover: /img/blog/paramount-warner-merger-30-films-a-year/shot-01.jpg
-draft: true
 ---
 
 Buried in the settlement Paramount reached on Monday there is a number that
