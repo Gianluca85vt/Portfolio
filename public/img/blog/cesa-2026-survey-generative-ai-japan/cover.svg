@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="CESA 2026 survey: 85.8 percent of Japanese game developers use generative AI">
+  <defs>
+    <linearGradient id="bgAI" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="58%" stop-color="#5E0B58"/>
+      <stop offset="100%" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgAI)"/>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" fill="#FFFFFF">
+    <text x="600" y="150" font-size="34" letter-spacing="7" fill-opacity="0.62">CESA REPORT 2026 — PREVIEW</text>
+    <text x="600" y="380" font-size="212" font-weight="bold">85.8%</text>
+    <text x="600" y="446" font-size="38" fill-opacity="0.82">of Japanese developers use generative AI</text>
+    <text x="600" y="502" font-size="30" fill-opacity="0.55">1,349 responses — up from 51% in 2025</text>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#FFFFFF">
+    <text x="150" y="606" font-size="26" fill-opacity="0.55" letter-spacing="3">WHAT 50 MEMBER COMPANIES USE IT FOR</text>
+
+    <g fill-opacity="0.9" font-size="25">
+      <text x="150" y="668">Internal business ops</text>
+      <text x="150" y="722">Programming support</text>
+      <text x="150" y="776">Translation</text>
+      <text x="150" y="830">Producing visuals</text>
+    </g>
+
+    <g>
+      <rect x="600" y="646" width="352" height="28" fill="#FFFFFF" fill-opacity="0.92"/>
+      <rect x="600" y="700" width="275" height="28" fill="#FFFFFF" fill-opacity="0.72"/>
+      <rect x="600" y="754" width="242" height="28" fill="#FFFFFF" fill-opacity="0.52"/>
+      <rect x="600" y="808" width="176" height="28" fill="#FFFFFF" fill-opacity="0.34"/>
+    </g>
+
+    <g font-size="25" fill-opacity="0.85">
+      <text x="972" y="668">32%</text>
+      <text x="895" y="722">25%</text>
+      <text x="862" y="776">22%</text>
+      <text x="796" y="830">16%</text>
+    </g>
+  </g>
+</svg>
