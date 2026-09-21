@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Silent Hill Townfall reviews average 8 across a four-point range">
+  <defs>
+    <linearGradient id="bgSHT" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="58%" stop-color="#2A1636"/>
+      <stop offset="100%" stop-color="#6E2544"/>
+    </linearGradient>
+    <linearGradient id="fogSHT" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E7D9E6" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#E7D9E6" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgSHT)"/>
+
+  <!-- fog bands -->
+  <g fill="#E7D9E6" fill-opacity="0.06">
+    <rect x="0" y="470" width="1200" height="70" rx="35"/>
+    <rect x="0" y="580" width="1200" height="90" rx="45"/>
+    <rect x="0" y="710" width="1200" height="120" rx="60"/>
+  </g>
+
+  <!-- score scale, 6 to 10 -->
+  <g>
+    <line x1="96" y1="404" x2="1104" y2="404" stroke="#E7D9E6" stroke-opacity="0.28" stroke-width="3"/>
+    <circle cx="96" cy="404" r="11" fill="#E7D9E6" fill-opacity="0.55"/>
+    <circle cx="1104" cy="404" r="11" fill="#E7D9E6" fill-opacity="0.55"/>
+    <circle cx="600" cy="404" r="22" fill="#F3B6CE"/>
+    <text x="96" y="452" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#E7D9E6" fill-opacity="0.7" text-anchor="middle">6</text>
+    <text x="1104" y="452" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#E7D9E6" fill-opacity="0.7" text-anchor="middle">10</text>
+  </g>
+
+  <text x="96" y="150" font-family="Helvetica,Arial,sans-serif" font-size="34" letter-spacing="7" fill="#F3B6CE" fill-opacity="0.85">SILENT HILL: TOWNFALL</text>
+  <text x="96" y="310" font-family="Helvetica,Arial,sans-serif" font-size="196" font-weight="bold" fill="#FFFFFF">8.0</text>
+  <text x="330" y="310" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#E7D9E6" fill-opacity="0.85">from eleven verdicts</text>
+  <text x="96" y="360" font-family="Helvetica,Arial,sans-serif" font-size="38" fill="#E7D9E6" fill-opacity="0.65">Agreed on the atmosphere, split on the stealth</text>
+</svg>
