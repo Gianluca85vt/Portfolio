@@ -19,6 +19,11 @@ Writing it down changes what it is.
 
 ## What was actually settled
 
+<figure>
+  <img src="/img/blog/paramount-warner-merger-30-films-a-year/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Warner Bros. Studios, Burbank — Wikimedia Commons, Creative Commons</figcaption>
+</figure>
+
 On **21 September 2026**, Paramount settled the antitrust suit brought by
 twelve state attorneys general, led by California's Rob Bonta, over its
 acquisition of Warner Bros. Discovery. That suit was the last legal obstacle
