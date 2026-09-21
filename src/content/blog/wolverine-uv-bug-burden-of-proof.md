@@ -36,6 +36,11 @@ The bug is a human fingerprint. This week it counted for nothing.
 
 ## Her first time in front of a mic
 
+<figure>
+  <img src="/img/blog/wolverine-uv-bug-burden-of-proof/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>CD PROJEKT RED, via the official Steam page</figcaption>
+</figure>
+
 Eight days earlier the same accusation landed somewhere with no padding at all.
 **Luminary**, an early-access sandbox from Refractive Entertainment, has exactly
 one voiced character. A Steam review posted after twenty-four minutes of play
