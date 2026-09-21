@@ -1,5 +1,5 @@
 ---
-title: "Silent Hill: Townfall reviews: 8.0, from 6 to 10"
+title: "Silent Hill: Townfall"
 date: 2026-09-21
 category: Games
 cover: /img/blog/silent-hill-townfall-review/shot-01.jpg
