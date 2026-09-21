@@ -1,5 +1,5 @@
 ---
-title: "Control Resonant review: a 4-to-10 spread"
+title: "Control Resonant splits on everything but its environments"
 date: 2026-09-20
 category: Games
 cover: /img/blog/control-resonant-review/shot-01.jpg

@@ -1,5 +1,5 @@
 ---
-title: "NHL 27 review: AI commentary and a 5-to-8 spread"
+title: "NHL 27 and the generative-AI commentary reviewers hit hardest"
 date: 2026-09-13
 category: Games
 excerpt: Seven scored verdicts average 6.8 across a three-point range, and the part reviewers hit hardest is the commentary EA expanded with generative AI voice.

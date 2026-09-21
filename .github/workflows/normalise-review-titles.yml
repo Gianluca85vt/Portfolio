@@ -1,0 +1,55 @@
+name: Keep the score out of review titles
+
+# The rule that would not stick when it lived in a notes file: a review headline
+# never carries the number. The cloud writer kept following its own prompt and
+# putting "review: a 7.5" back. So this stops relying on the writer and heals
+# the title itself, on every push that touches the blog.
+#
+# It commits a corrected title within the minute of a scored one landing. It
+# never fails a build — it only rewrites, it does not reject — so it cannot do
+# what the sourcing schema check once did and freeze the whole site.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/blog/**.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: normalise-review-titles
+  cancel-in-progress: false
+
+jobs:
+  titles:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: Strip any score from review headlines
+        run: node scripts/normalise-review-titles.mjs
+
+      - name: Commit the corrections
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add src/content/blog
+          if git diff --cached --quiet; then
+            echo "nothing to fix"
+          else
+            git commit -m "Strip the score from a review title"
+            # Runs queue rather than cancel, and the social jobs push too, so a
+            # bare push can hit a moved main. Rebase first.
+            git pull --rebase --autostash
+            git push
+          fi

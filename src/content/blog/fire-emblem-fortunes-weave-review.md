@@ -1,5 +1,5 @@
 ---
-title: "Fire Emblem Fortune's Weave review: 89, 7 to 10"
+title: "Fire Emblem Fortune’s Weave is near-flawless but for the cost"
 date: 2026-09-16
 category: Games
 cover: /img/blog/fire-emblem-fortunes-weave-review/video-thumb.jpg

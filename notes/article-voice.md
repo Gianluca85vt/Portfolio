@@ -83,6 +83,14 @@ The verdict still has to be honest — a 9.5 reads as near-universal acclaim, a 
 as solid-but-divided — but said, not scored. This overrides any older
 instruction that a review headline may carry the number.
 
+**This is now enforced, not just asked.** `scripts/normalise-review-titles.mjs`
+runs on every push that touches the blog and strips the score from any review
+title that still has one, committing the fix. A scored headline that slips
+through is corrected within the minute, on the site, the card and the email
+alike. It can only strip down to "`<Game> review`" though — dull, not a
+spoiler — so writing the verdict in words here is still the job; the net only
+catches the misses.
+
 ---
 
 ## The reader, and how it sounds

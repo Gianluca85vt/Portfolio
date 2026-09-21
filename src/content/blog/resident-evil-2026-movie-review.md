@@ -1,5 +1,5 @@
 ---
-title: "Resident Evil movie review: 98% fresh, 7.5 mean"
+title: "Resident Evil: critics warm to Cregger’s take"
 date: 2026-09-17
 category: Film & TV
 excerpt: Seven outlets put a number on Cregger's Resident Evil. Five said eight, two said six, mean 7.5. Rotten Tomatoes reads the same pile as 98%.
