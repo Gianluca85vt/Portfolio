@@ -4,7 +4,6 @@ date: 2026-09-21
 category: AI
 excerpt: Japan's industry body puts generative AI use at 85.8%, up from 51%. The task breakdown comes from a far smaller sample, and puts visuals near the bottom.
 cover: /img/blog/cesa-2026-survey-generative-ai-japan/shot-01.jpg
-draft: true
 ---
 
 CESA handed out a preview edition of its Video Game Industry Report 2026 at
