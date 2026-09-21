@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-21T10:12:30.768Z
+# Source feeds — harvested 2026-09-21T16:35:49.862Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -13,7 +13,7 @@ own feed: headline, link, date, and their summary.
 
 Already aired, so a round-up rather than a preview:
 
-- Push Square — Longest-Ever Tokyo Game Show Curtailed Due to Typhoon Warning in Japan
+- GamesIndustry.biz — Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion
 - Game Developer — gamescom
 - Game Developer — Tokyo Game Show (TGS)
 - Game Developer — gamescom latam
@@ -26,10 +26,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Manga and anime next.** 25 articles have gone out since the last one.
+**Write Manga and anime next.** 27 articles have gone out since the last one.
 
-- **Manga and anime** — BROKEN. 25 articles since the last one; quota is one in 6. 4 in the archive of 168.
-- **Film & TV** — on track. 5 articles since the last one; quota is one in 8, never worse than one in 10. 11 in the archive of 168.
+- **Manga and anime** — BROKEN. 27 articles since the last one; quota is one in 6. 4 in the archive of 170.
+- **Film & TV** — owed now. 7 articles since the last one; quota is one in 8, never worse than one in 10. 11 in the archive of 170.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -38,13 +38,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 33 items
-- [Games](games.md) — 63 items
-- [Tech](tech.md) — 73 items
-- [3D](3d.md) — 8 items
-- [AI](ai.md) — 0 items
-- [Film & TV](film-tv.md) — 63 items
+- [Manga](manga.md) **owed** — 30 items
+- [Film & TV](film-tv.md) **owed** — 64 items
+- [Games](games.md) — 93 items
+- [Tech](tech.md) — 78 items
+- [3D](3d.md) — 11 items
+- [AI](ai.md) — 3 items
 
-Total: 240 items.
+Total: 279 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

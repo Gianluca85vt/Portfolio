@@ -1,72 +1,87 @@
-# Manga — harvested 2026-09-21T10:12:30.768Z
+# Manga — harvested 2026-09-21T16:35:49.862Z
 
 ## Anime News Network
 
-### Bride of the Barrier Master TV Anime Reveals 5 More Cast in New Teaser Video
-Sun, 20 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/bride-of-the-barrier-master-tv-anime-reveals-5-more-cast-in-new-teaser-video/.242013
+### Suikoden II Game Gets Stage Play in July 2027
+Mon, 21 Sep 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/suikoden-ii-game-gets-stage-play-in-july-2027/.242047
 
-Kanon Takao, Hiroto Shimizu, Yuzuki Tamukai, Taihi Kimura, M.A.O join cast of series debuting in January
+Sequel stage play runs in Tokyo on July 3-19, Osaka on July 24-25
 
-### Magical Girl Raising Project Light Novels Get Stage Play
-Sun, 20 Sep 2026 21:46:36 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/magical-girl-raising-project-light-novels-get-stage-play/.242022
+### Grand Blue Dreaming Anime Gets 4th Season
+Mon, 21 Sep 2026 11:43:25 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/grand-blue-dreaming-anime-gets-4th-season/.242050
 
-Stage play runs January 8-13 in Tokyo
+3rd season concluded on Monday
 
-### RESIDENT EVIL (2026) Live-Action Film Review
-Sun, 20 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/review/resident-evil/live-action-film/.241991
+### Castlevania: Belmont's Curse Took Me on a Trip to My Early Childhood Video Gaming
+Mon, 21 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/castlevania-belmont-curse-took-me-on-a-trip-to-my-early-childhood-video-gaming/.242038
 
-This movie has earned the right to carve the name of RESIDENT EVIL in jagged letters onto its very bones.
+Traumatic "Nintendo Hard" flashbacks included.
 
-### Japan's Video Game Rankings, September 7-13
-Sun, 20 Sep 2026 14:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/japan-video-game-rankings-september-7-13/.241937
+### 1st 2 Lufia SNES RPGs Get Collection in 2027
+Mon, 21 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/1st-2-lufia-snes-rpgs-get-collection-in-2027/.242046
 
-<cite>Onimusha: Way of the Sword</cite> PS5 game ranks at #2 in 2nd week
+<cite>Lufia 1 and 2 The Sinistrals Saga</cite> includes 1993 original, 1995 prequel
 
-### Japanese Animation TV Ranking, September 7-13
-Sun, 20 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/japanese-animation-tv-ranking-september-7-13/.241938
+### One Piece Meets Restaurant Management in One Piece: Grand Gourmet
+Mon, 21 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/one-piece-meets-restaurant-management-in-one-piece-grand-gourmet/.242023
 
-<cite>Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke</cite> earns 3.1% rating
+The only fighting you're going to see is the kitchen staff fighting the orders.
 
-### Tokyo Game Show 2026 Draws 257,642 Attendees
-Sun, 20 Sep 2026 12:13:40 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/tokyo-game-show-2026-draws-257642-attendees/.242021
+### Remow Launches 'It's Anime' Free Ad-Supported Channel on Live TV on PS5, Pluto TV, Prime Video
+Mon, 21 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/remow-launches-its-anime-free-ad-supported-channel-on-live-tv-on-ps5-pluto-tv-prime-video/.242045
 
-Attendance numbers slightly lower than last year's numbers
+Channel reveals 1st original program <cite>Tomodachi Talks</cite> with SungWon Cho, AJ Beckles
 
-### Hans Christian Andersen's The Little Mermaid Anime Film Review
-Sun, 20 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/hans-christian-andersen-the-little-mermaid/anime-film/.241633
+### Cupid Parasite Visual Novel Review
+Mon, 21 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/review/game/steam/cupid-parasite-visual-novel/.241997
 
-No matter how you feel about the story, as a piece of anime history, this is more than worthwhile.
+Lighthearted for the most part but serious when it needs to be, this is a sheer delight.
 
-### Though I am an Inept Villainess Anime's 2nd Part Unveils Cast, Key Visual, January 2027 Debut
-Sun, 20 Sep 2026 11:35:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/though-i-am-an-inept-villainess-anime-2nd-part-unveils-cast-key-visual-january-2027-debut/.241998
+### Relive Attack on Titan's Greatest Moments in Attack on Titan 3
+Mon, 21 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/relive-attack-on-titan-greatest-moments-in-attack-on-titan-3/.242024
 
-Yuichi Nakamura, Shunichi Toki, Chiaki Kobayashi join cast
+Or get eaten by a Titan while trying.
 
-### Bushiroad Streams Ghost Meets Gal Anime on YouTube
-Sun, 20 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/bushiroad-streams-ghost-meets-gal-anime-on-youtube/.241999
+### New Resident Evil Reboot Film Opens at #1 at U.S. Box Office With US$60 Million
+Mon, 21 Sep 2026 09:06:07 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/new-resident-evil-reboot-film-opens-at-no.1-at-u.s-box-office-with-usd60-million/.242039
 
-3-episode series available with English subtites
+Also: <i>The Transformers: The Movie</i> 4K re-release ranked at #8
 
-### 2026 World Webtoon Awards Announces 20 Finalists, Opens Global Reader Vote
-Sun, 20 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/2026-world-webtoon-awards-announces-20-finalists-opens-global-reader-vote/.242010
+### From Chainsaw Man to A Silent Voice, Music Composer kensuke ushio
+Mon, 21 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-09-21/from-chainsaw-man-to-a-silent-voice-music-composer-kensuke-ushio/.241550
 
-Now in their 3rd year, awards will accept online votes from readers worldwide from September 17 to October 19
+kensuke ushio sat down with us to talk about his craft and process. He also dived deep into how he compiled the soundtrack for Chainsaw Man – The Movie: Reze Arc and navigates the music business.
 
-### NieR's Yokō Tarō, Evangelion's Yoko Takahashi Collaborate on The Weeknd's Latest Tour
-Sun, 20 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-20/nier-yoko-taro-evangelion-yoko-takahashi-collaborate-on-the-weeknd-latest-tour/.242019
+### This Week in Mobile Games - The Legend of the Zelda-likes
+Mon, 21 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-09-21/.241691
 
-Featuring visuals from legendary anime series Neon Genesis Evangelion
+There have been so many so-called "Zelda-likes" over the years that it'd be a waste of time to try to list them all, but Josh is going to do his best.
 
-### Persona 4 Revival Game Recasts Ryōtarō Dōjima
-Sun, 20 Sep 2026 07:53:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/persona-4-revival-game-recasts-ryotaro-dojima/.242017
+### Yuika Performs Promise Me the Spotlight Anime's Opening Song
+Mon, 21 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/yuika-performs-promise-me-the-spotlight-anime-opening-song/.242015
 
-Ryōtarō Okiayu replaces Unshō Ishizuka, who died in 2018
+Yuika performs "Nanimono demo nakatta Watashi dakara" opening theme
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Grand Blue Season 4 Announced With Teaser Visual
+Mon, 21 Sep 2026 15:32:34 GMT — https://animecorner.me/grand-blue-season-4/
+
+Grand Blue Season 4 anime was officially announced immediately after the third season's finale finished airing in Japan.
+
+### Black Clover Season 2 Episode 1 Preview and Synopsis Revealed
+Mon, 21 Sep 2026 12:42:18 GMT — https://animecorner.me/black-clover-season-2-episode-1-preview-and-synopsis-revealed/
+
+Black Clover Season 2 has released preview images and the synopsis for Episode 1, titled “War Begins” (Episode 171 overall).
+
+### Katekyo Hitman Reborn! Anime Reveals Seventh Opening Featuring "Funny Sunny Day" by SxOxU
+Mon, 21 Sep 2026 11:20:27 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-seventh-opening-featuring-funny-sunny-day-by-sxoxu/
+
+Katekyo Hitman REBORN! anime released the creditless version of its seventh opening, featuring the song "Funny Sunny Day" by SxOxU.
 
 ### Bride of the Barrier Master New Trailer Unveils More Cast
 Mon, 21 Sep 2026 03:48:48 GMT — https://animecorner.me/bride-of-the-barrier-master-new-trailer-unveils-more-cast/
@@ -103,32 +118,12 @@ Sun, 20 Sep 2026 03:59:42 GMT — https://animecorner.me/roshidere-season-2-reve
 
 Alya Sometimes Hides Her Feelings in Russian (Roshidere) Season 2 revealed a teaser trailer on Sunday.&hellip;
 
-### Daemons of the Shadow Realm Season 2 Announced With Teaser Video
-Sat, 19 Sep 2026 15:03:51 GMT — https://animecorner.me/daemons-of-the-shadow-realm-season-2/
-
-Daemons of the Shadow Realm Season 2 was officially announced immediately after the first season's finale finished airing in Japan.
-
-### BLEACH FES Announced for February 2027 With 15 Voice Actors to Celebrate Anime's Conclusion
-Sat, 19 Sep 2026 14:51:06 GMT — https://animecorner.me/bleach-fes-announced-for-february-2027-with-15-voice-actors-to-celebrate-animes-conclusion/
-
-BLEACH FES, a two-day event celebrating the conclusion of the BLEACH anime, will take&hellip;
-
-### Katekyo Hitman Reborn! Anime Reveals Eleventh Ending Featuring "Smile for..." by Ueto Aya
-Sat, 19 Sep 2026 12:39:14 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-eleventh-ending-featuring-smile-for-by-ueto-aya/
-
-Katekyo Hitman REBORN! anime released the creditless version of its eleventh ending, featuring "Smile for..." by Ueto Aya.
-
-### The Cat and the Dragon Season 2 Announced for 2027
-Sat, 19 Sep 2026 12:37:28 GMT — https://animecorner.me/the-cat-and-the-dragon-season-2-announced-for-2027/
-
-The Cat and the Dragon (Neko to Ryu) is officially getting a second TV anime season, scheduled to air in 2027. A trailer was released.
-
-### Dengeki Daisy Reveals Main Trailer, Key Visual and 4 New Cast Members Ahead of January 2027 Release
-Sat, 19 Sep 2026 12:23:06 GMT — https://animecorner.me/dengeki-daisy-reveals-main-trailer-key-visual-and-4-new-cast-members-ahead-of-january-2027-release/
-
-Dengeki Daisy anime revealed its first main trailer and key visual, four additional cast members, and a January 2027 release date.
-
 ## MyAnimeList News
+
+### Grand Blue Fourth Season in Production
+Mon, 21 Sep 2026 08:39:14 -0700 — https://myanimelist.net/news/74743342?_location=rss
+
+The 12th and final episode of Grand Blue Season 3 (Grand Blue Dreaming Season 3) ended with an announcement on Tuesday that a fourth season is in production. The official website also revealed an announcement visual (pictured). Produced by Zero-G, the first season aired in 12 episodes in Summer 2018. The second season aired in Summer 2025. A third season produced by Zero-G and Saber Works premiered on July 7. Amazon Prime Video streamed the first season, with Crunchyroll simulcasted the second a...
 
 ### Kekkaishi no Ichirinka Unveils Additional Cast, Second Teaser Promo
 Sun, 20 Sep 2026 20:21:01 -0700 — https://myanimelist.net/news/74741587?_location=rss
@@ -154,16 +149,6 @@ The stage event for the new television anime adaptation of CLAMP s Magic Knight 
 Sat, 19 Sep 2026 14:29:52 -0700 — https://myanimelist.net/news/74737075?_location=rss
 
 The winners of Kadokawa s annual Next Manga Award were announced on Wednesday. The awards ceremony was streamed on Niconico on the same day. Out of the 7,952 titles that were submitted for the award, 100 titles (40 print manga, 60 web manga) were nominated by a special commitee for the final round of voting. A total of 382,581 votes were cast by fans this year. Print Manga &ensp;1. Someone Hertz &ensp;2. Futari Bus &ensp;3. Register! &ensp;4. Parashoppers &ensp;5. Silver Mountain &ensp;6. M...
-
-### Yomi no Tsugai Second Season in Production
-Sat, 19 Sep 2026 08:22:25 -0700 — https://myanimelist.net/news/74736072?_location=rss
-
-The 24th and final episode of the Yomi no Tsugai (Daemons of the Shadow Realm) television anime ended with a second season announcement on Sunday, revealing an announcement promo, visual (pictured), and additional cast pair. Voice actors Jin Urayama (Summertime Render), as well as Hikaru Tanaka (Skip to Loafer) and Hayata Ookawa, are joining the cast as Shachou and Saishin, respectively. Produced by Bones Film, the anime series adapting Hiromu Arakawa s action fantasy manga began airing on...
-
-### Neko to Ryuu Second Season Announced for 2027
-Sat, 19 Sep 2026 06:14:49 -0700 — https://myanimelist.net/news/74735782?_location=rss
-
-The 12th and final episode of Neko to Ryuu (The Cat and the Dragon) ended with an announcement on Saturday that a second season is in production. The series director, Jin-koo Oh drew an illustrations to commemorate the announcement (pictured). The anime series will premiere in 2027. Produced by OLM, the first anime season adapting Amara s fantasy light novel aired in 12 episodes on July 4. Crunchyroll simulcasted the anime with subtitles in multiple languages. Amara began writing the fantas...
 
 ## Otaku USA
 
