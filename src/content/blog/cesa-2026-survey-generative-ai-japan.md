@@ -18,6 +18,11 @@ The second paragraph is where the survey design lives, so let me start there.
 
 ## Two surveys, two sample sizes
 
+<figure>
+  <img src="/img/blog/cesa-2026-survey-generative-ai-japan/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Tokyo Game Show show floor, via Wikimedia Commons (CC BY 4.0)</figcaption>
+</figure>
+
 The 85.8% comes from CESA's annual developer questionnaire — the one it runs
 under the title *Game Developers' Employment and Career Formation* — which was
 open online from May to August 2026 and closed with **1,349 valid responses**.
