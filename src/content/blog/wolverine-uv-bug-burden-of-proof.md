@@ -5,7 +5,6 @@ category: Editorial
 column: Architectures of the Void — the Monday editorial
 cover: /img/blog/editorial/cover.jpg
 excerpt: A UV mapping error on a bathroom door got read as generative AI, and a developer's wife got mistaken for text-to-speech. The industry spent a year adopting these tools and built nothing that lets an artist prove the work is theirs.
-draft: true
 ---
 
 I have shipped a broken UV before, and nobody accused me of being a machine.
