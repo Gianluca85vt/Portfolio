@@ -1,0 +1,43 @@
+[
+  { "id": "who-i-am", "kind": "lower",
+    "name": "Gianluca Scattarella",
+    "role": "3D Environment & Technical Artist",
+    "handle": "gianlucascattarella.it — Backdrop, every Monday" },
+
+  { "id": "the-weekend", "kind": "beats", "title": "HOW IT WENT",
+    "items": ["Sign goes viral", "AI accusation", "UV map bug", "Reply from PR"],
+    "note": "TikTok clip past 700,000 views; Insomniac's community director replied publicly on 20 September 2026." },
+
+  { "id": "what-they-use-it-for", "kind": "bars", "title": "CESA 2026 — WHAT IT IS USED FOR",
+    "rows": [
+      { "label": "Internal business operations", "value": 32, "display": "32%" },
+      { "label": "Supporting programming", "value": 25, "display": "25%" },
+      { "label": "Proposals and idea generation", "value": 23, "display": "23%" },
+      { "label": "Translation and localisation", "value": 22, "display": "22%" },
+      { "label": "Producing visuals", "value": 16, "display": "16%" }
+    ],
+    "note": "Task breakdown answered by 50 CESA member companies, not the 1,349 developers behind the 85.8% headline. Full report lands in December." },
+
+  { "id": "two-readings", "kind": "compare", "title": "READING A BROKEN SIGN",
+    "left": "What a generated asset does",
+    "right": "What a UV bug does",
+    "rows": [
+      ["Wrong everywhere at once", "Correct except for one island"],
+      ["No seams, no atlas, no export", "Pixels from the island next door"],
+      ["Plausible shapes, no source", "One decal, one door, nothing else"]
+    ],
+    "note": "Why the artefact itself is the evidence, and why a model does not produce this failure." },
+
+  { "id": "where-proof-would-go", "kind": "timeline", "title": "AN ASSET, END TO END",
+    "stages": ["Blockout", "Model", "UV", "Texture", "Bake", "Ship", "Checkbox"],
+    "markAt": 6, "markLabel": "The only proof a player ever sees",
+    "note": "Steam's disclosure field is filled in by the publisher, about itself. A PlayStation exclusive has no equivalent at all." },
+
+  { "id": "the-line", "kind": "statement",
+    "text": "Doubt was the cheap thing to build, and it got built first.",
+    "attribution": "Architectures of the Void — the Monday editorial" },
+
+  { "id": "outro", "kind": "statement",
+    "text": "gianlucascattarella.it — new one every Monday",
+    "attribution": "Backdrop" }
+]
