@@ -68,6 +68,21 @@ export async function analytics(win) {
 
   try {
     const token = await accessToken(key, [SCOPES.analytics]);
+
+    // EasyFrame is a product landing page he built, not the blog. Its
+    // /easyframe paths kept turning up in "where they landed" and inflating
+    // the totals, so every query below drops any pageview whose path starts
+    // there. On a session or user metric this excludes a session only if it
+    // never touched anything but easyframe; a reader who saw a blog page too
+    // still counts, which is the right line for a blog report.
+    const notEasyframe = {
+      notExpression: {
+        filter: {
+          fieldName: 'pagePath',
+          stringFilter: { matchType: 'BEGINS_WITH', value: '/easyframe' },
+        },
+      },
+    };
     const ranges = [
       { startDate: win.current.start, endDate: win.current.end, name: 'current' },
       { startDate: win.previous.start, endDate: win.previous.end, name: 'previous' },
@@ -75,6 +90,7 @@ export async function analytics(win) {
 
     const totals = await ga4Report(token, propertyId, {
       dateRanges: ranges,
+      dimensionFilter: notEasyframe,
       metrics: [
         { name: 'activeUsers' },
         { name: 'sessions' },
@@ -105,6 +121,7 @@ export async function analytics(win) {
     const [pages, sources, countries, devices, daily] = await Promise.all([
       ga4Report(token, propertyId, {
         dateRanges: [only],
+        dimensionFilter: notEasyframe,
         dimensions: [{ name: 'pagePath' }],
         metrics: [{ name: 'screenPageViews' }],
         orderBys: [{ metric: { metricName: 'screenPageViews' }, desc: true }],
@@ -112,6 +129,7 @@ export async function analytics(win) {
       }),
       ga4Report(token, propertyId, {
         dateRanges: [only],
+        dimensionFilter: notEasyframe,
         dimensions: [{ name: 'sessionDefaultChannelGroup' }],
         metrics: [{ name: 'sessions' }],
         orderBys: [{ metric: { metricName: 'sessions' }, desc: true }],
@@ -119,6 +137,7 @@ export async function analytics(win) {
       }),
       ga4Report(token, propertyId, {
         dateRanges: [only],
+        dimensionFilter: notEasyframe,
         dimensions: [{ name: 'country' }],
         metrics: [{ name: 'activeUsers' }],
         orderBys: [{ metric: { metricName: 'activeUsers' }, desc: true }],
@@ -126,12 +145,14 @@ export async function analytics(win) {
       }),
       ga4Report(token, propertyId, {
         dateRanges: [only],
+        dimensionFilter: notEasyframe,
         dimensions: [{ name: 'deviceCategory' }],
         metrics: [{ name: 'activeUsers' }],
         orderBys: [{ metric: { metricName: 'activeUsers' }, desc: true }],
       }),
       ga4Report(token, propertyId, {
         dateRanges: [only],
+        dimensionFilter: notEasyframe,
         dimensions: [{ name: 'date' }],
         metrics: [{ name: 'activeUsers' }],
         orderBys: [{ dimension: { dimensionName: 'date' } }],
@@ -211,6 +232,13 @@ export async function searchConsole(win) {
     const site = await scSite(token);
     const range = { startDate: win.current.start, endDate: win.current.end };
     const prev = { startDate: win.previous.start, endDate: win.previous.end };
+    // Same exclusion for Search Console: keep the easyframe landing page out
+    // of the blog's search numbers.
+    const notEasyframePage = {
+      dimensionFilterGroups: [
+        { filters: [{ dimension: 'page', operator: 'notContains', expression: '/easyframe' }] },
+      ],
+    };
 
     const sum = (list) =>
       list.reduce(
@@ -223,10 +251,10 @@ export async function searchConsole(win) {
       );
 
     const [nowRows, prevRows, queries, pages] = await Promise.all([
-      scQuery(token, site, { ...range, dimensions: ['date'] }),
-      scQuery(token, site, { ...prev, dimensions: ['date'] }),
-      scQuery(token, site, { ...range, dimensions: ['query'], rowLimit: 20 }),
-      scQuery(token, site, { ...range, dimensions: ['page'], rowLimit: 15 }),
+      scQuery(token, site, { ...range, ...notEasyframePage, dimensions: ['date'] }),
+      scQuery(token, site, { ...prev, ...notEasyframePage, dimensions: ['date'] }),
+      scQuery(token, site, { ...range, ...notEasyframePage, dimensions: ['query'], rowLimit: 20 }),
+      scQuery(token, site, { ...range, ...notEasyframePage, dimensions: ['page'], rowLimit: 15 }),
     ]);
 
     const a = sum(nowRows);
