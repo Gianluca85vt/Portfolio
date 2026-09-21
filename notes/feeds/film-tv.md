@@ -1,184 +1,189 @@
-# Film & TV — harvested 2026-09-20T19:02:55.241Z
+# Film & TV — harvested 2026-09-21T10:12:30.768Z
 
 ## Variety
 
-### Alan Ritchson Says ‘Reacher’ Planned to Adapt Die Trying’ Book for a Future Season Before ‘Someone Got Re-Elected’
-Sun, 20 Sep 2026 18:50:39 +0000 — https://variety.com/2026/tv/news/alan-ritchson-jack-reacher-novel-die-trying-1236870453/
+### Red Sea Film Festival Cancels 2026 Edition, Will Return Next Year
+Mon, 21 Sep 2026 10:00:00 +0000 — https://variety.com/2026/film/festivals/red-sea-film-festival-cancels-2026-edition-1236865126/
 
-“Reacher” star Alan Ritchson had plans to adapt the second book in the popular “Jack Reacher” series for the Prime Video show — before a certain “someone” got re-elected, he wrote in a comment posted to Threads on Friday. Responding to a user who wrote that “every year I m sad to learn that next season [ ]
+Saudi Arabia’s Red Sea Film Festival, the most prominent film event and market in the Arab world, has canceled its sixth edition that was scheduled to take place from Dec. 3 to 12. The event will return in the fourth quarter of 2027 with a renewed vision and a program that continues to celebrate cinema [ ]
 
-### Kate Beckinsale Posts Cryptic Messages on Social Media, Sparking Concern from Fans
-Sun, 20 Sep 2026 17:30:26 +0000 — https://variety.com/2026/film/news/kate-beckinsale-cryptic-messages-on-social-media-1236870408/
+### A Teacher s Gift Lands U.K. Distribution Deal With Peccadillo Pictures (EXCLUSIVE)
+Mon, 21 Sep 2026 10:00:00 +0000 — https://variety.com/2026/film/news/a-teachers-gift-uk-distribution-deal-peccadillo-pictures-1236870890/
 
-“Serendipity” actor Kate Beckinsale posted cryptic messages to her personal social media account early Sunday morning, leaving fans concerned. Beckinsale posted a black screen with “bye” written across it on her Instagram story, followed by a second post of a rainbow with the text “congratulations you won i give up.” These posts have since been [ ]
+British South Asian drama A Teacher s Gift has landed U.K. theatrical distribution through Peccadillo Pictures, the independent distributor known for its LGBTQ+ and world cinema output. The deal confirms the film s BIFA-qualifying status and puts it in contention for the British Independent Film Awards. Eric Ollerenshaw produces the film, which was shot in the Midlands [ ]
 
-### Sylvester Stallone Says He Turned Down Trump’s ‘Special Ambassador’ to Hollywood Role Because It Was ‘Impossible’: ‘I Said Thank You and Ciao’
-Sun, 20 Sep 2026 17:09:39 +0000 — https://variety.com/2026/film/news/sylvester-stallone-special-ambassador-hollywood-trump-1236870394/
+### Pablo Larraín Ventures Into Argentina With His San Sebastián Golden Shell Contender ‘My Sad Dead’
+Mon, 21 Sep 2026 09:40:59 +0000 — https://variety.com/2026/film/global/pablo-larrain-my-sad-dead-mariana-enriquez-1236870553/
 
-Sylvester Stallone may hold the Trump-bestowed title of “special ambassador” to Hollywood, but nearly two years since his appointment, the “Rocky” actor has divulged that he didn’t explicitly sign up for the role. “Well, it just happened,” the Oscar nominee noted in a recent interview with The Sunday Times. “I was watching TV one night [ ]
+Writer-director Pablo Larraín, best known for his trilogy “Jackie,” “Spencer” and “Maria,” ventures into Argentina for the first time in “My Sad Dead” (“Mis muertos tristes”), based on three stories by Argentinean writer Mariana Enriquez. It stars some of Argentina’s brightest talent, led by Mercedes Moran, Dolores Fonzi, Alejandra Flechner and Carolina Álvarez. Not unlike [ ]
 
-### NFL’s 20 Hottest WAGs: Taylor Swift, Madison Beer, Normani and More
-Sun, 20 Sep 2026 17:00:00 +0000 — https://variety.com/lists/nfl-20-hottest-wags-taylor-swift-madison-beer-normani-olivia-ponton/
+### Bestselling Japanese Novelist Maha Harada Says If This Is a Dream, I Hope I Never Wake Up About Her San Sebastian – and Busan – Bound Directing Debut In My Father s Room
+Mon, 21 Sep 2026 09:08:17 +0000 — https://variety.com/2026/film/festivals/maha-harada-in-my-fathers-room-interview-1236865727/
 
-The term WAGs (wives and girlfriends) was popularized by the U.K. press in the early aughts in relation to Victoria Beckham, a pop singer for the Spice Girls who was married to star footballer David Beckham and a frequent fixture at his matches. While originally referring to the wives and girlfriends of footballers across the [ ]
+Maha Harada spent two decades building scenes on the page before she ever stood behind a camera. Now 64, the best-selling Japanese author is making her feature directorial debut with In My Father s Room, a film adapted from her own short story An Unnecessary Man, and it arrives in competition at the San Sebastian Film [ ]
 
-### From Oprah Winfrey and Christopher Nolan to Kim Kardashian and Robert De Niro: Inside the Lucas Museum of Narrative Art Opening Gala
-Sun, 20 Sep 2026 16:55:14 +0000 — https://variety.com/gallery/oprah-winfrey-christopher-nolan-robert-de-niro-kim-kardashian-lucas-museum-of-narrative-art-opening/
+### Sean Hogan s The Dark Gets In Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)
+Mon, 21 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/news/beyond-fest-dark-gets-in-sales-blue-finch-films-1236866861/
 
-During her introductory remarks at the opening of the Lucas Museum of Narrative Art on Saturday night, Mellody Hobson said her husband, famed Star Wars director George Lucas, was nervous about the evening’s turnout. “This room is filled with our friends,” Hobson said. “Looking out at your faces, you have no idea how much you [ ]
+Blue Finch Films has boarded worldwide sales rights to The Dark Gets In, a supernatural thriller directed by Sean Hogan that will premiere at Beyond Fest later this month. The story centers on a documentary crew investigating a young girl s disappearance, only to find themselves drawn into events far darker and stranger than they anticipated. [ ]
 
-### Aaron Sorkin Says Jeremy Strong Treated His Co-Stars The Way He Imagines Mark Zuckerberg Treats People While Shooting The Social Reckoning
-Sun, 20 Sep 2026 16:39:36 +0000 — https://variety.com/2026/film/news/jeremy-strong-mark-zuckerberg-method-social-reckoning-1236870294/
+### Tobias Forge’s ‘V/H/S Mixtape’ Segment, Swedish Horror Trespassers, The End by Midsommar Production Designer on Mylla Films Slate (EXCLUSIVE)
+Mon, 21 Sep 2026 08:00:00 +0000 — https://variety.com/2026/film/global/mylla-films-trespassers-tobias-forge-1236870062/
 
-Director Aaron Sorkin told The New York Times in the latest edition of The Interview that his “Social Reckoning” star Jeremy Strong, a known method actor, was treating his co-stars “the way he imagines” Mark Zuckerberg would treat them during filming. Strong, of course, plays the Meta CEO in “The Social Network” follow-up. “Jeremy does [ ]
+Swedish boutique genre specialist Mylla Films, brainchild of “Midsommar” producer Patrik Andersson and Nordic indie distribution heavyweight Jakob Abrahamsson (CEO of NonStop Entertainment), has turned into a magnet for Nordic genre talent since its splashy launch in Cannes in 2022. “People with tremendous CVs and filmographies are reaching out to us,” Abrahamsson told Variety on [ ]
 
-### La Bola Negra Producer Movistar Plus Unveils Projects from ‘The Good Boss’ Director Fernando León, J.A. Bayona, Los Moriarti
-Sun, 20 Sep 2026 16:14:25 +0000 — https://variety.com/2026/film/global/movistar-plus-fernando-leon-j-a-bayona-paco-leon-1236870282/
+### Spanish Government Pledges to Continue Audiovisual Hub Through Spain Crece Fund
+Mon, 21 Sep 2026 05:45:00 +0000 — https://variety.com/2026/film/global/spanish-government-audiovisual-hub-through-spain-crece-fund-1236870443/
 
-Movistar Plus, producer of “La Bola Negra,” “The Beloved” and “Sirāt ” has unveiled a new slate of projects headed by titles from “The Good Boss” director Fernando León, director-producer JA Bayona (“Society of the Snow”) and actor-director Paco Leon (“Arde Madrid”). Further projects are set to be directed by Los Moriarti (“The Endless Trench”), [ ]
+Spain plans to press on with its commitment to the country’s audiovisual industry, said Óscar López, Minister for Digital Transformation and Public Administration. Speaking at the conference titled The New Script of the Audiovisual Industry at the San Sebastian Festival, López said Sunday that his Ministry would continue supporting its audiovisual industry through the Spain [ ]
 
-### La Bola Negra Takes 2026 TIFF Audience Award
-Sun, 20 Sep 2026 16:09:28 +0000 — https://variety.com/2026/film/news/la-bola-negra-wins-tiff-audience-award-1236870261/
+### Chile Film Industry Surges 20.5% Compared to Previous Season, New Catalog Reveals (EXCLUSIVE)
+Mon, 21 Sep 2026 05:30:11 +0000 — https://variety.com/2026/film/global/chile-film-industry-surges-20-5-per-cent-unveils-catalog-1236870115/
 
-The generational queer drama La Bola Negra has taken the 2026 TIFF People s Choice Award, a coveted audience prize out of the annual film festival in Toronto. Directed by Javier Calvo and Javier Ambrossi, the Netflix project has been on a tear since world premiering in Cannes this year (where it earned a 16-minute standing [ ]
+CinemaChile unveils its 2026-2027 catalog at the San Sebastián Festival on Sept. 21 where it has much to celebrate, with eight titles screening across seven sections, led by Pablo Larrain’s “My Sad Dead,” a 4-part Netflix series that has been combined to make a roughly three-hour feature that competes for the Golden Shell. Unsurprisingly, the [ ]
 
-### How to Watch the Chiefs vs. Colts Live Online
-Sun, 20 Sep 2026 16:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-chiefs-vs-colts-live-online-streaming-1236867251/
+### Karan Johar s Dharma Productions Confirms Film on Indian Spymaster Rameshwar Nath Kao, Targets 2028 Release (EXCLUSIVE)
+Mon, 21 Sep 2026 05:30:00 +0000 — https://variety.com/2026/film/news/karan-johar-dharma-raw-rameshwar-nath-kao-film-1236867651/
 
-Patrick Mahomes and the Kansas City Chiefs return to primetime Sunday night for a Week 2 matchup against the Indianapolis Colts, with the game airing nationally on NBC and streaming live on Peacock. The Chiefs host the Colts at Arrowhead Stadium on Sunday, Sept. 20, with kickoff set for 8:20 p.m. ET. NBC’s coverage begins [ ]
+Karan Johar s Dharma Productions is teaming with Leo Media Collective on a theatrical feature about Rameshwar Nath Kao, founder of India s Research and Analysis Wing, targeting an Aug. 11, 2028 release timed to the Indian Independence Day holiday weekend. R AW, India s primary external intelligence agency, was established in 1968 to consolidate the country s foreign intelligence [ ]
 
-### Edward Morris, Nashville Music Editor and Columnist Who Steered Billboard s Country Coverage, Dies at 90
-Sun, 20 Sep 2026 15:58:24 +0000 — https://variety.com/2026/music/news/edward-morris-dead-nashville-country-music-journalist-1236870142/
+### Latido Takes Isaki Lacuesta’s ‘Flamenco Sketches,’ San Sebastian’s Zabaltegi-Tabakalera Closer (EXCLUSIVE)
+Mon, 21 Sep 2026 05:15:00 +0000 — https://variety.com/2026/film/global/isaki-lacuesta-flamenco-sketches-latido-san-sebastian-1236870389/
 
-Edward Morris, a Nashville-based music journalist who edited Billboard s country coverage, wrote a popular CMT.com column and penned numerous books, died Thursday at age 90. The family did not give a cause of death. Morris was best remembered in the country community for a 14-year tenure with Billboard from 1981 to 1995, the last four [ ]
+SAN SEBASTIAN, Spain – Madrid-based Latido Films has picked up international sales rights to Isaki Lacuesta’s “Flamenco Sketches” (“Jaleos”), the latest film from Isaki Lacuesta, one of Spain’s most singular filmmakers, which plays this week at the San Sebastian Film Festival. Lacuesta has twice won San Sebastian’s top prize, the Golden Shell, with “The Double [ ]
 
 ## The Hollywood Reporter
 
-### Toronto: 5 Things the Fest Told Us About the Oscar Race
-Sun, 20 Sep 2026 18:59:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/5-things-2026-toronto-film-fest-revealed-oscar-race-1236704656/
+### It Fills Me With Pride : How the Basque Country Is Nurturing Its Next Generation of Filmmakers
+Mon, 21 Sep 2026 10:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/basque-films-san-sebastian-javier-giner-nitya-harvester-tv-1236706458/
 
-The Hollywood Reporter's executive editor of awards coverage weighs in about 'La Bola Negra,' 'I Play Rocky,' 'Elsinore,' sales titles and 'Obsession.'
+A total of 31 projects with Basque production ties are hitting this year's San Sebastián Film Festival — and some of those creatives are only just getting started: "We are in a great moment compared to 20 years ago."
 
-### Alan Ritchson Reveals Which Reacher Season Got Canceled After Someone Got Re-Elected
-Sun, 20 Sep 2026 18:11:20 +0000 — https://www.hollywoodreporter.com/tv/tv-news/alan-ritchson-reacher-season-canceled-someone-re-elected-1236706469/
+### San Sebastian Winner Yesim Ustaoglu Returns to Competition With What Remains (Exclusive Clip)
+Mon, 21 Sep 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-yesim-ustaoglu-what-remains-film-clip-turkey-1236706356/
 
-Each season of the hit Prime Video show adapts a different book from Lee Child's Jack Reacher book series.
+The prolific Turkish director tells the story of Elif, a poet who breaks free from a suffocating life in an attempt to rediscover her creative flow.
 
-### Charlize Theron Says The Odyssey Just Gave Hollywood a Much-Needed Reminder
-Sun, 20 Sep 2026 17:20:45 +0000 — https://www.hollywoodreporter.com/movies/movie-news/charlize-theron-the-odyssey-hollywood-reminder-1236706439/
+### John Oliver Takes Jab at Soon-to-Be Business Daddy David Ellison on Last Week Tonight
+Mon, 21 Sep 2026 05:29:54 +0000 — https://www.hollywoodreporter.com/tv/tv-news/john-oliver-business-daddy-david-ellison-last-week-tonight-1236706792/
 
-The star, who played Calypso in Christopher Nolan's box office smash, continued her busy year as she hosted the annual benefit for her Charlize Theron Africa Outreach Project.
+During a segment on UnitedHealthCare's history of denying claims, Oliver said: "Having access to wealthy parents just cannot be the system to get badly needed healthcare, even if it is apparently the system that lets you be in charge of HBO."
 
-### Where to Watch the Los Angeles Chargers vs. Las Vegas Raiders Game Online
-Sun, 20 Sep 2026 16:40:15 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-chargers-vs-raiders-game-free-nfl-streams-sept-2026-1236706112/
+### John Oliver Mocks Ted Cruz With Dr. Seuss-Style Rhyme After Senator Was Booed During ESPN Interview
+Mon, 21 Sep 2026 04:58:32 +0000 — https://www.hollywoodreporter.com/tv/tv-news/john-oliver-ted-cruz-espn-interview-you-suck-1236706751/
 
-The NFL Week 2 game is set for Sunday, Sept. 20 at SoFi Stadium.
+The poem was prompted by a recent interview the Texas senator gave amid chants of "Ted, you suck."
 
-### Toronto: Javier Calvo, Javier Ambrossi s La Bola Negra Wins Audience Award
-Sun, 20 Sep 2026 16:10:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/toronto-film-festival-winners-audience-award-1236706390/
+### Presley Gerber, Son of Cindy Crawford and Rande Gerber, Dies at 27
+Mon, 21 Sep 2026 03:25:28 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/presley-gerber-dead-cindy-crawford-rande-gerber-kaia-gerber-1236706714/
 
-The top People's Choice honor for the Cannes breakout was unveiled Sunday as TIFF wrapped its 51st edition.
+"The family is asking for privacy during this very difficult and painful time," a rep said.
 
-### Kate Beckinsale Shares Cryptic I Give Up Message on Instagram, Leaving Fans Concerned
-Sun, 20 Sep 2026 15:57:30 +0000 — https://www.hollywoodreporter.com/news/general-news/kate-beckinsale-i-give-up-message-instagram-fans-concerned-1236706414/
+### Deal or No Deal? The Contours of a Paramount Settlement for WBD Begin to Take Shape
+Mon, 21 Sep 2026 02:41:51 +0000 — https://www.hollywoodreporter.com/business/business-news/paramount-warner-settlement-terms-leak-talks-continue-1236706694/
 
-The posts came weeks after the actress opened up about her experience with post-traumatic stress disorder.
+Production or job commitments? A 30-film minimum guarantee? Selling off cable channels? A CNN oversight board? It is all on the table.
 
-### From OnlyFans to San Sebastian: How Gina Jaqueline Brought Unsettling Authenticity to Her Debut Acting Role in Cute
-Sun, 20 Sep 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/san-sebastian-film-festival-cute-interview-onlyfans-gina-1236706379/
+### Lanterns Star Nathan Fillion on His Corporate-Sponsored Superhero and How Man of Tomorrow Differs From Superman
+Mon, 21 Sep 2026 02:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lanterns-nathan-fillion-guy-gardner-1236705700/
 
-Marlene Emilie Lyngstad is open to the idea that her first feature film, following a man attracted to his seven-year-old stepdaughter, could prompt walk-outs: "I just want people to think about all the questions that he brings to the table."
+The trusted James Gunn collaborator also unpacks the lasting fallout from Hal Jordan and John Stewart’s fateful decisions during the Battle of Rushville a decade earlier.
 
-### Resident Evil Bites Off $60M at Box Office for Zach Cregger s Biggest Opening Yet
-Sun, 20 Sep 2026 15:14:59 +0000 — https://www.hollywoodreporter.com/movies/movie-news/resident-evil-box-office-zach-cregger-reboot-1236706041/
+### Ke Huy Quan on Receiving Generous $100K Residuals Check for Indiana Jones and the Temple of Doom
+Sun, 20 Sep 2026 21:44:45 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ke-huy-quan-100k-residuals-check-temple-of-doom-1236706633/
 
-Austin Abrams stars in Sony's reboot that sets a record debut for the franchise and marks the year's best-reviewed horror title.
+The Oscar winner admitted he "didn’t understand how more money could suddenly appear" after already being compensated for his work on Steven Spielberg's 1984 film.
 
-### New England Patriots Take on Pittsburgh Steelers In First NFL Game Since Owner Robert Kraft s Controversial Macklemore Comments
-Sun, 20 Sep 2026 15:03:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/patriots-steelers-livestream-nfl-game-online-free-sept-20-1236702582/
+### Colts vs. Chiefs: Where to Watch the Sunday Night Football Game Online
+Sun, 20 Sep 2026 21:13:02 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-colts-vs-chiefs-game-online-nfl-streams-2026-1236706587/
 
-All eyes will be on Kraft to see if he attends the Patriots 2026 season home opener.
+The NFL Week 2 matchup is set for Sept. 20 at Kansas City's Arrowhead Stadium.
 
-### Inside the Star-Studded Opening Night of the Lucas Museum: A New Institution Is Being Born
-Sun, 20 Sep 2026 14:41:59 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/inside-star-studded-opening-night-lucas-museum-1236706326/
+### Chad Gilbert, New Found Glory Guitarist, Dies at 45
+Sun, 20 Sep 2026 21:10:34 +0000 — https://www.hollywoodreporter.com/music/music-news/chad-gilbert-dead-new-found-glory-guitarist-1236706616/
 
-George Lucas and Mellody Hobson celebrated their new L.A. museum with the help of Harrison Ford, Leonardo DiCaprio, Oprah, Steven Spielberg, Christopher Nolan, Kim Kardashian and many more.
+"He was a legendary musician, but his favorite accomplishment was being a husband and father. His biggest dreams came true," his band and wife wrote in a joint statement.
 
 ## Deadline
+
+### Saudi Arabia s Red Sea Film Festival Cancels 2026 Edition
+Mon, 21 Sep 2026 10:00:21 +0000 — https://deadline.com/2026/09/saudi-arabia-red-sea-film-festival-cancels-2026-edition-1237109142/
+
+The Red Sea Film Foundation has cancelled the 2026 edition of the Red Sea International Film Festival, saying in a statement that the sixth edition had been postponed to the fourth quarter of 2027. The foundation said the decision followed a comprehensive review of a range of considerations relating to the timing of the next [ ]
+
+### BBC Drama Ministry Of Time Adds Adeel Akhtar, Ciaran Hinds Eight More To Cast
+Mon, 21 Sep 2026 10:00:00 +0000 — https://deadline.com/2026/09/ministry-of-time-akhtar-ciaran-hinds-more-cast-bbc-a24-1237109124/
+
+BAFTA winner Adeel Akhtar (Sherwood) and Academy Award nominee Ciarán Hinds (Belfast) have joined the cast of A24 s BBC drama series Ministry of Time. Also announced this morning are Hong Chau (The Whale), Tamara Lawrance (Get Millie Black), Emily Fairn (The Responder), Josh Finan (Say Nothing), Aisling Loftus (Sherwood), Tawfeek Barhom (Cairo Conspiracy) and Nahuel [ ]
+
+### BBC Removes Blackface Sketches From That Mitchell And Webb Look
+Mon, 21 Sep 2026 09:47:18 +0000 — https://deadline.com/2026/09/bbc-cut-blackface-that-mitchell-and-webb-look-1237109112/
+
+The BBC has cut Blackface and other sketches from That Mitchell and Webb Look after making the comedy series available on iPlayer. The British broadcaster recently reinstated That Mitchell and Webb Look online to mark its 20th anniversary, but eagle-eyed Reddit users pointed out that the broadcaster had removed sketches. As many as 11 sketches [ ]
+
+### Eagle Eye Drama Acquires The Great Dictator , Matthew Sweet s Biography Of Barbara Cartland
+Mon, 21 Sep 2026 09:29:54 +0000 — https://deadline.com/2026/09/barbara-cartland-biography-tv-adaptation-eagle-eye-drama-1237109132/
+
+EXCLUSIVE: Eagle Eye Drama has acquired the rights to The Great Dictator, Matthew Sweet s biography of the flamboyant and eccentric late Dame Barbara Cartland. Historian, novelist and screenwriter Sweet s book tells the story of author known as The Queen of Romance Cartland, who was one of the UK s most recognizable figures across the 20th century. [ ]
+
+### Presley Gerber Dies: Model, Son Of Cindy Crawford Rande Gerber Was 27
+Mon, 21 Sep 2026 03:44:41 +0000 — https://deadline.com/2026/09/presley-gerber-dead-cindy-crawford-son-1237109082/
+
+Presley Walker Gerber, a model and the only son of Cindy Crawford and Rande Gerber, has died. A representative for the family confirmed the news to Deadline. He was 27. A statement from the family read as follows: The family is asking for privacy during this very difficult and painful time. An L.A. County Medical [ ]
+
+### Paramount Settlement Talks Prospects Dim For Now As Gang Of Four AGs Resist Quick Ellison Deal
+Mon, 21 Sep 2026 02:43:07 +0000 — https://deadline.com/2026/09/paramount-settlement-latest-opposition-bonta-1237109024/
+
+EXCLUSIVE: As Hollywood celebrates Yom Kippur tonight, a framework for a settlement of the antitrust suit hampering Paramount s $111 billion acquisition of Warner Bros Discovery has hit some political potholes, even as some hoped for a quick deal. Four of the 12 Attorneys General that took the David Ellison-run company to federal court are breaking [ ]
+
+### Jake Logan Paul Address Troops At The Pentagon
+Mon, 21 Sep 2026 01:54:43 +0000 — https://deadline.com/2026/09/jake-paul-logan-address-troops-pentagon-1237109028/
+
+The day before National POW/MIA Recognition Day, Jake and Logan Paul addressed troops gathered at the Pentagon. From the podium, Logan Paul told those gathered that touring the building was a cool experience. He added, I don t think there is any greater commitment to sacrifice than those who are willing to live, die and fight [ ]
+
+### Ke Huy Quan Reveals Life Changing Gesture From Spielberg Lucas When He Was A Kid
+Mon, 21 Sep 2026 00:44:54 +0000 — https://deadline.com/2026/09/ke-huy-quan-spielberg-lucas-indiana-jones-payment-1237109016/
+
+Ke Huy Quan was 12 years old when he made Indiana Jones and the Temple of Doom. In his new memoir, Never Say Die, excerpted in Entertainment Weekly, the Oscar-winning actor reveals that producer George Lucas and director Steven Spielberg took care of him in way he didn t know about until after filming had concluded. [ ]
+
+### ‘History Of Concrete’ Rocks IFC Center As ‘Daniel And The Fiery Furnace’ Brings Biblical Heat To Top 10 Specialty Box Office
+Sun, 20 Sep 2026 21:00:00 +0000 — https://deadline.com/2026/09/indie-film-box-office-john-wilson-the-history-of-concrete-1237108942/
+
+John Wilson’s The History Of Concrete had a record-breaking IFC Center debut, grossing $90k in three days for the top doc opening and the second-highest weekend gross in the NYC theater s 21-year history after only Parasite ($119k in 2019). Nearly every available ticket sold for the entire weekend, including for shows added Saturday afternoon for [ ]
+
+### Chad Gilbert Dead: New Found Glory Guitarist Was 45
+Sun, 20 Sep 2026 20:39:28 +0000 — https://deadline.com/2026/09/chad-gilbert-dead-new-found-glory-1237108950/
+
+Chad Gilbert, the New Found Glory founding member and lead guitarist, has died. He was 45. On Sunday, Gilbert s wife Lisa Cimorelli announced that he passed away peacefully in his sleep, following his emergency brain surgery in March when three tumors were discovered and his metastatic pheochromocytoma was upgraded to stage 4 adrenocortical carcinoma. On [ ]
+
+### JoAnna Garcia Swisher Thanks Sweet Magnolias Team For Giving Her Somewhere To Belong
+Sun, 20 Sep 2026 20:09:49 +0000 — https://deadline.com/2026/09/joanna-garcia-swisher-thanks-sweet-magnolias-team-1237108944/
+
+As Sweet Magnolias comes to an end, JoAnna Garcia Swisher is grateful for all the friends and fans she made in Serenity, South Carolina. On Sunday, the actress reflected on the really beautiful chapter of my life as she penned a heartfelt statement after Netflix canceled the series following five seasons. How do you say [ ]
 
 ### Jessica Chastain Thriller ‘The Savant’ Getting 2027 Release On Apple TV After Year On Hold
 Sun, 20 Sep 2026 19:00:39 +0000 — https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/
 
 EXCLUSIVE: The release of The Savant is back on. A year after Apple TV put the thriller starring Jessica Chastain on hold three days before it was slated to premiere on Sept. 26, 2025, the streamer has rescheduled it for spring, 2027. The exact timing, which is still being finalized, will make the series eligible [ ]
 
-### Ben Affleck Nearly Cast Ex Jennifer Garner As His Wife In Animals : You Just Get Baggage
-Sun, 20 Sep 2026 17:52:46 +0000 — https://deadline.com/2026/09/ben-affleck-nearly-cast-jennifer-garner-wife-animals-1237108825/
-
-As Ben Affleck takes the lead in his next directorial outing, he s recounting the casting game of musical chairs that almost resulted in his onscreen reunion with ex-wife Jennifer Garner. The co-writer, director and star of Animals, premiering Oct. 9 on Netflix, explained how he came to take over the lead role of Mark Kimball [ ]
-
-### Aaron Sorkin Says Jeremy Strong Treated Social Reckoning Co-Stars The Way He Imagines Mark Zuckerberg Treats People
-Sun, 20 Sep 2026 17:21:03 +0000 — https://deadline.com/2026/09/jeremy-strong-treated-social-reckoning-cast-like-zuckerberg-1237108812/
-
-As Jeremy Strong delivers his portrayal of Mark Zuckerberg, Aaron Sorkin has shed some light on the method actor s process for this role. The Social Reckoning writer/director was not shocked that Strong didn t tell him about writing an email to Zuckerberg, confirming that the Oscar-nominated actor stayed in character as the Meta founder and CEO [ ]
-
-### Movistar Plus Announces 2027 Slate, Including JA Bayona Fernando León Projects, At San Sebastián
-Sun, 20 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/movistar-plus-2027-slate-ja-bayona-san-sebastian-1237108799/
-
-Movistar Plus debuted some of the projects that will feature as part of its 2027 content slate, including two projects executive-produced by JA Bayona and a new comedy series by Fernando León de Aranoa (The Good Boss), this morning at the San Sebastián Film Festival. The León series will be titled The Castaway. León has [ ]
-
-### Resident Evil Breaks Franchise Opening Records Even Some Cumes With $108.3M WW; Also Zach Cregger s Highest Global Box Office
-Sun, 20 Sep 2026 16:45:40 +0000 — https://deadline.com/2026/09/box-office-global-resident-evil-1237108765/
-
-TriStar Pictures/Constantin Film/Davis Films Resident Evil rang up a massive $108.3M worldwide, not only the best start the franchise has ever seen, but also Zach Cregger s biggest start as filmmaker surpassing the $70M WW reported opening of last year s Weapons. In addition, the opening alone for Resident Evil beats the global final of the original [ ]
-
-### La Bola Negra Wins Oscar-Predictive Toronto Film Festival People s Choice Award
-Sun, 20 Sep 2026 16:02:26 +0000 — https://deadline.com/2026/09/la-bola-negra-wins-oscar-predictive-toronto-film-festival-peoples-choice-award-1237108736/
-
-The People’s Choice Award from the just-wrapped 51st Toronto Film Festival has gone to Javier Calvo and Javier Ambrossi s La Bola Negra, with first runner-up going to I Play Rocky and second runner-up Being Heumann. Also in the awards revealed Sunday morning, the International People’s Choice Award went to Simon Stone s Elsinore. The Documentary People s [ ]
-
-### Sylvester Stallone Told Trump Hollywood Ambassadorship Was Impossible But Was Appointed Anyway: It Won t Work
-Sun, 20 Sep 2026 15:47:21 +0000 — https://deadline.com/2026/09/sylvester-stallone-trump-hollywood-ambassador-impossible-1237108738/
-
-Nearly two years after Trump appointed him as a special ambassador to Hollywood, Sylvester Stallone recently revealed he never agreed to the position. The 3x Oscar nominee recalled telling the twice-impeached POTUS that the ambassadorship was impossible and he would have rejected the gig if they had asked me in the beginning. Because Hollywood, I [ ]
-
-### Hollywood Came Out In Force For Opening Of George Lucas Museum Of Narrative Art Inside The Star-Studded Event
-Sun, 20 Sep 2026 15:01:37 +0000 — https://deadline.com/2026/09/lucas-museum-opening-hollywood-1237108680/
-
-The force is still with him. In Mellody Hobson s remarks at the Saturday night opening of the Lucas Museum of Narrative Arts, the event s co-host shared her husband George Lucas anxiety whether A-listers would show up. George kept saying, would this person come, do you think this person would come, Hobson recalled during the ceremony [ ]
-
-### Resident Evil Scores $60M U.S. Opening: Best Ever For Zach Cregger Franchise Box Office Update
-Sun, 20 Sep 2026 14:41:00 +0000 — https://deadline.com/2026/09/box-office-resident-evil-1237107316/
-
-SUNDAY AM: Sony/Constantin s Resident Evil racked up a greater score at the domestic box office with a $60M opening, which as we told you all along is not only a record for the franchise (that was clear when it came on tracking three weeks ago), but also for Zach Cregger. That opening alone nearly topples [ ]
-
-### Princess Di Returns To SNL UK As Deeply Intelligent, Autonomous, Neurokinetic Android In Cold Open Skewering King Charles, Ed Sheeran AI
-Sun, 20 Sep 2026 07:30:03 +0000 — https://deadline.com/2026/09/snl-uk-cold-open-princess-diana-king-charles-ed-sheeran-1237108671/
-
-Princess Diana made a royal return to SNL UK – only this time as a Deeply Intelligent, Autonomous, Neurokinetic Android. Jack Shep s celebrated impression of the late royal was back in episode two of the Sky show last night, in a cold open that skewered her former husband, King Charles III, Ed Sheeran and artificial [ ]
-
-### Alan Ritchson On The Reacher Season That Was Canceled After Someone Got Re-Elected
-Sun, 20 Sep 2026 04:03:58 +0000 — https://deadline.com/2026/09/alan-ritchson-reacher-season-canceled-trump-re-elected-1237108646/
-
-With a fifth season of Reacher underway, Alan Ritchson is still waiting to adapt his favorite book in the Lee Child series. The Jack Reacher actor recently revealed that was almost able to adapt the 1998 novel Die Trying for a season of the Prime Video series, as a fan on social media expressed their [ ]
-
-### Ed Sheeran Admits To Making Mistakes With Macklemore, Calls Out Systemic Injustice In Gaza: I m So, So Sorry
-Sun, 20 Sep 2026 01:12:16 +0000 — https://deadline.com/2026/09/ed-sheeran-mistakes-macklemore-systemic-injustice-gaza-1237108554/
-
-As Ed Sheeran returns to the stage amid the fallout from dropping Macklemore as his tour opener, he s addressing the controversy head-on. On Saturday, while beginning his Loop Tour stop at Philadelphia s Lincoln Financial Field, the 4x Grammy winner apologized for making mistakes in his handling of the situation after pressure from Gillette Stadium owner [ ]
-
 ## befores & afters
 
-### A great conversation about VFX in stop-mo with LAIKA s Steve Emerson and ILM veteran Jeff Mann
-Sat, 19 Sep 2026 00:33:13 +0000 — https://beforesandafters.com/2026/09/19/a-great-conversation-about-vfx-in-stop-mo-with-laikas-steve-emerson-and-ilm-veteran-jeff-mann/
+### Here s what befores afters is up to at VIEW Conference!
+Mon, 21 Sep 2026 06:53:05 +0000 — https://beforesandafters.com/2026/09/21/heres-what-befores-afters-is-up-to-at-view-conference/
 
-A great conversation that includes a hands-on-demo. The post A great conversation about VFX in stop-mo with LAIKA s Steve Emerson and ILM veteran Jeff Mann appeared first on befores & afters .
-
-### New The End of Oak Street featurette highlights ILM s Spinosaur
-Sat, 19 Sep 2026 00:14:04 +0000 — https://beforesandafters.com/2026/09/19/new-the-end-of-oak-street-featurette-highlights-ilms-spinosaur/
-
-ILM s Jay Cooper also showcases use of AR app. The post New The End of Oak Street featurette highlights ILM s Spinosaur appeared first on befores & afters .
+Hosting panels, sessions, workshops and with the mags and book available! I can t wait for VIEW Conference coming up very soon 12-16 October 2026! Here s four sessions I ll be involved with during the week in Turin, plus how you can grab magazines and the book. 1. On stage with director Brad Bird to discuss his upcoming Ray Gunn from Skydance Animation and Cinesite. 2. Behind the VFX of The Odyssey with VFX supe Andrew Jackson to break down his and DNEG s work on the film this is a pre-recorded session played during the conference, and I can tell you it is a SUPER-FUN conversation. I learnt so many new things. 3. Hosting Industry Executives Shaping the Future of Cinema a huge panel of key VFX and animation players from industry Janet Lewin , Senior VP, GM, Head, Industrial Light & Magic Laurens Ehrmann , Founder/Creative Director, The Yard Michelle Grady , President, Sony Pictures Imageworks Holly Edwards , President, Skydance Animation Shawn Walsh , COO VFX/GM Image Engine, Cinesite Group Ron Frankel , Founder/CEO, Proof Inc Henrik Fett , CEO, Opsis Studio 4. A masterclass from me on The Greatest Shots in Visual Effects History come along to find out what shots they will be! (And yes, there will be give-aways of my new book and magazines). Here s where to get your tickets for VIEW: https://www.viewconference.it/pages/registration/ The post Here s what befores afters is up to at VIEW Conference! appeared first on befores & afters .
 
 ## IndieWire
+
+### ‘Paradise Lost’ Review: Train to Busan Director Yeon Sang-ho Returns with a Limp and Lurid Grief Drama About Virtual Reality
+Mon, 21 Sep 2026 02:06:57 +0000 — https://www.indiewire.com/criticism/movies/paradise-lost-movie-review-yeon-sang-ho-1235217943/
+
+The Korean auteur throws too much at the wall without ensuring much of it sticks.
+
+### Lanterns Review: Episode 6 Embraces Bad Optics with a Clever Revival — Spoilers
+Mon, 21 Sep 2026 02:00:00 +0000 — https://www.indiewire.com/criticism/shows/lanterns-episode-6-review-bad-optics-hal-revival-spoilers-1235217814/
+
+Change is in the air as our story shifts to 2026 and a ring-less John Stewart returns to Rushville to investigate Hal Jordan's death — and find closure of his own.
 
 ### Zach Cregger s Resident Evil Grossed More in Its Opening Weekend Than the First Film Made in Its Entire Run
 Sun, 20 Sep 2026 18:43:55 +0000 — https://www.indiewire.com/news/box-office/resident-evil-box-office-hit-zach-cregger-opening-weekend-1235217930/
@@ -220,17 +225,42 @@ Sat, 19 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/criticism/movies/t
 
 TIFF: Hanaël El Yousfi's feature debut follows the ongoing relationship between a Jewish woman and her Muslim friend, illustrating how the conflicting desires for independence and family connection are universal.
 
-### Trying to Picture Doomsday? 1983 s WarGames Already Showed Us One Way AI Could End the World
-Sat, 19 Sep 2026 03:59:00 +0000 — https://www.indiewire.com/news/general-news/wargames-rewatch-1983-apocalypse-ai-thriller-1235216407/
-
-After a former Anthropic researcher warned that humanity's extinction could be as close as 2030, John Badham’s cyber thriller offers a frighteningly clear answer to the question: "OK, how ?"
-
-### Phil Lord and Chris Miller to Deliver Keynote Conversation at IndieWire s Future of Filmmaking Summit
-Fri, 18 Sep 2026 22:30:49 +0000 — https://www.indiewire.com/news/events/phil-lord-chris-miller-keynote-future-of-filmmaking-summit-1235217427/
-
-The "Project Hail Mary" directors and producers will explain how they made their most challenging blockbuster yet at the Los Angeles summit on October 17.
-
 ## The Wrap
+
+### Youth Creator Sharon Horgan Explains the Premiere s Emotional Rug-Pull Ending
+Mon, 21 Sep 2026 03:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/hbo-youth-episode-1-sharon-horgan-interview/
+
+Note: This story contains spoilers from Youth Episode 1 . Sometimes, a TV show wastes little time telling you exactly what it is. Such is the case with Youth, the new HBO comedy from creator-star Sharon Horgan , which made its debut Sunday night. Within the first six minutes of the series opening episode, Horgan s 50-year-old divorcee Alex has been sent to the doctor to learn she s developed arthritis in her jaw, which leads to her mishearing her physician s advice of no more kebabs, tough meats as no more blowjobs. A minute later, Alex is nervously telling her friend/boss Sam (Sharlene Whyte), I need to meet someone now . I think I ve got like 10 years left as a sexual person, tops. Combined, these two moments tell you everything you need to know about Youth and the midlife crisis that is turning its protagonist inside out. It came as little surprise then when Horgan revealed in an interview with TheWrap that those two scenes were among the first she wrote when she began thinking about Youth, a show she conceived around the idea of having a window to find someone before the Old You arrives. I was so scared of not meeting someone and sort of ending up a much older woman, kind of out there looking for geriatric love. That was just the opposite of where I thought I d be at, Horgan explained. When you get older, your body starts to fail. It really does, and yet you feel so the same. You absolutely feel the same as you did in your 30s in so many ways, but then your body starts to
+
+### Nathan Fillion Unpacks Guy Gardner s Lanterns Cameo: What Took You So Long?
+Mon, 21 Sep 2026 02:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/lanterns-episode-6-nathan-fillion-guy-gardner-interview/
+
+Note: This story contains spoilers from Lanterns Episode 6. “Sorry kid. Superman couldn’t make it, so you got an upgrade.” With these words, uttered in the third act of James Gunn s 2025 DCU-launching film Superman, Nathan Fillion cemented himself as a Guy Gardner for the ages. While fans knew that the character, created by John Broome and Gil Kane in 1968 s Green Lantern #59, would appear in Lanterns , they speculated for weeks over how he d pop up. After all, the first several episodes of Chris Mundy, Damon Lindelof and Tom King s HBO show were about how John Stewart (Aaron Pierre) trained from birth to replace Hal Jordan (Kyle Chandler) as Earth s one-and-only Green Lantern. But things became clearer in Episode 5, as John made the choice to leave the Lantern life behind and never take up the ring. As John points out in Episode 6 (now set 10 years after the rest of Lanterns and one year after Superman ), Guy owes his superhero career to another man s choice to walk away. “I think that’s an unpleasant thought, but not one that Guy can easily discount, Fillion told TheWrap. John needs a favor from Guy, and that’s his pull. That’s what he uses to say, ‘You owe me.’ I think Guy Gardner jumps on the opportunity to say, ‘Now we’re even. I don’t owe you anything. So whatever it was that I owed you, it’s now done.’” Despite being only the second member of the Green Lantern Corps to hail from Earth, Guy Gardner has always been a bit of an odd duck among the ringbearers. He certainly
+
+### Ben Affleck Almost Cast Ex-Wife Jennifer Garner in His Netflix Film Animals : We Don t Want to Do That
+Mon, 21 Sep 2026 00:35:34 +0000 — https://www.thewrap.com/creative-content/movies/ben-affleck-almost-cast-jennifer-garner-animals/
+
+Ben Affleck s new thriller Animals went through several different permutations over its development, including one that would have potentially seen him star alongside his ex-wife Jennifer Garner. Garner had been cast in the Affleck-directed project early on, but Affleck only came aboard as the lead actor late in the process. After that point, the pair decided against starring together in the film and Garner exited. I thought, God, Jen Garner would be amazing for this role, ” Affleck explained to Entertainment Weekly . “It also has the added benefit of, like, both of us will see our kids more because we do a week and a week and back and forth. I thought, well, we can coordinate our schedules around it She can bring something interesting that she hasn’t (done), that I kind of know she can do, that I don’t think she had a chance to do in one movie.” Affleck said the film had been originally slated to star Garner and Matt Damon, his friend and frequent collaborator, as a married couple subject to a kidnapping plot. However, Affleck put the project on ice after learning Spike Lee was developing his own kidnap thriller Highest 2 Lowest. After re-engaging with the script, he returned to direct. But Damon had to exit due to scheduling conflicts with The Odyssey, leaving Affleck to step in to star. After that, there was a brief consideration of if him and Garner would play a married couple on-screen. I talked to Jen, and she was like, ‘We don’t want to do that. You just get baggage,’”
+
+### Former FTC Chair Lina Khan Says Paramount Merger Seems Facially Illegal, Slams Troubling Settlement Talks
+Sun, 20 Sep 2026 22:23:21 +0000 — https://www.thewrap.com/industry-news/deals-ma/ftc-lina-khan-paramount-merger-illegal/
+
+Former Federal Trade Commission chair Lina Khan became the latest voice opposing settlement talks between California State Attorney General Rob Bonta and Paramount Skydance in 12 states lawsuit against the acquisition of Warner Bros. Discovery, warning against unenforceable behavioral remedies and saying the merger seems facially illegal. Khan, an outspoken advocate against business monopolies that sought to expand anti-trust regulation and enforcement as the FTC head under President Biden s administration, posted a social media statement Sunday encouraging Bonta and the states to continue their case against Paramount. The Paramount/Warner Brothers merger seems facially illegal, and the state AG lawsuit challenging it is very strong, Khan wrote. It’s troubling to hear that the states may now settle for behavioral remedies, allowing the deal to go through subject to various promises from the firms. Behavioral remedies routinely fail, and the stakes here are particularly high given that a strong democracy requires open markets for sound journalism and creative expression. Paramount and Bonta were reported Friday to be in advanced talks about a potential settlement to the latter’s lawsuit, which seeks to block the company’s pending $110 billion Warner Bros. Discovery merger. Khan s comments are among a resurgent wave of criticism against the settlement negotiations, which includes figures like Sen. Elizabeth Warren (D-Mass.) and Mark Ruffalo. The Block the Merger coalition, a ca
+
+### Aaron Sorkin Confesses David Fincher Was His First Choice to Direct The Social Reckoning
+Sun, 20 Sep 2026 21:54:23 +0000 — https://www.thewrap.com/creative-content/movies/aaron-sorkin-david-fincher-first-choice-social-reckoning/
+
+Aaron Sorkin both wrote and directed The Social Reckoning, but he initially hoped his second film about Facebook would reunite him with his Social Network director David Fincher. Sorkin shared that he even sent Fincher a script while working on the film for Sony Pictures, despite knowing an arrangement would be a long shot given Fincher s exclusivity deal with Netflix. I was my second choice to direct it, Sorkin said, speaking to IndieWire on the Filmmaker Toolkit Podcast. I wanted David to direct it, but (he) couldn’t. (He) was the first person to read the script for ‘Social Reckoning,’ and we met the next morning. He’s been a very enthusiastic support person, and he was talking about how it’s not going to be hard to do this movie. Along with Fincher s contract with Netflix, Sorkin also shared that he took on directing duties because he felt an urgent need to get The Social Reckoning produced and released ahead of the 2026 midterm elections. Even if he could have somehow gotten Netflix’s permission to go work at Sony, I didn’t want ‘The Social Reckoning’ to come out a year after the midterm elections, Sorkin said. I didn’t think we were going to be in the mood anymore. I wanted it to come out now.” Releasing Oct. 9, The Social Reckoning unfolds from 2019 to 2021, dramatizing the Facebook leak by whistleblower Frances Haugen and journalist Jeff Horwitz. Jeremy Strong plays Mark Zuckerberg, replacing Jesse Eisenberg after the actor was nominated for an Oscar for his performanc
+
+### Alan Ritchson Says Reacher Axed Plans to Adapt Novel About Fighting White Supremacists When Someone Got Re-Elected
+Sun, 20 Sep 2026 20:48:35 +0000 — https://www.thewrap.com/creative-content/tv-shows/alan-ritchson-suggests-reached-axed-plot-trump/
+
+Reacher star Alan Ritchson shared that the Prime Video action series backtracked on plans to adapt a Jack Reacher novel about the character s efforts to take down a white supremacist militia. According to the actor, a storyline had been approved until someone got re-elected. Ritchson shared the claim on Threads, directly responding to a fan s post that reads, Every season of Reacher so far has been great, and I understand that they may be avoiding the earlier novels due to their slightly less standalone nature, but every year I m sad to learn that next season won t be the book where he kills his way through a white supremacist militia camp. My favorite book. Fun fact: I had it approved until someone got re-elected, Ritchson wrote as a reply. The post has drawn more than 73,000 likes on the platform. The actor and fan were likely referring to Lee Child s second Jack Reacher novel Die Trying. Published in 1998, the story follows Reacher infiltrating, escaping and dismantling an extremist mountain militia that plans to secede from the United States to form a white-only state. A representative for Prime Video did not immediately respond to TheWrap s request for comment on Ritchson s claim. While Ritchson did not specify which elected official sparked the alleged backtrack from Amazon, the actor has been an outspoken critic of President Trump. In a July appearance on the Happy Sad Confused podcast, the star ripped into Trump, saying he should go to jail for is handling of unreleas
+
+### Jessica Chastain s The Savant Locks 2027 Release After Being Shelved Following Charlie Kirk Assassination
+Sun, 20 Sep 2026 19:37:13 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-savant-sets-2027-release-apple-delayed-charlie-kirk/
+
+Jessica Chastain s political thriller series The Savant is coming off the shelf at Apple TV, less than a year after its release was postponed indefinitely in the wake of the assassination of conservative activist Charlie Kirk. The Savant has been scheduled for a spring 2027 release window by Apple TV, TheWrap can confirm. The limited series had initially been set to premiere its first two episodes back on Sept. 26, 2025 and had even been viewed by critics beforehand but was delayed indefinitely on Sept. 23, three days before its debut. “After careful consideration, we have made the decision to postpone The Savant, ” an Apple TV spokesperson said at the time. “We appreciate your understanding and look forward to releasing the series at a future date.” While the streaming service did not elaborate on its reasoning behind the delay, it appeared to have been done out of sensitivity toward the assassination of Kirk on Sept. 10, 2025. According to those that were able to view The Savant ahead of its premiere, the series portrayed political violence, including a sniper attack, and followed an undercover investigator (Chastain) that infiltrates online hate groups to identify and intervene on extremists before they can execute plans for domestic terrorism. Shortly after the delay was confirmed, Chastain released a social media statement expressing disagreement with the decision to put the release on hold. I’ve never shied away from difficult subjects, and while I wish this show wasn’t
 
 ### They Poll Way Too Many Democrats : Trump s Economic Council Director Challenges Fox News Polling On Air
 Sun, 20 Sep 2026 18:44:43 +0000 — https://www.thewrap.com/media-platforms/tv/trump-economic-director-fox-news-polls-too-many-democrat/
@@ -242,95 +272,60 @@ Sun, 20 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/wha
 
 Right now, one of the year s biggest hits is streaming on Prime Video. The streaming service s vast movie library also includes a phenomenal directorial debut from 2026, as well as one of the most memorable and haunting indies of the decade. Here are the three best new movies streaming on Prime Video this week. Kara Young and Mallori Johnson in Is God Is (Credit: Orion Pictures) Is God Is In May, Aleshea Harris made her feature directorial debut with Is God Is , an adaptation of her award-winning 2018 stage play of the same name. The dark comic thriller follows two sisters (played by Kara Young and Mallori Johnson) on the road to revenge as they seek to kill their father (Sterling K. Brown) at the request of their mother (Vivica A. Fox) years after he attempted to burn them alive. It s a stylish and assured debut from Harris, who adapts her own story with flair. Project Hail Mary (Amazon MGM Studios) Project Hail Mary Project Hail Mary is still one of the year s biggest movies, an epic sci-fi blockbuster anchored by an incredible Ryan Gosling performance and a hopeful, moving story. Directors Phil Lord and Christopher Miller, along with screenwriter Drew Goddard, adapt Andy Weir s novel with scope and visual splendor from cinematographer Greig Fraser, while Daniel Pemberton delivers one of the year s best scores. Rocky, voiced wonderfully by puppeteer James Ortiz, instantly joins the cinematic little guys hall of fame. And if all that isn t enough, Project Hail Mary features 
 
-### Sylvester Stallone Rejected Trump s Hollywood Ambassador Role, Found Out He Was Appointed Anyway While Watching TV
+### Sylvester Stallone Rejected Trump s Hollywood Ambassador Role, Found Out While Watching TV
 Sun, 20 Sep 2026 17:27:07 +0000 — https://www.thewrap.com/creative-content/movies/sylvester-stallone-never-accepted-trump-hollywood-ambassador/
 
 Sylvester Stallone admitted that he never formally accepted President Trump s offer to name him a special ambassador to Hollywood, saying that he only learned about the appointment while watching the news break on television. It just happened. I was watching TV one night and they go, ‘So Stallone and Mel Gibson and Jon Voight will be …’ And I went, ‘What?’ Stallone said, speaking in an interview published Sunday in The Times of London (via The Independent ). I said, ‘Excuse me? Really?’ Because if they had asked me in the beginning, I would have said, this is not possible. In the days before Trump s second presidential inauguration in 2025, the electee named Voight, Gibson and Stallone as Special Ambassadors to a great but very troubled place, Hollywood. The trio of actors, all of whom are vocal Trump supporters, were put in charge of driving business back to the region after losing productions to foreign countries. The announcement, made by Trump on his social media platform Truth Social , did not elaborate further on the processes and responsibilities of the role. In his Times interview, Stallone said he never expected the special ambassador title to prove useful. He initially explained his misgivings to Trump before being abruptly named an ambassador anyway. I guess (Hollywood is) like feudal states. They have their little kingdoms. You don’t go in and tell six studios how to do things. And Mel Gibson and Jon Voight, we’re kind of do-our-own-thing people. No, it won’t work
 
-### Latest in Paramount-Bonta Negotiations: Hold Separate Maneuver May Be Key as Deal Nears Exclusive
-Sun, 20 Sep 2026 16:09:39 +0000 — https://www.thewrap.com/industry-news/business/latest-in-paramount-warner-bros-negotiations-hold-separate-deal/
-
-A plan that would hold Warner Bros. Discovery separate from Paramount Skydance through the end of potential litigation may be the key to ending a standoff between the Hollywood studio and California Attorney General Rob Bonta, allowing the stalled $110 billion merger to proceed, TheWrap has learned. The maneuver, called a hold separate, would provisionally allow the merger to proceed while litigation challenging the deal as a breach of antitrust laws could make its way through the courts. Doing so would allow Paramount to avoid the painful ticking fee that begins on Oct. 1 and move the merger forward. But if the AGs litigation were to prevail, the deal would have to unwind. Still, this move may be the key to getting to a compromise over what has been a stubborn standoff between Bonta and Paramount for weeks. Negotiations between the two sides kicked off on Friday and seemed to quickly lock in to a path toward resolution. Other measures being discussed include an independent oversight board that would ensure independence for CNN and CBS News and assure the production of 30 films per year, as Paramount CEO David Ellison has promised , as has been reported in numerous outlets. A Paramount spokesperson had no comment when reached by TheWrap. There is a precedent in media mergers for the hold separate move involving Warner, or at least its predecessor: AT&T voluntarily entered into a hold separate agreement with the Department of Justice over acquiring the Turner cable channels as
-
-### La Bola Negra Wins People s Choice Award at Toronto Film Festival
-Sun, 20 Sep 2026 16:03:13 +0000 — https://www.thewrap.com/industry-news/awards/la-bola-negra-wins-tiff-peoples-choice-award/
-
-La Bola Negra, Javier Calvo and Javier Ambrossi s decades-spanning Spanish drama, has won the People’s Choice Award at the 2026 Toronto International Film Festival, TIFF organizers announced at an awards ceremony on Sunday. Peter Farrelly s I Play Rocky was the runner-up, followed by Sian Heder s Being Heumann. La Bola Negra, inspired by an unfinished Federico Garcia Lorca play, premiered at the Cannes Film Festival in May, with Calvo and Ambrossi winning the Best Director Award. It was picked up by Netflix, which plans a major theatrical release and awards campaign. La Bola Negra is the first non-English-language film to win the People s Choice Award since Where Do We Go Now? in 2011. While most major film festivals convene juries to hand out their top awards, Toronto puts its signature prize in the hands of the public. Viewers at the festival’s public screenings are invited to vote for their favorite films on the TIFF website, with the film getting the highest percentage of votes from its viewers winning. The British drama Elsinore, which stars Andrew Scott as the late Scottish actor Ian Charleson, won the People s Choice Award for international films in a rare win for an English-language film in that category. Darlene Love: I Know Where I ve Been won for documentaries and Ladies and Gentlemen, Brian Mulroney won for the festival s Midnight Madness section. Theja Rio s Angh, a film set in Nagaland region in the northeast of India, won the jury prize in the festival s Platfo
-
-### Resident Evil Scores a Bloody Good $60 Million Box Office Opening
-Sun, 20 Sep 2026 14:44:24 +0000 — https://www.thewrap.com/creative-content/movies/resident-evil-60-million-box-office-opening/
-
-Sony Pictures strong third quarter at the box office will continue with the release of Resident Evil, which is set to earn a strong $60 million opening domestic/$108.3 million global opening to set new records for the horror video game franchise and the film s director, Zach Cregger. For Cregger, this tops the $43.5 million domestic opening of his 2025 hit Weapons, while Resident Evil stands with the highest opening for a film to bear the name of Capcom s survival horror game series even after inflation adjustment. The record previously belonged to Paul W.S. Anderson s Resident Evil: Afterlife with $26.6 million or $40.9 million after adjustment. Whether among gamers or general horror fans, Resident Evil should leg out well into October even with competition from Blumhouse s Other Mommy and DC s Clayface coming out closer to Halloween. Reception for Cregger s gory and darkly humorous take on Raccoon City s zombie outbreak has been very positive with a B+ on CinemaScore to go with a 95% critics and 91% audience Rotten Tomatoes score. Internationally, Resident Evil earned $48.3 million this weekend with the United Kingdom and Mexico standing as the top markets with $5.8 million and $5.6 million, respectively. In like-for-like markets, the film is opening 66% ahead of Weapons, which grossed $118.5 million overseas. Several markets are still to come for Resident Evil, including Japan on Oct. 9. Prior to the publication of reviews on Wednesday, Resident Evil had been tracking for 
-
-### Ed Sheeran Addresses Macklemore Fallout at First Concert Since Rapper’s Loop Tour Removal: I ve Had to Make Difficult Decisions
-Sun, 20 Sep 2026 03:17:35 +0000 — https://www.thewrap.com/creative-content/music/ed-sheeran-addresses-macklemore-fallout/
-
-Ed Sheeran returned to the stage Saturday night and addressed the fallout stemming from Macklemore’s removal from his Loop Tour after the rapper made pro-Palestinian comments during the Sept. 4 and 5 shows at MetLife Stadium in New Jersey. Sheeran took the stage alone at Lincoln Financial Field in Philadelphia on Saturday night after all of the tour’s supporting acts withdrew in solidarity with Macklemore. The rapper was removed from the U.S. leg after several stadium owners notified tour promoter Messina Touring Group that they would not allow concerts with Macklemore on the lineup, according to the promoter. Speaking to the crowd, Sheeran said he had never wanted to be an activist musician but felt compelled to address the controversy, including questions about his views on the Israel-Palestine conflict and concerns over venues pre-approving the content of artists’ performances. “Before I play some songs tonight, I hope it’s okay if I say a few words about this last week,” Sheeran said at the start the show . “I’m used to my music being criticized, and I’m always happy to take that because I’m lucky. A lot of you like my stuff, and to be honest, I’m surprised. I’m not surprised that I’ve even done it. You know, it’s normal. But this week, the criticism was about something much more important, and I’ve had to take and make difficult decisions, and I am making mistakes, and I’m so, so sorry.” You can watch the full speech in the video below. BREAKING: Ed Sheeran breaks silenc
-
-### Hannah Waddingham and Octavia Spencer s Ride or Die Canceled at Prime Video After One Season
-Sun, 20 Sep 2026 00:17:33 +0000 — https://www.thewrap.com/creative-content/tv-shows/ride-or-die-canceled-amazon-prime-video/
-
-The ride is over. The Hannah Waddingham and Octavia Spencer adventure comedy series Ride or Die is over at Prime Video and will not return to the Amazon streamer after one season, TheWrap can confirm. The news comes just over two months after Ride or Die premiered all eight episodes of its first season on the service. The series earned positive reviews. It also topped the service s public top 10 rankings after its debut and charted on Nielsen s weekly top 10. The series was initially being developed and produced at Skydance Television before being moved to Paramount Television follow Skydance Media s acquisition of Paramount Global. Amazon MGM Studios, Spring Tide, Double Dream and Orit Entertainment were also producers. Deadline s report, which was first on the cancellation , also suggested that Paramount Television would be shopping a second season for the series. A representative for Paramount did not immediately respond to a request for comment. Ride or Die was created by Tessa Coates and followed best friends Debbie and Judith (Spencer and Waddingham) traveling abroad, until Judith s secret job as a high-class assassin causes unexpected complications to their travels. The series also starred Ed Skrein, Calam Lynch, Savannah Steyn, Jamie Parker, Jacky Ido, Sylvia Hoeks and Bill Nighy. The news also comes three months after Amazon MGM Studios bumped Kara Smith to head of drama along with restructuring other leadership roles in its television department. The moves led to fi
-
-### Mark Ruffalo Urges California AG Rob Bonta to Reject Paramount Settlement: The People Don t Want It!
-Sat, 19 Sep 2026 22:56:40 +0000 — https://www.thewrap.com/industry-news/deals-ma/mark-ruffalo-slams-paramount-settlement-talks/
-
-Mark Ruffalo added his voice to the group urging California Attorney General Rob Bonta to reject a settlement deal in its regulatory lawsuit against Paramount Skydance s pending acquisition of Warner Bros. Discovery. Do not cave, Ruffalo wrote, tagging Bonta in a message posted to social media . 5670 film makers put their necks on the line for you to fight this merger. Another 75,000+ and counting have signed to tell you not to concede in just 3 weeks. You work for the people the very people who will be hurt if you let this lousy deal filled with empty promises go forward. Please sign to send a message to the AG’s and Paramount. Reject the deal. The people don’t want it! Ruffalo s posts directs his followers to the website for No Paramount Concessions, which features a petition calling on the 12 states suing Paramount-Skydance to hold the line and block the merger. The website states that it has garnered more than 77,000 signatures. In a later post, Ruffalo called on his friends in the Bay Area asking them to show up outside his AG office in Oakland tomorrow at 5 p.m. to reject this backroom deal. Ruffalo has been one of the entertainment industry s most visible critics of Paramount s pending acquisition of Warner Bros. In August, he voiced objections to the business relationship between Larry Ellison s tech giant Oracle, which is backstopping more than $40 billion of the Warner Bros. Discovery acquisition, and Israel s ongoing military activity in Gaza. The comments proved d
-
-### Elizabeth Warren Blasts Paramount Merger Settlement Talks: ‘Massive Mistake to Cave’
-Sat, 19 Sep 2026 21:07:05 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/elizabeth-warren-paramount-merger-settlement-massive-mistake/
-
-Sen. Elizabeth Warren (D-Mass.) issued a warning Saturday that it would be a massive mistake to cave on 12 states lawsuit against Paramount Skydance s pending acquisition of Warner Bros. Discovery. Warren s statement comes amid reports that California Attorney General Rob Bonta is in advanced talks on a potential settlement with the company, which would remove the only remaining regulatory hurdle impending the transaction. As Trump tries to ban CNN from the White House, it would be a massive mistake to cave on the Paramount merger, Warren wrote in a statement posted to social media. The last thing we need is another Trump-controlled media conglomerate abusing its power to stomp out competition. This is a dangerous merger. The senator s post cites Trump s recent ban of certain outlets from the White House press pool, which includes the WBD-owned CNN as well as MS NOW and Politico. Reporters for all three outlets were turned away from the White House on Saturday. Block the Merger, a campaign backed by the Future Film Coalition, also released a statement against the settlement talks Saturday: The rumored ‘deal’ to usher the Paramount-Warner Bros. merger forward is an insult to everyone who has stood up against this harmful transaction and to the hundreds of thousands of workers, journalists and consumers who will be hurt if it goes forward. Let’s be very clear: an agreement based on unenforceable concessions is a win only for David Ellison. It is an L for everyone else. Thousand
-
 ## Collider
 
-### 'True Detective's Best Duo Officially Reunites on Apple TV This Week
-Sun, 20 Sep 2026 19:00:11 GMT — https://collider.com/true-detective-reunion-brothers-apple-tv-release-date-september-2026/
+### Anne Hathaway Goes Full ‘Jurassic Park’ in a Sci-Fi Hit Officially Taking Over Streaming
+Mon, 21 Sep 2026 10:00:11 GMT — https://collider.com/anne-hathaway-end-of-oak-street-streaming-success-september-2026/
 
-When listing some of the most iconic detective shows of all time, HBO's True Detective rarely misses that list. The series debuted in 2014 and was an immediate hit. Critics praised it for its storyline, setting, performances, and music. True Detective 's success largely came from its casting, which introduced viewers to Hart ( Woody Harrelson ) and Kohle ( Matthew McConaughey ). The onscreen chemistry between Harrelson and McConaughey created the show's most iconic duo, something it never replicated in future seasons , at least to the same degree.
+The newly announced partner to Tom Cruise in Day of Thunder 2 , Anne Hathaway , is currently having the busiest year of her career. Soon, she will debut her final big-screen installment of a huge 2026, as she reunites with director Michael Showalter — who previously directed her in Prime Video’s The Idea of You — in Verity , the latest in a flurry of Colleen Hoover adaptations on the big screen. Verity will also star the likes of Dakota Johnson and Josh Hartnett , and promises to be the darkest Hoover adaptation yet.
 
-### 6 Fantasy Books I Knew Would Be Masterpieces From the First Chapter
-Sun, 20 Sep 2026 18:49:12 GMT — https://collider.com/fantasy-books-masterpieces-from-first-chapter/
+### The Biggest Sci-Fi Hit of 2026 Is Officially Back in the Streaming Spotlight
+Mon, 21 Sep 2026 09:30:11 GMT — https://collider.com/ryan-gosling-sci-fi-project-hail-mary-streaming-success-prime-video-september-2026/
 
-Knowing a book is considered a masterpiece before reading it can sometimes make that first chapter harder to appreciate . What’s more interesting is going back to the beginning and seeing how early on one can tell the story is something special. Fantasy novels usually ask for more patience than most books. They place the readers in complicated worlds, ask them to learn decades of history, and remember an influx of eccentric characters.
+We're just a couple of months away from the biggest date in the 2026 sci-fi calendar. On December 18, on the same date as Avengers: Doomsday , Dune: Part Three will cap off Denis Villeneuve 's acclaimed trilogy adapting Frank Herbert 's Dune novels. Four-time Oscar nominee Timothée Chalamet returns as Paul Atreides in the Brian K. Vaughan -penned movie, joined by a stacked cast including Zendaya as Chani, Javier Bardem as Stilgar, Rebecca Ferguson as Lady Jessica, Anya Taylor-Joy as Alia Atreides, Florence Pugh as Princess Irulan, Jason Momoa as Hayt, and many more.
 
-### 10 Amazing Period Drama Shows That Are Perfect From Start to Finish
-Sun, 20 Sep 2026 18:33:11 GMT — https://collider.com/period-drama-tv-shows-perfect-start-to-finish/
+### 15 Best International Fantasy Movies, Ranked
+Mon, 21 Sep 2026 09:11:11 GMT — https://collider.com/international-fantasy-movies-best-ranked/
 
-Ranging from war-torn battlefields to swoon-worthy romances , period dramas offer audiences some of the best storytelling TV has produced — rich in atmosphere, emotional depth, and historical detail , that has a habit of immersing its viewers into another time. But not all period dramas are fine quality pieces; in fact, some start with an explosive boom, and, unfortunately, eventually fizzle out mid-season.
+While there have been plenty of great fantasy films produced in the U.S. and other English-speaking countries, one would be doing a disservice to themselves by not branching out and exploring such films from other territories. The fantasy genre is one that, perhaps more than any other, knows no limits , so limiting oneself to only watching fantasy movies in English doesn’t feel in line with the genre as a whole.
 
-### Apple TV’s Sci-Fi Hit Is Officially Back on the Charts
-Sun, 20 Sep 2026 18:30:11 GMT — https://collider.com/widows-bay-streaming-hit-apple-tv-september-2026/
+### Pixar's Best Sequel Is Officially One of the Biggest Films on Streaming
+Mon, 21 Sep 2026 09:00:11 GMT — https://collider.com/tom-hanks-toy-story-2-streaming-success-disney-plus-september-2026/
 
-Of all the streamers boasting great content so far this year, it's easy to see why so many say Apple TV is the best . Currently, the heartwarming soccer series Ted Lasso is back as the most-watched show on the platform as Season 4 continues, having spent almost 1,000 days in the Apple TV top ten. Other highlights from this year include new seasons of the hit series Your Friends & Neighbors and the beloved comedy Shrinking , an exciting new adaptation of Cape Fear , and much more.
+After the disappointing commercial and critical performance of their last original idea, Elio , 2026 proved the perfect comeback for Pixar as they released Hoppers , a fresh family-friendly tale starring newcomer Piper Curda as an animal lover who uses technology to become a robotic beaver. Hoppers started the year off strong for Pixar, earning $388 million worldwide against a reported $150 million budget, and was called one of Pixar's "funniest movies yet" in Ross Bonaime 's review for Collider .
 
-### Outlander Blood of My Blood S2: The Castle Had to Grow With the Story | Collider Access
-Sun, 20 Sep 2026 18:15:11 GMT — https://collider.com/video/outlander-blood-of-my-blood-s2-the-castle-had-to-grow-with-the-story-collider-access/
+### Stephen King's 2-Film Horror Franchise Is Officially Everything 'IT' Should Have Been
+Mon, 21 Sep 2026 08:00:11 GMT — https://collider.com/doctor-sleep-the-shining-best-stephen-king-franchise/
 
-Outlander: Blood of My Blood hides an incredible amount of detail just beyond what viewers see on camera. Creator Matthew B. Roberts and executive producer Maril Davis break down the locations, production design, costumes, and collaboration required to make its 18th-century world feel real.
+Killer clowns. Childhood trauma. Alien spiders. Andy Muschietti ’s 2017 adaptation of Stephen King ’s seminal classic, IT , had everything going for it. Finally, the beloved story would have the modern adaptation that it deserved. After the campy Tim Curry Pennywise , the two-part film series delved into the true depths of horror as Bill Skarsgård took the stage as Pennywise.
 
-### ‘Pokémon GO's Biggest Feature Change Officially Has Players Furious
-Sun, 20 Sep 2026 18:00:11 GMT — https://collider.com/pokemon-go-team-rocket-balloons-reduced-once-per-day/
+### 'Silent Hill: Townfall' Is ‘Silent Hill’ Like You’ve Never Experienced It Before | Review
+Mon, 21 Sep 2026 07:01:12 GMT — https://collider.com/silent-hill-townfall-review-konami-screen-burn/
 
-Pokémon GO has always been designed to get players outside, but some of its most useful features allow Trainers to continue making progress when leaving home is not an option . Team GO Rocket balloons have been especially important for rural and disabled players because they bring battles directly to the map without requiring a nearby PokéStop. A major change has now made those encounters significantly less accessible.
+There is a significant difference between recreating the imagery of Silent Hill and understanding why the franchise has remained terrifying for decades. Fog, locked doors, and disturbing creatures may be essential pieces of its identity, but those elements mean little without the psychological horror and deeply personal tragedy lurking beneath them. Silent Hill: Townfall understands that distinction , carrying the franchise’s spirit into a new location and perspective without losing what made it special.
 
-### 'Six of Crows' Meets 'The Departed' in This Addictive Fantasy Saga That Demands a Streaming Adaptation
-Sun, 20 Sep 2026 17:58:11 GMT — https://collider.com/silvercloak-lk-steven-fantasy-saga-adaptation-six-of-crows-meets-the-departed/
+### Alexander Skarsgård's 'The Mummy' Replacement Is Officially a Streaming Hit
+Mon, 21 Sep 2026 04:08:11 GMT — https://collider.com/alexander-skarsgard-legend-of-tarzan-themummy-streaming-free-tubi-september-2026/
 
-Adaptations have become a staple of the fantasy TV genre, with some of the best shows having come from books . Even as some longtime favorites make it to the screen, new stories that deserve their own adaptation are released. L. K. Steven 's dark fantasy novel Silvercloak combines the undercover aspects of The Departed with the magical crime of Leigh Bardugo 's Six of Crows (which is still waiting for a proper adaptation after Shadow and Bone 's cancelation). While Silvercloak is a relatively new addition to the fantasy genre, its thrilling story makes it an ideal choice to join the list of books that would make a perfect TV series.
+While Alexander Skarsgård might not be the first name that comes to mind when you think of Hollywood action stars (though perhaps he is after The Northman ), if you're looking for something full of adventure and excitement, then look to Tubi for one of his most underrated blockbusters. It's been a decade since The Legend of Tarzan hit theaters, but the film is currently making waves on the free-to-stream platform — and it's about time it's recognized for its contribution to the character's 100+ year history.
 
-### Netflix’s New Sherlock Holmes Mystery Is Officially 5 Days Away
-Sun, 20 Sep 2026 17:30:12 GMT — https://collider.com/sherlock-holmes-replacement-the-final-problem-netflix-premiere-date-september-2026/
+### The 8 Most Fun HBO Shows, Ranked
+Mon, 21 Sep 2026 03:57:11 GMT — https://collider.com/most-fun-hbo-shows-ranked/
 
-Acting is such a peculiar career because it involves inhabiting a character usually different from the actor . Some performers have struggled to separate themselves from the characters they have played and the lines blur. And when someone does it for a while or on a big platform , letting go can be even harder. But it's not always bad news, because sometimes playing a certain character exposes an actor to a different world, and they learn something useful later on.
+HBO has never been particularly interested in making television that stays in one lane. After all, the network is responsible for prestige dramas, bleak thrillers, sprawling fantasies, and some of the most miserable families ever put on screen. However, it also knows how to make a show that's just an absolute hoot to watch. Sometimes that means rapid-fire comedy and outrageous situations, while other times it comes from spectacular action or a cast that's simply having the time of its life.
 
-### Charlie Hunnam Officially Reveals His Biggest Fear Filming ‘Monster: The Lizzie Borden Story’ (And It’s Not What You Think)
-Sun, 20 Sep 2026 17:06:11 GMT — https://collider.com/charlie-hunnam-monster-lizzie-borden-story-netflix/
+### This 4-Film Action Franchise on Hulu Is Like Game of Thrones But Sci-Fi
+Mon, 21 Sep 2026 03:47:11 GMT — https://collider.com/planet-of-the-apes-hulu-science-fiction-films-game-of-thrones/
 
-This interview contains spoilers for the first two episodes of Monster: The Lizzie Borden Story.
+Planet of the Apes is an iconic piece of media from the 20th century . The original film shows a distant future where humans aren't the ruling species, where humanity has regressed while apes have taken the reins. The franchise has seen a myriad of interpretations. From the original 1968 film to Tim Burton 's take on the story , Planet of the Apes has been told dozens of times. Audiences still find themselves drawn to this alternate future, in all its different iterations. But the four film series take what's iconic about the original story and run in a brand new direction . Familiar and astounding all at once, the trilogy and its most recent installment demonstrate how this franchise still captivates audiences in the 21st century.
 
-### Before ‘Avengers: Doomsday,’ Marvel’s $2B Sci-Fi Epic Is Officially Soaring Again
-Sun, 20 Sep 2026 17:00:11 GMT — https://collider.com/marvel-avengers-infinity-war-streaming-success-disney-plus-september-2026/
+### 15 Years Later, Steven Spielberg’s 52-Episode Sci-Fi Is Still Worth Revisiting
+Mon, 21 Sep 2026 03:32:11 GMT — https://collider.com/best-steven-spielberg-sci-fi-series-falling-skies/
 
-Marvel recently released one of the most successful movies in franchise history with Spider-Man: Brand New Day , but another film near the top of that same list is finding renewed success on streaming. Spider-Man: Brand New Day , which stars Tom Holland as Peter Parker and Jon Bernthal as Frank Castle, has grossed well over $2 billion at the global box office. Holland and Bernthal also had key roles in Christopher Nolan ’s new highest-grossing movie, The Odyssey , which has helped both of their career box office totals exceed $4 billion this year. Marvel Studios started the year strong with the new TV release of Wonder Man , but the show was canceled after only one season after initially being renewed. Marvel’s Blade movie starring Mahershala Ali was also canceled around the same time.
+Most alien invasion stories follow a similar formula : a massive force from beyond the stars arrives on Earth, intending to conquer or destroy it — writer's choice. Humanity is usually outnumbered at first due to the invaders' superior technology and firepower, but eventually manages to turn the tide by uncovering the aliens' weaknesses. The one filmmaker who seems to have a gift for aliens descending upon Earth is Steven Spielberg , whether it's his gritty take on H.G. Wells 's War of the Worlds or his sci-fi thriller Disclosure Day . But 15 years after it premiered, one of Spielberg's best alien invasion stories remains his 52-episode sci-fi epic, Falling Skies .
 

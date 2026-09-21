@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-20T19:02:55.241Z
+# Tech — harvested 2026-09-21T10:12:30.768Z
 
 ## Ars Technica
 
@@ -22,22 +22,22 @@ Sat, 19 Sep 2026 11:10:43 +0000 — https://arstechnica.com/science/2026/09/lear
 
 Learning another language is a highly complex mental activity . It requires people to remember words, distinguish unfamiliar sounds, recognize patterns, work out grammatical rules, and retrieve the right expression at the right moment. All of this happens while listening, interpreting, and preparing a response. Could all this mental activity also help keep an aging brain healthier ? Research suggests it can . Concerns about memory and dementia can send aging adults looking for ways to exercise their brain and maintain cognitive function, whether it is solving crossword puzzles or playing a musical instrument. Language learning might not seem like the same kind of brain exercise, but it is a complex activity that engages several mental processes at once. Read full article Comments ]]>
 
-### Rings around a tiny body have changed over the past decade
-Sat, 19 Sep 2026 10:00:06 +0000 — https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/
-
-For decades, astronomers thought rings were something only giant planets had. That changed in 2013, when a small, dark body orbiting between Saturn and Uranus passed in front of a star and blinked twice on either side of the main event, revealing two narrow rings around an object barely 250 kilometers across. “It was a surprise,” says Pablo Santos-Sanz, an astronomer at the Instituto de Astrofísica de Andalucía in Granada, Spain. Ever since, the question has been what such rings are made of and how long they can last. In a recent study, Santos-Sanz and his colleagues used the James Webb Space Telescope to watch the same body, now known as Chariklo, pass in front of a background star again. They found one of its rings had grown denser and the other had almost vanished. We don’t know exactly why. Shadowing a star The technique behind the observation is simple. “We predict when a Solar System object passes in front of a star,” Santos-Sanz said. The starlight dims for a moment, and the shape of that dip reveals the size, shape, and surroundings of the object that caused it. “This is particularly challenging for minor bodies, and more challenging for distant minor bodies,” he said. Read full article Comments ]]>
-
-### AI hallucination of Chinese nuclear components almost led to US military attack
-Fri, 18 Sep 2026 20:26:33 +0000 — https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/
-
-The US narrowly avoided boarding a Chinese ship based on an "entirely false" US intelligence report generated with the help of AI tools, according to a CNN report . That erroneous intelligence, submitted by a US Special Operations Command analyst, suggested the Chinese ship was transporting nuclear arms program components through the Middle East, according to "four sources familiar with the episode" cited by CNN. The US military was preparing to intercept and board the ship, with air support, before officials discovered a chatbot used in generating the report had "inaccurately identified the material the ship was carrying." One source told CNN the AI-powered fiasco "almost started a war." Read full article Comments ]]>
-
-### FAA tees up $875M AI tool to help manage air traffic congestion
-Fri, 18 Sep 2026 19:20:50 +0000 — https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/
-
-An AI tool is set to start advising air traffic controllers on managing air traffic in the congested airspace above the Washington, DC, area. The expected launch would be the first step toward a planned nationwide rollout covering the 29 million square miles of US national airspace overseen by the Federal Aviation Administration. The FAA describes the SMART system as using AI models to predict air traffic flows and identify potential conflicts based on operational factors like airline schedules, weather, airport capacity, and airspace conditions. US government and industry officials told The Wall Street Journal that SMART could debut for the three major airports in the Washington, DC, area as soon as Monday, September 21. The decision to launch SMART in a limited scope before going nationwide is the “right call,” said Philip Mann, principal consultant at Vector Strategic Consulting LLC, where he advises on aviation safety and AI governance. Mann previously worked at the FAA in multiple roles for 17 years. Read full article Comments ]]>
-
 ## The Verge
+
+### Amazon doesn’t trust Meta’s Muse AI agent
+2026-09-21T05:21:47-04:00 — https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping
+
+Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that "continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed." According to GeekWire , Meta didn't notify Amazon that Muse would access its store. Amazon also expressed privacy and security concerns over Muse failing to identify itself when it browses, and seemingly capturing customer credentials. "We think it's fairly straightforward that third-party applications that offer to make purchases on behalf of customers … Read the full story at The Verge. ]]>
+
+### No Dogs in Space is back to feed your need for obsessive music history
+2026-09-20T16:51:57-04:00 — https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast
+
+In August, I wrote about my love of the music history podcast No Dogs in Space , but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce the show's return with season four, Punk 2.0. The first episode premiered this week, part one of a series on the New York Dolls , a band near and dear to my heart as a native Staten Islander, home of frontman David Johansen. For the new season, Hidalgo and Parks decided it was time to get back to basics. Part of that was that they felt punk rock was where their passion and expertise were strongest. … Read the full story at The Verge. ]]>
+
+### No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown
+2026-09-20T14:50:18-04:00 — https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown
+
+The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning , he claimed there was a "0% chance" of AI being the end of the world . He also said of people sounding the alarm about the dangers of AI that, "Scaring people is unnecessary. It is irresponsible." He also claims that calls from CEOs like Anthropic's Dario Amodei and OpenAI's Sam Altman to slow down the development of AI are "not grounded in science." He even argued that there was no need for new rules, laws, or guidelines, in … Read the full story at The Verge. ]]>
 
 ### Kojima Productions disputes reports the studio is in trouble
 2026-09-20T14:15:10-04:00 — https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation
@@ -74,22 +74,27 @@ Before recent high-profile hacks raised the specter of AI possibly " killing all
 
 This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore . The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here . How it started Before Netflix fully committed to becoming a streaming service and leaving DVDs behind , the company experimented with the idea of giving its subscribers a physical box that could access high-resolution digital copies of movies. Films would have been downloaded to the box in the evening and become available to users the next day. But … Read the full story at The Verge. ]]>
 
-### Meta’s Muse is creepy, but maybe not for the reasons you think
-2026-09-19T16:44:40-04:00 — https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy
-
-Meta's Muse is apparently an effective AI assistant , but one that's a little creepy. Part of that is because of its new Mac app , which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine , posted on Threads screenshots of an interaction he had with Muse in which the assistant asks him some questions about a conversation he was having in Messages. The problem is that Aten says he didn't give Muse access to his messages. When asked how it knew about the contents of his messages, Muse replied, "I saw the notification previews, not … Read the full story at The Verge. ]]>
-
-### Trump treads further on free speech with new journalist bans
-2026-09-19T13:10:21-04:00 — https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban
-
-President Donald Trump speaks to reporters on the tarmac before boarding Air Force One. (Photo by Andrew Harnik/Getty Images) | Getty Images On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White House this morning, NPR reports , marking an escalation in the administration's war on the First Amendment. Politico tried to get to the bottom of it, asking why now ? It reports that "many senior [White House] staff were surprised by the directive" (what's new?), and that it was done "while chief of staff Susie Wiles was out of town." Apparently he's been talked down from this kind of sweeping mov … Read the full story at The Verge. ]]>
-
-### Gemini went rogue, hacked three companies, and Google hid it
-2026-09-19T11:25:03-04:00 — https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack
-
-In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ , Google didn't disclose the hack because it didn't consider it to be an "example of model misalignment." The company said that it was an instance of "mistaken identity," and once the model realized it had brute-forced its way into a real company by guessing a password, it stopped. "In th … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Acer CEO says memory makers are hyping 2030 shortage fears to protect margins — PC prices set to decline by late 2027, cheaper Chinese capacity coming online delivers lower memory prices
+Mon, 21 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/pc-components/dram/acer-ceo-says-memory-makers-are-hyping-2030-shortage-fears-to-protect-margins-pc-prices-set-to-decline-by-late-2027-cheaper-chinese-capacity-coming-online-delivers-lower-memory-prices
+
+Acer chairperson and CEO Jason Chen is expecting that prices for components will start reversing in the latter half of next year. According to DigiTimes , Chen told reporters that only high-end DDR5 parts like LPDDR5X-9600 and niche CPUs like Nvidia’s N1 and N1X chips are in short supply. Since supplier pricing lags consumer pricing by about a few months, he also added that PC prices will still rise between 5% and 20% towards the end of this year, plateau by the first half of 2027, before finally declining after years of AI-drive hikes. The AI boom has driven shortages for various PC components, beginning with GPUs in late 2022, before expanding to memory chips by late 2025. This made memory prices climb 500% in 12 months, although the increases have seemingly cooled as consumers refuse to absorb further hikes. Some memory companies like SK hynix are saying that the shortage will be worse next year and that it won’t be until 2030 before pricing will start to normalize. The Adata chief even said that the DRAM shortage would last another 10 years . This is plausibly true, especially as HBM demand from AI hyperscalers remains strong, and the various memory chip fabs under construction aren’t expected to come online until the 2030s. However, Chen disagreed with this take. He said that the major memory suppliers naturally want to keep their margins as high as possible for longer, “so they keep putting out the message: let me tell you, prices won’t come down until the year 20-whate
+
+### Nvidia's next-gen RTX 60 GPUs might not be released until 2028, prominent leaker claims — gaming takes a back seat as company focuses on delivering data center products
+Mon, 21 Sep 2026 09:52:19 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidias-next-gen-rtx-60-gpus-might-not-be-released-until-2028-prominent-leaker-claims-gaming-takes-a-back-seat-as-company-focuses-on-delivering-data-center-products
+
+Hardware leaker Kopite7Kimi, who has an exceptional track record, posted on X that Nvidia's RTX 60 series GPUs, based on the Rubin architecture, might not be released until at least 2028. The leaker previously believed that we might see a new generation of graphics cards in late 2027 , but now says: "Unfortunately, GR20x is a product from 2028. That means they have postponed again." We've reached out to Nvidia for comment. Kopite7Kimi has a historically near-spotless record when it comes to speaking about Nvidia hardware leaks, and it seems that this time, consumers may have to wait a little longer. Both the Ada Lovelace and Blackwell architectures in RTX 40 and RTX 50 series GPUs share the same TSMC 4N process node, so if the leaker's words are to be believed, it will take Nvidia a total of six years to move its consumer GPUs to the more advanced TSMC 3N or 3NP node that its Rubin accelerators currently utilize. I hope Jensen can see everyone's passion and launch new products for gaming as soon as possible. Unfortunately, GR20x is a product from 2028. That means they have postponed again. 🙃🙃🙃I will try to minimize updates until there is definite news. (Lessons learned) September 21, 2026 Now, the potential reasons behind the delay could be twofold: The first is the numerous reports we've heard about a potential RTX 50 Super series Blackwell refresh being sidelined, despite reportedly being ready. The claimed reason behind the delay or potential cancellation of the rumored
+
+### Techie makes his own motherboard to refurbish 15-year-old HP ProLiant N40L tower server — Raspberry Pi CM5 adds NVMe and USB 3.0
+Mon, 21 Sep 2026 09:35:00 +0000 — https://www.tomshardware.com/raspberry-pi/techie-makes-his-own-motherboard-to-refurbish-15-year-old-hp-proliant-n40l-tower-server-raspberry-pi-cm5-adds-nvme-and-usb-3-0
+
+Nobody likes throwing away old hardware with a lot of usable parts, and most everyone loves a nice DIY electronics project. Those two things dovetailed nicely into YouTuber EastMakes' project to repurpose his ancient HP ProLiant N40L micro-server. The machine's integrated motherboard-and-SoC was far too long in the tooth, so he did the logical thing: designed his own around a Raspberry Pi Compute Module 5 (CM5). EastMakes didn't want to trash the N40L, but it had zero NVMe slots, only USB 2.0 ports, and its once-laudable power consumption figures are rather unimpressive today. Needless to say, the computing power on offer was, at lack of a better word, minimal, as even back then the onboard AMD Turion II chip barely outran a pocket calculator. Even a contemporary Raspberry Pi can outperform the original hardware on all fronts, plus use a frugal amount of watts while doing so. The CM5 is exactly the same as a standard Raspberry Pi 5, except it doesn't have any ports and is meant to be used with external accessories that provide them. Oftentimes, budding enthusiasts will use it with its premade corresponding I/O PCB. EastMakes did start with that board, but taking advantage of the Raspberry Pi project's open-source nature, he took the original diagrams and documentation and rolled his own variation. (Image credit: EastMakes @ Youtube) The tech wizard extended the board to fit the area the original ProLiant N40L used, and printed a simple plastic 3D prototype to ensure he got th
+
+### Give your PC the deep clean it deserves — the Wolfbox MF60 Air Duster with up to 110,000 RPM drops to $33.99
+Sun, 20 Sep 2026 20:30:42 +0000 — https://www.tomshardware.com/pc-components/give-your-pc-the-deep-clean-it-deserves-the-wolfbox-mf60-air-duster-with-up-to-110-000-rpm-drops-to-usd33-99
+
+Dust buildup is one of the primary causes of performance throttling, and it is highly recommended to clean your PC as part of its regular maintenance. One of the easiest ways to keep your system dust-free is to invest in a powerful air duster. Right now, the Wolfbox MF60 is currently available at a 32% discount on Amazon, bringing the price down from $49.99 to just $33.99. Check out the deal on Amazon Cooling fans within your PC case or laptop end up pulling in a lot of dust, lint, and even small debris that can clog heatsinks, radiators, and various other components. This results in inefficient heat dissipation that can lead to hotter components and a drop in performance. While compressed air cans work well, a high-powered electric air duster is a much better option in the long run. MF60 Compressed Air Duster: was $49.99 now $33.99 From cleaning dusty PCs, laptops, and peripherals to clearing debris from desks and car vents, the Wolfbox MF60 offers a versatile alternative to compressed air cans. View Deal The Wolfbox MF60 is a wireless rechargeable air duster offering three fan speed levels and is claimed to deliver air speeds of up to 72.4 m/s with fan speeds of up to 110,000 RPM. Featuring dual 2,500mAh batteries, the company claims up to 240 minutes of runtime at its lowest fan speed of 25,000 RPM. The air duster can be fully recharged via USB Type-C in about 3.5 hours. It also includes multiple attachments, including a round all-purpose nozzle, a flat nozzle for blowing 
 
 ### Dell Pro 7 Webcam 4K Review: Sounds surprisingly great
 Sun, 20 Sep 2026 15:11:14 +0000 — https://www.tomshardware.com/peripherals/webcams/dell-pro-7-webcam-4k-review
@@ -131,27 +136,17 @@ Sun, 20 Sep 2026 12:35:00 +0000 — https://www.tomshardware.com/video-games/mas
 
 A massive 192 GB treasure trove of GTA V data has surfaced online, and multiple fans and enthusiasts have revealed data pertaining to the early development of GTA VI as well as unreleased DLCs and alternate endings in the 2013 game. The data leaked way back in 2022, which was also the same year Rockstar confirmed GTA VI . Furthermore, more recent leaks have a full working build of the upcoming game , unlike the rough draft that we see here. The most interesting thing found in the archive was an early build of the GTA VI map that has apparently been built and is playable on GTA V. X user TJGM shared screenshots of the rough drafts, showing early concepts of Leonidas, with various areas looking like they were built from satellite images and Google Maps Street View. It’s also been alleged that these were from 2014 to 2015 — if true, then this would show that Rockstar has been, to some extent, working on a sequel to its most popular title even before the original came out on PC in 2015. A VERY early build (2014/15) of the #GTAVI map leaked today and it's playable within GTA V. So I've put together all of the images I could find that have leaked so far. You can find them in this thread🧵PLEASE keep in mind, this is VERY early. The only part of the map that even… pic.twitter.com/3WXFQAWjCU September 18, 2026 There also appears to be a map outline for Liberty City designed, which is a nod to an unreleased DLC for GTA 5 that was supposedly set in the city. It’s only accessible via Co
 
-### Noctua fans prevent the CAIM1 ‘Anti-AI’ 4K camera from throttling — unusual camera’s processor gets toasty as it records while performing cryptographic calculations
-Sun, 20 Sep 2026 12:20:57 +0000 — https://www.tomshardware.com/pc-components/air-cooling/noctua-fans-prevent-the-caim1-anti-ai-4k-camera-from-throttling-unusual-cameras-processor-gets-toasty-as-it-records-while-performing-cryptographic-calculations
-
-A premium PC DIY fan brand has announced that one of its prized spinners is being used in a 4K camera. Noctua says that its NF-A4x10 5V PWM was used by the CAIM1 camera designers due to its quiet, compact nature and strong airflow and pressure performance. This camera runs two intensive processing tasks simultaneously within a compact shell, high-bitrate imaging and cryptography, hence the need for active cooling to prevent throttling. CAIM1 proves its footage is real at the moment of capture. 4K60 capture and cryptographic proof generation at once push its processors to the thermal limit – inside a mostly enclosed shell.So it needs a fan. It just can't be heard or felt... https://t.co/2SL3rVc8N5 @CaimeraX… pic.twitter.com/Ogbe4YBRqX September 18, 2026 The CAIM1 is something of a niche product. It has been designed to create photo and video captures that one can say with certainty haven’t been altered or generated using AI . Noctua says it is “cooling a camera built to prove reality.” CAIM1 is short for Counter Artificial Intelligence Machine 1. From the brief description provided by the source, this anti-AI functionality seems to work by piping the imagery directly from the lens/sensor through an “onboard hardware attestation with edge cryptographic proof generation” process. This is stored on the camera’s “immutable, decentralized storage, enabling the origin of the media to be verified independently,” says the Austrian air-cooling specialist. Of course Noctua’s involvement
-
-### North Korea used job interviews to deploy malware on 30,000 devices during coding tests — WaterPlum group loots $10.7 million in crypto and plants persistent RATs
-Sun, 20 Sep 2026 12:10:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/north-korea-used-job-interviews-to-deploy-malware-on-30-000-devices-during-coding-tests-waterplum-group-loots-usd10-7-million-in-crypto-and-plants-persistent-rats
-
-Security agencies in Japan, the U.S., Australia, and Germany warned that the North Korean “WaterPlum” cyber actor group has been installing malware on applicants to fake job postings and stealing their credentials and cryptocurrency holdings. The advisory [ PDF ] says more than 30,000 devices across 100 countries have already been infected and more than 7,000 cryptocurrency wallets have been compromised, leading to losses of $10.71 million. Go deeper with TH Premium: Chipmaking (Image credit: tsmc) Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks Leading-edge foundry roadmaps for TSMC, Intel, and Samsung ASML's roadmap for chipmaking lithography tools examined Chinese chipmaking tool roadmaps examined It’s believed the stolen cryptocurrency was funneled to the Democratic People’s Republic of Korea (DPRK) government, which also uses fake IT personnel working at legitimate companies to net $500 million annually . The operation also steals credentials and personal data, which it later uses to apply for openings at Western companies. Amazon has seen an example of this in late 2025, with over 1,800 suspected North Korean applications blocked by the company since April 2024. The attacks occur when fake recruiters ask legitimate applicants to complete coding assignments and other tests to evaluate their skills. However, these often have hidden malware that gives the attackers access to the victim’s computer. These persistent remote a
-
-### Kash Patel says that AI use at the FBI has 'increased by 605%' since he became director — claims that every major tech player is 'embedded' in the agency
-Sun, 20 Sep 2026 11:45:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/kash-patel-says-that-ai-use-at-the-fbi-has-increased-by-605-percent-since-he-became-director-claims-that-every-major-tech-player-is-embedded-in-the-agency
-
-FBI Director Kash Patel just stated in an interview that he's responsible for a "605% increase" in the bureau's usage of AI. The problem is that while the pattern-recognition abilities of AI models make them an ideal candidate for use in law enforcement agencies, and It's a reasonable expectation that entities like the FBI would leverage the technology, it's hard to pin down what the 605% figure refers to. The statement came up in an interview on Fox News, where Patel also said that AI, "when used lawfully, is a critical tool to triage data," remarking that the technology can be invaluable to assist in protecting children from school shootings. He credits AI as being instrumental in following up a lead to stop a shooting in North Carolina and "a half dozen other states" since his swearing-in. It's hard to tell what Patel's seven-fold increase in AI could be referring to, as there appears to be little hard data about how much, and in what ways, AI is integrated into the bureau. Yet, there are a few leads that may help corroborate his claim. The most recent details come from a February 2026 report about the DOJ's AI use case inventory in 2025, showing 50 of those attributed to the FBI, with nine marked as "high-impact." However, a more recent statement by the agency's Chief AI Officer Katie Noyes, in August, pinned approved use cases at 139, or close to three times the January amount. Last year, the U.S. General Services Administration approved Claude, Gemini, and ChatGPT as ap
-
-### Autonomous NATO strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms
-Sun, 20 Sep 2026 11:20:00 +0000 — https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms
-
-Drones built with small, non-frontier computer-vision models autonomously identified and attacked targets in a recent demo, Ars Technica reports. Scaleout Systems, a Swedish AI startup, used a low-cost loitering munition from BAE Systems Bofors to strike a target as part of the Affordable Loitering Modular Ammunition (ALMA) program. BAE’s Winter Demo 2026 had the drone detecting and geolocating targets before ranking an armored engineering vehicle highest, autonomously flying to it, and dropping an explosive. Scaleout’s demo video, “Technical Demo: Onboard Edge Intelligence for Autonomous UAV Missions,” shows the company’s drone spotting potential threats with AI, with all processing handled onboard. Beyond a button press to start the system, manual input is optional; the designated pilot remained a failsafe controller. The mission flew under human-set parameters to engage an armored engineering vehicle and required about 200 seconds of recon, with the full mission completed in under 320 seconds. The mission completed without needing communication, supporting Scaleout’s claim of resilience against electronic warfare. The report referred to the munition as a “ kamikaze drone ,” but the program’s own term, “loitering munition,” is more descriptive. Most of the mission is spent searching, ranking targets, and waiting to strike. The company combines Scaleout Edge and “federated learning” in a “Tactical Computer Vision Network (TCVN).” Devices train AI locally and share model upda
-
 ## Phoronix
+
+### Linux s Perf Script Command Much Faster With Overhaul As Python Module
+Mon, 21 Sep 2026 05:57:16 -0400 — https://www.phoronix.com/news/Linux-Perf-Python-Module
+
+A big patch series sent out this weekend for the Linux kernel's perf subsystem removes the embedded Python and Perl scripting in favor of standalone Python scripts with a new Python perf module. This perf module for Python written in C is much faster than the status quo...
+
+### Linux 7.3-rc4 Released: More Fixes Caught By LLMs, But Nothing Too Scary
+Sun, 20 Sep 2026 17:25:38 -0400 — https://www.phoronix.com/news/Linux-7.3-rc4
+
+Linus Torvalds announced the release today of Linux 7.3-rc4. As usual for recent months, the fixes continue to be quite heavy and scattered all over the place driven in large part by AI/LLMs spotting various code defects. Overall though Linus Torvalds isn't too worried about Linux 7.3-rc4...
 
 ### Important x86 Fixes Merged Ahead Of Linux 7.3-rc4
 Sun, 20 Sep 2026 14:19:12 -0400 — https://www.phoronix.com/news/Linux-7.3-rc4-x86-Fixes
@@ -203,17 +198,47 @@ Sat, 19 Sep 2026 06:38:08 -0400 — https://www.phoronix.com/news/GNOME-OS-Goes-
 
 In addition to this week's GNOME 51 release were several other exciting developments in the GNOME desktop space...
 
-### Intel Xe Driver For Linux 7.4 Adds vRAM Health Check, Degraded Memory Handling
-Sat, 19 Sep 2026 06:24:15 -0400 — https://www.phoronix.com/news/Intel-Xe-vRAM-Health-Check
-
-Sent out this week were more Intel Xe kernel graphics driver changes targeting the upcoming Linux 7.4 kernel cycle. The theme this week was around dealing with video memory health and also being able to better deal with hardware degraded video RAM...
-
-### KDE Plasma 6.8 Seeing More Polishing & Fixes, Plasma 6.9 Begins Seeing More Activity
-Sat, 19 Sep 2026 06:10:34 -0400 — https://www.phoronix.com/news/Plasma-6.8-Post-Beta-Fixes
-
-Following last week's Plasma 6.8 beta release, KDE desktop developers have spent this week mostly working on bug fixes as well as some early changes toward Plasma 6.9...
-
 ## The Register
+
+### It's raining, the transport isn't working, and now an Android app wants to walk out in solidarity
+Mon, 21 Sep 2026 11:45:00 +0200 — https://www.theregister.com/offbeat/2026/09/21/its-raining-the-transport-isnt-working-and-now-an-android-app-wants-to-walk-out-in-solidarity/5297494
+
+It rained in Amsterdam last week. There was a 24-hour public transport strike. And something called LOTA stopped working in the elevators of the Mövenpick hotel. Digital signage in elevators is all the rage nowadays. Where once there might have been peeling menus or faded posters extolling the virtues of long-closed bars, there are now displays trying to grab the attention of elevator passengers who want to get from one floor to another with minimal fuss. We're not sure if LOTA decided to walk out in sympathy with the public transport workers. In fact, we're not one hundred percent sure what LOTA is, although AG Neovo is notable for its digital signage and video wall displays. "Future-proof, Reliable and Durable" are cited as reasons for using its wares, although we'd argue that a pop-up bleating about an app having a bad day means that at least one of those reasons is perhaps not the whole truth. Still, using Android as the operating system seems a better choice than some of the examples of digital signage we've seen over the years. Compared to a Paris elevator running what would otherwise be a useful PC in order to sling ads at passengers, this Dutch hotel has opted for something considerably lighter weight. Sure, Android undoubtedly has its own issues with bloat, but compared to Windows, it is positively featherweight. The elevator didn't hang around long for us to find out what would happen if we jabbed the "Close app" link. At least, we think it was a link – the vagaries
+
+### Salesforce wants to charge for AI outcomes, but first it needs to figure out how
+Mon, 21 Sep 2026 11:07:00 +0200 — https://www.theregister.com/software/2026/09/21/salesforce-wants-to-charge-for-ai-outcomes-but-first-it-needs-to-figure-out-how/5297402
+
+Nothing demonstrates how deeply Fortune 500 companies depend on Salesforce quite like a global outage lasting more than seven hours. The interruption struck during the second day of last week's Dreamforce conference, where the $40 billion-a-year SaaS vendor was pitching AIforce and a growing collection of AI products. The question now is how the company will charge for them. AIforce illustrates why the per-user licensing model is becoming harder to sustain. Unveiled at Dreamforce, it uses Salesforce's Headless Toolkit to make the company's data, workflows, and business logic available through interfaces including Slack and Claude. When AI agents and APIs perform the work instead of named human users occupying seats, charging per user becomes a less natural fit. Earlier this month, Bill Patterson, executive veep and general manager of CRM applications, told an investor webinar that Salesforce was devising "a new pricing structure that really aligns to the benefits that customers realize from this new technology." Under one such arrangement, AI customer service agents would be priced according to the cases they resolve. Outcome-based pricing will not suit every use case, however. Patterson acknowledged that some agents operate across multiple disciplines, domains, and products, making it difficult to identify a single measurable result. Salesforce is therefore also developing bundles and using Flex Credits to charge customers according to consumption. The company has reason to 
+
+### Your cloud survived everything except the real world
+Mon, 21 Sep 2026 10:03:00 +0200 — https://www.theregister.com/columnists/2026/09/21/your-cloud-survived-everything-except-the-real-world/5297423
+
+You don't know what you've got till it's gone. Great lyric, lousy data retention policy. Amazon Web Services said last week that war damage to its Middle East infrastructure had permanently destroyed resources and data hosted exclusively in its now rather badly named Bahrain Availability Zones. The damage overwhelmed the resilience built into the region. Customers without copies elsewhere no longer had their data. Sorry about that. This may have surprised anyone who mistook cloud redundancy for an intrinsic guarantee of safety. AWS is far from the only American operation to have suffered in the region: the US Navy has reportedly had its local maintenance and supply network badly mauled, with serious consequences for its operations. If systems designed to withstand war cannot cope with sustained physical attacks, civilian bit barns have little chance. The episode also underlines a familiar but easily neglected lesson: resilience within one cloud region is not the same thing as maintaining an independent backup elsewhere. Physical destruction is not the only threat. A major outage of the UK air traffic control system in September, which stranded hundreds of thousands of passengers and led to thousands of flight cancellations, was reportedly triggered by a military aircraft filing an incompatible flight plan. Presumably Flight Lieutenant Bobby Tables has been reprimanded. The apparent failure to validate the flight plan data was not the worst of it. NATS, which runs the UK's air
+
+### VMware has quietly walked back its SmartNIC ambitions
+Mon, 21 Sep 2026 09:02:00 +0200 — https://www.theregister.com/virtualization/2026/09/21/vmware-has-quietly-walked-back-its-smartnic-ambitions/5297654
+
+VMware has quietly stopped selling firewalls for SmartNICs. SmartNICs, aka data processing units (DPUs), are network cards that include a modest processor. Hyperscale clouds routinely use the devices to handle security and networking chores, by running network functions as VMs on the SmartNIC’s processor. Cloud operators like SmartNICs because they free CPU cores to rent to their customers. Running some housekeeping workloads on SmartNICs can also improve isolation and security – AWS often points to the benefits of its “Nitro” system which relies on SmartNICs. VMware’s push into private cloud assumed that its customers wanted an on-prem version of a public cloud – at least in terms of their operating model. Back when it was an independent company, VMware guessed that its customers would also appreciate borrowing from hyperscalers’ approach to hardware and therefore adapted its hypervisor to run on the SmartNICs so they could host network functions. It also created a version of its NSX distributed firewall to run on the devices. At its VMware Explore conference earlier this month, Umesh Mahajan, vice president and general manager of Broadcom's application networking and security division, said the virtualization giant has “walked back from that space.” Mahajan said VMware was able to get its wares running on SmartNICs from AMD and Nvidia but struggled with Intel hardware. The effort was non-trivial, Mahajan said, because it involved microcode. Once VMware got its product worki
+
+### Boss bought cheap 'printer' from a catalog and was left without a leg to stand on
+Mon, 21 Sep 2026 08:30:00 +0200 — https://www.theregister.com/personal-tech/2026/09/21/boss-bought-cheap-printer-from-a-catalog-and-was-left-without-a-leg-to-stand-on-1/5297373
+
+Working in tech can produce a catalog of woes, and each Monday The Register shares yours in "Who, Me?" – our reader-contributed column chronicling tech-related mistakes, heartaches, and back-breaks. This week, meet an Italian reader we'll Regomize as "Marco," who took us back to what he called "The Roaring Nineties, when big computer companies sold pretty much everything, from graphics workstations to enterprise laser printers." They sold it all through hefty paper catalogs, because this was before broadband and Marco's company had only a 19k baud dial-up connection. Marco's boss, whom he described as a "sciagurato" – Italian for a wretch – kept one of those catalogs on his desk. "He perused it every day, like a kid waiting for Christmas," Marco told The Register. "One day he found an exceptional laser printer at almost one-seventh the cost. It was such a good a deal he ordered two of them." Marco said the boss told anyone who would listen that this feat of cost-cutting would surely propel him out of the tech team and into management. "The wiser among us were already counting the days until the disaster," Marco wrote. Disaster duly arrived with the delivery. "When the courier delivered the printer, it came in two huge packages, but not big enough for a laser printer," Marco observed. After wrestling with the packaging, the horrible truth emerged. "Our boss had bought two laser printer stands," Marco wrote, "because the catalog showed the stands with the printer on top." The c
+
+### Failed networking vendor Cambium set to turn off its cloudy management portal
+Mon, 21 Sep 2026 07:17:02 +0200 — https://www.theregister.com/networks/2026/09/21/failed-networking-vendor-cambium-set-to-turn-off-its-cloudy-management-portal/5297647
+
+Networking hardware vendor Cambium Networks has entered administration and advised customers that its cloud services likely won’t survive for long. The company has not been in the best of health for some time. In August 2025, management admitted that its financial reports for financial years 2022 and 2023, plus reports for six subsequent quarters, were unreliable as they included errors. The NASDAQ stock exchange later delisted the company, which unsuccessfully tried to rejoin the bourse. In May, a filing [PDF] revealed that the company’s officers had “substantial doubt about our ability to continue as a going concern.” Sadly, they appear to have been correct, as last week the company published another filing [PDF] revealing it had let go of 260 staff – 53.6 percent of its workforce – without any severance payments. A statement [PDF] soon followed, revealing the appointment of administrators in the UK, and an end to production of the company’s Wi-Fi access points, NSE firewalls, and cnMatrix switches. “At this point, it is anticipated that the fixed wireless broadband business will largely resume after a relatively short pause,” the statement reveals. While administrators try to stabilize the bits of the biz they think are worth saving, distributors are free to offload any existing products in their possession. Administrators will try to sell Cambium’s own stock of products. So far, so fire sale. But the statement includes another important line: “The intention is that cnMaes
+
+### Google joins the ‘Oops, our agents hacked someone’ club after partner’s internet access error
+Mon, 21 Sep 2026 05:50:54 +0200 — https://www.theregister.com/ai-and-ml/2026/09/21/google-joins-the-oops-our-agents-hacked-someone-club-after-partners-internet-access-error/5297640
+
+Google has admitted that its AI agents escaped a sandbox and mounted an attack – but only because testers mistakenly gave its bots internet access. The Big G didn’t disclose the May incident, but The Wall Street Journal learned of the situation, which happened after Google hired Israeli firm Irregular to test its bots’ prowess in a capture-the-flag test. The goal of the exercise was to acquire information from a fictional company without leaving a sandbox. Irregular, which set up the test, made two mistakes. One was to allow internet access from the sandbox. The other was to use the name of an actual company. When Google’s AI made it onto the open internet, it went looking for the actual company – three of them, in all. According to the Journal, Google’s bots found passwords for two targets on the public internet. The software guessed the third password. In a statement sent to The Register, Google said, “In a standard evaluation, the model found public information online and guessed credentials to access websites it thought were part of the test.” According to Google, its models stopped work before using the credentials. “We ensured the three entities were made aware, and we worked with our training partner on the changes they’ve now made to their testing processes,” a Google spokesperson told The Register. “These events highlight the importance of training powerful AI models to act responsibly.” Clearly there’s lots of blame to go around on this one. Irregular clearly erred 
+
+### Chinese memory-maker CXMT claims DRAM production breakthrough
+Mon, 21 Sep 2026 04:10:10 +0200 — https://www.theregister.com/systems/2026/09/21/chinese-memory-maker-cxmt-claims-dram-production-breakthrough/5297633
+
+ASIA IN BRIEF Chinese memory-maker CXMT, whose products Apple has reportedly evaluated to use in the iPhone, claims to have made a miniaturization breakthrough. The company on Sunday posted news that it has started mass production of chips made with a fifth-generation process that essentially doubles memory density, meaning it can cut twice the number of dies for memory chips from a single wafer. CXMT says its key breakthrough is a high-k dielectric metal gate process – a way of insulating silicon to improve efficiency – adapted to baking DRAM. The company claims its new process puts it on par with rival memory-makers. The proof of the pudding is apparently a pair of LPDDR5X memory modules for smartphones or other high-end consumer electronics. Both products boast 24GB of memory. If CXMT’s claims of improved density and mass production are correct – and the new products aren’t too pricey – it’s good news for Chinese electronics manufacturers who, like their global peers, are struggling to source affordable memory thanks to supply chain crunches caused by demand for AI-related products. That shortage recently saw Apple hike iPhone prices by $100 and led the GSM Association to warn that rising smartphone prices threaten to slow digital inclusion. Democratic governments, however, are mostly uncomfortable with allowing their smartphone manufacturers to use Chinese components. India starts charging fees for instant payments India’s National Payments Corporation (NCP) last week int
 
 ### How Windows turned months of inactivity into a 7-hour update hostage situation
 Sun, 20 Sep 2026 10:14:00 +0200 — https://www.theregister.com/os-platforms/2026/09/20/how-windows-turned-months-of-inactivity-into-a-7-hour-update-hostage-situation/5297478
@@ -230,37 +255,52 @@ Sat, 19 Sep 2026 15:30:00 +0200 — https://www.theregister.com/off-prem/2026/09
 
 AI infrastructure could generate enough electronic waste by 2050 to fill a line of shipping containers stretching around Earth six times, according to a report that argues existing estimates drastically understate the problem. Previous estimates have focused chiefly on servers and accelerators such as GPUs, which account for just 13 percent of a datacenter's equipment by weight, the report says. Once power, networking, cooling, and other infrastructure are included, the total could be 40 to 60 times higher than the most widely cited academic projections. The report identifies five equipment categories comprising networking, power distribution, backup power systems, servers plus accelerators, and cooling. Together, these add up to about 7,000 metric tons for a reference 100 MW AI bit barn, much of which will have to be replaced when the facility is upgraded, it argues. The report, How Big Is the AI Waste Wave? [PDF], comes from the Basel Action Network (BAN), a nonprofit organization named after the Basel Convention, which controls international movements of hazardous waste and seeks to prevent its transfer from developed to developing countries. BAN's model starts with what the industry says it intends to build and calculates the potential waste implied by that expansion. It estimates that AI infrastructure will generate between 395 million and 617 million tonnes of e-waste from 2025 to 2050. The report says that would fill between 15 million and 23 million shipping container
 
-### Firefox 156 arrives with a forest of forks in its wake
-Sat, 19 Sep 2026 09:28:00 +0200 — https://www.theregister.com/software/2026/09/19/firefox-156-arrives-with-a-forest-of-forks-in-its-wake/5297194
-
-Mozilla and MZLA have delivered the latest releases in their new fortnightly cycle, but users who dislike the faster pace have alternatives. Firefox 156 is trickling out to users. The release notes only mention two new features: for Mac users, there's now an option in Settings to automatically launch the app at login. This vulture has received criticism for saying this in some of the product's forums before, but since pretty much every OS has a built-in facility for this, we don't really see the point – though it's harmless and could be handy. Users who have chosen French, German or Italian will now find suggestions from Wikipedia in their own languages – along with potentially less welcome ads from Mozilla partners. If you don't want such suggestions, you can turn them off in Firefox Suggest settings. As with the previous release of both apps, the changes in Thunderbird sound slightly more useful – but again, they are small. Thunderbird 156 offers more troubleshooting info in the event of problems with OpenPGP, and more options for OAuth authorization for POP3 and IMAP accounts. There are also additional enterprise policies for controlling filters and user customizations. As we said last time, though, users who want to get off the rapid-upgrade train have several options. The most obvious comes directly from Mozilla: the Firefox ESR and Thunderbird ESR versions only get security fixes, with full new versions only coming annually. Currently, both are on version 153, which app
-
-### Anthropic decides to support OpenAI's markdown instructions spec
-Fri, 18 Sep 2026 23:33:16 +0200 — https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588
-
-Anthropic on Friday surprised the developer community by supporting rival OpenAI's mechanism for passing marching orders to AI agents. This makes life easier for folks who use both platforms. "We're adding support for AGENTS.md to Claude Code," said Claude Code engineer Thariq Shihipar in a social media post. "Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md." Claude Code users can toggle this behavior, he said, with the /config command. Until now, developers who use Claude Code alongside OpenAI Codex or other non-Anthropic tools have had to maintain two sets of Markdown instructions for their AI agents: CLAUDE.md and AGENTS.md, not to mention project-specific versions of these files. These documents get read by coding agents with every request. They outline expected behavior, preferred tool usage, coding conventions, and so on. They lay the foundation of the agent's context. The two formats are similar but not identical – CLAUDE.md may contain Claude-specific instructions while AGENTS.md is intended to be tool agnostic. Because these documents can change, those working with AI agents have implemented various workarounds, like creating symlinks to keep CLAUDE.md and AGENTS.md in sync. Last year, OpenAI contributed AGENTS.md to the Agentic AI Foundation, under the Linux Foundation, in a bid to build support for its standard. As of December 2025, more than 60,000 open source projects implemented AGENTS.md. The popu
-
-### Microsoft agentically ports Copilot runtime to Rust for $120K
-Fri, 18 Sep 2026 23:11:05 +0200 — https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549
-
-The software engine underpinning GitHub Copilot and a growing number of Microsoft products is now written entirely in Rust, with AI agents doing most of the porting work. The migration cost about $120,000 in AI token usage plus about three weeks of a developer's time. However, managers also had to grapple with a few dozen regressions in the resulting code, pointing to AI’s ongoing challenges in understanding Rust. The effort updated the runtime module-by-module until the job was completed, spanning over 135 releases across a 14.5-week time period. Roughly 1.3 port pull requests were opened per day. Overall, agents converted 430,000 lines of TypeScript into 800,000 lines of production Rust. To keep the port as simple as possible, the port only replaced TypeScript modules on a case-by-case basis. It didn’t look to optimize the structure of the runtime itself. That work is next. And Rust, known for its lean performance, did not disappoint. One benchmark measured how quickly the runtime could complete 1,000 one-turn session lifecycles, using a shared client and 100 concurrent pipelines. The original TypeScript implementation completed 7.55 of those lifecycles per second, while Rust running in-process managed 120 per second - representing a 15.9x speedup on that particular workload. In terms of memory, a 10-client batch of agents consumed 1,383 MB with TypeScript while the Rust rewrite consumed only 126 MB serving the same swarm. Within Rust, the work remained in-process instead o
-
-### Virginia governor wakes up to fact datacenters have become political cancer
-Fri, 18 Sep 2026 22:16:57 +0200 — https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561
-
-Virginia is not just for lovers, but is also for datacenters, hosting more than anywhere else in the world. However, the growth could be slowing as Governor Abigail Spanberger issued an executive order on Friday cracking down on bit barn builds in the state. “In the years before I took office, datacenters came to Virginia and the Commonwealth did not have a clear or coordinated plan to address their impacts on Virginians … That changes today,” Spanberger said in a statement. The executive order is part of a broader datacenter accountability framework that calls for greater transparency, a ban on nondisclosure agreements, limits on permitting, and more stringent environmental controls. Spanberger argues that existing policy lacked the precision necessary to hold bit barn builders accountable, and that the order is necessary to protect residents. In addition to greater transparency, the broader framework would require local approval for datacenters exceeding 25 megawatts and remove future large datacenters from the expedited permitting process, while the order calls on government officials to establish criteria to distinguish between responsible datacenter developments and those that would negatively impact residents or the environment. Speaking of the environment, the order would limit the use of water-intensive cooling towers in areas suffering from water scarcity, and encourage datacenter operators to either retrofit existing backup generators to reduce emissions or switch t
-
-### Compsci grads facing recession-like job prospects thanks to AI
-Fri, 18 Sep 2026 21:48:22 +0200 — https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537
-
-Thanks to AI, computer science majors are finding themselves in a tougher spot than they might have expected. Jobs are harder to come by, and more graduates are ending up in lower-paying sectors like retail and food service. That’s according to a new working paper by three US Census Bureau economists examining how college graduates from majors with the highest exposure to AI have fared since ChatGPT came onto the scene in late 2022 and helped kick off the generative AI boom. The results don’t look good for those in the most exposed fields, with career and earnings prospects for the top decile (i.e., the top ten percent of majors most exposed to AI) looking as bad as those of older Millennials who graduated during the Great Recession. “The most AI-exposed decile of college majors saw their likelihood of initial employment decline by five percentage points, while full-quarter initial earnings declined by 13 percent,” a trio of Census Bureau economists wrote in the paper. “This earnings decline is comparable in magnitude to the earnings losses associated with graduating into a large recession.” And why are those earnings declining? Well, part of the answer is where the AI-affected graduates are ending up: With job prospects worsening, more are turning to lower-wage sectors like restaurants and retail, with the researchers finding that shifts into lower-paying industries account for about half of the earnings decline. The one big difference between your usual recession and what’s
-
-### Claude Code revamps projects so you can work and pay in parallel
-Fri, 18 Sep 2026 21:15:39 +0200 — https://www.theregister.com/ai-and-ml/2026/09/18/claude-code-revamps-projects-so-you-can-work-and-pay-in-parallel/5297532
-
-Claude Code customers have a new reason to give Anthropic more of their money. The tool now allows you to launch multiple sessions related to a single project, burning through more resources and cash at once. Appropriately enough, the feature is called projects and can be accessed from the Claude.ai sidebar. It's not the old version of projects, capitalized in some reference material, which allowed for the creation of self-contained workspaces with separate chat histories and knowledge bases. The new implementation is technically in beta, though that term hardly means anything anymore amid the constant code iteration. Anthropic describes projects as a way to let Claude manage multiple related tasks. "Claude scopes the request, delegates the work, coordinates parallel threads, reviews the outputs, and assembles the finished result," the company explains in a blog post. "You can steer progress throughout, even from your phone, and it keeps working after you step away from your computer." It's the sort of capability that might be useful if you are prompting the model to begin a large coding project and you want to get several essential components like authorization, databases, caching, and containers up and running at the same time. Essentially, a project spins up each task as its own Claude Code cloud session thread that works on its own git branch and its own copy of the relevant repo. A coordinator directs the threads; if they touch the same code, overlaps surface as merge co
-
 ## Engadget
+
+### One mobile number, two phones: What is iPhone handoff and which carriers support it?
+Mon, 21 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2260552/iphone-handoff-uses-carriers-explained/
+
+If you find yourself swapping between two iPhones regularly, whether for work or casual use, you're going to want to set up Handoff.
+
+### Wired vs. wireless internet: Which should you choose for your home?
+Mon, 21 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2260477/wired-vs-wireless-internet-which-choose-for-home/
+
+Wired and wireless internet are both ways that ISPs deliver service to your home, but one isn't necessarily superior to the other.
+
+### Which major chatbot apps work with CarPlay?
+Sun, 20 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2260401/major-chatbot-apps-work-with-carplay/
+
+If you aren't happy with Siri while driving, several other chatbot apps are compatible with CarPlay now.
+
+### 7 ways to get free movies and TV channels on your smart TV
+Sun, 20 Sep 2026 23:15:00 +0000 — https://www.engadget.com/2262964/ways-to-get-free-movies-channels-on-smart-tv/
+
+With the influx of premium streaming services, it can be difficult to find apps that offer access to free movies and TV channels in the sea of options.
+
+### How to join a FaceTime call with your Android phone or Windows PC
+Sun, 20 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2260287/how-to-join-facetime-call-android-phone-windows-pc/
+
+FaceTime isn't actually an Apple-exclusive feature. While it's not the full experience, joining calls is possible on Android and Windows devices.
+
+### How to use Xbox mode on your Windows PC
+Sun, 20 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2260213/how-to-use-xbox-mode-windows-pc/
+
+Xbox mode is akin to Big Picture Mode, where you get a gaming-friendly interface that works well with a controller.
+
+### SpaceXAI's Grok Bot is in early beta - Here's how to try it
+Sun, 20 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2259931/spacexai-grok-bot-early-beta-how-to-try/
+
+SpaceXAI's Grok Bot is a digital 'teammate' that can handle complex and boring tasks that would otherwise clutter your day. Here's how to get up and running.
+
+### Is there any benefit to keeping your smart TV in standby mode?
+Sun, 20 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2259917/benefits-standby-mode-smart-tv/
+
+A Smart TV doesn't just sit idle when you push the power button on your remote. They're designed to perform a number of important tasks without you realising.
+
+### How to use ChatGPT to make stickers for iMessage and WhatsApp
+Sun, 20 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2255727/how-to-use-chatgpt-make-stickers-imessage-whatsapp/
+
+The default sticker options in iMessage and WhatsApp are cool but maybe a little limited. Now, with help from ChatGPT's AI tool, things have got a bit more fun.
 
 ### Retroid Pocket unexpectedly expands its Duo lineup with a Lite Plus version
 Sun, 20 Sep 2026 18:07:02 +0000 — https://www.engadget.com/2263442/retroid-pocket-unexpectedly-expands-its-duo-lineup-with-a-lite-plus-version/
@@ -277,52 +317,22 @@ Sun, 20 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2259632/how-to-cust
 
 The side button on Samsung's Galaxy phones has performed different functions over the years, but you can really make it do whatever you want.
 
-### Joby Aviation completed a fully autonomous flight from California to North Carolina
-Sun, 20 Sep 2026 16:32:47 +0000 — https://www.engadget.com/2263406/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina/
-
-The startup is looking to expand beyond electric air taxi rides in major cities.
-
-### What's the 30-degree rule for TVs?
-Sun, 20 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2256385/whats-the-30-degree-rule-for-tvs/
-
-The Society of Motion Picture and Television Engineers has a simple method for calculating the ideal viewing distance based on your TV size.
-
-### How to use your phone as a remote for any smart TV
-Sun, 20 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2259523/how-to-use-phone-smart-tv-remote/
-
-Some phones have IR blasters to enable remote functions, but even if yours doesn't, you can do quite a lot over Bluetooth and Wi-Fi.
-
-### How to set up your Sonos speakers using the app
-Sun, 20 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2259348/how-to-set-up-sonos-speakers-using-app/
-
-Whether you just got a Sonos speaker or you're adding one to your current setup, you'll need to use the app.
-
-### Before you throw out your old laptop, do this first
-Sun, 20 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2259329/how-to-wipe-old-laptop/
-
-Giving away or recycling your old laptop is great, but you need to make sure all your data is fully removed before it finds a new home.
-
-### These small changes can improve your home surround sound in a big way
-Sun, 20 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2259266/tips-to-improve-home-surround-sound-quality/
-
-If you've just set up your speakers wherever they fit, you're probably not getting the best sound from your surround system.
-
-### Is the original Nintendo Switch still worth buying in 2026?
-Sun, 20 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2259238/is-original-nintendo-switch-still-worth-buying/
-
-Buying Nintendo's older console used makes plenty of sense, but a one new is much harder to justify.
-
-### Winamp will be reborn in 2027 to take on streaming
-Sun, 20 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2259236/winamp-coming-back-2027-deezer-partnership-streaming-music/
-
-It's coming back with a monthly subscription.
-
-### How to improve your audio quality on Netflix
-Sun, 20 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2259233/how-to-improve-audio-quality-netflix/
-
-Try this simple menu tweak to restore crisp audio.
-
 ## TechCrunch
+
+### 6 days left to save up to $200 to TechCrunch Disrupt 2026
+Sun, 20 Sep 2026 21:41:08 +0000 — https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/
+
+Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.
+
+### World model companies are keeping a lot of secrets
+Sun, 20 Sep 2026 20:29:07 +0000 — https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/
+
+Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.
+
+### Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio
+Sun, 20 Sep 2026 19:38:48 +0000 — https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/
+
+Many of The Boring Company's announced project have not materialized.
 
 ### Is the AI industry really ready to slow down?
 Sun, 20 Sep 2026 18:56:04 +0000 — https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/
@@ -352,12 +362,7 @@ Welcome back to TechCrunch Mobility, your hub for the future of transportation a
 ### A small but growing number of founders are betting on bringing people together offline
 Sun, 20 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/
 
-Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon for $500 million in cash less than three years later. [ ]
-
-### 6 days left to get ahead at TechCrunch Disrupt 2026
-Sun, 20 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/
-
-Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.
+On the surface, a game console and a leathercraft school don't appear to have much in common. But both founders think there's money in fostering the kind of connection that technology has eroded over the last couple of decades.
 
 ### Flock reportedly tries to shrink workforce with employee buyouts
 Sat, 19 Sep 2026 20:39:13 +0000 — https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/
@@ -373,14 +378,4 @@ Trump claimed, without evidence, that the AI backlash is a Democratic hoax.
 Sat, 19 Sep 2026 17:30:00 +0000 — https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/
 
 Google said Gemini had "acted appropriately" by ending each hack immediately.
-
-### The US Navy just told us what s on its tech wish list for the next several years
-Sat, 19 Sep 2026 17:00:00 +0000 — https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/
-
-Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.
-
-### Petlibro’s new AI-powered feeder is a game changer for multi-cat homes
-Sat, 19 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/
-
-Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.
 

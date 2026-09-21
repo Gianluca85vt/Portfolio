@@ -1,6 +1,21 @@
-# Games — harvested 2026-09-20T19:02:55.241Z
+# Games — harvested 2026-09-21T10:12:30.768Z
 
 ## Eurogamer
+
+### Dead Cells studio's Castlevania: Belmont's Curse is getting a demo in time for the spooky season
+Mon, 21 Sep 2026 09:28:53 +0000 — https://www.eurogamer.net/castlevania-belmonts-curse-demo-october
+
+If you've been hungering for something gothic as we inch towards October, the scariest month of the year, then you're in luck. Castlevania: Belmont's Curse is getting a demo you'll be able to sink your fangs into soon. Read more
+
+### Marvel's Wolverine "fart gas" scent trails addressed by a surprise update
+Mon, 21 Sep 2026 08:26:49 +0000 — https://www.eurogamer.net/marvels-wolverine-patch-fart-gas-scent-trails-crashes
+
+Marvel's Wolverine has received a hotfix update that addresses one of the core features in the game many people have an issue with: scent trails. These are represented on screen by a gassy, bright blue line, and they're used by Wolverine to locate his next mission objective and to find collectibles in the world. Read more
+
+### Silent Hill: Townfall review
+Mon, 21 Sep 2026 07:00:00 +0000 — https://www.eurogamer.net/silent-hill-townfall-review
+
+As I watch the credits roll on Silent Hill Townfall, it's hard to believe this is the same series that had, until just a few years ago, been neglected into near-irrelevance. Like 2025's excellent Silent Hill f , Townfall is a fascinating thing; a game of bold creative swings that's part inversion, subversion, and evolution of the near-three-decade survival horror series, charting its own idiosyncratic path while still feeling entirely Silent Hill. Read more
 
 ### Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry
 Sun, 20 Sep 2026 15:30:41 +0000 — https://www.eurogamer.net/activision-video-game-cheat-market-8-5-billion-a-year
@@ -32,30 +47,43 @@ Sun, 20 Sep 2026 09:20:36 +0000 — https://www.eurogamer.net/insomniac-denies-g
 
 Wolverine developer Insomniac has denied using generative AI after fans jumped on social media to share screenshots of a bizarre restroom sign. Read more
 
-### HoYoverse's Nodusfall might look like Elden Ring, but there's a promising dark fantasy action game here that took me by surprise
-Sat, 19 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/nodusfall-gamescom-preview
-
-Nodusfall, aesthetically at least, is about as far from a typical HoYoverse game as you can get. Gone are the bright colours, cute creatures, and bountiful anime women. In their place, we get all the familiar trappings of dark fantasy: mysterious magics, vicious monsters, and a dingier kind of realism that - and I'm sure we've all thought it - feels a little bit Elden Ring . But from what I played at Gamescom, Nodusfall has the potential to shake off those FromSoftware comparisons and come into its own. Read more
-
-### What we've been playing - "the rest of the party is, frankly, absolutely feral, so I've been trying to balance that out"
-Sat, 19 Sep 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-the-rest-of-the-party-is-absolutely-feral
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, it's a Chris Tapsell (that's me!) triple-bill - a triple-Tap? - as the team's been either quite stretched or rightfully enjoying a few days off here and there to catch up from a hectic Gamescom period, leaving me to do a proper bodge job of filling in. Expect the usual mobile game addiction, late review apology, and a rule-bending wildcard (it's not that wild). Read more
-
-### Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game
-Fri, 18 Sep 2026 19:44:12 +0000 — https://www.eurogamer.net/sony-execs-game-sharing-meme-physical
-
-Former PlayStation executives Shuhei Yoshida and Adam Boyes have recreated their iconic "this is how you share your games on PS4" moment - now with a very timely game-less picture. Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Hideo Kojima "couldn't understand" why Physint "would be on the list of being cancelled" by Sony
+Mon, 21 Sep 2026 08:35:21 +0000 — https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony
+
+Hideo Kojima didn't think Physint " would be on the list of being cancelled " by Sony, as it is "the biggest-selling title [he] could possibly create." Read more
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Try One of 2026 s Most Anticipated 2D Games in Castlevania PS5 Demo
+Mon, 21 Sep 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/09/try-one-of-2026s-most-anticipated-2d-games-in-castlevania-ps5-demo
+
+Available from 1st October. The promising 2D Metroidvania game Castlevania: Belmont's Curse is being treated to a demo two weeks ahead of its PS5 release date. The demo will be available from 1st October 2026, and it lets you play the opening chapter of the game. If you like what you play, you'll be able to transfer your save data over to the full game, which'll be out for PS5 on 15th October 2026. Read the full article on pushsquare.com
+
+### Review: Silent Hill: Townfall (PS5) - Dated Bite-Sized Horror... in a Good Way
+Mon, 21 Sep 2026 07:00:00 GMT — https://www.pushsquare.com/reviews/ps5/silent-hill-townfall
+
+Ordell's ordeal. If you were to cut the Silent Hill 2 remake by about a third, make it first-person, and set it in Scotland, you'd be most of the way to Silent Hill: Townfall . The latest game in the survival horror series is more of a traditional experience compared to last year’s Silent Hill F , returning to the sort of environments, puzzles, and gameplay you’d expect from the mainline entries. Read the full article on pushsquare.com
+
+### Stellar Blade Still Not Finished, Four Free Bayonetta Costumes Coming to PS5
+Mon, 21 Sep 2026 06:00:00 GMT — https://www.pushsquare.com/news/2026/09/stellar-blade-still-not-finished-four-free-bayonetta-costumes-coming-to-ps5
+
+Original game will get "some changes" for sequel. Korean dev Shift Up showed off the Switch 2 version of Stellar Blade at the Tokyo Game Show last week, which I played and previewed for Nintendo Life . (There’s a demo out now if you want to try it yourself, but the TL;DR is that it’s a decent port but a downgrade compared to the PS5 version.) Read the full article on pushsquare.com
+
+### Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (21st - 27th September)
+Mon, 21 Sep 2026 05:30:00 GMT — https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september
+
+Silent Hill! Control Resonant! Dune! September continues to be ridiculous; this week sees the arrival of another 26 games on PS5 and PS4. As we often say in our staff chat, there are simply too many games. Among the chaos are a handful of bigger titles to look out for. They include the likes of Control Resonant , Silent Hill: Townfall , and Dune: Awakening . Read the full article on pushsquare.com
+
+### Sony s Acclaimed Resident Evil Movie Breaks Box Office Records
+Mon, 21 Sep 2026 05:00:00 GMT — https://www.pushsquare.com/news/2026/09/sonys-acclaimed-resident-evil-movie-breaks-box-office-records
+
+That's how you do it. It’s shaping up to be a particularly big quarter for Sony Pictures, following the record-breaking success of Spider-Man: Brand New Day . (Now the highest-grossing movie of all time in North America.) The firm’s new Resident Evil movie – directed by Zach Cregger – has blown past all expectations , collecting $60 million at the Box Office domestically. Read the full article on pushsquare.com
 
 ### I Love Sony : Kojima Unsure if Physint Will Ever Come to PS6, Hasn t Decided on Decima Engine
 Sun, 20 Sep 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/09/i-love-sony-kojima-unsure-if-physint-will-ever-come-to-ps6-hasnt-decided-on-decima-engine
@@ -81,21 +109,6 @@ May add toggle to remove it entirely. As it promised , Marvel’s Wolverine dev 
 Sat, 19 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/previews/ascendance-has-me-hyped-to-obsess-over-monster-hunter-wilds-again
 
 Mmm, so tasty! When Capcom announced Monster Hunter Wilds’ upcoming expansion, Ascendance , would be playable at Tokyo Game Show, it immediately became the top title on my list to get my claws into. Monster Hunter has been one of my favourite video game series since Monster Hunter 3 Ultimate launched back in 2013, and it’s been incredible seeing the franchise's popularity grow while Capcom continues to innovate with each new release. Read the full article on pushsquare.com
-
-### Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (21st - 27th September)
-Sat, 19 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-21st-27th-september
-
-Silent Hill! Control Resonant! Dune! September continues to be ridiculous; next week sees the arrival of another 26 games on PS5 and PS4. As we often say in our staff chat, there are simply too many games. Among the chaos are a handful of bigger titles to look out for. They include the likes of Control Resonant , Silent Hill: Townfall , and Dune: Awakening . Read the full article on pushsquare.com
-
-### Preview: Don t Sleep on Fate/Extra Record - This Story-Driven PS5 RPG Shows Real Promise
-Sat, 19 Sep 2026 00:00:00 GMT — https://www.pushsquare.com/previews/dont-sleep-on-fateextra-record-this-story-driven-ps5-rpg-shows-real-promise
-
-Yes, master. I've been keeping an eye on Fate/Extra Record for years at this point, so when the game was finally handed a confirmed release date a couple of weeks back, I was over the moon (pun very slightly intended). The good news didn't stop there, though. Not long after the big reveal, publisher Aniplex invited me to an extended preview of the long-awaited title, where I got to see over an hour's worth of uncut gameplay. Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 650
-Fri, 18 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-650
-
-Cool. Wow, it's a milestone issue of WAYP yet again. But we'll save the big celebration for 700 next year. This week, we're keeping things short and sweet. Aaron Bayne I've got a review game on the go which I can't talk about yet, but I'll also be quite keen to check out RuneScape Dragonwilds with some mates. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -137,6 +150,21 @@ no date — https://www.gamedeveloper.comfestival.gamesforchange.org
 
 ## VGC
 
+### 007 First Light was delayed on Switch 2 for a third time to let players experience it as fully as possible , IO says
+Mon, 21 Sep 2026 10:10:51 +0000 — https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/
+
+The game is now set for release on Switch 2 in March 2027… Source
+
+### I was just shocked and surprised : Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call
+Mon, 21 Sep 2026 09:25:04 +0000 — https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/
+
+I didn’t have any anger or sadness. I was just thinking 'what should I do?'" Source
+
+### Silent Hill Townfall review: Outstanding horror marred by infuriating stealth
+Mon, 21 Sep 2026 07:00:58 +0000 — https://www.videogameschronicle.com/review/silent-hill-townfall/
+
+Top tier atmosphere is let down by some truly frustrating moments… Source
+
 ### Terrifying phenomenon seen in New York City
 Sun, 20 Sep 2026 13:27:40 +0000 — https://www.videogameschronicle.com/news/terrifying-phenomenon-seen-in-new-york-city/
 
@@ -159,55 +187,72 @@ Bruce Straley says his words about Santa Monica Studio's game are "being used ou
 
 ## Polygon
 
-### This 40-Year-Old Video Game Is Somehow More Fun Than Ever
-Sun, 20 Sep 2026 19:00:16 GMT — https://www.polygon.com/mario-bros-nes-arcade-retrospective/
+### 23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History
+Mon, 21 Sep 2026 09:30:14 GMT — https://www.polygon.com/spike-best-quote-buffy-vampire-slayer/
 
-There’s something about Mario Bros. When people mention Mario today, they usually have his “super” adventures in mind, courtesy of 1985’s Super Mario Bros . But before he started knocking around turtles and other nasties in a fantasy kingdom, he was doing those same things in a backroom as he dealt with an invasion from the sewers. And somehow, that 40-year-old game is more fun than ever today.
+In a show full of clever one-liners, Buffy 's writers saved some of the best for Marsters — who can forget the timeless “Out. For. A. Walk. Bitch.”? — but Spike's best quote is from the series finale, “Chosen.” It marks the natural endpoint for a character who’s been tugged between heroism and selfishness throughout his entire run. It’s also the definitive Buffy and Spike moment, with Spike rejecting Buffy’s offer of comfort for the truth.
 
-### 37 Years Later, the Best 'Calvin and Hobbes' Dad Quote Is Still in a League of Its Own
-Sun, 20 Sep 2026 18:05:15 GMT — https://www.polygon.com/best-quote-calvin-hobbes-dad-comic-strip/
+### 'Sherlock Holmes Meets NCIS' Hit 2000s Detective Series Is Officially Free on Streaming
+Mon, 21 Sep 2026 08:30:14 GMT — https://www.polygon.com/elementary-free-roku-streaming-detective-series/
 
-### Ethan Hawke's Nail-Biting New Thriller Stole a Movie Magic Trick from Indiana Jones
-Sun, 20 Sep 2026 18:00:15 GMT — https://www.polygon.com/the-weight-movie-interview-ethan-hawke/
+The age of the great American cop show is over. Yes, franchises like NCIS and Law & Order are likely to continue until the heat death of the universe, but network TV used to be packed full of idiosyncratic crime-solvers, usually but not necessarily working hand-in-hand with local law enforcement. That came to a sharp stop in 2020, as a new cultural conversation about " copaganda " led to a dramatic sea change in what Americans as an audience wanted out of their escapist entertainment.
 
-The day before he filmed The Weight 's most intense scene, Ethan Hawke gave himself a minor injury.
+### Silent Hill: Townfall Is Genuinely Scary, Then Gets Really Dull | Review
+Mon, 21 Sep 2026 07:01:15 GMT — https://www.polygon.com/silent-hill-townfall-review-konami-horror/
 
-### 58 Years Later, Captain Kirk's Best Star Trek Quote Hits Harder Than Ever
-Sun, 20 Sep 2026 17:57:14 GMT — https://www.polygon.com/the-best-star-trek-quote/
+The most straightforward answer is that these are psychological horror games which are about something: unforgivable crimes, abusive childhoods, systemic misogyny. Compared to its peers, Silent Hill has always stood out for its heavy themes and persistent symbolism, with every monster carrying a double meaning.
 
-There are certain lines of dialogue that become so famous they almost stop belonging to the movies and TV shows that produced them. “May the Force be with you.” “I’ll be back.” “You're gonna need a bigger boat.” You don't need to know the context because the words have long since transcended their original context.
+### J.J. Abrams' Near-Perfect "Lost Meets X-Files" Sci-Fi Series Is Officially Free on Streaming
+Mon, 21 Sep 2026 04:00:20 GMT — https://www.polygon.com/j-j-abrams-cult-sci-fi-series-streaming-free/
 
-### Fire Emblem Is Officially Nintendo’s Strongest GOTY 2026 Contender
-Sun, 20 Sep 2026 17:00:15 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-goty-game-awards-2026/
+J.J. Abrams helped co-create Lost , the iconic prototype for engrossing puzzle-box television that thrives on shock reveals and irresistible mysteries. The show’s unforgettable 2004 pilot — also directed by Abrams — introduced fans to a disoriented Jack Shephard (Matthew Fox), who wakes up in a jungle, surveys the wreckage of Oceanic Flight 815, and aids those who survived.
 
-I don't think I had "Fire Emblem gets a Game of the Year nomination at The Game Awards" on my bingo card for 2026 — or for any other year, for that matter. But I think it's a possibility. In fact, I think it's almost definitely going to happen. Fire Emblem: Fortune's Weave is a contender.
+### 25 Years Later, the GameCube’s 5 Best Launch Games Are Still As Good as Ever
+Mon, 21 Sep 2026 03:30:14 GMT — https://www.polygon.com/gamecube-launch-games-ranked/
 
-### Ace Attorney Trilogy Passed An Impressive Milestone, But No New Game Is In Sight
-Sun, 20 Sep 2026 16:12:18 GMT — https://www.polygon.com/with-no-new-game-in-sight-ace-attorney-announces-an-impressive-sales-milestone/
+This week marked the 25th anniversary of the Nintendo GameCube , and boy do I feel old. I still have vivid memories of the GameCube’s North American launch (which came a few months after Japan, in November 2001), because it was the first video game console that was truly mine, rather than one I shared with my brother. For some reason, I also still have the console’s launch lineup burned into my brain. I can see every single piece of box art in my mind, right down to Disney’s Tarzan: Untamed .
 
-To celebrate the franchise's impending 25th anniversary on Oct. 12, Capcom announced that Phoenix Wright: Ace Attorney Trilogy reached a new sales milestone. Sadly, we still don't know if another Ace Attorney game will be released, or if a new one is even in development right now.
+### Who Killed Hal Jordan on Lanterns? Ranking the 5 Prime Suspects
+Mon, 21 Sep 2026 02:30:14 GMT — https://www.polygon.com/lanterns-episode-6-who-killed-hal-theories/
 
-### Zach Cregger Finally Made a Perfect Horror-Comedy With 'Resident Evil.' Here's How.
-Sun, 20 Sep 2026 16:00:15 GMT — https://www.polygon.com/resident-evil-zach-cregger-perfect-horror-comedy/
+From the beginning, Lanterns has used the town of Rushville to tell two connected mysteries set 10 years apart. Most of the series so far has followed Hal Jordan (Kyle Chandler) and John Stewart (Aaron Pierre) as they investigate an alien conspiracy in 2016. But the last scene of episode 1 jumps forward to 2026, when Sheriff Kerry Kane (Kelly Macdonald) brings John to Rushville’s football stadium to show him a body sitting in the bleachers.
 
-Comedy typically isn’t my forte; it was one of my primary issues with Weapons . Cregger’s previous film seemed to rely far too much on its comedic elements, often overriding the on-screen tension. The sketch-comedian-turned-auteur director clearly has a knack for finding humor in horrific situations, but that comedy always felt like it was competing with the horror rather than emerging naturally from it. Much of the film's ending is filled with gag humor and slapstick comedy, like James (Austin Abrams) getting knocked out multiple times or Gladys (Amy Madigan) being chased by the children. It all felt like it culminated in hijinks rather than something genuinely horrifying.
+### 'Lanterns' Episode 6 Explained: Who Is Carol Ferris and What Is Her Relationship to Hal Jordan?
+Mon, 21 Sep 2026 02:00:27 GMT — https://www.polygon.com/lanterns-carol-ferris-explainer/
 
-### Honkai Star Rail version 4.6 livestream codes
-Sun, 20 Sep 2026 15:59:03 GMT — https://www.polygon.com/honkai-star-rail-version-4-6-livestream-codes-redeem/
+The 2016 arc of HBO’s Lanterns reached its explosive conclusion in episode 5 , and Lanterns episode 6 picks back up in 2026. When Rushville sheriff Kerry Kane (Kelly Macdonald) calls John Stewart (Aaron Pierre) to let him know that Hal Jordan (Kyle Chandler) was found dead in the same football stadium where the chaos in Rushville began, John drops everything and heads straight to Nebraska.
 
-Honkai: Star Rail just closed out its version 4.6 livestream, teasing what’s to come in the next update, which launches the evening of Sept. 29. Alongside new characters and events, Hoyoverse uses the stream to distribute codes that reward free Stellar Jade and other upgrade materials.
+### The Beekeeper Meets Ghost Recon in Jim Caviezel's New Action-Thriller Movie
+Mon, 21 Sep 2026 01:51:14 GMT — https://www.polygon.com/ghost-soldier-jim-caviezel-action-movie/
 
-### Fortnite Is Officially Collaborating With Persona 5 Later This Week
-Sun, 20 Sep 2026 15:50:46 GMT — https://www.polygon.com/fortnite-persona-5-outfits-release-date/
+If anti-corporate ass-kicking cinema like Jason Statham 's The Beekeeper scratches your action movie itch, mark your calendars for Ghost Soldier , which blends Statham-style revenge action with Ghost Recon Future Soldier military tech. Ghost Soldier is clearly drawing from some successful, non-Tom-Clancy-branded action franchises, and somewhat surprisingly stars Jim Caviezel as its tough guy dispensing righteous fury.
 
-Fortnite has brought several characters from the gaming world into its Battle Royale as part of its current Gaming Legends-themed season. The collaboration with Persona 5 has been known for a while , but it finally has a release date. Joker and other Persona 5 characters are coming to Fortnite this Friday, Sept. 25.
+### 'Lanterns' Just Officially Settled a Major Question About the New DCU’s Canon
+Mon, 21 Sep 2026 01:15:14 GMT — https://www.polygon.com/lanterns-episode-6-starro-suicide-squad/
 
-### Resident Evil Shows R-Rated Video Game Movies Can Still Do Well At The Box Office
-Sun, 20 Sep 2026 15:07:11 GMT — https://www.polygon.com/resident-evil-opening-weekend-box-office/
+One of the earliest scenes in Zack Snyder's Batman v Superman: Dawn of Justice returns to the big climactic battle from Man of Steel . This time, we see it from Bruce Wayne ’s perspective on the street, where collapsing buildings and crashing Kryptonians look less like superhero spectacle and more like mass destruction. It raised an interesting question that James Gunn's DC Universe has yet to answer: What is it like to be a normal person in this superhero world?
 
-Zach Cregger's Resident Evil had a great opening weekend, grossing $60 million over its first three days in theaters. It's shaping up to be a box office success, proving that in this modern era of hit video game film adaptations, kids' movies aren't the only ones that will be successful.
+### Call of Duty Warzone Officially Shutting Down Next Month on PS4, Xbox One
+Mon, 21 Sep 2026 00:49:19 GMT — https://www.polygon.com/call-of-duty-warzone-shutting-down-ps4-xbox-one/
+
+Call of Duty: Warzone , the "massive free-to-play combat arena" game, is moving on from last-generation platforms. Alongside the announcement of Call of Duty: Modern Warfare 4 back in May, Activision announced that Warzone will no longer be playable on PlayStation 4 and Xbox One later this year.
 
 ## PC Gamer
+
+### Silent Hill: Townfall review
+Mon, 21 Sep 2026 07:00:07 +0000 — https://www.pcgamer.com/games/horror/silent-hill-townfall-review/
+
+Need to know What is it? A single-player psychological horror game which takes place on an isolated Scottish island. The protagonist Simon Ordell has to solve puzzles, fight monsters, and figure out what the hell is going on. Release date September 24, 2026 Expect to pay $50 / £45 Developer Screen Burn Publisher Konami Reviewed on RTX 3070, Core AMD Ryzen 5 5600G, 16GB RAM Multiplayer No Steam Deck Unknown Link Steam Walking up to the old town of St Amelia for the first time in Silent Hill: Townfall, I was greeted by that familiar thick fog and eerie quiet—an omen of the horrors to come. I know what kind of monsters are waiting for me beyond the fog and I am painfully aware of just how unprepared I am for it—with no flashlight, healing items, or weapon on hand. But weirdly enough none of that matters, because for the first time in a Silent Hill game I feel content. St Amelia is a fictional town, but as I'm sure many players based in the UK will soon discover, developer Screen Burn breathes so much life into this sleepy fishing village that I could've sworn I'd been here before. It's certainly a strange feeling to have in a game like this, but with Konami opening Silent Hill up to the world it's now the UK's turn to have our sense of home toyed with. Here to suffer (Image credit: Konami) The story follows Simon Ordell, a man unknown to us and himself. The only sense of person he has comes from a medical bracelet with his name, date of birth, and blood type written on it. I wat
+
+### Steam Week in Review: This indie publisher released 29 terrible-looking Steam games in a single day—will they make any money?
+Mon, 21 Sep 2026 04:24:25 +0000 — https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/
+
+It's been a busy week for prodigious game publisher Hard Shark Games: on September 15 it released an astonishing 29 games on Steam across a huge variety of genres. Not only did Hard Shark Games publish that many games, but the company is also marked as developer for every one of them. All of which, mind you, are early access affairs. "We're launching in Early Access to involve the community from the very start," reads the first sentence of every single one of the early access blurbs for Hard Shark Games released in September 2026, which include genres as diverse as racing, retail sim, survival horror, sport, flight sim and 2D platformer. The same is true for some of the 29 games Hard Shark Games released on March 4 last year: "We're launching in Early Access to involve the community from the very start," reads the first line in the blurb for Speedboat Simulator . “We're launching in Early Access to involve the community from the very start," reads the first line in the blurb for Toy Battlegrounds: Shoot 'Em Up Survival . You get the idea. (Image credit: Hard Shark Games) The "company" has also taken a similar approach to early access updates: the update notes for Starship Fighters , Sky Combat and Streets of Rageness (!) are identical: "Optimized several core systems, resulting in smoother gameplay and up to 10% better overall performance, especially during longer sessions," reads the first sentence of all three, each of which were published on March 5 within five minutes of 
+
+### First 5-day Tokyo Game Show in 30 years cuts back to 4 in face of Typhoon Dujuan
+Sun, 20 Sep 2026 19:13:08 +0000 — https://www.pcgamer.com/gaming-industry/first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-face-of-typhoon-dujuan/
+
+As reported by Kotaku , the organizers of the Tokyo Game Show have announced that its final day has been canceled and tickets for Monday, September 21 will be refunded. This was supposed to be the first five-day event in TGS' 30-year run⁠—while I am not a superstitious man, God or karma or something may be trying to tell us that it's just supposed to be a four-day deal. "Due to the approach of Typhoon No. 25, strong winds and rain are expected to intensify in the afternoon and beyond, and disruptions to transportation are also a concern," event organizers wrote on Twitter . "Therefore, prioritizing the safety of all attendees, exhibitors, and related parties, as well as ensuring safe return home, we have decided to cancel the event for the entire day." 【重要】台風25号接近に伴う9月20日(日)・21日(月・祝)の開催およびチケットの払い戻しについて最新の気象情報や交通機関への影響等を踏まえ慎重に検討した結果、以下の通り決定いたしましたのでお知らせいたします。■9月20日(日)：予定通り開催… September 19, 2026 The TGS showfloor will remain open for today, September 20, with potential modifications. There is no word on how the event will address publishers and devs who rented out space for the final day. As reported by the Japan Times , Dujuan is the 25th named typhoon of 2026, and is predicted to dump the heaviest rainfall (almost 16 inches) on the Kanto region containing Tokyo. Nippon Airways has canceled many flights in the region, while the East Japan Railway is fully and partially suspending service on some lines. We were on the ground at TGS 2026 as part of our annual PC Gaming Show: Toky
 
 ### Elden Ring Nightreign is dead, but modders are dabbing on its corpse, with one porting an entire Dark Souls 2 DLC zone as a playable map
 Sun, 20 Sep 2026 18:38:15 +0000 — https://www.pcgamer.com/games/action/elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its-corpse-with-one-porting-an-entire-dark-souls-2-dlc-zone-as-a-playable-map/
@@ -254,47 +299,19 @@ Sun, 20 Sep 2026 16:49:54 +0000 — https://www.pcgamer.com/games/action/robots-
 
 Good news co-op fans, Mycopunk just revealed its 1.0 launch date at the PC Gaming Show Tokyo Direct. It's coming October 20, so you only have to wait exactly one month for it. If you're unfamiliar with Pigeons at Play's FPS, let me get you caught up. You and your friends play as a squad of robots who get sent to alien planets to kill the fungal monstrosities that are infesting everything. Neat. Each world you arrive on has a mission for you to complete. These can range from simple objectives like clearing an area of enemies, or more complex ones like building railguns to shoot down space ships. You get multiple lives per mission, so you can go solo if your friends are busy, or at least not get annoyed when they croak. Wishlist Mycopunk on Steam Release date: October 20, 2026 Visit exotic alien planets and decimate the fungal lifeforms with your robot buddies. Mycopunk's 1.0 update is coming October 20. You can dive into the FPS early access game right now, on Steam . Wishlist now While you're going from place to place planetside, you'll want to make sure you're killing every enemy you come across. They get dismembered as you fight, and be sure to destroy those pieces, too. Like a lot of fungus, just one piece remaining can keep the thing alive. Other enemies can absorb the detritus and become even stranger monstrosities for you to face later. Between missions, you can hang out in a space station, customise your loadout and upgrade your gear, play minigames, and socialise with
 
-### Virtue and a Sledgehammer announces October 27 release date with another banger of a trailer
-Sun, 20 Sep 2026 16:49:13 +0000 — https://www.pcgamer.com/games/action/virtue-and-a-sledgehammer-announces-october-27-release-date-with-another-banger-of-a-trailer/
-
-"A machine will never hate itself enough to become better." That's the unbelievably metal quote we just saw in the latest Virtue and a Sledgehammer trailer, revealed on the PC Gaming Show Tokyo Direct alongside the game's launch date: October 27. We showed off some of the hammer-wielding action in our June show , so we already knew this was going to be a bizarre descent into the human psyche, as well as a game about smashing robots to bits. I love destructible environments, and I'm getting serious Red Faction: Guerrilla vibes from the carnage on offer here. What's more, these new words tell us a lot about developer Selkie Harbour's and Deconstructeam's views on self-improvement: it is fuelled by hatred, not love. Wishlist Virtue and a Sledgehammer on Steam Release date: October 27, 2026 Return to your hometown and destroy it brick by brick, all while smashing through androids that have digitised your once-neighbours. Wishlist it on Steam . Wishlist now In hindsight, that's pretty obvious when you consider the premise of Virtue and a Sledgehammer. You're returning to your hometown and tearing it down brick by brick, all while smashing through the androids that have digitised your once-neighbours. There's something therapeutic going on too, though. In the last trailer we aired, we see flashbacks of moments from our protagonist's life. Visiting a grave, hanging out with friends in the woods, strangling a woman in the woods. Add to that the therapy-esque questions that get more a
-
-### The new game from Lorn's Lure's developer is also set in the creepy world, and this one's a horror flight sim
-Sun, 20 Sep 2026 16:48:37 +0000 — https://www.pcgamer.com/games/horror/the-new-game-from-lorns-lures-developer-is-also-set-in-the-creepy-world-and-this-ones-a-horror-flight-sim/
-
-"Oh man, can't wait to fly this plane through the fog around these spooky towers. I sure hope I don't lose my mind like the guy who did this job before me." That's what I imagine the protagonist of The Hollowing thought right before he climbed into the cockpit and promptly started to lose it. We just saw the world premiere trailer for The Hollowing at the PC Gaming Show Tokyo Direct. It's a first-person horror flight sim made by Rubeki, developer of Lorn's Lure, and this is even set in the same world. Wishlist The Hollowing on Steam Release date: TBA The Hollowing is set in the same world as Lorn's Lure, only this time you're flying a plane through the dense mist. Be careful you don't lose your grip on reality like the last pilot did. Wishlist it on Steam . Wishlist now The Hollowing has the same signature PSX aesthetic, which I'm a big fan of for horror games. It's also great for speed, because this new project has been revealed barely two years after the dev's previous game came out. In The Hollowing, you've got to fly between towers in a huge megastructure, fixing them up as you go so that the settlements in the place can stay in touch with one another. It's just you, your plane, the fog, and a voice on the radio. Throughout the trailer, they give snippets of what happened to the previous pilot. Apparently they'd hear strange interference on the radio, and "spore toxicity" gave them visions. Maybe that fog is even more ominous than it seems. By the end of the teaser, it's 
-
-### Defend your farm from a gaze of raccoons in this charming tower defense roguelite, out tomorrow
-Sun, 20 Sep 2026 16:47:17 +0000 — https://www.pcgamer.com/games/roguelike/defend-your-farm-from-a-gaze-of-raccoons-in-this-charming-tower-defense-roguelite-out-tomorrow/
-
-Never say I'm biased or I don't have an open mind, because here I am, telling you about a videogame where raccoons—my favourite animal on this Earth—are the enemy. Heartbreaking, I know. In The Rabbit Haul, the crafty little scamps are pestering a bunny named Sprout, so they decide to turn their garden into a warzone that can keep the mischievous Trash Panda Posse at bay. Why does Sprout need to keep the raccoons away? Well, they kind of destroyed the town. I'm sure they didn't mean to and were just looking for snacks. Still, one has to defend one's home, so Sprout gets to planting deadly organic weaponry during the day and fighting off the hordes of ringtails at night. Sprout gets in on the action themselves, so you won't just be passively watching your plants do all the hard work. Wishlist The Rabbit Haul on Steam Release date: September 21, 2026 The Rabbit Haul blends tower defense with farming sim and roguelite mechanics and dresses the whole experience up with an adorable 2D art style. It's out tomorrow, and there's already a demo you can try out on Steam . Wishlist now The Rabbit Haul feels a bit like plants versus raccoons, only instead of pure tower defense, you actually have to tend to your garden to grow your organic weaponry. You prepare the flora in a grid, and can choose to either overwhelm your foes with unimaginable force or try to outsmart them with clever plant synergies. You'll have to improvise, adapt, and overcome, because the waves of raccoons get stronge
-
 ## GameSpot
 
-### Indie Dev Says AI Voice In His Game Was Actually His Wife
-Fri, 18 Sep 2026 23:41:54 +0000 — https://www.gamespot.com/articles/indie-dev-says-ai-voice-in-his-game-was-actually-his-wife/
-
-Someone playing Refractive Entertainment's recently released action-RPG Luminary for less than an hour accused the team of using AI for the game's only voiced character. The player said the voice "killed it" for them. There was just one problem: It wasn't AI. It was actually the developer's wife doing her first-ever voice acting gig. Refractive Entertainment launched Luminary into Steam Early Access on August 11. It's a resource-gathering action-adventure sandbox with an art style that's giving Fable meets Immortals Fenyx Rising. It's cute-looking and well-received, with a "Mostly Positive" rating out of almost 350 Steam reviews. But for an indie developer who says his game's success lives and dies by its Steam review score, one particular negative review caught the creative director's attention. On September 10, user NyteKnyte posted a short Steam review after only 0.4 hours with the game to say that Luminary looked good but "the awful AI-generated voice killed it" for them. "Feels off, like an AI game," NyteKnyte said in their review. "Hopefully its temporary and gets better, but [the AI voice] killed it for me." Not long after this review hit the game's Steam page, Refractive Entertainment responded, saying that the “awful AI-generated voice” that NyteKnyte decried was actually the creative director's wife. "While my wife might not be the greatest voice actress out there (that was her first time), I can assure you she is a real person and not AI haha," creative director Ke
-
-### New Pokemon Plane Looks Incredible, Even Includes Themed Cups And Napkins
-Fri, 18 Sep 2026 19:52:02 +0000 — https://www.gamespot.com/articles/new-pokemon-plane-looks-incredible-even-includes-themed-cups-and-napkins/
-
-Japanese airline All Nippon Airways (ANA) has unveiled a Pokemon-themed airliner to celebrate the franchise's 30th anniversary this year, and it looks incredible. The Green Pokemon Jet, as it's called, made its inaugural flight from Haneda to Honolulu today following a big unveiling event--you can see video and images below. The airplane goes well beyond simply getting a Pokemon wrap, though it does have that, too, featuring famous Pokemon like Bulbasaur, along with Pikachu. Because how can you have a Pokemon plane and not include Pikachu? Also on display is Browt, a newer Pokemon coming in Winds and Waves. https://twitter.com/poke_times/status/2100896394277990526 Inside the aircraft, there are headrest covers, paper cups, and napkins containing Pokemon branding. Beyond that, people flying on it can watch and listen to Pokemon-themed in-flight entertainment, including Pokemon: The First Movie and the best-of soundtrack from the show (1997-2023). https://twitter.com/FlyANA_official/status/2100827162341192183 In addition to Haneda, which is the busiest airport in Japan, the Pokemon plane will make stops at a variety of airports in Okinawa, Kyushu, and Shikoku. https://twitter.com/ANA_travel_info/status/2100832382970626300 Pokemon was created in Japan, and this is not the first time we've seen a Pokemon plane. All the way back in 2000, Japan Airlines announced that its fleet of jets would include Pokemon characters printed on the sides for domestic flights, along with Pokemon-th
-
-### I Guess I’ll Delete Every PS5 Game I Own To Make Room For FF7 Revelation
-Fri, 18 Sep 2026 19:10:12 +0000 — https://www.gamespot.com/articles/i-guess-ill-delete-every-ps5-game-i-own-to-make-room-for-ff7-revelation/
-
-There are quite a few months until Final Fantasy 7 Revelation launches on Nintendo Switch 2, PC, PlayStation 5, and Xbox Series X|S. But you're going to want to get your systems ready now because the download for the final showdown between Cloud and Sephiroth may be big. According to a September 18 VGC Interview with game director Naoki Hamaguchi, the file size for Revelation will "probably" be absolutely massive. So huge, in fact, that Hamaguchi acknowledged that there was no way the game would fit on one--or even two or three--discs. "In a word, yes. Things are still getting worked out, but it's probably going to be around 200GB of game," Hamaguchi said. "I understand there are a lot of opinions about this topic, but at the end of the day, the fact is we need to overcome the hardware to a certain extent." 2OOGB is pretty huge, especially when the base PS5 (which is what I still have, sue me) holds approximately 667GB of usable storage space. With many of the games I own clocking in just at or well over 100GB (like The Elder Scrolls Online, Ghost of Yotei, Infinity Nikki, and Mortal Shell 2), I'm already debating with myself what games I delete to make room for Cloud's big sword and Sephiroth's shampoo collection. Although Hamaguchi knows that the absolutely gargantuan size of Revelation's download prevents the game from shipping on a disc, he still reiterated the team's commitment to some sort of physical release . What that is remains to be seen, but it is important to Squ
+_Nothing in the last 48 hours._
 
 ## Rock Paper Shotgun
+
+### Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog
+Mon, 21 Sep 2026 08:26:38 +0000 — https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog
+
+Once a fictional town in Maine, Silent Hill has broken containment and become a transferable oral history mechanism, offered to videogame developers worldwide as a way of investigating, even celebrating local culture. I'm still in two minds about whether this licensing outreach project, begun with Silent Hill f , is more inspired than it is vampiric. I picture Konami's invitation being pushed under the door of potential collaborators like Mary's letter to James in Silent Hill 2: "in our restless dreams, we see that town... let's touch base there sometime, expand our concepts further ." There's opportunity and peril for any studio who answers the letter: opportunity, because Silent Hill is an uncommonly rich way of thinking about the past, with its parallel realities, monster metaphors, and woozy grounding in both mysticism and psychoanalysis. And peril, because licenses have a way of engulfing licensees, forcing them into a straitjacket of tropes: fog, sirens, antagonists with geometric heads. Thankfully, Silent Hill: Townfall 's creators Screen Burn (previously No Code) haven't gotten lost in the murk, though I don't think Townfall is their finest creation, not least because it's overreliant on stealth. Like the makers of Silent Hill f, they've taken what they need from Silent Hill to tell a story of their own. Read more
 
 ### The Sunday Papers
 Sun, 20 Sep 2026 09:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-828
 
 Sundays - well, very early Sunday mornings - are for watching a whole queue of hungry wild animals pass your kitchen window, because a neighbour has decided to leave a bollard-sized catfood dispenser outside the block entrance while they're away on holiday. I'm pretty sure the neighbour's cat wouldn't eat from the dispenser even if there wasn't a badger wedged eagerly inside it. She's an aloof and disdainful creature, who hates going near the front door because that's where those stinky humans come from. Will I try to feed the poor moggy, denied her dinner by a bunch of Farthing Wood rejects? No I will not, because I'm too busy reading articles about videogames, and things that are vaguely in the orbit of videogames. Here are a few of those articles. Look, please stop fretting about the cat. She's perfectly plump and glossy, whereas that badger looks like he hasn't had a square meal since August. Read more
-
-### What are we all playing this weekend?
-Sat, 19 Sep 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-400
-
-It's well and truly not summer now. I'm writing this with the lights on because the screen's backlight is suddenly too bright for these eyes grown weak and lazy by the abundance of natural illumination. Read more
 

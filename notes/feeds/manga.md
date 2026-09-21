@@ -1,6 +1,16 @@
-# Manga — harvested 2026-09-20T19:02:55.241Z
+# Manga — harvested 2026-09-21T10:12:30.768Z
 
 ## Anime News Network
+
+### Bride of the Barrier Master TV Anime Reveals 5 More Cast in New Teaser Video
+Sun, 20 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/bride-of-the-barrier-master-tv-anime-reveals-5-more-cast-in-new-teaser-video/.242013
+
+Kanon Takao, Hiroto Shimizu, Yuzuki Tamukai, Taihi Kimura, M.A.O join cast of series debuting in January
+
+### Magical Girl Raising Project Light Novels Get Stage Play
+Sun, 20 Sep 2026 21:46:36 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/magical-girl-raising-project-light-novels-get-stage-play/.242022
+
+Stage play runs January 8-13 in Tokyo
 
 ### RESIDENT EVIL (2026) Live-Action Film Review
 Sun, 20 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/review/resident-evil/live-action-film/.241991
@@ -52,21 +62,16 @@ Sun, 20 Sep 2026 07:53:50 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Ryōtarō Okiayu replaces Unshō Ishizuka, who died in 2018
 
-### The Reincarnated Elf Left on a Journey to Master His Magic Anime Unveils 1st 2 Minutes, January Debut
-Sun, 20 Sep 2026 05:02:16 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/the-reincarnated-elf-left-on-a-journey-to-master-his-magic-anime-unveils-1st-2-minutes-january-debut/.242016
-
-Daiki Yamashita, Hana Hishikawa star in upcoming series
-
-### So What's Wrong with Getting Reborn as a Goblin? Anime Reveals More Cast, Character Visuals
-Sun, 20 Sep 2026 04:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-20/so-what-wrong-with-getting-reborn-as-a-goblin-anime-reveals-more-cast-character-visuals/.241993
-
-Junko Takeuchi, Mariya Ise, Rin Mizuki, Momoko Seto, more join cast of October 5 series
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Bride of the Barrier Master New Trailer Unveils More Cast
+Mon, 21 Sep 2026 03:48:48 GMT — https://animecorner.me/bride-of-the-barrier-master-new-trailer-unveils-more-cast/
+
+The newest trailer for the previously announced Bride of the Barrier Master anime unveiled&hellip;
 
 ### Though I Am an Inept Villainess Cour 2 Reveals First Look, January 2027 Return With The First Royal Outing Arc
 Sun, 20 Sep 2026 15:35:00 GMT — https://animecorner.me/though-i-am-an-inept-villainess-cour-2-reveals-first-look-january-2027-return-with-the-first-royal-outing-arc/
@@ -123,24 +128,24 @@ Sat, 19 Sep 2026 12:23:06 GMT — https://animecorner.me/dengeki-daisy-reveals-m
 
 Dengeki Daisy anime revealed its first main trailer and key visual, four additional cast members, and a January 2027 release date.
 
-### You and I Are Polar Opposites Reveals Graduation Day Visual Ahead of Season 2 Finale
-Sat, 19 Sep 2026 12:11:03 GMT — https://animecorner.me/you-and-i-are-polar-opposites-reveals-graduation-day-visual-ahead-of-season-2-finale/
-
-You and I Are Polar Opposites anime has revealed a new Graduation Day visual as Season 2 approaches its final episodes.
-
 ## MyAnimeList News
+
+### Kekkaishi no Ichirinka Unveils Additional Cast, Second Teaser Promo
+Sun, 20 Sep 2026 20:21:01 -0700 — https://myanimelist.net/news/74741587?_location=rss
+
+The official website for the television anime adaptation of Kureha s Kekkaishi no Ichirinka (Bride of the Barrier Master) novel unveiled additional cast, a third teaser visual (pictured), and second teaser promotional video on Monday. The anime series will premiere on Netflix in January 2027. Cast Hazuki Ichise: Kanon Takao (Haibara-kun no Tsuyokute Seishun New Game) Nozomu Ichinomiya: Hiroto Shimizu (Dark Moon: Tsuki no Saidan) Azuha: Yuzuki Tamukai Aoi: Taihi Kimura (Kagurabachi) Miyabi:...
 
 ### Futsutsuka na Akujo dewa Gozaimasu ga Second Part Announced for Winter 2027
 Sun, 20 Sep 2026 08:44:02 -0700 — https://myanimelist.net/news/74739206?_location=rss
 
-The 11th and final episode of Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (Though I Am an Inept Villainess) ended with an announcement on Monday that a second part, titled Hajimete no Gaiyuu-hen, is in production. The official website also revealed three additional cast members and a key visual (pictured). The anime series will premiere in January 2027. Cast Keikou: Yuuichi Nakamura (Jujutsu Kaisen) Keishou: Shunichi Toki (Tokyo Revengers) Unran: Chiaki Kobayashi (Sousou no...
+The 11th and final episode of Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (Though I Am an Inept Villainess) ended with an announcement on Monday that its second part, titled Hajimete no Gaiyuu-hen, will premiere in January 2027. The official website also revealed three additional cast members and a key visual (pictured). Cast Keikou: Yuuichi Nakamura (Jujutsu Kaisen) Keishou: Shunichi Toki (Tokyo Revengers) Unran: Chiaki Kobayashi (Sousou no Frieren) Produced by Doga Kobo, t...
 
 ### Tensei Goblin dakedo Shitsumon Aru? Announces Supporting Cast
 Sun, 20 Sep 2026 01:43:55 -0700 — https://myanimelist.net/news/74738383?_location=rss
 
 The official website for the television anime adaptation of Nazuna Miki s Tensei Goblin dakedo Shitsumon Aru? (So What s Wrong with Getting Reborn as a Goblin?) manga announced supporting cast on Sunday. The anime series is scheduled to premiere on October 5 at 10.00 p.m. on Tokyo MX, followed by broadcasts on BS11, Sun TV, and AT-X. Cast Sandaime Hanzou: Junko Takeuchi (Haigakura) Nanadaime Hanzou: Mariya Ise (Made in Abyss) Rokudaime Masamune: Rin Mizuki (Tomodachi no Imouto ga Ore...
 
-### New Magic Knight Rayearth Unveils Additional Cast, Theme Songs, Second Promo, 2 Consecutive Cours
+### New Magic Knight Rayearth TV Anime Unveils Additional Cast, Theme Songs, Second Promo, 2 Consecutive Cours
 Sat, 19 Sep 2026 22:08:35 -0700 — https://myanimelist.net/news/74738043?_location=rss
 
 The stage event for the new television anime adaptation of CLAMP s Magic Knight Rayearth at the Kyoto International Manga Anime Fair 2026 unveiled additional cast, the theme songs, and a second promotional video on Sunday. The new anime series will run for two consecutive cours beginning on October 7 at 11.45 p.m. on TV Asahi s "IMAnimation W" programming block. Cast Alcyone: Mamiko Noto (Kimi ni Todoke) Ascot: Ayumu Murase (Chainsaw Man) Caldina: Hitomi Ueda (Kekkon Yubiwa...
@@ -160,26 +165,16 @@ Sat, 19 Sep 2026 06:14:49 -0700 — https://myanimelist.net/news/74735782?_locat
 
 The 12th and final episode of Neko to Ryuu (The Cat and the Dragon) ended with an announcement on Saturday that a second season is in production. The series director, Jin-koo Oh drew an illustrations to commemorate the announcement (pictured). The anime series will premiere in 2027. Produced by OLM, the first anime season adapting Amara s fantasy light novel aired in 12 episodes on July 4. Crunchyroll simulcasted the anime with subtitles in multiple languages. Amara began writing the fantas...
 
-### Tougen Anki: Nikko Kegon no Taki-hen Reveals Additional Cast, Theme Songs, First Promo, Split Cours
-Sat, 19 Sep 2026 01:35:58 -0700 — https://myanimelist.net/news/74735385?_location=rss
-
-The official website for the Tougen Anki: Nikko Kegon no Taki-hen (Tougen Anki: Nikko Kegon Falls Arc) television anime revealed additional cast members, a key visual (pictured), the theme songs, and first promotional video on Saturday. The second season adapting Yura Urushibara s action fantasy manga will air in split cours, with the first part debuting on October 2 at 11:30 p.m. on Nippon Television s Friday Anime Night programming block, followed by BS Nippon Television on October 5...
-
-### Shin Oishinbo New TV Anime Announced
-Fri, 18 Sep 2026 23:48:04 -0700 — https://myanimelist.net/news/74735216?_location=rss
-
-A new television anime adaptation of Tetsu Kariya s Oshinbo manga, titled Shin Oishinbo was announced at the Shin-Ei Animation 50th Anniversary special stage at ABEMA Anime Festival 2026 on Saturday, revealing the announcement promotional video. Kariya began writing Oishinbo in Shogakukan s Big Comic Spirits magazine in 1983, featuring art by Akira Hanazaki. Shogakukan published the 111th and latest volume in December 2014. The manga has been on hiatus since May 2014. VIZ Media licens...
-
-### Dengeki Daisy Unveils Additional Cast, Staff, First Promo, 2 Consecutive Cours for Winter 2027
-Fri, 18 Sep 2026 21:54:13 -0700 — https://myanimelist.net/news/74735069?_location=rss
-
-The stage event for the television anime adaptation of Kyousuke Motomi s Dengeki Daisy manga at the Kyoto International Manga Anime Fair 2026 revealed additional cast, staff, a key visual (pictured), and the first promotional video on Saturday. The anime series will air in two consecutive cours beginning January 2027. Cast Souichirou Kurebayashi: Tomokazu Sugita (Sakamoto Days) Riko Onizuka: Yuka Terasaki (Chihayafuru) Masuda: Setsuji Satou (Urusei Yatsura (2022)) Akira: Kouhei Amasaki (Tok...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### From Our TBR Pile… September 2026
+Mon, 21 Sep 2026 09:00:31 +0000 — https://animeuknews.net/2026/09/from-our-tbr-pile-september-2026/
+
+Our reviewers catch up with the latest volumes of The God-Slaying Demon King, Welcome to Demon School! Iruma-kun and other fan favourites…
 
 ### The Devil’s in the Lunch Deals Volume 1 Review
 Sun, 20 Sep 2026 09:00:10 +0000 — https://animeuknews.net/2026/09/the-devils-in-the-lunch-deals-volume-1-review/
