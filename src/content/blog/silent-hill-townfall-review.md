@@ -1,5 +1,5 @@
 ---
-title: "Silent Hill: Townfall"
+title: "Silent Hill: Townfall nails the atmosphere, splits on stealth"
 date: 2026-09-21
 category: Games
 cover: /img/blog/silent-hill-townfall-review/shot-01.jpg

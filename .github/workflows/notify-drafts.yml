@@ -57,7 +57,16 @@ jobs:
             echo "pushed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Fetch requested images for the pending drafts"
-            git push
+            # Rebase before pushing, and retry: the review-title normaliser and
+            # the social jobs also commit on a blog push, so a bare push here
+            # loses the race and fails the run. This is the one push step in the
+            # repo that was still missing the rebase, and on 21 September it is
+            # what failed when the normaliser landed first.
+            for attempt in 1 2 3; do
+              git pull --rebase --autostash && git push && break
+              echo "push race, retrying ($attempt)"
+              sleep $((RANDOM % 4 + 2))
+            done
             echo "pushed=true" >> "$GITHUB_OUTPUT"
           fi
 
