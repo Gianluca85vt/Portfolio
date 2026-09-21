@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-21T16:35:49.862Z
+# Source feeds — harvested 2026-09-21T20:36:27.886Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -16,7 +16,6 @@ Already aired, so a round-up rather than a preview:
 - GamesIndustry.biz — Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion
 - Game Developer — gamescom
 - Game Developer — Tokyo Game Show (TGS)
-- Game Developer — gamescom latam
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -26,10 +25,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Manga and anime next.** 27 articles have gone out since the last one.
+**Write Manga and anime next.** 28 articles have gone out since the last one.
 
-- **Manga and anime** — BROKEN. 27 articles since the last one; quota is one in 6. 4 in the archive of 170.
-- **Film & TV** — owed now. 7 articles since the last one; quota is one in 8, never worse than one in 10. 11 in the archive of 170.
+- **Manga and anime** — BROKEN. 28 articles since the last one; quota is one in 6. 4 in the archive of 171.
+- **Film & TV** — on track. 3 articles since the last one; quota is one in 8, never worse than one in 10. 12 in the archive of 171.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -39,12 +38,12 @@ silently skipping it.
 ## Feeds
 
 - [Manga](manga.md) **owed** — 30 items
-- [Film & TV](film-tv.md) **owed** — 64 items
-- [Games](games.md) — 93 items
-- [Tech](tech.md) — 78 items
-- [3D](3d.md) — 11 items
-- [AI](ai.md) — 3 items
+- [Games](games.md) — 95 items
+- [Tech](tech.md) — 80 items
+- [3D](3d.md) — 13 items
+- [AI](ai.md) — 7 items
+- [Film & TV](film-tv.md) — 65 items
 
-Total: 279 items.
+Total: 290 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

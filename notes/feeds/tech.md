@@ -1,6 +1,16 @@
-# Tech — harvested 2026-09-21T16:35:49.862Z
+# Tech — harvested 2026-09-21T20:36:27.886Z
 
 ## Ars Technica
+
+### Google confirms Gemini models hacked three companies in May 2026
+Mon, 21 Sep 2026 16:57:26 +0000 — https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/
+
+It has become increasingly common for AI firms to announce that their latest and most capable models engaged in unauthorized real-world hacking. Google, which has been slow to release frontier Gemini models in recent months, has been absent from the "rogue AI" conversation until now. Following a Wall Street Journal report, Google has confirmed that Gemini models hacked three companies during a May 2026 test, but the nature of the intrusion isn't as troubling (or impressive) as previous AI hacks. The hack took place during a test conducted by cybersecurity firm Irregular. A collection of Gemini models were taking part in a "capture the flag" exercise intended to test the AI's cybersecurity capabilities in a closed environment. The AI was instructed to retrieve information from a fake company (which shared a name with a real company) within this environment. Irregular was not supposed to allow the model to operate outside its servers, but due to a misconfiguration, Gemini was able to access the Internet. When Gemini started snooping around the web, it targeted real infrastructure instead of the fakes. For one of the three hacks, Gemini simply guessed passwords until it accessed a company's online services. In the other two instances, Gemini searched public software repositories until it found login credentials for companies that had been accidentally included. Read full article Comments ]]>
+
+### Russel Vought will reportedly be given veto power over all NIH grants
+Mon, 21 Sep 2026 16:40:26 +0000 — https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/
+
+On Friday, The Washington Post reported on a contentious White House meeting in which the director of the National Institutes of Health (NIH), Jay Bhattacharya, tried to fend off yet another effort to place funding decisions under political control. The move came from Russell Vought, head of the Office of Management and Budget (OMB), which has sought to limit and control research funds. The Post suggested that Bhattacharya ended up on the losing side of the fight. This initial leak has been confirmed and expanded on by outlets such as The New York Times and Politico . It now appears that the administration is drafting an executive order that would give Vought veto power over every individual grant awarded by the NIH. If at first you don't succeed The NIH is the largest funder of biomedical research on the planet, and its $47 billion budget is larger than that of the next 10 research funders combined. Its funding, distributed largely through grants to academic researchers at universities, supports everything from basic biological research to clinical trials and has helped the biotechnology industry flourish. Read full article Comments ]]>
 
 ### California settles lawsuit against Paramount/Warner merger, angering advocates
 Mon, 21 Sep 2026 16:15:26 +0000 — https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/
@@ -44,6 +54,26 @@ For most of the last century, T. rex was pictured as a sluggish, tail-dragging r
 
 ## The Verge
 
+### California tightens rules on AI data center energy and water use
+2026-09-21T16:29:45-04:00 — https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills
+
+California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times . The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to local power grids and water systems. Other bills included in the package will require proposed data centers to disclose their estimated water use to local governments, along with information about energy efficiency and drought planning. They must also meet certain energy, water, and fuel consumption … Read the full story at The Verge. ]]>
+
+### GM can’t ‘bring back’ Apple CarPlay because it never left
+2026-09-21T13:47:54-04:00 — https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google
+
+Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker made a big deal about removing from its electric vehicles in 2023. Naturally, this led to some confusion about whether GM was "bringing back" CarPlay and Android Auto to its vehicles. Yahoo Finance reported it that way, calling it an "about-face" by the automaker, while Apple Insider 's headline boasted that GM "cave[d]" on its decision to remove the interface from its gas-powered vehicles. Even The Verge 's own commenters were … Read the full story at The Verge. ]]>
+
+### Paramount settles lawsuit blocking $110 billion Warner Bros. merger
+2026-09-21T13:42:15-04:00 — https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement
+
+Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger. According to the proposed consent decree filed with the court, it includes requirements like minimum numbers of theatrical film releases over the next five years, starting with 30 in year one and two, and 32 in the following years, and a commitment to spend at least $300 million more on production in the US compared to what the companies spent in 2025. At least four of the films produced must be i … Read the full story at The Verge. ]]>
+
+### Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content
+2026-09-21T12:35:59-04:00 — https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations
+
+Months after seemingly giving up on Destiny 2 , Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, controversially removing older content from Destiny 2 that players had paid to access. "We understand that removing these experiences had a lasting impact on player trust and enjoyment of Destiny," admits Bungie. "We cannot change the decision we made, but we can acknowledge its impact and do the work to make it right by restoring these important parts of Destiny 's history." All Destiny 2 players will ge … Read the full story at The Verge. ]]>
+
 ### Grab an Xbox controller and a $50 Xbox gift card together for just $80
 2026-09-21T11:13:32-04:00 — https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale
 
@@ -74,27 +104,17 @@ Google and partners are finally announcing the first laptops under the new Googl
 
 Dell’s XPS Googlebook is just one of the devices Google needs to be great. In late 2010, an up-and-coming Google executive named Sundar Pichai took the stage in front of a bunch of reporters and explained that Google had a big new idea about laptops. In the future, he said, the only thing you'd need on your computer was a web browser - that was where all your apps, data, and connections would live going forward. Your computer didn't need much storage, Pichai explained, or any fancy hardware, because the cloud would do the work. The software designed for these new laptops, Chrome OS , was an enormous bet that the web would eventually overtake everything. Chrome OS (which eventually became ChromeOS ) has been, in many … Read the full story at The Verge. ]]>
 
-### I got to see Google s wild ideas about the future of laptops
-2026-09-21T09:00:00-04:00 — https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs
-
-Googlebooks look like fancy Chromebooks at first, but there are interesting software ideas. | Photo: Antonio G. Di Benedetto / The Verge There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever used a Chromebook). But most impressive, it integrates your Android phone with your PC so they feel more like one device. It's the culmination of a series of new ideas that blur the two devices together. After my first look, I went from doubtful to excited by the prospect of Google pulling it all off. After an initial barebones announcement in May, Google is finally launching Googlebooks - its new line of Android-based laptops. The initial five Googlebook models … Read the full story at The Verge. ]]>
-
-### The Mac Mini is still mighty, just not as cheap
-2026-09-21T09:00:00-04:00 — https://www.theverge.com/tech/998006/apple-mac-mini-m6-m5-pro-review
-
-Apple’s little computer gets a little spendy. There are lots of compact desktop computers out there, but none match the Mac Mini's small size and big power. 2024's redesign reduced the Mini to 0.82L, a chassis so minimal you can easily mount it behind a monitor or under a desk. I've used gaming laptop charging bricks that are nearly as large and definitely heavier than this whole computer. But despite being tiny, the Mini maintains a bunch of speedy ports - even a front-facing headphone jack. The 2026 Mini is the first Mac to get Apple's new M6 chip , with more cores - and more kinds of cores - than the outgoing M4 model. Along with that comes another beefier version, replacing the M4 … Read the full story at The Verge. ]]>
-
-### The M5 Ultra Mac Studio tears through our benchmark tests
-2026-09-21T09:00:00-04:00 — https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review
-
-What’s in the box?! Cores. So many cores. | Photo: Amelia Holowaty Krales / The Verge The Mac Studio review unit that Apple sent us to test this year is, put simply, kind of outrageous. It has an M5 Ultra chip with a 36-core CPU and 80-core GPU, 256GB of RAM, and 4TB of storage and costs $12,299. This thing is not for your typical content creation workloads. It's for AI developers and some of the most demanding 3D visual effects houses out there. Frankly, our usual benchmarks aren't cutting it. The latest version of Apple's most powerful computer begins shipping today with new chips and prices that extend even further into the stratosphere. The new Mac Studio uses the same design that's been with us since 2022 , replete wit … Read the full story at The Verge. ]]>
-
-### Googlebooks feel like the first laptops built for Android owners
-2026-09-21T09:00:00-04:00 — https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast
-
-Googlebook OS is a little bit like ChromeOS and a whole lot like Android. There's a good chance that my next laptop will be a Googlebook. If you're an Android user like me, then yours might be too, because Google is making a compelling pitch: The Googlebook does for the Android phone what the MacBook does for the iPhone (and then some). John Maletis, Google's head of laptops and tablets, said at my press briefing that the Googlebooks were designed to "work seamlessly with your Android phone." You can start using an app on your phone then pick it up on the laptop, navigate your phone's files from the laptop, run any phone app from the computer, and manage all your notifications in one place. It's a good pitch. A … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### iPhone 18 Pro Max storage can drop lower than a hard drive at 1.1 MB/s during heavy writes — QLC NAND offers higher capacity but reportedly suffers 38% drop compared to TLC-based Pro
+Mon, 21 Sep 2026 17:34:47 +0000 — https://www.tomshardware.com/pc-components/ssds/iphone-18-pro-max-storage-can-drop-lower-than-a-hard-drive-at-1-1-mb-s-during-heavy-writes-qlc-nand-offers-higher-capacity-but-reportedly-suffers-38-percent-drop-compared-to-tlc-based-pro
+
+Apple’s latest iPhone 18 Pro series went on sale last week, and the company’s decision to use QLC-based NAND for higher-capacity storage variants appears to come with a trade-off. Bilibili channel Homolab recently tested a 1TB iPhone 18 Pro Max and found that its storage performance can drop significantly under sustained heavy workloads. Since QLC stores four bits of data per memory cell when compared to three bits with TLC, it allows manufacturers to offer higher capacities using the same physical space. However, this higher storage density comes at the cost of slower performance, particularly when handling large amounts of data. Tom's Hardware Premium Roadmaps (Image credit: Future) Leading-edge foundry roadmaps Nvidia Enterprise GPU and CPU roadmap AMD's Enterprise GPU and CPU roadmap Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push Co-Packaged Optics (CPO) foundry roadmaps Homolab compared the 1TB QLC-based iPhone 18 Pro Max with a 512GB TLC-based iPhone 18 Pro. While both storage types perform fairly similarly in 4K read tests, the QLC model falls behind by 38% in a low-queue-depth mixed workload, scoring 8,168 compared to 11,285 for the TLC model. Under heavier workloads, the gap narrows, although the TLC storage model still maintains a 12% advantage. The drop in performance is even more apparent when it comes to sustained write tests. The iPhone 18 Pro Max uses a fast SLC cache that can deliver speeds of up to 3,000 MB/s. Once that cache
+
+### Get the world’s fastest gaming CPU and a DLSS 5-capable GPU in a gaming PC for $2,299 — fully loaded powerhouse sports Ryzen 7 9800X3D, RTX 5080 Founders Edition, 32GB RAM, and 1TB SSD
+Mon, 21 Sep 2026 17:19:27 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/get-the-worlds-fastest-gaming-cpu-and-a-dlss-5-capable-gpu-in-a-gaming-pc-for-usd2-299-fully-loaded-powerhouse-sports-ryzen-7-9800x3d-rtx-5080-founders-edition-32gb-ram-and-1tb-ssd
+
+Powered by a Ryzen 7 9800X3D and a GeForce RTX 5080 Founders Edition, the $2,299 CyberPowerPC SLC8500WST is one of the best gaming prebuilt deals on the market right now. A custom GeForce RTX 5080, which starts at $1,579, and the $449 Ryzen 7 9800X3D already add up to $2,028. In today’s market, there is no way you will find 32GB of DDR5 memory and a 1TB PCIe 4.0 SSD for $271, much less put together an entire system. Check out the CyberPowerPC gaming PC deals at Walmart The Ryzen 7 9800X3D needs no introduction. The octa-core Zen 5 chip with 96MB of L3 cache has been on the market for two years now and still reigns as the best CPU for gaming. Although Intel and AMD have released many processors, nothing comes close to the Ryzen 7 9800X3D in terms of performance and gaming value that the Zen 5 processor offers. Meanwhile, Nvidia's GeForce RTX 5080 Founders Edition , one of the best graphics cards , joins the Ryzen 7 9800X3D in the SLC8500WST to deliver strong 4K (3840x2160) performance and exceptional frame rates at lower resolutions. It is worth noting that it is the Founders Edition, a coveted model that is rarely available on the market anymore, even if you are willing to overpay for it. It comes with DLSS 5 support, as well, and we've found solid DLSS 5 performance on the RTX 5080 in our testing. SLC8500WST Gaming PC: was $2299 now $2299 The SLC8500WST is a solid 4K gaming machine with the best gaming processor on the market right now and a formidable GeForce RTX 5080 Found
 
 ### Local opposition blocked 45 data center projects worth $68 billion in the second quarter of 2026 — data center investments reportedly still on track to hit $32 trillion by 2050
 Mon, 21 Sep 2026 16:00:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/local-opposition-blocked-usd68-billion-worth-of-data-center-projects-in-the-second-quarter-of-2026-data-center-investments-reportedly-still-on-track-to-hit-usd32-trillion-by-2050
@@ -146,17 +166,22 @@ Mon, 21 Sep 2026 13:00:00 +0000 — https://www.tomshardware.com/pc-components/g
 
 The developers of the open-source PlayStation 3 emulator RPCS3 are celebrating finding a workaround for an Nvidia driver bug. The social media celebration stems from their testing showing that some PC configurations with Nvidia GPUs can enjoy up to 37% faster gaming performance. That’s more than a small wrinkle that’s been ironed out. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC More RPCS3 performance on NVIDIA GPUs!Yahfz found a workaround for an @NVIDIA driver bug that was bottlenecking performance.In this boat test scenario:13900K + RTX 3080: +20% FPS9800X3D + RTX 5090: +25% FPSAMD GPU drivers do not have this bug, thus seeing no change. pic.twitter.com/BRad9Ayesf September 16, 2026 We don’t know the exact nature of the Nvidia driver bug here, but the RPCS3 devs say that it bottlenecks the performance of their PS3 emulator. The first example cited provides two PC configurations running Red Dead Redemption in a scene featuring a paddle steamer. This is a popular ‘benchmarking’ scene focused on the Blackwater docks in the game, featuring relatively consistent camera paths and water effects. RDR boat test Configuration Performance uplift System 1 13900K + RTX 3080 20% FPS System 2 9800X3D + RTX 5090 25% FPS Those are very gratif
 
-### Apple Mac Studio (M5 Ultra) review: Local model citizen outpaces DGX Spark and Threadripper
-Mon, 21 Sep 2026 13:00:00 +0000 — https://www.tomshardware.com/desktops/mini-pcs/apple-mac-studio-m5-ultra-review
-
-Earlier this year, Apple discontinued the Mac Pro , leaving the Mac Studio as its top-end desktop. With the new M5 Ultra chip, Apple's relatively diminutive system is more than ready to take on the mantle. While you might not have a ton of PCIe connections and both RAM and storage are set, the Studio offers a ton of ports for accessories, monitors, and peripherals, memory options up to 256GB (with 512GB coming later), and a clean, quiet design. Starting with an M5 Max at $2,499, the Mac Studio could be poised as a creator system for video editors, photographers, or game designers. At $12,299 as tested with the top-end M5 Ultra, 256GB of unified memory, and 4TB of storage, it effectively becomes an enterprise device, possibly a remote server, that could handle any task with aplomb, including local AI. Design of the Mac Studio (2026) Apple hasn't made any changes to the Mac Studio's design. It's a silver, squared-off block that's 7.7 x 7.7 inches on your desk that stands 3.7 inches tall. The aluminum chassis has a shiny Apple logo on the top. The M5 Ultra version we tested weighs 8 pounds, a 2-pound increase over the M5 Max variant. This is largely because the M5 Max version uses a cooler with a thin aluminum stack and a copper heat pipe, while the M5 Ultra uses a heavier copper fin stack and a copper vapor chamber. Tom's Hardware Tom's Hardware The back of the system is also home to the power button, as well as a bunch of air holes for exhausting heat. (Image credit: Tom's Har
-
-### Hands-on with Googlebooks — Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices
-Mon, 21 Sep 2026 13:00:00 +0000 — https://www.tomshardware.com/laptops/hands-on-with-googlebooks-five-models-the-new-googlebook-os-and-a-mac-style-experience-for-android-users-at-premium-prices
-
-After a brief tease back in May , Google is detailing its lineup of Googlebooks, its new line of laptops designed to serve as premium systems that work best with Android phones and deliver unique abilities through Gemini. At an event ahead of the launch, Sameer Samat, Google's president of the Android ecosystem, said that the device's new OS would pull from the best aspects of ChromeOS and Android to design a modern (Image credit: Google) The systems are available for pre-order today and will land in stores on October 4 in the U.S. and October 5 in Canada, the U.K., Ireland, France, Germany, and Australia. Googlebook hardware The first five Googlebooks come from five partners: Dell, Lenovo, HP, Asus, and Acer, and offer silicon from either Intel or Qualcomm. MediaTek is also listed as a partner, but its chips aren't in the first wave of devices. These devices are clearly designed to go after the MacBook Air and premium Windows laptops, using materials like aluminum, magnesium, and carbon fiber rather than plastic. The screens are all high-resolution, with several 2880 x 1800 OLED screens. Most of the lineup has haptic touchpads. Google has set a floor of 16GB for RAM, with several of the options offering up to 32GB. 256GB is the minimum for storage, though many go up to 512GB, and Dell and HP go up to 1TB. HP Googlebook 14 Dell XPS Googlebook Lenovo Googlebook 15 Acer Googlebook 14 Asus Googlebook 14 CPU Qualcomm Snapdragon X Elite X1E-80-100 Qualcomm Snapdragon X Elite Intel
-
 ## Phoronix
+
+### Gravity Linux Aims To Provide A Nice Experience For Apple M4 & Newer
+Mon, 21 Sep 2026 15:58:02 -0400 — https://www.phoronix.com/news/Gravity-Linux-M4-Mac-Mini-Alpha
+
+There's a new Linux distribution focused on supporting Linux on Apple Silicon Macs. Gravity Linux is this new distribution that is a spin of Fedora Remix and is catering to the still-experimentally-supported Apple M4 Macs and newer. In addition to leveraging Asahi Linux code and reverse engineering, Gravity Linux also leverages OpenAI Codex and Claude Code...
+
+### Patches Posted For Enabling Apple Silicon Mac Speaker & Headset Jack Support On Linux
+Mon, 21 Sep 2026 14:03:01 -0400 — https://www.phoronix.com/news/Apple-Mac-Speaker-Headset-Linux
+
+While the downstream Asahi Linux kernel has offered working speaker support and headset jack capabilities on Apple Silicon Macs, the mainline Linux kernel hasn't supported this functionality. But a set of 28 patches sent out today on the Linux kernel mailing list are working toward mainlining this important functionality for using Apple Macs on the upstream Linux desktop...
+
+### Nebula Matrix Network Driver Queued Ahead Of Linux 7.4
+Mon, 21 Sep 2026 13:23:27 -0400 — https://www.phoronix.com/news/Nebula-Matrix-NIC-Linux-7.4
+
+NBL is a new Ethernet networking driver destined to premiere in the upcoming Linux 7.4 kernel for supporting Nebula Matrix NICs...
 
 ### AMD EPYC Server Performance Up ~8% Geo Mean For 2026 With Linux Kernel Improvements
 Mon, 21 Sep 2026 11:00:00 -0400 — https://www.phoronix.com/review/linux-618-73-amd-epyc
@@ -203,22 +228,37 @@ Sun, 20 Sep 2026 14:19:12 -0400 — https://www.phoronix.com/news/Linux-7.3-rc4-
 
 Ahead of the Linux 7.3-rc4 kernel release due out in the coming hours, an important batch of x86/x86_64 fixes have been merged to address a few outstanding issues...
 
-### Gzip 1.15 Released With Many Bug Fixes For Issues Present Since Its Inception
-Sun, 20 Sep 2026 10:32:12 -0400 — https://www.phoronix.com/news/Gzip-1.15-Released
-
-Gzip 1.15 is out today for succeeding the Gzip 1.14 release from April 2025. With this release comes a number of fixes for bugs present since the beginning of Gzip...
-
-### KDE To Focus On Next-Gen Styling, Better Documentation & KDE For Enterprise
-Sun, 20 Sep 2026 08:32:29 -0400 — https://www.phoronix.com/news/KDE-Goals-To-2028
-
-At the KDE Akademy 2026 conference going on right now in Graz, Austria the three KDE goals for the next two years were unveiled...
-
-### AI-Assisted Starling Desktop Introduces 3D View With "Walkable 3D Waterfront City"
-Sun, 20 Sep 2026 06:49:28 -0400 — https://www.phoronix.com/news/Starling-0.5-3D-Desktop
-
-From a few months ago you may recall Starling as the new Linux desktop written with its own Wayland compositor, using the Swift programming language, and written in large part via AI with Claude Code. Out today is Starling 0.5 with this desktop now gaining an optional 3D desktop mode...
-
 ## The Register
+
+### Treasury chief says AI bosses, not their bots, will carry the can for criminal acts
+Mon, 21 Sep 2026 21:10:53 +0200 — https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965
+
+The US appears to be inching ever so slowly toward holding AI executives legally liable for their models’ criminal activities. Treasury Secretary Scott Bessent told CNBC on Monday: “It is the humans who are responsible, not the AI,” for the bots’ bad behavior. “The Hugging Face incident is the responsibility of the OpenAI management, not a bunch of agents." He also referenced current and former OpenAI and Anthropic employees’ dire warnings about AI eradicating humanity by the end of the decade. Meanwhile, the model makers' proposed framework to slow AI development omits strict legal liability for damages caused by rogue systems. “A sitting employee came out, said there's a 10 percent chance of an extinction-level event,” Bessent said. “But then the labs also said, take the liability off of our hands, and we will not do that.” Bessent’s remarks come as four of America’s leading AI developers have now admitted that their agents escaped testing environments and hacked outside organizations and individuals: OpenAI, Anthropic, Meta, and, as of Friday, Google. When asked how the government will hold humans accountable for the AI agents’ criminal activities, Bessent said: “If these were humans doing it, we would expect to see ramifications and legal actions to follow." "That's exactly what I think we need to do,” he said. “When President Trump talked about appointing an AI czar, I think it is to put context, shape, and contours around these questions, and they're very important." Tr
+
+### Google smacks forehead, realizes $899+ thin-and-lights were what it was missing
+Mon, 21 Sep 2026 20:47:52 +0200 — https://www.theregister.com/personal-tech/2026/09/21/google-smacks-forehead-realizes-899-thin-and-lights-were-what-it-was-missing/5297947
+
+Google is trying once again to escape the Chromebook reputation for cheap, chintzy hardware and compromised computing. $899 for a glorified web terminal isn’t exactly the easiest sell, but that’s not stopping the search and advertising giant from trying. On Monday, Google unveiled five new Googlebooks in collaboration with Dell, HP, Lenovo, Acer, and Asus. Googlebook, if you aren't familiar, is what Google describes as a new category of laptops, rather than a Chromebook or a rebranding of one. With that said, some familiar software limitations remain. A major emphasis has, however, been placed on premium materials and components like aluminum or magnesium alloys, carbon fiber, haptic trackpads, high-resolution touchscreens, and speedy high-end processors. With prices starting at $899, Google is clearly trying to woo would-be Apple MacBook Neo buyers, with similarly premium build quality, while sweetening the deal with more memory and compute. Under the hood, the initial machines offer a choice of Intel Core Ultra 5 or Qualcomm Snapdragon X Elite processors, paired with 16 GB of RAM and 512 GB of storage. MediaTek is also on tap to supply SoCs for the systems. While best known for its budget-friendly mobile processors, its notebook-class parts, including Nvidia’s GB10-based RTX Spark APU, have proven quite potent. But while Google’s launch announcement touts “a baseline of 16GB” of memory, that actually appears to be the only config available for pre-order. It’s also worth not
+
+### London neocloud Nscale takes its $1B loss to Wall Street
+Mon, 21 Sep 2026 19:15:00 +0200 — https://www.theregister.com/on-prem/2026/09/21/london-neocloud-nscale-takes-its-1b-loss-to-wall-street/5297824
+
+London-based neocloud Nscale has filed to go public on the New York Stock Exchange after expanding rapidly on the back of the AI infrastructure boom. The rent-a-GPU business, which emerged from cryptocurrency miner Arkon Energy, filed a Form S-1 registration statement with the US Securities and Exchange Commission (SEC) on Friday. It intends to list under the ticker NSCL. The document does not specify the number of shares it'll offer, their expected price, or the valuation Nscale hopes to achieve.The Financial Times previously reported that the company was targeting a valuation of up to $35 billion. The filing shows how costly Nscale's expansion has been. Revenue surged from $10.4 million to $140.6 million in the six months to June 30, but its net loss widened from $368.9 million to $1.02 billion over the same period. Nscale reported $103.4 billion in active and contracted total contract value (TCV) as of August 31, up from $38 billion at the end of 2025. That figure is not recognized revenue or a conventional backlog: only $2.6 billion was attached to active contracts, and delivery of the remainder depends on projects being financed and built. Agreements with Anthropic account for up to circa $44.6 billion, although Nscale warned it had not secured binding commitments for the financing required to fulfill them. Goldman Sachs and Morgan Stanley are acting as lead bookrunners for the offering. Nscale, which operates datacenters in Europe and the US, describes itself as a full-
+
+### AI can't outprompt a shortage of power, water, and land
+Mon, 21 Sep 2026 18:35:00 +0200 — https://www.theregister.com/on-prem/2026/09/21/ai-cant-outprompt-a-shortage-of-power-water-and-land/5297811
+
+AI infrastructure growth is running into limits on energy, water, and land, according to researchers at Forrester, which predicts governments will increasingly make datacenter operators pay for the resources they consume. Governments, utilities, datacenter operators, and enterprises will have to rethink how that growth is funded, managed, and regulated, the firm said in its 2027 sustainability predictions. The scale of the infrastructure buildout needed to support AI across businesses, governments, and consumer services is beginning to emerge. Earlier this month, PwC put cumulative global datacenter capital expenditure through 2050 at between $22 trillion and $50 trillion, with a central estimate of $31.6 trillion – roughly equivalent to a year of US economic output. Whether grids and communities can support those ambitions is another matter. "Unlimited AI ambition faces a reckoning with limited resources," Forrester said. Forrester predicts that governments and utilities will require datacenter operators to finance grid upgrades, pay for reserved capacity, and provide guarantees against speculative demand. It also expects community impact reviews to become a gate that new projects must pass before construction. Forrester senior analyst Abhijit Sunil explained the reasoning in a blog post: "With unprecedented growth demands, utilities cannot assume that every proposed datacenter will arrive on schedule or consume its promised load. Building generation and transmission for spe
+
+### AWS bolts together open source agent harness, says it sips fewer tokens than rivals
+Mon, 21 Sep 2026 18:00:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/21/aws-bolts-together-open-source-agent-harness-says-it-sips-fewer-tokens-than-rivals/5297915
+
+AWS has entered the open source agentic AI game, claiming its new Strands harness matches rivals on benchmarks while using around a quarter fewer tokens. The Strands harness, as its name suggests, is built on AWS’ Strands Harness SDK, but is packaged up and ready to roll out of the box, either locally or deployed to work with whatever AI provider a customer prefers. "The moment you build your own agent, you're on your own," AWS noted in its announcement. "It's tricky wiring up the right primitives just well enough to match that ‘it just worked’ feeling." This new open-source option means that 'all you need is one line of Python or TypeScript to get it working with your choice of model," AWS adds. On top of being relatively plug-and-play in design, AWS claims the Strands harness achieved "nearly equal benchmark scores" versus Claude Code, Codex, and “other popular harnesses” when tested using the Harbor framework, distributed across multiple nodes of AWS’ own EC2 virtual servers for benchmarking tests. Strands consumed 28 percent fewer tokens across six benchmark tests when compared to “Claude or GPT models,” claims AWS, and in some cases had better accuracy than other harnesses too. DeepSeek's harness, AWS admits, was more token efficient but - we're told - was less accurate on the same tests. AWS credits this performance to the Strands harness’ default prompt caching and context management settings. Per the announcement post, it defaults to truncating tool results over 1,500
+
+### RansomHouse picks a fight with Namibia's defense establishment
+Mon, 21 Sep 2026 17:19:06 +0200 — https://www.theregister.com/cyber-crime/2026/09/21/ransomhouse-picks-a-fight-with-namibias-defense-establishment/5297816
+
+Namibia's computer security incident response team has confirmed unauthorized activity in the defense ministry's network and linked it to the RansomHouse cybercrime group. In an unusually direct attribution, NAM-CSIRT named the group after RansomHouse listed the supposed victim on its leak site on September 16. RansomHouse identified the victim as the "Namibian Defence Force," although the domain in its listing belongs to the Ministry of Defence and Veterans Affairs (MODVA), the government department overseeing the military. Either way, openly extorting a country's defense establishment is a bold move even by ransomware standards. RansomHouse's website stated: "Dear management of Namibian Defence Force. We were waiting for you for quite some time, but it seems that your IT department decided to conceal the incident that took place in your company. "We strongly recommend you to contact us to prevent your confidential data, projects documents from being leaked." The listing treated the target as a company with $434 million in annual revenue, but NAM-CSIRT subsequently confirmed unauthorized activity within MODVA's network. NAM-CSIRT said in a statement: "Analysis of the affected systems established that the incident is associated with the RansomHouse ransomware group, a cybercriminal syndicate known internationally for deploying ransomware and engaging in so-called double extortion tactics where threat actors encrypt systems while simultaneously threatening to disclose alleged 
 
 ### Schneider says hotter coolant can make AI datacenters less thirsty
 Mon, 21 Sep 2026 16:29:00 +0200 — https://www.theregister.com/on-prem/2026/09/21/schneider-says-hotter-coolant-can-make-ai-datacenters-less-thirsty/5297759
@@ -250,37 +290,52 @@ Mon, 21 Sep 2026 12:33:00 +0200 — https://www.theregister.com/security/2026/09
 
 The Rust project has warned that attackers appear to be targeting its contributors and crate owners in an attempt to compromise their devices and accounts, potentially allowing malware to be distributed through its package ecosystem. Posting to the Rust blog, security-focused software engineer Adam Harvey said the tactics resemble those used in North Korean fake recruiter campaigns. "A video call is set up for something positive – maybe for a job, maybe for a project, maybe for a contract opportunity – and then that's used as a vector to either get the target to install something on their computer (such as a purportedly missing audio codec) or execute another command (for example, via putting a command on the clipboard)," Harvey wrote. "These attackers are setting up new but legitimate-seeming company profiles, including plausible LinkedIn presences, in order to pass cursory inspection." The warning follows several attacks targeting the Rust community over the summer. In June, Rust developers were targeted with fake interview approaches purporting to come from a Singaporean venture capital firm. Matt Mastracci, who maintains packages on Rust's crates.io registry, said the supposedly recruiting business turned out to be defunct. The initial approach nevertheless appeared convincing and almost led to his machine being infected with a remote access trojan (RAT). The attempted deployment of a RAT resembles activity described in an international advisory issued last week by agenci
 
-### It's raining, the transport isn't working, and now an Android app wants to walk out in solidarity
-Mon, 21 Sep 2026 11:45:00 +0200 — https://www.theregister.com/offbeat/2026/09/21/its-raining-the-transport-isnt-working-and-now-an-android-app-wants-to-walk-out-in-solidarity/5297494
-
-It rained in Amsterdam last week. There was a 24-hour public transport strike. And something called LOTA stopped working in the elevators of the Mövenpick hotel. Digital signage in elevators is all the rage nowadays. Where once there might have been peeling menus or faded posters extolling the virtues of long-closed bars, there are now displays trying to grab the attention of elevator passengers who want to get from one floor to another with minimal fuss. We're not sure if LOTA decided to walk out in sympathy with the public transport workers. In fact, we're not one hundred percent sure what LOTA is, although AG Neovo is notable for its digital signage and video wall displays. "Future-proof, Reliable and Durable" are cited as reasons for using its wares, although we'd argue that a pop-up bleating about an app having a bad day means that at least one of those reasons is perhaps not the whole truth. Still, using Android as the operating system seems a better choice than some of the examples of digital signage we've seen over the years. Compared to a Paris elevator running what would otherwise be a useful PC in order to sling ads at passengers, this Dutch hotel has opted for something considerably lighter weight. Sure, Android undoubtedly has its own issues with bloat, but compared to Windows, it is positively featherweight. The elevator didn't hang around long for us to find out what would happen if we jabbed the "Close app" link. At least, we think it was a link – the vagaries
-
-### Salesforce wants to charge for AI outcomes, but first it needs to figure out how
-Mon, 21 Sep 2026 11:07:00 +0200 — https://www.theregister.com/software/2026/09/21/salesforce-wants-to-charge-for-ai-outcomes-but-first-it-needs-to-figure-out-how/5297402
-
-Nothing demonstrates how deeply Fortune 500 companies depend on Salesforce quite like a global outage lasting more than seven hours. The interruption struck during the second day of last week's Dreamforce conference, where the $40 billion-a-year SaaS vendor was pitching AIforce and a growing collection of AI products. The question now is how the company will charge for them. AIforce illustrates why the per-user licensing model is becoming harder to sustain. Unveiled at Dreamforce, it uses Salesforce's Headless Toolkit to make the company's data, workflows, and business logic available through interfaces including Slack and Claude. When AI agents and APIs perform the work instead of named human users occupying seats, charging per user becomes a less natural fit. Earlier this month, Bill Patterson, executive veep and general manager of CRM applications, told an investor webinar that Salesforce was devising "a new pricing structure that really aligns to the benefits that customers realize from this new technology." Under one such arrangement, AI customer service agents would be priced according to the cases they resolve. Outcome-based pricing will not suit every use case, however. Patterson acknowledged that some agents operate across multiple disciplines, domains, and products, making it difficult to identify a single measurable result. Salesforce is therefore also developing bundles and using Flex Credits to charge customers according to consumption. The company has reason to 
-
-### Your cloud survived everything except the real world
-Mon, 21 Sep 2026 10:03:00 +0200 — https://www.theregister.com/columnists/2026/09/21/your-cloud-survived-everything-except-the-real-world/5297423
-
-You don't know what you've got till it's gone. Great lyric, lousy data retention policy. Amazon Web Services said last week that war damage to its Middle East infrastructure had permanently destroyed resources and data hosted exclusively in its now rather badly named Bahrain Availability Zones. The damage overwhelmed the resilience built into the region. Customers without copies elsewhere no longer had their data. Sorry about that. This may have surprised anyone who mistook cloud redundancy for an intrinsic guarantee of safety. AWS is far from the only American operation to have suffered in the region: the US Navy has reportedly had its local maintenance and supply network badly mauled, with serious consequences for its operations. If systems designed to withstand war cannot cope with sustained physical attacks, civilian bit barns have little chance. The episode also underlines a familiar but easily neglected lesson: resilience within one cloud region is not the same thing as maintaining an independent backup elsewhere. Physical destruction is not the only threat. A major outage of the UK air traffic control system in September, which stranded hundreds of thousands of passengers and led to thousands of flight cancellations, was reportedly triggered by a military aircraft filing an incompatible flight plan. Presumably Flight Lieutenant Bobby Tables has been reprimanded. The apparent failure to validate the flight plan data was not the worst of it. NATS, which runs the UK's air
-
-### VMware has quietly walked back its SmartNIC ambitions
-Mon, 21 Sep 2026 09:02:00 +0200 — https://www.theregister.com/virtualization/2026/09/21/vmware-has-quietly-walked-back-its-smartnic-ambitions/5297654
-
-VMware has quietly stopped selling firewalls for SmartNICs. SmartNICs, aka data processing units (DPUs), are network cards that include a modest processor. Hyperscale clouds routinely use the devices to handle security and networking chores, by running network functions as VMs on the SmartNIC’s processor. Cloud operators like SmartNICs because they free CPU cores to rent to their customers. Running some housekeeping workloads on SmartNICs can also improve isolation and security – AWS often points to the benefits of its “Nitro” system which relies on SmartNICs. VMware’s push into private cloud assumed that its customers wanted an on-prem version of a public cloud – at least in terms of their operating model. Back when it was an independent company, VMware guessed that its customers would also appreciate borrowing from hyperscalers’ approach to hardware and therefore adapted its hypervisor to run on the SmartNICs so they could host network functions. It also created a version of its NSX distributed firewall to run on the devices. At its VMware Explore conference earlier this month, Umesh Mahajan, vice president and general manager of Broadcom's application networking and security division, said the virtualization giant has “walked back from that space.” Mahajan said VMware was able to get its wares running on SmartNICs from AMD and Nvidia but struggled with Intel hardware. The effort was non-trivial, Mahajan said, because it involved microcode. Once VMware got its product worki
-
-### Boss bought cheap 'printer' from a catalog and was left without a leg to stand on
-Mon, 21 Sep 2026 08:30:00 +0200 — https://www.theregister.com/personal-tech/2026/09/21/boss-bought-cheap-printer-from-a-catalog-and-was-left-without-a-leg-to-stand-on-1/5297373
-
-Working in tech can produce a catalog of woes, and each Monday The Register shares yours in "Who, Me?" – our reader-contributed column chronicling tech-related mistakes, heartaches, and back-breaks. This week, meet an Italian reader we'll Regomize as "Marco," who took us back to what he called "The Roaring Nineties, when big computer companies sold pretty much everything, from graphics workstations to enterprise laser printers." They sold it all through hefty paper catalogs, because this was before broadband and Marco's company had only a 19k baud dial-up connection. Marco's boss, whom he described as a "sciagurato" – Italian for a wretch – kept one of those catalogs on his desk. "He perused it every day, like a kid waiting for Christmas," Marco told The Register. "One day he found an exceptional laser printer at almost one-seventh the cost. It was such a good a deal he ordered two of them." Marco said the boss told anyone who would listen that this feat of cost-cutting would surely propel him out of the tech team and into management. "The wiser among us were already counting the days until the disaster," Marco wrote. Disaster duly arrived with the delivery. "When the courier delivered the printer, it came in two huge packages, but not big enough for a laser printer," Marco observed. After wrestling with the packaging, the horrible truth emerged. "Our boss had bought two laser printer stands," Marco wrote, "because the catalog showed the stands with the printer on top." The c
-
-### Failed networking vendor Cambium set to turn off its cloudy management portal
-Mon, 21 Sep 2026 07:17:02 +0200 — https://www.theregister.com/networks/2026/09/21/failed-networking-vendor-cambium-set-to-turn-off-its-cloudy-management-portal/5297647
-
-Networking hardware vendor Cambium Networks has entered administration and advised customers that its cloud services likely won’t survive for long. The company has not been in the best of health for some time. In August 2025, management admitted that its financial reports for financial years 2022 and 2023, plus reports for six subsequent quarters, were unreliable as they included errors. The NASDAQ stock exchange later delisted the company, which unsuccessfully tried to rejoin the bourse. In May, a filing [PDF] revealed that the company’s officers had “substantial doubt about our ability to continue as a going concern.” Sadly, they appear to have been correct, as last week the company published another filing [PDF] revealing it had let go of 260 staff – 53.6 percent of its workforce – without any severance payments. A statement [PDF] soon followed, revealing the appointment of administrators in the UK, and an end to production of the company’s Wi-Fi access points, NSE firewalls, and cnMatrix switches. “At this point, it is anticipated that the fixed wireless broadband business will largely resume after a relatively short pause,” the statement reveals. While administrators try to stabilize the bits of the biz they think are worth saving, distributors are free to offload any existing products in their possession. Administrators will try to sell Cambium’s own stock of products. So far, so fire sale. But the statement includes another important line: “The intention is that cnMaes
-
 ## Engadget
+
+### Does your iPhone's Safari browser privacy features actually make you safer?
+Mon, 21 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2261254/do-safari-privacy-features-keep-iphone-safe/
+
+Safari on iPhone is more private than many other browsers by default, but it can't keep your information safe from everything.
+
+### The EU will force data centers to disclose their energy and water use
+Mon, 21 Sep 2026 19:53:53 +0000 — https://www.engadget.com/2264607/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use/
+
+The EU has proposed a sustainability labeling system ahead of bringing in minimum data center performance standards.
+
+### X now tells users when local laws have reduced their posts' visibility
+Mon, 21 Sep 2026 19:44:35 +0000 — https://www.engadget.com/2264585/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility/
+
+The latest addition to X's Under the Hood feature could stave off claims around shadowbanning.
+
+### Here's why Apple's Mac Studio has become so expensive
+Mon, 21 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2264291/why-apple-mac-studio-so-expensive/
+
+A big part of the story is soaring memory and storage prices, but other factors come into play as well.
+
+### Paramount settles US states' antitrust lawsuit, clearing the way for its Warner Bros. acquisition
+Mon, 21 Sep 2026 18:28:27 +0000 — https://www.engadget.com/2264474/paramount-settles-us-state-antitrust-lawsuit-clearing-warner-bros-acquisition-plans/
+
+The mega-merger of the year will apparently go forward.
+
+### How the iPhone Duo's software is different from a standard iPhone
+Mon, 21 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2261250/iphone-duo-vs-standard-software-differences/
+
+The iPhone Duo makes some big changes to iOS to account for the foldable design. It affects the camera, multitasking and more.
+
+### If you don't like using Siri, this iOS 27 feature may change your mind
+Mon, 21 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2261133/dont-like-siri-ai-ios-27-feature-may-change-mind/
+
+Siri has long been known for its stagnation, but that changes with iOS 27 and accompanying releases. Siri has undergone major improvements.
+
+### Tesla will soon roll out FSD Supervised in the Czech Republic
+Mon, 21 Sep 2026 17:17:02 +0000 — https://www.engadget.com/2264292/tesla-will-soon-roll-out-fsd-supervised-in-the-czech-republic/
+
+Its foothold in the EU may be growing, but larger countries are still wary of the self-driving tech.
+
+### Engadget Indie Pitch: Dressmaker
+Mon, 21 Sep 2026 17:00:00 +0000 — https://www.engadget.com/2264203/engadget-indie-pitch-dressmaker/
+
+The viral indie game Dressmaker hits Steam today, so here's a juicy QA with the dev team at Cozy Lives.
 
 ### Google Vs Samsung: What features set their digital wallets apart?
 Mon, 21 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2261083/google-vs-samsung-digital-wallet-features-comparison/
@@ -297,62 +352,57 @@ Mon, 21 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2260782/nintendo-ga
 
 The Game & Watch line was one of Nintendo's most successful early game projects, and the man behind it was inspired from an unlikely source.
 
-### How to choose the right USB to USB-C adapter
-Mon, 21 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2260753/how-to-choose-right-usb-to-usb-c-adapter/
-
-Getting an adapter can open up a world of connectivity and charging options, but specs and brand matter quite a lot. Here's what to look for.
-
-### Google fined $463 million for breaching EU location data rules
-Mon, 21 Sep 2026 14:31:22 +0000 — https://www.engadget.com/2263850/google-fined-dollar463-million-for-breaching-eu-location-data-rules/
-
-Hardly the first time it's run afoul of EU regulations.
-
-### PS5 vs PS5 Digital Edition: which is the better buy?
-Mon, 21 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2260707/ps5-vs-ps5-digital-version-which-is-better-buy/
-
-The PS5 has both disc-based and digital-only consoles; the right one for you depends on how you play your games and what else you use the console for.
-
-### Petivity's new smart feeder asks the question 'what if Flock, but for cats?'
-Mon, 21 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2262397/petivity-new-smart-cat-feeder-asks-the-question-what-if-flock-but-for-cats/
-
-In all seriousness, this smart feeder could be quite handy for multi-cat households.
-
-### What typically uses the most data on a smartphone?
-Mon, 21 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2260677/what-uses-most-data-smartphone/
-
-Unless it's connected to Wi-Fi all day every day, your smartphone is using up data almost constantly. Here's where your data is going.
-
-### USB-A vs. USB-C: What's the difference between them?
-Mon, 21 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2260628/usb-a-vs-usb-c-differences-between-explained/
-
-USB-C did away with the annoying requirement to plug in a cable right side up, but USB-A and USB-C have other major differences.
-
-### Google's pitch for Googlebooks: A laptop that works better with your Android phone
-Mon, 21 Sep 2026 13:00:36 +0000 — https://www.engadget.com/2263649/googlebooks-a-laptop-that-works-better-with-your-android-phone/
-
-The first Googlebooks are up for pre-order today and they arrive on October 4.
-
-### Apple Mac Studio (M5 Ultra) review: Huge AI and graphics power at a huge premium
-Mon, 21 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/
-
-At $11,299, the M5 Ultra's extra performance over the M5 Max model is only worth it for select buyers.
-
-### I tried every new Googlebook announced today
-Mon, 21 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2263652/i-tried-every-new-googlebook-announced-today/
-
-The new Googlebooks from Acer, ASUS, Dell, HP and Lenovo cover a variety of sizes and form factors.
-
 ## TechCrunch
+
+### OpenAI forms math advisory group as its AI resolves more than 100 open problems
+Mon, 21 Sep 2026 20:15:58 +0000 — https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/
+
+The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.
+
+### Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket
+Mon, 21 Sep 2026 19:25:00 +0000 — https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/
+
+Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.
+
+### Meta s Muse is outpacing ChatGPT’s early mobile launch
+Mon, 21 Sep 2026 19:19:21 +0000 — https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/
+
+Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.
+
+### Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google
+Mon, 21 Sep 2026 18:23:05 +0000 — https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/
+
+Future Google supplier Kairos Power inked a deal with Samsung C T to help build its first 50-megawatt nuclear power plant.
+
+### Meta s AI agent has been blocked from using Amazon.com
+Mon, 21 Sep 2026 17:55:18 +0000 — https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/
+
+Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?
+
+### X will now tell users when governments have forced it to limit their posts
+Mon, 21 Sep 2026 17:45:35 +0000 — https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/
+
+X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.
+
+### Oura s $2.2B IPO is mostly a payday for existing shareholders
+Mon, 21 Sep 2026 16:45:47 +0000 — https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/
+
+Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.
+
+### With Tabby, a former accountant is using AI to make accountants obsolete
+Mon, 21 Sep 2026 16:38:51 +0000 — https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/
+
+Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.
 
 ### Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026
 Mon, 21 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/
 
-Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25, 11:59 p.m. PT. Register now.
+Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.
 
 ### Google s $899 Googlebook is a bet that you ll buy a new laptop for Gemini
 Mon, 21 Sep 2026 14:39:22 +0000 — https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/
 
-Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.
+Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.
 
 ### From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026
 Mon, 21 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/
@@ -362,45 +412,5 @@ From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 20
 ### Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026
 Mon, 21 Sep 2026 14:15:00 +0000 — https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/
 
-Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competition.
-
-### Corridor raises $25M seed to build a health benefits brokerage for SMBs
-Mon, 21 Sep 2026 13:49:00 +0000 — https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/
-
-Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.
-
-### 6 days left to save up to $200 to TechCrunch Disrupt 2026
-Sun, 20 Sep 2026 21:41:08 +0000 — https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/
-
-Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.
-
-### World model companies are keeping a lot of secrets
-Sun, 20 Sep 2026 20:29:07 +0000 — https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/
-
-Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.
-
-### Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio
-Sun, 20 Sep 2026 19:38:48 +0000 — https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/
-
-Many of The Boring Company's announced projects have not materialized.
-
-### Is the AI industry really ready to slow down?
-Sun, 20 Sep 2026 18:56:04 +0000 — https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/
-
-On Equity, we debated whether AI executives are serious about wanting to slow down.
-
-### Vocci s ring adds a new form factor to meeting note-taking
-Sun, 20 Sep 2026 18:32:52 +0000 — https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/
-
-Vocci's lightweight ring costs $249, and might pose some privacy questions.
-
-### ScrollEd wants to turn textbooks into TikTok
-Sun, 20 Sep 2026 18:00:00 +0000 — https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/
-
-ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.
-
-### New California law will penalize influencers who don t disclose political ads
-Sun, 20 Sep 2026 16:30:00 +0000 — https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/
-
-The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.
+Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.
 

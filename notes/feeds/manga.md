@@ -1,6 +1,46 @@
-# Manga — harvested 2026-09-21T16:35:49.862Z
+# Manga — harvested 2026-09-21T20:36:27.886Z
 
 ## Anime News Network
+
+### KAIJU GIRL CARAMELISE ‒ Episode 12
+Mon, 21 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/kaiju-girl-caramelise/episode-12/.242034
+
+Finding love as a kaiju girl is one thing. Holding onto love as a kaiju girl is another.
+
+### Saint Seiya: Dark Wing, Garagarapom Manga Both End in November
+Mon, 21 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/saint-seiya-dark-wing-garagarapom-manga-both-end-in-november/.242061
+
+Both end in <cite>Champion Red's</cite> January issue on November 19
+
+### French Publisher Kana's Founder Yves Schlirf Dies
+Mon, 21 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/french-publisher-kana-founder-yves-schlirf-dies/.242018
+
+Schlirf founded Kana in 1996, known for publishing <cite>Naruto</cite>, <cite>Yu Yu Hakusho</cite>, <cite>Saint Seiya</cite>, <cite>Monster</cite>, more in French
+
+### Is It Wrong to Try to Pick Up Girls in a Dungeon? Novels Get New Manga
+Mon, 21 Sep 2026 15:30:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-novels-get-new-manga/.242062
+
+tawaketch debuts "Deep Floors" arc manga on October 2
+
+### The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3 ‒ Episode 36
+Mon, 21 Sep 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3/episode-36/.242037
+
+If Rentaro's fantasy of being looooong enough to let all the girls lie on his lap doesn't count as a finale-level event, I don't know what else will.
+
+### K Manga Adds No-Clipping My Way to Supremacy Manga
+Mon, 21 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/k-manga-adds-no-clipping-my-way-to-supremacy-manga/.242026
+
+Hata launched manga adaptation in July 2022
+
+### Comikey Adds Tea Princes, Moon Child, More Manga
+Mon, 21 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/comikey-adds-tea-princes-moon-child-more-manga/.242028
+
+Also: <cite>VTuber Shigemi Kusamura: I'm my Oshi's Favorite</cite>, <cite>Trapped as the Villain in My Favorite Dating SIM: But I Know How to Win over All the Heroines!</cite>
+
+### Sanrio Kawaii Me Live! Rhythm Game Launches for Smartphones in January 2027
+Mon, 21 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/sanrio-kawaii-me-live-rhythm-game-launches-for-smartphones-in-january-2027/.242053
+
+Concept promotional video streamed for Sanrio Games' 1st smartphone game
 
 ### Suikoden II Game Gets Stage Play in July 2027
 Mon, 21 Sep 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/suikoden-ii-game-gets-stage-play-in-july-2027/.242047
@@ -21,46 +61,6 @@ Traumatic "Nintendo Hard" flashbacks included.
 Mon, 21 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/1st-2-lufia-snes-rpgs-get-collection-in-2027/.242046
 
 <cite>Lufia 1 and 2 The Sinistrals Saga</cite> includes 1993 original, 1995 prequel
-
-### One Piece Meets Restaurant Management in One Piece: Grand Gourmet
-Mon, 21 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/one-piece-meets-restaurant-management-in-one-piece-grand-gourmet/.242023
-
-The only fighting you're going to see is the kitchen staff fighting the orders.
-
-### Remow Launches 'It's Anime' Free Ad-Supported Channel on Live TV on PS5, Pluto TV, Prime Video
-Mon, 21 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/remow-launches-its-anime-free-ad-supported-channel-on-live-tv-on-ps5-pluto-tv-prime-video/.242045
-
-Channel reveals 1st original program <cite>Tomodachi Talks</cite> with SungWon Cho, AJ Beckles
-
-### Cupid Parasite Visual Novel Review
-Mon, 21 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/review/game/steam/cupid-parasite-visual-novel/.241997
-
-Lighthearted for the most part but serious when it needs to be, this is a sheer delight.
-
-### Relive Attack on Titan's Greatest Moments in Attack on Titan 3
-Mon, 21 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/relive-attack-on-titan-greatest-moments-in-attack-on-titan-3/.242024
-
-Or get eaten by a Titan while trying.
-
-### New Resident Evil Reboot Film Opens at #1 at U.S. Box Office With US$60 Million
-Mon, 21 Sep 2026 09:06:07 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/new-resident-evil-reboot-film-opens-at-no.1-at-u.s-box-office-with-usd60-million/.242039
-
-Also: <i>The Transformers: The Movie</i> 4K re-release ranked at #8
-
-### From Chainsaw Man to A Silent Voice, Music Composer kensuke ushio
-Mon, 21 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-09-21/from-chainsaw-man-to-a-silent-voice-music-composer-kensuke-ushio/.241550
-
-kensuke ushio sat down with us to talk about his craft and process. He also dived deep into how he compiled the soundtrack for Chainsaw Man – The Movie: Reze Arc and navigates the music business.
-
-### This Week in Mobile Games - The Legend of the Zelda-likes
-Mon, 21 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-09-21/.241691
-
-There have been so many so-called "Zelda-likes" over the years that it'd be a waste of time to try to list them all, but Josh is going to do his best.
-
-### Yuika Performs Promise Me the Spotlight Anime's Opening Song
-Mon, 21 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/yuika-performs-promise-me-the-spotlight-anime-opening-song/.242015
-
-Yuika performs "Nanimono demo nakatta Watashi dakara" opening theme
 
 ## Crunchyroll News
 
