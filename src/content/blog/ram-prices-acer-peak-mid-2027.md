@@ -4,7 +4,6 @@ date: 2026-09-21
 category: Tech
 excerpt: Acer's CEO calls a shortage running to 2030 impossible and says warehouses are full. The same week, CXMT put its fifth-gen DRAM into mass production.
 cover: /img/blog/ram-prices-acer-peak-mid-2027/shot-01.jpg
-draft: true
 ---
 
 Acer's chief executive spent part of last week telling reporters that the people
